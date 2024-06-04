@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [After two years of silence, Metal Slug Tactics returns with a new trailer and a promise that it&#39;s coming this fall](https://www.pcgamer.com/movies-tv/after-two-years-of-silence-metal-slug-tactics-returns-with-a-new-trailer-and-a-promise-that-its-coming-this-fall)
- - [Bad Boys: Ride or Die has a troubling case of franchise cancer](https://www.polygon.com/reviews/24171554/bad-boys-ride-or-die-review-will-smith-martin-lawrence)
- - [I tried to recreate Marvel&#39;s Iron Man in this movie studio sim, and my version was so bad my own father stormed out of the theater](https://www.pcgamer.com/games/sim/i-tried-to-recreate-marvels-iron-man-in-this-movie-studio-sim-and-my-version-was-so-bad-my-own-father-stormed-out-of-the-theater)<!-- GAME:END -->
+ - [Hades 2&#39;s Biggest Early Access Patch Yet Just Made A Bunch Of Weapons Stronger](https://kotaku.com/hades-2-patch-notes-buff-chronos-steam-early-access-1851519615)
+ - [Over 200k Team Fortress 2 Fans Want Valve To Fix The Game](https://kotaku.com/tf2-team-fortress-bots-valve-fan-petition-fix-pc-fixtf2-1851519583)
+ - [Ultrakill dev says it&#39;s fine to pirate his game if you don&#39;t have money to spare: &#39;Culture shouldn&#39;t exist only for those who can afford it&#39;](https://www.pcgamer.com/gaming-industry/ultrakill-dev-says-its-fine-to-pirate-his-game-if-you-dont-have-money-to-spare-culture-shouldnt-exist-only-for-those-who-can-afford-it)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
