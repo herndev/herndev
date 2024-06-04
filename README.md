@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Sixty nine days with her and her husband](http://9gag.com/gag/aLnP46M)
- - ⏩ [Bro persisted one day](http://9gag.com/gag/abAyeR9)
- - 👉 [Now this is what I call good Police work, well done!!](http://9gag.com/gag/a4Pdn7A)<!-- MEMES:END -->
+ - 💣 [Well she&#39;s right](http://9gag.com/gag/avygWKq)
+ - ⏩ [\u201cThis is our country, and we want it back.\u201d](http://9gag.com/gag/an7KRBL)
+ - 👉 [This will be the most downloaded mod for GoWR on PC](http://9gag.com/gag/azxEPDK)<!-- MEMES:END -->
 
 ---
 
