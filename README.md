@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Dude have knees of diamonds](http://9gag.com/gag/a7oyeAe)
- - ⏩ [Pet paw cleaner](http://9gag.com/gag/an7Kvqb)
- - 👉 [Harry Potter and the Loophole of the Snape](http://9gag.com/gag/a5QP6oE)<!-- MEMES:END -->
+ - 💣 [This is what happens if you completely give up on sugar for 30 days:](http://9gag.com/gag/avygend)
+ - ⏩ [Harry Potter and the Loophole of the Snape](http://9gag.com/gag/a5QP6oE)
+ - 👉 [How to stitch with ants](http://9gag.com/gag/azxEPpm)<!-- MEMES:END -->
 
 ---
 
