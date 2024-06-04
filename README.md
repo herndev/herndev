@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to use the Reader Mode in Safari on iPad](https://appleinsider.com/inside/ipados/tips/how-to-use-the-reader-mode-in-safari-on-ipad?utm_medium=rss)
- - [Spatial audio will be even more immersive in Android 15](https://www.androidauthority.com/android-15-dynamic-spatial-audio-3448518/)
- - [Official: The MSI Claw 8 AI Plus has an Asus-matching 80Wh battery and Intel Lunar Lake](https://www.theverge.com/2024/6/3/24170904/msi-claw-8-ai-plus-lunar-lake-battery-computex)<!-- TECH:END -->
+ - [MSI announces Claw 8 AI+, its next-gen handheld, powered by Intel&#39;s Lunar Lake and comes with an 8&quot; screen, Thunderbolt 4 port, and a larger 80 Wh battery &lpar;Sean Hollister/The Verge&rpar;](http://www.techmeme.com/240604/p4#a240604p4)
+ - [Even Spotify could soon get its own Gemini Extension &lpar;APK teardown&rpar;](https://www.androidauthority.com/spotify-google-gemini-extension-coming-soon-apk-teardown-3448585/)
+ - [Intel says a standard AI kit featuring its Gaudi 2 chips, introduced in 2022, will cost $65K while a Gaudi 3 kit, unveiled in April 2024, will cost $125K &lpar;Reuters&rpar;](http://www.techmeme.com/240604/p3#a240604p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
