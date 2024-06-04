@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Bro persisted one day](http://9gag.com/gag/abAyeR9)
- - ⏩ [Repost..](http://9gag.com/gag/azxE2QN)
- - 👉 [Slick](http://9gag.com/gag/aGywyNZ)<!-- MEMES:END -->
+ - 💣 [Any man will kiss me..](http://9gag.com/gag/aoy0RO3)
+ - ⏩ [Welp, Kanlaon volcano just erupted, the smoke plume is already 5 km up in the sky, i think this is it bois](http://9gag.com/gag/a0eLXwZ)
+ - 👉 [Harry Potter and the Loophole of the Snape](http://9gag.com/gag/a5QP6oE)<!-- MEMES:END -->
 
 ---
 
