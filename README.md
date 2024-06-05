@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple is fixing a years-old parental control bug that lets kids avoid web filters](https://www.theverge.com/2024/6/5/24172008/apple-fixing-screen-time-bug-x-rated-sites-parental-controls)
- - [Google is acquiring software virtualization company Cameyo to deeply integrate virtualized Windows app support into ChromeOS, following a partnership last year &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/240605/p20#a240605p20)
- - [OPPO will bring AI to all of its phones, not just flagships](https://www.androidauthority.com/oppo-brings-ai-to-all-phones-3449093/)<!-- TECH:END -->
+ - [Apple finally confirms how long it will support iPhones, and it’s less than Samsung and Google](https://www.androidauthority.com/iphone-software-support-commitment-3449135/)
+ - [This tiny script extracts passwords from Windows’ new Recall feature for everyone to see](https://www.androidauthority.com/windows-recall-password-extract-script-3449105/)
+ - [M^0, a decentralized stablecoin minting protocol, raised a $35M Series A led by Bain Capital Crypto; the round was structured as equity plus tokens &lpar;Yogita Khatri/The Block&rpar;](http://www.techmeme.com/240605/p21#a240605p21)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
