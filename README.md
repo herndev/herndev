@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [World of Warcraft fans are worried about the game’s saddest shaman](https://www.polygon.com/24171525/world-of-warcraft-thrall-lore-the-war-within-fan-reaction)
- - [Huge Enshrouded update delivers the community&#39;s most-requested feature, plus musical instruments for jam sessions](https://www.pcgamer.com/games/survival-crafting/huge-enshrouded-update-delivers-the-communitys-most-requested-feature-plus-musical-instruments-for-jam-sessions)
- - [Someone Just Paid Over $1 Million For This One-Of-A-Kind Counter-Strike Skin](https://kotaku.com/counter-strike-blue-gem-skin-sells-one-million-dollars-1851521593)<!-- GAME:END -->
+ - [Star Wars: Hunters Is A Fun New Shooter Trapped On Switch And Phones](https://kotaku.com/star-wars-hunters-review-is-it-good-switch-ps5-xbox-pc-1851521852)
+ - [Baldur&#39;s Gate 3 player gits gouda, beats game as wheel of cheese](https://www.pcgamer.com/games/rpg/baldurs-gate-3-player-gits-gouda-beats-game-as-wheel-of-cheese)
+ - [Indie dev baffled after acquaintance clones his game, puts it on Steam, and acts like it&#39;s no big deal: &#39;Happens every day homie&#39;](https://www.pcgamer.com/games/card-games/dire-decks-wildcard-clone)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
