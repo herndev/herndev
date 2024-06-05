@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Professor invited us for hiking. Only two of us showed up](http://9gag.com/gag/aBy3VwD)
- - ⏩ [The moment!](http://9gag.com/gag/aoy0R62)
- - 👉 [I had a dog once, who did the same thing. Miss you buddy...](http://9gag.com/gag/apR0P5B)<!-- MEMES:END -->
+ - 💣 [Where&#39;s John Wick when you need him](http://9gag.com/gag/aXPp4Dz)
+ - ⏩ [Asian stuffs](http://9gag.com/gag/a2vY0wY)
+ - 👉 [Professor invited us for hiking. Only two of us showed up](http://9gag.com/gag/aBy3VwD)<!-- MEMES:END -->
 
 ---
 
