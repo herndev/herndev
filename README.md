@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [T-Mobile is offering its 5G gateway as a backup option for internet outages](https://www.theverge.com/2024/6/5/24172203/t-mobile-5g-home-internet-backup-plan-wifi-outage)
- - [The best deals on MacBooks right now](https://www.theverge.com/22399419/apple-macbook-air-pro-mac-mini-imac-deals)
- - [Here’s a lot more info on Google Photos’ upcoming My Week feature &lpar;APK teardown&rpar;](https://www.androidauthority.com/more-google-photos-my-week-info-3449122/)<!-- TECH:END -->
+ - [Apple iPhone 16 rumors: Everything we know so far and what we want to see](https://www.androidauthority.com/apple-iphone-16-3368121/)
+ - [Hands on: Using the Dexcom G7 continuous glucose meter directly with Apple Watch](https://appleinsider.com/articles/24/06/05/hands-on-using-the-dexcom-g7-continuous-glucose-meter-directly-with-apple-watch?utm_medium=rss)
+ - [Stormy servers -- Apple Weather suffers an intermittent outage](https://appleinsider.com/articles/24/06/05/stormy-servers----apple-weather-suffers-an-intermittent-outage?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
