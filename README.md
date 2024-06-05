@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple iPhone 16 rumors: Everything we know so far and what we want to see](https://www.androidauthority.com/apple-iphone-16-3368121/)
- - [Hands on: Using the Dexcom G7 continuous glucose meter directly with Apple Watch](https://appleinsider.com/articles/24/06/05/hands-on-using-the-dexcom-g7-continuous-glucose-meter-directly-with-apple-watch?utm_medium=rss)
- - [Stormy servers -- Apple Weather suffers an intermittent outage](https://appleinsider.com/articles/24/06/05/stormy-servers----apple-weather-suffers-an-intermittent-outage?utm_medium=rss)<!-- TECH:END -->
+ - [Duolingo deletes LGBTQ+ references in Russia after being warned by the country&#39;s communications regulator that the content is classed as &quot;extremism&quot; &lpar;Reuters&rpar;](http://www.techmeme.com/240605/p26#a240605p26)
+ - [Nvidia is now more valuable than Apple at $3.01 trillion](https://www.theverge.com/2024/6/5/24172363/nvidia-apple-market-cap-valuation-trillion-ai)
+ - [Humane warns AI Pin owners to ‘immediately’ stop using its charging case](https://www.theverge.com/2024/6/5/24172377/humane-ai-pin-battery-case-issue-warning)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
