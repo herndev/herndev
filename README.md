@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How to deactivate the conduits in Destiny 2: The Final Shape](https://www.pcgamer.com/games/fps/destiny-2-conduit-puzzle-final-shape)
- - [Intel&#39;s new Lunar Lake CPU is simultaneously wonderful, weird and worrisome, but has the makings of an awesome handheld gaming chip](https://www.pcgamer.com/hardware/processors/intels-new-lunar-lake-cpu-is-simultaneously-wonderful-weird-and-worrisome-but-has-the-makings-of-an-awesome-handheld-gaming-chip)
- - [Ditch the messy controller and cables inside your PC with Lian Li&#39;s wireless RGB dongle](https://www.pcgamer.com/hardware/ditch-the-messy-controller-and-cables-inside-your-pc-with-lian-lis-wireless-rgb-dongle)<!-- GAME:END -->
+ - [Palit has created a part-air, part-liquid, all-monster RTX 4090 graphics card](https://www.pcgamer.com/hardware/graphics-cards/palit-has-created-a-part-air-part-liquid-all-monster-rtx-4090-graphics-card)
+ - [From abandonware to zoning: 91 terms every PC gamer should know](https://www.pcgamer.com/games/from-abandonware-to-zoning-91-terms-every-pc-gamer-should-know)
+ - [This Frostpunk 2 RX 7700 XT from Sapphire is a promotional card that actually captures the game&#39;s vibe](https://www.pcgamer.com/hardware/graphics-cards/this-frostpunk-2-radeon-7700-xt-from-sapphire-is-a-promotional-card-that-actually-captures-the-games-vibe)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
