@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple finally confirms how long it will support iPhones, and it’s less than Samsung and Google](https://www.androidauthority.com/iphone-software-support-commitment-3449135/)
- - [This tiny script extracts passwords from Windows’ new Recall feature for everyone to see](https://www.androidauthority.com/windows-recall-password-extract-script-3449105/)
- - [M^0, a decentralized stablecoin minting protocol, raised a $35M Series A led by Bain Capital Crypto; the round was structured as equity plus tokens &lpar;Yogita Khatri/The Block&rpar;](http://www.techmeme.com/240605/p21#a240605p21)<!-- TECH:END -->
+ - [T-Mobile is offering its 5G gateway as a backup option for internet outages](https://www.theverge.com/2024/6/5/24172203/t-mobile-5g-home-internet-backup-plan-wifi-outage)
+ - [The best deals on MacBooks right now](https://www.theverge.com/22399419/apple-macbook-air-pro-mac-mini-imac-deals)
+ - [Here’s a lot more info on Google Photos’ upcoming My Week feature &lpar;APK teardown&rpar;](https://www.androidauthority.com/more-google-photos-my-week-info-3449122/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
