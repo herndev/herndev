@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google acquires Cameyo to integrate Windows app virtualization into ChromeOS](https://www.theverge.com/2024/6/5/24171900/google-cameyo-acquisition-chromeos-windows-app-virtualization)
- - [Third time’s the charm — Boeing’s Starliner crewed flight test has finally launched](https://www.theverge.com/2024/6/5/24172080/boeing-starliner-crewed-flight-test-launch-success)
- - [Nothing Phone 3 won’t be coming this year. Here’s why.](https://www.androidauthority.com/nothing-phone-3-2025-3449098/)<!-- TECH:END -->
+ - [Apple is fixing a years-old parental control bug that lets kids avoid web filters](https://www.theverge.com/2024/6/5/24172008/apple-fixing-screen-time-bug-x-rated-sites-parental-controls)
+ - [Google is acquiring software virtualization company Cameyo to deeply integrate virtualized Windows app support into ChromeOS, following a partnership last year &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/240605/p20#a240605p20)
+ - [OPPO will bring AI to all of its phones, not just flagships](https://www.androidauthority.com/oppo-brings-ai-to-all-phones-3449093/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
