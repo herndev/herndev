@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This is not a election, this is Hunger games irl](http://9gag.com/gag/a0eL0yL)
- - ⏩ [I know I shouldn\u2019t stare but damn](http://9gag.com/gag/aW4WLd2)
- - 👉 [Bad Boys 4 behind the scenes](http://9gag.com/gag/a2vYywZ)<!-- MEMES:END -->
+ - 💣 [Welp, Kanlaon volcano just erupted, the smoke plume is already 5 km up in the sky, i think this is it bois](http://9gag.com/gag/a0eLXwZ)
+ - ⏩ [This is not a election, this is Hunger games irl](http://9gag.com/gag/a0eL0yL)
+ - 👉 [Harry Potter and the Loophole of the Snape](http://9gag.com/gag/a5QP6oE)<!-- MEMES:END -->
 
 ---
 
