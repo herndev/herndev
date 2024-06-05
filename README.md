@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Palit has created a part-air, part-liquid, all-monster RTX 4090 graphics card](https://www.pcgamer.com/hardware/graphics-cards/palit-has-created-a-part-air-part-liquid-all-monster-rtx-4090-graphics-card)
- - [From abandonware to zoning: 91 terms every PC gamer should know](https://www.pcgamer.com/games/from-abandonware-to-zoning-91-terms-every-pc-gamer-should-know)
- - [This Frostpunk 2 RX 7700 XT from Sapphire is a promotional card that actually captures the game&#39;s vibe](https://www.pcgamer.com/hardware/graphics-cards/this-frostpunk-2-radeon-7700-xt-from-sapphire-is-a-promotional-card-that-actually-captures-the-games-vibe)<!-- GAME:END -->
+ - [Power your laptop, while capturing its video output, with Avermedia&#39;s new 100W GaN charger](https://www.pcgamer.com/hardware/capture-cards/power-your-laptop-while-capturing-its-video-output-with-avermedias-new-100w-gan-charger)
+ - [Fractal Design goes all touchy-feely with a fabric-covered PC case, a plushy headset, and a swish gaming chair](https://www.pcgamer.com/hardware/fractal-design-goes-all-touchy-feely-with-a-fabric-covered-pc-case-a-plushy-headset-and-a-swish-gaming-chair)
+ - [Capture up to 4K gaming footage from your Steam Deck with Avermedia&#39;s new X&#39;Tra Go docking station](https://www.pcgamer.com/hardware/handheld-gaming-pcs/capture-up-to-4k-gaming-footage-from-your-steam-deck-with-avermedias-new-xtra-go-docking-station)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
