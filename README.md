@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Gray Zone Warfare dev rolls back patch and admits &#39;we didn&#39;t trust our community when they reported performance issues&#39;](https://www.pcgamer.com/games/fps/gray-zone-warfare-dev-rolls-back-patch-and-admits-we-didnt-trust-our-community-when-they-reported-performance-issues)
- - [Where to unlock all optional dungeons in FFXIV](https://www.polygon.com/ffxiv-guides-ff14-final-fantasy-14-online/24172146/dungeon-list-unlock-quests-optional)
- - [Hitman is finally bringing back dual wielding, but it&#39;s coming in a new VR game that&#39;s exclusive to the Meta Quest 3](https://www.pcgamer.com/games/action/hitman-is-finally-bringing-back-dual-wielding-but-its-coming-in-a-new-vr-game-thats-exclusive-to-the-meta-quest-3)<!-- GAME:END -->
+ - [All new Exotics in Destiny 2: The Final Shape](https://www.polygon.com/destiny-2-guide-walkthrough/24167097/final-shape-exotic-weapon-armor-list)
+ - [How to get Microcosm in Destiny 2: The Final Shape](https://www.polygon.com/destiny-2-guide-walkthrough/24172104/microcosm-how-to-get)
+ - [Indie Dev&#39;s Reply After Cloning Someone&#39;s Game: &#39;Happens Every Day Homie&#39;](https://kotaku.com/indie-dev-clone-wildcard-dire-decks-steam-card-brash-1851522061)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
