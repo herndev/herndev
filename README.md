@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Drop wins the most satisfying sound of Computex 2024 award with its 24 carat brass keeb frame](https://www.pcgamer.com/hardware/gaming-keyboards/drop-wins-the-most-satisfying-sound-of-computex-2024-award-with-its-24-carat-brass-keeb-frame)
  - [Elden Ring&#39;s lovable living pots are pure body horror in Shadow of the Erdtree](https://www.pcgamer.com/games/rpg/elden-rings-lovable-living-pots-are-pure-body-horror-in-shadow-of-the-erdtree)
- - [This Intel and ASRock collaboration says screw it, put the whole PC in an immersion tank and call it a day](https://www.pcgamer.com/hardware/pc-cases/this-intel-and-asrock-collaboration-says-screw-it-put-the-whole-pc-in-an-immersion-tank-and-call-it-a-day)
- - [Ducky&#39;s year of the dragon limited edition is a drool face emoji in keyboard form](https://www.pcgamer.com/hardware/gaming-keyboards/duckys-year-of-the-dragon-is-pretty-much-a-drool-face-emoji-in-keyboard-form)<!-- GAME:END -->
+ - [This Intel and ASRock collaboration says screw it, put the whole PC in an immersion tank and call it a day](https://www.pcgamer.com/hardware/pc-cases/this-intel-and-asrock-collaboration-says-screw-it-put-the-whole-pc-in-an-immersion-tank-and-call-it-a-day)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
