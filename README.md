@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Star Wars: Hunters Is A Fun New Shooter Trapped On Switch And Phones](https://kotaku.com/star-wars-hunters-review-is-it-good-switch-ps5-xbox-pc-1851521852)
- - [Baldur&#39;s Gate 3 player gits gouda, beats game as wheel of cheese](https://www.pcgamer.com/games/rpg/baldurs-gate-3-player-gits-gouda-beats-game-as-wheel-of-cheese)
- - [Indie dev baffled after acquaintance clones his game, puts it on Steam, and acts like it&#39;s no big deal: &#39;Happens every day homie&#39;](https://www.pcgamer.com/games/card-games/dire-decks-wildcard-clone)<!-- GAME:END -->
+ - [Gray Zone Warfare dev rolls back patch and admits &#39;we didn&#39;t trust our community when they reported performance issues&#39;](https://www.pcgamer.com/games/fps/gray-zone-warfare-dev-rolls-back-patch-and-admits-we-didnt-trust-our-community-when-they-reported-performance-issues)
+ - [Where to unlock all optional dungeons in FFXIV](https://www.polygon.com/ffxiv-guides-ff14-final-fantasy-14-online/24172146/dungeon-list-unlock-quests-optional)
+ - [Hitman is finally bringing back dual wielding, but it&#39;s coming in a new VR game that&#39;s exclusive to the Meta Quest 3](https://www.pcgamer.com/games/action/hitman-is-finally-bringing-back-dual-wielding-but-its-coming-in-a-new-vr-game-thats-exclusive-to-the-meta-quest-3)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
