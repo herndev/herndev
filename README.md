@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Welp, Kanlaon volcano just erupted, the smoke plume is already 5 km up in the sky, i think this is it bois](http://9gag.com/gag/a0eLXwZ)
- - ⏩ [Bad Boys 4 behind the scenes](http://9gag.com/gag/a2vYywZ)
- - 👉 [This is not a election, this is Hunger games irl](http://9gag.com/gag/a0eL0yL)<!-- MEMES:END -->
+ - 💣 [Pet paw cleaner](http://9gag.com/gag/an7Kvqb)
+ - ⏩ [Bro&#39;s Got The Rizz](http://9gag.com/gag/a4PdA51)
+ - 👉 [Professor invited us for hiking. Only two of us showed up](http://9gag.com/gag/aBy3VwD)<!-- MEMES:END -->
 
 ---
 
