@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Pet paw cleaner](http://9gag.com/gag/an7Kvqb)
- - ⏩ [Bro&#39;s Got The Rizz](http://9gag.com/gag/a4PdA51)
- - 👉 [Professor invited us for hiking. Only two of us showed up](http://9gag.com/gag/aBy3VwD)<!-- MEMES:END -->
+ - 💣 [SHOW ME WHAT U GOT](http://9gag.com/gag/a5QPwby)
+ - ⏩ [Bad Boys 4 behind the scenes](http://9gag.com/gag/a2vYywZ)
+ - 👉 [Aunt May I?](http://9gag.com/gag/aBy3PMZ)<!-- MEMES:END -->
 
 ---
 
