@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Acolyte’s best mystery is about how to murder a Jedi, not who did](https://www.polygon.com/star-wars/24171592/star-wars-acolyte-kill-jedi-mae-sith-master-no-weapon)
- - [The Acolyte’s High Republic gives Star Wars a totally new timeline to play with](https://www.polygon.com/star-wars/24171372/star-wars-high-republic-acolyte-when-timeline-what)
- - [Hades 2&#39;s latest patch drops the nerf hammer on everyone&#39;s favorite overpowered build, but players are surprisingly cool with it](https://www.pcgamer.com/games/roguelike/hades-2s-latest-patch-drops-the-nerf-hammer-on-everyones-favorite-overpowered-build-but-players-are-surprisingly-cool-with-it)<!-- GAME:END -->
+ - [Aerocool reckons its new power supply will last you at least 15 years and it&#39;s providing the warranty to prove it](https://www.pcgamer.com/hardware/power-supplies/aerocool-reckons-its-new-power-supply-will-last-you-at-least-15-years-and-its-providing-the-warranty-to-prove-it)
+ - [Today&#39;s Wordle answer for Wednesday, June 5](https://www.pcgamer.com/games/puzzle/wordle-answer-today-june-5-2024)
+ - [The Acolyte’s best mystery is about how to murder a Jedi, not who did](https://www.polygon.com/star-wars/24171592/star-wars-acolyte-kill-jedi-mae-sith-master-no-weapon)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
