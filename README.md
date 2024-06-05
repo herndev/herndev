@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: some Chinese AI chip companies, including MetaX and Enflame, are submitting less powerful GPU designs to TSMC to comply with US sanctions &lpar;Fanny Potkin/Reuters&rpar;](http://www.techmeme.com/240604/p46#a240604p46)
- - [Best Extra-Firm Mattress of 2024     - CNET](https://www.cnet.com/health/sleep/best-extra-firm-mattress/#ftag=CAD590a51e)
- - [Best Twin Mattress for 2024     - CNET](https://www.cnet.com/health/sleep/best-twin-mattress/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Twelve Labs, which provides foundational models to help users search and analyze troves of video, raised a $50M Series A co-led by NEA and Nvidia&#39;s NVentures &lpar;Saritha Rai/Bloomberg&rpar;](http://www.techmeme.com/240604/p47#a240604p47)
+ - [Best Deals on E-Bikes: Save on RadPower, Juiced, Lectric and More Top-Rated Electric Bikes     - CNET](https://www.cnet.com/roadshow/news/best-e-bike-deals/#ftag=CAD590a51e)
+ - [Best Solar Panel Installation Companies in Massachusetts     - CNET](https://www.cnet.com/home/energy-and-utilities/massachusetts-solar-panels/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
