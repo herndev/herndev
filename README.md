@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I know I shouldn\u2019t stare but damn](http://9gag.com/gag/aW4WLd2)
- - ⏩ [Aunt May I?](http://9gag.com/gag/aBy3PMZ)
- - 👉 [Hiking accident, two people missing](http://9gag.com/gag/aMVrP5P)<!-- MEMES:END -->
+ - 💣 [\u201cIf you can\u2019t handle me at my 15 man bukake then you don\u2019t deserve me and my after work kiss.\u201d -Riley Reid probably](http://9gag.com/gag/aGywMOn)
+ - ⏩ [I know I shouldn\u2019t stare but damn](http://9gag.com/gag/aW4WLd2)
+ - 👉 [Professor invited us for hiking. Only two of us showed up](http://9gag.com/gag/aBy3VwD)<!-- MEMES:END -->
 
 ---
 
