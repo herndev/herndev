@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [GTA Online&#39;s Next Update Will Add Police Missions And Bounty Hunting](https://kotaku.com/gta-online-police-rp-bounty-hunt-summer-update-2024-1851521055)
- - [New Jak And Daxter PC Mod Finally Lets You Play Multiplayer](https://kotaku.com/jak-daxter-pc-port-multiplayer-mod-download-1851521167)
- - [This is the most important showcase in Xbox’s history](https://www.polygon.com/24171899/xbox-showcase-2024-preview-analysis)<!-- GAME:END -->
+ - [Mech tactics game Grit and Valor doesn&#39;t play much like Into the Breach, and that&#39;s a good thing](https://www.pcgamer.com/games/strategy/mech-tactics-game-grit-and-valor-doesnt-play-much-like-into-the-breach-and-thats-a-good-thing)
+ - [How to get Ergo Sum in Destiny 2: The Final Shape](https://www.polygon.com/destiny-2-guide-walkthrough/24172105/ergo-sum-how-to-get-unlock-perks)
+ - [Dimension 20’s next season does ’80s action movies, Jumanji style](https://www.polygon.com/24172006/dimension-20-never-stop-blowing-up-dropout)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
