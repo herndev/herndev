@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [How to deactivate the conduits in Destiny 2: The Final Shape](https://www.pcgamer.com/games/fps/destiny-2-conduit-puzzle-final-shape)
  - [Intel&#39;s new Lunar Lake CPU is simultaneously wonderful, weird and worrisome, but has the makings of an awesome handheld gaming chip](https://www.pcgamer.com/hardware/processors/intels-new-lunar-lake-cpu-is-simultaneously-wonderful-weird-and-worrisome-but-has-the-makings-of-an-awesome-handheld-gaming-chip)
- - [Ditch the messy controller and cables inside your PC with Lian Li&#39;s wireless RGB dongle](https://www.pcgamer.com/hardware/ditch-the-messy-controller-and-cables-inside-your-pc-with-lian-lis-wireless-rgb-dongle)
- - [Ducky&#39;s &#39;world&#39;s first&#39; analog keyboard offers Cherry inductive switches and wireless—but is it better than Hall effect?](https://www.pcgamer.com/hardware/gaming-keyboards/duckys-worlds-first-inductive-keyboard-offers-cherry-analog-switches-and-wirelessbut-is-it-better-than-hall-effect)<!-- GAME:END -->
+ - [Ditch the messy controller and cables inside your PC with Lian Li&#39;s wireless RGB dongle](https://www.pcgamer.com/hardware/ditch-the-messy-controller-and-cables-inside-your-pc-with-lian-lis-wireless-rgb-dongle)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
