@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Welp, Kanlaon volcano just erupted, the smoke plume is already 5 km up in the sky, i think this is it bois](http://9gag.com/gag/a0eLXwZ)
- - ⏩ [This is not a election, this is Hunger games irl](http://9gag.com/gag/a0eL0yL)
- - 👉 [Harry Potter and the Loophole of the Snape](http://9gag.com/gag/a5QP6oE)<!-- MEMES:END -->
+ - ⏩ [Bad Boys 4 behind the scenes](http://9gag.com/gag/a2vYywZ)
+ - 👉 [This is not a election, this is Hunger games irl](http://9gag.com/gag/a0eL0yL)<!-- MEMES:END -->
 
 ---
 
