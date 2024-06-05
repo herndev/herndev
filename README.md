@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Fortnite&#39;s Free Cars Will Get You Killed Faster Than Its Paid Ones, New Video Shows [Update]](https://kotaku.com/fortnite-free-cars-pay-to-win-season-3-premium-skins-1851516668)
- - [New Hades 2 patch decreases the likelihood of a ‘patently unfair’ Chronos](https://www.polygon.com/24172050/hades-2-patch-notes-chronos-weapon-upgrades)
- - [All new Exotics in Destiny 2: The Final Shape](https://www.polygon.com/destiny-2-guide-walkthrough/24167097/final-shape-exotic-weapon-armor-list)<!-- GAME:END -->
+ - [GTA Online&#39;s Next Update Will Add Police Missions And Bounty Hunting](https://kotaku.com/gta-online-police-rp-bounty-hunt-summer-update-2024-1851521055)
+ - [New Jak And Daxter PC Mod Finally Lets You Play Multiplayer](https://kotaku.com/jak-daxter-pc-port-multiplayer-mod-download-1851521167)
+ - [This is the most important showcase in Xbox’s history](https://www.polygon.com/24171899/xbox-showcase-2024-preview-analysis)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
