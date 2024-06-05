@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Foundry Virtual Tabletop takes the online play experience to the next level](https://www.polygon.com/tabletop-games/24170422/foundry-virtual-tabletop-interview-explainer-immersive)
- - [Where to find lost ghosts in Destiny 2: The Final Shape](https://www.pcgamer.com/games/fps/destiny-2-lost-ghost-locations)
- - [Power your laptop, while capturing its video output, with Avermedia&#39;s new 100W GaN charger](https://www.pcgamer.com/hardware/capture-cards/power-your-laptop-while-capturing-its-video-output-with-avermedias-new-100w-gan-charger)<!-- GAME:END -->
+ - [Long-Rumored Final Fantasy IX Remake Is ‘Very Far Along’ According To Latest Leaks](https://kotaku.com/final-fantasy-9-remake-leaks-square-enix-midori-1851520785)
+ - [Destiny 2 Players Spent The Final Shape&#39;s First Night Erroring Out Of Major Cutscenes](https://kotaku.com/destiny-2-final-shape-cutscenes-error-code-currant-1851520706)
+ - [Beloved Square Enix RPG Series Could Finally Sort Out Its Messy Exclusivity](https://kotaku.com/octopath-traveler-xbox-game-pass-ps4-ps5-1851520559)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
