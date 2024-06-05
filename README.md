@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Watch Boeing Starliner’s third crewed launch attempt](https://www.theverge.com/2024/6/5/24171939/watch-boeing-starliner-third-crewed-flight-attempt)
- - [How to take a screenshot on a Google Pixel 8a](https://www.androidauthority.com/how-to-take-screenshot-on-google-pixel-8a-3445474/)
- - [Microsoft Copilot Plus hands-on: Does it need a Recall?](https://www.androidauthority.com/copilot-plus-hands-on-3448655/)<!-- TECH:END -->
+ - [Asana unveils &quot;AI teammates&quot;, a new feature in beta for select customers to help manage projects and tasks, ahead of general availability later in 2024 &lpar;Harry McCracken/Fast Company&rpar;](http://www.techmeme.com/240605/p19#a240605p19)
+ - [Apple Watch &amp; AirPods still rule the wearables market, despite losing ground](https://appleinsider.com/articles/24/06/05/apple-watch-airpods-still-rule-the-wearables-market-despite-losing-ground?utm_medium=rss)
+ - [Apple regains $3 trillion valuation, creeps up on Microsoft](https://appleinsider.com/articles/24/06/05/apple-regains-3-trillion-valuation-creeps-up-on-microsoft?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
