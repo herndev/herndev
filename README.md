@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [As players struggle to sign in, miss cutscenes, and are kicked from activities, Bungie apologizes for Destiny 2: The Final Shape launch issues and begins rolling restart](https://www.pcgamer.com/games/fps/as-players-struggle-to-sign-in-miss-cutscenes-and-are-kicked-from-activities-bungie-apologizes-for-destiny-2-the-final-shape-launch-issues-and-begins-rolling-restart)
  - [Drop wins the most satisfying sound of Computex 2024 award with its 24 carat brass keeb frame](https://www.pcgamer.com/hardware/gaming-keyboards/drop-wins-the-most-satisfying-sound-of-computex-2024-award-with-its-24-carat-brass-keeb-frame)
- - [Elden Ring&#39;s lovable living pots are pure body horror in Shadow of the Erdtree](https://www.pcgamer.com/games/rpg/elden-rings-lovable-living-pots-are-pure-body-horror-in-shadow-of-the-erdtree)
- - [This Intel and ASRock collaboration says screw it, put the whole PC in an immersion tank and call it a day](https://www.pcgamer.com/hardware/pc-cases/this-intel-and-asrock-collaboration-says-screw-it-put-the-whole-pc-in-an-immersion-tank-and-call-it-a-day)<!-- GAME:END -->
+ - [Elden Ring&#39;s lovable living pots are pure body horror in Shadow of the Erdtree](https://www.pcgamer.com/games/rpg/elden-rings-lovable-living-pots-are-pure-body-horror-in-shadow-of-the-erdtree)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
