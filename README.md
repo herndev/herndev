@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How a series of hacks, starting with BlackCat in June 2023, show the challenges facing the UK&#39;s NHS, which employs 1.7M workers and cares for 68M UK residents &lpar;Bloomberg&rpar;](http://www.techmeme.com/240605/p12#a240605p12)
- - [Japanese crypto exchange DMM Bitcoin plans to raise ~$321M to buy back bitcoin and make users whole after an &quot;unauthorized outflow&quot; of 4,503 bitcoin on May 31 &lpar;Bloomberg&rpar;](http://www.techmeme.com/240605/p11#a240605p11)
- - [Google’s AI Overview Search Results Copied My Original Work](https://www.wired.com/story/google-ai-overview-search-results-copied-my-original-work/)<!-- TECH:END -->
+ - [Google Maps is killing Timeline access on the web very soon](https://www.androidauthority.com/google-maps-killing-timeline-web-access-3449017/)
+ - [All of the iPhone 16 Pro Max measurements have been leaked](https://appleinsider.com/articles/24/06/05/all-of-the-iphone-16-pro-max-measurements-have-been-leaked?utm_medium=rss)
+ - [Apple will allow users to opt in to ChatGPT services in iOS 18 after deal with OpenAI](https://appleinsider.com/articles/24/06/05/apple-will-allow-users-to-opt-in-to-chatgpt-services-in-ios-18-after-deal-with-openai?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
