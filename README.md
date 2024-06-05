@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Netflix Turns Its Back on Older Apple TVs     - CNET](https://www.cnet.com/tech/services-and-software/netflix-turns-its-back-on-older-apple-tvs/#ftag=CAD590a51e)
- - [Zotac Zone official: this handheld has twin trackpads, jog wheels, adjustable triggers and OLED](https://www.theverge.com/2024/6/4/24171675/zotac-zone-specs-handheld-gaming-pc)
- - [Best Beats Headphone Deals: Save Big Bucks on Your Favorite Beats Models     - CNET](https://www.cnet.com/deals/best-beats-headphone-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Pika, which offers AI tools to generate and edit videos, raised $80M from Spark, Lightspeed, and others at a $470M valuation, taking its total funding to $135M &lpar;Gerrit De Vynck/Washington Post&rpar;](http://www.techmeme.com/240604/p45#a240604p45)
+ - [Australia&#39;s privacy regulator sues Medibank over an October 2022 data breach, accusing the health insurer of failing to protect the data of 9.7M customers &lpar;Emilia Terzon/ABC&rpar;](http://www.techmeme.com/240604/p44#a240604p44)
+ - [Compare Electricity Rates in Massachusetts     - CNET](https://www.cnet.com/how-to/electricity-rates-massachusetts/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
