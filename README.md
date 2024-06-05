@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [PSA: Latest Google Maps beta breaks Android Auto, here’s the fix](https://www.androidauthority.com/psa-latest-google-maps-beta-breaks-android-auto-fix-3448906/)
  - [Switzerland-based Neural Concept, whose 3D product design software uses deep learning to help cut development times, raised a $27M Series B led by Forestay &lpar;Mike Butcher/TechCrunch&rpar;](http://www.techmeme.com/240604/p49#a240604p49)
- - [How to extract audio from video on Mac with built-in tools](https://appleinsider.com/inside/mac/tips/how-to-extract-audio-from-video-on-mac-with-built-in-tools?utm_medium=rss)
- - [Former OpenAI researcher Leopold Aschenbrenner says he was fired in April for sharing a memo raising concerns about OpenAI&#39;s security practices with the board &lpar;Shakeel Hashim/Transformer&rpar;](http://www.techmeme.com/240604/p48#a240604p48)<!-- TECH:END -->
+ - [How to extract audio from video on Mac with built-in tools](https://appleinsider.com/inside/mac/tips/how-to-extract-audio-from-video-on-mac-with-built-in-tools?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
