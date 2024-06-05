@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Ducky&#39;s &#39;world&#39;s first&#39; analog keyboard offers Cherry inductive switches and wireless—but is it better than Hall effect?](https://www.pcgamer.com/hardware/gaming-keyboards/duckys-worlds-first-inductive-keyboard-offers-cherry-analog-switches-and-wirelessbut-is-it-better-than-hall-effect)
  - [As players struggle to sign in, miss cutscenes, and are kicked from activities, Bungie apologizes for Destiny 2: The Final Shape launch issues and begins rolling restart](https://www.pcgamer.com/games/fps/as-players-struggle-to-sign-in-miss-cutscenes-and-are-kicked-from-activities-bungie-apologizes-for-destiny-2-the-final-shape-launch-issues-and-begins-rolling-restart)
- - [Drop wins the most satisfying sound of Computex 2024 award with its 24 carat brass keeb frame](https://www.pcgamer.com/hardware/gaming-keyboards/drop-wins-the-most-satisfying-sound-of-computex-2024-award-with-its-24-carat-brass-keeb-frame)
- - [Elden Ring&#39;s lovable living pots are pure body horror in Shadow of the Erdtree](https://www.pcgamer.com/games/rpg/elden-rings-lovable-living-pots-are-pure-body-horror-in-shadow-of-the-erdtree)<!-- GAME:END -->
+ - [Drop wins the most satisfying sound of Computex 2024 award with its 24 carat brass keeb frame](https://www.pcgamer.com/hardware/gaming-keyboards/drop-wins-the-most-satisfying-sound-of-computex-2024-award-with-its-24-carat-brass-keeb-frame)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
