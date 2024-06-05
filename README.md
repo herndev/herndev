@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [The Acolyte’s High Republic gives Star Wars a totally new timeline to play with](https://www.polygon.com/star-wars/24171372/star-wars-high-republic-acolyte-when-timeline-what)
  - [Hades 2&#39;s latest patch drops the nerf hammer on everyone&#39;s favorite overpowered build, but players are surprisingly cool with it](https://www.pcgamer.com/games/roguelike/hades-2s-latest-patch-drops-the-nerf-hammer-on-everyones-favorite-overpowered-build-but-players-are-surprisingly-cool-with-it)
- - [Hades 2&#39;s Biggest Early Access Patch Yet Just Made A Bunch Of Weapons Stronger](https://kotaku.com/hades-2-patch-notes-buff-chronos-steam-early-access-1851519615)
- - [Over 200k Team Fortress 2 Fans Want Valve To Fix The Game](https://kotaku.com/tf2-team-fortress-bots-valve-fan-petition-fix-pc-fixtf2-1851519583)<!-- GAME:END -->
+ - [Hades 2&#39;s Biggest Early Access Patch Yet Just Made A Bunch Of Weapons Stronger](https://kotaku.com/hades-2-patch-notes-buff-chronos-steam-early-access-1851519615)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
