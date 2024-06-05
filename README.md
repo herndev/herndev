@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Smart photographer...](http://9gag.com/gag/aGywMyw)
- - ⏩ [Pet paw cleaner](http://9gag.com/gag/an7Kvqb)
+ - 💣 [Difference between men and women](http://9gag.com/gag/aD23Z2G)
+ - ⏩ [I know I shouldn\u2019t stare but damn](http://9gag.com/gag/aW4WLd2)
  - 👉 [This is not a election, this is Hunger games irl](http://9gag.com/gag/a0eL0yL)<!-- MEMES:END -->
 
 ---
