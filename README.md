@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [China Miéville Writes a Secret Novel With the Internet’s Boyfriend &lpar;It&#39;s Keanu Reeves&rpar;](https://www.wired.com/story/china-mieville-writes-a-secret-novel-with-the-internets-boyfriend-keanu-reeves/)
- - [A profile of CoreWeave, as the cloud GPU provider reveals plans to build three European data centers for $2.2B and repurpose several Core Scientific facilities &lpar;Tim Bradshaw/Financial Times&rpar;](http://www.techmeme.com/240605/p4#a240605p4)
- - [YouTube, the only major US platform available in Russia, has become a primary source of entertainment for many Russians, making a ban tricky for the Kremlin &lpar;Justin Ling/Wired&rpar;](http://www.techmeme.com/240605/p3#a240605p3)<!-- TECH:END -->
+ - [How Uganda&#39;s government under President Yoweri Museveni has increasingly used the country&#39;s biometric identity system to target opponents and consolidate power &lpar;Olivia Solon/Bloomberg&rpar;](http://www.techmeme.com/240605/p6#a240605p6)
+ - [Better late than never: Gemini app finally arrives in the UK and EU](https://www.androidauthority.com/google-gemini-uk-eu-3448959/)
+ - [Moving your web browsing sessions to iOS is about to get a lot easier on Chrome](https://www.androidauthority.com/moving-sessions-to-get-easier-chrome-3448952/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
