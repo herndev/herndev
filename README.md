@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [\u201cIf you can\u2019t handle me at my 15 man bukake then you don\u2019t deserve me and my after work kiss.\u201d -Riley Reid probably](http://9gag.com/gag/aGywMOn)
- - ⏩ [I know I shouldn\u2019t stare but damn](http://9gag.com/gag/aW4WLd2)
- - 👉 [Professor invited us for hiking. Only two of us showed up](http://9gag.com/gag/aBy3VwD)<!-- MEMES:END -->
+ - 💣 [Anti Cat Table](http://9gag.com/gag/aVvWZBn)
+ - ⏩ [Forgot WiFi Password? Useful information\u2026](http://9gag.com/gag/aO8b9Ev)
+ - 👉 [Every year on the anniversary of D-Day, French citizens take sand from Omaha Beach and rub it onto the gravestones of fallen soldiers to create a golden shine. They do this for all 9,386 American soldiers buried there.](http://9gag.com/gag/axyZO4n)<!-- MEMES:END -->
 
 ---
 
