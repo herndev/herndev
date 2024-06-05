@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Professor invited us for hiking. Only two of us showed up](http://9gag.com/gag/aBy3VwD)
- - ⏩ [Bad Boys 4 behind the scenes](http://9gag.com/gag/a2vYywZ)
+ - 💣 [How to stitch with ants](http://9gag.com/gag/azxEPpm)
+ - ⏩ [Hiking accident, two people missing](http://9gag.com/gag/aMVrP5P)
  - 👉 [This is not a election, this is Hunger games irl](http://9gag.com/gag/a0eL0yL)<!-- MEMES:END -->
 
 ---
