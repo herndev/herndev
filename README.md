@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Yeah, sure... it must be the fans](http://9gag.com/gag/aZZxjn0)
- - ⏩ [It&#39;s fun for like the first two weeks.](http://9gag.com/gag/a9yL590)
- - 👉 [\u201cIf you can\u2019t handle me at my 15 man bukake then you don\u2019t deserve me and my after work kiss.\u201d -Riley Reid probably](http://9gag.com/gag/aGywMOn)<!-- MEMES:END -->
+ - 💣 [Scroll of truth](http://9gag.com/gag/amo0mWV)
+ - ⏩ [Every year on the anniversary of D-Day, French citizens take sand from Omaha Beach and rub it onto the gravestones of fallen soldiers to create a golden shine. They do this for all 9,386 American soldiers buried there.](http://9gag.com/gag/axyZO4n)
+ - 👉 [Teacher to kid 1980 scenario](http://9gag.com/gag/a87YeP1)<!-- MEMES:END -->
 
 ---
 
