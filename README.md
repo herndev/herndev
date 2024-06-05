@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Mech tactics game Grit and Valor doesn&#39;t play much like Into the Breach, and that&#39;s a good thing](https://www.pcgamer.com/games/strategy/mech-tactics-game-grit-and-valor-doesnt-play-much-like-into-the-breach-and-thats-a-good-thing)
- - [How to get Ergo Sum in Destiny 2: The Final Shape](https://www.polygon.com/destiny-2-guide-walkthrough/24172105/ergo-sum-how-to-get-unlock-perks)
- - [Dimension 20’s next season does ’80s action movies, Jumanji style](https://www.polygon.com/24172006/dimension-20-never-stop-blowing-up-dropout)<!-- GAME:END -->
+ - [World of Warcraft fans are worried about the game’s saddest shaman](https://www.polygon.com/24171525/world-of-warcraft-thrall-lore-the-war-within-fan-reaction)
+ - [Huge Enshrouded update delivers the community&#39;s most-requested feature, plus musical instruments for jam sessions](https://www.pcgamer.com/games/survival-crafting/huge-enshrouded-update-delivers-the-communitys-most-requested-feature-plus-musical-instruments-for-jam-sessions)
+ - [Someone Just Paid Over $1 Million For This One-Of-A-Kind Counter-Strike Skin](https://kotaku.com/counter-strike-blue-gem-skin-sells-one-million-dollars-1851521593)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
