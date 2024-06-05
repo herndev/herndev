@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [All new Exotics in Destiny 2: The Final Shape](https://www.polygon.com/destiny-2-guide-walkthrough/24167097/final-shape-exotic-weapon-armor-list)
- - [How to get Microcosm in Destiny 2: The Final Shape](https://www.polygon.com/destiny-2-guide-walkthrough/24172104/microcosm-how-to-get)
- - [Indie Dev&#39;s Reply After Cloning Someone&#39;s Game: &#39;Happens Every Day Homie&#39;](https://kotaku.com/indie-dev-clone-wildcard-dire-decks-steam-card-brash-1851522061)<!-- GAME:END -->
+ - [I tried to recreate Marvel&#39;s Iron Man in this movie studio sim, and my version was so bad my own father stormed out of the theater](https://www.pcgamer.com/games/sim/i-tried-to-recreate-marvels-iron-man-in-this-movie-studio-sim-and-my-version-was-so-bad-my-own-father-stormed-out-of-the-theater)
+ - [How to watch the 2024 PC Gaming Show: our 10th annual summer showcase](https://www.pcgamer.com/games/how-to-watch-the-2024-pc-gaming-show)
+ - [Russian Twitch streamer sentenced to more than 5 years in prison for criticizing the invasion of Ukraine](https://www.pcgamer.com/gaming-industry/russian-twitch-streamer-sentenced-to-more-than-5-years-in-prison-for-criticizing-the-invasion-of-ukraine)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
