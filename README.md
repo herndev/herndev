@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [F*cking legend](http://9gag.com/gag/a9yL2Vm)
- - ⏩ [He&#39;s a man of focus &amp; commitment](http://9gag.com/gag/aKGPvmO)
- - 👉 [Parent lets her kids ruin a piano set performance](http://9gag.com/gag/axyZO9K)<!-- MEMES:END -->
+ - 💣 [Go to sleep bro!](http://9gag.com/gag/a7oy2Xw)
+ - ⏩ [To spice up your relationship](http://9gag.com/gag/amo0meX)
+ - 👉 [Trying is not torture...](http://9gag.com/gag/aGywAm0)<!-- MEMES:END -->
 
 ---
 
