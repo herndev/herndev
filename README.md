@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Maps is killing Timeline access on the web very soon](https://www.androidauthority.com/google-maps-killing-timeline-web-access-3449017/)
- - [All of the iPhone 16 Pro Max measurements have been leaked](https://appleinsider.com/articles/24/06/05/all-of-the-iphone-16-pro-max-measurements-have-been-leaked?utm_medium=rss)
- - [Apple will allow users to opt in to ChatGPT services in iOS 18 after deal with OpenAI](https://appleinsider.com/articles/24/06/05/apple-will-allow-users-to-opt-in-to-chatgpt-services-in-ios-18-after-deal-with-openai?utm_medium=rss)<!-- TECH:END -->
+ - [Watch Boeing Starliner’s third crewed launch attempt](https://www.theverge.com/2024/6/5/24171939/watch-boeing-starliner-third-crewed-flight-attempt)
+ - [How to take a screenshot on a Google Pixel 8a](https://www.androidauthority.com/how-to-take-screenshot-on-google-pixel-8a-3445474/)
+ - [Microsoft Copilot Plus hands-on: Does it need a Recall?](https://www.androidauthority.com/copilot-plus-hands-on-3448655/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
