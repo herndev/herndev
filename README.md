@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Stormy servers -- Apple Weather suffered an intermittent outage](https://appleinsider.com/articles/24/06/05/stormy-servers----apple-weather-suffers-an-intermittent-outage?utm_medium=rss)
- - [Corning’s Gorilla Glass 7i promises tougher screens for mid-range phones](https://www.androidauthority.com/gorilla-glass-7i-launched-3449196/)
- - [Home Cooling Costs Expected to Hit 10-Year High This Summer     - CNET](https://www.cnet.com/news/home-cooling-costs-expected-to-hit-10-year-high-this-summer/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Stability AI releases Stable Audio Open, a text-to-audio model that generates up to 47 seconds of samples and sound effects, prohibited for commercial use &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240605/p30#a240605p30)
+ - [The best instant cameras you can buy right now](https://www.theverge.com/23133103/best-instant-cameras-fujifilm-polaroid-kodak)
+ - [Humane warns of fire safety risk from AI Pin’s charging case accessory](https://www.androidauthority.com/humane-ai-pin-charging-warning-3449221/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
