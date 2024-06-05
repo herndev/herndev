@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [How to stitch with ants](http://9gag.com/gag/azxEPpm)
- - ⏩ [Hiking accident, two people missing](http://9gag.com/gag/aMVrP5P)
- - 👉 [This is not a election, this is Hunger games irl](http://9gag.com/gag/a0eL0yL)<!-- MEMES:END -->
+ - 💣 [I know I shouldn\u2019t stare but damn](http://9gag.com/gag/aW4WLd2)
+ - ⏩ [When Pride Parade clashes with #BLM protesters in Philly](http://9gag.com/gag/aBy3E2Z)
+ - 👉 [Aunt May I?](http://9gag.com/gag/aBy3PMZ)<!-- MEMES:END -->
 
 ---
 
