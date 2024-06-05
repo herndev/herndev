@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Aerocool reckons its new power supply will last you at least 15 years and it&#39;s providing the warranty to prove it](https://www.pcgamer.com/hardware/power-supplies/aerocool-reckons-its-new-power-supply-will-last-you-at-least-15-years-and-its-providing-the-warranty-to-prove-it)
- - [Today&#39;s Wordle answer for Wednesday, June 5](https://www.pcgamer.com/games/puzzle/wordle-answer-today-june-5-2024)
- - [The Acolyte’s best mystery is about how to murder a Jedi, not who did](https://www.polygon.com/star-wars/24171592/star-wars-acolyte-kill-jedi-mae-sith-master-no-weapon)<!-- GAME:END -->
+ - [Elden Ring&#39;s lovable living pots are pure body horror in Shadow of the Erdtree](https://www.pcgamer.com/games/rpg/elden-rings-lovable-living-pots-are-pure-body-horror-in-shadow-of-the-erdtree)
+ - [This Intel and ASRock collaboration says screw it, put the whole PC in an immersion tank and call it a day](https://www.pcgamer.com/hardware/pc-cases/this-intel-and-asrock-collaboration-says-screw-it-put-the-whole-pc-in-an-immersion-tank-and-call-it-a-day)
+ - [Ducky&#39;s year of the dragon limited edition is a drool face emoji in keyboard form](https://www.pcgamer.com/hardware/gaming-keyboards/duckys-year-of-the-dragon-is-pretty-much-a-drool-face-emoji-in-keyboard-form)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
