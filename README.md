@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The bearings in Walmart skateboards for kids.](http://9gag.com/gag/aAyr2qL)
- - ⏩ [Hiking accident, two people missing](http://9gag.com/gag/aMVrP5P)
- - 👉 [He&#39;s a man of focus &amp; commitment](http://9gag.com/gag/aKGPvmO)<!-- MEMES:END -->
+ - 💣 [F*cking legend](http://9gag.com/gag/a9yL2Vm)
+ - ⏩ [The bearings in Walmart skateboards for kids.](http://9gag.com/gag/aAyr2qL)
+ - 👉 [Hiking accident, two people missing](http://9gag.com/gag/aMVrP5P)<!-- MEMES:END -->
 
 ---
 
