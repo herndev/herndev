@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Aunt May I?](http://9gag.com/gag/aBy3PMZ)
- - ⏩ [F*cking legend](http://9gag.com/gag/a9yL2Vm)
- - 👉 [Parent lets her kids ruin a piano set performance](http://9gag.com/gag/axyZO9K)<!-- MEMES:END -->
+ - 💣 [Parent lets her kids ruin a piano set performance](http://9gag.com/gag/axyZO9K)
+ - ⏩ [\u201cIf you can\u2019t handle me at my 15 man bukake then you don\u2019t deserve me and my after work kiss.\u201d -Riley Reid probably](http://9gag.com/gag/aGywMOn)
+ - 👉 [Professor invited us for hiking. Only two of us showed up](http://9gag.com/gag/aBy3VwD)<!-- MEMES:END -->
 
 ---
 
