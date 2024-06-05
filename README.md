@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Asana unveils &quot;AI teammates&quot;, a new feature in beta for select customers to help manage projects and tasks, ahead of general availability later in 2024 &lpar;Harry McCracken/Fast Company&rpar;](http://www.techmeme.com/240605/p19#a240605p19)
- - [Apple Watch &amp; AirPods still rule the wearables market, despite losing ground](https://appleinsider.com/articles/24/06/05/apple-watch-airpods-still-rule-the-wearables-market-despite-losing-ground?utm_medium=rss)
- - [Apple regains $3 trillion valuation, creeps up on Microsoft](https://appleinsider.com/articles/24/06/05/apple-regains-3-trillion-valuation-creeps-up-on-microsoft?utm_medium=rss)<!-- TECH:END -->
+ - [App Store just had its best quarter in four years, is crushing Google Play in spending](https://appleinsider.com/articles/24/06/05/app-store-just-had-its-best-quarter-in-four-years-is-crushing-google-play-in-spending?utm_medium=rss)
+ - [This PlayStation VR2 Amazon deal slashes price by $100](https://www.androidauthority.com/playstation-vr2-deal-3448779/)
+ - [The future of Netflix games could look like reality TV](https://www.theverge.com/24171526/netflix-games-too-hot-too-handle-interactive-fiction)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
