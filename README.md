@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How Uganda&#39;s government under President Yoweri Museveni has increasingly used the country&#39;s biometric identity system to target opponents and consolidate power &lpar;Olivia Solon/Bloomberg&rpar;](http://www.techmeme.com/240605/p6#a240605p6)
- - [Better late than never: Gemini app finally arrives in the UK and EU](https://www.androidauthority.com/google-gemini-uk-eu-3448959/)
- - [Moving your web browsing sessions to iOS is about to get a lot easier on Chrome](https://www.androidauthority.com/moving-sessions-to-get-easier-chrome-3448952/)<!-- TECH:END -->
+ - [The Dexcom G7 now lets you monitor real-time blood sugar on the Apple Watch](https://www.theverge.com/2024/6/5/24171481/dexcom-g7-apple-watch-wearables-diabetes-tech)
+ - [SAP plans to buy Tel Aviv-based WalkMe, which helps users navigate UIs of other software services, for $1.5B in cash; WalkMe raised $300M ahead of a 2021 IPO &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/240605/p8#a240605p8)
+ - [Leaked iPhone 16 Pro Max spec reveals an almost bezel-less phone](https://www.androidauthority.com/iphone-16-pro-max-bezel-leak-3448996/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
