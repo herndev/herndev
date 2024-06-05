@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Dexcom G7 now lets you monitor real-time blood sugar on the Apple Watch](https://www.theverge.com/2024/6/5/24171481/dexcom-g7-apple-watch-wearables-diabetes-tech)
- - [SAP plans to buy Tel Aviv-based WalkMe, which helps users navigate UIs of other software services, for $1.5B in cash; WalkMe raised $300M ahead of a 2021 IPO &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/240605/p8#a240605p8)
- - [Leaked iPhone 16 Pro Max spec reveals an almost bezel-less phone](https://www.androidauthority.com/iphone-16-pro-max-bezel-leak-3448996/)<!-- TECH:END -->
+ - [How a series of hacks, starting with BlackCat in June 2023, show the challenges facing the UK&#39;s NHS, which employs 1.7M workers and cares for 68M UK residents &lpar;Bloomberg&rpar;](http://www.techmeme.com/240605/p12#a240605p12)
+ - [Japanese crypto exchange DMM Bitcoin plans to raise ~$321M to buy back bitcoin and make users whole after an &quot;unauthorized outflow&quot; of 4,503 bitcoin on May 31 &lpar;Bloomberg&rpar;](http://www.techmeme.com/240605/p11#a240605p11)
+ - [Google’s AI Overview Search Results Copied My Original Work](https://www.wired.com/story/google-ai-overview-search-results-copied-my-original-work/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
