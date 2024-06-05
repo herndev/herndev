@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Where&#39;s John Wick when you need him](http://9gag.com/gag/aXPp4Dz)
- - ⏩ [Asian stuffs](http://9gag.com/gag/a2vY0wY)
- - 👉 [Professor invited us for hiking. Only two of us showed up](http://9gag.com/gag/aBy3VwD)<!-- MEMES:END -->
+ - 💣 [Smart photographer...](http://9gag.com/gag/aGywMyw)
+ - ⏩ [Pet paw cleaner](http://9gag.com/gag/an7Kvqb)
+ - 👉 [This is not a election, this is Hunger games irl](http://9gag.com/gag/a0eL0yL)<!-- MEMES:END -->
 
 ---
 
