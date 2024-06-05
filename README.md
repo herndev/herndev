@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Duolingo deletes LGBTQ+ references in Russia after being warned by the country&#39;s communications regulator that the content is classed as &quot;extremism&quot; &lpar;Reuters&rpar;](http://www.techmeme.com/240605/p26#a240605p26)
- - [Nvidia is now more valuable than Apple at $3.01 trillion](https://www.theverge.com/2024/6/5/24172363/nvidia-apple-market-cap-valuation-trillion-ai)
- - [Humane warns AI Pin owners to ‘immediately’ stop using its charging case](https://www.theverge.com/2024/6/5/24172377/humane-ai-pin-battery-case-issue-warning)<!-- TECH:END -->
+ - [Stormy servers -- Apple Weather suffered an intermittent outage](https://appleinsider.com/articles/24/06/05/stormy-servers----apple-weather-suffers-an-intermittent-outage?utm_medium=rss)
+ - [Corning’s Gorilla Glass 7i promises tougher screens for mid-range phones](https://www.androidauthority.com/gorilla-glass-7i-launched-3449196/)
+ - [Home Cooling Costs Expected to Hit 10-Year High This Summer     - CNET](https://www.cnet.com/news/home-cooling-costs-expected-to-hit-10-year-high-this-summer/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
