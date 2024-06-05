@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [App Store just had its best quarter in four years, is crushing Google Play in spending](https://appleinsider.com/articles/24/06/05/app-store-just-had-its-best-quarter-in-four-years-is-crushing-google-play-in-spending?utm_medium=rss)
- - [This PlayStation VR2 Amazon deal slashes price by $100](https://www.androidauthority.com/playstation-vr2-deal-3448779/)
- - [The future of Netflix games could look like reality TV](https://www.theverge.com/24171526/netflix-games-too-hot-too-handle-interactive-fiction)<!-- TECH:END -->
+ - [Google acquires Cameyo to integrate Windows app virtualization into ChromeOS](https://www.theverge.com/2024/6/5/24171900/google-cameyo-acquisition-chromeos-windows-app-virtualization)
+ - [Third time’s the charm — Boeing’s Starliner crewed flight test has finally launched](https://www.theverge.com/2024/6/5/24172080/boeing-starliner-crewed-flight-test-launch-success)
+ - [Nothing Phone 3 won’t be coming this year. Here’s why.](https://www.androidauthority.com/nothing-phone-3-2025-3449098/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
