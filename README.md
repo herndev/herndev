@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Go to sleep bro!](http://9gag.com/gag/a7oy2Xw)
- - ⏩ [To spice up your relationship](http://9gag.com/gag/amo0meX)
- - 👉 [Trying is not torture...](http://9gag.com/gag/aGywAm0)<!-- MEMES:END -->
+ - 💣 [The bearings in Walmart skateboards for kids.](http://9gag.com/gag/aAyr2qL)
+ - ⏩ [Hiking accident, two people missing](http://9gag.com/gag/aMVrP5P)
+ - 👉 [He&#39;s a man of focus &amp; commitment](http://9gag.com/gag/aKGPvmO)<!-- MEMES:END -->
 
 ---
 
