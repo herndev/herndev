@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Long-Rumored Final Fantasy IX Remake Is ‘Very Far Along’ According To Latest Leaks](https://kotaku.com/final-fantasy-9-remake-leaks-square-enix-midori-1851520785)
- - [Destiny 2 Players Spent The Final Shape&#39;s First Night Erroring Out Of Major Cutscenes](https://kotaku.com/destiny-2-final-shape-cutscenes-error-code-currant-1851520706)
- - [Beloved Square Enix RPG Series Could Finally Sort Out Its Messy Exclusivity](https://kotaku.com/octopath-traveler-xbox-game-pass-ps4-ps5-1851520559)<!-- GAME:END -->
+ - [Fortnite&#39;s Free Cars Will Get You Killed Faster Than Its Paid Ones, New Video Shows [Update]](https://kotaku.com/fortnite-free-cars-pay-to-win-season-3-premium-skins-1851516668)
+ - [New Hades 2 patch decreases the likelihood of a ‘patently unfair’ Chronos](https://www.polygon.com/24172050/hades-2-patch-notes-chronos-weapon-upgrades)
+ - [All new Exotics in Destiny 2: The Final Shape](https://www.polygon.com/destiny-2-guide-walkthrough/24167097/final-shape-exotic-weapon-armor-list)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
