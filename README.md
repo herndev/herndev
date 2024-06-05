@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Anti Cat Table](http://9gag.com/gag/aVvWZBn)
- - ⏩ [Forgot WiFi Password? Useful information\u2026](http://9gag.com/gag/aO8b9Ev)
+ - 💣 [Teacher to kid 1980 scenario](http://9gag.com/gag/a87YeP1)
+ - ⏩ [Scroll of truth](http://9gag.com/gag/amo0mWV)
  - 👉 [Every year on the anniversary of D-Day, French citizens take sand from Omaha Beach and rub it onto the gravestones of fallen soldiers to create a golden shine. They do this for all 9,386 American soldiers buried there.](http://9gag.com/gag/axyZO4n)<!-- MEMES:END -->
 
 ---
