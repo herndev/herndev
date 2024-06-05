@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [PSA: Latest Google Maps beta breaks Android Auto, here’s the fix](https://www.androidauthority.com/psa-latest-google-maps-beta-breaks-android-auto-fix-3448906/)
- - [Switzerland-based Neural Concept, whose 3D product design software uses deep learning to help cut development times, raised a $27M Series B led by Forestay &lpar;Mike Butcher/TechCrunch&rpar;](http://www.techmeme.com/240604/p49#a240604p49)
- - [How to extract audio from video on Mac with built-in tools](https://appleinsider.com/inside/mac/tips/how-to-extract-audio-from-video-on-mac-with-built-in-tools?utm_medium=rss)<!-- TECH:END -->
+ - [Australia&#39;s eSafety commissioner ends the legal action asking X to remove a video of a clergyman&#39;s stabbing; Musk labelled the action an assault on free speech &lpar;Simon Sharwood/The Register&rpar;](http://www.techmeme.com/240605/p2#a240605p2)
+ - [Singapore-based Nium, a B2B cross-border payments infrastructure provider, raised $50M at a $1.4B valuation, down from $2B in 2022, as the firm eyes a 2025 IPO &lpar;Ryan Browne/CNBC&rpar;](http://www.techmeme.com/240605/p1#a240605p1)
+ - [Download these scary wallpapers for your phone](https://www.androidauthority.com/scary-wallpapers-3448909/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
