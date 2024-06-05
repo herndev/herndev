@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Pika, which offers AI tools to generate and edit videos, raised $80M from Spark, Lightspeed, and others at a $470M valuation, taking its total funding to $135M &lpar;Gerrit De Vynck/Washington Post&rpar;](http://www.techmeme.com/240604/p45#a240604p45)
- - [Australia&#39;s privacy regulator sues Medibank over an October 2022 data breach, accusing the health insurer of failing to protect the data of 9.7M customers &lpar;Emilia Terzon/ABC&rpar;](http://www.techmeme.com/240604/p44#a240604p44)
- - [Compare Electricity Rates in Massachusetts     - CNET](https://www.cnet.com/how-to/electricity-rates-massachusetts/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sources: some Chinese AI chip companies, including MetaX and Enflame, are submitting less powerful GPU designs to TSMC to comply with US sanctions &lpar;Fanny Potkin/Reuters&rpar;](http://www.techmeme.com/240604/p46#a240604p46)
+ - [Best Extra-Firm Mattress of 2024     - CNET](https://www.cnet.com/health/sleep/best-extra-firm-mattress/#ftag=CAD590a51e)
+ - [Best Twin Mattress for 2024     - CNET](https://www.cnet.com/health/sleep/best-twin-mattress/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
