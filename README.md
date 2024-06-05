@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [I know I shouldn\u2019t stare but damn](http://9gag.com/gag/aW4WLd2)
- - ⏩ [When Pride Parade clashes with #BLM protesters in Philly](http://9gag.com/gag/aBy3E2Z)
- - 👉 [Aunt May I?](http://9gag.com/gag/aBy3PMZ)<!-- MEMES:END -->
+ - ⏩ [Aunt May I?](http://9gag.com/gag/aBy3PMZ)
+ - 👉 [Hiking accident, two people missing](http://9gag.com/gag/aMVrP5P)<!-- MEMES:END -->
 
 ---
 
