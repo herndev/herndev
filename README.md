@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Power your laptop, while capturing its video output, with Avermedia&#39;s new 100W GaN charger](https://www.pcgamer.com/hardware/capture-cards/power-your-laptop-while-capturing-its-video-output-with-avermedias-new-100w-gan-charger)
- - [Fractal Design goes all touchy-feely with a fabric-covered PC case, a plushy headset, and a swish gaming chair](https://www.pcgamer.com/hardware/fractal-design-goes-all-touchy-feely-with-a-fabric-covered-pc-case-a-plushy-headset-and-a-swish-gaming-chair)
- - [Capture up to 4K gaming footage from your Steam Deck with Avermedia&#39;s new X&#39;Tra Go docking station](https://www.pcgamer.com/hardware/handheld-gaming-pcs/capture-up-to-4k-gaming-footage-from-your-steam-deck-with-avermedias-new-xtra-go-docking-station)<!-- GAME:END -->
+ - [Foundry Virtual Tabletop takes the online play experience to the next level](https://www.polygon.com/tabletop-games/24170422/foundry-virtual-tabletop-interview-explainer-immersive)
+ - [Where to find lost ghosts in Destiny 2: The Final Shape](https://www.pcgamer.com/games/fps/destiny-2-lost-ghost-locations)
+ - [Power your laptop, while capturing its video output, with Avermedia&#39;s new 100W GaN charger](https://www.pcgamer.com/hardware/capture-cards/power-your-laptop-while-capturing-its-video-output-with-avermedias-new-100w-gan-charger)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
