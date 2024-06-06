@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [After All These Years, I Still Wish Destiny Had An Offline Mode](https://kotaku.com/destiny-2-the-final-shape-server-error-offline-1851523773)
- - [Save 50% on some of our favorite dad-centric media at Barnes &amp; Noble](https://www.polygon.com/deals/24172825/fathers-day-movies-kino-lorber-barnes-noble-deal-sale)
- - [Yoshi-P will turn Final Fantasy 14: Dawntrail around if players keep asking for a raise spell on Pictomancer, jokes: &#39;it&#39;d be best to remove raise from all of those jobs&#39; if they don&#39;t behave](https://www.pcgamer.com/games/final-fantasy/yoshi-p-will-turn-final-fantasy-14-dawntrail-around-if-players-keep-asking-for-a-raise-spell-on-pictomancer-jokes-it-d-be-best-to-remove-raise-from-all-of-those-jobs-if-they-don-t-behave)<!-- GAME:END -->
+ - [What happens to your games after you die depends on your store of choice](https://www.polygon.com/gaming/24172809/steam-games-when-you-die-gog-itchio-estate-planning)
+ - [GOG will let you bequeath your game library to someone else as long as you can prove you&#39;re actually dead](https://www.pcgamer.com/gaming-industry/gog-will-let-you-bequeath-your-game-library-to-someone-else-as-long-as-you-can-prove-youre-actually-dead)
+ - [Retro collection specialist Digital Eclipse&#39;s next game is an unlikely sequel to a brutally hard 2013 platformer](https://www.pcgamer.com/games/action/retro-collection-specialist-digital-eclipses-next-game-is-an-unlikely-sequel-to-a-brutally-hard-2013-platformer)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
