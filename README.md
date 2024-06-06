@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Meet the Colombian Indie Team Behind Astor: Blade of the Monolith](https://news.xbox.com/en-us/2024/06/06/meet-indie-team-behind-astor-blade-of-the-monolith/)
- - [Unofficial Pokémon fan event drags ill Make-A-Wish children in front of a crowd, suffers invasive camera crews, and is haunted by the Ravioli Man](https://www.pcgamer.com/games/card-games/unofficial-pokemon-fan-event-drags-ill-make-a-wish-children-in-front-of-a-crowd-suffers-invasive-camera-crews-and-is-haunted-by-the-ravioli-man)
- - [How to finish ‘Wild Card’ and get Still Hunt in Destiny 2](https://www.polygon.com/destiny-2-guide-walkthrough/24172688/still-hunt-quest-wild-card)<!-- GAME:END -->
+ - [Hogwarts Legacy Summer Update Brings a Haunting to Hogsmeade, Photo Mode, and More](https://news.xbox.com/en-us/2024/06/06/hogwarts-legacy-summer-update/)
+ - [Bungie makes the best out of an impossible situation with Destiny 2’s Commander Zavala](https://www.polygon.com/24170271/commander-zavala-final-shape-keith-david-lance-reddick)
+ - [Dragon Age: Dreadwolf is now called Dragon Age: The Veilguard, first gameplay reveal is coming next week](https://www.pcgamer.com/games/rpg/dragon-age-dreadwolf-is-now-called-dragon-age-the-veilguard-first-gameplay-reveal-is-coming-next-week)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
