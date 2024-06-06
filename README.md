@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The bearings in Walmart skateboards for kids.](http://9gag.com/gag/aAyr2qL)
- - ⏩ [This is not a election, this is Hunger games irl](http://9gag.com/gag/a0eL0yL)
+ - 💣 [\u201cIf you can\u2019t handle me at my 15 man bukake then you don\u2019t deserve me and my after work kiss.\u201d -Riley Reid probably](http://9gag.com/gag/aGywMOn)
+ - ⏩ [Hiking accident, two people missing](http://9gag.com/gag/aMVrP5P)
  - 👉 [Parent lets her kids ruin a piano set performance](http://9gag.com/gag/axyZO9K)<!-- MEMES:END -->
 
 ---
