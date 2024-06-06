@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Hogwarts Legacy Summer Update Brings a Haunting to Hogsmeade, Photo Mode, and More](https://news.xbox.com/en-us/2024/06/06/hogwarts-legacy-summer-update/)
- - [Bungie makes the best out of an impossible situation with Destiny 2’s Commander Zavala](https://www.polygon.com/24170271/commander-zavala-final-shape-keith-david-lance-reddick)
- - [Dragon Age: Dreadwolf is now called Dragon Age: The Veilguard, first gameplay reveal is coming next week](https://www.pcgamer.com/games/rpg/dragon-age-dreadwolf-is-now-called-dragon-age-the-veilguard-first-gameplay-reveal-is-coming-next-week)<!-- GAME:END -->
+ - [After All These Years, I Still Wish Destiny Had An Offline Mode](https://kotaku.com/destiny-2-the-final-shape-server-error-offline-1851523773)
+ - [Save 50% on some of our favorite dad-centric media at Barnes &amp; Noble](https://www.polygon.com/deals/24172825/fathers-day-movies-kino-lorber-barnes-noble-deal-sale)
+ - [Yoshi-P will turn Final Fantasy 14: Dawntrail around if players keep asking for a raise spell on Pictomancer, jokes: &#39;it&#39;d be best to remove raise from all of those jobs&#39; if they don&#39;t behave](https://www.pcgamer.com/games/final-fantasy/yoshi-p-will-turn-final-fantasy-14-dawntrail-around-if-players-keep-asking-for-a-raise-spell-on-pictomancer-jokes-it-d-be-best-to-remove-raise-from-all-of-those-jobs-if-they-don-t-behave)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
