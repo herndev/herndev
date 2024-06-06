@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Your Galaxy Phone will soon let you peek the time with a back tap](https://www.androidauthority.com/galaxy-double-tap-time-feature-3449500/)
- - [Cara, an artist-run, anti-AI social platform, grew from 40K to 650K users in the past week, as some Instagram artists leave over plans to train AI on user data &lpar;Amanda Silberling/TechCrunch&rpar;](http://www.techmeme.com/240606/p31#a240606p31)
- - [OpenAI Offers a Peek Inside the Guts of ChatGPT](https://www.wired.com/story/openai-offers-a-peek-inside-the-guts-of-chatgpt/)<!-- TECH:END -->
+ - [Meta plans WhatsApp features, including an AI-powered assistant for businesses in India and Singapore, and AI tools to create ads in English-speaking markets &lpar;Aisha Counts/Bloomberg&rpar;](http://www.techmeme.com/240606/p34#a240606p34)
+ - [Meta rolls out its Meta Verified program for WhatsApp Business users in Brazil, India, Indonesia and Colombia, with subscription plans starting from $14 a month &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/240606/p33#a240606p33)
+ - [Google Account settings can now manage more than just work and home addresses](https://www.androidauthority.com/google-account-settings-addresses-3449517/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
