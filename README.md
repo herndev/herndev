@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This is 100% how dating a latina looks like](http://9gag.com/gag/a343b08)
- - ⏩ [Difference between men and women](http://9gag.com/gag/aD23Z2G)
- - 👉 [F*cking legend](http://9gag.com/gag/a9yL2Vm)<!-- MEMES:END -->
+ - 💣 [Last moment of Kabosu. The meme dog](http://9gag.com/gag/a9yLOXD)
+ - ⏩ [He was saved by those last two words](http://9gag.com/gag/ae902gp)
+ - 👉 [And\u2026 we\u2019re done with the cottage cheese sandwich](http://9gag.com/gag/aPA4Xpq)<!-- MEMES:END -->
 
 ---
 
