@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [What happens to your games after you die depends on your store of choice](https://www.polygon.com/gaming/24172809/steam-games-when-you-die-gog-itchio-estate-planning)
- - [GOG will let you bequeath your game library to someone else as long as you can prove you&#39;re actually dead](https://www.pcgamer.com/gaming-industry/gog-will-let-you-bequeath-your-game-library-to-someone-else-as-long-as-you-can-prove-youre-actually-dead)
- - [Retro collection specialist Digital Eclipse&#39;s next game is an unlikely sequel to a brutally hard 2013 platformer](https://www.pcgamer.com/games/action/retro-collection-specialist-digital-eclipses-next-game-is-an-unlikely-sequel-to-a-brutally-hard-2013-platformer)<!-- GAME:END -->
+ - [The best horror movies you can watch right now](https://www.polygon.com/22725152/best-horror-movies-netflix-amazon-prime-hulu-hbo)
+ - [A 1-Minute Trailer At Summer Game Fest Costs $250K [Update]](https://kotaku.com/summer-game-fest-sgf-prices-trailer-cost-e3-keighley-1851523472)
+ - [Octopath Traveler 2, Callisto Protocol lead a June 2024 Game Pass update](https://www.polygon.com/xbox/24172968/game-pass-june-2024-free-xbox-games-octopath-traveler-2-callisto-protocol)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
