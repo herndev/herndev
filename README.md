@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Watch SpaceX launch its fourth Starship flight test](https://www.theverge.com/2024/6/6/24172677/spacex-starship-fourth-flight-test-launch-window-livestream)
- - [iOS 18 Mail app will get huge AI enhancements &amp; summarizations with &#39;Project Blackpearl&#39;](https://appleinsider.com/articles/24/06/06/ios-18-mail-app-will-get-huge-ai-enhancements-summarizations-with-project-blackpearl?utm_medium=rss)
- - [The FBI urges LockBit ransomware victims to come forward after obtaining 7,000+ decryption keys to recover data; police seized 2,500+ keys in February 2024 &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/240606/p19#a240606p19)<!-- TECH:END -->
+ - [Watch SpaceX’s fourth Starship flight test](https://www.theverge.com/2024/6/6/24172677/spacex-starship-fourth-flight-test-launch-window-livestream)
+ - [Leica’s new app lets your iPhone mimic its cameras and classic lenses](https://www.theverge.com/2024/6/6/24172452/leica-lux-iphone-app-announced-camera-lens-profiles)
+ - [ChatGPT will no longer listen to you in the background, unless you change this setting](https://www.androidauthority.com/chatgpt-voice-background-listening-3449372/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
