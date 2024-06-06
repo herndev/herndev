@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google’s Find My Device could soon get UWB and AR upgrades &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-find-my-device-uwb-ar-upgrade-apk-teardown-3449281/)
- - [Cracked up: Apple’s iPhone warranty just got worse](https://www.androidauthority.com/iphone-warranty-got-worse-3449271/)
- - [Crypto miners are trying to ride the AI boom by converting data centers to rent out to AI companies or by selling computing power directly to AI clients &lpar;David Pan/Bloomberg&rpar;](http://www.techmeme.com/240606/p8#a240606p8)<!-- TECH:END -->
+ - [ASML&#39;s shares jumped 8.1% on July 5 to reach a &amp;euro;377B market cap, passing fashion conglomerate LVMH for the first time; only Novo Nordisk is worth more in Europe &lpar;Bloomberg&rpar;](http://www.techmeme.com/240606/p12#a240606p12)
+ - [Ikea plans to hire 10 people to run its virtual Roblox store, including to help pick out furniture and serve meatballs in the Bistro, and will pay &amp;pound;13.50/hour &lpar;Joshua Robertson/TheGamer&rpar;](http://www.techmeme.com/240606/p11#a240606p11)
+ - [Nicole Shanahan Is Just Getting Started](https://www.wired.com/story/nicole-shanahan-pseudoscience-autism-research/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
