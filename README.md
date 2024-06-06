@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta plans WhatsApp features, including an AI-powered assistant for businesses in India and Singapore, and AI tools to create ads in English-speaking markets &lpar;Aisha Counts/Bloomberg&rpar;](http://www.techmeme.com/240606/p34#a240606p34)
- - [Meta rolls out its Meta Verified program for WhatsApp Business users in Brazil, India, Indonesia and Colombia, with subscription plans starting from $14 a month &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/240606/p33#a240606p33)
- - [Google Account settings can now manage more than just work and home addresses](https://www.androidauthority.com/google-account-settings-addresses-3449517/)<!-- TECH:END -->
+ - [Former Autonomy CEO Mike Lynch Cleared in US Fraud Trial](https://www.wired.com/story/former-autonomy-ceo-mike-lynch-cleared-in-us-fraud-trial/)
+ - [Adobe faces a backlash over its terms of service that say Adobe may access user content via &quot;automated and manual methods&quot; to improve its services and software &lpar;Carl Franzen/VentureBeat&rpar;](http://www.techmeme.com/240606/p36#a240606p36)
+ - [The Snowflake Attack May Be Turning Into One of the Largest Data Breaches Ever](https://www.wired.com/story/snowflake-breach-advanced-auto-parts-lendingtree/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
