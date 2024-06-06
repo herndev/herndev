@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Heybike Hero review: sparing almost no expense in a carbon fiber e-bike](https://appleinsider.com/articles/24/06/06/heybike-hero-review-sparing-almost-no-expense-in-a-carbon-fiber-e-bike?utm_medium=rss)
- - [Amazon&#39;s robotaxi unit Zoox plans to start testing its autonomous vehicles this summer in Austin and Miami, the company&#39;s fourth and fifth public testing cities &lpar;Rebecca Bellan/TechCrunch&rpar;](http://www.techmeme.com/240605/p34#a240605p34)
- - [Carl Pei says smartphones will be the main AI form factor of the future, but the UX needs to be redefined, and Phone &lpar;3&rpar; will be Nothing&#39;s first true AI phone &lpar;David Pierce/The Verge&rpar;](http://www.techmeme.com/240605/p33#a240605p33)<!-- TECH:END -->
+ - [Brazil-based Kanastra, which supplies back-office technology for asset-backed securities funds, raised a $21M Series A led by Kaszek, following a $13M seed &lpar;Daniel Cancel/Bloomberg&rpar;](http://www.techmeme.com/240605/p35#a240605p35)
+ - [Download these sci-fi wallpapers for your phone](https://www.androidauthority.com/sci-fi-wallpapers-3448945/)
+ - [Heybike Hero review: sparing almost no expense in a carbon fiber e-bike](https://appleinsider.com/articles/24/06/06/heybike-hero-review-sparing-almost-no-expense-in-a-carbon-fiber-e-bike?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
