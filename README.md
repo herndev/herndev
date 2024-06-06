@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Not sure what movie to watch? Leave a comment, we’ll help](https://www.polygon.com/entertainment/2024/6/6/24172064/best-movies-watch-tonight-best-recommendations-streaming)
- - [Destiny 2: How to unlock the Prismatic subclass plus aspects, fragments, and abilities](https://www.pcgamer.com/games/fps/destiny-2-prismatic-subclass-fragments-unlocks)
- - [Report: Warner Bros. Execs Thought Suicide Squad Would Make A Ton Of Money Despite Development Woes](https://kotaku.com/suicide-squad-hogwarts-legacy-rocksteady-arkham-1851522893)<!-- GAME:END -->
+ - [Meet the Colombian Indie Team Behind Astor: Blade of the Monolith](https://news.xbox.com/en-us/2024/06/06/meet-indie-team-behind-astor-blade-of-the-monolith/)
+ - [Unofficial Pokémon fan event drags ill Make-A-Wish children in front of a crowd, suffers invasive camera crews, and is haunted by the Ravioli Man](https://www.pcgamer.com/games/card-games/unofficial-pokemon-fan-event-drags-ill-make-a-wish-children-in-front-of-a-crowd-suffers-invasive-camera-crews-and-is-haunted-by-the-ravioli-man)
+ - [How to finish ‘Wild Card’ and get Still Hunt in Destiny 2](https://www.polygon.com/destiny-2-guide-walkthrough/24172688/still-hunt-quest-wild-card)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
