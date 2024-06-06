@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [ASML&#39;s shares jumped 8.1% on July 5 to reach a &amp;euro;377B market cap, passing fashion conglomerate LVMH for the first time; only Novo Nordisk is worth more in Europe &lpar;Bloomberg&rpar;](http://www.techmeme.com/240606/p12#a240606p12)
- - [Ikea plans to hire 10 people to run its virtual Roblox store, including to help pick out furniture and serve meatballs in the Bistro, and will pay &amp;pound;13.50/hour &lpar;Joshua Robertson/TheGamer&rpar;](http://www.techmeme.com/240606/p11#a240606p11)
- - [Nicole Shanahan Is Just Getting Started](https://www.wired.com/story/nicole-shanahan-pseudoscience-autism-research/)<!-- TECH:END -->
+ - [Google makes its note-taking AI NotebookLM more useful](https://www.theverge.com/2024/6/6/24172422/google-notebooklm-ai-gemini-pro-chatbot)
+ - [A look back at Sam Altman&#39;s career, starting as Loopt CEO before moving to YC and founding OpenAI in 2015, as many former allies now view his charm as duplicity &lpar;Ellen Huet/Bloomberg&rpar;](http://www.techmeme.com/240606/p16#a240606p16)
+ - [Sources: as Humane&#39;s Ai Pin flopped, with just ~10,000 orders by early April, the startup started talking to HP about a $1B+ sale; Humane has raised $240M &lpar;New York Times&rpar;](http://www.techmeme.com/240606/p15#a240606p15)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
