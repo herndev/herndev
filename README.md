@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Hiking accident, two people missing](http://9gag.com/gag/aMVrP5P)
- - ⏩ [A bit cringe talk](http://9gag.com/gag/an7KxM0)
- - 👉 [The bearings in Walmart skateboards for kids.](http://9gag.com/gag/aAyr2qL)<!-- MEMES:END -->
+ - 💣 [Not good in a man&#39;s way. I mean like a woman. I&#39;m concerned.](http://9gag.com/gag/aXPpWj6)
+ - ⏩ [He F*cked around, and found out!](http://9gag.com/gag/aBy3Eb2)
+ - 👉 [\u201cIf you can\u2019t handle me at my 15 man bukake then you don\u2019t deserve me and my after work kiss.\u201d -Riley Reid probably](http://9gag.com/gag/aGywMOn)<!-- MEMES:END -->
 
 ---
 
