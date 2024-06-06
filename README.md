@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Hypergamy](http://9gag.com/gag/aoy0Lex)
- - ⏩ [A poor young girl being forced to sign a marriage certificate to an older man.](http://9gag.com/gag/a0eLn0q)
+ - 💣 [This is 100% how dating a latina looks like](http://9gag.com/gag/a343b08)
+ - ⏩ [Difference between men and women](http://9gag.com/gag/aD23Z2G)
  - 👉 [F*cking legend](http://9gag.com/gag/a9yL2Vm)<!-- MEMES:END -->
 
 ---
