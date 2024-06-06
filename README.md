@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [A devoted \u271d\ufe0f police officer unlived, and the state invited Muslim imams to pray at the officer\u2019s memorial and recite the Quran. Humiliation at its finest.](http://9gag.com/gag/aGywABZ)
- - ⏩ [F*cking legend](http://9gag.com/gag/a9yL2Vm)
- - 👉 [Aunt May I?](http://9gag.com/gag/aBy3PMZ)<!-- MEMES:END -->
+ - 💣 [The bearings in Walmart skateboards for kids.](http://9gag.com/gag/aAyr2qL)
+ - ⏩ [Try to act surprised and don&#39;t laugh &lpar;too much&rpar;](http://9gag.com/gag/aPA41XV)
+ - 👉 [Oh yes the classic society](http://9gag.com/gag/a9yLOpZ)<!-- MEMES:END -->
 
 ---
 
