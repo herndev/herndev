@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This is 100% how dating a latina looks like](http://9gag.com/gag/a343b08)
- - ⏩ [Rage against the Mother](http://9gag.com/gag/a9yLX6D)
- - 👉 [Based cat.](http://9gag.com/gag/aW4WDOq)<!-- MEMES:END -->
+ - 💣 [F*cking legend](http://9gag.com/gag/a9yL2Vm)
+ - ⏩ [Aunt May I?](http://9gag.com/gag/aBy3PMZ)
+ - 👉 [A poor young girl being forced to sign a marriage certificate to an older man.](http://9gag.com/gag/a0eLn0q)<!-- MEMES:END -->
 
 ---
 
