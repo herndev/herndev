@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Gigabyte&#39;s &#39;Next-gen&#39; Intel motherboard shows off the new Arrow Lake CPU socket for the first time alongside AMD&#39;s X870E](https://www.pcgamer.com/hardware/motherboards/gigabytes-next-gen-intel-motherboard-shows-off-the-new-arrow-lake-cpu-socket-for-the-first-time-alongside-amds-x870e)
- - [Mystery RAM slots, watercooled Nvidia GPUs, and dragons galore: The MSI booth was jam packed with PC gaming gear &lpar;and crowds&rpar; at Computex 2024](https://www.pcgamer.com/hardware/mystery-ram-slots-watercooled-nvidia-gpus-and-dragons-galore-the-msi-booth-was-jam-packed-with-pc-gaming-gear-and-crowds-at-computex-2024)
- - [Qualcomm&#39;s new Windows PC chip supports AMD&#39;s FSR… and I&#39;m not sure AMD had any idea about it](https://www.pcgamer.com/hardware/gaming-laptops/qualcomms-new-windows-pc-chip-supports-amds-fsr-and-im-not-sure-amd-had-any-idea-about-it)<!-- GAME:END -->
+ - [You had one job FedEx: $400,000 worth of stolen Playdate consoles reappear at a random restaurant](https://www.pcgamer.com/gaming-industry/you-had-one-job-fedex-dollar400000-worth-of-stolen-playdate-consoles-reappear-at-a-random-restaurant)
+ - [Why I&#39;m worried about Dragon Age Dreadwolf—and the Tiamat-sized RPG Baldur&#39;s Gate 3 looming over it is just the start](https://www.pcgamer.com/games/rpg/why-im-worried-about-dragon-age-dreadwolfand-the-tiamat-sized-fantasy-rpg-dragon-of-baldurs-gate-3-looming-over-proceedings-is-just-the-start)
+ - [Thanks to billionaires and businesses going mad for AI, Nvidia&#39;s market cap rockets past $3 trillion, pushing Apple into third place](https://www.pcgamer.com/software/ai/thanks-to-billionaires-and-businesses-going-mad-for-ai-nvidias-market-cap-rockets-past-dollar3-trillion-pushing-apple-into-third-place)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
