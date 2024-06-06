@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Buying a Pixel 8? Get four months of One AI Premium on the house](https://www.androidauthority.com/google-pixel-8-one-ai-premium-offer-3449256/)
- - [ASUS shows off Mjolnir, a hammer-shaped power station with Qi 2.0 support](https://www.androidauthority.com/asus-mjolnir-hammer-shaped-power-station-3447414/)
- - [How to Lead an Army of Digital Sleuths in the Age of AI](https://www.wired.com/story/how-to-lead-army-of-digital-sleuths-age-of-ai/)<!-- TECH:END -->
+ - [Google’s Find My Device could soon get UWB and AR upgrades &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-find-my-device-uwb-ar-upgrade-apk-teardown-3449281/)
+ - [Cracked up: Apple’s iPhone warranty just got worse](https://www.androidauthority.com/iphone-warranty-got-worse-3449271/)
+ - [Crypto miners are trying to ride the AI boom by converting data centers to rent out to AI companies or by selling computing power directly to AI clients &lpar;David Pan/Bloomberg&rpar;](http://www.techmeme.com/240606/p8#a240606p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
