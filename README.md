@@ -48,7 +48,7 @@
 <!-- MEMES:START -->
  - 💣 [A devoted \u271d\ufe0f police officer unlived, and the state invited Muslim imams to pray at the officer\u2019s memorial and recite the Quran. Humiliation at its finest.](http://9gag.com/gag/aGywABZ)
  - ⏩ [Air Canada. Engine compressor stall on takeoff.](http://9gag.com/gag/aAyrv6o)
- - 👉 [The bearings in Walmart skateboards for kids.](http://9gag.com/gag/aAyr2qL)<!-- MEMES:END -->
+ - 👉 [Don&#39;t give up guys](http://9gag.com/gag/aD23Q3B)<!-- MEMES:END -->
 
 ---
 
