@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Seven Samurai is in 4K](https://www.theverge.com/2024/6/6/24173127/seven-samurai-4k-restoration-theatrical-release)
- - [Snapdragon X laptops might be the only Copilot Plus machines for a while](https://www.androidauthority.com/copilot-plus-intel-amd-3449559/)
- - [Sources: Apple plans a dedicated Passwords app in iOS 18 and macOS 15, powered by the iCloud Keychain; Apple will let users import passwords from rival services &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/240606/p38#a240606p38)<!-- TECH:END -->
+ - [Sony ditches 8K branding from PlayStation 5 boxes amidst PS5 Pro rumors](https://www.androidauthority.com/sony-ps5-8k-branding-3449583/)
+ - [NY AG sues crypto companies AWS Mining and NovaTechFX for allegedly operating pyramid schemes that targeted Haitian immigrants and bilked investors out of $1B+ &lpar;Cheyenne Ligon/CoinDesk&rpar;](http://www.techmeme.com/240606/p39#a240606p39)
+ - [Apple takes aim at third-party password managers with Passwords app](https://www.androidauthority.com/apple-passwords-app-3449573/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
