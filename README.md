@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Netflix’s killer-shark movie Under Paris is the missing link between Jaws and Sharktopus](https://www.polygon.com/reviews/24172358/under-paris-review-netflix-shark-attack-thriller)
- - [I tried to recreate Marvel&#39;s Iron Man in this movie studio sim, and my version was so bad my own father stormed out of the theater](https://www.pcgamer.com/games/sim/i-tried-to-recreate-marvels-iron-man-in-this-movie-studio-sim-and-my-version-was-so-bad-my-own-father-stormed-out-of-the-theater)
- - [How to watch the 2024 PC Gaming Show: our 10th annual summer showcase](https://www.pcgamer.com/games/how-to-watch-the-2024-pc-gaming-show)<!-- GAME:END -->
+ - [This anti-meat industry horror game was inspired by the death of the dev&#39;s pet chicken, and it&#39;s basically Abe&#39;s Oddysee plus Resident Evil but you&#39;re poultry](https://www.pcgamer.com/games/horror/this-anti-meat-industry-horror-game-was-inspired-by-the-death-of-the-devs-pet-chicken-and-its-basically-abes-oddysee-plus-resident-evil-but-youre-poultry)
+ - [The next season of actual play TTRPG series Dimension 20 is based on action movies, and looks like it&#39;s about ordinary people who get Jumanjied into Die Hard](https://www.pcgamer.com/games/board-games/the-next-season-of-actual-play-ttrpg-series-dimension-20-is-based-on-action-movies-and-looks-like-its-about-ordinary-people-who-get-jumanjied-into-die-hard)
+ - [Netflix’s killer-shark movie Under Paris is the missing link between Jaws and Sharktopus](https://www.polygon.com/reviews/24172358/under-paris-review-netflix-shark-attack-thriller)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
