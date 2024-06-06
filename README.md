@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The interconnected world of unofficial Dark Souls sequel Nightfall was just about finalized a whole year ago, but advances in modding tools led its creators to rebuild the whole thing](https://www.pcgamer.com/games/rpg/the-interconnected-world-of-unofficial-dark-souls-sequel-nightfall-was-just-about-finalized-a-whole-year-ago-but-advances-in-modding-tools-led-its-creators-to-rebuild-the-whole-thing)
- - [The Axis Unseen, a &#39;heavy metal horror game&#39; about bowhunting monsters from ancient folklore, drops a new trailer that is very metal indeed](https://www.pcgamer.com/games/action/the-axis-unseen-a-heavy-metal-horror-game-about-bowhunting-monsters-from-ancient-folklore-drops-a-new-trailer-that-is-very-metal-indeed)
- - [Where to unlock all custom deliveries in FFXIV](https://www.polygon.com/ffxiv-guides-ff14-final-fantasy-14-online/24172955/custom-deliveries-rewards-unlock-quests-list-locations-clients)<!-- GAME:END -->
+ - [Hello, PC gaming here: Are the consoles OK?](https://www.pcgamer.com/gaming-industry/hello-pc-gaming-here-are-the-consoles-ok)
+ - [Astro Bot pre-order begins June 7, features PaRappa Lovestruck Lyricist outfit and more](https://blog.playstation.com/2024/06/06/astro-bot-pre-order-begins-june-7-features-parappa-lovestruck-lyricist-outfit-and-more/)
+ - [Astro Bot pre-order begins June 7, features PaRappa Lovestruck Lyricist outfit and more](https://blog.playstation.com/2024/06/06/astro-bot-pre-order-begins-june-7-features-parappa-lovestruck-lyricist-outfit-and-more/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
