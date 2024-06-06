@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Parent lets her kids ruin a piano set performance](http://9gag.com/gag/axyZO9K)
- - ⏩ [Try to act surprised and don&#39;t laugh &lpar;too much&rpar;](http://9gag.com/gag/aPA41XV)
- - 👉 [A devoted \u271d\ufe0f police officer unlived, and the state invited Muslim imams to pray at the officer\u2019s memorial and recite the Quran. Humiliation at its finest.](http://9gag.com/gag/aGywABZ)<!-- MEMES:END -->
+ - 💣 [For every action, there is a reaction. And Polish reaction \u2026 is quite a f*** thing.](http://9gag.com/gag/aoy0n5g)
+ - ⏩ [Title](http://9gag.com/gag/azxEYpN)
+ - 👉 [I&#39;m being honest](http://9gag.com/gag/ayN0ROp)<!-- MEMES:END -->
 
 ---
 
