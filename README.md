@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best Sony Xperia 10 VI cases you can buy](https://www.androidauthority.com/best-sony-xperia-10-vi-cases-3446203/)
- - [All of the active antitrust cases Apple is fighting around the world](https://appleinsider.com/articles/24/06/06/all-of-the-active-antitrust-cases-apple-is-fighting-around-the-world?utm_medium=rss)
- - [Sources: ByteDance has been renting Nvidia&#39;s GPUs from Oracle to bypass US sanctions; China Telecom and other Chinese companies are using the same loophole &lpar;Anissa Gardizy/The Information&rpar;](http://www.techmeme.com/240606/p24#a240606p24)<!-- TECH:END -->
+ - [Apple&#39;s 2024 Design Award winners run the gamut of classic puzzle games to immersive experiences](https://appleinsider.com/articles/24/06/06/apples-2024-design-award-winners-run-the-gamut-of-classic-puzzle-games-to-immersive-experiences?utm_medium=rss)
+ - [Tektonic AI, which wants to build generative AI agents for automating business operations, raised a $10M seed led by Point72 Ventures and Madrona Ventures &lpar;Frederic Lardinois/TechCrunch&rpar;](http://www.techmeme.com/240606/p27#a240606p27)
+ - [Galaxy AI’s Live Translate feature will soon support non-Samsung apps](https://www.androidauthority.com/live-translate-galaxy-ai-dialers-3449457/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
