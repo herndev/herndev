@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Microsoft Flight Simulator Releases Famous Flyer 09: Douglas C-47D Skytrain &amp; Waco CG-4A](https://www.flightsimulator.com/famous-flyer-9/#new_tab)
- - [New Helldivers 2 CEO says dev-player relationships are more &#39;doctor/patient&#39;, reveals that Arrowhead&#39;s taking a stethoscope to your Reddit posts and YouTube rants](https://www.pcgamer.com/games/third-person-shooter/new-helldivers-2-ceo-says-dev-player-relationships-are-doctor-patient-reveals-that-arrowhead-s-taking-a-microscope-to-your-reddit-posts-and-youtube-rants)
- - [Destiny 2 now has a sword that can fire rockets—here&#39;s how to get it](https://www.pcgamer.com/games/fps/destiny-2-ergo-sum)<!-- GAME:END -->
+ - [Coming to Game Pass: Octopath Traveler II, The Callisto Protocol, Still Wakes the Deep, and More](https://news.xbox.com/en-us/2024/06/06/xbox-game-pass-june-2024-wave-1/)
+ - [ThunderX3 shows off two new gaming chairs, an update to one of the best gaming chairs you can buy and a funky-looking mesh model](https://www.pcgamer.com/hardware/gaming-chairs/thunderx3-shows-off-two-new-gaming-chairs-an-update-to-one-of-the-best-gaming-chairs-you-can-buy-and-a-funky-looking-mesh-model)
+ - [Helldivers II enlists The Viper Commandos Warbond on June 13](https://blog.playstation.com/2024/06/06/helldivers-ii-enlists-the-viper-commandos-warbond-on-june-13/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
