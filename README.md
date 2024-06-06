@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Parent lets her kids ruin a piano set performance](http://9gag.com/gag/axyZO9K)
- - ⏩ [The bearings in Walmart skateboards for kids.](http://9gag.com/gag/aAyr2qL)
- - 👉 [A poor young girl being forced to sign a marriage certificate to an older man.](http://9gag.com/gag/a0eLn0q)<!-- MEMES:END -->
+ - 💣 [Hypergamy](http://9gag.com/gag/aoy0Lex)
+ - ⏩ [A poor young girl being forced to sign a marriage certificate to an older man.](http://9gag.com/gag/a0eLn0q)
+ - 👉 [F*cking legend](http://9gag.com/gag/a9yL2Vm)<!-- MEMES:END -->
 
 ---
 
