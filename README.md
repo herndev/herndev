@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [An investigation based on 22M+ flight coordinates reveals how the US&#39; first police drone program, in Chula Vista, CA, impacts residents amid privacy concerns &lpar;Wired&rpar;](http://www.techmeme.com/240606/p6#a240606p6)
- - [OnePlus 12’s Glacial White variant is here, just as we predicted](https://www.androidauthority.com/oneplus-12-glacial-white-variant-3449247/)
- - [TSMC&#39;s Taiwan-listed shares hit a new record high after its US-listed stock jumped 6.85% overnight, following a rally by shares of Nvidia, a major TSMC customer &lpar;Sherry Qin/Wall Street Journal&rpar;](http://www.techmeme.com/240606/p5#a240606p5)<!-- TECH:END -->
+ - [Buying a Pixel 8? Get four months of One AI Premium on the house](https://www.androidauthority.com/google-pixel-8-one-ai-premium-offer-3449256/)
+ - [ASUS shows off Mjolnir, a hammer-shaped power station with Qi 2.0 support](https://www.androidauthority.com/asus-mjolnir-hammer-shaped-power-station-3447414/)
+ - [How to Lead an Army of Digital Sleuths in the Age of AI](https://www.wired.com/story/how-to-lead-army-of-digital-sleuths-age-of-ai/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
