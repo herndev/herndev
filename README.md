@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Where to unlock all custom deliveries in FFXIV](https://www.polygon.com/ffxiv-guides-ff14-final-fantasy-14-online/24172955/custom-deliveries-rewards-unlock-quests-list-locations-clients)
- - [How to get the Overgrown Prismatic Key in Destiny 2](https://www.polygon.com/destiny-2-guide-walkthrough/24172993/overgrown-prismatic-key-how-to-get-ghost-locations)
- - [How to get the Divided Prismatic Key in Destiny 2](https://www.polygon.com/destiny-2-guide-walkthrough/24172952/divided-prismatic-key-how-to-get)<!-- GAME:END -->
+ - [The interconnected world of unofficial Dark Souls sequel Nightfall was just about finalized a whole year ago, but advances in modding tools led its creators to rebuild the whole thing](https://www.pcgamer.com/games/rpg/the-interconnected-world-of-unofficial-dark-souls-sequel-nightfall-was-just-about-finalized-a-whole-year-ago-but-advances-in-modding-tools-led-its-creators-to-rebuild-the-whole-thing)
+ - [The Axis Unseen, a &#39;heavy metal horror game&#39; about bowhunting monsters from ancient folklore, drops a new trailer that is very metal indeed](https://www.pcgamer.com/games/action/the-axis-unseen-a-heavy-metal-horror-game-about-bowhunting-monsters-from-ancient-folklore-drops-a-new-trailer-that-is-very-metal-indeed)
+ - [Where to unlock all custom deliveries in FFXIV](https://www.polygon.com/ffxiv-guides-ff14-final-fantasy-14-online/24172955/custom-deliveries-rewards-unlock-quests-list-locations-clients)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
