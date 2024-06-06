@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Former Autonomy CEO Mike Lynch Cleared in US Fraud Trial](https://www.wired.com/story/former-autonomy-ceo-mike-lynch-cleared-in-us-fraud-trial/)
- - [Adobe faces a backlash over its terms of service that say Adobe may access user content via &quot;automated and manual methods&quot; to improve its services and software &lpar;Carl Franzen/VentureBeat&rpar;](http://www.techmeme.com/240606/p36#a240606p36)
- - [The Snowflake Attack May Be Turning Into One of the Largest Data Breaches Ever](https://www.wired.com/story/snowflake-breach-advanced-auto-parts-lendingtree/)<!-- TECH:END -->
+ - [Seven Samurai is in 4K](https://www.theverge.com/2024/6/6/24173127/seven-samurai-4k-restoration-theatrical-release)
+ - [Snapdragon X laptops might be the only Copilot Plus machines for a while](https://www.androidauthority.com/copilot-plus-intel-amd-3449559/)
+ - [Sources: Apple plans a dedicated Passwords app in iOS 18 and macOS 15, powered by the iCloud Keychain; Apple will let users import passwords from rival services &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/240606/p38#a240606p38)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
