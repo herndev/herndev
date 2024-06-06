@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The PlayStation 5 Slim just got its first discount](https://www.polygon.com/deals/24173090/playstation-5-ps5-best-buy-amazon-gaming-deal-sale)
- - [The Danganronpa Devs Are Making An ‘Extreme Baseball RPG’](https://kotaku.com/tribe-nine-game-beta-anime-danganronpa-steam-mobile-1851524475)
- - [You can get the Eye of Sauron in Lego form with the new Barad-dûr set](https://www.polygon.com/24156614/barad-dur-lego-set-eye-sauron-lord-rings-release-date-price)<!-- GAME:END -->
+ - [Where to unlock all custom deliveries in FFXIV](https://www.polygon.com/ffxiv-guides-ff14-final-fantasy-14-online/24172955/custom-deliveries-rewards-unlock-quests-list-locations-clients)
+ - [How to get the Overgrown Prismatic Key in Destiny 2](https://www.polygon.com/destiny-2-guide-walkthrough/24172993/overgrown-prismatic-key-how-to-get-ghost-locations)
+ - [How to get the Divided Prismatic Key in Destiny 2](https://www.polygon.com/destiny-2-guide-walkthrough/24172952/divided-prismatic-key-how-to-get)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
