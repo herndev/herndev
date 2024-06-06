@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google makes its note-taking AI NotebookLM more useful](https://www.theverge.com/2024/6/6/24172422/google-notebooklm-ai-gemini-pro-chatbot)
- - [A look back at Sam Altman&#39;s career, starting as Loopt CEO before moving to YC and founding OpenAI in 2015, as many former allies now view his charm as duplicity &lpar;Ellen Huet/Bloomberg&rpar;](http://www.techmeme.com/240606/p16#a240606p16)
- - [Sources: as Humane&#39;s Ai Pin flopped, with just ~10,000 orders by early April, the startup started talking to HP about a $1B+ sale; Humane has raised $240M &lpar;New York Times&rpar;](http://www.techmeme.com/240606/p15#a240606p15)<!-- TECH:END -->
+ - [Watch SpaceX launch its fourth Starship flight test](https://www.theverge.com/2024/6/6/24172677/spacex-starship-fourth-flight-test-launch-window-livestream)
+ - [iOS 18 Mail app will get huge AI enhancements &amp; summarizations with &#39;Project Blackpearl&#39;](https://appleinsider.com/articles/24/06/06/ios-18-mail-app-will-get-huge-ai-enhancements-summarizations-with-project-blackpearl?utm_medium=rss)
+ - [The FBI urges LockBit ransomware victims to come forward after obtaining 7,000+ decryption keys to recover data; police seized 2,500+ keys in February 2024 &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/240606/p19#a240606p19)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
