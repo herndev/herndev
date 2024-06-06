@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s 2024 Design Award winners run the gamut of classic puzzle games to immersive experiences](https://appleinsider.com/articles/24/06/06/apples-2024-design-award-winners-run-the-gamut-of-classic-puzzle-games-to-immersive-experiences?utm_medium=rss)
- - [Tektonic AI, which wants to build generative AI agents for automating business operations, raised a $10M seed led by Point72 Ventures and Madrona Ventures &lpar;Frederic Lardinois/TechCrunch&rpar;](http://www.techmeme.com/240606/p27#a240606p27)
- - [Galaxy AI’s Live Translate feature will soon support non-Samsung apps](https://www.androidauthority.com/live-translate-galaxy-ai-dialers-3449457/)<!-- TECH:END -->
+ - [Netflix’s latest redesign aims to simplify your homepage](https://www.theverge.com/2024/6/6/24172351/netflix-redesign-homepage-experience-test)
+ - [US is likely prepping antitrust suits for NVIDIA, Microsoft, and OpenAI, simultaneously](https://www.androidauthority.com/nvidia-microsoft-openai-antitrust-3449478/)
+ - [Twitch announces a program in which DJs can use copyrighted music in streams by paying a fee; Twitch signed deals with UMG, WMG, Sony Music and indie labels &lpar;Mia Sato/The Verge&rpar;](http://www.techmeme.com/240606/p30#a240606p30)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
