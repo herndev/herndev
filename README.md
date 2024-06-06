@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Stability AI releases Stable Audio Open, a text-to-audio model that generates up to 47 seconds of samples and sound effects, prohibited for commercial use &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240605/p30#a240605p30)
- - [The best instant cameras you can buy right now](https://www.theverge.com/23133103/best-instant-cameras-fujifilm-polaroid-kodak)
- - [Humane warns of fire safety risk from AI Pin’s charging case accessory](https://www.androidauthority.com/humane-ai-pin-charging-warning-3449221/)<!-- TECH:END -->
+ - [Lego’s limited-edition Ominous Isle and British train station are imminently going on sale](https://www.theverge.com/2024/6/5/24172437/lego-bricklink-designer-program-series-2-price-date)
+ - [Star Wars Vinyl Wall Decals     - CNET](https://www.cnet.com/news/star-wars-vinyl-wall-decals-dpnl/#ftag=CAD590a51e)
+ - [In a UK compliance statement, Apple revealed that the iPhone 15 Pro Max will receive security updates for a minimum of five years from September 2023 &lpar;Mishaal Rahman/Android Authority&rpar;](http://www.techmeme.com/240605/p31#a240605p31)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
