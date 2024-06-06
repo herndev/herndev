@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Netflix’s killer-shark movie Under Paris is the missing link between Jaws and Sharktopus](https://www.polygon.com/reviews/24172358/under-paris-review-netflix-shark-attack-thriller)
  - [I tried to recreate Marvel&#39;s Iron Man in this movie studio sim, and my version was so bad my own father stormed out of the theater](https://www.pcgamer.com/games/sim/i-tried-to-recreate-marvels-iron-man-in-this-movie-studio-sim-and-my-version-was-so-bad-my-own-father-stormed-out-of-the-theater)
- - [How to watch the 2024 PC Gaming Show: our 10th annual summer showcase](https://www.pcgamer.com/games/how-to-watch-the-2024-pc-gaming-show)
- - [Russian Twitch streamer sentenced to more than 5 years in prison for criticizing the invasion of Ukraine](https://www.pcgamer.com/gaming-industry/russian-twitch-streamer-sentenced-to-more-than-5-years-in-prison-for-criticizing-the-invasion-of-ukraine)<!-- GAME:END -->
+ - [How to watch the 2024 PC Gaming Show: our 10th annual summer showcase](https://www.pcgamer.com/games/how-to-watch-the-2024-pc-gaming-show)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
