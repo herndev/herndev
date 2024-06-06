@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Netflix’s latest redesign aims to simplify your homepage](https://www.theverge.com/2024/6/6/24172351/netflix-redesign-homepage-experience-test)
- - [US is likely prepping antitrust suits for NVIDIA, Microsoft, and OpenAI, simultaneously](https://www.androidauthority.com/nvidia-microsoft-openai-antitrust-3449478/)
- - [Twitch announces a program in which DJs can use copyrighted music in streams by paying a fee; Twitch signed deals with UMG, WMG, Sony Music and indie labels &lpar;Mia Sato/The Verge&rpar;](http://www.techmeme.com/240606/p30#a240606p30)<!-- TECH:END -->
+ - [Your Galaxy Phone will soon let you peek the time with a back tap](https://www.androidauthority.com/galaxy-double-tap-time-feature-3449500/)
+ - [Cara, an artist-run, anti-AI social platform, grew from 40K to 650K users in the past week, as some Instagram artists leave over plans to train AI on user data &lpar;Amanda Silberling/TechCrunch&rpar;](http://www.techmeme.com/240606/p31#a240606p31)
+ - [OpenAI Offers a Peek Inside the Guts of ChatGPT](https://www.wired.com/story/openai-offers-a-peek-inside-the-guts-of-chatgpt/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
