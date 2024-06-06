@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [A poor young girl being forced to sign a marriage certificate to an older man.](http://9gag.com/gag/a0eLn0q)
- - ⏩ [Go to sleep bro!](http://9gag.com/gag/a7oy2Xw)
- - 👉 [Rage against the Mother](http://9gag.com/gag/a9yLX6D)<!-- MEMES:END -->
+ - 💣 [Hiking accident, two people missing](http://9gag.com/gag/aMVrP5P)
+ - ⏩ [A devoted \u271d\ufe0f police officer unlived, and the state invited Muslim imams to pray at the officer\u2019s memorial and recite the Quran. Humiliation at its finest.](http://9gag.com/gag/aGywABZ)
+ - 👉 [The bearings in Walmart skateboards for kids.](http://9gag.com/gag/aAyr2qL)<!-- MEMES:END -->
 
 ---
 
