@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Qualcomm&#39;s new Windows PC chip supports AMD&#39;s FSR… and I&#39;m not sure AMD had any idea about it](https://www.pcgamer.com/hardware/gaming-laptops/qualcomms-new-windows-pc-chip-supports-amds-fsr-and-im-not-sure-amd-had-any-idea-about-it)
- - [Today&#39;s Wordle answer for Thursday, June 6](https://www.pcgamer.com/games/puzzle/wordle-answer-today-june-6-2024)
- - [This anti-meat industry horror game was inspired by the death of the dev&#39;s pet chicken, and it&#39;s basically Abe&#39;s Oddysee plus Resident Evil but you&#39;re poultry](https://www.pcgamer.com/games/horror/this-anti-meat-industry-horror-game-was-inspired-by-the-death-of-the-devs-pet-chicken-and-its-basically-abes-oddysee-plus-resident-evil-but-youre-poultry)<!-- GAME:END -->
+ - [Gigabyte&#39;s &#39;Next-gen&#39; Intel motherboard shows off the new Arrow Lake CPU socket for the first time alongside AMD&#39;s X870E](https://www.pcgamer.com/hardware/motherboards/gigabytes-next-gen-intel-motherboard-shows-off-the-new-arrow-lake-cpu-socket-for-the-first-time-alongside-amds-x870e)
+ - [Mystery RAM slots, watercooled Nvidia GPUs, and dragons galore: The MSI booth was jam packed with PC gaming gear &lpar;and crowds&rpar; at Computex 2024](https://www.pcgamer.com/hardware/mystery-ram-slots-watercooled-nvidia-gpus-and-dragons-galore-the-msi-booth-was-jam-packed-with-pc-gaming-gear-and-crowds-at-computex-2024)
+ - [Qualcomm&#39;s new Windows PC chip supports AMD&#39;s FSR… and I&#39;m not sure AMD had any idea about it](https://www.pcgamer.com/hardware/gaming-laptops/qualcomms-new-windows-pc-chip-supports-amds-fsr-and-im-not-sure-amd-had-any-idea-about-it)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
