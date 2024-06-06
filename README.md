@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [You had one job FedEx: $400,000 worth of stolen Playdate consoles reappear at a random restaurant](https://www.pcgamer.com/gaming-industry/you-had-one-job-fedex-dollar400000-worth-of-stolen-playdate-consoles-reappear-at-a-random-restaurant)
- - [Why I&#39;m worried about Dragon Age Dreadwolf—and the Tiamat-sized RPG Baldur&#39;s Gate 3 looming over it is just the start](https://www.pcgamer.com/games/rpg/why-im-worried-about-dragon-age-dreadwolfand-the-tiamat-sized-fantasy-rpg-dragon-of-baldurs-gate-3-looming-over-proceedings-is-just-the-start)
- - [Thanks to billionaires and businesses going mad for AI, Nvidia&#39;s market cap rockets past $3 trillion, pushing Apple into third place](https://www.pcgamer.com/software/ai/thanks-to-billionaires-and-businesses-going-mad-for-ai-nvidias-market-cap-rockets-past-dollar3-trillion-pushing-apple-into-third-place)<!-- GAME:END -->
+ - [Microsoft Flight Simulator Releases Famous Flyer 09: Douglas C-47D Skytrain &amp; Waco CG-4A](https://www.flightsimulator.com/famous-flyer-9/#new_tab)
+ - [New Helldivers 2 CEO says dev-player relationships are more &#39;doctor/patient&#39;, reveals that Arrowhead&#39;s taking a stethoscope to your Reddit posts and YouTube rants](https://www.pcgamer.com/games/third-person-shooter/new-helldivers-2-ceo-says-dev-player-relationships-are-doctor-patient-reveals-that-arrowhead-s-taking-a-microscope-to-your-reddit-posts-and-youtube-rants)
+ - [Destiny 2 now has a sword that can fire rockets—here&#39;s how to get it](https://www.pcgamer.com/games/fps/destiny-2-ergo-sum)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
