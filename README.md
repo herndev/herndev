@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [F*cking legend](http://9gag.com/gag/a9yL2Vm)
- - ⏩ [The bearings in Walmart skateboards for kids.](http://9gag.com/gag/aAyr2qL)
- - 👉 [Hiking accident, two people missing](http://9gag.com/gag/aMVrP5P)<!-- MEMES:END -->
+ - 💣 [The bearings in Walmart skateboards for kids.](http://9gag.com/gag/aAyr2qL)
+ - ⏩ [This is not a election, this is Hunger games irl](http://9gag.com/gag/a0eL0yL)
+ - 👉 [Parent lets her kids ruin a piano set performance](http://9gag.com/gag/axyZO9K)<!-- MEMES:END -->
 
 ---
 
