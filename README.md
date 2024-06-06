@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Watch SpaceX’s fourth Starship flight test](https://www.theverge.com/2024/6/6/24172677/spacex-starship-fourth-flight-test-launch-window-livestream)
- - [Leica’s new app lets your iPhone mimic its cameras and classic lenses](https://www.theverge.com/2024/6/6/24172452/leica-lux-iphone-app-announced-camera-lens-profiles)
- - [ChatGPT will no longer listen to you in the background, unless you change this setting](https://www.androidauthority.com/chatgpt-voice-background-listening-3449372/)<!-- TECH:END -->
+ - [Here’s our in-depth Sonos Ace video review](https://www.theverge.com/24172762/sonos-ace-headphones-video-review)
+ - [Why the video game industry is such a mess](https://www.theverge.com/24172733/summer-game-fest-video-game-announcements-layoffs-labor-live-service-fortnite)
+ - [The Rogue Prince of Persia artfully changes up the roguelike format](https://www.theverge.com/2024/6/6/24172102/the-rogue-prince-of-persia-steam-early-access-impression)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
