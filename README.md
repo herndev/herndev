@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sony ditches 8K branding from PlayStation 5 boxes amidst PS5 Pro rumors](https://www.androidauthority.com/sony-ps5-8k-branding-3449583/)
- - [NY AG sues crypto companies AWS Mining and NovaTechFX for allegedly operating pyramid schemes that targeted Haitian immigrants and bilked investors out of $1B+ &lpar;Cheyenne Ligon/CoinDesk&rpar;](http://www.techmeme.com/240606/p39#a240606p39)
- - [Apple takes aim at third-party password managers with Passwords app](https://www.androidauthority.com/apple-passwords-app-3449573/)<!-- TECH:END -->
+ - [Score the Belkin BoostCharge 4-Port Extender for $20 on Amazon     - CNET](https://www.cnet.com/deals/score-the-belkin-boostcharge-4-port-extender-for-20-on-amazon/#ftag=CAD590a51e)
+ - [Want to Be a Happy Internet Customer? Go Wireless, Says New Survey     - CNET](https://www.cnet.com/home/internet/want-to-be-a-happy-internet-customer-go-wireless-says-new-survey/#ftag=CAD590a51e)
+ - [How to Fix the Worst Part of Your Microwave: The Beeping     - CNET](https://www.cnet.com/home/kitchen-and-household/how-to-fix-the-worst-part-of-your-microwave-the-beeping/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
