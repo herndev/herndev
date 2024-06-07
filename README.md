@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Hands On: Replaced is a Stylish Cyberpunk Platformer with an ’80s Cinematic Edge](https://news.xbox.com/en-us/2024/06/07/replaced-preview-summer-game-fest-2024/)
- - [The best Blu-rays of 2024](https://www.polygon.com/24100988/best-blu-rays-2024-4k-uhd)
- - [2024 has incredible games — you just need to know where to look](https://www.polygon.com/24173629/12-new-indie-games-play-right-now)<!-- GAME:END -->
+ - [Antstream Comes to Xbox in Brazil](https://news.xbox.com/en-us/2024/06/07/antstream-comes-to-xbox-in-brazil/)
+ - [Dectus Medallion left and right locations in Elden Ring](https://www.polygon.com/elden-ring-guide-walkthrough/24173497/dectus-medallion-left-right-locations-how-to-use-join)
+ - [Kotaku’s Weekend Guide: 6 Great Games To Play In Between Summer Game Fest News](https://kotaku.com/kotaku-games-to-play-destiny-2-ff14-star-wars-halo-1851526466)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
