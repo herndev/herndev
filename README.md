@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [He was indeed in Floridugh\u2026](http://9gag.com/gag/aKGPKWg)
- - ⏩ [Air Canada. Engine compressor stall on takeoff.](http://9gag.com/gag/aAyrv6o)
- - 👉 [Very ouch.](http://9gag.com/gag/aLnPWMx)<!-- MEMES:END -->
+ - 💣 [Nostalgia + Upgrade](http://9gag.com/gag/aYQWAQw)
+ - ⏩ [Help your neighbour &#39;till it hurts](http://9gag.com/gag/ae90REW)
+ - 👉 [He was indeed in Floridugh\u2026](http://9gag.com/gag/aKGPKWg)<!-- MEMES:END -->
 
 ---
 
