@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Great game](http://9gag.com/gag/apR08V8)
- - ⏩ [Sexy Austrian accent](http://9gag.com/gag/ae90WBQ)
- - 👉 [She couldn&#39;t enjoy her pizza after a long day.](http://9gag.com/gag/aNDZOVG)<!-- MEMES:END -->
+ - 💣 [Witch!](http://9gag.com/gag/azxEB2m)
+ - ⏩ [Don&#39;t give up guys](http://9gag.com/gag/aD23Q3B)
+ - 👉 [Relationship](http://9gag.com/gag/a9yLV1L)<!-- MEMES:END -->
 
 ---
 
