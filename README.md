@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Very ouch.](http://9gag.com/gag/aLnPWMx)
- - ⏩ [Major Hut Life](http://9gag.com/gag/aYQW1Kq)
- - 👉 [Before passing away to illness, his best friend recorded his best man speech to be a part of their big day](http://9gag.com/gag/a2vYOed)<!-- MEMES:END -->
+ - 💣 [Good for her](http://9gag.com/gag/aXPpdjg)
+ - ⏩ [He was indeed in Floridugh\u2026](http://9gag.com/gag/aKGPKWg)
+ - 👉 [Air Canada. Engine compressor stall on takeoff.](http://9gag.com/gag/aAyrv6o)<!-- MEMES:END -->
 
 ---
 
