@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [....and proud ify it. WTF](http://9gag.com/gag/aLnPrVP)
- - ⏩ [Based](http://9gag.com/gag/avygdN5)
- - 👉 [The Waifu in the Cupboard](http://9gag.com/gag/a343nbe)<!-- MEMES:END -->
+ - 💣 [Sexy Austrian accent](http://9gag.com/gag/ae90WBQ)
+ - ⏩ [Activities](http://9gag.com/gag/a5QPD0N)
+ - 👉 [I&#39;m being honest](http://9gag.com/gag/ayN0ROp)<!-- MEMES:END -->
 
 ---
 
