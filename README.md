@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [There&#39;s Still Time to Snag the 75k Welcome Bonus for CNET&#39;s Favorite Travel Card     - CNET](https://www.cnet.com/personal-finance/dont-miss-it-chases-75000-point-limited-time-welcome-bonus-is-here-but-not-for-long/#ftag=CAD590a51e)
- - [Samsung Unpacked leak may have spoiled everything planned for the event](https://www.androidauthority.com/unpacked-leaked-announcements-3449814/)
- - [How ex-FTC commissioner Joshua Wright became the tech industry&#39;s fixer, while allegedly juggling inappropriate relationships and skirting conflicts of interests &lpar;Brody Mullins/Wall Street Journal&rpar;](http://www.techmeme.com/240607/p18#a240607p18)<!-- TECH:END -->
+ - [Killer deal: 16-inch MacBook Pro with M2 Max chip, 32GB RAM drops to $2,599](https://appleinsider.com/articles/24/06/07/killer-deal-16-inch-macbook-pro-with-m2-max-chip-32gb-ram-drops-to-2599?utm_medium=rss)
+ - [Civilization 7 is launching in 2025](https://www.theverge.com/24173575/civilization-7-summer-game-fest-2k-firaxis-trailer)
+ - [Horizon gets playful with new Lego spinoff](https://www.theverge.com/2024/6/7/24172801/lego-horizon-adventures-ps5-trailer-summer-game-fest)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
