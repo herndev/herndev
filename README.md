@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung to enhance Galaxy S24’s Instant Slo-Mo feature with HDR10+ support](https://www.androidauthority.com/instant-slo-mo-hdr10-plus-support-3449798/)
- - [Get a Thunderbolt dock with 1TB of fast storage for your Mac for $129.99 today](https://appleinsider.com/articles/24/06/07/get-a-thunderbolt-dock-with-1tb-of-fast-storage-for-your-mac-for-12999-today?utm_medium=rss)
- - [Hot deal: More than 50% off this Samsung Neo QLED 4K smart TV](https://www.androidauthority.com/samsung-85-inch-qn90c-neo-qled-4k-smart-tv-deal-3449805/)<!-- TECH:END -->
+ - [The Biden administration relaxes another vehicle emission rule](https://www.theverge.com/2024/6/7/24173862/us-fuel-economy-nhtsa-cafe-emissions-biden-epa)
+ - [Adobe’s new terms of service aren’t the problem — it’s the trust](https://www.theverge.com/2024/6/7/24173838/adobe-tos-update-firefly-generative-ai-trust)
+ - [Sources: Bakkt, Intercontinental Exchange&#39;s digital-asset marketplace launched in 2018, explores a sale, after issuing a going concern warning earlier in 2024 &lpar;Bloomberg&rpar;](http://www.techmeme.com/240607/p17#a240607p17)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
