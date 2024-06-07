@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [30 Years Later, Tamagotchi Player Discovers In-Game Secret](https://kotaku.com/tamagotchi-mothra-moll-and-lora-twins-playable-1851525415)
- - [Honkai: Star Rail update v2.3 brings new friends and Simulated Universe on June 19](https://blog.playstation.com/2024/06/07/honkai-star-rail-update-v2-3-brings-new-friends-and-simulated-universe-on-june-19/)
- - [I installed Fallout on my Android phone with this free app—and I&#39;m amazed at how good it is](https://www.pcgamer.com/games/rpg/i-installed-fallout-on-my-android-phone-with-this-awesome-free-appand-im-amazed-at-how-good-it-is)<!-- GAME:END -->
+ - [Next Week on Xbox: New Games for June 10 to 14](https://news.xbox.com/en-us/2024/06/07/next-week-on-xbox-new-games-for-june-10-to-14/)
+ - [The Acolyte Showrunner Wants To Bring Knights Of The Old Republic To Our Screens](https://kotaku.com/the-acolyte-disney-plus-kotor-kreia-1851525694)
+ - [26 games we love on Steam Deck](https://www.polygon.com/best-games/22948034/steam-deck-best-games)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
