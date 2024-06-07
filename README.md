@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Good for her](http://9gag.com/gag/aXPpdjg)
- - ⏩ [He was indeed in Floridugh\u2026](http://9gag.com/gag/aKGPKWg)
- - 👉 [Air Canada. Engine compressor stall on takeoff.](http://9gag.com/gag/aAyrv6o)<!-- MEMES:END -->
+ - 💣 [Oh yes the classic society](http://9gag.com/gag/a9yLOpZ)
+ - ⏩ [Great game](http://9gag.com/gag/apR08V8)
+ - 👉 [Witch!](http://9gag.com/gag/azxEB2m)<!-- MEMES:END -->
 
 ---
 
