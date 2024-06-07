@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Saucy everything](http://9gag.com/gag/ary4zVp)
- - ⏩ [Very ouch.](http://9gag.com/gag/aLnPWMx)
- - 👉 [Title](http://9gag.com/gag/aqyNDAR)<!-- MEMES:END -->
+ - 💣 [Very ouch.](http://9gag.com/gag/aLnPWMx)
+ - ⏩ [Air Canada. Engine compressor stall on takeoff.](http://9gag.com/gag/aAyrv6o)
+ - 👉 [F*cking legend](http://9gag.com/gag/a9yL2Vm)<!-- MEMES:END -->
 
 ---
 
