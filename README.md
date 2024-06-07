@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How to beat the Elden Beast in Elden Ring](https://www.polygon.com/elden-ring-guide-walkthrough/24173795/elden-beast-boss-fight-how-to-beat)
- - [How to beat Radagon of the Golden Order in Elden Ring](https://www.polygon.com/elden-ring-guide-walkthrough/24173675/radagon-golden-order-boss-fight-how-to-beat)
- - [How to beat Hoarah Loux, Warrior in Elden Ring](https://www.polygon.com/elden-ring-guide-walkthrough/24172368/hoarah-loux-boss-fight-how-to-beat)<!-- GAME:END -->
+ - [The Legend of Vox Machina’s new title sequence will have to hold us over till October](https://www.polygon.com/24173740/legend-vox-machina-season-3-release-date-title-sequence)
+ - [The Watchers might be a compelling thriller if it wasn’t so bafflingly backward](https://www.polygon.com/reviews/24173290/the-watchers-review-ishana-night-shyamalan-dakota-fanning)
+ - [How to watch the Xbox Showcase at Summer Game Fest 2024](https://www.polygon.com/24173851/xbox-games-showcase-date-time-how-where-to-watch-summer-game-fest)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
