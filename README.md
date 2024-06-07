@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [&#39;We love you. We miss you. We hate money&#39;: Ultrakill and Gloomwood publisher New Blood Interactive turns a billboard into a grave marker for fallen studios including Tango Gameworks and Arkane Austin](https://www.pcgamer.com/gaming-industry/we-love-you-we-miss-you-we-hate-money-ultrakill-and-gloomwood-publisher-new-blood-interactive-turns-a-billboard-into-a-grave-marker-for-fallen-studios-including-tango-gameworks-and-arkane-austin)
- - [How to solve the Paranormal Activity puzzles in Destiny 2](https://www.pcgamer.com/games/fps/destiny-2-paranormal-activity-solution)
- - [Dimension 20 returns to Kids on Bikes for its next season](https://www.polygon.com/deals/24173144/dimension-20-never-stop-blowing-up-ttrpg-system-kids-on-bikes)<!-- GAME:END -->
+ - [Hands On: Replaced is a Stylish Cyberpunk Platformer with an ’80s Cinematic Edge](https://news.xbox.com/en-us/2024/06/07/replaced-preview-summer-game-fest-2024/)
+ - [The best Blu-rays of 2024](https://www.polygon.com/24100988/best-blu-rays-2024-4k-uhd)
+ - [2024 has incredible games — you just need to know where to look](https://www.polygon.com/24173629/12-new-indie-games-play-right-now)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
