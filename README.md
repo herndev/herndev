@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Oof: Suicide Squad: Kill the Justice League lost Warner Bros. $200 million—which is $25 million more than the original 2016 movie cost to make](https://www.pcgamer.com/games/third-person-shooter/oof-suicide-squad-kill-the-justice-league-lost-warner-bros-200-million-which-is-25-million-more-than-the-original-2016-movie-cost-to-make)
- - [AMD is &#39;working actively on really cool differentiators&#39; to make the next generation of 3D V-cache &#39;even better&#39;](https://www.pcgamer.com/hardware/processors/amd-is-working-actively-on-really-cool-differentiators-to-make-the-next-generation-of-3d-v-cache-even-better)
- - [PCIe 5.0 SSDs are yet to reach tipping point: &#39;The percentage of Gen5 shipping to the percentage of Gen 4 is very small&#39; but Micron says that might change next year](https://www.pcgamer.com/hardware/ssds/pcie-50-ssds-are-yet-to-reach-tipping-point-the-percentage-of-gen5-shipping-to-the-percentage-of-gen-4-is-very-small-but-micron-says-that-might-change-next-year)<!-- GAME:END -->
+ - [30 Years Later, Tamagotchi Player Discovers In-Game Secret](https://kotaku.com/tamagotchi-mothra-moll-and-lora-twins-playable-1851525415)
+ - [Honkai: Star Rail update v2.3 brings new friends and Simulated Universe on June 19](https://blog.playstation.com/2024/06/07/honkai-star-rail-update-v2-3-brings-new-friends-and-simulated-universe-on-june-19/)
+ - [I installed Fallout on my Android phone with this free app—and I&#39;m amazed at how good it is](https://www.pcgamer.com/games/rpg/i-installed-fallout-on-my-android-phone-with-this-awesome-free-appand-im-amazed-at-how-good-it-is)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
