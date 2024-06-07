@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Oh yes the classic society](http://9gag.com/gag/a9yLOpZ)
- - ⏩ [Great game](http://9gag.com/gag/apR08V8)
- - 👉 [Witch!](http://9gag.com/gag/azxEB2m)<!-- MEMES:END -->
+ - 💣 [Great game](http://9gag.com/gag/apR08V8)
+ - ⏩ [Sexy Austrian accent](http://9gag.com/gag/ae90WBQ)
+ - 👉 [She couldn&#39;t enjoy her pizza after a long day.](http://9gag.com/gag/aNDZOVG)<!-- MEMES:END -->
 
 ---
 
