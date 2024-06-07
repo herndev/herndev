@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung’s weird Watch Ultra design could be a positive compromise](https://www.androidauthority.com/samsung-galaxy-watch-ultra-design-3448657/)
- - [How to watch the Summer Game Fest 2024](https://www.theverge.com/2024/6/7/24171636/summer-game-fest-2024-how-to-watch)
- - [Qualcomm is serious about Windows on Arm; second wave of launches planned for 2024](https://www.androidauthority.com/qualcomm-windows-arm-second-wave-3449737/)<!-- TECH:END -->
+ - [iOS 18 &amp; macOS 15 are going to look to the past for new wallpapers](https://appleinsider.com/articles/24/06/07/ios-18-macos-15-are-going-to-look-to-the-past-for-new-wallpapers?utm_medium=rss)
+ - [Ahead of WWDC, Apple highlights its collection of developer resources](https://appleinsider.com/articles/24/06/07/ahead-of-wwdc-apple-highlights-its-collection-of-developer-resources?utm_medium=rss)
+ - [Will AirPods Beat Out OTC Hearing Aids as Devices More People Will Use?     - CNET](https://www.cnet.com/health/medical/will-airpods-beat-out-otc-hearing-aids-as-devices-more-people-will-use/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
