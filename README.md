@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [MLB The Show 24 heats up with new season 2 summer content](https://blog.playstation.com/2024/06/07/mlb-the-show-24-heats-up-with-new-season-2-summer-content/)
- - [Official PlayStation Podcast Episode 486: Proof In The Play](https://blog.playstation.com/2024/06/07/official-playstation-podcast-episode-486-proof-in-the-play/)
- - [How to complete Yura’s questline in Elden Ring](https://www.polygon.com/elden-ring-guide-walkthrough/24168717/yura-bloody-finger-hunter-questline-steps)<!-- GAME:END -->
+ - [How to beat the Elden Beast in Elden Ring](https://www.polygon.com/elden-ring-guide-walkthrough/24173795/elden-beast-boss-fight-how-to-beat)
+ - [How to beat Radagon of the Golden Order in Elden Ring](https://www.polygon.com/elden-ring-guide-walkthrough/24173675/radagon-golden-order-boss-fight-how-to-beat)
+ - [How to beat Hoarah Loux, Warrior in Elden Ring](https://www.polygon.com/elden-ring-guide-walkthrough/24172368/hoarah-loux-boss-fight-how-to-beat)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
