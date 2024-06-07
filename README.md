@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Micron says AI &#39;is really going to impact the supply demand balance&#39; for PC as it&#39;s &#39;made memory sexy again&#39;](https://www.pcgamer.com/hardware/memory/micron-says-ai-is-really-going-to-impact-the-supply-demand-balance-for-pc-as-its-made-memory-sexy-again)
- - [Gigabyte&#39;s been autograph hunting with signatures from Jen-Hsun, Pat, and Lisa for some of its GPUs and motherboards](https://www.pcgamer.com/hardware/gigabytes-been-autograph-hunting-with-signatures-from-jen-hsun-pat-and-lisa-for-some-of-its-gpus-and-motherboards)
- - [PC Gamer Chat Log Episode 64: Weird brand tie-ins](https://www.pcgamer.com/gaming-industry/podcasts/pc-gamer-chat-log-episode-64-weird-brand-tie-ins)<!-- GAME:END -->
+ - [Oof: Suicide Squad: Kill the Justice League lost Warner Bros. $200 million—which is $25 million more than the original 2016 movie cost to make](https://www.pcgamer.com/games/third-person-shooter/oof-suicide-squad-kill-the-justice-league-lost-warner-bros-200-million-which-is-25-million-more-than-the-original-2016-movie-cost-to-make)
+ - [AMD is &#39;working actively on really cool differentiators&#39; to make the next generation of 3D V-cache &#39;even better&#39;](https://www.pcgamer.com/hardware/processors/amd-is-working-actively-on-really-cool-differentiators-to-make-the-next-generation-of-3d-v-cache-even-better)
+ - [PCIe 5.0 SSDs are yet to reach tipping point: &#39;The percentage of Gen5 shipping to the percentage of Gen 4 is very small&#39; but Micron says that might change next year](https://www.pcgamer.com/hardware/ssds/pcie-50-ssds-are-yet-to-reach-tipping-point-the-percentage-of-gen5-shipping-to-the-percentage-of-gen-4-is-very-small-but-micron-says-that-might-change-next-year)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
