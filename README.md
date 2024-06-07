@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Next Week on Xbox: New Games for June 10 to 14](https://news.xbox.com/en-us/2024/06/07/next-week-on-xbox-new-games-for-june-10-to-14/)
- - [The Acolyte Showrunner Wants To Bring Knights Of The Old Republic To Our Screens](https://kotaku.com/the-acolyte-disney-plus-kotor-kreia-1851525694)
- - [26 games we love on Steam Deck](https://www.polygon.com/best-games/22948034/steam-deck-best-games)<!-- GAME:END -->
+ - [Yoshi-P says that the Final Fantasy 14 team is taking aim at the game&#39;s same-y combat jobs and 2-minute-meta, but that&#39;ll come after Dawntrail tackles its encounter design](https://www.pcgamer.com/games/final-fantasy/yoshi-p-says-that-the-final-fantasy-14-team-is-taking-aim-at-the-game-s-same-y-combat-jobs-and-2-minute-meta-but-that-ll-come-after-dawntrail-tackles-its-encounter-design)
+ - [Microsoft details how its Automatic Super Resolution upscaler will benefit gamers with Copilot+ AI PCs](https://www.pcgamer.com/hardware/microsoft-details-how-its-automatic-super-resolution-upscaler-will-benefit-gamers-with-copilot-ai-pcs)
+ - [Daybreak, a game about climate change, honored as a finalist in the 2024 Games for Change Awards](https://www.polygon.com/tabletop-games/24172379/games-for-change-awards-tabletop-2024-polygon-panel)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
