@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Killer deal: 16-inch MacBook Pro with M2 Max chip, 32GB RAM drops to $2,599](https://appleinsider.com/articles/24/06/07/killer-deal-16-inch-macbook-pro-with-m2-max-chip-32gb-ram-drops-to-2599?utm_medium=rss)
- - [Civilization 7 is launching in 2025](https://www.theverge.com/24173575/civilization-7-summer-game-fest-2k-firaxis-trailer)
- - [Horizon gets playful with new Lego spinoff](https://www.theverge.com/2024/6/7/24172801/lego-horizon-adventures-ps5-trailer-summer-game-fest)<!-- TECH:END -->
+ - [Valorant is finally coming to consoles](https://www.theverge.com/2024/6/7/24173544/valorant-ps5-xbox-release-date-riot)
+ - [The future of the smart kitchen: robots, apps, and AI, oh my!](https://www.theverge.com/24173645/smart-kitchen-summit-gadgets-apps-future)
+ - [Here’s our first look at the Among Us animated series](https://www.theverge.com/24172053/among-us-animated-series-trailer-summer-game-fest)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
