@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [&lpar;For Southeast Asia&rpar; Concord is now available to pre-order, Early Access and beta detailed](https://blog.playstation.com/2024/06/06/20240607-concord/)
- - [&lpar;For Southeast Asia&rpar; Concord is now available to pre-order, Early Access and beta detailed](https://blog.playstation.com/2024/06/06/20240607-concord/)
- - [How to watch Summer Game Fest 2024 and what we know will be there](https://www.pcgamer.com/gaming-industry/how-to-watch-summer-game-fest-2024)<!-- GAME:END -->
+ - [PC Gamer Chat Log Episode 64: Weird brand tie-ins](https://www.pcgamer.com/gaming-industry/podcasts/pc-gamer-chat-log-episode-64-weird-brand-tie-ins)
+ - [Summer Game Fest 2024: Watch Live Today](https://www.youtube.com/watch?v=pZzia5NrMuU)
+ - [&lpar;For Southeast Asia&rpar; Concord is now available to pre-order, Early Access and beta detailed](https://blog.playstation.com/2024/06/06/20240607-concord/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
