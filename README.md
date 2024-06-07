@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Make sure to save it and never watch it again.](http://9gag.com/gag/ayN0PEq)
- - ⏩ [Quack](http://9gag.com/gag/aKGPKzO)
- - 👉 [Title](http://9gag.com/gag/azxEYpN)<!-- MEMES:END -->
+ - 💣 [This is 100% how dating a latina looks like](http://9gag.com/gag/a343b08)
+ - ⏩ [After handling 5 Sailors at once](http://9gag.com/gag/aW4WbA6)
+ - 👉 [Not good in a man&#39;s way. I mean like a woman. I&#39;m concerned.](http://9gag.com/gag/aXPpWj6)<!-- MEMES:END -->
 
 ---
 
