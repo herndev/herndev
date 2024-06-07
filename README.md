@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Title](http://9gag.com/gag/aqyNDAR)
- - ⏩ [Fire. In space. That&#39;s everything you need to know about the new &#39;Star Wars&#39; series directed by a woke female director.](http://9gag.com/gag/an7KDx0)
- - 👉 [Air Canada. Engine compressor stall on takeoff.](http://9gag.com/gag/aAyrv6o)<!-- MEMES:END -->
+ - 💣 [Last moment of Kabosu. The meme dog](http://9gag.com/gag/a9yLOXD)
+ - ⏩ [Title](http://9gag.com/gag/azxEYpN)
+ - 👉 [This is 100% how dating a latina looks like](http://9gag.com/gag/a343b08)<!-- MEMES:END -->
 
 ---
 
