@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A website for cybercriminals lists 500+ allegedly stolen Snowflake customer credentials, including for environments belonging to Santander and Ticketmaster &lpar;Zack Whittaker/TechCrunch&rpar;](http://www.techmeme.com/240607/p2#a240607p2)
- - [US VC firms are putting pressure on tech startups to ask their Chinese backers to divest as VCs anticipate tighter controls on foreign ownership from Washington &lpar;Eleanor Olcott/Financial Times&rpar;](http://www.techmeme.com/240607/p1#a240607p1)
- - [Boston-based Seven AI, which uses AI to help companies combat cyberattacks, emerged from stealth and raised $36M led by Greylock at a ~$100M valuation &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240606/p46#a240606p46)<!-- TECH:END -->
+ - [Favorites first: WhatsApp will soon rank your contacts’ status updates](https://www.androidauthority.com/whatsapp-status-ranking-3449646/)
+ - [Over a dozen video game professionals discuss the Summer Game Fest, amid concerns about the event&#39;s high entry fees, opaqueness, celebritization, and more &lpar;Adam Morgan/Esquire&rpar;](http://www.techmeme.com/240607/p3#a240607p3)
+ - [A website for cybercriminals lists 500+ allegedly stolen Snowflake customer credentials, including for environments belonging to Santander and Ticketmaster &lpar;Zack Whittaker/TechCrunch&rpar;](http://www.techmeme.com/240607/p2#a240607p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
