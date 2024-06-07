@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Sexy Austrian accent](http://9gag.com/gag/ae90WBQ)
- - ⏩ [Activities](http://9gag.com/gag/a5QPD0N)
- - 👉 [I&#39;m being honest](http://9gag.com/gag/ayN0ROp)<!-- MEMES:END -->
+ - 💣 [He was indeed in Floridugh\u2026](http://9gag.com/gag/aKGPKWg)
+ - ⏩ [Air Canada. Engine compressor stall on takeoff.](http://9gag.com/gag/aAyrv6o)
+ - 👉 [Title](http://9gag.com/gag/azxEYpN)<!-- MEMES:END -->
 
 ---
 
