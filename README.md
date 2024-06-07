@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Yoshi-P says that the Final Fantasy 14 team is taking aim at the game&#39;s same-y combat jobs and 2-minute-meta, but that&#39;ll come after Dawntrail tackles its encounter design](https://www.pcgamer.com/games/final-fantasy/yoshi-p-says-that-the-final-fantasy-14-team-is-taking-aim-at-the-game-s-same-y-combat-jobs-and-2-minute-meta-but-that-ll-come-after-dawntrail-tackles-its-encounter-design)
- - [Microsoft details how its Automatic Super Resolution upscaler will benefit gamers with Copilot+ AI PCs](https://www.pcgamer.com/hardware/microsoft-details-how-its-automatic-super-resolution-upscaler-will-benefit-gamers-with-copilot-ai-pcs)
- - [Daybreak, a game about climate change, honored as a finalist in the 2024 Games for Change Awards](https://www.polygon.com/tabletop-games/24172379/games-for-change-awards-tabletop-2024-polygon-panel)<!-- GAME:END -->
+ - [&#39;We love you. We miss you. We hate money&#39;: Ultrakill and Gloomwood publisher New Blood Interactive turns a billboard into a grave marker for fallen studios including Tango Gameworks and Arkane Austin](https://www.pcgamer.com/gaming-industry/we-love-you-we-miss-you-we-hate-money-ultrakill-and-gloomwood-publisher-new-blood-interactive-turns-a-billboard-into-a-grave-marker-for-fallen-studios-including-tango-gameworks-and-arkane-austin)
+ - [How to solve the Paranormal Activity puzzles in Destiny 2](https://www.pcgamer.com/games/fps/destiny-2-paranormal-activity-solution)
+ - [Dimension 20 returns to Kids on Bikes for its next season](https://www.polygon.com/deals/24173144/dimension-20-never-stop-blowing-up-ttrpg-system-kids-on-bikes)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
