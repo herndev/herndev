@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Vision Pro will get a polish, not an overhaul at WWDC](https://appleinsider.com/articles/24/06/07/apple-vision-pro-will-get-a-polish-not-an-overhaul-at-wwdc?utm_medium=rss)
- - [iOS 18 AI boost could be called &#39;Apple Intelligence&#39;](https://appleinsider.com/articles/24/06/07/ios-18-ai-boost-could-be-called-apple-intelligence?utm_medium=rss)
- - [Huge Apple Sale at Best Buy Discounts Mac, iPad, Apple Watch and More This Weekend Only     - CNET](https://www.cnet.com/deals/huge-apple-sale-at-best-buy-discounts-mac-ipad-apple-watch-and-more-this-weekend-only/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best of Computex 2024 Awards: The best new tech and innovations we saw at the show](https://www.androidauthority.com/best-of-computex-2024-awards-3449054/)
+ - [PowerSchool, which provides software that helps educational institutions manage operations, is being taken private by Bain Capital in a $5.6B deal &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/240607/p8#a240607p8)
+ - [In depth with iPad Air, iPad Pro and the future of iPadOS on the AppleInsider podcast](https://appleinsider.com/articles/24/06/07/in-depth-with-ipad-air-ipad-pro-and-the-future-of-ipados-on-the-appleinsider-podcast?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
