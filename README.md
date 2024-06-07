@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best of Computex 2024 Awards: The best new tech and innovations we saw at the show](https://www.androidauthority.com/best-of-computex-2024-awards-3449054/)
- - [PowerSchool, which provides software that helps educational institutions manage operations, is being taken private by Bain Capital in a $5.6B deal &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/240607/p8#a240607p8)
- - [In depth with iPad Air, iPad Pro and the future of iPadOS on the AppleInsider podcast](https://appleinsider.com/articles/24/06/07/in-depth-with-ipad-air-ipad-pro-and-the-future-of-ipados-on-the-appleinsider-podcast?utm_medium=rss)<!-- TECH:END -->
+ - [Samsung’s weird Watch Ultra design could be a positive compromise](https://www.androidauthority.com/samsung-galaxy-watch-ultra-design-3448657/)
+ - [How to watch the Summer Game Fest 2024](https://www.theverge.com/2024/6/7/24171636/summer-game-fest-2024-how-to-watch)
+ - [Qualcomm is serious about Windows on Arm; second wave of launches planned for 2024](https://www.androidauthority.com/qualcomm-windows-arm-second-wave-3449737/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
