@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Biden administration relaxes another vehicle emission rule](https://www.theverge.com/2024/6/7/24173862/us-fuel-economy-nhtsa-cafe-emissions-biden-epa)
- - [Adobe’s new terms of service aren’t the problem — it’s the trust](https://www.theverge.com/2024/6/7/24173838/adobe-tos-update-firefly-generative-ai-trust)
- - [Sources: Bakkt, Intercontinental Exchange&#39;s digital-asset marketplace launched in 2018, explores a sale, after issuing a going concern warning earlier in 2024 &lpar;Bloomberg&rpar;](http://www.techmeme.com/240607/p17#a240607p17)<!-- TECH:END -->
+ - [There&#39;s Still Time to Snag the 75k Welcome Bonus for CNET&#39;s Favorite Travel Card     - CNET](https://www.cnet.com/personal-finance/dont-miss-it-chases-75000-point-limited-time-welcome-bonus-is-here-but-not-for-long/#ftag=CAD590a51e)
+ - [Samsung Unpacked leak may have spoiled everything planned for the event](https://www.androidauthority.com/unpacked-leaked-announcements-3449814/)
+ - [How ex-FTC commissioner Joshua Wright became the tech industry&#39;s fixer, while allegedly juggling inappropriate relationships and skirting conflicts of interests &lpar;Brody Mullins/Wall Street Journal&rpar;](http://www.techmeme.com/240607/p18#a240607p18)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
