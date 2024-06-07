@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [How to watch Summer Game Fest 2024 and what we know will be there](https://www.pcgamer.com/gaming-industry/how-to-watch-summer-game-fest-2024)
  - [Today&#39;s Wordle answer for Friday, June 7](https://www.pcgamer.com/games/puzzle/wordle-answer-today-june-7-2024)
- - [A book about text adventures is the latest essential addition to your videogame history library](https://www.pcgamer.com/games/adventure/a-book-about-text-adventures-is-the-latest-essential-addition-to-your-videogame-history-library)
- - [Hello, PC gaming here: Are the consoles OK?](https://www.pcgamer.com/gaming-industry/hello-pc-gaming-here-are-the-consoles-ok)<!-- GAME:END -->
+ - [A book about text adventures is the latest essential addition to your videogame history library](https://www.pcgamer.com/games/adventure/a-book-about-text-adventures-is-the-latest-essential-addition-to-your-videogame-history-library)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
