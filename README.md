@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Some useful tips for construction workers.](http://9gag.com/gag/aGywAMG)
- - ⏩ [Local dog name Gray saves an unexpected friend. That big smile at the end says it all](http://9gag.com/gag/abAy2bX)
- - 👉 [My fellow scholar](http://9gag.com/gag/aQz4OW8)<!-- MEMES:END -->
+ - 💣 [A devoted \u271d\ufe0f police officer unlived, and the state invited Muslim imams to pray at the officer\u2019s memorial and recite the Quran. Humiliation at its finest.](http://9gag.com/gag/aGywABZ)
+ - ⏩ [She couldn&#39;t enjoy her pizza after a long day.](http://9gag.com/gag/aNDZOVG)
+ - 👉 [Who said you need a wook to make a good fried rice](http://9gag.com/gag/aE01OQn)<!-- MEMES:END -->
 
 ---
 
