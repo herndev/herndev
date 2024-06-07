@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Last moment of Kabosu. The meme dog](http://9gag.com/gag/a9yLOXD)
- - ⏩ [Title](http://9gag.com/gag/azxEYpN)
- - 👉 [This is 100% how dating a latina looks like](http://9gag.com/gag/a343b08)<!-- MEMES:END -->
+ - 💣 [Suffered for mankind](http://9gag.com/gag/adBYeAD)
+ - ⏩ [Trying is not torture...](http://9gag.com/gag/aGywAm0)
+ - 👉 [I&#39;m being honest](http://9gag.com/gag/ayN0ROp)<!-- MEMES:END -->
 
 ---
 
