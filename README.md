@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Netflix is redesigning its most important app, here’s what to expect](https://www.androidauthority.com/netflix-tv-app-redesign-3449668/)
- - [The new Qualcomm Snapdragon 6s Gen 3 is worse than the 6 Gen 1](https://www.androidauthority.com/qualcomm-snapdragon-6s-gen-3-3449654/)
- - [Apple hosts an industry program for students from historically Black colleges and universities](https://appleinsider.com/articles/24/06/07/apple-hosts-an-industry-program-for-students-from-historically-black-colleges-and-universities?utm_medium=rss)<!-- TECH:END -->
+ - [Apple Vision Pro will get a polish, not an overhaul at WWDC](https://appleinsider.com/articles/24/06/07/apple-vision-pro-will-get-a-polish-not-an-overhaul-at-wwdc?utm_medium=rss)
+ - [iOS 18 AI boost could be called &#39;Apple Intelligence&#39;](https://appleinsider.com/articles/24/06/07/ios-18-ai-boost-could-be-called-apple-intelligence?utm_medium=rss)
+ - [Huge Apple Sale at Best Buy Discounts Mac, iPad, Apple Watch and More This Weekend Only     - CNET](https://www.cnet.com/deals/huge-apple-sale-at-best-buy-discounts-mac-ipad-apple-watch-and-more-this-weekend-only/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
