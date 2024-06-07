@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle answer for Friday, June 7](https://www.pcgamer.com/games/puzzle/wordle-answer-today-june-7-2024)
  - [A book about text adventures is the latest essential addition to your videogame history library](https://www.pcgamer.com/games/adventure/a-book-about-text-adventures-is-the-latest-essential-addition-to-your-videogame-history-library)
- - [Hello, PC gaming here: Are the consoles OK?](https://www.pcgamer.com/gaming-industry/hello-pc-gaming-here-are-the-consoles-ok)
- - [Astro Bot pre-order begins June 7, features PaRappa Lovestruck Lyricist outfit and more](https://blog.playstation.com/2024/06/06/astro-bot-pre-order-begins-june-7-features-parappa-lovestruck-lyricist-outfit-and-more/)<!-- GAME:END -->
+ - [Hello, PC gaming here: Are the consoles OK?](https://www.pcgamer.com/gaming-industry/hello-pc-gaming-here-are-the-consoles-ok)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
