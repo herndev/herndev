@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple to debut ‘Apple Intelligence’ at WWDC and here are the features it powers](https://www.androidauthority.com/apple-intelligence-features-3449769/)
- - [Microsoft finally responds to Recall backlash, will make several changes](https://www.androidauthority.com/microsoft-windows-recall-changes-3449784/)
- - [TikTok says it has fixed a vulnerability that allowed user accounts to be hijacked after clicking on a malware-laced DM &lpar;Sam Sabin/Axios&rpar;](http://www.techmeme.com/240607/p14#a240607p14)<!-- TECH:END -->
+ - [Roaring Kitty Is Playing With Fire](https://www.wired.com/story/roaring-kitty-is-playing-with-fire/)
+ - [The 7-inch MSI Claw will get Lunar Lake, too — and Claw 2, Claw 3, Claw 4 are coming](https://www.theverge.com/2024/6/7/24173763/msi-claw-7-lunar-lake-roadmap-claw-2-claw-3-claw-4)
+ - [The Verge’s 2024 Father’s Day gift guide](https://www.theverge.com/24153276/best-fathers-day-gift-ideas-2024-dad-tech-gadgets)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
