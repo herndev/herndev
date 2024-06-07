@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Get ready to initiate maximum Goku in October](https://www.pcgamer.com/games/fighting/get-ready-to-initiate-maximum-goku-in-october)
- - [They’re Bringing M. Bison Back In Street Fighter 6, Baby](https://kotaku.com/street-fighter-6-m-bison-terry-elena-mai-season-2-1851527248)
- - [Persona devs’ Metaphor: ReFantazio out in October](https://www.polygon.com/24173992/metaphor-refantazio-release-date-october-2024)<!-- GAME:END -->
+ - [Paul Atreides was never born in the alternate timeline of survival MMO Dune: Awakening](https://www.pcgamer.com/games/mmo/paul-atreides-was-never-born-in-the-alternate-timeline-of-survival-mmo-dune-awakening)
+ - [Embark on the Hunter’s Journey with a new look at Monster Hunter Wilds](https://blog.playstation.com/2024/06/07/embark-on-the-hunters-journey-with-a-new-look-at-monster-hunter-wilds/)
+ - [If you&#39;re also desperate to pad out your Honkai: Star Rail funds after that livestream, Summer Game Fest has you covered with a little treat](https://www.pcgamer.com/rpg/honkai-star-rail-summer-game-fest-jade-code)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
