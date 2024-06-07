@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Russia Is Targeting Germany With Fake Information as Europe Votes](https://www.wired.com/story/european-union-elections-russia-germany-disinformation-campaigns/)
- - [Samsung Electronics workers strike for the first time ever](https://www.theverge.com/2024/6/7/24173592/samsung-strike-ai-chips-labor)
- - [This handheld gaming PC is made to be modded](https://www.theverge.com/2024/6/7/24173179/adata-xpg-gaming-handheld-modded-lpcamm2)<!-- TECH:END -->
+ - [Apple to debut ‘Apple Intelligence’ at WWDC and here are the features it powers](https://www.androidauthority.com/apple-intelligence-features-3449769/)
+ - [Microsoft finally responds to Recall backlash, will make several changes](https://www.androidauthority.com/microsoft-windows-recall-changes-3449784/)
+ - [TikTok says it has fixed a vulnerability that allowed user accounts to be hijacked after clicking on a malware-laced DM &lpar;Sam Sabin/Axios&rpar;](http://www.techmeme.com/240607/p14#a240607p14)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
