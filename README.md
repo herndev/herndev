@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Legend of Vox Machina’s new title sequence will have to hold us over till October](https://www.polygon.com/24173740/legend-vox-machina-season-3-release-date-title-sequence)
- - [The Watchers might be a compelling thriller if it wasn’t so bafflingly backward](https://www.polygon.com/reviews/24173290/the-watchers-review-ishana-night-shyamalan-dakota-fanning)
- - [How to watch the Xbox Showcase at Summer Game Fest 2024](https://www.polygon.com/24173851/xbox-games-showcase-date-time-how-where-to-watch-summer-game-fest)<!-- GAME:END -->
+ - [Get ready to initiate maximum Goku in October](https://www.pcgamer.com/games/fighting/get-ready-to-initiate-maximum-goku-in-october)
+ - [They’re Bringing M. Bison Back In Street Fighter 6, Baby](https://kotaku.com/street-fighter-6-m-bison-terry-elena-mai-season-2-1851527248)
+ - [Persona devs’ Metaphor: ReFantazio out in October](https://www.polygon.com/24173992/metaphor-refantazio-release-date-october-2024)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
