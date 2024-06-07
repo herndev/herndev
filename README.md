@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Roaring Kitty Is Playing With Fire](https://www.wired.com/story/roaring-kitty-is-playing-with-fire/)
- - [The 7-inch MSI Claw will get Lunar Lake, too — and Claw 2, Claw 3, Claw 4 are coming](https://www.theverge.com/2024/6/7/24173763/msi-claw-7-lunar-lake-roadmap-claw-2-claw-3-claw-4)
- - [The Verge’s 2024 Father’s Day gift guide](https://www.theverge.com/24153276/best-fathers-day-gift-ideas-2024-dad-tech-gadgets)<!-- TECH:END -->
+ - [Samsung to enhance Galaxy S24’s Instant Slo-Mo feature with HDR10+ support](https://www.androidauthority.com/instant-slo-mo-hdr10-plus-support-3449798/)
+ - [Get a Thunderbolt dock with 1TB of fast storage for your Mac for $129.99 today](https://appleinsider.com/articles/24/06/07/get-a-thunderbolt-dock-with-1tb-of-fast-storage-for-your-mac-for-12999-today?utm_medium=rss)
+ - [Hot deal: More than 50% off this Samsung Neo QLED 4K smart TV](https://www.androidauthority.com/samsung-85-inch-qn90c-neo-qled-4k-smart-tv-deal-3449805/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
