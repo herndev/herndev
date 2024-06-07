@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Local dog name Gray saves an unexpected friend. That big smile at the end says it all](http://9gag.com/gag/abAy2bX)
- - ⏩ [Make sure to save it and never watch it again.](http://9gag.com/gag/ayN0PEq)
- - 👉 [Quack](http://9gag.com/gag/aKGPKzO)<!-- MEMES:END -->
+ - 💣 [Make sure to save it and never watch it again.](http://9gag.com/gag/ayN0PEq)
+ - ⏩ [Quack](http://9gag.com/gag/aKGPKzO)
+ - 👉 [Title](http://9gag.com/gag/azxEYpN)<!-- MEMES:END -->
 
 ---
 
