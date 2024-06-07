@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [PC Gamer Chat Log Episode 64: Weird brand tie-ins](https://www.pcgamer.com/gaming-industry/podcasts/pc-gamer-chat-log-episode-64-weird-brand-tie-ins)
- - [Summer Game Fest 2024: Watch Live Today](https://www.youtube.com/watch?v=pZzia5NrMuU)
- - [&lpar;For Southeast Asia&rpar; Concord is now available to pre-order, Early Access and beta detailed](https://blog.playstation.com/2024/06/06/20240607-concord/)<!-- GAME:END -->
+ - [Micron says AI &#39;is really going to impact the supply demand balance&#39; for PC as it&#39;s &#39;made memory sexy again&#39;](https://www.pcgamer.com/hardware/memory/micron-says-ai-is-really-going-to-impact-the-supply-demand-balance-for-pc-as-its-made-memory-sexy-again)
+ - [Gigabyte&#39;s been autograph hunting with signatures from Jen-Hsun, Pat, and Lisa for some of its GPUs and motherboards](https://www.pcgamer.com/hardware/gigabytes-been-autograph-hunting-with-signatures-from-jen-hsun-pat-and-lisa-for-some-of-its-gpus-and-motherboards)
+ - [PC Gamer Chat Log Episode 64: Weird brand tie-ins](https://www.pcgamer.com/gaming-industry/podcasts/pc-gamer-chat-log-episode-64-weird-brand-tie-ins)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
