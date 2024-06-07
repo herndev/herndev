@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Title](http://9gag.com/gag/aqyNDAR)
- - ⏩ [Very ouch.](http://9gag.com/gag/aLnPWMx)
- - 👉 [Tatoo removal](http://9gag.com/gag/aD23X2x)<!-- MEMES:END -->
+ - 💣 [Some useful tips for construction workers.](http://9gag.com/gag/aGywAMG)
+ - ⏩ [Local dog name Gray saves an unexpected friend. That big smile at the end says it all](http://9gag.com/gag/abAy2bX)
+ - 👉 [My fellow scholar](http://9gag.com/gag/aQz4OW8)<!-- MEMES:END -->
 
 ---
 
