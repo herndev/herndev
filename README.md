@@ -46,7 +46,7 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Very ouch.](http://9gag.com/gag/aLnPWMx)
+ - 💣 [A man rescues a bird and later gets an amazing surprise](http://9gag.com/gag/axyZPGM)
  - ⏩ [Air Canada. Engine compressor stall on takeoff.](http://9gag.com/gag/aAyrv6o)
  - 👉 [F*cking legend](http://9gag.com/gag/a9yL2Vm)<!-- MEMES:END -->
 
