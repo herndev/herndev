@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Witch!](http://9gag.com/gag/azxEB2m)
- - ⏩ [Don&#39;t give up guys](http://9gag.com/gag/aD23Q3B)
- - 👉 [Relationship](http://9gag.com/gag/a9yLV1L)<!-- MEMES:END -->
+ - 💣 [He was indeed in Floridugh\u2026](http://9gag.com/gag/aKGPKWg)
+ - ⏩ [Air Canada. Engine compressor stall on takeoff.](http://9gag.com/gag/aAyrv6o)
+ - 👉 [Very ouch.](http://9gag.com/gag/aLnPWMx)<!-- MEMES:END -->
 
 ---
 
