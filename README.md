@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Favorites first: WhatsApp will soon rank your contacts’ status updates](https://www.androidauthority.com/whatsapp-status-ranking-3449646/)
- - [Over a dozen video game professionals discuss the Summer Game Fest, amid concerns about the event&#39;s high entry fees, opaqueness, celebritization, and more &lpar;Adam Morgan/Esquire&rpar;](http://www.techmeme.com/240607/p3#a240607p3)
- - [A website for cybercriminals lists 500+ allegedly stolen Snowflake customer credentials, including for environments belonging to Santander and Ticketmaster &lpar;Zack Whittaker/TechCrunch&rpar;](http://www.techmeme.com/240607/p2#a240607p2)<!-- TECH:END -->
+ - [Netflix is redesigning its most important app, here’s what to expect](https://www.androidauthority.com/netflix-tv-app-redesign-3449668/)
+ - [The new Qualcomm Snapdragon 6s Gen 3 is worse than the 6 Gen 1](https://www.androidauthority.com/qualcomm-snapdragon-6s-gen-3-3449654/)
+ - [Apple hosts an industry program for students from historically Black colleges and universities](https://appleinsider.com/articles/24/06/07/apple-hosts-an-industry-program-for-students-from-historically-black-colleges-and-universities?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
