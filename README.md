@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Valorant is finally coming to consoles](https://www.theverge.com/2024/6/7/24173544/valorant-ps5-xbox-release-date-riot)
- - [The future of the smart kitchen: robots, apps, and AI, oh my!](https://www.theverge.com/24173645/smart-kitchen-summit-gadgets-apps-future)
- - [Here’s our first look at the Among Us animated series](https://www.theverge.com/24172053/among-us-animated-series-trailer-summer-game-fest)<!-- TECH:END -->
+ - [NBA Finals 2024: How to Watch, Stream Mavericks vs. Celtics Game 2 Tonight on ABC     - CNET](https://www.cnet.com/tech/services-and-software/nba-finals-2024-how-to-watch-stream-mavericks-vs-celtics-tonight-on-abc/#ftag=CAD590a51e)
+ - [No Plunger? No Problem. Unclog Any Toilet With These Household Items     - CNET](https://www.cnet.com/how-to/no-plunger-no-problem-unclog-any-toilet-with-these-household-items/#ftag=CAD590a51e)
+ - [How Chinese hedge fund High-Flyer Capital Management developed its DeepSeek-V2 open-source LLM that costs less than rivals and ranks among the top in the world &lpar;Financial Times&rpar;](http://www.techmeme.com/240609/p8#a240609p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
