@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Bose Smart Ultra Soundbar drops $150 to record-low price](https://www.androidauthority.com/deal-bose-smart-ultra-soundbar-3449965/)
- - [New Jersey-based IT provider Cognizant agrees to acquire digital engineering company Belcan, which employs 10K across 60 locations, for $1.3B in cash and stock &lpar;Milana Vinn/Reuters&rpar;](http://www.techmeme.com/240610/p8#a240610p8)
- - [Which Mac models are needed to run macOS 15](https://appleinsider.com/articles/24/06/10/which-mac-models-are-needed-to-run-macos-15?utm_medium=rss)<!-- TECH:END -->
+ - [Amazon slashes M3 MacBook Air 15-inch to $1,129, crushing competition during WWDC](https://appleinsider.com/articles/24/06/10/amazon-slashes-m3-macbook-air-15-inch-to-1129-crushing-competition-during-wwdc?utm_medium=rss)
+ - [This is the ‘world’s first’ phone call made using spatial audio](https://www.theverge.com/2024/6/10/24175231/nokia-3d-spatial-audio-5g-phone-call-advanced)
+ - [SCOTUS agrees to hear Facebook&#39;s bid to scuttle a private securities fraud lawsuit over allegedly misleading investors on Cambridge Analytica in 2017 and 2018 &lpar;John Kruzel/Reuters&rpar;](http://www.techmeme.com/240610/p10#a240610p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
