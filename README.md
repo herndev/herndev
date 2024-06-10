@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Xbox chief confirms more games are coming to other platforms](https://www.theverge.com/2024/6/10/24174977/xbox-phil-spencer-games-ps5-interview)
  - [Apple&#39;s M3 Pro MacBook Pro plunges to $1,699](https://appleinsider.com/articles/24/06/10/apples-m3-pro-macbook-pro-plunges-to-1699?utm_medium=rss)
- - [Q&amp;A with Index Ventures&#39; Dan Rimer on generative AI favoring the incumbents, concentration of returns, M&amp;A in a challenging regulatory environment, and more &lpar;John Thornhill/Financial Times&rpar;](http://www.techmeme.com/240610/p4#a240610p4)
- - [Dealroom analysis of European startups: as of May 2024, the UK had 785 startups with at least $25M of annual revenue, France had 309, and Germany had 255 &lpar;Parmy Olson/Bloomberg&rpar;](http://www.techmeme.com/240610/p3#a240610p3)<!-- TECH:END -->
+ - [Q&amp;A with Index Ventures&#39; Dan Rimer on generative AI favoring the incumbents, concentration of returns, M&amp;A in a challenging regulatory environment, and more &lpar;John Thornhill/Financial Times&rpar;](http://www.techmeme.com/240610/p4#a240610p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
