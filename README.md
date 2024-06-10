@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The ultimate Ultima retrospective series has now covered Ultima 4 and Ultima 5](https://www.pcgamer.com/games/rpg/the-ultimate-ultima-retrospective-series-has-now-covered-ultima-4-and-ultima-5)
- - [Today&#39;s Wordle answer for Monday, June 10](https://www.pcgamer.com/games/puzzle/wordle-answer-today-june-10-2024)
- - [The next Call of Duty will yet again require a constant internet connection to play the singleplayer campaign on PC, and for the first time on console as well](https://www.pcgamer.com/games/fps/the-next-call-of-duty-will-yet-again-require-a-constant-internet-connection-to-play-the-singleplayer-campaign-on-pc-and-for-the-first-time-on-console-as-well)<!-- GAME:END -->
+ - [I thought I&#39;d never get the same satisfaction from a creature collector as I did with Neko Atsume until I played Kamaeru: A Frog Refuge](https://www.pcgamer.com/games/sim/i-thought-id-never-get-the-same-satisfaction-from-a-creature-collector-as-i-did-with-neko-atsume-until-i-played-kamaeru-a-frog-refuge)
+ - [Powercolor&#39;s Edge AI aims to significantly reduce GPU power consumption without a big hit in frame rates](https://www.pcgamer.com/hardware/graphics-cards/powercolors-edge-ai-aims-to-significantly-reduce-gpu-power-consumption-without-a-big-hit-in-frame-rates)
+ - [The ultimate Ultima retrospective series has now covered Ultima 4 and Ultima 5](https://www.pcgamer.com/games/rpg/the-ultimate-ultima-retrospective-series-has-now-covered-ultima-4-and-ultima-5)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
