@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The new Making of Original Dungeons &amp; Dragons book is a vital piece of gaming history](https://www.pcgamer.com/games/board-games/the-new-making-of-original-dungeons-and-dragons-book-is-a-vital-piece-of-gaming-history)
- - [Let&#39;s count all the ways I&#39;m gonna die horribly in the new Stalker 2: Heart of Chornobyl trailer](https://www.pcgamer.com/games/fps/lets-count-all-the-ways-im-gonna-die-horribly-in-the-new-stalker-2-heart-of-chornobyl-trailer)
- - [Every game, trailer, and announcement in the 2024 PC Gaming Show](https://www.pcgamer.com/gaming-industry/events-conferences/every-game-trailer-and-announcement-in-the-2024-pc-gaming-show)<!-- GAME:END -->
+ - [This Was The Best Xbox Showcase In Years &lpar;And The Hardest To Root For&rpar;](https://kotaku.com/xbox-showcase-summer-game-fest-layoffs-shutdown-tango-1851529002)
+ - [Age of Mythology: Retold will be out in September and is coming to Game Pass day one](https://www.pcgamer.com/games/rts/age-of-mythology-retold-will-be-out-in-september-and-is-coming-to-game-pass-day-one)
+ - [The new Making of Original Dungeons &amp; Dragons book is a vital piece of gaming history](https://www.pcgamer.com/games/board-games/the-new-making-of-original-dungeons-and-dragons-book-is-a-vital-piece-of-gaming-history)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
