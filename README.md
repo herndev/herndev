@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Which iPads will work with iPadOS 18, and what&#39;s getting left behind](https://appleinsider.com/articles/24/06/10/which-ipads-will-work-with-ipados-18-and-whats-getting-left-behind?utm_medium=rss)
- - [Pixel Watch 3 leaked renders give us our first look at Google’s next smartwatch](https://www.androidauthority.com/google-pixel-watch-3-leaked-renders-3450030/)
- - [Latest Galaxy Buds 3 leak reveals a potentially divisive redesign](https://www.androidauthority.com/galaxy-buds-3-pro-stalks-3450026/)<!-- TECH:END -->
+ - [It&#39;s Fed Week. So, What the Heck Is Happening With Interest Rates?      - CNET](https://www.cnet.com/personal-finance/banking/its-fed-week-so-what-the-heck-is-happening-with-interest-rates/#ftag=CAD590a51e)
+ - [Nokia CEO Pekka Lundmark made a phone call using new &quot;immersive audio and video&quot; tech that uses 3D sound on a 5G smartphone, as part of the 5G Advanced standard &lpar;Supantha Mukherjee/Reuters&rpar;](http://www.techmeme.com/240610/p6#a240610p6)
+ - [Best VPN for Windows     - CNET](https://www.cnet.com/tech/services-and-software/best-vpn-for-windows/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
