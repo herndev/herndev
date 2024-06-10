@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Ok, it seems legit](http://9gag.com/gag/aKGPNLb)
- - ⏩ [Nope](http://9gag.com/gag/aRBP8W5)
- - 👉 [In Marseille, a young man got out of his car and calmly subdued a violent individual in front of two municipal policewomen who tried to stop him on Boulevard de la Lib\u00e9ration, saying: `Madame, shall I catch him for you?`](http://9gag.com/gag/a5QPg0L)<!-- MEMES:END -->
+ - 💣 [You have stolen my dreams, and my childhood!](http://9gag.com/gag/axyZQOD)
+ - ⏩ [Took him 5 years](http://9gag.com/gag/avygqM5)
+ - 👉 [Russel](http://9gag.com/gag/aQz4KOW)<!-- MEMES:END -->
 
 ---
 
