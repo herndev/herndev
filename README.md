@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple copies Material You, adds ability to customize home screen and icons](https://www.androidauthority.com/apple-home-screen-icon-customization-3450125/)
- - [Apple Vision Pro is coming to eight more countries very soon](https://appleinsider.com/articles/24/06/10/apple-vision-pro-is-coming-to-eight-more-countries-very-soon?utm_medium=rss)
- - [Apple announces macOS Sequoia with iPhone mirroring](https://www.theverge.com/2024/6/10/24170586/macos-15-mac-apple-ai-wwdc-2024)<!-- TECH:END -->
+ - [Apple unveils its OpenAI deal, bringing ChatGPT&#39;s &quot;expertise&quot; to Siri and its other apps as an option, rolling out in 2024; users don&#39;t need an OpenAI account &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240610/p31#a240610p31)
+ - [ChatGPT coming to iOS 18 for free later in 2024](https://appleinsider.com/articles/24/06/10/chatgpt-coming-to-ios-18-for-free-later-in-2024?utm_medium=rss)
+ - [macOS Sequoia brings iPhone remote control and new Passwords app](https://appleinsider.com/articles/24/06/10/macos-sequoia-brings-iphone-remote-control-and-new-passwords-app?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
