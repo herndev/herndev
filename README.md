@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [OutRage: Fight Fest is a nifty 16-player brawler that&#39;s trying to do punch-&#39;em-up Fall Guys, but I&#39;m just not sure there&#39;s enough depth to get people hooked](https://www.pcgamer.com/games/fighting/outrage-fight-fest-is-a-nifty-16-player-brawler-that-s-trying-to-do-punch-em-up-fall-guys-but-i-m-just-not-sure-there-s-enough-depth-to-get-people-hooked)
- - [Suicide Squad Promises It Won&#39;t Go Full Anthem And Abandon Its First Full Year Of Content](https://kotaku.com/suicide-squad-season-2-release-date-roadmap-freeze-1851529893)
- - [Explore a World of Wonders in Clair Obscur: Expedition 33](https://news.xbox.com/en-us/2024/06/10/clair-obscur-expedition-33-xbox-games-showcase-2024/)<!-- GAME:END -->
+ - [This Green and Unpleasant Land – a Breakdown of the Atomfall Trailer](https://news.xbox.com/en-us/2024/06/10/a-breakdown-of-the-atomfall-trailer/)
+ - [House of the Dragon season 2, The Boys season 4, and more new TV this week](https://www.polygon.com/2024/6/10/24166470/new-tv-house-dragon-season-2-boys-season-4-netflix-bridgerton-3b)
+ - [Casper Van Dien says Helldivers 2 may be &#39;a good tribute&#39; but now he&#39;s Johnny Rico again, and Starship Troopers fans better &#39;come in here and help us kill some damn bugs—Yeah!&#39;](https://www.pcgamer.com/games/fps/casper-van-dien-says-helldivers-2-may-be-a-good-tribute-but-now-hes-johnny-rico-again-and-starship-troopers-fans-better-come-in-here-and-help-us-kill-some-damn-bugs-yeah)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
