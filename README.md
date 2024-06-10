@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [It’s hot yard game summer: The best lawn games](https://www.polygon.com/24171601/best-yard-games-lawn-games)
- - [All Paranormal Activity locations and how ‘Alone in the Dark’ works in Destiny 2](https://www.polygon.com/destiny-2-guide-walkthrough/24175164/paranormal-activity-lost-city-the-transgression-outskirts-alone-in-the-dark)
- - [Destiny 2 Salvation&#39;s Edge loot table: Find out who drops what in the new raid](https://www.pcgamer.com/games/fps/destiny-2-salvations-edge-loot-table)<!-- GAME:END -->
+ - [A beginner&#39;s guide to The Elder Scrolls Online in 2024](https://www.pcgamer.com/games/mmo/a-beginners-guide-to-the-elder-scrolls-online-in-2024)
+ - [Call Of Duty: Black Ops 6 Single-Player Campaign Demands Permanent Internet Connection On Consoles](https://kotaku.com/call-of-duty-black-ops-6-single-player-internet-1851529371)
+ - [Treyarch is doing what it does best by taking Call of Duty: Black Ops 6 back to its roots with a round-based Zombies mode](https://www.pcgamer.com/games/call-of-duty/treyarch-is-doing-what-it-does-best-by-taking-call-of-duty-black-ops-6-back-to-its-roots-with-a-round-based-zombies-mode)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
