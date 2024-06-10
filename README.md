@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Paul Atreides was never born in the alternate timeline of survival MMO Dune: Awakening](https://www.pcgamer.com/games/mmo/paul-atreides-was-never-born-in-the-alternate-timeline-of-survival-mmo-dune-awakening)
- - [Embark on the Hunter’s Journey with a new look at Monster Hunter Wilds](https://blog.playstation.com/2024/06/07/embark-on-the-hunters-journey-with-a-new-look-at-monster-hunter-wilds/)
- - [If you&#39;re also desperate to pad out your Honkai: Star Rail funds after that livestream, Summer Game Fest has you covered with a little treat](https://www.pcgamer.com/rpg/honkai-star-rail-summer-game-fest-jade-code)<!-- GAME:END -->
+ - [The new Making of Original Dungeons &amp; Dragons book is a vital piece of gaming history](https://www.pcgamer.com/games/board-games/the-new-making-of-original-dungeons-and-dragons-book-is-a-vital-piece-of-gaming-history)
+ - [Let&#39;s count all the ways I&#39;m gonna die horribly in the new Stalker 2: Heart of Chornobyl trailer](https://www.pcgamer.com/games/fps/lets-count-all-the-ways-im-gonna-die-horribly-in-the-new-stalker-2-heart-of-chornobyl-trailer)
+ - [Every game, trailer, and announcement in the 2024 PC Gaming Show](https://www.pcgamer.com/gaming-industry/events-conferences/every-game-trailer-and-announcement-in-the-2024-pc-gaming-show)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
