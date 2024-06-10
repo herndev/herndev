@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Destiny 2 No Hesitation god roll guide: Best perks, barrels, and magazines](https://www.pcgamer.com/games/fps/destiny-2-no-hesitation-god-roll-guide-best-perks-barrels-and-magazines)
- - [Avowed, Obsidian&#39;s upcoming RPG, gets an &#39;official&#39; release date for all of 2 seconds before it&#39;s snatched out of existence again](https://www.pcgamer.com/games/rpg/avowed-obsidian-s-upcoming-rpg-gets-an-official-release-date-for-all-of-2-seconds-before-it-s-snatched-out-of-existence-again)
- - [Snake’s Injuries Will Mark Him Permanently In Metal Gear Solid 3 Remake And Fans Are Stoked](https://kotaku.com/metal-gear-solid-delta-snake-permanent-injuries-1851529537)<!-- GAME:END -->
+ - [Explore a World of Wonders in Clair Obscur: Expedition 33](https://news.xbox.com/en-us/2024/06/10/clair-obscur-expedition-33-xbox-games-showcase-2024/)
+ - [Beating the heat: Huge radiators, clever heatsinks and transparent water blocks were the order of the day at Computex 2024](https://www.pcgamer.com/hardware/cooling/beating-the-heat-huge-radiators-clever-heatsinks-and-transparent-water-blocks-were-the-order-of-the-day-at-computex-2024)
+ - [Ryzen 9000 X3D chips could be with us by September, just three months after AMD&#39;s Zen 5 launch](https://www.pcgamer.com/hardware/processors/ryzen-9000-x3d-chips-could-be-with-us-by-september-just-three-months-after-amds-zen-5-launch)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
