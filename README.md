@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Star Wars Outlaws has the same problem as every modern Star Wars thing: Playing it way too safe](https://www.pcgamer.com/games/action/star-wars-outlaws-faces-the-same-problem-as-every-modern-star-wars-anything-playing-it-way-too-safe)
- - [Ubisoft Excited To Let You Know Prince Of Persia Remake Is Still Years Away](https://kotaku.com/prince-of-persia-sands-of-time-remake-teaser-sgf-2026-1851530699)
- - [Prince of Persia: The Sands of Time remake finally gets its release window](https://www.polygon.com/24175391/prince-of-persia-the-sands-of-time-remake-ubisoft-forward)<!-- GAME:END -->
+ - [We Get a Taste of Smuggler Life in Star Wars Outlaws](https://news.xbox.com/en-us/2024/06/10/we-get-a-taste-of-smuggler-life-in-star-wars-outlaws/)
+ - [WB Games promises Suicide Squad &#39;will complete its currently announced roadmap&#39;](https://www.pcgamer.com/games/action/wb-games-promises-suicide-squad-will-complete-its-currently-announced-roadmap)
+ - [Metal Slug Tactics roguishly reinvents turn-based run-and-gun](https://www.pcgamer.com/games/roguelike/metal-slug-tactics-roguishly-reinvents-turn-based-run-and-gun)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
