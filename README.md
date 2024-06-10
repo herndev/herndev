@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [You can now pay YouTube to test the desktop redesign that you’ll probably hate](https://www.androidauthority.com/youtube-premium-test-desktop-redesign-3449995/)
- - [Xbox boss: ‘I think we should have a handheld, too’](https://www.theverge.com/2024/6/10/24175149/xbox-handheld-phil-spencer-interview-2024)
- - [Samsung might not wait for Unpacked to launch the Galaxy Watch FE](https://www.androidauthority.com/galaxy-watch-fe-launch-date-3449991/)<!-- TECH:END -->
+ - [A look at the problems of building AI products, like inaccurate answers, and potential solutions, like focusing on narrow domains and abstracting the outputs &lpar;Benedict Evans&rpar;](http://www.techmeme.com/240610/p5#a240610p5)
+ - [Apple blocks PC emulators from all iOS app stores, raising concerns over control](https://www.androidauthority.com/apple-blocks-pc-emulators-ios-app-stores-3450006/)
+ - [You can now pay YouTube to test the desktop redesign that you’ll probably hate](https://www.androidauthority.com/youtube-premium-test-desktop-redesign-3449995/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
