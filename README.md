@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [What a cat\u2026](http://9gag.com/gag/aqyNwej)
- - ⏩ [That one friend who doesn&#39;t take anything seriously.](http://9gag.com/gag/aW4W5XA)
+ - 💣 [Which arrow will penetrate riot shields?](http://9gag.com/gag/ayN0r7p)
+ - ⏩ [This is the only way from now on](http://9gag.com/gag/aRBPdwy)
  - 👉 [Too much anger and frustration on this site. Here, have a wet pupper.](http://9gag.com/gag/amo0ypy)<!-- MEMES:END -->
 
 ---
