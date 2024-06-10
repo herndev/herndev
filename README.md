@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Summer Game Fest 2024: all the news, trailers, and announcements](https://www.theverge.com/24170561/summer-game-fest-2024-trailers-news-geoff-keighley)
- - [iPadOS 18 gets Math Notes, your own handwriting, and a Calculator](https://appleinsider.com/articles/24/06/10/ipados-18-gets-math-notes-your-own-handwriting-and-a-calculator?utm_medium=rss)
- - [Apple&#39;s Journal app is getting new features in iOS 18, but it&#39;s still not on iPad](https://appleinsider.com/articles/24/06/10/apples-journal-app-is-getting-new-features-in-ios-18-but-its-still-not-on-ipad?utm_medium=rss)<!-- TECH:END -->
+ - [Will Your iPhone Support iOS 18 and Apple Intelligence? Here&#39;s What You Need to Know     - CNET](https://www.cnet.com/tech/services-and-software/will-your-iphone-support-ios-18-and-apple-intelligence-heres-what-you-need-to-know/#ftag=CAD590a51e)
+ - [I Lost Nearly $1K by Renting a Router From My Internet Provider. Here&#39;s What I Learned     - CNET](https://www.cnet.com/home/internet/i-lost-1k-by-renting-a-router-from-my-internet-provider-heres-what-i-learned/#ftag=CAD590a51e)
+ - [Phone Link may soon add your Android device to Windows File Explorer](https://www.androidauthority.com/phone-link-windows-file-explorer-3450103/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
