@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon slashes M3 MacBook Air 15-inch to $1,129, crushing competition during WWDC](https://appleinsider.com/articles/24/06/10/amazon-slashes-m3-macbook-air-15-inch-to-1129-crushing-competition-during-wwdc?utm_medium=rss)
- - [This is the ‘world’s first’ phone call made using spatial audio](https://www.theverge.com/2024/6/10/24175231/nokia-3d-spatial-audio-5g-phone-call-advanced)
- - [SCOTUS agrees to hear Facebook&#39;s bid to scuttle a private securities fraud lawsuit over allegedly misleading investors on Cambridge Analytica in 2017 and 2018 &lpar;John Kruzel/Reuters&rpar;](http://www.techmeme.com/240610/p10#a240610p10)<!-- TECH:END -->
+ - [Fireproof Document Box     - CNET](https://www.cnet.com/news/fireproof-document-box-dpnl/#ftag=CAD590a51e)
+ - [Bungie teases Destiny 2 codenamed ‘Frontiers’ for 2025](https://www.theverge.com/24175322/bungie-destiny-2-frontier-teaser)
+ - [Regulators in Canada and the UK launch a joint probe to assess what customer info was exposed in 23andMe&#39;s 2023 breach and if proper safeguards were in place &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/240610/p11#a240610p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
