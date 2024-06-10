@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Introducing FragPunk: A Fast, Futuristic Hero Shooter That Bends All the Rules](https://news.xbox.com/en-us/2024/06/10/introducing-fragpunk-hero-shooter-xbox-games-showcase-2024/)
- - [Target Circle members can save on dozens of Manga box sets through June 16](https://www.polygon.com/deals/24175363/manga-box-sets-buy-one-get-one-half-off-target-deal-sale)
- - [Here are the best microSD cards for Steam Deck OLED](https://www.polygon.com/deals/22938610/steam-deck-best-sd-card-micro-storage-price-speed)<!-- GAME:END -->
+ - [Star Wars Outlaws has the same problem as every modern Star Wars thing: Playing it way too safe](https://www.pcgamer.com/games/action/star-wars-outlaws-faces-the-same-problem-as-every-modern-star-wars-anything-playing-it-way-too-safe)
+ - [Ubisoft Excited To Let You Know Prince Of Persia Remake Is Still Years Away](https://kotaku.com/prince-of-persia-sands-of-time-remake-teaser-sgf-2026-1851530699)
+ - [Prince of Persia: The Sands of Time remake finally gets its release window](https://www.polygon.com/24175391/prince-of-persia-the-sands-of-time-remake-ubisoft-forward)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
