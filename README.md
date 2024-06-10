@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Fireproof Document Box     - CNET](https://www.cnet.com/news/fireproof-document-box-dpnl/#ftag=CAD590a51e)
- - [Bungie teases Destiny 2 codenamed ‘Frontiers’ for 2025](https://www.theverge.com/24175322/bungie-destiny-2-frontier-teaser)
- - [Regulators in Canada and the UK launch a joint probe to assess what customer info was exposed in 23andMe&#39;s 2023 breach and if proper safeguards were in place &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/240610/p11#a240610p11)<!-- TECH:END -->
+ - [Live stream of Apple&#39;s 2024 WWDC keynote &lpar;Apple on YouTube&rpar;](http://www.techmeme.com/240610/p14#a240610p14)
+ - [A live blog of WWDC 2024, where Apple&#39;s AI plans, iOS 18, macOS 15, and more are expected &lpar;The Verge&rpar;](http://www.techmeme.com/240610/p13#a240610p13)
+ - [Apple Store unexpectedly goes down ahead of WWDC](https://appleinsider.com/articles/24/06/10/apple-store-unexpectedly-goes-down-ahead-of-wwdc?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
