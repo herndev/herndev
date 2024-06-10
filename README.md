@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [So basically GTA Vice City](http://9gag.com/gag/a7oygMr)
- - ⏩ [The whole Palestinian victim mentality in one picture. No understanding of cause and effect, consequences and accountability, just like children. It\u2019s always the evil Jews. #FAFO](http://9gag.com/gag/adBYMYQ)
- - 👉 [My weekend movie recommendation: The Raid 1 &lpar;2011&rpar; and The Raid 2 &lpar;2014&rpar;. Watch these foreign films in their original language with subtitles rather than the English dub. They inspired the John Wick series and are fast-paced, R-rated martial arts action movies.](http://9gag.com/gag/amo0O29)<!-- MEMES:END -->
+ - 💣 [The flashlight in the daytime is all you need to determine their IQ .](http://9gag.com/gag/ayN0Ap8)
+ - ⏩ [So basically GTA Vice City](http://9gag.com/gag/a7oygMr)
+ - 👉 [California Round Stingray](http://9gag.com/gag/aD23LrG)<!-- MEMES:END -->
 
 ---
 
