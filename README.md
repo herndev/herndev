@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Summer Game Fest 2024: all the news, trailers, and announcements](https://www.theverge.com/24170561/summer-game-fest-2024-trailers-news-geoff-keighley)
  - [iPadOS 18 gets Math Notes, your own handwriting, and a Calculator](https://appleinsider.com/articles/24/06/10/ipados-18-gets-math-notes-your-own-handwriting-and-a-calculator?utm_medium=rss)
- - [Apple Intelligence - what Macs, iPads, and iPhones are required](https://appleinsider.com/articles/24/06/10/apple-intelligence---what-macs-ipads-and-iphones-are-required?utm_medium=rss)
- - [Adobe overhauls terms of service to say it won’t train AI on customers’ work](https://www.theverge.com/2024/6/10/24175416/adobe-overhauls-terms-of-service-update-firefly)<!-- TECH:END -->
+ - [Apple&#39;s Journal app is getting new features in iOS 18, but it&#39;s still not on iPad](https://appleinsider.com/articles/24/06/10/apples-journal-app-is-getting-new-features-in-ios-18-but-its-still-not-on-ipad?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
