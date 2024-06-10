@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [The ultimate Ultima retrospective series has now covered Ultima 4 and Ultima 5](https://www.pcgamer.com/games/rpg/the-ultimate-ultima-retrospective-series-has-now-covered-ultima-4-and-ultima-5)
  - [Today&#39;s Wordle answer for Monday, June 10](https://www.pcgamer.com/games/puzzle/wordle-answer-today-june-10-2024)
- - [The next Call of Duty will yet again require a constant internet connection to play the singleplayer campaign on PC, and for the first time on console as well](https://www.pcgamer.com/games/fps/the-next-call-of-duty-will-yet-again-require-a-constant-internet-connection-to-play-the-singleplayer-campaign-on-pc-and-for-the-first-time-on-console-as-well)
- - [This Was The Best Xbox Showcase In Years &lpar;And The Hardest To Root For&rpar;](https://kotaku.com/xbox-showcase-summer-game-fest-layoffs-shutdown-tango-1851529002)<!-- GAME:END -->
+ - [The next Call of Duty will yet again require a constant internet connection to play the singleplayer campaign on PC, and for the first time on console as well](https://www.pcgamer.com/games/fps/the-next-call-of-duty-will-yet-again-require-a-constant-internet-connection-to-play-the-singleplayer-campaign-on-pc-and-for-the-first-time-on-console-as-well)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
