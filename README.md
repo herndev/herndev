@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Flintlock: The Siege of Dawn Arrives on July 18 – Learn More About the &lpar;Literally&rpar; Explosive Souls-lite](https://news.xbox.com/en-us/2024/06/10/flintlock-the-siege-of-dawn-arrives-on-july-18/)
- - [Metal Gear Solid Delta hints at a future for the series](https://www.polygon.com/24175632/metal-gear-solid-3-remake-delta-konami-future-games)
- - [Vile treachery: When you &#39;ran&#39; on the Citadel in Mass Effect, it just changed the FOV to make it look like you were going faster](https://www.pcgamer.com/games/rpg/vile-treachery-when-you-ran-on-the-citadel-in-mass-effect-it-just-changed-the-fov-to-make-it-look-like-you-were-going-faster)<!-- GAME:END -->
+ - [One of my top early access games is finally getting a second level: a 3-hour underground factory-city with an overhauled, Thief-style stealth system, a new RPG hub area, and an explanation for where all those FPS crates come from](https://www.pcgamer.com/games/fps/one-of-my-top-early-access-games-is-finally-getting-a-second-level-a-3-hour-underground-factory-city-with-an-overhauled-thief-style-stealth-system-a-new-rpg-hub-area-and-an-explanation-for-where-all-those-fps-crates-come-from)
+ - [A modder has already brought Doom: The Dark Age&#39;s new &#39;Shield Saw&#39; to the 1993 original, and it&#39;s pretty close to perfect](https://www.pcgamer.com/games/fps/a-modder-has-already-brought-doom-the-dark-ages-new-shield-saw-to-the-1993-original-and-its-pretty-close-to-perfect)
+ - [Everything We’ve Learned About Call Of Duty: Black Ops 6](https://kotaku.com/call-of-duty-black-ops-6-direct-everything-we-know-1851531121)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
