@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [It&#39;s Fed Week. So, What the Heck Is Happening With Interest Rates?      - CNET](https://www.cnet.com/personal-finance/banking/its-fed-week-so-what-the-heck-is-happening-with-interest-rates/#ftag=CAD590a51e)
- - [Nokia CEO Pekka Lundmark made a phone call using new &quot;immersive audio and video&quot; tech that uses 3D sound on a 5G smartphone, as part of the 5G Advanced standard &lpar;Supantha Mukherjee/Reuters&rpar;](http://www.techmeme.com/240610/p6#a240610p6)
- - [Best VPN for Windows     - CNET](https://www.cnet.com/tech/services-and-software/best-vpn-for-windows/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The Bose Smart Ultra Soundbar drops $150 to record-low price](https://www.androidauthority.com/deal-bose-smart-ultra-soundbar-3449965/)
+ - [New Jersey-based IT provider Cognizant agrees to acquire digital engineering company Belcan, which employs 10K across 60 locations, for $1.3B in cash and stock &lpar;Milana Vinn/Reuters&rpar;](http://www.techmeme.com/240610/p8#a240610p8)
+ - [Which Mac models are needed to run macOS 15](https://appleinsider.com/articles/24/06/10/which-mac-models-are-needed-to-run-macos-15?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
