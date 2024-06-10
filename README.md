@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I identify as a black male](http://9gag.com/gag/aZZxX7n)
- - ⏩ [Oh no, the consequence of my actions](http://9gag.com/gag/a9yLwVW)
+ - 💣 [So basically GTA Vice City](http://9gag.com/gag/a7oygMr)
+ - ⏩ [SWAT Sniper shoots through a computer monitor to take out armed man with 2 hostages inside Florida bank &lpar;blurred&rpar;](http://9gag.com/gag/a87YO4O)
  - 👉 [Which arrow will penetrate riot shields?](http://9gag.com/gag/ayN0r7p)<!-- MEMES:END -->
 
 ---
