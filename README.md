@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Finger painting](http://9gag.com/gag/aYQW0O7)
- - ⏩ [Day 2 of vacation in Thailand](http://9gag.com/gag/aVvW678)
- - 👉 [People in ground recording a Helicopter shooting to the ground](http://9gag.com/gag/ajP0wNx)<!-- MEMES:END -->
+ - 💣 [Nope](http://9gag.com/gag/aRBP8W5)
+ - ⏩ [The whole Palestinian victim mentality in one picture. No understanding of cause and effect, consequences and accountability, just like children. It\u2019s always the evil Jews. #FAFO](http://9gag.com/gag/adBYMYQ)
+ - 👉 [The primary reason to raise Social Security&#39;s normal retirement age is to reduce the long-term deficit..](http://9gag.com/gag/a9yLed6)<!-- MEMES:END -->
 
 ---
 
