@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Your Apple Watch is Probably Pretty Gross. Here&#39;s How to Clean It     - CNET](https://www.cnet.com/tech/your-apple-watch-is-probably-pretty-gross-heres-how-to-clean-it/#ftag=CAD590a51e)
  - [Human Rights Watch finds LAION-5B AI training dataset scraped 170+ images and personal info of Brazilian children without consent; LAION pledges to remove them &lpar;Vittoria Elliott/Wired&rpar;](http://www.techmeme.com/240610/p2#a240610p2)
- - [Researchers find malicious Microsoft Visual Studio Code extensions with millions of installs and also easily create their own, which trended in the marketplace &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/240610/p1#a240610p1)
- - [AI Tools Are Secretly Training on Real Images of Children](https://www.wired.com/story/ai-tools-are-secretly-training-on-real-childrens-faces/)<!-- TECH:END -->
+ - [Researchers find malicious Microsoft Visual Studio Code extensions with millions of installs and also easily create their own, which trended in the marketplace &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/240610/p1#a240610p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
