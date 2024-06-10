@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The flashlight in the daytime is all you need to determine their IQ .](http://9gag.com/gag/ayN0Ap8)
- - ⏩ [So basically GTA Vice City](http://9gag.com/gag/a7oygMr)
- - 👉 [California Round Stingray](http://9gag.com/gag/aD23LrG)<!-- MEMES:END -->
+ - 💣 [Which arrow will penetrate riot shields?](http://9gag.com/gag/ayN0r7p)
+ - ⏩ [Random Indian tour guide speaking Japanese](http://9gag.com/gag/aZZx5RQ)
+ - 👉 [The story behind this assassination is insane. Apparently the assassins didn\u2019t know they were killing somebody. They were hired to do pranks for a YouTube channel, a channel created by North Korean intel.](http://9gag.com/gag/aZZx5BW)<!-- MEMES:END -->
 
 ---
 
