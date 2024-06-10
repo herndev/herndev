@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [I thought I&#39;d never get the same satisfaction from a creature collector as I did with Neko Atsume until I played Kamaeru: A Frog Refuge](https://www.pcgamer.com/games/sim/i-thought-id-never-get-the-same-satisfaction-from-a-creature-collector-as-i-did-with-neko-atsume-until-i-played-kamaeru-a-frog-refuge)
- - [Powercolor&#39;s Edge AI aims to significantly reduce GPU power consumption without a big hit in frame rates](https://www.pcgamer.com/hardware/graphics-cards/powercolors-edge-ai-aims-to-significantly-reduce-gpu-power-consumption-without-a-big-hit-in-frame-rates)
- - [The ultimate Ultima retrospective series has now covered Ultima 4 and Ultima 5](https://www.pcgamer.com/games/rpg/the-ultimate-ultima-retrospective-series-has-now-covered-ultima-4-and-ultima-5)<!-- GAME:END -->
+ - [Has Dragon Age lost its identity, or am I just being grumpy about BioWare’s new take on it?](https://www.pcgamer.com/games/rpg/has-dragon-age-lost-its-identity-or-am-i-just-being-grumpy-about-biowares-new-take-on-it)
+ - [Phil Spencer continues to dance around Hi Fi Rush developer Tango Gameworks&#39; closure, says he has &#39;to make hard decisions that frankly are not decisions I love&#39;](https://www.pcgamer.com/gaming-industry/phil-spencer-continues-to-dance-around-hi-fi-rush-developer-tango-gameworks-closure-says-he-has-to-make-hard-decisions-that-frankly-are-not-decisions-i-love)
+ - [I thought I&#39;d never get the same satisfaction from a creature collector as I did with Neko Atsume until I played Kamaeru: A Frog Refuge](https://www.pcgamer.com/games/sim/i-thought-id-never-get-the-same-satisfaction-from-a-creature-collector-as-i-did-with-neko-atsume-until-i-played-kamaeru-a-frog-refuge)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
