@@ -48,7 +48,7 @@
 <!-- MEMES:START -->
  - 💣 [I identify as a black male](http://9gag.com/gag/aZZxX7n)
  - ⏩ [Oh no, the consequence of my actions](http://9gag.com/gag/a9yLwVW)
- - 👉 [This is the only way from now on](http://9gag.com/gag/aRBPdwy)<!-- MEMES:END -->
+ - 👉 [Which arrow will penetrate riot shields?](http://9gag.com/gag/ayN0r7p)<!-- MEMES:END -->
 
 ---
 
