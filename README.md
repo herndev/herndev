@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Explore a World of Wonders in Clair Obscur: Expedition 33](https://news.xbox.com/en-us/2024/06/10/clair-obscur-expedition-33-xbox-games-showcase-2024/)
- - [Beating the heat: Huge radiators, clever heatsinks and transparent water blocks were the order of the day at Computex 2024](https://www.pcgamer.com/hardware/cooling/beating-the-heat-huge-radiators-clever-heatsinks-and-transparent-water-blocks-were-the-order-of-the-day-at-computex-2024)
- - [Ryzen 9000 X3D chips could be with us by September, just three months after AMD&#39;s Zen 5 launch](https://www.pcgamer.com/hardware/processors/ryzen-9000-x3d-chips-could-be-with-us-by-september-just-three-months-after-amds-zen-5-launch)<!-- GAME:END -->
+ - [OutRage: Fight Fest is a nifty 16-player brawler that&#39;s trying to do punch-&#39;em-up Fall Guys, but I&#39;m just not sure there&#39;s enough depth to get people hooked](https://www.pcgamer.com/games/fighting/outrage-fight-fest-is-a-nifty-16-player-brawler-that-s-trying-to-do-punch-em-up-fall-guys-but-i-m-just-not-sure-there-s-enough-depth-to-get-people-hooked)
+ - [Suicide Squad Promises It Won&#39;t Go Full Anthem And Abandon Its First Full Year Of Content](https://kotaku.com/suicide-squad-season-2-release-date-roadmap-freeze-1851529893)
+ - [Explore a World of Wonders in Clair Obscur: Expedition 33](https://news.xbox.com/en-us/2024/06/10/clair-obscur-expedition-33-xbox-games-showcase-2024/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
