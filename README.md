@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Which arrow will penetrate riot shields?](http://9gag.com/gag/ayN0r7p)
- - ⏩ [This is the only way from now on](http://9gag.com/gag/aRBPdwy)
- - 👉 [Too much anger and frustration on this site. Here, have a wet pupper.](http://9gag.com/gag/amo0ypy)<!-- MEMES:END -->
+ - 💣 [So basically GTA Vice City](http://9gag.com/gag/a7oygMr)
+ - ⏩ [The whole Palestinian victim mentality in one picture. No understanding of cause and effect, consequences and accountability, just like children. It\u2019s always the evil Jews. #FAFO](http://9gag.com/gag/adBYMYQ)
+ - 👉 [My weekend movie recommendation: The Raid 1 &lpar;2011&rpar; and The Raid 2 &lpar;2014&rpar;. Watch these foreign films in their original language with subtitles rather than the English dub. They inspired the John Wick series and are fast-paced, R-rated martial arts action movies.](http://9gag.com/gag/amo0O29)<!-- MEMES:END -->
 
 ---
 
