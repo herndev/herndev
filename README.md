@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [We Get a Taste of Smuggler Life in Star Wars Outlaws](https://news.xbox.com/en-us/2024/06/10/we-get-a-taste-of-smuggler-life-in-star-wars-outlaws/)
- - [WB Games promises Suicide Squad &#39;will complete its currently announced roadmap&#39;](https://www.pcgamer.com/games/action/wb-games-promises-suicide-squad-will-complete-its-currently-announced-roadmap)
- - [Metal Slug Tactics roguishly reinvents turn-based run-and-gun](https://www.pcgamer.com/games/roguelike/metal-slug-tactics-roguishly-reinvents-turn-based-run-and-gun)<!-- GAME:END -->
+ - [Flintlock: The Siege of Dawn Arrives on July 18 – Learn More About the &lpar;Literally&rpar; Explosive Souls-lite](https://news.xbox.com/en-us/2024/06/10/flintlock-the-siege-of-dawn-arrives-on-july-18/)
+ - [Metal Gear Solid Delta hints at a future for the series](https://www.polygon.com/24175632/metal-gear-solid-3-remake-delta-konami-future-games)
+ - [Vile treachery: When you &#39;ran&#39; on the Citadel in Mass Effect, it just changed the FOV to make it look like you were going faster](https://www.pcgamer.com/games/rpg/vile-treachery-when-you-ran-on-the-citadel-in-mass-effect-it-just-changed-the-fov-to-make-it-look-like-you-were-going-faster)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
