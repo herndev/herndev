@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Has Dragon Age lost its identity, or am I just being grumpy about BioWare’s new take on it?](https://www.pcgamer.com/games/rpg/has-dragon-age-lost-its-identity-or-am-i-just-being-grumpy-about-biowares-new-take-on-it)
- - [Phil Spencer continues to dance around Hi Fi Rush developer Tango Gameworks&#39; closure, says he has &#39;to make hard decisions that frankly are not decisions I love&#39;](https://www.pcgamer.com/gaming-industry/phil-spencer-continues-to-dance-around-hi-fi-rush-developer-tango-gameworks-closure-says-he-has-to-make-hard-decisions-that-frankly-are-not-decisions-i-love)
- - [I thought I&#39;d never get the same satisfaction from a creature collector as I did with Neko Atsume until I played Kamaeru: A Frog Refuge](https://www.pcgamer.com/games/sim/i-thought-id-never-get-the-same-satisfaction-from-a-creature-collector-as-i-did-with-neko-atsume-until-i-played-kamaeru-a-frog-refuge)<!-- GAME:END -->
+ - [It’s hot yard game summer: The best lawn games](https://www.polygon.com/24171601/best-yard-games-lawn-games)
+ - [All Paranormal Activity locations and how ‘Alone in the Dark’ works in Destiny 2](https://www.polygon.com/destiny-2-guide-walkthrough/24175164/paranormal-activity-lost-city-the-transgression-outskirts-alone-in-the-dark)
+ - [Destiny 2 Salvation&#39;s Edge loot table: Find out who drops what in the new raid](https://www.pcgamer.com/games/fps/destiny-2-salvations-edge-loot-table)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
