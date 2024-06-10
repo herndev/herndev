@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Nostalgia + Upgrade](http://9gag.com/gag/aYQWAQw)
- - ⏩ [Help your neighbour &#39;till it hurts](http://9gag.com/gag/ae90REW)
- - 👉 [He was indeed in Floridugh\u2026](http://9gag.com/gag/aKGPKWg)<!-- MEMES:END -->
+ - 💣 [Ok, it seems legit](http://9gag.com/gag/aKGPNLb)
+ - ⏩ [Nope](http://9gag.com/gag/aRBP8W5)
+ - 👉 [In Marseille, a young man got out of his car and calmly subdued a violent individual in front of two municipal policewomen who tried to stop him on Boulevard de la Lib\u00e9ration, saying: `Madame, shall I catch him for you?`](http://9gag.com/gag/a5QPg0L)<!-- MEMES:END -->
 
 ---
 
