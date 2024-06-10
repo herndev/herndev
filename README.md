@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Wouldn&#39;t it make more sense to not warn people you&#39;re about to make false accusations against them?](http://9gag.com/gag/ayN0r6r)
- - ⏩ [Transaction of the century](http://9gag.com/gag/aPA4LRg)
- - 👉 [You have stolen my dreams, and my childhood!](http://9gag.com/gag/axyZQOD)<!-- MEMES:END -->
+ - 💣 [You have stolen my dreams, and my childhood!](http://9gag.com/gag/axyZQOD)
+ - ⏩ [The flashlight in the daytime is all you need to determine their IQ .](http://9gag.com/gag/ayN0Ap8)
+ - 👉 [So basically GTA Vice City](http://9gag.com/gag/a7oygMr)<!-- MEMES:END -->
 
 ---
 
