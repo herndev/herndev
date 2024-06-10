@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [A beginner&#39;s guide to The Elder Scrolls Online in 2024](https://www.pcgamer.com/games/mmo/a-beginners-guide-to-the-elder-scrolls-online-in-2024)
- - [Call Of Duty: Black Ops 6 Single-Player Campaign Demands Permanent Internet Connection On Consoles](https://kotaku.com/call-of-duty-black-ops-6-single-player-internet-1851529371)
- - [Treyarch is doing what it does best by taking Call of Duty: Black Ops 6 back to its roots with a round-based Zombies mode](https://www.pcgamer.com/games/call-of-duty/treyarch-is-doing-what-it-does-best-by-taking-call-of-duty-black-ops-6-back-to-its-roots-with-a-round-based-zombies-mode)<!-- GAME:END -->
+ - [Destiny 2 No Hesitation god roll guide: Best perks, barrels, and magazines](https://www.pcgamer.com/games/fps/destiny-2-no-hesitation-god-roll-guide-best-perks-barrels-and-magazines)
+ - [Avowed, Obsidian&#39;s upcoming RPG, gets an &#39;official&#39; release date for all of 2 seconds before it&#39;s snatched out of existence again](https://www.pcgamer.com/games/rpg/avowed-obsidian-s-upcoming-rpg-gets-an-official-release-date-for-all-of-2-seconds-before-it-s-snatched-out-of-existence-again)
+ - [Snake’s Injuries Will Mark Him Permanently In Metal Gear Solid 3 Remake And Fans Are Stoked](https://kotaku.com/metal-gear-solid-delta-snake-permanent-injuries-1851529537)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
