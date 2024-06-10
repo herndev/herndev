@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at the problems of building AI products, like inaccurate answers, and potential solutions, like focusing on narrow domains and abstracting the outputs &lpar;Benedict Evans&rpar;](http://www.techmeme.com/240610/p5#a240610p5)
- - [Apple blocks PC emulators from all iOS app stores, raising concerns over control](https://www.androidauthority.com/apple-blocks-pc-emulators-ios-app-stores-3450006/)
- - [You can now pay YouTube to test the desktop redesign that you’ll probably hate](https://www.androidauthority.com/youtube-premium-test-desktop-redesign-3449995/)<!-- TECH:END -->
+ - [Meet CUKTECH: High-tech power banks at unbeatable prices](https://www.androidauthority.com/cuktech-power-banks-3446893/)
+ - [All I Do Is Scroll Netflix Forever. Does That Count as Entertainment?](https://www.wired.com/story/cloud-support-all-i-do-is-scroll-netflix-does-that-count-as-entertainment/)
+ - [How to watch WWDC 2024 on iPhone, iPad, Mac &amp; Apple TV](https://appleinsider.com/inside/wwdc/tips/how-to-watch-wwdc-2024-on-iphone-ipad-mac-apple-tv?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
