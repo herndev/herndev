@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Will Your iPhone Support iOS 18 and Apple Intelligence? Here&#39;s What You Need to Know     - CNET](https://www.cnet.com/tech/services-and-software/will-your-iphone-support-ios-18-and-apple-intelligence-heres-what-you-need-to-know/#ftag=CAD590a51e)
- - [I Lost Nearly $1K by Renting a Router From My Internet Provider. Here&#39;s What I Learned     - CNET](https://www.cnet.com/home/internet/i-lost-1k-by-renting-a-router-from-my-internet-provider-heres-what-i-learned/#ftag=CAD590a51e)
- - [Phone Link may soon add your Android device to Windows File Explorer](https://www.androidauthority.com/phone-link-windows-file-explorer-3450103/)<!-- TECH:END -->
+ - [Fortinet announces it has reached an agreement to acquire cloud security company Lacework; Lacework had raised $1.8B and was valued at $8.3B in 2021 &lpar;Kyle Alspach/CRN&rpar;](http://www.techmeme.com/240610/p36#a240610p36)
+ - [iOS 18 will let you record calls — and tells everyone for their privacy](https://www.theverge.com/2024/6/10/24175684/ios-18-record-calls-privacy-apple-intelligence)
+ - [Craig Federighi &amp; John Giannandrea talk Apple Intelligence at WWDC](https://appleinsider.com/articles/24/06/10/craig-federighi-john-giannandrea-talk-apple-intelligence-at-wwdc?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
