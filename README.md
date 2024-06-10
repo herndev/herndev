@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The whole Palestinian victim mentality in one picture. No understanding of cause and effect, consequences and accountability, just like children. It\u2019s always the evil Jews. #FAFO](http://9gag.com/gag/adBYMYQ)
- - ⏩ [I wonder why....](http://9gag.com/gag/a2vYA8d)
- - 👉 [So basically GTA Vice City](http://9gag.com/gag/a7oygMr)<!-- MEMES:END -->
+ - 💣 [I identify as a black male](http://9gag.com/gag/aZZxX7n)
+ - ⏩ [Oh no, the consequence of my actions](http://9gag.com/gag/a9yLwVW)
+ - 👉 [This is the only way from now on](http://9gag.com/gag/aRBPdwy)<!-- MEMES:END -->
 
 ---
 
