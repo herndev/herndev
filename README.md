@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meet CUKTECH: High-tech power banks at unbeatable prices](https://www.androidauthority.com/cuktech-power-banks-3446893/)
- - [All I Do Is Scroll Netflix Forever. Does That Count as Entertainment?](https://www.wired.com/story/cloud-support-all-i-do-is-scroll-netflix-does-that-count-as-entertainment/)
- - [How to watch WWDC 2024 on iPhone, iPad, Mac &amp; Apple TV](https://appleinsider.com/inside/wwdc/tips/how-to-watch-wwdc-2024-on-iphone-ipad-mac-apple-tv?utm_medium=rss)<!-- TECH:END -->
+ - [Which iPads will work with iPadOS 18, and what&#39;s getting left behind](https://appleinsider.com/articles/24/06/10/which-ipads-will-work-with-ipados-18-and-whats-getting-left-behind?utm_medium=rss)
+ - [Pixel Watch 3 leaked renders give us our first look at Google’s next smartwatch](https://www.androidauthority.com/google-pixel-watch-3-leaked-renders-3450030/)
+ - [Latest Galaxy Buds 3 leak reveals a potentially divisive redesign](https://www.androidauthority.com/galaxy-buds-3-pro-stalks-3450026/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
