@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [NBA Finals 2024: How to Watch, Stream Mavericks vs. Celtics Game 2 Tonight on ABC     - CNET](https://www.cnet.com/tech/services-and-software/nba-finals-2024-how-to-watch-stream-mavericks-vs-celtics-tonight-on-abc/#ftag=CAD590a51e)
- - [No Plunger? No Problem. Unclog Any Toilet With These Household Items     - CNET](https://www.cnet.com/how-to/no-plunger-no-problem-unclog-any-toilet-with-these-household-items/#ftag=CAD590a51e)
- - [How Chinese hedge fund High-Flyer Capital Management developed its DeepSeek-V2 open-source LLM that costs less than rivals and ranks among the top in the world &lpar;Financial Times&rpar;](http://www.techmeme.com/240609/p8#a240609p8)<!-- TECH:END -->
+ - [Push from governments to develop AI locally and train LLMs in their native languages and on their citizens&#39; data, is a new growth opportunity for Nvidia, others &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240609/p9#a240609p9)
+ - [Microsoft&#39;s Discless Xbox Series X Revealed video     - CNET](https://www.cnet.com/videos/microsofts-discless-xbox-series-x-revealed/#ftag=CAD590a51e)
+ - [NBA Finals 2024: How to Watch, Stream Mavericks vs. Celtics Game 2 Tonight on ABC     - CNET](https://www.cnet.com/tech/services-and-software/nba-finals-2024-how-to-watch-stream-mavericks-vs-celtics-tonight-on-abc/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
