@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [This Green and Unpleasant Land – a Breakdown of the Atomfall Trailer](https://news.xbox.com/en-us/2024/06/10/a-breakdown-of-the-atomfall-trailer/)
- - [House of the Dragon season 2, The Boys season 4, and more new TV this week](https://www.polygon.com/2024/6/10/24166470/new-tv-house-dragon-season-2-boys-season-4-netflix-bridgerton-3b)
- - [Casper Van Dien says Helldivers 2 may be &#39;a good tribute&#39; but now he&#39;s Johnny Rico again, and Starship Troopers fans better &#39;come in here and help us kill some damn bugs—Yeah!&#39;](https://www.pcgamer.com/games/fps/casper-van-dien-says-helldivers-2-may-be-a-good-tribute-but-now-hes-johnny-rico-again-and-starship-troopers-fans-better-come-in-here-and-help-us-kill-some-damn-bugs-yeah)<!-- GAME:END -->
+ - [Introducing FragPunk: A Fast, Futuristic Hero Shooter That Bends All the Rules](https://news.xbox.com/en-us/2024/06/10/introducing-fragpunk-hero-shooter-xbox-games-showcase-2024/)
+ - [Target Circle members can save on dozens of Manga box sets through June 16](https://www.polygon.com/deals/24175363/manga-box-sets-buy-one-get-one-half-off-target-deal-sale)
+ - [Here are the best microSD cards for Steam Deck OLED](https://www.polygon.com/deals/22938610/steam-deck-best-sd-card-micro-storage-price-speed)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
