@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle answer for Monday, June 10](https://www.pcgamer.com/games/puzzle/wordle-answer-today-june-10-2024)
  - [The next Call of Duty will yet again require a constant internet connection to play the singleplayer campaign on PC, and for the first time on console as well](https://www.pcgamer.com/games/fps/the-next-call-of-duty-will-yet-again-require-a-constant-internet-connection-to-play-the-singleplayer-campaign-on-pc-and-for-the-first-time-on-console-as-well)
- - [This Was The Best Xbox Showcase In Years &lpar;And The Hardest To Root For&rpar;](https://kotaku.com/xbox-showcase-summer-game-fest-layoffs-shutdown-tango-1851529002)
- - [Age of Mythology: Retold will be out in September and is coming to Game Pass day one](https://www.pcgamer.com/games/rts/age-of-mythology-retold-will-be-out-in-september-and-is-coming-to-game-pass-day-one)<!-- GAME:END -->
+ - [This Was The Best Xbox Showcase In Years &lpar;And The Hardest To Root For&rpar;](https://kotaku.com/xbox-showcase-summer-game-fest-layoffs-shutdown-tango-1851529002)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
