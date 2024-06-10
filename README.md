@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [You have stolen my dreams, and my childhood!](http://9gag.com/gag/axyZQOD)
- - ⏩ [Took him 5 years](http://9gag.com/gag/avygqM5)
- - 👉 [Russel](http://9gag.com/gag/aQz4KOW)<!-- MEMES:END -->
+ - 💣 [Wouldn&#39;t it make more sense to not warn people you&#39;re about to make false accusations against them?](http://9gag.com/gag/ayN0r6r)
+ - ⏩ [Transaction of the century](http://9gag.com/gag/aPA4LRg)
+ - 👉 [You have stolen my dreams, and my childhood!](http://9gag.com/gag/axyZQOD)<!-- MEMES:END -->
 
 ---
 
