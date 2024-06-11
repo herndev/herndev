@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [iOS 18 gives iPhone 15 more charging limit tiers to protect the battery](https://appleinsider.com/articles/24/06/11/ios-18-gives-iphone-15-more-charging-limit-tiers-to-protect-the-battery?utm_medium=rss)
- - [Apple Vision Pro, while a remarkable piece of tech, needs updates to avoid gathering dust, and WWDC&#39;s new features like 3D &quot;spatial photos&quot; are modest tweaks &lpar;Kevin Roose/New York Times&rpar;](http://www.techmeme.com/240611/p9#a240611p9)
- - [UAE-based Tenderd, which uses AI to help reduce emissions, raised $30M led by Danish firm A.P. Moller, following a Peter Thiel-backed $5.8M seed in 2019 &lpar;Fahad Abuljadayel/Bloomberg&rpar;](http://www.techmeme.com/240611/p8#a240611p8)<!-- TECH:END -->
+ - [Nintendo drops X support from the Switch via a new firmware update, following Sony and Microsoft doing the same in 2023 after X began charging for API usage &lpar;Wesley Yin-Poole/IGN&rpar;](http://www.techmeme.com/240611/p10#a240611p10)
+ - [Fitbit Ace LTE Review: The Best Kid&#39;s Smartwatch](https://www.wired.com/review/fitbit-ace-lte/)
+ - [OnePlus 13 could offer upgraded zoom and ultrawide cameras with a new sensor](https://www.androidauthority.com/oneplus-13-camera-leak-3450496/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
