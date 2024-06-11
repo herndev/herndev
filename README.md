@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Zero-knowledge cryptography firm Nexus Labs raised a $25M Series A co-led by Lightspeed Venture Partners and Pantera Capital &lpar;Timmy Shen/The Block&rpar;](http://www.techmeme.com/240611/p3#a240611p3)
- - [Atos chose a group led by Onepoint, its top shareholder, to take over the IT company; the group will invest &amp;euro;250M and convert &amp;euro;2.9B of Atos&#39; debt into shares &lpar;Benoit Berthelot/Bloomberg&rpar;](http://www.techmeme.com/240611/p2#a240611p2)
- - [Danish Media Threatens to Sue OpenAI](https://www.wired.com/story/danish-media-demands-a-deal-with-openai-or-else/)<!-- TECH:END -->
+ - [Hidden feature: You can change the iPhone flashlight’s radius on iOS 18](https://www.androidauthority.com/apple-ios-18-change-flashlight-radius-3450452/)
+ - [SSDI June 2024 Payment: Will Your Money Come This Week?     - CNET](https://www.cnet.com/personal-finance/ssdi-june-2024-payment-will-your-money-come-this-week/#ftag=CAD590a51e)
+ - [Zero-knowledge cryptography firm Nexus Labs raised a $25M Series A co-led by Lightspeed Venture Partners and Pantera Capital &lpar;Timmy Shen/The Block&rpar;](http://www.techmeme.com/240611/p3#a240611p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
