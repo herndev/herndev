@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [College liberals in France are not coping well with their party&#39;s recent crushing election defeat](http://9gag.com/gag/an7KPNB)
- - ⏩ [When the game&#39;s AI is playing with you. A 10-year old game w/ better AI than today&#39;s releases.](http://9gag.com/gag/aE014x9)
- - 👉 [French patriots: \u201cIslam out of Europe!\u201d Do you agree?](http://9gag.com/gag/a0eLqwB)<!-- MEMES:END -->
+ - 💣 [Well, well, well how the turntables](http://9gag.com/gag/aAyr9Bd)
+ - ⏩ [The science behind why your remote car key has a longer range when held to your head/body &lpar;or to a jar of water&rpar;](http://9gag.com/gag/aYQW3Em)
+ - 👉 [American cheese doesn&#39;t split when melting](http://9gag.com/gag/azxE31p)<!-- MEMES:END -->
 
 ---
 
