@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle answer for Tuesday, June 11](https://www.pcgamer.com/games/puzzle/wordle-answer-today-june-11-2024)
  - [XDefiant will get team deathmatch in &#39;a couple weeks&#39; because we hassled them about it lots](https://www.pcgamer.com/games/fps/xdefiant-will-get-team-deathmatch-in-a-couple-weeks-because-we-hassled-them-about-it-lots)
- - [Star Wars Outlaws Is The First Canonical Appearance Of A Video Game In The Franchise](https://kotaku.com/star-wars-outlaws-video-game-arcade-canon-ubisoft-gamer-1851531170)
- - [One of my top early access games is finally getting a second level: a 3-hour underground factory-city with an overhauled, Thief-style stealth system, a new RPG hub area, and an explanation for where all those FPS crates come from](https://www.pcgamer.com/games/fps/one-of-my-top-early-access-games-is-finally-getting-a-second-level-a-3-hour-underground-factory-city-with-an-overhauled-thief-style-stealth-system-a-new-rpg-hub-area-and-an-explanation-for-where-all-those-fps-crates-come-from)<!-- GAME:END -->
+ - [Star Wars Outlaws Is The First Canonical Appearance Of A Video Game In The Franchise](https://kotaku.com/star-wars-outlaws-video-game-arcade-canon-ubisoft-gamer-1851531170)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
