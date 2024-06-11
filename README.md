@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A CA administrative judge rejects Tesla&#39;s appeal to dismiss claims by California&#39;s DMV alleging the company overstated its vehicles&#39; self-driving capabilities &lpar;Rachel Graf/Bloomberg&rpar;](http://www.techmeme.com/240611/p1#a240611p1)
- - [Today&#39;s NYT Connections Hints and Answers: Help for June 11, #366     - CNET](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-and-answer-help-for-june-11-366/#ftag=CAD590a51e)
- - [Today&#39;s Wordle Hints and Answer: Help for June 11, #1088     - CNET](https://www.cnet.com/tech/gaming/todays-wordle-hints-and-answer-help-for-june-11-1088/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Zero-knowledge cryptography firm Nexus Labs raised a $25M Series A co-led by Lightspeed Venture Partners and Pantera Capital &lpar;Timmy Shen/The Block&rpar;](http://www.techmeme.com/240611/p3#a240611p3)
+ - [Atos chose a group led by Onepoint, its top shareholder, to take over the IT company; the group will invest &amp;euro;250M and convert &amp;euro;2.9B of Atos&#39; debt into shares &lpar;Benoit Berthelot/Bloomberg&rpar;](http://www.techmeme.com/240611/p2#a240611p2)
+ - [Danish Media Threatens to Sue OpenAI](https://www.wired.com/story/danish-media-demands-a-deal-with-openai-or-else/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
