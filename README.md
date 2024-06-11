@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Time comes when there are going to be no rules.](http://9gag.com/gag/ayN0rbV)
- - ⏩ [Peter Porco, who, after being struck 16 times with an axe, regained consciousness, got out of bed, went through his morning routine, retrieved the morning paper, locked himself out of the house, and let himself back in with a spare key before eventually falling dead in the foyer.](http://9gag.com/gag/apR07vM)
- - 👉 [Which arrow will penetrate riot shields?](http://9gag.com/gag/ayN0r7p)<!-- MEMES:END -->
+ - ⏩ [Random Indian tour guide speaking Japanese](http://9gag.com/gag/aZZx5RQ)
+ - 👉 [Gay maker](http://9gag.com/gag/aYQW5Dw)<!-- MEMES:END -->
 
 ---
 
