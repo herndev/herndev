@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [California Round Stingray](http://9gag.com/gag/aD23LrG)
- - ⏩ [So basically GTA Vice City](http://9gag.com/gag/a7oygMr)
- - 👉 [Definitely has a point](http://9gag.com/gag/aW4W3GK)<!-- MEMES:END -->
+ - 💣 [The perfect keychain doesn&#39;t exi...](http://9gag.com/gag/aAyrzMp)
+ - ⏩ [Well, well, well how the turntables](http://9gag.com/gag/aAyr9Bd)
+ - 👉 [Finished the job boss](http://9gag.com/gag/aoy07ew)<!-- MEMES:END -->
 
 ---
 
