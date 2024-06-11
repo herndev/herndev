@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Spotify’s HiFi add-on could cost an extra $5 per month](https://www.theverge.com/2024/6/11/24175980/spotify-hifi-add-on-cost-extra-lossless-audio-supremium)
- - [Yahoo Mail is adding more AI to simplify desktop email](https://www.theverge.com/2024/6/11/24175280/yahoo-mail-generative-ai-gmail)
- - [Q&amp;A with Tim Cook on how AI will help users &quot;save time&quot;, sticking to Apple&#39;s values, the Apple Intelligence name, hallucinations, OpenAI, journalism, and more &lpar;Josh Tyrangiel/Washington Post&rpar;](http://www.techmeme.com/240611/p14#a240611p14)<!-- TECH:END -->
+ - [Netgear’s new Orbi mesh and Nighthawk routers are a cheaper way into Wi-Fi 7](https://www.theverge.com/2024/6/11/24175947/netgear-orbi-mesh-nighthawk-wi-fi-7-router)
+ - [Best deal yet on the Motorola Razr Plus 2023 slashes $350 off retail price](https://www.androidauthority.com/deal-razr-plus-2023-3450397/)
+ - [Customer service automation startup Cognigy, whose AI agents can talk to tens of thousands of users at once, raised a $100M Series C and reports ~175 clients &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240611/p18#a240611p18)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
