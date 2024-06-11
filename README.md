@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best MacBook Deals: Save Hundreds on a MacBook Pro or MacBook Air Right Now     - CNET](https://www.cnet.com/deals/best-macbook-deals/#ftag=CAD590a51e)
- - [Amazon Prime Day 2024: Here&#39;s What You Need to Know About Amazon&#39;s Next Big Sale     - CNET](https://www.cnet.com/deals/amazon-prime-day/#ftag=CAD590a51e)
- - [GM pumps $850 million in Cruise to keep struggling robotaxi company afloat](https://www.theverge.com/2024/6/11/24176206/gm-cruise-invest-850-million-operational-cost-houston)<!-- TECH:END -->
+ - [CMF Phone 1: New details hint at exciting design elements and retail pricing](https://www.androidauthority.com/cmf-phone-1-price-leak-3450751/)
+ - [iOS 18 will soon let you set your own charging limit on all members of the iPhone 15 family](https://www.androidauthority.com/ios-18-charging-limits-3450639/)
+ - [Spotify Jams could soon let you chat with friends as you listen together](https://www.androidauthority.com/spotify-jams-chats-3450645/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
