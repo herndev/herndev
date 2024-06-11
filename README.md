@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [That one friend who doesn&#39;t take anything seriously.](http://9gag.com/gag/aW4W5XA)
- - ⏩ [Day 2 of vacation in Thailand](http://9gag.com/gag/aVvW678)
- - 👉 [Woman who randomly stabbed 3yo white boy smirked and mocked the victim&#39;s family in court](http://9gag.com/gag/aMVrMGP)<!-- MEMES:END -->
+ - 💣 [College liberals in France are not coping well with their party&#39;s recent crushing election defeat](http://9gag.com/gag/an7KPNB)
+ - ⏩ [When the game&#39;s AI is playing with you. A 10-year old game w/ better AI than today&#39;s releases.](http://9gag.com/gag/aE014x9)
+ - 👉 [French patriots: \u201cIslam out of Europe!\u201d Do you agree?](http://9gag.com/gag/a0eLqwB)<!-- MEMES:END -->
 
 ---
 
