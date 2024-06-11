@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Well, well, well how the turntables](http://9gag.com/gag/aAyr9Bd)
- - ⏩ [The science behind why your remote car key has a longer range when held to your head/body &lpar;or to a jar of water&rpar;](http://9gag.com/gag/aYQW3Em)
- - 👉 [American cheese doesn&#39;t split when melting](http://9gag.com/gag/azxE31p)<!-- MEMES:END -->
+ - 💣 [French patriots: \u201cIslam out of Europe!\u201d Do you agree?](http://9gag.com/gag/a0eLqwB)
+ - ⏩ [We&#39;re in the wrong timeline boys](http://9gag.com/gag/aZZxYv9)
+ - 👉 [People in ground recording a Helicopter shooting to the ground](http://9gag.com/gag/ajP0wNx)<!-- MEMES:END -->
 
 ---
 
