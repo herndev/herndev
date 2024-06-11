@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [One Moment In Dragon Age: The Veilguard Already Has Fans Shook](https://kotaku.com/dragon-age-veilguard-dreadwolf-varric-bianca-solas-1851533383)
- - [Horse Armor rides again: Bethesda is charging $7 for a single Starfield mission and after months of minimal post-launch support, unhappy fans are feeling ripped off](https://www.pcgamer.com/games/rpg/horse-armor-rides-again-again-bethesda-is-charging-dollar7-for-a-single-starfield-mission-and-after-months-of-minimal-post-launch-support-unhappy-fans-are-feeling-ripped-off)
- - [You see this beautiful D&amp;D terrain? It was made with Polish space magic.](https://www.polygon.com/tabletop-games/24176237/archon-studios-prismacast-polish-space-magic)<!-- GAME:END -->
+ - [Nimbly dodging confirmation of a rumored Xbox handheld, Phil Spencer says he&#39;s excited about &#39;the work that the team is doing around different form factors&#39;](https://www.pcgamer.com/gaming-industry/nimbly-dodging-confirmation-of-a-rumored-xbox-handheld-phil-spencer-says-hes-excited-about-the-work-that-the-team-is-doing-around-different-form-factors)
+ - [Here&#39;s a &#39;friendly PSA&#39; for Shadow of the Erdtree: Only 39% of Elden Ring players have beaten the optional boss necessary to reach the DLC](https://www.pcgamer.com/games/action/heres-a-friendly-psa-for-shadow-of-the-erdtree-only-39-of-elden-ring-players-have-beaten-the-optional-boss-necessary-to-reach-the-dlc)
+ - [Modder Adds Dark Ages&#39; Shieldsaw To OG Doom In Record Time](https://kotaku.com/doom-dark-ages-sawshield-mod-original-1851533660)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
