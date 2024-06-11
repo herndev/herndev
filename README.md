@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Mecha Break Coming to Xbox Series X|S in 2025, Apply for the Closed Beta Today](https://news.xbox.com/en-us/2024/06/11/mecha-break-closed-beta/)
- - [Kunitsu-Gami feels like a long-lost Capcom PS2 game, and I mean that as a sincere compliment](https://www.pcgamer.com/games/strategy/kunitsu-gami-feels-like-a-long-lost-capcom-ps2-game-and-i-mean-that-as-a-sincere-compliment)
- - [8 Big Things We Learned About Dragon Age: The Veilguard This Week](https://kotaku.com/dragon-age-veilguard-romance-character-creator-choices-1851533071)<!-- GAME:END -->
+ - [One Moment In Dragon Age: The Veilguard Already Has Fans Shook](https://kotaku.com/dragon-age-veilguard-dreadwolf-varric-bianca-solas-1851533383)
+ - [Horse Armor rides again: Bethesda is charging $7 for a single Starfield mission and after months of minimal post-launch support, unhappy fans are feeling ripped off](https://www.pcgamer.com/games/rpg/horse-armor-rides-again-again-bethesda-is-charging-dollar7-for-a-single-starfield-mission-and-after-months-of-minimal-post-launch-support-unhappy-fans-are-feeling-ripped-off)
+ - [You see this beautiful D&amp;D terrain? It was made with Polish space magic.](https://www.polygon.com/tabletop-games/24176237/archon-studios-prismacast-polish-space-magic)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
