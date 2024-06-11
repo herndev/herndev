@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Dragon Age: The Veilguard Is Changing How You Import Old Choices](https://kotaku.com/dragon-age-veilguard-dreadwolf-keep-choices-import-1851532520)
- - [5 Things You Need to Know About Wuchang: Fallen Feathers](https://news.xbox.com/en-us/2024/06/11/5-things-you-need-to-know-about-wuchang-fallen-feathers/)
- - [Dune: War for Arrakis board game owes its success in part due to The Lord of the Rings](https://www.polygon.com/reviews/24173979/dune-war-for-arrakis-review-best-board-games-2024)<!-- GAME:END -->
+ - [Winter Burrow is a Charming Combination of Cozy Game Comforts and Survival Elements](https://news.xbox.com/en-us/2024/06/11/winter-burrow-cozy-game-comforts-and-survival-elements/)
+ - [Add nine remastered FPS classics to your backlog for just $20](https://www.polygon.com/deals/2024/6/11/24176164/nightdive-classic-fps-remaster-humble-bundle-deal-sale)
+ - [We’re finally getting details on Skate 4 — including custom socks and Tim Robinson](https://www.polygon.com/24176073/skate-4-summer-game-fest-2024-update-socks-tim-robinson)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
