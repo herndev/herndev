@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Random Indian tour guide speaking Japanese](http://9gag.com/gag/aZZx5RQ)
- - ⏩ [Transaction of the century](http://9gag.com/gag/aPA4LRg)
- - 👉 [People in ground recording a Helicopter shooting to the ground](http://9gag.com/gag/ajP0wNx)<!-- MEMES:END -->
+ - 💣 [Say what?](http://9gag.com/gag/a5QPg1o)
+ - ⏩ [I know she&#39;s a witch and she might eat me, but...](http://9gag.com/gag/adBYwQV)
+ - 👉 [Woman who randomly stabbed 3yo white boy smirked and mocked the victim&#39;s family in court](http://9gag.com/gag/aMVrMGP)<!-- MEMES:END -->
 
 ---
 
