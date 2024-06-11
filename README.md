@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [California Round Stingray](http://9gag.com/gag/aD23LrG)
- - ⏩ [Day 2 of vacation in Thailand](http://9gag.com/gag/aVvW678)
- - 👉 [Hiker saves a woman struggling on the edge of a trail](http://9gag.com/gag/a87YgPY)<!-- MEMES:END -->
+ - 💣 [Finished the job boss](http://9gag.com/gag/aoy07ew)
+ - ⏩ [We&#39;re in the wrong timeline boys](http://9gag.com/gag/aZZxYv9)
+ - 👉 [The perfect keychain doesn&#39;t exi...](http://9gag.com/gag/aAyrzMp)<!-- MEMES:END -->
 
 ---
 
