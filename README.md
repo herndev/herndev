@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nintendo drops X support from the Switch via a new firmware update, following Sony and Microsoft doing the same in 2023 after X began charging for API usage &lpar;Wesley Yin-Poole/IGN&rpar;](http://www.techmeme.com/240611/p10#a240611p10)
- - [Fitbit Ace LTE Review: The Best Kid&#39;s Smartwatch](https://www.wired.com/review/fitbit-ace-lte/)
- - [OnePlus 13 could offer upgraded zoom and ultrawide cameras with a new sensor](https://www.androidauthority.com/oneplus-13-camera-leak-3450496/)<!-- TECH:END -->
+ - [Spotify’s HiFi add-on could cost an extra $5 per month](https://www.theverge.com/2024/6/11/24175980/spotify-hifi-add-on-cost-extra-lossless-audio-supremium)
+ - [Yahoo Mail is adding more AI to simplify desktop email](https://www.theverge.com/2024/6/11/24175280/yahoo-mail-generative-ai-gmail)
+ - [Q&amp;A with Tim Cook on how AI will help users &quot;save time&quot;, sticking to Apple&#39;s values, the Apple Intelligence name, hallucinations, OpenAI, journalism, and more &lpar;Josh Tyrangiel/Washington Post&rpar;](http://www.techmeme.com/240611/p14#a240611p14)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
