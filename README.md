@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [As US federal lawmakers drag out AI regulation, states make a push with a flurry of bills; TechNet: state lawmakers have proposed ~400 AI laws in recent months &lpar;Cecilia Kang/New York Times&rpar;](http://www.techmeme.com/240610/p42#a240610p42)
  - [Apple Intelligence: What To Know About Apple&#39;s Gen AI video     - CNET](https://www.cnet.com/videos/apple-intelligence-what-to-know-about-apples-gen-ai/#ftag=CAD590a51e)
- - [Google lets advertisers serve targeted ads across Google TV&#39;s 125+ free channels, and reports 20M+ US monthly active Google TV and Android TV OS devices in 2023 &lpar;Umar Shakir/The Verge&rpar;](http://www.techmeme.com/240610/p41#a240610p41)
- - [AI Is Apple’s Best Shot at Getting You to Upgrade Your iPhone](https://www.wired.com/story/ai-is-apples-best-shot-at-getting-you-to-upgrade-your-phone/)<!-- TECH:END -->
+ - [Google lets advertisers serve targeted ads across Google TV&#39;s 125+ free channels, and reports 20M+ US monthly active Google TV and Android TV OS devices in 2023 &lpar;Umar Shakir/The Verge&rpar;](http://www.techmeme.com/240610/p41#a240610p41)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
