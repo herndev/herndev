@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Well, well, well how the turntables](http://9gag.com/gag/aAyr9Bd)
- - ⏩ [Norwegian news was reporting on the success of far-right parties in Europe while the reason why was happening right behind him. These people have no respect.](http://9gag.com/gag/avygKrd)
- - 👉 [California Round Stingray](http://9gag.com/gag/aD23LrG)<!-- MEMES:END -->
+ - 💣 [Day 2 of vacation in Thailand](http://9gag.com/gag/aVvW678)
+ - ⏩ [Worker saves kitten from trash cutting machine](http://9gag.com/gag/ae908QW)
+ - 👉 [College liberals in France are not coping well with their party&#39;s recent crushing election defeat](http://9gag.com/gag/an7KPNB)<!-- MEMES:END -->
 
 ---
 
