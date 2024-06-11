@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Light Phone 3 is a little less light — but a lot more useful](https://www.theverge.com/2024/6/11/24176026/light-phone-3-launch-price-release-date)
- - [Microsoft’s new Outlook security changes impact third-party apps and Gmail integration](https://www.theverge.com/2024/6/11/24175917/microsoft-outlook-security-changes-secure-future-initiative)
- - [How iOS 18 lets you neatly rearrange app icons and home screen widgets](https://appleinsider.com/articles/24/06/11/how-ios-18-lets-you-neatly-rearrange-app-icons-and-home-screen-widgets?utm_medium=rss)<!-- TECH:END -->
+ - [Google’s June Pixel update brings Gemini AI to cheaper phones](https://www.theverge.com/2024/6/11/24176127/google-pixel-feature-drop-june-gemini-nano)
+ - [The Pixel Watch 2 can now detect when you’ve been in a car crash](https://www.theverge.com/2024/6/11/24176081/google-pixel-watch-crash-fall-detection-paypal-smartwatch-wearables)
+ - [Xpeng G6 2024 EV Review: Great Value, But Uninspiring](https://www.wired.com/review/review-xpeng-g6/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
