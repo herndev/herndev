@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [IT\u2019S MONDAY!!](http://9gag.com/gag/amo0ZQo)
- - ⏩ [Hiker saves a woman struggling on the edge of a trail](http://9gag.com/gag/a87YgPY)
- - 👉 [Norwegian news was reporting on the success of far-right parties in Europe while the reason why was happening right behind him. These people have no respect.](http://9gag.com/gag/avygKrd)<!-- MEMES:END -->
+ - 💣 [Random Indian tour guide speaking Japanese](http://9gag.com/gag/aZZx5RQ)
+ - ⏩ [Transaction of the century](http://9gag.com/gag/aPA4LRg)
+ - 👉 [People in ground recording a Helicopter shooting to the ground](http://9gag.com/gag/ajP0wNx)<!-- MEMES:END -->
 
 ---
 
