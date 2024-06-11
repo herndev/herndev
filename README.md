@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [American cheese doesn&#39;t split when melting](http://9gag.com/gag/azxE31p)
- - ⏩ [Peter Porco, who, after being struck 16 times with an axe, regained consciousness, got out of bed, went through his morning routine, retrieved the morning paper, locked himself out of the house, and let himself back in with a spare key before eventually falling dead in the foyer.](http://9gag.com/gag/apR07vM)
- - 👉 [We&#39;re in the wrong timeline boys](http://9gag.com/gag/aZZxYv9)<!-- MEMES:END -->
+ - 💣 [California Round Stingray](http://9gag.com/gag/aD23LrG)
+ - ⏩ [So basically GTA Vice City](http://9gag.com/gag/a7oygMr)
+ - 👉 [Definitely has a point](http://9gag.com/gag/aW4W3GK)<!-- MEMES:END -->
 
 ---
 
