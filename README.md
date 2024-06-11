@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Traveling not driving](http://9gag.com/gag/a9yLG6Z)
- - ⏩ [Day 2 of vacation in Thailand](http://9gag.com/gag/aVvW678)
- - 👉 [Doom: The Dark Ages - I just came](http://9gag.com/gag/aZZxX8Q)<!-- MEMES:END -->
+ - 💣 [That one friend who doesn&#39;t take anything seriously.](http://9gag.com/gag/aW4W5XA)
+ - ⏩ [When the game&#39;s AI is playing with you. A 10-year old game w/ better AI than today&#39;s releases.](http://9gag.com/gag/aE014x9)
+ - 👉 [Well, well, well how the turntables](http://9gag.com/gag/aAyr9Bd)<!-- MEMES:END -->
 
 ---
 
