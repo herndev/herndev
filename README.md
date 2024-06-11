@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Fans are afraid they&#39;ll turn Snake into a walking corpse after Konami announces that any injuries will &#39;leave their mark permanently&#39;](https://www.pcgamer.com/games/action/fans-are-afraid-theyll-turn-snake-into-a-walking-corpse-after-konami-announces-that-any-injuries-will-leave-their-mark-permanently)
- - [FOMO is alive and well—Life is Strange: Double Exposure has a 2-week early access period if you cough up some dough for its Ultimate Edition](https://www.pcgamer.com/games/fomo-is-alive-and-well-life-is-strange-double-exposure-has-a-2-week-early-access-period-if-you-cough-up-some-dough-for-its-ultimate-edition)
- - [Obsidian&#39;s Avowed shows off a 25-minute deep dive—revealing a 3rd person mode, a first look at its RPG mechanics, and a flirty wizard in need of a vase](https://www.pcgamer.com/games/rpg/obsidian-s-avowed-shows-off-a-25-minute-deep-dive-revealing-a-3rd-person-mode-a-first-look-at-its-rpg-mechanics-and-a-flirty-wizard-in-need-of-a-vase)<!-- GAME:END -->
+ - [Veilguard Unveiled: An Hour with the Next Dragon Age](https://news.xbox.com/en-us/2024/06/11/dragon-age-the-veilguard-preview/)
+ - [The first hour of Dragon Age: The Veilguard looks more fun than that trailer did](https://www.polygon.com/24175705/dragon-age-the-veilguard-preview-impressions-summer-game-fest)
+ - [Konami Hopes Metal Gear Solid Delta Could Bring The Series Back, New Ad Suggests](https://kotaku.com/metal-gear-solid-delta-snake-eater-ad-series-future-1851532061)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
