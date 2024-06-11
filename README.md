@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Today&#39;s Wordle answer for Tuesday, June 11](https://www.pcgamer.com/games/puzzle/wordle-answer-today-june-11-2024)
- - [XDefiant will get team deathmatch in &#39;a couple weeks&#39; because we hassled them about it lots](https://www.pcgamer.com/games/fps/xdefiant-will-get-team-deathmatch-in-a-couple-weeks-because-we-hassled-them-about-it-lots)
- - [Star Wars Outlaws Is The First Canonical Appearance Of A Video Game In The Franchise](https://kotaku.com/star-wars-outlaws-video-game-arcade-canon-ubisoft-gamer-1851531170)<!-- GAME:END -->
+ - [Fresh rumours claim Nvidia&#39;s next-gen Blackwell cards won&#39;t have a wider memory bus or more VRAM—apart from the RTX 5090](https://www.pcgamer.com/hardware/graphics-cards/fresh-rumours-claim-nvidias-next-gen-blackwell-cards-wont-have-a-wider-memory-bus-or-more-vramapart-from-the-rtx-5090)
+ - [What time does Helldivers 2’s Viper Commandos Warbond release?](https://www.polygon.com/guides/2024/6/11/24175596/helldivers-2-viper-commandos-warbond-start-time-release-dat)
+ - [The Legend of Vox Machina, Critical Role&#39;s animated retelling of the D&amp;D campaign that made it famous, gets a release date and trailer for its 3rd season](https://www.pcgamer.com/movies-tv/the-legend-of-vox-machina-critical-role-s-animated-retelling-of-the-d-d-campaign-that-made-it-famous-gets-a-release-date-and-trailer-for-its-3rd-season)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
