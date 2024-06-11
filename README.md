@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [1000xResist isn’t just mind-bending sci-fi — it’s also an allegory for diaspora](https://www.polygon.com/2024/6/11/24173823/1000xresist-impressions)
- - [AMD&#39;s new Ryzen AI laptop chips aren&#39;t officially supported on Windows 10, thanks to its NPU and Copilot+](https://www.pcgamer.com/hardware/processors/amds-new-ryzen-ai-laptop-chips-arent-officially-supported-on-windows-10-thanks-to-its-npu-and-copilot)
- - [Fresh rumours claim Nvidia&#39;s next-gen Blackwell cards won&#39;t have a wider memory bus or more VRAM—apart from the RTX 5090](https://www.pcgamer.com/hardware/graphics-cards/fresh-rumours-claim-nvidias-next-gen-blackwell-cards-wont-have-a-wider-memory-bus-or-more-vramapart-from-the-rtx-5090)<!-- GAME:END -->
+ - [Fans are afraid they&#39;ll turn Snake into a walking corpse after Konami announces that any injuries will &#39;leave their mark permanently&#39;](https://www.pcgamer.com/games/action/fans-are-afraid-theyll-turn-snake-into-a-walking-corpse-after-konami-announces-that-any-injuries-will-leave-their-mark-permanently)
+ - [FOMO is alive and well—Life is Strange: Double Exposure has a 2-week early access period if you cough up some dough for its Ultimate Edition](https://www.pcgamer.com/games/fomo-is-alive-and-well-life-is-strange-double-exposure-has-a-2-week-early-access-period-if-you-cough-up-some-dough-for-its-ultimate-edition)
+ - [Obsidian&#39;s Avowed shows off a 25-minute deep dive—revealing a 3rd person mode, a first look at its RPG mechanics, and a flirty wizard in need of a vase](https://www.pcgamer.com/games/rpg/obsidian-s-avowed-shows-off-a-25-minute-deep-dive-revealing-a-3rd-person-mode-a-first-look-at-its-rpg-mechanics-and-a-flirty-wizard-in-need-of-a-vase)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
