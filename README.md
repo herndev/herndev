@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Finished the job boss](http://9gag.com/gag/aoy07ew)
- - ⏩ [We&#39;re in the wrong timeline boys](http://9gag.com/gag/aZZxYv9)
- - 👉 [The perfect keychain doesn&#39;t exi...](http://9gag.com/gag/aAyrzMp)<!-- MEMES:END -->
+ - 💣 [Well, well, well how the turntables](http://9gag.com/gag/aAyr9Bd)
+ - ⏩ [Norwegian news was reporting on the success of far-right parties in Europe while the reason why was happening right behind him. These people have no respect.](http://9gag.com/gag/avygKrd)
+ - 👉 [California Round Stingray](http://9gag.com/gag/aD23LrG)<!-- MEMES:END -->
 
 ---
 
