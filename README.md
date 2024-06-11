@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [In posts that seem to misunderstand Apple&#39;s deal with OpenAI, Elon Musk threatens to ban Apple devices from his companies over Apple&#39;s ChatGPT integrations &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/240610/p39#a240610p39)
- - [Apple says its Private Cloud Compute for AI processing is built with custom Apple silicon, and independent experts can inspect the code that runs on its servers &lpar;Kyle Orland/Ars Technica&rpar;](http://www.techmeme.com/240610/p38#a240610p38)
- - [Get the iOS 18 wallpapers on your Android phone here!](https://www.androidauthority.com/ios-18-wallpapers-3450414/)<!-- TECH:END -->
+ - [Google lets advertisers serve targeted ads across Google TV&#39;s 125+ free channels, and reports 20M+ US monthly active Google TV and Android TV OS devices in 2023 &lpar;Umar Shakir/The Verge&rpar;](http://www.techmeme.com/240610/p41#a240610p41)
+ - [AI Is Apple’s Best Shot at Getting You to Upgrade Your iPhone](https://www.wired.com/story/ai-is-apples-best-shot-at-getting-you-to-upgrade-your-phone/)
+ - [With iOS 18, iPhone’s dialer will finally get the most basic smartphone feature](https://www.androidauthority.com/ios18-t9-dialing-3450399/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
