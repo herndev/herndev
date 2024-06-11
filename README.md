@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Day 2 of vacation in Thailand](http://9gag.com/gag/aVvW678)
- - ⏩ [Worker saves kitten from trash cutting machine](http://9gag.com/gag/ae908QW)
- - 👉 [College liberals in France are not coping well with their party&#39;s recent crushing election defeat](http://9gag.com/gag/an7KPNB)<!-- MEMES:END -->
+ - 💣 [Does fentanyl give you superpowers now?](http://9gag.com/gag/a4PdOqy)
+ - ⏩ [Hiker saves a woman struggling on the edge of a trail](http://9gag.com/gag/a87YgPY)
+ - 👉 [Vegan meth microdosing](http://9gag.com/gag/avygqvb)<!-- MEMES:END -->
 
 ---
 
