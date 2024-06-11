@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [One of my top early access games is finally getting a second level: a 3-hour underground factory-city with an overhauled, Thief-style stealth system, a new RPG hub area, and an explanation for where all those FPS crates come from](https://www.pcgamer.com/games/fps/one-of-my-top-early-access-games-is-finally-getting-a-second-level-a-3-hour-underground-factory-city-with-an-overhauled-thief-style-stealth-system-a-new-rpg-hub-area-and-an-explanation-for-where-all-those-fps-crates-come-from)
- - [A modder has already brought Doom: The Dark Age&#39;s new &#39;Shield Saw&#39; to the 1993 original, and it&#39;s pretty close to perfect](https://www.pcgamer.com/games/fps/a-modder-has-already-brought-doom-the-dark-ages-new-shield-saw-to-the-1993-original-and-its-pretty-close-to-perfect)
- - [Everything We’ve Learned About Call Of Duty: Black Ops 6](https://kotaku.com/call-of-duty-black-ops-6-direct-everything-we-know-1851531121)<!-- GAME:END -->
+ - [XDefiant will get team deathmatch in &#39;a couple weeks&#39; because we hassled them about it lots](https://www.pcgamer.com/games/fps/xdefiant-will-get-team-deathmatch-in-a-couple-weeks-because-we-hassled-them-about-it-lots)
+ - [Star Wars Outlaws Is The First Canonical Appearance Of A Video Game In The Franchise](https://kotaku.com/star-wars-outlaws-video-game-arcade-canon-ubisoft-gamer-1851531170)
+ - [One of my top early access games is finally getting a second level: a 3-hour underground factory-city with an overhauled, Thief-style stealth system, a new RPG hub area, and an explanation for where all those FPS crates come from](https://www.pcgamer.com/games/fps/one-of-my-top-early-access-games-is-finally-getting-a-second-level-a-3-hour-underground-factory-city-with-an-overhauled-thief-style-stealth-system-a-new-rpg-hub-area-and-an-explanation-for-where-all-those-fps-crates-come-from)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
