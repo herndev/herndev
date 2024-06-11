@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Veilguard Unveiled: An Hour with the Next Dragon Age](https://news.xbox.com/en-us/2024/06/11/dragon-age-the-veilguard-preview/)
- - [The first hour of Dragon Age: The Veilguard looks more fun than that trailer did](https://www.polygon.com/24175705/dragon-age-the-veilguard-preview-impressions-summer-game-fest)
- - [Konami Hopes Metal Gear Solid Delta Could Bring The Series Back, New Ad Suggests](https://kotaku.com/metal-gear-solid-delta-snake-eater-ad-series-future-1851532061)<!-- GAME:END -->
+ - [5 Things You Need to Know About Wuchang: Fallen Feathers](https://news.xbox.com/en-us/2024/06/11/5-things-you-need-to-know-about-wuchang-fallen-feathers/)
+ - [Life Is Strange: Double Exposure Brings Back the Series’ Original Star for a Supernatural Murder Mystery](https://news.xbox.com/en-us/2024/06/11/life-is-strange-double-exposure-reveal-xbox-showcase-2024/)
+ - [You probably aren’t ready to start Elden Ring: Shadow of the Erdtree](https://www.polygon.com/24176047/elden-ring-shadow-of-the-erdtree-dlc-preparation-achievements-completed)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
