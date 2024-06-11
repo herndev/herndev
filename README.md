@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Fortinet announces it has reached an agreement to acquire cloud security company Lacework; Lacework had raised $1.8B and was valued at $8.3B in 2021 &lpar;Kyle Alspach/CRN&rpar;](http://www.techmeme.com/240610/p36#a240610p36)
- - [iOS 18 will let you record calls — and tells everyone for their privacy](https://www.theverge.com/2024/6/10/24175684/ios-18-record-calls-privacy-apple-intelligence)
- - [Craig Federighi &amp; John Giannandrea talk Apple Intelligence at WWDC](https://appleinsider.com/articles/24/06/10/craig-federighi-john-giannandrea-talk-apple-intelligence-at-wwdc?utm_medium=rss)<!-- TECH:END -->
+ - [In posts that seem to misunderstand Apple&#39;s deal with OpenAI, Elon Musk threatens to ban Apple devices from his companies over Apple&#39;s ChatGPT integrations &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/240610/p39#a240610p39)
+ - [Apple says its Private Cloud Compute for AI processing is built with custom Apple silicon, and independent experts can inspect the code that runs on its servers &lpar;Kyle Orland/Ars Technica&rpar;](http://www.techmeme.com/240610/p38#a240610p38)
+ - [Get the iOS 18 wallpapers on your Android phone here!](https://www.androidauthority.com/ios-18-wallpapers-3450414/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
