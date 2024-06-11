@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Winter Burrow is a Charming Combination of Cozy Game Comforts and Survival Elements](https://news.xbox.com/en-us/2024/06/11/winter-burrow-cozy-game-comforts-and-survival-elements/)
- - [Add nine remastered FPS classics to your backlog for just $20](https://www.polygon.com/deals/2024/6/11/24176164/nightdive-classic-fps-remaster-humble-bundle-deal-sale)
- - [We’re finally getting details on Skate 4 — including custom socks and Tim Robinson](https://www.polygon.com/24176073/skate-4-summer-game-fest-2024-update-socks-tim-robinson)<!-- GAME:END -->
+ - [Mecha Break Coming to Xbox Series X|S in 2025, Apply for the Closed Beta Today](https://news.xbox.com/en-us/2024/06/11/mecha-break-closed-beta/)
+ - [Kunitsu-Gami feels like a long-lost Capcom PS2 game, and I mean that as a sincere compliment](https://www.pcgamer.com/games/strategy/kunitsu-gami-feels-like-a-long-lost-capcom-ps2-game-and-i-mean-that-as-a-sincere-compliment)
+ - [8 Big Things We Learned About Dragon Age: The Veilguard This Week](https://kotaku.com/dragon-age-veilguard-romance-character-creator-choices-1851533071)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
