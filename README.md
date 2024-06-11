@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google&#39;s June Pixel drop brings Gemini Nano to Pixel 8 and 8a, updated HDR+ support for Pixel 6 and newer devices, car crash detection for Pixel Watch 2, more &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/240611/p24#a240611p24)
- - [Spotify’s pricey HiFi tier could be finally arriving, with a feature to win you over](https://www.androidauthority.com/spotify-lossless-price-leak-3450658/)
- - [Best Deals on Earbuds and Headphones: Score Big Savings on Beats, Skullcandy and More     - CNET](https://www.cnet.com/deals/best-headphone-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best MacBook Deals: Save Hundreds on a MacBook Pro or MacBook Air Right Now     - CNET](https://www.cnet.com/deals/best-macbook-deals/#ftag=CAD590a51e)
+ - [Amazon Prime Day 2024: Here&#39;s What You Need to Know About Amazon&#39;s Next Big Sale     - CNET](https://www.cnet.com/deals/amazon-prime-day/#ftag=CAD590a51e)
+ - [GM pumps $850 million in Cruise to keep struggling robotaxi company afloat](https://www.theverge.com/2024/6/11/24176206/gm-cruise-invest-850-million-operational-cost-houston)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
