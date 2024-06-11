@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Netgear’s new Orbi mesh and Nighthawk routers are a cheaper way into Wi-Fi 7](https://www.theverge.com/2024/6/11/24175947/netgear-orbi-mesh-nighthawk-wi-fi-7-router)
- - [Best deal yet on the Motorola Razr Plus 2023 slashes $350 off retail price](https://www.androidauthority.com/deal-razr-plus-2023-3450397/)
- - [Customer service automation startup Cognigy, whose AI agents can talk to tens of thousands of users at once, raised a $100M Series C and reports ~175 clients &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240611/p18#a240611p18)<!-- TECH:END -->
+ - [The Light Phone 3 is a little less light — but a lot more useful](https://www.theverge.com/2024/6/11/24176026/light-phone-3-launch-price-release-date)
+ - [Microsoft’s new Outlook security changes impact third-party apps and Gmail integration](https://www.theverge.com/2024/6/11/24175917/microsoft-outlook-security-changes-secure-future-initiative)
+ - [How iOS 18 lets you neatly rearrange app icons and home screen widgets](https://appleinsider.com/articles/24/06/11/how-ios-18-lets-you-neatly-rearrange-app-icons-and-home-screen-widgets?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
