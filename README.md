@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google’s June Pixel update brings Gemini AI to cheaper phones](https://www.theverge.com/2024/6/11/24176127/google-pixel-feature-drop-june-gemini-nano)
- - [The Pixel Watch 2 can now detect when you’ve been in a car crash](https://www.theverge.com/2024/6/11/24176081/google-pixel-watch-crash-fall-detection-paypal-smartwatch-wearables)
- - [Xpeng G6 2024 EV Review: Great Value, But Uninspiring](https://www.wired.com/review/review-xpeng-g6/)<!-- TECH:END -->
+ - [Google&#39;s June Pixel drop brings Gemini Nano to Pixel 8 and 8a, updated HDR+ support for Pixel 6 and newer devices, car crash detection for Pixel Watch 2, more &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/240611/p24#a240611p24)
+ - [Spotify’s pricey HiFi tier could be finally arriving, with a feature to win you over](https://www.androidauthority.com/spotify-lossless-price-leak-3450658/)
+ - [Best Deals on Earbuds and Headphones: Score Big Savings on Beats, Skullcandy and More     - CNET](https://www.cnet.com/deals/best-headphone-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
