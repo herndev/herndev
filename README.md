@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Does fentanyl give you superpowers now?](http://9gag.com/gag/a4PdOqy)
- - ⏩ [Hiker saves a woman struggling on the edge of a trail](http://9gag.com/gag/a87YgPY)
- - 👉 [Vegan meth microdosing](http://9gag.com/gag/avygqvb)<!-- MEMES:END -->
+ - 💣 [Which arrow will penetrate riot shields?](http://9gag.com/gag/ayN0r7p)
+ - ⏩ [People in ground recording a Helicopter shooting to the ground](http://9gag.com/gag/ajP0wNx)
+ - 👉 [American cheese doesn&#39;t split when melting](http://9gag.com/gag/azxE31p)<!-- MEMES:END -->
 
 ---
 
