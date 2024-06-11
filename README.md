@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [French patriots: \u201cIslam out of Europe!\u201d Do you agree?](http://9gag.com/gag/a0eLqwB)
- - ⏩ [We&#39;re in the wrong timeline boys](http://9gag.com/gag/aZZxYv9)
- - 👉 [People in ground recording a Helicopter shooting to the ground](http://9gag.com/gag/ajP0wNx)<!-- MEMES:END -->
+ - 💣 [Day 2 of vacation in Thailand](http://9gag.com/gag/aVvW678)
+ - ⏩ [American cheese doesn&#39;t split when melting](http://9gag.com/gag/azxE31p)
+ - 👉 [Woman who randomly stabbed 3yo white boy smirked and mocked the victim&#39;s family in court](http://9gag.com/gag/aMVrMGP)<!-- MEMES:END -->
 
 ---
 
