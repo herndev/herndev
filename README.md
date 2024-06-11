@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Fresh rumours claim Nvidia&#39;s next-gen Blackwell cards won&#39;t have a wider memory bus or more VRAM—apart from the RTX 5090](https://www.pcgamer.com/hardware/graphics-cards/fresh-rumours-claim-nvidias-next-gen-blackwell-cards-wont-have-a-wider-memory-bus-or-more-vramapart-from-the-rtx-5090)
- - [What time does Helldivers 2’s Viper Commandos Warbond release?](https://www.polygon.com/guides/2024/6/11/24175596/helldivers-2-viper-commandos-warbond-start-time-release-dat)
- - [The Legend of Vox Machina, Critical Role&#39;s animated retelling of the D&amp;D campaign that made it famous, gets a release date and trailer for its 3rd season](https://www.pcgamer.com/movies-tv/the-legend-of-vox-machina-critical-role-s-animated-retelling-of-the-d-d-campaign-that-made-it-famous-gets-a-release-date-and-trailer-for-its-3rd-season)<!-- GAME:END -->
+ - [1000xResist isn’t just mind-bending sci-fi — it’s also an allegory for diaspora](https://www.polygon.com/2024/6/11/24173823/1000xresist-impressions)
+ - [AMD&#39;s new Ryzen AI laptop chips aren&#39;t officially supported on Windows 10, thanks to its NPU and Copilot+](https://www.pcgamer.com/hardware/processors/amds-new-ryzen-ai-laptop-chips-arent-officially-supported-on-windows-10-thanks-to-its-npu-and-copilot)
+ - [Fresh rumours claim Nvidia&#39;s next-gen Blackwell cards won&#39;t have a wider memory bus or more VRAM—apart from the RTX 5090](https://www.pcgamer.com/hardware/graphics-cards/fresh-rumours-claim-nvidias-next-gen-blackwell-cards-wont-have-a-wider-memory-bus-or-more-vramapart-from-the-rtx-5090)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
