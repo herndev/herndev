@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [The Big Nintendo Direct Everyone&#39;s Waiting For Is Probably Next Week](https://kotaku.com/nintendo-direct-switch-2-june-2024-metroid-prime-4-1851533753)
  - [Nimbly dodging confirmation of a rumored Xbox handheld, Phil Spencer says he&#39;s excited about &#39;the work that the team is doing around different form factors&#39;](https://www.pcgamer.com/gaming-industry/nimbly-dodging-confirmation-of-a-rumored-xbox-handheld-phil-spencer-says-hes-excited-about-the-work-that-the-team-is-doing-around-different-form-factors)
- - [Here&#39;s a &#39;friendly PSA&#39; for Shadow of the Erdtree: Only 39% of Elden Ring players have beaten the optional boss necessary to reach the DLC](https://www.pcgamer.com/games/action/heres-a-friendly-psa-for-shadow-of-the-erdtree-only-39-of-elden-ring-players-have-beaten-the-optional-boss-necessary-to-reach-the-dlc)
- - [Modder Adds Dark Ages&#39; Shieldsaw To OG Doom In Record Time](https://kotaku.com/doom-dark-ages-sawshield-mod-original-1851533660)<!-- GAME:END -->
+ - [Here&#39;s a &#39;friendly PSA&#39; for Shadow of the Erdtree: Only 39% of Elden Ring players have beaten the optional boss necessary to reach the DLC](https://www.pcgamer.com/games/action/heres-a-friendly-psa-for-shadow-of-the-erdtree-only-39-of-elden-ring-players-have-beaten-the-optional-boss-necessary-to-reach-the-dlc)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
