@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Hidden feature: You can change the iPhone flashlight’s radius on iOS 18](https://www.androidauthority.com/apple-ios-18-change-flashlight-radius-3450452/)
- - [SSDI June 2024 Payment: Will Your Money Come This Week?     - CNET](https://www.cnet.com/personal-finance/ssdi-june-2024-payment-will-your-money-come-this-week/#ftag=CAD590a51e)
- - [Zero-knowledge cryptography firm Nexus Labs raised a $25M Series A co-led by Lightspeed Venture Partners and Pantera Capital &lpar;Timmy Shen/The Block&rpar;](http://www.techmeme.com/240611/p3#a240611p3)<!-- TECH:END -->
+ - [The best thing about Jabra’s new earbuds is the case](https://www.theverge.com/2024/6/11/24175608/jabra-elite-10-8-active-gen-2-case-features)
+ - [Latest Galaxy Z Fold 6, Z Flip 6 leak teases full list of colorways](https://www.androidauthority.com/galaxy-z-fold-6-z-flip-6-colorways-3450465/)
+ - [Tech execs and experts say Arm and Qualcomm&#39;s contract dispute could halt the shipment of new Arm-based PCs; the trial is scheduled to begin in December 2024 &lpar;Max A. Cherney/Reuters&rpar;](http://www.techmeme.com/240611/p4#a240611p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
