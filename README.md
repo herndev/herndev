@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Mail in iOS 18 introduces on-device email categorization, Smart Replies, and summaries](https://appleinsider.com/articles/24/06/11/apple-mail-in-ios-18-introduces-on-device-email-categorization-smart-replies-and-summaries?utm_medium=rss)
- - [Best Buy is laying off more employees as it reckons with falling sales](https://www.theverge.com/2024/6/11/24174810/best-buy-layoffs-sales-teams)
- - [TikTok Shop is huge for the beauty industry](https://www.theverge.com/2024/6/11/24176221/tiktok-shop-beauty-wellness-industry-growth-ecommerce)<!-- TECH:END -->
+ - [Can we artificially cool the planet? A major environmental group is spending millions to find out](https://www.theverge.com/2024/6/11/24176006/solar-geoengineering-envrionmental-defense-fund)
+ - [Apple shares closed up 7.3% at $207.15 in their biggest one-day jump since November 2022, giving the company a $3.18T market cap, just under Microsoft&#39;s $3.22T &lpar;Ryan Vlastelica/Bloomberg&rpar;](http://www.techmeme.com/240611/p34#a240611p34)
+ - [Elon Musk drops lawsuit against OpenAI](https://www.theverge.com/2024/6/11/24176462/elon-musk-openai-lawsuit-sam-altman-dropped)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
