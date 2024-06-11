@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Nope](http://9gag.com/gag/aRBP8W5)
- - ⏩ [The whole Palestinian victim mentality in one picture. No understanding of cause and effect, consequences and accountability, just like children. It\u2019s always the evil Jews. #FAFO](http://9gag.com/gag/adBYMYQ)
- - 👉 [The primary reason to raise Social Security&#39;s normal retirement age is to reduce the long-term deficit..](http://9gag.com/gag/a9yLed6)<!-- MEMES:END -->
+ - 💣 [Traveling not driving](http://9gag.com/gag/a9yLG6Z)
+ - ⏩ [Day 2 of vacation in Thailand](http://9gag.com/gag/aVvW678)
+ - 👉 [Doom: The Dark Ages - I just came](http://9gag.com/gag/aZZxX8Q)<!-- MEMES:END -->
 
 ---
 
