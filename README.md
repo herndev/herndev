@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Can we artificially cool the planet? A major environmental group is spending millions to find out](https://www.theverge.com/2024/6/11/24176006/solar-geoengineering-envrionmental-defense-fund)
- - [Apple shares closed up 7.3% at $207.15 in their biggest one-day jump since November 2022, giving the company a $3.18T market cap, just under Microsoft&#39;s $3.22T &lpar;Ryan Vlastelica/Bloomberg&rpar;](http://www.techmeme.com/240611/p34#a240611p34)
- - [Elon Musk drops lawsuit against OpenAI](https://www.theverge.com/2024/6/11/24176462/elon-musk-openai-lawsuit-sam-altman-dropped)<!-- TECH:END -->
+ - [End of an era: Jabra is discontinuing its Elite line of earbuds](https://www.androidauthority.com/jabra-elite-discontinued-3450815/)
+ - [The Verge’s 2024 Father’s Day gift guide](https://www.theverge.com/24153276/best-fathers-day-gift-ideas-2024-dad-tech-gadgets)
+ - [Google still recommends glue for your pizza](https://www.theverge.com/2024/6/11/24176490/mm-delicious-glue)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
