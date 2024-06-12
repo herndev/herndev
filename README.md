@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Waymo issues a software update to its 672 vehicles after one collided with a telephone pole in Phoenix on May 21, marking Waymo&#39;s second recall ever &lpar;Andrew J. Hawkins/The Verge&rpar;](http://www.techmeme.com/240612/p20#a240612p20)
- - [MediaTek chips for Windows on Arm are coming as Qualcomm exclusivity nears end](https://www.androidauthority.com/mediatek-chips-windows-arm-2025-3450978/)
- - [IBM and Xerox PARC engineer Lynn Conway, who helped shape the way chips are designed and undertook a gender transition in 1968, died last weekend at age 86 &lpar;Ina Fried/Axios&rpar;](http://www.techmeme.com/240612/p19#a240612p19)<!-- TECH:END -->
+ - [iOS 18 hands-on impressions: Apple is Android-ifying the iPhone experience](https://www.androidauthority.com/ios-18-hands-on-3450497/)
+ - [The surprisingly not so doomed effort to force US drivers to stop speeding](https://www.theverge.com/2024/6/12/24176403/intelligent-speed-assistance-iihs-safety-limiters-governor)
+ - [Samsung Galaxy Z Fold 6 rumors: Everything we know and what we want to see](https://www.androidauthority.com/samsung-galaxy-z-fold-6-3385438/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
