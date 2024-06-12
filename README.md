@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Could Arm&#39;s legal battle with Qualcomm over technology licences stop Copilot+ PCs from really taking off?](https://www.pcgamer.com/hardware/processors/could-arms-legal-battle-with-qualcomm-over-technology-licences-stop-copilot-pcs-from-really-taking-off)
- - [MediaTek is aiming to do a Qualcomm and make Arm chips for Copilot+ PCs, targeting a 2025 release](https://www.pcgamer.com/hardware/processors/mediatek-is-aiming-to-do-a-qualcomm-and-make-arm-chips-for-copilot-pcs-targeting-a-2025-release)
- - [Pre-orders now open for ATLUS’s next big title—Metaphor: ReFantazio, set to release on October 11, 2024!](https://blog.playstation.com/2024/06/11/20240612-metaphor/)<!-- GAME:END -->
+ - [The battle for the heart of next-gen handheld gaming PCs: AMD&#39;s Strix Point versus Intel&#39;s Lunar Lake](https://www.pcgamer.com/hardware/processors/the-battle-for-the-heart-of-next-gen-handheld-gaming-pcs-amds-strix-point-versus-intels-lunar-lake)
+ - [Destiny 2 Lost Signal god roll guide: Best perks, barrels, and magazines](https://www.pcgamer.com/games/fps/destiny-2-lost-signal-god-roll-guide-best-perks-barrels-and-magazines)
+ - [Dragon Age: The Veilguard&#39;s gameplay reveal emphasises just how terminally out of touch EA and BioWare have become](https://www.pcgamer.com/games/rpg/dragon-age-the-veilguards-gameplay-reveal-emphasises-just-how-terminally-out-of-touch-ea-and-bioware-have-become)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
