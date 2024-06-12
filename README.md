@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Netflix will settle 15 years of Chestnut vs. Kobayashi with a live hot dog-eating contest](https://www.theverge.com/2024/6/12/24177277/netflix-chestnut-kobayashi-unfinished-beef-hot-dogs)
- - [Amazon Fire Smart TV 55&quot;     - CNET](https://www.cnet.com/tech/home-entertainment/amazon-fire-tv2-55-dpnl/#ftag=CAD590a51e)
- - [AI search engine Perplexity says it was working on revenue-sharing deals with publishers when Forbes criticized it for misusing content from Forbes and others &lpar;Reed Albergotti/Semafor&rpar;](http://www.techmeme.com/240612/p31#a240612p31)<!-- TECH:END -->
+ - [Remove objects in Photos with Clean Up in iOS 18](https://appleinsider.com/articles/24/06/12/remove-objects-in-photos-with-clean-up-in-ios-18?utm_medium=rss)
+ - [Google says ChromeOS will soon be developed on portions of the Android stack, including its Linux kernel and frameworks, to bring AI features to users faster &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/240612/p32#a240612p32)
+ - [Alexa Smart Home Starter Kit     - CNET](https://www.cnet.com/home/smart-home/alexa-smart-home-starter-kit-dpnl/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
