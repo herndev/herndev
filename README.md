@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [How to tell if there are alligators are in the water](http://9gag.com/gag/aO8bwZy)
- - ⏩ [Woman who randomly stabbed 3yo white boy smirked and mocked the victim&#39;s family in court](http://9gag.com/gag/aMVrMGP)
- - 👉 [A stiff upper lip](http://9gag.com/gag/aQz4wy8)<!-- MEMES:END -->
+ - 💣 [Qatar blatantly cheated to defeat India 2-1 in World Cup qualifiers.](http://9gag.com/gag/ae90L95)
+ - ⏩ [Please follow through this time](http://9gag.com/gag/aqyNPKY)
+ - 👉 [One day, someone will have to explain to me how having your country&#39;s flag without having your country is fascist or racist](http://9gag.com/gag/ayN0jOr)<!-- MEMES:END -->
 
 ---
 
