@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [&quot;Tap-to-earn&quot; games like Hamster Kombat, a mini-app with more than 31M followers on Telegram, could become the defining trend of the current crypto bull market &lpar;Muyao Shen/Bloomberg&rpar;](http://www.techmeme.com/240612/p2#a240612p2)
- - [New York Mobile ID launched: An app that can replace your physical ID](https://www.androidauthority.com/new-york-mobile-id-launch-3450869/)
- - [Sources: US-based AI startups Opus Clip and HeyGen, founded by China-born entrepreneurs, are scrambling to sever China ties by relocating China-based engineers &lpar;The Information&rpar;](http://www.techmeme.com/240612/p1#a240612p1)<!-- TECH:END -->
+ - [China&#39;s Ministry of Commerce issues a policy for expanding the nation&#39;s cross-border e-commerce industry and to promote the construction of offshore warehouses &lpar;Simon Sharwood/The Register&rpar;](http://www.techmeme.com/240612/p5#a240612p5)
+ - [The Fitbit web dashboard is going away: Here’s what you need to know](https://www.androidauthority.com/fitbit-web-dashboard-shutting-down-3450887/)
+ - [In an interview, OpenAI CTO Mira Murati responded to Elon Musk&#39;s denouncement of Apple&#39;s OpenAI deal, saying OpenAI cares deeply about user privacy and security &lpar;Verne Kopytoff/Fortune&rpar;](http://www.techmeme.com/240612/p4#a240612p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
