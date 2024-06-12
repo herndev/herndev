@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [IT\u2019S MONDAY!!](http://9gag.com/gag/amo0ZQo)
- - ⏩ [Qatar blatantly cheated to defeat India 2-1 in World Cup qualifiers.](http://9gag.com/gag/ae90L95)
- - 👉 [Didn&#39;t go as planned](http://9gag.com/gag/ajP042w)<!-- MEMES:END -->
+ - 💣 [Police aren\u2019t playing around anymore with Hamas supporters &lpar;SOUND ON&rpar;](http://9gag.com/gag/ayN0bjV)
+ - ⏩ [Tired of this shit.](http://9gag.com/gag/aAyrzLd)
+ - 👉 [Did you toe about Aragorn?](http://9gag.com/gag/a4PdDNd)<!-- MEMES:END -->
 
 ---
 
