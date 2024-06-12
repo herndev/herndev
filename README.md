@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This won&#39;t end well for Michael.](http://9gag.com/gag/a4PdXBy)
+ - 💣 [Don&#39;t let Spidey down. Hold nothing back.](http://9gag.com/gag/aAyrz5L)
  - ⏩ [She kiIIed a 3-year-old white chiId and is now laughing about it in court. She deserves the chair. Nothing less.](http://9gag.com/gag/ae908pj)
- - 👉 [When you ask if you can pay later...](http://9gag.com/gag/a2vYeEp)<!-- MEMES:END -->
+ - 👉 [Comedy is just timing](http://9gag.com/gag/aGyw4dX)<!-- MEMES:END -->
 
 ---
 
