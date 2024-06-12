@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Day 2 of vacation in Thailand](http://9gag.com/gag/aVvW678)
- - ⏩ [Girls after one sip of alcohol](http://9gag.com/gag/aYQW3LN)
- - 👉 [Shopping for a new desk](http://9gag.com/gag/a2vYeZd)<!-- MEMES:END -->
+ - 💣 [This won&#39;t end well for Michael.](http://9gag.com/gag/a4PdXBy)
+ - ⏩ [She kiIIed a 3-year-old white chiId and is now laughing about it in court. She deserves the chair. Nothing less.](http://9gag.com/gag/ae908pj)
+ - 👉 [When you ask if you can pay later...](http://9gag.com/gag/a2vYeEp)<!-- MEMES:END -->
 
 ---
 
