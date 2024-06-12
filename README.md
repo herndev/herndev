@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Fallout 76: Skyline Valley Available Now](https://fallout.bethesda.net/en/article/17bxARS1e9sp5UwZtKeDxc/fallout-76-skyline-valley-available-now#new_tab)
- - [Heart of the Machine is the most exciting thing happening in the 4X genre, and you can try it now](https://www.pcgamer.com/games/strategy/heart-of-the-machine-is-the-most-exciting-thing-happening-in-the-4x-genre-and-you-can-try-it-now)
- - [According to the game&#39;s director, the $500 League of Legends Ahri skin wasn&#39;t meant for the average fan, but instead &#39;players who are willing to spend $200 a month on their hobbies&#39;](https://www.pcgamer.com/games/moba/according-to-the-games-director-the-dollar500-league-of-legends-ahri-skin-wasnt-meant-for-the-average-fan-but-instead-players-who-are-willing-to-spend-dollar200-a-month-on-their-hobbies)<!-- GAME:END -->
+ - [Tell Me Why, the second queer-centric adventure from Dontnod, is free during Pride Month](https://www.polygon.com/deals/24176923/tell-me-why-dontnod-free-pride-month-deal-sale)
+ - [Elden Ring: What Level To Reach For Shadow Of The Erdtree &lpar;And How To Grind Fast&rpar;](https://kotaku.com/elden-ring-erdtree-what-level-before-starting-how-to-1851535830)
+ - [Hands-On With Horizon Lego Adventures: A Perfect Fit For Nintendo Switch](https://kotaku.com/horizon-lego-adventures-hands-on-ps5-nintendo-switch-1851535713)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
