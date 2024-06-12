@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Bad Prank](http://9gag.com/gag/aZZx613)
- - ⏩ [People in ground recording a Helicopter shooting to the ground](http://9gag.com/gag/ajP0wNx)
- - 👉 [College liberals in France are not coping well with their party&#39;s recent crushing election defeat](http://9gag.com/gag/an7KPNB)<!-- MEMES:END -->
+ - 💣 [IT\u2019S MONDAY!!](http://9gag.com/gag/amo0ZQo)
+ - ⏩ [Norwegian news was reporting on the success of far-right parties in Europe while the reason why was happening right behind him. These people have no respect.](http://9gag.com/gag/avygKrd)
+ - 👉 [Hiker saves a woman struggling on the edge of a trail](http://9gag.com/gag/a87YgPY)<!-- MEMES:END -->
 
 ---
 
