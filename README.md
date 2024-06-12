@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The battle for the heart of next-gen handheld gaming PCs: AMD&#39;s Strix Point versus Intel&#39;s Lunar Lake](https://www.pcgamer.com/hardware/processors/the-battle-for-the-heart-of-next-gen-handheld-gaming-pcs-amds-strix-point-versus-intels-lunar-lake)
- - [Destiny 2 Lost Signal god roll guide: Best perks, barrels, and magazines](https://www.pcgamer.com/games/fps/destiny-2-lost-signal-god-roll-guide-best-perks-barrels-and-magazines)
- - [Dragon Age: The Veilguard&#39;s gameplay reveal emphasises just how terminally out of touch EA and BioWare have become](https://www.pcgamer.com/games/rpg/dragon-age-the-veilguards-gameplay-reveal-emphasises-just-how-terminally-out-of-touch-ea-and-bioware-have-become)<!-- GAME:END -->
+ - [Unmatched: Slings and Arrows gives The Bard some bite — Hamlet and Titania, too](https://www.polygon.com/24176474/unmatched-slings-and-arrows-shakespeare-board-game-impressions)
+ - [How to unlock Khvostov in Destiny 2](https://www.pcgamer.com/games/fps/destiny-2-khvostov-exotic-legendary)
+ - [Your Switch just left Twitter too](https://www.polygon.com/24176795/nintendo-switch-twitter-x-integration-ends)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
