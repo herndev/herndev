@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [How to tell if there are alligators are in the water](http://9gag.com/gag/aO8bwZy)
- - ⏩ [Sigh.](http://9gag.com/gag/aBy3AV2)
- - 👉 [IT\u2019S MONDAY!!](http://9gag.com/gag/amo0ZQo)<!-- MEMES:END -->
+ - 💣 [Please follow through this time](http://9gag.com/gag/aqyNPKY)
+ - ⏩ [Bad Prank](http://9gag.com/gag/aZZx613)
+ - 👉 [One day, someone will have to explain to me how having your country&#39;s flag without having your country is fascist or racist](http://9gag.com/gag/ayN0jOr)<!-- MEMES:END -->
 
 ---
 
