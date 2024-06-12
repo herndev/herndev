@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Wallpaper Wednesday: More great phone wallpapers for all to share &lpar;June 12&rpar;](https://www.androidauthority.com/wallpaper-wednesday-jun-12-2024-3449823/)
- - [Google’s AI eats its own words, recommends adding glue to pizza again](https://www.androidauthority.com/google-ai-overview-glue-pizza-3451010/)
- - [A summary of the apps that Apple &quot;Sherlocked&quot; at WWDC 2024, like 1Password and LastPass, call recording and transcription apps, and the Newji custom emoji app &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/240612/p21#a240612p21)<!-- TECH:END -->
+ - [Google Gemini, explained](https://www.theverge.com/24176860/google-gemini-explained-ai-assistant)
+ - [A survey of 10,287 US adults on Facebook, Instagram, X, and TikTok: most see news content, but fewer say news is why they are on the platforms, except for X &lpar;Pew Research Center&rpar;](http://www.techmeme.com/240612/p24#a240612p24)
+ - [This macOS Sequoia wallpaper pays tribute to classic Macintosh icons](https://www.theverge.com/2024/6/12/24176917/macos-sequoia-wallpaper-classic-macintosh-icons-susan-kare)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
