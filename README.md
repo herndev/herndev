@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Unmatched: Slings and Arrows gives The Bard some bite — Hamlet and Titania, too](https://www.polygon.com/24176474/unmatched-slings-and-arrows-shakespeare-board-game-impressions)
- - [How to unlock Khvostov in Destiny 2](https://www.pcgamer.com/games/fps/destiny-2-khvostov-exotic-legendary)
- - [Your Switch just left Twitter too](https://www.polygon.com/24176795/nintendo-switch-twitter-x-integration-ends)<!-- GAME:END -->
+ - [The Xbox June Update Is Rolling Out with Updates to Consoles, Accessories, PC Gaming, and Cloud Gaming](https://news.xbox.com/en-us/2024/06/12/xbox-june-update/)
+ - [I played Citizen Sleeper 2: Starward Vector and talked to its creator about quests that &#39;don&#39;t give you the dragon money&#39;, Mass Effect 2 as an &#39;anti-reference&#39;, and making RPGs that aren&#39;t based on D&amp;D](https://www.pcgamer.com/games/rpg/i-played-citizen-sleeper-2-starward-vector-and-talked-to-its-creator-about-quests-that-don-t-give-you-the-dragon-money-mass-effect-2-as-an-anti-reference-and-making-rpgs-that-aren-t-based-on-d-d)
+ - [You Can Pet The Dog At Summer Game Fest](https://kotaku.com/you-can-pet-the-dog-at-summer-game-fest-1851535038)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
