@@ -33,8 +33,8 @@
 
 <!-- GAME:START -->
  - [Pre-orders now open for ATLUS’s next big title—Metaphor: ReFantazio, set to release on October 11, 2024!](https://blog.playstation.com/2024/06/11/20240612-metaphor/)
- - [&lpar;For Southeast Asia&rpar; SONIC X SHADOW GENERATIONS launches on October 25, 2024!](https://blog.playstation.com/2024/06/11/2024061-sonicxshadow/)
- - [Today&#39;s Wordle answer for Wednesday, June 12](https://www.pcgamer.com/games/puzzle/wordle-answer-today-june-12-2024)<!-- GAME:END -->
+ - [Pre-orders now open for ATLUS’s next big title—Metaphor: ReFantazio, set to release on October 11, 2024!](https://blog.playstation.com/2024/06/11/20240612-metaphor/)
+ - [&lpar;For Southeast Asia&rpar; SONIC X SHADOW GENERATIONS launches on October 25, 2024!](https://blog.playstation.com/2024/06/11/2024061-sonicxshadow/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
