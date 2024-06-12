@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Canary Technologies, which offers tools for hotel guest management, raised a $50M Series C led by Insight Partners, bringing its total raised to nearly $100M &lpar;Christine Hall/TechCrunch&rpar;](http://www.techmeme.com/240612/p28#a240612p28)
- - [Roku TV owners complain that motion smoothing is stuck ‘on’ after an update](https://www.theverge.com/2024/6/12/24177117/tcl-roku-tv-motion-smoothing-streaming)
- - [The Windows on Arm chip race heats up with a challenger to Qualcomm](https://www.theverge.com/2024/6/12/24177129/mediatek-arm-windows-chip-snapdragon-x-elite-competitor)<!-- TECH:END -->
+ - [OpenAI to use Oracle’s chips for more AI compute](https://www.theverge.com/2024/6/12/24177188/openai-oracle-ai-chips-microsoft)
+ - [Broadcom reports Q2 revenue up 43% YoY to $12.49B, vs. $12.01B est., raises FY 2024 revenue forecast, announces a 10:1 stock split; AVGO jumps 9%+ after hours &lpar;Arsheeya Bajwa/Reuters&rpar;](http://www.techmeme.com/240612/p29#a240612p29)
+ - [Here are some last-minute deals you can still grab in time for Father’s Day](https://www.theverge.com/24176803/fathers-day-last-minute-gifts-sales-headphones-smartwatches-tech-deals)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
