@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Light Phone III is a cool minimalist phone, but is it worth the wait and price?](https://www.androidauthority.com/the-light-phone-iii-3450908/)
- - [Four Indian retailer associations representing 90K grocery shops say monthly sales are dropping by 10% to 60% for some due to the rise of quick commerce apps &lpar;Reuters&rpar;](http://www.techmeme.com/240612/p8#a240612p8)
- - [How some people are using the term &quot;slop&quot; as a descriptor for low-grade AI material, after emerging in reaction to the release of AI art generators in 2022 &lpar;Benjamin Hoffman/New York Times&rpar;](http://www.techmeme.com/240612/p7#a240612p7)<!-- TECH:END -->
+ - [German startup Black Semiconductor raised &amp;euro;254M, comprising &amp;euro;229M in public grants and &amp;euro;26M in equity, to build chips using graphene for mass production in 2031 &lpar;Arno Schuetze/Bloomberg&rpar;](http://www.techmeme.com/240612/p13#a240612p13)
+ - [The Galaxy Buds 3, Buds 3 Pro clear another regulatory hurdle ahead of launch](https://www.androidauthority.com/galaxy-buds-3-bis-certification-3450923/)
+ - [SK Telecom says South Korean AI chip developers Rebellions and Sapeon Korea are pursuing a merger, in a bid to boost chip share in the next two to three years &lpar;Joyce Lee/Reuters&rpar;](http://www.techmeme.com/240612/p12#a240612p12)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
