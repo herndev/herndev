@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [New visionOS 2 updates are more significant than Apple initially implied](https://appleinsider.com/articles/24/06/12/new-visionos-2-updates-are-more-significant-than-apple-initially-implied?utm_medium=rss)
- - [In a strange twist, a real photo just won an AI photo contest](https://www.androidauthority.com/real-photo-wins-ai-contest-3451078/)
- - [Epic Games database leak hints at a trove of unannounced games](https://www.theverge.com/2024/6/12/24176964/epic-games-database-leak-unannounced-games)<!-- TECH:END -->
+ - [Samsung’s own app leaks major redesign of Galaxy Buds 3](https://www.androidauthority.com/galaxy-buds-3-leak-3451132/)
+ - [Tim Cook talks Apple Intelligence, OpenAI, and iconic Apple products with MKBHD](https://appleinsider.com/articles/24/06/12/tim-cook-talks-apple-intelligence-openai-and-iconic-apple-products-with-mkbhd?utm_medium=rss)
+ - [Xbox June update adds better backgrounds and saves more than one Wi-Fi network](https://www.theverge.com/2024/6/12/24177026/xbox-june-update-customize-homepage-game-art)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
