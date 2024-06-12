@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [This new affordable flagship doesn’t reuse an older flagship SoC](https://www.androidauthority.com/xiaomi-14-civi-3450875/)
  - [China&#39;s Ministry of Commerce issues a policy for expanding the nation&#39;s cross-border e-commerce industry and to promote the construction of offshore warehouses &lpar;Simon Sharwood/The Register&rpar;](http://www.techmeme.com/240612/p5#a240612p5)
- - [The Fitbit web dashboard is going away: Here’s what you need to know](https://www.androidauthority.com/fitbit-web-dashboard-shutting-down-3450887/)
- - [In an interview, OpenAI CTO Mira Murati responded to Elon Musk&#39;s denouncement of Apple&#39;s OpenAI deal, saying OpenAI cares deeply about user privacy and security &lpar;Verne Kopytoff/Fortune&rpar;](http://www.techmeme.com/240612/p4#a240612p4)<!-- TECH:END -->
+ - [The Fitbit web dashboard is going away: Here’s what you need to know](https://www.androidauthority.com/fitbit-web-dashboard-shutting-down-3450887/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
