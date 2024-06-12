@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Some people only want to watch the world burn](http://9gag.com/gag/ae90BpB)
- - ⏩ [You want `pizza`?](http://9gag.com/gag/amo0ZqX)
- - 👉 [American cheese doesn&#39;t split when melting](http://9gag.com/gag/azxE31p)<!-- MEMES:END -->
+ - 💣 [Bad Prank](http://9gag.com/gag/aZZx613)
+ - ⏩ [Didn&#39;t go as planned](http://9gag.com/gag/ajP042w)
+ - 👉 [When you ask if you can pay later...](http://9gag.com/gag/a2vYeEp)<!-- MEMES:END -->
 
 ---
 
