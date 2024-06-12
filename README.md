@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Be Honest](http://9gag.com/gag/amo04nX)
+ - 💣 [Don&#39;t let Spidey down. Hold nothing back.](http://9gag.com/gag/aAyrz5L)
  - ⏩ [She kiIIed a 3-year-old white chiId and is now laughing about it in court. She deserves the chair. Nothing less.](http://9gag.com/gag/ae908pj)
- - 👉 [Don&#39;t stop me now](http://9gag.com/gag/aD23eOO)<!-- MEMES:END -->
+ - 👉 [Comedy is just timing](http://9gag.com/gag/aGyw4dX)<!-- MEMES:END -->
 
 ---
 
