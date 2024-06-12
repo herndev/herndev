@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Tell Me Why, the second queer-centric adventure from Dontnod, is free during Pride Month](https://www.polygon.com/deals/24176923/tell-me-why-dontnod-free-pride-month-deal-sale)
- - [Elden Ring: What Level To Reach For Shadow Of The Erdtree &lpar;And How To Grind Fast&rpar;](https://kotaku.com/elden-ring-erdtree-what-level-before-starting-how-to-1851535830)
- - [Hands-On With Horizon Lego Adventures: A Perfect Fit For Nintendo Switch](https://kotaku.com/horizon-lego-adventures-hands-on-ps5-nintendo-switch-1851535713)<!-- GAME:END -->
+ - [With Shadow of the Erdtree, FromSoftware wanted to build a map &#39;that&#39;s not quite open field and not quite legacy dungeon,&#39; but instead &#39;blends the two together&#39;](https://www.pcgamer.com/games/rpg/with-shadow-of-the-erdtree-fromsoftware-wanted-to-build-a-map-thats-not-quite-open-field-and-not-quite-legacy-dungeon-but-instead-blends-the-two-together)
+ - [Let’s Skip The Dragon Age: The Veilguard Vs. Baldur’s Gate 3 Comparisons, Yeah?](https://kotaku.com/dragon-age-veilguard-baldurs-gate-3-comparison-better-1851535955)
+ - [Disney Lorcana’s new set includes Wreck-it Ralph and a ‘You’re Welcome’ action card](https://www.polygon.com/24177048/disney-lorcana-shimmering-skies-set-announcement)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
