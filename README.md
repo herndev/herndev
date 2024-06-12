@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [With Shadow of the Erdtree, FromSoftware wanted to build a map &#39;that&#39;s not quite open field and not quite legacy dungeon,&#39; but instead &#39;blends the two together&#39;](https://www.pcgamer.com/games/rpg/with-shadow-of-the-erdtree-fromsoftware-wanted-to-build-a-map-thats-not-quite-open-field-and-not-quite-legacy-dungeon-but-instead-blends-the-two-together)
- - [Let’s Skip The Dragon Age: The Veilguard Vs. Baldur’s Gate 3 Comparisons, Yeah?](https://kotaku.com/dragon-age-veilguard-baldurs-gate-3-comparison-better-1851535955)
- - [Disney Lorcana’s new set includes Wreck-it Ralph and a ‘You’re Welcome’ action card](https://www.polygon.com/24177048/disney-lorcana-shimmering-skies-set-announcement)<!-- GAME:END -->
+ - [How to get the Khvostov Exotic and all Lost Encryption locations in Destiny 2](https://www.polygon.com/destiny-2-guide-walkthrough/24172527/khvostov-how-to-get-exotic-legendary-lost-encryption-locations)
+ - [How to get Motes of Light in Destiny 2: The Final Shape](https://www.polygon.com/destiny-2-guide-walkthrough/24173623/motes-light-how-to-get)
+ - [Destiny 2: Salvation’s Edge raid walkthrough and quest steps](https://www.polygon.com/destiny-2-guide-walkthrough/24175263/salvations-edge-raid-steps-encounters-witness-boss-fight-how-to-beat)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
