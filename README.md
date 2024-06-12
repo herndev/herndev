@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Samsung is combining its AI-focused research centers in Toronto and Mountain View to improve operations; ex-Apple exec Murat Akbacak will run the group &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/240611/p35#a240611p35)
- - [End of an era: Jabra is discontinuing its Elite line of earbuds](https://www.androidauthority.com/jabra-elite-discontinued-3450815/)
- - [Best OnePlus Open Deals: Save $300 or More on This Sleek Foldable     - CNET](https://www.cnet.com/deals/best-oneplus-open-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Raleigh, NC-based Relay, which makes walkie-talkies that can provide real-time location data, do live translation, and more, raised a $35M Series B led by G2 &lpar;Zachery Eanes/Axios&rpar;](http://www.techmeme.com/240611/p36#a240611p36)
+ - [Don&#39;t Expect Interest Rate Cuts Tomorrow. But What About July?     - CNET](https://www.cnet.com/personal-finance/could-the-fed-cut-interest-rates-in-july-yes-say-these-experts/#ftag=CAD590a51e)
+ - [Savings and CD Rates Are as High as They&#39;ll Get in 2024, Experts Say     - CNET](https://www.cnet.com/personal-finance/banking/savings-and-cd-rates-are-as-high-as-theyll-get-in-2024-experts-say/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
