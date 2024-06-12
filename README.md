@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [No title needed](http://9gag.com/gag/awyKw94)
- - ⏩ [Happy pride](http://9gag.com/gag/aNDZE4K)
- - 👉 [`I need your clothes, your boots, and your insurance information. I&#39;ll be back`.](http://9gag.com/gag/aAyroMd)<!-- MEMES:END -->
+ - 💣 [Happy pride](http://9gag.com/gag/aNDZE4K)
+ - ⏩ [`I need your clothes, your boots, and your insurance information. I&#39;ll be back`.](http://9gag.com/gag/aAyroMd)
+ - 👉 [Faster, harder...](http://9gag.com/gag/aMVr3gV)<!-- MEMES:END -->
 
 ---
 
