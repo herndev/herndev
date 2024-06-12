@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Elon Musk has unusual relationships with women at SpaceX, WSJ reports](https://www.theverge.com/2024/6/12/24176705/spacex-elon-musk-gwynne-shotwell-sexual-relationships)
- - [T-Mobile has removed the safest way to secure your account](https://www.androidauthority.com/t-mobile-removes-google-authenticator-2fa-3450864/)
- - [Sources and documents detail how Elon Musk blurred boundaries with female employees at SpaceX, including having sex with an employee and a former intern &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240611/p37#a240611p37)<!-- TECH:END -->
+ - [&quot;Tap-to-earn&quot; games like Hamster Kombat, a mini-app with more than 31M followers on Telegram, could become the defining trend of the current crypto bull market &lpar;Muyao Shen/Bloomberg&rpar;](http://www.techmeme.com/240612/p2#a240612p2)
+ - [New York Mobile ID launched: An app that can replace your physical ID](https://www.androidauthority.com/new-york-mobile-id-launch-3450869/)
+ - [Sources: US-based AI startups Opus Clip and HeyGen, founded by China-born entrepreneurs, are scrambling to sever China ties by relocating China-based engineers &lpar;The Information&rpar;](http://www.techmeme.com/240612/p1#a240612p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
