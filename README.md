@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [IT\u2019S MONDAY!!](http://9gag.com/gag/amo0ZQo)
- - ⏩ [Bad Prank](http://9gag.com/gag/aZZx613)
- - 👉 [Woman who randomly stabbed 3yo white boy smirked and mocked the victim&#39;s family in court](http://9gag.com/gag/aMVrMGP)<!-- MEMES:END -->
+ - 💣 [Some people only want to watch the world burn](http://9gag.com/gag/ae90BpB)
+ - ⏩ [You want `pizza`?](http://9gag.com/gag/amo0ZqX)
+ - 👉 [American cheese doesn&#39;t split when melting](http://9gag.com/gag/azxE31p)<!-- MEMES:END -->
 
 ---
 
