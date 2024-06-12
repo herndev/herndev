@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Beautiful](http://9gag.com/gag/ae90vzW)
- - ⏩ [Bad Prank](http://9gag.com/gag/aZZx613)
- - 👉 [She kiIIed a 3-year-old white chiId and is now laughing about it in court. She deserves the chair. Nothing less.](http://9gag.com/gag/ae908pj)<!-- MEMES:END -->
+ - 💣 [How to tell if there are alligators are in the water](http://9gag.com/gag/aO8bwZy)
+ - ⏩ [Woman who randomly stabbed 3yo white boy smirked and mocked the victim&#39;s family in court](http://9gag.com/gag/aMVrMGP)
+ - 👉 [A stiff upper lip](http://9gag.com/gag/aQz4wy8)<!-- MEMES:END -->
 
 ---
 
