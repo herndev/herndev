@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How to get the Khvostov Exotic and all Lost Encryption locations in Destiny 2](https://www.polygon.com/destiny-2-guide-walkthrough/24172527/khvostov-how-to-get-exotic-legendary-lost-encryption-locations)
- - [How to get Motes of Light in Destiny 2: The Final Shape](https://www.polygon.com/destiny-2-guide-walkthrough/24173623/motes-light-how-to-get)
- - [Destiny 2: Salvation’s Edge raid walkthrough and quest steps](https://www.polygon.com/destiny-2-guide-walkthrough/24175263/salvations-edge-raid-steps-encounters-witness-boss-fight-how-to-beat)<!-- GAME:END -->
+ - [Microsoft backs up Geoff Keighley after he ignited console warrior outrage over the Gears of War: E-day trailer](https://www.pcgamer.com/gaming-industry/microsoft-backs-up-geoff-keighley-after-he-ignited-console-warrior-outrage-over-the-gears-of-war-e-day-trailer)
+ - [Epic Games Store leak points to upcoming releases of Final Fantasy 9 remake, The Last of Us Part 2, and more](https://www.pcgamer.com/games/epic-games-store-leak-points-to-upcoming-releases-of-final-fantasy-9-remake-the-last-of-us-part-2-and-more)
+ - [Helldivers 2 poses the ultimate moral quandary in its new Major Order](https://www.polygon.com/24177223/helldivers-2-trolley-problem-major-order-sick-kids-tank-mines)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
