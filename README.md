@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [German startup Black Semiconductor raised &amp;euro;254M, comprising &amp;euro;229M in public grants and &amp;euro;26M in equity, to build chips using graphene for mass production in 2031 &lpar;Arno Schuetze/Bloomberg&rpar;](http://www.techmeme.com/240612/p13#a240612p13)
- - [The Galaxy Buds 3, Buds 3 Pro clear another regulatory hurdle ahead of launch](https://www.androidauthority.com/galaxy-buds-3-bis-certification-3450923/)
- - [SK Telecom says South Korean AI chip developers Rebellions and Sapeon Korea are pursuing a merger, in a bid to boost chip share in the next two to three years &lpar;Joyce Lee/Reuters&rpar;](http://www.techmeme.com/240612/p12#a240612p12)<!-- TECH:END -->
+ - [US pricing for the Galaxy Z Fold 6 leaks, and it’s not great news](https://www.androidauthority.com/galaxy-z-fold-6-price-3450950/)
+ - [A January 6 Rioter Is Leading an Armed National Militia From Prison](https://www.wired.com/story/january-6-rioter-leading-armed-national-militia-from-prison/)
+ - [Apple honors original icon designer Susan Kare in macOS Sequoia wallpaper](https://appleinsider.com/articles/24/06/12/apple-honors-original-icon-designer-susan-kare-in-macos-sequoia-wallpaper?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
