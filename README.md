@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Xbox June Update Is Rolling Out with Updates to Consoles, Accessories, PC Gaming, and Cloud Gaming](https://news.xbox.com/en-us/2024/06/12/xbox-june-update/)
- - [I played Citizen Sleeper 2: Starward Vector and talked to its creator about quests that &#39;don&#39;t give you the dragon money&#39;, Mass Effect 2 as an &#39;anti-reference&#39;, and making RPGs that aren&#39;t based on D&amp;D](https://www.pcgamer.com/games/rpg/i-played-citizen-sleeper-2-starward-vector-and-talked-to-its-creator-about-quests-that-don-t-give-you-the-dragon-money-mass-effect-2-as-an-anti-reference-and-making-rpgs-that-aren-t-based-on-d-d)
- - [You Can Pet The Dog At Summer Game Fest](https://kotaku.com/you-can-pet-the-dog-at-summer-game-fest-1851535038)<!-- GAME:END -->
+ - [Defending Kunitsu-Gami: Path of the Goddess’ Mysterious Mountain](https://news.xbox.com/en-us/2024/06/12/kunitsu-gami-path-of-the-goddess-preview/)
+ - [AMD&#39;s greatest gaming CPU won&#39;t be beaten by AMD&#39;s latest gaming CPU, and that&#39;s according to AMD](https://www.pcgamer.com/hardware/processors/amds-greatest-gaming-cpu-wont-be-beaten-by-amds-latest-gaming-cpu-and-thats-according-to-amd)
+ - [Dorfromantik team’s Star Birds splices Mario Galaxy with science YouTube](https://www.polygon.com/24176851/star-birds-dorfromantik-kurzgesagt-announce-trailer)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
