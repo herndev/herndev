@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Qatar blatantly cheated to defeat India 2-1 in World Cup qualifiers.](http://9gag.com/gag/ae90L95)
- - ⏩ [Please follow through this time](http://9gag.com/gag/aqyNPKY)
- - 👉 [One day, someone will have to explain to me how having your country&#39;s flag without having your country is fascist or racist](http://9gag.com/gag/ayN0jOr)<!-- MEMES:END -->
+ - 💣 [Faster, harder...](http://9gag.com/gag/aMVr3gV)
+ - ⏩ [Beautiful](http://9gag.com/gag/ae90vzW)
+ - 👉 [Jerry had zero fu*cks left to give.](http://9gag.com/gag/aO8bXwN)<!-- MEMES:END -->
 
 ---
 
