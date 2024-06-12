@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Happy pride](http://9gag.com/gag/aNDZE4K)
- - ⏩ [`I need your clothes, your boots, and your insurance information. I&#39;ll be back`.](http://9gag.com/gag/aAyroMd)
- - 👉 [Faster, harder...](http://9gag.com/gag/aMVr3gV)<!-- MEMES:END -->
+ - 💣 [Beautiful](http://9gag.com/gag/ae90vzW)
+ - ⏩ [Bad Prank](http://9gag.com/gag/aZZx613)
+ - 👉 [She kiIIed a 3-year-old white chiId and is now laughing about it in court. She deserves the chair. Nothing less.](http://9gag.com/gag/ae908pj)<!-- MEMES:END -->
 
 ---
 
