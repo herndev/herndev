@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Gemini, explained](https://www.theverge.com/24176860/google-gemini-explained-ai-assistant)
- - [A survey of 10,287 US adults on Facebook, Instagram, X, and TikTok: most see news content, but fewer say news is why they are on the platforms, except for X &lpar;Pew Research Center&rpar;](http://www.techmeme.com/240612/p24#a240612p24)
- - [This macOS Sequoia wallpaper pays tribute to classic Macintosh icons](https://www.theverge.com/2024/6/12/24176917/macos-sequoia-wallpaper-classic-macintosh-icons-susan-kare)<!-- TECH:END -->
+ - [Warner Bros. is beefing up its animation slate with even more Adventure Time](https://www.theverge.com/2024/6/12/24176988/cartoon-network-studios-adventure-time-movie-fosters-funtime)
+ - [Hallelujah, this is the Google Pixel Watch 3 XL](https://www.androidauthority.com/pixel-watch-3-leaked-variant-3451048/)
+ - [Stability AI releases Stable Diffusion 3 Medium, intended to be a smaller yet capable model on consumer GPUs, with 2B parameters, compared to SD3 Large&#39;s 8B &lpar;Sean Michael Kerner/VentureBeat&rpar;](http://www.techmeme.com/240612/p25#a240612p25)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
