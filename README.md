@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Police aren\u2019t playing around anymore with Hamas supporters &lpar;SOUND ON&rpar;](http://9gag.com/gag/ayN0bjV)
- - ⏩ [Tired of this shit.](http://9gag.com/gag/aAyrzLd)
- - 👉 [Did you toe about Aragorn?](http://9gag.com/gag/a4PdDNd)<!-- MEMES:END -->
+ - 💣 [She kiIIed a 3-year-old white chiId and is now laughing about it in court. She deserves the chair. Nothing less.](http://9gag.com/gag/ae908pj)
+ - ⏩ [Does fentanyl give you superpowers now?](http://9gag.com/gag/a4PdOqy)
+ - 👉 [Sigh.](http://9gag.com/gag/aBy3AV2)<!-- MEMES:END -->
 
 ---
 
