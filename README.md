@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Microsoft backs up Geoff Keighley after he ignited console warrior outrage over the Gears of War: E-day trailer](https://www.pcgamer.com/gaming-industry/microsoft-backs-up-geoff-keighley-after-he-ignited-console-warrior-outrage-over-the-gears-of-war-e-day-trailer)
- - [Epic Games Store leak points to upcoming releases of Final Fantasy 9 remake, The Last of Us Part 2, and more](https://www.pcgamer.com/games/epic-games-store-leak-points-to-upcoming-releases-of-final-fantasy-9-remake-the-last-of-us-part-2-and-more)
- - [Helldivers 2 poses the ultimate moral quandary in its new Major Order](https://www.polygon.com/24177223/helldivers-2-trolley-problem-major-order-sick-kids-tank-mines)<!-- GAME:END -->
+ - [Armello studio League of Geeks is &#39;going into hibernation for the foreseeable future&#39; and may not be back](https://www.pcgamer.com/gaming-industry/armello-studio-league-of-geeks-is-going-into-hibernation-for-the-foreseeable-future-and-may-not-be-back)
+ - [Starfield: 6 Free Mods For A More Immersive Experience](https://kotaku.com/starfield-creations-mods-best-immersive-1851536437)
+ - [Diablo Immortal Inspired Blizzard To Add A New Kind Of Class To Diablo 4](https://kotaku.com/diablo-4-immortal-new-class-spiritborn-expansion-hatred-1851536395)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
