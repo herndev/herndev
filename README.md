@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [OpenAI to use Oracle’s chips for more AI compute](https://www.theverge.com/2024/6/12/24177188/openai-oracle-ai-chips-microsoft)
- - [Broadcom reports Q2 revenue up 43% YoY to $12.49B, vs. $12.01B est., raises FY 2024 revenue forecast, announces a 10:1 stock split; AVGO jumps 9%+ after hours &lpar;Arsheeya Bajwa/Reuters&rpar;](http://www.techmeme.com/240612/p29#a240612p29)
- - [Here are some last-minute deals you can still grab in time for Father’s Day](https://www.theverge.com/24176803/fathers-day-last-minute-gifts-sales-headphones-smartwatches-tech-deals)<!-- TECH:END -->
+ - [Netflix will settle 15 years of Chestnut vs. Kobayashi with a live hot dog-eating contest](https://www.theverge.com/2024/6/12/24177277/netflix-chestnut-kobayashi-unfinished-beef-hot-dogs)
+ - [Amazon Fire Smart TV 55&quot;     - CNET](https://www.cnet.com/tech/home-entertainment/amazon-fire-tv2-55-dpnl/#ftag=CAD590a51e)
+ - [AI search engine Perplexity says it was working on revenue-sharing deals with publishers when Forbes criticized it for misusing content from Forbes and others &lpar;Reed Albergotti/Semafor&rpar;](http://www.techmeme.com/240612/p31#a240612p31)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
