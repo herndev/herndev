@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tesla’s $50 billion question comes down to the wire](https://www.theverge.com/2024/6/12/24177128/tesla-elon-musk-pay-package-shareholder-vote)
- - [Terraform Labs and co-founder Do Kwon agree to pay $4.47B to resolve a US SEC lawsuit, after a jury in April found them liable for fraud following a civil trial &lpar;Bloomberg&rpar;](http://www.techmeme.com/240612/p27#a240612p27)
- - [Fired SpaceX workers sue Elon Musk for sexual harassment and retaliation](https://www.theverge.com/2024/6/12/24177095/spacex-elon-musk-sexual-harassment-lawsuit)<!-- TECH:END -->
+ - [Canary Technologies, which offers tools for hotel guest management, raised a $50M Series C led by Insight Partners, bringing its total raised to nearly $100M &lpar;Christine Hall/TechCrunch&rpar;](http://www.techmeme.com/240612/p28#a240612p28)
+ - [Roku TV owners complain that motion smoothing is stuck ‘on’ after an update](https://www.theverge.com/2024/6/12/24177117/tcl-roku-tv-motion-smoothing-streaming)
+ - [The Windows on Arm chip race heats up with a challenger to Qualcomm](https://www.theverge.com/2024/6/12/24177129/mediatek-arm-windows-chip-snapdragon-x-elite-competitor)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
