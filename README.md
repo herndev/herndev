@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Don&#39;t let Spidey down. Hold nothing back.](http://9gag.com/gag/aAyrz5L)
- - ⏩ [She kiIIed a 3-year-old white chiId and is now laughing about it in court. She deserves the chair. Nothing less.](http://9gag.com/gag/ae908pj)
- - 👉 [Comedy is just timing](http://9gag.com/gag/aGyw4dX)<!-- MEMES:END -->
+ - 💣 [Worker saves kitten from trash cutting machine](http://9gag.com/gag/ae908QW)
+ - ⏩ [Tired of this shit.](http://9gag.com/gag/aAyrzLd)
+ - 👉 [American cheese doesn&#39;t split when melting](http://9gag.com/gag/azxE31p)<!-- MEMES:END -->
 
 ---
 
