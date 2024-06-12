@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung’s own app leaks major redesign of Galaxy Buds 3](https://www.androidauthority.com/galaxy-buds-3-leak-3451132/)
- - [Tim Cook talks Apple Intelligence, OpenAI, and iconic Apple products with MKBHD](https://appleinsider.com/articles/24/06/12/tim-cook-talks-apple-intelligence-openai-and-iconic-apple-products-with-mkbhd?utm_medium=rss)
- - [Xbox June update adds better backgrounds and saves more than one Wi-Fi network](https://www.theverge.com/2024/6/12/24177026/xbox-june-update-customize-homepage-game-art)<!-- TECH:END -->
+ - [Tesla’s $50 billion question comes down to the wire](https://www.theverge.com/2024/6/12/24177128/tesla-elon-musk-pay-package-shareholder-vote)
+ - [Terraform Labs and co-founder Do Kwon agree to pay $4.47B to resolve a US SEC lawsuit, after a jury in April found them liable for fraud following a civil trial &lpar;Bloomberg&rpar;](http://www.techmeme.com/240612/p27#a240612p27)
+ - [Fired SpaceX workers sue Elon Musk for sexual harassment and retaliation](https://www.theverge.com/2024/6/12/24177095/spacex-elon-musk-sexual-harassment-lawsuit)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
