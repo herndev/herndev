@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Meanwhile, Germany after the elections...](http://9gag.com/gag/azxEWmK)
- - ⏩ [Bad Prank](http://9gag.com/gag/aZZx613)
- - 👉 [Sigh.](http://9gag.com/gag/aBy3AV2)<!-- MEMES:END -->
+ - 💣 [How to tell if there are alligators are in the water](http://9gag.com/gag/aO8bwZy)
+ - ⏩ [Sigh.](http://9gag.com/gag/aBy3AV2)
+ - 👉 [IT\u2019S MONDAY!!](http://9gag.com/gag/amo0ZQo)<!-- MEMES:END -->
 
 ---
 
