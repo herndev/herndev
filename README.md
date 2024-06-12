@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [This new affordable flagship doesn’t reuse an older flagship SoC](https://www.androidauthority.com/xiaomi-14-civi-3450875/)
- - [China&#39;s Ministry of Commerce issues a policy for expanding the nation&#39;s cross-border e-commerce industry and to promote the construction of offshore warehouses &lpar;Simon Sharwood/The Register&rpar;](http://www.techmeme.com/240612/p5#a240612p5)
- - [The Fitbit web dashboard is going away: Here’s what you need to know](https://www.androidauthority.com/fitbit-web-dashboard-shutting-down-3450887/)<!-- TECH:END -->
+ - [The Light Phone III is a cool minimalist phone, but is it worth the wait and price?](https://www.androidauthority.com/the-light-phone-iii-3450908/)
+ - [Four Indian retailer associations representing 90K grocery shops say monthly sales are dropping by 10% to 60% for some due to the rise of quick commerce apps &lpar;Reuters&rpar;](http://www.techmeme.com/240612/p8#a240612p8)
+ - [How some people are using the term &quot;slop&quot; as a descriptor for low-grade AI material, after emerging in reaction to the release of AI art generators in 2022 &lpar;Benjamin Hoffman/New York Times&rpar;](http://www.techmeme.com/240612/p7#a240612p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
