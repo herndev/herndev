@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [MediaTek is aiming to do a Qualcomm and make Arm chips for Copilot+ PCs, targeting a 2025 release](https://www.pcgamer.com/hardware/processors/mediatek-is-aiming-to-do-a-qualcomm-and-make-arm-chips-for-copilot-pcs-targeting-a-2025-release)
  - [Pre-orders now open for ATLUS’s next big title—Metaphor: ReFantazio, set to release on October 11, 2024!](https://blog.playstation.com/2024/06/11/20240612-metaphor/)
- - [Pre-orders now open for ATLUS’s next big title—Metaphor: ReFantazio, set to release on October 11, 2024!](https://blog.playstation.com/2024/06/11/20240612-metaphor/)
- - [&lpar;For Southeast Asia&rpar; SONIC X SHADOW GENERATIONS launches on October 25, 2024!](https://blog.playstation.com/2024/06/11/2024061-sonicxshadow/)<!-- GAME:END -->
+ - [Pre-orders now open for ATLUS’s next big title—Metaphor: ReFantazio, set to release on October 11, 2024!](https://blog.playstation.com/2024/06/11/20240612-metaphor/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
