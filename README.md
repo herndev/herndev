@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Metaphor: ReFantazio feels like a fantasy Persona where no one was allowed to say no to the art team](https://www.pcgamer.com/games/rpg/metaphor-refantazio-feels-like-a-fantasy-persona-where-no-one-was-allowed-to-say-no-to-the-art-team)
  - [One day after trumpeting its big Summer Game Fest reveals, Sumo Group is laying off 15% of its workers and closing Timbre Games](https://www.pcgamer.com/gaming-industry/one-day-after-trumpeting-its-big-summer-game-fest-reveals-sumo-group-is-laying-off-15-of-its-workers-and-closing-timbre-games)
- - [The Big Nintendo Direct Everyone&#39;s Waiting For Is Probably Next Week](https://kotaku.com/nintendo-direct-switch-2-june-2024-metroid-prime-4-1851533753)
- - [Nimbly dodging confirmation of a rumored Xbox handheld, Phil Spencer says he&#39;s excited about &#39;the work that the team is doing around different form factors&#39;](https://www.pcgamer.com/gaming-industry/nimbly-dodging-confirmation-of-a-rumored-xbox-handheld-phil-spencer-says-hes-excited-about-the-work-that-the-team-is-doing-around-different-form-factors)<!-- GAME:END -->
+ - [The Big Nintendo Direct Everyone&#39;s Waiting For Is Probably Next Week](https://kotaku.com/nintendo-direct-switch-2-june-2024-metroid-prime-4-1851533753)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
