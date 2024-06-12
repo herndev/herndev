@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Please follow through this time](http://9gag.com/gag/aqyNPKY)
+ - 💣 [IT\u2019S MONDAY!!](http://9gag.com/gag/amo0ZQo)
  - ⏩ [Bad Prank](http://9gag.com/gag/aZZx613)
- - 👉 [One day, someone will have to explain to me how having your country&#39;s flag without having your country is fascist or racist](http://9gag.com/gag/ayN0jOr)<!-- MEMES:END -->
+ - 👉 [Woman who randomly stabbed 3yo white boy smirked and mocked the victim&#39;s family in court](http://9gag.com/gag/aMVrMGP)<!-- MEMES:END -->
 
 ---
 
