@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [iOS 18 hands-on impressions: Apple is Android-ifying the iPhone experience](https://www.androidauthority.com/ios-18-hands-on-3450497/)
- - [The surprisingly not so doomed effort to force US drivers to stop speeding](https://www.theverge.com/2024/6/12/24176403/intelligent-speed-assistance-iihs-safety-limiters-governor)
- - [Samsung Galaxy Z Fold 6 rumors: Everything we know and what we want to see](https://www.androidauthority.com/samsung-galaxy-z-fold-6-3385438/)<!-- TECH:END -->
+ - [Wallpaper Wednesday: More great phone wallpapers for all to share &lpar;June 12&rpar;](https://www.androidauthority.com/wallpaper-wednesday-jun-12-2024-3449823/)
+ - [Google’s AI eats its own words, recommends adding glue to pizza again](https://www.androidauthority.com/google-ai-overview-glue-pizza-3451010/)
+ - [A summary of the apps that Apple &quot;Sherlocked&quot; at WWDC 2024, like 1Password and LastPass, call recording and transcription apps, and the Newji custom emoji app &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/240612/p21#a240612p21)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
