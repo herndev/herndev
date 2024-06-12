@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Bad Prank](http://9gag.com/gag/aZZx613)
- - ⏩ [NSFW Fresh be like](http://9gag.com/gag/a4PdvpZ)
- - 👉 [IT\u2019S MONDAY!!](http://9gag.com/gag/amo0ZQo)<!-- MEMES:END -->
+ - 💣 [No title needed](http://9gag.com/gag/awyKw94)
+ - ⏩ [Happy pride](http://9gag.com/gag/aNDZE4K)
+ - 👉 [`I need your clothes, your boots, and your insurance information. I&#39;ll be back`.](http://9gag.com/gag/aAyroMd)<!-- MEMES:END -->
 
 ---
 
