@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources and documents detail how Elon Musk blurred boundaries with female employees at SpaceX, including having sex with an employee and a former intern &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240611/p37#a240611p37)
- - [PNY Elite-X Type-C Drive review: Small size, huge convenience](https://appleinsider.com/articles/24/06/12/pny-elite-x-type-c-drive-review-small-size-huge-convenience?utm_medium=rss)
- - [The Light Phone 3 Wants To Be Your Digital Detox Companion     - CNET](https://www.cnet.com/tech/mobile/the-light-phone-3-wants-to-be-your-digital-detox-companion/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Elon Musk has unusual relationships with women at SpaceX, WSJ reports](https://www.theverge.com/2024/6/12/24176705/spacex-elon-musk-gwynne-shotwell-sexual-relationships)
+ - [T-Mobile has removed the safest way to secure your account](https://www.androidauthority.com/t-mobile-removes-google-authenticator-2fa-3450864/)
+ - [Sources and documents detail how Elon Musk blurred boundaries with female employees at SpaceX, including having sex with an employee and a former intern &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240611/p37#a240611p37)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
