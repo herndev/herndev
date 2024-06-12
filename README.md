@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Samsung is combining its AI-focused research centers in Toronto and Mountain View to improve operations; ex-Apple exec Murat Akbacak will run the group &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/240611/p35#a240611p35)
  - [End of an era: Jabra is discontinuing its Elite line of earbuds](https://www.androidauthority.com/jabra-elite-discontinued-3450815/)
- - [The Verge’s 2024 Father’s Day gift guide](https://www.theverge.com/24153276/best-fathers-day-gift-ideas-2024-dad-tech-gadgets)
- - [Google still recommends glue for your pizza](https://www.theverge.com/2024/6/11/24176490/mm-delicious-glue)<!-- TECH:END -->
+ - [Best OnePlus Open Deals: Save $300 or More on This Sleek Foldable     - CNET](https://www.cnet.com/deals/best-oneplus-open-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
