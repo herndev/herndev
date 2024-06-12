@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Warner Bros. is beefing up its animation slate with even more Adventure Time](https://www.theverge.com/2024/6/12/24176988/cartoon-network-studios-adventure-time-movie-fosters-funtime)
- - [Hallelujah, this is the Google Pixel Watch 3 XL](https://www.androidauthority.com/pixel-watch-3-leaked-variant-3451048/)
- - [Stability AI releases Stable Diffusion 3 Medium, intended to be a smaller yet capable model on consumer GPUs, with 2B parameters, compared to SD3 Large&#39;s 8B &lpar;Sean Michael Kerner/VentureBeat&rpar;](http://www.techmeme.com/240612/p25#a240612p25)<!-- TECH:END -->
+ - [New visionOS 2 updates are more significant than Apple initially implied](https://appleinsider.com/articles/24/06/12/new-visionos-2-updates-are-more-significant-than-apple-initially-implied?utm_medium=rss)
+ - [In a strange twist, a real photo just won an AI photo contest](https://www.androidauthority.com/real-photo-wins-ai-contest-3451078/)
+ - [Epic Games database leak hints at a trove of unannounced games](https://www.theverge.com/2024/6/12/24176964/epic-games-database-leak-unannounced-games)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
