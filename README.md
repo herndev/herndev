@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Defending Kunitsu-Gami: Path of the Goddess’ Mysterious Mountain](https://news.xbox.com/en-us/2024/06/12/kunitsu-gami-path-of-the-goddess-preview/)
- - [AMD&#39;s greatest gaming CPU won&#39;t be beaten by AMD&#39;s latest gaming CPU, and that&#39;s according to AMD](https://www.pcgamer.com/hardware/processors/amds-greatest-gaming-cpu-wont-be-beaten-by-amds-latest-gaming-cpu-and-thats-according-to-amd)
- - [Dorfromantik team’s Star Birds splices Mario Galaxy with science YouTube](https://www.polygon.com/24176851/star-birds-dorfromantik-kurzgesagt-announce-trailer)<!-- GAME:END -->
+ - [Fallout 76: Skyline Valley Available Now](https://fallout.bethesda.net/en/article/17bxARS1e9sp5UwZtKeDxc/fallout-76-skyline-valley-available-now#new_tab)
+ - [Heart of the Machine is the most exciting thing happening in the 4X genre, and you can try it now](https://www.pcgamer.com/games/strategy/heart-of-the-machine-is-the-most-exciting-thing-happening-in-the-4x-genre-and-you-can-try-it-now)
+ - [According to the game&#39;s director, the $500 League of Legends Ahri skin wasn&#39;t meant for the average fan, but instead &#39;players who are willing to spend $200 a month on their hobbies&#39;](https://www.pcgamer.com/games/moba/according-to-the-games-director-the-dollar500-league-of-legends-ahri-skin-wasnt-meant-for-the-average-fan-but-instead-players-who-are-willing-to-spend-dollar200-a-month-on-their-hobbies)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
