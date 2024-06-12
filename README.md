@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Worker saves kitten from trash cutting machine](http://9gag.com/gag/ae908QW)
- - ⏩ [Tired of this shit.](http://9gag.com/gag/aAyrzLd)
- - 👉 [American cheese doesn&#39;t split when melting](http://9gag.com/gag/azxE31p)<!-- MEMES:END -->
+ - 💣 [Day 2 of vacation in Thailand](http://9gag.com/gag/aVvW678)
+ - ⏩ [Girls after one sip of alcohol](http://9gag.com/gag/aYQW3LN)
+ - 👉 [Shopping for a new desk](http://9gag.com/gag/a2vYeZd)<!-- MEMES:END -->
 
 ---
 
