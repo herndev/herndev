@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [US pricing for the Galaxy Z Fold 6 leaks, and it’s not great news](https://www.androidauthority.com/galaxy-z-fold-6-price-3450950/)
- - [A January 6 Rioter Is Leading an Armed National Militia From Prison](https://www.wired.com/story/january-6-rioter-leading-armed-national-militia-from-prison/)
- - [Apple honors original icon designer Susan Kare in macOS Sequoia wallpaper](https://appleinsider.com/articles/24/06/12/apple-honors-original-icon-designer-susan-kare-in-macos-sequoia-wallpaper?utm_medium=rss)<!-- TECH:END -->
+ - [Waymo issues a software update to its 672 vehicles after one collided with a telephone pole in Phoenix on May 21, marking Waymo&#39;s second recall ever &lpar;Andrew J. Hawkins/The Verge&rpar;](http://www.techmeme.com/240612/p20#a240612p20)
+ - [MediaTek chips for Windows on Arm are coming as Qualcomm exclusivity nears end](https://www.androidauthority.com/mediatek-chips-windows-arm-2025-3450978/)
+ - [IBM and Xerox PARC engineer Lynn Conway, who helped shape the way chips are designed and undertook a gender transition in 1968, died last weekend at age 86 &lpar;Ina Fried/Axios&rpar;](http://www.techmeme.com/240612/p19#a240612p19)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
