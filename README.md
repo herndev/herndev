@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Bad Prank](http://9gag.com/gag/aZZx613)
- - ⏩ [Didn&#39;t go as planned](http://9gag.com/gag/ajP042w)
- - 👉 [When you ask if you can pay later...](http://9gag.com/gag/a2vYeEp)<!-- MEMES:END -->
+ - 💣 [IT\u2019S MONDAY!!](http://9gag.com/gag/amo0ZQo)
+ - ⏩ [Qatar blatantly cheated to defeat India 2-1 in World Cup qualifiers.](http://9gag.com/gag/ae90L95)
+ - 👉 [Didn&#39;t go as planned](http://9gag.com/gag/ajP042w)<!-- MEMES:END -->
 
 ---
 
