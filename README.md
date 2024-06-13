@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Based AF. Wilders says exactly what needs to be said.](http://9gag.com/gag/a9yL99W)
- - ⏩ [The original one died in fresh for ... indian issues. So, here it is again, but now formally correct, more readable and without fake names and personal stories.](http://9gag.com/gag/a4PdvKZ)
- - 👉 [Qatar blatantly cheated to defeat India 2-1 in World Cup qualifiers.](http://9gag.com/gag/ae90L95)<!-- MEMES:END -->
+ - 💣 [Please arrive at airport terminal on time and be accountable for your own actions](http://9gag.com/gag/aYQWzAv)
+ - ⏩ [Such kindest in the reply! \u201cSo close!\u201d](http://9gag.com/gag/aQz4wXK)
+ - 👉 [Post your wallpapers here, not a screenshot of your wallpaper.](http://9gag.com/gag/aYQWzNO)<!-- MEMES:END -->
 
 ---
 
