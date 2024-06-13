@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Boys season 4 becomes a stronger show but a weaker satire](https://www.polygon.com/reviews/24176428/the-boys-season-4-review-new)
- - [2024 has already had more video game industry layoffs than all of 2023 — and it’s only June](https://www.polygon.com/24177290/video-game-industry-layoffs-studio-closures-record)
- - [Valve Is Being Sued For $838 Million Over Alleged Pricing Restrictions](https://kotaku.com/valve-steam-pc-sued-price-fixing-1851537419)<!-- GAME:END -->
+ - [Free Play Days – Rainbow Six Siege, The Division 2, Assetto Corsa and Lawn Mowing Simulator](https://news.xbox.com/en-us/2024/06/13/free-play-days-rainbow-six-siege-the-division-2-assetto-corsa-and-lawn-mowing-simulator/)
+ - [Blade Movie Loses Second Director In Latest Setback](https://kotaku.com/marvel-blade-loses-second-director-mahershala-ali-1851537778)
+ - [Octopath Traveler II&#39;s Four Brand-New Boss Battles, Explained](https://kotaku.com/octopath-traveler-ii-extra-battles-secret-boss-guide-1851537714)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
