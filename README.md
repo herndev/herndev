@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [&#39;The CPU is the weakest link in computing&#39;—Flow says it can boost CPU performance up to 100x with its proprietary companion chip](https://www.pcgamer.com/hardware/processors/the-cpu-is-the-weakest-link-in-computingflow-says-it-can-boost-cpu-performance-up-to-100x-with-its-proprietary-companion-chip)
  - [How to get Exotic class items from ‘Dual Destiny’ in Destiny 2: The Final Shape](https://www.polygon.com/destiny-2-guide-walkthrough/24177071/exotic-class-item-get-farm-dual-destiny-walkthrough)
- - [Monster Hunter Now monster list](https://www.polygon.com/monster-hunter-now-guides/23871958/monster-list-all)
- - [Monster Hunter Now weapon list and how to unlock new weapon types](https://www.polygon.com/monster-hunter-now-guides/23871928/weapon-list-types-unlock)<!-- GAME:END -->
+ - [Monster Hunter Now monster list](https://www.polygon.com/monster-hunter-now-guides/23871958/monster-list-all)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
