@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple is paying OpenAI with exposure, not cash](https://appleinsider.com/articles/24/06/13/apple-paying-openai-with-exposure-not-money?utm_medium=rss)
- - [Insta360 GO 3S is here with 4K support &lpar;finally!&rpar;](https://www.androidauthority.com/insta360-go-3s-3449957/)
- - [Bumblebee joins Optimus Prime as the next Transformers Lego set](https://www.theverge.com/24177038/lego-transformers-bumblebee-set-beetle)<!-- TECH:END -->
+ - [Apple fined in South Korea for collecting users&#39; data without their consent](https://appleinsider.com/articles/24/06/13/apple-fined-in-south-korea-for-collecting-users-data-without-their-consent?utm_medium=rss)
+ - [After a major leak of unannounced games, Epic releases an update &quot;so third-party tools can&#39;t surface any new unpublished product titles&quot; from the Games Store &lpar;Aernout van de Velde/Wccftech&rpar;](http://www.techmeme.com/240613/p19#a240613p19)
+ - [This leaked Philips Hue bedside lamp is looking quite unique](https://www.androidauthority.com/philips-hue-bedside-lamp-leak-3451362/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
