@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Play Minecraft Tricky Trials Today](https://www.minecraft.net/article/play-tricky-trials-update-today#new_tab)
- - [Oh No, All These Amazing Starfield Mods Might Suck Me Back In](https://kotaku.com/starfield-mods-creations-pc-xbox-immersive-1851537915)
- - [Destiny 2&#39;s new exotic mission is the best Bungie has made in years, but some solo players are furious about having to speak to other each other](https://www.pcgamer.com/games/fps/destiny-2s-new-exotic-mission-is-the-best-bungie-has-made-in-years-but-some-solo-players-are-furious-about-having-to-speak-to-other-each-other)<!-- GAME:END -->
+ - [Monster Hunter Rise Headlines A Varied Month Of PlayStation Plus Games](https://kotaku.com/playstation-plus-june-2024-monster-hunter-far-cry-4-1851538129)
+ - [Cities: Skylines 2 kills off its &lpar;virtual&rpar; landlords to save players from the cruelty of soaring rent prices](https://www.pcgamer.com/games/city-builder/cities-skylines-2-kills-off-its-virtual-landlords-to-save-players-from-soaring-rent-prices-the-existence-of-which-is-news-to-them)
+ - [Donald Glover and Zack Fox’s animated comedy Yoppaman is completely bonkers](https://www.polygon.com/24177768/donald-glover-zack-fox-yoppaman-anime-comedy)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
