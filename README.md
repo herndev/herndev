@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Hands on with the Zotac Zone gaming handheld: It&#39;s got a gorgeous screen, but the competition is ramping up](https://www.pcgamer.com/hardware/hands-on-with-the-zotac-zone-gaming-handheld-its-got-a-gorgeous-screen-but-the-competition-is-ramping-up)
- - [Today&#39;s Wordle answer for Thursday, June 13](https://www.pcgamer.com/games/puzzle/wordle-answer-today-june-13-2024)
- - [How Elder Dragon Interceptions work in Monster Hunter Now](https://www.polygon.com/monster-hunter-now-guides/24175924/elder-dragon-interceptions-list)<!-- GAME:END -->
+ - [Monster Hunter Now monster list](https://www.polygon.com/monster-hunter-now-guides/23871958/monster-list-all)
+ - [Monster Hunter Now weapon list and how to unlock new weapon types](https://www.polygon.com/monster-hunter-now-guides/23871928/weapon-list-types-unlock)
+ - [PS5 players will soon be able to join Discord voice chat directly from their console](https://blog.playstation.com/2024/06/13/ps5-players-will-soon-be-able-to-join-discord-voice-chat-directly-from-their-console/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
