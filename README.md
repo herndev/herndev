@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Obsidian CEO responds to worries Xbox could shut them down, too: &#39;I&#39;m not worried about tomorrow&#39;](https://www.pcgamer.com/gaming-industry/obsidian-ceo-responds-to-worries-xbox-could-shut-them-down-too-im-not-worried-about-tomorrow)
  - [Armello studio League of Geeks is &#39;going into hibernation for the foreseeable future&#39; and may not be back](https://www.pcgamer.com/gaming-industry/armello-studio-league-of-geeks-is-going-into-hibernation-for-the-foreseeable-future-and-may-not-be-back)
- - [Starfield: 6 Free Mods For A More Immersive Experience](https://kotaku.com/starfield-creations-mods-best-immersive-1851536437)
- - [Diablo Immortal Inspired Blizzard To Add A New Kind Of Class To Diablo 4](https://kotaku.com/diablo-4-immortal-new-class-spiritborn-expansion-hatred-1851536395)<!-- GAME:END -->
+ - [Starfield: 6 Free Mods For A More Immersive Experience](https://kotaku.com/starfield-creations-mods-best-immersive-1851536437)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
