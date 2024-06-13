@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [NSFW Fresh be like](http://9gag.com/gag/a4PdvpZ)
- - ⏩ [Female psychology in 15 seconds](http://9gag.com/gag/ae908vQ)
- - 👉 [When you ask if you can pay later...](http://9gag.com/gag/a2vYeEp)<!-- MEMES:END -->
+ - 💣 [Back by popular demand](http://9gag.com/gag/a3439Dv)
+ - ⏩ [`We do not tolerate associations in which our social order is devalued and calls are made to combat them.` Germany: Muslim community banned and dissolved. Raids in Braunschweig and Berlin. All social media channels were immediately shut down and club assets confiscated.](http://9gag.com/gag/axyZxqn)
+ - 👉 [World finally resetting for greater good , or is this just some kind of agenda for internet points. .?](http://9gag.com/gag/ajP0bY0)<!-- MEMES:END -->
 
 ---
 
