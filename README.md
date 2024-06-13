@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple dancing with Microsoft for most valuable company in the US crown](https://appleinsider.com/articles/24/06/13/apple-is-the-most-valuable-company-in-the-us----again?utm_medium=rss)
- - [Ant Group spent a record ~$2.9B on research in 2023, as the Alibaba affiliate develops its BaiLing LLM; Ant and affiliate MYbank served 87M businesses by 2023 &lpar;Xinyi Luo/Bloomberg&rpar;](http://www.techmeme.com/240613/p10#a240613p10)
- - [Who needs cash? Apple is paying OpenAI in exposure for ChatGPT integration](https://www.androidauthority.com/apple-openai-chatgpt-cash-deal-3451295/)<!-- TECH:END -->
+ - [Dave Burke steps down as Android engineering VP, shifts to AI advisory role](https://www.androidauthority.com/dave-burke-leaving-android-3451312/)
+ - [Amazon and telecom Vrio plan to launch a satellite internet service in Argentina, Brazil, Chile, Uruguay, Peru, Ecuador, and Colombia, coming online in mid-2025 &lpar;Eliana Raszewski/Reuters&rpar;](http://www.techmeme.com/240613/p13#a240613p13)
+ - [The 2024 US Open Is Designed to Thwart Golf’s Big Hitters](https://www.wired.com/story/the-2024-us-open-is-designed-to-thwart-golfs-big-hitters/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
