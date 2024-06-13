@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [How to get Exotic class items from ‘Dual Destiny’ in Destiny 2: The Final Shape](https://www.polygon.com/destiny-2-guide-walkthrough/24177071/exotic-class-item-get-farm-dual-destiny-walkthrough)
  - [Monster Hunter Now monster list](https://www.polygon.com/monster-hunter-now-guides/23871958/monster-list-all)
- - [Monster Hunter Now weapon list and how to unlock new weapon types](https://www.polygon.com/monster-hunter-now-guides/23871928/weapon-list-types-unlock)
- - [PS5 players will soon be able to join Discord voice chat directly from their console](https://blog.playstation.com/2024/06/13/ps5-players-will-soon-be-able-to-join-discord-voice-chat-directly-from-their-console/)<!-- GAME:END -->
+ - [Monster Hunter Now weapon list and how to unlock new weapon types](https://www.polygon.com/monster-hunter-now-guides/23871928/weapon-list-types-unlock)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
