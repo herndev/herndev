@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Former Microsoft employee Andrew Harris says the company dismissed his warnings about a critical flaw that led to the 2021 SolarWinds hack; Harris left in 2020 &lpar;ProPublica&rpar;](http://www.techmeme.com/240613/p15#a240613p15)
- - [See the two Pixel Watch 3 models compared in new side-by-side render](https://www.androidauthority.com/pixel-watch-3-vs-pixel-watch-3-xl-render-3451326/)
- - [A Billionaire Has a Plan to Save the Internet—Buying TikTok Is the Next Step](https://www.wired.com/story/frank-mccourt-save-the-internet-buy-tiktok/)<!-- TECH:END -->
+ - [Apple is paying OpenAI with exposure, not cash](https://appleinsider.com/articles/24/06/13/apple-paying-openai-with-exposure-not-money?utm_medium=rss)
+ - [Insta360 GO 3S is here with 4K support &lpar;finally!&rpar;](https://www.androidauthority.com/insta360-go-3s-3449957/)
+ - [Bumblebee joins Optimus Prime as the next Transformers Lego set](https://www.theverge.com/24177038/lego-transformers-bumblebee-set-beetle)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
