@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple fined in South Korea for collecting users&#39; data without their consent](https://appleinsider.com/articles/24/06/13/apple-fined-in-south-korea-for-collecting-users-data-without-their-consent?utm_medium=rss)
- - [After a major leak of unannounced games, Epic releases an update &quot;so third-party tools can&#39;t surface any new unpublished product titles&quot; from the Games Store &lpar;Aernout van de Velde/Wccftech&rpar;](http://www.techmeme.com/240613/p19#a240613p19)
- - [This leaked Philips Hue bedside lamp is looking quite unique](https://www.androidauthority.com/philips-hue-bedside-lamp-leak-3451362/)<!-- TECH:END -->
+ - [How to watch Tesla’s annual stockholder meeting](https://www.theverge.com/2024/6/13/24177635/tesla-shareholder-how-to-watch-livestream-elon-musk-pay-package)
+ - [Oracle plans to shut down Oracle Advertising, as revenue in the ad business came in at $300M in the 2024 fiscal year, down from a reported $2B in 2022 &lpar;Catherine Perloff/Adweek&rpar;](http://www.techmeme.com/240613/p20#a240613p20)
+ - [How to turn off Windows’ aging activity tracker](https://www.theverge.com/24177605/microsoft-windows-recall-activity-tracker-recall-how-to)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
