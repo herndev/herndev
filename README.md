@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [It&#39;s time to get back to sea, boys !](http://9gag.com/gag/agmvM1x)
- - ⏩ [Jerry had zero fu*cks left to give.](http://9gag.com/gag/aO8bXwN)
- - 👉 [Based AF. Wilders says exactly what needs to be said.](http://9gag.com/gag/a9yL99W)<!-- MEMES:END -->
+ - 💣 [Life is disappointing](http://9gag.com/gag/aKGPrmb)
+ - ⏩ [All I\u2019ll say is Joffrey dodged a bullet.](http://9gag.com/gag/aD23EYw)
+ - 👉 [Lil Dingus went to the vet today, he was diagnosed with smol](http://9gag.com/gag/ajP0eO8)<!-- MEMES:END -->
 
 ---
 
