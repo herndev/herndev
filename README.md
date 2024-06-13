@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The number of games announced for 2025 is already overwhelming](https://www.polygon.com/24176445/2025-video-games-switch-2-gta6)
- - [Everywhere, an upcoming multiplayer sandbox game with a powerful creation suite under the hood, will be opening its toolkit to closed beta testers soon](https://www.pcgamer.com/games/third-person-shooter/everywhere-an-upcoming-multiplayer-sandbox-game-with-a-powerful-creation-suite-under-the-hood-will-be-opening-its-toolkit-to-closed-beta-testers-soon)
- - [Helldivers 2&#39;s enormous balance patch means business—weapons are getting buffed, galactic map supply lines are here, solo patrols are sensible again, and the worst mission modifier is gone](https://www.pcgamer.com/games/third-person-shooter/helldivers-2-s-enormous-balance-patch-means-business-weapons-are-getting-buffed-galactic-map-supply-lines-are-here-solo-patrols-are-sensible-again-and-the-worst-mission-modifier-is-gone)<!-- GAME:END -->
+ - [The Boys season 4 becomes a stronger show but a weaker satire](https://www.polygon.com/reviews/24176428/the-boys-season-4-review-new)
+ - [2024 has already had more video game industry layoffs than all of 2023 — and it’s only June](https://www.polygon.com/24177290/video-game-industry-layoffs-studio-closures-record)
+ - [Valve Is Being Sued For $838 Million Over Alleged Pricing Restrictions](https://kotaku.com/valve-steam-pc-sued-price-fixing-1851537419)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
