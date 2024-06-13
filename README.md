@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Life Is Strange: Double Exposure Gameplay Reveal Confirms It Will Respect Both The First Game&#39;s Endings](https://kotaku.com/life-is-strange-double-exposure-max-endings-chloe-1851538397)
- - [Metal Gear Solid Delta&#39;s producer is up for the challenge of reviving one of gaming&#39;s greatest series, and wants fans along for the ride: &#39;Please keep watching, and keep us honest&#39;](https://www.pcgamer.com/games/action/metal-gear-solid-deltas-producer-is-up-for-the-challenge-of-reviving-one-of-gamings-greatest-series-and-wants-fans-along-for-the-ride-please-keep-watching-and-keep-us-honest)
- - [Metallica is bringing its metal guitar — and a new PvP game mode — to Fortnite Festival](https://www.polygon.com/24177794/metallica-stage-fortnite-festival-new-season)<!-- GAME:END -->
+ - [Monster Hunter Wilds director aims to push hardware &#39;to the max&#39; to bring the world to life: &#39;Any Monster Hunter game where I&#39;m director is always going to be focusing on the ecosystem&#39;](https://www.pcgamer.com/games/action/monster-hunter-wilds-director-aims-to-push-hardware-to-the-max-to-bring-the-world-to-life-any-monster-hunter-game-where-im-director-is-always-going-to-be-focusing-on-the-ecosystem)
+ - [Minecraft 1.21, the Tricky Trials update, is out now](https://www.pcgamer.com/games/survival-crafting/minecraft-121-the-tricky-trials-update-is-out-now)
+ - [Life Is Strange: Double Exposure Gameplay Reveal Confirms It Will Respect Both The First Game&#39;s Endings](https://kotaku.com/life-is-strange-double-exposure-max-endings-chloe-1851538397)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
