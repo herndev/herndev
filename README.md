@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Bad Prank](http://9gag.com/gag/aZZx613)
+ - 💣 [When you ask if you can pay later...](http://9gag.com/gag/a2vYeEp)
  - ⏩ [NSFW Fresh be like](http://9gag.com/gag/a4PdvpZ)
- - 👉 [Sigh.](http://9gag.com/gag/aBy3AV2)<!-- MEMES:END -->
+ - 👉 [Female psychology in 15 seconds](http://9gag.com/gag/ae908vQ)<!-- MEMES:END -->
 
 ---
 
