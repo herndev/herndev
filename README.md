@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Free Play Days – Rainbow Six Siege, The Division 2, Assetto Corsa and Lawn Mowing Simulator](https://news.xbox.com/en-us/2024/06/13/free-play-days-rainbow-six-siege-the-division-2-assetto-corsa-and-lawn-mowing-simulator/)
- - [Blade Movie Loses Second Director In Latest Setback](https://kotaku.com/marvel-blade-loses-second-director-mahershala-ali-1851537778)
- - [Octopath Traveler II&#39;s Four Brand-New Boss Battles, Explained](https://kotaku.com/octopath-traveler-ii-extra-battles-secret-boss-guide-1851537714)<!-- GAME:END -->
+ - [Play Minecraft Tricky Trials Today](https://www.minecraft.net/article/play-tricky-trials-update-today#new_tab)
+ - [Oh No, All These Amazing Starfield Mods Might Suck Me Back In](https://kotaku.com/starfield-mods-creations-pc-xbox-immersive-1851537915)
+ - [Destiny 2&#39;s new exotic mission is the best Bungie has made in years, but some solo players are furious about having to speak to other each other](https://www.pcgamer.com/games/fps/destiny-2s-new-exotic-mission-is-the-best-bungie-has-made-in-years-but-some-solo-players-are-furious-about-having-to-speak-to-other-each-other)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
