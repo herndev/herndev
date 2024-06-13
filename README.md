@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Adobe Q2: revenue up 10% YoY to $5.31B, vs. $5.29B est., Digital Media revenue up 11% to $3.91B, Digital Experience revenue up 9%; ADBE jumps 14%+ after hours &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/240613/p28#a240613p28)
- - [Fastest VPN of 2024     - CNET](https://www.cnet.com/tech/services-and-software/fastest-vpn/#ftag=CAD590a51e)
- - [Tesla investors sue Elon Musk for launching a rival AI company](https://www.theverge.com/2024/6/13/24177975/tesla-shareholder-lawsuit-elon-musk-xai-rival-compete)<!-- TECH:END -->
+ - [Apple’s Sunny makes everyone seem like a suspect in new trailer](https://www.theverge.com/24177191/apple-tv-sunny-trailer)
+ - [Developers can now nominate apps and updates for App Store promotions](https://appleinsider.com/articles/24/06/13/developers-can-now-nominate-apps-and-updates-for-app-store-promotions?utm_medium=rss)
+ - [Google to add extra layer of protection when installing sketchy apps &lpar;APK teardown&rpar;](https://www.androidauthority.com/play-store-apk-biometric-scan-3451489/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
