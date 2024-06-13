@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [When you ask if you can pay later...](http://9gag.com/gag/a2vYeEp)
- - ⏩ [Bad Prank](http://9gag.com/gag/aZZx613)
- - 👉 [NSFW Fresh be like](http://9gag.com/gag/a4PdvpZ)<!-- MEMES:END -->
+ - 💣 [Inflation](http://9gag.com/gag/ajP0zzp)
+ - ⏩ [When you ask if you can pay later...](http://9gag.com/gag/a2vYeEp)
+ - 👉 [IdkMustBeOnStartup](http://9gag.com/gag/avygN6M)<!-- MEMES:END -->
 
 ---
 
