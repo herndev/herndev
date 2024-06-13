@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to watch Tesla’s annual stockholder meeting](https://www.theverge.com/2024/6/13/24177635/tesla-shareholder-how-to-watch-livestream-elon-musk-pay-package)
- - [Oracle plans to shut down Oracle Advertising, as revenue in the ad business came in at $300M in the 2024 fiscal year, down from a reported $2B in 2022 &lpar;Catherine Perloff/Adweek&rpar;](http://www.techmeme.com/240613/p20#a240613p20)
- - [How to turn off Windows’ aging activity tracker](https://www.theverge.com/24177605/microsoft-windows-recall-activity-tracker-recall-how-to)<!-- TECH:END -->
+ - [The Beats Studio Pro are down to $180, nearly matching their all-time low](https://www.theverge.com/2024/6/13/24177606/beats-studio-pro-headphones-motorola-razr-plus-deal-sale)
+ - [Donald Trump met ~12 Bitcoin mining executives in Florida, and says he wants &quot;all the remaining Bitcoin to be made in the USA&quot; to help US be &quot;energy dominant&quot; &lpar;MacKenzie Sigalos/CNBC&rpar;](http://www.techmeme.com/240613/p21#a240613p21)
+ - [The Fight Against AI Comes to a Foundational Data Set](https://www.wired.com/story/the-fight-against-ai-comes-to-a-foundational-data-set/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
