@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Monster Hunter Wilds director aims to push hardware &#39;to the max&#39; to bring the world to life: &#39;Any Monster Hunter game where I&#39;m director is always going to be focusing on the ecosystem&#39;](https://www.pcgamer.com/games/action/monster-hunter-wilds-director-aims-to-push-hardware-to-the-max-to-bring-the-world-to-life-any-monster-hunter-game-where-im-director-is-always-going-to-be-focusing-on-the-ecosystem)
- - [Minecraft 1.21, the Tricky Trials update, is out now](https://www.pcgamer.com/games/survival-crafting/minecraft-121-the-tricky-trials-update-is-out-now)
- - [Life Is Strange: Double Exposure Gameplay Reveal Confirms It Will Respect Both The First Game&#39;s Endings](https://kotaku.com/life-is-strange-double-exposure-max-endings-chloe-1851538397)<!-- GAME:END -->
+ - [Grand Prix Story is Now Available on Xbox – Create your Own Strongest Team](https://news.xbox.com/en-us/2024/06/13/grand-prix-story-is-now-available-on-xbox/)
+ - [New Updates Just Made The PS5 And Xbox Series X/S A Little Better](https://kotaku.com/ps5-discord-xbox-controller-disconnect-wi-fi-update-1851538776)
+ - [Ahri ban rate soars after ultra expensive new League of Legends skin drops](https://www.polygon.com/24177805/league-of-legends-ahri-bans-immortalized-legend-skin)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
