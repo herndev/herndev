@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Today&#39;s NYT Strands Hints and Answers: Help for June 12, #101     - CNET](https://www.cnet.com/tech/gaming/todays-nyt-strands-hint-answer-june-12-101/#ftag=CAD590a51e)
  - [A look at the Microsoft Excel World Championship, an annual tournament hosted by Financial Modeling World Cup where competitors solve Excel puzzles for prizes &lpar;David Pierce/The Verge&rpar;](http://www.techmeme.com/240613/p7#a240613p7)
- - [Japanese trade data: at least 50% of chipmaking equipment exports went to China for three straight quarters through Q1, driven by demand for less advanced gear &lpar;Hirofumi Kanaoka/Nikkei Asia&rpar;](http://www.techmeme.com/240613/p6#a240613p6)
- - [OpenAI says it has expanded its global affairs team from three at the start of 2023 to 35, stationed strategically in locations where AI legislation is advanced &lpar;Financial Times&rpar;](http://www.techmeme.com/240613/p5#a240613p5)<!-- TECH:END -->
+ - [Japanese trade data: at least 50% of chipmaking equipment exports went to China for three straight quarters through Q1, driven by demand for less advanced gear &lpar;Hirofumi Kanaoka/Nikkei Asia&rpar;](http://www.techmeme.com/240613/p6#a240613p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
