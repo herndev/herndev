@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple’s Sunny makes everyone seem like a suspect in new trailer](https://www.theverge.com/24177191/apple-tv-sunny-trailer)
- - [Developers can now nominate apps and updates for App Store promotions](https://appleinsider.com/articles/24/06/13/developers-can-now-nominate-apps-and-updates-for-app-store-promotions?utm_medium=rss)
- - [Google to add extra layer of protection when installing sketchy apps &lpar;APK teardown&rpar;](https://www.androidauthority.com/play-store-apk-biometric-scan-3451489/)<!-- TECH:END -->
+ - [Former head of NSA joins OpenAI board](https://www.theverge.com/2024/6/13/24178079/openai-board-paul-nakasone-nsa-safety)
+ - [Paradigm says it raised $850M for its third fund, which will focus on early-stage crypto projects; it previously launched a $2.5B crypto fund in November 2021 &lpar;Olga Kharif/Bloomberg&rpar;](http://www.techmeme.com/240613/p30#a240613p30)
+ - [Feds arrest Adderall telehealth CEO under Controlled Substances Act](https://www.theverge.com/2024/6/13/24178049/done-adhd-telehealth-controlled-substances-act-doj-fraud)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
