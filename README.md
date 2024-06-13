@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Please arrive at airport terminal on time and be accountable for your own actions](http://9gag.com/gag/aYQWzAv)
- - ⏩ [Eat the rich...](http://9gag.com/gag/ary4PDK)
- - 👉 [When you ask if you can pay later...](http://9gag.com/gag/a2vYeEp)<!-- MEMES:END -->
+ - 💣 [Xena, the warrior hero of the 90s, and now! She&#39;s still so beautiful!](http://9gag.com/gag/aO8b6b6)
+ - ⏩ [World finally resetting for greater good , or is this just some kind of agenda for internet points. .?](http://9gag.com/gag/ajP0bY0)
+ - 👉 [If you think nobody will miss you](http://9gag.com/gag/a5QP8BV)<!-- MEMES:END -->
 
 ---
 
