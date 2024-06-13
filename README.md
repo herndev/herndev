@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [No way it could have been Ghandi. No sh!t was ever found at the crime scenes](http://9gag.com/gag/ae90XPO)
- - ⏩ [Rip Anastazja I&#39;m Sorry Europe Imported So Many Savages](http://9gag.com/gag/ae90XLm)
- - 👉 [He couldn\u2019t hit the nail if his life depended on it. Swinging harder \u2260 accuracy](http://9gag.com/gag/ayN0Gvr)<!-- MEMES:END -->
+ - 💣 [This one liar.](http://9gag.com/gag/aByr9z1)
+ - ⏩ [What does Disney wants to tell us by this?](http://9gag.com/gag/a87jdjO)
+ - 👉 [Rip Anastazja I&#39;m Sorry Europe Imported So Many Savages](http://9gag.com/gag/ae90XLm)<!-- MEMES:END -->
 
 ---
 
