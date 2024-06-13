@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Life is disappointing](http://9gag.com/gag/aKGPrmb)
- - ⏩ [All I\u2019ll say is Joffrey dodged a bullet.](http://9gag.com/gag/aD23EYw)
- - 👉 [Lil Dingus went to the vet today, he was diagnosed with smol](http://9gag.com/gag/ajP0eO8)<!-- MEMES:END -->
+ - 💣 [When you ask if you can pay later...](http://9gag.com/gag/a2vYeEp)
+ - ⏩ [Bad Prank](http://9gag.com/gag/aZZx613)
+ - 👉 [NSFW Fresh be like](http://9gag.com/gag/a4PdvpZ)<!-- MEMES:END -->
 
 ---
 
