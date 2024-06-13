@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Leak points to Samsung Galaxy 25 expected battery size](https://www.androidauthority.com/leak-samsung-galaxy-25-battery-3451473/)
- - [Eye Tracking lets you navigate iOS 18 without touching your iPhone](https://appleinsider.com/articles/24/06/13/eye-tracking-lets-you-navigate-ios-18-without-touching-your-iphone?utm_medium=rss)
- - [Google Calendar will finally let you hide certain holidays &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-calendar-hide-holiday-feature-3451448/)<!-- TECH:END -->
+ - [Ring Video Doorbell     - CNET](https://www.cnet.com/home/smart-home/ring-video-doorbell1-dpnl/#ftag=CAD590a51e)
+ - [Maybe we don’t have to capture so much carbon, study suggests](https://www.theverge.com/2024/6/13/24177104/limit-carbon-dioxide-removal-beccs-bioenergy-aviation-agriculture-industry)
+ - [Best VPN Service 2024: VPNs Tested by Our Experts     - CNET](https://www.cnet.com/tech/services-and-software/best-vpn/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
