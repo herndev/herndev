@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Fed Watch Live Blog: Federal Reserve Holds Rates Steady, Expects Only One Rate Cut This Year     - CNET](https://www.cnet.com/personal-finance/banking/federal-reserve-meeting-live-blog-june-2024/#ftag=CAD590a51e)
- - [Google is putting more Android in ChromeOS](https://www.theverge.com/2024/6/12/24177311/google-chromeos-android-ai)
- - [Japan passes a law that prohibits Apple and Google from limiting the sale of third-party apps and services that compete with native iOS and Android offerings &lpar;Kyodo News&rpar;](http://www.techmeme.com/240612/p33#a240612p33)<!-- TECH:END -->
+ - [We Sleep on Beds for a Living: Here&#39;s How We Test Mattresses     - CNET](https://www.cnet.com/health/sleep/how-cnet-tests-mattresses/#ftag=CAD590a51e)
+ - [Apple paying OpenAI with exposure, not money](https://appleinsider.com/articles/24/06/13/apple-paying-openai-with-exposure-not-money?utm_medium=rss)
+ - [Sources: Apple isn&#39;t paying OpenAI as part of their partnership and aims to eventually make money from AI by striking revenue-sharing deals with chatbot owners &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/240612/p34#a240612p34)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
