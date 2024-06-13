@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Today&#39;s NYT Strands Hints and Answers: Help for June 12, #101     - CNET](https://www.cnet.com/tech/gaming/todays-nyt-strands-hint-answer-june-12-101/#ftag=CAD590a51e)
- - [A look at the Microsoft Excel World Championship, an annual tournament hosted by Financial Modeling World Cup where competitors solve Excel puzzles for prizes &lpar;David Pierce/The Verge&rpar;](http://www.techmeme.com/240613/p7#a240613p7)
- - [Japanese trade data: at least 50% of chipmaking equipment exports went to China for three straight quarters through Q1, driven by demand for less advanced gear &lpar;Hirofumi Kanaoka/Nikkei Asia&rpar;](http://www.techmeme.com/240613/p6#a240613p6)<!-- TECH:END -->
+ - [Dead iPhones can still show you the time on iOS 18!](https://www.androidauthority.com/dead-iphone-time-ios-18-3451276/)
+ - [Sources detail Amazon&#39;s struggles to build a new generative AI-powered Alexa, including privacy concerns keeping Alexa&#39;s teams from using Anthropic&#39;s Claude &lpar;Sharon Goldman/Fortune&rpar;](http://www.techmeme.com/240613/p9#a240613p9)
+ - [What is now.gg? Everything you need to know](https://www.androidauthority.com/what-is-now-gg-3449633/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
