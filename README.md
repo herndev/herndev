@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [FromSoftware&#39;s Miyazaki On A Bloodborne PC Port: &#39;I&#39;d Love More Players To Be Able To Enjoy It&#39;](https://kotaku.com/bloodborne-pc-port-ps5-fromsoftware-elden-ring-miyazaki-1851539098)
- - [Star Wars: The Acolyte Tells Us What We Already Knew About The Jedi](https://kotaku.com/star-wars-the-acolyte-episode-3-witches-brendok-jedi-1851539149)
- - [This Gris Follow-Up Has Big Last Guardian Vibes And Will Definitely Make Me Cry](https://kotaku.com/neva-tribeca-games-demo-impressions-the-last-guardian-1851539029)<!-- GAME:END -->
+ - [Senior Riot devs say the League of Legends playerbase is getting older, with fewer newbies jumping in: &#39;Candidly, it&#39;s not the same situation it was 10 years ago&#39;](https://www.pcgamer.com/games/moba/senior-riot-devs-say-the-league-of-legends-playerbase-is-getting-older-with-fewer-newbies-jumping-in-candidly-its-not-the-same-situation-it-was-10-years-ago)
+ - [Xbox isn&#39;t a console anymore, it&#39;s a multiplatform game development giant](https://www.pcgamer.com/gaming-industry/xbox-showcase-2024-comparison)
+ - [NewJeans is the PUBG collab I didn’t know I needed](https://www.polygon.com/24178043/newjeans-pubg-playerunknown-battlegrounds-event)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
