@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Inflation](http://9gag.com/gag/ajP0zzp)
- - ⏩ [When you ask if you can pay later...](http://9gag.com/gag/a2vYeEp)
- - 👉 [IdkMustBeOnStartup](http://9gag.com/gag/avygN6M)<!-- MEMES:END -->
+ - 💣 [It&#39;s time to get back to sea, boys !](http://9gag.com/gag/agmvM1x)
+ - ⏩ [Jerry had zero fu*cks left to give.](http://9gag.com/gag/aO8bXwN)
+ - 👉 [Based AF. Wilders says exactly what needs to be said.](http://9gag.com/gag/a9yL99W)<!-- MEMES:END -->
 
 ---
 
