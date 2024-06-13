@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Catch a record 41% discount on the Anker PowerCore 24K Power Bank](https://www.androidauthority.com/deal-anker-powercore-24k-power-bank-3451423/)
- - [This Startup Wants to Make Video Creation a Breeze for Everyone     - CNET](https://www.cnet.com/tech/services-and-software/this-startup-wants-to-make-video-creation-a-breeze-for-you-and-me/#ftag=CAD590a51e)
- - [Best PlayStation VR 2 Deals: Save $100 on the Horizon PSVR 2 Bundle     - CNET](https://www.cnet.com/deals/playstation-vr-2-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [SCOTUS upholds abortion pill access — for now](https://www.theverge.com/2024/6/13/24177827/scotus-mifepristone-abortion-pill-lawsuit-fda-supreme-court)
+ - [WhatsApp is working on simpler chat transfers between Android and iOS](https://www.androidauthority.com/whatsapp-chat-transfer-cross-platform-3451454/)
+ - [The Pentagon renews a contract with SpaceX to provide Starlink internet services in Ukraine until November 30 at a cost of $14.1M &lpar;Anthony Capaccio/Bloomberg&rpar;](http://www.techmeme.com/240613/p23#a240613p23)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
