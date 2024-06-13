@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Hands on with the Zotac Zone gaming handheld: It&#39;s got a gorgeous screen, but the competition is ramping up](https://www.pcgamer.com/hardware/hands-on-with-the-zotac-zone-gaming-handheld-its-got-a-gorgeous-screen-but-the-competition-is-ramping-up)
  - [Today&#39;s Wordle answer for Thursday, June 13](https://www.pcgamer.com/games/puzzle/wordle-answer-today-june-13-2024)
- - [How Elder Dragon Interceptions work in Monster Hunter Now](https://www.polygon.com/monster-hunter-now-guides/24175924/elder-dragon-interceptions-list)
- - [Oh no, now I like another Magic: The Gathering format I have to keep up with](https://www.pcgamer.com/games/card-games/oh-no-now-i-like-another-magic-the-gathering-format-i-have-to-keep-up-with)<!-- GAME:END -->
+ - [How Elder Dragon Interceptions work in Monster Hunter Now](https://www.polygon.com/monster-hunter-now-guides/24175924/elder-dragon-interceptions-list)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
