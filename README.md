@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Rip Anastazja I&#39;m Sorry Europe Imported So Many Savages](http://9gag.com/gag/ae90XLm)
- - ⏩ [This site used to be for memes and funny stuff](http://9gag.com/gag/aE0zd5N)
- - 👉 [No time to explain, get in the mini-van](http://9gag.com/gag/adBp0pD)<!-- MEMES:END -->
+ - 💣 [Amy Winehouse interview backstage at the 2008 BRIT Awards](http://9gag.com/gag/aE01rWN)
+ - ⏩ [Everybody act normal, and boys gather around him don&#39;t leave him at the edge.](http://9gag.com/gag/a9yPb16)
+ - 👉 [Dont blink...](http://9gag.com/gag/azxV7zj)<!-- MEMES:END -->
 
 ---
 
