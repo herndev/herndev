@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This one liar.](http://9gag.com/gag/aByr9z1)
- - ⏩ [What does Disney wants to tell us by this?](http://9gag.com/gag/a87jdjO)
- - 👉 [Rip Anastazja I&#39;m Sorry Europe Imported So Many Savages](http://9gag.com/gag/ae90XLm)<!-- MEMES:END -->
+ - 💣 [Post your wallpapers here, not a screenshot of your wallpaper.](http://9gag.com/gag/aYQWzNO)
+ - ⏩ [Dont blink...](http://9gag.com/gag/azxV7zj)
+ - 👉 [Such kindest in the reply! \u201cSo close!\u201d](http://9gag.com/gag/aQz4wXK)<!-- MEMES:END -->
 
 ---
 
