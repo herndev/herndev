@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Dead iPhones can still show you the time on iOS 18!](https://www.androidauthority.com/dead-iphone-time-ios-18-3451276/)
- - [Sources detail Amazon&#39;s struggles to build a new generative AI-powered Alexa, including privacy concerns keeping Alexa&#39;s teams from using Anthropic&#39;s Claude &lpar;Sharon Goldman/Fortune&rpar;](http://www.techmeme.com/240613/p9#a240613p9)
- - [What is now.gg? Everything you need to know](https://www.androidauthority.com/what-is-now-gg-3449633/)<!-- TECH:END -->
+ - [Apple dancing with Microsoft for most valuable company in the US crown](https://appleinsider.com/articles/24/06/13/apple-is-the-most-valuable-company-in-the-us----again?utm_medium=rss)
+ - [Ant Group spent a record ~$2.9B on research in 2023, as the Alibaba affiliate develops its BaiLing LLM; Ant and affiliate MYbank served 87M businesses by 2023 &lpar;Xinyi Luo/Bloomberg&rpar;](http://www.techmeme.com/240613/p10#a240613p10)
+ - [Who needs cash? Apple is paying OpenAI in exposure for ChatGPT integration](https://www.androidauthority.com/apple-openai-chatgpt-cash-deal-3451295/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
