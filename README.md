@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Post your wallpapers here, not a screenshot of your wallpaper.](http://9gag.com/gag/aYQWzNO)
- - ⏩ [Dont blink...](http://9gag.com/gag/azxV7zj)
- - 👉 [Such kindest in the reply! \u201cSo close!\u201d](http://9gag.com/gag/aQz4wXK)<!-- MEMES:END -->
+ - 💣 [Rip Anastazja I&#39;m Sorry Europe Imported So Many Savages](http://9gag.com/gag/ae90XLm)
+ - ⏩ [This site used to be for memes and funny stuff](http://9gag.com/gag/aE0zd5N)
+ - 👉 [No time to explain, get in the mini-van](http://9gag.com/gag/adBp0pD)<!-- MEMES:END -->
 
 ---
 
