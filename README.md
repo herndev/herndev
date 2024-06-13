@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ring Video Doorbell     - CNET](https://www.cnet.com/home/smart-home/ring-video-doorbell1-dpnl/#ftag=CAD590a51e)
- - [Maybe we don’t have to capture so much carbon, study suggests](https://www.theverge.com/2024/6/13/24177104/limit-carbon-dioxide-removal-beccs-bioenergy-aviation-agriculture-industry)
- - [Best VPN Service 2024: VPNs Tested by Our Experts     - CNET](https://www.cnet.com/tech/services-and-software/best-vpn/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Adobe Q2: revenue up 10% YoY to $5.31B, vs. $5.29B est., Digital Media revenue up 11% to $3.91B, Digital Experience revenue up 9%; ADBE jumps 14%+ after hours &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/240613/p28#a240613p28)
+ - [Fastest VPN of 2024     - CNET](https://www.cnet.com/tech/services-and-software/fastest-vpn/#ftag=CAD590a51e)
+ - [Tesla investors sue Elon Musk for launching a rival AI company](https://www.theverge.com/2024/6/13/24177975/tesla-shareholder-lawsuit-elon-musk-xai-rival-compete)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
