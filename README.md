@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [SCOTUS upholds abortion pill access — for now](https://www.theverge.com/2024/6/13/24177827/scotus-mifepristone-abortion-pill-lawsuit-fda-supreme-court)
- - [WhatsApp is working on simpler chat transfers between Android and iOS](https://www.androidauthority.com/whatsapp-chat-transfer-cross-platform-3451454/)
- - [The Pentagon renews a contract with SpaceX to provide Starlink internet services in Ukraine until November 30 at a cost of $14.1M &lpar;Anthony Capaccio/Bloomberg&rpar;](http://www.techmeme.com/240613/p23#a240613p23)<!-- TECH:END -->
+ - [Leak points to Samsung Galaxy 25 expected battery size](https://www.androidauthority.com/leak-samsung-galaxy-25-battery-3451473/)
+ - [Eye Tracking lets you navigate iOS 18 without touching your iPhone](https://appleinsider.com/articles/24/06/13/eye-tracking-lets-you-navigate-ios-18-without-touching-your-iphone?utm_medium=rss)
+ - [Google Calendar will finally let you hide certain holidays &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-calendar-hide-holiday-feature-3451448/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
