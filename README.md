@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [MLCommons shares results from its MLPerf 4.0 training benchmarks, which added Google&#39;s and Intel&#39;s AI accelerators; Nvidia H100 GPUs topped all nine benchmarks &lpar;Samuel K. Moore/IEEE Spectrum&rpar;](http://www.techmeme.com/240613/p1#a240613p1)
- - [X all-hands leaves staff with few answers on delayed promotions](https://www.theverge.com/2024/6/12/24172268/x-twitter-all-hands-linda-yaccarino-layoffs-promotions)
- - [Sources: Indian rapid grocery delivery startup Zepto plans to raise ~$650M co-led by Nexus and StepStone at a valuation of $3.5B, up from $1.4B in August 2023 &lpar;Moneycontrol&rpar;](http://www.techmeme.com/240612/p37#a240612p37)<!-- TECH:END -->
+ - [Arcane season 2: Release window, plot, and other rumors](https://www.androidauthority.com/arcane-season-2-release-date-3451237/)
+ - [Samsung announces plans to speed up the delivery of AI chips for clients by integrating its memory chip, foundry, and chip packaging services &lpar;Reuters&rpar;](http://www.techmeme.com/240613/p4#a240613p4)
+ - [Long-time Android Engineering VP Dave Burke steps down to explore &quot;AI/bio&quot; projects within Alphabet; sources say Platforms &amp; Devices team is undergoing a reorg &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/240613/p3#a240613p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
