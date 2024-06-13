@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Beats Studio Pro are down to $180, nearly matching their all-time low](https://www.theverge.com/2024/6/13/24177606/beats-studio-pro-headphones-motorola-razr-plus-deal-sale)
- - [Donald Trump met ~12 Bitcoin mining executives in Florida, and says he wants &quot;all the remaining Bitcoin to be made in the USA&quot; to help US be &quot;energy dominant&quot; &lpar;MacKenzie Sigalos/CNBC&rpar;](http://www.techmeme.com/240613/p21#a240613p21)
- - [The Fight Against AI Comes to a Foundational Data Set](https://www.wired.com/story/the-fight-against-ai-comes-to-a-foundational-data-set/)<!-- TECH:END -->
+ - [Catch a record 41% discount on the Anker PowerCore 24K Power Bank](https://www.androidauthority.com/deal-anker-powercore-24k-power-bank-3451423/)
+ - [This Startup Wants to Make Video Creation a Breeze for Everyone     - CNET](https://www.cnet.com/tech/services-and-software/this-startup-wants-to-make-video-creation-a-breeze-for-you-and-me/#ftag=CAD590a51e)
+ - [Best PlayStation VR 2 Deals: Save $100 on the Horizon PSVR 2 Bundle     - CNET](https://www.cnet.com/deals/playstation-vr-2-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
