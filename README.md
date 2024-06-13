@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Xena, the warrior hero of the 90s, and now! She&#39;s still so beautiful!](http://9gag.com/gag/aO8b6b6)
- - ⏩ [World finally resetting for greater good , or is this just some kind of agenda for internet points. .?](http://9gag.com/gag/ajP0bY0)
- - 👉 [If you think nobody will miss you](http://9gag.com/gag/a5QP8BV)<!-- MEMES:END -->
+ - 💣 [Based AF. Wilders says exactly what needs to be said.](http://9gag.com/gag/a9yL99W)
+ - ⏩ [The original one died in fresh for ... indian issues. So, here it is again, but now formally correct, more readable and without fake names and personal stories.](http://9gag.com/gag/a4PdvKZ)
+ - 👉 [Qatar blatantly cheated to defeat India 2-1 in World Cup qualifiers.](http://9gag.com/gag/ae90L95)<!-- MEMES:END -->
 
 ---
 
