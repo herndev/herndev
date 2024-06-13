@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Brutality and Stealth Are at the Heart of Assassin’s Creed Shadows](https://news.xbox.com/en-us/2024/06/13/brutality-and-stealth-heart-of-assassins-creed-shadows/)
- - [The Jackbox Megapicker solves the biggest issue with the Party Packs](https://www.polygon.com/24178010/jackbox-games-megapicker-party-packs-library)
- - [This Summer Is Too Packed With Great-Looking Games](https://kotaku.com/summer-game-release-dates-indies-star-wars-w40k-2024-1851538599)<!-- GAME:END -->
+ - [FromSoftware&#39;s Miyazaki On A Bloodborne PC Port: &#39;I&#39;d Love More Players To Be Able To Enjoy It&#39;](https://kotaku.com/bloodborne-pc-port-ps5-fromsoftware-elden-ring-miyazaki-1851539098)
+ - [Star Wars: The Acolyte Tells Us What We Already Knew About The Jedi](https://kotaku.com/star-wars-the-acolyte-episode-3-witches-brendok-jedi-1851539149)
+ - [This Gris Follow-Up Has Big Last Guardian Vibes And Will Definitely Make Me Cry](https://kotaku.com/neva-tribeca-games-demo-impressions-the-last-guardian-1851539029)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
