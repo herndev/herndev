@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [A stiff upper lip](http://9gag.com/gag/aQz4wy8)
- - ⏩ [No title needed](http://9gag.com/gag/awyKw94)
- - 👉 [How to tell if there are alligators are in the water](http://9gag.com/gag/aO8bwZy)<!-- MEMES:END -->
+ - 💣 [Never google...](http://9gag.com/gag/a9yLx9m)
+ - ⏩ [Inflation](http://9gag.com/gag/ajP0zzp)
+ - 👉 [Post your wallpapers here, not a screenshot of your wallpaper.](http://9gag.com/gag/aYQWzNO)<!-- MEMES:END -->
 
 ---
 
