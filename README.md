@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I&#39;m not American. Today I discovered why they have so much problems with police officers.](http://9gag.com/gag/aGywWen)
+ - 💣 [No way it could have been Ghandi. No sh!t was ever found at the crime scenes](http://9gag.com/gag/ae90XPO)
  - ⏩ [Rip Anastazja I&#39;m Sorry Europe Imported So Many Savages](http://9gag.com/gag/ae90XLm)
- - 👉 [Just give him some time to come back from store ffs](http://9gag.com/gag/aYQwjgN)<!-- MEMES:END -->
+ - 👉 [He couldn\u2019t hit the nail if his life depended on it. Swinging harder \u2260 accuracy](http://9gag.com/gag/ayN0Gvr)<!-- MEMES:END -->
 
 ---
 
