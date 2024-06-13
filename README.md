@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Amy Winehouse interview backstage at the 2008 BRIT Awards](http://9gag.com/gag/aE01rWN)
- - ⏩ [Everybody act normal, and boys gather around him don&#39;t leave him at the edge.](http://9gag.com/gag/a9yPb16)
- - 👉 [Dont blink...](http://9gag.com/gag/azxV7zj)<!-- MEMES:END -->
+ - ⏩ [Tatoo](http://9gag.com/gag/aqy24gZ)
+ - 👉 [Sure ya did](http://9gag.com/gag/aGyRK7n)<!-- MEMES:END -->
 
 ---
 
