@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Grand Prix Story is Now Available on Xbox – Create your Own Strongest Team](https://news.xbox.com/en-us/2024/06/13/grand-prix-story-is-now-available-on-xbox/)
- - [New Updates Just Made The PS5 And Xbox Series X/S A Little Better](https://kotaku.com/ps5-discord-xbox-controller-disconnect-wi-fi-update-1851538776)
- - [Ahri ban rate soars after ultra expensive new League of Legends skin drops](https://www.polygon.com/24177805/league-of-legends-ahri-bans-immortalized-legend-skin)<!-- GAME:END -->
+ - [Brutality and Stealth Are at the Heart of Assassin’s Creed Shadows](https://news.xbox.com/en-us/2024/06/13/brutality-and-stealth-heart-of-assassins-creed-shadows/)
+ - [The Jackbox Megapicker solves the biggest issue with the Party Packs](https://www.polygon.com/24178010/jackbox-games-megapicker-party-packs-library)
+ - [This Summer Is Too Packed With Great-Looking Games](https://kotaku.com/summer-game-release-dates-indies-star-wars-w40k-2024-1851538599)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
