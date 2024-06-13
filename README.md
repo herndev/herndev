@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Dave Burke steps down as Android engineering VP, shifts to AI advisory role](https://www.androidauthority.com/dave-burke-leaving-android-3451312/)
- - [Amazon and telecom Vrio plan to launch a satellite internet service in Argentina, Brazil, Chile, Uruguay, Peru, Ecuador, and Colombia, coming online in mid-2025 &lpar;Eliana Raszewski/Reuters&rpar;](http://www.techmeme.com/240613/p13#a240613p13)
- - [The 2024 US Open Is Designed to Thwart Golf’s Big Hitters](https://www.wired.com/story/the-2024-us-open-is-designed-to-thwart-golfs-big-hitters/)<!-- TECH:END -->
+ - [Former Microsoft employee Andrew Harris says the company dismissed his warnings about a critical flaw that led to the 2021 SolarWinds hack; Harris left in 2020 &lpar;ProPublica&rpar;](http://www.techmeme.com/240613/p15#a240613p15)
+ - [See the two Pixel Watch 3 models compared in new side-by-side render](https://www.androidauthority.com/pixel-watch-3-vs-pixel-watch-3-xl-render-3451326/)
+ - [A Billionaire Has a Plan to Save the Internet—Buying TikTok Is the Next Step](https://www.wired.com/story/frank-mccourt-save-the-internet-buy-tiktok/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
