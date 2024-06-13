@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [MLCommons shares results from its MLPerf 4.0 training benchmarks, which added Google&#39;s and Intel&#39;s AI accelerators; Nvidia H100 GPUs topped all nine benchmarks &lpar;Samuel K. Moore/IEEE Spectrum&rpar;](http://www.techmeme.com/240613/p1#a240613p1)
  - [X all-hands leaves staff with few answers on delayed promotions](https://www.theverge.com/2024/6/12/24172268/x-twitter-all-hands-linda-yaccarino-layoffs-promotions)
- - [Sources: Indian rapid grocery delivery startup Zepto plans to raise ~$650M co-led by Nexus and StepStone at a valuation of $3.5B, up from $1.4B in August 2023 &lpar;Moneycontrol&rpar;](http://www.techmeme.com/240612/p37#a240612p37)
- - [Apple Watch can finally track your sleep automatically, with watch OS 11](https://www.androidauthority.com/apple-watch-os-11-automatic-sleep-tracking-3451223/)<!-- TECH:END -->
+ - [Sources: Indian rapid grocery delivery startup Zepto plans to raise ~$650M co-led by Nexus and StepStone at a valuation of $3.5B, up from $1.4B in August 2023 &lpar;Moneycontrol&rpar;](http://www.techmeme.com/240612/p37#a240612p37)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
