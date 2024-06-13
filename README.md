@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Monster Hunter Rise Headlines A Varied Month Of PlayStation Plus Games](https://kotaku.com/playstation-plus-june-2024-monster-hunter-far-cry-4-1851538129)
- - [Cities: Skylines 2 kills off its &lpar;virtual&rpar; landlords to save players from the cruelty of soaring rent prices](https://www.pcgamer.com/games/city-builder/cities-skylines-2-kills-off-its-virtual-landlords-to-save-players-from-soaring-rent-prices-the-existence-of-which-is-news-to-them)
- - [Donald Glover and Zack Fox’s animated comedy Yoppaman is completely bonkers](https://www.polygon.com/24177768/donald-glover-zack-fox-yoppaman-anime-comedy)<!-- GAME:END -->
+ - [Life Is Strange: Double Exposure Gameplay Reveal Confirms It Will Respect Both The First Game&#39;s Endings](https://kotaku.com/life-is-strange-double-exposure-max-endings-chloe-1851538397)
+ - [Metal Gear Solid Delta&#39;s producer is up for the challenge of reviving one of gaming&#39;s greatest series, and wants fans along for the ride: &#39;Please keep watching, and keep us honest&#39;](https://www.pcgamer.com/games/action/metal-gear-solid-deltas-producer-is-up-for-the-challenge-of-reviving-one-of-gamings-greatest-series-and-wants-fans-along-for-the-ride-please-keep-watching-and-keep-us-honest)
+ - [Metallica is bringing its metal guitar — and a new PvP game mode — to Fortnite Festival](https://www.polygon.com/24177794/metallica-stage-fortnite-festival-new-season)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
