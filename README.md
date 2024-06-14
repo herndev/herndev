@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Snapdragon 695, take three: Qualcomm says its new budget chip isn’t really new](https://www.androidauthority.com/qualcomm-snapdragon-6s-gen-3-not-new-3451623/)
- - [Today&#39;s NYT Strands Hints, Answers, and Help for June 14, #103     - CNET](https://www.cnet.com/tech/gaming/todays-nyt-strands-hint-answer-help/#ftag=CAD590a51e)
- - [The most eagerly anticipated emulator for Android is no more](https://www.androidauthority.com/cassia-app-emulator-cancelled-3451597/)<!-- TECH:END -->
+ - [I Spent a Week Eating Discarded Restaurant Food. But Was It Really Going to Waste?](https://www.wired.com/story/too-good-to-go-app-week-food-waste/)
+ - [As Google Targets Advertisers, It Could Learn a Lot From Bing](https://www.wired.com/story/as-google-ai-overview-targets-advertisers-it-could-learn-a-lot-from-bing/)
+ - [Honor&#39;s Flip Phone Has the World&#39;s Biggest and Brightest Cover Screen     - CNET](https://www.cnet.com/tech/mobile/honors-v-flip-phone-makes-mobile-history-in-more-ways-than-one/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
