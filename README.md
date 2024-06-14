@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Err, is XFX working on swappable GPU fans?](https://www.pcgamer.com/hardware/graphics-cards/err-is-xfx-working-on-swappable-gpu-fans)
  - [Pay no attention to AMD&#39;s horribly misleading benchmarks for its &#39;new&#39; Ryzen 5000 XT CPUs](https://www.pcgamer.com/hardware/processors/pay-no-attention-to-amds-horribly-misleading-benchmarks-for-its-new-ryzen-5000-xt-cpus)
- - [This ChatGPT-powered robot koala bear is giving me serious Five Nights at Freddy&#39;s vibes](https://www.pcgamer.com/hardware/this-chatgpt-powered-robot-koala-bear-is-giving-me-serious-five-nights-at-freddys-vibes)
- - [Retesting Ghost of Tsushima with a fresh Arc A770 shows that Intel has a mountain to climb to compete against AMD and Nvidia](https://www.pcgamer.com/hardware/graphics-cards/retesting-ghost-of-tsushima-with-a-fresh-arc-a770-shows-that-intel-has-a-mountain-to-climb-to-compete-against-amd-and-nvidia)<!-- GAME:END -->
+ - [This ChatGPT-powered robot koala bear is giving me serious Five Nights at Freddy&#39;s vibes](https://www.pcgamer.com/hardware/this-chatgpt-powered-robot-koala-bear-is-giving-me-serious-five-nights-at-freddys-vibes)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
