@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Beautiful](http://9gag.com/gag/ae90vzW)
- - ⏩ [Post your wallpapers here, not a screenshot of your wallpaper.](http://9gag.com/gag/aYQWzNO)
- - 👉 [This site used to be for memes and funny stuff](http://9gag.com/gag/aE0zd5N)<!-- MEMES:END -->
+ - 💣 [Can&#39;t wait to see her](http://9gag.com/gag/a343oy3)
+ - ⏩ [No time to explain, get in the mini-van](http://9gag.com/gag/adBp0pD)
+ - 👉 [This one liar.](http://9gag.com/gag/aByr9z1)<!-- MEMES:END -->
 
 ---
 
