@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Shut up and take my money!](http://9gag.com/gag/aYQwbrx)
- - ⏩ [Just give him some time to come back from store ffs](http://9gag.com/gag/aYQwjgN)
- - 👉 [This site used to be for memes and funny stuff](http://9gag.com/gag/aE0zd5N)<!-- MEMES:END -->
+ - 💣 [Real-time speed of an airplane take off](http://9gag.com/gag/azxVb2p)
+ - ⏩ [Yes I do sex every day](http://9gag.com/gag/avyL0Kn)
+ - 👉 [Tapeworm found during colcolonoscop.](http://9gag.com/gag/aYQW80m)<!-- MEMES:END -->
 
 ---
 
