@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Err, is XFX working on swappable GPU fans?](https://www.pcgamer.com/hardware/graphics-cards/err-is-xfx-working-on-swappable-gpu-fans)
- - [Pay no attention to AMD&#39;s horribly misleading benchmarks for its &#39;new&#39; Ryzen 5000 XT CPUs](https://www.pcgamer.com/hardware/processors/pay-no-attention-to-amds-horribly-misleading-benchmarks-for-its-new-ryzen-5000-xt-cpus)
- - [This ChatGPT-powered robot koala bear is giving me serious Five Nights at Freddy&#39;s vibes](https://www.pcgamer.com/hardware/this-chatgpt-powered-robot-koala-bear-is-giving-me-serious-five-nights-at-freddys-vibes)<!-- GAME:END -->
+ - [Next Week on Xbox: New Games for June 17 to 21](https://news.xbox.com/en-us/2024/06/14/next-week-on-xbox-new-games-for-june-17-to-21/)
+ - [Should You Take The Girl&#39;s Hand In Shin Megami Tensei V: Vengeance?](https://kotaku.com/shin-megami-tensei-v-vengeance-girls-hand-tips-1851540115)
+ - [Qualcomm touts Intel-beating gaming performance for its Snapdragon X Arm chip, promises gaming app plus monthly GPU driver updates](https://www.pcgamer.com/hardware/gaming-laptops/qualcomm-touts-intel-beating-gaming-performance-for-its-snapdragon-x-arm-chip-promises-gaming-app-plus-monthly-gpu-driver-updates)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
