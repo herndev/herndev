@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Amy Winehouse interview backstage at the 2008 BRIT Awards](http://9gag.com/gag/aE01rWN)
- - ⏩ [Tatoo](http://9gag.com/gag/aqy24gZ)
- - 👉 [Sure ya did](http://9gag.com/gag/aGyRK7n)<!-- MEMES:END -->
+ - 💣 [This is me every day!](http://9gag.com/gag/a5QKp1y)
+ - ⏩ [Amy Winehouse interview backstage at the 2008 BRIT Awards](http://9gag.com/gag/aE01rWN)
+ - 👉 [Dont blink...](http://9gag.com/gag/azxV7zj)<!-- MEMES:END -->
 
 ---
 
