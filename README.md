@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Maxis had canceled The Sims in the &#39;90s, but it was saved by an unlikely hero: Electronic Arts](https://www.pcgamer.com/games/the-sims/maxis-had-canceled-the-sims-in-the-90s-but-it-was-saved-by-an-unlikely-hero-electronic-arts)
- - [Dragon Age: The Veilguard can be played entirely offline and won&#39;t have microtransactions: &#39;Our focus is on making this the most complete singleplayer game we possibly can&#39;](https://www.pcgamer.com/games/rpg/dragon-age-the-veilguard-can-be-played-entirely-offline-and-wont-have-microtransactions-our-focus-is-on-making-this-the-most-complete-singleplayer-game-we-possibly-can)
- - [Wizard with a Gun developer Galvanic Games is closing: &#39;Sales are not strong enough to sustain our studio&#39;](https://www.pcgamer.com/games/action/wizard-with-a-gun-developer-galvanic-games-is-closing-sales-are-not-strong-enough-to-sustain-our-studio)<!-- GAME:END -->
+ - [Netflix’s Ultraman: Rising, I Saw the TV Glow, and every movie new to streaming this week](https://www.polygon.com/2024/6/14/24174156/new-movies-i-saw-the-tv-glow-ultraman-rising-netflix-monkey-man)
+ - [As the newly released World of Warcraft was dominating the 2000s, Blizzard&#39;s then-president had his own priorities—working on StarCraft 1 patches](https://www.pcgamer.com/games/rts/as-the-newly-released-world-of-warcraft-was-dominating-the-2000s-blizzards-then-president-had-his-own-prioritiesworking-on-starcraft-1-patches)
+ - [Maxis canceled The Sims in the &#39;90s, but it was saved by an unlikely hero: Electronic Arts](https://www.pcgamer.com/games/the-sims/maxis-had-canceled-the-sims-in-the-90s-but-it-was-saved-by-an-unlikely-hero-electronic-arts)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
