@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [iOS 18 isn&#39;t any more of a cheater&#39;s operating system than Android has been](https://appleinsider.com/articles/24/06/14/ios-18-isnt-any-more-of-a-cheaters-operating-system-than-android-has-been?utm_medium=rss)
- - [The DJI Mini 3 is only $329 right now, its best price yet](https://www.theverge.com/2024/6/14/24178604/dji-mini-3-deal-sale)
- - [Sources: the EU plans to charge Meta under the DMA, focusing on its pay or consent model where users pay a subscription for an ad-free Facebook and Instagram &lpar;Foo Yun Chee/Reuters&rpar;](http://www.techmeme.com/240614/p10#a240614p10)<!-- TECH:END -->
+ - [HMD leak reveals Nokia Lumia-inspired Skyline and other upcoming models](https://www.androidauthority.com/hmd-leak-reveals-skyline-and-others-3451835/)
+ - [Apple and Meta could face charges for violating EU tech rules](https://www.theverge.com/2024/6/14/24178724/apple-meta-eu-charges-dma)
+ - [What happened to Safari Web Eraser -- the controversy, and what it looked like](https://appleinsider.com/articles/24/06/14/what-happened-to-safari-web-eraser----the-controversy-and-what-it-looked-like?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
