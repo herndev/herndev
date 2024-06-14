@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Best &lpar;And Worst&rpar; Dads And Daddies In Video Games](https://kotaku.com/fathers-day-video-game-dads-daddies-joel-kratos-bowser-1851541054)
- - [How to get ready for the Elden Ring Shadow of the Erdtree DLC](https://www.pcgamer.com/games/rpg/elden-ring-how-to-start-shadow-of-the-erdtree-dlc)
- - [XDefiant Devs Say Any Ubisoft Game Could End Up In The FPS](https://kotaku.com/xdefiant-factions-just-dance-cleaners-dedsec-interview-1851540972)<!-- GAME:END -->
+ - [Destiny 2 Should Do More Quests Like Dual Destiny, Not Less](https://kotaku.com/destiny-2-dual-destiny-exotic-quest-1851541225)
+ - [Skyrim player killing Nazeem every single day until The Elder Scrolls 6 is released has now done it 1,000 times, celebrates with a Nazeem-only battle royale](https://www.pcgamer.com/games/rpg/skyrim-player-killing-nazeem-every-day-until-the-elder-scrolls-6-is-released-has-now-done-it-1000-times-celebrates-with-a-nazeem-only-battle-royale)
+ - [Cover story: Shadow of the Erdtree is the culmination of decades of FromSoftware RPGs, and a gargantuan finale for Elden Ring](https://www.pcgamer.com/games/rpg/shadow-of-the-erdtree-miyazaki-interview-cover-story-preview)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
