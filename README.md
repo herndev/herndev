@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [A kind gesture - The way these Italian officers faces light up when they receive a photo](http://9gag.com/gag/abAbXnp)
- - ⏩ [No time to explain, get in the mini-van](http://9gag.com/gag/adBp0pD)
- - 👉 [This one liar.](http://9gag.com/gag/aByr9z1)<!-- MEMES:END -->
+ - 💣 [Beautiful](http://9gag.com/gag/ae90vzW)
+ - ⏩ [This guy enjoying sex](http://9gag.com/gag/a87jLw6)
+ - 👉 [Post your wallpapers here, not a screenshot of your wallpaper.](http://9gag.com/gag/aYQWzNO)<!-- MEMES:END -->
 
 ---
 
