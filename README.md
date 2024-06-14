@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Crazy](http://9gag.com/gag/adBp0NV)
- - ⏩ [This must hurt](http://9gag.com/gag/aAypROL)
- - 👉 [This site used to be for memes and funny stuff](http://9gag.com/gag/aE0zd5N)<!-- MEMES:END -->
+ - 💣 [277](http://9gag.com/gag/aMVQ1qA)
+ - ⏩ [Just give him some time to come back from store ffs](http://9gag.com/gag/aYQwjgN)
+ - 👉 [Tapeworm found during colcolonoscop.](http://9gag.com/gag/aYQW80m)<!-- MEMES:END -->
 
 ---
 
