@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [HomeKit now lets you manually set what device is your Home Hub in iOS 18](https://appleinsider.com/articles/24/06/14/homekit-now-lets-you-manually-set-what-device-is-your-home-hub-in-ios-18?utm_medium=rss)
- - [Sources: Lightspeed wants to become a registered investment adviser, letting it use more than 20% of its funds, the cap for VC firms, to trade secondary markets &lpar;Tabby Kinder/Financial Times&rpar;](http://www.techmeme.com/240614/p3#a240614p3)
- - [The Indie Horror Game That Launched a Surprising Queer Hopepunk Revolution](https://www.wired.com/story/signalis-queer-fandom-revolution/)<!-- TECH:END -->
+ - [No Matter How You Package It, Apple Intelligence Is AI](https://www.wired.com/story/plaintext-apple-intelligence-is-ai/)
+ - [Don’t expect overhauled Alexa soon as Amazon reportedly struggles with generative AI](https://www.androidauthority.com/conversational-alexa-upgrade-delay-3451702/)
+ - [I’m a New Homeowner, and Here’s How to BYO Smart Home](https://www.wired.com/story/you-should-byo-smart-home-rant/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
