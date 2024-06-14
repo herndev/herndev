@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle answer for Friday, June 14](https://www.pcgamer.com/games/puzzle/wordle-answer-today-june-14-2024)
  - [Hatsune Miku is returning to Magic: The Gathering for a second bite of the pie](https://www.pcgamer.com/games/card-games/hatsune-miku-is-returning-to-magic-the-gathering-for-a-second-bite-of-the-pie)
- - [The studio that made one of the first MMOs just announced a new one after 27 years](https://www.pcgamer.com/games/mmo/persist-online-announcement)
- - [Senior Riot devs say the League of Legends playerbase is getting older, with fewer newbies jumping in: &#39;Candidly, it&#39;s not the same situation it was 10 years ago&#39;](https://www.pcgamer.com/games/moba/senior-riot-devs-say-the-league-of-legends-playerbase-is-getting-older-with-fewer-newbies-jumping-in-candidly-its-not-the-same-situation-it-was-10-years-ago)<!-- GAME:END -->
+ - [The studio that made one of the first MMOs just announced a new one after 27 years](https://www.pcgamer.com/games/mmo/persist-online-announcement)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
