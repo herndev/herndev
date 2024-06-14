@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Just give him some time to come back from store ffs](http://9gag.com/gag/aYQwjgN)
- - ⏩ [Sure ya did](http://9gag.com/gag/aGyRK7n)
- - 👉 [No words necessary](http://9gag.com/gag/aryRpzd)<!-- MEMES:END -->
+ - 💣 [No words necessary](http://9gag.com/gag/aryRpzd)
+ - ⏩ [We &lpar;should&rpar; post memes here, sir](http://9gag.com/gag/ae90ooW)
+ - 👉 [Black Myth Wukong devs refuse to pay 7m$ to Sweet Baby Inc, so iGN start writing hit piece about the developers](http://9gag.com/gag/an7BXgL)<!-- MEMES:END -->
 
 ---
 
