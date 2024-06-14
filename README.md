@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Luma debuts Dream Machine, an AI model to generate high-quality videos from text and images, and plans to release APIs and plugins for popular creative software &lpar;Michael Nu&amp;ntilde;ez/VentureBeat&rpar;](http://www.techmeme.com/240613/p38#a240613p38)
  - [US hospital operator Ascension says a May ransomware attack was caused by an employee downloading a malicious file, and has no proof data was taken from its EHR &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/240613/p37#a240613p37)
- - [A UK judge lays out how Greek payments company Viva Wallet should be valued, ending a legal battle between its CEO and part-owner JPMorgan &lpar;Owen Walker/Financial Times&rpar;](http://www.techmeme.com/240613/p36#a240613p36)
- - [Filing: Clearview AI proposes to settle a class action suit by collectively giving a 23% company stake worth ~$52M to Americans whose faces are in its database &lpar;Kashmir Hill/New York Times&rpar;](http://www.techmeme.com/240613/p35#a240613p35)<!-- TECH:END -->
+ - [A UK judge lays out how Greek payments company Viva Wallet should be valued, ending a legal battle between its CEO and part-owner JPMorgan &lpar;Owen Walker/Financial Times&rpar;](http://www.techmeme.com/240613/p36#a240613p36)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
