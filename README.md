@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Microsoft president grovels before Congress, takes responsibility for a &#39;cascade&#39; of cybersecurity errors](https://www.pcgamer.com/software/operating-systems/microsoft-president-grovels-before-congress-takes-responsibility-for-a-cascade-of-cybersecurity-errors)
- - [While other companies do expensive crossovers with Fortnite, Renault&#39;s been modding its little electric car into Garry&#39;s Mod, Palworld and Stardew Valley—and the mods actually look good](https://www.pcgamer.com/gaming-industry/game-development/while-other-companies-do-expensive-crossovers-with-fortnite-renaults-been-modding-its-little-electric-car-into-garrys-mod-palworld-and-stardew-valleyand-the-mods-actually-look-good)
- - [Here Are The 10 Most Played Steam Next Fest Demos](https://kotaku.com/steam-next-fest-june-2024-10-most-played-demos-1851540448)<!-- GAME:END -->
+ - [Single and Multiplayer Modes in Magical Drop VI – Out now on Xbox](https://news.xbox.com/en-us/2024/06/14/magical-drop-vi-out-now-on-xbox/)
+ - [All new Exotics in Destiny 2: The Final Shape](https://www.polygon.com/destiny-2-guide-walkthrough/24167097/final-shape-exotic-weapon-armor-list)
+ - [10 Tips For Shin Megami Tensei V: Vengeance Beginners](https://kotaku.com/shin-megami-tensei-v-vengeance-tips-beginners-1851540628)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
