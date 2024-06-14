@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The HONOR Magic V Flip brings a gorgeous design and super competitive price](https://www.androidauthority.com/honor-magic-v-flip-launch-3451570/)
- - [Apple says it doesn&#39;t use users&#39; private data or user interactions to train its models, and uses both licensed materials and publicly available online data &lpar;Umar Shakir/The Verge&rpar;](http://www.techmeme.com/240613/p40#a240613p40)
- - [A look at Apple&#39;s technical approach to AI, including core model performance, alignment strategies, and adapter and on-device strategy &lpar;Nathan Lambert/Interconnects&rpar;](http://www.techmeme.com/240613/p39#a240613p39)<!-- TECH:END -->
+ - [Not a Total Recall, but Microsoft is pumping the brakes on its Recall feature](https://www.androidauthority.com/microsoft-recall-feature-delay-release-3451595/)
+ - [YouTube testing upcoming features: AI live chat summaries, Google Lens search, and more](https://www.androidauthority.com/youtube-tests-ai-live-chats-google-lens-search-channel-qr-code-3451591/)
+ - [The HONOR Magic V Flip brings a gorgeous design and super competitive price](https://www.androidauthority.com/honor-magic-v-flip-launch-3451570/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
