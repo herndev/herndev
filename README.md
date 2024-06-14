@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Amy Winehouse interview backstage at the 2008 BRIT Awards](http://9gag.com/gag/aE01rWN)
- - ⏩ [Beautiful](http://9gag.com/gag/ae90vzW)
- - 👉 [This site used to be for memes and funny stuff](http://9gag.com/gag/aE0zd5N)<!-- MEMES:END -->
+ - 💣 [`I need your clothes, your boots, and your insurance information. I&#39;ll be back`.](http://9gag.com/gag/aAyroMd)
+ - ⏩ [This guy enjoying sex](http://9gag.com/gag/a87jLw6)
+ - 👉 [Beautiful](http://9gag.com/gag/ae90vzW)<!-- MEMES:END -->
 
 ---
 
