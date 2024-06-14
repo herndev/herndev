@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [277](http://9gag.com/gag/aMVQ1qA)
- - ⏩ [Just give him some time to come back from store ffs](http://9gag.com/gag/aYQwjgN)
- - 👉 [Tapeworm found during colcolonoscop.](http://9gag.com/gag/aYQW80m)<!-- MEMES:END -->
+ - 💣 [When you see The acolyte](http://9gag.com/gag/aoyjzRn)
+ - ⏩ [Who cares... I mean.](http://9gag.com/gag/awy7rNy)
+ - 👉 [You can read the comic, there&#39;s only 70++ issue &amp; way better than the tv series](http://9gag.com/gag/aPAGv8Q)<!-- MEMES:END -->
 
 ---
 
