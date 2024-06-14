@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [When you see The acolyte](http://9gag.com/gag/aoyjzRn)
- - ⏩ [Brave people of Scotland](http://9gag.com/gag/aLnBKxx)
- - 👉 [You can read the comic, there&#39;s only 70++ issue &amp; way better than the tv series](http://9gag.com/gag/aPAGv8Q)<!-- MEMES:END -->
+ - 💣 [Sure ya did](http://9gag.com/gag/aGyRK7n)
+ - ⏩ [Shut up and take my money!](http://9gag.com/gag/aYQwbrx)
+ - 👉 [No words necessary](http://9gag.com/gag/aryRpzd)<!-- MEMES:END -->
 
 ---
 
