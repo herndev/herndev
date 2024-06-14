@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Indiana Jones and the Great Circle: New Details Revealed on the Official Xbox Podcast](https://news.xbox.com/en-us/2024/06/14/indiana-jones-and-the-great-circle-details/)
- - [Rogier’s questline walkthrough and steps in Elden Ring](https://www.polygon.com/elden-ring-guide-walkthrough/24178528/rogier-questline-steps-spellblade-set)
- - [Bill Gates has written a book about his childhood called, you guessed it, Source Code](https://www.pcgamer.com/gaming-industry/bill-gates-has-written-a-book-about-his-childhood-called-you-guessed-it-source-code)<!-- GAME:END -->
+ - [The Best &lpar;And Worst&rpar; Dads And Daddies In Video Games](https://kotaku.com/fathers-day-video-game-dads-daddies-joel-kratos-bowser-1851541054)
+ - [How to get ready for the Elden Ring Shadow of the Erdtree DLC](https://www.pcgamer.com/games/rpg/elden-ring-how-to-start-shadow-of-the-erdtree-dlc)
+ - [XDefiant Devs Say Any Ubisoft Game Could End Up In The FPS](https://kotaku.com/xdefiant-factions-just-dance-cleaners-dedsec-interview-1851540972)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
