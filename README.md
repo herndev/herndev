@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [US hospital operator Ascension says a May ransomware attack was caused by an employee downloading a malicious file, and has no proof data was taken from its EHR &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/240613/p37#a240613p37)
  - [A UK judge lays out how Greek payments company Viva Wallet should be valued, ending a legal battle between its CEO and part-owner JPMorgan &lpar;Owen Walker/Financial Times&rpar;](http://www.techmeme.com/240613/p36#a240613p36)
- - [Filing: Clearview AI proposes to settle a class action suit by collectively giving a 23% company stake worth ~$52M to Americans whose faces are in its database &lpar;Kashmir Hill/New York Times&rpar;](http://www.techmeme.com/240613/p35#a240613p35)
- - [Microsoft delays Recall to test it with the Windows Insider Program and won&#39;t ship it with Copilot+ PCs next week, after saying it would make the feature opt-in &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/240613/p34#a240613p34)<!-- TECH:END -->
+ - [Filing: Clearview AI proposes to settle a class action suit by collectively giving a 23% company stake worth ~$52M to Americans whose faces are in its database &lpar;Kashmir Hill/New York Times&rpar;](http://www.techmeme.com/240613/p35#a240613p35)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
