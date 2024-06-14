@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Sure ya did](http://9gag.com/gag/aGyRK7n)
- - ⏩ [Shut up and take my money!](http://9gag.com/gag/aYQwbrx)
+ - 💣 [Just give him some time to come back from store ffs](http://9gag.com/gag/aYQwjgN)
+ - ⏩ [Sure ya did](http://9gag.com/gag/aGyRK7n)
  - 👉 [No words necessary](http://9gag.com/gag/aryRpzd)<!-- MEMES:END -->
 
 ---
