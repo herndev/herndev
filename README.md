@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [HMD leak reveals Nokia Lumia-inspired Skyline and other upcoming models](https://www.androidauthority.com/hmd-leak-reveals-skyline-and-others-3451835/)
- - [Apple and Meta could face charges for violating EU tech rules](https://www.theverge.com/2024/6/14/24178724/apple-meta-eu-charges-dma)
- - [What happened to Safari Web Eraser -- the controversy, and what it looked like](https://appleinsider.com/articles/24/06/14/what-happened-to-safari-web-eraser----the-controversy-and-what-it-looked-like?utm_medium=rss)<!-- TECH:END -->
+ - [Save up to $180 on Sonos speakers with weekend deals at Best Buy](https://appleinsider.com/articles/24/06/14/save-up-to-180-on-sonos-speakers-with-weekend-deals-at-best-buy?utm_medium=rss)
+ - [Tim Cook may have met with Trump during WWDC to discuss second term priorities](https://appleinsider.com/articles/24/06/14/tim-cook-may-have-met-with-trump-during-wwdc-to-discuss-second-term-priorities?utm_medium=rss)
+ - [How Asus is overhauling its customer support after Gamers Nexus investigation](https://www.theverge.com/2024/6/14/24178785/asus-customer-support-gamers-nexus)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
