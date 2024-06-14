@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Destiny 2 Should Do More Quests Like Dual Destiny, Not Less](https://kotaku.com/destiny-2-dual-destiny-exotic-quest-1851541225)
- - [Skyrim player killing Nazeem every single day until The Elder Scrolls 6 is released has now done it 1,000 times, celebrates with a Nazeem-only battle royale](https://www.pcgamer.com/games/rpg/skyrim-player-killing-nazeem-every-day-until-the-elder-scrolls-6-is-released-has-now-done-it-1000-times-celebrates-with-a-nazeem-only-battle-royale)
- - [Cover story: Shadow of the Erdtree is the culmination of decades of FromSoftware RPGs, and a gargantuan finale for Elden Ring](https://www.pcgamer.com/games/rpg/shadow-of-the-erdtree-miyazaki-interview-cover-story-preview)<!-- GAME:END -->
+ - [Studio Ponoc’s The Imaginary may be the closest we get to a Calvin and Hobbes movie](https://www.polygon.com/anime/24178688/the-imaginary-review-studio-ponoc)
+ - [I asked Dark Souls director Miyazaki about his now-legendary Undead Dragon quote, and he had a great response: &#39;Something beautiful needs something depraved or tragic to embolden that beauty&#39;](https://www.pcgamer.com/games/rpg/i-asked-dark-souls-director-hidetaka-miyazaki-about-his-now-legendary-undead-dragon-quote-and-he-had-a-great-response-something-beautiful-needs-something-depraved-or-tragic-to-embolden-that-beauty)
+ - [Woman Caught Smuggling 350 Nintendo Switch Games In Her Bra](https://kotaku.com/nintendo-switch-smuggling-bra-china-350-games-hong-kong-1851541203)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
