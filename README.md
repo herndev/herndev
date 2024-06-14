@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Retesting Ghost of Tsushima with a fresh Arc A770 shows that Intel has a mountain to climb to compete against AMD and Nvidia](https://www.pcgamer.com/hardware/graphics-cards/retesting-ghost-of-tsushima-with-a-fresh-arc-a770-shows-that-intel-has-a-mountain-to-climb-to-compete-against-amd-and-nvidia)
- - [Today&#39;s Wordle answer for Friday, June 14](https://www.pcgamer.com/games/puzzle/wordle-answer-today-june-14-2024)
- - [Hatsune Miku is returning to Magic: The Gathering for a second bite of the pie](https://www.pcgamer.com/games/card-games/hatsune-miku-is-returning-to-magic-the-gathering-for-a-second-bite-of-the-pie)<!-- GAME:END -->
+ - [Pay no attention to AMD&#39;s horribly misleading benchmarks for its &#39;new&#39; Ryzen 5000 XT CPUs](https://www.pcgamer.com/hardware/processors/pay-no-attention-to-amds-horribly-misleading-benchmarks-for-its-new-ryzen-5000-xt-cpus)
+ - [This ChatGPT-powered robot koala bear is giving me serious Five Nights at Freddy&#39;s vibes](https://www.pcgamer.com/hardware/this-chatgpt-powered-robot-koala-bear-is-giving-me-serious-five-nights-at-freddys-vibes)
+ - [Retesting Ghost of Tsushima with a fresh Arc A770 shows that Intel has a mountain to climb to compete against AMD and Nvidia](https://www.pcgamer.com/hardware/graphics-cards/retesting-ghost-of-tsushima-with-a-fresh-arc-a770-shows-that-intel-has-a-mountain-to-climb-to-compete-against-amd-and-nvidia)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
