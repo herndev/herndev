@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Next Week on Xbox: New Games for June 17 to 21](https://news.xbox.com/en-us/2024/06/14/next-week-on-xbox-new-games-for-june-17-to-21/)
- - [Should You Take The Girl&#39;s Hand In Shin Megami Tensei V: Vengeance?](https://kotaku.com/shin-megami-tensei-v-vengeance-girls-hand-tips-1851540115)
- - [Qualcomm touts Intel-beating gaming performance for its Snapdragon X Arm chip, promises gaming app plus monthly GPU driver updates](https://www.pcgamer.com/hardware/gaming-laptops/qualcomm-touts-intel-beating-gaming-performance-for-its-snapdragon-x-arm-chip-promises-gaming-app-plus-monthly-gpu-driver-updates)<!-- GAME:END -->
+ - [How to prepare for Elden Ring’s Shadow of the Erdtree DLC](https://www.polygon.com/elden-ring-shadow-erdtree-guide/24126482/how-to-prepare-dlc-gear-quests-endgame)
+ - [Haligtree Secret Medallion left and right locations in Elden Ring](https://www.polygon.com/elden-ring-guide-walkthrough/24170722/haligtree-secret-medallion-locations-left-right-how-to-use)
+ - [Malenia location, weakness, and how to beat in Elden Ring](https://www.polygon.com/elden-ring-guide-walkthrough/24176307/malenia-location-weakness-strategy-how-to-beat)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
