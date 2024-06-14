@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [No Matter How You Package It, Apple Intelligence Is AI](https://www.wired.com/story/plaintext-apple-intelligence-is-ai/)
- - [Don’t expect overhauled Alexa soon as Amazon reportedly struggles with generative AI](https://www.androidauthority.com/conversational-alexa-upgrade-delay-3451702/)
- - [I’m a New Homeowner, and Here’s How to BYO Smart Home](https://www.wired.com/story/you-should-byo-smart-home-rant/)<!-- TECH:END -->
+ - [Picsart teams up with Getty Images to offer “commerically safe” AI-generated art](https://www.androidauthority.com/picsart-getty-commercial-ai-images-3451746/)
+ - [Best DNA Test for 2024     - CNET](https://www.cnet.com/health/medical/best-dna-test/#ftag=CAD590a51e)
+ - [Freeform in iOS 18 is enormously easier to work inside and navigate](https://appleinsider.com/articles/24/06/14/freeform-in-ios-18-is-enormously-easier-to-work-inside-and-navigate?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
