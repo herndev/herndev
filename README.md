@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Studio Ponoc’s The Imaginary may be the closest we get to a Calvin and Hobbes movie](https://www.polygon.com/anime/24178688/the-imaginary-review-studio-ponoc)
- - [I asked Dark Souls director Miyazaki about his now-legendary Undead Dragon quote, and he had a great response: &#39;Something beautiful needs something depraved or tragic to embolden that beauty&#39;](https://www.pcgamer.com/games/rpg/i-asked-dark-souls-director-hidetaka-miyazaki-about-his-now-legendary-undead-dragon-quote-and-he-had-a-great-response-something-beautiful-needs-something-depraved-or-tragic-to-embolden-that-beauty)
- - [Woman Caught Smuggling 350 Nintendo Switch Games In Her Bra](https://kotaku.com/nintendo-switch-smuggling-bra-china-350-games-hong-kong-1851541203)<!-- GAME:END -->
+ - [Maxis had canceled The Sims in the &#39;90s, but it was saved by an unlikely hero: Electronic Arts](https://www.pcgamer.com/games/the-sims/maxis-had-canceled-the-sims-in-the-90s-but-it-was-saved-by-an-unlikely-hero-electronic-arts)
+ - [Dragon Age: The Veilguard can be played entirely offline and won&#39;t have microtransactions: &#39;Our focus is on making this the most complete singleplayer game we possibly can&#39;](https://www.pcgamer.com/games/rpg/dragon-age-the-veilguard-can-be-played-entirely-offline-and-wont-have-microtransactions-our-focus-is-on-making-this-the-most-complete-singleplayer-game-we-possibly-can)
+ - [Wizard with a Gun developer Galvanic Games is closing: &#39;Sales are not strong enough to sustain our studio&#39;](https://www.pcgamer.com/games/action/wizard-with-a-gun-developer-galvanic-games-is-closing-sales-are-not-strong-enough-to-sustain-our-studio)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
