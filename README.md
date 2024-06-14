@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This is me every day!](http://9gag.com/gag/a5QKp1y)
- - ⏩ [Amy Winehouse interview backstage at the 2008 BRIT Awards](http://9gag.com/gag/aE01rWN)
- - 👉 [Dont blink...](http://9gag.com/gag/azxV7zj)<!-- MEMES:END -->
+ - 💣 [Crazy](http://9gag.com/gag/adBp0NV)
+ - ⏩ [Such kindest in the reply! \u201cSo close!\u201d](http://9gag.com/gag/aQz4wXK)
+ - 👉 [Post your wallpapers here, not a screenshot of your wallpaper.](http://9gag.com/gag/aYQWzNO)<!-- MEMES:END -->
 
 ---
 
