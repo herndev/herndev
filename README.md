@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Single and Multiplayer Modes in Magical Drop VI – Out now on Xbox](https://news.xbox.com/en-us/2024/06/14/magical-drop-vi-out-now-on-xbox/)
- - [All new Exotics in Destiny 2: The Final Shape](https://www.polygon.com/destiny-2-guide-walkthrough/24167097/final-shape-exotic-weapon-armor-list)
- - [10 Tips For Shin Megami Tensei V: Vengeance Beginners](https://kotaku.com/shin-megami-tensei-v-vengeance-tips-beginners-1851540628)<!-- GAME:END -->
+ - [Indiana Jones and the Great Circle: New Details Revealed on the Official Xbox Podcast](https://news.xbox.com/en-us/2024/06/14/indiana-jones-and-the-great-circle-details/)
+ - [Rogier’s questline walkthrough and steps in Elden Ring](https://www.polygon.com/elden-ring-guide-walkthrough/24178528/rogier-questline-steps-spellblade-set)
+ - [Bill Gates has written a book about his childhood called, you guessed it, Source Code](https://www.pcgamer.com/gaming-industry/bill-gates-has-written-a-book-about-his-childhood-called-you-guessed-it-source-code)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
