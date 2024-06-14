@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The most eagerly anticipated emulator for Android is no more](https://www.androidauthority.com/cassia-app-emulator-cancelled-3451597/)
- - [YouTube is breaking ad blockers again, and trials a viewing limitation &lpar;Update: Google statement&rpar;](https://www.androidauthority.com/youtube-server-side-ads-3451248/)
- - [This Samsung Galaxy Z Fold 6 dummy unit gives us a much better look at the design](https://www.androidauthority.com/samsung-galaxy-z-fold-6-dummy-unit-leak-3451603/)<!-- TECH:END -->
+ - [Snapdragon 695, take three: Qualcomm says its new budget chip isn’t really new](https://www.androidauthority.com/qualcomm-snapdragon-6s-gen-3-not-new-3451623/)
+ - [Today&#39;s NYT Strands Hints, Answers, and Help for June 14, #103     - CNET](https://www.cnet.com/tech/gaming/todays-nyt-strands-hint-answer-help/#ftag=CAD590a51e)
+ - [The most eagerly anticipated emulator for Android is no more](https://www.androidauthority.com/cassia-app-emulator-cancelled-3451597/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
