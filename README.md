@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [I Spent a Week Eating Discarded Restaurant Food. But Was It Really Going to Waste?](https://www.wired.com/story/too-good-to-go-app-week-food-waste/)
- - [As Google Targets Advertisers, It Could Learn a Lot From Bing](https://www.wired.com/story/as-google-ai-overview-targets-advertisers-it-could-learn-a-lot-from-bing/)
- - [Honor&#39;s Flip Phone Has the World&#39;s Biggest and Brightest Cover Screen     - CNET](https://www.cnet.com/tech/mobile/honors-v-flip-phone-makes-mobile-history-in-more-ways-than-one/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The best new streaming shows this week: Bridgerton, The Boys, and more](https://www.androidauthority.com/best-new-tv-shows-to-stream-this-week-3084538/)
+ - [Jon Stewart reveals the moment thing went bad with Apple](https://appleinsider.com/articles/24/06/14/jon-stewart-reveals-the-moment-thing-went-bad-with-apple?utm_medium=rss)
+ - [Boulder, Colorado-based Enveda, which combines AI with ancient remedies for drug discovery, raised a $55M Series B extension from investors including Microsoft &lpar;Marina Temkin/TechCrunch&rpar;](http://www.techmeme.com/240614/p2#a240614p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
