@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Retesting Ghost of Tsushima with a fresh Arc A770 shows that Intel has a mountain to climb to compete against AMD and Nvidia](https://www.pcgamer.com/hardware/graphics-cards/retesting-ghost-of-tsushima-with-a-fresh-arc-a770-shows-that-intel-has-a-mountain-to-climb-to-compete-against-amd-and-nvidia)
  - [Today&#39;s Wordle answer for Friday, June 14](https://www.pcgamer.com/games/puzzle/wordle-answer-today-june-14-2024)
- - [Hatsune Miku is returning to Magic: The Gathering for a second bite of the pie](https://www.pcgamer.com/games/card-games/hatsune-miku-is-returning-to-magic-the-gathering-for-a-second-bite-of-the-pie)
- - [The studio that made one of the first MMOs just announced a new one after 27 years](https://www.pcgamer.com/games/mmo/persist-online-announcement)<!-- GAME:END -->
+ - [Hatsune Miku is returning to Magic: The Gathering for a second bite of the pie](https://www.pcgamer.com/games/card-games/hatsune-miku-is-returning-to-magic-the-gathering-for-a-second-bite-of-the-pie)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
