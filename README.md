@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Not a Total Recall, but Microsoft is pumping the brakes on its Recall feature](https://www.androidauthority.com/microsoft-recall-feature-delay-release-3451595/)
- - [YouTube testing upcoming features: AI live chat summaries, Google Lens search, and more](https://www.androidauthority.com/youtube-tests-ai-live-chats-google-lens-search-channel-qr-code-3451591/)
- - [The HONOR Magic V Flip brings a gorgeous design and super competitive price](https://www.androidauthority.com/honor-magic-v-flip-launch-3451570/)<!-- TECH:END -->
+ - [The most eagerly anticipated emulator for Android is no more](https://www.androidauthority.com/cassia-app-emulator-cancelled-3451597/)
+ - [YouTube is breaking ad blockers again, and trials a viewing limitation &lpar;Update: Google statement&rpar;](https://www.androidauthority.com/youtube-server-side-ads-3451248/)
+ - [This Samsung Galaxy Z Fold 6 dummy unit gives us a much better look at the design](https://www.androidauthority.com/samsung-galaxy-z-fold-6-dummy-unit-leak-3451603/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
