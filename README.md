@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I love this game!](http://9gag.com/gag/a7obL3b)
- - ⏩ [Tatoo](http://9gag.com/gag/aqy24gZ)
- - 👉 [Indeed it is...](http://9gag.com/gag/aNDZxq6)<!-- MEMES:END -->
+ - 💣 [Beautiful](http://9gag.com/gag/ae90vzW)
+ - ⏩ [Post your wallpapers here, not a screenshot of your wallpaper.](http://9gag.com/gag/aYQWzNO)
+ - 👉 [This site used to be for memes and funny stuff](http://9gag.com/gag/aE0zd5N)<!-- MEMES:END -->
 
 ---
 
