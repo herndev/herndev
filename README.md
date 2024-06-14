@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Real-time speed of an airplane take off](http://9gag.com/gag/azxVb2p)
- - ⏩ [Yes I do sex every day](http://9gag.com/gag/avyL0Kn)
- - 👉 [Tapeworm found during colcolonoscop.](http://9gag.com/gag/aYQW80m)<!-- MEMES:END -->
+ - 💣 [When you see The acolyte](http://9gag.com/gag/aoyjzRn)
+ - ⏩ [Brave people of Scotland](http://9gag.com/gag/aLnBKxx)
+ - 👉 [You can read the comic, there&#39;s only 70++ issue &amp; way better than the tv series](http://9gag.com/gag/aPAGv8Q)<!-- MEMES:END -->
 
 ---
 
