@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Former head of NSA joins OpenAI board](https://www.theverge.com/2024/6/13/24178079/openai-board-paul-nakasone-nsa-safety)
- - [Paradigm says it raised $850M for its third fund, which will focus on early-stage crypto projects; it previously launched a $2.5B crypto fund in November 2021 &lpar;Olga Kharif/Bloomberg&rpar;](http://www.techmeme.com/240613/p30#a240613p30)
- - [Feds arrest Adderall telehealth CEO under Controlled Substances Act](https://www.theverge.com/2024/6/13/24178049/done-adhd-telehealth-controlled-substances-act-doj-fraud)<!-- TECH:END -->
+ - [Microsoft’s all-knowing Recall AI feature is being delayed](https://www.theverge.com/2024/6/13/24178144/microsoft-windows-ai-recall-feature-delay)
+ - [Sources: Stanford Internet Observatory is winding down after five years and won&#39;t conduct research into any future elections; Stanford may retain SIO&#39;s branding &lpar;Platformer&rpar;](http://www.techmeme.com/240613/p32#a240613p32)
+ - [Brad Smith tells a US House committee that Microsoft &quot;accepts responsibility&quot; for security errors, its business in China served US interests, and more &lpar;Joseph Menn/Washington Post&rpar;](http://www.techmeme.com/240613/p31#a240613p31)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
