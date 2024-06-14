@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [When you see The acolyte](http://9gag.com/gag/aoyjzRn)
- - ⏩ [Who cares... I mean.](http://9gag.com/gag/awy7rNy)
- - 👉 [You can read the comic, there&#39;s only 70++ issue &amp; way better than the tv series](http://9gag.com/gag/aPAGv8Q)<!-- MEMES:END -->
+ - 💣 [Shut up and take my money!](http://9gag.com/gag/aYQwbrx)
+ - ⏩ [Just give him some time to come back from store ffs](http://9gag.com/gag/aYQwjgN)
+ - 👉 [This site used to be for memes and funny stuff](http://9gag.com/gag/aE0zd5N)<!-- MEMES:END -->
 
 ---
 
