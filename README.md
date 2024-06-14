@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Sure ya did](http://9gag.com/gag/aGyRK7n)
- - ⏩ [No words necessary](http://9gag.com/gag/aryRpzd)
- - 👉 [You can read the comic, there&#39;s only 70++ issue &amp; way better than the tv series](http://9gag.com/gag/aPAGv8Q)<!-- MEMES:END -->
+ - 💣 [You can read the comic, there&#39;s only 70++ issue &amp; way better than the tv series](http://9gag.com/gag/aPAGv8Q)
+ - ⏩ [Splash](http://9gag.com/gag/aGyRVm7)
+ - 👉 [Just give him some time to come back from store ffs](http://9gag.com/gag/aYQwjgN)<!-- MEMES:END -->
 
 ---
 
