@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft’s all-knowing Recall AI feature is being delayed](https://www.theverge.com/2024/6/13/24178144/microsoft-windows-ai-recall-feature-delay)
- - [Sources: Stanford Internet Observatory is winding down after five years and won&#39;t conduct research into any future elections; Stanford may retain SIO&#39;s branding &lpar;Platformer&rpar;](http://www.techmeme.com/240613/p32#a240613p32)
- - [Brad Smith tells a US House committee that Microsoft &quot;accepts responsibility&quot; for security errors, its business in China served US interests, and more &lpar;Joseph Menn/Washington Post&rpar;](http://www.techmeme.com/240613/p31#a240613p31)<!-- TECH:END -->
+ - [A UK judge lays out how Greek payments company Viva Wallet should be valued, ending a legal battle between its CEO and part-owner JPMorgan &lpar;Owen Walker/Financial Times&rpar;](http://www.techmeme.com/240613/p36#a240613p36)
+ - [Filing: Clearview AI proposes to settle a class action suit by collectively giving a 23% company stake worth ~$52M to Americans whose faces are in its database &lpar;Kashmir Hill/New York Times&rpar;](http://www.techmeme.com/240613/p35#a240613p35)
+ - [Microsoft delays Recall to test it with the Windows Insider Program and won&#39;t ship it with Copilot+ PCs next week, after saying it would make the feature opt-in &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/240613/p34#a240613p34)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
