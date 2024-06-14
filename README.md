@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sonos draws more customer anger — this time for its privacy policy](https://www.theverge.com/2024/6/14/24178433/sonos-privacy-policy-customer-data-controversy)
- - [Let’s speculate wildly about Tesla’s three mystery vehicles](https://www.theverge.com/2024/6/14/24178404/tesla-vehicles-robotaxi-van-model-2-shareholder-shrouded)
- - [Sources: Shein tries to suppress its chair&#39;s claim that the retailer is American, amid fears it could annoy China, which needs to approve Shein&#39;s London IPO &lpar;Financial Times&rpar;](http://www.techmeme.com/240614/p5#a240614p5)<!-- TECH:END -->
+ - [Save up to $180 on Sonos speakers with weekend deals at Best Buy](https://appleinsider.com/articles/24/06/14/save-up-to-180-on-sonos-speakers-with-weekend-deals-at-best-buy?utm_medium=rss)
+ - [Sources: the EU has determined that Apple&#39;s anti-steering rules for developers do not comply with the DMA, and plans charges against Apple in the coming weeks &lpar;Financial Times&rpar;](http://www.techmeme.com/240614/p7#a240614p7)
+ - [Google rolls out VPN by Google, extends feature to the Pixel 7 and later](https://www.androidauthority.com/vpn-by-google-rollout-3451759/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
