@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How to prepare for Elden Ring’s Shadow of the Erdtree DLC](https://www.polygon.com/elden-ring-shadow-erdtree-guide/24126482/how-to-prepare-dlc-gear-quests-endgame)
- - [Haligtree Secret Medallion left and right locations in Elden Ring](https://www.polygon.com/elden-ring-guide-walkthrough/24170722/haligtree-secret-medallion-locations-left-right-how-to-use)
- - [Malenia location, weakness, and how to beat in Elden Ring](https://www.polygon.com/elden-ring-guide-walkthrough/24176307/malenia-location-weakness-strategy-how-to-beat)<!-- GAME:END -->
+ - [Microsoft president grovels before Congress, takes responsibility for a &#39;cascade&#39; of cybersecurity errors](https://www.pcgamer.com/software/operating-systems/microsoft-president-grovels-before-congress-takes-responsibility-for-a-cascade-of-cybersecurity-errors)
+ - [While other companies do expensive crossovers with Fortnite, Renault&#39;s been modding its little electric car into Garry&#39;s Mod, Palworld and Stardew Valley—and the mods actually look good](https://www.pcgamer.com/gaming-industry/game-development/while-other-companies-do-expensive-crossovers-with-fortnite-renaults-been-modding-its-little-electric-car-into-garrys-mod-palworld-and-stardew-valleyand-the-mods-actually-look-good)
+ - [Here Are The 10 Most Played Steam Next Fest Demos](https://kotaku.com/steam-next-fest-june-2024-10-most-played-demos-1851540448)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
