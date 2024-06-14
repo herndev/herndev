@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [No words necessary](http://9gag.com/gag/aryRpzd)
- - ⏩ [We &lpar;should&rpar; post memes here, sir](http://9gag.com/gag/ae90ooW)
- - 👉 [Black Myth Wukong devs refuse to pay 7m$ to Sweet Baby Inc, so iGN start writing hit piece about the developers](http://9gag.com/gag/an7BXgL)<!-- MEMES:END -->
+ - ⏩ [So original, so brave](http://9gag.com/gag/ajPn6D0)
+ - 👉 [Shut up and take my money!](http://9gag.com/gag/aYQwbrx)<!-- MEMES:END -->
 
 ---
 
