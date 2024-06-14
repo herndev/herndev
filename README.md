@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Picsart teams up with Getty Images to offer “commerically safe” AI-generated art](https://www.androidauthority.com/picsart-getty-commercial-ai-images-3451746/)
- - [Best DNA Test for 2024     - CNET](https://www.cnet.com/health/medical/best-dna-test/#ftag=CAD590a51e)
- - [Freeform in iOS 18 is enormously easier to work inside and navigate](https://appleinsider.com/articles/24/06/14/freeform-in-ios-18-is-enormously-easier-to-work-inside-and-navigate?utm_medium=rss)<!-- TECH:END -->
+ - [Sonos draws more customer anger — this time for its privacy policy](https://www.theverge.com/2024/6/14/24178433/sonos-privacy-policy-customer-data-controversy)
+ - [Let’s speculate wildly about Tesla’s three mystery vehicles](https://www.theverge.com/2024/6/14/24178404/tesla-vehicles-robotaxi-van-model-2-shareholder-shrouded)
+ - [Sources: Shein tries to suppress its chair&#39;s claim that the retailer is American, amid fears it could annoy China, which needs to approve Shein&#39;s London IPO &lpar;Financial Times&rpar;](http://www.techmeme.com/240614/p5#a240614p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
