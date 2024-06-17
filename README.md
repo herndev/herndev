@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Forza Motorsport: Update 9 Brings Endurance Races, the Iconic Sebring Track, and More](https://forza.net/news/forza-motorsport-update-9#new_tab)
- - [Pirate Brawler Planned For The OG Xbox Is Finally Launching 20 Years Later](https://kotaku.com/pirates-game-2004-20-years-captain-blood-new-trailer-1851544293)
- - [Helldivers 2 dev made a donation to Save the Children because players chose to save the children](https://www.polygon.com/24180189/helldivers-2-save-the-children-trolley-problem-major-order)<!-- GAME:END -->
+ - [Still Wakes The Deep: The Kotaku Review](https://kotaku.com/still-wakes-the-deep-review-the-chinese-room-1851544587)
+ - [&#39;90s Dark Web Streaming Sim Is Way More Terrifying Than I Expected](https://kotaku.com/darkwebstreamer-tribeca-demo-narrative-roguelike-horror-1851544458)
+ - [What time does Honkai: Star Rail version 2.3 release?](https://www.polygon.com/honkai-star-rail-guides/24180139/version-2-3-release-maintenance-times)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
