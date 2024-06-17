@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple is shutting down Apple Pay Later just months after launch](https://www.theverge.com/2024/6/17/24180340/apple-pay-later-shutting-down-months-after-launch)
- - [Sonos says its privacy policy change wasn’t for dubious reasons](https://www.theverge.com/2024/6/17/24180295/sonos-privacy-policy-controversy-response-statement)
- - [Apple says it will no longer offer Apple Pay Later, the BNPL service launched in the US in 2023, and will focus on installment loan features coming this year &lpar;Chance Miller/9to5Mac&rpar;](http://www.techmeme.com/240617/p23#a240617p23)<!-- TECH:END -->
+ - [How Apple will label AI-generated images made with Image Playground](https://appleinsider.com/articles/24/06/17/how-apple-will-label-ai-generated-images-made-with-image-playground?utm_medium=rss)
+ - [Tether, the top stablecoin provider, says it made a new synthetic dollar that is backed by gold and will trade as aUSDT via smart contracts on Ethereum Mainnet &lpar;Mar&amp;iacute;a Paula Mijares Torres/Bloomberg&rpar;](http://www.techmeme.com/240617/p26#a240617p26)
+ - [OnePlus promises to end battery anxiety with its new mobile battery technology](https://www.androidauthority.com/oneplus-glacier-battery-3452067/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
