@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I really hope this is true](http://9gag.com/gag/aVvXe0d)
- - ⏩ [The liberal left vs the conservative right](http://9gag.com/gag/a0eY5jZ)
- - 👉 [I don&#39;t go abroad because there is no bidet.](http://9gag.com/gag/aAypwPp)<!-- MEMES:END -->
+ - 💣 [Beautiful welding](http://9gag.com/gag/aLnB8gW)
+ - ⏩ [Being an ATM til the end](http://9gag.com/gag/avyLnbn)
+ - 👉 [I really hope this is true](http://9gag.com/gag/aVvXe0d)<!-- MEMES:END -->
 
 ---
 
