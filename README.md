@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Major Nelson is joining Unity](https://www.theverge.com/2024/6/17/24180241/major-nelson-larry-hryb-unity-community-xbox)
- - [Motorola Teases Razr Flip-Phone Reveal for June 25     - CNET](https://www.cnet.com/tech/mobile/motorola-teases-razr-flip-phone-reveal-for-june-25/#ftag=CAD590a51e)
- - [Motorola teases 2024 Moto Razr series, launch set for June 25](https://www.androidauthority.com/moto-razr-teaser-3452046/)<!-- TECH:END -->
+ - [Apple is shutting down Apple Pay Later just months after launch](https://www.theverge.com/2024/6/17/24180340/apple-pay-later-shutting-down-months-after-launch)
+ - [Sonos says its privacy policy change wasn’t for dubious reasons](https://www.theverge.com/2024/6/17/24180295/sonos-privacy-policy-controversy-response-statement)
+ - [Apple says it will no longer offer Apple Pay Later, the BNPL service launched in the US in 2023, and will focus on installment loan features coming this year &lpar;Chance Miller/9to5Mac&rpar;](http://www.techmeme.com/240617/p23#a240617p23)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
