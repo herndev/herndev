@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [All the dragons in House of the Dragon](https://www.polygon.com/23381183/house-dragon-all-dragons-riders-vhagar)
- - [My first 2 hours with Black Myth: Wukong were a flurry of demanding boss fights, unbelievably pretty characters, and a surprisingly sparse world](https://www.pcgamer.com/games/rpg/my-first-2-hours-with-black-myth-wukong-were-a-flurry-of-demanding-boss-fights-unbelievably-pretty-characters-and-a-surprisingly-sparse-world)
- - [Lollipop Chainsaw RePOP is coming in September](https://www.pcgamer.com/games/action/lollipop-chainsaw-repop-is-coming-in-september)<!-- GAME:END -->
+ - [House of the Dragon season 2’s premiere lets side characters take the spotlight in a way the book never could](https://www.polygon.com/24178649/house-dragon-season-2-daemon-assassins-prince-blood-cheese)
+ - [All the House of the Dragon houses and characters you need to know](https://www.polygon.com/23322393/house-dragon-houses-characters-explained)
+ - [Five new Steam games you probably missed &lpar;June 17, 2024&rpar;](https://www.pcgamer.com/software/platforms/five-new-steam-games-you-probably-missed-june-17-2024)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
