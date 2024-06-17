@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How Apple will label AI-generated images made with Image Playground](https://appleinsider.com/articles/24/06/17/how-apple-will-label-ai-generated-images-made-with-image-playground?utm_medium=rss)
- - [Tether, the top stablecoin provider, says it made a new synthetic dollar that is backed by gold and will trade as aUSDT via smart contracts on Ethereum Mainnet &lpar;Mar&amp;iacute;a Paula Mijares Torres/Bloomberg&rpar;](http://www.techmeme.com/240617/p26#a240617p26)
- - [OnePlus promises to end battery anxiety with its new mobile battery technology](https://www.androidauthority.com/oneplus-glacier-battery-3452067/)<!-- TECH:END -->
+ - [Sleep Number finally offers an affordable smart mattress](https://www.theverge.com/2024/6/17/24180247/sleep-number-c1-smart-bed-eight-sleep-smart-home)
+ - [Save $800 on the 2024 Hisense 85-inch U8 Google Smart TV](https://www.androidauthority.com/hisense-u8-google-smart-tv-deal-3452063/)
+ - [Apple Pay Later Is Shutting Down, Report Says     - CNET](https://www.cnet.com/tech/services-and-software/apple-pay-later-is-shutting-down-report-says/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
