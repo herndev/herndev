@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Intel says it still doesn’t have the true fix for its crashing i9 desktop chips](https://www.theverge.com/2024/6/14/24178751/intel-raptor-lake-crash-fix-etvb-not-yet)
- - [The 25 Very Best Gifts for Dad, Picked By a Picky Dad &lpar;2024&rpar;](https://www.wired.com/gallery/best-gifts-for-dads/)
- - [Tim Cook may have met with Trump during WWDC to discuss second term priorities](https://appleinsider.com/articles/24/06/14/tim-cook-may-have-met-with-trump-during-wwdc-to-discuss-second-term-priorities?utm_medium=rss)<!-- TECH:END -->
+ - [How Apple added support for automatic transcript generation in the Podcast app, a feature highly requested by both disabled users and podcast creators &lpar;Ari Saperstein/The Guardian&rpar;](http://www.techmeme.com/240616/p7#a240616p7)
+ - [McLaren Artura Spider Hybrid 2024 Review: Performance Party](https://www.wired.com/review/review-mclaren-artura-spider-hybrid-2024/)
+ - [Chrome on Android can read webpages out loud from within the app](https://www.theverge.com/2024/6/16/24179757/google-chrome-android-listen-to-this-page-website-reader)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
