@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Dungeon Clawler is a roguelike claw machine game, which is just as frustrating and moreish as it sounds](https://www.pcgamer.com/games/roguelike/dungeon-clawler-is-a-roguelike-claw-machine-game-which-is-just-as-frustrating-and-moreish-as-it-sounds)
- - [Hero coder finds bug in Lunar Lander after 55 years—&#39;I suspect everybody else was just happy to play the game and have fun&#39;](https://www.pcgamer.com/games/sim/hero-coder-finds-bug-in-lunar-lander-after-55-years-i-suspect-everybody-else-was-just-happy-to-play-the-game-and-have-fun)
- - [&#39;Cheating and exploiting undermine the integrity of our game&#39;: Over 600 Star Citizen accounts have been suspended for racking up in-game currency](https://www.pcgamer.com/games/mmo/cheating-and-exploiting-undermine-the-integrity-of-our-game-over-600-star-citizen-accounts-have-been-suspended-for-racking-up-in-game-currency)<!-- GAME:END -->
+ - [Forza Motorsport: Update 9 Brings Endurance Races, the Iconic Sebring Track, and More](https://forza.net/news/forza-motorsport-update-9#new_tab)
+ - [Pirate Brawler Planned For The OG Xbox Is Finally Launching 20 Years Later](https://kotaku.com/pirates-game-2004-20-years-captain-blood-new-trailer-1851544293)
+ - [Helldivers 2 dev made a donation to Save the Children because players chose to save the children](https://www.polygon.com/24180189/helldivers-2-save-the-children-trolley-problem-major-order)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
