@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [PSA: There Are Elden Ring: Shadow Of The Erdtree Spoilers Out There](https://kotaku.com/elden-ring-shadow-of-the-erdtree-spoilers-warning-1851543600)
- - [Intel found a bug in its high-end CPU microcode is &#39;potentially contributing to instability&#39; though &#39;is not the root cause&#39; of those long-reported game crashes](https://www.pcgamer.com/hardware/processors/intel-found-a-bug-in-its-high-end-cpu-microcode-is-potentially-contributing-to-instability-though-is-not-the-root-cause-of-those-long-reported-game-crashes)
- - [Still Wakes the Deep review](https://www.pcgamer.com/still-wakes-the-deep-review)<!-- GAME:END -->
+ - [What Void Bastards Fans Need to Know About Wild Bastards](https://news.xbox.com/en-us/2024/06/17/wild-bastards-void-bastards-improvements/)
+ - [MultiVersus Character Guide: Jason Voorhees](https://kotaku.com/multiversus-jason-voorhees-character-guide-moves-1851543926)
+ - [Frustrated Final Fantasy XIV Healers Are Planning To Strike When Dawntrail Debuts](https://kotaku.com/final-fantasy-14-healer-strike-dawntrail-mmo-rpg-1851543904)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
