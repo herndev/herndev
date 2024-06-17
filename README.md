@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [German man saves a little German boy who was being robbed and attacked by two subsaharans.](http://9gag.com/gag/aXPXwED)
- - ⏩ [Good job,we had time to take a look.](http://9gag.com/gag/aNDKKxK)
- - 👉 [Just in case...](http://9gag.com/gag/a5QK77o)<!-- MEMES:END -->
+ - 💣 [I really hope this is true](http://9gag.com/gag/aVvXe0d)
+ - ⏩ [A meme in it&#39;s natural habitat...](http://9gag.com/gag/a1mYXd8)
+ - 👉 [Who would have thought?](http://9gag.com/gag/aMVQGxM)<!-- MEMES:END -->
 
 ---
 
