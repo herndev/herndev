@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Check out these new ‘HeatRisk’ tools to stay up to date on US heatwaves](https://www.theverge.com/2024/6/17/24093587/heatwave-forecast-health-risks-online-tool-national-weather-service-cdc)
- - [Real-time data analytics startup Tinybird raised a $30M Series B, at a &quot;significantly higher&quot; valuation than its $37M Series A; source: it&#39;s now valued at $240M &lpar;Romain Dillet/TechCrunch&rpar;](http://www.techmeme.com/240617/p29#a240617p29)
- - [Coinbase debuts &quot;pre-launch markets&quot; on its global and advanced exchanges outside the US, UK, and Canada, for positions on tokens before they hit spot exchanges &lpar;Lawrence Lewitinn/The Block&rpar;](http://www.techmeme.com/240617/p28#a240617p28)<!-- TECH:END -->
+ - [Inside Snapchat&#39;s teen opioid crisis: law-enforcement sources and parents allege that the company has helped fuel an overdose epidemic across the US &lpar;Paul Solotaroff/Rolling Stone&rpar;](http://www.techmeme.com/240617/p30#a240617p30)
+ - [Tesla reportedly delays Cybertruck deliveries because of windshield wiper issues](https://www.theverge.com/2024/6/17/24180519/tesla-cybertruck-deliveries-windshield-wiper-issue)
+ - [Gemini could be finally getting new voices &lpar;APK Teardown&rpar;](https://www.androidauthority.com/gemini-new-voices-3452126/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
