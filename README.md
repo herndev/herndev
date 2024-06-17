@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Scavengers Reign still has so much more to say](https://www.polygon.com/24178625/scavengers-reign-co-creator-joe-bennett-interview-season-2-netflix)
- - [Habbo Hotel going vintage with original game rerelease](https://www.polygon.com/24180314/habbo-hotel-2005-origins-release)
- - [Star Wars: The Acolyte Episode One Is The Fresh Take The Jedi Needed](https://kotaku.com/acolyte-episode-one-review-star-wars-1851544768)<!-- GAME:END -->
+ - [Manor Lords players overwhelmingly vote against changing historically accurate yet NSFW character name](https://www.pcgamer.com/games/city-builder/manor-lords-players-overwhelmingly-vote-against-changingerasing-historically-accurate-yet-nsfw-character-name)
+ - [New Uncharted Movie In The Works As Everyone Wonders Where The Hell The Next Game Is](https://kotaku.com/uncharted-film-sequel-in-production-1851544964)
+ - [Gift ideas for the Elden Ring fan in your life](https://www.polygon.com/24079537/elden-ring-best-books-games-accessories-gifts)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
