@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [You can now easily listen to a page in Chrome for Android](https://www.androidauthority.com/chrome-for-android-listen-to-this-page-3451954/)
- - [Amazon-Powered AI Cameras Used to Detect Emotions of Unwitting UK Train Passengers](https://www.wired.com/story/amazon-ai-cameras-emotions-uk-train-passengers/)
- - [Copywriters detail how AI is changing their jobs, with some seeing a new line of work to make AI-generated text sound more human, a job that pays a lot less &lpar;Thomas Germain/BBC&rpar;](http://www.techmeme.com/240617/p3#a240617p3)<!-- TECH:END -->
+ - [Samsung could undercut Apple with Galaxy Watch 7 Ultra price](https://www.androidauthority.com/galaxy-watch-7-watch-ultra-prices-leak-3451962/)
+ - [Experts say generative AI is set to make certain skills in finance and accounting redundant and free up time for workers to focus more on value-added tasks &lpar;Seb Murray/Financial Times&rpar;](http://www.techmeme.com/240617/p4#a240617p4)
+ - [You can now easily listen to a page in Chrome for Android](https://www.androidauthority.com/chrome-for-android-listen-to-this-page-3451954/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
