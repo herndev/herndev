@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [What Void Bastards Fans Need to Know About Wild Bastards](https://news.xbox.com/en-us/2024/06/17/wild-bastards-void-bastards-improvements/)
- - [MultiVersus Character Guide: Jason Voorhees](https://kotaku.com/multiversus-jason-voorhees-character-guide-moves-1851543926)
- - [Frustrated Final Fantasy XIV Healers Are Planning To Strike When Dawntrail Debuts](https://kotaku.com/final-fantasy-14-healer-strike-dawntrail-mmo-rpg-1851543904)<!-- GAME:END -->
+ - [Dungeon Clawler is a roguelike claw machine game, which is just as frustrating and moreish as it sounds](https://www.pcgamer.com/games/roguelike/dungeon-clawler-is-a-roguelike-claw-machine-game-which-is-just-as-frustrating-and-moreish-as-it-sounds)
+ - [Hero coder finds bug in Lunar Lander after 55 years—&#39;I suspect everybody else was just happy to play the game and have fun&#39;](https://www.pcgamer.com/games/sim/hero-coder-finds-bug-in-lunar-lander-after-55-years-i-suspect-everybody-else-was-just-happy-to-play-the-game-and-have-fun)
+ - [&#39;Cheating and exploiting undermine the integrity of our game&#39;: Over 600 Star Citizen accounts have been suspended for racking up in-game currency](https://www.pcgamer.com/games/mmo/cheating-and-exploiting-undermine-the-integrity-of-our-game-over-600-star-citizen-accounts-have-been-suspended-for-racking-up-in-game-currency)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
