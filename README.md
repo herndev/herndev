@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Dunno which is stupider, throwing away a drink that you bought or smashing someone&#39;s windshield in front of a camera.](http://9gag.com/gag/ae9pbnb)
- - ⏩ [Just in case...](http://9gag.com/gag/a5QK77o)
- - 👉 [Good job,we had time to take a look.](http://9gag.com/gag/aNDKKxK)<!-- MEMES:END -->
+ - 💣 [The liberal left vs the conservative right](http://9gag.com/gag/a0eY5jZ)
+ - ⏩ [So close...](http://9gag.com/gag/aXPXqDv)
+ - 👉 [Dunno which is stupider, throwing away a drink that you bought or smashing someone&#39;s windshield in front of a camera.](http://9gag.com/gag/ae9pbnb)<!-- MEMES:END -->
 
 ---
 
