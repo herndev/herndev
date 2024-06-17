@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Spanish Lesson with Ana](http://9gag.com/gag/agmNG6K)
- - ⏩ [Gotta love the energy](http://9gag.com/gag/aZZNB19)
- - 👉 [Unexpected](http://9gag.com/gag/a2vqd0p)<!-- MEMES:END -->
+ - 💣 [Knockout](http://9gag.com/gag/a1mYM2D)
+ - ⏩ [Oof](http://9gag.com/gag/ae9ppoq)
+ - 👉 [Good job,we had time to take a look.](http://9gag.com/gag/aNDKKxK)<!-- MEMES:END -->
 
 ---
 
