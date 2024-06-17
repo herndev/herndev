@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [FromSoftware boss addresses gaming industry layoffs: &#39;As long as this company&#39;s my responsibility, I would not let that happen&#39;](https://www.pcgamer.com/gaming-industry/fromsoftware-boss-addresses-gaming-industry-layoffs-as-long-as-this-companys-my-responsibility-i-would-not-let-that-happen)
- - [Asus agrees to a whole raft of US warranty service improvements after it meets with Gamers Nexus](https://www.pcgamer.com/hardware/asus-agrees-to-a-whole-raft-of-us-warranty-service-improvements-after-it-meets-with-gamers-nexus)
- - [Final Fantasy 14&#39;s healers have had enough and are going on strike, after streamer tears through Dawntrail&#39;s first dungeon preview without needing them at all](https://www.pcgamer.com/games/final-fantasy/final-fantasy-14-s-healers-have-had-enough-and-are-going-on-strike-after-streamer-tears-through-dawntrail-s-first-dungeon-preview-without-needing-them-at-all)<!-- GAME:END -->
+ - [Lords of the Fallen 2, which is technically Lords of the Fallen 3, is due in 2026 and will probably be an Epic exclusive](https://www.pcgamer.com/games/rpg/lords-of-the-fallen-2-which-is-technically-lords-of-the-fallen-3-is-due-in-2026-and-will-probably-be-an-epic-exclusive)
+ - [House of the Dragon leaves no room for theories — they’re all doomed](https://www.polygon.com/24178745/house-dragon-season-2-premiere-review-episode-1)
+ - [Gigabyte A620I AX review](https://www.pcgamer.com/hardware/motherboards/gigabyte-a620i-ax-review)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
