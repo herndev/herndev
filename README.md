@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Just in case...](http://9gag.com/gag/a5QK77o)
+ - 💣 [A nice family dinner!!!](http://9gag.com/gag/aoyjjzm)
  - ⏩ [Orcas surround woman](http://9gag.com/gag/aPAGD8q)
- - 👉 [I really hope this is true](http://9gag.com/gag/aVvXe0d)<!-- MEMES:END -->
+ - 👉 [Funny Jack Sparrow](http://9gag.com/gag/axyGjmL)<!-- MEMES:END -->
 
 ---
 
