@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [You can read the comic, there&#39;s only 70++ issue &amp; way better than the tv series](http://9gag.com/gag/aPAGv8Q)
- - ⏩ [Splash](http://9gag.com/gag/aGyRVm7)
- - 👉 [Just give him some time to come back from store ffs](http://9gag.com/gag/aYQwjgN)<!-- MEMES:END -->
+ - 💣 [Just in case...](http://9gag.com/gag/a5QK77o)
+ - ⏩ [Orcas surround woman](http://9gag.com/gag/aPAGD8q)
+ - 👉 [I really hope this is true](http://9gag.com/gag/aVvXe0d)<!-- MEMES:END -->
 
 ---
 
