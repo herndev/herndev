@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Netflix’s Ultraman: Rising, I Saw the TV Glow, and every movie new to streaming this week](https://www.polygon.com/2024/6/14/24174156/new-movies-i-saw-the-tv-glow-ultraman-rising-netflix-monkey-man)
- - [As the newly released World of Warcraft was dominating the 2000s, Blizzard&#39;s then-president had his own priorities—working on StarCraft 1 patches](https://www.pcgamer.com/games/rts/as-the-newly-released-world-of-warcraft-was-dominating-the-2000s-blizzards-then-president-had-his-own-prioritiesworking-on-starcraft-1-patches)
- - [Maxis canceled The Sims in the &#39;90s, but it was saved by an unlikely hero: Electronic Arts](https://www.pcgamer.com/games/the-sims/maxis-had-canceled-the-sims-in-the-90s-but-it-was-saved-by-an-unlikely-hero-electronic-arts)<!-- GAME:END -->
+ - [My first 2 hours with Black Myth: Wukong were a flurry of demanding boss fights, unbelievably pretty characters, and a surprisingly sparse world](https://www.pcgamer.com/games/rpg/my-first-2-hours-with-black-myth-wukong-were-a-flurry-of-demanding-boss-fights-unbelievably-pretty-characters-and-a-surprisingly-sparse-world)
+ - [Lollipop Chainsaw RePOP is coming in September](https://www.pcgamer.com/games/action/lollipop-chainsaw-repop-is-coming-in-september)
+ - [Baldur&#39;s Gate 3 fan discovers second, hidden approval score for Shadowheart that unlocks dialogue I&#39;ve never seen in 300 hours of play](https://www.pcgamer.com/games/rpg/baldurs-gate-3-fan-discovers-second-hidden-approval-score-for-shadowheart-that-unlocks-dialogue-ive-never-seen-in-300-hours-of-play)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
