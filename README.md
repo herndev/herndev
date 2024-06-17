@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I don&#39;t go abroad because there is no bidet.](http://9gag.com/gag/aAypwPp)
- - ⏩ [Just in case...](http://9gag.com/gag/a5QK77o)
- - 👉 [I really hope this is true](http://9gag.com/gag/aVvXe0d)<!-- MEMES:END -->
+ - 💣 [What are the odds?](http://9gag.com/gag/aMVQ8oW)
+ - ⏩ [The strongest female characters in fiction](http://9gag.com/gag/aqy21NP)
+ - 👉 [This multi-purpose wheelbarrow](http://9gag.com/gag/aD2mzGN)<!-- MEMES:END -->
 
 ---
 
