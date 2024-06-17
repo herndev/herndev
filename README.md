@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Beautiful welding](http://9gag.com/gag/aLnB8gW)
- - ⏩ [Being an ATM til the end](http://9gag.com/gag/avyLnbn)
- - 👉 [I really hope this is true](http://9gag.com/gag/aVvXe0d)<!-- MEMES:END -->
+ - 💣 [German man saves a little German boy who was being robbed and attacked by two subsaharans.](http://9gag.com/gag/aXPXwED)
+ - ⏩ [I don&#39;t go abroad because there is no bidet.](http://9gag.com/gag/aAypwPp)
+ - 👉 [Jet Ski Driver Dodged Shockwave by Jumping into Water Just in Time After Explosion in Beirut!](http://9gag.com/gag/aByr8mO)<!-- MEMES:END -->
 
 ---
 
