@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Review: WaterField Shinjuku iPad Messenger Bag](https://www.wired.com/review/waterfield-shinjuku-ipad-messenger-bag/)
- - [TikTok ads may soon contain AI-generated avatars of your favorite creators](https://www.theverge.com/2024/6/17/24179971/tiktok-ads-ai-generated-avatars-creators-language-dubbing)
- - [The Galaxy Buds 3 series could drop swipes for pinches &lpar;APK teardown&rpar;](https://www.androidauthority.com/samsung-galaxy-buds-3-pinch-gestures-apk-teardown-3451977/)<!-- TECH:END -->
+ - [TikTok expands its Symphony ad suite, adding AI dubbing and custom or stock Digital Avatars based on paid actors or created to resemble specific creators &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/240617/p16#a240617p16)
+ - [Shortcuts are easier to make and more productive with iOS 18 redesign](https://appleinsider.com/articles/24/06/17/shortcuts-are-easier-to-make-and-more-productive-with-ios-18-redesign?utm_medium=rss)
+ - [Adobe upgrades Acrobat AI chatbot to add multi-document analysis, image generation](https://www.androidauthority.com/adobe-ai-assistant-acrobat-3451988/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
