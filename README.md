@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [A very beautiful Czech policewoman](http://9gag.com/gag/a9yPLGZ)
- - ⏩ [Ladies and Gentlemen... we got him &lpar;back&rpar;](http://9gag.com/gag/a5QKbeG)
- - 👉 [Oof](http://9gag.com/gag/ae9ppoq)<!-- MEMES:END -->
+ - 💣 [Being an ATM til the end](http://9gag.com/gag/avyLnbn)
+ - ⏩ [Just in case...](http://9gag.com/gag/a5QK77o)
+ - 👉 [When you trust your tofu building so much.](http://9gag.com/gag/aAyppQo)<!-- MEMES:END -->
 
 ---
 
