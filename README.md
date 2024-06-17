@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Hyte Thicc Q60 AIO cooler review](https://www.pcgamer.com/hardware/cooling/hyte-thicc-q60-aio-cooler-review)
  - [Today&#39;s Wordle answer for Monday, June 17](https://www.pcgamer.com/games/puzzle/wordle-answer-today-june-17-2024)
- - [Classic indie Shovel Knight is geting a definitive edition](https://www.pcgamer.com/games/action/classic-indie-shovel-knight-is-geting-a-definitive-edition)
- - [House of the Dragon season 2’s premiere lets side characters take the spotlight in a way the book never could](https://www.polygon.com/24178649/house-dragon-season-2-daemon-assassins-prince-blood-cheese)<!-- GAME:END -->
+ - [Classic indie Shovel Knight is geting a definitive edition](https://www.pcgamer.com/games/action/classic-indie-shovel-knight-is-geting-a-definitive-edition)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
