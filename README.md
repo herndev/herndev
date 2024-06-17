@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Todd Howard responds to controversy over Starfield&#39;s $7 mission: &#39;We hear the feedback&#39;](https://www.pcgamer.com/games/rpg/todd-howard-responds-to-controversy-over-starfields-dollar7-mission-we-hear-the-feedback)
- - [All Feathers of Light locations in Destiny 2: The Final Shape](https://www.polygon.com/destiny-2-guide-walkthrough/24179545/feathers-light-locations-all-where-to-find)
- - [To create its cast of Baldur&#39;s Gate 3 companions, Larian came up with &#39;hundreds and hundreds&#39; of character concepts: &#39;It was a huge, huge list&#39;](https://www.pcgamer.com/games/rpg/to-create-its-cast-of-baldurs-gate-3-companions-larian-came-up-with-hundreds-and-hundreds-of-character-concepts-it-was-a-huge-huge-list)<!-- GAME:END -->
+ - [Just days after saving the children, Helldivers 2 players are ordered to annihilate bug children in a weeklong nuke-a-thon](https://www.pcgamer.com/games/third-person-shooter/just-days-after-saving-the-children-helldivers-2-players-are-ordered-to-annihilate-bug-children-in-a-weeklong-nuke-a-thon)
+ - [That game where you click a banana is now so popular it&#39;s poised to knock Baldur&#39;s Gate 3 off Steam&#39;s top 10 most-played games of all time](https://www.pcgamer.com/games/that-game-where-you-click-a-banana-is-now-so-popular-its-poised-to-knock-baldurs-gate-3-off-steams-top-10-most-played-games-of-all-time)
+ - [Todd Howard responds to controversy over Starfield&#39;s $7 mission: &#39;We hear the feedback&#39;](https://www.pcgamer.com/games/rpg/todd-howard-responds-to-controversy-over-starfields-dollar7-mission-we-hear-the-feedback)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
