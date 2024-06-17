@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [German man saves a little German boy who was being robbed and attacked by two subsaharans.](http://9gag.com/gag/aXPXwED)
- - ⏩ [Sounds easy enough](http://9gag.com/gag/aByr8gO)
- - 👉 [Who would have thought?](http://9gag.com/gag/aMVQGxM)<!-- MEMES:END -->
+ - 💣 [I don&#39;t go abroad because there is no bidet.](http://9gag.com/gag/aAypwPp)
+ - ⏩ [Just in case...](http://9gag.com/gag/a5QK77o)
+ - 👉 [I really hope this is true](http://9gag.com/gag/aVvXe0d)<!-- MEMES:END -->
 
 ---
 
