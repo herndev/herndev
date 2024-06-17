@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Firefighter credits Apple Watch for life-saving intervention](https://appleinsider.com/articles/24/06/16/firefighter-credits-apple-watch-for-live-saving-intervention?utm_medium=rss)
- - [Swiss privacy-focused app developer Proton establishes the Proton Foundation to transition to a nonprofit foundation model, similar to Signal and Mozilla &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/240617/p12#a240617p12)
- - [Xgrid lives -- a new project resurrects the promise of Apple&#39;s dead clustering software](https://appleinsider.com/articles/24/06/17/xgrid-lives----a-new-project-resurrects-the-promise-of-apples-dead-clustering-software?utm_medium=rss)<!-- TECH:END -->
+ - [Review: WaterField Shinjuku iPad Messenger Bag](https://www.wired.com/review/waterfield-shinjuku-ipad-messenger-bag/)
+ - [TikTok ads may soon contain AI-generated avatars of your favorite creators](https://www.theverge.com/2024/6/17/24179971/tiktok-ads-ai-generated-avatars-creators-language-dubbing)
+ - [The Galaxy Buds 3 series could drop swipes for pinches &lpar;APK teardown&rpar;](https://www.androidauthority.com/samsung-galaxy-buds-3-pinch-gestures-apk-teardown-3451977/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
