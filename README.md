@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I really hope this is true](http://9gag.com/gag/aVvXe0d)
- - ⏩ [A meme in it&#39;s natural habitat...](http://9gag.com/gag/a1mYXd8)
- - 👉 [Who would have thought?](http://9gag.com/gag/aMVQGxM)<!-- MEMES:END -->
+ - 💣 [Sometimes you learn the hard way](http://9gag.com/gag/aD2mowG)
+ - ⏩ [I really hope this is true](http://9gag.com/gag/aVvXe0d)
+ - 👉 [I don&#39;t go abroad because there is no bidet.](http://9gag.com/gag/aAypwPp)<!-- MEMES:END -->
 
 ---
 
