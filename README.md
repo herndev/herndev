@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Manor Lords players overwhelmingly vote against changing historically accurate yet NSFW character name](https://www.pcgamer.com/games/city-builder/manor-lords-players-overwhelmingly-vote-against-changingerasing-historically-accurate-yet-nsfw-character-name)
- - [New Uncharted Movie In The Works As Everyone Wonders Where The Hell The Next Game Is](https://kotaku.com/uncharted-film-sequel-in-production-1851544964)
- - [Gift ideas for the Elden Ring fan in your life](https://www.polygon.com/24079537/elden-ring-best-books-games-accessories-gifts)<!-- GAME:END -->
+ - [Want the best deals? Subscribe to Polygon’s Shopkeeper](https://www.polygon.com/deals/24178699/shopkeeper-newsletter-subscribe)
+ - [Promising-Looking Sims Competitor Canceled](https://kotaku.com/paradox-sims-life-by-you-canceled-early-access-delay-pc-1851545169)
+ - [Dragon Age: The Veilguard Is An Exciting And Critical Moment For BioWare](https://kotaku.com/dragon-age-veilguard-bioware-dreadwolf-andromeda-anthem-1851545206)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
