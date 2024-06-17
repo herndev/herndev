@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sleep Number finally offers an affordable smart mattress](https://www.theverge.com/2024/6/17/24180247/sleep-number-c1-smart-bed-eight-sleep-smart-home)
- - [Save $800 on the 2024 Hisense 85-inch U8 Google Smart TV](https://www.androidauthority.com/hisense-u8-google-smart-tv-deal-3452063/)
- - [Apple Pay Later Is Shutting Down, Report Says     - CNET](https://www.cnet.com/tech/services-and-software/apple-pay-later-is-shutting-down-report-says/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Check out these new ‘HeatRisk’ tools to stay up to date on US heatwaves](https://www.theverge.com/2024/6/17/24093587/heatwave-forecast-health-risks-online-tool-national-weather-service-cdc)
+ - [Real-time data analytics startup Tinybird raised a $30M Series B, at a &quot;significantly higher&quot; valuation than its $37M Series A; source: it&#39;s now valued at $240M &lpar;Romain Dillet/TechCrunch&rpar;](http://www.techmeme.com/240617/p29#a240617p29)
+ - [Coinbase debuts &quot;pre-launch markets&quot; on its global and advanced exchanges outside the US, UK, and Canada, for positions on tokens before they hit spot exchanges &lpar;Lawrence Lewitinn/The Block&rpar;](http://www.techmeme.com/240617/p28#a240617p28)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
