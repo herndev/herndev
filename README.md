@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Still Wakes The Deep: The Kotaku Review](https://kotaku.com/still-wakes-the-deep-review-the-chinese-room-1851544587)
- - [&#39;90s Dark Web Streaming Sim Is Way More Terrifying Than I Expected](https://kotaku.com/darkwebstreamer-tribeca-demo-narrative-roguelike-horror-1851544458)
- - [What time does Honkai: Star Rail version 2.3 release?](https://www.polygon.com/honkai-star-rail-guides/24180139/version-2-3-release-maintenance-times)<!-- GAME:END -->
+ - [Scavengers Reign still has so much more to say](https://www.polygon.com/24178625/scavengers-reign-co-creator-joe-bennett-interview-season-2-netflix)
+ - [Habbo Hotel going vintage with original game rerelease](https://www.polygon.com/24180314/habbo-hotel-2005-origins-release)
+ - [Star Wars: The Acolyte Episode One Is The Fresh Take The Jedi Needed](https://kotaku.com/acolyte-episode-one-review-star-wars-1851544768)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
