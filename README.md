@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [A nice family dinner!!!](http://9gag.com/gag/aoyjjzm)
- - ⏩ [Orcas surround woman](http://9gag.com/gag/aPAGD8q)
- - 👉 [Funny Jack Sparrow](http://9gag.com/gag/axyGjmL)<!-- MEMES:END -->
+ - 💣 [A very beautiful Czech policewoman](http://9gag.com/gag/a9yPLGZ)
+ - ⏩ [Ladies and Gentlemen... we got him &lpar;back&rpar;](http://9gag.com/gag/a5QKbeG)
+ - 👉 [Oof](http://9gag.com/gag/ae9ppoq)<!-- MEMES:END -->
 
 ---
 
