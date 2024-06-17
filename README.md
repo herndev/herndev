@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [TikTok expands its Symphony ad suite, adding AI dubbing and custom or stock Digital Avatars based on paid actors or created to resemble specific creators &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/240617/p16#a240617p16)
- - [Shortcuts are easier to make and more productive with iOS 18 redesign](https://appleinsider.com/articles/24/06/17/shortcuts-are-easier-to-make-and-more-productive-with-ios-18-redesign?utm_medium=rss)
- - [Adobe upgrades Acrobat AI chatbot to add multi-document analysis, image generation](https://www.androidauthority.com/adobe-ai-assistant-acrobat-3451988/)<!-- TECH:END -->
+ - [New YouTube experiment allows viewers to add context to misinformation in videos](https://www.androidauthority.com/youtube-notes-3452012/)
+ - [YouTube will soon ask audiences to add context to videos](https://www.theverge.com/2024/6/17/24180058/youtube-notes-test-community-sourced-context-videos)
+ - [How to change Siri&#39;s name in iOS 18 to anything you like with Vocal Shortcuts](https://appleinsider.com/inside/ios-18/tips/how-to-change-siris-name-in-ios-18-to-anything-you-like-with-vocal-shortcuts?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
