@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [New YouTube experiment allows viewers to add context to misinformation in videos](https://www.androidauthority.com/youtube-notes-3452012/)
- - [YouTube will soon ask audiences to add context to videos](https://www.theverge.com/2024/6/17/24180058/youtube-notes-test-community-sourced-context-videos)
- - [How to change Siri&#39;s name in iOS 18 to anything you like with Vocal Shortcuts](https://appleinsider.com/inside/ios-18/tips/how-to-change-siris-name-in-ios-18-to-anything-you-like-with-vocal-shortcuts?utm_medium=rss)<!-- TECH:END -->
+ - [M4 Macs, iPhone 16, and more: What Apple has planned for the rest of 2024](https://appleinsider.com/articles/24/06/17/m4-macs-iphone-16-and-more-what-apple-has-planned-for-the-rest-of-2024?utm_medium=rss)
+ - [US sues Adobe for ‘deceiving’ subscriptions that are too hard to cancel](https://www.theverge.com/2024/6/17/24180196/adobe-us-ftc-doj-sues-subscriptions-cancel)
+ - [Is Apple Intelligence artificial?](https://appleinsider.com/articles/24/06/17/is-apple-intelligence-artificial?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
