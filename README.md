@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [All the dragons in House of the Dragon](https://www.polygon.com/23381183/house-dragon-all-dragons-riders-vhagar)
  - [My first 2 hours with Black Myth: Wukong were a flurry of demanding boss fights, unbelievably pretty characters, and a surprisingly sparse world](https://www.pcgamer.com/games/rpg/my-first-2-hours-with-black-myth-wukong-were-a-flurry-of-demanding-boss-fights-unbelievably-pretty-characters-and-a-surprisingly-sparse-world)
- - [Lollipop Chainsaw RePOP is coming in September](https://www.pcgamer.com/games/action/lollipop-chainsaw-repop-is-coming-in-september)
- - [Baldur&#39;s Gate 3 fan discovers second, hidden approval score for Shadowheart that unlocks dialogue I&#39;ve never seen in 300 hours of play](https://www.pcgamer.com/games/rpg/baldurs-gate-3-fan-discovers-second-hidden-approval-score-for-shadowheart-that-unlocks-dialogue-ive-never-seen-in-300-hours-of-play)<!-- GAME:END -->
+ - [Lollipop Chainsaw RePOP is coming in September](https://www.pcgamer.com/games/action/lollipop-chainsaw-repop-is-coming-in-september)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
