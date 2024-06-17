@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Copywriters detail how AI is changing their jobs, with some seeing a new line of work to make AI-generated text sound more human, a job that pays a lot less &lpar;Thomas Germain/BBC&rpar;](http://www.techmeme.com/240617/p3#a240617p3)
- - [Leak: Here’s how the Samsung Galaxy Ring will charge](https://www.androidauthority.com/leak-samsung-galaxy-ring-charging-case-3451602/)
- - [How Black founders are creating AI models like ChatBlackGPT and Latimer.ai that cater to Black and brown communities, as current AI models lack cultural nuance &lpar;TechCrunch&rpar;](http://www.techmeme.com/240617/p2#a240617p2)<!-- TECH:END -->
+ - [You can now easily listen to a page in Chrome for Android](https://www.androidauthority.com/chrome-for-android-listen-to-this-page-3451954/)
+ - [Amazon-Powered AI Cameras Used to Detect Emotions of Unwitting UK Train Passengers](https://www.wired.com/story/amazon-ai-cameras-emotions-uk-train-passengers/)
+ - [Copywriters detail how AI is changing their jobs, with some seeing a new line of work to make AI-generated text sound more human, a job that pays a lot less &lpar;Thomas Germain/BBC&rpar;](http://www.techmeme.com/240617/p3#a240617p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
