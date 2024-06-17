@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Jet Ski Driver Dodged Shockwave by Jumping into Water Just in Time After Explosion in Beirut!](http://9gag.com/gag/aByr8mO)
- - ⏩ [I really hope this is true](http://9gag.com/gag/aVvXe0d)
- - 👉 [Happy Father&#39;s day..](http://9gag.com/gag/aGyR1Mz)<!-- MEMES:END -->
+ - 💣 [German man saves a little German boy who was being robbed and attacked by two subsaharans.](http://9gag.com/gag/aXPXwED)
+ - ⏩ [I don&#39;t understand what she wanted to do](http://9gag.com/gag/a34LK18)
+ - 👉 [So close...](http://9gag.com/gag/aXPXqDv)<!-- MEMES:END -->
 
 ---
 
