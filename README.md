@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [German man saves a little German boy who was being robbed and attacked by two subsaharans.](http://9gag.com/gag/aXPXwED)
- - ⏩ [So close...](http://9gag.com/gag/aXPXqDv)
- - 👉 [Just in case...](http://9gag.com/gag/a5QK77o)<!-- MEMES:END -->
+ - 💣 [I really hope this is true](http://9gag.com/gag/aVvXe0d)
+ - ⏩ [The liberal left vs the conservative right](http://9gag.com/gag/a0eY5jZ)
+ - 👉 [I don&#39;t go abroad because there is no bidet.](http://9gag.com/gag/aAypwPp)<!-- MEMES:END -->
 
 ---
 
