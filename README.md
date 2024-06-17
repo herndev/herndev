@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google begins rolling out a &quot;Listen to this page&quot; feature on Chrome for Android, letting the browser read text-heavy web pages &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/240617/p6#a240617p6)
- - [Apple Watch Series 10 to be thinner and have larger screen size](https://appleinsider.com/articles/24/06/17/apple-watch-series-10-to-be-thinner-and-have-larger-screen-size?utm_medium=rss)
- - [McDonald&#39;s ends its two-year IBM partnership to test automated Drive Thru order taking and plans to remove the tech from 100+ restaurants by July 26 &lpar;Jonathan Maze/Restaurant Business&rpar;](http://www.techmeme.com/240617/p5#a240617p5)<!-- TECH:END -->
+ - [Rudimentary RCS support is in the iOS 18 beta -- with some big caveats](https://appleinsider.com/articles/24/06/17/rudimentary-rcs-support-is-in-the-ios-18-beta----with-some-big-caveats?utm_medium=rss)
+ - [How Terray Therapeutics uses AI to discover and develop drugs, generating 50TB of raw data daily, part of a wave of startups looking to harness AI in medicine &lpar;Steve Lohr/New York Times&rpar;](http://www.techmeme.com/240617/p9#a240617p9)
+ - [Banks Are Finally Realizing What Climate Change Will Do to Housing](https://www.wired.com/story/banks-are-finally-realizing-what-climate-change-will-do-to-housing/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
