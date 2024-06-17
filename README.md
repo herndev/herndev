@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Rudimentary RCS support is in the iOS 18 beta -- with some big caveats](https://appleinsider.com/articles/24/06/17/rudimentary-rcs-support-is-in-the-ios-18-beta----with-some-big-caveats?utm_medium=rss)
- - [How Terray Therapeutics uses AI to discover and develop drugs, generating 50TB of raw data daily, part of a wave of startups looking to harness AI in medicine &lpar;Steve Lohr/New York Times&rpar;](http://www.techmeme.com/240617/p9#a240617p9)
- - [Banks Are Finally Realizing What Climate Change Will Do to Housing](https://www.wired.com/story/banks-are-finally-realizing-what-climate-change-will-do-to-housing/)<!-- TECH:END -->
+ - [Firefighter credits Apple Watch for life-saving intervention](https://appleinsider.com/articles/24/06/16/firefighter-credits-apple-watch-for-live-saving-intervention?utm_medium=rss)
+ - [Swiss privacy-focused app developer Proton establishes the Proton Foundation to transition to a nonprofit foundation model, similar to Signal and Mozilla &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/240617/p12#a240617p12)
+ - [Xgrid lives -- a new project resurrects the promise of Apple&#39;s dead clustering software](https://appleinsider.com/articles/24/06/17/xgrid-lives----a-new-project-resurrects-the-promise-of-apples-dead-clustering-software?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
