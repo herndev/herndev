@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Uber says &quot;tens of thousands of riders&quot; in Phoenix have matched with a &quot;Waymo &lpar;AI&rpar; driver&quot; and have given &quot;a nearly 4.9 average star rating&quot; &lpar;Alan Ohnsman/Forbes&rpar;](http://www.techmeme.com/240617/p21#a240617p21)
- - [Best Pixel 7 and Pixel 7 Pro Deals: Get Money Off With Trade-Ins     - CNET](https://www.cnet.com/deals/pixel-7-deals/#ftag=CAD590a51e)
- - [Logitech unveils the MX Ink, a $130 stylus coming in September for the Meta Quest 2, Quest 3, and &quot;future headsets&quot;, the Quest&#39;s first third-party input device &lpar;Scott Stein/CNET&rpar;](http://www.techmeme.com/240617/p20#a240617p20)<!-- TECH:END -->
+ - [Major Nelson is joining Unity](https://www.theverge.com/2024/6/17/24180241/major-nelson-larry-hryb-unity-community-xbox)
+ - [Motorola Teases Razr Flip-Phone Reveal for June 25     - CNET](https://www.cnet.com/tech/mobile/motorola-teases-razr-flip-phone-reveal-for-june-25/#ftag=CAD590a51e)
+ - [Motorola teases 2024 Moto Razr series, launch set for June 25](https://www.androidauthority.com/moto-razr-teaser-3452046/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
