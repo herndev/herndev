@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I really hope this is true](http://9gag.com/gag/aVvXe0d)
- - ⏩ [I don&#39;t go abroad because there is no bidet.](http://9gag.com/gag/aAypwPp)
- - 👉 [What are the odds?](http://9gag.com/gag/aMVQ8oW)<!-- MEMES:END -->
+ - 💣 [German man saves a little German boy who was being robbed and attacked by two subsaharans.](http://9gag.com/gag/aXPXwED)
+ - ⏩ [Good job,we had time to take a look.](http://9gag.com/gag/aNDKKxK)
+ - 👉 [Just in case...](http://9gag.com/gag/a5QK77o)<!-- MEMES:END -->
 
 ---
 
