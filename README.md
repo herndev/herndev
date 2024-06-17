@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Lords of the Fallen 2, which is technically Lords of the Fallen 3, is due in 2026 and will probably be an Epic exclusive](https://www.pcgamer.com/games/rpg/lords-of-the-fallen-2-which-is-technically-lords-of-the-fallen-3-is-due-in-2026-and-will-probably-be-an-epic-exclusive)
- - [House of the Dragon leaves no room for theories — they’re all doomed](https://www.polygon.com/24178745/house-dragon-season-2-premiere-review-episode-1)
- - [Gigabyte A620I AX review](https://www.pcgamer.com/hardware/motherboards/gigabyte-a620i-ax-review)<!-- GAME:END -->
+ - [PSA: There Are Elden Ring: Shadow Of The Erdtree Spoilers Out There](https://kotaku.com/elden-ring-shadow-of-the-erdtree-spoilers-warning-1851543600)
+ - [Intel found a bug in its high-end CPU microcode is &#39;potentially contributing to instability&#39; though &#39;is not the root cause&#39; of those long-reported game crashes](https://www.pcgamer.com/hardware/processors/intel-found-a-bug-in-its-high-end-cpu-microcode-is-potentially-contributing-to-instability-though-is-not-the-root-cause-of-those-long-reported-game-crashes)
+ - [Still Wakes the Deep review](https://www.pcgamer.com/still-wakes-the-deep-review)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
