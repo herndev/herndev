@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The liberal left vs the conservative right](http://9gag.com/gag/a0eY5jZ)
+ - 💣 [German man saves a little German boy who was being robbed and attacked by two subsaharans.](http://9gag.com/gag/aXPXwED)
  - ⏩ [So close...](http://9gag.com/gag/aXPXqDv)
- - 👉 [Dunno which is stupider, throwing away a drink that you bought or smashing someone&#39;s windshield in front of a camera.](http://9gag.com/gag/ae9pbnb)<!-- MEMES:END -->
+ - 👉 [Just in case...](http://9gag.com/gag/a5QK77o)<!-- MEMES:END -->
 
 ---
 
