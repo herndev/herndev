@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Being an ATM til the end](http://9gag.com/gag/avyLnbn)
- - ⏩ [Just in case...](http://9gag.com/gag/a5QK77o)
- - 👉 [When you trust your tofu building so much.](http://9gag.com/gag/aAyppQo)<!-- MEMES:END -->
+ - 💣 [Spanish Lesson with Ana](http://9gag.com/gag/agmNG6K)
+ - ⏩ [Gotta love the energy](http://9gag.com/gag/aZZNB19)
+ - 👉 [Unexpected](http://9gag.com/gag/a2vqd0p)<!-- MEMES:END -->
 
 ---
 
