@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How Black founders are creating AI models like ChatBlackGPT and Latimer.ai that cater to Black and brown communities, as current AI models lack cultural nuance &lpar;TechCrunch&rpar;](http://www.techmeme.com/240617/p2#a240617p2)
- - [Structure Research: tech companies&#39; data center plans in India will push the nation from the sixth place to the top spot in Asia Pacific for self-built capacity &lpar;Financial Times&rpar;](http://www.techmeme.com/240617/p1#a240617p1)
- - [&#39;House of the Dragon&#39; Season 2 Premiere Recap: Rage Unleashed in &#39;A Son for a Son&#39;     - CNET](https://www.cnet.com/tech/services-and-software/house-of-the-dragon-season-2-premiere-recap-rage-unleashed-in-a-son-for-a-son/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Copywriters detail how AI is changing their jobs, with some seeing a new line of work to make AI-generated text sound more human, a job that pays a lot less &lpar;Thomas Germain/BBC&rpar;](http://www.techmeme.com/240617/p3#a240617p3)
+ - [Leak: Here’s how the Samsung Galaxy Ring will charge](https://www.androidauthority.com/leak-samsung-galaxy-ring-charging-case-3451602/)
+ - [How Black founders are creating AI models like ChatBlackGPT and Latimer.ai that cater to Black and brown communities, as current AI models lack cultural nuance &lpar;TechCrunch&rpar;](http://www.techmeme.com/240617/p2#a240617p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
