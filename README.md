@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Happy Father&#39;s day..](http://9gag.com/gag/aGyR1Mz)
- - ⏩ [So close...](http://9gag.com/gag/aXPXqDv)
- - 👉 [Hello](http://9gag.com/gag/aQzn388)<!-- MEMES:END -->
+ - 💣 [How would you fix this one](http://9gag.com/gag/aMVQ96P)
+ - ⏩ [Comparing body count](http://9gag.com/gag/aVvXM4d)
+ - 👉 [What are the odds?](http://9gag.com/gag/aMVQ8oW)<!-- MEMES:END -->
 
 ---
 
