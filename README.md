@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [20 teenagers robbed a diamond store in California](http://9gag.com/gag/aAypwV2)
- - ⏩ [Panic after getting into an accident](http://9gag.com/gag/aoyjpG2)
- - 👉 [Would you still have eaten it?](http://9gag.com/gag/ae9pMQp)<!-- MEMES:END -->
+ - 💣 [Would you still have eaten it?](http://9gag.com/gag/ae9pMQp)
+ - ⏩ [Its so hard to find this in this generation.](http://9gag.com/gag/axyGgBL)
+ - 👉 [I wonder why the critics score is consistent but audience score declining.](http://9gag.com/gag/a87jyYd)<!-- MEMES:END -->
 
 ---
 
