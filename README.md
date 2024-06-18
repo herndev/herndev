@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Not even Riot wants to try competing with Fortnite on user-generated content: &#39;I&#39;m not gonna go pick that fight with Epic&#39;](https://www.pcgamer.com/games/moba/not-even-riot-wants-to-try-competing-with-fortnite-on-user-generated-content-im-not-gonna-go-pick-that-fight-with-epic)
- - [Smile 2 is making good on the original’s viral marketing gimmick](https://www.polygon.com/24181195/smile-2-trailer-release-date-cast-sequel-concert)
- - [Get 8 LGBTQ stories for just $18 with this pride-themed Humble Bundle](https://www.polygon.com/deals/24181184/pride-lgbt-humble-bundle-gaming-deal-sale)<!-- GAME:END -->
+ - [Fans Are Joking That The New Zelda Game Should Be Called &#39;Legend of Link&#39;](https://kotaku.com/legend-of-link-zelda-echoes-of-wisdom-reactions-1851547513)
+ - [Echoes of Wisdom’s swordless Zelda is not about what’s canon — it’s about good gameplay](https://www.polygon.com/24181059/legend-of-zelda-echoes-wisdom-why-no-sword-gameplay-nintendo-link)
+ - [New PC Game Is Basically Mafia-Themed Bioshock And It&#39;s Only $10](https://kotaku.com/fallen-aces-deus-ex-review-episode-1-steam-is-it-good-1851547406)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
