@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Somewhere in a train station in Chile](http://9gag.com/gag/aryRgKy)
- - ⏩ [Panic after getting into an accident](http://9gag.com/gag/aoyjpG2)
- - 👉 [Dunno which is stupider, throwing away a drink that you bought or smashing someone&#39;s windshield in front of a camera.](http://9gag.com/gag/ae9pbnb)<!-- MEMES:END -->
+ - 💣 [Happy Father&#39;s day..](http://9gag.com/gag/aGyR1Mz)
+ - ⏩ [So close...](http://9gag.com/gag/aXPXqDv)
+ - 👉 [Hello](http://9gag.com/gag/aQzn388)<!-- MEMES:END -->
 
 ---
 
