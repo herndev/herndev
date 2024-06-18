@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon Labor Union members vote to join forces with the 1.3M-member Teamsters union; ALU President Christian Smalls says Teamsters allocated $8M for organizing &lpar;Noam Scheiber/New York Times&rpar;](http://www.techmeme.com/240618/p13#a240618p13)
- - [Margrethe Vestager says Apple has a number of &quot;very serious&quot; issues under the EU&#39;s DMA, and the conclusions of an investigation will arrive &quot;hopefully soon&quot; &lpar;Arjun Kharpal/CNBC&rpar;](http://www.techmeme.com/240618/p12#a240618p12)
- - [EU has very serious issues with Apple, says competition chief](https://appleinsider.com/articles/24/06/18/eu-has-very-serious-issues-with-apple-says-competition-chief?utm_medium=rss)<!-- TECH:END -->
+ - [It seems all but certain that the Pixel 10’s chip will be made by TSMC](https://www.androidauthority.com/google-pixel-10-tensor-g5-tsmc-report-3452302/)
+ - [Apple Watch will finally support an essential phone feature we’ve had for decades](https://www.androidauthority.com/apple-watch-support-ringtones-watchos-11-3452295/)
+ - [Future HomeKit could track you through your house and predict your needs](https://appleinsider.com/articles/23/02/07/future-homekit-could-track-you-through-your-house-and-predict-your-needs?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
