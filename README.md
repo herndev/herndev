@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Forza Horizon 5: Modern Horizons Update Brings 5 Iconic Cars from Movies and TV](https://forza.net/news/forza-horizon-5-modern-horizons#new_tab)
- - [Tough day at the office? How about a mandatory photo montage to calm you down, ordered by an AI that&#39;s monitoring how close you get to breaking point](https://www.pcgamer.com/software/ai/tough-day-at-the-office-how-about-a-mandatory-photo-montage-to-calm-you-down-ordered-by-an-ai-thats-monitoring-how-close-you-get-to-breaking-point)
- - [Todd Howard confirms that Starfield will get more DLCs after Shattered Space for &#39;hopefully a very long time&#39;](https://www.pcgamer.com/games/rpg/todd-howard-confirms-that-starfield-will-get-more-dlcs-after-shattered-space-for-hopefully-a-very-long-time)<!-- GAME:END -->
+ - [Coming to Game Pass: EA Sports FC 24, My Time at Sandrock, Robin Hood – Sherwood Builders, and More](https://news.xbox.com/en-us/2024/06/18/xbox-game-pass-june-2024-wave-2/)
+ - [Bridgerton’s sex is going for quality over quantity — that’s a good thing](https://www.polygon.com/24180233/bridgerton-romance-sex-steamy-scenes)
+ - [Someone turned the Ocarina of Time soundtrack into a perfect Zelda jazz album](https://www.polygon.com/zelda/24180822/zelda-ocarina-of-time-the-deku-trio-jazz)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
