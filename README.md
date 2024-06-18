@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Netflix House will fill the voids left by dead department stores](https://www.theverge.com/2024/6/18/24181027/netflix-house-retail-dallas-king-of-prussia-2025)
- - [Apple’s Vision Pro team is reportedly focused on building a cheaper headset](https://www.theverge.com/2024/6/18/24181106/apple-vision-pro-team-cheaper-headset)
- - [&#39;The Legend of Zelda: Echoes of Wisdom&#39; Finally Gives Zelda Her Own Game](https://www.wired.com/story/legend-of-zelda-echoes-of-wisdom-release-date/)<!-- TECH:END -->
+ - [Adobe’s new terms of service say it won’t use your work to train AI](https://www.theverge.com/2024/6/18/24181001/adobe-updated-terms-of-service-wont-train-ai-on-work)
+ - [Samsung to use 200 Galaxy S24 Ultras to film Olympic opening ceremony](https://www.androidauthority.com/samsung-galaxy-s24-ultra-olympics-3452401/)
+ - [Here are the best Kindle deals right now](https://www.theverge.com/21539047/best-amazon-kindle-deals)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
