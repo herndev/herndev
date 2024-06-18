@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Coming to Game Pass: EA Sports FC 24, My Time at Sandrock, Robin Hood – Sherwood Builders, and More](https://news.xbox.com/en-us/2024/06/18/xbox-game-pass-june-2024-wave-2/)
- - [Bridgerton’s sex is going for quality over quantity — that’s a good thing](https://www.polygon.com/24180233/bridgerton-romance-sex-steamy-scenes)
- - [Someone turned the Ocarina of Time soundtrack into a perfect Zelda jazz album](https://www.polygon.com/zelda/24180822/zelda-ocarina-of-time-the-deku-trio-jazz)<!-- GAME:END -->
+ - [Warhammer 40,000: Boltgun: Breathing Retro Life into the Cast of Enemies](https://news.xbox.com/en-us/2024/06/18/warhammer-40000-boltgun-forges-of-corruption-dlc/)
+ - [Why clicker game Banana — the ‘legal infinite money glitch’ — is going viral on Steam](https://www.polygon.com/gaming/24173617/banana-clicker-game-steam-egg)
+ - [Octopath Traveler 2, Callisto Protocol lead a June 2024 Game Pass update](https://www.polygon.com/xbox/24172968/game-pass-june-2024-free-xbox-games-octopath-traveler-2-callisto-protocol)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
