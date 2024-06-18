@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Call of Duty x Fallout Sees Task Force 141 Join the Vault Dwellers, Available June 20](https://www.callofduty.com/blog/2024/06/call-of-duty-modern-warfare-iii-warzone-wzm-fallout-141-bundle#new_tab)
- - [Valheim: The Board Game boils your server down to a 2-hour play session](https://www.polygon.com/24180447/valheim-the-board-game-mood-publishing-crowdfunding)
- - [All the new video games launching in 2024](https://www.polygon.com/gaming/23844302/video-game-release-dates-2024-new-upcoming)<!-- GAME:END -->
+ - [New Marvel vs. Capcom Collection Latest Game To Also Skip Xbox](https://kotaku.com/xbox-marvel-vs-capcom-mvc2-collection-arcade-switch-ps5-1851546799)
+ - [Dragon Quest 3 Remake Hands-On: A Classic RPG Gets A Stunning Overhaul](https://kotaku.com/dragon-quest-3-hd-2d-remake-preview-1851546965)
+ - [More than 10 years later, Nintendo is righting its Zelda and Peach crimes](https://www.polygon.com/24181064/legend-of-zelda-echoes-of-wisdom-nintendo-switch-princess-peach)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
