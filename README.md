@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Huawei is considering taking a cut of in-app purchases on its Harmony OS, and has discussed a ~20% fee with developers, below Apple and Google&#39;s 30% &lpar;Pei Li/Bloomberg&rpar;](http://www.techmeme.com/240618/p10#a240618p10)
- - [Leak: The Xiaomi 15 could be the pocket-friendly flagship phone to beat](https://www.androidauthority.com/leak-xiaomi-15-camera-battery-3452251/)
- - [Google is testing a persistent bottom search bar in the Google app](https://www.androidauthority.com/google-beta-persistent-search-bar-3452214/)<!-- TECH:END -->
+ - [Amazon Labor Union members vote to join forces with the 1.3M-member Teamsters union; ALU President Christian Smalls says Teamsters allocated $8M for organizing &lpar;Noam Scheiber/New York Times&rpar;](http://www.techmeme.com/240618/p13#a240618p13)
+ - [Margrethe Vestager says Apple has a number of &quot;very serious&quot; issues under the EU&#39;s DMA, and the conclusions of an investigation will arrive &quot;hopefully soon&quot; &lpar;Arjun Kharpal/CNBC&rpar;](http://www.techmeme.com/240618/p12#a240618p12)
+ - [EU has very serious issues with Apple, says competition chief](https://appleinsider.com/articles/24/06/18/eu-has-very-serious-issues-with-apple-says-competition-chief?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
