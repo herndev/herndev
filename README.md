@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [5 Big Sales Remain in 2024: Everything You Need to Know Ahead of the Fourth of July     - CNET](https://www.cnet.com/tech/5-big-sales-remain-in-2024-everything-you-need-to-know-ahead-of-the-fourth-of-july/#ftag=CAD590a51e)
- - [Best Internet Providers in South Bend, Indiana     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-south-bend-in/#ftag=CAD590a51e)
- - [AIs are coming for social networks](https://www.theverge.com/2024/6/18/24181196/butterflies-app-ai-chatbots-social-media)<!-- TECH:END -->
+ - [The Pixel 9 could let you create your own stickers with generative AI](https://www.androidauthority.com/pixel-9-generative-ai-stickers-3452501/)
+ - [STEM Students Refuse to Work at Google and Amazon Over Project Nimbus](https://www.wired.com/story/stem-students-refuse-to-work-at-google-and-amazon-over-project-nimbus/)
+ - [Fisker tried to out Tesla Tesla, and now it’s bankrupt](https://www.theverge.com/2024/6/18/24181228/fisker-bankrupt-chapter-11-ev-ocean-tesla-playbook-musk)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
