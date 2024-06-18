@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Just finish this with my daughters &lpar;7 and 8 yo&rpar; and they absolute loved it. Can you recomend a anime like that, without sexual content?](http://9gag.com/gag/a4PL7P6)
- - ⏩ [I&#39;m sure there were no repurcusions](http://9gag.com/gag/aYQwK90)
- - 👉 [I don&#39;t go abroad because there is no bidet.](http://9gag.com/gag/aAypwPp)<!-- MEMES:END -->
+ - 💣 [The only thing holding the structure is paint](http://9gag.com/gag/axyG0xb)
+ - ⏩ [Jet Ski Driver Dodged Shockwave by Jumping into Water Just in Time After Explosion in Beirut!](http://9gag.com/gag/aByr8mO)
+ - 👉 [I&#39;m sure there were no repurcusions](http://9gag.com/gag/aYQwK90)<!-- MEMES:END -->
 
 ---
 
