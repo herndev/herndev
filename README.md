@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [The solid-state AirJet cooler &#39;not bound by the limitations of mechanical devices&#39; aims to double its thermal performance every two years. Y&#39;know, Frore&#39;s Law](https://www.pcgamer.com/hardware/cooling/frore-airjet-hands-on-ceo-interview)
  - [Can Roggenrola be shiny in Pokémon Go?](https://www.polygon.com/pokemon-go-guide/24180267/can-roggenrola-be-shiny-boldore-gigalith)
- - [Today&#39;s Wordle answer for Tuesday, June 18](https://www.pcgamer.com/games/puzzle/wordle-answer-today-june-18-2024)
- - [Bandai Namco just surprise-dropped 2 classic Baten Kaitos RPGs on Steam](https://www.pcgamer.com/games/rpg/bandai-namco-just-surprise-dropped-2-classic-baten-kaitos-rpgs-on-steam)<!-- GAME:END -->
+ - [Today&#39;s Wordle answer for Tuesday, June 18](https://www.pcgamer.com/games/puzzle/wordle-answer-today-june-18-2024)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
