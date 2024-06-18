@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [737 days since the last Silksong news, and not a whisper from this year&#39;s Nintendo Direct—I&#39;d like to say fans are coping well but, y&#39;know](https://www.pcgamer.com/games/action/737-days-since-the-last-silksong-news-and-not-a-whisper-from-the-nintendo-direct-i-d-like-to-say-fans-are-coping-well-but-y-know)
- - [Original Dragon Quest trilogy getting the ‘HD-2D’ remake treatment](https://www.polygon.com/24180967/dragon-quest-hd-2d-nintendo-switch)
- - [AMD&#39;s new 890M mobile GPU could be over 30% faster than the 780M currently used in most handheld gaming PCs](https://www.pcgamer.com/hardware/gaming-laptops/amds-new-890m-mobile-gpu-could-be-over-30-faster-than-the-780m-currently-used-in-most-handheld-gaming-pcs)<!-- GAME:END -->
+ - [Call of Duty x Fallout Sees Task Force 141 Join the Vault Dwellers, Available June 20](https://www.callofduty.com/blog/2024/06/call-of-duty-modern-warfare-iii-warzone-wzm-fallout-141-bundle#new_tab)
+ - [Valheim: The Board Game boils your server down to a 2-hour play session](https://www.polygon.com/24180447/valheim-the-board-game-mood-publishing-crowdfunding)
+ - [All the new video games launching in 2024](https://www.polygon.com/gaming/23844302/video-game-release-dates-2024-new-upcoming)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
