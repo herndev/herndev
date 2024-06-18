@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Hello](http://9gag.com/gag/aQzn388)
- - ⏩ [Jet Ski Driver Dodged Shockwave by Jumping into Water Just in Time After Explosion in Beirut!](http://9gag.com/gag/aByr8mO)
- - 👉 [A star is born](http://9gag.com/gag/a2vq431)<!-- MEMES:END -->
+ - 💣 [What are the odds?](http://9gag.com/gag/aMVQ8oW)
+ - ⏩ [Comparing body count](http://9gag.com/gag/aVvXM4d)
+ - 👉 [Hello](http://9gag.com/gag/aQzn388)<!-- MEMES:END -->
 
 ---
 
