@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I don&#39;t go abroad because there is no bidet.](http://9gag.com/gag/aAypwPp)
- - ⏩ [Jet Ski Driver Dodged Shockwave by Jumping into Water Just in Time After Explosion in Beirut!](http://9gag.com/gag/aByr8mO)
- - 👉 [Somewhere in a train station in Chile](http://9gag.com/gag/aryRgKy)<!-- MEMES:END -->
+ - 💣 [So close...](http://9gag.com/gag/aXPXqDv)
+ - ⏩ [The only thing holding the structure is paint](http://9gag.com/gag/axyG0xb)
+ - 👉 [Would you still have eaten it?](http://9gag.com/gag/ae9pMQp)<!-- MEMES:END -->
 
 ---
 
