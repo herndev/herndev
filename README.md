@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [300 day&#39;s](http://9gag.com/gag/a5QKRpG)
- - ⏩ [Somewhere in a train station in Chile](http://9gag.com/gag/aryRgKy)
- - 👉 [Hello](http://9gag.com/gag/aQzn388)<!-- MEMES:END -->
+ - 💣 [Hello](http://9gag.com/gag/aQzn388)
+ - ⏩ [Jet Ski Driver Dodged Shockwave by Jumping into Water Just in Time After Explosion in Beirut!](http://9gag.com/gag/aByr8mO)
+ - 👉 [A star is born](http://9gag.com/gag/a2vq431)<!-- MEMES:END -->
 
 ---
 
