@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Would you still have eaten it?](http://9gag.com/gag/ae9pMQp)
- - ⏩ [What are the odds?](http://9gag.com/gag/aMVQ8oW)
- - 👉 [Just finish this with my daughters &lpar;7 and 8 yo&rpar; and they absolute loved it. Can you recomend a anime like that, without sexual content?](http://9gag.com/gag/a4PL7P6)<!-- MEMES:END -->
+ - 💣 [Sand people logic](http://9gag.com/gag/adBp9YN)
+ - ⏩ [Sounds easy enough](http://9gag.com/gag/aByr8gO)
+ - 👉 [Never trust people who cry for the camera and choose to post it....](http://9gag.com/gag/a4PLbey)<!-- MEMES:END -->
 
 ---
 
