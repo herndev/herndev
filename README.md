@@ -40,8 +40,8 @@
 
 <!-- TECH:START -->
  - [Beats Solo Buds review: Apple&#39;s best wireless audio bargain yet](https://appleinsider.com/articles/24/06/18/beats-solo-buds-review-apples-best-wireless-audio-bargain-yet?utm_medium=rss)
- - [The Beats Solo Buds have a great look and an even better price](https://www.theverge.com/24180840/beats-solo-buds-earbuds-hands-on)
- - [Shadow of the Erdtree reintroduced me to Elden Ring by kicking my ass](https://www.theverge.com/24180536/shadow-of-the-erdtree-review-elden-ring-dlc)<!-- TECH:END -->
+ - [Staggering $300 discount hits Apple&#39;s M2 MacBook Air with 16GB RAM, 512GB SSD](https://appleinsider.com/articles/24/06/18/staggering-300-discount-hits-apples-m2-macbook-air-with-16gb-ram-512gb-ssd?utm_medium=rss)
+ - [Nintendo shares the first gameplay trailer for Metroid Prime 4: Beyond](https://www.theverge.com/23768041/metroid-prime-4-nintendo-direct-trailer)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
