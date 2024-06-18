@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Adobe’s new terms of service say it won’t use your work to train AI](https://www.theverge.com/2024/6/18/24181001/adobe-updated-terms-of-service-wont-train-ai-on-work)
- - [Samsung to use 200 Galaxy S24 Ultras to film Olympic opening ceremony](https://www.androidauthority.com/samsung-galaxy-s24-ultra-olympics-3452401/)
- - [Here are the best Kindle deals right now](https://www.theverge.com/21539047/best-amazon-kindle-deals)<!-- TECH:END -->
+ - [5 Big Sales Remain in 2024: Everything You Need to Know Ahead of the Fourth of July     - CNET](https://www.cnet.com/tech/5-big-sales-remain-in-2024-everything-you-need-to-know-ahead-of-the-fourth-of-july/#ftag=CAD590a51e)
+ - [Best Internet Providers in South Bend, Indiana     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-south-bend-in/#ftag=CAD590a51e)
+ - [AIs are coming for social networks](https://www.theverge.com/2024/6/18/24181196/butterflies-app-ai-chatbots-social-media)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
