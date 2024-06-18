@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Is TikTok’s new app another Instagram clone? Whee aren’t sure](https://www.androidauthority.com/whee-tiktok-app-3452198/)
- - [T-Mobile can no longer advertise a ‘Price Lock’ if its doesn’t lock prices](https://www.androidauthority.com/t-mobile-price-lock-guarantee-advertising-3452195/)
- - [Instead of Mining the Deep Sea, Maybe People Should Just Fix Stuff](https://www.wired.com/story/instead-of-mining-the-deep-sea-maybe-people-should-just-fix-stuff/)<!-- TECH:END -->
+ - [Meta releases Threads API for developers to build ‘unique integrations’](https://www.theverge.com/2024/6/18/24180794/meta-threads-api-developers-launch-availability)
+ - [Social media creators say earning a decent, reliable income is getting harder, as platforms pay less for popular posts and brands get pickier about partnerships &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240618/p7#a240618p7)
+ - [Crypto Scammers Are Targeting Trump’s MAGA Supporters](https://www.wired.com/story/maga-crypto-scammers-donald-trump/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
