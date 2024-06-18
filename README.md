@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Would you still have eaten it?](http://9gag.com/gag/ae9pMQp)
- - ⏩ [Its so hard to find this in this generation.](http://9gag.com/gag/axyGgBL)
- - 👉 [I wonder why the critics score is consistent but audience score declining.](http://9gag.com/gag/a87jyYd)<!-- MEMES:END -->
+ - 💣 [Somewhere in a train station in Chile](http://9gag.com/gag/aryRgKy)
+ - ⏩ [Panic after getting into an accident](http://9gag.com/gag/aoyjpG2)
+ - 👉 [Dunno which is stupider, throwing away a drink that you bought or smashing someone&#39;s windshield in front of a camera.](http://9gag.com/gag/ae9pbnb)<!-- MEMES:END -->
 
 ---
 
