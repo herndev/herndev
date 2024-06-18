@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Signal president Meredith Whittaker warns the EU&#39;s recent &quot;upload moderation&quot; proposal to detect CSAM &quot;fundamentally undermines encryption&quot; of messaging apps &lpar;Natasha Lomas/TechCrunch&rpar;](http://www.techmeme.com/240618/p1#a240618p1)
- - [The US sues Adobe for its subscription practices: Is Adobe trying to swindle us?](https://www.androidauthority.com/us-adobe-lawsuit-subscription-dark-patterns-3452167/)
- - [B&amp;H&#39;s MacBook Pro Mega Deal Zone knocks up to $550 off](https://appleinsider.com/articles/24/06/18/bhs-macbook-pro-mega-deal-zone-knocks-up-to-550-off?utm_medium=rss)<!-- TECH:END -->
+ - [Google launches Gemini app for Android in India, supporting English and nine other languages; Gemini will be available via Google app on iOS in the coming weeks &lpar;Amar Subramanya/Google&rpar;](http://www.techmeme.com/240618/p3#a240618p3)
+ - [Cambridge-based CuspAI, which is developing AI-powered tech for designing new materials, raised a $30M seed and has added Geoffrey Hinton to its advisory board &lpar;Mark Bergen/Bloomberg&rpar;](http://www.techmeme.com/240618/p2#a240618p2)
+ - [Signal president Meredith Whittaker warns the EU&#39;s recent &quot;upload moderation&quot; proposal to detect CSAM &quot;fundamentally undermines encryption&quot; of messaging apps &lpar;Natasha Lomas/TechCrunch&rpar;](http://www.techmeme.com/240618/p1#a240618p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
