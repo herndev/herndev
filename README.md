@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [So close...](http://9gag.com/gag/aXPXqDv)
- - ⏩ [Comparing body count](http://9gag.com/gag/aVvXM4d)
- - 👉 [2024 junior world champion launching his F1D, total flight time 22 minutes](http://9gag.com/gag/azxVXgj)<!-- MEMES:END -->
+ - 💣 [Jet Ski Driver Dodged Shockwave by Jumping into Water Just in Time After Explosion in Beirut!](http://9gag.com/gag/aByr8mO)
+ - ⏩ [300 day&#39;s](http://9gag.com/gag/a5QKRpG)
+ - 👉 [JURATHICC WORLD !](http://9gag.com/gag/a34LK8N)<!-- MEMES:END -->
 
 ---
 
