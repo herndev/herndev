@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The only thing holding the structure is paint](http://9gag.com/gag/axyG0xb)
- - ⏩ [Jet Ski Driver Dodged Shockwave by Jumping into Water Just in Time After Explosion in Beirut!](http://9gag.com/gag/aByr8mO)
- - 👉 [I&#39;m sure there were no repurcusions](http://9gag.com/gag/aYQwK90)<!-- MEMES:END -->
+ - 💣 [What are the odds?](http://9gag.com/gag/aMVQ8oW)
+ - ⏩ [Idiot driver ruins trip to Wendys](http://9gag.com/gag/axyGV81)
+ - 👉 [Score!](http://9gag.com/gag/aoyje2n)<!-- MEMES:END -->
 
 ---
 
