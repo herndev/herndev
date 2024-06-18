@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Final Fantasy VII Rebirth’s Best Swords For Cloud](https://kotaku.com/final-fantasy-7-rebirth-ff7-cloud-best-swords-build-1851547158)
- - [The father of Final Fantasy teamed back up with Square Enix after 21 years to break his latest RPG out of Apple Arcade jail](https://www.pcgamer.com/games/rpg/the-father-of-final-fantasy-teamed-back-up-with-square-enix-after-21-years-to-break-his-latest-rpg-out-of-apple-arcade-jail)
- - [The voice of Mass Effect&#39;s sexy bird man Garrus will be the voice of Avowed&#39;s sexy fish man Kai](https://www.pcgamer.com/games/rpg/the-voice-of-mass-effects-sexy-bird-man-garrus-will-be-the-voice-of-avoweds-sexy-fish-man-kai)<!-- GAME:END -->
+ - [Not even Riot wants to try competing with Fortnite on user-generated content: &#39;I&#39;m not gonna go pick that fight with Epic&#39;](https://www.pcgamer.com/games/moba/not-even-riot-wants-to-try-competing-with-fortnite-on-user-generated-content-im-not-gonna-go-pick-that-fight-with-epic)
+ - [Smile 2 is making good on the original’s viral marketing gimmick](https://www.polygon.com/24181195/smile-2-trailer-release-date-cast-sequel-concert)
+ - [Get 8 LGBTQ stories for just $18 with this pride-themed Humble Bundle](https://www.polygon.com/deals/24181184/pride-lgbt-humble-bundle-gaming-deal-sale)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
