@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Instead of Mining the Deep Sea, Maybe People Should Just Fix Stuff](https://www.wired.com/story/instead-of-mining-the-deep-sea-maybe-people-should-just-fix-stuff/)
- - [A look at Shein&#39;s efforts to diversify away from fast fashion, as the company struggles to get third-party merchants to sign up for its marketplace &lpar;Eleanor Olcott/Financial Times&rpar;](http://www.techmeme.com/240618/p6#a240618p6)
- - [Down-ballot campaigns in the US are experimenting with AI, which can help them save money and time, while also raising fears about the threats of AI deepfakes &lpar;Associated Press&rpar;](http://www.techmeme.com/240618/p5#a240618p5)<!-- TECH:END -->
+ - [Is TikTok’s new app another Instagram clone? Whee aren’t sure](https://www.androidauthority.com/whee-tiktok-app-3452198/)
+ - [T-Mobile can no longer advertise a ‘Price Lock’ if its doesn’t lock prices](https://www.androidauthority.com/t-mobile-price-lock-guarantee-advertising-3452195/)
+ - [Instead of Mining the Deep Sea, Maybe People Should Just Fix Stuff](https://www.wired.com/story/instead-of-mining-the-deep-sea-maybe-people-should-just-fix-stuff/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
