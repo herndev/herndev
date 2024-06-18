@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Call of Duty&#39;s new Fallout crossover dresses up Price and the lads in stretchy blue jammies, and I&#39;m sorry but it&#39;s not a great look](https://www.pcgamer.com/games/fps/call-of-dutys-new-fallout-crossover-dresses-up-price-and-the-lads-in-stretchy-blue-jammies-and-im-sorry-but-its-not-a-great-look)
  - [Fans Are Joking That The New Zelda Game Should Be Called &#39;Legend of Link&#39;](https://kotaku.com/legend-of-link-zelda-echoes-of-wisdom-reactions-1851547513)
- - [Echoes of Wisdom’s swordless Zelda is not about what’s canon — it’s about good gameplay](https://www.polygon.com/24181059/legend-of-zelda-echoes-wisdom-why-no-sword-gameplay-nintendo-link)
- - [New PC Game Is Basically Mafia-Themed Bioshock And It&#39;s Only $10](https://kotaku.com/fallen-aces-deus-ex-review-episode-1-steam-is-it-good-1851547406)<!-- GAME:END -->
+ - [Echoes of Wisdom’s swordless Zelda is not about what’s canon — it’s about good gameplay](https://www.polygon.com/24181059/legend-of-zelda-echoes-wisdom-why-no-sword-gameplay-nintendo-link)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
