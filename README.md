@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Pixel 9 could let you create your own stickers with generative AI](https://www.androidauthority.com/pixel-9-generative-ai-stickers-3452501/)
- - [STEM Students Refuse to Work at Google and Amazon Over Project Nimbus](https://www.wired.com/story/stem-students-refuse-to-work-at-google-and-amazon-over-project-nimbus/)
- - [Fisker tried to out Tesla Tesla, and now it’s bankrupt](https://www.theverge.com/2024/6/18/24181228/fisker-bankrupt-chapter-11-ev-ocean-tesla-playbook-musk)<!-- TECH:END -->
+ - [Appfigures: iOS 18 could &quot;Sherlock&quot; trail apps, grammar helpers, math solvers, password managers, and emoji apps that have an estimated $393M in annual revenue &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/240618/p31#a240618p31)
+ - [An effort to fund an internet subsidy program just got thwarted again](https://www.theverge.com/2024/6/18/24181011/spectrum-legislation-postponed-affordable-connectivity-program)
+ - [The US FTC says it has referred a complaint to the DOJ against TikTok and ByteDance over potential violations of the Children&#39;s Online Privacy Act &lpar;Reuters&rpar;](http://www.techmeme.com/240618/p30#a240618p30)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
