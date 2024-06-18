@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [True.](http://9gag.com/gag/aQzneLK)
- - ⏩ [Jet Ski Driver Dodged Shockwave by Jumping into Water Just in Time After Explosion in Beirut!](http://9gag.com/gag/aByr8mO)
- - 👉 [Comparing body count](http://9gag.com/gag/aVvXM4d)<!-- MEMES:END -->
+ - 💣 [20 teenagers robbed a diamond store in California](http://9gag.com/gag/aAypwV2)
+ - ⏩ [Panic after getting into an accident](http://9gag.com/gag/aoyjpG2)
+ - 👉 [Would you still have eaten it?](http://9gag.com/gag/ae9pMQp)<!-- MEMES:END -->
 
 ---
 
