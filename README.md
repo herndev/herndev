@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Appfigures: iOS 18 could &quot;Sherlock&quot; trail apps, grammar helpers, math solvers, password managers, and emoji apps that have an estimated $393M in annual revenue &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/240618/p31#a240618p31)
- - [An effort to fund an internet subsidy program just got thwarted again](https://www.theverge.com/2024/6/18/24181011/spectrum-legislation-postponed-affordable-connectivity-program)
- - [The US FTC says it has referred a complaint to the DOJ against TikTok and ByteDance over potential violations of the Children&#39;s Online Privacy Act &lpar;Reuters&rpar;](http://www.techmeme.com/240618/p30#a240618p30)<!-- TECH:END -->
+ - [Qilin, a cohort of Russian-speaking hackers, claims responsibility for the ransomware attack impacting London hospitals for weeks and demands $50M to end it &lpar;Ryan Gallagher/Bloomberg&rpar;](http://www.techmeme.com/240618/p34#a240618p34)
+ - [Motorola Razr 2024: European listings reveal pricing, colors, and more](https://www.androidauthority.com/moto-razr-2024-price-leak-3452529/)
+ - [Amazon union workers and the Teamsters have inked a deal](https://www.theverge.com/2024/6/18/24181246/amazon-labor-union-teamsters-affiliate-agreement-warehouse-workers)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
