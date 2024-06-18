@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Well that escalated quickly](http://9gag.com/gag/aMVQ8YV)
- - ⏩ [Would you still have eaten it?](http://9gag.com/gag/ae9pMQp)
- - 👉 [Comparing body count](http://9gag.com/gag/aVvXM4d)<!-- MEMES:END -->
+ - 💣 [Just finish this with my daughters &lpar;7 and 8 yo&rpar; and they absolute loved it. Can you recomend a anime like that, without sexual content?](http://9gag.com/gag/a4PL7P6)
+ - ⏩ [I&#39;m sure there were no repurcusions](http://9gag.com/gag/aYQwK90)
+ - 👉 [I don&#39;t go abroad because there is no bidet.](http://9gag.com/gag/aAypwPp)<!-- MEMES:END -->
 
 ---
 
