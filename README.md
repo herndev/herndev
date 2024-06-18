@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [New Marvel vs. Capcom Collection Latest Game To Also Skip Xbox](https://kotaku.com/xbox-marvel-vs-capcom-mvc2-collection-arcade-switch-ps5-1851546799)
- - [Dragon Quest 3 Remake Hands-On: A Classic RPG Gets A Stunning Overhaul](https://kotaku.com/dragon-quest-3-hd-2d-remake-preview-1851546965)
- - [More than 10 years later, Nintendo is righting its Zelda and Peach crimes](https://www.polygon.com/24181064/legend-of-zelda-echoes-of-wisdom-nintendo-switch-princess-peach)<!-- GAME:END -->
+ - [Final Fantasy VII Rebirth’s Best Swords For Cloud](https://kotaku.com/final-fantasy-7-rebirth-ff7-cloud-best-swords-build-1851547158)
+ - [The father of Final Fantasy teamed back up with Square Enix after 21 years to break his latest RPG out of Apple Arcade jail](https://www.pcgamer.com/games/rpg/the-father-of-final-fantasy-teamed-back-up-with-square-enix-after-21-years-to-break-his-latest-rpg-out-of-apple-arcade-jail)
+ - [The voice of Mass Effect&#39;s sexy bird man Garrus will be the voice of Avowed&#39;s sexy fish man Kai](https://www.pcgamer.com/games/rpg/the-voice-of-mass-effects-sexy-bird-man-garrus-will-be-the-voice-of-avoweds-sexy-fish-man-kai)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
