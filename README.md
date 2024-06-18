@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [How would you fix this one](http://9gag.com/gag/aMVQ96P)
- - ⏩ [Comparing body count](http://9gag.com/gag/aVvXM4d)
- - 👉 [What are the odds?](http://9gag.com/gag/aMVQ8oW)<!-- MEMES:END -->
+ - 💣 [Well that escalated quickly](http://9gag.com/gag/aMVQ8YV)
+ - ⏩ [Would you still have eaten it?](http://9gag.com/gag/ae9pMQp)
+ - 👉 [Comparing body count](http://9gag.com/gag/aVvXM4d)<!-- MEMES:END -->
 
 ---
 
