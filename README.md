@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [So close...](http://9gag.com/gag/aXPXqDv)
- - ⏩ [Comparing body count](http://9gag.com/gag/aVvXM4d)
- - 👉 [Score!](http://9gag.com/gag/aoyje2n)<!-- MEMES:END -->
+ - 💣 [This f**ks with my brain.](http://9gag.com/gag/aVvX3jO)
+ - ⏩ [Jet Ski Driver Dodged Shockwave by Jumping into Water Just in Time After Explosion in Beirut!](http://9gag.com/gag/aByr8mO)
+ - 👉 [2024 junior world champion launching his F1D, total flight time 22 minutes](http://9gag.com/gag/azxVXgj)<!-- MEMES:END -->
 
 ---
 
