@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Mystery Google device passes through the FCC: Is it a Nest Thermostat, Hub, or speaker?](https://www.androidauthority.com/google-nest-thermostat-fcc-3452162/)
- - [Finbourne, which helps financial companies organize and use their data in AI and other models, raised a &amp;pound;55M Series B at a valuation just over &amp;pound;280M &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/240617/p34#a240617p34)
- - [Q&amp;A with Tubi CEO Anjali Sud, who joined from Vimeo in September 2023, on the streaming industry, working within Fox, subscription fatigue, copyright, and more &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/240617/p33#a240617p33)<!-- TECH:END -->
+ - [Dockcase Studio Smart USB-C Hub 8-in-1 Review - Powerful hub with perplexing features.](https://appleinsider.com/articles/24/06/18/dockcase-studio-smart-usb-c-hub-8-in-1-review---powerful-hub-with-perplexing-features?utm_medium=rss)
+ - [Sources: Shein CEO Xu Yangtian has deliberately kept a low profile for fear of attracting unwanted public attention; Shein has never published any photos of him &lpar;Wency Chen/South China Morning Post&rpar;](http://www.techmeme.com/240617/p35#a240617p35)
+ - [Mystery Google device passes through the FCC: Is it a Nest Thermostat, Hub, or speaker?](https://www.androidauthority.com/google-nest-thermostat-fcc-3452162/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
