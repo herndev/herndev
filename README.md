@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The solid-state AirJet cooler &#39;not bound by the limitations of mechanical devices&#39; aims to double its thermal performance every two years. Y&#39;know, Frore&#39;s Law](https://www.pcgamer.com/hardware/cooling/frore-airjet-hands-on-ceo-interview)
- - [Can Roggenrola be shiny in Pokémon Go?](https://www.polygon.com/pokemon-go-guide/24180267/can-roggenrola-be-shiny-boldore-gigalith)
- - [Today&#39;s Wordle answer for Tuesday, June 18](https://www.pcgamer.com/games/puzzle/wordle-answer-today-june-18-2024)<!-- GAME:END -->
+ - [EA&#39;s Skate might have Tim Robinson, but the skating game where I played a demon on a quest to eat the Moon is my most anticipated Tony Hawk-like this year](https://www.pcgamer.com/games/action/eas-skate-might-have-tim-robinson-but-the-skating-game-where-i-played-a-demon-on-a-quest-to-eat-the-moon-is-my-most-anticipated-tony-hawk-like-this-year)
+ - [&#39;Work with the players ... otherwise you shouldn&#39;t be doing it&#39;: Heads at Baldur&#39;s Gate 3 developer Larian Studios say you ought to &#39;really mean it&#39; going into early access](https://www.pcgamer.com/games/baldurs-gate/work-with-the-players-otherwise-you-shouldn-t-be-doing-it-heads-at-baldur-s-gate-3-developer-larian-studios-say-you-ought-to-really-mean-it-going-into-early-access)
+ - [The solid-state AirJet cooler &#39;not bound by the limitations of mechanical devices&#39; aims to double its thermal performance every two years. Y&#39;know, Frore&#39;s Law](https://www.pcgamer.com/hardware/cooling/frore-airjet-hands-on-ceo-interview)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
