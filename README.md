@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Beats Solo Buds review: Apple&#39;s best wireless audio bargain yet](https://appleinsider.com/articles/24/06/18/beats-solo-buds-review-apples-best-wireless-audio-bargain-yet?utm_medium=rss)
- - [Staggering $300 discount hits Apple&#39;s M2 MacBook Air with 16GB RAM, 512GB SSD](https://appleinsider.com/articles/24/06/18/staggering-300-discount-hits-apples-m2-macbook-air-with-16gb-ram-512gb-ssd?utm_medium=rss)
- - [Nintendo shares the first gameplay trailer for Metroid Prime 4: Beyond](https://www.theverge.com/23768041/metroid-prime-4-nintendo-direct-trailer)<!-- TECH:END -->
+ - [ASUS VivoBook S 15 Copilot+ PC review: Snapdragon X Elite is incredible, all day battery life, gorgeous 15.6&quot; OLED screen, and $1,299 for 1TB SSD and 16GB RAM &lpar;Zac Bowden/Windows Central&rpar;](http://www.techmeme.com/240618/p22#a240618p22)
+ - [Apple Vision Pro sequel stalls as work on cheaper consumer headset continues](https://appleinsider.com/articles/24/06/18/apple-vision-pro-sequel-stalls-as-work-on-cheaper-consumer-headset-continues?utm_medium=rss)
+ - [Source: Apple told at least one supplier it has suspended work on the next Apple Vision Pro; sources: it&#39;s still aiming to debut a cheaper model by end of 2025 &lpar;The Information&rpar;](http://www.techmeme.com/240618/p21#a240618p21)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
