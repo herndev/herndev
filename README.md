@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [It seems all but certain that the Pixel 10’s chip will be made by TSMC](https://www.androidauthority.com/google-pixel-10-tensor-g5-tsmc-report-3452302/)
- - [Apple Watch will finally support an essential phone feature we’ve had for decades](https://www.androidauthority.com/apple-watch-support-ringtones-watchos-11-3452295/)
- - [Future HomeKit could track you through your house and predict your needs](https://appleinsider.com/articles/23/02/07/future-homekit-could-track-you-through-your-house-and-predict-your-needs?utm_medium=rss)<!-- TECH:END -->
+ - [Apple Developer Academy gets new Artificial Intelligence curriculum](https://appleinsider.com/articles/24/06/18/apple-developer-academy-gets-new-artificial-intelligence-curriculum?utm_medium=rss)
+ - [EU to settle Apple Pay NFC probe after Apple&#39;s concessions](https://appleinsider.com/articles/24/06/18/eu-to-settle-apple-pay-nfc-probe-after-apples-concessions?utm_medium=rss)
+ - [Blackstone plans to buy Japanese digital comic provider Infocom in a ~$1.7B deal, in its biggest private equity transaction in Japan to date &lpar;Lisa Du/Bloomberg&rpar;](http://www.techmeme.com/240618/p16#a240618p16)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
