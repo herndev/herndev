@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Developer Academy gets new Artificial Intelligence curriculum](https://appleinsider.com/articles/24/06/18/apple-developer-academy-gets-new-artificial-intelligence-curriculum?utm_medium=rss)
- - [EU to settle Apple Pay NFC probe after Apple&#39;s concessions](https://appleinsider.com/articles/24/06/18/eu-to-settle-apple-pay-nfc-probe-after-apples-concessions?utm_medium=rss)
- - [Blackstone plans to buy Japanese digital comic provider Infocom in a ~$1.7B deal, in its biggest private equity transaction in Japan to date &lpar;Lisa Du/Bloomberg&rpar;](http://www.techmeme.com/240618/p16#a240618p16)<!-- TECH:END -->
+ - [Beats Solo Buds review: Apple&#39;s best wireless audio bargain yet](https://appleinsider.com/articles/24/06/18/beats-solo-buds-review-apples-best-wireless-audio-bargain-yet?utm_medium=rss)
+ - [The Beats Solo Buds have a great look and an even better price](https://www.theverge.com/24180840/beats-solo-buds-earbuds-hands-on)
+ - [Shadow of the Erdtree reintroduced me to Elden Ring by kicking my ass](https://www.theverge.com/24180536/shadow-of-the-erdtree-review-elden-ring-dlc)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
