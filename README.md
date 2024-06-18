@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Dockcase Studio Smart USB-C Hub 8-in-1 Review - Powerful hub with perplexing features.](https://appleinsider.com/articles/24/06/18/dockcase-studio-smart-usb-c-hub-8-in-1-review---powerful-hub-with-perplexing-features?utm_medium=rss)
- - [Sources: Shein CEO Xu Yangtian has deliberately kept a low profile for fear of attracting unwanted public attention; Shein has never published any photos of him &lpar;Wency Chen/South China Morning Post&rpar;](http://www.techmeme.com/240617/p35#a240617p35)
- - [Mystery Google device passes through the FCC: Is it a Nest Thermostat, Hub, or speaker?](https://www.androidauthority.com/google-nest-thermostat-fcc-3452162/)<!-- TECH:END -->
+ - [Signal president Meredith Whittaker warns the EU&#39;s recent &quot;upload moderation&quot; proposal to detect CSAM &quot;fundamentally undermines encryption&quot; of messaging apps &lpar;Natasha Lomas/TechCrunch&rpar;](http://www.techmeme.com/240618/p1#a240618p1)
+ - [The US sues Adobe for its subscription practices: Is Adobe trying to swindle us?](https://www.androidauthority.com/us-adobe-lawsuit-subscription-dark-patterns-3452167/)
+ - [B&amp;H&#39;s MacBook Pro Mega Deal Zone knocks up to $550 off](https://appleinsider.com/articles/24/06/18/bhs-macbook-pro-mega-deal-zone-knocks-up-to-550-off?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
