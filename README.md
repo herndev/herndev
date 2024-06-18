@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Warhammer 40,000: Boltgun: Breathing Retro Life into the Cast of Enemies](https://news.xbox.com/en-us/2024/06/18/warhammer-40000-boltgun-forges-of-corruption-dlc/)
- - [Why clicker game Banana — the ‘legal infinite money glitch’ — is going viral on Steam](https://www.polygon.com/gaming/24173617/banana-clicker-game-steam-egg)
- - [Octopath Traveler 2, Callisto Protocol lead a June 2024 Game Pass update](https://www.polygon.com/xbox/24172968/game-pass-june-2024-free-xbox-games-octopath-traveler-2-callisto-protocol)<!-- GAME:END -->
+ - [Everything announced at Nintendo Direct 2024](https://www.polygon.com/24180900/nintendo-direct-june-2024-everything-announced-games)
+ - [Metroid Prime 4 is coming in 2025, Nintendo promises](https://www.polygon.com/18128959/metroid-prime-4-release-date-trailer-nintendo-switch)
+ - [Link Is Missing In The Legend of Zelda: Echoes Of Wisdom](https://kotaku.com/legend-zelda-echoes-wisdom-trailer-release-date-link-1851546323)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
