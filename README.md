@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [What are the odds?](http://9gag.com/gag/aMVQ8oW)
+ - 💣 [So close...](http://9gag.com/gag/aXPXqDv)
  - ⏩ [Anime recommendations](http://9gag.com/gag/a2vqZje)
- - 👉 [Girls, always do the Hawk Tuah](http://9gag.com/gag/aKGBxpN)<!-- MEMES:END -->
+ - 👉 [Comparing body count](http://9gag.com/gag/aVvXM4d)<!-- MEMES:END -->
 
 ---
 
