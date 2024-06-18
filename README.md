@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta releases Threads API for developers to build ‘unique integrations’](https://www.theverge.com/2024/6/18/24180794/meta-threads-api-developers-launch-availability)
- - [Social media creators say earning a decent, reliable income is getting harder, as platforms pay less for popular posts and brands get pickier about partnerships &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240618/p7#a240618p7)
- - [Crypto Scammers Are Targeting Trump’s MAGA Supporters](https://www.wired.com/story/maga-crypto-scammers-donald-trump/)<!-- TECH:END -->
+ - [Sources: Huawei is considering taking a cut of in-app purchases on its Harmony OS, and has discussed a ~20% fee with developers, below Apple and Google&#39;s 30% &lpar;Pei Li/Bloomberg&rpar;](http://www.techmeme.com/240618/p10#a240618p10)
+ - [Leak: The Xiaomi 15 could be the pocket-friendly flagship phone to beat](https://www.androidauthority.com/leak-xiaomi-15-camera-battery-3452251/)
+ - [Google is testing a persistent bottom search bar in the Google app](https://www.androidauthority.com/google-beta-persistent-search-bar-3452214/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
