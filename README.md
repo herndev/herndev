@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [ASUS VivoBook S 15 Copilot+ PC review: Snapdragon X Elite is incredible, all day battery life, gorgeous 15.6&quot; OLED screen, and $1,299 for 1TB SSD and 16GB RAM &lpar;Zac Bowden/Windows Central&rpar;](http://www.techmeme.com/240618/p22#a240618p22)
- - [Apple Vision Pro sequel stalls as work on cheaper consumer headset continues](https://appleinsider.com/articles/24/06/18/apple-vision-pro-sequel-stalls-as-work-on-cheaper-consumer-headset-continues?utm_medium=rss)
- - [Source: Apple told at least one supplier it has suspended work on the next Apple Vision Pro; sources: it&#39;s still aiming to debut a cheaper model by end of 2025 &lpar;The Information&rpar;](http://www.techmeme.com/240618/p21#a240618p21)<!-- TECH:END -->
+ - [Netflix House will fill the voids left by dead department stores](https://www.theverge.com/2024/6/18/24181027/netflix-house-retail-dallas-king-of-prussia-2025)
+ - [Apple’s Vision Pro team is reportedly focused on building a cheaper headset](https://www.theverge.com/2024/6/18/24181106/apple-vision-pro-team-cheaper-headset)
+ - [&#39;The Legend of Zelda: Echoes of Wisdom&#39; Finally Gives Zelda Her Own Game](https://www.wired.com/story/legend-of-zelda-echoes-of-wisdom-release-date/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
