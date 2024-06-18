@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [EA&#39;s Skate might have Tim Robinson, but the skating game where I played a demon on a quest to eat the Moon is my most anticipated Tony Hawk-like this year](https://www.pcgamer.com/games/action/eas-skate-might-have-tim-robinson-but-the-skating-game-where-i-played-a-demon-on-a-quest-to-eat-the-moon-is-my-most-anticipated-tony-hawk-like-this-year)
- - [&#39;Work with the players ... otherwise you shouldn&#39;t be doing it&#39;: Heads at Baldur&#39;s Gate 3 developer Larian Studios say you ought to &#39;really mean it&#39; going into early access](https://www.pcgamer.com/games/baldurs-gate/work-with-the-players-otherwise-you-shouldn-t-be-doing-it-heads-at-baldur-s-gate-3-developer-larian-studios-say-you-ought-to-really-mean-it-going-into-early-access)
- - [The solid-state AirJet cooler &#39;not bound by the limitations of mechanical devices&#39; aims to double its thermal performance every two years. Y&#39;know, Frore&#39;s Law](https://www.pcgamer.com/hardware/cooling/frore-airjet-hands-on-ceo-interview)<!-- GAME:END -->
+ - [Forza Horizon 5: Modern Horizons Update Brings 5 Iconic Cars from Movies and TV](https://forza.net/news/forza-horizon-5-modern-horizons#new_tab)
+ - [Tough day at the office? How about a mandatory photo montage to calm you down, ordered by an AI that&#39;s monitoring how close you get to breaking point](https://www.pcgamer.com/software/ai/tough-day-at-the-office-how-about-a-mandatory-photo-montage-to-calm-you-down-ordered-by-an-ai-thats-monitoring-how-close-you-get-to-breaking-point)
+ - [Todd Howard confirms that Starfield will get more DLCs after Shattered Space for &#39;hopefully a very long time&#39;](https://www.pcgamer.com/games/rpg/todd-howard-confirms-that-starfield-will-get-more-dlcs-after-shattered-space-for-hopefully-a-very-long-time)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
