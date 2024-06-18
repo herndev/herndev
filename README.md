@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [What are the odds?](http://9gag.com/gag/aMVQ8oW)
- - ⏩ [Idiot driver ruins trip to Wendys](http://9gag.com/gag/axyGV81)
- - 👉 [Score!](http://9gag.com/gag/aoyje2n)<!-- MEMES:END -->
+ - 💣 [Would you still have eaten it?](http://9gag.com/gag/ae9pMQp)
+ - ⏩ [What are the odds?](http://9gag.com/gag/aMVQ8oW)
+ - 👉 [Just finish this with my daughters &lpar;7 and 8 yo&rpar; and they absolute loved it. Can you recomend a anime like that, without sexual content?](http://9gag.com/gag/a4PL7P6)<!-- MEMES:END -->
 
 ---
 
