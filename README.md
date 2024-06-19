@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Dear TV writers: Please stop being weird about pronouns](https://www.polygon.com/24177908/star-wars-acolyte-tv-they-them-pronouns-stop-being-weird-about-it)
- - [What time does Elden Ring: Shadow of the Erdtree DLC release?](https://www.polygon.com/elden-ring-shadow-erdtree-guide/24180893/release-time-date-dlc-sote-est-pst-bst-cest)
- - [Call of Duty&#39;s new Fallout crossover dresses up Price and the lads in stretchy blue jammies, and I&#39;m sorry but it&#39;s not a great look](https://www.pcgamer.com/games/fps/call-of-dutys-new-fallout-crossover-dresses-up-price-and-the-lads-in-stretchy-blue-jammies-and-im-sorry-but-its-not-a-great-look)<!-- GAME:END -->
+ - [There’s a... phantom menace... lurking in this week’s Acolyte](https://www.polygon.com/star-wars/24181423/plo-koon-acolyte-dave-filoni)
+ - [So who is The Acolyte’s Master? We think episode 4 makes it pretty clear](https://www.polygon.com/star-wars/24177229/acolyte-master-who-is-answer)
+ - [Dear TV writers: Please stop being weird about pronouns](https://www.polygon.com/24177908/star-wars-acolyte-tv-they-them-pronouns-stop-being-weird-about-it)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
