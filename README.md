@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Elden Ring Shadow of the Erdtree unlock times and release date](https://www.pcgamer.com/games/rpg/elden-ring-shadow-of-the-erdtree-unlock-time)
  - [Elden Ring speedrunners are racing to see who can kill Mohg the fastest, which is a good reminder that most of you still haven&#39;t finished the job](https://www.pcgamer.com/games/rpg/elden-ring-speedrunners-are-racing-to-see-who-can-kill-mohg-the-fastest-which-is-a-good-reminder-that-most-of-you-still-havent-finished-the-job)
- - [Intellectual property law has come for the word &#39;Meeple&#39;](https://www.pcgamer.com/games/board-games/intellectual-property-law-has-come-for-the-word-meeple)
- - [Here&#39;s everything from the June 2024 Nintendo Direct that&#39;s coming to PC](https://www.pcgamer.com/games/heres-everything-from-the-june-2024-nintendo-direct-thats-coming-to-pc)<!-- GAME:END -->
+ - [Intellectual property law has come for the word &#39;Meeple&#39;](https://www.pcgamer.com/games/board-games/intellectual-property-law-has-come-for-the-word-meeple)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
