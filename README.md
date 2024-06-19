@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [No more plastics in your balls](http://9gag.com/gag/a9yPpPZ)
- - ⏩ [Oh my ... !](http://9gag.com/gag/aByrm2A)
- - 👉 [Hello](http://9gag.com/gag/aQzn388)<!-- MEMES:END -->
+ - 💣 [Mommy](http://9gag.com/gag/aoyjP9m)
+ - ⏩ [Spotted in Toronto.](http://9gag.com/gag/a2vq7gZ)
+ - 👉 [No more plastics in your balls](http://9gag.com/gag/a9yPpPZ)<!-- MEMES:END -->
 
 ---
 
