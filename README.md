@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Circular drops a new Ring Slim along with key software upgrades for current users](https://www.androidauthority.com/circular-ring-slim-upgraded-3452573/)
- - [The Evergoods Civic Panel Loader 24L Is a Well-Made Minimalist Backpack](https://www.wired.com/review/evergoods-civic-panel-loader-24l-backpack/)
- - [AI Startup Perplexity Is a Bullshit Machine](https://www.wired.com/story/perplexity-is-a-bullshit-machine/)<!-- TECH:END -->
+ - [4 great games I played at Summer Game Fest 2024](https://www.theverge.com/2024/6/19/24180304/summer-game-fest-2024-best-games)
+ - [Panasonic unveils the Toughbook 40 Mk2, a 14-inch rugged laptop aimed at police and others, with up to Intel Core Ultra 7, 5G, and IP66, on sale now for $4,699+ &lpar;Jo&amp;atilde;o Carrasqueira/XDA Developers&rpar;](http://www.techmeme.com/240619/p21#a240619p21)
+ - [Is it real life or fantasy? EU reportedly happy with Apple for once](https://www.androidauthority.com/eu-happy-apple-nfc-payments-iphone-3452679/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
