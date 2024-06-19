@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Consensys says the US SEC is &quot;closing its investigation into Ethereum 2.0&quot; and &quot;will not bring charges alleging that sales of ETH are securities transactions&quot; &lpar;Ryan Ozawa/Decrypt&rpar;](http://www.techmeme.com/240618/p37#a240618p37)
  - [The California Labor Commissioner&#39;s Office fines Amazon $5.9M for violating a 2022 state law by failing to properly inform workers of quotas at two warehouses &lpar;Caroline O&#39;Donovan/Washington Post&rpar;](http://www.techmeme.com/240618/p36#a240618p36)
- - [US Government Sues Adobe Over &#39;Convoluted&#39; Cancellation Process     - CNET](https://www.cnet.com/tech/services-and-software/us-government-sues-adobe-over-convoluted-cancellation-process/#ftag=CAD590a51e)
- - [Lift Weights to Lose Weight: How Strength Training Burns Fat     - CNET](https://www.cnet.com/health/fitness/lift-weights-to-lose-weight-how-strength-training-burns-fat/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Electric Toothbrushes of 2024     - CNET](https://www.cnet.com/health/personal-care/best-electric-toothbrush/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
