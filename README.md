@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Oh beth ordered!!!](http://9gag.com/gag/avyLzWO)
- - ⏩ [Girls, always do the Hawk Tuah](http://9gag.com/gag/aKGBxpN)
- - 👉 [Killing In The Name but with Shamisen](http://9gag.com/gag/aNDKg00)<!-- MEMES:END -->
+ - 💣 [Mommy](http://9gag.com/gag/aoyjP9m)
+ - ⏩ [Rip Maria](http://9gag.com/gag/a6ZLEON)
+ - 👉 [Woman does a live stream to let everyone know the guy is broke cos he took her to Starbucks for a date](http://9gag.com/gag/ae9prQm)<!-- MEMES:END -->
 
 ---
 
