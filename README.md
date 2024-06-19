@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to schedule messages in iOS 18 using &#39;Send Later&#39;](https://appleinsider.com/inside/ios-18/tips/how-to-schedule-messages-in-ios-18-using-send-later?utm_medium=rss)
- - [FOI documents: eight UK train stations scanned passenger faces for two years as part of AI trials; Amazon software was used to predict age, gender, and emotions &lpar;Matt Burgess/Wired&rpar;](http://www.techmeme.com/240618/p38#a240618p38)
- - [Helix Plus Mattress Receives the Helix Treatment. Helix Plus Mattress Review video     - CNET](https://www.cnet.com/videos/helix-plus-mattress-receives-the-helix-treatment-helix-plus-mattress-review/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sources: Google and OpenAI have stepped up staff vetting over Chinese espionage threat; Sequoia has encouraged some portfolio companies to tighten staff vetting &lpar;Financial Times&rpar;](http://www.techmeme.com/240619/p2#a240619p2)
+ - [Google is preparing to make the Settings app in Android 15 more organized &lpar;APK teardown&rpar;](https://www.androidauthority.com/android-15-settings-revamp-teardown-3452543/)
+ - [A look at Mozilla&#39;s acquisition of Anonym, which offers &quot;privacy-preserving&quot; ad tools, and how Anonym might interact with a user base that tends to block ads &lpar;Thomas Claburn/The Register&rpar;](http://www.techmeme.com/240619/p1#a240619p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
