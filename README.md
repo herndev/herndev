@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Mommy](http://9gag.com/gag/aoyjP9m)
- - ⏩ [Spotted in Toronto.](http://9gag.com/gag/a2vq7gZ)
- - 👉 [And one day for no reason at all...](http://9gag.com/gag/a2vqRQ9)<!-- MEMES:END -->
+ - 💣 [Based Frenchman:](http://9gag.com/gag/azxVevx)
+ - ⏩ [Scotland fans help an ederly person in Germany](http://9gag.com/gag/a2vq14w)
+ - 👉 [This guy&#39;s patience level](http://9gag.com/gag/aqy2nLL)<!-- MEMES:END -->
 
 ---
 
