@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Comparing body count](http://9gag.com/gag/aVvXM4d)
- - ⏩ [Find the CAT](http://9gag.com/gag/aE0zgLe)
- - 👉 [2024 junior world champion launching his F1D, total flight time 22 minutes](http://9gag.com/gag/azxVXgj)<!-- MEMES:END -->
+ - 💣 [Gotta love the rangers](http://9gag.com/gag/apRBmjb)
+ - ⏩ [This f**ks with my brain.](http://9gag.com/gag/aVvX3jO)
+ - 👉 [JURATHICC WORLD !](http://9gag.com/gag/a34LK8N)<!-- MEMES:END -->
 
 ---
 
