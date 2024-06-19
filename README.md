@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Mommy](http://9gag.com/gag/aoyjP9m)
- - ⏩ [Rip Maria](http://9gag.com/gag/a6ZLEON)
- - 👉 [Woman does a live stream to let everyone know the guy is broke cos he took her to Starbucks for a date](http://9gag.com/gag/ae9prQm)<!-- MEMES:END -->
+ - 💣 [The only thing holding the structure is paint](http://9gag.com/gag/axyG0xb)
+ - ⏩ [Woman does a live stream to let everyone know the guy is broke cos he took her to Starbucks for a date](http://9gag.com/gag/ae9prQm)
+ - 👉 [Comparing body count](http://9gag.com/gag/aVvXM4d)<!-- MEMES:END -->
 
 ---
 
