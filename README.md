@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Analysis: Perplexity seems to scrape sites using surreptitious methods, ignoring robots.txt, with a Perplexity-tied machine doing so on Wired and other sites &lpar;Wired&rpar;](http://www.techmeme.com/240619/p23#a240619p23)
- - [Beware: Most VPN apps won’t work on Copilot Plus PCs](https://www.androidauthority.com/copilot-plus-pcs-vpn-3452723/)
- - [Deal: Save 33% on the top-rated Tapo MagCam](https://www.androidauthority.com/deal-tp-link-tapo-magcam-3452526/)<!-- TECH:END -->
+ - [Sunbird just won’t quit, is now opening its iMessage on Android app to 171,000 waitlisters](https://www.androidauthority.com/sunbird-waitlist-beta-3452754/)
+ - [California’s governor is trying to crack down on smartphones in schools](https://www.theverge.com/2024/6/19/24181719/california-governor-gavin-newsom-smartphone-school-legislation)
+ - [Qualcomm agrees to pay $75 million to end lawsuit linked to Apple complaints](https://www.theverge.com/2024/6/19/24181753/qualcomm-75-million-settlement-lawsuit-apple-complaints)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
