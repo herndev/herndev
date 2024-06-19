@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Internal memo: Meta merges its Reality Labs teams into the &quot;Metaverse&quot; product group that now includes Quest, and the AR product group, now called &quot;Wearables&quot; &lpar;Alex Heath/The Verge&rpar;](http://www.techmeme.com/240618/p35#a240618p35)
- - [AMD is investigating claims of stolen company data](https://www.theverge.com/2024/6/18/24181406/amd-investigating-claims-stolen-company-data-sale-intelbroker)
- - [This universal remote wants to control your smart home sans hub](https://www.theverge.com/2024/6/18/24181245/cantata-haptique-rs90-rs90x-universal-remote-smart-home-controller)<!-- TECH:END -->
+ - [The California Labor Commissioner&#39;s Office fines Amazon $5.9M for violating a 2022 state law by failing to properly inform workers of quotas at two warehouses &lpar;Caroline O&#39;Donovan/Washington Post&rpar;](http://www.techmeme.com/240618/p36#a240618p36)
+ - [US Government Sues Adobe Over &#39;Convoluted&#39; Cancellation Process     - CNET](https://www.cnet.com/tech/services-and-software/us-government-sues-adobe-over-convoluted-cancellation-process/#ftag=CAD590a51e)
+ - [Lift Weights to Lose Weight: How Strength Training Burns Fat     - CNET](https://www.cnet.com/health/fitness/lift-weights-to-lose-weight-how-strength-training-burns-fat/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
