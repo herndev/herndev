@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This guy&#39;s patience level](http://9gag.com/gag/aqy2nLL)
- - ⏩ [Imagine looking after your body and eating extremely clean in order to compete in a beauty pageant and then lose to THAT. My heart aches for the other participants. The US is cooked.](http://9gag.com/gag/aKGB6A1)
- - 👉 [Anime recommendations](http://9gag.com/gag/a2vqZje)<!-- MEMES:END -->
+ - 💣 [Mommy](http://9gag.com/gag/aoyjP9m)
+ - ⏩ [Oh my ... !](http://9gag.com/gag/aByrm2A)
+ - 👉 [JURATHICC WORLD !](http://9gag.com/gag/a34LK8N)<!-- MEMES:END -->
 
 ---
 
