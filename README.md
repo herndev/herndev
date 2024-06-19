@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [A star is born](http://9gag.com/gag/a2vq431)
+ - 💣 [No more plastics in your balls](http://9gag.com/gag/a9yPpPZ)
  - ⏩ [Oh my ... !](http://9gag.com/gag/aByrm2A)
- - 👉 [Mommy](http://9gag.com/gag/aoyjP9m)<!-- MEMES:END -->
+ - 👉 [Hello](http://9gag.com/gag/aQzn388)<!-- MEMES:END -->
 
 ---
 
