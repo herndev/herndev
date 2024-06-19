@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Oh my ... !](http://9gag.com/gag/aByrm2A)
- - ⏩ [Comparing body count](http://9gag.com/gag/aVvXM4d)
+ - 💣 [A star is born](http://9gag.com/gag/a2vq431)
+ - ⏩ [Oh my ... !](http://9gag.com/gag/aByrm2A)
  - 👉 [Mommy](http://9gag.com/gag/aoyjP9m)<!-- MEMES:END -->
 
 ---
