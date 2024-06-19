@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ilya Sutskever discloses his plans for Safe Superintelligence, says &quot;we mean safe like nuclear safety as opposed to safe as in &#39;trust and safety&#39;&quot;, and more &lpar;Ashlee Vance/Bloomberg&rpar;](http://www.techmeme.com/240619/p26#a240619p26)
- - [Best Buy slashes Apple&#39;s iPad Air 5 to $399.99, save $200](https://appleinsider.com/articles/24/06/19/best-buy-slashes-apples-ipad-air-5-to-39999-save-200?utm_medium=rss)
- - [Ilya Sutskever, Daniel Gross, and Daniel Levy announce Safe Superintelligence, an American company &quot;with one goal and one product: a safe superintelligence&quot; &lpar;Safe Superintelligence Inc.&rpar;](http://www.techmeme.com/240619/p25#a240619p25)<!-- TECH:END -->
+ - [How to use an original Apple Pencil with a new iPad](https://appleinsider.com/inside/apple-pencil/tips/how-to-use-an-original-apple-pencil-with-a-new-ipad?utm_medium=rss)
+ - [A new AI-powered ‘Ask for Music’ feature is coming to YouTube Music &lpar;APK Teardown&rpar;](https://www.androidauthority.com/youtube-music-ask-for-music-3452779/)
+ - [The June 2024 security patch is now rolling out to the Galaxy S21 and a few other devices](https://www.androidauthority.com/june-2024-security-galaxy-s21-3452788/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
