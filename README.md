@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Consensys says the US SEC is &quot;closing its investigation into Ethereum 2.0&quot; and &quot;will not bring charges alleging that sales of ETH are securities transactions&quot; &lpar;Ryan Ozawa/Decrypt&rpar;](http://www.techmeme.com/240618/p37#a240618p37)
- - [The California Labor Commissioner&#39;s Office fines Amazon $5.9M for violating a 2022 state law by failing to properly inform workers of quotas at two warehouses &lpar;Caroline O&#39;Donovan/Washington Post&rpar;](http://www.techmeme.com/240618/p36#a240618p36)
- - [Best Electric Toothbrushes of 2024     - CNET](https://www.cnet.com/health/personal-care/best-electric-toothbrush/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [How to schedule messages in iOS 18 using &#39;Send Later&#39;](https://appleinsider.com/inside/ios-18/tips/how-to-schedule-messages-in-ios-18-using-send-later?utm_medium=rss)
+ - [FOI documents: eight UK train stations scanned passenger faces for two years as part of AI trials; Amazon software was used to predict age, gender, and emotions &lpar;Matt Burgess/Wired&rpar;](http://www.techmeme.com/240618/p38#a240618p38)
+ - [Consensys says the US SEC is &quot;closing its investigation into Ethereum 2.0&quot; and &quot;will not bring charges alleging that sales of ETH are securities transactions&quot; &lpar;Ryan Ozawa/Decrypt&rpar;](http://www.techmeme.com/240618/p37#a240618p37)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
