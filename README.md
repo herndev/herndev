@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Hackers claim to have carried off an enormous data heist on AMD, selling info on employee and customer information, future products and specs](https://www.pcgamer.com/hardware/hackers-claim-to-have-carried-off-an-enormous-data-heist-on-amd-selling-info-on-employee-and-customer-information-future-products-and-specs)
- - [All-Time Classic TimeSplitters Looking Likely For PS4, PS5](https://kotaku.com/timesplitters-playstation-ps4-ps5-classics-catalog-1851548513)
- - [The ideal desk fan for a PC builder: I&#39;ve kept the best of Britain&#39;s lacklustre summer away with Noctua&#39;s quiet, effective and pricey desk fan](https://www.pcgamer.com/hardware/cooling/the-ideal-desk-fan-for-a-pc-builder-ive-kept-the-best-of-britains-lacklustre-summer-away-with-noctuas-quiet-effective-and-pricey-desk-fan)<!-- GAME:END -->
+ - [How to beat Mohg, Lord of Blood in Elden Ring](https://www.polygon.com/elden-ring-guide-walkthrough/24087922/mohg-how-to-beat-boss-strategy)
+ - [Monster Hunters can now flatten everything with the Sax-a-Boom, a toy instrument best-known for a Jack Black skit](https://www.pcgamer.com/games/action/monster-hunters-can-now-flatten-everything-with-the-sax-a-boom-a-toy-instrument-best-known-for-a-tenacious-d-song)
+ - [McDonald&#39;s Drive-Thru AI Is McCanceled](https://kotaku.com/mcdonalds-drive-thru-ai-failure-tiktok-1851548668)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
