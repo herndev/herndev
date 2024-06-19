@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle answer for Wednesday, June 19](https://www.pcgamer.com/games/puzzle/wordle-answer-today-june-19-2024)
  - [There’s a... phantom menace... lurking in this week’s Acolyte](https://www.polygon.com/star-wars/24181423/plo-koon-acolyte-dave-filoni)
- - [So who is The Acolyte’s Master? We think episode 4 makes it pretty clear](https://www.polygon.com/star-wars/24177229/acolyte-master-who-is-answer)
- - [Dear TV writers: Please stop being weird about pronouns](https://www.polygon.com/24177908/star-wars-acolyte-tv-they-them-pronouns-stop-being-weird-about-it)<!-- GAME:END -->
+ - [So who is The Acolyte’s Master? We think episode 4 makes it pretty clear](https://www.polygon.com/star-wars/24177229/acolyte-master-who-is-answer)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
