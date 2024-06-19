@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Girls, always do the Hawk Tuah](http://9gag.com/gag/aKGBxpN)
- - ⏩ [Woman does a live stream to let everyone know the guy is broke cos he took her to Starbucks for a date](http://9gag.com/gag/ae9prQm)
- - 👉 [Would you still have eaten it?](http://9gag.com/gag/ae9pMQp)<!-- MEMES:END -->
+ - 💣 [Oh my ... !](http://9gag.com/gag/aByrm2A)
+ - ⏩ [Comparing body count](http://9gag.com/gag/aVvXM4d)
+ - 👉 [Mommy](http://9gag.com/gag/aoyjP9m)<!-- MEMES:END -->
 
 ---
 
