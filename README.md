@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [4 great games I played at Summer Game Fest 2024](https://www.theverge.com/2024/6/19/24180304/summer-game-fest-2024-best-games)
- - [Panasonic unveils the Toughbook 40 Mk2, a 14-inch rugged laptop aimed at police and others, with up to Intel Core Ultra 7, 5G, and IP66, on sale now for $4,699+ &lpar;Jo&amp;atilde;o Carrasqueira/XDA Developers&rpar;](http://www.techmeme.com/240619/p21#a240619p21)
- - [Is it real life or fantasy? EU reportedly happy with Apple for once](https://www.androidauthority.com/eu-happy-apple-nfc-payments-iphone-3452679/)<!-- TECH:END -->
+ - [Analysis: Perplexity seems to scrape sites using surreptitious methods, ignoring robots.txt, with a Perplexity-tied machine doing so on Wired and other sites &lpar;Wired&rpar;](http://www.techmeme.com/240619/p23#a240619p23)
+ - [Beware: Most VPN apps won’t work on Copilot Plus PCs](https://www.androidauthority.com/copilot-plus-pcs-vpn-3452723/)
+ - [Deal: Save 33% on the top-rated Tapo MagCam](https://www.androidauthority.com/deal-tp-link-tapo-magcam-3452526/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
