@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Oh my ... !](http://9gag.com/gag/aByrm2A)
- - ⏩ [Would you still have eaten it?](http://9gag.com/gag/ae9pMQp)
- - 👉 [JURATHICC WORLD !](http://9gag.com/gag/a34LK8N)<!-- MEMES:END -->
+ - 💣 [Anime recommendations](http://9gag.com/gag/a2vqZje)
+ - ⏩ [Comparing body count](http://9gag.com/gag/aVvXM4d)
+ - 👉 [Oh my ... !](http://9gag.com/gag/aByrm2A)<!-- MEMES:END -->
 
 ---
 
