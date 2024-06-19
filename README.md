@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Mommy](http://9gag.com/gag/aoyjP9m)
+ - 💣 [Spotted in Toronto.](http://9gag.com/gag/a2vq7gZ)
  - ⏩ [Oh my ... !](http://9gag.com/gag/aByrm2A)
- - 👉 [JURATHICC WORLD !](http://9gag.com/gag/a34LK8N)<!-- MEMES:END -->
+ - 👉 [Mommy](http://9gag.com/gag/aoyjP9m)<!-- MEMES:END -->
 
 ---
 
