@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Fengate Asset Management acquires over two-thirds stake in eStruxture, which operates data centers in 15 locations in four Canadian cities, in a $1.3B deal &lpar;Paul Vieira/Wall Street Journal&rpar;](http://www.techmeme.com/240619/p4#a240619p4)
- - [Japan is looking to lure AI investment away from Europe and elsewhere by adopting a light-touch, industry-led approach to regulating AI &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/240619/p3#a240619p3)
- - [T-Mobile can no longer advertise a ‘Price Lock’ if it doesn’t lock prices &lpar;Update: Statement&rpar;](https://www.androidauthority.com/t-mobile-price-lock-guarantee-advertising-3452195/)<!-- TECH:END -->
+ - [One UI 6.1.1 could make your S Pen more exciting again](https://www.androidauthority.com/one-ui-6-1-1-s-pen-ai-graffiti-3452600/)
+ - [The US surgeon general&#39;s call for social media warning labels seems to ignore evidence and may feed into a moral panic, similar to prior panics over video games &lpar;Mike Masnick/The Daily Beast&rpar;](http://www.techmeme.com/240619/p8#a240619p8)
+ - [As Nvidia passes Microsoft&#39;s market cap, John Chambers, who was the CEO when Cisco passed Microsoft during the dot-com boom, says the situation now is different &lpar;Asa Fitch/Wall Street Journal&rpar;](http://www.techmeme.com/240619/p7#a240619p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
