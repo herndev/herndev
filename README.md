@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Fallout: Nuevo Mexico dev team breaks months of silence, confirms the big New Vegas mod we liked so much last year is &#39;on hold&#39; as lead developer steps back from the project](https://www.pcgamer.com/games/rpg/fallout-nuevo-mexico-dev-team-breaks-months-of-silence-confirms-the-big-new-vegas-mod-we-liked-so-much-last-year-is-on-hold-as-lead-developer-steps-back-from-the-project)
  - [Huh: SimCity 2000&#39;s library has an essay about cities written by Neil Gaiman](https://www.pcgamer.com/games/sim/huh-simcity-2000s-library-has-an-essay-about-cities-written-by-neil-gaiman)
- - [FromSoftware&#39;s boss doesn&#39;t talk much about his personal life, but he now gets recognized in public, which Miyazaki says &#39;keeps me on my best behavior&#39;](https://www.pcgamer.com/games/rpg/fromsoftwares-boss-doesnt-talk-much-about-his-personal-life-but-he-now-gets-recognized-in-public-which-miyazaki-says-keeps-me-on-my-best-behavior)
- - [Former dev from sunken Sims competitor Life by You alleges the team had &#39;the rug pulled&#39; from under them—despite outperforming the company&#39;s internal metrics](https://www.pcgamer.com/games/life-sim/former-dev-from-sunken-sims-competitor-life-by-you-alleges-the-team-had-the-rug-pulled-from-under-them-despite-outperforming-the-company-s-internal-metrics)<!-- GAME:END -->
+ - [FromSoftware&#39;s boss doesn&#39;t talk much about his personal life, but he now gets recognized in public, which Miyazaki says &#39;keeps me on my best behavior&#39;](https://www.pcgamer.com/games/rpg/fromsoftwares-boss-doesnt-talk-much-about-his-personal-life-but-he-now-gets-recognized-in-public-which-miyazaki-says-keeps-me-on-my-best-behavior)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
