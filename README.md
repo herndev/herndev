@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Jet Ski Driver Dodged Shockwave by Jumping into Water Just in Time After Explosion in Beirut!](http://9gag.com/gag/aByr8mO)
- - ⏩ [300 day&#39;s](http://9gag.com/gag/a5QKRpG)
- - 👉 [JURATHICC WORLD !](http://9gag.com/gag/a34LK8N)<!-- MEMES:END -->
+ - 💣 [What are the odds?](http://9gag.com/gag/aMVQ8oW)
+ - ⏩ [Anime recommendations](http://9gag.com/gag/a2vqZje)
+ - 👉 [Comparing body count](http://9gag.com/gag/aVvXM4d)<!-- MEMES:END -->
 
 ---
 
