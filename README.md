@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [What are the odds?](http://9gag.com/gag/aMVQ8oW)
- - ⏩ [Anime recommendations](http://9gag.com/gag/a2vqZje)
+ - 💣 [When insane people make a very important decisions.](http://9gag.com/gag/ae9przq)
+ - ⏩ [Hello](http://9gag.com/gag/aQzn388)
  - 👉 [Comparing body count](http://9gag.com/gag/aVvXM4d)<!-- MEMES:END -->
 
 ---
