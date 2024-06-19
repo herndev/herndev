@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Forget all the AI fluff—some serious next-gen CPUs are on their way, praise the sun](https://www.pcgamer.com/hardware/processors/forget-all-the-ai-fluffsome-serious-next-gen-cpus-are-on-their-way-praise-the-sun)
- - [Nvidia becomes the world&#39;s most valuable company, but will somebody please think about poor old PC gamers?](https://www.pcgamer.com/hardware/graphics-cards/nvidia-becomes-the-worlds-most-valuable-company-but-will-somebody-please-think-about-poor-old-pc-gamers)
- - [Baldur&#39;s Gate 3 foreshadowed one of its biggest Act 3 twists with music even earlier than I thought—but don&#39;t worry if you didn&#39;t catch it: &#39;That was exactly the idea&#39;](https://www.pcgamer.com/games/baldurs-gate/baldur-s-gate-3-foreshadowed-one-of-its-biggest-act-3-twists-with-music-even-earlier-than-i-thought-but-don-t-worry-if-you-didn-t-catch-it-that-was-exactly-the-idea)<!-- GAME:END -->
+ - [&#39;Sekiro was a big turning point&#39;: After Elden Ring Hidetaka Miyazaki says, &#39;there&#39;s one more level we can crank it up to&#39;](https://www.pcgamer.com/games/adventure/sekiro-was-a-big-turning-point-after-elden-ring-hidetaka-miyazaki-says-theres-one-more-level-we-can-crank-it-up-to)
+ - [Intel clarifies what BIOS settings 13th/14th Gen CPUs should be used for power and current](https://www.pcgamer.com/hardware/processors/intel-clarifies-what-bios-settings-13th14th-gen-cpus-should-be-used-for-power-and-current)
+ - [Forget all the AI fluff—some serious next-gen CPUs are on their way, praise the sun](https://www.pcgamer.com/hardware/processors/forget-all-the-ai-fluffsome-serious-next-gen-cpus-are-on-their-way-praise-the-sun)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
