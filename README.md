@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How to beat Mohg, Lord of Blood in Elden Ring](https://www.polygon.com/elden-ring-guide-walkthrough/24087922/mohg-how-to-beat-boss-strategy)
- - [Monster Hunters can now flatten everything with the Sax-a-Boom, a toy instrument best-known for a Jack Black skit](https://www.pcgamer.com/games/action/monster-hunters-can-now-flatten-everything-with-the-sax-a-boom-a-toy-instrument-best-known-for-a-tenacious-d-song)
- - [McDonald&#39;s Drive-Thru AI Is McCanceled](https://kotaku.com/mcdonalds-drive-thru-ai-failure-tiktok-1851548668)<!-- GAME:END -->
+ - [A Deep Dive into the Supernatural Threats and Secrets of New World: Aeternum](https://news.xbox.com/en-us/2024/06/19/new-world-aeternum-deep-dive/)
+ - [Don&#39;t make my mistake by starting Elden Ring: Shadow of the Erdree with your cheesy, OP NG+ build](https://www.pcgamer.com/games/rpg/dont-make-my-mistake-by-starting-elden-ring-shadow-of-the-erdree-with-your-cheesy-op-ng-build)
+ - [Early access MMO Pax Dei has launched without its most exciting features, so it needs to convince players to stick around](https://www.pcgamer.com/games/mmo/early-access-mmo-pax-dei-has-launched-without-its-most-exciting-features-so-it-needs-to-convince-players-to-stick-around)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
