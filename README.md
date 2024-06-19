@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [This Galaxy S25 camera leak will dash your hopes for a better camera](https://www.androidauthority.com/samsung-galaxy-s25-main-camera-leak-3452651/)
- - [Apple Intelligence impresses now, and it&#39;s still very early](https://appleinsider.com/articles/24/06/19/apple-intelligence-impresses-now-and-its-still-very-early?utm_medium=rss)
- - [Sources: Nvidia agrees to buy Shoreline, which helps automate fixing software problems, in a deal that values Shoreline at ~$100M; Shoreline has raised ~$57M &lpar;Bloomberg&rpar;](http://www.techmeme.com/240619/p17#a240619p17)<!-- TECH:END -->
+ - [Circular drops a new Ring Slim along with key software upgrades for current users](https://www.androidauthority.com/circular-ring-slim-upgraded-3452573/)
+ - [The Evergoods Civic Panel Loader 24L Is a Well-Made Minimalist Backpack](https://www.wired.com/review/evergoods-civic-panel-loader-24l-backpack/)
+ - [AI Startup Perplexity Is a Bullshit Machine](https://www.wired.com/story/perplexity-is-a-bullshit-machine/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
