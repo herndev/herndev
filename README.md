@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Google and OpenAI have stepped up staff vetting over Chinese espionage threat; Sequoia has encouraged some portfolio companies to tighten staff vetting &lpar;Financial Times&rpar;](http://www.techmeme.com/240619/p2#a240619p2)
- - [Google is preparing to make the Settings app in Android 15 more organized &lpar;APK teardown&rpar;](https://www.androidauthority.com/android-15-settings-revamp-teardown-3452543/)
- - [A look at Mozilla&#39;s acquisition of Anonym, which offers &quot;privacy-preserving&quot; ad tools, and how Anonym might interact with a user base that tends to block ads &lpar;Thomas Claburn/The Register&rpar;](http://www.techmeme.com/240619/p1#a240619p1)<!-- TECH:END -->
+ - [Fengate Asset Management acquires over two-thirds stake in eStruxture, which operates data centers in 15 locations in four Canadian cities, in a $1.3B deal &lpar;Paul Vieira/Wall Street Journal&rpar;](http://www.techmeme.com/240619/p4#a240619p4)
+ - [Japan is looking to lure AI investment away from Europe and elsewhere by adopting a light-touch, industry-led approach to regulating AI &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/240619/p3#a240619p3)
+ - [T-Mobile can no longer advertise a ‘Price Lock’ if it doesn’t lock prices &lpar;Update: Statement&rpar;](https://www.androidauthority.com/t-mobile-price-lock-guarantee-advertising-3452195/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
