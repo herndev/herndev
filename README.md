@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Today&#39;s Wordle answer for Wednesday, June 19](https://www.pcgamer.com/games/puzzle/wordle-answer-today-june-19-2024)
- - [There’s a... phantom menace... lurking in this week’s Acolyte](https://www.polygon.com/star-wars/24181423/plo-koon-acolyte-dave-filoni)
- - [So who is The Acolyte’s Master? We think episode 4 makes it pretty clear](https://www.polygon.com/star-wars/24177229/acolyte-master-who-is-answer)<!-- GAME:END -->
+ - [Forget all the AI fluff—some serious next-gen CPUs are on their way, praise the sun](https://www.pcgamer.com/hardware/processors/forget-all-the-ai-fluffsome-serious-next-gen-cpus-are-on-their-way-praise-the-sun)
+ - [Nvidia becomes the world&#39;s most valuable company, but will somebody please think about poor old PC gamers?](https://www.pcgamer.com/hardware/graphics-cards/nvidia-becomes-the-worlds-most-valuable-company-but-will-somebody-please-think-about-poor-old-pc-gamers)
+ - [Baldur&#39;s Gate 3 foreshadowed one of its biggest Act 3 twists with music even earlier than I thought—but don&#39;t worry if you didn&#39;t catch it: &#39;That was exactly the idea&#39;](https://www.pcgamer.com/games/baldurs-gate/baldur-s-gate-3-foreshadowed-one-of-its-biggest-act-3-twists-with-music-even-earlier-than-i-thought-but-don-t-worry-if-you-didn-t-catch-it-that-was-exactly-the-idea)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
