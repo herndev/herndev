@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Gotta love the rangers](http://9gag.com/gag/apRBmjb)
- - ⏩ [This f**ks with my brain.](http://9gag.com/gag/aVvX3jO)
+ - 💣 [Oh my ... !](http://9gag.com/gag/aByrm2A)
+ - ⏩ [Would you still have eaten it?](http://9gag.com/gag/ae9pMQp)
  - 👉 [JURATHICC WORLD !](http://9gag.com/gag/a34LK8N)<!-- MEMES:END -->
 
 ---
