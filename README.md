@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Based Frenchman:](http://9gag.com/gag/azxVevx)
- - ⏩ [Scotland fans help an ederly person in Germany](http://9gag.com/gag/a2vq14w)
- - 👉 [This guy&#39;s patience level](http://9gag.com/gag/aqy2nLL)<!-- MEMES:END -->
+ - 💣 [Finn was friend-zoned.](http://9gag.com/gag/abAbgDX)
+ - ⏩ [Find the CAT](http://9gag.com/gag/aE0zgLe)
+ - 👉 [Amazing card work](http://9gag.com/gag/a7obWjq)<!-- MEMES:END -->
 
 ---
 
