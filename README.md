@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Finn was friend-zoned.](http://9gag.com/gag/abAbgDX)
- - ⏩ [Find the CAT](http://9gag.com/gag/aE0zgLe)
+ - 💣 [300 day&#39;s](http://9gag.com/gag/a5QKRpG)
+ - ⏩ [Hell of a first job&#39;s day](http://9gag.com/gag/an7BgY0)
  - 👉 [Amazing card work](http://9gag.com/gag/a7obWjq)<!-- MEMES:END -->
 
 ---
