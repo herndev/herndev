@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nvidia overtakes Microsoft as the world’s most valuable company](https://www.theverge.com/2024/6/18/24181393/nvidia-most-valuable-company-microsoft-apple-google)
- - [Noam Chomsky isn’t dead yet](https://www.theverge.com/2024/6/18/24181373/noam-chomsky-not-dead-yet)
- - [Apple&#39;s new &#39;Help Me Choose&#39; quiz helps users find the right Mac](https://appleinsider.com/articles/24/06/18/apples-new-help-me-choose-quiz-helps-users-find-the-right-mac?utm_medium=rss)<!-- TECH:END -->
+ - [Internal memo: Meta merges its Reality Labs teams into the &quot;Metaverse&quot; product group that now includes Quest, and the AR product group, now called &quot;Wearables&quot; &lpar;Alex Heath/The Verge&rpar;](http://www.techmeme.com/240618/p35#a240618p35)
+ - [AMD is investigating claims of stolen company data](https://www.theverge.com/2024/6/18/24181406/amd-investigating-claims-stolen-company-data-sale-intelbroker)
+ - [This universal remote wants to control your smart home sans hub](https://www.theverge.com/2024/6/18/24181245/cantata-haptique-rs90-rs90x-universal-remote-smart-home-controller)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
