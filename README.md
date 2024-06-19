@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Comparing body count](http://9gag.com/gag/aVvXM4d)
- - ⏩ [Anime recommendations](http://9gag.com/gag/a2vqZje)
- - 👉 [A star is born](http://9gag.com/gag/a2vq431)<!-- MEMES:END -->
+ - ⏩ [Find the CAT](http://9gag.com/gag/aE0zgLe)
+ - 👉 [2024 junior world champion launching his F1D, total flight time 22 minutes](http://9gag.com/gag/azxVXgj)<!-- MEMES:END -->
 
 ---
 
