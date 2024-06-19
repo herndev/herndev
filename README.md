@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [They should teach useful Stuff at School](http://9gag.com/gag/ajPnmvp)
- - ⏩ [Today collected 15kg of garbage, total is 3260kg.Today is little anniversary this is my 75st clean up. Thank you all for supporting. Your Cleaning Guy.](http://9gag.com/gag/aoyj55n)
- - 👉 [The reality of life.](http://9gag.com/gag/abAbVp8)<!-- MEMES:END -->
+ - 💣 [This guy&#39;s patience level](http://9gag.com/gag/aqy2nLL)
+ - ⏩ [Imagine looking after your body and eating extremely clean in order to compete in a beauty pageant and then lose to THAT. My heart aches for the other participants. The US is cooked.](http://9gag.com/gag/aKGB6A1)
+ - 👉 [Anime recommendations](http://9gag.com/gag/a2vqZje)<!-- MEMES:END -->
 
 ---
 
