@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Spotted in Toronto.](http://9gag.com/gag/a2vq7gZ)
- - ⏩ [Oh my ... !](http://9gag.com/gag/aByrm2A)
- - 👉 [Mommy](http://9gag.com/gag/aoyjP9m)<!-- MEMES:END -->
+ - 💣 [Mommy](http://9gag.com/gag/aoyjP9m)
+ - ⏩ [Spotted in Toronto.](http://9gag.com/gag/a2vq7gZ)
+ - 👉 [And one day for no reason at all...](http://9gag.com/gag/a2vqRQ9)<!-- MEMES:END -->
 
 ---
 
