@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to use an original Apple Pencil with a new iPad](https://appleinsider.com/inside/apple-pencil/tips/how-to-use-an-original-apple-pencil-with-a-new-ipad?utm_medium=rss)
- - [A new AI-powered ‘Ask for Music’ feature is coming to YouTube Music &lpar;APK Teardown&rpar;](https://www.androidauthority.com/youtube-music-ask-for-music-3452779/)
- - [The June 2024 security patch is now rolling out to the Galaxy S21 and a few other devices](https://www.androidauthority.com/june-2024-security-galaxy-s21-3452788/)<!-- TECH:END -->
+ - [Update your Windows PC to avoid a serious Wi-Fi vulnerability](https://www.theverge.com/2024/6/19/24181908/microsoft-windows-pc-update-wi-fi-vulnerability)
+ - [China&#39;s top-valued AI startup, Moonshot AI, recently debuted a role-play chat app and music maker app in the US; Chinese rival MiniMax also expanded to the US &lpar;The Information&rpar;](http://www.techmeme.com/240619/p27#a240619p27)
+ - [Philips Hue debuts Twilight smart lamp alongside an array of new lighting products](https://www.androidauthority.com/philips-hue-twilight-3452819/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
