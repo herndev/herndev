@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Anime recommendations](http://9gag.com/gag/a2vqZje)
- - ⏩ [Comparing body count](http://9gag.com/gag/aVvXM4d)
- - 👉 [Oh my ... !](http://9gag.com/gag/aByrm2A)<!-- MEMES:END -->
+ - 💣 [Oh beth ordered!!!](http://9gag.com/gag/avyLzWO)
+ - ⏩ [Girls, always do the Hawk Tuah](http://9gag.com/gag/aKGBxpN)
+ - 👉 [Killing In The Name but with Shamisen](http://9gag.com/gag/aNDKg00)<!-- MEMES:END -->
 
 ---
 
