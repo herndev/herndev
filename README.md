@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [One UI 6.1.1 could make your S Pen more exciting again](https://www.androidauthority.com/one-ui-6-1-1-s-pen-ai-graffiti-3452600/)
- - [The US surgeon general&#39;s call for social media warning labels seems to ignore evidence and may feed into a moral panic, similar to prior panics over video games &lpar;Mike Masnick/The Daily Beast&rpar;](http://www.techmeme.com/240619/p8#a240619p8)
- - [As Nvidia passes Microsoft&#39;s market cap, John Chambers, who was the CEO when Cisco passed Microsoft during the dot-com boom, says the situation now is different &lpar;Asa Fitch/Wall Street Journal&rpar;](http://www.techmeme.com/240619/p7#a240619p7)<!-- TECH:END -->
+ - [Netflix plans to open two permanent in-person experience venues, in Dallas and near Philadelphia, in 2025, a continuation of its previous pop-ups &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/240619/p10#a240619p10)
+ - [How generative AI model providers can create business models that reward copyright holders and content creators, much like what has happened on the web &lpar;Tim O&#39;Reilly/O&#39;Reilly Media&rpar;](http://www.techmeme.com/240619/p9#a240619p9)
+ - [One UI 6.1.1 could make your S Pen more exciting again](https://www.androidauthority.com/one-ui-6-1-1-s-pen-ai-graffiti-3452600/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
