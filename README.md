@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Mommy](http://9gag.com/gag/aoyjP9m)
- - ⏩ [Spotted in Toronto.](http://9gag.com/gag/a2vq7gZ)
- - 👉 [No more plastics in your balls](http://9gag.com/gag/a9yPpPZ)<!-- MEMES:END -->
+ - 💣 [They should teach useful Stuff at School](http://9gag.com/gag/ajPnmvp)
+ - ⏩ [Today collected 15kg of garbage, total is 3260kg.Today is little anniversary this is my 75st clean up. Thank you all for supporting. Your Cleaning Guy.](http://9gag.com/gag/aoyj55n)
+ - 👉 [The reality of life.](http://9gag.com/gag/abAbVp8)<!-- MEMES:END -->
 
 ---
 
