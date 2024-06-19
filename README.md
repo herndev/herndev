@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Decagon, which uses generative AI to replace or augment a company&#39;s customer support staff, raised a $35M Series A led by Accel, with participation from a16z &lpar;Anna Tong/Reuters&rpar;](http://www.techmeme.com/240619/p14#a240619p14)
- - [Apple researchers add 20 more open-source models to improve text and image AI](https://appleinsider.com/articles/24/06/19/apple-researchers-add-20-more-open-source-models-to-improve-text-and-image-ai?utm_medium=rss)
- - [Sources detail how Jensen Huang and Nvidia are guarding against slowing chip sales, including offering more cloud services and designing custom server racks &lpar;The Information&rpar;](http://www.techmeme.com/240619/p13#a240619p13)<!-- TECH:END -->
+ - [This Galaxy S25 camera leak will dash your hopes for a better camera](https://www.androidauthority.com/samsung-galaxy-s25-main-camera-leak-3452651/)
+ - [Apple Intelligence impresses now, and it&#39;s still very early](https://appleinsider.com/articles/24/06/19/apple-intelligence-impresses-now-and-its-still-very-early?utm_medium=rss)
+ - [Sources: Nvidia agrees to buy Shoreline, which helps automate fixing software problems, in a deal that values Shoreline at ~$100M; Shoreline has raised ~$57M &lpar;Bloomberg&rpar;](http://www.techmeme.com/240619/p17#a240619p17)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
