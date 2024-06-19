@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Framework partners with DeepComputing to build a RISC-V mainboard for its Laptop 13, set to become one of the first RISC-V laptops; price and release are TBC &lpar;Sean Hollister/The Verge&rpar;](http://www.techmeme.com/240619/p11#a240619p11)
- - [Google could discontinue another Maps feature very soon &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-maps-deprecate-followed-places-apk-teardown-3452612/)
- - [These are the best wallpapers ever, according to you](https://www.androidauthority.com/best-wallpapers-poll-results-3452610/)<!-- TECH:END -->
+ - [Decagon, which uses generative AI to replace or augment a company&#39;s customer support staff, raised a $35M Series A led by Accel, with participation from a16z &lpar;Anna Tong/Reuters&rpar;](http://www.techmeme.com/240619/p14#a240619p14)
+ - [Apple researchers add 20 more open-source models to improve text and image AI](https://appleinsider.com/articles/24/06/19/apple-researchers-add-20-more-open-source-models-to-improve-text-and-image-ai?utm_medium=rss)
+ - [Sources detail how Jensen Huang and Nvidia are guarding against slowing chip sales, including offering more cloud services and designing custom server racks &lpar;The Information&rpar;](http://www.techmeme.com/240619/p13#a240619p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
