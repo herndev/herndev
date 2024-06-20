@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Completely normal behavior](http://9gag.com/gag/ayNnonr)
- - ⏩ [And one day for no reason at all...](http://9gag.com/gag/a2vqRQ9)
- - 👉 [Arabian husky](http://9gag.com/gag/aByr04A)<!-- MEMES:END -->
+ - 💣 [And one day for no reason at all...](http://9gag.com/gag/a2vqRQ9)
+ - ⏩ [Woman does a live stream to let everyone know the guy is broke cos he took her to Starbucks for a date](http://9gag.com/gag/ae9prQm)
+ - 👉 [Spotted in Toronto.](http://9gag.com/gag/a2vq7gZ)<!-- MEMES:END -->
 
 ---
 
