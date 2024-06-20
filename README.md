@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Hello there!](http://9gag.com/gag/ayNn2dp)
+ - 💣 [New Zealand Women&#39;s Soccer player scores own goal 3x in 30 minutes...](http://9gag.com/gag/aW4OGL3)
  - ⏩ [9gaggers...](http://9gag.com/gag/aVvX04K)
- - 👉 [New Zealand Women&#39;s Soccer player scores own goal 3x in 30 minutes...](http://9gag.com/gag/aW4OGL3)<!-- MEMES:END -->
+ - 👉 [A keeper.](http://9gag.com/gag/a5QKQrg)<!-- MEMES:END -->
 
 ---
 
