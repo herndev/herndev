@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s Education Store is down ahead of Back to School offers](https://appleinsider.com/articles/24/06/20/apples-education-store-is-down-ahead-of-back-to-school-offers?utm_medium=rss)
- - [AI portraits could come to Samsung phones, but should you care?](https://www.androidauthority.com/samsung-ai-painted-portraits-one-ui-6-1-1-3452911/)
- - [realme GT 6 launches with Snapdragon 8s Gen 3 and brightest smartphone display ever](https://www.androidauthority.com/realme-gt-6-launch-3452108/)<!-- TECH:END -->
+ - [Tencent removes hit game Dungeon &amp; Fighter from select Android app stores after its contracts expired; local media says the app stores include Huawei and Oppo &lpar;Reuters&rpar;](http://www.techmeme.com/240620/p8#a240620p8)
+ - [We Put Air Conditioners to the Test, and These Are Our 7 Favorites](https://www.wired.com/gallery/best-window-air-conditioners/)
+ - [Apple reveals first Malaysian store ahead of opening](https://appleinsider.com/articles/24/06/20/apple-reveals-first-malaysian-store-ahead-of-opening?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
