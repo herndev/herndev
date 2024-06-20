@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Somebody sue the doctor!](http://9gag.com/gag/apRBNr8)
- - ⏩ [Imagine looking after your body and eating extremely clean in order to compete in a beauty pageant and then lose to THAT. My heart aches for the other participants. The US is cooked.](http://9gag.com/gag/aKGB6A1)
- - 👉 [Spotted in Toronto.](http://9gag.com/gag/a2vq7gZ)<!-- MEMES:END -->
+ - 💣 [Hello there!](http://9gag.com/gag/ayNn2dp)
+ - ⏩ [Girls, always do the Hawk Tuah](http://9gag.com/gag/aKGBxpN)
+ - 👉 [As if love triangles weren\u2019t bad enough, they had to go create a love square](http://9gag.com/gag/avyLowO)<!-- MEMES:END -->
 
 ---
 
