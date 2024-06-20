@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [She loves me](http://9gag.com/gag/aByrnKA)
- - ⏩ [Don\u2019t you just love the new neighbors?](http://9gag.com/gag/avyL58M)
- - 👉 [Is this true ?](http://9gag.com/gag/aByryVD)<!-- MEMES:END -->
+ - 💣 [Crushing big tick with car](http://9gag.com/gag/aAypyz9)
+ - ⏩ [Handcrafted Hat](http://9gag.com/gag/azxVmYq)
+ - 👉 [Mommy](http://9gag.com/gag/aoyjP9m)<!-- MEMES:END -->
 
 ---
 
