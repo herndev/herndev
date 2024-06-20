@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta rolls out the ability for users to restrict their Instagram Lives to Close Friends, with the option for three other users to join the broadcast &lpar;Kris Holt/Engadget&rpar;](http://www.techmeme.com/240620/p18#a240620p18)
- - [Far Right Militias Are Back](https://www.wired.com/story/far-right-militias-extremism/)
- - [Amazon is getting rid of plastic air pillows in North America](https://www.theverge.com/2024/6/20/24182372/amazon-replace-plastic-air-pillows-paper-filler-north-america)<!-- TECH:END -->
+ - [Samsung Galaxy S25 series rumors and leaks: Everything we know so far](https://www.androidauthority.com/samsung-galaxy-s25-3437280/)
+ - [Source: The CFTC is investigating the Chicago-based trading firm Jump&#39;s involvement in crypto, including inquiries into its trading and investing activity &lpar;Leo Schwartz/Fortune&rpar;](http://www.techmeme.com/240620/p21#a240620p21)
+ - [Best MicroSD Card Deals: Get Amazing MicroSD Cards for Less     - CNET](https://www.cnet.com/deals/best-microsd-card-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
