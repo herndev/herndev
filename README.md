@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Somebody sue the doctor!](http://9gag.com/gag/apRBNr8)
- - ⏩ [When insane people make a very important decisions.](http://9gag.com/gag/ae9przq)
- - 👉 [And one day for no reason at all...](http://9gag.com/gag/a2vqRQ9)<!-- MEMES:END -->
+ - 💣 [Girls, always do the Hawk Tuah](http://9gag.com/gag/aKGBxpN)
+ - ⏩ [Hello there!](http://9gag.com/gag/ayNn2dp)
+ - 👉 [True !](http://9gag.com/gag/aryRoPy)<!-- MEMES:END -->
 
 ---
 
