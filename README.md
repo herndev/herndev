@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Hello there!](http://9gag.com/gag/ayNn2dp)
- - ⏩ [Girls, always do the Hawk Tuah](http://9gag.com/gag/aKGBxpN)
- - 👉 [As if love triangles weren\u2019t bad enough, they had to go create a love square](http://9gag.com/gag/avyLowO)<!-- MEMES:END -->
+ - 💣 [The real pirates of the Caribbean](http://9gag.com/gag/aGyRzKn)
+ - ⏩ [Somebody sue the doctor!](http://9gag.com/gag/apRBNr8)
+ - 👉 [Hello there!](http://9gag.com/gag/ayNn2dp)<!-- MEMES:END -->
 
 ---
 
