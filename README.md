@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Catch Up Before The Veilguard By Getting The Whole Dragon Age Series For $10](https://kotaku.com/dragon-age-veilguard-series-sale-steam-1851552113)
- - [In Dune: Awakening you &#39;physically fly&#39; your ornithopter between servers on an overland map filled with &#39;hundreds of other players&#39;](https://www.pcgamer.com/games/mmo/in-dune-awakening-you-physically-fly-your-ornithopter-between-servers-on-an-overland-map-filled-with-hundreds-of-other-players)
- - [Beyond Good &amp; Evil 4K remaster is finally official, out next week](https://www.polygon.com/24175512/beyond-good-evil-remaster-release-date-20th-anniversary)<!-- GAME:END -->
+ - [Lego Fortnite: How To Get Rough Amber And Cut Amber](https://kotaku.com/lego-fortnite-amber-rough-cut-where-find-how-get-1851552231)
+ - [Embracer embraces a &#39;human-centric&#39; AI policy, says vague stuff about how it will &#39;massively enhance game development&#39;](https://www.pcgamer.com/gaming-industry/embracer-embraces-a-human-centric-ai-policy-says-vague-stuff-about-how-it-will-massively-enhance-game-development)
+ - [Sony accidentally leaked an unannounced Helldivers 2 stratagem by getting its rocket launchers confused](https://www.pcgamer.com/games/third-person-shooter/sony-accidentally-leaked-an-unannounced-helldivers-2-stratagem-by-getting-its-rocket-launchers-confused)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
