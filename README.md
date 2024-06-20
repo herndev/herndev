@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [A woman&#39;s worth....](http://9gag.com/gag/aGyRz26)
- - ⏩ [Just a small time criminal](http://9gag.com/gag/ayNnNeM)
- - 👉 [Hello there!](http://9gag.com/gag/ayNn2dp)<!-- MEMES:END -->
+ - 💣 [She loves me](http://9gag.com/gag/aByrnKA)
+ - ⏩ [Don\u2019t you just love the new neighbors?](http://9gag.com/gag/avyL58M)
+ - 👉 [Is this true ?](http://9gag.com/gag/aByryVD)<!-- MEMES:END -->
 
 ---
 
