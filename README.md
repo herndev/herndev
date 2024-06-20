@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Lego Fortnite: How To Get Rough Amber And Cut Amber](https://kotaku.com/lego-fortnite-amber-rough-cut-where-find-how-get-1851552231)
- - [Embracer embraces a &#39;human-centric&#39; AI policy, says vague stuff about how it will &#39;massively enhance game development&#39;](https://www.pcgamer.com/gaming-industry/embracer-embraces-a-human-centric-ai-policy-says-vague-stuff-about-how-it-will-massively-enhance-game-development)
- - [Sony accidentally leaked an unannounced Helldivers 2 stratagem by getting its rocket launchers confused](https://www.pcgamer.com/games/third-person-shooter/sony-accidentally-leaked-an-unannounced-helldivers-2-stratagem-by-getting-its-rocket-launchers-confused)<!-- GAME:END -->
+ - [Where to find the best Great Katana in Elden Ring: Shadow of the Erdtree](https://www.pcgamer.com/games/rpg/elden-ring-best-great-katana-location)
+ - [Where to find the best katana in Elden Ring: Shadow of the Erdtree](https://www.pcgamer.com/games/rpg/elden-ring-shadow-of-the-erdtree-best-katana)
+ - [How to beat the Divine Beast Dancing Lion in Elden Ring: Shadow of the Erdtree](https://www.pcgamer.com/games/rpg/elden-ring-dancing-lion-tips)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
