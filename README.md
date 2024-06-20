@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Satisfying hoof trimming](http://9gag.com/gag/aPAGxQQ)
- - ⏩ [They aren&#39;t even worth a brick](http://9gag.com/gag/aE0z0yp)
- - 👉 [Ha... hehehe, I&#39;m in danger](http://9gag.com/gag/a9yPzq1)<!-- MEMES:END -->
+ - 💣 [Is this true ?](http://9gag.com/gag/aByryVD)
+ - ⏩ [Somebody sue the doctor!](http://9gag.com/gag/apRBNr8)
+ - 👉 [It ain&#39;t much but my wife made it. Please be brutal](http://9gag.com/gag/aByrZEZ)<!-- MEMES:END -->
 
 ---
 
