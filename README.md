@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tencent removes hit game Dungeon &amp; Fighter from select Android app stores after its contracts expired; local media says the app stores include Huawei and Oppo &lpar;Reuters&rpar;](http://www.techmeme.com/240620/p8#a240620p8)
- - [We Put Air Conditioners to the Test, and These Are Our 7 Favorites](https://www.wired.com/gallery/best-window-air-conditioners/)
- - [Apple reveals first Malaysian store ahead of opening](https://appleinsider.com/articles/24/06/20/apple-reveals-first-malaysian-store-ahead-of-opening?utm_medium=rss)<!-- TECH:END -->
+ - [EU diplomats: a scheduled EU Council vote to amend a draft law that may force WhatsApp and Signal to scan images and links for CSAM was removed from the agenda &lpar;Clothilde Goujard/Politico&rpar;](http://www.techmeme.com/240620/p11#a240620p11)
+ - [Apple&#39;s Education Store is down ahead of Back to School offers](https://appleinsider.com/articles/24/06/20/apples-education-store-is-down-ahead-of-back-to-school-offers?utm_medium=rss)
+ - [Apple&#39;s Back to School offers are live -- but there are better deals to be had](https://appleinsider.com/articles/24/06/20/apples-back-to-school-offers-are-live----but-there-are-better-deals-to-be-had?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
