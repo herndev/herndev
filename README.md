@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I dont usually like ig shit, but his one cracked me up,lmao](http://9gag.com/gag/aByrnNZ)
- - ⏩ [A woman&#39;s worth....](http://9gag.com/gag/aGyRz26)
+ - 💣 [Is this true ?](http://9gag.com/gag/aByryVD)
+ - ⏩ [Stop oil protestors targeted Taylor swift private jet](http://9gag.com/gag/a2vqvne)
  - 👉 [9gaggers...](http://9gag.com/gag/adBpgRd)<!-- MEMES:END -->
 
 ---
