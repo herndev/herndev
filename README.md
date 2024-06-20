@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Honkai: Star Rail codes for June 2024](https://www.polygon.com/honkai-star-rail-guides/23699079/code-redeem-redemption-gift-stellar-jade)
- - [Original Fallout 3 Was Canceled Because Even &#39;Death March Crunch&#39; Couldn&#39;t Save It, Says Series Creator](https://kotaku.com/fallout-3-van-buren-cancellation-tim-cain-1851550786)
- - [GTA Online update for the week of June 20](https://www.polygon.com/gta-online-guides/24182391/june-20-weekly-update-events-drag-drift-racing)<!-- GAME:END -->
+ - [Microsoft Flight Simulator Releases City Update VIII: Las Vegas](https://www.flightsimulator.com/city-update-8/#new_tab)
+ - [This Cozy Virtual Pet Sim Is &#39;Microsoft Clippy, But Better&#39;](https://kotaku.com/weyrdlets-virtual-pet-desktop-game-sim-animal-crossing-1851550832)
+ - [WoW&#39;s devs will continue to use private auras, which limit UI addon functionality, in The War Within: though they&#39;d like to be selective to avoid cures &#39;worse than the disease&#39;](https://www.pcgamer.com/games/world-of-warcraft/wow-s-devs-will-continue-to-use-private-auras-which-limit-ui-addon-functionality-in-the-war-within-though-they-d-like-to-be-selective-to-avoid-cures-worse-than-the-disease)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
