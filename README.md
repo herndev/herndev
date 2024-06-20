@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The real pirates of the Caribbean](http://9gag.com/gag/aGyRzKn)
- - ⏩ [Somebody sue the doctor!](http://9gag.com/gag/apRBNr8)
- - 👉 [Hello there!](http://9gag.com/gag/ayNn2dp)<!-- MEMES:END -->
+ - 💣 [Can&#39;t wait for the cake](http://9gag.com/gag/avyLoEd)
+ - ⏩ [Hello there!](http://9gag.com/gag/ayNn2dp)
+ - 👉 [Spotted in Toronto.](http://9gag.com/gag/a2vq7gZ)<!-- MEMES:END -->
 
 ---
 
