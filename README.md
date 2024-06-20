@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [She loves me](http://9gag.com/gag/aByrnKA)
- - ⏩ [A woman&#39;s worth....](http://9gag.com/gag/aGyRz26)
- - 👉 [Somebody sue the doctor!](http://9gag.com/gag/apRBNr8)<!-- MEMES:END -->
+ - 💣 [AhH yEs ThE sEgs](http://9gag.com/gag/aqy2ybp)
+ - ⏩ [A.I. prank.](http://9gag.com/gag/an7BzYL)
+ - 👉 [Old friends](http://9gag.com/gag/abAbVxO)<!-- MEMES:END -->
 
 ---
 
