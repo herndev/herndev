@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Save Up to 49% on These Beats Earbuds and Headphones     - CNET](https://www.cnet.com/deals/save-up-to-49-on-these-beats-earbuds-and-headphones/#ftag=CAD590a51e)
- - [Best Google Pixel Deals: Get the Latest Flagship Phone or an Older Model for Less     - CNET](https://www.cnet.com/deals/best-google-pixel-deals/#ftag=CAD590a51e)
- - [Apple&#39;s M1 iPad Air Is Yours for Just $399 This Walmart Plus Week     - CNET](https://www.cnet.com/deals/apples-m1-ipad-air-is-yours-for-just-399-this-walmart-plus-week/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple Intelligence will face a big uphill battle to launch in China](https://appleinsider.com/articles/24/06/20/apple-intelligence-will-face-a-big-uphill-battle-to-launch-in-china?utm_medium=rss)
+ - [Sources: Poolside, co-founded by ex-GitHub CTO Jason Warner to build AI tools to speed up software development, is raising $400M+ at a $2B+ post-money valuation &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/240620/p24#a240620p24)
+ - [YouTube confirms crackdown on VPN-based cheaper Premium subscriptions](https://www.androidauthority.com/youtube-targeting-vpn-subscription-3453186/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
