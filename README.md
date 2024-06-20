@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung Galaxy S25 series rumors and leaks: Everything we know so far](https://www.androidauthority.com/samsung-galaxy-s25-3437280/)
- - [Source: The CFTC is investigating the Chicago-based trading firm Jump&#39;s involvement in crypto, including inquiries into its trading and investing activity &lpar;Leo Schwartz/Fortune&rpar;](http://www.techmeme.com/240620/p21#a240620p21)
- - [Best MicroSD Card Deals: Get Amazing MicroSD Cards for Less     - CNET](https://www.cnet.com/deals/best-microsd-card-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Save Up to 49% on These Beats Earbuds and Headphones     - CNET](https://www.cnet.com/deals/save-up-to-49-on-these-beats-earbuds-and-headphones/#ftag=CAD590a51e)
+ - [Best Google Pixel Deals: Get the Latest Flagship Phone or an Older Model for Less     - CNET](https://www.cnet.com/deals/best-google-pixel-deals/#ftag=CAD590a51e)
+ - [Apple&#39;s M1 iPad Air Is Yours for Just $399 This Walmart Plus Week     - CNET](https://www.cnet.com/deals/apples-m1-ipad-air-is-yours-for-just-399-this-walmart-plus-week/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
