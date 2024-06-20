@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Elden Ring Director Thinks New DLC Bosses Will Push Players To Their Breaking Point](https://kotaku.com/elden-ring-shadow-erdtree-dlc-bosses-difficulty-1851551285)
- - [Fortnite’s latest season is as chaotic as the media that inspired it](https://www.polygon.com/fortnite/24180218/fortnite-chapter-5-season-3-wrecked)
- - [A Popular Helldivers 2 Stratagem Is Currently Crashing The Game](https://kotaku.com/helldivers-2-spear-stratagem-leak-1851551565)<!-- GAME:END -->
+ - [Breaking the Fourth Wall: Fiction Meets Reality in ARG Trust No One](https://news.xbox.com/en-us/2024/06/20/breaking-the-fourth-wall-fiction-meets-reality-in-arg-trust-no-one/)
+ - [The 25 best PlayStation 5 games](https://www.polygon.com/ps5/21720698/best-ps5-games-playstation-5)
+ - [The Best SMG In Warzone Right Now &lpar;And How To Make The Most Of It&rpar;](https://kotaku.com/call-of-duty-warzone-smg-guide-superi-46-1851551153)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
