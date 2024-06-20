@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Crushing big tick with car](http://9gag.com/gag/aAypyz9)
- - ⏩ [Handcrafted Hat](http://9gag.com/gag/azxVmYq)
- - 👉 [Mommy](http://9gag.com/gag/aoyjP9m)<!-- MEMES:END -->
+ - 💣 [Canada](http://9gag.com/gag/aVvXboP)
+ - ⏩ [She loves me](http://9gag.com/gag/aByrnKA)
+ - 👉 [Amazing card work](http://9gag.com/gag/a7obWjq)<!-- MEMES:END -->
 
 ---
 
