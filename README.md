@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Lords Mobile is getting ready for the next battle as it kicks off collaboration with THE KING OF FIGHTERS XV](https://www.pcgamer.com/games/lords-mobile-is-getting-ready-for-the-next-battle-as-it-kicks-off-collaboration-with-the-king-of-fighters-xv)
  - [Today&#39;s Wordle answer for Thursday, June 20](https://www.pcgamer.com/games/puzzle/wordle-answer-today-june-20-2024)
- - [History is your murder playground in Assassin&#39;s Creed x Magic: The Gathering](https://www.pcgamer.com/games/card-games/history-is-your-murder-playground-in-assassins-creed-x-magic-the-gathering)
- - [Elden Ring Shadow of the Erdtree unlock times and release date](https://www.pcgamer.com/games/rpg/elden-ring-shadow-of-the-erdtree-unlock-time)<!-- GAME:END -->
+ - [History is your murder playground in Assassin&#39;s Creed x Magic: The Gathering](https://www.pcgamer.com/games/card-games/history-is-your-murder-playground-in-assassins-creed-x-magic-the-gathering)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
