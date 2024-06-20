@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [And one day for no reason at all...](http://9gag.com/gag/a2vqRQ9)
- - ⏩ [Woman does a live stream to let everyone know the guy is broke cos he took her to Starbucks for a date](http://9gag.com/gag/ae9prQm)
- - 👉 [Spotted in Toronto.](http://9gag.com/gag/a2vq7gZ)<!-- MEMES:END -->
+ - 💣 [Somebody sue the doctor!](http://9gag.com/gag/apRBNr8)
+ - ⏩ [When insane people make a very important decisions.](http://9gag.com/gag/ae9przq)
+ - 👉 [And one day for no reason at all...](http://9gag.com/gag/a2vqRQ9)<!-- MEMES:END -->
 
 ---
 
