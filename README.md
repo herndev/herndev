@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Microsoft Flight Simulator Releases City Update VIII: Las Vegas](https://www.flightsimulator.com/city-update-8/#new_tab)
- - [This Cozy Virtual Pet Sim Is &#39;Microsoft Clippy, But Better&#39;](https://kotaku.com/weyrdlets-virtual-pet-desktop-game-sim-animal-crossing-1851550832)
- - [WoW&#39;s devs will continue to use private auras, which limit UI addon functionality, in The War Within: though they&#39;d like to be selective to avoid cures &#39;worse than the disease&#39;](https://www.pcgamer.com/games/world-of-warcraft/wow-s-devs-will-continue-to-use-private-auras-which-limit-ui-addon-functionality-in-the-war-within-though-they-d-like-to-be-selective-to-avoid-cures-worse-than-the-disease)<!-- GAME:END -->
+ - [Tips, Tricks, and Shortcuts for Unlocking Elden Ring’s Shadow of the Erdtree DLC](https://news.xbox.com/en-us/2024/06/20/elden-ring-shadow-of-the-erdtree-dlc-how-to-access/)
+ - [PSA: Don’t Watch Shadow Of The Erdtee’s Launch Trailer If You Want To Avoid Spoilers](https://kotaku.com/elden-ring-shadow-of-the-erdtree-trailer-spoilers-1851551318)
+ - [Ubisoft Deletes Announcement Of Game It Already Accidentally Released Last Year](https://kotaku.com/ubisoft-beyond-good-and-evil-2-remaster-tweet-leak-june-1851551287)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
