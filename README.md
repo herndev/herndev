@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How Candy Crush All-Stars Turns a Casual Game Into an Elite-Level Tournament](https://news.xbox.com/en-us/2024/06/20/candy-crush-all-stars-winner-interview/)
- - [Is Apple feeling ok? Reports indicate it&#39;s suspending work on the Vision Pro 2 to focus on making—wait for it—a cheaper version](https://www.pcgamer.com/hardware/vr-hardware/is-apple-feeling-ok-reports-indicate-its-suspending-work-on-the-vision-pro-2-to-focus-on-makingwait-for-ita-cheaper-version)
- - [Asus RT-BE88U review](https://www.pcgamer.com/hardware/networking/asus-rt-be88u-review)<!-- GAME:END -->
+ - [Metroidvania Grappler Rusted Moss Mixes Physics with Creativity](https://news.xbox.com/en-us/2024/06/20/rusted-moss-mixes-physics-with-creativity/)
+ - [Miyazaki says don&#39;t worry, the shiny new weapons in Elden Ring: Shadow of the Erdtree shouldn&#39;t outpace your old favourites](https://www.pcgamer.com/games/rpg/miyazaki-says-don-t-worry-the-shiny-new-weapons-in-elden-ring-shadow-of-the-erdtree-shouldn-t-outpace-your-old-favourites)
+ - [How Candy Crush All-Stars Turns a Casual Game Into an Elite-Level Tournament](https://news.xbox.com/en-us/2024/06/20/candy-crush-all-stars-winner-interview/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
