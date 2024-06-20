@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Metroidvania Grappler Rusted Moss Mixes Physics with Creativity](https://news.xbox.com/en-us/2024/06/20/rusted-moss-mixes-physics-with-creativity/)
- - [Miyazaki says don&#39;t worry, the shiny new weapons in Elden Ring: Shadow of the Erdtree shouldn&#39;t outpace your old favourites](https://www.pcgamer.com/games/rpg/miyazaki-says-don-t-worry-the-shiny-new-weapons-in-elden-ring-shadow-of-the-erdtree-shouldn-t-outpace-your-old-favourites)
- - [How Candy Crush All-Stars Turns a Casual Game Into an Elite-Level Tournament](https://news.xbox.com/en-us/2024/06/20/candy-crush-all-stars-winner-interview/)<!-- GAME:END -->
+ - [Elden Ring Shadow of the Erdtree: 5 spoiler-free tips](https://blog.playstation.com/2024/06/20/elden-ring-shadow-of-the-erdtree-5-spoiler-free-tips/)
+ - [Free Play Days – Crusader Kings III, Plants vs Zombies: Garden Warfare and Hell Let Loose](https://news.xbox.com/en-us/2024/06/20/free-play-days-crusader-kings-iii-plants-vs-zombies-garden-warfare-and-hell-let-loose/)
+ - [Nintendo Fans Treat Metroid Prime 4 As &#39;Final Mission&#39; And Say Goodbye To Their Switches](https://kotaku.com/nintendo-switch-metroid-prime-4-goodbye-overheating-1851550608)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
