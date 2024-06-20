@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Canada](http://9gag.com/gag/aVvXboP)
- - ⏩ [She loves me](http://9gag.com/gag/aByrnKA)
- - 👉 [Amazing card work](http://9gag.com/gag/a7obWjq)<!-- MEMES:END -->
+ - 💣 [Hell of a first job&#39;s day](http://9gag.com/gag/an7BgY0)
+ - ⏩ [Somebody sue the doctor!](http://9gag.com/gag/apRBNr8)
+ - 👉 [Don\u2019t you just love the new neighbors?](http://9gag.com/gag/avyL58M)<!-- MEMES:END -->
 
 ---
 
