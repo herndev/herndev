@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [I&#39;ve played Elden Ring: Shadow of the Erdtree for 15 hours and haven’t seen like half the bosses in this launch trailer, which is fine](https://www.pcgamer.com/games/rpg/i-ve-played-elden-ring-shadow-of-the-erdtree-for-15-hours-and-haven-t-seen-even-half-the-bosses-in-this-launch-trailer-which-is-fine)
- - [PC Gamer magazine&#39;s new issue is on sale now: Elden Ring: Shadow of the Erdtree](https://www.pcgamer.com/gaming-industry/pc-gamer-magazines-new-issue-is-on-sale-now-elden-ring-shadow-of-the-erdtree)
- - [Lords Mobile is getting ready for the next battle as it kicks off collaboration with THE KING OF FIGHTERS XV](https://www.pcgamer.com/games/lords-mobile-is-getting-ready-for-the-next-battle-as-it-kicks-off-collaboration-with-the-king-of-fighters-xv)<!-- GAME:END -->
+ - [Beyond Good and Evil quietly delisted as Ubisoft gears up to release the not-so-secret 20th Anniversary Edition in time for its 21st anniversary](https://www.pcgamer.com/games/adventure/beyond-good-and-evil-quietly-delisted-as-ubisoft-gears-up-to-release-the-not-so-secret-20th-anniversary-edition-in-time-for-its-21st-anniversary)
+ - [Windows-powered Arm devices are compatible with &#39;more than 1,200 games at 30 fps or higher&#39; and now support BattlEye and Denuvo](https://www.pcgamer.com/hardware/processors/windows-powered-arm-devices-are-compatible-with-more-than-1200-games-at-30-fps-or-higher-and-now-support-battleye-and-denuvo)
+ - [A new hero has emerged as Elden Ring players help each other prepare for the Shadow of the Erdtree DLC—the fearsome Let Me Comet Him](https://www.pcgamer.com/games/rpg/a-new-hero-has-emerged-as-elden-ring-players-help-each-other-prepare-for-the-shadow-of-the-erdtree-dlcthe-fearsome-let-me-comet-him)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
