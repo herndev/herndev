@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple wants you to be able to just point at things to learn about them](https://appleinsider.com/articles/24/06/20/apple-wants-you-to-be-able-to-just-point-at-things-to-learn-about-them?utm_medium=rss)
- - [Snap agrees to pay $15 million to settle gender discrimination lawsuit](https://www.theverge.com/2024/6/20/24182303/snap-gender-discrimination-settlement-california)
- - [We’re Still Waiting for the Next Big Leap in AI](https://www.wired.com/story/were-still-waiting-for-the-next-big-leap-in-ai/)<!-- TECH:END -->
+ - [Gynger, which lets companies &quot;finance, pay, and manage&quot; their tech purchases, raised a $20M Series A led by PayPal Ventures, bringing its total raised to $31.7M &lpar;Mary Ann Azevedo/TechCrunch&rpar;](http://www.techmeme.com/240620/p16#a240620p16)
+ - [Inside the players and politics of the modern AI industry](https://www.theverge.com/24182381/ai-industry-politics-openai-anthropic-elon-musk-xai-decoder-podcast-interview)
+ - [Anthropic adds Artifacts, a feature that lets users see and interact with the results of their Claude requests, signaling its long-term vision for Claude &lpar;David Pierce/The Verge&rpar;](http://www.techmeme.com/240620/p15#a240620p15)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
