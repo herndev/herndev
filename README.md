@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Is this true ?](http://9gag.com/gag/aByryVD)
- - ⏩ [Stop oil protestors targeted Taylor swift private jet](http://9gag.com/gag/a2vqvne)
- - 👉 [9gaggers...](http://9gag.com/gag/adBpgRd)<!-- MEMES:END -->
+ - 💣 [Canada](http://9gag.com/gag/aVvXboP)
+ - ⏩ [Rafah before and after](http://9gag.com/gag/a2vqv1e)
+ - 👉 [Somebody sue the doctor!](http://9gag.com/gag/apRBNr8)<!-- MEMES:END -->
 
 ---
 
