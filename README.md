@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Beyond Good and Evil quietly delisted as Ubisoft gears up to release the not-so-secret 20th Anniversary Edition in time for its 21st anniversary](https://www.pcgamer.com/games/adventure/beyond-good-and-evil-quietly-delisted-as-ubisoft-gears-up-to-release-the-not-so-secret-20th-anniversary-edition-in-time-for-its-21st-anniversary)
- - [Windows-powered Arm devices are compatible with &#39;more than 1,200 games at 30 fps or higher&#39; and now support BattlEye and Denuvo](https://www.pcgamer.com/hardware/processors/windows-powered-arm-devices-are-compatible-with-more-than-1200-games-at-30-fps-or-higher-and-now-support-battleye-and-denuvo)
- - [A new hero has emerged as Elden Ring players help each other prepare for the Shadow of the Erdtree DLC—the fearsome Let Me Comet Him](https://www.pcgamer.com/games/rpg/a-new-hero-has-emerged-as-elden-ring-players-help-each-other-prepare-for-the-shadow-of-the-erdtree-dlcthe-fearsome-let-me-comet-him)<!-- GAME:END -->
+ - [How Candy Crush All-Stars Turns a Casual Game Into an Elite-Level Tournament](https://news.xbox.com/en-us/2024/06/20/candy-crush-all-stars-winner-interview/)
+ - [Is Apple feeling ok? Reports indicate it&#39;s suspending work on the Vision Pro 2 to focus on making—wait for it—a cheaper version](https://www.pcgamer.com/hardware/vr-hardware/is-apple-feeling-ok-reports-indicate-its-suspending-work-on-the-vision-pro-2-to-focus-on-makingwait-for-ita-cheaper-version)
+ - [Asus RT-BE88U review](https://www.pcgamer.com/hardware/networking/asus-rt-be88u-review)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
