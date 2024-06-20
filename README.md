@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [New Zealand Women&#39;s Soccer player scores own goal 3x in 30 minutes...](http://9gag.com/gag/aW4OGL3)
- - ⏩ [9gaggers...](http://9gag.com/gag/aVvX04K)
- - 👉 [A keeper.](http://9gag.com/gag/a5QKQrg)<!-- MEMES:END -->
+ - 💣 [She loves me](http://9gag.com/gag/aByrnKA)
+ - ⏩ [A woman&#39;s worth....](http://9gag.com/gag/aGyRz26)
+ - 👉 [Somebody sue the doctor!](http://9gag.com/gag/apRBNr8)<!-- MEMES:END -->
 
 ---
 
