@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Intelligence will face a big uphill battle to launch in China](https://appleinsider.com/articles/24/06/20/apple-intelligence-will-face-a-big-uphill-battle-to-launch-in-china?utm_medium=rss)
- - [Sources: Poolside, co-founded by ex-GitHub CTO Jason Warner to build AI tools to speed up software development, is raising $400M+ at a $2B+ post-money valuation &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/240620/p24#a240620p24)
- - [YouTube confirms crackdown on VPN-based cheaper Premium subscriptions](https://www.androidauthority.com/youtube-targeting-vpn-subscription-3453186/)<!-- TECH:END -->
+ - [NY Governor signs two bills to protect minors, banning &quot;addictive feeds&quot;, limiting data collection, limiting social media notifications overnight, and more &lpar;Lauren Feiner/The Verge&rpar;](http://www.techmeme.com/240620/p26#a240620p26)
+ - [Embracer Group believes AI will ‘empower’ game developers](https://www.theverge.com/2024/6/20/24182557/embracer-group-ai-empower-developers)
+ - [Google’s AI Overviews relying much less on Reddit, new data suggests &lpar;sorry to any pizza gluers&rpar;](https://www.androidauthority.com/google-ai-overviews-reddit-3453200/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
