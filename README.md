@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [EU diplomats: a scheduled EU Council vote to amend a draft law that may force WhatsApp and Signal to scan images and links for CSAM was removed from the agenda &lpar;Clothilde Goujard/Politico&rpar;](http://www.techmeme.com/240620/p11#a240620p11)
- - [Apple&#39;s Education Store is down ahead of Back to School offers](https://appleinsider.com/articles/24/06/20/apples-education-store-is-down-ahead-of-back-to-school-offers?utm_medium=rss)
- - [Apple&#39;s Back to School offers are live -- but there are better deals to be had](https://appleinsider.com/articles/24/06/20/apples-back-to-school-offers-are-live----but-there-are-better-deals-to-be-had?utm_medium=rss)<!-- TECH:END -->
+ - [I tried the anti-AI Instagram alternative and it’s a mental and visual delight](https://www.androidauthority.com/what-is-cara-3452221/)
+ - [iOS 18 changes just about everything about lock screen controls](https://appleinsider.com/inside/ios-18/tips/ios-18-changes-just-about-everything-about-lock-screen-controls?utm_medium=rss)
+ - [Samsung has some cool new Paris 2024 Olympic-themed accessories for your Galaxy phone](https://www.androidauthority.com/samsung-paris-2024-olympic-themed-accessories-3452966/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
