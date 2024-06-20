@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [I tried the anti-AI Instagram alternative and it’s a mental and visual delight](https://www.androidauthority.com/what-is-cara-3452221/)
- - [iOS 18 changes just about everything about lock screen controls](https://appleinsider.com/inside/ios-18/tips/ios-18-changes-just-about-everything-about-lock-screen-controls?utm_medium=rss)
- - [Samsung has some cool new Paris 2024 Olympic-themed accessories for your Galaxy phone](https://www.androidauthority.com/samsung-paris-2024-olympic-themed-accessories-3452966/)<!-- TECH:END -->
+ - [Apple wants you to be able to just point at things to learn about them](https://appleinsider.com/articles/24/06/20/apple-wants-you-to-be-able-to-just-point-at-things-to-learn-about-them?utm_medium=rss)
+ - [Snap agrees to pay $15 million to settle gender discrimination lawsuit](https://www.theverge.com/2024/6/20/24182303/snap-gender-discrimination-settlement-california)
+ - [We’re Still Waiting for the Next Big Leap in AI](https://www.wired.com/story/were-still-waiting-for-the-next-big-leap-in-ai/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
