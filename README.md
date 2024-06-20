@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Q&amp;A with Meta Oversight Board co-chair Helle-Thorning Schmidt on AI deepfakes, Meta rejecting the board&#39;s decision on former Cambodian PM Hun Sen, and more &lpar;Murad Ahmed/Financial Times&rpar;](http://www.techmeme.com/240620/p2#a240620p2)
- - [AMD says hackers accessed limited information related to assembling of certain AMD products on a third-party vendor site and expects no material business impact &lpar;Ian King/Bloomberg&rpar;](http://www.techmeme.com/240620/p1#a240620p1)
- - [Sources: Apple held talks with Baidu, Alibaba, Baichuan AI, and others to help offer Apple Intelligence in China as ChatGPT isn&#39;t available in the country &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240619/p34#a240619p34)<!-- TECH:END -->
+ - [This leaked Motorola Razr Plus 2024 change could be a double-edged sword](https://www.androidauthority.com/leaked-motorola-razr-plus-2024-video-ad-3452897/)
+ - [An investigation details how Chinese gangs, Chinese officials, and Myanmar&#39;s Junta made Myanmar&#39;s Kokang region a key hub in the global online scam industry &lpar;Washington Post&rpar;](http://www.techmeme.com/240620/p4#a240620p4)
+ - [Software vendors like Salesforce are getting left behind in the AI boom, as most AI spending at this point is going toward hardware or cloud infrastructure &lpar;Brody Ford/Bloomberg&rpar;](http://www.techmeme.com/240620/p3#a240620p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
