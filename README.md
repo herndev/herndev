@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Elden Ring Shadow of the Erdtree: 5 spoiler-free tips](https://blog.playstation.com/2024/06/20/elden-ring-shadow-of-the-erdtree-5-spoiler-free-tips/)
- - [Free Play Days – Crusader Kings III, Plants vs Zombies: Garden Warfare and Hell Let Loose](https://news.xbox.com/en-us/2024/06/20/free-play-days-crusader-kings-iii-plants-vs-zombies-garden-warfare-and-hell-let-loose/)
- - [Nintendo Fans Treat Metroid Prime 4 As &#39;Final Mission&#39; And Say Goodbye To Their Switches](https://kotaku.com/nintendo-switch-metroid-prime-4-goodbye-overheating-1851550608)<!-- GAME:END -->
+ - [Honkai: Star Rail codes for June 2024](https://www.polygon.com/honkai-star-rail-guides/23699079/code-redeem-redemption-gift-stellar-jade)
+ - [Original Fallout 3 Was Canceled Because Even &#39;Death March Crunch&#39; Couldn&#39;t Save It, Says Series Creator](https://kotaku.com/fallout-3-van-buren-cancellation-tim-cain-1851550786)
+ - [GTA Online update for the week of June 20](https://www.polygon.com/gta-online-guides/24182391/june-20-weekly-update-events-drag-drift-racing)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
