@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Taylor Swift Challenges Land on TikTok With Digital Collectibles Up for Grabs     - CNET](https://www.cnet.com/tech/services-and-software/taylor-swift-challenges-land-on-tiktok-with-digital-collectibles-up-for-grabs/#ftag=CAD590a51e)
- - [This leaked Motorola Razr Plus 2024 change could be a double-edged sword](https://www.androidauthority.com/leaked-motorola-razr-plus-2024-video-ad-3452897/)
- - [An investigation details how Chinese gangs, Chinese officials, and Myanmar&#39;s Junta made Myanmar&#39;s Kokang region a key hub in the global online scam industry &lpar;Washington Post&rpar;](http://www.techmeme.com/240620/p4#a240620p4)<!-- TECH:END -->
+ - [A history of the Lambda School: burning through $120M, why income share agreements failed, how one developer turned journalist ended the fraud, and more &lpar;Benjamin Sandofsky/Sandofsky&rpar;](http://www.techmeme.com/240620/p6#a240620p6)
+ - [A look at the many lawsuits against RealPage, the rent-fixing software company accused of artificially inflating the real estate rental prices across the US &lpar;Maureen Tkacik/American Prospect&rpar;](http://www.techmeme.com/240620/p5#a240620p5)
+ - [Taylor Swift Challenges Land on TikTok With Digital Collectibles Up for Grabs     - CNET](https://www.cnet.com/tech/services-and-software/taylor-swift-challenges-land-on-tiktok-with-digital-collectibles-up-for-grabs/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
