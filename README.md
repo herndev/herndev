@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Q&amp;A with Meta Oversight Board co-chair Helle-Thorning Schmidt on AI deepfakes, Meta rejecting the board&#39;s decision on former Cambodian PM Hun Sen, and more &lpar;Murad Ahmed/Financial Times&rpar;](http://www.techmeme.com/240620/p2#a240620p2)
  - [AMD says hackers accessed limited information related to assembling of certain AMD products on a third-party vendor site and expects no material business impact &lpar;Ian King/Bloomberg&rpar;](http://www.techmeme.com/240620/p1#a240620p1)
- - [Sources: Apple held talks with Baidu, Alibaba, Baichuan AI, and others to help offer Apple Intelligence in China as ChatGPT isn&#39;t available in the country &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240619/p34#a240619p34)
- - [How to brainstorm and mind-map in Freeform](https://appleinsider.com/articles/24/06/20/how-to-brainstorm-and-mind-map-in-freeform?utm_medium=rss)<!-- TECH:END -->
+ - [Sources: Apple held talks with Baidu, Alibaba, Baichuan AI, and others to help offer Apple Intelligence in China as ChatGPT isn&#39;t available in the country &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240619/p34#a240619p34)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
