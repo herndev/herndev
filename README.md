@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [300 day&#39;s](http://9gag.com/gag/a5QKRpG)
- - ⏩ [Hell of a first job&#39;s day](http://9gag.com/gag/an7BgY0)
- - 👉 [Amazing card work](http://9gag.com/gag/a7obWjq)<!-- MEMES:END -->
+ - 💣 [Completely normal behavior](http://9gag.com/gag/ayNnonr)
+ - ⏩ [And one day for no reason at all...](http://9gag.com/gag/a2vqRQ9)
+ - 👉 [Arabian husky](http://9gag.com/gag/aByr04A)<!-- MEMES:END -->
 
 ---
 
