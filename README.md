@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [I&#39;ve played Elden Ring: Shadow of the Erdtree for 15 hours and haven’t seen like half the bosses in this launch trailer, which is fine](https://www.pcgamer.com/games/rpg/i-ve-played-elden-ring-shadow-of-the-erdtree-for-15-hours-and-haven-t-seen-even-half-the-bosses-in-this-launch-trailer-which-is-fine)
  - [PC Gamer magazine&#39;s new issue is on sale now: Elden Ring: Shadow of the Erdtree](https://www.pcgamer.com/gaming-industry/pc-gamer-magazines-new-issue-is-on-sale-now-elden-ring-shadow-of-the-erdtree)
- - [Lords Mobile is getting ready for the next battle as it kicks off collaboration with THE KING OF FIGHTERS XV](https://www.pcgamer.com/games/lords-mobile-is-getting-ready-for-the-next-battle-as-it-kicks-off-collaboration-with-the-king-of-fighters-xv)
- - [Today&#39;s Wordle answer for Thursday, June 20](https://www.pcgamer.com/games/puzzle/wordle-answer-today-june-20-2024)<!-- GAME:END -->
+ - [Lords Mobile is getting ready for the next battle as it kicks off collaboration with THE KING OF FIGHTERS XV](https://www.pcgamer.com/games/lords-mobile-is-getting-ready-for-the-next-battle-as-it-kicks-off-collaboration-with-the-king-of-fighters-xv)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
