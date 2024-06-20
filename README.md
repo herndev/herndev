@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [AMD says hackers accessed limited information related to assembling of certain AMD products on a third-party vendor site and expects no material business impact &lpar;Ian King/Bloomberg&rpar;](http://www.techmeme.com/240620/p1#a240620p1)
  - [Sources: Apple held talks with Baidu, Alibaba, Baichuan AI, and others to help offer Apple Intelligence in China as ChatGPT isn&#39;t available in the country &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240619/p34#a240619p34)
- - [How to brainstorm and mind-map in Freeform](https://appleinsider.com/articles/24/06/20/how-to-brainstorm-and-mind-map-in-freeform?utm_medium=rss)
- - [Accel and Dealroom: out of 221 generative AI startups in Europe and Israel, 27% were created in London, 13% in Tel Aviv, 12% in Berlin, and 10% in Paris &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/240619/p33#a240619p33)<!-- TECH:END -->
+ - [How to brainstorm and mind-map in Freeform](https://appleinsider.com/articles/24/06/20/how-to-brainstorm-and-mind-map-in-freeform?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
