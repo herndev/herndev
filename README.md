@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A history of the Lambda School: burning through $120M, why income share agreements failed, how one developer turned journalist ended the fraud, and more &lpar;Benjamin Sandofsky/Sandofsky&rpar;](http://www.techmeme.com/240620/p6#a240620p6)
- - [A look at the many lawsuits against RealPage, the rent-fixing software company accused of artificially inflating the real estate rental prices across the US &lpar;Maureen Tkacik/American Prospect&rpar;](http://www.techmeme.com/240620/p5#a240620p5)
- - [Taylor Swift Challenges Land on TikTok With Digital Collectibles Up for Grabs     - CNET](https://www.cnet.com/tech/services-and-software/taylor-swift-challenges-land-on-tiktok-with-digital-collectibles-up-for-grabs/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple&#39;s Education Store is down ahead of Back to School offers](https://appleinsider.com/articles/24/06/20/apples-education-store-is-down-ahead-of-back-to-school-offers?utm_medium=rss)
+ - [AI portraits could come to Samsung phones, but should you care?](https://www.androidauthority.com/samsung-ai-painted-portraits-one-ui-6-1-1-3452911/)
+ - [realme GT 6 launches with Snapdragon 8s Gen 3 and brightest smartphone display ever](https://www.androidauthority.com/realme-gt-6-launch-3452108/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
