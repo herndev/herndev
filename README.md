@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [US government will ban Kaspersky antivirus software due to ties to Russia](https://www.androidauthority.com/kaspersky-ban-3453231/)
- - [YouTube is canceling Premium subscriptions bought using spoofed locations](https://www.theverge.com/2024/6/20/24182686/youtube-premium-subscriptions-vpn-canceled)
- - [Upcoming ‘Adaptive Thermal’ feature for Pixels will teach you to prevent overheating &lpar;APK teardown&rpar;](https://www.androidauthority.com/pixel-adaptive-thermal-3453215/)<!-- TECH:END -->
+ - [Leaked images of Galaxy Z Fold 6 and Z Flip 6 prototypes suggest minimal design upgrades](https://www.androidauthority.com/galaxy-fold6-flip6-dummy-unit-leak-3453240/)
+ - [SpaceX unveils Starlink Mini, a compact version of its satellite internet antenna &quot;that can easily fit in a backpack&quot;, offering a &quot;limited number&quot; for $599 each &lpar;Michael Sheetz/CNBC&rpar;](http://www.techmeme.com/240620/p30#a240620p30)
+ - [TikTok makes its First Amendment case](https://www.theverge.com/2024/6/20/24182551/tiktok-v-garland-creators-brief-first-amendment)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
