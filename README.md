@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [NY Governor signs two bills to protect minors, banning &quot;addictive feeds&quot;, limiting data collection, limiting social media notifications overnight, and more &lpar;Lauren Feiner/The Verge&rpar;](http://www.techmeme.com/240620/p26#a240620p26)
- - [Embracer Group believes AI will ‘empower’ game developers](https://www.theverge.com/2024/6/20/24182557/embracer-group-ai-empower-developers)
- - [Google’s AI Overviews relying much less on Reddit, new data suggests &lpar;sorry to any pizza gluers&rpar;](https://www.androidauthority.com/google-ai-overviews-reddit-3453200/)<!-- TECH:END -->
+ - [The restrictions on Kaspersky will stop new sales of its antivirus software in the US from July 20 and bar software updates to US customers after September 29 &lpar;Alexandra Alper/Reuters&rpar;](http://www.techmeme.com/240620/p29#a240620p29)
+ - [The Commerce Department bans Kaspersky antivirus sales in the US, says Kaspersky threatens national security and users&#39; privacy because it is based in Russia &lpar;Lorenzo Franceschi-Bicchierai/TechCrunch&rpar;](http://www.techmeme.com/240620/p28#a240620p28)
+ - [US Bans Kaspersky Software](https://www.wired.com/story/us-bans-kaspersky-software/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
