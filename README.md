@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Hell of a first job&#39;s day](http://9gag.com/gag/an7BgY0)
- - ⏩ [Somebody sue the doctor!](http://9gag.com/gag/apRBNr8)
- - 👉 [Don\u2019t you just love the new neighbors?](http://9gag.com/gag/avyL58M)<!-- MEMES:END -->
+ - 💣 [I dont usually like ig shit, but his one cracked me up,lmao](http://9gag.com/gag/aByrnNZ)
+ - ⏩ [A woman&#39;s worth....](http://9gag.com/gag/aGyRz26)
+ - 👉 [9gaggers...](http://9gag.com/gag/adBpgRd)<!-- MEMES:END -->
 
 ---
 
