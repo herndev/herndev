@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Tips, Tricks, and Shortcuts for Unlocking Elden Ring’s Shadow of the Erdtree DLC](https://news.xbox.com/en-us/2024/06/20/elden-ring-shadow-of-the-erdtree-dlc-how-to-access/)
- - [PSA: Don’t Watch Shadow Of The Erdtee’s Launch Trailer If You Want To Avoid Spoilers](https://kotaku.com/elden-ring-shadow-of-the-erdtree-trailer-spoilers-1851551318)
- - [Ubisoft Deletes Announcement Of Game It Already Accidentally Released Last Year](https://kotaku.com/ubisoft-beyond-good-and-evil-2-remaster-tweet-leak-june-1851551287)<!-- GAME:END -->
+ - [Elden Ring Director Thinks New DLC Bosses Will Push Players To Their Breaking Point](https://kotaku.com/elden-ring-shadow-erdtree-dlc-bosses-difficulty-1851551285)
+ - [Fortnite’s latest season is as chaotic as the media that inspired it](https://www.polygon.com/fortnite/24180218/fortnite-chapter-5-season-3-wrecked)
+ - [A Popular Helldivers 2 Stratagem Is Currently Crashing The Game](https://kotaku.com/helldivers-2-spear-stratagem-leak-1851551565)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
