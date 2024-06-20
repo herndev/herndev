@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Breaking the Fourth Wall: Fiction Meets Reality in ARG Trust No One](https://news.xbox.com/en-us/2024/06/20/breaking-the-fourth-wall-fiction-meets-reality-in-arg-trust-no-one/)
- - [The 25 best PlayStation 5 games](https://www.polygon.com/ps5/21720698/best-ps5-games-playstation-5)
- - [The Best SMG In Warzone Right Now &lpar;And How To Make The Most Of It&rpar;](https://kotaku.com/call-of-duty-warzone-smg-guide-superi-46-1851551153)<!-- GAME:END -->
+ - [Catch Up Before The Veilguard By Getting The Whole Dragon Age Series For $10](https://kotaku.com/dragon-age-veilguard-series-sale-steam-1851552113)
+ - [In Dune: Awakening you &#39;physically fly&#39; your ornithopter between servers on an overland map filled with &#39;hundreds of other players&#39;](https://www.pcgamer.com/games/mmo/in-dune-awakening-you-physically-fly-your-ornithopter-between-servers-on-an-overland-map-filled-with-hundreds-of-other-players)
+ - [Beyond Good &amp; Evil 4K remaster is finally official, out next week](https://www.polygon.com/24175512/beyond-good-evil-remaster-release-date-20th-anniversary)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
