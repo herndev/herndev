@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The rare Galaxy Frog. Despite its bright colors it\u2019s not poisonous. Unlike most frogs it does not communicate via sound and males do not have a vocal sac.](http://9gag.com/gag/aryRm40)
- - ⏩ [Amazing card work](http://9gag.com/gag/a7obWjq)
- - 👉 [Mommy](http://9gag.com/gag/aoyjP9m)<!-- MEMES:END -->
+ - 💣 [Hello there!](http://9gag.com/gag/ayNn2dp)
+ - ⏩ [9gaggers...](http://9gag.com/gag/aVvX04K)
+ - 👉 [New Zealand Women&#39;s Soccer player scores own goal 3x in 30 minutes...](http://9gag.com/gag/aW4OGL3)<!-- MEMES:END -->
 
 ---
 
