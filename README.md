@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [A woman&#39;s worth....](http://9gag.com/gag/aGyRz26)
- - ⏩ [She loves me](http://9gag.com/gag/aByrnKA)
- - 👉 [9gaggers...](http://9gag.com/gag/aVvX04K)<!-- MEMES:END -->
+ - ⏩ [Just a small time criminal](http://9gag.com/gag/ayNnNeM)
+ - 👉 [Hello there!](http://9gag.com/gag/ayNn2dp)<!-- MEMES:END -->
 
 ---
 
