@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Can&#39;t wait for the cake](http://9gag.com/gag/avyLoEd)
- - ⏩ [Hello there!](http://9gag.com/gag/ayNn2dp)
- - 👉 [Spotted in Toronto.](http://9gag.com/gag/a2vq7gZ)<!-- MEMES:END -->
+ - 💣 [The rare Galaxy Frog. Despite its bright colors it\u2019s not poisonous. Unlike most frogs it does not communicate via sound and males do not have a vocal sac.](http://9gag.com/gag/aryRm40)
+ - ⏩ [Amazing card work](http://9gag.com/gag/a7obWjq)
+ - 👉 [Mommy](http://9gag.com/gag/aoyjP9m)<!-- MEMES:END -->
 
 ---
 
