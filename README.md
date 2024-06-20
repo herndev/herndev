@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Canada](http://9gag.com/gag/aVvXboP)
- - ⏩ [Rafah before and after](http://9gag.com/gag/a2vqv1e)
- - 👉 [Somebody sue the doctor!](http://9gag.com/gag/apRBNr8)<!-- MEMES:END -->
+ - 💣 [Satisfying hoof trimming](http://9gag.com/gag/aPAGxQQ)
+ - ⏩ [They aren&#39;t even worth a brick](http://9gag.com/gag/aE0z0yp)
+ - 👉 [Ha... hehehe, I&#39;m in danger](http://9gag.com/gag/a9yPzq1)<!-- MEMES:END -->
 
 ---
 
