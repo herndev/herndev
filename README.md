@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Report: Samsung really, really doesn’t want a Snapdragon-only Galaxy S25](https://www.androidauthority.com/samsung-working-all-out-exynos-galaxy-s25-3453440/)
- - [Amazon’s new AI-powered Alexa might cost up to $10 per month](https://www.theverge.com/2024/6/21/24183013/amazon-alexa-ai-subscription)
- - [iOS 18 lets you tune your AirPods Pro 2’s noise cancellation even better](https://www.androidauthority.com/ios-18-tune-airpods-pro-noise-cancellation-3453433/)<!-- TECH:END -->
+ - [What Game of Thrones did to the media](https://www.theverge.com/24181763/game-of-thrones-journalism-media-recaps)
+ - [Apple announces new, expanded Milton Keynes store in the UK](https://appleinsider.com/articles/24/06/21/apple-announces-new-expanded-milton-keynes-store-in-the-uk?utm_medium=rss)
+ - [Spotify introduces a new Basic streaming plan in the US, which costs $10.99/month and includes all the benefits of Premium besides audiobook listening time &lpar;Spotify&rpar;](http://www.techmeme.com/240621/p10#a240621p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
