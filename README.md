@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Is this true ?](http://9gag.com/gag/aByryVD)
+ - 💣 [Missing the 80s](http://9gag.com/gag/aE0zqgN)
  - ⏩ [Somebody sue the doctor!](http://9gag.com/gag/apRBNr8)
- - 👉 [It ain&#39;t much but my wife made it. Please be brutal](http://9gag.com/gag/aByrZEZ)<!-- MEMES:END -->
+ - 👉 [She loves me](http://9gag.com/gag/aByrnKA)<!-- MEMES:END -->
 
 ---
 
