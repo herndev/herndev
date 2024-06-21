@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Title](http://9gag.com/gag/a9yPqR6)
- - ⏩ [Muslims in Japan waiting to pray in mosque. No street praying like Europe](http://9gag.com/gag/an7B72o)
- - 👉 [The animators had balls making this scene](http://9gag.com/gag/ajPn7Qw)<!-- MEMES:END -->
+ - 💣 [Stop oil protestors targeted Taylor swift private jet](http://9gag.com/gag/a2vqvne)
+ - ⏩ [They went to allah](http://9gag.com/gag/awy7zPx)
+ - 👉 [New Zealand Women&#39;s Soccer player scores own goal 3x in 30 minutes...](http://9gag.com/gag/aW4OGL3)<!-- MEMES:END -->
 
 ---
 
