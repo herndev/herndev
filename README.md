@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Qilin, hackers behind the London hospitals hack, published ~400GB of patient data on their darknet site and Telegram channel; the NHS is investigating the claim &lpar;Joe Tidy/BBC&rpar;](http://www.techmeme.com/240621/p4#a240621p4)
- - [Microsoft makes Copilot less useful on new Copilot Plus PCs](https://www.theverge.com/2024/6/21/24182979/microsoft-copilot-key-keyboard-shortcut-pwa)
- - [A look at Congress&#39; absurd plan to ban DJI drones in the US, even as the company adds restrictions and features to comply with US government regulations &lpar;Jason Koebler/404 Media&rpar;](http://www.techmeme.com/240621/p3#a240621p3)<!-- TECH:END -->
+ - [New AirPods Pro beta feature allows users to tailor noise cancellation](https://appleinsider.com/articles/24/06/21/new-airpods-pro-beta-feature-allows-users-to-tailor-noise-cancellation?utm_medium=rss)
+ - [This new Motorola phone comes with a whopping four-year warranty](https://www.androidauthority.com/motorola-phone-four-year-warranty-3453332/)
+ - [8 reasons for Apple users to switch to UPDF Editor: AI PDF Assistant](https://appleinsider.com/articles/24/06/21/8-reasons-for-apple-users-to-switch-to-updf-editor-ai-pdf-assistant?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
