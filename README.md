@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [It ain&#39;t much but my wife made it. Please be brutal](http://9gag.com/gag/aByrZEZ)
- - ⏩ [Accident](http://9gag.com/gag/an7BO2q)
- - 👉 [This is a built-in calculator on iOS 18 &lpar;beta&rpar;](http://9gag.com/gag/agmNg8r)<!-- MEMES:END -->
+ - 💣 [F**ker died.](http://9gag.com/gag/ayNn3xq)
+ - ⏩ [Hello there!](http://9gag.com/gag/ayNn2dp)
+ - 👉 [A gentleman shutting down a dumb reporter.](http://9gag.com/gag/aLnBzM6)<!-- MEMES:END -->
 
 ---
 
