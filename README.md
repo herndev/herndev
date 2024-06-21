@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This is a built-in calculator on iOS 18 &lpar;beta&rpar;](http://9gag.com/gag/agmNg8r)
- - ⏩ [Canada](http://9gag.com/gag/aVvXboP)
- - 👉 [She loves me](http://9gag.com/gag/aByrnKA)<!-- MEMES:END -->
+ - 💣 [A gentleman shutting down a dumb reporter.](http://9gag.com/gag/aLnBzM6)
+ - ⏩ [True love...](http://9gag.com/gag/a0eY4ZQ)
+ - 👉 [A woman&#39;s worth....](http://9gag.com/gag/aGyRz26)<!-- MEMES:END -->
 
 ---
 
