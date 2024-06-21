@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [This van life-themed unpacking game promised me pure relaxation, but I got so angry about a paella pan it kept me up at night](https://www.pcgamer.com/games/sim/this-van-life-themed-unpacking-game-promised-me-pure-relaxation-but-i-got-so-angry-about-a-paella-pan-it-kept-me-up-at-night)
- - [You can grab all 3 Dragon Age games and all their DLC for a measly 10 bucks on Steam right now](https://www.pcgamer.com/games/dragon-age/you-can-grab-all-3-dragon-age-games-and-all-their-dlc-for-a-measly-10-bucks-on-steam-right-now)
- - [US Gov announces upcoming ban of Kaspersky antivirus software for US customers—including future updates—citing an &#39;unacceptable risk to national security&#39;](https://www.pcgamer.com/software/security/us-gov-announces-upcoming-ban-of-kaspersky-antivirus-software-for-us-customersincluding-future-updatesciting-an-unacceptable-risk-to-national-security)<!-- GAME:END -->
+ - [It looks like Zelda games have changed forever](https://www.polygon.com/zelda/24182328/zelda-echoes-of-wisdom-design-change)
+ - [Samsung Odyssey G8 OLED G80SD review](https://www.pcgamer.com/hardware/gaming-monitors/samsung-odyssey-g8-oled-g80sd-review)
+ - [How to defeat Rellana, Twin Moon Knight in Elden Ring: Shadow of the Erdtree](https://www.pcgamer.com/games/rpg/elden-ring-rellana)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
