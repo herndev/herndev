@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: US DOJ won&#39;t pursue FTC&#39;s claim that TikTok misled US consumers on data security in a forthcoming suit accusing TikTok of children&#39;s privacy violations &lpar;Bloomberg&rpar;](http://www.techmeme.com/240620/p31#a240620p31)
- - [Leaked images of Galaxy Z Fold 6 and Z Flip 6 prototypes suggest minimal design upgrades](https://www.androidauthority.com/galaxy-fold6-flip6-dummy-unit-leak-3453240/)
- - [Former OpenAI Exec Launches AI Startup With Goal of Safety Over Profits     - CNET](https://www.cnet.com/tech/services-and-software/former-openai-exec-launches-ai-startup-with-goal-of-safety-over-profits/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [iOS 18 brings a new API called AccessorySetupKit, letting third-party accessory makers build the same quick pairing experience as Apple accessories like AirPods &lpar;Filipe Esp&amp;oacute;sito/9to5Mac&rpar;](http://www.techmeme.com/240620/p33#a240620p33)
+ - [New York set to ban so-called addictive social media feeds for children without parental consent](https://www.androidauthority.com/new-york-addictive-feeds-ban-3453265/)
+ - [Source: AI chipmaker Cerebras confidentially filed for a US IPO; filing: in early June, it authorized new shares at a steep discount to its 2021 funding round &lpar;The Information&rpar;](http://www.techmeme.com/240620/p32#a240620p32)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
