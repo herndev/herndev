@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [US Gov announces upcoming ban of Kaspersky antivirus software for US customers—including future updates—citing an &#39;unacceptable risk to national security&#39;](https://www.pcgamer.com/software/security/us-gov-announces-upcoming-ban-of-kaspersky-antivirus-software-for-us-customersincluding-future-updatesciting-an-unacceptable-risk-to-national-security)
  - [MSI MPG B760I Edge WiFi review](https://www.pcgamer.com/hardware/motherboards/msi-mpg-b760i-edge-wifi-review)
- - [Today&#39;s Wordle answer for Friday, June 21](https://www.pcgamer.com/games/puzzle/wordle-answer-today-june-21-2024)
- - [Elden Ring: Shadow of the Erdtree is out now and tearing up the Steam charts](https://www.pcgamer.com/games/rpg/elden-ring-shadow-of-the-erdtree-is-out-now-and-tearing-up-the-steam-charts)<!-- GAME:END -->
+ - [Today&#39;s Wordle answer for Friday, June 21](https://www.pcgamer.com/games/puzzle/wordle-answer-today-june-21-2024)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
