@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [F**ker died.](http://9gag.com/gag/ayNn3xq)
- - ⏩ [Hello there!](http://9gag.com/gag/ayNn2dp)
- - 👉 [A gentleman shutting down a dumb reporter.](http://9gag.com/gag/aLnBzM6)<!-- MEMES:END -->
+ - 💣 [This is a built-in calculator on iOS 18 &lpar;beta&rpar;](http://9gag.com/gag/agmNg8r)
+ - ⏩ [Canada](http://9gag.com/gag/aVvXboP)
+ - 👉 [She loves me](http://9gag.com/gag/aByrnKA)<!-- MEMES:END -->
 
 ---
 
