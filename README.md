@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle answer for Friday, June 21](https://www.pcgamer.com/games/puzzle/wordle-answer-today-june-21-2024)
  - [Elden Ring: Shadow of the Erdtree is out now and tearing up the Steam charts](https://www.pcgamer.com/games/rpg/elden-ring-shadow-of-the-erdtree-is-out-now-and-tearing-up-the-steam-charts)
- - [Ubisoft uses the Beyond Good and Evil remaster to promise us for the 29th time—yes, we counted—that Beyond Good and Evil 2 is still happening](https://www.pcgamer.com/games/action/ubisoft-uses-the-beyond-good-and-evil-remaster-to-promise-us-for-the-29th-timeyes-we-countedthat-beyond-good-and-evil-2-is-still-happening)
- - [Where to find the best Great Katana in Elden Ring: Shadow of the Erdtree](https://www.pcgamer.com/games/rpg/elden-ring-best-great-katana-location)<!-- GAME:END -->
+ - [Ubisoft uses the Beyond Good and Evil remaster to promise us for the 29th time—yes, we counted—that Beyond Good and Evil 2 is still happening](https://www.pcgamer.com/games/action/ubisoft-uses-the-beyond-good-and-evil-remaster-to-promise-us-for-the-29th-timeyes-we-countedthat-beyond-good-and-evil-2-is-still-happening)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
