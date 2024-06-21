@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: US DOJ won&#39;t pursue FTC&#39;s claim that TikTok misled US consumers on data security in a forthcoming suit accusing TikTok of children&#39;s privacy violations &lpar;Bloomberg&rpar;](http://www.techmeme.com/240620/p31#a240620p31)
  - [Leaked images of Galaxy Z Fold 6 and Z Flip 6 prototypes suggest minimal design upgrades](https://www.androidauthority.com/galaxy-fold6-flip6-dummy-unit-leak-3453240/)
- - [SpaceX unveils Starlink Mini, a compact version of its satellite internet antenna &quot;that can easily fit in a backpack&quot;, offering a &quot;limited number&quot; for $599 each &lpar;Michael Sheetz/CNBC&rpar;](http://www.techmeme.com/240620/p30#a240620p30)
- - [TikTok makes its First Amendment case](https://www.theverge.com/2024/6/20/24182551/tiktok-v-garland-creators-brief-first-amendment)<!-- TECH:END -->
+ - [Former OpenAI Exec Launches AI Startup With Goal of Safety Over Profits     - CNET](https://www.cnet.com/tech/services-and-software/former-openai-exec-launches-ai-startup-with-goal-of-safety-over-profits/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
