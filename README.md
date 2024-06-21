@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Where to find the best Great Katana in Elden Ring: Shadow of the Erdtree](https://www.pcgamer.com/games/rpg/elden-ring-best-great-katana-location)
- - [Where to find the best katana in Elden Ring: Shadow of the Erdtree](https://www.pcgamer.com/games/rpg/elden-ring-shadow-of-the-erdtree-best-katana)
- - [How to beat the Divine Beast Dancing Lion in Elden Ring: Shadow of the Erdtree](https://www.pcgamer.com/games/rpg/elden-ring-dancing-lion-tips)<!-- GAME:END -->
+ - [Elden Ring: Shadow of the Erdtree is out now and tearing up the Steam charts](https://www.pcgamer.com/games/rpg/elden-ring-shadow-of-the-erdtree-is-out-now-and-tearing-up-the-steam-charts)
+ - [Ubisoft uses the Beyond Good and Evil remaster to promise us for the 29th time—yes, we counted—that Beyond Good and Evil 2 is still happening](https://www.pcgamer.com/games/action/ubisoft-uses-the-beyond-good-and-evil-remaster-to-promise-us-for-the-29th-timeyes-we-countedthat-beyond-good-and-evil-2-is-still-happening)
+ - [Where to find the best Great Katana in Elden Ring: Shadow of the Erdtree](https://www.pcgamer.com/games/rpg/elden-ring-best-great-katana-location)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
