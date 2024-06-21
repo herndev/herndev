@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Windstorm: Start of a Great Friendship – Remastered Gallops onto Xbox](https://news.xbox.com/en-us/2024/06/21/windstorm-start-of-a-great-friendship-remastered-on-xbox-june-20/)
- - [Where To Find Elden Ring: Shadow Of The Erdtree&#39;s Star-Lined Sword](https://kotaku.com/elden-ring-shadow-erdtree-star-lined-sword-where-find-1851554306)
- - [Where To Find Elden Ring: Shadow Of The Erdtree&#39;s Smithscript Dagger](https://kotaku.com/elden-ring-shadow-erdtree-smithscript-dagger-1851554281)<!-- GAME:END -->
+ - [Shadows: Awakening, an isometric RPG where you play a soul-sucking demon, is free on GOG](https://www.pcgamer.com/games/rpg/shadows-awakening-an-isometric-rpg-where-you-play-a-soul-sucking-demon-is-free-on-gog)
+ - [How To Defeat Divine Beast Dancing Lion In Elden Ring: Shadow Of The Erdtree](https://kotaku.com/shadow-erdtree-dancing-lion-divine-beast-boss-tips-1851554371)
+ - [Where To Find Elden Ring: Shadow Of The Erdtree&#39;s Curseblade Meera Spirit Ash](https://kotaku.com/elden-ring-curseblade-meera-spirit-ash-where-find-1851554428)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
