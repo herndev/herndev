@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Lmao](http://9gag.com/gag/aLnBe1g)
- - ⏩ [Is this true ?](http://9gag.com/gag/aByryVD)
- - 👉 [Euro 2024 anthem &lpar;you know the song&rpar; - 20 June 2024](http://9gag.com/gag/aW4OL24)<!-- MEMES:END -->
+ - 💣 [A gentleman shutting down a dumb reporter.](http://9gag.com/gag/aLnBzM6)
+ - ⏩ [This is fully congruent with pride tbh...](http://9gag.com/gag/a4PLNRp)
+ - 👉 [Got a job as a cashier, despite NOT BEING ABLE TO COUNT.](http://9gag.com/gag/an7B7nE)<!-- MEMES:END -->
 
 ---
 
