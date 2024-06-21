@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [My neigbour&#39;s dog would break it](http://9gag.com/gag/aAypEYR)
- - ⏩ [Crushing big tick with car](http://9gag.com/gag/aAypyz9)
- - 👉 [Most popular girl in all of pride month](http://9gag.com/gag/aD2m6rO)<!-- MEMES:END -->
+ - 💣 [Small oversight](http://9gag.com/gag/a1mY74P)
+ - ⏩ [Its Alien....](http://9gag.com/gag/aVvXxr2)
+ - 👉 [Muslims in Japan waiting to pray in mosque. No street praying like Europe](http://9gag.com/gag/an7B72o)<!-- MEMES:END -->
 
 ---
 
