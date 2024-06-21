@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Next Week on Xbox: New Games for June 24 to 28](https://news.xbox.com/en-us/2024/06/21/next-week-on-xbox-new-games-for-june-24-to-28/)
- - [How To Defeat The Blackgaol Knight In Elden Ring: Shadow of the Erdtree](https://kotaku.com/shadow-of-the-erdtree-blackgaol-knight-guide-1851553065)
- - [It looks like Zelda games have changed forever](https://www.polygon.com/zelda/24182328/zelda-echoes-of-wisdom-design-change)<!-- GAME:END -->
+ - [Creating the Mad Tea Party in PowerWash Simulator’s Upcoming Alice’s Adventures Special Pack](https://news.xbox.com/en-us/2024/06/21/creating-mad-tea-party-powerwash-simulator-alices-adventures/)
+ - [9 Things I Wish I Knew Before Starting Elden Ring: Shadow Of The Erdtree](https://kotaku.com/elden-ring-shadow-of-the-erdtree-beginner-tips-guide-1851553242)
+ - [This 20,000HP AI-generated rocket engine took just two weeks to design and looks like HR Giger&#39;s first attempt at designing a trumpet](https://www.pcgamer.com/hardware/this-20000hp-ai-generated-rocket-engine-took-just-two-weeks-to-design-and-looks-like-hr-gigers-first-attempt-at-designing-a-trumpet)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
