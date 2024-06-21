@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Got a job as a cashier, despite NOT BEING ABLE TO COUNT.](http://9gag.com/gag/an7B7nE)
- - ⏩ [Development aid has finally reached Africa.](http://9gag.com/gag/a9yPv7o)
- - 👉 [A gentleman shutting down a dumb reporter.](http://9gag.com/gag/aLnBzM6)<!-- MEMES:END -->
+ - 💣 [Lmao](http://9gag.com/gag/aLnBe1g)
+ - ⏩ [Is this true ?](http://9gag.com/gag/aByryVD)
+ - 👉 [Euro 2024 anthem &lpar;you know the song&rpar; - 20 June 2024](http://9gag.com/gag/aW4OL24)<!-- MEMES:END -->
 
 ---
 
