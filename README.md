@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [New AirPods Pro beta feature allows users to tailor noise cancellation](https://appleinsider.com/articles/24/06/21/new-airpods-pro-beta-feature-allows-users-to-tailor-noise-cancellation?utm_medium=rss)
- - [This new Motorola phone comes with a whopping four-year warranty](https://www.androidauthority.com/motorola-phone-four-year-warranty-3453332/)
- - [8 reasons for Apple users to switch to UPDF Editor: AI PDF Assistant](https://appleinsider.com/articles/24/06/21/8-reasons-for-apple-users-to-switch-to-updf-editor-ai-pdf-assistant?utm_medium=rss)<!-- TECH:END -->
+ - [Estonia blocks an EU VAT reform that would have imposed new liabilities on short-term rental services like Airbnb and passenger transport services like Bolt &lpar;Bloomberg&rpar;](http://www.techmeme.com/240621/p6#a240621p6)
+ - [Apple announces new, expanded Milton Keynes store in the UK](https://appleinsider.com/articles/24/06/21/apple-announces-new-expanded-milton-keynes-store-in-the-uk?utm_medium=rss)
+ - [Before Smartphones, an Army of Real People Helped You Find Stuff on Google](https://www.wired.com/story/google-search-118-118-aqa/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
