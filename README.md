@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Small oversight](http://9gag.com/gag/a1mY74P)
- - ⏩ [Its Alien....](http://9gag.com/gag/aVvXxr2)
- - 👉 [Muslims in Japan waiting to pray in mosque. No street praying like Europe](http://9gag.com/gag/an7B72o)<!-- MEMES:END -->
+ - 💣 [9gaggers...](http://9gag.com/gag/adBpgRd)
+ - ⏩ [Muslims in Japan waiting to pray in mosque. No street praying like Europe](http://9gag.com/gag/an7B72o)
+ - 👉 [Title](http://9gag.com/gag/a9yPqR6)<!-- MEMES:END -->
 
 ---
 
