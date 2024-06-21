@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [A gentleman shutting down a dumb reporter.](http://9gag.com/gag/aLnBzM6)
- - ⏩ [True love...](http://9gag.com/gag/a0eY4ZQ)
- - 👉 [A woman&#39;s worth....](http://9gag.com/gag/aGyRz26)<!-- MEMES:END -->
+ - 💣 [Is this true ?](http://9gag.com/gag/aByryVD)
+ - ⏩ [Rafah before and after](http://9gag.com/gag/a2vqv1e)
+ - 👉 [It got personal for him](http://9gag.com/gag/a9yP6Aj)<!-- MEMES:END -->
 
 ---
 
