@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Missing the 80s](http://9gag.com/gag/aE0zqgN)
- - ⏩ [Somebody sue the doctor!](http://9gag.com/gag/apRBNr8)
- - 👉 [She loves me](http://9gag.com/gag/aByrnKA)<!-- MEMES:END -->
+ - 💣 [Crushing big tick with car](http://9gag.com/gag/aAypyz9)
+ - ⏩ [The way this wooden roller coaster structure swayed. Roller coaster structures are meant to flex in order to properly absorb g-forces, as being too stationary could snap them apart](http://9gag.com/gag/amo8POv)
+ - 👉 [Don\u2019t you just love the new neighbors?](http://9gag.com/gag/avyL58M)<!-- MEMES:END -->
 
 ---
 
