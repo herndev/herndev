@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How Working with Theatre Actors Enhanced our Indie Horror/Mystery NightGhast](https://news.xbox.com/en-us/2024/06/21/how-working-with-theatre-actors-enhanced-our-indie-horror-mystery-nightghast/)
- - [Cyberpunk life sim Nivalis is now set to come out in spring 2025, and I&#39;m more excited for it than ever](https://www.pcgamer.com/games/life-sim/cyberpunk-life-sim-nivalis-is-now-set-to-come-out-in-spring-2025-and-im-more-excited-for-it-than-ever)
- - [How to beat Furnace Golems in Elden Ring: Shadow of the Erdtree](https://www.polygon.com/elden-ring-shadow-erdtree-guide/24183175/furnace-golems-how-to-beat-rewards-dlc)<!-- GAME:END -->
+ - [Where To Find Elden Ring: Shadow Of The Erdtree&#39;s Blade Of Mercy](https://kotaku.com/blade-of-mercy-shadow-erdtree-elden-ring-where-talisman-1851553925)
+ - [With Arcane Ending, Valorant Deserves The Adaptation Treatment](https://kotaku.com/riot-games-arcane-valorant-netflix-series-1851553868)
+ - [Community-Made Overwatch 2 Mode Is So Good Fans Want Some Of Its Changes In The Main Game](https://kotaku.com/overwatch-2-community-crafted-eskay-brigitte-inspire-1851553786)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
