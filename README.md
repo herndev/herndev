@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Youth plaintiffs in Hawaii reach historic climate deal](https://www.theverge.com/2024/6/21/24183261/hawaii-transportation-youth-climate-change-lawsuit-historic-settlement)
- - [Save up to $650 on Apple&#39;s latest 14-inch MacBook Pro with M3 Pro, M3 Max chip](https://appleinsider.com/articles/24/06/21/save-up-to-650-on-apples-latest-14-inch-macbook-pro-with-m3-pro-m3-max-chip?utm_medium=rss)
- - [Source: Stability AI hired ex- CEO of Weta Digital Prem Akkaraju as new CEO; Akkaraju and Sean Parker are among investors that have stepped in to save Stability &lpar;The Information&rpar;](http://www.techmeme.com/240621/p23#a240621p23)<!-- TECH:END -->
+ - [Amazon retaliated after employee walkout over the return-to-office policy, NLRB lawyers say](https://www.theverge.com/2024/6/21/24183203/amazon-nlrb-alleged-retaliation-return-to-work)
+ - [The Studio Executive Who Wants Hollywood to Get Real About Bad Storytelling](https://www.wired.com/story/dial-up-kamala-avila-salmon/)
+ - [visionOS 2 is a promising update with tons of new features](https://appleinsider.com/articles/24/06/21/visionos-2-is-a-promising-update-with-tons-of-new-features?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
