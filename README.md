@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Is this true ?](http://9gag.com/gag/aByryVD)
- - ⏩ [9gaggers...](http://9gag.com/gag/adBpgRd)
- - 👉 [Fast and furious berlin](http://9gag.com/gag/aQzngPW)<!-- MEMES:END -->
+ - 💣 [Can&#39;t wait for Summer](http://9gag.com/gag/aYQwOxv)
+ - ⏩ [Its Alien....](http://9gag.com/gag/aVvXxr2)
+ - 👉 [A gentleman shutting down a dumb reporter.](http://9gag.com/gag/aLnBzM6)<!-- MEMES:END -->
 
 ---
 
