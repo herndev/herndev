@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at Congress&#39; absurd plan to ban DJI drones in the US, even as the company adds restrictions and features to comply with US government regulations &lpar;Jason Koebler/404 Media&rpar;](http://www.techmeme.com/240621/p3#a240621p3)
- - [Some Pixel owners still aren’t seeing the replacement Google VPN service](https://www.androidauthority.com/vpn-by-google-missing-pixel-users-3453309/)
- - [Starlink Mini brings space internet to backpackers](https://www.theverge.com/2024/6/21/24182970/starlink-mini-usb-power-specs-price)<!-- TECH:END -->
+ - [Qilin, hackers behind the London hospitals hack, published ~400GB of patient data on their darknet site and Telegram channel; the NHS is investigating the claim &lpar;Joe Tidy/BBC&rpar;](http://www.techmeme.com/240621/p4#a240621p4)
+ - [Microsoft makes Copilot less useful on new Copilot Plus PCs](https://www.theverge.com/2024/6/21/24182979/microsoft-copilot-key-keyboard-shortcut-pwa)
+ - [A look at Congress&#39; absurd plan to ban DJI drones in the US, even as the company adds restrictions and features to comply with US government regulations &lpar;Jason Koebler/404 Media&rpar;](http://www.techmeme.com/240621/p3#a240621p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
