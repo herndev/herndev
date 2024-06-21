@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [A truck driver&#39;s happiness when trains respond when he honks](http://9gag.com/gag/amo8Wzv)
- - ⏩ [A little story](http://9gag.com/gag/a0eYe7X)
- - 👉 [Satisfying hoof trimming](http://9gag.com/gag/aPAGxQQ)<!-- MEMES:END -->
+ - 💣 [It ain&#39;t much but my wife made it. Please be brutal](http://9gag.com/gag/aByrZEZ)
+ - ⏩ [Accident](http://9gag.com/gag/an7BO2q)
+ - 👉 [This is a built-in calculator on iOS 18 &lpar;beta&rpar;](http://9gag.com/gag/agmNg8r)<!-- MEMES:END -->
 
 ---
 
