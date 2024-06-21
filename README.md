@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Source: a group that claims to have hacked car dealership software provider CDK Global has demanded tens of millions of dollars in ransom, and CDK plans to pay &lpar;Craig Trudell/Bloomberg&rpar;](http://www.techmeme.com/240621/p26#a240621p26)
- - [In an interview, OpenAI CTO Mira Murati says &quot;some creative jobs maybe will go away&quot; due to AI, &quot;but maybe they shouldn&#39;t have been there in the first place&quot; &lpar;Kate Irwin/PCMag&rpar;](http://www.techmeme.com/240621/p25#a240621p25)
- - [TikTok’s AI tool accidentally let you put Hitler’s words in a paid actor’s mouth](https://www.theverge.com/2024/6/21/24183335/tiktok-ai-symphony-digital-avatar-generator-moderation)<!-- TECH:END -->
+ - [AT&amp;T is still on the hook for offering landline service in California](https://www.theverge.com/2024/6/21/24183435/att-provide-landline-service-california-colr)
+ - [The California Public Utilities Commission rejects AT&amp;T&#39;s request to end its landline phone obligations and urges AT&amp;T to upgrade copper facilities to fiber &lpar;Jon Brodkin/Ars Technica&rpar;](http://www.techmeme.com/240621/p27#a240621p27)
+ - [Redbox missed a multimillion-dollar payment it couldn’t afford to miss](https://www.theverge.com/2024/6/21/24183454/redbox-universal-missed-payment-17-million)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
