@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Can&#39;t wait for Summer](http://9gag.com/gag/aYQwOxv)
- - ⏩ [Its Alien....](http://9gag.com/gag/aVvXxr2)
- - 👉 [A gentleman shutting down a dumb reporter.](http://9gag.com/gag/aLnBzM6)<!-- MEMES:END -->
+ - 💣 [A gentleman shutting down a dumb reporter.](http://9gag.com/gag/aLnBzM6)
+ - ⏩ [Crushing big tick with car](http://9gag.com/gag/aAypyz9)
+ - 👉 [Muslims in Japan waiting to pray in mosque. No street praying like Europe](http://9gag.com/gag/an7B72o)<!-- MEMES:END -->
 
 ---
 
