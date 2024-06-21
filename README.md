@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [It looks like Zelda games have changed forever](https://www.polygon.com/zelda/24182328/zelda-echoes-of-wisdom-design-change)
- - [Samsung Odyssey G8 OLED G80SD review](https://www.pcgamer.com/hardware/gaming-monitors/samsung-odyssey-g8-oled-g80sd-review)
- - [How to defeat Rellana, Twin Moon Knight in Elden Ring: Shadow of the Erdtree](https://www.pcgamer.com/games/rpg/elden-ring-rellana)<!-- GAME:END -->
+ - [Next Week on Xbox: New Games for June 24 to 28](https://news.xbox.com/en-us/2024/06/21/next-week-on-xbox-new-games-for-june-24-to-28/)
+ - [How To Defeat The Blackgaol Knight In Elden Ring: Shadow of the Erdtree](https://kotaku.com/shadow-of-the-erdtree-blackgaol-knight-guide-1851553065)
+ - [It looks like Zelda games have changed forever](https://www.polygon.com/zelda/24182328/zelda-echoes-of-wisdom-design-change)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
