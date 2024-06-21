@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [9gaggers...](http://9gag.com/gag/adBpgRd)
- - ⏩ [Muslims in Japan waiting to pray in mosque. No street praying like Europe](http://9gag.com/gag/an7B72o)
- - 👉 [Title](http://9gag.com/gag/a9yPqR6)<!-- MEMES:END -->
+ - 💣 [A gentleman shutting down a dumb reporter.](http://9gag.com/gag/aLnBzM6)
+ - ⏩ [Here come the wee woos!](http://9gag.com/gag/aPAGAyn)
+ - 👉 [Fast and furious berlin](http://9gag.com/gag/aQzngPW)<!-- MEMES:END -->
 
 ---
 
