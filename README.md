@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google official Pixel 8a case review: Should you buy it?](https://www.androidauthority.com/official-google-pixel-8a-case-review-3451971/)
- - [Best Apple Watch &lpar;2024&rpar;: Which Model Should You Buy?](https://www.wired.com/gallery/best-apple-watch/)
- - [Deep inside iOS 18&#39;s best new features and improvements on the AppleInsider Podcast](https://appleinsider.com/articles/24/06/21/deep-inside-ios-18s-best-new-features-and-improvements-on-the-appleinsider-podcast?utm_medium=rss)<!-- TECH:END -->
+ - [Report: Samsung really, really doesn’t want a Snapdragon-only Galaxy S25](https://www.androidauthority.com/samsung-working-all-out-exynos-galaxy-s25-3453440/)
+ - [Amazon’s new AI-powered Alexa might cost up to $10 per month](https://www.theverge.com/2024/6/21/24183013/amazon-alexa-ai-subscription)
+ - [iOS 18 lets you tune your AirPods Pro 2’s noise cancellation even better](https://www.androidauthority.com/ios-18-tune-airpods-pro-noise-cancellation-3453433/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
