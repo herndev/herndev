@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The moment of realization](http://9gag.com/gag/a2vqwp9)
- - ⏩ [F**ker died.](http://9gag.com/gag/ayNn3xq)
- - 👉 [Title](http://9gag.com/gag/a9yPqR6)<!-- MEMES:END -->
+ - 💣 [Title](http://9gag.com/gag/a9yPqR6)
+ - ⏩ [Muslims in Japan waiting to pray in mosque. No street praying like Europe](http://9gag.com/gag/an7B72o)
+ - 👉 [The animators had balls making this scene](http://9gag.com/gag/ajPn7Qw)<!-- MEMES:END -->
 
 ---
 
