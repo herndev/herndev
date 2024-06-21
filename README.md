@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Elden Ring: Shadow of the Erdtree’s Blackgaol Knight just became everyone’s archnemesis](https://www.polygon.com/24183254/elden-ring-dlc-shadow-of-the-erdtree-blackgaol-knight-memes-jokes)
- - [Kingdom Hearts, As Told By Steam Reviews](https://kotaku.com/kingdom-hearts-steam-user-reviews-epic-games-store-1851554071)
- - [Where To Find Elden Ring: Shadow Of The Erdtree&#39;s Black Steel Greathammer](https://kotaku.com/elden-ring-black-steel-greathammer-where-find-1851554063)<!-- GAME:END -->
+ - [Windstorm: Start of a Great Friendship – Remastered Gallops onto Xbox](https://news.xbox.com/en-us/2024/06/21/windstorm-start-of-a-great-friendship-remastered-on-xbox-june-20/)
+ - [Where To Find Elden Ring: Shadow Of The Erdtree&#39;s Star-Lined Sword](https://kotaku.com/elden-ring-shadow-erdtree-star-lined-sword-where-find-1851554306)
+ - [Where To Find Elden Ring: Shadow Of The Erdtree&#39;s Smithscript Dagger](https://kotaku.com/elden-ring-shadow-erdtree-smithscript-dagger-1851554281)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
