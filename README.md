@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Starlink Mini brings space internet to backpackers](https://www.theverge.com/2024/6/21/24182970/starlink-mini-usb-power-specs-price)
  - [More like T-stationary: T-Mobile fixes roaming loophole for 5G home internet](https://www.androidauthority.com/t-mobile-home-internet-5g-loophole-verification-3451949/)
- - [Indian grocery delivery startup Zepto raised $665M Series F co-led by Glade Brook, Nexus, and StepStone Group at a $3.6B valuation, up from $1.4B in August 2023 &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/240621/p2#a240621p2)
- - [Australia&#39;s eSafety Commissioner waters down child abuse and terror content detection rules on E2E encrypted services, after a push back from tech companies &lpar;Josh Taylor/The Guardian&rpar;](http://www.techmeme.com/240621/p1#a240621p1)<!-- TECH:END -->
+ - [Indian grocery delivery startup Zepto raised $665M Series F co-led by Glade Brook, Nexus, and StepStone Group at a $3.6B valuation, up from $1.4B in August 2023 &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/240621/p2#a240621p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
