@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Creating the Mad Tea Party in PowerWash Simulator’s Upcoming Alice’s Adventures Special Pack](https://news.xbox.com/en-us/2024/06/21/creating-mad-tea-party-powerwash-simulator-alices-adventures/)
- - [9 Things I Wish I Knew Before Starting Elden Ring: Shadow Of The Erdtree](https://kotaku.com/elden-ring-shadow-of-the-erdtree-beginner-tips-guide-1851553242)
- - [This 20,000HP AI-generated rocket engine took just two weeks to design and looks like HR Giger&#39;s first attempt at designing a trumpet](https://www.pcgamer.com/hardware/this-20000hp-ai-generated-rocket-engine-took-just-two-weeks-to-design-and-looks-like-hr-gigers-first-attempt-at-designing-a-trumpet)<!-- GAME:END -->
+ - [How Working with Theatre Actors Enhanced our Indie Horror/Mystery NightGhast](https://news.xbox.com/en-us/2024/06/21/how-working-with-theatre-actors-enhanced-our-indie-horror-mystery-nightghast/)
+ - [Cyberpunk life sim Nivalis is now set to come out in spring 2025, and I&#39;m more excited for it than ever](https://www.pcgamer.com/games/life-sim/cyberpunk-life-sim-nivalis-is-now-set-to-come-out-in-spring-2025-and-im-more-excited-for-it-than-ever)
+ - [How to beat Furnace Golems in Elden Ring: Shadow of the Erdtree](https://www.polygon.com/elden-ring-shadow-erdtree-guide/24183175/furnace-golems-how-to-beat-rewards-dlc)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
