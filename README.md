@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Netflix’s Trigger Warning, The Beast, and every movie new to streaming this week](https://www.polygon.com/2024/6/21/24178820/new-movies-the-beast-trigger-warning-netflix-mars-express)
  - [Lowering Elden Ring&#39;s difficulty would attract more players but would also &#39;break the game itself,&#39; says director Hidetaka Miyazaki](https://www.pcgamer.com/games/action/lowering-elden-rings-difficulty-would-attract-more-players-but-would-also-break-the-game-itself-says-director-hidetaka-miyazaki)
- - [An Underrated Mashup Of Zelda 2 And Mega Man Is Finally Getting The Multiplatform Love It Deserves](https://kotaku.com/panzer-paladin-ps5-trophies-zelda-2-mega-man-retro-8bit-1851554364)
- - [Sir Ansbach questline steps in Elden Ring: Shadow of the Erdtree](https://www.polygon.com/elden-ring-shadow-erdtree-guide/24183286/sir-ansbach-questline-steps-dlc-sote)<!-- GAME:END -->
+ - [An Underrated Mashup Of Zelda 2 And Mega Man Is Finally Getting The Multiplatform Love It Deserves](https://kotaku.com/panzer-paladin-ps5-trophies-zelda-2-mega-man-retro-8bit-1851554364)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
