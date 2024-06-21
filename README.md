@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google pauses plans to allow real-money games on the Play Store, as supporting such apps in markets without a central licensing framework proves difficult &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/240621/p13#a240621p13)
- - [Alexa’s upcoming generative AI upgrade might cost you $5 to $10 monthly](https://www.androidauthority.com/alexa-ai-monthly-charge-3453495/)
- - [The DOJ has convicted five men for running a Netflix clone full of pirated TV shows](https://www.theverge.com/2024/6/21/24183100/jetflicks-conviction-netflix-clone-doj-piracy)<!-- TECH:END -->
+ - [This could be our first look at the OnePlus Pad 2](https://www.androidauthority.com/oneplus-pad-2-leak-2-3453538/)
+ - [Apple confirms Apple Intelligence isn’t coming to nearly 450 million people in EU](https://www.androidauthority.com/apple-intelligence-eu-3453559/)
+ - [Apple will withhold the release of Apple Intelligence, iPhone Mirroring, and more in the EU this year, citing concerns about DMA&#39;s interoperability requirements &lpar;Bloomberg&rpar;](http://www.techmeme.com/240621/p16#a240621p16)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
