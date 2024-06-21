@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [This could be our first look at the OnePlus Pad 2](https://www.androidauthority.com/oneplus-pad-2-leak-2-3453538/)
- - [Apple confirms Apple Intelligence isn’t coming to nearly 450 million people in EU](https://www.androidauthority.com/apple-intelligence-eu-3453559/)
- - [Apple will withhold the release of Apple Intelligence, iPhone Mirroring, and more in the EU this year, citing concerns about DMA&#39;s interoperability requirements &lpar;Bloomberg&rpar;](http://www.techmeme.com/240621/p16#a240621p16)<!-- TECH:END -->
+ - [Apple Intelligence &amp; iPhone mirroring aren&#39;t coming to EU because of the DMA](https://appleinsider.com/articles/24/06/21/apple-intelligence-iphone-mirroring-arent-coming-to-eu-because-of-the-dma?utm_medium=rss)
+ - [Apple may delay AI features in the EU because of its big tech law](https://www.theverge.com/2024/6/21/24183251/apple-eu-delay-ai-screen-mirroring-shareplay-dma)
+ - [Sources: Amazon has considered a $5 to $10 monthly price tag for a revamped Alexa with generative AI features, dubbed &quot;Remarkable Alexa&quot; &lpar;Greg Bensinger/Reuters&rpar;](http://www.techmeme.com/240621/p19#a240621p19)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
