@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Indian grocery delivery startup Zepto raised $665M Series F co-led by Glade Brook, Nexus, and StepStone Group at a $3.6B valuation, up from $1.4B in August 2023 &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/240621/p2#a240621p2)
  - [Australia&#39;s eSafety Commissioner waters down child abuse and terror content detection rules on E2E encrypted services, after a push back from tech companies &lpar;Josh Taylor/The Guardian&rpar;](http://www.techmeme.com/240621/p1#a240621p1)
- - [How to run Xbox 360 games on macOS Sequoia](https://appleinsider.com/inside/macos-sequoia/tips/how-to-run-xbox-360-games-on-macos-sequoia?utm_medium=rss)
- - [Today&#39;s NYT Strands Hints, Answers and Help for June 21, #110     - CNET](https://www.cnet.com/tech/gaming/todays-nyt-strands-hint-answer-help/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [How to run Xbox 360 games on macOS Sequoia](https://appleinsider.com/inside/macos-sequoia/tips/how-to-run-xbox-360-games-on-macos-sequoia?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
