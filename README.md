@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Australia&#39;s eSafety Commissioner waters down child abuse and terror content detection rules on E2E encrypted services, after a push back from tech companies &lpar;Josh Taylor/The Guardian&rpar;](http://www.techmeme.com/240621/p1#a240621p1)
  - [How to run Xbox 360 games on macOS Sequoia](https://appleinsider.com/inside/macos-sequoia/tips/how-to-run-xbox-360-games-on-macos-sequoia?utm_medium=rss)
- - [The Best Pixar Movies Ranked, From &#39;Inside Out 2&#39; to &#39;Toy Story&#39;     - CNET](https://www.cnet.com/tech/services-and-software/the-best-pixar-movies-ranked-from-inside-out-2-to-toy-story/#ftag=CAD590a51e)
- - [Why Your Home&#39;s Energy System Efficiency Isn&#39;t 100%     - CNET](https://www.cnet.com/home/energy-and-utilities/why-your-homes-energy-system-isnt-100-efficient/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Today&#39;s NYT Strands Hints, Answers and Help for June 21, #110     - CNET](https://www.cnet.com/tech/gaming/todays-nyt-strands-hint-answer-help/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
