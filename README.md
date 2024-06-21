@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [What Game of Thrones did to the media](https://www.theverge.com/24181763/game-of-thrones-journalism-media-recaps)
- - [Apple announces new, expanded Milton Keynes store in the UK](https://appleinsider.com/articles/24/06/21/apple-announces-new-expanded-milton-keynes-store-in-the-uk?utm_medium=rss)
- - [Spotify introduces a new Basic streaming plan in the US, which costs $10.99/month and includes all the benefits of Premium besides audiobook listening time &lpar;Spotify&rpar;](http://www.techmeme.com/240621/p10#a240621p10)<!-- TECH:END -->
+ - [Google pauses plans to allow real-money games on the Play Store, as supporting such apps in markets without a central licensing framework proves difficult &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/240621/p13#a240621p13)
+ - [Alexa’s upcoming generative AI upgrade might cost you $5 to $10 monthly](https://www.androidauthority.com/alexa-ai-monthly-charge-3453495/)
+ - [The DOJ has convicted five men for running a Netflix clone full of pirated TV shows](https://www.theverge.com/2024/6/21/24183100/jetflicks-conviction-netflix-clone-doj-piracy)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
