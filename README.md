@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Estonia blocks an EU VAT reform that would have imposed new liabilities on short-term rental services like Airbnb and passenger transport services like Bolt &lpar;Bloomberg&rpar;](http://www.techmeme.com/240621/p6#a240621p6)
- - [Apple announces new, expanded Milton Keynes store in the UK](https://appleinsider.com/articles/24/06/21/apple-announces-new-expanded-milton-keynes-store-in-the-uk?utm_medium=rss)
- - [Before Smartphones, an Army of Real People Helped You Find Stuff on Google](https://www.wired.com/story/google-search-118-118-aqa/)<!-- TECH:END -->
+ - [Google official Pixel 8a case review: Should you buy it?](https://www.androidauthority.com/official-google-pixel-8a-case-review-3451971/)
+ - [Best Apple Watch &lpar;2024&rpar;: Which Model Should You Buy?](https://www.wired.com/gallery/best-apple-watch/)
+ - [Deep inside iOS 18&#39;s best new features and improvements on the AppleInsider Podcast](https://appleinsider.com/articles/24/06/21/deep-inside-ios-18s-best-new-features-and-improvements-on-the-appleinsider-podcast?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
