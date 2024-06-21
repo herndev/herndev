@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Is this true ?](http://9gag.com/gag/aByryVD)
- - ⏩ [Rafah before and after](http://9gag.com/gag/a2vqv1e)
- - 👉 [It got personal for him](http://9gag.com/gag/a9yP6Aj)<!-- MEMES:END -->
+ - 💣 [F**ker died.](http://9gag.com/gag/ayNn3xq)
+ - ⏩ [When your stomach acid rises, but you are told to lead.](http://9gag.com/gag/agmNmYr)
+ - 👉 [Rafah before and after](http://9gag.com/gag/a2vqv1e)<!-- MEMES:END -->
 
 ---
 
