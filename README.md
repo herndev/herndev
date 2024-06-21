@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [A gentleman shutting down a dumb reporter.](http://9gag.com/gag/aLnBzM6)
- - ⏩ [Here come the wee woos!](http://9gag.com/gag/aPAGAyn)
+ - 💣 [Is this true ?](http://9gag.com/gag/aByryVD)
+ - ⏩ [9gaggers...](http://9gag.com/gag/adBpgRd)
  - 👉 [Fast and furious berlin](http://9gag.com/gag/aQzngPW)<!-- MEMES:END -->
 
 ---
