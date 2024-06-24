@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Guys, is this true ?](http://9gag.com/gag/adBpoA2)
- - ⏩ [Say it!](http://9gag.com/gag/aVvXVdP)
- - 👉 [One Apple a day, keeps the IT problems away](http://9gag.com/gag/aRBVo8G)<!-- MEMES:END -->
+ - 💣 [12 viewers on Twitch, what&#39;s up?](http://9gag.com/gag/aE0zOnK)
+ - ⏩ [Wait! I thought people hated strong female leads.](http://9gag.com/gag/aByr4eP)
+ - 👉 [Singlehandedly](http://9gag.com/gag/agmN201)<!-- MEMES:END -->
 
 ---
 
