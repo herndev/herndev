@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at Apple Intelligence, an umbrella for dozens of models running on-device or in carbon neutral data centers, and why Vision Pro is not getting it yet &lpar;John Gruber/Daring Fireball&rpar;](http://www.techmeme.com/240624/p3#a240624p3)
- - [Sources: the EU plans to charge Apple for alleged anti-competitive conduct and Microsoft on suspicions of taking advantage of its market dominance this week &lpar;Financial Times&rpar;](http://www.techmeme.com/240624/p2#a240624p2)
- - [Sources: ByteDance is working with Broadcom on a US sanctions compliant 5nm AI chip, to be made by TSMC, with manufacturing not expected to start this year &lpar;Eduardo Baptista/Reuters&rpar;](http://www.techmeme.com/240624/p1#a240624p1)<!-- TECH:END -->
+ - [The YouTube app could finally get a sleep timer &lpar;APK teardown&rpar;](https://www.androidauthority.com/youtube-app-sleep-timer-teardown-3453749/)
+ - [Google Pixel 8a problems and how to fix them](https://www.androidauthority.com/google-pixel-8a-problems-fixes-3453789/)
+ - [A look at Apple Intelligence, an umbrella for dozens of models running on-device or in carbon neutral data centers, and why Vision Pro is not getting it yet &lpar;John Gruber/Daring Fireball&rpar;](http://www.techmeme.com/240624/p3#a240624p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
