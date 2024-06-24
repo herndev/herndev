@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Amazon is working on an AI chatbot, codenamed Metis, designed to compete directly with ChatGPT; source: it&#39;s tentatively slated for a September launch &lpar;Eugene Kim/Business Insider&rpar;](http://www.techmeme.com/240624/p22#a240624p22)
- - [Hot deal: Get 48% off the CUKTECH 20 Power Bank, one of our favorite battery packs!](https://www.androidauthority.com/cuktech-20-power-bank-deal-3454185/)
- - [Traveling This Summer? Boost Your iPhone&#39;s Battery Life With 2 Easy Hacks     - CNET](https://www.cnet.com/tech/mobile/traveling-this-summer-boost-your-iphones-battery-life-with-2-easy-hacks/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [This Kasa Smart Light Bulb is 56% off: The cheapest way to turn your home smart](https://www.androidauthority.com/kasa-smart-light-bulb-deal-3454197/)
+ - [Cozey Ciello XL Couch: Fine—If You’ve Got the Space for It](https://www.wired.com/review/cozey-ciello-xl/)
+ - [Best Mattress Deals: Early Fourth of July Sales Bring Big Savings     - CNET](https://www.cnet.com/deals/best-mattress-sales/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
