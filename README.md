@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [LG brings tandem OLED panels to laptops, claiming three times the brightness and double the lifespan of current self-emissive screens](https://www.pcgamer.com/hardware/gaming-laptops/lg-brings-tandem-oled-panels-to-laptops-claiming-three-times-the-brightness-and-double-the-lifespan-of-current-self-emissive-screens)
  - [You might need to unlock a new difficulty level to get the most from Diablo 4’s season 5](https://www.polygon.com/24184636/diablo-4-season-5-ptr-quest-line-infernal-hordes)
- - [The Armed Squirrel’s Weapon Guide: An Arsenal Overview of Squirrel With a Gun](https://news.xbox.com/en-us/2024/06/24/squirrel-with-a-gun/)
- - [The first technical deep dive of the Zen 5 architecture is here, with preliminary benchmarks supporting AMD&#39;s IPC claims](https://www.pcgamer.com/hardware/processors/the-first-technical-deep-dive-of-the-zen-5-architecture-is-here-with-preliminary-benchmarks-supporting-amds-ipc-claims)<!-- GAME:END -->
+ - [The Armed Squirrel’s Weapon Guide: An Arsenal Overview of Squirrel With a Gun](https://news.xbox.com/en-us/2024/06/24/squirrel-with-a-gun/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
