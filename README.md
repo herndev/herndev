@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [73% off the Fossil Gen 6 Smartwatch: The hottest wearable deal in a long time](https://www.androidauthority.com/fossil-gen-6-smartwatch-deal-2-3454153/)
- - [The entry-level Steam Deck is cheaper than ever ahead of Steam’s Summer Sale](https://www.theverge.com/2024/6/24/24185077/valve-steam-summer-sale-steam-deck-lcd-pc-deal-sale)
- - [SharePlay in Apple Music gets more shareable in iPadOS 18](https://appleinsider.com/articles/24/06/24/shareplay-in-apple-music-gets-more-shareable-in-ipados-18?utm_medium=rss)<!-- TECH:END -->
+ - [Sources: Amazon is working on an AI chatbot, codenamed Metis, designed to compete directly with ChatGPT; source: it&#39;s tentatively slated for a September launch &lpar;Eugene Kim/Business Insider&rpar;](http://www.techmeme.com/240624/p22#a240624p22)
+ - [Hot deal: Get 48% off the CUKTECH 20 Power Bank, one of our favorite battery packs!](https://www.androidauthority.com/cuktech-20-power-bank-deal-3454185/)
+ - [Traveling This Summer? Boost Your iPhone&#39;s Battery Life With 2 Easy Hacks     - CNET](https://www.cnet.com/tech/mobile/traveling-this-summer-boost-your-iphones-battery-life-with-2-easy-hacks/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
