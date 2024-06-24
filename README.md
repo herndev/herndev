@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [In preliminary findings, EU says Apple&#39;s anti-steering rules breached DMA; EU is also investigating whether Apple&#39;s developer fees comply with EU rules &lpar;Javier Espinoza/Financial Times&rpar;](http://www.techmeme.com/240624/p4#a240624p4)
- - [Revolutionary Alzheimer’s Treatments Can’t Help Patients Who Go Undiagnosed](https://www.wired.com/story/wired-health-hilary-evans-dementia-alzheimers/)
- - [Post-Pandemic Recovery Isn’t Guaranteed](https://www.wired.com/story/wired-health-disaster-planning-lucy-easthope-pandemic/)<!-- TECH:END -->
+ - [The Eternal Truth of Markdown](https://www.wired.com/story/the-eternal-truth-of-markdown/)
+ - [EU takes aim at Apple&#39;s Core Technology Fee in non-compliance investigations](https://appleinsider.com/articles/24/06/24/eu-takes-aim-at-apples-core-technology-fee-in-non-compliance-investigations?utm_medium=rss)
+ - [iPhones and iPads will soon give you one less reason to use your Mac](https://www.androidauthority.com/ios-ipados-18-reformat-external-drives-3453919/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
