@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle answer for Monday, June 24](https://www.pcgamer.com/games/puzzle/wordle-answer-today-june-24-2024)
  - [Its five year plan complete, Workers &amp; Resources: Soviet Republic releases its industrial city-building into 1.0](https://www.pcgamer.com/games/city-builder/its-five-year-plan-complete-workers-and-resources-soviet-republic-releases-its-industrial-city-building-into-10)
- - [House of the Dragon’s twins perfect ‘Which one do I shoot?!’](https://www.polygon.com/24183307/house-dragon-twin-fight-episode-2)
- - [Elden Ring: Shadow of the Erdtree is peak FromSoftware, with everything players complained about in the base game dialed up to 11 in the funniest way possible](https://www.pcgamer.com/games/rpg/elden-ring-shadow-of-the-erdtree-is-peak-fromsoftware-with-everything-players-complained-about-in-the-base-game-dialed-up-to-11-in-the-funniest-way-possible)<!-- GAME:END -->
+ - [House of the Dragon’s twins perfect ‘Which one do I shoot?!’](https://www.polygon.com/24183307/house-dragon-twin-fight-episode-2)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
