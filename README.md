@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to get started with iPhone Mirroring in iOS 18 and macOS Sequoia](https://appleinsider.com/inside/macos-sequoia/tips/how-to-get-started-with-iphone-mirroring-in-ios-18-and-macos-sequoia?utm_medium=rss)
- - [Best Outdoor Home Security Cameras for 2024     - CNET](https://www.cnet.com/home/security/best-outdoor-home-security-cameras/#ftag=CAD590a51e)
- - [Save 25% on an Anker Soundcore Motion X600 at Amazon Right Now     - CNET](https://www.cnet.com/deals/save-25-on-an-anker-soundcore-motion-x600-at-amazon-right-now/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [73% off the Fossil Gen 6 Smartwatch: The hottest wearable deal in a long time](https://www.androidauthority.com/fossil-gen-6-smartwatch-deal-2-3454153/)
+ - [The entry-level Steam Deck is cheaper than ever ahead of Steam’s Summer Sale](https://www.theverge.com/2024/6/24/24185077/valve-steam-summer-sale-steam-deck-lcd-pc-deal-sale)
+ - [SharePlay in Apple Music gets more shareable in iPadOS 18](https://appleinsider.com/articles/24/06/24/shareplay-in-apple-music-gets-more-shareable-in-ipados-18?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
