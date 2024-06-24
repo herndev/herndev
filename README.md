@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Nobody bought it except the influencers](http://9gag.com/gag/aQznOxr)
+ - 💣 [Guys, is this true ?](http://9gag.com/gag/adBpoA2)
  - ⏩ [Say it!](http://9gag.com/gag/aVvXVdP)
- - 👉 [Canopy comes off airplane right after takeoff](http://9gag.com/gag/ae9pRrm)<!-- MEMES:END -->
+ - 👉 [One Apple a day, keeps the IT problems away](http://9gag.com/gag/aRBVo8G)<!-- MEMES:END -->
 
 ---
 
