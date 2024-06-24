@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Open-source supremacy](http://9gag.com/gag/aNDKOy4)
- - ⏩ [Cranston Female Police officer claims driver was going to run her over... despite she was standing beside his car....](http://9gag.com/gag/abAbWEr)
+ - 💣 [Say it!](http://9gag.com/gag/aVvXVdP)
+ - ⏩ [One Apple a day, keeps the IT problems away](http://9gag.com/gag/aRBVo8G)
  - 👉 [Canopy comes off airplane right after takeoff](http://9gag.com/gag/ae9pRrm)<!-- MEMES:END -->
 
 ---
