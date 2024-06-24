@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Say it!](http://9gag.com/gag/aVvXVdP)
- - ⏩ [One Apple a day, keeps the IT problems away](http://9gag.com/gag/aRBVo8G)
- - 👉 [Canopy comes off airplane right after takeoff](http://9gag.com/gag/ae9pRrm)<!-- MEMES:END -->
+ - 💣 [Mmmm I wonder why](http://9gag.com/gag/apRBYe5)
+ - ⏩ [I don&#39;t think that&#39;s the problem](http://9gag.com/gag/aByrO1P)
+ - 👉 [The hate within](http://9gag.com/gag/aAypXx9)<!-- MEMES:END -->
 
 ---
 
