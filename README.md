@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Tim Cain reveals his involvement in the cancellation of Interplay&#39;s Fallout 3: &#39;I don&#39;t think it would have been a game you would have liked playing&#39;](https://www.pcgamer.com/games/strategy/tim-cain-reveals-his-involvement-in-the-cancellation-of-interplays-fallout-3-i-dont-think-it-would-have-been-a-game-you-would-have-liked-playing)
- - [Tomb Raider&#39;s Lara Croft Will Soon Get Gruesomely Killed Over And Over In A Different Game](https://kotaku.com/lara-croft-tomb-raider-leak-dead-by-daylight-dbd-july-1851557288)
- - [Nosferatu is coming to make vampires scary again](https://www.polygon.com/24184946/nosferatu-trailer-release-date-cast-remake)<!-- GAME:END -->
+ - [Starfield’s 20-Minute, $7 Bounty Hunter Quest: The Kotaku Review](https://kotaku.com/starfield-vulture-quest-worth-it-review-1851557774)
+ - [Shadow of the Erdtree&#39;s unmasked NPC faces prove once again FromSoftware is the king of completely unnecessary details](https://www.pcgamer.com/games/rpg/shadow-of-the-erdtrees-unmasked-npc-faces-prove-once-again-fromsoftware-is-the-king-of-completely-unnecessary-details)
+ - [Shadow Of The Erdtree’s Awesome Dancing Lion Boss Is Actually Just Two Weirdos In A Costume](https://kotaku.com/elden-ring-shadow-of-erdtree-lion-boss-video-two-guys-1851557574)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
