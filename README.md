@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Gemini and Google Assistant are struggling with setting reminders](https://www.androidauthority.com/google-assistant-reminders-bug-3454118/)
- - [Netflix reportedly considers free ad-based plan for select markets](https://www.androidauthority.com/netflix-free-plan-3454100/)
- - [Here’s one more reason to not install shady APKs](https://www.androidauthority.com/rafel-rat-malware-android-3454096/)<!-- TECH:END -->
+ - [How to get started with iPhone Mirroring in iOS 18 and macOS Sequoia](https://appleinsider.com/inside/macos-sequoia/tips/how-to-get-started-with-iphone-mirroring-in-ios-18-and-macos-sequoia?utm_medium=rss)
+ - [Best Outdoor Home Security Cameras for 2024     - CNET](https://www.cnet.com/home/security/best-outdoor-home-security-cameras/#ftag=CAD590a51e)
+ - [Save 25% on an Anker Soundcore Motion X600 at Amazon Right Now     - CNET](https://www.cnet.com/deals/save-25-on-an-anker-soundcore-motion-x600-at-amazon-right-now/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
