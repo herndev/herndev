@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Guys, is this true ?](http://9gag.com/gag/adBpoA2)
- - ⏩ [Can I touch you ?](http://9gag.com/gag/aAyp2KL)
- - 👉 [Say it!](http://9gag.com/gag/aVvXVdP)<!-- MEMES:END -->
+ - ⏩ [Swifties aren&#39;t gonna like this.](http://9gag.com/gag/aD2mMQZ)
+ - 👉 [What is my godamn superpower ?](http://9gag.com/gag/aLnBbn6)<!-- MEMES:END -->
 
 ---
 
