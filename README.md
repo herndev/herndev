@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [U.S. sprinter Noah Lyles pulled out a Yu-Gi-Oh trading card before winning his 100-meter dash at the U.S. track and field qualifiers.](http://9gag.com/gag/ajPnWWg)
- - ⏩ [Say it!](http://9gag.com/gag/aVvXVdP)
- - 👉 [I don&#39;t think that&#39;s the problem](http://9gag.com/gag/aByrO1P)<!-- MEMES:END -->
+ - 💣 [Maybe](http://9gag.com/gag/aPAGXXn)
+ - ⏩ [Goat](http://9gag.com/gag/axyGPw1)
+ - 👉 [The hate within](http://9gag.com/gag/aAypXx9)<!-- MEMES:END -->
 
 ---
 
