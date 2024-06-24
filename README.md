@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [More details on MS Flight Simulator 2024, including full 3D landscapes in 30 biomes](https://www.pcgamer.com/games/sim/more-details-on-ms-flight-simulator-2024-including-full-3d-landscapes-in-30-biomes)
- - [There is an early power up in Elden Ring: Shadow of the Erdtree that basically turns the game into Sekiro, but the description is so vague I didn&#39;t realize how good it was until 40 hours later](https://www.pcgamer.com/games/rpg/there-is-an-early-power-up-in-elden-ring-shadow-of-the-erdtree-that-basically-turns-the-game-into-sekiro-but-the-description-is-so-vague-i-didnt-realize-how-good-it-was-until-40-hours-later)
- - [FIFA will host an actual Rocket League world cup complete with national teams](https://www.pcgamer.com/games/sports/fifa-will-host-an-actual-rocket-league-world-cup-complete-with-national-teams)<!-- GAME:END -->
+ - [House of the Dragon’s twin fight perfects the ‘Which one do I shoot?!’ scene](https://www.polygon.com/24183307/house-dragon-twin-fight-episode-2)
+ - [Elden Ring: Shadow of the Erdtree is peak FromSoftware, with everything players complained about in the base game dialed up to 11 in the funniest way possible](https://www.pcgamer.com/games/rpg/elden-ring-shadow-of-the-erdtree-is-peak-fromsoftware-with-everything-players-complained-about-in-the-base-game-dialed-up-to-11-in-the-funniest-way-possible)
+ - [Five new Steam games you probably missed &lpar;June 24, 2024&rpar;](https://www.pcgamer.com/software/platforms/five-new-steam-games-you-probably-missed-june-24-2024)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
