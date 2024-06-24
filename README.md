@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How to beat Rellana, Twin Moon Knight in Elden Ring: Shadow of the Erdtree](https://www.polygon.com/elden-ring-shadow-erdtree-guide/24182436/rellana-location-weakness-strategy-how-to-beat-sote-dlc)
- - [Grind Quick: Final Fantasy XIV Is Going Offline For Two Days Ahead Of The Next Expansion](https://kotaku.com/final-fantasy-14-dawntrail-two-day-maintenance-1851557920)
- - [The 1994 Street Fighter Movie Is Still Making Money 30 Years Later](https://kotaku.com/street-fighter-live-action-1994-raul-julia-capcom-yen-1851557664)<!-- GAME:END -->
+ - [Add a trio of games to your backlog for just $15 with the Fanatical Diamond Collection](https://www.polygon.com/deals/24183376/fanatical-gaming-fallout-arkane-dishonored-deal-sale)
+ - [How to duplicate Remembrances in Elden Ring: Shadow of the Erdtree](https://www.polygon.com/elden-ring-shadow-erdtree-guide/24184933/duplicate-remembrances-how-to-stone-coffin-altar-locations)
+ - [All Elden Ring DLC Remembrance bosses and rewards](https://www.polygon.com/elden-ring-shadow-erdtree-guide/24183189/dlc-remembrance-all-rewards-how-to-get-sote)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
