@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [War Thunder somehow released official art with the debris cloud of the Challenger Space Shuttle disaster as background](https://www.pcgamer.com/games/sim/war-thunder-somehow-released-official-art-with-the-debris-cloud-of-the-challenger-space-shuttle-disaster-as-background)
- - [Lego Fortnite: How To Get The Cool-Headed Charm](https://kotaku.com/lego-fortnite-cool-headed-charm-crafting-guide-1851556744)
- - [New Stardew Valley ‘Hardcore Mode’ Deletes Your Save If You Dare Use A Guide](https://kotaku.com/stardew-valley-hardcore-mode-no-guides-delete-save-1851556670)<!-- GAME:END -->
+ - [Where To Find Elden Ring: Shadow Of The Erdtree&#39;s Smithscript Greathammer](https://kotaku.com/elden-ring-shadow-erdtree-smithscript-greathammer-guide-1851556925)
+ - [Where To Find Elden Ring: Shadow Of The Erdtree&#39;s Smithscript Axe](https://kotaku.com/smithscript-axe-location-elden-ring-shadow-erdtree-1851556870)
+ - [Destiny 2 Axial Lacuna god roll guide: Best perks, barrels, and magazines](https://www.pcgamer.com/games/fps/destiny-2-axial-lacuna-god-roll-guide-best-perks-barrels-and-magazines)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
