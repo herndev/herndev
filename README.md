@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Starfield’s 20-Minute, $7 Bounty Hunter Quest: The Kotaku Review](https://kotaku.com/starfield-vulture-quest-worth-it-review-1851557774)
- - [Shadow of the Erdtree&#39;s unmasked NPC faces prove once again FromSoftware is the king of completely unnecessary details](https://www.pcgamer.com/games/rpg/shadow-of-the-erdtrees-unmasked-npc-faces-prove-once-again-fromsoftware-is-the-king-of-completely-unnecessary-details)
- - [Shadow Of The Erdtree’s Awesome Dancing Lion Boss Is Actually Just Two Weirdos In A Costume](https://kotaku.com/elden-ring-shadow-of-erdtree-lion-boss-video-two-guys-1851557574)<!-- GAME:END -->
+ - [How to beat Rellana, Twin Moon Knight in Elden Ring: Shadow of the Erdtree](https://www.polygon.com/elden-ring-shadow-erdtree-guide/24182436/rellana-location-weakness-strategy-how-to-beat-sote-dlc)
+ - [Grind Quick: Final Fantasy XIV Is Going Offline For Two Days Ahead Of The Next Expansion](https://kotaku.com/final-fantasy-14-dawntrail-two-day-maintenance-1851557920)
+ - [The 1994 Street Fighter Movie Is Still Making Money 30 Years Later](https://kotaku.com/street-fighter-live-action-1994-raul-julia-capcom-yen-1851557664)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
