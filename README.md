@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google is bringing Gemini to teens with school accounts](https://www.androidauthority.com/google-gemini-teens-with-school-accounts-3453912/)
- - [Turkish grocery delivery startup Getir agrees to a restructuring that will see Mubadala lead a $250M injection and acquire control of Getir&#39;s grocery operations &lpar;Ivan Levingston/Financial Times&rpar;](http://www.techmeme.com/240624/p9#a240624p9)
- - [Microsoft Surface Pro &lpar;11th Edition&rpar; Review: An Overpriced 2-in-1](https://www.wired.com/review/microsoft-surface-pro-11th-edition-2024/)<!-- TECH:END -->
+ - [New Hue lights, tvOS 18, Qi2 chargers, &amp; more on the HomeKit Insider Podcast](https://appleinsider.com/articles/24/06/24/new-hue-lights-tvos-18-qi2-chargers-more-on-the-homekit-insider-podcast?utm_medium=rss)
+ - [OnePlus reveals why some phones have different battery variants](https://www.androidauthority.com/oneplus-phones-smaller-batteries-3453725/)
+ - [Apple&#39;s Core Technology Fee at the center of EU&#39;s first DMA violation investigation](https://appleinsider.com/articles/24/06/24/eu-takes-aim-at-apples-core-technology-fee-in-non-compliance-investigations?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
