@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Nobody bought it except the influencers](http://9gag.com/gag/aQznOxr)
- - ⏩ [Fully accepted and welcomed](http://9gag.com/gag/apRBbR8)
- - 👉 [Can I touch you ?](http://9gag.com/gag/aAyp2KL)<!-- MEMES:END -->
+ - 💣 [Weather forecast today](http://9gag.com/gag/aMVQXmA)
+ - ⏩ [Are Germans the ultimate cucks?](http://9gag.com/gag/a9yPB50)
+ - 👉 [Your superpower: you can see the number showing probability you two sleeping together](http://9gag.com/gag/a87jVvZ)<!-- MEMES:END -->
 
 ---
 
