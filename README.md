@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [More M4: When the Mac will get upgraded with the latest Apple Silicon](https://appleinsider.com/articles/24/06/24/more-m4-when-the-mac-will-get-upgraded-with-the-latest-apple-silicon?utm_medium=rss)
- - [Blackmagic’s free camera app is now available on Android, but there’s a catch](https://www.theverge.com/2024/6/24/24184789/blackmagic-design-free-camera-app-android-samsung-galaxy-google-pixel)
- - [Uber has begun locking NYC drivers out of its app during low demand periods to fight a local rule that requires drivers be paid for idle time between rides &lpar;Evan Gorelick/Bloomberg&rpar;](http://www.techmeme.com/240624/p18#a240624p18)<!-- TECH:END -->
+ - [Gemini and Google Assistant are struggling with setting reminders](https://www.androidauthority.com/google-assistant-reminders-bug-3454118/)
+ - [Netflix reportedly considers free ad-based plan for select markets](https://www.androidauthority.com/netflix-free-plan-3454100/)
+ - [Here’s one more reason to not install shady APKs](https://www.androidauthority.com/rafel-rat-malware-android-3454096/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
