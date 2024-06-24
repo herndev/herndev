@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Say it!](http://9gag.com/gag/aVvXVdP)
+ - 💣 [Henry Cavill brothers! There&#39;s more of him? Oh...](http://9gag.com/gag/azxVQAj)
  - ⏩ [Fully accepted and welcomed](http://9gag.com/gag/apRBbR8)
- - 👉 [Title](http://9gag.com/gag/aO8mpZv)<!-- MEMES:END -->
+ - 👉 [Can I touch you ?](http://9gag.com/gag/aAyp2KL)<!-- MEMES:END -->
 
 ---
 
