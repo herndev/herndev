@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Netflix’s Trigger Warning, The Beast, and every movie new to streaming this week](https://www.polygon.com/2024/6/21/24178820/new-movies-the-beast-trigger-warning-netflix-mars-express)
- - [Lowering Elden Ring&#39;s difficulty would attract more players but would also &#39;break the game itself,&#39; says director Hidetaka Miyazaki](https://www.pcgamer.com/games/action/lowering-elden-rings-difficulty-would-attract-more-players-but-would-also-break-the-game-itself-says-director-hidetaka-miyazaki)
- - [An Underrated Mashup Of Zelda 2 And Mega Man Is Finally Getting The Multiplatform Love It Deserves](https://kotaku.com/panzer-paladin-ps5-trophies-zelda-2-mega-man-retro-8bit-1851554364)<!-- GAME:END -->
+ - [More details on MS Flight Simulator 2024, including full 3D landscapes in 30 biomes](https://www.pcgamer.com/games/sim/more-details-on-ms-flight-simulator-2024-including-full-3d-landscapes-in-30-biomes)
+ - [There is an early power up in Elden Ring: Shadow of the Erdtree that basically turns the game into Sekiro, but the description is so vague I didn&#39;t realize how good it was until 40 hours later](https://www.pcgamer.com/games/rpg/there-is-an-early-power-up-in-elden-ring-shadow-of-the-erdtree-that-basically-turns-the-game-into-sekiro-but-the-description-is-so-vague-i-didnt-realize-how-good-it-was-until-40-hours-later)
+ - [FIFA will host an actual Rocket League world cup complete with national teams](https://www.pcgamer.com/games/sports/fifa-will-host-an-actual-rocket-league-world-cup-complete-with-national-teams)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
