@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Weather forecast today](http://9gag.com/gag/aMVQXmA)
- - ⏩ [Are Germans the ultimate cucks?](http://9gag.com/gag/a9yPB50)
- - 👉 [Your superpower: you can see the number showing probability you two sleeping together](http://9gag.com/gag/a87jVvZ)<!-- MEMES:END -->
+ - 💣 [Title](http://9gag.com/gag/aO8mpZv)
+ - ⏩ [Cristiano](http://9gag.com/gag/aYQwqvv)
+ - 👉 [Canopy comes off airplane right after takeoff](http://9gag.com/gag/ae9pRrm)<!-- MEMES:END -->
 
 ---
 
