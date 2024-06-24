@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [U.S. sprinter Noah Lyles pulled out a Yu-Gi-Oh trading card before winning his 100-meter dash at the U.S. track and field qualifiers.](http://9gag.com/gag/ajPnWWg)
- - ⏩ [Cristiano](http://9gag.com/gag/aYQwqvv)
- - 👉 [When you didn&#39;t know you need something.](http://9gag.com/gag/a2vqy8e)<!-- MEMES:END -->
+ - 💣 [My opinion, this is the last film from star wars world.](http://9gag.com/gag/amo8Vwj)
+ - ⏩ [Best hangover scene ever](http://9gag.com/gag/an7Br1z)
+ - 👉 [Maybe](http://9gag.com/gag/aPAGXXn)<!-- MEMES:END -->
 
 ---
 
