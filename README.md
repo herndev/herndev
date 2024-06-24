@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [A keeper.](http://9gag.com/gag/a5QKQrg)
- - ⏩ [This is fully congruent with pride tbh...](http://9gag.com/gag/a4PLNRp)
- - 👉 [Got a job as a cashier, despite NOT BEING ABLE TO COUNT.](http://9gag.com/gag/an7B7nE)<!-- MEMES:END -->
+ - 💣 [U.S. sprinter Noah Lyles pulled out a Yu-Gi-Oh trading card before winning his 100-meter dash at the U.S. track and field qualifiers.](http://9gag.com/gag/ajPnWWg)
+ - ⏩ [Cristiano](http://9gag.com/gag/aYQwqvv)
+ - 👉 [When you didn&#39;t know you need something.](http://9gag.com/gag/a2vqy8e)<!-- MEMES:END -->
 
 ---
 
