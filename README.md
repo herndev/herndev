@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Post-Pandemic Recovery Isn’t Guaranteed](https://www.wired.com/story/wired-health-disaster-planning-lucy-easthope-pandemic/)
- - [The YouTube app could finally get a sleep timer &lpar;APK teardown&rpar;](https://www.androidauthority.com/youtube-app-sleep-timer-teardown-3453749/)
- - [Google Pixel 8a problems and how to fix them](https://www.androidauthority.com/google-pixel-8a-problems-fixes-3453789/)<!-- TECH:END -->
+ - [In preliminary findings, EU says Apple&#39;s anti-steering rules breached DMA; EU is also investigating whether Apple&#39;s developer fees comply with EU rules &lpar;Javier Espinoza/Financial Times&rpar;](http://www.techmeme.com/240624/p4#a240624p4)
+ - [Revolutionary Alzheimer’s Treatments Can’t Help Patients Who Go Undiagnosed](https://www.wired.com/story/wired-health-hilary-evans-dementia-alzheimers/)
+ - [Post-Pandemic Recovery Isn’t Guaranteed](https://www.wired.com/story/wired-health-disaster-planning-lucy-easthope-pandemic/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
