@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [It’s not just the US: Galaxy Z Flip 6 will reportedly see a price increase in Europe as well](https://www.androidauthority.com/galaxy-z-flip-6-price-increase-3454011/)
- - [One UI 7 could give you another way to lock apps, thanks to Apple](https://www.androidauthority.com/samsung-app-lock-feature-3454045/)
- - [More M4: When the Mac will get upgraded with the latest Apple Silicon](https://appleinsider.com/articles/24/06/24/more-m4-when-the-mac-will-get-upgraded-with-the-latest-apple-silicon?utm_medium=rss)<!-- TECH:END -->
+ - [Meta has seemingly stopped trying as hard to moderate its services, overrun with AI spam and scams; X gutting safety staff may have lowered the industry&#39;s bar &lpar;Jason Koebler/404 Media&rpar;](http://www.techmeme.com/240624/p16#a240624p16)
+ - [More M4: When the Mac will get upgraded with the latest Apple Silicon](https://appleinsider.com/articles/24/06/24/more-m4-when-the-mac-will-get-upgraded-with-the-latest-apple-silicon?utm_medium=rss)
+ - [Ray-Ban Meta Smart Glasses’ new update triples recording time limit](https://www.androidauthority.com/ray-ban-smart-glasses-triples-recording-time-3454060/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
