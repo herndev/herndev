@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Major record labels sue AI company behind ‘BBL Drizzy’](https://www.theverge.com/2024/6/24/24184710/riaa-ai-lawsuit-suno-udio-copyright-umg-sony-warner)
- - [Apple is holding back no punches with its AI partnerships for iOS 18](https://www.androidauthority.com/ios-18-meta-ai-perplexity-anthropic-3454025/)
- - [Diplomats and others fear a rift between SoftBank and Naver over the ownership of messaging app Line could put stress on ties between Japan and South Korea &lpar;River Akira Davis/New York Times&rpar;](http://www.techmeme.com/240624/p13#a240624p13)<!-- TECH:END -->
+ - [It’s not just the US: Galaxy Z Flip 6 will reportedly see a price increase in Europe as well](https://www.androidauthority.com/galaxy-z-flip-6-price-increase-3454011/)
+ - [One UI 7 could give you another way to lock apps, thanks to Apple](https://www.androidauthority.com/samsung-app-lock-feature-3454045/)
+ - [More M4: When the Mac will get upgraded with the latest Apple Silicon](https://appleinsider.com/articles/24/06/24/more-m4-when-the-mac-will-get-upgraded-with-the-latest-apple-silicon?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
