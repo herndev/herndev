@@ -46,7 +46,7 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This is the best joke in the entire movie...](http://9gag.com/gag/a7obnge)
+ - 💣 [Nobody bought it except the influencers](http://9gag.com/gag/aQznOxr)
  - ⏩ [Say it!](http://9gag.com/gag/aVvXVdP)
  - 👉 [Canopy comes off airplane right after takeoff](http://9gag.com/gag/ae9pRrm)<!-- MEMES:END -->
 
