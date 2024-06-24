@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Muntjacs are a genus of deer native to South and Southeast Asia.](http://9gag.com/gag/aGyROd0)
- - ⏩ [Free charge](http://9gag.com/gag/axyGm61)
- - 👉 [I don&#39;t think that&#39;s the problem](http://9gag.com/gag/aByrO1P)<!-- MEMES:END -->
+ - 💣 [This is the best joke in the entire movie...](http://9gag.com/gag/a7obnge)
+ - ⏩ [Say it!](http://9gag.com/gag/aVvXVdP)
+ - 👉 [Canopy comes off airplane right after takeoff](http://9gag.com/gag/ae9pRrm)<!-- MEMES:END -->
 
 ---
 
