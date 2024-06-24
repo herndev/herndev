@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple is the first big tech company to be charged under the DMA rules and could be fined up to 10% of its annual global revenue, or $38B based on 2023 numbers &lpar;Thomas Ricker/The Verge&rpar;](http://www.techmeme.com/240624/p7#a240624p7)
- - [Unwelcome at the Debate, RFK Jr.&#39;s Star Shines on TikTok Live](https://www.wired.com/story/tiktok-livestream-town-hall-rfk-jr/)
- - [Sources: Shein confidentially filed with UK&#39;s markets regulator in early June for a potential London IPO; it was valued at $66B in a 2023 fundraising round &lpar;Reuters&rpar;](http://www.techmeme.com/240624/p6#a240624p6)<!-- TECH:END -->
+ - [Google is bringing Gemini to teens with school accounts](https://www.androidauthority.com/google-gemini-teens-with-school-accounts-3453912/)
+ - [Turkish grocery delivery startup Getir agrees to a restructuring that will see Mubadala lead a $250M injection and acquire control of Getir&#39;s grocery operations &lpar;Ivan Levingston/Financial Times&rpar;](http://www.techmeme.com/240624/p9#a240624p9)
+ - [Microsoft Surface Pro &lpar;11th Edition&rpar; Review: An Overpriced 2-in-1](https://www.wired.com/review/microsoft-surface-pro-11th-edition-2024/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
