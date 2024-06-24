@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [New Hue lights, tvOS 18, Qi2 chargers, &amp; more on the HomeKit Insider Podcast](https://appleinsider.com/articles/24/06/24/new-hue-lights-tvos-18-qi2-chargers-more-on-the-homekit-insider-podcast?utm_medium=rss)
- - [OnePlus reveals why some phones have different battery variants](https://www.androidauthority.com/oneplus-phones-smaller-batteries-3453725/)
- - [Apple&#39;s Core Technology Fee at the center of EU&#39;s first DMA violation investigation](https://appleinsider.com/articles/24/06/24/eu-takes-aim-at-apples-core-technology-fee-in-non-compliance-investigations?utm_medium=rss)<!-- TECH:END -->
+ - [Major record labels sue AI company behind ‘BBL Drizzy’](https://www.theverge.com/2024/6/24/24184710/riaa-ai-lawsuit-suno-udio-copyright-umg-sony-warner)
+ - [Apple is holding back no punches with its AI partnerships for iOS 18](https://www.androidauthority.com/ios-18-meta-ai-perplexity-anthropic-3454025/)
+ - [Diplomats and others fear a rift between SoftBank and Naver over the ownership of messaging app Line could put stress on ties between Japan and South Korea &lpar;River Akira Davis/New York Times&rpar;](http://www.techmeme.com/240624/p13#a240624p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
