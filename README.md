@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Henry Cavill brothers! There&#39;s more of him? Oh...](http://9gag.com/gag/azxVQAj)
- - ⏩ [Fully accepted and welcomed](http://9gag.com/gag/apRBbR8)
- - 👉 [Can I touch you ?](http://9gag.com/gag/aAyp2KL)<!-- MEMES:END -->
+ - 💣 [Da best buddy](http://9gag.com/gag/aNDK3g3)
+ - ⏩ [Canopy comes off airplane right after takeoff](http://9gag.com/gag/ae9pRrm)
+ - 👉 [This is the best joke in the entire movie...](http://9gag.com/gag/a7obnge)<!-- MEMES:END -->
 
 ---
 
