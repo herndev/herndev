@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Mmmm I wonder why](http://9gag.com/gag/apRBYe5)
- - ⏩ [I don&#39;t think that&#39;s the problem](http://9gag.com/gag/aByrO1P)
- - 👉 [The hate within](http://9gag.com/gag/aAypXx9)<!-- MEMES:END -->
+ - 💣 [Your superpower: you can see the number showing probability you two sleeping together](http://9gag.com/gag/a87jVvZ)
+ - ⏩ [Best hangover scene ever](http://9gag.com/gag/an7Br1z)
+ - 👉 [Ghibli dreams](http://9gag.com/gag/a87jVA3)<!-- MEMES:END -->
 
 ---
 
