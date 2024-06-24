@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Da best buddy](http://9gag.com/gag/aNDK3g3)
- - ⏩ [Canopy comes off airplane right after takeoff](http://9gag.com/gag/ae9pRrm)
- - 👉 [This is the best joke in the entire movie...](http://9gag.com/gag/a7obnge)<!-- MEMES:END -->
+ - 💣 [Nobody bought it except the influencers](http://9gag.com/gag/aQznOxr)
+ - ⏩ [Fully accepted and welcomed](http://9gag.com/gag/apRBbR8)
+ - 👉 [Can I touch you ?](http://9gag.com/gag/aAyp2KL)<!-- MEMES:END -->
 
 ---
 
