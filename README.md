@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Post-Pandemic Recovery Isn’t Guaranteed](https://www.wired.com/story/wired-health-disaster-planning-lucy-easthope-pandemic/)
  - [The YouTube app could finally get a sleep timer &lpar;APK teardown&rpar;](https://www.androidauthority.com/youtube-app-sleep-timer-teardown-3453749/)
- - [Google Pixel 8a problems and how to fix them](https://www.androidauthority.com/google-pixel-8a-problems-fixes-3453789/)
- - [A look at Apple Intelligence, an umbrella for dozens of models running on-device or in carbon neutral data centers, and why Vision Pro is not getting it yet &lpar;John Gruber/Daring Fireball&rpar;](http://www.techmeme.com/240624/p3#a240624p3)<!-- TECH:END -->
+ - [Google Pixel 8a problems and how to fix them](https://www.androidauthority.com/google-pixel-8a-problems-fixes-3453789/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
