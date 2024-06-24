@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [House of the Dragon crossed a line, and episode 2 pushes it further](https://www.polygon.com/24183267/house-dragon-episode-season-2-review)
- - [As Elden Ring: Shadow of the Erdtree continues to pound players into the dirt, Bandai Namco calls them out in the most devastatingly polite way possible](https://www.pcgamer.com/games/rpg/as-elden-ring-shadow-of-the-erdtree-continues-to-pound-players-into-the-dirt-bandai-namco-calls-them-out-in-the-most-devastatingly-polite-way-possible)
- - [MSI’s slashing its laptop prices through June, so if you’re thinking of upgrading now’s the time](https://www.pcgamer.com/hardware/gaming-laptops/msis-slashing-its-laptop-prices-through-june-so-if-youre-thinking-of-upgrading-nows-the-time)<!-- GAME:END -->
+ - [You might need to unlock a new difficulty level to get the most from Diablo 4’s season 5](https://www.polygon.com/24184636/diablo-4-season-5-ptr-quest-line-infernal-hordes)
+ - [The Armed Squirrel’s Weapon Guide: An Arsenal Overview of Squirrel With a Gun](https://news.xbox.com/en-us/2024/06/24/squirrel-with-a-gun/)
+ - [The first technical deep dive of the Zen 5 architecture is here, with preliminary benchmarks supporting AMD&#39;s IPC claims](https://www.pcgamer.com/hardware/processors/the-first-technical-deep-dive-of-the-zen-5-architecture-is-here-with-preliminary-benchmarks-supporting-amds-ipc-claims)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
