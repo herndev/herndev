@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Where To Find Elden Ring: Shadow Of The Erdtree&#39;s Smithscript Greathammer](https://kotaku.com/elden-ring-shadow-erdtree-smithscript-greathammer-guide-1851556925)
- - [Where To Find Elden Ring: Shadow Of The Erdtree&#39;s Smithscript Axe](https://kotaku.com/smithscript-axe-location-elden-ring-shadow-erdtree-1851556870)
- - [Destiny 2 Axial Lacuna god roll guide: Best perks, barrels, and magazines](https://www.pcgamer.com/games/fps/destiny-2-axial-lacuna-god-roll-guide-best-perks-barrels-and-magazines)<!-- GAME:END -->
+ - [Call of Duty – Season 4 Reloaded Details for Modern Warfare III, Warzone, and Warzone: Mobile](https://www.callofduty.com/blog/2024/06/call-of-duty-modern-warfare-iii-warzone-wzm-season-4-reloaded-maps-modes-zombies-announcement#new_tab)
+ - [All DLC Crystal Tear locations in Elden Ring: Shadow of the Erdtree](https://www.polygon.com/elden-ring-shadow-erdtree-guide/24183445/crystal-tear-locations-all-where-to-find-dlc-sote)
+ - [Get a sneak peek at one of the year’s most exciting anime in theaters this fall](https://www.polygon.com/anime/2024/6/24/24184904/dandadan-us-theatrical-premiere-announcement-trailer)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
