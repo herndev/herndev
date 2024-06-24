@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [House of the Dragon crossed a line, and episode 2 pushes it further](https://www.polygon.com/24183267/house-dragon-episode-season-2-review)
  - [As Elden Ring: Shadow of the Erdtree continues to pound players into the dirt, Bandai Namco calls them out in the most devastatingly polite way possible](https://www.pcgamer.com/games/rpg/as-elden-ring-shadow-of-the-erdtree-continues-to-pound-players-into-the-dirt-bandai-namco-calls-them-out-in-the-most-devastatingly-polite-way-possible)
- - [MSI’s slashing its laptop prices through June, so if you’re thinking of upgrading now’s the time](https://www.pcgamer.com/hardware/gaming-laptops/msis-slashing-its-laptop-prices-through-june-so-if-youre-thinking-of-upgrading-nows-the-time)
- - [Why bother using spinning fans to cool your PC when you can just spin your whole rig?](https://www.pcgamer.com/hardware/cooling/why-bother-using-spinning-fans-to-cool-your-pc-when-you-can-just-spin-the-whole-pc)<!-- GAME:END -->
+ - [MSI’s slashing its laptop prices through June, so if you’re thinking of upgrading now’s the time](https://www.pcgamer.com/hardware/gaming-laptops/msis-slashing-its-laptop-prices-through-june-so-if-youre-thinking-of-upgrading-nows-the-time)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
