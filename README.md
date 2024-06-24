@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [AT&amp;T is still on the hook for offering landline service in California](https://www.theverge.com/2024/6/21/24183435/att-provide-landline-service-california-colr)
- - [The California Public Utilities Commission rejects AT&amp;T&#39;s request to end its landline phone obligations and urges AT&amp;T to upgrade copper facilities to fiber &lpar;Jon Brodkin/Ars Technica&rpar;](http://www.techmeme.com/240621/p27#a240621p27)
- - [Redbox missed a multimillion-dollar payment it couldn’t afford to miss](https://www.theverge.com/2024/6/21/24183454/redbox-universal-missed-payment-17-million)<!-- TECH:END -->
+ - [Food delivery apps are contending with plunging orders and frustrated drivers, after raising fees in NYC and Seattle due to wage-increase laws for gig workers &lpar;Preetika Rana/Wall Street Journal&rpar;](http://www.techmeme.com/240623/p8#a240623p8)
+ - [Clean That Filthy Apple Watch With This Five-Minute Routine     - CNET](https://www.cnet.com/tech/clean-that-filthy-apple-watch-with-this-five-minute-routine/#ftag=CAD590a51e)
+ - [How to Find Good, Cheap Wine According to a Sommelier     - CNET](https://www.cnet.com/how-to/how-to-find-great-wine-for-cheap/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
