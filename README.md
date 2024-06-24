@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Maybe](http://9gag.com/gag/aPAGXXn)
- - ⏩ [Goat](http://9gag.com/gag/axyGPw1)
- - 👉 [The hate within](http://9gag.com/gag/aAypXx9)<!-- MEMES:END -->
+ - 💣 [Open-source supremacy](http://9gag.com/gag/aNDKOy4)
+ - ⏩ [Cranston Female Police officer claims driver was going to run her over... despite she was standing beside his car....](http://9gag.com/gag/abAbWEr)
+ - 👉 [Canopy comes off airplane right after takeoff](http://9gag.com/gag/ae9pRrm)<!-- MEMES:END -->
 
 ---
 
