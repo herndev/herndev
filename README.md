@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Title](http://9gag.com/gag/aO8mpZv)
- - ⏩ [Cristiano](http://9gag.com/gag/aYQwqvv)
- - 👉 [Canopy comes off airplane right after takeoff](http://9gag.com/gag/ae9pRrm)<!-- MEMES:END -->
+ - 💣 [Guys, is this true ?](http://9gag.com/gag/adBpoA2)
+ - ⏩ [Can I touch you ?](http://9gag.com/gag/aAyp2KL)
+ - 👉 [Say it!](http://9gag.com/gag/aVvXVdP)<!-- MEMES:END -->
 
 ---
 
