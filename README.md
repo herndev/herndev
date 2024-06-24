@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [12 viewers on Twitch, what&#39;s up?](http://9gag.com/gag/aE0zOnK)
- - ⏩ [Wait! I thought people hated strong female leads.](http://9gag.com/gag/aByr4eP)
- - 👉 [Singlehandedly](http://9gag.com/gag/agmN201)<!-- MEMES:END -->
+ - 💣 [Say it!](http://9gag.com/gag/aVvXVdP)
+ - ⏩ [Fully accepted and welcomed](http://9gag.com/gag/apRBbR8)
+ - 👉 [Title](http://9gag.com/gag/aO8mpZv)<!-- MEMES:END -->
 
 ---
 
