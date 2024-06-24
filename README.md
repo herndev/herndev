@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [LG brings tandem OLED panels to laptops, claiming three times the brightness and double the lifespan of current self-emissive screens](https://www.pcgamer.com/hardware/gaming-laptops/lg-brings-tandem-oled-panels-to-laptops-claiming-three-times-the-brightness-and-double-the-lifespan-of-current-self-emissive-screens)
- - [You might need to unlock a new difficulty level to get the most from Diablo 4’s season 5](https://www.polygon.com/24184636/diablo-4-season-5-ptr-quest-line-infernal-hordes)
- - [The Armed Squirrel’s Weapon Guide: An Arsenal Overview of Squirrel With a Gun](https://news.xbox.com/en-us/2024/06/24/squirrel-with-a-gun/)<!-- GAME:END -->
+ - [War Thunder somehow released official art with the debris cloud of the Challenger Space Shuttle disaster as background](https://www.pcgamer.com/games/sim/war-thunder-somehow-released-official-art-with-the-debris-cloud-of-the-challenger-space-shuttle-disaster-as-background)
+ - [Lego Fortnite: How To Get The Cool-Headed Charm](https://kotaku.com/lego-fortnite-cool-headed-charm-crafting-guide-1851556744)
+ - [New Stardew Valley ‘Hardcore Mode’ Deletes Your Save If You Dare Use A Guide](https://kotaku.com/stardew-valley-hardcore-mode-no-guides-delete-save-1851556670)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
