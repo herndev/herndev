@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Eternal Truth of Markdown](https://www.wired.com/story/the-eternal-truth-of-markdown/)
- - [EU takes aim at Apple&#39;s Core Technology Fee in non-compliance investigations](https://appleinsider.com/articles/24/06/24/eu-takes-aim-at-apples-core-technology-fee-in-non-compliance-investigations?utm_medium=rss)
- - [iPhones and iPads will soon give you one less reason to use your Mac](https://www.androidauthority.com/ios-ipados-18-reformat-external-drives-3453919/)<!-- TECH:END -->
+ - [Wedbush: Apple will lead consumer AI amidst iPhone 16 super cycle](https://appleinsider.com/articles/24/06/24/wedbush-apple-will-lead-consumer-ai-amidst-iphone-super-cycle?utm_medium=rss)
+ - [Apple&#39;s Core Technology Fee at the core of EU&#39;s first DMA violation investigation](https://appleinsider.com/articles/24/06/24/eu-takes-aim-at-apples-core-technology-fee-in-non-compliance-investigations?utm_medium=rss)
+ - [An interview with Open Source Initiative executive director Stefano Maffulli on what makes an AI open source, creating the Open Source AI Definition, and more &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/240624/p5#a240624p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
