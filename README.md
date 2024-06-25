@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Uber and Aurora announce ‘long-term’ driverless truck deal after successful pilot](https://www.theverge.com/2024/6/25/24184973/uber-freight-aurora-driverless-truck-deal)
- - [iOS 18 reportedly won’t adopt Meta AI, and you can probably guess why](https://www.androidauthority.com/ios-18-wont-adopt-meta-ai-3454324/)
- - [EvolutionaryScale releases AI models called ESM3 to create novel proteins and raised $142M in seed funding led by Nat Friedman, Daniel Gross, and Lux Capital &lpar;Reuters&rpar;](http://www.techmeme.com/240625/p8#a240625p8)<!-- TECH:END -->
+ - [OnePlus could adopt ‘Watch 2R’ branding for its leaked LTE smartwatch](https://www.androidauthority.com/oneplus-watch-2r-name-leak-3454328/)
+ - [Uber Freight will use Aurora&#39;s driverless trucks on routes between Dallas and Houston as part of a new long-term deal, following a three-year commercial pilot &lpar;Andrew J. Hawkins/The Verge&rpar;](http://www.techmeme.com/240625/p10#a240625p10)
+ - [The Best Instant Coffees &lpar;2024&rpar;: Tested and Reviewed](https://www.wired.com/gallery/best-instant-coffee/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
