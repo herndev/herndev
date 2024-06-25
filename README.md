@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Beats Pill review: Premium, but worth the money](https://appleinsider.com/articles/24/06/25/beats-pill-review-premium-but-worth-the-money?utm_medium=rss)
- - [Microsoft Faces EU Charges Over ‘Abusive’ Bundling](https://www.wired.com/story/microsoft-faces-eu-charges-over-abusive-bundling/)
- - [The Boox Palma is an amazing gadget I didn’t even know I wanted](https://www.theverge.com/24184777/boox-palma-e-ink-smartphone-reader)<!-- TECH:END -->
+ - [YouTube now lets users “hype” videos in select geographies](https://www.androidauthority.com/youtube-hype-videos-3454246/)
+ - [Snapchat announces updates to its account blocking functionality and enhanced friending safeguards, making it difficult for strangers to contact its users &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/240625/p16#a240625p16)
+ - [Windows 11 changed the initial setup process to enable automatic backup of folders to OneDrive without asking permission, annoying and confusing many users &lpar;Taras Buria/Neowin&rpar;](http://www.techmeme.com/240625/p15#a240625p15)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
