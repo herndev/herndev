@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Turning off RCS? Google Messages will soon warn you about your group chats &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-messages-rcs-group-chat-exit-apk-teardown-3454259/)
- - [Alibaba creates an English language version of Modelscope, an Amazon Bedrock like service for building AI models launched in 2022, and claims to host 5K+ models &lpar;Simon Sharwood/The Register&rpar;](http://www.techmeme.com/240625/p4#a240625p4)
- - [Amazon Prime Day announced, with some early deals in tow](https://www.androidauthority.com/amazon-prime-day-2024-announced-3453902/)<!-- TECH:END -->
+ - [Oops: Amazon may have revealed key Galaxy Watch 7 features](https://www.androidauthority.com/samsung-galaxy-watch-7-amazon-listing-3454272/)
+ - [New Google AI experiment could let you chat with celebrities, YouTube influencers](https://www.androidauthority.com/google-ai-chat-youtube-celebrities-3454283/)
+ - [Logitech’s affordable new low-profile keyboard also fits Cherry MX-style keycaps](https://www.theverge.com/2024/6/25/24185020/logitech-keyboard-mx-keycaps-gaming)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
