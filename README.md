@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [This Kasa Smart Light Bulb is 56% off: The cheapest way to turn your home smart](https://www.androidauthority.com/kasa-smart-light-bulb-deal-3454197/)
- - [Cozey Ciello XL Couch: Fine—If You’ve Got the Space for It](https://www.wired.com/review/cozey-ciello-xl/)
- - [Best Mattress Deals: Early Fourth of July Sales Bring Big Savings     - CNET](https://www.cnet.com/deals/best-mattress-sales/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Today&#39;s Wordle Hints, Answer and Help for June 25, #1102     - CNET](https://www.cnet.com/tech/services-and-software/todays-wordle-hints-answer-and-help-for-june-25-1102/#ftag=CAD590a51e)
+ - [Gmail’s new AI features can help with managing your inbox](https://www.theverge.com/2024/6/24/24185277/google-gmail-gemini-ai-sidebar)
+ - [Best Internet Providers in Lubbock, Texas     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-lubbock-tx/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
