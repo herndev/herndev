@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google’s new shopping tools will help you find the best summer deals](https://www.androidauthority.com/google-shopping-tools-summer-deals-3454154/)
- - [Today&#39;s NYT Connections Hints, Answers and Help for June 25, #380     - CNET](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-june-25-380/#ftag=CAD590a51e)
- - [Narwal Freo X Ultra review: smart and powerful whole home cleaning](https://appleinsider.com/articles/24/06/25/narwal-freo-x-ultra-review-smart-and-powerful-whole-home-cleaning?utm_medium=rss)<!-- TECH:END -->
+ - [Belgium-based TechWolf, which provides AI-powered internal talent management software, has raised a $42.75M Series B led by Felix Capital at a $150M valuation &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/240625/p1#a240625p1)
+ - [Today&#39;s NYT Strands Hints, Answers and Help for June 25, #114     - CNET](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-june-25-114/#ftag=CAD590a51e)
+ - [Google’s new shopping tools will help you find the best summer deals](https://www.androidauthority.com/google-shopping-tools-summer-deals-3454154/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
