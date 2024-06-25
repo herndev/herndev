@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The UGREEN Nexode RG 65W is the coolest charger, and it’s 31% off right now](https://www.androidauthority.com/ugreen-nexode-rg-65w-charger-deal-3454568/)
- - [Dr Disrespect finally shares why he was banned from Twitch](https://www.theverge.com/2024/6/25/24185821/dr-disrespect-twitch-ban-explanation-inappropriate-messages)
- - [T-Mobile will offer an exclusive Hot Pink colorway for the new Motorola Razr Plus](https://www.androidauthority.com/motorola-razr-plus-hot-pink-3454536/)<!-- TECH:END -->
+ - [You have five hours to save $400 on the Anker SOLIX C1000 Portable Power Station!](https://www.androidauthority.com/400-off-anker-solix-c1000-power-station-3454589/)
+ - [This Matter-enabled smart ceiling light costs under $100](https://www.theverge.com/2024/6/25/24185684/lifx-super-color-ceiling-light-matter-price-specs)
+ - [Dr Disrespect’s Twitch ban, explained](https://www.theverge.com/24185864/dr-disrespect-twitch-ban)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
