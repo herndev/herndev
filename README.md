@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Title](http://9gag.com/gag/aKGBN61)
- - ⏩ [WikiLeaks Founder Julian Assange has just reached a plea deal with the U.S. Justice Department of Justice allowing him to be released from prison.](http://9gag.com/gag/a4PLrGZ)
- - 👉 [Mamma Mia](http://9gag.com/gag/aVvX4Ow)<!-- MEMES:END -->
+ - 💣 [Truly a beautiful human inside and out...we can learn from her](http://9gag.com/gag/a34Le6Q)
+ - ⏩ [Only the most professional people get hired](http://9gag.com/gag/abAbR6r)
+ - 👉 [Zooming](http://9gag.com/gag/ayNnV18)<!-- MEMES:END -->
 
 ---
 
