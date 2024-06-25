@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [OnePlus could adopt ‘Watch 2R’ branding for its leaked LTE smartwatch](https://www.androidauthority.com/oneplus-watch-2r-name-leak-3454328/)
- - [Uber Freight will use Aurora&#39;s driverless trucks on routes between Dallas and Houston as part of a new long-term deal, following a three-year commercial pilot &lpar;Andrew J. Hawkins/The Verge&rpar;](http://www.techmeme.com/240625/p10#a240625p10)
- - [The Best Instant Coffees &lpar;2024&rpar;: Tested and Reviewed](https://www.wired.com/gallery/best-instant-coffee/)<!-- TECH:END -->
+ - [nubia Flip 5G review: Should you buy it?](https://www.androidauthority.com/nubia-flip-5g-review-3441541/)
+ - [Patreon is going to let you gift subscriptions](https://www.theverge.com/2024/6/25/24185454/patreon-gifted-subscriptions-countdown-timer-features)
+ - [The Nintendo Switch isn’t going out quietly](https://www.theverge.com/24185022/nintendo-switch-2024-game-lineup-zelda-echoes-of-wisdom)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
