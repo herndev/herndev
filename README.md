@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Where To Find Elden Ring: Shadow Of The Erdtree&#39;s Dueling Shield](https://kotaku.com/elden-ring-shadow-erdtree-dueling-shield-guide-1851558768)
- - [Guild Wars 2&#39;s new player housing will add a hang-out for your alts, a stable for your mounts, and comes with a massive overhaul to the decorations system](https://www.pcgamer.com/games/mmo/guild-wars-2-janthir-wilds-homestead-exclusive)
- - [A Stardew Valley modder has decided to weed out the weak with a hardcore mode that&#39;ll delete your save if you look at the wiki](https://www.pcgamer.com/games/life-sim/a-stardew-valley-modder-has-decided-to-weed-out-the-weak-with-a-hardcore-mode-thatll-delete-your-save-if-you-look-at-the-wiki)<!-- GAME:END -->
+ - [Where To Find Elden Ring: Shadow Of The Erdtree&#39;s Ash of War: Wing Stance](https://kotaku.com/elden-ring-shadow-erdtree-ash-of-war-wing-stance-guide-1851558922)
+ - [Mattel’s most popular games are now colorblind accessible](https://www.polygon.com/2024/6/25/24184822/mattel-accessibility-games-uno-donation-colorblind-summer-camp)
+ - [Where To Find Elden Ring: Shadow Of The Erdtree&#39;s Dryleaf Arts](https://kotaku.com/elden-ring-shadow-of-the-erdtree-dryleaf-arts-guide-1851558826)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
