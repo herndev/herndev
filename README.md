@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [In preliminary findings, the EU charges Microsoft with antitrust violations over concerns that it gave Teams an &quot;undue advantage&quot; by bundling it with Office &lpar;Javier Espinoza/Financial Times&rpar;](http://www.techmeme.com/240625/p7#a240625p7)
- - [Chinese state media: OpenAI told Chinese developers that they will lose API access from July 9 as they are in a &quot;region that OpenAI does not currently support&quot; &lpar;Eduardo Baptista/Reuters&rpar;](http://www.techmeme.com/240625/p6#a240625p6)
- - [Really Confusing Settings: iOS 18 beta 2 introduces a &lpar;broken&rpar; RCS toggle](https://www.androidauthority.com/ios-18-beta-2-rcs-toggle-3454300/)<!-- TECH:END -->
+ - [Uber and Aurora announce ‘long-term’ driverless truck deal after successful pilot](https://www.theverge.com/2024/6/25/24184973/uber-freight-aurora-driverless-truck-deal)
+ - [iOS 18 reportedly won’t adopt Meta AI, and you can probably guess why](https://www.androidauthority.com/ios-18-wont-adopt-meta-ai-3454324/)
+ - [EvolutionaryScale releases AI models called ESM3 to create novel proteins and raised $142M in seed funding led by Nat Friedman, Daniel Gross, and Lux Capital &lpar;Reuters&rpar;](http://www.techmeme.com/240625/p8#a240625p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
