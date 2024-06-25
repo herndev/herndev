@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [My fellow tech bros...](http://9gag.com/gag/aMVQDwA)
- - ⏩ [Fascinating](http://9gag.com/gag/aPAGrYn)
- - 👉 [Guys Literally Only Want One Thing And It&#39;s F**king Disgusting](http://9gag.com/gag/a2vqGjO)<!-- MEMES:END -->
+ - 💣 [Title](http://9gag.com/gag/aKGBN61)
+ - ⏩ [WikiLeaks Founder Julian Assange has just reached a plea deal with the U.S. Justice Department of Justice allowing him to be released from prison.](http://9gag.com/gag/a4PLrGZ)
+ - 👉 [Mamma Mia](http://9gag.com/gag/aVvX4Ow)<!-- MEMES:END -->
 
 ---
 
