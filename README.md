@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Ministry of Ungentlemanly Warfare is like an origin story for Guy Ritchie’s whole thing](https://www.polygon.com/reviews/24185907/ministry-of-ungentlemanly-warfare-guy-ritchie)
- - [How To Defeat The Furnace Golems In Elden Ring: Shadow Of The Erdtree](https://kotaku.com/furnace-golem-elden-ring-dlc-fire-shadow-of-the-erdtree-1851560301)
- - [New DLC boss locations in Elden Ring Shadow of the Erdtree](https://www.polygon.com/elden-ring-shadow-erdtree-guide/24180254/all-dlc-boss-locations-bosses-in-order)<!-- GAME:END -->
+ - [How to beat Bayle the Dread in Elden Ring: Shadow of the Erdtree](https://www.polygon.com/elden-ring-shadow-erdtree-guide/24186009/bayle-dread-location-weakness-strategy-how-to-beat-sote-dlc)
+ - [Igon questline walkthrough and steps in Elden Ring: Shadow of the Erdtree](https://www.polygon.com/elden-ring-shadow-erdtree-guide/24185694/igon-questline-steps-dlc-sote)
+ - [How To Explain This Whole Dr Disrespect Situation To The Normal People In Your Life](https://kotaku.com/dr-disrespect-normal-people-explainer-non-gamer-twitch-1851560300)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
