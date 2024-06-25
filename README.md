@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Guys, is this true ?](http://9gag.com/gag/adBpoA2)
- - ⏩ [What is my godamn superpower ?](http://9gag.com/gag/aLnBbn6)
- - 👉 [Say it!](http://9gag.com/gag/aVvXVdP)<!-- MEMES:END -->
+ - 💣 [That means somethings are truly bizarre. No joke.](http://9gag.com/gag/aRBVRG2)
+ - ⏩ [You can tell the Second this boy became a man](http://9gag.com/gag/aXPXeGP)
+ - 👉 [I&#39;m old school I like my women without the peenus](http://9gag.com/gag/aKGBpXb)<!-- MEMES:END -->
 
 ---
 
