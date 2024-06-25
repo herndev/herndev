@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I don&#39;t think that&#39;s the problem](http://9gag.com/gag/aByrO1P)
- - ⏩ [Your superpower: you can see the number showing probability you two sleeping together](http://9gag.com/gag/a87jVvZ)
- - 👉 [Swifties aren&#39;t gonna like this.](http://9gag.com/gag/aD2mMQZ)<!-- MEMES:END -->
+ - 💣 [Muntjacs are a genus of deer native to South and Southeast Asia.](http://9gag.com/gag/aGyROd0)
+ - ⏩ [Weather forecast today](http://9gag.com/gag/aMVQXmA)
+ - 👉 [Ultra reaction](http://9gag.com/gag/aByrvdN)<!-- MEMES:END -->
 
 ---
 
