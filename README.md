@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [You have five hours to save $400 on the Anker SOLIX C1000 Portable Power Station!](https://www.androidauthority.com/400-off-anker-solix-c1000-power-station-3454589/)
- - [This Matter-enabled smart ceiling light costs under $100](https://www.theverge.com/2024/6/25/24185684/lifx-super-color-ceiling-light-matter-price-specs)
- - [Dr Disrespect’s Twitch ban, explained](https://www.theverge.com/24185864/dr-disrespect-twitch-ban)<!-- TECH:END -->
+ - [Google is dropping continuous scroll in Search, saying it didn&#39;t lead to significantly higher user satisfaction and pagination enables serving results faster &lpar;Barry Schwartz/Search Engine Land&rpar;](http://www.techmeme.com/240625/p27#a240625p27)
+ - [Cruise names Marc Whitten, a former Amazon and Microsoft executive, as its new CEO &lpar;Michael Wayland/CNBC&rpar;](http://www.techmeme.com/240625/p26#a240625p26)
+ - [Motorola takes on AirTag with its own UWB compatible alternative for Android](https://www.androidauthority.com/moto-tag-airtag-alternative-3454558/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
