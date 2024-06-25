@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Where To Find Elden Ring: Shadow Of The Erdtree&#39;s Ash of War: Wing Stance](https://kotaku.com/elden-ring-shadow-erdtree-ash-of-war-wing-stance-guide-1851558922)
- - [Mattel’s most popular games are now colorblind accessible](https://www.polygon.com/2024/6/25/24184822/mattel-accessibility-games-uno-donation-colorblind-summer-camp)
- - [Where To Find Elden Ring: Shadow Of The Erdtree&#39;s Dryleaf Arts](https://kotaku.com/elden-ring-shadow-of-the-erdtree-dryleaf-arts-guide-1851558826)<!-- GAME:END -->
+ - [Most Elden Ring: Shadow of the Erdtree mods just make the DLC easier, including a &#39;Journalist mode&#39; which lets you take 50% less damage](https://www.pcgamer.com/games/rpg/most-elden-ring-shadow-of-the-erdtree-mods-just-make-the-dlc-easier-including-a-journalist-mode-which-lets-you-take-50-less-damage)
+ - [Where To Find Elden Ring: Shadow Of The Erdtree&#39;s Fire Knight Greatsword](https://kotaku.com/elden-ring-shadow-erdtree-fire-knight-greatsword-1851558987)
+ - [New DLC armor locations in Elden Ring Shadow of the Erdtree](https://www.polygon.com/elden-ring-shadow-erdtree-guide/24180255/all-new-dlc-armor-set-locations)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
