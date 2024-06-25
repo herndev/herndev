@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Pure instinct\u2019s\u2026](http://9gag.com/gag/aLnBbeg)
- - ⏩ [What is my godamn superpower ?](http://9gag.com/gag/aLnBbn6)
- - 👉 [Tired of BS propaganda, Hawk tuak, and other sh*t. Reposting old memes !](http://9gag.com/gag/aLnBr1A)<!-- MEMES:END -->
+ - 💣 [Your superpower: you can see the number showing probability you two sleeping together](http://9gag.com/gag/a87jVvZ)
+ - ⏩ [Ultra reaction](http://9gag.com/gag/aByrvdN)
+ - 👉 [Surgical lights cast no visible shadow](http://9gag.com/gag/amo8d32)<!-- MEMES:END -->
 
 ---
 
