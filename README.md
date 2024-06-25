@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Today&#39;s Wordle Hints, Answer and Help for June 25, #1102     - CNET](https://www.cnet.com/tech/services-and-software/todays-wordle-hints-answer-and-help-for-june-25-1102/#ftag=CAD590a51e)
- - [Gmail’s new AI features can help with managing your inbox](https://www.theverge.com/2024/6/24/24185277/google-gmail-gemini-ai-sidebar)
- - [Best Internet Providers in Lubbock, Texas     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-lubbock-tx/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Seven things I learned about the Sony car while playing Gran Turismo inside one](https://www.theverge.com/2024/6/24/24185255/sony-afeela-gran-turismo-privacy-wheel)
+ - [Sources: US is probing China Mobile, China Telecom, and China Unicom over concerns they are providing Americans&#39; data to Beijing through their US cloud services &lpar;Alexandra Alper/Reuters&rpar;](http://www.techmeme.com/240624/p26#a240624p26)
+ - [Julian Assange is ‘free,’ will plead guilty to leaking national security secrets](https://www.theverge.com/2024/6/24/24185279/wikileaks-julian-assange-plea-agreement)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
