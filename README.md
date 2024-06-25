@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Final Fantasy 14: Dawntrail&#39;s preliminary patch notes are here—showing fixes to those annoying stealth quests and the ability to banish NPC-crowding players to the shadow realm](https://www.pcgamer.com/games/final-fantasy/final-fantasy-14-dawntrail-s-preliminary-patch-notes-are-here-showing-fixes-to-those-annoying-stealth-quests-and-the-ability-to-banish-npc-crowding-players-to-the-shadow-realm)
  - [If you&#39;d like to play Elden Ring as a powerful bare-fisted Dryleaf monk &lpar;but don&#39;t want to wait 100 levels&rpar;, this mod lets you get Shadow of the Erdtree&#39;s gear right away](https://www.pcgamer.com/games/rpg/if-you-d-like-to-play-elden-ring-as-a-powerful-bare-fisted-dryleaf-monk-but-don-t-want-to-wait-100-levels-this-mod-lets-you-get-shadow-of-the-erdtree-s-gear-right-away)
- - [Can Morelull be shiny in Pokémon Go?](https://www.polygon.com/pokemon-go-guide/24184830/can-morelull-be-shiny-shiinotic)
- - [Today&#39;s Wordle answer for Tuesday, June 25](https://www.pcgamer.com/games/puzzle/wordle-answer-today-june-25-2024)<!-- GAME:END -->
+ - [Can Morelull be shiny in Pokémon Go?](https://www.polygon.com/pokemon-go-guide/24184830/can-morelull-be-shiny-shiinotic)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
