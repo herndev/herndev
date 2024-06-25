@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Fortnite Chapter 5 Season 3: How To Complete The Week 4 Quests](https://kotaku.com/fortnite-chapter-5-season-3-week-4-quests-1851559265)
- - [Late Microsoft co-founder&#39;s treasure hoard of artefacts to be auctioned, includes a letter Einstein sent to Roosevelt that ultimately led to the Manhattan Project](https://www.pcgamer.com/gaming-industry/late-microsoft-co-founders-treasure-hoard-of-artefacts-to-be-auctioned-includes-a-letter-einstein-sent-to-roosevelt-that-ultimately-led-to-the-manhattan-project)
- - [Dr Disrespect Breaks Silence On Allegations About &#39;Sexting&#39; Minor: &#39;No Pictures Were Shared&#39;](https://kotaku.com/dr-disrespect-twitch-ban-sexting-minor-response-1851559888)<!-- GAME:END -->
+ - [Fortnite had to do away with all its crossovers to find its fun](https://www.polygon.com/gaming/24185789/fortnite-reload-new-game-mode)
+ - [Selaco’s best Easter egg flouts the rules of hospital safety](https://www.polygon.com/24185567/selaco-mri-machine-easter-egg)
+ - [Dr Disrespect finally confirms the reason for his lifetime Twitch ban, admits to messages with a minor that were &#39;in the direction of being inappropriate&#39;](https://www.pcgamer.com/gaming-industry/dr-disrespect-finally-confirms-the-reason-for-his-lifetime-twitch-ban-admits-to-messages-with-a-minor-that-were-in-the-direction-of-being-inappropriate)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
