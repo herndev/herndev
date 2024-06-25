@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How To Defeat Rellana, Twin Moon Knight in Elden Ring: Shadow of the Erdtree](https://kotaku.com/elden-ring-dlc-rellana-twin-moon-knight-weakness-build-1851559252)
- - [404 deaths and 32 hours deep into his DLC marathon, Elden Ring streamer Kai Cenat tells difficulty critics to &#39;put your big boy pants on, go out there, and go fight&#39;](https://www.pcgamer.com/games/rpg/404-deaths-and-32-hours-deep-into-his-dlc-marathon-elden-ring-streamer-kai-cenat-tells-difficulty-critics-to-put-your-big-boy-pants-on-go-out-there-and-go-fight)
- - [Fallout: New Vegas Villain Tease For Season 2 Raises All Sorts Of Questions](https://kotaku.com/fallout-season-2-amazon-tv-mr-house-new-vegas-1851559169)<!-- GAME:END -->
+ - [Final Fantasy VII Rebirth’s Best Weapons For Barret](https://kotaku.com/final-fantasy-7-ff7-rebirth-barret-best-guns-1851559571)
+ - [Dead by Daylight&#39;s new survivor is &#39;a legendary character that epitomizes the spirit of survival instinct,&#39; and her name is Lara Croft](https://www.pcgamer.com/games/horror/dead-by-daylights-new-survivor-is-a-legendary-character-that-epitomizes-the-spirit-of-survival-instinct-and-her-name-is-lara-croft)
+ - [The Dragon Age: Inquisition Companions, Ranked From Worst To Best](https://kotaku.com/dragon-age-inquisition-best-characters-dorian-solas-1851559486)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
