@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [That means somethings are truly bizarre. No joke.](http://9gag.com/gag/aRBVRG2)
- - ⏩ [You can tell the Second this boy became a man](http://9gag.com/gag/aXPXeGP)
+ - 💣 [You can tell the Second this boy became a man](http://9gag.com/gag/aXPXeGP)
+ - ⏩ [Party among friends](http://9gag.com/gag/aZZNdP9)
  - 👉 [I&#39;m old school I like my women without the peenus](http://9gag.com/gag/aKGBpXb)<!-- MEMES:END -->
 
 ---
