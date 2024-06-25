@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Ultra reaction](http://9gag.com/gag/aByrvdN)
- - ⏩ [Zooming](http://9gag.com/gag/ayNnV18)
- - 👉 [Is that a bazooka are you holding?](http://9gag.com/gag/an7BWQn)<!-- MEMES:END -->
+ - 💣 [What is my godamn superpower ?](http://9gag.com/gag/aLnBbn6)
+ - ⏩ [Surgical lights cast no visible shadow](http://9gag.com/gag/amo8d32)
+ - 👉 [The highest court in Israel decided these guys have to go into military service from now on.](http://9gag.com/gag/aW4ONXd)<!-- MEMES:END -->
 
 ---
 
