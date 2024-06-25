@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Most Elden Ring: Shadow of the Erdtree mods just make the DLC easier, including a &#39;Journalist mode&#39; which lets you take 50% less damage](https://www.pcgamer.com/games/rpg/most-elden-ring-shadow-of-the-erdtree-mods-just-make-the-dlc-easier-including-a-journalist-mode-which-lets-you-take-50-less-damage)
- - [Where To Find Elden Ring: Shadow Of The Erdtree&#39;s Fire Knight Greatsword](https://kotaku.com/elden-ring-shadow-erdtree-fire-knight-greatsword-1851558987)
- - [New DLC armor locations in Elden Ring Shadow of the Erdtree](https://www.polygon.com/elden-ring-shadow-erdtree-guide/24180255/all-new-dlc-armor-set-locations)<!-- GAME:END -->
+ - [How To Defeat Rellana, Twin Moon Knight in Elden Ring: Shadow of the Erdtree](https://kotaku.com/elden-ring-dlc-rellana-twin-moon-knight-weakness-build-1851559252)
+ - [404 deaths and 32 hours deep into his DLC marathon, Elden Ring streamer Kai Cenat tells difficulty critics to &#39;put your big boy pants on, go out there, and go fight&#39;](https://www.pcgamer.com/games/rpg/404-deaths-and-32-hours-deep-into-his-dlc-marathon-elden-ring-streamer-kai-cenat-tells-difficulty-critics-to-put-your-big-boy-pants-on-go-out-there-and-go-fight)
+ - [Fallout: New Vegas Villain Tease For Season 2 Raises All Sorts Of Questions](https://kotaku.com/fallout-season-2-amazon-tv-mr-house-new-vegas-1851559169)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
