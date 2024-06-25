@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon plans to hold Prime Day 2024 on July 16 and July 17 in 24 countries including the US, the UK, and Japan; India will receive a separate event later &lpar;Quentyn Kennemer/The Verge&rpar;](http://www.techmeme.com/240625/p2#a240625p2)
- - [Amazon Prime Day 2024 will take place on July 16th and 17th](https://www.theverge.com/2024/6/25/24145258/amazon-prime-day-dates-july-2024-sale)
- - [Belgium-based TechWolf, which provides AI-powered internal talent management software, has raised a $42.75M Series B led by Felix Capital at a $150M valuation &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/240625/p1#a240625p1)<!-- TECH:END -->
+ - [Turning off RCS? Google Messages will soon warn you about your group chats &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-messages-rcs-group-chat-exit-apk-teardown-3454259/)
+ - [Alibaba creates an English language version of Modelscope, an Amazon Bedrock like service for building AI models launched in 2022, and claims to host 5K+ models &lpar;Simon Sharwood/The Register&rpar;](http://www.techmeme.com/240625/p4#a240625p4)
+ - [Amazon Prime Day announced, with some early deals in tow](https://www.androidauthority.com/amazon-prime-day-2024-announced-3453902/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
