@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Belgium-based TechWolf, which provides AI-powered internal talent management software, has raised a $42.75M Series B led by Felix Capital at a $150M valuation &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/240625/p1#a240625p1)
- - [Today&#39;s NYT Strands Hints, Answers and Help for June 25, #114     - CNET](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-june-25-114/#ftag=CAD590a51e)
- - [Google’s new shopping tools will help you find the best summer deals](https://www.androidauthority.com/google-shopping-tools-summer-deals-3454154/)<!-- TECH:END -->
+ - [Amazon plans to hold Prime Day 2024 on July 16 and July 17 in 24 countries including the US, the UK, and Japan; India will receive a separate event later &lpar;Quentyn Kennemer/The Verge&rpar;](http://www.techmeme.com/240625/p2#a240625p2)
+ - [Amazon Prime Day 2024 will take place on July 16th and 17th](https://www.theverge.com/2024/6/25/24145258/amazon-prime-day-dates-july-2024-sale)
+ - [Belgium-based TechWolf, which provides AI-powered internal talent management software, has raised a $42.75M Series B led by Felix Capital at a $150M valuation &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/240625/p1#a240625p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
