@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Fortnite had to do away with all its crossovers to find its fun](https://www.polygon.com/gaming/24185789/fortnite-reload-new-game-mode)
- - [Selaco’s best Easter egg flouts the rules of hospital safety](https://www.polygon.com/24185567/selaco-mri-machine-easter-egg)
- - [Dr Disrespect finally confirms the reason for his lifetime Twitch ban, admits to messages with a minor that were &#39;in the direction of being inappropriate&#39;](https://www.pcgamer.com/gaming-industry/dr-disrespect-finally-confirms-the-reason-for-his-lifetime-twitch-ban-admits-to-messages-with-a-minor-that-were-in-the-direction-of-being-inappropriate)<!-- GAME:END -->
+ - [If You’re Not Using The Destiny 2 Companion App, You&#39;re Making A Big Mistake](https://kotaku.com/destiny-2-app-vault-inventory-bounties-guardian-1851560242)
+ - [New DLC weapon locations in Elden Ring Shadow of the Erdtree](https://www.polygon.com/elden-ring-shadow-erdtree-guide/24180256/all-new-dlc-weapon-locations)
+ - [DrDisrespect confirms Twitch banned him for messaging a minor](https://www.polygon.com/24185899/dr-disrespect-twitch-ban-accusations-minor)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
