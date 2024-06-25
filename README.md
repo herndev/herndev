@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [What is my godamn superpower ?](http://9gag.com/gag/aLnBbn6)
- - ⏩ [Surgical lights cast no visible shadow](http://9gag.com/gag/amo8d32)
- - 👉 [The highest court in Israel decided these guys have to go into military service from now on.](http://9gag.com/gag/aW4ONXd)<!-- MEMES:END -->
+ - 💣 [Spielberg Humiliates Kathleen Kennedy](http://9gag.com/gag/a6ZL4p8)
+ - ⏩ [Let them fight i say](http://9gag.com/gag/aZZNV10)
+ - 👉 [Title](http://9gag.com/gag/a87jXgd)<!-- MEMES:END -->
 
 ---
 
