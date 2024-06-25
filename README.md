@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Final Fantasy 14: Dawntrail&#39;s preliminary patch notes are here—showing fixes to those annoying stealth quests and the ability to banish NPC-crowding players to the shadow realm](https://www.pcgamer.com/games/final-fantasy/final-fantasy-14-dawntrail-s-preliminary-patch-notes-are-here-showing-fixes-to-those-annoying-stealth-quests-and-the-ability-to-banish-npc-crowding-players-to-the-shadow-realm)
- - [If you&#39;d like to play Elden Ring as a powerful bare-fisted Dryleaf monk &lpar;but don&#39;t want to wait 100 levels&rpar;, this mod lets you get Shadow of the Erdtree&#39;s gear right away](https://www.pcgamer.com/games/rpg/if-you-d-like-to-play-elden-ring-as-a-powerful-bare-fisted-dryleaf-monk-but-don-t-want-to-wait-100-levels-this-mod-lets-you-get-shadow-of-the-erdtree-s-gear-right-away)
- - [Can Morelull be shiny in Pokémon Go?](https://www.polygon.com/pokemon-go-guide/24184830/can-morelull-be-shiny-shiinotic)<!-- GAME:END -->
+ - [Where To Find Elden Ring: Shadow Of The Erdtree&#39;s Dueling Shield](https://kotaku.com/elden-ring-shadow-erdtree-dueling-shield-guide-1851558768)
+ - [Guild Wars 2&#39;s new player housing will add a hang-out for your alts, a stable for your mounts, and comes with a massive overhaul to the decorations system](https://www.pcgamer.com/games/mmo/guild-wars-2-janthir-wilds-homestead-exclusive)
+ - [A Stardew Valley modder has decided to weed out the weak with a hardcore mode that&#39;ll delete your save if you look at the wiki](https://www.pcgamer.com/games/life-sim/a-stardew-valley-modder-has-decided-to-weed-out-the-weak-with-a-hardcore-mode-thatll-delete-your-save-if-you-look-at-the-wiki)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
