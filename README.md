@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Tired of BS propaganda, Hawk tuak, and other sh*t. Reposting old memes !](http://9gag.com/gag/aLnBr1A)
- - ⏩ [Muntjacs are a genus of deer native to South and Southeast Asia.](http://9gag.com/gag/aGyROd0)
- - 👉 [Surgical lights cast no visible shadow](http://9gag.com/gag/amo8d32)<!-- MEMES:END -->
+ - 💣 [Guys, is this true ?](http://9gag.com/gag/adBpoA2)
+ - ⏩ [Surgical lights cast no visible shadow](http://9gag.com/gag/amo8d32)
+ - 👉 [Let them fight i say](http://9gag.com/gag/aZZNV10)<!-- MEMES:END -->
 
 ---
 
