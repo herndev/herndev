@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Say it!](http://9gag.com/gag/aVvXVdP)
- - ⏩ [And indeed a hundred thousand](http://9gag.com/gag/a9yPOoD)
- - 👉 [Your superpower: you can see the number showing probability you two sleeping together](http://9gag.com/gag/a87jVvZ)<!-- MEMES:END -->
+ - 💣 [I don&#39;t think that&#39;s the problem](http://9gag.com/gag/aByrO1P)
+ - ⏩ [Your superpower: you can see the number showing probability you two sleeping together](http://9gag.com/gag/a87jVvZ)
+ - 👉 [Swifties aren&#39;t gonna like this.](http://9gag.com/gag/aD2mMQZ)<!-- MEMES:END -->
 
 ---
 
