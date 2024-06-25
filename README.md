@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Guys, is this true ?](http://9gag.com/gag/adBpoA2)
- - ⏩ [Surgical lights cast no visible shadow](http://9gag.com/gag/amo8d32)
- - 👉 [Let them fight i say](http://9gag.com/gag/aZZNV10)<!-- MEMES:END -->
+ - 💣 [Are Germans the ultimate cucks?](http://9gag.com/gag/a9yPB50)
+ - ⏩ [Guys Literally Only Want One Thing And It&#39;s F**king Disgusting](http://9gag.com/gag/a2vqGjO)
+ - 👉 [Ultra reaction](http://9gag.com/gag/aByrvdN)<!-- MEMES:END -->
 
 ---
 
