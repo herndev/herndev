@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Final Fantasy VII Rebirth’s Best Weapons For Barret](https://kotaku.com/final-fantasy-7-ff7-rebirth-barret-best-guns-1851559571)
- - [Dead by Daylight&#39;s new survivor is &#39;a legendary character that epitomizes the spirit of survival instinct,&#39; and her name is Lara Croft](https://www.pcgamer.com/games/horror/dead-by-daylights-new-survivor-is-a-legendary-character-that-epitomizes-the-spirit-of-survival-instinct-and-her-name-is-lara-croft)
- - [The Dragon Age: Inquisition Companions, Ranked From Worst To Best](https://kotaku.com/dragon-age-inquisition-best-characters-dorian-solas-1851559486)<!-- GAME:END -->
+ - [Overwatch 2’s New Mercy Skins Fuel Lifesaving Breast Cancer Research](https://news.xbox.com/en-us/2024/06/25/overwatch-2-breast-cancer-charity-pink-rose-gold-mercy-skin/)
+ - [One of the best deals yet for Lenovo’s Xbox Elite Series 2 is now live](https://www.polygon.com/deals/24185747/xbox-elite-series-2-wireless-controller-deal-sale)
+ - [Sponsor Drops Dr Disrespect Amid Reports He Allegedly &#39;Sexted&#39; A Minor On Twitch](https://kotaku.com/dr-disrespect-turtle-beach-twitch-ban-sext-minor-1851559715)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
