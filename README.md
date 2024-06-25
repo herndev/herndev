@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [nubia Flip 5G review: Should you buy it?](https://www.androidauthority.com/nubia-flip-5g-review-3441541/)
- - [Patreon is going to let you gift subscriptions](https://www.theverge.com/2024/6/25/24185454/patreon-gifted-subscriptions-countdown-timer-features)
- - [The Nintendo Switch isn’t going out quietly](https://www.theverge.com/24185022/nintendo-switch-2024-game-lineup-zelda-echoes-of-wisdom)<!-- TECH:END -->
+ - [Beats Pill review: Premium, but worth the money](https://appleinsider.com/articles/24/06/25/beats-pill-review-premium-but-worth-the-money?utm_medium=rss)
+ - [Microsoft Faces EU Charges Over ‘Abusive’ Bundling](https://www.wired.com/story/microsoft-faces-eu-charges-over-abusive-bundling/)
+ - [The Boox Palma is an amazing gadget I didn’t even know I wanted](https://www.theverge.com/24184777/boox-palma-e-ink-smartphone-reader)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
