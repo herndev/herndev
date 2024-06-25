@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Oops: Amazon may have revealed key Galaxy Watch 7 features](https://www.androidauthority.com/samsung-galaxy-watch-7-amazon-listing-3454272/)
- - [New Google AI experiment could let you chat with celebrities, YouTube influencers](https://www.androidauthority.com/google-ai-chat-youtube-celebrities-3454283/)
- - [Logitech’s affordable new low-profile keyboard also fits Cherry MX-style keycaps](https://www.theverge.com/2024/6/25/24185020/logitech-keyboard-mx-keycaps-gaming)<!-- TECH:END -->
+ - [For VOOC’s sake: OnePlus phones in some regions aren’t getting in-box chargers](https://www.androidauthority.com/oneplus-not-shipping-chargers-some-phones-3454264/)
+ - [Here’s how much Google says it’d cost to fulfill Epic’s biggest demands](https://www.theverge.com/policy/2024/6/25/24185450/epic-google-catalog-access-library-porting-estimated-cost)
+ - [Oops: Amazon may have revealed key Galaxy Watch 7 features](https://www.androidauthority.com/samsung-galaxy-watch-7-amazon-listing-3454272/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
