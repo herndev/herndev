@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Overwatch 2’s New Mercy Skins Fuel Lifesaving Breast Cancer Research](https://news.xbox.com/en-us/2024/06/25/overwatch-2-breast-cancer-charity-pink-rose-gold-mercy-skin/)
- - [One of the best deals yet for Lenovo’s Xbox Elite Series 2 is now live](https://www.polygon.com/deals/24185747/xbox-elite-series-2-wireless-controller-deal-sale)
- - [Sponsor Drops Dr Disrespect Amid Reports He Allegedly &#39;Sexted&#39; A Minor On Twitch](https://kotaku.com/dr-disrespect-turtle-beach-twitch-ban-sext-minor-1851559715)<!-- GAME:END -->
+ - [Fortnite Chapter 5 Season 3: How To Complete The Week 4 Quests](https://kotaku.com/fortnite-chapter-5-season-3-week-4-quests-1851559265)
+ - [Late Microsoft co-founder&#39;s treasure hoard of artefacts to be auctioned, includes a letter Einstein sent to Roosevelt that ultimately led to the Manhattan Project](https://www.pcgamer.com/gaming-industry/late-microsoft-co-founders-treasure-hoard-of-artefacts-to-be-auctioned-includes-a-letter-einstein-sent-to-roosevelt-that-ultimately-led-to-the-manhattan-project)
+ - [Dr Disrespect Breaks Silence On Allegations About &#39;Sexting&#39; Minor: &#39;No Pictures Were Shared&#39;](https://kotaku.com/dr-disrespect-twitch-ban-sexting-minor-response-1851559888)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
