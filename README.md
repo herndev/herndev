@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Truly a beautiful human inside and out...we can learn from her](http://9gag.com/gag/a34Le6Q)
- - ⏩ [Only the most professional people get hired](http://9gag.com/gag/abAbR6r)
- - 👉 [Zooming](http://9gag.com/gag/ayNnV18)<!-- MEMES:END -->
+ - 💣 [Ultra reaction](http://9gag.com/gag/aByrvdN)
+ - ⏩ [Zooming](http://9gag.com/gag/ayNnV18)
+ - 👉 [Is that a bazooka are you holding?](http://9gag.com/gag/an7BWQn)<!-- MEMES:END -->
 
 ---
 
