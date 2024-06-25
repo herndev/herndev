@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [If You’re Not Using The Destiny 2 Companion App, You&#39;re Making A Big Mistake](https://kotaku.com/destiny-2-app-vault-inventory-bounties-guardian-1851560242)
- - [New DLC weapon locations in Elden Ring Shadow of the Erdtree](https://www.polygon.com/elden-ring-shadow-erdtree-guide/24180256/all-new-dlc-weapon-locations)
- - [DrDisrespect confirms Twitch banned him for messaging a minor](https://www.polygon.com/24185899/dr-disrespect-twitch-ban-accusations-minor)<!-- GAME:END -->
+ - [The Ministry of Ungentlemanly Warfare is like an origin story for Guy Ritchie’s whole thing](https://www.polygon.com/reviews/24185907/ministry-of-ungentlemanly-warfare-guy-ritchie)
+ - [How To Defeat The Furnace Golems In Elden Ring: Shadow Of The Erdtree](https://kotaku.com/furnace-golem-elden-ring-dlc-fire-shadow-of-the-erdtree-1851560301)
+ - [New DLC boss locations in Elden Ring Shadow of the Erdtree](https://www.polygon.com/elden-ring-shadow-erdtree-guide/24180254/all-dlc-boss-locations-bosses-in-order)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
