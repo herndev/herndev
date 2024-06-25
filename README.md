@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [YouTube now lets users “hype” videos in select geographies](https://www.androidauthority.com/youtube-hype-videos-3454246/)
- - [Snapchat announces updates to its account blocking functionality and enhanced friending safeguards, making it difficult for strangers to contact its users &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/240625/p16#a240625p16)
- - [Windows 11 changed the initial setup process to enable automatic backup of folders to OneDrive without asking permission, annoying and confusing many users &lpar;Taras Buria/Neowin&rpar;](http://www.techmeme.com/240625/p15#a240625p15)<!-- TECH:END -->
+ - [T-Mobile’s controversial new bill credits policy goes live a week early](https://www.androidauthority.com/t-mobile-bill-credits-policy-goes-live-3454430/)
+ - [Verizon’s Network in a Box aims to solve connectivity issues at events](https://www.androidauthority.com/verizon-network-in-a-box-3454424/)
+ - [Surface Laptop review: Microsoft’s best MacBook Air competitor yet](https://www.theverge.com/2024/6/25/24185462/microsoft-surface-laptop-7th-edition-review)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
