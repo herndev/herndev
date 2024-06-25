@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Brazilian apllying for an international job](http://9gag.com/gag/aAypmj0)
- - ⏩ [Are Germans the ultimate cucks?](http://9gag.com/gag/a9yPB50)
- - 👉 [Say it!](http://9gag.com/gag/aVvXVdP)<!-- MEMES:END -->
+ - 💣 [Pure instinct\u2019s\u2026](http://9gag.com/gag/aLnBbeg)
+ - ⏩ [What is my godamn superpower ?](http://9gag.com/gag/aLnBbn6)
+ - 👉 [Tired of BS propaganda, Hawk tuak, and other sh*t. Reposting old memes !](http://9gag.com/gag/aLnBr1A)<!-- MEMES:END -->
 
 ---
 
