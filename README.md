@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [OpenAI delays the release of its advanced Voice Mode for ChatGPT by a month to address safety issues and plans to roll out the feature to Plus users in the fall &lpar;Rachel Metz/Bloomberg&rpar;](http://www.techmeme.com/240625/p30#a240625p30)
- - [Reddit says it will update its robots.txt &quot;to be as clear as possible&quot; that companies using an automated agent to access Reddit need to abide by its terms &lpar;Karissa Bell/Engadget&rpar;](http://www.techmeme.com/240625/p29#a240625p29)
- - [8BitDo’s $29.99 Ultimate 2C controller adds two more shoulder buttons](https://www.theverge.com/2024/6/25/24185806/gaming-8bitdo-controller-ultimate-2c-hall-effect)<!-- TECH:END -->
+ - [Some iPhone users running the latest iOS 18 beta report being able to send and receive RCS messages on select US carriers &lpar;Filipe Esp&amp;oacute;sito/9to5Mac&rpar;](http://www.techmeme.com/240625/p32#a240625p32)
+ - [Select US carriers introduce support for RCS on iOS 18 beta](https://appleinsider.com/articles/24/06/25/select-us-carriers-introduce-support-for-rcs-on-ios-18-beta?utm_medium=rss)
+ - [ChatGPT’s Mac app is here, but its flirty advanced voice mode has been delayed](https://www.theverge.com/2024/6/25/24186032/openai-chatgpt-mac-app-advanced-voice-mode-delayed)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
