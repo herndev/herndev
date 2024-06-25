@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Narwal Freo X Ultra review: smart and powerful whole home cleaning](https://appleinsider.com/articles/24/06/25/narwal-freo-x-ultra-review-smart-and-powerful-whole-home-cleaning?utm_medium=rss)
- - [Best GoPro Deals: Lowest Prices From Hero 12 to Hero Max     - CNET](https://www.cnet.com/deals/best-gopro-deals/#ftag=CAD590a51e)
- - [EcoFlow’s new solar generator is a portable powerhouse](https://www.theverge.com/2024/6/24/24182250/ecoflow-delta-pro-3-price-specs-blackout-generator-van-rv)<!-- TECH:END -->
+ - [Google’s new shopping tools will help you find the best summer deals](https://www.androidauthority.com/google-shopping-tools-summer-deals-3454154/)
+ - [Today&#39;s NYT Connections Hints, Answers and Help for June 25, #380     - CNET](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-june-25-380/#ftag=CAD590a51e)
+ - [Narwal Freo X Ultra review: smart and powerful whole home cleaning](https://appleinsider.com/articles/24/06/25/narwal-freo-x-ultra-review-smart-and-powerful-whole-home-cleaning?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
