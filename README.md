@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Are Germans the ultimate cucks?](http://9gag.com/gag/a9yPB50)
- - ⏩ [Guys Literally Only Want One Thing And It&#39;s F**king Disgusting](http://9gag.com/gag/a2vqGjO)
- - 👉 [Ultra reaction](http://9gag.com/gag/aByrvdN)<!-- MEMES:END -->
+ - 💣 [Brazilian apllying for an international job](http://9gag.com/gag/aAypmj0)
+ - ⏩ [Are Germans the ultimate cucks?](http://9gag.com/gag/a9yPB50)
+ - 👉 [Say it!](http://9gag.com/gag/aVvXVdP)<!-- MEMES:END -->
 
 ---
 
