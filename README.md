@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [T-Mobile’s controversial new bill credits policy goes live a week early](https://www.androidauthority.com/t-mobile-bill-credits-policy-goes-live-3454430/)
- - [Verizon’s Network in a Box aims to solve connectivity issues at events](https://www.androidauthority.com/verizon-network-in-a-box-3454424/)
- - [Surface Laptop review: Microsoft’s best MacBook Air competitor yet](https://www.theverge.com/2024/6/25/24185462/microsoft-surface-laptop-7th-edition-review)<!-- TECH:END -->
+ - [This prototype turns your car’s windshield into a giant AR display](https://www.theverge.com/24185134/distance-technologies-car-hud-prototype-awe-hands-on)
+ - [China’s lunar probe returns to Earth with first-ever samples from the far side of the Moon](https://www.theverge.com/2024/6/25/24185575/china-lunar-probe-lands-earth-first-moon-far-side-sample)
+ - [Google announces surprise Pixel hardware event in August](https://www.theverge.com/2024/6/25/24185767/google-pixel-hardware-ai-event-august-date)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
