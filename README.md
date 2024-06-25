@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Shinji a real man.](http://9gag.com/gag/a9yPX1W)
- - ⏩ [Your superpower: you can see the number showing probability you two sleeping together](http://9gag.com/gag/a87jVvZ)
- - 👉 [Say it!](http://9gag.com/gag/aVvXVdP)<!-- MEMES:END -->
+ - 💣 [Swifties aren&#39;t gonna like this.](http://9gag.com/gag/aD2mMQZ)
+ - ⏩ [Guys, is this true ?](http://9gag.com/gag/adBpoA2)
+ - 👉 [We all know what the outcome would be](http://9gag.com/gag/awy74yx)<!-- MEMES:END -->
 
 ---
 
