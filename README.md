@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft faces EU antitrust probe for tying Teams to Office suite](https://www.androidauthority.com/microsoft-eu-antritrust-probe-3454514/)
- - [Meta&#39;s Quest v67 PTC update adds an experimental option to let users freely position and resize 2D windows as well as &quot;take any window fullscreen&quot; &lpar;David Heaney/UploadVR&rpar;](http://www.techmeme.com/240625/p20#a240625p20)
- - [Google announces hardware event for early August, possibly Pixel 9 series?](https://www.androidauthority.com/made-by-google-2024-date-3454496/)<!-- TECH:END -->
+ - [The UGREEN Nexode RG 65W is the coolest charger, and it’s 31% off right now](https://www.androidauthority.com/ugreen-nexode-rg-65w-charger-deal-3454568/)
+ - [Dr Disrespect finally shares why he was banned from Twitch](https://www.theverge.com/2024/6/25/24185821/dr-disrespect-twitch-ban-explanation-inappropriate-messages)
+ - [T-Mobile will offer an exclusive Hot Pink colorway for the new Motorola Razr Plus](https://www.androidauthority.com/motorola-razr-plus-hot-pink-3454536/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
