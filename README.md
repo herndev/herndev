@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [This prototype turns your car’s windshield into a giant AR display](https://www.theverge.com/24185134/distance-technologies-car-hud-prototype-awe-hands-on)
- - [China’s lunar probe returns to Earth with first-ever samples from the far side of the Moon](https://www.theverge.com/2024/6/25/24185575/china-lunar-probe-lands-earth-first-moon-far-side-sample)
- - [Google announces surprise Pixel hardware event in August](https://www.theverge.com/2024/6/25/24185767/google-pixel-hardware-ai-event-august-date)<!-- TECH:END -->
+ - [Microsoft faces EU antitrust probe for tying Teams to Office suite](https://www.androidauthority.com/microsoft-eu-antritrust-probe-3454514/)
+ - [Meta&#39;s Quest v67 PTC update adds an experimental option to let users freely position and resize 2D windows as well as &quot;take any window fullscreen&quot; &lpar;David Heaney/UploadVR&rpar;](http://www.techmeme.com/240625/p20#a240625p20)
+ - [Google announces hardware event for early August, possibly Pixel 9 series?](https://www.androidauthority.com/made-by-google-2024-date-3454496/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
