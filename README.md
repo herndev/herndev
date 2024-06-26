@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Master with severe depression, PhD with slight burnout. But I got it!](http://9gag.com/gag/azxVv7m)
- - ⏩ [The Dangers in Their Lust](http://9gag.com/gag/adBp42M)
- - 👉 [Just wanted to share some life hack for summer](http://9gag.com/gag/a6ZLe9N)<!-- MEMES:END -->
+ - 💣 [The Dangers in Their Lust](http://9gag.com/gag/adBp42M)
+ - ⏩ [You just can&#39;t make this up](http://9gag.com/gag/aVvX9DO)
+ - 👉 [Holy shit I thought for sure you were all exaggerating](http://9gag.com/gag/an7B05o)<!-- MEMES:END -->
 
 ---
 
