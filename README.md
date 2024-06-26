@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [So who is The Acolyte’s Master? Well, we got our answer](https://www.polygon.com/star-wars/24177229/acolyte-master-who-is-answer)
  - [The Master’s mask in The Acolyte was intentionally part Star Wars, part Donnie Darko](https://www.polygon.com/star-wars/24185141/star-wars-acolyte-master-mask-donnie-darko-design)
- - [How to beat Bayle the Dread in Elden Ring: Shadow of the Erdtree](https://www.pcgamer.com/games/rpg/elden-ring-shadow-of-the-erdtree-bayle-the-dread-boss)
- - [Diablo 4 Season 4 dragged me back despite the rampant overgrowth of currencies to keep track of](https://www.pcgamer.com/games/rpg/diablo-4-season-4-dragged-me-back-despite-the-rampant-overgrowth-of-currencies-to-keep-track-of)<!-- GAME:END -->
+ - [How to beat Bayle the Dread in Elden Ring: Shadow of the Erdtree](https://www.pcgamer.com/games/rpg/elden-ring-shadow-of-the-erdtree-bayle-the-dread-boss)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
