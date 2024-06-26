@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Spielberg Humiliates Kathleen Kennedy](http://9gag.com/gag/a6ZL4p8)
- - ⏩ [Let them fight i say](http://9gag.com/gag/aZZNV10)
- - 👉 [Title](http://9gag.com/gag/a87jXgd)<!-- MEMES:END -->
+ - 💣 [`Hear me out... `](http://9gag.com/gag/amo8beo)
+ - ⏩ [My fellow tech bros...](http://9gag.com/gag/aMVQDwA)
+ - 👉 [The highest court in Israel decided these guys have to go into military service from now on.](http://9gag.com/gag/aW4ONXd)<!-- MEMES:END -->
 
 ---
 
