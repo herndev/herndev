@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle answer for Wednesday, June 26](https://www.pcgamer.com/games/puzzle/wordle-answer-today-june-26-2024)
  - [How many episodes is The Acolyte, exactly?](https://www.polygon.com/star-wars/24186178/acolyte-how-many-episodes-list)
- - [No one has ever been prettier than Austin Butler in The Bikeriders](https://www.polygon.com/23906339/austin-butler-the-bikeriders)
- - [So who is The Acolyte’s Master? Well, we got our answer](https://www.polygon.com/star-wars/24177229/acolyte-master-who-is-answer)<!-- GAME:END -->
+ - [No one has ever been prettier than Austin Butler in The Bikeriders](https://www.polygon.com/23906339/austin-butler-the-bikeriders)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
