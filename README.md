@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [What is my godamn superpower ?](http://9gag.com/gag/aLnBbn6)
- - ⏩ [I\u2019m sure most people will think this is a scam, or weird, or whatever. But if anyone is feeling depressed please contact me. I\u2019m happy to chit-chat about any issues and offer advice. I\u2019m old now. Will delete if this gets a shit ton of trolls.](http://9gag.com/gag/a4PL8jm)
- - 👉 [Voluptuous Latina](http://9gag.com/gag/aO8mAQR)<!-- MEMES:END -->
+ - ⏩ [Judge giving justice](http://9gag.com/gag/aRBV8eG)
+ - 👉 [I\u2019m sure most people will think this is a scam, or weird, or whatever. But if anyone is feeling depressed please contact me. I\u2019m happy to chit-chat about any issues and offer advice. I\u2019m old now. Will delete if this gets a shit ton of trolls.](http://9gag.com/gag/a4PL8jm)<!-- MEMES:END -->
 
 ---
 
