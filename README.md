@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Deal: Sign up to get a $50 credit when you pre-order a new Samsung device](https://www.androidauthority.com/deal-50-samsung-credit-pre-order-3454672/)
- - [Google page 2 is back: Continuous page scroll in Google Search is going away](https://www.androidauthority.com/google-search-continuous-scroll-ends-3454666/)
- - [NYC-based Norm Ai, which uses AI to help organizations automate compliance tasks, raised a $27M Series A led by Coatue, bringing its total funding to $38M+ &lpar;PYMNTS.com&rpar;](http://www.techmeme.com/240625/p34#a240625p34)<!-- TECH:END -->
+ - [Stanford Internet Observatory&#39;s former research director details the online rumor mill that led to SIO ending its rapid-response election observation work &lpar;Ren&amp;eacute;e DiResta/New York Times&rpar;](http://www.techmeme.com/240625/p36#a240625p36)
+ - [Best Internet Providers in Rochester, Minnesota](https://www.cnet.com/home/internet/best-internet-providers-in-rochester-mn/#ftag=CAD590a51e)
+ - [Route: TikTok Shop saw a 13% jump in orders from April to May, as TikTok appears to be hiring hundreds of employees in the US to support its e-commerce efforts &lpar;Alexandra S. Levine/Forbes&rpar;](http://www.techmeme.com/240625/p35#a240625p35)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
