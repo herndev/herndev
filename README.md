@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Diablo 4 Season 4 dragged me back despite the rampant overgrowth of currencies to keep track of](https://www.pcgamer.com/games/rpg/diablo-4-season-4-dragged-me-back-despite-the-rampant-overgrowth-of-currencies-to-keep-track-of)
- - [MMOs &#39;don&#39;t give people the tools to build community anymore,&#39; says EverQuest 2 creative director](https://www.pcgamer.com/games/mmo/mmos-dont-give-people-the-tools-to-build-community-anymore-says-everquest-2-creative-director)
- - [How to beat Bayle the Dread in Elden Ring: Shadow of the Erdtree](https://www.polygon.com/elden-ring-shadow-erdtree-guide/24186009/bayle-dread-location-weakness-strategy-how-to-beat-sote-dlc)<!-- GAME:END -->
+ - [The Master’s mask in The Acolyte was intentionally part Star Wars, part Donnie Darko](https://www.polygon.com/star-wars/24185141/star-wars-acolyte-master-mask-donnie-darko-design)
+ - [How to beat Bayle the Dread in Elden Ring: Shadow of the Erdtree](https://www.pcgamer.com/games/rpg/elden-ring-shadow-of-the-erdtree-bayle-the-dread-boss)
+ - [Diablo 4 Season 4 dragged me back despite the rampant overgrowth of currencies to keep track of](https://www.pcgamer.com/games/rpg/diablo-4-season-4-dragged-me-back-despite-the-rampant-overgrowth-of-currencies-to-keep-track-of)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
