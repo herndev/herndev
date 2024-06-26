@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google is prepping reliability enhancements for its Find My Device network](https://www.androidauthority.com/google-find-my-device-reliability-update-3454811/)
- - [Apple expands its diagnostics tool for self-service repairs from the US to 32 countries in Europe, including the UK, and plans to launch in Canada next year &lpar;Ben Lovejoy/9to5Mac&rpar;](http://www.techmeme.com/240626/p23#a240626p23)
- - [Apple dominates the US tablet market, and Mac sales are surging](https://appleinsider.com/articles/24/06/26/apple-dominates-the-us-tablet-market-and-mac-sales-are-surging?utm_medium=rss)<!-- TECH:END -->
+ - [Windows on Arm finally has legs](https://www.theverge.com/2024/6/26/24186432/microsoft-windows-on-arm-qualcomm-copilot-plus-pcs-prism-emulator)
+ - [Amazon is secretly building a ChatGPT competitor, and it isn’t Alexa](https://www.androidauthority.com/amazon-chatgpt-competitor-3454873/)
+ - [PDF organizer Stack is the latest app to hit the Google graveyard](https://www.theverge.com/24186376/google-stack-pdf-graveyard-android-app)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
