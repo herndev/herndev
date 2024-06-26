@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Fetcherr, which wants to let airlines provide dynamic pricing by using AI to forecast demand, raised a $90M Series B, bringing its total funding to $114.5M &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240626/p17#a240626p17)
- - [Creatio, which offers a no-code CRM and workflow automation platform, raised $200M led by Sapphire Ventures at a $1.2B valuation &lpar;Frederic Lardinois/TechCrunch&rpar;](http://www.techmeme.com/240626/p16#a240626p16)
- - [Data connectivity software provider CData raised ~$350M led by Warburg Pincus, source says at a $800M+ valuation, and says it expects $100M in ARR by 2024 end &lpar;Reuters&rpar;](http://www.techmeme.com/240626/p15#a240626p15)<!-- TECH:END -->
+ - [Google is prepping reliability enhancements for its Find My Device network](https://www.androidauthority.com/google-find-my-device-reliability-update-3454811/)
+ - [Apple expands its diagnostics tool for self-service repairs from the US to 32 countries in Europe, including the UK, and plans to launch in Canada next year &lpar;Ben Lovejoy/9to5Mac&rpar;](http://www.techmeme.com/240626/p23#a240626p23)
+ - [Apple dominates the US tablet market, and Mac sales are surging](https://appleinsider.com/articles/24/06/26/apple-dominates-the-us-tablet-market-and-mac-sales-are-surging?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
