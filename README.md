@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple expands its DIY repair diagnostic tool to more users](https://www.androidauthority.com/apple-expands-repair-diagnostic-tool-3454914/)
- - [Google could give Gemini Advance users early access to Imagen 3 &lpar;APK teardown&rpar;](https://www.androidauthority.com/gemini-advanced-imagen-3-early-access-3454898/)
- - [Snap adds new warnings and region blocks to address teen ‘sextortion’ scams](https://www.theverge.com/2024/6/26/24186546/snapchat-friend-request-blocks-sextortion-scams-teens)<!-- TECH:END -->
+ - [Steam is getting an official controller, but Valve isn’t making it](https://www.theverge.com/2024/6/26/24186645/valve-steam-controller-officially-licensed-wireless-horipad-announcement-specs)
+ - [A look at YouTube&#39;s growing dominance as Nielsen says it had ~10% of all viewership on connected and traditional TVs in the US in May, ahead of Netflix&#39;s 7.6% &lpar;Alex Sherman/CNBC&rpar;](http://www.techmeme.com/240626/p37#a240626p37)
+ - [Playing Super Monkey Ball with a monkey in a ball just makes sense](https://www.theverge.com/2024/6/26/24186503/super-monkey-ball-hack-gaming-controller-tom-tilley)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
