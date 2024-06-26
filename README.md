@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Zenless Zone Zero&#39;s producer has spent an ungodly amount of time playing Street Fighter 6, which makes the whisperings of a collaboration even more understandable](https://www.pcgamer.com/games/action/zenless-zone-zeros-producer-has-spent-an-ungodly-amount-of-time-playing-street-fighter-6-which-makes-the-whisperings-of-a-collaboration-even-more-understandable)
- - [Helldivers 2 director weighs in on Elden Ring: Shadow of the Erdtree&#39;s difficulty: &#39;A game for everyone is a game for no one&#39;](https://www.pcgamer.com/games/rpg/helldivers-2-director-weighs-in-on-elden-ring-shadow-of-the-erdtrees-difficulty-a-game-for-everyone-is-a-game-for-no-one)
- - [Zenless Zone Zero&#39;s launch roster won&#39;t quite match the numbers of Genshin Impact and Honkai: Star Rail, but its producer says the team is going for &#39;quality not quantity&#39;](https://www.pcgamer.com/games/action/zenless-zone-zeros-launch-roster-wont-quite-match-the-numbers-of-genshin-impact-and-honkai-star-rail-but-its-producer-says-the-team-is-going-for-quality-not-quantity)<!-- GAME:END -->
+ - [The Riven remake transforms a tricky classic into a modern masterpiece](https://www.polygon.com/reviews/24185656/riven-review-remake-remaster-pc-steam-vr)
+ - [Chillblast&#39;s Edge range of gaming PCs will take you to the next level](https://www.pcgamer.com/hardware/gaming-pcs/chillblasts-edge-range-of-gaming-pcs-will-take-you-to-the-next-level)
+ - [Grab your popcorn as Microsoft lands in hot water again with the EU for its &#39;insufficient&#39; changes to how it bundles Teams](https://www.pcgamer.com/software/grab-your-popcorn-as-microsoft-lands-in-hot-water-again-with-the-eu-for-its-insufficient-changes-to-how-it-bundles-teams)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
