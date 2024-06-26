@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Indie Selects for June: Amazing Indie Games We Are Really Excited About](https://news.xbox.com/en-us/2024/06/26/indie-selects-for-june-amazing-indie-games-we-are-really-excited-about/)
- - [Scale modeler’s Warhammer 40K project is an absolute master class](https://www.polygon.com/24186545/warhammer-40k-tank-scale-model-build-night-shift)
- - [Final Fantasy XIV: Endwalker Was A Flawed Finale I&#39;ll Never Forget](https://kotaku.com/final-fantasy-14-endwalker-goodbye-dawntrail-1851561996)<!-- GAME:END -->
+ - [Warhammer 40,000: Darktide&#39;s latest update adds new weapons and a mission to reactivate an icy AdMech foundry](https://www.pcgamer.com/games/fps/warhammer-40000-darktides-latest-update-adds-new-weapons-and-a-mission-to-reactivate-an-icy-admech-foundry)
+ - [Players Are Obsessed With Shadow Of The Erdtree&#39;s Number One Hater](https://kotaku.com/elden-ring-dlc-erdtree-igon-bayle-the-dread-hater-1851562224)
+ - [Assassin’s Creed joins the Magic: The Gathering roster on July 5, here’s where to pre-order](https://www.polygon.com/deals/24182707/assassins-creed-magic-the-gathering-pre-order-universes-beyond-expansion)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
