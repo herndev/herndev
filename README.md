@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The 25 best games on Game Pass](https://www.polygon.com/best-games/22372750/best-game-pass-games-xbox)
- - [The new game from the maker of El Paso, Elsewhere is about a man in a chair in the corner of a dark hotel room, and yes, he wants to watch](https://www.pcgamer.com/games/adventure/the-new-game-from-the-maker-of-el-paso-elsewhere-is-about-a-man-in-a-chair-in-the-corner-of-a-dark-hotel-room-and-yes-he-wants-to-watch)
- - [Fortnite Chapter 5 Season 3: How To Complete Every Week 5 Challenge](https://kotaku.com/fortnite-week-5-challenges-season-3-1851561756)<!-- GAME:END -->
+ - [Indie Selects for June: Amazing Indie Games We Are Really Excited About](https://news.xbox.com/en-us/2024/06/26/indie-selects-for-june-amazing-indie-games-we-are-really-excited-about/)
+ - [Scale modeler’s Warhammer 40K project is an absolute master class](https://www.polygon.com/24186545/warhammer-40k-tank-scale-model-build-night-shift)
+ - [Final Fantasy XIV: Endwalker Was A Flawed Finale I&#39;ll Never Forget](https://kotaku.com/final-fantasy-14-endwalker-goodbye-dawntrail-1851561996)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
