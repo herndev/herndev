@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Save $300 on the Lenovo Yoga Book 9i dual-screen laptop](https://www.androidauthority.com/lenovo-yoga-book-9i-deal-3455098/)
- - [Activists Disrupt Amazon Conference Over $1.2 Billion Contract With Israel](https://www.wired.com/story/amazon-aws-project-nimbus-conference-protest-israel-gaza/)
- - [Apple Pay malfunctioning in Hungary, users experiencing unexplained charges](https://appleinsider.com/articles/24/06/26/apple-pay-malfunctioning-in-hungary-users-experiencing-unexplained-charges?utm_medium=rss)<!-- TECH:END -->
+ - [BMW M5 gets its first plug — and gains a lot of weight](https://www.theverge.com/2024/6/26/24186750/2025-bmw-m5-plug-in-hybrid)
+ - [Crypto investment app Abra and CEO William Barhydt settle with 25 US states for operating without proper licenses and will return up to $82.1M to US customers &lpar;Cheyenne Ligon/CoinDesk&rpar;](http://www.techmeme.com/240626/p43#a240626p43)
+ - [You will never guess Wordle’s terrible, hilarious original name](https://www.theverge.com/24186786/wordle-original-name-mr-bugs-wordy-nugz-wardle)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
