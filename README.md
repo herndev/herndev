@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [They are living with us, near you, maybe they are your neighbours...or maybe it&#39;s you !](http://9gag.com/gag/a9yPNXj)
- - ⏩ [Not another repost.](http://9gag.com/gag/aO8mA92)
- - 👉 [Judge giving justice](http://9gag.com/gag/aRBV8eG)<!-- MEMES:END -->
+ - 💣 [Crossing the Ganges](http://9gag.com/gag/a87jzw3)
+ - ⏩ [The Dangers in Their Lust](http://9gag.com/gag/adBp42M)
+ - 👉 [My fellow tech bros...](http://9gag.com/gag/aMVQDwA)<!-- MEMES:END -->
 
 ---
 
