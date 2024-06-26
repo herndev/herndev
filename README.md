@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google rolls out Gemini-powered Summarize feature for Gmail app](https://www.androidauthority.com/gmail-summarize-this-email-rollout-3454830/)
- - [Researchers: polyfill.io, which offers JavaScript polyfills, is being used to infect 100K+ websites with malware, after a Chinese CDN bought the domain in 2024 &lpar;Jessica Lyons/The Register&rpar;](http://www.techmeme.com/240626/p29#a240626p29)
- - [Motorola Moto Tag hands-on: Inspired by Apple, compatible with Google](https://www.androidauthority.com/motorola-moto-tag-hands-on-review-3454605/)<!-- TECH:END -->
+ - [Intel shows off a fully integrated bidirectional optical compute interconnect chiplet, which enables higher-bandwidth data transfers for AI workloads &lpar;Mike Wheatley/SiliconANGLE&rpar;](http://www.techmeme.com/240626/p31#a240626p31)
+ - [A Russian Propaganda Network Is Promoting an AI-Manipulated Biden Video](https://www.wired.com/story/russia-disinformation-network-ai-generated-biden-video/)
+ - [iPhone Mirroring on macOS hands-on: Windows Phone Link could never…](https://www.androidauthority.com/iphone-mirroring-macos-hands-on-3454379/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
