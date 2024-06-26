@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Voluptuous Latina](http://9gag.com/gag/aO8mAQR)
- - ⏩ [Judge giving justice](http://9gag.com/gag/aRBV8eG)
- - 👉 [No more butt hurt](http://9gag.com/gag/a6ZLeeA)<!-- MEMES:END -->
+ - 💣 [Spielberg Humiliates Kathleen Kennedy](http://9gag.com/gag/a6ZL4p8)
+ - ⏩ [Just wanted to share some life hack for summer](http://9gag.com/gag/a6ZLe9N)
+ - 👉 [The Dangers in Their Lust](http://9gag.com/gag/adBp42M)<!-- MEMES:END -->
 
 ---
 
