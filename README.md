@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Four Tasty Tips &amp; Tricks to Aid Your Adventure in BattleCakes](https://news.xbox.com/en-us/2024/06/26/four-tips-amp-tricks-to-aid-you-in-battlecakes/)
- - [The Exorcism Review: Clever Ideas Can&#39;t Develop In A Film This Shallow](https://kotaku.com/exorcism-movie-russell-crowe-review-1851561577)
- - [As Black Desert Online celebrates its tenth anniversary, Pearl Abyss reveals the future of its MMO lies thousands of years in the past](https://www.pcgamer.com/games/mmo/as-black-desert-online-celebrates-its-tenth-anniversary-pearl-abyss-reveals-the-future-of-its-mmo-lies-thousands-of-years-in-the-past)<!-- GAME:END -->
+ - [The 25 best games on Game Pass](https://www.polygon.com/best-games/22372750/best-game-pass-games-xbox)
+ - [The new game from the maker of El Paso, Elsewhere is about a man in a chair in the corner of a dark hotel room, and yes, he wants to watch](https://www.pcgamer.com/games/adventure/the-new-game-from-the-maker-of-el-paso-elsewhere-is-about-a-man-in-a-chair-in-the-corner-of-a-dark-hotel-room-and-yes-he-wants-to-watch)
+ - [Fortnite Chapter 5 Season 3: How To Complete Every Week 5 Challenge](https://kotaku.com/fortnite-week-5-challenges-season-3-1851561756)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
