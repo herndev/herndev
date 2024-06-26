@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Warhammer 40,000: Darktide&#39;s latest update adds new weapons and a mission to reactivate an icy AdMech foundry](https://www.pcgamer.com/games/fps/warhammer-40000-darktides-latest-update-adds-new-weapons-and-a-mission-to-reactivate-an-icy-admech-foundry)
- - [Players Are Obsessed With Shadow Of The Erdtree&#39;s Number One Hater](https://kotaku.com/elden-ring-dlc-erdtree-igon-bayle-the-dread-hater-1851562224)
- - [Assassin’s Creed joins the Magic: The Gathering roster on July 5, here’s where to pre-order](https://www.polygon.com/deals/24182707/assassins-creed-magic-the-gathering-pre-order-universes-beyond-expansion)<!-- GAME:END -->
+ - [The Acolyte can and should indulge in the Star Wars sequel trilogy’s Knights of Ren lore](https://www.polygon.com/star-wars/24186170/acolyte-master-sith-knights-of-ren)
+ - [This Real Life Monkey Ball Is My New Favorite Video Game Controller](https://kotaku.com/super-monkey-ball-banana-rumble-controller-switch-1851562449)
+ - [The latest friendship-ruining co-op game on Steam is a punishing platformer where you&#39;re chained to your pals, and it&#39;s about to crack 100,000 concurrent players](https://www.pcgamer.com/games/action/the-latest-friendship-ruining-co-op-game-on-steam-is-a-punishing-platformer-where-youre-chained-to-your-pals-and-its-about-to-crack-100000-concurrent-players)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
