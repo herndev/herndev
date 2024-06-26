@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Riven remake transforms a tricky classic into a modern masterpiece](https://www.polygon.com/reviews/24185656/riven-review-remake-remaster-pc-steam-vr)
- - [Chillblast&#39;s Edge range of gaming PCs will take you to the next level](https://www.pcgamer.com/hardware/gaming-pcs/chillblasts-edge-range-of-gaming-pcs-will-take-you-to-the-next-level)
- - [Grab your popcorn as Microsoft lands in hot water again with the EU for its &#39;insufficient&#39; changes to how it bundles Teams](https://www.pcgamer.com/software/grab-your-popcorn-as-microsoft-lands-in-hot-water-again-with-the-eu-for-its-insufficient-changes-to-how-it-bundles-teams)<!-- GAME:END -->
+ - [This Baldur&#39;s Gate 3 mod turns the game into a chaotic roguelike, which is great if you just want to slay some monsters like you&#39;re in an old school D&amp;D campaign](https://www.pcgamer.com/games/baldurs-gate/this-baldur-s-gate-3-mod-turns-the-game-into-a-chaotic-roguelike-which-is-great-if-you-just-want-to-slay-some-monsters-like-you-re-in-an-old-school-d-d-campaign)
+ - [Elden Ring’s DLC Just Got Easier](https://kotaku.com/elden-ring-shadow-erdtree-dlc-patch-realm-blessings-1851561110)
+ - [Where to find the Ancient Meteoric Ore Greatsword in Elden Ring: Shadow of the Erdtree](https://www.pcgamer.com/games/rpg/elden-ring-ancient-meteoric-ore-greatsword-location)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
