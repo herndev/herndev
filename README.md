@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [How to light according to the function of the room](http://9gag.com/gag/aVvX8Ld)
- - ⏩ [Sound off](http://9gag.com/gag/a87j9G1)
- - 👉 [Results are recorded... so it&#39;s science...](http://9gag.com/gag/axyGepD)<!-- MEMES:END -->
+ - 💣 [Master with severe depression, PhD with slight burnout. But I got it!](http://9gag.com/gag/azxVv7m)
+ - ⏩ [The Dangers in Their Lust](http://9gag.com/gag/adBp42M)
+ - 👉 [Just wanted to share some life hack for summer](http://9gag.com/gag/a6ZLe9N)<!-- MEMES:END -->
 
 ---
 
