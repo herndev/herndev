@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I think I downloaded the wrong episode of Clarkson&#39;s farm](http://9gag.com/gag/aAypLR2)
- - ⏩ [Football team scores without touching the ball](http://9gag.com/gag/a0eYD7q)
- - 👉 [Just wanted to share some life hack for summer](http://9gag.com/gag/a6ZLe9N)<!-- MEMES:END -->
+ - 💣 [The highest court in Israel decided these guys have to go into military service from now on.](http://9gag.com/gag/aW4ONXd)
+ - ⏩ [Voluptuous Latina](http://9gag.com/gag/aO8mAQR)
+ - 👉 [Zooming](http://9gag.com/gag/ayNnV18)<!-- MEMES:END -->
 
 ---
 
