@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sensor Tower: Dungeon &amp; Fighter Mobile generated $270M in Chinese iOS sales in the 30 days after its launch on May 21, marking Tencent&#39;s biggest release in 2024 &lpar;Bloomberg&rpar;](http://www.techmeme.com/240626/p3#a240626p3)
- - [As growth slows, Chinese tech companies are squeezing more hours out of fewer staff, as some in the industry view PDD&#39;s grueling hours as a model to emulate &lpar;Financial Times&rpar;](http://www.techmeme.com/240626/p2#a240626p2)
- - [A look at Tencent&#39;s removal of hit game Dungeon &amp; Fighter from Android app stores in China, some of which have default sales split of 50% on games revenue &lpar;Zheping Huang/Bloomberg&rpar;](http://www.techmeme.com/240626/p1#a240626p1)<!-- TECH:END -->
+ - [Some CIOs say getting full value out of AI tools like Copilot for Microsoft 365 requires heavy lifting, as enterprise data isn&#39;t always accurate and up-to-date &lpar;Isabelle Bousquette/Wall Street Journal&rpar;](http://www.techmeme.com/240626/p6#a240626p6)
+ - [Prince Constantijn of the Netherlands, a special envoy to Techleap startup accelerator, says Europe risks falling behind the US and China by over-regulating AI &lpar;Ryan Browne/CNBC&rpar;](http://www.techmeme.com/240626/p5#a240626p5)
+ - [Sources: India&#39;s Ministry of Corporate Affairs investigation finds Byju&#39;s did not commit financial fraud but had compliance lapses that led to mounting losses &lpar;Bloomberg&rpar;](http://www.techmeme.com/240626/p4#a240626p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
