@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [This Baldur&#39;s Gate 3 mod turns the game into a chaotic roguelike, which is great if you just want to slay some monsters like you&#39;re in an old school D&amp;D campaign](https://www.pcgamer.com/games/baldurs-gate/this-baldur-s-gate-3-mod-turns-the-game-into-a-chaotic-roguelike-which-is-great-if-you-just-want-to-slay-some-monsters-like-you-re-in-an-old-school-d-d-campaign)
- - [Elden Ring’s DLC Just Got Easier](https://kotaku.com/elden-ring-shadow-erdtree-dlc-patch-realm-blessings-1851561110)
- - [Where to find the Ancient Meteoric Ore Greatsword in Elden Ring: Shadow of the Erdtree](https://www.pcgamer.com/games/rpg/elden-ring-ancient-meteoric-ore-greatsword-location)<!-- GAME:END -->
+ - [The first American Girl comic book, Julie and the Blue Guitar, is a worthy installment in the franchise](https://www.polygon.com/24185954/american-girl-julie-blue-guitar-comic-review)
+ - [Where To Find Elden Ring: Shadow Of The Erdtree&#39;s Bone Bow](https://kotaku.com/elden-ring-shadow-of-the-erdtree-bone-bow-guide-1851561228)
+ - [The Resident Evil Trilogy&#39;s Original PC Ports Are Coming Back Completely Unchanged](https://kotaku.com/resident-evil-1-unremastered-pc-release-gog-1851561227)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
