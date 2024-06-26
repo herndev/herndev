@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Intel shows off a fully integrated bidirectional optical compute interconnect chiplet, which enables higher-bandwidth data transfers for AI workloads &lpar;Mike Wheatley/SiliconANGLE&rpar;](http://www.techmeme.com/240626/p31#a240626p31)
- - [A Russian Propaganda Network Is Promoting an AI-Manipulated Biden Video](https://www.wired.com/story/russia-disinformation-network-ai-generated-biden-video/)
- - [iPhone Mirroring on macOS hands-on: Windows Phone Link could never…](https://www.androidauthority.com/iphone-mirroring-macos-hands-on-3454379/)<!-- TECH:END -->
+ - [Apple expands its DIY repair diagnostic tool to more users](https://www.androidauthority.com/apple-expands-repair-diagnostic-tool-3454914/)
+ - [Google could give Gemini Advance users early access to Imagen 3 &lpar;APK teardown&rpar;](https://www.androidauthority.com/gemini-advanced-imagen-3-early-access-3454898/)
+ - [Snap adds new warnings and region blocks to address teen ‘sextortion’ scams](https://www.theverge.com/2024/6/26/24186546/snapchat-friend-request-blocks-sextortion-scams-teens)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
