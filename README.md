@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [In a rare admission of ad fraud, Yahoo Japan to waive $189M ad revenue, or ~1.6% of parent company LY Corp&#39;s FY 2023 revenue, after detecting fraudulent clicks &lpar;Laura Dobberstein/The Register&rpar;](http://www.techmeme.com/240626/p7#a240626p7)
- - [Rimac Verne Robotaxi: prices, availability, specs](https://www.wired.com/story/rimacs-super-sleek-robotaxi-has-more-room-than-a-rolls-royce/)
- - [Rimac is shifting from electric supercars to robotaxis](https://www.theverge.com/2024/6/26/24185735/rimac-verne-robotaxi-croatia-mobileye-autonomous)<!-- TECH:END -->
+ - [New leaked illustrations claim Apple Watch X has a bigger screen than Apple Watch Ultra](https://appleinsider.com/articles/24/06/26/new-leaked-illustrations-claim-apple-watch-x-has-a-bigger-screen-than-apple-watch-ultra?utm_medium=rss)
+ - [How Google and others have carefully rewritten their terms and conditions to include words like AI, as tech companies look to train their AI models on user data &lpar;Eli Tan/New York Times&rpar;](http://www.techmeme.com/240626/p10#a240626p10)
+ - [Advantest CEO Douglas Lefever, whose company has a 54% share of the chip testing equipment market, says China will remain an important market despite US curbs &lpar;Bloomberg&rpar;](http://www.techmeme.com/240626/p9#a240626p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
