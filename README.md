@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How to get Bloodfiend’s Arm in Elden Ring: Shadow of the Erdtree](https://www.polygon.com/elden-ring-shadow-erdtree-guide/24186733/bloodfiends-arm-location-where-to-find-dlc-sote)
- - [Where to find the O Mother gesture in Elden Ring: Shadow of the Erdtree](https://www.polygon.com/elden-ring-shadow-erdtree-guide/24186586/o-mother-gesture-location-where-to-find-sote)
- - [How to beat Commander Gaius in Elden Ring: Shadow of the Erdtree](https://www.polygon.com/elden-ring-shadow-erdtree-guide/24186445/commander-gaius-location-weakness-strategy-how-to-beat-sote-dlc)<!-- GAME:END -->
+ - [Shadow of the Erdtree&#39;s brutal difficulty spike is what happens when you inject Dark Souls into Elden Ring](https://www.pcgamer.com/games/rpg/shadow-of-the-erdtrees-brutal-difficulty-spike-is-what-happens-when-you-inject-dark-souls-into-elden-ring)
+ - [Someone Is Porting Super Mario 64 To The Game Boy Advance](https://kotaku.com/sm64-super-mario-64-game-boy-advance-gba-port-gameplay-1851562711)
+ - [Enir-Ilim walkthrough in Elden Ring: Shadow of the Erdtree](https://www.polygon.com/elden-ring-shadow-erdtree-guide/24186341/enir-ilim-steps-sealing-tree-sote-dlc)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
