@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The highest court in Israel decided these guys have to go into military service from now on.](http://9gag.com/gag/aW4ONXd)
- - ⏩ [Voluptuous Latina](http://9gag.com/gag/aO8mAQR)
- - 👉 [Zooming](http://9gag.com/gag/ayNnV18)<!-- MEMES:END -->
+ - 💣 [The Dangers in Their Lust](http://9gag.com/gag/adBp42M)
+ - ⏩ [Zooming](http://9gag.com/gag/ayNnV18)
+ - 👉 [Truly a beautiful human inside and out...we can learn from her](http://9gag.com/gag/a34Le6Q)<!-- MEMES:END -->
 
 ---
 
