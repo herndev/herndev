@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How to beat Bayle the Dread in Elden Ring: Shadow of the Erdtree](https://www.polygon.com/elden-ring-shadow-erdtree-guide/24186009/bayle-dread-location-weakness-strategy-how-to-beat-sote-dlc)
- - [Igon questline walkthrough and steps in Elden Ring: Shadow of the Erdtree](https://www.polygon.com/elden-ring-shadow-erdtree-guide/24185694/igon-questline-steps-dlc-sote)
- - [How To Explain This Whole Dr Disrespect Situation To The Normal People In Your Life](https://kotaku.com/dr-disrespect-normal-people-explainer-non-gamer-twitch-1851560300)<!-- GAME:END -->
+ - [Diablo 4 Season 4 dragged me back despite the rampant overgrowth of currencies to keep track of](https://www.pcgamer.com/games/rpg/diablo-4-season-4-dragged-me-back-despite-the-rampant-overgrowth-of-currencies-to-keep-track-of)
+ - [MMOs &#39;don&#39;t give people the tools to build community anymore,&#39; says EverQuest 2 creative director](https://www.pcgamer.com/games/mmo/mmos-dont-give-people-the-tools-to-build-community-anymore-says-everquest-2-creative-director)
+ - [How to beat Bayle the Dread in Elden Ring: Shadow of the Erdtree](https://www.polygon.com/elden-ring-shadow-erdtree-guide/24186009/bayle-dread-location-weakness-strategy-how-to-beat-sote-dlc)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
