@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Windows on Arm finally has legs](https://www.theverge.com/2024/6/26/24186432/microsoft-windows-on-arm-qualcomm-copilot-plus-pcs-prism-emulator)
- - [Amazon is secretly building a ChatGPT competitor, and it isn’t Alexa](https://www.androidauthority.com/amazon-chatgpt-competitor-3454873/)
- - [PDF organizer Stack is the latest app to hit the Google graveyard](https://www.theverge.com/24186376/google-stack-pdf-graveyard-android-app)<!-- TECH:END -->
+ - [Google rolls out Gemini-powered Summarize feature for Gmail app](https://www.androidauthority.com/gmail-summarize-this-email-rollout-3454830/)
+ - [Researchers: polyfill.io, which offers JavaScript polyfills, is being used to infect 100K+ websites with malware, after a Chinese CDN bought the domain in 2024 &lpar;Jessica Lyons/The Register&rpar;](http://www.techmeme.com/240626/p29#a240626p29)
+ - [Motorola Moto Tag hands-on: Inspired by Apple, compatible with Google](https://www.androidauthority.com/motorola-moto-tag-hands-on-review-3454605/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
