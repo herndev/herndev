@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Micron reports Q3 revenue up 82% YoY to $6.81B, vs. $6.67B est., and forecasts Q4 revenue in line with estimates &lpar;Kif Leswing/CNBC&rpar;](http://www.techmeme.com/240626/p41#a240626p41)
- - [How Apple&#39;s software engineering teams manage and test new operating system features ahead of launch](https://appleinsider.com/articles/24/06/26/how-apples-software-engineering-teams-manage-and-test-new-operating-system-features-ahead-of-launch?utm_medium=rss)
- - [CMF Phone 1 leak reveals impressive specs at a budget-friendly price](https://www.androidauthority.com/cmf-phone-1-specs-price-leak-3455002/)<!-- TECH:END -->
+ - [Save $300 on the Lenovo Yoga Book 9i dual-screen laptop](https://www.androidauthority.com/lenovo-yoga-book-9i-deal-3455098/)
+ - [Activists Disrupt Amazon Conference Over $1.2 Billion Contract With Israel](https://www.wired.com/story/amazon-aws-project-nimbus-conference-protest-israel-gaza/)
+ - [Apple Pay malfunctioning in Hungary, users experiencing unexplained charges](https://appleinsider.com/articles/24/06/26/apple-pay-malfunctioning-in-hungary-users-experiencing-unexplained-charges?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
