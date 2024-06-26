@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [What time does FFXIV maintenance end and Dawntrail release?](https://www.polygon.com/ffxiv-guides-ff14-final-fantasy-14-online/2024/6/24/24184779/dawntrail-maintenance-start-end-time-zone-est-pst-bst)
- - [TP-Link Archer AXE75 review](https://www.pcgamer.com/hardware/networking/tp-link-archer-axe75-review)
- - [GOG is bringing the original Resident Evil trilogy back from the dead, and to digital PC storefronts for the first time](https://www.pcgamer.com/games/resident-evil/gog-is-bringing-the-original-resident-evil-trilogy-back-from-the-dead-and-to-digital-pc-storefronts-for-the-first-time)<!-- GAME:END -->
+ - [Elden Ring: Shadow of the Erdtree&#39;s latest patch buffs your power in its earlier hours, with &#39;other balance adjustments&#39; to come—also, you may need to turn ray tracing off again](https://www.pcgamer.com/games/rpg/elden-ring-shadow-of-the-erdtree-s-latest-patch-buffs-your-power-in-its-earlier-hours-with-other-balance-adjustments-to-come-also-you-may-need-to-turn-ray-tracing-off-again)
+ - [Intel denies Lunar Lake laptop chip delay but reports say Arrow Lake could actually go on sale first](https://www.pcgamer.com/hardware/processors/intel-denies-lunar-lake-laptop-chip-delay-but-reports-say-arrow-lake-could-actually-go-on-sale-first)
+ - [ASRock B760I Lightning WiFi review](https://www.pcgamer.com/hardware/motherboards/asrock-b760i-lightning-wifi-review)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
