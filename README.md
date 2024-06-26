@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The first American Girl comic book, Julie and the Blue Guitar, is a worthy installment in the franchise](https://www.polygon.com/24185954/american-girl-julie-blue-guitar-comic-review)
- - [Where To Find Elden Ring: Shadow Of The Erdtree&#39;s Bone Bow](https://kotaku.com/elden-ring-shadow-of-the-erdtree-bone-bow-guide-1851561228)
- - [The Resident Evil Trilogy&#39;s Original PC Ports Are Coming Back Completely Unchanged](https://kotaku.com/resident-evil-1-unremastered-pc-release-gog-1851561227)<!-- GAME:END -->
+ - [Four Tasty Tips &amp; Tricks to Aid Your Adventure in BattleCakes](https://news.xbox.com/en-us/2024/06/26/four-tips-amp-tricks-to-aid-you-in-battlecakes/)
+ - [The Exorcism Review: Clever Ideas Can&#39;t Develop In A Film This Shallow](https://kotaku.com/exorcism-movie-russell-crowe-review-1851561577)
+ - [As Black Desert Online celebrates its tenth anniversary, Pearl Abyss reveals the future of its MMO lies thousands of years in the past](https://www.pcgamer.com/games/mmo/as-black-desert-online-celebrates-its-tenth-anniversary-pearl-abyss-reveals-the-future-of-its-mmo-lies-thousands-of-years-in-the-past)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
