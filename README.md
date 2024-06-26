@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Elden Ring: Shadow of the Erdtree&#39;s latest patch buffs your power in its earlier hours, with &#39;other balance adjustments&#39; to come—also, you may need to turn ray tracing off again](https://www.pcgamer.com/games/rpg/elden-ring-shadow-of-the-erdtree-s-latest-patch-buffs-your-power-in-its-earlier-hours-with-other-balance-adjustments-to-come-also-you-may-need-to-turn-ray-tracing-off-again)
- - [Intel denies Lunar Lake laptop chip delay but reports say Arrow Lake could actually go on sale first](https://www.pcgamer.com/hardware/processors/intel-denies-lunar-lake-laptop-chip-delay-but-reports-say-arrow-lake-could-actually-go-on-sale-first)
- - [ASRock B760I Lightning WiFi review](https://www.pcgamer.com/hardware/motherboards/asrock-b760i-lightning-wifi-review)<!-- GAME:END -->
+ - [Zenless Zone Zero&#39;s producer has spent an ungodly amount of time playing Street Fighter 6, which makes the whisperings of a collaboration even more understandable](https://www.pcgamer.com/games/action/zenless-zone-zeros-producer-has-spent-an-ungodly-amount-of-time-playing-street-fighter-6-which-makes-the-whisperings-of-a-collaboration-even-more-understandable)
+ - [Helldivers 2 director weighs in on Elden Ring: Shadow of the Erdtree&#39;s difficulty: &#39;A game for everyone is a game for no one&#39;](https://www.pcgamer.com/games/rpg/helldivers-2-director-weighs-in-on-elden-ring-shadow-of-the-erdtrees-difficulty-a-game-for-everyone-is-a-game-for-no-one)
+ - [Zenless Zone Zero&#39;s launch roster won&#39;t quite match the numbers of Genshin Impact and Honkai: Star Rail, but its producer says the team is going for &#39;quality not quantity&#39;](https://www.pcgamer.com/games/action/zenless-zone-zeros-launch-roster-wont-quite-match-the-numbers-of-genshin-impact-and-honkai-star-rail-but-its-producer-says-the-team-is-going-for-quality-not-quantity)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
