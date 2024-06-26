@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Acolyte can and should indulge in the Star Wars sequel trilogy’s Knights of Ren lore](https://www.polygon.com/star-wars/24186170/acolyte-master-sith-knights-of-ren)
- - [This Real Life Monkey Ball Is My New Favorite Video Game Controller](https://kotaku.com/super-monkey-ball-banana-rumble-controller-switch-1851562449)
- - [The latest friendship-ruining co-op game on Steam is a punishing platformer where you&#39;re chained to your pals, and it&#39;s about to crack 100,000 concurrent players](https://www.pcgamer.com/games/action/the-latest-friendship-ruining-co-op-game-on-steam-is-a-punishing-platformer-where-youre-chained-to-your-pals-and-its-about-to-crack-100000-concurrent-players)<!-- GAME:END -->
+ - [How to get Bloodfiend’s Arm in Elden Ring: Shadow of the Erdtree](https://www.polygon.com/elden-ring-shadow-erdtree-guide/24186733/bloodfiends-arm-location-where-to-find-dlc-sote)
+ - [Where to find the O Mother gesture in Elden Ring: Shadow of the Erdtree](https://www.polygon.com/elden-ring-shadow-erdtree-guide/24186586/o-mother-gesture-location-where-to-find-sote)
+ - [How to beat Commander Gaius in Elden Ring: Shadow of the Erdtree](https://www.polygon.com/elden-ring-shadow-erdtree-guide/24186445/commander-gaius-location-weakness-strategy-how-to-beat-sote-dlc)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
