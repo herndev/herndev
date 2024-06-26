@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Crossing the Ganges](http://9gag.com/gag/a87jzw3)
- - ⏩ [The Dangers in Their Lust](http://9gag.com/gag/adBp42M)
- - 👉 [My fellow tech bros...](http://9gag.com/gag/aMVQDwA)<!-- MEMES:END -->
+ - 💣 [My fellow tech bros...](http://9gag.com/gag/aMVQDwA)
+ - ⏩ [Results are recorded... so it&#39;s science...](http://9gag.com/gag/axyGepD)
+ - 👉 [Swifties aren&#39;t gonna like this.](http://9gag.com/gag/aD2mMQZ)<!-- MEMES:END -->
 
 ---
 
