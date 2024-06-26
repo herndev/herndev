@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The Dangers in Their Lust](http://9gag.com/gag/adBp42M)
- - ⏩ [Zooming](http://9gag.com/gag/ayNnV18)
- - 👉 [Truly a beautiful human inside and out...we can learn from her](http://9gag.com/gag/a34Le6Q)<!-- MEMES:END -->
+ - 💣 [Voluptuous Latina](http://9gag.com/gag/aO8mAQR)
+ - ⏩ [`Hear me out... `](http://9gag.com/gag/amo8beo)
+ - 👉 [The Dangers in Their Lust](http://9gag.com/gag/adBp42M)<!-- MEMES:END -->
 
 ---
 
