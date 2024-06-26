@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [New leaked illustrations claim Apple Watch X has a bigger screen than Apple Watch Ultra](https://appleinsider.com/articles/24/06/26/new-leaked-illustrations-claim-apple-watch-x-has-a-bigger-screen-than-apple-watch-ultra?utm_medium=rss)
- - [How Google and others have carefully rewritten their terms and conditions to include words like AI, as tech companies look to train their AI models on user data &lpar;Eli Tan/New York Times&rpar;](http://www.techmeme.com/240626/p10#a240626p10)
- - [Advantest CEO Douglas Lefever, whose company has a 54% share of the chip testing equipment market, says China will remain an important market despite US curbs &lpar;Bloomberg&rpar;](http://www.techmeme.com/240626/p9#a240626p9)<!-- TECH:END -->
+ - [How to use Reference Mode on the iPad Pro](https://appleinsider.com/inside/ipad-pro/tips/how-to-use-reference-mode-on-the-ipad-pro?utm_medium=rss)
+ - [Seven content-licensing sellers of music, image, and other AI training datasets form the Dataset Providers Alliance to advocate for &quot;ethical data sourcing&quot; &lpar;Katie Paul/Reuters&rpar;](http://www.techmeme.com/240626/p12#a240626p12)
+ - [The Galaxy S25 could come with a MediaTek SoC](https://www.androidauthority.com/samsung-galaxy-s25-mediatek-leak-3454745/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
