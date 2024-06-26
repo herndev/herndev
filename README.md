@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Steam is getting an official controller, but Valve isn’t making it](https://www.theverge.com/2024/6/26/24186645/valve-steam-controller-officially-licensed-wireless-horipad-announcement-specs)
- - [A look at YouTube&#39;s growing dominance as Nielsen says it had ~10% of all viewership on connected and traditional TVs in the US in May, ahead of Netflix&#39;s 7.6% &lpar;Alex Sherman/CNBC&rpar;](http://www.techmeme.com/240626/p37#a240626p37)
- - [Playing Super Monkey Ball with a monkey in a ball just makes sense](https://www.theverge.com/2024/6/26/24186503/super-monkey-ball-hack-gaming-controller-tom-tilley)<!-- TECH:END -->
+ - [Activist investor Jana Partners announces an investment in Rapid7; sources say Jana plans to push the cybersecurity company to sell itself &lpar;Lauren Thomas/Wall Street Journal&rpar;](http://www.techmeme.com/240626/p38#a240626p38)
+ - [A group of R1 jailbreakers found a massive security flaw in Rabbit’s code](https://www.theverge.com/2024/6/26/24186614/rabbit-r1-security-flaw-api-key-codebase)
+ - [Get $700 off the Narwal Freo robot vacuum and mop](https://www.androidauthority.com/narwal-freo-vacuum-mop-deal-3455035/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
