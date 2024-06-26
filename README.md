@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [GOG is bringing the original Resident Evil trilogy back from the dead, and to digital PC storefronts for the first time](https://www.pcgamer.com/games/resident-evil/gog-is-bringing-the-original-resident-evil-trilogy-back-from-the-dead-and-to-digital-pc-storefronts-for-the-first-time)
- - [The original Resident Evil comes to PC, in all its unremastered glory](https://www.polygon.com/24185916/resident-evil-1-pc-original-version-capcom)
- - [Today&#39;s Wordle answer for Wednesday, June 26](https://www.pcgamer.com/games/puzzle/wordle-answer-today-june-26-2024)<!-- GAME:END -->
+ - [What time does FFXIV maintenance end and Dawntrail release?](https://www.polygon.com/ffxiv-guides-ff14-final-fantasy-14-online/2024/6/24/24184779/dawntrail-maintenance-start-end-time-zone-est-pst-bst)
+ - [TP-Link Archer AXE75 review](https://www.pcgamer.com/hardware/networking/tp-link-archer-axe75-review)
+ - [GOG is bringing the original Resident Evil trilogy back from the dead, and to digital PC storefronts for the first time](https://www.pcgamer.com/games/resident-evil/gog-is-bringing-the-original-resident-evil-trilogy-back-from-the-dead-and-to-digital-pc-storefronts-for-the-first-time)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
