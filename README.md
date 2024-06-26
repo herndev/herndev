@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to use Reference Mode on the iPad Pro](https://appleinsider.com/inside/ipad-pro/tips/how-to-use-reference-mode-on-the-ipad-pro?utm_medium=rss)
- - [Seven content-licensing sellers of music, image, and other AI training datasets form the Dataset Providers Alliance to advocate for &quot;ethical data sourcing&quot; &lpar;Katie Paul/Reuters&rpar;](http://www.techmeme.com/240626/p12#a240626p12)
- - [The Galaxy S25 could come with a MediaTek SoC](https://www.androidauthority.com/samsung-galaxy-s25-mediatek-leak-3454745/)<!-- TECH:END -->
+ - [Fetcherr, which wants to let airlines provide dynamic pricing by using AI to forecast demand, raised a $90M Series B, bringing its total funding to $114.5M &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240626/p17#a240626p17)
+ - [Creatio, which offers a no-code CRM and workflow automation platform, raised $200M led by Sapphire Ventures at a $1.2B valuation &lpar;Frederic Lardinois/TechCrunch&rpar;](http://www.techmeme.com/240626/p16#a240626p16)
+ - [Data connectivity software provider CData raised ~$350M led by Warburg Pincus, source says at a $800M+ valuation, and says it expects $100M in ARR by 2024 end &lpar;Reuters&rpar;](http://www.techmeme.com/240626/p15#a240626p15)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
