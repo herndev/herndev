@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [My fellow tech bros...](http://9gag.com/gag/aMVQDwA)
- - ⏩ [Results are recorded... so it&#39;s science...](http://9gag.com/gag/axyGepD)
- - 👉 [Swifties aren&#39;t gonna like this.](http://9gag.com/gag/aD2mMQZ)<!-- MEMES:END -->
+ - 💣 [Surgical lights cast no visible shadow](http://9gag.com/gag/amo8d32)
+ - ⏩ [You just can&#39;t make this up](http://9gag.com/gag/aVvX9DO)
+ - 👉 [Is that a bazooka are you holding?](http://9gag.com/gag/an7BWQn)<!-- MEMES:END -->
 
 ---
 
