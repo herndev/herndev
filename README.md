@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Some iPhone users running the latest iOS 18 beta report being able to send and receive RCS messages on select US carriers &lpar;Filipe Esp&amp;oacute;sito/9to5Mac&rpar;](http://www.techmeme.com/240625/p32#a240625p32)
- - [Select US carriers introduce support for RCS on iOS 18 beta](https://appleinsider.com/articles/24/06/25/select-us-carriers-introduce-support-for-rcs-on-ios-18-beta?utm_medium=rss)
- - [ChatGPT’s Mac app is here, but its flirty advanced voice mode has been delayed](https://www.theverge.com/2024/6/25/24186032/openai-chatgpt-mac-app-advanced-voice-mode-delayed)<!-- TECH:END -->
+ - [Deal: Sign up to get a $50 credit when you pre-order a new Samsung device](https://www.androidauthority.com/deal-50-samsung-credit-pre-order-3454672/)
+ - [Google page 2 is back: Continuous page scroll in Google Search is going away](https://www.androidauthority.com/google-search-continuous-scroll-ends-3454666/)
+ - [NYC-based Norm Ai, which uses AI to help organizations automate compliance tasks, raised a $27M Series A led by Coatue, bringing its total funding to $38M+ &lpar;PYMNTS.com&rpar;](http://www.techmeme.com/240625/p34#a240625p34)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
