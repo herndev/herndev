@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Surgical lights cast no visible shadow](http://9gag.com/gag/amo8d32)
- - ⏩ [You just can&#39;t make this up](http://9gag.com/gag/aVvX9DO)
- - 👉 [Is that a bazooka are you holding?](http://9gag.com/gag/an7BWQn)<!-- MEMES:END -->
+ - 💣 [You just can&#39;t make this up](http://9gag.com/gag/aVvX9DO)
+ - ⏩ [Judge giving justice](http://9gag.com/gag/aRBV8eG)
+ - 👉 [No more butt hurt](http://9gag.com/gag/a6ZLeeA)<!-- MEMES:END -->
 
 ---
 
