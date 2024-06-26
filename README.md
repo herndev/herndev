@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Vienna-based Prewave, which helps companies monitor their supply chain risks, raised a &amp;euro;63M Series B led by Hedosophia, bringing its total funding to &amp;euro;90M+ &lpar;Cate Lawrence/Tech.eu&rpar;](http://www.techmeme.com/240625/p37#a240625p37)
- - [Best Internet Providers in New York](https://www.cnet.com/home/internet/best-internet-providers-in-new-york/#ftag=CAD590a51e)
- - [Best Internet Providers in Iowa City, Iowa](https://www.cnet.com/home/internet/best-internet-providers-in-iowa-city-ia/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sources: Huawei is struggling to ramp up production of its Ascend AI server chip, China&#39;s leading alternative to Nvidia&#39;s A100, due to a new US crackdown &lpar;The Information&rpar;](http://www.techmeme.com/240625/p39#a240625p39)
+ - [Adonis, which provides healthcare revenue cycle automation services, raised a $31M Series B led by Point72 Private Investments, taking its total funding to $54M &lpar;Jessica Hagen/MobiHealthNews&rpar;](http://www.techmeme.com/240625/p38#a240625p38)
+ - [How to use Reference Mode on the iPad Pro](https://appleinsider.com/inside/ipad-pro/tips/how-to-use-reference-mode-on-the-ipad-pro?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
