@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Voluptuous Latina](http://9gag.com/gag/aO8mAQR)
- - ⏩ [`Hear me out... `](http://9gag.com/gag/amo8beo)
- - 👉 [The Dangers in Their Lust](http://9gag.com/gag/adBp42M)<!-- MEMES:END -->
+ - 💣 [They are living with us, near you, maybe they are your neighbours...or maybe it&#39;s you !](http://9gag.com/gag/a9yPNXj)
+ - ⏩ [Not another repost.](http://9gag.com/gag/aO8mA92)
+ - 👉 [Judge giving justice](http://9gag.com/gag/aRBV8eG)<!-- MEMES:END -->
 
 ---
 
