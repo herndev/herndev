@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Bro missed](http://9gag.com/gag/avyLqm5)
- - ⏩ [That&#39;s a strange mystery](http://9gag.com/gag/aqy2OQP)
- - 👉 [How to light according to the function of the room](http://9gag.com/gag/aVvX8Ld)<!-- MEMES:END -->
+ - 💣 [Title](http://9gag.com/gag/aKGBN61)
+ - ⏩ [No more butt hurt](http://9gag.com/gag/a6ZLeeA)
+ - 👉 [You just can&#39;t make this up](http://9gag.com/gag/aVvX9DO)<!-- MEMES:END -->
 
 ---
 
