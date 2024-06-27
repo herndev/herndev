@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The US DOJ indicts a Russian national, who remains at large, for his alleged involvement in the WhisperGate malware attack on Ukrainian systems in January 2022 &lpar;Katie Mettler/Washington Post&rpar;](http://www.techmeme.com/240626/p47#a240626p47)
- - [Former CEO of digital pharma ad company Outcome Health is sentenced to seven and a half years in prison, after being found guilty of a ~$1B fraud in April 2023 &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240626/p46#a240626p46)
- - [Best Blood Pressure Monitors to Consider in 2024](https://www.cnet.com/health/medical/best-blood-pressure-monitor/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Many key apps are now native for Windows on Arm, like Photoshop, Dropbox, Zoom, Chrome, and Spotify; Prism emulation is good but struggles with heavyweight apps &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/240626/p49#a240626p49)
+ - [New evidence suggests that Gery Shalon, mastermind of the 2014 JPMorgan hack, built a massive new fraud empire in Europe while he was cooperating with the FBI &lpar;Bloomberg&rpar;](http://www.techmeme.com/240626/p48#a240626p48)
+ - [The US DOJ indicts a Russian national, who remains at large, for his alleged involvement in the WhisperGate malware attack on Ukrainian systems in January 2022 &lpar;Katie Mettler/Washington Post&rpar;](http://www.techmeme.com/240626/p47#a240626p47)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
