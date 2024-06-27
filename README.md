@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Xbox Gaming Coming to Amazon Fire TV: Play More Games, No Console Needed](https://news.xbox.com/en-us/2024/06/27/xbox-cloud-gaming-amazon-fire-tv/)
- - [The handheld gaming PC market is already oversaturated](https://www.pcgamer.com/hardware/handheld-gaming-pcs/the-handheld-gaming-pc-market-is-already-oversaturated)
- - [Jango Fett returns in enhanced Star Wars: Bounty Hunter, coming to PS5 August 1](https://blog.playstation.com/2024/06/27/jango-fett-returns-in-enhanced-star-wars-bounty-hunter-coming-to-ps5-august-1/)<!-- GAME:END -->
+ - [Free Play Days – Train Sim World 4 and Pac-Man Mega Tunnel Battle: Chomp Champs](https://news.xbox.com/en-us/2024/06/27/free-play-days-train-sim-world-4-and-pac-man-mega-tunnel-battle-chomp-champs/)
+ - [TP-Link Archer GE800 review](https://www.pcgamer.com/hardware/networking/tp-link-archer-ge800-review)
+ - [Elden Ring Director Talks About Beating His Own Game: &#39;I Absolutely Suck&#39;](https://kotaku.com/elden-ring-director-hidetaka-miyazaki-beating-game-dlc-1851563792)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
