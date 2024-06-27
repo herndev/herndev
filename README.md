@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Good old days](http://9gag.com/gag/a9yP4MD)
- - ⏩ [Spielberg Humiliates Kathleen Kennedy](http://9gag.com/gag/a6ZL4p8)
- - 👉 [Wow](http://9gag.com/gag/an7B0LB)<!-- MEMES:END -->
+ - 💣 [Master with severe depression, PhD with slight burnout. But I got it!](http://9gag.com/gag/azxVv7m)
+ - ⏩ [For me this is peak cinema](http://9gag.com/gag/ajPnj8x)
+ - 👉 [`Hear me out... `](http://9gag.com/gag/amo8beo)<!-- MEMES:END -->
 
 ---
 
