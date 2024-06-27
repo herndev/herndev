@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [YouTube is trying to make AI music deals with major record labels](https://www.theverge.com/2024/6/27/24187151/youtube-ai-music-deals-licensing-record-labels-sony-umg-warner)
- - [Meta&#39;s Oversight Board says it issued 53 decisions in 2023 and that Meta has fully or partially implemented 75 out of 266 recommendations since January 2021 &lpar;Karissa Bell/Engadget&rpar;](http://www.techmeme.com/240627/p14#a240627p14)
- - [Apple changes stance on third-party repairs, will soon no longer disable some iPhone features](https://www.androidauthority.com/third-party-repairs-no-longer-disable-iphone-features-3455144/)<!-- TECH:END -->
+ - [US AT&amp;T, Verizon, T-Mobile users overseas hit by major outage](https://appleinsider.com/articles/24/06/27/us-att-verizon-t-mobile-users-overseas-hit-by-major-outage?utm_medium=rss)
+ - [Odaseva, which provides data protection services for large Salesforce customers, raised a $54M Series C, bringing its total funding to $90M &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/240627/p16#a240627p16)
+ - [OnePlus Pad Pro launched: The most powerful Android tablet of 2024?](https://www.androidauthority.com/oneplus-pad-pro-3455200/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
