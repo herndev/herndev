@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [ICantBeliveThatWorked](http://9gag.com/gag/a4PLgw1)
- - ⏩ [I mean, Who wouldn&#39;t take the cookies?](http://9gag.com/gag/a4PLye6)
- - 👉 [Just wanted to share some life hack for summer](http://9gag.com/gag/a6ZLe9N)<!-- MEMES:END -->
+ - 💣 [Holy shit I thought for sure you were all exaggerating](http://9gag.com/gag/an7B05o)
+ - ⏩ [Just wanted to share some life hack for summer](http://9gag.com/gag/a6ZLe9N)
+ - 👉 [Texas lady is not amused](http://9gag.com/gag/a2vqpVE)<!-- MEMES:END -->
 
 ---
 
