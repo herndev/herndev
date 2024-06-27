@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Zooming](http://9gag.com/gag/ayNnV18)
- - ⏩ [Voluptuous Latina](http://9gag.com/gag/aO8mAQR)
- - 👉 [No more butt hurt](http://9gag.com/gag/a6ZLeeA)<!-- MEMES:END -->
+ - 💣 [Good old days](http://9gag.com/gag/a9yP4MD)
+ - ⏩ [Spielberg Humiliates Kathleen Kennedy](http://9gag.com/gag/a6ZL4p8)
+ - 👉 [Wow](http://9gag.com/gag/an7B0LB)<!-- MEMES:END -->
 
 ---
 
