@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Absolutely shameless](http://9gag.com/gag/a6ZL68b)
- - ⏩ [No more butt hurt](http://9gag.com/gag/a6ZLeeA)
- - 👉 [Gyms in 2024](http://9gag.com/gag/aryRwZV)<!-- MEMES:END -->
+ - 💣 [We do](http://9gag.com/gag/a1mYjmY)
+ - ⏩ [Facts](http://9gag.com/gag/aryRwzK)
+ - 👉 [When supervisor doesn&#39;t show up to work for a day](http://9gag.com/gag/apRBwKb)<!-- MEMES:END -->
 
 ---
 
