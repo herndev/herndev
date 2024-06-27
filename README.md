@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [I tried out RCS messages between iPhone and Android: Here’s how it works](https://www.androidauthority.com/rcs-iphone-hands-on-3454911/)
- - [KarmaCheck, which uses AI for conducting background checks and was founded by LinkedIn&#39;s Eric Ly, raised a $45M Series B, bringing total funding to $60M &lpar;Duncan Riley/SiliconANGLE&rpar;](http://www.techmeme.com/240627/p17#a240627p17)
- - [Fitbit users can finally add American Express cards to Google Wallet](https://www.androidauthority.com/fitbit-american-express-wallet-3455178/)<!-- TECH:END -->
+ - [The rise of shadow lobbying and its influence on decades of US policy](https://www.theverge.com/24187255/wolves-of-k-street-brody-mullins-lobbying-us-policy-politics-decoder-podcast)
+ - [Xbox Cloud Gaming is coming to Amazon’s Fire TV Sticks in July](https://www.theverge.com/2024/6/27/24187164/xbox-cloud-gaming-tv-app-fire-tv-stick-amazon-launch)
+ - [How one of the biggest political TikTokers actually makes a living](https://www.theverge.com/24186494/under-the-desk-news-tiktok-full-frame-creators)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
