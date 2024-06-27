@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [A Quiet Place: Day One lives up to the first movie by doing something radically different](https://www.polygon.com/reviews/24187509/quiet-place-day-one-review-prequel)
- - [There’s A Fantastic Fake Tourism Site For Final Fantasy XIV: Dawntrail’s New World](https://kotaku.com/final-fantasy-14-dawntrail-turalism-site-rhys-darby-1851564573)
- - [9 Things We Just Learned About PlayStation&#39;s Sci-Fi Shooter Concord](https://kotaku.com/concord-ps5-previews-maps-beta-signup-fps-1851564594)<!-- GAME:END -->
+ - [It’s The Summer of George R.R. Martin Even Though He Hasn’t Finished A Book In Five Years](https://kotaku.com/elden-ring-house-of-the-dragon-george-rr-martin-1851564857)
+ - [Frostpunk 2 delayed because its developers want to add features &#39;you deserve to see in-game on day one, not in a patch added after the release&#39;](https://www.pcgamer.com/games/city-builder/frostpunk-2-delayed-because-its-developers-want-to-add-features-you-deserve-to-see-in-game-on-day-one-not-in-a-patch-added-after-the-release)
+ - [New DLC weapon locations in Elden Ring Shadow of the Erdtree](https://www.polygon.com/elden-ring-shadow-erdtree-guide/24180256/all-new-dlc-weapon-locations)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
