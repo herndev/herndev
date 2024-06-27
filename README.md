@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Bleach: Brave Souls Is a Faithful Action Experience With Over 600 Playable Characters](https://news.xbox.com/en-us/2024/06/27/bleach-brave-souls-600-characters/)
- - [Star Wars: Bounty Hunter remaster is coming in August, and fans are more than a little nervous after the disastrous Battlefront Classic Collection](https://www.pcgamer.com/games/action/star-wars-bounty-hunter-remaster-is-coming-in-august-and-fans-are-more-than-a-little-nervous-after-the-disastrous-battlefront-classic-collection)
- - [Where To Find Elden Ring: Shadow Of The Erdtree&#39;s Flowerstone Gavel](https://kotaku.com/elden-ring-shadow-of-erdtree-find-flowerstone-gavel-1851564168)<!-- GAME:END -->
+ - [Oh, Hey, Halo Infinite Works On PCs With Nvidia Graphics Cards Again](https://kotaku.com/halo-infinite-wont-start-nvidia-driver-update-1851564447)
+ - [Concord Devs Respond To Everyone Hating On The Trailer](https://kotaku.com/concord-dev-respond-reveal-trailer-backlash-playstation-1851564299)
+ - [How to get to Cerulean Coast in Elden Ring: Shadow of the Erdtree](https://www.polygon.com/elden-ring-shadow-erdtree-guide/24184742/cerulean-coast-how-to-get-to-route-dlc)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
