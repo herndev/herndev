@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [We do](http://9gag.com/gag/a1mYjmY)
- - ⏩ [Facts](http://9gag.com/gag/aryRwzK)
- - 👉 [When supervisor doesn&#39;t show up to work for a day](http://9gag.com/gag/apRBwKb)<!-- MEMES:END -->
+ - 💣 [Just wanted to share some life hack for summer](http://9gag.com/gag/a6ZLe9N)
+ - ⏩ [Holy shit I thought for sure you were all exaggerating](http://9gag.com/gag/an7B05o)
+ - 👉 [I mean, Who wouldn&#39;t take the cookies?](http://9gag.com/gag/a4PLye6)<!-- MEMES:END -->
 
 ---
 
