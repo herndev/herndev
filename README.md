@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Dragon Age: The Veilguard’s Character Creator Fixes A Big Problem](https://kotaku.com/dragon-age-veilguard-character-creator-options-races-1851564939)
- - [The Dr Disrespect fallout continues as 2K Games, Turtle Beach, the NFL, and others cut ties with the disgraced streamer](https://www.pcgamer.com/gaming-industry/the-dr-disrespect-fallout-continues-as-2k-games-turtle-beach-the-nfl-and-others-cut-ties-with-the-disgraced-streamer)
- - [Needle Knight Leda questline walkthrough for Elden Ring: Shadow of the Erdtree](https://www.polygon.com/elden-ring-shadow-erdtree-guide/24187208/needle-knight-leda-questline-steps-sote-dlc)<!-- GAME:END -->
+ - [Elden Ring folk hero Let Me Solo Her has been reborn in Shadow of the Erdtree as Let Me Solo Him](https://www.pcgamer.com/games/rpg/elden-ring-folk-hero-let-me-solo-her-has-been-reborn-in-shadow-of-the-erdtree-as-let-me-solo-him)
+ - [Hidetaka Miyazaki says Elden Ring might be as big a game as he ever wants to make: &#39;Where FromSoftware is right now, in terms of scale, I would say Elden Ring is really the limit&#39;](https://www.pcgamer.com/games/rpg/hidetaka-miyazaki-says-elden-ring-might-be-as-big-a-game-as-he-ever-wants-to-make-where-fromsoftware-is-right-now-in-terms-of-scale-i-would-say-elden-ring-is-really-the-limit)
+ - [Regenerate FP Passively With This Shadow Of The Erdtree Talisman](https://kotaku.com/elden-ring-shadow-erdtree-blessed-blue-dew-talisman-1851565050)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
