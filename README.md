@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [US AT&amp;T, Verizon, T-Mobile users overseas hit by major outage](https://appleinsider.com/articles/24/06/27/us-att-verizon-t-mobile-users-overseas-hit-by-major-outage?utm_medium=rss)
- - [Odaseva, which provides data protection services for large Salesforce customers, raised a $54M Series C, bringing its total funding to $90M &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/240627/p16#a240627p16)
- - [OnePlus Pad Pro launched: The most powerful Android tablet of 2024?](https://www.androidauthority.com/oneplus-pad-pro-3455200/)<!-- TECH:END -->
+ - [I tried out RCS messages between iPhone and Android: Here’s how it works](https://www.androidauthority.com/rcs-iphone-hands-on-3454911/)
+ - [KarmaCheck, which uses AI for conducting background checks and was founded by LinkedIn&#39;s Eric Ly, raised a $45M Series B, bringing total funding to $60M &lpar;Duncan Riley/SiliconANGLE&rpar;](http://www.techmeme.com/240627/p17#a240627p17)
+ - [Fitbit users can finally add American Express cards to Google Wallet](https://www.androidauthority.com/fitbit-american-express-wallet-3455178/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
