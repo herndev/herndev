@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [No more butt hurt](http://9gag.com/gag/a6ZLeeA)
- - ⏩ [I apologise ma&#39;am or sir.](http://9gag.com/gag/avyLBjq)
- - 👉 [Wow](http://9gag.com/gag/an7B0LB)<!-- MEMES:END -->
+ - 💣 [You just can&#39;t make this up](http://9gag.com/gag/aVvX9DO)
+ - ⏩ [Just wanted to share some life hack for summer](http://9gag.com/gag/a6ZLe9N)
+ - 👉 [No more butt hurt](http://9gag.com/gag/a6ZLeeA)<!-- MEMES:END -->
 
 ---
 
