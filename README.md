@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at the pro-crypto Fairshake super PAC, which raised $169M from Coinbase, Ripple, a16z, and more, and has backed 20+ US congressional primary wins in 2024 &lpar;Jesse Hamilton/CoinDesk&rpar;](http://www.techmeme.com/240626/p50#a240626p50)
- - [You only want a bigger Pixel Watch 3 if it comes with better battery life](https://www.androidauthority.com/pixel-watch-3-xl-poll-results-3455108/)
- - [Today&#39;s NYT Connections Hints, Answers and Help for June 27, #382](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-june-27-382/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Top German antitrust official Andreas Mundt says AI is a &quot;first-class fire accelerator&quot; for anticompetitive tactics and &quot;will make all the problems only worse&quot; &lpar;Karin Matussek/Bloomberg&rpar;](http://www.techmeme.com/240627/p2#a240627p2)
+ - [Progress Software discloses a critical vulnerability in the MOVEit SFTP module; hackers exploited a similar flaw in MOVEit last year to breach ~1,800 networks &lpar;Dan Goodin/Ars Technica&rpar;](http://www.techmeme.com/240627/p1#a240627p1)
+ - [A look at the pro-crypto Fairshake super PAC, which raised $169M from Coinbase, Ripple, a16z, and more, and has backed 20+ US congressional primary wins in 2024 &lpar;Jesse Hamilton/CoinDesk&rpar;](http://www.techmeme.com/240626/p50#a240626p50)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
