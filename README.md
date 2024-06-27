@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Oh, Hey, Halo Infinite Works On PCs With Nvidia Graphics Cards Again](https://kotaku.com/halo-infinite-wont-start-nvidia-driver-update-1851564447)
- - [Concord Devs Respond To Everyone Hating On The Trailer](https://kotaku.com/concord-dev-respond-reveal-trailer-backlash-playstation-1851564299)
- - [How to get to Cerulean Coast in Elden Ring: Shadow of the Erdtree](https://www.polygon.com/elden-ring-shadow-erdtree-guide/24184742/cerulean-coast-how-to-get-to-route-dlc)<!-- GAME:END -->
+ - [A Quiet Place: Day One lives up to the first movie by doing something radically different](https://www.polygon.com/reviews/24187509/quiet-place-day-one-review-prequel)
+ - [There’s A Fantastic Fake Tourism Site For Final Fantasy XIV: Dawntrail’s New World](https://kotaku.com/final-fantasy-14-dawntrail-turalism-site-rhys-darby-1851564573)
+ - [9 Things We Just Learned About PlayStation&#39;s Sci-Fi Shooter Concord](https://kotaku.com/concord-ps5-previews-maps-beta-signup-fps-1851564594)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
