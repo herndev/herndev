@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Football team scores without touching the ball](http://9gag.com/gag/a0eYD7q)
- - ⏩ [Judged by color](http://9gag.com/gag/ayNnAy8)
- - 👉 [No more butt hurt](http://9gag.com/gag/a6ZLeeA)<!-- MEMES:END -->
+ - 💣 [Ahoy, mateys! yarrr!](http://9gag.com/gag/aByrjgP)
+ - ⏩ [No more butt hurt](http://9gag.com/gag/a6ZLeeA)
+ - 👉 [Master with severe depression, PhD with slight burnout. But I got it!](http://9gag.com/gag/azxVv7m)<!-- MEMES:END -->
 
 ---
 
