@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Holy shit I thought for sure you were all exaggerating](http://9gag.com/gag/an7B05o)
- - ⏩ [Just wanted to share some life hack for summer](http://9gag.com/gag/a6ZLe9N)
- - 👉 [Texas lady is not amused](http://9gag.com/gag/a2vqpVE)<!-- MEMES:END -->
+ - 💣 [Okey...](http://9gag.com/gag/aAyp5K9)
+ - ⏩ [Police: We are truly swamped!](http://9gag.com/gag/ayNnm5p)
+ - 👉 [No more butt hurt](http://9gag.com/gag/a6ZLeeA)<!-- MEMES:END -->
 
 ---
 
