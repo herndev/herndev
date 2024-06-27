@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Facts](http://9gag.com/gag/aryRwzK)
- - ⏩ [Racoon](http://9gag.com/gag/aNDKMGv)
- - 👉 [When a 9gagger occasionally leaves his home.](http://9gag.com/gag/aLnBovM)<!-- MEMES:END -->
+ - 💣 [ICantBeliveThatWorked](http://9gag.com/gag/a4PLgw1)
+ - ⏩ [I mean, Who wouldn&#39;t take the cookies?](http://9gag.com/gag/a4PLye6)
+ - 👉 [Just wanted to share some life hack for summer](http://9gag.com/gag/a6ZLe9N)<!-- MEMES:END -->
 
 ---
 
