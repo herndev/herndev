@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Future Total War: Warhammer 3 DLC will expand the popular Immortal Empires campaign instead of the controversial Realm of Chaos because &#39;Immortal Empires is the quintessential Warhammer experience&#39;](https://www.pcgamer.com/games/strategy/future-total-war-warhammer-3-dlc-will-expand-the-popular-immortal-empires-campaign-instead-of-the-controversial-realm-of-chaos-because-immortal-empires-is-the-quintessential-warhammer-experience)
  - [This twin-stick shooter is a Desert Strike throwback except your helicopter talks, drinks blood, and defends the world from a lizard-man invasion](https://www.pcgamer.com/games/action/this-twin-stick-shooter-is-a-desert-strike-throwback-except-your-helicopter-talks-drinks-blood-and-defends-the-world-from-a-lizard-man-invasion)
- - [Look out, Shadowplay: Steam now has a built-in &#39;Game Recording&#39; feature that will automatically record gameplay videos you can clip, share, and export](https://www.pcgamer.com/software/look-out-shadowplay-steam-now-has-a-built-in-game-recording-feature-that-will-automatically-record-gameplay-videos-you-can-clip-share-and-export)
- - [Shadow of the Erdtree&#39;s brutal difficulty spike is what happens when you inject Dark Souls into Elden Ring](https://www.pcgamer.com/games/rpg/shadow-of-the-erdtrees-brutal-difficulty-spike-is-what-happens-when-you-inject-dark-souls-into-elden-ring)<!-- GAME:END -->
+ - [Look out, Shadowplay: Steam now has a built-in &#39;Game Recording&#39; feature that will automatically record gameplay videos you can clip, share, and export](https://www.pcgamer.com/software/look-out-shadowplay-steam-now-has-a-built-in-game-recording-feature-that-will-automatically-record-gameplay-videos-you-can-clip-share-and-export)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
