@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The US DOJ indicts a Russian national, who remains at large, for his alleged involvement in the WhisperGate malware attack on Ukrainian systems in January 2022 &lpar;Katie Mettler/Washington Post&rpar;](http://www.techmeme.com/240626/p47#a240626p47)
  - [Former CEO of digital pharma ad company Outcome Health is sentenced to seven and a half years in prison, after being found guilty of a ~$1B fraud in April 2023 &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240626/p46#a240626p46)
- - [Best Portable Mini Bluetooth Speakers for 2024: Top Compact Waterproof Wireless Speakers](https://www.cnet.com/tech/home-entertainment/best-portable-mini-bluetooth-speaker/#ftag=CAD590a51e)
- - [ORA, a blockchain project to incorporate AI into decentralized apps, raised a $20M Series A from Polychain, HF0, HashKey Capital, and others &lpar;Bradley Keoun/CoinDesk&rpar;](http://www.techmeme.com/240626/p45#a240626p45)<!-- TECH:END -->
+ - [Best Blood Pressure Monitors to Consider in 2024](https://www.cnet.com/health/medical/best-blood-pressure-monitor/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
