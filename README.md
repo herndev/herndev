@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Okey...](http://9gag.com/gag/aAyp5K9)
- - ⏩ [Police: We are truly swamped!](http://9gag.com/gag/ayNnm5p)
- - 👉 [No more butt hurt](http://9gag.com/gag/a6ZLeeA)<!-- MEMES:END -->
+ - 💣 [No more butt hurt](http://9gag.com/gag/a6ZLeeA)
+ - ⏩ [Truly a beautiful human inside and out...we can learn from her](http://9gag.com/gag/a34Le6Q)
+ - 👉 [You just can&#39;t make this up](http://9gag.com/gag/aVvX9DO)<!-- MEMES:END -->
 
 ---
 
