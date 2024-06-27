@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Elden Ring folk hero Let Me Solo Her has been reborn in Shadow of the Erdtree as Let Me Solo Him](https://www.pcgamer.com/games/rpg/elden-ring-folk-hero-let-me-solo-her-has-been-reborn-in-shadow-of-the-erdtree-as-let-me-solo-him)
- - [Hidetaka Miyazaki says Elden Ring might be as big a game as he ever wants to make: &#39;Where FromSoftware is right now, in terms of scale, I would say Elden Ring is really the limit&#39;](https://www.pcgamer.com/games/rpg/hidetaka-miyazaki-says-elden-ring-might-be-as-big-a-game-as-he-ever-wants-to-make-where-fromsoftware-is-right-now-in-terms-of-scale-i-would-say-elden-ring-is-really-the-limit)
- - [Regenerate FP Passively With This Shadow Of The Erdtree Talisman](https://kotaku.com/elden-ring-shadow-erdtree-blessed-blue-dew-talisman-1851565050)<!-- GAME:END -->
+ - [Multiple Assassin&#39;s Creed remakes are in the works, according to Ubisoft CEO: &#39;There are worlds in some of our older Assassin&#39;s Creed games that are still extremely rich&#39;](https://www.pcgamer.com/games/assassins-creed/multiple-assassins-creed-remakes-are-in-the-works-according-to-ubisoft-ceo-there-are-worlds-in-some-of-our-older-assassins-creed-games-that-are-still-extremely-rich)
+ - [Our Favorite Xbox Games For Summer Travel | Official Xbox Podcast](https://news.xbox.com/en-us/podcast/our-favorite-xbox-games-for-summer-travel-official-xbox-podcast/)
+ - [Paramount rounds out a grim month for media preservation by nuking 25 years of Comedy Central video](https://www.pcgamer.com/movies-tv/paramount-rounds-out-a-grim-month-for-media-preservation-by-nuking-25-years-of-comedy-central-video)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
