@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [It’s The Summer of George R.R. Martin Even Though He Hasn’t Finished A Book In Five Years](https://kotaku.com/elden-ring-house-of-the-dragon-george-rr-martin-1851564857)
- - [Frostpunk 2 delayed because its developers want to add features &#39;you deserve to see in-game on day one, not in a patch added after the release&#39;](https://www.pcgamer.com/games/city-builder/frostpunk-2-delayed-because-its-developers-want-to-add-features-you-deserve-to-see-in-game-on-day-one-not-in-a-patch-added-after-the-release)
- - [New DLC weapon locations in Elden Ring Shadow of the Erdtree](https://www.polygon.com/elden-ring-shadow-erdtree-guide/24180256/all-new-dlc-weapon-locations)<!-- GAME:END -->
+ - [Dragon Age: The Veilguard’s Character Creator Fixes A Big Problem](https://kotaku.com/dragon-age-veilguard-character-creator-options-races-1851564939)
+ - [The Dr Disrespect fallout continues as 2K Games, Turtle Beach, the NFL, and others cut ties with the disgraced streamer](https://www.pcgamer.com/gaming-industry/the-dr-disrespect-fallout-continues-as-2k-games-turtle-beach-the-nfl-and-others-cut-ties-with-the-disgraced-streamer)
+ - [Needle Knight Leda questline walkthrough for Elden Ring: Shadow of the Erdtree](https://www.polygon.com/elden-ring-shadow-erdtree-guide/24187208/needle-knight-leda-questline-steps-sote-dlc)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
