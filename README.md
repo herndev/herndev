@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Judged by color](http://9gag.com/gag/ayNnAy8)
- - ⏩ [Bro missed](http://9gag.com/gag/avyLqm5)
- - 👉 [Footage of the Roman Empire using Midjourney and the Luma Dream Machine](http://9gag.com/gag/aByr5q2)<!-- MEMES:END -->
+ - 💣 [Lisa gets it](http://9gag.com/gag/a7obg5e)
+ - ⏩ [I\u2019m sure most people will think this is a scam, or weird, or whatever. But if anyone is feeling depressed please contact me. I\u2019m happy to chit-chat about any issues and offer advice. I\u2019m old now. Will delete if this gets a shit ton of trolls.](http://9gag.com/gag/a4PL8jm)
+ - 👉 [Wow](http://9gag.com/gag/an7B0LB)<!-- MEMES:END -->
 
 ---
 
