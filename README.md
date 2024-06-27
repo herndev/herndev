@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung may have just revealed the Galaxy S25’s main camera](https://www.androidauthority.com/samsung-new-camera-sensors-galaxy-s25-3454258/)
- - [Google Translate is getting support for more than 110 new languages](https://www.theverge.com/2024/6/27/24186223/google-translate-110-new-languages)
- - [Blancpain Fifty Fathoms Bathyscaphe Quantieme Complet Phase de Lune: price, specs, availability](https://www.wired.com/story/blancpain-fifty-fathoms-bathyscaphe-quantieme-complet-phase-de-lune-ceramic-bracelet/)<!-- TECH:END -->
+ - [You’re not alone: International roaming is down for US carriers](https://www.androidauthority.com/international-roaming-down-outage-us-carriers-3455143/)
+ - [An interview with Netflix&#39;s VP of external games Leanne Loombe on its push into gaming, focusing on narrative games without ads or in-app purchases, and more &lpar;Gene Park/Washington Post&rpar;](http://www.techmeme.com/240627/p10#a240627p10)
+ - [Google Pixel Fold 2 rumors: Everything we know and what we want to see](https://www.androidauthority.com/google-pixel-fold-2-3385460/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
