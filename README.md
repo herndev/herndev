@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [&#39;I absolutely suck at video games&#39;: Hidetaka Miyazaki discusses how he prepped for Elden Ring: Shadow of the Erdtree](https://www.pcgamer.com/games/rpg/i-absolutely-suck-at-video-games-hidetaka-miyazaki-discusses-how-he-prepped-for-elden-ring-shadow-of-the-erdtree)
- - [Nice, you can kill Conor McGregor in Hitman’s new DLC](https://www.polygon.com/24186771/hitman-conor-mcgregor-elusive-target-ufc-disruptor-dlc)
- - [I&#39;ve just been put to shame: Elden Ring: Shadow of the Erdtree player parries its final boss into the dirt like they&#39;re Gwyn, Lord of Chumps](https://www.pcgamer.com/games/rpg/i-ve-just-been-put-to-shame-elden-ring-shadow-of-the-erdtree-player-parries-its-final-boss-into-the-dirt-like-he-s-gwyn-lord-of-chumps)<!-- GAME:END -->
+ - [Jango Fett returns in enhanced Star Wars: Bounty Hunter, coming to PS5 August 1](https://blog.playstation.com/2024/06/27/jango-fett-returns-in-enhanced-star-wars-bounty-hunter-coming-to-ps5-august-1/)
+ - [Even Torrent is scared of the new Elden Ring DLC](https://www.polygon.com/24186582/elden-ring-dlc-shadow-erdtree-torrent-scared)
+ - [&#39;I absolutely suck at video games&#39;: Hidetaka Miyazaki discusses how he prepped for Elden Ring: Shadow of the Erdtree](https://www.pcgamer.com/games/rpg/i-absolutely-suck-at-video-games-hidetaka-miyazaki-discusses-how-he-prepped-for-elden-ring-shadow-of-the-erdtree)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
