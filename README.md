@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A meeting to consider a bipartisan privacy bill just crumbled](https://www.theverge.com/2024/6/27/24187313/house-energy-commerce-committee-cancels-apra-privacy-bill-markup)
- - [HONOR wants to be like Apple and make its next phone even thinner](https://www.androidauthority.com/honor-magic-v3-teaser-3455427/)
- - [The FCC wants to make it easier to unlock cellphones](https://www.theverge.com/2024/6/27/24187651/fcc-cell-phone-unlock-rules-60-days)<!-- TECH:END -->
+ - [FCC proposes 60-day unlocking rule for all mobile phones](https://www.androidauthority.com/fcc-mobile-unlocking-proposal-3455448/)
+ - [The New York Times’ excellent word search game is now in its Games app](https://www.theverge.com/2024/6/27/24187656/new-york-times-strands-word-search-games-app)
+ - [Meta releases LLM Compiler, a family of models built on Code Llama specifically designed for code optimization tasks, available with 7B and 13B parameters &lpar;Michael Nu&amp;ntilde;ez/VentureBeat&rpar;](http://www.techmeme.com/240627/p35#a240627p35)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
