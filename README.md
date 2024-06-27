@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The rise of shadow lobbying and its influence on decades of US policy](https://www.theverge.com/24187255/wolves-of-k-street-brody-mullins-lobbying-us-policy-politics-decoder-podcast)
- - [Xbox Cloud Gaming is coming to Amazon’s Fire TV Sticks in July](https://www.theverge.com/2024/6/27/24187164/xbox-cloud-gaming-tv-app-fire-tv-stick-amazon-launch)
- - [How one of the biggest political TikTokers actually makes a living](https://www.theverge.com/24186494/under-the-desk-news-tiktok-full-frame-creators)<!-- TECH:END -->
+ - [These smart binoculars can identify thousands of stars and over a million landmarks](https://www.theverge.com/2024/6/27/24187221/unistellar-smart-binoculars-augmented-reality)
+ - [Clay, which develops AI tools focused on sales and marketing for businesses, raised $46M at a $500M valuation, bringing its total funding to $66M &lpar;Katie Roof/Bloomberg&rpar;](http://www.techmeme.com/240627/p25#a240627p25)
+ - [Google Lens could soon become a true Circle to Search alternative &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-lens-circle-to-search-alternative-apk-teardown-3455214/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
