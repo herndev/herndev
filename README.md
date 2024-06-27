@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [No more butt hurt](http://9gag.com/gag/a6ZLeeA)
- - ⏩ [Truly a beautiful human inside and out...we can learn from her](http://9gag.com/gag/a34Le6Q)
- - 👉 [You just can&#39;t make this up](http://9gag.com/gag/aVvX9DO)<!-- MEMES:END -->
+ - ⏩ [I apologise ma&#39;am or sir.](http://9gag.com/gag/avyLBjq)
+ - 👉 [Wow](http://9gag.com/gag/an7B0LB)<!-- MEMES:END -->
 
 ---
 
