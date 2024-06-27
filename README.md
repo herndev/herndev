@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [BMW M5 gets its first plug — and gains a lot of weight](https://www.theverge.com/2024/6/26/24186750/2025-bmw-m5-plug-in-hybrid)
- - [Crypto investment app Abra and CEO William Barhydt settle with 25 US states for operating without proper licenses and will return up to $82.1M to US customers &lpar;Cheyenne Ligon/CoinDesk&rpar;](http://www.techmeme.com/240626/p43#a240626p43)
- - [You will never guess Wordle’s terrible, hilarious original name](https://www.theverge.com/24186786/wordle-original-name-mr-bugs-wordy-nugz-wardle)<!-- TECH:END -->
+ - [ORA, a blockchain project to incorporate AI into decentralized apps, raised a $20M Series A from Polychain, HF0, HashKey Capital, and others &lpar;Bradley Keoun/CoinDesk&rpar;](http://www.techmeme.com/240626/p45#a240626p45)
+ - [Figma debuts a major UI redesign, new generative AI tools, and a built-in slideshow feature, which is free in beta but will be a paid product at official launch &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/240626/p44#a240626p44)
+ - [Best Solar Companies of June 2024](https://www.cnet.com/home/energy-and-utilities/best-solar-companies/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
