@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Some random store Guess the Country](http://9gag.com/gag/aQznb4r)
- - ⏩ [You just can&#39;t make this up](http://9gag.com/gag/aVvX9DO)
- - 👉 [Woodstock 1969 - Artist salary breakdown](http://9gag.com/gag/aXPXmW6)<!-- MEMES:END -->
+ - 💣 [Facts](http://9gag.com/gag/aryRwzK)
+ - ⏩ [Racoon](http://9gag.com/gag/aNDKMGv)
+ - 👉 [When a 9gagger occasionally leaves his home.](http://9gag.com/gag/aLnBovM)<!-- MEMES:END -->
 
 ---
 
