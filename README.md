@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Free Play Days – Train Sim World 4 and Pac-Man Mega Tunnel Battle: Chomp Champs](https://news.xbox.com/en-us/2024/06/27/free-play-days-train-sim-world-4-and-pac-man-mega-tunnel-battle-chomp-champs/)
- - [TP-Link Archer GE800 review](https://www.pcgamer.com/hardware/networking/tp-link-archer-ge800-review)
- - [Elden Ring Director Talks About Beating His Own Game: &#39;I Absolutely Suck&#39;](https://kotaku.com/elden-ring-director-hidetaka-miyazaki-beating-game-dlc-1851563792)<!-- GAME:END -->
+ - [The latest attempt to revive Tribes looks cooked after three months](https://www.pcgamer.com/games/fps/the-latest-attempt-to-revive-tribes-looks-cooked-after-three-months)
+ - [Elden Ring: Shadow of the Erdtree reaches 5M players in first week](https://www.polygon.com/24187358/elden-ring-shadow-of-the-erdtree-copies-sold)
+ - [Where To Find Elden Ring: Shadow Of The Erdtree&#39;s Horned Warrior’s Sword](https://kotaku.com/elden-ring-shadow-erdtree-horned-warriors-sword-guide-1851563857)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
