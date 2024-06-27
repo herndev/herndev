@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Master with severe depression, PhD with slight burnout. But I got it!](http://9gag.com/gag/azxVv7m)
- - ⏩ [For me this is peak cinema](http://9gag.com/gag/ajPnj8x)
- - 👉 [`Hear me out... `](http://9gag.com/gag/amo8beo)<!-- MEMES:END -->
+ - 💣 [Football team scores without touching the ball](http://9gag.com/gag/a0eYD7q)
+ - ⏩ [Judged by color](http://9gag.com/gag/ayNnAy8)
+ - 👉 [No more butt hurt](http://9gag.com/gag/a6ZLeeA)<!-- MEMES:END -->
 
 ---
 
