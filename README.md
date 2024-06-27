@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The latest attempt to revive Tribes looks cooked after three months](https://www.pcgamer.com/games/fps/the-latest-attempt-to-revive-tribes-looks-cooked-after-three-months)
- - [Elden Ring: Shadow of the Erdtree reaches 5M players in first week](https://www.polygon.com/24187358/elden-ring-shadow-of-the-erdtree-copies-sold)
- - [Where To Find Elden Ring: Shadow Of The Erdtree&#39;s Horned Warrior’s Sword](https://kotaku.com/elden-ring-shadow-erdtree-horned-warriors-sword-guide-1851563857)<!-- GAME:END -->
+ - [Bleach: Brave Souls Is a Faithful Action Experience With Over 600 Playable Characters](https://news.xbox.com/en-us/2024/06/27/bleach-brave-souls-600-characters/)
+ - [Star Wars: Bounty Hunter remaster is coming in August, and fans are more than a little nervous after the disastrous Battlefront Classic Collection](https://www.pcgamer.com/games/action/star-wars-bounty-hunter-remaster-is-coming-in-august-and-fans-are-more-than-a-little-nervous-after-the-disastrous-battlefront-classic-collection)
+ - [Where To Find Elden Ring: Shadow Of The Erdtree&#39;s Flowerstone Gavel](https://kotaku.com/elden-ring-shadow-of-erdtree-find-flowerstone-gavel-1851564168)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
