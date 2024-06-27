@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Just wanted to share some life hack for summer](http://9gag.com/gag/a6ZLe9N)
- - ⏩ [Holy shit I thought for sure you were all exaggerating](http://9gag.com/gag/an7B05o)
- - 👉 [I mean, Who wouldn&#39;t take the cookies?](http://9gag.com/gag/a4PLye6)<!-- MEMES:END -->
+ - 💣 [Some random store Guess the Country](http://9gag.com/gag/aQznb4r)
+ - ⏩ [You just can&#39;t make this up](http://9gag.com/gag/aVvX9DO)
+ - 👉 [Woodstock 1969 - Artist salary breakdown](http://9gag.com/gag/aXPXmW6)<!-- MEMES:END -->
 
 ---
 
