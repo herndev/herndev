@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Ahoy, mateys! yarrr!](http://9gag.com/gag/aByrjgP)
- - ⏩ [No more butt hurt](http://9gag.com/gag/a6ZLeeA)
- - 👉 [Master with severe depression, PhD with slight burnout. But I got it!](http://9gag.com/gag/azxVv7m)<!-- MEMES:END -->
+ - 💣 [We do](http://9gag.com/gag/a1mYjmY)
+ - ⏩ [Holy shit I thought for sure you were all exaggerating](http://9gag.com/gag/an7B05o)
+ - 👉 [`Hear me out... `](http://9gag.com/gag/amo8beo)<!-- MEMES:END -->
 
 ---
 
