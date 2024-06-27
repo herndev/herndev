@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google adds support for 110 new languages in Translate, up from 133 languages before this update, its largest expansion ever, aided by the company&#39;s PaLM 2 LLM &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/240627/p12#a240627p12)
- - [Naver-owned online comics platform Webtoon raised $315M in its Nasdaq IPO at $21 per share, the top of its $18-$21 marketed range, valuing the company at $2.7B &lpar;Song Jung-a/Financial Times&rpar;](http://www.techmeme.com/240627/p11#a240627p11)
- - [You’re not alone: International roaming is down for US carriers](https://www.androidauthority.com/international-roaming-down-outage-us-carriers-3455143/)<!-- TECH:END -->
+ - [YouTube is trying to make AI music deals with major record labels](https://www.theverge.com/2024/6/27/24187151/youtube-ai-music-deals-licensing-record-labels-sony-umg-warner)
+ - [Meta&#39;s Oversight Board says it issued 53 decisions in 2023 and that Meta has fully or partially implemented 75 out of 266 recommendations since January 2021 &lpar;Karissa Bell/Engadget&rpar;](http://www.techmeme.com/240627/p14#a240627p14)
+ - [Apple changes stance on third-party repairs, will soon no longer disable some iPhone features](https://www.androidauthority.com/third-party-repairs-no-longer-disable-iphone-features-3455144/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
