@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Many key apps are now native for Windows on Arm, like Photoshop, Dropbox, Zoom, Chrome, and Spotify; Prism emulation is good but struggles with heavyweight apps &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/240626/p49#a240626p49)
- - [New evidence suggests that Gery Shalon, mastermind of the 2014 JPMorgan hack, built a massive new fraud empire in Europe while he was cooperating with the FBI &lpar;Bloomberg&rpar;](http://www.techmeme.com/240626/p48#a240626p48)
- - [The US DOJ indicts a Russian national, who remains at large, for his alleged involvement in the WhisperGate malware attack on Ukrainian systems in January 2022 &lpar;Katie Mettler/Washington Post&rpar;](http://www.techmeme.com/240626/p47#a240626p47)<!-- TECH:END -->
+ - [A look at the pro-crypto Fairshake super PAC, which raised $169M from Coinbase, Ripple, a16z, and more, and has backed 20+ US congressional primary wins in 2024 &lpar;Jesse Hamilton/CoinDesk&rpar;](http://www.techmeme.com/240626/p50#a240626p50)
+ - [You only want a bigger Pixel Watch 3 if it comes with better battery life](https://www.androidauthority.com/pixel-watch-3-xl-poll-results-3455108/)
+ - [Today&#39;s NYT Connections Hints, Answers and Help for June 27, #382](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-june-27-382/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
