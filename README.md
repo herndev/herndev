@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Just wanted to share some life hack for summer](http://9gag.com/gag/a6ZLe9N)
- - ⏩ [They are living with us, near you, maybe they are your neighbours...or maybe it&#39;s you !](http://9gag.com/gag/a9yPNXj)
- - 👉 [Master with severe depression, PhD with slight burnout. But I got it!](http://9gag.com/gag/azxVv7m)<!-- MEMES:END -->
+ - 💣 [Absolutely shameless](http://9gag.com/gag/a6ZL68b)
+ - ⏩ [No more butt hurt](http://9gag.com/gag/a6ZLeeA)
+ - 👉 [Gyms in 2024](http://9gag.com/gag/aryRwZV)<!-- MEMES:END -->
 
 ---
 
