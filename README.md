@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [The Ryzen 7 7800X3D is so good at gaming, AMD might give more juice to the Ryzen 7 9700X in order to beat it](https://www.pcgamer.com/hardware/processors/the-ryzen-7-7800x3d-is-so-good-at-gaming-amd-might-give-more-juice-to-the-ryzen-7-9700x-in-order-to-beat-it)
  - [Intel claims its optical interconnect chiplet technology is &#39;like going from using horse-drawn carriages to using cars and trucks&#39;](https://www.pcgamer.com/hardware/vr-hardware/intel-claims-its-optical-interconnect-chiplet-technology-is-like-going-from-using-horse-drawn-carriages-to-using-cars-and-trucks)
- - [Today&#39;s Wordle answer for Thursday, June 27](https://www.pcgamer.com/games/puzzle/wordle-answer-today-june-27-2024)
- - [Future Total War: Warhammer 3 DLC will expand the popular Immortal Empires campaign instead of the controversial Realm of Chaos because &#39;Immortal Empires is the quintessential Warhammer experience&#39;](https://www.pcgamer.com/games/strategy/future-total-war-warhammer-3-dlc-will-expand-the-popular-immortal-empires-campaign-instead-of-the-controversial-realm-of-chaos-because-immortal-empires-is-the-quintessential-warhammer-experience)<!-- GAME:END -->
+ - [Today&#39;s Wordle answer for Thursday, June 27](https://www.pcgamer.com/games/puzzle/wordle-answer-today-june-27-2024)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
