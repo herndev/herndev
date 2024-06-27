@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Tasks could soon lose its bottom bar &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-tasks-replaces-bottom-bar-3455337/)
- - [Google Contacts widget now displays shared location and message notifications](https://www.androidauthority.com/google-contacts-widget-location-message-notifications-3455248/)
- - [Amazon folds its Amazon Clinic telehealth service into One Medical, with more affordable per-visit pricing: $49 for a video call or $29 to text a doctor &lpar;Lauren Forristal/TechCrunch&rpar;](http://www.techmeme.com/240627/p32#a240627p32)<!-- TECH:END -->
+ - [In an interview, Mark Zuckerberg says there will not be &quot;just one AI&quot;, disparages closed-source AI competitors as trying to &quot;create God&quot;, and more &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/240627/p34#a240627p34)
+ - [Instagram is starting to let some creators make AI versions of themselves](https://www.theverge.com/2024/6/27/24187502/instagram-ai-studio-versions-chatbot)
+ - [Qualcomm wants OEMs to have easier time updating Android, will announce something later this year](https://www.androidauthority.com/qualcomm-updates-oems-2024-3455346/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
