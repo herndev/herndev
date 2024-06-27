@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Ryzen 7 7800X3D is so good at gaming, AMD might give more juice to the Ryzen 7 9700X in order to beat it](https://www.pcgamer.com/hardware/processors/the-ryzen-7-7800x3d-is-so-good-at-gaming-amd-might-give-more-juice-to-the-ryzen-7-9700x-in-order-to-beat-it)
- - [Intel claims its optical interconnect chiplet technology is &#39;like going from using horse-drawn carriages to using cars and trucks&#39;](https://www.pcgamer.com/hardware/vr-hardware/intel-claims-its-optical-interconnect-chiplet-technology-is-like-going-from-using-horse-drawn-carriages-to-using-cars-and-trucks)
- - [Today&#39;s Wordle answer for Thursday, June 27](https://www.pcgamer.com/games/puzzle/wordle-answer-today-june-27-2024)<!-- GAME:END -->
+ - [Nice, you can kill Conor McGregor in Hitman’s new DLC](https://www.polygon.com/24186771/hitman-conor-mcgregor-elusive-target-ufc-disruptor-dlc)
+ - [I&#39;ve just been put to shame: Elden Ring: Shadow of the Erdtree player parries its final boss into the dirt like they&#39;re Gwyn, Lord of Chumps](https://www.pcgamer.com/games/rpg/i-ve-just-been-put-to-shame-elden-ring-shadow-of-the-erdtree-player-parries-its-final-boss-into-the-dirt-like-he-s-gwyn-lord-of-chumps)
+ - [Razer Huntsman V3 Pro TKL review](https://www.pcgamer.com/hardware/gaming-keyboards/razer-huntsman-v3-pro-tkl-review)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
