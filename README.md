@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle answer for Thursday, June 27](https://www.pcgamer.com/games/puzzle/wordle-answer-today-june-27-2024)
  - [Future Total War: Warhammer 3 DLC will expand the popular Immortal Empires campaign instead of the controversial Realm of Chaos because &#39;Immortal Empires is the quintessential Warhammer experience&#39;](https://www.pcgamer.com/games/strategy/future-total-war-warhammer-3-dlc-will-expand-the-popular-immortal-empires-campaign-instead-of-the-controversial-realm-of-chaos-because-immortal-empires-is-the-quintessential-warhammer-experience)
- - [This twin-stick shooter is a Desert Strike throwback except your helicopter talks, drinks blood, and defends the world from a lizard-man invasion](https://www.pcgamer.com/games/action/this-twin-stick-shooter-is-a-desert-strike-throwback-except-your-helicopter-talks-drinks-blood-and-defends-the-world-from-a-lizard-man-invasion)
- - [Look out, Shadowplay: Steam now has a built-in &#39;Game Recording&#39; feature that will automatically record gameplay videos you can clip, share, and export](https://www.pcgamer.com/software/look-out-shadowplay-steam-now-has-a-built-in-game-recording-feature-that-will-automatically-record-gameplay-videos-you-can-clip-share-and-export)<!-- GAME:END -->
+ - [This twin-stick shooter is a Desert Strike throwback except your helicopter talks, drinks blood, and defends the world from a lizard-man invasion](https://www.pcgamer.com/games/action/this-twin-stick-shooter-is-a-desert-strike-throwback-except-your-helicopter-talks-drinks-blood-and-defends-the-world-from-a-lizard-man-invasion)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
