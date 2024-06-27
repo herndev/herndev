@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [These smart binoculars can identify thousands of stars and over a million landmarks](https://www.theverge.com/2024/6/27/24187221/unistellar-smart-binoculars-augmented-reality)
- - [Clay, which develops AI tools focused on sales and marketing for businesses, raised $46M at a $500M valuation, bringing its total funding to $66M &lpar;Katie Roof/Bloomberg&rpar;](http://www.techmeme.com/240627/p25#a240627p25)
- - [Google Lens could soon become a true Circle to Search alternative &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-lens-circle-to-search-alternative-apk-teardown-3455214/)<!-- TECH:END -->
+ - [OnePlus launches a new variant of the OnePlus Watch 2](https://www.androidauthority.com/oneplus-watch-2r-china-launch-3455256/)
+ - [You’re not alone: International roaming is down for US carriers &lpar;Update: Carrier statements&rpar;](https://www.androidauthority.com/international-roaming-down-outage-us-carriers-3455143/)
+ - [The newest streaming movies this week: TikTok Star Murders, Trigger Warning, and more](https://www.androidauthority.com/best-new-streaming-movies-this-week-3083965/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
