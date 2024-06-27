@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Jango Fett returns in enhanced Star Wars: Bounty Hunter, coming to PS5 August 1](https://blog.playstation.com/2024/06/27/jango-fett-returns-in-enhanced-star-wars-bounty-hunter-coming-to-ps5-august-1/)
- - [Even Torrent is scared of the new Elden Ring DLC](https://www.polygon.com/24186582/elden-ring-dlc-shadow-erdtree-torrent-scared)
- - [&#39;I absolutely suck at video games&#39;: Hidetaka Miyazaki discusses how he prepped for Elden Ring: Shadow of the Erdtree](https://www.pcgamer.com/games/rpg/i-absolutely-suck-at-video-games-hidetaka-miyazaki-discusses-how-he-prepped-for-elden-ring-shadow-of-the-erdtree)<!-- GAME:END -->
+ - [Xbox Gaming Coming to Amazon Fire TV: Play More Games, No Console Needed](https://news.xbox.com/en-us/2024/06/27/xbox-cloud-gaming-amazon-fire-tv/)
+ - [The handheld gaming PC market is already oversaturated](https://www.pcgamer.com/hardware/handheld-gaming-pcs/the-handheld-gaming-pc-market-is-already-oversaturated)
+ - [Jango Fett returns in enhanced Star Wars: Bounty Hunter, coming to PS5 August 1](https://blog.playstation.com/2024/06/27/jango-fett-returns-in-enhanced-star-wars-bounty-hunter-coming-to-ps5-august-1/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
