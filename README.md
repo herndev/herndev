@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [FCC proposes 60-day unlocking rule for all mobile phones](https://www.androidauthority.com/fcc-mobile-unlocking-proposal-3455448/)
- - [The New York Times’ excellent word search game is now in its Games app](https://www.theverge.com/2024/6/27/24187656/new-york-times-strands-word-search-games-app)
- - [Meta releases LLM Compiler, a family of models built on Code Llama specifically designed for code optimization tasks, available with 7B and 13B parameters &lpar;Michael Nu&amp;ntilde;ez/VentureBeat&rpar;](http://www.techmeme.com/240627/p35#a240627p35)<!-- TECH:END -->
+ - [Nokia agrees to acquire Infinera, which provides networking hardware and software to mobile phone operators and others, for $2.3B in a cash-and-stock deal &lpar;Bloomberg&rpar;](http://www.techmeme.com/240627/p38#a240627p38)
+ - [macOS Sequoia adds headphone accommodations for AirPods](https://appleinsider.com/articles/24/06/27/macos-sequoia-adds-headphone-accommodations-for-airpods?utm_medium=rss)
+ - [Sunday Ticket jury orders NFL to pay fans $4.7 billion in damages](https://www.theverge.com/2024/6/27/24187708/nfl-sunday-ticket-class-action-antitrust-lawsuit-verdict-damages)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
