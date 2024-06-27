@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How landlords are using AI tools to communicate with tenants, track the use of common areas, monitor energy use, and more &lpar;Julie Weed/New York Times&rpar;](http://www.techmeme.com/240627/p5#a240627p5)
- - [OpenAI&#39;s move to cut off API access to Chinese developers sets the stage for a Chinese industry shakeup and will accentuate the divide between China and the US &lpar;Bloomberg&rpar;](http://www.techmeme.com/240627/p4#a240627p4)
- - [The chair of the India Cellular and Electronics Association says thousands of Chinese engineers and technicians are struggling to obtain Indian work visas &lpar;John Reed/Financial Times&rpar;](http://www.techmeme.com/240627/p3#a240627p3)<!-- TECH:END -->
+ - [Telegram, used by half of Russia&#39;s 140M residents, has become a refuge for LGBTQ+ citizens, who routinely create new channels to avoid government surveillance &lpar;Sassafras Lowrey/Wired&rpar;](http://www.techmeme.com/240627/p9#a240627p9)
+ - [Testing ChatGPT, Vacay, and Mindtrip to plan a Norway trip shows none were perfect, but the AI chatbots streamlined travel decisions complementing one another &lpar;Ceylan Ye&amp;gbreve;insu/New York Times&rpar;](http://www.techmeme.com/240627/p8#a240627p8)
+ - [Google announces faster Sheets calculations on Chrome and Edge browsers on desktop, doubling speeds for running formulas, creating pivot tables, and more &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/240627/p7#a240627p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
