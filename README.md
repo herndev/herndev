@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [There are drastic steps to take, if your tattoo is hampering your Apple Watch](https://appleinsider.com/articles/24/06/27/there-are-drastic-steps-to-take-if-your-tattoo-is-hampering-your-apple-watch?utm_medium=rss)
- - [Deal: Save $50 on this amazing-looking Marshall Acton III speaker](https://www.androidauthority.com/marshall-acton-iii-speaker-deal-3455420/)
- - [Valve reveals the most-played Steam Deck games](https://www.theverge.com/2024/6/27/24187519/valve-steam-deck-top-100-games-chart)<!-- TECH:END -->
+ - [A meeting to consider a bipartisan privacy bill just crumbled](https://www.theverge.com/2024/6/27/24187313/house-energy-commerce-committee-cancels-apra-privacy-bill-markup)
+ - [HONOR wants to be like Apple and make its next phone even thinner](https://www.androidauthority.com/honor-magic-v3-teaser-3455427/)
+ - [The FCC wants to make it easier to unlock cellphones](https://www.theverge.com/2024/6/27/24187651/fcc-cell-phone-unlock-rules-60-days)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
