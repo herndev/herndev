@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Galaxy S25 Ultra reportedly ditching sharp corners in favor of more rounded edges](https://www.androidauthority.com/galaxy-s25-sharp-corners-3455303/)
- - [MegaLabs, the developer behind the Ethereum scaling protocol MegaETH that it claims is a &quot;real-time blockchain&quot;, raised $20M in seed funding led by Dragonfly &lpar;Margaux Nijkerk/CoinDesk&rpar;](http://www.techmeme.com/240627/p31#a240627p31)
- - [Fire TV Sticks are getting Xbox Cloud Gaming support next month](https://www.androidauthority.com/fire-tv-stick-xbox-gaming-3455298/)<!-- TECH:END -->
+ - [Google Tasks could soon lose its bottom bar &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-tasks-replaces-bottom-bar-3455337/)
+ - [Google Contacts widget now displays shared location and message notifications](https://www.androidauthority.com/google-contacts-widget-location-message-notifications-3455248/)
+ - [Amazon folds its Amazon Clinic telehealth service into One Medical, with more affordable per-visit pricing: $49 for a video call or $29 to text a doctor &lpar;Lauren Forristal/TechCrunch&rpar;](http://www.techmeme.com/240627/p32#a240627p32)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
