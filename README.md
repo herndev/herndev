@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [OnePlus launches a new variant of the OnePlus Watch 2](https://www.androidauthority.com/oneplus-watch-2r-china-launch-3455256/)
- - [You’re not alone: International roaming is down for US carriers &lpar;Update: Carrier statements&rpar;](https://www.androidauthority.com/international-roaming-down-outage-us-carriers-3455143/)
- - [The newest streaming movies this week: TikTok Star Murders, Trigger Warning, and more](https://www.androidauthority.com/best-new-streaming-movies-this-week-3083965/)<!-- TECH:END -->
+ - [Galaxy S25 Ultra reportedly ditching sharp corners in favor of more rounded edges](https://www.androidauthority.com/galaxy-s25-sharp-corners-3455303/)
+ - [MegaLabs, the developer behind the Ethereum scaling protocol MegaETH that it claims is a &quot;real-time blockchain&quot;, raised $20M in seed funding led by Dragonfly &lpar;Margaux Nijkerk/CoinDesk&rpar;](http://www.techmeme.com/240627/p31#a240627p31)
+ - [Fire TV Sticks are getting Xbox Cloud Gaming support next month](https://www.androidauthority.com/fire-tv-stick-xbox-gaming-3455298/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
