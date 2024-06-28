@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Next Week on Xbox: New Games for July 1 to 5](https://news.xbox.com/en-us/2024/06/28/next-week-on-xbox-new-games-for-july-1-to-5/)
- - [Where to unlock Viper in FFXIV](https://www.polygon.com/ffxiv-guides-ff14-final-fantasy-14-online/24186727/unlock-viper-location-how-to-quest-vpr)
- - [Where to unlock Pictomancer in FFXIV](https://www.polygon.com/ffxiv-guides-ff14-final-fantasy-14-online/24186702/pictomancer-unlock-location-how-to-quest-pct)<!-- GAME:END -->
+ - [Everyone Thought Joe Biden Was At ‘1 HP’ During The Presidential Debate](https://kotaku.com/presidential-election-joe-biden-donald-trump-memes-joke-1851566294)
+ - [Elden Ring: Shadow of the Erdtree player does an &#39;all-hit&#39; run of the DLC&#39;s final boss, refusing to dodge, block, parry, or even heal until the job is done](https://www.pcgamer.com/games/rpg/elden-ring-shadow-of-the-erdtree-player-does-an-all-hit-run-of-the-dlc-s-final-boss-refusing-to-dodge-block-parry-or-even-heal-until-the-job-is-done)
+ - [How to unlock facewear &lpar;glasses&rpar; in FFXIV](https://www.polygon.com/ffxiv-guides-ff14-final-fantasy-14-online/24188100/unlock-facewear-glasses-exchange)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
