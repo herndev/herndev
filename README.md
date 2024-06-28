@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Wow](http://9gag.com/gag/an7B0LB)
- - ⏩ [When she&#39;s safe](http://9gag.com/gag/aAyp7mR)
- - 👉 [Hippo eats a Coconut](http://9gag.com/gag/apRBX25)<!-- MEMES:END -->
+ - 💣 [This man&#39;s a legend](http://9gag.com/gag/apRBMG8)
+ - ⏩ [Bro missed](http://9gag.com/gag/avyLqm5)
+ - 👉 [Texas lady is not amused](http://9gag.com/gag/a2vqpVE)<!-- MEMES:END -->
 
 ---
 
