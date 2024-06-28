@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The best deals in the 2024 Steam Summer Sale](https://www.pcgamer.com/games/steam-summer-sale-2024-best-deals)
- - [Multiple Assassin&#39;s Creed remakes are in the works, according to Ubisoft CEO: &#39;There are worlds in some of our older Assassin&#39;s Creed games that are still extremely rich&#39;](https://www.pcgamer.com/games/assassins-creed/multiple-assassins-creed-remakes-are-in-the-works-according-to-ubisoft-ceo-there-are-worlds-in-some-of-our-older-assassins-creed-games-that-are-still-extremely-rich)
- - [Our Favorite Xbox Games For Summer Travel | Official Xbox Podcast](https://news.xbox.com/en-us/podcast/our-favorite-xbox-games-for-summer-travel-official-xbox-podcast/)<!-- GAME:END -->
+ - [&lpar;For Southeast Asia&rpar; Concord Beta dates announced, Beta Early Access launching July 13](https://blog.playstation.com/2024/06/27/20240628-concord/)
+ - [&lpar;For Southeast Asia&rpar; Concord Beta dates announced, Beta Early Access launching July 13](https://blog.playstation.com/2024/06/27/20240628-concord/)
+ - [Today&#39;s Wordle answer for Friday, June 28](https://www.pcgamer.com/games/puzzle/wordle-answer-today-june-28-2024)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
