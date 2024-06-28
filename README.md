@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Towerborne’s Belfry Aims to Be So Much More Than a Main Menu](https://news.xbox.com/en-us/2024/06/28/towerborne-belfry/)
- - [Dawntrail&#39;s opening hour made my heart so full, which is almost enough to distract me from these mysterious gimp suits](https://www.pcgamer.com/games/final-fantasy/dawntrail-s-opening-hour-made-my-heart-so-full-which-is-almost-enough-to-distract-me-from-these-mysterious-gimp-suits)
- - [Zenless Zone Zero Is Taking Big Steps To Eliminate The Gacha Grind](https://kotaku.com/zenless-zone-zero-hoyoverse-gacha-grind-1851566475)<!-- GAME:END -->
+ - [Devs Want Cyberpunk 2 To Capture The Worst Of America](https://kotaku.com/cyberpunk-2077-sequel-orion-cd-projekt-red-america-1851566572)
+ - [I keep getting lost on my way home from trading wood to trolls and giving crystals to chickens in this strange but cosy survival game](https://www.pcgamer.com/games/survival-crafting/i-keep-getting-lost-on-my-way-home-from-trading-wood-to-trolls-and-giving-crystals-to-chickens-in-this-strange-but-cosy-survival-game)
+ - [Metal Gear Solid 3 Remake Producer Says It Would Be A &#39;Dream&#39; To Work With Kojima Again](https://kotaku.com/mgs3-delta-snake-eater-remake-dev-kojima-konami-trailer-1851566548)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
