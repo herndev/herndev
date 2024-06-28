@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Framework Laptop 16, six months later](https://www.theverge.com/24185827/framework-laptop-16-six-months-later-review)
- - [Surface Pro Copilot+ review: the best Microsoft tablet yet, with a versatile Flex keyboard and decent AI features, but has noticeable heat and fan noise issues &lpar;Devindra Hardawar/Engadget&rpar;](http://www.techmeme.com/240628/p8#a240628p8)
- - [EU hits back at Apple withholding Apple Intelligence from the region](https://appleinsider.com/articles/24/06/28/eu-hits-back-at-apple-withholding-apple-intelligence-from-the-region?utm_medium=rss)<!-- TECH:END -->
+ - [It’s not just you: TikTok is down right now &lpar;Update: Back online&rpar;](https://www.androidauthority.com/tiktok-is-down-right-now-3455493/)
+ - [Samsung Galaxy Z Fold 6 rumors: Everything we know and what we want to see](https://www.androidauthority.com/samsung-galaxy-z-fold-6-3385438/)
+ - [TeamViewer warns that its corporate environment was breached in a cyberattack on June 26; NCC Group claims that TeamViewer was breached by an APT hacking group &lpar;Lawrence Abrams/BleepingComputer&rpar;](http://www.techmeme.com/240628/p10#a240628p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
