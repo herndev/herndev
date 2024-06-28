@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [An in-depth look at the development of Google DeepMind&#39;s AlphaFold, which had the biggest AI breakthrough in science by accurately predicting protein structures &lpar;Yasemin Saplakoglu/Quanta Magazine&rpar;](http://www.techmeme.com/240628/p4#a240628p4)
- - [French AI Startups Felt Unstoppable. Then Came the Election](https://www.wired.com/story/french-ai-startups-felt-unstoppable-then-came-the-election/)
- - [Tencent&#39;s shares are up 28% so far in 2024 after the strong debut of Dungeon &amp; Fighter Mobile, adding $91B in market value, more than any other Chinese company &lpar;Jeanny Yu/Bloomberg&rpar;](http://www.techmeme.com/240628/p3#a240628p3)<!-- TECH:END -->
+ - [Samsung takes inspiration from the Note 7 for the Galaxy S25 Ultra](https://www.androidauthority.com/samsung-galaxy-s25-ultra-thinner-design-3455568/)
+ - [Thought the Rabbit R1 saga couldn’t get worse? Well, it just did.](https://www.androidauthority.com/rabbit-r1-security-flaw-3455555/)
+ - [An in-depth look at the development of Google DeepMind&#39;s AlphaFold, which had the biggest AI breakthrough in science by accurately predicting protein structures &lpar;Yasemin Saplakoglu/Quanta Magazine&rpar;](http://www.techmeme.com/240628/p4#a240628p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
