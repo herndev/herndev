@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Hebbia, which is developing an AI-powered document search tool, raised a nearly $100M Series B led by a16z at a valuation between $700M and $800M &lpar;Marina Temkin/TechCrunch&rpar;](http://www.techmeme.com/240627/p41#a240627p41)
- - [Helix Mattresses Review 2024: Options for All Sleeper Types](https://www.cnet.com/health/sleep/helix-mattress-reviews/#ftag=CAD590a51e)
- - [A look at Dubai-based Bybit, whose co-founder says it became the world&#39;s second largest crypto exchange by volume partly by serving former FTX users &lpar;Ryan Weeks/Bloomberg&rpar;](http://www.techmeme.com/240627/p40#a240627p40)<!-- TECH:END -->
+ - [UGreen Nexode Pro Charger review roundup: Small fast-charging companions](https://appleinsider.com/articles/24/06/28/ugreen-nexode-pro-charger-review-roundup-small-fast-charging-companions?utm_medium=rss)
+ - [Apple&#39;s M3 MacBook Pro 14-inch with 16GB RAM drops to $1,599](https://appleinsider.com/articles/24/06/28/apples-m3-macbook-pro-14-inch-with-16gb-ram-drops-to-1599?utm_medium=rss)
+ - [Sources: Hebbia, which is developing an AI-powered document search tool, raised a nearly $100M Series B led by a16z at a valuation between $700M and $800M &lpar;Marina Temkin/TechCrunch&rpar;](http://www.techmeme.com/240627/p41#a240627p41)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
