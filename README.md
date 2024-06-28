@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon is investigating Perplexity over whether the AI search startup is violating AWS rules by scraping websites that attempted to prevent it from doing so &lpar;Wired&rpar;](http://www.techmeme.com/240627/p39#a240627p39)
- - [Don&#39;t Put Your Amazon Echo Speaker in These 5 Risky Locations](https://www.cnet.com/home/smart-home/dont-put-your-amazon-echo-speaker-in-these-5-risky-locations/#ftag=CAD590a51e)
- - [How Powerful Should Your Home Battery Be?](https://www.cnet.com/home/energy-and-utilities/how-powerful-should-your-home-battery-be/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sources: Hebbia, which is developing an AI-powered document search tool, raised a nearly $100M Series B led by a16z at a valuation between $700M and $800M &lpar;Marina Temkin/TechCrunch&rpar;](http://www.techmeme.com/240627/p41#a240627p41)
+ - [A look at Dubai-based Bybit, whose co-founder says it became the world&#39;s second largest crypto exchange by volume partly by serving former FTX users &lpar;Ryan Weeks/Bloomberg&rpar;](http://www.techmeme.com/240627/p40#a240627p40)
+ - [Perplexity AI: the answer engine with a lot of question marks](https://www.theverge.com/24187792/perplexity-ai-news-updates)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
