@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Magic: The Gathering reveals Foundations, a new set expressly made for beginners](https://www.polygon.com/24187331/mtg-foundations-announcement-release-date-price)
- - [I&#39;m now hooked on Starfield, and it&#39;s all thanks to its recent game-changing upgrade](https://www.pcgamer.com/games/rpg/im-now-hooked-on-starfield-and-its-all-thanks-to-its-recent-game-changing-upgrade)
- - [All Zenless Zone Zero codes from the 1.0 livestream](https://www.pcgamer.com/games/action/zenless-zone-zero-1-0-livestream-codes)<!-- GAME:END -->
+ - [One of Denzel Washington’s best steamy thrillers is leaving Netflix](https://www.polygon.com/24086727/devil-in-a-blue-dress-movie-denzel-washington-netflix-thriller-sexy)
+ - [AMD&#39;s FSR 3.1 finally arrives, sporting an improved upscaler for less ghosting, flickering, and shimmering in games](https://www.pcgamer.com/hardware/graphics-cards/amds-fsr-31-finally-arrives-sporting-an-improved-upscaler-for-less-ghosting-flickering-and-shimmering-in-games)
+ - [Magic: The Gathering reveals Foundations, a new set expressly made for beginners](https://www.polygon.com/24187331/mtg-foundations-announcement-release-date-price)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
