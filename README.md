@@ -46,7 +46,7 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [J.K. Trolling](http://9gag.com/gag/abAbnNL)
+ - 💣 [What happens when you get infected with Guinea worm. Credit : Zack D. Films](http://9gag.com/gag/ajPnzMq)
  - ⏩ [Cheers](http://9gag.com/gag/aKGBMw1)
  - 👉 [Israeli Supreme Court rules that the military must begin drafting ultra-Orthodox men. First drafts are already in progress.](http://9gag.com/gag/aGyRX9G)<!-- MEMES:END -->
 
