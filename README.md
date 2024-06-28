@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Mous Super Thin for Google Pixel 8a review: Should you buy it?](https://www.androidauthority.com/mous-super-thin-google-pixel-8a-review-3453957/)
- - [EVs still have major quality problems, and it’s mostly about the software](https://www.theverge.com/2024/6/28/24188027/ev-quality-software-probalems-electric-vehicles)
- - [Google Play Store will soon open installed apps automatically &lpar;Update: Screenshot&rpar;](https://www.androidauthority.com/google-play-store-app-auto-open-3451389/)<!-- TECH:END -->
+ - [How to turn DAS into NAS using a Raspberry Pi and OpenMediaVault](https://www.androidauthority.com/raspberry-pi-das-nas-openmediavault-3455635/)
+ - [Sources: Italy launched a probe into Google in 2022 for &amp;euro;1B in unpaid taxes and penalties from 2018 to 2022, seven years after settling another tax dispute &lpar;Emilio Parodi/Reuters&rpar;](http://www.techmeme.com/240628/p13#a240628p13)
+ - [Beats Pill, Final Cut Camera, and beta RCS are all out now on the AppleInsider Podcast](https://appleinsider.com/articles/24/06/28/beats-pill-final-cut-camera-and-even-beta-rcs-are-out-now-on-the-appleinsider-podcast?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
