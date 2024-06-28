@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I\u2019m sure most people will think this is a scam, or weird, or whatever. But if anyone is feeling depressed please contact me. I\u2019m happy to chit-chat about any issues and offer advice. I\u2019m old now. Will delete if this gets a shit ton of trolls.](http://9gag.com/gag/a4PL8jm)
- - ⏩ [London situation](http://9gag.com/gag/aRBVp5A)
- - 👉 [Bruh!!\ud83d\ude02](http://9gag.com/gag/aVvXyD8)<!-- MEMES:END -->
+ - 💣 [I just wanna be loved](http://9gag.com/gag/a34LD73)
+ - ⏩ [Yoo..wtf](http://9gag.com/gag/agmNwqW)
+ - 👉 [Monty Python Souls](http://9gag.com/gag/a0eYgPq)<!-- MEMES:END -->
 
 ---
 
