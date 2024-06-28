@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Where are this kind of teachers when im in school??](http://9gag.com/gag/a87jgDd)
- - ⏩ [If you don\u2019t believe me, just try it out\u2026](http://9gag.com/gag/ae9p88O)
- - 👉 [Which hawk do you prefer?](http://9gag.com/gag/aXPX316)<!-- MEMES:END -->
+ - 💣 [Based on a true story](http://9gag.com/gag/aRBVbOq)
+ - ⏩ [Amazon prime](http://9gag.com/gag/aRBVbnM)
+ - 👉 [Wtf](http://9gag.com/gag/an7Bmjb)<!-- MEMES:END -->
 
 ---
 
