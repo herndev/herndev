@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [It’s not just you: TikTok is down right now &lpar;Update: Back online&rpar;](https://www.androidauthority.com/tiktok-is-down-right-now-3455493/)
- - [Samsung Galaxy Z Fold 6 rumors: Everything we know and what we want to see](https://www.androidauthority.com/samsung-galaxy-z-fold-6-3385438/)
- - [TeamViewer warns that its corporate environment was breached in a cyberattack on June 26; NCC Group claims that TeamViewer was breached by an APT hacking group &lpar;Lawrence Abrams/BleepingComputer&rpar;](http://www.techmeme.com/240628/p10#a240628p10)<!-- TECH:END -->
+ - [Mous Super Thin for Google Pixel 8a review: Should you buy it?](https://www.androidauthority.com/mous-super-thin-google-pixel-8a-review-3453957/)
+ - [EVs still have major quality problems, and it’s mostly about the software](https://www.theverge.com/2024/6/28/24188027/ev-quality-software-probalems-electric-vehicles)
+ - [Google Play Store will soon open installed apps automatically &lpar;Update: Screenshot&rpar;](https://www.androidauthority.com/google-play-store-app-auto-open-3451389/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
