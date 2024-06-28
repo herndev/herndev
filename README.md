@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Atlanta Dog fights 13 coyotes attacking his sheep. Kills 8 on the spot. Goes missing 4 days. Comes home after killing the remaining 5.](http://9gag.com/gag/a87jNBO)
- - ⏩ [Summertime](http://9gag.com/gag/axyGqBM)
- - 👉 [I mean, Who wouldn&#39;t take the cookies?](http://9gag.com/gag/a4PLye6)<!-- MEMES:END -->
+ - 💣 [Wtf](http://9gag.com/gag/an7Bmjb)
+ - ⏩ [Street performers in London these days](http://9gag.com/gag/avyLjLO)
+ - 👉 [Bruh!!\ud83d\ude02](http://9gag.com/gag/aVvXyD8)<!-- MEMES:END -->
 
 ---
 
