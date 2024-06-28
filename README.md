@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [If you don\u2019t believe me, just try it out\u2026](http://9gag.com/gag/ae9p88O)
- - ⏩ [I don&#39;t think he knows what he said](http://9gag.com/gag/aZZN6jp)
- - 👉 [Oh look, a rope](http://9gag.com/gag/aRBVWYM)<!-- MEMES:END -->
+ - 💣 [I mean, Who wouldn&#39;t take the cookies?](http://9gag.com/gag/a4PLye6)
+ - ⏩ [What did he did just say? Something about border?](http://9gag.com/gag/a4PLX76)
+ - 👉 [Aren\u2019t we tired of Biden/Trump election already?](http://9gag.com/gag/aZZN6d9)<!-- MEMES:END -->
 
 ---
 
