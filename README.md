@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Amazon prime](http://9gag.com/gag/aRBVbnM)
- - ⏩ [Wtf](http://9gag.com/gag/an7Bmjb)
- - 👉 [Democrats after the Biden-Trump debate!](http://9gag.com/gag/an7B6VE)<!-- MEMES:END -->
+ - 💣 [Friday mood](http://9gag.com/gag/a34LmOQ)
+ - ⏩ [Cringe but wood](http://9gag.com/gag/apRBOND)
+ - 👉 [Wtf](http://9gag.com/gag/an7Bmjb)<!-- MEMES:END -->
 
 ---
 
