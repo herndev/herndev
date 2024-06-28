@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to turn DAS into NAS using a Raspberry Pi and OpenMediaVault](https://www.androidauthority.com/raspberry-pi-das-nas-openmediavault-3455635/)
- - [Sources: Italy launched a probe into Google in 2022 for &amp;euro;1B in unpaid taxes and penalties from 2018 to 2022, seven years after settling another tax dispute &lpar;Emilio Parodi/Reuters&rpar;](http://www.techmeme.com/240628/p13#a240628p13)
- - [Beats Pill, Final Cut Camera, and beta RCS are all out now on the AppleInsider Podcast](https://appleinsider.com/articles/24/06/28/beats-pill-final-cut-camera-and-even-beta-rcs-are-out-now-on-the-appleinsider-podcast?utm_medium=rss)<!-- TECH:END -->
+ - [EU explores an antitrust probe into Microsoft&#39;s OpenAI partnership, after the EC dropped a merger review due to lack of evidence that Microsoft controls OpenAI &lpar;Financial Times&rpar;](http://www.techmeme.com/240628/p14#a240628p14)
+ - [Steam’s Summer Sale drops games like Baldur’s Gate 3 to their best price](https://www.theverge.com/2024/6/28/24187641/steam-summer-sale-baldurs-gate-3-dave-the-diver-deal-sale)
+ - [Supreme Court ruling kneecaps federal regulators](https://www.theverge.com/2024/6/28/24180118/supreme-court-chevron-deference-decision-opinion)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
