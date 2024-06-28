@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I mean, Who wouldn&#39;t take the cookies?](http://9gag.com/gag/a4PLye6)
- - ⏩ [What did he did just say? Something about border?](http://9gag.com/gag/a4PLX76)
- - 👉 [Aren\u2019t we tired of Biden/Trump election already?](http://9gag.com/gag/aZZN6d9)<!-- MEMES:END -->
+ - 💣 [J.K. Trolling](http://9gag.com/gag/abAbnNL)
+ - ⏩ [Cheers](http://9gag.com/gag/aKGBMw1)
+ - 👉 [Israeli Supreme Court rules that the military must begin drafting ultra-Orthodox men. First drafts are already in progress.](http://9gag.com/gag/aGyRX9G)<!-- MEMES:END -->
 
 ---
 
