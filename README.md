@@ -32,8 +32,8 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Shadow of the Erdtree shows that modern FromSoft&#39;s concept of &#39;a challenge&#39; relies too heavily on boss fights](https://www.pcgamer.com/games/rpg/shadow-of-the-erdtree-shows-that-modern-fromsofts-concept-of-a-challenge-relies-too-heavily-on-boss-fights)
  - [YouTube Cuts Dr Disrespect&#39;s Monetization Over Allegations About &#39;Sexting&#39; Minor](https://kotaku.com/dr-disrespect-youtube-sexting-allegation-minor-1851565750)
- - [&lpar;For Southeast Asia&rpar; Concord Beta dates announced, Beta Early Access launching July 13](https://blog.playstation.com/2024/06/27/20240628-concord/)
  - [&lpar;For Southeast Asia&rpar; Concord Beta dates announced, Beta Early Access launching July 13](https://blog.playstation.com/2024/06/27/20240628-concord/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
