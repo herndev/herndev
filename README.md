@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [What SCOTUS just did to broadband, the right to repair, the environment, and more](https://www.theverge.com/24188365/chevron-scotus-net-neutrality-dmca-visa-fcc-ftc-epa)
- - [ZeroEyes, a gun detection video analytics and alert service, raised a $53M Series B led by Sorenson Capital, and says it has ~400 clients in 42 US states &lpar;Dan Primack/Axios&rpar;](http://www.techmeme.com/240628/p19#a240628p19)
- - [The 19 Best Movies on Amazon Prime Right Now &lpar;July 2024&rpar;](https://www.wired.com/story/best-amazon-prime-movies/)<!-- TECH:END -->
+ - [Amazon hires the CEO and co-founders of Adept, which builds AI agents that automate enterprise workflows, to join its AGI team and will use some of Adept&#39;s tech &lpar;Taylor Soper/GeekWire&rpar;](http://www.techmeme.com/240628/p21#a240628p21)
+ - [Today’s hottest deals on Anker and UGREEN chargers and batteries!](https://www.androidauthority.com/chargers-batteries-deals-3455841/)
+ - [Microsoft’s AI boss thinks it’s perfectly OK to steal content if it’s on the open web](https://www.theverge.com/2024/6/28/24188391/microsoft-ai-suleyman-social-contract-freeware)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
