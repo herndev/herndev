@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best Nintendo Switch controllers to buy right now](https://www.theverge.com/23350899/nintendo-switch-controllers-best-wireless-joy-con-gamepad)
- - [The first-gen Nomad Base One Max 3-in-1 MagSafe charger is $55 off](https://www.theverge.com/2024/6/28/24188181/nomad-base-3in1-magsafe-charger-iphone-apple-watch-airpods-deal-sale)
- - [Kleiner Perkins has raised more than $2B for two new funds: $825M for a fund targeting young startups and $1.2B for a later-stage fund &lpar;Katie Roof/Bloomberg&rpar;](http://www.techmeme.com/240628/p15#a240628p15)<!-- TECH:END -->
+ - [Microsoft AI CEO thinks you agreed to a ‘social contract’ for AI training](https://www.androidauthority.com/microsoft-ai-ceo-interview-3455794/)
+ - [The Center for Investigative Reporting is suing OpenAI and Microsoft](https://www.theverge.com/2024/6/28/24188239/openai-microsoft-center-for-investigative-reporting-lawsuit)
+ - [Quora’s Chatbot Platform Poe Allows Users to Download Paywalled Articles on Demand](https://www.wired.com/story/quora-chatbot-poe-download-paywalled-articles/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
