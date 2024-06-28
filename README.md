@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [YouTube Cuts Dr Disrespect&#39;s Monetization Over Allegations About &#39;Sexting&#39; Minor](https://kotaku.com/dr-disrespect-youtube-sexting-allegation-minor-1851565750)
  - [&lpar;For Southeast Asia&rpar; Concord Beta dates announced, Beta Early Access launching July 13](https://blog.playstation.com/2024/06/27/20240628-concord/)
- - [&lpar;For Southeast Asia&rpar; Concord Beta dates announced, Beta Early Access launching July 13](https://blog.playstation.com/2024/06/27/20240628-concord/)
- - [Today&#39;s Wordle answer for Friday, June 28](https://www.pcgamer.com/games/puzzle/wordle-answer-today-june-28-2024)<!-- GAME:END -->
+ - [&lpar;For Southeast Asia&rpar; Concord Beta dates announced, Beta Early Access launching July 13](https://blog.playstation.com/2024/06/27/20240628-concord/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
