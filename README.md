@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How to get a Meteorite for Mega Rayquaza in Pokémon Go](https://www.polygon.com/pokemon-go-guide/23844046/meteorite-mega-rayquaza-dragon-ascent)
- - [Aloft is a stunning skybound survival game that&#39;s soaring towards Early Access](https://www.pcgamer.com/games/aloft-is-a-stunning-skybound-survival-game-thats-soaring-towards-early-access)
- - [Asus ROG Strix X670E-I Gaming WiFi review](https://www.pcgamer.com/hardware/motherboards/asus-rog-strix-x670e-i-gaming-wifi-review)<!-- GAME:END -->
+ - [Magic: The Gathering reveals Foundations, a new set expressly made for beginners](https://www.polygon.com/24187331/mtg-foundations-announcement-release-date-price)
+ - [I&#39;m now hooked on Starfield, and it&#39;s all thanks to its recent game-changing upgrade](https://www.pcgamer.com/games/rpg/im-now-hooked-on-starfield-and-its-all-thanks-to-its-recent-game-changing-upgrade)
+ - [All Zenless Zone Zero codes from the 1.0 livestream](https://www.pcgamer.com/games/action/zenless-zone-zero-1-0-livestream-codes)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
