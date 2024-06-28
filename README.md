@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Shadow of the Erdtree shows that modern FromSoft&#39;s concept of &#39;a challenge&#39; relies too heavily on boss fights](https://www.pcgamer.com/games/rpg/shadow-of-the-erdtree-shows-that-modern-fromsofts-concept-of-a-challenge-relies-too-heavily-on-boss-fights)
- - [YouTube Cuts Dr Disrespect&#39;s Monetization Over Allegations About &#39;Sexting&#39; Minor](https://kotaku.com/dr-disrespect-youtube-sexting-allegation-minor-1851565750)
- - [&lpar;For Southeast Asia&rpar; Concord Beta dates announced, Beta Early Access launching July 13](https://blog.playstation.com/2024/06/27/20240628-concord/)<!-- GAME:END -->
+ - [Asus ROG Strix X670E-I Gaming WiFi review](https://www.pcgamer.com/hardware/motherboards/asus-rog-strix-x670e-i-gaming-wifi-review)
+ - [Pokémon Go ‘Whispering in the Woods’ Masterwork Research tasks and rewards so far](https://www.polygon.com/pokemon-go-guide/24188008/whispering-in-the-woods-masterwork-research-tasks-rewards-shiny-celebi)
+ - [Pokémon Go ‘8th Anniversary Party’ Timed Research tasks and event schedule](https://www.polygon.com/pokemon-go-guide/24187396/8th-anniversary-party-timed-research-tasks-event-schedule)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
