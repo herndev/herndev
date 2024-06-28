@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Tencent&#39;s shares are up 28% so far in 2024 after the strong debut of Dungeon &amp; Fighter Mobile, adding $91B in market value, more than any other Chinese company &lpar;Jeanny Yu/Bloomberg&rpar;](http://www.techmeme.com/240628/p3#a240628p3)
  - [Samsung Galaxy Z Fold 6 and Flip 6 get shown off in massive leak from retailer](https://www.androidauthority.com/samsung-galaxy-z-fold-6-flip-6-massive-retailer-leak-3455499/)
- - [ChatGPT and Microsoft&#39;s Copilot seemingly drew on conservative misinformation to repeat a false claim about CNN&#39;s debate broadcast being on a &quot;1-2 minute delay&quot; &lpar;Ben Goggin/NBC News&rpar;](http://www.techmeme.com/240628/p2#a240628p2)
- - [The EFF, the Center for Democracy &amp; Technology, and others file a brief saying the US law forcing ByteDance to sell TikTok or face a ban is unconstitutional &lpar;Electronic Frontier Foundation&rpar;](http://www.techmeme.com/240628/p1#a240628p1)<!-- TECH:END -->
+ - [ChatGPT and Microsoft&#39;s Copilot seemingly drew on conservative misinformation to repeat a false claim about CNN&#39;s debate broadcast being on a &quot;1-2 minute delay&quot; &lpar;Ben Goggin/NBC News&rpar;](http://www.techmeme.com/240628/p2#a240628p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
