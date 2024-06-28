@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Are your Philips Hue lights randomly going to 100% brightness? You’re not alone.](https://www.androidauthority.com/philips-hue-random-brightness-3455762/)
- - [The best new streaming shows this week: Supacell, My Lady Jane, and more](https://www.androidauthority.com/best-new-tv-shows-to-stream-this-week-3084538/)
- - [AT&amp;T Next Up Anytime lets you get three phone upgrades per year, but it’s not cheap](https://www.theverge.com/2024/6/28/24188060/att-smartphones-next-up-anytime-upgrade)<!-- TECH:END -->
+ - [The best Nintendo Switch controllers to buy right now](https://www.theverge.com/23350899/nintendo-switch-controllers-best-wireless-joy-con-gamepad)
+ - [The first-gen Nomad Base One Max 3-in-1 MagSafe charger is $55 off](https://www.theverge.com/2024/6/28/24188181/nomad-base-3in1-magsafe-charger-iphone-apple-watch-airpods-deal-sale)
+ - [Kleiner Perkins has raised more than $2B for two new funds: $825M for a fund targeting young startups and $1.2B for a later-stage fund &lpar;Katie Roof/Bloomberg&rpar;](http://www.techmeme.com/240628/p15#a240628p15)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
