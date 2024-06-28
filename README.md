@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Asus ROG Strix X670E-I Gaming WiFi review](https://www.pcgamer.com/hardware/motherboards/asus-rog-strix-x670e-i-gaming-wifi-review)
- - [Pokémon Go ‘Whispering in the Woods’ Masterwork Research tasks and rewards so far](https://www.polygon.com/pokemon-go-guide/24188008/whispering-in-the-woods-masterwork-research-tasks-rewards-shiny-celebi)
- - [Pokémon Go ‘8th Anniversary Party’ Timed Research tasks and event schedule](https://www.polygon.com/pokemon-go-guide/24187396/8th-anniversary-party-timed-research-tasks-event-schedule)<!-- GAME:END -->
+ - [How to get a Meteorite for Mega Rayquaza in Pokémon Go](https://www.polygon.com/pokemon-go-guide/23844046/meteorite-mega-rayquaza-dragon-ascent)
+ - [Aloft is a stunning skybound survival game that&#39;s soaring towards Early Access](https://www.pcgamer.com/games/aloft-is-a-stunning-skybound-survival-game-thats-soaring-towards-early-access)
+ - [Asus ROG Strix X670E-I Gaming WiFi review](https://www.pcgamer.com/hardware/motherboards/asus-rog-strix-x670e-i-gaming-wifi-review)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
