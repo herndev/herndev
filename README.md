@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Lambda, which rents out servers powered by Nvidia&#39;s AI chips, is in talks to raise $800M, after a $320M Series C at a $1.5B valuation in February &lpar;Financial Times&rpar;](http://www.techmeme.com/240628/p23#a240628p23)
  - [eBay&#39;s 4th of July coupon knocks 20% off popular tech](https://appleinsider.com/articles/24/06/28/ebays-4th-of-july-coupon-knocks-20-off-popular-tech?utm_medium=rss)
- - [Hot deal for gamers: The Samsung Odyssey G32A gaming monitor is just $130 right now!](https://www.androidauthority.com/samsung-odyssey-g32a-monitor-deal-3455854/)
- - [Here comes a Meta Ray-Bans challenger with ChatGPT-4o and a camera](https://www.theverge.com/2024/6/28/24188457/solos-airgo-vision-glasses-chatgpt-ray-ban-meta-competitor)<!-- TECH:END -->
+ - [Hot deal for gamers: The Samsung Odyssey G32A gaming monitor is just $130 right now!](https://www.androidauthority.com/samsung-odyssey-g32a-monitor-deal-3455854/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
