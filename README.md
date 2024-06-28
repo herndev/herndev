@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Friday mood](http://9gag.com/gag/a34LmOQ)
- - ⏩ [Cringe but wood](http://9gag.com/gag/apRBOND)
- - 👉 [Wtf](http://9gag.com/gag/an7Bmjb)<!-- MEMES:END -->
+ - 💣 [My fellow virgin](http://9gag.com/gag/aW4O5vq)
+ - ⏩ [I don&#39;t think he knows what he said](http://9gag.com/gag/aZZN6jp)
+ - 👉 [Not today](http://9gag.com/gag/agmNWz1)<!-- MEMES:END -->
 
 ---
 
