@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Devs Want Cyberpunk 2 To Capture The Worst Of America](https://kotaku.com/cyberpunk-2077-sequel-orion-cd-projekt-red-america-1851566572)
- - [I keep getting lost on my way home from trading wood to trolls and giving crystals to chickens in this strange but cosy survival game](https://www.pcgamer.com/games/survival-crafting/i-keep-getting-lost-on-my-way-home-from-trading-wood-to-trolls-and-giving-crystals-to-chickens-in-this-strange-but-cosy-survival-game)
- - [Metal Gear Solid 3 Remake Producer Says It Would Be A &#39;Dream&#39; To Work With Kojima Again](https://kotaku.com/mgs3-delta-snake-eater-remake-dev-kojima-konami-trailer-1851566548)<!-- GAME:END -->
+ - [Wield The Power Of Darkness With This Shadow Of The Erdtree Katana](https://kotaku.com/elden-ring-shadow-of-the-erdtree-sword-of-night-guide-1851566508)
+ - [Less than a month after joining work on the Sands of Time remake, Ubisoft Toronto lays off 33 employees &#39;to ensure it can deliver on its ambitious roadmap&#39;](https://www.pcgamer.com/gaming-industry/less-than-a-month-after-joining-work-on-the-sands-of-time-remake-ubisoft-toronto-lays-off-33-employees-to-ensure-it-can-deliver-on-its-ambitious-roadmap)
+ - [Elden Ring: Shadow Of The Erdtree’s Story, Explained](https://kotaku.com/elden-ring-shadow-of-the-erdtree-s-story-explained-1851566799)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
