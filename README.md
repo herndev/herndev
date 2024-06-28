@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Q&amp;A with VP of Amazon Games on focusing on AAA games over mobile games, transmedia IP strategy, effect of AI on the gaming industry, monetization, and more &lpar;Jennifer Maas/Variety&rpar;](http://www.techmeme.com/240628/p5#a240628p5)
- - [Samsung takes inspiration from the Note 7 for the Galaxy S25 Ultra](https://www.androidauthority.com/samsung-galaxy-s25-ultra-thinner-design-3455568/)
- - [Thought the Rabbit R1 saga couldn’t get worse? Well, it just did.](https://www.androidauthority.com/rabbit-r1-security-flaw-3455555/)<!-- TECH:END -->
+ - [Apple launches the Vision Pro in mainland China, Hong Kong, Japan, and Singapore, the first time the device has been officially available outside of the US &lpar;Tim Hardwick/MacRumors&rpar;](http://www.techmeme.com/240628/p7#a240628p7)
+ - [Margrethe Vestager says Apple&#39;s decision not to launch its AI features in the EU is a &quot;stunning, open declaration&quot; of its anticompetitive behavior &lpar;Eliza Gkritsi/Euractiv&rpar;](http://www.techmeme.com/240628/p6#a240628p6)
+ - [Samsung Galaxy S25 series rumors and leaks: Everything we know so far](https://www.androidauthority.com/samsung-galaxy-s25-3437280/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
