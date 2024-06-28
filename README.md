@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft AI CEO thinks you agreed to a ‘social contract’ for AI training](https://www.androidauthority.com/microsoft-ai-ceo-interview-3455794/)
- - [The Center for Investigative Reporting is suing OpenAI and Microsoft](https://www.theverge.com/2024/6/28/24188239/openai-microsoft-center-for-investigative-reporting-lawsuit)
- - [Quora’s Chatbot Platform Poe Allows Users to Download Paywalled Articles on Demand](https://www.wired.com/story/quora-chatbot-poe-download-paywalled-articles/)<!-- TECH:END -->
+ - [Microsoft&#39;s AI CEO Mustafa Suleyman says content on the open web is &quot;freeware&quot; that anyone can copy or use to reproduce, due to the fair use &quot;social contract&quot; &lpar;Sean Endicott/Windows Central&rpar;](http://www.techmeme.com/240628/p18#a240628p18)
+ - [PSA: Be careful when installing UV glue screen protectors](https://www.androidauthority.com/uv-glue-screen-protectors-3455799/)
+ - [Cync wants to upgrade your kitchen cabinet lighting with these smart light fixtures](https://www.androidauthority.com/cync-undercabinet-smart-light-fixture-3455776/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
