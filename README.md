@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft&#39;s AI CEO Mustafa Suleyman says content on the open web is &quot;freeware&quot; that anyone can copy or use to reproduce, due to the fair use &quot;social contract&quot; &lpar;Sean Endicott/Windows Central&rpar;](http://www.techmeme.com/240628/p18#a240628p18)
- - [PSA: Be careful when installing UV glue screen protectors](https://www.androidauthority.com/uv-glue-screen-protectors-3455799/)
- - [Cync wants to upgrade your kitchen cabinet lighting with these smart light fixtures](https://www.androidauthority.com/cync-undercabinet-smart-light-fixture-3455776/)<!-- TECH:END -->
+ - [What SCOTUS just did to broadband, the right to repair, the environment, and more](https://www.theverge.com/24188365/chevron-scotus-net-neutrality-dmca-visa-fcc-ftc-epa)
+ - [ZeroEyes, a gun detection video analytics and alert service, raised a $53M Series B led by Sorenson Capital, and says it has ~400 clients in 42 US states &lpar;Dan Primack/Axios&rpar;](http://www.techmeme.com/240628/p19#a240628p19)
+ - [The 19 Best Movies on Amazon Prime Right Now &lpar;July 2024&rpar;](https://www.wired.com/story/best-amazon-prime-movies/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
