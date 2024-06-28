@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [EU explores an antitrust probe into Microsoft&#39;s OpenAI partnership, after the EC dropped a merger review due to lack of evidence that Microsoft controls OpenAI &lpar;Financial Times&rpar;](http://www.techmeme.com/240628/p14#a240628p14)
- - [Steam’s Summer Sale drops games like Baldur’s Gate 3 to their best price](https://www.theverge.com/2024/6/28/24187641/steam-summer-sale-baldurs-gate-3-dave-the-diver-deal-sale)
- - [Supreme Court ruling kneecaps federal regulators](https://www.theverge.com/2024/6/28/24180118/supreme-court-chevron-deference-decision-opinion)<!-- TECH:END -->
+ - [Are your Philips Hue lights randomly going to 100% brightness? You’re not alone.](https://www.androidauthority.com/philips-hue-random-brightness-3455762/)
+ - [The best new streaming shows this week: Supacell, My Lady Jane, and more](https://www.androidauthority.com/best-new-tv-shows-to-stream-this-week-3084538/)
+ - [AT&amp;T Next Up Anytime lets you get three phone upgrades per year, but it’s not cheap](https://www.theverge.com/2024/6/28/24188060/att-smartphones-next-up-anytime-upgrade)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
