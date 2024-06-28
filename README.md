@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Official PlayStation Podcast Episode 488: Wacky Tacos](https://blog.playstation.com/2024/06/28/official-playstation-podcast-episode-488-wacky-tacos/)
- - [Official PlayStation Podcast Episode 488: Wacky Tacos](https://blog.playstation.com/2024/06/28/official-playstation-podcast-episode-488-wacky-tacos/)
- - [Box sets and 4K Blu-rays from the Criterion Collection are on sale](https://www.polygon.com/deals/24188281/criterion-collection-4k-blu-ray-movies-barnes-and-noble-deal-sale)<!-- GAME:END -->
+ - [A new action-RPG inspired by Dark Messiah of Might and Magic looks almost too good to be true, and some people are worried it&#39;s The Day Before all over again](https://www.pcgamer.com/games/action/a-new-action-rpg-inspired-by-dark-messiah-of-might-and-magic-looks-almost-too-good-to-be-true-and-some-people-are-worried-its-the-day-before-all-over-again)
+ - [One Of TV&#39;s Best Shows Just Came Back With A Terrible Season Premiere](https://kotaku.com/the-bear-season-3-premiere-is-too-indulgent-1851567226)
+ - [Bethesda Has Revealed Fallout TV Characters&#39; Stats](https://kotaku.com/fallout-show-amazon-prime-character-special-stats-lucy-1851411135)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
