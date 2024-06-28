@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Q&amp;A with VP of Amazon Games on focusing on AAA games over mobile games, transmedia IP strategy, effect of AI on the gaming industry, monetization, and more &lpar;Jennifer Maas/Variety&rpar;](http://www.techmeme.com/240628/p5#a240628p5)
  - [Samsung takes inspiration from the Note 7 for the Galaxy S25 Ultra](https://www.androidauthority.com/samsung-galaxy-s25-ultra-thinner-design-3455568/)
- - [Thought the Rabbit R1 saga couldn’t get worse? Well, it just did.](https://www.androidauthority.com/rabbit-r1-security-flaw-3455555/)
- - [An in-depth look at the development of Google DeepMind&#39;s AlphaFold, which had the biggest AI breakthrough in science by accurately predicting protein structures &lpar;Yasemin Saplakoglu/Quanta Magazine&rpar;](http://www.techmeme.com/240628/p4#a240628p4)<!-- TECH:END -->
+ - [Thought the Rabbit R1 saga couldn’t get worse? Well, it just did.](https://www.androidauthority.com/rabbit-r1-security-flaw-3455555/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
