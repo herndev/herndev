@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon hires the CEO and co-founders of Adept, which builds AI agents that automate enterprise workflows, to join its AGI team and will use some of Adept&#39;s tech &lpar;Taylor Soper/GeekWire&rpar;](http://www.techmeme.com/240628/p21#a240628p21)
- - [Today’s hottest deals on Anker and UGREEN chargers and batteries!](https://www.androidauthority.com/chargers-batteries-deals-3455841/)
- - [Microsoft’s AI boss thinks it’s perfectly OK to steal content if it’s on the open web](https://www.theverge.com/2024/6/28/24188391/microsoft-ai-suleyman-social-contract-freeware)<!-- TECH:END -->
+ - [eBay&#39;s 4th of July coupon knocks 20% off popular tech](https://appleinsider.com/articles/24/06/28/ebays-4th-of-july-coupon-knocks-20-off-popular-tech?utm_medium=rss)
+ - [Hot deal for gamers: The Samsung Odyssey G32A gaming monitor is just $130 right now!](https://www.androidauthority.com/samsung-odyssey-g32a-monitor-deal-3455854/)
+ - [Here comes a Meta Ray-Bans challenger with ChatGPT-4o and a camera](https://www.theverge.com/2024/6/28/24188457/solos-airgo-vision-glasses-chatgpt-ray-ban-meta-competitor)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
