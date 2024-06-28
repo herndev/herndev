@@ -40,8 +40,8 @@
 
 <!-- TECH:START -->
  - [Sources: Hebbia, which is developing an AI-powered document search tool, raised a nearly $100M Series B led by a16z at a valuation between $700M and $800M &lpar;Marina Temkin/TechCrunch&rpar;](http://www.techmeme.com/240627/p41#a240627p41)
- - [A look at Dubai-based Bybit, whose co-founder says it became the world&#39;s second largest crypto exchange by volume partly by serving former FTX users &lpar;Ryan Weeks/Bloomberg&rpar;](http://www.techmeme.com/240627/p40#a240627p40)
- - [Perplexity AI: the answer engine with a lot of question marks](https://www.theverge.com/24187792/perplexity-ai-news-updates)<!-- TECH:END -->
+ - [Helix Mattresses Review 2024: Options for All Sleeper Types](https://www.cnet.com/health/sleep/helix-mattress-reviews/#ftag=CAD590a51e)
+ - [A look at Dubai-based Bybit, whose co-founder says it became the world&#39;s second largest crypto exchange by volume partly by serving former FTX users &lpar;Ryan Weeks/Bloomberg&rpar;](http://www.techmeme.com/240627/p40#a240627p40)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
