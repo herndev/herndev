@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Cheers](http://9gag.com/gag/aKGBMw1)
- - ⏩ [If you don\u2019t believe me, just try it out\u2026](http://9gag.com/gag/ae9p88O)
- - 👉 [Israeli Supreme Court rules that the military must begin drafting ultra-Orthodox men. First drafts are already in progress.](http://9gag.com/gag/aGyRX9G)<!-- MEMES:END -->
+ - 💣 [I don&#39;t think he knows what he said](http://9gag.com/gag/aZZN6jp)
+ - ⏩ [I wish I were half the man HE is\u2026.](http://9gag.com/gag/amo8Zz2)
+ - 👉 [Based on a true story](http://9gag.com/gag/aRBVbOq)<!-- MEMES:END -->
 
 ---
 
