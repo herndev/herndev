@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [ICantBeliveThatWorked](http://9gag.com/gag/a4PLgw1)
- - ⏩ [Wtf](http://9gag.com/gag/an7Bmjb)
- - 👉 [Absolutely shameless](http://9gag.com/gag/a6ZL68b)<!-- MEMES:END -->
+ - 💣 [Bruh!!\ud83d\ude02](http://9gag.com/gag/aVvXyD8)
+ - ⏩ [If you don\u2019t believe me, just try it out\u2026](http://9gag.com/gag/ae9p88O)
+ - 👉 [What did he did just say? Something about border?](http://9gag.com/gag/a4PLX76)<!-- MEMES:END -->
 
 ---
 
