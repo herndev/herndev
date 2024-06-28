@@ -46,7 +46,7 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This man&#39;s a legend](http://9gag.com/gag/apRBMG8)
+ - 💣 [Racoon](http://9gag.com/gag/aNDKMGv)
  - ⏩ [Bro missed](http://9gag.com/gag/avyLqm5)
  - 👉 [Texas lady is not amused](http://9gag.com/gag/a2vqpVE)<!-- MEMES:END -->
 
