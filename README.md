@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [My fellow virgin](http://9gag.com/gag/aW4O5vq)
- - ⏩ [I don&#39;t think he knows what he said](http://9gag.com/gag/aZZN6jp)
- - 👉 [Not today](http://9gag.com/gag/agmNWz1)<!-- MEMES:END -->
+ - 💣 [Cringe but wood](http://9gag.com/gag/apRBOND)
+ - ⏩ [What happens when you get infected with Guinea worm. Credit : Zack D. Films](http://9gag.com/gag/ajPnzMq)
+ - 👉 [Bloody Btsh](http://9gag.com/gag/aKGBoW6)<!-- MEMES:END -->
 
 ---
 
