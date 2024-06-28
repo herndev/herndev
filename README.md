@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple launches the Vision Pro in mainland China, Hong Kong, Japan, and Singapore, the first time the device has been officially available outside of the US &lpar;Tim Hardwick/MacRumors&rpar;](http://www.techmeme.com/240628/p7#a240628p7)
- - [Margrethe Vestager says Apple&#39;s decision not to launch its AI features in the EU is a &quot;stunning, open declaration&quot; of its anticompetitive behavior &lpar;Eliza Gkritsi/Euractiv&rpar;](http://www.techmeme.com/240628/p6#a240628p6)
- - [Samsung Galaxy S25 series rumors and leaks: Everything we know so far](https://www.androidauthority.com/samsung-galaxy-s25-3437280/)<!-- TECH:END -->
+ - [Framework Laptop 16, six months later](https://www.theverge.com/24185827/framework-laptop-16-six-months-later-review)
+ - [Surface Pro Copilot+ review: the best Microsoft tablet yet, with a versatile Flex keyboard and decent AI features, but has noticeable heat and fan noise issues &lpar;Devindra Hardawar/Engadget&rpar;](http://www.techmeme.com/240628/p8#a240628p8)
+ - [EU hits back at Apple withholding Apple Intelligence from the region](https://appleinsider.com/articles/24/06/28/eu-hits-back-at-apple-withholding-apple-intelligence-from-the-region?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
