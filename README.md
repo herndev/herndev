@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [UGreen Nexode Pro Charger review roundup: Small fast-charging companions](https://appleinsider.com/articles/24/06/28/ugreen-nexode-pro-charger-review-roundup-small-fast-charging-companions?utm_medium=rss)
- - [Apple&#39;s M3 MacBook Pro 14-inch with 16GB RAM drops to $1,599](https://appleinsider.com/articles/24/06/28/apples-m3-macbook-pro-14-inch-with-16gb-ram-drops-to-1599?utm_medium=rss)
- - [Sources: Hebbia, which is developing an AI-powered document search tool, raised a nearly $100M Series B led by a16z at a valuation between $700M and $800M &lpar;Marina Temkin/TechCrunch&rpar;](http://www.techmeme.com/240627/p41#a240627p41)<!-- TECH:END -->
+ - [It’s not just you: TikTok is down right now](https://www.androidauthority.com/tiktok-is-down-right-now-3455493/)
+ - [Today&#39;s NYT Connections Hints, Answers and Help for June 28, #383](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-june-28-383/#ftag=CAD590a51e)
+ - [Today&#39;s Wordle Hints, Answer and Help for June 28, #1105](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-june-28-1105/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
