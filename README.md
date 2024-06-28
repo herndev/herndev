@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Bruh!!\ud83d\ude02](http://9gag.com/gag/aVvXyD8)
- - ⏩ [If you don\u2019t believe me, just try it out\u2026](http://9gag.com/gag/ae9p88O)
+ - 💣 [If you don\u2019t believe me, just try it out\u2026](http://9gag.com/gag/ae9p88O)
+ - ⏩ [I don&#39;t think he knows what he said](http://9gag.com/gag/aZZN6jp)
  - 👉 [Oh look, a rope](http://9gag.com/gag/aRBVWYM)<!-- MEMES:END -->
 
 ---
