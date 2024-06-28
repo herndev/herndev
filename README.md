@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Sir Moore questline walkthrough for Elden Ring: Shadow of the Erdtree](https://www.polygon.com/elden-ring-shadow-erdtree-guide/24188315/sir-moore-sote-behind-remain-sad-forager-brood-cookbook)
- - [They&#39;re gonna let us kill Conor McGregor in Hitman](https://www.pcgamer.com/games/action/theyre-gonna-let-us-kill-conor-mcgregor-in-hitman)
- - [PC gaming is mainstream. Now what?](https://www.pcgamer.com/pc-gaming-is-mainstream)<!-- GAME:END -->
+ - [This Skyrim mod makes tableware so gloriously beautiful I can&#39;t stop staring at it](https://www.pcgamer.com/games/rpg/this-skyrim-mod-makes-tableware-so-gloriously-beautiful-i-cant-stop-staring-at-it)
+ - [Furiosa, Netflix’s A Family Affair, The Boy and the Heron, and every movie new to streaming this week](https://www.polygon.com/2024/6/28/24181922/new-movies-family-affair-netflix-boy-and-the-heron-furiosa-mad-max)
+ - [Sir Moore questline walkthrough for Elden Ring: Shadow of the Erdtree](https://www.polygon.com/elden-ring-shadow-erdtree-guide/24188315/sir-moore-sote-behind-remain-sad-forager-brood-cookbook)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
