@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Space Marine 2 Devs Cancel Beta To Focus On &#39;Best&#39; Possible Launch](https://kotaku.com/space-marine-2-beta-canceled-release-date-when-xbox-ps5-1851567367)
- - [24 years later, you can finally pet the dog in Deus Ex thanks to its all-encompassing Randomizer mod](https://www.pcgamer.com/games/rpg/24-years-later-you-can-finally-pet-the-dog-in-deus-ex-thanks-to-its-all-encompassing-randomizer-mod)
- - [New DLC weapon locations in Elden Ring Shadow of the Erdtree](https://www.polygon.com/elden-ring-shadow-erdtree-guide/24180256/all-new-dlc-weapon-locations)<!-- GAME:END -->
+ - [Sir Moore questline walkthrough for Elden Ring: Shadow of the Erdtree](https://www.polygon.com/elden-ring-shadow-erdtree-guide/24188315/sir-moore-sote-behind-remain-sad-forager-brood-cookbook)
+ - [They&#39;re gonna let us kill Conor McGregor in Hitman](https://www.pcgamer.com/games/action/theyre-gonna-let-us-kill-conor-mcgregor-in-hitman)
+ - [PC gaming is mainstream. Now what?](https://www.pcgamer.com/pc-gaming-is-mainstream)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
