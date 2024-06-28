@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Based on a true story](http://9gag.com/gag/aRBVbOq)
- - ⏩ [Amazon prime](http://9gag.com/gag/aRBVbnM)
- - 👉 [Wtf](http://9gag.com/gag/an7Bmjb)<!-- MEMES:END -->
+ - 💣 [Amazon prime](http://9gag.com/gag/aRBVbnM)
+ - ⏩ [Wtf](http://9gag.com/gag/an7Bmjb)
+ - 👉 [Democrats after the Biden-Trump debate!](http://9gag.com/gag/an7B6VE)<!-- MEMES:END -->
 
 ---
 
