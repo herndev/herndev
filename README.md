@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Racoon](http://9gag.com/gag/aNDKMGv)
- - ⏩ [Bro missed](http://9gag.com/gag/avyLqm5)
- - 👉 [Texas lady is not amused](http://9gag.com/gag/a2vqpVE)<!-- MEMES:END -->
+ - 💣 [Turn on CNN, Biden is getting clobbered like seal](http://9gag.com/gag/agmNDq6)
+ - ⏩ [J.K. Trolling](http://9gag.com/gag/abAbnNL)
+ - 👉 [What did he did just say? Something about border?](http://9gag.com/gag/a4PLX76)<!-- MEMES:END -->
 
 ---
 
