@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Turn on CNN, Biden is getting clobbered like seal](http://9gag.com/gag/agmNDq6)
- - ⏩ [J.K. Trolling](http://9gag.com/gag/abAbnNL)
- - 👉 [What did he did just say? Something about border?](http://9gag.com/gag/a4PLX76)<!-- MEMES:END -->
+ - 💣 [ICantBeliveThatWorked](http://9gag.com/gag/a4PLgw1)
+ - ⏩ [Wtf](http://9gag.com/gag/an7Bmjb)
+ - 👉 [Absolutely shameless](http://9gag.com/gag/a6ZL68b)<!-- MEMES:END -->
 
 ---
 
