@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Facebook and Instagram’s ‘pay or consent’ ad model violates the DMA, says the EU](https://www.theverge.com/2024/7/1/24189796/eu-meta-dma-violation-pay-consent-ads-model)
- - [Window Tiling in macOS Sequoia is Apple&#39;s third try to fix a problem](https://appleinsider.com/articles/24/07/01/window-tiling-in-macos-sequoia-is-apples-third-go-at-fixing-a-problem?utm_medium=rss)
- - [This year’s Apple Watches may not be as unique as Apple would pitch them to be](https://www.androidauthority.com/apple-watch-series-10-may-not-look-unique-3456121/)<!-- TECH:END -->
+ - [You can now use two Google Keep accounts simultaneously on your Android tablet](https://www.androidauthority.com/you-can-use-two-google-keep-accounts-android-tablet-3456175/)
+ - [Source: Character.AI held talks over partnerships with Google, Meta, and xAI, to access the partnering company&#39;s computing in return for sharing some of its IP &lpar;Kalley Huang/The Information&rpar;](http://www.techmeme.com/240701/p9#a240701p9)
+ - [Rare Unlocked iPhone 15 Deal Offers Up to $120 Off Apple&#39;s Prices](https://www.cnet.com/deals/rare-unlocked-iphone-15-deal-offers-up-to-120-off-apples-prices/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
