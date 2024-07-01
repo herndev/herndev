@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Imagine the decline after 4 more years](http://9gag.com/gag/aE07vpK)
- - ⏩ [Powerful](http://9gag.com/gag/aD2mB1Z)
- - 👉 [I love that a website that\u2019s So homophobic and So racist has collectively decided that these two are amongst their favorite people](http://9gag.com/gag/aryKpDV)<!-- MEMES:END -->
+ - 💣 [Interesting](http://9gag.com/gag/ayNd7nb)
+ - ⏩ [France after election results show massive gain for right wing party](http://9gag.com/gag/a5Q7dLL)
+ - 👉 [What is that supposed to be?](http://9gag.com/gag/aPAGOXg)<!-- MEMES:END -->
 
 ---
 
