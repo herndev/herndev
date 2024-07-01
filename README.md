@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [At 0.72 pounds, Vaio’s first portable monitor is one of the lightest ever](https://www.theverge.com/2024/7/1/24190049/vaio-vision-plus-14-portable-monitor)
- - [Save $1,200 on the Samsung Odyssey Ark, one of the most desired monitors](https://www.androidauthority.com/samsung-odyssey-ark-deal-3456320/)
- - [Clean energy has become an even more divided topic in the US](https://www.theverge.com/2024/7/1/24189952/renewable-energy-solar-wind-ev-support-pew-research-survey)<!-- TECH:END -->
+ - [The first Thunderbolt 5 cables are here, but there’s barely anything to plug in](https://www.theverge.com/2024/7/1/24190263/thunderbolt-5-cable-matters-intel-usb-c)
+ - [SEC sues parent company of crypto-friendly Silvergate Bank and execs, saying ~$9B in suspicious FTX transfers weren&#39;t caught and its AML compliance was poor &lpar;Elizabeth Lopatto/The Verge&rpar;](http://www.techmeme.com/240701/p16#a240701p16)
+ - [Record deal saves you $100 on the Bose QuietComfort Earbuds II](https://www.androidauthority.com/bose-quietcomfort-earbuds-ii-deal-2-3456353/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
