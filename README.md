@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Star Trek: Prodigy season 2, Tower of God season 2, and more new TV this week](https://www.polygon.com/2024/7/1/24183180/new-tv-netflix-star-trek-prodigy-tower-god-season-2-nfl-anime)
- - [It Sounds Like Destiny 2 Is Finally Leaving Our Solar System Next Year](https://kotaku.com/destiny-2-year-11-new-world-frontiers-1851570524)
- - [The Acolyte Episode 5 Review: Stunning Battles, Shallow Characters](https://kotaku.com/acolyte-episode-5-review-1851570537)<!-- GAME:END -->
+ - [Final Fantasy XIV: Should You Buy The Starter Edition Or Play The Free Trial?](https://kotaku.com/final-fantasy-14-ff14-free-trial-starter-edition-best-1851570741)
+ - [The major movies you could easily miss in the next three months](https://www.polygon.com/24163467/best-new-movies-summer-2024-release-calendar-schedule)
+ - [GTA Online adds a qualify-of-life feature players have wanted for years then upsets everyone by paywalling it: &#39;One of the slimiest things they&#39;ve done in a while&#39;](https://www.pcgamer.com/games/grand-theft-auto/gta-online-adds-a-qualify-of-life-feature-players-have-wanted-for-years-then-upsets-everyone-by-paywalling-it-one-of-the-slimiest-things-theyve-done-in-a-while)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
