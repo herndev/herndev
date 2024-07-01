@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [France right now](http://9gag.com/gag/aXP9bE6)
- - ⏩ [Based](http://9gag.com/gag/aRBAweQ)
- - 👉 [That\u2019s a core memory right there](http://9gag.com/gag/aKGqwZZ)<!-- MEMES:END -->
+ - 💣 [The Chinese Tianlong-3 Rocket Accidentally Launched During A Engine Test](http://9gag.com/gag/aByYRgx)
+ - ⏩ [Ex-wife picks up the kids from the father\u2019s house](http://9gag.com/gag/ae9GKy5)
+ - 👉 [Girl tourist on vacation in San Lorenzo.. unluckily met Algerian muslim man](http://9gag.com/gag/aGyRPB5)<!-- MEMES:END -->
 
 ---
 
