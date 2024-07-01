@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Cancer Cell Hit By An Ion Beam.](http://9gag.com/gag/a7o7LOw)
- - ⏩ [The most passionate.... Wth!!!](http://9gag.com/gag/aZZMWM3)
- - 👉 [Imagine the decline after 4 more years](http://9gag.com/gag/aE07vpK)<!-- MEMES:END -->
+ - 💣 [Can&#39;t be saying that anymore](http://9gag.com/gag/aW460LZ)
+ - ⏩ [This guy was like ` how is being arrested real? Just walk away lol`](http://9gag.com/gag/a87MbbQ)
+ - 👉 [Man confronting shoplifters as they try to leave in Downey, California](http://9gag.com/gag/agmVrLq)<!-- MEMES:END -->
 
 ---
 
