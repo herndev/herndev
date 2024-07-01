@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Grab 22 of Capcom’s greatest fighting games on sale right now for under $20](https://www.polygon.com/deals/2024/6/26/24186002/capcom-fighting-game-bundle-deal-sale-street-fighter)
  - [The Dragon Age II Companions, Ranked From Worst To Best](https://kotaku.com/dragon-age-2-best-characters-anders-varric-isabela-1851571061)
- - [Grab 3 months Xbox Game Pass Ultimate for under $35 at Woot](https://www.polygon.com/deals/2024/7/1/24190165/xbox-game-pass-ultimate-pc-deal-sale-woot)
- - [Team Fortress 2 players are not loving the announcement of TF2 DLC for Funko Fusion instead of, y&#39;know, TF2: &#39;Genuinely would rather bots continue to overrun the game than this happen&#39;](https://www.pcgamer.com/games/action/team-fortress-2-players-are-not-loving-the-announcement-of-tf2-dlc-for-funko-fusion-instead-of-yknow-tf2-genuinely-would-rather-bots-continue-to-overrun-the-game-than-this-happen)<!-- GAME:END -->
+ - [Grab 3 months Xbox Game Pass Ultimate for under $35 at Woot](https://www.polygon.com/deals/2024/7/1/24190165/xbox-game-pass-ultimate-pc-deal-sale-woot)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
