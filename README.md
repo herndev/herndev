@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The most passionate.... Wth!!!](http://9gag.com/gag/aZZMWM3)
- - ⏩ [Kinda genius](http://9gag.com/gag/aPAD6bB)
- - 👉 [Again! Again!](http://9gag.com/gag/a2vmzD1)<!-- MEMES:END -->
+ - 💣 [This guy was like ` how is being arrested real? Just walk away lol`](http://9gag.com/gag/a87MbbQ)
+ - ⏩ [Drunk guy kicks in hotel front door before getting dropped by a cop](http://9gag.com/gag/a6Z7rPR)
+ - 👉 [Can&#39;t be saying that anymore](http://9gag.com/gag/aW460LZ)<!-- MEMES:END -->
 
 ---
 
