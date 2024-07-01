@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Circle says it has been granted an e-money license from France, making it compliant with stablecoin provisions under EU&#39;s tough crypto laws &lpar;Ryan Browne/CNBC&rpar;](http://www.techmeme.com/240701/p12#a240701p12)
- - [Surprise! Samsung Galaxy Watch 7 and Ultra leak in full detail ahead of event](https://www.androidauthority.com/galaxy-watch-7-full-specs-leak-3456205/)
- - [Amazon&#39;s $2,199 M3 MacBook Pro 16-inch deal delivers cheapest price ahead of Prime Day](https://appleinsider.com/articles/24/07/01/amazons-2199-m3-macbook-pro-16-inch-deal-delivers-cheapest-price-ahead-of-prime-day?utm_medium=rss)<!-- TECH:END -->
+ - [These new smart glasses feature a built-in camera and GPT-4o support](https://www.androidauthority.com/solos-airgo-vision-3456195/)
+ - [Here are the best iPad deals right now](https://www.theverge.com/21280354/best-ipad-deals-apple)
+ - [Here’s even more info on four of the most exciting new Android 15 features](https://www.androidauthority.com/android-15-adaptive-features-info-3456217/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
