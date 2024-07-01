@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [These new smart glasses feature a built-in camera and GPT-4o support](https://www.androidauthority.com/solos-airgo-vision-3456195/)
- - [Here are the best iPad deals right now](https://www.theverge.com/21280354/best-ipad-deals-apple)
- - [Here’s even more info on four of the most exciting new Android 15 features](https://www.androidauthority.com/android-15-adaptive-features-info-3456217/)<!-- TECH:END -->
+ - [Google could soon add Quick Share directly in the Files app &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-files-quick-share-3456247/)
+ - [Android quietly enhances split-screen mode in preparation for the Pixel 9 Pro Fold](https://www.androidauthority.com/pixel-9-pro-fold-split-screen-changes-3456265/)
+ - [Apple already considers the first HomePod ‘vintage’](https://www.theverge.com/2024/7/1/24190032/apple-vintage-homepod-airpods-iphone-x)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
