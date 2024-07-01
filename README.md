@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [You can now use two Google Keep accounts simultaneously on your Android tablet](https://www.androidauthority.com/you-can-use-two-google-keep-accounts-android-tablet-3456175/)
- - [Source: Character.AI held talks over partnerships with Google, Meta, and xAI, to access the partnering company&#39;s computing in return for sharing some of its IP &lpar;Kalley Huang/The Information&rpar;](http://www.techmeme.com/240701/p9#a240701p9)
- - [Rare Unlocked iPhone 15 Deal Offers Up to $120 Off Apple&#39;s Prices](https://www.cnet.com/deals/rare-unlocked-iphone-15-deal-offers-up-to-120-off-apples-prices/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sources: French antitrust regulators are preparing to charge Nvidia for allegedly anti-competitive practices &lpar;Foo Yun Chee/Reuters&rpar;](http://www.techmeme.com/240701/p11#a240701p11)
+ - [Supreme Court rules in major internet speech cases](https://www.theverge.com/2024/7/1/24166388/supreme-court-ruling-moody-paxton-texas-florida-social-media-law)
+ - [SCOTUS orders lower courts to take another look at Texas&#39; and Florida&#39;s social media laws, says neither lower court conducted proper analysis of 1A challenges &lpar;CBS News&rpar;](http://www.techmeme.com/240701/p10#a240701p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
