@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Final Fantasy 14 producer Yoshi-P apologizes for the Dawntrail expansion&#39;s early access technical issues](https://www.pcgamer.com/games/mmo/final-fantasy-14-producer-yoshi-p-apologizes-for-the-dawntrail-expansions-early-access-technical-issues)
- - [Digital board game Dune: Imperium is getting the Rise of Ix expansion in July](https://www.pcgamer.com/games/strategy/digital-board-game-dune-imperium-is-getting-the-rise-of-ix-expansion-in-july)
- - [Modders have uncovered an extended version of The Witcher 3&#39;s ending where Yennefer pulls off a shocking betrayal of her sorceress friends](https://www.pcgamer.com/games/rpg/modders-have-uncovered-an-extended-version-of-the-witcher-3s-ending-where-yennefer-pulls-off-a-shocking-betrayal-of-her-sorceress-friends)<!-- GAME:END -->
+ - [What’s up with the Riverlands in House of the Dragon?](https://www.polygon.com/24188182/house-dragon-map-riverlands-battles)
+ - [Drop blocks to make your own maze in the demo for tower defense game Emberward](https://www.pcgamer.com/games/strategy/drop-blocks-to-make-your-own-maze-in-the-demo-for-tower-defense-game-emberward)
+ - [Final Fantasy 14 producer Yoshi-P apologizes for the Dawntrail expansion&#39;s early access technical issues](https://www.pcgamer.com/games/mmo/final-fantasy-14-producer-yoshi-p-apologizes-for-the-dawntrail-expansions-early-access-technical-issues)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
