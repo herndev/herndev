@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The guy doesn&#39;t believe it when he meets a sane woman](http://9gag.com/gag/aZZNAX0)
- - ⏩ [What is that supposed to be?](http://9gag.com/gag/aPAGOXg)
- - 👉 [Bring more of them to Europe](http://9gag.com/gag/a87jPne)<!-- MEMES:END -->
+ - 💣 [Method acting](http://9gag.com/gag/apRvENW)
+ - ⏩ [Cancer Cell Hit By An Ion Beam.](http://9gag.com/gag/a7o7LOw)
+ - 👉 [Imagine the decline after 4 more years](http://9gag.com/gag/aE07vpK)<!-- MEMES:END -->
 
 ---
 
