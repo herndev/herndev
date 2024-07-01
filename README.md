@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Entitled douche](http://9gag.com/gag/aXPXD3d)
- - ⏩ [What is that supposed to be?](http://9gag.com/gag/aPAGOXg)
- - 👉 [Nope](http://9gag.com/gag/aKGB0YQ)<!-- MEMES:END -->
+ - 💣 [Interesting](http://9gag.com/gag/ayNd7nb)
+ - ⏩ [Ex-wife picks up the kids from the father\u2019s house](http://9gag.com/gag/ae9GKy5)
+ - 👉 [Drunk guy kicks in hotel front door before getting dropped by a cop](http://9gag.com/gag/a6Z7rPR)<!-- MEMES:END -->
 
 ---
 
