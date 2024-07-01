@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The most passionate.... Wth!!!](http://9gag.com/gag/aZZMWM3)
- - ⏩ [France after election results show massive gain for right wing party](http://9gag.com/gag/a5Q7dLL)
+ - 💣 [Cancer Cell Hit By An Ion Beam.](http://9gag.com/gag/a7o7LOw)
+ - ⏩ [The most passionate.... Wth!!!](http://9gag.com/gag/aZZMWM3)
  - 👉 [Imagine the decline after 4 more years](http://9gag.com/gag/aE07vpK)<!-- MEMES:END -->
 
 ---
