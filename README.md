@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Power Of The Old Gods Is Yours To Harness With This Shadow Of The Erdtree Great Sword](https://kotaku.com/elden-ring-shadow-erdtree-ancient-meteoric-ore-sword-1851570043)
- - [PlayStation&#39;s Weirdest Program Has Been Mysteriously Broken For Longer Than The 2011 PSN Outage](https://kotaku.com/playstation-stars-outage-broken-down-fixed-1851570048)
- - [The most anticipated TV shows of the summer](https://www.polygon.com/24164051/best-new-tv-summer-2024-release-calendar-schedule-shows-series)<!-- GAME:END -->
+ - [How to get to the Abyssal Woods in Elden Ring: Shadow of the Erdtree](https://www.polygon.com/elden-ring-shadow-erdtree-guide/24187054/abyssal-woods-location-get-to)
+ - [When does Zenless Zone Zero release?](https://www.polygon.com/zenless-zone-zero-guides/2024/7/1/24189925/release-time-launch-preload-zzz)
+ - [Valve Remembers Team Fortress 2 Exists, But In The Worst Way Possible](https://kotaku.com/funko-fusion-pops-figures-tf2-team-fortress-2-dlc-valve-1851570190)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
