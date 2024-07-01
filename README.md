@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [YouTube rolled out a policy change that will let people request the takedown of AI-generated or other synthetic content that simulates their face or voice &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/240701/p15#a240701p15)
- - [Apple adds HomePod, AirPods to the &#39;vintage products&#39; list](https://appleinsider.com/articles/24/07/01/apple-adds-homepod-airpods-to-the-vintage-products-list?utm_medium=rss)
- - [Meta changes its &quot;Made with AI&quot; label to &quot;AI info&quot;, to indicate images were not necessarily created with AI but that AI editing tools may have been used &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/240701/p14#a240701p14)<!-- TECH:END -->
+ - [At 0.72 pounds, Vaio’s first portable monitor is one of the lightest ever](https://www.theverge.com/2024/7/1/24190049/vaio-vision-plus-14-portable-monitor)
+ - [Save $1,200 on the Samsung Odyssey Ark, one of the most desired monitors](https://www.androidauthority.com/samsung-odyssey-ark-deal-3456320/)
+ - [Clean energy has become an even more divided topic in the US](https://www.theverge.com/2024/7/1/24189952/renewable-energy-solar-wind-ev-support-pew-research-survey)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
