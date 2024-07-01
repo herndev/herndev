@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Cringe but wood](http://9gag.com/gag/apRBOND)
- - ⏩ [What happens when you get infected with Guinea worm. Credit : Zack D. Films](http://9gag.com/gag/ajPnzMq)
- - 👉 [Bloody Btsh](http://9gag.com/gag/aKGBoW6)<!-- MEMES:END -->
+ - 💣 [The guy doesn&#39;t believe it when he meets a sane woman](http://9gag.com/gag/aZZNAX0)
+ - ⏩ [What is that supposed to be?](http://9gag.com/gag/aPAGOXg)
+ - 👉 [Bring more of them to Europe](http://9gag.com/gag/a87jPne)<!-- MEMES:END -->
 
 ---
 
