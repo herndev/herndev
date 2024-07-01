@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [When the Adderall wears off and you realize that you are tired from life.](http://9gag.com/gag/ae9G3xj)
- - ⏩ [Cancer Cell Hit By An Ion Beam.](http://9gag.com/gag/a7o7LOw)
- - 👉 [The most passionate.... Wth!!!](http://9gag.com/gag/aZZMWM3)<!-- MEMES:END -->
+ - 💣 [France after election results show massive gain for right wing party](http://9gag.com/gag/a5Q7dLL)
+ - ⏩ [This guy was like ` how is being arrested real? Just walk away lol`](http://9gag.com/gag/a87MbbQ)
+ - 👉 [Ex-wife picks up the kids from the father\u2019s house](http://9gag.com/gag/ae9GKy5)<!-- MEMES:END -->
 
 ---
 
