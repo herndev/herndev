@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [A meme came to life](http://9gag.com/gag/a34LopQ)
- - ⏩ [Drunk guy kicks in hotel front door before getting dropped by a cop](http://9gag.com/gag/a6Z7rPR)
- - 👉 [Even the show mocked her...](http://9gag.com/gag/aMVG1ZW)<!-- MEMES:END -->
+ - 💣 [The most passionate.... Wth!!!](http://9gag.com/gag/aZZMWM3)
+ - ⏩ [Kinda genius](http://9gag.com/gag/aPAD6bB)
+ - 👉 [Again! Again!](http://9gag.com/gag/a2vmzD1)<!-- MEMES:END -->
 
 ---
 
