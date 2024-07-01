@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: French antitrust regulators are preparing to charge Nvidia for allegedly anti-competitive practices &lpar;Foo Yun Chee/Reuters&rpar;](http://www.techmeme.com/240701/p11#a240701p11)
- - [Supreme Court rules in major internet speech cases](https://www.theverge.com/2024/7/1/24166388/supreme-court-ruling-moody-paxton-texas-florida-social-media-law)
- - [SCOTUS orders lower courts to take another look at Texas&#39; and Florida&#39;s social media laws, says neither lower court conducted proper analysis of 1A challenges &lpar;CBS News&rpar;](http://www.techmeme.com/240701/p10#a240701p10)<!-- TECH:END -->
+ - [Circle says it has been granted an e-money license from France, making it compliant with stablecoin provisions under EU&#39;s tough crypto laws &lpar;Ryan Browne/CNBC&rpar;](http://www.techmeme.com/240701/p12#a240701p12)
+ - [Surprise! Samsung Galaxy Watch 7 and Ultra leak in full detail ahead of event](https://www.androidauthority.com/galaxy-watch-7-full-specs-leak-3456205/)
+ - [Amazon&#39;s $2,199 M3 MacBook Pro 16-inch deal delivers cheapest price ahead of Prime Day](https://appleinsider.com/articles/24/07/01/amazons-2199-m3-macbook-pro-16-inch-deal-delivers-cheapest-price-ahead-of-prime-day?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
