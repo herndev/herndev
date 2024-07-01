@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [AMD&#39;s Ryzen 9000X3D-series chips reportedly gain full overclocking support, meaning simple tweaks would make them the all-round chips we always wished for](https://www.pcgamer.com/hardware/processors/amds-ryzen-9000x3d-series-chips-reportedly-gain-full-overclocking-support-meaning-simple-tweaks-would-make-them-the-all-round-chips-we-always-wished-for)
- - [Today&#39;s Wordle answer for Monday, July 1](https://www.pcgamer.com/games/puzzle/wordle-answer-today-july-1-2024)
- - [Five new Steam games you probably missed &lpar;July 1, 2024&rpar;](https://www.pcgamer.com/software/platforms/five-new-steam-games-you-probably-missed-july-1-2024)<!-- GAME:END -->
+ - [Pokémon Go Spotlight Hour schedule for July 2024](https://www.polygon.com/pokemon-go-guide/23661763/spotlight-hour-schedule)
+ - [Pokémon Go Ditto disguises list for July 2024](https://www.polygon.com/pokemon-go-guide/23648583/ditto-disguises-shiny)
+ - [Pokémon Go Giovanni counters, team line-up in July 2024](https://www.polygon.com/pokemon-go-guide/23581491/giovanni-counters-team-go-rocket)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
