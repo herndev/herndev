@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Internet Providers in Oceanside, California](https://www.cnet.com/home/internet/best-internet-providers-in-oceanside-ca/#ftag=CAD590a51e)
- - [BlackRock has agreed to buy Preqin, a UK-based provider of private markets data, for &amp;pound;2.55B in cash &lpar;Silla Brush/Bloomberg&rpar;](http://www.techmeme.com/240701/p2#a240701p2)
- - [Sources: Huawei plans to partner with Chinese foundry Wuhan Xinxin to develop high-bandwidth memory chips, marking its latest effort to defy US sanctions &lpar;Che Pan/South China Morning Post&rpar;](http://www.techmeme.com/240701/p1#a240701p1)<!-- TECH:END -->
+ - [There’s bad news if you’ve got an old phone with Samsung Health &lpar;APK teardown&rpar;](https://www.androidauthority.com/samsung-health-drop-support-older-phones-3456016/)
+ - [Sources: the EU plans to charge Meta under the DMA this week, focusing on Meta&#39;s pay or consent model where users pay for an ad-free Facebook and Instagram &lpar;Javier Espinoza/Financial Times&rpar;](http://www.techmeme.com/240701/p4#a240701p4)
+ - [Nigeria&#39;s food delivery startups are attracting investors optimistic about the growing demand in a market that is expected to double to $2.4B over eight years &lpar;Aanu Adeoye/Financial Times&rpar;](http://www.techmeme.com/240701/p3#a240701p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
