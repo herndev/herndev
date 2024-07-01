@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Government data: the value of South Korea&#39;s chip shipments reached $13.4B in June, up 51% YoY; exports of display products up 26% YoY and computers up 59% YoY &lpar;Bloomberg&rpar;](http://www.techmeme.com/240701/p5#a240701p5)
- - [The best new Android apps for July 2024](https://www.androidauthority.com/new-android-apps-658839/)
- - [Samsung Galaxy Ring is coming: What we know so far and what we want to see](https://www.androidauthority.com/samsung-galaxy-ring-3340682/)<!-- TECH:END -->
+ - [Xiaomi 15 specs leak: An early Galaxy S25 rival?](https://www.androidauthority.com/xiaomi-15-specs-leak-an-early-galaxy-s25-rival-3456089/)
+ - [iPhone 16 Pro will have brighter and longer-lasting display](https://appleinsider.com/articles/24/07/01/iphone-16-pro-will-have-brighter-and-longer-lasting-display?utm_medium=rss)
+ - [The Problem the US TikTok Crackdown and Kaspersky Ban Have in Common](https://www.wired.com/story/tiktok-kaspersky-us-ban-internet-freedom/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
