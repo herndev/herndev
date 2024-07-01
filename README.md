@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [This Skyrim mod makes tableware so gloriously beautiful I can&#39;t stop staring at it](https://www.pcgamer.com/games/rpg/this-skyrim-mod-makes-tableware-so-gloriously-beautiful-i-cant-stop-staring-at-it)
- - [Furiosa, Netflix’s A Family Affair, The Boy and the Heron, and every movie new to streaming this week](https://www.polygon.com/2024/6/28/24181922/new-movies-family-affair-netflix-boy-and-the-heron-furiosa-mad-max)
- - [Sir Moore questline walkthrough for Elden Ring: Shadow of the Erdtree](https://www.polygon.com/elden-ring-shadow-erdtree-guide/24188315/sir-moore-sote-behind-remain-sad-forager-brood-cookbook)<!-- GAME:END -->
+ - [Final Fantasy 14 producer Yoshi-P apologizes for the Dawntrail expansion&#39;s early access technical issues](https://www.pcgamer.com/games/mmo/final-fantasy-14-producer-yoshi-p-apologizes-for-the-dawntrail-expansions-early-access-technical-issues)
+ - [Digital board game Dune: Imperium is getting the Rise of Ix expansion in July](https://www.pcgamer.com/games/strategy/digital-board-game-dune-imperium-is-getting-the-rise-of-ix-expansion-in-july)
+ - [Modders have uncovered an extended version of The Witcher 3&#39;s ending where Yennefer pulls off a shocking betrayal of her sorceress friends](https://www.pcgamer.com/games/rpg/modders-have-uncovered-an-extended-version-of-the-witcher-3s-ending-where-yennefer-pulls-off-a-shocking-betrayal-of-her-sorceress-friends)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
