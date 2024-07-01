@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Lambda, which rents out servers powered by Nvidia&#39;s AI chips, is in talks to raise $800M, after a $320M Series C at a $1.5B valuation in February &lpar;Financial Times&rpar;](http://www.techmeme.com/240628/p23#a240628p23)
- - [eBay&#39;s 4th of July coupon knocks 20% off popular tech](https://appleinsider.com/articles/24/06/28/ebays-4th-of-july-coupon-knocks-20-off-popular-tech?utm_medium=rss)
- - [Hot deal for gamers: The Samsung Odyssey G32A gaming monitor is just $130 right now!](https://www.androidauthority.com/samsung-odyssey-g32a-monitor-deal-3455854/)<!-- TECH:END -->
+ - [Interviews with the creator and maintainers of FreeDOS, the only MS-DOS-compatible OS still under active development, about its continued relevance and more &lpar;Andrew Cunningham/Ars Technica&rpar;](http://www.techmeme.com/240630/p10#a240630p10)
+ - [Best Internet Providers in Bridgeport, Connecticut](https://www.cnet.com/home/internet/best-internet-providers-in-bridgeport-ct/#ftag=CAD590a51e)
+ - [Best Internet Providers in Biloxi, Mississippi](https://www.cnet.com/home/internet/best-internet-providers-in-biloxi-ms/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
