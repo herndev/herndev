@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Grab 22 of Capcom’s greatest fighting games on sale right now for under $20](https://www.polygon.com/deals/2024/6/26/24186002/capcom-fighting-game-bundle-deal-sale-street-fighter)
- - [The Dragon Age II Companions, Ranked From Worst To Best](https://kotaku.com/dragon-age-2-best-characters-anders-varric-isabela-1851571061)
- - [Grab 3 months Xbox Game Pass Ultimate for under $35 at Woot](https://www.polygon.com/deals/2024/7/1/24190165/xbox-game-pass-ultimate-pc-deal-sale-woot)<!-- GAME:END -->
+ - [A Japanese company is making an adorable Elden Ring warrior jar mug just in time for everyone to get really freaked out by their new lore in the DLC](https://www.pcgamer.com/games/rpg/a-japanese-company-is-making-an-adorable-elden-ring-warrior-jar-mug-just-in-time-for-everyone-to-get-really-freaked-out-by-their-new-lore-in-the-dlc)
+ - [Trust me, you should rewatch the Elden Ring: Shadow of the Erdtree cinematic trailer after beating the expansion](https://www.pcgamer.com/games/rpg/trust-me-you-should-rewatch-the-elden-ring-shadow-of-the-erdtree-cinematic-trailer-after-beating-the-expansion)
+ - [Valve&#39;s new top-played chart for the Steam Deck shows that people really, really like both Hades and Hades 2](https://www.pcgamer.com/games/roguelike/valves-new-top-played-chart-for-the-steam-deck-shows-that-people-really-really-like-both-hades-and-hades-2)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
