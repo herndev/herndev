@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Fortnite Crew Pack and skin for July 2024](https://www.polygon.com/fortnite-guide/23941614/fortnite-crew-pack-skin)
- - [Intel&#39;s Arrow Lake chips could be using a brand new core layout for the first time in years](https://www.pcgamer.com/hardware/processors/intels-arrow-lake-chips-could-be-using-a-brand-new-core-layout-for-the-first-time-in-years)
- - [&#39;I know nothing, you never heard a peep from me&#39;: George RR Martin pens cryptic message about a potential Elden Ring TV show or film](https://www.pcgamer.com/games/rpg/i-know-nothing-you-never-heard-a-peep-from-me-george-rr-martin-pens-cryptic-message-about-a-potential-elden-ring-tv-show-or-film)<!-- GAME:END -->
+ - [Pokémon Go raid schedule for July 2024’s Legendary and Mega Pokémon](https://www.polygon.com/pokemon-go-guide/24168766/raid-schedule-legendary-mega-shadow-five-star)
+ - [FFXIV housing lottery schedule for July 2024](https://www.polygon.com/ffxiv-guides-ff14-final-fantasy-14-online/24115693/housing-lottery-schedule-entry-results-period)
+ - [Wuthering Waves codes and how to redeem them](https://www.polygon.com/guides/24163081/wuthering-waves-codes-how-to-redeem-redemption)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
