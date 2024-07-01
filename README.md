@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Climate Change Has Fried Earth So Badly Trees Won’t Save You Today—But I Will](https://www.wired.com/story/i-will-save-you-from-the-heat/)
- - [Samsung Galaxy Watches could soon measure AGEs for your metabolic health &lpar;APK teardown&rpar;](https://www.androidauthority.com/samsung-galaxy-watch-ages-index-apk-teardown-3456073/)
- - [Mark Your Calendar: New &#39;Bluey&#39; Episodes Are Nearly Here](https://www.cnet.com/tech/services-and-software/mark-your-calendar-new-bluey-episodes-are-nearly-here/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Facebook and Instagram’s ‘pay or consent’ ad model violates the DMA, says the EU](https://www.theverge.com/2024/7/1/24189796/eu-meta-dma-violation-pay-consent-ads-model)
+ - [Window Tiling in macOS Sequoia is Apple&#39;s third try to fix a problem](https://appleinsider.com/articles/24/07/01/window-tiling-in-macos-sequoia-is-apples-third-go-at-fixing-a-problem?utm_medium=rss)
+ - [This year’s Apple Watches may not be as unique as Apple would pitch them to be](https://www.androidauthority.com/apple-watch-series-10-may-not-look-unique-3456121/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
