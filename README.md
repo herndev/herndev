@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Xiaomi 15 specs leak: An early Galaxy S25 rival?](https://www.androidauthority.com/xiaomi-15-specs-leak-an-early-galaxy-s25-rival-3456089/)
- - [iPhone 16 Pro will have brighter and longer-lasting display](https://appleinsider.com/articles/24/07/01/iphone-16-pro-will-have-brighter-and-longer-lasting-display?utm_medium=rss)
- - [The Problem the US TikTok Crackdown and Kaspersky Ban Have in Common](https://www.wired.com/story/tiktok-kaspersky-us-ban-internet-freedom/)<!-- TECH:END -->
+ - [Climate Change Has Fried Earth So Badly Trees Won’t Save You Today—But I Will](https://www.wired.com/story/i-will-save-you-from-the-heat/)
+ - [Samsung Galaxy Watches could soon measure AGEs for your metabolic health &lpar;APK teardown&rpar;](https://www.androidauthority.com/samsung-galaxy-watch-ages-index-apk-teardown-3456073/)
+ - [Mark Your Calendar: New &#39;Bluey&#39; Episodes Are Nearly Here](https://www.cnet.com/tech/services-and-software/mark-your-calendar-new-bluey-episodes-are-nearly-here/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
