@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The first Thunderbolt 5 cables are here, but there’s barely anything to plug in](https://www.theverge.com/2024/7/1/24190263/thunderbolt-5-cable-matters-intel-usb-c)
- - [SEC sues parent company of crypto-friendly Silvergate Bank and execs, saying ~$9B in suspicious FTX transfers weren&#39;t caught and its AML compliance was poor &lpar;Elizabeth Lopatto/The Verge&rpar;](http://www.techmeme.com/240701/p16#a240701p16)
- - [Record deal saves you $100 on the Bose QuietComfort Earbuds II](https://www.androidauthority.com/bose-quietcomfort-earbuds-ii-deal-2-3456353/)<!-- TECH:END -->
+ - [Samsung Galaxy Watch FE vs Samsung Galaxy Watch 6: Which should you buy?](https://www.androidauthority.com/samsung-galaxy-watch-fe-vs-samsung-galaxy-watch-6-3456010/)
+ - [The US Supreme Court Has Handed Big Tech a Big Gift](https://www.wired.com/story/supreme-court-chevron-big-tech-regulatory-agencies/)
+ - [Researchers from Qualys say a flaw in OpenSSH can allow attackers to remotely compromise servers, with over 14M servers potentially vulnerable &lpar;Lucian Constantin/CSO&rpar;](http://www.techmeme.com/240701/p17#a240701p17)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
