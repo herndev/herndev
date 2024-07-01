@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Interesting](http://9gag.com/gag/ayNd7nb)
- - ⏩ [Cancer Cell Hit By An Ion Beam.](http://9gag.com/gag/a7o7LOw)
- - 👉 [He&#39;s not the one, And I know you&#39;re not.](http://9gag.com/gag/ae9poxB)<!-- MEMES:END -->
+ - 💣 [France right now](http://9gag.com/gag/aXP9bE6)
+ - ⏩ [Based](http://9gag.com/gag/aRBAweQ)
+ - 👉 [That\u2019s a core memory right there](http://9gag.com/gag/aKGqwZZ)<!-- MEMES:END -->
 
 ---
 
