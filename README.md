@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung Galaxy Watch FE vs Samsung Galaxy Watch 6: Which should you buy?](https://www.androidauthority.com/samsung-galaxy-watch-fe-vs-samsung-galaxy-watch-6-3456010/)
- - [The US Supreme Court Has Handed Big Tech a Big Gift](https://www.wired.com/story/supreme-court-chevron-big-tech-regulatory-agencies/)
- - [Researchers from Qualys say a flaw in OpenSSH can allow attackers to remotely compromise servers, with over 14M servers potentially vulnerable &lpar;Lucian Constantin/CSO&rpar;](http://www.techmeme.com/240701/p17#a240701p17)<!-- TECH:END -->
+ - [REI’s Fourth of July Sale Has Great Deals on Our Favorite Outdoor Gear](https://www.wired.com/story/rei-fourth-of-july-deals-2024/)
+ - [Samsung SmartThings takes a step toward a smarter grid](https://www.theverge.com/2024/7/1/24190224/samsung-smartthings-flex-connect-demand-response)
+ - [Google’s Gemini could be in Apple Intelligence by this fall](https://www.androidauthority.com/apple-intelligence-gemini-integration-3456349/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
