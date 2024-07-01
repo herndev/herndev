@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best Internet Providers in Oceanside, California](https://www.cnet.com/home/internet/best-internet-providers-in-oceanside-ca/#ftag=CAD590a51e)
  - [BlackRock has agreed to buy Preqin, a UK-based provider of private markets data, for &amp;pound;2.55B in cash &lpar;Silla Brush/Bloomberg&rpar;](http://www.techmeme.com/240701/p2#a240701p2)
- - [Sources: Huawei plans to partner with Chinese foundry Wuhan Xinxin to develop high-bandwidth memory chips, marking its latest effort to defy US sanctions &lpar;Che Pan/South China Morning Post&rpar;](http://www.techmeme.com/240701/p1#a240701p1)
- - [Galaxy Watches could soon be used for family health tracking &lpar;APK teardown&rpar;](https://www.androidauthority.com/samsung-galaxy-watch-family-health-tracking-apk-teardown-3455990/)<!-- TECH:END -->
+ - [Sources: Huawei plans to partner with Chinese foundry Wuhan Xinxin to develop high-bandwidth memory chips, marking its latest effort to defy US sanctions &lpar;Che Pan/South China Morning Post&rpar;](http://www.techmeme.com/240701/p1#a240701p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
