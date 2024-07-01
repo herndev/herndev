@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Pokémon Go Spotlight Hour schedule for July 2024](https://www.polygon.com/pokemon-go-guide/23661763/spotlight-hour-schedule)
- - [Pokémon Go Ditto disguises list for July 2024](https://www.polygon.com/pokemon-go-guide/23648583/ditto-disguises-shiny)
- - [Pokémon Go Giovanni counters, team line-up in July 2024](https://www.polygon.com/pokemon-go-guide/23581491/giovanni-counters-team-go-rocket)<!-- GAME:END -->
+ - [Fortnite Crew Pack and skin for July 2024](https://www.polygon.com/fortnite-guide/23941614/fortnite-crew-pack-skin)
+ - [Intel&#39;s Arrow Lake chips could be using a brand new core layout for the first time in years](https://www.pcgamer.com/hardware/processors/intels-arrow-lake-chips-could-be-using-a-brand-new-core-layout-for-the-first-time-in-years)
+ - [&#39;I know nothing, you never heard a peep from me&#39;: George RR Martin pens cryptic message about a potential Elden Ring TV show or film](https://www.pcgamer.com/games/rpg/i-know-nothing-you-never-heard-a-peep-from-me-george-rr-martin-pens-cryptic-message-about-a-potential-elden-ring-tv-show-or-film)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
