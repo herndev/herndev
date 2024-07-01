@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [OnePlus 13 rumors: Everything we know so far and what we want to see](https://www.androidauthority.com/oneplus-13-3436509/)
- - [Google Pixel 9 rumors: Everything we know so far about the upcoming Pixels](https://www.androidauthority.com/google-pixel-9-3365966/)
- - [Google Pixel 9 phones could get better screens than the Galaxy S24 series](https://www.androidauthority.com/google-pixel-9-series-screen-leak-3456027/)<!-- TECH:END -->
+ - [Government data: the value of South Korea&#39;s chip shipments reached $13.4B in June, up 51% YoY; exports of display products up 26% YoY and computers up 59% YoY &lpar;Bloomberg&rpar;](http://www.techmeme.com/240701/p5#a240701p5)
+ - [The best new Android apps for July 2024](https://www.androidauthority.com/new-android-apps-658839/)
+ - [Samsung Galaxy Ring is coming: What we know so far and what we want to see](https://www.androidauthority.com/samsung-galaxy-ring-3340682/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
