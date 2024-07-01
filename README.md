@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How to get to the Abyssal Woods in Elden Ring: Shadow of the Erdtree](https://www.polygon.com/elden-ring-shadow-erdtree-guide/24187054/abyssal-woods-location-get-to)
- - [When does Zenless Zone Zero release?](https://www.polygon.com/zenless-zone-zero-guides/2024/7/1/24189925/release-time-launch-preload-zzz)
- - [Valve Remembers Team Fortress 2 Exists, But In The Worst Way Possible](https://kotaku.com/funko-fusion-pops-figures-tf2-team-fortress-2-dlc-valve-1851570190)<!-- GAME:END -->
+ - [Star Trek: Prodigy season 2, Tower of God season 2, and more new TV this week](https://www.polygon.com/2024/7/1/24183180/new-tv-netflix-star-trek-prodigy-tower-god-season-2-nfl-anime)
+ - [It Sounds Like Destiny 2 Is Finally Leaving Our Solar System Next Year](https://kotaku.com/destiny-2-year-11-new-world-frontiers-1851570524)
+ - [The Acolyte Episode 5 Review: Stunning Battles, Shallow Characters](https://kotaku.com/acolyte-episode-5-review-1851570537)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
