@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Man confronting shoplifters as they try to leave in Downey, California](http://9gag.com/gag/agmVrLq)
- - ⏩ [A meme came to life](http://9gag.com/gag/a34LopQ)
- - 👉 [Imagine the decline after 4 more years](http://9gag.com/gag/aE07vpK)<!-- MEMES:END -->
+ - 💣 [A meme came to life](http://9gag.com/gag/a34LopQ)
+ - ⏩ [Drunk guy kicks in hotel front door before getting dropped by a cop](http://9gag.com/gag/a6Z7rPR)
+ - 👉 [Even the show mocked her...](http://9gag.com/gag/aMVG1ZW)<!-- MEMES:END -->
 
 ---
 
