@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [There’s bad news if you’ve got an old phone with Samsung Health &lpar;APK teardown&rpar;](https://www.androidauthority.com/samsung-health-drop-support-older-phones-3456016/)
- - [Sources: the EU plans to charge Meta under the DMA this week, focusing on Meta&#39;s pay or consent model where users pay for an ad-free Facebook and Instagram &lpar;Javier Espinoza/Financial Times&rpar;](http://www.techmeme.com/240701/p4#a240701p4)
- - [Nigeria&#39;s food delivery startups are attracting investors optimistic about the growing demand in a market that is expected to double to $2.4B over eight years &lpar;Aanu Adeoye/Financial Times&rpar;](http://www.techmeme.com/240701/p3#a240701p3)<!-- TECH:END -->
+ - [OnePlus 13 rumors: Everything we know so far and what we want to see](https://www.androidauthority.com/oneplus-13-3436509/)
+ - [Google Pixel 9 rumors: Everything we know so far about the upcoming Pixels](https://www.androidauthority.com/google-pixel-9-3365966/)
+ - [Google Pixel 9 phones could get better screens than the Galaxy S24 series](https://www.androidauthority.com/google-pixel-9-series-screen-leak-3456027/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
