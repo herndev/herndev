@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle answer for Monday, July 1](https://www.pcgamer.com/games/puzzle/wordle-answer-today-july-1-2024)
  - [Five new Steam games you probably missed &lpar;July 1, 2024&rpar;](https://www.pcgamer.com/software/platforms/five-new-steam-games-you-probably-missed-july-1-2024)
- - [House of the Dragon finally gives a tour of Harrenhal, Westeros’ most haunted castle](https://www.polygon.com/24182771/house-dragon-harrenhal-haunted-explained-history-strong)
- - [What’s up with the Riverlands in House of the Dragon?](https://www.polygon.com/24188182/house-dragon-map-riverlands-battles)<!-- GAME:END -->
+ - [House of the Dragon finally gives a tour of Harrenhal, Westeros’ most haunted castle](https://www.polygon.com/24182771/house-dragon-harrenhal-haunted-explained-history-strong)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
