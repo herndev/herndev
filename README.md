@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Interesting](http://9gag.com/gag/ayNd7nb)
- - ⏩ [Ex-wife picks up the kids from the father\u2019s house](http://9gag.com/gag/ae9GKy5)
- - 👉 [Drunk guy kicks in hotel front door before getting dropped by a cop](http://9gag.com/gag/a6Z7rPR)<!-- MEMES:END -->
+ - 💣 [Imagine the decline after 4 more years](http://9gag.com/gag/aE07vpK)
+ - ⏩ [Powerful](http://9gag.com/gag/aD2mB1Z)
+ - 👉 [I love that a website that\u2019s So homophobic and So racist has collectively decided that these two are amongst their favorite people](http://9gag.com/gag/aryKpDV)<!-- MEMES:END -->
 
 ---
 
