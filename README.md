@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Pokémon Go raid schedule for July 2024’s Legendary and Mega Pokémon](https://www.polygon.com/pokemon-go-guide/24168766/raid-schedule-legendary-mega-shadow-five-star)
- - [FFXIV housing lottery schedule for July 2024](https://www.polygon.com/ffxiv-guides-ff14-final-fantasy-14-online/24115693/housing-lottery-schedule-entry-results-period)
- - [Wuthering Waves codes and how to redeem them](https://www.polygon.com/guides/24163081/wuthering-waves-codes-how-to-redeem-redemption)<!-- GAME:END -->
+ - [Kunitsu-Gami: Path of the Goddess Balances Strategy, Action and Town Building in an All-New Way](https://news.xbox.com/en-us/2024/07/01/kunitsu-gami-path-of-the-goddess-action-strategy-town-building/)
+ - [&#39;Is this supposed to be rigged?&#39; Helldivers 2 players fatigued as bugs leapfrog across supply lines like a bunch of dirty cheaters](https://www.pcgamer.com/games/third-person-shooter/is-this-supposed-to-be-rigged-helldivers-2-players-fatigued-as-bugs-leapfrog-across-supply-lines-like-a-bunch-of-dirty-cheaters)
+ - [Shadow Of The Erdtree&#39;s Poisonous Perfume Bottle Is Easy To Miss &lpar;Here&#39;s Where To Get It&rpar;](https://kotaku.com/elden-ring-shadow-erdtree-thiollier-poison-perfume-1851569817)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
