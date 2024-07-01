@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Interviews with the creator and maintainers of FreeDOS, the only MS-DOS-compatible OS still under active development, about its continued relevance and more &lpar;Andrew Cunningham/Ars Technica&rpar;](http://www.techmeme.com/240630/p10#a240630p10)
- - [Best Internet Providers in Bridgeport, Connecticut](https://www.cnet.com/home/internet/best-internet-providers-in-bridgeport-ct/#ftag=CAD590a51e)
- - [Best Internet Providers in Biloxi, Mississippi](https://www.cnet.com/home/internet/best-internet-providers-in-biloxi-ms/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Stand-Up Paddle Boards for 2024](https://www.cnet.com/health/fitness/best-stand-up-paddle-boards/#ftag=CAD590a51e)
+ - [Sources: BlackRock has agreed to buy Preqin, a UK-based provider of private markets data, for &amp;pound;2.55B in cash &lpar;Financial Times&rpar;](http://www.techmeme.com/240630/p11#a240630p11)
+ - [Best Internet Providers in Yonkers, New York](https://www.cnet.com/home/internet/best-internet-providers-in-yonkers-ny/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
