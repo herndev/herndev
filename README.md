@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Kunitsu-Gami: Path of the Goddess Balances Strategy, Action and Town Building in an All-New Way](https://news.xbox.com/en-us/2024/07/01/kunitsu-gami-path-of-the-goddess-action-strategy-town-building/)
- - [&#39;Is this supposed to be rigged?&#39; Helldivers 2 players fatigued as bugs leapfrog across supply lines like a bunch of dirty cheaters](https://www.pcgamer.com/games/third-person-shooter/is-this-supposed-to-be-rigged-helldivers-2-players-fatigued-as-bugs-leapfrog-across-supply-lines-like-a-bunch-of-dirty-cheaters)
- - [Shadow Of The Erdtree&#39;s Poisonous Perfume Bottle Is Easy To Miss &lpar;Here&#39;s Where To Get It&rpar;](https://kotaku.com/elden-ring-shadow-erdtree-thiollier-poison-perfume-1851569817)<!-- GAME:END -->
+ - [The Power Of The Old Gods Is Yours To Harness With This Shadow Of The Erdtree Great Sword](https://kotaku.com/elden-ring-shadow-erdtree-ancient-meteoric-ore-sword-1851570043)
+ - [PlayStation&#39;s Weirdest Program Has Been Mysteriously Broken For Longer Than The 2011 PSN Outage](https://kotaku.com/playstation-stars-outage-broken-down-fixed-1851570048)
+ - [The most anticipated TV shows of the summer](https://www.polygon.com/24164051/best-new-tv-summer-2024-release-calendar-schedule-shows-series)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
