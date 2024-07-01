@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Equality in action](http://9gag.com/gag/azxjb4m)
- - ⏩ [The Chinese Tianlong-3 Rocket Accidentally Launched During A Engine Test](http://9gag.com/gag/aByYRgx)
- - 👉 [The guy doesn&#39;t believe it when he meets a sane woman](http://9gag.com/gag/aZZNAX0)<!-- MEMES:END -->
+ - 💣 [Interesting](http://9gag.com/gag/ayNd7nb)
+ - ⏩ [Cancer Cell Hit By An Ion Beam.](http://9gag.com/gag/a7o7LOw)
+ - 👉 [He&#39;s not the one, And I know you&#39;re not.](http://9gag.com/gag/ae9poxB)<!-- MEMES:END -->
 
 ---
 
