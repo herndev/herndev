@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [What’s up with the Riverlands in House of the Dragon?](https://www.polygon.com/24188182/house-dragon-map-riverlands-battles)
- - [Drop blocks to make your own maze in the demo for tower defense game Emberward](https://www.pcgamer.com/games/strategy/drop-blocks-to-make-your-own-maze-in-the-demo-for-tower-defense-game-emberward)
- - [Final Fantasy 14 producer Yoshi-P apologizes for the Dawntrail expansion&#39;s early access technical issues](https://www.pcgamer.com/games/mmo/final-fantasy-14-producer-yoshi-p-apologizes-for-the-dawntrail-expansions-early-access-technical-issues)<!-- GAME:END -->
+ - [Five new Steam games you probably missed &lpar;July 1, 2024&rpar;](https://www.pcgamer.com/software/platforms/five-new-steam-games-you-probably-missed-july-1-2024)
+ - [House of the Dragon finally gives a tour of Harrenhal, Westeros’ most haunted castle](https://www.polygon.com/24182771/house-dragon-harrenhal-haunted-explained-history-strong)
+ - [What’s up with the Riverlands in House of the Dragon?](https://www.polygon.com/24188182/house-dragon-map-riverlands-battles)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
