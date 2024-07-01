@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [A Japanese company is making an adorable Elden Ring warrior jar mug just in time for everyone to get really freaked out by their new lore in the DLC](https://www.pcgamer.com/games/rpg/a-japanese-company-is-making-an-adorable-elden-ring-warrior-jar-mug-just-in-time-for-everyone-to-get-really-freaked-out-by-their-new-lore-in-the-dlc)
- - [Trust me, you should rewatch the Elden Ring: Shadow of the Erdtree cinematic trailer after beating the expansion](https://www.pcgamer.com/games/rpg/trust-me-you-should-rewatch-the-elden-ring-shadow-of-the-erdtree-cinematic-trailer-after-beating-the-expansion)
- - [Valve&#39;s new top-played chart for the Steam Deck shows that people really, really like both Hades and Hades 2](https://www.pcgamer.com/games/roguelike/valves-new-top-played-chart-for-the-steam-deck-shows-that-people-really-really-like-both-hades-and-hades-2)<!-- GAME:END -->
+ - [Frank is Back in Dead Rising Deluxe Remaster, Launching September 19 for Xbox Series X|S](https://news.xbox.com/en-us/2024/07/01/frank-is-back-in-dead-rising-deluxe-remaster-launching-september-19-for-xbox-series-xs/)
+ - [Guy who mapped Skyrim&#39;s rivers decides to follow Fallout characters home after dismissing them](https://www.pcgamer.com/games/rpg/guy-who-mapped-skyrims-rivers-decides-to-follow-fallout-characters-home-after-dismissing-them)
+ - [Capcom Next: Dead Rising Deluxe Remaster out Sept 19, Kunitsu-Gami: Path of the Goddess demo out today](https://blog.playstation.com/2024/07/01/capcom-next-dead-rising-deluxe-remaster-out-sept-19-kunitsu-gami-path-of-the-goddess-demo-out-today/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
