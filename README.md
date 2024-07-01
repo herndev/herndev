@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Final Fantasy XIV: Should You Buy The Starter Edition Or Play The Free Trial?](https://kotaku.com/final-fantasy-14-ff14-free-trial-starter-edition-best-1851570741)
- - [The major movies you could easily miss in the next three months](https://www.polygon.com/24163467/best-new-movies-summer-2024-release-calendar-schedule)
- - [GTA Online adds a qualify-of-life feature players have wanted for years then upsets everyone by paywalling it: &#39;One of the slimiest things they&#39;ve done in a while&#39;](https://www.pcgamer.com/games/grand-theft-auto/gta-online-adds-a-qualify-of-life-feature-players-have-wanted-for-years-then-upsets-everyone-by-paywalling-it-one-of-the-slimiest-things-theyve-done-in-a-while)<!-- GAME:END -->
+ - [The Dragon Age II Companions, Ranked From Worst To Best](https://kotaku.com/dragon-age-2-best-characters-anders-varric-isabela-1851571061)
+ - [Grab 3 months Xbox Game Pass Ultimate for under $35 at Woot](https://www.polygon.com/deals/2024/7/1/24190165/xbox-game-pass-ultimate-pc-deal-sale-woot)
+ - [Team Fortress 2 players are not loving the announcement of TF2 DLC for Funko Fusion instead of, y&#39;know, TF2: &#39;Genuinely would rather bots continue to overrun the game than this happen&#39;](https://www.pcgamer.com/games/action/team-fortress-2-players-are-not-loving-the-announcement-of-tf2-dlc-for-funko-fusion-instead-of-yknow-tf2-genuinely-would-rather-bots-continue-to-overrun-the-game-than-this-happen)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
