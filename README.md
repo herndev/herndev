@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The sequel to 2023’s most exciting foldable is coming next week](https://www.androidauthority.com/honor-magic-v3-launch-date-3455174/)
  - [These 5 shades could be the Galaxy S24 FE’s colorway options](https://www.androidauthority.com/galaxy-s24-fe-colors-3456474/)
- - [China plans to form a technical committee to develop standards for brain-computer interfaces, including a standard for brain information encoding and decoding &lpar;Foster Wong/Bloomberg&rpar;](http://www.techmeme.com/240702/p2#a240702p2)
- - [Australia&#39;s eSafety Commissioner has issued notices to internet firms asking for enforceable codes to protect kids from pornography and other content by Oct. 3 &lpar;Byron Kaye/Reuters&rpar;](http://www.techmeme.com/240702/p1#a240702p1)<!-- TECH:END -->
+ - [China plans to form a technical committee to develop standards for brain-computer interfaces, including a standard for brain information encoding and decoding &lpar;Foster Wong/Bloomberg&rpar;](http://www.techmeme.com/240702/p2#a240702p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
