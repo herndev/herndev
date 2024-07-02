@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [From October of 2023 to April of 2024](http://9gag.com/gag/ae9G3eW)
- - ⏩ [Drunk guy kicks in hotel front door before getting dropped by a cop](http://9gag.com/gag/a6Z7rPR)
- - 👉 [Ex-wife picks up the kids from the father\u2019s house](http://9gag.com/gag/ae9GKy5)<!-- MEMES:END -->
+ - 💣 [Not sure if this is an MJF bucket list wish but this legend deserves all respect](http://9gag.com/gag/aYQeWMN)
+ - ⏩ [Modern problem required modern solutions](http://9gag.com/gag/avyPpbM)
+ - 👉 [Cheers!](http://9gag.com/gag/azxjbpx)<!-- MEMES:END -->
 
 ---
 
