@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I love that a website that\u2019s So homophobic and So racist has collectively decided that these two are amongst their favorite people](http://9gag.com/gag/aryKpDV)
- - ⏩ [Modern problem required modern solutions](http://9gag.com/gag/avyPpbM)
- - 👉 [From October of 2023 to April of 2024](http://9gag.com/gag/ae9G3eW)<!-- MEMES:END -->
+ - 💣 [From October of 2023 to April of 2024](http://9gag.com/gag/ae9G3eW)
+ - ⏩ [Drunk guy kicks in hotel front door before getting dropped by a cop](http://9gag.com/gag/a6Z7rPR)
+ - 👉 [Ex-wife picks up the kids from the father\u2019s house](http://9gag.com/gag/ae9GKy5)<!-- MEMES:END -->
 
 ---
 
