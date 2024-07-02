@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A US judge temporarily blocked a new Mississippi law that would require age verification for all and parental consent for teens to join some social networks &lpar;Lauren Feiner/The Verge&rpar;](http://www.techmeme.com/240702/p20#a240702p20)
- - [Netflix’s latest game is a mobile take on Minesweeper](https://www.theverge.com/2024/7/2/24190961/netflix-games-minesweeper-subscribers-launch-trailer)
- - [Xbox Live is down](https://www.theverge.com/2024/7/2/24191012/xbox-live-down-outage-xbox-series-x-s-online-sign-failed)<!-- TECH:END -->
+ - [Former Apple hardware engineer joins Rivian](https://appleinsider.com/articles/24/07/02/former-apple-hardware-engineer-joins-rivian?utm_medium=rss)
+ - [Here are the best Apple Watch deals right now](https://www.theverge.com/21289209/best-apple-watch-deals)
+ - [Sources: Apple will get an observer role on OpenAI&#39;s board, with Phil Schiller chosen for the position, as part of their partnership announced last month &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/240702/p22#a240702p22)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
