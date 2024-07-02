@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Australia&#39;s eSafety Commissioner has issued notices to internet firms asking for enforceable codes to protect kids from pornography and other content by Oct. 3 &lpar;Byron Kaye/Reuters&rpar;](http://www.techmeme.com/240702/p1#a240702p1)
- - [Missed the Student Loan Forgiveness Deadline? Here Are Your Options](https://www.cnet.com/personal-finance/student-loan-forgiveness-heres-what-to-do-if-you-missed-the-loan-consolidation-deadline/#ftag=CAD590a51e)
- - [This is the Pixel 9 in its new pink color, check it out!](https://www.androidauthority.com/google-pixel-9-pink-color-hands-on-leak-3456457/)<!-- TECH:END -->
+ - [These 5 shades could be the Galaxy S24 FE’s colorway options](https://www.androidauthority.com/galaxy-s24-fe-colors-3456474/)
+ - [China plans to form a technical committee to develop standards for brain-computer interfaces, including a standard for brain information encoding and decoding &lpar;Foster Wong/Bloomberg&rpar;](http://www.techmeme.com/240702/p2#a240702p2)
+ - [Australia&#39;s eSafety Commissioner has issued notices to internet firms asking for enforceable codes to protect kids from pornography and other content by Oct. 3 &lpar;Byron Kaye/Reuters&rpar;](http://www.techmeme.com/240702/p1#a240702p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
