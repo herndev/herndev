@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Do Yourself A Favor And Go Watch The Best Speedrunning Event Of The Year](https://kotaku.com/sgdq-2024-summer-games-done-quick-schedule-1851573798)
- - [Expansions are the best](https://www.pcgamer.com/gaming-industry/expansions-are-the-best)
- - [Academy Award-winner Cate Blanchett explains why she signed up for the Borderlands film: &#39;A touch of Covid madness&#39;](https://www.pcgamer.com/movies-tv/academy-award-winner-cate-blanchett-explains-why-she-signed-up-for-the-borderlands-film-a-touch-of-covid-madness)<!-- GAME:END -->
+ - [So we’ve all been saying ‘scadutree’ wrong](https://www.polygon.com/24191083/how-to-pronounce-scadutree-elden-ring)
+ - [Xbox Live suffers a &#39;major outage&#39; that&#39;s keeping people from logging in, Microsoft says fixing it is &#39;taking longer than expected&#39;](https://www.pcgamer.com/software/platforms/xbox-live-suffers-a-major-outage-thats-keeping-people-from-logging-in-microsoft-says-fixing-it-is-taking-longer-than-expected)
+ - [Stardew Valley players on Steam Deck can test out the new Nexus Mods app](https://www.pcgamer.com/games/life-sim/stardew-valley-players-on-steam-deck-can-test-out-the-new-nexus-mods-app)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
