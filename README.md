@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Frank is Back in Dead Rising Deluxe Remaster, Launching September 19 for Xbox Series X|S](https://news.xbox.com/en-us/2024/07/01/frank-is-back-in-dead-rising-deluxe-remaster-launching-september-19-for-xbox-series-xs/)
- - [Guy who mapped Skyrim&#39;s rivers decides to follow Fallout characters home after dismissing them](https://www.pcgamer.com/games/rpg/guy-who-mapped-skyrims-rivers-decides-to-follow-fallout-characters-home-after-dismissing-them)
- - [Capcom Next: Dead Rising Deluxe Remaster out Sept 19, Kunitsu-Gami: Path of the Goddess demo out today](https://blog.playstation.com/2024/07/01/capcom-next-dead-rising-deluxe-remaster-out-sept-19-kunitsu-gami-path-of-the-goddess-demo-out-today/)<!-- GAME:END -->
+ - [After years of coasting on Dr Disrespect&#39;s fame, it&#39;s hard to imagine a happy ending for Midnight Society](https://www.pcgamer.com/games/fps/after-years-of-coasting-on-dr-disrespects-fame-its-hard-to-envision-a-happy-ending-for-midnight-society)
+ - [It took me 7 hours to beat Elden Ring: Shadow of the Erdtree&#39;s final boss, and people are already demolishing it without getting hit⁠ a single time](https://www.pcgamer.com/games/rpg/it-took-me-7-hours-to-beat-elden-ring-shadow-of-the-erdtrees-final-boss-and-people-are-already-demolishing-it-without-getting-hit-a-single-time)
+ - [Frank is Back in Dead Rising Deluxe Remaster, Launching September 19 for Xbox Series X|S](https://news.xbox.com/en-us/2024/07/01/frank-is-back-in-dead-rising-deluxe-remaster-launching-september-19-for-xbox-series-xs/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
