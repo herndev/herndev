@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Netflix begins phasing out its cheapest ad-free plan in select markets](https://www.androidauthority.com/netflix-ad-free-basic-3456625/)
- - [How Ukraine is using AI, code found online, and hobbyist computers to weaponize consumer tech and build low-cost weapons like autonomous drones and machine guns &lpar;New York Times&rpar;](http://www.techmeme.com/240702/p17#a240702p17)
- - [The best smartwatches for Android](https://www.theverge.com/23449363/best-android-smartwatches-wear-os)<!-- TECH:END -->
+ - [July 2024 Android security patch here for Pixel phones and the Pixel Tablet](https://www.androidauthority.com/july-2024-android-security-patch-3456708/)
+ - [Longer-lasting laptops: the modular hardware you can upgrade and repair yourself](https://www.theverge.com/24190757/modular-laptops-repairable-upgradable-diy)
+ - [NFC could get a big upgrade with Multi-Purpose Tap](https://www.androidauthority.com/nfc-multi-purpose-tap-3456586/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
