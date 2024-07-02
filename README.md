@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Minecraft: The Summer Celebration Returns](https://minecraft.net/article/the-summer-celebration-returns#new_tab)
- - [Save up to 79% on select PlayStation PC games from Fanatical](https://www.polygon.com/deals/24190756/playstation-pc-sale-deals-discount-fanatical-steam)
- - [The superb Case of the Golden Idol joins Game Pass in July](https://www.polygon.com/24190770/game-pass-july-2024-free-xbox-games-case-of-the-golden-idol-tchia-neon-white-flock)<!-- GAME:END -->
+ - [The final collection of adventures for D&amp;D’s unrevised fifth edition launches July 16 — here’s where to pre-order](https://www.polygon.com/24190285/dungeons-and-dragons-quests-from-the-infinite-staircase-pre-order)
+ - [Hues and Cues is the party game that’ll make you question your color knowledge](https://www.polygon.com/tabletop-games/2024/7/2/24189959/overboard-hues-and-cues-color-guessing-mattie-lubchanksy)
+ - [Some Mortal Kombat Fans Worry The Latest Game Is Already Dead, But It Might Be More Complicated](https://kotaku.com/mortal-kombat-1-mk1-evo-registration-fgc-netherrealm-1851573294)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
