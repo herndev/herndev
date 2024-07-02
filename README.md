@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [BYD demonstrated its advanced automated driving functionality.](http://9gag.com/gag/aW466jx)
- - ⏩ [The problem with Islamic Paradise is that it is full of Islamic People.](http://9gag.com/gag/a4PYYdm)
- - 👉 [Face-palm](http://9gag.com/gag/avyPLBq)<!-- MEMES:END -->
+ - 💣 [Witness the evolution of an artist from the age of 3 to age 17.](http://9gag.com/gag/aE07w5N)
+ - ⏩ [Nightmares are made of these](http://9gag.com/gag/aVvPO48)
+ - 👉 [Hate this idiots](http://9gag.com/gag/amo99q9)<!-- MEMES:END -->
 
 ---
 
