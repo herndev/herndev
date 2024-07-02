@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Samsung was either feeling generous or someone messed up big time when it temporarily slashed £1,400 off a 49-inch 240 Hz OLED gaming monitor](https://www.pcgamer.com/hardware/gaming-monitors/samsung-was-either-feeling-generous-or-someone-messed-up-big-time-when-it-temporarily-slashed-pound1400-off-a-49-inch-240-hz-oled-gaming-monitor)
- - [Can cake hat Pikachu be shiny in Pokémon Go?](https://www.polygon.com/pokemon-go-guide/24189900/can-pikachu-cake-hat-be-shiny)
- - [Today&#39;s Wordle answer for Tuesday, July 2](https://www.pcgamer.com/games/puzzle/wordle-answer-today-July-2-2024)<!-- GAME:END -->
+ - [Asus ROG Strix Z790-I Gaming WiFi review](https://www.pcgamer.com/hardware/motherboards/asus-rog-strix-z790-i-gaming-wifi-review)
+ - [This WoW player who clicks their skills is probably better than you—hunter Durendil solos yet another raid boss armed with a spreadsheet and raw grit](https://www.pcgamer.com/games/world-of-warcraft/this-wow-player-who-clicks-their-skills-is-probably-better-than-you-boss-hunter-durendil-solos-yet-another-raid-boss-armed-with-a-spreadsheet-and-raw-grit)
+ - [Elden Ring maestro plays a saxophone to style on Shadow of the Erdtree&#39;s final boss, wins battle of the bands in &#39;a dozen attempts&#39;](https://www.pcgamer.com/games/rpg/elden-ring-maestro-plays-a-saxophone-to-style-on-shadow-of-the-erdtree-s-final-boss-wins-battle-of-the-bands-in-a-dozen-attempts)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
