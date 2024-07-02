@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Fat shamed](http://9gag.com/gag/aD2oAX9)
- - ⏩ [Drunk guy kicks in hotel front door before getting dropped by a cop](http://9gag.com/gag/a6Z7rPR)
- - 👉 [Interesting](http://9gag.com/gag/ayNd7nb)<!-- MEMES:END -->
+ - 💣 [The most passionate.... Wth!!!](http://9gag.com/gag/aZZMWM3)
+ - ⏩ [Even the show mocked her...](http://9gag.com/gag/aMVG1ZW)
+ - 👉 [North Koreans see K-pop for the first time, fully aware they\u2019re being watched, unsure how to react](http://9gag.com/gag/aD2o3oG)<!-- MEMES:END -->
 
 ---
 
