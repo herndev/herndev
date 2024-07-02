@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [When Culture Tricks You](http://9gag.com/gag/aQz8nLr)
- - ⏩ [Fat shamed](http://9gag.com/gag/aD2oAX9)
- - 👉 [Not so friends](http://9gag.com/gag/a9y7P3L)<!-- MEMES:END -->
+ - 💣 [The most passionate.... Wth!!!](http://9gag.com/gag/aZZMWM3)
+ - ⏩ [When Culture Tricks You](http://9gag.com/gag/aQz8nLr)
+ - 👉 [North Koreans see K-pop for the first time, fully aware they\u2019re being watched, unsure how to react](http://9gag.com/gag/aD2o3oG)<!-- MEMES:END -->
 
 ---
 
