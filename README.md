@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Make Dragons Fear You With This Shadow Of The Erdtree Katana](https://kotaku.com/elden-ring-shadow-erdtree-dragon-hunter-s-great-katana-1851572486)
- - [Nintendo Gave Switch Pirates A Chance To Walk Away But They Apparently Refused](https://kotaku.com/nintendo-switch-piracy-hacked-roms-emulator-1851572451)
- - [New Resident Evil in the works, with the man responsible for reinventing the series at the helm](https://www.polygon.com/24190672/resident-evil-9-capcom)<!-- GAME:END -->
+ - [Microsoft Flight Simulator Releases City Update IX: Northeastern United States](https://www.flightsimulator.com/city-update-9/)
+ - [Capcom&#39;s somehow come up with the *deep breath* Dead Rising Deluxe Remaster Digital Deluxe edition](https://www.pcgamer.com/games/action/capcoms-somehow-come-up-with-the-dead-rising-deluxe-remaster-digital-deluxe-edition)
+ - [House Of The Dragon Season 2 Episode 3 Recap: Sister Act](https://kotaku.com/house-dragon-recap-season-2-episode-3-1851572717)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
