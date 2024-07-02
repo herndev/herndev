@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Former Apple hardware engineer joins Rivian](https://appleinsider.com/articles/24/07/02/former-apple-hardware-engineer-joins-rivian?utm_medium=rss)
- - [Here are the best Apple Watch deals right now](https://www.theverge.com/21289209/best-apple-watch-deals)
- - [Sources: Apple will get an observer role on OpenAI&#39;s board, with Phil Schiller chosen for the position, as part of their partnership announced last month &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/240702/p22#a240702p22)<!-- TECH:END -->
+ - [Google addresses Pixel 6 series bricking bug amid user complaints](https://www.androidauthority.com/pixel-6-bricking-google-response-3456763/)
+ - [Meta shares its research on Meta 3D Gen, a system that creates high-quality 3D assets from text descriptions in less than a minute &lpar;Michael Nu&amp;ntilde;ez/VentureBeat&rpar;](http://www.techmeme.com/240702/p23#a240702p23)
+ - [Ex-Apple lawyer guilty of insider trading fined 10% of net worth](https://appleinsider.com/articles/24/07/02/ex-apple-lawyer-guilty-of-insider-trading-fined-10-of-net-worth?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
