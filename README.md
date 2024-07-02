@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [OnePlus 13 rumors: Everything we know so far and what we want to see](https://www.androidauthority.com/oneplus-13-3436509/)
- - [Revolut&#39;s 2023 revenue almost doubled to &amp;pound;1.8B, after interest income grew to &amp;pound;500M from &amp;pound;83M in 2022; auditor BDO gave its accounts a clean bill of health &lpar;Aisha S Gani/Bloomberg&rpar;](http://www.techmeme.com/240702/p3#a240702p3)
- - [Do You Have to Enroll in Medicare When You Turn 65?](https://www.cnet.com/personal-finance/insurance/do-you-have-to-enroll-in-medicare-when-you-turn-65/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Forget software updates, expensive repairs are the biggest hurdle to smartphone longevity](https://www.androidauthority.com/samsung-smartphone-repairs-poll-results-3456499/)
+ - [Elgato&#39;s New Stream Deck Neo Sees Its First Discount With This Early Fourth of July Deal](https://www.cnet.com/deals/elgatos-new-stream-deck-neo-sees-its-first-discount-with-this-early-fourth-of-july-deal/#ftag=CAD590a51e)
+ - [The Biden administration awards $504M in funding for 12 regional tech hubs, including in New York and Florida, to expand research in AI, chip making, and more &lpar;Bloomberg&rpar;](http://www.techmeme.com/240702/p5#a240702p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
