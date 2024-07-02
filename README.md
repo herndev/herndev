@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Hate this idiots](http://9gag.com/gag/amo99q9)
- - ⏩ [Best 7 seconds of her life](http://9gag.com/gag/aoy9jAX)
- - 👉 [Plain sight for 17 years](http://9gag.com/gag/ajPAndw)<!-- MEMES:END -->
+ - 💣 [Nightmares are made of these](http://9gag.com/gag/aVvPO48)
+ - ⏩ [Reverse videos have always been underrated](http://9gag.com/gag/adBjYrN)
+ - 👉 [From October of 2023 to April of 2024](http://9gag.com/gag/ae9G3eW)<!-- MEMES:END -->
 
 ---
 
