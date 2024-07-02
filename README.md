@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Not sure if this is an MJF bucket list wish but this legend deserves all respect](http://9gag.com/gag/aYQeWMN)
- - ⏩ [Modern problem required modern solutions](http://9gag.com/gag/avyPpbM)
- - 👉 [Cheers!](http://9gag.com/gag/azxjbpx)<!-- MEMES:END -->
+ - 💣 [The most passionate.... Wth!!!](http://9gag.com/gag/aZZMWM3)
+ - ⏩ [France after election results show massive gain for right wing party](http://9gag.com/gag/a5Q7dLL)
+ - 👉 [Drunk guy kicks in hotel front door before getting dropped by a cop](http://9gag.com/gag/a6Z7rPR)<!-- MEMES:END -->
 
 ---
 
