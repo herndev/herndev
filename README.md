@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [So close to greatness](http://9gag.com/gag/agmVvz6)
- - ⏩ [Cancer Cell Hit By An Ion Beam.](http://9gag.com/gag/a7o7LOw)
- - 👉 [Imagine the decline after 4 more years](http://9gag.com/gag/aE07vpK)<!-- MEMES:END -->
+ - 💣 [Fat shamed](http://9gag.com/gag/aD2oAX9)
+ - ⏩ [Drunk guy kicks in hotel front door before getting dropped by a cop](http://9gag.com/gag/a6Z7rPR)
+ - 👉 [Interesting](http://9gag.com/gag/ayNd7nb)<!-- MEMES:END -->
 
 ---
 
