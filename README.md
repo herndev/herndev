@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [SCOTUS agrees to consider whether a Texas law requiring porn sites to verify users&#39; age violates the First Amendment, during its next term starting in October &lpar;Andrew Chung/Reuters&rpar;](http://www.techmeme.com/240702/p12#a240702p12)
- - [Here’s what YouTube has to say about its NSFW ad issue &lpar;again&rpar;](https://www.androidauthority.com/youtube-removes-nsfw-ads-3456601/)
- - [Apple Watch Series 9 vs Samsung Galaxy Watch 7-- Specs, price, and features, compared](https://appleinsider.com/inside/apple-watch-series-9/vs/apple-watch-series-9-vs-samsung-galaxy-watch-7---specs-price-and-features-compared?utm_medium=rss)<!-- TECH:END -->
+ - [Pixel 8a might miss out on Android 15’s audio sharing feature](https://www.androidauthority.com/pixel-8a-android-15-audio-sharing-3456334/)
+ - [For ~10 years, millions of macOS and iOS apps using CocoaPods were vulnerable to a serious flaw in the dependency manager, which was patched in October 2023 &lpar;Dan Goodin/Ars Technica&rpar;](http://www.techmeme.com/240702/p14#a240702p14)
+ - [Poll: How much do you spend on streaming services per month?](https://www.androidauthority.com/streaming-services-poll-2024-3456393/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
