@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The BBC dons its game dev cap to combine 2 things I fear and don&#39;t understand: The UK General Election and Roblox](https://www.pcgamer.com/software/platforms/the-bbc-dons-its-game-dev-cap-to-combine-2-things-i-fear-and-dont-understand-the-uk-general-election-and-roblox)
- - [PlayStation&#39;s Weirdest Program Has Been Mysteriously Broken For Longer Than The 2011 PSN Outage [Update: It&#39;s Coming Back]](https://kotaku.com/playstation-stars-outage-broken-down-fixed-1851570048)
- - [Lethal Company&#39;s next update introduces monsters that&#39;ll kidnap you and cut you up as well as its first and only vehicle](https://www.pcgamer.com/games/horror/lethal-companys-next-update-introduces-monsters-thatll-kidnap-you-and-cut-you-up-as-well-as-its-first-and-only-vehicle)<!-- GAME:END -->
+ - [Minecraft: The Summer Celebration Returns](https://minecraft.net/article/the-summer-celebration-returns#new_tab)
+ - [Save up to 79% on select PlayStation PC games from Fanatical](https://www.polygon.com/deals/24190756/playstation-pc-sale-deals-discount-fanatical-steam)
+ - [The superb Case of the Golden Idol joins Game Pass in July](https://www.polygon.com/24190770/game-pass-july-2024-free-xbox-games-case-of-the-golden-idol-tchia-neon-white-flock)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
