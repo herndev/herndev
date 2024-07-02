@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Microsoft Flight Simulator Releases City Update IX: Northeastern United States](https://www.flightsimulator.com/city-update-9/)
- - [Capcom&#39;s somehow come up with the *deep breath* Dead Rising Deluxe Remaster Digital Deluxe edition](https://www.pcgamer.com/games/action/capcoms-somehow-come-up-with-the-dead-rising-deluxe-remaster-digital-deluxe-edition)
- - [House Of The Dragon Season 2 Episode 3 Recap: Sister Act](https://kotaku.com/house-dragon-recap-season-2-episode-3-1851572717)<!-- GAME:END -->
+ - [The BBC dons its game dev cap to combine 2 things I fear and don&#39;t understand: The UK General Election and Roblox](https://www.pcgamer.com/software/platforms/the-bbc-dons-its-game-dev-cap-to-combine-2-things-i-fear-and-dont-understand-the-uk-general-election-and-roblox)
+ - [PlayStation&#39;s Weirdest Program Has Been Mysteriously Broken For Longer Than The 2011 PSN Outage [Update: It&#39;s Coming Back]](https://kotaku.com/playstation-stars-outage-broken-down-fixed-1851570048)
+ - [Lethal Company&#39;s next update introduces monsters that&#39;ll kidnap you and cut you up as well as its first and only vehicle](https://www.pcgamer.com/games/horror/lethal-companys-next-update-introduces-monsters-thatll-kidnap-you-and-cut-you-up-as-well-as-its-first-and-only-vehicle)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
