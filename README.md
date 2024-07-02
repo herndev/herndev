@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [From flop to foundational: How NVIDIA quietly rules the smartphone market](https://www.androidauthority.com/nvidia-smartphone-market-influence-3455999/)
- - [Here are the best AirPods deals you can get right now](https://www.theverge.com/21302051/best-apple-airpods-deals)
- - [My Doctor Misdiagnosed My Diabetes -- and I&#39;m Not Alone. What You Need to Know](https://www.cnet.com/health/medical/my-doctor-misdiagnosed-my-diabetes-and-im-not-alone-what-you-need-to-know/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [6 ethical ways to use Gemini at work to make your life easier](https://www.androidauthority.com/google-gemini-ethical-uses-work-3456422/)
+ - [Best Fourth of July Laptop Deals: Save on MacBooks, Windows PCs, Chromebooks and More](https://www.cnet.com/deals/best-fourth-of-july-laptop-deals-2024-07-01/#ftag=CAD590a51e)
+ - [Best Fourth of July Grill Sales: Grill and Smoker Deals, With Smoking Hot Savings Up to $450 Off](https://www.cnet.com/deals/best-4th-july-grill-sales/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
