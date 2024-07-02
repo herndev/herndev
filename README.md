@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Capcom announces the next mainline Resident Evil is in development, and the great news is it&#39;s being helmed by Resident Evil 7&#39;s director](https://www.pcgamer.com/games/resident-evil/capcom-announces-the-next-mainline-resident-evil-is-in-development-and-the-great-news-is-its-being-helmed-by-resident-evil-7s-director)
- - [Shadow Of The Erdtree&#39;s Minor Erdtree Incantation Is The Cutest Little Healer](https://kotaku.com/elden-ring-shadow-erdtree-minor-erdtree-incantation-1851570252)
- - [Nvidia could face antitrust charges in France as &#39;the risk of abuse by chip providers&#39; scrutinised by competition authority](https://www.pcgamer.com/hardware/graphics-cards/nvidia-could-face-antitrust-charges-in-france-as-the-risk-of-abuse-by-chip-providers-scrutinised-by-competition-authority)<!-- GAME:END -->
+ - [Make Dragons Fear You With This Shadow Of The Erdtree Katana](https://kotaku.com/elden-ring-shadow-erdtree-dragon-hunter-s-great-katana-1851572486)
+ - [Nintendo Gave Switch Pirates A Chance To Walk Away But They Apparently Refused](https://kotaku.com/nintendo-switch-piracy-hacked-roms-emulator-1851572451)
+ - [New Resident Evil in the works, with the man responsible for reinventing the series at the helm](https://www.polygon.com/24190672/resident-evil-9-capcom)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
