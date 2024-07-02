@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Sad reality](http://9gag.com/gag/adBjN4B)
- - ⏩ [Fat shamed](http://9gag.com/gag/aD2oAX9)
- - 👉 [Nightmares are made of these](http://9gag.com/gag/aVvPO48)<!-- MEMES:END -->
+ - 💣 [Super Heroes and zeroes](http://9gag.com/gag/aKGqBbQ)
+ - ⏩ [Which i assume you know](http://9gag.com/gag/a5Q7K7r)
+ - 👉 [Even the show mocked her...](http://9gag.com/gag/aMVG1ZW)<!-- MEMES:END -->
 
 ---
 
