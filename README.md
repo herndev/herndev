@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [dbrand Grip Case for Google Pixel 8a review: Should you buy it?](https://www.androidauthority.com/dbrand-grip-google-pixel-8a-review-3452642/)
- - [Shop 50 of the Best Early July 4th Sales With Up to 70% Off](https://www.cnet.com/deals/best-4th-of-july-sales-2024-07-02/#ftag=CAD590a51e)
- - [How to Use Midjourney to Make a Logo for Your Business -- or Not](https://www.cnet.com/tech/services-and-software/how-to-use-midjourney-to-make-a-logo-for-your-business-or-not/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Tesla delivered fewer vehicles to customers for the second quarter in a row](https://www.theverge.com/2024/7/2/24187320/tesla-q2-2024-production-deliveries-decline)
+ - [Netflix is starting to phase out its cheapest ad-free plan](https://www.theverge.com/2024/7/2/24190632/netflix-ad-free-basic-plan-discontinued)
+ - [Sentient, an open-source AI development platform being built on Polygon, raised a $85M seed led by Founders Fund, Pantera Capital, and Framework Ventures &lpar;Jamie Crawley/CoinDesk&rpar;](http://www.techmeme.com/240702/p10#a240702p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
