@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Witness the evolution of an artist from the age of 3 to age 17.](http://9gag.com/gag/aE07w5N)
- - ⏩ [Nightmares are made of these](http://9gag.com/gag/aVvPO48)
- - 👉 [Hate this idiots](http://9gag.com/gag/amo99q9)<!-- MEMES:END -->
+ - 💣 [The problem with Islamic Paradise is that it is full of Islamic People.](http://9gag.com/gag/a4PYYdm)
+ - ⏩ [The way this brick wall goes through the floor](http://9gag.com/gag/a4PYYW6)
+ - 👉 [So brave](http://9gag.com/gag/aPADDgg)<!-- MEMES:END -->
 
 ---
 
