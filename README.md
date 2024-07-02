@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [6 ethical ways to use Gemini at work to make your life easier](https://www.androidauthority.com/google-gemini-ethical-uses-work-3456422/)
- - [Best Fourth of July Laptop Deals: Save on MacBooks, Windows PCs, Chromebooks and More](https://www.cnet.com/deals/best-fourth-of-july-laptop-deals-2024-07-01/#ftag=CAD590a51e)
- - [Best Fourth of July Grill Sales: Grill and Smoker Deals, With Smoking Hot Savings Up to $450 Off](https://www.cnet.com/deals/best-4th-july-grill-sales/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [An overview of &quot;looksmaxxing&quot; apps that rate teen boys&#39; faces, boast millions of downloads, and, critics say, are exacerbating the youth mental health crisis &lpar;Alexandra Sternlicht/Fortune&rpar;](http://www.techmeme.com/240701/p21#a240701p21)
+ - [Best Printer for 2024](https://www.cnet.com/tech/computing/best-printer/#ftag=CAD590a51e)
+ - [6 ethical ways to use Gemini at work to make your life easier](https://www.androidauthority.com/google-gemini-ethical-uses-work-3456422/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
