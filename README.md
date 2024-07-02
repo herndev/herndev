@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Coming to Game Pass: Neon White, Flock, Nickelodeon All-Star Brawl 2, and More](https://news.xbox.com/en-us/2024/07/02/xbox-game-pass-july-2024-wave-1/)
- - [Capcom Nonchalantly Announces Resident Evil 9](https://kotaku.com/resident-evil-9-capcom-biohazard-village-1851572109)
- - [Asus ROG Strix Z790-I Gaming WiFi review](https://www.pcgamer.com/hardware/motherboards/asus-rog-strix-z790-i-gaming-wifi-review)<!-- GAME:END -->
+ - [Capcom announces the next mainline Resident Evil is in development, and the great news is it&#39;s being helmed by Resident Evil 7&#39;s director](https://www.pcgamer.com/games/resident-evil/capcom-announces-the-next-mainline-resident-evil-is-in-development-and-the-great-news-is-its-being-helmed-by-resident-evil-7s-director)
+ - [Shadow Of The Erdtree&#39;s Minor Erdtree Incantation Is The Cutest Little Healer](https://kotaku.com/elden-ring-shadow-erdtree-minor-erdtree-incantation-1851570252)
+ - [Nvidia could face antitrust charges in France as &#39;the risk of abuse by chip providers&#39; scrutinised by competition authority](https://www.pcgamer.com/hardware/graphics-cards/nvidia-could-face-antitrust-charges-in-france-as-the-risk-of-abuse-by-chip-providers-scrutinised-by-competition-authority)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
