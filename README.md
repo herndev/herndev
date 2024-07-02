@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Pixel 8a might miss out on Android 15’s audio sharing feature](https://www.androidauthority.com/pixel-8a-android-15-audio-sharing-3456334/)
- - [For ~10 years, millions of macOS and iOS apps using CocoaPods were vulnerable to a serious flaw in the dependency manager, which was patched in October 2023 &lpar;Dan Goodin/Ars Technica&rpar;](http://www.techmeme.com/240702/p14#a240702p14)
- - [Poll: How much do you spend on streaming services per month?](https://www.androidauthority.com/streaming-services-poll-2024-3456393/)<!-- TECH:END -->
+ - [Google Pixel 9 hands-on video leaks, shows everything](https://www.androidauthority.com/pixel9-9-leak-screen-on-3456648/)
+ - [The Pixel 9’s ‘Google AI’ is like Microsoft Recall but a little less creepy](https://www.theverge.com/2024/7/2/24190730/google-ai-pixel-phones-recall-like-feature)
+ - [Apple turns to Samsung for new iPhone 16 camera sensors](https://appleinsider.com/articles/24/07/02/apple-turns-to-samsung-for-new-iphone-16-camera-sensors?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
