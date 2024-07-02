@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Popular YouTube Rapper And Famous TikTok Wizard Get Into Viral Barking Match](https://kotaku.com/ishowspeed-crawley-tiktok-wizard-bark-off-twitch-clip-1851573475)
- - [How to unlock facewear &lpar;glasses&rpar; in FFXIV](https://www.polygon.com/ffxiv-guides-ff14-final-fantasy-14-online/24188100/unlock-facewear-glasses-exchange)
- - [My Elden Ring: Shadow Of The Erdtree Player Summons, Ranked](https://kotaku.com/elden-ring-shadow-of-the-erdtree-summons-multiplayer-1851573539)<!-- GAME:END -->
+ - [Do Yourself A Favor And Go Watch The Best Speedrunning Event Of The Year](https://kotaku.com/sgdq-2024-summer-games-done-quick-schedule-1851573798)
+ - [Expansions are the best](https://www.pcgamer.com/gaming-industry/expansions-are-the-best)
+ - [Academy Award-winner Cate Blanchett explains why she signed up for the Borderlands film: &#39;A touch of Covid madness&#39;](https://www.pcgamer.com/movies-tv/academy-award-winner-cate-blanchett-explains-why-she-signed-up-for-the-borderlands-film-a-touch-of-covid-madness)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
