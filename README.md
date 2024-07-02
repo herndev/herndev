@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [July 2024 Android security patch here for Pixel phones and the Pixel Tablet](https://www.androidauthority.com/july-2024-android-security-patch-3456708/)
- - [Longer-lasting laptops: the modular hardware you can upgrade and repair yourself](https://www.theverge.com/24190757/modular-laptops-repairable-upgradable-diy)
- - [NFC could get a big upgrade with Multi-Purpose Tap](https://www.androidauthority.com/nfc-multi-purpose-tap-3456586/)<!-- TECH:END -->
+ - [A US judge temporarily blocked a new Mississippi law that would require age verification for all and parental consent for teens to join some social networks &lpar;Lauren Feiner/The Verge&rpar;](http://www.techmeme.com/240702/p20#a240702p20)
+ - [Netflix’s latest game is a mobile take on Minesweeper](https://www.theverge.com/2024/7/2/24190961/netflix-games-minesweeper-subscribers-launch-trailer)
+ - [Xbox Live is down](https://www.theverge.com/2024/7/2/24191012/xbox-live-down-outage-xbox-series-x-s-online-sign-failed)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
