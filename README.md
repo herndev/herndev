@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Thoughts?](http://9gag.com/gag/aZZMW4Q)
- - ⏩ [When the Adderall wears off and you realize that you are tired from life.](http://9gag.com/gag/ae9G3xj)
- - 👉 [Using the UNO reverse card against this kind of people](http://9gag.com/gag/a6Z77Nb)<!-- MEMES:END -->
+ - 💣 [How defeat a Jedi](http://9gag.com/gag/aoy90GA)
+ - ⏩ [Hate this idiots](http://9gag.com/gag/amo99q9)
+ - 👉 [Simple yet so effective](http://9gag.com/gag/a4PYYwm)<!-- MEMES:END -->
 
 ---
 
