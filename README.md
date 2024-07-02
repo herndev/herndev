@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Asus ROG Strix Z790-I Gaming WiFi review](https://www.pcgamer.com/hardware/motherboards/asus-rog-strix-z790-i-gaming-wifi-review)
- - [This WoW player who clicks their skills is probably better than you—hunter Durendil solos yet another raid boss armed with a spreadsheet and raw grit](https://www.pcgamer.com/games/world-of-warcraft/this-wow-player-who-clicks-their-skills-is-probably-better-than-you-boss-hunter-durendil-solos-yet-another-raid-boss-armed-with-a-spreadsheet-and-raw-grit)
- - [Elden Ring maestro plays a saxophone to style on Shadow of the Erdtree&#39;s final boss, wins battle of the bands in &#39;a dozen attempts&#39;](https://www.pcgamer.com/games/rpg/elden-ring-maestro-plays-a-saxophone-to-style-on-shadow-of-the-erdtree-s-final-boss-wins-battle-of-the-bands-in-a-dozen-attempts)<!-- GAME:END -->
+ - [Coming to Game Pass: Neon White, Flock, Nickelodeon All-Star Brawl 2, and More](https://news.xbox.com/en-us/2024/07/02/xbox-game-pass-july-2024-wave-1/)
+ - [Capcom Nonchalantly Announces Resident Evil 9](https://kotaku.com/resident-evil-9-capcom-biohazard-village-1851572109)
+ - [Asus ROG Strix Z790-I Gaming WiFi review](https://www.pcgamer.com/hardware/motherboards/asus-rog-strix-z790-i-gaming-wifi-review)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
