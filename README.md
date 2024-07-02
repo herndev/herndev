@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google addresses Pixel 6 series bricking bug amid user complaints](https://www.androidauthority.com/pixel-6-bricking-google-response-3456763/)
- - [Meta shares its research on Meta 3D Gen, a system that creates high-quality 3D assets from text descriptions in less than a minute &lpar;Michael Nu&amp;ntilde;ez/VentureBeat&rpar;](http://www.techmeme.com/240702/p23#a240702p23)
- - [Ex-Apple lawyer guilty of insider trading fined 10% of net worth](https://appleinsider.com/articles/24/07/02/ex-apple-lawyer-guilty-of-insider-trading-fined-10-of-net-worth?utm_medium=rss)<!-- TECH:END -->
+ - [This dual-screen laptop swings horizontally — and quotes the Whole Earth Catalog](https://www.theverge.com/2024/7/2/24191148/acemagic-x1-dual-screen-laptop)
+ - [Sources: Magic, a US startup developing AI models for coding tasks, is in talks to raise $200M+ at a $1.5B valuation &lpar;Reuters&rpar;](http://www.techmeme.com/240702/p25#a240702p25)
+ - [Snapchat adds new features, including letting Snapchat+ subscribers design a personalized house on Snap Map and send Snaps that last less than .5 seconds &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/240702/p24#a240702p24)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
