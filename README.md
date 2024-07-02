@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [REI’s Fourth of July Sale Has Great Deals on Our Favorite Outdoor Gear](https://www.wired.com/story/rei-fourth-of-july-deals-2024/)
- - [Samsung SmartThings takes a step toward a smarter grid](https://www.theverge.com/2024/7/1/24190224/samsung-smartthings-flex-connect-demand-response)
- - [Google’s Gemini could be in Apple Intelligence by this fall](https://www.androidauthority.com/apple-intelligence-gemini-integration-3456349/)<!-- TECH:END -->
+ - [From flop to foundational: How NVIDIA quietly rules the smartphone market](https://www.androidauthority.com/nvidia-smartphone-market-influence-3455999/)
+ - [Here are the best AirPods deals you can get right now](https://www.theverge.com/21302051/best-apple-airpods-deals)
+ - [My Doctor Misdiagnosed My Diabetes -- and I&#39;m Not Alone. What You Need to Know](https://www.cnet.com/health/medical/my-doctor-misdiagnosed-my-diabetes-and-im-not-alone-what-you-need-to-know/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
