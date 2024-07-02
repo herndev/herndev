@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The OnePlus 13 could offer a better IP rating than the Galaxy S24](https://www.androidauthority.com/oneplus-13-ip-rating-3456492/)
- - [Sexist Myths Are a Danger to Health](https://www.wired.com/story/wired-health-angela-saini-gender-health-gap-sexism/)
- - [Best Fourth of July Mattress Deals](https://www.cnet.com/deals/best-4th-of-july-mattress-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [OnePlus 13 rumors: Everything we know so far and what we want to see](https://www.androidauthority.com/oneplus-13-3436509/)
+ - [Revolut&#39;s 2023 revenue almost doubled to &amp;pound;1.8B, after interest income grew to &amp;pound;500M from &amp;pound;83M in 2022; auditor BDO gave its accounts a clean bill of health &lpar;Aisha S Gani/Bloomberg&rpar;](http://www.techmeme.com/240702/p3#a240702p3)
+ - [Do You Have to Enroll in Medicare When You Turn 65?](https://www.cnet.com/personal-finance/insurance/do-you-have-to-enroll-in-medicare-when-you-turn-65/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
