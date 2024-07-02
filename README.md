@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tesla delivered fewer vehicles to customers for the second quarter in a row](https://www.theverge.com/2024/7/2/24187320/tesla-q2-2024-production-deliveries-decline)
- - [Netflix is starting to phase out its cheapest ad-free plan](https://www.theverge.com/2024/7/2/24190632/netflix-ad-free-basic-plan-discontinued)
- - [Sentient, an open-source AI development platform being built on Polygon, raised a $85M seed led by Founders Fund, Pantera Capital, and Framework Ventures &lpar;Jamie Crawley/CoinDesk&rpar;](http://www.techmeme.com/240702/p10#a240702p10)<!-- TECH:END -->
+ - [SCOTUS agrees to consider whether a Texas law requiring porn sites to verify users&#39; age violates the First Amendment, during its next term starting in October &lpar;Andrew Chung/Reuters&rpar;](http://www.techmeme.com/240702/p12#a240702p12)
+ - [Here’s what YouTube has to say about its NSFW ad issue &lpar;again&rpar;](https://www.androidauthority.com/youtube-removes-nsfw-ads-3456601/)
+ - [Apple Watch Series 9 vs Samsung Galaxy Watch 7-- Specs, price, and features, compared](https://appleinsider.com/inside/apple-watch-series-9/vs/apple-watch-series-9-vs-samsung-galaxy-watch-7---specs-price-and-features-compared?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
