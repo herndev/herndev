@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Hunt for the Most Efficient Heat Pump in the World](https://www.wired.com/story/heat-pump-maximum-efficiency/)
- - [VFX company DNEG raised $200M from Abu Dhabi&#39;s UASG at a $2B valuation, to expand its division Brahma, which is developing an AI-powered, photo-real CGI creator &lpar;Melanie Goodfellow/Deadline&rpar;](http://www.techmeme.com/240702/p6#a240702p6)
- - [Snag New Bedding During the My Sheets Rock Fourth of July Sale](https://www.cnet.com/deals/snag-new-bedding-during-the-my-sheets-rock-fourth-of-july-sale/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Should you buy a Pixel Watch 2 or wait for the Pixel Watch 3?](https://www.androidauthority.com/pixel-watch-2-vs-pixel-watch-3-3455715/)
+ - [The Genius Behind @OKWildlifeDept&#39;s Most Viral Tweets Is Signing Off](https://www.wired.com/story/oklahoma-department-wildlife-conservation-social-media-legacy/)
+ - [10 Easy Ways to Protect Your Eye Health on a Daily Basis](https://www.cnet.com/health/personal-care/ways-protect-eye-health-daily/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
