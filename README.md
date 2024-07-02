@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [An overview of &quot;looksmaxxing&quot; apps that rate teen boys&#39; faces, boast millions of downloads, and, critics say, are exacerbating the youth mental health crisis &lpar;Alexandra Sternlicht/Fortune&rpar;](http://www.techmeme.com/240701/p21#a240701p21)
- - [Best Printer for 2024](https://www.cnet.com/tech/computing/best-printer/#ftag=CAD590a51e)
- - [6 ethical ways to use Gemini at work to make your life easier](https://www.androidauthority.com/google-gemini-ethical-uses-work-3456422/)<!-- TECH:END -->
+ - [This is the Pixel 9 in its new pink color, check it out!](https://www.androidauthority.com/google-pixel-9-pink-color-hands-on-leak-3456457/)
+ - [How to plan hikes &amp; other outdoor adventures in Apple Maps with iOS 18](https://appleinsider.com/inside/ios-18/tips/how-to-plan-hikes-other-outdoor-adventures-in-apple-maps-with-ios-18?utm_medium=rss)
+ - [Today&#39;s Wordle Hints, Answer and Help for July 2, #1109](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-july-2-1109/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
