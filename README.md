@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The sequel to 2023’s most exciting foldable is coming next week](https://www.androidauthority.com/honor-magic-v3-launch-date-3455174/)
- - [These 5 shades could be the Galaxy S24 FE’s colorway options](https://www.androidauthority.com/galaxy-s24-fe-colors-3456474/)
- - [China plans to form a technical committee to develop standards for brain-computer interfaces, including a standard for brain information encoding and decoding &lpar;Foster Wong/Bloomberg&rpar;](http://www.techmeme.com/240702/p2#a240702p2)<!-- TECH:END -->
+ - [The OnePlus 13 could offer a better IP rating than the Galaxy S24](https://www.androidauthority.com/oneplus-13-ip-rating-3456492/)
+ - [Sexist Myths Are a Danger to Health](https://www.wired.com/story/wired-health-angela-saini-gender-health-gap-sexism/)
+ - [Best Fourth of July Mattress Deals](https://www.cnet.com/deals/best-4th-of-july-mattress-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
