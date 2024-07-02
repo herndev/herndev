@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Pixel 9 hands-on video leaks, shows everything](https://www.androidauthority.com/pixel9-9-leak-screen-on-3456648/)
- - [The Pixel 9’s ‘Google AI’ is like Microsoft Recall but a little less creepy](https://www.theverge.com/2024/7/2/24190730/google-ai-pixel-phones-recall-like-feature)
- - [Apple turns to Samsung for new iPhone 16 camera sensors](https://appleinsider.com/articles/24/07/02/apple-turns-to-samsung-for-new-iphone-16-camera-sensors?utm_medium=rss)<!-- TECH:END -->
+ - [Netflix begins phasing out its cheapest ad-free plan in select markets](https://www.androidauthority.com/netflix-ad-free-basic-3456625/)
+ - [How Ukraine is using AI, code found online, and hobbyist computers to weaponize consumer tech and build low-cost weapons like autonomous drones and machine guns &lpar;New York Times&rpar;](http://www.techmeme.com/240702/p17#a240702p17)
+ - [The best smartwatches for Android](https://www.theverge.com/23449363/best-android-smartwatches-wear-os)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
