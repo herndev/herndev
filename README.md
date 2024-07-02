@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [How defeat a Jedi](http://9gag.com/gag/aoy90GA)
- - ⏩ [Hate this idiots](http://9gag.com/gag/amo99q9)
- - 👉 [Simple yet so effective](http://9gag.com/gag/a4PYYwm)<!-- MEMES:END -->
+ - 💣 [Not so friends](http://9gag.com/gag/a9y7P3L)
+ - ⏩ [Plain sight for 17 years](http://9gag.com/gag/ajPAndw)
+ - 👉 [Cheers!](http://9gag.com/gag/azxjbpx)<!-- MEMES:END -->
 
 ---
 
