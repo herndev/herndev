@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Should you buy a Pixel Watch 2 or wait for the Pixel Watch 3?](https://www.androidauthority.com/pixel-watch-2-vs-pixel-watch-3-3455715/)
- - [The Genius Behind @OKWildlifeDept&#39;s Most Viral Tweets Is Signing Off](https://www.wired.com/story/oklahoma-department-wildlife-conservation-social-media-legacy/)
- - [10 Easy Ways to Protect Your Eye Health on a Daily Basis](https://www.cnet.com/health/personal-care/ways-protect-eye-health-daily/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [dbrand Grip Case for Google Pixel 8a review: Should you buy it?](https://www.androidauthority.com/dbrand-grip-google-pixel-8a-review-3452642/)
+ - [Shop 50 of the Best Early July 4th Sales With Up to 70% Off](https://www.cnet.com/deals/best-4th-of-july-sales-2024-07-02/#ftag=CAD590a51e)
+ - [How to Use Midjourney to Make a Logo for Your Business -- or Not](https://www.cnet.com/tech/services-and-software/how-to-use-midjourney-to-make-a-logo-for-your-business-or-not/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
