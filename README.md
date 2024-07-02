@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Super Heroes and zeroes](http://9gag.com/gag/aKGqBbQ)
- - ⏩ [Which i assume you know](http://9gag.com/gag/a5Q7K7r)
- - 👉 [Even the show mocked her...](http://9gag.com/gag/aMVG1ZW)<!-- MEMES:END -->
+ - 💣 [When Culture Tricks You](http://9gag.com/gag/aQz8nLr)
+ - ⏩ [Fat shamed](http://9gag.com/gag/aD2oAX9)
+ - 👉 [Not so friends](http://9gag.com/gag/a9y7P3L)<!-- MEMES:END -->
 
 ---
 
