@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The final collection of adventures for D&amp;D’s unrevised fifth edition launches July 16 — here’s where to pre-order](https://www.polygon.com/24190285/dungeons-and-dragons-quests-from-the-infinite-staircase-pre-order)
- - [Hues and Cues is the party game that’ll make you question your color knowledge](https://www.polygon.com/tabletop-games/2024/7/2/24189959/overboard-hues-and-cues-color-guessing-mattie-lubchanksy)
- - [Some Mortal Kombat Fans Worry The Latest Game Is Already Dead, But It Might Be More Complicated](https://kotaku.com/mortal-kombat-1-mk1-evo-registration-fgc-netherrealm-1851573294)<!-- GAME:END -->
+ - [Popular YouTube Rapper And Famous TikTok Wizard Get Into Viral Barking Match](https://kotaku.com/ishowspeed-crawley-tiktok-wizard-bark-off-twitch-clip-1851573475)
+ - [How to unlock facewear &lpar;glasses&rpar; in FFXIV](https://www.polygon.com/ffxiv-guides-ff14-final-fantasy-14-online/24188100/unlock-facewear-glasses-exchange)
+ - [My Elden Ring: Shadow Of The Erdtree Player Summons, Ranked](https://kotaku.com/elden-ring-shadow-of-the-erdtree-summons-multiplayer-1851573539)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
