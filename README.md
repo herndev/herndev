@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The problem with Islamic Paradise is that it is full of Islamic People.](http://9gag.com/gag/a4PYYdm)
- - ⏩ [The way this brick wall goes through the floor](http://9gag.com/gag/a4PYYW6)
- - 👉 [So brave](http://9gag.com/gag/aPADDgg)<!-- MEMES:END -->
+ - 💣 [Hate this idiots](http://9gag.com/gag/amo99q9)
+ - ⏩ [Best 7 seconds of her life](http://9gag.com/gag/aoy9jAX)
+ - 👉 [Plain sight for 17 years](http://9gag.com/gag/ajPAndw)<!-- MEMES:END -->
 
 ---
 
