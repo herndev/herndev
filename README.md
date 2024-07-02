@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The most passionate.... Wth!!!](http://9gag.com/gag/aZZMWM3)
- - ⏩ [France after election results show massive gain for right wing party](http://9gag.com/gag/a5Q7dLL)
- - 👉 [Drunk guy kicks in hotel front door before getting dropped by a cop](http://9gag.com/gag/a6Z7rPR)<!-- MEMES:END -->
+ - 💣 [Imagine the decline after 4 more years](http://9gag.com/gag/aE07vpK)
+ - ⏩ [Drunk guy kicks in hotel front door before getting dropped by a cop](http://9gag.com/gag/a6Z7rPR)
+ - 👉 [Ex-wife picks up the kids from the father\u2019s house](http://9gag.com/gag/ae9GKy5)<!-- MEMES:END -->
 
 ---
 
