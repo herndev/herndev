@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The most passionate.... Wth!!!](http://9gag.com/gag/aZZMWM3)
- - ⏩ [Even the show mocked her...](http://9gag.com/gag/aMVG1ZW)
- - 👉 [North Koreans see K-pop for the first time, fully aware they\u2019re being watched, unsure how to react](http://9gag.com/gag/aD2o3oG)<!-- MEMES:END -->
+ - 💣 [Face-palm](http://9gag.com/gag/avyPLBq)
+ - ⏩ [Tensions are rising in Spain after the murder of 39-y-old David Lledo, beaten to death with baseball bats by 3 Moroccans after stopping them from harassing girls. People gathered at the site, chanting slogans \u201cSpain is Christian, not Muslim\u201d](http://9gag.com/gag/a5Q7NBV)
+ - 👉 [Almost?](http://9gag.com/gag/aqy527Y)<!-- MEMES:END -->
 
 ---
 
