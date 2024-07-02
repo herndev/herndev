@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Final Boss of Woodworking: Crafting the Pitch-Perfect Stair Railing](http://9gag.com/gag/a5Q7KzE)
- - ⏩ [Face-palm](http://9gag.com/gag/avyPLBq)
- - 👉 [Love happy endings!](http://9gag.com/gag/aAy1r7E)<!-- MEMES:END -->
+ - 💣 [Sad reality](http://9gag.com/gag/adBjN4B)
+ - ⏩ [Fat shamed](http://9gag.com/gag/aD2oAX9)
+ - 👉 [Nightmares are made of these](http://9gag.com/gag/aVvPO48)<!-- MEMES:END -->
 
 ---
 
