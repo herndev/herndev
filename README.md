@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Not so friends](http://9gag.com/gag/a9y7P3L)
- - ⏩ [Plain sight for 17 years](http://9gag.com/gag/ajPAndw)
- - 👉 [Cheers!](http://9gag.com/gag/azxjbpx)<!-- MEMES:END -->
+ - 💣 [BYD demonstrated its advanced automated driving functionality.](http://9gag.com/gag/aW466jx)
+ - ⏩ [The problem with Islamic Paradise is that it is full of Islamic People.](http://9gag.com/gag/a4PYYdm)
+ - 👉 [Face-palm](http://9gag.com/gag/avyPLBq)<!-- MEMES:END -->
 
 ---
 
