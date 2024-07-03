@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Citizen Sleeper 2: Starward Vector Combines Tabletop RPG With Classic Sci-Fi TV](https://news.xbox.com/en-us/2024/07/03/citizen-sleeper-2-starward-vector-combines-tabletop-rpg-with-classic-sci-fi-tv/)
- - [Batman’s new werewolf fighting book is just dripping with atmosphere](https://www.polygon.com/24191619/batman-vs-werewolves-full-moon)
- - [Dead Rising Remaster Locks Classic Frank West Behind A Pre-Order Paywall](https://kotaku.com/dead-rising-remaster-classic-frank-west-skin-pre-order-1851575527)<!-- GAME:END -->
+ - [CLeM Backstage Stories: How our Little Servant Came to Be](https://news.xbox.com/en-us/2024/07/03/clem-backstage-stories-how-our-little-servant-came-to-be/)
+ - [How to beat Midra, Lord Of Frenzied Flame in Elden Ring: Shadow Of The Erdtree](https://www.polygon.com/elden-ring-shadow-erdtree-guide/24191494/midra-location-weakness-strategy-how-to-beat-sote-dlc)
+ - [How to beat Promised Consort Radahn in Elden Ring Shadow of the Erdtree DLC](https://www.polygon.com/elden-ring-shadow-erdtree-guide/24191467/radahn-final-boss-location-weakness-strategy-how-to-beat-sote-dlc)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
