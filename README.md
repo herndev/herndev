@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Jefferson County, Colorado will pay former inmate $500,000 after deputies slammed him face-first on concrete, breaking his jaw and causing brain injury](http://9gag.com/gag/aryKNz5)
- - ⏩ [Plain sight for 17 years](http://9gag.com/gag/ajPAndw)
- - 👉 [Hate this idiots](http://9gag.com/gag/amo99q9)<!-- MEMES:END -->
+ - 💣 [It&#39;s all in the detail](http://9gag.com/gag/aAy1PVL)
+ - ⏩ [BYD demonstrated its advanced automated driving functionality.](http://9gag.com/gag/aW466jx)
+ - 👉 [Reminder everyday to be thankful you weren&#39;t born like this](http://9gag.com/gag/ae9G6gb)<!-- MEMES:END -->
 
 ---
 
