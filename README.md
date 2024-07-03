@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Temtem veterans are working on a Breath of the Wild-inspired narrative survival game for 1-4 players, set to arrive later this year](https://www.pcgamer.com/games/survival-crafting/temtem-veterans-are-working-on-a-breath-of-the-wild-inspired-narrative-survival-game-for-1-4-players-set-to-arrive-later-this-year)
- - [Dead Space x Battlefield 2042 crossover event looks fun, even if it isn&#39;t quite what Dead Space fans have been hoping for](https://www.pcgamer.com/games/fps/dead-space-x-battlefield-2042-crossover-event-looks-fun-even-if-it-isnt-quite-what-dead-space-fans-have-been-hoping-for)
- - [The internet is not a free-for-all—we shouldn&#39;t let big tech companies wish copyright out of existence](https://www.pcgamer.com/software/ai/the-internet-is-not-a-free-for-all-for-ai)<!-- GAME:END -->
+ - [In this satirical city builder, your goal is to convert walkable cities into parking lots and use propaganda to convince everyone it&#39;s what they want](https://www.pcgamer.com/games/city-builder/in-this-satirical-city-builder-your-goal-is-to-convert-walkable-cities-into-parking-lots-and-use-propaganda-to-convince-everyone-its-what-they-want)
+ - [After seeing this handheld pixel filter prism on Twitter, I&#39;m haunted by an insatiable urge to pixelate everything in my home](https://www.pcgamer.com/gaming-industry/after-seeing-this-handheld-pixel-filter-prism-on-twitter-im-haunted-by-an-insatiable-urge-to-pixelate-everything-in-my-home)
+ - [Temtem veterans are working on a Breath of the Wild-inspired narrative survival game for 1-4 players, set to arrive later this year](https://www.pcgamer.com/games/survival-crafting/temtem-veterans-are-working-on-a-breath-of-the-wild-inspired-narrative-survival-game-for-1-4-players-set-to-arrive-later-this-year)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
