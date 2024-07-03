@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Seeenk u very much](http://9gag.com/gag/azxjrKj)
- - ⏩ [Reverse videos have always been underrated](http://9gag.com/gag/adBjYrN)
- - 👉 [Using the UNO reverse card against this kind of people](http://9gag.com/gag/a6Z77Nb)<!-- MEMES:END -->
+ - 💣 [Reverse videos have always been underrated](http://9gag.com/gag/adBjYrN)
+ - ⏩ [Seeenk u very much](http://9gag.com/gag/azxjrKj)
+ - 👉 [Wakey, wakey hands of snakey!](http://9gag.com/gag/a4PYL4Q)<!-- MEMES:END -->
 
 ---
 
