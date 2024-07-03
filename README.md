@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Proton just launched a privacy-focused alternative to Google Docs](https://www.theverge.com/2024/7/3/24190732/proton-docs-document-editor-privacy-google)
- - [Newly leaked Galaxy Z Flip 6 renders detail a core design feature](https://www.androidauthority.com/galaxy-z-flip-6-leaked-marketing-images-3456839/)
- - [Quid pro quo: Here’s what Apple gets from OpenAI for ChatGPT integration into iPhones](https://www.androidauthority.com/what-apple-gets-from-openai-for-chatgpt-3456834/)<!-- TECH:END -->
+ - [Here’s our best look at the CMF Phone 1 with all its accessories](https://www.androidauthority.com/cmf-phone-1-accessories-3456866/)
+ - [Reddit users: Netflix is following through on its plan to phase out its cheapest $11.99/month ad-free tier, instead pushing its $6.99, $15.49, and $22.99 tiers &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/240703/p11#a240703p11)
+ - [CDK Global, a software provider to ~15K North American car dealerships, says &quot;substantially all&quot; of its dealers are back online, after two cyberattacks in June &lpar;Charles Gorrivan/Bloomberg&rpar;](http://www.techmeme.com/240703/p10#a240703p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
