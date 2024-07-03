@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [LG just bought Homey to bring big interoperability to its smart home portfolio](https://www.androidauthority.com/lg-buys-homey-3456935/)
- - [42 Home Improvement Deals at Home Depot That Are Hot for July 4th](https://www.cnet.com/deals/home-depot-july-4th-sale-2024-07-03/#ftag=CAD590a51e)
- - [Galaxy Z Fold 6 and Flip 6 buyers might get Samsung’s upcoming flagship earbuds for free](https://www.androidauthority.com/samsung-galaxy-z-fold-6-promo-3456913/)<!-- TECH:END -->
+ - [A cheaper, weirder e-reader alternative to the Boox Palma](https://www.theverge.com/2024/7/3/24191451/xiaomi-moaan-inkpalm-plus-reader-e-ink-onyx-boox-palma-smartphone)
+ - [Alphabet is abandoning its Mineral robo-agriculture startup](https://www.theverge.com/2024/7/3/24191582/alphabet-shutters-mineral-agriculture-robot-startup-x-labs)
+ - [Best July 4th Grill Sales To Tackle the Summer in Style](https://www.cnet.com/deals/best-july-4th-grill-sales-2024-07-03/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
