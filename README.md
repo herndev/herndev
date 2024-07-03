@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Here are the Zenless Zone Zero launch times and release date](https://www.pcgamer.com/games/action/zenless-zone-zero-launch-time-release-date)
- - [The Dark Side has never been more seductive than Manny Jacinto in The Acolyte](https://www.polygon.com/star-wars/24191278/star-wars-acolyte-manny-jacinto-is-hot-episode-6)
- - [Today&#39;s Wordle answer for Wednesday, July 3](https://www.pcgamer.com/games/puzzle/wordle-answer-today-july-3-2024)<!-- GAME:END -->
+ - [Final Fantasy 14: Dawntrail players warn side-questers: don&#39;t solve these riddles for an NPC that blabs a big spoiler right before it happens](https://www.pcgamer.com/games/final-fantasy/final-fantasy-14-dawntrail-players-warn-side-questers-don-t-solve-these-riddles-for-an-npc-that-blabs-a-big-spoiler-right-before-it-happens)
+ - [Let Me Solo Her adds fashion icon to his resume as Star Wars showrunner credits &#39;Elden Bling&#39; for the design of The Acolyte&#39;s villainous Sith](https://www.pcgamer.com/games/rpg/let-me-solo-her-adds-fashion-icon-to-his-resume-as-star-wars-showrunner-credits-elden-bling-for-the-design-of-the-acolytes-villainous-sith)
+ - [Oh for goodness&#39; sake—D&amp;D has early access periods and pre-order bonuses now, like a 3D model of a dragon for a virtual tabletop that doesn&#39;t exist yet](https://www.pcgamer.com/games/oh-for-goodness-sake-d-d-has-early-access-periods-and-pre-order-bonuses-now-like-a-3d-model-of-a-dragon-for-a-virtual-tabletop-that-doesn-t-exist-yet)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
