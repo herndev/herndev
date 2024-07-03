@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Wakey, wakey hands of snakey!](http://9gag.com/gag/a4PYL4Q)
- - ⏩ [Reverse videos have always been underrated](http://9gag.com/gag/adBjYrN)
- - 👉 [BYD demonstrated its advanced automated driving functionality.](http://9gag.com/gag/aW466jx)<!-- MEMES:END -->
+ - 💣 [Minority!](http://9gag.com/gag/a0epYGn)
+ - ⏩ [What&#39;s the problem?](http://9gag.com/gag/aByYwWz)
+ - 👉 [I can confirm, it is](http://9gag.com/gag/aryKOzd)<!-- MEMES:END -->
 
 ---
 
