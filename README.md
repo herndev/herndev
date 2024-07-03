@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Japan&#39;s government has finally eliminated the use of floppy disks in all its systems, after scrapping over 1,000 regulations governing their use &lpar;Rocky Swift/Reuters&rpar;](http://www.techmeme.com/240703/p22#a240703p22)
- - [Induction Cooktop Flex](https://www.cnet.com/news/induction-cooktop-dpnl/#ftag=CAD590a51e)
- - [Nonstick Pots &amp; Pans Set](https://www.cnet.com/news/nonstick-pots-pans-set-dpnl/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [ChatGPT for Mac app logged queries in an unencrypted file before getting caught](https://appleinsider.com/articles/24/07/03/chatgpt-for-mac-app-logged-queries-in-an-unencrypted-file-before-getting-caught?utm_medium=rss)
+ - [The FTC is investigating PC manufacturers who scare you away from your right to repair](https://www.theverge.com/2024/7/3/24191790/asrock-gigabyte-zotac-ftc-warranty-void-right-to-repair)
+ - [Information management company OpenText plans to cut about 1,200 jobs, or ~1.7% of its workforce, and expects to reduce its annual expenses by CA$150M in 2025 &lpar;Juby Babu/Reuters&rpar;](http://www.techmeme.com/240703/p24#a240703p24)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
