@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Wakey, wakey hands of snakey!](http://9gag.com/gag/a4PYL4Q)
- - ⏩ [Reminder everyday to be thankful you weren&#39;t born like this](http://9gag.com/gag/ae9G6gb)
- - 👉 [Make Sweden Swedish Again!](http://9gag.com/gag/avyPrQX)<!-- MEMES:END -->
+ - 💣 [Make Sweden Swedish Again!](http://9gag.com/gag/avyPrQX)
+ - ⏩ [Wakey, wakey hands of snakey!](http://9gag.com/gag/a4PYL4Q)
+ - 👉 [Seeenk u very much](http://9gag.com/gag/azxjrKj)<!-- MEMES:END -->
 
 ---
 
