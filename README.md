@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Gran Turismo World Series 2024 Series Round 1 takes place in Montreal July 6](https://blog.playstation.com/2024/07/03/gran-turismo-world-series-2024-series-round-1-takes-place-in-montreal-july-6/)
- - [Mortal Kombat Tournament Pop-Off Goes Horribly Wrong [Update]](https://kotaku.com/mortal-kombat-mk1-ceo-2024-pop-off-chair-smash-bros-1851569788)
- - [Beware: The latest Windows 11 update might just trap you in a boot loop of virtualised doom](https://www.pcgamer.com/software/windows/beware-the-latest-windows-11-update-might-just-trap-you-in-a-boot-loop-of-virtualised-doom)<!-- GAME:END -->
+ - [Build the galactic hotel of your dreams in this Ghibli-inspired management sim](https://www.pcgamer.com/games/build-the-galactic-hotel-of-your-dreams-in-this-ghibli-inspired-management-sim)
+ - [How to get the Magneto skin in Fortnite Chapter 5 Season 3](https://www.polygon.com/fortnite-guide/24163936/magneto-skin-release-date-how-to-get)
+ - [Gran Turismo World Series 2024 Series Round 1 takes place in Montreal July 6](https://blog.playstation.com/2024/07/03/gran-turismo-world-series-2024-series-round-1-takes-place-in-montreal-july-6/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
