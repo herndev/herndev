@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Tensions are rising in Spain after the murder of 39-y-old David Lledo, beaten to death with baseball bats by 3 Moroccans after stopping them from harassing girls. People gathered at the site, chanting slogans \u201cSpain is Christian, not Muslim\u201d](http://9gag.com/gag/a5Q7NBV)
- - ⏩ [Plain sight for 17 years](http://9gag.com/gag/ajPAndw)
- - 👉 [How defeat a Jedi](http://9gag.com/gag/aoy90GA)<!-- MEMES:END -->
+ - 💣 [Where tf feminists now](http://9gag.com/gag/azxjLNj)
+ - ⏩ [BYD demonstrated its advanced automated driving functionality.](http://9gag.com/gag/aW466jx)
+ - 👉 [Best 7 seconds of her life](http://9gag.com/gag/aoy9jAX)<!-- MEMES:END -->
 
 ---
 
