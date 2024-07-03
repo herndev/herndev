@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A cheaper, weirder e-reader alternative to the Boox Palma](https://www.theverge.com/2024/7/3/24191451/xiaomi-moaan-inkpalm-plus-reader-e-ink-onyx-boox-palma-smartphone)
- - [Alphabet is abandoning its Mineral robo-agriculture startup](https://www.theverge.com/2024/7/3/24191582/alphabet-shutters-mineral-agriculture-robot-startup-x-labs)
- - [Best July 4th Grill Sales To Tackle the Summer in Style](https://www.cnet.com/deals/best-july-4th-grill-sales-2024-07-03/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Is Samsung really dropping Galaxy S25 Plus next year? Not so fast.](https://www.androidauthority.com/samsung-galaxy-s25-plus-3456984/)
+ - [Marvel’s What If…? series to end with third season](https://www.theverge.com/2024/7/3/24191652/what-if-season-three-cancellation)
+ - [Amazon plans to discontinue Astro for Business, its robot security guard for SMBs launched in November 2023, on September 25 to focus on the Astro home robot &lpar;Todd Bishop/GeekWire&rpar;](http://www.techmeme.com/240703/p20#a240703p20)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
