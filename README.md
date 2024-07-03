@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [It Feels Like Sony Is Finally Leaving The PlayStation 4 Behind](https://kotaku.com/horizon-lego-ps5-ps4-cross-gen-exclusive-1851573893)
- - [Bethesda mistakenly rips art from Fallout: Nuka Break creator but manages to remedy the situation: &#39;So does this mean I&#39;m officially a shill?&#39;](https://www.pcgamer.com/games/fallout/bethesda-mistakenly-rips-art-from-fallout-nuka-break-creator-but-manages-to-remedy-the-situation-so-does-this-mean-im-officially-a-shill)
- - [D&amp;D&#39;s lead rules designer admits he changed some spells because of how &#39;painful&#39; and &#39;excruciating to cast&#39; they were in Baldur&#39;s Gate 3](https://www.pcgamer.com/games/d-d-s-lead-rules-designer-admits-he-changed-some-spells-because-of-how-painful-and-excruciating-to-cast-they-were-in-baldur-s-gate-3)<!-- GAME:END -->
+ - [Citizen Sleeper 2: Starward Vector Combines Tabletop RPG With Classic Sci-Fi TV](https://news.xbox.com/en-us/2024/07/03/citizen-sleeper-2-starward-vector-combines-tabletop-rpg-with-classic-sci-fi-tv/)
+ - [Batman’s new werewolf fighting book is just dripping with atmosphere](https://www.polygon.com/24191619/batman-vs-werewolves-full-moon)
+ - [Dead Rising Remaster Locks Classic Frank West Behind A Pre-Order Paywall](https://kotaku.com/dead-rising-remaster-classic-frank-west-skin-pre-order-1851575527)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
