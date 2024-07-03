@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Quid pro quo: Here’s what Apple gets from OpenAI for ChatGPT integration into iPhones](https://www.androidauthority.com/what-apple-gets-from-openai-for-chatgpt-3456834/)
- - [Koo, an Indian rival to X that had raised $60M+ from Tiger Global, Accel, and others, is shutting down after acquisition talks with Dailyhunt fell through &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/240703/p8#a240703p8)
- - [UK-listed Keywords Studios, which provides game development, audio, and art services to clients such as Epic, agrees to a ~&amp;pound;2.1B takeover bid from PE firm EQT &lpar;Amy Thomson/Bloomberg&rpar;](http://www.techmeme.com/240703/p7#a240703p7)<!-- TECH:END -->
+ - [Proton just launched a privacy-focused alternative to Google Docs](https://www.theverge.com/2024/7/3/24190732/proton-docs-document-editor-privacy-google)
+ - [Newly leaked Galaxy Z Flip 6 renders detail a core design feature](https://www.androidauthority.com/galaxy-z-flip-6-leaked-marketing-images-3456839/)
+ - [Quid pro quo: Here’s what Apple gets from OpenAI for ChatGPT integration into iPhones](https://www.androidauthority.com/what-apple-gets-from-openai-for-chatgpt-3456834/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
