@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Dos and Don’ts Of Selling Your Friend On Your Favorite Game](https://kotaku.com/games-to-play-with-friends-multiplayer-how-to-sell-1851576183)
- - [Google&#39;s dumb AI answers increased its greenhouse gas emissions by nearly 50% in the last 5 years](https://www.pcgamer.com/software/ai/googles-dumb-ai-answers-increased-its-greenhouse-gas-emissions-by-nearly-50-in-the-last-5-years)
- - [New DLC spell locations in Elden Ring: Shadow of the Erdtree](https://www.polygon.com/elden-ring-shadow-erdtree-guide/24180257/all-spell-locations)<!-- GAME:END -->
+ - [Temtem veterans are working on a Breath of the Wild-inspired narrative survival game for 1-4 players, set to arrive later this year](https://www.pcgamer.com/games/survival-crafting/temtem-veterans-are-working-on-a-breath-of-the-wild-inspired-narrative-survival-game-for-1-4-players-set-to-arrive-later-this-year)
+ - [Dead Space x Battlefield 2042 crossover event looks fun, even if it isn&#39;t quite what Dead Space fans have been hoping for](https://www.pcgamer.com/games/fps/dead-space-x-battlefield-2042-crossover-event-looks-fun-even-if-it-isnt-quite-what-dead-space-fans-have-been-hoping-for)
+ - [The internet is not a free-for-all—we shouldn&#39;t let big tech companies wish copyright out of existence](https://www.pcgamer.com/software/ai/the-internet-is-not-a-free-for-all-for-ai)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
