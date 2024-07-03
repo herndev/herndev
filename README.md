@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Whats good!](http://9gag.com/gag/aNDnAvr)
- - ⏩ [What&#39;s your secret mate?](http://9gag.com/gag/aZZMm09)
- - 👉 [After being knocked out of the Euros the Romanian team left their locker room spotless and wrote a thank you note for Germany for hosting. For many we are still gypsies but we are not so much as we used to be](http://9gag.com/gag/aZZMmLV)<!-- MEMES:END -->
+ - 💣 [Make Sweden Swedish Again!](http://9gag.com/gag/avyPrQX)
+ - ⏩ [Dad catches his teen daughter with her boyfriend. Was he being too much?](http://9gag.com/gag/ajPAnOG)
+ - 👉 [It&#39;s all in the detail](http://9gag.com/gag/aAy1PVL)<!-- MEMES:END -->
 
 ---
 
