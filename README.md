@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Equality](http://9gag.com/gag/apRvLNb)
- - ⏩ [It&#39;s all in the detail](http://9gag.com/gag/aAy1PVL)
- - 👉 [Hate this idiots](http://9gag.com/gag/amo99q9)<!-- MEMES:END -->
+ - 💣 [Just move on.](http://9gag.com/gag/a5Q7rDG)
+ - ⏩ [So brave](http://9gag.com/gag/aPADDgg)
+ - 👉 [Reverse videos have always been underrated](http://9gag.com/gag/adBjYrN)<!-- MEMES:END -->
 
 ---
 
