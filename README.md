@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Reverse videos have always been underrated](http://9gag.com/gag/adBjYrN)
+ - 💣 [Drop Candy Roller](http://9gag.com/gag/aZZMpbV)
  - ⏩ [Seeenk u very much](http://9gag.com/gag/azxjrKj)
- - 👉 [Wakey, wakey hands of snakey!](http://9gag.com/gag/a4PYL4Q)<!-- MEMES:END -->
+ - 👉 [I can confirm, it is](http://9gag.com/gag/aryKOzd)<!-- MEMES:END -->
 
 ---
 
