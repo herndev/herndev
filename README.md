@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Here are the best Kindle deals right now](https://www.theverge.com/21539047/best-amazon-kindle-deals)
- - [Stars, Stripes and Sparkling Floors: Grab the Ecovacs Deebot T30s for 25% Off This July 4th](https://www.cnet.com/deals/grab-the-ecovacs-deebot-t30s-for-25-off-this-july-4th/#ftag=CAD590a51e)
- - [Xbox Live Has Been Down for Hours, No Word Yet on Fix for &#39;Major Outage&#39;](https://www.cnet.com/tech/gaming/xbox-live-has-been-down-for-hours-no-word-yet-on-fix-for-major-outage/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Blockchain platform Polkadot faces criticism from users after spending $36M+ on marketing and outreach in H1 2024, nearly half of its total spend of $87M &lpar;Shaurya Malwa/CoinDesk&rpar;](http://www.techmeme.com/240702/p27#a240702p27)
+ - [Celebrate a Dirt-Free Home This July 4th With 40% Off This Cordless Stick Vacuum Cleaner](https://www.cnet.com/deals/celebrate-a-dirt-free-home-this-july-4th-with-40-off-this-cordless-stick-vacuum-cleaner/#ftag=CAD590a51e)
+ - [Target July 4th Sale: Score Massive Savings on Tech, Home, Outdoor and More](https://www.cnet.com/deals/target-july-4th-sale-2024-07-02/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
