@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Verge’s favorite board and video games](https://www.theverge.com/24190259/board-video-games-console-pc-tabletop-emulators)
- - [A24’s MaXXXine flips the script to give you something fresh to scream about](https://www.theverge.com/24187551/maxxxine-review-ti-west)
- - [In 2024, 58.5% of Google searches in the US and 59.7% in EU result in zero clicks; for 1,000 searches, 374 clicks go to the open web in the EU and 360 in the US &lpar;Rand Fishkin/SparkToro&rpar;](http://www.techmeme.com/240703/p14#a240703p14)<!-- TECH:END -->
+ - [LG just bought Homey to bring big interoperability to its smart home portfolio](https://www.androidauthority.com/lg-buys-homey-3456935/)
+ - [42 Home Improvement Deals at Home Depot That Are Hot for July 4th](https://www.cnet.com/deals/home-depot-july-4th-sale-2024-07-03/#ftag=CAD590a51e)
+ - [Galaxy Z Fold 6 and Flip 6 buyers might get Samsung’s upcoming flagship earbuds for free](https://www.androidauthority.com/samsung-galaxy-z-fold-6-promo-3456913/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
