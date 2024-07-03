@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [DJI expands into e-bikes and drive systems](https://www.theverge.com/2024/7/3/24190557/dji-avinox-amflow-e-bike-mountain-bike-price-specs)
- - [This could be our first look at the Galaxy Z Fold’s next challenger](https://www.androidauthority.com/xiaomi-mix-fold-4-leaked-image-3456818/)
- - [How AI is helping investors and wealth managers simplify the due diligence process and streamline day-to-day tasks, as experts stress the need for human insight &lpar;Nicholas Fearn/Financial Times&rpar;](http://www.techmeme.com/240703/p6#a240703p6)<!-- TECH:END -->
+ - [Galaxy Watch 7, Watch Ultra designs confirmed through major certification](https://www.androidauthority.com/galaxy-watch-7-ultra-design-confirmed-3456823/)
+ - [Best Internet Providers in Maryland](https://www.cnet.com/home/internet/best-internet-providers-in-maryland/#ftag=CAD590a51e)
+ - [New &#39;Bluey&#39; Has Finally Arrived: Minisode Release Schedule and How to Watch](https://www.cnet.com/tech/services-and-software/new-bluey-has-finally-arrived-minisode-release-schedule-and-how-to-watch/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
