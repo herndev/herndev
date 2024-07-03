@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Final Fantasy 14: Dawntrail players warn side-questers: don&#39;t solve these riddles for an NPC that blabs a big spoiler right before it happens](https://www.pcgamer.com/games/final-fantasy/final-fantasy-14-dawntrail-players-warn-side-questers-don-t-solve-these-riddles-for-an-npc-that-blabs-a-big-spoiler-right-before-it-happens)
- - [Let Me Solo Her adds fashion icon to his resume as Star Wars showrunner credits &#39;Elden Bling&#39; for the design of The Acolyte&#39;s villainous Sith](https://www.pcgamer.com/games/rpg/let-me-solo-her-adds-fashion-icon-to-his-resume-as-star-wars-showrunner-credits-elden-bling-for-the-design-of-the-acolytes-villainous-sith)
- - [Oh for goodness&#39; sake—D&amp;D has early access periods and pre-order bonuses now, like a 3D model of a dragon for a virtual tabletop that doesn&#39;t exist yet](https://www.pcgamer.com/games/oh-for-goodness-sake-d-d-has-early-access-periods-and-pre-order-bonuses-now-like-a-3d-model-of-a-dragon-for-a-virtual-tabletop-that-doesn-t-exist-yet)<!-- GAME:END -->
+ - [Gran Turismo World Series 2024 Series Round 1 takes place in Montreal July 6](https://blog.playstation.com/2024/07/03/gran-turismo-world-series-2024-series-round-1-takes-place-in-montreal-july-6/)
+ - [Mortal Kombat Tournament Pop-Off Goes Horribly Wrong [Update]](https://kotaku.com/mortal-kombat-mk1-ceo-2024-pop-off-chair-smash-bros-1851569788)
+ - [Beware: The latest Windows 11 update might just trap you in a boot loop of virtualised doom](https://www.pcgamer.com/software/windows/beware-the-latest-windows-11-update-might-just-trap-you-in-a-boot-loop-of-virtualised-doom)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
