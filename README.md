@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [It&#39;s all in the detail](http://9gag.com/gag/aAy1PVL)
- - ⏩ [BYD demonstrated its advanced automated driving functionality.](http://9gag.com/gag/aW466jx)
- - 👉 [Reminder everyday to be thankful you weren&#39;t born like this](http://9gag.com/gag/ae9G6gb)<!-- MEMES:END -->
+ - 💣 [Seeenk u very much](http://9gag.com/gag/azxjrKj)
+ - ⏩ [Reverse videos have always been underrated](http://9gag.com/gag/adBjYrN)
+ - 👉 [Using the UNO reverse card against this kind of people](http://9gag.com/gag/a6Z77Nb)<!-- MEMES:END -->
 
 ---
 
