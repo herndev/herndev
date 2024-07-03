@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Not me, but, what a way to hurt.](http://9gag.com/gag/agmVG01)
- - ⏩ [So brave](http://9gag.com/gag/aPADDgg)
- - 👉 [...since \u00b494 by F.Gump](http://9gag.com/gag/aPADD2Q)<!-- MEMES:END -->
+ - 💣 [Plain sight for 17 years](http://9gag.com/gag/ajPAndw)
+ - ⏩ [Reminder everyday to be thankful you weren&#39;t born like this](http://9gag.com/gag/ae9G6gb)
+ - 👉 [From October of 2023 to April of 2024](http://9gag.com/gag/ae9G3eW)<!-- MEMES:END -->
 
 ---
 
