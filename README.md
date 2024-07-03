@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Spigen Tough Armor for Pixel 8a review: Should you buy it?](https://www.androidauthority.com/spigen-tough-armor-for-pixel-8a-review-3456031/)
- - [How a musical indie game went against the grain to explore the Deaf experience](https://www.theverge.com/24190846/harmonium-the-musical-developer-interview-deaf-culture-experience)
- - [Samsung’s new 3nm SoC could give the Galaxy Watch 7 a performance boost](https://www.androidauthority.com/samsung-exynos-w1000-3456884/)<!-- TECH:END -->
+ - [The Verge’s favorite board and video games](https://www.theverge.com/24190259/board-video-games-console-pc-tabletop-emulators)
+ - [A24’s MaXXXine flips the script to give you something fresh to scream about](https://www.theverge.com/24187551/maxxxine-review-ti-west)
+ - [In 2024, 58.5% of Google searches in the US and 59.7% in EU result in zero clicks; for 1,000 searches, 374 clicks go to the open web in the EU and 360 in the US &lpar;Rand Fishkin/SparkToro&rpar;](http://www.techmeme.com/240703/p14#a240703p14)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
