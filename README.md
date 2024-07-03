@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [All the smart home news, reviews, and gadgets you need to know about](https://www.theverge.com/24190824/smart-home-news-reviews-guides-gadgets)
- - [The Game Boy Camera will soon get a second life as an awful webcam](https://www.theverge.com/2024/7/3/24191794/gb-operator-game-boy-camera-webcam-epilogue-nintendo)
- - [The best deals on MacBooks right now](https://www.theverge.com/22399419/apple-macbook-air-pro-mac-mini-imac-deals)<!-- TECH:END -->
+ - [The best Prime Day deals you can already get](https://www.theverge.com/24186583/amazon-prime-day-2024-best-tech-deals-sales)
+ - [Unpacked 2024: When is it and what to expect? Galaxy Ring, Watch 7 Ultra, Flip 6, Fold 6, and more!](https://www.androidauthority.com/galaxy-unpacked-2024-how-to-watch-3457126/)
+ - [All the smart home news, reviews, and gadgets you need to know about](https://www.theverge.com/24190824/smart-home-news-reviews-guides-gadgets)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
