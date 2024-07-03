@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Nightmares are made of these](http://9gag.com/gag/aVvPO48)
- - ⏩ [Reverse videos have always been underrated](http://9gag.com/gag/adBjYrN)
- - 👉 [From October of 2023 to April of 2024](http://9gag.com/gag/ae9G3eW)<!-- MEMES:END -->
+ - 💣 [Equality](http://9gag.com/gag/apRvLNb)
+ - ⏩ [It&#39;s all in the detail](http://9gag.com/gag/aAy1PVL)
+ - 👉 [Hate this idiots](http://9gag.com/gag/amo99q9)<!-- MEMES:END -->
 
 ---
 
