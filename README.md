@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [WIPO: between 2014 and 2023, 54K generative AI patents were filed, 25% of which were filed in 2023; China leads with 38K+ patents, followed by the US with 6,276 &lpar;Emma Farge/Reuters&rpar;](http://www.techmeme.com/240703/p12#a240703p12)
- - [When &#39;Apple Watch battery charge&#39; means assault, not a low power warning](https://appleinsider.com/articles/24/07/03/when-apple-watch-battery-charge-means-assault-not-a-low-power-warning?utm_medium=rss)
- - [Vulnerabilities found in Swift repository left millions of iPhone apps exposed](https://appleinsider.com/articles/24/07/03/vulnerabilities-found-in-swift-repository-left-millions-of-apps-exposed-now-patched?utm_medium=rss)<!-- TECH:END -->
+ - [Spigen Tough Armor for Pixel 8a review: Should you buy it?](https://www.androidauthority.com/spigen-tough-armor-for-pixel-8a-review-3456031/)
+ - [How a musical indie game went against the grain to explore the Deaf experience](https://www.theverge.com/24190846/harmonium-the-musical-developer-interview-deaf-culture-experience)
+ - [Samsung’s new 3nm SoC could give the Galaxy Watch 7 a performance boost](https://www.androidauthority.com/samsung-exynos-w1000-3456884/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
