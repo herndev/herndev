@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Drop Candy Roller](http://9gag.com/gag/aZZMpbV)
+ - 💣 [It&#39;s all in the detail](http://9gag.com/gag/aAy1PVL)
  - ⏩ [Seeenk u very much](http://9gag.com/gag/azxjrKj)
- - 👉 [I can confirm, it is](http://9gag.com/gag/aryKOzd)<!-- MEMES:END -->
+ - 👉 [Make Sweden Swedish Again!](http://9gag.com/gag/avyPrQX)<!-- MEMES:END -->
 
 ---
 
