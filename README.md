@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [So brave](http://9gag.com/gag/aPADDgg)
- - ⏩ [...since \u00b494 by F.Gump](http://9gag.com/gag/aPADD2Q)
- - 👉 [Reverse videos have always been underrated](http://9gag.com/gag/adBjYrN)<!-- MEMES:END -->
+ - 💣 [Proof that Arcanine is a legendary Pokemon](http://9gag.com/gag/a6Z7yoN)
+ - ⏩ [BYD demonstrated its advanced automated driving functionality.](http://9gag.com/gag/aW466jx)
+ - 👉 [Gear up people down](http://9gag.com/gag/aoy9Zyn)<!-- MEMES:END -->
 
 ---
 
