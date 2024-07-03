@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Where tf feminists now](http://9gag.com/gag/azxjLNj)
- - ⏩ [BYD demonstrated its advanced automated driving functionality.](http://9gag.com/gag/aW466jx)
- - 👉 [Best 7 seconds of her life](http://9gag.com/gag/aoy9jAX)<!-- MEMES:END -->
+ - 💣 [Jefferson County, Colorado will pay former inmate $500,000 after deputies slammed him face-first on concrete, breaking his jaw and causing brain injury](http://9gag.com/gag/aryKNz5)
+ - ⏩ [Plain sight for 17 years](http://9gag.com/gag/ajPAndw)
+ - 👉 [Hate this idiots](http://9gag.com/gag/amo99q9)<!-- MEMES:END -->
 
 ---
 
