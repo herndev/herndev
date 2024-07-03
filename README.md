@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Twilio says threat actors identified the phone numbers of users of its 2FA app Authy; last week, hackers claimed to have stolen 33M phone numbers from Twilio &lpar;Lorenzo Franceschi-Bicchierai/TechCrunch&rpar;](http://www.techmeme.com/240703/p21#a240703p21)
- - [You can save $200 on a refurbished second-gen Sonos Beam](https://www.theverge.com/2024/7/3/24191483/sonos-beam-ray-soundbar-refurbished-ipad-air-deal-sale)
- - [Retro gold rush: which emulators are on the App Store, and what&#39;s coming](https://appleinsider.com/articles/24/04/26/retro-gold-rush-these-emulators-are-coming-to-the-app-store-soon?utm_medium=rss)<!-- TECH:END -->
+ - [Japan&#39;s government has finally eliminated the use of floppy disks in all its systems, after scrapping over 1,000 regulations governing their use &lpar;Rocky Swift/Reuters&rpar;](http://www.techmeme.com/240703/p22#a240703p22)
+ - [Induction Cooktop Flex](https://www.cnet.com/news/induction-cooktop-dpnl/#ftag=CAD590a51e)
+ - [Nonstick Pots &amp; Pans Set](https://www.cnet.com/news/nonstick-pots-pans-set-dpnl/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
