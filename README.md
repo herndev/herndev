@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [It&#39;s all in the detail](http://9gag.com/gag/aAy1PVL)
- - ⏩ [Seeenk u very much](http://9gag.com/gag/azxjrKj)
- - 👉 [Make Sweden Swedish Again!](http://9gag.com/gag/avyPrQX)<!-- MEMES:END -->
+ - 💣 [Wakey, wakey hands of snakey!](http://9gag.com/gag/a4PYL4Q)
+ - ⏩ [Reverse videos have always been underrated](http://9gag.com/gag/adBjYrN)
+ - 👉 [BYD demonstrated its advanced automated driving functionality.](http://9gag.com/gag/aW466jx)<!-- MEMES:END -->
 
 ---
 
