@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Build the galactic hotel of your dreams in this Ghibli-inspired management sim](https://www.pcgamer.com/games/build-the-galactic-hotel-of-your-dreams-in-this-ghibli-inspired-management-sim)
- - [How to get the Magneto skin in Fortnite Chapter 5 Season 3](https://www.polygon.com/fortnite-guide/24163936/magneto-skin-release-date-how-to-get)
- - [Gran Turismo World Series 2024 Series Round 1 takes place in Montreal July 6](https://blog.playstation.com/2024/07/03/gran-turismo-world-series-2024-series-round-1-takes-place-in-montreal-july-6/)<!-- GAME:END -->
+ - [Tekken 8 Director Is Tired Of Explaining Game Development To Demanding Fans](https://kotaku.com/tekken-8-katsuhiro-harada-twitter-anna-new-characters-1851575150)
+ - [I spent the last week roaming the Spencer Mansion and I&#39;m here to tell you not to sleep on the new GOG release of 1996&#39;s Resident Evil](https://www.pcgamer.com/games/resident-evil/i-spent-the-last-week-roaming-the-spencer-mansion-and-im-here-to-tell-you-not-to-sleep-on-the-new-gog-release-of-1996s-resident-evil)
+ - [Helldivers 2&#39;s latest major order has everyone so curious about a mysterious interplanetary battle station, 4/5ths of all online players are handling it as I write this headline](https://www.pcgamer.com/games/third-person-shooter/helldivers-2-s-latest-major-order-has-everyone-so-curious-about-what-an-interplanetary-battle-station-is-4-5ths-of-all-online-players-are-handling-it-as-i-write-this-headline)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
