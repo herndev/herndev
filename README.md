@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [CLeM Backstage Stories: How our Little Servant Came to Be](https://news.xbox.com/en-us/2024/07/03/clem-backstage-stories-how-our-little-servant-came-to-be/)
- - [How to beat Midra, Lord Of Frenzied Flame in Elden Ring: Shadow Of The Erdtree](https://www.polygon.com/elden-ring-shadow-erdtree-guide/24191494/midra-location-weakness-strategy-how-to-beat-sote-dlc)
- - [How to beat Promised Consort Radahn in Elden Ring Shadow of the Erdtree DLC](https://www.polygon.com/elden-ring-shadow-erdtree-guide/24191467/radahn-final-boss-location-weakness-strategy-how-to-beat-sote-dlc)<!-- GAME:END -->
+ - [The Dos and Don’ts Of Selling Your Friend On Your Favorite Game](https://kotaku.com/games-to-play-with-friends-multiplayer-how-to-sell-1851576183)
+ - [Google&#39;s dumb AI answers increased its greenhouse gas emissions by nearly 50% in the last 5 years](https://www.pcgamer.com/software/ai/googles-dumb-ai-answers-increased-its-greenhouse-gas-emissions-by-nearly-50-in-the-last-5-years)
+ - [New DLC spell locations in Elden Ring: Shadow of the Erdtree](https://www.polygon.com/elden-ring-shadow-erdtree-guide/24180257/all-spell-locations)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
