@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Flash deal: save $460 on a Babbel lifetime subscription](https://appleinsider.com/articles/24/07/03/flash-deal-save-460-on-a-babbel-lifetime-subscription?utm_medium=rss)
- - [An investigation of US police and court documents finds 30 complaints citing 200+ explicit videos and images of minors on OnlyFans since December 2019 &lpar;Reuters&rpar;](http://www.techmeme.com/240702/p31#a240702p31)
- - [OnePlus could soon automatically cap battery to 80% to slow down aging &lpar;Update&rpar;](https://www.androidauthority.com/oneplus-charging-limit-teardown-3456617/)<!-- TECH:END -->
+ - [The owners of about a third of US nuclear power plants are in talks with tech companies to provide electricity to new data centers needed to meet AI demand &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240703/p2#a240703p2)
+ - [SCOTUS&#39; Chevron ruling could weaken federal cybersecurity regulations, as FCC data breach reporting requirements and other rules are likely to be challenged &lpar;Cynthia Brumfield/CSO&rpar;](http://www.techmeme.com/240703/p1#a240703p1)
+ - [Flash deal: save $460 on a Babbel lifetime subscription](https://appleinsider.com/articles/24/07/03/flash-deal-save-460-on-a-babbel-lifetime-subscription?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
