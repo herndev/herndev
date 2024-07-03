@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Reminder everyday to be thankful you weren&#39;t born like this](http://9gag.com/gag/ae9G6gb)
- - ⏩ [I can confirm, it is](http://9gag.com/gag/aryKOzd)
- - 👉 [Dad catches his teen daughter with her boyfriend. Was he being too much?](http://9gag.com/gag/ajPAnOG)<!-- MEMES:END -->
+ - 💣 [After being knocked out of the Euros the Romanian team left their locker room spotless and wrote a thank you note for Germany for hosting. For many we are still gypsies but we are not so much as we used to be](http://9gag.com/gag/aZZMmLV)
+ - ⏩ [One more thing!!](http://9gag.com/gag/aqy5rQM)
+ - 👉 [Simple yet so effective](http://9gag.com/gag/a4PYYwm)<!-- MEMES:END -->
 
 ---
 
