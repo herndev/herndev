@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The PC game releases we&#39;re most excited about in July](https://www.pcgamer.com/games/july-2024-pc-release-date-calendar)
- - [Polyamory is coming to The Sims 4 for free alongside the Lovestruck expansion pack this month](https://www.pcgamer.com/games/the-sims/polyamory-is-coming-to-the-sims-4-for-free-alongside-the-lovestruck-expansion-pack-this-month)
- - [So we’ve all been saying ‘scadutree’ wrong](https://www.polygon.com/24191083/how-to-pronounce-scadutree-elden-ring)<!-- GAME:END -->
+ - [Just 3 months after launching Tales of Kenzera: Zau, developer Surgent Studios lays off &#39;just over a dozen&#39; employees](https://www.pcgamer.com/games/action/just-3-months-after-launching-tales-of-kenzera-zau-developer-surgent-studios-lays-off-just-over-a-dozen-employees)
+ - [The First Descendant, Flintlock, and 22 Other Games Worth Checking Out In July](https://kotaku.com/july-2024-games-final-fantasy-flintlock-frostpunk-edf-1851571285)
+ - [The PC game releases we&#39;re most excited about in July](https://www.pcgamer.com/games/july-2024-pc-release-date-calendar)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
