@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Minority!](http://9gag.com/gag/a0epYGn)
- - ⏩ [What&#39;s the problem?](http://9gag.com/gag/aByYwWz)
- - 👉 [I can confirm, it is](http://9gag.com/gag/aryKOzd)<!-- MEMES:END -->
+ - 💣 [Reminder everyday to be thankful you weren&#39;t born like this](http://9gag.com/gag/ae9G6gb)
+ - ⏩ [I can confirm, it is](http://9gag.com/gag/aryKOzd)
+ - 👉 [Dad catches his teen daughter with her boyfriend. Was he being too much?](http://9gag.com/gag/ajPAnOG)<!-- MEMES:END -->
 
 ---
 
