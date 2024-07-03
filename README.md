@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Galaxy Watch 7, Watch Ultra designs confirmed through major certification](https://www.androidauthority.com/galaxy-watch-7-ultra-design-confirmed-3456823/)
- - [Best Internet Providers in Maryland](https://www.cnet.com/home/internet/best-internet-providers-in-maryland/#ftag=CAD590a51e)
- - [New &#39;Bluey&#39; Has Finally Arrived: Minisode Release Schedule and How to Watch](https://www.cnet.com/tech/services-and-software/new-bluey-has-finally-arrived-minisode-release-schedule-and-how-to-watch/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Quid pro quo: Here’s what Apple gets from OpenAI for ChatGPT integration into iPhones](https://www.androidauthority.com/what-apple-gets-from-openai-for-chatgpt-3456834/)
+ - [Koo, an Indian rival to X that had raised $60M+ from Tiger Global, Accel, and others, is shutting down after acquisition talks with Dailyhunt fell through &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/240703/p8#a240703p8)
+ - [UK-listed Keywords Studios, which provides game development, audio, and art services to clients such as Epic, agrees to a ~&amp;pound;2.1B takeover bid from PE firm EQT &lpar;Amy Thomson/Bloomberg&rpar;](http://www.techmeme.com/240703/p7#a240703p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
