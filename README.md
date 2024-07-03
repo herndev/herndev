@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Plain sight for 17 years](http://9gag.com/gag/ajPAndw)
- - ⏩ [Reminder everyday to be thankful you weren&#39;t born like this](http://9gag.com/gag/ae9G6gb)
- - 👉 [From October of 2023 to April of 2024](http://9gag.com/gag/ae9G3eW)<!-- MEMES:END -->
+ - 💣 [Where tf feminists now](http://9gag.com/gag/azxjLNj)
+ - ⏩ [Proof that Arcanine is a legendary Pokemon](http://9gag.com/gag/a6Z7yoN)
+ - 👉 [Best 7 seconds of her life](http://9gag.com/gag/aoy9jAX)<!-- MEMES:END -->
 
 ---
 
