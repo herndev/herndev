@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Make Sweden Swedish Again!](http://9gag.com/gag/avyPrQX)
- - ⏩ [Wakey, wakey hands of snakey!](http://9gag.com/gag/a4PYL4Q)
- - 👉 [Seeenk u very much](http://9gag.com/gag/azxjrKj)<!-- MEMES:END -->
+ - 💣 [Whats good!](http://9gag.com/gag/aNDnAvr)
+ - ⏩ [What&#39;s your secret mate?](http://9gag.com/gag/aZZMm09)
+ - 👉 [After being knocked out of the Euros the Romanian team left their locker room spotless and wrote a thank you note for Germany for hosting. For many we are still gypsies but we are not so much as we used to be](http://9gag.com/gag/aZZMmLV)<!-- MEMES:END -->
 
 ---
 
