@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Tekken 8 Director Is Tired Of Explaining Game Development To Demanding Fans](https://kotaku.com/tekken-8-katsuhiro-harada-twitter-anna-new-characters-1851575150)
- - [I spent the last week roaming the Spencer Mansion and I&#39;m here to tell you not to sleep on the new GOG release of 1996&#39;s Resident Evil](https://www.pcgamer.com/games/resident-evil/i-spent-the-last-week-roaming-the-spencer-mansion-and-im-here-to-tell-you-not-to-sleep-on-the-new-gog-release-of-1996s-resident-evil)
- - [Helldivers 2&#39;s latest major order has everyone so curious about a mysterious interplanetary battle station, 4/5ths of all online players are handling it as I write this headline](https://www.pcgamer.com/games/third-person-shooter/helldivers-2-s-latest-major-order-has-everyone-so-curious-about-what-an-interplanetary-battle-station-is-4-5ths-of-all-online-players-are-handling-it-as-i-write-this-headline)<!-- GAME:END -->
+ - [It Feels Like Sony Is Finally Leaving The PlayStation 4 Behind](https://kotaku.com/horizon-lego-ps5-ps4-cross-gen-exclusive-1851573893)
+ - [Bethesda mistakenly rips art from Fallout: Nuka Break creator but manages to remedy the situation: &#39;So does this mean I&#39;m officially a shill?&#39;](https://www.pcgamer.com/games/fallout/bethesda-mistakenly-rips-art-from-fallout-nuka-break-creator-but-manages-to-remedy-the-situation-so-does-this-mean-im-officially-a-shill)
+ - [D&amp;D&#39;s lead rules designer admits he changed some spells because of how &#39;painful&#39; and &#39;excruciating to cast&#39; they were in Baldur&#39;s Gate 3](https://www.pcgamer.com/games/d-d-s-lead-rules-designer-admits-he-changed-some-spells-because-of-how-painful-and-excruciating-to-cast-they-were-in-baldur-s-gate-3)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
