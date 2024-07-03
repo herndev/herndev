@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Just move on.](http://9gag.com/gag/a5Q7rDG)
- - ⏩ [So brave](http://9gag.com/gag/aPADDgg)
- - 👉 [Reverse videos have always been underrated](http://9gag.com/gag/adBjYrN)<!-- MEMES:END -->
+ - 💣 [Hikers encounter mountain lion](http://9gag.com/gag/ajPAAVR)
+ - ⏩ [Reverse videos have always been underrated](http://9gag.com/gag/adBjYrN)
+ - 👉 [Gear up people down](http://9gag.com/gag/aoy9Zyn)<!-- MEMES:END -->
 
 ---
 
