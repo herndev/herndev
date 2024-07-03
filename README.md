@@ -32,7 +32,7 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Xbox Suffers Major Outage](https://kotaku.com/xbox-outage-down-online-drm-error-game-pass-1851574324)
+ - [Xbox Suffers Major Outage [Update: It&#39;s Working Again]](https://kotaku.com/xbox-outage-down-online-drm-error-game-pass-1851574324)
  - [Just 3 months after launching Tales of Kenzera: Zau, developer Surgent Studios lays off &#39;just over a dozen&#39; employees](https://www.pcgamer.com/games/action/just-3-months-after-launching-tales-of-kenzera-zau-developer-surgent-studios-lays-off-just-over-a-dozen-employees)
  - [The First Descendant, Flintlock, and 22 Other Games Worth Checking Out In July](https://kotaku.com/july-2024-games-final-fantasy-flintlock-frostpunk-edf-1851571285)<!-- GAME:END -->
 
