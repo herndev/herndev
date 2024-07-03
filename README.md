@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Hikers encounter mountain lion](http://9gag.com/gag/ajPAAVR)
- - ⏩ [Reverse videos have always been underrated](http://9gag.com/gag/adBjYrN)
- - 👉 [Gear up people down](http://9gag.com/gag/aoy9Zyn)<!-- MEMES:END -->
+ - 💣 [So brave](http://9gag.com/gag/aPADDgg)
+ - ⏩ [...since \u00b494 by F.Gump](http://9gag.com/gag/aPADD2Q)
+ - 👉 [Reverse videos have always been underrated](http://9gag.com/gag/adBjYrN)<!-- MEMES:END -->
 
 ---
 
