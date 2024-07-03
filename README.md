@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Here are the Zenless Zone Zero launch times and release date](https://www.pcgamer.com/games/action/zenless-zone-zero-launch-time-release-date)
  - [The Dark Side has never been more seductive than Manny Jacinto in The Acolyte](https://www.polygon.com/star-wars/24191278/star-wars-acolyte-manny-jacinto-is-hot-episode-6)
- - [Today&#39;s Wordle answer for Wednesday, July 3](https://www.pcgamer.com/games/puzzle/wordle-answer-today-july-3-2024)
- - [Xbox Suffers Major Outage [Update: It&#39;s Working Again]](https://kotaku.com/xbox-outage-down-online-drm-error-game-pass-1851574324)<!-- GAME:END -->
+ - [Today&#39;s Wordle answer for Wednesday, July 3](https://www.pcgamer.com/games/puzzle/wordle-answer-today-july-3-2024)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
