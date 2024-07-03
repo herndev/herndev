@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The CUKTECH 10 Power Bank is 51% off right now!](https://www.androidauthority.com/cuktech-10-power-bank-deal-3457070/)
- - [OnePlus might be bringing metal unibody phones back, and it looks weird](https://www.androidauthority.com/oneplus-nord-4-metal-unibody-3457089/)
- - [Google’s most custom Tensor chip yet is allegedly entering production stage at TSMC](https://www.androidauthority.com/google-tensor-g5-tsmc-pixel-10-3457040/)<!-- TECH:END -->
+ - [All the smart home news, reviews, and gadgets you need to know about](https://www.theverge.com/24190824/smart-home-news-reviews-guides-gadgets)
+ - [The Game Boy Camera will soon get a second life as an awful webcam](https://www.theverge.com/2024/7/3/24191794/gb-operator-game-boy-camera-webcam-epilogue-nintendo)
+ - [The best deals on MacBooks right now](https://www.theverge.com/22399419/apple-macbook-air-pro-mac-mini-imac-deals)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
