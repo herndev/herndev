@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [We&#39;re apparently back to phrenology on 2024&#39;s twitter.](http://9gag.com/gag/a5Q7Z5y)
- - ⏩ [Found this post under bricks and rubble](http://9gag.com/gag/abA06Ap)
- - 👉 [Best 7 seconds of her life](http://9gag.com/gag/aoy9jAX)<!-- MEMES:END -->
+ - 💣 [Rocket engine designer by ai](http://9gag.com/gag/abA00Kp)
+ - ⏩ [Your daily dose](http://9gag.com/gag/amo9rO4)
+ - 👉 [I can confirm, it is](http://9gag.com/gag/aryKOzd)<!-- MEMES:END -->
 
 ---
 
