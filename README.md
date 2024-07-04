@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Tekken director says that the fighters &#39;are all like my children&#39; and if players keep pestering him about favourites he&#39;ll &#39;charge you tuition for lectures&#39;](https://www.pcgamer.com/games/fighting/tekken-director-says-that-the-fighters-are-all-like-my-children-and-if-players-keep-pestering-him-about-favourites-hell-charge-you-tuition-for-lectures)
- - [Obsidian went back and made Avowed&#39;s combat &#39;more juicy&#39; because we all collectively winced at its underwhelming first showcase](https://www.pcgamer.com/games/rpg/obsidian-went-back-and-made-avoweds-combat-more-juicy-because-we-all-collectively-winced-at-its-underwhelming-first-showcase)
- - [Latest Elden Ring patch still doesn’t address performance issues](https://www.polygon.com/24192206/elden-ring-update-1-12-3-patch-notes)<!-- GAME:END -->
+ - [Brainiac was right: Freeze is coming to Suicide Squad: Kill the Justice League next week, but it may not be quite who you were expecting](https://www.pcgamer.com/games/action/brainiac-was-right-freeze-is-coming-to-suicide-squad-kill-the-justice-league-next-week-but-it-may-not-be-quite-who-you-were-expecting)
+ - [Micron expects GDDR7 will improve ray tracing and rasterization performance by more than 30%, compared to previous gen VRAM](https://www.pcgamer.com/hardware/graphics-cards/micron-expects-gddr7-will-improve-ray-tracing-and-rasterization-performance-by-more-than-30-compared-to-previous-gen-vram)
+ - [Obsidian says Larian&#39;s experience let it knock Baldur&#39;s Gate 3 multiplayer out of the park, but it wouldn&#39;t have been possible for Avowed](https://www.pcgamer.com/games/rpg/obsidian-says-larians-experience-let-it-knock-baldurs-gate-3-multiplayer-out-of-the-park-but-it-wouldnt-have-been-possible-for-avowed)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
