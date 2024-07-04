@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Batgirl](http://9gag.com/gag/amo97X4)
- - ⏩ [That&#39;s why I love Italy](http://9gag.com/gag/aO8VzZv)
- - 👉 [The muffin man](http://9gag.com/gag/ae9GMDb)<!-- MEMES:END -->
+ - 💣 [Marine Le Pen: When I come to power, I will ban hijab in all of France](http://9gag.com/gag/azxjXqp)
+ - ⏩ [Some cities in Germany have so called \u201cBabyklappen\u201d &lpar;baby hatch&rpar; where mothers can safely and anonymously leave their unwanted newborns.](http://9gag.com/gag/aVvPqQO)
+ - 👉 [Just move on.](http://9gag.com/gag/a5Q7rDG)<!-- MEMES:END -->
 
 ---
 
