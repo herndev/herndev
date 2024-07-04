@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Android 15’s Contact Keys is a step towards Apple-like protection from cyber attacks &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-contact-keys-feature-apk-teardown-3457277/)
- - [Meta releases pre-trained models that use a novel multi-token prediction approach, available on Hugging Face under a non-commercial research license &lpar;Michael Nu&amp;ntilde;ez/VentureBeat&rpar;](http://www.techmeme.com/240704/p12#a240704p12)
- - [Best July 4th Grill Sales: Enjoy the Summer Season With These Massive BBQ Savings](https://www.cnet.com/deals/best-july-4th-grill-sales-2024-07-04/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Amazon Kindle book downloads are broken](https://www.theverge.com/2024/7/4/24192228/amazon-kindle-downloading-is-down-outage-ebooks-e-readers)
+ - [noplace is the latest social media app on the block](https://www.androidauthority.com/noplace-social-media-app-3457317/)
+ - [Amazon’s Fire HD 10 tablet is nearly 50 percent off for Prime members](https://www.theverge.com/2024/7/4/24191765/amazon-fire-hd-10-tablet-philips-hue-solo-light-strip-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
