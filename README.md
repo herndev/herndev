@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [SemiAnalysis: Nvidia is set to sell $12B worth of H20 chips in China in 2024, or 1M+ units; Huawei expects to sell ~550,000 units of Ascend 910B chips in 2024 &lpar;Financial Times&rpar;](http://www.techmeme.com/240704/p15#a240704p15)
- - [The best new streaming movies this week: A Family Affair, Fancy Dance, and more](https://www.androidauthority.com/best-new-streaming-movies-this-week-3083965/)
- - [The 63 Best Movies on Disney+ Right Now &lpar;July 2024&rpar;](https://www.wired.com/story/best-movies-disney-plus/)<!-- TECH:END -->
+ - [July 4th Mattress Sales: Save Hundreds on Vaya, Saatva, Brooklyn Bedding, Layla, Nest and More](https://www.cnet.com/deals/best-mattress-sales/#ftag=CAD590a51e)
+ - [Hot deals: The best Samsung smartphones are heavily discounted right now!](https://www.androidauthority.com/samsung-phone-deals-3457464/)
+ - [The New LG OLED TV Is Seeing All-Time Low Prices This July 4th](https://www.cnet.com/deals/lg-oled-tv-low-prices-july-4th/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
