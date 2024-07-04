@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Zenless Zone Zero codes and how to redeem](https://www.pcgamer.com/games/action/zenless-zone-zero-codes)
  - [The final Steam playtest for fantasy extraction game Dungeonborne attracts thousands of eager adventurers](https://www.pcgamer.com/games/action/dungeonborne-steam-playtest)
- - [Godzilla x Kong: The New Empire, Netflix’s Beverly Hills Cop 4, and every movie new to streaming this week](https://www.polygon.com/2024/7/3/24184980/new-movies-beverly-hills-cop-4-axel-f-netflix-godzilla-x-kong-new-empire-the-imaginary)
- - [Dbrand has discounted pretty much everything for its summer sale](https://www.polygon.com/deals/2024/7/3/24191648/dbrand-summer-sale-cases-skins-discount)<!-- GAME:END -->
+ - [Godzilla x Kong: The New Empire, Netflix’s Beverly Hills Cop 4, and every movie new to streaming this week](https://www.polygon.com/2024/7/3/24184980/new-movies-beverly-hills-cop-4-axel-f-netflix-godzilla-x-kong-new-empire-the-imaginary)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
