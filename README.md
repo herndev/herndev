@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [After being knocked out of the Euros the Romanian team left their locker room spotless and wrote a thank you note for Germany for hosting. For many we are still gypsies but we are not so much as we used to be](http://9gag.com/gag/aZZMmLV)
- - ⏩ [Make Sweden Swedish Again!](http://9gag.com/gag/avyPrQX)
- - 👉 [Stress level went down 1000%](http://9gag.com/gag/aoy9162)<!-- MEMES:END -->
+ - 💣 [It&#39;s all in the detail](http://9gag.com/gag/aAy1PVL)
+ - ⏩ [Smooth taekwondo](http://9gag.com/gag/aByYW4Z)
+ - 👉 [What&#39;s your secret mate?](http://9gag.com/gag/aZZMm09)<!-- MEMES:END -->
 
 ---
 
