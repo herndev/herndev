@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [An investigation details how online gambling giants Flutter and Entain employ practices in the US that they dropped in the UK after admitting risks to UK users &lpar;Tom Bergin/Reuters&rpar;](http://www.techmeme.com/240704/p2#a240704p2)
- - [Fitbit Charge 7 wishlist: All the features I want to see](https://www.androidauthority.com/fitbit-charge-7-3457151/)
- - [Google doesn’t fully understand what a Locked Folder is for in Google Photos](https://www.androidauthority.com/google-photos-locked-folder-button-3457108/)<!-- TECH:END -->
+ - [Researchers say GPS spoofing has impacted 60K+ commercial flights so far in 2024; GPS could become a relic as Chinese, Russian, and European systems modernize &lpar;New York Times&rpar;](http://www.techmeme.com/240704/p4#a240704p4)
+ - [A global law enforcement operation takes down 593 servers hosting unlicensed versions of Cobalt Strike, a penetration testing tool abused by cybercriminals &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/240704/p3#a240704p3)
+ - [An investigation details how online gambling giants Flutter and Entain employ practices in the US that they dropped in the UK after admitting risks to UK users &lpar;Tom Bergin/Reuters&rpar;](http://www.techmeme.com/240704/p2#a240704p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
