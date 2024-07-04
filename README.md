@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [What&#39;s your secret mate?](http://9gag.com/gag/aZZMm09)
- - ⏩ [Best 7 seconds of her life](http://9gag.com/gag/aoy9jAX)
- - 👉 [It&#39;s all in the detail](http://9gag.com/gag/aAy1PVL)<!-- MEMES:END -->
+ - 💣 [Just move on.](http://9gag.com/gag/a5Q7rDG)
+ - ⏩ [Olivia Hussey, the girl who played Juliet in &#39;Romeo and Juliet&#39; in 1968. She even shows bobs there which is cool.](http://9gag.com/gag/ajPADKp)
+ - 👉 [Your daily dose](http://9gag.com/gag/amo9rO4)<!-- MEMES:END -->
 
 ---
 
