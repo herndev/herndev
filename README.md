@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [July 4th Mattress Sales: Save Hundreds on Vaya, Saatva, Brooklyn Bedding, Layla, Nest and More](https://www.cnet.com/deals/best-mattress-sales/#ftag=CAD590a51e)
- - [Hot deals: The best Samsung smartphones are heavily discounted right now!](https://www.androidauthority.com/samsung-phone-deals-3457464/)
- - [The New LG OLED TV Is Seeing All-Time Low Prices This July 4th](https://www.cnet.com/deals/lg-oled-tv-low-prices-july-4th/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Light up your TV for just $6.50 with this Govee TV LED Backlights deal](https://www.androidauthority.com/govee-tv-led-backlights-deal-3457493/)
+ - [Google takes first major step for E2EE interoperability across all messaging apps &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-mls-e2ee-messages-3457483/)
+ - [July 4th Mattress Sales: Save Hundreds on Vaya, Saatva, Brooklyn Bedding, Layla, Nest and More](https://www.cnet.com/deals/best-mattress-sales/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
