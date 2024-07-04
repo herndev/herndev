@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Rocket engine designer by ai](http://9gag.com/gag/abA00Kp)
- - ⏩ [I can confirm, it is](http://9gag.com/gag/aryKOzd)
- - 👉 [There are people watching in the stands....did they buy tickets? Happy ending is in order.](http://9gag.com/gag/awyxVqx)<!-- MEMES:END -->
+ - 💣 [I could still dream](http://9gag.com/gag/aYQe4nO)
+ - ⏩ [Your daily dose](http://9gag.com/gag/amo9rO4)
+ - 👉 [Seeenk u very much](http://9gag.com/gag/azxjrKj)<!-- MEMES:END -->
 
 ---
 
