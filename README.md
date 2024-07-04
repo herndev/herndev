@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Rocket engine designer by ai](http://9gag.com/gag/abA00Kp)
- - ⏩ [Your daily dose](http://9gag.com/gag/amo9rO4)
- - 👉 [I can confirm, it is](http://9gag.com/gag/aryKOzd)<!-- MEMES:END -->
+ - 💣 [What&#39;s your secret mate?](http://9gag.com/gag/aZZMm09)
+ - ⏩ [Best 7 seconds of her life](http://9gag.com/gag/aoy9jAX)
+ - 👉 [It&#39;s all in the detail](http://9gag.com/gag/aAy1PVL)<!-- MEMES:END -->
 
 ---
 
