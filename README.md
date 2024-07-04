@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Brainiac was right: Freeze is coming to Suicide Squad: Kill the Justice League next week, but it may not be quite who you were expecting](https://www.pcgamer.com/games/action/brainiac-was-right-freeze-is-coming-to-suicide-squad-kill-the-justice-league-next-week-but-it-may-not-be-quite-who-you-were-expecting)
- - [Micron expects GDDR7 will improve ray tracing and rasterization performance by more than 30%, compared to previous gen VRAM](https://www.pcgamer.com/hardware/graphics-cards/micron-expects-gddr7-will-improve-ray-tracing-and-rasterization-performance-by-more-than-30-compared-to-previous-gen-vram)
- - [Obsidian says Larian&#39;s experience let it knock Baldur&#39;s Gate 3 multiplayer out of the park, but it wouldn&#39;t have been possible for Avowed](https://www.pcgamer.com/games/rpg/obsidian-says-larians-experience-let-it-knock-baldurs-gate-3-multiplayer-out-of-the-park-but-it-wouldnt-have-been-possible-for-avowed)<!-- GAME:END -->
+ - [The next Gundam game plays into the joy of Gunpla model kitbashing with decades of parts to mix and match](https://www.pcgamer.com/games/action/the-next-gundam-game-plays-into-the-joy-of-gunpla-model-kitbashing-with-decades-of-parts-to-mix-and-match)
+ - [16 Extraordinary Games You Need To Wishlist This Indie-Penance Day!](https://kotaku.com/best-indie-games-steam-wishlist-indiepenance-day-1851577525)
+ - [From competitive inventory rearranging with cheese-eating slimes to roguelike Pokémon combat, the autobattler genre is more alive than ever—and there&#39;s never been a better time to jump in](https://www.pcgamer.com/games/strategy/from-competitive-inventory-rearranging-with-cheese-eating-slimes-to-roguelike-pokemon-combat-the-autobattler-genre-is-more-alive-than-everand-theres-never-been-a-better-time-to-jump-in)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
