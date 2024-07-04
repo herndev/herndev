@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Did they live?](http://9gag.com/gag/apRvpWp)
- - ⏩ [Found this post under bricks and rubble](http://9gag.com/gag/abA06Ap)
- - 👉 [Your daily dose](http://9gag.com/gag/amo9rO4)<!-- MEMES:END -->
+ - 💣 [Letting it all hang out.](http://9gag.com/gag/a6Z7V09)
+ - ⏩ [There are people watching in the stands....did they buy tickets? Happy ending is in order.](http://9gag.com/gag/awyxVqx)
+ - 👉 [Gotta luv women](http://9gag.com/gag/a2vmrqd)<!-- MEMES:END -->
 
 ---
 
