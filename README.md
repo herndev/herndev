@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [FTC fires out warnings to ASRock, Gigabyte and Zotac over &#39;Warranty void if removed&#39; stickers in violation of US law](https://www.pcgamer.com/hardware/ftc-fires-out-warnings-to-asrock-gigabyte-and-zotac-over-warranty-void-if-removed-stickers-in-violation-of-us-law)
- - [Nintendo just dropped 7 NES curios on Switch Online for the holiday weekend](https://www.polygon.com/nintendo/24192167/nintendo-switch-online-nes-july-4-2024)
- - [There&#39;s a new ray tracing benchmark in town and it paints an all-too-familiar picture of today&#39;s GPUs](https://www.pcgamer.com/hardware/graphics-cards/theres-a-new-ray-tracing-benchmark-in-town-and-it-paints-an-all-too-familiar-picture-of-todays-gpus)<!-- GAME:END -->
+ - [After playing last year&#39;s soulslikes, Shadow of the Erdtree reminded me that no one knows how to use ambushes like FromSoftware](https://www.pcgamer.com/games/rpg/after-playing-last-year-s-soulslikes-shadow-of-the-erdtree-reminded-me-that-no-one-knows-how-to-use-ambushes-like-fromsoftware)
+ - [Disney abandoned Princess Tiana — until it suddenly needed her help](https://www.polygon.com/24191797/tianas-bayou-adventure-splash-mountain-song-of-the-south-racism)
+ - [FTC fires out warnings to ASRock, Gigabyte and Zotac over &#39;Warranty void if removed&#39; stickers in violation of US law](https://www.pcgamer.com/hardware/ftc-fires-out-warnings-to-asrock-gigabyte-and-zotac-over-warranty-void-if-removed-stickers-in-violation-of-us-law)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
