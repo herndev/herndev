@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Strap a gun to a giant bird and fly the fantasy skies in the latest free game from the Epic Store](https://www.pcgamer.com/games/sim/strap-a-gun-to-a-giant-bird-and-fly-the-fantasy-skies-in-the-latest-free-game-from-the-epic-store)
  - [The next Gundam game plays into the joy of Gunpla model kitbashing with decades of parts to mix and match](https://www.pcgamer.com/games/action/the-next-gundam-game-plays-into-the-joy-of-gunpla-model-kitbashing-with-decades-of-parts-to-mix-and-match)
- - [16 Extraordinary Games You Need To Wishlist This Indie-Penance Day!](https://kotaku.com/best-indie-games-steam-wishlist-indiepenance-day-1851577525)
- - [From competitive inventory rearranging with cheese-eating slimes to roguelike Pokémon combat, the autobattler genre is more alive than ever—and there&#39;s never been a better time to jump in](https://www.pcgamer.com/games/strategy/from-competitive-inventory-rearranging-with-cheese-eating-slimes-to-roguelike-pokemon-combat-the-autobattler-genre-is-more-alive-than-everand-theres-never-been-a-better-time-to-jump-in)<!-- GAME:END -->
+ - [16 Extraordinary Games You Need To Wishlist This Indie-Penance Day!](https://kotaku.com/best-indie-games-steam-wishlist-indiepenance-day-1851577525)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
