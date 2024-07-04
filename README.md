@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [WhatsApp is developing an AI avatar generator](https://www.theverge.com/2024/7/4/24192112/whatsapp-ai-avatar-image-generator-imagine-meta-llama)
- - [AWS partners with the Australian government to build a secure cloud data system for top secret information; the government will invest $1.3B over 10 years &lpar;Ben Westcott/Bloomberg&rpar;](http://www.techmeme.com/240704/p6#a240704p6)
- - [Samsung could use PC tech to prevent Exynos chips from overheating](https://www.androidauthority.com/samsung-pc-tech-overheating-exynos-3457230/)<!-- TECH:END -->
+ - [A look at a16z&#39;s Crypto Startup Accelerator, a Y Combinator-style program that provides $500K in funding and 10 weeks of coaching, most recently in London &lpar;Joel Khalili/Wired&rpar;](http://www.techmeme.com/240704/p7#a240704p7)
+ - [How Apple Intelligence’s Privacy Stacks Up Against Android’s ‘Hybrid AI’](https://www.wired.com/story/apple-intelligence-android-hybrid-ai-privacy/)
+ - [WhatsApp is developing a personalized AI avatar generator](https://www.theverge.com/2024/7/4/24192112/whatsapp-ai-avatar-image-generator-imagine-meta-llama)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
