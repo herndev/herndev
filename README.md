@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Light up your TV for just $6.50 with this Govee TV LED Backlights deal](https://www.androidauthority.com/govee-tv-led-backlights-deal-3457493/)
- - [Google takes first major step for E2EE interoperability across all messaging apps &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-mls-e2ee-messages-3457483/)
- - [July 4th Mattress Sales: Save Hundreds on Vaya, Saatva, Brooklyn Bedding, Layla, Nest and More](https://www.cnet.com/deals/best-mattress-sales/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Get $30 Off Google&#39;s Nest Cam With Amazon&#39;s Brilliant July 4th Deals](https://www.cnet.com/deals/google-nest-cam-30-off-amazon-july-4th-deals/#ftag=CAD590a51e)
+ - [Amazon and Ring Smart Home Devices Are as Low as $12 at Woot on July 4th](https://www.cnet.com/deals/amazon-ring-smart-home-devices-woot-july-4th/#ftag=CAD590a51e)
+ - [Best AirPods Pro Accessories for 2024](https://www.cnet.com/tech/mobile/best-airpods-pro-accessories/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
