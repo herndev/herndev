@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [After playing last year&#39;s soulslikes, Shadow of the Erdtree reminded me that no one knows how to use ambushes like FromSoftware](https://www.pcgamer.com/games/rpg/after-playing-last-year-s-soulslikes-shadow-of-the-erdtree-reminded-me-that-no-one-knows-how-to-use-ambushes-like-fromsoftware)
- - [Disney abandoned Princess Tiana — until it suddenly needed her help](https://www.polygon.com/24191797/tianas-bayou-adventure-splash-mountain-song-of-the-south-racism)
- - [FTC fires out warnings to ASRock, Gigabyte and Zotac over &#39;Warranty void if removed&#39; stickers in violation of US law](https://www.pcgamer.com/hardware/ftc-fires-out-warnings-to-asrock-gigabyte-and-zotac-over-warranty-void-if-removed-stickers-in-violation-of-us-law)<!-- GAME:END -->
+ - [Tekken director says that the fighters &#39;are all like my children&#39; and if players keep pestering him about favourites he&#39;ll &#39;charge you tuition for lectures&#39;](https://www.pcgamer.com/games/fighting/tekken-director-says-that-the-fighters-are-all-like-my-children-and-if-players-keep-pestering-him-about-favourites-hell-charge-you-tuition-for-lectures)
+ - [Obsidian went back and made Avowed&#39;s combat &#39;more juicy&#39; because we all collectively winced at its underwhelming first showcase](https://www.pcgamer.com/games/rpg/obsidian-went-back-and-made-avoweds-combat-more-juicy-because-we-all-collectively-winced-at-its-underwhelming-first-showcase)
+ - [Latest Elden Ring patch still doesn’t address performance issues](https://www.polygon.com/24192206/elden-ring-update-1-12-3-patch-notes)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
