@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Make Sweden Swedish Again!](http://9gag.com/gag/avyPrQX)
- - ⏩ [Dad catches his teen daughter with her boyfriend. Was he being too much?](http://9gag.com/gag/ajPAnOG)
- - 👉 [It&#39;s all in the detail](http://9gag.com/gag/aAy1PVL)<!-- MEMES:END -->
+ - 💣 [Rocket engine designer by ai](http://9gag.com/gag/abA00Kp)
+ - ⏩ [Make Sweden Swedish Again!](http://9gag.com/gag/avyPrQX)
+ - 👉 [Impressive](http://9gag.com/gag/aO8VzNr)<!-- MEMES:END -->
 
 ---
 
