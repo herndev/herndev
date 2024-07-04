@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A massive new Galaxy Z Fold 6 and Flip 6 leak confirms few upgrades and stale specs](https://www.androidauthority.com/z-fold6-flip6-major-leak-3457173/)
- - [Boox Go Color 7 review: a simulacra of the paperback experience](https://appleinsider.com/articles/24/07/04/boox-go-color-7-review-a-simulacra-of-the-paperback-experience?utm_medium=rss)
- - [Canada authorizes the implementation of a 3% levy on revenue from large tech companies that provide digital services to or sell data of Canadian users &lpar;Paul Vieira/Wall Street Journal&rpar;](http://www.techmeme.com/240703/p29#a240703p29)<!-- TECH:END -->
+ - [Fitbit Charge 7 wishlist: All the features I want to see](https://www.androidauthority.com/fitbit-charge-7-3457151/)
+ - [Google doesn’t fully understand what a Locked Folder is for in Google Photos](https://www.androidauthority.com/google-photos-locked-folder-button-3457108/)
+ - [OpenText announces plans to cut 1,200 jobs and add 800 jobs, a ~1.7% reduction of its workforce, and expects to reduce its annual expenses by CA$150M in 2025 &lpar;CRN&rpar;](http://www.techmeme.com/240704/p1#a240704p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
