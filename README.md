@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How the e-commerce-driven warehouse boom has transformed Shippensburg, Pennsylvania, into a distribution megaregion, much like California&#39;s Inland Empire &lpar;Tyler J Kelley/Bloomberg&rpar;](http://www.techmeme.com/240704/p5#a240704p5)
  - [Amazon Fire TV devices will now play video ads before your screensaver](https://www.androidauthority.com/amazon-fire-tv-screensaver-ads-3456479/)
- - [Researchers say GPS spoofing has impacted 60K+ commercial flights so far in 2024; GPS could become a relic as Chinese, Russian, and European systems modernize &lpar;New York Times&rpar;](http://www.techmeme.com/240704/p4#a240704p4)
- - [A global law enforcement operation takes down 593 servers hosting unlicensed versions of Cobalt Strike, a penetration testing tool abused by cybercriminals &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/240704/p3#a240704p3)<!-- TECH:END -->
+ - [Researchers say GPS spoofing has impacted 60K+ commercial flights so far in 2024; GPS could become a relic as Chinese, Russian, and European systems modernize &lpar;New York Times&rpar;](http://www.techmeme.com/240704/p4#a240704p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
