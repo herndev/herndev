@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Letting it all hang out.](http://9gag.com/gag/a6Z7V09)
- - ⏩ [There are people watching in the stands....did they buy tickets? Happy ending is in order.](http://9gag.com/gag/awyxVqx)
- - 👉 [Gotta luv women](http://9gag.com/gag/a2vmrqd)<!-- MEMES:END -->
+ - 💣 [Make Sweden Swedish Again!](http://9gag.com/gag/avyPrQX)
+ - ⏩ [I can confirm, it is](http://9gag.com/gag/aryKOzd)
+ - 👉 [Olivia Hussey, the girl who played Juliet in &#39;Romeo and Juliet&#39; in 1968. She even shows bobs there which is cool.](http://9gag.com/gag/ajPADKp)<!-- MEMES:END -->
 
 ---
 
