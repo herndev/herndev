@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Marine Le Pen: When I come to power, I will ban hijab in all of France](http://9gag.com/gag/azxjXqp)
- - ⏩ [Some cities in Germany have so called \u201cBabyklappen\u201d &lpar;baby hatch&rpar; where mothers can safely and anonymously leave their unwanted newborns.](http://9gag.com/gag/aVvPqQO)
- - 👉 [Just move on.](http://9gag.com/gag/a5Q7rDG)<!-- MEMES:END -->
+ - 💣 [Found this post under bricks and rubble](http://9gag.com/gag/abA06Ap)
+ - ⏩ [Marine Le Pen: When I come to power, I will ban hijab in all of France](http://9gag.com/gag/azxjXqp)
+ - 👉 [Every workplace has this girl who is engaged](http://9gag.com/gag/aYQeKYm)<!-- MEMES:END -->
 
 ---
 
