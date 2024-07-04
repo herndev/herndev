@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon Kindle book downloads are broken](https://www.theverge.com/2024/7/4/24192228/amazon-kindle-downloading-is-down-outage-ebooks-e-readers)
- - [noplace is the latest social media app on the block](https://www.androidauthority.com/noplace-social-media-app-3457317/)
- - [Amazon’s Fire HD 10 tablet is nearly 50 percent off for Prime members](https://www.theverge.com/2024/7/4/24191765/amazon-fire-hd-10-tablet-philips-hue-solo-light-strip-deal-sale)<!-- TECH:END -->
+ - [Sources: the EU plans to issue a final warning to X over its failure to combat dangerous content under the DSA; X faces fines of 6% of its global revenue &lpar;Bloomberg&rpar;](http://www.techmeme.com/240704/p14#a240704p14)
+ - [Best Buy knocks 40% off Backbone One gaming controller for iPhone today only](https://appleinsider.com/articles/24/07/04/best-buy-knocks-40-off-backbone-one-gaming-controller-for-iphone-today-only?utm_medium=rss)
+ - [Amazon will brick its Astro robot intentionally within a year of launch](https://www.androidauthority.com/amazon-astro-robot-3457379/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
