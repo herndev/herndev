@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Dear Roku, you ruined my TV](https://www.theverge.com/24188282/roku-tv-update-motion-smoothing-turn-off)
  - [Cyrill Cecile for Google Pixel 8a review: Should you buy it?](https://www.androidauthority.com/cyrill-cecile-google-pixel-8a-review-3456503/)
- - [Exclusive: Google is finally adding an ultrasonic fingerprint reader to the Pixel 9](https://www.androidauthority.com/pixel-9-fingerprint-scanner-3456801/)
- - [It’s another busy summer of streaming sci-fi](https://www.theverge.com/24190112/streaming-sci-fi-summer-2024-netflix-hulu-disney-apple)<!-- TECH:END -->
+ - [Exclusive: Google is finally adding an ultrasonic fingerprint reader to the Pixel 9](https://www.androidauthority.com/pixel-9-fingerprint-scanner-3456801/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
