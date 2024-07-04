@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Make Sweden Swedish Again!](http://9gag.com/gag/avyPrQX)
- - ⏩ [I can confirm, it is](http://9gag.com/gag/aryKOzd)
+ - 💣 [He was not ready for that.](http://9gag.com/gag/a2vm49e)
+ - ⏩ [How about you go F yourself ?](http://9gag.com/gag/aAy1d7o)
  - 👉 [Olivia Hussey, the girl who played Juliet in &#39;Romeo and Juliet&#39; in 1968. She even shows bobs there which is cool.](http://9gag.com/gag/ajPADKp)<!-- MEMES:END -->
 
 ---
