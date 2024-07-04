@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Escape From Tarkov studio Battlestate Games has put a bounty on cheaters](https://www.pcgamer.com/games/fps/escape-from-tarkov-studio-battlestate-games-has-put-a-bounty-on-cheaters)
  - [Strap a gun to a giant bird and fly the fantasy skies in the latest free game from the Epic Store](https://www.pcgamer.com/games/sim/strap-a-gun-to-a-giant-bird-and-fly-the-fantasy-skies-in-the-latest-free-game-from-the-epic-store)
- - [The next Gundam game plays into the joy of Gunpla model kitbashing with decades of parts to mix and match](https://www.pcgamer.com/games/action/the-next-gundam-game-plays-into-the-joy-of-gunpla-model-kitbashing-with-decades-of-parts-to-mix-and-match)
- - [16 Extraordinary Games You Need To Wishlist This Indie-Penance Day!](https://kotaku.com/best-indie-games-steam-wishlist-indiepenance-day-1851577525)<!-- GAME:END -->
+ - [The next Gundam game plays into the joy of Gunpla model kitbashing with decades of parts to mix and match](https://www.pcgamer.com/games/action/the-next-gundam-game-plays-into-the-joy-of-gunpla-model-kitbashing-with-decades-of-parts-to-mix-and-match)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
