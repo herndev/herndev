@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Leak: Basically every spec for Samsung’s Z Fold 6 and Z Flip 6](https://www.theverge.com/2024/7/3/24191966/samsung-galaxy-z-fold-flip-6-spec-leak)
- - [The FTC’s ban against noncompete agreements is under threat](https://www.theverge.com/2024/7/3/24191946/ftc-noncompete-ban-judge-preliminary-injunction)
- - [Turn Up the Sound on July 4th With Over $150 Off the Sonos Arc Soundbar](https://www.cnet.com/deals/turn-up-the-sound-on-july-4th-with-over-150-off-the-sonos-arc-soundbar/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Save $50 on the Sony WH-1000XM5 headphones](https://www.androidauthority.com/sony-wh-1000xm5-headphones-deal-3457129/)
+ - [Ericsson expects a $1.1B noncash impairment charge in Q2 for its 2022 purchase of cloud communications company Vonage, after a $2.9B impairment charge in 2023 &lpar;Sabela Ojea/Wall Street Journal&rpar;](http://www.techmeme.com/240703/p28#a240703p28)
+ - [Leak: Basically every spec for Samsung’s Z Fold 6 and Z Flip 6](https://www.theverge.com/2024/7/3/24191966/samsung-galaxy-z-fold-flip-6-spec-leak)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
