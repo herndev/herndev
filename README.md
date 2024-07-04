@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [An investigation details how online gambling giants Flutter and Entain employ practices in the US that they dropped in the UK after admitting risks to UK users &lpar;Tom Bergin/Reuters&rpar;](http://www.techmeme.com/240704/p2#a240704p2)
  - [Fitbit Charge 7 wishlist: All the features I want to see](https://www.androidauthority.com/fitbit-charge-7-3457151/)
- - [Google doesn’t fully understand what a Locked Folder is for in Google Photos](https://www.androidauthority.com/google-photos-locked-folder-button-3457108/)
- - [OpenText announces plans to cut 1,200 jobs and add 800 jobs, a ~1.7% reduction of its workforce, and expects to reduce its annual expenses by CA$150M in 2025 &lpar;CRN&rpar;](http://www.techmeme.com/240704/p1#a240704p1)<!-- TECH:END -->
+ - [Google doesn’t fully understand what a Locked Folder is for in Google Photos](https://www.androidauthority.com/google-photos-locked-folder-button-3457108/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
