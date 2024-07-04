@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Elden Ring&#39;s 1.12.3 patch notes blame third party mouse apps and unintentional ray tracing settings for performance issues](https://www.pcgamer.com/hardware/elden-rings-1123-patch-notes-blame-third-party-mouse-apps-and-unintentional-ray-tracing-settings-for-performance-issues)
  - [Today&#39;s Wordle answer for Thursday, July 4](https://www.pcgamer.com/games/puzzle/wordle-answer-today-july-4-2024)
- - [The making of Cult of the Lamb: &#39;A lot of the design was trying to encourage the player to be evil&#39;](https://www.pcgamer.com/games/action/the-making-of-cult-of-the-lamb-a-lot-of-the-design-was-trying-to-encourage-the-player-to-be-evil)
- - [Zenless Zone Zero codes for July 2024](https://www.polygon.com/zenless-zone-zero-guides/24191640/zzz-codes-redeem-redemption-gift-polychrome)<!-- GAME:END -->
+ - [The making of Cult of the Lamb: &#39;A lot of the design was trying to encourage the player to be evil&#39;](https://www.pcgamer.com/games/action/the-making-of-cult-of-the-lamb-a-lot-of-the-design-was-trying-to-encourage-the-player-to-be-evil)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
