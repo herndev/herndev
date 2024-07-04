@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Zenless Zone Zero codes and how to redeem](https://www.pcgamer.com/games/action/zenless-zone-zero-codes)
- - [The final Steam playtest for fantasy extraction game Dungeonborne attracts thousands of eager adventurers](https://www.pcgamer.com/games/action/dungeonborne-steam-playtest)
- - [Godzilla x Kong: The New Empire, Netflix’s Beverly Hills Cop 4, and every movie new to streaming this week](https://www.polygon.com/2024/7/3/24184980/new-movies-beverly-hills-cop-4-axel-f-netflix-godzilla-x-kong-new-empire-the-imaginary)<!-- GAME:END -->
+ - [Zenless Zone Zero codes for July 2024](https://www.polygon.com/zenless-zone-zero-guides/24191640/zzz-codes-redeem-redemption-gift-polychrome)
+ - [Officer Mewmew Medal locations in Zenless Zone Zero](https://www.polygon.com/zenless-zone-zero-guides/24191618/officer-mewmew-medal-locations-zzz)
+ - [Chapter 2 ‘Speedy Chaser’ exploration walkthrough in Zenless Zone Zero](https://www.polygon.com/zenless-zone-zero-guides/24191597/chapter-2-zzz-speedy-chaser-exploration-walkthrough)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
