@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Democratic Socialism Simulator is &lpar;tragically, regrettably&rpar; still as relevant in 2024](https://www.polygon.com/24191760/democratic-socialism-simulator-2024-election-fourth-of-july)
- - [How to get Hefty Fire Pots and Hefty Furnace Pots in Elden Ring: Shadow of the Erdtree](https://www.polygon.com/elden-ring-shadow-erdtree-guide/24183218/hefty-fire-pots-hefty-furnace-pots-dlc)
- - [Where to find the O Mother gesture in Elden Ring: Shadow of the Erdtree](https://www.polygon.com/elden-ring-shadow-erdtree-guide/24186586/o-mother-gesture-location-where-to-find-sote)<!-- GAME:END -->
+ - [FTC fires out warnings to ASRock, Gigabyte and Zotac over &#39;Warranty void if removed&#39; stickers in violation of US law](https://www.pcgamer.com/hardware/ftc-fires-out-warnings-to-asrock-gigabyte-and-zotac-over-warranty-void-if-removed-stickers-in-violation-of-us-law)
+ - [Nintendo just dropped 7 NES curios on Switch Online for the holiday weekend](https://www.polygon.com/nintendo/24192167/nintendo-switch-online-nes-july-4-2024)
+ - [There&#39;s a new ray tracing benchmark in town and it paints an all-too-familiar picture of today&#39;s GPUs](https://www.pcgamer.com/hardware/graphics-cards/theres-a-new-ray-tracing-benchmark-in-town-and-it-paints-an-all-too-familiar-picture-of-todays-gpus)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
