@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Found this post under bricks and rubble](http://9gag.com/gag/abA06Ap)
+ - 💣 [It&#39;s all in the detail](http://9gag.com/gag/aAy1PVL)
  - ⏩ [Your daily dose](http://9gag.com/gag/amo9rO4)
- - 👉 [He was not ready for that.](http://9gag.com/gag/a2vm49e)<!-- MEMES:END -->
+ - 👉 [There are people watching in the stands....did they buy tickets? Happy ending is in order.](http://9gag.com/gag/awyxVqx)<!-- MEMES:END -->
 
 ---
 
