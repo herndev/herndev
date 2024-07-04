@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Verge’s guide to Amazon Prime Day 2024](https://www.theverge.com/24191617/amazon-prime-day-tech-deals-guide-2024)
- - [The best Prime Day deals you can already get](https://www.theverge.com/24186583/amazon-prime-day-2024-best-tech-deals-sales)
- - [Best Internet Providers in Clarksburg, West Virginia](https://www.cnet.com/home/internet/best-internet-providers-in-clarksburg-wv/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Leak: Basically every spec for Samsung’s Z Fold 6 and Z Flip 6](https://www.theverge.com/2024/7/3/24191966/samsung-galaxy-z-fold-flip-6-spec-leak)
+ - [The FTC’s ban against noncompete agreements is under threat](https://www.theverge.com/2024/7/3/24191946/ftc-noncompete-ban-judge-preliminary-injunction)
+ - [Turn Up the Sound on July 4th With Over $150 Off the Sonos Arc Soundbar](https://www.cnet.com/deals/turn-up-the-sound-on-july-4th-with-over-150-off-the-sonos-arc-soundbar/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
