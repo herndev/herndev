@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Elden Ring&#39;s 1.12.3 patch notes blame third party mouse apps and unintentional ray tracing settings for performance issues](https://www.pcgamer.com/hardware/elden-rings-1123-patch-notes-blame-third-party-mouse-apps-and-unintentional-ray-tracing-settings-for-performance-issues)
- - [Today&#39;s Wordle answer for Thursday, July 4](https://www.pcgamer.com/games/puzzle/wordle-answer-today-july-4-2024)
- - [The making of Cult of the Lamb: &#39;A lot of the design was trying to encourage the player to be evil&#39;](https://www.pcgamer.com/games/action/the-making-of-cult-of-the-lamb-a-lot-of-the-design-was-trying-to-encourage-the-player-to-be-evil)<!-- GAME:END -->
+ - [The first Elden Ring: Shadow of the Erdtree patch nerfs the boss-melting explosive perfumes into the ground](https://www.pcgamer.com/games/rpg/fromsoftwares-first-elden-ring-shadow-of-the-erdtree-patch-nerfs-the-boss-melting-explosive-perfumes-into-the-ground)
+ - [The father of Final Fantasy loves FF14 so much, fellow devs at his studio have had to log on sometimes to say &#39;hey, the meeting&#39;s started&#39;](https://www.pcgamer.com/games/final-fantasy/the-father-of-final-fantasy-loves-ff14-so-much-fellow-devs-at-his-studio-have-had-to-log-on-sometimes-to-remind-him-he-has-meetings-to-attend)
+ - [Someone has slowly been modding Naruto games to give a character his father&#39;s eyes—who knows why, but we&#39;re at 5 and counting](https://www.pcgamer.com/games/fighting/someone-has-slowly-been-modding-naruto-games-to-give-a-character-his-fathers-eyeswho-knows-why-but-were-at-5-and-counting)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
