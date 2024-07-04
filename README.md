@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Save $50 on the Sony WH-1000XM5 headphones](https://www.androidauthority.com/sony-wh-1000xm5-headphones-deal-3457129/)
- - [Best Internet Providers in York, Pennsylvania](https://www.cnet.com/home/internet/best-internet-providers-in-york-pa/#ftag=CAD590a51e)
- - [Ericsson expects a $1.1B noncash impairment charge in Q2 for its 2022 purchase of cloud communications company Vonage, after a $2.9B impairment charge in 2023 &lpar;Sabela Ojea/Wall Street Journal&rpar;](http://www.techmeme.com/240703/p28#a240703p28)<!-- TECH:END -->
+ - [A massive new Galaxy Z Fold 6 and Flip 6 leak confirms few upgrades and stale specs](https://www.androidauthority.com/z-fold6-flip6-major-leak-3457173/)
+ - [Boox Go Color 7 review: a simulacra of the paperback experience](https://appleinsider.com/articles/24/07/04/boox-go-color-7-review-a-simulacra-of-the-paperback-experience?utm_medium=rss)
+ - [Canada authorizes the implementation of a 3% levy on revenue from large tech companies that provide digital services to or sell data of Canadian users &lpar;Paul Vieira/Wall Street Journal&rpar;](http://www.techmeme.com/240703/p29#a240703p29)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
