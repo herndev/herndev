@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Just move on.](http://9gag.com/gag/a5Q7rDG)
+ - 💣 [How about you go F yourself ?](http://9gag.com/gag/aAy1d7o)
  - ⏩ [Olivia Hussey, the girl who played Juliet in &#39;Romeo and Juliet&#39; in 1968. She even shows bobs there which is cool.](http://9gag.com/gag/ajPADKp)
- - 👉 [Your daily dose](http://9gag.com/gag/amo9rO4)<!-- MEMES:END -->
+ - 👉 [Every workplace has this girl who is engaged](http://9gag.com/gag/aYQeKYm)<!-- MEMES:END -->
 
 ---
 
