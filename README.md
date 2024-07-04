@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Verge’s guide to Amazon Prime Day 2024](https://www.theverge.com/24191617/amazon-prime-day-tech-deals-guide-2024)
  - [The best Prime Day deals you can already get](https://www.theverge.com/24186583/amazon-prime-day-2024-best-tech-deals-sales)
- - [Unpacked 2024: When is it and what to expect? Galaxy Ring, Watch 7 Ultra, Flip 6, Fold 6, and more!](https://www.androidauthority.com/galaxy-unpacked-2024-how-to-watch-3457126/)
- - [All the smart home news, reviews, and gadgets you need to know about](https://www.theverge.com/24190824/smart-home-news-reviews-guides-gadgets)<!-- TECH:END -->
+ - [Best Internet Providers in Clarksburg, West Virginia](https://www.cnet.com/home/internet/best-internet-providers-in-clarksburg-wv/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
