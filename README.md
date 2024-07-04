@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The first Elden Ring: Shadow of the Erdtree patch nerfs the boss-melting explosive perfumes into the ground](https://www.pcgamer.com/games/rpg/fromsoftwares-first-elden-ring-shadow-of-the-erdtree-patch-nerfs-the-boss-melting-explosive-perfumes-into-the-ground)
- - [The father of Final Fantasy loves FF14 so much, fellow devs at his studio have had to log on sometimes to say &#39;hey, the meeting&#39;s started&#39;](https://www.pcgamer.com/games/final-fantasy/the-father-of-final-fantasy-loves-ff14-so-much-fellow-devs-at-his-studio-have-had-to-log-on-sometimes-to-remind-him-he-has-meetings-to-attend)
- - [Someone has slowly been modding Naruto games to give a character his father&#39;s eyes—who knows why, but we&#39;re at 5 and counting](https://www.pcgamer.com/games/fighting/someone-has-slowly-been-modding-naruto-games-to-give-a-character-his-fathers-eyeswho-knows-why-but-were-at-5-and-counting)<!-- GAME:END -->
+ - [Democratic Socialism Simulator is &lpar;tragically, regrettably&rpar; still as relevant in 2024](https://www.polygon.com/24191760/democratic-socialism-simulator-2024-election-fourth-of-july)
+ - [How to get Hefty Fire Pots and Hefty Furnace Pots in Elden Ring: Shadow of the Erdtree](https://www.polygon.com/elden-ring-shadow-erdtree-guide/24183218/hefty-fire-pots-hefty-furnace-pots-dlc)
+ - [Where to find the O Mother gesture in Elden Ring: Shadow of the Erdtree](https://www.polygon.com/elden-ring-shadow-erdtree-guide/24186586/o-mother-gesture-location-where-to-find-sote)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
