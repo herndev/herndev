@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [CMF by Nothing’s new smartwatch will let you change bezels on the fly](https://www.androidauthority.com/cmf-watch-pro-2-bezel-3457295/)
- - [ElevenLabs will use AI-generated voices of dead actors like Judy Garland and Burt Reynolds in its Reader app, after striking deals with the actors&#39; estates &lpar;Samantha Murphy Kelly/CNN&rpar;](http://www.techmeme.com/240704/p11#a240704p11)
- - [Apple&#39;s M3 14-inch MacBook Pro with 16GB RAM, 1TB SSD plunges to $1,699](https://appleinsider.com/articles/24/07/04/apples-m3-14-inch-macbook-pro-with-16gb-ram-1tb-ssd-plunges-to-1699?utm_medium=rss)<!-- TECH:END -->
+ - [Android 15’s Contact Keys is a step towards Apple-like protection from cyber attacks &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-contact-keys-feature-apk-teardown-3457277/)
+ - [Meta releases pre-trained models that use a novel multi-token prediction approach, available on Hugging Face under a non-commercial research license &lpar;Michael Nu&amp;ntilde;ez/VentureBeat&rpar;](http://www.techmeme.com/240704/p12#a240704p12)
+ - [Best July 4th Grill Sales: Enjoy the Summer Season With These Massive BBQ Savings](https://www.cnet.com/deals/best-july-4th-grill-sales-2024-07-04/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
