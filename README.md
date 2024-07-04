@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Snag Anker&#39;s EverFrost Cooler While It&#39;s $300 Off This July 4th](https://www.cnet.com/deals/snag-ankers-everfrost-cooler-while-its-300-off-this-july-4th/#ftag=CAD590a51e)
- - [Kindle users face download glitches, Amazon has acknowledged the issue](https://www.androidauthority.com/kindle-donwload-glitches-3457426/)
- - [Don&#39;t Wait for Prime Day. These 48 Amazon July 4th Deals Are Worth Buying Today](https://www.cnet.com/deals/amazon-july-4th-sale-2024-07-04/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [SemiAnalysis: Nvidia is set to sell $12B worth of H20 chips in China in 2024, or 1M+ units; Huawei expects to sell ~550,000 units of Ascend 910B chips in 2024 &lpar;Financial Times&rpar;](http://www.techmeme.com/240704/p15#a240704p15)
+ - [The best new streaming movies this week: A Family Affair, Fancy Dance, and more](https://www.androidauthority.com/best-new-streaming-movies-this-week-3083965/)
+ - [The 63 Best Movies on Disney+ Right Now &lpar;July 2024&rpar;](https://www.wired.com/story/best-movies-disney-plus/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
