@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I could still dream](http://9gag.com/gag/aYQe4nO)
+ - 💣 [Found this post under bricks and rubble](http://9gag.com/gag/abA06Ap)
  - ⏩ [Your daily dose](http://9gag.com/gag/amo9rO4)
- - 👉 [Seeenk u very much](http://9gag.com/gag/azxjrKj)<!-- MEMES:END -->
+ - 👉 [He was not ready for that.](http://9gag.com/gag/a2vm49e)<!-- MEMES:END -->
 
 ---
 
