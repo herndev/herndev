@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Dear Roku, you ruined my TV](https://www.theverge.com/24188282/roku-tv-update-motion-smoothing-turn-off)
- - [Cyrill Cecile for Google Pixel 8a review: Should you buy it?](https://www.androidauthority.com/cyrill-cecile-google-pixel-8a-review-3456503/)
- - [Exclusive: Google is finally adding an ultrasonic fingerprint reader to the Pixel 9](https://www.androidauthority.com/pixel-9-fingerprint-scanner-3456801/)<!-- TECH:END -->
+ - [CMF by Nothing’s new smartwatch will let you change bezels on the fly](https://www.androidauthority.com/cmf-watch-pro-2-bezel-3457295/)
+ - [ElevenLabs will use AI-generated voices of dead actors like Judy Garland and Burt Reynolds in its Reader app, after striking deals with the actors&#39; estates &lpar;Samantha Murphy Kelly/CNN&rpar;](http://www.techmeme.com/240704/p11#a240704p11)
+ - [Apple&#39;s M3 14-inch MacBook Pro with 16GB RAM, 1TB SSD plunges to $1,699](https://appleinsider.com/articles/24/07/04/apples-m3-14-inch-macbook-pro-with-16gb-ram-1tb-ssd-plunges-to-1699?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
