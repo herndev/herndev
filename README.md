@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at a16z&#39;s Crypto Startup Accelerator, a Y Combinator-style program that provides $500K in funding and 10 weeks of coaching, most recently in London &lpar;Joel Khalili/Wired&rpar;](http://www.techmeme.com/240704/p7#a240704p7)
- - [How Apple Intelligence’s Privacy Stacks Up Against Android’s ‘Hybrid AI’](https://www.wired.com/story/apple-intelligence-android-hybrid-ai-privacy/)
- - [WhatsApp is developing a personalized AI avatar generator](https://www.theverge.com/2024/7/4/24192112/whatsapp-ai-avatar-image-generator-imagine-meta-llama)<!-- TECH:END -->
+ - [Kobo’s great color e-readers are held back by lock-in](https://www.theverge.com/2024/7/4/24158251/kobo-libra-clara-colour-e-reader-review)
+ - [Authy got hacked, and 33 million user phone numbers were stolen](https://appleinsider.com/articles/24/07/04/authy-got-hacked-and-33-million-user-phone-numbers-were-stolen?utm_medium=rss)
+ - [Apple turns to Samsung for new iPhone 16 camera sensors](https://appleinsider.com/articles/24/07/02/apple-turns-to-samsung-for-new-iphone-16-camera-sensors?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
