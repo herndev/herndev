@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How the e-commerce-driven warehouse boom has transformed Shippensburg, Pennsylvania, into a distribution megaregion, much like California&#39;s Inland Empire &lpar;Tyler J Kelley/Bloomberg&rpar;](http://www.techmeme.com/240704/p5#a240704p5)
- - [Amazon Fire TV devices will now play video ads before your screensaver](https://www.androidauthority.com/amazon-fire-tv-screensaver-ads-3456479/)
- - [Researchers say GPS spoofing has impacted 60K+ commercial flights so far in 2024; GPS could become a relic as Chinese, Russian, and European systems modernize &lpar;New York Times&rpar;](http://www.techmeme.com/240704/p4#a240704p4)<!-- TECH:END -->
+ - [WhatsApp is developing an AI avatar generator](https://www.theverge.com/2024/7/4/24192112/whatsapp-ai-avatar-image-generator-imagine-meta-llama)
+ - [AWS partners with the Australian government to build a secure cloud data system for top secret information; the government will invest $1.3B over 10 years &lpar;Ben Westcott/Bloomberg&rpar;](http://www.techmeme.com/240704/p6#a240704p6)
+ - [Samsung could use PC tech to prevent Exynos chips from overheating](https://www.androidauthority.com/samsung-pc-tech-overheating-exynos-3457230/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
