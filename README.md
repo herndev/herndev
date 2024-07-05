@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Found this post under bricks and rubble](http://9gag.com/gag/abA06Ap)
- - ⏩ [How about you go F yourself ?](http://9gag.com/gag/aAy1d7o)
- - 👉 [Marine Le Pen: When I come to power, I will ban hijab in all of France](http://9gag.com/gag/azxjXqp)<!-- MEMES:END -->
+ - 💣 [Thats a thinker](http://9gag.com/gag/a2vmog1)
+ - ⏩ [That&#39;s why I love Italy](http://9gag.com/gag/aO8VzZv)
+ - 👉 [The muffin man](http://9gag.com/gag/ae9GMDb)<!-- MEMES:END -->
 
 ---
 
