@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Galaxy Z Fold 6 slim model could be bigger &lpar;in a good way&rpar;](https://www.androidauthority.com/samsung-galaxy-z-fold-6-slim-launch-window-screen-size-3457619/)
- - [YouTube releases an updated Erase Song tool for creators that uses AI to detect and remove any copyrighted music from their videos without impacting other audio &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/240705/p2#a240705p2)
- - [Russia forces Apple to remove VPN apps from the App Store](https://appleinsider.com/articles/24/07/05/russia-forces-apple-to-remove-vpn-apps-from-the-app-store?utm_medium=rss)<!-- TECH:END -->
+ - [Apple&#39;s Home Hub may be more than just a HomePod with a screen](https://appleinsider.com/articles/24/07/05/apples-home-hub-may-be-more-than-just-a-homepod-with-a-screen?utm_medium=rss)
+ - [The EC asks Amazon to provide more information on its compliance with DSA provisions concerning the transparency of Amazon&#39;s recommender systems by July 26 &lpar;Benoit Van Overstraeten/Reuters&rpar;](http://www.techmeme.com/240705/p3#a240705p3)
+ - [How a Group of Butterflies Managed to Fly 4,200 Kilometers Without Stopping](https://www.wired.com/story/butterflies-fly-4200-kilometers-without-stopping-nonstop-migration-painted-lady/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
