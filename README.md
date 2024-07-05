@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [He was not ready for that.](http://9gag.com/gag/a2vm49e)
- - ⏩ [Found on my old smartphone](http://9gag.com/gag/aYQex9V)
- - 👉 [Marine Le Pen: When I come to power, I will ban hijab in all of France](http://9gag.com/gag/azxjXqp)<!-- MEMES:END -->
+ - 💣 [Can you feel it?](http://9gag.com/gag/a0epRzn)
+ - ⏩ [The perfect mc mod doesn\u2019t exi-](http://9gag.com/gag/ae9GMoq)
+ - 👉 [How about you go F yourself ?](http://9gag.com/gag/aAy1d7o)<!-- MEMES:END -->
 
 ---
 
