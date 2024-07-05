@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [I tested out a bunch of sleep tracker apps and finally found my favorite](https://www.androidauthority.com/best-sleep-tracker-apps-android-789293/)
- - [Samsung Galaxy Z Flip 6 rumors: Everything we know and what we want to see](https://www.androidauthority.com/galaxy-z-flip-6-3384568/)
- - [The Galaxy Z Flip 6 might have a downgraded cover screen](https://www.androidauthority.com/samsung-galaxy-z-flip-6-cover-screen-downgrade-3457580/)<!-- TECH:END -->
+ - [The Polar Grit X2 Pro is a smartwatch that feels adrift](https://www.theverge.com/24182483/polar-grit-x2-pro-review-smartwatch-fitness)
+ - [Best July 4th Sales 2024: 83 Remaining Offers From Home Depot, Amazon, Best Buy and More](https://www.cnet.com/deals/best-july-4th-sales-2024-07-05/#ftag=CAD590a51e)
+ - [Top 60 July 4th Deals Under $25 Still Available: Incredible Savings on Outdoor Gear, Tech, Toys and More](https://www.cnet.com/deals/july-4th-deals-under-25-2024-07-05/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
