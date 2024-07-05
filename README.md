@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [How about you go F yourself ?](http://9gag.com/gag/aAy1d7o)
- - ⏩ [Found this post under bricks and rubble](http://9gag.com/gag/abA06Ap)
- - 👉 [Wanted to show my life hack for this summer](http://9gag.com/gag/aXP9Ymg)<!-- MEMES:END -->
+ - 💣 [Your daily dose](http://9gag.com/gag/amo9rO4)
+ - ⏩ [I can confirm, it is](http://9gag.com/gag/aryKOzd)
+ - 👉 [They&#39;re Entrailing Behind The Truck](http://9gag.com/gag/a7o7D0L)<!-- MEMES:END -->
 
 ---
 
