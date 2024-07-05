@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [BALERION](http://9gag.com/gag/azxj9GB)
- - ⏩ [RIP Vision Pro 2024-2024](http://9gag.com/gag/awyxo6D)
- - 👉 [Wanted to show my life hack for this summer](http://9gag.com/gag/aXP9Ymg)<!-- MEMES:END -->
+ - 💣 [Trauma is the best teacher](http://9gag.com/gag/a7o7WMz)
+ - ⏩ [Emmy 2014 - Peak of Television](http://9gag.com/gag/a1mMW38)
+ - 👉 [Friendly reminder.](http://9gag.com/gag/aRBA7VM)<!-- MEMES:END -->
 
 ---
 
