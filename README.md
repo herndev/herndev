@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [With Dawntrail, Final Fantasy 14 Hits Highest Player Count In A Decade](https://kotaku.com/final-fantasy-14-dawntrail-record-player-count-1851578304)
- - [Summer Games Done Quick Gives Us The Best Video Game Moment Of 2024](https://kotaku.com/summer-games-done-quick-dog-peanut-butter-baseball-1851578300)
- - [Alienware Pro wireless review](https://www.pcgamer.com/hardware/gaming-mice/alienware-pro-wireless-review)<!-- GAME:END -->
+ - [Share of the Week: Fireworks](https://blog.playstation.com/2024/07/05/share-of-the-week-fireworks/)
+ - [Steamy &#39;Overwatch cabaret club&#39; where you can pay to have women fall asleep on voice chat with you gets obliterated, is immediately replaced by even steamier Apex version](https://www.pcgamer.com/games/fps/steamy-overwatch-cabaret-club-where-you-can-pay-to-have-women-fall-asleep-on-voice-chat-with-you-gets-obliterated-is-immediately-replaced-by-even-steamier-apex-version)
+ - [&#39;It was so much of a cash cow&#39;: Former GTA 5 dev implies ill-fated Agent Trevor DLC was sacrificed at the altar of GTA Online](https://www.pcgamer.com/games/grand-theft-auto/it-was-so-much-of-a-cash-cow-former-gta-5-dev-says-ill-fated-agent-trevor-dlc-was-sacrificed-at-the-altar-of-gta-online)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
