@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Dang hawk tuah girl just ruined every one\u2019s dreams &amp; chances of Gen wealth with OF.](http://9gag.com/gag/aXP9xPv)
- - ⏩ [World War 4 will be fought with sticks and stones.](http://9gag.com/gag/a7o7wvq)
- - 👉 [Men only want one thing, plus one other thing](http://9gag.com/gag/aKGqdnZ)<!-- MEMES:END -->
+ - 💣 [Lol.](http://9gag.com/gag/aByYgLO)
+ - ⏩ [Every damn time.](http://9gag.com/gag/avyPoDq)
+ - 👉 [\u2606\u2606\u2606](http://9gag.com/gag/aByY09D)<!-- MEMES:END -->
 
 ---
 
