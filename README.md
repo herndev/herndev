@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Bubby and Bobby Finally Glide Back into Action After 33 Years with Parasol Stars July 11](https://news.xbox.com/en-us/2024/07/05/bubby-and-bobby-finally-glide-back-into-action-after-33-years-with-parasol-stars-july-11/)
- - [After Just A Year, Capcom&#39;s Live-Service Dino Game Is Going Extinct](https://kotaku.com/exoprimal-new-seasons-rotating-dead-servers-capcom-1851578726)
- - [Helldivers 2 Players Fear They’ve Been Tricked Into Unlocking A Weapon They Don’t Want](https://kotaku.com/helldivers-2-major-order-anti-tank-mines-trick-1851578695)<!-- GAME:END -->
+ - [Satisfactory 1.0 is finally out in September with two megaton changes: easier-to-manufacture computers and flushable toilets](https://www.pcgamer.com/games/sim/satisfactory-10-is-finally-out-in-september-with-two-megaton-changes-easier-to-manufacture-computers-and-flushable-toilets)
+ - [After a year of competitive dino survival, Capcom ends new updates for Exoprimal](https://www.pcgamer.com/games/action/after-a-year-of-competitive-dino-survival-capcom-ends-new-updates-for-exoprimal)
+ - [Factorio&#39;s big Space Age expansion arrives in October and it&#39;s going to be even bigger than we thought](https://www.pcgamer.com/games/sim/factorios-big-space-age-expansion-arrives-in-october-and-its-going-to-be-even-bigger-than-we-thought)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
