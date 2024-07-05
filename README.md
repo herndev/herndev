@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung hasn’t launched the Galaxy Buds 3 Pro, but someone already bought it](https://www.androidauthority.com/samsung-galaxy-buds-3-pro-early-purchase-3457544/)
- - [Apple Watch Ultra 3 wishlist: All the features I want to see](https://www.androidauthority.com/apple-watch-ultra-3-3456461/)
- - [The prospect of applying generative AI to contract lifecycle management software has prompted a flurry of deals, as experts expect further market consolidation &lpar;Nick Huber/Financial Times&rpar;](http://www.techmeme.com/240705/p1#a240705p1)<!-- TECH:END -->
+ - [The Galaxy Z Flip 6 might have a downgraded cover screen](https://www.androidauthority.com/samsung-galaxy-z-flip-6-cover-screen-downgrade-3457580/)
+ - [How Labour Can Fix the UK’s Tech Industry](https://www.wired.com/story/can-the-uk-finally-fix-techs-big-pipeline-problem/)
+ - [Health Care Should Be Designed for the Extremes of Life](https://www.wired.com/story/wired-health-yves-behar-design-health-fuseproject-snoo-moxie/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
