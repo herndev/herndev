@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Thats a thinker](http://9gag.com/gag/a2vmog1)
- - ⏩ [That&#39;s why I love Italy](http://9gag.com/gag/aO8VzZv)
- - 👉 [The muffin man](http://9gag.com/gag/ae9GMDb)<!-- MEMES:END -->
+ - 💣 [It&#39;s same as spiderteen having a hot aunt.](http://9gag.com/gag/aW468A6)
+ - ⏩ [BALERION](http://9gag.com/gag/azxj9GB)
+ - 👉 [Fire in the hole](http://9gag.com/gag/a1mMQpD)<!-- MEMES:END -->
 
 ---
 
