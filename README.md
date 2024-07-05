@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Anime recommendations](http://9gag.com/gag/aXP9Yzg)
- - ⏩ [The muffin man](http://9gag.com/gag/ae9GMDb)
- - 👉 [Come on barbie let&#39;s go party](http://9gag.com/gag/aLn2g25)<!-- MEMES:END -->
+ - 💣 [Every workplace has this girl who is engaged](http://9gag.com/gag/aYQeKYm)
+ - ⏩ [Your daily dose](http://9gag.com/gag/amo9rO4)
+ - 👉 [Found this post under bricks and rubble](http://9gag.com/gag/abA06Ap)<!-- MEMES:END -->
 
 ---
 
