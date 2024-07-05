@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Kotaku’s Weekend Guide: 6 Great Games We’re Kicking Off July With](https://kotaku.com/kotaku-games-to-play-ff14-gdq-helldivers-1851578676)
- - [Card-based city-builder Tiny Kingdom might look cosy, but there&#39;s no time to relax when the fate of the realm is literally in your hand](https://www.pcgamer.com/games/city-builder/card-based-city-builder-tiny-kingdom-might-look-cosy-but-theres-no-time-to-relax-when-the-fate-of-the-realm-is-literally-in-your-hand)
- - [One Of The Worst Movies Ever Made Almost Had A PS2 Tie-In Game](https://kotaku.com/foodfight-movie-game-ps2-xbox-gameplay-demo-files-story-1851578468)<!-- GAME:END -->
+ - [Bubby and Bobby Finally Glide Back into Action After 33 Years with Parasol Stars July 11](https://news.xbox.com/en-us/2024/07/05/bubby-and-bobby-finally-glide-back-into-action-after-33-years-with-parasol-stars-july-11/)
+ - [After Just A Year, Capcom&#39;s Live-Service Dino Game Is Going Extinct](https://kotaku.com/exoprimal-new-seasons-rotating-dead-servers-capcom-1851578726)
+ - [Helldivers 2 Players Fear They’ve Been Tricked Into Unlocking A Weapon They Don’t Want](https://kotaku.com/helldivers-2-major-order-anti-tank-mines-trick-1851578695)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
