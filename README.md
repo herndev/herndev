@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Men only want one thing, plus one other thing](http://9gag.com/gag/aKGqdnZ)
- - ⏩ [Her reaction was priceless.](http://9gag.com/gag/aVvP0Vw)
- - 👉 [Wanted to show my life hack for this summer](http://9gag.com/gag/aXP9Ymg)<!-- MEMES:END -->
+ - 💣 [Dang hawk tuah girl just ruined every one\u2019s dreams &amp; chances of Gen wealth with OF.](http://9gag.com/gag/aXP9xPv)
+ - ⏩ [World War 4 will be fought with sticks and stones.](http://9gag.com/gag/a7o7wvq)
+ - 👉 [Men only want one thing, plus one other thing](http://9gag.com/gag/aKGqdnZ)<!-- MEMES:END -->
 
 ---
 
