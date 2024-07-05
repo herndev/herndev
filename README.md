@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Sony WH-1000XM4 headphones are still amazing, and $70 off](https://www.androidauthority.com/sony-wh-1000xm4-headphones-deal-2-3457505/)
- - [Nectar’s July 4th Sale Today Will Save You Up to 40% on Popular Beds](https://www.cnet.com/deals/nectar-4th-of-july-2024/#ftag=CAD590a51e)
- - [Today&#39;s NYT Strands Hints, Answers and Help for July 5, #124](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-july-5-124/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple Watch Ultra 3 wishlist: All the features I want to see](https://www.androidauthority.com/apple-watch-ultra-3-3456461/)
+ - [The prospect of applying generative AI to contract lifecycle management software has prompted a flurry of deals, as experts expect further market consolidation &lpar;Nick Huber/Financial Times&rpar;](http://www.techmeme.com/240705/p1#a240705p1)
+ - [The Sony WH-1000XM4 headphones are still amazing, and $70 off](https://www.androidauthority.com/sony-wh-1000xm4-headphones-deal-2-3457505/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
