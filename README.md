@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Can you feel it?](http://9gag.com/gag/a0epRzn)
- - ⏩ [The perfect mc mod doesn\u2019t exi-](http://9gag.com/gag/ae9GMoq)
- - 👉 [How about you go F yourself ?](http://9gag.com/gag/aAy1d7o)<!-- MEMES:END -->
+ - 💣 [Men only want one thing, plus one other thing](http://9gag.com/gag/aKGqdnZ)
+ - ⏩ [Her reaction was priceless.](http://9gag.com/gag/aVvP0Vw)
+ - 👉 [Wanted to show my life hack for this summer](http://9gag.com/gag/aXP9Ymg)<!-- MEMES:END -->
 
 ---
 
