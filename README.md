@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s Home Hub may be more than just a HomePod with a screen](https://appleinsider.com/articles/24/07/05/apples-home-hub-may-be-more-than-just-a-homepod-with-a-screen?utm_medium=rss)
- - [The EC asks Amazon to provide more information on its compliance with DSA provisions concerning the transparency of Amazon&#39;s recommender systems by July 26 &lpar;Benoit Van Overstraeten/Reuters&rpar;](http://www.techmeme.com/240705/p3#a240705p3)
- - [How a Group of Butterflies Managed to Fly 4,200 Kilometers Without Stopping](https://www.wired.com/story/butterflies-fly-4200-kilometers-without-stopping-nonstop-migration-painted-lady/)<!-- TECH:END -->
+ - [Here’s how Qualcomm’s new laptop chips really stack up to Apple, Intel, and AMD](https://www.theverge.com/24191671/copilot-plus-pcs-laptops-qualcomm-intel-amd-apple)
+ - [Original HomePods, new iPads, and rumors of future iPhones on the AppleInsider Podcast](https://appleinsider.com/articles/24/07/05/original-homepods-new-ipads-and-rumors-of-future-iphones-on-the-appleinsider-podcast?utm_medium=rss)
+ - [Xiaomi could finally make it easier to disable system ads](https://www.androidauthority.com/xiaomi-disable-system-ads-toggle-3457222/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
