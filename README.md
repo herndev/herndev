@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [TRM: cryptocurrency stolen through hacks more than doubled to $1.38N in H1 2024 from a year earlier; five large attacks accounted for 70% of the crypto stolen &lpar;Benjamin Taubman/Bloomberg&rpar;](http://www.techmeme.com/240705/p6#a240705p6)
- - [How to Shop for a Smart Lock &lpar;2024&rpar;](https://www.wired.com/story/how-to-shop-for-a-smart-lock/)
- - [Here’s how Qualcomm’s new laptop chips really stack up to Apple, Intel, and AMD](https://www.theverge.com/24191671/copilot-plus-pcs-laptops-qualcomm-intel-amd-apple)<!-- TECH:END -->
+ - [iPhone 16 Pro again rumored to get Tetraprism zoom lens](https://appleinsider.com/articles/24/07/05/iphone-16-pro-again-rumored-to-get-tetraprism-zoom-lens?utm_medium=rss)
+ - [YouTube’s improved eraser tool easily removes copyrighted music from videos](https://www.theverge.com/2024/7/5/24192635/youtube-ai-eraser-tool-copyrighted-music-content-id)
+ - [Apple&#39;s blue M1 iMac 24-inch is on sale for $999](https://appleinsider.com/articles/24/07/05/apples-blue-m1-imac-24-inch-is-on-sale-for-999?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
