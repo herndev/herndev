@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Next Week on Xbox: New Games for July 8 to 12](https://news.xbox.com/en-us/2024/07/05/next-week-on-xbox-new-games-for-july-8-to-12/)
- - [Here&#39;s your reminder how close AMD came to financial collapse and just how much we owe to the PlayStation 4 and Xbox One](https://www.pcgamer.com/hardware/processors/heres-your-reminder-how-close-amd-came-to-financial-collapse-and-just-how-much-we-owe-to-the-playstation-4-and-xbox-one)
- - [Nintendo Will No Longer Fix That Console You Never Used](https://kotaku.com/nintendo-wii-u-spare-parts-fix-1851578166)<!-- GAME:END -->
+ - [With Dawntrail, Final Fantasy 14 Hits Highest Player Count In A Decade](https://kotaku.com/final-fantasy-14-dawntrail-record-player-count-1851578304)
+ - [Summer Games Done Quick Gives Us The Best Video Game Moment Of 2024](https://kotaku.com/summer-games-done-quick-dog-peanut-butter-baseball-1851578300)
+ - [Alienware Pro wireless review](https://www.pcgamer.com/hardware/gaming-mice/alienware-pro-wireless-review)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
