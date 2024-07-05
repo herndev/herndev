@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Lol.](http://9gag.com/gag/aByYgLO)
- - ⏩ [How about you go F yourself ?](http://9gag.com/gag/aAy1d7o)
- - 👉 [Something for everybody](http://9gag.com/gag/aryKGD5)<!-- MEMES:END -->
+ - 💣 [Found on my old smartphone](http://9gag.com/gag/aYQex9V)
+ - ⏩ [Just some random numbers. Nothing special about them.](http://9gag.com/gag/aGyxjGw)
+ - 👉 [Wanted to show my life hack for this summer](http://9gag.com/gag/aXP9Ymg)<!-- MEMES:END -->
 
 ---
 
