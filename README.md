@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Chrome is rolling out predictive back gesture support on Android 15](https://www.androidauthority.com/google-chrome-predictive-back-3457693/)
- - [In a complaint filed at a California court, two ex-Northern Data executives say they were fired after raising concerns about alleged fraud by the CEO and COO &lpar;Bryce Elder/Financial Times&rpar;](http://www.techmeme.com/240705/p8#a240705p8)
- - [Why Redbox has been powering down](https://www.theverge.com/2024/7/5/24191963/redbox-chicken-soup-for-the-soul-entertainment-bankruptcy-why)<!-- TECH:END -->
+ - [YouTube’s AI eraser removes copyrighted music, preserves other audio](https://www.androidauthority.com/youtube-eraser-tool-3457707/)
+ - [OnePlus might not stop at a 6,100mAh battery](https://www.androidauthority.com/oneplus-6100mah-battery-3457661/)
+ - [34 Best Apple July 4th Deals Still Available: Save on AirPods, Apple Watch, MacBooks and More](https://www.cnet.com/deals/apple-july-4th-deals-2024-07-05/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
