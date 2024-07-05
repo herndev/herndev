@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Trauma is the best teacher](http://9gag.com/gag/a7o7WMz)
- - ⏩ [Emmy 2014 - Peak of Television](http://9gag.com/gag/a1mMW38)
- - 👉 [Friendly reminder.](http://9gag.com/gag/aRBA7VM)<!-- MEMES:END -->
+ - 💣 [Now give me your money!](http://9gag.com/gag/aKGq7qb)
+ - ⏩ [This will keep those with OCD awake at night.](http://9gag.com/gag/a4PYRyw)
+ - 👉 [Is this bait for this types of pictures in the comments? Maybe](http://9gag.com/gag/aE07xdK)<!-- MEMES:END -->
 
 ---
 
