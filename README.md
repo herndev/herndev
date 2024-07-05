@@ -39,7 +39,7 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Interfax: Apple has removed the mobile apps of 25 VPN services from its App Store in Russia, following a request by Roskomnadzor &lpar;Reuters&rpar;](http://www.techmeme.com/240705/p11#a240705p11)
+ - [Interfax: Apple removed the mobile apps of 25 VPN services from its App Store in Russia, following a request by state communications watchdog Roskomnadzor &lpar;Reuters&rpar;](http://www.techmeme.com/240705/p11#a240705p11)
  - [Save $207 on four Blink Outdoor 4 security cameras](https://www.androidauthority.com/blink-outdoor-4-deal-3457818/)
  - [Apple green lights Epic Games Store in rapid reversal](https://appleinsider.com/articles/24/07/05/apple-green-lights-epic-games-store-in-rapid-reversal?utm_medium=rss)<!-- TECH:END -->
 
