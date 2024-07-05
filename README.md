@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best new streaming shows this week: Red Swan, Land of Tanabata, and more](https://www.androidauthority.com/best-new-tv-shows-to-stream-this-week-3084538/)
- - [The iPhone 16 Pro could rival Ultra flagships with an upgraded zoom camera](https://www.androidauthority.com/iphone-16-pro-periscope-lens-3457790/)
- - [Deal: The best Apple MacBook Pros are $500 off](https://www.androidauthority.com/apple-macbook-pro-deals-3457780/)<!-- TECH:END -->
+ - [Interfax: Apple has removed the mobile apps of 25 VPN services from its App Store in Russia, following a request by Roskomnadzor &lpar;Reuters&rpar;](http://www.techmeme.com/240705/p11#a240705p11)
+ - [Save $207 on four Blink Outdoor 4 security cameras](https://www.androidauthority.com/blink-outdoor-4-deal-3457818/)
+ - [Apple green lights Epic Games Store in rapid reversal](https://appleinsider.com/articles/24/07/05/apple-green-lights-epic-games-store-in-rapid-reversal?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
