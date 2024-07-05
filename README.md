@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Galaxy Z Flip 6 might have a downgraded cover screen](https://www.androidauthority.com/samsung-galaxy-z-flip-6-cover-screen-downgrade-3457580/)
- - [How Labour Can Fix the UK’s Tech Industry](https://www.wired.com/story/can-the-uk-finally-fix-techs-big-pipeline-problem/)
- - [Health Care Should Be Designed for the Extremes of Life](https://www.wired.com/story/wired-health-yves-behar-design-health-fuseproject-snoo-moxie/)<!-- TECH:END -->
+ - [I tested out a bunch of sleep tracker apps and finally found my favorite](https://www.androidauthority.com/best-sleep-tracker-apps-android-789293/)
+ - [Samsung Galaxy Z Flip 6 rumors: Everything we know and what we want to see](https://www.androidauthority.com/galaxy-z-flip-6-3384568/)
+ - [The Galaxy Z Flip 6 might have a downgraded cover screen](https://www.androidauthority.com/samsung-galaxy-z-flip-6-cover-screen-downgrade-3457580/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
