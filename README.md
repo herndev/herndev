@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [He was not ready for that.](http://9gag.com/gag/a2vm49e)
- - ⏩ [Found on my old smartphone](http://9gag.com/gag/aYQex9V)
- - 👉 [Holy f**king christ!](http://9gag.com/gag/axyj7rD)<!-- MEMES:END -->
+ - ⏩ [Trauma is the best teacher](http://9gag.com/gag/a7o7WMz)
+ - 👉 [Just some random numbers. Nothing special about them.](http://9gag.com/gag/aGyxjGw)<!-- MEMES:END -->
 
 ---
 
