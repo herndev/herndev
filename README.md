@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Found on my old smartphone](http://9gag.com/gag/aYQex9V)
- - ⏩ [Just some random numbers. Nothing special about them.](http://9gag.com/gag/aGyxjGw)
- - 👉 [Wanted to show my life hack for this summer](http://9gag.com/gag/aXP9Ymg)<!-- MEMES:END -->
+ - 💣 [He was not ready for that.](http://9gag.com/gag/a2vm49e)
+ - ⏩ [Found on my old smartphone](http://9gag.com/gag/aYQex9V)
+ - 👉 [Marine Le Pen: When I come to power, I will ban hijab in all of France](http://9gag.com/gag/azxjXqp)<!-- MEMES:END -->
 
 ---
 
