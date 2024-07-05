@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Get $30 Off Google&#39;s Nest Cam With Amazon&#39;s Brilliant July 4th Deals](https://www.cnet.com/deals/google-nest-cam-30-off-amazon-july-4th-deals/#ftag=CAD590a51e)
- - [Amazon and Ring Smart Home Devices Are as Low as $12 at Woot on July 4th](https://www.cnet.com/deals/amazon-ring-smart-home-devices-woot-july-4th/#ftag=CAD590a51e)
- - [Best AirPods Pro Accessories for 2024](https://www.cnet.com/tech/mobile/best-airpods-pro-accessories/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Download the Samsung Galaxy Z Flip 6 wallpapers here](https://www.androidauthority.com/samsung-galaxy-z-flip-6-wallpapers-3457525/)
+ - [Get a Sitewide 20% Discount at Urban Armor Gear for July 4th](https://www.cnet.com/deals/sitewide-20-discount-urban-armor-gear-july-4th/#ftag=CAD590a51e)
+ - [Epic July 4th Laptop Sales: Deep Discounts on Top-brands like Apple, Lenovo, HP and Dell](https://www.cnet.com/deals/july-4th-laptop-deals-2024-07-04/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
