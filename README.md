@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [He was not ready for that.](http://9gag.com/gag/a2vm49e)
- - ⏩ [Trauma is the best teacher](http://9gag.com/gag/a7o7WMz)
- - 👉 [Just some random numbers. Nothing special about them.](http://9gag.com/gag/aGyxjGw)<!-- MEMES:END -->
+ - 💣 [There&#39;s a better life](http://9gag.com/gag/aAy13o2)
+ - ⏩ [Don&#39;t ever tell me again that you haven&#39;t seen African American NASA employees.](http://9gag.com/gag/aLn2055)
+ - 👉 [World War 4 will be fought with sticks and stones.](http://9gag.com/gag/a7o7wvq)<!-- MEMES:END -->
 
 ---
 
