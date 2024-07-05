@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Kotaku’s Weekend Guide: 6 Great Games We’re Kicking Off July With](https://kotaku.com/kotaku-games-to-play-ff14-gdq-helldivers-1851578676)
  - [Card-based city-builder Tiny Kingdom might look cosy, but there&#39;s no time to relax when the fate of the realm is literally in your hand](https://www.pcgamer.com/games/city-builder/card-based-city-builder-tiny-kingdom-might-look-cosy-but-theres-no-time-to-relax-when-the-fate-of-the-realm-is-literally-in-your-hand)
- - [One Of The Worst Movies Ever Made Almost Had A PS2 Tie-In Game](https://kotaku.com/foodfight-movie-game-ps2-xbox-gameplay-demo-files-story-1851578468)
- - [Peanut Butter the dog finishes Ken Griffey Jr speedrun at SGDQ with a walk-off home run in extra innings](https://www.pcgamer.com/gaming-industry/events-conferences/peanut-butter-the-dog-finishes-ken-griffey-jr-speedrun-at-sgdq-with-a-walk-off-home-run-in-extra-innings)<!-- GAME:END -->
+ - [One Of The Worst Movies Ever Made Almost Had A PS2 Tie-In Game](https://kotaku.com/foodfight-movie-game-ps2-xbox-gameplay-demo-files-story-1851578468)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
