@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The mischievous history of Elden Ring’s Patches, FromSoftware’s eternal scamp](https://www.polygon.com/24188317/elden-ring-who-where-is-patches-quest-line-explainer)
- - [All Genshin Impact codes from the 4.8 livestream](https://www.pcgamer.com/games/rpg/genshin-impact-codes-4-8-livestream)
- - [Microsoft patents a technique to display encrypted documents so only you can see them](https://www.pcgamer.com/software/security/microsoft-patents-a-technique-to-display-encrypted-documents-so-only-you-can-see-them)<!-- GAME:END -->
+ - [Next Week on Xbox: New Games for July 8 to 12](https://news.xbox.com/en-us/2024/07/05/next-week-on-xbox-new-games-for-july-8-to-12/)
+ - [Here&#39;s your reminder how close AMD came to financial collapse and just how much we owe to the PlayStation 4 and Xbox One](https://www.pcgamer.com/hardware/processors/heres-your-reminder-how-close-amd-came-to-financial-collapse-and-just-how-much-we-owe-to-the-playstation-4-and-xbox-one)
+ - [Nintendo Will No Longer Fix That Console You Never Used](https://kotaku.com/nintendo-wii-u-spare-parts-fix-1851578166)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
