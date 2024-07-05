@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone 16 Pro again rumored to get Tetraprism zoom lens](https://appleinsider.com/articles/24/07/05/iphone-16-pro-again-rumored-to-get-tetraprism-zoom-lens?utm_medium=rss)
- - [YouTube’s improved eraser tool easily removes copyrighted music from videos](https://www.theverge.com/2024/7/5/24192635/youtube-ai-eraser-tool-copyrighted-music-content-id)
- - [Apple&#39;s blue M1 iMac 24-inch is on sale for $999](https://appleinsider.com/articles/24/07/05/apples-blue-m1-imac-24-inch-is-on-sale-for-999?utm_medium=rss)<!-- TECH:END -->
+ - [Google Chrome is rolling out predictive back gesture support on Android 15](https://www.androidauthority.com/google-chrome-predictive-back-3457693/)
+ - [In a complaint filed at a California court, two ex-Northern Data executives say they were fired after raising concerns about alleged fraud by the CEO and COO &lpar;Bryce Elder/Financial Times&rpar;](http://www.techmeme.com/240705/p8#a240705p8)
+ - [Why Redbox has been powering down](https://www.theverge.com/2024/7/5/24191963/redbox-chicken-soup-for-the-soul-entertainment-bankruptcy-why)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
