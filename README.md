@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Game Delayed For 22 Years Is Finally Out](https://kotaku.com/kien-game-boy-advance-22-years-most-delayed-game-gba-1851578935)
  - [Satisfactory 1.0 is finally out in September with two megaton changes: easier-to-manufacture computers and flushable toilets](https://www.pcgamer.com/games/sim/satisfactory-10-is-finally-out-in-september-with-two-megaton-changes-easier-to-manufacture-computers-and-flushable-toilets)
- - [After a year of competitive dino survival, Capcom ends new updates for Exoprimal](https://www.pcgamer.com/games/action/after-a-year-of-competitive-dino-survival-capcom-ends-new-updates-for-exoprimal)
- - [Factorio&#39;s big Space Age expansion arrives in October and it&#39;s going to be even bigger than we thought](https://www.pcgamer.com/games/sim/factorios-big-space-age-expansion-arrives-in-october-and-its-going-to-be-even-bigger-than-we-thought)<!-- GAME:END -->
+ - [After a year of competitive dino survival, Capcom ends new updates for Exoprimal](https://www.pcgamer.com/games/action/after-a-year-of-competitive-dino-survival-capcom-ends-new-updates-for-exoprimal)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
