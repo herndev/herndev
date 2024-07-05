@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Interfax: Apple removed the mobile apps of 25 VPN services from its App Store in Russia, following a request by state communications watchdog Roskomnadzor &lpar;Reuters&rpar;](http://www.techmeme.com/240705/p11#a240705p11)
- - [Save $207 on four Blink Outdoor 4 security cameras](https://www.androidauthority.com/blink-outdoor-4-deal-3457818/)
- - [Apple green lights Epic Games Store in rapid reversal](https://appleinsider.com/articles/24/07/05/apple-green-lights-epic-games-store-in-rapid-reversal?utm_medium=rss)<!-- TECH:END -->
+ - [How xenophobic content on Chinese social media, directed towards Japan, the US, Jews, and others, became the subject of a debate and spreads despite censorship &lpar;Li Yuan/New York Times&rpar;](http://www.techmeme.com/240705/p12#a240705p12)
+ - [These Samsung and LG amazing gaming monitor are 31-41% off!](https://www.androidauthority.com/samsung-lg-gaming-monitor-deals-3457843/)
+ - [Amazon Fire Tablets Drop to New All-Time Low Thanks to Lingering July 4th Deals](https://www.cnet.com/deals/amazon-fire-tablets-drop-to-new-all-time-low-thanks-to-lingering-july-4th-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
