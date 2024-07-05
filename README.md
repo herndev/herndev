@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [It&#39;s same as spiderteen having a hot aunt.](http://9gag.com/gag/aW468A6)
- - ⏩ [I can confirm, it is](http://9gag.com/gag/aryKOzd)
- - 👉 [Wanted to show my life hack for this summer](http://9gag.com/gag/aXP9Ymg)<!-- MEMES:END -->
+ - 💣 [Lol.](http://9gag.com/gag/aByYgLO)
+ - ⏩ [How about you go F yourself ?](http://9gag.com/gag/aAy1d7o)
+ - 👉 [Something for everybody](http://9gag.com/gag/aryKGD5)<!-- MEMES:END -->
 
 ---
 
