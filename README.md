@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [JSAUX FlipGo Portable Dual Monitor review: Double your screens, double your productivity](https://appleinsider.com/articles/24/07/05/jsaux-flipgo-portable-dual-monitor-review-double-your-screens-double-your-productivity?utm_medium=rss)
- - [Samsung estimates Q2 operating profit up 1,452% YoY to $7.54B, and revenue up 23% YoY to ~$53.7B, as chip prices keep rising &lpar;Reuters&rpar;](http://www.techmeme.com/240704/p19#a240704p19)
- - [Cloudflare launches a tool that aims to block bots from scraping websites for AI training data, available free for all customers &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240704/p18#a240704p18)<!-- TECH:END -->
+ - [Today&#39;s NYT Strands Hints, Answers and Help for July 5, #124](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-july-5-124/#ftag=CAD590a51e)
+ - [Today&#39;s Wordle Hints, Answer and Help for July 5, #1112](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-july-5-1112/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Connections Hints, Answers and Help for July 5, #390](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-july-5-390/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
