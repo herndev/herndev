@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [YouTube’s AI eraser removes copyrighted music, preserves other audio](https://www.androidauthority.com/youtube-eraser-tool-3457707/)
- - [OnePlus might not stop at a 6,100mAh battery](https://www.androidauthority.com/oneplus-6100mah-battery-3457661/)
- - [34 Best Apple July 4th Deals Still Available: Save on AirPods, Apple Watch, MacBooks and More](https://www.cnet.com/deals/apple-july-4th-deals-2024-07-05/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [How to create PDFs on iPhones using Notes](https://www.theverge.com/24191864/pdf-iphone-ipad-ios-how-to)
+ - [Google could make it easier to remove accounts from the Contacts app &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-contacts-without-account-3457395/)
+ - [Brad Pitt&#39;s &#39;F1&#39; Apple Original film speeds to theaters in summer 2025](https://appleinsider.com/articles/24/07/05/brad-pitts-f1-apple-original-film-speeds-to-theaters-in-summer-2025?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
