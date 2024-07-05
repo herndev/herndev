@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Your daily dose](http://9gag.com/gag/amo9rO4)
- - ⏩ [I can confirm, it is](http://9gag.com/gag/aryKOzd)
- - 👉 [They&#39;re Entrailing Behind The Truck](http://9gag.com/gag/a7o7D0L)<!-- MEMES:END -->
+ - 💣 [Found on my old smartphone](http://9gag.com/gag/aYQex9V)
+ - ⏩ [Your daily dose](http://9gag.com/gag/amo9rO4)
+ - 👉 [Just some random numbers. Nothing special about them.](http://9gag.com/gag/aGyxjGw)<!-- MEMES:END -->
 
 ---
 
