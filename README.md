@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Every workplace has this girl who is engaged](http://9gag.com/gag/aYQeKYm)
- - ⏩ [Your daily dose](http://9gag.com/gag/amo9rO4)
- - 👉 [Found this post under bricks and rubble](http://9gag.com/gag/abA06Ap)<!-- MEMES:END -->
+ - 💣 [Ms. Le Pen met the Grand Mufti of Al Azhar. The Mufti asked him to put on her veil to visit her. Le Pen, I wish you good afternoon. Separating the political color, She acted like a true empowering woman as well as a feminist.](http://9gag.com/gag/aE07x5n)
+ - ⏩ [Gotta luv women](http://9gag.com/gag/a2vmrqd)
+ - 👉 [Seeenk u very much](http://9gag.com/gag/azxjrKj)<!-- MEMES:END -->
 
 ---
 
