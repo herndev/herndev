@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Share of the Week: Fireworks](https://blog.playstation.com/2024/07/05/share-of-the-week-fireworks/)
- - [Steamy &#39;Overwatch cabaret club&#39; where you can pay to have women fall asleep on voice chat with you gets obliterated, is immediately replaced by even steamier Apex version](https://www.pcgamer.com/games/fps/steamy-overwatch-cabaret-club-where-you-can-pay-to-have-women-fall-asleep-on-voice-chat-with-you-gets-obliterated-is-immediately-replaced-by-even-steamier-apex-version)
- - [&#39;It was so much of a cash cow&#39;: Former GTA 5 dev implies ill-fated Agent Trevor DLC was sacrificed at the altar of GTA Online](https://www.pcgamer.com/games/grand-theft-auto/it-was-so-much-of-a-cash-cow-former-gta-5-dev-says-ill-fated-agent-trevor-dlc-was-sacrificed-at-the-altar-of-gta-online)<!-- GAME:END -->
+ - [Card-based city-builder Tiny Kingdom might look cosy, but there&#39;s no time to relax when the fate of the realm is literally in your hand](https://www.pcgamer.com/games/city-builder/card-based-city-builder-tiny-kingdom-might-look-cosy-but-theres-no-time-to-relax-when-the-fate-of-the-realm-is-literally-in-your-hand)
+ - [One Of The Worst Movies Ever Made Almost Had A PS2 Tie-In Game](https://kotaku.com/foodfight-movie-game-ps2-xbox-gameplay-demo-files-story-1851578468)
+ - [Peanut Butter the dog finishes Ken Griffey Jr speedrun at SGDQ with a walk-off home run in extra innings](https://www.pcgamer.com/gaming-industry/events-conferences/peanut-butter-the-dog-finishes-ken-griffey-jr-speedrun-at-sgdq-with-a-walk-off-home-run-in-extra-innings)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
