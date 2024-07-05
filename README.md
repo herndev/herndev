@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google is bringing Fuchsia OS to Android devices, but not in the way you’d think](https://www.androidauthority.com/microfuchsia-on-android-3457788/)
- - [Researcher: X is exploring more ways to integrate xAI&#39;s Grok, including the ability to ask Grok about X accounts and use Grok by highlighting text in the app &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/240705/p10#a240705p10)
- - [&#39;Saturday Night Live’ Writer Alex English Thinks Social Media Ruined the Art of Comedy](https://www.wired.com/story/dial-up-saturday-night-live-alex-english/)<!-- TECH:END -->
+ - [The best new streaming shows this week: Red Swan, Land of Tanabata, and more](https://www.androidauthority.com/best-new-tv-shows-to-stream-this-week-3084538/)
+ - [The iPhone 16 Pro could rival Ultra flagships with an upgraded zoom camera](https://www.androidauthority.com/iphone-16-pro-periscope-lens-3457790/)
+ - [Deal: The best Apple MacBook Pros are $500 off](https://www.androidauthority.com/apple-macbook-pro-deals-3457780/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
