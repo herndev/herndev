@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Ms. Le Pen met the Grand Mufti of Al Azhar. The Mufti asked him to put on her veil to visit her. Le Pen, I wish you good afternoon. Separating the political color, She acted like a true empowering woman as well as a feminist.](http://9gag.com/gag/aE07x5n)
- - ⏩ [The perfect mc mod doesn\u2019t exi-](http://9gag.com/gag/ae9GMoq)
- - 👉 [How about you go F yourself ?](http://9gag.com/gag/aAy1d7o)<!-- MEMES:END -->
+ - 💣 [It&#39;s same as spiderteen having a hot aunt.](http://9gag.com/gag/aW468A6)
+ - ⏩ [I can confirm, it is](http://9gag.com/gag/aryKOzd)
+ - 👉 [Wanted to show my life hack for this summer](http://9gag.com/gag/aXP9Ymg)<!-- MEMES:END -->
 
 ---
 
