@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle answer for Friday, July 5](https://www.pcgamer.com/games/puzzle/wordle-answer-today-july-5-2024)
  - [Summer Games Done Quick is restricting access to one of tonight&#39;s events &#39;to provide the most comfortable environment&#39; for the speedrunner, because the speedrunner is a dog](https://www.pcgamer.com/gaming-industry/events-conferences/summer-games-done-quick-is-restricting-access-to-one-of-tonights-events-to-provide-the-most-comfortable-environment-for-the-speedrunner-because-the-speedrunner-is-a-dog)
- - [Escape From Tarkov studio Battlestate Games has put a bounty on cheaters](https://www.pcgamer.com/games/fps/escape-from-tarkov-studio-battlestate-games-has-put-a-bounty-on-cheaters)
- - [Strap a gun to a giant bird and fly the fantasy skies in the latest free game from the Epic Store](https://www.pcgamer.com/games/sim/strap-a-gun-to-a-giant-bird-and-fly-the-fantasy-skies-in-the-latest-free-game-from-the-epic-store)<!-- GAME:END -->
+ - [Escape From Tarkov studio Battlestate Games has put a bounty on cheaters](https://www.pcgamer.com/games/fps/escape-from-tarkov-studio-battlestate-games-has-put-a-bounty-on-cheaters)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
