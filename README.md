@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Found on my old smartphone](http://9gag.com/gag/aYQex9V)
- - ⏩ [Your daily dose](http://9gag.com/gag/amo9rO4)
- - 👉 [Just some random numbers. Nothing special about them.](http://9gag.com/gag/aGyxjGw)<!-- MEMES:END -->
+ - 💣 [Ms. Le Pen met the Grand Mufti of Al Azhar. The Mufti asked him to put on her veil to visit her. Le Pen, I wish you good afternoon. Separating the political color, She acted like a true empowering woman as well as a feminist.](http://9gag.com/gag/aE07x5n)
+ - ⏩ [The perfect mc mod doesn\u2019t exi-](http://9gag.com/gag/ae9GMoq)
+ - 👉 [How about you go F yourself ?](http://9gag.com/gag/aAy1d7o)<!-- MEMES:END -->
 
 ---
 
