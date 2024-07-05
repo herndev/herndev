@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Lol.](http://9gag.com/gag/aByYgLO)
- - ⏩ [Every damn time.](http://9gag.com/gag/avyPoDq)
- - 👉 [\u2606\u2606\u2606](http://9gag.com/gag/aByY09D)<!-- MEMES:END -->
+ - 💣 [He was not ready for that.](http://9gag.com/gag/a2vm49e)
+ - ⏩ [Found on my old smartphone](http://9gag.com/gag/aYQex9V)
+ - 👉 [Holy f**king christ!](http://9gag.com/gag/axyj7rD)<!-- MEMES:END -->
 
 ---
 
