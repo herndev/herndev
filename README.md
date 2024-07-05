@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Here’s how Qualcomm’s new laptop chips really stack up to Apple, Intel, and AMD](https://www.theverge.com/24191671/copilot-plus-pcs-laptops-qualcomm-intel-amd-apple)
- - [Original HomePods, new iPads, and rumors of future iPhones on the AppleInsider Podcast](https://appleinsider.com/articles/24/07/05/original-homepods-new-ipads-and-rumors-of-future-iphones-on-the-appleinsider-podcast?utm_medium=rss)
- - [Xiaomi could finally make it easier to disable system ads](https://www.androidauthority.com/xiaomi-disable-system-ads-toggle-3457222/)<!-- TECH:END -->
+ - [TRM: cryptocurrency stolen through hacks more than doubled to $1.38N in H1 2024 from a year earlier; five large attacks accounted for 70% of the crypto stolen &lpar;Benjamin Taubman/Bloomberg&rpar;](http://www.techmeme.com/240705/p6#a240705p6)
+ - [How to Shop for a Smart Lock &lpar;2024&rpar;](https://www.wired.com/story/how-to-shop-for-a-smart-lock/)
+ - [Here’s how Qualcomm’s new laptop chips really stack up to Apple, Intel, and AMD](https://www.theverge.com/24191671/copilot-plus-pcs-laptops-qualcomm-intel-amd-apple)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
