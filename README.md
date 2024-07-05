@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to create PDFs on iPhones using Notes](https://www.theverge.com/24191864/pdf-iphone-ipad-ios-how-to)
- - [Google could make it easier to remove accounts from the Contacts app &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-contacts-without-account-3457395/)
- - [Brad Pitt&#39;s &#39;F1&#39; Apple Original film speeds to theaters in summer 2025](https://appleinsider.com/articles/24/07/05/brad-pitts-f1-apple-original-film-speeds-to-theaters-in-summer-2025?utm_medium=rss)<!-- TECH:END -->
+ - [Google is bringing Fuchsia OS to Android devices, but not in the way you’d think](https://www.androidauthority.com/microfuchsia-on-android-3457788/)
+ - [Researcher: X is exploring more ways to integrate xAI&#39;s Grok, including the ability to ask Grok about X accounts and use Grok by highlighting text in the app &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/240705/p10#a240705p10)
+ - [&#39;Saturday Night Live’ Writer Alex English Thinks Social Media Ruined the Art of Comedy](https://www.wired.com/story/dial-up-saturday-night-live-alex-english/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
