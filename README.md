@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Samsung hasn’t launched the Galaxy Buds 3 Pro, but someone already bought it](https://www.androidauthority.com/samsung-galaxy-buds-3-pro-early-purchase-3457544/)
  - [Apple Watch Ultra 3 wishlist: All the features I want to see](https://www.androidauthority.com/apple-watch-ultra-3-3456461/)
- - [The prospect of applying generative AI to contract lifecycle management software has prompted a flurry of deals, as experts expect further market consolidation &lpar;Nick Huber/Financial Times&rpar;](http://www.techmeme.com/240705/p1#a240705p1)
- - [The Sony WH-1000XM4 headphones are still amazing, and $70 off](https://www.androidauthority.com/sony-wh-1000xm4-headphones-deal-2-3457505/)<!-- TECH:END -->
+ - [The prospect of applying generative AI to contract lifecycle management software has prompted a flurry of deals, as experts expect further market consolidation &lpar;Nick Huber/Financial Times&rpar;](http://www.techmeme.com/240705/p1#a240705p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
