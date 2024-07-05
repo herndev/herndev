@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Today&#39;s Wordle answer for Friday, July 5](https://www.pcgamer.com/games/puzzle/wordle-answer-today-july-5-2024)
- - [Summer Games Done Quick is restricting access to one of tonight&#39;s events &#39;to provide the most comfortable environment&#39; for the speedrunner, because the speedrunner is a dog](https://www.pcgamer.com/gaming-industry/events-conferences/summer-games-done-quick-is-restricting-access-to-one-of-tonights-events-to-provide-the-most-comfortable-environment-for-the-speedrunner-because-the-speedrunner-is-a-dog)
- - [Escape From Tarkov studio Battlestate Games has put a bounty on cheaters](https://www.pcgamer.com/games/fps/escape-from-tarkov-studio-battlestate-games-has-put-a-bounty-on-cheaters)<!-- GAME:END -->
+ - [Microsoft patents a technique to display encrypted documents so only you can see them](https://www.pcgamer.com/software/security/microsoft-patents-a-technique-to-display-encrypted-documents-so-only-you-can-see-them)
+ - [An ambitious Starfield mod that sought to bring Elder Scrolls to a single planet has been canned, but the modders insist that it wasn&#39;t a joke: &#39;The project was genuine&#39;](https://www.pcgamer.com/games/rpg/an-ambitious-starfield-mod-that-sought-to-bring-elder-scrolls-to-a-single-planet-has-been-canned-but-the-modders-insist-that-it-wasnt-a-joke-the-project-was-genuine)
+ - [Final Fantasy 14: Dawntrail players are baffled by proposed changes to Viper, a job that&#39;s existed for less than week, and honestly so am I](https://www.pcgamer.com/games/final-fantasy/final-fantasy-14-dawntrail-players-are-baffled-by-proposed-changes-to-viper-a-job-that-s-existed-for-less-than-week-and-honestly-so-am-i)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
