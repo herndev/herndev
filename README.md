@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Polar Grit X2 Pro is a smartwatch that feels adrift](https://www.theverge.com/24182483/polar-grit-x2-pro-review-smartwatch-fitness)
- - [Best July 4th Sales 2024: 83 Remaining Offers From Home Depot, Amazon, Best Buy and More](https://www.cnet.com/deals/best-july-4th-sales-2024-07-05/#ftag=CAD590a51e)
- - [Top 60 July 4th Deals Under $25 Still Available: Incredible Savings on Outdoor Gear, Tech, Toys and More](https://www.cnet.com/deals/july-4th-deals-under-25-2024-07-05/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The Galaxy Z Fold 6 slim model could be bigger &lpar;in a good way&rpar;](https://www.androidauthority.com/samsung-galaxy-z-fold-6-slim-launch-window-screen-size-3457619/)
+ - [YouTube releases an updated Erase Song tool for creators that uses AI to detect and remove any copyrighted music from their videos without impacting other audio &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/240705/p2#a240705p2)
+ - [Russia forces Apple to remove VPN apps from the App Store](https://appleinsider.com/articles/24/07/05/russia-forces-apple-to-remove-vpn-apps-from-the-app-store?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
