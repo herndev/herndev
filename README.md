@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [JSAUX FlipGo Portable Dual Monitor review: Double your screens, double your productivity](https://appleinsider.com/articles/24/07/05/jsaux-flipgo-portable-dual-monitor-review-double-your-screens-double-your-productivity?utm_medium=rss)
  - [Samsung estimates Q2 operating profit up 1,452% YoY to $7.54B, and revenue up 23% YoY to ~$53.7B, as chip prices keep rising &lpar;Reuters&rpar;](http://www.techmeme.com/240704/p19#a240704p19)
- - [Cloudflare launches a tool that aims to block bots from scraping websites for AI training data, available free for all customers &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240704/p18#a240704p18)
- - [Top 61 July 4th Deals Under $25: Incredible Savings on Outdoor Gear, Tech, Toys and More](https://www.cnet.com/deals/july-4th-deals-under-25-2024-07-04/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Cloudflare launches a tool that aims to block bots from scraping websites for AI training data, available free for all customers &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240704/p18#a240704p18)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
