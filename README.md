@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [It&#39;s same as spiderteen having a hot aunt.](http://9gag.com/gag/aW468A6)
- - ⏩ [BALERION](http://9gag.com/gag/azxj9GB)
- - 👉 [Fire in the hole](http://9gag.com/gag/a1mMQpD)<!-- MEMES:END -->
+ - 💣 [Wanted to show my life hack for this summer](http://9gag.com/gag/aXP9Ymg)
+ - ⏩ [He was not ready for that.](http://9gag.com/gag/a2vm49e)
+ - 👉 [Marine Le Pen: When I come to power, I will ban hijab in all of France](http://9gag.com/gag/azxjXqp)<!-- MEMES:END -->
 
 ---
 
