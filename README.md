@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Say what you like about Final Fantasy 14: Dawntrail&#39;s story, but these bosses and dungeons are some of the dev&#39;s best work so far](https://www.pcgamer.com/games/final-fantasy/say-what-you-like-about-final-fantasy-14-dawntrail-s-story-but-these-bosses-and-dungeons-are-some-of-the-dev-s-best-work-so-far)
- - [Astro’s Playroom second update is now available, hiding a new Special Bot in-game](https://blog.playstation.com/2024/07/08/astros-playroom-second-update-is-now-available-hiding-a-new-special-bot-in-game/)
- - [Astro’s Playroom second update is now available, hiding a new Special Bot in-game](https://blog.playstation.com/2024/07/08/astros-playroom-second-update-is-now-available-hiding-a-new-special-bot-in-game/)<!-- GAME:END -->
+ - [The best sci-fi and fantasy books of 2024](https://www.polygon.com/2024/7/8/24180933/best-fantasy-books-sci-fi-2024)
+ - [Cyberpunk 2077: Phantom Liberty couldn&#39;t have been as good &#39;if the initial reception of the game wasn’t as negative&#39;, says lead quest designer](https://www.pcgamer.com/games/rpg/cyberpunk-2077-phantom-liberty-couldn-t-have-been-as-good-if-the-initial-reception-of-the-game-wasn-t-as-negative-says-lead-quest-designer)
+ - [Hooded Horse CEO hits back at claims that Manor Lords slipped up in early access: &#39;Not every game should be aimed at becoming some live service boom or bust&#39;](https://www.pcgamer.com/games/city-builder/hooded-horse-ceo-hits-back-at-claims-that-manor-lords-failed-in-early-access-not-every-game-should-be-aimed-at-becoming-some-live-service-boom-or-bust)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
