@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [House of the Dragon’s epic dragon battle hinged on the details](https://www.polygon.com/24191638/house-dragon-season-2-episode-4-dragon-battle-details)
- - [How To Level From 80 To 90 Fast In Final Fantasy XIV](https://kotaku.com/final-fantasy-14-grind-level-80-90-fast-1851580902)
- - [&#39;The end is in sight&#39;—Fallout: London, a DLC-sized mod plagued by delays, will arrive soon with its own installer to help slim the chances of Bethesda breaking it a 2nd time](https://www.pcgamer.com/games/fallout/the-end-is-in-sight-fallout-london-a-dlc-sized-mod-plagued-by-delays-will-arrive-soon-with-its-own-installer-that-should-slim-the-chances-of-bethesda-breaking-it-a-2nd-time)<!-- GAME:END -->
+ - [Epic Space Shooter Retaliate Launches on Xbox July 15th](https://news.xbox.com/en-us/2024/07/08/retaliate-launches-on-xbox-july-15th/)
+ - [Overwatch 2’s Transformers crossover will give us Optimus Prime-hardt and Mega-Ramattra](https://www.polygon.com/24194271/overwatch-2-transformers-collab-release-date-skins)
+ - [Parrying god defeats the hardest boss in Sekiro without moving, admits &#39;I really need a DLC&#39;](https://www.pcgamer.com/games/adventure/parrying-god-defeats-the-hardest-boss-in-sekiro-without-moving-admits-i-really-need-a-dlc)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
