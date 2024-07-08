@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle answer for Monday, July 8](https://www.pcgamer.com/games/puzzle/wordle-answer-today-july-8-2024)
  - [Why I love The Shivering Isles in Oblivion](https://www.pcgamer.com/games/rpg/why-i-love-the-shivering-isles-in-oblivion)
- - [House of the Dragon takes sibling rivalry to new levels](https://www.polygon.com/24191667/house-dragon-season-2-episode-4-review)
- - [Rhaenys has always been one of House of the Dragon’s most important characters](https://www.polygon.com/24191312/house-dragon-rhaenys-death-episode-4-battle)<!-- GAME:END -->
+ - [House of the Dragon takes sibling rivalry to new levels](https://www.polygon.com/24191667/house-dragon-season-2-episode-4-review)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
