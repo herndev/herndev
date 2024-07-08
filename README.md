@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Lara Logan explains what happened to her covering the protests in Egypt](http://9gag.com/gag/aVvPoMM)
- - ⏩ [LOL](http://9gag.com/gag/awyxgAW)
- - 👉 [You can hide](http://9gag.com/gag/aMVGB4G)<!-- MEMES:END -->
+ - 💣 [Diversity](http://9gag.com/gag/azxjKeK)
+ - ⏩ [IQ 60. An idiot shows his talent](http://9gag.com/gag/apRv6V5)
+ - 👉 [At least it&#39;s not a political post.](http://9gag.com/gag/a5Q7wNq)<!-- MEMES:END -->
 
 ---
 
