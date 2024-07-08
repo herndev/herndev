@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Say what you like about Final Fantasy 14: Dawntrail&#39;s story, but these bosses and dungeons are some of the dev&#39;s best work so far](https://www.pcgamer.com/games/final-fantasy/say-what-you-like-about-final-fantasy-14-dawntrail-s-story-but-these-bosses-and-dungeons-are-some-of-the-dev-s-best-work-so-far)
  - [Astro’s Playroom second update is now available, hiding a new Special Bot in-game](https://blog.playstation.com/2024/07/08/astros-playroom-second-update-is-now-available-hiding-a-new-special-bot-in-game/)
- - [Every quirky thing we know about Hideo Kojima’s Death Stranding 2](https://www.polygon.com/gaming/24192136/death-stranding-2-release-date-trailer-gameplay-story)
- - [Rip the display off a laptop, snap its keyboard in the middle, and you&#39;ve got this portable PC you can stick in a pocket](https://www.pcgamer.com/hardware/gaming-laptops/rip-the-display-off-a-laptop-snap-its-keyboard-in-the-middle-and-youve-got-this-portable-pc-you-can-stick-in-a-pocket)<!-- GAME:END -->
+ - [Astro’s Playroom second update is now available, hiding a new Special Bot in-game](https://blog.playstation.com/2024/07/08/astros-playroom-second-update-is-now-available-hiding-a-new-special-bot-in-game/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
