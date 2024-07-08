@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [What\u2019s was speech all about](http://9gag.com/gag/a2vmw31)
- - ⏩ [Have you even had real pancakes?](http://9gag.com/gag/aAy1QOR)
- - 👉 [Is there a level above Field Marshal?](http://9gag.com/gag/aW4673K)<!-- MEMES:END -->
+ - 💣 [So much movement](http://9gag.com/gag/aqy5RLv)
+ - ⏩ [Is there a level above Field Marshal?](http://9gag.com/gag/aW4673K)
+ - 👉 [Let&#39;s try this, who&#39;s in?](http://9gag.com/gag/a87MANO)<!-- MEMES:END -->
 
 ---
 
