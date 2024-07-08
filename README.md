@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Pronoun boys pay extra](http://9gag.com/gag/a87MmzZ)
- - ⏩ [They identify as jobless now](http://9gag.com/gag/aW46LY6)
- - 👉 [Painting Your Partner](http://9gag.com/gag/aAy16Vd)<!-- MEMES:END -->
+ - 💣 [IQ 60. An idiot shows his talent](http://9gag.com/gag/apRv6V5)
+ - ⏩ [How to roast.](http://9gag.com/gag/a5Q76yG)
+ - 👉 [Should never have been allowed in to begin with](http://9gag.com/gag/aZZMwAQ)<!-- MEMES:END -->
 
 ---
 
