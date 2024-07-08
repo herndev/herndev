@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [IDC: ~3% of PCs shipped in 2024 will meet Microsoft&#39;s processing power threshold for AI PCs; source: some big app makers rebuff a push for on-device AI features &lpar;Bloomberg&rpar;](http://www.techmeme.com/240708/p12#a240708p12)
- - [Microsoft’s Xbox TV app launches on Amazon Fire TV Sticks](https://www.androidauthority.com/xbox-app-fire-tv-stick-3458456/)
- - [OnePlus Nord 4 leaked renders show off handsome metal design](https://www.androidauthority.com/oneplus-nord-4-leak-2-3458414/)<!-- TECH:END -->
+ - [Why your Philips Hue bulb is randomly setting itself to 100 percent brightness](https://www.theverge.com/2024/7/8/24194559/philips-hue-brightness-issue-fix-matter)
+ - [The Google Nest Wi-Fi router is great, especially at just $40](https://www.androidauthority.com/google-nest-wi-fi-deal-3458409/)
+ - [Meta’s $24.99 monthly pay later plan covers the Quest 3 and Quest Plus](https://www.theverge.com/2024/7/8/24194406/meta-quest-3-buy-now-pay-later-loan-plus-subscription)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
