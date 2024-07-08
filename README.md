@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [YouTube Music’s latest experiment is like ChatGPT for playlists](https://www.androidauthority.com/youtube-music-tests-ai-radios-3458259/)
- - [MacBook Air M3 review three months later: The best Mac for nearly everyone](https://appleinsider.com/articles/24/07/08/macbook-air-m3-review-three-months-later-the-best-mac-for-nearly-everyone?utm_medium=rss)
- - [Apple smart home accessory details leak, Samsung upgrades Matter, and more on HomeKit Insider](https://appleinsider.com/articles/24/07/08/apple-smart-home-accessory-details-leak-samsung-upgrades-matter-and-more-on-homekit-insider?utm_medium=rss)<!-- TECH:END -->
+ - [The witch is back in Agatha All Along’s first trailer](https://www.theverge.com/24194262/agatha-all-along-trailer)
+ - [Tesla’s Model Y ‘Juniper’ redesign might come soon](https://www.theverge.com/2024/7/8/24194188/tesla-model-y-redesign-refresh-spotted-juniper)
+ - [Google Play Store preps new tools for app discovery &lpar;APK teardown&rpar;](https://www.androidauthority.com/play-store-interests-3458223/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
