@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Man arrested in London for the crime of public swearing. Last week another lad was arrested for eating pork in public. Welcome to the &#39;free&#39; western country](http://9gag.com/gag/aYQeQAx)
- - ⏩ [LOL](http://9gag.com/gag/awyxgAW)
- - 👉 [Jumper](http://9gag.com/gag/adBj1pV)<!-- MEMES:END -->
+ - 💣 [What\u2019s was speech all about](http://9gag.com/gag/a2vmw31)
+ - ⏩ [Have you even had real pancakes?](http://9gag.com/gag/aAy1QOR)
+ - 👉 [Is there a level above Field Marshal?](http://9gag.com/gag/aW4673K)<!-- MEMES:END -->
 
 ---
 
