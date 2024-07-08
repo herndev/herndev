@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Oh no, Rust just added my least favorite item from DayZ: handcuffs](https://www.pcgamer.com/games/survival-crafting/oh-no-rust-just-added-my-least-favorite-item-from-dayz-handcuffs)
- - [Marvel Snap&#39;s new Deadpool trailer accidentally included a phone number leading to a fishy &#39;free medical alert device&#39; promotion that I&#39;m pretty sure is a scam](https://www.pcgamer.com/games/card-games/marvel-snaps-new-deadpool-trailer-accidentally-included-a-phone-number-leading-to-a-fishy-free-medical-alert-device-promotion-that-im-pretty-sure-is-a-scam)
- - [Game Delayed For 22 Years Is Finally Out](https://kotaku.com/kien-game-boy-advance-22-years-most-delayed-game-gba-1851578935)<!-- GAME:END -->
+ - [Tend a cozy garden and stave off corruption, with the help of some cool gnomes, in Horticular](https://www.pcgamer.com/games/tend-a-cozy-garden-and-stave-off-corruption-with-the-help-of-some-cool-gnomes-in-horticular)
+ - [Besiege&#39;s watery expansion will get a patch adding new missions, giant sharks, tentacled horrors of the deep](https://www.pcgamer.com/games/besieges-watery-expansion-will-get-a-patch-adding-new-missions-giant-sharks-tentacled-horrors-of-the-deep)
+ - [Here&#39;s a game where you&#39;re a fantasy dungeon&#39;s put-upon janitor](https://www.pcgamer.com/games/heres-a-game-where-youre-a-fantasy-dungeons-put-upon-janitor)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
