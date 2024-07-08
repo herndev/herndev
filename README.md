@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Apex Legends announces &#39;improved&#39; battle pass structure that actually sucks for players, removes option to pay with in-game currency](https://www.pcgamer.com/games/battle-royale/apex-legends-new-battle-pass)
- - [Zenless Zone Zero Is Stylish, Fun, And A Letdown](https://kotaku.com/zenless-zone-zero-genshin-impact-mobile-impressions-1851581587)
- - [Starfield Modder Brings Star Wars Ships To Xbox](https://kotaku.com/starfield-xbox-mods-star-wars-ships-mandalorian-x-wing-1851581578)<!-- GAME:END -->
+ - [Elden Ring players team up as &#39;let us duo her&#39; to spin kick its most infamous boss so fast she can&#39;t move](https://www.pcgamer.com/games/rpg/elden-ring-players-team-up-as-let-us-duo-her-to-spin-kick-its-most-infamous-boss-so-fast-she-cant-move)
+ - [The First Descendant contains icons from Destiny 2, and one theory about how they got there is a reminder that not everything on the internet is what it purports to be](https://www.pcgamer.com/games/third-person-shooter/the-first-descendant-contains-icons-from-destiny-2-and-one-theory-about-how-they-got-there-is-a-reminder-that-not-everything-on-the-internet-is-what-it-purports-to-be)
+ - [Apex Legends announces &#39;improved&#39; battle pass structure that actually sucks for players, removes option to pay with in-game currency](https://www.pcgamer.com/games/battle-royale/apex-legends-new-battle-pass)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
