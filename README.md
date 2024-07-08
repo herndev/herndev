@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The CMF Phone 1 is one of the best $200 phones, but you shouldn’t buy it in the US](https://www.androidauthority.com/cmf-phone-1-network-compatibility-3458413/)
- - [How to create PDFs on iPhones](https://www.theverge.com/24191864/pdf-iphone-ipad-ios-how-to)
- - [iOS 18 beta 3 brings dark mode to all icons -- kind of](https://appleinsider.com/articles/24/07/08/ios-18-beta-3-brings-dark-mode-to-all-icons----kind-of?utm_medium=rss)<!-- TECH:END -->
+ - [IDC: ~3% of PCs shipped in 2024 will meet Microsoft&#39;s processing power threshold for AI PCs; source: some big app makers rebuff a push for on-device AI features &lpar;Bloomberg&rpar;](http://www.techmeme.com/240708/p12#a240708p12)
+ - [Microsoft’s Xbox TV app launches on Amazon Fire TV Sticks](https://www.androidauthority.com/xbox-app-fire-tv-stick-3458456/)
+ - [OnePlus Nord 4 leaked renders show off handsome metal design](https://www.androidauthority.com/oneplus-nord-4-leak-2-3458414/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
