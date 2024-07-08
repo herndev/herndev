@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Save $350 on the Samsung Galaxy Book 4 Edge, the company’s latest laptop](https://www.androidauthority.com/samsung-galaxy-book-4-edge-deal-3458408/)
- - [Forget the Galaxy Z Fold 6, a triple-screen foldable is coming](https://www.androidauthority.com/three-screen-foldable-3458338/)
- - [A look at Scale AI&#39;s $13.8B valuation from May&#39;s $1B round suggests it&#39;s almost certainly too high, given below-average margins, reliance on few customers, more &lpar;Cory Weinberg/The Information&rpar;](http://www.techmeme.com/240708/p11#a240708p11)<!-- TECH:END -->
+ - [The CMF Phone 1 is one of the best $200 phones, but you shouldn’t buy it in the US](https://www.androidauthority.com/cmf-phone-1-network-compatibility-3458413/)
+ - [How to create PDFs on iPhones](https://www.theverge.com/24191864/pdf-iphone-ipad-ios-how-to)
+ - [iOS 18 beta 3 brings dark mode to all icons -- kind of](https://appleinsider.com/articles/24/07/08/ios-18-beta-3-brings-dark-mode-to-all-icons----kind-of?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
