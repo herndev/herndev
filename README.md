@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple moves on to third betas of iOS 18, iPadOS 18, tvOS 18, watchOS 11, visionOS 2](https://appleinsider.com/articles/24/07/08/apple-moves-on-to-third-betas-of-ios-18-ipados-18-tvos-18-watchos-11?utm_medium=rss)
- - [Today’s hottest deal: New Amazon Echo Spot just came out, already 44% off!](https://www.androidauthority.com/amazon-echo-spot-deal-3458362/)
- - [The best Prime Day deals you can already get](https://www.theverge.com/24186583/amazon-prime-day-2024-best-tech-deals-sales)<!-- TECH:END -->
+ - [Save $350 on the Samsung Galaxy Book 4 Edge, the company’s latest laptop](https://www.androidauthority.com/samsung-galaxy-book-4-edge-deal-3458408/)
+ - [Forget the Galaxy Z Fold 6, a triple-screen foldable is coming](https://www.androidauthority.com/three-screen-foldable-3458338/)
+ - [A look at Scale AI&#39;s $13.8B valuation from May&#39;s $1B round suggests it&#39;s almost certainly too high, given below-average margins, reliance on few customers, more &lpar;Cory Weinberg/The Information&rpar;](http://www.techmeme.com/240708/p11#a240708p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
