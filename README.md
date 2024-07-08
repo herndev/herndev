@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone vs Pixel vs Galaxy: Which is best for repairability?](https://www.androidauthority.com/iphone-vs-pixel-vs-galaxy-repairability-3450079/)
- - [Get ready for a monumental iPhone 16 super cycle, says Wedbush](https://appleinsider.com/articles/24/07/08/get-ready-for-a-monumental-iphone-16-super-cycle-says-wedbush?utm_medium=rss)
- - [These are the notable Apple Watch upgrades expected this fall](https://www.androidauthority.com/apple-watch-series-10-ultra-3-expected-upgrades-3458130/)<!-- TECH:END -->
+ - [Apple&#39;s iPad 9th Gen is back in stock at Amazon for $249](https://appleinsider.com/articles/24/07/08/apples-ipad-9th-gen-is-back-in-stock-at-amazon-for-249?utm_medium=rss)
+ - [Canva CEO Melanie Perkins thinks the design world needs more alternatives to Adobe](https://www.theverge.com/24191080/canva-ceo-melanie-perkins-design-ai-adobe-competition-decoder-podcast-interview)
+ - [Amazon quietly removed Prime Video’s watch party feature and few of us even noticed](https://www.androidauthority.com/amazon-prime-viewing-party-axed-3458167/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
