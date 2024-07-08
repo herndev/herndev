@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Epic Space Shooter Retaliate Launches on Xbox July 15th](https://news.xbox.com/en-us/2024/07/08/retaliate-launches-on-xbox-july-15th/)
- - [Overwatch 2’s Transformers crossover will give us Optimus Prime-hardt and Mega-Ramattra](https://www.polygon.com/24194271/overwatch-2-transformers-collab-release-date-skins)
- - [Parrying god defeats the hardest boss in Sekiro without moving, admits &#39;I really need a DLC&#39;](https://www.pcgamer.com/games/adventure/parrying-god-defeats-the-hardest-boss-in-sekiro-without-moving-admits-i-really-need-a-dlc)<!-- GAME:END -->
+ - [Netflix’s final season of Vikings: Valhalla and more new TV to watch this week](https://www.polygon.com/2024/7/8/24191611/new-tv-netflix-vikings-valhalla-premiere-boyfriend-sunny)
+ - [How To Find The Brand New Returnal Bot In Astro&#39;s Playroom](https://kotaku.com/astro-playroom-returnal-special-bot-selene-1851581243)
+ - [Pokémon Go ‘Inbound from Ultra Space’ event, Timed Research guide](https://www.polygon.com/pokemon-go-guide/2024/7/8/24194155/inbound-from-ultra-space-timed-research-beasts)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
