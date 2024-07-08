@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Now give me your money!](http://9gag.com/gag/aKGq7qb)
- - ⏩ [This will keep those with OCD awake at night.](http://9gag.com/gag/a4PYRyw)
- - 👉 [Is this bait for this types of pictures in the comments? Maybe](http://9gag.com/gag/aE07xdK)<!-- MEMES:END -->
+ - 💣 [There is 1 who understood everything.](http://9gag.com/gag/amo9Wq4)
+ - ⏩ [Let&#39;s try this, who&#39;s in?](http://9gag.com/gag/a87MANO)
+ - 👉 [Absolutely](http://9gag.com/gag/avyPQ6b)<!-- MEMES:END -->
 
 ---
 
