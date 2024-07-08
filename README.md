@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [They say horizontal lines make you look bigger](http://9gag.com/gag/aRBAE3A)
- - ⏩ [Chinese problem, chinese solution...](http://9gag.com/gag/aE07qyx)
- - 👉 [I guess infinite money and bribed editors will do the trick](http://9gag.com/gag/aVvPxow)<!-- MEMES:END -->
+ - 💣 [Oh no](http://9gag.com/gag/awyxgxr)
+ - ⏩ [`Nintendo has responded to concern over the inappropriate use of its characters online and said it would take &#39;appropriate action&#39; against anything that would make some players &#39;feel uncomfortable.&#39;` Everyone share your best and most alluring Bowsette!](http://9gag.com/gag/aKGqEOj)
+ - 👉 [Let&#39;s try this, who&#39;s in?](http://9gag.com/gag/a87MANO)<!-- MEMES:END -->
 
 ---
 
