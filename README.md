@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Let&#39;s try this, who&#39;s in?](http://9gag.com/gag/a87MANO)
- - ⏩ [Quality check](http://9gag.com/gag/a5Q7X9L)
- - 👉 [LOL](http://9gag.com/gag/awyxgAW)<!-- MEMES:END -->
+ - 💣 [Is there a level above Field Marshal?](http://9gag.com/gag/aW4673K)
+ - ⏩ [Let&#39;s try this, who&#39;s in?](http://9gag.com/gag/a87MANO)
+ - 👉 [The new mayor of Islamabad, Pakistan Sorry for the typo, he&#39;s the new mayor of Brighton, UK](http://9gag.com/gag/aqy5R8Y)<!-- MEMES:END -->
 
 ---
 
