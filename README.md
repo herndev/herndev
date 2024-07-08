@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [&#39;Very few&#39; people would play a Morrowind-style RPG with &#39;no compass, no map&#39; and a reliance on quest text, says ESO director, &#39;which is kind of sad&#39;](https://www.pcgamer.com/games/the-elder-scrolls/very-few-people-would-play-a-morrowind-style-rpg-with-no-compass-no-map-and-a-reliance-on-quest-text-says-eso-director-which-is-kind-of-sad)
  - [House of the Dragon finally gives a tour of Harrenhal, Westeros’ most haunted castle](https://www.polygon.com/24182771/house-dragon-harrenhal-haunted-explained-history-strong)
- - [Today&#39;s Wordle answer for Monday, July 8](https://www.pcgamer.com/games/puzzle/wordle-answer-today-july-8-2024)
- - [Why I love The Shivering Isles in Oblivion](https://www.pcgamer.com/games/rpg/why-i-love-the-shivering-isles-in-oblivion)<!-- GAME:END -->
+ - [Today&#39;s Wordle answer for Monday, July 8](https://www.pcgamer.com/games/puzzle/wordle-answer-today-july-8-2024)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
