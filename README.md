@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The best sci-fi and fantasy books of 2024](https://www.polygon.com/2024/7/8/24180933/best-fantasy-books-sci-fi-2024)
- - [Cyberpunk 2077: Phantom Liberty couldn&#39;t have been as good &#39;if the initial reception of the game wasn’t as negative&#39;, says lead quest designer](https://www.pcgamer.com/games/rpg/cyberpunk-2077-phantom-liberty-couldn-t-have-been-as-good-if-the-initial-reception-of-the-game-wasn-t-as-negative-says-lead-quest-designer)
- - [Hooded Horse CEO hits back at claims that Manor Lords slipped up in early access: &#39;Not every game should be aimed at becoming some live service boom or bust&#39;](https://www.pcgamer.com/games/city-builder/hooded-horse-ceo-hits-back-at-claims-that-manor-lords-failed-in-early-access-not-every-game-should-be-aimed-at-becoming-some-live-service-boom-or-bust)<!-- GAME:END -->
+ - [House of the Dragon’s epic dragon battle hinged on the details](https://www.polygon.com/24191638/house-dragon-season-2-episode-4-dragon-battle-details)
+ - [How To Level From 80 To 90 Fast In Final Fantasy XIV](https://kotaku.com/final-fantasy-14-grind-level-80-90-fast-1851580902)
+ - [&#39;The end is in sight&#39;—Fallout: London, a DLC-sized mod plagued by delays, will arrive soon with its own installer to help slim the chances of Bethesda breaking it a 2nd time](https://www.pcgamer.com/games/fallout/the-end-is-in-sight-fallout-london-a-dlc-sized-mod-plagued-by-delays-will-arrive-soon-with-its-own-installer-that-should-slim-the-chances-of-bethesda-breaking-it-a-2nd-time)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
