@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Chinese problem, chinese solution...](http://9gag.com/gag/aE07qyx)
- - ⏩ [Are you okay?](http://9gag.com/gag/amo9Arv)
- - 👉 [Drop the gun!](http://9gag.com/gag/aByYdOZ)<!-- MEMES:END -->
+ - 💣 [Quality check](http://9gag.com/gag/a5Q7X9L)
+ - ⏩ [They say horizontal lines make you look bigger](http://9gag.com/gag/aRBAE3A)
+ - 👉 [Man arrested in London for the crime of public swearing. Last week another lad was arrested for eating pork in public. Welcome to the &#39;free&#39; western country](http://9gag.com/gag/aYQeQAx)<!-- MEMES:END -->
 
 ---
 
