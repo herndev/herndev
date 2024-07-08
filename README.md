@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Are you okay?](http://9gag.com/gag/amo9Arv)
- - ⏩ [Now thats Justice.](http://9gag.com/gag/amo9W52)
- - 👉 [Oh no](http://9gag.com/gag/awyxgxr)<!-- MEMES:END -->
+ - 💣 [Not all capes wear heroes](http://9gag.com/gag/a9y7yNW)
+ - ⏩ [How to roast.](http://9gag.com/gag/a5Q76yG)
+ - 👉 [No more flash bangs\u2026](http://9gag.com/gag/a5Q7BKy)<!-- MEMES:END -->
 
 ---
 
