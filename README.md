@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Let&#39;s try this, who&#39;s in?](http://9gag.com/gag/a87MANO)
- - ⏩ [LOL](http://9gag.com/gag/awyxgAW)
- - 👉 [Bro didn&#39;t even blink](http://9gag.com/gag/a1mM17G)<!-- MEMES:END -->
+ - 💣 [They say horizontal lines make you look bigger](http://9gag.com/gag/aRBAE3A)
+ - ⏩ [Chinese problem, chinese solution...](http://9gag.com/gag/aE07qyx)
+ - 👉 [I guess infinite money and bribed editors will do the trick](http://9gag.com/gag/aVvPxow)<!-- MEMES:END -->
 
 ---
 
