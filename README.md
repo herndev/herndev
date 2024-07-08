@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [An analyst at Sequoia Capital estimated companies developing top AI models need to collectively generate ~$600B/year to pay for their AI infrastructure &lpar;Anton Shilov/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/240707/p6#a240707p6)
- - [New 24-inch iMac M3 deals deliver prices as low as $1,149 on upgraded models](https://appleinsider.com/articles/24/07/07/new-24-inch-imac-m3-deals-deliver-prices-as-low-as-1149-on-upgraded-models?utm_medium=rss)
- - [38 July 4th Mattress Deals Still Live: Major Discounts on Saatva, Vaya, Brooklyn Bedding and More](https://www.cnet.com/deals/best-mattress-sales/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The National Samsung Electronics Union goes on a three-day strike for better pay; analysts: the strike is unlikely to have an impact due to low participation &lpar;Heekyong Yang/Reuters&rpar;](http://www.techmeme.com/240708/p2#a240708p2)
+ - [The National Samsung Electronics Union goes on a three-day strike for better pay; analysts: the strike is unlikely to have an impact due to low participation &lpar;Reuters&rpar;](http://www.techmeme.com/240708/p1#a240708p1)
+ - [Motorola has not forgotten its old foldables, as Android 14 arrives for Razr &lpar;2023&rpar; series](https://www.androidauthority.com/moto-razr-2023-android-14-3457859/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
