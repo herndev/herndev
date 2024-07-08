@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Netflix’s final season of Vikings: Valhalla and more new TV to watch this week](https://www.polygon.com/2024/7/8/24191611/new-tv-netflix-vikings-valhalla-premiere-boyfriend-sunny)
- - [How To Find The Brand New Returnal Bot In Astro&#39;s Playroom](https://kotaku.com/astro-playroom-returnal-special-bot-selene-1851581243)
- - [Pokémon Go ‘Inbound from Ultra Space’ event, Timed Research guide](https://www.polygon.com/pokemon-go-guide/2024/7/8/24194155/inbound-from-ultra-space-timed-research-beasts)<!-- GAME:END -->
+ - [First Teaser For Agatha All Along Promises Perfect Halloween TV](https://kotaku.com/halloween-agatha-all-along-wandavision-spin-off-trailer-1851581233)
+ - [Google&#39;s AI visionary says we&#39;ll &#39;expand intelligence a millionfold by 2045&#39; thanks to nanobots, the tech will resurrect the dead, and we&#39;re all going to live forever](https://www.pcgamer.com/software/ai/googles-ai-visionary-says-well-expand-intelligence-a-millionfold-by-2045-thanks-to-nanobots-the-tech-will-resurrect-the-dead-and-were-all-going-to-live-forever)
+ - [Shadows of the Galaxy is the first expansion for Star Wars: Unlimited, here’s where to pre-order](https://www.polygon.com/24191030/star-wars-unlimited-shadows-of-the-galaxy-tcg-pre-order)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
