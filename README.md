@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Play Store could soon display app ratings you actually care about &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-play-store-app-ratings-form-factor-teardown-3457644/)
- - [Google extends Linux kernel support to keep Android devices secure for longer](https://www.androidauthority.com/google-extends-linux-support-3457871/)
- - [The National Samsung Electronics Union goes on a three-day strike for better pay; analysts: the strike is unlikely to have an impact due to low participation &lpar;Heekyong Yang/Reuters&rpar;](http://www.techmeme.com/240708/p2#a240708p2)<!-- TECH:END -->
+ - [Nothing’s CMF Phone 1 is proof that gadgets can still be fun](https://www.theverge.com/2024/7/8/24191666/nothing-cmf-phone-1-cases-accessories-lanyard-wallet)
+ - [What to expect from Samsung Galaxy Unpacked on July 10: Galaxy Z Fold 6 and Flip 6, Galaxy AI updates, Galaxy Buds 3, Watch FE and Watch 7 Ultra, and more &lpar;Wes Davis/The Verge&rpar;](http://www.techmeme.com/240708/p3#a240708p3)
+ - [The Play Store could soon display app ratings you actually care about &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-play-store-app-ratings-form-factor-teardown-3457644/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
