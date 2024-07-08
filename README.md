@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nothing’s CMF Phone 1 is proof that gadgets can still be fun](https://www.theverge.com/2024/7/8/24191666/nothing-cmf-phone-1-cases-accessories-lanyard-wallet)
- - [What to expect from Samsung Galaxy Unpacked on July 10: Galaxy Z Fold 6 and Flip 6, Galaxy AI updates, Galaxy Buds 3, Watch FE and Watch 7 Ultra, and more &lpar;Wes Davis/The Verge&rpar;](http://www.techmeme.com/240708/p3#a240708p3)
- - [The Play Store could soon display app ratings you actually care about &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-play-store-app-ratings-form-factor-teardown-3457644/)<!-- TECH:END -->
+ - [Internal memo: Microsoft tells staff in China that from September 2024 they can only use iPhones for work, including to verify identities, affecting hundreds &lpar;Bloomberg&rpar;](http://www.techmeme.com/240708/p4#a240708p4)
+ - [Microsoft China bans Android, demands staff use iPhones](https://appleinsider.com/articles/24/07/08/microsoft-china-bans-android-demands-staff-use-iphones?utm_medium=rss)
+ - [Asus is adding RGB Windows Dynamic Lighting support to its latest motherboards](https://www.theverge.com/2024/7/8/24194015/asus-windows-dynamic-lighting-support-motherboard-bios-update)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
