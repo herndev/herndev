@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Let&#39;s try this, who&#39;s in?](http://9gag.com/gag/a87MANO)
- - ⏩ [Bro didn&#39;t even blink](http://9gag.com/gag/a1mM17G)
- - 👉 [Absolutely](http://9gag.com/gag/avyPQ6b)<!-- MEMES:END -->
+ - 💣 [This just became the most censored video on social media. Good luck on finding it anywhere &lpar;except here and X&rpar;!](http://9gag.com/gag/a34B1Lv)
+ - ⏩ [Yeah](http://9gag.com/gag/aLn2vDv)
+ - 👉 [Jumper](http://9gag.com/gag/adBj1pV)<!-- MEMES:END -->
 
 ---
 
