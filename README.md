@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [IQ 60. An idiot shows his talent](http://9gag.com/gag/apRv6V5)
- - ⏩ [How to roast.](http://9gag.com/gag/a5Q76yG)
- - 👉 [Should never have been allowed in to begin with](http://9gag.com/gag/aZZMwAQ)<!-- MEMES:END -->
+ - 💣 [Lara Logan explains what happened to her covering the protests in Egypt](http://9gag.com/gag/aVvPoMM)
+ - ⏩ [LOL](http://9gag.com/gag/awyxgAW)
+ - 👉 [You can hide](http://9gag.com/gag/aMVGB4G)<!-- MEMES:END -->
 
 ---
 
