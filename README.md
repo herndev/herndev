@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [There is 1 who understood everything.](http://9gag.com/gag/amo9Wq4)
- - ⏩ [Let&#39;s try this, who&#39;s in?](http://9gag.com/gag/a87MANO)
- - 👉 [Absolutely](http://9gag.com/gag/avyPQ6b)<!-- MEMES:END -->
+ - 💣 [Jumper](http://9gag.com/gag/adBj1pV)
+ - ⏩ [There is 1 who understood everything.](http://9gag.com/gag/amo9Wq4)
+ - 👉 [They say horizontal lines make you look bigger](http://9gag.com/gag/aRBAE3A)<!-- MEMES:END -->
 
 ---
 
