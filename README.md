@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [WhatsApp could soon get Live Translate feature powered by Galaxy AI](https://www.androidauthority.com/galaxy-ai-whatsapp-3458256/)
- - [Bose’s QuietComfort Earbuds II reach a record-low $169.95](https://www.theverge.com/2024/7/8/24194085/bose-quietcomfort-earbuds-ii-tile-mate-deal-sale)
- - [Go Read This: The Verge’s favorite reads from all over the web](https://www.theverge.com/24188803/best-tech-reads-articles-books)<!-- TECH:END -->
+ - [Apple moves on to third betas of iOS 18, iPadOS 18, tvOS 18, watchOS 11, visionOS 2](https://appleinsider.com/articles/24/07/08/apple-moves-on-to-third-betas-of-ios-18-ipados-18-tvos-18-watchos-11?utm_medium=rss)
+ - [Today’s hottest deal: New Amazon Echo Spot just came out, already 44% off!](https://www.androidauthority.com/amazon-echo-spot-deal-3458362/)
+ - [The best Prime Day deals you can already get](https://www.theverge.com/24186583/amazon-prime-day-2024-best-tech-deals-sales)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
