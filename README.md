@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft’s Notepad gets spellcheck and autocorrect 40 years after launch](https://www.theverge.com/2024/7/8/24194047/microsoft-notepad-spellcheck-autocorrect-features-available)
- - [Alleged Pixel Watch 3 FCC listings reveal UWB, Wi-Fi 6 support, and four models](https://www.androidauthority.com/pixel-watch-3-fcc-3458102/)
- - [Paramount agrees to sweetened Skydance merger deal](https://www.theverge.com/2024/7/8/24194043/paramount-skydance-merger-deal-announced-28-billion)<!-- TECH:END -->
+ - [iPhone vs Pixel vs Galaxy: Which is best for repairability?](https://www.androidauthority.com/iphone-vs-pixel-vs-galaxy-repairability-3450079/)
+ - [Get ready for a monumental iPhone 16 super cycle, says Wedbush](https://appleinsider.com/articles/24/07/08/get-ready-for-a-monumental-iphone-16-super-cycle-says-wedbush?utm_medium=rss)
+ - [These are the notable Apple Watch upgrades expected this fall](https://www.androidauthority.com/apple-watch-series-10-ultra-3-expected-upgrades-3458130/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
