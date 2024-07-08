@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [House of the Dragon takes sibling rivalry to fucked-up new levels](https://www.polygon.com/24191667/house-dragon-season-2-episode-4-review)
- - [Rhaenys has always been one of House of the Dragon’s most important characters](https://www.polygon.com/24191312/house-dragon-rhaenys-death-episode-4-battle)
- - [So... what happened to Aegon, exactly?](https://www.polygon.com/24191076/house-dragon-aegon-targaryen-s2-episode-4-death-crash)<!-- GAME:END -->
+ - [Why I love The Shivering Isles in Oblivion](https://www.pcgamer.com/games/rpg/why-i-love-the-shivering-isles-in-oblivion)
+ - [House of the Dragon takes sibling rivalry to new levels](https://www.polygon.com/24191667/house-dragon-season-2-episode-4-review)
+ - [Rhaenys has always been one of House of the Dragon’s most important characters](https://www.polygon.com/24191312/house-dragon-rhaenys-death-episode-4-battle)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
