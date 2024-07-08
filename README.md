@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [EVs are taking on combustion engines in a rallycross ‘Battle of Technologies’](https://www.theverge.com/2024/7/8/24193814/world-rx-ev-vs-ice-rallycross-racing)
- - [Q&amp;A with Canva CEO Melanie Perkins on the startup&#39;s history, expanding globally, its 4,500 headcount, moderation, Adobe, growing enterprise customers, and more &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/240708/p9#a240708p9)
- - [Apple&#39;s iPad 9th Gen is back in stock at Amazon for $249](https://appleinsider.com/articles/24/07/08/apples-ipad-9th-gen-is-back-in-stock-at-amazon-for-249?utm_medium=rss)<!-- TECH:END -->
+ - [YouTube Music’s latest experiment is like ChatGPT for playlists](https://www.androidauthority.com/youtube-music-tests-ai-radios-3458259/)
+ - [MacBook Air M3 review three months later: The best Mac for nearly everyone](https://appleinsider.com/articles/24/07/08/macbook-air-m3-review-three-months-later-the-best-mac-for-nearly-everyone?utm_medium=rss)
+ - [Apple smart home accessory details leak, Samsung upgrades Matter, and more on HomeKit Insider](https://appleinsider.com/articles/24/07/08/apple-smart-home-accessory-details-leak-samsung-upgrades-matter-and-more-on-homekit-insider?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
