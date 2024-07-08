@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Tend a cozy garden and stave off corruption, with the help of some cool gnomes, in Horticular](https://www.pcgamer.com/games/tend-a-cozy-garden-and-stave-off-corruption-with-the-help-of-some-cool-gnomes-in-horticular)
- - [Besiege&#39;s watery expansion will get a patch adding new missions, giant sharks, tentacled horrors of the deep](https://www.pcgamer.com/games/besieges-watery-expansion-will-get-a-patch-adding-new-missions-giant-sharks-tentacled-horrors-of-the-deep)
- - [Here&#39;s a game where you&#39;re a fantasy dungeon&#39;s put-upon janitor](https://www.pcgamer.com/games/heres-a-game-where-youre-a-fantasy-dungeons-put-upon-janitor)<!-- GAME:END -->
+ - [Five new Steam games you probably missed &lpar;July 8, 2024&rpar;](https://www.pcgamer.com/software/platforms/five-new-steam-games-you-probably-missed-july-8-2024)
+ - [Elden Ring: Shadow of the Erdtree has the coolest arsenal FromSoftware&#39;s ever made, but I think I picked wrong my first time through](https://www.pcgamer.com/games/rpg/elden-ring-shadow-of-the-erdtree-has-the-coolest-arsenal-fromsoftwares-ever-made-but-i-think-i-picked-wrong-my-first-time-through)
+ - [Tend a cozy garden and stave off corruption, with the help of some cool gnomes, in Horticular](https://www.pcgamer.com/games/tend-a-cozy-garden-and-stave-off-corruption-with-the-help-of-some-cool-gnomes-in-horticular)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
