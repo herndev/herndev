@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [House of the Dragon Episode 4 Recap: Dragon Vs. Dragon Vs. Dragon](https://kotaku.com/house-of-the-dragon-recap-episode-4-1851581566)
- - [Controversial Streamer Nickmercs Banned By Twitch After Dropping Transphobic Slur [Update]](https://kotaku.com/nickmercs-twitch-ban-slur-mrbeast-drdisrespect-1851566196)
- - [Embracer has reportedly closed Elex developer Piranha Bytes as former creative director announces a new indie studio](https://www.pcgamer.com/gaming-industry/embracer-has-reportedly-closed-elex-developer-piranha-bytes-as-former-creative-director-announces-a-new-indie-studio)<!-- GAME:END -->
+ - [Apex Legends announces &#39;improved&#39; battle pass structure that actually sucks for players, removes option to pay with in-game currency](https://www.pcgamer.com/games/battle-royale/apex-legends-new-battle-pass)
+ - [Zenless Zone Zero Is Stylish, Fun, And A Letdown](https://kotaku.com/zenless-zone-zero-genshin-impact-mobile-impressions-1851581587)
+ - [Starfield Modder Brings Star Wars Ships To Xbox](https://kotaku.com/starfield-xbox-mods-star-wars-ships-mandalorian-x-wing-1851581578)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
