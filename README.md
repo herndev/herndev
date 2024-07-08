@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Five new Steam games you probably missed &lpar;July 8, 2024&rpar;](https://www.pcgamer.com/software/platforms/five-new-steam-games-you-probably-missed-july-8-2024)
- - [Elden Ring: Shadow of the Erdtree has the coolest arsenal FromSoftware&#39;s ever made, but I think I picked wrong my first time through](https://www.pcgamer.com/games/rpg/elden-ring-shadow-of-the-erdtree-has-the-coolest-arsenal-fromsoftwares-ever-made-but-i-think-i-picked-wrong-my-first-time-through)
- - [Tend a cozy garden and stave off corruption, with the help of some cool gnomes, in Horticular](https://www.pcgamer.com/games/tend-a-cozy-garden-and-stave-off-corruption-with-the-help-of-some-cool-gnomes-in-horticular)<!-- GAME:END -->
+ - [House of the Dragon takes sibling rivalry to fucked-up new levels](https://www.polygon.com/24191667/house-dragon-season-2-episode-4-review)
+ - [Rhaenys has always been one of House of the Dragon’s most important characters](https://www.polygon.com/24191312/house-dragon-rhaenys-death-episode-4-battle)
+ - [So... what happened to Aegon, exactly?](https://www.polygon.com/24191076/house-dragon-aegon-targaryen-s2-episode-4-death-crash)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
