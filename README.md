@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [First Teaser For Agatha All Along Promises Perfect Halloween TV](https://kotaku.com/halloween-agatha-all-along-wandavision-spin-off-trailer-1851581233)
- - [Google&#39;s AI visionary says we&#39;ll &#39;expand intelligence a millionfold by 2045&#39; thanks to nanobots, the tech will resurrect the dead, and we&#39;re all going to live forever](https://www.pcgamer.com/software/ai/googles-ai-visionary-says-well-expand-intelligence-a-millionfold-by-2045-thanks-to-nanobots-the-tech-will-resurrect-the-dead-and-were-all-going-to-live-forever)
- - [Shadows of the Galaxy is the first expansion for Star Wars: Unlimited, here’s where to pre-order](https://www.polygon.com/24191030/star-wars-unlimited-shadows-of-the-galaxy-tcg-pre-order)<!-- GAME:END -->
+ - [House of the Dragon Episode 4 Recap: Dragon Vs. Dragon Vs. Dragon](https://kotaku.com/house-of-the-dragon-recap-episode-4-1851581566)
+ - [Controversial Streamer Nickmercs Banned By Twitch After Dropping Transphobic Slur [Update]](https://kotaku.com/nickmercs-twitch-ban-slur-mrbeast-drdisrespect-1851566196)
+ - [Embracer has reportedly closed Elex developer Piranha Bytes as former creative director announces a new indie studio](https://www.pcgamer.com/gaming-industry/embracer-has-reportedly-closed-elex-developer-piranha-bytes-as-former-creative-director-announces-a-new-indie-studio)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
