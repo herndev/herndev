@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [\u201cU look lonely,I can fix dat\u201d..noo I shouldn&#39;t](http://9gag.com/gag/aByYy2x)
- - ⏩ [Absolutely](http://9gag.com/gag/avyPQ6b)
- - 👉 [Protests in Spain asking revenue generating tourists to go back home. Thought they were supoosed to protest against illegal migrants?](http://9gag.com/gag/adBj1DB)<!-- MEMES:END -->
+ - 💣 [The new mayor of Islamabad, Pakistan Sorry for the typo, he&#39;s the new mayor of Brighton, UK](http://9gag.com/gag/aqy5R8Y)
+ - ⏩ [Let&#39;s try this, who&#39;s in?](http://9gag.com/gag/a87MANO)
+ - 👉 [`Nintendo has responded to concern over the inappropriate use of its characters online and said it would take &#39;appropriate action&#39; against anything that would make some players &#39;feel uncomfortable.&#39;` Everyone share your best and most alluring Bowsette!](http://9gag.com/gag/aKGqEOj)<!-- MEMES:END -->
 
 ---
 
