@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s iPad 9th Gen is back in stock at Amazon for $249](https://appleinsider.com/articles/24/07/08/apples-ipad-9th-gen-is-back-in-stock-at-amazon-for-249?utm_medium=rss)
- - [Canva CEO Melanie Perkins thinks the design world needs more alternatives to Adobe](https://www.theverge.com/24191080/canva-ceo-melanie-perkins-design-ai-adobe-competition-decoder-podcast-interview)
- - [Amazon quietly removed Prime Video’s watch party feature and few of us even noticed](https://www.androidauthority.com/amazon-prime-viewing-party-axed-3458167/)<!-- TECH:END -->
+ - [EVs are taking on combustion engines in a rallycross ‘Battle of Technologies’](https://www.theverge.com/2024/7/8/24193814/world-rx-ev-vs-ice-rallycross-racing)
+ - [Q&amp;A with Canva CEO Melanie Perkins on the startup&#39;s history, expanding globally, its 4,500 headcount, moderation, Adobe, growing enterprise customers, and more &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/240708/p9#a240708p9)
+ - [Apple&#39;s iPad 9th Gen is back in stock at Amazon for $249](https://appleinsider.com/articles/24/07/08/apples-ipad-9th-gen-is-back-in-stock-at-amazon-for-249?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
