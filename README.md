@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [If you know, you already understood.](http://9gag.com/gag/awyx3rR)
- - ⏩ [Quality check](http://9gag.com/gag/a5Q7X9L)
- - 👉 [Normal day in Australia](http://9gag.com/gag/adBjOBj)<!-- MEMES:END -->
+ - 💣 [Pronoun boys pay extra](http://9gag.com/gag/a87MmzZ)
+ - ⏩ [They identify as jobless now](http://9gag.com/gag/aW46LY6)
+ - 👉 [Painting Your Partner](http://9gag.com/gag/aAy16Vd)<!-- MEMES:END -->
 
 ---
 
