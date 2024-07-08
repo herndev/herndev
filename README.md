@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple’s next big idea could be a cheap Apple Watch ‘clone’](https://www.androidauthority.com/apple-watch-se-3-could-be-plastic-3458077/)
- - [Siri improved with Apple Intelligence won&#39;t roll out until 2025](https://appleinsider.com/articles/24/07/08/siri-improved-with-apple-intelligence-wont-roll-out-until-2025?utm_medium=rss)
- - [Nothing unveils the $199 CMF Phone 1, with swappable parts, a 6.67&quot; display, MediaTek SoC, and Nothing OS, alongside the $69 CMF Watch Pro 2 and $59 Buds Pro 2 &lpar;Julian Chokkattu/Wired&rpar;](http://www.techmeme.com/240708/p5#a240708p5)<!-- TECH:END -->
+ - [Microsoft’s Notepad gets spellcheck and autocorrect 40 years after launch](https://www.theverge.com/2024/7/8/24194047/microsoft-notepad-spellcheck-autocorrect-features-available)
+ - [Alleged Pixel Watch 3 FCC listings reveal UWB, Wi-Fi 6 support, and four models](https://www.androidauthority.com/pixel-watch-3-fcc-3458102/)
+ - [Paramount agrees to sweetened Skydance merger deal](https://www.theverge.com/2024/7/8/24194043/paramount-skydance-merger-deal-announced-28-billion)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
