@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The new mayor of Islamabad, Pakistan Sorry for the typo, he&#39;s the new mayor of Brighton, UK](http://9gag.com/gag/aqy5R8Y)
- - ⏩ [Let&#39;s try this, who&#39;s in?](http://9gag.com/gag/a87MANO)
- - 👉 [`Nintendo has responded to concern over the inappropriate use of its characters online and said it would take &#39;appropriate action&#39; against anything that would make some players &#39;feel uncomfortable.&#39;` Everyone share your best and most alluring Bowsette!](http://9gag.com/gag/aKGqEOj)<!-- MEMES:END -->
+ - 💣 [If you know, you already understood.](http://9gag.com/gag/awyx3rR)
+ - ⏩ [Quality check](http://9gag.com/gag/a5Q7X9L)
+ - 👉 [Normal day in Australia](http://9gag.com/gag/adBjOBj)<!-- MEMES:END -->
 
 ---
 
