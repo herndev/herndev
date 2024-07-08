@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How xenophobic content on Chinese social media, directed towards Japan, the US, Jews, and others, became the subject of a debate and spreads despite censorship &lpar;Li Yuan/New York Times&rpar;](http://www.techmeme.com/240705/p12#a240705p12)
- - [These Samsung and LG amazing gaming monitor are 31-41% off!](https://www.androidauthority.com/samsung-lg-gaming-monitor-deals-3457843/)
- - [Amazon Fire Tablets Drop to New All-Time Low Thanks to Lingering July 4th Deals](https://www.cnet.com/deals/amazon-fire-tablets-drop-to-new-all-time-low-thanks-to-lingering-july-4th-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [New 24-inch iMac M3 deals deliver prices as low as $1,149 on upgraded models](https://appleinsider.com/articles/24/07/07/new-24-inch-imac-m3-deals-deliver-prices-as-low-as-1149-on-upgraded-models?utm_medium=rss)
+ - [38 July 4th Mattress Deals Still Live: Major Discounts on Saatva, Vaya, Brooklyn Bedding and More](https://www.cnet.com/deals/best-mattress-sales/#ftag=CAD590a51e)
+ - [Best Air Purifiers for 2024](https://www.cnet.com/home/kitchen-and-household/best-air-purifier/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
