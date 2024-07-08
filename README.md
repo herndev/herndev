@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [House of the Dragon finally gives a tour of Harrenhal, Westeros’ most haunted castle](https://www.polygon.com/24182771/house-dragon-harrenhal-haunted-explained-history-strong)
  - [Today&#39;s Wordle answer for Monday, July 8](https://www.pcgamer.com/games/puzzle/wordle-answer-today-july-8-2024)
- - [Why I love The Shivering Isles in Oblivion](https://www.pcgamer.com/games/rpg/why-i-love-the-shivering-isles-in-oblivion)
- - [House of the Dragon takes sibling rivalry to new levels](https://www.polygon.com/24191667/house-dragon-season-2-episode-4-review)<!-- GAME:END -->
+ - [Why I love The Shivering Isles in Oblivion](https://www.pcgamer.com/games/rpg/why-i-love-the-shivering-isles-in-oblivion)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
