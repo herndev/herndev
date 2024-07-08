@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Internal memo: Microsoft tells staff in China that from September 2024 they can only use iPhones for work, including to verify identities, affecting hundreds &lpar;Bloomberg&rpar;](http://www.techmeme.com/240708/p4#a240708p4)
- - [Microsoft China bans Android, demands staff use iPhones](https://appleinsider.com/articles/24/07/08/microsoft-china-bans-android-demands-staff-use-iphones?utm_medium=rss)
- - [Asus is adding RGB Windows Dynamic Lighting support to its latest motherboards](https://www.theverge.com/2024/7/8/24194015/asus-windows-dynamic-lighting-support-motherboard-bios-update)<!-- TECH:END -->
+ - [Apple’s next big idea could be a cheap Apple Watch ‘clone’](https://www.androidauthority.com/apple-watch-se-3-could-be-plastic-3458077/)
+ - [Siri improved with Apple Intelligence won&#39;t roll out until 2025](https://appleinsider.com/articles/24/07/08/siri-improved-with-apple-intelligence-wont-roll-out-until-2025?utm_medium=rss)
+ - [Nothing unveils the $199 CMF Phone 1, with swappable parts, a 6.67&quot; display, MediaTek SoC, and Nothing OS, alongside the $69 CMF Watch Pro 2 and $59 Buds Pro 2 &lpar;Julian Chokkattu/Wired&rpar;](http://www.techmeme.com/240708/p5#a240708p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
