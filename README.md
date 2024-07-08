@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The witch is back in Agatha All Along’s first trailer](https://www.theverge.com/24194262/agatha-all-along-trailer)
- - [Tesla’s Model Y ‘Juniper’ redesign might come soon](https://www.theverge.com/2024/7/8/24194188/tesla-model-y-redesign-refresh-spotted-juniper)
- - [Google Play Store preps new tools for app discovery &lpar;APK teardown&rpar;](https://www.androidauthority.com/play-store-interests-3458223/)<!-- TECH:END -->
+ - [WhatsApp could soon get Live Translate feature powered by Galaxy AI](https://www.androidauthority.com/galaxy-ai-whatsapp-3458256/)
+ - [Bose’s QuietComfort Earbuds II reach a record-low $169.95](https://www.theverge.com/2024/7/8/24194085/bose-quietcomfort-earbuds-ii-tile-mate-deal-sale)
+ - [Go Read This: The Verge’s favorite reads from all over the web](https://www.theverge.com/24188803/best-tech-reads-articles-books)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
