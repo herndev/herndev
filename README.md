@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Somehow, Suicide Squad biffs it again: Just 2 days before it was set to go live, season 2 is delayed](https://www.pcgamer.com/games/action/somehow-suicide-squad-biffs-it-again-just-2-days-before-it-was-set-to-go-live-season-2-is-delayed)
- - [FF14&#39;s Overhauled Graphics Make Its Most Underappreciated Activity Worth Doing](https://kotaku.com/final-fantasy-14-sightseeing-log-graphics-dawntrail-1851583631)
- - [Crisis Core: Final Fantasy VII Reunion Is Reportedly Hitting PS Plus This Month With A Bunch More Games](https://kotaku.com/crisis-core-ff7-ps-plus-july-2024-ps2-classics-1851583611)<!-- GAME:END -->
+ - [Iizuka says Shadow the Hedgehog wasn&#39;t inspired by Vegeta, but fans have receipts that say otherwise](https://www.pcgamer.com/games/action/iizuka-says-shadow-the-hedgehog-wasnt-inspired-by-vegeta-but-fans-have-receipts-that-say-otherwise)
+ - [Shrek 5 is actually happening for real](https://www.polygon.com/24195236/shrek-5-teaser-release-date-mike-myers-eddie-murphy-cameron-diaz)
+ - [Lego Star Wars and Animal Crossing sets are 20% ahead of Prime Day](https://www.polygon.com/amazon-prime-day/24191428/best-lego-deals)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
