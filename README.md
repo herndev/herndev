@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Oura introduces a powerful new feature ahead of the Samsung Galaxy Ring’s launch](https://www.androidauthority.com/oura-ai-advisor-launch-3457216/)
- - [Gemini could soon take on more Google Assistant duties, like alarms and timers &lpar;APK teardown&rpar;](https://www.androidauthority.com/gemini-clock-tool-apk-teardown-3458743/)
- - [Perplexity’s impressive new Pro Search starts rolling out on Android](https://www.androidauthority.com/perplexity-pro-search-android-3458795/)<!-- TECH:END -->
+ - [The FTC bans teen messaging app NGL from serving users under 18, a first; NGL agreed to pay $5M and stop marketing to kids and teens to settle the FTC lawsuit &lpar;Cristiano Lima-Strong/Washington Post&rpar;](http://www.techmeme.com/240709/p12#a240709p12)
+ - [TSMC gearing up for iPhone 17 A19 chip production with 2-nanometer test](https://appleinsider.com/articles/24/07/09/tsmc-gearing-up-for-iphone-17-a19-chip-production-with-2-nanometer-test?utm_medium=rss)
+ - [NFT and metaverse content creation company Infinite Reality raised $350M at a $5.1B valuation and acquires Roblox game developer Landvault for $450M in stock &lpar;Dean Takahashi/VentureBeat&rpar;](http://www.techmeme.com/240709/p11#a240709p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
