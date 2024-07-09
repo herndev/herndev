@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How the BBC used the iPhone in hundreds of locations to cover the UK election](https://appleinsider.com/articles/24/07/08/how-the-bbc-used-the-iphone-in-hundreds-of-locations-to-cover-the-uk-election?utm_medium=rss)
  - [Why your Philips Hue bulb is randomly setting itself to 100 percent brightness](https://www.theverge.com/2024/7/8/24194559/philips-hue-brightness-issue-fix-matter)
- - [The Google Nest Wi-Fi router is great, especially at just $40](https://www.androidauthority.com/google-nest-wi-fi-deal-3458409/)
- - [Meta’s $24.99 monthly pay later plan covers the Quest 3 and Quest Plus](https://www.theverge.com/2024/7/8/24194406/meta-quest-3-buy-now-pay-later-loan-plus-subscription)<!-- TECH:END -->
+ - [The Google Nest Wi-Fi router is great, especially at just $40](https://www.androidauthority.com/google-nest-wi-fi-deal-3458409/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
