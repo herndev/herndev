@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Now you do](http://9gag.com/gag/a87MAz3)
- - ⏩ [Dumb ways to die](http://9gag.com/gag/a6Z79E2)
- - 👉 [Oh no](http://9gag.com/gag/awyxgxr)<!-- MEMES:END -->
+ - 💣 [Wouldn&#39;t be surprised](http://9gag.com/gag/a87MDmp)
+ - ⏩ [Let&#39;s try this, who&#39;s in?](http://9gag.com/gag/a87MANO)
+ - 👉 [So much movement](http://9gag.com/gag/aqy5RLv)<!-- MEMES:END -->
 
 ---
 
