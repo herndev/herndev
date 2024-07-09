@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Diversity](http://9gag.com/gag/azxjKeK)
- - ⏩ [IQ 60. An idiot shows his talent](http://9gag.com/gag/apRv6V5)
- - 👉 [At least it&#39;s not a political post.](http://9gag.com/gag/a5Q7wNq)<!-- MEMES:END -->
+ - 💣 [Dumb ways to die](http://9gag.com/gag/a6Z79E2)
+ - ⏩ [Jumper](http://9gag.com/gag/adBj1pV)
+ - 👉 [So much movement](http://9gag.com/gag/aqy5RLv)<!-- MEMES:END -->
 
 ---
 
