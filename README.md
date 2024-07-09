@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [IQ 60. An idiot shows his talent](http://9gag.com/gag/apRv6V5)
- - ⏩ [Oh no](http://9gag.com/gag/awyxgxr)
- - 👉 [Dumb ways to die](http://9gag.com/gag/a6Z79E2)<!-- MEMES:END -->
+ - 💣 [Now you do](http://9gag.com/gag/a87MAz3)
+ - ⏩ [Is there a level above Field Marshal?](http://9gag.com/gag/aW4673K)
+ - 👉 [Wade Wilson lawyer seeing his tattoo for the first time](http://9gag.com/gag/aAy16PL)<!-- MEMES:END -->
 
 ---
 
