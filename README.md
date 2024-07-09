@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [You can hide](http://9gag.com/gag/aMVGB4G)
- - ⏩ [NYC will start to use trash bins. Dudes, they&#39;re living in the future](http://9gag.com/gag/aQz8mm8)
+ - 💣 [Wouldn&#39;t be surprised](http://9gag.com/gag/a87MDmp)
+ - ⏩ [Futuristic HDMI Hologram for 3D modeling](http://9gag.com/gag/a9y7vDZ)
  - 👉 [Protests in Spain asking revenue generating tourists to go back home. Thought they were supoosed to protest against illegal migrants?](http://9gag.com/gag/adBj1DB)<!-- MEMES:END -->
 
 ---
