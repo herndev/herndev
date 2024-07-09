@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [London citizens descend on the police station to demand the release of people who were arrested for sexual assault of English schoolgirls](http://9gag.com/gag/amo96D4)
- - ⏩ [Now you do](http://9gag.com/gag/a87MAz3)
- - 👉 [Dumb ways to die](http://9gag.com/gag/a6Z79E2)<!-- MEMES:END -->
+ - 💣 [A completely normal phenomenon](http://9gag.com/gag/aKGq83Q)
+ - ⏩ [A shortcut](http://9gag.com/gag/adBjQ1D)
+ - 👉 [There&#39;s still hope my dudes!](http://9gag.com/gag/awyxm9R)<!-- MEMES:END -->
 
 ---
 
