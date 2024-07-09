@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The US DOJ and its partners seized two domain names and 968 accounts on X used by Russian actors to create an AI-enhanced bot farm that spread disinformation &lpar;Michael Kan/PCMag&rpar;](http://www.techmeme.com/240709/p26#a240709p26)
- - [Ad agency zombifies TUAW with AI copy &amp; recycled bylines in stupid SEO play](https://appleinsider.com/articles/24/07/09/ad-agency-zombifies-tuaw-with-ai-copy-recycled-bylines-in-stupid-seo-play?utm_medium=rss)
- - [Google could offer the Pixel Buds Pro 2 in four new colorways](https://www.androidauthority.com/pixel-buds-pro-2-colors-3458922/)<!-- TECH:END -->
+ - [Instagram is sticking to short videos, says Adam Mosseri](https://www.theverge.com/2024/7/9/24195277/instagram-long-form-video-adam-mosseri)
+ - [Filing: Evolve Bank &amp; Trust says that the personal data of at least 7.6M people was accessed during a February 2024 ransomware attack by LockBit &lpar;Carly Page/TechCrunch&rpar;](http://www.techmeme.com/240709/p28#a240709p28)
+ - [Microsoft is hiking the price of Xbox Game Pass Ultimate and launching a new ‘Standard’ tier](https://www.theverge.com/2024/7/9/24195312/microsoft-xbox-game-pass-ultimate-price-increase-standard-subscription)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
