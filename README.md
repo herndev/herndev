@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [So much movement](http://9gag.com/gag/aqy5RLv)
- - ⏩ [Protests in Spain asking revenue generating tourists to go back home. Thought they were supoosed to protest against illegal migrants?](http://9gag.com/gag/adBj1DB)
- - 👉 [LOL](http://9gag.com/gag/awyxgAW)<!-- MEMES:END -->
+ - 💣 [Are any of you even real?......am i?](http://9gag.com/gag/a7o7VwA)
+ - ⏩ [Oh no](http://9gag.com/gag/awyxgxr)
+ - 👉 [Normal day in Australia](http://9gag.com/gag/adBjOBj)<!-- MEMES:END -->
 
 ---
 
