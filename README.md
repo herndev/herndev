@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to Build a Hurricane-Proof House](https://www.wired.com/story/hurricane-beryl-proof-housing/)
- - [Australia, backed by the US, the UK, Japan, and other allies, accuses a Chinese state-backed hacking group of targeting government and private sector networks &lpar;Financial Times&rpar;](http://www.techmeme.com/240709/p5#a240709p5)
- - [Amazon announces an updated $79 Echo Spot alarm clock, with a revamped design and improved audio quality, the first update to the device since its 2017 launch &lpar;Annie Palmer/CNBC&rpar;](http://www.techmeme.com/240709/p4#a240709p4)<!-- TECH:END -->
+ - [The iPhone home screen is less of a dark mess, thanks to iOS 18 beta 3](https://www.androidauthority.com/ios-18-beta-3-addresses-dark-app-icons-3458735/)
+ - [Remittance startup Nala, which lets users in the EU, UK, and US send money to 11 African markets, raised a $40M Series A led by Acrew, after a $10M seed in 2022 &lpar;Annie Njanja/TechCrunch&rpar;](http://www.techmeme.com/240709/p6#a240709p6)
+ - [How the BBC used the iPhone in hundreds of locations to cover the UK election](https://appleinsider.com/articles/24/07/08/how-the-bbc-used-the-iphone-in-hundreds-of-locations-to-cover-the-uk-election?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
