@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Garmin Vivoactive 6 wishlist: All the features I want to see](https://www.androidauthority.com/garmin-vivoactive-6-3458019/)
- - [Quora&#39;s Poe launches Previews, letting users create web apps like data visualizations, games, and animations using more than one LLMs like Llama 3 and GPT-4o &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240709/p1#a240709p1)
- - [How to mitigate fraud on iOS devices using App Attest and DeviceCheck](https://appleinsider.com/articles/24/07/09/how-to-mitigate-fraud-on-ios-devices-using-app-attest-and-devicecheck?utm_medium=rss)<!-- TECH:END -->
+ - [Now the Samsung Galaxy Buds 3 get unboxed on video before launch](https://www.androidauthority.com/samsung-galaxy-buds-3-video-leak-3458045/)
+ - [How to Build a Hurricane-Proof House](https://www.wired.com/story/hurricane-beryl-proof-housing/)
+ - [Garmin Vivoactive 6 wishlist: All the features I want to see](https://www.androidauthority.com/garmin-vivoactive-6-3458019/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
