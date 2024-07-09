@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Super Mario Party is free when buying a pair of Joy-Con controllers](https://www.theverge.com/2024/7/9/24194944/super-mario-party-joy-con-switch-bundle-deal-sale)
- - [Best Internet Providers in Albany, New York](https://www.cnet.com/home/internet/best-internet-providers-in-albany-ny/#ftag=CAD590a51e)
- - [The UK politician accused of being AI is actually a real person](https://www.theverge.com/2024/7/9/24195005/reform-uk-candidate-election-ai-bot-mark-matlock)<!-- TECH:END -->
+ - [The US DOJ and its partners seized two domain names and 968 accounts on X used by Russian actors to create an AI-enhanced bot farm that spread disinformation &lpar;Michael Kan/PCMag&rpar;](http://www.techmeme.com/240709/p26#a240709p26)
+ - [Ad agency zombifies TUAW with AI copy &amp; recycled bylines in stupid SEO play](https://appleinsider.com/articles/24/07/09/ad-agency-zombifies-tuaw-with-ai-copy-recycled-bylines-in-stupid-seo-play?utm_medium=rss)
+ - [Google could offer the Pixel Buds Pro 2 in four new colorways](https://www.androidauthority.com/pixel-buds-pro-2-colors-3458922/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
