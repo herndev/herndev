@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon launches early Prime Day deals: $69 AirPods, $169 AirPods Pro, $399 AirPods Max](https://appleinsider.com/articles/24/07/09/amazon-launches-early-prime-day-deals-69-airpods-169-airpods-pro-399-airpods-max?utm_medium=rss)
- - [Google One’s Dark web reports will soon be available to all Google users](https://www.androidauthority.com/dark-web-report-free-3458793/)
- - [Sling TV is the latest streamer to get those pesky pause ads](https://www.theverge.com/2024/7/9/24194859/sling-tv-ads-pause-dish-disable)<!-- TECH:END -->
+ - [This may be your last chance to own a rare Nintendo PlayStation controller](https://www.theverge.com/24194869/nintendo-playstation-gaming-auction-rare-snes)
+ - [Apple&#39;s Mac continues to outpace a recovering computer market](https://appleinsider.com/articles/24/07/09/apples-mac-continues-to-outpace-a-recovering-computer-market?utm_medium=rss)
+ - [Austin-based Command Zero, which uses automation and LLMs to help with cybersecurity investigations, emerges from stealth with $21M in seed funding led by a16z &lpar;Ionut Arghire/SecurityWeek&rpar;](http://www.techmeme.com/240709/p15#a240709p15)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
