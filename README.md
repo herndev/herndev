@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [FF14 players skip over perfectly serviceable catboy to thirst relentlessly over a giant, two-headed lizard jerk instead](https://www.pcgamer.com/games/final-fantasy/ff14-players-skip-over-perfectly-serviceable-catboy-to-thirst-over-a-giant-two-headed-lizard-jerk-instead)
  - [Today&#39;s Wordle answer for Tuesday, July 9](https://www.pcgamer.com/games/puzzle/wordle-answer-today-july-9-2024)
- - [Elden Ring mod finally lets you wear Ranni as a demigod backpack like the true consort you are](https://www.pcgamer.com/games/rpg/elden-ring-mod-finally-lets-you-wear-ranni-as-a-demigod-backpack-like-the-true-consort-you-are)
- - [Sony&#39;s hero shooter Concord reveals PC system requirements ahead of two weekend beta tests](https://www.pcgamer.com/games/fps/sonys-hero-shooter-concord-reveals-pc-system-requirements-ahead-of-two-weekend-beta-tests)<!-- GAME:END -->
+ - [Elden Ring mod finally lets you wear Ranni as a demigod backpack like the true consort you are](https://www.pcgamer.com/games/rpg/elden-ring-mod-finally-lets-you-wear-ranni-as-a-demigod-backpack-like-the-true-consort-you-are)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
