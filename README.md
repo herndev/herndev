@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The iPhone home screen is less of a dark mess, thanks to iOS 18 beta 3](https://www.androidauthority.com/ios-18-beta-3-addresses-dark-app-icons-3458735/)
- - [Remittance startup Nala, which lets users in the EU, UK, and US send money to 11 African markets, raised a $40M Series A led by Acrew, after a $10M seed in 2022 &lpar;Annie Njanja/TechCrunch&rpar;](http://www.techmeme.com/240709/p6#a240709p6)
- - [How the BBC used the iPhone in hundreds of locations to cover the UK election](https://appleinsider.com/articles/24/07/08/how-the-bbc-used-the-iphone-in-hundreds-of-locations-to-cover-the-uk-election?utm_medium=rss)<!-- TECH:END -->
+ - [Oura introduces a powerful new feature ahead of the Samsung Galaxy Ring’s launch](https://www.androidauthority.com/oura-ai-advisor-launch-3457216/)
+ - [Gemini could soon take on more Google Assistant duties, like alarms and timers &lpar;APK teardown&rpar;](https://www.androidauthority.com/gemini-clock-tool-apk-teardown-3458743/)
+ - [Perplexity’s impressive new Pro Search starts rolling out on Android](https://www.androidauthority.com/perplexity-pro-search-android-3458795/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
