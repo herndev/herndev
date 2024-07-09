@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Wouldn&#39;t be surprised](http://9gag.com/gag/a87MDmp)
- - ⏩ [Let&#39;s try this, who&#39;s in?](http://9gag.com/gag/a87MANO)
- - 👉 [So much movement](http://9gag.com/gag/aqy5RLv)<!-- MEMES:END -->
+ - 💣 [Man i would hate to learn French](http://9gag.com/gag/ae9GZrj)
+ - ⏩ [Surprise motherf**ker!](http://9gag.com/gag/a1mM08b)
+ - 👉 [Traditional vs madonna](http://9gag.com/gag/aByYVBx)<!-- MEMES:END -->
 
 ---
 
