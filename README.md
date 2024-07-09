@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Man i would hate to learn French](http://9gag.com/gag/ae9GZrj)
- - ⏩ [Surprise motherf**ker!](http://9gag.com/gag/a1mM08b)
- - 👉 [Traditional vs madonna](http://9gag.com/gag/aByYVBx)<!-- MEMES:END -->
+ - 💣 [So much movement](http://9gag.com/gag/aqy5RLv)
+ - ⏩ [Protests in Spain asking revenue generating tourists to go back home. Thought they were supoosed to protest against illegal migrants?](http://9gag.com/gag/adBj1DB)
+ - 👉 [LOL](http://9gag.com/gag/awyxgAW)<!-- MEMES:END -->
 
 ---
 
