@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Are any of you even real?......am i?](http://9gag.com/gag/a7o7VwA)
- - ⏩ [Oh no](http://9gag.com/gag/awyxgxr)
- - 👉 [Normal day in Australia](http://9gag.com/gag/adBjOBj)<!-- MEMES:END -->
+ - 💣 [Everything reminds me of Him](http://9gag.com/gag/aLn2Lqg)
+ - ⏩ [LOL](http://9gag.com/gag/awyxgAW)
+ - 👉 [London citizens descend on the police station to demand the release of people who were arrested for sexual assault of English schoolgirls](http://9gag.com/gag/amo96D4)<!-- MEMES:END -->
 
 ---
 
