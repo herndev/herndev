@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Now you do](http://9gag.com/gag/a87MAz3)
- - ⏩ [Is there a level above Field Marshal?](http://9gag.com/gag/aW4673K)
- - 👉 [Wade Wilson lawyer seeing his tattoo for the first time](http://9gag.com/gag/aAy16PL)<!-- MEMES:END -->
+ - ⏩ [Dumb ways to die](http://9gag.com/gag/a6Z79E2)
+ - 👉 [Oh no](http://9gag.com/gag/awyxgxr)<!-- MEMES:END -->
 
 ---
 
