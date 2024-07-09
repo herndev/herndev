@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Disney desperate measures\u2026.](http://9gag.com/gag/ae9GVKB)
- - ⏩ [There&#39;s still hope my dudes!](http://9gag.com/gag/awyxm9R)
- - 👉 [Well you suck anyway and your Mom smells](http://9gag.com/gag/aYQePm2)<!-- MEMES:END -->
+ - 💣 [My fellow dark elf](http://9gag.com/gag/a4PYAq1)
+ - ⏩ [NYC will start to use trash bins. Dudes, they&#39;re living in the future](http://9gag.com/gag/aQz8mm8)
+ - 👉 [A completely normal phenomenon](http://9gag.com/gag/aKGq83Q)<!-- MEMES:END -->
 
 ---
 
