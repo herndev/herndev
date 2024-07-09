@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Keychron Q3 Max review](https://www.pcgamer.com/hardware/gaming-keyboards/keychron-q3-max-review)
- - [Baldur&#39;s Village, the Stardew Valley/BG3 mash-up mod that lets you kiss Astarion, has a new update and potential release window](https://www.pcgamer.com/games/life-sim/baldurs-village-the-stardew-valleybg3-mash-up-mod-that-lets-you-kiss-astarion-has-a-new-update-and-potential-release-window)
- - [The Helldivers smash their latest MO and for some reason have taken against anti-tank mines, but &#39;can finally go back to killing bugs in good conscience&#39;](https://www.pcgamer.com/games/action/the-helldivers-smash-their-latest-mo-and-for-some-reason-have-taken-against-anti-tank-mines-but-can-finally-go-back-to-killing-bugs-in-good-conscience)<!-- GAME:END -->
+ - [The Meta Quest 3 VR headset is on sale right now at its lowest price yet](https://www.polygon.com/amazon-prime-day/2024/7/9/24194936/meta-quest-3-sale-vr-discount)
+ - [You’ll feel like applauding this LinkedIn post from Manor Lords’ publisher](https://www.polygon.com/24194828/manor-lords-early-access-updates-publisher-comment)
+ - [40 Years Later, Microsoft Finally Adds Spell Check To Notepad](https://kotaku.com/microsoft-notepad-windows-11-spell-check-update-wordpad-1851582783)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
