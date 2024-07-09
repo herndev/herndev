@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Iizuka says Shadow the Hedgehog wasn&#39;t inspired by Vegeta, but fans have receipts that say otherwise](https://www.pcgamer.com/games/action/iizuka-says-shadow-the-hedgehog-wasnt-inspired-by-vegeta-but-fans-have-receipts-that-say-otherwise)
- - [Shrek 5 is actually happening for real](https://www.polygon.com/24195236/shrek-5-teaser-release-date-mike-myers-eddie-murphy-cameron-diaz)
- - [Lego Star Wars and Animal Crossing sets are 20% ahead of Prime Day](https://www.polygon.com/amazon-prime-day/24191428/best-lego-deals)<!-- GAME:END -->
+ - [The First Descendent is dollar store Destiny starring exclusively hot people](https://www.pcgamer.com/games/third-person-shooter/the-first-descendent-is-dollar-store-destiny-starring-exclusively-hot-people)
+ - [SteamDB&#39;s browser extension now lets you claim Steam discovery queue rewards without actually looking at your Steam discovery queue](https://www.pcgamer.com/games/steamdbs-browser-extension-now-lets-you-claim-steam-discovery-queue-rewards-without-actually-looking-at-your-steam-discovery-queue)
+ - [&#39;It&#39;s time to rebuild some foundations&#39;: Shadowlands forced Blizzard to rethink World of Warcraft&#39;s oldest ideas to make it a better MMO, director says](https://www.pcgamer.com/games/world-of-warcraft/its-time-to-rebuild-some-foundations-shadowlands-forced-blizzard-to-rethink-world-of-warcrafts-oldest-ideas-to-make-a-better-mmo-director-says)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
