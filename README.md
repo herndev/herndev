@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [More than Meets the Eye – Exploring the Art of Optimus Prime in the Overwatch 2 x TRANSFORMERS Collab](https://news.xbox.com/en-us/2024/07/09/overwatch-2-transformers-collab-optimus-prime/)
- - [Helldivers CEO wants to keep the &#39;T-pose of democracy&#39; fall damage bug: &#39;We&#39;ll add inflatable bouncy bags that deploy from under your armpits or some sh*t if we have to&#39;](https://www.pcgamer.com/games/third-person-shooter/helldivers-ceo-wants-to-keep-the-t-pose-of-democracy-fall-damage-bug-well-add-inflatable-bouncy-bags-that-deploy-from-under-your-armpits-or-some-sht-if-we-have-to)
- - [Night Springs Is The Perfect Follow-Up To Alan Wake 2](https://kotaku.com/alan-wake-2-night-springs-review-dlc-1851583087)<!-- GAME:END -->
+ - [Xbox games are now playable via your Amazon Fire TV Stick](https://www.polygon.com/24187316/xbox-amazon-fire-tv-partnership)
+ - [This Shadow Of The Erdtree Armor Will Make You An Even More Effective Damage-Dealer](https://kotaku.com/elden-ring-shadow-erdtree-rakshasa-armor-1851583282)
+ - [More than Meets the Eye – Exploring the Art of Optimus Prime in the Overwatch 2 x TRANSFORMERS Collab](https://news.xbox.com/en-us/2024/07/09/overwatch-2-transformers-collab-optimus-prime/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
