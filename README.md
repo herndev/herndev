@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Wade Wilson lawyer seeing his tattoo for the first time](http://9gag.com/gag/aAy16PL)
- - ⏩ [Are any of you even real?......am i?](http://9gag.com/gag/a7o7VwA)
- - 👉 [Dumb ways to die](http://9gag.com/gag/a6Z79E2)<!-- MEMES:END -->
+ - 💣 [They taught him how to speak like a man](http://9gag.com/gag/aoy948e)
+ - ⏩ [Sarah Andersen](http://9gag.com/gag/azxjG3j)
+ - 👉 [Bottle meme](http://9gag.com/gag/a5Q7GAq)<!-- MEMES:END -->
 
 ---
 
