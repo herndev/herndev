@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Report: Samsung’s software prowess could drive Galaxy Z Fold 6 and Flip 6 sales](https://www.androidauthority.com/galaxy-z-fold-6-counterpoint-3458847/)
- - [Vampire Survivors is coming to Apple Arcade](https://www.theverge.com/2024/7/9/24195019/apple-arcade-vampire-survivors-temple-run-legends)
- - [Sony’s DualSense Edge pro controller for the PS5 is now $24 off](https://www.theverge.com/2024/7/9/24194824/sony-dualsense-edge-pro-playstation-controller-ps5-walmart-deal-sale)<!-- TECH:END -->
+ - [Apple’s Sunny is a grief-stricken crime dramedy with a smile on its face](https://www.theverge.com/24194360/apple-tv-plus-sunny-review)
+ - [Google Maps finally adds speed monitoring features to iOS and CarPlay](https://www.androidauthority.com/google-maps-speedometer-ios-3458934/)
+ - [Source: a16z has secured thousands of AI chips, including Nvidia H100 GPUs, and is renting them to portfolio companies, with the aim of expanding to 20K+ GPUs &lpar;Kate Clark/The Information&rpar;](http://www.techmeme.com/240709/p20#a240709p20)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
