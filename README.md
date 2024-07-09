@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The FTC bans teen messaging app NGL from serving users under 18, a first; NGL agreed to pay $5M and stop marketing to kids and teens to settle the FTC lawsuit &lpar;Cristiano Lima-Strong/Washington Post&rpar;](http://www.techmeme.com/240709/p12#a240709p12)
- - [TSMC gearing up for iPhone 17 A19 chip production with 2-nanometer test](https://appleinsider.com/articles/24/07/09/tsmc-gearing-up-for-iphone-17-a19-chip-production-with-2-nanometer-test?utm_medium=rss)
- - [NFT and metaverse content creation company Infinite Reality raised $350M at a $5.1B valuation and acquires Roblox game developer Landvault for $450M in stock &lpar;Dean Takahashi/VentureBeat&rpar;](http://www.techmeme.com/240709/p11#a240709p11)<!-- TECH:END -->
+ - [Amazon launches early Prime Day deals: $69 AirPods, $169 AirPods Pro, $399 AirPods Max](https://appleinsider.com/articles/24/07/09/amazon-launches-early-prime-day-deals-69-airpods-169-airpods-pro-399-airpods-max?utm_medium=rss)
+ - [Google One’s Dark web reports will soon be available to all Google users](https://www.androidauthority.com/dark-web-report-free-3458793/)
+ - [Sling TV is the latest streamer to get those pesky pause ads](https://www.theverge.com/2024/7/9/24194859/sling-tv-ads-pause-dish-disable)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
