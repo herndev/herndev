@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Xiaomi Mi Curved Gaming Monitor 34 review](https://www.pcgamer.com/hardware/gaming-monitors/xiaomi-mi-curved-gaming-monitor-34-review)
- - [League of Legends game director asks the community how players who throw games should be punished: &#39;Immediately or some lenience?&#39;](https://www.pcgamer.com/games/moba/league-of-legends-game-director-asks-the-community-how-players-who-throw-games-should-be-punished-immediately-or-some-lenience)
- - [FF14 players skip over perfectly serviceable catboy to thirst relentlessly over a giant, two-headed lizard jerk instead](https://www.pcgamer.com/games/final-fantasy/ff14-players-skip-over-perfectly-serviceable-catboy-to-thirst-over-a-giant-two-headed-lizard-jerk-instead)<!-- GAME:END -->
+ - [The older you are, the more important Inside Out 2 gets](https://www.polygon.com/24194435/inside-out-2-adult-anxiety-barbie-comparison)
+ - [50 million downloads in less than a week: Zenless Zone Zero, MiHoYo&#39;s action-RPG gacha, is &lpar;unsurprisingly&rpar; popular](https://www.pcgamer.com/games/action/50-million-downloads-in-less-than-a-week-zenless-zone-zero-mihoyo-s-action-rpg-gacha-is-unsurprisingly-popular)
+ - [&#39;I hope Miyazaki is proud of me&#39;: After 325 deaths and a 7-hour bossfight slog, streamer fulfils prophecy and beats Shadow of the Erdtree with a dance pad](https://www.pcgamer.com/games/rpg/i-hope-miyazaki-is-proud-of-me-after-325-deaths-and-a-7-hour-bossfight-slog-streamer-fulfils-prophecy-and-beats-shadow-of-the-erdtree-with-a-dance-pad)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
