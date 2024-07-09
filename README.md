@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Android 15 could soon present you these new features at setup &lpar;APK teardown&rpar;](https://www.androidauthority.com/setup-wizard-quick-share-satellite-messaging-moment-apk-teardown-3458281/)
- - [Even more users can try out RCS on iPhone with iOS 18 beta 3](https://www.androidauthority.com/more-users-can-rcs-ios-18-beta-3-3458678/)
- - [How the US is trying to transform the world&#39;s chip supply chain, including getting more countries to set up factories to do final chip assembly and packaging &lpar;New York Times&rpar;](http://www.techmeme.com/240709/p2#a240709p2)<!-- TECH:END -->
+ - [Sam Altman and Arianna Huffington announce Thrive AI Health, a new startup backed by OpenAI and Thrive Global to build a &quot;hyper-personalized AI health coach&quot; &lpar;TIME&rpar;](http://www.techmeme.com/240709/p3#a240709p3)
+ - [iOS 18 beta 3 brings this highly requested Mac feature to your iPhone](https://www.androidauthority.com/ios-18-beta-3-dynamic-wallpaper-3458695/)
+ - [Confirmed: Xiaomi’s Galaxy Z Flip 6 rival has a launch window](https://www.androidauthority.com/xiaomi-mix-fold-4-mix-flip-launch-window-3458686/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
