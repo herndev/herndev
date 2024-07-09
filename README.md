@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: HongShan, formerly Sequoia China, raised a $2.5B fund; the new RMB fund can more easily invest in sensitive tech than its prior $9B fund raised in USD &lpar;Financial Times&rpar;](http://www.techmeme.com/240708/p13#a240708p13)
  - [How the BBC used the iPhone in hundreds of locations to cover the UK election](https://appleinsider.com/articles/24/07/08/how-the-bbc-used-the-iphone-in-hundreds-of-locations-to-cover-the-uk-election?utm_medium=rss)
- - [Why your Philips Hue bulb is randomly setting itself to 100 percent brightness](https://www.theverge.com/2024/7/8/24194559/philips-hue-brightness-issue-fix-matter)
- - [The Google Nest Wi-Fi router is great, especially at just $40](https://www.androidauthority.com/google-nest-wi-fi-deal-3458409/)<!-- TECH:END -->
+ - [Jenn Tran&#39;s &#39;Bachelorette&#39; Season: Start Time, How to Stream](https://www.cnet.com/tech/services-and-software/jenn-trans-bachelorette-season-start-time-how-to-stream/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
