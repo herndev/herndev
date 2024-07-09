@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Leak: OnePlus is now working on a 7,000mAh &lpar;!!!&rpar; battery for phones](https://www.androidauthority.com/oneplus-7000mah-battery-phone-leak-3458674/)
- - [Logitech’s $80 supercapacitor gaming mouse is the most versatile it’s ever made](https://www.theverge.com/2024/7/9/24194631/logitech-g309-gaming-mouse-powerplay)
- - [Now the Samsung Galaxy Buds 3 get unboxed on video before launch](https://www.androidauthority.com/samsung-galaxy-buds-3-video-leak-3458045/)<!-- TECH:END -->
+ - [Android 15 could soon present you these new features at setup &lpar;APK teardown&rpar;](https://www.androidauthority.com/setup-wizard-quick-share-satellite-messaging-moment-apk-teardown-3458281/)
+ - [Even more users can try out RCS on iPhone with iOS 18 beta 3](https://www.androidauthority.com/more-users-can-rcs-ios-18-beta-3-3458678/)
+ - [How the US is trying to transform the world&#39;s chip supply chain, including getting more countries to set up factories to do final chip assembly and packaging &lpar;New York Times&rpar;](http://www.techmeme.com/240709/p2#a240709p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
