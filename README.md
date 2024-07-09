@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Now the Samsung Galaxy Buds 3 get unboxed on video before launch](https://www.androidauthority.com/samsung-galaxy-buds-3-video-leak-3458045/)
- - [How to Build a Hurricane-Proof House](https://www.wired.com/story/hurricane-beryl-proof-housing/)
- - [Garmin Vivoactive 6 wishlist: All the features I want to see](https://www.androidauthority.com/garmin-vivoactive-6-3458019/)<!-- TECH:END -->
+ - [Leak: OnePlus is now working on a 7,000mAh &lpar;!!!&rpar; battery for phones](https://www.androidauthority.com/oneplus-7000mah-battery-phone-leak-3458674/)
+ - [Logitech’s $80 supercapacitor gaming mouse is the most versatile it’s ever made](https://www.theverge.com/2024/7/9/24194631/logitech-g309-gaming-mouse-powerplay)
+ - [Now the Samsung Galaxy Buds 3 get unboxed on video before launch](https://www.androidauthority.com/samsung-galaxy-buds-3-video-leak-3458045/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
