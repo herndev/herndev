@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [New Set Photos Have Fans Divided On Ellie’s Look In The Last Of Us’ Second Season](https://kotaku.com/last-of-us-season-2-ellie-dina-set-photos-seraphites-1851582590)
- - [How to find the ‘suspicious shadow’ at Waterfall Soup in Zenless Zone Zero](https://www.polygon.com/zenless-zone-zero-guides/24194902/zzz-waterfall-soup-at-night-suspicious-shadow)
- - [&#39;Nvidia is slowly becoming the IBM of the AI era&#39; says Jim Keller, perhaps forgetting how short-lived IBM&#39;s PC monopoly was](https://www.pcgamer.com/hardware/graphics-cards/nvidia-is-slowly-becoming-the-ibm-of-the-ai-era-says-jim-keller-perhaps-forgetting-how-short-lived-ibms-pc-monopoly-was)<!-- GAME:END -->
+ - [Keychron Q3 Max review](https://www.pcgamer.com/hardware/gaming-keyboards/keychron-q3-max-review)
+ - [Baldur&#39;s Village, the Stardew Valley/BG3 mash-up mod that lets you kiss Astarion, has a new update and potential release window](https://www.pcgamer.com/games/life-sim/baldurs-village-the-stardew-valleybg3-mash-up-mod-that-lets-you-kiss-astarion-has-a-new-update-and-potential-release-window)
+ - [The Helldivers smash their latest MO and for some reason have taken against anti-tank mines, but &#39;can finally go back to killing bugs in good conscience&#39;](https://www.pcgamer.com/games/action/the-helldivers-smash-their-latest-mo-and-for-some-reason-have-taken-against-anti-tank-mines-but-can-finally-go-back-to-killing-bugs-in-good-conscience)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
