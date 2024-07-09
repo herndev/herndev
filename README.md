@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Dumb ways to die](http://9gag.com/gag/a6Z79E2)
- - ⏩ [#RIPCartoonNetwork. Corporate greed has led to the destruction of yet another creative powerhouse.](http://9gag.com/gag/a87MDD6)
- - 👉 [Hunter Gets Arrasment](http://9gag.com/gag/aqy5XZP)<!-- MEMES:END -->
+ - 💣 [Trying not to damage another car](http://9gag.com/gag/a9y784o)
+ - ⏩ [Wade Wilson lawyer seeing his tattoo for the first time](http://9gag.com/gag/aAy16PL)
+ - 👉 [Jumper](http://9gag.com/gag/adBj1pV)<!-- MEMES:END -->
 
 ---
 
