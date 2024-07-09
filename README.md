@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Dumb ways to die](http://9gag.com/gag/a6Z79E2)
- - ⏩ [Jumper](http://9gag.com/gag/adBj1pV)
- - 👉 [So much movement](http://9gag.com/gag/aqy5RLv)<!-- MEMES:END -->
+ - 💣 [IQ 60. An idiot shows his talent](http://9gag.com/gag/apRv6V5)
+ - ⏩ [Everything reminds me of Him](http://9gag.com/gag/aLn2Lqg)
+ - 👉 [Dumb ways to die](http://9gag.com/gag/a6Z79E2)<!-- MEMES:END -->
 
 ---
 
