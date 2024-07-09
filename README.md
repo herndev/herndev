@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [An exclusive, real-world look at the haptic buttons Apple developed for the iPhone 15 Pro](https://appleinsider.com/articles/24/07/09/an-exclusive-real-world-look-at-the-haptic-buttons-apple-developed-for-the-iphone-15-pro?utm_medium=rss)
- - [I still love Motorola’s Razr Plus, but the cheaper Razr &lpar;2024&rpar; has won me over](https://www.androidauthority.com/motorola-razr-plus-2024-review-3458185/)
- - [Samsung raises its sails for a possible Galaxy AI / One Piece collaboration](https://www.androidauthority.com/galaxy-ai-one-piece-3458827/)<!-- TECH:END -->
+ - [Report: Samsung’s software prowess could drive Galaxy Z Fold 6 and Flip 6 sales](https://www.androidauthority.com/galaxy-z-fold-6-counterpoint-3458847/)
+ - [Vampire Survivors is coming to Apple Arcade](https://www.theverge.com/2024/7/9/24195019/apple-arcade-vampire-survivors-temple-run-legends)
+ - [Sony’s DualSense Edge pro controller for the PS5 is now $24 off](https://www.theverge.com/2024/7/9/24194824/sony-dualsense-edge-pro-playstation-controller-ps5-walmart-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
