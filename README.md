@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [A completely normal phenomenon](http://9gag.com/gag/aKGq83Q)
- - ⏩ [A shortcut](http://9gag.com/gag/adBjQ1D)
- - 👉 [There&#39;s still hope my dudes!](http://9gag.com/gag/awyxm9R)<!-- MEMES:END -->
+ - 💣 [Dumb ways to die](http://9gag.com/gag/a6Z79E2)
+ - ⏩ [#RIPCartoonNetwork. Corporate greed has led to the destruction of yet another creative powerhouse.](http://9gag.com/gag/a87MDD6)
+ - 👉 [Hunter Gets Arrasment](http://9gag.com/gag/aqy5XZP)<!-- MEMES:END -->
 
 ---
 
