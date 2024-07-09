@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The older you are, the more important Inside Out 2 gets](https://www.polygon.com/24194435/inside-out-2-adult-anxiety-barbie-comparison)
- - [50 million downloads in less than a week: Zenless Zone Zero, MiHoYo&#39;s action-RPG gacha, is &lpar;unsurprisingly&rpar; popular](https://www.pcgamer.com/games/action/50-million-downloads-in-less-than-a-week-zenless-zone-zero-mihoyo-s-action-rpg-gacha-is-unsurprisingly-popular)
- - [&#39;I hope Miyazaki is proud of me&#39;: After 325 deaths and a 7-hour bossfight slog, streamer fulfils prophecy and beats Shadow of the Erdtree with a dance pad](https://www.pcgamer.com/games/rpg/i-hope-miyazaki-is-proud-of-me-after-325-deaths-and-a-7-hour-bossfight-slog-streamer-fulfils-prophecy-and-beats-shadow-of-the-erdtree-with-a-dance-pad)<!-- GAME:END -->
+ - [The Baldur&#39;s Gate 3 council of sages &lpar;or Larian Studios, if you want to be boring&rpar; meets on holy ground to discuss &#39;lift off&#39; for its next big game](https://www.pcgamer.com/games/baldurs-gate/the-baldur-s-gate-3-council-of-sages-or-larian-studios-if-you-want-to-be-boring-meets-on-holy-ground-to-discuss-lift-off-for-its-next-big-game)
+ - [Helldivers 2 Boss Begs Team Not To Fix The Game&#39;s Best Bug](https://kotaku.com/helldivers-2-bug-fall-damage-emote-salute-1851582305)
+ - [The older you are, the more important Inside Out 2 gets](https://www.polygon.com/24194435/inside-out-2-adult-anxiety-barbie-comparison)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
