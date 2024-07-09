@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sam Altman and Arianna Huffington announce Thrive AI Health, a new startup backed by OpenAI and Thrive Global to build a &quot;hyper-personalized AI health coach&quot; &lpar;TIME&rpar;](http://www.techmeme.com/240709/p3#a240709p3)
- - [iOS 18 beta 3 brings this highly requested Mac feature to your iPhone](https://www.androidauthority.com/ios-18-beta-3-dynamic-wallpaper-3458695/)
- - [Confirmed: Xiaomi’s Galaxy Z Flip 6 rival has a launch window](https://www.androidauthority.com/xiaomi-mix-fold-4-mix-flip-launch-window-3458686/)<!-- TECH:END -->
+ - [How to Build a Hurricane-Proof House](https://www.wired.com/story/hurricane-beryl-proof-housing/)
+ - [Australia, backed by the US, the UK, Japan, and other allies, accuses a Chinese state-backed hacking group of targeting government and private sector networks &lpar;Financial Times&rpar;](http://www.techmeme.com/240709/p5#a240709p5)
+ - [Amazon announces an updated $79 Echo Spot alarm clock, with a revamped design and improved audio quality, the first update to the device since its 2017 launch &lpar;Annie Palmer/CNBC&rpar;](http://www.techmeme.com/240709/p4#a240709p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
