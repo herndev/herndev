@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple’s Sunny is a grief-stricken crime dramedy with a smile on its face](https://www.theverge.com/24194360/apple-tv-plus-sunny-review)
- - [Google Maps finally adds speed monitoring features to iOS and CarPlay](https://www.androidauthority.com/google-maps-speedometer-ios-3458934/)
- - [Source: a16z has secured thousands of AI chips, including Nvidia H100 GPUs, and is renting them to portfolio companies, with the aim of expanding to 20K+ GPUs &lpar;Kate Clark/The Information&rpar;](http://www.techmeme.com/240709/p20#a240709p20)<!-- TECH:END -->
+ - [The Pixel Watch 3 could get ultra wideband and a brighter screen](https://www.theverge.com/2024/7/9/24195013/google-pixel-watch-3-uwb-bigger-battery-smaller-bezels)
+ - [Spotify gets social, launches comments section for podcasts](https://www.androidauthority.com/spotify-comments-podcasts-3458951/)
+ - [Powell&#39;s Testimony Resurrects Hopes That Rate Cuts Are on the Way](https://www.cnet.com/personal-finance/powells-testimony-resurrects-hopes-that-rate-cuts-are-on-the-way/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
