@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Baldur&#39;s Gate 3 council of sages &lpar;or Larian Studios, if you want to be boring&rpar; meets on holy ground to discuss &#39;lift off&#39; for its next big game](https://www.pcgamer.com/games/baldurs-gate/the-baldur-s-gate-3-council-of-sages-or-larian-studios-if-you-want-to-be-boring-meets-on-holy-ground-to-discuss-lift-off-for-its-next-big-game)
- - [Helldivers 2 Boss Begs Team Not To Fix The Game&#39;s Best Bug](https://kotaku.com/helldivers-2-bug-fall-damage-emote-salute-1851582305)
- - [The older you are, the more important Inside Out 2 gets](https://www.polygon.com/24194435/inside-out-2-adult-anxiety-barbie-comparison)<!-- GAME:END -->
+ - [New Set Photos Have Fans Divided On Ellie’s Look In The Last Of Us’ Second Season](https://kotaku.com/last-of-us-season-2-ellie-dina-set-photos-seraphites-1851582590)
+ - [How to find the ‘suspicious shadow’ at Waterfall Soup in Zenless Zone Zero](https://www.polygon.com/zenless-zone-zero-guides/24194902/zzz-waterfall-soup-at-night-suspicious-shadow)
+ - [&#39;Nvidia is slowly becoming the IBM of the AI era&#39; says Jim Keller, perhaps forgetting how short-lived IBM&#39;s PC monopoly was](https://www.pcgamer.com/hardware/graphics-cards/nvidia-is-slowly-becoming-the-ibm-of-the-ai-era-says-jim-keller-perhaps-forgetting-how-short-lived-ibms-pc-monopoly-was)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
