@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [This may be your last chance to own a rare Nintendo PlayStation controller](https://www.theverge.com/24194869/nintendo-playstation-gaming-auction-rare-snes)
- - [Apple&#39;s Mac continues to outpace a recovering computer market](https://appleinsider.com/articles/24/07/09/apples-mac-continues-to-outpace-a-recovering-computer-market?utm_medium=rss)
- - [Austin-based Command Zero, which uses automation and LLMs to help with cybersecurity investigations, emerges from stealth with $21M in seed funding led by a16z &lpar;Ionut Arghire/SecurityWeek&rpar;](http://www.techmeme.com/240709/p15#a240709p15)<!-- TECH:END -->
+ - [An exclusive, real-world look at the haptic buttons Apple developed for the iPhone 15 Pro](https://appleinsider.com/articles/24/07/09/an-exclusive-real-world-look-at-the-haptic-buttons-apple-developed-for-the-iphone-15-pro?utm_medium=rss)
+ - [I still love Motorola’s Razr Plus, but the cheaper Razr &lpar;2024&rpar; has won me over](https://www.androidauthority.com/motorola-razr-plus-2024-review-3458185/)
+ - [Samsung raises its sails for a possible Galaxy AI / One Piece collaboration](https://www.androidauthority.com/galaxy-ai-one-piece-3458827/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
