@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Meta Quest 3 VR headset is on sale right now at its lowest price yet](https://www.polygon.com/amazon-prime-day/2024/7/9/24194936/meta-quest-3-sale-vr-discount)
- - [You’ll feel like applauding this LinkedIn post from Manor Lords’ publisher](https://www.polygon.com/24194828/manor-lords-early-access-updates-publisher-comment)
- - [40 Years Later, Microsoft Finally Adds Spell Check To Notepad](https://kotaku.com/microsoft-notepad-windows-11-spell-check-update-wordpad-1851582783)<!-- GAME:END -->
+ - [More than Meets the Eye – Exploring the Art of Optimus Prime in the Overwatch 2 x TRANSFORMERS Collab](https://news.xbox.com/en-us/2024/07/09/overwatch-2-transformers-collab-optimus-prime/)
+ - [Helldivers CEO wants to keep the &#39;T-pose of democracy&#39; fall damage bug: &#39;We&#39;ll add inflatable bouncy bags that deploy from under your armpits or some sh*t if we have to&#39;](https://www.pcgamer.com/games/third-person-shooter/helldivers-ceo-wants-to-keep-the-t-pose-of-democracy-fall-damage-bug-well-add-inflatable-bouncy-bags-that-deploy-from-under-your-armpits-or-some-sht-if-we-have-to)
+ - [Night Springs Is The Perfect Follow-Up To Alan Wake 2](https://kotaku.com/alan-wake-2-night-springs-review-dlc-1851583087)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
