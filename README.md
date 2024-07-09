@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Hong Kong proposes stiffer penalties for illegal ride-hailing services and use of licensing to regulate platforms such as Uber, potentially limiting their scope &lpar;South China Morning Post&rpar;](http://www.techmeme.com/240708/p14#a240708p14)
- - [Need to Return Your Amazon Products for Free? Here&#39;s How](https://www.cnet.com/how-to/need-to-return-your-amazon-products-for-free-heres-how/#ftag=CAD590a51e)
- - [Sources: HongShan, formerly Sequoia China, raised a $2.5B fund; the new RMB fund can more easily invest in sensitive tech than its prior $9B fund raised in USD &lpar;Financial Times&rpar;](http://www.techmeme.com/240708/p13#a240708p13)<!-- TECH:END -->
+ - [OnePlus’s upcoming tablet, watch and earbuds leak once again before next week’s launch](https://www.androidauthority.com/oneplus-pad-2-watch-2r-nord-buds-3-pro-renders-leak-3458511/)
+ - [Hulu was down for a lot of people, but now it’s fixed](https://www.theverge.com/2024/7/8/24194699/hulu-down-outage-error-streaming)
+ - [Today&#39;s NYT Strands Hints, Answers and Help for July 9, #128](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-july-9-128/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
