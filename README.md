@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Painting Your Partner](http://9gag.com/gag/aAy16Vd)
- - ⏩ [No pork in KFC Ontario](http://9gag.com/gag/ae9G1Kj)
- - 👉 [Let&#39;s try this, who&#39;s in?](http://9gag.com/gag/a87MANO)<!-- MEMES:END -->
+ - 💣 [IQ 60. An idiot shows his talent](http://9gag.com/gag/apRv6V5)
+ - ⏩ [Oh no](http://9gag.com/gag/awyxgxr)
+ - 👉 [Dumb ways to die](http://9gag.com/gag/a6Z79E2)<!-- MEMES:END -->
 
 ---
 
