@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The First Descendant, As Told By Steam Reviews](https://kotaku.com/first-descendant-steam-reviews-warframe-destiny-2-nexon-1851583423)
- - [Bungie is making a drastic change in response to player complaints about timegating in Destiny 2](https://www.pcgamer.com/games/fps/bungie-is-making-a-drastic-change-in-response-to-player-complaints-about-timegating-in-destiny-2)
- - [Star Wars Outlaws&#39; Planets Sound Like They Fix A Major Ubisoft Problem](https://kotaku.com/star-wars-outlaws-planets-list-size-how-big-4-5-minutes-1851583277)<!-- GAME:END -->
+ - [Somehow, Suicide Squad biffs it again: Just 2 days before it was set to go live, season 2 is delayed](https://www.pcgamer.com/games/action/somehow-suicide-squad-biffs-it-again-just-2-days-before-it-was-set-to-go-live-season-2-is-delayed)
+ - [FF14&#39;s Overhauled Graphics Make Its Most Underappreciated Activity Worth Doing](https://kotaku.com/final-fantasy-14-sightseeing-log-graphics-dawntrail-1851583631)
+ - [Crisis Core: Final Fantasy VII Reunion Is Reportedly Hitting PS Plus This Month With A Bunch More Games](https://kotaku.com/crisis-core-ff7-ps-plus-july-2024-ps2-classics-1851583611)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
