@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Trying not to damage another car](http://9gag.com/gag/a9y784o)
- - ⏩ [Wade Wilson lawyer seeing his tattoo for the first time](http://9gag.com/gag/aAy16PL)
- - 👉 [Jumper](http://9gag.com/gag/adBj1pV)<!-- MEMES:END -->
+ - 💣 [Are any of you even real?......am i?](http://9gag.com/gag/a7o7VwA)
+ - ⏩ [So, which one portray the best?](http://9gag.com/gag/awyxmMD)
+ - 👉 [Wade Wilson lawyer seeing his tattoo for the first time](http://9gag.com/gag/aAy16PL)<!-- MEMES:END -->
 
 ---
 
