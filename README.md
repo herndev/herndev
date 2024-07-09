@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Pixel Watch 3 could get ultra wideband and a brighter screen](https://www.theverge.com/2024/7/9/24195013/google-pixel-watch-3-uwb-bigger-battery-smaller-bezels)
- - [Spotify gets social, launches comments section for podcasts](https://www.androidauthority.com/spotify-comments-podcasts-3458951/)
- - [Powell&#39;s Testimony Resurrects Hopes That Rate Cuts Are on the Way](https://www.cnet.com/personal-finance/powells-testimony-resurrects-hopes-that-rate-cuts-are-on-the-way/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Super Mario Party is free when buying a pair of Joy-Con controllers](https://www.theverge.com/2024/7/9/24194944/super-mario-party-joy-con-switch-bundle-deal-sale)
+ - [Best Internet Providers in Albany, New York](https://www.cnet.com/home/internet/best-internet-providers-in-albany-ny/#ftag=CAD590a51e)
+ - [The UK politician accused of being AI is actually a real person](https://www.theverge.com/2024/7/9/24195005/reform-uk-candidate-election-ai-bot-mark-matlock)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
