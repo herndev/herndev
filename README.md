@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Are any of you even real?......am i?](http://9gag.com/gag/a7o7VwA)
- - ⏩ [So, which one portray the best?](http://9gag.com/gag/awyxmMD)
- - 👉 [Wade Wilson lawyer seeing his tattoo for the first time](http://9gag.com/gag/aAy16PL)<!-- MEMES:END -->
+ - 💣 [Disney desperate measures\u2026.](http://9gag.com/gag/ae9GVKB)
+ - ⏩ [There&#39;s still hope my dudes!](http://9gag.com/gag/awyxm9R)
+ - 👉 [Well you suck anyway and your Mom smells](http://9gag.com/gag/aYQePm2)<!-- MEMES:END -->
 
 ---
 
