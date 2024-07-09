@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [FF14 players skip over perfectly serviceable catboy to thirst relentlessly over a giant, two-headed lizard jerk instead](https://www.pcgamer.com/games/final-fantasy/ff14-players-skip-over-perfectly-serviceable-catboy-to-thirst-over-a-giant-two-headed-lizard-jerk-instead)
- - [Today&#39;s Wordle answer for Tuesday, July 9](https://www.pcgamer.com/games/puzzle/wordle-answer-today-july-9-2024)
- - [Elden Ring mod finally lets you wear Ranni as a demigod backpack like the true consort you are](https://www.pcgamer.com/games/rpg/elden-ring-mod-finally-lets-you-wear-ranni-as-a-demigod-backpack-like-the-true-consort-you-are)<!-- GAME:END -->
+ - [Xiaomi Mi Curved Gaming Monitor 34 review](https://www.pcgamer.com/hardware/gaming-monitors/xiaomi-mi-curved-gaming-monitor-34-review)
+ - [League of Legends game director asks the community how players who throw games should be punished: &#39;Immediately or some lenience?&#39;](https://www.pcgamer.com/games/moba/league-of-legends-game-director-asks-the-community-how-players-who-throw-games-should-be-punished-immediately-or-some-lenience)
+ - [FF14 players skip over perfectly serviceable catboy to thirst relentlessly over a giant, two-headed lizard jerk instead](https://www.pcgamer.com/games/final-fantasy/ff14-players-skip-over-perfectly-serviceable-catboy-to-thirst-over-a-giant-two-headed-lizard-jerk-instead)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
