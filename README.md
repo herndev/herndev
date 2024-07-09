@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [London citizens descend on the police station to demand the release of people who were arrested for sexual assault of English schoolgirls](http://9gag.com/gag/amo96D4)
- - ⏩ [Is there a level above Field Marshal?](http://9gag.com/gag/aW4673K)
- - 👉 [Pedo teacher busted](http://9gag.com/gag/agmVxq6)<!-- MEMES:END -->
+ - 💣 [But why.. just why](http://9gag.com/gag/aGyxGv0)
+ - ⏩ [As a kid, I never thought of putting alcohol in my mother&#39;s basin](http://9gag.com/gag/aVvPEvM)
+ - 👉 [So Tolerant So Destructive](http://9gag.com/gag/azxjOXZ)<!-- MEMES:END -->
 
 ---
 
