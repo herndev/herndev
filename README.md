@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Trying not to damage another car](http://9gag.com/gag/a9y784o)
- - ⏩ [London citizens descend on the police station to demand the release of people who were arrested for sexual assault of English schoolgirls](http://9gag.com/gag/amo96D4)
- - 👉 [NYC will start to use trash bins. Dudes, they&#39;re living in the future](http://9gag.com/gag/aQz8mm8)<!-- MEMES:END -->
+ - 💣 [Corporate sponsors now allowed to edit truth. All hail corporate overlords.](http://9gag.com/gag/a4PY2NQ)
+ - ⏩ [True words aye!](http://9gag.com/gag/ae9GmQQ)
+ - 👉 [A YouTuber from Cyprus was elected to the EU Parliament &amp; reveals how much money they are allocated to spend. What do you think, overpaid or underpaid??](http://9gag.com/gag/ae9Gmpj)<!-- MEMES:END -->
 
 ---
 
