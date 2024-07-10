@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How to get free Solar Fusion Energy and Lunar Fusion Energy with codes in Pokémon Go](https://www.polygon.com/pokemon-go-guide/24195548/solar-fusion-energy-lunar-fusion-how-to-get)
- - [What the hell is Nintendo teasing with this creepy smiling man video?](https://www.polygon.com/24195619/nintendo-emio-trailer-smiling-man-what)
- - [Nintendo&#39;s Mysterious Horror Game Teaser Has Fans Scratching Their Heads](https://kotaku.com/emio-nintendo-switch-horror-trailer-teaser-youtube-1851584450)<!-- GAME:END -->
+ - [Forza Motorsport Celebrates Racing Rivalries with Nemesis Month](https://forza.net/news/forza-motorsport-update-10%20#new_tab)
+ - [&#39;Our artists draw thousands of sketches&#39;: Palworld&#39;s CEO, seemingly exhausted by AI art accusations, once more tries to put them to bed](https://www.pcgamer.com/games/survival-crafting/our-artists-draw-thousands-of-sketches-palworld-s-ceo-seemingly-exhausted-by-ai-art-accusations-once-more-tries-to-put-them-to-bed)
+ - [Palworld And Sony Team Up To Make The Next Pokémon Company](https://kotaku.com/palworld-merch-plush-pokemon-nintendo-pocketpair-1851584507)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
