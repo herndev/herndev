@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Intelligence is inching closer to beta testing](https://appleinsider.com/articles/24/07/10/apple-intelligence-is-inching-closer-to-beta-testing?utm_medium=rss)
- - [Amazon’s new Echo Spot is already almost half off for Prime Day](https://www.theverge.com/2024/7/10/24195655/amazon-echo-spot-smart-alarm-clock-prime-day-deal-sale)
- - [Source: Apple aims to ship 90M+ iPhone 16 series devices in 2024, after shipping about 81M iPhone 15s in H2 2023, as it counts on AI services to boost demand &lpar;Bloomberg&rpar;](http://www.techmeme.com/240710/p28#a240710p28)<!-- TECH:END -->
+ - [AWS launches App Studio in public preview, which is a generative AI-powered service allowing enterprise users to create internal apps using text prompts &lpar;Shubham Sharma/VentureBeat&rpar;](http://www.techmeme.com/240710/p30#a240710p30)
+ - [WhatsApp on Android is finally getting voice message transcription](https://www.androidauthority.com/whatsapp-voice-message-transcripts-3459477/)
+ - [Ford’s Capri slaps another old name on a new EV](https://www.theverge.com/2024/7/10/24195756/ford-capri-ev-crossover-announce-europe)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
