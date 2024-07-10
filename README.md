@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Gigabyte Aorus 17X &lpar;2024&rpar; review](https://www.pcgamer.com/hardware/gaming-laptops/gigabyte-aorus-17x-2024-review)
- - [The Acolyte is hinging its whole story on vergences, of all things](https://www.polygon.com/star-wars/24195436/acolyte-vergences-star-wars-m-count-midi-chlorians)
- - [Today&#39;s Wordle answer for Wednesday, July 10](https://www.pcgamer.com/games/puzzle/wordle-answer-today-July-10-2024)<!-- GAME:END -->
+ - [Severance finally returns to the office with a release date and a new trailer](https://www.polygon.com/24195201/severance-season-2-trailer-announcement-release-date-first-look)
+ - [Microsoft to increase Game Pass prices and drop day one games from standard tier](https://www.polygon.com/xbox/24195533/game-pass-price-increase-console-standard-ultimate-2024)
+ - [Why TSMC&#39;s 4nm silicon will make or break Intel&#39;s new Battlemage GPUs](https://www.pcgamer.com/hardware/graphics-cards/why-tsmcs-4nm-silicon-will-make-or-break-intels-new-battlemage-gpus)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
