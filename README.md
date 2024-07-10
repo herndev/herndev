@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Everyone Should Have This Kitchen Tool That Isn&#39;t for Cooking at All](https://www.cnet.com/deals/everyone-should-have-this-kitchen-tool-that-isnt-for-cooking-at-all/#ftag=CAD590a51e)
- - [The $11 Billion Marketplace Enabling the Crypto Scam Economy](https://www.wired.com/story/pig-butchering-scam-crypto-huione-guarantee/)
- - [Best Places to Sell Your Used Electronics for 2024](https://www.cnet.com/tech/mobile/best-places-to-sell-electronics/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Researchers detail the Blast-RADIUS MD5-based vulnerability affecting RADIUS, a widely-used network access authentication protocol first developed in 1991 &lpar;Dan Goodin/Ars Technica&rpar;](http://www.techmeme.com/240710/p8#a240710p8)
+ - [A profile of Lee Saedol, an 18-time Go world champion who was beaten by Google DeepMind&#39;s AlphaGo in 2016 and now gives lectures about AI after retiring in 2019 &lpar;New York Times&rpar;](http://www.techmeme.com/240710/p7#a240710p7)
+ - [Google Fi users now have a handy tool to fight illegal SIM swaps](https://www.androidauthority.com/google-fi-number-lock-sim-swaps-3459216/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
