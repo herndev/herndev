@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to refurbish and restore the original Apple TV](https://appleinsider.com/inside/apple-tv/tips/how-to-refurbish-and-restore-the-original-apple-tv?utm_medium=rss)
- - [WhatsApp context cards want to help explain why you got that group invite](https://www.androidauthority.com/whatsapp-context-cards-3459050/)
- - [Microsoft agrees to buy a record 500K carbon credits from US oil producer Occidental&#39;s 1PointFive to offset its emissions amid the AI energy surge &lpar;Financial Times&rpar;](http://www.techmeme.com/240709/p33#a240709p33)<!-- TECH:END -->
+ - [This MacBook Air with 16GB RAM, 512GB SSD is on sale for $1,249, the lowest price ever](https://appleinsider.com/articles/24/07/10/this-macbook-air-with-16gb-ram-512gb-ssd-is-on-sale-for-1249-the-lowest-price-ever?utm_medium=rss)
+ - [Google says it has stopped purchasing carbon offsets and is no longer maintaining operational carbon neutrality, but still aims to reach net-zero carbon by 2030 &lpar;Akshat Rathi/Bloomberg&rpar;](http://www.techmeme.com/240709/p35#a240709p35)
+ - [Google Pixel Watch 3 rumors: Everything we know so far and what we want to see](https://www.androidauthority.com/google-pixel-watch-3-features-specs-price-3415632/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
