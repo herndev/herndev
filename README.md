@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [NYC will start to use trash bins. Dudes, they&#39;re living in the future](http://9gag.com/gag/aQz8mm8)
- - ⏩ [There&#39;s still hope my dudes!](http://9gag.com/gag/awyxm9R)
- - 👉 [The only correct response](http://9gag.com/gag/aAy128R)<!-- MEMES:END -->
+ - 💣 [So many questions. What is this disgusting sport? Where is it? How do I sign up?](http://9gag.com/gag/aXP922P)
+ - ⏩ [Wouldn&#39;t be surprised](http://9gag.com/gag/a87MDmp)
+ - 👉 [A YouTuber from Cyprus was elected to the EU Parliament &amp; reveals how much money they are allocated to spend. What do you think, overpaid or underpaid??](http://9gag.com/gag/ae9Gmpj)<!-- MEMES:END -->
 
 ---
 
