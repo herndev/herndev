@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Wouldn&#39;t be surprised](http://9gag.com/gag/a87MDmp)
- - ⏩ [My fellow dark elf](http://9gag.com/gag/a4PYAq1)
- - 👉 [There is a reason why they total the car](http://9gag.com/gag/adBje29)<!-- MEMES:END -->
+ - 💣 [Classic](http://9gag.com/gag/a2vmDMd)
+ - ⏩ [NYC will start to use trash bins. Dudes, they&#39;re living in the future](http://9gag.com/gag/aQz8mm8)
+ - 👉 [Are any of you even real?......am i?](http://9gag.com/gag/a7o7VwA)<!-- MEMES:END -->
 
 ---
 
