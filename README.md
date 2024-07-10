@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Researchers detail the Blast-RADIUS MD5-based vulnerability affecting RADIUS, a widely-used network access authentication protocol first developed in 1991 &lpar;Dan Goodin/Ars Technica&rpar;](http://www.techmeme.com/240710/p8#a240710p8)
- - [A profile of Lee Saedol, an 18-time Go world champion who was beaten by Google DeepMind&#39;s AlphaGo in 2016 and now gives lectures about AI after retiring in 2019 &lpar;New York Times&rpar;](http://www.techmeme.com/240710/p7#a240710p7)
- - [Google Fi users now have a handy tool to fight illegal SIM swaps](https://www.androidauthority.com/google-fi-number-lock-sim-swaps-3459216/)<!-- TECH:END -->
+ - [You can now protect your high-risk Google account with just your phone](https://www.theverge.com/2024/7/10/24195306/google-accounts-advanced-protection-passkey-enrollment-support-security-key)
+ - [Elliptic finds a Cambodian online market offering the crypto scam industry products and services, including money laundering and victim data, with $11B in sales &lpar;Wired&rpar;](http://www.techmeme.com/240710/p10#a240710p10)
+ - [Galaxy Ring’s sizing kit shown off in last minute pre-Unpacked leak](https://www.androidauthority.com/galaxy-rings-sizing-kit-leak-3459232/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
