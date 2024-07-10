@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Dumb ways to die](http://9gag.com/gag/a6Z79E2)
- - ⏩ [Normal day in Australia](http://9gag.com/gag/adBjOBj)
- - 👉 [Wouldn&#39;t be surprised](http://9gag.com/gag/a87MDmp)<!-- MEMES:END -->
+ - 💣 [Earth lost one more idiot.](http://9gag.com/gag/aZZMQOz)
+ - ⏩ [The only correct response](http://9gag.com/gag/aAy128R)
+ - 👉 [My fellow dark elf](http://9gag.com/gag/a4PYAq1)<!-- MEMES:END -->
 
 ---
 
