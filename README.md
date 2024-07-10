@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [PVKK&#39;s full title is literally too big for our website, and the devs say it&#39;s &#39;Space Invaders, but the cannon you fire is really complicated&#39;](https://www.pcgamer.com/games/sim/pvkks-full-title-is-literally-too-big-for-our-website-and-the-devs-say-its-space-invaders-but-the-cannon-you-fire-is-really-complicated)
- - [Someone Got Doom Running Inside Fortnite](https://kotaku.com/doom-running-inside-fortnite-uefn-how-epic-twitter-fps-1851585177)
- - [9 Things You Should Never Say To A Dragon Age Fan](https://kotaku.com/dragon-age-origins-inquisition-anders-was-right-1851585455)<!-- GAME:END -->
+ - [BioWare Wants Fans To ‘Discover’ If Dragon Age: The Veilguard Shows Hog](https://kotaku.com/dragon-age-veilguard-nudity-sex-scene-character-creator-1851585887)
+ - [Now&#39;s the time to play that one game you&#39;ve been putting off](https://www.pcgamer.com/games/2024-july-backlog)
+ - [Nintendo&#39;s Mysterious Horror Game Teaser Has Fans Scratching Their Heads](https://kotaku.com/emio-nintendo-switch-horror-trailer-teaser-youtube-1851584450)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
