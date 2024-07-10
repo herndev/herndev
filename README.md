@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The aftermath of the Supreme Court’s NetChoice ruling](https://www.theverge.com/24195235/scotus-netchoice-kosa-kids-safety-age-verification-tiktok-ban)
- - [Sony’s new ZV-E10 II camera is designed to sway vloggers away from $1,000 phones](https://www.theverge.com/2024/7/10/24194506/sony-alpha-zve10ii-vlogging-camera-apsc-mirrorless-specs-price)
- - [How to refurbish and restore the original Apple TV](https://appleinsider.com/inside/apple-tv/tips/how-to-refurbish-and-restore-the-original-apple-tv?utm_medium=rss)<!-- TECH:END -->
+ - [Microsoft and trade group CISPE agree a deal to settle CISPE&#39;s antitrust complaint; CISPE members can run software on Azure at prices equivalent to Microsoft&#39;s &lpar;Foo Yun Chee/Reuters&rpar;](http://www.techmeme.com/240710/p25#a240710p25)
+ - [Here’s our first look at Google Photos’ My Week feature &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-photos-my-week-first-look-apk-teardown-3459310/)
+ - [Hyundai dealers pressured to push ‘fake’ EV sales, lawsuit alleges](https://www.theverge.com/2024/7/10/24195650/hyundai-fake-ev-sales-dealer-lawsuit)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
