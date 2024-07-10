@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [If You’re Mad About The Acolyte, You Haven’t Been Paying Attention To Star Wars](https://kotaku.com/star-wars-the-acolyte-episode-7-jedi-sol-choice-1851585241)
- - [After fans declared total war on Total War, Creative Assembly completes the apology tour with a major free expansion for Pharaoh this month](https://www.pcgamer.com/games/strategy/after-fans-declared-total-war-on-total-war-creative-assembly-completes-the-apology-tour-with-a-major-free-expansion-for-pharaoh-this-month)
- - [This Deal On Game Pass Ultimate Will Save You A Bunch Before The Price Hike](https://kotaku.com/xbox-game-pass-ultimate-price-deal-save-cheap-stack-1851585147)<!-- GAME:END -->
+ - [Someone Got Doom Running Inside Fortnite](https://kotaku.com/doom-running-inside-fortnite-uefn-how-epic-twitter-fps-1851585177)
+ - [9 Things You Should Never Say To A Dragon Age Fan](https://kotaku.com/dragon-age-origins-inquisition-anders-was-right-1851585455)
+ - [Final Fantasy VII Reunion Is Reportedly Hitting PS Plus This Month With A Bunch More Games](https://kotaku.com/crisis-core-ff7-ps-plus-july-2024-ps2-classics-1851583611)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
