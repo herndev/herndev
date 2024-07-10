@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Earth lost one more idiot.](http://9gag.com/gag/aZZMQOz)
- - ⏩ [So many questions. What is this disgusting sport? Where is it? How do I sign up?](http://9gag.com/gag/aXP922P)
- - 👉 [Are any of you even real?......am i?](http://9gag.com/gag/a7o7VwA)<!-- MEMES:END -->
+ - 💣 [Wow](http://9gag.com/gag/aVvPVe8)
+ - ⏩ [Chinese recipe.](http://9gag.com/gag/apRvAxE)
+ - 👉 [What was that!](http://9gag.com/gag/axyjRLn)<!-- MEMES:END -->
 
 ---
 
