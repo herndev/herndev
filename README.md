@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Wow](http://9gag.com/gag/aVvPVe8)
- - ⏩ [Chinese recipe.](http://9gag.com/gag/apRvAxE)
- - 👉 [What was that!](http://9gag.com/gag/axyjRLn)<!-- MEMES:END -->
+ - 💣 [Unexpected](http://9gag.com/gag/abA0BgE)
+ - ⏩ [Earth lost one more idiot.](http://9gag.com/gag/aZZMQOz)
+ - 👉 [Subtle, but effective](http://9gag.com/gag/a0epnjO)<!-- MEMES:END -->
 
 ---
 
