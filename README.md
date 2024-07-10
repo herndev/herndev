@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [BioWare Wants Fans To ‘Discover’ If Dragon Age: The Veilguard Shows Hog](https://kotaku.com/dragon-age-veilguard-nudity-sex-scene-character-creator-1851585887)
- - [Now&#39;s the time to play that one game you&#39;ve been putting off](https://www.pcgamer.com/games/2024-july-backlog)
- - [Nintendo&#39;s Mysterious Horror Game Teaser Has Fans Scratching Their Heads](https://kotaku.com/emio-nintendo-switch-horror-trailer-teaser-youtube-1851584450)<!-- GAME:END -->
+ - [Star Wars Outlaws&#39; maps won&#39;t initially be blanketed in Ubisoft&#39;s infamous map icons because your character Kay &#39;hasn&#39;t seen the galaxy&#39; and &#39;doesn&#39;t know everything&#39; yet](https://www.pcgamer.com/games/action/star-wars-outlaws-maps-wont-initially-be-blanketed-in-ubisofts-infamous-map-icons-because-your-character-kay-hasnt-seen-the-galaxy-and-doesnt-know-everything-yet)
+ - [The Sims 4 Lovestruck expansion: release date and feature details](https://www.pcgamer.com/games/the-sims/the-sims-4-lovestruck-release-date-trailer-features)
+ - [How to get free Solar Fusion Energy and Lunar Fusion Energy with codes in Pokémon Go](https://www.polygon.com/pokemon-go-guide/24195548/solar-fusion-energy-lunar-fusion-how-to-get)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
