@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Unexpected](http://9gag.com/gag/abA0BgE)
+ - 💣 [The only correct response](http://9gag.com/gag/aAy128R)
  - ⏩ [Earth lost one more idiot.](http://9gag.com/gag/aZZMQOz)
- - 👉 [Subtle, but effective](http://9gag.com/gag/a0epnjO)<!-- MEMES:END -->
+ - 👉 [There is a reason why they total the car](http://9gag.com/gag/adBje29)<!-- MEMES:END -->
 
 ---
 
