@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Index Ventures, an early investor in Mistral and Cohere, closed $2.3B to chase AI breakthroughs and says that 50%+ of its recent investments have been in AI &lpar;Financial Times&rpar;](http://www.techmeme.com/240710/p1#a240710p1)
- - [Android 15 may soon be even more accessible for color blind users](https://www.androidauthority.com/android-15-color-correction-slider-3458931/)
- - [This MacBook Air with 16GB RAM, 512GB SSD is on sale for $1,249, the lowest price ever](https://appleinsider.com/articles/24/07/10/this-macbook-air-with-16gb-ram-512gb-ssd-is-on-sale-for-1249-the-lowest-price-ever?utm_medium=rss)<!-- TECH:END -->
+ - [Source: Apple is not taking an observer role on OpenAI&#39;s board; OpenAI says it will host regular meetings with investors and partners like Microsoft and Apple &lpar;Financial Times&rpar;](http://www.techmeme.com/240710/p3#a240710p3)
+ - [Microsoft gives up an observer seat on OpenAI&#39;s board, saying it has seen &quot;significant progress&quot; from the new board and is &quot;confident&quot; in OpenAI&#39;s direction &lpar;Ina Fried/Axios&rpar;](http://www.techmeme.com/240710/p2#a240710p2)
+ - [Index Ventures, an early investor in Mistral and Cohere, closed $2.3B to chase AI breakthroughs and says that 50%+ of its recent investments have been in AI &lpar;Financial Times&rpar;](http://www.techmeme.com/240710/p1#a240710p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
