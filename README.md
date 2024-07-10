@@ -33,8 +33,8 @@
 
 <!-- GAME:START -->
  - [The First Descendent is dollar store Destiny starring exclusively hot people](https://www.pcgamer.com/games/third-person-shooter/the-first-descendent-is-dollar-store-destiny-starring-exclusively-hot-people)
- - [SteamDB&#39;s browser extension now lets you claim Steam discovery queue rewards without actually looking at your Steam discovery queue](https://www.pcgamer.com/games/steamdbs-browser-extension-now-lets-you-claim-steam-discovery-queue-rewards-without-actually-looking-at-your-steam-discovery-queue)
- - [&#39;It&#39;s time to rebuild some foundations&#39;: Shadowlands forced Blizzard to rethink World of Warcraft&#39;s oldest ideas to make it a better MMO, director says](https://www.pcgamer.com/games/world-of-warcraft/its-time-to-rebuild-some-foundations-shadowlands-forced-blizzard-to-rethink-world-of-warcrafts-oldest-ideas-to-make-a-better-mmo-director-says)<!-- GAME:END -->
+ - [Game Pass Is Getting Another Price Increase In The Messiest Way Possible](https://kotaku.com/xbox-game-pass-price-increase-standard-console-ultimate-1851583866)
+ - [SteamDB&#39;s browser extension now lets you claim Steam discovery queue rewards without actually looking at your Steam discovery queue](https://www.pcgamer.com/games/steamdbs-browser-extension-now-lets-you-claim-steam-discovery-queue-rewards-without-actually-looking-at-your-steam-discovery-queue)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
