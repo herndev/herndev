@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Star Wars Outlaws&#39; maps won&#39;t initially be blanketed in Ubisoft&#39;s infamous map icons because your character Kay &#39;hasn&#39;t seen the galaxy&#39; and &#39;doesn&#39;t know everything&#39; yet](https://www.pcgamer.com/games/action/star-wars-outlaws-maps-wont-initially-be-blanketed-in-ubisofts-infamous-map-icons-because-your-character-kay-hasnt-seen-the-galaxy-and-doesnt-know-everything-yet)
- - [The Sims 4 Lovestruck expansion: release date and feature details](https://www.pcgamer.com/games/the-sims/the-sims-4-lovestruck-release-date-trailer-features)
- - [How to get free Solar Fusion Energy and Lunar Fusion Energy with codes in Pokémon Go](https://www.polygon.com/pokemon-go-guide/24195548/solar-fusion-energy-lunar-fusion-how-to-get)<!-- GAME:END -->
+ - [Riot was working on a Smash Bros-style fighting game, but MultiVersus helped convince it to pull the plug](https://www.pcgamer.com/games/fighting/riot-was-working-on-a-smash-bros-style-fighting-game-but-multiversus-helped-convince-it-to-pull-the-plug)
+ - [Surprise! Dota 2 has a built-in fighting game now and it actually looks pretty good](https://www.pcgamer.com/games/moba/surprise-dota-2-has-a-built-in-fighting-game-now-and-it-actually-looks-pretty-good)
+ - [Board games, books, movies, and more are buy 2, get 1 free at Target](https://www.polygon.com/deals/24195183/target-buy-two-get-one-free-gaming-tabletop-deal-sale)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
