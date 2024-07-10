@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A livestream of Samsung Galaxy Unpacked July 2024 &lpar;Samsung on YouTube&rpar;](http://www.techmeme.com/240710/p13#a240710p13)
- - [Samsung Galaxy Watch Ultra and Watch 7 hands-on: Ultra confusing](https://www.androidauthority.com/samsung-galaxy-watch-ultra-watch-7-hands-on-3458837/)
- - [Samsung Galaxy Z Flip 6 is here: Price, specs, features, all you need to know](https://www.androidauthority.com/galaxy-z-flip-6-3384568/)<!-- TECH:END -->
+ - [The aftermath of the Supreme Court’s NetChoice ruling](https://www.theverge.com/24195235/scotus-netchoice-kosa-kids-safety-age-verification-tiktok-ban)
+ - [Sony’s new ZV-E10 II camera is designed to sway vloggers away from $1,000 phones](https://www.theverge.com/2024/7/10/24194506/sony-alpha-zve10ii-vlogging-camera-apsc-mirrorless-specs-price)
+ - [How to refurbish and restore the original Apple TV](https://appleinsider.com/inside/apple-tv/tips/how-to-refurbish-and-restore-the-original-apple-tv?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
