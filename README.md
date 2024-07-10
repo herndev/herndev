@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Let me guess... African as king of Rome and put some rap battle music...](http://9gag.com/gag/aoy9npe)
- - ⏩ [Earth lost one more idiot.](http://9gag.com/gag/aZZMQOz)
- - 👉 [Moonwalking into Oval](http://9gag.com/gag/aE07OBM)<!-- MEMES:END -->
+ - 💣 [Earth lost one more idiot.](http://9gag.com/gag/aZZMQOz)
+ - ⏩ [Classic](http://9gag.com/gag/a2vmDMd)
+ - 👉 [Trevor](http://9gag.com/gag/a9y7DYL)<!-- MEMES:END -->
 
 ---
 
