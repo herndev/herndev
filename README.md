@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google will make its dark web monitoring feature available to all users for free in late July 2024, no longer requiring a Google One membership to access it &lpar;Damien Wilde/9to5Google&rpar;](http://www.techmeme.com/240709/p30#a240709p30)
- - [Apple AirPods Max price drops by $150](https://www.androidauthority.com/apple-airpods-max-deal-3458952/)
- - [Microsoft hikes the price of Xbox Game Pass Ultimate by $3 to $20/month for new subscribers and plans a Standard tier for $14.99/month without day-one titles &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/240709/p29#a240709p29)<!-- TECH:END -->
+ - [Xbox Game Pass: Play Nickelodeon All-Star Brawl 2 Now and More Soon in July](https://www.cnet.com/tech/gaming/xbox-game-pass-play-nickelodeon-all-star-brawl-2-now-and-more-soon-in-july/#ftag=CAD590a51e)
+ - [Anthropic now lets developers use Claude 3.5 Sonnet to generate, test, and evaluate their prompts, and adds new features, like generating automatic test cases &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/240709/p31#a240709p31)
+ - [Watching &#39;The Boys&#39;? This Prime Video Feature Is a Treat for Fans](https://www.cnet.com/tech/services-and-software/watching-the-boys-this-prime-video-feature-is-a-treat-for-fans/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
