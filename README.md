@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Where to watch Samsung’s Galaxy Unpacked event on Wednesday](https://www.theverge.com/2024/7/10/24194483/samsung-galaxy-unpacked-watch-live-stream-start-time)
- - [Thousands of Samsung workers launch indefinite strike over pay](https://www.theverge.com/2024/7/10/24195541/samsung-union-launch-indefinite-strike-ai-chips-pay)
- - [New leak adds weight to the rumored touchscreen HomePod](https://www.androidauthority.com/ui-leak-touchscreen-homepod-3459240/)<!-- TECH:END -->
+ - [Plastic bins: better than boxes](https://www.theverge.com/24176469/moving-boxes-plastic-bins-cardboard)
+ - [Severance season 2 starts streaming in January — here’s the first teaser](https://www.theverge.com/23268501/severance-season-2-trailer-date-apple-tv-plus)
+ - [Home Loan Rates Decline: Mortgage Rates for July 10, 2024](https://www.cnet.com/personal-finance/mortgages/home-loan-rates-decline-mortgage-rates-for-july-10-2024/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
