@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [AWS launches App Studio in public preview, which is a generative AI-powered service allowing enterprise users to create internal apps using text prompts &lpar;Shubham Sharma/VentureBeat&rpar;](http://www.techmeme.com/240710/p30#a240710p30)
- - [WhatsApp on Android is finally getting voice message transcription](https://www.androidauthority.com/whatsapp-voice-message-transcripts-3459477/)
- - [Ford’s Capri slaps another old name on a new EV](https://www.theverge.com/2024/7/10/24195756/ford-capri-ev-crossover-announce-europe)<!-- TECH:END -->
+ - [Amazon’s carbon emissions fell last year](https://www.theverge.com/2024/7/10/24195707/amazons-carbon-emissions-fell-last-year)
+ - [Apple is ramping up for a big iPhone 16 sales boost thanks to Apple Intelligence](https://appleinsider.com/articles/24/07/10/apple-is-ramping-up-for-a-big-iphone-16-sales-boost-thanks-to-apple-intelligence?utm_medium=rss)
+ - [Sources: Alphabet shelves efforts to acquire HubSpot after the sides failed to reach the point of detailed discussions around due diligence; HUBS plunges 10%+ &lpar;Ryan Gould/Bloomberg&rpar;](http://www.techmeme.com/240710/p31#a240710p31)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
