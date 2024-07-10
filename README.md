@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Who are Star Wars’ Nightsisters?](https://www.polygon.com/star-wars/23840577/star-wars-acolyte-nightsisters-witches-of-dathomir-clone-wars)
- - [The Acolyte enters the song of the summer race with the help of Victoria Monét](https://www.polygon.com/star-wars/24195433/star-wars-acolyte-victoria-monet-song-end-credits-episode-7)
- - [In Dragon Age: The Veilguard, your companions earn skill points as you rank up their &#39;Relationship Level&#39;](https://www.pcgamer.com/games/rpg/in-dragon-age-the-veilguard-your-companions-earn-skill-points-as-you-rank-up-their-relationship-level)<!-- GAME:END -->
+ - [The Acolyte is hinging its whole story on vergences, of all things](https://www.polygon.com/star-wars/24195436/acolyte-vergences-star-wars-m-count-midi-chlorians)
+ - [Today&#39;s Wordle answer for Wednesday, July 10](https://www.pcgamer.com/games/puzzle/wordle-answer-today-July-10-2024)
+ - [Who are Star Wars’ Nightsisters?](https://www.polygon.com/star-wars/23840577/star-wars-acolyte-nightsisters-witches-of-dathomir-clone-wars)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
