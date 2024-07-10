@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [This MacBook Air with 16GB RAM, 512GB SSD is on sale for $1,249, the lowest price ever](https://appleinsider.com/articles/24/07/10/this-macbook-air-with-16gb-ram-512gb-ssd-is-on-sale-for-1249-the-lowest-price-ever?utm_medium=rss)
- - [Google says it has stopped purchasing carbon offsets and is no longer maintaining operational carbon neutrality, but still aims to reach net-zero carbon by 2030 &lpar;Akshat Rathi/Bloomberg&rpar;](http://www.techmeme.com/240709/p35#a240709p35)
- - [Google Pixel Watch 3 rumors: Everything we know so far and what we want to see](https://www.androidauthority.com/google-pixel-watch-3-features-specs-price-3415632/)<!-- TECH:END -->
+ - [Index Ventures, an early investor in Mistral and Cohere, closed $2.3B to chase AI breakthroughs and says that 50%+ of its recent investments have been in AI &lpar;Financial Times&rpar;](http://www.techmeme.com/240710/p1#a240710p1)
+ - [Android 15 may soon be even more accessible for color blind users](https://www.androidauthority.com/android-15-color-correction-slider-3458931/)
+ - [This MacBook Air with 16GB RAM, 512GB SSD is on sale for $1,249, the lowest price ever](https://appleinsider.com/articles/24/07/10/this-macbook-air-with-16gb-ram-512gb-ssd-is-on-sale-for-1249-the-lowest-price-ever?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
