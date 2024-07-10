@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon’s carbon emissions fell last year](https://www.theverge.com/2024/7/10/24195707/amazons-carbon-emissions-fell-last-year)
- - [Apple is ramping up for a big iPhone 16 sales boost thanks to Apple Intelligence](https://appleinsider.com/articles/24/07/10/apple-is-ramping-up-for-a-big-iphone-16-sales-boost-thanks-to-apple-intelligence?utm_medium=rss)
- - [Sources: Alphabet shelves efforts to acquire HubSpot after the sides failed to reach the point of detailed discussions around due diligence; HUBS plunges 10%+ &lpar;Ryan Gould/Bloomberg&rpar;](http://www.techmeme.com/240710/p31#a240710p31)<!-- TECH:END -->
+ - [Get a free $200-$300 Amazon gift card when you pre-order a Samsung Galaxy Z Fold 6 or Z Flip 6](https://www.androidauthority.com/pre-order-samsung-galaxy-z-fold-5-flip-6-deals-3459553/)
+ - [Fitbit’s making it easier for doctors to monitor your heart health](https://www.androidauthority.com/fitbit-afib-api-3459511/)
+ - [Apple and Google expand on their data portability initiative to allow users of Google Photos to transfer their collections directly to iCloud Photos &lpar;Chance Miller/9to5Mac&rpar;](http://www.techmeme.com/240710/p32#a240710p32)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
