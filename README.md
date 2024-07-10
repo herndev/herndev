@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The only correct response](http://9gag.com/gag/aAy128R)
- - ⏩ [Earth lost one more idiot.](http://9gag.com/gag/aZZMQOz)
+ - 💣 [Wouldn&#39;t be surprised](http://9gag.com/gag/a87MDmp)
+ - ⏩ [My fellow dark elf](http://9gag.com/gag/a4PYAq1)
  - 👉 [There is a reason why they total the car](http://9gag.com/gag/adBje29)<!-- MEMES:END -->
 
 ---
