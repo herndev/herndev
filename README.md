@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Metro Awakening: adapting the post-apocalyptic survival horror for PS VR2](https://blog.playstation.com/2024/07/10/metro-awakening-adapting-the-post-apocalyptic-survival-horror-for-ps-vr2/)
- - [Frenzies is a neon-soaked, wildly chaotic multiplayer shooter coming to PS VR2](https://blog.playstation.com/2024/07/10/frenzies-is-a-neon-soaked-wildly-chaotic-multiplayer-shooter-coming-to-ps-vr2/)
- - [PS VR2: Frenzies revealed, new Metro Awakening gameplay details, Wanderer: The Fragments of Fate in-depth look](https://blog.playstation.com/2024/07/10/ps-vr2-frenzies-revealed-new-metro-awakening-gameplay-details-wanderer-the-fragments-of-fate-in-depth-look/)<!-- GAME:END -->
+ - [How to get free Solar Fusion Energy and Lunar Fusion Energy with codes in Pokémon Go](https://www.polygon.com/pokemon-go-guide/24195548/solar-fusion-energy-lunar-fusion-how-to-get)
+ - [What the hell is Nintendo teasing with this creepy smiling man video?](https://www.polygon.com/24195619/nintendo-emio-trailer-smiling-man-what)
+ - [Nintendo&#39;s Mysterious Horror Game Teaser Has Fans Scratching Their Heads](https://kotaku.com/emio-nintendo-switch-horror-trailer-teaser-youtube-1851584450)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
