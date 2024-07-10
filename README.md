@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Anno 117: Pax Romana – Why Now Is the Perfect Time to Visit Ancient Rome](https://news.xbox.com/en-us/2024/07/10/anno-117-pax-romana/)
- - [Intel reportedly won&#39;t make any cheaper GPU-less &#39;F&#39; spec versions of its top Arrow Lake CPUs](https://www.pcgamer.com/hardware/processors/intel-reportedly-wont-make-any-cheaper-gpu-less-f-spec-versions-of-its-top-arrow-lake-cpus)
- - [Overwatch 2 Fans Are Calling Its Tank-Centric Patch The Worst It’s Ever Had](https://kotaku.com/overwatch-2-season-11-midseason-worst-patch-mauga-tanks-1851584869)<!-- GAME:END -->
+ - [All DLC armor locations in Elden Ring Shadow of the Erdtree](https://www.polygon.com/elden-ring-shadow-erdtree-guide/24180255/all-new-dlc-armor-set-locations)
+ - [How To Unlock Magneto In Fortnite Chapter 5 Season 3](https://kotaku.com/fortnite-chapter-5-season-3-unlock-magneto-1851585011)
+ - [How to complete Chivalrous Spirit Medal IV in Zenless Zone Zero](https://www.polygon.com/zenless-zone-zero-guides/24195745/zzz-chivalrous-spirit-medal-iv-404-error-live-house-bangboo-locations)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
