@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [PVKK&#39;s full title is literally too big for our website, and the devs say it&#39;s &#39;Space Invaders, but the cannon you fire is really complicated&#39;](https://www.pcgamer.com/games/sim/pvkks-full-title-is-literally-too-big-for-our-website-and-the-devs-say-its-space-invaders-but-the-cannon-you-fire-is-really-complicated)
  - [Someone Got Doom Running Inside Fortnite](https://kotaku.com/doom-running-inside-fortnite-uefn-how-epic-twitter-fps-1851585177)
- - [9 Things You Should Never Say To A Dragon Age Fan](https://kotaku.com/dragon-age-origins-inquisition-anders-was-right-1851585455)
- - [Final Fantasy VII Reunion Is Reportedly Hitting PS Plus This Month With A Bunch More Games](https://kotaku.com/crisis-core-ff7-ps-plus-july-2024-ps2-classics-1851583611)<!-- GAME:END -->
+ - [9 Things You Should Never Say To A Dragon Age Fan](https://kotaku.com/dragon-age-origins-inquisition-anders-was-right-1851585455)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
