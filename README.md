@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [So many questions. What is this disgusting sport? Where is it? How do I sign up?](http://9gag.com/gag/aXP922P)
- - ⏩ [Wouldn&#39;t be surprised](http://9gag.com/gag/a87MDmp)
- - 👉 [A YouTuber from Cyprus was elected to the EU Parliament &amp; reveals how much money they are allocated to spend. What do you think, overpaid or underpaid??](http://9gag.com/gag/ae9Gmpj)<!-- MEMES:END -->
+ - 💣 [A YouTuber from Cyprus was elected to the EU Parliament &amp; reveals how much money they are allocated to spend. What do you think, overpaid or underpaid??](http://9gag.com/gag/ae9Gmpj)
+ - ⏩ [Whats that?](http://9gag.com/gag/aZZM2p6)
+ - 👉 [My fellow dark elf](http://9gag.com/gag/a4PYAq1)<!-- MEMES:END -->
 
 ---
 
