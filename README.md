@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [You can now protect your high-risk Google account with just your phone](https://www.theverge.com/2024/7/10/24195306/google-accounts-advanced-protection-passkey-enrollment-support-security-key)
- - [Elliptic finds a Cambodian online market offering the crypto scam industry products and services, including money laundering and victim data, with $11B in sales &lpar;Wired&rpar;](http://www.techmeme.com/240710/p10#a240710p10)
- - [Galaxy Ring’s sizing kit shown off in last minute pre-Unpacked leak](https://www.androidauthority.com/galaxy-rings-sizing-kit-leak-3459232/)<!-- TECH:END -->
+ - [Where to watch Samsung’s Galaxy Unpacked event on Wednesday](https://www.theverge.com/2024/7/10/24194483/samsung-galaxy-unpacked-watch-live-stream-start-time)
+ - [Thousands of Samsung workers launch indefinite strike over pay](https://www.theverge.com/2024/7/10/24195541/samsung-union-launch-indefinite-strike-ai-chips-pay)
+ - [New leak adds weight to the rumored touchscreen HomePod](https://www.androidauthority.com/ui-leak-touchscreen-homepod-3459240/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
