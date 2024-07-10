@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Plastic bins: better than boxes](https://www.theverge.com/24176469/moving-boxes-plastic-bins-cardboard)
- - [Severance season 2 starts streaming in January — here’s the first teaser](https://www.theverge.com/23268501/severance-season-2-trailer-date-apple-tv-plus)
- - [Home Loan Rates Decline: Mortgage Rates for July 10, 2024](https://www.cnet.com/personal-finance/mortgages/home-loan-rates-decline-mortgage-rates-for-july-10-2024/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [A livestream of Samsung Galaxy Unpacked July 2024 &lpar;Samsung on YouTube&rpar;](http://www.techmeme.com/240710/p13#a240710p13)
+ - [Samsung Galaxy Watch Ultra and Watch 7 hands-on: Ultra confusing](https://www.androidauthority.com/samsung-galaxy-watch-ultra-watch-7-hands-on-3458837/)
+ - [Samsung Galaxy Z Flip 6 is here: Price, specs, features, all you need to know](https://www.androidauthority.com/galaxy-z-flip-6-3384568/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
