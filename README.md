@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Source: Apple is not taking an observer role on OpenAI&#39;s board; OpenAI says it will host regular meetings with investors and partners like Microsoft and Apple &lpar;Financial Times&rpar;](http://www.techmeme.com/240710/p3#a240710p3)
- - [Microsoft gives up an observer seat on OpenAI&#39;s board, saying it has seen &quot;significant progress&quot; from the new board and is &quot;confident&quot; in OpenAI&#39;s direction &lpar;Ina Fried/Axios&rpar;](http://www.techmeme.com/240710/p2#a240710p2)
- - [Index Ventures, an early investor in Mistral and Cohere, closed $2.3B to chase AI breakthroughs and says that 50%+ of its recent investments have been in AI &lpar;Financial Times&rpar;](http://www.techmeme.com/240710/p1#a240710p1)<!-- TECH:END -->
+ - [Q&amp;A with Meta CTO Andrew Bosworth on the company&#39;s metaverse strategy, barriers to MR/VR growth, Reality Labs spending, AR glasses, AI, and more &lpar;Matthew Ball/MatthewBall.co&rpar;](http://www.techmeme.com/240710/p5#a240710p5)
+ - [An investigation finds Airbnb fails to protect its guests from hidden cameras and moves swiftly to contain user complaints and resolve them out of court &lpar;CNN&rpar;](http://www.techmeme.com/240710/p4#a240710p4)
+ - [Not just streaming services: Even Xbox Game Pass is getting more expensive](https://www.androidauthority.com/xbox-game-pass-price-increase-3458660/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
