@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [A completely normal phenomenon](http://9gag.com/gag/aKGq83Q)
- - ⏩ [What to do in this case](http://9gag.com/gag/aMVGzN1)
- - 👉 [Oh..](http://9gag.com/gag/aByYVbZ)<!-- MEMES:END -->
+ - 💣 [London citizens descend on the police station to demand the release of people who were arrested for sexual assault of English schoolgirls](http://9gag.com/gag/amo96D4)
+ - ⏩ [Hold your horse](http://9gag.com/gag/an7NxO5)
+ - 👉 [A YouTuber from Cyprus was elected to the EU Parliament &amp; reveals how much money they are allocated to spend. What do you think, overpaid or underpaid??](http://9gag.com/gag/ae9Gmpj)<!-- MEMES:END -->
 
 ---
 
