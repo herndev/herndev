@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Is there a level above Field Marshal?](http://9gag.com/gag/aW4673K)
- - ⏩ [Futuristic HDMI Hologram for 3D modeling](http://9gag.com/gag/a9y7vDZ)
- - 👉 [Wouldn&#39;t be surprised](http://9gag.com/gag/a87MDmp)<!-- MEMES:END -->
+ - 💣 [Trying not to damage another car](http://9gag.com/gag/a9y784o)
+ - ⏩ [Go go go!](http://9gag.com/gag/aD2onbw)
+ - 👉 [My fellow dark elf](http://9gag.com/gag/a4PYAq1)<!-- MEMES:END -->
 
 ---
 
