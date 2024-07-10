@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [But why.. just why](http://9gag.com/gag/aGyxGv0)
- - ⏩ [As a kid, I never thought of putting alcohol in my mother&#39;s basin](http://9gag.com/gag/aVvPEvM)
- - 👉 [So Tolerant So Destructive](http://9gag.com/gag/azxjOXZ)<!-- MEMES:END -->
+ - 💣 [Is there a level above Field Marshal?](http://9gag.com/gag/aW4673K)
+ - ⏩ [Futuristic HDMI Hologram for 3D modeling](http://9gag.com/gag/a9y7vDZ)
+ - 👉 [Wouldn&#39;t be surprised](http://9gag.com/gag/a87MDmp)<!-- MEMES:END -->
 
 ---
 
