@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft and trade group CISPE agree a deal to settle CISPE&#39;s antitrust complaint; CISPE members can run software on Azure at prices equivalent to Microsoft&#39;s &lpar;Foo Yun Chee/Reuters&rpar;](http://www.techmeme.com/240710/p25#a240710p25)
- - [Here’s our first look at Google Photos’ My Week feature &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-photos-my-week-first-look-apk-teardown-3459310/)
- - [Hyundai dealers pressured to push ‘fake’ EV sales, lawsuit alleges](https://www.theverge.com/2024/7/10/24195650/hyundai-fake-ev-sales-dealer-lawsuit)<!-- TECH:END -->
+ - [Samsung has a special Galaxy Z Flip 6 that you can’t buy](https://www.androidauthority.com/galaxy-z-flip-6-olympic-3459442/)
+ - [Meta will now let young kids chat in VR — but only with their parents’ approval](https://www.theverge.com/2024/7/10/24195692/meta-quest-approved-contacts-parental-controls)
+ - [Samsung reveals its XR platform is coming later this year](https://www.androidauthority.com/samsung-xr-device-launch-window-3459431/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
