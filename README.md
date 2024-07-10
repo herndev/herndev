@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The First Descendent is dollar store Destiny starring exclusively hot people](https://www.pcgamer.com/games/third-person-shooter/the-first-descendent-is-dollar-store-destiny-starring-exclusively-hot-people)
- - [Game Pass Is Getting Another Price Increase In The Messiest Way Possible](https://kotaku.com/xbox-game-pass-price-increase-standard-console-ultimate-1851583866)
- - [SteamDB&#39;s browser extension now lets you claim Steam discovery queue rewards without actually looking at your Steam discovery queue](https://www.pcgamer.com/games/steamdbs-browser-extension-now-lets-you-claim-steam-discovery-queue-rewards-without-actually-looking-at-your-steam-discovery-queue)<!-- GAME:END -->
+ - [In Dragon Age: The Veilguard, your companions earn skill points as you rank up their &#39;Relationship Level&#39;](https://www.pcgamer.com/games/rpg/in-dragon-age-the-veilguard-your-companions-earn-skill-points-as-you-rank-up-their-relationship-level)
+ - [New free-to-play survival game Once Human isn&#39;t basking in praise, but it does have an unnecessarily granular character creator with no guard rails](https://www.pcgamer.com/games/survival-crafting/once-human-character-creator)
+ - [PC Game Pass is getting a $2 price hike this September, but consoles will be hit harder](https://www.pcgamer.com/games/pc-game-pass-is-getting-a-dollar2-price-hike-this-september-but-consoles-will-be-hit-harder)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
