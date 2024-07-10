@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Get a free $200-$300 Amazon gift card when you pre-order a Samsung Galaxy Z Fold 6 or Z Flip 6](https://www.androidauthority.com/pre-order-samsung-galaxy-z-fold-5-flip-6-deals-3459553/)
- - [Fitbit’s making it easier for doctors to monitor your heart health](https://www.androidauthority.com/fitbit-afib-api-3459511/)
- - [Apple and Google expand on their data portability initiative to allow users of Google Photos to transfer their collections directly to iCloud Photos &lpar;Chance Miller/9to5Mac&rpar;](http://www.techmeme.com/240710/p32#a240710p32)<!-- TECH:END -->
+ - [The Animal Crossing-inspired Nintendo Switch Lite is down to its best price yet](https://www.theverge.com/2024/7/10/24195708/walmart-nintendo-switch-lite-timmy-tommys-aloha-edition-animal-crossing-deal-sale)
+ - [Earned Wealth, which offers wealth management services to medical professionals, raises $200M, and says it has 3,000+ clients and $2B of assets under management &lpar;Valida Pau/Bloomberg&rpar;](http://www.techmeme.com/240710/p33#a240710p33)
+ - [iPhone 16 fast charging could get a 40W boost](https://appleinsider.com/articles/24/07/10/iphone-16-fast-charging-could-get-a-40w-boost?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
