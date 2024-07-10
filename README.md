@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [All DLC armor locations in Elden Ring Shadow of the Erdtree](https://www.polygon.com/elden-ring-shadow-erdtree-guide/24180255/all-new-dlc-armor-set-locations)
- - [How To Unlock Magneto In Fortnite Chapter 5 Season 3](https://kotaku.com/fortnite-chapter-5-season-3-unlock-magneto-1851585011)
- - [How to complete Chivalrous Spirit Medal IV in Zenless Zone Zero](https://www.polygon.com/zenless-zone-zero-guides/24195745/zzz-chivalrous-spirit-medal-iv-404-error-live-house-bangboo-locations)<!-- GAME:END -->
+ - [If You’re Mad About The Acolyte, You Haven’t Been Paying Attention To Star Wars](https://kotaku.com/star-wars-the-acolyte-episode-7-jedi-sol-choice-1851585241)
+ - [After fans declared total war on Total War, Creative Assembly completes the apology tour with a major free expansion for Pharaoh this month](https://www.pcgamer.com/games/strategy/after-fans-declared-total-war-on-total-war-creative-assembly-completes-the-apology-tour-with-a-major-free-expansion-for-pharaoh-this-month)
+ - [This Deal On Game Pass Ultimate Will Save You A Bunch Before The Price Hike](https://kotaku.com/xbox-game-pass-ultimate-price-deal-save-cheap-stack-1851585147)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
