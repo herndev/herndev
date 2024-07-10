@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Corporate sponsors now allowed to edit truth. All hail corporate overlords.](http://9gag.com/gag/a4PY2NQ)
- - ⏩ [But why.. just why](http://9gag.com/gag/aGyxGv0)
- - 👉 [What to do in this case](http://9gag.com/gag/aMVGzN1)<!-- MEMES:END -->
+ - 💣 [Dumb ways to die](http://9gag.com/gag/a6Z79E2)
+ - ⏩ [Normal day in Australia](http://9gag.com/gag/adBjOBj)
+ - 👉 [Wouldn&#39;t be surprised](http://9gag.com/gag/a87MDmp)<!-- MEMES:END -->
 
 ---
 
