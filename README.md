@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Gigabyte Aorus 17X &lpar;2024&rpar; review](https://www.pcgamer.com/hardware/gaming-laptops/gigabyte-aorus-17x-2024-review)
  - [The Acolyte is hinging its whole story on vergences, of all things](https://www.polygon.com/star-wars/24195436/acolyte-vergences-star-wars-m-count-midi-chlorians)
- - [Today&#39;s Wordle answer for Wednesday, July 10](https://www.pcgamer.com/games/puzzle/wordle-answer-today-July-10-2024)
- - [Who are Star Wars’ Nightsisters?](https://www.polygon.com/star-wars/23840577/star-wars-acolyte-nightsisters-witches-of-dathomir-clone-wars)<!-- GAME:END -->
+ - [Today&#39;s Wordle answer for Wednesday, July 10](https://www.pcgamer.com/games/puzzle/wordle-answer-today-July-10-2024)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
