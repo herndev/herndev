@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung has a special Galaxy Z Flip 6 that you can’t buy](https://www.androidauthority.com/galaxy-z-flip-6-olympic-3459442/)
- - [Meta will now let young kids chat in VR — but only with their parents’ approval](https://www.theverge.com/2024/7/10/24195692/meta-quest-approved-contacts-parental-controls)
- - [Samsung reveals its XR platform is coming later this year](https://www.androidauthority.com/samsung-xr-device-launch-window-3459431/)<!-- TECH:END -->
+ - [Apple Intelligence is inching closer to beta testing](https://appleinsider.com/articles/24/07/10/apple-intelligence-is-inching-closer-to-beta-testing?utm_medium=rss)
+ - [Amazon’s new Echo Spot is already almost half off for Prime Day](https://www.theverge.com/2024/7/10/24195655/amazon-echo-spot-smart-alarm-clock-prime-day-deal-sale)
+ - [Source: Apple aims to ship 90M+ iPhone 16 series devices in 2024, after shipping about 81M iPhone 15s in H2 2023, as it counts on AI services to boost demand &lpar;Bloomberg&rpar;](http://www.techmeme.com/240710/p28#a240710p28)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
