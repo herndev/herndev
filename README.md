@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Severance finally returns to the office with a release date and a new trailer](https://www.polygon.com/24195201/severance-season-2-trailer-announcement-release-date-first-look)
- - [Microsoft to increase Game Pass prices and drop day one games from standard tier](https://www.polygon.com/xbox/24195533/game-pass-price-increase-console-standard-ultimate-2024)
- - [Why TSMC&#39;s 4nm silicon will make or break Intel&#39;s new Battlemage GPUs](https://www.pcgamer.com/hardware/graphics-cards/why-tsmcs-4nm-silicon-will-make-or-break-intels-new-battlemage-gpus)<!-- GAME:END -->
+ - [Metro Awakening: adapting the post-apocalyptic survival horror for PS VR2](https://blog.playstation.com/2024/07/10/metro-awakening-adapting-the-post-apocalyptic-survival-horror-for-ps-vr2/)
+ - [Frenzies is a neon-soaked, wildly chaotic multiplayer shooter coming to PS VR2](https://blog.playstation.com/2024/07/10/frenzies-is-a-neon-soaked-wildly-chaotic-multiplayer-shooter-coming-to-ps-vr2/)
+ - [PS VR2: Frenzies revealed, new Metro Awakening gameplay details, Wanderer: The Fragments of Fate in-depth look](https://blog.playstation.com/2024/07/10/ps-vr2-frenzies-revealed-new-metro-awakening-gameplay-details-wanderer-the-fragments-of-fate-in-depth-look/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
