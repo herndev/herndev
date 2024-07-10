@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [In Dragon Age: The Veilguard, your companions earn skill points as you rank up their &#39;Relationship Level&#39;](https://www.pcgamer.com/games/rpg/in-dragon-age-the-veilguard-your-companions-earn-skill-points-as-you-rank-up-their-relationship-level)
- - [New free-to-play survival game Once Human isn&#39;t basking in praise, but it does have an unnecessarily granular character creator with no guard rails](https://www.pcgamer.com/games/survival-crafting/once-human-character-creator)
- - [PC Game Pass is getting a $2 price hike this September, but consoles will be hit harder](https://www.pcgamer.com/games/pc-game-pass-is-getting-a-dollar2-price-hike-this-september-but-consoles-will-be-hit-harder)<!-- GAME:END -->
+ - [Who are Star Wars’ Nightsisters?](https://www.polygon.com/star-wars/23840577/star-wars-acolyte-nightsisters-witches-of-dathomir-clone-wars)
+ - [The Acolyte enters the song of the summer race with the help of Victoria Monét](https://www.polygon.com/star-wars/24195433/star-wars-acolyte-victoria-monet-song-end-credits-episode-7)
+ - [In Dragon Age: The Veilguard, your companions earn skill points as you rank up their &#39;Relationship Level&#39;](https://www.pcgamer.com/games/rpg/in-dragon-age-the-veilguard-your-companions-earn-skill-points-as-you-rank-up-their-relationship-level)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
