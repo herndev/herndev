@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Forza Motorsport Celebrates Racing Rivalries with Nemesis Month](https://forza.net/news/forza-motorsport-update-10%20#new_tab)
- - [&#39;Our artists draw thousands of sketches&#39;: Palworld&#39;s CEO, seemingly exhausted by AI art accusations, once more tries to put them to bed](https://www.pcgamer.com/games/survival-crafting/our-artists-draw-thousands-of-sketches-palworld-s-ceo-seemingly-exhausted-by-ai-art-accusations-once-more-tries-to-put-them-to-bed)
- - [Palworld And Sony Team Up To Make The Next Pokémon Company](https://kotaku.com/palworld-merch-plush-pokemon-nintendo-pocketpair-1851584507)<!-- GAME:END -->
+ - [Anno 117: Pax Romana – Why Now Is the Perfect Time to Visit Ancient Rome](https://news.xbox.com/en-us/2024/07/10/anno-117-pax-romana/)
+ - [Intel reportedly won&#39;t make any cheaper GPU-less &#39;F&#39; spec versions of its top Arrow Lake CPUs](https://www.pcgamer.com/hardware/processors/intel-reportedly-wont-make-any-cheaper-gpu-less-f-spec-versions-of-its-top-arrow-lake-cpus)
+ - [Overwatch 2 Fans Are Calling Its Tank-Centric Patch The Worst It’s Ever Had](https://kotaku.com/overwatch-2-season-11-midseason-worst-patch-mauga-tanks-1851584869)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
