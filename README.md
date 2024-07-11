@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung’s latest watches retire this handy charging feature](https://www.androidauthority.com/samsung-galaxy-watch-7-watch-ultra-no-wireless-powershare-3459813/)
- - [UK government data: digital industry job growth grew just 0.3% in 2023, the lowest since a 0.1% decline in 2013, down from 4.1% growth in 2022 and 6.5% in 2021 &lpar;Isabella Ward/Bloomberg&rpar;](http://www.techmeme.com/240711/p16#a240711p16)
- - [Apple Vision Pro won&#39;t break 500k sales in 2024, even with international expansion](https://appleinsider.com/articles/24/07/11/apple-vision-pro-wont-break-500k-sales-in-2024-even-with-international-expansion?utm_medium=rss)<!-- TECH:END -->
+ - [A Google DeepMind research paper details how Gemini 1.5 Pro&#39;s 1M-token context window allows its robots to navigate and complete tasks using simple instructions &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/240711/p18#a240711p18)
+ - [Galaxy Z Flip 6’s cover screen will soon be more useful with these apps](https://www.androidauthority.com/gmail-outlook-flip-6-3459832/)
+ - [Spotify finally offers 2FA support, but it’s horrible](https://www.androidauthority.com/spotify-offers-horrible-2fa-3459852/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
