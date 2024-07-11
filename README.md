@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Marvel’s New X-Men Comic Plays It Too Safe After One Of The Best Sagas In Its History](https://kotaku.com/x-men-1-comic-review-krakoa-marvel-wolverine-cyclops-1851587332)
- - [28 Xbox 360 Games To Buy Before The Store Closes This Month](https://kotaku.com/xbox-360-store-shutdown-offline-july-2024-1851587402)
- - [Pre-order Nintendo World Championships: NES Edition Deluxe Set and save $30 if you’re new to QVC](https://www.polygon.com/24196444/nintendo-world-championships-nes-edition-deluxe-set-sale-discount-qvc)<!-- GAME:END -->
+ - [Deathbound Launching this Summer on Xbox](https://news.xbox.com/en-us/2024/07/11/deathbound-launching-this-summer-on-xbox/)
+ - [Sony’s new hero shooter Concord is playable this weekend for all PS Plus subscribers](https://www.polygon.com/24196536/concord-early-access-beta-dates-ps-plus-ps5-pc)
+ - [Tencent&#39;s free-to-play co-op shooter Synced is closing just a year after it launched](https://www.pcgamer.com/games/fps/tencents-free-to-play-co-op-shooter-synced-is-closing-just-a-year-after-it-launched)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
