@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple will allow rivals access to its iPhone NFC payments in EU](https://appleinsider.com/articles/24/07/11/apple-will-now-allow-rivals-access-to-its-iphone-nfc-payments-in-eu?utm_medium=rss)
- - [Paris-based Bioptimus releases H-optimus-0, an open source AI model trained on hundreds of millions of images to aid research and diagnoses of diseases &lpar;Michael Hennessey/Bloomberg&rpar;](http://www.techmeme.com/240711/p11#a240711p11)
- - [SpaceX releases its $599 Starlink Mini portable dish to anyone in the US, available with its $150/month Regional and $50/month Mini Roam services &lpar;Thomas Ricker/The Verge&rpar;](http://www.techmeme.com/240711/p10#a240711p10)<!-- TECH:END -->
+ - [Google may soon let you hide Gemini in Messages &lpar;Update&rpar;](https://www.androidauthority.com/google-messages-gemini-toggle-3452071/)
+ - [UEFA, Instagram, and X ruin a killer Euro 2024 celebration](https://www.theverge.com/2024/7/11/24196311/uefa-instagram-x-the-killers-copyright-euro-2024-celebration)
+ - [IDC estimates that Apple will sell under 500K Vision Pro units in 2024, and the headset&#39;s international launch will offset a 75% QoQ drop in US sales in Q3 2024 &lpar;Vlad Savov/Bloomberg&rpar;](http://www.techmeme.com/240711/p13#a240711p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
