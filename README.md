@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The actor behind Shadow of the Erdtree&#39;s best NPC didn&#39;t think videogame voice acting was all that until &#39;mysterious&#39; Miyazaki opened his eyes](https://www.pcgamer.com/games/rpg/the-actor-behind-shadow-of-the-erdtrees-best-npc-didnt-think-videogame-voice-acting-was-all-that-until-mysterious-miyazaki-opened-his-eyes)
- - [How To Defeat Saya &amp; Selyne In Palworld](https://kotaku.com/palworld-sakurajima-saya-selyne-faction-boss-1851587019)
- - [Alright, who wants to spot me $1,000 for this absurdly sumptuous Elden Ring lore book?](https://www.pcgamer.com/games/rpg/alright-who-wants-to-spot-me-dollar1000-for-this-absurdly-sumptuous-elden-ring-lore-book)<!-- GAME:END -->
+ - [Marvel’s New X-Men Comic Plays It Too Safe After One Of The Best Sagas In Its History](https://kotaku.com/x-men-1-comic-review-krakoa-marvel-wolverine-cyclops-1851587332)
+ - [28 Xbox 360 Games To Buy Before The Store Closes This Month](https://kotaku.com/xbox-360-store-shutdown-offline-july-2024-1851587402)
+ - [Pre-order Nintendo World Championships: NES Edition Deluxe Set and save $30 if you’re new to QVC](https://www.polygon.com/24196444/nintendo-world-championships-nes-edition-deluxe-set-sale-discount-qvc)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
