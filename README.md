@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A Google DeepMind research paper details how Gemini 1.5 Pro&#39;s 1M-token context window allows its robots to navigate and complete tasks using simple instructions &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/240711/p18#a240711p18)
- - [Galaxy Z Flip 6’s cover screen will soon be more useful with these apps](https://www.androidauthority.com/gmail-outlook-flip-6-3459832/)
- - [Spotify finally offers 2FA support, but it’s horrible](https://www.androidauthority.com/spotify-offers-horrible-2fa-3459852/)<!-- TECH:END -->
+ - [Retro gold rush: which emulators are on the App Store, and what&#39;s coming](https://appleinsider.com/articles/24/04/26/retro-gold-rush-these-emulators-are-coming-to-the-app-store-soon?utm_medium=rss)
+ - [Regard, which saves physicians time by analyzing patients&#39; health data using AI, raised a $61M Series B led by Oak HC/FT, a source says at a $350M valuation &lpar;Marina Temkin/TechCrunch&rpar;](http://www.techmeme.com/240711/p19#a240711p19)
+ - [Pixel 9 series prices leak and it’s not good news](https://www.androidauthority.com/pixel-9-series-france-prices-3459857/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
