@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [It&#39;s never too late I guess](http://9gag.com/gag/a5Q72YG)
- - ⏩ [Grey dress](http://9gag.com/gag/apRvVnn)
- - 👉 [Moonwalking into Oval](http://9gag.com/gag/aE07OBM)<!-- MEMES:END -->
+ - 💣 [Trevor](http://9gag.com/gag/a9y7DYL)
+ - ⏩ [Catch](http://9gag.com/gag/a9y7BMj)
+ - 👉 [Let me guess... African as king of Rome and put some rap battle music...](http://9gag.com/gag/aoy9npe)<!-- MEMES:END -->
 
 ---
 
