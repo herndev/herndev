@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Wallet is working on a confusing new Quick Settings tile &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-wallet-quick-settings-3459881/)
- - [Tesla reportedly delaying its robotaxi reveal until October](https://www.theverge.com/2024/7/11/24196537/tesla-delay-robotaxi-reveal-event-october)
- - [One of our favorite robovacs is down to its all-time low ahead of Prime Day](https://www.theverge.com/2024/7/11/24195814/irobot-roomba-j7-plus-apple-earpods-usb-c-deal-sale)<!-- TECH:END -->
+ - [Florida digital driver’s licenses are broken until at least next year](https://www.androidauthority.com/florida-digital-drivers-license-3459956/)
+ - [You can’t screw up Arduino’s new DIY electronics kit](https://www.theverge.com/2024/7/11/24196432/arduino-electronics-starter-kit-educational)
+ - [OnePlus’ next mid-ranger will get better software support than the OnePlus 12](https://www.androidauthority.com/oneplus-nord-4-software-3459914/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
