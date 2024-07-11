@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Arm has developed a new shader-based upscaler using AMD&#39;s open source FSR 2.2 as its starting base](https://www.pcgamer.com/hardware/arm-has-developed-a-new-shader-based-upscaler-using-amds-open-source-fsr-22-as-its-starting-base)
- - [Darktide&#39;s next update promises a complete overhaul of weapon progression: &#39;We took the philosophy with this game to not be afraid of doing quite massive changes&#39;](https://www.pcgamer.com/games/fps/darktides-next-update-promises-a-complete-overhaul-of-weapon-progression-we-took-the-philosophy-with-this-game-to-not-be-afraid-of-doing-quite-massive-changes)
- - [As WoW returns to China, NetEase has placed a $14,000 bounty on reports that see cheat peddlers punished by law](https://www.pcgamer.com/games/world-of-warcraft/as-wow-returns-to-china-netease-has-placed-a-14-000-bounty-on-reports-that-see-cheat-creators-punished-by-law)<!-- GAME:END -->
+ - [Ayaneo Retro Mini AM02](https://www.pcgamer.com/hardware/gaming-pcs/ayaneo-retro-mini-am02)
+ - [Las Vegas&#39; dystopia-sphere, powered by 150 Nvidia GPUs and drawing up to 28,000,000 watts, is both a testament to the hubris of humanity and an admittedly impressive technical feat](https://www.pcgamer.com/hardware/las-vegas-dystopia-sphere-powered-by-150-nvidia-gpus-and-drawing-up-to-28000000-watts-is-both-a-testament-to-the-hubris-of-humanity-and-an-admittedly-impressive-technical-feat)
+ - [Concord Beta Early Access: Preload and server times, PC specs, and more detailed](https://blog.playstation.com/2024/07/11/concord-beta-early-access-preload-and-server-times-pc-specs-and-more-detailed/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
