@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Heritage Foundation insists it was not hacked by ‘gay furries’](https://www.theverge.com/2024/7/11/24196554/siegedsec-heritage-foundation-project-2025-hack-gay-furry)
- - [ARM unveils Accuracy Super Resolution, an upscaler for mobile gaming based on AMD&#39;s FidelityFX Super Resolution 2, available under the MIT open-source license &lpar;Andrew Cunningham/Ars Technica&rpar;](http://www.techmeme.com/240711/p25#a240711p25)
- - [Galaxy Z Fold 6 makes fingerprint setup easier and more convenient](https://www.androidauthority.com/galaxy-z-fold-6-fingerprint-3460018/)<!-- TECH:END -->
+ - [Possible Xiaomi Mi Band 9 renders, specs suggest an underwhelming upgrade](https://www.androidauthority.com/mi-band-9-renders-3459997/)
+ - [Save $300 on the ASUS ROG Zephyrus G14, an amazing gaming laptop](https://www.androidauthority.com/asus-rog-zephyrus-g14-deal-3460037/)
+ - [Forget wake words! Galaxy Buds 3 Pro get supercharged Voice Control feature](https://www.androidauthority.com/galaxy-buds3-pro-features-3459971/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
