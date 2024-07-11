@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [There is a reason why they total the car](http://9gag.com/gag/adBje29)
- - ⏩ [My fellow dark elf](http://9gag.com/gag/a4PYAq1)
- - 👉 [And Another One &lpar;link in comments&rpar;](http://9gag.com/gag/aNDn4Qb)<!-- MEMES:END -->
+ - 💣 [When Your World Fall&#39;s Apart](http://9gag.com/gag/aD2oOYK)
+ - ⏩ [Easy peasy](http://9gag.com/gag/a9y7X8D)
+ - 👉 [That smile](http://9gag.com/gag/amo9p46)<!-- MEMES:END -->
 
 ---
 
