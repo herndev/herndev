@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Doom Fans Go Too Far, Port The Shooter To A Sex Toy](https://kotaku.com/doom-port-sex-toy-electronic-fleshlight-mod-weird-1851587885)
- - [Throwback Zombies-style shooter Hellbreach: Vegas drops an updated demo to announce the full launch coming in August](https://www.pcgamer.com/games/fps/throwback-zombies-style-shooter-hellbreach-vegas-drops-an-updated-demo-to-announce-the-full-launch-coming-in-august)
- - [24 Of Our Favorite Forgotten Games Trapped On The Xbox 360](https://kotaku.com/xbox-360-store-shutdown-offline-july-2024-1851587402)<!-- GAME:END -->
+ - [Honkai: Star Rail codes for July 2024](https://www.polygon.com/honkai-star-rail-guides/23699079/code-redeem-redemption-gift-stellar-jade)
+ - [This Pokémon Streamer Has A Comeback Story For The Ages](https://kotaku.com/pokemon-shiny-hunting-treecko-stream-two-reset-aelfgar-1851588124)
+ - [Overwatch 2 is teasing its new hero in game — with some big lore implications](https://www.polygon.com/24196032/overwatch-2-space-ranger-teaser-lore-jiayi)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
