@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Earth lost one more idiot.](http://9gag.com/gag/aZZMQOz)
- - ⏩ [Classic](http://9gag.com/gag/a2vmDMd)
- - 👉 [Trevor](http://9gag.com/gag/a9y7DYL)<!-- MEMES:END -->
+ - 💣 [Let me guess... African as king of Rome and put some rap battle music...](http://9gag.com/gag/aoy9npe)
+ - ⏩ [A completely normal phenomenon](http://9gag.com/gag/aKGq83Q)
+ - 👉 [Pedo teacher busted](http://9gag.com/gag/agmVxq6)<!-- MEMES:END -->
 
 ---
 
