@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Let me guess... African as king of Rome and put some rap battle music...](http://9gag.com/gag/aoy9npe)
- - ⏩ [Pedo teacher busted](http://9gag.com/gag/agmVxq6)
- - 👉 [The only correct response](http://9gag.com/gag/aAy128R)<!-- MEMES:END -->
+ - 💣 [There is a reason why they total the car](http://9gag.com/gag/adBje29)
+ - ⏩ [Moonwalking into Oval](http://9gag.com/gag/aE07OBM)
+ - 👉 [Bruce Lee way of punching demonstrated by Aaron Allen, the former bodyguard of Tupac Shakur](http://9gag.com/gag/ae9G745)<!-- MEMES:END -->
 
 ---
 
