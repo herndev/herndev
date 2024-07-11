@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Possible Xiaomi Mi Band 9 renders, specs suggest an underwhelming upgrade](https://www.androidauthority.com/mi-band-9-renders-3459997/)
- - [Save $300 on the ASUS ROG Zephyrus G14, an amazing gaming laptop](https://www.androidauthority.com/asus-rog-zephyrus-g14-deal-3460037/)
- - [Forget wake words! Galaxy Buds 3 Pro get supercharged Voice Control feature](https://www.androidauthority.com/galaxy-buds3-pro-features-3459971/)<!-- TECH:END -->
+ - [Planet Coaster’s slippery sequel lets you build your own water park](https://www.theverge.com/2024/7/11/24196770/planet-coaster-2-water-park-rides-waterslides)
+ - [The best ebook reader to buy right now](https://www.theverge.com/23769068/best-ebook-readers)
+ - [Google Pixel 9: all of the leaks and rumors so far](https://www.theverge.com/24196571/google-pixel-9-pro-xl-9a-fold-rumors-leaks-camera)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
