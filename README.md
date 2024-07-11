@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Japan no! Have sex but with other people!](http://9gag.com/gag/a34BN2e)
- - ⏩ [Bruce Lee way of punching demonstrated by Aaron Allen, the former bodyguard of Tupac Shakur](http://9gag.com/gag/ae9G745)
- - 👉 [Hummmmmmmm](http://9gag.com/gag/an7NDjo)<!-- MEMES:END -->
+ - 💣 [Attempted hijacking](http://9gag.com/gag/a7o7A1x)
+ - ⏩ [Yes he is](http://9gag.com/gag/aXP9eg6)
+ - 👉 [For real](http://9gag.com/gag/aD2oMB9)<!-- MEMES:END -->
 
 ---
 
