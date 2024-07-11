@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google may soon let you hide Gemini in Messages &lpar;Update&rpar;](https://www.androidauthority.com/google-messages-gemini-toggle-3452071/)
- - [UEFA, Instagram, and X ruin a killer Euro 2024 celebration](https://www.theverge.com/2024/7/11/24196311/uefa-instagram-x-the-killers-copyright-euro-2024-celebration)
- - [IDC estimates that Apple will sell under 500K Vision Pro units in 2024, and the headset&#39;s international launch will offset a 75% QoQ drop in US sales in Q3 2024 &lpar;Vlad Savov/Bloomberg&rpar;](http://www.techmeme.com/240711/p13#a240711p13)<!-- TECH:END -->
+ - [How to manage a road trip move](https://www.theverge.com/24173840/moving-long-distance-tips-tricks-how-to)
+ - [Retro gold rush: which emulators are on the App Store, and what&#39;s coming](https://appleinsider.com/articles/24/04/26/retro-gold-rush-these-emulators-are-coming-to-the-app-store-soon?utm_medium=rss)
+ - [Android 15 will let you control your Matter smart home devices over Thread, but only on some phones](https://www.androidauthority.com/android-15-thread-network-3459010/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
