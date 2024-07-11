@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Shuttered auto plants will become EV factories thanks to $1.7 billion Biden program](https://www.theverge.com/2024/7/11/24195811/biden-ev-factory-retrofit-conversion-grant-funding)
- - [Tencent-backed Shift Up closed up ~18% after raising $320M in its Seoul IPO, the largest South Korean IPO by a gaming company since Krafton raised $3.8B in 2021 &lpar;Bloomberg&rpar;](http://www.techmeme.com/240711/p7#a240711p7)
- - [PSA: Despite the IP48 rating, Samsung’s new foldables aren’t dust-resistant](https://www.androidauthority.com/psa-samsung-galaxy-z-flip-6-fold-6-not-dust-resistant-3459683/)<!-- TECH:END -->
+ - [Apple will allow rivals access to its iPhone NFC payments in EU](https://appleinsider.com/articles/24/07/11/apple-will-now-allow-rivals-access-to-its-iphone-nfc-payments-in-eu?utm_medium=rss)
+ - [Paris-based Bioptimus releases H-optimus-0, an open source AI model trained on hundreds of millions of images to aid research and diagnoses of diseases &lpar;Michael Hennessey/Bloomberg&rpar;](http://www.techmeme.com/240711/p11#a240711p11)
+ - [SpaceX releases its $599 Starlink Mini portable dish to anyone in the US, available with its $150/month Regional and $50/month Mini Roam services &lpar;Thomas Ricker/The Verge&rpar;](http://www.techmeme.com/240711/p10#a240711p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
