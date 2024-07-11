@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Bruce Lee way of punching demonstrated by Aaron Allen, the former bodyguard of Tupac Shakur](http://9gag.com/gag/ae9G745)
- - ⏩ [Different abby, same cocks](http://9gag.com/gag/aE07Xmo)
+ - 💣 [Aliens among us](http://9gag.com/gag/aYQeRK2)
+ - ⏩ [Did the Discounts Justify the Cost?](http://9gag.com/gag/aE07O0o)
  - 👉 [This is probably how our dreams actually looks like](http://9gag.com/gag/aYQeRYx)<!-- MEMES:END -->
 
 ---
