@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Deathbound is a &#39;party-based soulslike,&#39; but everyone in the party lives inside you](https://www.pcgamer.com/games/action/deathbound-is-a-party-based-soulslike-but-everyone-in-the-party-lives-inside-you)
- - [Elden Ring Fans Let Down By The DLC’s Ending Are Missing The Point](https://kotaku.com/elden-ring-shadow-erdtree-lore-disappointed-fans-ending-1851588208)
- - [8BitDo celebrates its 11th anniversary with a massive sale and gold SN30 Pro controllers](https://www.polygon.com/deals/2024/7/11/24196710/8bitdo-sale-gold-sn30-pro-controllers-pro-2-discount)<!-- GAME:END -->
+ - [You don&#39;t lose all your progress when a Once Human season ends—here&#39;s how the survival game&#39;s server resets work](https://www.pcgamer.com/games/survival-crafting/once-human-season-reset)
+ - [The Animal Kingdom director unpacks the year’s most fascinating sci-fi movie](https://www.polygon.com/24100927/the-animal-kingdom-movie-french-effects-creature-design-meaning-hulu)
+ - [Deathbound is a &#39;party-based soulslike,&#39; but everyone in the party lives inside you](https://www.pcgamer.com/games/action/deathbound-is-a-party-based-soulslike-but-everyone-in-the-party-lives-inside-you)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
