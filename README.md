@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Shut up and take my money](http://9gag.com/gag/aO8VRNv)
- - ⏩ [When Your World Fall&#39;s Apart](http://9gag.com/gag/aD2oOYK)
- - 👉 [Easy peasy](http://9gag.com/gag/a9y7X8D)<!-- MEMES:END -->
+ - 💣 [There is a reason why they total the car](http://9gag.com/gag/adBje29)
+ - ⏩ [Japan no! Have sex but with other people!](http://9gag.com/gag/a34BN2e)
+ - 👉 [A completely normal phenomenon](http://9gag.com/gag/aKGq83Q)<!-- MEMES:END -->
 
 ---
 
