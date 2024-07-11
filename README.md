@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to manage a road trip move](https://www.theverge.com/24173840/moving-long-distance-tips-tricks-how-to)
- - [Retro gold rush: which emulators are on the App Store, and what&#39;s coming](https://appleinsider.com/articles/24/04/26/retro-gold-rush-these-emulators-are-coming-to-the-app-store-soon?utm_medium=rss)
- - [Android 15 will let you control your Matter smart home devices over Thread, but only on some phones](https://www.androidauthority.com/android-15-thread-network-3459010/)<!-- TECH:END -->
+ - [Google is testing Snapchat-like filters for Messages, here’s our first look &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-messages-filters-apk-teardown-3459727/)
+ - [Apple really wants you to buy a Watch SE for your kid](https://www.androidauthority.com/apple-wants-you-buy-watch-for-kid-3459785/)
+ - [Apple has big camera upgrades lined up through iPhone 19 Pro](https://appleinsider.com/articles/24/07/11/apple-has-big-upgrades-in-mind-for-the-cameras-all-the-way-through-the-iphone-19-pro?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
