@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Whether or not you can see a penis in Dragon Age: The Veilguard is a spoiler, apparently](https://www.pcgamer.com/games/rpg/whether-or-not-you-can-see-a-penis-in-dragon-age-the-veilguard-is-a-spoiler-apparently)
  - [Riot was working on a Smash Bros-style fighting game, but MultiVersus helped convince it to pull the plug](https://www.pcgamer.com/games/fighting/riot-was-working-on-a-smash-bros-style-fighting-game-but-multiversus-helped-convince-it-to-pull-the-plug)
- - [Surprise! Dota 2 has a built-in fighting game now and it actually looks pretty good](https://www.pcgamer.com/games/moba/surprise-dota-2-has-a-built-in-fighting-game-now-and-it-actually-looks-pretty-good)
- - [Board games, books, movies, and more are buy 2, get 1 free at Target](https://www.polygon.com/deals/24195183/target-buy-two-get-one-free-gaming-tabletop-deal-sale)<!-- GAME:END -->
+ - [Surprise! Dota 2 has a built-in fighting game now and it actually looks pretty good](https://www.pcgamer.com/games/moba/surprise-dota-2-has-a-built-in-fighting-game-now-and-it-actually-looks-pretty-good)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
