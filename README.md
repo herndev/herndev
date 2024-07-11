@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Attempted hijacking](http://9gag.com/gag/a7o7A1x)
- - ⏩ [Yes he is](http://9gag.com/gag/aXP9eg6)
- - 👉 [For real](http://9gag.com/gag/aD2oMB9)<!-- MEMES:END -->
+ - 💣 [It&#39;s never too late I guess](http://9gag.com/gag/a5Q72YG)
+ - ⏩ [Grey dress](http://9gag.com/gag/apRvVnn)
+ - 👉 [Moonwalking into Oval](http://9gag.com/gag/aE07OBM)<!-- MEMES:END -->
 
 ---
 
