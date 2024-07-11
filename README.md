@@ -40,8 +40,8 @@
 
 <!-- TECH:START -->
  - [Google warns that older watch faces won’t work with Wear OS 5](https://www.androidauthority.com/wear-os-5-watch-face-format-compatibility-3459557/)
- - [How to add sensors to Apple Watch and iPhone for an improved cycling experience](https://appleinsider.com/inside/apple-watch/tips/how-to-add-sensors-to-apple-watch-and-iphone-for-an-improved-cycling-experience?utm_medium=rss)
- - [An international study of 642 websites and mobile apps offering subscription services finds ~76% with at least one possible dark pattern and ~67% with multiple &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/240710/p37#a240710p37)<!-- TECH:END -->
+ - [Today&#39;s Wordle Hints, Answer and Help for July 11, #1118](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-july-11-1118/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Connections Hints, Answers and Help for July 11, #396](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-july-11-396/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
