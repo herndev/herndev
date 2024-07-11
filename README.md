@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [FF14 player counts around 21 hours of cutscenes in Dawntrail—making it the second longest expansion next to Endwalker—and I can&#39;t for the life of me tell you why](https://www.pcgamer.com/games/final-fantasy/ff14-player-counts-around-21-hours-of-cutscenes-in-dawntrail-making-it-the-second-longest-expansion-next-to-endwalker-and-i-can-t-for-the-life-of-me-tell-you-why)
- - [Today&#39;s Wordle answer for Thursday, July 11](https://www.pcgamer.com/games/puzzle/wordle-answer-today-july-11-2024)
- - [Whether or not we&#39;ll see a penis in Dragon Age: The Veilguard is a spoiler, apparently](https://www.pcgamer.com/games/rpg/whether-or-not-you-can-see-a-penis-in-dragon-age-the-veilguard-is-a-spoiler-apparently)<!-- GAME:END -->
+ - [Arm has developed a new shader-based upscaler using AMD&#39;s open source FSR 2.2 as its starting base](https://www.pcgamer.com/hardware/arm-has-developed-a-new-shader-based-upscaler-using-amds-open-source-fsr-22-as-its-starting-base)
+ - [Darktide&#39;s next update promises a complete overhaul of weapon progression: &#39;We took the philosophy with this game to not be afraid of doing quite massive changes&#39;](https://www.pcgamer.com/games/fps/darktides-next-update-promises-a-complete-overhaul-of-weapon-progression-we-took-the-philosophy-with-this-game-to-not-be-afraid-of-doing-quite-massive-changes)
+ - [As WoW returns to China, NetEase has placed a $14,000 bounty on reports that see cheat peddlers punished by law](https://www.pcgamer.com/games/world-of-warcraft/as-wow-returns-to-china-netease-has-placed-a-14-000-bounty-on-reports-that-see-cheat-creators-punished-by-law)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
