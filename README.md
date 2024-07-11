@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [When Your World Fall&#39;s Apart](http://9gag.com/gag/aD2oOYK)
- - ⏩ [Easy peasy](http://9gag.com/gag/a9y7X8D)
- - 👉 [That smile](http://9gag.com/gag/amo9p46)<!-- MEMES:END -->
+ - 💣 [Hummmmmmmm](http://9gag.com/gag/an7NDjo)
+ - ⏩ [Moonwalking into Oval](http://9gag.com/gag/aE07OBM)
+ - 👉 [Let me guess... African as king of Rome and put some rap battle music...](http://9gag.com/gag/aoy9npe)<!-- MEMES:END -->
 
 ---
 
