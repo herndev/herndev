@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Moonwalking into Oval](http://9gag.com/gag/aE07OBM)
- - ⏩ [And Another One &lpar;link in comments&rpar;](http://9gag.com/gag/aNDn4Qb)
- - 👉 [Pedo teacher busted](http://9gag.com/gag/agmVxq6)<!-- MEMES:END -->
+ - 💣 [Earth lost one more idiot.](http://9gag.com/gag/aZZMQOz)
+ - ⏩ [There is a reason why they total the car](http://9gag.com/gag/adBje29)
+ - 👉 [Activist.](http://9gag.com/gag/aQz8277)<!-- MEMES:END -->
 
 ---
 
