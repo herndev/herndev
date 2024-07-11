@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Aliens among us](http://9gag.com/gag/aYQeRK2)
- - ⏩ [Did the Discounts Justify the Cost?](http://9gag.com/gag/aE07O0o)
- - 👉 [This is probably how our dreams actually looks like](http://9gag.com/gag/aYQeRYx)<!-- MEMES:END -->
+ - 💣 [That&#39;s some really neat drawing.](http://9gag.com/gag/axyjAMD)
+ - ⏩ [???????????](http://9gag.com/gag/aW469DZ)
+ - 👉 [The making of Daft Punk&#39;s &#39;Around the World&#39; music video in 1997, directed by Michael Gondry.](http://9gag.com/gag/ae9GdMj)<!-- MEMES:END -->
 
 ---
 
