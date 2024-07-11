@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Whoop users can now track a healthier take on weight and body mass](https://www.androidauthority.com/whoop-track-body-composition-weight-trends-3459661/)
- - [What does Oura think of the Samsung Galaxy Ring?](https://www.androidauthority.com/oura-reacts-to-samsung-galaxy-ring-launch-3459203/)
- - [Starlink Mini is now available for anyone in the US to roam](https://www.theverge.com/2024/7/11/24196294/starlink-mini-available-us-price-specs)<!-- TECH:END -->
+ - [Shuttered auto plants will become EV factories thanks to $1.7 billion Biden program](https://www.theverge.com/2024/7/11/24195811/biden-ev-factory-retrofit-conversion-grant-funding)
+ - [Tencent-backed Shift Up closed up ~18% after raising $320M in its Seoul IPO, the largest South Korean IPO by a gaming company since Krafton raised $3.8B in 2021 &lpar;Bloomberg&rpar;](http://www.techmeme.com/240711/p7#a240711p7)
+ - [PSA: Despite the IP48 rating, Samsung’s new foldables aren’t dust-resistant](https://www.androidauthority.com/psa-samsung-galaxy-z-flip-6-fold-6-not-dust-resistant-3459683/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
