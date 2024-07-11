@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [FF14 player counts around 21 hours of cutscenes in Dawntrail—making it the second longest expansion next to Endwalker—and I can&#39;t for the life of me tell you why](https://www.pcgamer.com/games/final-fantasy/ff14-player-counts-around-21-hours-of-cutscenes-in-dawntrail-making-it-the-second-longest-expansion-next-to-endwalker-and-i-can-t-for-the-life-of-me-tell-you-why)
  - [Today&#39;s Wordle answer for Thursday, July 11](https://www.pcgamer.com/games/puzzle/wordle-answer-today-july-11-2024)
- - [Whether or not we&#39;ll see a penis in Dragon Age: The Veilguard is a spoiler, apparently](https://www.pcgamer.com/games/rpg/whether-or-not-you-can-see-a-penis-in-dragon-age-the-veilguard-is-a-spoiler-apparently)
- - [Riot was working on a Smash Bros-style fighting game, but MultiVersus helped convince it to pull the plug](https://www.pcgamer.com/games/fighting/riot-was-working-on-a-smash-bros-style-fighting-game-but-multiversus-helped-convince-it-to-pull-the-plug)<!-- GAME:END -->
+ - [Whether or not we&#39;ll see a penis in Dragon Age: The Veilguard is a spoiler, apparently](https://www.pcgamer.com/games/rpg/whether-or-not-you-can-see-a-penis-in-dragon-age-the-veilguard-is-a-spoiler-apparently)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
