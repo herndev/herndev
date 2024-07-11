@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Not sure what game to play? Leave a comment, we’ll help](https://www.polygon.com/gaming/24194971/best-game-play-tonight-recommendations-pc)
- - [AI predicts that AI job automation is beneficial—&#39;This is absurd—they might as well be shaking a Magic 8 ball and writing down the answers it displays&#39; says expert](https://www.pcgamer.com/software/ai/ai-predicts-that-ai-job-automation-is-beneficialthis-is-absurdthey-might-as-well-be-shaking-a-magic-8-ball-and-writing-down-the-answers-it-displays-says-expert)
- - [MSI has some great laptop deals going on this Prime Day](https://www.pcgamer.com/hardware/gaming-laptops/msi-has-some-great-laptop-deals-going-on-this-prime-day)<!-- GAME:END -->
+ - [Free Play Days – EA Sports FC 24, MLB The Show 24, The Crew Motorfest and AEW: Fight Forever](https://news.xbox.com/en-us/2024/07/11/free-play-days-ea-sports-fc-24-mlb-the-show-24-the-crew-motorfest-and-aew-fight-forever/)
+ - [How To Increase Accessory Slots In Palworld](https://kotaku.com/palworld-sakurajima-unlock-extra-accessory-slots-1851586968)
+ - [Suicide Squad Is Already Being Given Away For Free On PC During Prime Day](https://kotaku.com/amazon-prime-day-2024-suicide-squad-tomb-raider-free-1851586862)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
