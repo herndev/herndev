@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Honkai: Star Rail codes for July 2024](https://www.polygon.com/honkai-star-rail-guides/23699079/code-redeem-redemption-gift-stellar-jade)
- - [This Pokémon Streamer Has A Comeback Story For The Ages](https://kotaku.com/pokemon-shiny-hunting-treecko-stream-two-reset-aelfgar-1851588124)
- - [Overwatch 2 is teasing its new hero in game — with some big lore implications](https://www.polygon.com/24196032/overwatch-2-space-ranger-teaser-lore-jiayi)<!-- GAME:END -->
+ - [Deathbound is a &#39;party-based soulslike,&#39; but everyone in the party lives inside you](https://www.pcgamer.com/games/action/deathbound-is-a-party-based-soulslike-but-everyone-in-the-party-lives-inside-you)
+ - [Elden Ring Fans Let Down By The DLC’s Ending Are Missing The Point](https://kotaku.com/elden-ring-shadow-erdtree-lore-disappointed-fans-ending-1851588208)
+ - [8BitDo celebrates its 11th anniversary with a massive sale and gold SN30 Pro controllers](https://www.polygon.com/deals/2024/7/11/24196710/8bitdo-sale-gold-sn30-pro-controllers-pro-2-discount)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
