@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Florida digital driver’s licenses are broken until at least next year](https://www.androidauthority.com/florida-digital-drivers-license-3459956/)
- - [You can’t screw up Arduino’s new DIY electronics kit](https://www.theverge.com/2024/7/11/24196432/arduino-electronics-starter-kit-educational)
- - [OnePlus’ next mid-ranger will get better software support than the OnePlus 12](https://www.androidauthority.com/oneplus-nord-4-software-3459914/)<!-- TECH:END -->
+ - [Max might not be the one to watch after all](https://www.theverge.com/2024/7/11/24196475/wbd-hbo-originals-max-the-penguin-dune-prophecy)
+ - [Arab and Muslim workers at Meta detail frustrations over Meta&#39;s handling of internal discussions on the Israel-Hamas war, worrying it led to bad product choices &lpar;Wired&rpar;](http://www.techmeme.com/240711/p23#a240711p23)
+ - [Florida digital driver’s licenses are broken until at least next year](https://www.androidauthority.com/florida-digital-drivers-license-3459956/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
