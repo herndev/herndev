@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [24 Of Our Favorite Forgotten Games Trapped On The Xbox 360](https://kotaku.com/xbox-360-store-shutdown-offline-july-2024-1851587402)
- - [&#39;Not a hoax!&#39;—Valve writers confirm the official Team Fortress 2 comic will continue, after over 7 years on ice](https://www.pcgamer.com/games/fps/not-a-hoaxvalve-writers-confirm-the-official-team-fortress-2-comic-will-continue-over-7-years-after-the-last-issue)
- - [Fans React As Angry Birds Seemingly Confirms Gay Bird Is Just An Ally](https://kotaku.com/angry-birds-chuck-gay-ally-pride-post-mighty-eagle-1851587700)<!-- GAME:END -->
+ - [Doom Fans Go Too Far, Port The Shooter To A Sex Toy](https://kotaku.com/doom-port-sex-toy-electronic-fleshlight-mod-weird-1851587885)
+ - [Throwback Zombies-style shooter Hellbreach: Vegas drops an updated demo to announce the full launch coming in August](https://www.pcgamer.com/games/fps/throwback-zombies-style-shooter-hellbreach-vegas-drops-an-updated-demo-to-announce-the-full-launch-coming-in-august)
+ - [24 Of Our Favorite Forgotten Games Trapped On The Xbox 360](https://kotaku.com/xbox-360-store-shutdown-offline-july-2024-1851587402)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
