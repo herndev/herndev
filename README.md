@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Hummmmmmmm](http://9gag.com/gag/an7NDjo)
- - ⏩ [Moonwalking into Oval](http://9gag.com/gag/aE07OBM)
- - 👉 [Let me guess... African as king of Rome and put some rap battle music...](http://9gag.com/gag/aoy9npe)<!-- MEMES:END -->
+ - 💣 [There is a reason why they total the car](http://9gag.com/gag/adBje29)
+ - ⏩ [Japan no! Have sex but with other people!](http://9gag.com/gag/a34BN2e)
+ - 👉 [Bruce Lee way of punching demonstrated by Aaron Allen, the former bodyguard of Tupac Shakur](http://9gag.com/gag/ae9G745)<!-- MEMES:END -->
 
 ---
 
