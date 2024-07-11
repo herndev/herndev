@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Max might not be the one to watch after all](https://www.theverge.com/2024/7/11/24196475/wbd-hbo-originals-max-the-penguin-dune-prophecy)
- - [Arab and Muslim workers at Meta detail frustrations over Meta&#39;s handling of internal discussions on the Israel-Hamas war, worrying it led to bad product choices &lpar;Wired&rpar;](http://www.techmeme.com/240711/p23#a240711p23)
- - [Florida digital driver’s licenses are broken until at least next year](https://www.androidauthority.com/florida-digital-drivers-license-3459956/)<!-- TECH:END -->
+ - [Heritage Foundation insists it was not hacked by ‘gay furries’](https://www.theverge.com/2024/7/11/24196554/siegedsec-heritage-foundation-project-2025-hack-gay-furry)
+ - [ARM unveils Accuracy Super Resolution, an upscaler for mobile gaming based on AMD&#39;s FidelityFX Super Resolution 2, available under the MIT open-source license &lpar;Andrew Cunningham/Ars Technica&rpar;](http://www.techmeme.com/240711/p25#a240711p25)
+ - [Galaxy Z Fold 6 makes fingerprint setup easier and more convenient](https://www.androidauthority.com/galaxy-z-fold-6-fingerprint-3460018/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
