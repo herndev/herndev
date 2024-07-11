@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Ayaneo Retro Mini AM02](https://www.pcgamer.com/hardware/gaming-pcs/ayaneo-retro-mini-am02)
- - [Las Vegas&#39; dystopia-sphere, powered by 150 Nvidia GPUs and drawing up to 28,000,000 watts, is both a testament to the hubris of humanity and an admittedly impressive technical feat](https://www.pcgamer.com/hardware/las-vegas-dystopia-sphere-powered-by-150-nvidia-gpus-and-drawing-up-to-28000000-watts-is-both-a-testament-to-the-hubris-of-humanity-and-an-admittedly-impressive-technical-feat)
- - [Concord Beta Early Access: Preload and server times, PC specs, and more detailed](https://blog.playstation.com/2024/07/11/concord-beta-early-access-preload-and-server-times-pc-specs-and-more-detailed/)<!-- GAME:END -->
+ - [Not sure what game to play? Leave a comment, we’ll help](https://www.polygon.com/gaming/24194971/best-game-play-tonight-recommendations-pc)
+ - [AI predicts that AI job automation is beneficial—&#39;This is absurd—they might as well be shaking a Magic 8 ball and writing down the answers it displays&#39; says expert](https://www.pcgamer.com/software/ai/ai-predicts-that-ai-job-automation-is-beneficialthis-is-absurdthey-might-as-well-be-shaking-a-magic-8-ball-and-writing-down-the-answers-it-displays-says-expert)
+ - [MSI has some great laptop deals going on this Prime Day](https://www.pcgamer.com/hardware/gaming-laptops/msi-has-some-great-laptop-deals-going-on-this-prime-day)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
