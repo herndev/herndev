@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Deathbound Launching this Summer on Xbox](https://news.xbox.com/en-us/2024/07/11/deathbound-launching-this-summer-on-xbox/)
- - [Sony’s new hero shooter Concord is playable this weekend for all PS Plus subscribers](https://www.polygon.com/24196536/concord-early-access-beta-dates-ps-plus-ps5-pc)
- - [Tencent&#39;s free-to-play co-op shooter Synced is closing just a year after it launched](https://www.pcgamer.com/games/fps/tencents-free-to-play-co-op-shooter-synced-is-closing-just-a-year-after-it-launched)<!-- GAME:END -->
+ - [24 Of Our Favorite Forgotten Games Trapped On The Xbox 360](https://kotaku.com/xbox-360-store-shutdown-offline-july-2024-1851587402)
+ - [&#39;Not a hoax!&#39;—Valve writers confirm the official Team Fortress 2 comic will continue, after over 7 years on ice](https://www.pcgamer.com/games/fps/not-a-hoaxvalve-writers-confirm-the-official-team-fortress-2-comic-will-continue-over-7-years-after-the-last-issue)
+ - [Fans React As Angry Birds Seemingly Confirms Gay Bird Is Just An Ally](https://kotaku.com/angry-birds-chuck-gay-ally-pride-post-mighty-eagle-1851587700)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
