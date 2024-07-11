@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Redbox owner Chicken Soup for the Soul Entertainment is granted Chapter 7 bankruptcy, paving the way for shutting down the company and liquidating its assets &lpar;Janko Roettgers/Lowpass&rpar;](http://www.techmeme.com/240710/p36#a240710p36)
- - [Redbox’s disc rentals are over](https://www.theverge.com/2024/7/10/24196063/redbox-chicken-soup-bankruptcy-liquidate)
- - [Florida’s digital ID app has suddenly disappeared](https://www.theverge.com/2024/7/10/24196044/florida-smart-id-digital-state-id-app-shut-down)<!-- TECH:END -->
+ - [An international study of 642 websites and mobile apps offering subscription services finds ~76% with at least one possible dark pattern and ~67% with multiple &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/240710/p37#a240710p37)
+ - [Hot deal: The Amazon Echo Buds are just $25 right now!](https://www.androidauthority.com/amazon-echo-buds-deal-3459551/)
+ - [Redbox owner Chicken Soup for the Soul Entertainment is granted Chapter 7 bankruptcy, paving the way for shutting down the company and liquidating its assets &lpar;Janko Roettgers/Lowpass&rpar;](http://www.techmeme.com/240710/p36#a240710p36)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
