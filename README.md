@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Trevor](http://9gag.com/gag/a9y7DYL)
- - ⏩ [Catch](http://9gag.com/gag/a9y7BMj)
- - 👉 [Let me guess... African as king of Rome and put some rap battle music...](http://9gag.com/gag/aoy9npe)<!-- MEMES:END -->
+ - 💣 [Bruce Lee way of punching demonstrated by Aaron Allen, the former bodyguard of Tupac Shakur](http://9gag.com/gag/ae9G745)
+ - ⏩ [Different abby, same cocks](http://9gag.com/gag/aE07Xmo)
+ - 👉 [This is probably how our dreams actually looks like](http://9gag.com/gag/aYQeRYx)<!-- MEMES:END -->
 
 ---
 
