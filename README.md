@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Japan no! Have sex but with other people!](http://9gag.com/gag/a34BN2e)
- - ⏩ [There is a reason why they total the car](http://9gag.com/gag/adBje29)
- - 👉 [Bruce Lee way of punching demonstrated by Aaron Allen, the former bodyguard of Tupac Shakur](http://9gag.com/gag/ae9G745)<!-- MEMES:END -->
+ - 💣 [Only in Japan it&#39;s safe to test](http://9gag.com/gag/aD2oMbd)
+ - ⏩ [Catch](http://9gag.com/gag/a9y7BMj)
+ - 👉 [Imagine busking on the street and the artist of the song you are singing randomly walks by...](http://9gag.com/gag/aVvPRRd)<!-- MEMES:END -->
 
 ---
 
