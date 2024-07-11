@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [So many questions. What is this disgusting sport? Where is it? How do I sign up?](http://9gag.com/gag/aXP922P)
- - ⏩ [A completely normal phenomenon](http://9gag.com/gag/aKGq83Q)
- - 👉 [Pedo teacher busted](http://9gag.com/gag/agmVxq6)<!-- MEMES:END -->
+ - 💣 [Shut up and take my money](http://9gag.com/gag/aO8VRNv)
+ - ⏩ [When Your World Fall&#39;s Apart](http://9gag.com/gag/aD2oOYK)
+ - 👉 [Easy peasy](http://9gag.com/gag/a9y7X8D)<!-- MEMES:END -->
 
 ---
 
