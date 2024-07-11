@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Let me guess... African as king of Rome and put some rap battle music...](http://9gag.com/gag/aoy9npe)
- - ⏩ [A completely normal phenomenon](http://9gag.com/gag/aKGq83Q)
+ - 💣 [The only correct response](http://9gag.com/gag/aAy128R)
+ - ⏩ [And Another One &lpar;link in comments&rpar;](http://9gag.com/gag/aNDn4Qb)
  - 👉 [Pedo teacher busted](http://9gag.com/gag/agmVxq6)<!-- MEMES:END -->
 
 ---
