@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Planet Coaster’s slippery sequel lets you build your own water park](https://www.theverge.com/2024/7/11/24196770/planet-coaster-2-water-park-rides-waterslides)
- - [The best ebook reader to buy right now](https://www.theverge.com/23769068/best-ebook-readers)
- - [Google Pixel 9: all of the leaks and rumors so far](https://www.theverge.com/24196571/google-pixel-9-pro-xl-9a-fold-rumors-leaks-camera)<!-- TECH:END -->
+ - [Senators introduce COPIED Act to push for better watermarking on AI content](https://www.theverge.com/2024/7/11/24196769/copied-act-cantwell-blackburn-heinrich-ai-journalists-artists)
+ - [Nolah Mattresses Review 2024: A Bed for Everyone](https://www.cnet.com/health/sleep/nolah-mattresses-review/#ftag=CAD590a51e)
+ - [Why Solar Panels Can Add Thousands to Your Home&#39;s Value](https://www.cnet.com/home/energy-and-utilities/how-solar-panels-can-add-thousands-to-your-homes-value/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
