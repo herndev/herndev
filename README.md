@@ -46,7 +46,7 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The only correct response](http://9gag.com/gag/aAy128R)
+ - 💣 [Moonwalking into Oval](http://9gag.com/gag/aE07OBM)
  - ⏩ [And Another One &lpar;link in comments&rpar;](http://9gag.com/gag/aNDn4Qb)
  - 👉 [Pedo teacher busted](http://9gag.com/gag/agmVxq6)<!-- MEMES:END -->
 
