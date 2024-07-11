@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Earth lost one more idiot.](http://9gag.com/gag/aZZMQOz)
- - ⏩ [There is a reason why they total the car](http://9gag.com/gag/adBje29)
- - 👉 [Activist.](http://9gag.com/gag/aQz8277)<!-- MEMES:END -->
+ - 💣 [Let me guess... African as king of Rome and put some rap battle music...](http://9gag.com/gag/aoy9npe)
+ - ⏩ [Pedo teacher busted](http://9gag.com/gag/agmVxq6)
+ - 👉 [The only correct response](http://9gag.com/gag/aAy128R)<!-- MEMES:END -->
 
 ---
 
