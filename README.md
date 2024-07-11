@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Retro gold rush: which emulators are on the App Store, and what&#39;s coming](https://appleinsider.com/articles/24/04/26/retro-gold-rush-these-emulators-are-coming-to-the-app-store-soon?utm_medium=rss)
- - [Regard, which saves physicians time by analyzing patients&#39; health data using AI, raised a $61M Series B led by Oak HC/FT, a source says at a $350M valuation &lpar;Marina Temkin/TechCrunch&rpar;](http://www.techmeme.com/240711/p19#a240711p19)
- - [Pixel 9 series prices leak and it’s not good news](https://www.androidauthority.com/pixel-9-series-france-prices-3459857/)<!-- TECH:END -->
+ - [Google Wallet is working on a confusing new Quick Settings tile &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-wallet-quick-settings-3459881/)
+ - [Tesla reportedly delaying its robotaxi reveal until October](https://www.theverge.com/2024/7/11/24196537/tesla-delay-robotaxi-reveal-event-october)
+ - [One of our favorite robovacs is down to its all-time low ahead of Prime Day](https://www.theverge.com/2024/7/11/24195814/irobot-roomba-j7-plus-apple-earpods-usb-c-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
