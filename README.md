@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Free Play Days – EA Sports FC 24, MLB The Show 24, The Crew Motorfest and AEW: Fight Forever](https://news.xbox.com/en-us/2024/07/11/free-play-days-ea-sports-fc-24-mlb-the-show-24-the-crew-motorfest-and-aew-fight-forever/)
- - [How To Increase Accessory Slots In Palworld](https://kotaku.com/palworld-sakurajima-unlock-extra-accessory-slots-1851586968)
- - [Suicide Squad Is Already Being Given Away For Free On PC During Prime Day](https://kotaku.com/amazon-prime-day-2024-suicide-squad-tomb-raider-free-1851586862)<!-- GAME:END -->
+ - [The actor behind Shadow of the Erdtree&#39;s best NPC didn&#39;t think videogame voice acting was all that until &#39;mysterious&#39; Miyazaki opened his eyes](https://www.pcgamer.com/games/rpg/the-actor-behind-shadow-of-the-erdtrees-best-npc-didnt-think-videogame-voice-acting-was-all-that-until-mysterious-miyazaki-opened-his-eyes)
+ - [How To Defeat Saya &amp; Selyne In Palworld](https://kotaku.com/palworld-sakurajima-saya-selyne-faction-boss-1851587019)
+ - [Alright, who wants to spot me $1,000 for this absurdly sumptuous Elden Ring lore book?](https://www.pcgamer.com/games/rpg/alright-who-wants-to-spot-me-dollar1000-for-this-absurdly-sumptuous-elden-ring-lore-book)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
