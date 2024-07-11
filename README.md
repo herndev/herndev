@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Journalist think The Red Baron&#39;s Aircraft is a Nazi Aircraft](http://9gag.com/gag/an7NE1B)
+ - 💣 [Japan no! Have sex but with other people!](http://9gag.com/gag/a34BN2e)
  - ⏩ [There is a reason why they total the car](http://9gag.com/gag/adBje29)
- - 👉 [Moonwalking into Oval](http://9gag.com/gag/aE07OBM)<!-- MEMES:END -->
+ - 👉 [Bruce Lee way of punching demonstrated by Aaron Allen, the former bodyguard of Tupac Shakur](http://9gag.com/gag/ae9G745)<!-- MEMES:END -->
 
 ---
 
