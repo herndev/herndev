@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Moonwalking into Oval](http://9gag.com/gag/aE07OBM)
- - ⏩ [There is a reason why they total the car](http://9gag.com/gag/adBje29)
- - 👉 [Japan no! Have sex but with other people!](http://9gag.com/gag/a34BN2e)<!-- MEMES:END -->
+ - 💣 [There is a reason why they total the car](http://9gag.com/gag/adBje29)
+ - ⏩ [My fellow dark elf](http://9gag.com/gag/a4PYAq1)
+ - 👉 [And Another One &lpar;link in comments&rpar;](http://9gag.com/gag/aNDn4Qb)<!-- MEMES:END -->
 
 ---
 
