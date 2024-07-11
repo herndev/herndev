@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Starlink Mini is now available for anyone in the US to roam](https://www.theverge.com/2024/7/11/24196294/starlink-mini-available-us-price-specs)
- - [How the SCOTUS NetChoice ruling on social media platforms&#39; First Amendment rights could affect a host of tech legislation, including kids&#39; online safety laws &lpar;Lauren Feiner/The Verge&rpar;](http://www.techmeme.com/240711/p5#a240711p5)
- - [Nasscom expects India&#39;s digital talent gap to widen to ~29% in 2028 and says India needs 1M+ engineers with advanced AI skills and more over the next 2-3 years &lpar;Ruchi Bhatia/Bloomberg&rpar;](http://www.techmeme.com/240711/p4#a240711p4)<!-- TECH:END -->
+ - [Whoop users can now track a healthier take on weight and body mass](https://www.androidauthority.com/whoop-track-body-composition-weight-trends-3459661/)
+ - [What does Oura think of the Samsung Galaxy Ring?](https://www.androidauthority.com/oura-reacts-to-samsung-galaxy-ring-launch-3459203/)
+ - [Starlink Mini is now available for anyone in the US to roam](https://www.theverge.com/2024/7/11/24196294/starlink-mini-available-us-price-specs)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
