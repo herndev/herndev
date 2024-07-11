@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Florida’s digital ID app has suddenly disappeared](https://www.theverge.com/2024/7/10/24196044/florida-smart-id-digital-state-id-app-shut-down)
- - [Elon Musk’s Neuralink Is Ready to Implant a Second Volunteer](https://www.wired.com/story/elon-musk-neuralink-implant-second-volunteer/)
- - [The best Prime Day deals you can already get](https://www.theverge.com/24186583/amazon-prime-day-2024-best-tech-deals-sales)<!-- TECH:END -->
+ - [Redbox owner Chicken Soup for the Soul Entertainment is granted Chapter 7 bankruptcy, paving the way for shutting down the company and liquidating its assets &lpar;Janko Roettgers/Lowpass&rpar;](http://www.techmeme.com/240710/p36#a240710p36)
+ - [Redbox’s disc rentals are over](https://www.theverge.com/2024/7/10/24196063/redbox-chicken-soup-bankruptcy-liquidate)
+ - [Florida’s digital ID app has suddenly disappeared](https://www.theverge.com/2024/7/10/24196044/florida-smart-id-digital-state-id-app-shut-down)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
