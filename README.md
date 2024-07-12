@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft’s Copilot AI now understands your terrible handwriting](https://www.theverge.com/2024/7/12/24197009/microsoft-onenote-copilot-inked-notes-handwriting-recognition)
- - [Hanover, Germany-based HERO Software, whose SaaS acts as an operating system for trade SMEs like plumbing, raised a &amp;euro;40M Series B led by Eight Roads Ventures &lpar;Cate Lawrence/Tech.eu&rpar;](http://www.techmeme.com/240712/p3#a240712p3)
- - [Best Savings Rates Today -- APYs Remain High Following Inflation Data, July 12, 2024](https://www.cnet.com/personal-finance/banking/todays-best-savings-rates-july-12-2024/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple beats lawsuit over forcing developers to use its closed ecosystem](https://appleinsider.com/articles/24/07/12/apple-beats-lawsuit-over-forcing-developers-to-use-its-closed-ecosystem?utm_medium=rss)
+ - [Samsung Galaxy Z Flip 5 vs Z Flip 6: What’s the difference and should you upgrade?](https://www.androidauthority.com/samsung-galaxy-z-flip-5-vs-flip-6-3459289/)
+ - [Poll result: The definitive anecdotal proof that Pixel phones overheat](https://www.androidauthority.com/pixel-overheating-poll-3460039/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
