@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [The designer of mobile hits Fruit Ninja and Jetpack Joyride is making a deep-sea Lovecraftian horror game](https://www.pcgamer.com/games/roguelike/the-designer-of-mobile-hits-fruit-ninja-and-jetpack-joyride-is-making-a-deep-sea-lovecraftian-horror-game)
  - [You don&#39;t lose all your progress when a Once Human season ends—here&#39;s how the survival game&#39;s server resets work](https://www.pcgamer.com/games/survival-crafting/once-human-season-reset)
- - [The Animal Kingdom director unpacks the year’s most fascinating sci-fi movie](https://www.polygon.com/24100927/the-animal-kingdom-movie-french-effects-creature-design-meaning-hulu)
- - [Deathbound is a &#39;party-based soulslike,&#39; but everyone in the party lives inside you](https://www.pcgamer.com/games/action/deathbound-is-a-party-based-soulslike-but-everyone-in-the-party-lives-inside-you)<!-- GAME:END -->
+ - [The Animal Kingdom director unpacks the year’s most fascinating sci-fi movie](https://www.polygon.com/24100927/the-animal-kingdom-movie-french-effects-creature-design-meaning-hulu)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
