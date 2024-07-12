@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How Dune: Awakening is Rewriting Decades of Dune](https://news.xbox.com/en-us/2024/07/12/dune-awakening-rewriting-decades-of-dune/)
- - [Analogue Pocket Gets Extremely Limited-Edition Aluminum Versions For $500](https://kotaku.com/analogue-pocket-aluminum-limited-edition-price-preorder-1851589864)
- - [Shadow Of The Erdtree&#39;s Best Weapons And Equipment &lpar;And Where To Find Them&rpar;](https://kotaku.com/elden-ring-shadow-erdtree-best-weapons-armor-talismans-1851573015)<!-- GAME:END -->
+ - [Celebrating One Year of Antstream Arcade on Xbox](https://news.xbox.com/en-us/2024/07/12/celebrating-one-year-of-antstream-arcade-on-xbox/)
+ - [The First Descendant will change its in-game icons following accusations that it swiped them from Destiny 2](https://www.pcgamer.com/games/third-person-shooter/the-first-descendant-will-change-its-in-game-icons-following-accusations-that-it-swiped-them-from-destiny-2)
+ - [These Transformers Didn&#39;t Make The Cut For Blizzard&#39;s Overwatch 2 Crossover](https://kotaku.com/overwatch-2-transformers-pharah-lucio-wrecking-ball-1851590058)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
