@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Mohammed, who had just arrived in UK from Bangladesh, tried to abuse a 13 year old British girl because age doesn&#39;t matter to him.](http://9gag.com/gag/awyxeL8)
- - ⏩ [Yes he is](http://9gag.com/gag/aXP9eg6)
- - 👉 [You heard that little bud?](http://9gag.com/gag/aE07E4p)<!-- MEMES:END -->
+ - 💣 [You heard that little bud?](http://9gag.com/gag/aE07E4p)
+ - ⏩ [This is probably how our dreams actually looks like](http://9gag.com/gag/aYQeRYx)
+ - 👉 [In the Original Cinderella story, Stepsister cut their Toes to fit in the Sandal](http://9gag.com/gag/aMVGyRM)<!-- MEMES:END -->
 
 ---
 
