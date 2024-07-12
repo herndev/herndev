@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Physics](http://9gag.com/gag/a87MnKY)
- - ⏩ [Listen fat ass!](http://9gag.com/gag/aVvPBPP)
- - 👉 [The lies cannot continue](http://9gag.com/gag/agmVdZv)<!-- MEMES:END -->
+ - 💣 [For real](http://9gag.com/gag/aD2oMB9)
+ - ⏩ [Mohammed, who had just arrived in UK from Bangladesh, tried to abuse a 13 year old British girl because age doesn&#39;t matter to him.](http://9gag.com/gag/awyxeL8)
+ - 👉 [The return of the king](http://9gag.com/gag/aMVGq9x)<!-- MEMES:END -->
 
 ---
 
