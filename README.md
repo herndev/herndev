@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Signal plans to roll out a beta version of its desktop apps that tightens the security of how it stores plain text encryption keys, after downplaying the issue &lpar;Lawrence Abrams/BleepingComputer&rpar;](http://www.techmeme.com/240711/p28#a240711p28)
  - [Apple Pencil with USB-C now sold refurbished, but there are better deals](https://appleinsider.com/articles/24/07/11/apple-pencil-with-usb-c-now-sold-refurbished-but-there-are-better-deals?utm_medium=rss)
- - [SoftBank buys struggling UK-based chip company Graphcore with full regulatory approval granted; the once touted Nvidia rival was valued at ~$2.8B in Dec. 2020 &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/240711/p27#a240711p27)
- - [The AI-focused COPIED Act would make removing digital watermarks illegal](https://www.theverge.com/2024/7/11/24196769/copied-act-cantwell-blackburn-heinrich-ai-journalists-artists)<!-- TECH:END -->
+ - [SoftBank buys struggling UK-based chip company Graphcore with full regulatory approval granted; the once touted Nvidia rival was valued at ~$2.8B in Dec. 2020 &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/240711/p27#a240711p27)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
