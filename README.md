@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Don&#39;t get drunk on office party](http://9gag.com/gag/aKGqN1g)
- - ⏩ [I go to Japan](http://9gag.com/gag/aYQeZbw)
- - 👉 [Mhm . .](http://9gag.com/gag/avyPXNZ)<!-- MEMES:END -->
+ - 💣 [This is probably how our dreams actually looks like](http://9gag.com/gag/aYQeRYx)
+ - ⏩ [Happy for 14 seconds](http://9gag.com/gag/aE07EAM)
+ - 👉 [Interruption and attention.](http://9gag.com/gag/axyj4Lp)<!-- MEMES:END -->
 
 ---
 
