@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Some devs remain optimistic as Apple seeks a &quot;killer app&quot; for Vision Pro; Appfigures: the number of new Vision Pro apps has fallen since January and February &lpar;Financial Times&rpar;](http://www.techmeme.com/240712/p2#a240712p2)
- - [Samsung’s older watches are one step closer to running stable Wear OS 5](https://www.androidauthority.com/galaxy-watch-one-ui-6-watch-beta-update-3460145/)
- - [Chatting with foreigners on WhatsApp could soon get a lot easier](https://www.androidauthority.com/whatsapp-soon-google-live-translate-3460129/)<!-- TECH:END -->
+ - [Microsoft’s Copilot AI now understands your terrible handwriting](https://www.theverge.com/2024/7/12/24197009/microsoft-onenote-copilot-inked-notes-handwriting-recognition)
+ - [Hanover, Germany-based HERO Software, whose SaaS acts as an operating system for trade SMEs like plumbing, raised a &amp;euro;40M Series B led by Eight Roads Ventures &lpar;Cate Lawrence/Tech.eu&rpar;](http://www.techmeme.com/240712/p3#a240712p3)
+ - [Best Savings Rates Today -- APYs Remain High Following Inflation Data, July 12, 2024](https://www.cnet.com/personal-finance/banking/todays-best-savings-rates-july-12-2024/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
