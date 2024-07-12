@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [First Female To Have Male Hands](http://9gag.com/gag/aqy5YvY)
- - ⏩ [Diversity goes brrr](http://9gag.com/gag/aYQed3w)
- - 👉 [Catch](http://9gag.com/gag/a9y7BMj)<!-- MEMES:END -->
+ - 💣 [Physics](http://9gag.com/gag/a87MnKY)
+ - ⏩ [Listen fat ass!](http://9gag.com/gag/aVvPBPP)
+ - 👉 [The lies cannot continue](http://9gag.com/gag/agmVdZv)<!-- MEMES:END -->
 
 ---
 
