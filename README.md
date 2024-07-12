@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Physics](http://9gag.com/gag/a87MnKY)
- - ⏩ [No nonsense approach](http://9gag.com/gag/a1mMww8)
- - 👉 [Diversity is our strength](http://9gag.com/gag/aVvPBpM)<!-- MEMES:END -->
+ - 💣 [Cop car surfing](http://9gag.com/gag/aPADd1P)
+ - ⏩ [Grey dress](http://9gag.com/gag/apRvVnn)
+ - 👉 [Back &amp; forth](http://9gag.com/gag/a2vmGwO)<!-- MEMES:END -->
 
 ---
 
