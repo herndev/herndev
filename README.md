@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Community Update July 2024 – Summertime Edition](https://news.xbox.com/en-us/2024/07/12/community-update-july-2024-summertime-edition/)
- - [Final Fantasy 14’s Post-Endwalker Story Feels Like A Mini-Expansion In The Best Way](https://kotaku.com/final-fantasy-14-endwalker-patch-quest-zero-dawntrail-1851590504)
- - [Every Marvel movie and TV release set for 2024 and beyond](https://www.polygon.com/21452835/new-marvel-movies-come-out-release-schedule)<!-- GAME:END -->
+ - [Former Bungie lead counsel explains how the studio nailed one of Destiny 2&#39;s most infamous leakers](https://www.pcgamer.com/gaming-industry/former-bungie-lead-counsel-explains-how-the-studio-nailed-one-of-destiny-2s-most-infamous-leakers)
+ - [Prepare to hear opinions: Concord&#39;s first beta is live now](https://www.pcgamer.com/games/fps/prepare-to-hear-opinions-concords-first-beta-is-live-now)
+ - [Metroid Prime 4: Beyond artist opens up about redesigning Samus’ HUD](https://www.polygon.com/gaming/24197414/metroid-prime-4-beyond-samus-aran-visor-hud-view-redesign)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
