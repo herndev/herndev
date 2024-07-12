@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best new streaming movies this week: Goyo, If, and more](https://www.androidauthority.com/best-new-streaming-movies-this-week-3083965/)
- - [The HONOR Magic V3 puts the Galaxy Z Fold 6 hardware to shame](https://www.androidauthority.com/honor-magic-v3-3460134/)
- - [Federal Solar Tax Credit Explained: Here’s How You Can Make the Most of It](https://www.cnet.com/home/energy-and-utilities/solar-tax-credits/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Some devs remain optimistic as Apple seeks a &quot;killer app&quot; for Vision Pro; Appfigures: the number of new Vision Pro apps has fallen since January and February &lpar;Financial Times&rpar;](http://www.techmeme.com/240712/p2#a240712p2)
+ - [Samsung’s older watches are one step closer to running stable Wear OS 5](https://www.androidauthority.com/galaxy-watch-one-ui-6-watch-beta-update-3460145/)
+ - [Chatting with foreigners on WhatsApp could soon get a lot easier](https://www.androidauthority.com/whatsapp-soon-google-live-translate-3460129/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
