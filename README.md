@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [That&#39;s some really neat drawing.](http://9gag.com/gag/axyjAMD)
+ - 💣 [Oh Yeah...](http://9gag.com/gag/aD2oP5G)
  - ⏩ [???????????](http://9gag.com/gag/aW469DZ)
- - 👉 [The making of Daft Punk&#39;s &#39;Around the World&#39; music video in 1997, directed by Michael Gondry.](http://9gag.com/gag/ae9GdMj)<!-- MEMES:END -->
+ - 👉 [For real](http://9gag.com/gag/aD2oMB9)<!-- MEMES:END -->
 
 ---
 
