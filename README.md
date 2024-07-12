@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Next Week on Xbox: New Games for July 15 to 19](https://news.xbox.com/en-us/2024/07/12/next-week-on-xbox-new-games-for-july-15-to-19/)
- - [Win a Steam Deck from Polygon!](https://www.polygon.com/24188193/steamdeck-sweepstakes-newsletter-entry-details)
- - [Apex Legends league looking to ‘resolve’ gaffe that awarded more than $100,000 prize money incorrectly](https://www.polygon.com/24196854/apex-legends-global-series-agls-pro-league-wrong-prize-payment)<!-- GAME:END -->
+ - [My new video game nemesis is the dreadful Stalker from Helldivers 2](https://www.polygon.com/24196714/helldivers-2-stalkers-worst-enemy-terminid-stealth)
+ - [Zap Bosses Dead With This Shadow Of The Erdtree Perfume Bottle](https://kotaku.com/elden-ring-shadow-erdtree-lightning-perfume-bottle-1851588909)
+ - [MaXXXine Review: Mia Goth Scorches In This Uneven Trilogy Finale](https://kotaku.com/maxxxine-review-mia-goth-ti-west-1851589673)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
