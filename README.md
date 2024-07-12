@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A better &lpar;and more sensual&rpar; way to register your fingerprint is here](https://www.androidauthority.com/goodix-iqoo-fingerprint-scanner-register-3459668/)
- - [Asus ROG Zephyrus G16 Review: A Top Gaming Laptop for Creators Too](https://www.cnet.com/tech/computing/asus-rog-zephyrus-g16-review-a-top-gaming-laptop-for-creators-too/#ftag=CAD590a51e)
- - [Asia-based startups raised only $14.6B in Q2 2024, down 24% from Q1 and 32% YoY, with only 1,511 funding deals announced in Q2, down 15% from Q1 and 27% YoY &lpar;Chris Metinko/Crunchbase News&rpar;](http://www.techmeme.com/240712/p1#a240712p1)<!-- TECH:END -->
+ - [The best new streaming movies this week: Goyo, If, and more](https://www.androidauthority.com/best-new-streaming-movies-this-week-3083965/)
+ - [The HONOR Magic V3 puts the Galaxy Z Fold 6 hardware to shame](https://www.androidauthority.com/honor-magic-v3-3460134/)
+ - [Federal Solar Tax Credit Explained: Here’s How You Can Make the Most of It](https://www.cnet.com/home/energy-and-utilities/solar-tax-credits/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
