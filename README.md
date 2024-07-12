@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Space Marine 2 pulls its visual inspiration straight from the tabletop](https://www.polygon.com/24196453/space-marine-2-tabletop-visuals-interview-customization)
- - [PlayStation&#39;s Weirdest Program Has Been Mysteriously Broken For Longer Than The 2011 PSN Outage [Update: It&#39;s Fixed]](https://kotaku.com/playstation-stars-outage-broken-down-fixed-1851570048)
- - [The 30 best movies on Netflix right now](https://www.polygon.com/21266801/best-movies-on-netflix)<!-- GAME:END -->
+ - [Lego Star Wars and Super Mario sets are 20% ahead of Prime Day](https://www.polygon.com/amazon-prime-day/24191428/best-lego-deals)
+ - [Captain America: Brave New World may finally give us some Eternals closure](https://www.polygon.com/24197299/captain-america-brave-new-world-eternals-celestial)
+ - [Official PlayStation Podcast Episode 489: Tame The Rage](https://blog.playstation.com/2024/07/12/official-playstation-podcast-episode-489-tame-the-rage/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
