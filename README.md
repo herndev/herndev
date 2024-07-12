@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [My new video game nemesis is the dreadful Stalker from Helldivers 2](https://www.polygon.com/24196714/helldivers-2-stalkers-worst-enemy-terminid-stealth)
- - [Zap Bosses Dead With This Shadow Of The Erdtree Perfume Bottle](https://kotaku.com/elden-ring-shadow-erdtree-lightning-perfume-bottle-1851588909)
- - [MaXXXine Review: Mia Goth Scorches In This Uneven Trilogy Finale](https://kotaku.com/maxxxine-review-mia-goth-ti-west-1851589673)<!-- GAME:END -->
+ - [How Dune: Awakening is Rewriting Decades of Dune](https://news.xbox.com/en-us/2024/07/12/dune-awakening-rewriting-decades-of-dune/)
+ - [Analogue Pocket Gets Extremely Limited-Edition Aluminum Versions For $500](https://kotaku.com/analogue-pocket-aluminum-limited-edition-price-preorder-1851589864)
+ - [Shadow Of The Erdtree&#39;s Best Weapons And Equipment &lpar;And Where To Find Them&rpar;](https://kotaku.com/elden-ring-shadow-erdtree-best-weapons-armor-talismans-1851573015)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
