@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best iPhones](https://www.theverge.com/23618862/best-iphone-camera-battery-screen-guide)
- - [Amazon matches Best Buy&#39;s $799 M2 MacBook Air deal as Prime Day nears](https://appleinsider.com/articles/24/07/12/amazon-matches-best-buys-799-m2-macbook-air-deal-as-prime-day-nears?utm_medium=rss)
- - [Three US senators introduce the COPIED Act, which aims to give journalists, songwriters, and artists tools to fight AI models using their work without consent &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/240712/p19#a240712p19)<!-- TECH:END -->
+ - [Sources: the US DOJ plans to sue RealPage by the end of the summer, accusing the company of selling software that allows landlords to collude on setting rents &lpar;Josh Sisco/Politico&rpar;](http://www.techmeme.com/240712/p21#a240712p21)
+ - [Qualcomm and Philips have sued Shenzhen-based Transsion, the world&#39;s fourth-largest smartphone maker, for alleged intellectual property violations &lpar;Financial Times&rpar;](http://www.techmeme.com/240712/p20#a240712p20)
+ - [Not happy with your phone’s portrait mode results? Blame AI](https://www.androidauthority.com/portrait-mode-ai-3460348/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
