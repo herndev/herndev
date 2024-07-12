@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Caseology Parallax for Google Pixel 8a review: Should you buy it?](https://www.androidauthority.com/caseology-parallax-google-pixel-8a-review-3456178/)
- - [Partior, a blockchain-based interbank payment network backed by JPMorgan, DBS, and Standard Chartered, raised a $60M Series B led by Peak XV Partners &lpar;Jamie Crawley/CoinDesk&rpar;](http://www.techmeme.com/240712/p9#a240712p9)
- - [Are you on AT&amp;T? Hackers now know who you called or texted](https://www.androidauthority.com/att-data-breach-3460248/)<!-- TECH:END -->
+ - [New York-based Standard Bots, which makes AI-powered robotic arms, raised $63M over a series of deals, including a $39M Series B led by General Catalyst &lpar;Paayal Zaveri/Bloomberg&rpar;](http://www.techmeme.com/240712/p11#a240712p11)
+ - [AT&amp;T breach leaked call and text records from ‘nearly all’ wireless customers](https://www.theverge.com/2024/7/12/24197052/att-data-breach-call-text-records-hack)
+ - [After X announced shows with star talent like Paris Hilton and Tucker Carlson, the efforts have fizzled, a source says due to a lack of advertiser interest &lpar;Kurt Wagner/Bloomberg&rpar;](http://www.techmeme.com/240712/p10#a240712p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
