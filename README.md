@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Imagine busking on the street and the artist of the song you are singing randomly walks by...](http://9gag.com/gag/aVvPRRd)
- - ⏩ [How a good Doner is made](http://9gag.com/gag/an7NVqE)
- - 👉 [Moonwalking into Oval](http://9gag.com/gag/aE07OBM)<!-- MEMES:END -->
+ - 💣 [For real](http://9gag.com/gag/aD2oMB9)
+ - ⏩ [Mohammed, who had just arrived in UK from Bangladesh, tried to abuse a 13 year old British girl because age doesn&#39;t matter to him.](http://9gag.com/gag/awyxeL8)
+ - 👉 [Bro knew the real vibe](http://9gag.com/gag/apRvdrB)<!-- MEMES:END -->
 
 ---
 
