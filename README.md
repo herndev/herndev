@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Civic education lesson. Education is important.](http://9gag.com/gag/a2vmj8Z)
- - ⏩ [Facts vs Feelings in debate](http://9gag.com/gag/aVvP1QK)
- - 👉 [Yes he is](http://9gag.com/gag/aXP9eg6)<!-- MEMES:END -->
+ - 💣 [Nope](http://9gag.com/gag/axyjY9M)
+ - ⏩ [Catch](http://9gag.com/gag/a9y7BMj)
+ - 👉 [Back &amp; forth](http://9gag.com/gag/a2vmGwO)<!-- MEMES:END -->
 
 ---
 
