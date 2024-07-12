@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This is probably how our dreams actually looks like](http://9gag.com/gag/aYQeRYx)
- - ⏩ [Happy for 14 seconds](http://9gag.com/gag/aE07EAM)
- - 👉 [Interruption and attention.](http://9gag.com/gag/axyj4Lp)<!-- MEMES:END -->
+ - 💣 [Muslim man in London parks car on sidewalk and gets fined then cries about racism and Islamophobia](http://9gag.com/gag/ajPAGEQ)
+ - ⏩ [9gaggers](http://9gag.com/gag/aPADzZQ)
+ - 👉 [No nonsense, girl](http://9gag.com/gag/a7o7nm2)<!-- MEMES:END -->
 
 ---
 
