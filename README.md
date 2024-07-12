@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: US car dealership software provider CDK Global appears to have paid ~$25M to hackers on June 21, after a ransomware attack shut down its systems &lpar;Sean Lyngaas/CNN&rpar;](http://www.techmeme.com/240711/p31#a240711p31)
  - [SoftBank buys struggling UK-based chipmaker Graphcore with regulatory approval; sources: the deal is valued at ~$600M, less than the ~$700M Graphcore had raised &lpar;Financial Times&rpar;](http://www.techmeme.com/240711/p30#a240711p30)
- - [A May 2024 data breach at mobile spyware company mSpy leaked millions of customer support tickets, including personal data, its third known breach since 2010 &lpar;Zack Whittaker/TechCrunch&rpar;](http://www.techmeme.com/240711/p29#a240711p29)
- - [Garmin Forerunner 975 wishlist: All the features I want to see](https://www.androidauthority.com/garmin-forerunner-975-3459056/)<!-- TECH:END -->
+ - [A May 2024 data breach at mobile spyware company mSpy leaked millions of customer support tickets, including personal data, its third known breach since 2010 &lpar;Zack Whittaker/TechCrunch&rpar;](http://www.techmeme.com/240711/p29#a240711p29)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
