@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle answer for Friday, July 12](https://www.pcgamer.com/games/puzzle/wordle-answer-today-july-12-2024)
  - [The TMNT roguelike that basically looks like a co-op Hades and was previously announced for Switch is coming to Steam as well](https://www.pcgamer.com/games/roguelike/the-tmnt-roguelike-that-basically-looks-like-a-co-op-hades-and-was-previously-announced-for-switch-is-coming-to-steam-as-well)
- - [This Witcher 3 mod that lets you play as a custom character or a whole new sorceress class is super promising, but maybe wait a few months for it to iron out the kinks](https://www.pcgamer.com/games/rpg/this-witcher-3-mod-that-lets-you-play-as-a-custom-character-or-a-whole-new-sorceress-class-is-super-promising-but-maybe-wait-a-few-months-for-it-to-iron-out-the-kinks)
- - [The designer of mobile hits Fruit Ninja and Jetpack Joyride is making a deep-sea Lovecraftian horror game](https://www.pcgamer.com/games/roguelike/the-designer-of-mobile-hits-fruit-ninja-and-jetpack-joyride-is-making-a-deep-sea-lovecraftian-horror-game)<!-- GAME:END -->
+ - [This Witcher 3 mod that lets you play as a custom character or a whole new sorceress class is super promising, but maybe wait a few months for it to iron out the kinks](https://www.pcgamer.com/games/rpg/this-witcher-3-mod-that-lets-you-play-as-a-custom-character-or-a-whole-new-sorceress-class-is-super-promising-but-maybe-wait-a-few-months-for-it-to-iron-out-the-kinks)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
