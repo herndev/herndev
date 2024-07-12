@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [This Witcher 3 mod that lets you play as a custom character or a whole new sorceress class is super promising, but maybe wait a few months for it to iron out the kinks](https://www.pcgamer.com/games/rpg/this-witcher-3-mod-that-lets-you-play-as-a-custom-character-or-a-whole-new-sorceress-class-is-super-promising-but-maybe-wait-a-few-months-for-it-to-iron-out-the-kinks)
  - [The designer of mobile hits Fruit Ninja and Jetpack Joyride is making a deep-sea Lovecraftian horror game](https://www.pcgamer.com/games/roguelike/the-designer-of-mobile-hits-fruit-ninja-and-jetpack-joyride-is-making-a-deep-sea-lovecraftian-horror-game)
- - [You don&#39;t lose all your progress when a Once Human season ends—here&#39;s how the survival game&#39;s server resets work](https://www.pcgamer.com/games/survival-crafting/once-human-season-reset)
- - [The Animal Kingdom director unpacks the year’s most fascinating sci-fi movie](https://www.polygon.com/24100927/the-animal-kingdom-movie-french-effects-creature-design-meaning-hulu)<!-- GAME:END -->
+ - [You don&#39;t lose all your progress when a Once Human season ends—here&#39;s how the survival game&#39;s server resets work](https://www.pcgamer.com/games/survival-crafting/once-human-season-reset)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
