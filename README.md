@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Oh Yeah...](http://9gag.com/gag/aD2oP5G)
- - ⏩ [???????????](http://9gag.com/gag/aW469DZ)
- - 👉 [For real](http://9gag.com/gag/aD2oMB9)<!-- MEMES:END -->
+ - 💣 [Bro knew the real vibe](http://9gag.com/gag/apRvdrB)
+ - ⏩ [Back &amp; forth](http://9gag.com/gag/a2vmGwO)
+ - 👉 [Hummmmmmmm](http://9gag.com/gag/an7NDjo)<!-- MEMES:END -->
 
 ---
 
