@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Don&#39;t Pause on the Best Prime Day TV Deals: Take Advantage of These Early Discounts](https://www.cnet.com/deals/best-prime-day-tv-deals/#ftag=CAD590a51e)
- - [Is the Prime Visa the Best Card for Prime Day? We Do the Math](https://www.cnet.com/personal-finance/best-credit-card-for-amazon-prime-day/#ftag=CAD590a51e)
- - [Amazon Prime Day Live Blog: All the Best Sales We&#39;ve Found So Far](https://www.cnet.com/tech/best-prime-day-deals-live/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Must-See Prime Day Gaming Deals: Grab Amazing Discounts on Consoles, Games, and Accessories](https://www.cnet.com/deals/best-prime-day-gaming-deals/#ftag=CAD590a51e)
+ - [Amazon Prime Day 2024: 46 Early Deals on Tech, Home Appliances and More](https://www.cnet.com/deals/amazon-prime-day-2024-07-12/#ftag=CAD590a51e)
+ - [Google is shutting down a browser you probably didn’t know existed](https://www.androidauthority.com/google-browser-shutdown-3460392/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
