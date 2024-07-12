@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [18 year old teen jumped off a cruise ship &lpar;Bahamas&rpar; on a dare. And was never seen. The kid jumped off because of a $50 bet.](http://9gag.com/gag/a1mMBAR)
- - ⏩ [Mohammed, who had just arrived in UK from Bangladesh, tried to abuse a 13 year old British girl because age doesn&#39;t matter to him.](http://9gag.com/gag/awyxeL8)
- - 👉 [Al Bundy, living the dream](http://9gag.com/gag/a9y7D9W)<!-- MEMES:END -->
+ - 💣 [You heard that little bud?](http://9gag.com/gag/aE07E4p)
+ - ⏩ [Yes he is](http://9gag.com/gag/aXP9eg6)
+ - 👉 [You have said it, Joe! Thank you.](http://9gag.com/gag/aNDn2jr)<!-- MEMES:END -->
 
 ---
 
