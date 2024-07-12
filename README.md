@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Celebrating One Year of Antstream Arcade on Xbox](https://news.xbox.com/en-us/2024/07/12/celebrating-one-year-of-antstream-arcade-on-xbox/)
- - [The First Descendant will change its in-game icons following accusations that it swiped them from Destiny 2](https://www.pcgamer.com/games/third-person-shooter/the-first-descendant-will-change-its-in-game-icons-following-accusations-that-it-swiped-them-from-destiny-2)
- - [These Transformers Didn&#39;t Make The Cut For Blizzard&#39;s Overwatch 2 Crossover](https://kotaku.com/overwatch-2-transformers-pharah-lucio-wrecking-ball-1851590058)<!-- GAME:END -->
+ - [Space Marine 2 pulls its visual inspiration straight from the tabletop](https://www.polygon.com/24196453/space-marine-2-tabletop-visuals-interview-customization)
+ - [PlayStation&#39;s Weirdest Program Has Been Mysteriously Broken For Longer Than The 2011 PSN Outage [Update: It&#39;s Fixed]](https://kotaku.com/playstation-stars-outage-broken-down-fixed-1851570048)
+ - [The 30 best movies on Netflix right now](https://www.polygon.com/21266801/best-movies-on-netflix)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
