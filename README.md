@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [You heard that little bud?](http://9gag.com/gag/aE07E4p)
- - ⏩ [Catch](http://9gag.com/gag/a9y7BMj)
- - 👉 [Yes he is](http://9gag.com/gag/aXP9eg6)<!-- MEMES:END -->
+ - 💣 [And they lost their job](http://9gag.com/gag/a9y7VMW)
+ - ⏩ [An award already?](http://9gag.com/gag/ajPAdK8)
+ - 👉 [Please don&#39;t please don&#39;t](http://9gag.com/gag/azxjobz)<!-- MEMES:END -->
 
 ---
 
