@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [You heard that little bud?](http://9gag.com/gag/aE07E4p)
- - ⏩ [Yes he is](http://9gag.com/gag/aXP9eg6)
- - 👉 [You have said it, Joe! Thank you.](http://9gag.com/gag/aNDn2jr)<!-- MEMES:END -->
+ - ⏩ [Catch](http://9gag.com/gag/a9y7BMj)
+ - 👉 [Yes he is](http://9gag.com/gag/aXP9eg6)<!-- MEMES:END -->
 
 ---
 
