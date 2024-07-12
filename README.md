@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Community Update July 2024 – Summertime Edition](https://news.xbox.com/en-us/2024/07/12/community-update-july-2024-summertime-edition/)
  - [Final Fantasy 14’s Post-Endwalker Story Feels Like A Mini-Expansion In The Best Way](https://kotaku.com/final-fantasy-14-endwalker-patch-quest-zero-dawntrail-1851590504)
- - [Every Marvel movie and TV release set for 2024 and beyond](https://www.polygon.com/21452835/new-marvel-movies-come-out-release-schedule)
- - [These existential robots are the best thing in Times &amp; Galaxy](https://www.polygon.com/gaming/24197377/times-galaxy-game-existential-robots)<!-- GAME:END -->
+ - [Every Marvel movie and TV release set for 2024 and beyond](https://www.polygon.com/21452835/new-marvel-movies-come-out-release-schedule)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
