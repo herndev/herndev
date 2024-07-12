@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Interruption and attention.](http://9gag.com/gag/axyj4Lp)
- - ⏩ [???????????](http://9gag.com/gag/aW469DZ)
- - 👉 [Coffee Hack Level 5](http://9gag.com/gag/aKGqnMN)<!-- MEMES:END -->
+ - 💣 [Bro knew the real vibe](http://9gag.com/gag/apRvdrB)
+ - ⏩ [Back &amp; forth](http://9gag.com/gag/a2vmGwO)
+ - 👉 [Catch](http://9gag.com/gag/a9y7BMj)<!-- MEMES:END -->
 
 ---
 
