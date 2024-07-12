@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [New York-based Standard Bots, which makes AI-powered robotic arms, raised $63M over a series of deals, including a $39M Series B led by General Catalyst &lpar;Paayal Zaveri/Bloomberg&rpar;](http://www.techmeme.com/240712/p11#a240712p11)
- - [AT&amp;T breach leaked call and text records from ‘nearly all’ wireless customers](https://www.theverge.com/2024/7/12/24197052/att-data-breach-call-text-records-hack)
- - [After X announced shows with star talent like Paris Hilton and Tucker Carlson, the efforts have fizzled, a source says due to a lack of advertiser interest &lpar;Kurt Wagner/Bloomberg&rpar;](http://www.techmeme.com/240712/p10#a240712p10)<!-- TECH:END -->
+ - [New leak says it’s not just the Galaxy S25 Ultra’s corners that are getting rounded](https://www.androidauthority.com/galaxy-s25-ultra-frame-leak-3460270/)
+ - [The Rabbit R1 has been logging users’ chats — with no way to wipe them](https://www.theverge.com/2024/7/12/24197073/rabbit-r1-user-chat-logs-security-issue-july-11th-update)
+ - [The compliance countdown has started for AI companies operating in the EU](https://www.theverge.com/2024/7/12/24197058/eu-ai-act-regulations-bans-deadline)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
