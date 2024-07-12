@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [The new Disney princess board game is just as fun as I dreamed](https://www.polygon.com/reviews/24196764/disney-princess-chronicles-of-light-darkness-falls-review)
  - [The Outlast Trials&#39; new major update has given a deranged killer a shotgun because all the melee opponents weren&#39;t hard enough](https://www.pcgamer.com/games/horror/the-outlast-trials-new-major-update-has-given-a-deranged-killer-a-shotgun-because-all-the-melee-opponents-werent-hard-enough)
- - [You can pick up the best Star Wars RPG ever made on the most forgettable launcher ever made for free if you&#39;re a Prime Gaming sub](https://www.pcgamer.com/games/rpg/you-can-pick-up-the-best-star-wars-rpg-ever-made-on-the-most-forgettable-launcher-ever-made-for-free-if-youre-a-prime-gaming-sub-right-now)
- - [World of Warcraft: The War Within&#39;s pre-patch is coming soon—alongside Warbands, a quality-of-life game changer that lets you share rep, gear, and currencies across your alts](https://www.pcgamer.com/games/world-of-warcraft/world-of-warcraft-the-war-within-s-pre-patch-is-coming-soon-alongside-warbands-a-quality-of-life-game-changer-that-lets-you-share-rep-gear-and-currencies-across-your-alts)<!-- GAME:END -->
+ - [You can pick up the best Star Wars RPG ever made on the most forgettable launcher ever made for free if you&#39;re a Prime Gaming sub](https://www.pcgamer.com/games/rpg/you-can-pick-up-the-best-star-wars-rpg-ever-made-on-the-most-forgettable-launcher-ever-made-for-free-if-youre-a-prime-gaming-sub-right-now)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
