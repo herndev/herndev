@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Muslim man in London parks car on sidewalk and gets fined then cries about racism and Islamophobia](http://9gag.com/gag/ajPAGEQ)
- - ⏩ [9gaggers](http://9gag.com/gag/aPADzZQ)
- - 👉 [No nonsense, girl](http://9gag.com/gag/a7o7nm2)<!-- MEMES:END -->
+ - 💣 [Interruption and attention.](http://9gag.com/gag/axyj4Lp)
+ - ⏩ [???????????](http://9gag.com/gag/aW469DZ)
+ - 👉 [Coffee Hack Level 5](http://9gag.com/gag/aKGqnMN)<!-- MEMES:END -->
 
 ---
 
