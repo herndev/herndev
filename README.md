@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Signal plans to roll out a beta version of its desktop apps that tightens the security of how it stores plain text encryption keys, after downplaying the issue &lpar;Lawrence Abrams/BleepingComputer&rpar;](http://www.techmeme.com/240711/p28#a240711p28)
- - [Apple Pencil with USB-C now sold refurbished, but there are better deals](https://appleinsider.com/articles/24/07/11/apple-pencil-with-usb-c-now-sold-refurbished-but-there-are-better-deals?utm_medium=rss)
- - [SoftBank buys struggling UK-based chip company Graphcore with full regulatory approval granted; the once touted Nvidia rival was valued at ~$2.8B in Dec. 2020 &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/240711/p27#a240711p27)<!-- TECH:END -->
+ - [SoftBank buys struggling UK-based chipmaker Graphcore with regulatory approval; sources: the deal is valued at ~$600M, less than the ~$700M Graphcore had raised &lpar;Financial Times&rpar;](http://www.techmeme.com/240711/p30#a240711p30)
+ - [A May 2024 data breach at mobile spyware company mSpy leaked millions of customer support tickets, including personal data, its third known breach since 2010 &lpar;Zack Whittaker/TechCrunch&rpar;](http://www.techmeme.com/240711/p29#a240711p29)
+ - [Garmin Forerunner 975 wishlist: All the features I want to see](https://www.androidauthority.com/garmin-forerunner-975-3459056/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
