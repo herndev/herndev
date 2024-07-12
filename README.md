@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [How to get free Solar Fusion Energy and Lunar Fusion Energy with codes in Pokémon Go](https://www.polygon.com/pokemon-go-guide/24195548/solar-fusion-energy-lunar-fusion-how-to-get)
  - [Today&#39;s Wordle answer for Friday, July 12](https://www.pcgamer.com/games/puzzle/wordle-answer-today-july-12-2024)
- - [The TMNT roguelike that basically looks like a co-op Hades and was previously announced for Switch is coming to Steam as well](https://www.pcgamer.com/games/roguelike/the-tmnt-roguelike-that-basically-looks-like-a-co-op-hades-and-was-previously-announced-for-switch-is-coming-to-steam-as-well)
- - [This Witcher 3 mod that lets you play as a custom character or a whole new sorceress class is super promising, but maybe wait a few months for it to iron out the kinks](https://www.pcgamer.com/games/rpg/this-witcher-3-mod-that-lets-you-play-as-a-custom-character-or-a-whole-new-sorceress-class-is-super-promising-but-maybe-wait-a-few-months-for-it-to-iron-out-the-kinks)<!-- GAME:END -->
+ - [The TMNT roguelike that basically looks like a co-op Hades and was previously announced for Switch is coming to Steam as well](https://www.pcgamer.com/games/roguelike/the-tmnt-roguelike-that-basically-looks-like-a-co-op-hades-and-was-previously-announced-for-switch-is-coming-to-steam-as-well)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
