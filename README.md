@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [For real](http://9gag.com/gag/aD2oMB9)
- - ⏩ [Mohammed, who had just arrived in UK from Bangladesh, tried to abuse a 13 year old British girl because age doesn&#39;t matter to him.](http://9gag.com/gag/awyxeL8)
- - 👉 [Bro knew the real vibe](http://9gag.com/gag/apRvdrB)<!-- MEMES:END -->
+ - 💣 [Physics](http://9gag.com/gag/a87MnKY)
+ - ⏩ [No nonsense approach](http://9gag.com/gag/a1mMww8)
+ - 👉 [Diversity is our strength](http://9gag.com/gag/aVvPBpM)<!-- MEMES:END -->
 
 ---
 
