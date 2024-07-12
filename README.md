@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [And they lost their job](http://9gag.com/gag/a9y7VMW)
- - ⏩ [An award already?](http://9gag.com/gag/ajPAdK8)
- - 👉 [Please don&#39;t please don&#39;t](http://9gag.com/gag/azxjobz)<!-- MEMES:END -->
+ - 💣 [Mohammed, who had just arrived in UK from Bangladesh, tried to abuse a 13 year old British girl because age doesn&#39;t matter to him.](http://9gag.com/gag/awyxeL8)
+ - ⏩ [Yes he is](http://9gag.com/gag/aXP9eg6)
+ - 👉 [You heard that little bud?](http://9gag.com/gag/aE07E4p)<!-- MEMES:END -->
 
 ---
 
