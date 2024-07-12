@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best new streaming shows this week: The Boyfriend, Sunny, and more](https://www.androidauthority.com/best-new-tv-shows-to-stream-this-week-3084538/)
- - [Argentina&#39;s Tapi, a payments processor for Latin American consumer platforms like Mercado Pago and crypto exchange Lemon, raised a $22M Series A led by Kaszek &lpar;Patrick Gillespie/Bloomberg&rpar;](http://www.techmeme.com/240712/p14#a240712p14)
- - [India&#39;s antitrust regulator has decided that Apple abuses its market dominance](https://appleinsider.com/articles/24/07/12/indias-antitrust-regulator-accuses-apple-of-abusing-its-market-dominance?utm_medium=rss)<!-- TECH:END -->
+ - [Wear OS 5 prepares to add support for UWB ahead of Pixel Watch 3 launch](https://www.androidauthority.com/wear-os-5-uwb-3460337/)
+ - [The best noise-canceling headphones to buy right now](https://www.theverge.com/21345733/best-noise-canceling-headphones)
+ - [Amazon’s AI shopping assistant rolls out to all users in the US](https://www.theverge.com/2024/7/12/24197173/amazon-ai-shopping-assistant-rufus-us-customers-rollout)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
