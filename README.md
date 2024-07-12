@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Bro knew the real vibe](http://9gag.com/gag/apRvdrB)
- - ⏩ [Back &amp; forth](http://9gag.com/gag/a2vmGwO)
- - 👉 [Catch](http://9gag.com/gag/a9y7BMj)<!-- MEMES:END -->
+ - 💣 [Don&#39;t get drunk on office party](http://9gag.com/gag/aKGqN1g)
+ - ⏩ [There&#39;s nothing you can do. Leave guys](http://9gag.com/gag/aW46NNq)
+ - 👉 [You have said it, Joe! Thank you.](http://9gag.com/gag/aNDn2jr)<!-- MEMES:END -->
 
 ---
 
