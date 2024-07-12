@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Asia-based startups raised only $14.6B in Q2 2024, down 24% from Q1 and 32% YoY, with only 1,511 funding deals announced in Q2, down 15% from Q1 and 27% YoY &lpar;Chris Metinko/Crunchbase News&rpar;](http://www.techmeme.com/240712/p1#a240712p1)
  - [Nintendo’s Zelda-themed ‘Hyrule Edition’ Switch Lite is finally up for preorder](https://www.theverge.com/24190886/nintendo-switch-lite-hyrule-edition-preorder-price-release-date-zelda)
- - [Apple and EU reach agreement on extending tap-to-pay to alternate wallets](https://www.androidauthority.com/apple-mobile-payments-3460095/)
- - [Logitech MX Keys S review: Great typing feel and feature packed](https://appleinsider.com/articles/24/07/12/logitech-mx-keys-s-review-great-typing-feel-and-feature-packed?utm_medium=rss)<!-- TECH:END -->
+ - [Apple and EU reach agreement on extending tap-to-pay to alternate wallets](https://www.androidauthority.com/apple-mobile-payments-3460095/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
