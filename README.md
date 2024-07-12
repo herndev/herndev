@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple beats lawsuit over forcing developers to use its closed ecosystem](https://appleinsider.com/articles/24/07/12/apple-beats-lawsuit-over-forcing-developers-to-use-its-closed-ecosystem?utm_medium=rss)
- - [Samsung Galaxy Z Flip 5 vs Z Flip 6: What’s the difference and should you upgrade?](https://www.androidauthority.com/samsung-galaxy-z-flip-5-vs-flip-6-3459289/)
- - [Poll result: The definitive anecdotal proof that Pixel phones overheat](https://www.androidauthority.com/pixel-overheating-poll-3460039/)<!-- TECH:END -->
+ - [Cable management and other tips for planning a new workspace](https://www.theverge.com/24181347/cable-management-desks-home-office-pc-laptop)
+ - [Apple Vision Pro launches in UK, Australia, and more](https://appleinsider.com/articles/24/07/12/apple-vision-pro-launches-in-uk-australia-and-more?utm_medium=rss)
+ - [Android’s QR code scanner is getting a redesign for easier one-handed use &lpar;APK teardown&rpar;](https://www.androidauthority.com/android-qr-scanner-redesign-apk-teardown-3460193/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
