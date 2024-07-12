@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Wear OS 5 prepares to add support for UWB ahead of Pixel Watch 3 launch](https://www.androidauthority.com/wear-os-5-uwb-3460337/)
- - [The best noise-canceling headphones to buy right now](https://www.theverge.com/21345733/best-noise-canceling-headphones)
- - [Amazon’s AI shopping assistant rolls out to all users in the US](https://www.theverge.com/2024/7/12/24197173/amazon-ai-shopping-assistant-rufus-us-customers-rollout)<!-- TECH:END -->
+ - [Apple Pay is convenient and brings out the worst in me](https://www.theverge.com/2024/7/12/24197272/apple-pay-convenience-frictionless-lost-wallet)
+ - [Wear OS 5 could improve your watch’s music streaming battery life with Bluetooth LE Audio](https://www.androidauthority.com/wear-os-5-bluetooth-le-audio-3460343/)
+ - [Apex Legends is having a rough week](https://www.theverge.com/2024/7/12/24197221/apex-legends-battle-pass-incorrect-esports-payments)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
