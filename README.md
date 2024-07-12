@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Lego Star Wars and Super Mario sets are 20% ahead of Prime Day](https://www.polygon.com/amazon-prime-day/24191428/best-lego-deals)
- - [Captain America: Brave New World may finally give us some Eternals closure](https://www.polygon.com/24197299/captain-america-brave-new-world-eternals-celestial)
- - [Official PlayStation Podcast Episode 489: Tame The Rage](https://blog.playstation.com/2024/07/12/official-playstation-podcast-episode-489-tame-the-rage/)<!-- GAME:END -->
+ - [Final Fantasy 14’s Post-Endwalker Story Feels Like A Mini-Expansion In The Best Way](https://kotaku.com/final-fantasy-14-endwalker-patch-quest-zero-dawntrail-1851590504)
+ - [Every Marvel movie and TV release set for 2024 and beyond](https://www.polygon.com/21452835/new-marvel-movies-come-out-release-schedule)
+ - [These existential robots are the best thing in Times &amp; Galaxy](https://www.polygon.com/gaming/24197377/times-galaxy-game-existential-robots)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
