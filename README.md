@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [One UI 6.1.1 brings an upgraded Smart Select that’s more like Circle to Search](https://www.androidauthority.com/one-ui-6-1-1-smart-select-3460706/)
- - [HP Victus](https://www.cnet.com/tech/computing/hp-victus-dpnl/#ftag=CAD590a51e)
- - [Amazon Prime Live Blog: 157 Can&#39;t-Miss Deals We&#39;ve Found So Far](https://www.cnet.com/tech/best-prime-day-deals-live-2024-07-15/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Google Messages gets its fun Screen Effects feature back](https://www.androidauthority.com/google-messages-screen-effects-3460828/)
+ - [Samsung One UI 6.1.1 brings AI suggested replies to the Galaxy Z Flip 6 and One UI Watch 6](https://www.androidauthority.com/samsung-suggested-replies-one-ui-3460745/)
+ - [Appeals court halts return of net neutrality](https://www.theverge.com/2024/7/15/24199126/net-neutrality-rules-temporarily-halted-sixth-circuit)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
