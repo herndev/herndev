@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Female secret service agent hiding behind the person she was hired to protect! &lpar;Though, there is no wage gap like that at all, which should be there!&rpar;](http://9gag.com/gag/aGyxXBw)
- - ⏩ [Israel used a bomb so big it was visible for miles in Gaza](http://9gag.com/gag/aE079mx)
- - 👉 [Last moment when Thomas Matthew Crooks was seen alive - he seems unafraid despite the crowd shouting at him](http://9gag.com/gag/a87MxY1)<!-- MEMES:END -->
+ - 💣 [The perfect adaptation cycle doesn&#39;t exis-](http://9gag.com/gag/axyjLpD)
+ - ⏩ [Yeah i&#39;m bigot... so what...](http://9gag.com/gag/an7NLKz)
+ - 👉 [To those who said it was just a bbgun. Notice the forklift spraying out the fluid:](http://9gag.com/gag/ae9Gwdp)<!-- MEMES:END -->
 
 ---
 
