@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The perfect adaptation cycle doesn&#39;t exis-](http://9gag.com/gag/axyjLpD)
- - ⏩ [Yeah i&#39;m bigot... so what...](http://9gag.com/gag/an7NLKz)
- - 👉 [To those who said it was just a bbgun. Notice the forklift spraying out the fluid:](http://9gag.com/gag/ae9Gwdp)<!-- MEMES:END -->
+ - 💣 [Yeah i&#39;m bigot... so what...](http://9gag.com/gag/an7NLKz)
+ - ⏩ [When hard boiled eggs peel like this :&lpar;](http://9gag.com/gag/aVvPAVn)
+ - 👉 [If only they knew](http://9gag.com/gag/adBjGPN)<!-- MEMES:END -->
 
 ---
 
