@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Grab Shokz OpenRun Pro Bone-Conduction Headphones at $80 Off With This Anti-Prime Day Deal](https://www.cnet.com/deals/grab-shokz-openrun-pro-bone-conduction-headphones-at-80-off-with-this-anti-prime-day-deal/#ftag=CAD590a51e)
- - [Amazon Prime Live Blog: 157 Can&#39;t-Miss Deals We&#39;ve Found So Far](https://www.cnet.com/tech/best-prime-day-deals-live-2024-07-15/#ftag=CAD590a51e)
- - [Kindo, which helps enterprises securely adopt and manage AI tools, raised $20.6M led by Drive Capital, and buys open-source security project WhiteRabbitNeo &lpar;Dean Takahashi/VentureBeat&rpar;](http://www.techmeme.com/240715/p17#a240715p17)<!-- TECH:END -->
+ - [One UI 6.1.1 brings an upgraded Smart Select that’s more like Circle to Search](https://www.androidauthority.com/one-ui-6-1-1-smart-select-3460706/)
+ - [HP Victus](https://www.cnet.com/tech/computing/hp-victus-dpnl/#ftag=CAD590a51e)
+ - [Amazon Prime Live Blog: 157 Can&#39;t-Miss Deals We&#39;ve Found So Far](https://www.cnet.com/tech/best-prime-day-deals-live-2024-07-15/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
