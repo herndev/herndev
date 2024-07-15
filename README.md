@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Keep Your Devices Charged With $50 Off Belkin&#39;s Charging Stand, Thanks to Prime Day](https://www.cnet.com/deals/keep-your-devices-charged-with-50-off-belkins-charging-stand-thanks-to-prime-day/#ftag=CAD590a51e)
- - [Amazon Prime Live Blog: 154 Can&#39;t-Miss Deals We&#39;ve Found So Far](https://www.cnet.com/tech/best-prime-day-deals-live-2024-07-15/#ftag=CAD590a51e)
- - [Lenovo&#39;s IdeaPad Slim 3 Is Only $340 for a Limited Time](https://www.cnet.com/deals/lenovos-ideapad-slim-3-is-only-340-for-a-limited-time/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Google’s AI Overviews takes a backseat after bumpy ride](https://www.androidauthority.com/google-ai-overviews-drop-3460684/)
+ - [ASML-funded Eindhoven University faces questions from the US about admitting Chinese students, as the US increasingly seeks to stem China&#39;s chip-making efforts &lpar;Cagan Koc/Bloomberg&rpar;](http://www.techmeme.com/240715/p15#a240715p15)
+ - [AMD’s new AI chips have a home in HP’s next Copilot Plus laptop](https://www.theverge.com/2024/7/15/24198859/hp-omnibook-ultra-ai-amd-ryzen-microsoft-windows-copilot-plus)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
