@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [What time does Genshin Impact 4.8 release?](https://www.polygon.com/genshin-impact-guides/24198998/version-4-8-release-maintenance-times)
- - [Fallout: London won&#39;t be available for Epic Games Store players initially thanks to Bethesda&#39;s mod-breaking update](https://www.pcgamer.com/games/fallout/fallout-london-wont-be-available-for-epic-games-store-players-initially-thanks-to-bethesdas-mod-breaking-update)
- - [Amazon’s New Like A Dragon Show Is Being Made By People Who Really Get The Games](https://kotaku.com/like-a-dragon-yakuza-amazon-kiryu-actor-interview-1851592856)<!-- GAME:END -->
+ - [How Detective Dotson Brings Co-op Cases to Your Couch](https://news.xbox.com/en-us/2024/07/15/detective-dotson-co-op-cases-to-your-couch/)
+ - [Ken Levine says Bioshock was &#39;almost cancelled&#39; after going over time and over budget, while all publishers cared about was that these games &#39;don&#39;t make any money&#39;](https://www.pcgamer.com/games/fps/ken-levine-says-bioshock-was-almost-cancelled-after-going-over-time-and-over-budget-while-all-publishers-cared-about-was-that-these-games-dont-make-any-money)
+ - [10 Tips For Starting Out In Final Fantasy XIV](https://kotaku.com/final-fantasy-xiv-14-new-account-player-character-1851592887)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
