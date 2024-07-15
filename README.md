@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Final Fantasy XIV: A Beginner’s Guide To Questing](https://kotaku.com/final-fantasy-14-ff14-quest-red-green-blue-1851593464)
- - [My Lengthy, Frustrating Quest To Become A PC Gamer](https://kotaku.com/nzxt-player-three-gaming-pc-best-monitor-setup-1851593290)
- - [Baldur&#39;s Gate 3 Won So Many Awards It Started To Cause Problems](https://kotaku.com/baldurs-gate-3-too-many-awards-winning-larian-goty-1851593323)<!-- GAME:END -->
+ - [How To Unlock Bunny In The First Descendant](https://kotaku.com/first-descendant-bunny-unlock-free-worth-it-1851593517)
+ - [I didn&#39;t expect my favorite cozy MMO to do a crossover with a Finnish children&#39;s series](https://www.pcgamer.com/games/mmo/i-can-t-say-i-expected-my-favorite-mmo-to-do-a-crossover-with-a-finnish-children-s-series)
+ - [An Elden Ring Mod Lets You Summon DLC Bosses Like They’re Pokémon](https://kotaku.com/elden-ring-shadow-erdtree-pokemon-mod-bosses-1851593561)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
