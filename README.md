@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Finding your flow in Bō: Path of the Teal Lotus, out July 17](https://blog.playstation.com/2024/07/15/finding-your-flow-in-bo-path-of-the-teal-lotus-out-july-17/)
- - [&#39;We can&#39;t stay here&#39;: Larian CEO opens up about relocating Russian developers otherwise, &#39;all of my team was going to go to war&#39;](https://www.pcgamer.com/games/rpg/we-cant-stay-here-larian-ceo-opens-up-about-relocating-russian-developers-otherwise-all-of-my-team-was-going-to-go-to-war)
- - [Dystopian anime Terminator Zero annihilates civilization in its first trailer](https://www.polygon.com/anime/24198856/terminator-zero-anime-trailer-release-date)<!-- GAME:END -->
+ - [A Tourist’s Guide to Dungeons of Hinterberg – Coming Day One with Game Pass](https://news.xbox.com/en-us/2024/07/15/tourists-guide-dungeons-of-hinterberg-day-one-with-game-pass/)
+ - [Sonic the Hedgehog would be a truly great franchise if not for the games](https://www.polygon.com/24196784/sonic-the-hedgehog-games-decent-at-best-sonic-great-tho)
+ - [Continuity doesn’t matter](https://www.polygon.com/24196694/dc-marvel-superhero-continuity)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
