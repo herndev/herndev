@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [PSA: OnePlus’s ‘Any Device Any Condition’ is practically a discount, not a trade-in](https://www.androidauthority.com/oneplus-trade-in-credit-3460773/)
- - [Pixel 9 Pro buyers may receive a free $240 Google One subscription with Gemini Advanced](https://www.androidauthority.com/pixel-9-pro-gemini-advanced-3460885/)
- - [Apple launches the public betas for iOS 18, iPadOS 18, macOS Sequoia, and watchOS 11, but without any Apple Intelligence features &lpar;Wes Davis/The Verge&rpar;](http://www.techmeme.com/240715/p23#a240715p23)<!-- TECH:END -->
+ - [AliveCor suffers another loss in Apple Watch ECG patent battle](https://appleinsider.com/articles/24/07/15/alivecor-suffers-another-loss-in-apple-watch-ecg-patent-battle?utm_medium=rss)
+ - [The best Xbox controller to buy right now](https://www.theverge.com/23025443/best-xbox-controllers-one-series-x-s)
+ - [29 Best Early Amazon Prime Day Deals &lpar;2024&rpar;](https://www.wired.com/story/best-early-amazon-prime-day-deals-2024-1/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
