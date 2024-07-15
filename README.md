@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [If only they knew](http://9gag.com/gag/adBjGPN)
- - ⏩ [Men came, men fixed, men left](http://9gag.com/gag/axyjq61)
- - 👉 [Dude was flabbergasted by that question](http://9gag.com/gag/a0epGqq)<!-- MEMES:END -->
+ - 💣 [Men came, men fixed, men left](http://9gag.com/gag/axyjq61)
+ - ⏩ [To those who said it was just a bbgun. Notice the forklift spraying out the fluid:](http://9gag.com/gag/ae9Gwdp)
+ - 👉 [Last moment when Thomas Matthew Crooks was seen alive - he seems unafraid despite the crowd shouting at him](http://9gag.com/gag/a87MxY1)<!-- MEMES:END -->
 
 ---
 
