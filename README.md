@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [FCC docs reveal the Pixel 9’s smart home superpower](https://www.androidauthority.com/pixel-9-fcc-3460416/)
- - [An internal document and source detail OpenAI&#39;s Strawberry, formerly known as Q*, which aims to improve its AI models&#39; reasoning capabilities dramatically &lpar;Reuters&rpar;](http://www.techmeme.com/240712/p26#a240712p26)
- - [Must-See Prime Day Gaming Deals: Grab Amazing Discounts on Consoles, Games, and Accessories](https://www.cnet.com/deals/best-prime-day-gaming-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [A look at Nexus, a Bank for International Settlements-backed project aiming to link domestic smartphone-based payment systems for instant cross-border payments &lpar;Andy Mukherjee/Bloomberg&rpar;](http://www.techmeme.com/240714/p9#a240714p9)
+ - [Power Up With This Discounted Baseus Power Bank Ahead of Prime Day](https://www.cnet.com/deals/power-up-with-this-discounted-baseus-power-bank-ahead-of-prime-day/#ftag=CAD590a51e)
+ - [Amazon Prime Live Blog: Our Favorite 137 Deals So Far](https://www.cnet.com/tech/best-prime-day-deals-live-2024-07-14/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
