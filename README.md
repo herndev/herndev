@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Shannen Doherty R.I.P](http://9gag.com/gag/a87Mx0O)
- - ⏩ [Dude was flabbergasted by that question](http://9gag.com/gag/a0epGqq)
- - 👉 [First world stupidity](http://9gag.com/gag/aGyxqr5)<!-- MEMES:END -->
+ - 💣 [These type of grass are hardly seen in the public](http://9gag.com/gag/aByYB62)
+ - ⏩ [First world stupidity](http://9gag.com/gag/aGyxqr5)
+ - 👉 [To those who said it was just a bbgun. Notice the forklift spraying out the fluid:](http://9gag.com/gag/ae9Gwdp)<!-- MEMES:END -->
 
 ---
 
