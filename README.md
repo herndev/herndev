@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Mark Your Calendars: Black Ops 6 Multiplayer Open Beta Dates Revealed](https://www.callofduty.com/blog/2024/07/call-of-duty-black-ops-6-mp-beta-dates-revealed#new_tab)
- - [Call Of Duty: Black Ops 6&#39;s First Beta Weekend Is Closer Than You Think](https://kotaku.com/cod-blops-6-beta-weekend-dates-pre-order-game-pass-1851593252)
- - [Cyberpunk 2 director says CP 2077&#39;s catastrophic launch &#39;crushed&#39; the developers and the subsequent redemption arc was basically &#39;group therapy&#39;](https://www.pcgamer.com/games/rpg/cyberpunk-2-director-says-cp-2077s-catastrophic-launch-crushed-the-developers-and-the-subsequent-redemption-arc-was-basically-group-therapy)<!-- GAME:END -->
+ - [Final Fantasy XIV: A Beginner’s Guide To Questing](https://kotaku.com/final-fantasy-14-ff14-quest-red-green-blue-1851593464)
+ - [My Lengthy, Frustrating Quest To Become A PC Gamer](https://kotaku.com/nzxt-player-three-gaming-pc-best-monitor-setup-1851593290)
+ - [Baldur&#39;s Gate 3 Won So Many Awards It Started To Cause Problems](https://kotaku.com/baldurs-gate-3-too-many-awards-winning-larian-goty-1851593323)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
