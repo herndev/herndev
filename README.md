@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How Detective Dotson Brings Co-op Cases to Your Couch](https://news.xbox.com/en-us/2024/07/15/detective-dotson-co-op-cases-to-your-couch/)
- - [Ken Levine says Bioshock was &#39;almost cancelled&#39; after going over time and over budget, while all publishers cared about was that these games &#39;don&#39;t make any money&#39;](https://www.pcgamer.com/games/fps/ken-levine-says-bioshock-was-almost-cancelled-after-going-over-time-and-over-budget-while-all-publishers-cared-about-was-that-these-games-dont-make-any-money)
- - [10 Tips For Starting Out In Final Fantasy XIV](https://kotaku.com/final-fantasy-xiv-14-new-account-player-character-1851592887)<!-- GAME:END -->
+ - [Mark Your Calendars: Black Ops 6 Multiplayer Open Beta Dates Revealed](https://www.callofduty.com/blog/2024/07/call-of-duty-black-ops-6-mp-beta-dates-revealed#new_tab)
+ - [Call Of Duty: Black Ops 6&#39;s First Beta Weekend Is Closer Than You Think](https://kotaku.com/cod-blops-6-beta-weekend-dates-pre-order-game-pass-1851593252)
+ - [Cyberpunk 2 director says CP 2077&#39;s catastrophic launch &#39;crushed&#39; the developers and the subsequent redemption arc was basically &#39;group therapy&#39;](https://www.pcgamer.com/games/rpg/cyberpunk-2-director-says-cp-2077s-catastrophic-launch-crushed-the-developers-and-the-subsequent-redemption-arc-was-basically-group-therapy)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
