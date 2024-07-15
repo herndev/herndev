@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Very effective security](http://9gag.com/gag/a1mM9rb)
- - ⏩ [Yeah i&#39;m bigot... so what...](http://9gag.com/gag/an7NLKz)
- - 👉 [Female secret service agent hiding behind the person she was hired to protect! &lpar;Though, there is no wage gap like that at all, which should be there!&rpar;](http://9gag.com/gag/aGyxXBw)<!-- MEMES:END -->
+ - 💣 [To those who said it was just a bbgun. Notice the forklift spraying out the fluid:](http://9gag.com/gag/ae9Gwdp)
+ - ⏩ [Very effective security](http://9gag.com/gag/a1mM9rb)
+ - 👉 [If only they knew](http://9gag.com/gag/adBjGPN)<!-- MEMES:END -->
 
 ---
 
