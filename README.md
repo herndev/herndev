@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Dude was flabbergasted by that question](http://9gag.com/gag/a0epGqq)
- - ⏩ [Buckle up! The meme world is about to go on a wild ride for the next four years!](http://9gag.com/gag/aW46ARA)
- - 👉 [Crowd noticed the gunman moments before disaster](http://9gag.com/gag/aLn2E1M)<!-- MEMES:END -->
+ - 💣 [Shannen Doherty R.I.P](http://9gag.com/gag/a87Mx0O)
+ - ⏩ [Dude was flabbergasted by that question](http://9gag.com/gag/a0epGqq)
+ - 👉 [First world stupidity](http://9gag.com/gag/aGyxqr5)<!-- MEMES:END -->
 
 ---
 
