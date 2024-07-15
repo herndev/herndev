@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [If only they knew](http://9gag.com/gag/adBjGPN)
- - ⏩ [Last moment when Thomas Matthew Crooks was seen alive - he seems unafraid despite the crowd shouting at him](http://9gag.com/gag/a87MxY1)
- - 👉 [Upload 2: eclectic boogaloo!](http://9gag.com/gag/aByYBG1)<!-- MEMES:END -->
+ - 💣 [Batgirl](http://9gag.com/gag/amo94YX)
+ - ⏩ [Arrogance](http://9gag.com/gag/aByY7nA)
+ - 👉 [If two doctors are arguing about the line, imagine people who don&#39;t know anything](http://9gag.com/gag/aAy1jq2)<!-- MEMES:END -->
 
 ---
 
