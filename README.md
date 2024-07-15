@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Batgirl](http://9gag.com/gag/amo94YX)
- - ⏩ [Arrogance](http://9gag.com/gag/aByY7nA)
- - 👉 [If two doctors are arguing about the line, imagine people who don&#39;t know anything](http://9gag.com/gag/aAy1jq2)<!-- MEMES:END -->
+ - 💣 [Female secret service agent hiding behind the person she was hired to protect! &lpar;Though, there is no wage gap like that at all, which should be there!&rpar;](http://9gag.com/gag/aGyxXBw)
+ - ⏩ [Very effective security](http://9gag.com/gag/a1mM9rb)
+ - 👉 [Go woke, get broke](http://9gag.com/gag/aO8VXzR)<!-- MEMES:END -->
 
 ---
 
