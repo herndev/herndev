@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Source: Apple&#39;s India revenue rose 33% YoY to almost $8B between March 2023 and March 2024, and up from $4.1B in March 2022; pricey iPhones were 50%+ of sales &lpar;Sankalp Phartiyal/Bloomberg&rpar;](http://www.techmeme.com/240715/p4#a240715p4)
- - [Amazon Prime Live Blog: The Best 100-Plus Deals We&#39;ve Found So Far](https://www.cnet.com/tech/best-prime-day-deals-live-2024-07-15/#ftag=CAD590a51e)
- - [Best Twin Mattress for 2024](https://www.cnet.com/health/sleep/best-twin-mattress/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Electric Cars and EVs for 2024](https://www.cnet.com/roadshow/news/best-ev-electric-car/#ftag=CAD590a51e)
+ - [Best Prime Day Roku Deals: Slick Savings on Streaming Devices and TVs](https://www.cnet.com/deals/best-prime-day-roku-deals-2024-07-15/#ftag=CAD590a51e)
+ - [Amazon Prime Live Blog: 142 Must-See Deals We&#39;ve Found So Far](https://www.cnet.com/tech/best-prime-day-deals-live-2024-07-15/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
