@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A Wii U emulator for Android just leaked, but you should definitely wait](https://www.androidauthority.com/wii-u-emulator-android-leak-3460538/)
- - [Best Buy Black Friday in July sale: Apple Watch $100 off, $749 M2 MacBook Air, $500 off iPad](https://appleinsider.com/articles/24/07/15/best-buy-black-friday-in-july-sale-apple-watch-100-off-749-m2-macbook-air-500-off-ipad?utm_medium=rss)
- - [An interview with Netflix Chief Content Officer Bela Bajaria, who presides over the company&#39;s $17B content budget, on catering to different tastes and more &lpar;Daniel Thomas/Financial Times&rpar;](http://www.techmeme.com/240715/p2#a240715p2)<!-- TECH:END -->
+ - [Source: Apple&#39;s India revenue rose 33% YoY to almost $8B between March 2023 and March 2024, and up from $4.1B in March 2022; pricey iPhones were 50%+ of sales &lpar;Sankalp Phartiyal/Bloomberg&rpar;](http://www.techmeme.com/240715/p4#a240715p4)
+ - [Amazon Prime Live Blog: The Best 100-Plus Deals We&#39;ve Found So Far](https://www.cnet.com/tech/best-prime-day-deals-live-2024-07-15/#ftag=CAD590a51e)
+ - [Best Twin Mattress for 2024](https://www.cnet.com/health/sleep/best-twin-mattress/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
