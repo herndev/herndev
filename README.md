@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Terminator heads back to 1997 in first trailer for Netflix anime](https://www.theverge.com/24198816/terminator-zero-trailer-netflix-anime)
- - [Spigen Thin Fit for Google Pixel 8a review: Should you buy it?](https://www.androidauthority.com/spigen-thin-fit-google-pixel-8a-review-3457225/)
- - [The DOJ Antitrust Division isn’t afraid to go to court](https://www.theverge.com/24186099/doj-antitrust-division-litigation-apple-google-ticketmaster)<!-- TECH:END -->
+ - [Biden’s top tech adviser says AI is a ‘today problem’](https://www.theverge.com/24197237/arati-prabhakar-ostp-director-tech-policy-science-ai-regulation-decoder-podcast)
+ - [I tried the new Google Home widget and watch tile, but I’ve already removed them](https://www.androidauthority.com/google-home-screen-widget-watch-tile-3457236/)
+ - [HomePod mini ditches space gray in favor of new midnight color](https://appleinsider.com/articles/24/07/15/homepod-mini-ditches-space-gray-in-favor-of-new-midnight-color?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
