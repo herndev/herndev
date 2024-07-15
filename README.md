@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [A Tourist’s Guide to Dungeons of Hinterberg – Coming Day One with Game Pass](https://news.xbox.com/en-us/2024/07/15/tourists-guide-dungeons-of-hinterberg-day-one-with-game-pass/)
- - [Sonic the Hedgehog would be a truly great franchise if not for the games](https://www.polygon.com/24196784/sonic-the-hedgehog-games-decent-at-best-sonic-great-tho)
- - [Continuity doesn’t matter](https://www.polygon.com/24196694/dc-marvel-superhero-continuity)<!-- GAME:END -->
+ - [Turtle Beach Burst II Air review](https://www.pcgamer.com/hardware/gaming-mice/turtle-beach-burst-ii-air-review)
+ - [Kunitsu-Gami: Path of the Goddess review](https://www.pcgamer.com/games/strategy/kunitsu-gami-path-of-the-goddess-review)
+ - [Can Binacle be shiny in Pokémon Go?](https://www.polygon.com/pokemon-go-guide/23758354/can-binacle-be-shiny-barbaracle)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
