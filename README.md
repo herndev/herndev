@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Turtle Beach Burst II Air review](https://www.pcgamer.com/hardware/gaming-mice/turtle-beach-burst-ii-air-review)
- - [Kunitsu-Gami: Path of the Goddess review](https://www.pcgamer.com/games/strategy/kunitsu-gami-path-of-the-goddess-review)
- - [Can Binacle be shiny in Pokémon Go?](https://www.polygon.com/pokemon-go-guide/23758354/can-binacle-be-shiny-barbaracle)<!-- GAME:END -->
+ - [What time does Genshin Impact 4.8 release?](https://www.polygon.com/genshin-impact-guides/24198998/version-4-8-release-maintenance-times)
+ - [Fallout: London won&#39;t be available for Epic Games Store players initially thanks to Bethesda&#39;s mod-breaking update](https://www.pcgamer.com/games/fallout/fallout-london-wont-be-available-for-epic-games-store-players-initially-thanks-to-bethesdas-mod-breaking-update)
+ - [Amazon’s New Like A Dragon Show Is Being Made By People Who Really Get The Games](https://kotaku.com/like-a-dragon-yakuza-amazon-kiryu-actor-interview-1851592856)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
