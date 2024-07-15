@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [When you&#39;re friend understand the jokes and back you up](http://9gag.com/gag/agmVeBn)
- - ⏩ [I am not sure how this masterpieces flopped..](http://9gag.com/gag/aoy9v9g)
- - 👉 [Shadow of Death](http://9gag.com/gag/amo9wX4)<!-- MEMES:END -->
+ - 💣 [Who can confirm?](http://9gag.com/gag/aGyx5gK)
+ - ⏩ [That worthless coworker](http://9gag.com/gag/a9y7woj)
+ - 👉 [If only they knew](http://9gag.com/gag/adBjGPN)<!-- MEMES:END -->
 
 ---
 
