@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google’s AI Overviews takes a backseat after bumpy ride](https://www.androidauthority.com/google-ai-overviews-drop-3460684/)
- - [ASML-funded Eindhoven University faces questions from the US about admitting Chinese students, as the US increasingly seeks to stem China&#39;s chip-making efforts &lpar;Cagan Koc/Bloomberg&rpar;](http://www.techmeme.com/240715/p15#a240715p15)
- - [AMD’s new AI chips have a home in HP’s next Copilot Plus laptop](https://www.theverge.com/2024/7/15/24198859/hp-omnibook-ultra-ai-amd-ryzen-microsoft-windows-copilot-plus)<!-- TECH:END -->
+ - [Google Photos’ video editor might soon get another cool feature &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-photos-video-speed-3460723/)
+ - [The Trump rally shooter had a Discord account, company says](https://www.theverge.com/2024/7/15/24198953/donald-trump-assassination-attempt-shooter-discord-social-media)
+ - [UK opens probe into risks of using Apple Wallet and rivals](https://appleinsider.com/articles/24/07/15/uk-opens-probe-into-risks-of-using-apple-wallet-and-rivals?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
