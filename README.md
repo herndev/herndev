@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [House of the Dragon’s latest episode turns gods into meat](https://www.polygon.com/reviews/24197476/house-of-the-dragon-season-2-episode-5-review)
- - [Renaissance Kingdom Wars is a pleasingly simple hybrid of Crusader Kings, Total War, and Age of Empires](https://www.pcgamer.com/games/strategy/renaissance-kingdom-wars-is-a-pleasingly-simple-hybrid-of-crusader-kings-total-war-and-age-of-empires)
- - [Baldur&#39;s Gate 3 director Swen Vincke says that all the awards actually started to obstruct development: &#39;It is surprisingly draining on the soul&#39;](https://www.pcgamer.com/games/rpg/baldurs-gate-3-director-swen-vincke-says-that-all-the-awards-actually-started-to-obstruct-development-it-is-surprisingly-draining-on-the-soul)<!-- GAME:END -->
+ - [Finding your flow in Bō: Path of the Teal Lotus, out July 17](https://blog.playstation.com/2024/07/15/finding-your-flow-in-bo-path-of-the-teal-lotus-out-july-17/)
+ - [&#39;We can&#39;t stay here&#39;: Larian CEO opens up about relocating Russian developers otherwise, &#39;all of my team was going to go to war&#39;](https://www.pcgamer.com/games/rpg/we-cant-stay-here-larian-ceo-opens-up-about-relocating-russian-developers-otherwise-all-of-my-team-was-going-to-go-to-war)
+ - [Dystopian anime Terminator Zero annihilates civilization in its first trailer](https://www.polygon.com/anime/24198856/terminator-zero-anime-trailer-release-date)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
