@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [If only they knew](http://9gag.com/gag/adBjGPN)
- - ⏩ [First world stupidity](http://9gag.com/gag/aGyxqr5)
- - 👉 [Female secret service agent hiding behind the person she was hired to protect! &lpar;Though, there is no wage gap like that at all, which should be there!&rpar;](http://9gag.com/gag/aGyxXBw)<!-- MEMES:END -->
+ - ⏩ [Men came, men fixed, men left](http://9gag.com/gag/axyjq61)
+ - 👉 [Dude was flabbergasted by that question](http://9gag.com/gag/a0epGqq)<!-- MEMES:END -->
 
 ---
 
