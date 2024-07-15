@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [IDC: ~350M people in India still use a feature phone, and 50% of them have a model that costs less than $18; ASP of a smartphone is $255, up 54% from 2020 &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/240715/p1#a240715p1)
+ - [T-Mobile employee paints miserable picture as shady sales tactics are uncovered](https://www.androidauthority.com/t-mobile-sales-tactics-employee-interview-3460125/)
  - [Amazon Prime Live Blog: The Best 100-Plus Deals We&#39;ve Found So Far](https://www.cnet.com/tech/best-prime-day-deals-live-2024-07-14/#ftag=CAD590a51e)
- - [Best Prime Day Laptop Deals: Score Major Savings From Apple, HP, Acer and More](https://www.cnet.com/deals/best-prime-day-laptop-deals-2024-07-14/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [IDC: ~350M people in India still use a feature phone, and 50% of them have a model that costs less than $18; ASP of a smartphone is $255, up 54% from 2020 &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/240715/p1#a240715p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
