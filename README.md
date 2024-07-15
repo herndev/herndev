@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Get a jump on Prime Day with these awesome Best Buy deals](https://www.polygon.com/24196656/best-buy-black-friday-prime-day-gaming-deal-sale)
- - [Get ready to cook and explore at the same time in wholesome metroidvania Magical Delicacy](https://www.pcgamer.com/games/get-ready-to-cook-and-explore-at-the-same-time-in-wholesome-metroidvania-magical-delicacy)
- - [Despite its &#39;mixed&#39; user rating on Steam, The First Descendant has racked up over 10 million players in its first week](https://www.pcgamer.com/games/third-person-shooter/despite-its-mixed-user-rating-on-steam-the-first-descendant-has-racked-up-over-10-million-players-in-its-first-week)<!-- GAME:END -->
+ - [House of the Dragon’s latest episode turns gods into meat](https://www.polygon.com/reviews/24197476/house-of-the-dragon-season-2-episode-5-review)
+ - [Renaissance Kingdom Wars is a pleasingly simple hybrid of Crusader Kings, Total War, and Age of Empires](https://www.pcgamer.com/games/strategy/renaissance-kingdom-wars-is-a-pleasingly-simple-hybrid-of-crusader-kings-total-war-and-age-of-empires)
+ - [Baldur&#39;s Gate 3 director Swen Vincke says that all the awards actually started to obstruct development: &#39;It is surprisingly draining on the soul&#39;](https://www.pcgamer.com/games/rpg/baldurs-gate-3-director-swen-vincke-says-that-all-the-awards-actually-started-to-obstruct-development-it-is-surprisingly-draining-on-the-soul)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
