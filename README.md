@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Get ready to cook and explore at the same time in wholesome metroidvania Magical Delicacy](https://www.pcgamer.com/games/get-ready-to-cook-and-explore-at-the-same-time-in-wholesome-metroidvania-magical-delicacy)
  - [Despite its &#39;mixed&#39; user rating on Steam, The First Descendant has racked up over 10 million players in its first week](https://www.pcgamer.com/games/third-person-shooter/despite-its-mixed-user-rating-on-steam-the-first-descendant-has-racked-up-over-10-million-players-in-its-first-week)
- - [Double Dragon Revive promises a refresh of the venerable beat &#39;em up in 2025](https://www.pcgamer.com/games/action/double-dragon-revive-promises-a-refresh-of-the-venerable-beat-em-up-in-2025)
- - [Today&#39;s Wordle answer for Monday, July 15](https://www.pcgamer.com/games/puzzle/wordle-answer-today-july-15-2024)<!-- GAME:END -->
+ - [Double Dragon Revive promises a refresh of the venerable beat &#39;em up in 2025](https://www.pcgamer.com/games/action/double-dragon-revive-promises-a-refresh-of-the-venerable-beat-em-up-in-2025)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
