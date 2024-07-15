@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Bikeriders, The Kingdom of the Planet of the Apes, and every movie new to streaming this week](https://www.polygon.com/2024/7/12/24191828/new-movies-the-bikeriders-kingdom-of-the-planet-of-the-apes-netflix-the-peasants)
- - [Former Bungie lead counsel explains how the studio nailed one of Destiny 2&#39;s most infamous leakers](https://www.pcgamer.com/gaming-industry/former-bungie-lead-counsel-explains-how-the-studio-nailed-one-of-destiny-2s-most-infamous-leakers)
- - [Prepare to hear opinions: Concord&#39;s first beta is live now](https://www.pcgamer.com/games/fps/prepare-to-hear-opinions-concords-first-beta-is-live-now)<!-- GAME:END -->
+ - [My favorite weapon from Elden Ring: Shadow of the Erdtree is even more powerful than I thought, letting you completely juke legendary boss Malenia&#39;s Waterfowl Dance](https://www.pcgamer.com/games/rpg/my-favorite-weapon-from-elden-ring-shadow-of-the-erdtree-is-even-more-powerful-than-i-thought-letting-you-completely-juke-legendary-boss-malenias-waterfowl-dance)
+ - [We Compared HBO’s House of the Dragon To Game Of Thrones To Determine The Worst Ways To Die](https://kotaku.com/game-of-thrones-house-dragon-worst-deaths-red-wedding-1851592038)
+ - [Black Desert Online is introducing a mammoth-size &#39;War of the Roses&#39; PvP mode for duking it out with 599 of your closest friends](https://www.pcgamer.com/games/mmo/black-desert-online-is-introducing-a-mammoth-size-war-of-the-roses-pvp-mode-for-duking-it-out-with-599-of-your-closest-friends)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
