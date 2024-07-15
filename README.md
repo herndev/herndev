@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [If you miss defragmenting your C drive, there&#39;s a website that lets you recreate the experience complete with hard-drive chunking sounds](https://www.pcgamer.com/hardware/if-you-miss-defragmenting-your-c-drive-theres-a-website-that-lets-you-recreate-the-experience-complete-with-hard-drive-chunking-sounds)
- - [My favorite weapon from Elden Ring: Shadow of the Erdtree is even more powerful than I thought, letting you completely juke legendary boss Malenia&#39;s Waterfowl Dance](https://www.pcgamer.com/games/rpg/my-favorite-weapon-from-elden-ring-shadow-of-the-erdtree-is-even-more-powerful-than-i-thought-letting-you-completely-juke-legendary-boss-malenias-waterfowl-dance)
- - [We Compared HBO’s House of the Dragon To Game Of Thrones To Determine The Worst Ways To Die](https://kotaku.com/game-of-thrones-house-dragon-worst-deaths-red-wedding-1851592038)<!-- GAME:END -->
+ - [Looks like Journey to the Savage Planet is getting a sequel](https://www.pcgamer.com/games/adventure/looks-like-journey-to-the-savage-planet-is-getting-a-sequel)
+ - [It turns out that Commander Shepard runs a great game of Call of Cthulhu](https://www.pcgamer.com/games/rpg/it-turns-out-that-commander-shepard-runs-a-great-game-of-call-of-cthulhu)
+ - [All the House of the Dragon houses and characters you need to know](https://www.polygon.com/23322393/house-dragon-houses-characters-explained)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
