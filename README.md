@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Analysis: North Korea&#39;s Lazarus sent $150K+ in crypto to Cambodian company Huione Pay between June 2023 and February 2024, showing how the group launders funds &lpar;Tom Wilson/Reuters&rpar;](http://www.techmeme.com/240715/p7#a240715p7)
- - [Decoding the ABB Nascar EV Prototype](https://www.wired.com/story/nascar-ev-prototype-race-car-abb/)
- - [Best Electric Cars and EVs for 2024](https://www.cnet.com/roadshow/news/best-ev-electric-car/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Terminator heads back to 1997 in first trailer for Netflix anime](https://www.theverge.com/24198816/terminator-zero-trailer-netflix-anime)
+ - [Spigen Thin Fit for Google Pixel 8a review: Should you buy it?](https://www.androidauthority.com/spigen-thin-fit-google-pixel-8a-review-3457225/)
+ - [The DOJ Antitrust Division isn’t afraid to go to court](https://www.theverge.com/24186099/doj-antitrust-division-litigation-apple-google-ticketmaster)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
