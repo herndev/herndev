@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Don&#39;t get drunk on office party](http://9gag.com/gag/aKGqN1g)
- - ⏩ [There&#39;s nothing you can do. Leave guys](http://9gag.com/gag/aW46NNq)
- - 👉 [You have said it, Joe! Thank you.](http://9gag.com/gag/aNDn2jr)<!-- MEMES:END -->
+ - 💣 [When you&#39;re friend understand the jokes and back you up](http://9gag.com/gag/agmVeBn)
+ - ⏩ [I am not sure how this masterpieces flopped..](http://9gag.com/gag/aoy9v9g)
+ - 👉 [Shadow of Death](http://9gag.com/gag/amo9wX4)<!-- MEMES:END -->
 
 ---
 
