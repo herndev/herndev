@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [If only they knew](http://9gag.com/gag/adBjGPN)
- - ⏩ [First world stupidity](http://9gag.com/gag/aGyxqr5)
- - 👉 [Men came, men fixed, men left](http://9gag.com/gag/axyjq61)<!-- MEMES:END -->
+ - 💣 [Last moment when Thomas Matthew Crooks was seen alive - he seems unafraid despite the crowd shouting at him](http://9gag.com/gag/a87MxY1)
+ - ⏩ [Shannen Doherty R.I.P](http://9gag.com/gag/a87Mx0O)
+ - 👉 [I&#39;ll just leave this here...](http://9gag.com/gag/aQz8LPK)<!-- MEMES:END -->
 
 ---
 
