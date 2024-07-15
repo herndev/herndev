@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Messages gets its fun Screen Effects feature back](https://www.androidauthority.com/google-messages-screen-effects-3460828/)
- - [Samsung One UI 6.1.1 brings AI suggested replies to the Galaxy Z Flip 6 and One UI Watch 6](https://www.androidauthority.com/samsung-suggested-replies-one-ui-3460745/)
- - [Appeals court halts return of net neutrality](https://www.theverge.com/2024/7/15/24199126/net-neutrality-rules-temporarily-halted-sixth-circuit)<!-- TECH:END -->
+ - [PSA: OnePlus’s ‘Any Device Any Condition’ is practically a discount, not a trade-in](https://www.androidauthority.com/oneplus-trade-in-credit-3460773/)
+ - [Pixel 9 Pro buyers may receive a free $240 Google One subscription with Gemini Advanced](https://www.androidauthority.com/pixel-9-pro-gemini-advanced-3460885/)
+ - [Apple launches the public betas for iOS 18, iPadOS 18, macOS Sequoia, and watchOS 11, but without any Apple Intelligence features &lpar;Wes Davis/The Verge&rpar;](http://www.techmeme.com/240715/p23#a240715p23)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
