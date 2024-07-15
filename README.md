@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Who can confirm?](http://9gag.com/gag/aGyx5gK)
- - ⏩ [That worthless coworker](http://9gag.com/gag/a9y7woj)
- - 👉 [If only they knew](http://9gag.com/gag/adBjGPN)<!-- MEMES:END -->
+ - 💣 [I am not sure how this masterpieces flopped..](http://9gag.com/gag/aoy9v9g)
+ - ⏩ [Whoever did this just WON Trump the election](http://9gag.com/gag/a6Z7682)
+ - 👉 [Military problem solving](http://9gag.com/gag/aRBAqA7)<!-- MEMES:END -->
 
 ---
 
