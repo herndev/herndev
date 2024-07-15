@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Female secret service agent hiding behind the person she was hired to protect! &lpar;Though, there is no wage gap like that at all, which should be there!&rpar;](http://9gag.com/gag/aGyxXBw)
- - ⏩ [Upload 2: eclectic boogaloo!](http://9gag.com/gag/aByYBG1)
- - 👉 [If only they knew](http://9gag.com/gag/adBjGPN)<!-- MEMES:END -->
+ - ⏩ [Israel used a bomb so big it was visible for miles in Gaza](http://9gag.com/gag/aE079mx)
+ - 👉 [Last moment when Thomas Matthew Crooks was seen alive - he seems unafraid despite the crowd shouting at him](http://9gag.com/gag/a87MxY1)<!-- MEMES:END -->
 
 ---
 
