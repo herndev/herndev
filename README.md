@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [These type of grass are hardly seen in the public](http://9gag.com/gag/aByYB62)
+ - 💣 [If only they knew](http://9gag.com/gag/adBjGPN)
  - ⏩ [First world stupidity](http://9gag.com/gag/aGyxqr5)
- - 👉 [To those who said it was just a bbgun. Notice the forklift spraying out the fluid:](http://9gag.com/gag/ae9Gwdp)<!-- MEMES:END -->
+ - 👉 [Female secret service agent hiding behind the person she was hired to protect! &lpar;Though, there is no wage gap like that at all, which should be there!&rpar;](http://9gag.com/gag/aGyxXBw)<!-- MEMES:END -->
 
 ---
 
