@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Here&#39;s three reasons I&#39;m actually pretty optimistic about Dragon: Age: The Veilguard despite being an old school RPG sicko](https://www.pcgamer.com/games/rpg/heres-three-reasons-im-actually-pretty-optimistic-about-dragon-age-the-veilguard-despite-being-an-old-school-rpg-sicko)
- - [Jackass Star Steve-O Got Paid $100,000 For Appearing In NFL 2K5](https://kotaku.com/steve-o-nfl-2k5-tony-hawk-underground-paid-100k-5k-ps2-1851593576)
- - [How To Unlock Bunny In The First Descendant](https://kotaku.com/first-descendant-bunny-unlock-free-worth-it-1851593517)<!-- GAME:END -->
+ - [Call of Duty: Black Ops 6 multiplayer beta kicks off in August, and this time PlayStation players aren&#39;t getting in ahead of the rest of us](https://www.pcgamer.com/games/call-of-duty/call-of-duty-black-ops-6-multiplayer-beta-dates)
+ - [Yikes: a full build of Space Marine 2 has seemingly leaked online almost 2 full months before release](https://www.pcgamer.com/games/action/yikes-a-full-build-of-space-marine-2-has-seemingly-leaked-online-almost-2-full-months-before-release)
+ - [Here&#39;s 3 reasons I&#39;m actually pretty optimistic about Dragon Age: The Veilguard despite being an old school RPG sicko](https://www.pcgamer.com/games/rpg/heres-three-reasons-im-actually-pretty-optimistic-about-dragon-age-the-veilguard-despite-being-an-old-school-rpg-sicko)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
