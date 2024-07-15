@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Last moment when Thomas Matthew Crooks was seen alive - he seems unafraid despite the crowd shouting at him](http://9gag.com/gag/a87MxY1)
- - ⏩ [Shannen Doherty R.I.P](http://9gag.com/gag/a87Mx0O)
- - 👉 [I&#39;ll just leave this here...](http://9gag.com/gag/aQz8LPK)<!-- MEMES:END -->
+ - 💣 [Dude was flabbergasted by that question](http://9gag.com/gag/a0epGqq)
+ - ⏩ [Buckle up! The meme world is about to go on a wild ride for the next four years!](http://9gag.com/gag/aW46ARA)
+ - 👉 [Crowd noticed the gunman moments before disaster](http://9gag.com/gag/aLn2E1M)<!-- MEMES:END -->
 
 ---
 
