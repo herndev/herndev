@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at Nexus, a Bank for International Settlements-backed project aiming to link domestic smartphone-based payment systems for instant cross-border payments &lpar;Andy Mukherjee/Bloomberg&rpar;](http://www.techmeme.com/240714/p9#a240714p9)
- - [Power Up With This Discounted Baseus Power Bank Ahead of Prime Day](https://www.cnet.com/deals/power-up-with-this-discounted-baseus-power-bank-ahead-of-prime-day/#ftag=CAD590a51e)
- - [Amazon Prime Live Blog: Our Favorite 137 Deals So Far](https://www.cnet.com/tech/best-prime-day-deals-live-2024-07-14/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Hopefully, this new PARAMOUNT logo won’t stick around for long](https://www.theverge.com/2024/7/14/24198505/paramount-global-skydance-logo-redesign-merger)
+ - [Amazon Prime Live Blog: Our Favorite 138 Deals So Far](https://www.cnet.com/tech/best-prime-day-deals-live-2024-07-14/#ftag=CAD590a51e)
+ - [Apple Watch Early Prime Day Deal: Save $100 on an Apple Watch Series 9](https://www.cnet.com/deals/apple-watch-prime-day-deals-save-100-on-an-apple-watch-series-9/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
