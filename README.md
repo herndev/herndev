@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How To Unlock Bunny In The First Descendant](https://kotaku.com/first-descendant-bunny-unlock-free-worth-it-1851593517)
- - [I didn&#39;t expect my favorite cozy MMO to do a crossover with a Finnish children&#39;s series](https://www.pcgamer.com/games/mmo/i-can-t-say-i-expected-my-favorite-mmo-to-do-a-crossover-with-a-finnish-children-s-series)
- - [An Elden Ring Mod Lets You Summon DLC Bosses Like They’re Pokémon](https://kotaku.com/elden-ring-shadow-erdtree-pokemon-mod-bosses-1851593561)<!-- GAME:END -->
+ - [Here&#39;s three reasons I&#39;m actually pretty optimistic about Dragon: Age: The Veilguard despite being an old school RPG sicko](https://www.pcgamer.com/games/rpg/heres-three-reasons-im-actually-pretty-optimistic-about-dragon-age-the-veilguard-despite-being-an-old-school-rpg-sicko)
+ - [Jackass Star Steve-O Got Paid $100,000 For Appearing In NFL 2K5](https://kotaku.com/steve-o-nfl-2k5-tony-hawk-underground-paid-100k-5k-ps2-1851593576)
+ - [How To Unlock Bunny In The First Descendant](https://kotaku.com/first-descendant-bunny-unlock-free-worth-it-1851593517)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
