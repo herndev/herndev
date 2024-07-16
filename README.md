@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at draft AI policies from Trump allies at the America First Policy Institute and the Heritage Foundation that target &quot;burdensome&quot; AI regulations &lpar;Cat Zakrzewski/Washington Post&rpar;](http://www.techmeme.com/240716/p19#a240716p19)
- - [J.D. Vance is anti-Big Tech, pro-crypto](https://www.theverge.com/24199314/jd-vance-donald-trump-vp-antitrust-big-tech-ftc-lina-khan-elizabeth-warren-google)
- - [The best wireless earbuds to buy right now](https://www.theverge.com/21309820/best-wireless-earbuds)<!-- TECH:END -->
+ - [Best headphone and earbud deals for Amazon Prime Day 2024](https://www.theverge.com/24199168/amazon-prime-day-best-headphone-earbud-deals-2024)
+ - [Andrej Karpathy, an OpenAI co-founder and former head of Tesla&#39;s autopilot unit, unveils Eureka Labs, a &quot;new kind of school&quot; aiming to support teachers with AI &lpar;Akash Sriram/Reuters&rpar;](http://www.techmeme.com/240716/p20#a240716p20)
+ - [Hands on with new iPad magnetic charging stands with huge Prime Day discounts](https://appleinsider.com/inside/ipad-pro/best/best-magnetic-ipad-stand?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
