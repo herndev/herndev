@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [To those who said it was just a bbgun. Notice the forklift spraying out the fluid:](http://9gag.com/gag/ae9Gwdp)
- - ⏩ [Very effective security](http://9gag.com/gag/a1mM9rb)
- - 👉 [If only they knew](http://9gag.com/gag/adBjGPN)<!-- MEMES:END -->
+ - 💣 [I&#39;d wife this woman so hard.](http://9gag.com/gag/aryK6MX)
+ - ⏩ [Shooter took his time](http://9gag.com/gag/aoy9bRX)
+ - 👉 [If you don\u2019t understand this, we can\u2019t be friends](http://9gag.com/gag/a1mMGQY)<!-- MEMES:END -->
 
 ---
 
