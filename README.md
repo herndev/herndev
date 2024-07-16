@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Search Labs is ending its Notes experiment, which debuted in December 2023 as a way to let users leave &quot;helpful tips about an article&quot; directly on Search &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/240716/p22#a240716p22)
- - [The best Amazon Prime Day tech deals you can get](https://www.theverge.com/24197967/amazon-prime-day-best-tech-deals-gadgets-2024)
- - [Larian Studios teases all the new features coming in the next Baldur’s Gate 3 patch](https://www.theverge.com/2024/7/16/24199957/baldurs-gate-3-patch-7-coming-soon)<!-- TECH:END -->
+ - [Source: in an informal inquiry, the US FTC has asked Amazon to provide more details on its deal to hire top executives and license tech from AI startup Adept &lpar;Reuters&rpar;](http://www.techmeme.com/240716/p23#a240716p23)
+ - [Best mobile accessories Prime Day deals](https://www.androidauthority.com/mobile-accessories-prime-day-deals-3461531/)
+ - [The best smart home Prime Day deals](https://www.androidauthority.com/best-smart-home-prime-day-deals-3461503/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
