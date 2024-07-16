@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best Prime Day deals on charging devices](https://www.theverge.com/good-deals/24199348/best-amazon-prime-day-2024-chargers-power-banks-batteries-deal-sale)
- - [Puerto Rico files $1 billion suit against fossil fuel companies](https://www.theverge.com/2024/7/16/24199686/puerto-rico-fossil-fuel-industry-lawsuit-climate-change)
- - [I’m a seasoned runner, and I think these 5 Prime Day smartwatch deals are actually worth your cash](https://www.androidauthority.com/prime-day-wearables-running-deals-3461360/)<!-- TECH:END -->
+ - [The best Amazon Prime Day tech deals you can get](https://www.theverge.com/24197967/amazon-prime-day-best-tech-deals-gadgets-2024)
+ - [Sennheiser’s got a wireless headphone deal for everyone from the audiophile to the casual listener](https://www.androidauthority.com/sennheiser-headphones-deals-3461414/)
+ - [Google is ending an experiment that let you annotate search results](https://www.theverge.com/2024/7/16/24199822/google-search-notes-labs-experiment-ends)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
