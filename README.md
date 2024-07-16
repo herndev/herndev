@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Lee Daniels’ The Deliverance can’t pray away the demons in new trailer](https://www.theverge.com/24199694/netflix-the-deliverance-trailer-lee-daniels)
- - [The best robot vacuums](https://www.theverge.com/22997597/best-robot-vacuum-cleaner)
- - [Adorama is blowing out Apple inventory with a Prime Day coupon, prices start at $109](https://appleinsider.com/articles/24/07/16/adorama-is-blowing-out-apple-inventory-with-a-prime-day-coupon-prices-start-at-109?utm_medium=rss)<!-- TECH:END -->
+ - [The best Prime Day deals on charging devices](https://www.theverge.com/good-deals/24199348/best-amazon-prime-day-2024-chargers-power-banks-batteries-deal-sale)
+ - [Puerto Rico files $1 billion suit against fossil fuel companies](https://www.theverge.com/2024/7/16/24199686/puerto-rico-fossil-fuel-industry-lawsuit-climate-change)
+ - [I’m a seasoned runner, and I think these 5 Prime Day smartwatch deals are actually worth your cash](https://www.androidauthority.com/prime-day-wearables-running-deals-3461360/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
