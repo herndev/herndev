@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best Amazon Prime Day tech deals you can get](https://www.theverge.com/24197967/amazon-prime-day-best-tech-deals-gadgets-2024)
- - [Sennheiser’s got a wireless headphone deal for everyone from the audiophile to the casual listener](https://www.androidauthority.com/sennheiser-headphones-deals-3461414/)
- - [Google is ending an experiment that let you annotate search results](https://www.theverge.com/2024/7/16/24199822/google-search-notes-labs-experiment-ends)<!-- TECH:END -->
+ - [A look at draft AI policies from Trump allies at the America First Policy Institute and the Heritage Foundation that target &quot;burdensome&quot; AI regulations &lpar;Cat Zakrzewski/Washington Post&rpar;](http://www.techmeme.com/240716/p19#a240716p19)
+ - [J.D. Vance is anti-Big Tech, pro-crypto](https://www.theverge.com/24199314/jd-vance-donald-trump-vp-antitrust-big-tech-ftc-lina-khan-elizabeth-warren-google)
+ - [The best wireless earbuds to buy right now](https://www.theverge.com/21309820/best-wireless-earbuds)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
