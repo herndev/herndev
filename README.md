@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [\u00ae\u00ae\u00ae\u00ae](http://9gag.com/gag/azxj3Pj)
- - ⏩ [Asylum seekers in Germany threaten German homeowners. Now it&#39;s their home.](http://9gag.com/gag/aRBAb72)
- - 👉 [If only they knew](http://9gag.com/gag/adBjGPN)<!-- MEMES:END -->
+ - 💣 [Men came, men fixed, men left](http://9gag.com/gag/axyjq61)
+ - ⏩ [Very effective security](http://9gag.com/gag/a1mM9rb)
+ - 👉 [Israel used a bomb so big it was visible for miles in Gaza](http://9gag.com/gag/aE079mx)<!-- MEMES:END -->
 
 ---
 
