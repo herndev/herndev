@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Palace on the Hill Blends India’s Culture, Storytelling, and Art](https://news.xbox.com/en-us/2024/07/16/the-palace-on-the-hill-blends-indias-culture-storytelling-and-art/)
- - [Space Marine 2 studio says the leaked build is nearly a year old, urges people not to play it: &#39;It&#39;s disheartening that many of the surprises we worked to keep secret were spoiled&#39;](https://www.pcgamer.com/games/third-person-shooter/space-marine-2-studio-says-the-leaked-build-is-nearly-a-year-old-urges-people-not-to-play-it-its-disheartening-that-many-of-the-surprises-we-worked-to-keep-secret-were-spoiled)
- - [The First Descendant: Is Caliber Worth Spending Real Money On?](https://kotaku.com/the-first-descendant-is-caliber-worth-spending-real-mo-1851595265)<!-- GAME:END -->
+ - [Apex Legends Piles Up 10,000 Negative Steam Reviews As Players Fight Price Hikes](https://kotaku.com/apex-legends-steam-reviews-battle-pass-controversy-1851595270)
+ - [The best Prime Day 2024 deals](https://www.polygon.com/amazon-prime-day/24199570/best-deals-gaming-board-games-toys)
+ - [These Are Kevin Conroy&#39;s Final Words As Batman And They&#39;re Perfect](https://kotaku.com/kevin-conroy-batman-last-performance-justice-league-1851595361)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
