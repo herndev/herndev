@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Trump Anime is Already a Hit in Japan](http://9gag.com/gag/a34BoM7)
- - ⏩ [`The Angle`](http://9gag.com/gag/aNDn7QG)
- - 👉 [Upload 2: eclectic boogaloo!](http://9gag.com/gag/aByYBG1)<!-- MEMES:END -->
+ - 💣 [Poland is not fking around](http://9gag.com/gag/a1mMGWP)
+ - ⏩ [Female secret service agent hiding behind the person she was hired to protect! &lpar;Though, there is no wage gap like that at all, which should be there!&rpar;](http://9gag.com/gag/aGyxXBw)
+ - 👉 [A well earned victory after losing a thousand times over](http://9gag.com/gag/a9y73Y6)<!-- MEMES:END -->
 
 ---
 
