@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Source: in an informal inquiry, the US FTC has asked Amazon to provide more details on its deal to hire top executives and license tech from AI startup Adept &lpar;Reuters&rpar;](http://www.techmeme.com/240716/p23#a240716p23)
- - [Best mobile accessories Prime Day deals](https://www.androidauthority.com/mobile-accessories-prime-day-deals-3461531/)
- - [The best smart home Prime Day deals](https://www.androidauthority.com/best-smart-home-prime-day-deals-3461503/)<!-- TECH:END -->
+ - [The best Prime Day deals on Amazon devices](https://www.theverge.com/24186875/amazon-prime-day-device-deals-echo-speakers-kindles-fire-tv-streaming-sticks-sale-2024)
+ - [Elon Musk is moving X and SpaceX to Texas](https://www.theverge.com/2024/7/16/24200039/elon-musk-moving-x-spacex-headquarters-texas)
+ - [San Jose-based DreamBig, which develops chiplet platforms and was founded in 2019, raised a $75M equity round co-led by Samsung Catalyst Fund and Sehat Sutardja &lpar;Chris Metinko/Crunchbase News&rpar;](http://www.techmeme.com/240716/p24#a240716p24)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
