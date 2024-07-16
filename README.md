@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Poland is not fking around](http://9gag.com/gag/a1mMGWP)
- - ⏩ [Female secret service agent hiding behind the person she was hired to protect! &lpar;Though, there is no wage gap like that at all, which should be there!&rpar;](http://9gag.com/gag/aGyxXBw)
- - 👉 [A well earned victory after losing a thousand times over](http://9gag.com/gag/a9y73Y6)<!-- MEMES:END -->
+ - ⏩ [This guy gets it.](http://9gag.com/gag/aW46V1Z)
+ - 👉 [How To Get Into a Cinema For Free](http://9gag.com/gag/ajPAbL8)<!-- MEMES:END -->
 
 ---
 
