@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best Apple Prime Day deals - live coverage of the top sales](https://appleinsider.com/articles/24/07/16/best-apple-prime-day-deals---live-coverage-of-the-top-sales?utm_medium=rss)
  - [As the EU&#39;s AI Act takes effect in August, critics say the law is undercooked and regulators left out essential details needed to give clarity to businesses &lpar;Javier Espinoza/Financial Times&rpar;](http://www.techmeme.com/240716/p4#a240716p4)
- - [Prime Day deals are live: Here are the best we’ve found so far](https://www.androidauthority.com/prime-day-deals-2024-3460969/)
- - [Prime Day deals: Apple Watch Series 9 drops to record low $279, SE 2 dips to $169](https://appleinsider.com/articles/24/07/16/prime-day-deals-apple-watch-series-9-drops-to-record-low-279-se-2-dips-to-169?utm_medium=rss)<!-- TECH:END -->
+ - [Prime Day deals are live: Here are the best we’ve found so far](https://www.androidauthority.com/prime-day-deals-2024-3460969/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
