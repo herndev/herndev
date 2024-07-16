@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Coming to Game Pass: Kunitsu-Gami: Path of the Goddess, Flintlock: The Siege of Dawn, and Dungeons of Hinterberg](https://news.xbox.com/en-us/2024/07/16/xbox-game-pass-july-2024-wave-2/)
- - [Why Innersloth is funding your next favorite indie game](https://www.polygon.com/24198840/inntersloth-among-us-funding-indie-games)
- - [The best Prime Day 2024 deals](https://www.polygon.com/amazon-prime-day/24199570/prime-day-best-deals-gaming-tabletop-media)<!-- GAME:END -->
+ - [Russian antivirus giant Kaspersky leaves the US after two decades, slams the &#39;theoretical concerns&#39; that led to it being banned](https://www.pcgamer.com/gaming-industry/russian-antivirus-giant-kaspersky-leaves-the-us-after-two-decades-slams-the-theoretical-concerns-that-led-to-it-being-banned)
+ - [Devastating Early Leak Hits Next Big Warhammer 40K Game](https://kotaku.com/space-marine-2-leak-warhammer-40k-focus-saber-1851594237)
+ - [The best Prime Day 2024 deals](https://www.polygon.com/amazon-prime-day/24199570/best-deals-gaming-board-games-toys)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
