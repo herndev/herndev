@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Russian antivirus giant Kaspersky leaves the US after two decades, slams the &#39;theoretical concerns&#39; that led to it being banned](https://www.pcgamer.com/gaming-industry/russian-antivirus-giant-kaspersky-leaves-the-us-after-two-decades-slams-the-theoretical-concerns-that-led-to-it-being-banned)
- - [Devastating Early Leak Hits Next Big Warhammer 40K Game](https://kotaku.com/space-marine-2-leak-warhammer-40k-focus-saber-1851594237)
- - [The best Prime Day 2024 deals](https://www.polygon.com/amazon-prime-day/24199570/best-deals-gaming-board-games-toys)<!-- GAME:END -->
+ - [House Of The Dragon Season 2 Episode 5 Recap: Hitting The Dragonglass Ceiling](https://kotaku.com/house-of-the-dragon-recap-season-2-episode-5-1851594545)
+ - [The best gaming deals of Amazon Prime Day 2024](https://www.polygon.com/amazon-prime-day/24191114/best-gaming-deals-video-games)
+ - [Baldur’s Gate 3’s Next Patch Adds Something New For Nearly Every Party Member](https://kotaku.com/baldurs-gate-3-patch-7-september-release-date-notes-1851594488)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
