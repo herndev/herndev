@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Poland is not fking around](http://9gag.com/gag/a1mMGWP)
- - ⏩ [This guy gets it.](http://9gag.com/gag/aW46V1Z)
+ - 💣 [Never took old to be shared &lpar;just like ur mum&rpar;](http://9gag.com/gag/aQz8wO2)
+ - ⏩ [I&#39;d wife this woman so hard.](http://9gag.com/gag/aryK6MX)
  - 👉 [How To Get Into a Cinema For Free](http://9gag.com/gag/ajPAbL8)<!-- MEMES:END -->
 
 ---
