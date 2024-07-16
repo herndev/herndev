@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Fatality](http://9gag.com/gag/aBy19gZ)
- - ⏩ [Yeah i&#39;m bigot... so what...](http://9gag.com/gag/an7NLKz)
- - 👉 [Bro was casual under high pressure](http://9gag.com/gag/aMV9e9M)<!-- MEMES:END -->
+ - 💣 [Looks like a fun shower](http://9gag.com/gag/a6Z7v6m)
+ - ⏩ [Testing an unbreakable TV](http://9gag.com/gag/ae96K9j)
+ - 👉 [Fatality](http://9gag.com/gag/aBy19gZ)<!-- MEMES:END -->
 
 ---
 
