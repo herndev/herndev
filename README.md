@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: activist investor Starboard has built a 6.5%+ stake in Match Group and calls for the company to fix margins or pursue sale; MTCH jumps 8%+ after hours &lpar;Lauren Thomas/Wall Street Journal&rpar;](http://www.techmeme.com/240715/p26#a240715p26)
- - [iOS 18 might help you rescue photos you thought were gone forever](https://www.theverge.com/2024/7/15/24199358/apple-ios-18-photos-recovered-album)
- - [Music labels sue Verizon for more than $2.6 billion](https://www.theverge.com/2024/7/15/24199236/verizon-music-copyright-infringement-lawsuit-2-6-billion)<!-- TECH:END -->
+ - [Twitch streamer Ibai Llanos&#39; fourth boxing tournament in Madrid, with matches between influencers, set a record 3.85M+ concurrent viewers at its peak on July 13 &lpar;Adam Bumas/Wired&rpar;](http://www.techmeme.com/240715/p31#a240715p31)
+ - [Sources: Elon Musk plans to commit ~$45M/month to America PAC, a new pro-Trump super PAC; other backers include Palantir&#39;s Joe Lonsdale and the Winklevoss twins &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240715/p30#a240715p30)
+ - [Mexican fintech OCN, formerly known as OneCarNow, which offers car rentals for gig workers in Mexico and the US, raised a $86M Series A in equity and debt &lpar;Andrea Navarro/Bloomberg&rpar;](http://www.techmeme.com/240715/p29#a240715p29)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
