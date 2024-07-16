@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Apple Prime Day deals - live coverage of the top sales](https://appleinsider.com/articles/24/07/16/best-apple-prime-day-deals---live-coverage-of-the-top-sales?utm_medium=rss)
- - [As the EU&#39;s AI Act takes effect in August, critics say the law is undercooked and regulators left out essential details needed to give clarity to businesses &lpar;Javier Espinoza/Financial Times&rpar;](http://www.techmeme.com/240716/p4#a240716p4)
- - [Prime Day deals are live: Here are the best we’ve found so far](https://www.androidauthority.com/prime-day-deals-2024-3460969/)<!-- TECH:END -->
+ - [Prime Day deals: The best dash cam deals available now](https://www.androidauthority.com/prime-day-2024-best-dash-cam-deals-amazon-3460899/)
+ - [London-based Huma Therapeutics, which uses AI to help developers make health apps, raised an $80M Series D at a near-$1B valuation, for $300M in total funding &lpar;Saritha Rai/Bloomberg&rpar;](http://www.techmeme.com/240716/p7#a240716p7)
+ - [Motorola’s Prime Day discounts include its best foldable phone](https://www.androidauthority.com/motorola-razr-plus-2024-prime-day-deal-3461074/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
