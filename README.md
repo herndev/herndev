@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Men came, men fixed, men left](http://9gag.com/gag/axyjq61)
+ - 💣 [Trump Anime is Already a Hit in Japan](http://9gag.com/gag/a34BoM7)
  - ⏩ [`The Angle`](http://9gag.com/gag/aNDn7QG)
- - 👉 [Israel used a bomb so big it was visible for miles in Gaza](http://9gag.com/gag/aE079mx)<!-- MEMES:END -->
+ - 👉 [Upload 2: eclectic boogaloo!](http://9gag.com/gag/aByYBG1)<!-- MEMES:END -->
 
 ---
 
