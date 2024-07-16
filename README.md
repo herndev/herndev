@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [The best Magic: The Gathering deals of Amazon Prime Day 2024](https://www.polygon.com/amazon-prime-day/24191424/best-mtg-deals-magic-gathering)
  - [Lego Star Wars and Super Mario sets are 20% off for Prime Day](https://www.polygon.com/amazon-prime-day/24191428/best-lego-deals)
- - [The best gaming deals of Amazon Prime Day 2024](https://www.polygon.com/amazon-prime-day/24191114/best-gaming-deals-video-games)
- - [The best Amazon Prime Day board game deals under $50](https://www.polygon.com/amazon-prime-day/24191421/best-board-game-deals)<!-- GAME:END -->
+ - [The best gaming deals of Amazon Prime Day 2024](https://www.polygon.com/amazon-prime-day/24191114/best-gaming-deals-video-games)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
