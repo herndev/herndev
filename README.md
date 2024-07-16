@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [House Of The Dragon Season 2 Episode 5 Recap: Hitting The Dragonglass Ceiling](https://kotaku.com/house-of-the-dragon-recap-season-2-episode-5-1851594545)
- - [The best gaming deals of Amazon Prime Day 2024](https://www.polygon.com/amazon-prime-day/24191114/best-gaming-deals-video-games)
- - [Baldur’s Gate 3’s Next Patch Adds Something New For Nearly Every Party Member](https://kotaku.com/baldurs-gate-3-patch-7-september-release-date-notes-1851594488)<!-- GAME:END -->
+ - [Forza Horizon 5’s Latest Update Brings Cars &amp; Coffee](https://forza.net/news/forza-horizon-5-horizon-cars-coffee/#new_tab)
+ - [This creature collector has you tracking down quirky critters atop a giant bird, and I&#39;m addicted to finding every last one](https://www.pcgamer.com/games/adventure/this-creature-collector-has-you-tracking-down-quirky-critters-atop-a-giant-bird-and-im-addicted-to-finding-every-last-one)
+ - [Why viral Banana clicker is still dominating Steam charts, spawning lots of imitators](https://www.polygon.com/gaming/24199712/banana-clicker-steam-bots-top-charts)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
