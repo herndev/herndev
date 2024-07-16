@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best Adjustable Dumbbells for 2024](https://www.cnet.com/health/fitness/best-adjustable-dumbbells/#ftag=CAD590a51e)
  - [Samsung hasn’t forgotten about its older flagships, and One UI 6.1.1 will be a reason to cheer](https://www.androidauthority.com/samsung-devices-new-features-one-ui-6-1-1-3460902/)
- - [Sources: Google offered CISPE ~&amp;euro;455M worth of Google cloud licenses and &amp;euro;14M in cash in a deal for CISPE to maintain its antitrust complaint against Microsoft &lpar;Samuel Stolton/Bloomberg&rpar;](http://www.techmeme.com/240716/p2#a240716p2)
- - [Sources: China&#39;s CAC requires AI companies to prepare between 20K and 70K questions designed to test whether their AI models produce safe answers before release &lpar;Liza Lin/Wall Street Journal&rpar;](http://www.techmeme.com/240716/p1#a240716p1)<!-- TECH:END -->
+ - [Sources: Google offered CISPE ~&amp;euro;455M worth of Google cloud licenses and &amp;euro;14M in cash in a deal for CISPE to maintain its antitrust complaint against Microsoft &lpar;Samuel Stolton/Bloomberg&rpar;](http://www.techmeme.com/240716/p2#a240716p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
