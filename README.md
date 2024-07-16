@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [If two doctors are arguing about the line, imagine people who don&#39;t know anything](http://9gag.com/gag/aAy1jq2)
- - ⏩ [Yeah i&#39;m bigot... so what...](http://9gag.com/gag/an7NLKz)
- - 👉 [If only they knew](http://9gag.com/gag/adBjGPN)<!-- MEMES:END -->
+ - 💣 [Very effective security](http://9gag.com/gag/a1mM9rb)
+ - ⏩ [Go woke, get broke](http://9gag.com/gag/aO8VXzR)
+ - 👉 [Nice](http://9gag.com/gag/a1mM978)<!-- MEMES:END -->
 
 ---
 
