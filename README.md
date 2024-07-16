@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Uh oh, I played 7 hours of Concord this weekend and immediately want back in](https://www.pcgamer.com/games/fps/uh-oh-i-played-7-hours-of-concord-this-weekend-and-immediately-want-back-in)
  - [Dolphin emulator launches RetroAchievements support for more than 100 classic GameCube games, crashing its servers in the process](https://www.pcgamer.com/software/dolphin-emulator-launches-retroachievements-support-for-more-than-100-classic-gamecube-games-crashing-its-servers-in-the-process)
- - [Call of Duty: Black Ops 6 multiplayer beta kicks off in August, and this time PlayStation players aren&#39;t getting in ahead of the rest of us](https://www.pcgamer.com/games/call-of-duty/call-of-duty-black-ops-6-multiplayer-beta-dates)
- - [Yikes: a full build of Space Marine 2 has seemingly leaked online almost 2 full months before release](https://www.pcgamer.com/games/action/yikes-a-full-build-of-space-marine-2-has-seemingly-leaked-online-almost-2-full-months-before-release)<!-- GAME:END -->
+ - [Call of Duty: Black Ops 6 multiplayer beta kicks off in August, and this time PlayStation players aren&#39;t getting in ahead of the rest of us](https://www.pcgamer.com/games/call-of-duty/call-of-duty-black-ops-6-multiplayer-beta-dates)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
