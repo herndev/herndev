@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Genshin Impact voice actors criticize design of new character named after African deity: &#39;If you&#39;re going to use real-world deities, respect them&#39;](https://www.pcgamer.com/games/rpg/genshin-impact-voice-actors-criticize-design-of-new-character-named-after-african-deity-if-youre-going-to-use-real-world-deities-respect-them)
  - [Today&#39;s Wordle answer for Tuesday, July 16](https://www.pcgamer.com/games/puzzle/wordle-answer-today-july-16-2024)
- - [Uh oh, I played 7 hours of Concord this weekend and immediately want back in](https://www.pcgamer.com/games/fps/uh-oh-i-played-7-hours-of-concord-this-weekend-and-immediately-want-back-in)
- - [Dolphin emulator launches RetroAchievements support for more than 100 classic GameCube games, crashing its servers in the process](https://www.pcgamer.com/software/dolphin-emulator-launches-retroachievements-support-for-more-than-100-classic-gamecube-games-crashing-its-servers-in-the-process)<!-- GAME:END -->
+ - [Uh oh, I played 7 hours of Concord this weekend and immediately want back in](https://www.pcgamer.com/games/fps/uh-oh-i-played-7-hours-of-concord-this-weekend-and-immediately-want-back-in)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
