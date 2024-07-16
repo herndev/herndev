@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Samsung Galaxy Z Fold 6 Ultra saga takes yet another turn](https://www.androidauthority.com/samsung-galaxy-z-fold-6-ultra-slim-firmware-3461040/)
- - [Analysis: Intel&#39;s VC arm is one of the most active foreign investors in Chinese AI and chip startups; Intel Capital owns stakes in 43 Chinese tech startups &lpar;Financial Times&rpar;](http://www.techmeme.com/240716/p3#a240716p3)
- - [Best Grills for 2024](https://www.cnet.com/home/yard-and-outdoors/best-grill/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [As the EU&#39;s AI Act takes effect in August, critics say the law is undercooked and regulators left out essential details needed to give clarity to businesses &lpar;Javier Espinoza/Financial Times&rpar;](http://www.techmeme.com/240716/p4#a240716p4)
+ - [Prime Day deals are live: Here are the best we’ve found so far](https://www.androidauthority.com/prime-day-deals-2024-3460969/)
+ - [Prime Day deals: Apple Watch Series 9 drops to record low $279, SE 2 dips to $169](https://appleinsider.com/articles/24/07/16/prime-day-deals-apple-watch-series-9-drops-to-record-low-279-se-2-dips-to-169?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
