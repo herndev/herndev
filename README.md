@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The excellent AirPods Max is 28% off during Prime Day 2024](https://www.androidauthority.com/airpods-max-prime-day-2024-deal-3461053/)
- - [After Trump was shot, Elon Musk backed his bid and made 100+ posts stepping up his political speech, entering uncharted territory for a social media leader &lpar;New York Times&rpar;](http://www.techmeme.com/240716/p10#a240716p10)
- - [AI hacktivists target Disney in massive data leak](https://www.theverge.com/2024/7/16/24199545/disney-hacktivists-1tb-leak-internal-slack-communications-ai)<!-- TECH:END -->
+ - [I tested out plenty of AI song generators, but this one strikes the right chord](https://www.androidauthority.com/best-ai-song-generators-3459691/)
+ - [Porsche fills out Macan EV lineup with rear-wheel drive models](https://www.theverge.com/2024/7/16/24199178/porsche-macan-ev-rwd-rear-wheel-drive-4s-specs-price)
+ - [Best headphone and earbud deals for Amazon Prime Day 2024](https://www.theverge.com/24199168/amazon-prime-day-best-headphone-earbud-deals-2024)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
