@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best headphone and earbud deals for Amazon Prime Day 2024](https://www.theverge.com/24199168/amazon-prime-day-best-headphone-earbud-deals-2024)
- - [Andrej Karpathy, an OpenAI co-founder and former head of Tesla&#39;s autopilot unit, unveils Eureka Labs, a &quot;new kind of school&quot; aiming to support teachers with AI &lpar;Akash Sriram/Reuters&rpar;](http://www.techmeme.com/240716/p20#a240716p20)
- - [Hands on with new iPad magnetic charging stands with huge Prime Day discounts](https://appleinsider.com/inside/ipad-pro/best/best-magnetic-ipad-stand?utm_medium=rss)<!-- TECH:END -->
+ - [Google Search Labs is ending its Notes experiment, which debuted in December 2023 as a way to let users leave &quot;helpful tips about an article&quot; directly on Search &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/240716/p22#a240716p22)
+ - [The best Amazon Prime Day tech deals you can get](https://www.theverge.com/24197967/amazon-prime-day-best-tech-deals-gadgets-2024)
+ - [Larian Studios teases all the new features coming in the next Baldur’s Gate 3 patch](https://www.theverge.com/2024/7/16/24199957/baldurs-gate-3-patch-7-coming-soon)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
