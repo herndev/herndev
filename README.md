@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The OnePlus Pad 2’s vibrating stylus feels almost like writing on paper](https://www.theverge.com/24199198/oneplus-pad-2-tablet-android-stylo-price-release-date)
- - [The best Prime Day phone and accessory deals you can get right now](https://www.theverge.com/24199272/amazon-prime-day-phone-deals-accessories-2024)
- - [Bird Buddy’s new AI update lets you name your backyard’s frequent flyers](https://www.theverge.com/2024/7/16/24199590/bird-buddy-ai-update-name-recognition)<!-- TECH:END -->
+ - [Sling TV adds 4K streaming for free](https://www.theverge.com/2024/7/16/24199631/sling-tv-4k-stream-mlb-all-star-game-broadcast-fox-sports)
+ - [Giant Pixel 9 leak gives us our first real-world look at the Fold](https://www.androidauthority.com/google-pixel-9-pro-fold-ncc-3461263/)
+ - [The best Apple deals available for Amazon Prime Day 2024](https://www.theverge.com/24196778/amazon-prime-day-apple-deals-airpods-watch-ipad-macbook-2024)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
