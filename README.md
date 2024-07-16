@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Very effective security](http://9gag.com/gag/a1mM9rb)
- - ⏩ [Go woke, get broke](http://9gag.com/gag/aO8VXzR)
- - 👉 [Nice](http://9gag.com/gag/a1mM978)<!-- MEMES:END -->
+ - 💣 [Go woke, get broke](http://9gag.com/gag/aO8VXzR)
+ - ⏩ [The power of sandal](http://9gag.com/gag/aQz8W3r)
+ - 👉 [Very effective security](http://9gag.com/gag/a1mM9rb)<!-- MEMES:END -->
 
 ---
 
