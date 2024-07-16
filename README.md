@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [EA Play July 2024: Chase Greatness Early in EA Sports College Football 25](https://news.xbox.com/en-us/2024/07/16/ea-play-july-2024-college-football-25/)
- - [So many great Lego sets are 20% off for Prime Day](https://www.polygon.com/amazon-prime-day/24199715/best-deals-lego-sets)
- - [D&amp;D heists are perfect for beginners and experts, and this collection is 56% off for Prime Day](https://www.polygon.com/amazon-prime-day/24199839/dnd-deals-keys-golden-vault-heist-one-shot)<!-- GAME:END -->
+ - [The Palace on the Hill Blends India’s Culture, Storytelling, and Art](https://news.xbox.com/en-us/2024/07/16/the-palace-on-the-hill-blends-indias-culture-storytelling-and-art/)
+ - [Space Marine 2 studio says the leaked build is nearly a year old, urges people not to play it: &#39;It&#39;s disheartening that many of the surprises we worked to keep secret were spoiled&#39;](https://www.pcgamer.com/games/third-person-shooter/space-marine-2-studio-says-the-leaked-build-is-nearly-a-year-old-urges-people-not-to-play-it-its-disheartening-that-many-of-the-surprises-we-worked-to-keep-secret-were-spoiled)
+ - [The First Descendant: Is Caliber Worth Spending Real Money On?](https://kotaku.com/the-first-descendant-is-caliber-worth-spending-real-mo-1851595265)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
