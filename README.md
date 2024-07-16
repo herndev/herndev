@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Apex Legends Piles Up 10,000 Negative Steam Reviews As Players Fight Price Hikes](https://kotaku.com/apex-legends-steam-reviews-battle-pass-controversy-1851595270)
- - [The best Prime Day 2024 deals](https://www.polygon.com/amazon-prime-day/24199570/best-deals-gaming-board-games-toys)
- - [These Are Kevin Conroy&#39;s Final Words As Batman And They&#39;re Perfect](https://kotaku.com/kevin-conroy-batman-last-performance-justice-league-1851595361)<!-- GAME:END -->
+ - [The best gaming deals of Amazon Prime Day 2024](https://www.polygon.com/amazon-prime-day/24191114/best-gaming-deals-video-games)
+ - [The best Magic: The Gathering deals of Amazon Prime Day 2024](https://www.polygon.com/amazon-prime-day/24191424/best-mtg-deals-magic-gathering)
+ - [Here&#39;s how to craft Aberrant Action the new rocket-powered sidearm from Act 2 of Destiny&#39;s Echoes episode](https://www.pcgamer.com/games/fps/destiny-2-aberrant-action-unlock-god-rolls)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
