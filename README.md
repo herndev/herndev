@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Forced to buy accessories with your new phone? Here’s what T-Mobile says](https://www.androidauthority.com/t-mobile-sales-tactics-comment-3461209/)
- - [macOS Sequoia beta review: yet again small but welcome changes](https://appleinsider.com/articles/24/07/16/macos-sequoia-beta-review-yet-again-small-but-welcome-changes?utm_medium=rss)
- - [Phone mirroring on the Mac might change how you use your phone](https://www.theverge.com/2024/7/16/24194370/ios-18-iphone-mirroring-mac-sequoia-preview)<!-- TECH:END -->
+ - [The OnePlus Pad 2’s vibrating stylus feels almost like writing on paper](https://www.theverge.com/24199198/oneplus-pad-2-tablet-android-stylo-price-release-date)
+ - [The best Prime Day phone and accessory deals you can get right now](https://www.theverge.com/24199272/amazon-prime-day-phone-deals-accessories-2024)
+ - [Bird Buddy’s new AI update lets you name your backyard’s frequent flyers](https://www.theverge.com/2024/7/16/24199590/bird-buddy-ai-update-name-recognition)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
