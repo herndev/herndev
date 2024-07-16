@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Lara Croft Comes To Dead by Daylight in One Of Her Darkest Adventures Yet](https://news.xbox.com/en-us/2024/07/16/lara-croft-comes-to-dead-by-daylight-in-one-of-her-darkest-adventures-yet/)
- - [World of Warcraft: The War Within is about more than just the Alliance, Blizzard says](https://www.polygon.com/24199252/war-within-lore-story-interview-worldsoul)
- - [What time does the Concord beta start?](https://www.polygon.com/guides/2024/7/16/24199207/concord-beta-open-dates-start-time-zone)<!-- GAME:END -->
+ - [EA Play July 2024: Chase Greatness Early in EA Sports College Football 25](https://news.xbox.com/en-us/2024/07/16/ea-play-july-2024-college-football-25/)
+ - [So many great Lego sets are 20% off for Prime Day](https://www.polygon.com/amazon-prime-day/24199715/best-deals-lego-sets)
+ - [D&amp;D heists are perfect for beginners and experts, and this collection is 56% off for Prime Day](https://www.polygon.com/amazon-prime-day/24199839/dnd-deals-keys-golden-vault-heist-one-shot)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
