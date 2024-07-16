@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [What do you notice about Trump\u2019s new Secret Service team?](http://9gag.com/gag/a1mXp8P)
- - ⏩ [Go woke, get broke](http://9gag.com/gag/aO8VXzR)
- - 👉 [Say hi to paul](http://9gag.com/gag/aO8VgxM)<!-- MEMES:END -->
+ - 💣 [Fatality](http://9gag.com/gag/aBy19gZ)
+ - ⏩ [Nice](http://9gag.com/gag/a1mM978)
+ - 👉 [The negotiator](http://9gag.com/gag/amo93Ey)<!-- MEMES:END -->
 
 ---
 
