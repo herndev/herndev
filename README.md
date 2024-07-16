@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Fatality](http://9gag.com/gag/aBy19gZ)
- - ⏩ [Nice](http://9gag.com/gag/a1mM978)
- - 👉 [The negotiator](http://9gag.com/gag/amo93Ey)<!-- MEMES:END -->
+ - ⏩ [Yeah i&#39;m bigot... so what...](http://9gag.com/gag/an7NLKz)
+ - 👉 [Bro was casual under high pressure](http://9gag.com/gag/aMV9e9M)<!-- MEMES:END -->
 
 ---
 
