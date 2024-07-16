@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon Prime Day Live Blog: 162 Can&#39;t-Miss Prime Day Deals We&#39;ve Found So Far](https://www.cnet.com/tech/best-prime-day-deals-live-2024-07-15/#ftag=CAD590a51e)
- - [Itching for new iPhone features? iOS 18 public beta is here for you to try](https://www.androidauthority.com/ios-18-public-beta-3460590/)
- - [Apple&#39;s latest Mac mini is on sale from $499 as Prime Week kicks off](https://appleinsider.com/articles/24/07/15/apples-latest-mac-mini-is-on-sale-from-499-as-prime-week-kicks-off?utm_medium=rss)<!-- TECH:END -->
+ - [Samsung hasn’t forgotten about its older flagships, and One UI 6.1.1 will be a reason to cheer](https://www.androidauthority.com/samsung-devices-new-features-one-ui-6-1-1-3460902/)
+ - [Sources: Google offered CISPE ~&amp;euro;455M worth of Google cloud licenses and &amp;euro;14M in cash in a deal for CISPE to maintain its antitrust complaint against Microsoft &lpar;Samuel Stolton/Bloomberg&rpar;](http://www.techmeme.com/240716/p2#a240716p2)
+ - [Sources: China&#39;s CAC requires AI companies to prepare between 20K and 70K questions designed to test whether their AI models produce safe answers before release &lpar;Liza Lin/Wall Street Journal&rpar;](http://www.techmeme.com/240716/p1#a240716p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
