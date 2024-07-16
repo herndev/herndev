@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [If only they knew](http://9gag.com/gag/adBjGPN)
- - ⏩ [Yeah i&#39;m bigot... so what...](http://9gag.com/gag/an7NLKz)
- - 👉 [Israel used a bomb so big it was visible for miles in Gaza](http://9gag.com/gag/aE079mx)<!-- MEMES:END -->
+ - 💣 [Andrew Ryan with another quote i agree with](http://9gag.com/gag/ajPAbzq)
+ - ⏩ [And they say that the culture of my swamp and jungle peoples is subhuman when compared to desert peoples](http://9gag.com/gag/a34Bm55)
+ - 👉 [If two doctors are arguing about the line, imagine people who don&#39;t know anything](http://9gag.com/gag/aAy1jq2)<!-- MEMES:END -->
 
 ---
 
