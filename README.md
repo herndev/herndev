@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [As usual, blaming others for their wrongdoing.](http://9gag.com/gag/a5Q74Dg)
- - ⏩ [Female secret service agent hiding behind the person she was hired to protect! &lpar;Though, there is no wage gap like that at all, which should be there!&rpar;](http://9gag.com/gag/aGyxXBw)
- - 👉 [Go woke, get broke](http://9gag.com/gag/aO8VXzR)<!-- MEMES:END -->
+ - 💣 [Someone&#39;s got a new best friend.](http://9gag.com/gag/aD2op97)
+ - ⏩ [Narrated by David Attenborough](http://9gag.com/gag/adBj3ZV)
+ - 👉 [What a QR Code](http://9gag.com/gag/aoy9BRe)<!-- MEMES:END -->
 
 ---
 
