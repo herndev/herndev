@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Andrew Ryan with another quote i agree with](http://9gag.com/gag/ajPAbzq)
- - ⏩ [And they say that the culture of my swamp and jungle peoples is subhuman when compared to desert peoples](http://9gag.com/gag/a34Bm55)
- - 👉 [If two doctors are arguing about the line, imagine people who don&#39;t know anything](http://9gag.com/gag/aAy1jq2)<!-- MEMES:END -->
+ - 💣 [Nice](http://9gag.com/gag/a1mM978)
+ - ⏩ [Female secret service agent hiding behind the person she was hired to protect! &lpar;Though, there is no wage gap like that at all, which should be there!&rpar;](http://9gag.com/gag/aGyxXBw)
+ - 👉 [Now we are free from gladiator sequel....](http://9gag.com/gag/abA0jv8)<!-- MEMES:END -->
 
 ---
 
