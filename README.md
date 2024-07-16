@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Rejoice! Save more than 50% on the Complete Calvin and Hobbes for Prime Day](https://www.polygon.com/amazon-prime-day/24190884/calvin-hobbes-complete-bill-watterson-mysteries-deal-sales)
- - [The best Lord of the Rings deals for Prime Day](https://www.polygon.com/amazon-prime-day/24191453/best-lotr-deals-books-movies)
- - [The best Magic: The Gathering deals of Amazon Prime Day 2024](https://www.polygon.com/amazon-prime-day/24191424/best-mtg-deals-magic-gathering)<!-- GAME:END -->
+ - [Coming to Game Pass: Kunitsu-Gami: Path of the Goddess, Flintlock: The Siege of Dawn, and Dungeons of Hinterberg](https://news.xbox.com/en-us/2024/07/16/xbox-game-pass-july-2024-wave-2/)
+ - [Why Innersloth is funding your next favorite indie game](https://www.polygon.com/24198840/inntersloth-among-us-funding-indie-games)
+ - [The best Prime Day 2024 deals](https://www.polygon.com/amazon-prime-day/24199570/prime-day-best-deals-gaming-tabletop-media)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
