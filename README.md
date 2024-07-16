@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon Prime Day Live Blog: 158 Can&#39;t-Miss Prime Day Deals We&#39;ve Found So Far](https://www.cnet.com/tech/best-prime-day-deals-live-2024-07-15/#ftag=CAD590a51e)
- - [Twitch streamer Ibai Llanos&#39; fourth boxing tournament in Madrid, with matches between influencers, set a record 3.85M+ concurrent viewers at its peak on July 13 &lpar;Adam Bumas/Wired&rpar;](http://www.techmeme.com/240715/p31#a240715p31)
- - [Sources: Elon Musk plans to commit ~$45M/month to America PAC, a new pro-Trump super PAC; other backers include 8VC&#39;s Joe Lonsdale and the Winklevoss twins &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240715/p30#a240715p30)<!-- TECH:END -->
+ - [Amazon Prime Day Live Blog: 162 Can&#39;t-Miss Prime Day Deals We&#39;ve Found So Far](https://www.cnet.com/tech/best-prime-day-deals-live-2024-07-15/#ftag=CAD590a51e)
+ - [Itching for new iPhone features? iOS 18 public beta is here for you to try](https://www.androidauthority.com/ios-18-public-beta-3460590/)
+ - [Apple&#39;s latest Mac mini is on sale from $499 as Prime Week kicks off](https://appleinsider.com/articles/24/07/15/apples-latest-mac-mini-is-on-sale-from-499-as-prime-week-kicks-off?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
