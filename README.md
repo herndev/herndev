@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Go woke, get broke](http://9gag.com/gag/aO8VXzR)
- - ⏩ [Men came, men fixed, men left](http://9gag.com/gag/axyjq61)
- - 👉 [`The Angle`](http://9gag.com/gag/aNDn7QG)<!-- MEMES:END -->
+ - 💣 [If only they knew](http://9gag.com/gag/adBjGPN)
+ - ⏩ [Yeah i&#39;m bigot... so what...](http://9gag.com/gag/an7NLKz)
+ - 👉 [Israel used a bomb so big it was visible for miles in Gaza](http://9gag.com/gag/aE079mx)<!-- MEMES:END -->
 
 ---
 
