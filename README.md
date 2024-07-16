@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s M3 MacBook Air drops to $849 as Best Buy, Amazon battle for your business](https://appleinsider.com/articles/24/07/15/apples-m3-macbook-air-drops-to-849-as-best-buy-amazon-battle-for-your-business?utm_medium=rss)
- - [Sources: Index is Wiz&#39;s largest outside shareholder, with an 11%+ stake; Sequoia owns 10%+, Insight owns ~9%, Greenoaks owns ~5%, and Cyberstarts owns ~4% &lpar;The Information&rpar;](http://www.techmeme.com/240715/p24#a240715p24)
- - [The Trump rally shooting is a cash cow for the dropshippers](https://www.theverge.com/2024/7/15/24199146/donald-trump-rally-shooting-assassination-picture-merch-tshirts-etsy-amazon)<!-- TECH:END -->
+ - [Sources: activist investor Starboard has built a 6.5%+ stake in Match Group and calls for the company to fix margins or pursue sale; MTCH jumps 8%+ after hours &lpar;Lauren Thomas/Wall Street Journal&rpar;](http://www.techmeme.com/240715/p26#a240715p26)
+ - [iOS 18 might help you rescue photos you thought were gone forever](https://www.theverge.com/2024/7/15/24199358/apple-ios-18-photos-recovered-album)
+ - [Music labels sue Verizon for more than $2.6 billion](https://www.theverge.com/2024/7/15/24199236/verizon-music-copyright-infringement-lawsuit-2-6-billion)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
