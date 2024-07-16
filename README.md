@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Prime Day deals: The best dash cam deals available now](https://www.androidauthority.com/prime-day-2024-best-dash-cam-deals-amazon-3460899/)
- - [London-based Huma Therapeutics, which uses AI to help developers make health apps, raised an $80M Series D at a near-$1B valuation, for $300M in total funding &lpar;Saritha Rai/Bloomberg&rpar;](http://www.techmeme.com/240716/p7#a240716p7)
- - [Motorola’s Prime Day discounts include its best foldable phone](https://www.androidauthority.com/motorola-razr-plus-2024-prime-day-deal-3461074/)<!-- TECH:END -->
+ - [The excellent AirPods Max is 28% off during Prime Day 2024](https://www.androidauthority.com/airpods-max-prime-day-2024-deal-3461053/)
+ - [After Trump was shot, Elon Musk backed his bid and made 100+ posts stepping up his political speech, entering uncharted territory for a social media leader &lpar;New York Times&rpar;](http://www.techmeme.com/240716/p10#a240716p10)
+ - [AI hacktivists target Disney in massive data leak](https://www.theverge.com/2024/7/16/24199545/disney-hacktivists-1tb-leak-internal-slack-communications-ai)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
