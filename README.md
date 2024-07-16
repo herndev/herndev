@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Go woke, get broke](http://9gag.com/gag/aO8VXzR)
- - ⏩ [The power of sandal](http://9gag.com/gag/aQz8W3r)
- - 👉 [Very effective security](http://9gag.com/gag/a1mM9rb)<!-- MEMES:END -->
+ - 💣 [Men came, men fixed, men left](http://9gag.com/gag/axyjq61)
+ - ⏩ [`The Angle`](http://9gag.com/gag/aNDn7QG)
+ - 👉 [Israel used a bomb so big it was visible for miles in Gaza](http://9gag.com/gag/aE079mx)<!-- MEMES:END -->
 
 ---
 
