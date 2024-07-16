@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I&#39;d wife this woman so hard.](http://9gag.com/gag/aryK6MX)
- - ⏩ [Shooter took his time](http://9gag.com/gag/aoy9bRX)
- - 👉 [If you don\u2019t understand this, we can\u2019t be friends](http://9gag.com/gag/a1mMGQY)<!-- MEMES:END -->
+ - 💣 [\u00ae\u00ae\u00ae\u00ae](http://9gag.com/gag/azxj3Pj)
+ - ⏩ [Asylum seekers in Germany threaten German homeowners. Now it&#39;s their home.](http://9gag.com/gag/aRBAb72)
+ - 👉 [If only they knew](http://9gag.com/gag/adBjGPN)<!-- MEMES:END -->
 
 ---
 
