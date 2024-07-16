@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Go woke, get broke](http://9gag.com/gag/aO8VXzR)
- - ⏩ [The man took a bullet and he can also take a joke.](http://9gag.com/gag/aryN1Np)
- - 👉 [`The Angle`](http://9gag.com/gag/aNDn7QG)<!-- MEMES:END -->
+ - 💣 [What do you notice about Trump\u2019s new Secret Service team?](http://9gag.com/gag/a1mXp8P)
+ - ⏩ [Go woke, get broke](http://9gag.com/gag/aO8VXzR)
+ - 👉 [Say hi to paul](http://9gag.com/gag/aO8VgxM)<!-- MEMES:END -->
 
 ---
 
