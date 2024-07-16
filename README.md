@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [I tested out plenty of AI song generators, but this one strikes the right chord](https://www.androidauthority.com/best-ai-song-generators-3459691/)
- - [Porsche fills out Macan EV lineup with rear-wheel drive models](https://www.theverge.com/2024/7/16/24199178/porsche-macan-ev-rwd-rear-wheel-drive-4s-specs-price)
- - [Best headphone and earbud deals for Amazon Prime Day 2024](https://www.theverge.com/24199168/amazon-prime-day-best-headphone-earbud-deals-2024)<!-- TECH:END -->
+ - [Forced to buy accessories with your new phone? Here’s what T-Mobile says](https://www.androidauthority.com/t-mobile-sales-tactics-comment-3461209/)
+ - [macOS Sequoia beta review: yet again small but welcome changes](https://appleinsider.com/articles/24/07/16/macos-sequoia-beta-review-yet-again-small-but-welcome-changes?utm_medium=rss)
+ - [Phone mirroring on the Mac might change how you use your phone](https://www.theverge.com/2024/7/16/24194370/ios-18-iphone-mirroring-mac-sequoia-preview)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
