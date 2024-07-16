@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Forza Horizon 5’s Latest Update Brings Cars &amp; Coffee](https://forza.net/news/forza-horizon-5-horizon-cars-coffee/#new_tab)
- - [This creature collector has you tracking down quirky critters atop a giant bird, and I&#39;m addicted to finding every last one](https://www.pcgamer.com/games/adventure/this-creature-collector-has-you-tracking-down-quirky-critters-atop-a-giant-bird-and-im-addicted-to-finding-every-last-one)
- - [Why viral Banana clicker is still dominating Steam charts, spawning lots of imitators](https://www.polygon.com/gaming/24199712/banana-clicker-steam-bots-top-charts)<!-- GAME:END -->
+ - [Lara Croft Comes To Dead by Daylight in One Of Her Darkest Adventures Yet](https://news.xbox.com/en-us/2024/07/16/lara-croft-comes-to-dead-by-daylight-in-one-of-her-darkest-adventures-yet/)
+ - [World of Warcraft: The War Within is about more than just the Alliance, Blizzard says](https://www.polygon.com/24199252/war-within-lore-story-interview-worldsoul)
+ - [What time does the Concord beta start?](https://www.polygon.com/guides/2024/7/16/24199207/concord-beta-open-dates-start-time-zone)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
