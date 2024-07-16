@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I&#39;d wife this woman so hard.](http://9gag.com/gag/aryK6MX)
- - ⏩ [How To Get Into a Cinema For Free](http://9gag.com/gag/ajPAbL8)
- - 👉 [This guy gets it.](http://9gag.com/gag/aW46V1Z)<!-- MEMES:END -->
+ - 💣 [Go woke, get broke](http://9gag.com/gag/aO8VXzR)
+ - ⏩ [Men came, men fixed, men left](http://9gag.com/gag/axyjq61)
+ - 👉 [`The Angle`](http://9gag.com/gag/aNDn7QG)<!-- MEMES:END -->
 
 ---
 
