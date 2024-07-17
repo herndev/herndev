@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [How to get Tandemaus and evolution Maushold in Pokémon Go](https://www.polygon.com/pokemon-go-guide/24199551/tandemaus-maushold-family-of-three)
  - [One of Star Wars’ most fascinating characters had a cameo in The Acolyte](https://www.polygon.com/star-wars/24200243/star-wars-acolyte-darth-plagueis-sith-cave-master)
- - [Today&#39;s Wordle answer for Wednesday, July 17](https://www.pcgamer.com/games/puzzle/wordle-answer-today-july-17-2024)
- - [Is Star Wars: The Acolyte just an elaborate Force choke origin story?](https://www.polygon.com/star-wars/24181235/star-wars-acolyte-mae-master-jedi-force-choke-origin)<!-- GAME:END -->
+ - [Today&#39;s Wordle answer for Wednesday, July 17](https://www.pcgamer.com/games/puzzle/wordle-answer-today-july-17-2024)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
