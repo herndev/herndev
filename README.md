@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [World&#39;s deepest nuclear bunker](http://9gag.com/gag/a874dKd)
- - ⏩ [Please don&#39;t send me to the jail](http://9gag.com/gag/aLn96BW)
- - 👉 [When reality slaps you in the face](http://9gag.com/gag/a0ej8mz)<!-- MEMES:END -->
+ - 💣 [The car is lava](http://9gag.com/gag/aYQLjAm)
+ - ⏩ [Trump Anime is Already a Hit in Japan](http://9gag.com/gag/a34BoM7)
+ - 👉 [He knew she couldn&#39;t so he did](http://9gag.com/gag/abAZXLv)<!-- MEMES:END -->
 
 ---
 
