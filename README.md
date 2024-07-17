@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Please don&#39;t send me to the jail](http://9gag.com/gag/aLn96BW)
- - ⏩ [The situational awareness of a real pro.](http://9gag.com/gag/aKG347j)
- - 👉 [Yeah i&#39;m bigot... so what...](http://9gag.com/gag/an7NLKz)<!-- MEMES:END -->
+ - 💣 [Trump Anime is Already a Hit in Japan](http://9gag.com/gag/a34BoM7)
+ - ⏩ [Fatality](http://9gag.com/gag/aBy19gZ)
+ - 👉 [The situational awareness of a real pro.](http://9gag.com/gag/aKG347j)<!-- MEMES:END -->
 
 ---
 
