@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Testing an unbreakable TV](http://9gag.com/gag/ae96K9j)
- - ⏩ [What are u doing, woman??](http://9gag.com/gag/aAyPBME)
- - 👉 [Please don&#39;t send me to the jail](http://9gag.com/gag/aLn96BW)<!-- MEMES:END -->
+ - 💣 [Its feels time!](http://9gag.com/gag/azxAgoz)
+ - ⏩ [Now that&#39;s a miracle](http://9gag.com/gag/a9yYbyW)
+ - 👉 [The car is lava](http://9gag.com/gag/aYQLjAm)<!-- MEMES:END -->
 
 ---
 
