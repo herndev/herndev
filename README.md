@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Overwatch 2&#39;s new hacked event adds a feature that solves almost all of my problems as a support player](https://www.pcgamer.com/games/fps/overwatch-2s-new-hacked-event-adds-a-feature-that-solves-almost-all-of-my-problems-as-a-support-player)
- - [No Man’s Sky’s newest update adds new physics and a bug-stomping Expedition](https://www.polygon.com/24200456/no-mans-sky-worlds-part-1-tech-overhaul-weather)
- - [Flintlock: The Siege of Dawn’s Unique Gaming DNA – From Souls Games to… Gambling?](https://news.xbox.com/en-us/2024/07/17/flintlock-the-siege-of-dawn-gaming-dna/)<!-- GAME:END -->
+ - [Dark sci-fi thriller Meanwhile On Earth feels like a stealth Under the Skin sequel](https://www.polygon.com/24200517/meanwhile-on-earth-trailer-first-look-science-fiction-movie)
+ - [Pokémon Go ‘Better Together’ Ultra Unlock event guide](https://www.polygon.com/pokemon-go-guide/24200470/better-together-ultra-unlock-event-timed-research)
+ - [How And Why You Should Be Farming Kuiper Shards In The First Descendant](https://kotaku.com/the-first-descendant-kuiper-shard-farming-location-1851596736)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
