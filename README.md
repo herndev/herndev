@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Score $150 off the Amazon Eero Max 7 Mesh router for Prime Day](https://www.androidauthority.com/amazon-eero-max-7-prime-day-3461974/)
- - [The best thing you can buy on Prime Day is some silly VU meters for your speakers](https://www.theverge.com/2024/7/17/24200624/amazon-prime-day-best-deal-vu-meter-speaker)
- - [Get a new 4K UHD TV for up to 42% off with these Prime Day deals](https://www.androidauthority.com/prime-day-4k-tv-3461968/)<!-- TECH:END -->
+ - [Game on: Backbone One mobile controller has plunged to its lowest-ever price](https://www.androidauthority.com/backbone-one-prime-day-deal-3462056/)
+ - [This Prime Day has cranked up the deals on Bose and Sony speakers](https://www.theverge.com/2024/7/17/24200551/amazon-prime-day-bose-soundlink-flex-bluetooth-speaker-soundbar-deal-sale)
+ - [Global chip stocks fell sharply after reports of tighter export restrictions from the US and comments from Trump, who said Taiwan should pay the US for defense &lpar;Arjun Kharpal/CNBC&rpar;](http://www.techmeme.com/240717/p27#a240717p27)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
