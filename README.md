@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [World&#39;s deepest nuclear bunker](http://9gag.com/gag/a874dKd)
- - ⏩ [Fatality](http://9gag.com/gag/aBy19gZ)
- - 👉 [Please don&#39;t send me to the jail](http://9gag.com/gag/aLn96BW)<!-- MEMES:END -->
+ - 💣 [Sparks joy](http://9gag.com/gag/aKG341Z)
+ - ⏩ [Just some cars crashing into each other.HOLY-SHIT -IT&#39;S A UNICORN..](http://9gag.com/gag/a2v5E0E)
+ - 👉 [Now that&#39;s a miracle](http://9gag.com/gag/a9yYbyW)<!-- MEMES:END -->
 
 ---
 
