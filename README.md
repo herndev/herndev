@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Source: Fei-Fei Li&#39;s World Labs, founded in April 2024 and aiming to create &quot;spatial intelligence&quot; in AI, raised ~$100M in its latest round at a $1B+ valuation &lpar;Financial Times&rpar;](http://www.techmeme.com/240717/p3#a240717p3)
- - [The Samsung Galaxy Z Flip 5 price drops by 42% for Prime Day](https://www.androidauthority.com/samsung-galaxy-z-flip-5-deal-prime-day-2-3461628/)
- - [Amazon Prime Day 2024: 140+ Hottest Amazon Prime Day Deals Vetted by Experts](https://www.cnet.com/tech/best-amazon-prime-day-live-deals-2024-07-17/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [How Russian design firm Art Lebedev&#39;s Optimus keyboards, with built-in OLED screens in each key, laid the foundations for Elgato&#39;s popular Stream Deck &lpar;The Verge&rpar;](http://www.techmeme.com/240717/p8#a240717p8)
+ - [Fujitsu makes a &quot;significant investment&quot; in Cohere to build and launch Japanese language LLMs, including &quot;Takane&quot;, which is based on Cohere&#39;s Command R+ LLM &lpar;Shubham Sharma/VentureBeat&rpar;](http://www.techmeme.com/240717/p7#a240717p7)
+ - [Sources: the US is mulling imposing the foreign direct product rule, seen as draconian by allies, on Tokyo Electron and ASML&#39;s chip equipment business in China &lpar;Bloomberg&rpar;](http://www.techmeme.com/240717/p6#a240717p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
