@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How bad are Resident Evil 7 sales on iOS? Worse than you think](https://www.androidauthority.com/bad-resident-evil-7-sales-ios-3461663/)
- - [Taiwan chip company employees have seen their wealth surge during the global AI boom, reinforcing Taiwan&#39;s reputation as an epicentre for creating tech wealth &lpar;Kathrin Hille/Financial Times&rpar;](http://www.techmeme.com/240717/p10#a240717p10)
- - [Best Apple Prime Day deals - live coverage of day 2&#39;s top sales](https://appleinsider.com/articles/24/07/16/best-apple-prime-day-deals---live-coverage-of-the-top-sales?utm_medium=rss)<!-- TECH:END -->
+ - [Google unveils Project Oscar, an open-source platform to help product teams monitor software issues or bugs via AI agents, at its I/O Connect Bengaluru event &lpar;Emilia David/VentureBeat&rpar;](http://www.techmeme.com/240717/p13#a240717p13)
+ - [Court filing: FTX and the CFTC agree a $12.7B settlement after months of negotiations, pending a judge&#39;s approval; FTX will return up to $12.7B to creditors &lpar;Sarah Wynn/The Block&rpar;](http://www.techmeme.com/240717/p12#a240717p12)
+ - [Pixel Watch 3 prices leak, and the Galaxy Watch 7 looks like a better deal](https://www.androidauthority.com/google-pixel-watch-3-price-leak-3461683/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
