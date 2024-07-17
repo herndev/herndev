@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Please don&#39;t send me to the jail](http://9gag.com/gag/aLn96BW)
- - ⏩ [Looks like a fun shower](http://9gag.com/gag/a6Z7v6m)
- - 👉 [He knew she couldn&#39;t so he did](http://9gag.com/gag/abAZXLv)<!-- MEMES:END -->
+ - 💣 [World&#39;s deepest nuclear bunker](http://9gag.com/gag/a874dKd)
+ - ⏩ [Fatality](http://9gag.com/gag/aBy19gZ)
+ - 👉 [Please don&#39;t send me to the jail](http://9gag.com/gag/aLn96BW)<!-- MEMES:END -->
 
 ---
 
