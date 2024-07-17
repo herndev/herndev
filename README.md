@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Where to find all HIA Coins in Zenless Zone Zero](https://www.polygon.com/zenless-zone-zero-guides/24195730/hia-coin-locations-where-to-find-zzz)
- - [The best Magic: The Gathering deals of Amazon Prime Day 2024](https://www.polygon.com/amazon-prime-day/24191424/best-mtg-deals-magic-gathering)
- - [The VFX company behind that Dead Island reveal trailer we all obsessed over in 2011 is shutting down](https://www.pcgamer.com/games/action/the-vfx-company-behind-that-dead-island-reveal-trailer-we-all-obsessed-over-in-2011-is-shutting-down)<!-- GAME:END -->
+ - [The most popular Amazon Prime Day deals for Polygon readers](https://www.polygon.com/amazon-prime-day/24194286/favorite-gaming-deals-most-popular)
+ - [Apex Legends suffers close to 30,000 negative Steam reviews in one week as the battle pass bombing campaign continues](https://www.pcgamer.com/games/battle-royale/apex-legends-suffers-close-to-30000-negative-steam-reviews-in-one-week-as-the-battle-pass-bombing-campaign-continues)
+ - [The 50 Best Xbox Summer Sale 2024 Deals](https://kotaku.com/best-biggest-deals-low-prices-list-xbox-summer-sale-1851597604)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
