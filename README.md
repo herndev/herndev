@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The most popular Amazon Prime Day deals for Polygon readers](https://www.polygon.com/amazon-prime-day/24194286/favorite-gaming-deals-most-popular)
- - [Apex Legends suffers close to 30,000 negative Steam reviews in one week as the battle pass bombing campaign continues](https://www.pcgamer.com/games/battle-royale/apex-legends-suffers-close-to-30000-negative-steam-reviews-in-one-week-as-the-battle-pass-bombing-campaign-continues)
- - [The 50 Best Xbox Summer Sale 2024 Deals](https://kotaku.com/best-biggest-deals-low-prices-list-xbox-summer-sale-1851597604)<!-- GAME:END -->
+ - [Last chance for the best board game deals of Prime Day 2024](https://www.polygon.com/amazon-prime-day/24191421/best-board-game-deals)
+ - [The best Prime Day D&amp;D deals only have a few hours left](https://www.polygon.com/amazon-prime-day/24199887/best-dnd-deals-dungeons-dragons)
+ - [When does Prime Day end?](https://www.pcgamer.com/hardware/when-does-prime-day-end)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
