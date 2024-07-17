@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Here are 50 Prime Day tech deals you can nab for $50 or less](https://www.theverge.com/24198268/amazon-prime-day-best-cheap-tech-deals-under-50-2024)
- - [iPhone 15 struggles in sales but older models pick up the slack](https://appleinsider.com/articles/24/07/17/iphone-15-struggles-in-sales-but-older-models-pick-up-the-slack?utm_medium=rss)
- - [You might have to import the Galaxy Z Fold 6 Ultra when it eventually comes out](https://www.androidauthority.com/samsung-galaxy-z-fold-6-slim-ultra-launch-3461769/)<!-- TECH:END -->
+ - [Snap up Apple&#39;s latest 1TB 16-inch MacBook Pro for $2,399 this week only](https://appleinsider.com/articles/24/07/17/snap-up-apples-latest-1tb-16-inch-macbook-pro-for-2399-this-week-only?utm_medium=rss)
+ - [The UK will start feeding lab-grown meat to pets this year](https://www.theverge.com/2024/7/17/24200412/uk-lab-grown-cultivated-meat-pet-food-approval-meatly)
+ - [The best Apple deals available for Amazon Prime Day 2024](https://www.theverge.com/24196778/amazon-prime-day-apple-deals-airpods-watch-ipad-macbook-2024)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
