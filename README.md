@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Its feels time!](http://9gag.com/gag/azxAgoz)
- - ⏩ [Now that&#39;s a miracle](http://9gag.com/gag/a9yYbyW)
+ - 💣 [Trump Anime is Already a Hit in Japan](http://9gag.com/gag/a34BoM7)
+ - ⏩ [Meanwhile in Ireland, police clash with local protesters in Coolocks over plan to move hundreds of refugees into their town. Residents set a new migrant center construction on fire.](http://9gag.com/gag/a0ej8pZ)
  - 👉 [The car is lava](http://9gag.com/gag/aYQLjAm)<!-- MEMES:END -->
 
 ---
