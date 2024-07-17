@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The best Prime Day deals on D&amp;D, Magic: The Gathering, and more](https://www.polygon.com/amazon-prime-day/2024/7/17/24200331/best-deals-board-games-gaming-toys)
- - [The best gaming deals of Amazon Prime Day 2024](https://www.polygon.com/amazon-prime-day/24191114/best-gaming-deals-video-games)
- - [The best Dungeons &amp; Dragons deals of Amazon Prime Day](https://www.polygon.com/amazon-prime-day/24199887/best-dnd-deals-dungeons-dragons)<!-- GAME:END -->
+ - [The Game of Thrones books — which are better than the show — are on sale for Prime Day](https://www.polygon.com/amazon-prime-day/2024/7/17/24200650/game-of-thrones-got-books-sale-box-set-grrm)
+ - [The best Amazon Prime Day board game deals](https://www.polygon.com/amazon-prime-day/24191421/best-board-game-deals)
+ - [Zenless Zone Zero review](https://www.pcgamer.com/games/rpg/zenless-zone-zero-review)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
