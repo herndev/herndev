@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [In an interview, Google DeepMind&#39;s and Google Research&#39;s chief scientist Jeff Dean says AI is not to blame for the brunt of data center emissions increase &lpar;Sharon Goldman/Fortune&rpar;](http://www.techmeme.com/240717/p1#a240717p1)
- - [Best Portable Mini Bluetooth Speakers for 2024: Top Compact Waterproof Wireless Speakers](https://www.cnet.com/tech/home-entertainment/best-portable-mini-bluetooth-speaker/#ftag=CAD590a51e)
- - [Build Your Own Home Theater With Xgimi Projectors: Get Up to 53% off During Prime Day](https://www.cnet.com/deals/create-your-own-home-theater-with-xgimi-projectors-up-to-53-off-during-prime-day/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Source: Fei-Fei Li&#39;s World Labs, founded in April 2024 and aiming to create &quot;spatial intelligence&quot; in AI, raised ~$100M in its latest round at a $1B+ valuation &lpar;Financial Times&rpar;](http://www.techmeme.com/240717/p3#a240717p3)
+ - [The Samsung Galaxy Z Flip 5 price drops by 42% for Prime Day](https://www.androidauthority.com/samsung-galaxy-z-flip-5-deal-prime-day-2-3461628/)
+ - [Amazon Prime Day 2024: 140+ Hottest Amazon Prime Day Deals Vetted by Experts](https://www.cnet.com/tech/best-amazon-prime-day-live-deals-2024-07-17/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
