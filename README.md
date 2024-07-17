@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The best gaming deals of Amazon Prime Day 2024](https://www.polygon.com/amazon-prime-day/24191114/best-gaming-deals-video-games)
- - [The best Magic: The Gathering deals of Amazon Prime Day 2024](https://www.polygon.com/amazon-prime-day/24191424/best-mtg-deals-magic-gathering)
- - [The best Amazon Prime Day board game deals under $50](https://www.polygon.com/amazon-prime-day/24191421/best-board-game-deals)<!-- GAME:END -->
+ - [PlayStation Store’s Summer Sale starts July 17](https://blog.playstation.com/2024/07/16/playstation-stores-summer-sale-starts-july-17/)
+ - [PlayStation Store’s Summer Sale starts July 17](https://blog.playstation.com/2024/07/16/playstation-stores-summer-sale-starts-july-17/)
+ - [The best gaming deals of Amazon Prime Day 2024](https://www.polygon.com/amazon-prime-day/24191114/best-gaming-deals-video-games)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
