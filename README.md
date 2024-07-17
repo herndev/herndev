@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [TinyPod transforms your Apple Watch into a iPod, because why not?](https://www.androidauthority.com/apple-watch-tinypod-3461931/)
- - [This stunning curved gaming monitor from Samsung drops below Black Friday price on Prime Day](https://www.androidauthority.com/samsung-odyssey-monitor-prime-day-deal-3461956/)
- - [Prime Day brings the Bose SoundLink Flex down to its lowest price ever](https://www.androidauthority.com/bose-soundlink-flex-prime-day-3461879/)<!-- TECH:END -->
+ - [Score $150 off the Amazon Eero Max 7 Mesh router for Prime Day](https://www.androidauthority.com/amazon-eero-max-7-prime-day-3461974/)
+ - [The best thing you can buy on Prime Day is some silly VU meters for your speakers](https://www.theverge.com/2024/7/17/24200624/amazon-prime-day-best-deal-vu-meter-speaker)
+ - [Get a new 4K UHD TV for up to 42% off with these Prime Day deals](https://www.androidauthority.com/prime-day-4k-tv-3461968/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
