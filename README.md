@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The moment when Trump arrived at hospital. The lady from the secret service still has issues with her holster...](http://9gag.com/gag/aVveQew)
- - ⏩ [Just some cars crashing into each other.HOLY-SHIT -IT&#39;S A UNICORN..](http://9gag.com/gag/a2v5E0E)
- - 👉 [Now that&#39;s a miracle](http://9gag.com/gag/a9yYbyW)<!-- MEMES:END -->
+ - 💣 [Bro was casual under high pressure](http://9gag.com/gag/aMV9e9M)
+ - ⏩ [Now we are free from gladiator sequel....](http://9gag.com/gag/abA0jv8)
+ - 👉 [Your superpower: You can stop time](http://9gag.com/gag/ayN85Qb)<!-- MEMES:END -->
 
 ---
 
