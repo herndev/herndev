@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to get a transcript for a YouTube video](https://www.theverge.com/24198846/youtube-video-transcribe-text-how-to)
- - [Microsoft Designer brings AI image generation to iPhone before Apple Intelligence](https://appleinsider.com/articles/24/07/17/microsoft-designer-brings-ai-image-generation-to-iphone-before-apple-intelligence?utm_medium=rss)
- - [Apple TV+ shows get 11 nominations for the 76th Emmy Awards](https://appleinsider.com/articles/24/07/17/apple-tv-shows-nominated-in-the-76th-emmy-awards?utm_medium=rss)<!-- TECH:END -->
+ - [Apple executives talk about the origins of Math Notes in iPadOS 18](https://appleinsider.com/articles/24/07/17/apple-executives-talk-about-the-origins-of-math-notes-in-ipados-18?utm_medium=rss)
+ - [This case turns your Apple Watch into a tiny iPod](https://www.theverge.com/2024/7/17/24200520/tinypod-apple-watch-accessory-ipod-case-scroll-wheel)
+ - [The Kindle Scribe is now available at an all-time low price of $235 for Prime Day](https://www.androidauthority.com/kindle-scribe-prime-day-3461912/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
