@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best Apple Watch deals for Amazon Prime Day](https://www.theverge.com/2024/7/16/24198757/amazon-prime-day-apple-watch-deals-smartwatch-wearable)
- - [Act fast! This $849 MacBook Air M3 deal is expiring soon](https://www.androidauthority.com/macbook-air-m3-deal-prime-day-3461722/)
- - [The best TV and streaming device deals for Prime Day](https://www.theverge.com/2024/7/16/24198753/amazon-prime-day-best-deals-tv-streaming-device-soundbars-sale)<!-- TECH:END -->
+ - [Hands-on with the Samsung Galaxy Z Fold6&#39;s AI-generated &quot;sketch to image&quot; tool: turns rough sketches into images, ridiculous, fun, and slightly worrying &lpar;Allison Johnson/The Verge&rpar;](http://www.techmeme.com/240717/p15#a240717p15)
+ - [Oura’s excellent Galaxy Ring alternative is up to 19% off right now](https://www.androidauthority.com/oura-ring-prime-day-2024-3461753/)
+ - [The best Prime Day tech deals you can still get](https://www.theverge.com/24200040/amazon-prime-day-best-tech-deals-gadgets-2024)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
