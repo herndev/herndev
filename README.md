@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The best Amazon Prime Day board game deals under $50](https://www.polygon.com/amazon-prime-day/24191421/best-board-game-deals)
- - [The best Magic: The Gathering deals of Amazon Prime Day 2024](https://www.polygon.com/amazon-prime-day/24191424/best-mtg-deals-magic-gathering)
- - [The best Dungeons &amp; Dragons deals of Amazon Prime Day](https://www.polygon.com/amazon-prime-day/24199887/best-dnd-deals-dungeons-dragons)<!-- GAME:END -->
+ - [Overwatch 2&#39;s new hacked event adds a feature that solves almost all of my problems as a support player](https://www.pcgamer.com/games/fps/overwatch-2s-new-hacked-event-adds-a-feature-that-solves-almost-all-of-my-problems-as-a-support-player)
+ - [No Man’s Sky’s newest update adds new physics and a bug-stomping Expedition](https://www.polygon.com/24200456/no-mans-sky-worlds-part-1-tech-overhaul-weather)
+ - [Flintlock: The Siege of Dawn’s Unique Gaming DNA – From Souls Games to… Gambling?](https://news.xbox.com/en-us/2024/07/17/flintlock-the-siege-of-dawn-gaming-dna/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
