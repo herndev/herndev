@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Is Star Wars: The Acolyte just an elaborate Force choke origin story?](https://www.polygon.com/star-wars/24181235/star-wars-acolyte-mae-master-jedi-force-choke-origin)
- - [All The Acolyte season 2 news we’ve heard so far](https://www.polygon.com/star-wars/24199204/star-wars-acolyte-season-2-release-date-cast-news)
- - [PlayStation Store’s Summer Sale starts July 17](https://blog.playstation.com/2024/07/16/playstation-stores-summer-sale-starts-july-17/)<!-- GAME:END -->
+ - [One of Star Wars’ most fascinating characters had a cameo in The Acolyte](https://www.polygon.com/star-wars/24200243/star-wars-acolyte-darth-plagueis-sith-cave-master)
+ - [Today&#39;s Wordle answer for Wednesday, July 17](https://www.pcgamer.com/games/puzzle/wordle-answer-today-july-17-2024)
+ - [Is Star Wars: The Acolyte just an elaborate Force choke origin story?](https://www.polygon.com/star-wars/24181235/star-wars-acolyte-mae-master-jedi-force-choke-origin)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
