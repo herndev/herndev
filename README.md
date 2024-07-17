@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Snap up Apple&#39;s latest 1TB 16-inch MacBook Pro for $2,399 this week only](https://appleinsider.com/articles/24/07/17/snap-up-apples-latest-1tb-16-inch-macbook-pro-for-2399-this-week-only?utm_medium=rss)
- - [The UK will start feeding lab-grown meat to pets this year](https://www.theverge.com/2024/7/17/24200412/uk-lab-grown-cultivated-meat-pet-food-approval-meatly)
- - [The best Apple deals available for Amazon Prime Day 2024](https://www.theverge.com/24196778/amazon-prime-day-apple-deals-airpods-watch-ipad-macbook-2024)<!-- TECH:END -->
+ - [The best Prime Day tech deals you can grab for $100 or less](https://www.theverge.com/24196835/amazon-prime-day-cheap-tech-best-deals-under-100)
+ - [The Beats Studio Pro is a steal at 51% off this Prime Day](https://www.androidauthority.com/beats-studio-pro-prime-day-3461814/)
+ - [US eyeing new rules to keep Chinese software out of cars](https://www.theverge.com/2024/7/17/24200480/us-cars-limits-china-software-commerce)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
