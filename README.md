@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Game on: Backbone One mobile controller has plunged to its lowest-ever price](https://www.androidauthority.com/backbone-one-prime-day-deal-3462056/)
- - [This Prime Day has cranked up the deals on Bose and Sony speakers](https://www.theverge.com/2024/7/17/24200551/amazon-prime-day-bose-soundlink-flex-bluetooth-speaker-soundbar-deal-sale)
- - [Global chip stocks fell sharply after reports of tighter export restrictions from the US and comments from Trump, who said Taiwan should pay the US for defense &lpar;Arjun Kharpal/CNBC&rpar;](http://www.techmeme.com/240717/p27#a240717p27)<!-- TECH:END -->
+ - [Catch $300 savings on the ASUS ROG Strix G16 gaming laptop](https://www.androidauthority.com/asus-rog-strix-g16-deal-prime-day-3462071/)
+ - [Spotify launches an AI DJ that speaks Spanish, in beta for Premium customers in markets where its English-language DJ is offered, and in Spain and Latin America &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/240717/p28#a240717p28)
+ - [The best Prime Day deals on Amazon devices](https://www.theverge.com/24186875/amazon-prime-day-device-deals-echo-speakers-kindles-fire-tv-streaming-sticks-sale-2024)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
