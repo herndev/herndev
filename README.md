@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Fatality](http://9gag.com/gag/aBy19gZ)
- - ⏩ [World&#39;s deepest nuclear bunker](http://9gag.com/gag/a874dKd)
- - 👉 [The situational awareness of a real pro.](http://9gag.com/gag/aKG347j)<!-- MEMES:END -->
+ - 💣 [Now that&#39;s a miracle](http://9gag.com/gag/a9yYbyW)
+ - ⏩ [Fugen LEGEND](http://9gag.com/gag/adBjmjV)
+ - 👉 [Summer with vaas](http://9gag.com/gag/a34BoO5)<!-- MEMES:END -->
 
 ---
 
