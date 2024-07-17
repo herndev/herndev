@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Sparks joy](http://9gag.com/gag/aKG341Z)
- - ⏩ [Just some cars crashing into each other.HOLY-SHIT -IT&#39;S A UNICORN..](http://9gag.com/gag/a2v5E0E)
- - 👉 [Now that&#39;s a miracle](http://9gag.com/gag/a9yYbyW)<!-- MEMES:END -->
+ - 💣 [Please don&#39;t send me to the jail](http://9gag.com/gag/aLn96BW)
+ - ⏩ [Yoinkers](http://9gag.com/gag/aKG3wRN)
+ - 👉 [Maybe too high standards?](http://9gag.com/gag/aAyPVpp)<!-- MEMES:END -->
 
 ---
 
