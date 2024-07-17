@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Catch $300 savings on the ASUS ROG Strix G16 gaming laptop](https://www.androidauthority.com/asus-rog-strix-g16-deal-prime-day-3462071/)
- - [Spotify launches an AI DJ that speaks Spanish, in beta for Premium customers in markets where its English-language DJ is offered, and in Spain and Latin America &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/240717/p28#a240717p28)
- - [The best Prime Day deals on Amazon devices](https://www.theverge.com/24186875/amazon-prime-day-device-deals-echo-speakers-kindles-fire-tv-streaming-sticks-sale-2024)<!-- TECH:END -->
+ - [NASA cancels its VIPER rover that would’ve searched for water on the Moon](https://www.theverge.com/2024/7/17/24200807/nasa-viper-rover-project-canceled-water-moon)
+ - [Here are 50 Prime Day tech deals you can nab for $50 or less](https://www.theverge.com/24198268/amazon-prime-day-best-cheap-tech-deals-under-50-2024)
+ - [Deal: Get in the game with this Logitech G PRO X 2 headset 28% discount](https://www.androidauthority.com/logitech-g-pro-x-2-deal-prime-day-3462100/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
