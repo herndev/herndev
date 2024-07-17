@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple executives talk about the origins of Math Notes in iPadOS 18](https://appleinsider.com/articles/24/07/17/apple-executives-talk-about-the-origins-of-math-notes-in-ipados-18?utm_medium=rss)
- - [This case turns your Apple Watch into a tiny iPod](https://www.theverge.com/2024/7/17/24200520/tinypod-apple-watch-accessory-ipod-case-scroll-wheel)
- - [The Kindle Scribe is now available at an all-time low price of $235 for Prime Day](https://www.androidauthority.com/kindle-scribe-prime-day-3461912/)<!-- TECH:END -->
+ - [TinyPod transforms your Apple Watch into a iPod, because why not?](https://www.androidauthority.com/apple-watch-tinypod-3461931/)
+ - [This stunning curved gaming monitor from Samsung drops below Black Friday price on Prime Day](https://www.androidauthority.com/samsung-odyssey-monitor-prime-day-deal-3461956/)
+ - [Prime Day brings the Bose SoundLink Flex down to its lowest price ever](https://www.androidauthority.com/bose-soundlink-flex-prime-day-3461879/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
