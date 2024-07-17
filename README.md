@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [All The Acolyte season 2 news we’ve heard so far](https://www.polygon.com/star-wars/24199204/star-wars-acolyte-season-2-release-date-cast-news)
  - [PlayStation Store’s Summer Sale starts July 17](https://blog.playstation.com/2024/07/16/playstation-stores-summer-sale-starts-july-17/)
- - [PlayStation Store’s Summer Sale starts July 17](https://blog.playstation.com/2024/07/16/playstation-stores-summer-sale-starts-july-17/)
- - [The best gaming deals of Amazon Prime Day 2024](https://www.polygon.com/amazon-prime-day/24191114/best-gaming-deals-video-games)<!-- GAME:END -->
+ - [PlayStation Store’s Summer Sale starts July 17](https://blog.playstation.com/2024/07/16/playstation-stores-summer-sale-starts-july-17/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
