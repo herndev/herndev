@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Here are the best Prime Day deals we’ve found](https://www.polygon.com/amazon-prime-day/2024/7/17/24200331/best-deals-board-games-gaming-toys)
- - [Asphalt Legends Unite Transforms the Game – and Adds a Brand-New Mode!](https://news.xbox.com/en-us/2024/07/17/asphalt-legends-unite-new-mode/)
- - [The best gaming deals of Amazon Prime Day 2024](https://www.polygon.com/amazon-prime-day/24191114/best-gaming-deals-video-games)<!-- GAME:END -->
+ - [Deadpool Designs the Cheekiest Xbox Controller](https://news.xbox.com/en-us/2024/07/17/deadpool-wolverine-xbox-controller-deadpool-design/)
+ - [No Man&#39;s Sky goes 5.0 with a sweeping tech update that&#39;s &#39;adding things the community has almost given up hope on ever happening&#39;](https://www.pcgamer.com/games/sim/no-mans-sky-goes-50-with-a-sweeping-tech-update-thats-adding-things-the-community-has-almost-given-up-hope-on-ever-happening)
+ - [Lord of the Rings Trilogy 4K box set and Tolkien-illustrated books get big Prime Day discounts](https://www.polygon.com/amazon-prime-day/24191453/best-lotr-deals-books-movies)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
