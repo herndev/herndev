@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best Prime Day gaming deals](https://www.theverge.com/24198226/amazon-prime-day-2024-best-gaming-deals-controller-headset-accessories)
- - [Amazon slashes Microsoft 365 Family by 50% for Prime Day](https://appleinsider.com/articles/24/07/17/amazon-slashes-microsoft-365-family-by-50-for-prime-day?utm_medium=rss)
- - [Germany-based One Data, which provides AI-powered enterprise data management software, raised a &amp;euro;32M Series B extension led by Vsquared, Molten, and HV Capital &lpar;Cate Lawrence/Tech.eu&rpar;](http://www.techmeme.com/240716/p31#a240716p31)<!-- TECH:END -->
+ - [The best Amazon Prime Day tech deals you can get](https://www.theverge.com/24197967/amazon-prime-day-best-tech-deals-gadgets-2024)
+ - [Prime Day deals: Apple&#39;s Mac mini falls to $479; 16GB RAM, 512GB SSD model $799 &lpar;$200 off&rpar;](https://appleinsider.com/articles/24/07/17/prime-day-deals-apples-mac-mini-falls-to-479-16gb-ram-512gb-ssd-model-799-200-off?utm_medium=rss)
+ - [Amazon Prime Day 2024: 140+ Hottest Amazon Prime Day Deals Vetted by Experts](https://www.cnet.com/tech/best-amazon-prime-day-live-deals-2024-07-16/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
