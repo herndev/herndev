@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Deadpool Designs the Cheekiest Xbox Controller](https://news.xbox.com/en-us/2024/07/17/deadpool-wolverine-xbox-controller-deadpool-design/)
- - [No Man&#39;s Sky goes 5.0 with a sweeping tech update that&#39;s &#39;adding things the community has almost given up hope on ever happening&#39;](https://www.pcgamer.com/games/sim/no-mans-sky-goes-50-with-a-sweeping-tech-update-thats-adding-things-the-community-has-almost-given-up-hope-on-ever-happening)
- - [Lord of the Rings Trilogy 4K box set and Tolkien-illustrated books get big Prime Day discounts](https://www.polygon.com/amazon-prime-day/24191453/best-lotr-deals-books-movies)<!-- GAME:END -->
+ - [Nintendo’s ‘Emio’ teaser pays off as a brand-new entry in a 35-year-old game series](https://www.polygon.com/24200375/nintendo-emio-smiling-man-switch-release-date)
+ - [No Man&#39;s Sky Is Getting A Complete Universal Refresh In One Of Its Biggest Updates Ever](https://kotaku.com/no-man-sky-patch-5-0-free-helldivers-mechs-1851596276)
+ - [Minecraft players manage to destroy their server after sending a nuclear reactor into meltdown, &#39;I snuck a fish into the reactor&#39;](https://www.pcgamer.com/games/survival-crafting/minecraft-players-manage-to-destroy-their-server-after-sending-a-nuclear-reactor-into-meltdown-i-snuck-a-fish-into-the-reactor)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
