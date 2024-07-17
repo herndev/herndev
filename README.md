@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google unveils Project Oscar, an open-source platform to help product teams monitor software issues or bugs via AI agents, at its I/O Connect Bengaluru event &lpar;Emilia David/VentureBeat&rpar;](http://www.techmeme.com/240717/p13#a240717p13)
- - [Court filing: FTX and the CFTC agree a $12.7B settlement after months of negotiations, pending a judge&#39;s approval; FTX will return up to $12.7B to creditors &lpar;Sarah Wynn/The Block&rpar;](http://www.techmeme.com/240717/p12#a240717p12)
- - [Pixel Watch 3 prices leak, and the Galaxy Watch 7 looks like a better deal](https://www.androidauthority.com/google-pixel-watch-3-price-leak-3461683/)<!-- TECH:END -->
+ - [The best Apple Watch deals for Amazon Prime Day](https://www.theverge.com/2024/7/16/24198757/amazon-prime-day-apple-watch-deals-smartwatch-wearable)
+ - [Act fast! This $849 MacBook Air M3 deal is expiring soon](https://www.androidauthority.com/macbook-air-m3-deal-prime-day-3461722/)
+ - [The best TV and streaming device deals for Prime Day](https://www.theverge.com/2024/7/16/24198753/amazon-prime-day-best-deals-tv-streaming-device-soundbars-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
