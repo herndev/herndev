@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How Russian design firm Art Lebedev&#39;s Optimus keyboards, with built-in OLED screens in each key, laid the foundations for Elgato&#39;s popular Stream Deck &lpar;The Verge&rpar;](http://www.techmeme.com/240717/p8#a240717p8)
- - [Fujitsu makes a &quot;significant investment&quot; in Cohere to build and launch Japanese language LLMs, including &quot;Takane&quot;, which is based on Cohere&#39;s Command R+ LLM &lpar;Shubham Sharma/VentureBeat&rpar;](http://www.techmeme.com/240717/p7#a240717p7)
- - [Sources: the US is mulling imposing the foreign direct product rule, seen as draconian by allies, on Tokyo Electron and ASML&#39;s chip equipment business in China &lpar;Bloomberg&rpar;](http://www.techmeme.com/240717/p6#a240717p6)<!-- TECH:END -->
+ - [Twitter looking wonky on your foldable? The Galaxy Z Fold 6 has a workaround.](https://www.androidauthority.com/galaxy-z-fold-6-narrow-view-option-3461653/)
+ - [New features coming to Files by Google: Compress files and pin collections &lpar;APK Teardown&rpar;](https://www.androidauthority.com/files-google-new-features-3461452/)
+ - [Here’s our first good look at this Galaxy Z Flip 6 rival with huge battery](https://www.androidauthority.com/xiaomi-mix-flip-design-specs-3461650/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
