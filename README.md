@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Israel-based CytoReason, which uses AI to develop disease models, raised $80M from Nvidia, Pfizer, Thermo Fisher, and OurCrowd, and plans a Massachusetts office &lpar;Steven Scheer/Reuters&rpar;](http://www.techmeme.com/240717/p17#a240717p17)
- - [Spigen Liquid Air for Google Pixel 8a review: Should you buy it?](https://www.androidauthority.com/spigen-liquid-air-google-pixel-8a-review-3457256/)
- - [The best Prime Day deals for some of The Verge staff’s favorite gadgets](https://www.theverge.com/2024/7/16/24199150/amazon-prime-day-deals-tech-staff-favorites-gifts-accessories)<!-- TECH:END -->
+ - [Here are 50 Prime Day tech deals you can nab for $50 or less](https://www.theverge.com/24198268/amazon-prime-day-best-cheap-tech-deals-under-50-2024)
+ - [iPhone 15 struggles in sales but older models pick up the slack](https://appleinsider.com/articles/24/07/17/iphone-15-struggles-in-sales-but-older-models-pick-up-the-slack?utm_medium=rss)
+ - [You might have to import the Galaxy Z Fold 6 Ultra when it eventually comes out](https://www.androidauthority.com/samsung-galaxy-z-fold-6-slim-ultra-launch-3461769/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
