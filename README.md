@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Trump Anime is Already a Hit in Japan](http://9gag.com/gag/a34BoM7)
- - ⏩ [Meanwhile in Ireland, police clash with local protesters in Coolocks over plan to move hundreds of refugees into their town. Residents set a new migrant center construction on fire.](http://9gag.com/gag/a0ej8pZ)
- - 👉 [The car is lava](http://9gag.com/gag/aYQLjAm)<!-- MEMES:END -->
+ - 💣 [World&#39;s deepest nuclear bunker](http://9gag.com/gag/a874dKd)
+ - ⏩ [Please don&#39;t send me to the jail](http://9gag.com/gag/aLn96BW)
+ - 👉 [When reality slaps you in the face](http://9gag.com/gag/a0ej8mz)<!-- MEMES:END -->
 
 ---
 
