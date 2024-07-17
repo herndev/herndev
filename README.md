@@ -48,7 +48,7 @@
 <!-- MEMES:START -->
  - 💣 [Fatality](http://9gag.com/gag/aBy19gZ)
  - ⏩ [The situational awareness of a real pro.](http://9gag.com/gag/aKG347j)
- - 👉 [Trump Anime is Already a Hit in Japan](http://9gag.com/gag/a34BoM7)<!-- MEMES:END -->
+ - 👉 [Its 2003 and you have nothing else in mind](http://9gag.com/gag/avynpLd)<!-- MEMES:END -->
 
 ---
 
