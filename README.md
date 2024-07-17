@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Here are the best Prime Day deals we’ve found](https://www.polygon.com/amazon-prime-day/2024/7/17/24200331/best-deals-board-games-gaming-toys)
  - [Asphalt Legends Unite Transforms the Game – and Adds a Brand-New Mode!](https://news.xbox.com/en-us/2024/07/17/asphalt-legends-unite-new-mode/)
- - [The best gaming deals of Amazon Prime Day 2024](https://www.polygon.com/amazon-prime-day/24191114/best-gaming-deals-video-games)
- - [Fantasy becomes reality in Neverness to Everness, a supernatural, urban, open-world anime game built in UE5](https://www.pcgamer.com/games/life-sim/fantasy-becomes-reality-in-neverness-to-everness-a-supernatural-urban-open-world-anime-game-built-in-ue5)<!-- GAME:END -->
+ - [The best gaming deals of Amazon Prime Day 2024](https://www.polygon.com/amazon-prime-day/24191114/best-gaming-deals-video-games)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
