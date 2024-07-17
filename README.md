@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Game of Thrones books — which are better than the show — are on sale for Prime Day](https://www.polygon.com/amazon-prime-day/2024/7/17/24200650/game-of-thrones-got-books-sale-box-set-grrm)
- - [The best Amazon Prime Day board game deals](https://www.polygon.com/amazon-prime-day/24191421/best-board-game-deals)
- - [Zenless Zone Zero review](https://www.pcgamer.com/games/rpg/zenless-zone-zero-review)<!-- GAME:END -->
+ - [The cheapest Xbox console is a Fire TV Stick, now half off for Prime Day](https://www.polygon.com/amazon-prime-day/2024/7/17/24200649/fire-tv-4k-deal-xbox-game-pass-ultimate)
+ - [Amazon&#39;s Fallout Series And Star Walton Goggins Score Emmy Nominations](https://kotaku.com/2024-emmy-nominations-fallout-walton-goggins-shogun-1851597281)
+ - [19 Incredible No Man&#39;s Sky Views That Will Make You Want To Jump Back In](https://kotaku.com/no-man-sky-worlds-5-0-patch-art-graphics-ps5-sale-1851596991)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
