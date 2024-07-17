@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Bro was casual under high pressure](http://9gag.com/gag/aMV9e9M)
- - ⏩ [Testing an unbreakable TV](http://9gag.com/gag/ae96K9j)
- - 👉 [What are u doing, woman??](http://9gag.com/gag/aAyPBME)<!-- MEMES:END -->
+ - 💣 [I love happy endings \u2764\ufe0f](http://9gag.com/gag/azxAb0m)
+ - ⏩ [Just some cars crashing into each other.HOLY-SHIT -IT&#39;S A UNICORN..](http://9gag.com/gag/a2v5E0E)
+ - 👉 [Now that&#39;s a miracle](http://9gag.com/gag/a9yYbyW)<!-- MEMES:END -->
 
 ---
 
