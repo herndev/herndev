@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Twitter looking wonky on your foldable? The Galaxy Z Fold 6 has a workaround.](https://www.androidauthority.com/galaxy-z-fold-6-narrow-view-option-3461653/)
- - [New features coming to Files by Google: Compress files and pin collections &lpar;APK Teardown&rpar;](https://www.androidauthority.com/files-google-new-features-3461452/)
- - [Here’s our first good look at this Galaxy Z Flip 6 rival with huge battery](https://www.androidauthority.com/xiaomi-mix-flip-design-specs-3461650/)<!-- TECH:END -->
+ - [How bad are Resident Evil 7 sales on iOS? Worse than you think](https://www.androidauthority.com/bad-resident-evil-7-sales-ios-3461663/)
+ - [Taiwan chip company employees have seen their wealth surge during the global AI boom, reinforcing Taiwan&#39;s reputation as an epicentre for creating tech wealth &lpar;Kathrin Hille/Financial Times&rpar;](http://www.techmeme.com/240717/p10#a240717p10)
+ - [Best Apple Prime Day deals - live coverage of day 2&#39;s top sales](https://appleinsider.com/articles/24/07/16/best-apple-prime-day-deals---live-coverage-of-the-top-sales?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
