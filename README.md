@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Hands-on with the Samsung Galaxy Z Fold6&#39;s AI-generated &quot;sketch to image&quot; tool: turns rough sketches into images, ridiculous, fun, and slightly worrying &lpar;Allison Johnson/The Verge&rpar;](http://www.techmeme.com/240717/p15#a240717p15)
- - [Oura’s excellent Galaxy Ring alternative is up to 19% off right now](https://www.androidauthority.com/oura-ring-prime-day-2024-3461753/)
- - [The best Prime Day tech deals you can still get](https://www.theverge.com/24200040/amazon-prime-day-best-tech-deals-gadgets-2024)<!-- TECH:END -->
+ - [Israel-based CytoReason, which uses AI to develop disease models, raised $80M from Nvidia, Pfizer, Thermo Fisher, and OurCrowd, and plans a Massachusetts office &lpar;Steven Scheer/Reuters&rpar;](http://www.techmeme.com/240717/p17#a240717p17)
+ - [Spigen Liquid Air for Google Pixel 8a review: Should you buy it?](https://www.androidauthority.com/spigen-liquid-air-google-pixel-8a-review-3457256/)
+ - [The best Prime Day deals for some of The Verge staff’s favorite gadgets](https://www.theverge.com/2024/7/16/24199150/amazon-prime-day-deals-tech-staff-favorites-gifts-accessories)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
