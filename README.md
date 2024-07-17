@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best Prime Day deals on Amazon devices](https://www.theverge.com/24186875/amazon-prime-day-device-deals-echo-speakers-kindles-fire-tv-streaming-sticks-sale-2024)
- - [Elon Musk is moving X and SpaceX to Texas](https://www.theverge.com/2024/7/16/24200039/elon-musk-moving-x-spacex-headquarters-texas)
- - [San Jose-based DreamBig, which develops chiplet platforms and was founded in 2019, raised a $75M equity round co-led by Samsung Catalyst Fund and Sehat Sutardja &lpar;Chris Metinko/Crunchbase News&rpar;](http://www.techmeme.com/240716/p24#a240716p24)<!-- TECH:END -->
+ - [The best TV and streaming device deals for Prime Day](https://www.theverge.com/2024/7/16/24198753/amazon-prime-day-best-deals-tv-streaming-device-soundbars-sale)
+ - [Marc Andreessen and Ben Horowitz say Trump is the right choice for &quot;Little Tech&quot;; sources say they plan to make large donations to PACs supporting his campaign &lpar;The Information&rpar;](http://www.techmeme.com/240716/p26#a240716p26)
+ - [The best Amazon Prime Day tech deals you can get](https://www.theverge.com/24197967/amazon-prime-day-best-tech-deals-gadgets-2024)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
