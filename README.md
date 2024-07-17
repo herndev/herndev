@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Now that&#39;s a miracle](http://9gag.com/gag/a9yYbyW)
- - ⏩ [Fugen LEGEND](http://9gag.com/gag/adBjmjV)
- - 👉 [Summer with vaas](http://9gag.com/gag/a34BoO5)<!-- MEMES:END -->
+ - 💣 [Testing an unbreakable TV](http://9gag.com/gag/ae96K9j)
+ - ⏩ [What are u doing, woman??](http://9gag.com/gag/aAyPBME)
+ - 👉 [Please don&#39;t send me to the jail](http://9gag.com/gag/aLn96BW)<!-- MEMES:END -->
 
 ---
 
