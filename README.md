@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The cheapest Xbox console is a Fire TV Stick, now half off for Prime Day](https://www.polygon.com/amazon-prime-day/2024/7/17/24200649/fire-tv-4k-deal-xbox-game-pass-ultimate)
- - [Amazon&#39;s Fallout Series And Star Walton Goggins Score Emmy Nominations](https://kotaku.com/2024-emmy-nominations-fallout-walton-goggins-shogun-1851597281)
- - [19 Incredible No Man&#39;s Sky Views That Will Make You Want To Jump Back In](https://kotaku.com/no-man-sky-worlds-5-0-patch-art-graphics-ps5-sale-1851596991)<!-- GAME:END -->
+ - [Where to find all HIA Coins in Zenless Zone Zero](https://www.polygon.com/zenless-zone-zero-guides/24195730/hia-coin-locations-where-to-find-zzz)
+ - [The best Magic: The Gathering deals of Amazon Prime Day 2024](https://www.polygon.com/amazon-prime-day/24191424/best-mtg-deals-magic-gathering)
+ - [The VFX company behind that Dead Island reveal trailer we all obsessed over in 2011 is shutting down](https://www.pcgamer.com/games/action/the-vfx-company-behind-that-dead-island-reveal-trailer-we-all-obsessed-over-in-2011-is-shutting-down)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
