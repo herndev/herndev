@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Bro was casual under high pressure](http://9gag.com/gag/aMV9e9M)
- - ⏩ [Now we are free from gladiator sequel....](http://9gag.com/gag/abA0jv8)
- - 👉 [Your superpower: You can stop time](http://9gag.com/gag/ayN85Qb)<!-- MEMES:END -->
+ - 💣 [Sparks joy](http://9gag.com/gag/aKG341Z)
+ - ⏩ [RIP Ian Cameron, legendary car designer, stabbed to death during burglary/home invasion in Bavaria.](http://9gag.com/gag/aLn9K4M)
+ - 👉 [Spent thousands getting tickets, booking accommodation and flights to go to their concert in Australia....they broke up and cancelled due to kyle gas&#39; comments about the shooter missing trump...](http://9gag.com/gag/an71YrE)<!-- MEMES:END -->
 
 ---
 
