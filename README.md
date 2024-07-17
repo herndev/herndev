@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best Prime Day tech deals you can grab for $100 or less](https://www.theverge.com/24196835/amazon-prime-day-cheap-tech-best-deals-under-100)
- - [The Beats Studio Pro is a steal at 51% off this Prime Day](https://www.androidauthority.com/beats-studio-pro-prime-day-3461814/)
- - [US eyeing new rules to keep Chinese software out of cars](https://www.theverge.com/2024/7/17/24200480/us-cars-limits-china-software-commerce)<!-- TECH:END -->
+ - [How to get a transcript for a YouTube video](https://www.theverge.com/24198846/youtube-video-transcribe-text-how-to)
+ - [Microsoft Designer brings AI image generation to iPhone before Apple Intelligence](https://appleinsider.com/articles/24/07/17/microsoft-designer-brings-ai-image-generation-to-iphone-before-apple-intelligence?utm_medium=rss)
+ - [Apple TV+ shows get 11 nominations for the 76th Emmy Awards](https://appleinsider.com/articles/24/07/17/apple-tv-shows-nominated-in-the-76th-emmy-awards?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
