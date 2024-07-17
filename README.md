@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I love happy endings \u2764\ufe0f](http://9gag.com/gag/azxAb0m)
- - ⏩ [Just some cars crashing into each other.HOLY-SHIT -IT&#39;S A UNICORN..](http://9gag.com/gag/a2v5E0E)
- - 👉 [Now that&#39;s a miracle](http://9gag.com/gag/a9yYbyW)<!-- MEMES:END -->
+ - 💣 [Please don&#39;t send me to the jail](http://9gag.com/gag/aLn96BW)
+ - ⏩ [Looks like a fun shower](http://9gag.com/gag/a6Z7v6m)
+ - 👉 [He knew she couldn&#39;t so he did](http://9gag.com/gag/abAZXLv)<!-- MEMES:END -->
 
 ---
 
