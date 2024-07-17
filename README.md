@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Nintendo’s ‘Emio’ teaser pays off as a brand-new entry in a 35-year-old game series](https://www.polygon.com/24200375/nintendo-emio-smiling-man-switch-release-date)
- - [No Man&#39;s Sky Is Getting A Complete Universal Refresh In One Of Its Biggest Updates Ever](https://kotaku.com/no-man-sky-patch-5-0-free-helldivers-mechs-1851596276)
- - [Minecraft players manage to destroy their server after sending a nuclear reactor into meltdown, &#39;I snuck a fish into the reactor&#39;](https://www.pcgamer.com/games/survival-crafting/minecraft-players-manage-to-destroy-their-server-after-sending-a-nuclear-reactor-into-meltdown-i-snuck-a-fish-into-the-reactor)<!-- GAME:END -->
+ - [The best Amazon Prime Day board game deals under $50](https://www.polygon.com/amazon-prime-day/24191421/best-board-game-deals)
+ - [The best Magic: The Gathering deals of Amazon Prime Day 2024](https://www.polygon.com/amazon-prime-day/24191424/best-mtg-deals-magic-gathering)
+ - [The best Dungeons &amp; Dragons deals of Amazon Prime Day](https://www.polygon.com/amazon-prime-day/24199887/best-dnd-deals-dungeons-dragons)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
