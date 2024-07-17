@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The car is lava](http://9gag.com/gag/aYQLjAm)
- - ⏩ [Trump Anime is Already a Hit in Japan](http://9gag.com/gag/a34BoM7)
- - 👉 [He knew she couldn&#39;t so he did](http://9gag.com/gag/abAZXLv)<!-- MEMES:END -->
+ - 💣 [When reality slaps you in the face](http://9gag.com/gag/a0ej8mz)
+ - ⏩ [Looks like a fun shower](http://9gag.com/gag/a6Z7v6m)
+ - 👉 [Testing an unbreakable TV](http://9gag.com/gag/ae96K9j)<!-- MEMES:END -->
 
 ---
 
