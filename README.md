@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Dark sci-fi thriller Meanwhile On Earth feels like a stealth Under the Skin sequel](https://www.polygon.com/24200517/meanwhile-on-earth-trailer-first-look-science-fiction-movie)
- - [Pokémon Go ‘Better Together’ Ultra Unlock event guide](https://www.polygon.com/pokemon-go-guide/24200470/better-together-ultra-unlock-event-timed-research)
- - [How And Why You Should Be Farming Kuiper Shards In The First Descendant](https://kotaku.com/the-first-descendant-kuiper-shard-farming-location-1851596736)<!-- GAME:END -->
+ - [The best Prime Day deals on D&amp;D, Magic: The Gathering, and more](https://www.polygon.com/amazon-prime-day/2024/7/17/24200331/best-deals-board-games-gaming-toys)
+ - [The best gaming deals of Amazon Prime Day 2024](https://www.polygon.com/amazon-prime-day/24191114/best-gaming-deals-video-games)
+ - [The best Dungeons &amp; Dragons deals of Amazon Prime Day](https://www.polygon.com/amazon-prime-day/24199887/best-dnd-deals-dungeons-dragons)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
