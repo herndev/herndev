@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The most popular Amazon Prime Day deals for Polygon readers](https://www.polygon.com/amazon-prime-day/24194286/favorite-gaming-deals-most-popular)
- - [Lord of the Rings Trilogy 4K box set and Tolkien-illustrated books get big Prime Day discounts](https://www.polygon.com/amazon-prime-day/24191453/best-lotr-deals-books-movies)
- - [The best Dungeons &amp; Dragons deals of Amazon Prime Day](https://www.polygon.com/amazon-prime-day/24199887/best-dnd-deals-dungeons-dragons)<!-- GAME:END -->
+ - [The best gaming deals of Amazon Prime Day 2024](https://www.polygon.com/amazon-prime-day/24191114/best-gaming-deals-video-games)
+ - [The best Magic: The Gathering deals of Amazon Prime Day 2024](https://www.polygon.com/amazon-prime-day/24191424/best-mtg-deals-magic-gathering)
+ - [The best Amazon Prime Day board game deals under $50](https://www.polygon.com/amazon-prime-day/24191421/best-board-game-deals)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
