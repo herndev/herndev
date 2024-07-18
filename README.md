@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [This could be your chance to get a Max subscription for half off](https://www.androidauthority.com/max-streaming-deal-3462429/)
- - [Instagram expands Notes, its temporary away status-like feature, to let users leave Notes on Reels and grid posts; the temporary comments are semi-private &lpar;Mia Sato/The Verge&rpar;](http://www.techmeme.com/240718/p26#a240718p26)
- - [Google, OpenAI, Microsoft, Nvidia, and others form the Coalition for Secure AI to share best practices and open-source methodologies for secure AI deployment &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/240718/p25#a240718p25)<!-- TECH:END -->
+ - [Google set to purge the Play Store of low-quality apps](https://www.androidauthority.com/google-apps-play-store-3462390/)
+ - [Docs: Canadian PE firm PartnerOne paid $28.2M for HeadSpin, whose 2023 revenue was $21M and its Q1 2024 was $5M; HeadSpin was valued at $1.1B in 2020 &lpar;Marina Temkin/TechCrunch&rpar;](http://www.techmeme.com/240718/p29#a240718p29)
+ - [Figma explains how its AI tool ripped off Apple’s design](https://www.theverge.com/2024/7/18/24201308/figma-make-designs-vet-apple)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
