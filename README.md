@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Ozzy](http://9gag.com/gag/aD2G0Dx)
- - ⏩ [He knew she couldn&#39;t so he did](http://9gag.com/gag/abAZXLv)
- - 👉 [Thought?](http://9gag.com/gag/aqyLZgY)<!-- MEMES:END -->
+ - 💣 [The man took a bullet and he can also take a joke.](http://9gag.com/gag/aryN1Np)
+ - ⏩ [The same searches did a few years ago. The results are completely different and contradicting....](http://9gag.com/gag/a5Qre3N)
+ - 👉 [Now we are free from gladiator sequel....](http://9gag.com/gag/abA0jv8)<!-- MEMES:END -->
 
 ---
 
