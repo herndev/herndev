@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [According to BioWare, Dragon Age: The Veilguard is the first entry in the series where &quot;the combat&#39;s actually fun&quot; and where characters are &quot;intentionally&quot; the focus of the storytelling, which seems pretty unfair on the first three games](https://www.pcgamer.com/games/dragon-age/according-to-bioware-dragon-age-the-veilguard-is-the-first-entry-in-the-series-where-the-combats-actually-fun-and-where-characters-are-intentionally-the-focus-of-the-storytelling-which-seems-pretty-unfair-on-the-first-three-games)
- - [Evo 2024: How to watch the year’s biggest fighting game event](https://www.polygon.com/24199999/evo-2024-schedule-twitch-stream-top-6)
- - [I got a little too into sorting my rocks in this game about a drone factory on the moon](https://www.pcgamer.com/games/strategy/i-got-a-little-too-into-sorting-my-rocks-in-this-game-about-a-drone-factory-on-the-moon)<!-- GAME:END -->
+ - [Dungeons 4 Heads West in New DLC: The Good, the Bad, and the Evil](https://news.xbox.com/en-us/2024/07/18/dungeons-4-new-dlc-the-good-the-bad-and-the-evil/)
+ - [How to Clear Out Palworld’s Brutal Oil Rig Stronghold](https://kotaku.com/palworld-oil-rig-stronghold-turrets-big-chest-1851598968)
+ - [Report: FBI Believes Trump Gunman Steam Post May Have Actually Been A Fake [Update]](https://kotaku.com/trump-assassinations-thomas-crooks-motive-steam-valve-1851598464)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
