@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The next Nothing Phone could be a Plus](https://www.androidauthority.com/nothing-phone-2a-plus-coming-3461640/)
- - [TSMC reports Q2 revenue up 40.1% YoY to $20.82B and net income up 36.3% YoY to $7.62B, both above estimates, as demand for advanced AI chips continue to surge &lpar;Sheila Chiang/CNBC&rpar;](http://www.techmeme.com/240718/p3#a240718p3)
- - [150+ Best Prime Day Deals: Final Hours to Score Deep Discounts on Tech, Home Goods and So Much More](https://www.cnet.com/tech/best-amazon-prime-day-live-deals-2024-07-17/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Lilium strikes sales deal with Saudi Arabia for up to 100 eVTOL aircraft](https://www.theverge.com/2024/7/18/24200657/lilium-saudia-airlines-deal-evtol-sales)
+ - [Samsung’s latest acquisition will be a big boost for Galaxy AI](https://www.androidauthority.com/samsung-knowledge-graph-deal-galaxy-ai-phones-3462137/)
+ - [Severance season 2: Release date, cast, plot, and other rumors](https://www.androidauthority.com/severance-season-2-release-date-3462148/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
