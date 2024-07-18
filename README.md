@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Clickolding&#39;s Click Daddy made me his Click Piggy, oink oink](https://www.pcgamer.com/games/horror/clickoldings-click-daddy-made-me-his-click-piggy-oink-oink)
- - [Today&#39;s Wordle answer for Thursday, July 18](https://www.pcgamer.com/games/puzzle/wordle-answer-today-july-18-2024)
- - [Neverness to Everness gameplay showcases supernatural urban open-world RPG, coming to PS5](https://blog.playstation.com/2024/07/17/neverness-to-everness-gameplay-showcases-supernatural-urban-open-world-rpg-coming-to-ps5/)<!-- GAME:END -->
+ - [Dungeons of Hinterberg](https://www.pcgamer.com/games/rpg/dungeons-of-hinterberg)
+ - [All the Boys season 5 news we’ve heard so far](https://www.polygon.com/24199837/boys-season-5-release-date-cast-news)
+ - [Clickolding&#39;s Click Daddy made me his Click Piggy, oink oink](https://www.pcgamer.com/games/horror/clickoldings-click-daddy-made-me-his-click-piggy-oink-oink)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
