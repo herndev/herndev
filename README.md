@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Shoplifter runs from cop](http://9gag.com/gag/a1mXeoG)
- - ⏩ [Jesus christ woman, the man just won the eurocup, give him a break!](http://9gag.com/gag/aQzxPRK)
- - 👉 [Husband confronts doctor giving a speech at medical conference for inappropriately assaulting his wife...](http://9gag.com/gag/an71KEL)<!-- MEMES:END -->
+ - 💣 [Great Party idea](http://9gag.com/gag/aPAW4dV)
+ - ⏩ [&#39;Far-right&#39; protesters hold public pork BBQ in Greece to protest against unchecked migrants and refugees](http://9gag.com/gag/a7od5vA)
+ - 👉 [Life is unfair.](http://9gag.com/gag/aVveQLK)<!-- MEMES:END -->
 
 ---
 
