@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Ozzy](http://9gag.com/gag/aD2G0Dx)
- - ⏩ [He knew she couldn&#39;t so he did](http://9gag.com/gag/abAZXLv)
- - 👉 [Your superpower: You can stop time](http://9gag.com/gag/ayN85Qb)<!-- MEMES:END -->
+ - 💣 [Starcraft - 1950s movie](http://9gag.com/gag/a7odKnb)
+ - ⏩ [Scan of a face with years of dermal filler build up](http://9gag.com/gag/aZZpb2n)
+ - 👉 [The did not break character](http://9gag.com/gag/ae9637v)<!-- MEMES:END -->
 
 ---
 
