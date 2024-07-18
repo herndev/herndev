@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon surprises shoppers by extending Prime Day Apple deals](https://appleinsider.com/articles/24/07/18/amazon-surprises-shoppers-by-extending-prime-day-apple-deals?utm_medium=rss)
- - [Adobe: US shoppers spent $14.2B during Amazon&#39;s 48-hour Prime Day sale, up 11% YoY and in line with estimates; Numerator: the average household spent about $152 &lpar;Spencer Soper/Bloomberg&rpar;](http://www.techmeme.com/240718/p17#a240718p17)
- - [Sources: Apple has spoken to major Hollywood studios about acquiring more programming from their libraries to offer customers both in the US and abroad &lpar;Bloomberg&rpar;](http://www.techmeme.com/240718/p16#a240718p16)<!-- TECH:END -->
+ - [Instagram is adding expiring and semi-private comments](https://www.theverge.com/2024/7/18/24201105/instagram-notes-status-expansion-reels-grid-posts)
+ - [The Nothing Phone 2a Plus is coming later this month, but what is it?](https://www.androidauthority.com/nothing-phone-2a-plus-3462279/)
+ - [Nintendo’s Joy-Con charging stand is 7 years too late, and you’re still going to buy it](https://www.androidauthority.com/nintendo-joy-con-charging-stand-announced-3462313/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
