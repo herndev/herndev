@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Last chance for the best board game deals of Prime Day 2024](https://www.polygon.com/amazon-prime-day/24191421/best-board-game-deals)
- - [The best Prime Day D&amp;D deals only have a few hours left](https://www.polygon.com/amazon-prime-day/24199887/best-dnd-deals-dungeons-dragons)
- - [When does Prime Day end?](https://www.pcgamer.com/hardware/when-does-prime-day-end)<!-- GAME:END -->
+ - [Walton Goggins earns an &#39;Outstanding Actor&#39; Emmy nomination for playing a sexy noseless mutant in Fallout](https://www.pcgamer.com/movies-tv/walton-goggins-earns-an-outstanding-actor-emmy-nomination-for-playing-a-sexy-noseless-mutant-in-fallout)
+ - [Get the best Magic: The Gathering Prime Day deals before they end tonight](https://www.polygon.com/amazon-prime-day/24191424/best-mtg-deals-magic-gathering)
+ - [The best Amazon Prime Day deals to get before the sale ends tonight](https://www.polygon.com/amazon-prime-day/2024/7/17/24200331/best-deals-board-games-gaming-toys)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
