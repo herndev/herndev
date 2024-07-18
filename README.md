@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [I&#39;ve never been interested in League of Legends but its new Vampire Survivors mode might be the thing that kickstarts my esports career](https://www.pcgamer.com/games/moba/ive-never-been-interested-in-league-of-legends-but-its-new-vampire-survivors-mode-might-be-the-thing-that-kickstarts-my-esports-career)
  - [PC Gamer magazine&#39;s new issue is on sale now: World of Warcraft: The War Within](https://www.pcgamer.com/gaming-industry/pc-gamer-magazines-new-issue-is-on-sale-now-world-of-warcraft-the-war-within)
- - [Monster Hunter Now monster list](https://www.polygon.com/monster-hunter-now-guides/23871958/monster-list-all)
- - [Pokémon Go ‘Whispers in the Woods’ Masterwork Research tasks and rewards so far](https://www.polygon.com/pokemon-go-guide/24188008/whispering-in-the-woods-masterwork-research-tasks-rewards-shiny-celebi)<!-- GAME:END -->
+ - [Monster Hunter Now monster list](https://www.polygon.com/monster-hunter-now-guides/23871958/monster-list-all)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
