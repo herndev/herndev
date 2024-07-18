@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Lilium strikes sales deal with Saudi Arabia for up to 100 eVTOL aircraft](https://www.theverge.com/2024/7/18/24200657/lilium-saudia-airlines-deal-evtol-sales)
- - [Samsung’s latest acquisition will be a big boost for Galaxy AI](https://www.androidauthority.com/samsung-knowledge-graph-deal-galaxy-ai-phones-3462137/)
- - [Severance season 2: Release date, cast, plot, and other rumors](https://www.androidauthority.com/severance-season-2-release-date-3462148/)<!-- TECH:END -->
+ - [Rotterdam-based chip gear maker Nearfield raised a &amp;euro;135M Series C led by Walden Catalyst Management and Temasek, and &quot;is on track to become a unicorn by 2026&quot; &lpar;Cagan Koc/Bloomberg&rpar;](http://www.techmeme.com/240718/p6#a240718p6)
+ - [WhatsApp’s auto-translate feature may not adopt Google tech after all](https://www.androidauthority.com/whatsapp-translate-may-not-adopt-google-3462143/)
+ - [Best Wireless Bluetooth Boom Boxes for 2024](https://www.cnet.com/tech/home-entertainment/best-wireless-bluetooth-boombox/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
