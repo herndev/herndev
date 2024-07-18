@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Jesus christ woman, the man just won the eurocup, give him a break!](http://9gag.com/gag/aQzxPRK)
- - ⏩ [Husband confronts doctor giving a speech at medical conference for inappropriately assaulting his wife...](http://9gag.com/gag/an71KEL)
- - 👉 [No time to waste big tiddies are being posted](http://9gag.com/gag/a2v5Pb1)<!-- MEMES:END -->
+ - 💣 [Shoplifter runs from cop](http://9gag.com/gag/a1mXeoG)
+ - ⏩ [RIP Ian Cameron, legendary car designer, stabbed to death during burglary/home invasion in Bavaria.](http://9gag.com/gag/aLn9K4M)
+ - 👉 [No title](http://9gag.com/gag/aE0n1rx)<!-- MEMES:END -->
 
 ---
 
