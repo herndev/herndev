@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Splitgate 2 portals over to PS5 and PS4 in 2025](https://blog.playstation.com/2024/07/18/splitgate-2-portals-over-to-ps5-and-ps4-in-2025/)
- - [Portal Your Way to Victory: Splitgate 2 Coming to Xbox in 2025](https://news.xbox.com/en-us/2024/07/18/splitgate-2/)
- - [Hasbro is making a Monopoly board game based off its mobile game based off the board game](https://www.polygon.com/24199990/monopoly-go-board-game-announcement)<!-- GAME:END -->
+ - [How to Navigate the Shadows in Schim, Out Now on Xbox](https://news.xbox.com/en-us/2024/07/18/how-to-navigate-the-shadows-in-schim-out-now-on-xbox/)
+ - [Nintendo Announces Joy-Con Charging Dock Ahead Of Switch 2](https://kotaku.com/nintendo-switch-2-joy-con-charging-station-1851598382)
+ - [China is dispatching crack teams of AI interrogators to make sure its corporations&#39; chatbots are upholding &#39;core socialist values&#39;](https://www.pcgamer.com/software/ai/china-is-dispatching-crack-teams-of-ai-interrogators-to-make-sure-its-corporations-chatbots-are-upholding-core-socialist-values)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
