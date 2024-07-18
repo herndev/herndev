@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Owner saves dog from coyote that owed him money](http://9gag.com/gag/aYQLW7N)
- - ⏩ [World&#39;s deepest nuclear bunker](http://9gag.com/gag/a874dKd)
- - 👉 [Fatality](http://9gag.com/gag/aBy19gZ)<!-- MEMES:END -->
+ - 💣 [Bro was casual under high pressure](http://9gag.com/gag/aMV9e9M)
+ - ⏩ [8 Years with frequent updates..Looks at Bethesda &amp; Todd Howard](http://9gag.com/gag/adBXYBM)
+ - 👉 [Shoplifter runs from cop](http://9gag.com/gag/a1mXeoG)<!-- MEMES:END -->
 
 ---
 
