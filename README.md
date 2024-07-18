@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How to Navigate the Shadows in Schim, Out Now on Xbox](https://news.xbox.com/en-us/2024/07/18/how-to-navigate-the-shadows-in-schim-out-now-on-xbox/)
- - [Nintendo Announces Joy-Con Charging Dock Ahead Of Switch 2](https://kotaku.com/nintendo-switch-2-joy-con-charging-station-1851598382)
- - [China is dispatching crack teams of AI interrogators to make sure its corporations&#39; chatbots are upholding &#39;core socialist values&#39;](https://www.pcgamer.com/software/ai/china-is-dispatching-crack-teams-of-ai-interrogators-to-make-sure-its-corporations-chatbots-are-upholding-core-socialist-values)<!-- GAME:END -->
+ - [Free Play Days – PGA Tour 2K23, Park Beyond and Avatar: Frontiers of Pandora](https://news.xbox.com/en-us/2024/07/18/free-play-days-pga-tour-2k23-park-beyond-and-avatar-frontiers-of-pandora/)
+ - [The 25 best PlayStation 5 games](https://www.polygon.com/ps5/21720698/best-ps5-games-playstation-5)
+ - [Lenovo Legion Pro 5i 16 Gen 9 review](https://www.pcgamer.com/hardware/gaming-laptops/lenovo-legion-pro-5i-16-gen-9-review)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
