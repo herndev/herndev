@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Yoinkers](http://9gag.com/gag/aKG3wRN)
- - ⏩ [Testing an unbreakable TV](http://9gag.com/gag/ae96K9j)
- - 👉 [The highest height of 36 meters](http://9gag.com/gag/a9yYM9m)<!-- MEMES:END -->
+ - 💣 [Owner saves dog from coyote that owed him money](http://9gag.com/gag/aYQLW7N)
+ - ⏩ [World&#39;s deepest nuclear bunker](http://9gag.com/gag/a874dKd)
+ - 👉 [Fatality](http://9gag.com/gag/aBy19gZ)<!-- MEMES:END -->
 
 ---
 
