@@ -33,8 +33,8 @@
 
 <!-- GAME:START -->
  - [Neverness to Everness gameplay showcases supernatural urban open-world RPG, coming to PS5](https://blog.playstation.com/2024/07/17/neverness-to-everness-gameplay-showcases-supernatural-urban-open-world-rpg-coming-to-ps5/)
- - [Walton Goggins earns an &#39;Outstanding Actor&#39; Emmy nomination for playing a sexy noseless mutant in Fallout](https://www.pcgamer.com/movies-tv/walton-goggins-earns-an-outstanding-actor-emmy-nomination-for-playing-a-sexy-noseless-mutant-in-fallout)
- - [Get the best Magic: The Gathering Prime Day deals before they end tonight](https://www.polygon.com/amazon-prime-day/24191424/best-mtg-deals-magic-gathering)<!-- GAME:END -->
+ - [Neverness to Everness gameplay showcases supernatural urban open-world RPG, coming to PS5](https://blog.playstation.com/2024/07/17/neverness-to-everness-gameplay-showcases-supernatural-urban-open-world-rpg-coming-to-ps5/)
+ - [Walton Goggins earns an &#39;Outstanding Actor&#39; Emmy nomination for playing a sexy noseless mutant in Fallout](https://www.pcgamer.com/movies-tv/walton-goggins-earns-an-outstanding-actor-emmy-nomination-for-playing-a-sexy-noseless-mutant-in-fallout)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
