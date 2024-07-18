@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Metaverse expert Matthew Ball still believes in the 3D internet](https://www.theverge.com/24201098/metaverse-matthew-ball-apple-vision-pro-fortnite-gaming-spatial-internet-3d-decoder-interview)
- - [Android Auto may eventually let you control your car’s radio directly](https://www.androidauthority.com/android-auto-radio-leak-3462263/)
- - [New York-based Coast, which offers expense management tools for vehicle fleets, raised a $40M Series B, after raising $25M in March 2024 and $27.5M in 2022 &lpar;Mary Ann Azevedo/TechCrunch&rpar;](http://www.techmeme.com/240718/p14#a240718p14)<!-- TECH:END -->
+ - [Amazon surprises shoppers by extending Prime Day Apple deals](https://appleinsider.com/articles/24/07/18/amazon-surprises-shoppers-by-extending-prime-day-apple-deals?utm_medium=rss)
+ - [Adobe: US shoppers spent $14.2B during Amazon&#39;s 48-hour Prime Day sale, up 11% YoY and in line with estimates; Numerator: the average household spent about $152 &lpar;Spencer Soper/Bloomberg&rpar;](http://www.techmeme.com/240718/p17#a240718p17)
+ - [Sources: Apple has spoken to major Hollywood studios about acquiring more programming from their libraries to offer customers both in the US and abroad &lpar;Bloomberg&rpar;](http://www.techmeme.com/240718/p16#a240718p16)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
