@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [No Man’s Sky’s Update Has Reminded Me How Cool Video Game Water Can Be](https://kotaku.com/video-game-water-no-mans-sky-update-1851599212)
- - [Asked if it plans to delay Star Wars Outlaws over negative YouTube comments, Ubisoft says no: &#39;I think people will love it&#39;](https://www.pcgamer.com/games/action/asked-if-it-plans-to-delay-star-wars-outlaws-over-negative-youtube-comments-ubisoft-says-no-i-think-people-will-love-it)
- - [The Best Place To Farm Tin Ore In Once Human](https://kotaku.com/once-human-find-tin-copper-pickaxe-1851599053)<!-- GAME:END -->
+ - [The First Descendant changes Destiny 2 lookalike icons, but Nexon still won&#39;t say how they ended up in the game](https://www.pcgamer.com/games/third-person-shooter/the-first-descendant-changes-destiny-2-lookalike-icons-but-nexon-still-wont-say-how-they-ended-up-in-the-game)
+ - [The Immortal Lock is a gnarly new Quake map that&#39;s meatier than some entire FPS campaigns—literally and figuratively](https://www.pcgamer.com/games/fps/the-immortal-lock-is-a-gnarly-new-quake-map-thats-meatier-than-some-entire-fps-campaignsliterally-and-figuratively)
+ - [The collector’s edition of Arcane season one is now available to pre-order](https://www.polygon.com/24201416/arcane-collectors-edition-4k-blu-ray-box-set-pre-order)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
