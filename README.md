@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The did not break character](http://9gag.com/gag/ae9637v)
- - ⏩ [Everyone needs a #21 in their life](http://9gag.com/gag/apRL0R9)
- - 👉 [Good for him](http://9gag.com/gag/awyV7bQ)<!-- MEMES:END -->
+ - 💣 [Husband confronts doctor giving a speech at medical conference for inappropriately assaulting his wife...](http://9gag.com/gag/an71KEL)
+ - ⏩ [Poor kid](http://9gag.com/gag/aVveXmy)
+ - 👉 [No time to waste big tiddies are being posted](http://9gag.com/gag/a2v5Pb1)<!-- MEMES:END -->
 
 ---
 
