@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [I&#39;ve never been interested in League of Legends but its new Vampire Survivors mode might be the thing that kickstarts my esports career](https://www.pcgamer.com/games/moba/ive-never-been-interested-in-league-of-legends-but-its-new-vampire-survivors-mode-might-be-the-thing-that-kickstarts-my-esports-career)
- - [PC Gamer magazine&#39;s new issue is on sale now: World of Warcraft: The War Within](https://www.pcgamer.com/gaming-industry/pc-gamer-magazines-new-issue-is-on-sale-now-world-of-warcraft-the-war-within)
- - [Monster Hunter Now monster list](https://www.polygon.com/monster-hunter-now-guides/23871958/monster-list-all)<!-- GAME:END -->
+ - [Splitgate 2 portals over to PS5 and PS4 in 2025](https://blog.playstation.com/2024/07/18/splitgate-2-portals-over-to-ps5-and-ps4-in-2025/)
+ - [Portal Your Way to Victory: Splitgate 2 Coming to Xbox in 2025](https://news.xbox.com/en-us/2024/07/18/splitgate-2/)
+ - [Hasbro is making a Monopoly board game based off its mobile game based off the board game](https://www.polygon.com/24199990/monopoly-go-board-game-announcement)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
