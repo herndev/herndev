@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Almost The Entire Call Of Duty Series Is On Sale On Xbox](https://kotaku.com/xbox-summer-sale-call-of-duty-black-ops-mw3-list-deals-1851597703)
- - [Schim is like Homeward Bound, but you’re a shadow](https://www.polygon.com/24201264/schim-review-light-shadow-indie-platformer)
- - [Twisters In 4DX Is A Religious Experience](https://kotaku.com/twisters-regal-4dx-theater-experience-tornado-1851598749)<!-- GAME:END -->
+ - [Overwatch has managed to snag a whopping 100 million players in 8 years and is slapping your terrible K/D ratio into a fun montage to celebrate](https://www.pcgamer.com/games/fps/overwatch-has-managed-to-snag-a-whopping-100-million-players-in-8-years-and-is-slapping-your-terrible-kd-ratio-into-a-fun-montage-to-celebrate)
+ - [Splitgate 2 is coming in 2025 with a big promise from the developers: &#39;This is a revolutionary step forward for competitive shooters&#39;](https://www.pcgamer.com/games/fps/splitgate-2-is-coming-in-2025-with-a-big-promise-from-the-developers-this-is-a-revolutionary-step-forward-for-competitive-shooters)
+ - [Microsoft Store Ultimate Game Sale: Get the Hottest Gaming Deals of the Summer for a Limited Time](https://news.xbox.com/en-us/2024/07/18/ultimate-game-sale-hottest-gaming-deals-limited-time/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
