@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Shoplifter runs from cop](http://9gag.com/gag/a1mXeoG)
- - ⏩ [RIP Ian Cameron, legendary car designer, stabbed to death during burglary/home invasion in Bavaria.](http://9gag.com/gag/aLn9K4M)
- - 👉 [No title](http://9gag.com/gag/aE0n1rx)<!-- MEMES:END -->
+ - 💣 [The did not break character](http://9gag.com/gag/ae9637v)
+ - ⏩ [Everyone needs a #21 in their life](http://9gag.com/gag/apRL0R9)
+ - 👉 [Good for him](http://9gag.com/gag/awyV7bQ)<!-- MEMES:END -->
 
 ---
 
