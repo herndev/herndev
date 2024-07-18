@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Overwatch has managed to snag a whopping 100 million players in 8 years and is slapping your terrible K/D ratio into a fun montage to celebrate](https://www.pcgamer.com/games/fps/overwatch-has-managed-to-snag-a-whopping-100-million-players-in-8-years-and-is-slapping-your-terrible-kd-ratio-into-a-fun-montage-to-celebrate)
- - [Splitgate 2 is coming in 2025 with a big promise from the developers: &#39;This is a revolutionary step forward for competitive shooters&#39;](https://www.pcgamer.com/games/fps/splitgate-2-is-coming-in-2025-with-a-big-promise-from-the-developers-this-is-a-revolutionary-step-forward-for-competitive-shooters)
- - [Microsoft Store Ultimate Game Sale: Get the Hottest Gaming Deals of the Summer for a Limited Time](https://news.xbox.com/en-us/2024/07/18/ultimate-game-sale-hottest-gaming-deals-limited-time/)<!-- GAME:END -->
+ - [According to BioWare, Dragon Age: The Veilguard is the first entry in the series where &quot;the combat&#39;s actually fun&quot; and where characters are &quot;intentionally&quot; the focus of the storytelling, which seems pretty unfair on the first three games](https://www.pcgamer.com/games/dragon-age/according-to-bioware-dragon-age-the-veilguard-is-the-first-entry-in-the-series-where-the-combats-actually-fun-and-where-characters-are-intentionally-the-focus-of-the-storytelling-which-seems-pretty-unfair-on-the-first-three-games)
+ - [Evo 2024: How to watch the year’s biggest fighting game event](https://www.polygon.com/24199999/evo-2024-schedule-twitch-stream-top-6)
+ - [I got a little too into sorting my rocks in this game about a drone factory on the moon](https://www.pcgamer.com/games/strategy/i-got-a-little-too-into-sorting-my-rocks-in-this-game-about-a-drone-factory-on-the-moon)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
