@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The man took a bullet and he can also take a joke.](http://9gag.com/gag/aryN1Np)
- - ⏩ [The same searches did a few years ago. The results are completely different and contradicting....](http://9gag.com/gag/a5Qre3N)
- - 👉 [Now we are free from gladiator sequel....](http://9gag.com/gag/abA0jv8)<!-- MEMES:END -->
+ - 💣 [Yoinkers](http://9gag.com/gag/aKG3wRN)
+ - ⏩ [Testing an unbreakable TV](http://9gag.com/gag/ae96K9j)
+ - 👉 [The highest height of 36 meters](http://9gag.com/gag/a9yYM9m)<!-- MEMES:END -->
 
 ---
 
