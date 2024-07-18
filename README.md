@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Shhhhiiieeeetttt\u2026](http://9gag.com/gag/a874b0d)
- - ⏩ [This is how we should all be as a society](http://9gag.com/gag/aAyPRBo)
- - 👉 [He knew she couldn&#39;t so he did](http://9gag.com/gag/abAZXLv)<!-- MEMES:END -->
+ - 💣 [Your superpower: You can stop time](http://9gag.com/gag/ayN85Qb)
+ - ⏩ [What do you notice about Trump\u2019s new Secret Service team?](http://9gag.com/gag/a1mXp8P)
+ - 👉 [No time to waste big tiddies are being posted](http://9gag.com/gag/a2v5Pb1)<!-- MEMES:END -->
 
 ---
 
