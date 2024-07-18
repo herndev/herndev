@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Logitech Litra Beam LX review](https://www.pcgamer.com/hardware/lighting/logitech-litra-beam-lx-review)
- - [Mr. DIMM, why do you have so many chips? Micron&#39;s new monstrous multi-rank memory doubles DDR5 speed to 8,800 MT/s](https://www.pcgamer.com/hardware/memory/mr-dimm-why-do-you-have-so-many-chips-microns-new-monstrous-multi-rank-memory-doubles-ddr5-speed-to-8800-mts)
- - [Counter-Strike co-creator says he&#39;s happy they sold the game to Valve—&#39;They have done a great job of maintaining the legacy&#39;](https://www.pcgamer.com/games/fps/counter-strike-co-creator-says-hes-happy-they-sold-the-game-to-valvethey-have-done-a-great-job-of-maintaining-the-legacy)<!-- GAME:END -->
+ - [Almost The Entire Call Of Duty Series Is On Sale On Xbox](https://kotaku.com/xbox-summer-sale-call-of-duty-black-ops-mw3-list-deals-1851597703)
+ - [Schim is like Homeward Bound, but you’re a shadow](https://www.polygon.com/24201264/schim-review-light-shadow-indie-platformer)
+ - [Twisters In 4DX Is A Religious Experience](https://kotaku.com/twisters-regal-4dx-theater-experience-tornado-1851598749)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
