@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Caseology Nano Pop for Google Pixel 8a review: Should you buy it?](https://www.androidauthority.com/caseology-nano-pop-google-pixel-8a-review-3457233/)
- - [Voicemod Key brings voice changing and soundboards to Xbox and PlayStation](https://www.theverge.com/2024/7/18/24200304/voicemod-key-xbox-playstation-voice-changer-soundboard)
- - [Apple hardware drops to as low as $109, but the deals end today](https://appleinsider.com/articles/24/07/16/adorama-is-blowing-out-apple-inventory-with-a-prime-day-coupon-prices-start-at-109?utm_medium=rss)<!-- TECH:END -->
+ - [Metaverse expert Matthew Ball still believes in the 3D internet](https://www.theverge.com/24201098/metaverse-matthew-ball-apple-vision-pro-fortnite-gaming-spatial-internet-3d-decoder-interview)
+ - [Android Auto may eventually let you control your car’s radio directly](https://www.androidauthority.com/android-auto-radio-leak-3462263/)
+ - [New York-based Coast, which offers expense management tools for vehicle fleets, raised a $40M Series B, after raising $25M in March 2024 and $27.5M in 2022 &lpar;Mary Ann Azevedo/TechCrunch&rpar;](http://www.techmeme.com/240718/p14#a240718p14)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
