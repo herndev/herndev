@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Lock up your daughters, hide your wives](http://9gag.com/gag/aVveO4P)
- - ⏩ [No Man&#39;s Sky be like](http://9gag.com/gag/aKG3g2j)
- - 👉 [Shoplifter runs from cop](http://9gag.com/gag/a1mXeoG)<!-- MEMES:END -->
+ - 💣 [Yoinkers](http://9gag.com/gag/aKG3wRN)
+ - ⏩ [Jesus christ woman, the man just won the eurocup, give him a break!](http://9gag.com/gag/aQzxPRK)
+ - 👉 [No time to waste big tiddies are being posted](http://9gag.com/gag/a2v5Pb1)<!-- MEMES:END -->
 
 ---
 
