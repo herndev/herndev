@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [What are u doing, woman??](http://9gag.com/gag/aAyPBME)
- - ⏩ [Please don&#39;t send me to the jail](http://9gag.com/gag/aLn96BW)
- - 👉 [Now we are free from gladiator sequel....](http://9gag.com/gag/abA0jv8)<!-- MEMES:END -->
+ - 💣 [Ozzy](http://9gag.com/gag/aD2G0Dx)
+ - ⏩ [He knew she couldn&#39;t so he did](http://9gag.com/gag/abAZXLv)
+ - 👉 [Thought?](http://9gag.com/gag/aqyLZgY)<!-- MEMES:END -->
 
 ---
 
