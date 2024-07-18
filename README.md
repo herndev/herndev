@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Husband confronts doctor giving a speech at medical conference for inappropriately assaulting his wife...](http://9gag.com/gag/an71KEL)
- - ⏩ [Poor kid](http://9gag.com/gag/aVveXmy)
- - 👉 [No time to waste big tiddies are being posted](http://9gag.com/gag/a2v5Pb1)<!-- MEMES:END -->
+ - 💣 [Good for him](http://9gag.com/gag/awyV7bQ)
+ - ⏩ [Practicing ancient samurai technique. This is so smooth](http://9gag.com/gag/avyn0Od)
+ - 👉 [The real friends were the monsters we meet along the way](http://9gag.com/gag/amoz0V9)<!-- MEMES:END -->
 
 ---
 
