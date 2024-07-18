@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Instagram is adding expiring and semi-private comments](https://www.theverge.com/2024/7/18/24201105/instagram-notes-status-expansion-reels-grid-posts)
- - [The Nothing Phone 2a Plus is coming later this month, but what is it?](https://www.androidauthority.com/nothing-phone-2a-plus-3462279/)
- - [Nintendo’s Joy-Con charging stand is 7 years too late, and you’re still going to buy it](https://www.androidauthority.com/nintendo-joy-con-charging-stand-announced-3462313/)<!-- TECH:END -->
+ - [Deal: You can still get the Apple MacBook Air M2 for just $799!](https://www.androidauthority.com/apple-macbook-air-m2-deal-3462399/)
+ - [Microsoft reaches a settlement with French cloud service OVHcloud in which OVHcloud will drop its March 2022 antitrust complaint to EU regulators &lpar;Mathieu Pollet/Politico&rpar;](http://www.techmeme.com/240718/p22#a240718p22)
+ - [Laureen Powell Jobs pays $70 million to break San Francisco house price record](https://appleinsider.com/articles/24/07/18/laureen-powell-jobs-pays-70-million-to-break-san-francisco-house-price-record?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
