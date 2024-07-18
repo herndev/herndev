@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [NASA cancels its VIPER rover that would’ve searched for water on the Moon](https://www.theverge.com/2024/7/17/24200807/nasa-viper-rover-project-canceled-water-moon)
- - [Here are 50 Prime Day tech deals you can nab for $50 or less](https://www.theverge.com/24198268/amazon-prime-day-best-cheap-tech-deals-under-50-2024)
- - [Deal: Get in the game with this Logitech G PRO X 2 headset 28% discount](https://www.androidauthority.com/logitech-g-pro-x-2-deal-prime-day-3462100/)<!-- TECH:END -->
+ - [Here are the best Amazon Prime Day deals we’ve found on laptops](https://www.theverge.com/2024/7/16/24199021/amazon-prime-day-laptop-deals-chromebook)
+ - [The best Prime Day gaming deals](https://www.theverge.com/24198226/amazon-prime-day-2024-best-gaming-deals-controller-headset-accessories)
+ - [The 10th-gen iPad is matching its best price to date for Prime Day](https://www.theverge.com/2024/7/17/24200665/amazon-prime-day-apple-ipad-10th-gen-deal-sale-2024)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
