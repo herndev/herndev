@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Please stop buying taxidermied bats online](https://www.theverge.com/2024/7/18/24200842/bat-online-sale-study-etsy-ebay-amazon)
- - [Too many companies are using ancient versions of Android — but it’s getting better](https://www.androidauthority.com/old-android-versions-3462465/)
- - [The best new streaming movies this week: Faye, Arcadian, and more](https://www.androidauthority.com/best-new-streaming-movies-this-week-3083965/)<!-- TECH:END -->
+ - [Netflix says its ad tier now accounts for over 45% of all signups in the markets where it&#39;s available, and ad tier memberships grew 34% QoQ in Q2 &lpar;Lucas Manfredi/The Wrap&rpar;](http://www.techmeme.com/240718/p33#a240718p33)
+ - [Deals: All Samsung Galaxy S24 variants are still on sale](https://www.androidauthority.com/samsung-galaxy-s24-plus-ultra-deals-3462398/)
+ - [Google reveals the Pixel 9 Pro Fold before it can leak again](https://www.theverge.com/2024/7/18/24201491/google-pixel-9-pro-fold-release-date-ai)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
