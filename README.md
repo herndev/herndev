@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Good for him](http://9gag.com/gag/awyV7bQ)
- - ⏩ [Practicing ancient samurai technique. This is so smooth](http://9gag.com/gag/avyn0Od)
- - 👉 [The real friends were the monsters we meet along the way](http://9gag.com/gag/amoz0V9)<!-- MEMES:END -->
+ - 💣 [Scan of a face with years of dermal filler build up](http://9gag.com/gag/aZZpb2n)
+ - ⏩ [Husband confronts doctor giving a speech at medical conference for inappropriately assaulting his wife...](http://9gag.com/gag/an71KEL)
+ - 👉 [Yeah...](http://9gag.com/gag/aVveQ2K)<!-- MEMES:END -->
 
 ---
 
