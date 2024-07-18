@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Bro was casual under high pressure](http://9gag.com/gag/aMV9e9M)
- - ⏩ [8 Years with frequent updates..Looks at Bethesda &amp; Todd Howard](http://9gag.com/gag/adBXYBM)
+ - 💣 [Yeap. Time to meet God](http://9gag.com/gag/azxA7nx)
+ - ⏩ [Understandable](http://9gag.com/gag/aO8vb1R)
  - 👉 [Shoplifter runs from cop](http://9gag.com/gag/a1mXeoG)<!-- MEMES:END -->
 
 ---
