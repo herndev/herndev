@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Flintlock is so close to being a great Dark Souls for newcomers](https://www.theverge.com/24200542/flintlock-the-siege-of-dawn-review-ps5-xbox-steam)
- - [Lab-Grown Diamonds Are Everywhere. This Company Thinks It Has the Secret to Making Them High-End](https://www.wired.com/story/swiss-made-high-end-lab-grown-diamonds/)
- - [Live from the RNC: Republicans Are Acting Like They&#39;ve Already Won](https://www.wired.com/story/rnc-republicans-democrats/)<!-- TECH:END -->
+ - [Caseology Nano Pop for Google Pixel 8a review: Should you buy it?](https://www.androidauthority.com/caseology-nano-pop-google-pixel-8a-review-3457233/)
+ - [Voicemod Key brings voice changing and soundboards to Xbox and PlayStation](https://www.theverge.com/2024/7/18/24200304/voicemod-key-xbox-playstation-voice-changer-soundboard)
+ - [Apple hardware drops to as low as $109, but the deals end today](https://appleinsider.com/articles/24/07/16/adorama-is-blowing-out-apple-inventory-with-a-prime-day-coupon-prices-start-at-109?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
