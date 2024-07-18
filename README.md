@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Free Play Days – PGA Tour 2K23, Park Beyond and Avatar: Frontiers of Pandora](https://news.xbox.com/en-us/2024/07/18/free-play-days-pga-tour-2k23-park-beyond-and-avatar-frontiers-of-pandora/)
- - [The 25 best PlayStation 5 games](https://www.polygon.com/ps5/21720698/best-ps5-games-playstation-5)
- - [Lenovo Legion Pro 5i 16 Gen 9 review](https://www.pcgamer.com/hardware/gaming-laptops/lenovo-legion-pro-5i-16-gen-9-review)<!-- GAME:END -->
+ - [Logitech Litra Beam LX review](https://www.pcgamer.com/hardware/lighting/logitech-litra-beam-lx-review)
+ - [Mr. DIMM, why do you have so many chips? Micron&#39;s new monstrous multi-rank memory doubles DDR5 speed to 8,800 MT/s](https://www.pcgamer.com/hardware/memory/mr-dimm-why-do-you-have-so-many-chips-microns-new-monstrous-multi-rank-memory-doubles-ddr5-speed-to-8800-mts)
+ - [Counter-Strike co-creator says he&#39;s happy they sold the game to Valve—&#39;They have done a great job of maintaining the legacy&#39;](https://www.pcgamer.com/games/fps/counter-strike-co-creator-says-hes-happy-they-sold-the-game-to-valvethey-have-done-a-great-job-of-maintaining-the-legacy)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
