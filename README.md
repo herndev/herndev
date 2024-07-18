@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Here are the best Amazon Prime Day deals we’ve found on laptops](https://www.theverge.com/2024/7/16/24199021/amazon-prime-day-laptop-deals-chromebook)
- - [The best Prime Day gaming deals](https://www.theverge.com/24198226/amazon-prime-day-2024-best-gaming-deals-controller-headset-accessories)
- - [The 10th-gen iPad is matching its best price to date for Prime Day](https://www.theverge.com/2024/7/17/24200665/amazon-prime-day-apple-ipad-10th-gen-deal-sale-2024)<!-- TECH:END -->
+ - [The best Prime Day tech deals under $25](https://www.theverge.com/2024/7/16/24198756/amazon-prime-day-tech-deals-under-25-cheap-gifts-accessories)
+ - [Apple says its OpenELM model doesn&#39;t power any AI features, including Apple Intelligence, after a report said Apple used YouTube subtitles to train the model &lpar;Chance Miller/9to5Mac&rpar;](http://www.techmeme.com/240717/p32#a240717p32)
+ - [The US SEC sues former DWAC CEO Patrick Orlando for allegedly misleading investors about his company&#39;s plans for a SPAC merger with Trump&#39;s social media company &lpar;Bloomberg&rpar;](http://www.techmeme.com/240717/p31#a240717p31)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
