@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [CCData: crypto coin listings on higher-volume exchanges like Binance and Coinbase are cumulatively up 11.6% to 2,066 in H1 2024, surpassing all of 2023 &lpar;Olga Kharif/Bloomberg&rpar;](http://www.techmeme.com/240718/p9#a240718p9)
- - [German AI startup DeepL releases its new translation model with support for German, Japanese, and Simplified Chinese to and from English, available in DeepL Pro &lpar;Mike Wheatley/SiliconANGLE&rpar;](http://www.techmeme.com/240718/p8#a240718p8)
- - [Indian crypto exchange WazirX says one of its multisig wallets &quot;experienced a security breach&quot; after $230M+ in withdrawals; WazirX had $500M in holdings in June &lpar;Shaurya Malwa/CoinDesk&rpar;](http://www.techmeme.com/240718/p7#a240718p7)<!-- TECH:END -->
+ - [Flintlock is so close to being a great Dark Souls for newcomers](https://www.theverge.com/24200542/flintlock-the-siege-of-dawn-review-ps5-xbox-steam)
+ - [Lab-Grown Diamonds Are Everywhere. This Company Thinks It Has the Secret to Making Them High-End](https://www.wired.com/story/swiss-made-high-end-lab-grown-diamonds/)
+ - [Live from the RNC: Republicans Are Acting Like They&#39;ve Already Won](https://www.wired.com/story/rnc-republicans-democrats/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
