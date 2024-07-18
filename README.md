@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Dungeons 4 Heads West in New DLC: The Good, the Bad, and the Evil](https://news.xbox.com/en-us/2024/07/18/dungeons-4-new-dlc-the-good-the-bad-and-the-evil/)
- - [How to Clear Out Palworld’s Brutal Oil Rig Stronghold](https://kotaku.com/palworld-oil-rig-stronghold-turrets-big-chest-1851598968)
- - [Report: FBI Believes Trump Gunman Steam Post May Have Actually Been A Fake [Update]](https://kotaku.com/trump-assassinations-thomas-crooks-motive-steam-valve-1851598464)<!-- GAME:END -->
+ - [No Man’s Sky’s Update Has Reminded Me How Cool Video Game Water Can Be](https://kotaku.com/video-game-water-no-mans-sky-update-1851599212)
+ - [Asked if it plans to delay Star Wars Outlaws over negative YouTube comments, Ubisoft says no: &#39;I think people will love it&#39;](https://www.pcgamer.com/games/action/asked-if-it-plans-to-delay-star-wars-outlaws-over-negative-youtube-comments-ubisoft-says-no-i-think-people-will-love-it)
+ - [The Best Place To Farm Tin Ore In Once Human](https://kotaku.com/once-human-find-tin-copper-pickaxe-1851599053)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
