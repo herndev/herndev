@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google set to purge the Play Store of low-quality apps](https://www.androidauthority.com/google-apps-play-store-3462390/)
- - [Docs: Canadian PE firm PartnerOne paid $28.2M for HeadSpin, whose 2023 revenue was $21M and its Q1 2024 was $5M; HeadSpin was valued at $1.1B in 2020 &lpar;Marina Temkin/TechCrunch&rpar;](http://www.techmeme.com/240718/p29#a240718p29)
- - [Figma explains how its AI tool ripped off Apple’s design](https://www.theverge.com/2024/7/18/24201308/figma-make-designs-vet-apple)<!-- TECH:END -->
+ - [Please stop buying taxidermied bats online](https://www.theverge.com/2024/7/18/24200842/bat-online-sale-study-etsy-ebay-amazon)
+ - [Too many companies are using ancient versions of Android — but it’s getting better](https://www.androidauthority.com/old-android-versions-3462465/)
+ - [The best new streaming movies this week: Faye, Arcadian, and more](https://www.androidauthority.com/best-new-streaming-movies-this-week-3083965/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
