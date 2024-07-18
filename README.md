@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Yeap. Time to meet God](http://9gag.com/gag/azxA7nx)
- - ⏩ [Understandable](http://9gag.com/gag/aO8vb1R)
+ - 💣 [Lock up your daughters, hide your wives](http://9gag.com/gag/aVveO4P)
+ - ⏩ [No Man&#39;s Sky be like](http://9gag.com/gag/aKG3g2j)
  - 👉 [Shoplifter runs from cop](http://9gag.com/gag/a1mXeoG)<!-- MEMES:END -->
 
 ---
