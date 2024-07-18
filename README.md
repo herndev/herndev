@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best last-minute Prime Day deals you can still grab](https://www.theverge.com/24200040/amazon-prime-day-best-tech-deals-gadgets-2024)
- - [The best Prime Day deals on the Verge’s favorite desk accessories](https://www.theverge.com/24200654/amazon-prime-day-deals-desk-acessories-keyboards-lighting-webcams)
- - [Meta decides to suspend its generative AI tools in Brazil after the government objected to Meta&#39;s new privacy policy on using personal data to train AI models &lpar;Reuters&rpar;](http://www.techmeme.com/240717/p33#a240717p33)<!-- TECH:END -->
+ - [Here are 80 Prime Day tech deals you can still nab for $50 or less](https://www.theverge.com/24198268/amazon-prime-day-best-cheap-tech-deals-under-50-2024)
+ - [Apple Intelligence wasn&#39;t trained on stolen YouTube videos](https://appleinsider.com/articles/24/07/18/apple-intelligence-wasnt-trained-on-stolen-youtube-videos?utm_medium=rss)
+ - [The best last-minute Prime Day deals you can still grab](https://www.theverge.com/24200040/amazon-prime-day-best-tech-deals-gadgets-2024)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
