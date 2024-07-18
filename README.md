@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Yoinkers](http://9gag.com/gag/aKG3wRN)
- - ⏩ [Jesus christ woman, the man just won the eurocup, give him a break!](http://9gag.com/gag/aQzxPRK)
- - 👉 [No time to waste big tiddies are being posted](http://9gag.com/gag/a2v5Pb1)<!-- MEMES:END -->
+ - 💣 [Shhhhiiieeeetttt\u2026](http://9gag.com/gag/a874b0d)
+ - ⏩ [This is how we should all be as a society](http://9gag.com/gag/aAyPRBo)
+ - 👉 [He knew she couldn&#39;t so he did](http://9gag.com/gag/abAZXLv)<!-- MEMES:END -->
 
 ---
 
