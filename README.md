@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The biggest names in AI have teamed up to promote AI security](https://www.theverge.com/2024/7/18/24201223/security-privacy-google-microsoft-openai-ai-cosai)
- - [Portable CD players are back and now work with wireless headphones](https://www.theverge.com/2024/7/18/24201200/fiio-cd-player-dm13-portable-audio-bluetooth-discman)
- - [A US judge dismisses most of a SEC lawsuit accusing SolarWinds of misleading investors by failing to disclose cybersecurity failures in its Orion software &lpar;Tim Starks/CyberScoop&rpar;](http://www.techmeme.com/240718/p23#a240718p23)<!-- TECH:END -->
+ - [This could be your chance to get a Max subscription for half off](https://www.androidauthority.com/max-streaming-deal-3462429/)
+ - [Instagram expands Notes, its temporary away status-like feature, to let users leave Notes on Reels and grid posts; the temporary comments are semi-private &lpar;Mia Sato/The Verge&rpar;](http://www.techmeme.com/240718/p26#a240718p26)
+ - [Google, OpenAI, Microsoft, Nvidia, and others form the Coalition for Secure AI to share best practices and open-source methodologies for secure AI deployment &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/240718/p25#a240718p25)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
