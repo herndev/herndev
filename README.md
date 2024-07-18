@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Rotterdam-based chip gear maker Nearfield raised a &amp;euro;135M Series C led by Walden Catalyst Management and Temasek, and &quot;is on track to become a unicorn by 2026&quot; &lpar;Cagan Koc/Bloomberg&rpar;](http://www.techmeme.com/240718/p6#a240718p6)
- - [WhatsApp’s auto-translate feature may not adopt Google tech after all](https://www.androidauthority.com/whatsapp-translate-may-not-adopt-google-3462143/)
- - [Best Wireless Bluetooth Boom Boxes for 2024](https://www.cnet.com/tech/home-entertainment/best-wireless-bluetooth-boombox/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [CCData: crypto coin listings on higher-volume exchanges like Binance and Coinbase are cumulatively up 11.6% to 2,066 in H1 2024, surpassing all of 2023 &lpar;Olga Kharif/Bloomberg&rpar;](http://www.techmeme.com/240718/p9#a240718p9)
+ - [German AI startup DeepL releases its new translation model with support for German, Japanese, and Simplified Chinese to and from English, available in DeepL Pro &lpar;Mike Wheatley/SiliconANGLE&rpar;](http://www.techmeme.com/240718/p8#a240718p8)
+ - [Indian crypto exchange WazirX says one of its multisig wallets &quot;experienced a security breach&quot; after $230M+ in withdrawals; WazirX had $500M in holdings in June &lpar;Shaurya Malwa/CoinDesk&rpar;](http://www.techmeme.com/240718/p7#a240718p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
