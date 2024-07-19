@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Poor kid](http://9gag.com/gag/aVveXmy)
- - ⏩ [Husband confronts doctor giving a speech at medical conference for inappropriately assaulting his wife...](http://9gag.com/gag/an71KEL)
- - 👉 [She loves me](http://9gag.com/gag/a874Ybd)<!-- MEMES:END -->
+ - 💣 [Incompatible.](http://9gag.com/gag/aBy11xD)
+ - ⏩ [She loves me](http://9gag.com/gag/a874Ybd)
+ - 👉 [Your superpower: You can stop time](http://9gag.com/gag/ayN85Qb)<!-- MEMES:END -->
 
 ---
 
