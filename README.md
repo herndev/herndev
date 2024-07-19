@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Do temps matter no more? Next-gen Intel desktop CPUs might run as hot as Meteor Lake laptop chips](https://www.pcgamer.com/hardware/processors/do-temps-matter-no-more-next-gen-intel-desktop-cpus-might-run-as-hot-as-meteor-lake-laptop-chips)
- - [Today&#39;s Wordle answer for Friday, July 19](https://www.pcgamer.com/games/puzzle/wordle-answer-today-july-19-2024)
- - [Devolver announces Forestrike, a kung fu roguelike where you can plan your moves in advance](https://www.pcgamer.com/games/action/devolver-announces-forestrike-a-kung-fu-roguelike-where-you-can-plan-your-moves-in-advance)<!-- GAME:END -->
+ - [The CrowdStrike IT outage is pretty grim but let&#39;s hope it&#39;s not as bad as the infamous Dyn DDoS attack, Facebook mega-crash, and Rogers network disaster](https://www.pcgamer.com/software/the-crowdstrike-it-outage-is-pretty-grim-but-lets-hope-its-not-as-bad-as-the-infamous-dyn-ddos-attack-facebook-mega-crash-and-rogers-network-disaster)
+ - [Infamous BSOD appears across Windows machines globally as suspected security bug grounds planes, hits health services](https://www.pcgamer.com/hardware/infamous-bsod-appears-across-windows-machines-globally-as-suspected-security-bug-grounds-planes-hits-health-services)
+ - [Do temps matter no more? Next-gen Intel desktop CPUs might run as hot as Meteor Lake laptop chips](https://www.pcgamer.com/hardware/processors/do-temps-matter-no-more-next-gen-intel-desktop-cpus-might-run-as-hot-as-meteor-lake-laptop-chips)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
