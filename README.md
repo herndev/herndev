@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The open beta for Throne and Liberty, Amazon&#39;s latest MMO import, is available now](https://www.pcgamer.com/games/mmo/the-open-beta-for-throne-and-liberty-amazons-latest-mmo-import-is-available-now)
- - [Save on some of our favorite games of 2024 during the Humble Heatwave sale](https://www.polygon.com/2024/7/19/24202156/humble-sale-dragons-dogma-resident-evil-gaming-deal)
- - [The creators of cyberpunk bartending sim VA-11 Hall-A are following it up with an amazing-looking &#39;active time action&#39; RPG](https://www.pcgamer.com/games/rpg/the-creators-of-cyberpunk-bartending-sim-va-11-hall-a-are-following-it-up-with-an-amazing-looking-active-time-action-rpg)<!-- GAME:END -->
+ - [The creator of this Bigfoot game is considering changing Bigfoot&#39;s face after internet commenters said it&#39;s too human-like, but I&#39;m entranced by it](https://www.pcgamer.com/games/sim/the-creator-of-this-bigfoot-game-is-considering-changing-bigfoots-face-after-internet-commenters-said-its-too-human-like-but-im-entranced-by-it)
+ - [Once Human developer teases the first big update, apologizes for the last bad patch](https://www.pcgamer.com/games/survival-crafting/once-human-developer-teases-the-first-big-update-apologizes-for-the-last-bad-patch)
+ - [Land of Bad on Netflix, Horizon: An American Saga, and every movie new to streaming this week](https://www.polygon.com/2024/7/19/24196112/new-movies-horizon-an-american-saga-thelma-land-of-bad-find-me-falling-netflix)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
