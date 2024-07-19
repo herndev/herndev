@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [How to Stop Getting Bullied by Anyone](http://9gag.com/gag/ajPD0MQ)
- - ⏩ [Biden reading his covid results and seeing all the democrats doing secret meetings without him](http://9gag.com/gag/aW4M6DZ)
- - 👉 [Anime logic](http://9gag.com/gag/avynLoX)<!-- MEMES:END -->
+ - 💣 [Total control](http://9gag.com/gag/abAZ0j9)
+ - ⏩ [Happy](http://9gag.com/gag/aVvePO2)
+ - 👉 [Just simple magic](http://9gag.com/gag/abAZZbL)<!-- MEMES:END -->
 
 ---
 
