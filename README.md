@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [It’s not just you: Windows PCs are BSOD’ing all over the world](https://www.androidauthority.com/windows-pc-bsod-global-outage-3462652/)
- - [CrowdStrike says it has &quot;widespread reports of BSODs on Windows hosts&quot;, impacting thousands of PCs and taking banks, airlines, broadcasters, and more offline &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/240719/p2#a240719p2)
- - [Major Windows BSOD issue takes banks, airlines, and broadcasters offline](https://www.theverge.com/2024/7/19/24201717/windows-bsod-crowdstrike-outage-issue)<!-- TECH:END -->
+ - [Laurene Powell Jobs pays $70 million to break San Francisco house price record](https://appleinsider.com/articles/24/07/18/laureen-powell-jobs-pays-70-million-to-break-san-francisco-house-price-record?utm_medium=rss)
+ - [Bangladesh orders a nationwide shutdown of its mobile internet amid student protests that killed dozens of people to &quot;ensure the security of citizens&quot; &lpar;Daryna Antoniuk/The Record&rpar;](http://www.techmeme.com/240719/p4#a240719p4)
+ - [Pay more or watch ads: Netflix is killing its ad-free Basic plan in the US](https://www.androidauthority.com/netflix-killing-ad-free-basic-plan-us-3462642/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
