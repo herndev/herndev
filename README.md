@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [CrowdStrike and Microsoft: all the latest news on the global IT outage](https://www.theverge.com/24201803/crowdstrike-microsoft-it-global-outage-airlines-banking)
- - [The FBI got into the Trump rally shooter’s phone in just 40 minutes](https://www.theverge.com/2024/7/19/24201935/fbi-trump-rally-shooter-phone-thomas-matthew-crooks-cellebrite)
- - [The Inevitability of Big Tech Backing Trump](https://www.wired.com/story/dial-up-jared-clemons/)<!-- TECH:END -->
+ - [Get ready to wear the Galaxy Ring wrong](https://www.androidauthority.com/samsung-galaxy-ring-warnings-3462882/)
+ - [How to watch Evo 2024, the biggest fighting game tournament of the year](https://www.theverge.com/2024/7/19/24201924/how-to-watch-evo-2024-schedule-twitch)
+ - [A study of 14K web domains in the C4, RefinedWeb, and Dolma AI training datasets: 5% of all the data, and 25% of the highest-quality data, has been restricted &lpar;Kevin Roose/New York Times&rpar;](http://www.techmeme.com/240719/p16#a240719p16)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
