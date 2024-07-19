@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Disney announces that Safra Catz, CEO of Oracle, is departing its board of directors after six years &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/240719/p24#a240719p24)
- - [CrowdStrike shares close down 11.1% after a software update caused a major outage; its shares had previously risen nearly 118% in the last 12 months &lpar;Ryan Browne/CNBC&rpar;](http://www.techmeme.com/240719/p23#a240719p23)
- - [Michael Moritz urges Biden to drop out, joining other tech leaders such as Reed Hastings and the Zynga co-founder Mark Pincus in calling for Biden to step aside &lpar;New York Times&rpar;](http://www.techmeme.com/240719/p22#a240719p22)<!-- TECH:END -->
+ - [Hospitals Around the World Are Struggling in the Aftermath of the Great IT Meltdown](https://www.wired.com/story/hospitals-crowdstrike-microsoft-it-outage-meltdown/)
+ - [Why the Global Crowdstrike Outage Hit Airports So Hard](https://www.wired.com/story/crowdstrike-windows-outage-airport-travel-delays/)
+ - [EV Charging vs Gas Cost Comparison: We Used Math to Determine Which Is Cheaper](https://www.cnet.com/roadshow/news/ev-charging-vs-gas-cost-comparison-we-used-math-to-determine-which-is-cheaper/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
