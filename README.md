@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Anime logic](http://9gag.com/gag/avynLoX)
- - ⏩ [Poor kid](http://9gag.com/gag/aVveXmy)
+ - 💣 [Incompatible.](http://9gag.com/gag/aBy11xD)
+ - ⏩ [Yeah...](http://9gag.com/gag/aVveQ2K)
  - 👉 [Absolute unit, go sports](http://9gag.com/gag/a9yY7XZ)<!-- MEMES:END -->
 
 ---
