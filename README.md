@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft&#39;s massive outage now hits Apple Pay terminals worldwide](https://appleinsider.com/articles/24/07/19/microsofts-massive-outage-now-hits-apple-pay-terminals-worldwide?utm_medium=rss)
- - [Microsoft says it fixed a configuration issue causing Microsoft 365 apps and services outage and restored several services; some services remain degraded &lpar;Simon Sharwood/The Register&rpar;](http://www.techmeme.com/240719/p7#a240719p7)
- - [Samsung has suspended Galaxy Buds 3 Pro shipments](https://www.androidauthority.com/samsung-galaxy-buds-3-pro-suspend-shipments-3462708/)<!-- TECH:END -->
+ - [Google Pixel 9 Pro Fold rumors: Everything we know and what we want to see](https://www.androidauthority.com/google-pixel-fold-2-3385460/)
+ - [In an interview, Mark Zuckerberg says Trump&#39;s immediate reaction after being shot was &quot;badass&quot; and inspiring, but declines to endorse either Trump or Biden &lpar;Bloomberg&rpar;](http://www.techmeme.com/240719/p9#a240719p9)
+ - [Global chaos erupts as Windows security update goes bad](https://appleinsider.com/articles/24/07/19/microsofts-massive-outage-now-hits-apple-pay-terminals-worldwide?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
