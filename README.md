@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [No time to waste big tiddies are being posted](http://9gag.com/gag/a2v5Pb1)
- - ⏩ [Incompatible.](http://9gag.com/gag/aBy11xD)
- - 👉 [She loves me](http://9gag.com/gag/a874Ybd)<!-- MEMES:END -->
+ - 💣 [Anime logic](http://9gag.com/gag/avynLoX)
+ - ⏩ [Who grabbed what?](http://9gag.com/gag/aMV99OG)
+ - 👉 [Incompatible.](http://9gag.com/gag/aBy11xD)<!-- MEMES:END -->
 
 ---
 
