@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Appreciate the little things](http://9gag.com/gag/aRBeK77)
- - ⏩ [So clumsy](http://9gag.com/gag/a6ZQM22)
- - 👉 [Shoplifter runs from cop](http://9gag.com/gag/a1mXeoG)<!-- MEMES:END -->
+ - 💣 [It&#39;s parkour.](http://9gag.com/gag/apRLrL5)
+ - ⏩ [What the f**k is this?](http://9gag.com/gag/a1mXYRP)
+ - 👉 [The plot twist is crazy](http://9gag.com/gag/azxAAAB)<!-- MEMES:END -->
 
 ---
 
