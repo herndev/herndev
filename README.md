@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Hospitals Around the World Are Struggling in the Aftermath of the Great IT Meltdown](https://www.wired.com/story/hospitals-crowdstrike-microsoft-it-outage-meltdown/)
- - [Why the Global Crowdstrike Outage Hit Airports So Hard](https://www.wired.com/story/crowdstrike-windows-outage-airport-travel-delays/)
- - [EV Charging vs Gas Cost Comparison: We Used Math to Determine Which Is Cheaper](https://www.cnet.com/roadshow/news/ev-charging-vs-gas-cost-comparison-we-used-math-to-determine-which-is-cheaper/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sources: Google recently approached EssilorLuxottica&#39;s leadership about putting its Gemini AI assistant in future smart glasses &lpar;Alex Heath/The Verge&rpar;](http://www.techmeme.com/240719/p26#a240719p26)
+ - [Google’s list of 22 reasons to buy the Pixel 9 Pro sure has a few repeats](https://www.androidauthority.com/reasons-to-buy-a-pixel-9-3462975/)
+ - [Today’s tech outage was a warning; here’s how to be ready and avoid the chaos next time](https://www.androidauthority.com/tech-outage-how-to-prepare-3462981/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
