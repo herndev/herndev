@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Starbucks mobile ordering falls victim to the CrowdStrike BSOD outage](https://www.theverge.com/2024/7/19/24201885/starbucks-mobile-orders-unavailable-crowdstrike-outage)
- - [The outage appears to have been caused by CrowdStrike pushing a faulty update to its Falcon software that causes Windows machines to get stuck in a boot loop &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/240719/p13#a240719p13)
- - [What is CrowdStrike, and what happened?](https://www.theverge.com/2024/7/19/24201864/crowdstrike-outage-explained-microsoft-windows-bsod)<!-- TECH:END -->
+ - [CrowdStrike and Microsoft: all the latest news on the global IT outage](https://www.theverge.com/24201803/crowdstrike-microsoft-it-global-outage-airlines-banking)
+ - [The FBI got into the Trump rally shooter’s phone in just 40 minutes](https://www.theverge.com/2024/7/19/24201935/fbi-trump-rally-shooter-phone-thomas-matthew-crooks-cellebrite)
+ - [The Inevitability of Big Tech Backing Trump](https://www.wired.com/story/dial-up-jared-clemons/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
