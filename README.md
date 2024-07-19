@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Stampede: Racing Royale – How Sumo Digital Built a 60-Player Kart Racer](https://news.xbox.com/en-us/2024/07/19/stampede-racing-royale-60-player-kart-racer/)
- - [13 glowing reviews of reviled movies](https://www.polygon.com/24194672/worst-movies-with-good-reviews)
- - [Luigi’s Mansion 2 HD and Like a Dragon: Infinite Wealth deals lead Woot’s summer sale](https://www.polygon.com/2024/7/19/24201893/woot-video-game-summer-sale-discounts)<!-- GAME:END -->
+ - [Flintlock: Six Tips To Build Your Power And Slay Your Foes](https://kotaku.com/flintlock-upgrades-tips-difficulty-feathers-prime-enki-1851600254)
+ - [Hideki Kamiya asks Capcom to let him make Okami 2 and Viewtiful Joe 3: &#39;Creators have the duty to create sequels fans want to see… I still feel like I haven&#39;t fulfilled my duty&#39;](https://www.pcgamer.com/gaming-industry/hideki-kamiya-asks-capcom-to-let-him-make-okami-2-and-viewtiful-joe-3-creators-have-the-duty-to-create-sequels-fans-want-to-see-i-still-feel-like-i-havent-fulfilled-my-duty)
+ - [Here&#39;s Why The Destiny 2 Community Is Cracking Jokes About The Crowdstrike Outage](https://kotaku.com/destiny-2-crowdstrike-cloudstrike-outage-jokes-1851600262)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
