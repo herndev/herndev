@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Just look at this huge flip phone screen](https://www.theverge.com/2024/7/19/24201791/xiaomi-mix-fold-4-flip-smartphone-china-water-resistance)
- - [NetChoice decision is already influencing how courts consider social media laws](https://www.theverge.com/2024/7/19/24200737/scotus-netchoice-opinion-impact-california-x-bonta)
- - [How OpenAI&#39;s GPT-4o mini model uses a safety technique called &quot;instruction hierarchy&quot; to prevent misuse and stop &quot;ignore previous instructions&quot; types of attacks &lpar;Kylie Robison/The Verge&rpar;](http://www.techmeme.com/240719/p17#a240719p17)<!-- TECH:END -->
+ - [Nigeria fines Meta $220M after investigations showed data sharing on Facebook and WhatsApp violated local consumer, data protection, and privacy laws &lpar;Reuters&rpar;](http://www.techmeme.com/240719/p20#a240719p20)
+ - [CrowdStrike outage Blue Screen of Death photos from around the world](https://www.theverge.com/24202037/microsoft-crowdstrike-outage-blue-screen-error-photos)
+ - [Twitch lifts its ban on Donald Trump](https://www.theverge.com/2024/7/19/24202095/twitch-lifts-donald-trump-ban)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
