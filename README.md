@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I found that people find it strange that I just eat bare lemons, so I am sharing an image of peeled lemon, because apparently nobody has seen it before](http://9gag.com/gag/aPAWGQg)
- - ⏩ [I downloaded the right Star Wars](http://9gag.com/gag/aPAWGNR)
- - 👉 [Adult sleepovers are underrated.](http://9gag.com/gag/a6ZQ7ON)<!-- MEMES:END -->
+ - 💣 [Shoplifter runs from cop](http://9gag.com/gag/a1mXeoG)
+ - ⏩ [No time to waste big tiddies are being posted](http://9gag.com/gag/a2v5Pb1)
+ - 👉 [That sums it up ....](http://9gag.com/gag/a34jjP1)<!-- MEMES:END -->
 
 ---
 
