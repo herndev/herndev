@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Get ready to wear the Galaxy Ring wrong](https://www.androidauthority.com/samsung-galaxy-ring-warnings-3462882/)
- - [How to watch Evo 2024, the biggest fighting game tournament of the year](https://www.theverge.com/2024/7/19/24201924/how-to-watch-evo-2024-schedule-twitch)
- - [A study of 14K web domains in the C4, RefinedWeb, and Dolma AI training datasets: 5% of all the data, and 25% of the highest-quality data, has been restricted &lpar;Kevin Roose/New York Times&rpar;](http://www.techmeme.com/240719/p16#a240719p16)<!-- TECH:END -->
+ - [Just look at this huge flip phone screen](https://www.theverge.com/2024/7/19/24201791/xiaomi-mix-fold-4-flip-smartphone-china-water-resistance)
+ - [NetChoice decision is already influencing how courts consider social media laws](https://www.theverge.com/2024/7/19/24200737/scotus-netchoice-opinion-impact-california-x-bonta)
+ - [How OpenAI&#39;s GPT-4o mini model uses a safety technique called &quot;instruction hierarchy&quot; to prevent misuse and stop &quot;ignore previous instructions&quot; types of attacks &lpar;Kylie Robison/The Verge&rpar;](http://www.techmeme.com/240719/p17#a240719p17)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
