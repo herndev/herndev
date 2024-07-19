@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Honkai: Star Rail 2.4 livestream codes](https://www.polygon.com/honkai-star-rail-guides/2024/7/19/24201218/2-4-livestream-codes-redeem-stellar-jade)
- - [This Shadow Of The Erdtree Ash Of War Will Give You The Biggest Sword](https://kotaku.com/elden-ring-shadow-best-ash-of-war-carian-1851599884)
- - [PC Gamer does not beat rock in this viral AI-driven rock-paper-scissors browser game that has absolutely destroyed our productivity this afternoon](https://www.pcgamer.com/games/pc-gamer-does-not-beat-rock-in-this-viral-ai-driven-rock-paper-scissors-browser-game-that-has-absolutely-destroyed-our-productivity-this-afternoon)<!-- GAME:END -->
+ - [Final Fantasy 7 recreated in Little Big Planet 2 looks shockingly good](https://www.polygon.com/2024/7/19/24200467/final-fantasy-7-remake-little-big-planet-2)
+ - [Tempest Rising is a dream RTS for Command &amp; Conquer vets, and you can try it now](https://www.pcgamer.com/games/rts/tempest-rising-is-a-dream-rts-for-command-and-conquer-vets-and-you-can-try-it-now)
+ - [New Witcher 3 Mod Gives The Game A Full-Fledged Reputation System](https://kotaku.com/new-witcher-3-mod-gives-the-game-a-full-fledged-reputat-1851600077)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
