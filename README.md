@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Flintlock: Six Tips To Build Your Power And Slay Your Foes](https://kotaku.com/flintlock-upgrades-tips-difficulty-feathers-prime-enki-1851600254)
- - [Hideki Kamiya asks Capcom to let him make Okami 2 and Viewtiful Joe 3: &#39;Creators have the duty to create sequels fans want to see… I still feel like I haven&#39;t fulfilled my duty&#39;](https://www.pcgamer.com/gaming-industry/hideki-kamiya-asks-capcom-to-let-him-make-okami-2-and-viewtiful-joe-3-creators-have-the-duty-to-create-sequels-fans-want-to-see-i-still-feel-like-i-havent-fulfilled-my-duty)
- - [Here&#39;s Why The Destiny 2 Community Is Cracking Jokes About The Crowdstrike Outage](https://kotaku.com/destiny-2-crowdstrike-cloudstrike-outage-jokes-1851600262)<!-- GAME:END -->
+ - [Official PlayStation Podcast Episode 490: Interview w/ Firewalk Studios on Concord](https://blog.playstation.com/2024/07/19/official-playstation-podcast-episode-490-interview-w-firewalk-studios-on-concord/)
+ - [EA Sports College Football 25’s $100 version paid off for EA, with 2.2M early access players](https://www.polygon.com/24202074/ea-sports-college-football-25-sales)
+ - [Star Wars: The Acolyte Gives Reylo Fans The Romance They Always Wanted](https://kotaku.com/star-wars-the-acolyte-oshamir-ship-reylo-episode-8-1851600313)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
