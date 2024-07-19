@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Shoplifter runs from cop](http://9gag.com/gag/a1mXeoG)
- - ⏩ [No time to waste big tiddies are being posted](http://9gag.com/gag/a2v5Pb1)
- - 👉 [That sums it up ....](http://9gag.com/gag/a34jjP1)<!-- MEMES:END -->
+ - 💣 [How to Stop Getting Bullied by Anyone](http://9gag.com/gag/ajPD0MQ)
+ - ⏩ [Biden reading his covid results and seeing all the democrats doing secret meetings without him](http://9gag.com/gag/aW4M6DZ)
+ - 👉 [Anime logic](http://9gag.com/gag/avynLoX)<!-- MEMES:END -->
 
 ---
 
