@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This is one of the best insults that I ever heard](http://9gag.com/gag/aW4MMLd)
- - ⏩ [Incompatible.](http://9gag.com/gag/aBy11xD)
- - 👉 [Shoplifter runs from cop](http://9gag.com/gag/a1mXeoG)<!-- MEMES:END -->
+ - 💣 [How to ruin everybodys day in one road rage](http://9gag.com/gag/a4PjbZ6)
+ - ⏩ [Who grabbed what?](http://9gag.com/gag/aMV99OG)
+ - 👉 [Appreciate the little things](http://9gag.com/gag/aRBeK77)<!-- MEMES:END -->
 
 ---
 
