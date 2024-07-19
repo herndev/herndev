@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Deal: The ASUS ZenBeam L2 projector is fun, portable, smart, and $99 off!](https://www.androidauthority.com/asus-zenbeam-l2-deal-3462901/)
- - [The UK and US say they arrested a 17-year-old boy from Walsall, UK, suspected of being connected to the ransomware attack against MGM Resorts in 2023 &lpar;Joseph Cox/404 Media&rpar;](http://www.techmeme.com/240719/p21#a240719p21)
- - [Nearly every Apple service involved in Paris Olympics coverage](https://appleinsider.com/articles/24/07/19/nearly-every-apple-service-involved-in-paris-olympics-coverage?utm_medium=rss)<!-- TECH:END -->
+ - [Disney announces that Safra Catz, CEO of Oracle, is departing its board of directors after six years &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/240719/p24#a240719p24)
+ - [CrowdStrike shares close down 11.1% after a software update caused a major outage; its shares had previously risen nearly 118% in the last 12 months &lpar;Ryan Browne/CNBC&rpar;](http://www.techmeme.com/240719/p23#a240719p23)
+ - [Michael Moritz urges Biden to drop out, joining other tech leaders such as Reed Hastings and the Zynga co-founder Mark Pincus in calling for Biden to step aside &lpar;New York Times&rpar;](http://www.techmeme.com/240719/p22#a240719p22)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
