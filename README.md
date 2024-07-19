@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Official PlayStation Podcast Episode 490: Interview w/ Firewalk Studios on Concord](https://blog.playstation.com/2024/07/19/official-playstation-podcast-episode-490-interview-w-firewalk-studios-on-concord/)
- - [EA Sports College Football 25’s $100 version paid off for EA, with 2.2M early access players](https://www.polygon.com/24202074/ea-sports-college-football-25-sales)
- - [Star Wars: The Acolyte Gives Reylo Fans The Romance They Always Wanted](https://kotaku.com/star-wars-the-acolyte-oshamir-ship-reylo-episode-8-1851600313)<!-- GAME:END -->
+ - [Save on some of our favorite games of 2024 during the Humble Heatwave sale](https://www.polygon.com/2024/7/19/24202156/humble-sale-dragons-dogma-resident-evil-gaming-deal)
+ - [The creators of cyberpunk bartending sim VA-11 Hall-A are following it up with an amazing-looking &#39;active time action&#39; RPG](https://www.pcgamer.com/games/rpg/the-creators-of-cyberpunk-bartending-sim-va-11-hall-a-are-following-it-up-with-an-amazing-looking-active-time-action-rpg)
+ - [Twitch unbans Donald Trump: &#39;We believe there is value in hearing from Presidential nominees directly&#39;](https://www.pcgamer.com/hardware/streaming/twitch-unbans-donald-trump-we-believe-there-is-value-in-hearing-from-presidential-nominees-directly)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
