@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung temporarily halts Galaxy Buds 3 Pro sales, says sorry for quality issues](https://www.androidauthority.com/samsung-galaxy-buds-3-pro-sales-stopped-quality-3462125/)
- - [This is the first Android phone with Qi2 wireless charging &lpar;Update: US price&rpar;](https://www.androidauthority.com/hmd-skyline-qi-2-wireless-charging-3462168/)
- - [140+ Best Prime Day Deals Still Available: Don&#39;t Miss This Last Chance to Save Hundreds on Home, Tech, Beauty and More](https://www.cnet.com/tech/best-amazon-prime-day-deals-still-available-2024-07-18/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [It’s not just you: Windows PCs are BSOD’ing all over the world](https://www.androidauthority.com/windows-pc-bsod-global-outage-3462652/)
+ - [CrowdStrike says it has &quot;widespread reports of BSODs on Windows hosts&quot;, impacting thousands of PCs and taking banks, airlines, broadcasters, and more offline &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/240719/p2#a240719p2)
+ - [Major Windows BSOD issue takes banks, airlines, and broadcasters offline](https://www.theverge.com/2024/7/19/24201717/windows-bsod-crowdstrike-outage-issue)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
