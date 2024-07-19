@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best Oura Ring alternatives](https://www.androidauthority.com/best-oura-ring-alternatives-3457588/)
- - [140+ Best Prime Day Deals Still Available: Don&#39;t Miss This Last Chance to Save Hundreds on Home, Tech, Beauty and More](https://www.cnet.com/tech/best-amazon-prime-day-deals-still-available-2024-07-18/#ftag=CAD590a51e)
- - [Google cuts the Maps API pricing for Indian devs by ~70% and starts accepting payments in Indian rupee, after Ola unveiled one-year free dev access to Ola Maps &lpar;Shashank Pathak/Entrackr&rpar;](http://www.techmeme.com/240719/p1#a240719p1)<!-- TECH:END -->
+ - [Samsung temporarily halts Galaxy Buds 3 Pro sales, says sorry for quality issues](https://www.androidauthority.com/samsung-galaxy-buds-3-pro-sales-stopped-quality-3462125/)
+ - [This is the first Android phone with Qi2 wireless charging &lpar;Update: US price&rpar;](https://www.androidauthority.com/hmd-skyline-qi-2-wireless-charging-3462168/)
+ - [140+ Best Prime Day Deals Still Available: Don&#39;t Miss This Last Chance to Save Hundreds on Home, Tech, Beauty and More](https://www.cnet.com/tech/best-amazon-prime-day-deals-still-available-2024-07-18/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
