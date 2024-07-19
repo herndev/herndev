@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The misfiring Halo TV series has been cancelled just as the Chief actually found a Halo ring](https://www.pcgamer.com/movies-tv/the-misfiring-halo-tv-series-has-been-cancelled-just-as-the-chief-actually-found-a-halo-ring)
- - [The Whole World Came To A Halt Thanks To A Single Software Update](https://kotaku.com/crowdstrike-microsoft-worldwide-outage-crash-1851599499)
- - [The CrowdStrike IT outage is pretty grim but let&#39;s hope it&#39;s not as bad as the infamous Dyn DDoS attack, Facebook mega-crash, and Rogers network disaster](https://www.pcgamer.com/software/the-crowdstrike-it-outage-is-pretty-grim-but-lets-hope-its-not-as-bad-as-the-infamous-dyn-ddos-attack-facebook-mega-crash-and-rogers-network-disaster)<!-- GAME:END -->
+ - [Next Week on Xbox: New Games for July 22 to 26](https://news.xbox.com/en-us/2024/07/19/next-week-on-xbox-new-games-for-july-22-to-26/)
+ - [The magic of tabletop crowdfunding is dying](https://www.polygon.com/24200145/tabletop-crowdfunding-is-dying)
+ - [Facepunch Studios is celebrating its 15th birthday and throwing a huge half-off sale to celebrate it](https://www.pcgamer.com/games/facepunch-studios-is-celebrating-its-15th-birthday-and-throwing-a-huge-half-off-sale-to-celebrate-it)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
