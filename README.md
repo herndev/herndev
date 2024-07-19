@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The First Descendant changes Destiny 2 lookalike icons, but Nexon still won&#39;t say how they ended up in the game](https://www.pcgamer.com/games/third-person-shooter/the-first-descendant-changes-destiny-2-lookalike-icons-but-nexon-still-wont-say-how-they-ended-up-in-the-game)
- - [The Immortal Lock is a gnarly new Quake map that&#39;s meatier than some entire FPS campaigns—literally and figuratively](https://www.pcgamer.com/games/fps/the-immortal-lock-is-a-gnarly-new-quake-map-thats-meatier-than-some-entire-fps-campaignsliterally-and-figuratively)
- - [The collector’s edition of Arcane season one is now available to pre-order](https://www.polygon.com/24201416/arcane-collectors-edition-4k-blu-ray-box-set-pre-order)<!-- GAME:END -->
+ - [Devolver announces Forestrike, a kung fu roguelike where you can plan your moves in advance](https://www.pcgamer.com/games/action/devolver-announces-forestrike-a-kung-fu-roguelike-where-you-can-plan-your-moves-in-advance)
+ - [Despite its relaxing pastels and quaint mountain village, Dungeons of Hinterberg is pushing against the confines of cozy games](https://www.pcgamer.com/games/rpg/despite-its-relaxing-pastels-and-quaint-mountain-village-dungeons-of-hinterberg-is-pushing-against-the-confines-of-cozy-games)
+ - [Halo, which only just made it to Halo, canceled after 2 seasons](https://www.polygon.com/24106882/halo-season-3-tv-show-release-cast-news)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
