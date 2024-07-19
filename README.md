@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Next Week on Xbox: New Games for July 22 to 26](https://news.xbox.com/en-us/2024/07/19/next-week-on-xbox-new-games-for-july-22-to-26/)
- - [The magic of tabletop crowdfunding is dying](https://www.polygon.com/24200145/tabletop-crowdfunding-is-dying)
- - [Facepunch Studios is celebrating its 15th birthday and throwing a huge half-off sale to celebrate it](https://www.pcgamer.com/games/facepunch-studios-is-celebrating-its-15th-birthday-and-throwing-a-huge-half-off-sale-to-celebrate-it)<!-- GAME:END -->
+ - [Flint: Treasure of Oblivion – Meet the Crew of the Pirate RPG](https://news.xbox.com/en-us/2024/07/19/flint-treasure-of-oblivion-meet-the-crew-of-the-pirate-rpg/)
+ - [‘Cozy exploration meets true crime’ on horseback is the MMO I didn’t know I wanted](https://www.pcgamer.com/gaming-industry/game-development/cozy-exploration-meets-true-crime-on-horseback-is-the-mmo-i-didnt-know-i-wanted)
+ - [The Sims 4’s Create-A-Date tool adds way more realism](https://www.polygon.com/24200037/the-sims-4-create-a-date-update-lovestruck-expansion)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
