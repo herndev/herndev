@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Spigen Rugged Armor for Google Pixel 8a review: Should you buy it?](https://www.androidauthority.com/spigen-rugged-armor-google-pixel-8a-review-3457272/)
- - [Samsung halts Galaxy Buds 3 Pro shipments over quality issues](https://www.theverge.com/2024/7/19/24201787/samsung-halts-galaxy-buds-3-pro-shipments-quality-issues)
- - [CrowdStrike and other endpoint security tools need access to the core of operating systems, giving them the ability to disrupt systems they&#39;re trying to protect &lpar;Bloomberg&rpar;](http://www.techmeme.com/240719/p10#a240719p10)<!-- TECH:END -->
+ - [Samsung says it has &quot;temporarily&quot; stopped deliveries of Galaxy Buds 3 Pro to retailers after some early owners reported quality control issues with the ear tips &lpar;Hadlee Simons/Android Authority&rpar;](http://www.techmeme.com/240719/p12#a240719p12)
+ - [ChatGPT’s free tier just got its biggest upgrade since 2022 with GPT-4o mini](https://www.androidauthority.com/gpt-4o-mini-chatgpt-update-3462752/)
+ - [&#39;iOS 18 customisation, iPhone sales, more &#39;Underdogs,&#39; and more Apple News ads, on the AppleInsider Podcast](https://appleinsider.com/articles/24/07/19/ios-18-customisation-iphone-sales-more-underdogs-and-more-apple-news-ads-on-the-appleinsider-podcast?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
