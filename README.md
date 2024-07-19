@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nigeria fines Meta $220M after investigations showed data sharing on Facebook and WhatsApp violated local consumer, data protection, and privacy laws &lpar;Reuters&rpar;](http://www.techmeme.com/240719/p20#a240719p20)
- - [CrowdStrike outage Blue Screen of Death photos from around the world](https://www.theverge.com/24202037/microsoft-crowdstrike-outage-blue-screen-error-photos)
- - [Twitch lifts its ban on Donald Trump](https://www.theverge.com/2024/7/19/24202095/twitch-lifts-donald-trump-ban)<!-- TECH:END -->
+ - [Deal: The ASUS ZenBeam L2 projector is fun, portable, smart, and $99 off!](https://www.androidauthority.com/asus-zenbeam-l2-deal-3462901/)
+ - [The UK and US say they arrested a 17-year-old boy from Walsall, UK, suspected of being connected to the ransomware attack against MGM Resorts in 2023 &lpar;Joseph Cox/404 Media&rpar;](http://www.techmeme.com/240719/p21#a240719p21)
+ - [Nearly every Apple service involved in Paris Olympics coverage](https://appleinsider.com/articles/24/07/19/nearly-every-apple-service-involved-in-paris-olympics-coverage?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
