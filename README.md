@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung says it has &quot;temporarily&quot; stopped deliveries of Galaxy Buds 3 Pro to retailers after some early owners reported quality control issues with the ear tips &lpar;Hadlee Simons/Android Authority&rpar;](http://www.techmeme.com/240719/p12#a240719p12)
- - [ChatGPT’s free tier just got its biggest upgrade since 2022 with GPT-4o mini](https://www.androidauthority.com/gpt-4o-mini-chatgpt-update-3462752/)
- - [&#39;iOS 18 customisation, iPhone sales, more &#39;Underdogs,&#39; and more Apple News ads, on the AppleInsider Podcast](https://appleinsider.com/articles/24/07/19/ios-18-customisation-iphone-sales-more-underdogs-and-more-apple-news-ads-on-the-appleinsider-podcast?utm_medium=rss)<!-- TECH:END -->
+ - [Starbucks mobile ordering falls victim to the CrowdStrike BSOD outage](https://www.theverge.com/2024/7/19/24201885/starbucks-mobile-orders-unavailable-crowdstrike-outage)
+ - [The outage appears to have been caused by CrowdStrike pushing a faulty update to its Falcon software that causes Windows machines to get stuck in a boot loop &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/240719/p13#a240719p13)
+ - [What is CrowdStrike, and what happened?](https://www.theverge.com/2024/7/19/24201864/crowdstrike-outage-explained-microsoft-windows-bsod)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
