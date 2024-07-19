@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Incompatible.](http://9gag.com/gag/aBy11xD)
- - ⏩ [She loves me](http://9gag.com/gag/a874Ybd)
- - 👉 [Your superpower: You can stop time](http://9gag.com/gag/ayN85Qb)<!-- MEMES:END -->
+ - 💣 [Biden reading his covid results and seeing all the democrats doing secret meetings without him](http://9gag.com/gag/aW4M6DZ)
+ - ⏩ [No time to waste big tiddies are being posted](http://9gag.com/gag/a2v5Pb1)
+ - 👉 [The real friends were the monsters we meet along the way](http://9gag.com/gag/amoz0V9)<!-- MEMES:END -->
 
 ---
 
