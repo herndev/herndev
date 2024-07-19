@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The CrowdStrike IT outage is pretty grim but let&#39;s hope it&#39;s not as bad as the infamous Dyn DDoS attack, Facebook mega-crash, and Rogers network disaster](https://www.pcgamer.com/software/the-crowdstrike-it-outage-is-pretty-grim-but-lets-hope-its-not-as-bad-as-the-infamous-dyn-ddos-attack-facebook-mega-crash-and-rogers-network-disaster)
- - [Infamous BSOD appears across Windows machines globally as suspected security bug grounds planes, hits health services](https://www.pcgamer.com/hardware/infamous-bsod-appears-across-windows-machines-globally-as-suspected-security-bug-grounds-planes-hits-health-services)
- - [Do temps matter no more? Next-gen Intel desktop CPUs might run as hot as Meteor Lake laptop chips](https://www.pcgamer.com/hardware/processors/do-temps-matter-no-more-next-gen-intel-desktop-cpus-might-run-as-hot-as-meteor-lake-laptop-chips)<!-- GAME:END -->
+ - [The misfiring Halo TV series has been cancelled just as the Chief actually found a Halo ring](https://www.pcgamer.com/movies-tv/the-misfiring-halo-tv-series-has-been-cancelled-just-as-the-chief-actually-found-a-halo-ring)
+ - [The Whole World Came To A Halt Thanks To A Single Software Update](https://kotaku.com/crowdstrike-microsoft-worldwide-outage-crash-1851599499)
+ - [The CrowdStrike IT outage is pretty grim but let&#39;s hope it&#39;s not as bad as the infamous Dyn DDoS attack, Facebook mega-crash, and Rogers network disaster](https://www.pcgamer.com/software/the-crowdstrike-it-outage-is-pretty-grim-but-lets-hope-its-not-as-bad-as-the-infamous-dyn-ddos-attack-facebook-mega-crash-and-rogers-network-disaster)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
