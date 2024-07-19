@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Incompatible.](http://9gag.com/gag/aBy11xD)
- - ⏩ [An interesting technique to protect your car against flooding.](http://9gag.com/gag/a874MzZ)
- - 👉 [What the f**k is this?](http://9gag.com/gag/a1mXYRP)<!-- MEMES:END -->
+ - 💣 [This is one of the best insults that I ever heard](http://9gag.com/gag/aW4MMLd)
+ - ⏩ [Incompatible.](http://9gag.com/gag/aBy11xD)
+ - 👉 [Shoplifter runs from cop](http://9gag.com/gag/a1mXeoG)<!-- MEMES:END -->
 
 ---
 
