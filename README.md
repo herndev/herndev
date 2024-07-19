@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Incompatible.](http://9gag.com/gag/aBy11xD)
- - ⏩ [Yeah...](http://9gag.com/gag/aVveQ2K)
- - 👉 [Absolute unit, go sports](http://9gag.com/gag/a9yY7XZ)<!-- MEMES:END -->
+ - 💣 [No time to waste big tiddies are being posted](http://9gag.com/gag/a2v5Pb1)
+ - ⏩ [Incompatible.](http://9gag.com/gag/aBy11xD)
+ - 👉 [She loves me](http://9gag.com/gag/a874Ybd)<!-- MEMES:END -->
 
 ---
 
