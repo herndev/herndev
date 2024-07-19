@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [No time to waste big tiddies are being posted](http://9gag.com/gag/a2v5Pb1)
- - ⏩ [Not alarming at all](http://9gag.com/gag/avynLmd)
- - 👉 [Yoinkers](http://9gag.com/gag/aKG3wRN)<!-- MEMES:END -->
+ - 💣 [Husband confronts doctor giving a speech at medical conference for inappropriately assaulting his wife...](http://9gag.com/gag/an71KEL)
+ - ⏩ [Anime logic](http://9gag.com/gag/avynLoX)
+ - 👉 [Poor kid](http://9gag.com/gag/aVveXmy)<!-- MEMES:END -->
 
 ---
 
