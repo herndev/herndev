@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Total control](http://9gag.com/gag/abAZ0j9)
- - ⏩ [Happy](http://9gag.com/gag/aVvePO2)
- - 👉 [Just simple magic](http://9gag.com/gag/abAZZbL)<!-- MEMES:END -->
+ - 💣 [Anime logic](http://9gag.com/gag/avynLoX)
+ - ⏩ [Poor kid](http://9gag.com/gag/aVveXmy)
+ - 👉 [Absolute unit, go sports](http://9gag.com/gag/a9yY7XZ)<!-- MEMES:END -->
 
 ---
 
