@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle answer for Friday, July 19](https://www.pcgamer.com/games/puzzle/wordle-answer-today-july-19-2024)
  - [Devolver announces Forestrike, a kung fu roguelike where you can plan your moves in advance](https://www.pcgamer.com/games/action/devolver-announces-forestrike-a-kung-fu-roguelike-where-you-can-plan-your-moves-in-advance)
- - [Despite its relaxing pastels and quaint mountain village, Dungeons of Hinterberg is pushing against the confines of cozy games](https://www.pcgamer.com/games/rpg/despite-its-relaxing-pastels-and-quaint-mountain-village-dungeons-of-hinterberg-is-pushing-against-the-confines-of-cozy-games)
- - [Halo, which only just made it to Halo, canceled after 2 seasons](https://www.polygon.com/24106882/halo-season-3-tv-show-release-cast-news)<!-- GAME:END -->
+ - [Despite its relaxing pastels and quaint mountain village, Dungeons of Hinterberg is pushing against the confines of cozy games](https://www.pcgamer.com/games/rpg/despite-its-relaxing-pastels-and-quaint-mountain-village-dungeons-of-hinterberg-is-pushing-against-the-confines-of-cozy-games)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
