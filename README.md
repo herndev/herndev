@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [How to ruin everybodys day in one road rage](http://9gag.com/gag/a4PjbZ6)
- - ⏩ [Who grabbed what?](http://9gag.com/gag/aMV99OG)
- - 👉 [Appreciate the little things](http://9gag.com/gag/aRBeK77)<!-- MEMES:END -->
+ - 💣 [Even the shooter&#39;s father called the police 20 minutes before the shooting. But the police did nothing.](http://9gag.com/gag/a874yjQ)
+ - ⏩ [Black Opal](http://9gag.com/gag/aVvePKO)
+ - 👉 [Anime logic](http://9gag.com/gag/avynLoX)<!-- MEMES:END -->
 
 ---
 
