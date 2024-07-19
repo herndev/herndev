@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Final Fantasy 7 recreated in Little Big Planet 2 looks shockingly good](https://www.polygon.com/2024/7/19/24200467/final-fantasy-7-remake-little-big-planet-2)
- - [Tempest Rising is a dream RTS for Command &amp; Conquer vets, and you can try it now](https://www.pcgamer.com/games/rts/tempest-rising-is-a-dream-rts-for-command-and-conquer-vets-and-you-can-try-it-now)
- - [New Witcher 3 Mod Gives The Game A Full-Fledged Reputation System](https://kotaku.com/new-witcher-3-mod-gives-the-game-a-full-fledged-reputat-1851600077)<!-- GAME:END -->
+ - [Stampede: Racing Royale – How Sumo Digital Built a 60-Player Kart Racer](https://news.xbox.com/en-us/2024/07/19/stampede-racing-royale-60-player-kart-racer/)
+ - [13 glowing reviews of reviled movies](https://www.polygon.com/24194672/worst-movies-with-good-reviews)
+ - [Luigi’s Mansion 2 HD and Like a Dragon: Infinite Wealth deals lead Woot’s summer sale](https://www.polygon.com/2024/7/19/24201893/woot-video-game-summer-sale-discounts)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
