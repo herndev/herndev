@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Netflix says its ad tier now accounts for over 45% of all signups in the markets where it&#39;s available, and ad tier memberships grew 34% QoQ in Q2 &lpar;Lucas Manfredi/The Wrap&rpar;](http://www.techmeme.com/240718/p33#a240718p33)
- - [Deals: All Samsung Galaxy S24 variants are still on sale](https://www.androidauthority.com/samsung-galaxy-s24-plus-ultra-deals-3462398/)
- - [Google reveals the Pixel 9 Pro Fold before it can leak again](https://www.theverge.com/2024/7/18/24201491/google-pixel-9-pro-fold-release-date-ai)<!-- TECH:END -->
+ - [Sources: Cellebrite gave the FBI unreleased tech to access the Trump shooter&#39;s phone, a &quot;newer Samsung model&quot;, after the FBI&#39;s first attempt to crack it failed &lpar;Bloomberg&rpar;](http://www.techmeme.com/240718/p36#a240718p36)
+ - [Appeals Court Blocks the Rest of Biden&#39;s Student Loan Plan, Creating Uncertainty for Borrowers](https://www.cnet.com/personal-finance/loans/appeals-court-blocks-the-rest-of-bidens-student-loan-plan-creating-uncertainty-for-borrowers/#ftag=CAD590a51e)
+ - [Best Prime Day Gaming Deals Still Available: You Can Still Score Epic Savings on Consoles, Games and More](https://www.cnet.com/deals/best-prime-day-gaming-deals-still-available-2024-07-18/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
