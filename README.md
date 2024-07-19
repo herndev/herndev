@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [It&#39;s parkour.](http://9gag.com/gag/apRLrL5)
- - ⏩ [Who grabbed what?](http://9gag.com/gag/aMV99OG)
- - 👉 [Incompatible.](http://9gag.com/gag/aBy11xD)<!-- MEMES:END -->
+ - 💣 [Appreciate the little things](http://9gag.com/gag/aRBeK77)
+ - ⏩ [So clumsy](http://9gag.com/gag/a6ZQM22)
+ - 👉 [Shoplifter runs from cop](http://9gag.com/gag/a1mXeoG)<!-- MEMES:END -->
 
 ---
 
