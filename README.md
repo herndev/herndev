@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [It&#39;s parkour.](http://9gag.com/gag/apRLrL5)
- - ⏩ [What the f**k is this?](http://9gag.com/gag/a1mXYRP)
- - 👉 [The plot twist is crazy](http://9gag.com/gag/azxAAAB)<!-- MEMES:END -->
+ - 💣 [Incompatible.](http://9gag.com/gag/aBy11xD)
+ - ⏩ [An interesting technique to protect your car against flooding.](http://9gag.com/gag/a874MzZ)
+ - 👉 [What the f**k is this?](http://9gag.com/gag/a1mXYRP)<!-- MEMES:END -->
 
 ---
 
