@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Anime logic](http://9gag.com/gag/avynLoX)
- - ⏩ [Who grabbed what?](http://9gag.com/gag/aMV99OG)
- - 👉 [Incompatible.](http://9gag.com/gag/aBy11xD)<!-- MEMES:END -->
+ - 💣 [No time to waste big tiddies are being posted](http://9gag.com/gag/a2v5Pb1)
+ - ⏩ [Crowdstrike](http://9gag.com/gag/aW4MMX2)
+ - 👉 [Happy international bluescreen day](http://9gag.com/gag/aMV9wQM)<!-- MEMES:END -->
 
 ---
 
