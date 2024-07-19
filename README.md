@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Messari CEO Ryan Selkis says he ran &quot;too hot&quot; with X posts this week calling for war and sending immigrants back, after Messari management told him to cool it &lpar;Nick Baker/CoinDesk&rpar;](http://www.techmeme.com/240718/p40#a240718p40)
- - [Montr&amp;eacute;al-based Planned, which offers corporate events and travel planning tools, raised a CAD$35M Series B led by Drive Capital &lpar;Bianca Bharti/BetaKit&rpar;](http://www.techmeme.com/240718/p39#a240718p39)
- - [Today&#39;s NYT Strands Hints, Answers and Help for July 19, #138](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-july-19-138/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The best Oura Ring alternatives](https://www.androidauthority.com/best-oura-ring-alternatives-3457588/)
+ - [Google cuts the Maps API pricing for Indian devs by ~70% and starts accepting payments in Indian rupee, after Ola unveiled one-year free dev access to Ola Maps &lpar;Shashank Pathak/Entrackr&rpar;](http://www.techmeme.com/240719/p1#a240719p1)
+ - [Best California King Mattresses for 2024](https://www.cnet.com/health/sleep/best-california-king-mattress/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
