@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [The open beta for Throne and Liberty, Amazon&#39;s latest MMO import, is available now](https://www.pcgamer.com/games/mmo/the-open-beta-for-throne-and-liberty-amazons-latest-mmo-import-is-available-now)
  - [Save on some of our favorite games of 2024 during the Humble Heatwave sale](https://www.polygon.com/2024/7/19/24202156/humble-sale-dragons-dogma-resident-evil-gaming-deal)
- - [The creators of cyberpunk bartending sim VA-11 Hall-A are following it up with an amazing-looking &#39;active time action&#39; RPG](https://www.pcgamer.com/games/rpg/the-creators-of-cyberpunk-bartending-sim-va-11-hall-a-are-following-it-up-with-an-amazing-looking-active-time-action-rpg)
- - [Twitch unbans Donald Trump: &#39;We believe there is value in hearing from Presidential nominees directly&#39;](https://www.pcgamer.com/hardware/streaming/twitch-unbans-donald-trump-we-believe-there-is-value-in-hearing-from-presidential-nominees-directly)<!-- GAME:END -->
+ - [The creators of cyberpunk bartending sim VA-11 Hall-A are following it up with an amazing-looking &#39;active time action&#39; RPG](https://www.pcgamer.com/games/rpg/the-creators-of-cyberpunk-bartending-sim-va-11-hall-a-are-following-it-up-with-an-amazing-looking-active-time-action-rpg)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
