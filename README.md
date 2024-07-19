@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Pixel 9 Pro Fold rumors: Everything we know and what we want to see](https://www.androidauthority.com/google-pixel-fold-2-3385460/)
- - [In an interview, Mark Zuckerberg says Trump&#39;s immediate reaction after being shot was &quot;badass&quot; and inspiring, but declines to endorse either Trump or Biden &lpar;Bloomberg&rpar;](http://www.techmeme.com/240719/p9#a240719p9)
- - [Global chaos erupts as Windows security update goes bad](https://appleinsider.com/articles/24/07/19/microsofts-massive-outage-now-hits-apple-pay-terminals-worldwide?utm_medium=rss)<!-- TECH:END -->
+ - [Spigen Rugged Armor for Google Pixel 8a review: Should you buy it?](https://www.androidauthority.com/spigen-rugged-armor-google-pixel-8a-review-3457272/)
+ - [Samsung halts Galaxy Buds 3 Pro shipments over quality issues](https://www.theverge.com/2024/7/19/24201787/samsung-halts-galaxy-buds-3-pro-shipments-quality-issues)
+ - [CrowdStrike and other endpoint security tools need access to the core of operating systems, giving them the ability to disrupt systems they&#39;re trying to protect &lpar;Bloomberg&rpar;](http://www.techmeme.com/240719/p10#a240719p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
