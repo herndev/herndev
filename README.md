@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I downloaded the right Star Wars](http://9gag.com/gag/aPAWGNR)
- - ⏩ [Adult sleepovers are underrated.](http://9gag.com/gag/a6ZQ7ON)
- - 👉 [You&#39;ve been hit by; you&#39;ve been struck by; a smooth criminal](http://9gag.com/gag/ae96pLv)<!-- MEMES:END -->
+ - 💣 [Poor kid](http://9gag.com/gag/aVveXmy)
+ - ⏩ [Husband confronts doctor giving a speech at medical conference for inappropriately assaulting his wife...](http://9gag.com/gag/an71KEL)
+ - 👉 [She loves me](http://9gag.com/gag/a874Ybd)<!-- MEMES:END -->
 
 ---
 
