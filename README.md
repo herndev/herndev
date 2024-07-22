@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Medical experts in Peru have spoken.](http://9gag.com/gag/a2v57jw)
+ - 💣 [Horny men will f*ck just about anything. It&#39;s easier to get casual sex as a woman.](http://9gag.com/gag/awyVXR1)
  - ⏩ [Planky](http://9gag.com/gag/aqyLgzP)
- - 👉 [Throwback to when Kamala was the 1st democrat eliminated in the 2020 primaries after being wrecked by Tulsi Gabbard on the debate stage](http://9gag.com/gag/a4PjEKQ)<!-- MEMES:END -->
+ - 👉 [Autologous ear reconstruction surgery](http://9gag.com/gag/aKG37gZ)<!-- MEMES:END -->
 
 ---
 
