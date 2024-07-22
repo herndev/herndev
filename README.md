@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Asus ROG Ally X Review: More Battery and Storage, Same Windows Problems](https://www.wired.com/review/asus-rog-ally-x/)
- - [Sources: Nvidia is working with Inspur to launch and distribute a new flagship AI chip &quot;B20&quot; for China that would be compatible with current US restrictions &lpar;Fanny Potkin/Reuters&rpar;](http://www.techmeme.com/240722/p1#a240722p1)
- - [Best Meal Delivery Services of 2024](https://www.cnet.com/health/nutrition/best-meal-kit-delivery-service/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Pixel 9 leak gives us more hope for good network reception](https://www.androidauthority.com/google-pixel-9-series-modem-leak-3463020/)
+ - [Interview with Arkady Volozh, CEO of Nebius, formerly Yandex N.V., on selling its Russian assets and pivoting to become a full-stack AI infrastructure provider &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/240722/p2#a240722p2)
+ - [This is our first look at the Oura Ring 4, the next Galaxy Ring competitor](https://www.androidauthority.com/oura-ring-4-first-look-3463096/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
