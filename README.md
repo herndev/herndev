@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Reeling from CrowdStrike-related outages, Delta has canceled ~4.5K flights, ~1K on Sunday, and has already canceled 100+ for Monday, according to FlightAware &lpar;Reuters&rpar;](http://www.techmeme.com/240721/p9#a240721p9)
  - [Sources: Apple&#39;s Eddy Cue has pushed TV+ studio chiefs to exert more control over budgets, hoping to change Apple&#39;s reputation as the biggest spender in town &lpar;Lucas Shaw/Bloomberg&rpar;](http://www.techmeme.com/240721/p8#a240721p8)
- - [Biden Drops Out, the Internet Responds: Memes Abound as President Exits the Race](https://www.cnet.com/tech/biden-drops-out-the-internet-responds-memes-abound-as-president-exits-the-race/#ftag=CAD590a51e)
- - [How to Get More Electrolytes and Stay Hydrated](https://www.cnet.com/health/nutrition/how-to-get-more-electrolytes-and-stay-hydrated/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Biden Drops Out, the Internet Responds: Memes Abound as President Exits the Race](https://www.cnet.com/tech/biden-drops-out-the-internet-responds-memes-abound-as-president-exits-the-race/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
