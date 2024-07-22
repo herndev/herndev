@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Horny men will f*ck just about anything. It&#39;s easier to get casual sex as a woman.](http://9gag.com/gag/awyVXR1)
- - ⏩ [Planky](http://9gag.com/gag/aqyLgzP)
- - 👉 [Autologous ear reconstruction surgery](http://9gag.com/gag/aKG37gZ)<!-- MEMES:END -->
+ - 💣 [Chinese asshole in Nara](http://9gag.com/gag/aryNM9K)
+ - ⏩ [Letting your 6-year-old get so obese is child abuse.](http://9gag.com/gag/aRBe3rB)
+ - 👉 [Find the Pattern](http://9gag.com/gag/aLn9wDP)<!-- MEMES:END -->
 
 ---
 
