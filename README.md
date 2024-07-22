@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Desktop Dungeons: Rewind is an Easy Game with No Edge Cases Whatsoever*](https://news.xbox.com/en-us/2024/07/22/desktop-dungeons-rewind-is-an-easy-game-with-no-edge-cases-whatsoever/)
- - [Steven Spielberg, Why Did You Rob Us Of A Twisters Kiss?](https://kotaku.com/twisters-kiss-cut-daisy-edgar-jones-glen-powell-1851601495)
- - [Romance Hot Cyborgs And Dance To &#39;90s Boy Bands In Warframe&#39;s Most Surprising Expansion Yet](https://kotaku.com/warframe-1999-expansion-romance-boyband-tennocon-1851601472)<!-- GAME:END -->
+ - [Warframe’s 2024 journey includes a Metal Gear-inspired quest and instant message dating](https://www.polygon.com/24203820/tennocon-2024-warframe-updates-lotus-eaters-1999)
+ - [Google claims it&#39;s been able to simulate &#39;self-replicating&#39; digital life, but its &#39;primordial soup&#39; needs a pinch of salt](https://www.pcgamer.com/software/google-self-replicating-life-simulation)
+ - [This Saturday-morning-cartoon-styled RPG brings all the strategy and none of the grind](https://www.pcgamer.com/roguelike-card-combo-cartoon-game-dimensionals)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
