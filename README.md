@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Whole iPhone 17 range to get 120Hz ProMotion plus slim model](https://appleinsider.com/articles/24/07/22/whole-iphone-17-range-to-get-120hz-promotion-plus-slim-model?utm_medium=rss)
- - [22 Best Nintendo Switch Accessories &lpar;2024&rpar;: Docks, Cases, Headsets](https://www.wired.com/gallery/best-nintendo-switch-accessories/)
- - [A new mid-range Snapdragon chip leaked, and it’s left us confused](https://www.androidauthority.com/snapdragon-7s-gen-3-leak-3463179/)<!-- TECH:END -->
+ - [Rivian CEO RJ Scaringe says too many carmakers are copying Tesla](https://www.theverge.com/24201749/rivian-ceo-rj-scaringe-ev-electric-truck-r1-tesla-model-y-competition-decoder-interview)
+ - [Play Protect could soon let users rescan apps without uninstalling offending apps &lpar;APK teardown&rpar;](https://www.androidauthority.com/play-protect-rescan-apk-teardown-3463186/)
+ - [Hands on: Nomad eSIM provides simple travel data options in over 170 countries](https://appleinsider.com/articles/24/07/22/hands-on-nomad-esim-provides-simple-travel-data-options-in-over-170-countries?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
