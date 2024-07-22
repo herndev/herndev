@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Smaller and faster Windows 11 updates are on the way as Microsoft switches to downloading just what you need and none of what you don&#39;t](https://www.pcgamer.com/software/windows/smaller-and-faster-windows-11-updates-are-on-the-way-as-microsoft-switches-to-downloading-just-what-you-need-and-none-of-what-you-dont)
- - [No E, just the P—Intel quietly launches Raptor Lake Rekked for the embedded market](https://www.pcgamer.com/hardware/processors/no-e-just-the-pintel-quietly-launches-raptor-lake-rekked-for-the-embedded-market)
- - [Replaying Dragon Age: Inquisition has recalibrated my expectations for Dragon Age: The Veilguard](https://www.pcgamer.com/games/rpg/replaying-dragon-age-inquisition-has-recalibrated-my-expectations-for-dragon-age-the-veilguard)<!-- GAME:END -->
+ - [Wolverine Challenges Deadpool With a Cheeky Xbox Controller of His Own](https://news.xbox.com/en-us/2024/07/22/deadpool-wolverine-xbox-controller-wolverine-design/)
+ - [This Innovative Puzzle RPG Might Be A Perfect Video Game](https://kotaku.com/arranger-role-puzzling-adventure-review-puzzle-game-1851600269)
+ - [Nvidia&#39;s third-party RTX 40-series GPUs are losing performance over time thanks to rubbish factory-installed thermal paste](https://www.pcgamer.com/hardware/graphics-cards/nvidias-third-party-rtx-40-series-gpus-are-losing-performance-over-time-thanks-to-rubbish-factory-installed-thermal-paste)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
