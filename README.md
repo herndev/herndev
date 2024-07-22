@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [T-Mobile’s customers take the carrier to court after price hike](https://www.androidauthority.com/t-mobile-price-hike-court-3463355/)
- - [Hands on with tvOS 18 beta, MagSafe travel chargers, &amp; new HomePod on HomeKit Insider](https://appleinsider.com/articles/24/07/22/hands-on-with-tvos-18-beta-magsafe-travel-chargers-new-homepod-on-homekit-insider?utm_medium=rss)
- - [Google’s recruiting a new wave of Pixel Superfans](https://www.androidauthority.com/pixel-superfan-sign-ups-3463335/)<!-- TECH:END -->
+ - [Google backtracks on Chrome’s biggest privacy promise](https://www.androidauthority.com/chrome-third-party-cookies-3463374/)
+ - [Intel says elevated voltage is causing the ongoing &quot;instability issues&quot; in some Core 13th and 14th Gen desktop processors, and plans to release a fix in August &lpar;Paul Alcorn/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/240722/p19#a240722p19)
+ - [iPhone SE 4 rumored to feature FaceID, OLED display in substantial redesign](https://appleinsider.com/articles/24/07/22/iphone-se-4-rumored-to-feature-faceid-oled-display-in-substantial-redesign?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
