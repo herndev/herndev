@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The creator of this Bigfoot game is considering changing Bigfoot&#39;s face after internet commenters said it&#39;s too human-like, but I&#39;m entranced by it](https://www.pcgamer.com/games/sim/the-creator-of-this-bigfoot-game-is-considering-changing-bigfoots-face-after-internet-commenters-said-its-too-human-like-but-im-entranced-by-it)
- - [Once Human developer teases the first big update, apologizes for the last bad patch](https://www.pcgamer.com/games/survival-crafting/once-human-developer-teases-the-first-big-update-apologizes-for-the-last-bad-patch)
- - [Land of Bad on Netflix, Horizon: An American Saga, and every movie new to streaming this week](https://www.polygon.com/2024/7/19/24196112/new-movies-horizon-an-american-saga-thelma-land-of-bad-find-me-falling-netflix)<!-- GAME:END -->
+ - [Conscript is an old school survival horror game where the horror is just that you&#39;re in World War 1](https://www.pcgamer.com/games/horror/conscript-is-an-old-school-survival-horror-game-where-the-horror-is-just-that-youre-in-world-war-1)
+ - [PowerWash Simulator keeps on giving, with two nautical maps chosen by the community coming to the people&#39;s champ in a free update](https://www.pcgamer.com/games/fps/powerwash-simulator-keeps-on-giving-with-two-nautical-maps-chosen-by-the-community-coming-to-the-peoples-champ-in-a-free-update)
+ - [Orcs Must Die&#39;s next entry will bring a roguelite twist next year](https://www.pcgamer.com/games/roguelike/orcs-must-dies-next-entry-will-bring-a-roguelite-twist-next-year)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
