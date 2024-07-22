@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [System malfunction.](http://9gag.com/gag/aGyDZQG)
- - ⏩ [A homeless dude living underground in his wholesome cache](http://9gag.com/gag/amozg26)
- - 👉 [Autologous ear reconstruction surgery](http://9gag.com/gag/aKG37gZ)<!-- MEMES:END -->
+ - 💣 [Just the President Samia Suluhu of Tanzania and his entourage on the road](http://9gag.com/gag/aYQLy0m)
+ - ⏩ [Autologous ear reconstruction surgery](http://9gag.com/gag/aKG37gZ)
+ - 👉 [A homeless dude living underground in his wholesome cache](http://9gag.com/gag/amozg26)<!-- MEMES:END -->
 
 ---
 
