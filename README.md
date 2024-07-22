@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [America’s long Street Fighter drought ends with a win at Evo 2024](https://www.theverge.com/2024/7/22/24203663/evo-2024-recap-street-fighter-6-street-fighter-third-strike)
- - [The cheapest countries to buy the Samsung Galaxy Ring](https://www.androidauthority.com/cheapest-place-to-buy-galaxy-ring-3463270/)
- - [Waymo Is Suing People Who Allegedly Smashed and Slashed Its Robotaxis](https://www.wired.com/story/waymo-sues-alleged-driverless-car-attackers/)<!-- TECH:END -->
+ - [Deal: The Tile Sticker Bluetooth tracker is 33% off right now](https://www.androidauthority.com/tile-sticker-deal-3463298/)
+ - [Google says it won&#39;t be &quot;deprecating third-party cookies&quot; in Chrome and will instead keep working on &quot;privacy-preserving alternatives&quot; via Privacy Sandbox APIs &lpar;Digiday&rpar;](http://www.techmeme.com/240722/p15#a240722p15)
+ - [A zero-day in Telegram for Android, patched on July 11, let attackers send malicious Android APK payloads as video files; the exploit was for sale from June 6 &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/240722/p14#a240722p14)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
