@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [CrowdStrike and Microsoft: all the latest news on the global IT outage](https://www.theverge.com/24201803/crowdstrike-microsoft-it-global-outage-airlines-banking)
- - [Better than Prime Day pricing hits AirPods Max at Amazon](https://appleinsider.com/articles/24/07/22/better-than-prime-day-pricing-hits-airpods-max-at-amazon?utm_medium=rss)
- - [Is the ‘Diaper’ Method in &#39;Twisters&#39; a Real Solution For Massive Tornadoes? Not Exactly](https://www.wired.com/story/is-twisters-diaper-method-a-real-solution-for-massive-tornadoes/)<!-- TECH:END -->
+ - [Man convicted for ‘sextortion’ of more than 100 children on Omegle, Snapchat, and TikTok](https://www.theverge.com/2024/7/22/24203577/sex-offender-convicted-sextortion-omegle-snapchat-tiktok-csam)
+ - [The Shokz OpenRun Pro are selling at their best price for a few more hours](https://www.theverge.com/2024/7/22/24203441/shokz-openrun-pro-open-air-fitness-headphones-deal-sale)
+ - [Rivian adds Apple Music, but won&#39;t consider CarPlay](https://appleinsider.com/articles/24/07/22/rivian-adds-apple-music-but-wont-consider-carplay?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
