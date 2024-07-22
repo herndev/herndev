@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The explosion of excitement could not be contained](http://9gag.com/gag/aXPwxeD)
- - ⏩ [Two years of relationship, had everything we needed, sex was good, enough free time for events and trips with motorcycle, still didn&#39;t work](http://9gag.com/gag/azxAmnm)
- - 👉 [Just the President Samia Suluhu of Tanzania and his entourage on the road](http://9gag.com/gag/aYQLy0m)<!-- MEMES:END -->
+ - 💣 [The only stars you have to grab](http://9gag.com/gag/aNDWPP6)
+ - ⏩ [Dear John:](http://9gag.com/gag/aAyPGxZ)
+ - 👉 [Be a good man and a great dad](http://9gag.com/gag/azxAe8x)<!-- MEMES:END -->
 
 ---
 
