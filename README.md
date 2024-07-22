@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Chinese asshole in Nara](http://9gag.com/gag/aryNM9K)
+ - 💣 [Horny men will f*ck just about anything. It&#39;s easier to get casual sex as a woman.](http://9gag.com/gag/awyVXR1)
  - ⏩ [Letting your 6-year-old get so obese is child abuse.](http://9gag.com/gag/aRBe3rB)
- - 👉 [Find the Pattern](http://9gag.com/gag/aLn9wDP)<!-- MEMES:END -->
+ - 👉 [Planky](http://9gag.com/gag/aqyLgzP)<!-- MEMES:END -->
 
 ---
 
