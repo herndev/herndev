@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Netflix plans to launch a new game every month](https://www.polygon.com/2024/7/22/24203719/netflix-game-development-earnings-call)
- - [You need to play Cryptmaster — but dear god, don’t use a compact keyboard](https://www.polygon.com/24203891/cryptmaster-impressions-word-games)
- - [Flintlock: The Best Melee And Ranged Weapons](https://kotaku.com/flintlock-best-ax-hammer-pistol-rifle-1851601678)<!-- GAME:END -->
+ - [Donald Trump’s Twitch channel is back](https://www.polygon.com/24203801/donald-trump-twitch-channel-unbanned)
+ - [Trump&#39;s VP Nom Connects Mtn Dew And Racism In Front Of Confused Crowd](https://kotaku.com/jd-vance-mountain-dew-racism-racist-trump-vp-speech-1851601858)
+ - [Warner Bros acquires MultiVersus devs as it shifts focus to free-to-play](https://www.pcgamer.com/games/fighting/warner-bros-acquires-multiversus-devs-as-it-shifts-focus-to-free-to-play)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
