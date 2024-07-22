@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The VHS Tapes she is trying to remove from the internet...](http://9gag.com/gag/a9yYA86)
- - ⏩ [Filtering water using gravity and a paper towel](http://9gag.com/gag/a34jwzv)
- - 👉 [Autologous ear reconstruction surgery](http://9gag.com/gag/aKG37gZ)<!-- MEMES:END -->
+ - 💣 [Real life Denzel Washington](http://9gag.com/gag/avynOXq)
+ - ⏩ [Find the Pattern](http://9gag.com/gag/aLn9wDP)
+ - 👉 [Horny men will f*ck just about anything. It&#39;s easier to get casual sex as a woman.](http://9gag.com/gag/awyVXR1)<!-- MEMES:END -->
 
 ---
 
