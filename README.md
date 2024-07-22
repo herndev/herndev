@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How EA uses AI to scan ~11K players&#39; photos to create 3D avatars for its college football game; EA secured players&#39; likeness rights for the first time in 2021 &lpar;Sarah E. Needleman/Wall Street Journal&rpar;](http://www.techmeme.com/240722/p3#a240722p3)
- - [PSA: The Samsung Galaxy Ring works with any Android phone](https://www.androidauthority.com/psa-samsung-galaxy-ring-support-any-android-phone-3463119/)
- - [Pixel 9 leak gives us more hope for good network reception](https://www.androidauthority.com/google-pixel-9-series-modem-leak-3463020/)<!-- TECH:END -->
+ - [Apple TV Plus isn’t overtaking Netflix anytime soon, and Apple knows it](https://www.androidauthority.com/apple-tv-plus-isnt-overtaking-netflix-3463133/)
+ - [Child safety watchdog accuses Apple of hiding real CSAM figures](https://appleinsider.com/articles/24/07/22/child-safety-watchdog-accuses-apple-of-hiding-real-csam-figures?utm_medium=rss)
+ - [Nothing&#39;s CMF Phone 1 review: excellent performance, camera, battery, display, and software, far above rival $199 phones, but no NFC and spotty US band support &lpar;Julian Chokkattu/Wired&rpar;](http://www.techmeme.com/240722/p5#a240722p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
