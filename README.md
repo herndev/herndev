@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple TV Plus isn’t overtaking Netflix anytime soon, and Apple knows it](https://www.androidauthority.com/apple-tv-plus-isnt-overtaking-netflix-3463133/)
- - [Child safety watchdog accuses Apple of hiding real CSAM figures](https://appleinsider.com/articles/24/07/22/child-safety-watchdog-accuses-apple-of-hiding-real-csam-figures?utm_medium=rss)
- - [Nothing&#39;s CMF Phone 1 review: excellent performance, camera, battery, display, and software, far above rival $199 phones, but no NFC and spotty US band support &lpar;Julian Chokkattu/Wired&rpar;](http://www.techmeme.com/240722/p5#a240722p5)<!-- TECH:END -->
+ - [Google Pixel 9 rumors: Everything we know so far about the upcoming Pixels](https://www.androidauthority.com/google-pixel-9-3365966/)
+ - [China removes sanctions on US communications company Viasat, saying the situation had changed but offering few other details, a rare reversal for the government &lpar;Bloomberg&rpar;](http://www.techmeme.com/240722/p8#a240722p8)
+ - [Will you pay for satellite features?](https://www.androidauthority.com/pixel-satellite-sos-poll-3463149/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
