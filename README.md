@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Here&#39;s a game that combines jigsaw puzzles with arithmetic problems to great success](https://www.pcgamer.com/games/puzzle/heres-a-game-that-combines-jigsaw-puzzles-with-arithmetic-problems-to-great-success)
- - [Conscript is an old school survival horror game where the horror is just that you&#39;re in World War 1](https://www.pcgamer.com/games/horror/conscript-is-an-old-school-survival-horror-game-where-the-horror-is-just-that-youre-in-world-war-1)
- - [PowerWash Simulator keeps on giving, with two nautical maps chosen by the community coming to the people&#39;s champ in a free update](https://www.pcgamer.com/games/fps/powerwash-simulator-keeps-on-giving-with-two-nautical-maps-chosen-by-the-community-coming-to-the-peoples-champ-in-a-free-update)<!-- GAME:END -->
+ - [Making sense of House of the Dragon season 2’s side characters so far](https://www.polygon.com/24182762/house-dragon-season-2-new-characters-addam-hugh-ulf)
+ - [All the dragons in House of the Dragon](https://www.polygon.com/23381183/house-dragon-all-dragons-riders-vhagar)
+ - [All the House of the Dragon houses and characters you need to know](https://www.polygon.com/23322393/house-dragon-houses-characters-explained)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
