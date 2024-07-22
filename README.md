@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Just the President Samia Suluhu of Tanzania and his entourage on the road](http://9gag.com/gag/aYQLy0m)
- - ⏩ [Honest work](http://9gag.com/gag/a874o3p)
- - 👉 [The VHS Tapes she is trying to remove from the internet...](http://9gag.com/gag/a9yYA86)<!-- MEMES:END -->
+ - 💣 [The VHS Tapes she is trying to remove from the internet...](http://9gag.com/gag/a9yYA86)
+ - ⏩ [Filtering water using gravity and a paper towel](http://9gag.com/gag/a34jwzv)
+ - 👉 [Autologous ear reconstruction surgery](http://9gag.com/gag/aKG37gZ)<!-- MEMES:END -->
 
 ---
 
