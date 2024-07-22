@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Nobody Wants to Die Uses Art Direction to Offer a New Vision of a Dark Future](https://news.xbox.com/en-us/2024/07/22/nobody-wants-to-die/)
- - [Stardew Valley Creator Asks Fans To Shame Him If He Ever Breaks Promise To Keep DLC Free](https://kotaku.com/stardew-valley-free-dlc-1-7-haunted-chocolatier-1851601062)
- - [Evo 2024: All the big reveals and announcements](https://www.polygon.com/24201533/evo-announcements-reveals-trailers-2024)<!-- GAME:END -->
+ - [Stardew Valley 1.6 update’s Switch port ‘still in progress’](https://www.polygon.com/24203571/stardew-valley-1-6-update-switch-port)
+ - [Latest Clue About The PS5 Pro Leaks In No Man&#39;s Sky](https://kotaku.com/ps5-pro-price-release-date-specs-no-man-sky-1851601166)
+ - [This is not a typo: The world&#39;s fastest gaming monitor may well be this ancient IIyama CRT unit, pushed to 700 Hz at a glorious 120p resolution](https://www.pcgamer.com/hardware/gaming-monitors/this-is-not-a-typo-the-worlds-fastest-gaming-monitor-may-well-be-this-ancient-iiyama-crt-unit-pushed-to-700-hz-at-a-glorious-120p-resolution)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
