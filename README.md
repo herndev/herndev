@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Horny men will f*ck just about anything. It&#39;s easier to get casual sex as a woman.](http://9gag.com/gag/awyVXR1)
- - ⏩ [Autologous ear reconstruction surgery](http://9gag.com/gag/aKG37gZ)
- - 👉 [Instant regret](http://9gag.com/gag/a4PjGAA)<!-- MEMES:END -->
+ - 💣 [Don&#39;t Make Baby if you don&#39;t have money](http://9gag.com/gag/axyD1gM)
+ - ⏩ [Hahaha](http://9gag.com/gag/ayN8oeY)
+ - 👉 [Important stuff](http://9gag.com/gag/aXPwgzg)<!-- MEMES:END -->
 
 ---
 
