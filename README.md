@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Eufy quietly pushes release of Find My Device trackers to late 2024](https://www.androidauthority.com/eufy-trackers-delayed-3463194/)
- - [An interview with AMD&#39;s Mike Clark, who has worked on AMD&#39;s CPU architectures for 31 years and led Zen development through all of its five generations &lpar;Paul Alcorn/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/240722/p13#a240722p13)
- - [Chrome now sends an alert when your browser tabs are dragging down performance](https://www.androidauthority.com/chrome-performance-alerts-feature-3463212/)<!-- TECH:END -->
+ - [America’s long Street Fighter drought ends with a win at Evo 2024](https://www.theverge.com/2024/7/22/24203663/evo-2024-recap-street-fighter-6-street-fighter-third-strike)
+ - [The cheapest countries to buy the Samsung Galaxy Ring](https://www.androidauthority.com/cheapest-place-to-buy-galaxy-ring-3463270/)
+ - [Waymo Is Suing People Who Allegedly Smashed and Slashed Its Robotaxis](https://www.wired.com/story/waymo-sues-alleged-driverless-car-attackers/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
