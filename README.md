@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Best Way To Get Carbon Fiber In Palworld](https://kotaku.com/palworld-how-to-get-carbon-fiber-drop-farm-1851601283)
- - [Every Big Announcement From Evo 2024](https://kotaku.com/evo-2024-guilty-gear-lucy-cyberpunk-tekken-8-heihachi-1851601248)
- - [AMD RDNA 4 info leak confirms RT performance is getting boosted but could fall short of a major hardware redesign](https://www.pcgamer.com/hardware/graphics-cards/amd-rdna-4-info-leak-confirms-rt-performance-is-getting-boosted-but-could-fall-short-of-a-major-hardware-redesign)<!-- GAME:END -->
+ - [Desktop Dungeons: Rewind is an Easy Game with No Edge Cases Whatsoever*](https://news.xbox.com/en-us/2024/07/22/desktop-dungeons-rewind-is-an-easy-game-with-no-edge-cases-whatsoever/)
+ - [Steven Spielberg, Why Did You Rob Us Of A Twisters Kiss?](https://kotaku.com/twisters-kiss-cut-daisy-edgar-jones-glen-powell-1851601495)
+ - [Romance Hot Cyborgs And Dance To &#39;90s Boy Bands In Warframe&#39;s Most Surprising Expansion Yet](https://kotaku.com/warframe-1999-expansion-romance-boyband-tennocon-1851601472)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
