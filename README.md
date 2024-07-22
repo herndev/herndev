@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Autologous ear reconstruction surgery](http://9gag.com/gag/aKG37gZ)
+ - 💣 [System malfunction.](http://9gag.com/gag/aGyDZQG)
  - ⏩ [A homeless dude living underground in his wholesome cache](http://9gag.com/gag/amozg26)
- - 👉 [Pro-Palestinian went from aggressor to victim in a matter of seconds!](http://9gag.com/gag/aZZprB0)<!-- MEMES:END -->
+ - 👉 [Autologous ear reconstruction surgery](http://9gag.com/gag/aKG37gZ)<!-- MEMES:END -->
 
 ---
 
