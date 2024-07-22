@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Google recently approached EssilorLuxottica&#39;s leadership about putting its Gemini AI assistant in future smart glasses &lpar;Alex Heath/The Verge&rpar;](http://www.techmeme.com/240719/p26#a240719p26)
- - [Google’s list of 22 reasons to buy the Pixel 9 Pro sure has a few repeats](https://www.androidauthority.com/reasons-to-buy-a-pixel-9-3462975/)
- - [Today’s tech outage was a warning; here’s how to be ready and avoid the chaos next time](https://www.androidauthority.com/tech-outage-how-to-prepare-3462981/)<!-- TECH:END -->
+ - [Sources: Apple&#39;s Eddy Cue has pushed TV+ studio chiefs to exert more control over budgets, hoping to change Apple&#39;s reputation as the biggest spender in town &lpar;Lucas Shaw/Bloomberg&rpar;](http://www.techmeme.com/240721/p8#a240721p8)
+ - [Biden Drops Out, the Internet Responds: Memes Abound as President Exits the Race](https://www.cnet.com/tech/biden-drops-out-the-internet-responds-memes-abound-as-president-exits-the-race/#ftag=CAD590a51e)
+ - [How to Get More Electrolytes and Stay Hydrated](https://www.cnet.com/health/nutrition/how-to-get-more-electrolytes-and-stay-hydrated/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
