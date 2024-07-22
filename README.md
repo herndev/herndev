@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I support this](http://9gag.com/gag/adBXKd9)
- - ⏩ [Filtering water using gravity and a paper towel](http://9gag.com/gag/a34jwzv)
- - 👉 [Autologous ear reconstruction surgery](http://9gag.com/gag/aKG37gZ)<!-- MEMES:END -->
+ - 💣 [Medical experts in Peru have spoken.](http://9gag.com/gag/a2v57jw)
+ - ⏩ [Planky](http://9gag.com/gag/aqyLgzP)
+ - 👉 [Throwback to when Kamala was the 1st democrat eliminated in the 2020 primaries after being wrecked by Tulsi Gabbard on the debate stage](http://9gag.com/gag/a4PjEKQ)<!-- MEMES:END -->
 
 ---
 
