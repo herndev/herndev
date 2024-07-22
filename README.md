@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Replaying Dragon Age: Inquisition has recalibrated my expectations for Dragon Age: The Veilguard](https://www.pcgamer.com/games/rpg/replaying-dragon-age-inquisition-has-recalibrated-my-expectations-for-dragon-age-the-veilguard)
- - [Asus’ Steam Deck Competitor Just Got An Excellent Upgrade](https://kotaku.com/asus-ally-x-review-steam-deck-sd-card-battery-windows-1851600340)
- - [Today&#39;s Wordle answer for Monday, July 22](https://www.pcgamer.com/games/puzzle/wordle-answer-today-july-22-2024)<!-- GAME:END -->
+ - [Smaller and faster Windows 11 updates are on the way as Microsoft switches to downloading just what you need and none of what you don&#39;t](https://www.pcgamer.com/software/windows/smaller-and-faster-windows-11-updates-are-on-the-way-as-microsoft-switches-to-downloading-just-what-you-need-and-none-of-what-you-dont)
+ - [No E, just the P—Intel quietly launches Raptor Lake Rekked for the embedded market](https://www.pcgamer.com/hardware/processors/no-e-just-the-pintel-quietly-launches-raptor-lake-rekked-for-the-embedded-market)
+ - [Replaying Dragon Age: Inquisition has recalibrated my expectations for Dragon Age: The Veilguard](https://www.pcgamer.com/games/rpg/replaying-dragon-age-inquisition-has-recalibrated-my-expectations-for-dragon-age-the-veilguard)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
