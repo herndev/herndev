@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [PSA: The Samsung Galaxy Ring works with any Android phone](https://www.androidauthority.com/psa-samsung-galaxy-ring-support-any-android-phone-3463119/)
  - [Pixel 9 leak gives us more hope for good network reception](https://www.androidauthority.com/google-pixel-9-series-modem-leak-3463020/)
- - [Interview with Arkady Volozh, CEO of Nebius, formerly Yandex N.V., on selling its Russian assets and pivoting to become a full-stack AI infrastructure provider &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/240722/p2#a240722p2)
- - [This is our first look at the Oura Ring 4, the next Galaxy Ring competitor](https://www.androidauthority.com/oura-ring-4-first-look-3463096/)<!-- TECH:END -->
+ - [Interview with Arkady Volozh, CEO of Nebius, formerly Yandex N.V., on selling its Russian assets and pivoting to become a full-stack AI infrastructure provider &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/240722/p2#a240722p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
