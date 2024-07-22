@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Even the shooter&#39;s father called the police 20 minutes before the shooting. But the police did nothing.](http://9gag.com/gag/a874yjQ)
- - ⏩ [Black Opal](http://9gag.com/gag/aVvePKO)
- - 👉 [Anime logic](http://9gag.com/gag/avynLoX)<!-- MEMES:END -->
+ - 💣 [Planky](http://9gag.com/gag/aqyLgzP)
+ - ⏩ [Horny men will f*ck just about anything. It&#39;s easier to get casual sex as a woman.](http://9gag.com/gag/awyVXR1)
+ - 👉 [Autologous ear reconstruction surgery](http://9gag.com/gag/aKG37gZ)<!-- MEMES:END -->
 
 ---
 
