@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle answer for Monday, July 22](https://www.pcgamer.com/games/puzzle/wordle-answer-today-july-22-2024)
  - [Making sense of House of the Dragon season 2’s side characters so far](https://www.polygon.com/24182762/house-dragon-season-2-new-characters-addam-hugh-ulf)
- - [All the dragons in House of the Dragon](https://www.polygon.com/23381183/house-dragon-all-dragons-riders-vhagar)
- - [All the House of the Dragon houses and characters you need to know](https://www.polygon.com/23322393/house-dragon-houses-characters-explained)<!-- GAME:END -->
+ - [All the dragons in House of the Dragon](https://www.polygon.com/23381183/house-dragon-all-dragons-riders-vhagar)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
