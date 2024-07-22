@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Today&#39;s Wordle answer for Monday, July 22](https://www.pcgamer.com/games/puzzle/wordle-answer-today-july-22-2024)
- - [Making sense of House of the Dragon season 2’s side characters so far](https://www.polygon.com/24182762/house-dragon-season-2-new-characters-addam-hugh-ulf)
- - [All the dragons in House of the Dragon](https://www.polygon.com/23381183/house-dragon-all-dragons-riders-vhagar)<!-- GAME:END -->
+ - [Replaying Dragon Age: Inquisition has recalibrated my expectations for Dragon Age: The Veilguard](https://www.pcgamer.com/games/rpg/replaying-dragon-age-inquisition-has-recalibrated-my-expectations-for-dragon-age-the-veilguard)
+ - [Asus’ Steam Deck Competitor Just Got An Excellent Upgrade](https://kotaku.com/asus-ally-x-review-steam-deck-sd-card-battery-windows-1851600340)
+ - [Today&#39;s Wordle answer for Monday, July 22](https://www.pcgamer.com/games/puzzle/wordle-answer-today-july-22-2024)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
