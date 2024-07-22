@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Tekken 8 Director Delves into Lidia’s Gameplay Highlights](https://news.xbox.com/en-us/2024/07/22/tekken-8-director-delves-into-lidias-gameplay-highlights/)
- - [Fallout And Starfield Maker Bethesda Game Studios Is Unionizing](https://kotaku.com/bethesda-union-starfield-fallout-amazon-prime-microsoft-1851600925)
- - [Publishers &#39;eject too soon&#39; on their live service games, says Warframe developer&#39;s CEO: &#39;It comes out, doesn’t work and they throw it away&#39;](https://www.pcgamer.com/games/third-person-shooter/publishers-eject-too-soon-on-their-live-service-games-says-warframe-developer-s-ceo-it-comes-out-doesn-t-work-and-they-throw-it-away)<!-- GAME:END -->
+ - [Nobody Wants to Die Uses Art Direction to Offer a New Vision of a Dark Future](https://news.xbox.com/en-us/2024/07/22/nobody-wants-to-die/)
+ - [Stardew Valley Creator Asks Fans To Shame Him If He Ever Breaks Promise To Keep DLC Free](https://kotaku.com/stardew-valley-free-dlc-1-7-haunted-chocolatier-1851601062)
+ - [Evo 2024: All the big reveals and announcements](https://www.polygon.com/24201533/evo-announcements-reveals-trailers-2024)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
