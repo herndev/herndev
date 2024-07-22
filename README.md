@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Stardew Valley 1.6 update’s Switch port ‘still in progress’](https://www.polygon.com/24203571/stardew-valley-1-6-update-switch-port)
- - [Latest Clue About The PS5 Pro Leaks In No Man&#39;s Sky](https://kotaku.com/ps5-pro-price-release-date-specs-no-man-sky-1851601166)
- - [This is not a typo: The world&#39;s fastest gaming monitor may well be this ancient IIyama CRT unit, pushed to 700 Hz at a glorious 120p resolution](https://www.pcgamer.com/hardware/gaming-monitors/this-is-not-a-typo-the-worlds-fastest-gaming-monitor-may-well-be-this-ancient-iiyama-crt-unit-pushed-to-700-hz-at-a-glorious-120p-resolution)<!-- GAME:END -->
+ - [The Best Way To Get Carbon Fiber In Palworld](https://kotaku.com/palworld-how-to-get-carbon-fiber-drop-farm-1851601283)
+ - [Every Big Announcement From Evo 2024](https://kotaku.com/evo-2024-guilty-gear-lucy-cyberpunk-tekken-8-heihachi-1851601248)
+ - [AMD RDNA 4 info leak confirms RT performance is getting boosted but could fall short of a major hardware redesign](https://www.pcgamer.com/hardware/graphics-cards/amd-rdna-4-info-leak-confirms-rt-performance-is-getting-boosted-but-could-fall-short-of-a-major-hardware-redesign)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
