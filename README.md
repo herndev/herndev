@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Warframe’s 2024 journey includes a Metal Gear-inspired quest and instant message dating](https://www.polygon.com/24203820/tennocon-2024-warframe-updates-lotus-eaters-1999)
- - [Google claims it&#39;s been able to simulate &#39;self-replicating&#39; digital life, but its &#39;primordial soup&#39; needs a pinch of salt](https://www.pcgamer.com/software/google-self-replicating-life-simulation)
- - [This Saturday-morning-cartoon-styled RPG brings all the strategy and none of the grind](https://www.pcgamer.com/roguelike-card-combo-cartoon-game-dimensionals)<!-- GAME:END -->
+ - [What time does Modern Warfare 3 season 5 release?](https://www.polygon.com/modern-warfare-3-guides/24203809/season-5-release-time-date-mw3-summerslam)
+ - [Stardew Valley creator swears &#39;on the honor of my family name&#39; that he&#39;ll never charge money for DLC](https://www.pcgamer.com/games/life-sim/stardew-valley-creator-swears-on-the-honor-of-my-family-name-that-hell-never-charge-money-for-dlc)
+ - [A look back at 8 versions of classic action RPG Hydlide reveals how PC ports can preserve—or lose—the soul of a game](https://www.pcgamer.com/games/rpg/a-look-back-at-8-versions-of-classic-action-rpg-hydlide-reveals-how-pc-ports-can-preserveor-losethe-soul-of-a-game)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
