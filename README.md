@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Just the President Samia Suluhu of Tanzania and his entourage on the road](http://9gag.com/gag/aYQLy0m)
- - ⏩ [Damn Japan. You cold AF. Gotta eat outside like an animal if we act like one in Japan.](http://9gag.com/gag/aqyLjDM)
+ - 💣 [Autologous ear reconstruction surgery](http://9gag.com/gag/aKG37gZ)
+ - ⏩ [Just the President Samia Suluhu of Tanzania and his entourage on the road](http://9gag.com/gag/aYQLy0m)
  - 👉 [A homeless dude living underground in his wholesome cache](http://9gag.com/gag/amozg26)<!-- MEMES:END -->
 
 ---
