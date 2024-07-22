@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google backtracks on Chrome’s biggest privacy promise](https://www.androidauthority.com/chrome-third-party-cookies-3463374/)
- - [Intel says elevated voltage is causing the ongoing &quot;instability issues&quot; in some Core 13th and 14th Gen desktop processors, and plans to release a fix in August &lpar;Paul Alcorn/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/240722/p19#a240722p19)
- - [iPhone SE 4 rumored to feature FaceID, OLED display in substantial redesign](https://appleinsider.com/articles/24/07/22/iphone-se-4-rumored-to-feature-faceid-oled-display-in-substantial-redesign?utm_medium=rss)<!-- TECH:END -->
+ - [Google’s next Chromecast could ditch the dongle entirely](https://www.androidauthority.com/google-tv-streamer-3463399/)
+ - [Slack introduces iPhone widgets to make work more inescapable](https://www.theverge.com/2024/7/22/24203924/slack-iphone-ipad-ios-ipados-widgets)
+ - [Intel says it has found the issue causing 13th and 14th Gen CPUs to crash](https://www.theverge.com/2024/7/22/24203959/intel-core-13th-14th-gen-cpu-crash-update-patch)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
