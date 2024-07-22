@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Don&#39;t Make Baby if you don&#39;t have money](http://9gag.com/gag/axyD1gM)
- - ⏩ [Hahaha](http://9gag.com/gag/ayN8oeY)
- - 👉 [Important stuff](http://9gag.com/gag/aXPwgzg)<!-- MEMES:END -->
+ - 💣 [Just the President Samia Suluhu of Tanzania and his entourage on the road](http://9gag.com/gag/aYQLy0m)
+ - ⏩ [Honest work](http://9gag.com/gag/a874o3p)
+ - 👉 [The VHS Tapes she is trying to remove from the internet...](http://9gag.com/gag/a9yYA86)<!-- MEMES:END -->
 
 ---
 
