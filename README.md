@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Reeling from CrowdStrike-related outages, Delta has canceled ~4.5K flights, ~1K on Sunday, and has already canceled 100+ for Monday, according to FlightAware &lpar;Reuters&rpar;](http://www.techmeme.com/240721/p9#a240721p9)
- - [Sources: Apple&#39;s Eddy Cue has pushed TV+ studio chiefs to exert more control over budgets, hoping to change Apple&#39;s reputation as the biggest spender in town &lpar;Lucas Shaw/Bloomberg&rpar;](http://www.techmeme.com/240721/p8#a240721p8)
- - [Biden Drops Out, the Internet Responds: Memes Abound as President Exits the Race](https://www.cnet.com/tech/biden-drops-out-the-internet-responds-memes-abound-as-president-exits-the-race/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Google Play Store preps new tools for app discovery &lpar;Update: Screenshots&rpar;](https://www.androidauthority.com/play-store-interests-3458223/)
+ - [Today&#39;s NYT Strands Hints, Answers and Help for July 22, #141](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-july-22-141/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Strands Hints, Answers and Help for July 21, #140](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-july-21-140/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
