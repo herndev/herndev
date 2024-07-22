@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Deal: The Tile Sticker Bluetooth tracker is 33% off right now](https://www.androidauthority.com/tile-sticker-deal-3463298/)
- - [Google says it won&#39;t be &quot;deprecating third-party cookies&quot; in Chrome and will instead keep working on &quot;privacy-preserving alternatives&quot; via Privacy Sandbox APIs &lpar;Digiday&rpar;](http://www.techmeme.com/240722/p15#a240722p15)
- - [A zero-day in Telegram for Android, patched on July 11, let attackers send malicious Android APK payloads as video files; the exploit was for sale from June 6 &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/240722/p14#a240722p14)<!-- TECH:END -->
+ - [T-Mobile’s customers take the carrier to court after price hike](https://www.androidauthority.com/t-mobile-price-hike-court-3463355/)
+ - [Hands on with tvOS 18 beta, MagSafe travel chargers, &amp; new HomePod on HomeKit Insider](https://appleinsider.com/articles/24/07/22/hands-on-with-tvos-18-beta-magsafe-travel-chargers-new-homepod-on-homekit-insider?utm_medium=rss)
+ - [Google’s recruiting a new wave of Pixel Superfans](https://www.androidauthority.com/pixel-superfan-sign-ups-3463335/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
