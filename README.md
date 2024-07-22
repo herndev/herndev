@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Pro-Palestinian went from aggressor to victim in a matter of seconds!](http://9gag.com/gag/aZZprB0)
- - ⏩ [I support this](http://9gag.com/gag/adBXKd9)
- - 👉 [These shepherds dip their sheep in water filled with insecticide to clean them from harmful parasites. Sheep can hold their breaths for up to 11 minutes](http://9gag.com/gag/aVve7EK)<!-- MEMES:END -->
+ - 💣 [Autologous ear reconstruction surgery](http://9gag.com/gag/aKG37gZ)
+ - ⏩ [A homeless dude living underground in his wholesome cache](http://9gag.com/gag/amozg26)
+ - 👉 [Pro-Palestinian went from aggressor to victim in a matter of seconds!](http://9gag.com/gag/aZZprB0)<!-- MEMES:END -->
 
 ---
 
