@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [My iPad runs Windows XP now, and it’s all I ever wanted](https://www.theverge.com/2024/7/22/24200536/windows-xp-ipad-pc-emulation-utm-se)
- - [Biden gives states billions of dollars for EV chargers, heat pumps, and other green tech](https://www.theverge.com/2024/7/22/24203522/biden-local-governments-climate-clean-energy-grants)
- - [Limited supply: M3 MacBook Air with 16GB RAM drops to $1,099](https://appleinsider.com/articles/24/07/22/limited-supply-m3-macbook-air-with-16gb-ram-drops-to-1099?utm_medium=rss)<!-- TECH:END -->
+ - [Eufy quietly pushes release of Find My Device trackers to late 2024](https://www.androidauthority.com/eufy-trackers-delayed-3463194/)
+ - [An interview with AMD&#39;s Mike Clark, who has worked on AMD&#39;s CPU architectures for 31 years and led Zen development through all of its five generations &lpar;Paul Alcorn/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/240722/p13#a240722p13)
+ - [Chrome now sends an alert when your browser tabs are dragging down performance](https://www.androidauthority.com/chrome-performance-alerts-feature-3463212/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
