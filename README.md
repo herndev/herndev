@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Wolverine Challenges Deadpool With a Cheeky Xbox Controller of His Own](https://news.xbox.com/en-us/2024/07/22/deadpool-wolverine-xbox-controller-wolverine-design/)
- - [This Innovative Puzzle RPG Might Be A Perfect Video Game](https://kotaku.com/arranger-role-puzzling-adventure-review-puzzle-game-1851600269)
- - [Nvidia&#39;s third-party RTX 40-series GPUs are losing performance over time thanks to rubbish factory-installed thermal paste](https://www.pcgamer.com/hardware/graphics-cards/nvidias-third-party-rtx-40-series-gpus-are-losing-performance-over-time-thanks-to-rubbish-factory-installed-thermal-paste)<!-- GAME:END -->
+ - [Tekken 8 Director Delves into Lidia’s Gameplay Highlights](https://news.xbox.com/en-us/2024/07/22/tekken-8-director-delves-into-lidias-gameplay-highlights/)
+ - [Fallout And Starfield Maker Bethesda Game Studios Is Unionizing](https://kotaku.com/bethesda-union-starfield-fallout-amazon-prime-microsoft-1851600925)
+ - [Publishers &#39;eject too soon&#39; on their live service games, says Warframe developer&#39;s CEO: &#39;It comes out, doesn’t work and they throw it away&#39;](https://www.pcgamer.com/games/third-person-shooter/publishers-eject-too-soon-on-their-live-service-games-says-warframe-developer-s-ceo-it-comes-out-doesn-t-work-and-they-throw-it-away)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
