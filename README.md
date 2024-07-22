@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Your Dragon Age: The Veilguard character can be voiced by the guy who did all the Baldur&#39;s Gate 3 sex noises](https://www.pcgamer.com/games/rpg/your-dragon-age-the-veilguard-character-can-be-voiced-by-the-guy-who-did-all-the-baldurs-gate-3-sex-noises)
  - [Donald Trump’s Twitch channel is back](https://www.polygon.com/24203801/donald-trump-twitch-channel-unbanned)
- - [Trump&#39;s VP Nom Connects Mtn Dew And Racism In Front Of Confused Crowd](https://kotaku.com/jd-vance-mountain-dew-racism-racist-trump-vp-speech-1851601858)
- - [Warner Bros acquires MultiVersus devs as it shifts focus to free-to-play](https://www.pcgamer.com/games/fighting/warner-bros-acquires-multiversus-devs-as-it-shifts-focus-to-free-to-play)<!-- GAME:END -->
+ - [Trump&#39;s VP Nom Connects Mtn Dew And Racism In Front Of Confused Crowd](https://kotaku.com/jd-vance-mountain-dew-racism-racist-trump-vp-speech-1851601858)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
