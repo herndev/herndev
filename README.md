@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Pixel 9 rumors: Everything we know so far about the upcoming Pixels](https://www.androidauthority.com/google-pixel-9-3365966/)
- - [China removes sanctions on US communications company Viasat, saying the situation had changed but offering few other details, a rare reversal for the government &lpar;Bloomberg&rpar;](http://www.techmeme.com/240722/p8#a240722p8)
- - [Will you pay for satellite features?](https://www.androidauthority.com/pixel-satellite-sos-poll-3463149/)<!-- TECH:END -->
+ - [AI terminology, explained for humans](https://www.theverge.com/24201441/ai-terminology-explained-humans)
+ - [Apple TV Plus budgets come under close scrutiny from top exec](https://www.theverge.com/2024/7/22/24203423/apple-tv-plus-tighten-budget-streaming-losses)
+ - [The Right Reacts to Biden’s Withdrawal: It’s a ‘Coup’](https://www.wired.com/story/gop-reaction-biden-coup/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
