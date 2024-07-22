@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [AI terminology, explained for humans](https://www.theverge.com/24201441/ai-terminology-explained-humans)
- - [Apple TV Plus budgets come under close scrutiny from top exec](https://www.theverge.com/2024/7/22/24203423/apple-tv-plus-tighten-budget-streaming-losses)
- - [The Right Reacts to Biden’s Withdrawal: It’s a ‘Coup’](https://www.wired.com/story/gop-reaction-biden-coup/)<!-- TECH:END -->
+ - [Whole iPhone 17 range to get 120Hz ProMotion plus slim model](https://appleinsider.com/articles/24/07/22/whole-iphone-17-range-to-get-120hz-promotion-plus-slim-model?utm_medium=rss)
+ - [22 Best Nintendo Switch Accessories &lpar;2024&rpar;: Docks, Cases, Headsets](https://www.wired.com/gallery/best-nintendo-switch-accessories/)
+ - [A new mid-range Snapdragon chip leaked, and it’s left us confused](https://www.androidauthority.com/snapdragon-7s-gen-3-leak-3463179/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
