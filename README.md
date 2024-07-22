@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [What time does Modern Warfare 3 season 5 release?](https://www.polygon.com/modern-warfare-3-guides/24203809/season-5-release-time-date-mw3-summerslam)
- - [Stardew Valley creator swears &#39;on the honor of my family name&#39; that he&#39;ll never charge money for DLC](https://www.pcgamer.com/games/life-sim/stardew-valley-creator-swears-on-the-honor-of-my-family-name-that-hell-never-charge-money-for-dlc)
- - [A look back at 8 versions of classic action RPG Hydlide reveals how PC ports can preserve—or lose—the soul of a game](https://www.pcgamer.com/games/rpg/a-look-back-at-8-versions-of-classic-action-rpg-hydlide-reveals-how-pc-ports-can-preserveor-losethe-soul-of-a-game)<!-- GAME:END -->
+ - [Netflix plans to launch a new game every month](https://www.polygon.com/2024/7/22/24203719/netflix-game-development-earnings-call)
+ - [You need to play Cryptmaster — but dear god, don’t use a compact keyboard](https://www.polygon.com/24203891/cryptmaster-impressions-word-games)
+ - [Flintlock: The Best Melee And Ranged Weapons](https://kotaku.com/flintlock-best-ax-hammer-pistol-rifle-1851601678)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
