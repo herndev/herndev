@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The One UI 7 beta could be right around the corner for your Samsung phone](https://www.androidauthority.com/leak-samsung-one-ui-7-beta-launch-date-3463465/)
  - [Leak: The Galaxy Z Fold 6 Slim now has a launch window](https://www.androidauthority.com/samsung-galaxy-z-fold-6-slim-ultra-launch-window-3463100/)
- - [A profile of Nick Pickles, who has recently been promoted to X&#39;s VP of global affairs; sources: Pickles has become the right-hand man to CEO Linda Yaccarino &lpar;Hannah Murphy/Financial Times&rpar;](http://www.techmeme.com/240723/p3#a240723p3)
- - [Malaysia plans to require social and messaging apps to register for a renewable license starting late 2024; Singapore asks online platforms to curb scams &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/240723/p2#a240723p2)<!-- TECH:END -->
+ - [A profile of Nick Pickles, who has recently been promoted to X&#39;s VP of global affairs; sources: Pickles has become the right-hand man to CEO Linda Yaccarino &lpar;Hannah Murphy/Financial Times&rpar;](http://www.techmeme.com/240723/p3#a240723p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
