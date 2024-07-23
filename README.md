@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Designing Fan-Favorite Kombatant Takeda Takahashi for Mortal Kombat 1](https://news.xbox.com/en-us/2024/07/23/mortal-kombat-1-takeda-dlc/)
- - [Call of Duty finally comes to Game Pass with Modern Warfare 3 release](https://www.polygon.com/24204402/call-of-duty-modern-warfare-3-game-pass-cod-mw3)
- - [Pokémon Go ‘Grow Together’ Timed Research — is it worth it?](https://www.polygon.com/pokemon-go-guide/24200541/grow-together-paid-timed-research-worth-it)<!-- GAME:END -->
+ - [The trials of a billionaire Bond villain: Oculus founder Palmer Luckey sues after getting stuck in a car elevator in the mansion he bought just to store cars](https://www.pcgamer.com/gaming-industry/the-trials-of-a-billionaire-bond-villain-oculus-founder-palmer-luckey-sues-after-getting-stuck-in-a-car-elevator-in-the-mansion-he-bought-just-to-store-cars)
+ - [How To Unlock Kyle In The First Descendant](https://kotaku.com/first-descendant-how-to-unlock-kyle-free-1851602585)
+ - [A Single New Crate Has Created Turmoil In Counter-Strike 2](https://kotaku.com/dust-2-new-crate-boost-update-counter-strike-2-valve-1851602614)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
