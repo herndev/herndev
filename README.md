@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [That\u2019s cute](http://9gag.com/gag/aYQLGRN)
- - ⏩ [Be a good man and a great dad](http://9gag.com/gag/azxAe8x)
- - 👉 [Salesman hugs a crying customer who bought his first PS](http://9gag.com/gag/ajPDgd8)<!-- MEMES:END -->
+ - 💣 [Just ordinary days in USA.](http://9gag.com/gag/aLn9p75)
+ - ⏩ [Pro-Palestinian went from aggressor to victim in a matter of seconds!](http://9gag.com/gag/aZZprB0)
+ - 👉 [A homeless dude living underground in his wholesome cache](http://9gag.com/gag/amozg26)<!-- MEMES:END -->
 
 ---
 
