@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Would you buy a cheaper Wi-Fi-only Ultra smartwatch, or do you need LTE?](https://www.androidauthority.com/ultra-smartwatch-cheaper-wifi-only-model-poll-3463435/)
- - [Samsung reveals why it’s dropping Samsung Messages for Google Messages](https://www.androidauthority.com/samsung-drop-samsung-messages-google-messages-reason-3463520/)
- - [India makes it cheaper to import and manufacture iPhones](https://appleinsider.com/articles/24/07/23/india-makes-it-cheaper-to-import-and-manufacture-iphones?utm_medium=rss)<!-- TECH:END -->
+ - [Adobe rolls out more generative AI features to Illustrator and Photoshop](https://www.theverge.com/2024/7/23/24204231/adobe-photoshop-illustrator-generative-ai-firefly-vector-features)
+ - [Google gives up on Chrome plan to ditch third-party cookies](https://appleinsider.com/articles/24/07/23/google-gives-up-on-chrome-plan-to-ditch-third-party-cookies?utm_medium=rss)
+ - [Cadillac’s extra-long, extra-yellow EV has a fridge in the back seat](https://www.theverge.com/2024/7/23/24203877/cadillac-sollei-bespoke-ev-concept-convertible-celestiq)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
