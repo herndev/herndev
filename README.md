@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google’s next Chromecast could ditch the dongle entirely](https://www.androidauthority.com/google-tv-streamer-3463399/)
- - [Slack introduces iPhone widgets to make work more inescapable](https://www.theverge.com/2024/7/22/24203924/slack-iphone-ipad-ios-ipados-widgets)
- - [Intel says it has found the issue causing 13th and 14th Gen CPUs to crash](https://www.theverge.com/2024/7/22/24203959/intel-core-13th-14th-gen-cpu-crash-update-patch)<!-- TECH:END -->
+ - [AMD President Victor Peng, who rejoined the chipmaker in 2022 following its acquisition of Xilinx, where he served as CEO, plans to retire on August 30, 2024 &lpar;Ian King/Bloomberg&rpar;](http://www.techmeme.com/240722/p21#a240722p21)
+ - [Spot 6 Planets in the Sky at Once During This Upcoming Aug. 23 Planet Parade](https://www.cnet.com/science/another-planetary-parade-starts-on-aug-23-spot-6-planets-in-the-sky-at-once/#ftag=CAD590a51e)
+ - [Monarch Tractor, which makes autonomous electric tractors, raised a $133M Series C co-led by Astanor and HH-CTBC Partnership at a $500M+ valuation &lpar;Sean O&#39;Kane/TechCrunch&rpar;](http://www.techmeme.com/240722/p20#a240722p20)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
