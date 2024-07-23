@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Survival horror game Conscript puts you face-down in the muck of World War I](https://www.polygon.com/24203819/conscript-review-world-war-1-survival-horror)
- - [Call yourself a bass head? Walk around wearing a pair of Ol&#39; Thumpy headphones, I dare you](https://www.pcgamer.com/hardware/gaming-headsets/call-yourself-a-bass-head-walk-around-wearing-a-pair-of-ol-thumpy-headphones-i-dare-you)
- - [Where to find the High Banks weapon and gear crates in Once Human](https://www.pcgamer.com/games/survival-crafting/once-human-high-banks-weapon-gear-crate-locations)<!-- GAME:END -->
+ - [New Joker 2 Trailer Reveals A Chaotic Musical Love Story](https://kotaku.com/joker-2-folie-deux-trailer-release-date-musical-1851602214)
+ - [Amazon Prime Video Is Fixing Its Absolute Worst Feature](https://kotaku.com/amazon-prime-video-ui-subscriptions-fallout-1851602153)
+ - [Final Fantasy 14: Dawntrail is a great story with a ton of potential, but it&#39;s told so poorly it nearly ruins the whole thing](https://www.pcgamer.com/games/final-fantasy/final-fantasy-14-dawntrail-is-a-great-story-with-a-ton-of-potential-on-paper-but-it-s-told-so-poorly-it-nearly-ruins-the-whole-thing)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
