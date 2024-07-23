@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The developers of this new micro-tactics roguelite RPG say it&#39;s &#39;small in scale, grand in depth&#39;](https://www.pcgamer.com/games/rpg/the-developers-of-this-new-micro-tactics-roguelite-rpg-say-its-small-in-scale-grand-in-depth)
- - [A Google Doodle animator is my new favorite Elden Ring lore theorist thanks to this cartoon retelling of Shadow of the Erdtree set to a Taylor Swift song](https://www.pcgamer.com/games/rpg/a-google-doodle-animator-is-my-new-favorite-elden-ring-lore-theorist-thanks-to-this-cartoon-retelling-of-shadow-of-the-erdtree-set-to-a-taylor-swift-song)
- - [No, Southwest Airlines Isn&#39;t Using Windows 3.1 In 2024](https://kotaku.com/southwest-airlines-windows-3-1-blue-screen-crowdstrike-1851603013)<!-- GAME:END -->
+ - [Yet another Google web tool bites the dust in August when &#39;goo.gl&#39; links will stop working](https://www.pcgamer.com/software/yet-another-google-web-tool-bites-the-dust-in-august-when-googl-links-will-stop-working)
+ - [Deadpool &amp; Wolverine makes the MCU the villain — and not in a good way](https://www.polygon.com/review/24204724/deadpool-and-wolverine-review-mcu-x-men)
+ - [Super Earth grants free mechs to all Helldivers 2 players in celebration of a last-minute Major Order victory](https://www.pcgamer.com/games/third-person-shooter/super-earth-grants-free-mechs-to-all-helldivers-2-players-in-celebration-of-a-last-minute-major-order-victory)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
