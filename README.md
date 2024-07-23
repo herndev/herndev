@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [How to write a strong female character without making a man-hating, know-it-all, Mary Sue 101:](http://9gag.com/gag/abAZebX)
- - ⏩ [Salesman hugs a crying customer who bought his first PS](http://9gag.com/gag/ajPDgd8)
- - 👉 [Need more memes and less propaganda](http://9gag.com/gag/aMV94nx)<!-- MEMES:END -->
+ - 💣 [That\u2019s cute](http://9gag.com/gag/aYQLGRN)
+ - ⏩ [Be a good man and a great dad](http://9gag.com/gag/azxAe8x)
+ - 👉 [Salesman hugs a crying customer who bought his first PS](http://9gag.com/gag/ajPDgd8)<!-- MEMES:END -->
 
 ---
 
