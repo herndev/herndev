@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Wiz rejects Google’s $23 billion takeover in favor of IPO](https://www.theverge.com/2024/7/23/24204198/google-wiz-acquisition-called-off-23-billion-cloud-cybersecurity)
- - [Scientists hunt for clues about China&#39;s supercomputing progress as Chinese scientists turn secretive and stop participating in the Top500, after US sanctions &lpar;Stu Woo/Wall Street Journal&rpar;](http://www.techmeme.com/240723/p4#a240723p4)
- - [The One UI 7 beta could be right around the corner for your Samsung phone](https://www.androidauthority.com/leak-samsung-one-ui-7-beta-launch-date-3463465/)<!-- TECH:END -->
+ - [Leaked images show the upcoming &quot;Google TV Streamer&quot;, a new set-top box with a pill-shaped design, to replace the dongle form factor, and an updated remote &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/240723/p7#a240723p7)
+ - [Samsung says its future phones might not look like anything we’ve seen yet](https://www.androidauthority.com/samsung-new-form-factors-ai-smartphones-3463478/)
+ - [India plans to cut import duty on mobile phones and some key parts to 15% from 20%, a move that will directly benefit Apple, as part of its 2024/25 budget &lpar;Reuters&rpar;](http://www.techmeme.com/240723/p6#a240723p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
