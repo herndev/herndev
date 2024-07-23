@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta releases the biggest and best open-source AI model yet](https://www.theverge.com/2024/7/23/24204055/meta-ai-llama-3-1-open-source-assistant-openai-chatgpt)
- - [Hands on with tvOS 18 beta, MagSafe travel chargers, &amp; new HomePod on HomeKit Insider](https://appleinsider.com/articles/24/07/22/hands-on-with-tvos-18-beta-magsafe-travel-chargers-new-homepod-on-homekit-insider?utm_medium=rss)
- - [Tandem drifting Toyotas show how AI might help drivers on slippery roads](https://www.theverge.com/2024/7/23/24204309/stanford-toyota-supra-ai-self-driving-autonomous-drifting)<!-- TECH:END -->
+ - [Explosion-proof case looks like a tank could run it over — and costs more than your phone itself](https://www.androidauthority.com/explosion-proof-smartphone-case-3463573/)
+ - [Sources: Apple is working on a foldable, clamshell design iPhone that could launch as soon as 2026, and has reached out to component suppliers in recent months &lpar;The Information&rpar;](http://www.techmeme.com/240723/p21#a240723p21)
+ - [Declutter your desk with Sharge’s new 100W charging station](https://www.theverge.com/2024/7/23/24204327/sharge-charging-desk-power-usb-c)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
