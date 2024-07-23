@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Wyd in this situation?](http://9gag.com/gag/aGyDzjZ)
- - ⏩ [House in the Philippines attach a sprinkler in their rooftop to beat the heat](http://9gag.com/gag/aD2Gg8K)
- - 👉 [Looking for work? We need 3 workers](http://9gag.com/gag/ae9659O)<!-- MEMES:END -->
+ - 💣 [These shepherds dip their sheep in water filled with insecticide to clean them from harmful parasites. Sheep can hold their breaths for up to 11 minutes](http://9gag.com/gag/aVve7EK)
+ - ⏩ [Pro-Palestinian went from aggressor to victim in a matter of seconds!](http://9gag.com/gag/aZZprB0)
+ - 👉 [Entire bee farm destroyed by vandalism](http://9gag.com/gag/azxAeLZ)<!-- MEMES:END -->
 
 ---
 
