@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Explosion-proof case looks like a tank could run it over — and costs more than your phone itself](https://www.androidauthority.com/explosion-proof-smartphone-case-3463573/)
- - [Sources: Apple is working on a foldable, clamshell design iPhone that could launch as soon as 2026, and has reached out to component suppliers in recent months &lpar;The Information&rpar;](http://www.techmeme.com/240723/p21#a240723p21)
- - [Declutter your desk with Sharge’s new 100W charging station](https://www.theverge.com/2024/7/23/24204327/sharge-charging-desk-power-usb-c)<!-- TECH:END -->
+ - [Meta plans to roll out its AI assistant to Quest in August, limited to US and Canada users in experimental mode, after first coming to Ray-Ban smart glasses &lpar;Mariella Moon/Engadget&rpar;](http://www.techmeme.com/240723/p25#a240723p25)
+ - [Apple’s Galaxy Z Flip rival could launch in 2026](https://www.androidauthority.com/apple-foldable-iphone-in-2026-3463618/)
+ - [Microsoft Copilot is fairly relaxed about trademark use](https://appleinsider.com/articles/24/07/23/microsoft-copilot-is-fairly-relaxed-about-trademark-use?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
