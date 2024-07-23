@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta plans to roll out its AI assistant to Quest in August, limited to US and Canada users in experimental mode, after first coming to Ray-Ban smart glasses &lpar;Mariella Moon/Engadget&rpar;](http://www.techmeme.com/240723/p25#a240723p25)
- - [Apple’s Galaxy Z Flip rival could launch in 2026](https://www.androidauthority.com/apple-foldable-iphone-in-2026-3463618/)
- - [Microsoft Copilot is fairly relaxed about trademark use](https://appleinsider.com/articles/24/07/23/microsoft-copilot-is-fairly-relaxed-about-trademark-use?utm_medium=rss)<!-- TECH:END -->
+ - [YouTube Music streamlines artist pages with new layout](https://www.androidauthority.com/youtube-music-makeover-3463604/)
+ - [X website reverts water pistol emoji to realistic gun](https://appleinsider.com/articles/24/07/23/x-website-reverts-water-pistol-emoji-to-realistic-gun?utm_medium=rss)
+ - [Xiaomi dares to go fabric-backed with its woven nylon Mix Flip](https://www.androidauthority.com/xiaomi-mix-flip-nylon-3463621/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
