@@ -32,8 +32,8 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Intel finally breaks silence, points finger at &#39;microcode algorithm&#39; voltage errors, and says it&#39;s going to patch Core 13th/14th Gen CPU stability issues mid-August](https://www.pcgamer.com/hardware/processors/intel-finally-breaks-silence-points-finger-at-microcode-algorithm-voltage-errors-and-says-its-going-to-patch-core-13th14th-gen-cpu-stability-issues-mid-august)
  - [Today&#39;s Wordle answer for Tuesday, July 23](https://www.pcgamer.com/games/puzzle/wordle-answer-today-July-23-2024)
- - [Tower of Fantasy’s first anniversary brings Summer events and a new companion](https://blog.playstation.com/2024/07/22/tower-of-fantasys-first-anniversary-brings-summer-events-and-a-new-companion/)
  - [Tower of Fantasy’s first anniversary brings Summer events and a new companion](https://blog.playstation.com/2024/07/22/tower-of-fantasys-first-anniversary-brings-summer-events-and-a-new-companion/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
