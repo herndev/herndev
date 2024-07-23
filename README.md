@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Just ordinary days in USA.](http://9gag.com/gag/aLn9p75)
- - ⏩ [Pro-Palestinian went from aggressor to victim in a matter of seconds!](http://9gag.com/gag/aZZprB0)
- - 👉 [A homeless dude living underground in his wholesome cache](http://9gag.com/gag/amozg26)<!-- MEMES:END -->
+ - 💣 [No, come back, I changed my mind.](http://9gag.com/gag/a874A0e)
+ - ⏩ [A real G](http://9gag.com/gag/aryNm5p)
+ - 👉 [Faulty Processors](http://9gag.com/gag/aYQLGPO)<!-- MEMES:END -->
 
 ---
 
