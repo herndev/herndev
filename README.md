@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Find the Pattern](http://9gag.com/gag/aLn9wDP)
- - ⏩ [Just the President Samia Suluhu of Tanzania and his entourage on the road](http://9gag.com/gag/aYQLy0m)
+ - 💣 [Farming sux in South Africa](http://9gag.com/gag/a2v5ZyD)
+ - ⏩ [This was the best wizard fight in the entire Harry Potter franchise. There was nothing like it ever again.](http://9gag.com/gag/aqyLGVQ)
  - 👉 [A homeless dude living underground in his wholesome cache](http://9gag.com/gag/amozg26)<!-- MEMES:END -->
 
 ---
