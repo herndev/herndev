@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Malaysia plans to require social and messaging apps to register for a renewable license starting late 2024; Singapore asks online platforms to curb scams &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/240723/p2#a240723p2)
- - [Sources: TikTok plans to launch TikTok Shop in Spain and Ireland as early as October; the rollout will be smaller than previously envisioned amid EU scrutiny &lpar;Bloomberg&rpar;](http://www.techmeme.com/240723/p1#a240723p1)
- - [TikTok Lite Leaves up to 1 Billion Users With Fewer Protections](https://www.wired.com/story/tiktok-lite-global-south/)<!-- TECH:END -->
+ - [Leak: The Galaxy Z Fold 6 Slim now has a launch window](https://www.androidauthority.com/samsung-galaxy-z-fold-6-slim-ultra-launch-window-3463100/)
+ - [A profile of Nick Pickles, who has recently been promoted to X&#39;s VP of global affairs; sources: Pickles has become the right-hand man to CEO Linda Yaccarino &lpar;Hannah Murphy/Financial Times&rpar;](http://www.techmeme.com/240723/p3#a240723p3)
+ - [Malaysia plans to require social and messaging apps to register for a renewable license starting late 2024; Singapore asks online platforms to curb scams &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/240723/p2#a240723p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
