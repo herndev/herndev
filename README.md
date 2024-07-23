@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Survival Horror Perfected: The Terrifying Solitude of Empty Shell](https://news.xbox.com/en-us/2024/07/23/survival-horror-perfected-the-terrifying-solitude-of-empty-shell/)
- - [This Was Never About Anything Other Than Hate](https://kotaku.com/this-was-never-about-anything-other-than-hate-1851602820)
- - [Are Physical Games Dead? It’s More Complicated Than You Might Think](https://kotaku.com/ps5-limited-run-physical-digital-capcom-1851602842)<!-- GAME:END -->
+ - [From Snapshot to Eternity: How The Star Named Eos Transforms Photos into Puzzles](https://news.xbox.com/en-us/2024/07/23/from-snapshot-to-eternity-how-the-star-named-eos-transforms-photos-into-puzzles/)
+ - [How to pick the best pipelines for you in College Football 25](https://www.polygon.com/guides/24204524/college-football-25-best-pipelines-cfb)
+ - [How to throw a touch pass in EA Sports College Football 25](https://www.polygon.com/guides/24204359/ea-sports-college-football-25-touch-pass-how-throw-cfb)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
