@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Galaxy Ring could have a subscription future after all](https://www.androidauthority.com/galaxy-ring-future-features-subscription-3463439/)
- - [Google Research and others detail NeuralGCM, a model that combines ML and existing weather forecasting to make a breakthrough in accurate long-range predictions &lpar;Michael Peel/Financial Times&rpar;](http://www.techmeme.com/240723/p12#a240723p12)
- - [A five-month FCC investigation finds AT&amp;T&#39;s February 2024 outage that lasted 12+ hours blocked 92M+ voice calls and prevented 25K+ attempts to reach 911 &lpar;David Shepardson/Reuters&rpar;](http://www.techmeme.com/240723/p11#a240723p11)<!-- TECH:END -->
+ - [Would you buy a cheaper Wi-Fi-only Ultra smartwatch, or do you need LTE?](https://www.androidauthority.com/ultra-smartwatch-cheaper-wifi-only-model-poll-3463435/)
+ - [Samsung reveals why it’s dropping Samsung Messages for Google Messages](https://www.androidauthority.com/samsung-drop-samsung-messages-google-messages-reason-3463520/)
+ - [India makes it cheaper to import and manufacture iPhones](https://appleinsider.com/articles/24/07/23/india-makes-it-cheaper-to-import-and-manufacture-iphones?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
