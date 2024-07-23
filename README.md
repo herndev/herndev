@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Early sign ups for the New World: Aeternum – Closed Beta are available now!](https://news.xbox.com/en-us/2024/07/23/early-sign-ups-for-the-new-world-aeternum-closed-beta-are-available-now/)
- - [Call of Duty: Modern Warfare III Coming to Game Pass July 24](https://news.xbox.com/en-us/2024/07/23/modern-warfare-3-coming-to-game-pass-july-24/)
- - [Nintendo World Championships: NES Edition Would Be Terrific If Not For This One Colossal Flaw](https://kotaku.com/nintendo-world-championships-nes-review-online-1851602392)<!-- GAME:END -->
+ - [How To Unlock Enzo In The First Descendant](https://kotaku.com/first-descendant-enzo-unlock-free-1851602508)
+ - [Here Are The New Lego Fortnite Sets, Including A Horrific Peely Statute](https://kotaku.com/fortnite-lego-sets-leaked-official-release-date-prices-1851602428)
+ - [Ubisoft&#39;s live-service pirate sim Skull and Bones pulls into port on Steam this August](https://www.pcgamer.com/games/adventure/ubisofts-live-service-pirate-sim-skull-and-bones-pulls-into-port-on-steam-this-august)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
