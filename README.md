@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [From Snapshot to Eternity: How The Star Named Eos Transforms Photos into Puzzles](https://news.xbox.com/en-us/2024/07/23/from-snapshot-to-eternity-how-the-star-named-eos-transforms-photos-into-puzzles/)
- - [How to pick the best pipelines for you in College Football 25](https://www.polygon.com/guides/24204524/college-football-25-best-pipelines-cfb)
- - [How to throw a touch pass in EA Sports College Football 25](https://www.polygon.com/guides/24204359/ea-sports-college-football-25-touch-pass-how-throw-cfb)<!-- GAME:END -->
+ - [The developers of this new micro-tactics roguelite RPG say it&#39;s &#39;small in scale, grand in depth&#39;](https://www.pcgamer.com/games/rpg/the-developers-of-this-new-micro-tactics-roguelite-rpg-say-its-small-in-scale-grand-in-depth)
+ - [A Google Doodle animator is my new favorite Elden Ring lore theorist thanks to this cartoon retelling of Shadow of the Erdtree set to a Taylor Swift song](https://www.pcgamer.com/games/rpg/a-google-doodle-animator-is-my-new-favorite-elden-ring-lore-theorist-thanks-to-this-cartoon-retelling-of-shadow-of-the-erdtree-set-to-a-taylor-swift-song)
+ - [No, Southwest Airlines Isn&#39;t Using Windows 3.1 In 2024](https://kotaku.com/southwest-airlines-windows-3-1-blue-screen-crowdstrike-1851603013)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
