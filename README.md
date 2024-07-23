@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How To Unlock Enzo In The First Descendant](https://kotaku.com/first-descendant-enzo-unlock-free-1851602508)
- - [Here Are The New Lego Fortnite Sets, Including A Horrific Peely Statute](https://kotaku.com/fortnite-lego-sets-leaked-official-release-date-prices-1851602428)
- - [Ubisoft&#39;s live-service pirate sim Skull and Bones pulls into port on Steam this August](https://www.pcgamer.com/games/adventure/ubisofts-live-service-pirate-sim-skull-and-bones-pulls-into-port-on-steam-this-august)<!-- GAME:END -->
+ - [Designing Fan-Favorite Kombatant Takeda Takahashi for Mortal Kombat 1](https://news.xbox.com/en-us/2024/07/23/mortal-kombat-1-takeda-dlc/)
+ - [Call of Duty finally comes to Game Pass with Modern Warfare 3 release](https://www.polygon.com/24204402/call-of-duty-modern-warfare-3-game-pass-cod-mw3)
+ - [Pokémon Go ‘Grow Together’ Timed Research — is it worth it?](https://www.polygon.com/pokemon-go-guide/24200541/grow-together-paid-timed-research-worth-it)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
