@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: the Google-Wiz deal failed, in part, due to antitrust fears and CrowdStrike&#39;s outage, which increased the potential value of cloud security companies &lpar;Bloomberg&rpar;](http://www.techmeme.com/240723/p37#a240723p37)
- - [Lake Vrangla immersive environment appears for all Apple Vision Pro users](https://appleinsider.com/articles/24/07/23/lake-vrangla-immersive-environment-appears-for-all-apple-vision-pro-users?utm_medium=rss)
- - [US Senate Majority Leader Chuck Schumer says the Senate will take up the Kids Online Safety Act this week, signaling there&#39;s enough support among his colleagues &lpar;Benjamin S. Weiss/Courthouse News Service&rpar;](http://www.techmeme.com/240723/p36#a240723p36)<!-- TECH:END -->
+ - [Mytra, a startup building autonomous robots for warehouses that can move loads up to 3,000 pounds, launches from stealth with $78M in total funding &lpar;Brian Heater/TechCrunch&rpar;](http://www.techmeme.com/240723/p41#a240723p41)
+ - [Alphabet reports Other Bets Q2 revenue of $365M, up from $285M in Q2 2023, a $1.13B loss, up from $813M, and announces a &quot;multiyear&quot; investment of $5B in Waymo &lpar;Jennifer Elias/CNBC&rpar;](http://www.techmeme.com/240723/p40#a240723p40)
+ - [US spot ether ETFs hit over $1B in trading volume across nine funds, a strong debut, but far from the $4.6B traded during the spot bitcoin ETFs debut in January &lpar;Bloomberg&rpar;](http://www.techmeme.com/240723/p39#a240723p39)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
