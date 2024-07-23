@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Intel finally breaks silence, points finger at &#39;microcode algorithm&#39; voltage errors, and says it&#39;s going to patch Core 13th/14th Gen CPU stability issues mid-August](https://www.pcgamer.com/hardware/processors/intel-finally-breaks-silence-points-finger-at-microcode-algorithm-voltage-errors-and-says-its-going-to-patch-core-13th14th-gen-cpu-stability-issues-mid-august)
- - [Today&#39;s Wordle answer for Tuesday, July 23](https://www.pcgamer.com/games/puzzle/wordle-answer-today-July-23-2024)
- - [Tower of Fantasy’s first anniversary brings Summer events and a new companion](https://blog.playstation.com/2024/07/22/tower-of-fantasys-first-anniversary-brings-summer-events-and-a-new-companion/)<!-- GAME:END -->
+ - [Google has changed its mind about dropping support for third-party cookies in Chrome, after years of trying to make it happen](https://www.pcgamer.com/software/browsers/google-has-changed-its-mind-about-dropping-support-for-third-party-cookies-in-chrome-after-years-of-trying-to-make-it-happen)
+ - [How to solve the telephone booth puzzle in Once Human](https://www.pcgamer.com/games/survival-crafting/once-human-telephone-booth-puzzle)
+ - [Intel finally breaks silence, points finger at &#39;microcode algorithm&#39; voltage errors, and says it&#39;s going to patch Core 13th/14th Gen CPU stability issues mid-August](https://www.pcgamer.com/hardware/processors/intel-finally-breaks-silence-points-finger-at-microcode-algorithm-voltage-errors-and-says-its-going-to-patch-core-13th14th-gen-cpu-stability-issues-mid-august)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
