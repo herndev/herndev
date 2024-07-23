@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Italy is probably bigger than Texas then](http://9gag.com/gag/awyVB8R)
- - ⏩ [Pro-Palestinian went from aggressor to victim in a matter of seconds!](http://9gag.com/gag/aZZprB0)
- - 👉 [Daniel&#39;s first time.](http://9gag.com/gag/aNDWpNv)<!-- MEMES:END -->
+ - 💣 [How to write a strong female character without making a man-hating, know-it-all, Mary Sue 101:](http://9gag.com/gag/abAZebX)
+ - ⏩ [Salesman hugs a crying customer who bought his first PS](http://9gag.com/gag/ajPDgd8)
+ - 👉 [Need more memes and less propaganda](http://9gag.com/gag/aMV94nx)<!-- MEMES:END -->
 
 ---
 
