@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google gives up on Chrome plan to ditch third-party cookies](https://appleinsider.com/articles/24/07/23/google-gives-up-on-chrome-plan-to-ditch-third-party-cookies?utm_medium=rss)
- - [Posh, an iOS app that offers a TikTok-like vertical feed of events, raised a $22M Series A, taking its total funding to $31M, and claims 2M registered users &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/240723/p19#a240723p19)
- - [Inside the global computer crash](https://www.theverge.com/2024/7/23/24204077/crowdstrike-windows-crash-exercise-apps-vergecast)<!-- TECH:END -->
+ - [Meta releases the biggest and best open-source AI model yet](https://www.theverge.com/2024/7/23/24204055/meta-ai-llama-3-1-open-source-assistant-openai-chatgpt)
+ - [Hands on with tvOS 18 beta, MagSafe travel chargers, &amp; new HomePod on HomeKit Insider](https://appleinsider.com/articles/24/07/22/hands-on-with-tvos-18-beta-magsafe-travel-chargers-new-homepod-on-homekit-insider?utm_medium=rss)
+ - [Tandem drifting Toyotas show how AI might help drivers on slippery roads](https://www.theverge.com/2024/7/23/24204309/stanford-toyota-supra-ai-self-driving-autonomous-drifting)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
