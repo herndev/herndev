@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Despite its magic and monsters, Dungeons of Hinterberg&#39;s developers &#39;wanted to show a real place&#39; that could explore &#39;all the layers&#39; of overtourism](https://www.pcgamer.com/games/rpg/despite-its-magic-and-monsters-dungeons-of-hinterbergs-developers-wanted-to-show-a-real-place-that-could-explore-all-the-layers-of-overtourism)
- - [Your Dragon Age: The Veilguard character can be voiced by the guy who did all the Baldur&#39;s Gate 3 sex noises](https://www.pcgamer.com/games/rpg/your-dragon-age-the-veilguard-character-can-be-voiced-by-the-guy-who-did-all-the-baldurs-gate-3-sex-noises)
- - [Donald Trump’s Twitch channel is back](https://www.polygon.com/24203801/donald-trump-twitch-channel-unbanned)<!-- GAME:END -->
+ - [Tower of Fantasy’s first anniversary brings Summer events and a new companion](https://blog.playstation.com/2024/07/22/tower-of-fantasys-first-anniversary-brings-summer-events-and-a-new-companion/)
+ - [ColdRidge is a cowboy exploration game that&#39;s like playing just the exciting first turns of a Civilization campaign](https://www.pcgamer.com/games/strategy/coldridge-is-a-cowboy-exploration-game-thats-like-playing-just-the-exciting-first-turns-of-a-civilization-campaign)
+ - [Despite its magic and monsters, Dungeons of Hinterberg&#39;s developers &#39;wanted to show a real place&#39; that could explore &#39;all the layers&#39; of overtourism](https://www.pcgamer.com/games/rpg/despite-its-magic-and-monsters-dungeons-of-hinterbergs-developers-wanted-to-show-a-real-place-that-could-explore-all-the-layers-of-overtourism)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
