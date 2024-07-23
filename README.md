@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Adobe rolls out more generative AI features to Illustrator and Photoshop](https://www.theverge.com/2024/7/23/24204231/adobe-photoshop-illustrator-generative-ai-firefly-vector-features)
  - [Google gives up on Chrome plan to ditch third-party cookies](https://appleinsider.com/articles/24/07/23/google-gives-up-on-chrome-plan-to-ditch-third-party-cookies?utm_medium=rss)
- - [Cadillac’s extra-long, extra-yellow EV has a fridge in the back seat](https://www.theverge.com/2024/7/23/24203877/cadillac-sollei-bespoke-ev-concept-convertible-celestiq)<!-- TECH:END -->
+ - [Posh, an iOS app that offers a TikTok-like vertical feed of events, raised a $22M Series A, taking its total funding to $31M, and claims 2M registered users &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/240723/p19#a240723p19)
+ - [Inside the global computer crash](https://www.theverge.com/2024/7/23/24204077/crowdstrike-windows-crash-exercise-apps-vergecast)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
