@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [A homeless dude living underground in his wholesome cache](http://9gag.com/gag/amozg26)
- - ⏩ [Pro-Palestinian went from aggressor to victim in a matter of seconds!](http://9gag.com/gag/aZZprB0)
- - 👉 [Nostalgia](http://9gag.com/gag/a5QrRjo)<!-- MEMES:END -->
+ - 💣 [Be a good man and a great dad](http://9gag.com/gag/azxAe8x)
+ - ⏩ [So edgy, men are marrying Asian women instead of entitled Western Women.](http://9gag.com/gag/amozoNX)
+ - 👉 [Medical experts in Peru have spoken.](http://9gag.com/gag/a2v57jw)<!-- MEMES:END -->
 
 ---
 
