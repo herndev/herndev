@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Final Fantasy 14’s New Raid Has A Pop Anthem Players Can’t Stop Listening To](https://kotaku.com/final-fantasy-14-dawntrail-raid-honey-b-lovely-song-1851602288)
- - [Sky Team board game soars to prestigious Spiel des Jahres win](https://www.polygon.com/24204315/sky-team-wins-spiel-des-jahres-2023)
- - [Disney Lorcana Gateway is a perfect entry point for the trading card game](https://www.polygon.com/deals/24203783/disney-lorcana-tcg-gateway-on-sale)<!-- GAME:END -->
+ - [Early sign ups for the New World: Aeternum – Closed Beta are available now!](https://news.xbox.com/en-us/2024/07/23/early-sign-ups-for-the-new-world-aeternum-closed-beta-are-available-now/)
+ - [Call of Duty: Modern Warfare III Coming to Game Pass July 24](https://news.xbox.com/en-us/2024/07/23/modern-warfare-3-coming-to-game-pass-july-24/)
+ - [Nintendo World Championships: NES Edition Would Be Terrific If Not For This One Colossal Flaw](https://kotaku.com/nintendo-world-championships-nes-review-online-1851602392)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
