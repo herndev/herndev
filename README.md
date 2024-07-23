@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [A real G](http://9gag.com/gag/aryNm5p)
- - ⏩ [Buzz buzz buzzzzzz](http://9gag.com/gag/aMV9K2V)
- - 👉 [Can any Democrat help me out here?](http://9gag.com/gag/ayN89yy)<!-- MEMES:END -->
+ - 💣 [Italy is probably bigger than Texas then](http://9gag.com/gag/awyVB8R)
+ - ⏩ [Pro-Palestinian went from aggressor to victim in a matter of seconds!](http://9gag.com/gag/aZZprB0)
+ - 👉 [Daniel&#39;s first time.](http://9gag.com/gag/aNDWpNv)<!-- MEMES:END -->
 
 ---
 
