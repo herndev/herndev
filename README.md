@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Comcast reports Peacock Q2 revenue up 28% YoY to $1B, and a $348M loss, down from $651M in Q2 2023; paying subs were up 38% YoY to 33M but down from 33.5M in Q1 &lpar;The Hollywood Reporter&rpar;](http://www.techmeme.com/240723/p30#a240723p30)
- - [Stuff this trackable wallet with everything but an AirTag](https://www.theverge.com/2024/7/23/24204465/esr-wallet-apple-find-my-tracking-airtag)
- - [The OnePlus Watch 2 hits record-low prices, saving you $50](https://www.androidauthority.com/oneplus-watch-2-deal-3-3463668/)<!-- TECH:END -->
+ - [Google Cloud Q2 revenue grew 29% YoY to $10.35B, vs. $10.2B est.; Cloud exceeded $10B in quarterly revenues and $1B in operating profit for the first time &lpar;Jennifer Elias/CNBC&rpar;](http://www.techmeme.com/240723/p35#a240723p35)
+ - [Google had a massive quarter thanks to Search and AI](https://www.theverge.com/2024/7/23/24204618/google-search-ai-q2-2024-earnings-results)
+ - [YouTube Q2 ad revenue grew 13% YoY to $8.66B, vs. $8.93B est.; Google&#39;s subscriptions, platforms, and devices unit that includes YouTube TV had revenue of $9.3B &lpar;Alex Weprin/The Hollywood Reporter&rpar;](http://www.techmeme.com/240723/p34#a240723p34)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
