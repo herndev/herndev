@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Dear John:](http://9gag.com/gag/aAyPGxZ)
- - ⏩ [Cool!](http://9gag.com/gag/apRL9m5)
- - 👉 [Medical experts in Peru have spoken.](http://9gag.com/gag/a2v57jw)<!-- MEMES:END -->
+ - 💣 [Warm-up Legend Diego Maradona](http://9gag.com/gag/a1mXWo6)
+ - ⏩ [Pro-Palestinian went from aggressor to victim in a matter of seconds!](http://9gag.com/gag/aZZprB0)
+ - 👉 [These shepherds dip their sheep in water filled with insecticide to clean them from harmful parasites. Sheep can hold their breaths for up to 11 minutes](http://9gag.com/gag/aVve7EK)<!-- MEMES:END -->
 
 ---
 
