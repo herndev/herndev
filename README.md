@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Leaked images show the upcoming &quot;Google TV Streamer&quot;, a new set-top box with a pill-shaped design, to replace the dongle form factor, and an updated remote &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/240723/p7#a240723p7)
- - [Samsung says its future phones might not look like anything we’ve seen yet](https://www.androidauthority.com/samsung-new-form-factors-ai-smartphones-3463478/)
- - [India plans to cut import duty on mobile phones and some key parts to 15% from 20%, a move that will directly benefit Apple, as part of its 2024/25 budget &lpar;Reuters&rpar;](http://www.techmeme.com/240723/p6#a240723p6)<!-- TECH:END -->
+ - [The Galaxy Ring could have a subscription future after all](https://www.androidauthority.com/galaxy-ring-future-features-subscription-3463439/)
+ - [Google Research and others detail NeuralGCM, a model that combines ML and existing weather forecasting to make a breakthrough in accurate long-range predictions &lpar;Michael Peel/Financial Times&rpar;](http://www.techmeme.com/240723/p12#a240723p12)
+ - [A five-month FCC investigation finds AT&amp;T&#39;s February 2024 outage that lasted 12+ hours blocked 92M+ voice calls and prevented 25K+ attempts to reach 911 &lpar;David Shepardson/Reuters&rpar;](http://www.techmeme.com/240723/p11#a240723p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
