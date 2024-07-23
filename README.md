@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Be a good man and a great dad](http://9gag.com/gag/azxAe8x)
- - ⏩ [So edgy, men are marrying Asian women instead of entitled Western Women.](http://9gag.com/gag/amozoNX)
- - 👉 [Medical experts in Peru have spoken.](http://9gag.com/gag/a2v57jw)<!-- MEMES:END -->
+ - 💣 [Seriously, what&#39;s up with that?](http://9gag.com/gag/a874Eb1)
+ - ⏩ [These shepherds dip their sheep in water filled with insecticide to clean them from harmful parasites. Sheep can hold their breaths for up to 11 minutes](http://9gag.com/gag/aVve7EK)
+ - 👉 [A homeless dude living underground in his wholesome cache](http://9gag.com/gag/amozg26)<!-- MEMES:END -->
 
 ---
 
