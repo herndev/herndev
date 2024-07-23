@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Just the President Samia Suluhu of Tanzania and his entourage on the road](http://9gag.com/gag/aYQLy0m)
- - ⏩ [Find the Pattern](http://9gag.com/gag/aLn9wDP)
- - 👉 [Damn Japan. You cold AF. Gotta eat outside like an animal if we act like one in Japan.](http://9gag.com/gag/aqyLjDM)<!-- MEMES:END -->
+ - 💣 [Germans are the level 99 boss](http://9gag.com/gag/aD2G2WB)
+ - ⏩ [Medical experts in Peru have spoken.](http://9gag.com/gag/a2v57jw)
+ - 👉 [Cool!](http://9gag.com/gag/apRL9m5)<!-- MEMES:END -->
 
 ---
 
