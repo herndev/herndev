@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Angolan Olympic swimming team](http://9gag.com/gag/an717eE)
- - ⏩ [Greatest prank ever done](http://9gag.com/gag/ae96QZj)
- - 👉 [T.A.t.U is a duo of singers who became the largest `Gay icon`... only to be revealed that they&#39;ve been Queerbaiting the entire time and one of them even views LGBT as a form of mental illness.](http://9gag.com/gag/aPAWgqw)<!-- MEMES:END -->
+ - 💣 [Just the President Samia Suluhu of Tanzania and his entourage on the road](http://9gag.com/gag/aYQLy0m)
+ - ⏩ [Find the Pattern](http://9gag.com/gag/aLn9wDP)
+ - 👉 [Autologous ear reconstruction surgery](http://9gag.com/gag/aKG37gZ)<!-- MEMES:END -->
 
 ---
 
