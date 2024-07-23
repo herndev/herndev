@@ -46,7 +46,7 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Autologous ear reconstruction surgery](http://9gag.com/gag/aKG37gZ)
+ - 💣 [Find the Pattern](http://9gag.com/gag/aLn9wDP)
  - ⏩ [Just the President Samia Suluhu of Tanzania and his entourage on the road](http://9gag.com/gag/aYQLy0m)
  - 👉 [A homeless dude living underground in his wholesome cache](http://9gag.com/gag/amozg26)<!-- MEMES:END -->
 
