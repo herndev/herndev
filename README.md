@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The One UI 7 beta could be right around the corner for your Samsung phone](https://www.androidauthority.com/leak-samsung-one-ui-7-beta-launch-date-3463465/)
- - [Leak: The Galaxy Z Fold 6 Slim now has a launch window](https://www.androidauthority.com/samsung-galaxy-z-fold-6-slim-ultra-launch-window-3463100/)
- - [A profile of Nick Pickles, who has recently been promoted to X&#39;s VP of global affairs; sources: Pickles has become the right-hand man to CEO Linda Yaccarino &lpar;Hannah Murphy/Financial Times&rpar;](http://www.techmeme.com/240723/p3#a240723p3)<!-- TECH:END -->
+ - [Wiz rejects Google’s $23 billion takeover in favor of IPO](https://www.theverge.com/2024/7/23/24204198/google-wiz-acquisition-called-off-23-billion-cloud-cybersecurity)
+ - [Scientists hunt for clues about China&#39;s supercomputing progress as Chinese scientists turn secretive and stop participating in the Top500, after US sanctions &lpar;Stu Woo/Wall Street Journal&rpar;](http://www.techmeme.com/240723/p4#a240723p4)
+ - [The One UI 7 beta could be right around the corner for your Samsung phone](https://www.androidauthority.com/leak-samsung-one-ui-7-beta-launch-date-3463465/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
