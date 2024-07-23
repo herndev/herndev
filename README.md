@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Autologous ear reconstruction surgery](http://9gag.com/gag/aKG37gZ)
- - ⏩ [This was the best wizard fight in the entire Harry Potter franchise. There was nothing like it ever again.](http://9gag.com/gag/aqyLGVQ)
- - 👉 [A homeless dude living underground in his wholesome cache](http://9gag.com/gag/amozg26)<!-- MEMES:END -->
+ - 💣 [This was the best wizard fight in the entire Harry Potter franchise. There was nothing like it ever again.](http://9gag.com/gag/aqyLGVQ)
+ - ⏩ [Dear John:](http://9gag.com/gag/aAyPGxZ)
+ - 👉 [Cool!](http://9gag.com/gag/apRL9m5)<!-- MEMES:END -->
 
 ---
 
