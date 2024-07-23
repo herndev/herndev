@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Google has changed its mind about dropping support for third-party cookies in Chrome, after years of trying to make it happen](https://www.pcgamer.com/software/browsers/google-has-changed-its-mind-about-dropping-support-for-third-party-cookies-in-chrome-after-years-of-trying-to-make-it-happen)
- - [How to solve the telephone booth puzzle in Once Human](https://www.pcgamer.com/games/survival-crafting/once-human-telephone-booth-puzzle)
- - [Intel finally breaks silence, points finger at &#39;microcode algorithm&#39; voltage errors, and says it&#39;s going to patch Core 13th/14th Gen CPU stability issues mid-August](https://www.pcgamer.com/hardware/processors/intel-finally-breaks-silence-points-finger-at-microcode-algorithm-voltage-errors-and-says-its-going-to-patch-core-13th14th-gen-cpu-stability-issues-mid-august)<!-- GAME:END -->
+ - [Minisforum AtomMan X7 Ti review](https://www.pcgamer.com/hardware/gaming-pcs/minisforum-atomman-x7-ti-review)
+ - [Tesla will roll out &#39;genuinely useful&#39; humanoid robots to factory floor next year says Musk](https://www.pcgamer.com/hardware/tesla-will-roll-out-genuinely-useful-humanoid-robots-to-factory-floor-next-year-says-musk)
+ - [Yep, that&#39;d do it: The Baldur&#39;s Gate 3 Patch 7 closed beta is delayed because &#39;passive dice rolls literally stopped working&#39;](https://www.pcgamer.com/games/baldurs-gate/yep-that-d-do-it-the-baldur-s-gate-3-patch-7-closed-beta-is-delayed-because-passive-dice-rolls-literally-stopped-working)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
