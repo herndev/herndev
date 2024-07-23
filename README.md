@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Harvey, which is building an AI-powered &quot;copilot&quot; for lawyers, raised a $100M Series C led by GV that values it at $1.5B and brings its total funding to $206M &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240723/p29#a240723p29)
- - [Spotify CEO confirms a ‘deluxe’ version with hi-fi audio is coming soon](https://www.theverge.com/2024/7/23/24204520/spotify-ceo-hifi-audio-deluxe-plan-confirmed)
- - [Samsung Galaxy Z Flip 6 Preorder Deals: Last Chance to Score Preorder Discounts](https://www.cnet.com/deals/best-samsung-galaxy-z-flip-6-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Comcast reports Peacock Q2 revenue up 28% YoY to $1B, and a $348M loss, down from $651M in Q2 2023; paying subs were up 38% YoY to 33M but down from 33.5M in Q1 &lpar;The Hollywood Reporter&rpar;](http://www.techmeme.com/240723/p30#a240723p30)
+ - [Stuff this trackable wallet with everything but an AirTag](https://www.theverge.com/2024/7/23/24204465/esr-wallet-apple-find-my-tracking-airtag)
+ - [The OnePlus Watch 2 hits record-low prices, saving you $50](https://www.androidauthority.com/oneplus-watch-2-deal-3-3463668/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
