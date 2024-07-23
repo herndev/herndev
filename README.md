@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [New Joker 2 Trailer Reveals A Chaotic Musical Love Story](https://kotaku.com/joker-2-folie-deux-trailer-release-date-musical-1851602214)
- - [Amazon Prime Video Is Fixing Its Absolute Worst Feature](https://kotaku.com/amazon-prime-video-ui-subscriptions-fallout-1851602153)
- - [Final Fantasy 14: Dawntrail is a great story with a ton of potential, but it&#39;s told so poorly it nearly ruins the whole thing](https://www.pcgamer.com/games/final-fantasy/final-fantasy-14-dawntrail-is-a-great-story-with-a-ton-of-potential-on-paper-but-it-s-told-so-poorly-it-nearly-ruins-the-whole-thing)<!-- GAME:END -->
+ - [Final Fantasy 14’s New Raid Has A Pop Anthem Players Can’t Stop Listening To](https://kotaku.com/final-fantasy-14-dawntrail-raid-honey-b-lovely-song-1851602288)
+ - [Sky Team board game soars to prestigious Spiel des Jahres win](https://www.polygon.com/24204315/sky-team-wins-spiel-des-jahres-2023)
+ - [Disney Lorcana Gateway is a perfect entry point for the trading card game](https://www.polygon.com/deals/24203783/disney-lorcana-tcg-gateway-on-sale)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
