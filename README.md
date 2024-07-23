@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This is the wildest mobile app ad I&#39;ve encountered](http://9gag.com/gag/a8741ZZ)
- - ⏩ [Daniel&#39;s first time.](http://9gag.com/gag/aNDWpNv)
- - 👉 [Autologous ear reconstruction surgery](http://9gag.com/gag/aKG37gZ)<!-- MEMES:END -->
+ - 💣 [Angolan Olympic swimming team](http://9gag.com/gag/an717eE)
+ - ⏩ [Greatest prank ever done](http://9gag.com/gag/ae96QZj)
+ - 👉 [T.A.t.U is a duo of singers who became the largest `Gay icon`... only to be revealed that they&#39;ve been Queerbaiting the entire time and one of them even views LGBT as a form of mental illness.](http://9gag.com/gag/aPAWgqw)<!-- MEMES:END -->
 
 ---
 
