@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This was the best wizard fight in the entire Harry Potter franchise. There was nothing like it ever again.](http://9gag.com/gag/aqyLGVQ)
- - ⏩ [Dear John:](http://9gag.com/gag/aAyPGxZ)
- - 👉 [Cool!](http://9gag.com/gag/apRL9m5)<!-- MEMES:END -->
+ - 💣 [Wyd in this situation?](http://9gag.com/gag/aGyDzjZ)
+ - ⏩ [House in the Philippines attach a sprinkler in their rooftop to beat the heat](http://9gag.com/gag/aD2Gg8K)
+ - 👉 [Looking for work? We need 3 workers](http://9gag.com/gag/ae9659O)<!-- MEMES:END -->
 
 ---
 
