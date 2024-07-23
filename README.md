@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Minisforum AtomMan X7 Ti review](https://www.pcgamer.com/hardware/gaming-pcs/minisforum-atomman-x7-ti-review)
- - [Tesla will roll out &#39;genuinely useful&#39; humanoid robots to factory floor next year says Musk](https://www.pcgamer.com/hardware/tesla-will-roll-out-genuinely-useful-humanoid-robots-to-factory-floor-next-year-says-musk)
- - [Yep, that&#39;d do it: The Baldur&#39;s Gate 3 Patch 7 closed beta is delayed because &#39;passive dice rolls literally stopped working&#39;](https://www.pcgamer.com/games/baldurs-gate/yep-that-d-do-it-the-baldur-s-gate-3-patch-7-closed-beta-is-delayed-because-passive-dice-rolls-literally-stopped-working)<!-- GAME:END -->
+ - [Survival horror game Conscript puts you face-down in the muck of World War I](https://www.polygon.com/24203819/conscript-review-world-war-1-survival-horror)
+ - [Call yourself a bass head? Walk around wearing a pair of Ol&#39; Thumpy headphones, I dare you](https://www.pcgamer.com/hardware/gaming-headsets/call-yourself-a-bass-head-walk-around-wearing-a-pair-of-ol-thumpy-headphones-i-dare-you)
+ - [Where to find the High Banks weapon and gear crates in Once Human](https://www.pcgamer.com/games/survival-crafting/once-human-high-banks-weapon-gear-crate-locations)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
