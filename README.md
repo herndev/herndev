@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Despite its magic and monsters, Dungeons of Hinterberg&#39;s developers &#39;wanted to show a real place&#39; that could explore &#39;all the layers&#39; of overtourism](https://www.pcgamer.com/games/rpg/despite-its-magic-and-monsters-dungeons-of-hinterbergs-developers-wanted-to-show-a-real-place-that-could-explore-all-the-layers-of-overtourism)
  - [Your Dragon Age: The Veilguard character can be voiced by the guy who did all the Baldur&#39;s Gate 3 sex noises](https://www.pcgamer.com/games/rpg/your-dragon-age-the-veilguard-character-can-be-voiced-by-the-guy-who-did-all-the-baldurs-gate-3-sex-noises)
- - [Donald Trump’s Twitch channel is back](https://www.polygon.com/24203801/donald-trump-twitch-channel-unbanned)
- - [Trump&#39;s VP Nom Connects Mtn Dew And Racism In Front Of Confused Crowd](https://kotaku.com/jd-vance-mountain-dew-racism-racist-trump-vp-speech-1851601858)<!-- GAME:END -->
+ - [Donald Trump’s Twitch channel is back](https://www.polygon.com/24203801/donald-trump-twitch-channel-unbanned)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
