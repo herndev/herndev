@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle answer for Tuesday, July 23](https://www.pcgamer.com/games/puzzle/wordle-answer-today-July-23-2024)
  - [Tower of Fantasy’s first anniversary brings Summer events and a new companion](https://blog.playstation.com/2024/07/22/tower-of-fantasys-first-anniversary-brings-summer-events-and-a-new-companion/)
- - [Tower of Fantasy’s first anniversary brings Summer events and a new companion](https://blog.playstation.com/2024/07/22/tower-of-fantasys-first-anniversary-brings-summer-events-and-a-new-companion/)
- - [ColdRidge is a cowboy exploration game that&#39;s like playing just the exciting first turns of a Civilization campaign](https://www.pcgamer.com/games/strategy/coldridge-is-a-cowboy-exploration-game-thats-like-playing-just-the-exciting-first-turns-of-a-civilization-campaign)<!-- GAME:END -->
+ - [Tower of Fantasy’s first anniversary brings Summer events and a new companion](https://blog.playstation.com/2024/07/22/tower-of-fantasys-first-anniversary-brings-summer-events-and-a-new-companion/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
