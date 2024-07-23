@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The trials of a billionaire Bond villain: Oculus founder Palmer Luckey sues after getting stuck in a car elevator in the mansion he bought just to store cars](https://www.pcgamer.com/gaming-industry/the-trials-of-a-billionaire-bond-villain-oculus-founder-palmer-luckey-sues-after-getting-stuck-in-a-car-elevator-in-the-mansion-he-bought-just-to-store-cars)
- - [How To Unlock Kyle In The First Descendant](https://kotaku.com/first-descendant-how-to-unlock-kyle-free-1851602585)
- - [A Single New Crate Has Created Turmoil In Counter-Strike 2](https://kotaku.com/dust-2-new-crate-boost-update-counter-strike-2-valve-1851602614)<!-- GAME:END -->
+ - [Survival Horror Perfected: The Terrifying Solitude of Empty Shell](https://news.xbox.com/en-us/2024/07/23/survival-horror-perfected-the-terrifying-solitude-of-empty-shell/)
+ - [This Was Never About Anything Other Than Hate](https://kotaku.com/this-was-never-about-anything-other-than-hate-1851602820)
+ - [Are Physical Games Dead? It’s More Complicated Than You Might Think](https://kotaku.com/ps5-limited-run-physical-digital-capcom-1851602842)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
