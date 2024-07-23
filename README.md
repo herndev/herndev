@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [YouTube Music streamlines artist pages with new layout](https://www.androidauthority.com/youtube-music-makeover-3463604/)
- - [X website reverts water pistol emoji to realistic gun](https://appleinsider.com/articles/24/07/23/x-website-reverts-water-pistol-emoji-to-realistic-gun?utm_medium=rss)
- - [Xiaomi dares to go fabric-backed with its woven nylon Mix Flip](https://www.androidauthority.com/xiaomi-mix-flip-nylon-3463621/)<!-- TECH:END -->
+ - [Harvey, which is building an AI-powered &quot;copilot&quot; for lawyers, raised a $100M Series C led by GV that values it at $1.5B and brings its total funding to $206M &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240723/p29#a240723p29)
+ - [Spotify CEO confirms a ‘deluxe’ version with hi-fi audio is coming soon](https://www.theverge.com/2024/7/23/24204520/spotify-ceo-hifi-audio-deluxe-plan-confirmed)
+ - [Samsung Galaxy Z Flip 6 Preorder Deals: Last Chance to Score Preorder Discounts](https://www.cnet.com/deals/best-samsung-galaxy-z-flip-6-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
