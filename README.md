@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [AMD President Victor Peng, who rejoined the chipmaker in 2022 following its acquisition of Xilinx, where he served as CEO, plans to retire on August 30, 2024 &lpar;Ian King/Bloomberg&rpar;](http://www.techmeme.com/240722/p21#a240722p21)
- - [Spot 6 Planets in the Sky at Once During This Upcoming Aug. 23 Planet Parade](https://www.cnet.com/science/another-planetary-parade-starts-on-aug-23-spot-6-planets-in-the-sky-at-once/#ftag=CAD590a51e)
- - [Monarch Tractor, which makes autonomous electric tractors, raised a $133M Series C co-led by Astanor and HH-CTBC Partnership at a $500M+ valuation &lpar;Sean O&#39;Kane/TechCrunch&rpar;](http://www.techmeme.com/240722/p20#a240722p20)<!-- TECH:END -->
+ - [If you want a great smartwatch at a low price, the Amazfit GTR 3 is only $80 right now](https://www.androidauthority.com/amazfit-gtr-3-smartwatch-deal-3463299/)
+ - [Wa&#39;ed Ventures, the $500M venture arm of Saudi Aramco, made its first investment in South Korea by investing $15M in AI chipmaker Rebellions &lpar;Bloomberg&rpar;](http://www.techmeme.com/240722/p23#a240722p23)
+ - [Tech billionaires can’t build their ‘California Forever’ city yet](https://www.theverge.com/2024/7/22/24203960/california-forever-billionaire-city-environmental-impact-study)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
