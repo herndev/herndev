@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Dear John:](http://9gag.com/gag/aAyPGxZ)
- - ⏩ [Italy is probably bigger than Texas then](http://9gag.com/gag/awyVB8R)
- - 👉 [These shepherds dip their sheep in water filled with insecticide to clean them from harmful parasites. Sheep can hold their breaths for up to 11 minutes](http://9gag.com/gag/aVve7EK)<!-- MEMES:END -->
+ - 💣 [Just the President Samia Suluhu of Tanzania and his entourage on the road](http://9gag.com/gag/aYQLy0m)
+ - ⏩ [Find the Pattern](http://9gag.com/gag/aLn9wDP)
+ - 👉 [Damn Japan. You cold AF. Gotta eat outside like an animal if we act like one in Japan.](http://9gag.com/gag/aqyLjDM)<!-- MEMES:END -->
 
 ---
 
