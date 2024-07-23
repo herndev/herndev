@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Germans are the level 99 boss](http://9gag.com/gag/aD2G2WB)
- - ⏩ [Medical experts in Peru have spoken.](http://9gag.com/gag/a2v57jw)
- - 👉 [Cool!](http://9gag.com/gag/apRL9m5)<!-- MEMES:END -->
+ - 💣 [A real G](http://9gag.com/gag/aryNm5p)
+ - ⏩ [Buzz buzz buzzzzzz](http://9gag.com/gag/aMV9K2V)
+ - 👉 [Can any Democrat help me out here?](http://9gag.com/gag/ayN89yy)<!-- MEMES:END -->
 
 ---
 
