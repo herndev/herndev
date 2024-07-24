@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Ubisoft attempted to address historical &#39;authenticity&#39; issues in Assassin&#39;s Creed Shadows and just made the whole situation worse](https://www.pcgamer.com/games/action/ubisoft-attempted-to-address-historical-authenticity-issue-in-assassins-creed-shadows-and-just-made-the-whole-situation-worse)
  - [Today&#39;s Wordle answer for Wednesday, July 24](https://www.pcgamer.com/games/puzzle/wordle-answer-today-July-24-2024)
- - [Here&#39;s a free walking sim about cryptid investigation that&#39;s dripping with early 2000s vibes, complete with fake forums](https://www.pcgamer.com/games/horror/heres-a-free-walking-sim-about-cryptid-investigation-thats-dripping-with-early-2000s-vibes-complete-with-fake-forums)
- - [Marvel&#39;s Overwatch-style hero shooter has players scrambling to log in and push a payload as their favorite superheroes](https://www.pcgamer.com/games/third-person-shooter/marvels-overwatch-style-hero-shooter-has-players-scrambling-to-log-in-and-push-a-payload-as-their-favorite-superheroes)<!-- GAME:END -->
+ - [Here&#39;s a free walking sim about cryptid investigation that&#39;s dripping with early 2000s vibes, complete with fake forums](https://www.pcgamer.com/games/horror/heres-a-free-walking-sim-about-cryptid-investigation-thats-dripping-with-early-2000s-vibes-complete-with-fake-forums)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
