@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Instant trigger](http://9gag.com/gag/avynyYb)
- - ⏩ [Spooder collects wata](http://9gag.com/gag/a874A2Y)
- - 👉 [Still warm](http://9gag.com/gag/aW4MGb3)<!-- MEMES:END -->
+ - 💣 [That\u2019s not the only package he\u2019ll deliver!](http://9gag.com/gag/a9yYzgm)
+ - ⏩ [Just ordinary days in USA.](http://9gag.com/gag/aLn9p75)
+ - 👉 [In my country,a wife cannot claim a husband&#39;s pre-marriage property.she can only ask for a reasonable alimony/maintanence.also,my country is misogynist AF.](http://9gag.com/gag/aD2GYEd)<!-- MEMES:END -->
 
 ---
 
