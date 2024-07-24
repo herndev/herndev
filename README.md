@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Well thank Christ for that](http://9gag.com/gag/a8747R3)
- - ⏩ [In my country,a wife cannot claim a husband&#39;s pre-marriage property.she can only ask for a reasonable alimony/maintanence.also,my country is misogynist AF.](http://9gag.com/gag/aD2GYEd)
- - 👉 [This is why you don&#39;t reply all &lpar;The email went to the entire San Francisco DA office. He was fired the same day and is now suing for wrongful termination&rpar;.](http://9gag.com/gag/aYQLV4x)<!-- MEMES:END -->
+ - 💣 [Horse gets a belly rub](http://9gag.com/gag/a6ZQXZm)
+ - ⏩ [How hikers was born](http://9gag.com/gag/amozoeo)
+ - 👉 [The only stars you have to grab](http://9gag.com/gag/aNDWPP6)<!-- MEMES:END -->
 
 ---
 
