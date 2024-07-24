@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Key and Peele were right](http://9gag.com/gag/aLn91n6)
- - ⏩ [A real G](http://9gag.com/gag/aryNm5p)
- - 👉 [What\u2019s going on at Yellowstone today?](http://9gag.com/gag/amoz1Xd)<!-- MEMES:END -->
+ - 💣 [Well thank Christ for that](http://9gag.com/gag/a8747R3)
+ - ⏩ [Key and Peele were right](http://9gag.com/gag/aLn91n6)
+ - 👉 [\u201cI lost my son essentially. My son Xavier is dead. Killed by the woke mind virus. So I vowed to destroy the woke mind virus after that.\u201d - Elon Musk](http://9gag.com/gag/aryNm7B)<!-- MEMES:END -->
 
 ---
 
