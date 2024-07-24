@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Looking for a laptop? Here are three hot deals from Apple and ASUS!](https://www.androidauthority.com/laptop-deals-apple-macbook-asus-3464237/)
- - [A new Nest Learning Thermostat looks like it’s finally on the way](https://www.androidauthority.com/nest-learning-thermostat-4th-gen-3464368/)
- - [Oyen Digital U34 Bolt SSD review - Enormous drive speed in a rugged package](https://appleinsider.com/articles/24/07/24/oyen-digital-u34-bolt-ssd-review---enormous-drive-speed-in-a-rugged-package?utm_medium=rss)<!-- TECH:END -->
+ - [Oyen Digital U34 Bolt SSD review - Enormous drive speed in a rugged package](https://appleinsider.com/articles/24/07/24/oyen-digital-u34-bolt-ssd-review---enormous-drive-speed-in-a-rugged-package?utm_medium=rss)
+ - [Microsoft unveils Bing generative search, which shows AI-generated answers with the sources used to create them, currently available to a small subset of users &lpar;Zac Bowden/Windows Central&rpar;](http://www.techmeme.com/240724/p35#a240724p35)
+ - [A new Nest Learning Thermostat might be on the way](https://www.theverge.com/2024/7/24/24205541/google-nest-learning-thermostat-4th-gen-leaks)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
