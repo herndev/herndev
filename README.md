@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung shows off what makes the Galaxy Z Fold 6’s screen special in new video](https://www.androidauthority.com/galaxy-z-fold-6-foldable-screen-video-3464193/)
- - [The Senate passed a bill cracking down on sexually explicit deepfakes](https://www.theverge.com/2024/7/24/24205275/senate-passes-defiance-act-non-consensual-intimate-ai-deepfakes)
- - [Pixel Buds Pro 2 might be coming soon with a fresh design, leaked case images suggest](https://www.androidauthority.com/pixel-buds-pro-2-design-leak-3464205/)<!-- TECH:END -->
+ - [Herman Miller now offers plant-based leather on its iconic lounge chair](https://www.theverge.com/2024/7/24/24205295/herman-miller-eames-lounge-chair-ottoman-vegan-plant-leather)
+ - [Deal: The CUKTECH 20 Power Bank is still 46% off!](https://www.androidauthority.com/cuktech-20-power-bank-deal-2-3464238/)
+ - [Reddit appears to be blocking search engines that don&#39;t rely on Google&#39;s indexing; Bing, DuckDuckGo, and others are not showing recent results from Reddit &lpar;Emanuel Maiberg/404 Media&rpar;](http://www.techmeme.com/240724/p29#a240724p29)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
