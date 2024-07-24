@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Twitch is cracking down on sexual harassment in chats](https://www.theverge.com/2024/7/24/24205070/twitch-sexual-harassment-policy-moderation-filters-automod)
- - [LA-based Pearl, an FDA-approved startup that uses AI to assist dentists to make diagnoses, raised a $58M Series B led by Left Lane Capital at a $400M valuation &lpar;Katie Roof/Bloomberg&rpar;](http://www.techmeme.com/240724/p14#a240724p14)
- - [Samsung again rumored to be battling Sony for future iPhone camera business](https://appleinsider.com/articles/24/07/24/samsung-again-rumored-to-be-battling-sony-for-future-iphone-sensor-business?utm_medium=rss)<!-- TECH:END -->
+ - [Get 80% off Google Play Pass for 3 months, just in time for Kingdom Rush 5: Alliance](https://www.androidauthority.com/google-play-pass-deal-3463754/)
+ - [Google has big new ideas about the Play Store](https://www.theverge.com/2024/7/24/24205052/google-play-collections-ai-features-rewards-pixel)
+ - [Would you buy an Oura Ring with a subscription, or a Galaxy Ring without?](https://www.androidauthority.com/oura-ring-3-subscription-galaxy-ring-poll-3464065/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
