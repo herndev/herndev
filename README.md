@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Level AI, maker of AI-powered tools to automate customer service tasks, raised a $39.4M Series C led by Adams Street Partners, taking its total raised to $73.1M &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240723/p43#a240723p43)
- - [Sources: Samsung&#39;s HBM3 chips have been cleared by Nvidia for use in its H20 GPU, developed for the Chinese market; HBM3E chips are still being tested &lpar;Reuters&rpar;](http://www.techmeme.com/240723/p42#a240723p42)
- - [KOSA sponsors urge ‘quick and clean’ Senate vote with less than two weeks until recess](https://www.theverge.com/2024/7/23/24204702/kosa-quick-vote-senate-floor-schumer-blumenthal-blackburn)<!-- TECH:END -->
+ - [X reverts its water pistol emoji back to a firearm on the web, after Twitter originally switched the pistol emoji from a realistic-looking handgun in 2018 &lpar;Keith Broni/Emojipedia&rpar;](http://www.techmeme.com/240723/p46#a240723p46)
+ - [Apple seeds fourth developer betas of iOS 18, iPadOS 18, tvOS 18, watchOS 11, visionOS 2](https://appleinsider.com/articles/24/07/23/apple-seeds-fourth-developer-betas-of-ios-18-ipados-18-tvos-18-watchos-11-visionos-2?utm_medium=rss)
+ - [Meta says it will allow developers to use the outputs from Llama models, including Llama 3.1 405B, to improve other models for the first time &lpar;Benj Edwards/Ars Technica&rpar;](http://www.techmeme.com/240723/p45#a240723p45)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
