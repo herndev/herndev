@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft Designer hands-on: Finally, an AI image creator you’ll want to use](https://www.androidauthority.com/microsoft-designer-hands-on-3463898/)
- - [India scraps &quot;angel tax&quot; for all classes of investors, a major victory to the country&#39;s startup ecosystem that had lobbied for years against the measure &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/240723/p49#a240723p49)
- - [Seattle-based QA Wolf, which helps companies automate QA testing for apps, raised a $36M Series B and opens a waitlist for Android and iOS test automation &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240723/p48#a240723p48)<!-- TECH:END -->
+ - [Elon Musk says Starlink service is now active in a hospital in Gaza, reflecting Israel&#39;s reluctance for Gaza residents to have internet access more broadly &lpar;Eva Dou/Washington Post&rpar;](http://www.techmeme.com/240724/p2#a240724p2)
+ - [In an effort to compete with Shein and Temu, Alibaba&#39;s Taobao and Tmall offer qualified merchants, selling goods in the fashion category, free overseas shipping &lpar;Kelly Le/South China Morning Post&rpar;](http://www.techmeme.com/240724/p1#a240724p1)
+ - [Microsoft Designer hands-on: Finally, an AI image creator you’ll want to use](https://www.androidauthority.com/microsoft-designer-hands-on-3463898/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
