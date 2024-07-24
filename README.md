@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [A reporter managed to go to Gaza to interview some local residents, it&#39;s 3:07 but worth it.](http://9gag.com/gag/an71Rmo)
- - ⏩ [Cool but dead](http://9gag.com/gag/a2v50RY)
+ - 💣 [We all knew someone like Lance and Greg](http://9gag.com/gag/aAyPEQo)
+ - ⏩ [When someone pranks your man on your big day \ud83d\udc4f\ud83c\udffb](http://9gag.com/gag/aO8v82N)
  - 👉 [Bro ain&#39;t a simp](http://9gag.com/gag/apRLDw5)<!-- MEMES:END -->
 
 ---
