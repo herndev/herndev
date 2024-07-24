@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Biggest World Update Ever for Microsoft Flight Simulator Is Its Best Yet](https://news.xbox.com/en-us/2024/07/24/biggest-world-update-ever-microsoft-flight-simulator-best-yet/)
- - [I’m obsessed with the lips on A Sign of Affection](https://www.polygon.com/anime/24203861/sign-affection-anime-romance-shojo-lips)
- - [US, UK, and EU finally come together to prevent AI monopoly &lpar;catastrophic market failure, not the game&rpar;](https://www.pcgamer.com/software/ai/us-uk-and-eu-finally-come-together-to-prevent-ai-monopoly-catastrophic-market-failure-not-the-game)<!-- GAME:END -->
+ - [The best TV of 2024 so far](https://www.polygon.com/what-to-watch/24078257/best-tv-2024-shows-series)
+ - [Arranger: A Role-Puzzling Adventure’s masterful, clever design is clear right from the start](https://www.polygon.com/24205237/arranger-a-role-puzzling-adventure-impressions-pc-steam)
+ - [Skyrim&#39;s Famous Intro Gets Remade To Rot Your Brain](https://kotaku.com/skyrim-gen-alpha-slang-elder-scrolls-intro-video-mod-1851603621)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
