@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Call of Duty: Modern Warfare 3 comes to Game Pass this week](https://www.pcgamer.com/games/fps/call-of-duty-modern-warfare-3-comes-to-game-pass-this-week)
- - [Yet another Google web service bites the dust in August when &#39;goo.gl&#39; links will stop working](https://www.pcgamer.com/software/yet-another-google-web-tool-bites-the-dust-in-august-when-googl-links-will-stop-working)
- - [Deadpool &amp; Wolverine makes the MCU the villain — and not in a good way](https://www.polygon.com/review/24204724/deadpool-and-wolverine-review-mcu-x-men)<!-- GAME:END -->
+ - [Here&#39;s a free walking sim about cryptid investigation that&#39;s dripping with early 2000s vibes, complete with fake forums](https://www.pcgamer.com/games/horror/heres-a-free-walking-sim-about-cryptid-investigation-thats-dripping-with-early-2000s-vibes-complete-with-fake-forums)
+ - [Marvel&#39;s Overwatch-style hero shooter has players scrambling to log in and push a payload as their favorite superheroes](https://www.pcgamer.com/games/third-person-shooter/marvels-overwatch-style-hero-shooter-has-players-scrambling-to-log-in-and-push-a-payload-as-their-favorite-superheroes)
+ - [Call of Duty: Modern Warfare 3 comes to Game Pass this week](https://www.pcgamer.com/games/fps/call-of-duty-modern-warfare-3-comes-to-game-pass-this-week)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
