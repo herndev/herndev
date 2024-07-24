@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The best TV of 2024 so far](https://www.polygon.com/what-to-watch/24078257/best-tv-2024-shows-series)
- - [Arranger: A Role-Puzzling Adventure’s masterful, clever design is clear right from the start](https://www.polygon.com/24205237/arranger-a-role-puzzling-adventure-impressions-pc-steam)
- - [Skyrim&#39;s Famous Intro Gets Remade To Rot Your Brain](https://kotaku.com/skyrim-gen-alpha-slang-elder-scrolls-intro-video-mod-1851603621)<!-- GAME:END -->
+ - [Path of Exile 2: More Fun, More Flexible, More Evil](https://news.xbox.com/en-us/2024/07/24/path-of-exile-2-more-fun-more-flexible-more-evil/)
+ - [Core Keeper is Coming Day One to Xbox Game Pass on August 27](https://news.xbox.com/en-us/2024/07/24/core-keeper-coming-day-one-to-xbox-august-27/)
+ - [Fortnite: How To Complete The First Pirate Code Quests](https://kotaku.com/fortnite-pirate-code-caribbean-quest-1851603816)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
