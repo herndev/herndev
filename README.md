@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Tablet Deals: Score Up to $200 off Apple iPad, Samsung Galaxy, Google Pixel and More](https://www.cnet.com/deals/best-tablet-deals/#ftag=CAD590a51e)
- - [Some in Silicon Valley hope Kamala Harris would provide a chance for a reset, after years of bipartisan criticism in Washington DC toward big tech companies &lpar;Politico&rpar;](http://www.techmeme.com/240724/p6#a240724p6)
- - [CrowdStrike says the problematic July 19 software update that affected 8.5M Windows devices was deployed into production due to &quot;a bug in the Content Validator&quot; &lpar;Simon Sharwood/The Register&rpar;](http://www.techmeme.com/240724/p5#a240724p5)<!-- TECH:END -->
+ - [Google could soon introduce a ‘Google One Lite’ plan &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-one-lite-plan-apk-teardown-3463930/)
+ - [French cybersecurity company Exclusive Networks receives a binding buyout proposal from private equity firms CD&amp;R and Permira valuing Exclusive at ~&amp;euro;2.2B &lpar;Phil Serafino/Bloomberg&rpar;](http://www.techmeme.com/240724/p9#a240724p9)
+ - [Irish government data: data centers in Ireland used 21% of its electricity in 2023, up 20% YoY, more than the 18% of electricity used by all urban homes &lpar;Jillian Ambrose/The Guardian&rpar;](http://www.techmeme.com/240724/p8#a240724p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
