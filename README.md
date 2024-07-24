@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Bikini bottom](http://9gag.com/gag/a87412d)
- - ⏩ [We must not forget him.](http://9gag.com/gag/aBy1LrQ)
- - 👉 [Olympics getting to a good start](http://9gag.com/gag/ajPD1Oq)<!-- MEMES:END -->
+ - 💣 [How hikers was born](http://9gag.com/gag/amozoeo)
+ - ⏩ [In my country,a wife cannot claim a husband&#39;s pre-marriage property.she can only ask for a reasonable alimony/maintanence.also,my country is misogynist AF.](http://9gag.com/gag/aD2GYEd)
+ - 👉 [We all knew someone like Lance and Greg](http://9gag.com/gag/aAyPEQo)<!-- MEMES:END -->
 
 ---
 
