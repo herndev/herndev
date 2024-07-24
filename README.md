@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Dungeons and Kingdoms is an upcoming game that&#39;s about exactly what it sounds like: dungeon crawling and kingdom management](https://www.pcgamer.com/games/sim/dungeons-and-kingdoms-is-an-upcoming-game-thats-about-exactly-what-it-sounds-like-dungeon-crawling-and-kingdom-management)
  - [New PS5 beta update makes roommate-friendly changes to Remote Play, audio](https://www.polygon.com/24205485/ps5-beta-update-remote-play-audio)
- - [Blizzard&#39;s World of Warcraft team has unionized](https://www.pcgamer.com/games/mmo/blizzards-world-of-warcraft-team-has-unionized)
- - [More game studios are changing the industry by unionizing](https://www.polygon.com/gaming/23538801/video-game-studio-union-microsoft-activision-blizzard)<!-- GAME:END -->
+ - [Blizzard&#39;s World of Warcraft team has unionized](https://www.pcgamer.com/games/mmo/blizzards-world-of-warcraft-team-has-unionized)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
