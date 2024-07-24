@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [PlayStation&#39;s Hero Shooter Won&#39;t Have A Battle Pass: &#39;You Own Concord, Concord Doesn&#39;t Own You&#39;](https://kotaku.com/ps5-concord-battle-pass-overwatch-microtransactions-1851603942)
- - [Warframe 99 lets you fight a ‘90s boy band in space and I don’t know what else you want](https://www.polygon.com/24205315/warframe-99-digital-extremes-visual-style-lore-design-art)
- - [Path of Exile 2: More Fun, More Flexible, More Evil](https://news.xbox.com/en-us/2024/07/24/path-of-exile-2-more-fun-more-flexible-more-evil/)<!-- GAME:END -->
+ - [Our Favorite Cosplay From DoKomi Germany 2024](https://kotaku.com/dokomi-germany-cosplay-convention-2024-anime-1851603850)
+ - [Surprise, Fallout Fans Are Basically Getting An Entirely New Game Tomorrow](https://kotaku.com/fallout-london-mod-releases-tomorrow-bethesda-rpg-1851604036)
+ - [Apex Legends Cancels Most Controversial Battle Pass Change After Weeks Of Backlash](https://kotaku.com/apex-legends-battle-pass-apex-coin-season-22-reviews-1851604002)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
