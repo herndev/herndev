@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [World of Warcraft: The War Within&#39;s pre-patch may have dug up the graves of deleted characters—including my ancient shaman with a hearthstone that killed me](https://www.pcgamer.com/games/world-of-warcraft/world-of-warcraft-the-war-within-s-pre-patch-may-have-dug-up-the-graves-of-deleted-characters-including-my-ancient-shaman-with-a-hearthstone-that-killed-me)
- - [Marvel Studios can fix the MCU — but it has to start Saturday at SDCC](https://www.polygon.com/sdcc/24203804/marvel-studios-sdcc-2024-hall-h-panel-preview)
- - [Gran Turismo 7 Update 1.49 brings six new cars, updated physics simulation model, and more on July 24](https://blog.playstation.com/2024/07/24/gran-turismo-7-update-1-49-brings-six-new-cars-updated-physics-simulation-model-and-more-on-july-24/)<!-- GAME:END -->
+ - [The Biggest World Update Ever for Microsoft Flight Simulator Is Its Best Yet](https://news.xbox.com/en-us/2024/07/24/biggest-world-update-ever-microsoft-flight-simulator-best-yet/)
+ - [I’m obsessed with the lips on A Sign of Affection](https://www.polygon.com/anime/24203861/sign-affection-anime-romance-shojo-lips)
+ - [US, UK, and EU finally come together to prevent AI monopoly &lpar;catastrophic market failure, not the game&rpar;](https://www.pcgamer.com/software/ai/us-uk-and-eu-finally-come-together-to-prevent-ai-monopoly-catastrophic-market-failure-not-the-game)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
