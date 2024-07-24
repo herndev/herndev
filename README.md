@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Key and Peele were right](http://9gag.com/gag/aLn91n6)
- - ⏩ [In my country,a wife cannot claim a husband&#39;s pre-marriage property.she can only ask for a reasonable alimony/maintanence.also,my country is misogynist AF.](http://9gag.com/gag/aD2GYEd)
- - 👉 [Can any Democrat help me out here?](http://9gag.com/gag/ayN89yy)<!-- MEMES:END -->
+ - 💣 [Just ordinary days in USA.](http://9gag.com/gag/aLn9p75)
+ - ⏩ [Key and Peele were right](http://9gag.com/gag/aLn91n6)
+ - 👉 [How hikers was born](http://9gag.com/gag/amozoeo)<!-- MEMES:END -->
 
 ---
 
