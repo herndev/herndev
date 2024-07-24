@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The &#39;Skibidi Toilet multiverse&#39; is &#39;absolutely in talks&#39; to become a TV and movie series from Michael Bay](https://www.pcgamer.com/gaming-industry/the-skibidi-toilet-multiverse-is-absolutely-in-talks-to-become-a-tv-and-movie-series-from-michael-bay)
- - [The strangest game I&#39;ve played this year can confuse and horrify you, too, in September](https://www.pcgamer.com/games/horror/the-strangest-game-ive-played-this-year-can-confuse-and-horrify-you-too-in-september)
- - [Where To Farm Holiday Scorched In Fallout 76](https://kotaku.com/fallout-76-find-holiday-scorched-event-gifts-1851604166)<!-- GAME:END -->
+ - [AMD delays Ryzen 9000-series retail launch by a couple of weeks after discovering an issue with the first batch of chips](https://www.pcgamer.com/hardware/processors/amd-delays-ryzen-9000-series-retail-launch-by-a-couple-of-weeks-after-discovering-an-issue-with-the-first-batch-of-chips)
+ - [Sony hero shooter Concord will not have a battle pass: &#39;You own Concord, Concord doesn&#39;t own you&#39;](https://www.pcgamer.com/games/fps/sony-hero-shooter-concord-will-not-have-a-battle-pass-you-own-concord-concord-doesnt-own-you)
+ - [Take home the 8BitDo Famicom mechanical keyboard for its lowest price ever](https://www.polygon.com/24205425/8bitdos-famicom-keyboard-40-percent-off-sale)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
