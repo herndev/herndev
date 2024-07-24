@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Well thank Christ for that](http://9gag.com/gag/a8747R3)
- - ⏩ [No, come back, I changed my mind.](http://9gag.com/gag/a874A0e)
- - 👉 [When someone pranks your man on your big day \ud83d\udc4f\ud83c\udffb](http://9gag.com/gag/aO8v82N)<!-- MEMES:END -->
+ - 💣 [In my country,a wife cannot claim a husband&#39;s pre-marriage property.she can only ask for a reasonable alimony/maintanence.also,my country is misogynist AF.](http://9gag.com/gag/aD2GYEd)
+ - ⏩ [Well thank Christ for that](http://9gag.com/gag/a8747R3)
+ - 👉 [\u201cI lost my son essentially. My son Xavier is dead. Killed by the woke mind virus. So I vowed to destroy the woke mind virus after that.\u201d - Elon Musk](http://9gag.com/gag/aryNm7B)<!-- MEMES:END -->
 
 ---
 
