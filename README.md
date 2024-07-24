@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [In my country,a wife cannot claim a husband&#39;s pre-marriage property.she can only ask for a reasonable alimony/maintanence.also,my country is misogynist AF.](http://9gag.com/gag/aD2GYEd)
- - ⏩ [A real G](http://9gag.com/gag/aryNm5p)
- - 👉 [Wyd in this situation?](http://9gag.com/gag/aGyDzjZ)<!-- MEMES:END -->
+ - 💣 [The only stars you have to grab](http://9gag.com/gag/aNDWPP6)
+ - ⏩ [Wyd in this situation?](http://9gag.com/gag/aGyDzjZ)
+ - 👉 [Key and Peele were right](http://9gag.com/gag/aLn91n6)<!-- MEMES:END -->
 
 ---
 
