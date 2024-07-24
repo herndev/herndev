@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple has reportedly dropped Qualcomm modems on two 2025 iPhones](https://appleinsider.com/articles/24/07/24/apple-has-reportedly-dropped-qualcomm-modems-on-two-2025-iphones?utm_medium=rss)
- - [Google Messages hints at a future with universal cross-platform secure group chats &lpar;APK teardown&rpar;](https://www.androidauthority.com/rcs-group-encryption-3464119/)
- - [iPhone 17 again said to kill off plus size in favor of iPhone slim](https://appleinsider.com/articles/24/07/24/iphone-17-again-said-to-kill-off-plus-size-in-favor-of-iphone-slim?utm_medium=rss)<!-- TECH:END -->
+ - [Airtable launches Cobuilder, which can generate apps from text prompts and match them to relevant data and customer information already stored within Airtable &lpar;Alex Konrad/Forbes&rpar;](http://www.techmeme.com/240724/p26#a240724p26)
+ - [Meta cracks down on ‘Yahoo Boys’ and thousands of sextortion accounts](https://www.theverge.com/2024/7/24/24205236/meta-nigeria-financial-sextortion-scam)
+ - [iPhones will soon be able to stream live video on 911 calls](https://www.theverge.com/2024/7/24/24205177/apple-iphone-ios-18-emergency-sos-live-video-chat-911)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
