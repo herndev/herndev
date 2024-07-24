@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [We all knew someone like Lance and Greg](http://9gag.com/gag/aAyPEQo)
- - ⏩ [Ok bye](http://9gag.com/gag/a6ZQXxq)
- - 👉 [CCTV footage shows the moment a distressed Australian woman enters a Kebab house seeking help after being gang r*ped by 5 men of \u2018African appearance\u2019 in Paris.](http://9gag.com/gag/axyD302)<!-- MEMES:END -->
+ - 💣 [Well thank Christ for that](http://9gag.com/gag/a8747R3)
+ - ⏩ [No, come back, I changed my mind.](http://9gag.com/gag/a874A0e)
+ - 👉 [When someone pranks your man on your big day \ud83d\udc4f\ud83c\udffb](http://9gag.com/gag/aO8v82N)<!-- MEMES:END -->
 
 ---
 
