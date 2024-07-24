@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Yet another Google web tool bites the dust in August when &#39;goo.gl&#39; links will stop working](https://www.pcgamer.com/software/yet-another-google-web-tool-bites-the-dust-in-august-when-googl-links-will-stop-working)
- - [Deadpool &amp; Wolverine makes the MCU the villain — and not in a good way](https://www.polygon.com/review/24204724/deadpool-and-wolverine-review-mcu-x-men)
- - [Super Earth grants free mechs to all Helldivers 2 players in celebration of a last-minute Major Order victory](https://www.pcgamer.com/games/third-person-shooter/super-earth-grants-free-mechs-to-all-helldivers-2-players-in-celebration-of-a-last-minute-major-order-victory)<!-- GAME:END -->
+ - [Call of Duty: Modern Warfare 3 comes to Game Pass this week](https://www.pcgamer.com/games/fps/call-of-duty-modern-warfare-3-comes-to-game-pass-this-week)
+ - [Yet another Google web service bites the dust in August when &#39;goo.gl&#39; links will stop working](https://www.pcgamer.com/software/yet-another-google-web-tool-bites-the-dust-in-august-when-googl-links-will-stop-working)
+ - [Deadpool &amp; Wolverine makes the MCU the villain — and not in a good way](https://www.polygon.com/review/24204724/deadpool-and-wolverine-review-mcu-x-men)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
