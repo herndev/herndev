@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google could soon introduce a ‘Google One Lite’ plan &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-one-lite-plan-apk-teardown-3463930/)
- - [French cybersecurity company Exclusive Networks receives a binding buyout proposal from private equity firms CD&amp;R and Permira valuing Exclusive at ~&amp;euro;2.2B &lpar;Phil Serafino/Bloomberg&rpar;](http://www.techmeme.com/240724/p9#a240724p9)
- - [Irish government data: data centers in Ireland used 21% of its electricity in 2023, up 20% YoY, more than the 18% of electricity used by all urban homes &lpar;Jillian Ambrose/The Guardian&rpar;](http://www.techmeme.com/240724/p8#a240724p8)<!-- TECH:END -->
+ - [A profile of Blake Benthall, arrested in 2014 for running Silk Road 2.0, which had 1.7M users and $8M/month sales, as he promotes his crypto startup Fathom&lpar;x&rpar; &lpar;New York Times&rpar;](http://www.techmeme.com/240724/p10#a240724p10)
+ - [RCS on iPhone expands to more carriers and regions with iOS 18 beta 4](https://www.androidauthority.com/rcs-more-carriers-ios-18-beta-4-3464006/)
+ - [CrowdStrike blames test software for taking down 8.5 million Windows machines](https://www.theverge.com/2024/7/24/24205020/crowdstrike-test-software-bug-windows-bsod-issue)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
