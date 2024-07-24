@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Seattle-based QA Wolf, which helps companies automate QA testing for apps, raised a $36M Series B and opens a waitlist for Android and iOS test automation &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240723/p48#a240723p48)
  - [Texas Instruments reports Q2 revenue down 16% YoY to $3.82B and forecasts Q3 revenue in line with analysts&#39; estimates of $4.14B, easing fears of a chip downturn &lpar;Ian King/Bloomberg&rpar;](http://www.techmeme.com/240723/p47#a240723p47)
- - [X reverts its water pistol emoji back to a firearm on the web, after Twitter originally switched the pistol emoji from a realistic-looking handgun in 2018 &lpar;Keith Broni/Emojipedia&rpar;](http://www.techmeme.com/240723/p46#a240723p46)
- - [Apple seeds fourth developer betas of iOS 18, iPadOS 18, tvOS 18, watchOS 11, visionOS 2](https://appleinsider.com/articles/24/07/23/apple-seeds-fourth-developer-betas-of-ios-18-ipados-18-tvos-18-watchos-11-visionos-2?utm_medium=rss)<!-- TECH:END -->
+ - [X reverts its water pistol emoji back to a firearm on the web, after Twitter originally switched the pistol emoji from a realistic-looking handgun in 2018 &lpar;Keith Broni/Emojipedia&rpar;](http://www.techmeme.com/240723/p46#a240723p46)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
