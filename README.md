@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Warframe&#39;s upcoming 1999 expansion adds a romance system, and it&#39;s all thanks to Baldur&#39;s Gate 3](https://www.pcgamer.com/games/third-person-shooter/warframes-upcoming-1999-expansion-adds-a-romance-system-and-its-all-thanks-to-baldurs-gate-3)
- - [AMD is already prepping a 3nm update to its new Zen 5 CPUs](https://www.pcgamer.com/hardware/processors/amd-is-already-prepping-a-3nm-update-to-its-new-zen-5-cpus)
- - [13 years later, this bonkers third-person shooter collab between Suda51 and the creator of Resident Evil is finally coming to PC](https://www.pcgamer.com/games/action/13-years-later-this-bonkers-third-person-shooter-collab-between-suda51-and-the-creator-of-resident-evil-is-finally-coming-to-pc)<!-- GAME:END -->
+ - [Marvel Studios can fix the MCU — but it has to start Saturday at SDCC](https://www.polygon.com/sdcc/24203804/marvel-studios-sdcc-2024-hall-h-panel-preview)
+ - [Gran Turismo 7 Update 1.49 brings six new cars, updated physics simulation model, and more on July 24](https://blog.playstation.com/2024/07/24/gran-turismo-7-update-1-49-brings-six-new-cars-updated-physics-simulation-model-and-more-on-july-24/)
+ - [New PS5 beta rolls out tomorrow with personalized 3D audio profiles and new Remote Play settings](https://blog.playstation.com/2024/07/24/new-ps5-beta-rolls-out-tomorrow-with-personalized-3d-audio-profiles-and-new-remote-play-settings/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
