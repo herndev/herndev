@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best Tablet Deals: Score Up to $200 off Apple iPad, Samsung Galaxy, Google Pixel and More](https://www.cnet.com/deals/best-tablet-deals/#ftag=CAD590a51e)
  - [Some in Silicon Valley hope Kamala Harris would provide a chance for a reset, after years of bipartisan criticism in Washington DC toward big tech companies &lpar;Politico&rpar;](http://www.techmeme.com/240724/p6#a240724p6)
- - [CrowdStrike says the problematic July 19 software update that affected 8.5M Windows devices was deployed into production due to &quot;a bug in the Content Validator&quot; &lpar;Simon Sharwood/The Register&rpar;](http://www.techmeme.com/240724/p5#a240724p5)
- - [Foxconn to invest $138 mln for new business headquarters in China &lpar;Reuters&rpar;](http://www.techmeme.com/240724/p4#a240724p4)<!-- TECH:END -->
+ - [CrowdStrike says the problematic July 19 software update that affected 8.5M Windows devices was deployed into production due to &quot;a bug in the Content Validator&quot; &lpar;Simon Sharwood/The Register&rpar;](http://www.techmeme.com/240724/p5#a240724p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
