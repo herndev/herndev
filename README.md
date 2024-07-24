@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [AMD delays Ryzen 9000-series retail launch by a couple of weeks after discovering an issue with the first batch of chips](https://www.pcgamer.com/hardware/processors/amd-delays-ryzen-9000-series-retail-launch-by-a-couple-of-weeks-after-discovering-an-issue-with-the-first-batch-of-chips)
- - [Sony hero shooter Concord will not have a battle pass: &#39;You own Concord, Concord doesn&#39;t own you&#39;](https://www.pcgamer.com/games/fps/sony-hero-shooter-concord-will-not-have-a-battle-pass-you-own-concord-concord-doesnt-own-you)
- - [Take home the 8BitDo Famicom mechanical keyboard for its lowest price ever](https://www.polygon.com/24205425/8bitdos-famicom-keyboard-40-percent-off-sale)<!-- GAME:END -->
+ - [New PS5 beta update makes roommate-friendly changes to Remote Play, audio](https://www.polygon.com/24205485/ps5-beta-update-remote-play-audio)
+ - [Blizzard&#39;s World of Warcraft team has unionized](https://www.pcgamer.com/games/mmo/blizzards-world-of-warcraft-team-has-unionized)
+ - [More game studios are changing the industry by unionizing](https://www.polygon.com/gaming/23538801/video-game-studio-union-microsoft-activision-blizzard)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
