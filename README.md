@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [No, come back, I changed my mind.](http://9gag.com/gag/a874A0e)
- - ⏩ [A real G](http://9gag.com/gag/aryNm5p)
- - 👉 [Faulty Processors](http://9gag.com/gag/aYQLGPO)<!-- MEMES:END -->
+ - 💣 [Almost identical](http://9gag.com/gag/awyVg8y)
+ - ⏩ [Wife busted cheating at airport #4k](http://9gag.com/gag/adBXvpQ)
+ - 👉 [Dear John:](http://9gag.com/gag/aAyPGxZ)<!-- MEMES:END -->
 
 ---
 
