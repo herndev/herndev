@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Just ordinary days in USA.](http://9gag.com/gag/aLn9p75)
- - ⏩ [Key and Peele were right](http://9gag.com/gag/aLn91n6)
- - 👉 [How hikers was born](http://9gag.com/gag/amozoeo)<!-- MEMES:END -->
+ - 💣 [This is why you don&#39;t reply all &lpar;The email went to the entire San Francisco DA office. He was fired the same day and is now suing for wrongful termination&rpar;.](http://9gag.com/gag/aYQLV4x)
+ - ⏩ [Salesman hugs a crying customer who bought his first PS](http://9gag.com/gag/ajPDgd8)
+ - 👉 [Wyd in this situation?](http://9gag.com/gag/aGyDzjZ)<!-- MEMES:END -->
 
 ---
 
