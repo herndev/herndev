@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle answer for Wednesday, July 24](https://www.pcgamer.com/games/puzzle/wordle-answer-today-July-24-2024)
  - [Here&#39;s a free walking sim about cryptid investigation that&#39;s dripping with early 2000s vibes, complete with fake forums](https://www.pcgamer.com/games/horror/heres-a-free-walking-sim-about-cryptid-investigation-thats-dripping-with-early-2000s-vibes-complete-with-fake-forums)
- - [Marvel&#39;s Overwatch-style hero shooter has players scrambling to log in and push a payload as their favorite superheroes](https://www.pcgamer.com/games/third-person-shooter/marvels-overwatch-style-hero-shooter-has-players-scrambling-to-log-in-and-push-a-payload-as-their-favorite-superheroes)
- - [Call of Duty: Modern Warfare 3 comes to Game Pass this week](https://www.pcgamer.com/games/fps/call-of-duty-modern-warfare-3-comes-to-game-pass-this-week)<!-- GAME:END -->
+ - [Marvel&#39;s Overwatch-style hero shooter has players scrambling to log in and push a payload as their favorite superheroes](https://www.pcgamer.com/games/third-person-shooter/marvels-overwatch-style-hero-shooter-has-players-scrambling-to-log-in-and-push-a-payload-as-their-favorite-superheroes)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
