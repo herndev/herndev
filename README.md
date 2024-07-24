@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [13 years later, this bonkers third-person shooter collab between Suda51 and the creator of Resident Evil is finally coming to PC](https://www.pcgamer.com/games/action/13-years-later-this-bonkers-third-person-shooter-collab-between-suda51-and-the-creator-of-resident-evil-is-finally-coming-to-pc)
- - [Ubisoft attempted to address historical &#39;authenticity&#39; issues in Assassin&#39;s Creed Shadows and just made the whole situation worse](https://www.pcgamer.com/games/action/ubisoft-attempted-to-address-historical-authenticity-issue-in-assassins-creed-shadows-and-just-made-the-whole-situation-worse)
- - [Today&#39;s Wordle answer for Wednesday, July 24](https://www.pcgamer.com/games/puzzle/wordle-answer-today-July-24-2024)<!-- GAME:END -->
+ - [Warframe&#39;s upcoming 1999 expansion adds a romance system, and it&#39;s all thanks to Baldur&#39;s Gate 3](https://www.pcgamer.com/games/third-person-shooter/warframes-upcoming-1999-expansion-adds-a-romance-system-and-its-all-thanks-to-baldurs-gate-3)
+ - [AMD is already prepping a 3nm update to its new Zen 5 CPUs](https://www.pcgamer.com/hardware/processors/amd-is-already-prepping-a-3nm-update-to-its-new-zen-5-cpus)
+ - [13 years later, this bonkers third-person shooter collab between Suda51 and the creator of Resident Evil is finally coming to PC](https://www.pcgamer.com/games/action/13-years-later-this-bonkers-third-person-shooter-collab-between-suda51-and-the-creator-of-resident-evil-is-finally-coming-to-pc)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
