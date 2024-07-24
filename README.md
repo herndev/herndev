@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Herman Miller now offers plant-based leather on its iconic lounge chair](https://www.theverge.com/2024/7/24/24205295/herman-miller-eames-lounge-chair-ottoman-vegan-plant-leather)
- - [Deal: The CUKTECH 20 Power Bank is still 46% off!](https://www.androidauthority.com/cuktech-20-power-bank-deal-2-3464238/)
- - [Reddit appears to be blocking search engines that don&#39;t rely on Google&#39;s indexing; Bing, DuckDuckGo, and others are not showing recent results from Reddit &lpar;Emanuel Maiberg/404 Media&rpar;](http://www.techmeme.com/240724/p29#a240724p29)<!-- TECH:END -->
+ - [Google’s Reddit monopoly sparks concerns for alternative search engines](https://www.androidauthority.com/google-reddit-monopoly-3464268/)
+ - [Look out MapQuest, Apple Maps debuts on the web in beta](https://appleinsider.com/articles/24/07/24/look-out-mapquest-apple-maps-debuts-on-the-web-in-beta?utm_medium=rss)
+ - [CrowdStrike and Microsoft: all the latest news on the global IT outage](https://www.theverge.com/24201803/crowdstrike-microsoft-it-global-outage-airlines-banking)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
