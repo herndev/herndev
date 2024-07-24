@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Our Favorite Cosplay From DoKomi Germany 2024](https://kotaku.com/dokomi-germany-cosplay-convention-2024-anime-1851603850)
- - [Surprise, Fallout Fans Are Basically Getting An Entirely New Game Tomorrow](https://kotaku.com/fallout-london-mod-releases-tomorrow-bethesda-rpg-1851604036)
- - [Apex Legends Cancels Most Controversial Battle Pass Change After Weeks Of Backlash](https://kotaku.com/apex-legends-battle-pass-apex-coin-season-22-reviews-1851604002)<!-- GAME:END -->
+ - [The &#39;Skibidi Toilet multiverse&#39; is &#39;absolutely in talks&#39; to become a TV and movie series from Michael Bay](https://www.pcgamer.com/gaming-industry/the-skibidi-toilet-multiverse-is-absolutely-in-talks-to-become-a-tv-and-movie-series-from-michael-bay)
+ - [The strangest game I&#39;ve played this year can confuse and horrify you, too, in September](https://www.pcgamer.com/games/horror/the-strangest-game-ive-played-this-year-can-confuse-and-horrify-you-too-in-september)
+ - [Where To Farm Holiday Scorched In Fallout 76](https://kotaku.com/fallout-76-find-holiday-scorched-event-gifts-1851604166)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
