@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Almost identical](http://9gag.com/gag/awyVg8y)
- - ⏩ [Wife busted cheating at airport #4k](http://9gag.com/gag/adBXvpQ)
- - 👉 [Dear John:](http://9gag.com/gag/aAyPGxZ)<!-- MEMES:END -->
+ - 💣 [Damn...](http://9gag.com/gag/aD2G2xB)
+ - ⏩ [Congresswoman Lisa McClain confronts Secret Service Director Cheatle about the lack of transparency regarding the Trump shooting incident. She demands answers on the number of shell casings and criticizes Cheatle for not sharing crucial information.](http://9gag.com/gag/azxA2Yz)
+ - 👉 [Almost identical](http://9gag.com/gag/awyVg8y)<!-- MEMES:END -->
 
 ---
 
