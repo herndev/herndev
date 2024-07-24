@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Report: Android has worst second quarter in years for users jumping to iPhone](https://www.androidauthority.com/android-switch-iphone-cirp-q2-2024-3464367/)
- - [Bing’s AI redesign shoves the usual list of search results to the side](https://www.theverge.com/2024/7/24/24205404/bing-ai-search-redesign)
- - [IBM reports Q2 revenue up 2% YoY to $15.8B, vs. $15.6B est., and says bookings for AI consulting and software have exceeded $2B since mid-2023, vs. $1B in Q1 &lpar;Bloomberg&rpar;](http://www.techmeme.com/240724/p33#a240724p33)<!-- TECH:END -->
+ - [Looking for a laptop? Here are three hot deals from Apple and ASUS!](https://www.androidauthority.com/laptop-deals-apple-macbook-asus-3464237/)
+ - [A new Nest Learning Thermostat looks like it’s finally on the way](https://www.androidauthority.com/nest-learning-thermostat-4th-gen-3464368/)
+ - [Oyen Digital U34 Bolt SSD review - Enormous drive speed in a rugged package](https://appleinsider.com/articles/24/07/24/oyen-digital-u34-bolt-ssd-review---enormous-drive-speed-in-a-rugged-package?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
