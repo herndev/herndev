@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google’s Reddit monopoly sparks concerns for alternative search engines](https://www.androidauthority.com/google-reddit-monopoly-3464268/)
- - [Look out MapQuest, Apple Maps debuts on the web in beta](https://appleinsider.com/articles/24/07/24/look-out-mapquest-apple-maps-debuts-on-the-web-in-beta?utm_medium=rss)
- - [CrowdStrike and Microsoft: all the latest news on the global IT outage](https://www.theverge.com/24201803/crowdstrike-microsoft-it-global-outage-airlines-banking)<!-- TECH:END -->
+ - [Report: Android has worst second quarter in years for users jumping to iPhone](https://www.androidauthority.com/android-switch-iphone-cirp-q2-2024-3464367/)
+ - [Bing’s AI redesign shoves the usual list of search results to the side](https://www.theverge.com/2024/7/24/24205404/bing-ai-search-redesign)
+ - [IBM reports Q2 revenue up 2% YoY to $15.8B, vs. $15.6B est., and says bookings for AI consulting and software have exceeded $2B since mid-2023, vs. $1B in Q1 &lpar;Bloomberg&rpar;](http://www.techmeme.com/240724/p33#a240724p33)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
