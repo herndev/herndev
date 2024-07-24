@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung Galaxy Z Fold6 review: very good battery life, easy multitasking, and seven years of updates, but narrow cover screen, bulky, heavy, and expensive &lpar;Allison Johnson/The Verge&rpar;](http://www.techmeme.com/240724/p20#a240724p20)
- - [Android switchers boost iPhone Sales -- but not for the iPhone 15](https://appleinsider.com/articles/24/07/24/android-switchers-boost-iphone-sales----but-not-for-the-iphone-15?utm_medium=rss)
- - [Law enforcement officials and experts: criminal groups are shying away from large ransomware-as-a-service platforms after disruption operations and an exit scam &lpar;Alexander Martin/The Record&rpar;](http://www.techmeme.com/240724/p19#a240724p19)<!-- TECH:END -->
+ - [It’s time to check your new Galaxy Watch Ultra for this hardware issue](https://www.androidauthority.com/galaxy-watch-ultra-alignment-3464074/)
+ - [Microsoft Copilot customers say the AI assistants are no plug-and-play offering and involve feeding Copilot data; the Copilots excel at distilling information &lpar;Matt Day/Bloomberg&rpar;](http://www.techmeme.com/240724/p22#a240724p22)
+ - [The iPhone 18 could increase Apple’s reliance on Samsung](https://www.androidauthority.com/iphone-18-increase-reliance-on-samsung-3464082/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
