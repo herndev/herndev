@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Path of Exile 2: More Fun, More Flexible, More Evil](https://news.xbox.com/en-us/2024/07/24/path-of-exile-2-more-fun-more-flexible-more-evil/)
- - [Core Keeper is Coming Day One to Xbox Game Pass on August 27](https://news.xbox.com/en-us/2024/07/24/core-keeper-coming-day-one-to-xbox-august-27/)
- - [Fortnite: How To Complete The First Pirate Code Quests](https://kotaku.com/fortnite-pirate-code-caribbean-quest-1851603816)<!-- GAME:END -->
+ - [PlayStation&#39;s Hero Shooter Won&#39;t Have A Battle Pass: &#39;You Own Concord, Concord Doesn&#39;t Own You&#39;](https://kotaku.com/ps5-concord-battle-pass-overwatch-microtransactions-1851603942)
+ - [Warframe 99 lets you fight a ‘90s boy band in space and I don’t know what else you want](https://www.polygon.com/24205315/warframe-99-digital-extremes-visual-style-lore-design-art)
+ - [Path of Exile 2: More Fun, More Flexible, More Evil](https://news.xbox.com/en-us/2024/07/24/path-of-exile-2-more-fun-more-flexible-more-evil/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
