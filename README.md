@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A profile of Blake Benthall, arrested in 2014 for running Silk Road 2.0, which had 1.7M users and $8M/month sales, as he promotes his crypto startup Fathom&lpar;x&rpar; &lpar;New York Times&rpar;](http://www.techmeme.com/240724/p10#a240724p10)
- - [RCS on iPhone expands to more carriers and regions with iOS 18 beta 4](https://www.androidauthority.com/rcs-more-carriers-ios-18-beta-4-3464006/)
- - [CrowdStrike blames test software for taking down 8.5 million Windows machines](https://www.theverge.com/2024/7/24/24205020/crowdstrike-test-software-bug-windows-bsod-issue)<!-- TECH:END -->
+ - [A lot of you fancy the Pixel 9 camera upgrades, but not all are convinced](https://www.androidauthority.com/google-pixel-9-cameras-poll-results-3464022/)
+ - [Samsung again rumored to be battling Sony for future iPhone camera business](https://appleinsider.com/articles/24/07/24/samsung-again-rumored-to-be-battling-sony-for-future-iphone-sensor-business?utm_medium=rss)
+ - [Kamala Harris took a leading White House role on AI, including meeting executives, and a win could mean a continued relatively smooth runway for AI companies &lpar;New York Times&rpar;](http://www.techmeme.com/240724/p12#a240724p12)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
