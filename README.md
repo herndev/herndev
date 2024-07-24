@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [.................](http://9gag.com/gag/a9yY6EK)
- - ⏩ [How hikers was born](http://9gag.com/gag/amozoeo)
- - 👉 [The only stars you have to grab](http://9gag.com/gag/aNDWPP6)<!-- MEMES:END -->
+ - 💣 [The best culture in the history of the earth.](http://9gag.com/gag/agmGB4x)
+ - ⏩ [Save water. Shower together.](http://9gag.com/gag/agmG1BW)
+ - 👉 [\u201cI lost my son essentially. My son Xavier is dead. Killed by the woke mind virus. So I vowed to destroy the woke mind virus after that.\u201d - Elon Musk](http://9gag.com/gag/aryNm7B)<!-- MEMES:END -->
 
 ---
 
