@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [It’s time to check your new Galaxy Watch Ultra for this hardware issue](https://www.androidauthority.com/galaxy-watch-ultra-alignment-3464074/)
- - [Microsoft Copilot customers say the AI assistants are no plug-and-play offering and involve feeding Copilot data; the Copilots excel at distilling information &lpar;Matt Day/Bloomberg&rpar;](http://www.techmeme.com/240724/p22#a240724p22)
- - [The iPhone 18 could increase Apple’s reliance on Samsung](https://www.androidauthority.com/iphone-18-increase-reliance-on-samsung-3464082/)<!-- TECH:END -->
+ - [Apple has reportedly dropped Qualcomm modems on two 2025 iPhones](https://appleinsider.com/articles/24/07/24/apple-has-reportedly-dropped-qualcomm-modems-on-two-2025-iphones?utm_medium=rss)
+ - [Google Messages hints at a future with universal cross-platform secure group chats &lpar;APK teardown&rpar;](https://www.androidauthority.com/rcs-group-encryption-3464119/)
+ - [iPhone 17 again said to kill off plus size in favor of iPhone slim](https://appleinsider.com/articles/24/07/24/iphone-17-again-said-to-kill-off-plus-size-in-favor-of-iphone-slim?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
