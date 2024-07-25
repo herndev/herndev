@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [We must not forget him.](http://9gag.com/gag/aBy1LrQ)
- - ⏩ [Faulty Processors](http://9gag.com/gag/aYQLGPO)
+ - 💣 [CCTV footage shows the moment a distressed Australian woman enters a Kebab house seeking help after being gang r*ped by 5 men of \u2018African appearance\u2019 in Paris.](http://9gag.com/gag/axyD302)
+ - ⏩ [GenieDislikesCloud](http://9gag.com/gag/aLn9eNW)
  - 👉 [You done messed up, A-A-Ron](http://9gag.com/gag/awyVg7y)<!-- MEMES:END -->
 
 ---
