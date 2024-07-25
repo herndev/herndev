@@ -46,7 +46,7 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Great success](http://9gag.com/gag/aqyLW9L)
+ - 💣 [One does not simply stop propaganda](http://9gag.com/gag/aGyD2o7)
  - ⏩ [Let the Logic Flow Through You](http://9gag.com/gag/avyn6yO)
  - 👉 [Mass Immigration is the direct key to decvilization](http://9gag.com/gag/a2v52qY)<!-- MEMES:END -->
 
