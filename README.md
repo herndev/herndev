@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Sea of Thieves Blazes Into Season 13](https://www.seaofthieves.com/news/season-13-launch#new_tab)
- - [Crowdstrike Says Sorry For Breaking Everything With $10 Uber Eats Coupons](https://kotaku.com/crowdstrike-microsoft-10-uber-eats-outage-1851604737)
- - [Fortnite: How To Complete The Second Set Of Pirate Code Quests](https://kotaku.com/fortnite-pirates-caribbean-quests-code-battle-pass-1851604605)<!-- GAME:END -->
+ - [Free Play Days – Sand Land, For Honor, Dead by Daylight and Unturned](https://news.xbox.com/en-us/2024/07/25/free-play-days-sand-land-for-honor-dead-by-daylight-and-unturned/)
+ - [I’m heartbroken no one likes my outfits in Dress to Impress](https://www.polygon.com/24205592/dress-to-impress-roblox)
+ - [Magic: The Gathering Crossovers Get Even Wilder With Monty Python And The Holy Grail](https://kotaku.com/magic-the-gathering-monty-python-holy-grail-crossover-1851604859)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
