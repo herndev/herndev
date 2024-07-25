@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Audition for Stomp group.](http://9gag.com/gag/a8742qZ)
- - ⏩ [A reporter managed to go to Gaza to interview some local residents, it&#39;s 3:07 but worth it.](http://9gag.com/gag/an71Rmo)
- - 👉 [Wholesome seemed proper](http://9gag.com/gag/ayN8W5b)<!-- MEMES:END -->
+ - 💣 [Cool but dead](http://9gag.com/gag/a2v50RY)
+ - ⏩ [Horse gets a belly rub](http://9gag.com/gag/a6ZQXZm)
+ - 👉 [China is preparing Covid-24](http://9gag.com/gag/ajPDK6p)<!-- MEMES:END -->
 
 ---
 
