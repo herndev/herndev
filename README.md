@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Survival instinct -9000](http://9gag.com/gag/apRLDNM)
- - ⏩ [Bro ain&#39;t a simp](http://9gag.com/gag/apRLDw5)
- - 👉 [I don&#39;t have a BBQ](http://9gag.com/gag/avynEXZ)<!-- MEMES:END -->
+ - 💣 [Great success](http://9gag.com/gag/aqyLW9L)
+ - ⏩ [Let the Logic Flow Through You](http://9gag.com/gag/avyn6yO)
+ - 👉 [Mass Immigration is the direct key to decvilization](http://9gag.com/gag/a2v52qY)<!-- MEMES:END -->
 
 ---
 
