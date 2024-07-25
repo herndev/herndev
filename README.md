@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Have you noticed any battery life issues with your Samsung Galaxy Watch 7?](https://www.androidauthority.com/galaxy-watch-7-battery-life-3464763/)
- - [Amazon Fire TV Stick 4K Max hits its lowest price again](https://www.androidauthority.com/amazon-fire-tv-stick-4k-max-deal-3464795/)
- - [First responder network RapidSOS adds Emergency SOS video support with iOS 18](https://appleinsider.com/articles/24/07/24/first-responder-network-rapidsos-adds-emergency-sos-video-support-with-ios-18?utm_medium=rss)<!-- TECH:END -->
+ - [Sonos apologizes for screwing up its revamped iOS app launch](https://appleinsider.com/articles/24/07/25/sonos-apologizes-for-screwing-up-its-revamped-ios-app-launch?utm_medium=rss)
+ - [How to watch the 2024 Summer Olympics: Streaming, live TV, and other options](https://www.androidauthority.com/how-to-watch-olympics-3464765/)
+ - [OpenAI says it partnered with publishers including WSJ and The Atlantic to build its search engine SearchGPT; publishers can manage how their content appears &lpar;Deepa Seetharaman/Wall Street Journal&rpar;](http://www.techmeme.com/240725/p28#a240725p28)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
