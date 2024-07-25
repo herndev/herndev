@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [James Wan shows first look at Peacock horror series at SDCC](https://www.polygon.com/sdcc/24205445/james-wan-teacup-trailer-peacock-release-date-cast)
- - [Legacy of Kain: Soul Reaver remasters may have just leaked out of Comic-Con](https://www.polygon.com/24206416/legacy-of-kain-soul-reaver-remastered-crystal-dynamics)
- - [Official Xbox Podcast: Hands on with The Deadpool Controller](https://news.xbox.com/en-us/podcast/hands-on-with-the-deadpool-controller-official-xbox-podcast/#new_tab)<!-- GAME:END -->
+ - [Videogame voice actors are officially on strike over AI: &#39;We refuse this paradigm&#39;](https://www.pcgamer.com/gaming-industry/videogame-voice-actors-are-officially-on-strike-over-ai-we-refuse-this-paradigm)
+ - [Cyberpunk adventure Nobody Wants to Die feels like if you made an entire game out of the boring no-combat intro of a triple-A FPS](https://www.pcgamer.com/games/adventure/cyberpunk-adventure-nobody-wants-to-die-feels-like-if-you-made-an-entire-game-out-of-the-boring-no-combat-intro-of-a-triple-a-fps)
+ - [The Percy Jackson SDCC panel reveals season 2’s cyclops brother](https://www.polygon.com/sdcc/2024/7/25/24204516/percy-jackson-olympians-season-2-tyson-casting)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
