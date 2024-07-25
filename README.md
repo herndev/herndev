@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Don&#39;t forget the sauce](http://9gag.com/gag/a6ZQBnR)
- - ⏩ [Karl Urban is a credible actor. What movie or series have you seen him in and did you like it?](http://9gag.com/gag/a874md6)
- - 👉 [As i get older this always hits harder](http://9gag.com/gag/aD2G73O)<!-- MEMES:END -->
+ - 💣 [Day 1 France 2024 Olympic Games: 1- Australian Cycling team robbed. 2- Match abandoned due to violence 3- Trans woman delivered Olympic flame.](http://9gag.com/gag/a34jyp5)
+ - ⏩ [Mindly interesting](http://9gag.com/gag/a8740Ge)
+ - 👉 [Got to love indie games.](http://9gag.com/gag/a6ZQ982)<!-- MEMES:END -->
 
 ---
 
