@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [GTA Online update for the week of July 25](https://www.polygon.com/gta-online-guides/24206077/july-25-weekly-update-events-pizza-delivery)
- - [Marvel Rivals&#39; closed beta is aggressively bad and turns my favourite Marvel villain into a glorified babysitter](https://www.pcgamer.com/games/third-person-shooter/marvel-rivals-closed-beta-is-aggressively-bad-and-turns-my-favourite-marvel-villain-into-a-glorified-babysitter)
- - [Behold $1,000 Worth Of Amazing-Looking Final Fantasy VII Action Figures](https://kotaku.com/final-fantasy-vii-rebirth-ff7-action-figures-pre-order-1851604838)<!-- GAME:END -->
+ - [World of Tanks Metal Fest: How Motorhead’s Iconic Mascot Was Brought to Life By… A Puggle](https://news.xbox.com/en-us/2024/07/25/world-of-tanks-metal-fest-how-motorheads-iconic-mascot-was-brought-to-life-by-a-puggle/)
+ - [MrBeast &#39;disgusted&#39; by grooming allegations aimed at channel co-host, removes her from &#39;any association with MrBeast&#39; and hires investigators to look into the claims](https://www.pcgamer.com/gaming-industry/mrbeast-disgusted-by-grooming-allegations-aimed-at-channel-co-host-removes-her-from-any-association-with-mrbeast-and-hires-investigators-to-look-into-the-claims)
+ - [iFixit CEO takes shots at Anthropic for &#39;hitting our servers a million times in 24 hours&#39; and even the AI company&#39;s own chatbot disapproves](https://www.pcgamer.com/software/ai/ifixit-ceo-takes-shots-at-anthropic-for-hitting-our-servers-a-million-times-in-24-hours-and-even-the-ai-companys-own-chatbot-disapproves)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
