@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Day 1 France 2024 Olympic Games: 1- Australian Cycling team robbed. 2- Match abandoned due to violence 3- Trans woman delivered Olympic flame.](http://9gag.com/gag/a34jyp5)
- - ⏩ [Wholesome seemed proper](http://9gag.com/gag/ayN8W5b)
- - 👉 [Mom films her child showing off the most venomous octopus to the camera.](http://9gag.com/gag/a34j5Ve)<!-- MEMES:END -->
+ - 💣 [Some day in uk, be the most beautiful in uk](http://9gag.com/gag/aKG31jg)
+ - ⏩ [Kirby&#39;s Bold Request](http://9gag.com/gag/aryNy5X)
+ - 👉 [You done messed up, A-A-Ron](http://9gag.com/gag/awyVg7y)<!-- MEMES:END -->
 
 ---
 
