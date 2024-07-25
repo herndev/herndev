@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Home is ready to stop you from leaving the garage door open](https://www.androidauthority.com/google-home-garage-door-3464910/)
- - [Peacock’s horror thriller Teacup starts streaming in October](https://www.theverge.com/24205137/teacup-date-teaser-peacock-horror-sdcc-2024)
- - [Epic will bring Fortnite to third-party iOS app stores](https://www.theverge.com/2024/7/25/24206372/epic-games-fortnite-third-party-ios-app-stores-altstore)<!-- TECH:END -->
+ - [Leaked promo material reveals Pixel 9 series specs: all phones powered by Tensor G4, Pixel 9 Pro in 6.3-inch and 6.8-inch models with 16GB of RAM, and more &lpar;G.S Vasan/91mobiles&rpar;](http://www.techmeme.com/240725/p36#a240725p36)
+ - [I&#39;m a Full-Time Creator -- Here&#39;s All the Video Gear I Use video](https://www.cnet.com/videos/im-a-full-time-creator-heres-all-the-video-gear-i-use/#ftag=CAD590a51e)
+ - [Best Wireless Earbuds and Headphones for Your Samsung Phone in 2024](https://www.cnet.com/tech/mobile/best-wireless-earbuds-and-headphones-for-samsung-phones/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
