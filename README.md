@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Day 1 France 2024 Olympic Games: 1- Australian Cycling team robbed. 2- Match abandoned due to violence 3- Trans woman delivered Olympic flame.](http://9gag.com/gag/a34jyp5)
- - ⏩ [Mindly interesting](http://9gag.com/gag/a8740Ge)
- - 👉 [Got to love indie games.](http://9gag.com/gag/a6ZQ982)<!-- MEMES:END -->
+ - 💣 [We all knew someone like Lance and Greg](http://9gag.com/gag/aAyPEQo)
+ - ⏩ [You done messed up, A-A-Ron](http://9gag.com/gag/awyVg7y)
+ - 👉 [A reporter managed to go to Gaza to interview some local residents, it&#39;s 3:07 but worth it.](http://9gag.com/gag/an71Rmo)<!-- MEMES:END -->
 
 ---
 
