@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Download: OnePlus Nord 4 gets its first update with AI Best Face and other camera improvements](https://www.androidauthority.com/download-oneplus-nord-4-ai-best-face-update-3464595/)
- - [Coast-to-coast in a solar-powered car — and a new Cannonball Run record](https://www.theverge.com/2024/7/25/24205583/cannonball-run-solar-powered-car-record-cross-country)
- - [Apple is about to open its new research lab in Shenzhen](https://appleinsider.com/articles/24/07/25/apple-is-about-to-open-its-new-research-lab-in-shenzhen?utm_medium=rss)<!-- TECH:END -->
+ - [The Disney Plus, Hulu, and Max streaming bundle is now available](https://www.theverge.com/2024/7/25/24205865/disney-plus-hulu-max-streaming-bundle-price-availability)
+ - [The massive Fallout: London mod is now available](https://www.theverge.com/2024/7/25/24205219/fallout-london-mod-now-available)
+ - [The Galaxy Ring keeps you in Samsung’s orbit](https://www.theverge.com/24205156/samsung-galaxy-ring-review-smart-ring-wearables)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
