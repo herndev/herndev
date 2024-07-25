@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Anthropic says it does not support California&#39;s AI safety bill and suggests changes, including a shift from &quot;pre-harm enforcement&quot; to &quot;outcome-based deterrence&quot; &lpar;Ashley Gold/Axios&rpar;](http://www.techmeme.com/240725/p33#a240725p33)
- - [San Diego Comic-Con 2024: all the biggest trailers and news](https://www.theverge.com/24205446/san-diego-comic-con-2024-news-trailers-announcements-marvel)
- - [Epic plans to bring its mobile games to AltStore on iOS in the EU, and remove its games from the Galaxy Store due to Samsung blocking sideloading by default &lpar;Epic Games&rpar;](http://www.techmeme.com/240725/p32#a240725p32)<!-- TECH:END -->
+ - [Google Home is ready to stop you from leaving the garage door open](https://www.androidauthority.com/google-home-garage-door-3464910/)
+ - [Peacock’s horror thriller Teacup starts streaming in October](https://www.theverge.com/24205137/teacup-date-teaser-peacock-horror-sdcc-2024)
+ - [Epic will bring Fortnite to third-party iOS app stores](https://www.theverge.com/2024/7/25/24206372/epic-games-fortnite-third-party-ios-app-stores-altstore)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
