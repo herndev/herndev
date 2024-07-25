@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How to Get Through an Exhausting Night in Your Own Style in Exhausted Man](https://news.xbox.com/en-us/2024/07/25/how-to-get-through-an-exhausting-night-in-in-exhausted-man/)
- - [Dragon Age: The Veilguard is Steam Deck verified, though we still don&#39;t know the system requirements](https://www.pcgamer.com/games/rpg/dragon-age-the-veilguard-is-steam-deck-verified-though-we-still-dont-know-the-system-requirements)
- - [Motordoom is a &#39;freestyle-sports roguelite horde shooter&#39; about skeletons on motorcycles](https://www.pcgamer.com/games/motordoom-is-a-freestyle-sports-roguelite-horde-shooter-about-skeletons-on-motorcycles)<!-- GAME:END -->
+ - [State of Decay 2’s #SummerOfSurvival – New Update Benefits the American Red Cross](https://news.xbox.com/en-us/2024/07/25/state-of-decay-2-summer-of-survival-red-cross-bloodmobile/)
+ - [&#39;There aren&#39;t 3 new wolf simulation games coming out every month&#39;: 17 years in, this multiplayer wolf edutainment game from the Minnesota Zoo has an improbably loyal fandom keeping it alive](https://www.pcgamer.com/games/sim/there-arent-3-new-wolf-simulation-games-coming-out-every-month-17-years-in-this-multiplayer-wolf-edutainment-game-from-the-minnesota-zoo-has-an-improbably-loyal-fandom-keeping-it-alive)
+ - [Collegiate League of Legends and Valorant champs have to pay for their own trophies](https://www.polygon.com/24206053/collegiate-league-of-legends-valorant-tournament-trophies)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
