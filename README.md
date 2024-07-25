@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Oyen Digital U34 Bolt SSD review - Enormous drive speed in a rugged package](https://appleinsider.com/articles/24/07/24/oyen-digital-u34-bolt-ssd-review---enormous-drive-speed-in-a-rugged-package?utm_medium=rss)
- - [Microsoft unveils Bing generative search, which shows AI-generated answers with the sources used to create them, currently available to a small subset of users &lpar;Zac Bowden/Windows Central&rpar;](http://www.techmeme.com/240724/p35#a240724p35)
- - [A new Nest Learning Thermostat might be on the way](https://www.theverge.com/2024/7/24/24205541/google-nest-learning-thermostat-4th-gen-leaks)<!-- TECH:END -->
+ - [Leaked specs for the rumored ‘ultra-slim’ iPhone 17 paint a disappointing picture](https://www.androidauthority.com/iphone-17-slim-specs-leak-3464453/)
+ - [AMD delays its Zen 5 Ryzen 9000 launch, originally set for July, to August due to an unspecified quality issue, and pulls back all units shipped to replace them &lpar;Paul Alcorn/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/240724/p37#a240724p37)
+ - [Privacy-focused developer Proton debuts a self-custody bitcoin wallet, its first cryptocurrency product, initially available to early access users &lpar;Romain Dillet/TechCrunch&rpar;](http://www.techmeme.com/240724/p36#a240724p36)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
