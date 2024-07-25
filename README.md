@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nothing teases what upgrades to expect from Phone 2a Plus](https://www.androidauthority.com/nothing-phone-2a-plus-specs-3464821/)
- - [SAG-AFTRA announces a strike starting Friday against major video game companies, including EA, after talks for a new contract broke down over AI protections &lpar;Sarah Parvini/Associated Press&rpar;](http://www.techmeme.com/240725/p30#a240725p30)
- - [Streaming platform Max goes global with SharePlay support, but there’s a catch](https://www.androidauthority.com/max-shareplay-support-3464814/)<!-- TECH:END -->
+ - [Anthropic says it does not support California&#39;s AI safety bill and suggests changes, including a shift from &quot;pre-harm enforcement&quot; to &quot;outcome-based deterrence&quot; &lpar;Ashley Gold/Axios&rpar;](http://www.techmeme.com/240725/p33#a240725p33)
+ - [San Diego Comic-Con 2024: all the biggest trailers and news](https://www.theverge.com/24205446/san-diego-comic-con-2024-news-trailers-announcements-marvel)
+ - [Epic plans to bring its mobile games to AltStore on iOS in the EU, and remove its games from the Galaxy Store due to Samsung blocking sideloading by default &lpar;Epic Games&rpar;](http://www.techmeme.com/240725/p32#a240725p32)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
