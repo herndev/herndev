@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Mass Immigration is the direct key to decvilization](http://9gag.com/gag/a2v52qY)
- - ⏩ [Got to love indie games.](http://9gag.com/gag/a6ZQ982)
- - 👉 [Day 1 France 2024 Olympic Games: 1- Australian Cycling team robbed. 2- Match abandoned due to violence 3- Trans woman delivered Olympic flame.](http://9gag.com/gag/a34jyp5)<!-- MEMES:END -->
+ - 💣 [What\u2019s going on at Yellowstone today?](http://9gag.com/gag/amoz1Xd)
+ - ⏩ [When someone pranks your man on your big day \ud83d\udc4f\ud83c\udffb](http://9gag.com/gag/aO8v82N)
+ - 👉 [Bro ain&#39;t a simp](http://9gag.com/gag/apRLDw5)<!-- MEMES:END -->
 
 ---
 
