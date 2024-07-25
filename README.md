@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple reiterates stance on privacy as a human right in new interview](https://appleinsider.com/articles/24/07/25/apple-reiterates-stance-on-privacy-as-a-human-right-in-new-interview?utm_medium=rss)
- - [SK Hynix Q2: revenue up 125% YoY to ~$11.86B, operating profit of ~$3.96B, its highest quarterly profit in six years, and sees further rising chip demand in H2 &lpar;Reuters&rpar;](http://www.techmeme.com/240724/p38#a240724p38)
- - [Amazon is discontinuing my favorite Echo — the one with a dot-matrix clock](https://www.theverge.com/2024/7/24/24205675/amazon-discontinue-echo-dot-with-clock)<!-- TECH:END -->
+ - [Meta removes ~63K Instagram accounts used by sextortion scammers in Nigeria, along with ~7,200 Facebook assets, including accounts linked to the Yahoo Boys &lpar;Olivia Carville/Bloomberg&rpar;](http://www.techmeme.com/240724/p41#a240724p41)
+ - [Microsoft says Bing stopped crawling Reddit after Reddit updated its robots.txt file on July 1 &lpar;Barry Schwartz/Search Engine Land&rpar;](http://www.techmeme.com/240724/p40#a240724p40)
+ - [Elon Musk&#39;s poll asking if Tesla should invest $5B in xAI ends with 67.9% voting yes, after Musk said on Tesla&#39;s earnings call that he supported the idea &lpar;Dana Hull/Bloomberg&rpar;](http://www.techmeme.com/240724/p39#a240724p39)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
