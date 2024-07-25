@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Dungeons and Kingdoms is an upcoming game that&#39;s about exactly what it sounds like: dungeon crawling and kingdom management](https://www.pcgamer.com/games/sim/dungeons-and-kingdoms-is-an-upcoming-game-thats-about-exactly-what-it-sounds-like-dungeon-crawling-and-kingdom-management)
- - [New PS5 beta update makes roommate-friendly changes to Remote Play, audio](https://www.polygon.com/24205485/ps5-beta-update-remote-play-audio)
- - [Blizzard&#39;s World of Warcraft team has unionized](https://www.pcgamer.com/games/mmo/blizzards-world-of-warcraft-team-has-unionized)<!-- GAME:END -->
+ - [As an old guy playing Stardew Valley, I should be allowed to date the bus driver](https://www.pcgamer.com/games/life-sim/as-an-old-guy-playing-stardew-valley-i-should-be-allowed-to-date-the-bus-driver)
+ - [Stormgate developers say they want to lower the RTS skill floor, not the skill ceiling: &#39;It&#39;s okay to be a high-skill game&#39;](https://www.pcgamer.com/games/rts/stormgate-developers-say-they-want-to-lower-the-rts-skill-floor-not-the-skill-ceiling-its-okay-to-be-a-high-skill-game)
+ - [Dungeons and Kingdoms is an upcoming game that&#39;s about exactly what it sounds like: dungeon crawling and kingdom management](https://www.pcgamer.com/games/sim/dungeons-and-kingdoms-is-an-upcoming-game-thats-about-exactly-what-it-sounds-like-dungeon-crawling-and-kingdom-management)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
