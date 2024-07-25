@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [We all knew someone like Lance and Greg](http://9gag.com/gag/aAyPEQo)
- - ⏩ [When someone pranks your man on your big day \ud83d\udc4f\ud83c\udffb](http://9gag.com/gag/aO8v82N)
- - 👉 [Bro ain&#39;t a simp](http://9gag.com/gag/apRLDw5)<!-- MEMES:END -->
+ - 💣 [Wholesome seemed proper](http://9gag.com/gag/ayN8W5b)
+ - ⏩ [It&#39;s a nice thing going on around here, thank you.](http://9gag.com/gag/a6ZQ9R8)
+ - 👉 [CCTV footage shows the moment a distressed Australian woman enters a Kebab house seeking help after being gang r*ped by 5 men of \u2018African appearance\u2019 in Paris.](http://9gag.com/gag/axyD302)<!-- MEMES:END -->
 
 ---
 
