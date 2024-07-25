@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How to get Mythbrine Aethersand in Final Fantasy 14: Dawntrail](https://www.pcgamer.com/games/final-fantasy/ff14-mythbrine-aethersand-location)
- - [Earth Defense Force 6 review](https://www.pcgamer.com/games/third-person-shooter/earth-defense-force-6-review)
- - [DLC-sized Fallout 4 mod Fallout: London will be out tomorrow, &#39;Unless nuclear war happens&#39;](https://www.pcgamer.com/games/rpg/dlc-sized-fallout-4-mod-fallout-london-will-be-out-tomorrow-unless-nuclear-war-happens)<!-- GAME:END -->
+ - [Asus ROG Ally X review](https://www.pcgamer.com/hardware/handheld-gaming-pcs/asus-rog-ally-x-review)
+ - [Blizzard mends rift with Whoopi Goldberg at Whoopi Goldberg-themed weed event as Diablo 4&#39;s Lilith presents star with &#39;key to hell&#39;](https://www.pcgamer.com/games/rpg/blizzard-mends-rift-with-whoopi-goldberg-at-whoopi-goldberg-themed-weed-event-as-diablo-4s-lilith-presents-star-with-key-to-hell)
+ - [The MSI Claw and Stealth 14 are great compact companions for gaming this summer](https://www.pcgamer.com/hardware/gaming-laptops/the-msi-claw-and-stealth-14-are-great-compact-companions-for-gaming-this-summer)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
