@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Disney Plus, Hulu, and Max streaming bundle is now available](https://www.theverge.com/2024/7/25/24205865/disney-plus-hulu-max-streaming-bundle-price-availability)
- - [The massive Fallout: London mod is now available](https://www.theverge.com/2024/7/25/24205219/fallout-london-mod-now-available)
- - [The Galaxy Ring keeps you in Samsung’s orbit](https://www.theverge.com/24205156/samsung-galaxy-ring-review-smart-ring-wearables)<!-- TECH:END -->
+ - [Elgato transforms its Stream Deck Plus with new XLR dock and USB hub accessories](https://www.theverge.com/2024/7/25/24205963/elgato-stream-deck-plus-xlr-usb-dock-accessories)
+ - [OpenAI introduces Rule-Based Rewards, a method to automate some model fine-tuning and cut down the time required to ensure a model behaves safely &lpar;Emilia David/VentureBeat&rpar;](http://www.techmeme.com/240725/p16#a240725p16)
+ - [Leagues Cup returns to Apple TV&#39;s MLS Season Pass](https://appleinsider.com/articles/24/07/25/leagues-cup-returns-to-apple-tvs-mls-season-pass?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
