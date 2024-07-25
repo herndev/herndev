@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Some day in uk, be the most beautiful in uk](http://9gag.com/gag/aKG31jg)
- - ⏩ [Kirby&#39;s Bold Request](http://9gag.com/gag/aryNy5X)
- - 👉 [You done messed up, A-A-Ron](http://9gag.com/gag/awyVg7y)<!-- MEMES:END -->
+ - 💣 [GIVE PEOPLE WHAT THEY WANT](http://9gag.com/gag/a6ZQ5nb)
+ - ⏩ [Alisa amore ...her cat is beautiful](http://9gag.com/gag/amozGKo)
+ - 👉 [Bbq in a brazilian beach - Rate my setup](http://9gag.com/gag/azxAKpZ)<!-- MEMES:END -->
 
 ---
 
