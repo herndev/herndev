@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Mass Immigration is the direct key to decvilization](http://9gag.com/gag/a2v52qY)
- - ⏩ [Newly released footage of the collapse of the WTC towers on 9/11 by Kei Sugimoto](http://9gag.com/gag/aRBevEA)
- - 👉 [Wholesome seemed proper](http://9gag.com/gag/ayN8W5b)<!-- MEMES:END -->
+ - 💣 [A reporter managed to go to Gaza to interview some local residents, it&#39;s 3:07 but worth it.](http://9gag.com/gag/an71Rmo)
+ - ⏩ [China is preparing Covid-24](http://9gag.com/gag/ajPDK6p)
+ - 👉 [Mindly interesting](http://9gag.com/gag/a8740Ge)<!-- MEMES:END -->
 
 ---
 
