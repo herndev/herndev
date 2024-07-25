@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [9gagers rn](http://9gag.com/gag/aAyP2g0)
- - ⏩ [Great success](http://9gag.com/gag/aqyLW9L)
- - 👉 [Newly released footage of the collapse of the WTC towers on 9/11 by Kei Sugimoto](http://9gag.com/gag/aRBevEA)<!-- MEMES:END -->
+ - 💣 [Survival instinct -9000](http://9gag.com/gag/apRLDNM)
+ - ⏩ [Bro ain&#39;t a simp](http://9gag.com/gag/apRLDw5)
+ - 👉 [I don&#39;t have a BBQ](http://9gag.com/gag/avynEXZ)<!-- MEMES:END -->
 
 ---
 
