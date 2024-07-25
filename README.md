@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The latest round of absurd Baldur&#39;s Gate 3 mods include a better Bing Bong and mankinis for the boys](https://www.pcgamer.com/games/rpg/the-latest-round-of-absurd-baldurs-gate-3-mods-include-a-better-bing-bong-and-mankinis-for-the-boys)
- - [As an old guy playing Stardew Valley, I should be allowed to date the bus driver](https://www.pcgamer.com/games/life-sim/as-an-old-guy-playing-stardew-valley-i-should-be-allowed-to-date-the-bus-driver)
- - [Stormgate developers say they want to lower the RTS skill floor, not the skill ceiling: &#39;It&#39;s okay to be a high-skill game&#39;](https://www.pcgamer.com/games/rts/stormgate-developers-say-they-want-to-lower-the-rts-skill-floor-not-the-skill-ceiling-its-okay-to-be-a-high-skill-game)<!-- GAME:END -->
+ - [DLC-sized Fallout 4 mod Fallout: London will be out tomorrow, &#39;Unless nuclear war happens&#39;](https://www.pcgamer.com/games/rpg/dlc-sized-fallout-4-mod-fallout-london-will-be-out-tomorrow-unless-nuclear-war-happens)
+ - [Today&#39;s Wordle answer for Thursday, July 25](https://www.pcgamer.com/games/puzzle/wordle-answer-today-july-25-2024)
+ - [The latest round of absurd Baldur&#39;s Gate 3 mods include a better Bing Bong and mankinis for the boys](https://www.pcgamer.com/games/rpg/the-latest-round-of-absurd-baldurs-gate-3-mods-include-a-better-bing-bong-and-mankinis-for-the-boys)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
