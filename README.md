@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Day 1 France 2024 Olympic Games: 1- Australian Cycling team robbed. 2- Match abandoned due to violence 3- Trans woman delivered Olympic flame.](http://9gag.com/gag/a34jyp5)
- - ⏩ [Bro ain&#39;t a simp](http://9gag.com/gag/apRLDw5)
- - 👉 [CCTV footage shows the moment a distressed Australian woman enters a Kebab house seeking help after being gang r*ped by 5 men of \u2018African appearance\u2019 in Paris.](http://9gag.com/gag/axyD302)<!-- MEMES:END -->
+ - 💣 [A reporter managed to go to Gaza to interview some local residents, it&#39;s 3:07 but worth it.](http://9gag.com/gag/an71Rmo)
+ - ⏩ [When someone pranks your man on your big day \ud83d\udc4f\ud83c\udffb](http://9gag.com/gag/aO8v82N)
+ - 👉 [One of the best Star Wars fights](http://9gag.com/gag/aryN3zV)<!-- MEMES:END -->
 
 ---
 
