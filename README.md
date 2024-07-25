@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Day 1 France 2024 Olympic Games: 1- Australian Cycling team robbed. 2- Match abandoned due to violence 3- Trans woman delivered Olympic flame.](http://9gag.com/gag/a34jyp5)
- - ⏩ [A reporter managed to go to Gaza to interview some local residents, it&#39;s 3:07 but worth it.](http://9gag.com/gag/an71Rmo)
- - 👉 [Newly released footage of the collapse of the WTC towers on 9/11 by Kei Sugimoto](http://9gag.com/gag/aRBevEA)<!-- MEMES:END -->
+ - 💣 [We must not forget him.](http://9gag.com/gag/aBy1LrQ)
+ - ⏩ [Faulty Processors](http://9gag.com/gag/aYQLGPO)
+ - 👉 [You done messed up, A-A-Ron](http://9gag.com/gag/awyVg7y)<!-- MEMES:END -->
 
 ---
 
