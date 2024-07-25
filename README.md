@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [One does not simply stop propaganda](http://9gag.com/gag/aGyD2o7)
- - ⏩ [Let the Logic Flow Through You](http://9gag.com/gag/avyn6yO)
- - 👉 [Mass Immigration is the direct key to decvilization](http://9gag.com/gag/a2v52qY)<!-- MEMES:END -->
+ - 💣 [Mass Immigration is the direct key to decvilization](http://9gag.com/gag/a2v52qY)
+ - ⏩ [Newly released footage of the collapse of the WTC towers on 9/11 by Kei Sugimoto](http://9gag.com/gag/aRBevEA)
+ - 👉 [Wholesome seemed proper](http://9gag.com/gag/ayN8W5b)<!-- MEMES:END -->
 
 ---
 
