@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Elgato transforms its Stream Deck Plus with new XLR dock and USB hub accessories](https://www.theverge.com/2024/7/25/24205963/elgato-stream-deck-plus-xlr-usb-dock-accessories)
- - [OpenAI introduces Rule-Based Rewards, a method to automate some model fine-tuning and cut down the time required to ensure a model behaves safely &lpar;Emilia David/VentureBeat&rpar;](http://www.techmeme.com/240725/p16#a240725p16)
- - [Leagues Cup returns to Apple TV&#39;s MLS Season Pass](https://appleinsider.com/articles/24/07/25/leagues-cup-returns-to-apple-tvs-mls-season-pass?utm_medium=rss)<!-- TECH:END -->
+ - [Southwest is switching to assigned seating](https://www.theverge.com/2024/7/25/24205975/southwest-assigned-seats-premium-change-falling-profits)
+ - [Anthropic’s crawler is ignoring websites’ anti-AI scraping policies](https://www.theverge.com/2024/7/25/24205943/anthropic-ai-web-crawler-claudebot-ifixit-scraping-training-data)
+ - [The best fitness trackers to buy right now](https://www.theverge.com/22985108/best-fitness-tracker)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
