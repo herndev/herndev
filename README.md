@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [An official app for PS VR2 on PC has just been listed on Steam](https://www.pcgamer.com/hardware/vr-hardware/an-official-app-for-ps-vr2-on-pc-has-just-been-listed-on-steam)
- - [Phantom Blade Zero devs say its interconnected world is &#39;like the Souls games before Elden Ring&#39;—which has turned my interest into attention](https://www.pcgamer.com/games/action/phantom-blade-zero-devs-say-its-interconnected-world-is-like-the-souls-games-before-elden-ring-which-has-turned-my-interest-into-attention)
- - [World of Tanks Modern Armor gets loud with Motörhead and Rob Zombie July 30](https://blog.playstation.com/2024/07/25/world-of-tanks-modern-armor-gets-loud-with-motorhead-and-rob-zombie-july-30/)<!-- GAME:END -->
+ - [After Life by You&#39;s disastrous end, Paradox chalks up a 90% drop in operating profit for Q2: &#39;We end the second quarter of the year with mixed feelings&#39;](https://www.pcgamer.com/gaming-industry/after-life-by-yous-disastrous-end-paradox-chalks-up-a-90-drop-in-operating-profit-for-q2-we-end-the-second-quarter-of-the-year-with-mixed-feelings)
+ - [Tekken 8 director spends months insisting &#39;Heihachi Mishima is completely dead&#39; before giggling and unveiling him as the newest DLC character anyway](https://www.pcgamer.com/games/fighting/tekken-8-director-spends-months-insisting-heihachi-mishima-is-completely-dead-before-giggling-and-unveiling-him-as-the-newest-dlc-character-anyway)
+ - [Apex Legends reverses &lpar;some of&rpar; the battle pass changes everyone hated](https://www.polygon.com/24205871/apex-legends-battle-pass-u-turn)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
