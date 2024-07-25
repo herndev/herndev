@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Asus ROG Ally X review](https://www.pcgamer.com/hardware/handheld-gaming-pcs/asus-rog-ally-x-review)
- - [Blizzard mends rift with Whoopi Goldberg at Whoopi Goldberg-themed weed event as Diablo 4&#39;s Lilith presents star with &#39;key to hell&#39;](https://www.pcgamer.com/games/rpg/blizzard-mends-rift-with-whoopi-goldberg-at-whoopi-goldberg-themed-weed-event-as-diablo-4s-lilith-presents-star-with-key-to-hell)
- - [The MSI Claw and Stealth 14 are great compact companions for gaming this summer](https://www.pcgamer.com/hardware/gaming-laptops/the-msi-claw-and-stealth-14-are-great-compact-companions-for-gaming-this-summer)<!-- GAME:END -->
+ - [An official app for PS VR2 on PC has just been listed on Steam](https://www.pcgamer.com/hardware/vr-hardware/an-official-app-for-ps-vr2-on-pc-has-just-been-listed-on-steam)
+ - [Phantom Blade Zero devs say its interconnected world is &#39;like the Souls games before Elden Ring&#39;—which has turned my interest into attention](https://www.pcgamer.com/games/action/phantom-blade-zero-devs-say-its-interconnected-world-is-like-the-souls-games-before-elden-ring-which-has-turned-my-interest-into-attention)
+ - [World of Tanks Modern Armor gets loud with Motörhead and Rob Zombie July 30](https://blog.playstation.com/2024/07/25/world-of-tanks-modern-armor-gets-loud-with-motorhead-and-rob-zombie-july-30/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
