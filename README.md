@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best Google Pixel 8a cases you can buy](https://www.androidauthority.com/best-google-pixel-8a-cases-3463944/)
- - [After investigating how Meta handles AI-generated explicit images, Oversight Board asks Meta to use the terminology &quot;non-consensual&quot; over &quot;derogatory&quot;, and more &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/240725/p11#a240725p11)
- - [Hands on: Everything new with CarPlay in iOS 18](https://appleinsider.com/articles/24/07/25/hands-on-everything-new-with-carplay-in-ios-18?utm_medium=rss)<!-- TECH:END -->
+ - [Download: OnePlus Nord 4 gets its first update with AI Best Face and other camera improvements](https://www.androidauthority.com/download-oneplus-nord-4-ai-best-face-update-3464595/)
+ - [Coast-to-coast in a solar-powered car — and a new Cannonball Run record](https://www.theverge.com/2024/7/25/24205583/cannonball-run-solar-powered-car-record-cross-country)
+ - [Apple is about to open its new research lab in Shenzhen](https://appleinsider.com/articles/24/07/25/apple-is-about-to-open-its-new-research-lab-in-shenzhen?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
