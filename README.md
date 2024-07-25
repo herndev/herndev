@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [State of Decay 2’s #SummerOfSurvival – New Update Benefits the American Red Cross](https://news.xbox.com/en-us/2024/07/25/state-of-decay-2-summer-of-survival-red-cross-bloodmobile/)
- - [&#39;There aren&#39;t 3 new wolf simulation games coming out every month&#39;: 17 years in, this multiplayer wolf edutainment game from the Minnesota Zoo has an improbably loyal fandom keeping it alive](https://www.pcgamer.com/games/sim/there-arent-3-new-wolf-simulation-games-coming-out-every-month-17-years-in-this-multiplayer-wolf-edutainment-game-from-the-minnesota-zoo-has-an-improbably-loyal-fandom-keeping-it-alive)
- - [Collegiate League of Legends and Valorant champs have to pay for their own trophies](https://www.polygon.com/24206053/collegiate-league-of-legends-valorant-tournament-trophies)<!-- GAME:END -->
+ - [Video Game Actors Go On Strike For AI Protections](https://kotaku.com/voice-actor-strike-sag-aftra-troy-baker-ai-cod-mw-3-1851604153)
+ - [9 Bad-Ass Ways Players Have Beat Elden Ring Bosses Without Normal Controllers](https://kotaku.com/elden-ring-weird-alternate-controllers-challenge-runs-1851605466)
+ - [Alaskan Road Truckers: Highway Edition – Ten Tips for Success](https://news.xbox.com/en-us/2024/07/25/alaskan-road-truckers-highway-edition-ten-tips/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
