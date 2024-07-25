@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Free Play Days – Sand Land, For Honor, Dead by Daylight and Unturned](https://news.xbox.com/en-us/2024/07/25/free-play-days-sand-land-for-honor-dead-by-daylight-and-unturned/)
- - [I’m heartbroken no one likes my outfits in Dress to Impress](https://www.polygon.com/24205592/dress-to-impress-roblox)
- - [Magic: The Gathering Crossovers Get Even Wilder With Monty Python And The Holy Grail](https://kotaku.com/magic-the-gathering-monty-python-holy-grail-crossover-1851604859)<!-- GAME:END -->
+ - [GTA Online update for the week of July 25](https://www.polygon.com/gta-online-guides/24206077/july-25-weekly-update-events-pizza-delivery)
+ - [Marvel Rivals&#39; closed beta is aggressively bad and turns my favourite Marvel villain into a glorified babysitter](https://www.pcgamer.com/games/third-person-shooter/marvel-rivals-closed-beta-is-aggressively-bad-and-turns-my-favourite-marvel-villain-into-a-glorified-babysitter)
+ - [Behold $1,000 Worth Of Amazing-Looking Final Fantasy VII Action Figures](https://kotaku.com/final-fantasy-vii-rebirth-ff7-action-figures-pre-order-1851604838)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
