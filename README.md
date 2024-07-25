@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [After Life by You&#39;s disastrous end, Paradox chalks up a 90% drop in operating profit for Q2: &#39;We end the second quarter of the year with mixed feelings&#39;](https://www.pcgamer.com/gaming-industry/after-life-by-yous-disastrous-end-paradox-chalks-up-a-90-drop-in-operating-profit-for-q2-we-end-the-second-quarter-of-the-year-with-mixed-feelings)
- - [Tekken 8 director spends months insisting &#39;Heihachi Mishima is completely dead&#39; before giggling and unveiling him as the newest DLC character anyway](https://www.pcgamer.com/games/fighting/tekken-8-director-spends-months-insisting-heihachi-mishima-is-completely-dead-before-giggling-and-unveiling-him-as-the-newest-dlc-character-anyway)
- - [Apex Legends reverses &lpar;some of&rpar; the battle pass changes everyone hated](https://www.polygon.com/24205871/apex-legends-battle-pass-u-turn)<!-- GAME:END -->
+ - [&#39;This is the most polished map we&#39;ve ever shipped&#39;: Hunt: Showdown 1896 director goes deep on Hunt&#39;s first new map in 3 years](https://www.pcgamer.com/games/this-is-the-most-polished-map-we-ve-ever-shipped-hunt-showdown-1896-director-goes-deep-on-hunt-s-first-new-map-in-3-years)
+ - [S.T.A.L.K.E.R. 2: New Release Date and Developer Deep Dive Coming Soon](https://www.youtube.com/watch?v=vxeGyXSM5Pc#new_tab)
+ - [Evo 2024: Hands-on report with new fighting game content](https://blog.playstation.com/2024/07/25/evo-2024-hands-on-report-with-new-fighting-game-content/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
