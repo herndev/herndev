@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Messages is now getting Snapchat-style face filters](https://www.androidauthority.com/google-messages-face-filters-launch-3463460/)
- - [A NASA-funded study of satellite data finds traffic-related N02 pollution spiked ~20% near ~150K large US warehouses, which have proliferated due to e-commerce &lpar;Justine Calma/The Verge&rpar;](http://www.techmeme.com/240725/p7#a240725p7)
- - [STMicro reports Q2 net revenue down 25.3% YoY to $3.23B and cuts its FY 2024 revenue outlook to $13.2B to $13.7B, down from a previous range of $14B to $15B &lpar;Michael Hennessey/Bloomberg&rpar;](http://www.techmeme.com/240725/p6#a240725p6)<!-- TECH:END -->
+ - [Apple Maps launches web app 19 years after Google Maps, but it still hates your Android phone](https://www.androidauthority.com/apple-maps-launches-web-app-3464524/)
+ - [No surprise: Microsoft confirms Reddit has blocked Bing](https://www.androidauthority.com/microsoft-confirm-reddit-block-bing-3464523/)
+ - [Revolut secures a preliminary UK banking license, ending a three-year long regulatory battle; the London-based fintech has ~9M UK customers and 45M+ globally &lpar;Akila Quinio/Financial Times&rpar;](http://www.techmeme.com/240725/p8#a240725p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
