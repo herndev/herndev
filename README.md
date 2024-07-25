@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [GIVE PEOPLE WHAT THEY WANT](http://9gag.com/gag/a6ZQ5nb)
- - ⏩ [Alisa amore ...her cat is beautiful](http://9gag.com/gag/amozGKo)
- - 👉 [Bbq in a brazilian beach - Rate my setup](http://9gag.com/gag/azxAKpZ)<!-- MEMES:END -->
+ - 💣 [Don&#39;t forget the sauce](http://9gag.com/gag/a6ZQBnR)
+ - ⏩ [Karl Urban is a credible actor. What movie or series have you seen him in and did you like it?](http://9gag.com/gag/a874md6)
+ - 👉 [As i get older this always hits harder](http://9gag.com/gag/aD2G73O)<!-- MEMES:END -->
 
 ---
 
