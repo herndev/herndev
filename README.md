@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [CCTV footage shows the moment a distressed Australian woman enters a Kebab house seeking help after being gang r*ped by 5 men of \u2018African appearance\u2019 in Paris.](http://9gag.com/gag/axyD302)
- - ⏩ [GenieDislikesCloud](http://9gag.com/gag/aLn9eNW)
- - 👉 [You done messed up, A-A-Ron](http://9gag.com/gag/awyVg7y)<!-- MEMES:END -->
+ - 💣 [9gagers rn](http://9gag.com/gag/aAyP2g0)
+ - ⏩ [Great success](http://9gag.com/gag/aqyLW9L)
+ - 👉 [Newly released footage of the collapse of the WTC towers on 9/11 by Kei Sugimoto](http://9gag.com/gag/aRBevEA)<!-- MEMES:END -->
 
 ---
 
