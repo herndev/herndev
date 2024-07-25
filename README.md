@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Video Game Actors Go On Strike For AI Protections](https://kotaku.com/voice-actor-strike-sag-aftra-troy-baker-ai-cod-mw-3-1851604153)
- - [9 Bad-Ass Ways Players Have Beat Elden Ring Bosses Without Normal Controllers](https://kotaku.com/elden-ring-weird-alternate-controllers-challenge-runs-1851605466)
- - [Alaskan Road Truckers: Highway Edition – Ten Tips for Success](https://news.xbox.com/en-us/2024/07/25/alaskan-road-truckers-highway-edition-ten-tips/)<!-- GAME:END -->
+ - [Hollywood billionaires Mario and Sonic now too good for the Olympic Games](https://www.pcgamer.com/gaming-industry/hollywood-billionaires-mario-and-sonic-now-too-good-for-the-olympic-games)
+ - [The voices of your favorite video game characters are going on strike](https://www.polygon.com/24206352/sag-aftra-video-game-performer-strike-ea-disney-activision)
+ - [Earth Defense Force 6 gets review bombed on Steam over a surprise Epic account requirement when we should all be bombing giant bugs instead](https://www.pcgamer.com/games/action/earth-defense-force-6-gets-review-bombed-on-steam-over-a-surprise-epic-account-requirement-when-we-should-all-be-bombing-giant-bugs-instead)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
