@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Southwest is switching to assigned seating](https://www.theverge.com/2024/7/25/24205975/southwest-assigned-seats-premium-change-falling-profits)
- - [Anthropic’s crawler is ignoring websites’ anti-AI scraping policies](https://www.theverge.com/2024/7/25/24205943/anthropic-ai-web-crawler-claudebot-ifixit-scraping-training-data)
- - [The best fitness trackers to buy right now](https://www.theverge.com/22985108/best-fitness-tracker)<!-- TECH:END -->
+ - [Google DeepMind rolls out AlphaProof AI model, which specializes in math reasoning, and AlphaGeometry 2, an updated version of a model focused on geometry &lpar;Bloomberg&rpar;](http://www.techmeme.com/240725/p22#a240725p22)
+ - [Google DeepMind’s Game-Playing AI Tackles a Chatbot Blind Spot](https://www.wired.com/story/google-deepmind-alphaproof-ai-math/)
+ - [Oyen Digital U34 Bolt SSD review - Enormous drive speed in a rugged package](https://appleinsider.com/articles/24/07/24/oyen-digital-u34-bolt-ssd-review---enormous-drive-speed-in-a-rugged-package?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
