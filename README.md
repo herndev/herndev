@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Hollywood billionaires Mario and Sonic now too good for the Olympic Games](https://www.pcgamer.com/gaming-industry/hollywood-billionaires-mario-and-sonic-now-too-good-for-the-olympic-games)
- - [The voices of your favorite video game characters are going on strike](https://www.polygon.com/24206352/sag-aftra-video-game-performer-strike-ea-disney-activision)
- - [Earth Defense Force 6 gets review bombed on Steam over a surprise Epic account requirement when we should all be bombing giant bugs instead](https://www.pcgamer.com/games/action/earth-defense-force-6-gets-review-bombed-on-steam-over-a-surprise-epic-account-requirement-when-we-should-all-be-bombing-giant-bugs-instead)<!-- GAME:END -->
+ - [James Wan shows first look at Peacock horror series at SDCC](https://www.polygon.com/sdcc/24205445/james-wan-teacup-trailer-peacock-release-date-cast)
+ - [Legacy of Kain: Soul Reaver remasters may have just leaked out of Comic-Con](https://www.polygon.com/24206416/legacy-of-kain-soul-reaver-remastered-crystal-dynamics)
+ - [Official Xbox Podcast: Hands on with The Deadpool Controller](https://news.xbox.com/en-us/podcast/hands-on-with-the-deadpool-controller-official-xbox-podcast/#new_tab)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
