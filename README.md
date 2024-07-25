@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [World of Tanks Metal Fest: How Motorhead’s Iconic Mascot Was Brought to Life By… A Puggle](https://news.xbox.com/en-us/2024/07/25/world-of-tanks-metal-fest-how-motorheads-iconic-mascot-was-brought-to-life-by-a-puggle/)
- - [MrBeast &#39;disgusted&#39; by grooming allegations aimed at channel co-host, removes her from &#39;any association with MrBeast&#39; and hires investigators to look into the claims](https://www.pcgamer.com/gaming-industry/mrbeast-disgusted-by-grooming-allegations-aimed-at-channel-co-host-removes-her-from-any-association-with-mrbeast-and-hires-investigators-to-look-into-the-claims)
- - [iFixit CEO takes shots at Anthropic for &#39;hitting our servers a million times in 24 hours&#39; and even the AI company&#39;s own chatbot disapproves](https://www.pcgamer.com/software/ai/ifixit-ceo-takes-shots-at-anthropic-for-hitting-our-servers-a-million-times-in-24-hours-and-even-the-ai-companys-own-chatbot-disapproves)<!-- GAME:END -->
+ - [How to Get Through an Exhausting Night in Your Own Style in Exhausted Man](https://news.xbox.com/en-us/2024/07/25/how-to-get-through-an-exhausting-night-in-in-exhausted-man/)
+ - [Dragon Age: The Veilguard is Steam Deck verified, though we still don&#39;t know the system requirements](https://www.pcgamer.com/games/rpg/dragon-age-the-veilguard-is-steam-deck-verified-though-we-still-dont-know-the-system-requirements)
+ - [Motordoom is a &#39;freestyle-sports roguelite horde shooter&#39; about skeletons on motorcycles](https://www.pcgamer.com/games/motordoom-is-a-freestyle-sports-roguelite-horde-shooter-about-skeletons-on-motorcycles)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
