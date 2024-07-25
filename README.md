@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Maps launches web app 19 years after Google Maps, but it still hates your Android phone](https://www.androidauthority.com/apple-maps-launches-web-app-3464524/)
- - [No surprise: Microsoft confirms Reddit has blocked Bing](https://www.androidauthority.com/microsoft-confirm-reddit-block-bing-3464523/)
- - [Revolut secures a preliminary UK banking license, ending a three-year long regulatory battle; the London-based fintech has ~9M UK customers and 45M+ globally &lpar;Akila Quinio/Financial Times&rpar;](http://www.techmeme.com/240725/p8#a240725p8)<!-- TECH:END -->
+ - [Asus ROG Ally X review: the best Windows gaming handheld by a mile](https://www.theverge.com/24204770/asus-rog-ally-x-review-handheld-gaming-pc)
+ - [Torrenting apps are finally available on non-jailbroken iPhones, but there’s a catch](https://www.androidauthority.com/torrenting-apps-available-iphones-eu-3464556/)
+ - [How to Watch the Olympics 2024 on the Best Olympic Streaming Service](https://www.cnet.com/tech/services-and-software/how-to-watch-the-olympics/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
