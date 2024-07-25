@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google DeepMind rolls out AlphaProof AI model, which specializes in math reasoning, and AlphaGeometry 2, an updated version of a model focused on geometry &lpar;Bloomberg&rpar;](http://www.techmeme.com/240725/p22#a240725p22)
- - [Google DeepMind’s Game-Playing AI Tackles a Chatbot Blind Spot](https://www.wired.com/story/google-deepmind-alphaproof-ai-math/)
- - [Oyen Digital U34 Bolt SSD review - Enormous drive speed in a rugged package](https://appleinsider.com/articles/24/07/24/oyen-digital-u34-bolt-ssd-review---enormous-drive-speed-in-a-rugged-package?utm_medium=rss)<!-- TECH:END -->
+ - [FTC&#39;s newly unredacted filings quote an Adobe exec comparing early termination fees to &quot;heroin&quot;; Adobe&#39;s Dana Rao says the person was not on the leadership team &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/240725/p24#a240725p24)
+ - [Galaxy S25 Ultra leak points to disappointing battery and charging specs](https://www.androidauthority.com/galaxy-s25-ultra-battery-charging-3464733/)
+ - [Google Pixel 9 Pro Fold rumors: Everything we know and what we want to see](https://www.androidauthority.com/google-pixel-fold-2-3385460/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
