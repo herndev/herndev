@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Earth Defense Force 6 review](https://www.pcgamer.com/games/third-person-shooter/earth-defense-force-6-review)
  - [DLC-sized Fallout 4 mod Fallout: London will be out tomorrow, &#39;Unless nuclear war happens&#39;](https://www.pcgamer.com/games/rpg/dlc-sized-fallout-4-mod-fallout-london-will-be-out-tomorrow-unless-nuclear-war-happens)
- - [Today&#39;s Wordle answer for Thursday, July 25](https://www.pcgamer.com/games/puzzle/wordle-answer-today-july-25-2024)
- - [The latest round of absurd Baldur&#39;s Gate 3 mods include a better Bing Bong and mankinis for the boys](https://www.pcgamer.com/games/rpg/the-latest-round-of-absurd-baldurs-gate-3-mods-include-a-better-bing-bong-and-mankinis-for-the-boys)<!-- GAME:END -->
+ - [Today&#39;s Wordle answer for Thursday, July 25](https://www.pcgamer.com/games/puzzle/wordle-answer-today-july-25-2024)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
