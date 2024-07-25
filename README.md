@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [How to get Mythbrine Aethersand in Final Fantasy 14: Dawntrail](https://www.pcgamer.com/games/final-fantasy/ff14-mythbrine-aethersand-location)
  - [Earth Defense Force 6 review](https://www.pcgamer.com/games/third-person-shooter/earth-defense-force-6-review)
- - [DLC-sized Fallout 4 mod Fallout: London will be out tomorrow, &#39;Unless nuclear war happens&#39;](https://www.pcgamer.com/games/rpg/dlc-sized-fallout-4-mod-fallout-london-will-be-out-tomorrow-unless-nuclear-war-happens)
- - [Today&#39;s Wordle answer for Thursday, July 25](https://www.pcgamer.com/games/puzzle/wordle-answer-today-july-25-2024)<!-- GAME:END -->
+ - [DLC-sized Fallout 4 mod Fallout: London will be out tomorrow, &#39;Unless nuclear war happens&#39;](https://www.pcgamer.com/games/rpg/dlc-sized-fallout-4-mod-fallout-london-will-be-out-tomorrow-unless-nuclear-war-happens)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
