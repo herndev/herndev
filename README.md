@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sonos apologizes for screwing up its revamped iOS app launch](https://appleinsider.com/articles/24/07/25/sonos-apologizes-for-screwing-up-its-revamped-ios-app-launch?utm_medium=rss)
- - [How to watch the 2024 Summer Olympics: Streaming, live TV, and other options](https://www.androidauthority.com/how-to-watch-olympics-3464765/)
- - [OpenAI says it partnered with publishers including WSJ and The Atlantic to build its search engine SearchGPT; publishers can manage how their content appears &lpar;Deepa Seetharaman/Wall Street Journal&rpar;](http://www.techmeme.com/240725/p28#a240725p28)<!-- TECH:END -->
+ - [Nothing teases what upgrades to expect from Phone 2a Plus](https://www.androidauthority.com/nothing-phone-2a-plus-specs-3464821/)
+ - [SAG-AFTRA announces a strike starting Friday against major video game companies, including EA, after talks for a new contract broke down over AI protections &lpar;Sarah Parvini/Associated Press&rpar;](http://www.techmeme.com/240725/p30#a240725p30)
+ - [Streaming platform Max goes global with SharePlay support, but there’s a catch](https://www.androidauthority.com/max-shareplay-support-3464814/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
