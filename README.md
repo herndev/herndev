@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [India drops the 2% equalization levy on digital services offered by foreign companies starting August 1; the levy had become a point of contention with the US &lpar;Laura Dobberstein/The Register&rpar;](http://www.techmeme.com/240725/p5#a240725p5)
- - [What are you willing to give up to pay less for Google One?](https://www.androidauthority.com/lite-google-one-subscription-poll-3464201/)
- - [A group of 16 US lawmakers ask Meta to delay shutting down CrowdTangle for at least six months, citing concerns about the limitations of Meta Content Library &lpar;Sara Fischer/Axios&rpar;](http://www.techmeme.com/240725/p4#a240725p4)<!-- TECH:END -->
+ - [A NASA-funded study of satellite data finds traffic-related N02 pollution spiked ~20% near ~150K large US warehouses, which have proliferated due to e-commerce &lpar;Justine Calma/The Verge&rpar;](http://www.techmeme.com/240725/p7#a240725p7)
+ - [STMicro reports Q2 net revenue down 25.3% YoY to $3.23B and cuts its FY 2024 revenue outlook to $13.2B to $13.7B, down from a previous range of $14B to $15B &lpar;Michael Hennessey/Bloomberg&rpar;](http://www.techmeme.com/240725/p6#a240725p6)
+ - [India drops the 2% equalization levy on digital services offered by foreign companies starting August 1; the levy had become a point of contention with the US &lpar;Laura Dobberstein/The Register&rpar;](http://www.techmeme.com/240725/p5#a240725p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
