@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [A reporter managed to go to Gaza to interview some local residents, it&#39;s 3:07 but worth it.](http://9gag.com/gag/an71Rmo)
- - ⏩ [China is preparing Covid-24](http://9gag.com/gag/ajPDK6p)
- - 👉 [Mindly interesting](http://9gag.com/gag/a8740Ge)<!-- MEMES:END -->
+ - 💣 [Civilize Vs. Decivilize](http://9gag.com/gag/azxARqp)
+ - ⏩ [The news we deserve](http://9gag.com/gag/aKG3eZN)
+ - 👉 [Mom films her child showing off the most venomous octopus to the camera.](http://9gag.com/gag/a34j5Ve)<!-- MEMES:END -->
 
 ---
 
