@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Asus ROG Ally X review: the best Windows gaming handheld by a mile](https://www.theverge.com/24204770/asus-rog-ally-x-review-handheld-gaming-pc)
- - [Torrenting apps are finally available on non-jailbroken iPhones, but there’s a catch](https://www.androidauthority.com/torrenting-apps-available-iphones-eu-3464556/)
- - [How to Watch the Olympics 2024 on the Best Olympic Streaming Service](https://www.cnet.com/tech/services-and-software/how-to-watch-the-olympics/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The best Google Pixel 8a cases you can buy](https://www.androidauthority.com/best-google-pixel-8a-cases-3463944/)
+ - [After investigating how Meta handles AI-generated explicit images, Oversight Board asks Meta to use the terminology &quot;non-consensual&quot; over &quot;derogatory&quot;, and more &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/240725/p11#a240725p11)
+ - [Hands on: Everything new with CarPlay in iOS 18](https://appleinsider.com/articles/24/07/25/hands-on-everything-new-with-carplay-in-ios-18?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
