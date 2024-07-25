@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [&#39;This is the most polished map we&#39;ve ever shipped&#39;: Hunt: Showdown 1896 director goes deep on Hunt&#39;s first new map in 3 years](https://www.pcgamer.com/games/this-is-the-most-polished-map-we-ve-ever-shipped-hunt-showdown-1896-director-goes-deep-on-hunt-s-first-new-map-in-3-years)
- - [S.T.A.L.K.E.R. 2: New Release Date and Developer Deep Dive Coming Soon](https://www.youtube.com/watch?v=vxeGyXSM5Pc#new_tab)
- - [Evo 2024: Hands-on report with new fighting game content](https://blog.playstation.com/2024/07/25/evo-2024-hands-on-report-with-new-fighting-game-content/)<!-- GAME:END -->
+ - [Sea of Thieves Blazes Into Season 13](https://www.seaofthieves.com/news/season-13-launch#new_tab)
+ - [Crowdstrike Says Sorry For Breaking Everything With $10 Uber Eats Coupons](https://kotaku.com/crowdstrike-microsoft-10-uber-eats-outage-1851604737)
+ - [Fortnite: How To Complete The Second Set Of Pirate Code Quests](https://kotaku.com/fortnite-pirates-caribbean-quests-code-battle-pass-1851604605)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
