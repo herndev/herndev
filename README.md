@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Keychron K10 Pro review: All-rounder and affordable keyboard](https://appleinsider.com/articles/24/07/26/keychron-k10-pro-review-all-rounder-and-affordable-keyboard?utm_medium=rss)
- - [Dengue Fever Threatens to Gate-Crash the 2024 Summer Olympics](https://www.wired.com/story/paris-olympics-2024-dengue-measles-bedbugs/)
- - [The best phone to buy right now](https://www.theverge.com/22163811/best-phone)<!-- TECH:END -->
+ - [Google Pixel Buds Pro 2: Everything we know so far](https://www.androidauthority.com/google-pixel-buds-pro-2-3393809/)
+ - [The HP Spectre Foldable is one of the coolest laptops, and it’s $600 off right now](https://www.androidauthority.com/hp-spectre-foldable-deal-3465315/)
+ - [Nothing Phone 2a Plus leak reveals Dimensity chipset, 50MP cameras, and more](https://www.androidauthority.com/nothing-phone-2a-plus-leak-3465311/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
