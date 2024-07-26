@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Every man\u2019s dream](http://9gag.com/gag/a5QrDzG)
- - ⏩ [Lol](http://9gag.com/gag/apRLx85)
- - 👉 [OP does suck dick. Henry Cavill&#39;s.](http://9gag.com/gag/amozRpj)<!-- MEMES:END -->
+ - 💣 [China is preparing Covid-24](http://9gag.com/gag/ajPDK6p)
+ - ⏩ [Bring back old 9gag](http://9gag.com/gag/a9yYBAW)
+ - 👉 [Found a old photo of my mom](http://9gag.com/gag/a9yYXoo)<!-- MEMES:END -->
 
 ---
 
