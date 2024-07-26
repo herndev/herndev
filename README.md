@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [New Pixel 9 Pro Fold renders give us a great look at Obsidian, Porcelain colors](https://www.androidauthority.com/new-pixel-9-pro-fold-renders-give-us-a-great-look-at-obsidian-porcelain-colors-3465101/)
- - [The Best Android Phones of 2024, Tested and Reviewed](https://www.wired.com/gallery/best-android-phones/)
- - [Google brings Nest Hello support to the Home app](https://www.theverge.com/2024/7/26/24206371/nest-hello-doorbell-google-home-app-new-features)<!-- TECH:END -->
+ - [Steve Jobs Knew the Moment the Future Had Arrived. It&#39;s Calling Again](https://www.wired.com/story/steve-jobs-speech-personal-computers-ai/)
+ - [How to stop Musk&#39;s Grok AI from training on anything you&#39;ve ever said or done on X](https://appleinsider.com/inside/macos/tips/how-to-stop-musks-grok-ai-from-training-on-anything-youve-ever-said-or-done-on-x?utm_medium=rss)
+ - [The Google era is officially over](https://www.theverge.com/2024/7/26/24206582/searchgpt-google-reddit-ai-search-alexa-vergecast)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
