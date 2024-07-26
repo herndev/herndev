@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Would you pay a premium for a removable battery smartphone?](https://www.androidauthority.com/smartphone-battery-removable-replaceable-poll-3464650/)
- - [Major Samsung One UI 7 leak shows a very different One UI](https://www.androidauthority.com/samsung-one-ui-7-screenshots-leak-3464989/)
- - [As xAI builds a supercomputer in Memphis, many locals are wary of its benefits, and environmental advocates are puzzled over its potential effects &lpar;Patrick Sisson/Bloomberg&rpar;](http://www.techmeme.com/240726/p1#a240726p1)<!-- TECH:END -->
+ - [Porn ads reappear on YouTube, despite Google’s promises &lpar;Update: Statement&rpar;](https://www.androidauthority.com/youtube-nsfw-porn-ads-fourth-time-3464106/)
+ - [Ad-blocking users are now seeing black ads on YouTube](https://www.androidauthority.com/black-ads-youtube-ad-block-extension-3465017/)
+ - [Inside JD Vance&#39;s VC career: five years, two firms before co-founding Narya, investing in AppHarvest, which faced lawsuits and filed for bankruptcy, and more &lpar;Angel Au-Yeung/Wall Street Journal&rpar;](http://www.techmeme.com/240726/p2#a240726p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
