@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Valorant’s Xbox Series X|S Open Beta Begins Today – Here’s Why It’s No Simple Port](https://news.xbox.com/en-us/2024/07/26/valorant-console-open-beta-xbox-series-x-s/)
- - [A leaked document indicates Runway&#39;s Gen-3 AI video generation tool may have been trained on YouTube videos and copyrighted content without permission](https://www.pcgamer.com/software/ai/a-leaked-document-indicates-runways-gen-3-ai-video-generation-tool-may-have-been-trained-on-youtube-videos-and-copyrighted-content-without-permission)
- - [Elden Ring Streamer Beats Final Erdtree Boss On Dance Pad And Controller At The Same Time](https://kotaku.com/elden-ring-missmikkaa-erdtree-boss-fight-dance-pad-1851606332)<!-- GAME:END -->
+ - [Flock shows us a gentler &lpar;and smarter&rpar; approach to creature collecting](https://www.polygon.com/review/24206406/flock-creature-collecting-pokemon-review)
+ - [My favorite indie answer to the Elder Scrolls, Dread Delusion, just got a surprise final content update⁠—including a dungeon built inside the remains of a giant flying squid](https://www.pcgamer.com/games/rpg/my-favorite-indie-answer-to-the-elder-scrolls-dread-delusion-just-got-a-surprise-final-content-updateincluding-a-dungeon-built-inside-the-remains-of-a-giant-flying-squid)
+ - [Marvel Rivals isn&#39;t just an Overwatch 2 rip-off, and that sentiment does both games a disservice](https://www.pcgamer.com/games/third-person-shooter/marvel-rivals-isnt-just-an-overwatch-2-rip-off-and-that-sentiment-does-both-games-a-disservice)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
