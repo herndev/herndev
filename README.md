@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [MrBeast Has Hired An Investigator To Look Into Grooming Allegations Against Ex-Co-Host Ava Kris Tyson](https://kotaku.com/ava-kris-tyson-mr-beast-grooming-allegations-1851606782)
- - [The grandest WoW guilds raced for a world first raid clear hinged on a new secret boss, and the winner was &#39;None of the Above&#39;](https://www.pcgamer.com/games/world-of-warcraft/the-grandest-wow-guilds-race-for-a-world-first-raid-clear-hinged-on-a-new-secret-boss-and-the-winner-was-none-of-the-above)
- - [Five Years Later, Fire Emblem: Three Houses’ Best Character Is Still Edelgard](https://kotaku.com/fire-emblem-three-houses-five-years-edelgard-switch-1851606712)<!-- GAME:END -->
+ - [We made 5 types of polyamorous families with The Sims 4&#39;s new romantic boundaries system and most of them actually work](https://www.pcgamer.com/games/the-sims/sims-4-polyamory-romantic-boundaries-household-setups)
+ - [Legend of Vox Machina’s first season 3 look at SDCC is good chaotic fun](https://www.polygon.com/sdcc/2024/7/26/24204659/legend-vox-machina-season-3-new-clip)
+ - [Capcom Made A Game That Doesn&#39;t Belong In 2024 And It&#39;s Fantastic](https://kotaku.com/kunitsu-gami-path-goddess-game-pass-capcom-1851606852)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
