@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [OWC extends its popular $99 Thunderbolt Dock sale through July 28](https://appleinsider.com/articles/24/07/26/owc-extends-its-popular-99-thunderbolt-dock-sale-through-july-28?utm_medium=rss)
- - [What is tandem OLED and how does the display technology work?](https://www.androidauthority.com/what-is-tandem-oled-3464942/)
- - [The US DOJ indicts a North Korean hacker, who remains at large, for his alleged role in Andariel group&#39;s cyberattacks on US hospitals, NASA, and military bases &lpar;Associated Press&rpar;](http://www.techmeme.com/240725/p41#a240725p41)<!-- TECH:END -->
+ - [FTC&#39;s Lina Khan says open-weights AI models can promote competition and &quot;liberate startups from the arbitrary whims of closed developers and cloud gatekeepers&quot; &lpar;Bloomberg&rpar;](http://www.techmeme.com/240725/p43#a240725p43)
+ - [Mix Flip sales are going international — but you still might be out of luck](https://www.androidauthority.com/mix-flip-international-sales-3464944/)
+ - [Binarly: UEFI Secure Boot is completely compromised on 200+ device models sold by Acer, Dell, Gigabyte, Intel, and Supermicro due to a cryptographic key leak &lpar;Dan Goodin/Ars Technica&rpar;](http://www.techmeme.com/240725/p42#a240725p42)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
