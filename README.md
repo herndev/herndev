@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Not Ok!](http://9gag.com/gag/aVveVB2)
- - ⏩ [Civilize Vs. Decivilize](http://9gag.com/gag/azxARqp)
- - 👉 [A diver is attacked by a swordfish at a depth of 220 meters &lpar;721 feet&rpar; below the surface.](http://9gag.com/gag/avynRPX)<!-- MEMES:END -->
+ - 💣 [That&#39;s so wholesome..... WAIT A MINUTE!](http://9gag.com/gag/aAyP2b0)
+ - ⏩ [Never let anyone know your next move.](http://9gag.com/gag/axyDOKM)
+ - 👉 [Wholesome seemed proper](http://9gag.com/gag/ayN8W5b)<!-- MEMES:END -->
 
 ---
 
