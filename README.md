@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Lol](http://9gag.com/gag/apRLx85)
- - ⏩ [OP does suck dick. Henry Cavill&#39;s.](http://9gag.com/gag/amozRpj)
- - 👉 [Should have used the right hand](http://9gag.com/gag/aAyPvWL)<!-- MEMES:END -->
+ - 💣 [Wholesome indeed](http://9gag.com/gag/aryNz0V)
+ - ⏩ [Bro skipped Brain Day](http://9gag.com/gag/aqyLdRM)
+ - 👉 [Every man\u2019s dream](http://9gag.com/gag/a5QrDzG)<!-- MEMES:END -->
 
 ---
 
