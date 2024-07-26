@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A look at the flood of &quot;fancam&quot; videos and memes about Kamala Harris on short-form video platforms, echoing &quot;meme armies&quot; that have supported Donald Trump &lpar;Washington Post&rpar;](http://www.techmeme.com/240725/p46#a240725p46)
  - [How to update the email linked to your Apple ID](https://appleinsider.com/inside/ios/tips/how-to-update-the-email-linked-to-your-apple-id?utm_medium=rss)
- - [Self-driving startup Applied Intuition raised $300M+ as part of a secondary deal that allowed shareholders and employees to sell shares in the $6B company &lpar;Katie Roof/Bloomberg&rpar;](http://www.techmeme.com/240725/p45#a240725p45)
- - [Florida-based IntelePeer, which develops software to help businesses automate customer contact centers using AI, raised $140M in equity and debt &lpar;Denver Business Journal&rpar;](http://www.techmeme.com/240725/p44#a240725p44)<!-- TECH:END -->
+ - [Self-driving startup Applied Intuition raised $300M+ as part of a secondary deal that allowed shareholders and employees to sell shares in the $6B company &lpar;Katie Roof/Bloomberg&rpar;](http://www.techmeme.com/240725/p45#a240725p45)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
