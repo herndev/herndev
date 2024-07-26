@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Official Pixel 9 Pro cases leak showing off a surprise new color option](https://www.androidauthority.com/pixel-9-pro-cases-leak-3465270/)
- - [Zoo hatches record number of condor chicks to release into the wild](https://www.theverge.com/2024/7/26/24206819/california-condor-zoo-conservation-record-chicks)
- - [These are the best Apple Watch bands for working out in 2024](https://appleinsider.com/inside/apple-watch/best/best-apple-watch-bands-for-working-out?utm_medium=rss)<!-- TECH:END -->
+ - [The brand-new OnePlus Nord Buds 3 Pro are 25% off!](https://www.androidauthority.com/oneplus-nord-buds-3-pro-deal-3465316/)
+ - [Does your carrier support RCS? Here’s a breakdown of the US carriers with official support](https://www.androidauthority.com/us-carrier-rcs-support-3465259/)
+ - [Chrome is working to make your tab overload less chaotic](https://www.androidauthority.com/chrome-archived-tab-data-3465304/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
