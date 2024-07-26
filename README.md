@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Intelligence will adhere to new and vague federal artificial intelligence safeguards](https://appleinsider.com/articles/24/07/26/apple-intelligence-will-adhere-to-new-and-vague-federal-artificial-intelligence-safeguards?utm_medium=rss)
- - [The US Commerce Department says it signed a nonbinding preliminary agreement with Amkor for a CHIPS Act award consisting of $400M in grants and $200M in loans &lpar;Amy Edelen/Phoenix Business Journal&rpar;](http://www.techmeme.com/240726/p5#a240726p5)
- - [Europe Is Pumping Billions Into New Military Tech](https://www.wired.com/story/european-commission-military-tech-spending/)<!-- TECH:END -->
+ - [New Pixel 9 Pro Fold renders give us a great look at Obsidian, Porcelain colors](https://www.androidauthority.com/new-pixel-9-pro-fold-renders-give-us-a-great-look-at-obsidian-porcelain-colors-3465101/)
+ - [The Best Android Phones of 2024, Tested and Reviewed](https://www.wired.com/gallery/best-android-phones/)
+ - [Google brings Nest Hello support to the Home app](https://www.theverge.com/2024/7/26/24206371/nest-hello-doorbell-google-home-app-new-features)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
