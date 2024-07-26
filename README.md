@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Google&#39;s AI solved four out of six problems in one of the world&#39;s hardest maths competitions, equivalent to a silver medal standard &#39;in a certain sense&#39;](https://www.pcgamer.com/software/ai/googles-ai-solved-four-out-of-six-problems-in-one-of-the-worlds-hardest-maths-competitions-equivalent-to-a-silver-medal-standard-in-a-certain-sense)
- - [Today&#39;s Wordle answer for Friday, July 26](https://www.pcgamer.com/games/puzzle/wordle-answer-today-july-26-2024)
- - [Every major announcement from SDCC 2024](https://www.polygon.com/sdcc/24203751/comic-con-2024-news-announcements-trailers-release-dates-sdcc)<!-- GAME:END -->
+ - [After an icy response to the D&amp;D 2024 Ranger&#39;s proposed reliance on spells, lead rules designer Jeremy Crawford says don&#39;t worry, the spells should help](https://www.pcgamer.com/games/rpg/after-an-icy-response-to-the-d-d-2024-ranger-s-proposed-reliance-on-spells-lead-designer-jeremy-crawford-says-don-t-worry-the-spells-should-help)
+ - [Marvel Rivals is adding two new heroes before the end of the closed beta test: Thor, the god of thunder, and Jeff, a shark with legs](https://www.pcgamer.com/games/third-person-shooter/marvel-rivals-is-adding-two-new-heroes-before-the-end-of-the-closed-beta-test-thor-the-god-of-thunder-and-jeff-a-shark-with-legs)
+ - [Netflix&#39;s &#39;new regime&#39; takes an axe to the BioShock movie&#39;s budget, so expect something &#39;much smaller&#39; with a different point of view](https://www.pcgamer.com/games/fps/netflixs-new-regime-takes-an-axe-to-the-bioshock-movies-budget-so-expect-something-much-smaller-with-a-different-point-of-view)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
