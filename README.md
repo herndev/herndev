@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Not Ok!](http://9gag.com/gag/aVveVB2)
- - ⏩ [Civilize Vs. Decivilize](http://9gag.com/gag/azxARqp)
- - 👉 [Mass Immigration is the direct key to decvilization](http://9gag.com/gag/a2v52qY)<!-- MEMES:END -->
+ - 💣 [Gojira presentation at the opening of Paris2024](http://9gag.com/gag/aGyD6z7)
+ - ⏩ [Found a old photo of my mom](http://9gag.com/gag/a9yYXoo)
+ - 👉 [Lol](http://9gag.com/gag/apRLx85)<!-- MEMES:END -->
 
 ---
 
