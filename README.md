@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How TikTok is trying to fend off a potential US ban, including through ad campaigns, lobbying, and funding lawsuits by creators &lpar;Bloomberg&rpar;](http://www.techmeme.com/240726/p8#a240726p8)
- - [Save $70 on the LG Tone Free T80 Earbuds With Our Exclusive Discount Code](https://www.cnet.com/deals/save-70-on-the-lg-tone-free-t80-earbuds-with-our-exclusive-discount-code/#ftag=CAD590a51e)
- - [Smokeless Fire Pits Are All the Rage, but Are They Worth It?](https://www.cnet.com/home/yard-and-outdoors/smokeless-fire-pits-are-all-the-rage-but-are-they-worth-it/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Pixel Buds Pro 2 leak points to expensive upgrade](https://www.androidauthority.com/pixel-buds-pro-2-prices-leak-3465147/)
+ - [Amazon knocks $100 off Apple&#39;s 2024 iPad Air 13-inch &lpar;lowest price ever&rpar;](https://appleinsider.com/articles/24/07/26/amazon-knocks-100-off-apples-2024-ipad-air-13-inch-lowest-price-ever?utm_medium=rss)
+ - [Google Pixel 9 rumors: Everything we know so far about the upcoming Pixels](https://www.androidauthority.com/google-pixel-9-3365966/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
