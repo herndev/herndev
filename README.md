@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [China is preparing Covid-24](http://9gag.com/gag/ajPDK6p)
- - ⏩ [Not Ok!](http://9gag.com/gag/aVveVB2)
- - 👉 [The news we deserve](http://9gag.com/gag/aKG3eZN)<!-- MEMES:END -->
+ - 💣 [GenieDislikesCloud](http://9gag.com/gag/aLn9eNW)
+ - ⏩ [China is preparing Covid-24](http://9gag.com/gag/ajPDK6p)
+ - 👉 [Alisa amore ...her cat is beautiful](http://9gag.com/gag/amozGKo)<!-- MEMES:END -->
 
 ---
 
