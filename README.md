@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Next Week on Xbox: New Games for July 29 to August 2](https://news.xbox.com/en-us/2024/07/26/next-week-on-xbox-new-games-for-july-29-to-august-2/)
- - [The BioShock Movie Is Still In The Works, But Will Be ‘Much Smaller’ Than Originally Planned](https://kotaku.com/netflix-bioshock-movie-adaptation-budget-lowered-1851606225)
- - [Steam is changing demos to be easier to find, easier to see, and easier to handle in your library](https://www.pcgamer.com/software/platforms/steam-is-changing-demos-to-be-easier-to-find-easier-to-see-and-easier-to-handle-in-your-library)<!-- GAME:END -->
+ - [Valorant’s Xbox Series X|S Open Beta Begins Today – Here’s Why It’s No Simple Port](https://news.xbox.com/en-us/2024/07/26/valorant-console-open-beta-xbox-series-x-s/)
+ - [A leaked document indicates Runway&#39;s Gen-3 AI video generation tool may have been trained on YouTube videos and copyrighted content without permission](https://www.pcgamer.com/software/ai/a-leaked-document-indicates-runways-gen-3-ai-video-generation-tool-may-have-been-trained-on-youtube-videos-and-copyrighted-content-without-permission)
+ - [Elden Ring Streamer Beats Final Erdtree Boss On Dance Pad And Controller At The Same Time](https://kotaku.com/elden-ring-missmikkaa-erdtree-boss-fight-dance-pad-1851606332)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
