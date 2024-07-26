@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Gojira presentation at the opening of Paris2024](http://9gag.com/gag/aGyD6z7)
- - ⏩ [Found a old photo of my mom](http://9gag.com/gag/a9yYXoo)
- - 👉 [Lol](http://9gag.com/gag/apRLx85)<!-- MEMES:END -->
+ - 💣 [Office wife](http://9gag.com/gag/aPAWdbB)
+ - ⏩ [Polish soldiers can shoot legaly doctors and engineers trespassing our border!](http://9gag.com/gag/a2v5xy9)
+ - 👉 [In China, they scan and create 3D models of people](http://9gag.com/gag/aXPwdoP)<!-- MEMES:END -->
 
 ---
 
