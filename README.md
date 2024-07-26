@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [GenieDislikesCloud](http://9gag.com/gag/aLn9eNW)
- - ⏩ [China is preparing Covid-24](http://9gag.com/gag/ajPDK6p)
- - 👉 [Alisa amore ...her cat is beautiful](http://9gag.com/gag/amozGKo)<!-- MEMES:END -->
+ - 💣 [Not Ok!](http://9gag.com/gag/aVveVB2)
+ - ⏩ [Civilize Vs. Decivilize](http://9gag.com/gag/azxARqp)
+ - 👉 [A diver is attacked by a swordfish at a depth of 220 meters &lpar;721 feet&rpar; below the surface.](http://9gag.com/gag/avynRPX)<!-- MEMES:END -->
 
 ---
 
