@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Scientists think there&#39;s a 10-mile-thick layer of diamond beneath the surface of Mercury, which would make you around 876 billion Minecraft pickaxes if my math is right](https://www.pcgamer.com/games/survival-crafting/scientists-think-theres-a-10-mile-thick-layer-of-diamond-beneath-the-surface-of-mercury-which-would-make-you-around-876-billion-minecraft-pickaxes-if-my-math-is-right)
- - [Rings of Power just struck a huge blow for better gender representation in Middle-earth](https://www.polygon.com/sdcc/24206287/lord-rings-power-trailer-ent-entwives-tolkien)
- - [Rings of Power’s SDCC trailer actually looks like the Lord of the Rings show we were promised](https://www.polygon.com/sdcc/2024/7/26/24206283/lord-rings-power-trailer-season-2-sauron-balrog-moria)<!-- GAME:END -->
+ - [MrBeast Has Hired An Investigator To Look Into Grooming Allegations Against Ex-Co-Host Ava Kris Tyson](https://kotaku.com/ava-kris-tyson-mr-beast-grooming-allegations-1851606782)
+ - [The grandest WoW guilds raced for a world first raid clear hinged on a new secret boss, and the winner was &#39;None of the Above&#39;](https://www.pcgamer.com/games/world-of-warcraft/the-grandest-wow-guilds-race-for-a-world-first-raid-clear-hinged-on-a-new-secret-boss-and-the-winner-was-none-of-the-above)
+ - [Five Years Later, Fire Emblem: Three Houses’ Best Character Is Still Edelgard](https://kotaku.com/fire-emblem-three-houses-five-years-edelgard-switch-1851606712)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
