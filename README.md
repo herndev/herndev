@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Porn ads reappear on YouTube, despite Google’s promises &lpar;Update: Statement&rpar;](https://www.androidauthority.com/youtube-nsfw-porn-ads-fourth-time-3464106/)
- - [Ad-blocking users are now seeing black ads on YouTube](https://www.androidauthority.com/black-ads-youtube-ad-block-extension-3465017/)
- - [Inside JD Vance&#39;s VC career: five years, two firms before co-founding Narya, investing in AppHarvest, which faced lawsuits and filed for bankruptcy, and more &lpar;Angel Au-Yeung/Wall Street Journal&rpar;](http://www.techmeme.com/240726/p2#a240726p2)<!-- TECH:END -->
+ - [Americans are embracing WhatsApp, but that’s before RCS debuts on iPhones](https://www.androidauthority.com/americans-embracing-whatsapp-before-rcs-on-iphones-3465043/)
+ - [The Biden administration says Apple agreed to White House&#39;s voluntary safeguards for AI, joining the ranks of OpenAI, Amazon, Alphabet, Microsoft, and others &lpar;Akayla Gardner/Bloomberg&rpar;](http://www.techmeme.com/240726/p3#a240726p3)
+ - [Windows 11 will soon add your Android phone to File Explorer](https://www.theverge.com/2024/7/26/24206712/microsoft-windows-11-file-explorer-android-phone-feature)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
