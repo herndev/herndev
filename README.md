@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [A diver is attacked by a swordfish at a depth of 220 meters &lpar;721 feet&rpar; below the surface.](http://9gag.com/gag/avynRPX)
- - ⏩ [China is preparing Covid-24](http://9gag.com/gag/ajPDK6p)
- - 👉 [Ph.D.](http://9gag.com/gag/a874zOY)<!-- MEMES:END -->
+ - 💣 [Every man\u2019s dream](http://9gag.com/gag/a5QrDzG)
+ - ⏩ [Lol](http://9gag.com/gag/apRLx85)
+ - 👉 [OP does suck dick. Henry Cavill&#39;s.](http://9gag.com/gag/amozRpj)<!-- MEMES:END -->
 
 ---
 
