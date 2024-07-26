@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [You know you did.](http://9gag.com/gag/a1mX2MY)
- - ⏩ [Alisa amore ...her cat is beautiful](http://9gag.com/gag/amozGKo)
- - 👉 [Best handshake doesn&#39;t exist](http://9gag.com/gag/an71ng5)<!-- MEMES:END -->
+ - 💣 [Civilize Vs. Decivilize](http://9gag.com/gag/azxARqp)
+ - ⏩ [I guess he saw us and wanted to join the boys !](http://9gag.com/gag/aNDWO23)
+ - 👉 [China is preparing Covid-24](http://9gag.com/gag/ajPDK6p)<!-- MEMES:END -->
 
 ---
 
