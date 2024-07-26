@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Galaxy Watch Ultra may have a paint peeling problem](https://www.androidauthority.com/galaxy-watch-ultra-paint-issue-3465215/)
- - [The Google Play Store is becoming more personalized with local recommendations](https://www.androidauthority.com/google-play-store-local-recommendations-3465221/)
- - [One UI 7 may bring even bigger camera improvements to the Galaxy S24 Ultra](https://www.androidauthority.com/one-ui-7-galaxy-s24-ulra-camera-3465239/)<!-- TECH:END -->
+ - [Official Pixel 9 Pro cases leak showing off a surprise new color option](https://www.androidauthority.com/pixel-9-pro-cases-leak-3465270/)
+ - [Zoo hatches record number of condor chicks to release into the wild](https://www.theverge.com/2024/7/26/24206819/california-condor-zoo-conservation-record-chicks)
+ - [These are the best Apple Watch bands for working out in 2024](https://appleinsider.com/inside/apple-watch/best/best-apple-watch-bands-for-working-out?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
