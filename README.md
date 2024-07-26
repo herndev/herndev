@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Americans are embracing WhatsApp, but that’s before RCS debuts on iPhones](https://www.androidauthority.com/americans-embracing-whatsapp-before-rcs-on-iphones-3465043/)
- - [The Biden administration says Apple agreed to White House&#39;s voluntary safeguards for AI, joining the ranks of OpenAI, Amazon, Alphabet, Microsoft, and others &lpar;Akayla Gardner/Bloomberg&rpar;](http://www.techmeme.com/240726/p3#a240726p3)
- - [Windows 11 will soon add your Android phone to File Explorer](https://www.theverge.com/2024/7/26/24206712/microsoft-windows-11-file-explorer-android-phone-feature)<!-- TECH:END -->
+ - [Apple Intelligence will adhere to new and vague federal artificial intelligence safeguards](https://appleinsider.com/articles/24/07/26/apple-intelligence-will-adhere-to-new-and-vague-federal-artificial-intelligence-safeguards?utm_medium=rss)
+ - [The US Commerce Department says it signed a nonbinding preliminary agreement with Amkor for a CHIPS Act award consisting of $400M in grants and $200M in loans &lpar;Amy Edelen/Phoenix Business Journal&rpar;](http://www.techmeme.com/240726/p5#a240726p5)
+ - [Europe Is Pumping Billions Into New Military Tech](https://www.wired.com/story/european-commission-military-tech-spending/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
