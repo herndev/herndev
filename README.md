@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Memo: Jack Dorsey plans a Block restructuring to remove business unit silos and group staff by function and warns that it may feel &quot;disruptive or uncomfortable&quot; &lpar;Kali Hays/Fortune&rpar;](http://www.techmeme.com/240725/p39#a240725p39)
- - [Sonos Admits Its Recent App Update Was a Colossal Mistake](https://www.wired.com/story/sonos-admits-its-recent-app-update-was-a-colossal-mistake/)
- - [CrowdStrike CEO George Kurtz says 97% of Windows sensors are back online, about a week after CrowdStrike shipped a faulty update that bricked Windows computers &lpar;Sam Sabin/Axios&rpar;](http://www.techmeme.com/240725/p38#a240725p38)<!-- TECH:END -->
+ - [OWC extends its popular $99 Thunderbolt Dock sale through July 28](https://appleinsider.com/articles/24/07/26/owc-extends-its-popular-99-thunderbolt-dock-sale-through-july-28?utm_medium=rss)
+ - [What is tandem OLED and how does the display technology work?](https://www.androidauthority.com/what-is-tandem-oled-3464942/)
+ - [The US DOJ indicts a North Korean hacker, who remains at large, for his alleged role in Andariel group&#39;s cyberattacks on US hospitals, NASA, and military bases &lpar;Associated Press&rpar;](http://www.techmeme.com/240725/p41#a240725p41)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
