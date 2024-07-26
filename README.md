@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle answer for Friday, July 26](https://www.pcgamer.com/games/puzzle/wordle-answer-today-july-26-2024)
  - [Every major announcement from SDCC 2024](https://www.polygon.com/sdcc/24203751/comic-con-2024-news-announcements-trailers-release-dates-sdcc)
- - [Videogame voice actors are officially on strike over AI: &#39;We refuse this paradigm&#39;](https://www.pcgamer.com/gaming-industry/videogame-voice-actors-are-officially-on-strike-over-ai-we-refuse-this-paradigm)
- - [Cyberpunk adventure Nobody Wants to Die feels like if you made an entire game out of the boring no-combat intro of a triple-A FPS](https://www.pcgamer.com/games/adventure/cyberpunk-adventure-nobody-wants-to-die-feels-like-if-you-made-an-entire-game-out-of-the-boring-no-combat-intro-of-a-triple-a-fps)<!-- GAME:END -->
+ - [Videogame voice actors are officially on strike over AI: &#39;We refuse this paradigm&#39;](https://www.pcgamer.com/gaming-industry/videogame-voice-actors-are-officially-on-strike-over-ai-we-refuse-this-paradigm)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
