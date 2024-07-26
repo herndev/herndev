@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Bro ain&#39;t a simp](http://9gag.com/gag/apRLDw5)
+ - 💣 [China is preparing Covid-24](http://9gag.com/gag/ajPDK6p)
  - ⏩ [Not Ok!](http://9gag.com/gag/aVveVB2)
- - 👉 [Mom films her child showing off the most venomous octopus to the camera.](http://9gag.com/gag/a34j5Ve)<!-- MEMES:END -->
+ - 👉 [The news we deserve](http://9gag.com/gag/aKG3eZN)<!-- MEMES:END -->
 
 ---
 
