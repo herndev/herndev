@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Flock shows us a gentler &lpar;and smarter&rpar; approach to creature collecting](https://www.polygon.com/review/24206406/flock-creature-collecting-pokemon-review)
- - [My favorite indie answer to the Elder Scrolls, Dread Delusion, just got a surprise final content update⁠—including a dungeon built inside the remains of a giant flying squid](https://www.pcgamer.com/games/rpg/my-favorite-indie-answer-to-the-elder-scrolls-dread-delusion-just-got-a-surprise-final-content-updateincluding-a-dungeon-built-inside-the-remains-of-a-giant-flying-squid)
- - [Marvel Rivals isn&#39;t just an Overwatch 2 rip-off, and that sentiment does both games a disservice](https://www.pcgamer.com/games/third-person-shooter/marvel-rivals-isnt-just-an-overwatch-2-rip-off-and-that-sentiment-does-both-games-a-disservice)<!-- GAME:END -->
+ - [Another Game Just Got Review-Bombed Into Dropping Controversial Login Requirement](https://kotaku.com/epic-account-edf6-earth-defense-force-steam-helldivers-1851606486)
+ - [Castle Crashers&#39; First DLC In 12 Years Lets You Make Your Own Characters](https://kotaku.com/castle-crashers-first-dlc-in-12-years-lets-you-make-you-1851606535)
+ - [Fallout 76: Minerva’s Location And Inventory: Late July, 2024](https://kotaku.com/fallout-76-where-is-minerva-july-2024-inventory-1851606470)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
