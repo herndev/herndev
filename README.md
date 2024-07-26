@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The brand-new OnePlus Nord Buds 3 Pro are 25% off!](https://www.androidauthority.com/oneplus-nord-buds-3-pro-deal-3465316/)
- - [Does your carrier support RCS? Here’s a breakdown of the US carriers with official support](https://www.androidauthority.com/us-carrier-rcs-support-3465259/)
- - [Chrome is working to make your tab overload less chaotic](https://www.androidauthority.com/chrome-archived-tab-data-3465304/)<!-- TECH:END -->
+ - [Keychron K10 Pro review: All-rounder and affordable keyboard](https://appleinsider.com/articles/24/07/26/keychron-k10-pro-review-all-rounder-and-affordable-keyboard?utm_medium=rss)
+ - [Dengue Fever Threatens to Gate-Crash the 2024 Summer Olympics](https://www.wired.com/story/paris-olympics-2024-dengue-measles-bedbugs/)
+ - [The best phone to buy right now](https://www.theverge.com/22163811/best-phone)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
