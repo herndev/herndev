@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Mom films her child showing off the most venomous octopus to the camera.](http://9gag.com/gag/a34j5Ve)
- - ⏩ [Latest Paris Olympic scandal. Valuables of Argentinian team stolen from lacker room.](http://9gag.com/gag/aAyPXpE)
- - 👉 [Not Ok!](http://9gag.com/gag/aVveVB2)<!-- MEMES:END -->
+ - ⏩ [Civilize Vs. Decivilize](http://9gag.com/gag/azxARqp)
+ - 👉 [GenieDislikesCloud](http://9gag.com/gag/aLn9eNW)<!-- MEMES:END -->
 
 ---
 
