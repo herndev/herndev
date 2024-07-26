@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Cool but dead](http://9gag.com/gag/a2v50RY)
- - ⏩ [Horse gets a belly rub](http://9gag.com/gag/a6ZQXZm)
- - 👉 [China is preparing Covid-24](http://9gag.com/gag/ajPDK6p)<!-- MEMES:END -->
+ - 💣 [You know you did.](http://9gag.com/gag/a1mX2MY)
+ - ⏩ [Alisa amore ...her cat is beautiful](http://9gag.com/gag/amozGKo)
+ - 👉 [Best handshake doesn&#39;t exist](http://9gag.com/gag/an71ng5)<!-- MEMES:END -->
 
 ---
 
