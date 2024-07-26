@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Double Fine PsychOdyssey: The Acclaimed Documentary Available in a Blu-ray Collector’s Set](https://limitedrungames.com/products/double-fine-psychodyssey-blu-ray-set)
- - [Grand Theft Auto 6 Is Exempt From The Game Actors Strike](https://kotaku.com/grand-theft-auto-vi-gta6-voice-actor-strike-saf-aftra-1851606082)
- - [Video Game Actors Are Going On Strike Over AI](https://kotaku.com/voice-actor-strike-sag-aftra-troy-baker-ai-cod-mw-3-1851604153)<!-- GAME:END -->
+ - [Next Week on Xbox: New Games for July 29 to August 2](https://news.xbox.com/en-us/2024/07/26/next-week-on-xbox-new-games-for-july-29-to-august-2/)
+ - [The BioShock Movie Is Still In The Works, But Will Be ‘Much Smaller’ Than Originally Planned](https://kotaku.com/netflix-bioshock-movie-adaptation-budget-lowered-1851606225)
+ - [Steam is changing demos to be easier to find, easier to see, and easier to handle in your library](https://www.pcgamer.com/software/platforms/steam-is-changing-demos-to-be-easier-to-find-easier-to-see-and-easier-to-handle-in-your-library)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
