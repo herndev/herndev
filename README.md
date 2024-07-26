@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Discover gets interactive with ‘Today’s Teaser’ polls](https://www.androidauthority.com/google-discover-polls-3465236/)
- - [The Galaxy Z Flip 6 actually does support Samsung DeX, but not the version you’re used to](https://www.androidauthority.com/samsung-galaxy-z-flip-6-new-dex-3465384/)
- - [A look at the race to build advanced AI robots; PitchBook: robotics startups have raised $6.5B across 552 deals in 2024 vs. $9.7B across 1,256 deals in 2023 &lpar;Financial Times&rpar;](http://www.techmeme.com/240726/p14#a240726p14)<!-- TECH:END -->
+ - [Freelancer.com, iFixit, and others say Anthropic&#39;s crawler has aggressively scraped their websites, potentially breaching their terms of service &lpar;George Hammond/Financial Times&rpar;](http://www.techmeme.com/240726/p16#a240726p16)
+ - [Here’s your first look at Amazon’s Like a Dragon: Yakuza](https://www.theverge.com/24206830/like-a-dragon-yakuza-trailer-amazon-prime-video-sdcc-2024)
+ - [Here&#39;s How to See 6 Planets in the Sky at Once in the Upcoming Planet Parade](https://www.cnet.com/science/you-can-spot-6-planets-in-the-sky-at-once-in-aug-23-planet-parade/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
