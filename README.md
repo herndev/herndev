@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [We made 5 types of polyamorous families with The Sims 4&#39;s new romantic boundaries system and most of them actually work](https://www.pcgamer.com/games/the-sims/sims-4-polyamory-romantic-boundaries-household-setups)
- - [Legend of Vox Machina’s first season 3 look at SDCC is good chaotic fun](https://www.polygon.com/sdcc/2024/7/26/24204659/legend-vox-machina-season-3-new-clip)
- - [Capcom Made A Game That Doesn&#39;t Belong In 2024 And It&#39;s Fantastic](https://kotaku.com/kunitsu-gami-path-goddess-game-pass-capcom-1851606852)<!-- GAME:END -->
+ - [The 2024 Olympic Games Opening Ceremony Goes Full Assassin&#39;s Creed Parkour On Paris&#39; Rooftops](https://kotaku.com/assassins-creed-2024-summer-olympic-games-paris-1851606886)
+ - [Mortal Kombat 1 year 2 DLC brings Scream’s Ghostface, Noob Saibot, and Animalities to the game](https://www.polygon.com/sdcc/24198902/mk1-kombat-pack-2-dlc-characters-khaos-reigns-ed-boon)
+ - [Survival RTS Cataclismo added a sandbox mode, because sometimes we just want to make our silly little castles in peace](https://www.pcgamer.com/games/strategy/survival-rts-cataclismo-added-a-sandbox-mode-because-sometimes-we-just-want-to-make-our-silly-little-castles-in-peace)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
