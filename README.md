@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Google&#39;s AI solved four out of six problems in one of the world&#39;s hardest maths competitions, equivalent to a silver medal standard &#39;in a certain sense&#39;](https://www.pcgamer.com/software/ai/googles-ai-solved-four-out-of-six-problems-in-one-of-the-worlds-hardest-maths-competitions-equivalent-to-a-silver-medal-standard-in-a-certain-sense)
  - [Today&#39;s Wordle answer for Friday, July 26](https://www.pcgamer.com/games/puzzle/wordle-answer-today-july-26-2024)
- - [Every major announcement from SDCC 2024](https://www.polygon.com/sdcc/24203751/comic-con-2024-news-announcements-trailers-release-dates-sdcc)
- - [Videogame voice actors are officially on strike over AI: &#39;We refuse this paradigm&#39;](https://www.pcgamer.com/gaming-industry/videogame-voice-actors-are-officially-on-strike-over-ai-we-refuse-this-paradigm)<!-- GAME:END -->
+ - [Every major announcement from SDCC 2024](https://www.polygon.com/sdcc/24203751/comic-con-2024-news-announcements-trailers-release-dates-sdcc)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
