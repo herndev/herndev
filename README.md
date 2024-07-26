@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Hard to believe but Secure Boot BIOS security has been compromised on hundreds of PC models from big brands because firmware engineers used four-letter passwords](https://www.pcgamer.com/hardware/hard-to-believe-but-secure-boot-bios-security-has-been-compromised-on-hundreds-of-pc-models-from-big-brands-because-firmware-engineers-used-four-letter-passwords)
- - [After an icy response to the D&amp;D 2024 Ranger&#39;s proposed reliance on spells, lead rules designer Jeremy Crawford says don&#39;t worry, the spells should help](https://www.pcgamer.com/games/rpg/after-an-icy-response-to-the-d-d-2024-ranger-s-proposed-reliance-on-spells-lead-designer-jeremy-crawford-says-don-t-worry-the-spells-should-help)
- - [Marvel Rivals is adding two new heroes before the end of the closed beta test: Thor, the god of thunder, and Jeff, a shark with legs](https://www.pcgamer.com/games/third-person-shooter/marvel-rivals-is-adding-two-new-heroes-before-the-end-of-the-closed-beta-test-thor-the-god-of-thunder-and-jeff-a-shark-with-legs)<!-- GAME:END -->
+ - [Double Fine PsychOdyssey: The Acclaimed Documentary Available in a Blu-ray Collector’s Set](https://limitedrungames.com/products/double-fine-psychodyssey-blu-ray-set)
+ - [Grand Theft Auto 6 Is Exempt From The Game Actors Strike](https://kotaku.com/grand-theft-auto-vi-gta6-voice-actor-strike-saf-aftra-1851606082)
+ - [Video Game Actors Are Going On Strike Over AI](https://kotaku.com/voice-actor-strike-sag-aftra-troy-baker-ai-cod-mw-3-1851604153)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
