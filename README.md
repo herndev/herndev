@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Another Game Just Got Review-Bombed Into Dropping Controversial Login Requirement](https://kotaku.com/epic-account-edf6-earth-defense-force-steam-helldivers-1851606486)
- - [Castle Crashers&#39; First DLC In 12 Years Lets You Make Your Own Characters](https://kotaku.com/castle-crashers-first-dlc-in-12-years-lets-you-make-you-1851606535)
- - [Fallout 76: Minerva’s Location And Inventory: Late July, 2024](https://kotaku.com/fallout-76-where-is-minerva-july-2024-inventory-1851606470)<!-- GAME:END -->
+ - [Scientists think there&#39;s a 10-mile-thick layer of diamond beneath the surface of Mercury, which would make you around 876 billion Minecraft pickaxes if my math is right](https://www.pcgamer.com/games/survival-crafting/scientists-think-theres-a-10-mile-thick-layer-of-diamond-beneath-the-surface-of-mercury-which-would-make-you-around-876-billion-minecraft-pickaxes-if-my-math-is-right)
+ - [Rings of Power just struck a huge blow for better gender representation in Middle-earth](https://www.polygon.com/sdcc/24206287/lord-rings-power-trailer-ent-entwives-tolkien)
+ - [Rings of Power’s SDCC trailer actually looks like the Lord of the Rings show we were promised](https://www.polygon.com/sdcc/2024/7/26/24206283/lord-rings-power-trailer-season-2-sauron-balrog-moria)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
