@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Mom films her child showing off the most venomous octopus to the camera.](http://9gag.com/gag/a34j5Ve)
- - ⏩ [Civilize Vs. Decivilize](http://9gag.com/gag/azxARqp)
- - 👉 [GenieDislikesCloud](http://9gag.com/gag/aLn9eNW)<!-- MEMES:END -->
+ - 💣 [Bro ain&#39;t a simp](http://9gag.com/gag/apRLDw5)
+ - ⏩ [Not Ok!](http://9gag.com/gag/aVveVB2)
+ - 👉 [Mom films her child showing off the most venomous octopus to the camera.](http://9gag.com/gag/a34j5Ve)<!-- MEMES:END -->
 
 ---
 
