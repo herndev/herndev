@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Nara police&#39;s response to latest trend of Chinese tourists beating up deer for fun.](http://9gag.com/gag/ae962pm)
- - ⏩ [Mom films her child showing off the most venomous octopus to the camera.](http://9gag.com/gag/a34j5Ve)
- - 👉 [Best handshake doesn&#39;t exist](http://9gag.com/gag/an71ng5)<!-- MEMES:END -->
+ - 💣 [OP does suck dick. Henry Cavill&#39;s.](http://9gag.com/gag/amozRpj)
+ - ⏩ [I guess he saw us and wanted to join the boys !](http://9gag.com/gag/aNDWO23)
+ - 👉 [Got to love indie games.](http://9gag.com/gag/a6ZQ982)<!-- MEMES:END -->
 
 ---
 
