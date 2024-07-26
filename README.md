@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [OP does suck dick. Henry Cavill&#39;s.](http://9gag.com/gag/amozRpj)
- - ⏩ [I guess he saw us and wanted to join the boys !](http://9gag.com/gag/aNDWO23)
- - 👉 [Got to love indie games.](http://9gag.com/gag/a6ZQ982)<!-- MEMES:END -->
+ - 💣 [Mom films her child showing off the most venomous octopus to the camera.](http://9gag.com/gag/a34j5Ve)
+ - ⏩ [Latest Paris Olympic scandal. Valuables of Argentinian team stolen from lacker room.](http://9gag.com/gag/aAyPXpE)
+ - 👉 [Not Ok!](http://9gag.com/gag/aVveVB2)<!-- MEMES:END -->
 
 ---
 
