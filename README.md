@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung reveals why it’s dropping Samsung Messages for Google Messages &lpar;Update&rpar;](https://www.androidauthority.com/samsung-drop-samsung-messages-google-messages-reason-3463520/)
- - [A look at the flood of &quot;fancam&quot; videos and memes about Kamala Harris on short-form video platforms, echoing &quot;meme armies&quot; that have supported Donald Trump &lpar;Washington Post&rpar;](http://www.techmeme.com/240725/p46#a240725p46)
- - [Today&#39;s NYT Strands Hints, Answers and Help for July 26, #145](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-july-26-145/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Major Samsung One UI 7 leak shows a very different One UI](https://www.androidauthority.com/samsung-one-ui-7-screenshots-leak-3464989/)
+ - [As xAI builds a supercomputer in Memphis, many locals are wary of its benefits, and environmental advocates are puzzled over its potential effects &lpar;Patrick Sisson/Bloomberg&rpar;](http://www.techmeme.com/240726/p1#a240726p1)
+ - [Today&#39;s NYT Mini Crossword Answers and Puzzle Help for July 26](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-and-puzzle-help-for-july-26/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
