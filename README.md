@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Wholesome indeed](http://9gag.com/gag/aryNz0V)
- - ⏩ [Bro skipped Brain Day](http://9gag.com/gag/aqyLdRM)
- - 👉 [Every man\u2019s dream](http://9gag.com/gag/a5QrDzG)<!-- MEMES:END -->
+ - 💣 [Should have used the right hand](http://9gag.com/gag/aAyPvWL)
+ - ⏩ [Mr Beast new video: survive 24 hrs locked in a room with Chris win 100k](http://9gag.com/gag/aVveBXK)
+ - 👉 [Bro skipped Brain Day](http://9gag.com/gag/aqyLdRM)<!-- MEMES:END -->
 
 ---
 
