@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The 2024 Olympic Games Opening Ceremony Goes Full Assassin&#39;s Creed Parkour On Paris&#39; Rooftops](https://kotaku.com/assassins-creed-2024-summer-olympic-games-paris-1851606886)
- - [Mortal Kombat 1 year 2 DLC brings Scream’s Ghostface, Noob Saibot, and Animalities to the game](https://www.polygon.com/sdcc/24198902/mk1-kombat-pack-2-dlc-characters-khaos-reigns-ed-boon)
- - [Survival RTS Cataclismo added a sandbox mode, because sometimes we just want to make our silly little castles in peace](https://www.pcgamer.com/games/strategy/survival-rts-cataclismo-added-a-sandbox-mode-because-sometimes-we-just-want-to-make-our-silly-little-castles-in-peace)<!-- GAME:END -->
+ - [Every ARPG needs a good endgame, and for No Rest for the Wicked, it&#39;s a roguelite that just got a huge update](https://www.pcgamer.com/games/rpg/every-arpg-needs-a-good-endgame-and-for-no-rest-for-the-wicked-its-a-roguelite-that-just-got-a-huge-update)
+ - [Actors&#39; union &#39;not happy&#39; about GTA 6 strike exemption, but confirms it&#39;s in a contract: &#39;Insane, but it&#39;s there&#39;](https://www.pcgamer.com/games/grand-theft-auto/actors-union-not-happy-about-gta-6-strike-exemption-but-confirms-its-in-a-contract-insane-but-its-there)
+ - [Bad Boys: Ride or Die, Ghostbusters: Frozen Empire on Netflix, and every movie new to streaming this week](https://www.polygon.com/2024/7/26/24199709/new-movies-bad-boys-ride-or-die-netflix-ghostbusters-frozen-empire)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
