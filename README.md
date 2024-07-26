@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Pixel Buds Pro 2: Everything we know so far](https://www.androidauthority.com/google-pixel-buds-pro-2-3393809/)
- - [The HP Spectre Foldable is one of the coolest laptops, and it’s $600 off right now](https://www.androidauthority.com/hp-spectre-foldable-deal-3465315/)
- - [Nothing Phone 2a Plus leak reveals Dimensity chipset, 50MP cameras, and more](https://www.androidauthority.com/nothing-phone-2a-plus-leak-3465311/)<!-- TECH:END -->
+ - [Google Discover gets interactive with ‘Today’s Teaser’ polls](https://www.androidauthority.com/google-discover-polls-3465236/)
+ - [The Galaxy Z Flip 6 actually does support Samsung DeX, but not the version you’re used to](https://www.androidauthority.com/samsung-galaxy-z-flip-6-new-dex-3465384/)
+ - [A look at the race to build advanced AI robots; PitchBook: robotics startups have raised $6.5B across 552 deals in 2024 vs. $9.7B across 1,256 deals in 2023 &lpar;Financial Times&rpar;](http://www.techmeme.com/240726/p14#a240726p14)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
