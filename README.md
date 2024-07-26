@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [A diver is attacked by a swordfish at a depth of 220 meters &lpar;721 feet&rpar; below the surface.](http://9gag.com/gag/avynRPX)
- - ⏩ [Newly released footage of the collapse of the WTC towers on 9/11 by Kei Sugimoto](http://9gag.com/gag/aRBevEA)
- - 👉 [Bring back old 9gag](http://9gag.com/gag/a9yYBAW)<!-- MEMES:END -->
+ - 💣 [Not Ok!](http://9gag.com/gag/aVveVB2)
+ - ⏩ [Civilize Vs. Decivilize](http://9gag.com/gag/azxARqp)
+ - 👉 [Mass Immigration is the direct key to decvilization](http://9gag.com/gag/a2v52qY)<!-- MEMES:END -->
 
 ---
 
