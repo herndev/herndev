@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Pixel Buds Pro 2 leak points to expensive upgrade](https://www.androidauthority.com/pixel-buds-pro-2-prices-leak-3465147/)
- - [Amazon knocks $100 off Apple&#39;s 2024 iPad Air 13-inch &lpar;lowest price ever&rpar;](https://appleinsider.com/articles/24/07/26/amazon-knocks-100-off-apples-2024-ipad-air-13-inch-lowest-price-ever?utm_medium=rss)
- - [Google Pixel 9 rumors: Everything we know so far about the upcoming Pixels](https://www.androidauthority.com/google-pixel-9-3365966/)<!-- TECH:END -->
+ - [There is no fix for Intel’s crashing 13th and 14th Gen CPUs — any damage is permanent](https://www.theverge.com/2024/7/26/24206529/intel-13th-14th-gen-crashing-instability-cpu-voltage-q-a)
+ - [X activates a default setting that gives it permission to train Grok AI on user&#39;s posts; the setting can be turned off on the web but not in the mobile app &lpar;Kevin Okemwa/Windows Central&rpar;](http://www.techmeme.com/240726/p10#a240726p10)
+ - [Here are the Pixel 9’s new photo features in action](https://www.androidauthority.com/pixel-9-feature-video-3465175/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
