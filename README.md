@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Would you pay a premium for a removable battery smartphone?](https://www.androidauthority.com/smartphone-battery-removable-replaceable-poll-3464650/)
  - [Major Samsung One UI 7 leak shows a very different One UI](https://www.androidauthority.com/samsung-one-ui-7-screenshots-leak-3464989/)
- - [As xAI builds a supercomputer in Memphis, many locals are wary of its benefits, and environmental advocates are puzzled over its potential effects &lpar;Patrick Sisson/Bloomberg&rpar;](http://www.techmeme.com/240726/p1#a240726p1)
- - [Today&#39;s NYT Mini Crossword Answers and Puzzle Help for July 26](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-and-puzzle-help-for-july-26/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [As xAI builds a supercomputer in Memphis, many locals are wary of its benefits, and environmental advocates are puzzled over its potential effects &lpar;Patrick Sisson/Bloomberg&rpar;](http://www.techmeme.com/240726/p1#a240726p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
