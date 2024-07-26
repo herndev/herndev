@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Never let anyone know your next move.](http://9gag.com/gag/axyDOKM)
- - ⏩ [Wholesome seemed proper](http://9gag.com/gag/ayN8W5b)
- - 👉 [S\u01dd\u0287\u0250\u0279\u01ddu\u01dd\u0183\u01ddp \u028doll\u01dd\u025f \u028e\u026f \u0250\u1d09l\u0250\u0279\u0287sn\u2200 \u026fo\u0279\u025f s\u0279\u01dd\u01dd\u0265\u0186](http://9gag.com/gag/a34j0Ne)<!-- MEMES:END -->
+ - 💣 [A diver is attacked by a swordfish at a depth of 220 meters &lpar;721 feet&rpar; below the surface.](http://9gag.com/gag/avynRPX)
+ - ⏩ [China is preparing Covid-24](http://9gag.com/gag/ajPDK6p)
+ - 👉 [Ph.D.](http://9gag.com/gag/a874zOY)<!-- MEMES:END -->
 
 ---
 
