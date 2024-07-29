@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Circle to Search arriving to streamline Google Lens in your Chrome browser](https://www.androidauthority.com/circle-search-chrome-3465899/)
- - [Twitch rolls out a revamped iOS and Android app, which now shows a TikTok-like feed of recommended content when it&#39;s opened, instead of a &quot;Following&quot; list &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/240729/p14#a240729p14)
- - [Apple admits to using Google Tensor hardware to train Apple Intelligence](https://appleinsider.com/articles/24/07/29/apple-admits-to-using-google-tensor-hardware-to-train-apple-intelligence?utm_medium=rss)<!-- TECH:END -->
+ - [Deal: Google Pixel 8 Pro goes back to its all-time-low price](https://www.androidauthority.com/google-pixel-8-pro-deal-2-3465994/)
+ - [M3 MacBook Pro 14-inch gets an upgrade with macOS Sonoma 14.6](https://appleinsider.com/articles/24/07/29/m3-macbook-pro-14-inch-gets-an-upgrade-with-macos-sonoma-146?utm_medium=rss)
+ - [Meta rolls out AI Studio in the US, letting users create and share AI chatbots, and Instagram creators set up chatbots to answer DM questions and story replies &lpar;Karissa Bell/Engadget&rpar;](http://www.techmeme.com/240729/p15#a240729p15)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
