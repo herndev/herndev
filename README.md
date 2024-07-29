@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Every ARPG needs a good endgame, and for No Rest for the Wicked, it&#39;s a roguelite that just got a huge update](https://www.pcgamer.com/games/rpg/every-arpg-needs-a-good-endgame-and-for-no-rest-for-the-wicked-its-a-roguelite-that-just-got-a-huge-update)
- - [Actors&#39; union &#39;not happy&#39; about GTA 6 strike exemption, but confirms it&#39;s in a contract: &#39;Insane, but it&#39;s there&#39;](https://www.pcgamer.com/games/grand-theft-auto/actors-union-not-happy-about-gta-6-strike-exemption-but-confirms-its-in-a-contract-insane-but-its-there)
- - [Bad Boys: Ride or Die, Ghostbusters: Frozen Empire on Netflix, and every movie new to streaming this week](https://www.polygon.com/2024/7/26/24199709/new-movies-bad-boys-ride-or-die-netflix-ghostbusters-frozen-empire)<!-- GAME:END -->
+ - [The Behemoth will update Castle Crashers, Battleblock Theater, and more](https://www.pcgamer.com/games/the-behemoth-will-update-castle-crashers-battleblock-theater-and-more)
+ - [Abstract factory-building sequel Shapez 2 will release in August](https://www.pcgamer.com/games/strategy/abstract-factory-game-sequel-shapez-2-will-release-in-august)
+ - [I am continually betrayed by Deep Rock Galactic: Survivor’s shiny snail](https://www.polygon.com/24206244/deep-rock-galactic-huuli-hoarder-treasure-snail)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
