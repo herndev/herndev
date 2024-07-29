@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Cool statues at Comic-Con might&#39;ve leaked upcoming Legacy of Kain: Soul Reaver remasters](https://www.pcgamer.com/games/action/cool-statues-at-comic-con-mightve-leaked-upcoming-legacy-of-kain-soul-reaver-remasters)
- - [After 14 hours and 239 nonstop tries, an Elden Ring Steamer beat Shadow of the Erdtree&#39;s final boss twice simultaneously with a controller and a dance pad](https://www.pcgamer.com/games/rpg/after-14-hours-and-239-nonstop-tries-an-elden-ring-steamer-beat-shadow-of-the-erdtrees-final-boss-twice-simultaneously-with-a-controller-and-a-dance-pad)
- - [Zen 5 tested: AMD&#39;s Ryzen AI 300-series brings new cores and a revamped RDNA 3.5 GPU for chunky performance gains in laptops and handhelds](https://www.pcgamer.com/hardware/gaming-laptops/amd-zen-5-ryzen-ai-hx-370-tested)<!-- GAME:END -->
+ - [Join the Hell Let Loose Update Preview Today!](https://news.xbox.com/en-us/2024/07/29/join-the-hell-let-loose-update-preview-today/)
+ - [House Of The Dragon Season 2 Episode 7 Recap: An Army of Bastards](https://kotaku.com/house-of-the-dragon-season-2-episode-7-recap-an-army-o-1851607816)
+ - [Deadpool’s first MCU movie is already one of Marvel’s all-time biggest hits](https://www.polygon.com/24208716/deadpool-and-wolverine-box-office-record-r-rated)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
