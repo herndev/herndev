@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Report claims that OpenAI has burned through $8.5 billion on AI training and staffing, and could be on track to make a $5 billion loss](https://www.pcgamer.com/software/ai/report-claims-that-openai-has-burned-through-dollar85-billion-on-ai-training-and-staffing-and-could-be-on-track-to-make-a-dollar5-billion-loss)
- - [All the dragons in House of the Dragon](https://www.polygon.com/23381183/house-dragon-all-dragons-riders-vhagar)
- - [House of the Dragon makes dragon riding look easy&lpar;ish&rpar; — is it supposed to be?](https://www.polygon.com/24205330/house-dragon-riding-bonding-books-grrm-comparison)<!-- GAME:END -->
+ - [Finally, House of the Dragon gets to the goddamn dragons](https://www.polygon.com/24207162/house-dragon-hotd-season-2-episode-7-review)
+ - [&#39;It&#39;s a soccer ball&#39;: Modders are already correcting Fallout: London&#39;s local lingo one sport at a time](https://www.pcgamer.com/games/fallout/its-a-soccer-ball-modders-are-already-correcting-fallout-londons-local-lingo-one-sport-at-a-time)
+ - [Intel has no plans to recall those crashing 13th and 14th Gen CPUs, hasn&#39;t halted sales, and the damage to affected chips may be permanent](https://www.pcgamer.com/hardware/processors/intel-has-no-plans-to-recall-those-crashing-13th-and-14th-gen-cpus-hasnt-halted-sales-and-the-damage-to-affected-chips-may-be-permanent)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
