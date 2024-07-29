@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Elon Musk posts deepfake of Kamala Harris that violates X policy](https://www.theverge.com/2024/7/29/24208671/elon-musk-deepfake-ai-kamala-harris-parody)
- - [Luxury brands Balenciaga and Rimowa launch Apple Vision Pro apps](https://appleinsider.com/articles/24/07/29/luxury-brands-balenciaga-and-rimowa-launch-apple-vision-pro-apps?utm_medium=rss)
- - [Apple Intelligence AI features will wait for iOS 18.1](https://www.theverge.com/2024/7/29/24208656/apple-intelligence-ai-ios-18-1-iphone-16-launch)<!-- TECH:END -->
+ - [Flash deal: get Apple&#39;s 14-inch MacBook Pro with 36GB RAM for $2,149](https://appleinsider.com/articles/24/07/29/flash-deal-get-apples-14-inch-macbook-pro-with-36gb-ram-for-2149?utm_medium=rss)
+ - [A US court rules that US border agents must get a warrant before searching the electronic devices of Americans and international travelers crossing the border &lpar;Zack Whittaker/TechCrunch&rpar;](http://www.techmeme.com/240729/p8#a240729p8)
+ - [Indie studio opens up to share canceled Magic School project](https://www.theverge.com/2024/7/29/24208757/dinosaur-polo-club-canceled-game-magic-school)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
