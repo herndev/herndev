@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung is refreshing apps ahead of One UI 7 beta &lpar;Update&rpar;](https://www.androidauthority.com/samsung-clock-one-ui-7-refresh-3464512/)
- - [The next big Apple TV Plus feature? Ads.](https://www.androidauthority.com/apple-tv-plus-ads-rumor-3465643/)
- - [Back to BASIC—the Most Consequential Programming Language in the History of Computing](https://www.wired.com/story/back-to-basic-the-most-consequential-programming-language/)<!-- TECH:END -->
+ - [ISD: hundreds of extremist TikTok accounts are openly sharing Hitler-related propaganda, including Holocaust denial videos, and trying to recruit new members &lpar;David Gilbert/Wired&rpar;](http://www.techmeme.com/240729/p3#a240729p3)
+ - [Apple prepares for iPhone 16 Pro model production in India](https://appleinsider.com/articles/24/07/29/apple-prepares-for-iphone-16-pro-model-production-in-india?utm_medium=rss)
+ - [TD Cowen raises AAPL target to $250 on AI and China sales](https://appleinsider.com/articles/24/07/29/td-cowen-raises-aapl-target-to-250-on-ai-and-china-sales?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
