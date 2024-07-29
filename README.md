@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Some popular sites like Cond&amp;eacute; Nast&#39;s and Reuters&#39; have robots.txt files meant to block Anthropic&#39;s bots, but Anthropic has just made new bots with other names &lpar;Jason Koebler/404 Media&rpar;](http://www.techmeme.com/240729/p12#a240729p12)
- - [Google’s Quick Share actually works on the new Copilot Plus Windows PCs](https://www.androidauthority.com/quick-share-for-windows-on-arm-3465842/)
- - [This $60 chip fixes a longstanding Super Nintendo flaw](https://www.theverge.com/2024/7/29/24208741/super-nintendo-upgrade-voultar-edge-enhancer-mod)<!-- TECH:END -->
+ - [Sorry, custom ROM fans: Google would rather have broken apps than insecure apps](https://www.androidauthority.com/custom-rom-app-support-3465848/)
+ - [Samsung’s artsy Music Frame speaker is down to its lowest price to date](https://www.theverge.com/2024/7/29/24208786/samsung-music-frame-speaker-deal-sale)
+ - [Report: The rumored Galaxy Z Fold 6 ‘Slim’ might still not be slim enough to compete](https://www.androidauthority.com/z-fold6-slim-thinness-3465838/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
