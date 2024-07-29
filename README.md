@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Your iPhone 16 might not pack Apple Intelligence at launch](https://www.androidauthority.com/iphone-16-might-not-pack-apple-intelligence-3465602/)
- - [Buy games while you can: The Xbox 360 store shuts down today](https://www.androidauthority.com/xbox-360-store-shut-down-today-3465587/)
- - [CNET Survey: US Adults Will Spend an Average of $662 This Year on Back-to-School Shopping](https://www.cnet.com/personal-finance/us-adults-will-spend-an-average-of-662-this-year-on-back-to-school-shopping/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Samsung is refreshing apps ahead of One UI 7 beta](https://www.androidauthority.com/samsung-clock-one-ui-7-refresh-3464512/)
+ - [A now freed Ethiopian man named Guracha Belachew Bersha details how he scammed hundreds online after he was enslaved in a pig butchering scam center in Myanmar &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240729/p1#a240729p1)
+ - [Your iPhone 16 might not pack Apple Intelligence at launch](https://www.androidauthority.com/iphone-16-might-not-pack-apple-intelligence-3465602/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
