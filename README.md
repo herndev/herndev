@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Why I stop going to gym](http://9gag.com/gag/aRBepY2)
- - ⏩ [`They deleted their own opening ceremony video and began DMCA-striking every commentary channel that used it`](http://9gag.com/gag/a7odXdz)
- - 👉 [Heron\u2019t](http://9gag.com/gag/a6ZQejR)<!-- MEMES:END -->
+ - 💣 [Some driver just can&#39;t grasp the concept that road rules exist](http://9gag.com/gag/amozw7X)
+ - ⏩ [When the bed is made of cardboard.](http://9gag.com/gag/amoz4Dy)
+ - 👉 [Cop did this to protect himself from the driver because he was \u2026sitting there menacingly](http://9gag.com/gag/aBy1MZN)<!-- MEMES:END -->
 
 ---
 
