@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Flash deal: get Apple&#39;s 14-inch MacBook Pro with 36GB RAM for $2,149](https://appleinsider.com/articles/24/07/29/flash-deal-get-apples-14-inch-macbook-pro-with-36gb-ram-for-2149?utm_medium=rss)
- - [A US court rules that US border agents must get a warrant before searching the electronic devices of Americans and international travelers crossing the border &lpar;Zack Whittaker/TechCrunch&rpar;](http://www.techmeme.com/240729/p8#a240729p8)
- - [Indie studio opens up to share canceled Magic School project](https://www.theverge.com/2024/7/29/24208757/dinosaur-polo-club-canceled-game-magic-school)<!-- TECH:END -->
+ - [Samsung’s got a fix in the works for your Galaxy Watch 7’s pathetic battery life](https://www.androidauthority.com/galaxy-watch-7-battery-fix-3465789/)
+ - [Save Over $300 on This TCL 4K TV at Walmart](https://www.cnet.com/deals/save-over-300-on-this-tcl-4k-tv-at-walmart/#ftag=CAD590a51e)
+ - [LinkedIn and Pinterest are testing programs that let publishers sell ads on their videos and pages, respectively, in exchange for a cut of the resulting revenue &lpar;Sahil Patel/The Information&rpar;](http://www.techmeme.com/240729/p9#a240729p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
