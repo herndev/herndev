@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Join the Hell Let Loose Update Preview Today!](https://news.xbox.com/en-us/2024/07/29/join-the-hell-let-loose-update-preview-today/)
- - [House Of The Dragon Season 2 Episode 7 Recap: An Army of Bastards](https://kotaku.com/house-of-the-dragon-season-2-episode-7-recap-an-army-o-1851607816)
- - [Deadpool’s first MCU movie is already one of Marvel’s all-time biggest hits](https://www.polygon.com/24208716/deadpool-and-wolverine-box-office-record-r-rated)<!-- GAME:END -->
+ - [How To Defeat Commander Gaius &lpar;And His Giant Boar&rpar; In In Elden Ring: Shadow Of The Erdtree](https://kotaku.com/elden-ring-shadow-erdtree-how-to-beat-gaius-boss-1851607784)
+ - [House Of The Dragon Is A Masterclass In Adaptation](https://kotaku.com/house-of-the-dragon-book-season-2-adaptation-finale-1851607960)
+ - [Suicide Squad Might Bring Batman And Everyone Else Back From The Dead](https://kotaku.com/suicide-squad-kill-justice-league-flash-batman-alive-1851607920)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
