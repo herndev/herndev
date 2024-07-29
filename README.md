@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The must-watch anime to look out for in summer 2024](https://www.polygon.com/23960593/new-anime-2024-release-calendar-schedule-watch-streaming)
- - [Fallout: New Vegas designer slams unrealistic release dates that &#39;burn out and demoralize the developers&#39; as he shares tips on how to spot when a game needs more time in the oven](https://www.pcgamer.com/games/fallout/fallout-new-vegas-designer-slams-unrealistic-release-dates-that-burn-out-and-demoralize-the-developers-as-he-shares-tips-on-how-to-spot-when-a-game-needs-more-time-in-the-oven)
- - [Watch YouTubers Use Mario Kart&#39;s Green Shells To Destroy A Car In Real Life](https://kotaku.com/mario-kart-no-bitrate-green-shell-real-life-1851607447)<!-- GAME:END -->
+ - [Nvidia&#39;s reportedly scaling back RTX 40 series production by as much as 50% in preparation for the Blackwell RTX 50 launch](https://www.pcgamer.com/hardware/graphics-cards/nvidias-reportedly-scaling-back-rtx-40-series-production-by-as-much-as-50-in-preparation-for-the-blackwell-rtx-50-launch)
+ - [PlayStation VR 2 is $200 off this week](https://www.polygon.com/deals/2024/7/29/24208657/playstation-vr-2-psvr2-sony-summer-sale)
+ - [AMD&#39;s Ryzen 9000-series CPUs may have been delayed because of a typo on the heatspreader, which is definitely not the sort of mistake I&#39;d ever make](https://www.pcgamer.com/hardware/processors/amds-ryzen-9000-series-cpus-may-have-been-delayed-because-of-a-typo-on-the-heatspreader-which-is-definitely-not-the-sort-of-mistake-id-ever-make)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
