@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Remnant 2 announces plans for its 3rd DLC: The Dark Horizon—and it&#39;ll be chucking in a free game mode and &#39;progression system&#39; to boot](https://www.pcgamer.com/games/third-person-shooter/remnant-2-announces-plans-for-its-3rd-dlc-the-dark-horizon-and-it-ll-be-chucking-in-a-free-game-mode-and-progression-system-to-boot)
- - [Visions of Mana: new details on three Elemental Vessels, plus deep dive video](https://blog.playstation.com/2024/07/29/visions-of-mana-new-details-on-three-elemental-vessels-plus-deep-dive-video/)
- - [Finally, House of the Dragon gets to the goddamn dragons](https://www.polygon.com/24207162/house-dragon-hotd-season-2-episode-7-review)<!-- GAME:END -->
+ - [The must-watch anime to look out for in summer 2024](https://www.polygon.com/23960593/new-anime-2024-release-calendar-schedule-watch-streaming)
+ - [Fallout: New Vegas designer slams unrealistic release dates that &#39;burn out and demoralize the developers&#39; as he shares tips on how to spot when a game needs more time in the oven](https://www.pcgamer.com/games/fallout/fallout-new-vegas-designer-slams-unrealistic-release-dates-that-burn-out-and-demoralize-the-developers-as-he-shares-tips-on-how-to-spot-when-a-game-needs-more-time-in-the-oven)
+ - [Watch YouTubers Use Mario Kart&#39;s Green Shells To Destroy A Car In Real Life](https://kotaku.com/mario-kart-no-bitrate-green-shell-real-life-1851607447)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
