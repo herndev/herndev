@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Why I stop going to gym](http://9gag.com/gag/aRBepY2)
- - ⏩ [Olympics are a joke](http://9gag.com/gag/azxAyqz)
- - 👉 [Alicja Pyszka-Bazan - winner and new world record holder in the Triple Ironman &lpar;11.4 km swimming, 540 km cycling and 126.6 km running&rpar;](http://9gag.com/gag/a5QrYYr)<!-- MEMES:END -->
+ - 💣 [Last time she asks me to do the dishes](http://9gag.com/gag/a5Qr3Eo)
+ - ⏩ [When the bed is made of cardboard.](http://9gag.com/gag/amoz4Dy)
+ - 👉 [Why I stop going to gym](http://9gag.com/gag/aRBepY2)<!-- MEMES:END -->
 
 ---
 
