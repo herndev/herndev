@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Cop did this to protect himself from the driver because he was \u2026sitting there menacingly](http://9gag.com/gag/aBy1MZN)
- - ⏩ [Bailey R.](http://9gag.com/gag/aE0n94p)
- - 👉 [Why is that?](http://9gag.com/gag/aXPw1zV)<!-- MEMES:END -->
+ - 💣 [When the bed is made of cardboard.](http://9gag.com/gag/amoz4Dy)
+ - ⏩ [Dog?](http://9gag.com/gag/ae96nwp)
+ - 👉 [Streatch your back!](http://9gag.com/gag/aXPwy0v)<!-- MEMES:END -->
 
 ---
 
