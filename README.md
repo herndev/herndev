@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Office wife](http://9gag.com/gag/aPAWdbB)
- - ⏩ [Polish soldiers can shoot legaly doctors and engineers trespassing our border!](http://9gag.com/gag/a2v5xy9)
- - 👉 [In China, they scan and create 3D models of people](http://9gag.com/gag/aXPwdoP)<!-- MEMES:END -->
+ - 💣 [Why I stop going to gym](http://9gag.com/gag/aRBepY2)
+ - ⏩ [`They deleted their own opening ceremony video and began DMCA-striking every commentary channel that used it`](http://9gag.com/gag/a7odXdz)
+ - 👉 [Heron\u2019t](http://9gag.com/gag/a6ZQejR)<!-- MEMES:END -->
 
 ---
 
