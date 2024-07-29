@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Pixel 8 Pro or the Pixel 9 Pro XL? Which design appeals to you?](https://www.androidauthority.com/pixel-8-pro-pixel-9-pro-xl-design-poll-3465622/)
- - [Hikers saved from wildfires by Emergency SOS via Satellite](https://appleinsider.com/articles/24/07/29/hikers-saved-from-wildfires-by-emergency-sos-via-satellite?utm_medium=rss)
- - [Google’s new Nest Thermostat has an improved UI and ‘borderless’ display](https://www.theverge.com/2024/7/29/24208556/google-nest-thermostat-4th-gen-leak-pricing-features)<!-- TECH:END -->
+ - [Samsung is refreshing apps ahead of One UI 7 beta &lpar;Update&rpar;](https://www.androidauthority.com/samsung-clock-one-ui-7-refresh-3464512/)
+ - [The next big Apple TV Plus feature? Ads.](https://www.androidauthority.com/apple-tv-plus-ads-rumor-3465643/)
+ - [Back to BASIC—the Most Consequential Programming Language in the History of Computing](https://www.wired.com/story/back-to-basic-the-most-consequential-programming-language/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
