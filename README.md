@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [When the bed is made of cardboard.](http://9gag.com/gag/amoz4Dy)
- - ⏩ [Reason no.7 why women live longer than man.](http://9gag.com/gag/adBXEqM)
- - 👉 [The divide in an interracial wedding is visible](http://9gag.com/gag/aNDW7O3)<!-- MEMES:END -->
+ - 💣 [Why I stop going to gym](http://9gag.com/gag/aRBepY2)
+ - ⏩ [Bailey R.](http://9gag.com/gag/aE0n94p)
+ - 👉 [Cheers to all the fathers](http://9gag.com/gag/aLn9oEv)<!-- MEMES:END -->
 
 ---
 
