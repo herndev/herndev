@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [When the bed is made of cardboard.](http://9gag.com/gag/amoz4Dy)
- - ⏩ [Dog?](http://9gag.com/gag/ae96nwp)
- - 👉 [Streatch your back!](http://9gag.com/gag/aXPwy0v)<!-- MEMES:END -->
+ - 💣 [Why I stop going to gym](http://9gag.com/gag/aRBepY2)
+ - ⏩ [Maya Rudolph on Hot Ones is the funniest thing I&#39;ve ever seen](http://9gag.com/gag/aKG3RPj)
+ - 👉 [Alicja Pyszka-Bazan - winner and new world record holder in the Triple Ironman &lpar;11.4 km swimming, 540 km cycling and 126.6 km running&rpar;](http://9gag.com/gag/a5QrYYr)<!-- MEMES:END -->
 
 ---
 
