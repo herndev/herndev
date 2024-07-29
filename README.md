@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [ISD: hundreds of extremist TikTok accounts are openly sharing Hitler-related propaganda, including Holocaust denial videos, and trying to recruit new members &lpar;David Gilbert/Wired&rpar;](http://www.techmeme.com/240729/p3#a240729p3)
- - [Apple prepares for iPhone 16 Pro model production in India](https://appleinsider.com/articles/24/07/29/apple-prepares-for-iphone-16-pro-model-production-in-india?utm_medium=rss)
- - [TD Cowen raises AAPL target to $250 on AI and China sales](https://appleinsider.com/articles/24/07/29/td-cowen-raises-aapl-target-to-250-on-ai-and-china-sales?utm_medium=rss)<!-- TECH:END -->
+ - [South Korea will provide $400M to vendors hit by payment delays on two Qoo10 e-commerce platforms, and Qoo10&#39;s founder pledges to use his own assets to help &lpar;Reuters&rpar;](http://www.techmeme.com/240729/p4#a240729p4)
+ - [The AI Keeps the Score](https://www.theverge.com/c/24182327/olympics-gymnastics-ai-judging-fujitsu-jss-fig)
+ - [Samsung Galaxy Ring battery life: Here’s what to expect](https://www.androidauthority.com/samsung-galaxy-ring-battery-life-testing-3458592/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
