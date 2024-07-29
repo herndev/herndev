@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Play These 10 Video Games To Feed Your Summer Olympics Obsession](https://kotaku.com/paris-2024-olympics-video-games-assassins-creed-mario-1851608095)
- - [The Last of Us anniversary vinyl box set is on sale for its lowest price yet](https://www.polygon.com/deals/2024/7/29/24208886/last-of-us-10th-anniversary-vinyl-box-set-sale-discount-tlou-2)
- - [Dance Your Enemies To Death With This Shadow Of The Erdtree Sword](https://kotaku.com/elden-ring-shadow-erdtree-dancing-blade-ranah-location-1851607969)<!-- GAME:END -->
+ - [Gamers mourn Xbox 360 after digital store shutdown](https://www.polygon.com/24209001/xbox-360-store-shutdown-rip)
+ - [Another Call of Duty cheat maker bites the dust, this time without a fight](https://www.pcgamer.com/games/another-call-of-duty-cheat-maker-bites-the-dust-this-time-without-a-fight)
+ - [The greatest betrayal in The Sims 4 is when none of the color swatches match](https://www.pcgamer.com/games/the-sims/the-greatest-betrayal-in-the-sims-4-is-when-none-of-the-color-swatches-match)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
