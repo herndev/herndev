@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Alicja Pyszka-Bazan - winner and new world record holder in the Triple Ironman &lpar;11.4 km swimming, 540 km cycling and 126.6 km running&rpar;](http://9gag.com/gag/a5QrYYr)
- - ⏩ [When the bed is made of cardboard.](http://9gag.com/gag/amoz4Dy)
- - 👉 [Bailey R.](http://9gag.com/gag/aE0n94p)<!-- MEMES:END -->
+ - 💣 [Oof....](http://9gag.com/gag/a6ZQ0rb)
+ - ⏩ [Bailey R.](http://9gag.com/gag/aE0n94p)
+ - 👉 [Czech climber Adam Ondra free climbs El Capitan in Yosemite National Park. I&#39;ve stood at the base of El Capitan, I could not ever imagine doing this. Crazy fella indeed](http://9gag.com/gag/aBy1prZ)<!-- MEMES:END -->
 
 ---
 
