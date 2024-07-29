@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Steam Tower Defense Fest is here, bringing sales on games where buildings do the battling](https://www.pcgamer.com/games/strategy/the-steam-tower-defense-fest-is-here-bringing-sales-on-games-where-buildings-do-the-battling)
- - [How the Radiant Echoes event works in World of Warcraft](https://www.pcgamer.com/games/mmo/world-of-warcraft/wow-radiant-echoes-prepatch-event)
- - [The circle is now complete: The developer of an open-source port of Dark Forces who consulted on the Nightdive Remaster is working on putting the remaster back in the source port](https://www.pcgamer.com/games/fps/the-circle-is-now-complete-the-developer-of-an-open-source-port-of-dark-forces-who-consulted-on-the-nightdive-remaster-is-working-on-putting-the-remaster-back-in-the-source-port)<!-- GAME:END -->
+ - [World of Goo 2 drops globular trailer, soundtrack preview ahead of launch this week](https://www.pcgamer.com/games/world-of-goo-2-drops-globular-trailer-soundtrack-preview-ahead-of-launch-this-week)
+ - [Diablo 4 player finds counterfeit &#39;legendary&#39; items that shouldn&#39;t exist](https://www.pcgamer.com/games/rpg/diablo-4-player-finds-counterfeit-legendary-items-that-shouldnt-exist)
+ - [The Steam Tower Defense Fest is here, bringing sales on games where buildings do the battling](https://www.pcgamer.com/games/strategy/the-steam-tower-defense-fest-is-here-bringing-sales-on-games-where-buildings-do-the-battling)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
