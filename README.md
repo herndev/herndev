@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Oof....](http://9gag.com/gag/a6ZQ0rb)
+ - 💣 [Czech climber Adam Ondra free climbs El Capitan in Yosemite National Park. I&#39;ve stood at the base of El Capitan, I could not ever imagine doing this. Crazy fella indeed](http://9gag.com/gag/aBy1prZ)
  - ⏩ [Bailey R.](http://9gag.com/gag/aE0n94p)
- - 👉 [Czech climber Adam Ondra free climbs El Capitan in Yosemite National Park. I&#39;ve stood at the base of El Capitan, I could not ever imagine doing this. Crazy fella indeed](http://9gag.com/gag/aBy1prZ)<!-- MEMES:END -->
+ - 👉 [When the bed is made of cardboard.](http://9gag.com/gag/amoz4Dy)<!-- MEMES:END -->
 
 ---
 
