@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung is refreshing apps ahead of One UI 7 beta](https://www.androidauthority.com/samsung-clock-one-ui-7-refresh-3464512/)
- - [A now freed Ethiopian man named Guracha Belachew Bersha details how he scammed hundreds online after he was enslaved in a pig butchering scam center in Myanmar &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240729/p1#a240729p1)
- - [Your iPhone 16 might not pack Apple Intelligence at launch](https://www.androidauthority.com/iphone-16-might-not-pack-apple-intelligence-3465602/)<!-- TECH:END -->
+ - [Pixel 8 Pro or the Pixel 9 Pro XL? Which design appeals to you?](https://www.androidauthority.com/pixel-8-pro-pixel-9-pro-xl-design-poll-3465622/)
+ - [Hikers saved from wildfires by Emergency SOS via Satellite](https://appleinsider.com/articles/24/07/29/hikers-saved-from-wildfires-by-emergency-sos-via-satellite?utm_medium=rss)
+ - [Google’s new Nest Thermostat has an improved UI and ‘borderless’ display](https://www.theverge.com/2024/7/29/24208556/google-nest-thermostat-4th-gen-leak-pricing-features)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
