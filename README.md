@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Allah works in mysterious ways](http://9gag.com/gag/aAyPz00)
- - ⏩ [Maya Rudolph on Hot Ones is the funniest thing I&#39;ve ever seen](http://9gag.com/gag/aKG3RPj)
- - 👉 [Last time she asks me to do the dishes](http://9gag.com/gag/a5Qr3Eo)<!-- MEMES:END -->
+ - ⏩ [When the bed is made of cardboard.](http://9gag.com/gag/amoz4Dy)
+ - 👉 [The amount of money Olympic Athletes earn winning a medal based on their country](http://9gag.com/gag/aO8vEgv)<!-- MEMES:END -->
 
 ---
 
