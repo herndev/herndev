@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Why I stop going to gym](http://9gag.com/gag/aRBepY2)
- - ⏩ [Maya Rudolph on Hot Ones is the funniest thing I&#39;ve ever seen](http://9gag.com/gag/aKG3RPj)
- - 👉 [Alicja Pyszka-Bazan - winner and new world record holder in the Triple Ironman &lpar;11.4 km swimming, 540 km cycling and 126.6 km running&rpar;](http://9gag.com/gag/a5QrYYr)<!-- MEMES:END -->
+ - 💣 [When the bed is made of cardboard.](http://9gag.com/gag/amoz4Dy)
+ - ⏩ [Reason no.7 why women live longer than man.](http://9gag.com/gag/adBXEqM)
+ - 👉 [The divide in an interracial wedding is visible](http://9gag.com/gag/aNDW7O3)<!-- MEMES:END -->
 
 ---
 
