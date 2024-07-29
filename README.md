@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Dog?](http://9gag.com/gag/ae96nwp)
- - ⏩ [Good driving skills](http://9gag.com/gag/aGyD4j6)
- - 👉 [Reason no.7 why women live longer than man.](http://9gag.com/gag/adBXEqM)<!-- MEMES:END -->
+ - 💣 [I Was Suddenly Divorced And Became A Single Father, The Busty Housewives In My Neighborhood Felt Sorry For Me, So They Helped With Housework!](http://9gag.com/gag/aAyPjVp)
+ - ⏩ [Why I stop going to gym](http://9gag.com/gag/aRBepY2)
+ - 👉 [When the bed is made of cardboard.](http://9gag.com/gag/amoz4Dy)<!-- MEMES:END -->
 
 ---
 
