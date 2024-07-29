@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [iOS 17.6 &amp; more arrives in wake of Apple Intelligence beta release](https://appleinsider.com/articles/24/07/29/ios-176-more-arrives-in-wake-of-apple-intelligence-beta-release?utm_medium=rss)
- - [A look at the AI-assisted Judging Support System for scoring in gymnastics that made its debut at the 2023 world championships and helps settle disputes &lpar;Dvora Meyers/The Verge&rpar;](http://www.techmeme.com/240729/p13#a240729p13)
- - [Apple’s iOS 18.1 developer beta adds AI call recording and transcription](https://www.theverge.com/2024/7/29/24209024/apple-ios-18-1-developer-beta-iphone-call-recording-transcription)<!-- TECH:END -->
+ - [Circle to Search arriving to streamline Google Lens in your Chrome browser](https://www.androidauthority.com/circle-search-chrome-3465899/)
+ - [Twitch rolls out a revamped iOS and Android app, which now shows a TikTok-like feed of recommended content when it&#39;s opened, instead of a &quot;Following&quot; list &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/240729/p14#a240729p14)
+ - [Apple admits to using Google Tensor hardware to train Apple Intelligence](https://appleinsider.com/articles/24/07/29/apple-admits-to-using-google-tensor-hardware-to-train-apple-intelligence?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
