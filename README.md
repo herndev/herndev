@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Some driver just can&#39;t grasp the concept that road rules exist](http://9gag.com/gag/amozw7X)
+ - 💣 [Cheers to all the fathers](http://9gag.com/gag/aLn9oEv)
  - ⏩ [When the bed is made of cardboard.](http://9gag.com/gag/amoz4Dy)
- - 👉 [Cop did this to protect himself from the driver because he was \u2026sitting there menacingly](http://9gag.com/gag/aBy1MZN)<!-- MEMES:END -->
+ - 👉 [Pigeon impacted feather follicle cyst removed](http://9gag.com/gag/aRBe8xq)<!-- MEMES:END -->
 
 ---
 
