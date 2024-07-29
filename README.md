@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Allah works in mysterious ways](http://9gag.com/gag/aAyPz00)
- - ⏩ [When the bed is made of cardboard.](http://9gag.com/gag/amoz4Dy)
- - 👉 [The amount of money Olympic Athletes earn winning a medal based on their country](http://9gag.com/gag/aO8vEgv)<!-- MEMES:END -->
+ - 💣 [Czech climber Adam Ondra free climbs El Capitan in Yosemite National Park. I&#39;ve stood at the base of El Capitan, I could not ever imagine doing this. Crazy fella indeed](http://9gag.com/gag/aBy1prZ)
+ - ⏩ [Why is that?](http://9gag.com/gag/aXPw1zV)
+ - 👉 [9 different mug shots and I still think I can fix her , every one deserves a second chance](http://9gag.com/gag/aLn9ZV5)<!-- MEMES:END -->
 
 ---
 
