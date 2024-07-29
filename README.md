@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Last time she asks me to do the dishes](http://9gag.com/gag/a5Qr3Eo)
- - ⏩ [When the bed is made of cardboard.](http://9gag.com/gag/amoz4Dy)
- - 👉 [Why I stop going to gym](http://9gag.com/gag/aRBepY2)<!-- MEMES:END -->
+ - 💣 [Why I stop going to gym](http://9gag.com/gag/aRBepY2)
+ - ⏩ [Last time she asks me to do the dishes](http://9gag.com/gag/a5Qr3Eo)
+ - 👉 [Why is that?](http://9gag.com/gag/aXPw1zV)<!-- MEMES:END -->
 
 ---
 
