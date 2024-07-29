@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [`They deleted their own opening ceremony video and began DMCA-striking every commentary channel that used it`](http://9gag.com/gag/a7odXdz)
- - ⏩ [Alicja Pyszka-Bazan - winner and new world record holder in the Triple Ironman &lpar;11.4 km swimming, 540 km cycling and 126.6 km running&rpar;](http://9gag.com/gag/a5QrYYr)
- - 👉 [When the bed is made of cardboard.](http://9gag.com/gag/amoz4Dy)<!-- MEMES:END -->
+ - 💣 [Perfect Night](http://9gag.com/gag/a9yYGGZ)
+ - ⏩ [Streatch your back!](http://9gag.com/gag/aXPwy0v)
+ - 👉 [Ah yes, another racist app](http://9gag.com/gag/an71P50)<!-- MEMES:END -->
 
 ---
 
