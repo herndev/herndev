@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Nvidia&#39;s reportedly scaling back RTX 40 series production by as much as 50% in preparation for the Blackwell RTX 50 launch](https://www.pcgamer.com/hardware/graphics-cards/nvidias-reportedly-scaling-back-rtx-40-series-production-by-as-much-as-50-in-preparation-for-the-blackwell-rtx-50-launch)
- - [PlayStation VR 2 is $200 off this week](https://www.polygon.com/deals/2024/7/29/24208657/playstation-vr-2-psvr2-sony-summer-sale)
- - [AMD&#39;s Ryzen 9000-series CPUs may have been delayed because of a typo on the heatspreader, which is definitely not the sort of mistake I&#39;d ever make](https://www.pcgamer.com/hardware/processors/amds-ryzen-9000-series-cpus-may-have-been-delayed-because-of-a-typo-on-the-heatspreader-which-is-definitely-not-the-sort-of-mistake-id-ever-make)<!-- GAME:END -->
+ - [Cool statues at Comic-Con might&#39;ve leaked upcoming Legacy of Kain: Soul Reaver remasters](https://www.pcgamer.com/games/action/cool-statues-at-comic-con-mightve-leaked-upcoming-legacy-of-kain-soul-reaver-remasters)
+ - [After 14 hours and 239 nonstop tries, an Elden Ring Steamer beat Shadow of the Erdtree&#39;s final boss twice simultaneously with a controller and a dance pad](https://www.pcgamer.com/games/rpg/after-14-hours-and-239-nonstop-tries-an-elden-ring-steamer-beat-shadow-of-the-erdtrees-final-boss-twice-simultaneously-with-a-controller-and-a-dance-pad)
+ - [Zen 5 tested: AMD&#39;s Ryzen AI 300-series brings new cores and a revamped RDNA 3.5 GPU for chunky performance gains in laptops and handhelds](https://www.pcgamer.com/hardware/gaming-laptops/amd-zen-5-ryzen-ai-hx-370-tested)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
