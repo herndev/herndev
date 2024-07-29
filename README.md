@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Report claims that OpenAI has burned through $8.5 billion on AI training and staffing, and could be on track to make a $5 billion loss](https://www.pcgamer.com/software/ai/report-claims-that-openai-has-burned-through-dollar85-billion-on-ai-training-and-staffing-and-could-be-on-track-to-make-a-dollar5-billion-loss)
  - [All the dragons in House of the Dragon](https://www.polygon.com/23381183/house-dragon-all-dragons-riders-vhagar)
- - [House of the Dragon makes dragon riding look easy&lpar;ish&rpar; — is it supposed to be?](https://www.polygon.com/24205330/house-dragon-riding-bonding-books-grrm-comparison)
- - [Mortal Kombat 1 is getting animalities, the T-1000, Conan, and Ghostface from Scream](https://www.pcgamer.com/games/fighting/mortal-kombat-1-is-getting-animalities-the-t-1000-conan-and-ghostface-from-scream)<!-- GAME:END -->
+ - [House of the Dragon makes dragon riding look easy&lpar;ish&rpar; — is it supposed to be?](https://www.polygon.com/24205330/house-dragon-riding-bonding-books-grrm-comparison)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
