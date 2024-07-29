@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How To Defeat Commander Gaius &lpar;And His Giant Boar&rpar; In In Elden Ring: Shadow Of The Erdtree](https://kotaku.com/elden-ring-shadow-erdtree-how-to-beat-gaius-boss-1851607784)
- - [House Of The Dragon Is A Masterclass In Adaptation](https://kotaku.com/house-of-the-dragon-book-season-2-adaptation-finale-1851607960)
- - [Suicide Squad Might Bring Batman And Everyone Else Back From The Dead](https://kotaku.com/suicide-squad-kill-justice-league-flash-batman-alive-1851607920)<!-- GAME:END -->
+ - [Play These 10 Video Games To Feed Your Summer Olympics Obsession](https://kotaku.com/paris-2024-olympics-video-games-assassins-creed-mario-1851608095)
+ - [The Last of Us anniversary vinyl box set is on sale for its lowest price yet](https://www.polygon.com/deals/2024/7/29/24208886/last-of-us-10th-anniversary-vinyl-box-set-sale-discount-tlou-2)
+ - [Dance Your Enemies To Death With This Shadow Of The Erdtree Sword](https://kotaku.com/elden-ring-shadow-erdtree-dancing-blade-ranah-location-1851607969)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
