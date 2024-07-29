@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Why I stop going to gym](http://9gag.com/gag/aRBepY2)
- - ⏩ [Bailey R.](http://9gag.com/gag/aE0n94p)
- - 👉 [Cheers to all the fathers](http://9gag.com/gag/aLn9oEv)<!-- MEMES:END -->
+ - 💣 [Dog?](http://9gag.com/gag/ae96nwp)
+ - ⏩ [Good driving skills](http://9gag.com/gag/aGyD4j6)
+ - 👉 [Reason no.7 why women live longer than man.](http://9gag.com/gag/adBXEqM)<!-- MEMES:END -->
 
 ---
 
