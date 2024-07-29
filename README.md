@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [South Korea will provide $400M to vendors hit by payment delays on two Qoo10 e-commerce platforms, and Qoo10&#39;s founder pledges to use his own assets to help &lpar;Reuters&rpar;](http://www.techmeme.com/240729/p4#a240729p4)
- - [The AI Keeps the Score](https://www.theverge.com/c/24182327/olympics-gymnastics-ai-judging-fujitsu-jss-fig)
- - [Samsung Galaxy Ring battery life: Here’s what to expect](https://www.androidauthority.com/samsung-galaxy-ring-battery-life-testing-3458592/)<!-- TECH:END -->
+ - [Logitech CEO Hanneke Faber wants your next mouse to last forever](https://www.theverge.com/24206847/logitech-ceo-hanneke-faber-mouse-keyboard-gaming-decdoer-podcast-interview)
+ - [Look out MapQuest, Apple Maps debuts on the web in beta](https://appleinsider.com/articles/24/07/24/look-out-mapquest-apple-maps-debuts-on-the-web-in-beta?utm_medium=rss)
+ - [OnePlus offers new display panel for free to prevent green line issues](https://www.androidauthority.com/oneplus-new-free-display-panel-prevent-green-line-3465663/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
