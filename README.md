@@ -33,8 +33,8 @@
 
 <!-- GAME:START -->
  - [PlayStation Portal Launch Details in Singapore, Malaysia, Indonesia, and Thailand](https://blog.playstation.com/2024/07/28/20240729-psportal/)
- - [Five new Steam games you probably missed &lpar;July 29, 2024&rpar;](https://www.pcgamer.com/software/platforms/five-new-steam-games-you-probably-missed-july-29-2024)
- - [The Behemoth will update Castle Crashers, Battleblock Theater, and more](https://www.pcgamer.com/games/the-behemoth-will-update-castle-crashers-battleblock-theater-and-more)<!-- GAME:END -->
+ - [PlayStation Portal Launch Details in Singapore, Malaysia, Indonesia, and Thailand](https://blog.playstation.com/2024/07/28/20240729-psportal/)
+ - [Five new Steam games you probably missed &lpar;July 29, 2024&rpar;](https://www.pcgamer.com/software/platforms/five-new-steam-games-you-probably-missed-july-29-2024)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
