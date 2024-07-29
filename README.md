@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Perfect Night](http://9gag.com/gag/a9yYGGZ)
- - ⏩ [Streatch your back!](http://9gag.com/gag/aXPwy0v)
- - 👉 [Ah yes, another racist app](http://9gag.com/gag/an71P50)<!-- MEMES:END -->
+ - 💣 [Why I stop going to gym](http://9gag.com/gag/aRBepY2)
+ - ⏩ [Olympics are a joke](http://9gag.com/gag/azxAyqz)
+ - 👉 [Alicja Pyszka-Bazan - winner and new world record holder in the Triple Ironman &lpar;11.4 km swimming, 540 km cycling and 126.6 km running&rpar;](http://9gag.com/gag/a5QrYYr)<!-- MEMES:END -->
 
 ---
 
