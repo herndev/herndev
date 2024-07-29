@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Logitech CEO Hanneke Faber wants your next mouse to last forever](https://www.theverge.com/24206847/logitech-ceo-hanneke-faber-mouse-keyboard-gaming-decdoer-podcast-interview)
- - [Look out MapQuest, Apple Maps debuts on the web in beta](https://appleinsider.com/articles/24/07/24/look-out-mapquest-apple-maps-debuts-on-the-web-in-beta?utm_medium=rss)
- - [OnePlus offers new display panel for free to prevent green line issues](https://www.androidauthority.com/oneplus-new-free-display-panel-prevent-green-line-3465663/)<!-- TECH:END -->
+ - [Elon Musk posts deepfake of Kamala Harris that violates X policy](https://www.theverge.com/2024/7/29/24208671/elon-musk-deepfake-ai-kamala-harris-parody)
+ - [Luxury brands Balenciaga and Rimowa launch Apple Vision Pro apps](https://appleinsider.com/articles/24/07/29/luxury-brands-balenciaga-and-rimowa-launch-apple-vision-pro-apps?utm_medium=rss)
+ - [Apple Intelligence AI features will wait for iOS 18.1](https://www.theverge.com/2024/7/29/24208656/apple-intelligence-ai-ios-18-1-iphone-16-launch)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
