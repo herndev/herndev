@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Gamers mourn Xbox 360 after digital store shutdown](https://www.polygon.com/24209001/xbox-360-store-shutdown-rip)
- - [Another Call of Duty cheat maker bites the dust, this time without a fight](https://www.pcgamer.com/games/another-call-of-duty-cheat-maker-bites-the-dust-this-time-without-a-fight)
- - [The greatest betrayal in The Sims 4 is when none of the color swatches match](https://www.pcgamer.com/games/the-sims/the-greatest-betrayal-in-the-sims-4-is-when-none-of-the-color-swatches-match)<!-- GAME:END -->
+ - [Olympic Fencer Thought He Was In Street Fighter For A Sec](https://kotaku.com/paris-olympics-fencing-sebastien-patrice-bouncing-1851608238)
+ - [What is the Destiny 2 raid and dungeon rotation this week?](https://www.polygon.com/destiny-2-guide-walkthrough/24140653/raid-dungeon-rotation-this-week-calendar-schedule)
+ - [Harry Potter Quidditch Game Finally Shows Off Some Actual Gameplay](https://kotaku.com/harry-potter-quidditch-champions-gameplay-jk-rowling-1851608237)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
