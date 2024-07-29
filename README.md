@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Olympic Fencer Thought He Was In Street Fighter For A Sec](https://kotaku.com/paris-olympics-fencing-sebastien-patrice-bouncing-1851608238)
- - [What is the Destiny 2 raid and dungeon rotation this week?](https://www.polygon.com/destiny-2-guide-walkthrough/24140653/raid-dungeon-rotation-this-week-calendar-schedule)
- - [Harry Potter Quidditch Game Finally Shows Off Some Actual Gameplay](https://kotaku.com/harry-potter-quidditch-champions-gameplay-jk-rowling-1851608237)<!-- GAME:END -->
+ - [The Steam Tower Defense Fest is here, bringing sales on games where buildings do the battling](https://www.pcgamer.com/games/strategy/the-steam-tower-defense-fest-is-here-bringing-sales-on-games-where-buildings-do-the-battling)
+ - [How the Radiant Echoes event works in World of Warcraft](https://www.pcgamer.com/games/mmo/world-of-warcraft/wow-radiant-echoes-prepatch-event)
+ - [The circle is now complete: The developer of an open-source port of Dark Forces who consulted on the Nightdive Remaster is working on putting the remaster back in the source port](https://www.pcgamer.com/games/fps/the-circle-is-now-complete-the-developer-of-an-open-source-port-of-dark-forces-who-consulted-on-the-nightdive-remaster-is-working-on-putting-the-remaster-back-in-the-source-port)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
