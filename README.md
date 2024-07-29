@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Headphones for 2024](https://www.cnet.com/tech/mobile/best-headphones/#ftag=CAD590a51e)
- - [Best Noise-Canceling Earbuds for 2024](https://www.cnet.com/tech/mobile/best-noise-canceling-wireless-earbuds/#ftag=CAD590a51e)
- - [How podcasting is turning into an industry of megastars with huge deals and the biggest audiences; Edison: the top 25 podcasts reach ~50% of US weekly listeners &lpar;Anne Steele/Wall Street Journal&rpar;](http://www.techmeme.com/240728/p11#a240728p11)<!-- TECH:END -->
+ - [Q&amp;A with Ghostery CEO Jean-Paul Schmetz about the service turning 15, the state of ad tracking, why regulation is not the best path to protecting online privacy &lpar;Anthony Ha/TechCrunch&rpar;](http://www.techmeme.com/240728/p12#a240728p12)
+ - [Google Drive takes on Microsoft Lens better for document scanning &lpar;Update: Rolling out&rpar;](https://www.androidauthority.com/google-drive-save-scanned-document-as-jpeg-apk-teardown-3449048/)
+ - [Best Headphones for 2024](https://www.cnet.com/tech/mobile/best-headphones/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
