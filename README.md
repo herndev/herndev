@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sorry, custom ROM fans: Google would rather have broken apps than insecure apps](https://www.androidauthority.com/custom-rom-app-support-3465848/)
- - [Samsung’s artsy Music Frame speaker is down to its lowest price to date](https://www.theverge.com/2024/7/29/24208786/samsung-music-frame-speaker-deal-sale)
- - [Report: The rumored Galaxy Z Fold 6 ‘Slim’ might still not be slim enough to compete](https://www.androidauthority.com/z-fold6-slim-thinness-3465838/)<!-- TECH:END -->
+ - [How to pause Activity Rings in watchOS 11 when you need a break](https://appleinsider.com/inside/watchos-11/tips/how-to-pause-activity-rings-in-watchos-11-when-you-need-a-break?utm_medium=rss)
+ - [What Is &#39;Teflon Flu&#39; and Is Nonstick Cookware to Blame for a Uptick in Cases?](https://www.cnet.com/how-to/what-is-teflon-flu-and-is-nonstick-cookware-to-blame/#ftag=CAD590a51e)
+ - [Best Beats Headphone Deals: Upgrade Your Audio Game With Discounts on New Beats Gear](https://www.cnet.com/deals/best-beats-headphone-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
