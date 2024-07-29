@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung’s got a fix in the works for your Galaxy Watch 7’s pathetic battery life](https://www.androidauthority.com/galaxy-watch-7-battery-fix-3465789/)
- - [Save Over $300 on This TCL 4K TV at Walmart](https://www.cnet.com/deals/save-over-300-on-this-tcl-4k-tv-at-walmart/#ftag=CAD590a51e)
- - [LinkedIn and Pinterest are testing programs that let publishers sell ads on their videos and pages, respectively, in exchange for a cut of the resulting revenue &lpar;Sahil Patel/The Information&rpar;](http://www.techmeme.com/240729/p9#a240729p9)<!-- TECH:END -->
+ - [Some popular sites like Cond&amp;eacute; Nast&#39;s and Reuters&#39; have robots.txt files meant to block Anthropic&#39;s bots, but Anthropic has just made new bots with other names &lpar;Jason Koebler/404 Media&rpar;](http://www.techmeme.com/240729/p12#a240729p12)
+ - [Google’s Quick Share actually works on the new Copilot Plus Windows PCs](https://www.androidauthority.com/quick-share-for-windows-on-arm-3465842/)
+ - [This $60 chip fixes a longstanding Super Nintendo flaw](https://www.theverge.com/2024/7/29/24208741/super-nintendo-upgrade-voultar-edge-enhancer-mod)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
