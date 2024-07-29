@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Mortal Kombat 1 is getting animalities, the T-1000, Conan, and Ghostface from Scream](https://www.pcgamer.com/games/fighting/mortal-kombat-1-is-getting-animalities-the-t-1000-conan-and-ghostface-from-scream)
- - [Today&#39;s Wordle answer for Monday, July 29](https://www.pcgamer.com/games/puzzle/wordle-answer-today-July-29-2024)
- - [PlayStation Portal Launch Details in Singapore, Malaysia, Indonesia, and Thailand](https://blog.playstation.com/2024/07/28/20240729-psportal/)<!-- GAME:END -->
+ - [All the dragons in House of the Dragon](https://www.polygon.com/23381183/house-dragon-all-dragons-riders-vhagar)
+ - [House of the Dragon makes dragon riding look easy&lpar;ish&rpar; — is it supposed to be?](https://www.polygon.com/24205330/house-dragon-riding-bonding-books-grrm-comparison)
+ - [Mortal Kombat 1 is getting animalities, the T-1000, Conan, and Ghostface from Scream](https://www.pcgamer.com/games/fighting/mortal-kombat-1-is-getting-animalities-the-t-1000-conan-and-ghostface-from-scream)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
