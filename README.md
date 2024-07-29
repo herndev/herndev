@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Finally, House of the Dragon gets to the goddamn dragons](https://www.polygon.com/24207162/house-dragon-hotd-season-2-episode-7-review)
- - [&#39;It&#39;s a soccer ball&#39;: Modders are already correcting Fallout: London&#39;s local lingo one sport at a time](https://www.pcgamer.com/games/fallout/its-a-soccer-ball-modders-are-already-correcting-fallout-londons-local-lingo-one-sport-at-a-time)
- - [Intel has no plans to recall those crashing 13th and 14th Gen CPUs, hasn&#39;t halted sales, and the damage to affected chips may be permanent](https://www.pcgamer.com/hardware/processors/intel-has-no-plans-to-recall-those-crashing-13th-and-14th-gen-cpus-hasnt-halted-sales-and-the-damage-to-affected-chips-may-be-permanent)<!-- GAME:END -->
+ - [Remnant 2 announces plans for its 3rd DLC: The Dark Horizon—and it&#39;ll be chucking in a free game mode and &#39;progression system&#39; to boot](https://www.pcgamer.com/games/third-person-shooter/remnant-2-announces-plans-for-its-3rd-dlc-the-dark-horizon-and-it-ll-be-chucking-in-a-free-game-mode-and-progression-system-to-boot)
+ - [Visions of Mana: new details on three Elemental Vessels, plus deep dive video](https://blog.playstation.com/2024/07/29/visions-of-mana-new-details-on-three-elemental-vessels-plus-deep-dive-video/)
+ - [Finally, House of the Dragon gets to the goddamn dragons](https://www.polygon.com/24207162/house-dragon-hotd-season-2-episode-7-review)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
