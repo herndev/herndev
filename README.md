@@ -32,8 +32,8 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle answer for Tuesday, July 30](https://www.pcgamer.com/games/puzzle/wordle-answer-today-july-30-2024)
  - [Game archivists lament end of the Xbox 360 Marketplace](https://www.pcgamer.com/gaming-industry/game-archivists-lament-the-end-of-the-xbox-360-marketplace)
- - [&lpar;For Southeast Asia&rpar; First Look: Astro Bot Limited Edition DualSense Wireless Controller](https://blog.playstation.com/2024/07/29/20240730-astrobot/)
  - [&lpar;For Southeast Asia&rpar; First Look: Astro Bot Limited Edition DualSense Wireless Controller](https://blog.playstation.com/2024/07/29/20240730-astrobot/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
