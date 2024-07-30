@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Brennan Lee Mulligan and Isabella Roland go big on life, love, and improv as a comedy couple](https://www.polygon.com/24208830/brennan-lee-mulligan-isabella-roland-interview-bigger-improv-show-dropout)
- - [Make your own Deadpool &amp; Wolverine movie with this surprisingly deep movie studio management sim](https://www.pcgamer.com/games/sim/make-your-own-deadpool-and-wolverine-movie-with-this-surprisingly-deep-movie-studio-management-sim)
- - [Mystery afoot as Garry&#39;s Mod gets hit by Skibi-DMCA apparently on behalf of Michael Bay&#39;s Skibidi Toilet film studio: &#39;Can you believe the cheek?&#39;](https://www.pcgamer.com/movies-tv/mystery-afoot-as-garrys-mod-gets-hit-by-skibi-dmca-apparently-on-behalf-of-michael-bays-skibidi-toilet-film-studio-can-you-believe-the-cheek)<!-- GAME:END -->
+ - [The latest Sims 4 bug fix stops Sims from committing autonomous incest](https://www.pcgamer.com/games/the-sims/the-sims-4-bug-fix-will-stop-sims-from-committing-autonomous-incest)
+ - [Read Karen Joy Fowler’s new introduction for Annihilation, which still captivates a decade later](https://www.polygon.com/24208770/annihilation-jeff-vandermeer-karen-joy-fowler-intro)
+ - [How To Defeat Queen Eternal, The Final Boss Of Final Fantasy XIV: Dawntrail](https://kotaku.com/final-fantasy-xiv-14-ff14-queen-eternal-dawntrail-1851609290)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
