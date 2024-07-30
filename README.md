@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [How many balloons are needed to fly?](http://9gag.com/gag/aYQL8Oq)
- - ⏩ [Doesn\u2019t seem so ba-](http://9gag.com/gag/aXPwOQP)
- - 👉 [This post is still alive more than year](http://9gag.com/gag/a4PjD9m)<!-- MEMES:END -->
+ - 💣 [Real Wtfact](http://9gag.com/gag/a7od4qz)
+ - ⏩ [Venezuelan Criminal Gang &lpar;Tren del Llano&rpar; orders Nicolas Maduro to respect the real vote, otherwise they will begin their attack.](http://9gag.com/gag/apRLyYp)
+ - 👉 [Anyone remember this classic?](http://9gag.com/gag/a5Qrm3q)<!-- MEMES:END -->
 
 ---
 
