@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best Standing Desks of 2024](https://www.cnet.com/news/best-standing-desk/#ftag=CAD590a51e)
  - [Instagram starts letting people create AI versions of themselves](https://www.theverge.com/24209196/instagram-ai-characters-meta-ai-studio-release)
- - [How to opt out of AI model training to keep your ChatGPT and Gemini chats private](https://www.androidauthority.com/how-to-disable-ai-model-training-3466024/)
- - [Best Silk Pillowcases for 2024](https://www.cnet.com/health/sleep/best-silk-pillowcase/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [How to opt out of AI model training to keep your ChatGPT and Gemini chats private](https://www.androidauthority.com/how-to-disable-ai-model-training-3466024/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
