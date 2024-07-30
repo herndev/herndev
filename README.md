@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Can Togedemaru be shiny in Pokémon Go?](https://www.polygon.com/pokemon-go-guide/24208974/can-togedemaru-be-shiny)
- - [Today&#39;s Wordle answer for Tuesday, July 30](https://www.pcgamer.com/games/puzzle/wordle-answer-today-july-30-2024)
- - [Game archivists lament end of the Xbox 360 Marketplace](https://www.pcgamer.com/gaming-industry/game-archivists-lament-the-end-of-the-xbox-360-marketplace)<!-- GAME:END -->
+ - [Tony Pankhurst, actor and face of The Dark Pictures Anthology&#39;s Curator, has died](https://www.pcgamer.com/games/horror/tony-pankhurst-actor-and-face-of-the-dark-pictures-anthologys-curator-has-died)
+ - [Nvidia&#39;s CEO chats about the future of AI: &#39;We&#39;re going to need three computers... one to create the AI… one to simulate the AI… and one to run the AI&#39;](https://www.pcgamer.com/software/ai/nvidias-ceo-chats-about-the-future-of-ai-were-going-to-need-three-computers-one-to-create-the-ai-one-to-simulate-the-ai-and-one-to-run-the-ai)
+ - [Can Togedemaru be shiny in Pokémon Go?](https://www.polygon.com/pokemon-go-guide/24208974/can-togedemaru-be-shiny)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
