@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I never knew until now](http://9gag.com/gag/aE0nLqo)
- - ⏩ [9 different mug shots and I still think I can fix her , every one deserves a second chance](http://9gag.com/gag/aLn9ZV5)
- - 👉 [Bro identifies as fat](http://9gag.com/gag/aPAW5AB)<!-- MEMES:END -->
+ - 💣 [Bro identifies as fat](http://9gag.com/gag/aPAW5AB)
+ - ⏩ [Doesn\u2019t seem so ba-](http://9gag.com/gag/aXPwOQP)
+ - 👉 [Allah works in mysterious ways](http://9gag.com/gag/aAyPz00)<!-- MEMES:END -->
 
 ---
 
