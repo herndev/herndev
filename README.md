@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Old but gold](http://9gag.com/gag/a4PjDWm)
- - ⏩ [How many balloons are needed to fly?](http://9gag.com/gag/aYQL8Oq)
- - 👉 [Wow](http://9gag.com/gag/aW4MwG2)<!-- MEMES:END -->
+ - 💣 [How many balloons are needed to fly?](http://9gag.com/gag/aYQL8Oq)
+ - ⏩ [Dad instincts?](http://9gag.com/gag/aNDWxmA)
+ - 👉 [9 different mug shots and I still think I can fix her , every one deserves a second chance](http://9gag.com/gag/aLn9ZV5)<!-- MEMES:END -->
 
 ---
 
