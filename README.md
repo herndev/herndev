@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Diablo 4 goes to Hell in a horde mode in season 5](https://www.polygon.com/24209523/diablo-4-season-5-infernal-hordes-preview)
- - [Br’aaxskin treasure locations in FFXIV: Dawntrail](https://www.polygon.com/ffxiv-guides-ff14-final-fantasy-14-online/24209512/braaxskin-treasure-locations-maps-cenote-ja-gural)
- - [Zelda: Tears Of The Kingdom Player Recreates Top Gun By Breaking The Game](https://kotaku.com/zelda-totk-infinite-battery-rockets-glitch-top-gun-1851608901)<!-- GAME:END -->
+ - [Minecraft x Tetris](https://minecraft.net/article/the-tetris-dlc-rotation#new_tab)
+ - [Indie studio pulls game from Steam after realizing it lost the source code: &#39;We lacked both the knowledge and resources&#39;](https://www.pcgamer.com/games/indie-studio-pulls-game-from-steam-after-realizing-it-lost-the-source-code-we-lacked-both-the-knowledge-and-resources)
+ - [Helldivers 2’s next Warbond offers a wealth of new flamethrowers](https://www.polygon.com/24209707/helldivers-2-freedoms-flame-warbond-august-8)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
