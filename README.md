@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Hmmmmm mother daughter combo](http://9gag.com/gag/amozjAy)
- - ⏩ [How many balloons are needed to fly?](http://9gag.com/gag/aYQL8Oq)
- - 👉 [Wow](http://9gag.com/gag/aW4MwG2)<!-- MEMES:END -->
+ - ⏩ [Takes a little practice, but it does the trick..](http://9gag.com/gag/aD2Geg9)
+ - 👉 [How many balloons are needed to fly?](http://9gag.com/gag/aYQL8Oq)<!-- MEMES:END -->
 
 ---
 
