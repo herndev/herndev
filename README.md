@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Tony Pankhurst, actor and face of The Dark Pictures Anthology&#39;s Curator, has died](https://www.pcgamer.com/games/horror/tony-pankhurst-actor-and-face-of-the-dark-pictures-anthologys-curator-has-died)
- - [Nvidia&#39;s CEO chats about the future of AI: &#39;We&#39;re going to need three computers... one to create the AI… one to simulate the AI… and one to run the AI&#39;](https://www.pcgamer.com/software/ai/nvidias-ceo-chats-about-the-future-of-ai-were-going-to-need-three-computers-one-to-create-the-ai-one-to-simulate-the-ai-and-one-to-run-the-ai)
- - [Can Togedemaru be shiny in Pokémon Go?](https://www.polygon.com/pokemon-go-guide/24208974/can-togedemaru-be-shiny)<!-- GAME:END -->
+ - [Total War: Pharaoh Dynasties has quietly become one of the best historical Total War games ever](https://www.pcgamer.com/games/strategy/total-war-pharaoh-dynasties-has-quietly-become-one-of-the-best-historical-total-war-games-ever)
+ - [Where to find and unlock artifact armor in Final Fantasy 14: Dawntrail](https://www.pcgamer.com/games/final-fantasy/ffxiv-dawntrail-artifact-gear-location)
+ - [Fallout: London devs hand out maths homework to players who are suffering from a bug that lowers their HP](https://www.pcgamer.com/games/fallout/fallout-london-devs-hand-out-maths-homework-to-players-who-are-suffering-from-a-bug-that-lowers-their-hp)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
