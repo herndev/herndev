@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Ducky Zero 6108 review](https://www.pcgamer.com/hardware/gaming-keyboards/ducky-zero-6108-review)
- - [Elden Ring update makes useless spells useful, fixes a major UI problem](https://www.polygon.com/24209497/elden-ring-patch-july-30-version-113-from-software)
- - [Elden Ring&#39;s new patch just released, and it finally fixes an infuriating problem with summoning your spectral steed](https://www.pcgamer.com/games/rpg/elden-rings-new-patch-just-released-and-it-finally-fixes-an-infuriating-problem-with-summoning-your-spectral-steed)<!-- GAME:END -->
+ - [Mario and Sonic were benched by the Olympics in favour of NFTs and esports, former producer on the series says](https://www.pcgamer.com/games/sports/mario-and-sonic-were-benched-by-the-olympics-in-favour-of-nfts-and-esports-former-producer-on-the-series-says)
+ - [Helldivers 2&#39;s upcoming Warbond will let you set your enemies on fire with just about everything—including your Hellpod](https://www.pcgamer.com/games/third-person-shooter/helldivers-2-s-upcoming-warbond-will-let-you-set-your-enemies-on-fire-with-just-about-everything-including-your-hellpod)
+ - [I knew it—Elden Ring: Shadow of the Erdtree&#39;s final boss has some hokey freaking hitboxes the size of barn doors](https://www.pcgamer.com/games/rpg/i-knew-it-elden-ring-shadow-of-the-erdtree-s-final-boss-has-some-hokey-freaking-hitboxes-the-size-of-barn-doors)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
