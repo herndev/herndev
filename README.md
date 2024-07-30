@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [9 different mug shots and I still think I can fix her , every one deserves a second chance](http://9gag.com/gag/aLn9ZV5)
- - ⏩ [I thought she was the daughter](http://9gag.com/gag/azxAn3K)
- - 👉 [Bailey R.](http://9gag.com/gag/aE0n94p)<!-- MEMES:END -->
+ - 💣 [Maya Rudolph on Hot Ones is the funniest thing I&#39;ve ever seen](http://9gag.com/gag/aKG3RPj)
+ - ⏩ [`Unidentified 17 year old`](http://9gag.com/gag/avyn3RW)
+ - 👉 [Doesn\u2019t seem so ba-](http://9gag.com/gag/aXPwOQP)<!-- MEMES:END -->
 
 ---
 
