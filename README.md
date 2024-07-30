@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Deal: Google Pixel 8 Pro goes back to its all-time-low price](https://www.androidauthority.com/google-pixel-8-pro-deal-2-3465994/)
- - [M3 MacBook Pro 14-inch gets an upgrade with macOS Sonoma 14.6](https://appleinsider.com/articles/24/07/29/m3-macbook-pro-14-inch-gets-an-upgrade-with-macos-sonoma-146?utm_medium=rss)
- - [Meta rolls out AI Studio in the US, letting users create and share AI chatbots, and Instagram creators set up chatbots to answer DM questions and story replies &lpar;Karissa Bell/Engadget&rpar;](http://www.techmeme.com/240729/p15#a240729p15)<!-- TECH:END -->
+ - [Meta releases Segment Anything Model 2 with support for object segmentation in videos and images; the code and weights are available under an Apache 2.0 license &lpar;Devin Coldewey/TechCrunch&rpar;](http://www.techmeme.com/240729/p16#a240729p16)
+ - [Best 3D Printer Deals: Save Up to $300 on Our Favorite 3D Printers Including Creality, Elegoo and More](https://www.cnet.com/deals/best-3d-printer-deals/#ftag=CAD590a51e)
+ - [Nvidia and Meta CEOs Talk Generative AI at Siggraph 2024 video](https://www.cnet.com/videos/nvidia-and-meta-ceos-talk-generative-ai-at-siggraph-2024/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
