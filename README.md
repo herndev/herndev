@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Activision’s big contribution to AI is Call of Duty: Warzone data](https://www.theverge.com/2024/7/30/24209775/activision-call-of-duty-warzone-caldera-dataset-ai)
- - [Minecraft and Tetris combine for some very blocky dungeon crawling](https://www.theverge.com/2024/7/30/24209869/minecraft-tetris-dlc-dungeon-crawler)
- - [Match Group reports Q2 revenue up 4% YoY to $864M and paying Tinder users down 8% YoY to 9.6M, vs. 9.55M est.; MTCH jumps 7%+ after hours &lpar;Natalie Lung/Bloomberg&rpar;](http://www.techmeme.com/240730/p34#a240730p34)<!-- TECH:END -->
+ - [Startup Friend previews a $99 AI pendant with an always-on microphone that&#39;s designed to provide the wearer with companionship, set to ship in January 2025 &lpar;Boone Ashworth/Wired&rpar;](http://www.techmeme.com/240730/p38#a240730p38)
+ - [Microsoft Q4: Windows OEM revenue up 4% YoY, devices revenue down 11% YoY, overall gaming revenue up 44% YoY, and Xbox content and services revenue up 61% YoY &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/240730/p37#a240730p37)
+ - [Philips Hue leans into affordability with new Tento ceiling light lineup](https://www.androidauthority.com/philips-hue-tento-3466334/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
