@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The latest Sims 4 bug fix stops Sims from committing autonomous incest](https://www.pcgamer.com/games/the-sims/the-sims-4-bug-fix-will-stop-sims-from-committing-autonomous-incest)
- - [Read Karen Joy Fowler’s new introduction for Annihilation, which still captivates a decade later](https://www.polygon.com/24208770/annihilation-jeff-vandermeer-karen-joy-fowler-intro)
- - [How To Defeat Queen Eternal, The Final Boss Of Final Fantasy XIV: Dawntrail](https://kotaku.com/final-fantasy-xiv-14-ff14-queen-eternal-dawntrail-1851609290)<!-- GAME:END -->
+ - [What is the Destiny 2 raid and dungeon rotation this week?](https://www.polygon.com/destiny-2-guide-walkthrough/24140653/raid-dungeon-rotation-this-week-calendar-schedule)
+ - [What We Loved And Miss About The Xbox 360](https://kotaku.com/xbox-360-tribute-retrospective-halo-3-red-ring-e3-1851609358)
+ - [How to age up an infant in The Sims 4 with either a cake or a cheat](https://www.pcgamer.com/games/the-sims/sims-4-age-up-infant)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
