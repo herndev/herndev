@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Bro identifies as fat](http://9gag.com/gag/aPAW5AB)
- - ⏩ [`Unidentified 17 year old`](http://9gag.com/gag/avyn3RW)
- - 👉 [Bailey R.](http://9gag.com/gag/aE0n94p)<!-- MEMES:END -->
+ - 💣 [Concerning the stabbing in Southport...](http://9gag.com/gag/aYQL2Mm)
+ - ⏩ [In another world](http://9gag.com/gag/ae96vpv)
+ - 👉 [F**k cancer](http://9gag.com/gag/aO8vXB6)<!-- MEMES:END -->
 
 ---
 
