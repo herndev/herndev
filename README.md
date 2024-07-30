@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Temu faces backlash from its Chinese suppliers over its aggressive effort to recruit Amazon merchants who hold goods in warehouses in the US and the EU &lpar;Financial Times&rpar;](http://www.techmeme.com/240730/p2#a240730p2)
- - [Canva acquires AI image generation service Leonardo.ai for an undisclosed amount; Leonardo.ai launched in December 2022 and has more than 19M registered users &lpar;Capital Brief&rpar;](http://www.techmeme.com/240730/p1#a240730p1)
- - [Lime’s New Rideshare Ebikes Are More Approachable—Throttle and All](https://www.wired.com/story/lime-new-rideshare-ebikes-limebike-limeglider-2024/)<!-- TECH:END -->
+ - [Riyadh- and London-based AI startup Intelmatix raised a $20M Series A led by Shorooq Partners, the largest Series A investment for an AI firm in the MENA region &lpar;Nicolas Parasie/Bloomberg&rpar;](http://www.techmeme.com/240730/p5#a240730p5)
+ - [Scammers are using Meta&#39;s copyright protection tools to target influencers in the Middle East; creators see their content removed from Instagram unless they pay &lpar;Tekendra Parmar/Bloomberg&rpar;](http://www.techmeme.com/240730/p4#a240730p4)
+ - [Leaked Nothing Phone 2a Plus image shows it really is a bigger Phone 2a](https://www.androidauthority.com/nothing-phone-2a-plus-image-leak-3465590/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
