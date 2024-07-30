@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Files by Google app gets carousel view in beta](https://www.androidauthority.com/google-files-app-carousel-3466286/)
- - [The OnePlus Pad 2 is now available in the USA, and it launched with plenty of deals!](https://www.androidauthority.com/oneplus-pad-2-deals-3466251/)
- - [Apple Intelligence vs Grammarly -- AI powered text tool showdown](https://appleinsider.com/inside/ios-18/vs/apple-intelligence-vs-grammarly----ai-powered-text-tool-showdown?utm_medium=rss)<!-- TECH:END -->
+ - [Activision’s big contribution to AI is Call of Duty: Warzone data](https://www.theverge.com/2024/7/30/24209775/activision-call-of-duty-warzone-caldera-dataset-ai)
+ - [Minecraft and Tetris combine for some very blocky dungeon crawling](https://www.theverge.com/2024/7/30/24209869/minecraft-tetris-dlc-dungeon-crawler)
+ - [Match Group reports Q2 revenue up 4% YoY to $864M and paying Tinder users down 8% YoY to 9.6M, vs. 9.55M est.; MTCH jumps 7%+ after hours &lpar;Natalie Lung/Bloomberg&rpar;](http://www.techmeme.com/240730/p34#a240730p34)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
