@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Venezuelan Criminal Gang &lpar;Tren del Llano&rpar; orders Nicolas Maduro to respect the real vote, otherwise they will begin their attack.](http://9gag.com/gag/apRLyYp)
- - ⏩ [Dad instincts?](http://9gag.com/gag/aNDWxmA)
- - 👉 [Wow](http://9gag.com/gag/aW4MwG2)<!-- MEMES:END -->
+ - 💣 [How to paint...landlord version!](http://9gag.com/gag/ae96XEB)
+ - ⏩ [Men are simple creatures](http://9gag.com/gag/a347vGr)
+ - 👉 [They teach you everything in life, except how to leave without them.](http://9gag.com/gag/axyDpxb)<!-- MEMES:END -->
 
 ---
 
