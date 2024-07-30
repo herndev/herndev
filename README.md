@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Riyadh- and London-based AI startup Intelmatix raised a $20M Series A led by Shorooq Partners, the largest Series A investment for an AI firm in the MENA region &lpar;Nicolas Parasie/Bloomberg&rpar;](http://www.techmeme.com/240730/p5#a240730p5)
- - [Scammers are using Meta&#39;s copyright protection tools to target influencers in the Middle East; creators see their content removed from Instagram unless they pay &lpar;Tekendra Parmar/Bloomberg&rpar;](http://www.techmeme.com/240730/p4#a240730p4)
- - [Leaked Nothing Phone 2a Plus image shows it really is a bigger Phone 2a](https://www.androidauthority.com/nothing-phone-2a-plus-image-leak-3465590/)<!-- TECH:END -->
+ - [Qualcomm’s latest chip brings 5G to sub-$100 phones](https://www.androidauthority.com/qualcomm-snapdragon-4s-gen-2-3465642/)
+ - [How a Secret BJP War Room Mobilized Female Voters to Win the Indian Elections](https://www.wired.com/story/how-a-secret-bjp-war-room-mobilized-female-voters-to-win-the-indian-elections/)
+ - [Riyadh- and London-based AI startup Intelmatix raised a $20M Series A led by Shorooq Partners, the largest Series A investment for an AI firm in the MENA region &lpar;Nicolas Parasie/Bloomberg&rpar;](http://www.techmeme.com/240730/p5#a240730p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
