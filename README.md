@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Flipkart consolidates its various fintech offerings, including UPI and BNPL, under Flipkart Pay; the move follows recent expansions and a spinoff of PhonePe &lpar;The Economic Times&rpar;](http://www.techmeme.com/240730/p8#a240730p8)
- - [It only took the iPhone 17 years to support call recording](https://www.androidauthority.com/iphone-call-recording-support-3466058/)
- - [Qualcomm debuts the 4nm Snapdragon 4s Gen 2, a feature limited version of the Snapdragon 4 Gen 2, to make 5G accessible to smartphones in the sub-$100 category &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/240730/p7#a240730p7)<!-- TECH:END -->
+ - [The Untold Story of How Ridley Scott Saw &#39;Star Wars&#39;—and Ended Up Making &#39;Alien&#39;](https://www.wired.com/story/the-untold-story-of-how-ridley-scott-saw-star-wars-and-ended-up-making-alien-and-blade-runner/)
+ - [Experts say AI forecasting models are predicting weather patterns with new speed and precision and are likely to complement supercomputer forecasting models &lpar;William J. Broad/New York Times&rpar;](http://www.techmeme.com/240730/p11#a240730p11)
+ - [Microsoft wants Congress to outlaw AI-generated deepfake fraud](https://www.theverge.com/2024/7/30/24209404/microsoft-deepfake-congress-lawmakers-ai-fraud)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
