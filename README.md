@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [So,...Was the original video shot just an illusion?](http://9gag.com/gag/aAyP950)
- - ⏩ [This post is still alive more than year](http://9gag.com/gag/a4PjD9m)
- - 👉 [How many balloons are needed to fly?](http://9gag.com/gag/aYQL8Oq)<!-- MEMES:END -->
+ - 💣 [Hmmmmm mother daughter combo](http://9gag.com/gag/amozjAy)
+ - ⏩ [How many balloons are needed to fly?](http://9gag.com/gag/aYQL8Oq)
+ - 👉 [Wow](http://9gag.com/gag/aW4MwG2)<!-- MEMES:END -->
 
 ---
 
