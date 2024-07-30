@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Bro identifies as fat](http://9gag.com/gag/aPAW5AB)
- - ⏩ [How many balloons are needed to fly?](http://9gag.com/gag/aYQL8Oq)
- - 👉 [Wow](http://9gag.com/gag/aW4MwG2)<!-- MEMES:END -->
+ - 💣 [Dad instincts?](http://9gag.com/gag/aNDWxmA)
+ - ⏩ [Hmmmmm mother daughter combo](http://9gag.com/gag/amozjAy)
+ - 👉 [How many balloons are needed to fly?](http://9gag.com/gag/aYQL8Oq)<!-- MEMES:END -->
 
 ---
 
