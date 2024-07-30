@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [MacBook Pro M3 finally gets this power-user feature Air users have had for months](https://www.androidauthority.com/macbook-pro-m3-gets-power-user-feature-3466145/)
- - [Wear This AI Friend Around Your Neck](https://www.wired.com/story/friend-ai-pendant/)
- - [iPhone 16 Pro lineup rumored to get Wi-Fi 7, just one year after the last upgrade](https://appleinsider.com/articles/24/07/30/iphone-16-pro-lineup-rumored-to-get-wi-fi-7-just-one-year-after-the-last-upgrade?utm_medium=rss)<!-- TECH:END -->
+ - [You may be able to unlock future Apple devices with only your heart](https://appleinsider.com/articles/24/07/30/you-may-be-able-to-unlock-future-apple-devices-with-only-your-heart?utm_medium=rss)
+ - [Lawmakers want to carve out intimate AI deepfakes from Section 230 immunity](https://www.theverge.com/2024/7/30/24209514/intimate-privacy-protection-act-ai-deepfakes-section-230)
+ - [Marvel reportedly spent big to bring back Robert Downey Jr. and the Russo brothers](https://www.theverge.com/2024/7/30/24209499/marvel-robert-downey-jr-doomsday-russo-bros-salaries)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
