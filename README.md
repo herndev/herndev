@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Undaunted 2200: Callisto, a bold change for the acclaimed board game series](https://www.polygon.com/24203797/undaunted-2200-callisto-preview-gen-con-2024)
- - [Total War: Pharaoh Dynasties has quietly become one of the best historical Total War games ever](https://www.pcgamer.com/games/strategy/total-war-pharaoh-dynasties-has-quietly-become-one-of-the-best-historical-total-war-games-ever)
- - [Where to find and unlock artifact armor in Final Fantasy 14: Dawntrail](https://www.pcgamer.com/games/final-fantasy/ffxiv-dawntrail-artifact-gear-location)<!-- GAME:END -->
+ - [Mario &amp; Sonic Are Dead &lpar;The Olympic Games Series, We Mean&rpar;](https://kotaku.com/mario-sonic-olympic-games-nintendo-switch-sega-1851608578)
+ - [Twitch employees are worried the service could become a &#39;zombie brand&#39;, as a potential third round of layoffs looms, but luckily CEO Dan Clancy only eats &#39;medium-sized dinners&#39; during international trips to meet streamers](https://www.pcgamer.com/hardware/streaming/twitch-employees-are-worried-the-service-could-become-a-zombie-brand-as-a-potential-third-round-of-layoffs-looms-but-luckily-ceo-dan-clancy-only-eats-medium-sized-dinners-during-international-trips-to-meet-streamers)
+ - [Meta&#39;s Mark Zuckerberg chews AI cud with Nvidia&#39;s Jen-Hsun Huang, talking about delicious cows, slicing tomatoes, and old Chinese guys drinking whiskey](https://www.pcgamer.com/software/ai/metas-mark-zuckerberg-chews-ai-cud-with-nvidias-jen-hsun-huang-talking-about-delicious-cows-slicing-tomatoes-and-old-chinese-guys-drinking-whiskey)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
