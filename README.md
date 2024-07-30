@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Undaunted 2200: Callisto, a bold change for the acclaimed board game series](https://www.polygon.com/24203797/undaunted-2200-callisto-preview-gen-con-2024)
  - [Total War: Pharaoh Dynasties has quietly become one of the best historical Total War games ever](https://www.pcgamer.com/games/strategy/total-war-pharaoh-dynasties-has-quietly-become-one-of-the-best-historical-total-war-games-ever)
- - [Where to find and unlock artifact armor in Final Fantasy 14: Dawntrail](https://www.pcgamer.com/games/final-fantasy/ffxiv-dawntrail-artifact-gear-location)
- - [Fallout: London devs hand out maths homework to players who are suffering from a bug that lowers their HP](https://www.pcgamer.com/games/fallout/fallout-london-devs-hand-out-maths-homework-to-players-who-are-suffering-from-a-bug-that-lowers-their-hp)<!-- GAME:END -->
+ - [Where to find and unlock artifact armor in Final Fantasy 14: Dawntrail](https://www.pcgamer.com/games/final-fantasy/ffxiv-dawntrail-artifact-gear-location)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
