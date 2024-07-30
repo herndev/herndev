@@ -34,7 +34,7 @@
 <!-- GAME:START -->
  - [Game archivists lament end of the Xbox 360 Marketplace](https://www.pcgamer.com/gaming-industry/game-archivists-lament-the-end-of-the-xbox-360-marketplace)
  - [&lpar;For Southeast Asia&rpar; First Look: Astro Bot Limited Edition DualSense Wireless Controller](https://blog.playstation.com/2024/07/29/20240730-astrobot/)
- - [World of Goo 2 drops globular trailer, soundtrack preview ahead of launch this week](https://www.pcgamer.com/games/world-of-goo-2-drops-globular-trailer-soundtrack-preview-ahead-of-launch-this-week)<!-- GAME:END -->
+ - [&lpar;For Southeast Asia&rpar; First Look: Astro Bot Limited Edition DualSense Wireless Controller](https://blog.playstation.com/2024/07/29/20240730-astrobot/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
