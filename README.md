@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The 17 Best Barefoot Shoes for Running or Walking &lpar;2024&rpar;](https://www.wired.com/gallery/best-barefoot-shoes/)
- - [The UK CMA is gathering information from market players to determine whether Google&#39;s partnership with Anthropic qualifies as a merger and harms competition &lpar;Katharine Gemmell/Bloomberg&rpar;](http://www.techmeme.com/240730/p13#a240730p13)
- - [Best Password Manager in 2024](https://www.cnet.com/tech/services-and-software/best-password-manager/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The Purple Track at the 2024 Summer Olympic Games Has a Secret Ingredient](https://www.wired.com/story/paris-summer-olympics-2024-purple-track-athletics-mondo/)
+ - [Microsoft calls on US Congress to pass a comprehensive law to crack down on AI deepfakes that aim to interfere in elections or maliciously target people &lpar;Jeff Stone/Bloomberg&rpar;](http://www.techmeme.com/240730/p17#a240730p17)
+ - [Slew of new iPhone, Mac and iPad models identified in Apple&#39;s beta code](https://appleinsider.com/articles/24/07/30/macos-sequoia-beta-proves-there-will-be-new-macs-ipads-iphones-in-the-future?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
