@@ -46,7 +46,7 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [9 different mug shots and I still think I can fix her , every one deserves a second chance](http://9gag.com/gag/aLn9ZV5)
+ - 💣 [How many balloons are needed to fly?](http://9gag.com/gag/aYQL8Oq)
  - ⏩ [Doesn\u2019t seem so ba-](http://9gag.com/gag/aXPwOQP)
  - 👉 [This post is still alive more than year](http://9gag.com/gag/a4PjD9m)<!-- MEMES:END -->
 
