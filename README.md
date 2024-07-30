@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nothing Phone 2a Plus image shows it really is a better Phone 2a &lpar;Update: Official image&rpar;](https://www.androidauthority.com/nothing-phone-2a-plus-image-leak-3465590/)
- - [Have you bought any Matter-compatible smart home devices?](https://www.androidauthority.com/bought-matter-smart-home-poll-3466049/)
- - [Chinese e-commerce firms prioritize sustainable growth over ultra-low prices amid slow GMV growth and anti-unfair competition rules taking effect on September 1 &lpar;Cissy Zhou/Nikkei Asia&rpar;](http://www.techmeme.com/240730/p6#a240730p6)<!-- TECH:END -->
+ - [Flipkart consolidates its various fintech offerings, including UPI and BNPL, under Flipkart Pay; the move follows recent expansions and a spinoff of PhonePe &lpar;The Economic Times&rpar;](http://www.techmeme.com/240730/p8#a240730p8)
+ - [It only took the iPhone 17 years to support call recording](https://www.androidauthority.com/iphone-call-recording-support-3466058/)
+ - [Qualcomm debuts the 4nm Snapdragon 4s Gen 2, a feature limited version of the Snapdragon 4 Gen 2, to make 5G accessible to smartphones in the sub-$100 category &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/240730/p7#a240730p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
