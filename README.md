@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Silo season 2: Release date, plot, and other rumors](https://www.androidauthority.com/silo-season-2-release-date-3466305/)
- - [The Olympics has moved on from Mario and Sonic](https://www.theverge.com/2024/7/30/24209717/mario-and-sonic-at-the-olympic-games-cancelled-nfts-esports)
- - [How to use Call recording and transcription in iOS 18.1](https://appleinsider.com/articles/24/07/30/how-to-use-call-recording-and-transcription-in-ios-181?utm_medium=rss)<!-- TECH:END -->
+ - [Files by Google app gets carousel view in beta](https://www.androidauthority.com/google-files-app-carousel-3466286/)
+ - [The OnePlus Pad 2 is now available in the USA, and it launched with plenty of deals!](https://www.androidauthority.com/oneplus-pad-2-deals-3466251/)
+ - [Apple Intelligence vs Grammarly -- AI powered text tool showdown](https://appleinsider.com/inside/ios-18/vs/apple-intelligence-vs-grammarly----ai-powered-text-tool-showdown?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
