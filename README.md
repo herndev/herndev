@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [California&#39;s DMV says it has created tokens for 42M car titles on the Avalanche blockchain and aims to help residents access them by early next year &lpar;Akash Sriram/Reuters&rpar;](http://www.techmeme.com/240730/p26#a240730p26)
- - [Get a free $250 gift card with your Samsung Galaxy Z Flip 6](https://www.androidauthority.com/samsung-galaxy-z-flip-6-best-buy-deal-3466252/)
- - [The Friend AI necklace feels straight out of a Black Mirror episode](https://www.androidauthority.com/pre-order-friend-ai-3466193/)<!-- TECH:END -->
+ - [Silo season 2: Release date, plot, and other rumors](https://www.androidauthority.com/silo-season-2-release-date-3466305/)
+ - [The Olympics has moved on from Mario and Sonic](https://www.theverge.com/2024/7/30/24209717/mario-and-sonic-at-the-olympic-games-cancelled-nfts-esports)
+ - [How to use Call recording and transcription in iOS 18.1](https://appleinsider.com/articles/24/07/30/how-to-use-call-recording-and-transcription-in-ios-181?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
