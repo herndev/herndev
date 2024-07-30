@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Mario and Sonic were benched by the Olympics in favour of NFTs and esports, former producer on the series says](https://www.pcgamer.com/games/sports/mario-and-sonic-were-benched-by-the-olympics-in-favour-of-nfts-and-esports-former-producer-on-the-series-says)
- - [Helldivers 2&#39;s upcoming Warbond will let you set your enemies on fire with just about everything—including your Hellpod](https://www.pcgamer.com/games/third-person-shooter/helldivers-2-s-upcoming-warbond-will-let-you-set-your-enemies-on-fire-with-just-about-everything-including-your-hellpod)
- - [I knew it—Elden Ring: Shadow of the Erdtree&#39;s final boss has some hokey freaking hitboxes the size of barn doors](https://www.pcgamer.com/games/rpg/i-knew-it-elden-ring-shadow-of-the-erdtree-s-final-boss-has-some-hokey-freaking-hitboxes-the-size-of-barn-doors)<!-- GAME:END -->
+ - [Diablo 4 goes to Hell in a horde mode in season 5](https://www.polygon.com/24209523/diablo-4-season-5-infernal-hordes-preview)
+ - [Br’aaxskin treasure locations in FFXIV: Dawntrail](https://www.polygon.com/ffxiv-guides-ff14-final-fantasy-14-online/24209512/braaxskin-treasure-locations-maps-cenote-ja-gural)
+ - [Zelda: Tears Of The Kingdom Player Recreates Top Gun By Breaking The Game](https://kotaku.com/zelda-totk-infinite-battery-rockets-glitch-top-gun-1851608901)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
