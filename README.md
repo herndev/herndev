@@ -41,7 +41,7 @@
 <!-- TECH:START -->
  - [Instagram starts letting people create AI versions of themselves](https://www.theverge.com/24209196/instagram-ai-characters-meta-ai-studio-release)
  - [How to opt out of AI model training to keep your ChatGPT and Gemini chats private](https://www.androidauthority.com/how-to-disable-ai-model-training-3466024/)
- - [You can save $350 on this amazing Samsung Galaxy Book 4 Edge laptop](https://www.androidauthority.com/samsung-galaxy-book-4-edge-deal-2-3465993/)<!-- TECH:END -->
+ - [Best Silk Pillowcases for 2024](https://www.cnet.com/health/sleep/best-silk-pillowcase/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
