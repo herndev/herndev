@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Qualcomm’s latest chip brings 5G to sub-$100 phones](https://www.androidauthority.com/qualcomm-snapdragon-4s-gen-2-3465642/)
- - [How a Secret BJP War Room Mobilized Female Voters to Win the Indian Elections](https://www.wired.com/story/how-a-secret-bjp-war-room-mobilized-female-voters-to-win-the-indian-elections/)
- - [Riyadh- and London-based AI startup Intelmatix raised a $20M Series A led by Shorooq Partners, the largest Series A investment for an AI firm in the MENA region &lpar;Nicolas Parasie/Bloomberg&rpar;](http://www.techmeme.com/240730/p5#a240730p5)<!-- TECH:END -->
+ - [Nothing Phone 2a Plus image shows it really is a better Phone 2a &lpar;Update: Official image&rpar;](https://www.androidauthority.com/nothing-phone-2a-plus-image-leak-3465590/)
+ - [Have you bought any Matter-compatible smart home devices?](https://www.androidauthority.com/bought-matter-smart-home-poll-3466049/)
+ - [Chinese e-commerce firms prioritize sustainable growth over ultra-low prices amid slow GMV growth and anti-unfair competition rules taking effect on September 1 &lpar;Cissy Zhou/Nikkei Asia&rpar;](http://www.techmeme.com/240730/p6#a240730p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
