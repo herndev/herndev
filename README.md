@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Minecraft x Tetris](https://minecraft.net/article/the-tetris-dlc-rotation#new_tab)
- - [Indie studio pulls game from Steam after realizing it lost the source code: &#39;We lacked both the knowledge and resources&#39;](https://www.pcgamer.com/games/indie-studio-pulls-game-from-steam-after-realizing-it-lost-the-source-code-we-lacked-both-the-knowledge-and-resources)
- - [Helldivers 2’s next Warbond offers a wealth of new flamethrowers](https://www.polygon.com/24209707/helldivers-2-freedoms-flame-warbond-august-8)<!-- GAME:END -->
+ - [Brennan Lee Mulligan and Isabella Roland go big on life, love, and improv as a comedy couple](https://www.polygon.com/24208830/brennan-lee-mulligan-isabella-roland-interview-bigger-improv-show-dropout)
+ - [Make your own Deadpool &amp; Wolverine movie with this surprisingly deep movie studio management sim](https://www.pcgamer.com/games/sim/make-your-own-deadpool-and-wolverine-movie-with-this-surprisingly-deep-movie-studio-management-sim)
+ - [Mystery afoot as Garry&#39;s Mod gets hit by Skibi-DMCA apparently on behalf of Michael Bay&#39;s Skibidi Toilet film studio: &#39;Can you believe the cheek?&#39;](https://www.pcgamer.com/movies-tv/mystery-afoot-as-garrys-mod-gets-hit-by-skibi-dmca-apparently-on-behalf-of-michael-bays-skibidi-toilet-film-studio-can-you-believe-the-cheek)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
