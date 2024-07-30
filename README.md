@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta releases Segment Anything Model 2 with support for object segmentation in videos and images; the code and weights are available under an Apache 2.0 license &lpar;Devin Coldewey/TechCrunch&rpar;](http://www.techmeme.com/240729/p16#a240729p16)
- - [Best 3D Printer Deals: Save Up to $300 on Our Favorite 3D Printers Including Creality, Elegoo and More](https://www.cnet.com/deals/best-3d-printer-deals/#ftag=CAD590a51e)
- - [Nvidia and Meta CEOs Talk Generative AI at Siggraph 2024 video](https://www.cnet.com/videos/nvidia-and-meta-ceos-talk-generative-ai-at-siggraph-2024/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Instagram starts letting people create AI versions of themselves](https://www.theverge.com/24209196/instagram-ai-characters-meta-ai-studio-release)
+ - [How to opt out of AI model training to keep your ChatGPT and Gemini chats private](https://www.androidauthority.com/how-to-disable-ai-model-training-3466024/)
+ - [You can save $350 on this amazing Samsung Galaxy Book 4 Edge laptop](https://www.androidauthority.com/samsung-galaxy-book-4-edge-deal-2-3465993/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
