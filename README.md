@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [How to paint...landlord version!](http://9gag.com/gag/ae96XEB)
- - ⏩ [Men are simple creatures](http://9gag.com/gag/a347vGr)
- - 👉 [They teach you everything in life, except how to leave without them.](http://9gag.com/gag/axyDpxb)<!-- MEMES:END -->
+ - 💣 [British people protesting/rioting after Rwandan migrant killed 3 children with a knife.](http://9gag.com/gag/avyr2MM)
+ - ⏩ [9 different mug shots and I still think I can fix her , every one deserves a second chance](http://9gag.com/gag/aLn9ZV5)
+ - 👉 [Nice one, guy](http://9gag.com/gag/aBy1pzx)<!-- MEMES:END -->
 
 ---
 
