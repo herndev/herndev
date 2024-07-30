@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Purple Track at the 2024 Summer Olympic Games Has a Secret Ingredient](https://www.wired.com/story/paris-summer-olympics-2024-purple-track-athletics-mondo/)
- - [Microsoft calls on US Congress to pass a comprehensive law to crack down on AI deepfakes that aim to interfere in elections or maliciously target people &lpar;Jeff Stone/Bloomberg&rpar;](http://www.techmeme.com/240730/p17#a240730p17)
- - [Slew of new iPhone, Mac and iPad models identified in Apple&#39;s beta code](https://appleinsider.com/articles/24/07/30/macos-sequoia-beta-proves-there-will-be-new-macs-ipads-iphones-in-the-future?utm_medium=rss)<!-- TECH:END -->
+ - [MacBook Pro M3 finally gets this power-user feature Air users have had for months](https://www.androidauthority.com/macbook-pro-m3-gets-power-user-feature-3466145/)
+ - [Wear This AI Friend Around Your Neck](https://www.wired.com/story/friend-ai-pendant/)
+ - [iPhone 16 Pro lineup rumored to get Wi-Fi 7, just one year after the last upgrade](https://appleinsider.com/articles/24/07/30/iphone-16-pro-lineup-rumored-to-get-wi-fi-7-just-one-year-after-the-last-upgrade?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
