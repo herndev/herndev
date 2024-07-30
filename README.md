@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Mario &amp; Sonic Are Dead &lpar;The Olympic Games Series, We Mean&rpar;](https://kotaku.com/mario-sonic-olympic-games-nintendo-switch-sega-1851608578)
- - [Twitch employees are worried the service could become a &#39;zombie brand&#39;, as a potential third round of layoffs looms, but luckily CEO Dan Clancy only eats &#39;medium-sized dinners&#39; during international trips to meet streamers](https://www.pcgamer.com/hardware/streaming/twitch-employees-are-worried-the-service-could-become-a-zombie-brand-as-a-potential-third-round-of-layoffs-looms-but-luckily-ceo-dan-clancy-only-eats-medium-sized-dinners-during-international-trips-to-meet-streamers)
- - [Meta&#39;s Mark Zuckerberg chews AI cud with Nvidia&#39;s Jen-Hsun Huang, talking about delicious cows, slicing tomatoes, and old Chinese guys drinking whiskey](https://www.pcgamer.com/software/ai/metas-mark-zuckerberg-chews-ai-cud-with-nvidias-jen-hsun-huang-talking-about-delicious-cows-slicing-tomatoes-and-old-chinese-guys-drinking-whiskey)<!-- GAME:END -->
+ - [Ducky Zero 6108 review](https://www.pcgamer.com/hardware/gaming-keyboards/ducky-zero-6108-review)
+ - [Elden Ring update makes useless spells useful, fixes a major UI problem](https://www.polygon.com/24209497/elden-ring-patch-july-30-version-113-from-software)
+ - [Elden Ring&#39;s new patch just released, and it finally fixes an infuriating problem with summoning your spectral steed](https://www.pcgamer.com/games/rpg/elden-rings-new-patch-just-released-and-it-finally-fixes-an-infuriating-problem-with-summoning-your-spectral-steed)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
