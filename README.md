@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [&lpar;For Southeast Asia&rpar; First Look: Astro Bot Limited Edition DualSense Wireless Controller](https://blog.playstation.com/2024/07/29/20240730-astrobot/)
  - [World of Goo 2 drops globular trailer, soundtrack preview ahead of launch this week](https://www.pcgamer.com/games/world-of-goo-2-drops-globular-trailer-soundtrack-preview-ahead-of-launch-this-week)
- - [Diablo 4 player finds counterfeit &#39;legendary&#39; items that shouldn&#39;t exist](https://www.pcgamer.com/games/rpg/diablo-4-player-finds-counterfeit-legendary-items-that-shouldnt-exist)
- - [The Steam Tower Defense Fest is here, bringing sales on games where buildings do the battling](https://www.pcgamer.com/games/strategy/the-steam-tower-defense-fest-is-here-bringing-sales-on-games-where-buildings-do-the-battling)<!-- GAME:END -->
+ - [Diablo 4 player finds counterfeit &#39;legendary&#39; items that shouldn&#39;t exist](https://www.pcgamer.com/games/rpg/diablo-4-player-finds-counterfeit-legendary-items-that-shouldnt-exist)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
