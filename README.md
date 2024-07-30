@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [What is the Destiny 2 raid and dungeon rotation this week?](https://www.polygon.com/destiny-2-guide-walkthrough/24140653/raid-dungeon-rotation-this-week-calendar-schedule)
- - [What We Loved And Miss About The Xbox 360](https://kotaku.com/xbox-360-tribute-retrospective-halo-3-red-ring-e3-1851609358)
- - [How to age up an infant in The Sims 4 with either a cake or a cheat](https://www.pcgamer.com/games/the-sims/sims-4-age-up-infant)<!-- GAME:END -->
+ - [How to write songs in The Sims 4 with your Sim&#39;s instrument of choice](https://www.pcgamer.com/games/the-sims/sims-4-write-song)
+ - [Goofy builder-crafter Space for Sale is about developing &#39;prime real estate on unexplored worlds&#39;](https://www.pcgamer.com/games/survival-crafting/goofy-builder-crafter-space-for-sale-is-about-developing-prime-real-estate-on-unexplored-worlds)
+ - [Palworld&#39;s community manager says our &#39;dead game&#39; fixation is ruining gaming: &#39;I don&#39;t think it really serves anyone to push gamers to play the same game, day in and day out&#39;](https://www.pcgamer.com/games/survival-crafting/palworlds-community-manager-says-our-dead-game-fixation-is-ruining-gaming-i-dont-think-it-really-serves-anyone-to-push-gamers-to-play-the-same-game-day-in-and-day-out)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
