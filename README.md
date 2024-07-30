@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Maya Rudolph on Hot Ones is the funniest thing I&#39;ve ever seen](http://9gag.com/gag/aKG3RPj)
+ - 💣 [Bro identifies as fat](http://9gag.com/gag/aPAW5AB)
  - ⏩ [`Unidentified 17 year old`](http://9gag.com/gag/avyn3RW)
- - 👉 [Doesn\u2019t seem so ba-](http://9gag.com/gag/aXPwOQP)<!-- MEMES:END -->
+ - 👉 [Bailey R.](http://9gag.com/gag/aE0n94p)<!-- MEMES:END -->
 
 ---
 
