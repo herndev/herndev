@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Offering a ride](http://9gag.com/gag/a1mX37D)
- - ⏩ [To my Venezuelan friends. Love, Romania](http://9gag.com/gag/ajPDbjQ)
- - 👉 [How many balloons are needed to fly?](http://9gag.com/gag/aYQL8Oq)<!-- MEMES:END -->
+ - 💣 [9 different mug shots and I still think I can fix her , every one deserves a second chance](http://9gag.com/gag/aLn9ZV5)
+ - ⏩ [Doesn\u2019t seem so ba-](http://9gag.com/gag/aXPwOQP)
+ - 👉 [This post is still alive more than year](http://9gag.com/gag/a4PjD9m)<!-- MEMES:END -->
 
 ---
 
