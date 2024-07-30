@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Is this still a thing?](http://9gag.com/gag/aoypBZ3)
- - ⏩ [9 different mug shots and I still think I can fix her , every one deserves a second chance](http://9gag.com/gag/aLn9ZV5)
- - 👉 [How many balloons are needed to fly?](http://9gag.com/gag/aYQL8Oq)<!-- MEMES:END -->
+ - 💣 [Venezuelan Criminal Gang &lpar;Tren del Llano&rpar; orders Nicolas Maduro to respect the real vote, otherwise they will begin their attack.](http://9gag.com/gag/apRLyYp)
+ - ⏩ [Dad instincts?](http://9gag.com/gag/aNDWxmA)
+ - 👉 [Wow](http://9gag.com/gag/aW4MwG2)<!-- MEMES:END -->
 
 ---
 
