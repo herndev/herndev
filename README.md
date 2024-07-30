@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Temu faces backlash from its Chinese suppliers over its aggressive effort to recruit Amazon merchants who hold goods in warehouses in the US and the EU &lpar;Financial Times&rpar;](http://www.techmeme.com/240730/p2#a240730p2)
  - [Canva acquires AI image generation service Leonardo.ai for an undisclosed amount; Leonardo.ai launched in December 2022 and has more than 19M registered users &lpar;Capital Brief&rpar;](http://www.techmeme.com/240730/p1#a240730p1)
- - [Lime’s New Rideshare Ebikes Are More Approachable—Throttle and All](https://www.wired.com/story/lime-new-rideshare-ebikes-limebike-limeglider-2024/)
- - [Sources: Samsung is narrowing the gap with rival SK Hynix in high-bandwidth memory chips and anticipates Nvidia&#39;s approval for its HBM3E chips by November 2024 &lpar;Bloomberg&rpar;](http://www.techmeme.com/240729/p19#a240729p19)<!-- TECH:END -->
+ - [Lime’s New Rideshare Ebikes Are More Approachable—Throttle and All](https://www.wired.com/story/lime-new-rideshare-ebikes-limebike-limeglider-2024/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
