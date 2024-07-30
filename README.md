@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Concerning the stabbing in Southport...](http://9gag.com/gag/aYQL2Mm)
- - ⏩ [In another world](http://9gag.com/gag/ae96vpv)
- - 👉 [F**k cancer](http://9gag.com/gag/aO8vXB6)<!-- MEMES:END -->
+ - 💣 [Offering a ride](http://9gag.com/gag/a1mX37D)
+ - ⏩ [To my Venezuelan friends. Love, Romania](http://9gag.com/gag/ajPDbjQ)
+ - 👉 [How many balloons are needed to fly?](http://9gag.com/gag/aYQL8Oq)<!-- MEMES:END -->
 
 ---
 
