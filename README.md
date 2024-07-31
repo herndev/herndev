@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Loom &amp; Leaf Mattress Review: A Firm and Fancy All-Foam Bed](https://www.cnet.com/health/sleep/loom-leaf-mattress-review/#ftag=CAD590a51e)
- - [Google Photos could let you see more people you actually care about](https://www.androidauthority.com/google-photos-show-more-faces-apk-teardown-3466036/)
- - [Best Electric Lawn Mower of 2024](https://www.cnet.com/news/best-electric-lawn-mower/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [StubHub accused of charging ‘deceptive’ fees in DC lawsuit](https://www.theverge.com/2024/7/31/24209853/stubhub-hidden-junk-fees)
+ - [An IBM and Ponemon study of 604 organizations affected by data breaches between March 2023 and February 2024 finds the global average cost rose 10% YoY to $4.9M &lpar;Jonathan Greig/The Record&rpar;](http://www.techmeme.com/240731/p4#a240731p4)
+ - [Google Photos could make photo enhancements less of a pain](https://www.androidauthority.com/google-photos-enhance-photos-sharing-apk-teardown-3466492/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
