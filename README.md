@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Dad instincts?](http://9gag.com/gag/aNDWxmA)
- - ⏩ [What a bunch of silly mimes. Im sure there is nothing wrong with them at all\u2026](http://9gag.com/gag/a874PoO)
- - 👉 [Nice one, guy](http://9gag.com/gag/aBy1pzx)<!-- MEMES:END -->
+ - 💣 [Things you don&#39;t learn in Middle School Biology #37](http://9gag.com/gag/aNDdrK4)
+ - ⏩ [She is trying to sue the internet...!!!](http://9gag.com/gag/a1mX43Y)
+ - 👉 [Give this granny a stage](http://9gag.com/gag/a2vdz0p)<!-- MEMES:END -->
 
 ---
 
