@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [&#39;I can’t thank streamers enough&#39;: Palworld developer&#39;s CEO weighs in on Japanese visual novel discourse in the wake of streaming controversy](https://www.pcgamer.com/games/survival-crafting/i-can-t-thank-streamers-enough-palworld-developer-s-ceo-weighs-in-on-japanese-visual-novel-discourse-in-the-wake-of-streaming-controversy)
- - [After cutting 5% of its workforce in 2023 reports say Intel is planning to lay off thousands more workers](https://www.pcgamer.com/hardware/processors/after-cutting-5-of-its-workforce-in-2023-reports-say-intel-is-planning-to-lay-off-thousands-more-workers)
- - [Today&#39;s Wordle answer for Wednesday, July 31](https://www.pcgamer.com/games/puzzle/wordle-answer-today-july-31-2024)<!-- GAME:END -->
+ - [SCP: Secret Lab player who &#39;can&#39;t remember s***&#39; invents their own custom mapping tool like a horror game MacGyver](https://www.pcgamer.com/games/horror/scp-secret-lab-player-who-cant-remember-s-invents-their-own-custom-mapping-tool-like-a-horror-game-macgyver)
+ - [EA CEO calls the next Battlefield &#39;one of the most ambitious projects in our history&#39; as all hands get to work on a &#39;Battlefield universe&#39;](https://www.pcgamer.com/games/fps/ea-ceo-calls-the-next-battlefield-one-of-the-most-ambitious-projects-in-our-history-as-all-hands-get-to-work-on-a-battlefield-universe)
+ - [World of Warcraft players aren&#39;t pleased with The War Within pre-patch event: With 90 minute waits in between bosses and somewhat-stingy currency rewards](https://www.pcgamer.com/games/world-of-warcraft/world-of-warcraft-players-aren-t-pleased-with-the-war-within-pre-patch-event-with-90-minute-waits-in-between-bosses-and-somewhat-stingy-currency-rewards)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
