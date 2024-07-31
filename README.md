@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Makes sense](http://9gag.com/gag/a9yWbDD)
- - ⏩ [Go woke and go broke Empowered](http://9gag.com/gag/ayNL7WW)
- - 👉 [Go Sports!!!](http://9gag.com/gag/avyr0nX)<!-- MEMES:END -->
+ - 💣 [When you have to prove why you earn 6x of a WNBA player](http://9gag.com/gag/a6ZMmWm)
+ - ⏩ [Hmmmmm mother daughter combo](http://9gag.com/gag/amozjAy)
+ - 👉 [Is this still a thing?](http://9gag.com/gag/aoypBZ3)<!-- MEMES:END -->
 
 ---
 
