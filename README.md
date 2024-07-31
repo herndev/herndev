@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Werewolf: The Apocalypse – Purgatory Unleashes Dark Choices on Xbox](https://news.xbox.com/en-us/2024/07/31/werewolf-the-apocalypse-purgatory-unleashes-dark-choices-on-xbox/)
- - [How to get Archeo Kingdom crafted gear in Final Fantasy 14: Dawntrail](https://www.pcgamer.com/games/final-fantasy/ffxiv-archeo-kingdom-crafted-gear)
- - [In this investigation game you&#39;re the desk jockey with all the cool analysis software](https://www.pcgamer.com/games/adventure/in-this-investigation-game-youre-the-desk-jockey-with-all-the-cool-analysis-software)<!-- GAME:END -->
+ - [Retro-Futuristic Saga Cilla Now Launches August 2](https://news.xbox.com/en-us/2024/07/31/retro-futuristic-saga-cilla-now-launches-august-2/)
+ - [Here’s the official slate of upcoming Star Wars movies and TV](https://www.polygon.com/star-wars/23672528/star-wars-movies-tv-schedule-calendar-upcoming)
+ - [Where to find the NES006 specimen in Destiny 2](https://www.polygon.com/destiny-2-guide-walkthrough/24209923/nes006-location-where-to-find)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
