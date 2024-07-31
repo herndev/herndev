@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nvidia shares close down 7% to $103.73, after falling ~23% since July 10, as investors pull back from large tech stocks amid doubts over AI spending paying off &lpar;Emily Forgash/Bloomberg&rpar;](http://www.techmeme.com/240731/p1#a240731p1)
- - [OpenAI rolls out much-awaited ChatGPT advanced voice mode to select users](https://www.androidauthority.com/open-ai-advanced-voice-mode-rollout-3466329/)
- - [This is what the iPhone 16’s color lineup could turn out to be](https://www.androidauthority.com/apple-iphone-16-colors-dummy-unit-leak-3466464/)<!-- TECH:END -->
+ - [Google Photos could let you see more people you actually care about](https://www.androidauthority.com/google-photos-show-more-faces-apk-teardown-3466036/)
+ - [Best Electric Lawn Mower of 2024](https://www.cnet.com/news/best-electric-lawn-mower/#ftag=CAD590a51e)
+ - [Sources: the US plans to unveil a new rule next month to stop chipmaking equipment exports from some countries to China, exempting allies like the Netherlands &lpar;Karen Freifeld/Reuters&rpar;](http://www.techmeme.com/240731/p2#a240731p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
