@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [British people protesting/rioting after Rwandan migrant killed 3 children with a knife.](http://9gag.com/gag/avyr2MM)
- - ⏩ [9 different mug shots and I still think I can fix her , every one deserves a second chance](http://9gag.com/gag/aLn9ZV5)
- - 👉 [Nice one, guy](http://9gag.com/gag/aBy1pzx)<!-- MEMES:END -->
+ - 💣 [Guys, is this depression? Am i okay?](http://9gag.com/gag/aqyr4KP)
+ - ⏩ [Hmmmmm mother daughter combo](http://9gag.com/gag/amozjAy)
+ - 👉 [Wow](http://9gag.com/gag/aW4MwG2)<!-- MEMES:END -->
 
 ---
 
