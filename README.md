@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon’s big-screen Kindle Scribe is more than $100 off right now](https://www.theverge.com/2024/7/31/24209525/amazon-kindle-scribe-echo-show-8-smart-display-deal-sale)
- - [Delta Air Lines CEO Ed Bastian says the CrowdStrike outage will cost the company $500M, after canceling 6,000+ flights, and Delta will seek damages &lpar;Financial Times&rpar;](http://www.techmeme.com/240731/p19#a240731p19)
- - [Sony signs a deal to be the NFL&#39;s official tech and headphones partner, with a new headset in 2025; the NFL also plans to expand the use of Sony&#39;s Hawk-Eye tech &lpar;Randall Williams/Bloomberg&rpar;](http://www.techmeme.com/240731/p18#a240731p18)<!-- TECH:END -->
+ - [Discord on Xbox will soon let you watch your friends’ streams](https://www.theverge.com/2024/7/31/24210270/microsoft-xbox-discord-watch-friends-streams-feature)
+ - [Sonos rolls out fix for iOS battery drain issue](https://www.theverge.com/2024/7/31/24210410/sonos-iphone-battery-drain-fix-now-available)
+ - [Uber deal could add 100,000 ridehailing EVs to roads](https://www.theverge.com/2024/7/31/24210369/uber-byd-partnership-ride-hailing-evs)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
