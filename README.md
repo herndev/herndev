@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google explains how you’re using Magic Editor and Magic Eraser wrong](https://www.androidauthority.com/magic-editor-vs-magic-eraser-3466646/)
- - [Election Deniers Are Ramping Up Efforts to Disenfranchise US Voters](https://www.wired.com/story/election-deniers-efforts-disenfranchise-voters/)
- - [Delta Air Lines CEO Ed Bastian says the CrowdStrike-caused outage will cost the company $500M, after canceling 6,000+ flights, and Delta will seek damages &lpar;CNBC&rpar;](http://www.techmeme.com/240731/p26#a240731p26)<!-- TECH:END -->
+ - [The latest Google Maps update streamlines crash reporting for safer roads](https://www.androidauthority.com/google-maps-incident-reporting-3466683/)
+ - [Source: TikTok was paying Microsoft ~$20M/mo. to use OpenAI&#39;s models in Azure OpenAI Service as of March, ~25% of the total revenue that service was generating &lpar;Aaron Holmes/The Information&rpar;](http://www.techmeme.com/240731/p28#a240731p28)
+ - [What to expect from Google’s Pixel 9 event](https://www.theverge.com/2024/7/31/24208625/google-pixel-hardware-event-august-2024-leaks)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
