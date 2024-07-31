@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [An airline industry group executive says India doubled the use of digital biometric systems in airports to 28 in June, covering ~90% of sky-bound travel volumes &lpar;Chris Kay/Financial Times&rpar;](http://www.techmeme.com/240731/p6#a240731p6)
- - [Microsoft is removing ads from Skype](https://www.theverge.com/2024/7/31/24210273/microsoft-skype-ads-removal)
- - [Nothing Phone 2a Plus is here: Slightly better, slightly more expensive](https://www.androidauthority.com/nothing-phone-2a-plus-release-3465767/)<!-- TECH:END -->
+ - [Latest iPhone 16 dummy units show off colors and camera layout](https://appleinsider.com/articles/24/07/31/latest-iphone-16-dummy-units-show-off-colors-and-camera-layout?utm_medium=rss)
+ - [An investigation finds 450+ illicit drug ads on Facebook and Instagram from March to June 2024, some showing bottles or bricks of cocaine; Meta removed the ads &lpar;Salvador Rodriguez/Wall Street Journal&rpar;](http://www.techmeme.com/240731/p10#a240731p10)
+ - [Nothing unveils the Phone 2A Plus, offering the same 6.7-inch display as the 2A and a new MediaTek Dimensity 7350 Pro 5G SoC, available for $399 on August 7 &lpar;Andrew Liszewski/The Verge&rpar;](http://www.techmeme.com/240731/p9#a240731p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
