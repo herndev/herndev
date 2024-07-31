@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [When you have to prove why you earn 6x of a WNBA player](http://9gag.com/gag/a6ZMmWm)
- - ⏩ [Hmmmmm mother daughter combo](http://9gag.com/gag/amozjAy)
- - 👉 [Is this still a thing?](http://9gag.com/gag/aoypBZ3)<!-- MEMES:END -->
+ - 💣 [This happened in Philippines ... It is genuinely bizarre.](http://9gag.com/gag/aKG2w3b)
+ - ⏩ [When you have to prove why you earn 6x of a WNBA player](http://9gag.com/gag/a6ZMmWm)
+ - 👉 [Old but gold](http://9gag.com/gag/a4PjDWm)<!-- MEMES:END -->
 
 ---
 
