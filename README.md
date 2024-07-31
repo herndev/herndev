@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Buy brings back Prime Day deals on Amazon Echo speakers](https://www.androidauthority.com/amazon-echo-dot-pop-deals-3466716/)
- - [A ransomware attack hits blood donation nonprofit OneBlood, which has asked over 250 hospitals in the US to activate their critical blood shortage protocols &lpar;Sean Lyngaas/CNN&rpar;](http://www.techmeme.com/240731/p30#a240731p30)
- - [Ohio residents can now add driver&#39;s license, state ID to the iPhone Wallet app](https://appleinsider.com/articles/24/07/31/ohio-residents-can-now-add-drivers-license-state-id-to-the-iphone-wallet-app?utm_medium=rss)<!-- TECH:END -->
+ - [Bungie announces it will lay off 220 employees, or 17% of its workforce, and integrate an additional 155 roles into its parent Sony Interactive Entertainment &lpar;Wesley Yin-Poole/IGN&rpar;](http://www.techmeme.com/240731/p32#a240731p32)
+ - [Leak: Here’s the DJI Neo, the lightest budget drone DJI’s ever made](https://www.theverge.com/2024/7/31/24210620/dji-neo-drone-4k-digital-photography)
+ - [Skype Insider gets ad-free interface with Microsoft’s latest update](https://www.androidauthority.com/skype-insider-ad-free-3466674/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
