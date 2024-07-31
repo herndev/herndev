@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Xbox Insiders – it’s easier than ever to watch, chat, and play with your friends on Xbox and Discord](https://news.xbox.com/en-us/2024/07/31/xbox-insiders-its-easier-than-ever-to-watch-chat-and-play-with-your-friends-on-xbox-and-discord/)
- - [Indie Selects for July: Cool Indie Games That You Deserve for Your Hot Gamer Summer](https://news.xbox.com/en-us/2024/07/31/indie-selects-july-id-xbox/)
- - [New shoot-’em-up Devil Blade Reboot is like an alt-history Sega Saturn import](https://www.polygon.com/24209757/devil-blade-reboot-steam-pc-shmup)<!-- GAME:END -->
+ - [How Towerborne’s Weapons Work Together to Create A Symphony Of Combat Chaos](https://news.xbox.com/en-us/2024/07/31/towerborne-weapons-work-together-combat-chaos/)
+ - [New Xbox Controller Is For All You &#39;90 Kids Out There](https://kotaku.com/new-xbox-controller-transparent-blue-sky-cipher-price-1851609853)
+ - [Thank you, Freeware: I was just saved from USB disconnect/reconnect hell by a simple logging tool](https://www.pcgamer.com/hardware/thank-you-freeware-i-was-just-saved-from-usb-disconnectreconnect-hell-by-a-simple-logging-tool)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
