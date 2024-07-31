@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ouch: Xiaomi won’t make it easier to disable ads after all](https://www.androidauthority.com/xiaomi-no-single-disable-ads-toggle-3466533/)
- - [iPhone 16 Pro may ship in a new bronze color](https://appleinsider.com/articles/24/07/31/iphone-16-pro-may-ship-in-a-new-bronze-color?utm_medium=rss)
- - [Chinese regulators propose taking over online identity verification from companies to give people a single internet ID, citing privacy and online fraud &lpar;New York Times&rpar;](http://www.techmeme.com/240731/p13#a240731p13)<!-- TECH:END -->
+ - [Eufy S1 Pro review: Should you buy it?](https://www.androidauthority.com/anker-eufy-s1-pro-review-3440757/)
+ - [Google Cracks Down on Explicit Deepfakes](https://www.wired.com/story/google-tries-to-crack-down-on-explicit-deepfakes/)
+ - [&#39;Date Like Goblins&#39; Thinks Playing Games Can Fix Dating Apps](https://www.wired.com/story/dating-apps-suck-date-like-goblins/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
