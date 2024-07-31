@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [StubHub accused of charging ‘deceptive’ fees in DC lawsuit](https://www.theverge.com/2024/7/31/24209853/stubhub-hidden-junk-fees)
- - [An IBM and Ponemon study of 604 organizations affected by data breaches between March 2023 and February 2024 finds the global average cost rose 10% YoY to $4.9M &lpar;Jonathan Greig/The Record&rpar;](http://www.techmeme.com/240731/p4#a240731p4)
- - [Google Photos could make photo enhancements less of a pain](https://www.androidauthority.com/google-photos-enhance-photos-sharing-apk-teardown-3466492/)<!-- TECH:END -->
+ - [An airline industry group executive says India doubled the use of digital biometric systems in airports to 28 in June, covering ~90% of sky-bound travel volumes &lpar;Chris Kay/Financial Times&rpar;](http://www.techmeme.com/240731/p6#a240731p6)
+ - [Microsoft is removing ads from Skype](https://www.theverge.com/2024/7/31/24210273/microsoft-skype-ads-removal)
+ - [Nothing Phone 2a Plus is here: Slightly better, slightly more expensive](https://www.androidauthority.com/nothing-phone-2a-plus-release-3465767/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
