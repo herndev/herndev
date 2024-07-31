@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung’s Galaxy Z Flip phones find a new calling as police bodycams](https://www.androidauthority.com/samsung-z-flip-police-bodycam-3466760/)
- - [You can now clone almost any app in Oxygen OS, no workaround necessary](https://www.androidauthority.com/oxygen-os-14-1-app-cloner-3466752/)
- - [eBay reports Q2 revenue up 1% YoY to $2.57B, vs. $2.53B est., GMV up 1% to $18.4B, net income up 31% to $226M, and forecasts Q3 revenue below estimates &lpar;Akash Sriram/Reuters&rpar;](http://www.techmeme.com/240731/p37#a240731p37)<!-- TECH:END -->
+ - [How to get started using Apple Open Directory](https://appleinsider.com/inside/macos/tips/how-to-get-started-using-apple-open-directory?utm_medium=rss)
+ - [TikTok is one of Microsoft’s biggest AI cloud computing customers](https://www.theverge.com/2024/7/31/24210667/microsoft-tiktok-ai-openai-customer)
+ - [The Incredible Physics of Simone Biles’ Yurchenko Double Pike](https://www.wired.com/story/the-incredible-physics-of-simone-biles-yurchenko-double-pike/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
