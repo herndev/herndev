@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [A disgraced Dr Disrespect teases his return to streaming](https://www.pcgamer.com/gaming-industry/a-disgraced-dr-disrespect-teases-his-return-to-streaming)
- - [PC Gamer announces editorial staff changes and recent hirings](https://www.pcgamer.com/gaming-industry/pc-gamer-announces-editorial-staff-changes-and-recent-hirings)
- - [Delightful deckbuilder Clank! now has a digital version](https://www.pcgamer.com/games/card-games/delightful-deckbuilder-clank-now-has-a-digital-version)<!-- GAME:END -->
+ - [Hugh Jackman’s performance is the one sincere thing in Deadpool &amp; Wolverine](https://www.polygon.com/24209959/deadpool-wolverine-hugh-jackman-best-part-logan)
+ - [Palia’s new Home Tours showcase some delightful and creative plots](https://www.polygon.com/24210643/palia-home-tours-player-made-plots)
+ - [Somehow the worst part of crafting games is the crafting](https://www.pcgamer.com/games/survival-crafting/somehow-the-worst-part-of-crafting-games-is-the-crafting)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
