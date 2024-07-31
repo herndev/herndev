@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Bungie announces it will lay off 220 employees, or 17% of its workforce, and integrate an additional 155 roles into its parent Sony Interactive Entertainment &lpar;Wesley Yin-Poole/IGN&rpar;](http://www.techmeme.com/240731/p32#a240731p32)
- - [Leak: Here’s the DJI Neo, the lightest budget drone DJI’s ever made](https://www.theverge.com/2024/7/31/24210620/dji-neo-drone-4k-digital-photography)
- - [Skype Insider gets ad-free interface with Microsoft’s latest update](https://www.androidauthority.com/skype-insider-ad-free-3466674/)<!-- TECH:END -->
+ - [Samsung’s Galaxy Z Flip phones find a new calling as police bodycams](https://www.androidauthority.com/samsung-z-flip-police-bodycam-3466760/)
+ - [You can now clone almost any app in Oxygen OS, no workaround necessary](https://www.androidauthority.com/oxygen-os-14-1-app-cloner-3466752/)
+ - [eBay reports Q2 revenue up 1% YoY to $2.57B, vs. $2.53B est., GMV up 1% to $18.4B, net income up 31% to $226M, and forecasts Q3 revenue below estimates &lpar;Akash Sriram/Reuters&rpar;](http://www.techmeme.com/240731/p37#a240731p37)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
