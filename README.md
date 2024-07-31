@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Go woke and go broke Empowered](http://9gag.com/gag/ayNL7WW)
- - ⏩ [\u201cIt\u2019s not about money. It\u2019s about sending a message..](http://9gag.com/gag/a5QZe5E)
- - 👉 [Best community is...](http://9gag.com/gag/aGy0Y5G)<!-- MEMES:END -->
+ - 💣 [By the time COCO is done, I NUT](http://9gag.com/gag/aQzxYpz)
+ - ⏩ [Men&#39;s ranking is accurate](http://9gag.com/gag/aKG3bOZ)
+ - 👉 [Main character vibes](http://9gag.com/gag/ayN8gwM)<!-- MEMES:END -->
 
 ---
 
