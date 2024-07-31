@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Hugh Jackman’s performance is the one sincere thing in Deadpool &amp; Wolverine](https://www.polygon.com/24209959/deadpool-wolverine-hugh-jackman-best-part-logan)
- - [Palia’s new Home Tours showcase some delightful and creative plots](https://www.polygon.com/24210643/palia-home-tours-player-made-plots)
- - [Somehow the worst part of crafting games is the crafting](https://www.pcgamer.com/games/survival-crafting/somehow-the-worst-part-of-crafting-games-is-the-crafting)<!-- GAME:END -->
+ - [Incredible New Elden Ring Glitch Is Letting Players Fly Through Shadow Of The Erdtree](https://kotaku.com/elden-ring-shadow-erdtree-speedruns-skips-tournament-1851610294)
+ - [&#39;$100M is GTA-level money&#39;: A former developer on the 2013 Deadpool game says rumors of its budget are highly exaggerated](https://www.pcgamer.com/games/action/dollar100m-is-gta-level-money-a-former-developer-on-the-2013-deadpool-game-says-rumors-of-its-budget-are-highly-exaggerated)
+ - [How to do your homework in The Sims 4](https://www.pcgamer.com/games/the-sims/sims-4-how-to-do-homework-lost-homework)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
