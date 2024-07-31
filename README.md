@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Latest iPhone 16 dummy units show off colors and camera layout](https://appleinsider.com/articles/24/07/31/latest-iphone-16-dummy-units-show-off-colors-and-camera-layout?utm_medium=rss)
- - [An investigation finds 450+ illicit drug ads on Facebook and Instagram from March to June 2024, some showing bottles or bricks of cocaine; Meta removed the ads &lpar;Salvador Rodriguez/Wall Street Journal&rpar;](http://www.techmeme.com/240731/p10#a240731p10)
- - [Nothing unveils the Phone 2A Plus, offering the same 6.7-inch display as the 2A and a new MediaTek Dimensity 7350 Pro 5G SoC, available for $399 on August 7 &lpar;Andrew Liszewski/The Verge&rpar;](http://www.techmeme.com/240731/p9#a240731p9)<!-- TECH:END -->
+ - [Ouch: Xiaomi won’t make it easier to disable ads after all](https://www.androidauthority.com/xiaomi-no-single-disable-ads-toggle-3466533/)
+ - [iPhone 16 Pro may ship in a new bronze color](https://appleinsider.com/articles/24/07/31/iphone-16-pro-may-ship-in-a-new-bronze-color?utm_medium=rss)
+ - [Chinese regulators propose taking over online identity verification from companies to give people a single internet ID, citing privacy and online fraud &lpar;New York Times&rpar;](http://www.techmeme.com/240731/p13#a240731p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
