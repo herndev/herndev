@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [SCP: Secret Lab player who &#39;can&#39;t remember s***&#39; invents their own custom mapping tool like a horror game MacGyver](https://www.pcgamer.com/games/horror/scp-secret-lab-player-who-cant-remember-s-invents-their-own-custom-mapping-tool-like-a-horror-game-macgyver)
- - [EA CEO calls the next Battlefield &#39;one of the most ambitious projects in our history&#39; as all hands get to work on a &#39;Battlefield universe&#39;](https://www.pcgamer.com/games/fps/ea-ceo-calls-the-next-battlefield-one-of-the-most-ambitious-projects-in-our-history-as-all-hands-get-to-work-on-a-battlefield-universe)
- - [World of Warcraft players aren&#39;t pleased with The War Within pre-patch event: With 90 minute waits in between bosses and somewhat-stingy currency rewards](https://www.pcgamer.com/games/world-of-warcraft/world-of-warcraft-players-aren-t-pleased-with-the-war-within-pre-patch-event-with-90-minute-waits-in-between-bosses-and-somewhat-stingy-currency-rewards)<!-- GAME:END -->
+ - [We pushed this generative AI choose-your-own adventure game to the limits](https://www.polygon.com/review/24209670/chatgpt-deepgame-generative-ai-gaming)
+ - [How to infuse the Lifeless Stone Ring in World of Warcraft](https://www.pcgamer.com/games/mmo/world-of-warcraft/wow-lifeless-stone-ring)
+ - [SCP: Secret Lab player who &#39;can&#39;t remember s***&#39; invents their own custom mapping tool like a horror game MacGyver](https://www.pcgamer.com/games/horror/scp-secret-lab-player-who-cant-remember-s-invents-their-own-custom-mapping-tool-like-a-horror-game-macgyver)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
