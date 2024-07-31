@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [When toleration stops, boss music starts](http://9gag.com/gag/avyrpgb)
- - ⏩ [Bro identifies as fat](http://9gag.com/gag/aPAW5AB)
+ - 💣 [This post is still alive more than year](http://9gag.com/gag/a4PjD9m)
+ - ⏩ [Bailey R.](http://9gag.com/gag/aE0n94p)
  - 👉 [Is this still a thing?](http://9gag.com/gag/aoypBZ3)<!-- MEMES:END -->
 
 ---
