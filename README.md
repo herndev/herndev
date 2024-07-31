@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Incredible New Elden Ring Glitch Is Letting Players Fly Through Shadow Of The Erdtree](https://kotaku.com/elden-ring-shadow-erdtree-speedruns-skips-tournament-1851610294)
- - [&#39;$100M is GTA-level money&#39;: A former developer on the 2013 Deadpool game says rumors of its budget are highly exaggerated](https://www.pcgamer.com/games/action/dollar100m-is-gta-level-money-a-former-developer-on-the-2013-deadpool-game-says-rumors-of-its-budget-are-highly-exaggerated)
- - [How to do your homework in The Sims 4](https://www.pcgamer.com/games/the-sims/sims-4-how-to-do-homework-lost-homework)<!-- GAME:END -->
+ - [Devs Say Working With Apple Arcade Is Frustrating, &#39;Like An Abusive Relationship&#39;](https://kotaku.com/apple-arcade-abusive-horrible-mobilegamer-report-devs-1851610313)
+ - [Jonathan Blow says the Braid remaster &#39;sold like dog****&#39;](https://www.pcgamer.com/games/jonathan-blow-says-the-braid-remaster-sold-like-dog)
+ - [Here’s where you can pre-order the Lego Super Mario &amp; Yoshi set](https://www.polygon.com/24210679/lego-super-mario-yoshi-set-pre-order-where-to-buy)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
