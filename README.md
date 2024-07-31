@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Why does chinese government ban mosques?](http://9gag.com/gag/axygd02)
- - ⏩ [Aaaand he&#39;s gone. Killed in Iran, he won&#39;t be missed](http://9gag.com/gag/aKG2w9O)
- - 👉 [Dad instincts?](http://9gag.com/gag/aNDWxmA)<!-- MEMES:END -->
+ - 💣 [Makes sense](http://9gag.com/gag/a9yWbDD)
+ - ⏩ [Go woke and go broke Empowered](http://9gag.com/gag/ayNL7WW)
+ - 👉 [Go Sports!!!](http://9gag.com/gag/avyr0nX)<!-- MEMES:END -->
 
 ---
 
