@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Bro identifies as fat](http://9gag.com/gag/aPAW5AB)
- - ⏩ [I will just wait here](http://9gag.com/gag/agmGWR6)
- - 👉 [The Human Nervous System: A Visual Exploration](http://9gag.com/gag/ayNLEz8)<!-- MEMES:END -->
+ - 💣 [How many balloons are needed to fly?](http://9gag.com/gag/aYQL8Oq)
+ - ⏩ [Hmmmmm mother daughter combo](http://9gag.com/gag/amozjAy)
+ - 👉 [Hot very hot](http://9gag.com/gag/a9yY9GZ)<!-- MEMES:END -->
 
 ---
 
