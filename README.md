@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Guys, is this depression? Am i okay?](http://9gag.com/gag/aqyr4KP)
- - ⏩ [The Human Nervous System: A Visual Exploration](http://9gag.com/gag/ayNLEz8)
- - 👉 [They teach you everything in life, except how to leave without them.](http://9gag.com/gag/axyDpxb)<!-- MEMES:END -->
+ - 💣 [Wow](http://9gag.com/gag/aW4MwG2)
+ - ⏩ [Hmmmmm mother daughter combo](http://9gag.com/gag/amozjAy)
+ - 👉 [Men&#39;s ranking is accurate](http://9gag.com/gag/aKG3bOZ)<!-- MEMES:END -->
 
 ---
 
