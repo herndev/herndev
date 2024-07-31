@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Reveal Your Own Path with the Sky Cipher Special Edition Controller](https://news.xbox.com/en-us/2024/07/31/sky-cipher-xbox-wireless-controller-transparent/)
- - [EA College Football 25 Used AI To Make All 11,000 Players&#39; Faces](https://kotaku.com/ea-college-football-25-generative-ai-fifa-1851609733)
- - [Destiny 2: How to get the NES006 sample and summon secret bosses](https://www.pcgamer.com/games/fps/destiny-2-nes006-proximity-sensor-alert)<!-- GAME:END -->
+ - [Xbox Insiders – it’s easier than ever to watch, chat, and play with your friends on Xbox and Discord](https://news.xbox.com/en-us/2024/07/31/xbox-insiders-its-easier-than-ever-to-watch-chat-and-play-with-your-friends-on-xbox-and-discord/)
+ - [Indie Selects for July: Cool Indie Games That You Deserve for Your Hot Gamer Summer](https://news.xbox.com/en-us/2024/07/31/indie-selects-july-id-xbox/)
+ - [New shoot-’em-up Devil Blade Reboot is like an alt-history Sega Saturn import](https://www.polygon.com/24209757/devil-blade-reboot-steam-pc-shmup)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
