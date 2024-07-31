@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Why does chinese government ban mosques?](http://9gag.com/gag/axygd02)
- - ⏩ [Things you don&#39;t learn in Middle School Biology #37](http://9gag.com/gag/aNDdrK4)
- - 👉 [Asia road rage](http://9gag.com/gag/aRBeY17)<!-- MEMES:END -->
+ - 💣 [It\u2019s funny cuz it\u2019s true](http://9gag.com/gag/aAywBmZ)
+ - ⏩ [Is this still a thing?](http://9gag.com/gag/aoypBZ3)
+ - 👉 [Old but gold](http://9gag.com/gag/a4PjDWm)<!-- MEMES:END -->
 
 ---
 
