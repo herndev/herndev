@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [It\u2019s funny cuz it\u2019s true](http://9gag.com/gag/aAywBmZ)
- - ⏩ [Is this still a thing?](http://9gag.com/gag/aoypBZ3)
- - 👉 [Old but gold](http://9gag.com/gag/a4PjDWm)<!-- MEMES:END -->
+ - 💣 [Why does chinese government ban mosques?](http://9gag.com/gag/axygd02)
+ - ⏩ [Aaaand he&#39;s gone. Killed in Iran, he won&#39;t be missed](http://9gag.com/gag/aKG2w9O)
+ - 👉 [Dad instincts?](http://9gag.com/gag/aNDWxmA)<!-- MEMES:END -->
 
 ---
 
