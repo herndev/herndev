@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The latest Google Maps update streamlines crash reporting for safer roads](https://www.androidauthority.com/google-maps-incident-reporting-3466683/)
- - [Source: TikTok was paying Microsoft ~$20M/mo. to use OpenAI&#39;s models in Azure OpenAI Service as of March, ~25% of the total revenue that service was generating &lpar;Aaron Holmes/The Information&rpar;](http://www.techmeme.com/240731/p28#a240731p28)
- - [What to expect from Google’s Pixel 9 event](https://www.theverge.com/2024/7/31/24208625/google-pixel-hardware-event-august-2024-leaks)<!-- TECH:END -->
+ - [Best Buy brings back Prime Day deals on Amazon Echo speakers](https://www.androidauthority.com/amazon-echo-dot-pop-deals-3466716/)
+ - [A ransomware attack hits blood donation nonprofit OneBlood, which has asked over 250 hospitals in the US to activate their critical blood shortage protocols &lpar;Sean Lyngaas/CNN&rpar;](http://www.techmeme.com/240731/p30#a240731p30)
+ - [Ohio residents can now add driver&#39;s license, state ID to the iPhone Wallet app](https://appleinsider.com/articles/24/07/31/ohio-residents-can-now-add-drivers-license-state-id-to-the-iphone-wallet-app?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
