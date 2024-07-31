@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [This is what the iPhone 16’s color lineup could turn out to be](https://www.androidauthority.com/apple-iphone-16-colors-dummy-unit-leak-3466464/)
- - [Samsung Galaxy Watch Ultra review: premium materials and build quality, powerful Exynos processor, but large and bulky with only one size, and expensive &lpar;Steve Smith/SlashGear&rpar;](http://www.techmeme.com/240730/p45#a240730p45)
- - [Today&#39;s NYT Connections Hints, Answers and Help for July 31 #416](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-july-31-416/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Nvidia shares close down 7% to $103.73, after falling ~23% since July 10, as investors pull back from large tech stocks amid doubts over AI spending paying off &lpar;Emily Forgash/Bloomberg&rpar;](http://www.techmeme.com/240731/p1#a240731p1)
+ - [OpenAI rolls out much-awaited ChatGPT advanced voice mode to select users](https://www.androidauthority.com/open-ai-advanced-voice-mode-rollout-3466329/)
+ - [This is what the iPhone 16’s color lineup could turn out to be](https://www.androidauthority.com/apple-iphone-16-colors-dummy-unit-leak-3466464/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
