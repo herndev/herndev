@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Amazon must recall dangerous products properly — even ones sold by third-parties](https://www.theverge.com/2024/7/30/24209953/amazon-notify-customers-recalled-items-cpsc)
  - [AMD CEO Lisa Su says the MI300 AI chips did over $1B in sales in Q2 and that supply of MI300 chips will remain tight through 2025 &lpar;Sean Hollister/The Verge&rpar;](http://www.techmeme.com/240730/p40#a240730p40)
- - [Meta moves on from its celebrity lookalike AI chatbots](https://www.theverge.com/2024/7/30/24209918/meta-celebrity-lookalike-ai-chatbots-moves-on)
- - [Rumor roundup: iPhone Slim could be Apple&#39;s thinnest smartphone](https://appleinsider.com/articles/24/07/29/rumor-roundup-iphone-slim-could-be-apples-thinnest-smartphone?utm_medium=rss)<!-- TECH:END -->
+ - [Meta moves on from its celebrity lookalike AI chatbots](https://www.theverge.com/2024/7/30/24209918/meta-celebrity-lookalike-ai-chatbots-moves-on)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
