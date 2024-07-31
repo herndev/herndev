@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Things you don&#39;t learn in Middle School Biology #37](http://9gag.com/gag/aNDdrK4)
- - ⏩ [She is trying to sue the internet...!!!](http://9gag.com/gag/a1mX43Y)
- - 👉 [Give this granny a stage](http://9gag.com/gag/a2vdz0p)<!-- MEMES:END -->
+ - 💣 [Brazilian putting pickpocket to run in Paris](http://9gag.com/gag/a7odjOq)
+ - ⏩ [Muslim invasion of Europe always reminds me how lucky we are that our illegals are Catholic.](http://9gag.com/gag/a9yWbLo)
+ - 👉 [The Human Nervous System: A Visual Exploration](http://9gag.com/gag/ayNLEz8)<!-- MEMES:END -->
 
 ---
 
