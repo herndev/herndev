@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to get started using Apple Open Directory](https://appleinsider.com/inside/macos/tips/how-to-get-started-using-apple-open-directory?utm_medium=rss)
- - [TikTok is one of Microsoft’s biggest AI cloud computing customers](https://www.theverge.com/2024/7/31/24210667/microsoft-tiktok-ai-openai-customer)
- - [The Incredible Physics of Simone Biles’ Yurchenko Double Pike](https://www.wired.com/story/the-incredible-physics-of-simone-biles-yurchenko-double-pike/)<!-- TECH:END -->
+ - [Ema, which helps companies set up and deploy no-code AI agents it calls &quot;universal AI employees&quot;, raised $36M as part of a Series A led by Accel and Section 32 &lpar;Shubham Sharma/VentureBeat&rpar;](http://www.techmeme.com/240731/p41#a240731p41)
+ - [Hype for a new Nest Learning Thermostat is heating up with this early unboxing video](https://www.androidauthority.com/nest-learning-thermostat-unboxing-3466811/)
+ - [Google Pixel 9 rumors: Everything we know so far about the upcoming Pixels](https://www.androidauthority.com/google-pixel-9-3365966/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
