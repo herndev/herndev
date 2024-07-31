@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Hmmmmm mother daughter combo](http://9gag.com/gag/amozjAy)
- - ⏩ [Keep your foreign ass out of my daughter.](http://9gag.com/gag/a5QZepN)
- - 👉 [When you have to prove why you earn 6x of a WNBA player](http://9gag.com/gag/a6ZMmWm)<!-- MEMES:END -->
+ - 💣 [Why does chinese government ban mosques?](http://9gag.com/gag/axygd02)
+ - ⏩ [Things you don&#39;t learn in Middle School Biology #37](http://9gag.com/gag/aNDdrK4)
+ - 👉 [Asia road rage](http://9gag.com/gag/aRBeY17)<!-- MEMES:END -->
 
 ---
 
