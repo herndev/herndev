@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [We pushed this generative AI choose-your-own adventure game to the limits](https://www.polygon.com/review/24209670/chatgpt-deepgame-generative-ai-gaming)
- - [How to infuse the Lifeless Stone Ring in World of Warcraft](https://www.pcgamer.com/games/mmo/world-of-warcraft/wow-lifeless-stone-ring)
- - [SCP: Secret Lab player who &#39;can&#39;t remember s***&#39; invents their own custom mapping tool like a horror game MacGyver](https://www.pcgamer.com/games/horror/scp-secret-lab-player-who-cant-remember-s-invents-their-own-custom-mapping-tool-like-a-horror-game-macgyver)<!-- GAME:END -->
+ - [Reveal Your Own Path with the Sky Cipher Special Edition Controller](https://news.xbox.com/en-us/2024/07/31/sky-cipher-xbox-wireless-controller-transparent/)
+ - [EA College Football 25 Used AI To Make All 11,000 Players&#39; Faces](https://kotaku.com/ea-college-football-25-generative-ai-fifa-1851609733)
+ - [Destiny 2: How to get the NES006 sample and summon secret bosses](https://www.pcgamer.com/games/fps/destiny-2-nes006-proximity-sensor-alert)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
