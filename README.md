@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon must recall dangerous products properly — even ones sold by third-parties](https://www.theverge.com/2024/7/30/24209953/amazon-notify-customers-recalled-items-cpsc)
- - [AMD CEO Lisa Su says the MI300 AI chips did over $1B in sales in Q2 and that supply of MI300 chips will remain tight through 2025 &lpar;Sean Hollister/The Verge&rpar;](http://www.techmeme.com/240730/p40#a240730p40)
- - [Meta moves on from its celebrity lookalike AI chatbots](https://www.theverge.com/2024/7/30/24209918/meta-celebrity-lookalike-ai-chatbots-moves-on)<!-- TECH:END -->
+ - [Samsung reports Q2 revenue up 23.42% YoY to ~$53.45B, vs. ~$53.3B est., operating profit up 1,458% YoY to ~$7.5B, as AI memory chip demand remains strong &lpar;Sheila Chiang/CNBC&rpar;](http://www.techmeme.com/240730/p42#a240730p42)
+ - [Ring camera features are down due to AWS problems](https://www.theverge.com/2024/7/30/24210064/ring-camera-down-outage-amazon-aws-us-east)
+ - [The Northern Lights Are Coming Back: How to See the Aurora Borealis This Week](https://www.cnet.com/science/the-northern-lights-are-coming-back-how-to-see-the-aurora-borealis-this-week/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
