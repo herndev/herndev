@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The redesigned Tesla Model Y ‘Juniper’ might have a new rear light bar](https://www.theverge.com/2024/7/31/24210360/tesla-model-y-redesign-refresh-uncovered-lightbar-juniper)
- - [Interviews with 24 current and former Amazon staff say Jeff Bezos&#39; Amazon Way principles remain core under Andy Jassy but are now less universally agreed upon &lpar;Jason Del Rey/Fortune&rpar;](http://www.techmeme.com/240731/p24#a240731p24)
- - [How to use Reduce Interruptions on iOS 18 and what it does](https://appleinsider.com/inside/ios-18/tips/how-to-use-reduce-interruptions-on-ios-18-and-what-it-does?utm_medium=rss)<!-- TECH:END -->
+ - [Google explains how you’re using Magic Editor and Magic Eraser wrong](https://www.androidauthority.com/magic-editor-vs-magic-eraser-3466646/)
+ - [Election Deniers Are Ramping Up Efforts to Disenfranchise US Voters](https://www.wired.com/story/election-deniers-efforts-disenfranchise-voters/)
+ - [Delta Air Lines CEO Ed Bastian says the CrowdStrike-caused outage will cost the company $500M, after canceling 6,000+ flights, and Delta will seek damages &lpar;CNBC&rpar;](http://www.techmeme.com/240731/p26#a240731p26)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
