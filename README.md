@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Things you don&#39;t learn in Middle School Biology #37](http://9gag.com/gag/aNDdrK4)
- - ⏩ [Hot very hot](http://9gag.com/gag/a9yY9GZ)
- - 👉 [I thought she was the daughter](http://9gag.com/gag/azxAn3K)<!-- MEMES:END -->
+ - 💣 [Hmmmmm mother daughter combo](http://9gag.com/gag/amozjAy)
+ - ⏩ [Keep your foreign ass out of my daughter.](http://9gag.com/gag/a5QZepN)
+ - 👉 [When you have to prove why you earn 6x of a WNBA player](http://9gag.com/gag/a6ZMmWm)<!-- MEMES:END -->
 
 ---
 
