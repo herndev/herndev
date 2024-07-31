@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Guys, is this depression? Am i okay?](http://9gag.com/gag/aqyr4KP)
- - ⏩ [Hmmmmm mother daughter combo](http://9gag.com/gag/amozjAy)
- - 👉 [Wow](http://9gag.com/gag/aW4MwG2)<!-- MEMES:END -->
+ - 💣 [Bro identifies as fat](http://9gag.com/gag/aPAW5AB)
+ - ⏩ [I will just wait here](http://9gag.com/gag/agmGWR6)
+ - 👉 [The Human Nervous System: A Visual Exploration](http://9gag.com/gag/ayNLEz8)<!-- MEMES:END -->
 
 ---
 
