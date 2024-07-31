@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle answer for Wednesday, July 31](https://www.pcgamer.com/games/puzzle/wordle-answer-today-july-31-2024)
  - [Wizards of the Coast broke glass on the alarm marked &#39;anthropomorphic animal Magic set&#39;, and it seems to have worked](https://www.pcgamer.com/games/card-games/wizards-of-the-coast-broke-glass-on-the-alarm-marked-anthropomorphic-animal-magic-set-and-it-seems-to-have-worked)
- - [Former GTA dev says &#39;it&#39;s time for a revolution&#39; where &#39;animation is more AI-driven and physics-driven&#39; than done by hand](https://www.pcgamer.com/games/action/former-gta-dev-says-its-time-for-a-revolution-where-animation-is-more-ai-driven-and-physics-driven-than-done-by-hand)
- - [Assassin&#39;s Creed subreddit promises bans for anyone who keeps complaining about &#39;historical accuracy&#39; and Yasuke: &#39;We are all exhausted of this tedious discussion&#39;](https://www.pcgamer.com/games/action/assassins-creed/subreddit-yasuke-samurai-mods-announcement)<!-- GAME:END -->
+ - [Former GTA dev says &#39;it&#39;s time for a revolution&#39; where &#39;animation is more AI-driven and physics-driven&#39; than done by hand](https://www.pcgamer.com/games/action/former-gta-dev-says-its-time-for-a-revolution-where-animation-is-more-ai-driven-and-physics-driven-than-done-by-hand)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
