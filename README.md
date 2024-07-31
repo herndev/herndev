@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Retro-Futuristic Saga Cilla Now Launches August 2](https://news.xbox.com/en-us/2024/07/31/retro-futuristic-saga-cilla-now-launches-august-2/)
- - [Here’s the official slate of upcoming Star Wars movies and TV](https://www.polygon.com/star-wars/23672528/star-wars-movies-tv-schedule-calendar-upcoming)
- - [Where to find the NES006 specimen in Destiny 2](https://www.polygon.com/destiny-2-guide-walkthrough/24209923/nes006-location-where-to-find)<!-- GAME:END -->
+ - [A disgraced Dr Disrespect teases his return to streaming](https://www.pcgamer.com/gaming-industry/a-disgraced-dr-disrespect-teases-his-return-to-streaming)
+ - [PC Gamer announces editorial staff changes and recent hirings](https://www.pcgamer.com/gaming-industry/pc-gamer-announces-editorial-staff-changes-and-recent-hirings)
+ - [Delightful deckbuilder Clank! now has a digital version](https://www.pcgamer.com/games/card-games/delightful-deckbuilder-clank-now-has-a-digital-version)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
