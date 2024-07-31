@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [By the time COCO is done, I NUT](http://9gag.com/gag/aQzxYpz)
- - ⏩ [Men&#39;s ranking is accurate](http://9gag.com/gag/aKG3bOZ)
+ - 💣 [Why does chinese government ban mosques?](http://9gag.com/gag/axygd02)
+ - ⏩ [By the time COCO is done, I NUT](http://9gag.com/gag/aQzxYpz)
  - 👉 [Main character vibes](http://9gag.com/gag/ayN8gwM)<!-- MEMES:END -->
 
 ---
