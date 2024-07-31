@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Wow](http://9gag.com/gag/aW4MwG2)
- - ⏩ [Hmmmmm mother daughter combo](http://9gag.com/gag/amozjAy)
- - 👉 [Men&#39;s ranking is accurate](http://9gag.com/gag/aKG3bOZ)<!-- MEMES:END -->
+ - 💣 [Dad instincts?](http://9gag.com/gag/aNDWxmA)
+ - ⏩ [What a bunch of silly mimes. Im sure there is nothing wrong with them at all\u2026](http://9gag.com/gag/a874PoO)
+ - 👉 [Nice one, guy](http://9gag.com/gag/aBy1pzx)<!-- MEMES:END -->
 
 ---
 
