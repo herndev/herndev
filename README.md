@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This post is still alive more than year](http://9gag.com/gag/a4PjD9m)
- - ⏩ [Bailey R.](http://9gag.com/gag/aE0n94p)
- - 👉 [Is this still a thing?](http://9gag.com/gag/aoypBZ3)<!-- MEMES:END -->
+ - 💣 [How many balloons are needed to fly?](http://9gag.com/gag/aYQL8Oq)
+ - ⏩ [Guys, is this depression? Am i okay?](http://9gag.com/gag/aqyr4KP)
+ - 👉 [Dad instincts?](http://9gag.com/gag/aNDWxmA)<!-- MEMES:END -->
 
 ---
 
