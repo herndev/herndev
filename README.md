@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [After users reported Meta&#39;s AI assistant incorrectly claimed the attempted assassination of Trump didn&#39;t happen, Meta blames hallucinations for the response &lpar;Alex Heath/The Verge&rpar;](http://www.techmeme.com/240730/p44#a240730p44)
- - [Best Squat Racks of 2024](https://www.cnet.com/health/fitness/best-squat-racks/#ftag=CAD590a51e)
- - [Netflix files to raise $1.8B in a new debt offering, its first since the company was elevated to investment-grade status by Moody&#39;s and S&amp;P Global &lpar;Alex Weprin/The Hollywood Reporter&rpar;](http://www.techmeme.com/240730/p43#a240730p43)<!-- TECH:END -->
+ - [This is what the iPhone 16’s color lineup could turn out to be](https://www.androidauthority.com/apple-iphone-16-colors-dummy-unit-leak-3466464/)
+ - [Samsung Galaxy Watch Ultra review: premium materials and build quality, powerful Exynos processor, but large and bulky with only one size, and expensive &lpar;Steve Smith/SlashGear&rpar;](http://www.techmeme.com/240730/p45#a240730p45)
+ - [Today&#39;s NYT Connections Hints, Answers and Help for July 31 #416](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-july-31-416/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
