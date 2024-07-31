@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Why does chinese government ban mosques?](http://9gag.com/gag/axygd02)
+ - 💣 [Did Turkey send a hitman to the Olympics? Many teams send fully-kitted out players for the Olympic shooting. Turkey just sent an guy with no specialized lenses, eye cover or ear protection and got the silver medal.](http://9gag.com/gag/a9yWM40)
  - ⏩ [By the time COCO is done, I NUT](http://9gag.com/gag/aQzxYpz)
- - 👉 [Main character vibes](http://9gag.com/gag/ayN8gwM)<!-- MEMES:END -->
+ - 👉 [WTF](http://9gag.com/gag/aMV9ppG)<!-- MEMES:END -->
 
 ---
 
