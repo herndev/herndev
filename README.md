@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How Towerborne’s Weapons Work Together to Create A Symphony Of Combat Chaos](https://news.xbox.com/en-us/2024/07/31/towerborne-weapons-work-together-combat-chaos/)
- - [New Xbox Controller Is For All You &#39;90 Kids Out There](https://kotaku.com/new-xbox-controller-transparent-blue-sky-cipher-price-1851609853)
- - [Thank you, Freeware: I was just saved from USB disconnect/reconnect hell by a simple logging tool](https://www.pcgamer.com/hardware/thank-you-freeware-i-was-just-saved-from-usb-disconnectreconnect-hell-by-a-simple-logging-tool)<!-- GAME:END -->
+ - [Werewolf: The Apocalypse – Purgatory Unleashes Dark Choices on Xbox](https://news.xbox.com/en-us/2024/07/31/werewolf-the-apocalypse-purgatory-unleashes-dark-choices-on-xbox/)
+ - [How to get Archeo Kingdom crafted gear in Final Fantasy 14: Dawntrail](https://www.pcgamer.com/games/final-fantasy/ffxiv-archeo-kingdom-crafted-gear)
+ - [In this investigation game you&#39;re the desk jockey with all the cool analysis software](https://www.pcgamer.com/games/adventure/in-this-investigation-game-youre-the-desk-jockey-with-all-the-cool-analysis-software)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
