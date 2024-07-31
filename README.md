@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Activision explains that weird spike in Call of Duty cheaters last week](https://www.pcgamer.com/games/activision-explains-that-weird-spike-in-call-of-duty-cheaters-last-week)
- - [Diablo 4 season 5&#39;s return to hell supercharges its most overlooked loot to game-breaking levels](https://www.pcgamer.com/games/rpg/diablo-4-season-5s-return-to-hell-supercharges-its-most-overlooked-loot-to-game-breaking-levels)
- - [How to write songs in The Sims 4 with your Sim&#39;s instrument of choice](https://www.pcgamer.com/games/the-sims/sims-4-write-song)<!-- GAME:END -->
+ - [Former GTA dev says &#39;it&#39;s time for a revolution&#39; where &#39;animation is more AI-driven and physics-driven&#39; than done by hand](https://www.pcgamer.com/games/action/former-gta-dev-says-its-time-for-a-revolution-where-animation-is-more-ai-driven-and-physics-driven-than-done-by-hand)
+ - [Assassin&#39;s Creed subreddit promises bans for anyone who keeps complaining about &#39;historical accuracy&#39; and Yasuke: &#39;We are all exhausted of this tedious discussion&#39;](https://www.pcgamer.com/games/action/assassins-creed/subreddit-yasuke-samurai-mods-announcement)
+ - [Activision explains that weird spike in Call of Duty cheaters last week](https://www.pcgamer.com/games/activision-explains-that-weird-spike-in-call-of-duty-cheaters-last-week)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
