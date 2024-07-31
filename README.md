@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Brazilian putting pickpocket to run in Paris](http://9gag.com/gag/a7odjOq)
- - ⏩ [Muslim invasion of Europe always reminds me how lucky we are that our illegals are Catholic.](http://9gag.com/gag/a9yWbLo)
- - 👉 [The Human Nervous System: A Visual Exploration](http://9gag.com/gag/ayNLEz8)<!-- MEMES:END -->
+ - 💣 [Things you don&#39;t learn in Middle School Biology #37](http://9gag.com/gag/aNDdrK4)
+ - ⏩ [Hot very hot](http://9gag.com/gag/a9yY9GZ)
+ - 👉 [I thought she was the daughter](http://9gag.com/gag/azxAn3K)<!-- MEMES:END -->
 
 ---
 
