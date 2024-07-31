@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Today&#39;s Wordle answer for Wednesday, July 31](https://www.pcgamer.com/games/puzzle/wordle-answer-today-july-31-2024)
- - [Wizards of the Coast broke glass on the alarm marked &#39;anthropomorphic animal Magic set&#39;, and it seems to have worked](https://www.pcgamer.com/games/card-games/wizards-of-the-coast-broke-glass-on-the-alarm-marked-anthropomorphic-animal-magic-set-and-it-seems-to-have-worked)
- - [Former GTA dev says &#39;it&#39;s time for a revolution&#39; where &#39;animation is more AI-driven and physics-driven&#39; than done by hand](https://www.pcgamer.com/games/action/former-gta-dev-says-its-time-for-a-revolution-where-animation-is-more-ai-driven-and-physics-driven-than-done-by-hand)<!-- GAME:END -->
+ - [&#39;I can’t thank streamers enough&#39;: Palworld developer&#39;s CEO weighs in on Japanese visual novel discourse in the wake of streaming controversy](https://www.pcgamer.com/games/survival-crafting/i-can-t-thank-streamers-enough-palworld-developer-s-ceo-weighs-in-on-japanese-visual-novel-discourse-in-the-wake-of-streaming-controversy)
+ - [After cutting 5% of its workforce in 2023 reports say Intel is planning to lay off thousands more workers](https://www.pcgamer.com/hardware/processors/after-cutting-5-of-its-workforce-in-2023-reports-say-intel-is-planning-to-lay-off-thousands-more-workers)
+ - [Today&#39;s Wordle answer for Wednesday, July 31](https://www.pcgamer.com/games/puzzle/wordle-answer-today-july-31-2024)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
