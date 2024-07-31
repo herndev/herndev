@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Netflix files to raise $1.8B in a new debt offering, its first since the company was elevated to investment-grade status by Moody&#39;s and S&amp;P Global &lpar;Alex Weprin/The Hollywood Reporter&rpar;](http://www.techmeme.com/240730/p43#a240730p43)
- - [Meta blames hallucinations after its AI said Trump rally shooting didn’t happen](https://www.theverge.com/2024/7/30/24210108/meta-trump-shooting-ai-hallucinations)
- - [Samsung reports Q2 revenue up 23.42% YoY to ~$53.45B, vs. ~$53.3B est., operating profit up 1,458% YoY to ~$7.5B, as AI memory chip demand remains strong &lpar;Sheila Chiang/CNBC&rpar;](http://www.techmeme.com/240730/p42#a240730p42)<!-- TECH:END -->
+ - [After users reported Meta&#39;s AI assistant incorrectly claimed the attempted assassination of Trump didn&#39;t happen, Meta blames hallucinations for the response &lpar;Alex Heath/The Verge&rpar;](http://www.techmeme.com/240730/p44#a240730p44)
+ - [Best Squat Racks of 2024](https://www.cnet.com/health/fitness/best-squat-racks/#ftag=CAD590a51e)
+ - [Netflix files to raise $1.8B in a new debt offering, its first since the company was elevated to investment-grade status by Moody&#39;s and S&amp;P Global &lpar;Alex Weprin/The Hollywood Reporter&rpar;](http://www.techmeme.com/240730/p43#a240730p43)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
