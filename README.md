@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Loom &amp; Leaf Mattress Review: A Firm and Fancy All-Foam Bed](https://www.cnet.com/health/sleep/loom-leaf-mattress-review/#ftag=CAD590a51e)
  - [Google Photos could let you see more people you actually care about](https://www.androidauthority.com/google-photos-show-more-faces-apk-teardown-3466036/)
- - [Best Electric Lawn Mower of 2024](https://www.cnet.com/news/best-electric-lawn-mower/#ftag=CAD590a51e)
- - [Sources: the US plans to unveil a new rule next month to stop chipmaking equipment exports from some countries to China, exempting allies like the Netherlands &lpar;Karen Freifeld/Reuters&rpar;](http://www.techmeme.com/240731/p2#a240731p2)<!-- TECH:END -->
+ - [Best Electric Lawn Mower of 2024](https://www.cnet.com/news/best-electric-lawn-mower/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
