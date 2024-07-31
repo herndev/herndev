@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [How many balloons are needed to fly?](http://9gag.com/gag/aYQL8Oq)
- - ⏩ [Guys, is this depression? Am i okay?](http://9gag.com/gag/aqyr4KP)
- - 👉 [Dad instincts?](http://9gag.com/gag/aNDWxmA)<!-- MEMES:END -->
+ - 💣 [Guys, is this depression? Am i okay?](http://9gag.com/gag/aqyr4KP)
+ - ⏩ [The Human Nervous System: A Visual Exploration](http://9gag.com/gag/ayNLEz8)
+ - 👉 [They teach you everything in life, except how to leave without them.](http://9gag.com/gag/axyDpxb)<!-- MEMES:END -->
 
 ---
 
