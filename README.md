@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [To Lead in AI, the US Needs a Silicon Revolution](https://www.wired.com/story/laurie-locascio-interview-ai-silicon-revolution/)
- - [Protect AI, which develops software to help enterprises secure AI models and applications, raised $60M led by Evolution Equity Partners at a $400M valuation &lpar;Katie Roof/Bloomberg&rpar;](http://www.techmeme.com/240801/p25#a240801p25)
- - [Judge dismisses Republicans’ claim that Gmail unfairly marked its fundraising emails as spam](https://www.theverge.com/2024/8/1/24211217/judge-dismisses-republican-national-committee-gmail-spam-case)<!-- TECH:END -->
+ - [The price is right? Pixel Watch 3’s premium pricing leaked ahead of launch](https://www.androidauthority.com/pixel-watch-3-price-leak-3467128/)
+ - [A US judge dismisses a 2022 RNC lawsuit accusing Google of misdirecting its emails to Gmail spam folders, saying the RNC had not made an adequate case &lpar;Mike Scarcella/Reuters&rpar;](http://www.techmeme.com/240801/p28#a240801p28)
+ - [Google Contacts “Besties” label hints at new relationship options &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-contacts-besties-3467034/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
