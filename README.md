@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Free Play Days – WWE 2K24, Sword Art Online: Fatal Bullet, and Way of the Hunter](https://news.xbox.com/en-us/2024/08/01/free-play-days-wwe-2k24-sword-art-online-fatal-bullet-and-way-of-the-hunter/)
- - [Deadpool &amp; Wolverine is a Toy Story movie](https://www.polygon.com/24209992/deadpool-wolverine-toy-story-movies-similarities)
- - [Pokémon Go Giovanni counters, team line-up in August 2024](https://www.polygon.com/pokemon-go-guide/23581491/giovanni-counters-team-go-rocket)<!-- GAME:END -->
+ - [FFXIV housing lottery schedule for August 2024](https://www.polygon.com/ffxiv-guides-ff14-final-fantasy-14-online/24115693/housing-lottery-schedule-entry-results-period)
+ - [Former Bungie devs show fury and sorrow over layoffs, following the revelation that CEO Pete Parsons allegedly spent at least $2,414,550 on vintage cars in the past 2 years](https://www.pcgamer.com/gaming-industry/bungie-developers-express-fury-and-sorrow-over-layoffs-following-the-revelation-that-ceo-pete-parsons-allegedly-spent-at-least-2-414-550-on-vintage-cars-in-the-past-2-years)
+ - [Zenless Zone Zero codes for August 2024](https://www.polygon.com/zenless-zone-zero-guides/24191640/zzz-codes-redeem-redemption-gift-polychrome)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
