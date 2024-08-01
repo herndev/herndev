@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Security guard welcomes invisible guest at 3am even brings the wheels](http://9gag.com/gag/aryO1Y5)
- - ⏩ [Did Turkey send a hitman to the Olympics? Many teams send fully-kitted out players for the Olympic shooting. Turkey just sent an guy with no specialized lenses, eye cover or ear protection and got the silver medal.](http://9gag.com/gag/a9yWM40)
- - 👉 [That would hurt so bad](http://9gag.com/gag/azxr7Nb)<!-- MEMES:END -->
+ - 💣 [Dear 9gag developers, pretty please](http://9gag.com/gag/a4PZdNp)
+ - ⏩ [Bro got both eyes open \ud83d\ude2d](http://9gag.com/gag/aZZBxx6)
+ - 👉 [Respect my enthusiasm](http://9gag.com/gag/ajPq0L8)<!-- MEMES:END -->
 
 ---
 
