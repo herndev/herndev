@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Bro got both eyes open \ud83d\ude2d](http://9gag.com/gag/aZZBxx6)
- - ⏩ [This happened in Philippines ... It is genuinely bizarre.](http://9gag.com/gag/aKG2w3b)
- - 👉 [That would hurt so bad](http://9gag.com/gag/azxr7Nb)<!-- MEMES:END -->
+ - 💣 [Just a minute](http://9gag.com/gag/ajPq6mQ)
+ - ⏩ [Funny but true.](http://9gag.com/gag/azxrEdZ)
+ - 👉 [Bro got both eyes open \ud83d\ude2d](http://9gag.com/gag/aZZBxx6)<!-- MEMES:END -->
 
 ---
 
