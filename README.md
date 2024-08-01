@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ema, which helps companies set up and deploy no-code AI agents it calls &quot;universal AI employees&quot;, raised $36M as part of a Series A led by Accel and Section 32 &lpar;Shubham Sharma/VentureBeat&rpar;](http://www.techmeme.com/240731/p41#a240731p41)
- - [Hype for a new Nest Learning Thermostat is heating up with this early unboxing video](https://www.androidauthority.com/nest-learning-thermostat-unboxing-3466811/)
- - [Google Pixel 9 rumors: Everything we know so far about the upcoming Pixels](https://www.androidauthority.com/google-pixel-9-3365966/)<!-- TECH:END -->
+ - [The US SEC sues former IRL CEO Abraham Shafi, accusing him of a $170M fraud by misleading investors about the company&#39;s growth and concealing personal expenses &lpar;Joe Miller/Financial Times&rpar;](http://www.techmeme.com/240731/p43#a240731p43)
+ - [Squid Game returns this December — and will end with another season next year](https://www.theverge.com/2024/7/31/24210859/netflix-squid-game-second-final-season-release-date)
+ - [Meta’s future is AI, AI, and more AI](https://www.theverge.com/2024/7/31/24210786/meta-earnings-q2-2024-ai-llama-zuckerberg)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
