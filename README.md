@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [North and South Korean athletes take a selfie together at the Olympics](http://9gag.com/gag/aqyrmNR)
- - ⏩ [She is trying to sue the internet...!!!](http://9gag.com/gag/a1mX43Y)
- - 👉 [Did Turkey send a hitman to the Olympics? Many teams send fully-kitted out players for the Olympic shooting. Turkey just sent an guy with no specialized lenses, eye cover or ear protection and got the silver medal.](http://9gag.com/gag/a9yWM40)<!-- MEMES:END -->
+ - 💣 [Why does chinese government ban mosques?](http://9gag.com/gag/axygd02)
+ - ⏩ [Keep your foreign ass out of my daughter.](http://9gag.com/gag/a5QZepN)
+ - 👉 [That would hurt so bad](http://9gag.com/gag/azxr7Nb)<!-- MEMES:END -->
 
 ---
 
