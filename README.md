@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Morpho, a decentralized lending developer, raised $50M led by Ribbit Capital, after raising an undisclosed sum earlier in 2024, and $18M in 2022 &lpar;MK Manoylov/The Block&rpar;](http://www.techmeme.com/240801/p36#a240801p36)
- - [Hot deal: Get the brand-new Motorola Razr 2024 for a mere $79 from Total Wireless!](https://www.androidauthority.com/motorola-razr-2024-total-wireless-deal-3467187/)
- - [YouTube is glitching out — what to do if you’re stuck with NaN:NaN on your timeline](https://www.androidauthority.com/youtube-nannan-3467171/)<!-- TECH:END -->
+ - [OnePlus Buds Pro 3 are oozing with more style than substance in latest leak](https://www.androidauthority.com/oneplus-buds-pro-3-specs-leak-3467197/)
+ - [iPad sales rebound as Apple nears big push into AI](https://www.theverge.com/2024/8/1/24211479/apple-q3-2024-earnings-ipad-services-mac-ai)
+ - [Apple&#39;s third quarter 2024 results show return to growth, with Wall Street beat](https://appleinsider.com/articles/24/08/01/apples-third-quarter-2024-results-show-return-to-growth-with-wall-street-beat?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
