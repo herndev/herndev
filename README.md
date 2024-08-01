@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Bro got both eyes open \ud83d\ude2d](http://9gag.com/gag/aZZBxx6)
- - ⏩ [Only old gamers understand](http://9gag.com/gag/a87pW5Y)
- - 👉 [That would hurt so bad](http://9gag.com/gag/azxr7Nb)<!-- MEMES:END -->
+ - 💣 [Only old gamers understand](http://9gag.com/gag/a87pW5Y)
+ - ⏩ [This happened in Philippines ... It is genuinely bizarre.](http://9gag.com/gag/aKG2w3b)
+ - 👉 [Security guard welcomes invisible guest at 3am even brings the wheels](http://9gag.com/gag/aryO1Y5)<!-- MEMES:END -->
 
 ---
 
