@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [OnePlus Buds Pro 3 are oozing with more style than substance in latest leak](https://www.androidauthority.com/oneplus-buds-pro-3-specs-leak-3467197/)
- - [iPad sales rebound as Apple nears big push into AI](https://www.theverge.com/2024/8/1/24211479/apple-q3-2024-earnings-ipad-services-mac-ai)
- - [Apple&#39;s third quarter 2024 results show return to growth, with Wall Street beat](https://appleinsider.com/articles/24/08/01/apples-third-quarter-2024-results-show-return-to-growth-with-wall-street-beat?utm_medium=rss)<!-- TECH:END -->
+ - [WhatsApp’s new feature makes chatting with AI easier for bad texters](https://www.androidauthority.com/whatsapp-meta-ai-voice-notes-3467252/)
+ - [YouTube finally makes a creator-friendly change to how it handles suspensions](https://www.androidauthority.com/youtube-suspensions-3467227/)
+ - [A US appeals court blocks the FCC&#39;s reinstatement of net neutrality rules, saying broadband providers are likely to succeed in a legal challenge &lpar;David Shepardson/Reuters&rpar;](http://www.techmeme.com/240801/p50#a240801p50)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
