@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [A moment of respect for this guy. No specialized lenses, eye cover or ear protection. But still won a silver medal in the Olympic shooting](http://9gag.com/gag/aBywQox)
- - ⏩ [Go woke and go broke Empowered](http://9gag.com/gag/ayNL7WW)
- - 👉 [That would hurt so bad](http://9gag.com/gag/azxr7Nb)<!-- MEMES:END -->
+ - 💣 [My fellow horny 9gaggers](http://9gag.com/gag/aKG2gL6)
+ - ⏩ [WTF](http://9gag.com/gag/aMV9ppG)
+ - 👉 [When you&#39;re browsing for memes and suddenly see a tetten post](http://9gag.com/gag/aMVweyR)<!-- MEMES:END -->
 
 ---
 
