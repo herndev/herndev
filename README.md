@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Did Turkey send a hitman to the Olympics? Many teams send fully-kitted out players for the Olympic shooting. Turkey just sent an guy with no specialized lenses, eye cover or ear protection and got the silver medal.](http://9gag.com/gag/a9yWM40)
- - ⏩ [Go Sports!!!](http://9gag.com/gag/avyr0nX)
- - 👉 [Well he got the silver medal though](http://9gag.com/gag/ae9Y37j)<!-- MEMES:END -->
+ - 💣 [Fo realz tho](http://9gag.com/gag/aVvDQ2y)
+ - ⏩ [Well he got the silver medal though](http://9gag.com/gag/ae9Y37j)
+ - 👉 [Did Turkey send a hitman to the Olympics? Many teams send fully-kitted out players for the Olympic shooting. Turkey just sent an guy with no specialized lenses, eye cover or ear protection and got the silver medal.](http://9gag.com/gag/a9yWM40)<!-- MEMES:END -->
 
 ---
 
