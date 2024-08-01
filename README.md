@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A watchdog for corporate climate commitments is cracking down on carbon credits](https://www.theverge.com/2024/8/1/24210744/climate-goals-corporate-watchdog-carbon-credit-offset)
- - [The US releases Russian cybercriminals Roman Seleznev and Vladislav Klyushin as part of a prisoner swap that freed 16 people from Russia &lpar;CyberScoop&rpar;](http://www.techmeme.com/240801/p30#a240801p30)
- - [Poll: Is your Galaxy Watch 7 lasting longer after Samsung’s new update?](https://www.androidauthority.com/galaxy-watch-7-update-3467134/)<!-- TECH:END -->
+ - [A UK court sides with Intel in a patent dispute brought by R2 Semiconductor; R2 has filled similar suits against Intel in Germany, France, and Italy &lpar;Tobias Mann/The Register&rpar;](http://www.techmeme.com/240801/p33#a240801p33)
+ - [Honda and Nissan invite Mitsubishi to join their EV development partnership](https://www.theverge.com/2024/8/1/24211319/honda-nissan-mitsubishi-ev-development-partnership)
+ - [OnePlus Open Apex Edition is a red hot foldable launching next week](https://www.androidauthority.com/oneplus-open-apex-edition-3467159/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
