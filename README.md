@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Discord on Xbox adds the ability to watch friends&#39; Discord streams whether they&#39;re sharing from a PC, mobile phone, or Xbox, rolling out over the coming weeks &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/240731/p46#a240731p46)
- - [Best Deals on Portable Jump-Starters Will Spark Big Savings and Give You Peace of Mind on the Road](https://www.cnet.com/roadshow/news/best-portable-jump-starter-deals/#ftag=CAD590a51e)
- - [Sources: Commerce Department officials inform Applied Materials that the company&#39;s planned $4B Silicon Valley R&amp;D facility doesn&#39;t qualify for CHIPS Act grants &lpar;Mackenzie Hawkins/Bloomberg&rpar;](http://www.techmeme.com/240731/p45#a240731p45)<!-- TECH:END -->
+ - [iPhone 16 Pro Max leak shows off an actually-black Pro Max iPhone &lpar;finally!&rpar;](https://www.androidauthority.com/apple-iphone-16-pro-max-colors-dummy-unit-leak-3466871/)
+ - [Delivery Hero plans to merge two of its European businesses, Foodora and Yemeksepeti, with its Asian business, Foodpanda, and cut fewer than 200 employees &lpar;Michael Hennessey/Bloomberg&rpar;](http://www.techmeme.com/240731/p47#a240731p47)
+ - [Today&#39;s NYT Connections Hints, Answers and Help for August 1, #417](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-august-1-417/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
