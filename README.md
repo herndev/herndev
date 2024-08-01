@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The price is right? Pixel Watch 3’s premium pricing leaked ahead of launch](https://www.androidauthority.com/pixel-watch-3-price-leak-3467128/)
- - [A US judge dismisses a 2022 RNC lawsuit accusing Google of misdirecting its emails to Gmail spam folders, saying the RNC had not made an adequate case &lpar;Mike Scarcella/Reuters&rpar;](http://www.techmeme.com/240801/p28#a240801p28)
- - [Google Contacts “Besties” label hints at new relationship options &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-contacts-besties-3467034/)<!-- TECH:END -->
+ - [A watchdog for corporate climate commitments is cracking down on carbon credits](https://www.theverge.com/2024/8/1/24210744/climate-goals-corporate-watchdog-carbon-credit-offset)
+ - [The US releases Russian cybercriminals Roman Seleznev and Vladislav Klyushin as part of a prisoner swap that freed 16 people from Russia &lpar;CyberScoop&rpar;](http://www.techmeme.com/240801/p30#a240801p30)
+ - [Poll: Is your Galaxy Watch 7 lasting longer after Samsung’s new update?](https://www.androidauthority.com/galaxy-watch-7-update-3467134/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
