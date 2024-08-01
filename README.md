@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Premier League, Bundesliga, DAZN, Sky, UEFA, CONMEBOL, and others write to X CEO Linda Yaccarino demanding more action against illegal soccer content on X &lpar;Tales Azzoni/Associated Press&rpar;](http://www.techmeme.com/240801/p12#a240801p12)
- - [8 Best Cheap Smartphones &lpar;2024&rpar;: iPhone, Android, 5G](https://www.wired.com/story/best-cheap-phones/)
- - [Apple Intelligence in iOS 18.1 beta hands-on: meaningful Siri language understanding improvements and Siri text input is nice, but few other notable features &lpar;Allison Johnson/The Verge&rpar;](http://www.techmeme.com/240801/p11#a240801p11)<!-- TECH:END -->
+ - [The EU&#39;s AI Act takes effect, triggering compliance deadlines for a range of AI developers and apps; most provisions will be fully applicable by mid-2026 &lpar;Natasha Lomas/TechCrunch&rpar;](http://www.techmeme.com/240801/p15#a240801p15)
+ - [OpenAI tells US lawmakers that it is &quot;dedicated&quot; to &quot;rigorous safety protocols at every stage of our process&quot; and is working with the US AI Safety Institute &lpar;Shirin Ghaffary/Bloomberg&rpar;](http://www.techmeme.com/240801/p14#a240801p14)
+ - [Democrats Have Finally Learned the Value of Shitposting](https://www.wired.com/story/democrats-have-finally-learned-the-value-of-shitposting/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
