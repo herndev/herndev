@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Dear 9gag developers, pretty please](http://9gag.com/gag/a4PZdNp)
- - ⏩ [Bro got both eyes open \ud83d\ude2d](http://9gag.com/gag/aZZBxx6)
- - 👉 [Respect my enthusiasm](http://9gag.com/gag/ajPq0L8)<!-- MEMES:END -->
+ - 💣 [Only old gamers understand](http://9gag.com/gag/a87pW5Y)
+ - ⏩ [Yay or nay](http://9gag.com/gag/aGy09gK)
+ - 👉 [Security guard welcomes invisible guest at 3am even brings the wheels](http://9gag.com/gag/aryO1Y5)<!-- MEMES:END -->
 
 ---
 
