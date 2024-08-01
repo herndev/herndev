@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Some UK business leaders and academics worry the UK rejecting a record number of Chinese students due to fears of espionage puts the UK&#39;s tech ambitions at risk &lpar;Yazhou Sun/Bloomberg&rpar;](http://www.techmeme.com/240801/p6#a240801p6)
  - [Samsung promises Galaxy S25 will get ‘top-of-the-line’ camera, display upgrades](https://www.androidauthority.com/samsung-galaxy-s25-top-of-the-line-camera-display-upgrades-3466897/)
- - [A look at Baidu&#39;s experiment with driverless taxis in Wuhan, which became China&#39;s biggest proving ground for Baidu&#39;s taxis due to a relaxed regulatory approach &lpar;Bloomberg&rpar;](http://www.techmeme.com/240801/p5#a240801p5)
- - [Leak: The Pixel 9 Pro Fold could be thinner &lpar;but heavier&rpar; than the Z Fold 6](https://www.androidauthority.com/leak-google-pixel-9-pro-fold-thinner-heavier-z-fold-6-3466889/)<!-- TECH:END -->
+ - [A look at Baidu&#39;s experiment with driverless taxis in Wuhan, which became China&#39;s biggest proving ground for Baidu&#39;s taxis due to a relaxed regulatory approach &lpar;Bloomberg&rpar;](http://www.techmeme.com/240801/p5#a240801p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
