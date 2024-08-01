@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Please Don&#39;t Spend $300+ On A PS4 Copy Of The Deadpool Game](https://kotaku.com/deadpool-ps4-ebay-new-copies-prices-sealed-wolverine-1851611284)
- - [Promise Mascot Agency is a game where you can entice a big, sobbing tofu guy with employee benefits, and I think that&#39;s beautiful](https://www.pcgamer.com/games/adventure/promise-mascot-agency-is-a-game-where-you-can-entice-a-big-sobbing-tofu-guy-with-employee-benefits-and-i-think-thats-beautiful)
- - [Hearthstone content creator tells Blizzard to give away a Golden Legendary in order win back fans. Blizzard replies: &#39;OK&#39;](https://www.pcgamer.com/games/card-games/hearthstone-content-creator-tells-blizzard-to-give-away-a-golden-legendary-in-order-win-back-fans-blizzard-replies-ok)<!-- GAME:END -->
+ - [Arrowhead posts shocking found footage of elusive Helldivers 2 game master Joel](https://www.pcgamer.com/games/arrowhead-posts-shocking-found-footage-of-elusive-helldivers-2-game-master-joel)
+ - [Obsidian&#39;s first person RPG Avowed is reportedly getting delayed into next year despite being &#39;in good shape&#39; for its original November release](https://www.pcgamer.com/games/rpg/obsidians-first-person-rpg-avowed-is-reportedly-getting-delayed-into-next-year-despite-being-in-good-shape-for-its-original-november-release)
+ - [Here&#39;s How Diablo IV&#39;s 8 Uber Unique Items Are Changing Next Season](https://kotaku.com/diablo-4-uber-unique-harlequin-doombringer-season-5-1851611416)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
