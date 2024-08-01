@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Some UK business leaders and academics worry the UK rejecting a record number of Chinese students due to fears of espionage puts the UK&#39;s tech ambitions at risk &lpar;Yazhou Sun/Bloomberg&rpar;](http://www.techmeme.com/240801/p6#a240801p6)
- - [Samsung promises Galaxy S25 will get ‘top-of-the-line’ camera, display upgrades](https://www.androidauthority.com/samsung-galaxy-s25-top-of-the-line-camera-display-upgrades-3466897/)
- - [A look at Baidu&#39;s experiment with driverless taxis in Wuhan, which became China&#39;s biggest proving ground for Baidu&#39;s taxis due to a relaxed regulatory approach &lpar;Bloomberg&rpar;](http://www.techmeme.com/240801/p5#a240801p5)<!-- TECH:END -->
+ - [Analysis: Indian startup VC funding has dwindled, depriving India of capital needed to grow its economy, as the valuation of top companies like Byju&#39;s implodes &lpar;Sankalp Phartiyal/Bloomberg&rpar;](http://www.techmeme.com/240801/p8#a240801p8)
+ - [Telegram rolls out a Mini App Store to help users find new apps, updates the in-app browser to support multiple tabs, and says its mini apps have 500M MAUs &lpar;Andrew Romero/9to5Google&rpar;](http://www.techmeme.com/240801/p7#a240801p7)
+ - [The best new Android apps and games for August 2024](https://www.androidauthority.com/new-android-apps-658839/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
