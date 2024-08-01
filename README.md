@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The EU&#39;s AI Act takes effect, triggering compliance deadlines for a range of AI developers and apps; most provisions will be fully applicable by mid-2026 &lpar;Natasha Lomas/TechCrunch&rpar;](http://www.techmeme.com/240801/p15#a240801p15)
- - [OpenAI tells US lawmakers that it is &quot;dedicated&quot; to &quot;rigorous safety protocols at every stage of our process&quot; and is working with the US AI Safety Institute &lpar;Shirin Ghaffary/Bloomberg&rpar;](http://www.techmeme.com/240801/p14#a240801p14)
- - [Democrats Have Finally Learned the Value of Shitposting](https://www.wired.com/story/democrats-have-finally-learned-the-value-of-shitposting/)<!-- TECH:END -->
+ - [Live sports streamer Venu Sports will cost $42.99 per month](https://www.theverge.com/2024/8/1/24211138/venu-sports-disney-fox-warner-bros-discovery-pricing)
+ - [WBD, Disney, and Fox plan to launch their joint sports streaming venture Venu for $42.99 per month initially, with a seven-day free trial, expected fall 2024 &lpar;Brian Steinberg/Variety&rpar;](http://www.techmeme.com/240801/p18#a240801p18)
+ - [Apple Intelligence vs Google Gemini: Which AI platform makes your phone more useful?](https://www.androidauthority.com/apple-intelligence-vs-google-gemini-3466470/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
