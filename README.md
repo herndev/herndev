@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [My fellow horny 9gaggers](http://9gag.com/gag/aKG2gL6)
- - ⏩ [WTF](http://9gag.com/gag/aMV9ppG)
- - 👉 [When you&#39;re browsing for memes and suddenly see a tetten post](http://9gag.com/gag/aMVweyR)<!-- MEMES:END -->
+ - 💣 [North and South Korean athletes take a selfie together at the Olympics](http://9gag.com/gag/aqyrmNR)
+ - ⏩ [My fellow horny 9gaggers](http://9gag.com/gag/aKG2gL6)
+ - 👉 [It\u2019s funny cuz it\u2019s true](http://9gag.com/gag/aAywBmZ)<!-- MEMES:END -->
 
 ---
 
