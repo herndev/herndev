@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Olympic gymnast Casimir Schmidt has a Mew tattoo — but that’s not his favorite Pokémon](https://www.polygon.com/24211259/olympic-gymnastic-casimir-schmidt-gaming-pokemon-nintendo-tattoo)
- - [Amazon Giving Away 20 Free Games This Month, Including Deus Ex And Tomb Raider](https://kotaku.com/amazon-prime-free-games-20-august-2024-deus-ex-pc-steam-1851611047)
- - [Alien: The Role-Playing Game Second Edition hits Kickstarter](https://www.polygon.com/24211249/alien-ttrpg-second-edition-kickstarter-campaign)<!-- GAME:END -->
+ - [Please Don&#39;t Spend $300+ On A PS4 Copy Of The Deadpool Game](https://kotaku.com/deadpool-ps4-ebay-new-copies-prices-sealed-wolverine-1851611284)
+ - [Promise Mascot Agency is a game where you can entice a big, sobbing tofu guy with employee benefits, and I think that&#39;s beautiful](https://www.pcgamer.com/games/adventure/promise-mascot-agency-is-a-game-where-you-can-entice-a-big-sobbing-tofu-guy-with-employee-benefits-and-i-think-thats-beautiful)
+ - [Hearthstone content creator tells Blizzard to give away a Golden Legendary in order win back fans. Blizzard replies: &#39;OK&#39;](https://www.pcgamer.com/games/card-games/hearthstone-content-creator-tells-blizzard-to-give-away-a-golden-legendary-in-order-win-back-fans-blizzard-replies-ok)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
