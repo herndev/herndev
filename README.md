@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [A law firm is investigating whether to launch a class action case against Intel for 13th/14th Gen CPU instability issues](https://www.pcgamer.com/hardware/processors/a-law-firm-is-investigating-whether-to-launch-a-class-action-case-against-intel-for-13th14th-gen-cpu-instability-issues)
  - [Today&#39;s Wordle answer for Thursday, August 1](https://www.pcgamer.com/games/puzzle/wordle-answer-today-august-1-2024)
- - [Squid Game season 2 has a release date — and a season 3 renewal](https://www.polygon.com/24058115/squid-game-season-2-release-date-cast-news)
- - [Star Wars Outlaws director was inspired by a samurai action game more than Red Dead or Assassin&#39;s Creed: &#39;My biggest reference was Ghost of Tsushima&#39;](https://www.pcgamer.com/games/action/star-wars-outlaws-director-was-inspired-by-a-samurai-action-game-more-than-red-dead-or-assassins-creed-my-biggest-reference-was-ghost-of-tsushima)<!-- GAME:END -->
+ - [Squid Game season 2 has a release date — and a season 3 renewal](https://www.polygon.com/24058115/squid-game-season-2-release-date-cast-news)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
