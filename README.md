@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Best Part Of Deadpool &amp; Wolverine Is The Credits](https://kotaku.com/deadpool-and-wolverine-credits-fox-marvel-goodbye-1851611168)
- - [I played Elden Ring wrong for two years](https://www.polygon.com/24211369/playing-elden-ring-wrong)
- - [Mars 2120: How a Veteran Indie Team Turned their 90s Dream into Martian Reality](https://news.xbox.com/en-us/2024/08/01/mars-2120-dream-into-martian-reality/)<!-- GAME:END -->
+ - [Olympic gymnast Casimir Schmidt has a Mew tattoo — but that’s not his favorite Pokémon](https://www.polygon.com/24211259/olympic-gymnastic-casimir-schmidt-gaming-pokemon-nintendo-tattoo)
+ - [Amazon Giving Away 20 Free Games This Month, Including Deus Ex And Tomb Raider](https://kotaku.com/amazon-prime-free-games-20-august-2024-deus-ex-pc-steam-1851611047)
+ - [Alien: The Role-Playing Game Second Edition hits Kickstarter](https://www.polygon.com/24211249/alien-ttrpg-second-edition-kickstarter-campaign)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
