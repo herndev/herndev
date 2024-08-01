@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Leak: The Pixel 9 Pro Fold could be thinner &lpar;but heavier&rpar; than the Z Fold 6](https://www.androidauthority.com/leak-google-pixel-9-pro-fold-thinner-heavier-z-fold-6-3466889/)
- - [In a memo to staff, Samsung&#39;s chip business head Jun Young-hyun warns Samsung risks getting into a &quot;vicious cycle&quot; if it doesn&#39;t revamp its workplace culture &lpar;Yoolim Lee/Bloomberg&rpar;](http://www.techmeme.com/240801/p4#a240801p4)
- - [OpenSecrets: the number of groups lobbying the US government on AI grew from 459 in 2023 to 556 in H1 2024; OpenAI spent $800K in H1 2024, vs. $260K in 2023 &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240801/p3#a240801p3)<!-- TECH:END -->
+ - [Samsung promises Galaxy S25 will get ‘top-of-the-line’ camera, display upgrades](https://www.androidauthority.com/samsung-galaxy-s25-top-of-the-line-camera-display-upgrades-3466897/)
+ - [A look at Baidu&#39;s experiment with driverless taxis in Wuhan, which became China&#39;s biggest proving ground for Baidu&#39;s taxis due to a relaxed regulatory approach &lpar;Bloomberg&rpar;](http://www.techmeme.com/240801/p5#a240801p5)
+ - [Leak: The Pixel 9 Pro Fold could be thinner &lpar;but heavier&rpar; than the Z Fold 6](https://www.androidauthority.com/leak-google-pixel-9-pro-fold-thinner-heavier-z-fold-6-3466889/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
