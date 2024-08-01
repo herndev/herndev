@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [My fellow horny 9gaggers](http://9gag.com/gag/aKG2gL6)
- - ⏩ [That would hurt so bad](http://9gag.com/gag/azxr7Nb)
- - 👉 [A moment of respect for this guy. No specialized lenses, eye cover or ear protection. But still won a silver medal in the Olympic shooting](http://9gag.com/gag/aBywQox)<!-- MEMES:END -->
+ - 💣 [Why does chinese government ban mosques?](http://9gag.com/gag/axygd02)
+ - ⏩ [Men&#39;s ranking is accurate](http://9gag.com/gag/aKG3bOZ)
+ - 👉 [Leftists will be offended :&rpar; I present to you the fnalists of Miss Polonia](http://9gag.com/gag/aNDdZEv)<!-- MEMES:END -->
 
 ---
 
