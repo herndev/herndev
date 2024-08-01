@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [WhatsApp’s new feature makes chatting with AI easier for bad texters](https://www.androidauthority.com/whatsapp-meta-ai-voice-notes-3467252/)
- - [YouTube finally makes a creator-friendly change to how it handles suspensions](https://www.androidauthority.com/youtube-suspensions-3467227/)
- - [A US appeals court blocks the FCC&#39;s reinstatement of net neutrality rules, saying broadband providers are likely to succeed in a legal challenge &lpar;David Shepardson/Reuters&rpar;](http://www.techmeme.com/240801/p50#a240801p50)<!-- TECH:END -->
+ - [Apple&#39;s Q3 revenue in Greater China was down 6.5% YoY to $14.7B , up 5.7% YoY to $5.1B in Japan, and up 13.5% YoY to $6.4B in the rest of Asia-Pacific &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/240801/p52#a240801p52)
+ - [Net neutrality is on ice](https://www.theverge.com/2024/8/1/24211570/net-neutrality-sixth-circuit-stay-blocked-fcc)
+ - [NZXT will rent full gaming PCs, but the costs add up fast](https://www.theverge.com/2024/8/1/24211490/nzxt-flex-desktop-gaming-pc-rental-service-subscription-nvidia-gpu-games)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
