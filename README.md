@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [#IStandWithAngelaCarini](http://9gag.com/gag/aYQKwvN)
- - ⏩ [Is this what they call as a win-win situation?](http://9gag.com/gag/aNDdZG6)
- - 👉 [The jiggles](http://9gag.com/gag/a347dOr)<!-- MEMES:END -->
+ - 💣 [Bro got both eyes open \ud83d\ude2d](http://9gag.com/gag/aZZBxx6)
+ - ⏩ [The jiggles](http://9gag.com/gag/a347dOr)
+ - 👉 [Just when you thought 2024 couldn&#39;t get any crazier](http://9gag.com/gag/aNDdZA6)<!-- MEMES:END -->
 
 ---
 
