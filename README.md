@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Squid Game season 2 has a release date — and a season 3 renewal](https://www.polygon.com/24058115/squid-game-season-2-release-date-cast-news)
  - [Star Wars Outlaws director was inspired by a samurai action game more than Red Dead or Assassin&#39;s Creed: &#39;My biggest reference was Ghost of Tsushima&#39;](https://www.pcgamer.com/games/action/star-wars-outlaws-director-was-inspired-by-a-samurai-action-game-more-than-red-dead-or-assassins-creed-my-biggest-reference-was-ghost-of-tsushima)
- - [Here&#39;s a 15 minute gameplay deep dive on water parks in Planet Coaster 2](https://www.pcgamer.com/games/sim/heres-a-15-minute-gameplay-deep-dive-on-water-parks-in-planet-coaster-2)
- - [Devs Say Working With Apple Arcade Is Frustrating, &#39;Like An Abusive Relationship&#39;](https://kotaku.com/apple-arcade-abusive-horrible-mobilegamer-report-devs-1851610313)<!-- GAME:END -->
+ - [Here&#39;s a 15 minute gameplay deep dive on water parks in Planet Coaster 2](https://www.pcgamer.com/games/sim/heres-a-15-minute-gameplay-deep-dive-on-water-parks-in-planet-coaster-2)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
