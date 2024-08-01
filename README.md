@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Document: FirstCry, India&#39;s leading e-commerce platform for baby products, is seeking to raise up to $501M in an IPO, valuing the company as much as $2.9B &lpar;Reuters&rpar;](http://www.techmeme.com/240801/p1#a240801p1)
  - [iPhone 16 Pro Max leak shows off an actually-black Pro Max iPhone &lpar;finally!&rpar;](https://www.androidauthority.com/apple-iphone-16-pro-max-colors-dummy-unit-leak-3466871/)
- - [Delivery Hero plans to merge two of its European businesses, Foodora and Yemeksepeti, with its Asian business, Foodpanda, and cut fewer than 200 employees &lpar;Michael Hennessey/Bloomberg&rpar;](http://www.techmeme.com/240731/p47#a240731p47)
- - [Today&#39;s NYT Connections Hints, Answers and Help for August 1, #417](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-august-1-417/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Today&#39;s NYT Mini Crossword Answers for August 1](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-august-1/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
