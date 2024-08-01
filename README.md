@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Only old gamers understand](http://9gag.com/gag/a87pW5Y)
- - ⏩ [This happened in Philippines ... It is genuinely bizarre.](http://9gag.com/gag/aKG2w3b)
- - 👉 [Security guard welcomes invisible guest at 3am even brings the wheels](http://9gag.com/gag/aryO1Y5)<!-- MEMES:END -->
+ - 💣 [#IStandWithAngelaCarini](http://9gag.com/gag/aYQKwvN)
+ - ⏩ [Is this what they call as a win-win situation?](http://9gag.com/gag/aNDdZG6)
+ - 👉 [The jiggles](http://9gag.com/gag/a347dOr)<!-- MEMES:END -->
 
 ---
 
