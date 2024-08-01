@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Just a minute](http://9gag.com/gag/ajPq6mQ)
- - ⏩ [Funny but true.](http://9gag.com/gag/azxrEdZ)
- - 👉 [Bro got both eyes open \ud83d\ude2d](http://9gag.com/gag/aZZBxx6)<!-- MEMES:END -->
+ - 💣 [My fellow horny 9gaggers](http://9gag.com/gag/aKG2gL6)
+ - ⏩ [That would hurt so bad](http://9gag.com/gag/azxr7Nb)
+ - 👉 [A moment of respect for this guy. No specialized lenses, eye cover or ear protection. But still won a silver medal in the Olympic shooting](http://9gag.com/gag/aBywQox)<!-- MEMES:END -->
 
 ---
 
