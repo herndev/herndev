@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Mars 2120: How a Veteran Indie Team Turned their 90s Dream into Martian Reality](https://news.xbox.com/en-us/2024/08/01/mars-2120-dream-into-martian-reality/)
- - [Fortnite: How To Complete The Fifth Set Of Pirate Code Quests](https://kotaku.com/fortnite-pirates-of-the-carribean-cursed-sails-1851611054)
- - [Jamie Lee Curtis Shouldn&#39;t Have To Apologize For Calling The MCU &#39;Bad&#39;](https://kotaku.com/jamie-lee-curtis-mcu-bad-controversy-1851611049)<!-- GAME:END -->
+ - [The Best Part Of Deadpool &amp; Wolverine Is The Credits](https://kotaku.com/deadpool-and-wolverine-credits-fox-marvel-goodbye-1851611168)
+ - [I played Elden Ring wrong for two years](https://www.polygon.com/24211369/playing-elden-ring-wrong)
+ - [Mars 2120: How a Veteran Indie Team Turned their 90s Dream into Martian Reality](https://news.xbox.com/en-us/2024/08/01/mars-2120-dream-into-martian-reality/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
