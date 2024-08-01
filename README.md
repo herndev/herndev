@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Security guard welcomes invisible guest at 3am even brings the wheels](http://9gag.com/gag/aryO1Y5)
- - ⏩ [The Olympics is a bad joke](http://9gag.com/gag/aVvDXZM)
- - 👉 [The jiggles](http://9gag.com/gag/a347dOr)<!-- MEMES:END -->
+ - 💣 [Just when you thought 2024 couldn&#39;t get any crazier](http://9gag.com/gag/aNDdZA6)
+ - ⏩ [Yay or nay](http://9gag.com/gag/aGy09gK)
+ - 👉 [Final Boss\u2026](http://9gag.com/gag/a5QZ7KN)<!-- MEMES:END -->
 
 ---
 
