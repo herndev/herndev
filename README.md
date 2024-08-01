@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A UK court sides with Intel in a patent dispute brought by R2 Semiconductor; R2 has filled similar suits against Intel in Germany, France, and Italy &lpar;Tobias Mann/The Register&rpar;](http://www.techmeme.com/240801/p33#a240801p33)
- - [Honda and Nissan invite Mitsubishi to join their EV development partnership](https://www.theverge.com/2024/8/1/24211319/honda-nissan-mitsubishi-ev-development-partnership)
- - [OnePlus Open Apex Edition is a red hot foldable launching next week](https://www.androidauthority.com/oneplus-open-apex-edition-3467159/)<!-- TECH:END -->
+ - [Morpho, a decentralized lending developer, raised $50M led by Ribbit Capital, after raising an undisclosed sum earlier in 2024, and $18M in 2022 &lpar;MK Manoylov/The Block&rpar;](http://www.techmeme.com/240801/p36#a240801p36)
+ - [Hot deal: Get the brand-new Motorola Razr 2024 for a mere $79 from Total Wireless!](https://www.androidauthority.com/motorola-razr-2024-total-wireless-deal-3467187/)
+ - [YouTube is glitching out — what to do if you’re stuck with NaN:NaN on your timeline](https://www.androidauthority.com/youtube-nannan-3467171/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
