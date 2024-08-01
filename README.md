@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Bro got both eyes open \ud83d\ude2d](http://9gag.com/gag/aZZBxx6)
- - ⏩ [The jiggles](http://9gag.com/gag/a347dOr)
- - 👉 [Just when you thought 2024 couldn&#39;t get any crazier](http://9gag.com/gag/aNDdZA6)<!-- MEMES:END -->
+ - 💣 [Olympics](http://9gag.com/gag/a7oZyj2)
+ - ⏩ [The Italian female boxer &lpar;Angela Carini&rpar; give up after only 45 sec of match after she realizing that she was indeed fighting against a man &lpar;Imane Khelif&rpar;.](http://9gag.com/gag/a5QZKMy)
+ - 👉 [Leftists will be offended :&rpar; I present to you the fnalists of Miss Polonia](http://9gag.com/gag/aNDdZEv)<!-- MEMES:END -->
 
 ---
 
