@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [But wait there&#39;s more...](http://9gag.com/gag/amor9X9)
- - ⏩ [Just when you thought 2024 couldn&#39;t get any crazier](http://9gag.com/gag/aNDdZA6)
- - 👉 [The Olympics is a bad joke](http://9gag.com/gag/aVvDXZM)<!-- MEMES:END -->
+ - 💣 [Yay or nay](http://9gag.com/gag/aGy09gK)
+ - ⏩ [The Olympics is a bad joke](http://9gag.com/gag/aVvDXZM)
+ - 👉 [The way she grabbed his hand without hesitation.](http://9gag.com/gag/aGy0xY7)<!-- MEMES:END -->
 
 ---
 
