@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [He Was an FBI Informant—and Inspired a Generation of Violent Extremists](https://www.wired.com/story/the-dangerous-exploits-of-an-extremist-fbi-informant/)
- - [The CISA names Lisa Einstein as its first chief AI officer; Einstein has been a senior adviser at the agency since last year and helped craft CISA&#39;s AI roadmap &lpar;Sam Sabin/Axios&rpar;](http://www.techmeme.com/240801/p21#a240801p21)
- - [Doctor Doom’s comics legacy is so much bigger than his Iron Man connections](https://www.theverge.com/2024/8/1/24207907/doctor-doom-infamous-iron-man-mcu-rdj)<!-- TECH:END -->
+ - [To Lead in AI, the US Needs a Silicon Revolution](https://www.wired.com/story/laurie-locascio-interview-ai-silicon-revolution/)
+ - [Protect AI, which develops software to help enterprises secure AI models and applications, raised $60M led by Evolution Equity Partners at a $400M valuation &lpar;Katie Roof/Bloomberg&rpar;](http://www.techmeme.com/240801/p25#a240801p25)
+ - [Judge dismisses Republicans’ claim that Gmail unfairly marked its fundraising emails as spam](https://www.theverge.com/2024/8/1/24211217/judge-dismisses-republican-national-committee-gmail-spam-case)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
