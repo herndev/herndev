@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [While owning less than 1% of TSMC, the number of retail shareholders hit a new high in 2024, as locals believe TSMC&#39;s success helps Taiwan fend off China &lpar;Bloomberg&rpar;](http://www.techmeme.com/240801/p2#a240801p2)
  - [Document: FirstCry, India&#39;s leading e-commerce platform for baby products, is seeking to raise up to $501M in an IPO, valuing the company as much as $2.9B &lpar;Reuters&rpar;](http://www.techmeme.com/240801/p1#a240801p1)
- - [iPhone 16 Pro Max leak shows off an actually-black Pro Max iPhone &lpar;finally!&rpar;](https://www.androidauthority.com/apple-iphone-16-pro-max-colors-dummy-unit-leak-3466871/)
- - [Today&#39;s NYT Mini Crossword Answers for August 1](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-august-1/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [iPhone 16 Pro Max leak shows off an actually-black Pro Max iPhone &lpar;finally!&rpar;](https://www.androidauthority.com/apple-iphone-16-pro-max-colors-dummy-unit-leak-3466871/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
