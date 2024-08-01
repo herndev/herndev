@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle answer for Thursday, August 1](https://www.pcgamer.com/games/puzzle/wordle-answer-today-august-1-2024)
  - [Squid Game season 2 has a release date — and a season 3 renewal](https://www.polygon.com/24058115/squid-game-season-2-release-date-cast-news)
- - [Star Wars Outlaws director was inspired by a samurai action game more than Red Dead or Assassin&#39;s Creed: &#39;My biggest reference was Ghost of Tsushima&#39;](https://www.pcgamer.com/games/action/star-wars-outlaws-director-was-inspired-by-a-samurai-action-game-more-than-red-dead-or-assassins-creed-my-biggest-reference-was-ghost-of-tsushima)
- - [Here&#39;s a 15 minute gameplay deep dive on water parks in Planet Coaster 2](https://www.pcgamer.com/games/sim/heres-a-15-minute-gameplay-deep-dive-on-water-parks-in-planet-coaster-2)<!-- GAME:END -->
+ - [Star Wars Outlaws director was inspired by a samurai action game more than Red Dead or Assassin&#39;s Creed: &#39;My biggest reference was Ghost of Tsushima&#39;](https://www.pcgamer.com/games/action/star-wars-outlaws-director-was-inspired-by-a-samurai-action-game-more-than-red-dead-or-assassins-creed-my-biggest-reference-was-ghost-of-tsushima)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
