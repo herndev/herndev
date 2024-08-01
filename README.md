@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [AirportSim Has Landed on Xbox: The Journey So Far](https://news.xbox.com/en-us/2024/08/01/airportsim-has-landed-on-xbox/)
- - [Pokémon Go ‘Shared Skies Part 3’ Timed Research tasks and rewards](https://www.polygon.com/pokemon-go-guide/24211330/shared-skies-part-3-timed-research-tasks-rewards)
- - [Do you also have strong &#39;90s memories of Tomba from a PS1 demo disc? You can relive the magic in its unlikely remaster now](https://www.pcgamer.com/games/adventure/do-you-also-have-strong-90s-memories-of-tomba-from-a-ps1-demo-disc-you-can-relive-the-magic-in-its-unlikely-remaster-now)<!-- GAME:END -->
+ - [Mars 2120: How a Veteran Indie Team Turned their 90s Dream into Martian Reality](https://news.xbox.com/en-us/2024/08/01/mars-2120-dream-into-martian-reality/)
+ - [Fortnite: How To Complete The Fifth Set Of Pirate Code Quests](https://kotaku.com/fortnite-pirates-of-the-carribean-cursed-sails-1851611054)
+ - [Jamie Lee Curtis Shouldn&#39;t Have To Apologize For Calling The MCU &#39;Bad&#39;](https://kotaku.com/jamie-lee-curtis-mcu-bad-controversy-1851611049)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
