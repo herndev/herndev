@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [FFXIV housing lottery schedule for August 2024](https://www.polygon.com/ffxiv-guides-ff14-final-fantasy-14-online/24115693/housing-lottery-schedule-entry-results-period)
- - [Former Bungie devs show fury and sorrow over layoffs, following the revelation that CEO Pete Parsons allegedly spent at least $2,414,550 on vintage cars in the past 2 years](https://www.pcgamer.com/gaming-industry/bungie-developers-express-fury-and-sorrow-over-layoffs-following-the-revelation-that-ceo-pete-parsons-allegedly-spent-at-least-2-414-550-on-vintage-cars-in-the-past-2-years)
- - [Zenless Zone Zero codes for August 2024](https://www.polygon.com/zenless-zone-zero-guides/24191640/zzz-codes-redeem-redemption-gift-polychrome)<!-- GAME:END -->
+ - [AirportSim Has Landed on Xbox: The Journey So Far](https://news.xbox.com/en-us/2024/08/01/airportsim-has-landed-on-xbox/)
+ - [Pokémon Go ‘Shared Skies Part 3’ Timed Research tasks and rewards](https://www.polygon.com/pokemon-go-guide/24211330/shared-skies-part-3-timed-research-tasks-rewards)
+ - [Do you also have strong &#39;90s memories of Tomba from a PS1 demo disc? You can relive the magic in its unlikely remaster now](https://www.pcgamer.com/games/adventure/do-you-also-have-strong-90s-memories-of-tomba-from-a-ps1-demo-disc-you-can-relive-the-magic-in-its-unlikely-remaster-now)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
