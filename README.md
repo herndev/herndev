@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Why does chinese government ban mosques?](http://9gag.com/gag/axygd02)
- - ⏩ [Keep your foreign ass out of my daughter.](http://9gag.com/gag/a5QZepN)
+ - 💣 [A moment of respect for this guy. No specialized lenses, eye cover or ear protection. But still won a silver medal in the Olympic shooting](http://9gag.com/gag/aBywQox)
+ - ⏩ [Go woke and go broke Empowered](http://9gag.com/gag/ayNL7WW)
  - 👉 [That would hurt so bad](http://9gag.com/gag/azxr7Nb)<!-- MEMES:END -->
 
 ---
