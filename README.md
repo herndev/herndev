@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Live sports streamer Venu Sports will cost $42.99 per month](https://www.theverge.com/2024/8/1/24211138/venu-sports-disney-fox-warner-bros-discovery-pricing)
- - [WBD, Disney, and Fox plan to launch their joint sports streaming venture Venu for $42.99 per month initially, with a seven-day free trial, expected fall 2024 &lpar;Brian Steinberg/Variety&rpar;](http://www.techmeme.com/240801/p18#a240801p18)
- - [Apple Intelligence vs Google Gemini: Which AI platform makes your phone more useful?](https://www.androidauthority.com/apple-intelligence-vs-google-gemini-3466470/)<!-- TECH:END -->
+ - [AI has a climate problem — but so does all of tech](https://www.theverge.com/24211177/ai-climate-crisis-energy-use-microsoft-openai-chatgpt-google-gemini-decoder-podcast)
+ - [The teens lobbying against the Kids Online Safety Act](https://www.theverge.com/24210795/kosa-kids-online-safety-act-senate-teens-student-lobby)
+ - [How unboxing sneakers got this creator to the PGA](https://www.theverge.com/24210605/jacques-slade-pga-sneaker-unboxing-youtube)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
