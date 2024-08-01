@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Xbox @ gamescom 2024](https://news.xbox.com/en-us/2024/08/01/xbox-gamescom-2024/)
- - [As rage factories howl about Kay Vess&#39; looks, Star Wars Outlaws lead says there&#39;s no point engaging with &#39;bad faith&#39; criticism: &#39;No nuance and no possibility of real dialogue&#39;](https://www.pcgamer.com/games/action/as-rage-factories-howl-about-kay-vess-looks-star-wars-outlaws-lead-says-theres-no-point-engaging-with-bad-faith-criticism-no-nuance-and-no-possibility-of-real-dialogue)
- - [Logitech&#39;s &#39;forever mouse&#39; could mean peripherals go the way of coffee beans, TVs, and printer ink by pushing a subscription](https://www.pcgamer.com/hardware/gaming-mice/logitechs-forever-mouse-could-mean-peripherals-go-the-way-of-coffee-beans-tvs-and-printer-ink-by-pushing-a-subscription)<!-- GAME:END -->
+ - [We preview the Pathfinder 2e playtest, which fully separates the science fantasy game from the OGL](https://www.polygon.com/24206159/starfinder-2e-playtest-launch-pathfinder-compatible-gen-con)
+ - [D&amp;D&#39;s upcoming VTT, codenamed Project Sigil, will come with Baldur&#39;s Gate 3 minis—further cementing WoTC&#39;s plans to franchise the heck out of it](https://www.pcgamer.com/games/rpg/d-d-s-upcoming-vtt-codenamed-project-sigil-will-come-with-baldur-s-gate-3-minis-further-cementing-wotc-s-plans-to-franchise-the-heck-out-of-it)
+ - [Squid Game&#39;s Finally Back This December, And Wraps Up For Good In 2025](https://kotaku.com/squid-game-season-two-air-date-netflix-1851610597)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
