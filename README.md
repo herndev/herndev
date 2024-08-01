@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Back in &#39;92, a gay dude and a fat lady sung at the summer Olympics. But why wasn&#39;t it shitty and woke ? Because of talent.](http://9gag.com/gag/a347Pr7)
- - ⏩ [Well he got the silver medal though](http://9gag.com/gag/ae9Y37j)
- - 👉 [Wife material](http://9gag.com/gag/a9yWd8m)<!-- MEMES:END -->
+ - 💣 [Bro got both eyes open \ud83d\ude2d](http://9gag.com/gag/aZZBxx6)
+ - ⏩ [This happened in Philippines ... It is genuinely bizarre.](http://9gag.com/gag/aKG2w3b)
+ - 👉 [That would hurt so bad](http://9gag.com/gag/azxr7Nb)<!-- MEMES:END -->
 
 ---
 
