@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [North and South Korean athletes take a selfie together at the Olympics](http://9gag.com/gag/aqyrmNR)
- - ⏩ [My fellow horny 9gaggers](http://9gag.com/gag/aKG2gL6)
- - 👉 [It\u2019s funny cuz it\u2019s true](http://9gag.com/gag/aAywBmZ)<!-- MEMES:END -->
+ - 💣 [Back in &#39;92, a gay dude and a fat lady sung at the summer Olympics. But why wasn&#39;t it shitty and woke ? Because of talent.](http://9gag.com/gag/a347Pr7)
+ - ⏩ [Well he got the silver medal though](http://9gag.com/gag/ae9Y37j)
+ - 👉 [Wife material](http://9gag.com/gag/a9yWd8m)<!-- MEMES:END -->
 
 ---
 
