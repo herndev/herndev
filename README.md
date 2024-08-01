@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [We preview the Pathfinder 2e playtest, which fully separates the science fantasy game from the OGL](https://www.polygon.com/24206159/starfinder-2e-playtest-launch-pathfinder-compatible-gen-con)
- - [D&amp;D&#39;s upcoming VTT, codenamed Project Sigil, will come with Baldur&#39;s Gate 3 minis—further cementing WoTC&#39;s plans to franchise the heck out of it](https://www.pcgamer.com/games/rpg/d-d-s-upcoming-vtt-codenamed-project-sigil-will-come-with-baldur-s-gate-3-minis-further-cementing-wotc-s-plans-to-franchise-the-heck-out-of-it)
- - [Squid Game&#39;s Finally Back This December, And Wraps Up For Good In 2025](https://kotaku.com/squid-game-season-two-air-date-netflix-1851610597)<!-- GAME:END -->
+ - [Free Play Days – WWE 2K24, Sword Art Online: Fatal Bullet, and Way of the Hunter](https://news.xbox.com/en-us/2024/08/01/free-play-days-wwe-2k24-sword-art-online-fatal-bullet-and-way-of-the-hunter/)
+ - [Deadpool &amp; Wolverine is a Toy Story movie](https://www.polygon.com/24209992/deadpool-wolverine-toy-story-movies-similarities)
+ - [Pokémon Go Giovanni counters, team line-up in August 2024](https://www.polygon.com/pokemon-go-guide/23581491/giovanni-counters-team-go-rocket)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
