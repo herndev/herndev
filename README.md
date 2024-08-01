@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Analysis: Indian startup VC funding has dwindled, depriving India of capital needed to grow its economy, as the valuation of top companies like Byju&#39;s implodes &lpar;Sankalp Phartiyal/Bloomberg&rpar;](http://www.techmeme.com/240801/p8#a240801p8)
- - [Telegram rolls out a Mini App Store to help users find new apps, updates the in-app browser to support multiple tabs, and says its mini apps have 500M MAUs &lpar;Andrew Romero/9to5Google&rpar;](http://www.techmeme.com/240801/p7#a240801p7)
- - [The best new Android apps and games for August 2024](https://www.androidauthority.com/new-android-apps-658839/)<!-- TECH:END -->
+ - [The Premier League, Bundesliga, DAZN, Sky, UEFA, CONMEBOL, and others write to X CEO Linda Yaccarino demanding more action against illegal soccer content on X &lpar;Tales Azzoni/Associated Press&rpar;](http://www.techmeme.com/240801/p12#a240801p12)
+ - [8 Best Cheap Smartphones &lpar;2024&rpar;: iPhone, Android, 5G](https://www.wired.com/story/best-cheap-phones/)
+ - [Apple Intelligence in iOS 18.1 beta hands-on: meaningful Siri language understanding improvements and Siri text input is nice, but few other notable features &lpar;Allison Johnson/The Verge&rpar;](http://www.techmeme.com/240801/p11#a240801p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
