@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Intel is laying off 15,000 people: &#39;We are making some of the most consequential changes in our company&#39;s history&#39;](https://www.pcgamer.com/hardware/processors/intel-is-laying-off-15000-people-we-are-making-some-of-the-most-consequential-changes-in-our-companys-history)
- - [Arrowhead posts shocking found footage of elusive Helldivers 2 game master Joel](https://www.pcgamer.com/games/arrowhead-posts-shocking-found-footage-of-elusive-helldivers-2-game-master-joel)
- - [Obsidian&#39;s first person RPG Avowed is reportedly getting delayed into next year despite being &#39;in good shape&#39; for its original November release](https://www.pcgamer.com/games/rpg/obsidians-first-person-rpg-avowed-is-reportedly-getting-delayed-into-next-year-despite-being-in-good-shape-for-its-original-november-release)<!-- GAME:END -->
+ - [Once Human patch speeds up motorcycles and makes respeccing easier](https://www.pcgamer.com/games/survival-crafting/once-human-august-2024-patch)
+ - [Blizzard could&#39;ve let Diablo 4&#39;s weakest classes ride it out until the expansion, but it&#39;s showering them in buffs for season 5 instead](https://www.pcgamer.com/games/rpg/blizzard-couldve-let-diablo-4s-weakest-classes-ride-it-out-until-the-expansion-but-its-showering-them-in-buffs-for-season-5-instead)
+ - [Intel is laying off 15,000 people: &#39;We are making some of the most consequential changes in our company&#39;s history&#39;](https://www.pcgamer.com/hardware/processors/intel-is-laying-off-15000-people-we-are-making-some-of-the-most-consequential-changes-in-our-companys-history)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
