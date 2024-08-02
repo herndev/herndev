@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung let me down with the Galaxy Watch Ultra](https://www.androidauthority.com/galaxy-watch-ultra-critique-3463929/)
- - [Trump&#39;s Crypto Embrace Could Be a Disaster for Bitcoin](https://www.wired.com/story/donald-trump-bitcoin-reserve-promises/)
- - [Surface Pro 11 review: tantalizingly close to the dream](https://www.theverge.com/24191243/microsoft-surface-pro-11-oled-review)<!-- TECH:END -->
+ - [This online puzzle community has a fresh twist on battle passes](https://www.theverge.com/2024/8/2/24211408/puzzmo-pile-up-poker-battle-pass-zach-gage)
+ - [How Apple&#39;s quietest quarter shouted back at Wall Street](https://appleinsider.com/articles/24/08/02/how-apples-quietest-quarter-shouted-back-at-wall-street?utm_medium=rss)
+ - [A special committee of 23andMe&#39;s board says it&#39;s not &quot;prepared to move forward&quot; with CEO Anne Wojcicki&#39;s $0.40 per share offer to take the company private &lpar;Kristen V Brown/Bloomberg&rpar;](http://www.techmeme.com/240802/p12#a240802p12)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
