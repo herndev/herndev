@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Trump says Zuckerberg called him after the assassination attempt and told Trump he wouldn&#39;t endorse a Democrat because he &quot;respected&quot; Trump&#39;s reaction that day &lpar;Gaby Del Valle/The Verge&rpar;](http://www.techmeme.com/240802/p22#a240802p22)
- - [TikTok Sued by US Justice Department for Alleged Violations of Kids’ Privacy](https://www.wired.com/story/us-justice-department-sues-tiktok-kids-privacy/)
- - [This ASUS laptop is way too good for only $220!](https://www.androidauthority.com/asus-vivobook-14-3467610/)<!-- TECH:END -->
+ - [Intel shares fall 26% to close at $21.48 in their biggest drop since 1974, after the company reported a big earnings miss; Intel&#39;s market cap is now below $100B &lpar;CNBC&rpar;](http://www.techmeme.com/240802/p23#a240802p23)
+ - [The best new streaming movies this week: Tarot, Challengers, and more](https://www.androidauthority.com/best-new-streaming-movies-this-week-3083965/)
+ - [Tesla sues maker of ‘highly unsafe’ breakaway EV charging adapters](https://www.theverge.com/2024/8/2/24212160/tesla-evject-lawsuit-escape-connector-dangerous-hot)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
