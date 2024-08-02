@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Pixel 8 Pro has hit an all-time low ahead of Google’s next hardware event](https://www.theverge.com/2024/8/2/24211397/google-pixel-8-pro-ue-wonderboom-4-bluetooth-speaker-deal-sale)
- - [The US DOJ sues TikTok, saying it collected children&#39;s data without parents&#39; permission, knowingly let users under the age of 13 create accounts, and more &lpar;New York Times&rpar;](http://www.techmeme.com/240802/p17#a240802p17)
- - [How to turn off Home Switching in the iOS 17.6 Home app](https://appleinsider.com/inside/homekit/tips/how-to-turn-off-home-switching-in-the-ios-176-home-app?utm_medium=rss)<!-- TECH:END -->
+ - [Google pulls Gemini AI ad from Olympics after backlash](https://www.theverge.com/2024/8/2/24212078/google-gemini-olympics-ad-backlash)
+ - [Sources: Revolut has told staff it is launching a sale of up to $500M worth of existing shares at a $45B valuation; former employees are ineligible &lpar;Akila Quinio/Financial Times&rpar;](http://www.techmeme.com/240802/p20#a240802p20)
+ - [Character.AI told staff that investors will be bought out at a valuation of ~2.5x its $1B 2023 valuation, and it plans to adopt open-source models for products &lpar;The Information&rpar;](http://www.techmeme.com/240802/p19#a240802p19)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
