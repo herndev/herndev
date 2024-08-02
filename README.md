@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [19 year old Oh Ye-Jin breaks Olympic record and wins gold for South Korea in shooting, whilst not wearing any specialized equipment and casually keeping her hand in her pocket](http://9gag.com/gag/aVvDezP)
- - ⏩ [Silver medal guy reacting to gold medal winner](http://9gag.com/gag/aRBKAZq)
- - 👉 [#IStandWithAngelaCarini](http://9gag.com/gag/aYQKwvN)<!-- MEMES:END -->
+ - 💣 [#IStandWithAngelaCarini](http://9gag.com/gag/aYQKwvN)
+ - ⏩ [The Olympics is a bad joke](http://9gag.com/gag/aVvDXZM)
+ - 👉 [Just when you thought 2024 couldn&#39;t get any crazier](http://9gag.com/gag/aNDdZA6)<!-- MEMES:END -->
 
 ---
 
