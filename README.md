@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [THQ Nordic Showcase 2024 recap](https://blog.playstation.com/2024/08/02/thq-nordic-showcase-2024-recap/)
- - [THQ Nordic 2024 Digital Showcase – Check Out All the Reveals Coming to Xbox](https://news.xbox.com/en-us/2024/08/02/thq-nordic-2024-digital-showcase-check-out-all-the-reveals-coming-to-xbox/)
- - [With its &#39;immersive and realistic world&#39; and &#39;complex life simulation on a scale hardly ever seen before&#39;, the Gothic 1 Remake looks even more wonderfully over-ambitious and janky than the original game](https://www.pcgamer.com/games/rpg/with-its-immersive-and-realistic-world-and-complex-life-simulation-on-a-scale-hardly-ever-seen-before-the-gothic-1-remake-looks-even-more-wonderfully-over-ambitious-and-janky-than-the-original-game)<!-- GAME:END -->
+ - [Maybe I shouldn&#39;t say this in a PC gaming outlet, but I had a great time after installing Malware](https://www.pcgamer.com/games/puzzle/maybe-i-shouldnt-say-this-in-a-pc-gaming-outlet-but-i-had-a-great-time-after-installing-malware)
+ - [Destiny 2 Spin-Off Reportedly Canceled, No More Expansions, And No Destiny 3 &lpar;For Now&rpar;](https://kotaku.com/destiny-3-cancel-final-shape-expansions-bungie-payback-1851612404)
+ - [Supacell Episode 6 Review: The Message Is Unity](https://kotaku.com/supacell-episode-6-review-recap-netflix-superhero-1851612421)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
