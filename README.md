@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Contextual AI, which offers retrieval augmented generation tools for enterprises, raised an $80M Series A led by Greycroft; PitchBook values Contextual at $609M &lpar;Kenrick Cai/Reuters&rpar;](http://www.techmeme.com/240801/p58#a240801p58)
- - [Sources: the US DOJ is investigating Nvidia&#39;s acquisition of Israeli AI infrastructure orchestration and management service Run:ai on antitrust grounds &lpar;Josh Sisco/Politico&rpar;](http://www.techmeme.com/240801/p57#a240801p57)
- - [Amazon extends $299 iPad 10th Gen deal into August](https://appleinsider.com/articles/24/08/02/amazon-extends-299-ipad-10th-gen-deal-into-august?utm_medium=rss)<!-- TECH:END -->
+ - [These HP and ASUS laptops are great for gamers, and you can save up to $330](https://www.androidauthority.com/hp-asus-laptop-deals-3467185/)
+ - [Best Solar Panel Installation Companies in Houston](https://www.cnet.com/home/energy-and-utilities/houston-solar-panels/#ftag=CAD590a51e)
+ - [Contextual AI, which offers retrieval augmented generation tools for enterprises, raised an $80M Series A led by Greycroft; PitchBook values Contextual at $609M &lpar;Kenrick Cai/Reuters&rpar;](http://www.techmeme.com/240801/p58#a240801p58)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
