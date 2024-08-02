@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A New Trick Could Block the Misuse of Open Source AI](https://www.wired.com/story/center-for-ai-safety-open-source-llm-safeguards/)
- - [Google Pixel Watch 3 surfaces in leaked promo video, confirms a lot of what we’ve already heard](https://www.androidauthority.com/pixel-watch-3-leaked-video-3467530/)
- - [After robbing you blind, this Android malware erases your phone](https://www.androidauthority.com/bingomod-malware-3467516/)<!-- TECH:END -->
+ - [Deals: Apple&#39;s loaded M3 MacBook Air with 24GB RAM, 1TB SSD is on sale for $1,749](https://appleinsider.com/articles/24/08/02/deals-apples-loaded-m3-macbook-air-with-24gb-ram-1tb-ssd-is-on-sale-for-1749?utm_medium=rss)
+ - [Moto Tag officially goes on sale, gives Android users the closest thing to the Air Tag](https://www.androidauthority.com/moto-tag-on-sale-3467573/)
+ - [Sensitive Illinois Voter Data Exposed by Contractor&#39;s Unsecured Databases](https://www.wired.com/story/illinois-voter-databases-exposed/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
