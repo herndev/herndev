@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The Olympics is a bad joke](http://9gag.com/gag/aVvDXZM)
- - ⏩ [Oh not those onions again...](http://9gag.com/gag/avyrPNE)
- - 👉 [Age old Question](http://9gag.com/gag/aNDdWGG)<!-- MEMES:END -->
+ - 💣 [Still the best unscripted moment on TV](http://9gag.com/gag/aMVw9dW)
+ - ⏩ [Trump broke the Internet today, again.](http://9gag.com/gag/aO8dbGr)
+ - 👉 [Even the dog is shocked!](http://9gag.com/gag/aMVwQQV)<!-- MEMES:END -->
 
 ---
 
