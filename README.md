@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The best ROM hack website is shutting down after nearly 20 years](https://www.polygon.com/24211944/romhacking-net-closure-internet-archive-downloads)
- - [Gravity Falls creator on returning to his ‘little bastard’ of a character](https://www.polygon.com/24211450/alex-hirsch-gravity-falls-bill-cipher-book)
- - [How To Finish Fortnite’s Quests For Chapter 5, Season 3, Week 10](https://kotaku.com/fortnite-chapter-5-season-3-week-10-quests-tips-1851612092)<!-- GAME:END -->
+ - [GameStop Shuts Down Game Informer, The Longest-Running Gaming Magazine In The US [Update]](https://kotaku.com/game-informer-gamestop-meme-stock-gme-last-issue-1851611973)
+ - [Pokémon Go ‘Adventure Week’ 2024 event guide](https://www.polygon.com/pokemon-go-guide/24212012/adventure-week-2024-event-fossil-timed-research-premium)
+ - [How to complete all Salvation&#39;s Edge challenges in Destiny 2](https://www.polygon.com/destiny-2-guide-walkthrough/24209925/salvations-edge-challenges-witness-verity-title)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
