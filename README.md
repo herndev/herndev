@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Still the best unscripted moment on TV](http://9gag.com/gag/aMVw9dW)
- - ⏩ [Trump broke the Internet today, again.](http://9gag.com/gag/aO8dbGr)
- - 👉 [Even the dog is shocked!](http://9gag.com/gag/aMVwQQV)<!-- MEMES:END -->
+ - 💣 [The target for Olympics air rifle and pistol events](http://9gag.com/gag/aNDdnv6)
+ - ⏩ [The jiggles](http://9gag.com/gag/a347dOr)
+ - 👉 [#IStandWithAngelaCarini](http://9gag.com/gag/aYQKwvN)<!-- MEMES:END -->
 
 ---
 
