@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [There&#39;s a free open beta for &#39;adaption shooter&#39; Ascendant on Steam this weekend](https://www.pcgamer.com/games/fps/theres-a-free-open-beta-for-adaption-shooter-ascendant-on-steam-this-weekend)
- - [Bloomburrow brings a menagerie of woodland creatures to MTG — here’s where you can buy the new set](https://www.polygon.com/24190175/bloomburrow-magic-the-gathering-pre-order-expansion)
- - [Fortnite: How To Complete The Seventh Set Of Pirate Code Quests](https://kotaku.com/fortnite-pirates-caribbean-cursed-sails-quests-1851612203)<!-- GAME:END -->
+ - [THQ Nordic Showcase 2024 recap](https://blog.playstation.com/2024/08/02/thq-nordic-showcase-2024-recap/)
+ - [THQ Nordic 2024 Digital Showcase – Check Out All the Reveals Coming to Xbox](https://news.xbox.com/en-us/2024/08/02/thq-nordic-2024-digital-showcase-check-out-all-the-reveals-coming-to-xbox/)
+ - [With its &#39;immersive and realistic world&#39; and &#39;complex life simulation on a scale hardly ever seen before&#39;, the Gothic 1 Remake looks even more wonderfully over-ambitious and janky than the original game](https://www.pcgamer.com/games/rpg/with-its-immersive-and-realistic-world-and-complex-life-simulation-on-a-scale-hardly-ever-seen-before-the-gothic-1-remake-looks-even-more-wonderfully-over-ambitious-and-janky-than-the-original-game)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
