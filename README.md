@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Uh ?](http://9gag.com/gag/a4PZL8y)
- - ⏩ [Europe invasion](http://9gag.com/gag/an7y1dV)
- - 👉 [The jiggles](http://9gag.com/gag/a347dOr)<!-- MEMES:END -->
+ - 💣 [Age old Question](http://9gag.com/gag/aNDdWGG)
+ - ⏩ [Oh not those onions again...](http://9gag.com/gag/avyrPNE)
+ - 👉 [#IStandWithAngelaCarini](http://9gag.com/gag/aYQKwvN)<!-- MEMES:END -->
 
 ---
 
