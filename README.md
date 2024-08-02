@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s Q3 revenue in Greater China was down 6.5% YoY to $14.7B , up 5.7% YoY to $5.1B in Japan, and up 13.5% YoY to $6.4B in the rest of Asia-Pacific &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/240801/p52#a240801p52)
- - [Net neutrality is on ice](https://www.theverge.com/2024/8/1/24211570/net-neutrality-sixth-circuit-stay-blocked-fcc)
- - [NZXT will rent full gaming PCs, but the costs add up fast](https://www.theverge.com/2024/8/1/24211490/nzxt-flex-desktop-gaming-pc-rental-service-subscription-nvidia-gpu-games)<!-- TECH:END -->
+ - [Twilio reports Q2 revenue up 4% YoY to $1.08B, vs. $1.06B est., 316K+ active customer accounts as of June 30, vs. 304K+ a year ago; TWLO jumps 6%+ after hours &lpar;Ciara Linnane/MarketWatch&rpar;](http://www.techmeme.com/240801/p54#a240801p54)
+ - [Intel’s crashing 13th and 14th Gen CPUs get two additional years of warranty coverage](https://www.theverge.com/2024/8/1/24211616/intel-crashing-13th-14th-gen-cpus-warranty-two-more-years)
+ - [Simple Mobile gives you three times the data for the same low prices](https://www.androidauthority.com/simple-mobile-three-times-data-deal-3467266/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
