@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [This giant One UI 7 leak gives us an idea of what’s changing for Samsung phones](https://www.androidauthority.com/samsung-one-ui-7-changelog-leak-3467396/)
- - [Samsung Keyboard quietly loses key extensions, but why?](https://www.androidauthority.com/samsung-keyboard-lose-extensions-3467380/)
- - [This company sells more phones than Google, but you’ve likely never heard of it](https://www.androidauthority.com/what-is-transsion-3466021/)<!-- TECH:END -->
+ - [A Holdings Corp., a holding company owned equally by SoftBank and Naver, plans to sell down its stake in LY&#39;s ~$1B tender; LY operates Line messaging app &lpar;Mayumi Negishi/Bloomberg&rpar;](http://www.techmeme.com/240802/p6#a240802p6)
+ - [Google Photos could make it much easier to edit old snaps](https://www.androidauthority.com/google-photos-edit-button-memories-3467388/)
+ - [Nintendo reports Q1 revenue down 46.5% YoY to ~$1.65B, vs. ~$1.92B exp., net profit down 55.3% YoY to ~$536M, and Switch sales down 46% YoY to 2.1M units &lpar;Arjun Kharpal/CNBC&rpar;](http://www.techmeme.com/240802/p5#a240802p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
