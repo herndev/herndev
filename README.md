@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Closer the Distance: The Complex Characters of This Slice-of-Life Sim](https://news.xbox.com/en-us/2024/08/02/closer-the-distance-characters/)
- - [The new D&amp;D Player’s Handbook makes the old one feel like a dictionary](https://www.polygon.com/24210741/dnd-players-handbook-2024-phb-impressions)
- - [Paradox indefinitely delays Prison Architect 2, just like it did with Life By You before it was scrapped](https://www.pcgamer.com/games/strategy/paradox-indefinitely-delays-prison-architect-2-just-like-it-did-with-life-by-you-before-it-was-scrapped)<!-- GAME:END -->
+ - [Next Week on Xbox: New Games for August 5 to 9](https://news.xbox.com/en-us/2024/08/02/next-week-on-xbox-new-games-for-august-5-to-9/)
+ - [Upscaling is the new normal according to Star Wars Outlaws system requirements](https://www.pcgamer.com/hardware/upscaling-is-the-new-normal-according-to-star-wars-outlaws-system-requirements)
+ - [Pokémon&#39;s Latest TCG Set Is Teeny, But Packed With Stunners](https://kotaku.com/pokemon-tcg-shrouded-fable-pull-rate-1851611684)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
