@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The Olympics is a bad joke](http://9gag.com/gag/aVvDXZM)
- - ⏩ [Age old Question](http://9gag.com/gag/aNDdWGG)
- - 👉 [Let them fight](http://9gag.com/gag/aD2jG6d)<!-- MEMES:END -->
+ - 💣 [#IStandWithAngelaCarini](http://9gag.com/gag/aYQKwvN)
+ - ⏩ [The Italian female boxer &lpar;Angela Carini&rpar; give up after only 45 sec of match after she realizing that she was indeed fighting against a man &lpar;Imane Khelif&rpar;.](http://9gag.com/gag/a5QZKMy)
+ - 👉 [Europe invasion](http://9gag.com/gag/an7y1dV)<!-- MEMES:END -->
 
 ---
 
