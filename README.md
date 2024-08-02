@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [This online puzzle community has a fresh twist on battle passes](https://www.theverge.com/2024/8/2/24211408/puzzmo-pile-up-poker-battle-pass-zach-gage)
  - [How Apple&#39;s quietest quarter shouted back at Wall Street](https://appleinsider.com/articles/24/08/02/how-apples-quietest-quarter-shouted-back-at-wall-street?utm_medium=rss)
- - [A special committee of 23andMe&#39;s board says it&#39;s not &quot;prepared to move forward&quot; with CEO Anne Wojcicki&#39;s $0.40 per share offer to take the company private &lpar;Kristen V Brown/Bloomberg&rpar;](http://www.techmeme.com/240802/p12#a240802p12)<!-- TECH:END -->
+ - [After latest update, T Life and T-Mobile apps are now functionality the same thing](https://www.androidauthority.com/t-life-update-redundant-3467501/)
+ - [10 Simple Ways You Can Support Your Eye Health Every Day](https://www.cnet.com/health/personal-care/ways-support-eye-health-every-day/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
