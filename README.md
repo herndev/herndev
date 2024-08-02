@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Why you should never eat undercooked bear meat](http://9gag.com/gag/ajPq0B8)
- - ⏩ [But wait there&#39;s more...](http://9gag.com/gag/amor9X9)
- - 👉 [Yay or nay](http://9gag.com/gag/aGy09gK)<!-- MEMES:END -->
+ - 💣 [Broke my spine just watching this](http://9gag.com/gag/aVvDevO)
+ - ⏩ [Japan was up on France 78 - 77 with two minutes left in the game at this moment. This is a real picture from the game.](http://9gag.com/gag/aNDdo8v)
+ - 👉 [Worse Uber ever](http://9gag.com/gag/aBywYRz)<!-- MEMES:END -->
 
 ---
 
