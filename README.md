@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Angela Carini\u2019s choice to withdraw from the match against a trans woman shows common sense in an otherwise poorly managed event. Her decision highlights the event\u2019s lack of fairness and respect.](http://9gag.com/gag/azxrVYp)
- - ⏩ [You can&#39;t prove yourself to your gender, so you go and beat women. Miserable. This has nothing to do with the sport.](http://9gag.com/gag/amor8Md)
- - 👉 [Angela Carini refuses to fight against ts boxer.](http://9gag.com/gag/azxrVMq)<!-- MEMES:END -->
+ - 💣 [Why you should never eat undercooked bear meat](http://9gag.com/gag/ajPq0B8)
+ - ⏩ [But wait there&#39;s more...](http://9gag.com/gag/amor9X9)
+ - 👉 [Yay or nay](http://9gag.com/gag/aGy09gK)<!-- MEMES:END -->
 
 ---
 
