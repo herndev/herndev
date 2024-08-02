@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Intel shares fall 26% to close at $21.48 in their biggest drop since 1974, after the company reported a big earnings miss; Intel&#39;s market cap is now below $100B &lpar;CNBC&rpar;](http://www.techmeme.com/240802/p23#a240802p23)
- - [The best new streaming movies this week: Tarot, Challengers, and more](https://www.androidauthority.com/best-new-streaming-movies-this-week-3083965/)
- - [Tesla sues maker of ‘highly unsafe’ breakaway EV charging adapters](https://www.theverge.com/2024/8/2/24212160/tesla-evject-lawsuit-escape-connector-dangerous-hot)<!-- TECH:END -->
+ - [The 2025 Explorer is the first Ford to get the new Android-powered infotainment system](https://www.theverge.com/2024/8/2/24212211/ford-explorer-2025-digital-experience-android-infortainment)
+ - [Sources: Meta is offering Hollywood celebrities like Judi Dench millions of dollars for the right to use their voices for AI projects; SAG-AFTRA agreed to terms &lpar;Lucas Shaw/Bloomberg&rpar;](http://www.techmeme.com/240802/p24#a240802p24)
+ - [Google Pixel Watch 3 rumors: Everything we know so far and what we want to see](https://www.androidauthority.com/google-pixel-watch-3-features-specs-price-3415632/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
