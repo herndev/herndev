@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Let them fight](http://9gag.com/gag/aD2jG6d)
- - ⏩ [The Olympics is a bad joke](http://9gag.com/gag/aVvDXZM)
- - 👉 [Age old Question](http://9gag.com/gag/aNDdWGG)<!-- MEMES:END -->
+ - 💣 [The Olympics is a bad joke](http://9gag.com/gag/aVvDXZM)
+ - ⏩ [Age old Question](http://9gag.com/gag/aNDdWGG)
+ - 👉 [Let them fight](http://9gag.com/gag/aD2jG6d)<!-- MEMES:END -->
 
 ---
 
