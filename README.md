@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Students, don&#39;t miss out: GeForce Now Ultimate RTX 4080 for just a tenner](https://www.pcgamer.com/games/students-dont-miss-out-geforce-now-ultimate-rtx-4080-for-just-a-tenner)
- - [Today&#39;s Wordle answer for Friday, August 2](https://www.pcgamer.com/games/puzzle/wordle-answer-today-August-2-2024)
- - [Once Human patch speeds up motorcycles and makes respeccing easier](https://www.pcgamer.com/games/survival-crafting/once-human-august-2024-patch)<!-- GAME:END -->
+ - [Intel extends its warranty support for 13th and 14th Gen CPUs by two years but its RMA procedure has been anything but straightforward for some](https://www.pcgamer.com/hardware/processors/intel-extends-its-warranty-support-for-13th-and-14th-gen-cpus-by-two-years-but-its-rma-procedure-has-been-anything-but-straightforward-for-some)
+ - [World of Warcraft: The War Within&#39;s pre-patch event has been fixed, removing 90-minute wait times and turning its weekly quests into account-wide dailies](https://www.pcgamer.com/games/world-of-warcraft/world-of-warcraft-the-war-within-s-pre-patch-event-has-been-fixed-removing-90-minute-wait-times-and-turning-its-weekly-quests-into-account-wide-dailies)
+ - [Students, don&#39;t miss out: GeForce Now Ultimate RTX 4080 for just a tenner](https://www.pcgamer.com/games/students-dont-miss-out-geforce-now-ultimate-rtx-4080-for-just-a-tenner)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
