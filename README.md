@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The Olympics is a bad joke](http://9gag.com/gag/aVvDXZM)
- - ⏩ [This sums up the clown world so accurately](http://9gag.com/gag/a9yW71Z)
- - 👉 [The jiggles](http://9gag.com/gag/a347dOr)<!-- MEMES:END -->
+ - 💣 [Return of The Donald](http://9gag.com/gag/aKG2PKj)
+ - ⏩ [The target for Olympics air rifle and pistol events](http://9gag.com/gag/aNDdnv6)
+ - 👉 [Silver medal guy reacting to gold medal winner](http://9gag.com/gag/aRBKAZq)<!-- MEMES:END -->
 
 ---
 
