@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Study: a year after Meta blocked news content in Canada due to the Online News Act, Canadians&#39; total engagement with news content on social media is down 43% &lpar;The Canadian Press&rpar;](http://www.techmeme.com/240802/p4#a240802p4)
- - [Google Pixel 9 rumors: Everything we know so far about the upcoming Pixels](https://www.androidauthority.com/google-pixel-9-3365966/)
- - [Turkey blocks Instagram without stating a reason or the duration; a Turkish official claimed Instagram blocked condolence posts on Ismail Haniyeh&#39;s killing &lpar;Tuvan Gumrukcu/Reuters&rpar;](http://www.techmeme.com/240802/p3#a240802p3)<!-- TECH:END -->
+ - [This giant One UI 7 leak gives us an idea of what’s changing for Samsung phones](https://www.androidauthority.com/samsung-one-ui-7-changelog-leak-3467396/)
+ - [Samsung Keyboard quietly loses key extensions, but why?](https://www.androidauthority.com/samsung-keyboard-lose-extensions-3467380/)
+ - [This company sells more phones than Google, but you’ve likely never heard of it](https://www.androidauthority.com/what-is-transsion-3466021/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
