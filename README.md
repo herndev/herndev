@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Students, don&#39;t miss out: GeForce Now Ultimate RTX 4080 for just a tenner](https://www.pcgamer.com/games/students-dont-miss-out-geforce-now-ultimate-rtx-4080-for-just-a-tenner)
  - [Today&#39;s Wordle answer for Friday, August 2](https://www.pcgamer.com/games/puzzle/wordle-answer-today-August-2-2024)
- - [Once Human patch speeds up motorcycles and makes respeccing easier](https://www.pcgamer.com/games/survival-crafting/once-human-august-2024-patch)
- - [Blizzard could&#39;ve let Diablo 4&#39;s weakest classes ride it out until the expansion, but it&#39;s showering them in buffs for season 5 instead](https://www.pcgamer.com/games/rpg/blizzard-couldve-let-diablo-4s-weakest-classes-ride-it-out-until-the-expansion-but-its-showering-them-in-buffs-for-season-5-instead)<!-- GAME:END -->
+ - [Once Human patch speeds up motorcycles and makes respeccing easier](https://www.pcgamer.com/games/survival-crafting/once-human-august-2024-patch)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
