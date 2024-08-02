@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Broke my spine just watching this](http://9gag.com/gag/aVvDevO)
- - ⏩ [Japan was up on France 78 - 77 with two minutes left in the game at this moment. This is a real picture from the game.](http://9gag.com/gag/aNDdo8v)
- - 👉 [Worse Uber ever](http://9gag.com/gag/aBywYRz)<!-- MEMES:END -->
+ - 💣 [Angela Carini refuses to fight against ts boxer.](http://9gag.com/gag/azxrVMq)
+ - ⏩ [This sums up the clown world so accurately](http://9gag.com/gag/a9yW71Z)
+ - 👉 [Leftists will be offended :&rpar; I present to you the fnalists of Miss Polonia](http://9gag.com/gag/aNDdZEv)<!-- MEMES:END -->
 
 ---
 
