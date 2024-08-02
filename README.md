@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [#IStandWithAngelaCarini](http://9gag.com/gag/aYQKwvN)
+ - 💣 [Broke my spine just watching this](http://9gag.com/gag/aVvDevO)
  - ⏩ [The Italian female boxer &lpar;Angela Carini&rpar; give up after only 45 sec of match after she realizing that she was indeed fighting against a man &lpar;Imane Khelif&rpar;.](http://9gag.com/gag/a5QZKMy)
- - 👉 [Europe invasion](http://9gag.com/gag/an7y1dV)<!-- MEMES:END -->
+ - 👉 [The jiggles](http://9gag.com/gag/a347dOr)<!-- MEMES:END -->
 
 ---
 
