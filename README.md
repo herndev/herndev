@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Infoblox and Eclypsium: since 2018, Russian hackers hijacked 35K+ registered domains using Sitting Ducks attacks that involve exploiting DNS configuration flaws &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/240802/p1#a240802p1)
- - [Pixel 9 series shipping dates leaked: You could be waiting for a long time for your Pixel 9 Pro Fold](https://www.androidauthority.com/pixel-9-series-availability-date-leaked-3467324/)
- - [Today&#39;s NYT Strands Hints, Answers and Help for August 2, #152](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-august-2-152/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Leak: These might be the cleanest Google Pixel 9 series renders yet](https://www.androidauthority.com/google-pixel-9-series-leaked-renders-clean-3466483/)
+ - [Sources: Apple in recent months has demanded Tencent and ByteDance close loopholes used by their in-app creators to funnel users to external payment systems &lpar;Pei Li/Bloomberg&rpar;](http://www.techmeme.com/240802/p2#a240802p2)
+ - [Infoblox and Eclypsium: since 2018, Russian hackers hijacked 35K+ registered domains using Sitting Ducks attacks that involve exploiting DNS configuration flaws &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/240802/p1#a240802p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
