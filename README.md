@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The Italian female boxer &lpar;Angela Carini&rpar; give up after only 45 sec of match after she realizing that she was indeed fighting against a man &lpar;Imane Khelif&rpar;.](http://9gag.com/gag/a5QZKMy)
- - ⏩ [Priceless US team\u2019s reaction to Chinese winning pose](http://9gag.com/gag/aMVwQNV)
+ - 💣 [Uh ?](http://9gag.com/gag/a4PZL8y)
+ - ⏩ [Europe invasion](http://9gag.com/gag/an7y1dV)
  - 👉 [The jiggles](http://9gag.com/gag/a347dOr)<!-- MEMES:END -->
 
 ---
