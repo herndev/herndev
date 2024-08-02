@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Broke my spine just watching this](http://9gag.com/gag/aVvDevO)
- - ⏩ [The Italian female boxer &lpar;Angela Carini&rpar; give up after only 45 sec of match after she realizing that she was indeed fighting against a man &lpar;Imane Khelif&rpar;.](http://9gag.com/gag/a5QZKMy)
- - 👉 [The jiggles](http://9gag.com/gag/a347dOr)<!-- MEMES:END -->
+ - 💣 [The Olympics is a bad joke](http://9gag.com/gag/aVvDXZM)
+ - ⏩ [Oh not those onions again...](http://9gag.com/gag/avyrPNE)
+ - 👉 [Age old Question](http://9gag.com/gag/aNDdWGG)<!-- MEMES:END -->
 
 ---
 
