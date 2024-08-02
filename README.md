@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Yay or nay](http://9gag.com/gag/aGy09gK)
- - ⏩ [The Olympics is a bad joke](http://9gag.com/gag/aVvDXZM)
- - 👉 [The way she grabbed his hand without hesitation.](http://9gag.com/gag/aGy0xY7)<!-- MEMES:END -->
+ - 💣 [The Olympics is a bad joke](http://9gag.com/gag/aVvDXZM)
+ - ⏩ [This sums up the clown world so accurately](http://9gag.com/gag/a9yW71Z)
+ - 👉 [The jiggles](http://9gag.com/gag/a347dOr)<!-- MEMES:END -->
 
 ---
 
