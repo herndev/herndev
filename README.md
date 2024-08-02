@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The target for Olympics air rifle and pistol events](http://9gag.com/gag/aNDdnv6)
- - ⏩ [The jiggles](http://9gag.com/gag/a347dOr)
- - 👉 [#IStandWithAngelaCarini](http://9gag.com/gag/aYQKwvN)<!-- MEMES:END -->
+ - 💣 [Just when you thought 2024 couldn&#39;t get any crazier](http://9gag.com/gag/aNDdZA6)
+ - ⏩ [The Italian female boxer &lpar;Angela Carini&rpar; give up after only 45 sec of match after she realizing that she was indeed fighting against a man &lpar;Imane Khelif&rpar;.](http://9gag.com/gag/a5QZKMy)
+ - 👉 [Broke my spine just watching this](http://9gag.com/gag/aVvDevO)<!-- MEMES:END -->
 
 ---
 
