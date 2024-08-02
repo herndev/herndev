@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Paradox indefinitely delays Prison Architect 2, just like it did with Life By You before it was scrapped](https://www.pcgamer.com/games/strategy/paradox-indefinitely-delays-prison-architect-2-just-like-it-did-with-life-by-you-before-it-was-scrapped)
- - [Bungie was reportedly going to pull the trigger on layoffs regardless of The Final Shape&#39;s success, due to leadership under-delivering on &#39;financial promises&#39; to Sony](https://www.pcgamer.com/games/fps/bungie-was-reportedly-going-to-pull-the-trigger-on-layoffs-regardless-of-the-final-shape-s-success-due-to-leadership-under-delivering-on-financial-promises-to-sony)
- - [You officially have no excuse not to play Deus Ex: Mankind Divided now Prime Gaming is doling out free GOG copies of the game](https://www.pcgamer.com/games/rpg/you-officially-have-no-excuse-not-to-play-deus-ex-mankind-divided-now-prime-gaming-is-doling-out-free-gog-copies-of-the-game)<!-- GAME:END -->
+ - [Closer the Distance: The Complex Characters of This Slice-of-Life Sim](https://news.xbox.com/en-us/2024/08/02/closer-the-distance-characters/)
+ - [The new D&amp;D Player’s Handbook makes the old one feel like a dictionary](https://www.polygon.com/24210741/dnd-players-handbook-2024-phb-impressions)
+ - [Paradox indefinitely delays Prison Architect 2, just like it did with Life By You before it was scrapped](https://www.pcgamer.com/games/strategy/paradox-indefinitely-delays-prison-architect-2-just-like-it-did-with-life-by-you-before-it-was-scrapped)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
