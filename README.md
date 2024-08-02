@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple leaning on dominant Chinese companies to comply with App Store payment rules](https://appleinsider.com/articles/24/08/02/apple-leaning-on-dominant-chinese-companies-to-comply-with-app-store-payment-rules?utm_medium=rss)
- - [Pump and Trump](https://www.theverge.com/24211345/bitcoin-conference-2024-nashville-trump-maga-crypto)
- - [Both iPhone 16 Pro batteries rumored to get significant capacity increase](https://appleinsider.com/articles/24/08/02/both-iphone-16-pro-batteries-rumored-to-get-significant-capacity-increase?utm_medium=rss)<!-- TECH:END -->
+ - [Samsung let me down with the Galaxy Watch Ultra](https://www.androidauthority.com/galaxy-watch-ultra-critique-3463929/)
+ - [Trump&#39;s Crypto Embrace Could Be a Disaster for Bitcoin](https://www.wired.com/story/donald-trump-bitcoin-reserve-promises/)
+ - [Surface Pro 11 review: tantalizingly close to the dream](https://www.theverge.com/24191243/microsoft-surface-pro-11-oled-review)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
