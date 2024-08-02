@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How Apple&#39;s quietest quarter shouted back at Wall Street](https://appleinsider.com/articles/24/08/02/how-apples-quietest-quarter-shouted-back-at-wall-street?utm_medium=rss)
- - [After latest update, T Life and T-Mobile apps are now functionality the same thing](https://www.androidauthority.com/t-life-update-redundant-3467501/)
- - [10 Simple Ways You Can Support Your Eye Health Every Day](https://www.cnet.com/health/personal-care/ways-support-eye-health-every-day/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [A New Trick Could Block the Misuse of Open Source AI](https://www.wired.com/story/center-for-ai-safety-open-source-llm-safeguards/)
+ - [Google Pixel Watch 3 surfaces in leaked promo video, confirms a lot of what we’ve already heard](https://www.androidauthority.com/pixel-watch-3-leaked-video-3467530/)
+ - [After robbing you blind, this Android malware erases your phone](https://www.androidauthority.com/bingomod-malware-3467516/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
