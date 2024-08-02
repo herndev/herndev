@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Return of The Donald](http://9gag.com/gag/aKG2PKj)
- - ⏩ [The target for Olympics air rifle and pistol events](http://9gag.com/gag/aNDdnv6)
- - 👉 [Silver medal guy reacting to gold medal winner](http://9gag.com/gag/aRBKAZq)<!-- MEMES:END -->
+ - 💣 [The Italian female boxer &lpar;Angela Carini&rpar; give up after only 45 sec of match after she realizing that she was indeed fighting against a man &lpar;Imane Khelif&rpar;.](http://9gag.com/gag/a5QZKMy)
+ - ⏩ [Angela Carini refuses to fight against ts boxer.](http://9gag.com/gag/azxrVMq)
+ - 👉 [Just when you thought 2024 couldn&#39;t get any crazier](http://9gag.com/gag/aNDdZA6)<!-- MEMES:END -->
 
 ---
 
