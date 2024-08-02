@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Valve&#39;s former economist says Steam could produce &#39;better macroeconomic forecasts&#39; than Goldman Sachs with the power of crowdsourcing and brownie points](https://www.pcgamer.com/gaming-industry/valves-former-economist-says-steam-could-produce-better-macroeconomic-forecasts-than-goldman-sachs-with-the-power-of-crowdsourcing-and-brownie-points)
- - [Trap feels like a Shyamalan movie through and through — for better and worse](https://www.polygon.com/24212250/trap-review-shyamalan-m-night-movie-hartnett)
- - [Prison Architect 2 Delayed Indefinitely Weeks Before Launch, Pre-Orders Refunded](https://kotaku.com/prison-architect-2-delayed-canceled-pre-orders-refunded-1851612415)<!-- GAME:END -->
+ - [Fallen London is getting a tabletop RPG for its 15th anniversary](https://www.pcgamer.com/games/board-games/fallen-london-is-getting-a-tabletop-rpg-for-its-15th-anniversary)
+ - [Payback, a Destiny spinoff that was not, in fact, Destiny 3, was cancelled two months before the latest mass layoffs at Bungie](https://www.pcgamer.com/games/fps/payback-a-destiny-spinoff-that-was-not-in-fact-destiny-3-was-cancelled-two-months-before-the-latest-mass-layoffs-at-bungie)
+ - [The PC game releases we&#39;re most excited about in August](https://www.pcgamer.com/games/pc-game-releases-august-2024)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
