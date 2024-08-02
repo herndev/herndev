@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Angela Carini refuses to fight against ts boxer.](http://9gag.com/gag/azxrVMq)
- - ⏩ [This sums up the clown world so accurately](http://9gag.com/gag/a9yW71Z)
- - 👉 [Leftists will be offended :&rpar; I present to you the fnalists of Miss Polonia](http://9gag.com/gag/aNDdZEv)<!-- MEMES:END -->
+ - 💣 [The target for Olympics air rifle and pistol events](http://9gag.com/gag/aNDdnv6)
+ - ⏩ [#IStandWithAngelaCarini](http://9gag.com/gag/aYQKwvN)
+ - 👉 [19 year old Oh Ye-Jin breaks Olympic record and wins gold for South Korea in shooting, whilst not wearing any specialized equipment and casually keeping her hand in her pocket](http://9gag.com/gag/aVvDezP)<!-- MEMES:END -->
 
 ---
 
