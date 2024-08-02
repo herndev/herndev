@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The 2025 Explorer is the first Ford to get the new Android-powered infotainment system](https://www.theverge.com/2024/8/2/24212211/ford-explorer-2025-digital-experience-android-infortainment)
- - [Sources: Meta is offering Hollywood celebrities like Judi Dench millions of dollars for the right to use their voices for AI projects; SAG-AFTRA agreed to terms &lpar;Lucas Shaw/Bloomberg&rpar;](http://www.techmeme.com/240802/p24#a240802p24)
- - [Google Pixel Watch 3 rumors: Everything we know so far and what we want to see](https://www.androidauthority.com/google-pixel-watch-3-features-specs-price-3415632/)<!-- TECH:END -->
+ - [Data breach notifications show US pharmaceutical giant Cencora has notified at least 1.43M individuals that their data was compromised in a February data breach &lpar;Zack Whittaker/TechCrunch&rpar;](http://www.techmeme.com/240802/p25#a240802p25)
+ - [I Tried Breville&#39;s New $2,000 Oracle Jet Espresso Machine](https://www.cnet.com/home/kitchen-and-household/breville-oracle-jet-review/#ftag=CAD590a51e)
+ - [Best Floodlight Home Security Cameras of 2024](https://www.cnet.com/home/security/best-floodlight-home-security-cameras-of-2024/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
