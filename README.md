@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [#IStandWithAngelaCarini](http://9gag.com/gag/aYQKwvN)
+ - 💣 [Let them fight](http://9gag.com/gag/aD2jG6d)
  - ⏩ [The Olympics is a bad joke](http://9gag.com/gag/aVvDXZM)
- - 👉 [Just when you thought 2024 couldn&#39;t get any crazier](http://9gag.com/gag/aNDdZA6)<!-- MEMES:END -->
+ - 👉 [Age old Question](http://9gag.com/gag/aNDdWGG)<!-- MEMES:END -->
 
 ---
 
