@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Dad strength will not be denied](http://9gag.com/gag/ae9YGLO)
- - ⏩ [The Olympics is a bad joke](http://9gag.com/gag/aVvDXZM)
- - 👉 [Just when you thought 2024 couldn&#39;t get any crazier](http://9gag.com/gag/aNDdZA6)<!-- MEMES:END -->
+ - 💣 [Angela Carini\u2019s choice to withdraw from the match against a trans woman shows common sense in an otherwise poorly managed event. Her decision highlights the event\u2019s lack of fairness and respect.](http://9gag.com/gag/azxrVYp)
+ - ⏩ [You can&#39;t prove yourself to your gender, so you go and beat women. Miserable. This has nothing to do with the sport.](http://9gag.com/gag/amor8Md)
+ - 👉 [Angela Carini refuses to fight against ts boxer.](http://9gag.com/gag/azxrVMq)<!-- MEMES:END -->
 
 ---
 
