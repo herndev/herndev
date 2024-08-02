@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Leak: These might be the cleanest Google Pixel 9 series renders yet](https://www.androidauthority.com/google-pixel-9-series-leaked-renders-clean-3466483/)
- - [Sources: Apple in recent months has demanded Tencent and ByteDance close loopholes used by their in-app creators to funnel users to external payment systems &lpar;Pei Li/Bloomberg&rpar;](http://www.techmeme.com/240802/p2#a240802p2)
- - [Infoblox and Eclypsium: since 2018, Russian hackers hijacked 35K+ registered domains using Sitting Ducks attacks that involve exploiting DNS configuration flaws &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/240802/p1#a240802p1)<!-- TECH:END -->
+ - [Study: a year after Meta blocked news content in Canada due to the Online News Act, Canadians&#39; total engagement with news content on social media is down 43% &lpar;The Canadian Press&rpar;](http://www.techmeme.com/240802/p4#a240802p4)
+ - [Google Pixel 9 rumors: Everything we know so far about the upcoming Pixels](https://www.androidauthority.com/google-pixel-9-3365966/)
+ - [Turkey blocks Instagram without stating a reason or the duration; a Turkish official claimed Instagram blocked condolence posts on Ismail Haniyeh&#39;s killing &lpar;Tuvan Gumrukcu/Reuters&rpar;](http://www.techmeme.com/240802/p3#a240802p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
