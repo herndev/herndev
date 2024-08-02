@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google pulls Gemini AI ad from Olympics after backlash](https://www.theverge.com/2024/8/2/24212078/google-gemini-olympics-ad-backlash)
- - [Sources: Revolut has told staff it is launching a sale of up to $500M worth of existing shares at a $45B valuation; former employees are ineligible &lpar;Akila Quinio/Financial Times&rpar;](http://www.techmeme.com/240802/p20#a240802p20)
- - [Character.AI told staff that investors will be bought out at a valuation of ~2.5x its $1B 2023 valuation, and it plans to adopt open-source models for products &lpar;The Information&rpar;](http://www.techmeme.com/240802/p19#a240802p19)<!-- TECH:END -->
+ - [Trump says Zuckerberg called him after the assassination attempt and told Trump he wouldn&#39;t endorse a Democrat because he &quot;respected&quot; Trump&#39;s reaction that day &lpar;Gaby Del Valle/The Verge&rpar;](http://www.techmeme.com/240802/p22#a240802p22)
+ - [TikTok Sued by US Justice Department for Alleged Violations of Kids’ Privacy](https://www.wired.com/story/us-justice-department-sues-tiktok-kids-privacy/)
+ - [This ASUS laptop is way too good for only $220!](https://www.androidauthority.com/asus-vivobook-14-3467610/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
