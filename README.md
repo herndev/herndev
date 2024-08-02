@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Twilio reports Q2 revenue up 4% YoY to $1.08B, vs. $1.06B est., 316K+ active customer accounts as of June 30, vs. 304K+ a year ago; TWLO jumps 6%+ after hours &lpar;Ciara Linnane/MarketWatch&rpar;](http://www.techmeme.com/240801/p54#a240801p54)
- - [Intel’s crashing 13th and 14th Gen CPUs get two additional years of warranty coverage](https://www.theverge.com/2024/8/1/24211616/intel-crashing-13th-14th-gen-cpus-warranty-two-more-years)
- - [Simple Mobile gives you three times the data for the same low prices](https://www.androidauthority.com/simple-mobile-three-times-data-deal-3467266/)<!-- TECH:END -->
+ - [Sources: the US DOJ is investigating Nvidia&#39;s acquisition of Israeli AI infrastructure orchestration and management service Run:ai on antitrust grounds &lpar;Josh Sisco/Politico&rpar;](http://www.techmeme.com/240801/p57#a240801p57)
+ - [Amazon extends $299 iPad 10th Gen deal into August](https://appleinsider.com/articles/24/08/02/amazon-extends-299-ipad-10th-gen-deal-into-august?utm_medium=rss)
+ - [Intel extends the warranty for its boxed Core 13th and 14th Gen desktop processors by an additional two years, due to customers experiencing instability issues &lpar;Paul Alcorn/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/240801/p56#a240801p56)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
