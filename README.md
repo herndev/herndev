@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tuariki Delamere’s Somersault Could Have Launched a New Era in the Olympic Long Jump](https://www.wired.com/story/physics-of-the-banned-front-flip-long-jump/)
- - [Want to Save Money on Digital Storage? Try These Google Drive Tricks](https://www.cnet.com/tech/services-and-software/want-to-save-money-on-digital-storage-try-these-google-drive-tricks/#ftag=CAD590a51e)
- - [iOS 18 Beta: Your iPhone&#39;s Maps App Just Got This Helpful New Feature](https://www.cnet.com/tech/services-and-software/ios-18-beta-your-iphones-maps-app-just-got-this-helpful-new-feature/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple leaning on dominant Chinese companies to comply with App Store payment rules](https://appleinsider.com/articles/24/08/02/apple-leaning-on-dominant-chinese-companies-to-comply-with-app-store-payment-rules?utm_medium=rss)
+ - [Pump and Trump](https://www.theverge.com/24211345/bitcoin-conference-2024-nashville-trump-maga-crypto)
+ - [Both iPhone 16 Pro batteries rumored to get significant capacity increase](https://appleinsider.com/articles/24/08/02/both-iphone-16-pro-batteries-rumored-to-get-significant-capacity-increase?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
