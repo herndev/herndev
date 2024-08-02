@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Today&#39;s NYT Strands Hints, Answers and Help for August 2, #152](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-august-2-152/#ftag=CAD590a51e)
- - [Today&#39;s NYT Connections Hints, Answers and Help for August 2, #418](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-august-2-418/#ftag=CAD590a51e)
- - [Today&#39;s Wordle Hints, Answer and Help for August 2, #1140](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-august-2-1140/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Infoblox and Eclypsium: since 2018, Russian hackers hijacked 35K+ registered domains using Sitting Ducks attacks that involve exploiting DNS configuration flaws &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/240802/p1#a240802p1)
+ - [Pixel 9 series shipping dates leaked: You could be waiting for a long time for your Pixel 9 Pro Fold](https://www.androidauthority.com/pixel-9-series-availability-date-leaked-3467324/)
+ - [Today&#39;s NYT Strands Hints, Answers and Help for August 2, #152](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-august-2-152/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
