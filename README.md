@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Maybe I shouldn&#39;t say this in a PC gaming outlet, but I had a great time after installing Malware](https://www.pcgamer.com/games/puzzle/maybe-i-shouldnt-say-this-in-a-pc-gaming-outlet-but-i-had-a-great-time-after-installing-malware)
- - [Destiny 2 Spin-Off Reportedly Canceled, No More Expansions, And No Destiny 3 &lpar;For Now&rpar;](https://kotaku.com/destiny-3-cancel-final-shape-expansions-bungie-payback-1851612404)
- - [Supacell Episode 6 Review: The Message Is Unity](https://kotaku.com/supacell-episode-6-review-recap-netflix-superhero-1851612421)<!-- GAME:END -->
+ - [Valve&#39;s former economist says Steam could produce &#39;better macroeconomic forecasts&#39; than Goldman Sachs with the power of crowdsourcing and brownie points](https://www.pcgamer.com/gaming-industry/valves-former-economist-says-steam-could-produce-better-macroeconomic-forecasts-than-goldman-sachs-with-the-power-of-crowdsourcing-and-brownie-points)
+ - [Trap feels like a Shyamalan movie through and through — for better and worse](https://www.polygon.com/24212250/trap-review-shyamalan-m-night-movie-hartnett)
+ - [Prison Architect 2 Delayed Indefinitely Weeks Before Launch, Pre-Orders Refunded](https://kotaku.com/prison-architect-2-delayed-canceled-pre-orders-refunded-1851612415)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
