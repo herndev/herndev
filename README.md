@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [GameStop Shuts Down Game Informer, The Longest-Running Gaming Magazine In The US [Update]](https://kotaku.com/game-informer-gamestop-meme-stock-gme-last-issue-1851611973)
- - [Pokémon Go ‘Adventure Week’ 2024 event guide](https://www.polygon.com/pokemon-go-guide/24212012/adventure-week-2024-event-fossil-timed-research-premium)
- - [How to complete all Salvation&#39;s Edge challenges in Destiny 2](https://www.polygon.com/destiny-2-guide-walkthrough/24209925/salvations-edge-challenges-witness-verity-title)<!-- GAME:END -->
+ - [There&#39;s a free open beta for &#39;adaption shooter&#39; Ascendant on Steam this weekend](https://www.pcgamer.com/games/fps/theres-a-free-open-beta-for-adaption-shooter-ascendant-on-steam-this-weekend)
+ - [Bloomburrow brings a menagerie of woodland creatures to MTG — here’s where you can buy the new set](https://www.polygon.com/24190175/bloomburrow-magic-the-gathering-pre-order-expansion)
+ - [Fortnite: How To Complete The Seventh Set Of Pirate Code Quests](https://kotaku.com/fortnite-pirates-caribbean-cursed-sails-quests-1851612203)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
