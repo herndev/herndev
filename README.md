@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle answer for Friday, August 2](https://www.pcgamer.com/games/puzzle/wordle-answer-today-August-2-2024)
  - [Once Human patch speeds up motorcycles and makes respeccing easier](https://www.pcgamer.com/games/survival-crafting/once-human-august-2024-patch)
- - [Blizzard could&#39;ve let Diablo 4&#39;s weakest classes ride it out until the expansion, but it&#39;s showering them in buffs for season 5 instead](https://www.pcgamer.com/games/rpg/blizzard-couldve-let-diablo-4s-weakest-classes-ride-it-out-until-the-expansion-but-its-showering-them-in-buffs-for-season-5-instead)
- - [Intel is laying off 15,000 people: &#39;We are making some of the most consequential changes in our company&#39;s history&#39;](https://www.pcgamer.com/hardware/processors/intel-is-laying-off-15000-people-we-are-making-some-of-the-most-consequential-changes-in-our-companys-history)<!-- GAME:END -->
+ - [Blizzard could&#39;ve let Diablo 4&#39;s weakest classes ride it out until the expansion, but it&#39;s showering them in buffs for season 5 instead](https://www.pcgamer.com/games/rpg/blizzard-couldve-let-diablo-4s-weakest-classes-ride-it-out-until-the-expansion-but-its-showering-them-in-buffs-for-season-5-instead)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
