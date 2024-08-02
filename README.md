@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Deals: Apple&#39;s loaded M3 MacBook Air with 24GB RAM, 1TB SSD is on sale for $1,749](https://appleinsider.com/articles/24/08/02/deals-apples-loaded-m3-macbook-air-with-24gb-ram-1tb-ssd-is-on-sale-for-1749?utm_medium=rss)
- - [Moto Tag officially goes on sale, gives Android users the closest thing to the Air Tag](https://www.androidauthority.com/moto-tag-on-sale-3467573/)
- - [Sensitive Illinois Voter Data Exposed by Contractor&#39;s Unsecured Databases](https://www.wired.com/story/illinois-voter-databases-exposed/)<!-- TECH:END -->
+ - [The Pixel 8 Pro has hit an all-time low ahead of Google’s next hardware event](https://www.theverge.com/2024/8/2/24211397/google-pixel-8-pro-ue-wonderboom-4-bluetooth-speaker-deal-sale)
+ - [The US DOJ sues TikTok, saying it collected children&#39;s data without parents&#39; permission, knowingly let users under the age of 13 create accounts, and more &lpar;New York Times&rpar;](http://www.techmeme.com/240802/p17#a240802p17)
+ - [How to turn off Home Switching in the iOS 17.6 Home app](https://appleinsider.com/inside/homekit/tips/how-to-turn-off-home-switching-in-the-ios-176-home-app?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
