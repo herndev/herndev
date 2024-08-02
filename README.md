@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Fortnite: How To Complete The Sixth Set Of Pirate Code Quests](https://kotaku.com/fortnite-pirates-caribbean-cursed-sails-quests-1851611842)
- - [Intel CPU crashes: what you need to know—microcode to blame but fix incoming this month, alongside two-year extended warranty](https://www.pcgamer.com/hardware/processors/intel-cpu-crashes-what-you-need-to-knowmicrocode-to-blame-but-fix-incoming-this-month-alongside-two-year-extended-warranty)
- - [Nintendo Plans To Sell Over 10 Million More Switches But No One Knows How](https://kotaku.com/nintendo-switch-limited-edition-zelda-echoes-sales-1851611733)<!-- GAME:END -->
+ - [Valorant Console Out Now – and We’re Just Getting Started](https://news.xbox.com/en-us/2024/08/02/valorant-console-xbox-out-now/)
+ - [Share of the Week: Games Within Games](https://blog.playstation.com/2024/08/02/share-of-the-week-games-within-games/)
+ - [GameStop Shuts Down Game Informer, The Longest-Running Gaming Magazine In The US](https://kotaku.com/game-informer-gamestop-meme-stock-gme-last-issue-1851611973)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
