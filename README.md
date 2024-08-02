@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Valorant Console Out Now – and We’re Just Getting Started](https://news.xbox.com/en-us/2024/08/02/valorant-console-xbox-out-now/)
- - [Share of the Week: Games Within Games](https://blog.playstation.com/2024/08/02/share-of-the-week-games-within-games/)
- - [GameStop Shuts Down Game Informer, The Longest-Running Gaming Magazine In The US](https://kotaku.com/game-informer-gamestop-meme-stock-gme-last-issue-1851611973)<!-- GAME:END -->
+ - [The best ROM hack website is shutting down after nearly 20 years](https://www.polygon.com/24211944/romhacking-net-closure-internet-archive-downloads)
+ - [Gravity Falls creator on returning to his ‘little bastard’ of a character](https://www.polygon.com/24211450/alex-hirsch-gravity-falls-bill-cipher-book)
+ - [How To Finish Fortnite’s Quests For Chapter 5, Season 3, Week 10](https://kotaku.com/fortnite-chapter-5-season-3-week-10-quests-tips-1851612092)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
