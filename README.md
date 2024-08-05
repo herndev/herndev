@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [&#39;Our 33-year legacy deserves a genuine goodbye&#39;: Game Informer staff tweets one last goodbye after all of their work was deleted, then GameStop nukes the account from orbit](https://www.pcgamer.com/gaming-industry/our-33-year-legacy-deserves-a-genuine-goodbye-game-informer-staff-tweets-one-last-goodbye-after-all-of-their-work-was-deleted-then-gamestop-nukes-the-account-from-orbit)
- - [All the House of the Dragon season 3 news we’ve heard so far](https://www.polygon.com/24212021/house-of-the-dragon-season-3-release-date-cast-news)
- - [The House of the Dragon season 2 finale is Westeros at its best and worst](https://www.polygon.com/24213814/house-dragon-season-2-finale-review-episode-8)<!-- GAME:END -->
+ - [Fallout: New Vegas director on the art of making sure all your points in persuasion aren&#39;t wasted: It&#39;s &#39;all about feelings … but you use numbers to arrive at that feeling&#39;](https://www.pcgamer.com/games/rpg/fallout-new-vegas-director-on-the-art-of-making-sure-all-your-points-in-persuasion-arent-wasted-its-all-about-feelings-but-you-use-numbers-to-arrive-at-that-feeling)
+ - [The newest Helldivers 2 mission has a twist: less murder, not more](https://www.polygon.com/24213984/helldivers-2-major-order-anti-tank-mines-stratagem)
+ - [2024’s Best Tactical RPG Is A Steal During PlayStation’s Summer Sale](https://kotaku.com/unicorn-overlord-playstation-summer-sale-tactical-rpg-1851613682)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
