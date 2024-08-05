@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Devs turn to Patreon after Humble Games collapse leaves studio without support: &#39;We lost access to the pipeline of critical systems without warning&#39;](https://www.pcgamer.com/games/action/devs-turn-to-patreon-after-humble-games-collapse-leaves-studio-without-support-we-lost-access-to-the-pipeline-of-critical-systems-without-warning)
- - [This 3D printed laser chip-hacking device uses a $20 laser pointer, costs $500 to build, and was developed so that &#39;people can do this in their homes&#39;](https://www.pcgamer.com/hardware/this-3d-printed-laser-chip-hacking-device-uses-a-dollar20-laser-pointer-costs-dollar500-to-build-and-was-developed-so-that-people-can-do-this-in-their-homes)
- - [Sega files mysterious &#39;Yakuza Wars&#39; trademark right after Like A Dragon studio teases fans that the next game will leave them &#39;surprised&#39;](https://www.pcgamer.com/games/rpg/sega-files-mysterious-yakuza-wars-trademark-right-after-like-a-dragon-studio-teases-fans-that-the-next-game-will-leave-them-surprised)<!-- GAME:END -->
+ - [The best sci-fi movies of the year so far](https://www.polygon.com/24210391/best-sci-fi-movies-2024-watch)
+ - [Workstation builder Puget Systems&#39; report shows the stability problems with Intel&#39;s CPUs can be managed if only you &#39;mistrust the default settings on any motherboard&#39;](https://www.pcgamer.com/hardware/processors/workstation-builder-puget-systems-report-shows-the-stability-problems-with-intels-cpus-can-be-managed-if-only-you-mistrust-the-default-settings-on-any-motherboard)
+ - [Devs turn to Patreon after Humble Games collapse leaves studio without support: &#39;We lost access to the pipeline of critical systems without warning&#39;](https://www.pcgamer.com/games/action/devs-turn-to-patreon-after-humble-games-collapse-leaves-studio-without-support-we-lost-access-to-the-pipeline-of-critical-systems-without-warning)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
