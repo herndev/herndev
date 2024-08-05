@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Cygni: All Guns Blazing](https://www.pcgamer.com/games/action/cygni-all-guns-blazing)
- - [Kick back by the pool with a half price RTX 4080 GeForce NOW subscription this summer](https://www.pcgamer.com/geforce-now-summer-sale-half-price)
- - [A codenamed Valve project found in a voice actor&#39;s résumé has Half-Life fans putting on the clown makeup yet again](https://www.pcgamer.com/games/fps/a-codenamed-valve-project-found-in-a-voice-actors-resume-has-half-life-fans-putting-on-the-clown-makeup-yet-again)<!-- GAME:END -->
+ - [A new Darksiders game is in development: &#39;The Four Horsemen will ride again&#39;](https://www.pcgamer.com/games/action/a-new-darksiders-game-is-in-development-the-four-horsemen-will-ride-again)
+ - [Steam&#39;s favourite GPU, the RTX 3060, is nearing its end as Nvidia gets ready to issue the last batch of chips](https://www.pcgamer.com/hardware/graphics-cards/steams-favourite-gpu-the-rtx-3060-is-nearing-its-end-as-nvidia-gets-ready-to-issue-the-last-batch-of-chips)
+ - [Cygni: All Guns Blazing](https://www.pcgamer.com/games/action/cygni-all-guns-blazing)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
