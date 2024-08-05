@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Energetic policewomen](http://9gag.com/gag/aryOmpB)
- - ⏩ [A giant play button in the middle of London.](http://9gag.com/gag/a347RnN)
- - 👉 [Arwen Und\u00f3miel in \u2153 scale](http://9gag.com/gag/aMVwKDx)<!-- MEMES:END -->
+ - 💣 [The anti-white racism of the regime on full display](http://9gag.com/gag/aVvDbj8)
+ - ⏩ [Yusuf Dikec](http://9gag.com/gag/aqyrnQL)
+ - 👉 [No comment, see comments](http://9gag.com/gag/aKG2EyZ)<!-- MEMES:END -->
 
 ---
 
