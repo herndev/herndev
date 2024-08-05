@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [First Teaser For The Last Of Us Season Two Puts Joel In Therapy](https://kotaku.com/last-of-us-season-two-hbo-max-joel-catherine-o-hara-1851612956)
- - [Five new Steam games you probably missed &lpar;August 5, 2024&rpar;](https://www.pcgamer.com/software/platforms/five-new-steam-games-you-probably-missed-august-5-2024)
- - [House of the Dragon star Kieran Bew wanted to look like his dragon](https://www.polygon.com/24212224/house-dragon-hugh-hammer-vermithor-interview-episode)<!-- GAME:END -->
+ - [All your House of the Dragon season 2 finale questions, answered](https://www.polygon.com/24212244/house-dragon-season-2-finale-questions)
+ - [All the House of the Dragon season 3 news we’ve heard so far](https://www.polygon.com/24212021/house-of-the-dragon-season-3-release-date-cast-news)
+ - [Go-Go Town is a miniature city builder where everything is hands-on and every animation is adorable](https://www.pcgamer.com/games/city-builder/go-go-town-is-a-miniature-city-builder-where-everything-is-hands-on-and-every-animation-is-adorable)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
