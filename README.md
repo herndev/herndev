@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [LOL](http://9gag.com/gag/aPAM7Vw)
- - ⏩ [A voice that can make eargasm? No, its the drum](http://9gag.com/gag/aBywgV2)
- - 👉 [Powerful](http://9gag.com/gag/aoy2MAe)<!-- MEMES:END -->
+ - 💣 [It is the East, and Juliet is the sun!](http://9gag.com/gag/a2vdZq9)
+ - ⏩ [Half Half](http://9gag.com/gag/a87pGXe)
+ - 👉 [For me is a combination of admiration and their physique](http://9gag.com/gag/aoy25e3)<!-- MEMES:END -->
 
 ---
 
