@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Pairing Android with Windows File Explorer is the feature I didn’t know I badly needed](https://www.androidauthority.com/android-windows-file-explorer-3467450/)
- - [Apple could spice up the next Mac upgrade with more than just an M4 chip](https://www.androidauthority.com/next-mac-upgrade-more-than-m4-3467951/)
- - [Savvy Wealth, a digital wealth management service for financial advisors and clients, raised a $26.5M Series A led by Canvas, taking its total funding to $33M &lpar;Allie Garfinkle/Fortune&rpar;](http://www.techmeme.com/240805/p22#a240805p22)<!-- TECH:END -->
+ - [I saved $100s building my own NAS home server](https://www.androidauthority.com/cheap-diy-nas-server-3348392/)
+ - [Lenovo may have leaked a smaller Legion Go gaming handheld months ago](https://www.theverge.com/2024/8/5/24213665/lenovo-legion-go-s-lite-leak-faq-7-inch)
+ - [Google TV Streamer could be a pricey upgrade](https://www.androidauthority.com/google-tv-streamer-price-and-color-3467958/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
