@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [All the dragons in House of the Dragon](https://www.polygon.com/23381183/house-dragon-all-dragons-riders-vhagar)
  - [All your House of the Dragon season 2 finale questions, answered](https://www.polygon.com/24212244/house-dragon-season-2-finale-questions)
- - [All the House of the Dragon season 3 news we’ve heard so far](https://www.polygon.com/24212021/house-of-the-dragon-season-3-release-date-cast-news)
- - [Go-Go Town is a miniature city builder where everything is hands-on and every animation is adorable](https://www.pcgamer.com/games/city-builder/go-go-town-is-a-miniature-city-builder-where-everything-is-hands-on-and-every-animation-is-adorable)<!-- GAME:END -->
+ - [All the House of the Dragon season 3 news we’ve heard so far](https://www.polygon.com/24212021/house-of-the-dragon-season-3-release-date-cast-news)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
