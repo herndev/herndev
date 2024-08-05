@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Energetic policewomen](http://9gag.com/gag/aryOmpB)
- - ⏩ [My fellow coomer... I keep bust the nuts on this...](http://9gag.com/gag/aLnMjd5)
- - 👉 [Remember when bumpers used to actually do something?](http://9gag.com/gag/aRBKryq)<!-- MEMES:END -->
+ - 💣 [Wait, Whaaaat?!](http://9gag.com/gag/a7oZEWb)
+ - ⏩ [He didn&#39;t greet](http://9gag.com/gag/aAywgoL)
+ - 👉 [Muslim gangs , is that real german gov ?](http://9gag.com/gag/aMVw4BG)<!-- MEMES:END -->
 
 ---
 
