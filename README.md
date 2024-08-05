@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Wait, Whaaaat?!](http://9gag.com/gag/a7oZEWb)
- - ⏩ [He didn&#39;t greet](http://9gag.com/gag/aAywgoL)
- - 👉 [Muslim gangs , is that real german gov ?](http://9gag.com/gag/aMVw4BG)<!-- MEMES:END -->
+ - 💣 [The One piece here I come](http://9gag.com/gag/aByw0bP)
+ - ⏩ [Suddenly he dont want to fck around anymore](http://9gag.com/gag/aAywebZ)
+ - 👉 [You cannot control what happens to you, but you can control your attitude toward what happens to you, and in that, you will be mastering change rather than allowing it to master you.](http://9gag.com/gag/a4PZEjZ)<!-- MEMES:END -->
 
 ---
 
