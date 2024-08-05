@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Ignorance is bliss until reality hits you with a sledgehammer](http://9gag.com/gag/aGy0zZX)
- - ⏩ [The dildo of consequences rarely arrives lubed](http://9gag.com/gag/abA6MAL)
- - 👉 [Suddenly he dont want to fck around anymore](http://9gag.com/gag/aAywebZ)<!-- MEMES:END -->
+ - 💣 [Sweden&#39;s Truls M\u00f6reg\u00e5rdh pulls off a snake shot in table tennis at the Olympics final](http://9gag.com/gag/azxrM8m)
+ - ⏩ [Go Dave!](http://9gag.com/gag/aPAM7Eq)
+ - 👉 [Relevant](http://9gag.com/gag/ajPqmz8)<!-- MEMES:END -->
 
 ---
 
