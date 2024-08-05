@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google’s new 45W charger for the Pixel 9 series leaks again, and that port placement is horrible](https://www.androidauthority.com/google-new-45w-charger-leaks-again-3467903/)
- - [An interview with Mark Zuckerberg on laughing at the memes about him, rebranding Facebook as Meta, learning from the mobile era, Llama, his hobbies, and more &lpar;Bloomberg&rpar;](http://www.techmeme.com/240805/p13#a240805p13)
- - [ISS astronauts can watch &#39;Ted Lasso&#39; and &#39;For All Mankind&#39; in space](https://appleinsider.com/articles/24/08/05/iss-astronauts-can-watch-ted-lasso-and-for-all-mankind-in-space?utm_medium=rss)<!-- TECH:END -->
+ - [Zoom Is Going After Google and Microsoft With AI-Driven Docs](https://www.wired.com/story/zoom-is-going-after-google-and-microsoft-with-ai-driven-docs/)
+ - [Samsung Galaxy Watch 7 review: tried and true](https://www.theverge.com/24211888/samsung-galaxy-watch-7-review-smartwatch-wearables)
+ - [Max’s new homepage personalization tech makes viewers stick around, says exec](https://www.theverge.com/2024/8/5/24210825/max-personalized-homepage-viewers-watch-more)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
