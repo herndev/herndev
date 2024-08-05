@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [It is the East, and Juliet is the sun!](http://9gag.com/gag/a2vdZq9)
- - ⏩ [Half Half](http://9gag.com/gag/a87pGXe)
- - 👉 [For me is a combination of admiration and their physique](http://9gag.com/gag/aoy25e3)<!-- MEMES:END -->
+ - 💣 [Kimiko once said:](http://9gag.com/gag/aW48YRZ)
+ - ⏩ [No good woman](http://9gag.com/gag/axyg1Lb)
+ - 👉 [Suddenly he dont want to fck around anymore](http://9gag.com/gag/aAywebZ)<!-- MEMES:END -->
 
 ---
 
