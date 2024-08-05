@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [British Riot police circa 2024](http://9gag.com/gag/aGy0Edz)
- - ⏩ [Facts and statistics are now considered a crime in Europe](http://9gag.com/gag/aKG2mxQ)
- - 👉 [A real chad.](http://9gag.com/gag/aZZBr26)<!-- MEMES:END -->
+ - 💣 [Energetic policewomen](http://9gag.com/gag/aryOmpB)
+ - ⏩ [A giant play button in the middle of London.](http://9gag.com/gag/a347RnN)
+ - 👉 [Arwen Und\u00f3miel in \u2153 scale](http://9gag.com/gag/aMVwKDx)<!-- MEMES:END -->
 
 ---
 
