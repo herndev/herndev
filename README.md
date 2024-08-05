@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Age old Question](http://9gag.com/gag/aNDdWGG)
- - ⏩ [Oh not those onions again...](http://9gag.com/gag/avyrPNE)
- - 👉 [#IStandWithAngelaCarini](http://9gag.com/gag/aYQKwvN)<!-- MEMES:END -->
+ - 💣 [If you cant win, at least lose with style](http://9gag.com/gag/aD2j46G)
+ - ⏩ [Here&#39;s ma stick mother trucker&#39;s](http://9gag.com/gag/aLnMwZ6)
+ - 👉 [New GTA 6](http://9gag.com/gag/ayNLeM8)<!-- MEMES:END -->
 
 ---
 
