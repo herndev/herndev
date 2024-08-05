@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Fallout: New Vegas director on the art of making sure all your points in persuasion aren&#39;t wasted: It&#39;s &#39;all about feelings … but you use numbers to arrive at that feeling&#39;](https://www.pcgamer.com/games/rpg/fallout-new-vegas-director-on-the-art-of-making-sure-all-your-points-in-persuasion-arent-wasted-its-all-about-feelings-but-you-use-numbers-to-arrive-at-that-feeling)
- - [The newest Helldivers 2 mission has a twist: less murder, not more](https://www.polygon.com/24213984/helldivers-2-major-order-anti-tank-mines-stratagem)
- - [2024’s Best Tactical RPG Is A Steal During PlayStation’s Summer Sale](https://kotaku.com/unicorn-overlord-playstation-summer-sale-tactical-rpg-1851613682)<!-- GAME:END -->
+ - [How To Get Union Power Armor In Fallout 76](https://kotaku.com/fallout-76-union-power-armor-expedition-the-pitt-1851613655)
+ - [Sad News, Roblox Has Come For Beetlejuice](https://kotaku.com/beetlejuice-2-sequel-movie-roblox-game-trailer-pc-ps5-1851613717)
+ - [Monster Hunter Wilds Gets Three New Trailers And Fans Love The Minimap](https://kotaku.com/monster-hunter-wilds-trailer-scoutflies-classes-minimap-1851613731)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
