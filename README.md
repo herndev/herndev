@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Sweden&#39;s Truls M\u00f6reg\u00e5rdh pulls off a snake shot in table tennis at the Olympics final](http://9gag.com/gag/azxrM8m)
- - ⏩ [Go Dave!](http://9gag.com/gag/aPAM7Eq)
- - 👉 [Relevant](http://9gag.com/gag/ajPqmz8)<!-- MEMES:END -->
+ - 💣 [Energetic policewomen](http://9gag.com/gag/aryOmpB)
+ - ⏩ [My fellow coomer... I keep bust the nuts on this...](http://9gag.com/gag/aLnMjd5)
+ - 👉 [Remember when bumpers used to actually do something?](http://9gag.com/gag/aRBKryq)<!-- MEMES:END -->
 
 ---
 
