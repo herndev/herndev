@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Android 15 could minimize heads-up notifications when you’re watching videos](https://www.androidauthority.com/android-15-compact-heads-up-notifications-3468061/)
- - [Star Wars: Skeleton Crew release date, plot, and other rumors](https://www.androidauthority.com/star-wars-skeleton-crew-release-date-3468059/)
- - [Sources: Nvidia scraped sources like Netflix and YouTube to train an unreleased foundational model; concerned staff were told they had full clearance to do so &lpar;Samantha Cole/404 Media&rpar;](http://www.techmeme.com/240805/p24#a240805p24)<!-- TECH:END -->
+ - [Illinois governor signs a bill amending Biometric Information Privacy Act to significantly curb the penalties for improperly collecting and using biometric data &lpar;Daniel Wiessner/Reuters&rpar;](http://www.techmeme.com/240805/p27#a240805p27)
+ - [The architect of the initial European Commission proposal behind the EU AI Act says its reach ended up being too broad and it may entrench big US tech companies &lpar;Lionel Laurent/Bloomberg&rpar;](http://www.techmeme.com/240805/p28#a240805p28)
+ - [Safari&#39;s Distraction Control will obliterate annoying website elements](https://appleinsider.com/articles/24/08/05/safaris-distraction-control-will-obliterate-annoying-website-elements?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
