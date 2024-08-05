@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Crusader Kings 3 is, unexpectedly, the latest videogame to receive an official comic book](https://www.pcgamer.com/games/strategy/crusader-kings-3-is-unexpectedly-the-latest-videogame-to-receive-an-official-comic-book)
- - [Support Dallas Pets Alive! at QuakeCon with These Paw-some Bethesda T-Shirts](https://shop.dallaspetsalive.org/collections/quakecon-2024#new_tab)
- - [Fortnite: How To Complete The Eighth &lpar;And Final&rpar; Set Of Pirate Code Quests](https://kotaku.com/fortnite-pirates-caribbean-cursed-sails-battle-pass-1851613379)<!-- GAME:END -->
+ - [House of the Dragon Episode 8 Recap: A Son For A Son](https://kotaku.com/house-of-the-dragon-episode-8-recap-review-1851613431)
+ - [Diablo 4 players finally unearth a secret ring they&#39;ve been looking for since it launched over a year ago—and it&#39;s utter trash](https://www.pcgamer.com/games/rpg/diablo-4-players-finally-unearth-the-secret-ring-theyve-been-looking-for-since-it-launched-over-a-year-agoand-its-utter-trash)
+ - [Deadpool &amp; Wolverine: 8 Great Comics To Read After Seeing The Movie](https://kotaku.com/wolverine-deadpool-mcu-marvel-recommended-comics-1851613406)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
