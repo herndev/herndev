@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Zoom Is Going After Google and Microsoft With AI-Driven Docs](https://www.wired.com/story/zoom-is-going-after-google-and-microsoft-with-ai-driven-docs/)
- - [Samsung Galaxy Watch 7 review: tried and true](https://www.theverge.com/24211888/samsung-galaxy-watch-7-review-smartwatch-wearables)
- - [Max’s new homepage personalization tech makes viewers stick around, says exec](https://www.theverge.com/2024/8/5/24210825/max-personalized-homepage-viewers-watch-more)<!-- TECH:END -->
+ - [Exclusive: Google Pixel 9 has a new weather app, here’s what it looks like](https://www.androidauthority.com/google-pixel-9-weather-app-3467819/)
+ - [Booking CEO Glenn Fogel wants you to take out your travel frustrations on AI chatbots](https://www.theverge.com/24212137/booking-ceo-glenn-fogel-priceline-kayak-travel-ai-chatbots-decoder-podcast-interview)
+ - [Investor letter: Elliott Management says megacap tech stocks, particularly Nvidia, were in &quot;bubble land&quot;, and AI is &quot;overhyped&quot; and &quot;not ready for prime time&quot; &lpar;Financial Times&rpar;](http://www.techmeme.com/240805/p19#a240805p19)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
