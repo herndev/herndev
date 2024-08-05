@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Trying to express myself multiple times. Nothing ever changes](http://9gag.com/gag/aPAM7GV)
- - ⏩ [UK officer tells Sharia gang members to how to avoid getting arrested `if there&#39;s any weapon just hide them in a mosque`](http://9gag.com/gag/a4PZ1jw)
- - 👉 [Alternative realities](http://9gag.com/gag/aD2jdqx)<!-- MEMES:END -->
+ - 💣 [Imagine losing the Olympic gold because of your huge dick](http://9gag.com/gag/aAywxz9)
+ - ⏩ [Wtf is going on](http://9gag.com/gag/aVvD3w8)
+ - 👉 [Ignorance is bliss until reality hits you with a sledgehammer](http://9gag.com/gag/aGy0zZX)<!-- MEMES:END -->
 
 ---
 
