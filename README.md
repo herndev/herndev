@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [A new Darksiders game is in development: &#39;The Four Horsemen will ride again&#39;](https://www.pcgamer.com/games/action/a-new-darksiders-game-is-in-development-the-four-horsemen-will-ride-again)
- - [Steam&#39;s favourite GPU, the RTX 3060, is nearing its end as Nvidia gets ready to issue the last batch of chips](https://www.pcgamer.com/hardware/graphics-cards/steams-favourite-gpu-the-rtx-3060-is-nearing-its-end-as-nvidia-gets-ready-to-issue-the-last-batch-of-chips)
- - [Cygni: All Guns Blazing](https://www.pcgamer.com/games/action/cygni-all-guns-blazing)<!-- GAME:END -->
+ - [Devs turn to Patreon after Humble Games collapse leaves studio without support: &#39;We lost access to the pipeline of critical systems without warning&#39;](https://www.pcgamer.com/games/action/devs-turn-to-patreon-after-humble-games-collapse-leaves-studio-without-support-we-lost-access-to-the-pipeline-of-critical-systems-without-warning)
+ - [This 3D printed laser chip-hacking device uses a $20 laser pointer, costs $500 to build, and was developed so that &#39;people can do this in their homes&#39;](https://www.pcgamer.com/hardware/this-3d-printed-laser-chip-hacking-device-uses-a-dollar20-laser-pointer-costs-dollar500-to-build-and-was-developed-so-that-people-can-do-this-in-their-homes)
+ - [Sega files mysterious &#39;Yakuza Wars&#39; trademark right after Like A Dragon studio teases fans that the next game will leave them &#39;surprised&#39;](https://www.pcgamer.com/games/rpg/sega-files-mysterious-yakuza-wars-trademark-right-after-like-a-dragon-studio-teases-fans-that-the-next-game-will-leave-them-surprised)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
