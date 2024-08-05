@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Data breach notifications show US pharmaceutical giant Cencora has notified at least 1.43M individuals that their data was compromised in a February data breach &lpar;Zack Whittaker/TechCrunch&rpar;](http://www.techmeme.com/240802/p25#a240802p25)
- - [I Tried Breville&#39;s New $2,000 Oracle Jet Espresso Machine](https://www.cnet.com/home/kitchen-and-household/breville-oracle-jet-review/#ftag=CAD590a51e)
- - [Best Floodlight Home Security Cameras of 2024](https://www.cnet.com/home/security/best-floodlight-home-security-cameras-of-2024/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Mynt, the parent company of Philippines-based e-wallet GCash, more than doubled its valuation to $5B after investments from Ayala Corp, Mitsubishi UFJ Financial &lpar;Rishav Chatterjee/Reuters&rpar;](http://www.techmeme.com/240804/p8#a240804p8)
+ - [Best Wireless Mouse for 2024](https://www.cnet.com/tech/computing/best-mouse/#ftag=CAD590a51e)
+ - [The 5 Best Heating Pads in 2024](https://www.cnet.com/health/the-best-heating-pads-according-the-cnet-staff-that-use-them/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
