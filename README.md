@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Fast Pair will make it easier to connect Bluetooth keyboards to your Chromebook or Android tablet](https://www.androidauthority.com/fast-pair-bluetooth-keyboards-chromebook-android-3467596/)
- - [A look at Operation Intering, an FBI-led sabotage campaign in the 1980s to secretly ship millions worth of faulty chips to the Soviet Bloc &lpar;Zach Dorfman/Politico&rpar;](http://www.techmeme.com/240805/p1#a240805p1)
- - [Today&#39;s NYT Mini Crossword Answers for Aug. 5](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-august-5/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Here’s when the iPhone 16 could launch, following Apple Intelligence’s delay](https://www.androidauthority.com/when-iphone-16-could-launch-3467841/)
+ - [Music streaming has exited its high-growth era, as big streaming services pick up fewer new subscribers, causing revenue shortfalls for music labels &lpar;Lucas Shaw/Bloomberg&rpar;](http://www.techmeme.com/240805/p2#a240805p2)
+ - [Fast Pair will make it easier to connect Bluetooth keyboards to your Chromebook or Android tablet](https://www.androidauthority.com/fast-pair-bluetooth-keyboards-chromebook-android-3467596/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
