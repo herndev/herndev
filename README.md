@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Judge rules Google is a search and advertising monopoly](https://appleinsider.com/articles/24/08/05/judge-rules-that-google-is-a-search-and-advertising-monopoly?utm_medium=rss)
- - [Google Search Is an Illegal Monopoly, US Judge Rules](https://www.wired.com/story/google-search-antitrust-monopoly-ruling/)
- - [In a new developer beta for iOS, iPadOS, and macOS, Safari gets Distraction Control, which lets users block distracting elements on the page like pop-ups &lpar;Cherlynn Low/Engadget&rpar;](http://www.techmeme.com/240805/p32#a240805p32)<!-- TECH:END -->
+ - [OpenAI says it&#39;s changing the format of its DevDay conference this fall to a series of on-the-road developer sessions and GPT-5 will not be announced during it &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240805/p37#a240805p37)
+ - [Lumen, which sells data center networking and security products, says it secured new deals worth $5B from tech companies amid AI surge; LUMN up 35%+ after hours &lpar;Harshita Mary Varghese/Reuters&rpar;](http://www.techmeme.com/240805/p36#a240805p36)
+ - [Google Search widget is getting more colorful but less customizable](https://www.androidauthority.com/google-search-widget-redesign-3468123/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
