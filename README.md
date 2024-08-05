@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [That was just 1 meter away from...](http://9gag.com/gag/aLnM0og)
- - ⏩ [A giant play button in the middle of London.](http://9gag.com/gag/a347RnN)
- - 👉 [He didn&#39;t greet](http://9gag.com/gag/aAywgoL)<!-- MEMES:END -->
+ - 💣 [Aleksandra Miroslaw twice breaks sport climbing world record](http://9gag.com/gag/aXPAnng)
+ - ⏩ [Energetic policewomen](http://9gag.com/gag/aryOmpB)
+ - 👉 [They did it AGAIN](http://9gag.com/gag/aKG2mG1)<!-- MEMES:END -->
 
 ---
 
