@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Despite a weak earnings report, corporations are still buying from Intel, which continues to dominate market share for non-AI computing workloads on servers &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240804/p9#a240804p9)
- - [OpenAI won’t watermark ChatGPT text because its users could get caught](https://www.theverge.com/2024/8/4/24213268/openai-chatgpt-text-watermark-cheat-detection-tool)
- - [Best Earplugs to Prevent Hearing Loss for 2024](https://www.cnet.com/health/medical/best-earplugs-to-prevent-hearing-loss/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Android 15 is supposed to force apps to go edge-to-edge, but Google quietly added a way to opt out](https://www.androidauthority.com/android-15-edge-to-edge-opt-out-3467646/)
+ - [Sources: the US Dept. of Commerce plans to propose barring Chinese software in autonomous vehicles and some Chinese wireless communications hardware in US cars &lpar;David Shepardson/Reuters&rpar;](http://www.techmeme.com/240804/p10#a240804p10)
+ - [Today&#39;s NYT Connections Hints, Answers and Help for Aug. 5, #421](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-august-5-421/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
