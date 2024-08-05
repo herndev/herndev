@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung Galaxy Z Fold 6 Slim rumors: Everything we know so far and what we want to see](https://www.androidauthority.com/samsung-galaxy-z-fold-6-slim-3463278/)
- - [The EU Commission says TikTok agreed to permanently withdraw TikTok Lite&#39;s &quot;Reward programme&quot; in the EU to comply with the DSA and not launch a similar program &lpar;Bart Meijer/Reuters&rpar;](http://www.techmeme.com/240805/p9#a240805p9)
- - [Apple Intelligence is falling for phishing emails, and that could cost iPhone users](https://www.androidauthority.com/apple-intelligence-falling-for-phishing-emails-3467871/)<!-- TECH:END -->
+ - [Google’s new 45W charger for the Pixel 9 series leaks again, and that port placement is horrible](https://www.androidauthority.com/google-new-45w-charger-leaks-again-3467903/)
+ - [An interview with Mark Zuckerberg on laughing at the memes about him, rebranding Facebook as Meta, learning from the mobile era, Llama, his hobbies, and more &lpar;Bloomberg&rpar;](http://www.techmeme.com/240805/p13#a240805p13)
+ - [ISS astronauts can watch &#39;Ted Lasso&#39; and &#39;For All Mankind&#39; in space](https://appleinsider.com/articles/24/08/05/iss-astronauts-can-watch-ted-lasso-and-for-all-mankind-in-space?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
