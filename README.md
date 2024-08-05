@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Imagine losing the Olympic gold because of your huge dick](http://9gag.com/gag/aAywxz9)
- - ⏩ [Wtf is going on](http://9gag.com/gag/aVvD3w8)
- - 👉 [Ignorance is bliss until reality hits you with a sledgehammer](http://9gag.com/gag/aGy0zZX)<!-- MEMES:END -->
+ - 💣 [Ignorance is bliss until reality hits you with a sledgehammer](http://9gag.com/gag/aGy0zZX)
+ - ⏩ [The dildo of consequences rarely arrives lubed](http://9gag.com/gag/abA6MAL)
+ - 👉 [Suddenly he dont want to fck around anymore](http://9gag.com/gag/aAywebZ)<!-- MEMES:END -->
 
 ---
 
