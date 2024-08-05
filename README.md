@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Legend of Zelda: Echoes of Wisdom is full of references to other Zelda games](https://www.polygon.com/zelda/24213626/legend-of-zelda-echoes-of-wisdom-references-other-zelda-games)
- - [Humble Bundle’s latest deal offers 90% off digital board game essentials](https://www.polygon.com/24213616/digital-board-games-humble-bundle-sale)
- - [World of Warcraft dev says the game&#39;s 500-strong union, spurred on by 2021 controversies, has been aided by the move to Microsoft](https://www.pcgamer.com/gaming-industry/world-of-warcraft-dev-says-the-game-s-500-strong-union-spurred-on-by-2021-controversies-has-been-aided-by-the-move-to-microsoft)<!-- GAME:END -->
+ - [Crusader Kings 3 is, unexpectedly, the latest videogame to receive an official comic book](https://www.pcgamer.com/games/strategy/crusader-kings-3-is-unexpectedly-the-latest-videogame-to-receive-an-official-comic-book)
+ - [Support Dallas Pets Alive! at QuakeCon with These Paw-some Bethesda T-Shirts](https://shop.dallaspetsalive.org/collections/quakecon-2024#new_tab)
+ - [Fortnite: How To Complete The Eighth &lpar;And Final&rpar; Set Of Pirate Code Quests](https://kotaku.com/fortnite-pirates-caribbean-cursed-sails-battle-pass-1851613379)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
