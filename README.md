@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The best sci-fi movies of the year so far](https://www.polygon.com/24210391/best-sci-fi-movies-2024-watch)
- - [Workstation builder Puget Systems&#39; report shows the stability problems with Intel&#39;s CPUs can be managed if only you &#39;mistrust the default settings on any motherboard&#39;](https://www.pcgamer.com/hardware/processors/workstation-builder-puget-systems-report-shows-the-stability-problems-with-intels-cpus-can-be-managed-if-only-you-mistrust-the-default-settings-on-any-motherboard)
- - [Devs turn to Patreon after Humble Games collapse leaves studio without support: &#39;We lost access to the pipeline of critical systems without warning&#39;](https://www.pcgamer.com/games/action/devs-turn-to-patreon-after-humble-games-collapse-leaves-studio-without-support-we-lost-access-to-the-pipeline-of-critical-systems-without-warning)<!-- GAME:END -->
+ - [Microsoft, Meta and more might have to wait for their shiny new AI hardware as Nvidia&#39;s Blackwell server GPUs are reportedly delayed](https://www.pcgamer.com/hardware/graphics-cards/microsoft-meta-and-more-might-have-to-wait-for-their-shiny-new-ai-hardware-as-nvidias-blackwell-server-gpus-are-reportedly-delayed)
+ - [New Zelda: Echoes of Wisdom trailer reveals the cutest dang horses](https://www.polygon.com/24213605/legend-of-zelda-echoes-of-wisdom-abilities-horse)
+ - [New Zelda: Echoes Of Wisdom Trailer Proves Its World Is Anything But A Link To The Past Remix](https://kotaku.com/zelda-echoes-wisdom-nintendo-switch-trailer-horse-1851613081)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
