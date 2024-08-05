@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How To Get Union Power Armor In Fallout 76](https://kotaku.com/fallout-76-union-power-armor-expedition-the-pitt-1851613655)
- - [Sad News, Roblox Has Come For Beetlejuice](https://kotaku.com/beetlejuice-2-sequel-movie-roblox-game-trailer-pc-ps5-1851613717)
- - [Monster Hunter Wilds Gets Three New Trailers And Fans Love The Minimap](https://kotaku.com/monster-hunter-wilds-trailer-scoutflies-classes-minimap-1851613731)<!-- GAME:END -->
+ - [The follow-up to Palworld could go &#39;beyond AAA&#39;, but Pocketpair&#39;s CEO only wants to pursue projects that &#39;are interesting as indie games&#39;](https://www.pcgamer.com/games/survival-crafting/the-follow-up-to-palworld-could-go-beyond-aaa-but-pocketpairs-ceo-only-wants-to-pursue-projects-that-are-interesting-as-indie-games)
+ - [Star Wars Outlaws&#39; $40 season pass comes with 2 story packs, including a run-in with Lando Calrissian later this year](https://www.pcgamer.com/games/star-wars-outlaws-40-season-pass-comes-with-2-story-packs-including-a-run-in-with-lando-calrissian-later-this-year)
+ - [Nightingale devs say they&#39;re &#39;not satisfied&#39; with the game, its reception, or its player numbers, but they&#39;ve got big improvements coming](https://www.pcgamer.com/games/survival-crafting/nightingale-devs-say-theyre-not-satisfied-with-the-game-its-reception-or-its-player-numbers-but-theyve-got-big-improvements-coming)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
