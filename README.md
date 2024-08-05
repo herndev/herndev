@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Fallen London is getting a tabletop RPG for its 15th anniversary](https://www.pcgamer.com/games/board-games/fallen-london-is-getting-a-tabletop-rpg-for-its-15th-anniversary)
- - [Payback, a Destiny spinoff that was not, in fact, Destiny 3, was cancelled two months before the latest mass layoffs at Bungie](https://www.pcgamer.com/games/fps/payback-a-destiny-spinoff-that-was-not-in-fact-destiny-3-was-cancelled-two-months-before-the-latest-mass-layoffs-at-bungie)
- - [The PC game releases we&#39;re most excited about in August](https://www.pcgamer.com/games/pc-game-releases-august-2024)<!-- GAME:END -->
+ - [House of the Dragon star Kieran Bew wanted to look like his dragon](https://www.polygon.com/24212224/house-dragon-hugh-hammer-vermithor-interview-episode)
+ - [What time does Diablo 4 season 5 start?](https://www.polygon.com/diablo-4-guides/24211784/season-5-release-time-date)
+ - [Every banned Pokémon episode and why they were pulled from TV](https://www.polygon.com/anime/24209763/every-banned-pokemon-episode)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
