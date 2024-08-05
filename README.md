@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Snake Eater’s composer on its enigmatic lyrics and staying power](https://www.polygon.com/24211372/metal-gear-solid-3-snake-eater-theme-song)
- - [When the soundtrack is better than the game, we all benefit](https://www.polygon.com/24210428/best-video-game-soundtracks)
- - [Can Fortnite make plastic instruments cool again?](https://www.polygon.com/24210043/fortnite-festival-plastic-guitars)<!-- GAME:END -->
+ - [The Legend of Zelda: Echoes of Wisdom is full of references to other Zelda games](https://www.polygon.com/zelda/24213626/legend-of-zelda-echoes-of-wisdom-references-other-zelda-games)
+ - [Humble Bundle’s latest deal offers 90% off digital board game essentials](https://www.polygon.com/24213616/digital-board-games-humble-bundle-sale)
+ - [World of Warcraft dev says the game&#39;s 500-strong union, spurred on by 2021 controversies, has been aided by the move to Microsoft](https://www.pcgamer.com/gaming-industry/world-of-warcraft-dev-says-the-game-s-500-strong-union-spurred-on-by-2021-controversies-has-been-aided-by-the-move-to-microsoft)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
