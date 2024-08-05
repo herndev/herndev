@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A look at Operation Intering, an FBI-led sabotage campaign in the 1980s to secretly ship millions worth of faulty chips to the Soviet Bloc &lpar;Zach Dorfman/Politico&rpar;](http://www.techmeme.com/240805/p1#a240805p1)
  - [Today&#39;s NYT Mini Crossword Answers for Aug. 5](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-august-5/#ftag=CAD590a51e)
- - [Android 15 is supposed to force apps to go edge-to-edge, but Google quietly added a way to opt out](https://www.androidauthority.com/android-15-edge-to-edge-opt-out-3467646/)
- - [Sources: the US Dept. of Commerce plans to propose barring Chinese software in autonomous vehicles and some Chinese wireless communications hardware in US cars &lpar;David Shepardson/Reuters&rpar;](http://www.techmeme.com/240804/p10#a240804p10)<!-- TECH:END -->
+ - [Android 15 is supposed to force apps to go edge-to-edge, but Google quietly added a way to opt out](https://www.androidauthority.com/android-15-edge-to-edge-opt-out-3467646/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
