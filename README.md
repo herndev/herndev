@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [If you cant win, at least lose with style](http://9gag.com/gag/aD2j46G)
- - ⏩ [Here&#39;s ma stick mother trucker&#39;s](http://9gag.com/gag/aLnMwZ6)
- - 👉 [New GTA 6](http://9gag.com/gag/ayNLeM8)<!-- MEMES:END -->
+ - 💣 [The One piece here I come](http://9gag.com/gag/aByw0bP)
+ - ⏩ [Spoiler alert!](http://9gag.com/gag/aGy0eE5)
+ - 👉 [Yusuf Dikec](http://9gag.com/gag/aqyrnQL)<!-- MEMES:END -->
 
 ---
 
