@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [I saved $100s building my own NAS home server](https://www.androidauthority.com/cheap-diy-nas-server-3348392/)
- - [Lenovo may have leaked a smaller Legion Go gaming handheld months ago](https://www.theverge.com/2024/8/5/24213665/lenovo-legion-go-s-lite-leak-faq-7-inch)
- - [Google TV Streamer could be a pricey upgrade](https://www.androidauthority.com/google-tv-streamer-price-and-color-3467958/)<!-- TECH:END -->
+ - [Android 15 could minimize heads-up notifications when you’re watching videos](https://www.androidauthority.com/android-15-compact-heads-up-notifications-3468061/)
+ - [Star Wars: Skeleton Crew release date, plot, and other rumors](https://www.androidauthority.com/star-wars-skeleton-crew-release-date-3468059/)
+ - [Sources: Nvidia scraped sources like Netflix and YouTube to train an unreleased foundational model; concerned staff were told they had full clearance to do so &lpar;Samantha Cole/404 Media&rpar;](http://www.techmeme.com/240805/p24#a240805p24)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
