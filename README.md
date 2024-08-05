@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Microsoft, Meta and more might have to wait for their shiny new AI hardware as Nvidia&#39;s Blackwell server GPUs are reportedly delayed](https://www.pcgamer.com/hardware/graphics-cards/microsoft-meta-and-more-might-have-to-wait-for-their-shiny-new-ai-hardware-as-nvidias-blackwell-server-gpus-are-reportedly-delayed)
- - [New Zelda: Echoes of Wisdom trailer reveals the cutest dang horses](https://www.polygon.com/24213605/legend-of-zelda-echoes-of-wisdom-abilities-horse)
- - [New Zelda: Echoes Of Wisdom Trailer Proves Its World Is Anything But A Link To The Past Remix](https://kotaku.com/zelda-echoes-wisdom-nintendo-switch-trailer-horse-1851613081)<!-- GAME:END -->
+ - [Snake Eater’s composer on its enigmatic lyrics and staying power](https://www.polygon.com/24211372/metal-gear-solid-3-snake-eater-theme-song)
+ - [When the soundtrack is better than the game, we all benefit](https://www.polygon.com/24210428/best-video-game-soundtracks)
+ - [Can Fortnite make plastic instruments cool again?](https://www.polygon.com/24210043/fortnite-festival-plastic-guitars)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
