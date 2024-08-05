@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [That was just 1 meter away from...](http://9gag.com/gag/aLnM0og)
- - ⏩ [No good woman](http://9gag.com/gag/axyg1Lb)
+ - 💣 [Imagine losing the Olympic gold because of your huge dick](http://9gag.com/gag/aAywxz9)
+ - ⏩ [He didn&#39;t greet](http://9gag.com/gag/aAywgoL)
  - 👉 [Suddenly he dont want to fck around anymore](http://9gag.com/gag/aAywebZ)<!-- MEMES:END -->
 
 ---
