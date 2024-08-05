@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [All the dragons in House of the Dragon](https://www.polygon.com/23381183/house-dragon-all-dragons-riders-vhagar)
- - [All your House of the Dragon season 2 finale questions, answered](https://www.polygon.com/24212244/house-dragon-season-2-finale-questions)
- - [All the House of the Dragon season 3 news we’ve heard so far](https://www.polygon.com/24212021/house-of-the-dragon-season-3-release-date-cast-news)<!-- GAME:END -->
+ - [A codenamed Valve project found in a voice actor&#39;s résumé has Half-Life fans putting on the clown makeup yet again](https://www.pcgamer.com/games/fps/a-codenamed-valve-project-found-in-a-voice-actors-resume-has-half-life-fans-putting-on-the-clown-makeup-yet-again)
+ - [Today&#39;s Wordle answer for Monday, August 5](https://www.pcgamer.com/games/puzzle/wordle-answer-today-august-5-2024)
+ - [All the dragons in House of the Dragon](https://www.polygon.com/23381183/house-dragon-all-dragons-riders-vhagar)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
