@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [A codenamed Valve project found in a voice actor&#39;s résumé has Half-Life fans putting on the clown makeup yet again](https://www.pcgamer.com/games/fps/a-codenamed-valve-project-found-in-a-voice-actors-resume-has-half-life-fans-putting-on-the-clown-makeup-yet-again)
- - [Today&#39;s Wordle answer for Monday, August 5](https://www.pcgamer.com/games/puzzle/wordle-answer-today-august-5-2024)
- - [All the dragons in House of the Dragon](https://www.polygon.com/23381183/house-dragon-all-dragons-riders-vhagar)<!-- GAME:END -->
+ - [Cygni: All Guns Blazing](https://www.pcgamer.com/games/action/cygni-all-guns-blazing)
+ - [Kick back by the pool with a half price RTX 4080 GeForce NOW subscription this summer](https://www.pcgamer.com/geforce-now-summer-sale-half-price)
+ - [A codenamed Valve project found in a voice actor&#39;s résumé has Half-Life fans putting on the clown makeup yet again](https://www.pcgamer.com/games/fps/a-codenamed-valve-project-found-in-a-voice-actors-resume-has-half-life-fans-putting-on-the-clown-makeup-yet-again)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
