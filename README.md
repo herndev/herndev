@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The One piece here I come](http://9gag.com/gag/aByw0bP)
- - ⏩ [Suddenly he dont want to fck around anymore](http://9gag.com/gag/aAywebZ)
- - 👉 [You cannot control what happens to you, but you can control your attitude toward what happens to you, and in that, you will be mastering change rather than allowing it to master you.](http://9gag.com/gag/a4PZEjZ)<!-- MEMES:END -->
+ - 💣 [Go to jail](http://9gag.com/gag/amorg49)
+ - ⏩ [Facts and statistics are now considered a crime in Europe](http://9gag.com/gag/aKG2mxQ)
+ - 👉 [A real chad.](http://9gag.com/gag/aZZBr26)<!-- MEMES:END -->
 
 ---
 
