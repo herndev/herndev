@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Kimiko once said:](http://9gag.com/gag/aW48YRZ)
- - ⏩ [No good woman](http://9gag.com/gag/axyg1Lb)
+ - 💣 [No good woman](http://9gag.com/gag/axyg1Lb)
+ - ⏩ [Sonic Boom!](http://9gag.com/gag/aAywxrE)
  - 👉 [Suddenly he dont want to fck around anymore](http://9gag.com/gag/aAywebZ)<!-- MEMES:END -->
 
 ---
