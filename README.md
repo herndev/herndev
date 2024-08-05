@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Illinois governor signs a bill amending Biometric Information Privacy Act to significantly curb the penalties for improperly collecting and using biometric data &lpar;Daniel Wiessner/Reuters&rpar;](http://www.techmeme.com/240805/p27#a240805p27)
- - [The architect of the initial European Commission proposal behind the EU AI Act says its reach ended up being too broad and it may entrench big US tech companies &lpar;Lionel Laurent/Bloomberg&rpar;](http://www.techmeme.com/240805/p28#a240805p28)
- - [Safari&#39;s Distraction Control will obliterate annoying website elements](https://appleinsider.com/articles/24/08/05/safaris-distraction-control-will-obliterate-annoying-website-elements?utm_medium=rss)<!-- TECH:END -->
+ - [US v. Google: a federal judge rules that Google&#39;s payments to make its search engine the default on smartphone web browsers violates antitrust law &lpar;Leah Nylen/Bloomberg&rpar;](http://www.techmeme.com/240805/p30#a240805p30)
+ - [Photos gets off the Carousel in fifth iOS 18 developer beta](https://appleinsider.com/articles/24/08/05/photos-gets-off-the-carousel-in-fifth-ios-18-developer-beta?utm_medium=rss)
+ - [Here are the best Apple Watch deals right now](https://www.theverge.com/21289209/best-apple-watch-deals)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
