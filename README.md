@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [House of the Dragon Episode 8 Recap: A Son For A Son](https://kotaku.com/house-of-the-dragon-episode-8-recap-review-1851613431)
- - [Diablo 4 players finally unearth a secret ring they&#39;ve been looking for since it launched over a year ago—and it&#39;s utter trash](https://www.pcgamer.com/games/rpg/diablo-4-players-finally-unearth-the-secret-ring-theyve-been-looking-for-since-it-launched-over-a-year-agoand-its-utter-trash)
- - [Deadpool &amp; Wolverine: 8 Great Comics To Read After Seeing The Movie](https://kotaku.com/wolverine-deadpool-mcu-marvel-recommended-comics-1851613406)<!-- GAME:END -->
+ - [GameStop Shuts Down Game Informer, The Longest-Running Gaming Magazine In The US [Update]](https://kotaku.com/game-informer-gamestop-meme-stock-gme-last-issue-1851611973)
+ - [Star Wars Outlaws&#39; Paid-DLC Will Bring Back A Clone Wars Favorite](https://kotaku.com/star-wars-outlaws-roadmap-dlc-story-pack-hando-lando-1851613433)
+ - [Limited sets of collectible cards inspired by D&amp;D are coming to Magic: The Gathering](https://www.polygon.com/24212178/magic-the-gathering-dungeons-and-dragons-secret-lair-where-to-buy)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
