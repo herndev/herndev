@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Here’s when the iPhone 16 could launch, following Apple Intelligence’s delay](https://www.androidauthority.com/when-iphone-16-could-launch-3467841/)
- - [Music streaming has exited its high-growth era, as big streaming services pick up fewer new subscribers, causing revenue shortfalls for music labels &lpar;Lucas Shaw/Bloomberg&rpar;](http://www.techmeme.com/240805/p2#a240805p2)
- - [Fast Pair will make it easier to connect Bluetooth keyboards to your Chromebook or Android tablet](https://www.androidauthority.com/fast-pair-bluetooth-keyboards-chromebook-android-3467596/)<!-- TECH:END -->
+ - [Elon Musk says Neuralink has implanted its device in a second trial patient, who had a spinal cord injury, and 400 of the implant&#39;s 1,024 electrodes are working &lpar;Rachael Levy/Reuters&rpar;](http://www.techmeme.com/240805/p4#a240805p4)
+ - [CrowdStrike says it’s not to blame for Delta’s days-long outage](https://www.theverge.com/2024/8/5/24213521/crowdstrike-refutes-blame-delta-outage-litigation)
+ - [Analysis: the vast majority of damages from July&#39;s CrowdStrike global IT outage will go uninsured; CrowdStrike reported nearly 24K enterprise customers in Q1 &lpar;Evan Gorelick/Bloomberg&rpar;](http://www.techmeme.com/240805/p3#a240805p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
