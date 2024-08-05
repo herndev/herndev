@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [GameStop Shuts Down Game Informer, The Longest-Running Gaming Magazine In The US [Update]](https://kotaku.com/game-informer-gamestop-meme-stock-gme-last-issue-1851611973)
- - [Star Wars Outlaws&#39; Paid-DLC Will Bring Back A Clone Wars Favorite](https://kotaku.com/star-wars-outlaws-roadmap-dlc-story-pack-hando-lando-1851613433)
- - [Limited sets of collectible cards inspired by D&amp;D are coming to Magic: The Gathering](https://www.polygon.com/24212178/magic-the-gathering-dungeons-and-dragons-secret-lair-where-to-buy)<!-- GAME:END -->
+ - [&#39;Our 33-year legacy deserves a genuine goodbye&#39;: Game Informer staff tweets one last goodbye after all of their work was deleted, then GameStop nukes the account from orbit](https://www.pcgamer.com/gaming-industry/our-33-year-legacy-deserves-a-genuine-goodbye-game-informer-staff-tweets-one-last-goodbye-after-all-of-their-work-was-deleted-then-gamestop-nukes-the-account-from-orbit)
+ - [All the House of the Dragon season 3 news we’ve heard so far](https://www.polygon.com/24212021/house-of-the-dragon-season-3-release-date-cast-news)
+ - [The House of the Dragon season 2 finale is Westeros at its best and worst](https://www.polygon.com/24213814/house-dragon-season-2-finale-review-episode-8)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
