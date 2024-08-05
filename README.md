@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [House of the Dragon star Kieran Bew wanted to look like his dragon](https://www.polygon.com/24212224/house-dragon-hugh-hammer-vermithor-interview-episode)
- - [What time does Diablo 4 season 5 start?](https://www.polygon.com/diablo-4-guides/24211784/season-5-release-time-date)
- - [Every banned Pokémon episode and why they were pulled from TV](https://www.polygon.com/anime/24209763/every-banned-pokemon-episode)<!-- GAME:END -->
+ - [First Teaser For The Last Of Us Season Two Puts Joel In Therapy](https://kotaku.com/last-of-us-season-two-hbo-max-joel-catherine-o-hara-1851612956)
+ - [Five new Steam games you probably missed &lpar;August 5, 2024&rpar;](https://www.pcgamer.com/software/platforms/five-new-steam-games-you-probably-missed-august-5-2024)
+ - [House of the Dragon star Kieran Bew wanted to look like his dragon](https://www.polygon.com/24212224/house-dragon-hugh-hammer-vermithor-interview-episode)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
