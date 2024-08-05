@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Exclusive: Google Pixel 9 has a new weather app, here’s what it looks like](https://www.androidauthority.com/google-pixel-9-weather-app-3467819/)
- - [Booking CEO Glenn Fogel wants you to take out your travel frustrations on AI chatbots](https://www.theverge.com/24212137/booking-ceo-glenn-fogel-priceline-kayak-travel-ai-chatbots-decoder-podcast-interview)
- - [Investor letter: Elliott Management says megacap tech stocks, particularly Nvidia, were in &quot;bubble land&quot;, and AI is &quot;overhyped&quot; and &quot;not ready for prime time&quot; &lpar;Financial Times&rpar;](http://www.techmeme.com/240805/p19#a240805p19)<!-- TECH:END -->
+ - [Pairing Android with Windows File Explorer is the feature I didn’t know I badly needed](https://www.androidauthority.com/android-windows-file-explorer-3467450/)
+ - [Apple could spice up the next Mac upgrade with more than just an M4 chip](https://www.androidauthority.com/next-mac-upgrade-more-than-m4-3467951/)
+ - [Savvy Wealth, a digital wealth management service for financial advisors and clients, raised a $26.5M Series A led by Canvas, taking its total funding to $33M &lpar;Allie Garfinkle/Fortune&rpar;](http://www.techmeme.com/240805/p22#a240805p22)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
