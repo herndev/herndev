@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [No good woman](http://9gag.com/gag/axyg1Lb)
- - ⏩ [Sonic Boom!](http://9gag.com/gag/aAywxrE)
- - 👉 [Suddenly he dont want to fck around anymore](http://9gag.com/gag/aAywebZ)<!-- MEMES:END -->
+ - 💣 [Most aware women driver](http://9gag.com/gag/aVvDwny)
+ - ⏩ [Suddenly he dont want to fck around anymore](http://9gag.com/gag/aAywebZ)
+ - 👉 [That was just 1 meter away from...](http://9gag.com/gag/aLnM0og)<!-- MEMES:END -->
 
 ---
 
