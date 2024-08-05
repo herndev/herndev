@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [US v. Google: a federal judge rules that Google&#39;s payments to make its search engine the default on smartphone web browsers violates antitrust law &lpar;Leah Nylen/Bloomberg&rpar;](http://www.techmeme.com/240805/p30#a240805p30)
- - [Photos gets off the Carousel in fifth iOS 18 developer beta](https://appleinsider.com/articles/24/08/05/photos-gets-off-the-carousel-in-fifth-ios-18-developer-beta?utm_medium=rss)
- - [Here are the best Apple Watch deals right now](https://www.theverge.com/21289209/best-apple-watch-deals)<!-- TECH:END -->
+ - [Judge rules Google is a search and advertising monopoly](https://appleinsider.com/articles/24/08/05/judge-rules-that-google-is-a-search-and-advertising-monopoly?utm_medium=rss)
+ - [Google Search Is an Illegal Monopoly, US Judge Rules](https://www.wired.com/story/google-search-antitrust-monopoly-ruling/)
+ - [In a new developer beta for iOS, iPadOS, and macOS, Safari gets Distraction Control, which lets users block distracting elements on the page like pop-ups &lpar;Cherlynn Low/Engadget&rpar;](http://www.techmeme.com/240805/p32#a240805p32)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
