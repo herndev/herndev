@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [OpenAI says it&#39;s changing the format of its DevDay conference this fall to a series of on-the-road developer sessions and GPT-5 will not be announced during it &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240805/p37#a240805p37)
- - [Lumen, which sells data center networking and security products, says it secured new deals worth $5B from tech companies amid AI surge; LUMN up 35%+ after hours &lpar;Harshita Mary Varghese/Reuters&rpar;](http://www.techmeme.com/240805/p36#a240805p36)
- - [Google Search widget is getting more colorful but less customizable](https://www.androidauthority.com/google-search-widget-redesign-3468123/)<!-- TECH:END -->
+ - [Google loses big in antitrust case, judge calls company a ‘monopolist’](https://www.androidauthority.com/google-loses-antitrust-case-for-search-3468147/)
+ - [Elon Musk’s X Is Leaving San Francisco](https://www.wired.com/story/elon-musk-x-twitter-leaving-san-francisco-office/)
+ - [Judge Declares Google a Monopoly: What Comes Next](https://www.cnet.com/tech/us-federal-judge-declares-google-search-a-monopoly-in-historic-court-ruling/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
