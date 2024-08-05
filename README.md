@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The anti-white racism of the regime on full display](http://9gag.com/gag/aVvDbj8)
- - ⏩ [Yusuf Dikec](http://9gag.com/gag/aqyrnQL)
- - 👉 [No comment, see comments](http://9gag.com/gag/aKG2EyZ)<!-- MEMES:END -->
+ - 💣 [That was just 1 meter away from...](http://9gag.com/gag/aLnM0og)
+ - ⏩ [A giant play button in the middle of London.](http://9gag.com/gag/a347RnN)
+ - 👉 [He didn&#39;t greet](http://9gag.com/gag/aAywgoL)<!-- MEMES:END -->
 
 ---
 
