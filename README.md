@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [If you cant win, at least lose with style](http://9gag.com/gag/aD2j46G)
- - ⏩ [LOL](http://9gag.com/gag/aPAM7Vw)
- - 👉 [A voice that can make eargasm? No, its the drum](http://9gag.com/gag/aBywgV2)<!-- MEMES:END -->
+ - 💣 [LOL](http://9gag.com/gag/aPAM7Vw)
+ - ⏩ [A voice that can make eargasm? No, its the drum](http://9gag.com/gag/aBywgV2)
+ - 👉 [Powerful](http://9gag.com/gag/aoy2MAe)<!-- MEMES:END -->
 
 ---
 
