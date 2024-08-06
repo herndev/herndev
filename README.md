@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft says Delta, which said it had to manually reset ~40K PC servers because of CrowdStrike, had &quot;not modernized its IT infrastructure&quot; and refused &quot;help&quot; &lpar;CNBC&rpar;](http://www.techmeme.com/240806/p26#a240806p26)
- - [Distraction Control, Photos &amp; more -- hands on with all the changes in iOS 18 beta 5](https://appleinsider.com/articles/24/08/06/distraction-control-photos-more----hands-on-with-all-the-changes-in-ios-18-beta-5?utm_medium=rss)
- - [Gemini integration with wireless earbuds could be just around the corner &lpar;APK teardown&rpar;](https://www.androidauthority.com/gemini-on-earbuds-3468491/)<!-- TECH:END -->
+ - [Razer’s Basilisk V3 Pro, one of our favorite gaming mice, is $30 off](https://www.theverge.com/2024/8/6/24213711/razer-basilisk-v3-pro-gaming-mouse-google-pixel-8a-deal-sale)
+ - [Garmin adds watchfaces and more apps to its app store](https://www.theverge.com/2024/8/6/24214639/garmin-connect-iq-smartwatch-app-store)
+ - [Release notes indicate macOS may get Apple Intelligence in the EU, unlike iOS and iPadOS, perhaps because of differences in how DMA requirements apply &lpar;Ryan Christoffel/9to5Mac&rpar;](http://www.techmeme.com/240806/p27#a240806p27)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
