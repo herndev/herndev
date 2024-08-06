@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Well did you like it?](http://9gag.com/gag/aVvDg38)
- - ⏩ [Arwen Und\u00f3miel in \u2153 scale](http://9gag.com/gag/aMVwKDx)
- - 👉 [Your first project when you lie on your job application](http://9gag.com/gag/aGy0ERZ)<!-- MEMES:END -->
+ - 💣 [World\u2019s strongest man vs World\u2019s strongest rifle.](http://9gag.com/gag/azxrxvj)
+ - ⏩ [Muslim gangs , is that real german gov ?](http://9gag.com/gag/aMVw4BG)
+ - 👉 [Japan right now](http://9gag.com/gag/aXPAPe9)<!-- MEMES:END -->
 
 ---
 
