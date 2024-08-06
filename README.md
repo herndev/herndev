@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Can Drilbur be shiny in Pokémon Go?](https://www.polygon.com/pokemon-go-guide/24213801/can-drilbur-be-shiny-excadrill)
- - [Today&#39;s Wordle answer for Tuesday, August 6](https://www.pcgamer.com/games/puzzle/wordle-answer-today-august-6-2024)
- - [House Flipper 2 update adds 150 new items, including towels, decorative moss, and weeds](https://www.pcgamer.com/games/sim/house-flipper-2-update-adds-150-new-items-including-towels-decorative-moss-and-weeds)<!-- GAME:END -->
+ - [What time does Helldivers 2’s Freedom’s Flame Warbond release?](https://www.polygon.com/guides/2024/8/6/24214100/helldivers-2-freedoms-flame-warbond-start-time-release-date)
+ - [Final Fantasy 14 hunter spent 3 days collectively losing their minds trying to spawn a monster with sunglasses, mass crying sessions, and alpacas… only to find out they just needed to wait](https://www.pcgamer.com/games/final-fantasy/final-fantasy-14-hunter-spent-3-days-collectively-losing-their-minds-trying-to-spawn-a-monster-with-sunglasses-mass-crying-sessions-and-alpacas-only-to-find-out-they-just-needed-to-wait)
+ - [Can Drilbur be shiny in Pokémon Go?](https://www.polygon.com/pokemon-go-guide/24213801/can-drilbur-be-shiny-excadrill)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
