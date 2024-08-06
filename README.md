@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [‘Anti-war wargame’ Chicago ’68 arrives on Kickstarter in time for the Democratic National Convention](https://www.polygon.com/24213917/chicago-68-board-game-kickstarter-preview-interview)
- - [Alan Wake 2 fan notices a sound cue gives the game away about its villain early on, Remedy sound dev gasps &#39;Finally someone noticed&#39;](https://www.pcgamer.com/games/horror/alan-wake-2-fan-notices-a-sound-cue-gives-the-game-away-about-its-villain-early-on-remedy-sound-dev-gasps-finally-someone-noticed)
- - [&#39;I hate the thought of Balatro becoming a true gambling game&#39;: LocalThunk is making sure casinos can&#39;t get their hands on his game even after he dies by literally writing it into his will](https://www.pcgamer.com/games/roguelike/i-hate-the-thought-of-balatro-becoming-a-true-gambling-game-localthunk-is-making-sure-casinos-cant-get-their-hands-on-his-game-even-after-he-dies-by-literally-writing-it-into-his-will)<!-- GAME:END -->
+ - [Diablo 4 gets its own horde mode in season 5 patch](https://www.polygon.com/24213522/infernal-hordes-season-5-patch-notes-update-summary)
+ - [Star Wars Jedi: Survivor Finally Comes To Last-Gen Consoles In September With A Price-Cut](https://kotaku.com/star-wars-jedi-survivor-ps4-release-date-1851614513)
+ - [Larian releases Baldur&#39;s Gate 3 anniversary video celebrating the fans, and boss Swen Vincke says you ain&#39;t seen nothing yet: &#39;We&#39;re gonna take all of that energy and convert it into something new, something shiny, something big&#39;](https://www.pcgamer.com/games/baldurs-gate/larian-releases-baldurs-gate-3-anniversary-video-celebrating-the-fans-and-boss-swen-vincke-says-you-aint-seen-nothing-yet-were-gonna-take-all-of-that-energy-and-convert-it-into-something-new-something-shiny-something-big)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
