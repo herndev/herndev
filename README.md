@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Coming to Game Pass: Crash Bandicoot N. Sane Trilogy, Creatures of Ava, and Mafia: Definitive Edition](https://news.xbox.com/en-us/2024/08/06/xbox-game-pass-august-2024-wave-1/)
- - [&#39;Google is a monopolist&#39; says US judge in ruling on exclusivity deals to get Google Search on all your platforms all the time](https://www.pcgamer.com/software/google-is-a-monopolist-says-us-judge-in-ruling-on-exclusivity-deals-to-get-google-search-on-all-your-platforms-all-the-time)
- - [World of Goo 2 review](https://www.pcgamer.com/games/puzzle/world-of-goo-2-review)<!-- GAME:END -->
+ - [GTA’s radio shows that Rockstar is a DJ](https://www.polygon.com/24208534/gta-radio-rockstar-dj-non-stop-pop)
+ - [Xbox Game Pass Snags Beloved Crash Bandicoot Trilogy And More In August](https://kotaku.com/xbox-game-pass-august-2024-crash-bandicoot-tony-hawk-1851614151)
+ - [Terraforming one ugly world in survival game The Planet Crafter is infinitely more satisfying than trudging across a billion beautiful planets in No Man&#39;s Sky](https://www.pcgamer.com/games/survival-crafting/terraforming-one-ugly-world-in-survival-game-the-planet-crafter-is-infinitely-more-satisfying-than-trudging-across-a-billion-beautiful-planets-in-no-man-s-sky)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
