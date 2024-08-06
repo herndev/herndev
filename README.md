@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Chinese shuttler He Bingjiao carries Spanish flag badge onto the podium after her Spanish semifinal opponent&#39;s withdrawal due to injury](http://9gag.com/gag/aKG2G96)
- - ⏩ [You cannot control what happens to you, but you can control your attitude toward what happens to you, and in that, you will be mastering change rather than allowing it to master you.](http://9gag.com/gag/a4PZEjZ)
- - 👉 [This feels like entrapment](http://9gag.com/gag/azxreXz)<!-- MEMES:END -->
+ - 💣 [Yusuf Dikec](http://9gag.com/gag/aqyrnQL)
+ - ⏩ [On the verge of civil war... London has truly fallen... All the UK 9gaggers, hope you have an alibi...](http://9gag.com/gag/an7yzPB)
+ - 👉 [Aleksandra Miroslaw twice breaks sport climbing world record](http://9gag.com/gag/aXPAnng)<!-- MEMES:END -->
 
 ---
 
