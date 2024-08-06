@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A new Bill Gates-backed project wants to make carbon removal more legit](https://www.theverge.com/2024/8/6/24214426/carbon-removal-standards-initiative-bill-gates-launch)
- - [Future Apple Watch band could detect the slightest finger movements and gestures](https://appleinsider.com/articles/23/04/06/future-apple-watch-band-could-detect-the-smallest-finger-movements-and-gestures?utm_medium=rss)
- - [Apple removes Control-click option for skipping Gatekeeper in macOS Sequoia](https://appleinsider.com/articles/24/08/06/apple-removes-control-click-option-for-skipping-gatekeeper-in-macos-sequoia?utm_medium=rss)<!-- TECH:END -->
+ - [Netflix’s Stranger Things play is headed to Broadway](https://www.theverge.com/2024/8/6/24214756/stranger-things-play-broadway-netflix)
+ - [Instacart reports Q2 revenue up 15% YoY to $823M, vs. $806M est., gross transaction value up 10% to $8.19B; CART jumps 7%+ after hours &lpar;Evan Gorelick/Bloomberg&rpar;](http://www.techmeme.com/240806/p32#a240806p32)
+ - [Reddit Q2: revenue rose 54% YoY to $281.2M, vs. $254M est., Daily Active Uniques increased 51% YoY to 91.2M, and net loss dropped from $41.1M to $10.1M YoY &lpar;Jonathan Vanian/CNBC&rpar;](http://www.techmeme.com/240806/p31#a240806p31)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
