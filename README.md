@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Remember when bumpers used to actually do something?](http://9gag.com/gag/aRBKryq)
- - ⏩ [Zhou Yaqin reaction on the podium was priceless](http://9gag.com/gag/aD2jYeG)
- - 👉 [Watching the Olympics in muslim countries](http://9gag.com/gag/aVvDw8O)<!-- MEMES:END -->
+ - 💣 [Barefoot?](http://9gag.com/gag/ayNL25Y)
+ - ⏩ [Jennifer Guilbeault, 23, was riding in the back seat of the Uber with another young woman at the corner of Lexington Avenue and East 65th Street on the Upper East Side around 11:20 p.m. Tuesday when she suddenly attacked the 45-year-old driver, according to cops and the footage.](http://9gag.com/gag/aD2jDVO)
+ - 👉 [Zhou Yaqin reaction on the podium was priceless](http://9gag.com/gag/aD2jYeG)<!-- MEMES:END -->
 
 ---
 
