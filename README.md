@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [9gaggers... hear me out...](http://9gag.com/gag/a6ZMDRq)
- - ⏩ [Dad brings daughter to cosplay competition](http://9gag.com/gag/a87pGZZ)
- - 👉 [Coin flip is sacred](http://9gag.com/gag/aYQKrBw)<!-- MEMES:END -->
+ - 💣 [Japan right now](http://9gag.com/gag/aXPAPe9)
+ - ⏩ [The new Indonesian presidential office looks like an evil lair](http://9gag.com/gag/a1mdmV6)
+ - 👉 [So this warning was legit lmao](http://9gag.com/gag/agmqoZv)<!-- MEMES:END -->
 
 ---
 
