@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Coin flip is sacred](http://9gag.com/gag/aYQKrBw)
- - ⏩ [Race War Coming To The UK Soon](http://9gag.com/gag/adBqVYj)
- - 👉 [On the verge of civil war... London has truly fallen... All the UK 9gaggers, hope you have an alibi...](http://9gag.com/gag/an7yzPB)<!-- MEMES:END -->
+ - 💣 [Dad brings daughter to cosplay competition](http://9gag.com/gag/a87pGZZ)
+ - ⏩ [Energetic policewomen](http://9gag.com/gag/aryOmpB)
+ - 👉 [And so it begins...](http://9gag.com/gag/aZZBrX9)<!-- MEMES:END -->
 
 ---
 
