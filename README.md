@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Arturia AudioFuse 16Rig Audio Interface Review: So Many Inputs](https://www.wired.com/review/arturia-audiofuse-16rig/)
- - [The Best Climbing Gear for Beginners &lpar;2024&rpar;: Shoes, Harnesses, and Ropes](https://www.wired.com/gallery/best-climbing-gear/)
- - [Apple TV will let users share links out to iPhone with tvOS 18](https://appleinsider.com/articles/24/08/06/apple-tv-will-let-users-share-links-out-to-iphone-with-tvos-18?utm_medium=rss)<!-- TECH:END -->
+ - [Google launches new Nest Thermostat that looks like a giant Pixel Watch](https://www.androidauthority.com/google-nest-learning-thermostat-4th-gen-3467681/)
+ - [Google TV’s new AI features aim to upgrade your TV watching experience](https://www.androidauthority.com/google-tv-ai-features-3467709/)
+ - [The new Google TV Streamer remote will work with your older Chromecast with Google TV](https://www.androidauthority.com/google-tv-streamer-remote-chromecast-3468172/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
