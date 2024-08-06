@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle answer for Tuesday, August 6](https://www.pcgamer.com/games/puzzle/wordle-answer-today-august-6-2024)
  - [House Flipper 2 update adds 150 new items, including towels, decorative moss, and weeds](https://www.pcgamer.com/games/sim/house-flipper-2-update-adds-150-new-items-including-towels-decorative-moss-and-weeds)
- - [Former Blizzard president Mike Ybarra is now CEO of one of those technically-not-gambling daily fantasy sports apps](https://www.pcgamer.com/gaming-industry/former-blizzard-president-mike-ybarra-is-now-ceo-of-one-of-those-technically-not-gambling-daily-fantasy-sports-apps)
- - [The follow-up to Palworld could go &#39;beyond AAA&#39;, but Pocketpair&#39;s CEO only wants to pursue projects that &#39;are interesting as indie games&#39;](https://www.pcgamer.com/games/survival-crafting/the-follow-up-to-palworld-could-go-beyond-aaa-but-pocketpairs-ceo-only-wants-to-pursue-projects-that-are-interesting-as-indie-games)<!-- GAME:END -->
+ - [Former Blizzard president Mike Ybarra is now CEO of one of those technically-not-gambling daily fantasy sports apps](https://www.pcgamer.com/gaming-industry/former-blizzard-president-mike-ybarra-is-now-ceo-of-one-of-those-technically-not-gambling-daily-fantasy-sports-apps)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
