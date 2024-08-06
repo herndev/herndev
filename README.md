@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Riverlane, a Cambridge, UK-based maker of quantum error correction tech, raised a $75M Series C led by Planet First Partners, sources say at a $400M valuation &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/240806/p3#a240806p3)
- - [Mainframes are finding a new life in the AI era, as some banks, insurance providers, and airlines look to use them to run AI locally rather than in the cloud &lpar;Belle Lin/Wall Street Journal&rpar;](http://www.techmeme.com/240806/p2#a240806p2)
- - [Best Cordless Drill of 2024](https://www.cnet.com/news/best-cordless-drill/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [iOS 18’s latest feature lets you Thanos-snap ads and cookie popups, but there’s a catch](https://www.androidauthority.com/ios-18-beta-distraction-control-safari-3468269/)
+ - [Android 15 could bring the tablet taskbar to phones: Here’s your first look at the ‘tiny’ taskbar](https://www.androidauthority.com/android-15-tiny-taskbar-phones-3468110/)
+ - [The US NIST is set to publish three security algorithms, put out for comment in 2023, to protect data from quantum hacking, as the agency awaits the sign off &lpar;Financial Times&rpar;](http://www.techmeme.com/240806/p4#a240806p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
