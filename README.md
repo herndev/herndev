@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple looking to the past, working on how to put a Mac in a keyboard](https://appleinsider.com/articles/22/02/24/apple-looking-to-the-past-working-on-how-to-put-a-mac-in-a-keyboard?utm_medium=rss)
- - [ProRata.ai, which aims to attribute and share revenue with content owners from AI chatbot subscriptions, raised a $25M Series A, inks deals with media companies &lpar;Sara Fischer/Axios&rpar;](http://www.techmeme.com/240806/p20#a240806p20)
- - [Exclusive: This is the chipset used in the new Google TV Streamer](https://www.androidauthority.com/google-tv-streamer-processor-3468418/)<!-- TECH:END -->
+ - [Microsoft says Delta ignored Satya Nadella’s offer of CrowdStrike help](https://www.theverge.com/2024/8/6/24214371/microsoft-delta-letter-crowdstrike-response-comments)
+ - [Sonos brings TV Audio Swap to its more affordable soundbars — and Android](https://www.theverge.com/2024/8/6/24214510/sonos-ace-tv-audio-swap-beam-ray-android)
+ - [AI Is Heating the Olympic Pool](https://www.wired.com/story/ai-is-heating-the-olympic-pool/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
