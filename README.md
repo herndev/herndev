@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [If You Haven’t Played It Yet, 2023’s Best Game Is On Sale For PS5](https://kotaku.com/baldurs-gate-3-psn-playstation-ps5-summer-sale-larian-1851614923)
- - [Here’s where you can pre-order DC Versus Marvel: The Amalgam Age Omnibus](https://www.polygon.com/24214713/dc-versus-marvel-the-amalgam-age-omnibus-where-to-pre-order)
- - [Once Human is revealing the inner Sims player that even my loud FPS friends have inside them](https://www.pcgamer.com/games/survival-crafting/once-human-is-revealing-the-inner-sims-player-that-even-my-loud-fps-friends-have-inside-them)<!-- GAME:END -->
+ - [Helldivers 2&#39;s loudest players go nuclear over another unpopular nerf, but Arrowhead CEO keeps calm: &#39;Some are going &#39;Buff everything!&#39; Others are saying &#39;It&#39;s too easy!&#39; Most are just playing.&#39;](https://www.pcgamer.com/games/helldivers-2-s-loudest-players-are-going-nuclear-over-another-unpopular-nerf-but-arrowhead-s-ceo-is-keeping-calm-some-are-going-buff-everything-others-are-saying-it-s-too-easy-most-are-just-playing)
+ - [The maker of this beautiful retro city builder wants to include events like bank robberies, police chases, and zombie outbreaks](https://www.pcgamer.com/games/city-builder/the-maker-of-this-beautiful-retro-city-builder-wants-to-include-events-like-bank-robberies-police-chases-and-zombie-outbreaks)
+ - [If You Haven’t Played It Yet, 2023’s Best Game Is On Sale For PS5](https://kotaku.com/baldurs-gate-3-psn-playstation-ps5-summer-sale-larian-1851614923)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
