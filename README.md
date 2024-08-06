@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Waymo is expanding its robotaxi service areas in San Francisco and Los Angeles](https://www.theverge.com/2024/8/6/24214454/waymo-robotaxi-expand-service-area-sf-la-map)
- - [X sues the World Federation of Advertisers, GARM, and GARM members CVS Health, Mars, Orsted, and Unilever over what Linda Yaccarino calls an &quot;illegal boycott&quot; &lpar;Sara Fischer/Axios&rpar;](http://www.techmeme.com/240806/p24#a240806p24)
- - [X files antitrust lawsuit against advertisers over ‘illegal boycott’](https://www.theverge.com/2024/8/6/24214536/x-elon-musk-antitrust-lawsuit-advertisers-boycott)<!-- TECH:END -->
+ - [Microsoft says Delta, which said it had to manually reset ~40K PC servers because of CrowdStrike, had &quot;not modernized its IT infrastructure&quot; and refused &quot;help&quot; &lpar;CNBC&rpar;](http://www.techmeme.com/240806/p26#a240806p26)
+ - [Distraction Control, Photos &amp; more -- hands on with all the changes in iOS 18 beta 5](https://appleinsider.com/articles/24/08/06/distraction-control-photos-more----hands-on-with-all-the-changes-in-ios-18-beta-5?utm_medium=rss)
+ - [Gemini integration with wireless earbuds could be just around the corner &lpar;APK teardown&rpar;](https://www.androidauthority.com/gemini-on-earbuds-3468491/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
