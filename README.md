@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [GTA’s radio shows that Rockstar is a DJ](https://www.polygon.com/24208534/gta-radio-rockstar-dj-non-stop-pop)
- - [Xbox Game Pass Snags Beloved Crash Bandicoot Trilogy And More In August](https://kotaku.com/xbox-game-pass-august-2024-crash-bandicoot-tony-hawk-1851614151)
- - [Terraforming one ugly world in survival game The Planet Crafter is infinitely more satisfying than trudging across a billion beautiful planets in No Man&#39;s Sky](https://www.pcgamer.com/games/survival-crafting/terraforming-one-ugly-world-in-survival-game-the-planet-crafter-is-infinitely-more-satisfying-than-trudging-across-a-billion-beautiful-planets-in-no-man-s-sky)<!-- GAME:END -->
+ - [MSI is celebrating the 20th anniversary of its first laptop in London](https://www.pcgamer.com/hardware/gaming-laptops/msi-is-celebrating-the-20th-anniversary-of-its-first-laptop-in-london)
+ - [The Best Places To Farm Blood Eagles In Fallout 76](https://kotaku.com/fallout-76-blood-eagles-farm-best-location-1851614257)
+ - [How to find and beat Impalers in Helldivers 2](https://www.pcgamer.com/games/third-person-shooter/helldivers-2-impaler)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
