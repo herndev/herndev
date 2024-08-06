@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Zhou Yaqin reaction on the podium was priceless](http://9gag.com/gag/aD2jYeG)
- - ⏩ [Finally good customization options.](http://9gag.com/gag/axygW9K)
- - 👉 [An autistic non-verbal boy speaks directly to his mother for the first time](http://9gag.com/gag/agmqgRn)<!-- MEMES:END -->
+ - 💣 [I hope that you have license](http://9gag.com/gag/aQzMo1q)
+ - ⏩ [Arwen Und\u00f3miel in \u2153 scale](http://9gag.com/gag/aMVwKDx)
+ - 👉 [Energetic policewomen](http://9gag.com/gag/aryOmpB)<!-- MEMES:END -->
 
 ---
 
