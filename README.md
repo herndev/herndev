@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Bloober Team knows fans don&#39;t really trust it with the Silent Hill 2 remake, so it&#39;s asking for the next-best thing: &#39;Give us a chance&#39;](https://www.pcgamer.com/games/horror/bloober-team-knows-fans-dont-really-trust-it-with-the-silent-hill-2-remake-so-its-asking-for-the-next-best-thing-give-us-a-chance)
- - [Destiny 2 Brings Back Attunement So You Can Farm These Great Weapons Again](https://kotaku.com/destiny-2-attunement-zavala-guide-tip-1851614821)
- - [Hidden Final Fantasy 16 profile in latest Nvidia driver has fans hyping themselves up for a surprise Gamescom PC launch](https://www.pcgamer.com/games/rpg/hidden-final-fantasy-16-profile-in-latest-nvidia-driver-has-fans-hyping-themselves-up-for-a-surprise-gamescom-pc-launch)<!-- GAME:END -->
+ - [If You Haven’t Played It Yet, 2023’s Best Game Is On Sale For PS5](https://kotaku.com/baldurs-gate-3-psn-playstation-ps5-summer-sale-larian-1851614923)
+ - [Here’s where you can pre-order DC Versus Marvel: The Amalgam Age Omnibus](https://www.polygon.com/24214713/dc-versus-marvel-the-amalgam-age-omnibus-where-to-pre-order)
+ - [Once Human is revealing the inner Sims player that even my loud FPS friends have inside them](https://www.pcgamer.com/games/survival-crafting/once-human-is-revealing-the-inner-sims-player-that-even-my-loud-fps-friends-have-inside-them)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
