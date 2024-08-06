@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Razer’s Basilisk V3 Pro, one of our favorite gaming mice, is $30 off](https://www.theverge.com/2024/8/6/24213711/razer-basilisk-v3-pro-gaming-mouse-google-pixel-8a-deal-sale)
- - [Garmin adds watchfaces and more apps to its app store](https://www.theverge.com/2024/8/6/24214639/garmin-connect-iq-smartwatch-app-store)
- - [Release notes indicate macOS may get Apple Intelligence in the EU, unlike iOS and iPadOS, perhaps because of differences in how DMA requirements apply &lpar;Ryan Christoffel/9to5Mac&rpar;](http://www.techmeme.com/240806/p27#a240806p27)<!-- TECH:END -->
+ - [A new Bill Gates-backed project wants to make carbon removal more legit](https://www.theverge.com/2024/8/6/24214426/carbon-removal-standards-initiative-bill-gates-launch)
+ - [Future Apple Watch band could detect the slightest finger movements and gestures](https://appleinsider.com/articles/23/04/06/future-apple-watch-band-could-detect-the-smallest-finger-movements-and-gestures?utm_medium=rss)
+ - [Apple removes Control-click option for skipping Gatekeeper in macOS Sequoia](https://appleinsider.com/articles/24/08/06/apple-removes-control-click-option-for-skipping-gatekeeper-in-macos-sequoia?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
