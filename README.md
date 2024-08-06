@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [iOS 18’s latest feature lets you Thanos-snap ads and cookie popups, but there’s a catch](https://www.androidauthority.com/ios-18-beta-distraction-control-safari-3468269/)
- - [Android 15 could bring the tablet taskbar to phones: Here’s your first look at the ‘tiny’ taskbar](https://www.androidauthority.com/android-15-tiny-taskbar-phones-3468110/)
- - [The US NIST is set to publish three security algorithms, put out for comment in 2023, to protect data from quantum hacking, as the agency awaits the sign off &lpar;Financial Times&rpar;](http://www.techmeme.com/240806/p4#a240806p4)<!-- TECH:END -->
+ - [Google losing its US antitrust case may have major ripple effects for Apple, Amazon, and Meta, just as Microsoft&#39;s loss in 2000 influenced the Google decision &lpar;Steve Lohr/New York Times&rpar;](http://www.techmeme.com/240806/p6#a240806p6)
+ - [iOS 18 has fulfilled my dream of destroying ads with a Thanos snap](https://www.theverge.com/2024/8/6/24214338/apple-ios-18-thanos-snap-animation-hide-ads)
+ - [The US awards South Korea&#39;s SK Hynix an initial $450M in grants and $500M in loans to build an advanced chip packaging facility in Indiana under the CHIPS Act &lpar;Bloomberg&rpar;](http://www.techmeme.com/240806/p5#a240806p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
