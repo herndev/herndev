@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google loses big in antitrust case, judge calls company a ‘monopolist’ &lpar;Update: Statement&rpar;](https://www.androidauthority.com/google-loses-antitrust-case-for-search-3468147/)
- - [Samsung starts mass production of world&#39;s thinnest LPDDR5X DRAM, claiming it&#39;s 9% thinner than typical LPDDR5X and improves devices&#39; heat resistance by 21.2% &lpar;Anton Shilov/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/240805/p47#a240805p47)
- - [How to add money to your Apple Account on iPhone, iPad &amp; Mac](https://appleinsider.com/inside/app-store/tips/how-to-add-money-to-your-apple-account-on-iphone-ipad-mac?utm_medium=rss)<!-- TECH:END -->
+ - [Sources: Huawei, Baidu, and other Chinese tech companies have been stockpiling Samsung HBM chips since early 2024, in anticipation of US curbs on those chips &lpar;Reuters&rpar;](http://www.techmeme.com/240806/p1#a240806p1)
+ - [Today&#39;s NYT Mini Crossword Answers for Aug. 6](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-august-6/#ftag=CAD590a51e)
+ - [Google loses big in antitrust case, judge calls company a ‘monopolist’ &lpar;Update: Statement&rpar;](https://www.androidauthority.com/google-loses-antitrust-case-for-search-3468147/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
