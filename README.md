@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [What time does Helldivers 2’s Freedom’s Flame Warbond release?](https://www.polygon.com/guides/2024/8/6/24214100/helldivers-2-freedoms-flame-warbond-start-time-release-date)
- - [Final Fantasy 14 hunter spent 3 days collectively losing their minds trying to spawn a monster with sunglasses, mass crying sessions, and alpacas… only to find out they just needed to wait](https://www.pcgamer.com/games/final-fantasy/final-fantasy-14-hunter-spent-3-days-collectively-losing-their-minds-trying-to-spawn-a-monster-with-sunglasses-mass-crying-sessions-and-alpacas-only-to-find-out-they-just-needed-to-wait)
- - [Can Drilbur be shiny in Pokémon Go?](https://www.polygon.com/pokemon-go-guide/24213801/can-drilbur-be-shiny-excadrill)<!-- GAME:END -->
+ - [GeForce GPU giant has been data scraping 80 years&#39; worth of videos every day for AI training to &#39;unlock various downstream applications critical to Nvidia&#39;](https://www.pcgamer.com/software/ai/geforce-gpu-giant-has-been-data-scraping-80-years-worth-of-videos-every-day-for-ai-training-to-unlock-various-downstream-applications-critical-to-nvidia)
+ - [How to get the TR-40 Gold Eagle armor in Helldivers 2 early](https://www.pcgamer.com/games/third-person-shooter/helldivers-tr-40-gold-eagle-armor)
+ - [What time does Helldivers 2’s Freedom’s Flame Warbond release?](https://www.polygon.com/guides/2024/8/6/24214100/helldivers-2-freedoms-flame-warbond-start-time-release-date)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
