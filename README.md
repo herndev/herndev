@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Uber says its Advertising annual revenue run-rate passed $1B in Q2, up from $650M+ in Q2 2023; Uber began selling in-app Journey Ads programmatically in June &lpar;Kathryn Lundstrom/Adweek&rpar;](http://www.techmeme.com/240806/p19#a240806p19)
- - [What to expect from Google’s Pixel 9 event](https://www.theverge.com/2024/7/31/24208625/google-pixel-hardware-event-august-2024-leaks)
- - [beCreatus DP1310 Hybrid Dock review: Uniting your devices and lifestyles](https://appleinsider.com/articles/24/08/06/becreatus-dp1310-hybrid-dock-review-uniting-your-devices-and-lifestyles?utm_medium=rss)<!-- TECH:END -->
+ - [Apple looking to the past, working on how to put a Mac in a keyboard](https://appleinsider.com/articles/22/02/24/apple-looking-to-the-past-working-on-how-to-put-a-mac-in-a-keyboard?utm_medium=rss)
+ - [ProRata.ai, which aims to attribute and share revenue with content owners from AI chatbot subscriptions, raised a $25M Series A, inks deals with media companies &lpar;Sara Fischer/Axios&rpar;](http://www.techmeme.com/240806/p20#a240806p20)
+ - [Exclusive: This is the chipset used in the new Google TV Streamer](https://www.androidauthority.com/google-tv-streamer-processor-3468418/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
