@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [British PM Keir Starmer says he has mobilized a \u201cstanding army\u201d to crush further anti-mass migration protests. He also confirmed that any online dissenter will be arrested and prosecuted. And people thought China censorship was bad lol.](http://9gag.com/gag/aPAMAYq)
- - ⏩ [You cannot control what happens to you, but you can control your attitude toward what happens to you, and in that, you will be mastering change rather than allowing it to master you.](http://9gag.com/gag/a4PZEjZ)
- - 👉 [Aleksandra Miroslaw twice breaks sport climbing world record](http://9gag.com/gag/aXPAnng)<!-- MEMES:END -->
+ - 💣 [You did it too. And so did I.](http://9gag.com/gag/aRBKXPB)
+ - ⏩ [Energetic policewomen](http://9gag.com/gag/aryOmpB)
+ - 👉 [Tay tay is a broomstick!](http://9gag.com/gag/aE0R0YM)<!-- MEMES:END -->
 
 ---
 
