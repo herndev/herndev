@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Q&amp;A with Intel VP Robert Hallock on the upcoming Lunar Lake chips, Intel using TSMC nodes, and how the Arm vs. x86 power debates are based on a false premise &lpar;Vaidyanathan Subramaniam/Notebookcheck&rpar;](http://www.techmeme.com/240806/p8#a240806p8)
- - [Apple reverts major iOS 18 Photos app change following user outcry](https://www.androidauthority.com/apple-reverts-ios-18-photos-app-change-3468345/)
- - [House of the Dragon’s fourth season will be its last](https://www.theverge.com/2024/8/6/24214339/house-of-the-dragon-four-seasons-announced-episodes)<!-- TECH:END -->
+ - [Arturia AudioFuse 16Rig Audio Interface Review: So Many Inputs](https://www.wired.com/review/arturia-audiofuse-16rig/)
+ - [The Best Climbing Gear for Beginners &lpar;2024&rpar;: Shoes, Harnesses, and Ropes](https://www.wired.com/gallery/best-climbing-gear/)
+ - [Apple TV will let users share links out to iPhone with tvOS 18](https://appleinsider.com/articles/24/08/06/apple-tv-will-let-users-share-links-out-to-iphone-with-tvos-18?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
