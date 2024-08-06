@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How iOS 18&#39;s Web Eraser content-blocker morphed into a distraction-hiding tool](https://appleinsider.com/articles/24/08/05/how-ios-18s-web-eraser-content-blocker-morphed-into-a-distraction-hiding-tool?utm_medium=rss)
- - [The rugged Apple Watch Ultra 2 has returned to its Prime Day low](https://www.theverge.com/2024/8/5/24214042/apple-watch-ultra-2-ocean-band-trail-alpine-loop-strap-deal-sale)
- - [Deal: Upgrade your movie nights and save $150 on the XGIMI MoGo 2 projector](https://www.androidauthority.com/xgimi-mogo-2-projector-deal-3468106/)<!-- TECH:END -->
+ - [A look at some of Apple&#39;s pre-prompt instructions for Apple Intelligence, including &quot;do not hallucinate&quot; for a text generation feature &lpar;Wes Davis/The Verge&rpar;](http://www.techmeme.com/240805/p39#a240805p39)
+ - [Trump appeared on a Kick livestream with Adin Ross, then things got weird](https://www.theverge.com/2024/8/5/24214007/trump-adin-ross-livestream-kick-2024-presidential-election)
+ - [How iOS 18&#39;s Web Eraser content-blocker morphed into a distraction-hiding tool](https://appleinsider.com/articles/24/08/05/how-ios-18s-web-eraser-content-blocker-morphed-into-a-distraction-hiding-tool?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
