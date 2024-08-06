@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Jennifer Guilbeault, 23, was riding in the back seat of the Uber with another young woman at the corner of Lexington Avenue and East 65th Street on the Upper East Side around 11:20 p.m. Tuesday when she suddenly attacked the 45-year-old driver, according to cops and the footage.](http://9gag.com/gag/aD2jDVO)
- - ⏩ [Absolute madman](http://9gag.com/gag/aVvDoVy)
- - 👉 [Zhou Yaqin reaction on the podium was priceless](http://9gag.com/gag/aD2jYeG)<!-- MEMES:END -->
+ - 💣 [Understandable](http://9gag.com/gag/ajPq7n1)
+ - ⏩ [Your first project when you lie on your job application](http://9gag.com/gag/aGy0ERZ)
+ - 👉 [Absolute madman](http://9gag.com/gag/aVvDoVy)<!-- MEMES:END -->
 
 ---
 
