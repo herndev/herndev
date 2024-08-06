@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [You did it too. And so did I.](http://9gag.com/gag/aRBKXPB)
- - ⏩ [Energetic policewomen](http://9gag.com/gag/aryOmpB)
- - 👉 [Tay tay is a broomstick!](http://9gag.com/gag/aE0R0YM)<!-- MEMES:END -->
+ - 💣 [Arwen Und\u00f3miel in \u2153 scale](http://9gag.com/gag/aMVwKDx)
+ - ⏩ [A giant play button in the middle of London.](http://9gag.com/gag/a347RnN)
+ - 👉 [Energetic policewomen](http://9gag.com/gag/aryOmpB)<!-- MEMES:END -->
 
 ---
 
