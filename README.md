@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [OpenAI has developed a 99.9% accuracy tool to detect ChatGPT content, but you are safe for now](https://www.androidauthority.com/openai-tool-detect-chatgpt-content-3468136/)
- - [Tablet sales are finally starting to look normal again](https://www.androidauthority.com/tablet-sales-report-3468204/)
- - [US v. Google: a judge says Google has a monopoly in &quot;general search text advertising&quot; and it used exclusive agreements to raise prices without any competition &lpar;Lauren Feiner/The Verge&rpar;](http://www.techmeme.com/240805/p44#a240805p44)<!-- TECH:END -->
+ - [Apple and Mozilla will take a big hit if the Google search ruling is upheld; in 2021-2022, $510M out of $593M of Mozilla&#39;s revenue came from its Google deal &lpar;Jason Del Rey/Fortune&rpar;](http://www.techmeme.com/240805/p45#a240805p45)
+ - [Deals: Apple&#39;s M3 MacBook Air 15-inch with 16GB RAM, 1TB SSD is on sale for $1,699](https://appleinsider.com/articles/24/08/06/deals-apples-m3-macbook-air-15-inch-with-16gb-ram-1tb-ssd-is-on-sale-for-1699?utm_medium=rss)
+ - [OpenAI has developed a 99.9% accuracy tool to detect ChatGPT content, but you are safe for now](https://www.androidauthority.com/openai-tool-detect-chatgpt-content-3468136/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
