@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [They won&#39;t show this on the news channel, would they?](http://9gag.com/gag/a0edo0n)
- - ⏩ [An eye for an eye, and a tooth for a tooth.](http://9gag.com/gag/adBq1oM)
- - 👉 [World\u2019s strongest man vs World\u2019s strongest rifle.](http://9gag.com/gag/azxrxvj)<!-- MEMES:END -->
+ - 💣 [So this warning was legit lmao](http://9gag.com/gag/agmqoZv)
+ - ⏩ [Jennifer Guilbeault, 23, was riding in the back seat of the Uber with another young woman at the corner of Lexington Avenue and East 65th Street on the Upper East Side around 11:20 p.m. Tuesday when she suddenly attacked the 45-year-old driver, according to cops and the footage.](http://9gag.com/gag/aD2jDVO)
+ - 👉 [Sports have to be fair](http://9gag.com/gag/a6ZMqw8)<!-- MEMES:END -->
 
 ---
 
