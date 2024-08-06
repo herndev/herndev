@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Diablo IV Players Encounter A Generous Seasonal Bug And Blizzard&#39;s Not Stepping In To Patch It Out](https://kotaku.com/diablo-4-season-5-legendary-tempering-recipes-bug-patch-1851614747)
- - [Spooky-Looking Quiet Place Game Launching In October](https://kotaku.com/quiet-place-game-road-ahead-release-date-trailer-ps5-1851614631)
- - [Why the Relentless Challenge of Volgarr the Viking II Means I Love You](https://news.xbox.com/en-us/2024/08/06/why-the-relentless-challenge-of-volgarr-the-viking-ii-means-i-love-you/)<!-- GAME:END -->
+ - [Bloober Team knows fans don&#39;t really trust it with the Silent Hill 2 remake, so it&#39;s asking for the next-best thing: &#39;Give us a chance&#39;](https://www.pcgamer.com/games/horror/bloober-team-knows-fans-dont-really-trust-it-with-the-silent-hill-2-remake-so-its-asking-for-the-next-best-thing-give-us-a-chance)
+ - [Destiny 2 Brings Back Attunement So You Can Farm These Great Weapons Again](https://kotaku.com/destiny-2-attunement-zavala-guide-tip-1851614821)
+ - [Hidden Final Fantasy 16 profile in latest Nvidia driver has fans hyping themselves up for a surprise Gamescom PC launch](https://www.pcgamer.com/games/rpg/hidden-final-fantasy-16-profile-in-latest-nvidia-driver-has-fans-hyping-themselves-up-for-a-surprise-gamescom-pc-launch)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
