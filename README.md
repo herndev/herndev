@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [GeForce GPU giant has been data scraping 80 years&#39; worth of videos every day for AI training to &#39;unlock various downstream applications critical to Nvidia&#39;](https://www.pcgamer.com/software/ai/geforce-gpu-giant-has-been-data-scraping-80-years-worth-of-videos-every-day-for-ai-training-to-unlock-various-downstream-applications-critical-to-nvidia)
- - [How to get the TR-40 Gold Eagle armor in Helldivers 2 early](https://www.pcgamer.com/games/third-person-shooter/helldivers-tr-40-gold-eagle-armor)
- - [What time does Helldivers 2’s Freedom’s Flame Warbond release?](https://www.polygon.com/guides/2024/8/6/24214100/helldivers-2-freedoms-flame-warbond-start-time-release-date)<!-- GAME:END -->
+ - [Cult of the Lamb&#39;s next free major content update will be an interactive digital comic: &#39;Where all your choices will take you on a colourful adventure&#39;](https://www.pcgamer.com/games/roguelike/cult-of-the-lambs-next-free-major-content-update-will-be-an-interactive-digital-comic-where-all-your-choices-will-take-you-on-a-colourful-adventure)
+ - [Yakuza producer still won&#39;t put Kiryu in a goddamn fighting game, or possibly any future videogame for that matter: &#39;I think going cross-medium is the better way to go about it&#39;](https://www.pcgamer.com/games/fighting/yakuza-producer-still-wont-put-kiryu-in-a-goddamn-fighting-game-or-possibly-any-future-videogame-for-that-matter-i-think-going-cross-medium-is-the-better-way-to-go-about-it)
+ - [Lollipop Chainsaw RePOP&#39;s release date has been bumped up, plus a price tag reveal that&#39;s raised a few eyebrows](https://www.pcgamer.com/games/action/lollipop-chainsaw-repops-release-date-has-been-bumped-up-plus-a-price-tag-reveal-thats-raised-a-few-eyebrows)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
