@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Yusuf Dikec](http://9gag.com/gag/aqyrnQL)
- - ⏩ [On the verge of civil war... London has truly fallen... All the UK 9gaggers, hope you have an alibi...](http://9gag.com/gag/an7yzPB)
- - 👉 [Aleksandra Miroslaw twice breaks sport climbing world record](http://9gag.com/gag/aXPAnng)<!-- MEMES:END -->
+ - 💣 [Coin flip is sacred](http://9gag.com/gag/aYQKrBw)
+ - ⏩ [Race War Coming To The UK Soon](http://9gag.com/gag/adBqVYj)
+ - 👉 [On the verge of civil war... London has truly fallen... All the UK 9gaggers, hope you have an alibi...](http://9gag.com/gag/an7yzPB)<!-- MEMES:END -->
 
 ---
 
