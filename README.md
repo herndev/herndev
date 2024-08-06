@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google losing its US antitrust case may have major ripple effects for Apple, Amazon, and Meta, just as Microsoft&#39;s loss in 2000 influenced the Google decision &lpar;Steve Lohr/New York Times&rpar;](http://www.techmeme.com/240806/p6#a240806p6)
- - [iOS 18 has fulfilled my dream of destroying ads with a Thanos snap](https://www.theverge.com/2024/8/6/24214338/apple-ios-18-thanos-snap-animation-hide-ads)
- - [The US awards South Korea&#39;s SK Hynix an initial $450M in grants and $500M in loans to build an advanced chip packaging facility in Indiana under the CHIPS Act &lpar;Bloomberg&rpar;](http://www.techmeme.com/240806/p5#a240806p5)<!-- TECH:END -->
+ - [Q&amp;A with Intel VP Robert Hallock on the upcoming Lunar Lake chips, Intel using TSMC nodes, and how the Arm vs. x86 power debates are based on a false premise &lpar;Vaidyanathan Subramaniam/Notebookcheck&rpar;](http://www.techmeme.com/240806/p8#a240806p8)
+ - [Apple reverts major iOS 18 Photos app change following user outcry](https://www.androidauthority.com/apple-reverts-ios-18-photos-app-change-3468345/)
+ - [House of the Dragon’s fourth season will be its last](https://www.theverge.com/2024/8/6/24214339/house-of-the-dragon-four-seasons-announced-episodes)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
