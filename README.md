@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Arwen Und\u00f3miel in \u2153 scale](http://9gag.com/gag/aMVwKDx)
- - ⏩ [Zhou Yaqin reaction on the podium was priceless](http://9gag.com/gag/aD2jYeG)
- - 👉 [This feels like entrapment](http://9gag.com/gag/azxreXz)<!-- MEMES:END -->
+ - 💣 [So this warning was legit lmao](http://9gag.com/gag/agmqoZv)
+ - ⏩ [Arwen Und\u00f3miel in \u2153 scale](http://9gag.com/gag/aMVwKDx)
+ - 👉 [Jennifer Guilbeault, 23, was riding in the back seat of the Uber with another young woman at the corner of Lexington Avenue and East 65th Street on the Upper East Side around 11:20 p.m. Tuesday when she suddenly attacked the 45-year-old driver, according to cops and the footage.](http://9gag.com/gag/aD2jDVO)<!-- MEMES:END -->
 
 ---
 
