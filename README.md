@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Why the Relentless Challenge of Volgarr the Viking II Means I Love You](https://news.xbox.com/en-us/2024/08/06/why-the-relentless-challenge-of-volgarr-the-viking-ii-means-i-love-you/)
- - [Warhammer 40,000: Space Marine 2 system requirements are out, and you probably won&#39;t need to buy a new PC to play it](https://www.pcgamer.com/games/third-person-shooter/warhammer-40000-space-marine-2-system-requirements-are-out-and-you-probably-wont-need-to-buy-a-new-pc-to-play-it)
- - [The Secret To Final Fantasy XIV’s New Elusive Hunt Is Patience](https://kotaku.com/final-fantasy-14-dawntrail-s-rank-hunt-kirlirger-1851614627)<!-- GAME:END -->
+ - [Diablo IV Players Encounter A Generous Seasonal Bug And Blizzard&#39;s Not Stepping In To Patch It Out](https://kotaku.com/diablo-4-season-5-legendary-tempering-recipes-bug-patch-1851614747)
+ - [Spooky-Looking Quiet Place Game Launching In October](https://kotaku.com/quiet-place-game-road-ahead-release-date-trailer-ps5-1851614631)
+ - [Why the Relentless Challenge of Volgarr the Viking II Means I Love You](https://news.xbox.com/en-us/2024/08/06/why-the-relentless-challenge-of-volgarr-the-viking-ii-means-i-love-you/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
