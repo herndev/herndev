@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Family time](http://9gag.com/gag/aQzMzjW)
- - ⏩ [The last guy seems fun](http://9gag.com/gag/a9yWndL)
- - 👉 [Dad brings daughter to cosplay competition](http://9gag.com/gag/a87pGZZ)<!-- MEMES:END -->
+ - 💣 [Zhou Yaqin reaction on the podium was priceless](http://9gag.com/gag/aD2jYeG)
+ - ⏩ [Finally good customization options.](http://9gag.com/gag/axygW9K)
+ - 👉 [An autistic non-verbal boy speaks directly to his mother for the first time](http://9gag.com/gag/agmqgRn)<!-- MEMES:END -->
 
 ---
 
