@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Dad brings daughter to cosplay competition](http://9gag.com/gag/a87pGZZ)
- - ⏩ [Energetic policewomen](http://9gag.com/gag/aryOmpB)
- - 👉 [And so it begins...](http://9gag.com/gag/aZZBrX9)<!-- MEMES:END -->
+ - 💣 [Remember when bumpers used to actually do something?](http://9gag.com/gag/aRBKryq)
+ - ⏩ [Zhou Yaqin reaction on the podium was priceless](http://9gag.com/gag/aD2jYeG)
+ - 👉 [Watching the Olympics in muslim countries](http://9gag.com/gag/aVvDw8O)<!-- MEMES:END -->
 
 ---
 
