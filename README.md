@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Diablo 4 gets its own horde mode in season 5 patch](https://www.polygon.com/24213522/infernal-hordes-season-5-patch-notes-update-summary)
- - [Star Wars Jedi: Survivor Finally Comes To Last-Gen Consoles In September With A Price-Cut](https://kotaku.com/star-wars-jedi-survivor-ps4-release-date-1851614513)
- - [Larian releases Baldur&#39;s Gate 3 anniversary video celebrating the fans, and boss Swen Vincke says you ain&#39;t seen nothing yet: &#39;We&#39;re gonna take all of that energy and convert it into something new, something shiny, something big&#39;](https://www.pcgamer.com/games/baldurs-gate/larian-releases-baldurs-gate-3-anniversary-video-celebrating-the-fans-and-boss-swen-vincke-says-you-aint-seen-nothing-yet-were-gonna-take-all-of-that-energy-and-convert-it-into-something-new-something-shiny-something-big)<!-- GAME:END -->
+ - [Why the Relentless Challenge of Volgarr the Viking II Means I Love You](https://news.xbox.com/en-us/2024/08/06/why-the-relentless-challenge-of-volgarr-the-viking-ii-means-i-love-you/)
+ - [Warhammer 40,000: Space Marine 2 system requirements are out, and you probably won&#39;t need to buy a new PC to play it](https://www.pcgamer.com/games/third-person-shooter/warhammer-40000-space-marine-2-system-requirements-are-out-and-you-probably-wont-need-to-buy-a-new-pc-to-play-it)
+ - [The Secret To Final Fantasy XIV’s New Elusive Hunt Is Patience](https://kotaku.com/final-fantasy-14-dawntrail-s-rank-hunt-kirlirger-1851614627)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
