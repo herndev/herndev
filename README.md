@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The follow-up to Palworld could go &#39;beyond AAA&#39;, but Pocketpair&#39;s CEO only wants to pursue projects that &#39;are interesting as indie games&#39;](https://www.pcgamer.com/games/survival-crafting/the-follow-up-to-palworld-could-go-beyond-aaa-but-pocketpairs-ceo-only-wants-to-pursue-projects-that-are-interesting-as-indie-games)
- - [Star Wars Outlaws&#39; $40 season pass comes with 2 story packs, including a run-in with Lando Calrissian later this year](https://www.pcgamer.com/games/star-wars-outlaws-40-season-pass-comes-with-2-story-packs-including-a-run-in-with-lando-calrissian-later-this-year)
- - [Nightingale devs say they&#39;re &#39;not satisfied&#39; with the game, its reception, or its player numbers, but they&#39;ve got big improvements coming](https://www.pcgamer.com/games/survival-crafting/nightingale-devs-say-theyre-not-satisfied-with-the-game-its-reception-or-its-player-numbers-but-theyve-got-big-improvements-coming)<!-- GAME:END -->
+ - [House Flipper 2 update adds 150 new items, including towels, decorative moss, and weeds](https://www.pcgamer.com/games/sim/house-flipper-2-update-adds-150-new-items-including-towels-decorative-moss-and-weeds)
+ - [Former Blizzard president Mike Ybarra is now CEO of one of those technically-not-gambling daily fantasy sports apps](https://www.pcgamer.com/gaming-industry/former-blizzard-president-mike-ybarra-is-now-ceo-of-one-of-those-technically-not-gambling-daily-fantasy-sports-apps)
+ - [The follow-up to Palworld could go &#39;beyond AAA&#39;, but Pocketpair&#39;s CEO only wants to pursue projects that &#39;are interesting as indie games&#39;](https://www.pcgamer.com/games/survival-crafting/the-follow-up-to-palworld-could-go-beyond-aaa-but-pocketpairs-ceo-only-wants-to-pursue-projects-that-are-interesting-as-indie-games)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
