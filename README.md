@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Arwen Und\u00f3miel in \u2153 scale](http://9gag.com/gag/aMVwKDx)
- - ⏩ [A giant play button in the middle of London.](http://9gag.com/gag/a347RnN)
- - 👉 [Energetic policewomen](http://9gag.com/gag/aryOmpB)<!-- MEMES:END -->
+ - 💣 [Chinese shuttler He Bingjiao carries Spanish flag badge onto the podium after her Spanish semifinal opponent&#39;s withdrawal due to injury](http://9gag.com/gag/aKG2G96)
+ - ⏩ [You cannot control what happens to you, but you can control your attitude toward what happens to you, and in that, you will be mastering change rather than allowing it to master you.](http://9gag.com/gag/a4PZEjZ)
+ - 👉 [This feels like entrapment](http://9gag.com/gag/azxreXz)<!-- MEMES:END -->
 
 ---
 
