@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [World\u2019s strongest man vs World\u2019s strongest rifle.](http://9gag.com/gag/azxrxvj)
- - ⏩ [Muslim gangs , is that real german gov ?](http://9gag.com/gag/aMVw4BG)
- - 👉 [Japan right now](http://9gag.com/gag/aXPAPe9)<!-- MEMES:END -->
+ - 💣 [They won&#39;t show this on the news channel, would they?](http://9gag.com/gag/a0edo0n)
+ - ⏩ [An eye for an eye, and a tooth for a tooth.](http://9gag.com/gag/adBq1oM)
+ - 👉 [World\u2019s strongest man vs World\u2019s strongest rifle.](http://9gag.com/gag/azxrxvj)<!-- MEMES:END -->
 
 ---
 
