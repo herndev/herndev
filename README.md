@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [MSI is celebrating the 20th anniversary of its first laptop in London](https://www.pcgamer.com/hardware/gaming-laptops/msi-is-celebrating-the-20th-anniversary-of-its-first-laptop-in-london)
- - [The Best Places To Farm Blood Eagles In Fallout 76](https://kotaku.com/fallout-76-blood-eagles-farm-best-location-1851614257)
- - [How to find and beat Impalers in Helldivers 2](https://www.pcgamer.com/games/third-person-shooter/helldivers-2-impaler)<!-- GAME:END -->
+ - [‘Anti-war wargame’ Chicago ’68 arrives on Kickstarter in time for the Democratic National Convention](https://www.polygon.com/24213917/chicago-68-board-game-kickstarter-preview-interview)
+ - [Alan Wake 2 fan notices a sound cue gives the game away about its villain early on, Remedy sound dev gasps &#39;Finally someone noticed&#39;](https://www.pcgamer.com/games/horror/alan-wake-2-fan-notices-a-sound-cue-gives-the-game-away-about-its-villain-early-on-remedy-sound-dev-gasps-finally-someone-noticed)
+ - [&#39;I hate the thought of Balatro becoming a true gambling game&#39;: LocalThunk is making sure casinos can&#39;t get their hands on his game even after he dies by literally writing it into his will](https://www.pcgamer.com/games/roguelike/i-hate-the-thought-of-balatro-becoming-a-true-gambling-game-localthunk-is-making-sure-casinos-cant-get-their-hands-on-his-game-even-after-he-dies-by-literally-writing-it-into-his-will)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
