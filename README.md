@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Gemini now supports the Pixel Tablet — kind of](https://www.androidauthority.com/gemini-pixel-tablet-3468580/)
- - [Pack Your Bags With 8 Great Deals from Patagonia&#39;s Past-Season Sale](https://www.wired.com/story/patagonias-past-season-sale-2024/)
- - [All of Ember’s self-heating mugs are 20 percent off right now](https://www.theverge.com/2024/8/6/24214778/ember-mug-2-self-heating-tumbler-cup-travel-deal-sale)<!-- TECH:END -->
+ - [An analysis of 20,000 EV stations concludes that charging is still a massive bummer](https://www.theverge.com/2024/8/6/24214581/electric-vehicle-charging-reliability-study-chargehelp)
+ - [Reddit says it plans to test AI-powered search result pages later this year, using a combination of first- and third-party tech to power the feature &lpar;Lauren Forristal/TechCrunch&rpar;](http://www.techmeme.com/240806/p34#a240806p34)
+ - [Save 30% and keep all your devices charged with the Anker Nano Charging Station](https://www.androidauthority.com/anker-nano-charging-station-deal-2-3468511/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
