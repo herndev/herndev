@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Arwen Und\u00f3miel in \u2153 scale](http://9gag.com/gag/aMVwKDx)
- - ⏩ [There are about 120 mosques in Toronto. Why are they praying in the street?](http://9gag.com/gag/a4PZ3Vm)
- - 👉 [Your first project when you lie on your job application](http://9gag.com/gag/aGy0ERZ)<!-- MEMES:END -->
+ - 💣 [9gaggers... hear me out...](http://9gag.com/gag/a6ZMDRq)
+ - ⏩ [Dad brings daughter to cosplay competition](http://9gag.com/gag/a87pGZZ)
+ - 👉 [Coin flip is sacred](http://9gag.com/gag/aYQKrBw)<!-- MEMES:END -->
 
 ---
 
