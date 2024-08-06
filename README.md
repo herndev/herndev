@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Can Drilbur be shiny in Pokémon Go?](https://www.polygon.com/pokemon-go-guide/24213801/can-drilbur-be-shiny-excadrill)
  - [Today&#39;s Wordle answer for Tuesday, August 6](https://www.pcgamer.com/games/puzzle/wordle-answer-today-august-6-2024)
- - [House Flipper 2 update adds 150 new items, including towels, decorative moss, and weeds](https://www.pcgamer.com/games/sim/house-flipper-2-update-adds-150-new-items-including-towels-decorative-moss-and-weeds)
- - [Former Blizzard president Mike Ybarra is now CEO of one of those technically-not-gambling daily fantasy sports apps](https://www.pcgamer.com/gaming-industry/former-blizzard-president-mike-ybarra-is-now-ceo-of-one-of-those-technically-not-gambling-daily-fantasy-sports-apps)<!-- GAME:END -->
+ - [House Flipper 2 update adds 150 new items, including towels, decorative moss, and weeds](https://www.pcgamer.com/games/sim/house-flipper-2-update-adds-150-new-items-including-towels-decorative-moss-and-weeds)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
