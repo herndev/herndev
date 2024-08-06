@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at some of Apple&#39;s pre-prompt instructions for Apple Intelligence, including &quot;do not hallucinate&quot; for a text generation feature &lpar;Wes Davis/The Verge&rpar;](http://www.techmeme.com/240805/p39#a240805p39)
- - [Trump appeared on a Kick livestream with Adin Ross, then things got weird](https://www.theverge.com/2024/8/5/24214007/trump-adin-ross-livestream-kick-2024-presidential-election)
- - [How iOS 18&#39;s Web Eraser content-blocker morphed into a distraction-hiding tool](https://appleinsider.com/articles/24/08/05/how-ios-18s-web-eraser-content-blocker-morphed-into-a-distraction-hiding-tool?utm_medium=rss)<!-- TECH:END -->
+ - [The Verge’s 2024 back-to-school gift guide](https://www.theverge.com/24186140/back-to-school-student-gifts-college-high-school-dorm-accessories-ideas-2024)
+ - [Apple&#39;s shift to AI could allow it to handle searches via Siri and AI chatbots instead of web browsers, softening the blow from the Google antitrust ruling &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/240805/p42#a240805p42)
+ - [Source: OpenAI President and co-founder Greg Brockman is taking an extended leave of absence, and product leader Peter Deng, who joined last year, has left &lpar;The Information&rpar;](http://www.techmeme.com/240805/p41#a240805p41)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
