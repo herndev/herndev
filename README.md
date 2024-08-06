@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Verge’s 2024 back-to-school gift guide](https://www.theverge.com/24186140/back-to-school-student-gifts-college-high-school-dorm-accessories-ideas-2024)
- - [Apple&#39;s shift to AI could allow it to handle searches via Siri and AI chatbots instead of web browsers, softening the blow from the Google antitrust ruling &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/240805/p42#a240805p42)
- - [Source: OpenAI President and co-founder Greg Brockman is taking an extended leave of absence, and product leader Peter Deng, who joined last year, has left &lpar;The Information&rpar;](http://www.techmeme.com/240805/p41#a240805p41)<!-- TECH:END -->
+ - [OpenAI has developed a 99.9% accuracy tool to detect ChatGPT content, but you are safe for now](https://www.androidauthority.com/openai-tool-detect-chatgpt-content-3468136/)
+ - [Tablet sales are finally starting to look normal again](https://www.androidauthority.com/tablet-sales-report-3468204/)
+ - [US v. Google: a judge says Google has a monopoly in &quot;general search text advertising&quot; and it used exclusive agreements to raise prices without any competition &lpar;Lauren Feiner/The Verge&rpar;](http://www.techmeme.com/240805/p44#a240805p44)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
