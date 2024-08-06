@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google launches new Nest Thermostat that looks like a giant Pixel Watch](https://www.androidauthority.com/google-nest-learning-thermostat-4th-gen-3467681/)
- - [Google TV’s new AI features aim to upgrade your TV watching experience](https://www.androidauthority.com/google-tv-ai-features-3467709/)
- - [The new Google TV Streamer remote will work with your older Chromecast with Google TV](https://www.androidauthority.com/google-tv-streamer-remote-chromecast-3468172/)<!-- TECH:END -->
+ - [Uber says its Advertising annual revenue run-rate passed $1B in Q2, up from $650M+ in Q2 2023; Uber began selling in-app Journey Ads programmatically in June &lpar;Kathryn Lundstrom/Adweek&rpar;](http://www.techmeme.com/240806/p19#a240806p19)
+ - [What to expect from Google’s Pixel 9 event](https://www.theverge.com/2024/7/31/24208625/google-pixel-hardware-event-august-2024-leaks)
+ - [beCreatus DP1310 Hybrid Dock review: Uniting your devices and lifestyles](https://appleinsider.com/articles/24/08/06/becreatus-dp1310-hybrid-dock-review-uniting-your-devices-and-lifestyles?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
