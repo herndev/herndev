@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Why are so many car YouTubers quitting?](https://www.theverge.com/2024/8/7/24214600/car-youtube-quit-donut-car-throttle-hoonigan)
- - [Disney’s streaming business turned a profit for the first time](https://www.theverge.com/2024/8/7/24214898/disney-streaming-business-profitable-earnings-q3-2024)
- - [The UK CMA approves HPE&#39;s $14B deal to buy Juniper Networks after finding no competition concerns, following EU regulators approving the deal on August 1 &lpar;Katharine Gemmell/Bloomberg&rpar;](http://www.techmeme.com/240807/p15#a240807p15)<!-- TECH:END -->
+ - [OnePlus Open Apex Edition is a gorgeous upgrade that adds VIP mode to the foldable](https://www.androidauthority.com/oneplus-open-apex-edition-launch-3468430/)
+ - [OnePlus tries to steal Google’s thunder with a limited edition OnePlus Open](https://www.theverge.com/2024/8/7/24214775/oneplus-open-apex-edition-special-color)
+ - [August 2024 Android security patch arrives for Pixel phones and the Pixel Tablet](https://www.androidauthority.com/august-2024-pixel-update-3468744/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
