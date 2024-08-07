@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Balatro is getting a free ‘major gameplay update’ in 2025](https://www.theverge.com/2024/8/7/24215342/balatro-free-major-gameplay-update-2025)
- - [X Is Boosting the Far Right&#39;s UK Riots as Telegram Scrambles for Control](https://www.wired.com/story/telegram-is-blocking-the-far-right-from-boosting-the-uk-riots-x-is-emboldening-them/)
- - [Anker redesigned its wall charger so it won’t constantly fall out of the outlet](https://www.theverge.com/2024/8/7/24215215/anker-prime-charger-usb-c-gan-power)<!-- TECH:END -->
+ - [Senators want an investigation of the Fox–Disney–Warner Bros sports bundle](https://www.theverge.com/2024/8/7/24215343/warren-sanders-castro-doj-joint-sports-venture-disney-fox-warner-bros)
+ - [More Pixel 9 series images surface ahead of next week’s launch](https://www.androidauthority.com/pixel-9-series-images-leak-3468863/)
+ - [iPad Pro updates ignite consumer interest, giving a giant boost to sales](https://appleinsider.com/articles/24/08/07/ipad-pro-updates-ignite-consumer-interest-giving-a-giant-boost-to-sales?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
