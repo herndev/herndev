@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Take advantage of these Keychron keyboard discounts while they last](https://www.polygon.com/24215473/woot-keychron-mechanical-keyboard-deal-sale)
- - [StarCraft 2 spiritual successor Stormgate launches to a mixed rating on Steam, but Frost Giant is undaunted: &#39;Mixed reviews are to be expected at this stage&#39;](https://www.pcgamer.com/games/rts/starcraft-2-spiritual-successor-stormgate-launches-to-a-mixed-rating-on-steam-but-frost-giant-is-undaunted-mixed-reviews-are-to-be-expected-at-this-stage)
- - [Quick, Go Play Call of Duty’s WWE Mode Before It Goes Away Tonight](https://kotaku.com/call-of-duty-mw3-summerslam-slam-deathmatch-mode-1851615853)<!-- GAME:END -->
+ - [YouTuber iShowSpeed Challenged By Olympic Runner After Saying He&#39;s Never Lost A Race](https://kotaku.com/ishowspeed-ewa-swoboda-olympics-youtube-ban-1851615934)
+ - [A pedophile used Roblox to groom, abduct and sexually assault a 15-year-old girl, a full 18 months after the community had outed him as a predator](https://www.pcgamer.com/software/platforms/a-pedophile-used-roblox-to-groom-abduct-and-sexually-assault-a-15-year-old-girl-a-full-18-months-after-the-community-had-outed-him-as-a-predator)
+ - [Baldur&#39;s Gate 3 anniversary statistics cement the popularity of Astarion, kissing, and being turned into a cheese wheel](https://www.pcgamer.com/games/baldurs-gate/baldurs-gate-3-anniversary-statistics-cement-the-popularity-of-astarion-kissing-and-being-turned-into-a-cheese-wheel)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
