@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [WEF agenda 2030](http://9gag.com/gag/amor19V)
- - ⏩ [Its the only logical choice](http://9gag.com/gag/a1md79G)
- - 👉 [Easy money](http://9gag.com/gag/a7oZ0dq)<!-- MEMES:END -->
+ - 💣 [Brutal](http://9gag.com/gag/apRr1Ln)
+ - ⏩ [Terrorist trying to sneak inside israel](http://9gag.com/gag/a5QZBzq)
+ - 👉 [House made of alumulumu](http://9gag.com/gag/azxrdEq)<!-- MEMES:END -->
 
 ---
 
