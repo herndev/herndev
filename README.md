@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Gimme an armor and an electric racket](http://9gag.com/gag/an7yOGV)
- - ⏩ [Sports have to be fair](http://9gag.com/gag/a6ZMqw8)
- - 👉 [Comparison.](http://9gag.com/gag/a7oZoXA)<!-- MEMES:END -->
+ - 💣 [Groom exposes bride that cheated with his friend](http://9gag.com/gag/ae9Y4rv)
+ - ⏩ [Bad day to be hustling](http://9gag.com/gag/aE0R0yn)
+ - 👉 [Sports have to be fair](http://9gag.com/gag/a6ZMqw8)<!-- MEMES:END -->
 
 ---
 
