@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Bad ride](http://9gag.com/gag/aMVwmOV)
- - ⏩ [Still makes me laugh after all these years](http://9gag.com/gag/a6ZM1PR)
- - 👉 [Bad day to be hustling](http://9gag.com/gag/aE0R0yn)<!-- MEMES:END -->
+ - 💣 [During the Spanish Civil War, French architect surrealist painter Alphonse Laurencic designed holding cells for the Spanish government. He built beds in such a manner that the prisoners would roll off them, and placed obstacles on the floor making it impossible to sleep](http://9gag.com/gag/aAyw6gR)
+ - ⏩ [Any experts on geopolitics?](http://9gag.com/gag/aD2j72O)
+ - 👉 [Bad ride](http://9gag.com/gag/aMVwmOV)<!-- MEMES:END -->
 
 ---
 
