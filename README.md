@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [YouTuber iShowSpeed Challenged By Olympic Runner After Saying He&#39;s Never Lost A Race](https://kotaku.com/ishowspeed-ewa-swoboda-olympics-youtube-ban-1851615934)
- - [A pedophile used Roblox to groom, abduct and sexually assault a 15-year-old girl, a full 18 months after the community had outed him as a predator](https://www.pcgamer.com/software/platforms/a-pedophile-used-roblox-to-groom-abduct-and-sexually-assault-a-15-year-old-girl-a-full-18-months-after-the-community-had-outed-him-as-a-predator)
- - [Baldur&#39;s Gate 3 anniversary statistics cement the popularity of Astarion, kissing, and being turned into a cheese wheel](https://www.pcgamer.com/games/baldurs-gate/baldurs-gate-3-anniversary-statistics-cement-the-popularity-of-astarion-kissing-and-being-turned-into-a-cheese-wheel)<!-- GAME:END -->
+ - [Interstellar’s IMAX rerelease wasn’t canceled over destroyed prints, despite viral rumors](https://www.polygon.com/24215607/interstellar-imax-release-december-2024-release-date)
+ - [Bungie can&#39;t catch a W: Rather than buffing the drop rate of Destiny 2&#39;s most-wanted exotic items, the latest patch nerfed it into dust](https://www.pcgamer.com/games/fps/bungie-cant-catch-a-w-rather-than-buffing-the-drop-rate-of-destiny-2s-most-wanted-exotic-items-the-latest-patch-has-nerfed-it-into-the-ground)
+ - [Disney+ Cracking Down On Password Sharing In September](https://kotaku.com/disney-plus-streaming-password-sharing-crackdown-when-1851615935)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
