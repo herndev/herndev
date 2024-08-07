@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [AI threatens to upend India&#39;s $250B outsourcing industry, as companies plan to automate BPO; HSBC says 80%+ of the S&amp;P 500 outsource some operations to India &lpar;Megha Mandavia/Wall Street Journal&rpar;](http://www.techmeme.com/240807/p6#a240807p6)
- - [A profile of Yang Zhilin, the founder and CEO of China&#39;s highest-valued AI unicorn Moonshot, who studied at Carnegie Mellon University and worked at Huawei &lpar;Ben Jiang/South China Morning Post&rpar;](http://www.techmeme.com/240807/p5#a240807p5)
- - [Anker charges ahead with launch of 2024 Prime lineup](https://www.androidauthority.com/anker-prime-chargers-2024-3468569/)<!-- TECH:END -->
+ - [Ford announces Bronco- and Mustang-inspired e-bikes](https://www.theverge.com/2024/8/7/24214731/ford-ebike-bronco-mustang-specs-price-photos)
+ - [UK officials say X has been less responsive to removing disinformation than Meta, Google, and TikTok, as Elon Musk launches a series of jibes at Keir Starmer &lpar;Financial Times&rpar;](http://www.techmeme.com/240807/p7#a240807p7)
+ - [In a Rush to Charge Your iPhone? Here&#39;s the Quickest Way to Get to 100%](https://www.cnet.com/tech/mobile/in-a-rush-to-charge-your-iphone-heres-the-quickest-way-to-get-to-100/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
