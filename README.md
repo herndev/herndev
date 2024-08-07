@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Its the only logical choice](http://9gag.com/gag/a1md79G)
- - ⏩ [This is the real England, UK and the commonwealth....](http://9gag.com/gag/aGy0L77)
- - 👉 [Go Ireland!](http://9gag.com/gag/aXPA4oD)<!-- MEMES:END -->
+ - 💣 [Pedo woman](http://9gag.com/gag/ayNL4Wp)
+ - ⏩ [British police look like they&#39;ve been held hostage](http://9gag.com/gag/a6ZMnEA)
+ - 👉 [Civil War among us](http://9gag.com/gag/aD2j85O)<!-- MEMES:END -->
 
 ---
 
