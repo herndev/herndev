@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I think Trump figured out the pattern](http://9gag.com/gag/a6ZM9DR)
- - ⏩ [An eye for an eye, and a tooth for a tooth.](http://9gag.com/gag/adBq1oM)
- - 👉 [9gaggers... hear me out...](http://9gag.com/gag/a6ZMDRq)<!-- MEMES:END -->
+ - 💣 [WEF agenda 2030](http://9gag.com/gag/amor19V)
+ - ⏩ [Its the only logical choice](http://9gag.com/gag/a1md79G)
+ - 👉 [Easy money](http://9gag.com/gag/a7oZ0dq)<!-- MEMES:END -->
 
 ---
 
