@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [House of the Dragon season 2 told a deeper story through its dragons](https://www.polygon.com/24214547/house-dragon-season-2-book-spoilers-rhaenyra)
- - [Witcher 3 composer Mikolai Stroinski begins work on each game by ‘going on a date’](https://www.polygon.com/24214165/witcher-3-composer-mikolai-stroinski-interview)
- - [How To Find Once Human&#39;s Rarest Deviant, Artisan&#39;s Touch](https://kotaku.com/once-human-artisans-touch-deviant-crafting-1851615180)<!-- GAME:END -->
+ - [The Lord of the Rings: Return to Moria Comes to Xbox on August 27 – With a Brand New Mode](https://news.xbox.com/en-us/2024/08/07/lord-of-the-rings-return-to-moria-xbox-updates/)
+ - [We can thank Hideki Naganuma for putting Malcolm X in a Sonic game](https://www.polygon.com/24213685/malcolm-x-sonic-game-soundtrack-sample)
+ - [How to get rid of Yellow Witherbloom in Creatures of Ava](https://www.pcgamer.com/games/adventure/creatures-of-ava-yellow-witherbloom)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
