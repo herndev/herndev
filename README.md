@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s iOS 17.6.1 &amp; macOS Sonoma 14.6.1 are out, with minor improvements](https://appleinsider.com/articles/24/08/07/apples-ios-1761-macos-sonoma-1461-are-out-with-minor-improvements?utm_medium=rss)
- - [Android 15 lock screen widgets: Here’s a better look at this upcoming feature!](https://www.androidauthority.com/android-15-lock-screen-widgets-new-look-3468958/)
- - [Why Google decided now’s the time to move on from Chromecast](https://www.theverge.com/2024/8/7/24215275/google-tv-streamer-chromecast-gemini-interview)<!-- TECH:END -->
+ - [What’s on your desk, Jess Weatherbed?](https://www.theverge.com/24212190/work-home-desk-cthulhu-msi-logitech)
+ - [Uber and Lyft threatened to leave Minnesota — then Tim Walz stepped in](https://www.theverge.com/24214575/tim-walz-uber-lyft-driver-pay-veto-vp-minnesota)
+ - [Sources: Meta is in talks to license its Horizon software to Jio, which would use it to power a VR device &lpar;The Information&rpar;](http://www.techmeme.com/240807/p24#a240807p24)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
