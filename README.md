@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Here&#39;s what iOS 18 has for owners of older Apple devices](https://appleinsider.com/articles/24/08/07/heres-what-ios-18-and-other-os-updates-have-for-owners-of-older-apple-devices?utm_medium=rss)
- - [Garmin’s app store now lets you buy apps and watch faces, but there’s a catch](https://www.androidauthority.com/garmin-connect-iq-buy-apps-faces-garmin-pay-3468682/)
- - [Sweden&#39;s EQT plans to buy a majority stake in Swiss cybersecurity and data protection company Acronis, sources say valuing Acronis at $4B, up from $3.5B in 2022 &lpar;Reuters&rpar;](http://www.techmeme.com/240807/p10#a240807p10)<!-- TECH:END -->
+ - [Why are so many car YouTubers quitting?](https://www.theverge.com/2024/8/7/24214600/car-youtube-quit-donut-car-throttle-hoonigan)
+ - [Disney’s streaming business turned a profit for the first time](https://www.theverge.com/2024/8/7/24214898/disney-streaming-business-profitable-earnings-q3-2024)
+ - [The UK CMA approves HPE&#39;s $14B deal to buy Juniper Networks after finding no competition concerns, following EU regulators approving the deal on August 1 &lpar;Katharine Gemmell/Bloomberg&rpar;](http://www.techmeme.com/240807/p15#a240807p15)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
