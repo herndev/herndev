@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [An analysis of 20,000 EV stations concludes that charging is still a massive bummer](https://www.theverge.com/2024/8/6/24214581/electric-vehicle-charging-reliability-study-chargehelp)
- - [Reddit says it plans to test AI-powered search result pages later this year, using a combination of first- and third-party tech to power the feature &lpar;Lauren Forristal/TechCrunch&rpar;](http://www.techmeme.com/240806/p34#a240806p34)
- - [Save 30% and keep all your devices charged with the Anker Nano Charging Station](https://www.androidauthority.com/anker-nano-charging-station-deal-2-3468511/)<!-- TECH:END -->
+ - [Brian Chesky says Airbnb plans to expand into new products and services, including co-hosting this fall, guest services, and a relaunch of experiences next year &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/240806/p37#a240806p37)
+ - [OpenAI unveils Structure Outputs in the API, a feature to ensure model-generated outputs match JSON Schemas, and lower pricing for a new version of GPT-4o &lpar;Michelle Pokrass/OpenAI&rpar;](http://www.techmeme.com/240806/p36#a240806p36)
+ - [California&#39;s AI safety bill will harm developers, open-source development, the public sector, and academia, while failing to address the potential harms of AI &lpar;Fei-Fei Li/Fortune&rpar;](http://www.techmeme.com/240806/p35#a240806p35)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
