@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [What kind of finish is this!? \ud83d\ude44](http://9gag.com/gag/a2vdMxp)
- - ⏩ [Oh boy oh boy](http://9gag.com/gag/a4PZPo1)
- - 👉 [Comparison.](http://9gag.com/gag/a7oZoXA)<!-- MEMES:END -->
+ - 💣 [I think Trump figured out the pattern](http://9gag.com/gag/a6ZM9DR)
+ - ⏩ [An eye for an eye, and a tooth for a tooth.](http://9gag.com/gag/adBq1oM)
+ - 👉 [9gaggers... hear me out...](http://9gag.com/gag/a6ZMDRq)<!-- MEMES:END -->
 
 ---
 
