@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Understandable](http://9gag.com/gag/ajPq7n1)
- - ⏩ [Sports have to be fair](http://9gag.com/gag/a6ZMqw8)
- - 👉 [Go on. Don&#39;t be shy now.](http://9gag.com/gag/ajPqVD0)<!-- MEMES:END -->
+ - 💣 [Oh yeah, its happening](http://9gag.com/gag/a87p6dV)
+ - ⏩ [Fake speed bumper](http://9gag.com/gag/abA6enp)
+ - 👉 [They won&#39;t show this on the news channel, would they?](http://9gag.com/gag/a0edo0n)<!-- MEMES:END -->
 
 ---
 
