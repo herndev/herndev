@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Groom exposes bride that cheated with his friend](http://9gag.com/gag/ae9Y4rv)
- - ⏩ [Bad day to be hustling](http://9gag.com/gag/aE0R0yn)
- - 👉 [Sports have to be fair](http://9gag.com/gag/a6ZMqw8)<!-- MEMES:END -->
+ - 💣 [9gaggers... hear me out...](http://9gag.com/gag/a6ZMDRq)
+ - ⏩ [Groom exposes bride that cheated with his friend](http://9gag.com/gag/ae9Y4rv)
+ - 👉 [Brutal](http://9gag.com/gag/apRr1Ln)<!-- MEMES:END -->
 
 ---
 
