@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [OnePlus Open Apex Edition is a gorgeous upgrade that adds VIP mode to the foldable](https://www.androidauthority.com/oneplus-open-apex-edition-launch-3468430/)
- - [OnePlus tries to steal Google’s thunder with a limited edition OnePlus Open](https://www.theverge.com/2024/8/7/24214775/oneplus-open-apex-edition-special-color)
- - [August 2024 Android security patch arrives for Pixel phones and the Pixel Tablet](https://www.androidauthority.com/august-2024-pixel-update-3468744/)<!-- TECH:END -->
+ - [Wallpaper Wednesday: More great phone wallpapers for all to share &lpar;August 7&rpar;](https://www.androidauthority.com/wallpaper-wednesday-aug-07-2024-3466750/)
+ - [Use it or not, AI will have one awesome impact on the Pixel 9](https://www.androidauthority.com/ai-awesome-impact-pixel-9-3467608/)
+ - [Stripe withholding $100k from popular Mac utility developer](https://appleinsider.com/articles/24/08/07/stripe-withholding-100k-from-popular-mac-utility-developer?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
