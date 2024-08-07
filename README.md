@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Senators want an investigation of the Fox–Disney–Warner Bros sports bundle](https://www.theverge.com/2024/8/7/24215343/warren-sanders-castro-doj-joint-sports-venture-disney-fox-warner-bros)
- - [More Pixel 9 series images surface ahead of next week’s launch](https://www.androidauthority.com/pixel-9-series-images-leak-3468863/)
- - [iPad Pro updates ignite consumer interest, giving a giant boost to sales](https://appleinsider.com/articles/24/08/07/ipad-pro-updates-ignite-consumer-interest-giving-a-giant-boost-to-sales?utm_medium=rss)<!-- TECH:END -->
+ - [Apple&#39;s iOS 17.6.1 &amp; macOS Sonoma 14.6.1 are out, with minor improvements](https://appleinsider.com/articles/24/08/07/apples-ios-1761-macos-sonoma-1461-are-out-with-minor-improvements?utm_medium=rss)
+ - [Android 15 lock screen widgets: Here’s a better look at this upcoming feature!](https://www.androidauthority.com/android-15-lock-screen-widgets-new-look-3468958/)
+ - [Why Google decided now’s the time to move on from Chromecast](https://www.theverge.com/2024/8/7/24215275/google-tv-streamer-chromecast-gemini-interview)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
