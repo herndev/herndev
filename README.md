@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [&#39;Everything&#39;s held together with duct tape&#39;: Fallout London&#39;s project lead discusses all the bugs, including the infamous train crash](https://www.pcgamer.com/games/fallout/everythings-held-together-with-duct-tape-fallout-londons-project-lead-discusses-all-the-bugs-including-the-infamous-train-crash)
- - [UK Royal Mint&#39;s &#39;urban mining&#39; extracts more gold from old motherboards and other junk than you might think](https://www.pcgamer.com/hardware/uk-royal-mints-urban-mining-extracts-more-gold-from-old-motherboards-and-other-junk-than-you-might-think)
- - [AMD&#39;s new Ryzen 9000 CPUs are officially up to $50 cheaper than the old 7000 series were at launch](https://www.pcgamer.com/hardware/processors/amds-new-ryzen-9000-cpus-are-officially-up-to-dollar50-cheaper-than-the-old-7000-series-were-at-launch)<!-- GAME:END -->
+ - [Warhammer 40,000: Space Marine II’s PvE Operations Mode Feels Like a Whole Separate Game](https://news.xbox.com/en-us/2024/08/07/warhammer-40000-space-marine-iis-pve-operations-mode-feels-like-a-whole-separate-game/)
+ - [Final Fantasy characters keep on bursting into song — and it works](https://www.polygon.com/24212297/final-fantasy-7-rebirth-theme-diegetic-songs)
+ - [How to fast travel with the Battle Bus and Bus Stations in Lego Fortnite](https://www.polygon.com/lego-fortnite-guides/24214593/fast-travel-bus-stations-battle-bus-rift-shards)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
