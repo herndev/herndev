@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Interstellar’s IMAX rerelease wasn’t canceled over destroyed prints, despite viral rumors](https://www.polygon.com/24215607/interstellar-imax-release-december-2024-release-date)
- - [Bungie can&#39;t catch a W: Rather than buffing the drop rate of Destiny 2&#39;s most-wanted exotic items, the latest patch nerfed it into dust](https://www.pcgamer.com/games/fps/bungie-cant-catch-a-w-rather-than-buffing-the-drop-rate-of-destiny-2s-most-wanted-exotic-items-the-latest-patch-has-nerfed-it-into-the-ground)
- - [Disney+ Cracking Down On Password Sharing In September](https://kotaku.com/disney-plus-streaming-password-sharing-crackdown-when-1851615935)<!-- GAME:END -->
+ - [Lone Echo developer Ready at Dawn has reportedly been closed by Meta](https://www.pcgamer.com/games/vr/lone-echo-developer-ready-at-dawn-has-reportedly-been-closed-by-meta)
+ - [The Return Of Christopher Nolan&#39;s Interstellar Gets Delayed](https://kotaku.com/interstellar-theaters-70mm-imax-nolan-release-date-1851616103)
+ - [Diablo IV Glitch Lets Player Gain 30+ Levels In One Second](https://kotaku.com/diablo-iv-umbracrux-level-up-bug-xp-season-5-blizzard-1851616082)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
