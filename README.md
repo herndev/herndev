@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Oh boy oh boy](http://9gag.com/gag/a4PZPo1)
- - ⏩ [Japan right now](http://9gag.com/gag/aXPAPe9)
- - 👉 [Brutal](http://9gag.com/gag/apRr1Ln)<!-- MEMES:END -->
+ - 💣 [An eye for an eye, and a tooth for a tooth.](http://9gag.com/gag/adBq1oM)
+ - ⏩ [Comparison.](http://9gag.com/gag/a7oZoXA)
+ - 👉 [I think Trump figured out the pattern](http://9gag.com/gag/a6ZM9DR)<!-- MEMES:END -->
 
 ---
 
