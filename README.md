@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Pedo woman](http://9gag.com/gag/ayNL4Wp)
- - ⏩ [British police look like they&#39;ve been held hostage](http://9gag.com/gag/a6ZMnEA)
- - 👉 [Civil War among us](http://9gag.com/gag/aD2j85O)<!-- MEMES:END -->
+ - 💣 [World\u2019s strongest man vs World\u2019s strongest rifle.](http://9gag.com/gag/azxrxvj)
+ - ⏩ [Understandable](http://9gag.com/gag/ajPq7n1)
+ - 👉 [Pedo woman](http://9gag.com/gag/ayNL4Wp)<!-- MEMES:END -->
 
 ---
 
