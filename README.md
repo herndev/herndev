@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [AMD&#39;s new Ryzen 9000 CPUs are officially up to $50 cheaper than the old 7000 series were at launch](https://www.pcgamer.com/hardware/processors/amds-new-ryzen-9000-cpus-are-officially-up-to-dollar50-cheaper-than-the-old-7000-series-were-at-launch)
  - [Today&#39;s Wordle answer for Wednesday, August 7](https://www.pcgamer.com/games/puzzle/wordle-answer-today-august-7-2024)
- - [Here&#39;s what Karlach and Astarion get up to if you leave them at camp: Joining a D&amp;D actual-play show](https://www.pcgamer.com/games/rpg/heres-what-karlach-and-astarion-get-up-to-if-you-leave-them-at-camp-joining-a-dandd-actual-play-show)
- - [Vice-presidential candidate Tim Walz once endorsed a high school Valorant team](https://www.pcgamer.com/games/fps/vice-presidential-candidate-tim-walz-once-endorsed-a-high-school-valorant-team)<!-- GAME:END -->
+ - [Here&#39;s what Karlach and Astarion get up to if you leave them at camp: Joining a D&amp;D actual-play show](https://www.pcgamer.com/games/rpg/heres-what-karlach-and-astarion-get-up-to-if-you-leave-them-at-camp-joining-a-dandd-actual-play-show)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
