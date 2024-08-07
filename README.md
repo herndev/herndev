@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How Les Wexner, Victoria&#39;s Secret billionaire owner, made early investments in Atlantic Crypto, which then turned into CoreWeave, netting him a $720M stake &lpar;Forbes&rpar;](http://www.techmeme.com/240806/p42#a240806p42)
- - [Chrome just made your browsing history easier to understand](https://www.androidauthority.com/chrome-history-third-party-apps-3468437/)
- - [Here&#39;s what iOS 18 and other OS updates have for owners of older Apple devices](https://appleinsider.com/articles/24/08/07/heres-what-ios-18-and-other-os-updates-have-for-owners-of-older-apple-devices?utm_medium=rss)<!-- TECH:END -->
+ - [Division in Hollywood&#39;s approach to AI is growing, as some studios want to use AI tools more often in production, while unions aim to establish guardrails &lpar;Winston Cho/The Hollywood Reporter&rpar;](http://www.techmeme.com/240807/p1#a240807p1)
+ - [Best Online Flower Delivery Services for 2024](https://www.cnet.com/news/best-flower-delivery-service/#ftag=CAD590a51e)
+ - [Lenovo leak hints at a Legion Go ‘Lite’ handheld gaming console with a 7-inch display](https://www.androidauthority.com/leak-lenovo-legion-go-lite-3468502/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
