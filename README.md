@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Call Of Duty: Black Ops 6 Action Looks Wild With Low Gravity Mod](https://kotaku.com/call-duty-black-ops-6-cod-blops-ps4-leak-mod-1851615761)
- - [I&#39;ve never needed anything more than &#39;the world&#39;s first medieval electronic instrument,&#39; a pre-Baroque beatbox that looks like a Pentiment/DJ Hero collab](https://www.pcgamer.com/hardware/ive-never-needed-anything-more-than-the-worlds-first-medieval-electronic-instrument-a-pre-baroque-beatbox-that-looks-like-a-pentimentdj-hero-collab)
- - [Borderlands Movie First Impressions Call It &#39;Lifeless&#39; And &#39;Really Bad&#39;](https://kotaku.com/borderlands-movie-reviews-impressions-bad-good-negative-1851615664)<!-- GAME:END -->
+ - [Take advantage of these Keychron keyboard discounts while they last](https://www.polygon.com/24215473/woot-keychron-mechanical-keyboard-deal-sale)
+ - [StarCraft 2 spiritual successor Stormgate launches to a mixed rating on Steam, but Frost Giant is undaunted: &#39;Mixed reviews are to be expected at this stage&#39;](https://www.pcgamer.com/games/rts/starcraft-2-spiritual-successor-stormgate-launches-to-a-mixed-rating-on-steam-but-frost-giant-is-undaunted-mixed-reviews-are-to-be-expected-at-this-stage)
+ - [Quick, Go Play Call of Duty’s WWE Mode Before It Goes Away Tonight](https://kotaku.com/call-of-duty-mw3-summerslam-slam-deathmatch-mode-1851615853)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
