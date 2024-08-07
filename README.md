@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Brian Chesky says Airbnb plans to expand into new products and services, including co-hosting this fall, guest services, and a relaunch of experiences next year &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/240806/p37#a240806p37)
- - [OpenAI unveils Structure Outputs in the API, a feature to ensure model-generated outputs match JSON Schemas, and lower pricing for a new version of GPT-4o &lpar;Michelle Pokrass/OpenAI&rpar;](http://www.techmeme.com/240806/p36#a240806p36)
- - [California&#39;s AI safety bill will harm developers, open-source development, the public sector, and academia, while failing to address the potential harms of AI &lpar;Fei-Fei Li/Fortune&rpar;](http://www.techmeme.com/240806/p35#a240806p35)<!-- TECH:END -->
+ - [CrowdStrike shares a root cause analysis of the July 19 outage, and says it&#39;s working with two third-party software security vendors to conduct further review &lpar;Jessica Lyons/The Register&rpar;](http://www.techmeme.com/240806/p39#a240806p39)
+ - [Coupang reports Q2 revenue up 25% YoY to $7.3B and a net loss of $77M, its first loss since 2022, due to its Farfetch deal and a South Korean regulatory fine &lpar;Yoolim Lee/Bloomberg&rpar;](http://www.techmeme.com/240806/p38#a240806p38)
+ - [Now Logitech says the ‘forever mouse’ was just an idea](https://www.theverge.com/2024/8/6/24214857/logitech-subscription-mouse-decoder-podcast-hanneke-faber)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
