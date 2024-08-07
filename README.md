@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Fallout: London devs are working on a &#39;HUGE&#39; patch, offering &#39;dedicated 1-on-1 troubleshooting sessions&#39; to help players with installs and crashes](https://www.pcgamer.com/games/rpg/fallout-london-devs-are-working-on-a-huge-patch-offering-dedicated-1-on-1-troubleshooting-sessions-to-help-players-with-installs-and-crashes)
- - [Arkane founder Raphael Colantonio will reveal more about his next game in a few days, says fans of Dishonored and Prey &#39;will be happy&#39;](https://www.pcgamer.com/games/arkane-founder-raphael-colantonio-will-reveal-more-about-his-next-game-in-a-few-days-says-fans-of-dishonored-and-prey-will-be-happy)
- - [Fields of Mistria&#39;s town full of well-written characters and charming Game Boy Advance aesthetic immediately make it stand out from other cozy farm sims](https://www.pcgamer.com/games/life-sim/fields-of-mistrias-town-full-of-well-written-characters-and-charming-game-boy-advance-aesthetic-immediately-make-it-stand-out-from-other-cozy-farm-sims)<!-- GAME:END -->
+ - [Here&#39;s what Karlach and Astarion get up to if you leave them at camp: Joining a D&amp;D actual-play show](https://www.pcgamer.com/games/rpg/heres-what-karlach-and-astarion-get-up-to-if-you-leave-them-at-camp-joining-a-dandd-actual-play-show)
+ - [Vice-presidential candidate Tim Walz once endorsed a high school Valorant team](https://www.pcgamer.com/games/fps/vice-presidential-candidate-tim-walz-once-endorsed-a-high-school-valorant-team)
+ - [Final Fantasy 14 is a load-bearing MMO helping to keep Square Enix profitable](https://www.pcgamer.com/games/mmo/final-fantasy-14-is-a-load-bearing-mmo-helping-to-keep-square-enix-profitable)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
