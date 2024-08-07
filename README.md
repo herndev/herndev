@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Division in Hollywood&#39;s approach to AI is growing, as some studios want to use AI tools more often in production, while unions aim to establish guardrails &lpar;Winston Cho/The Hollywood Reporter&rpar;](http://www.techmeme.com/240807/p1#a240807p1)
- - [Best Online Flower Delivery Services for 2024](https://www.cnet.com/news/best-flower-delivery-service/#ftag=CAD590a51e)
- - [Lenovo leak hints at a Legion Go ‘Lite’ handheld gaming console with a 7-inch display](https://www.androidauthority.com/leak-lenovo-legion-go-lite-3468502/)<!-- TECH:END -->
+ - [A profile of Kakao founder Kim Beom-su, who was arrested in July on stock manipulation charges relating to Kakao&#39;s takeover of K-pop agency SM Entertainment &lpar;Financial Times&rpar;](http://www.techmeme.com/240807/p2#a240807p2)
+ - [Best Apple iPhone SE Cases for 2024](https://www.cnet.com/tech/mobile/best-apple-iphone-se-case/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Mini Crossword Answers for Aug. 7](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-aug-7/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
