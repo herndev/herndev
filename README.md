@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Wallpaper Wednesday: More great phone wallpapers for all to share &lpar;August 7&rpar;](https://www.androidauthority.com/wallpaper-wednesday-aug-07-2024-3466750/)
- - [Use it or not, AI will have one awesome impact on the Pixel 9](https://www.androidauthority.com/ai-awesome-impact-pixel-9-3467608/)
- - [Stripe withholding $100k from popular Mac utility developer](https://appleinsider.com/articles/24/08/07/stripe-withholding-100k-from-popular-mac-utility-developer?utm_medium=rss)<!-- TECH:END -->
+ - [When will Apple launch the iPhone 16 and iPhone 16 Pro?](https://appleinsider.com/articles/24/08/07/when-will-apple-launch-the-iphone-16-and-iphone-16-pro?utm_medium=rss)
+ - [Roku will launch a free 24/7 sports channel](https://www.theverge.com/2024/8/7/24215272/roku-sports-channel-mlb-sunday)
+ - [House of the Dragon’s second season was about the quiet moments that shape history](https://www.theverge.com/2024/8/7/24213802/house-of-the-dragon-season-two-finale-night-king)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
