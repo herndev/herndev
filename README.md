@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ford announces Bronco- and Mustang-inspired e-bikes](https://www.theverge.com/2024/8/7/24214731/ford-ebike-bronco-mustang-specs-price-photos)
- - [UK officials say X has been less responsive to removing disinformation than Meta, Google, and TikTok, as Elon Musk launches a series of jibes at Keir Starmer &lpar;Financial Times&rpar;](http://www.techmeme.com/240807/p7#a240807p7)
- - [In a Rush to Charge Your iPhone? Here&#39;s the Quickest Way to Get to 100%](https://www.cnet.com/tech/mobile/in-a-rush-to-charge-your-iphone-heres-the-quickest-way-to-get-to-100/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Here&#39;s what iOS 18 has for owners of older Apple devices](https://appleinsider.com/articles/24/08/07/heres-what-ios-18-and-other-os-updates-have-for-owners-of-older-apple-devices?utm_medium=rss)
+ - [Garmin’s app store now lets you buy apps and watch faces, but there’s a catch](https://www.androidauthority.com/garmin-connect-iq-buy-apps-faces-garmin-pay-3468682/)
+ - [Sweden&#39;s EQT plans to buy a majority stake in Swiss cybersecurity and data protection company Acronis, sources say valuing Acronis at $4B, up from $3.5B in 2022 &lpar;Reuters&rpar;](http://www.techmeme.com/240807/p10#a240807p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
