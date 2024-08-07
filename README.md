@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Jackson Hole’s new Instagram filter warns you when you’re dangerously close to wildlife](https://www.theverge.com/2024/8/7/24215490/jackson-hole-travel-tourism-board-instagram-filter-animals-national-park-safety)
- - [Robinhood reports Q2 revenue up 40% YoY to $682M, vs. $640M est., crypto transaction revenue up 161% to $81M, and net income of $188M, up from $25M in Q2 2023 &lpar;Bill Peters/MarketWatch&rpar;](http://www.techmeme.com/240807/p27#a240807p27)
- - [Do you find the Galaxy Watch’s activity notifications to be overbearing? You aren’t alone](https://www.androidauthority.com/galaxy-watch-7-ultra-activity-notifications-3468951/)<!-- TECH:END -->
+ - [Bumble reports Q2 revenue up 3.4% YoY to $268.6M, vs. $273.2M est., and projects 1% to 2% annual revenue growth, vs. 8.4% expected; BMBL drops 28%+ after hours &lpar;Evan Gorelick/Bloomberg&rpar;](http://www.techmeme.com/240807/p29#a240807p29)
+ - [Here are the best iPad deals right now](https://www.theverge.com/21280354/best-ipad-deals-apple)
+ - [Google Photos could make it easier to comment with this one small tweak &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-photos-album-comments-3469016/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
