@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Terrorist trying to sneak inside israel](http://9gag.com/gag/a5QZBzq)
- - ⏩ [Comparison.](http://9gag.com/gag/a7oZoXA)
- - 👉 [Pedo woman](http://9gag.com/gag/ayNL4Wp)<!-- MEMES:END -->
+ - 💣 [`Its just a loan`](http://9gag.com/gag/a0ed68L)
+ - ⏩ [British police look like they&#39;ve been held hostage](http://9gag.com/gag/a6ZMnEA)
+ - 👉 [Classic. Tony king had a brilliant idea.](http://9gag.com/gag/a9yW8RW)<!-- MEMES:END -->
 
 ---
 
