@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [When will Apple launch the iPhone 16 and iPhone 16 Pro?](https://appleinsider.com/articles/24/08/07/when-will-apple-launch-the-iphone-16-and-iphone-16-pro?utm_medium=rss)
- - [Roku will launch a free 24/7 sports channel](https://www.theverge.com/2024/8/7/24215272/roku-sports-channel-mlb-sunday)
- - [House of the Dragon’s second season was about the quiet moments that shape history](https://www.theverge.com/2024/8/7/24213802/house-of-the-dragon-season-two-finale-night-king)<!-- TECH:END -->
+ - [Balatro is getting a free ‘major gameplay update’ in 2025](https://www.theverge.com/2024/8/7/24215342/balatro-free-major-gameplay-update-2025)
+ - [X Is Boosting the Far Right&#39;s UK Riots as Telegram Scrambles for Control](https://www.wired.com/story/telegram-is-blocking-the-far-right-from-boosting-the-uk-riots-x-is-emboldening-them/)
+ - [Anker redesigned its wall charger so it won’t constantly fall out of the outlet](https://www.theverge.com/2024/8/7/24215215/anker-prime-charger-usb-c-gan-power)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
