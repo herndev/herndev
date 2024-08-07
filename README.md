@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [SteamWorld Heist II: Upgrading Greatness](https://news.xbox.com/en-us/2024/08/07/steamworld-heist-2-xbox/)
- - [The Japanese artistic swimming routine used music from Nier: Automata](https://www.polygon.com/24215270/japanese-artistic-swimming-synchronized-olympics-nier-automata)
- - [&#39;My thighs were absolutely killing me&#39;: Red Dead Redemption 2&#39;s Roger Clark discusses the perils of crouch running](https://www.pcgamer.com/games/action/my-thighs-were-absolutely-killing-me-red-dead-redemption-2s-roger-clark-discusses-the-perils-of-crouch-running)<!-- GAME:END -->
+ - [Fortnite to remove FOMO from future battle passes](https://www.polygon.com/24215355/fortnite-battle-pass-exclusive-skins-return-store-epic-games)
+ - [NIS America says Trails and Ys RPG fans won&#39;t have to wait so long for future English releases: &#39;We want to bring that timeline down&#39;](https://www.pcgamer.com/games/rpg/nis-america-says-trails-and-ys-rpg-fans-wont-have-to-wait-so-long-for-future-english-releases-we-want-to-bring-that-timeline-down)
+ - [Turn Up The Heat With Helldivers 2’s Most Brutal Difficulty Yet](https://kotaku.com/helldivers-2-difficulty-super-helldive-unlock-guide-1851615660)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
