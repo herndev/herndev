@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [What’s on your desk, Jess Weatherbed?](https://www.theverge.com/24212190/work-home-desk-cthulhu-msi-logitech)
- - [Uber and Lyft threatened to leave Minnesota — then Tim Walz stepped in](https://www.theverge.com/24214575/tim-walz-uber-lyft-driver-pay-veto-vp-minnesota)
- - [Sources: Meta is in talks to license its Horizon software to Jio, which would use it to power a VR device &lpar;The Information&rpar;](http://www.techmeme.com/240807/p24#a240807p24)<!-- TECH:END -->
+ - [Meta says Facebook creators who violate Community Standards for the first time will be given the option to take a training course to remove their warning &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/240807/p26#a240807p26)
+ - [Kamala Harris is Brat, Tim Walz is Midwest Princess](https://www.theverge.com/2024/8/7/24215327/kamala-harris-tim-walz-memes-chappell-roan-midwest-princess-camo-hat)
+ - [US Credit Card Debt Notches New High of $1.14 Trillion](https://www.cnet.com/personal-finance/us-credit-card-debt-hits-1-13-trillion-as-high-prices-persist/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
