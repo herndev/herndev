@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [9gaggers... hear me out...](http://9gag.com/gag/a6ZMDRq)
- - ⏩ [Groom exposes bride that cheated with his friend](http://9gag.com/gag/ae9Y4rv)
- - 👉 [Brutal](http://9gag.com/gag/apRr1Ln)<!-- MEMES:END -->
+ - 💣 [Understandable](http://9gag.com/gag/ajPq7n1)
+ - ⏩ [Sports have to be fair](http://9gag.com/gag/a6ZMqw8)
+ - 👉 [Go on. Don&#39;t be shy now.](http://9gag.com/gag/ajPqVD0)<!-- MEMES:END -->
 
 ---
 
