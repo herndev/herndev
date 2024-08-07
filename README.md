@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Warhammer 40,000: Space Marine II’s PvE Operations Mode Feels Like a Whole Separate Game](https://news.xbox.com/en-us/2024/08/07/warhammer-40000-space-marine-iis-pve-operations-mode-feels-like-a-whole-separate-game/)
- - [Final Fantasy characters keep on bursting into song — and it works](https://www.polygon.com/24212297/final-fantasy-7-rebirth-theme-diegetic-songs)
- - [How to fast travel with the Battle Bus and Bus Stations in Lego Fortnite](https://www.polygon.com/lego-fortnite-guides/24214593/fast-travel-bus-stations-battle-bus-rift-shards)<!-- GAME:END -->
+ - [House of the Dragon season 2 told a deeper story through its dragons](https://www.polygon.com/24214547/house-dragon-season-2-book-spoilers-rhaenyra)
+ - [Witcher 3 composer Mikolai Stroinski begins work on each game by ‘going on a date’](https://www.polygon.com/24214165/witcher-3-composer-mikolai-stroinski-interview)
+ - [How To Find Once Human&#39;s Rarest Deviant, Artisan&#39;s Touch](https://kotaku.com/once-human-artisans-touch-deviant-crafting-1851615180)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
