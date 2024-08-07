@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Brutal](http://9gag.com/gag/apRr1Ln)
- - ⏩ [Terrorist trying to sneak inside israel](http://9gag.com/gag/a5QZBzq)
- - 👉 [House made of alumulumu](http://9gag.com/gag/azxrdEq)<!-- MEMES:END -->
+ - 💣 [Its the only logical choice](http://9gag.com/gag/a1md79G)
+ - ⏩ [This is the real England, UK and the commonwealth....](http://9gag.com/gag/aGy0L77)
+ - 👉 [Go Ireland!](http://9gag.com/gag/aXPA4oD)<!-- MEMES:END -->
 
 ---
 
