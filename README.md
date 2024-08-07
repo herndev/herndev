@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Lone Echo developer Ready at Dawn has reportedly been closed by Meta](https://www.pcgamer.com/games/vr/lone-echo-developer-ready-at-dawn-has-reportedly-been-closed-by-meta)
- - [The Return Of Christopher Nolan&#39;s Interstellar Gets Delayed](https://kotaku.com/interstellar-theaters-70mm-imax-nolan-release-date-1851616103)
- - [Diablo IV Glitch Lets Player Gain 30+ Levels In One Second](https://kotaku.com/diablo-iv-umbracrux-level-up-bug-xp-season-5-blizzard-1851616082)<!-- GAME:END -->
+ - [YouTube is testing a new Twitter-style community notes feature, which is good because YouTubers sure do love to lie](https://www.pcgamer.com/gaming-industry/youtube-is-testing-a-new-twitter-style-community-notes-feature-which-is-good-because-youtubers-sure-do-love-to-lie)
+ - [A mischevious dagger slid Diablo 4 players free XP boosts under the table before Blizzard caught it](https://www.pcgamer.com/games/rpg/a-mischevious-dagger-slid-diablo-4-players-free-xp-boosts-under-the-table-before-blizzard-caught-it)
+ - [Lone Echo developer Ready at Dawn has reportedly been closed by Meta](https://www.pcgamer.com/games/vr/lone-echo-developer-ready-at-dawn-has-reportedly-been-closed-by-meta)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
