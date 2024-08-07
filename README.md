@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta says Facebook creators who violate Community Standards for the first time will be given the option to take a training course to remove their warning &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/240807/p26#a240807p26)
- - [Kamala Harris is Brat, Tim Walz is Midwest Princess](https://www.theverge.com/2024/8/7/24215327/kamala-harris-tim-walz-memes-chappell-roan-midwest-princess-camo-hat)
- - [US Credit Card Debt Notches New High of $1.14 Trillion](https://www.cnet.com/personal-finance/us-credit-card-debt-hits-1-13-trillion-as-high-prices-persist/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Jackson Hole’s new Instagram filter warns you when you’re dangerously close to wildlife](https://www.theverge.com/2024/8/7/24215490/jackson-hole-travel-tourism-board-instagram-filter-animals-national-park-safety)
+ - [Robinhood reports Q2 revenue up 40% YoY to $682M, vs. $640M est., crypto transaction revenue up 161% to $81M, and net income of $188M, up from $25M in Q2 2023 &lpar;Bill Peters/MarketWatch&rpar;](http://www.techmeme.com/240807/p27#a240807p27)
+ - [Do you find the Galaxy Watch’s activity notifications to be overbearing? You aren’t alone](https://www.androidauthority.com/galaxy-watch-7-ultra-activity-notifications-3468951/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
