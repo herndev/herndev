@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Fortnite to remove FOMO from future battle passes](https://www.polygon.com/24215355/fortnite-battle-pass-exclusive-skins-return-store-epic-games)
- - [NIS America says Trails and Ys RPG fans won&#39;t have to wait so long for future English releases: &#39;We want to bring that timeline down&#39;](https://www.pcgamer.com/games/rpg/nis-america-says-trails-and-ys-rpg-fans-wont-have-to-wait-so-long-for-future-english-releases-we-want-to-bring-that-timeline-down)
- - [Turn Up The Heat With Helldivers 2’s Most Brutal Difficulty Yet](https://kotaku.com/helldivers-2-difficulty-super-helldive-unlock-guide-1851615660)<!-- GAME:END -->
+ - [Call Of Duty: Black Ops 6 Action Looks Wild With Low Gravity Mod](https://kotaku.com/call-duty-black-ops-6-cod-blops-ps4-leak-mod-1851615761)
+ - [I&#39;ve never needed anything more than &#39;the world&#39;s first medieval electronic instrument,&#39; a pre-Baroque beatbox that looks like a Pentiment/DJ Hero collab](https://www.pcgamer.com/hardware/ive-never-needed-anything-more-than-the-worlds-first-medieval-electronic-instrument-a-pre-baroque-beatbox-that-looks-like-a-pentimentdj-hero-collab)
+ - [Borderlands Movie First Impressions Call It &#39;Lifeless&#39; And &#39;Really Bad&#39;](https://kotaku.com/borderlands-movie-reviews-impressions-bad-good-negative-1851615664)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
