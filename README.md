@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Do you use uBlock Origin on Chrome? You’ll soon have to use another ad blocker](https://www.androidauthority.com/ublock-origin-chrome-ad-blocker-manifest-v2-deprecation-3468485/)
- - [Best Google Pixel Deals: Dramatic Savings on Pixel Fold, 8, 8 Pro and More](https://www.cnet.com/deals/best-google-pixel-deals/#ftag=CAD590a51e)
- - [She’s the New Face of Climate Activism—and She’s Carrying a Pickax](https://www.wired.com/story/climate-activism-radical-new-face-lena-lazare/)<!-- TECH:END -->
+ - [AI threatens to upend India&#39;s $250B outsourcing industry, as companies plan to automate BPO; HSBC says 80%+ of the S&amp;P 500 outsource some operations to India &lpar;Megha Mandavia/Wall Street Journal&rpar;](http://www.techmeme.com/240807/p6#a240807p6)
+ - [A profile of Yang Zhilin, the founder and CEO of China&#39;s highest-valued AI unicorn Moonshot, who studied at Carnegie Mellon University and worked at Huawei &lpar;Ben Jiang/South China Morning Post&rpar;](http://www.techmeme.com/240807/p5#a240807p5)
+ - [Anker charges ahead with launch of 2024 Prime lineup](https://www.androidauthority.com/anker-prime-chargers-2024-3468569/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
