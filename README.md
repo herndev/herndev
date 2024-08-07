@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Fallout: London devs are working on a &#39;HUGE&#39; patch, offering &#39;dedicated 1-on-1 troubleshooting sessions&#39; to help players with installs and crashes](https://www.pcgamer.com/games/rpg/fallout-london-devs-are-working-on-a-huge-patch-offering-dedicated-1-on-1-troubleshooting-sessions-to-help-players-with-installs-and-crashes)
  - [Arkane founder Raphael Colantonio will reveal more about his next game in a few days, says fans of Dishonored and Prey &#39;will be happy&#39;](https://www.pcgamer.com/games/arkane-founder-raphael-colantonio-will-reveal-more-about-his-next-game-in-a-few-days-says-fans-of-dishonored-and-prey-will-be-happy)
- - [Fields of Mistria&#39;s town full of well-written characters and charming Game Boy Advance aesthetic immediately make it stand out from other cozy farm sims](https://www.pcgamer.com/games/life-sim/fields-of-mistrias-town-full-of-well-written-characters-and-charming-game-boy-advance-aesthetic-immediately-make-it-stand-out-from-other-cozy-farm-sims)
- - [Helldivers 2&#39;s loudest players go nuclear over another unpopular nerf, but Arrowhead CEO keeps calm: &#39;Some are going &#39;Buff everything!&#39; Others are saying &#39;It&#39;s too easy!&#39; Most are just playing.&#39;](https://www.pcgamer.com/games/helldivers-2-s-loudest-players-are-going-nuclear-over-another-unpopular-nerf-but-arrowhead-s-ceo-is-keeping-calm-some-are-going-buff-everything-others-are-saying-it-s-too-easy-most-are-just-playing)<!-- GAME:END -->
+ - [Fields of Mistria&#39;s town full of well-written characters and charming Game Boy Advance aesthetic immediately make it stand out from other cozy farm sims](https://www.pcgamer.com/games/life-sim/fields-of-mistrias-town-full-of-well-written-characters-and-charming-game-boy-advance-aesthetic-immediately-make-it-stand-out-from-other-cozy-farm-sims)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
