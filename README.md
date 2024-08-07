@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Lord of the Rings: Return to Moria Comes to Xbox on August 27 – With a Brand New Mode](https://news.xbox.com/en-us/2024/08/07/lord-of-the-rings-return-to-moria-xbox-updates/)
- - [We can thank Hideki Naganuma for putting Malcolm X in a Sonic game](https://www.polygon.com/24213685/malcolm-x-sonic-game-soundtrack-sample)
- - [How to get rid of Yellow Witherbloom in Creatures of Ava](https://www.pcgamer.com/games/adventure/creatures-of-ava-yellow-witherbloom)<!-- GAME:END -->
+ - [SteamWorld Heist II: Upgrading Greatness](https://news.xbox.com/en-us/2024/08/07/steamworld-heist-2-xbox/)
+ - [The Japanese artistic swimming routine used music from Nier: Automata](https://www.polygon.com/24215270/japanese-artistic-swimming-synchronized-olympics-nier-automata)
+ - [&#39;My thighs were absolutely killing me&#39;: Red Dead Redemption 2&#39;s Roger Clark discusses the perils of crouch running](https://www.pcgamer.com/games/action/my-thighs-were-absolutely-killing-me-red-dead-redemption-2s-roger-clark-discusses-the-perils-of-crouch-running)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
