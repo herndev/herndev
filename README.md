@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Understandable](http://9gag.com/gag/ajPq7n1)
- - ⏩ [Bad ride](http://9gag.com/gag/aMVwmOV)
- - 👉 [Sports have to be fair](http://9gag.com/gag/a6ZMqw8)<!-- MEMES:END -->
+ - 💣 [Bad ride](http://9gag.com/gag/aMVwmOV)
+ - ⏩ [Still makes me laugh after all these years](http://9gag.com/gag/a6ZM1PR)
+ - 👉 [Bad day to be hustling](http://9gag.com/gag/aE0R0yn)<!-- MEMES:END -->
 
 ---
 
