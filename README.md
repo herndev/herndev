@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [World\u2019s strongest man vs World\u2019s strongest rifle.](http://9gag.com/gag/azxrxvj)
- - ⏩ [Understandable](http://9gag.com/gag/ajPq7n1)
+ - 💣 [Terrorist trying to sneak inside israel](http://9gag.com/gag/a5QZBzq)
+ - ⏩ [Comparison.](http://9gag.com/gag/a7oZoXA)
  - 👉 [Pedo woman](http://9gag.com/gag/ayNL4Wp)<!-- MEMES:END -->
 
 ---
