@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Fascinating use of words.](http://9gag.com/gag/aqyr6yP)
- - ⏩ [During the Spanish Civil War, French architect surrealist painter Alphonse Laurencic designed holding cells for the Spanish government. He built beds in such a manner that the prisoners would roll off them, and placed obstacles on the floor making it impossible to sleep](http://9gag.com/gag/aAyw6gR)
+ - 💣 [What kind of finish is this!? \ud83d\ude44](http://9gag.com/gag/a2vdMxp)
+ - ⏩ [Oh boy oh boy](http://9gag.com/gag/a4PZPo1)
  - 👉 [Comparison.](http://9gag.com/gag/a7oZoXA)<!-- MEMES:END -->
 
 ---
