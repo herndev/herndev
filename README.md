@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [`Its just a loan`](http://9gag.com/gag/a0ed68L)
- - ⏩ [British police look like they&#39;ve been held hostage](http://9gag.com/gag/a6ZMnEA)
- - 👉 [Classic. Tony king had a brilliant idea.](http://9gag.com/gag/a9yW8RW)<!-- MEMES:END -->
+ - 💣 [Any experts on geopolitics?](http://9gag.com/gag/aD2j72O)
+ - ⏩ [Delete your Adblock delay today](http://9gag.com/gag/aAyw472)
+ - 👉 [Comparison.](http://9gag.com/gag/a7oZoXA)<!-- MEMES:END -->
 
 ---
 
