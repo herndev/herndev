@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to use built-in network security features for Mac, iPhone, and iPad](https://appleinsider.com/articles/24/08/08/how-to-use-built-in-network-security-features-for-apple-devices?utm_medium=rss)
- - [The Google TV Streamer is the first device to run Android 14 for TVs](https://www.androidauthority.com/google-tv-streamer-android-14-for-tvs-3469245/)
- - [Apple charging extra for future Apple Intelligence features is probable -- but not imminent](https://appleinsider.com/articles/24/08/08/apple-charging-extra-for-future-apple-intelligence-features-is-probable----but-not-soon?utm_medium=rss)<!-- TECH:END -->
+ - [SoundHound acquires Amelia, which makes an AI agent that businesses can customize for internal or customer use, for $80M; PitchBook: Amelia raised $189M+ &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/240808/p25#a240808p25)
+ - [CNET Editors’ Choice: Our Top Picks in EnergyTech, Solar Services and EVs](https://www.cnet.com/tech/cnet-editors-choice-our-top-picks-in-energytech-solar-services-and-evs/#ftag=CAD590a51e)
+ - [Here&#39;s How Much We Expect Social Security to Go Up in 2025](https://www.cnet.com/personal-finance/heres-how-much-we-expect-social-security-to-go-up-in-2025/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
