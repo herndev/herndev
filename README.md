@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [An interview with Mozilla interim CEO Laura Chambers on investing in Firefox, privacy-preserving ad measurements, becoming less dependent on Google, and more &lpar;Jared Newman/Fast Company&rpar;](http://www.techmeme.com/240807/p38#a240807p38)
- - [A group of VCs, including Reid Hoffman and Ron Conway, hosted a &quot;VCs for Kamala&quot; Zoom call to support Harris&#39; campaign with up to 600 attendees, raising $150K &lpar;Lauren Feiner/The Verge&rpar;](http://www.techmeme.com/240807/p37#a240807p37)
- - [Chat support disappears from redesigned T-Mobile app &lpar;Update: Statement&rpar;](https://www.androidauthority.com/chat-support-t-mobile-app-3468428/)<!-- TECH:END -->
+ - [Sources: Google and Meta ran a pilot program in the US in May 2024 to target Instagram ads to teenagers on YouTube, which prohibits targeting ads to under-18s &lpar;Financial Times&rpar;](http://www.techmeme.com/240808/p2#a240808p2)
+ - [You can now try out the new Weather app ahead of the Pixel 9’s release](https://www.androidauthority.com/pixel-9-weather-app-sideload-apk-available-3469072/)
+ - [Anduril Industries raised a $1.5B Series F co-led by Founders Fund and Sands Capital at a $14B valuation, up from ~$8.5B after raising ~$1.5B in December 2022 &lpar;Axios&rpar;](http://www.techmeme.com/240808/p1#a240808p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
