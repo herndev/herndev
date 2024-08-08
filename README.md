@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Borderlands Movie: The Kotaku Review](https://kotaku.com/borderlands-movie-review-rotten-tomatoes-cast-release-1851616912)
- - [Dragon Age director says BioWare learned an important lesson from the disaster that was Anthem: &#39;Know what you&#39;re good at and then double down on it&#39;](https://www.pcgamer.com/games/rpg/dragon-age-director-says-bioware-learned-an-important-lesson-from-the-disaster-that-was-anthem-know-what-youre-good-at-and-then-double-down-on-it)
- - [This goldfish beat the Elden Ring DLC’s final boss on Twitch](https://www.polygon.com/24216010/elden-ring-dlc-beat-by-goldfish)<!-- GAME:END -->
+ - [Behind the music video ‘mods’ MTV doesn’t want you to see &lpar;legally&rpar;](https://www.polygon.com/24213898/mtv-video-mods-retrospective-what-happened)
+ - [The first look at Netflix’s YA dystopian series Uglies is a helluva flashback](https://www.polygon.com/24216121/uglies-netflix-first-look-trailer-ya-dystopia)
+ - [13 Of The Worst Video Game Movies Ever Made](https://kotaku.com/bad-video-game-movies-borderlands-mario-resident-evil-1851616981)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
