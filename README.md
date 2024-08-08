@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The next game from Dishonored co-creator Raphael Colantonio is a first-person immersive sim with a structure between Prey and Fallout: New Vegas—&#39;We favour density over size&#39;](https://www.pcgamer.com/games/the-next-game-from-dishonored-co-creator-raphael-colantonio-is-a-first-person-immersive-sim-with-a-structure-between-prey-and-fallout-new-vegaswere-going-for-density-over-size)
- - [World of Warcraft: The War Within gets a new 2D cinematic, reminds us that Xal&#39;atath is an ancient knife piloting a corpse puppet for kicks](https://www.pcgamer.com/games/world-of-warcraft/world-of-warcraft-the-war-within-gets-a-new-2d-cinematic-reminds-us-that-xal-atath-is-an-ancient-knife-piloting-a-corpse-puppet-for-kicks)
- - [The CrowdStrike bug showed the world that one weak link in the chain can lead to chaos in a heartbeat](https://www.pcgamer.com/software/the-crowdstrike-bug-showed-the-world-that-one-weak-link-in-the-chain-can-lead-to-chaos-in-a-heartbeat)<!-- GAME:END -->
+ - [Arkane Founder Teases Ambitious New RPG As &#39;Fallout Meets Dishonored&#39;](https://kotaku.com/arkane-wolfeye-fallout-dishonored-prey-sci-fi-rpg-1851616440)
+ - [Creatures of Ava sugarcoats an emotional story with cutesy cartoon critters and it&#39;s convinced me that I need to save the planet](https://www.pcgamer.com/games/adventure/creatures-of-ava-sugarcoats-an-emotional-story-with-cutesy-cartoon-critters-and-its-convinced-me-that-i-need-to-save-the-planet)
+ - [24 Movie Tie-In Popcorn Buckets We Loved &lpar;And Hated&rpar;](https://kotaku.com/dune-popcorn-bucket-barbie-ghostbusters-best-worst-1851336690)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
