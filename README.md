@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle answer for Thursday, August 8](https://www.pcgamer.com/games/puzzle/wordle-answer-today-august-8-2024)
  - [This new soulslike has the best twist on the genre I&#39;ve seen, but it sadly flubs the landing](https://www.pcgamer.com/games/rpg/this-new-soulslike-has-the-best-twist-on-the-genre-ive-seen-but-it-sadly-flubs-the-landing)
- - [YouTube is testing a new Twitter-style community notes feature, which is good because YouTubers sure do love to lie](https://www.pcgamer.com/gaming-industry/youtube-is-testing-a-new-twitter-style-community-notes-feature-which-is-good-because-youtubers-sure-do-love-to-lie)
- - [A mischevious dagger slid Diablo 4 players free XP boosts under the table before Blizzard caught it](https://www.pcgamer.com/games/rpg/a-mischevious-dagger-slid-diablo-4-players-free-xp-boosts-under-the-table-before-blizzard-caught-it)<!-- GAME:END -->
+ - [YouTube is testing a new Twitter-style community notes feature, which is good because YouTubers sure do love to lie](https://www.pcgamer.com/gaming-industry/youtube-is-testing-a-new-twitter-style-community-notes-feature-which-is-good-because-youtubers-sure-do-love-to-lie)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
