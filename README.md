@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [USPS Text Scammers Duped His Wife, So He Hacked Their Operation](https://www.wired.com/story/usps-scam-text-smishing-triad/)
- - [Social media firms warned against inciting violence by UK regulator](https://www.theverge.com/2024/8/8/24215961/ofcom-uk-regulator-warns-online-platforms-x-telegram-incite-violence)
- - [Best price hits Apple&#39;s M3 MacBook Pro 14-inch, now $1,499](https://appleinsider.com/articles/24/08/08/best-price-hits-apples-m3-macbook-pro-14-inch-now-1499?utm_medium=rss)<!-- TECH:END -->
+ - [Dodge puts a price on its first electric muscle car](https://www.theverge.com/2024/8/8/24215968/dodge-daytona-price-ev-electric-rt-scat-pack-two-door)
+ - [Trek’s electronic bike bell lets you customize how urgent it sounds](https://www.theverge.com/2024/8/8/24216034/trek-cycling-bicycle-bellbeats-bluetooth-speaker)
+ - [Chrome is finally closing an ancient browser loophole](https://www.androidauthority.com/chrome-loopback-attack-3469213/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
