@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Arkane Founder Teases Ambitious New RPG As &#39;Fallout Meets Dishonored&#39;](https://kotaku.com/arkane-wolfeye-fallout-dishonored-prey-sci-fi-rpg-1851616440)
- - [Creatures of Ava sugarcoats an emotional story with cutesy cartoon critters and it&#39;s convinced me that I need to save the planet](https://www.pcgamer.com/games/adventure/creatures-of-ava-sugarcoats-an-emotional-story-with-cutesy-cartoon-critters-and-its-convinced-me-that-i-need-to-save-the-planet)
- - [24 Movie Tie-In Popcorn Buckets We Loved &lpar;And Hated&rpar;](https://kotaku.com/dune-popcorn-bucket-barbie-ghostbusters-best-worst-1851336690)<!-- GAME:END -->
+ - [Free Play Days – The Elder Scrolls Online, Bassmaster Fishing and Make Way](https://news.xbox.com/en-us/2024/08/08/free-play-days-the-elder-scrolls-online-bassmaster-fishing-and-make-way/)
+ - [BioWare Explains Why You Can&#39;t Control Companions In Dragon Age: The Veilguard](https://kotaku.com/dragon-age-the-veilguard-companions-controls-1851616515)
+ - [Next-gen Intel Arrow Lake CPUs rumored to consume at least 100 W less power at high frequencies](https://www.pcgamer.com/hardware/processors/next-gen-intel-arrow-lake-cpus-rumored-to-consume-at-least-100-w-less-power-at-high-frequencies)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
