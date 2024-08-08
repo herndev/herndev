@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Zillow names COO Jeremy Wacksman as CEO, replacing Rich Barton, who is stepping down to become co-executive chair; Zillow reported Q2 earnings topping estimates &lpar;Patrick Clark/Bloomberg&rpar;](http://www.techmeme.com/240807/p33#a240807p33)
- - [Google Pixel Watch 3 rumors: Everything we know so far and what we want to see](https://www.androidauthority.com/google-pixel-watch-3-features-specs-price-3415632/)
- - [Inside the Dark World of Doxing for Profit](https://www.wired.com/story/doxing-extortion-violence-as-service/)<!-- TECH:END -->
+ - [Techstars lays off 17% of its workforce, and says it will end the JP Morgan-backed $80M Advancing Cities fund after it is fully deployed at the end of 2024 &lpar;Dominic-Madori Davis/TechCrunch&rpar;](http://www.techmeme.com/240807/p35#a240807p35)
+ - [Kamala Harris’ VC supporters raise $150,000 on a Zoom call](https://www.theverge.com/2024/8/7/24215669/vcs-for-kamala-harris-zoom-call)
+ - [Midea 2 Zone Air Fryer review: great air fryer, abysmal app, and lots of sticker shock](https://appleinsider.com/articles/24/08/08/midea-2-zone-air-fryer-review-great-air-fryer-abysmal-app-and-lots-of-sticker-shock?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
