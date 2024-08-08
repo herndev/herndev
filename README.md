@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Grand Theft Auto VI Still On Track For Fall 2025, Take-Two Says](https://kotaku.com/grand-theft-auto-vi-still-on-track-for-fall-2025-take-1851617299)
- - [Id Software just surprise launched Doom + Doom 2, a &#39;definitive&#39; bundle that adds cross-platform multiplayer and in-game mod support to every retro Doom](https://www.pcgamer.com/games/fps/id-software-just-surprise-launched-doom-doom-2-a-definitive-bundle-that-adds-cross-platform-multiplayer-and-in-game-mod-support-to-every-retro-doom)
- - [The collector’s box set of Robotech is on sale for its lowest price yet — includes an actual Veritech](https://www.polygon.com/24216285/robotech-blu-ray-box-set-deal-sale)<!-- GAME:END -->
+ - [The 7 Biggest And Best Doom Announcements From QuakeCon 2024](https://kotaku.com/doom-new-port-free-quakecon-snes-mod-tools-eternal-pc-1851617354)
+ - [Brother, your world faces exterminatus unless you watch this new Space Marine 2 gameplay footage right now](https://www.pcgamer.com/games/action/brother-your-world-faces-exterminatus-unless-you-watch-this-new-space-marine-2-gameplay-footage-right-now)
+ - [Helldivers 2 composer Wilbert Roget thinks of game scoring as ‘first-person’ and ‘third-person’](https://www.polygon.com/24216272/helldivers-2-pacific-drive-wilbert-roget-interview)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
