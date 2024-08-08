@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Corsair ditches 80 Plus for PSUs: here are the Cybenetics ratings it&#39;ll use instead](https://www.pcgamer.com/hardware/power-supplies/corsair-ditches-80-plus-for-psus-here-are-the-cybenetics-ratings-itll-use-instead)
- - [When does the live event countdown in Fortnite end?](https://www.polygon.com/fortnite-guide/2024/8/8/24214849/live-event-countdown-time-when-end-c5s3)
- - [MSI and Asus roll out first Intel instability fix for a range of motherboards with 0x129 microcode BIOS](https://www.pcgamer.com/hardware/processors/msi-and-asus-roll-out-first-intel-instability-fix-for-a-range-of-motherboards-with-0x129-microcode-bios)<!-- GAME:END -->
+ - [The CrowdStrike bug showed the world that one weak link in the chain can lead to chaos in a heartbeat](https://www.pcgamer.com/software/the-crowdstrike-bug-showed-the-world-that-one-weak-link-in-the-chain-can-lead-to-chaos-in-a-heartbeat)
+ - [&#39;Now it is war&#39;: Elon Musk and Twitter accuse an advertising alliance, which includes EA and Twitch, of conspiring against the platform and breaking US antitrust law](https://www.pcgamer.com/gaming-industry/now-it-is-war-elon-musk-and-twitter-accuse-an-advertising-alliance-which-includes-ea-and-twitch-of-conspiring-against-the-platform-and-breaking-us-antitrust-law)
+ - [Sony says the 220 layoffs at Bungie were made in the name of—you guessed it—things like &#39;portfolio optimization&#39; and enhancing &#39;the efficiency of the business&#39;](https://www.pcgamer.com/games/fps/sony-says-the-220-layoffs-at-bungie-were-made-in-the-name-of-you-guessed-it-things-like-portfolio-optimization-and-enhancing-the-efficiency-of-the-business)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
