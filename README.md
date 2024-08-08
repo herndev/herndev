@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Behind the music video ‘mods’ MTV doesn’t want you to see &lpar;legally&rpar;](https://www.polygon.com/24213898/mtv-video-mods-retrospective-what-happened)
- - [The first look at Netflix’s YA dystopian series Uglies is a helluva flashback](https://www.polygon.com/24216121/uglies-netflix-first-look-trailer-ya-dystopia)
- - [13 Of The Worst Video Game Movies Ever Made](https://kotaku.com/bad-video-game-movies-borderlands-mario-resident-evil-1851616981)<!-- GAME:END -->
+ - [I&#39;ve been watching this dude try to play Grand Theft Auto 4 with the traffic at 9999999 &#39;warp speed&#39; and it&#39;s both hilarious and some sort of surrealist masterpiece](https://www.pcgamer.com/games/grand-theft-auto/ive-been-watching-this-dude-try-to-play-grand-theft-auto-4-with-the-traffic-at-9999999-warp-speed-and-its-both-hilarious-and-some-sort-of-surrealist-masterpiece)
+ - [This Musical RPG&#39;s DLC Has Songs And Singing That Blow The Base Game Away](https://kotaku.com/stray-gods-roleplaying-musical-orpheus-dlc-review-1851617031)
+ - [Country Bans Roblox Due To Possibility Of Child Exploitation](https://kotaku.com/roblox-banned-blocked-turkey-child-exploitation-why-1851616972)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
