@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple charging extra for future Apple Intelligence features is probable -- but not soon](https://appleinsider.com/articles/24/08/08/apple-charging-extra-for-future-apple-intelligence-features-is-probable----but-not-soon?utm_medium=rss)
- - [My Pixel Watch 2 has surprisingly survived a lot of abuse; what about yours?](https://www.androidauthority.com/pixel-watch-2-survived-abuse-3468756/)
- - [TikTok launches TikTok Spotlight, in-app hubs for movies and TV shows that add links to &quot;applicable&quot; videos with information and where to watch, tested on Dune &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/240808/p17#a240808p17)<!-- TECH:END -->
+ - [USPS Text Scammers Duped His Wife, So He Hacked Their Operation](https://www.wired.com/story/usps-scam-text-smishing-triad/)
+ - [Social media firms warned against inciting violence by UK regulator](https://www.theverge.com/2024/8/8/24215961/ofcom-uk-regulator-warns-online-platforms-x-telegram-incite-violence)
+ - [Best price hits Apple&#39;s M3 MacBook Pro 14-inch, now $1,499](https://appleinsider.com/articles/24/08/08/best-price-hits-apples-m3-macbook-pro-14-inch-now-1499?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
