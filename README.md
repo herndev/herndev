@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [You Should Give The Order: 1886 Another Chance](https://kotaku.com/the-order-1886-ps4-sale-ready-at-dawn-closure-1851617233)
- - [Final Fantasy 1-6 Pixel Remaster games are 20% off through this weekend](https://www.polygon.com/deals/2024/8/8/24216226/final-fantasy-i-vi-pixel-remaster-sale)
- - [Arkane founder was saddened by the closure of Arkane Austin, but says immersive sims aren&#39;t going anywhere: The studio is gone, but &#39;the people survive&#39;](https://www.pcgamer.com/games/arkane-founder-was-saddened-by-the-closure-of-arkane-austin-but-says-immersive-sims-arent-going-anywhere-the-studio-is-gone-but-the-people-survive)<!-- GAME:END -->
+ - [Grand Theft Auto VI Still On Track For Fall 2025, Take-Two Says](https://kotaku.com/grand-theft-auto-vi-still-on-track-for-fall-2025-take-1851617299)
+ - [Id Software just surprise launched Doom + Doom 2, a &#39;definitive&#39; bundle that adds cross-platform multiplayer and in-game mod support to every retro Doom](https://www.pcgamer.com/games/fps/id-software-just-surprise-launched-doom-doom-2-a-definitive-bundle-that-adds-cross-platform-multiplayer-and-in-game-mod-support-to-every-retro-doom)
+ - [The collector’s box set of Robotech is on sale for its lowest price yet — includes an actual Veritech](https://www.polygon.com/24216285/robotech-blu-ray-box-set-deal-sale)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
