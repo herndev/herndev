@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Today&#39;s Wordle answer for Thursday, August 8](https://www.pcgamer.com/games/puzzle/wordle-answer-today-august-8-2024)
- - [This new soulslike has the best twist on the genre I&#39;ve seen, but it sadly flubs the landing](https://www.pcgamer.com/games/rpg/this-new-soulslike-has-the-best-twist-on-the-genre-ive-seen-but-it-sadly-flubs-the-landing)
- - [YouTube is testing a new Twitter-style community notes feature, which is good because YouTubers sure do love to lie](https://www.pcgamer.com/gaming-industry/youtube-is-testing-a-new-twitter-style-community-notes-feature-which-is-good-because-youtubers-sure-do-love-to-lie)<!-- GAME:END -->
+ - [When does the live event countdown in Fortnite end?](https://www.polygon.com/fortnite-guide/2024/8/8/24214849/live-event-countdown-time-when-end-c5s3)
+ - [MSI and Asus roll out first Intel instability fix for a range of motherboards with 0x129 microcode BIOS](https://www.pcgamer.com/hardware/processors/msi-and-asus-roll-out-first-intel-instability-fix-for-a-range-of-motherboards-with-0x129-microcode-bios)
+ - [Today&#39;s Wordle answer for Thursday, August 8](https://www.pcgamer.com/games/puzzle/wordle-answer-today-august-8-2024)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
