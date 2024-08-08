@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [6 Best Mattresses for Back Pain, Tested and Reviewed &lpar;2024&rpar;](https://www.wired.com/gallery/best-mattresses-for-back-pain/)
- - [TikTok adds in-app hubs for videos about movies and TV shows](https://www.theverge.com/2024/8/8/24215338/tiktok-spotlight-in-app-hubs-movies-tv-shows)
- - [T-Mobile is reportedely recalling the Revvl 7 Pro due to potential quality concerns](https://www.androidauthority.com/t-mobile-revvl-7-pro-recall-3469161/)<!-- TECH:END -->
+ - [Apple charging extra for future Apple Intelligence features is probable -- but not soon](https://appleinsider.com/articles/24/08/08/apple-charging-extra-for-future-apple-intelligence-features-is-probable----but-not-soon?utm_medium=rss)
+ - [My Pixel Watch 2 has surprisingly survived a lot of abuse; what about yours?](https://www.androidauthority.com/pixel-watch-2-survived-abuse-3468756/)
+ - [TikTok launches TikTok Spotlight, in-app hubs for movies and TV shows that add links to &quot;applicable&quot; videos with information and where to watch, tested on Dune &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/240808/p17#a240808p17)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
