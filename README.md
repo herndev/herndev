@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: the UK is considering revisiting parts of the Online Safety Act to give authorities more power to force social media companies to curb harmful content &lpar;Bloomberg&rpar;](http://www.techmeme.com/240808/p33#a240808p33)
- - [Poll: What’s your primary search engine?](https://www.androidauthority.com/search-engine-poll-3469415/)
- - [Now anybody with a Substack account can publish content](https://www.theverge.com/2024/8/8/24216317/substack-socia-media-newsletter-creators)<!-- TECH:END -->
+ - [A critical security issue in 1Password for Mac left credentials vulnerable to attack](https://appleinsider.com/articles/24/08/08/a-critical-security-issue-in-1password-for-mac-left-credentials-vulnerable-to-attack?utm_medium=rss)
+ - [NASA Still Hasn&#39;t Decided How to Get the Boeing Starliner Astronauts Home](https://www.wired.com/story/boeing-starliner-astronauts-spacex-2025/)
+ - [OpenAI rolls out the ability for ChatGPT free users to create up to two images per day with DALL-E 3, after launching DALL-E 3 to Plus subscribers in October &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/240808/p34#a240808p34)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
