@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The 7 Biggest And Best Doom Announcements From QuakeCon 2024](https://kotaku.com/doom-new-port-free-quakecon-snes-mod-tools-eternal-pc-1851617354)
- - [Brother, your world faces exterminatus unless you watch this new Space Marine 2 gameplay footage right now](https://www.pcgamer.com/games/action/brother-your-world-faces-exterminatus-unless-you-watch-this-new-space-marine-2-gameplay-footage-right-now)
- - [Helldivers 2 composer Wilbert Roget thinks of game scoring as ‘first-person’ and ‘third-person’](https://www.polygon.com/24216272/helldivers-2-pacific-drive-wilbert-roget-interview)<!-- GAME:END -->
+ - [Grand Theft Auto 6 is still on track for fall 2025, and there&#39;s still no sign of a PC version](https://www.pcgamer.com/games/grand-theft-auto/grand-theft-auto-6-is-still-on-track-for-fall-2025-and-theres-still-no-sign-of-a-pc-version)
+ - [Arrowhead boss says he&#39;s not upset by the latest Helldivers 2 balance uproar: &#39;I&#39;d take this ANY day of the week over nobody giving a s**t&#39;](https://www.pcgamer.com/games/third-person-shooter/arrowhead-boss-says-hes-not-upset-by-the-latest-helldivers-2-balance-uproar-id-take-this-any-day-of-the-week-over-nobody-giving-a-st)
+ - [GTA 6: Everything we know so far about Rockstar’s next game](https://www.polygon.com/23952805/gta-6-grand-theft-auto-leaks-release-date-trailer)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
