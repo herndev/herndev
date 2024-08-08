@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [SoundHound acquires Amelia, which makes an AI agent that businesses can customize for internal or customer use, for $80M; PitchBook: Amelia raised $189M+ &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/240808/p25#a240808p25)
- - [CNET Editors’ Choice: Our Top Picks in EnergyTech, Solar Services and EVs](https://www.cnet.com/tech/cnet-editors-choice-our-top-picks-in-energytech-solar-services-and-evs/#ftag=CAD590a51e)
- - [Here&#39;s How Much We Expect Social Security to Go Up in 2025](https://www.cnet.com/personal-finance/heres-how-much-we-expect-social-security-to-go-up-in-2025/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [There’s a cheap LED camera light hidden inside this fake film roll](https://www.theverge.com/2024/8/8/24216189/ttartisan-led-light-camera-photography-film)
+ - [OpenAI reveals details of GPT-4o&#39;s safety testing, including concerns that its anthropomorphic voice may make some users emotionally attached to their chatbot &lpar;Wired&rpar;](http://www.techmeme.com/240808/p27#a240808p27)
+ - [Score Anker&#39;s Soundcore Life Q30 Headphones for New Low of $56](https://www.cnet.com/deals/score-anker-soundcore-life-q30-headphones-for-new-low-of-56/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
