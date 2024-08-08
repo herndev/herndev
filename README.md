@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [YouTube gives more users the power to call out fake news and misinformation](https://www.androidauthority.com/youtube-inviting-more-users-notes-feature-3469099/)
- - [South Korean prosecutors charge Kakao founder Brian Kim with stock manipulation during the takeover of SM Entertainment, after Kim was arrested in July 2024 &lpar;Bloomberg&rpar;](http://www.techmeme.com/240808/p5#a240808p5)
- - [Samsung Galaxy Ring problems and how to fix them](https://www.androidauthority.com/samsung-galaxy-ring-problems-solutions-3469075/)<!-- TECH:END -->
+ - [AI chipmaker Black Sesame drops as much as 35% on its Hong Kong trading debut, after pricing shares at the bottom of its range and raising ~$133M in its IPO &lpar;Dave Sebastian/Bloomberg&rpar;](http://www.techmeme.com/240808/p9#a240808p9)
+ - [How VP nominee Tim Walz vetoed a bill to raise minimum pay for Uber and Lyft drivers in Minnesota, before signing an updated law in May 2024 to raise pay by 20% &lpar;Andrew J. Hawkins/The Verge&rpar;](http://www.techmeme.com/240808/p8#a240808p8)
+ - [Meta and Google secretly targeted minors on YouTube with Instagram ads](https://www.theverge.com/2024/8/8/24215911/meta-google-secretly-targeted-minors-youtube-instagram-ads)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
