@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [College Football 25&#39;s Big Update Adds New Plays, Uniforms, And More](https://kotaku.com/college-football-25-full-patch-notes-update-2-xbox-ps5-1851616704)
- - [Black Ops 6 Zombies and the Terminus launch map – full details revealed](https://blog.playstation.com/2024/08/08/black-ops-6-zombies-and-the-terminus-launch-map-full-details-revealed/)
- - [Everything You Need to Know About Black Ops 6 Zombies and the Terminus Launch Map](https://www.callofduty.com/blog/2024/08/call-of-duty-black-ops-6-zombies-deep-dive-terminus-map-intel#new_tab)<!-- GAME:END -->
+ - [The Borderlands Movie: The Kotaku Review](https://kotaku.com/borderlands-movie-review-rotten-tomatoes-cast-release-1851616912)
+ - [Dragon Age director says BioWare learned an important lesson from the disaster that was Anthem: &#39;Know what you&#39;re good at and then double down on it&#39;](https://www.pcgamer.com/games/rpg/dragon-age-director-says-bioware-learned-an-important-lesson-from-the-disaster-that-was-anthem-know-what-youre-good-at-and-then-double-down-on-it)
+ - [This goldfish beat the Elden Ring DLC’s final boss on Twitch](https://www.polygon.com/24216010/elden-ring-dlc-beat-by-goldfish)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
