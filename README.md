@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [You got this? How\u2019s work lately?](http://9gag.com/gag/aqyrxNY)
+ - 💣 [Like a movie star!](http://9gag.com/gag/a2vdyZO)
  - ⏩ [Woman In Philly Gets the Sparta Treatment for Holding Up Train](http://9gag.com/gag/aKG28OZ)
- - 👉 [What kind of finish is this!? \ud83d\ude44](http://9gag.com/gag/a2vdMxp)<!-- MEMES:END -->
+ - 👉 [Shocked with the power of it](http://9gag.com/gag/a9yW8mm)<!-- MEMES:END -->
 
 ---
 
