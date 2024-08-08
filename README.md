@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The CrowdStrike bug showed the world that one weak link in the chain can lead to chaos in a heartbeat](https://www.pcgamer.com/software/the-crowdstrike-bug-showed-the-world-that-one-weak-link-in-the-chain-can-lead-to-chaos-in-a-heartbeat)
- - [&#39;Now it is war&#39;: Elon Musk and Twitter accuse an advertising alliance, which includes EA and Twitch, of conspiring against the platform and breaking US antitrust law](https://www.pcgamer.com/gaming-industry/now-it-is-war-elon-musk-and-twitter-accuse-an-advertising-alliance-which-includes-ea-and-twitch-of-conspiring-against-the-platform-and-breaking-us-antitrust-law)
- - [Sony says the 220 layoffs at Bungie were made in the name of—you guessed it—things like &#39;portfolio optimization&#39; and enhancing &#39;the efficiency of the business&#39;](https://www.pcgamer.com/games/fps/sony-says-the-220-layoffs-at-bungie-were-made-in-the-name-of-you-guessed-it-things-like-portfolio-optimization-and-enhancing-the-efficiency-of-the-business)<!-- GAME:END -->
+ - [The next game from Dishonored co-creator Raphael Colantonio is a first-person immersive sim with a structure between Prey and Fallout: New Vegas—&#39;We favour density over size&#39;](https://www.pcgamer.com/games/the-next-game-from-dishonored-co-creator-raphael-colantonio-is-a-first-person-immersive-sim-with-a-structure-between-prey-and-fallout-new-vegaswere-going-for-density-over-size)
+ - [World of Warcraft: The War Within gets a new 2D cinematic, reminds us that Xal&#39;atath is an ancient knife piloting a corpse puppet for kicks](https://www.pcgamer.com/games/world-of-warcraft/world-of-warcraft-the-war-within-gets-a-new-2d-cinematic-reminds-us-that-xal-atath-is-an-ancient-knife-piloting-a-corpse-puppet-for-kicks)
+ - [The CrowdStrike bug showed the world that one weak link in the chain can lead to chaos in a heartbeat](https://www.pcgamer.com/software/the-crowdstrike-bug-showed-the-world-that-one-weak-link-in-the-chain-can-lead-to-chaos-in-a-heartbeat)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
