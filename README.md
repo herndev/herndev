@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Like a movie star!](http://9gag.com/gag/a2vdyZO)
- - ⏩ [Woman In Philly Gets the Sparta Treatment for Holding Up Train](http://9gag.com/gag/aKG28OZ)
- - 👉 [We salute you](http://9gag.com/gag/axygO3K)<!-- MEMES:END -->
+ - 💣 [Suits and ties](http://9gag.com/gag/aE0RWXx)
+ - ⏩ [That was cute AF](http://9gag.com/gag/aD2jndN)
+ - 👉 [You failed one community duty today](http://9gag.com/gag/an7yx8z)<!-- MEMES:END -->
 
 ---
 
