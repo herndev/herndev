@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta closes Ready at Dawn Studios, which it acquired in 2020 and produced VR games like Lone Echo and Echo VR, to meet the new Reality Labs budgetary ceiling &lpar;Nicholas Sutrich/Android Central&rpar;](http://www.techmeme.com/240807/p31#a240807p31)
- - [Turkey bans Roblox, after blocking Instagram on August 2; a Turkish official said the ban was primarily related to sexual content that could lead to child abuse &lpar;T&amp;uuml;rkiye Today&rpar;](http://www.techmeme.com/240807/p30#a240807p30)
- - [Phones won’t support lock screen widgets in Android 15, but here’s what it’d look like anyways](https://www.androidauthority.com/android-15-lock-screen-widgets-on-phones-3469000/)<!-- TECH:END -->
+ - [Zillow names COO Jeremy Wacksman as CEO, replacing Rich Barton, who is stepping down to become co-executive chair; Zillow reported Q2 earnings topping estimates &lpar;Patrick Clark/Bloomberg&rpar;](http://www.techmeme.com/240807/p33#a240807p33)
+ - [Google Pixel Watch 3 rumors: Everything we know so far and what we want to see](https://www.androidauthority.com/google-pixel-watch-3-features-specs-price-3415632/)
+ - [Inside the Dark World of Doxing for Profit](https://www.wired.com/story/doxing-extortion-violence-as-service/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
