@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Google and Meta ran a pilot program in the US in May 2024 to target Instagram ads to teenagers on YouTube, which prohibits targeting ads to under-18s &lpar;Financial Times&rpar;](http://www.techmeme.com/240808/p2#a240808p2)
- - [You can now try out the new Weather app ahead of the Pixel 9’s release](https://www.androidauthority.com/pixel-9-weather-app-sideload-apk-available-3469072/)
- - [Anduril Industries raised a $1.5B Series F co-led by Founders Fund and Sands Capital at a $14B valuation, up from ~$8.5B after raising ~$1.5B in December 2022 &lpar;Axios&rpar;](http://www.techmeme.com/240808/p1#a240808p1)<!-- TECH:END -->
+ - [YouTube channels focusing on cars, like Car Throttle and Donut, have seen an exodus of popular on-camera talent, often after investors acquired their channels &lpar;Tim Stevens/The Verge&rpar;](http://www.techmeme.com/240808/p3#a240808p3)
+ - [Best Mattresses for Kids in 2024](https://www.cnet.com/health/sleep/best-mattress-for-kids/#ftag=CAD590a51e)
+ - [Sources: Google and Meta ran a pilot program in the US in May 2024 to target Instagram ads to teenagers on YouTube, which prohibits targeting ads to under-18s &lpar;Financial Times&rpar;](http://www.techmeme.com/240808/p2#a240808p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
