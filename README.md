@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [There’s a cheap LED camera light hidden inside this fake film roll](https://www.theverge.com/2024/8/8/24216189/ttartisan-led-light-camera-photography-film)
- - [OpenAI reveals details of GPT-4o&#39;s safety testing, including concerns that its anthropomorphic voice may make some users emotionally attached to their chatbot &lpar;Wired&rpar;](http://www.techmeme.com/240808/p27#a240808p27)
- - [Score Anker&#39;s Soundcore Life Q30 Headphones for New Low of $56](https://www.cnet.com/deals/score-anker-soundcore-life-q30-headphones-for-new-low-of-56/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Ad group sued by Elon Musk reportedly disbands](https://www.theverge.com/2024/8/8/24216202/garm-x-twitter-musk-advertising)
+ - [Spotify says Apple&#39;s new &quot;unacceptable&quot; plan &quot;disregards the fundamental requirements&quot; of EU&#39;s DMA; Tim Sweeney calls it &quot;malicious compliance&quot; with &quot;junk fees&quot; &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/240808/p30#a240808p30)
+ - [Adaptive Lighting is coming to Matter smart lights in Apple Home](https://www.theverge.com/2024/8/8/24215517/ios-18-homekit-adaptive-lighting-matter-smart-bulbs)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
