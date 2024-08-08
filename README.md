@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [You failed one community duty today](http://9gag.com/gag/an7yx8z)
- - ⏩ [Suits and ties](http://9gag.com/gag/aE0RWXx)
- - 👉 [I know you&#39;ve been waiting for her. And she&#39;s back.](http://9gag.com/gag/aNDdV6K)<!-- MEMES:END -->
+ - 💣 [F**k around and find out.](http://9gag.com/gag/aVvDL7n)
+ - ⏩ [Paris Olympics 100m winner Noah Lyles pulling out a Yu-Gi-Oh &lpar;Blue-Eyes White Dragon&rpar; card for his 100m intro at the US trials](http://9gag.com/gag/aMVwm5P)
+ - 👉 [Like a movie star!](http://9gag.com/gag/a2vdyZO)<!-- MEMES:END -->
 
 ---
 
