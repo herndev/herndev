@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Like a movie star!](http://9gag.com/gag/a2vdyZO)
- - ⏩ [Woman In Philly Gets the Sparta Treatment for Holding Up Train](http://9gag.com/gag/aKG28OZ)
- - 👉 [Shocked with the power of it](http://9gag.com/gag/a9yW8mm)<!-- MEMES:END -->
+ - 💣 [You failed one community duty today](http://9gag.com/gag/an7yx8z)
+ - ⏩ [Suits and ties](http://9gag.com/gag/aE0RWXx)
+ - 👉 [I know you&#39;ve been waiting for her. And she&#39;s back.](http://9gag.com/gag/aNDdV6K)<!-- MEMES:END -->
 
 ---
 
