@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Elon Musk posted and then deleted on X a fake Telegraph story on Falkland &quot;Detainment Camps&quot; shared by a far-right UK political party; the post had 1.8M+ views &lpar;Josh Self/Politics.co.uk&rpar;](http://www.techmeme.com/240808/p13#a240808p13)
- - [Microsoft and Palantir partner to sell government cloud and AI tools, including GPT-4, to US defense and intel agencies; Palantir will integrate with Azure &lpar;Bloomberg&rpar;](http://www.techmeme.com/240808/p12#a240808p12)
- - [iPad Air&#39;s OLED upgrade rumored to arrive in 2026, not 2028](https://appleinsider.com/articles/24/08/08/ipad-airs-oled-upgrade-rumored-to-arrive-in-2026-not-2028?utm_medium=rss)<!-- TECH:END -->
+ - [6 Best Mattresses for Back Pain, Tested and Reviewed &lpar;2024&rpar;](https://www.wired.com/gallery/best-mattresses-for-back-pain/)
+ - [TikTok adds in-app hubs for videos about movies and TV shows](https://www.theverge.com/2024/8/8/24215338/tiktok-spotlight-in-app-hubs-movies-tv-shows)
+ - [T-Mobile is reportedely recalling the Revvl 7 Pro due to potential quality concerns](https://www.androidauthority.com/t-mobile-revvl-7-pro-recall-3469161/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
