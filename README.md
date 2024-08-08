@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [F**k around and find out.](http://9gag.com/gag/aVvDL7n)
- - ⏩ [Paris Olympics 100m winner Noah Lyles pulling out a Yu-Gi-Oh &lpar;Blue-Eyes White Dragon&rpar; card for his 100m intro at the US trials](http://9gag.com/gag/aMVwm5P)
- - 👉 [Like a movie star!](http://9gag.com/gag/a2vdyZO)<!-- MEMES:END -->
+ - 💣 [Just think about it](http://9gag.com/gag/a1md5WG)
+ - ⏩ [A country that has real issues doesn&#39;t have time to create new ones](http://9gag.com/gag/ayNLR9W)
+ - 👉 [The beautiful moment a father consoles daughter after missing out on olympics medal.](http://9gag.com/gag/aLnMmN6)<!-- MEMES:END -->
 
 ---
 
