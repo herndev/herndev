@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [I&#39;ve been watching this dude try to play Grand Theft Auto 4 with the traffic at 9999999 &#39;warp speed&#39; and it&#39;s both hilarious and some sort of surrealist masterpiece](https://www.pcgamer.com/games/grand-theft-auto/ive-been-watching-this-dude-try-to-play-grand-theft-auto-4-with-the-traffic-at-9999999-warp-speed-and-its-both-hilarious-and-some-sort-of-surrealist-masterpiece)
- - [This Musical RPG&#39;s DLC Has Songs And Singing That Blow The Base Game Away](https://kotaku.com/stray-gods-roleplaying-musical-orpheus-dlc-review-1851617031)
- - [Country Bans Roblox Due To Possibility Of Child Exploitation](https://kotaku.com/roblox-banned-blocked-turkey-child-exploitation-why-1851616972)<!-- GAME:END -->
+ - [You Should Give The Order: 1886 Another Chance](https://kotaku.com/the-order-1886-ps4-sale-ready-at-dawn-closure-1851617233)
+ - [Final Fantasy 1-6 Pixel Remaster games are 20% off through this weekend](https://www.polygon.com/deals/2024/8/8/24216226/final-fantasy-i-vi-pixel-remaster-sale)
+ - [Arkane founder was saddened by the closure of Arkane Austin, but says immersive sims aren&#39;t going anywhere: The studio is gone, but &#39;the people survive&#39;](https://www.pcgamer.com/games/arkane-founder-was-saddened-by-the-closure-of-arkane-austin-but-says-immersive-sims-arent-going-anywhere-the-studio-is-gone-but-the-people-survive)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
