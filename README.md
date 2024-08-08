@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Corsair ditches 80 Plus for PSUs: here are the Cybenetics ratings it&#39;ll use instead](https://www.pcgamer.com/hardware/power-supplies/corsair-ditches-80-plus-for-psus-here-are-the-cybenetics-ratings-itll-use-instead)
  - [When does the live event countdown in Fortnite end?](https://www.polygon.com/fortnite-guide/2024/8/8/24214849/live-event-countdown-time-when-end-c5s3)
- - [MSI and Asus roll out first Intel instability fix for a range of motherboards with 0x129 microcode BIOS](https://www.pcgamer.com/hardware/processors/msi-and-asus-roll-out-first-intel-instability-fix-for-a-range-of-motherboards-with-0x129-microcode-bios)
- - [Today&#39;s Wordle answer for Thursday, August 8](https://www.pcgamer.com/games/puzzle/wordle-answer-today-august-8-2024)<!-- GAME:END -->
+ - [MSI and Asus roll out first Intel instability fix for a range of motherboards with 0x129 microcode BIOS](https://www.pcgamer.com/hardware/processors/msi-and-asus-roll-out-first-intel-instability-fix-for-a-range-of-motherboards-with-0x129-microcode-bios)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
