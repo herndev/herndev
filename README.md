@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [HEY!! HEY!! HEEEEY!! HEEEEEEEEEY!!!!!!, NOOOOOO.](http://9gag.com/gag/a6ZMBzN)
- - ⏩ [That was cute AF](http://9gag.com/gag/aD2jndN)
- - 👉 [He&#39;s truly a gamer](http://9gag.com/gag/a7oZ21w)<!-- MEMES:END -->
+ - 💣 [Like a movie star!](http://9gag.com/gag/a2vdyZO)
+ - ⏩ [Woman In Philly Gets the Sparta Treatment for Holding Up Train](http://9gag.com/gag/aKG28OZ)
+ - 👉 [We salute you](http://9gag.com/gag/axygO3K)<!-- MEMES:END -->
 
 ---
 
