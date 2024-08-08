@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [BRO !! WTF !! I understand about 10% of what&#39;s going on. The f**k did I do for the last 4 years.](http://9gag.com/gag/ajPqZwp)
- - ⏩ [Woman In Philly Gets the Sparta Treatment for Holding Up Train](http://9gag.com/gag/aKG28OZ)
- - 👉 [We salute you](http://9gag.com/gag/axygO3K)<!-- MEMES:END -->
+ - 💣 [Gimme your worst](http://9gag.com/gag/aZZBwXn)
+ - ⏩ [Iraq has lowered the age of legal marriage for women from 15 to 9, what the actual F](http://9gag.com/gag/a5QZjRy)
+ - 👉 [It should\u2019ve been me!](http://9gag.com/gag/azxrO4q)<!-- MEMES:END -->
 
 ---
 
