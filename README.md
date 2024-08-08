@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [He&#39;s truly a gamer](http://9gag.com/gag/a7oZ21w)
+ - 💣 [The actor Neal McDonough, was blackballed by Hollywood for not doing kissing scene with woman who wasn&#39;t t his wife](http://9gag.com/gag/amorVm9)
  - ⏩ [Iraq has lowered the age of legal marriage for women from 15 to 9, what the actual F](http://9gag.com/gag/a5QZjRy)
- - 👉 [Suits and ties](http://9gag.com/gag/aE0RWXx)<!-- MEMES:END -->
+ - 👉 [Shocked with the power of it](http://9gag.com/gag/a9yW8mm)<!-- MEMES:END -->
 
 ---
 
