@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at AI age scanners, which websites use to verify a person&#39;s age by analyzing their facial patterns via webcam to help safeguard kids online &lpar;Drew Harwell/Washington Post&rpar;](http://www.techmeme.com/240808/p4#a240808p4)
- - [As Skies Fill With Space Junk, Nonprofit Urges US to Pause StarLink Launches](https://www.wired.com/story/pirg-starlink-environmental-review-space-garbage/)
- - [YouTube channels focusing on cars, like Car Throttle and Donut, have seen an exodus of popular on-camera talent, often after investors acquired their channels &lpar;Tim Stevens/The Verge&rpar;](http://www.techmeme.com/240808/p3#a240808p3)<!-- TECH:END -->
+ - [YouTube gives more users the power to call out fake news and misinformation](https://www.androidauthority.com/youtube-inviting-more-users-notes-feature-3469099/)
+ - [South Korean prosecutors charge Kakao founder Brian Kim with stock manipulation during the takeover of SM Entertainment, after Kim was arrested in July 2024 &lpar;Bloomberg&rpar;](http://www.techmeme.com/240808/p5#a240808p5)
+ - [Samsung Galaxy Ring problems and how to fix them](https://www.androidauthority.com/samsung-galaxy-ring-problems-solutions-3469075/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
