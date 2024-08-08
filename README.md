@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Civil War among us](http://9gag.com/gag/aD2j85O)
+ - 💣 [Suits and ties](http://9gag.com/gag/aE0RWXx)
  - ⏩ [Woman In Philly Gets the Sparta Treatment for Holding Up Train](http://9gag.com/gag/aKG28OZ)
- - 👉 [That was cute AF](http://9gag.com/gag/aD2jndN)<!-- MEMES:END -->
+ - 👉 [The Olympics under Shari&#39;a law TV](http://9gag.com/gag/a1md2NY)<!-- MEMES:END -->
 
 ---
 
