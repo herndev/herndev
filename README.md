@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ad group sued by Elon Musk reportedly disbands](https://www.theverge.com/2024/8/8/24216202/garm-x-twitter-musk-advertising)
- - [Spotify says Apple&#39;s new &quot;unacceptable&quot; plan &quot;disregards the fundamental requirements&quot; of EU&#39;s DMA; Tim Sweeney calls it &quot;malicious compliance&quot; with &quot;junk fees&quot; &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/240808/p30#a240808p30)
- - [Adaptive Lighting is coming to Matter smart lights in Apple Home](https://www.theverge.com/2024/8/8/24215517/ios-18-homekit-adaptive-lighting-matter-smart-bulbs)<!-- TECH:END -->
+ - [Amazon slashes Apple&#39;s iPad 9th Gen to $229, save up to $600 on entire range](https://appleinsider.com/articles/24/08/08/amazon-slashes-apples-ipad-9th-gen-to-229-save-up-to-600-on-entire-range?utm_medium=rss)
+ - [Intel’s crashing 13th and 14th Gen Raptor Lake CPUs: all the news and updates](https://www.theverge.com/24216305/intel-13th-14th-gen-raptor-lake-cpu-crash-news-updates-patches-fixes-motherboards)
+ - [This hand-crampingly tiny GBA clone has a 0.85-inch screen](https://www.theverge.com/2024/8/8/24216233/thumby-tinycircuits-nintendo-game-boy-advance-handheld-gaming-console)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
