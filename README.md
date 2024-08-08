@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Free Play Days – The Elder Scrolls Online, Bassmaster Fishing and Make Way](https://news.xbox.com/en-us/2024/08/08/free-play-days-the-elder-scrolls-online-bassmaster-fishing-and-make-way/)
- - [BioWare Explains Why You Can&#39;t Control Companions In Dragon Age: The Veilguard](https://kotaku.com/dragon-age-the-veilguard-companions-controls-1851616515)
- - [Next-gen Intel Arrow Lake CPUs rumored to consume at least 100 W less power at high frequencies](https://www.pcgamer.com/hardware/processors/next-gen-intel-arrow-lake-cpus-rumored-to-consume-at-least-100-w-less-power-at-high-frequencies)<!-- GAME:END -->
+ - [College Football 25&#39;s Big Update Adds New Plays, Uniforms, And More](https://kotaku.com/college-football-25-full-patch-notes-update-2-xbox-ps5-1851616704)
+ - [Black Ops 6 Zombies and the Terminus launch map – full details revealed](https://blog.playstation.com/2024/08/08/black-ops-6-zombies-and-the-terminus-launch-map-full-details-revealed/)
+ - [Everything You Need to Know About Black Ops 6 Zombies and the Terminus Launch Map](https://www.callofduty.com/blog/2024/08/call-of-duty-black-ops-6-zombies-deep-dive-terminus-map-intel#new_tab)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
