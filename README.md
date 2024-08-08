@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Riot](http://9gag.com/gag/aE0RAVG)
- - ⏩ [Based Elon as usual](http://9gag.com/gag/adBqQXZ)
- - 👉 [Cuban superheavyweight Greco-Roman wrestler Mija\u00edn L\u00f3pez is the first athlete EVER to claim five successive Olympic gold medals in an individual event. He left his shoes in the ring to signal his retirement. F**king legend.](http://9gag.com/gag/aXPA45D)<!-- MEMES:END -->
+ - 💣 [This man took way too much of everything](http://9gag.com/gag/a6ZM51e)
+ - ⏩ [Comparison.](http://9gag.com/gag/a7oZoXA)
+ - 👉 [Bro used it as a trampoline damn](http://9gag.com/gag/an7yRLn)<!-- MEMES:END -->
 
 ---
 
