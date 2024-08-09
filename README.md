@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I did thinking about her](http://9gag.com/gag/axygRVL)
+ - 💣 [*staring intensifies*](http://9gag.com/gag/ae9Y2o5)
  - ⏩ [Title](http://9gag.com/gag/a87pKbd)
- - 👉 [You failed one community duty today](http://9gag.com/gag/an7yx8z)<!-- MEMES:END -->
+ - 👉 [Simps are cancer](http://9gag.com/gag/aVvDVXM)<!-- MEMES:END -->
 
 ---
 
