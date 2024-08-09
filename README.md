@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Craziest gold medal win](http://9gag.com/gag/a7oZNAb)
- - ⏩ [Sorry for portrait mode](http://9gag.com/gag/axygRWp)
- - 👉 [Suits and ties](http://9gag.com/gag/aE0RWXx)<!-- MEMES:END -->
+ - 💣 [Suits and ties](http://9gag.com/gag/aE0RWXx)
+ - ⏩ [Craziest gold medal win](http://9gag.com/gag/a7oZNAb)
+ - 👉 [You failed one community duty today](http://9gag.com/gag/an7yx8z)<!-- MEMES:END -->
 
 ---
 
