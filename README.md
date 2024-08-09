@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Boeing now f**ked up a space mission. Astronauts who were supposed to spend 8 days in the Int Space Station - will be stuck there until 2025, because Boeing Starliner had a malfunction](http://9gag.com/gag/an7yrrV)
- - ⏩ [Sorry for portrait mode](http://9gag.com/gag/axygRWp)
- - 👉 [Suits and ties](http://9gag.com/gag/aE0RWXx)<!-- MEMES:END -->
+ - 💣 [Woman In Philly Gets the Sparta Treatment for Holding Up Train](http://9gag.com/gag/aKG28OZ)
+ - ⏩ [I know you&#39;ve been waiting for her. And she&#39;s back.](http://9gag.com/gag/aNDdV6K)
+ - 👉 [Not a boomer complaint. Reality. I&#39;m tired of knowing a million logins, passwords and being tracked with everything. Even basic household items now want to track and log me in. Forget it.](http://9gag.com/gag/an7yD4o)<!-- MEMES:END -->
 
 ---
 
