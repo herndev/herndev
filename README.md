@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The gold medal awarded at the Paris Olympics 2024](http://9gag.com/gag/aAywMPL)
- - ⏩ [You failed one community duty today](http://9gag.com/gag/an7yx8z)
- - 👉 [X-Men vs Avengers](http://9gag.com/gag/aYQKqDx)<!-- MEMES:END -->
+ - 💣 [His name is Mijain Lopez](http://9gag.com/gag/aoy28Q2)
+ - ⏩ [X-Men vs Avengers](http://9gag.com/gag/aYQKqDx)
+ - 👉 [You failed one community duty today](http://9gag.com/gag/an7yx8z)<!-- MEMES:END -->
 
 ---
 
