@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Vision Pro disappointments and beta frustrations on the AppleInsider podcast](https://appleinsider.com/articles/24/08/09/apple-vision-pro-disappointments-and-beta-frustrations-on-the-appleinsider-podcast?utm_medium=rss)
- - [End of an era: Nova Launcher’s parent company lays off practically everyone](https://www.androidauthority.com/nova-launcher-layoff-3469604/)
- - [The Irish Data Protection Commission says X has agreed to pause training Grok using millions of Europeans&#39; public posts it collected between May 7 and August 1 &lpar;Clothilde Goujard/Politico&rpar;](http://www.techmeme.com/240809/p7#a240809p7)<!-- TECH:END -->
+ - [Sources: Chinese robotaxi company WeRide is seeking about $100M in a US initial public offering and around $200M to $300M in a concurrent private placement &lpar;Bloomberg&rpar;](http://www.techmeme.com/240809/p9#a240809p9)
+ - [Samsung starts rolling out the August security update to select Galaxy Z Fold models](https://www.androidauthority.com/samsung-galaxy-z-fold-5-august-security-3469608/)
+ - [4 Best Smart Displays &lpar;2024&rpar;: Google Assistant and Amazon Alexa](https://www.wired.com/gallery/best-smart-displays/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
