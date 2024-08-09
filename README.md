@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Intel details a microcode patch, available through BIOS updates, to address the elevated voltage issues that were damaging some of its 13th- and 14th-gen CPUs &lpar;Tom&#39;s Hardware&rpar;](http://www.techmeme.com/240809/p14#a240809p14)
- - [YouTube’s latest experiment is a sleep timer](https://www.androidauthority.com/youtube-sleep-timer-experiment-3469668/)
- - [DevRev, which develops AI tools to improve the efficiency of employees on support, product, and engineering teams, raised $100M at a $1.15B valuation &lpar;Katie Roof/Bloomberg&rpar;](http://www.techmeme.com/240809/p13#a240809p13)<!-- TECH:END -->
+ - [The Tippy Type makes typing with long nails less tedious](https://www.theverge.com/24209704/tippy-type-review-keyboard-accessory)
+ - [Warner Bros. Discovery pretty much wiped the Cartoon Network website](https://www.theverge.com/2024/8/9/24216846/warner-bros-discovery-cartoon-network-website-wiped-max)
+ - [Apple&#39;s Adaptive Lighting support spreads to Matter smart lights](https://appleinsider.com/articles/24/08/09/apples-adaptive-lighting-support-spreads-to-matter-smart-lights?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
