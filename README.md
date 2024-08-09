@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Intel delays its Innovation event, slated for September and expected to include details about new CPUs, until 2025, citing its financial results and H2 outlook &lpar;Michael Kan/PCMag&rpar;](http://www.techmeme.com/240809/p11#a240809p11)
- - [Microsoft might be resurrecting its mixed reality business](https://www.theverge.com/2024/8/9/24216727/microsoft-samsung-mixed-reality-display-partnership-rumor)
- - [Clean energy infrastructure is vulnerable to cyberattack — the Biden administration has a plan to protect it](https://www.theverge.com/2024/8/9/24216329/cybersecurity-clean-energy-biden-administration-priorities)<!-- TECH:END -->
+ - [Intel details a microcode patch, available through BIOS updates, to address the elevated voltage issues that were damaging some of its 13th- and 14th-gen CPUs &lpar;Tom&#39;s Hardware&rpar;](http://www.techmeme.com/240809/p14#a240809p14)
+ - [YouTube’s latest experiment is a sleep timer](https://www.androidauthority.com/youtube-sleep-timer-experiment-3469668/)
+ - [DevRev, which develops AI tools to improve the efficiency of employees on support, product, and engineering teams, raised $100M at a $1.15B valuation &lpar;Katie Roof/Bloomberg&rpar;](http://www.techmeme.com/240809/p13#a240809p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
