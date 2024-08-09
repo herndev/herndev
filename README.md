@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [So proud of this community!](http://9gag.com/gag/aGy0oxK)
- - ⏩ [Empathy](http://9gag.com/gag/amorn1d)
- - 👉 [So it begins](http://9gag.com/gag/aBywv3A)<!-- MEMES:END -->
+ - 💣 [I did thinking about her](http://9gag.com/gag/axygRVL)
+ - ⏩ [Title](http://9gag.com/gag/a87pKbd)
+ - 👉 [You failed one community duty today](http://9gag.com/gag/an7yx8z)<!-- MEMES:END -->
 
 ---
 
