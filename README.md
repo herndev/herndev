@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [In an unexpected turn of events](http://9gag.com/gag/a0ed1Dn)
- - ⏩ [This is so disgusting..](http://9gag.com/gag/a1mdOmG)
- - 👉 [It should\u2019ve been me!](http://9gag.com/gag/azxrO4q)<!-- MEMES:END -->
+ - 💣 [Survivor or grooming gangs gives TV interview. Next day she&#39;s getting visit from the thought-police. Orwell was British btw](http://9gag.com/gag/aAyw2O0)
+ - ⏩ [Don&#39;t forget 28.May.16](http://9gag.com/gag/axygP02)
+ - 👉 [You cant arrest us all herr Starmer](http://9gag.com/gag/a7oZnWx)<!-- MEMES:END -->
 
 ---
 
