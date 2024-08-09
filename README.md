@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Indie darling Jessica Curry fell hard for Mass Effect 3’s soundtrack early on](https://www.polygon.com/24215351/everybodys-gone-rapture-soundtrack-jessica-curry-interview)
- - [Take-Two CEO Strauss Zelnick is still holding out hope for the Borderlands movie: &#39;Let&#39;s give the film a chance&#39;](https://www.pcgamer.com/movies-tv/take-two-ceo-strauss-zelnick-is-still-holding-out-hope-for-the-borderlands-movie-let-s-give-the-film-a-chance)
- - [A month on, Final Fantasy 14: Dawntrail&#39;s endgame outshines its story](https://www.pcgamer.com/games/final-fantasy/a-month-on-final-fantasy-14-dawntrails-endgame-outshines-its-story)<!-- GAME:END -->
+ - [Here’s How To Find And Kill One Of Helldivers 2&#39;s Most Challenging New Bugs](https://kotaku.com/helldivers-2-how-to-kill-spore-chargers-update-1851618284)
+ - [Mexico, 1921: A Deep Slumber Demo Available Now on Xbox](https://news.xbox.com/en-us/2024/08/09/mexico-1921-demo-now-on-xbox/)
+ - [Olympic heroes like Noah Lyles are going for the only gold that matters: The one in League of Legends](https://www.pcgamer.com/games/moba/olympic-heroes-like-noah-lyles-are-going-for-the-only-gold-that-matters-the-one-in-league-of-legends)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
