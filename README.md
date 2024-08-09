@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This is so disgusting..](http://9gag.com/gag/a1mdOmG)
- - ⏩ [I did thinking about her](http://9gag.com/gag/axygRVL)
+ - 💣 [The gold medal awarded at the Paris Olympics 2024](http://9gag.com/gag/aAywMPL)
+ - ⏩ [You failed one community duty today](http://9gag.com/gag/an7yx8z)
  - 👉 [X-Men vs Avengers](http://9gag.com/gag/aYQKqDx)<!-- MEMES:END -->
 
 ---
