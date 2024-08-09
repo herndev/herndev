@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Chinese robotaxi company WeRide is seeking about $100M in a US initial public offering and around $200M to $300M in a concurrent private placement &lpar;Bloomberg&rpar;](http://www.techmeme.com/240809/p9#a240809p9)
- - [Samsung starts rolling out the August security update to select Galaxy Z Fold models](https://www.androidauthority.com/samsung-galaxy-z-fold-5-august-security-3469608/)
- - [4 Best Smart Displays &lpar;2024&rpar;: Google Assistant and Amazon Alexa](https://www.wired.com/gallery/best-smart-displays/)<!-- TECH:END -->
+ - [Price war: Apple&#39;s M3 14-inch MacBook Pro drops to record low $1,299](https://appleinsider.com/articles/24/08/09/price-war-apples-m3-14-inch-macbook-pro-drops-to-record-low-1299?utm_medium=rss)
+ - [Get the Twinkly Squares Starter Kit for Just $160, an All-Time Low](https://www.cnet.com/deals/get-the-twinkly-squares-starter-kit-for-just-160-an-all-time-low/#ftag=CAD590a51e)
+ - [How to Build a PC &lpar;2024&rpar;: Hardware Suggestions, Instructions, and More](https://www.wired.com/story/how-to-build-a-pc/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
