@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Fallout London&#39;s First Big Update Finally Nerfs Its Deadliest Enemy: Foxes](https://kotaku.com/fallout-london-fox-foxes-nerf-update-bugs-quests-gog-1851618664)
- - [Sega’s delisting Sonic Generations, but somehow doing it in a good way](https://www.polygon.com/24216961/sonic-x-shadow-generations-delisting-steam-xbox)
- - [Tilman Singer hopes teenagers sneak into his horror movie Cuckoo and blow their minds](https://www.polygon.com/24167466/cuckoo-director-tilman-singer-interview-hunter-schafer)<!-- GAME:END -->
+ - [The Runaways’ Jackie Fox is reimagining her rock ‘n’ roll story in tabletop form](https://www.polygon.com/24216836/jackie-fox-rock-hard-1977-board-game-interview)
+ - [You can get every Dragon Age game yet made for just $10 in EA&#39;s August Steam sale](https://www.pcgamer.com/games/dragon-age/you-can-get-every-dragon-age-game-yet-made-for-just-dollar10-in-eas-august-steam-sale)
+ - [Fallout London&#39;s First Big Update Finally Nerfs Its Deadliest Enemy: Foxes](https://kotaku.com/fallout-london-fox-foxes-nerf-update-bugs-quests-gog-1851618664)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
