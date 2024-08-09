@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [TikTok is offering steep discounts on goods to US users who invite friends to the app, expanding a referral scheme from countries like Japan and Thailand &lpar;Kaya Yurieff/The Information&rpar;](http://www.techmeme.com/240809/p18#a240809p18)
  - [Meat lovers can save 37% on the ThermoPro TempSpike wireless thermometer!](https://www.androidauthority.com/thermopro-tempspike-500ft-wireless-meat-thermometer-deal-3469789/)
- - [Flaws in Ubiquitous ATM Software Could Have Let Attackers Take Over Cash Machines](https://www.wired.com/story/vss-atm-vulnerabilities-defcon-2024/)
- - [Since the OpenAI board dispute, Microsoft diversified AI investments and partnerships, built its own models, and hired aggressively for its consumer AI efforts &lpar;Financial Times&rpar;](http://www.techmeme.com/240809/p17#a240809p17)<!-- TECH:END -->
+ - [ATM Software Flaws Left Piles of Cash for Anyone Who Knew to Look](https://www.wired.com/story/vss-atm-vulnerabilities-defcon-2024/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
