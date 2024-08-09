@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How Google’s antitrust cases could change Android as we know it](https://www.androidauthority.com/android-divestment-3469724/)
- - [Google lost its first antitrust case, so what happens next?](https://www.theverge.com/2024/8/9/24216708/google-lost-antitrust-elon-musk-sues-advertisers)
- - [Galaxy S24 FE specs leak suggests a ‘big’ step forward](https://www.androidauthority.com/galaxy-s24-fe-specs-leak-3469751/)<!-- TECH:END -->
+ - [Meat lovers can save 37% on the ThermoPro TempSpike wireless thermometer!](https://www.androidauthority.com/thermopro-tempspike-500ft-wireless-meat-thermometer-deal-3469789/)
+ - [Flaws in Ubiquitous ATM Software Could Have Let Attackers Take Over Cash Machines](https://www.wired.com/story/vss-atm-vulnerabilities-defcon-2024/)
+ - [Since the OpenAI board dispute, Microsoft diversified AI investments and partnerships, built its own models, and hired aggressively for its consumer AI efforts &lpar;Financial Times&rpar;](http://www.techmeme.com/240809/p17#a240809p17)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
