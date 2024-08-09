@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Price war: Apple&#39;s M3 14-inch MacBook Pro drops to record low $1,299](https://appleinsider.com/articles/24/08/09/price-war-apples-m3-14-inch-macbook-pro-drops-to-record-low-1299?utm_medium=rss)
- - [Get the Twinkly Squares Starter Kit for Just $160, an All-Time Low](https://www.cnet.com/deals/get-the-twinkly-squares-starter-kit-for-just-160-an-all-time-low/#ftag=CAD590a51e)
- - [How to Build a PC &lpar;2024&rpar;: Hardware Suggestions, Instructions, and More](https://www.wired.com/story/how-to-build-a-pc/)<!-- TECH:END -->
+ - [Intel delays its Innovation event, slated for September and expected to include details about new CPUs, until 2025, citing its financial results and H2 outlook &lpar;Michael Kan/PCMag&rpar;](http://www.techmeme.com/240809/p11#a240809p11)
+ - [Microsoft might be resurrecting its mixed reality business](https://www.theverge.com/2024/8/9/24216727/microsoft-samsung-mixed-reality-display-partnership-rumor)
+ - [Clean energy infrastructure is vulnerable to cyberattack — the Biden administration has a plan to protect it](https://www.theverge.com/2024/8/9/24216329/cybersecurity-clean-energy-biden-administration-priorities)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
