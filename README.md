@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Here’s How To Find And Kill One Of Helldivers 2&#39;s Most Challenging New Bugs](https://kotaku.com/helldivers-2-how-to-kill-spore-chargers-update-1851618284)
- - [Mexico, 1921: A Deep Slumber Demo Available Now on Xbox](https://news.xbox.com/en-us/2024/08/09/mexico-1921-demo-now-on-xbox/)
- - [Olympic heroes like Noah Lyles are going for the only gold that matters: The one in League of Legends](https://www.pcgamer.com/games/moba/olympic-heroes-like-noah-lyles-are-going-for-the-only-gold-that-matters-the-one-in-league-of-legends)<!-- GAME:END -->
+ - [Borderlands Movie Had Characters &#39;Blowing People&#39;s Heads Off&#39; Before PG-13 Changes](https://kotaku.com/borderlands-movie-r-rated-pg-13-eli-roth-interview-1851618411)
+ - [How Dicey Dungeons’ soundtrack found the sweet spot between Earthbound and disco funk](https://www.polygon.com/2024/8/9/24216751/chipzel-dicey-dungeons-interview)
+ - [Disney’s limited edition Star Tours playset just activated the nostalgia center of my brain.](https://www.polygon.com/24216914/d23-disney-star-tours-starspeeder-playset-pre-order-where-to-buy)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
