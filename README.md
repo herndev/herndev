@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Kingdom Come: Deliverance, a &#39;seriously satisfying RPG&#39; that lets you live the life of a medieval knight in a &#39;rich and reactive open world&#39;, has its price slashed by 83%](https://www.pcgamer.com/games/rpg/kingdom-come-deliverance-a-seriously-satisfying-rpg-that-lets-you-live-the-life-of-a-medieval-knight-in-a-rich-and-reactive-open-world-has-its-price-slashed-by-83)
- - [God of War Ragnarök needs a chonky 190 GB of SSD space but the rest of the system requirements seem pretty reasonable](https://www.pcgamer.com/games/action/god-of-war-ragnarok-needs-a-chonky-190-gb-of-ssd-space-but-the-rest-of-the-system-requirements-seem-pretty-reasonable)
- - [Best Sorcerer builds in Diablo 4 season 5](https://www.polygon.com/diablo-4-guides/23653283/sorcerer-best-build-skills)<!-- GAME:END -->
+ - [My favorite puzzle game has an unskippable Peter Gabriel interlude](https://www.polygon.com/24216047/myst-game-peter-gabriel)
+ - [Major browser providers scramble to patch an 18-year-old vulnerability affecting MacOS and Linux systems but Windows remains gloriously immune](https://www.pcgamer.com/software/security/major-browser-providers-scramble-to-patch-an-18-year-old-vulnerability-affecting-macos-and-linux-systems-but-windows-remains-gloriously-immune)
+ - [Kingdom Come: Deliverance, a &#39;seriously satisfying RPG&#39; that lets you live the life of a medieval knight in a &#39;rich and reactive open world&#39;, has its price slashed by 83%](https://www.pcgamer.com/games/rpg/kingdom-come-deliverance-a-seriously-satisfying-rpg-that-lets-you-live-the-life-of-a-medieval-knight-in-a-rich-and-reactive-open-world-has-its-price-slashed-by-83)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
