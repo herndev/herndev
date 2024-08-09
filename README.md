@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [His name is Mijain Lopez](http://9gag.com/gag/aoy28Q2)
- - ⏩ [X-Men vs Avengers](http://9gag.com/gag/aYQKqDx)
- - 👉 [You failed one community duty today](http://9gag.com/gag/an7yx8z)<!-- MEMES:END -->
+ - 💣 [So proud of this community!](http://9gag.com/gag/aGy0oxK)
+ - ⏩ [Empathy](http://9gag.com/gag/amorn1d)
+ - 👉 [So it begins](http://9gag.com/gag/aBywv3A)<!-- MEMES:END -->
 
 ---
 
