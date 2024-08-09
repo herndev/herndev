@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Sorry for portrait mode](http://9gag.com/gag/axygRWp)
- - ⏩ [X-Men vs Avengers](http://9gag.com/gag/aYQKqDx)
- - 👉 [His name is Mijain Lopez](http://9gag.com/gag/aoy28Q2)<!-- MEMES:END -->
+ - 💣 [It should\u2019ve been me!](http://9gag.com/gag/azxrO4q)
+ - ⏩ [Meanwhile we have our own meme... The guy won 2 golds...yey..](http://9gag.com/gag/aYQKPZ2)
+ - 👉 [X-Men vs Avengers](http://9gag.com/gag/aYQKqDx)<!-- MEMES:END -->
 
 ---
 
