@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [*staring intensifies*](http://9gag.com/gag/ae9Y2o5)
- - ⏩ [Title](http://9gag.com/gag/a87pKbd)
- - 👉 [Simps are cancer](http://9gag.com/gag/aVvDVXM)<!-- MEMES:END -->
+ - 💣 [Iraq has lowered the age of legal marriage for women from 15 to 9, what the actual F](http://9gag.com/gag/a5QZjRy)
+ - ⏩ [Heat wave + shit quality paint = hilarity](http://9gag.com/gag/aW489y3)
+ - 👉 [Title](http://9gag.com/gag/a87pKbd)<!-- MEMES:END -->
 
 ---
 
