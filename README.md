@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle answer for Friday, August 9](https://www.pcgamer.com/games/puzzle/wordle-answer-today-august-9-2024)
  - [Grand Theft Auto 6 is still on track for fall 2025, and there&#39;s still no sign of a PC version](https://www.pcgamer.com/games/grand-theft-auto/grand-theft-auto-6-is-still-on-track-for-fall-2025-and-theres-still-no-sign-of-a-pc-version)
- - [Arrowhead boss says he&#39;s not upset by the latest Helldivers 2 balance uproar: &#39;I&#39;d take this ANY day of the week over nobody giving a s**t&#39;](https://www.pcgamer.com/games/third-person-shooter/arrowhead-boss-says-hes-not-upset-by-the-latest-helldivers-2-balance-uproar-id-take-this-any-day-of-the-week-over-nobody-giving-a-st)
- - [GTA 6: Everything we know so far about Rockstar’s next game](https://www.polygon.com/23952805/gta-6-grand-theft-auto-leaks-release-date-trailer)<!-- GAME:END -->
+ - [Arrowhead boss says he&#39;s not upset by the latest Helldivers 2 balance uproar: &#39;I&#39;d take this ANY day of the week over nobody giving a s**t&#39;](https://www.pcgamer.com/games/third-person-shooter/arrowhead-boss-says-hes-not-upset-by-the-latest-helldivers-2-balance-uproar-id-take-this-any-day-of-the-week-over-nobody-giving-a-st)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
