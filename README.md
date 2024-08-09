@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A critical security issue in 1Password for Mac left credentials vulnerable to attack](https://appleinsider.com/articles/24/08/08/a-critical-security-issue-in-1password-for-mac-left-credentials-vulnerable-to-attack?utm_medium=rss)
- - [NASA Still Hasn&#39;t Decided How to Get the Boeing Starliner Astronauts Home](https://www.wired.com/story/boeing-starliner-astronauts-spacex-2025/)
- - [OpenAI rolls out the ability for ChatGPT free users to create up to two images per day with DALL-E 3, after launching DALL-E 3 to Plus subscribers in October &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/240808/p34#a240808p34)<!-- TECH:END -->
+ - [Unity reports Q2 revenue down 16% YoY to $449M, vs. $438M est., a net loss of $125.6M, vs. $192.2M in Q2 2023, and trims its FY 2024 forecast &lpar;Emily Bary/MarketWatch&rpar;](http://www.techmeme.com/240808/p36#a240808p36)
+ - [Computer Crash Reports Are an Untapped Hacker Gold Mine](https://www.wired.com/story/crash-reports-vulnerability-data/)
+ - [Sources: enterprise AI company Glean is in advanced talks to raise $250M led by DST Global at a $4.5B valuation, about double its valuation from February 2024 &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240808/p35#a240808p35)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
