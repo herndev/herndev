@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Today&#39;s Wordle answer for Friday, August 9](https://www.pcgamer.com/games/puzzle/wordle-answer-today-august-9-2024)
- - [Grand Theft Auto 6 is still on track for fall 2025, and there&#39;s still no sign of a PC version](https://www.pcgamer.com/games/grand-theft-auto/grand-theft-auto-6-is-still-on-track-for-fall-2025-and-theres-still-no-sign-of-a-pc-version)
- - [Arrowhead boss says he&#39;s not upset by the latest Helldivers 2 balance uproar: &#39;I&#39;d take this ANY day of the week over nobody giving a s**t&#39;](https://www.pcgamer.com/games/third-person-shooter/arrowhead-boss-says-hes-not-upset-by-the-latest-helldivers-2-balance-uproar-id-take-this-any-day-of-the-week-over-nobody-giving-a-st)<!-- GAME:END -->
+ - [God of War Ragnarök needs a chonky 190 GB of SSD space but the rest of the system requirements seem pretty reasonable](https://www.pcgamer.com/games/action/god-of-war-ragnarok-needs-a-chonky-190-gb-of-ssd-space-but-the-rest-of-the-system-requirements-seem-pretty-reasonable)
+ - [Best Sorcerer builds in Diablo 4 season 5](https://www.polygon.com/diablo-4-guides/23653283/sorcerer-best-build-skills)
+ - [Best Barbarian builds in Diablo 4 season 5](https://www.polygon.com/23654868/barbarian-best-build-skills)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
