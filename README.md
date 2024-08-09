@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [It should\u2019ve been me!](http://9gag.com/gag/azxrO4q)
- - ⏩ [Meanwhile we have our own meme... The guy won 2 golds...yey..](http://9gag.com/gag/aYQKPZ2)
+ - 💣 [This is so disgusting..](http://9gag.com/gag/a1mdOmG)
+ - ⏩ [I did thinking about her](http://9gag.com/gag/axygRVL)
  - 👉 [X-Men vs Avengers](http://9gag.com/gag/aYQKqDx)<!-- MEMES:END -->
 
 ---
