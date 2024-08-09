@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [At home, she&#39;s the boss.](http://9gag.com/gag/aVvDRjy)
- - ⏩ [HEY!! HEY!! HEEEEY!! HEEEEEEEEEY!!!!!!, NOOOOOO.](http://9gag.com/gag/a6ZMBzN)
- - 👉 [You failed one community duty today](http://9gag.com/gag/an7yx8z)<!-- MEMES:END -->
+ - 💣 [In an unexpected turn of events](http://9gag.com/gag/a0ed1Dn)
+ - ⏩ [You failed one community duty today](http://9gag.com/gag/an7yx8z)
+ - 👉 [Meanwhile we have our own meme... The guy won 2 golds...yey..](http://9gag.com/gag/aYQKPZ2)<!-- MEMES:END -->
 
 ---
 
