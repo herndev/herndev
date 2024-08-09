@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [His name is Mijain Lopez](http://9gag.com/gag/aoy28Q2)
- - ⏩ [I did thinking about her](http://9gag.com/gag/axygRVL)
+ - 💣 [In an unexpected turn of events](http://9gag.com/gag/a0ed1Dn)
+ - ⏩ [This is so disgusting..](http://9gag.com/gag/a1mdOmG)
  - 👉 [It should\u2019ve been me!](http://9gag.com/gag/azxrO4q)<!-- MEMES:END -->
 
 ---
