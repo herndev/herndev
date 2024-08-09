@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Suits and ties](http://9gag.com/gag/aE0RWXx)
- - ⏩ [Fishermen accidentally catches a great white shark &amp; then releases it back into the water](http://9gag.com/gag/aryOX6d)
- - 👉 [Most countries around India is failing](http://9gag.com/gag/aPAM8XK)<!-- MEMES:END -->
+ - 💣 [Iraq has lowered the age of legal marriage for women from 15 to 9, what the actual F](http://9gag.com/gag/a5QZjRy)
+ - ⏩ [Suits and ties](http://9gag.com/gag/aE0RWXx)
+ - 👉 [Sorry for portrait mode](http://9gag.com/gag/axygRWp)<!-- MEMES:END -->
 
 ---
 
