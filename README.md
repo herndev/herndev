@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Suits and ties](http://9gag.com/gag/aE0RWXx)
- - ⏩ [Craziest gold medal win](http://9gag.com/gag/a7oZNAb)
- - 👉 [You failed one community duty today](http://9gag.com/gag/an7yx8z)<!-- MEMES:END -->
+ - 💣 [Boeing now f**ked up a space mission. Astronauts who were supposed to spend 8 days in the Int Space Station - will be stuck there until 2025, because Boeing Starliner had a malfunction](http://9gag.com/gag/an7yrrV)
+ - ⏩ [Sorry for portrait mode](http://9gag.com/gag/axygRWp)
+ - 👉 [Suits and ties](http://9gag.com/gag/aE0RWXx)<!-- MEMES:END -->
 
 ---
 
