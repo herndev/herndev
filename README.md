@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sony’s adorable Astro Bot controller is now available for preorder](https://www.theverge.com/24215774/astro-bot-limited-edition-dualsense-wireless-controller-preorder-price-release-date-ps5)
- - [Former Twitter board member Omid Kordestani, who helped oversee the sale of the company to Elon Musk, sues X for failing to cash out $20M+ worth of stock &lpar;Kate Conger/New York Times&rpar;](http://www.techmeme.com/240809/p20#a240809p20)
- - [Nearly everyone working on Nova Launcher has been laid off](https://www.theverge.com/2024/8/9/24217077/nova-launcher-layoffs-only-original-developer-remaining)<!-- TECH:END -->
+ - [Google Researchers Found Nearly a Dozen Flaws in Popular Qualcomm Software for Mobile GPUs](https://www.wired.com/story/google-android-red-team-qualcomm-gpu-flaws/)
+ - [Instagram is testing a Snap Maps-like feature that lets users post text and video updates to a map that can be shared with friends &lpar;Jacob Kastrenakes/The Verge&rpar;](http://www.techmeme.com/240809/p21#a240809p21)
+ - [The FDA Just Rejected a Bid for MDMA’s Approval to Treat PTSD](https://www.wired.com/story/fda-rejects-mdma-ptsd-treatment/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
