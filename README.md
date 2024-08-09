@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [TikTok is offering steep discounts on goods to US users who invite friends to the app, expanding a referral scheme from countries like Japan and Thailand &lpar;Kaya Yurieff/The Information&rpar;](http://www.techmeme.com/240809/p18#a240809p18)
- - [Meat lovers can save 37% on the ThermoPro TempSpike wireless thermometer!](https://www.androidauthority.com/thermopro-tempspike-500ft-wireless-meat-thermometer-deal-3469789/)
- - [ATM Software Flaws Left Piles of Cash for Anyone Who Knew to Look](https://www.wired.com/story/vss-atm-vulnerabilities-defcon-2024/)<!-- TECH:END -->
+ - [Interfax: Roskomnadzor blocked Signal in Russia for allegedly violating laws linked to anti-terrorist operations; Venezuela reportedly blocked Signal too &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/240809/p19#a240809p19)
+ - [Samsung’s Energy Score vs Garmin’s Body Battery: Which is better?](https://www.androidauthority.com/samsung-energy-score-vs-garmin-body-battery-3469424/)
+ - [The two coolest chargers are on sale today!](https://www.androidauthority.com/ugreen-gravastar-chargers-deals-3469788/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
