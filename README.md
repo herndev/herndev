@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Suits and ties](http://9gag.com/gag/aE0RWXx)
- - ⏩ [His name is Mijain Lopez](http://9gag.com/gag/aoy28Q2)
- - 👉 [In an unexpected turn of events](http://9gag.com/gag/a0ed1Dn)<!-- MEMES:END -->
+ - 💣 [At home, she&#39;s the boss.](http://9gag.com/gag/aVvDRjy)
+ - ⏩ [HEY!! HEY!! HEEEEY!! HEEEEEEEEEY!!!!!!, NOOOOOO.](http://9gag.com/gag/a6ZMBzN)
+ - 👉 [You failed one community duty today](http://9gag.com/gag/an7yx8z)<!-- MEMES:END -->
 
 ---
 
