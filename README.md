@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Husband and wife tag team](http://9gag.com/gag/aMVwvAP)
- - ⏩ [You failed one community duty today](http://9gag.com/gag/an7yx8z)
- - 👉 [HEY!! HEY!! HEEEEY!! HEEEEEEEEEY!!!!!!, NOOOOOO.](http://9gag.com/gag/a6ZMBzN)<!-- MEMES:END -->
+ - 💣 [His name is Mijain Lopez](http://9gag.com/gag/aoy28Q2)
+ - ⏩ [I did thinking about her](http://9gag.com/gag/axygRVL)
+ - 👉 [It should\u2019ve been me!](http://9gag.com/gag/azxrO4q)<!-- MEMES:END -->
 
 ---
 
