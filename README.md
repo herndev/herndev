@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [My favorite puzzle game has an unskippable Peter Gabriel interlude](https://www.polygon.com/24216047/myst-game-peter-gabriel)
- - [Major browser providers scramble to patch an 18-year-old vulnerability affecting MacOS and Linux systems but Windows remains gloriously immune](https://www.pcgamer.com/software/security/major-browser-providers-scramble-to-patch-an-18-year-old-vulnerability-affecting-macos-and-linux-systems-but-windows-remains-gloriously-immune)
- - [Kingdom Come: Deliverance, a &#39;seriously satisfying RPG&#39; that lets you live the life of a medieval knight in a &#39;rich and reactive open world&#39;, has its price slashed by 83%](https://www.pcgamer.com/games/rpg/kingdom-come-deliverance-a-seriously-satisfying-rpg-that-lets-you-live-the-life-of-a-medieval-knight-in-a-rich-and-reactive-open-world-has-its-price-slashed-by-83)<!-- GAME:END -->
+ - [Next Week on Xbox: New Games for August 12 to 16](https://news.xbox.com/en-us/2024/08/09/next-week-on-xbox-new-games-for-august-12-to-16/)
+ - [Landlords are so drunk with power they&#39;ve started advertising apartments made in The Sims 4 on real estate websites](https://www.pcgamer.com/games/the-sims/landlords-are-so-drunk-with-power-theyve-started-advertising-apartments-made-in-the-sims-4-on-real-estate-websites)
+ - [Report: Dead Rising Remake Ditches Rewards For Taking Upskirt Photos](https://kotaku.com/dead-rising-deluxe-remaster-erotica-photo-mode-1851617689)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
