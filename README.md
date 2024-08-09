@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Runaways’ Jackie Fox is reimagining her rock ‘n’ roll story in tabletop form](https://www.polygon.com/24216836/jackie-fox-rock-hard-1977-board-game-interview)
- - [You can get every Dragon Age game yet made for just $10 in EA&#39;s August Steam sale](https://www.pcgamer.com/games/dragon-age/you-can-get-every-dragon-age-game-yet-made-for-just-dollar10-in-eas-august-steam-sale)
- - [Fallout London&#39;s First Big Update Finally Nerfs Its Deadliest Enemy: Foxes](https://kotaku.com/fallout-london-fox-foxes-nerf-update-bugs-quests-gog-1851618664)<!-- GAME:END -->
+ - [Scientist survival in Abiotic Factor gets the obligatory water area next week, complete with fishing](https://www.pcgamer.com/games/survival-crafting/scientist-survival-in-abiotic-factor-gets-the-obligatory-water-area-next-week-complete-with-fishing)
+ - [Despicable Me 4, The Bikeriders, and every movie new to streaming this week](https://www.polygon.com/2024/8/9/24211563/new-movies-despicable-me-4-the-bikeriders-the-instigators)
+ - [The Runaways’ Jackie Fox is reimagining her rock ‘n’ roll story in tabletop form](https://www.polygon.com/24216836/jackie-fox-rock-hard-1977-board-game-interview)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
