@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [MrBeast Calls For &#39;Full Assessment&#39; Of Company Culture After Recent Allegations](https://kotaku.com/mrbeast-youtube-amazon-prime-ava-tyson-beast-games-1851618563)
- - [Fortnite Player Remakes 20 Seconds Of Deadpool &amp; Wolverine In-Game And Fans Wants The Full Scene](https://kotaku.com/fortnite-remake-deadpool-wolverine-opening-fight-nsync-1851618534)
- - [Kingmakers, the game about going back in time with an M4 tank, doesn&#39;t have a release date yet, but it does somehow have a movie deal](https://www.pcgamer.com/movies-tv/kingmakers-the-game-about-going-back-in-time-with-an-m4-tank-doesn-t-have-a-release-date-yet-but-it-does-somehow-have-a-movie-deal)<!-- GAME:END -->
+ - [Fallout London&#39;s First Big Update Finally Nerfs Its Deadliest Enemy: Foxes](https://kotaku.com/fallout-london-fox-foxes-nerf-update-bugs-quests-gog-1851618664)
+ - [Sega’s delisting Sonic Generations, but somehow doing it in a good way](https://www.polygon.com/24216961/sonic-x-shadow-generations-delisting-steam-xbox)
+ - [Tilman Singer hopes teenagers sneak into his horror movie Cuckoo and blow their minds](https://www.polygon.com/24167466/cuckoo-director-tilman-singer-interview-hunter-schafer)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
