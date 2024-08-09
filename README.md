@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Netflix Faces Major Anime Crisis As Fans Freak Out Over Leaks](https://kotaku.com/netflix-anime-leak-arcane-s2-dandadan-ranma-full-eps-1851617923)
- - [Sony’s new Astro Bot controller is a tribute to the de facto mascot](https://www.polygon.com/24208796/playstation-astro-bot-controller-dualsense-pre-order)
- - [The Adorable Astro Bot DualSense Controller Is Up For Pre-Order](https://kotaku.com/astro-bot-dualsense-controller-pre-order-release-date-1851617905)<!-- GAME:END -->
+ - [Xbox: A Modern Canvas for Indigenous Storytelling](https://news.xbox.com/en-us/2024/08/09/xbox-international-day-worlds-indigenous-peoples-2024/)
+ - [$30 Will Get You More Than 30 Games In This Incredible Capcom Bundle](https://kotaku.com/capcom-bundle-dead-rising-street-fighter-ace-attorney-1851618074)
+ - [&#39;I dunno what the negativity is for, people had fun&#39;: Palworld dev comes to Helldivers 2&#39;s defence after stats-tracker decrees both games burnt out](https://www.pcgamer.com/games/survival-crafting/i-dunno-what-the-negativity-is-for-people-had-fun-palworld-dev-comes-to-helldivers-2-s-defence-after-stats-tracker-decrees-both-games-burnt-out)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
