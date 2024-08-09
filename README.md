@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Reconstruction video of East Coast Jets Flight 81](http://9gag.com/gag/aD2jZON)
- - ⏩ [Suits and ties](http://9gag.com/gag/aE0RWXx)
- - 👉 [9gag British users keep us informed](http://9gag.com/gag/axygOdY)<!-- MEMES:END -->
+ - 💣 [Craziest gold medal win](http://9gag.com/gag/a7oZNAb)
+ - ⏩ [Sorry for portrait mode](http://9gag.com/gag/axygRWp)
+ - 👉 [Suits and ties](http://9gag.com/gag/aE0RWXx)<!-- MEMES:END -->
 
 ---
 
