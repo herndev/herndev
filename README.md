@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Xbox: A Modern Canvas for Indigenous Storytelling](https://news.xbox.com/en-us/2024/08/09/xbox-international-day-worlds-indigenous-peoples-2024/)
- - [$30 Will Get You More Than 30 Games In This Incredible Capcom Bundle](https://kotaku.com/capcom-bundle-dead-rising-street-fighter-ace-attorney-1851618074)
- - [&#39;I dunno what the negativity is for, people had fun&#39;: Palworld dev comes to Helldivers 2&#39;s defence after stats-tracker decrees both games burnt out](https://www.pcgamer.com/games/survival-crafting/i-dunno-what-the-negativity-is-for-people-had-fun-palworld-dev-comes-to-helldivers-2-s-defence-after-stats-tracker-decrees-both-games-burnt-out)<!-- GAME:END -->
+ - [Indie darling Jessica Curry fell hard for Mass Effect 3’s soundtrack early on](https://www.polygon.com/24215351/everybodys-gone-rapture-soundtrack-jessica-curry-interview)
+ - [Take-Two CEO Strauss Zelnick is still holding out hope for the Borderlands movie: &#39;Let&#39;s give the film a chance&#39;](https://www.pcgamer.com/movies-tv/take-two-ceo-strauss-zelnick-is-still-holding-out-hope-for-the-borderlands-movie-let-s-give-the-film-a-chance)
+ - [A month on, Final Fantasy 14: Dawntrail&#39;s endgame outshines its story](https://www.pcgamer.com/games/final-fantasy/a-month-on-final-fantasy-14-dawntrails-endgame-outshines-its-story)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
