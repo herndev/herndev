@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Mario wishes he had it that easy](http://9gag.com/gag/azxrYBm)
- - ⏩ [You cant arrest us all herr Starmer](http://9gag.com/gag/a7oZnWx)
- - 👉 [Repairing a car leather Seat flawlessly](http://9gag.com/gag/ayNLYdr)<!-- MEMES:END -->
+ - 💣 [Sorry for portrait mode](http://9gag.com/gag/axygRWp)
+ - ⏩ [X-Men vs Avengers](http://9gag.com/gag/aYQKqDx)
+ - 👉 [His name is Mijain Lopez](http://9gag.com/gag/aoy28Q2)<!-- MEMES:END -->
 
 ---
 
