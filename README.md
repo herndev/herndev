@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Interfax: Roskomnadzor blocked Signal in Russia for allegedly violating laws linked to anti-terrorist operations; Venezuela reportedly blocked Signal too &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/240809/p19#a240809p19)
- - [Samsung’s Energy Score vs Garmin’s Body Battery: Which is better?](https://www.androidauthority.com/samsung-energy-score-vs-garmin-body-battery-3469424/)
- - [The two coolest chargers are on sale today!](https://www.androidauthority.com/ugreen-gravastar-chargers-deals-3469788/)<!-- TECH:END -->
+ - [Sony’s adorable Astro Bot controller is now available for preorder](https://www.theverge.com/24215774/astro-bot-limited-edition-dualsense-wireless-controller-preorder-price-release-date-ps5)
+ - [Former Twitter board member Omid Kordestani, who helped oversee the sale of the company to Elon Musk, sues X for failing to cash out $20M+ worth of stock &lpar;Kate Conger/New York Times&rpar;](http://www.techmeme.com/240809/p20#a240809p20)
+ - [Nearly everyone working on Nova Launcher has been laid off](https://www.theverge.com/2024/8/9/24217077/nova-launcher-layoffs-only-original-developer-remaining)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
