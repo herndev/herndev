@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [In an unexpected turn of events](http://9gag.com/gag/a0ed1Dn)
- - ⏩ [You failed one community duty today](http://9gag.com/gag/an7yx8z)
- - 👉 [Meanwhile we have our own meme... The guy won 2 golds...yey..](http://9gag.com/gag/aYQKPZ2)<!-- MEMES:END -->
+ - 💣 [Mario wishes he had it that easy](http://9gag.com/gag/azxrYBm)
+ - ⏩ [You cant arrest us all herr Starmer](http://9gag.com/gag/a7oZnWx)
+ - 👉 [Repairing a car leather Seat flawlessly](http://9gag.com/gag/ayNLYdr)<!-- MEMES:END -->
 
 ---
 
