@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Borderlands Movie Had Characters &#39;Blowing People&#39;s Heads Off&#39; Before PG-13 Changes](https://kotaku.com/borderlands-movie-r-rated-pg-13-eli-roth-interview-1851618411)
- - [How Dicey Dungeons’ soundtrack found the sweet spot between Earthbound and disco funk](https://www.polygon.com/2024/8/9/24216751/chipzel-dicey-dungeons-interview)
- - [Disney’s limited edition Star Tours playset just activated the nostalgia center of my brain.](https://www.polygon.com/24216914/d23-disney-star-tours-starspeeder-playset-pre-order-where-to-buy)<!-- GAME:END -->
+ - [MrBeast Calls For &#39;Full Assessment&#39; Of Company Culture After Recent Allegations](https://kotaku.com/mrbeast-youtube-amazon-prime-ava-tyson-beast-games-1851618563)
+ - [Fortnite Player Remakes 20 Seconds Of Deadpool &amp; Wolverine In-Game And Fans Wants The Full Scene](https://kotaku.com/fortnite-remake-deadpool-wolverine-opening-fight-nsync-1851618534)
+ - [Kingmakers, the game about going back in time with an M4 tank, doesn&#39;t have a release date yet, but it does somehow have a movie deal](https://www.pcgamer.com/movies-tv/kingmakers-the-game-about-going-back-in-time-with-an-m4-tank-doesn-t-have-a-release-date-yet-but-it-does-somehow-have-a-movie-deal)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
