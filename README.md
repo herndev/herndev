@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Survivor or grooming gangs gives TV interview. Next day she&#39;s getting visit from the thought-police. Orwell was British btw](http://9gag.com/gag/aAyw2O0)
- - ⏩ [Don&#39;t forget 28.May.16](http://9gag.com/gag/axygP02)
- - 👉 [You cant arrest us all herr Starmer](http://9gag.com/gag/a7oZnWx)<!-- MEMES:END -->
+ - 💣 [Suits and ties](http://9gag.com/gag/aE0RWXx)
+ - ⏩ [His name is Mijain Lopez](http://9gag.com/gag/aoy28Q2)
+ - 👉 [In an unexpected turn of events](http://9gag.com/gag/a0ed1Dn)<!-- MEMES:END -->
 
 ---
 
