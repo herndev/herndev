@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Next Week on Xbox: New Games for August 12 to 16](https://news.xbox.com/en-us/2024/08/09/next-week-on-xbox-new-games-for-august-12-to-16/)
- - [Landlords are so drunk with power they&#39;ve started advertising apartments made in The Sims 4 on real estate websites](https://www.pcgamer.com/games/the-sims/landlords-are-so-drunk-with-power-theyve-started-advertising-apartments-made-in-the-sims-4-on-real-estate-websites)
- - [Report: Dead Rising Remake Ditches Rewards For Taking Upskirt Photos](https://kotaku.com/dead-rising-deluxe-remaster-erotica-photo-mode-1851617689)<!-- GAME:END -->
+ - [Netflix Faces Major Anime Crisis As Fans Freak Out Over Leaks](https://kotaku.com/netflix-anime-leak-arcane-s2-dandadan-ranma-full-eps-1851617923)
+ - [Sony’s new Astro Bot controller is a tribute to the de facto mascot](https://www.polygon.com/24208796/playstation-astro-bot-controller-dualsense-pre-order)
+ - [The Adorable Astro Bot DualSense Controller Is Up For Pre-Order](https://kotaku.com/astro-bot-dualsense-controller-pre-order-release-date-1851617905)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
