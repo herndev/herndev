@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Woman In Philly Gets the Sparta Treatment for Holding Up Train](http://9gag.com/gag/aKG28OZ)
- - ⏩ [I know you&#39;ve been waiting for her. And she&#39;s back.](http://9gag.com/gag/aNDdV6K)
- - 👉 [Not a boomer complaint. Reality. I&#39;m tired of knowing a million logins, passwords and being tracked with everything. Even basic household items now want to track and log me in. Forget it.](http://9gag.com/gag/an7yD4o)<!-- MEMES:END -->
+ - 💣 [Suits and ties](http://9gag.com/gag/aE0RWXx)
+ - ⏩ [Fishermen accidentally catches a great white shark &amp; then releases it back into the water](http://9gag.com/gag/aryOX6d)
+ - 👉 [Most countries around India is failing](http://9gag.com/gag/aPAM8XK)<!-- MEMES:END -->
 
 ---
 
