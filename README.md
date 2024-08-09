@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Tippy Type makes typing with long nails less tedious](https://www.theverge.com/24209704/tippy-type-review-keyboard-accessory)
- - [Warner Bros. Discovery pretty much wiped the Cartoon Network website](https://www.theverge.com/2024/8/9/24216846/warner-bros-discovery-cartoon-network-website-wiped-max)
- - [Apple&#39;s Adaptive Lighting support spreads to Matter smart lights](https://appleinsider.com/articles/24/08/09/apples-adaptive-lighting-support-spreads-to-matter-smart-lights?utm_medium=rss)<!-- TECH:END -->
+ - [How Google’s antitrust cases could change Android as we know it](https://www.androidauthority.com/android-divestment-3469724/)
+ - [Google lost its first antitrust case, so what happens next?](https://www.theverge.com/2024/8/9/24216708/google-lost-antitrust-elon-musk-sues-advertisers)
+ - [Galaxy S24 FE specs leak suggests a ‘big’ step forward](https://www.androidauthority.com/galaxy-s24-fe-specs-leak-3469751/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
