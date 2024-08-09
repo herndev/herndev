@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at the US&#39; Chips and Science Act two years after its enactment on August 9, 2022, as the Biden administration nearly finishes divvying up $39B in grants &lpar;Mackenzie Hawkins/Bloomberg&rpar;](http://www.techmeme.com/240809/p6#a240809p6)
- - [Samsung resumes shipping its flagship Galaxy Buds 3 Pro earbuds. Did you receive yours yet?](https://www.androidauthority.com/samsung-resumes-shipping-its-flagship-galaxy-buds-3-pro-earbuds-did-you-receive-yours-yet-3469573/)
- - [Venezuelan President Nicolas Maduro bans X in the country for ten days, accusing Elon Musk of using X to promote hatred after Venezuela&#39;s disputed election &lpar;Reuters&rpar;](http://www.techmeme.com/240809/p4#a240809p4)<!-- TECH:END -->
+ - [Apple Vision Pro disappointments and beta frustrations on the AppleInsider podcast](https://appleinsider.com/articles/24/08/09/apple-vision-pro-disappointments-and-beta-frustrations-on-the-appleinsider-podcast?utm_medium=rss)
+ - [End of an era: Nova Launcher’s parent company lays off practically everyone](https://www.androidauthority.com/nova-launcher-layoff-3469604/)
+ - [The Irish Data Protection Commission says X has agreed to pause training Grok using millions of Europeans&#39; public posts it collected between May 7 and August 1 &lpar;Clothilde Goujard/Politico&rpar;](http://www.techmeme.com/240809/p7#a240809p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
