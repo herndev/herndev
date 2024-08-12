@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle answer for Monday, August 12](https://www.pcgamer.com/games/puzzle/wordle-answer-today-august-12-2024)
  - [Hi-Fi Rush lives: PUBG owner Krafton has acquired Tango Gameworks from Xbox](https://www.pcgamer.com/gaming-industry/hi-fi-rush-lives-pubg-owner-krafton-has-acquired-tango-gameworks-from-xbox)
- - [Five new Steam games you probably missed &lpar;August 12, 2024&rpar;](https://www.pcgamer.com/software/platforms/five-new-steam-games-you-probably-missed-august-12-2024)
- - [Hi-Fi Rush Dev Is Back From The Dead, Will ‘Continue Developing’ The Series](https://kotaku.com/tango-gameworks-hi-fi-rush-revive-shutdown-krafton-xbox-1851619190)<!-- GAME:END -->
+ - [Five new Steam games you probably missed &lpar;August 12, 2024&rpar;](https://www.pcgamer.com/software/platforms/five-new-steam-games-you-probably-missed-august-12-2024)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
