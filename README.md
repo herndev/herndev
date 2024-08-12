@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Steve Jobs&#39; bomber jacket features in memorabilia auction](https://appleinsider.com/articles/24/08/12/steve-jobs-bomber-jacket-features-in-memorabilia-auction?utm_medium=rss)
- - [CrowdStrike&#39;s president appeared at DEF CON to accept the &quot;Most Epic Fail&quot; Pwnie Award, saying &quot;we got this horribly wrong&quot; and &quot;it&#39;s super important to own it&quot; &lpar;Michael Kan/PCMag&rpar;](http://www.techmeme.com/240812/p23#a240812p23)
- - [Ford offers free home EV charging for some Texas residents in first-of-its-kind deal](https://www.theverge.com/2024/8/12/24218702/ford-free-ev-charging-txu-energy-texas)<!-- TECH:END -->
+ - [TikTok’s new group chats keep conversations in the app](https://www.theverge.com/2024/8/12/24218935/tiktok-group-chats-conversation-in-app)
+ - [Hot deal: Sony WH-1000XM4 headphones reach Prime Day prices again](https://www.androidauthority.com/sony-wh-1000xm4-deal-2-3470477/)
+ - [Chrome for Android makes switching in and out of Incognito faster](https://www.androidauthority.com/chrome-canary-incognito-switcher-3470499/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
