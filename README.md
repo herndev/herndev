@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I hope you&#39;re all happy. Because I am.](http://9gag.com/gag/a347g5e)
- - ⏩ [So this was a actual sport at the Paris Olympics.. Breakdancing. As a Australian I&#39;m sorry for this obernation.](http://9gag.com/gag/ae9Y8OQ)
- - 👉 [Birthday surprise](http://9gag.com/gag/avyrwmd)<!-- MEMES:END -->
+ - 💣 [Recognize the building?](http://9gag.com/gag/aLnM59v)
+ - ⏩ [What if](http://9gag.com/gag/a87pxyZ)
+ - 👉 [Before/After Church](http://9gag.com/gag/aW483mZ)<!-- MEMES:END -->
 
 ---
 
