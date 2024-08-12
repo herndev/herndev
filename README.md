@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [`You can do this to me`](http://9gag.com/gag/awy5Dg1)
- - ⏩ [Great for one, not so much the other.](http://9gag.com/gag/aqyrMxL)
- - 👉 [If this is not love, I don\u2019t know what is &lpar;39s&rpar;](http://9gag.com/gag/aryOwE0)<!-- MEMES:END -->
+ - 💣 [Great for one, not so much the other.](http://9gag.com/gag/aqyrMxL)
+ - ⏩ [Passive income](http://9gag.com/gag/a347gnr)
+ - 👉 [A wolf pup growing up](http://9gag.com/gag/aYQK6MV)<!-- MEMES:END -->
 
 ---
 
