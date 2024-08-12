@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Play Store could soon handle updates for sideloaded apps &lpar;Update: Rolling out&rpar;](https://www.androidauthority.com/play-store-update-permission-apk-3466169/)
- - [CrowdStrike accepted a ‘Most Epic Fail’ award at Def Con hacking conference](https://www.theverge.com/2024/8/12/24218536/crowdstrike-accepts-def-con-pwnies-award-most-epic-fail-global-windows-it-outage)
- - [Nest now supports Apple Home, Aqara&#39;s FP1E presence sensor launches, &amp; more on HomeKit Insider](https://appleinsider.com/articles/24/08/12/nest-now-supports-apple-home-aqaras-fp1e-presence-sensor-launches-more-on-homekit-insider?utm_medium=rss)<!-- TECH:END -->
+ - [YouTube Music’s ‘Personal Radio’ mix shares your favorite songs with the world](https://www.theverge.com/2024/8/12/24218587/youtube-music-personal-radio-playlist-top-stats-profiles)
+ - [Trump falsely claims Kamala Harris ‘A.I.’d’ her rally crowd size](https://www.theverge.com/2024/8/12/24218533/trump-accuses-harris-ai-generated-crowd)
+ - [Stay Cool Wherever You Go With Almost 40% Off This 3-in-1 Portable Fan](https://www.cnet.com/deals/stay-cool-wherever-you-go-with-almost-40-off-this-3-in-1-portable-fan/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
