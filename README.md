@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The best deals from GOG’s massive RPG sale](https://www.polygon.com/deals/2024/8/12/24216951/gog-rpg-sale)
- - [Two New Halloween Games Announced, John Carpenter &#39;Intimately Involved&#39;](https://kotaku.com/new-ign-halloween-games-michael-myers-john-carpenter-1851619732)
- - [Intel instability fix: I&#39;ve seen no notable impact on game performance with 0x129 patch on the Core i9 14900K](https://www.pcgamer.com/hardware/processors/intel-instability-fix-ive-seen-no-notable-impact-on-game-performance-with-0x129-patch-on-the-core-i9-14900k)<!-- GAME:END -->
+ - [Our first look at Netflix’s new One Piece anime shows how hard it is to adapt Oda’s opus](https://www.polygon.com/anime/24218850/netflix-one-piece-anime-first-look-behind-scenes)
+ - [How To Take Out Helldivers 2’s Brutal New Rocket Tanks](https://kotaku.com/helldivers-2-rocket-tank-guide-update-1851619846)
+ - [Even Chuck E. Cheese Is Getting A Subscription](https://kotaku.com/chuck-e-cheese-subscription-fun-pass-tickets-price-1851620006)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
