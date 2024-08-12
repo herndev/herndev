@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [What if](http://9gag.com/gag/a87pxyZ)
- - ⏩ [Birthday surprise](http://9gag.com/gag/avyrwmd)
- - 👉 [Weekly Advice #127](http://9gag.com/gag/aO8dW96)<!-- MEMES:END -->
+ - 💣 [Kier Stalin would have me sent to the gulag for posting this on facebook.](http://9gag.com/gag/aAywzm0)
+ - ⏩ [Sick move,mate](http://9gag.com/gag/aKG2oYN)
+ - 👉 [True](http://9gag.com/gag/a1md3j8)<!-- MEMES:END -->
 
 ---
 
