@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Iraq has lowered the age of legal marriage for women from 15 to 9, what the actual F](http://9gag.com/gag/a5QZjRy)
- - ⏩ [Heat wave + shit quality paint = hilarity](http://9gag.com/gag/aW489y3)
- - 👉 [Title](http://9gag.com/gag/a87pKbd)<!-- MEMES:END -->
+ - 💣 [Be comfortable](http://9gag.com/gag/azxryZb)
+ - ⏩ [Great for one, not so much the other.](http://9gag.com/gag/aqyrMxL)
+ - 👉 [A wolf pup growing up](http://9gag.com/gag/aYQK6MV)<!-- MEMES:END -->
 
 ---
 
