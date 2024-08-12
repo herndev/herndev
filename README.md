@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Despite imminent deslisting, Sega says Sonic Generations will still be available via a bundle](https://www.pcgamer.com/games/despite-imminent-deslisting-sega-says-sonic-generations-will-still-be-available-via-a-bundle)
- - [The original Doom-inspired roguelike will return this year as Jupiter Hell Classic](https://www.pcgamer.com/games/roguelike/the-original-doom-inspired-roguelike-will-return-this-year-as-jupiter-hell-classic)
- - [Lorelei and the Laser Eyes’ Daniel Olsén channeled Twin Peaks’ moody music](https://www.polygon.com/24216942/lorelei-and-the-laser-eyes-daniel-olsen-music-interview)<!-- GAME:END -->
+ - [Five new Steam games you probably missed &lpar;August 12, 2024&rpar;](https://www.pcgamer.com/software/platforms/five-new-steam-games-you-probably-missed-august-12-2024)
+ - [Hi-Fi Rush Dev Is Back From The Dead, Will ‘Continue Developing’ The Series](https://kotaku.com/tango-gameworks-hi-fi-rush-revive-shutdown-krafton-xbox-1851619190)
+ - [Hi-Fi Rush studio, shut down by Microsoft, saved by PUBG’s publisher](https://www.polygon.com/24218268/krafton-tango-gameworks-bethesda-microsoft-hi-fi-rush)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
