@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [If this is not love, I don\u2019t know what is &lpar;39s&rpar;](http://9gag.com/gag/aryOwE0)
- - ⏩ [How safe is Barcelona](http://9gag.com/gag/abA6NZp)
- - 👉 [Birthday surprise](http://9gag.com/gag/avyrwmd)<!-- MEMES:END -->
+ - 💣 [Felt kinda good ngl](http://9gag.com/gag/avyrwZd)
+ - ⏩ [Recognize the building?](http://9gag.com/gag/aLnM59v)
+ - 👉 [He asked his wife to dress as a nurse to spice up relationship](http://9gag.com/gag/aMVw7e1)<!-- MEMES:END -->
 
 ---
 
