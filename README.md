@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Save 34% on the ASUS Chromebook Plus CX34 today only!](https://www.androidauthority.com/asus-chromebook-plus-cx34-deal-3470478/)
- - [States push back on classroom distractions with smartphone bans](https://www.androidauthority.com/states-smartphone-bans-3470437/)
- - [New AirPods Pro firmware beta brings head shaking and improved noise isolation](https://appleinsider.com/articles/24/08/12/new-airpods-pro-firmware-beta-brings-head-shaking-and-improved-noise-isolation?utm_medium=rss)<!-- TECH:END -->
+ - [Steve Jobs&#39; bomber jacket features in memorabilia auction](https://appleinsider.com/articles/24/08/12/steve-jobs-bomber-jacket-features-in-memorabilia-auction?utm_medium=rss)
+ - [CrowdStrike&#39;s president appeared at DEF CON to accept the &quot;Most Epic Fail&quot; Pwnie Award, saying &quot;we got this horribly wrong&quot; and &quot;it&#39;s super important to own it&quot; &lpar;Michael Kan/PCMag&rpar;](http://www.techmeme.com/240812/p23#a240812p23)
+ - [Ford offers free home EV charging for some Texas residents in first-of-its-kind deal](https://www.theverge.com/2024/8/12/24218702/ford-free-ev-charging-txu-energy-texas)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
