@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The best horror to watch on Netflix this August](https://www.polygon.com/what-to-watch/2024/8/12/24213687/best-horror-movies-netflix-watch-august-2024)
- - [Tom Cruise Wraps Up Olympics With Mission: Impossible Stunt](https://kotaku.com/tom-cruise-olympics-mission-impossible-la-2028-1851619363)
- - [Arrowhead CEO says &#39;we need to do better&#39; after incendiary response to flamethrower nerfs in Helldivers 2: &#39;Me just talking about it isn&#39;t enough, actions matter&#39;](https://www.pcgamer.com/games/third-person-shooter/arrowhead-ceo-says-we-need-to-do-better-after-incendiary-response-to-flamethrower-nerfs-in-helldivers-2-me-just-talking-about-it-isn-t-enough-actions-matter)<!-- GAME:END -->
+ - [Reports say Intel could have bought a $1 billion chunk of OpenAI seven years ago but its then-CEO thought it wouldn&#39;t pay off](https://www.pcgamer.com/hardware/reports-say-intel-could-have-bought-a-dollar1-billion-chunk-of-openai-seven-years-ago-but-its-then-ceo-thought-it-wouldnt-pay-off)
+ - [Everything You Need To Know About Dragon Age: The Veilguard’s Companions](https://kotaku.com/dragon-age-veilguard-companions-party-members-dreadwolf-1851530857)
+ - [The Best Ways To Upgrade Soh In Kunitsu-Gami: Path Of The Goddess](https://kotaku.com/kunitsu-gami-path-of-the-goddess-soh-upgrade-guide-1851617701)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
