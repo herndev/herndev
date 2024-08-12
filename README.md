@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Today&#39;s Wordle answer for Monday, August 12](https://www.pcgamer.com/games/puzzle/wordle-answer-today-august-12-2024)
- - [Hi-Fi Rush lives: PUBG owner Krafton has acquired Tango Gameworks from Xbox](https://www.pcgamer.com/gaming-industry/hi-fi-rush-lives-pubg-owner-krafton-has-acquired-tango-gameworks-from-xbox)
- - [Five new Steam games you probably missed &lpar;August 12, 2024&rpar;](https://www.pcgamer.com/software/platforms/five-new-steam-games-you-probably-missed-august-12-2024)<!-- GAME:END -->
+ - [Our Favorite Cosplay From Japan Expo Paris 2024](https://kotaku.com/japan-expo-paris-2024-cosplay-costumes-best-anime-1851618291)
+ - [Millions of AMD CPUs found vulnerable to 18-year-old &#39;Sinkclose&#39; deep-system flaw but it&#39;s pretty difficult to exploit](https://www.pcgamer.com/hardware/processors/millions-of-amd-cpus-found-vulnerable-to-18-year-old-sinkclose-deep-system-flaw-but-its-pretty-difficult-to-exploit)
+ - [Minisforum AtomMan G7 PT review](https://www.pcgamer.com/hardware/gaming-pcs/minisforum-atomman-g7-pt-mini-pc-review)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
