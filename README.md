@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Researchers Found Nearly a Dozen Flaws in Popular Qualcomm Software for Mobile GPUs](https://www.wired.com/story/google-android-red-team-qualcomm-gpu-flaws/)
- - [Instagram is testing a Snap Maps-like feature that lets users post text and video updates to a map that can be shared with friends &lpar;Jacob Kastrenakes/The Verge&rpar;](http://www.techmeme.com/240809/p21#a240809p21)
- - [The FDA Just Rejected a Bid for MDMA’s Approval to Treat PTSD](https://www.wired.com/story/fda-rejects-mdma-ptsd-treatment/)<!-- TECH:END -->
+ - [A nightly Waymo robotaxi parking lot honkfest is waking San Francisco neighbors](https://www.theverge.com/2024/8/11/24218134/waymo-parking-lot-livestream-honking-4am-san-francisco)
+ - [After Kamala Harris held a rally in Detroit with thousands in attendance, Donald Trump falsely claimed the crowd was &quot;fake&quot; and a picture of it was AI-generated &lpar;Peter Wade/Rolling Stone&rpar;](http://www.techmeme.com/240811/p8#a240811p8)
+ - [Netflix Secret Menu: How to Unlock Hidden Movies and TV Shows](https://www.cnet.com/tech/services-and-software/how-to-use-netflix-secret-menu/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
