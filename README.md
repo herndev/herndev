@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [New video from STALKER 2 studio leans into the authenticity of The Zone](https://www.polygon.com/24218882/stalker-2-deep-dive-video)
- - [McDonald&#39;s Finally Brings Back Collector&#39;s Cups And They Won&#39;t Poison You This Time](https://kotaku.com/mcdonalds-happy-meal-collectors-cups-shrek-barbie-1851620251)
- - [Poker star Justin Bonomo, who&#39;s won over $60 million, made his first bankroll by selling his EverQuest druid: &#39;It was over AIM and he offered me $500&#39;](https://www.pcgamer.com/games/mmo/justin-bonomo-poker-everquest-character)<!-- GAME:END -->
+ - [All new Helldivers 2 enemies should be revealed in-game](https://www.polygon.com/24219000/helldivers-2-impaler-new-enemies-surprise)
+ - [Valve&#39;s Yet-To-Be-Announced Multiplayer Game Already Has Thousands Of Players On Steam](https://kotaku.com/valve-next-game-deadlock-early-access-beta-steamdb-pc-1851620354)
+ - [Doom 2&#39;s first true expansion since the &#39;90s showcases just how much modding has improved in 30 years](https://www.pcgamer.com/games/fps/doom-2s-first-true-expansion-since-the-90s-showcases-just-how-much-modding-has-improved-in-30-years)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
