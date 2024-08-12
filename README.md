@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [I hope you&#39;re all happy. Because I am.](http://9gag.com/gag/a347g5e)
- - ⏩ [Names and their IQ from the danish military draft](http://9gag.com/gag/aAyw5Mo)
- - 👉 [He asked his wife to dress as a nurse to spice up relationship](http://9gag.com/gag/aMVw7e1)<!-- MEMES:END -->
+ - ⏩ [He asked his wife to dress as a nurse to spice up relationship](http://9gag.com/gag/aMVw7e1)
+ - 👉 [Aussie breaker, Raygun!](http://9gag.com/gag/an7ywGz)<!-- MEMES:END -->
 
 ---
 
