@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Assassin&#39;s Creed Shadows Took Longer To Make Than Any Previous Game In The Series](https://kotaku.com/assassins-creed-shadows-japan-yasuke-ubisoft-4-years-1851620163)
- - [Randy Pitchford is posting through it after Borderlands bombs bad](https://www.pcgamer.com/movies-tv/randy-pitchford-tweets-maximum-copium-after-borderlands-bombs)
- - [Baldur’s Gate 3 just won the biggest award in fantasy and sci-fi](https://www.polygon.com/24218806/baldurs-gate-3-wins-hugo-award)<!-- GAME:END -->
+ - [New video from STALKER 2 studio leans into the authenticity of The Zone](https://www.polygon.com/24218882/stalker-2-deep-dive-video)
+ - [McDonald&#39;s Finally Brings Back Collector&#39;s Cups And They Won&#39;t Poison You This Time](https://kotaku.com/mcdonalds-happy-meal-collectors-cups-shrek-barbie-1851620251)
+ - [Poker star Justin Bonomo, who&#39;s won over $60 million, made his first bankroll by selling his EverQuest druid: &#39;It was over AIM and he offered me $500&#39;](https://www.pcgamer.com/games/mmo/justin-bonomo-poker-everquest-character)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
