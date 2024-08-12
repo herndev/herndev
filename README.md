@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A detailed look at China&#39;s chip buildout and how US chip sanctions and industrial policies have accelerated China&#39;s push to develop its own chip supply chain &lpar;Joseph Politano/Apricitas Economics&rpar;](http://www.techmeme.com/240812/p4#a240812p4)
- - [At least eight US states, including Indiana and Louisiana, have passed laws or adopted rules so far in 2024 to curb students&#39; smartphone use during school hours &lpar;Natasha Singer/New York Times&rpar;](http://www.techmeme.com/240812/p3#a240812p3)
- - [Balderton Capital raised $1.3B for EU startups across two funds: a $615M early-stage fund and a $685M fund for &quot;growth&quot; investing in more mature startups &lpar;Tim Bradshaw/Financial Times&rpar;](http://www.techmeme.com/240812/p2#a240812p2)<!-- TECH:END -->
+ - [Google Pixel Fold one year later: far from the perfect gadget but the whole is greater than the sum of its parts, and the Pixel 9 Pro Fold may solve its issues &lpar;Chris Welch/The Verge&rpar;](http://www.techmeme.com/240812/p5#a240812p5)
+ - [YouTube Music now lets you share your personal radio with others](https://www.androidauthority.com/youtube-music-share-personal-radio-3470182/)
+ - [Hi-Fi Rush studio saved from Microsoft shutdown](https://www.theverge.com/2024/8/12/24218424/hifi-rush-studio-tango-gameworks-saved-krafton-microsoft)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
