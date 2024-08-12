@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Pixel Fold one year later: far from the perfect gadget but the whole is greater than the sum of its parts, and the Pixel 9 Pro Fold may solve its issues &lpar;Chris Welch/The Verge&rpar;](http://www.techmeme.com/240812/p5#a240812p5)
- - [YouTube Music now lets you share your personal radio with others](https://www.androidauthority.com/youtube-music-share-personal-radio-3470182/)
- - [Hi-Fi Rush studio saved from Microsoft shutdown](https://www.theverge.com/2024/8/12/24218424/hifi-rush-studio-tango-gameworks-saved-krafton-microsoft)<!-- TECH:END -->
+ - [Samsung Galaxy Book4 Edge review: nice design, display, quiet keys, and 14 hours of battery, but outperformed by Snapdragon rivals and Arm limits compatibility &lpar;Joanna Nelius/The Verge&rpar;](http://www.techmeme.com/240812/p8#a240812p8)
+ - [TikTok has been sending inaccurate and misleading news-style alerts to users, including a weeks-old disaster warning; TikTok removed some of the notifications &lpar;Stephanie Stacey/Financial Times&rpar;](http://www.techmeme.com/240812/p7#a240812p7)
+ - [A researcher finds 15K+ hardcoded secrets and 66K vulnerable websites, including details on accessing Stanford&#39;s Slack, by searching overlooked data sources &lpar;Matt Burgess/Wired&rpar;](http://www.techmeme.com/240812/p6#a240812p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
