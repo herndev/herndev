@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [What time does Zenless Zone Zero 1.1 release?](https://www.polygon.com/zenless-zone-zero-guides/24215547/zzz-version-1-1-release-times-maintenance-end)
- - [Almost 20 years in, World of Warcraft is the freshest it’s been in years — and it’s thanks to WoW Classic](https://www.polygon.com/2024/8/12/24209862/world-warcraft-wow-classic-20th-anniversary-retrospective)
- - [Our Favorite Cosplay From Japan Expo Paris 2024](https://kotaku.com/japan-expo-paris-2024-cosplay-costumes-best-anime-1851618291)<!-- GAME:END -->
+ - [The best horror to watch on Netflix this August](https://www.polygon.com/what-to-watch/2024/8/12/24213687/best-horror-movies-netflix-watch-august-2024)
+ - [Tom Cruise Wraps Up Olympics With Mission: Impossible Stunt](https://kotaku.com/tom-cruise-olympics-mission-impossible-la-2028-1851619363)
+ - [Arrowhead CEO says &#39;we need to do better&#39; after incendiary response to flamethrower nerfs in Helldivers 2: &#39;Me just talking about it isn&#39;t enough, actions matter&#39;](https://www.pcgamer.com/games/third-person-shooter/arrowhead-ceo-says-we-need-to-do-better-after-incendiary-response-to-flamethrower-nerfs-in-helldivers-2-me-just-talking-about-it-isn-t-enough-actions-matter)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
