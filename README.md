@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Cause Co-op Chaos in Cult of the Lamb’s Free Unholy Alliance Update](https://news.xbox.com/en-us/2024/08/12/cult-of-the-lamb-unholy-alliance-update-co-op/)
- - [&#39;Free doesn&#39;t pay our bills&#39;: Mega-mod Fallout London&#39;s developers plan to build their own indie studio](https://www.pcgamer.com/games/fallout/free-doesn-t-pay-our-bills-mega-mod-fallout-london-s-developers-plan-to-build-their-own-indie-studio)
- - [Pokémon Fans Pay Tribute As Original Misty Voice Actor Dies At 46](https://kotaku.com/pokemon-misty-jessie-jigglypuff-voice-rachael-lillis-1851619597)<!-- GAME:END -->
+ - [Forza Motorsport Introduces Road Atlanta and Multi-Class Racing](https://forza.net/news/forza-motorsport-update-11/#new_tab)
+ - [Rachael Lillis, the voice of Pokémon’s Misty and Jessie, dies at 46](https://www.polygon.com/24218705/rachael-lillis-pokemon-voice-actor-death-misty-jesse)
+ - [&#39;It was such a chore, every day&#39;: the surprising reason Ella Purnell was &#39;part of the biggest challenge&#39; for the Fallout TV show&#39;s makeup department](https://www.pcgamer.com/movies-tv/it-was-such-a-chore-every-day-the-surprising-reason-ella-purnell-was-part-of-the-biggest-challenge-for-the-fallout-tv-shows-makeup-department)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
