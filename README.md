@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [New Zealand\u2019s Hamish Kerr requested that he and USA\u2019s Shelby McEwen share the gold medal since they were tied at the High Jump final, which would have been a great story for both like the one below. McEwen said nah, and so it went to a jump-off for the gold. NZ\u2019s Kerr took it.](http://9gag.com/gag/aO8dO1v)
- - ⏩ [Next time someone tells you `what she&#39;s doing, it&#39;s hard` send him this.](http://9gag.com/gag/ae9YzEv)
- - 👉 [They are like siblings](http://9gag.com/gag/an7ywYB)<!-- MEMES:END -->
+ - 💣 [`You can do this to me`](http://9gag.com/gag/awy5Dg1)
+ - ⏩ [Great for one, not so much the other.](http://9gag.com/gag/aqyrMxL)
+ - 👉 [If this is not love, I don\u2019t know what is &lpar;39s&rpar;](http://9gag.com/gag/aryOwE0)<!-- MEMES:END -->
 
 ---
 
