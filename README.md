@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Scientist survival in Abiotic Factor gets the obligatory water area next week, complete with fishing](https://www.pcgamer.com/games/survival-crafting/scientist-survival-in-abiotic-factor-gets-the-obligatory-water-area-next-week-complete-with-fishing)
- - [Despicable Me 4, The Bikeriders, and every movie new to streaming this week](https://www.polygon.com/2024/8/9/24211563/new-movies-despicable-me-4-the-bikeriders-the-instigators)
- - [The Runaways’ Jackie Fox is reimagining her rock ‘n’ roll story in tabletop form](https://www.polygon.com/24216836/jackie-fox-rock-hard-1977-board-game-interview)<!-- GAME:END -->
+ - [Despite imminent deslisting, Sega says Sonic Generations will still be available via a bundle](https://www.pcgamer.com/games/despite-imminent-deslisting-sega-says-sonic-generations-will-still-be-available-via-a-bundle)
+ - [The original Doom-inspired roguelike will return this year as Jupiter Hell Classic](https://www.pcgamer.com/games/roguelike/the-original-doom-inspired-roguelike-will-return-this-year-as-jupiter-hell-classic)
+ - [Lorelei and the Laser Eyes’ Daniel Olsén channeled Twin Peaks’ moody music](https://www.polygon.com/24216942/lorelei-and-the-laser-eyes-daniel-olsen-music-interview)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
