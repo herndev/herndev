@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Our Favorite Cosplay From Japan Expo Paris 2024](https://kotaku.com/japan-expo-paris-2024-cosplay-costumes-best-anime-1851618291)
- - [Millions of AMD CPUs found vulnerable to 18-year-old &#39;Sinkclose&#39; deep-system flaw but it&#39;s pretty difficult to exploit](https://www.pcgamer.com/hardware/processors/millions-of-amd-cpus-found-vulnerable-to-18-year-old-sinkclose-deep-system-flaw-but-its-pretty-difficult-to-exploit)
- - [Minisforum AtomMan G7 PT review](https://www.pcgamer.com/hardware/gaming-pcs/minisforum-atomman-g7-pt-mini-pc-review)<!-- GAME:END -->
+ - [What time does Zenless Zone Zero 1.1 release?](https://www.polygon.com/zenless-zone-zero-guides/24215547/zzz-version-1-1-release-times-maintenance-end)
+ - [Almost 20 years in, World of Warcraft is the freshest it’s been in years — and it’s thanks to WoW Classic](https://www.polygon.com/2024/8/12/24209862/world-warcraft-wow-classic-20th-anniversary-retrospective)
+ - [Our Favorite Cosplay From Japan Expo Paris 2024](https://kotaku.com/japan-expo-paris-2024-cosplay-costumes-best-anime-1851618291)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
