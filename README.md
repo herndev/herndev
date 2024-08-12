@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [YouTube Music’s ‘Personal Radio’ mix shares your favorite songs with the world](https://www.theverge.com/2024/8/12/24218587/youtube-music-personal-radio-playlist-top-stats-profiles)
- - [Trump falsely claims Kamala Harris ‘A.I.’d’ her rally crowd size](https://www.theverge.com/2024/8/12/24218533/trump-accuses-harris-ai-generated-crowd)
- - [Stay Cool Wherever You Go With Almost 40% Off This 3-in-1 Portable Fan](https://www.cnet.com/deals/stay-cool-wherever-you-go-with-almost-40-off-this-3-in-1-portable-fan/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The new OnePlus AI features leave most users frustrated](https://www.androidauthority.com/oneplus-ai-toolkit-features-3470374/)
+ - [NYT, Puck, and others are focusing on Reddit as its traffic went from 132M monthly visitors in August 2023 to 346M in April 2024 following Google Search changes &lpar;Mark Stenberg/Adweek&rpar;](http://www.techmeme.com/240812/p18#a240812p18)
+ - [New Artificial Sweetener Research Bitters With Heart Risk Finding: Here&#39;s What to Know](https://www.cnet.com/health/nutrition/new-artificial-sweetener-research-bitters-with-heart-risk-finding-heres-what-to-know/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
