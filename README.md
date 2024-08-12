@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Worst answer ever.](http://9gag.com/gag/aVvDrN2)
- - ⏩ [Weekly Advice #127](http://9gag.com/gag/aO8dW96)
- - 👉 [`You can do this to me`](http://9gag.com/gag/awy5Dg1)<!-- MEMES:END -->
+ - 💣 [I hope you&#39;re all happy. Because I am.](http://9gag.com/gag/a347g5e)
+ - ⏩ [So this was a actual sport at the Paris Olympics.. Breakdancing. As a Australian I&#39;m sorry for this obernation.](http://9gag.com/gag/ae9Y8OQ)
+ - 👉 [Birthday surprise](http://9gag.com/gag/avyrwmd)<!-- MEMES:END -->
 
 ---
 
