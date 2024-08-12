@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Reports say Intel could have bought a $1 billion chunk of OpenAI seven years ago but its then-CEO thought it wouldn&#39;t pay off](https://www.pcgamer.com/hardware/reports-say-intel-could-have-bought-a-dollar1-billion-chunk-of-openai-seven-years-ago-but-its-then-ceo-thought-it-wouldnt-pay-off)
- - [Everything You Need To Know About Dragon Age: The Veilguard’s Companions](https://kotaku.com/dragon-age-veilguard-companions-party-members-dreadwolf-1851530857)
- - [The Best Ways To Upgrade Soh In Kunitsu-Gami: Path Of The Goddess](https://kotaku.com/kunitsu-gami-path-of-the-goddess-soh-upgrade-guide-1851617701)<!-- GAME:END -->
+ - [Cause Co-op Chaos in Cult of the Lamb’s Free Unholy Alliance Update](https://news.xbox.com/en-us/2024/08/12/cult-of-the-lamb-unholy-alliance-update-co-op/)
+ - [&#39;Free doesn&#39;t pay our bills&#39;: Mega-mod Fallout London&#39;s developers plan to build their own indie studio](https://www.pcgamer.com/games/fallout/free-doesn-t-pay-our-bills-mega-mod-fallout-london-s-developers-plan-to-build-their-own-indie-studio)
+ - [Pokémon Fans Pay Tribute As Original Misty Voice Actor Dies At 46](https://kotaku.com/pokemon-misty-jessie-jigglypuff-voice-rachael-lillis-1851619597)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
