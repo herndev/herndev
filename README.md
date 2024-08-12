@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The new OnePlus AI features leave most users frustrated](https://www.androidauthority.com/oneplus-ai-toolkit-features-3470374/)
- - [NYT, Puck, and others are focusing on Reddit as its traffic went from 132M monthly visitors in August 2023 to 346M in April 2024 following Google Search changes &lpar;Mark Stenberg/Adweek&rpar;](http://www.techmeme.com/240812/p18#a240812p18)
- - [New Artificial Sweetener Research Bitters With Heart Risk Finding: Here&#39;s What to Know](https://www.cnet.com/health/nutrition/new-artificial-sweetener-research-bitters-with-heart-risk-finding-heres-what-to-know/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Researchers: in the 30 US states which legalized access to online betting, citizens&#39; likelihood of filing for bankruptcy went up 25-30% after about three years &lpar;Slow Boring&rpar;](http://www.techmeme.com/240812/p20#a240812p20)
+ - [Apple Maps Look Around spreading outside city centers in the U.S., coming to more countries](https://appleinsider.com/articles/24/08/12/apple-maps-look-around-spreading-outside-city-centers-in-the-us-coming-to-more-countries?utm_medium=rss)
+ - [Apple seeds second developer betas for iOS 18.1, iPadOS 18.1, &amp; macOS Sequoia 15.1](https://appleinsider.com/articles/24/08/12/apple-seeds-second-developer-betas-for-ios-181-and-ipados-181?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
