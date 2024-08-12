@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Forza Motorsport Introduces Road Atlanta and Multi-Class Racing](https://forza.net/news/forza-motorsport-update-11/#new_tab)
- - [Rachael Lillis, the voice of Pokémon’s Misty and Jessie, dies at 46](https://www.polygon.com/24218705/rachael-lillis-pokemon-voice-actor-death-misty-jesse)
- - [&#39;It was such a chore, every day&#39;: the surprising reason Ella Purnell was &#39;part of the biggest challenge&#39; for the Fallout TV show&#39;s makeup department](https://www.pcgamer.com/movies-tv/it-was-such-a-chore-every-day-the-surprising-reason-ella-purnell-was-part-of-the-biggest-challenge-for-the-fallout-tv-shows-makeup-department)<!-- GAME:END -->
+ - [The best deals from GOG’s massive RPG sale](https://www.polygon.com/deals/2024/8/12/24216951/gog-rpg-sale)
+ - [Two New Halloween Games Announced, John Carpenter &#39;Intimately Involved&#39;](https://kotaku.com/new-ign-halloween-games-michael-myers-john-carpenter-1851619732)
+ - [Intel instability fix: I&#39;ve seen no notable impact on game performance with 0x129 patch on the Core i9 14900K](https://www.pcgamer.com/hardware/processors/intel-instability-fix-ive-seen-no-notable-impact-on-game-performance-with-0x129-patch-on-the-core-i9-14900k)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
