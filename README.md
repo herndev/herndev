@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Great for one, not so much the other.](http://9gag.com/gag/aqyrMxL)
- - ⏩ [Women](http://9gag.com/gag/aPAMVdG)
- - 👉 [Miss South Africa 2024 Mia le Roux](http://9gag.com/gag/aD2jLRZ)<!-- MEMES:END -->
+ - ⏩ [Real Breakdancing vs some cartoon shit](http://9gag.com/gag/ajPqwjG)
+ - 👉 [That one cockroach that just wouldn&#39;t die](http://9gag.com/gag/a6ZM65b)<!-- MEMES:END -->
 
 ---
 
