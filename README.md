@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Don&#39;t try so hard!!!](http://9gag.com/gag/aKG2Zjb)
- - ⏩ [`You can do this to me`](http://9gag.com/gag/awy5Dg1)
- - 👉 [TRANSformation](http://9gag.com/gag/an7y0e5)<!-- MEMES:END -->
+ - 💣 [Raptors](http://9gag.com/gag/aO8dLov)
+ - ⏩ [Degenerates? Where are you?](http://9gag.com/gag/ajPqwVx)
+ - 👉 [Fun with shit and giggles](http://9gag.com/gag/aPAMq4G)<!-- MEMES:END -->
 
 ---
 
