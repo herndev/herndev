@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Great for one, not so much the other.](http://9gag.com/gag/aqyrMxL)
- - ⏩ [Passive income](http://9gag.com/gag/a347gnr)
- - 👉 [A wolf pup growing up](http://9gag.com/gag/aYQK6MV)<!-- MEMES:END -->
+ - ⏩ [Women](http://9gag.com/gag/aPAMVdG)
+ - 👉 [Miss South Africa 2024 Mia le Roux](http://9gag.com/gag/aD2jLRZ)<!-- MEMES:END -->
 
 ---
 
