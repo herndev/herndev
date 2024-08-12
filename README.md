@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I love speedway](http://9gag.com/gag/aLnMEnx)
- - ⏩ [Former CEO of YouTube Susan Wojcicki died. F**k her and her Legacy for trashing YouTube into platform full of censorship, ads and trash conent](http://9gag.com/gag/aqyrB5L)
- - 👉 [That one cockroach that just wouldn&#39;t die](http://9gag.com/gag/a6ZM65b)<!-- MEMES:END -->
+ - 💣 [New Zealand\u2019s Hamish Kerr requested that he and USA\u2019s Shelby McEwen share the gold medal since they were tied at the High Jump final, which would have been a great story for both like the one below. McEwen said nah, and so it went to a jump-off for the gold. NZ\u2019s Kerr took it.](http://9gag.com/gag/aO8dO1v)
+ - ⏩ [Next time someone tells you `what she&#39;s doing, it&#39;s hard` send him this.](http://9gag.com/gag/ae9YzEv)
+ - 👉 [They are like siblings](http://9gag.com/gag/an7ywYB)<!-- MEMES:END -->
 
 ---
 
