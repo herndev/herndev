@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [All new Helldivers 2 enemies should be revealed in-game](https://www.polygon.com/24219000/helldivers-2-impaler-new-enemies-surprise)
- - [Valve&#39;s Yet-To-Be-Announced Multiplayer Game Already Has Thousands Of Players On Steam](https://kotaku.com/valve-next-game-deadlock-early-access-beta-steamdb-pc-1851620354)
- - [Doom 2&#39;s first true expansion since the &#39;90s showcases just how much modding has improved in 30 years](https://www.pcgamer.com/games/fps/doom-2s-first-true-expansion-since-the-90s-showcases-just-how-much-modding-has-improved-in-30-years)<!-- GAME:END -->
+ - [Stalker 2 devs&#39; 35-minute in-depth gameplay video and promise of an &#39;authentic&#39; experience that&#39;ll kill you dead finally has me fully on board the hype train to The Zone](https://www.pcgamer.com/games/fps/stalker-2-devs-35-minute-in-depth-video-and-promise-of-an-authentic-experience-that-ll-kill-you-dead-finally-have-me-fully-on-board-the-hype-train-to-the-zone)
+ - [We can all see that Valve&#39;s unannounced shooter Deadlock just hit over 18,000 concurrent players, Gabe](https://www.pcgamer.com/games/fps/we-can-all-see-that-valves-unannounced-shooter-deadlock-just-hit-over-18000-concurrent-players-gabe)
+ - [All new Helldivers 2 enemies should be revealed in-game](https://www.polygon.com/24219000/helldivers-2-impaler-new-enemies-surprise)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
