@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Recognize the building?](http://9gag.com/gag/aLnM59v)
- - ⏩ [What if](http://9gag.com/gag/a87pxyZ)
- - 👉 [Before/After Church](http://9gag.com/gag/aW483mZ)<!-- MEMES:END -->
+ - 💣 [Before/After Church](http://9gag.com/gag/aW483mZ)
+ - ⏩ [This dude dressed up as Kim Jong-un in front of North Koreans at the olympics.](http://9gag.com/gag/abA6oDX)
+ - 👉 [Correct!](http://9gag.com/gag/a2vdXWp)<!-- MEMES:END -->
 
 ---
 
