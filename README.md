@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Next level driving](http://9gag.com/gag/abA6w4X)
- - ⏩ [So this was a actual sport at the Paris Olympics.. Breakdancing. As a Australian I&#39;m sorry for this obernation.](http://9gag.com/gag/ae9Y8OQ)
- - 👉 [Correct!](http://9gag.com/gag/a2vdXWp)<!-- MEMES:END -->
+ - 💣 [What if](http://9gag.com/gag/a87pxyZ)
+ - ⏩ [Birthday surprise](http://9gag.com/gag/avyrwmd)
+ - 👉 [Weekly Advice #127](http://9gag.com/gag/aO8dW96)<!-- MEMES:END -->
 
 ---
 
