@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Trump campaign reportedly hacked by Iranian government](https://www.theverge.com/2024/8/12/24218491/trump-campaign-reportedly-hacked-iranian-government)
- - [Meta’s new music deal with UMG includes Threads and WhatsApp](https://www.theverge.com/2024/8/12/24218501/meta-umg-whatsapp-threads-licensing-agreement)
- - [Polymarket, which lets users bet on real-world events, partners with AI search engine Perplexity to show news summaries and with Tako to make AI visuals &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/240812/p13#a240812p13)<!-- TECH:END -->
+ - [Play Store could soon handle updates for sideloaded apps &lpar;Update: Rolling out&rpar;](https://www.androidauthority.com/play-store-update-permission-apk-3466169/)
+ - [CrowdStrike accepted a ‘Most Epic Fail’ award at Def Con hacking conference](https://www.theverge.com/2024/8/12/24218536/crowdstrike-accepts-def-con-pwnies-award-most-epic-fail-global-windows-it-outage)
+ - [Nest now supports Apple Home, Aqara&#39;s FP1E presence sensor launches, &amp; more on HomeKit Insider](https://appleinsider.com/articles/24/08/12/nest-now-supports-apple-home-aqaras-fp1e-presence-sensor-launches-more-on-homekit-insider?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
