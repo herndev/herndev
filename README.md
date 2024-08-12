@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The US SEC sues crypto company NovaTech and its co-founders, saying they fraudulently raised $650M+ from 200K+ investors globally, following the NY AG&#39;s suit &lpar;Jonathan Stempel/Reuters&rpar;](http://www.techmeme.com/240812/p22#a240812p22)
- - [Take a look at Circle to Search’s ‘Audio Search’ in action for the first time &lpar;APK teardown&rpar;](https://www.androidauthority.com/circle-to-search-audio-search-first-look-3470398/)
- - [He Made a Movie About Humans Rising Up Against AI. Now He&#39;s Doing the Real Thing](https://www.wired.com/story/hollywood-animators-fight-artificial-intelligence-labor-mike-rianda/)<!-- TECH:END -->
+ - [Save 34% on the ASUS Chromebook Plus CX34 today only!](https://www.androidauthority.com/asus-chromebook-plus-cx34-deal-3470478/)
+ - [States push back on classroom distractions with smartphone bans](https://www.androidauthority.com/states-smartphone-bans-3470437/)
+ - [New AirPods Pro firmware beta brings head shaking and improved noise isolation](https://appleinsider.com/articles/24/08/12/new-airpods-pro-firmware-beta-brings-head-shaking-and-improved-noise-isolation?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
