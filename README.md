@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Don&#39;t try so hard!!!](http://9gag.com/gag/aKG2Zjb)
- - ⏩ [This dude dressed up as Kim Jong-un in front of North Koreans at the olympics.](http://9gag.com/gag/abA6oDX)
- - 👉 [Birthday surprise](http://9gag.com/gag/avyrwmd)<!-- MEMES:END -->
+ - 💣 [Keir starmer finds himself to be quite hated in the UK](http://9gag.com/gag/aW48X83)
+ - ⏩ [Degenerates? Where are you?](http://9gag.com/gag/ajPqwVx)
+ - 👉 [Fun with shit and giggles](http://9gag.com/gag/aPAMq4G)<!-- MEMES:END -->
 
 ---
 
