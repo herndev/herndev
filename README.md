@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [TikTok’s new group chats keep conversations in the app](https://www.theverge.com/2024/8/12/24218935/tiktok-group-chats-conversation-in-app)
- - [Hot deal: Sony WH-1000XM4 headphones reach Prime Day prices again](https://www.androidauthority.com/sony-wh-1000xm4-deal-2-3470477/)
- - [Chrome for Android makes switching in and out of Incognito faster](https://www.androidauthority.com/chrome-canary-incognito-switcher-3470499/)<!-- TECH:END -->
+ - [A controversial experiment to artificially cool Earth was canceled — what we know about why](https://www.theverge.com/2024/8/12/24216232/harvard-solar-geoengineering-policy-analysis-science)
+ - [Google Wallet’s new tool that turns anything into a digital pass rolls out widely](https://www.androidauthority.com/google-wallet-pass-creator-us-3470502/)
+ - [Google Wallet can make digital passes for nearly anything now](https://www.theverge.com/2024/8/12/24218932/google-wallet-photo-everything-else-id-ticket-ai)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
