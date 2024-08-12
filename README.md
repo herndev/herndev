@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Retro gold rush: which emulators are on the App Store, and what&#39;s coming](https://appleinsider.com/articles/24/04/26/retro-gold-rush-these-emulators-are-coming-to-the-app-store-soon?utm_medium=rss)
- - [7 Best Chromebooks of 2024, Tested and Reviewed](https://www.wired.com/gallery/best-chromebooks/)
- - [This 1TB Mac Studio is discounted to $1,999, plus get 3 years of AppleCare for $139](https://appleinsider.com/articles/24/08/12/this-1tb-mac-studio-is-discounted-to-1999-plus-get-3-years-of-applecare-for-139?utm_medium=rss)<!-- TECH:END -->
+ - [Trump campaign reportedly hacked by Iranian government](https://www.theverge.com/2024/8/12/24218491/trump-campaign-reportedly-hacked-iranian-government)
+ - [Meta’s new music deal with UMG includes Threads and WhatsApp](https://www.theverge.com/2024/8/12/24218501/meta-umg-whatsapp-threads-licensing-agreement)
+ - [Polymarket, which lets users bet on real-world events, partners with AI search engine Perplexity to show news summaries and with Tako to make AI visuals &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/240812/p13#a240812p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
