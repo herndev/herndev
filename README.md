@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Be comfortable](http://9gag.com/gag/azxryZb)
- - ⏩ [Great for one, not so much the other.](http://9gag.com/gag/aqyrMxL)
- - 👉 [A wolf pup growing up](http://9gag.com/gag/aYQK6MV)<!-- MEMES:END -->
+ - 💣 [I love speedway](http://9gag.com/gag/aLnMEnx)
+ - ⏩ [Former CEO of YouTube Susan Wojcicki died. F**k her and her Legacy for trashing YouTube into platform full of censorship, ads and trash conent](http://9gag.com/gag/aqyrB5L)
+ - 👉 [That one cockroach that just wouldn&#39;t die](http://9gag.com/gag/a6ZM65b)<!-- MEMES:END -->
 
 ---
 
