@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A detailed look at China&#39;s chip buildout and how US chip sanctions and industrial policies have accelerated China&#39;s push to develop its own chip supply chain &lpar;Joseph Politano/Apricitas Economics&rpar;](http://www.techmeme.com/240812/p4#a240812p4)
  - [At least eight US states, including Indiana and Louisiana, have passed laws or adopted rules so far in 2024 to curb students&#39; smartphone use during school hours &lpar;Natasha Singer/New York Times&rpar;](http://www.techmeme.com/240812/p3#a240812p3)
- - [Balderton Capital raises $1.3B for EU startups across two funds: a $615M early-stage fund and a $685M fund for &quot;growth&quot; investing in more mature startups &lpar;Tim Bradshaw/Financial Times&rpar;](http://www.techmeme.com/240812/p2#a240812p2)
- - [PUBG publisher Krafton acquires former Xbox game studio Tango Gameworks and its Hi-Fi Rush IP; Microsoft had planned to shut down Tango Gameworks in May 2024 &lpar;Michael McWhertor/Polygon&rpar;](http://www.techmeme.com/240812/p1#a240812p1)<!-- TECH:END -->
+ - [Balderton Capital raised $1.3B for EU startups across two funds: a $615M early-stage fund and a $685M fund for &quot;growth&quot; investing in more mature startups &lpar;Tim Bradshaw/Financial Times&rpar;](http://www.techmeme.com/240812/p2#a240812p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
