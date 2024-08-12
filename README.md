@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How Uber, facing sexual assault litigation, spent millions trying to get a Nevada ballot proposal to restrict legal fees that bankroll cases against companies &lpar;Jessica Silver-Greenberg/New York Times&rpar;](http://www.techmeme.com/240812/p9#a240812p9)
- - [Humans Are Going to the Moon’s South Pole. This Is How They’ll Drive There](https://www.wired.com/story/artemis-v-lunar-terrain-vehicle-tires-wheels-design/)
- - [Apple could release mediocre iPhone Air models until it figures out how to Pro them](https://www.androidauthority.com/iphone-17-air-groundwork-future-model-3470222/)<!-- TECH:END -->
+ - [Retro gold rush: which emulators are on the App Store, and what&#39;s coming](https://appleinsider.com/articles/24/04/26/retro-gold-rush-these-emulators-are-coming-to-the-app-store-soon?utm_medium=rss)
+ - [7 Best Chromebooks of 2024, Tested and Reviewed](https://www.wired.com/gallery/best-chromebooks/)
+ - [This 1TB Mac Studio is discounted to $1,999, plus get 3 years of AppleCare for $139](https://appleinsider.com/articles/24/08/12/this-1tb-mac-studio-is-discounted-to-1999-plus-get-3-years-of-applecare-for-139?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
