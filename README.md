@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Keir starmer finds himself to be quite hated in the UK](http://9gag.com/gag/aW48X83)
- - ⏩ [Degenerates? Where are you?](http://9gag.com/gag/ajPqwVx)
- - 👉 [Fun with shit and giggles](http://9gag.com/gag/aPAMq4G)<!-- MEMES:END -->
+ - 💣 [Don&#39;t try so hard!!!](http://9gag.com/gag/aKG2Zjb)
+ - ⏩ [`You can do this to me`](http://9gag.com/gag/awy5Dg1)
+ - 👉 [TRANSformation](http://9gag.com/gag/an7y0e5)<!-- MEMES:END -->
 
 ---
 
