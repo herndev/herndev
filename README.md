@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Hi-Fi Rush lives: PUBG owner Krafton has acquired Tango Gameworks from Xbox](https://www.pcgamer.com/gaming-industry/hi-fi-rush-lives-pubg-owner-krafton-has-acquired-tango-gameworks-from-xbox)
  - [Five new Steam games you probably missed &lpar;August 12, 2024&rpar;](https://www.pcgamer.com/software/platforms/five-new-steam-games-you-probably-missed-august-12-2024)
- - [Hi-Fi Rush Dev Is Back From The Dead, Will ‘Continue Developing’ The Series](https://kotaku.com/tango-gameworks-hi-fi-rush-revive-shutdown-krafton-xbox-1851619190)
- - [Hi-Fi Rush studio, shut down by Microsoft, saved by PUBG’s publisher](https://www.polygon.com/24218268/krafton-tango-gameworks-bethesda-microsoft-hi-fi-rush)<!-- GAME:END -->
+ - [Hi-Fi Rush Dev Is Back From The Dead, Will ‘Continue Developing’ The Series](https://kotaku.com/tango-gameworks-hi-fi-rush-revive-shutdown-krafton-xbox-1851619190)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
