@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Our first look at Netflix’s new One Piece anime shows how hard it is to adapt Oda’s opus](https://www.polygon.com/anime/24218850/netflix-one-piece-anime-first-look-behind-scenes)
- - [How To Take Out Helldivers 2’s Brutal New Rocket Tanks](https://kotaku.com/helldivers-2-rocket-tank-guide-update-1851619846)
- - [Even Chuck E. Cheese Is Getting A Subscription](https://kotaku.com/chuck-e-cheese-subscription-fun-pass-tickets-price-1851620006)<!-- GAME:END -->
+ - [Assassin&#39;s Creed Shadows Took Longer To Make Than Any Previous Game In The Series](https://kotaku.com/assassins-creed-shadows-japan-yasuke-ubisoft-4-years-1851620163)
+ - [Randy Pitchford is posting through it after Borderlands bombs bad](https://www.pcgamer.com/movies-tv/randy-pitchford-tweets-maximum-copium-after-borderlands-bombs)
+ - [Baldur’s Gate 3 just won the biggest award in fantasy and sci-fi](https://www.polygon.com/24218806/baldurs-gate-3-wins-hugo-award)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
