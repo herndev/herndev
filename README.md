@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Great for one, not so much the other.](http://9gag.com/gag/aqyrMxL)
- - ⏩ [Real Breakdancing vs some cartoon shit](http://9gag.com/gag/ajPqwjG)
- - 👉 [That one cockroach that just wouldn&#39;t die](http://9gag.com/gag/a6ZM65b)<!-- MEMES:END -->
+ - 💣 [Don&#39;t try so hard!!!](http://9gag.com/gag/aKG2Zjb)
+ - ⏩ [This dude dressed up as Kim Jong-un in front of North Koreans at the olympics.](http://9gag.com/gag/abA6oDX)
+ - 👉 [Birthday surprise](http://9gag.com/gag/avyrwmd)<!-- MEMES:END -->
 
 ---
 
