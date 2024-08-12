@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Raptors](http://9gag.com/gag/aO8dLov)
- - ⏩ [Degenerates? Where are you?](http://9gag.com/gag/ajPqwVx)
- - 👉 [Fun with shit and giggles](http://9gag.com/gag/aPAMq4G)<!-- MEMES:END -->
+ - 💣 [`You can do this to me`](http://9gag.com/gag/awy5Dg1)
+ - ⏩ [Worst answer ever.](http://9gag.com/gag/aVvDrN2)
+ - 👉 [Weekly Advice #127](http://9gag.com/gag/aO8dW96)<!-- MEMES:END -->
 
 ---
 
