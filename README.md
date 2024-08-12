@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung Galaxy Book4 Edge review: nice design, display, quiet keys, and 14 hours of battery, but outperformed by Snapdragon rivals and Arm limits compatibility &lpar;Joanna Nelius/The Verge&rpar;](http://www.techmeme.com/240812/p8#a240812p8)
- - [TikTok has been sending inaccurate and misleading news-style alerts to users, including a weeks-old disaster warning; TikTok removed some of the notifications &lpar;Stephanie Stacey/Financial Times&rpar;](http://www.techmeme.com/240812/p7#a240812p7)
- - [A researcher finds 15K+ hardcoded secrets and 66K vulnerable websites, including details on accessing Stanford&#39;s Slack, by searching overlooked data sources &lpar;Matt Burgess/Wired&rpar;](http://www.techmeme.com/240812/p6#a240812p6)<!-- TECH:END -->
+ - [How Uber, facing sexual assault litigation, spent millions trying to get a Nevada ballot proposal to restrict legal fees that bankroll cases against companies &lpar;Jessica Silver-Greenberg/New York Times&rpar;](http://www.techmeme.com/240812/p9#a240812p9)
+ - [Humans Are Going to the Moon’s South Pole. This Is How They’ll Drive There](https://www.wired.com/story/artemis-v-lunar-terrain-vehicle-tires-wheels-design/)
+ - [Apple could release mediocre iPhone Air models until it figures out how to Pro them](https://www.androidauthority.com/iphone-17-air-groundwork-future-model-3470222/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
