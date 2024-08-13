@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I hope you&#39;re all happy. Because I am.](http://9gag.com/gag/a347g5e)
- - ⏩ [He asked his wife to dress as a nurse to spice up relationship](http://9gag.com/gag/aMVw7e1)
- - 👉 [Aussie breaker, Raygun!](http://9gag.com/gag/an7ywGz)<!-- MEMES:END -->
+ - 💣 [Congratulations to all the Athletes.. except Raygun.](http://9gag.com/gag/awy5WWR)
+ - ⏩ [Otter asks for help and kind strangers help reunite the pair; they receive a thoughtful gift at the end](http://9gag.com/gag/azxrWRb)
+ - 👉 [How safe is Barcelona](http://9gag.com/gag/abA6NZp)<!-- MEMES:END -->
 
 ---
 
