@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Birthday surprise](http://9gag.com/gag/avyrwmd)
- - ⏩ [How safe is Barcelona](http://9gag.com/gag/abA6NZp)
- - 👉 [Correct!](http://9gag.com/gag/a2vdXWp)<!-- MEMES:END -->
+ - 💣 [How safe is Barcelona](http://9gag.com/gag/abA6NZp)
+ - ⏩ [No title](http://9gag.com/gag/avyrKgO)
+ - 👉 [Otter asks for help and kind strangers help reunite the pair; they receive a thoughtful gift at the end](http://9gag.com/gag/azxrWRb)<!-- MEMES:END -->
 
 ---
 
