@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [India withdraws a draft broadcasting services bill after facing backlash from online creators over its potential effect on free speech and the compliance burden &lpar;John Reed/Financial Times&rpar;](http://www.techmeme.com/240813/p15#a240813p15)
- - [Rivian is bringing Apple Music with spatial audio to its CarPlay-less EVs](https://www.theverge.com/2024/8/13/24218973/rivian-apple-music-connect-plus-subscribe-fee)
- - [Google Pixel 9 event: how to watch the livestream](https://www.theverge.com/2024/8/13/24216320/google-pixel-9-pro-event-date-time-watch-live-stream)<!-- TECH:END -->
+ - [How to save your online writing from disappearing forever](https://www.theverge.com/24218943/archive-article-writing-authory-journalist)
+ - [Donald Trump Doesn’t Need X—but Elon Musk Desperately Needs Him Back](https://www.wired.com/story/elon-musk-needs-donald-trump-back-on-x/)
+ - [A profile of Peregrine, which was founded by an ex-Palantir exec to help US police access surveillance data, raised $30M in May, and had $10M in 2023 revenue &lpar;Thomas Brewster/Forbes&rpar;](http://www.techmeme.com/240813/p16#a240813p16)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
