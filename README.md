@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [They don&#39;t wear their ranks while on guard duty so as to not outrank any unknown soldiers](http://9gag.com/gag/aNDdEB0)
- - ⏩ [Look what we&#39;ve done](http://9gag.com/gag/aRBKn0M)
- - 👉 [Cheaper than therapy](http://9gag.com/gag/aO8dXe2)<!-- MEMES:END -->
+ - 💣 [Britain is the new North Korea. But if they can&#39;t speak, the rest of Europe will. You&#39;re not alone, stand against distopia. Peacefully, without rest, without fear.](http://9gag.com/gag/adBqZWQ)
+ - ⏩ [I try to hate this AI thing like you guys. But it get better.](http://9gag.com/gag/agmqzxn)
+ - 👉 [What is she talking about? I want that!](http://9gag.com/gag/aD2jy3N)<!-- MEMES:END -->
 
 ---
 
