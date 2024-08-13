@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Interested in the Pixel 9 Pro Fold? You won’t be getting it from AT&amp;T](https://www.androidauthority.com/pixel-9-pro-fold-att-3471244/)
- - [Pixel Watch 3 gets a first-ever smartwatch feature that detects loss of pulse](https://www.androidauthority.com/pixel-watch-3-loss-of-pulse-3471205/)
- - [Everything Google announced at the Pixel 9 launch event](https://www.theverge.com/24218825/google-pixel-9-event-announcements-products)<!-- TECH:END -->
+ - [Gemini Live will soon be able to answer questions about things in your camera viewfinder](https://www.androidauthority.com/gemini-live-project-astra-3471118/)
+ - [All the carriers that get you a Google Pixel 9 for free](https://www.androidauthority.com/google-pixel-9-free-3470381/)
+ - [First-time QVC customers can save $30 on Star Wars Outlaws, Zelda, and more](https://www.theverge.com/2024/8/13/24218718/qvc-star-wars-outlaws-preorder-fitbit-inspire-3-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
