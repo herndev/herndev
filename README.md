@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Birthday surprise](http://9gag.com/gag/avyrwmd)
- - ⏩ [Good old days.](http://9gag.com/gag/aD2jy2d)
- - 👉 [Weekly Advice #127](http://9gag.com/gag/aO8dW96)<!-- MEMES:END -->
+ - 💣 [Gold medal in our hearts](http://9gag.com/gag/aPAMKDg)
+ - ⏩ [What happened](http://9gag.com/gag/a1mdGj2)
+ - 👉 [When did the Olympics abandon reason for madness?](http://9gag.com/gag/aGy0W6w)<!-- MEMES:END -->
 
 ---
 
