@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Dead Rising Deluxe Remaster is a better, more grown-up version of a quirky zombie classic](https://www.polygon.com/impressions/24218980/dead-rising-deluxe-remaster-preview-impressions)
- - [Once the apple in Microsoft&#39;s eye, Paint 3D will be fully killed off in favour of its elder sibling Paint](https://www.pcgamer.com/software/windows/once-the-apple-in-microsofts-eye-paint-3d-will-be-fully-killed-off-in-favour-of-its-elder-sibling-paint)
- - [Who needs 87 keys to have a good time when ONE BTN BOSSES squeezes hours of fun out of the humble spacebar](https://www.pcgamer.com/games/who-needs-87-keys-to-have-a-good-time-when-one-btn-bosses-squeezes-hours-of-fun-out-of-the-humble-spacebar)<!-- GAME:END -->
+ - [Everyday Racers Line Up at the Starting Line in High-Performance Dailies](https://forza.net/news/forza-horizon-5-high-performance-dailies/#new_tab)
+ - [A robot trained with AI to beat average randos at table tennis is a much more impressive thing than you might think](https://www.pcgamer.com/software/ai/a-robot-trained-with-ai-to-beat-average-randos-at-table-tennis-is-a-much-more-impressive-thing-than-you-might-think)
+ - [Dead Rising Deluxe Remaster achieves exactly what it set out to do—but maybe that&#39;s not enough](https://www.pcgamer.com/games/action/dead-rising-deluxe-remaster-achieves-exactly-what-it-set-out-to-dobut-maybe-thats-not-enough)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
