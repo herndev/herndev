@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Congratulations to all the Athletes.. except Raygun.](http://9gag.com/gag/awy5WWR)
- - ⏩ [Otter asks for help and kind strangers help reunite the pair; they receive a thoughtful gift at the end](http://9gag.com/gag/azxrWRb)
- - 👉 [How safe is Barcelona](http://9gag.com/gag/abA6NZp)<!-- MEMES:END -->
+ - 💣 [He asked his wife to dress as a nurse to spice up relationship](http://9gag.com/gag/aMVw7e1)
+ - ⏩ [What if](http://9gag.com/gag/a87pxyZ)
+ - 👉 [Correct!](http://9gag.com/gag/a2vdXWp)<!-- MEMES:END -->
 
 ---
 
