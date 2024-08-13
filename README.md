@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Look what we&#39;ve done](http://9gag.com/gag/aRBKn0M)
- - ⏩ [Anime Girl Kicking&lpar;Gone Wrong&rpar;](http://9gag.com/gag/aD2j58K)
- - 👉 [Fahhhhk fahhhhk](http://9gag.com/gag/a0edrgz)<!-- MEMES:END -->
+ - 💣 [Otter asks for help and kind strangers help reunite the pair; they receive a thoughtful gift at the end](http://9gag.com/gag/azxrWRb)
+ - ⏩ [No title](http://9gag.com/gag/avyrKgO)
+ - 👉 [How safe is Barcelona](http://9gag.com/gag/abA6NZp)<!-- MEMES:END -->
 
 ---
 
