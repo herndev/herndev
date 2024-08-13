@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Flipboard is going to let you follow fediverse accounts right inside the app](https://www.theverge.com/2024/8/13/24218868/flipboard-fediverse-inside-app)
- - [Sources: after recent OpenAI shakeups, Chief Scientist Jakub Pachocki, post-training lead Barret Zoph, frontiers research lead Mark Chen, others gain prominence &lpar;Stephanie Palazzolo/The Information&rpar;](http://www.techmeme.com/240813/p17#a240813p17)
- - [Files by Google could help expand Circle to Search to more phones](https://www.androidauthority.com/files-by-google-circle-to-search-3470961/)<!-- TECH:END -->
+ - [After Thierry Breton&#39;s letter to X before the Trump interview, the EU says the &quot;timing and the wording of the letter were neither co-ordinated or agreed&quot; upon &lpar;Alice Hancock/Financial Times&rpar;](http://www.techmeme.com/240813/p20#a240813p20)
+ - [Twitch rolls out video stories, which can be 60 seconds long and set to expire after 1, 12, 24, or 48 hours, to challenge Instagram &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/240813/p19#a240813p19)
+ - [How to create reminders in Calendar in iOS 18](https://appleinsider.com/inside/ios-18/tips/how-to-create-reminders-in-calendar-in-ios-18?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
