@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Big fan of the Javelin this year.](http://9gag.com/gag/aQzMWAK)
- - ⏩ [Weekly Advice #127](http://9gag.com/gag/aO8dW96)
- - 👉 [Aussie breaker, Raygun!](http://9gag.com/gag/an7ywGz)<!-- MEMES:END -->
+ - 💣 [The difference between an average person running compared to Olympic Athletes.](http://9gag.com/gag/ae9YzxB)
+ - ⏩ [Aussie breaker, Raygun!](http://9gag.com/gag/an7ywGz)
+ - 👉 [Big fan of the Javelin this year.](http://9gag.com/gag/aQzMWAK)<!-- MEMES:END -->
 
 ---
 
