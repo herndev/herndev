@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [SpaceX faces accusations it violated the Clean Water Act](https://www.theverge.com/2024/8/13/24219374/spacex-faces-accusations-it-violated-the-clean-water-act)
- - [Google’s Pixel 9 phones are the first to get Satellite SOS for Android](https://www.theverge.com/2024/8/13/24219583/google-pixel-9-satellite-satellite-sos-android)
- - [Google previews an &quot;Add Me&quot; photo editing feature for group shots that merges two photos together so the picture taker can be added to photo &lpar;Kyle Kucharski/ZDNET&rpar;](http://www.techmeme.com/240813/p30#a240813p30)<!-- TECH:END -->
+ - [Interested in the Pixel 9 Pro Fold? You won’t be getting it from AT&amp;T](https://www.androidauthority.com/pixel-9-pro-fold-att-3471244/)
+ - [Pixel Watch 3 gets a first-ever smartwatch feature that detects loss of pulse](https://www.androidauthority.com/pixel-watch-3-loss-of-pulse-3471205/)
+ - [Everything Google announced at the Pixel 9 launch event](https://www.theverge.com/24218825/google-pixel-9-event-announcements-products)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
