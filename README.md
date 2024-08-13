@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to save your online writing from disappearing forever](https://www.theverge.com/24218943/archive-article-writing-authory-journalist)
- - [Donald Trump Doesn’t Need X—but Elon Musk Desperately Needs Him Back](https://www.wired.com/story/elon-musk-needs-donald-trump-back-on-x/)
- - [A profile of Peregrine, which was founded by an ex-Palantir exec to help US police access surveillance data, raised $30M in May, and had $10M in 2023 revenue &lpar;Thomas Brewster/Forbes&rpar;](http://www.techmeme.com/240813/p16#a240813p16)<!-- TECH:END -->
+ - [Flipboard is going to let you follow fediverse accounts right inside the app](https://www.theverge.com/2024/8/13/24218868/flipboard-fediverse-inside-app)
+ - [Sources: after recent OpenAI shakeups, Chief Scientist Jakub Pachocki, post-training lead Barret Zoph, frontiers research lead Mark Chen, others gain prominence &lpar;Stephanie Palazzolo/The Information&rpar;](http://www.techmeme.com/240813/p17#a240813p17)
+ - [Files by Google could help expand Circle to Search to more phones](https://www.androidauthority.com/files-by-google-circle-to-search-3470961/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
