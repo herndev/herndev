@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Cheaper than therapy](http://9gag.com/gag/aO8dXe2)
- - ⏩ [Look what we&#39;ve done](http://9gag.com/gag/aRBKn0M)
+ - 💣 [Faith in humanity restored](http://9gag.com/gag/a5QZmZV)
+ - ⏩ [Cheaper than therapy](http://9gag.com/gag/aO8dXe2)
  - 👉 [Unexpected twist](http://9gag.com/gag/an7ypXq)<!-- MEMES:END -->
 
 ---
