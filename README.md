@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [You need just one button in this bullet hell gem](https://www.polygon.com/review/24218921/one-btn-bosses-review)
- - [Lego&#39;s Next Big Disney Set Is Perfect For The Upcoming Spooky Season](https://kotaku.com/nightmare-before-christmas-lego-disney-price-september-1851621076)
- - [Play Madden NFL 25 Early with Xbox Game Pass Ultimate and EA Play](https://news.xbox.com/en-us/2024/08/13/play-madden-nfl-25-early-with-xbox-game-pass-ultimate-and-ea-play/)<!-- GAME:END -->
+ - [Compact Mode is now in Game Bar for Xbox Insiders](https://news.xbox.com/en-us/2024/08/13/compact-mode-is-now-in-game-bar-for-xbox-insiders/)
+ - [The Alien Movies, Ranked From Worst To Best](https://kotaku.com/alien-movies-ranked-aliens-prometheus-predator-avp-1851621200)
+ - [My biggest question about Dragon Age: The Veilguard is actually &#39;Which of these mages is going to lie right to my face and stab me in the back after 80 hours?&#39;](https://www.pcgamer.com/games/dragon-age/my-biggest-question-about-dragon-age-the-veilguard-is-actually-which-of-these-mages-is-going-to-lie-right-to-my-face-and-stab-me-in-the-back-after-80-hours)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
