@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [New neighbor](http://9gag.com/gag/a5QZOAO)
- - ⏩ [No title](http://9gag.com/gag/avyrNjb)
- - 👉 [Took me 1 hour to find this video. Quick reminder to save blunder vids from this olympic. I still never saw the full smurf thing because I can&#39;t find it anywhere.](http://9gag.com/gag/aZZBObW)<!-- MEMES:END -->
+ - 💣 [Birthday surprise](http://9gag.com/gag/avyrwmd)
+ - ⏩ [Good old days.](http://9gag.com/gag/aD2jy2d)
+ - 👉 [Weekly Advice #127](http://9gag.com/gag/aO8dW96)<!-- MEMES:END -->
 
 ---
 
