@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Gemini Live will soon be able to answer questions about things in your camera viewfinder](https://www.androidauthority.com/gemini-live-project-astra-3471118/)
- - [All the carriers that get you a Google Pixel 9 for free](https://www.androidauthority.com/google-pixel-9-free-3470381/)
- - [First-time QVC customers can save $30 on Star Wars Outlaws, Zelda, and more](https://www.theverge.com/2024/8/13/24218718/qvc-star-wars-outlaws-preorder-fitbit-inspire-3-deal-sale)<!-- TECH:END -->
+ - [Today Google finally gives the Pixel 8 Pro its promised Zoom Enhance](https://www.androidauthority.com/pixel-8-pro-zoom-enhance-3471313/)
+ - [Paramount is shutting down its TV studio as part of a new wave of layoffs](https://www.theverge.com/2024/8/13/24219776/paramount-tv-studios-shut-down-cbs-layoffs)
+ - [NIST publishes its first three post-quantum cryptography standards; IBM&#39;s director of research thinks quantum computing will hit an inflection point around 2030 &lpar;Frederic Lardinois/TechCrunch&rpar;](http://www.techmeme.com/240813/p36#a240813p36)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
