@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Black Myth: Wukong&#39;s most-wishlisted status means its new benchmarking tool is the 18th most played &#39;game&#39; on Steam right now](https://www.pcgamer.com/hardware/black-myth-wukongs-most-wishlisted-status-means-its-new-benchmarking-tool-is-the-18th-most-played-game-on-steam-right-now)
- - [Borderlands grosses $16 million globally, leaving it roughly $60 million shy of breaking even—and that&#39;s before the theatres take their cut](https://www.pcgamer.com/movies-tv/borderlands-grosses-16-million-globally-leaving-it-roughly-60-million-shy-of-breaking-even-and-that-s-before-the-theatres-take-their-cut)
- - [Dazzling Doom 2 mod upgrades the legendary FPS with full-blown ray tracing, looks hellishly good](https://www.pcgamer.com/games/fps/dazzling-doom-2-mod-upgrades-the-legendary-fps-with-full-blown-ray-tracing-looks-hellishly-good)<!-- GAME:END -->
+ - [The best Qingyi build in Zenless Zone Zero](https://www.pcgamer.com/games/action/zenless-zone-zero-qingyi-build)
+ - [Welcome to the next era of Polygon, we made it for you](https://www.polygon.com/gaming/439731/welcome-to-the-next-era-of-polygon-we-made-it-for-you)
+ - [Space Marine 2 settled on 3-player co-op because having 4 lore-accurate 40K marines made it too much of &#39;a massacre&#39;](https://www.pcgamer.com/games/action/space-marine-2-settled-on-3-player-co-op-because-having-4-lore-accurate-40k-marines-made-it-a-massacre)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
