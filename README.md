@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A livestream of Google&#39;s #MadeByGoogle 2024 keynote, with updates on Google AI and Pixel devices, including the Pixel 9 Pro and Pixel 9 Pro Fold &lpar;#MadeByGoogle on YouTube&rpar;](http://www.techmeme.com/240813/p22#a240813p22)
- - [Lawsuit Attacks Florida’s Lab-Grown Meat Ban as Unconstitutional](https://www.wired.com/story/upside-foods-institute-of-justice-cultivated-lab-grown-meat-lawsuit-florida-ron-desantis/)
- - [UAW files labor charges against Elon Musk and Donald Trump for alleged union-busting talk](https://www.theverge.com/2024/8/13/24219502/uaw-elon-musk-donald-trump-labor-charge-union-busting)<!-- TECH:END -->
+ - [SpaceX faces accusations it violated the Clean Water Act](https://www.theverge.com/2024/8/13/24219374/spacex-faces-accusations-it-violated-the-clean-water-act)
+ - [Google’s Pixel 9 phones are the first to get Satellite SOS for Android](https://www.theverge.com/2024/8/13/24219583/google-pixel-9-satellite-satellite-sos-android)
+ - [Google previews an &quot;Add Me&quot; photo editing feature for group shots that merges two photos together so the picture taker can be added to photo &lpar;Kyle Kucharski/ZDNET&rpar;](http://www.techmeme.com/240813/p30#a240813p30)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
