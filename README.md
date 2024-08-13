@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [How safe is Barcelona](http://9gag.com/gag/abA6NZp)
- - ⏩ [No title](http://9gag.com/gag/avyrKgO)
- - 👉 [Otter asks for help and kind strangers help reunite the pair; they receive a thoughtful gift at the end](http://9gag.com/gag/azxrWRb)<!-- MEMES:END -->
+ - 💣 [Big fan of the Javelin this year.](http://9gag.com/gag/aQzMWAK)
+ - ⏩ [Weekly Advice #127](http://9gag.com/gag/aO8dW96)
+ - 👉 [Aussie breaker, Raygun!](http://9gag.com/gag/an7ywGz)<!-- MEMES:END -->
 
 ---
 
