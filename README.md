@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Compact Mode is now in Game Bar for Xbox Insiders](https://news.xbox.com/en-us/2024/08/13/compact-mode-is-now-in-game-bar-for-xbox-insiders/)
- - [The Alien Movies, Ranked From Worst To Best](https://kotaku.com/alien-movies-ranked-aliens-prometheus-predator-avp-1851621200)
- - [My biggest question about Dragon Age: The Veilguard is actually &#39;Which of these mages is going to lie right to my face and stab me in the back after 80 hours?&#39;](https://www.pcgamer.com/games/dragon-age/my-biggest-question-about-dragon-age-the-veilguard-is-actually-which-of-these-mages-is-going-to-lie-right-to-my-face-and-stab-me-in-the-back-after-80-hours)<!-- GAME:END -->
+ - [Report: Developers Told Not To Expect Switch 2 Before April 2025](https://kotaku.com/nintendo-direct-switch-2-release-date-1851621426)
+ - [Deborah Ann Woll gives the perfect D&amp;#038;D pitch on Jon Bernthal’s podcast](https://www.polygon.com/culture/439961/deborah-ann-woll-dungeons-dragons-jon-bernthal-explainer)
+ - [PS5 Sci-Fi Hero Shooter Concord Won&#39;t Have Microtransactions At Launch](https://kotaku.com/concord-ps5-hero-shooter-microtransactions-roadmap-1851621316)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
