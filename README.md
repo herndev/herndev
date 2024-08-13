@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Play Madden NFL 25 Early with Xbox Game Pass Ultimate and EA Play](https://news.xbox.com/en-us/2024/08/13/play-madden-nfl-25-early-with-xbox-game-pass-ultimate-and-ea-play/)
- - [Get Most Of The Major Persona Titles For Cheap Ahead Of Metaphor: ReFantazio](https://kotaku.com/persona-3-4-5-royal-reload-dlc-sale-steam-metaphor-1851621015)
- - [Anime Is Having A Modern Video Game Boom, Now Comes The Hard Part](https://kotaku.com/jujutsu-kaisen-crunch-mappa-crunchyroll-netflix-anime-1851621010)<!-- GAME:END -->
+ - [You need just one button in this bullet hell gem](https://www.polygon.com/review/24218921/one-btn-bosses-review)
+ - [Lego&#39;s Next Big Disney Set Is Perfect For The Upcoming Spooky Season](https://kotaku.com/nightmare-before-christmas-lego-disney-price-september-1851621076)
+ - [Play Madden NFL 25 Early with Xbox Game Pass Ultimate and EA Play](https://news.xbox.com/en-us/2024/08/13/play-madden-nfl-25-early-with-xbox-game-pass-ultimate-and-ea-play/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
