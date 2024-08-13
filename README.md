@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Faith in humanity restored](http://9gag.com/gag/a5QZmZV)
- - ⏩ [Cheaper than therapy](http://9gag.com/gag/aO8dXe2)
- - 👉 [Unexpected twist](http://9gag.com/gag/an7ypXq)<!-- MEMES:END -->
+ - 💣 [Just your average Japanese father &amp; daughter\u2026 Oh.](http://9gag.com/gag/a7oZznr)
+ - ⏩ [Look what we&#39;ve done](http://9gag.com/gag/aRBKn0M)
+ - 👉 [Faith in humanity restored](http://9gag.com/gag/a5QZmZV)<!-- MEMES:END -->
 
 ---
 
