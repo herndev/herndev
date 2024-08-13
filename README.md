@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [He asked his wife to dress as a nurse to spice up relationship](http://9gag.com/gag/aMVw7e1)
- - ⏩ [What if](http://9gag.com/gag/a87pxyZ)
- - 👉 [Correct!](http://9gag.com/gag/a2vdXWp)<!-- MEMES:END -->
+ - 💣 [Look what we&#39;ve done](http://9gag.com/gag/aRBKn0M)
+ - ⏩ [Anime Girl Kicking&lpar;Gone Wrong&rpar;](http://9gag.com/gag/aD2j58K)
+ - 👉 [Fahhhhk fahhhhk](http://9gag.com/gag/a0edrgz)<!-- MEMES:END -->
 
 ---
 
