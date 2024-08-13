@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The difference between an average person running compared to Olympic Athletes.](http://9gag.com/gag/ae9YzxB)
- - ⏩ [Aussie breaker, Raygun!](http://9gag.com/gag/an7ywGz)
- - 👉 [Big fan of the Javelin this year.](http://9gag.com/gag/aQzMWAK)<!-- MEMES:END -->
+ - 💣 [Look what we&#39;ve done](http://9gag.com/gag/aRBKn0M)
+ - ⏩ [Before/After Church](http://9gag.com/gag/aW483mZ)
+ - 👉 [The difference between an average person running compared to Olympic Athletes.](http://9gag.com/gag/ae9YzxB)<!-- MEMES:END -->
 
 ---
 
