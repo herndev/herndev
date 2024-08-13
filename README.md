@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [New neighbor](http://9gag.com/gag/a5QZOAO)
- - ⏩ [No title](http://9gag.com/gag/avyrNjb)
- - 👉 [Nice job](http://9gag.com/gag/aGy0WBK)<!-- MEMES:END -->
+ - 💣 [Gold medal in our hearts](http://9gag.com/gag/aPAMKDg)
+ - ⏩ [Correct!](http://9gag.com/gag/a2vdXWp)
+ - 👉 [What is she talking about? I want that!](http://9gag.com/gag/aD2jy3N)<!-- MEMES:END -->
 
 ---
 
