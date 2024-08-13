@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [YouTube’s latest experiment defeats the Shorts feed’s entire purpose](https://www.androidauthority.com/youtube-shorts-feed-long-videos-test-3470752/)
- - [The FBI, the UK&#39;s NCA, and others seize the servers and websites of the Radar/Dispossessor ransomware operation; since August 2023, the gang targeted 43 SMBs &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/240813/p8#a240813p8)
- - [India&#39;s antitrust body orders an unusual recall of a report on its Apple investigation; a source says Apple complained about confidential revenue disclosures &lpar;Aditya Kalra/Reuters&rpar;](http://www.techmeme.com/240813/p7#a240813p7)<!-- TECH:END -->
+ - [The Xiaomi Smart Band 9 goes global this week, and it’s a steal](https://www.androidauthority.com/xiaomi-smart-band-9-global-price-3470167/)
+ - [Sources: Chinese internet companies have been testing Huawei&#39;s new Ascend 910C chip in recent weeks; Huawei told clients the chip compares to Nvidia&#39;s H100 &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240813/p11#a240813p11)
+ - [Black Sororities and Fraternities Are Mobilizing Online and in Secret Chats for Voter Turnout](https://www.wired.com/story/black-sororities-and-fraternities-mobilizing-online-voting/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
