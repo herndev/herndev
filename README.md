@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Gold medal in our hearts](http://9gag.com/gag/aPAMKDg)
- - ⏩ [What happened](http://9gag.com/gag/a1mdGj2)
- - 👉 [When did the Olympics abandon reason for madness?](http://9gag.com/gag/aGy0W6w)<!-- MEMES:END -->
+ - 💣 [Cheaper than therapy](http://9gag.com/gag/aO8dXe2)
+ - ⏩ [Look what we&#39;ve done](http://9gag.com/gag/aRBKn0M)
+ - 👉 [Unexpected twist](http://9gag.com/gag/an7ypXq)<!-- MEMES:END -->
 
 ---
 
