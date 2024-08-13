@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Gold medal in our hearts](http://9gag.com/gag/aPAMKDg)
- - ⏩ [Correct!](http://9gag.com/gag/a2vdXWp)
- - 👉 [What is she talking about? I want that!](http://9gag.com/gag/aD2jy3N)<!-- MEMES:END -->
+ - 💣 [For the one guy who asked, cause I&#39;m too dumb to put it in a comment](http://9gag.com/gag/aLnMZe5)
+ - ⏩ [Look what we&#39;ve done](http://9gag.com/gag/aRBKn0M)
+ - 👉 [Gold medal in our hearts](http://9gag.com/gag/aPAMKDg)<!-- MEMES:END -->
 
 ---
 
