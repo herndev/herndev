@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Black Myth: Wukong&#39;s most-wishlisted status means its new benchmarking tool is the 18th most played &#39;game&#39; on Steam right now](https://www.pcgamer.com/hardware/black-myth-wukongs-most-wishlisted-status-means-its-new-benchmarking-tool-is-the-18th-most-played-game-on-steam-right-now)
  - [Borderlands grosses $16 million globally, leaving it roughly $60 million shy of breaking even—and that&#39;s before the theatres take their cut](https://www.pcgamer.com/movies-tv/borderlands-grosses-16-million-globally-leaving-it-roughly-60-million-shy-of-breaking-even-and-that-s-before-the-theatres-take-their-cut)
- - [Dazzling Doom 2 mod upgrades the legendary FPS with full-blown ray tracing, looks hellishly good](https://www.pcgamer.com/games/fps/dazzling-doom-2-mod-upgrades-the-legendary-fps-with-full-blown-ray-tracing-looks-hellishly-good)
- - [Can Lileep be shiny in Pokémon Go?](https://www.polygon.com/pokemon-go-guide/24215469/can-lileep-be-shiny-cradily)<!-- GAME:END -->
+ - [Dazzling Doom 2 mod upgrades the legendary FPS with full-blown ray tracing, looks hellishly good](https://www.pcgamer.com/games/fps/dazzling-doom-2-mod-upgrades-the-legendary-fps-with-full-blown-ray-tracing-looks-hellishly-good)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
