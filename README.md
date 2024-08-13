@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Everyday Racers Line Up at the Starting Line in High-Performance Dailies](https://forza.net/news/forza-horizon-5-high-performance-dailies/#new_tab)
- - [A robot trained with AI to beat average randos at table tennis is a much more impressive thing than you might think](https://www.pcgamer.com/software/ai/a-robot-trained-with-ai-to-beat-average-randos-at-table-tennis-is-a-much-more-impressive-thing-than-you-might-think)
- - [Dead Rising Deluxe Remaster achieves exactly what it set out to do—but maybe that&#39;s not enough](https://www.pcgamer.com/games/action/dead-rising-deluxe-remaster-achieves-exactly-what-it-set-out-to-dobut-maybe-thats-not-enough)<!-- GAME:END -->
+ - [Play Madden NFL 25 Early with Xbox Game Pass Ultimate and EA Play](https://news.xbox.com/en-us/2024/08/13/play-madden-nfl-25-early-with-xbox-game-pass-ultimate-and-ea-play/)
+ - [Get Most Of The Major Persona Titles For Cheap Ahead Of Metaphor: ReFantazio](https://kotaku.com/persona-3-4-5-royal-reload-dlc-sale-steam-metaphor-1851621015)
+ - [Anime Is Having A Modern Video Game Boom, Now Comes The Hard Part](https://kotaku.com/jujutsu-kaisen-crunch-mappa-crunchyroll-netflix-anime-1851621010)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
