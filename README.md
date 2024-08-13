@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Big fan of the Javelin this year.](http://9gag.com/gag/aQzMWAK)
- - ⏩ [For the one guy who asked, cause I&#39;m too dumb to put it in a comment](http://9gag.com/gag/aLnMZe5)
- - 👉 [Worst answer ever.](http://9gag.com/gag/aVvDrN2)<!-- MEMES:END -->
+ - 💣 [Good old days.](http://9gag.com/gag/aD2jy2d)
+ - ⏩ [Like any husband he did not question his wife at all and just followed orders. Sometimes that does help.](http://9gag.com/gag/a5QZYyL)
+ - 👉 [Big fan of the Javelin this year.](http://9gag.com/gag/aQzMWAK)<!-- MEMES:END -->
 
 ---
 
