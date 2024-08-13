@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Today Google finally gives the Pixel 8 Pro its promised Zoom Enhance](https://www.androidauthority.com/pixel-8-pro-zoom-enhance-3471313/)
- - [Paramount is shutting down its TV studio as part of a new wave of layoffs](https://www.theverge.com/2024/8/13/24219776/paramount-tv-studios-shut-down-cbs-layoffs)
- - [NIST publishes its first three post-quantum cryptography standards; IBM&#39;s director of research thinks quantum computing will hit an inflection point around 2030 &lpar;Frederic Lardinois/TechCrunch&rpar;](http://www.techmeme.com/240813/p36#a240813p36)<!-- TECH:END -->
+ - [Every time Google dinged Apple during its Pixel 9 launch event](https://www.theverge.com/2024/8/13/24219764/google-dinged-apple-pixel-9-launch-event)
+ - [Researchers describe now-fixed vulnerabilities in Microsoft&#39;s Azure Health Bot Service that allowed a user to access and manage other customers&#39; resources &lpar;Nathan Eddy/Dark Reading&rpar;](http://www.techmeme.com/240813/p39#a240813p39)
+ - [Hands-on with Pixel 9&#39;s AI camera features: Add Me, Reimagine, Autoframe, Zoom Enhance, and improvements to Video Boost and panoramas &lpar;Julian Chokkattu/Wired&rpar;](http://www.techmeme.com/240813/p38#a240813p38)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
