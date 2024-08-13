@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Just your average Japanese father &amp; daughter\u2026 Oh.](http://9gag.com/gag/a7oZznr)
+ - 💣 [They don&#39;t wear their ranks while on guard duty so as to not outrank any unknown soldiers](http://9gag.com/gag/aNDdEB0)
  - ⏩ [Look what we&#39;ve done](http://9gag.com/gag/aRBKn0M)
- - 👉 [Faith in humanity restored](http://9gag.com/gag/a5QZmZV)<!-- MEMES:END -->
+ - 👉 [Cheaper than therapy](http://9gag.com/gag/aO8dXe2)<!-- MEMES:END -->
 
 ---
 
