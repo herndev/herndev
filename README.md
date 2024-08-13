@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A controversial experiment to artificially cool Earth was canceled — what we know about why](https://www.theverge.com/2024/8/12/24216232/harvard-solar-geoengineering-policy-analysis-science)
- - [Best Internet Providers in Camden, New Jersey](https://www.cnet.com/home/internet/best-internet-providers-in-camden-nj/#ftag=CAD590a51e)
- - [Google Wallet’s new tool that turns anything into a digital pass rolls out widely](https://www.androidauthority.com/google-wallet-pass-creator-us-3470502/)<!-- TECH:END -->
+ - [Samsung deals: Here are a bunch of discounts for students!](https://www.androidauthority.com/samsung-student-discounts-3470476/)
+ - [A source at X says there wasn&#39;t actually a DDoS attack that crashed the Trump interview; another X employee said there was a &quot;99 percent&quot; chance Musk was lying &lpar;The Verge&rpar;](http://www.techmeme.com/240812/p27#a240812p27)
+ - [Poll result: Your ideal Google One ‘Lite’ plan is just no-frills cloud storage](https://www.androidauthority.com/google-one-lite-plan-3470530/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
