@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Donald Trump and Elon Musk&#39;s X Space Took Forever to Start, Then Never Ended](https://www.wired.com/story/donald-trump-elon-musks-x-space/)
- - [Elon Musk tells Donald Trump ‘we shouldn’t vilify the oil and gas industry’](https://www.theverge.com/2024/8/12/24219183/elon-musk-donald-trump-oil-gas-vilify-tesla-x-interview)
- - [Hackers leaked ~2.7B data records of people in the US containing SSNs, names, more on Aug. 6, allegedly from National Public Data, which collects and sells data &lpar;Lawrence Abrams/BleepingComputer&rpar;](http://www.techmeme.com/240812/p28#a240812p28)<!-- TECH:END -->
+ - [Today&#39;s NYT Strands Hints, Answers and Help for Aug. 13, #163](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-aug-13-163/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Connections Hints, Answers and Help for Aug. 13 #429](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-aug-13-429/#ftag=CAD590a51e)
+ - [Today&#39;s Wordle Hints, Answer and Help for Aug. 13, #1151](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-aug-13-1151/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
