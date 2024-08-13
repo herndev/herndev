@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Epic Games Store, &#39;Fortnite&#39; submitted for EU notarization one more time](https://appleinsider.com/articles/24/08/13/epic-games-store-fortnite-submitted-for-eu-notarization-one-more-time?utm_medium=rss)
- - [Google Pixel 9 series event: How to watch and what to expect](https://www.androidauthority.com/watch-google-pixel-9-launch-event-3470165/)
- - [Moog Spectravox Review: OK Vocoder, Excellent Toy](https://www.wired.com/review/moog-spectravox/)<!-- TECH:END -->
+ - [India withdraws a draft broadcasting services bill after facing backlash from online creators over its potential effect on free speech and the compliance burden &lpar;John Reed/Financial Times&rpar;](http://www.techmeme.com/240813/p15#a240813p15)
+ - [Rivian is bringing Apple Music with spatial audio to its CarPlay-less EVs](https://www.theverge.com/2024/8/13/24218973/rivian-apple-music-connect-plus-subscribe-fee)
+ - [Google Pixel 9 event: how to watch the livestream](https://www.theverge.com/2024/8/13/24216320/google-pixel-9-pro-event-date-time-watch-live-stream)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
