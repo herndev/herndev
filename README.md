@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Look what we&#39;ve done](http://9gag.com/gag/aRBKn0M)
- - ⏩ [Before/After Church](http://9gag.com/gag/aW483mZ)
- - 👉 [The difference between an average person running compared to Olympic Athletes.](http://9gag.com/gag/ae9YzxB)<!-- MEMES:END -->
+ - 💣 [Birthday surprise](http://9gag.com/gag/avyrwmd)
+ - ⏩ [The difference between an average person running compared to Olympic Athletes.](http://9gag.com/gag/ae9YzxB)
+ - 👉 [Correct!](http://9gag.com/gag/a2vdXWp)<!-- MEMES:END -->
 
 ---
 
