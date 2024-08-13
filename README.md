@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Black Mirror creator offers a new premonition of humanity&#39;s self-wrought tech apocalypse, and it&#39;s Balatro on phones: &#39;It&#39;s possibly the most addictive thing ever created&#39;](https://www.pcgamer.com/games/card-games/black-mirror-creator-offers-a-new-premonition-of-humanitys-self-wrought-tech-apocalypse-and-its-balatro-on-phones-its-possibly-the-most-addictive-thing-ever-created)
- - [Helldivers 2 game director says a Chargers rework and an update to fire damage are part of a 60-day update plan: &#39;What matters most now is action, not talk&#39;](https://www.pcgamer.com/games/third-person-shooter/helldivers-2-game-director-says-a-chargers-rework-and-an-update-to-fire-damage-are-part-of-a-60-day-update-plan-what-matters-most-now-is-action-not-talk)
- - [Chess Pro Arrested After Allegedly Poisoning Rival With Mercury](https://kotaku.com/chess-pro-mercury-poison-tournament-russia-thermometer-1851621420)<!-- GAME:END -->
+ - [Apple to add 30% fee on all Patreon subscriptions made through iOS](https://www.polygon.com/news/439878/apple-patreon-30-percent-ios-fee-creators)
+ - [Alien: Romulus Took Inspiration From This One Small Thing In Alien: Isolation](https://kotaku.com/alien-romulus-isolation-emergency-phone-save-stations-1851621510)
+ - [Elite Dangerous added only its second new starship in five years](https://www.polygon.com/gaming/439987/elite-dangerous-added-only-its-second-new-starship-in-five-years)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
