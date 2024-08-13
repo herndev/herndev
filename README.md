@@ -40,8 +40,8 @@
 
 <!-- TECH:START -->
  - [A controversial experiment to artificially cool Earth was canceled — what we know about why](https://www.theverge.com/2024/8/12/24216232/harvard-solar-geoengineering-policy-analysis-science)
- - [Google Wallet’s new tool that turns anything into a digital pass rolls out widely](https://www.androidauthority.com/google-wallet-pass-creator-us-3470502/)
- - [Google Wallet can make digital passes for nearly anything now](https://www.theverge.com/2024/8/12/24218932/google-wallet-photo-everything-else-id-ticket-ai)<!-- TECH:END -->
+ - [Best Internet Providers in Camden, New Jersey](https://www.cnet.com/home/internet/best-internet-providers-in-camden-nj/#ftag=CAD590a51e)
+ - [Google Wallet’s new tool that turns anything into a digital pass rolls out widely](https://www.androidauthority.com/google-wallet-pass-creator-us-3470502/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
