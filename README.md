@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The 14-Year Wait For Red Dead Redemption On PC Is Nearly Over, PlayStation Leak Suggests](https://kotaku.com/red-dead-redemption-pc-steam-release-date-port-1851620728)
- - [Everything You Need To Know About The Visions Of Mana Demo](https://kotaku.com/visions-of-manner-demo-guide-does-it-carry-over-1851618271)
- - [Guild Wars 2&#39;s 5th expansion launches next week, and once again a mount is the star of the show](https://www.pcgamer.com/games/mmo/guild-wars-2s-5th-expansion-launches-next-week-and-once-again-a-mount-is-the-star-of-the-show)<!-- GAME:END -->
+ - [Dead Rising Deluxe Remaster is a better, more grown-up version of a quirky zombie classic](https://www.polygon.com/impressions/24218980/dead-rising-deluxe-remaster-preview-impressions)
+ - [Once the apple in Microsoft&#39;s eye, Paint 3D will be fully killed off in favour of its elder sibling Paint](https://www.pcgamer.com/software/windows/once-the-apple-in-microsofts-eye-paint-3d-will-be-fully-killed-off-in-favour-of-its-elder-sibling-paint)
+ - [Who needs 87 keys to have a good time when ONE BTN BOSSES squeezes hours of fun out of the humble spacebar](https://www.pcgamer.com/games/who-needs-87-keys-to-have-a-good-time-when-one-btn-bosses-squeezes-hours-of-fun-out-of-the-humble-spacebar)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
