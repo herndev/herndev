@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Birthday surprise](http://9gag.com/gag/avyrwmd)
- - ⏩ [The difference between an average person running compared to Olympic Athletes.](http://9gag.com/gag/ae9YzxB)
- - 👉 [Correct!](http://9gag.com/gag/a2vdXWp)<!-- MEMES:END -->
+ - 💣 [Big fan of the Javelin this year.](http://9gag.com/gag/aQzMWAK)
+ - ⏩ [For the one guy who asked, cause I&#39;m too dumb to put it in a comment](http://9gag.com/gag/aLnMZe5)
+ - 👉 [Worst answer ever.](http://9gag.com/gag/aVvDrN2)<!-- MEMES:END -->
 
 ---
 
