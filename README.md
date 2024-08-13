@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Report: Developers Told Not To Expect Switch 2 Before April 2025](https://kotaku.com/nintendo-direct-switch-2-release-date-1851621426)
- - [Deborah Ann Woll gives the perfect D&amp;#038;D pitch on Jon Bernthal’s podcast](https://www.polygon.com/culture/439961/deborah-ann-woll-dungeons-dragons-jon-bernthal-explainer)
- - [PS5 Sci-Fi Hero Shooter Concord Won&#39;t Have Microtransactions At Launch](https://kotaku.com/concord-ps5-hero-shooter-microtransactions-roadmap-1851621316)<!-- GAME:END -->
+ - [Black Mirror creator offers a new premonition of humanity&#39;s self-wrought tech apocalypse, and it&#39;s Balatro on phones: &#39;It&#39;s possibly the most addictive thing ever created&#39;](https://www.pcgamer.com/games/card-games/black-mirror-creator-offers-a-new-premonition-of-humanitys-self-wrought-tech-apocalypse-and-its-balatro-on-phones-its-possibly-the-most-addictive-thing-ever-created)
+ - [Helldivers 2 game director says a Chargers rework and an update to fire damage are part of a 60-day update plan: &#39;What matters most now is action, not talk&#39;](https://www.pcgamer.com/games/third-person-shooter/helldivers-2-game-director-says-a-chargers-rework-and-an-update-to-fire-damage-are-part-of-a-60-day-update-plan-what-matters-most-now-is-action-not-talk)
+ - [Chess Pro Arrested After Allegedly Poisoning Rival With Mercury](https://kotaku.com/chess-pro-mercury-poison-tournament-russia-thermometer-1851621420)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
