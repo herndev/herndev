@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Xiaomi Smart Band 9 goes global this week, and it’s a steal](https://www.androidauthority.com/xiaomi-smart-band-9-global-price-3470167/)
- - [Sources: Chinese internet companies have been testing Huawei&#39;s new Ascend 910C chip in recent weeks; Huawei told clients the chip compares to Nvidia&#39;s H100 &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240813/p11#a240813p11)
- - [Black Sororities and Fraternities Are Mobilizing Online and in Secret Chats for Voter Turnout](https://www.wired.com/story/black-sororities-and-fraternities-mobilizing-online-voting/)<!-- TECH:END -->
+ - [Epic Games Store, &#39;Fortnite&#39; submitted for EU notarization one more time](https://appleinsider.com/articles/24/08/13/epic-games-store-fortnite-submitted-for-eu-notarization-one-more-time?utm_medium=rss)
+ - [Google Pixel 9 series event: How to watch and what to expect](https://www.androidauthority.com/watch-google-pixel-9-launch-event-3470165/)
+ - [Moog Spectravox Review: OK Vocoder, Excellent Toy](https://www.wired.com/review/moog-spectravox/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
