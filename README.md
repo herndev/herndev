@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Britain is the new North Korea. But if they can&#39;t speak, the rest of Europe will. You&#39;re not alone, stand against distopia. Peacefully, without rest, without fear.](http://9gag.com/gag/adBqZWQ)
- - ⏩ [I try to hate this AI thing like you guys. But it get better.](http://9gag.com/gag/agmqzxn)
- - 👉 [What is she talking about? I want that!](http://9gag.com/gag/aD2jy3N)<!-- MEMES:END -->
+ - ⏩ [The last inhabitant of an abandoned town in the far north. Imagine what it&#39;s like there at night](http://9gag.com/gag/aQzMwze)
+ - 👉 [Faith in humanity restored](http://9gag.com/gag/a5QZmZV)<!-- MEMES:END -->
 
 ---
 
