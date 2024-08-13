@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Can Lileep be shiny in Pokémon Go?](https://www.polygon.com/pokemon-go-guide/24215469/can-lileep-be-shiny-cradily)
- - [Today&#39;s Wordle answer for Tuesday, August 13](https://www.pcgamer.com/games/puzzle/wordle-answer-today-august-13-2024)
- - [Promise Mascot Agency, the &#39;world&#39;s first open world mascot management crime drama,&#39; is all that and somehow more](https://www.pcgamer.com/games/sim/promise-mascot-agency-the-worlds-first-open-world-mascot-management-crime-drama-is-all-that-and-somehow-more)<!-- GAME:END -->
+ - [Borderlands grosses $16 million globally, leaving it roughly $60 million shy of breaking even—and that&#39;s before the theatres take their cut](https://www.pcgamer.com/movies-tv/borderlands-grosses-16-million-globally-leaving-it-roughly-60-million-shy-of-breaking-even-and-that-s-before-the-theatres-take-their-cut)
+ - [Dazzling Doom 2 mod upgrades the legendary FPS with full-blown ray tracing, looks hellishly good](https://www.pcgamer.com/games/fps/dazzling-doom-2-mod-upgrades-the-legendary-fps-with-full-blown-ray-tracing-looks-hellishly-good)
+ - [Can Lileep be shiny in Pokémon Go?](https://www.polygon.com/pokemon-go-guide/24215469/can-lileep-be-shiny-cradily)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
