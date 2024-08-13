@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The best Qingyi build in Zenless Zone Zero](https://www.pcgamer.com/games/action/zenless-zone-zero-qingyi-build)
- - [Welcome to the next era of Polygon, we made it for you](https://www.polygon.com/gaming/439731/welcome-to-the-next-era-of-polygon-we-made-it-for-you)
- - [Space Marine 2 settled on 3-player co-op because having 4 lore-accurate 40K marines made it too much of &#39;a massacre&#39;](https://www.pcgamer.com/games/action/space-marine-2-settled-on-3-player-co-op-because-having-4-lore-accurate-40k-marines-made-it-a-massacre)<!-- GAME:END -->
+ - [The 14-Year Wait For Red Dead Redemption On PC Is Nearly Over, PlayStation Leak Suggests](https://kotaku.com/red-dead-redemption-pc-steam-release-date-port-1851620728)
+ - [Everything You Need To Know About The Visions Of Mana Demo](https://kotaku.com/visions-of-manner-demo-guide-does-it-carry-over-1851618271)
+ - [Guild Wars 2&#39;s 5th expansion launches next week, and once again a mount is the star of the show](https://www.pcgamer.com/games/mmo/guild-wars-2s-5th-expansion-launches-next-week-and-once-again-a-mount-is-the-star-of-the-show)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
