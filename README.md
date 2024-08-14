@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The English Premier League Has a New, iPhone-Powered Offside Detection System](https://www.wired.com/story/the-english-premier-league-has-a-new-iphone-powered-offside-detection-system/)
- - [The US could forcibly break up Android, Chrome from Google](https://www.androidauthority.com/us-doj-forcibly-break-up-android-chrome-google-3471468/)
- - [The best Pixel 9 chargers to spend your money on](https://www.androidauthority.com/best-pixel-9-chargers-3468671/)<!-- TECH:END -->
+ - [Australia&#39;s market regulator sues the country&#39;s ASX stock exchange over its botched blockchain upgrade, abandoned in November 2022 after seven years of work &lpar;Nic Fildes/Financial Times&rpar;](http://www.techmeme.com/240814/p6#a240814p6)
+ - [Google is bringing the Pixel Buds Pro 2 to loads more countries](https://www.androidauthority.com/google-pixel-buds-pro-2-more-countries-3471541/)
+ - [Latin America digital bank Nubank reports Q2 revenue up 52% YoY to $2.8B, above $2.66B est., a $487M net income, above $418M est., and passes 100M customers &lpar;Daniel Cancel/Bloomberg&rpar;](http://www.techmeme.com/240814/p5#a240814p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
