@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Chinese self-driving startup WeRide gets permission to test its robotaxis with passengers in California after testing without passengers in San Jose since 2021 &lpar;Rebecca Bellan/TechCrunch&rpar;](http://www.techmeme.com/240813/p45#a240813p45)
  - [A look at the growth of free streaming service Tubi, which does not require an account to use, is entirely dependent on ad revenue, and is not yet profitable &lpar;John Koblin/New York Times&rpar;](http://www.techmeme.com/240813/p44#a240813p44)
- - [US may seek Google breakup or data share after search monopolization ruling](https://appleinsider.com/articles/24/08/14/us-may-seek-google-breakup-or-data-share-after-search-monopolization-ruling?utm_medium=rss)
- - [The Narwal Freo X Ultra robot vacuum is $400 off right now!](https://www.androidauthority.com/narwal-freo-x-ultra-deal-2-3471126/)<!-- TECH:END -->
+ - [US may seek Google breakup or data share after search monopolization ruling](https://appleinsider.com/articles/24/08/14/us-may-seek-google-breakup-or-data-share-after-search-monopolization-ruling?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
