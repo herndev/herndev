@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [This Dead by Daylight spinoff fits the successful Supermassive formula](https://www.polygon.com/pc/24218730/dead-by-daylight-supermassive-casting-frank-stone-preview)
- - [XCOM 2 is just $3 on Steam for a day—cheaper than the bus I took into work this morning, or 1/5th of a World of Warcraft subscription](https://www.pcgamer.com/games/strategy/xcom-2-is-just-3-on-steam-for-a-day-cheaper-than-the-bus-i-took-into-work-this-morning-or-1-5th-of-a-world-of-warcraft-subscription)
- - [Until Dawn, rebuilt and enhanced for PS5 and PC, launches October 4](https://blog.playstation.com/2024/08/14/until-dawn-rebuilt-and-enhanced-for-ps5-and-pc-launches-october-4/)<!-- GAME:END -->
+ - [New Kraven The Hunter Trailer Drops As Sony Pushes Forward With Spider-Man Extended Universe](https://kotaku.com/kraven-hunter-spider-man-trailer-rhino-deadpool-1851621883)
+ - [A single character shows why Fallout: New Vegas is a classic](https://www.pcgamer.com/games/fallout/a-single-character-shows-why-fallout-new-vegas-is-a-classic)
+ - [How to complete Gryphons of a Feather in World of Warcraft](https://www.pcgamer.com/games/mmo/world-of-warcraft/wow-gryphons-of-a-feather)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
