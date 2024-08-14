@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Today&#39;s Wordle answer for Wednesday, August 14](https://www.pcgamer.com/games/puzzle/wordle-answer-today-august-14-2024)
- - [Natsu-Mon: 20th Century Summer Kid review](https://www.pcgamer.com/games/life-sim/natsu-mon-20th-century-summer-kid-review)
- - [Somehow, Baldur&#39;s Gate 3 isn&#39;t done winning yet: It&#39;s just claimed the most prestigious award for science fiction and fantasy writing](https://www.pcgamer.com/games/rpg/somehow-baldurs-gate-3-isnt-done-winning-yet-its-just-claimed-the-most-prestigious-award-for-science-fiction-and-fantasy-writing)<!-- GAME:END -->
+ - [Final Fantasy 14 player is so sick of one particular healing spell, they&#39;ve built an entire website to explain why you shouldn&#39;t use it: &#39;I finally have had enough&#39;](https://www.pcgamer.com/games/final-fantasy/final-fantasy-14-player-is-so-sick-of-one-particular-healing-spell-they-ve-built-an-entire-website-explaining-why-you-shouldn-t-use-it-i-ve-had-enough)
+ - [Valve is &#39;continuing to work on adding support&#39; for other handhelds, but &#39;SteamOS isn&#39;t ready to run out of the box&#39; just yet](https://www.pcgamer.com/hardware/handheld-gaming-pcs/valve-is-continuing-to-work-on-adding-support-for-other-handhelds-but-steamos-isnt-ready-to-run-out-of-the-box-just-yet)
+ - [Today&#39;s Wordle answer for Wednesday, August 14](https://www.pcgamer.com/games/puzzle/wordle-answer-today-august-14-2024)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
