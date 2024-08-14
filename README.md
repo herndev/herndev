@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Natsu-Mon: 20th Century Summer Kid review](https://www.pcgamer.com/games/life-sim/natsu-mon-20th-century-summer-kid-review)
  - [Somehow, Baldur&#39;s Gate 3 isn&#39;t done winning yet: It&#39;s just claimed the most prestigious award for science fiction and fantasy writing](https://www.pcgamer.com/games/rpg/somehow-baldurs-gate-3-isnt-done-winning-yet-its-just-claimed-the-most-prestigious-award-for-science-fiction-and-fantasy-writing)
- - [A massive free update and a 50% discount sends Cult of the Lamb rocketing up the Steam charts](https://www.pcgamer.com/games/roguelike/a-massive-free-update-and-a-50-discount-sends-cult-of-the-lamb-rocketing-up-the-steam-charts)
- - [Apple to add 30% fee on all Patreon subscriptions made through iOS](https://www.polygon.com/news/439878/apple-patreon-30-percent-ios-fee-creators)<!-- GAME:END -->
+ - [A massive free update and a 50% discount sends Cult of the Lamb rocketing up the Steam charts](https://www.pcgamer.com/games/roguelike/a-massive-free-update-and-a-50-discount-sends-cult-of-the-lamb-rocketing-up-the-steam-charts)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
