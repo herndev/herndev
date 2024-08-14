@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Engine oil in Solid form](http://9gag.com/gag/awyn03W)
- - ⏩ [Another great thing the muslims have contributed to the world. Defacing irrepressible ancient artworks!](http://9gag.com/gag/aKG2rR3)
+ - 💣 [Lovely!](http://9gag.com/gag/a1mbpND)
+ - ⏩ [Beach volley was nice](http://9gag.com/gag/azx878m)
  - 👉 [Feel bored with Raygun? Remember back the lady who scammed the Winter Olympics](http://9gag.com/gag/an7yLML)<!-- MEMES:END -->
 
 ---
