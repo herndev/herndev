@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Metal roof tile installation](http://9gag.com/gag/abA670v)
- - ⏩ [Some might appreciate](http://9gag.com/gag/a7oZjL2)
- - 👉 [Bangladesh: who wants to be a millionaire](http://9gag.com/gag/a3476rm)<!-- MEMES:END -->
+ - 💣 [Feel bored with Raygun? Remember back the lady who scammed the Winter Olympics](http://9gag.com/gag/an7yLML)
+ - ⏩ [Gone but not forgotten.](http://9gag.com/gag/azxr6Gz)
+ - 👉 [I try to hate this AI thing like you guys. But it get better.](http://9gag.com/gag/agmqzxn)<!-- MEMES:END -->
 
 ---
 
