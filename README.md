@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Bro feel violated every year.. So anyway..](http://9gag.com/gag/aAydBRE)
- - ⏩ [Burger King employee slaps kid who was making a mess and makes him mop](http://9gag.com/gag/awy565Q)
- - 👉 [12 years not a slave](http://9gag.com/gag/aKG2R4g)<!-- MEMES:END -->
+ - 💣 [This guy has a lot of faith in science](http://9gag.com/gag/abA6jjB)
+ - ⏩ [Feel bored with Raygun? Remember back the lady who scammed the Winter Olympics](http://9gag.com/gag/an7yLML)
+ - 👉 [Another great thing the muslims have contributed to the world. Defacing irrepressible ancient artworks!](http://9gag.com/gag/aKG2rR3)<!-- MEMES:END -->
 
 ---
 
