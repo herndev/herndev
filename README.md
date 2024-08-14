@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [You can snag a $30 gift card when you preorder Google’s Pixel Buds Pro 2](https://www.theverge.com/2024/8/14/24219518/google-pixel-buds-pro-2-logitech-g309-lightspeed-gaming-mouse-deal-sale)
- - [Here are the best AirPods deals you can get right now](https://www.theverge.com/21302051/best-apple-airpods-deals)
- - [X’s new AI image generator will make anything from Taylor Swift in lingerie to Kamala Harris with a gun](https://www.theverge.com/2024/8/14/24220173/xai-grok-image-generator-misinformation-offensive-imges)<!-- TECH:END -->
+ - [Samsung has a new set of smart tools to help you care for aging relatives](https://www.androidauthority.com/samsung-smartthings-family-care-3471724/)
+ - [The weirdest ‘3 billion people’ data breach ever](https://www.theverge.com/2024/8/14/24220212/national-public-data-breach-social-security-3-billion)
+ - [When will Apple upgrade all of its Macs to M4?](https://appleinsider.com/articles/24/08/14/when-will-apple-upgrade-all-of-its-macs-to-m4?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
