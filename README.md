@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung has a new set of smart tools to help you care for aging relatives](https://www.androidauthority.com/samsung-smartthings-family-care-3471724/)
- - [The weirdest ‘3 billion people’ data breach ever](https://www.theverge.com/2024/8/14/24220212/national-public-data-breach-social-security-3-billion)
- - [When will Apple upgrade all of its Macs to M4?](https://appleinsider.com/articles/24/08/14/when-will-apple-upgrade-all-of-its-macs-to-m4?utm_medium=rss)<!-- TECH:END -->
+ - [It’s now even easier to create Google Sheets tables](https://www.theverge.com/2024/8/14/24220340/google-sheets-intelligent-suggestions-table-creation-editing-sort-filter-automatic)
+ - [Google&#39;s Circle to Search Is Coming to Samsung&#39;s Cheaper Phones, Tablets](https://www.cnet.com/tech/mobile/googles-circle-to-search-is-coming-to-samsungs-cheaper-phones-tablets/#ftag=CAD590a51e)
+ - [How to turn off a VPN connection on your iPhone](https://appleinsider.com/inside/ios-18/tips/how-to-turn-off-a-vpn-connection-on-your-iphone?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
