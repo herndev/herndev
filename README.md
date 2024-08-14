@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Internet Providers in Brooklyn, New York](https://www.cnet.com/home/internet/best-internet-providers-in-brooklyn-ny/#ftag=CAD590a51e)
- - [Best Internet Providers in Bryan, Texas](https://www.cnet.com/home/internet/best-internet-providers-in-bryan-tx/#ftag=CAD590a51e)
- - [A look at challenges Google faces ahead of Pixel 9 launch in India; IDC: Google&#39;s smartphone shipments in India grew over 1,300% in 2023 to a 0.5% market share &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/240814/p1#a240814p1)<!-- TECH:END -->
+ - [xAI launches Grok-2 and Grok-2 mini in beta with improved reasoning capabilities, available to X Premium and Premium+ users; the API will debut later in August &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/240814/p3#a240814p3)
+ - [Google Pixel 9 vs Pixel 7: Should you upgrade?](https://www.androidauthority.com/google-pixel-9-vs-pixel-7-3470839/)
+ - [Google Pixel Watch 3 vs Samsung Galaxy Watch Ultra: Which should you buy?](https://www.androidauthority.com/google-pixel-watch-3-vs-samsung-galaxy-watch-ultra-3470666/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
