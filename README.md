@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Guy Plugs A Record-Breaking 444 Video Game Consoles Into A Single TV](https://kotaku.com/retro-gaming-guinness-world-record-ps5-switch-2-1851621959)
- - [Finding A Chocobo Mount In Final Fantasy XIV](https://kotaku.com/final-fantasy-xiv-chocobo-mount-guide-1851619264)
- - [Middle-earth goes to war in a new Rings of Power trailer](https://www.polygon.com/lotr-rings-of-power/440087/rings-of-power-season-2-trailer)<!-- GAME:END -->
+ - [Overwatch 2 Season 12 Is Coming Soon – and Benefits for Game Pass Members Launch on September 17](https://overwatch.blizzard.com/en-us/news/24116736/#new_tab)
+ - [Leximan is a charming indie romp where you grab words out of the air to solve problems—like helping Dave, who has been on fire for 27 minutes](https://www.pcgamer.com/games/rpg/leximan-is-a-charming-indie-romp-where-you-grab-words-out-of-the-air-to-solve-problems-like-helping-dave-who-has-been-on-fire-for-27-minutes)
+ - [Fallout Show Easter Egg Showed Director Just How Obsessed Fans Are With The Series](https://kotaku.com/fallout-tbv-amazon-show-easter-egg-secret-cricket-npc-1851622046)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
