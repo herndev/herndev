@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A look at the growth of free streaming service Tubi, which does not require an account to use, is entirely dependent on ad revenue, and is not yet profitable &lpar;John Koblin/New York Times&rpar;](http://www.techmeme.com/240813/p44#a240813p44)
  - [US may seek Google breakup or data share after search monopolization ruling](https://appleinsider.com/articles/24/08/14/us-may-seek-google-breakup-or-data-share-after-search-monopolization-ruling?utm_medium=rss)
- - [The Narwal Freo X Ultra robot vacuum is $400 off right now!](https://www.androidauthority.com/narwal-freo-x-ultra-deal-2-3471126/)
- - [Google and Peloton team up to offer Peloton classes to Fitbit users](https://www.androidauthority.com/fitbit-peloton-partnership-3471374/)<!-- TECH:END -->
+ - [The Narwal Freo X Ultra robot vacuum is $400 off right now!](https://www.androidauthority.com/narwal-freo-x-ultra-deal-2-3471126/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
