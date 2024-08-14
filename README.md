@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A US judge rules that a group of artists can pursue some copyright infringement claims in their lawsuit against Stability AI, Midjourney, and other companies &lpar;Blake Brittain/Reuters&rpar;](http://www.techmeme.com/240813/p41#a240813p41)
- - [ChatGPT Advanced Voice Mode First Impressions: Fun, and Just a Bit Creepy](https://www.wired.com/story/chatgpt-advanced-voice-mode-first-impressions/)
- - [These epic moments from Google’s Pixel afterparty are better than the official launch](https://www.androidauthority.com/made-by-google-after-party-3471287/)<!-- TECH:END -->
+ - [I tried Gemini Live, and it was so good that it was kind of scary](https://www.androidauthority.com/gemini-live-experience-3471367/)
+ - [US District Judge Reed O&#39;Connor recuses himself from X&#39;s advertiser lawsuit over an alleged ad boycott; O&#39;Connor held stock in Tesla and Unilever &lpar;Bobby Allyn/NPR&rpar;](http://www.techmeme.com/240813/p43#a240813p43)
+ - [Filing: Intel sold its 1.18M shares in Arm during the second quarter, which, based on the stock&#39;s average price in Q2, would have raised ~$147M for the company &lpar;Ian King/Bloomberg&rpar;](http://www.techmeme.com/240813/p42#a240813p42)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
