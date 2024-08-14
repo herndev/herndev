@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Tight enough?](http://9gag.com/gag/aD2jB0x)
- - ⏩ [Bangladesh: who wants to be a millionaire](http://9gag.com/gag/a3476rm)
- - 👉 [Onlyfans](http://9gag.com/gag/aAywoLE)<!-- MEMES:END -->
+ - 💣 [Bangladesh: who wants to be a millionaire](http://9gag.com/gag/a3476rm)
+ - ⏩ [Taiwan&#39;s military deploys F-16s to escort Olympic gold-medalist boxer Lin Yu-ting as she arrives back in Taiwan.](http://9gag.com/gag/a6ZMvz9)
+ - 👉 [Look what we&#39;ve done](http://9gag.com/gag/aRBKn0M)<!-- MEMES:END -->
 
 ---
 
