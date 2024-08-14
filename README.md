@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [I tried Gemini Live, and it was so good that it was kind of scary](https://www.androidauthority.com/gemini-live-experience-3471367/)
- - [US District Judge Reed O&#39;Connor recuses himself from X&#39;s advertiser lawsuit over an alleged ad boycott; O&#39;Connor held stock in Tesla and Unilever &lpar;Bobby Allyn/NPR&rpar;](http://www.techmeme.com/240813/p43#a240813p43)
- - [Filing: Intel sold its 1.18M shares in Arm during the second quarter, which, based on the stock&#39;s average price in Q2, would have raised ~$147M for the company &lpar;Ian King/Bloomberg&rpar;](http://www.techmeme.com/240813/p42#a240813p42)<!-- TECH:END -->
+ - [US may seek Google breakup or data share after search monopolization ruling](https://appleinsider.com/articles/24/08/14/us-may-seek-google-breakup-or-data-share-after-search-monopolization-ruling?utm_medium=rss)
+ - [The Narwal Freo X Ultra robot vacuum is $400 off right now!](https://www.androidauthority.com/narwal-freo-x-ultra-deal-2-3471126/)
+ - [Google and Peloton team up to offer Peloton classes to Fitbit users](https://www.androidauthority.com/fitbit-peloton-partnership-3471374/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
