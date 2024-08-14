@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Twelve Tips &amp; Tricks to Help You Become the Best Dinosaur Fossil Hunter](https://news.xbox.com/en-us/2024/08/14/twelve-tips-tricks-to-help-you-become-the-best-dinosaur-fossil-hunter/)
- - [Mordhau pugilists raise thousands of dollars for a fellow player&#39;s medical bills in a fistfighting contest against cancer](https://www.pcgamer.com/games/action/mordhau-pugilists-raise-thousands-of-dollars-for-a-fellow-players-medical-bills-in-a-fistfighting-contest-against-cancer)
- - [Helldivers 2 Promises Players A Better Time After Its Most Controversial Update Yet](https://kotaku.com/helldivers-2-flamethrower-nerf-charger-framerate-1851622269)<!-- GAME:END -->
+ - [Green Hell Debuts on Xbox Series X|S Including All Three Updates](https://news.xbox.com/en-us/2024/08/14/green-hell-debuts-on-xbox-series-xs-including-all-three-updates/)
+ - [Everyone Is Playing This Girly Dress-Up Game For Kids](https://kotaku.com/dress-to-impress-codes-roblox-dti-charli-xcx-1851622355)
+ - [The Final Fantasy 9 upscale mod just got a surprise update after 3 years, including a &#39;full rework&#39; of its backgrounds, 120 fps, ultrawide, and more](https://www.pcgamer.com/games/rpg/the-final-fantasy-9-upscale-mod-just-got-a-surprise-update-after-3-years-including-a-full-rework-of-its-backgrounds-120-fps-ultrawide-and-more)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
