@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [What a time to be alive!](http://9gag.com/gag/a9yWQE0)
- - ⏩ [Britain is the new North Korea. But if they can&#39;t speak, the rest of Europe will. You&#39;re not alone, stand against distopia. Peacefully, without rest, without fear.](http://9gag.com/gag/adBqZWQ)
- - 👉 [Nice job](http://9gag.com/gag/aGy0WBK)<!-- MEMES:END -->
+ - 💣 [I didn&#39;t know that this trick could scare f3minists this easily.](http://9gag.com/gag/aMVwp0V)
+ - ⏩ [Gold medal in our hearts](http://9gag.com/gag/aPAMKDg)
+ - 👉 [:D...](http://9gag.com/gag/a4PZvRp)<!-- MEMES:END -->
 
 ---
 
