@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Should you buy the Pixel 9 Pro XL or wait for the Galaxy S25 Ultra?](https://www.androidauthority.com/pixel-9-pro-xl-vs-galaxy-s25-ultra-3470658/)
- - [AI overshadowed Pixel at the Pixel event](https://www.theverge.com/2024/8/14/24220021/google-pixel-9-event-ai-overshadowed)
- - [Samsung’s new Family Care service helps caregivers monitor loved ones](https://www.theverge.com/2024/8/14/24219489/samsung-smartthings-family-care-caregiver-support-launch-price-release-date)<!-- TECH:END -->
+ - [Fresh Galaxy S24 FE leak points to spec upgrades and a potential launch date](https://www.androidauthority.com/galaxy-s24-fe-october-3471605/)
+ - [Google’s Pixel 9 launch also brought a new 45W USB-C charger](https://www.theverge.com/2024/8/14/24220190/google-charger-usb-c-pixel-9-price)
+ - [How Surfshark VPN for travel guards against data theft &amp; blocked content](https://appleinsider.com/articles/24/08/14/how-surfshark-vpn-for-travel-guards-against-data-theft-blocked-content?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
