@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [What is she talking about? I want that!](http://9gag.com/gag/aD2jy3N)
- - ⏩ [Meticulous comparison](http://9gag.com/gag/a6Zbr08)
+ - 💣 [Engine oil in Solid form](http://9gag.com/gag/awyn03W)
+ - ⏩ [Another great thing the muslims have contributed to the world. Defacing irrepressible ancient artworks!](http://9gag.com/gag/aKG2rR3)
  - 👉 [Feel bored with Raygun? Remember back the lady who scammed the Winter Olympics](http://9gag.com/gag/an7yLML)<!-- MEMES:END -->
 
 ---
