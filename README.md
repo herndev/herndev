@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [It\u2019s a miracle!](http://9gag.com/gag/a1mdGZ8)
+ - 💣 [Metal roof tile installation](http://9gag.com/gag/abA670v)
  - ⏩ [Some might appreciate](http://9gag.com/gag/a7oZjL2)
- - 👉 [Faith in humanity restored](http://9gag.com/gag/a5QZmZV)<!-- MEMES:END -->
+ - 👉 [Bangladesh: who wants to be a millionaire](http://9gag.com/gag/a3476rm)<!-- MEMES:END -->
 
 ---
 
