@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Good old days.](http://9gag.com/gag/aD2jy2d)
- - ⏩ [Bangladesh: who wants to be a millionaire](http://9gag.com/gag/a3476rm)
- - 👉 [Do NOT redeem](http://9gag.com/gag/aYQK8zm)<!-- MEMES:END -->
+ - 💣 [How fast women switch on the victim complex](http://9gag.com/gag/a0edy7L)
+ - ⏩ [Gold medal in our hearts](http://9gag.com/gag/aPAMKDg)
+ - 👉 [Faith in humanity restored](http://9gag.com/gag/a5QZmZV)<!-- MEMES:END -->
 
 ---
 
