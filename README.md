@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Unexpected twist](http://9gag.com/gag/an7ypXq)
- - ⏩ [Cheaper than therapy](http://9gag.com/gag/aO8dXe2)
- - 👉 [Another great thing the muslims have contributed to the world. Defacing irrepressible ancient artworks!](http://9gag.com/gag/aKG2rR3)<!-- MEMES:END -->
+ - 💣 [It\u2019s a miracle!](http://9gag.com/gag/a1mdGZ8)
+ - ⏩ [Some might appreciate](http://9gag.com/gag/a7oZjL2)
+ - 👉 [Faith in humanity restored](http://9gag.com/gag/a5QZmZV)<!-- MEMES:END -->
 
 ---
 
