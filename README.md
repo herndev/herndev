@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [xAI launches Grok-2 and Grok-2 mini in beta with improved reasoning capabilities, available to X Premium and Premium+ users; the API will debut later in August &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/240814/p3#a240814p3)
- - [Google Pixel 9 vs Pixel 7: Should you upgrade?](https://www.androidauthority.com/google-pixel-9-vs-pixel-7-3470839/)
- - [Google Pixel Watch 3 vs Samsung Galaxy Watch Ultra: Which should you buy?](https://www.androidauthority.com/google-pixel-watch-3-vs-samsung-galaxy-watch-ultra-3470666/)<!-- TECH:END -->
+ - [The English Premier League Has a New, iPhone-Powered Offside Detection System](https://www.wired.com/story/the-english-premier-league-has-a-new-iphone-powered-offside-detection-system/)
+ - [The US could forcibly break up Android, Chrome from Google](https://www.androidauthority.com/us-doj-forcibly-break-up-android-chrome-google-3471468/)
+ - [The best Pixel 9 chargers to spend your money on](https://www.androidauthority.com/best-pixel-9-chargers-3468671/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
