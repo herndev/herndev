@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft is enabling BitLocker device encryption by default on Windows 11](https://www.theverge.com/2024/8/14/24220138/microsoft-bitlocker-device-encryption-windows-11-default)
- - [Kiteworks, formerly Accellion, which offers secure email and file transfer tools, raised $456M from Insight and Sixth Street Growth at a $1B+ valuation &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/240814/p14#a240814p14)
- - [Spotify crows about Apple being forced to show alternative pricing](https://appleinsider.com/articles/24/08/14/spotify-crows-about-apple-being-forced-to-show-alternative-pricing?utm_medium=rss)<!-- TECH:END -->
+ - [Should you buy the Pixel 9 Pro XL or wait for the Galaxy S25 Ultra?](https://www.androidauthority.com/pixel-9-pro-xl-vs-galaxy-s25-ultra-3470658/)
+ - [AI overshadowed Pixel at the Pixel event](https://www.theverge.com/2024/8/14/24220021/google-pixel-9-event-ai-overshadowed)
+ - [Samsung’s new Family Care service helps caregivers monitor loved ones](https://www.theverge.com/2024/8/14/24219489/samsung-smartthings-family-care-caregiver-support-launch-price-release-date)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
