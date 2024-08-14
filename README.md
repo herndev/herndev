@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at challenges Google faces ahead of Pixel 9 launch in India; IDC: Google&#39;s smartphone shipments in India grew over 1,300% in 2023 to a 0.5% market share &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/240814/p1#a240814p1)
- - [Guidewheel, which offers plug-and-play sensors to make factory machines smarter, raised a $31M Series B led by BlackRock and Temasek&#39;s Decarbonization Partners &lpar;Mike Wheatley/SiliconANGLE&rpar;](http://www.techmeme.com/240813/p46#a240813p46)
- - [Best Internet Providers in Bozeman, Montana](https://www.cnet.com/home/internet/best-internet-providers-in-bozeman-mt/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Internet Providers in Brooklyn, New York](https://www.cnet.com/home/internet/best-internet-providers-in-brooklyn-ny/#ftag=CAD590a51e)
+ - [Best Internet Providers in Bryan, Texas](https://www.cnet.com/home/internet/best-internet-providers-in-bryan-tx/#ftag=CAD590a51e)
+ - [A look at challenges Google faces ahead of Pixel 9 launch in India; IDC: Google&#39;s smartphone shipments in India grew over 1,300% in 2023 to a 0.5% market share &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/240814/p1#a240814p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
