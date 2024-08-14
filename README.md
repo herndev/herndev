@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhones will help decide offside violations in English soccer this season](https://www.theverge.com/2024/8/14/24220197/iphone-offside-violation-ai-detection-soccer-video-assistant-referee-english-premier-league)
- - [Valve is now hiding meme-y and ASCII art reviews on Steam store pages](https://www.theverge.com/2024/8/14/24220553/valve-steam-reviews-helpfulness-system-filter)
- - [The US FTC announces a final rule banning the sale of fake reviews and testimonials, including AI-generated ones, with fines as high as $50K per violation &lpar;Danny Gallagher/Engadget&rpar;](http://www.techmeme.com/240814/p32#a240814p32)<!-- TECH:END -->
+ - [The affordable Samsung Galaxy Tab A9 Plus is even cheaper today!](https://www.androidauthority.com/samsung-galaxy-tab-a9-plus-deal-3-3471761/)
+ - [Google Meet’s latest update includes a new UI and in-call messaging](https://www.theverge.com/2024/8/14/24220451/google-meet-update-adds-video-call-features)
+ - [AltStore PAL drops its annual subscription thanks to a grant from Epic](https://www.theverge.com/2024/8/14/24220623/altstore-pal-third-party-app-store-drops-subscription-epic-grant)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
