@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How Amazon, Alphabet, Microsoft, and Meta are using accounting techniques to disguise growing emissions, while working to influence pollution disclosure rules &lpar;Financial Times&rpar;](http://www.techmeme.com/240814/p10#a240814p10)
- - [The 2025 Ford Maverick Shows That Hybrid Pickup Trucks Are Going Mainstream](https://www.wired.com/story/the-2025-ford-maverick-shows-that-hybrid-pickup-trucks-are-going-mainstream/)
- - [Tencent reports Q2 revenue up 8% YoY to ~$22.5B, meeting est., and a $6.6B net income, above $5.6B est., after releasing blockbuster Dungeon &amp; Fighter Mobile &lpar;Zheping Huang/Bloomberg&rpar;](http://www.techmeme.com/240814/p9#a240814p9)<!-- TECH:END -->
+ - [Microsoft is enabling BitLocker device encryption by default on Windows 11](https://www.theverge.com/2024/8/14/24220138/microsoft-bitlocker-device-encryption-windows-11-default)
+ - [Kiteworks, formerly Accellion, which offers secure email and file transfer tools, raised $456M from Insight and Sixth Street Growth at a $1B+ valuation &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/240814/p14#a240814p14)
+ - [Spotify crows about Apple being forced to show alternative pricing](https://appleinsider.com/articles/24/08/14/spotify-crows-about-apple-being-forced-to-show-alternative-pricing?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
