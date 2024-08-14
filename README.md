@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Beach volley was nice](http://9gag.com/gag/azx878m)
- - ⏩ [Another great thing the muslims have contributed to the world. Defacing irrepressible ancient artworks!](http://9gag.com/gag/aKG2rR3)
- - 👉 [That&#39;s how to talk to subhumans](http://9gag.com/gag/aVvqjjP)<!-- MEMES:END -->
+ - 💣 [The best one...](http://9gag.com/gag/avyrYqZ)
+ - ⏩ [Burger King employee slaps kid who was making a mess and makes him mop](http://9gag.com/gag/awy565Q)
+ - 👉 [Daily struggle](http://9gag.com/gag/aPABw4g)<!-- MEMES:END -->
 
 ---
 
