@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Feel bored with Raygun? Remember back the lady who scammed the Winter Olympics](http://9gag.com/gag/an7yLML)
- - ⏩ [Gone but not forgotten.](http://9gag.com/gag/azxr6Gz)
- - 👉 [I try to hate this AI thing like you guys. But it get better.](http://9gag.com/gag/agmqzxn)<!-- MEMES:END -->
+ - 💣 [This floor exercise landing in Paris 2024](http://9gag.com/gag/a0edBnq)
+ - ⏩ [Look what we&#39;ve done](http://9gag.com/gag/aRBKn0M)
+ - 👉 [Gone but not forgotten.](http://9gag.com/gag/azxr6Gz)<!-- MEMES:END -->
 
 ---
 
