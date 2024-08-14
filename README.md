@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Amazon Orders Animated Series Featuring Spelunky, New World, And PlayStation Games](https://kotaku.com/amazon-love-death-robots-series-secret-level-spelunky-1851622420)
- - [Pray the kids don&#39;t kick over your priceless T-Rex exhibit in Two Point Museum, an upcoming new addition to the Two Point universe](https://www.pcgamer.com/games/sim/pray-the-kids-don-t-kick-over-your-priceless-t-rex-exhibit-in-two-point-musuem-an-upcoming-new-addition-to-the-two-point-universe)
- - [Alien: Romulus is an imperfect organism spliced together from the franchise’s best](https://www.polygon.com/review/440146/alien-romulus-is-an-imperfect-organism-spliced-together-from-the-franchises-best)<!-- GAME:END -->
+ - [Valve Cracking Down On Joke Reviews Flooding Steam](https://kotaku.com/valve-joke-meme-reviews-unhelpful-steam-update-changes-1851622567)
+ - [Steam&#39;s latest beta removed the &#39;open screenshot location&#39; button and it&#39;s sending me into an existential crisis](https://www.pcgamer.com/software/steams-latest-beta-removed-the-open-screenshot-location-button-and-its-sending-me-into-an-existential-crisis)
+ - [The Internet Is Obsessed With This Horse From Florence Pugh and Andrew Garfield&#39;s We Live In Time](https://kotaku.com/we-live-in-time-horse-florence-pugh-andrew-garfield-1851622476)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
