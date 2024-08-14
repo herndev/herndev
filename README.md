@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Lovely!](http://9gag.com/gag/a1mbpND)
- - ⏩ [Beach volley was nice](http://9gag.com/gag/azx878m)
- - 👉 [Feel bored with Raygun? Remember back the lady who scammed the Winter Olympics](http://9gag.com/gag/an7yLML)<!-- MEMES:END -->
+ - 💣 [The biggest WTF of the year](http://9gag.com/gag/a9yrbE1)
+ - ⏩ [Stunning and brave](http://9gag.com/gag/agmL36q)
+ - 👉 [We really enjoyed it!](http://9gag.com/gag/a5QbpAN)<!-- MEMES:END -->
 
 ---
 
