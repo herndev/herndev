@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Overwatch 2 Season 12 Is Coming Soon – and Benefits for Game Pass Members Launch on September 17](https://overwatch.blizzard.com/en-us/news/24116736/#new_tab)
- - [Leximan is a charming indie romp where you grab words out of the air to solve problems—like helping Dave, who has been on fire for 27 minutes](https://www.pcgamer.com/games/rpg/leximan-is-a-charming-indie-romp-where-you-grab-words-out-of-the-air-to-solve-problems-like-helping-dave-who-has-been-on-fire-for-27-minutes)
- - [Fallout Show Easter Egg Showed Director Just How Obsessed Fans Are With The Series](https://kotaku.com/fallout-tbv-amazon-show-easter-egg-secret-cricket-npc-1851622046)<!-- GAME:END -->
+ - [5 Games To Grab Before PlayStation’s Summer Sale Ends Tonight](https://kotaku.com/playstation-summer-sale-spider-man-cyberpunk-red-dead-1851622226)
+ - [The Timesplitters PS2 Trilogy Arrives On PS Plus Next Week](https://kotaku.com/timesplitters-ps2-witcher-3-ps-plus-games-august-2024-1851622161)
+ - [Report: Developers Told Not To Expect Switch 2 Before April 2025](https://kotaku.com/nintendo-direct-switch-2-release-date-1851621426)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
