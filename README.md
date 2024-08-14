@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Valve Cracking Down On Joke Reviews Flooding Steam](https://kotaku.com/valve-joke-meme-reviews-unhelpful-steam-update-changes-1851622567)
- - [Steam&#39;s latest beta removed the &#39;open screenshot location&#39; button and it&#39;s sending me into an existential crisis](https://www.pcgamer.com/software/steams-latest-beta-removed-the-open-screenshot-location-button-and-its-sending-me-into-an-existential-crisis)
- - [The Internet Is Obsessed With This Horse From Florence Pugh and Andrew Garfield&#39;s We Live In Time](https://kotaku.com/we-live-in-time-horse-florence-pugh-andrew-garfield-1851622476)<!-- GAME:END -->
+ - [Persona 3 Reload producer dashes any remaining hopes for the return of Portable&#39;s female protagonist: &#39;It is likely never going to happen&#39;](https://www.pcgamer.com/games/rpg/persona-3-reload-producer-dashes-any-remaining-hopes-for-the-return-of-portables-female-protagonist-it-is-likely-never-going-to-happen)
+ - [World of Warcraft&amp;#8217;s pre-patch event pits evil knife wife against our wizard dad](https://www.polygon.com/world-of-warcraft/440455/world-of-warcraft-khadgar-xelatath-dalaran-teaser-animation)
+ - [Josh Sawyer says Fallout: New Vegas has deathclaws in Cazador as a warning to Fallout 3 players expecting another easy ride: &#39;You can&#39;t just slide all over the map and not feel the heat&#39;](https://www.pcgamer.com/games/rpg/josh-sawyer-says-fallout-new-vegas-has-deathclaws-in-cazador-as-a-warning-to-fallout-3-players-expecting-another-easy-ride-you-cant-just-slide-all-over-the-map-and-not-feel-the-heat)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
