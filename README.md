@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The best one...](http://9gag.com/gag/avyrYqZ)
- - ⏩ [Burger King employee slaps kid who was making a mess and makes him mop](http://9gag.com/gag/awy565Q)
- - 👉 [Daily struggle](http://9gag.com/gag/aPABw4g)<!-- MEMES:END -->
+ - 💣 [What is she talking about? I want that!](http://9gag.com/gag/aD2jy3N)
+ - ⏩ [Meticulous comparison](http://9gag.com/gag/a6Zbr08)
+ - 👉 [Feel bored with Raygun? Remember back the lady who scammed the Winter Olympics](http://9gag.com/gag/an7yLML)<!-- MEMES:END -->
 
 ---
 
