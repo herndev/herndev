@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [New Kraven The Hunter Trailer Drops As Sony Pushes Forward With Spider-Man Extended Universe](https://kotaku.com/kraven-hunter-spider-man-trailer-rhino-deadpool-1851621883)
- - [A single character shows why Fallout: New Vegas is a classic](https://www.pcgamer.com/games/fallout/a-single-character-shows-why-fallout-new-vegas-is-a-classic)
- - [How to complete Gryphons of a Feather in World of Warcraft](https://www.pcgamer.com/games/mmo/world-of-warcraft/wow-gryphons-of-a-feather)<!-- GAME:END -->
+ - [Guy Plugs A Record-Breaking 444 Video Game Consoles Into A Single TV](https://kotaku.com/retro-gaming-guinness-world-record-ps5-switch-2-1851621959)
+ - [Finding A Chocobo Mount In Final Fantasy XIV](https://kotaku.com/final-fantasy-xiv-chocobo-mount-guide-1851619264)
+ - [Middle-earth goes to war in a new Rings of Power trailer](https://www.polygon.com/lotr-rings-of-power/440087/rings-of-power-season-2-trailer)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
