@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Australia&#39;s market regulator sues the country&#39;s ASX stock exchange over its botched blockchain upgrade, abandoned in November 2022 after seven years of work &lpar;Nic Fildes/Financial Times&rpar;](http://www.techmeme.com/240814/p6#a240814p6)
- - [Google is bringing the Pixel Buds Pro 2 to loads more countries](https://www.androidauthority.com/google-pixel-buds-pro-2-more-countries-3471541/)
- - [Latin America digital bank Nubank reports Q2 revenue up 52% YoY to $2.8B, above $2.66B est., a $487M net income, above $418M est., and passes 100M customers &lpar;Daniel Cancel/Bloomberg&rpar;](http://www.techmeme.com/240814/p5#a240814p5)<!-- TECH:END -->
+ - [How Amazon, Alphabet, Microsoft, and Meta are using accounting techniques to disguise growing emissions, while working to influence pollution disclosure rules &lpar;Financial Times&rpar;](http://www.techmeme.com/240814/p10#a240814p10)
+ - [The 2025 Ford Maverick Shows That Hybrid Pickup Trucks Are Going Mainstream](https://www.wired.com/story/the-2025-ford-maverick-shows-that-hybrid-pickup-trucks-are-going-mainstream/)
+ - [Tencent reports Q2 revenue up 8% YoY to ~$22.5B, meeting est., and a $6.6B net income, above $5.6B est., after releasing blockbuster Dungeon &amp; Fighter Mobile &lpar;Zheping Huang/Bloomberg&rpar;](http://www.techmeme.com/240814/p9#a240814p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
