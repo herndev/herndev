@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This guy has a lot of faith in science](http://9gag.com/gag/abA6jjB)
- - ⏩ [Bro feel violated every year.. So anyway..](http://9gag.com/gag/aAydBRE)
- - 👉 [Feel bored with Raygun? Remember back the lady who scammed the Winter Olympics](http://9gag.com/gag/an7yLML)<!-- MEMES:END -->
+ - 💣 [Beach volley was nice](http://9gag.com/gag/azx878m)
+ - ⏩ [Another great thing the muslims have contributed to the world. Defacing irrepressible ancient artworks!](http://9gag.com/gag/aKG2rR3)
+ - 👉 [That&#39;s how to talk to subhumans](http://9gag.com/gag/aVvqjjP)<!-- MEMES:END -->
 
 ---
 
