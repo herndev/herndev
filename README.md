@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [It’s now even easier to create Google Sheets tables](https://www.theverge.com/2024/8/14/24220340/google-sheets-intelligent-suggestions-table-creation-editing-sort-filter-automatic)
- - [Google&#39;s Circle to Search Is Coming to Samsung&#39;s Cheaper Phones, Tablets](https://www.cnet.com/tech/mobile/googles-circle-to-search-is-coming-to-samsungs-cheaper-phones-tablets/#ftag=CAD590a51e)
- - [How to turn off a VPN connection on your iPhone](https://appleinsider.com/inside/ios-18/tips/how-to-turn-off-a-vpn-connection-on-your-iphone?utm_medium=rss)<!-- TECH:END -->
+ - [Google gives Meet some overdue attention with fresh interface and lots of new features](https://www.androidauthority.com/google-meet-refresh-3471752/)
+ - [The Apple Studio Display goes back to its lowest price ever](https://www.androidauthority.com/apple-studio-display-deal-2-3471762/)
+ - [During a talk, Eric Schmidt said Google is losing the AI race because it decided that work-life balance and working from home were &quot;more important than winning&quot; &lpar;Orianna Rosa Royle/Fortune&rpar;](http://www.techmeme.com/240814/p28#a240814p28)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
