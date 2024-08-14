@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google gives Meet some overdue attention with fresh interface and lots of new features](https://www.androidauthority.com/google-meet-refresh-3471752/)
- - [The Apple Studio Display goes back to its lowest price ever](https://www.androidauthority.com/apple-studio-display-deal-2-3471762/)
- - [During a talk, Eric Schmidt said Google is losing the AI race because it decided that work-life balance and working from home were &quot;more important than winning&quot; &lpar;Orianna Rosa Royle/Fortune&rpar;](http://www.techmeme.com/240814/p28#a240814p28)<!-- TECH:END -->
+ - [This head-tracking spinning chair could make VR less nauseating](https://www.theverge.com/2024/8/14/24220354/vr-meta-quest-roto-explorer-chair-virtual-reality)
+ - [Cisco reports Q4 revenue down 10% YoY to $13.64B, vs. $13.54B est., and says it&#39;s cutting 7% of its global workforce; CSCO jumps 5%+ after hours &lpar;Ari Levy/CNBC&rpar;](http://www.techmeme.com/240814/p30#a240814p30)
+ - [Tesla should probably fix more of those whompy wheels, NHTSA says](https://www.theverge.com/2024/8/14/24220473/nhtsa-model-s-x-suspension-failure-fore-link)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
