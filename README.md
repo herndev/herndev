@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [5 Games To Grab Before PlayStation’s Summer Sale Ends Tonight](https://kotaku.com/playstation-summer-sale-spider-man-cyberpunk-red-dead-1851622226)
- - [The Timesplitters PS2 Trilogy Arrives On PS Plus Next Week](https://kotaku.com/timesplitters-ps2-witcher-3-ps-plus-games-august-2024-1851622161)
- - [Report: Developers Told Not To Expect Switch 2 Before April 2025](https://kotaku.com/nintendo-direct-switch-2-release-date-1851621426)<!-- GAME:END -->
+ - [Twelve Tips &amp; Tricks to Help You Become the Best Dinosaur Fossil Hunter](https://news.xbox.com/en-us/2024/08/14/twelve-tips-tricks-to-help-you-become-the-best-dinosaur-fossil-hunter/)
+ - [Mordhau pugilists raise thousands of dollars for a fellow player&#39;s medical bills in a fistfighting contest against cancer](https://www.pcgamer.com/games/action/mordhau-pugilists-raise-thousands-of-dollars-for-a-fellow-players-medical-bills-in-a-fistfighting-contest-against-cancer)
+ - [Helldivers 2 Promises Players A Better Time After Its Most Controversial Update Yet](https://kotaku.com/helldivers-2-flamethrower-nerf-charger-framerate-1851622269)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
