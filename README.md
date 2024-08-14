@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [How fast women switch on the victim complex](http://9gag.com/gag/a0edy7L)
- - ⏩ [Gold medal in our hearts](http://9gag.com/gag/aPAMKDg)
- - 👉 [Faith in humanity restored](http://9gag.com/gag/a5QZmZV)<!-- MEMES:END -->
+ - 💣 [Unexpected twist](http://9gag.com/gag/an7ypXq)
+ - ⏩ [Cheaper than therapy](http://9gag.com/gag/aO8dXe2)
+ - 👉 [Another great thing the muslims have contributed to the world. Defacing irrepressible ancient artworks!](http://9gag.com/gag/aKG2rR3)<!-- MEMES:END -->
 
 ---
 
