@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Trump’s Shooting Led QAnon Believers to Double Down](https://www.wired.com/story/trumps-shooting-rattled-qanon-believers-then-they-doubled-down/)
- - [SAG-AFTRA strikes a deal with Narrativ for voice replicas in digital ads, letting union members add themselves to the AI startup&#39;s database and negotiate fees &lpar;Cynthia Littleton/Variety&rpar;](http://www.techmeme.com/240814/p22#a240814p22)
- - [AMD’s new Zen 5 CPUs fail to impress during early reviews](https://www.theverge.com/2024/8/14/24220250/amd-zen-5-cpu-reviews-ryzen-9-9950x)<!-- TECH:END -->
+ - [Realme’s 320W fast charging can fully charge a smartphone in four and a half minutes](https://www.theverge.com/2024/8/14/24220225/realme-power-usb-c-supersonic-charge)
+ - [iPhone Mirroring on latest Apple OS betas likes to move it, move it](https://www.androidauthority.com/iphone-mirroring-jiggle-mode-support-3471685/)
+ - [Apple says app developers can offer NFC contactless transactions using the iPhone&#39;s Secure Element, separate from Apple Pay and Wallet, starting with iOS 18.1 &lpar;Chance Miller/9to5Mac&rpar;](http://www.techmeme.com/240814/p25#a240814p25)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
