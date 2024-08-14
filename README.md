@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Big fan of the Javelin this year.](http://9gag.com/gag/aQzMWAK)
- - ⏩ [Burger King employee slaps kid who was making a mess and makes him mop](http://9gag.com/gag/awy565Q)
- - 👉 [Cheaper than therapy](http://9gag.com/gag/aO8dXe2)<!-- MEMES:END -->
+ - 💣 [Tight enough?](http://9gag.com/gag/aD2jB0x)
+ - ⏩ [Bangladesh: who wants to be a millionaire](http://9gag.com/gag/a3476rm)
+ - 👉 [Onlyfans](http://9gag.com/gag/aAywoLE)<!-- MEMES:END -->
 
 ---
 
