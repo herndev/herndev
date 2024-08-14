@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This guy has a lot of faith in science](http://9gag.com/gag/abA6jjB)
- - ⏩ [Feel bored with Raygun? Remember back the lady who scammed the Winter Olympics](http://9gag.com/gag/an7yLML)
- - 👉 [Another great thing the muslims have contributed to the world. Defacing irrepressible ancient artworks!](http://9gag.com/gag/aKG2rR3)<!-- MEMES:END -->
+ - 💣 [Peter dropped a diamond](http://9gag.com/gag/azx879p)
+ - ⏩ [Cheaper than therapy](http://9gag.com/gag/aO8dXe2)
+ - 👉 [Burger King employee slaps kid who was making a mess and makes him mop](http://9gag.com/gag/awy565Q)<!-- MEMES:END -->
 
 ---
 
