@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The last inhabitant of an abandoned town in the far north. Imagine what it&#39;s like there at night](http://9gag.com/gag/aQzMwze)
- - ⏩ [Big fan of the Javelin this year.](http://9gag.com/gag/aQzMWAK)
- - 👉 [Gold medal in our hearts](http://9gag.com/gag/aPAMKDg)<!-- MEMES:END -->
+ - 💣 [Good old days.](http://9gag.com/gag/aD2jy2d)
+ - ⏩ [Bangladesh: who wants to be a millionaire](http://9gag.com/gag/a3476rm)
+ - 👉 [Do NOT redeem](http://9gag.com/gag/aYQK8zm)<!-- MEMES:END -->
 
 ---
 
