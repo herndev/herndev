@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [What is she talking about? I want that!](http://9gag.com/gag/aD2jy3N)
- - ⏩ [Go show mommy](http://9gag.com/gag/aE0R3RO)
- - 👉 [Tight enough?](http://9gag.com/gag/aD2jB0x)<!-- MEMES:END -->
+ - 💣 [Bro feel violated every year.. So anyway..](http://9gag.com/gag/aAydBRE)
+ - ⏩ [Burger King employee slaps kid who was making a mess and makes him mop](http://9gag.com/gag/awy565Q)
+ - 👉 [12 years not a slave](http://9gag.com/gag/aKG2R4g)<!-- MEMES:END -->
 
 ---
 
