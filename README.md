@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Fresh Galaxy S24 FE leak points to spec upgrades and a potential launch date](https://www.androidauthority.com/galaxy-s24-fe-october-3471605/)
- - [Google’s Pixel 9 launch also brought a new 45W USB-C charger](https://www.theverge.com/2024/8/14/24220190/google-charger-usb-c-pixel-9-price)
- - [How Surfshark VPN for travel guards against data theft &amp; blocked content](https://appleinsider.com/articles/24/08/14/how-surfshark-vpn-for-travel-guards-against-data-theft-blocked-content?utm_medium=rss)<!-- TECH:END -->
+ - [Trump’s Shooting Led QAnon Believers to Double Down](https://www.wired.com/story/trumps-shooting-rattled-qanon-believers-then-they-doubled-down/)
+ - [SAG-AFTRA strikes a deal with Narrativ for voice replicas in digital ads, letting union members add themselves to the AI startup&#39;s database and negotiate fees &lpar;Cynthia Littleton/Variety&rpar;](http://www.techmeme.com/240814/p22#a240814p22)
+ - [AMD’s new Zen 5 CPUs fail to impress during early reviews](https://www.theverge.com/2024/8/14/24220250/amd-zen-5-cpu-reviews-ryzen-9-9950x)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
