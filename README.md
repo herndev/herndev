@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Unsurprisingly, the AMD Ryzen 5 9600X and Ryzen 7 9700X don&#39;t seem to be selling very well right now](https://www.pcgamer.com/hardware/processors/unsurprisingly-the-amd-ryzen-5-9600x-and-ryzen-7-9700x-dont-seem-to-be-selling-very-well-right-now)
  - [Final Fantasy 14 player is so sick of one particular healing spell, they&#39;ve built an entire website to explain why you shouldn&#39;t use it: &#39;I finally have had enough&#39;](https://www.pcgamer.com/games/final-fantasy/final-fantasy-14-player-is-so-sick-of-one-particular-healing-spell-they-ve-built-an-entire-website-explaining-why-you-shouldn-t-use-it-i-ve-had-enough)
- - [Valve is &#39;continuing to work on adding support&#39; for other handhelds, but &#39;SteamOS isn&#39;t ready to run out of the box&#39; just yet](https://www.pcgamer.com/hardware/handheld-gaming-pcs/valve-is-continuing-to-work-on-adding-support-for-other-handhelds-but-steamos-isnt-ready-to-run-out-of-the-box-just-yet)
- - [Today&#39;s Wordle answer for Wednesday, August 14](https://www.pcgamer.com/games/puzzle/wordle-answer-today-august-14-2024)<!-- GAME:END -->
+ - [Valve is &#39;continuing to work on adding support&#39; for other handhelds, but &#39;SteamOS isn&#39;t ready to run out of the box&#39; just yet](https://www.pcgamer.com/hardware/handheld-gaming-pcs/valve-is-continuing-to-work-on-adding-support-for-other-handhelds-but-steamos-isnt-ready-to-run-out-of-the-box-just-yet)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
