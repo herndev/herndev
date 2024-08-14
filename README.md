@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Realme’s 320W fast charging can fully charge a smartphone in four and a half minutes](https://www.theverge.com/2024/8/14/24220225/realme-power-usb-c-supersonic-charge)
- - [iPhone Mirroring on latest Apple OS betas likes to move it, move it](https://www.androidauthority.com/iphone-mirroring-jiggle-mode-support-3471685/)
- - [Apple says app developers can offer NFC contactless transactions using the iPhone&#39;s Secure Element, separate from Apple Pay and Wallet, starting with iOS 18.1 &lpar;Chance Miller/9to5Mac&rpar;](http://www.techmeme.com/240814/p25#a240814p25)<!-- TECH:END -->
+ - [You can snag a $30 gift card when you preorder Google’s Pixel Buds Pro 2](https://www.theverge.com/2024/8/14/24219518/google-pixel-buds-pro-2-logitech-g309-lightspeed-gaming-mouse-deal-sale)
+ - [Here are the best AirPods deals you can get right now](https://www.theverge.com/21302051/best-apple-airpods-deals)
+ - [X’s new AI image generator will make anything from Taylor Swift in lingerie to Kamala Harris with a gun](https://www.theverge.com/2024/8/14/24220173/xai-grok-image-generator-misinformation-offensive-imges)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
