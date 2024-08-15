@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Card is still best in its customer satisfaction category for four straight years](https://appleinsider.com/articles/24/08/15/apple-card-is-still-best-in-its-customer-satisfaction-category-for-four-straight-years?utm_medium=rss)
- - [Google’s controversial AI Overviews are making a big international expansion](https://www.androidauthority.com/ai-overviews-expansion-3471852/)
- - [Apple collaborates with Kim Kardashian on limited-edition Beats Studio Pro](https://appleinsider.com/articles/24/08/15/apple-collaborates-with-kim-kardashian-on-limited-edition-beats-studio-pro?utm_medium=rss)<!-- TECH:END -->
+ - [Rivian’s new fold-and-stow electric kitchen lets you cook atop your tailgate](https://www.theverge.com/2024/8/15/24220583/rivian-travel-kitchen-accessory-induction-cooktop-camping)
+ - [Dragon Age: The Veilguard launches this fall](https://www.theverge.com/2024/8/15/24220559/dragon-age-veilguard-release-date-trailer-gamescom)
+ - [India says Apple is the fastest-growing firm in the country over the last 50 years](https://appleinsider.com/articles/24/08/15/india-says-apple-is-the-fastest-growing-firm-in-the-country-for-the-last-50-years?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
