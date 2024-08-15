@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [We live in a society](http://9gag.com/gag/aKGVgz3)
- - ⏩ [The mouse was hungry](http://9gag.com/gag/a9yrdPZ)
- - 👉 [Frock your Islamophobia.](http://9gag.com/gag/aZZmWPX)<!-- MEMES:END -->
+ - 💣 [An interesting car wash](http://9gag.com/gag/aE0YvyK)
+ - ⏩ [Teen wearing helmet and bulletproof vest livestreams stabbing rampage by mosque in Turkey.](http://9gag.com/gag/aXPqZ4z)
+ - 👉 [Accident on the highway](http://9gag.com/gag/axyV2Ep)<!-- MEMES:END -->
 
 ---
 
