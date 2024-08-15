@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Pikachu wants to keep you safe in this Pokémon-themed flight-safety video](https://www.polygon.com/news/440687/pokemon-flight-safety-video-ana-pikachu)
- - [Call Of Duty&#39;s Ungodly Download Sizes Are Finally Getting Smaller](https://kotaku.com/call-duty-hq-black-ops-6-download-size-warzone-ps5-1851623319)
- - [Humble’s latest games bundle is a trip through CRPG history](https://www.polygon.com/deals/440566/humble-crpg-bundle-warhammer-rogue-trader-deal-sale)<!-- GAME:END -->
+ - [Venture Into a Whole New Era of Hunt with Hunt: Showdown 1896 Out Now](https://news.xbox.com/en-us/2024/08/15/venture-into-a-whole-new-era-of-hunt-with-hunt-showdown-1896-out-now/)
+ - [&#39;I want Hunt to last for another decade, if not more&#39;: Crytek goes deep on Hunt: Showdown&#39;s new name, upgraded engine, and future map plans](https://www.pcgamer.com/games/fps/i-want-hunt-to-last-for-another-decade-if-not-more-crytek-goes-deep-on-hunt-showdown-s-new-name-upgraded-engine-and-future-map-plans)
+ - [Oops! Bungie accidentally changed the names of a &#39;high number&#39; of Destiny 2 players, says a fix &#39;will take some time&#39; to figure out](https://www.pcgamer.com/games/fps/oops-bungie-accidentally-changed-the-names-of-a-high-number-of-destiny-2-players-says-a-fix-will-take-some-time-to-figure-out)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
