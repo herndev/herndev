@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Pixel Watch 3 vs Pixel Watch: Should you upgrade?](https://www.androidauthority.com/google-pixel-watch-3-vs-pixel-watch-3471488/)
- - [Kim Dotcom is being Megauploaded to the US for trial](https://www.theverge.com/2024/8/15/24220920/kim-dotcom-megaupload-us-extradition-trial)
- - [JD.com reports Q2 net revenue up 1.2% YoY to ~$40.7B, vs. ~$40.9B est., and a ~$1.7B net income, boosted by aggressive price cuts and the 618 shopping event &lpar;Harshita Mary Varghese/Reuters&rpar;](http://www.techmeme.com/240815/p12#a240815p12)<!-- TECH:END -->
+ - [Google expands AI Overviews in Search to Brazil, India, Indonesia, Japan, Mexico, and the UK in local languages, and adds hyperlinks to the feature &lpar;Kenrick Cai/Reuters&rpar;](http://www.techmeme.com/240815/p17#a240815p17)
+ - [Grab reports Q2 revenue up 17% YoY to $664M, below $676.9M est., and a $53M net loss, down from $135M in Q2 2023, as competition with GoTo weighs on its growth &lpar;Olivia Poh/Bloomberg&rpar;](http://www.techmeme.com/240815/p16#a240815p16)
+ - [The Who&#39;s Who of Political Influencers](https://www.wired.com/story/political-influencers-2024-election/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
