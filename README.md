@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Venture Into a Whole New Era of Hunt with Hunt: Showdown 1896 Out Now](https://news.xbox.com/en-us/2024/08/15/venture-into-a-whole-new-era-of-hunt-with-hunt-showdown-1896-out-now/)
- - [&#39;I want Hunt to last for another decade, if not more&#39;: Crytek goes deep on Hunt: Showdown&#39;s new name, upgraded engine, and future map plans](https://www.pcgamer.com/games/fps/i-want-hunt-to-last-for-another-decade-if-not-more-crytek-goes-deep-on-hunt-showdown-s-new-name-upgraded-engine-and-future-map-plans)
- - [Oops! Bungie accidentally changed the names of a &#39;high number&#39; of Destiny 2 players, says a fix &#39;will take some time&#39; to figure out](https://www.pcgamer.com/games/fps/oops-bungie-accidentally-changed-the-names-of-a-high-number-of-destiny-2-players-says-a-fix-will-take-some-time-to-figure-out)<!-- GAME:END -->
+ - [Dredge’s Iron Rig update is a good reason to jump back into one of 2023’s best games](https://www.polygon.com/gaming/440779/dredges-iron-rig-update-is-a-good-reason-to-jump-back-into-one-of-2023s-best-games)
+ - [The Crush House wanted me to make a steamy reality show, but I got tired of being told to film butts and made a nature documentary instead](https://www.pcgamer.com/games/sim/the-crush-house-wanted-me-to-make-a-steamy-reality-show-but-i-got-tired-of-being-told-to-film-butts-and-made-a-nature-documentary-instead)
+ - [New King Kong Game Announced, Let&#39;s Hope It&#39;s Better Than That Last One](https://kotaku.com/new-king-kong-game-skull-island-godzilla-monsterverse-1851623427)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
