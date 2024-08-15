@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [When you are offended but can&#39;t figure out why.](http://9gag.com/gag/aAywnA0)
- - ⏩ [An interesting car wash](http://9gag.com/gag/aE0YvyK)
- - 👉 [Lovely!](http://9gag.com/gag/a1mbpND)<!-- MEMES:END -->
+ - 💣 [That&#39;s how it is](http://9gag.com/gag/a9yrjEW)
+ - ⏩ [Call an ambulance but not for me](http://9gag.com/gag/aXPq0Xz)
+ - 👉 [Beach volley was nice](http://9gag.com/gag/azx878m)<!-- MEMES:END -->
 
 ---
 
