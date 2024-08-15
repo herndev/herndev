@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Dredge’s Iron Rig update is a good reason to jump back into one of 2023’s best games](https://www.polygon.com/gaming/440779/dredges-iron-rig-update-is-a-good-reason-to-jump-back-into-one-of-2023s-best-games)
- - [The Crush House wanted me to make a steamy reality show, but I got tired of being told to film butts and made a nature documentary instead](https://www.pcgamer.com/games/sim/the-crush-house-wanted-me-to-make-a-steamy-reality-show-but-i-got-tired-of-being-told-to-film-butts-and-made-a-nature-documentary-instead)
- - [New King Kong Game Announced, Let&#39;s Hope It&#39;s Better Than That Last One](https://kotaku.com/new-king-kong-game-skull-island-godzilla-monsterverse-1851623427)<!-- GAME:END -->
+ - [Dragon Age: The Veilguard pre-order guide](https://www.polygon.com/pre-order/440713/dragon-age-the-veilguard-pre-order-guide)
+ - [One Lone Nintendo Fan Has Been Keeping The 3DS Servers Alive For Months](https://kotaku.com/3ds-servers-offline-last-player-mario-kart-7-months-1851623578)
+ - [Some of the world&#39;s biggest game companies are joining together to make us all look at this truly awful horse](https://www.pcgamer.com/games/some-of-the-worlds-biggest-game-companies-are-joining-together-to-make-us-all-look-at-this-truly-awful-horse)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
