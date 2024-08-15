@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [That&#39;s how it is](http://9gag.com/gag/a9yrjEW)
- - ⏩ [This guy has a lot of faith in science](http://9gag.com/gag/abA6jjB)
- - 👉 [Looks like `RayGunn` has shot herself in the foot. New allegations that she cheated her way into the Olympics, even worked to deny funding to underprivileged youths to block them from qualifiers.](http://9gag.com/gag/azx8bBx)<!-- MEMES:END -->
+ - 💣 [The instructor got the nerve of steel.](http://9gag.com/gag/aPABy9Q)
+ - ⏩ [What?](http://9gag.com/gag/amoYNjd)
+ - 👉 [Beach volley was nice](http://9gag.com/gag/azx878m)<!-- MEMES:END -->
 
 ---
 
