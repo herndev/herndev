@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I ordered a custom-fit box, and then they forgot the tail](http://9gag.com/gag/axyVZvY)
- - ⏩ [A yummy Ramen stall in Japan](http://9gag.com/gag/a2vrYRe)
- - 👉 [Meticulous comparison](http://9gag.com/gag/a6Zbr08)<!-- MEMES:END -->
+ - 💣 [That&#39;s how it is](http://9gag.com/gag/a9yrjEW)
+ - ⏩ [Taliban organised a parade to celebrate the third anniversary of its victory over the United States.](http://9gag.com/gag/aqyb9WZ)
+ - 👉 [When you are offended but can&#39;t figure out why.](http://9gag.com/gag/aAywnA0)<!-- MEMES:END -->
 
 ---
 
