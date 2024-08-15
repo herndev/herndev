@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Sins of a Solar Empire 2 review](https://www.pcgamer.com/games/strategy/sins-of-a-solar-empire-2-review)
- - [Aigis in the Spotlight as Persona 3 Reload’s Epilogue Makes Its Way to Game Pass](https://news.xbox.com/en-us/2024/08/15/persona-3-reload-epilogue-game-pass/)
- - [Elusive Samurai is one of the most jaw-droppingly beautiful anime I&amp;#8217;ve ever seen](https://www.polygon.com/anime/440403/elusive-samurai-streaming-crunchyroll)<!-- GAME:END -->
+ - [Plucky Squire launches on PS5 September 17 as part of PlayStation Plus Extra and Premium](https://blog.playstation.com/2024/08/15/plucky-squire-launches-on-ps5-september-17-as-part-of-playstation-plus-extra-and-premium/)
+ - [All Along the Watchtower sets a murder mystery in the home of the Justice League](https://www.polygon.com/comics/439886/justice-league-murder-mystery-comic-all-along-the-watchtower-release)
+ - [How To Master Hacking Terminals In Fallout 76](https://kotaku.com/fallout-76-hacking-minigame-guide-1851619315)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
