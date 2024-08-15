@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Persona 3 Reload producer dashes any remaining hopes for the return of Portable&#39;s female protagonist: &#39;It is likely never going to happen&#39;](https://www.pcgamer.com/games/rpg/persona-3-reload-producer-dashes-any-remaining-hopes-for-the-return-of-portables-female-protagonist-it-is-likely-never-going-to-happen)
- - [World of Warcraft&amp;#8217;s pre-patch event pits evil knife wife against our wizard dad](https://www.polygon.com/world-of-warcraft/440455/world-of-warcraft-khadgar-xelatath-dalaran-teaser-animation)
- - [Josh Sawyer says Fallout: New Vegas has deathclaws in Cazador as a warning to Fallout 3 players expecting another easy ride: &#39;You can&#39;t just slide all over the map and not feel the heat&#39;](https://www.pcgamer.com/games/rpg/josh-sawyer-says-fallout-new-vegas-has-deathclaws-in-cazador-as-a-warning-to-fallout-3-players-expecting-another-easy-ride-you-cant-just-slide-all-over-the-map-and-not-feel-the-heat)<!-- GAME:END -->
+ - [GitHub, the go-to site for open source software, is currently down](https://www.pcgamer.com/gaming-industry/github-is-down-august-14-2024)
+ - [Steam&#39;s new &#39;Helpfulness&#39; system for user reviews is here to fix Steam&#39;s &#39;Helpful&#39; system for user reviews](https://www.pcgamer.com/games/steams-new-helpfulness-system-for-user-reviews-is-here-to-fix-steams-helpful-system-for-user-reviews)
+ - [Persona 3 Reload producer dashes any remaining hopes for the return of Portable&#39;s female protagonist: &#39;It is likely never going to happen&#39;](https://www.pcgamer.com/games/rpg/persona-3-reload-producer-dashes-any-remaining-hopes-for-the-return-of-portables-female-protagonist-it-is-likely-never-going-to-happen)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
