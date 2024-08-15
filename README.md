@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Framework 13 &lpar;Intel Core Ultra Series 1&rpar; review](https://www.pcgamer.com/hardware/gaming-laptops/framework-13-intel-core-ultra-series-1-laptop-review)
- - [PC Gamer magazine&#39;s landmark 400th issue is on sale now: Warhammer 40,000: Space Marine 2](https://www.pcgamer.com/gaming-industry/pc-gamer-magazines-landmark-400th-issue-is-on-sale-now-warhammer-40000-space-marine-2)
- - [Today&#39;s Wordle answer for Thursday, August 15](https://www.pcgamer.com/games/puzzle/wordle-answer-today-august-15-2024)<!-- GAME:END -->
+ - [Intel sells all its Arm shares, likely raising almost $150 million, AKA peanuts in tech](https://www.pcgamer.com/hardware/processors/intel-sells-all-its-arm-shares-likely-raising-almost-dollar150-million-aka-peanuts-in-tech)
+ - [Dragon Age: The Veilguard release date seemingly leaks, set to launch on Halloween](https://www.pcgamer.com/games/dragon-age/dragon-age-the-veilguard-release-date-seemingly-leaks-set-to-launch-on-halloween)
+ - [Framework 13 &lpar;Intel Core Ultra Series 1&rpar; review](https://www.pcgamer.com/hardware/gaming-laptops/framework-13-intel-core-ultra-series-1-laptop-review)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
