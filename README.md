@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [How to lose a guy in 5 minutes](http://9gag.com/gag/a4PbKmw)
- - ⏩ [Faith in humanity restored](http://9gag.com/gag/a5QZmZV)
- - 👉 [A korean guy made a social experiment in Africa.](http://9gag.com/gag/aLnMYLv)<!-- MEMES:END -->
+ - 💣 [A korean guy made a social experiment in Africa.](http://9gag.com/gag/aLnMYLv)
+ - ⏩ [That&#39;s how it is](http://9gag.com/gag/a9yrjEW)
+ - 👉 [The full video](http://9gag.com/gag/aoy2b93)<!-- MEMES:END -->
 
 ---
 
