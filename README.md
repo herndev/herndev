@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [You’ve heard of Hold for Me, but Google’s next calling trick could work in reverse](https://www.androidauthority.com/google-ask-to-hold-phone-call-apk-teardown-3471915/)
- - [A look at the rise in demand for data center technicians in the US; CompTIA says technicians&#39; pay is up 43% in the past three years to a median of $75,100 &lpar;Te-Ping Chen/Wall Street Journal&rpar;](http://www.techmeme.com/240815/p5#a240815p5)
- - [AltStore PAL drops its paywall, lets users sideload iOS apps for free](https://www.androidauthority.com/altstore-pal-now-free-3471908/)<!-- TECH:END -->
+ - [New Zealand signs an extradition order for Kim Dotcom to the US, where he faces criminal charges related to Megaupload; Dotcom has fought extradition since 2012 &lpar;Reuters&rpar;](http://www.techmeme.com/240815/p9#a240815p9)
+ - [Unit 42: open-source projects from Google, Microsoft, AWS, and others leaked GitHub auth tokens via GitHub Actions; GitHub decided not to address the risk &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/240815/p8#a240815p8)
+ - [How University of California doctors used brain implants and AI to help an ALS patient speak again; the implants recognize words, and AI replicates his voice &lpar;Benjamin Mueller/New York Times&rpar;](http://www.techmeme.com/240815/p7#a240815p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
