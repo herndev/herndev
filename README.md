@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [That&#39;s how it is](http://9gag.com/gag/a9yrjEW)
- - ⏩ [Call an ambulance but not for me](http://9gag.com/gag/aXPq0Xz)
- - 👉 [Beach volley was nice](http://9gag.com/gag/azx878m)<!-- MEMES:END -->
+ - 💣 [Lovely!](http://9gag.com/gag/a1mbpND)
+ - ⏩ [The instructor got the nerve of steel.](http://9gag.com/gag/aPABy9Q)
+ - 👉 [Engine oil in Solid form](http://9gag.com/gag/awyn03W)<!-- MEMES:END -->
 
 ---
 
