@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google expands AI Overviews in Search to Brazil, India, Indonesia, Japan, Mexico, and the UK in local languages, and adds hyperlinks to the feature &lpar;Kenrick Cai/Reuters&rpar;](http://www.techmeme.com/240815/p17#a240815p17)
- - [Grab reports Q2 revenue up 17% YoY to $664M, below $676.9M est., and a $53M net loss, down from $135M in Q2 2023, as competition with GoTo weighs on its growth &lpar;Olivia Poh/Bloomberg&rpar;](http://www.techmeme.com/240815/p16#a240815p16)
- - [The Who&#39;s Who of Political Influencers](https://www.wired.com/story/political-influencers-2024-election/)<!-- TECH:END -->
+ - [Flaw in Verizon Pixel’s firmware poses serious security threat](https://www.androidauthority.com/verizon-pixel-firmware-threat-3471691/)
+ - [HP OmniBook X 14 review: a barely disguised business laptop with excellent battery life](https://www.theverge.com/24215638/hp-omnibook-x-14-laptop-review)
+ - [Amazon slashes up to $250 off Apple&#39;s M4 iPad Pro during back-to-school sale](https://appleinsider.com/articles/24/08/15/amazon-slashes-up-to-250-off-apples-m4-ipad-pro?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
