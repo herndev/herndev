@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Lovely!](http://9gag.com/gag/a1mbpND)
- - ⏩ [The instructor got the nerve of steel.](http://9gag.com/gag/aPABy9Q)
- - 👉 [Engine oil in Solid form](http://9gag.com/gag/awyn03W)<!-- MEMES:END -->
+ - 💣 [I ordered a custom-fit box, and then they forgot the tail](http://9gag.com/gag/axyVZvY)
+ - ⏩ [A yummy Ramen stall in Japan](http://9gag.com/gag/a2vrYRe)
+ - 👉 [Meticulous comparison](http://9gag.com/gag/a6Zbr08)<!-- MEMES:END -->
 
 ---
 
