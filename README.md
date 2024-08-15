@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [This Mpox Outbreak Isn&#39;t Like the Last One](https://www.wired.com/story/mpox-outbreak-global-public-health-emergency/)
- - [The Uncertain Path Forward for Psychedelic Medicine](https://www.wired.com/story/where-does-psychedelic-assisted-therapy-go-next-mdma-fda-lykos/)
- - [Google’s upgraded AI image generator is now available](https://www.theverge.com/2024/8/15/24221218/google-ai-image-generator-imagen-3-available)<!-- TECH:END -->
+ - [SwitchBot upgrades its tiniest robot vacuum with some powerful new features](https://www.androidauthority.com/switchbot-robot-vacuum-3472116/)
+ - [Best Wi-Fi Routers for 2024](https://www.cnet.com/home/internet/best-wi-fi-router/#ftag=CAD590a51e)
+ - [Best Laptop for High School Students in 2024](https://www.cnet.com/tech/computing/best-laptop-for-high-school-students/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
