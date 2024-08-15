@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Flaw in Verizon Pixel’s firmware poses serious security threat](https://www.androidauthority.com/verizon-pixel-firmware-threat-3471691/)
- - [HP OmniBook X 14 review: a barely disguised business laptop with excellent battery life](https://www.theverge.com/24215638/hp-omnibook-x-14-laptop-review)
- - [Amazon slashes up to $250 off Apple&#39;s M4 iPad Pro during back-to-school sale](https://appleinsider.com/articles/24/08/15/amazon-slashes-up-to-250-off-apples-m4-ipad-pro?utm_medium=rss)<!-- TECH:END -->
+ - [Enjoy a Hefty 39% Discount on Anker Soundcore Space A40 Earbuds Today](https://www.cnet.com/deals/enjoy-a-hefty-39-discount-on-anker-soundcore-space-a40-earbuds-today/#ftag=CAD590a51e)
+ - [Apple has a strange plan to power future Vision Pro with AirPods](https://appleinsider.com/articles/24/08/15/apple-has-a-strange-plan-to-power-future-vision-pro-with-airpods?utm_medium=rss)
+ - [Refinance Activity Surges as Rates Fall. Today&#39;s Refi Rates, Aug. 15, 2024](https://www.cnet.com/personal-finance/refi-rates-dip-since-last-week-mortgage-refinance-rates-for-aug-15-2024/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
