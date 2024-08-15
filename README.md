@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Pixel Screenshots can’t be turned into a Microsoft Recall clone even if you try](https://www.androidauthority.com/pixel-screenshots-throttle-3472066/)
- - [Save 35% on the larger Amazon Echo speaker, and get a free smart light](https://www.androidauthority.com/amazon-echo-and-smart-light-deal-3472098/)
- - [Google will update Pixel phones to remove Verizon’s unsafe demo app](https://www.androidauthority.com/showcase-app-3472086/)<!-- TECH:END -->
+ - [This Mpox Outbreak Isn&#39;t Like the Last One](https://www.wired.com/story/mpox-outbreak-global-public-health-emergency/)
+ - [The Uncertain Path Forward for Psychedelic Medicine](https://www.wired.com/story/where-does-psychedelic-assisted-therapy-go-next-mdma-fda-lykos/)
+ - [Google’s upgraded AI image generator is now available](https://www.theverge.com/2024/8/15/24221218/google-ai-image-generator-imagen-3-available)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
