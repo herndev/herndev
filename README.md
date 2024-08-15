@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Activision is finally doing something about Call of Duty’s giant downloads](https://www.theverge.com/2024/8/15/24221080/activision-call-of-duty-downloads-black-ops-6)
- - [Threads is testing several new features like scheduling and analytics](https://www.theverge.com/2024/8/15/24220224/meta-threads-features-scheduling-insights-drafts)
- - [Sennheiser’s heart-tracking ANC earbuds are almost $80 off](https://www.theverge.com/good-deals/2024/8/15/24220659/sennheiser-momentum-sport-earbuds-paper-mario-thousand-year-door-deal-sale)<!-- TECH:END -->
+ - [T-Mobile’s data breach leads to record-breaking fine](https://www.androidauthority.com/t-mobile-data-breach-fine-3471984/)
+ - [M4 MacBook Pro updates could be imminent with display shipments starting](https://appleinsider.com/articles/24/08/15/m4-macbook-pro-updates-could-be-imminent-with-display-shipments-starting?utm_medium=rss)
+ - [Tether Was Playing a Risky Game, a New Celsius Suit Reveals](https://www.wired.com/story/tether-celsius-crypto-lawsuit-close-call/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
