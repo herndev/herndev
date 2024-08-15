@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [AndaSeat Kaiser 4 XL review](https://www.pcgamer.com/hardware/gaming-chairs/andaseat-kaiser-4-xl-gaming-chair-review)
- - [Beefy medieval RPG Kingdom Come: Deliverance 2 has been delayed until February](https://www.pcgamer.com/games/rpg/beefy-medieval-rpg-kingdom-come-deliverance-2-has-been-delayed-until-february)
- - [A mysterious World of Warcraft teaser has people wondering if an animated show is on its way](https://www.pcgamer.com/games/world-of-warcraft/a-mysterious-world-of-warcraft-teaser-has-people-wondering-if-an-animated-show-is-on-its-way)<!-- GAME:END -->
+ - [Sins of a Solar Empire 2 review](https://www.pcgamer.com/games/strategy/sins-of-a-solar-empire-2-review)
+ - [Aigis in the Spotlight as Persona 3 Reload’s Epilogue Makes Its Way to Game Pass](https://news.xbox.com/en-us/2024/08/15/persona-3-reload-epilogue-game-pass/)
+ - [Elusive Samurai is one of the most jaw-droppingly beautiful anime I&amp;#8217;ve ever seen](https://www.polygon.com/anime/440403/elusive-samurai-streaming-crunchyroll)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
