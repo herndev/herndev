@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Intel sells all its Arm shares, likely raising almost $150 million, AKA peanuts in tech](https://www.pcgamer.com/hardware/processors/intel-sells-all-its-arm-shares-likely-raising-almost-dollar150-million-aka-peanuts-in-tech)
- - [Dragon Age: The Veilguard release date seemingly leaks, set to launch on Halloween](https://www.pcgamer.com/games/dragon-age/dragon-age-the-veilguard-release-date-seemingly-leaks-set-to-launch-on-halloween)
- - [Framework 13 &lpar;Intel Core Ultra Series 1&rpar; review](https://www.pcgamer.com/hardware/gaming-laptops/framework-13-intel-core-ultra-series-1-laptop-review)<!-- GAME:END -->
+ - [AndaSeat Kaiser 4 XL review](https://www.pcgamer.com/hardware/gaming-chairs/andaseat-kaiser-4-xl-gaming-chair-review)
+ - [Beefy medieval RPG Kingdom Come: Deliverance 2 has been delayed until February](https://www.pcgamer.com/games/rpg/beefy-medieval-rpg-kingdom-come-deliverance-2-has-been-delayed-until-february)
+ - [A mysterious World of Warcraft teaser has people wondering if an animated show is on its way](https://www.pcgamer.com/games/world-of-warcraft/a-mysterious-world-of-warcraft-teaser-has-people-wondering-if-an-animated-show-is-on-its-way)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
