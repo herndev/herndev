@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Teen wearing helmet and bulletproof vest livestreams stabbing rampage by mosque in Turkey.](http://9gag.com/gag/aXPqZ4z)
- - ⏩ [Did you know snails like beer?](http://9gag.com/gag/avyGZ35)
- - 👉 [An interesting car wash](http://9gag.com/gag/aE0YvyK)<!-- MEMES:END -->
+ - 💣 [When you are offended but can&#39;t figure out why.](http://9gag.com/gag/aAywnA0)
+ - ⏩ [An interesting car wash](http://9gag.com/gag/aE0YvyK)
+ - 👉 [Lovely!](http://9gag.com/gag/a1mbpND)<!-- MEMES:END -->
 
 ---
 
