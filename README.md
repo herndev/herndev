@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Anthropic says prompt caching, which enables developers to cache frequently used context between API calls, is now available in public beta on its API &lpar;Emilia David/VentureBeat&rpar;](http://www.techmeme.com/240814/p35#a240814p35)
- - [GitHub is down](https://www.theverge.com/2024/8/14/24220685/github-down-website-pull-request)
- - [Poll results: Your favorite Pixel 9 designs and colors revealed](https://www.androidauthority.com/poll-results-pixel-9-design-colors-3471756/)<!-- TECH:END -->
+ - [Best Internet Providers in Conroe, Texas](https://www.cnet.com/home/internet/best-internet-providers-in-conroe-tx/#ftag=CAD590a51e)
+ - [A look at Germany-based Black Forest Labs, which recently emerged from stealth with a $31M seed led by a16z and whose FLUX.1 model powers Grok&#39;s image generator &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/240814/p37#a240814p37)
+ - [Borrowers May Have to Wait for Supreme Court to Weigh In on Student Loan Forgiveness Plan](https://www.cnet.com/personal-finance/loans/borrowers-may-have-to-wait-for-supreme-court-to-weigh-in-on-student-loan-forgiveness-plan/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
