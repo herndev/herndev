@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The affordable Samsung Galaxy Tab A9 Plus is even cheaper today!](https://www.androidauthority.com/samsung-galaxy-tab-a9-plus-deal-3-3471761/)
- - [Google Meet’s latest update includes a new UI and in-call messaging](https://www.theverge.com/2024/8/14/24220451/google-meet-update-adds-video-call-features)
- - [AltStore PAL drops its annual subscription thanks to a grant from Epic](https://www.theverge.com/2024/8/14/24220623/altstore-pal-third-party-app-store-drops-subscription-epic-grant)<!-- TECH:END -->
+ - [Anthropic says prompt caching, which enables developers to cache frequently used context between API calls, is now available in public beta on its API &lpar;Emilia David/VentureBeat&rpar;](http://www.techmeme.com/240814/p35#a240814p35)
+ - [GitHub is down](https://www.theverge.com/2024/8/14/24220685/github-down-website-pull-request)
+ - [Poll results: Your favorite Pixel 9 designs and colors revealed](https://www.androidauthority.com/poll-results-pixel-9-design-colors-3471756/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
