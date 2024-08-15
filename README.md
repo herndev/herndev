@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Call of Duty: Black Ops 6 Zombies: More Details on the Terminus Map, Systems, Equipment and More](https://news.xbox.com/en-us/2024/08/15/call-of-duty-black-ops-6-zombies-more-details/)
- - [Legacy Of Kain Collection Is Getting The Weirdest Port Ever](https://kotaku.com/legacy-kain-soul-reaver-port-ps5-pc-switch-evercade-1851623189)
- - [Why You Ought To Grab Final Fantasy VII Remake For Cheap While You Can](https://kotaku.com/final-fantasy-7-remake-sale-playstation-1851623183)<!-- GAME:END -->
+ - [Pikachu wants to keep you safe in this Pokémon-themed flight-safety video](https://www.polygon.com/news/440687/pokemon-flight-safety-video-ana-pikachu)
+ - [Call Of Duty&#39;s Ungodly Download Sizes Are Finally Getting Smaller](https://kotaku.com/call-duty-hq-black-ops-6-download-size-warzone-ps5-1851623319)
+ - [Humble’s latest games bundle is a trip through CRPG history](https://www.polygon.com/deals/440566/humble-crpg-bundle-warhammer-rogue-trader-deal-sale)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
