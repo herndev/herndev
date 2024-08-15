@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Engine oil in Solid form](http://9gag.com/gag/awyn03W)
- - ⏩ [Oj was og](http://9gag.com/gag/ayNLyrb)
- - 👉 [The full video](http://9gag.com/gag/aoy2b93)<!-- MEMES:END -->
+ - 💣 [Busty in black](http://9gag.com/gag/ayNDEjM)
+ - ⏩ [Was.](http://9gag.com/gag/aZZBGDX)
+ - 👉 [What?](http://9gag.com/gag/amoYNjd)<!-- MEMES:END -->
 
 ---
 
