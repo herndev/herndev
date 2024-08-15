@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Another great thing the muslims have contributed to the world. Defacing irrepressible ancient artworks!](http://9gag.com/gag/aKG2rR3)
- - ⏩ [Bro feel violated every year.. So anyway..](http://9gag.com/gag/aAydBRE)
- - 👉 [Engine oil in Solid form](http://9gag.com/gag/awyn03W)<!-- MEMES:END -->
+ - 💣 [That&#39;s how it is](http://9gag.com/gag/a9yrjEW)
+ - ⏩ [This guy has a lot of faith in science](http://9gag.com/gag/abA6jjB)
+ - 👉 [Looks like `RayGunn` has shot herself in the foot. New allegations that she cheated her way into the Olympics, even worked to deny funding to underprivileged youths to block them from qualifiers.](http://9gag.com/gag/azx8bBx)<!-- MEMES:END -->
 
 ---
 
