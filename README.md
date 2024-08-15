@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [New Zealand signs an extradition order for Kim Dotcom to the US, where he faces criminal charges related to Megaupload; Dotcom has fought extradition since 2012 &lpar;Reuters&rpar;](http://www.techmeme.com/240815/p9#a240815p9)
- - [Unit 42: open-source projects from Google, Microsoft, AWS, and others leaked GitHub auth tokens via GitHub Actions; GitHub decided not to address the risk &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/240815/p8#a240815p8)
- - [How University of California doctors used brain implants and AI to help an ALS patient speak again; the implants recognize words, and AI replicates his voice &lpar;Benjamin Mueller/New York Times&rpar;](http://www.techmeme.com/240815/p7#a240815p7)<!-- TECH:END -->
+ - [Google Pixel Watch 3 vs Pixel Watch: Should you upgrade?](https://www.androidauthority.com/google-pixel-watch-3-vs-pixel-watch-3471488/)
+ - [Kim Dotcom is being Megauploaded to the US for trial](https://www.theverge.com/2024/8/15/24220920/kim-dotcom-megaupload-us-extradition-trial)
+ - [JD.com reports Q2 net revenue up 1.2% YoY to ~$40.7B, vs. ~$40.9B est., and a ~$1.7B net income, boosted by aggressive price cuts and the 618 shopping event &lpar;Harshita Mary Varghese/Reuters&rpar;](http://www.techmeme.com/240815/p12#a240815p12)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
