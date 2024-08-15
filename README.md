@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The instructor got the nerve of steel.](http://9gag.com/gag/aPABy9Q)
- - ⏩ [What?](http://9gag.com/gag/amoYNjd)
- - 👉 [Beach volley was nice](http://9gag.com/gag/azx878m)<!-- MEMES:END -->
+ - 💣 [Dvd butter](http://9gag.com/gag/avyG0yn)
+ - ⏩ [Frock your Islamophobia.](http://9gag.com/gag/aZZmWPX)
+ - 👉 [What?](http://9gag.com/gag/amoYNjd)<!-- MEMES:END -->
 
 ---
 
