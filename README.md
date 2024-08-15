@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Daily struggle](http://9gag.com/gag/aPABw4g)
- - ⏩ [Dogs are just the best](http://9gag.com/gag/aLnDR25)
- - 👉 [Burger King employee slaps kid who was making a mess and makes him mop](http://9gag.com/gag/awy565Q)<!-- MEMES:END -->
+ - 💣 [Engine oil in Solid form](http://9gag.com/gag/awyn03W)
+ - ⏩ [Oj was og](http://9gag.com/gag/ayNLyrb)
+ - 👉 [The full video](http://9gag.com/gag/aoy2b93)<!-- MEMES:END -->
 
 ---
 
