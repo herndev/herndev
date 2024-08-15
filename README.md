@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Busty in black](http://9gag.com/gag/ayNDEjM)
- - ⏩ [Was.](http://9gag.com/gag/aZZBGDX)
- - 👉 [What?](http://9gag.com/gag/amoYNjd)<!-- MEMES:END -->
+ - 💣 [Engine oil in Solid form](http://9gag.com/gag/awyn03W)
+ - ⏩ [Burger King employee slaps kid who was making a mess and makes him mop](http://9gag.com/gag/awy565Q)
+ - 👉 [Busty in black](http://9gag.com/gag/ayNDEjM)<!-- MEMES:END -->
 
 ---
 
