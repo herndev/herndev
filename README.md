@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [A korean guy made a social experiment in Africa.](http://9gag.com/gag/aLnMYLv)
- - ⏩ [That&#39;s how it is](http://9gag.com/gag/a9yrjEW)
- - 👉 [The full video](http://9gag.com/gag/aoy2b93)<!-- MEMES:END -->
+ - 💣 [Daily struggle](http://9gag.com/gag/aPABw4g)
+ - ⏩ [Dogs are just the best](http://9gag.com/gag/aLnDR25)
+ - 👉 [Burger King employee slaps kid who was making a mess and makes him mop](http://9gag.com/gag/awy565Q)<!-- MEMES:END -->
 
 ---
 
