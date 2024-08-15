@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A profile of Chinese self-driving startup WeRide, which is set for a US IPO as soon as this week; PitchBook: WeRide has raised $1.4B and was last valued at ~$5B &lpar;Daisuke Wakabayashi/New York Times&rpar;](http://www.techmeme.com/240815/p4#a240815p4)
- - [It’s taken a while, but Gemini can now start Google Assistant Routines](https://www.androidauthority.com/gemini-start-google-assistant-routines-3471484/)
- - [Amsterdam-based payments giant Adyen reports H1 2024 net revenue up 24% YoY to &amp;euro;913.4M, vs. &amp;euro;908.9M est., and processed volume up 45% YoY to &amp;euro;619.5B &lpar;Sarah Jacob/Bloomberg&rpar;](http://www.techmeme.com/240815/p3#a240815p3)<!-- TECH:END -->
+ - [You’ve heard of Hold for Me, but Google’s next calling trick could work in reverse](https://www.androidauthority.com/google-ask-to-hold-phone-call-apk-teardown-3471915/)
+ - [A look at the rise in demand for data center technicians in the US; CompTIA says technicians&#39; pay is up 43% in the past three years to a median of $75,100 &lpar;Te-Ping Chen/Wall Street Journal&rpar;](http://www.techmeme.com/240815/p5#a240815p5)
+ - [AltStore PAL drops its paywall, lets users sideload iOS apps for free](https://www.androidauthority.com/altstore-pal-now-free-3471908/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
