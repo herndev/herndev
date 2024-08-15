@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Free Play Days – Hunt: Showdown 1896 and KEMCO RPG Selection Vol. 1](https://news.xbox.com/en-us/2024/08/15/free-play-days-hunt-showdown-1896-and-kemco-rpg-selection-vol-1/)
- - [Not sure what anime to watch? Leave a comment, we’ll help](https://www.polygon.com/anime/440426/not-sure-what-anime-to-watch-leave-a-comment-well-help)
- - [What’s this? What’s this?! The Nightmare Before Christmas Lego set](https://www.polygon.com/deals/440535/nightmare-before-christmas-lego-release-date-price)<!-- GAME:END -->
+ - [Dragon Age: The Veilguard to be released on Halloween](https://www.polygon.com/gaming/440347/dragon-age-the-veilguard-to-be-released-on-halloween)
+ - [Pre-Register for The Elder Scrolls: Castles, a New Mobile Game Launching September 12](https://bethesda.net/en/article/7rOeeoVoKtt0jZxICxS6W1/first-in-depth-look-at-the-elder-scrolls-castles-and-pre-registration/#new_tab)
+ - [The Very Best Indie Games To Play This Summer](https://kotaku.com/indie-games-vampire-therapist-arranger-schim-1851619416)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
