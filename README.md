@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [You can now use the Meta Quest as a screen for HDMI devices](https://www.theverge.com/2024/8/15/24221146/meta-quest-hdmi-link-app-displayport-usb-c)
- - [The San Francisco City Attorney David Chiu files a lawsuit that seeks to shut down 16 popular websites used to create nonconsensual deepfake pornography &lpar;Heather Knight/New York Times&rpar;](http://www.techmeme.com/240815/p26#a240815p26)
- - [Deal: The Moto G Play 2023 is just $100 right now!](https://www.androidauthority.com/moto-g-play-2023-deal-2-3454182/)<!-- TECH:END -->
+ - [Pixel Screenshots can’t be turned into a Microsoft Recall clone even if you try](https://www.androidauthority.com/pixel-screenshots-throttle-3472066/)
+ - [Save 35% on the larger Amazon Echo speaker, and get a free smart light](https://www.androidauthority.com/amazon-echo-and-smart-light-deal-3472098/)
+ - [Google will update Pixel phones to remove Verizon’s unsafe demo app](https://www.androidauthority.com/showcase-app-3472086/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
