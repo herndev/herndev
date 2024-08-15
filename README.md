@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [2024 is going to be the best year ever for factory games](https://www.pcgamer.com/games/sim/2024-is-going-to-be-the-best-year-ever-for-factory-games)
  - [Hyped Modern Warfare 2 Remastered Multiplayer Mod Killed One Day Before Launch](https://kotaku.com/mw2-h2m-mod-activision-cease-and-desist-killed-steam-pc-1851623649)
- - [Dragon Age: The Veilguard&#39;s latest trailer is the best showing the game&#39;s gotten yet—BioWare really should have led with this months ago](https://www.pcgamer.com/games/dragon-age/dragon-age-the-veilguards-latest-trailer-is-the-best-showing-the-games-gotten-yetbioware-really-should-have-led-with-this-months-ago)
- - [The next Stellaris expansion will let your space empires harness &#39;the majesty and menace&#39; of new cosmic storms, which I&#39;m sure can only go well](https://www.pcgamer.com/games/strategy/the-next-stellaris-expansion-will-let-your-space-empires-harness-the-majesty-and-menace-of-new-cosmic-storms-which-im-sure-can-only-go-well)<!-- GAME:END -->
+ - [Dragon Age: The Veilguard&#39;s latest trailer is the best showing the game&#39;s gotten yet—BioWare really should have led with this months ago](https://www.pcgamer.com/games/dragon-age/dragon-age-the-veilguards-latest-trailer-is-the-best-showing-the-games-gotten-yetbioware-really-should-have-led-with-this-months-ago)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
