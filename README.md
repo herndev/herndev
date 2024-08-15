@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [That&#39;s how it is](http://9gag.com/gag/a9yrjEW)
- - ⏩ [Taliban organised a parade to celebrate the third anniversary of its victory over the United States.](http://9gag.com/gag/aqyb9WZ)
- - 👉 [When you are offended but can&#39;t figure out why.](http://9gag.com/gag/aAywnA0)<!-- MEMES:END -->
+ - 💣 [In 1911, in the Royal Swedish Academy of Sciences, a historic moment happened as Marie Curie stepped forward to receive her second Nobel Prize, this time in Chemistry. As the first person to win Nobel Prizes in two different scientific fields.](http://9gag.com/gag/azx8EDm)
+ - ⏩ [Meticulous comparison](http://9gag.com/gag/a6Zbr08)
+ - 👉 [Bro is so called super biker](http://9gag.com/gag/a2vrPBE)<!-- MEMES:END -->
 
 ---
 
