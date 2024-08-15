@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [GitHub, the go-to site for open source software, is currently down](https://www.pcgamer.com/gaming-industry/github-is-down-august-14-2024)
- - [Steam&#39;s new &#39;Helpfulness&#39; system for user reviews is here to fix Steam&#39;s &#39;Helpful&#39; system for user reviews](https://www.pcgamer.com/games/steams-new-helpfulness-system-for-user-reviews-is-here-to-fix-steams-helpful-system-for-user-reviews)
- - [Persona 3 Reload producer dashes any remaining hopes for the return of Portable&#39;s female protagonist: &#39;It is likely never going to happen&#39;](https://www.pcgamer.com/games/rpg/persona-3-reload-producer-dashes-any-remaining-hopes-for-the-return-of-portables-female-protagonist-it-is-likely-never-going-to-happen)<!-- GAME:END -->
+ - [Today&#39;s Wordle answer for Thursday, August 15](https://www.pcgamer.com/games/puzzle/wordle-answer-today-august-15-2024)
+ - [Skyblivion shows off some gorgeous Oblivion locations and some boring Oblivion quests in its latest trailer](https://www.pcgamer.com/games/rpg/skyblivion-shows-off-some-gorgeous-oblivion-locations-and-some-boring-oblivion-quests-in-its-latest-trailer)
+ - [GitHub, the go-to site for open source software, is currently down](https://www.pcgamer.com/gaming-industry/github-is-down-august-14-2024)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
