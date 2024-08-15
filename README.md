@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Rivian’s new fold-and-stow electric kitchen lets you cook atop your tailgate](https://www.theverge.com/2024/8/15/24220583/rivian-travel-kitchen-accessory-induction-cooktop-camping)
- - [Dragon Age: The Veilguard launches this fall](https://www.theverge.com/2024/8/15/24220559/dragon-age-veilguard-release-date-trailer-gamescom)
- - [India says Apple is the fastest-growing firm in the country over the last 50 years](https://appleinsider.com/articles/24/08/15/india-says-apple-is-the-fastest-growing-firm-in-the-country-for-the-last-50-years?utm_medium=rss)<!-- TECH:END -->
+ - [Activision is finally doing something about Call of Duty’s giant downloads](https://www.theverge.com/2024/8/15/24221080/activision-call-of-duty-downloads-black-ops-6)
+ - [Threads is testing several new features like scheduling and analytics](https://www.theverge.com/2024/8/15/24220224/meta-threads-features-scheduling-insights-drafts)
+ - [Sennheiser’s heart-tracking ANC earbuds are almost $80 off](https://www.theverge.com/good-deals/2024/8/15/24220659/sennheiser-momentum-sport-earbuds-paper-mario-thousand-year-door-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
