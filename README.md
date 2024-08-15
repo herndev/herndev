@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The biggest WTF of the year](http://9gag.com/gag/a9yrbE1)
- - ⏩ [Beach volley was nice](http://9gag.com/gag/azx878m)
- - 👉 [Was.](http://9gag.com/gag/aZZBGDX)<!-- MEMES:END -->
+ - 💣 [Brits themselves own less than 50% of the UK](http://9gag.com/gag/arybeRV)
+ - ⏩ [Bro feel violated every year.. So anyway..](http://9gag.com/gag/aAydBRE)
+ - 👉 [What?](http://9gag.com/gag/amoYNjd)<!-- MEMES:END -->
 
 ---
 
