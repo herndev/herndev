@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Brits themselves own less than 50% of the UK](http://9gag.com/gag/arybeRV)
+ - 💣 [Another great thing the muslims have contributed to the world. Defacing irrepressible ancient artworks!](http://9gag.com/gag/aKG2rR3)
  - ⏩ [Bro feel violated every year.. So anyway..](http://9gag.com/gag/aAydBRE)
- - 👉 [What?](http://9gag.com/gag/amoYNjd)<!-- MEMES:END -->
+ - 👉 [Engine oil in Solid form](http://9gag.com/gag/awyn03W)<!-- MEMES:END -->
 
 ---
 
