@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Enjoy a Hefty 39% Discount on Anker Soundcore Space A40 Earbuds Today](https://www.cnet.com/deals/enjoy-a-hefty-39-discount-on-anker-soundcore-space-a40-earbuds-today/#ftag=CAD590a51e)
- - [Apple has a strange plan to power future Vision Pro with AirPods](https://appleinsider.com/articles/24/08/15/apple-has-a-strange-plan-to-power-future-vision-pro-with-airpods?utm_medium=rss)
- - [Refinance Activity Surges as Rates Fall. Today&#39;s Refi Rates, Aug. 15, 2024](https://www.cnet.com/personal-finance/refi-rates-dip-since-last-week-mortgage-refinance-rates-for-aug-15-2024/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple Card is still best in its customer satisfaction category for four straight years](https://appleinsider.com/articles/24/08/15/apple-card-is-still-best-in-its-customer-satisfaction-category-for-four-straight-years?utm_medium=rss)
+ - [Google’s controversial AI Overviews are making a big international expansion](https://www.androidauthority.com/ai-overviews-expansion-3471852/)
+ - [Apple collaborates with Kim Kardashian on limited-edition Beats Studio Pro](https://appleinsider.com/articles/24/08/15/apple-collaborates-with-kim-kardashian-on-limited-edition-beats-studio-pro?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
