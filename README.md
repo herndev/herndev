@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [T-Mobile’s data breach leads to record-breaking fine](https://www.androidauthority.com/t-mobile-data-breach-fine-3471984/)
- - [M4 MacBook Pro updates could be imminent with display shipments starting](https://appleinsider.com/articles/24/08/15/m4-macbook-pro-updates-could-be-imminent-with-display-shipments-starting?utm_medium=rss)
- - [Tether Was Playing a Risky Game, a New Celsius Suit Reveals](https://www.wired.com/story/tether-celsius-crypto-lawsuit-close-call/)<!-- TECH:END -->
+ - [Another blow to the US’ offshore wind ambitions](https://www.theverge.com/2024/8/15/24221100/us-offshore-wind-energy-orsted-project-delay-revolution)
+ - [OpenAI’s new voice mode threw me into the uncanny valley](https://www.theverge.com/2024/8/15/24220378/openai-advanced-voice-mode-uncanny-valley)
+ - [The best new streaming movies this week: Jackpot!, and more](https://www.androidauthority.com/best-new-streaming-movies-this-week-3083965/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
