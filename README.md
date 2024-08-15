@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Dragon Age: The Veilguard pre-order guide](https://www.polygon.com/pre-order/440713/dragon-age-the-veilguard-pre-order-guide)
- - [One Lone Nintendo Fan Has Been Keeping The 3DS Servers Alive For Months](https://kotaku.com/3ds-servers-offline-last-player-mario-kart-7-months-1851623578)
- - [Some of the world&#39;s biggest game companies are joining together to make us all look at this truly awful horse](https://www.pcgamer.com/games/some-of-the-worlds-biggest-game-companies-are-joining-together-to-make-us-all-look-at-this-truly-awful-horse)<!-- GAME:END -->
+ - [Hyped Modern Warfare 2 Remastered Multiplayer Mod Killed One Day Before Launch](https://kotaku.com/mw2-h2m-mod-activision-cease-and-desist-killed-steam-pc-1851623649)
+ - [Dragon Age: The Veilguard&#39;s latest trailer is the best showing the game&#39;s gotten yet—BioWare really should have led with this months ago](https://www.pcgamer.com/games/dragon-age/dragon-age-the-veilguards-latest-trailer-is-the-best-showing-the-games-gotten-yetbioware-really-should-have-led-with-this-months-ago)
+ - [The next Stellaris expansion will let your space empires harness &#39;the majesty and menace&#39; of new cosmic storms, which I&#39;m sure can only go well](https://www.pcgamer.com/games/strategy/the-next-stellaris-expansion-will-let-your-space-empires-harness-the-majesty-and-menace-of-new-cosmic-storms-which-im-sure-can-only-go-well)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
