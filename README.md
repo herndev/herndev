@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Plucky Squire launches on PS5 September 17 as part of PlayStation Plus Extra and Premium](https://blog.playstation.com/2024/08/15/plucky-squire-launches-on-ps5-september-17-as-part-of-playstation-plus-extra-and-premium/)
- - [All Along the Watchtower sets a murder mystery in the home of the Justice League](https://www.polygon.com/comics/439886/justice-league-murder-mystery-comic-all-along-the-watchtower-release)
- - [How To Master Hacking Terminals In Fallout 76](https://kotaku.com/fallout-76-hacking-minigame-guide-1851619315)<!-- GAME:END -->
+ - [Free Play Days – Hunt: Showdown 1896 and KEMCO RPG Selection Vol. 1](https://news.xbox.com/en-us/2024/08/15/free-play-days-hunt-showdown-1896-and-kemco-rpg-selection-vol-1/)
+ - [Not sure what anime to watch? Leave a comment, we’ll help](https://www.polygon.com/anime/440426/not-sure-what-anime-to-watch-leave-a-comment-well-help)
+ - [What’s this? What’s this?! The Nightmare Before Christmas Lego set](https://www.polygon.com/deals/440535/nightmare-before-christmas-lego-release-date-price)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
