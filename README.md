@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Dvd butter](http://9gag.com/gag/avyG0yn)
- - ⏩ [Frock your Islamophobia.](http://9gag.com/gag/aZZmWPX)
- - 👉 [What?](http://9gag.com/gag/amoYNjd)<!-- MEMES:END -->
+ - 💣 [Taliban organised a parade to celebrate the third anniversary of its victory over the United States.](http://9gag.com/gag/aqyb9WZ)
+ - ⏩ [Beach volley was nice](http://9gag.com/gag/azx878m)
+ - 👉 [Liz Truss leaves stage as lettuce banner unfurls](http://9gag.com/gag/aqybmwY)<!-- MEMES:END -->
 
 ---
 
