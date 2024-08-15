@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [A korean guy made a social experiment in Africa.](http://9gag.com/gag/aLnMYLv)
- - ⏩ [Beach volley was nice](http://9gag.com/gag/azx878m)
- - 👉 [Meticulous comparison](http://9gag.com/gag/a6Zbr08)<!-- MEMES:END -->
+ - 💣 [How to lose a guy in 5 minutes](http://9gag.com/gag/a4PbKmw)
+ - ⏩ [Faith in humanity restored](http://9gag.com/gag/a5QZmZV)
+ - 👉 [A korean guy made a social experiment in Africa.](http://9gag.com/gag/aLnMYLv)<!-- MEMES:END -->
 
 ---
 
