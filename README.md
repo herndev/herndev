@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Dragon Age: The Veilguard to be released on Halloween](https://www.polygon.com/gaming/440347/dragon-age-the-veilguard-to-be-released-on-halloween)
- - [Pre-Register for The Elder Scrolls: Castles, a New Mobile Game Launching September 12](https://bethesda.net/en/article/7rOeeoVoKtt0jZxICxS6W1/first-in-depth-look-at-the-elder-scrolls-castles-and-pre-registration/#new_tab)
- - [The Very Best Indie Games To Play This Summer](https://kotaku.com/indie-games-vampire-therapist-arranger-schim-1851619416)<!-- GAME:END -->
+ - [Call of Duty: Black Ops 6 Zombies: More Details on the Terminus Map, Systems, Equipment and More](https://news.xbox.com/en-us/2024/08/15/call-of-duty-black-ops-6-zombies-more-details/)
+ - [Legacy Of Kain Collection Is Getting The Weirdest Port Ever](https://kotaku.com/legacy-kain-soul-reaver-port-ps5-pc-switch-evercade-1851623189)
+ - [Why You Ought To Grab Final Fantasy VII Remake For Cheap While You Can](https://kotaku.com/final-fantasy-7-remake-sale-playstation-1851623183)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
