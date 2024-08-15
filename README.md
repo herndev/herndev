@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Taliban organised a parade to celebrate the third anniversary of its victory over the United States.](http://9gag.com/gag/aqyb9WZ)
- - ⏩ [Beach volley was nice](http://9gag.com/gag/azx878m)
- - 👉 [Liz Truss leaves stage as lettuce banner unfurls](http://9gag.com/gag/aqybmwY)<!-- MEMES:END -->
+ - 💣 [We live in a society](http://9gag.com/gag/aKGVgz3)
+ - ⏩ [The mouse was hungry](http://9gag.com/gag/a9yrdPZ)
+ - 👉 [Frock your Islamophobia.](http://9gag.com/gag/aZZmWPX)<!-- MEMES:END -->
 
 ---
 
