@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Another blow to the US’ offshore wind ambitions](https://www.theverge.com/2024/8/15/24221100/us-offshore-wind-energy-orsted-project-delay-revolution)
- - [OpenAI’s new voice mode threw me into the uncanny valley](https://www.theverge.com/2024/8/15/24220378/openai-advanced-voice-mode-uncanny-valley)
- - [The best new streaming movies this week: Jackpot!, and more](https://www.androidauthority.com/best-new-streaming-movies-this-week-3083965/)<!-- TECH:END -->
+ - [You can now use the Meta Quest as a screen for HDMI devices](https://www.theverge.com/2024/8/15/24221146/meta-quest-hdmi-link-app-displayport-usb-c)
+ - [The San Francisco City Attorney David Chiu files a lawsuit that seeks to shut down 16 popular websites used to create nonconsensual deepfake pornography &lpar;Heather Knight/New York Times&rpar;](http://www.techmeme.com/240815/p26#a240815p26)
+ - [Deal: The Moto G Play 2023 is just $100 right now!](https://www.androidauthority.com/moto-g-play-2023-deal-2-3454182/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
