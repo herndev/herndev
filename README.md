@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Engine oil in Solid form](http://9gag.com/gag/awyn03W)
- - ⏩ [Burger King employee slaps kid who was making a mess and makes him mop](http://9gag.com/gag/awy565Q)
- - 👉 [Busty in black](http://9gag.com/gag/ayNDEjM)<!-- MEMES:END -->
+ - 💣 [The biggest WTF of the year](http://9gag.com/gag/a9yrbE1)
+ - ⏩ [Beach volley was nice](http://9gag.com/gag/azx878m)
+ - 👉 [Was.](http://9gag.com/gag/aZZBGDX)<!-- MEMES:END -->
 
 ---
 
