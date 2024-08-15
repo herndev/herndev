@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [An interesting car wash](http://9gag.com/gag/aE0YvyK)
- - ⏩ [Teen wearing helmet and bulletproof vest livestreams stabbing rampage by mosque in Turkey.](http://9gag.com/gag/aXPqZ4z)
+ - 💣 [First Class Problems](http://9gag.com/gag/abApqgB)
+ - ⏩ [The instructor got the nerve of steel.](http://9gag.com/gag/aPABy9Q)
  - 👉 [Accident on the highway](http://9gag.com/gag/axyV2Ep)<!-- MEMES:END -->
 
 ---
