@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Caresyntax, which is building AI-powered surgical data analysis tools, raised a $180M Series C extension consisting of $80M in equity and $100M in debt &lpar;Kai Nicol-Schwarz/Sifted&rpar;](http://www.techmeme.com/240816/p12#a240816p12)
- - [iPhone users can play Fortnite again, but there’s a big catch](https://www.androidauthority.com/fortnite-returns-ios-eu-3472273/)
- - [Leak shows rumored bronze titanium iPhone 16 Pro](https://appleinsider.com/articles/24/08/16/leak-shows-rumored-bronze-titanium-iphone-16-pro?utm_medium=rss)<!-- TECH:END -->
+ - [Microsoft Phone Link finally sorts out Android file sharing](https://www.androidauthority.com/microsoft-phone-link-3472309/)
+ - [How to See the Conjunction Between Mars, Jupiter, and the Moon](https://www.wired.com/story/how-to-see-the-conjunction-between-mars-jupiter-and-the-moon-this-august/)
+ - [Anker’s speedy Qi2 charging stand is already 20 percent off](https://www.theverge.com/2024/8/16/24221166/anker-maggo-wireless-qi2-charger-breath-of-the-wild-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
