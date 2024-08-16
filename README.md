@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Bro is so called super biker](http://9gag.com/gag/a2vrPBE)
- - ⏩ [\u201cI need to rest.`](http://9gag.com/gag/aByWrm2)
- - 👉 [England, you\u2019re f**ked](http://9gag.com/gag/aZZmNLQ)<!-- MEMES:END -->
+ - 💣 [What a peach](http://9gag.com/gag/axyVGOM)
+ - ⏩ [Did you know snails like beer?](http://9gag.com/gag/avyGZ35)
+ - 👉 [MadeMeSmile](http://9gag.com/gag/abApy69)<!-- MEMES:END -->
 
 ---
 
