@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Something he hadn&#39;t thought of....](http://9gag.com/gag/aAydrBE)
- - ⏩ [Wait whaaat????](http://9gag.com/gag/aVvqXMn)
- - 👉 [That escalated quickly](http://9gag.com/gag/a34qBvN)<!-- MEMES:END -->
+ - 💣 [9/11 call confession](http://9gag.com/gag/agmLvmg)
+ - ⏩ [They call it land mine cleaner](http://9gag.com/gag/aryb4PK)
+ - 👉 [Too big!](http://9gag.com/gag/axyVZQp)<!-- MEMES:END -->
 
 ---
 
