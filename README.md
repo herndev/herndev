@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Exoborne is making the extraction shooter less punishing, and taking storytelling notes from Hades](https://www.pcgamer.com/games/third-person-shooter/how-exoborne-is-making-extraction-shooters-less-punishing-and-taking-storytelling-notes-from-hades)
- - [The spiritual successor to old school pick-up-and-play Call of Duty Zombies is out now, on sale for $10 and gloriously free of battle pass nonsense](https://www.pcgamer.com/games/fps/if-you-have-friends-you-want-to-play-fpses-with-but-theyre-allergic-to-battle-pass-this-is-your-life-now-nonsense-my-go-to-cod-zombies-alike-just-released-out-of-early-access-and-is-on-sale-for-dollar10)
- - [PowerWash Simulator meets Pulp Fiction in this first-person scrubber where you clean up after horrific murders](https://www.pcgamer.com/games/sim/powerwash-simulator-meets-pulp-fiction-in-this-first-person-scrubber-where-you-clean-up-after-horrific-murders)<!-- GAME:END -->
+ - [Summer Spotlight: Celebrating the More Than 200 New Games Released on Xbox This Season](https://news.xbox.com/en-us/2024/08/16/summer-spotlight-more-than-200-new-games/)
+ - [Sorcerers were doing too much magic for Diablo 4&#39;s servers to handle, so Blizzard nerfed their most popular build](https://www.pcgamer.com/games/rpg/sorcerers-were-doing-too-much-magic-for-diablo-4s-servers-to-handle-so-blizzard-nerfed-their-most-popular-build)
+ - [Pokémon Go Twitch drop times for 2024 Pokémon World Championships codes](https://www.polygon.com/pokemon-go-guide/440559/twitch-drops-codes-times-partner-streams-world-championships)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
