@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google’s head of Pixel 9 design won’t apologize for its big, beautiful camera bump](https://www.theverge.com/24220359/google-pixel-9-camera-bar-small-phones-claude-zellweger-interview)
- - [What Is Gemini Live and How Do You Use It?](https://www.wired.com/story/what-is-gemini-live/)
- - [Banshee Stealer malware haunts browser extensions on macOS](https://appleinsider.com/articles/24/08/16/banshee-stealer-malware-haunts-browser-extensions-on-macos?utm_medium=rss)<!-- TECH:END -->
+ - [Circle to Search is learning to handle your full-screen queries &lpar;APK teardown&rpar;](https://www.androidauthority.com/circle-to-search-full-screen-3472342/)
+ - [Apple warns of February store changes for EU developers, authors](https://appleinsider.com/articles/24/08/16/apple-warns-of-february-store-changes-for-eu-developers-authors?utm_medium=rss)
+ - [AT&amp;T and Verizon call foul on SpaceX and T-Mobile’s satellite service plans](https://www.androidauthority.com/atnt-verizon-spacex-fcc-complaint-3472333/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
