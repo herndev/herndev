@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Fortnite’s back on iPhone with launch of mobile Epic Games Store in EU](https://www.polygon.com/news/440891/fortnites-back-on-iphone-with-launch-of-mobile-epic-games-store-in-eu)
- - [Dragon Age: The Veilguard has a $150 &#39;edition&#39; that doesn&#39;t actually include the game, though you do get 22 inches of Rook&#39;s shiny blade](https://www.pcgamer.com/games/rpg/dragon-age-the-veilguard-has-a-150-edition-that-doesn-t-actually-include-the-game-though-you-do-get-22-inches-of-rook-s-shiny-blade)
- - [The FTC is banning fake reviews, false testimonials and all sorts of shady consumer deception with an ominous sounding &#39;final rule&#39;](https://www.pcgamer.com/hardware/the-ftc-is-banning-fake-reviews-and-testimonials-with-an-ominous-sounding-final-rule)<!-- GAME:END -->
+ - [Leaked Intel Arrow Lake CPU benchmarks show generational performance regression but that might not be the whole story](https://www.pcgamer.com/hardware/processors/leaked-intel-arrow-lake-cpu-benchmarks-show-generational-performance-regression-but-that-might-not-be-the-whole-story)
+ - [Many of Epic&#39;s exclusivity deals were &#39;not good investments,&#39; says Tim Sweeney, but the free games program &#39;has been just magical&#39;](https://www.pcgamer.com/gaming-industry/many-of-epics-exclusivity-deals-were-not-good-investments-says-tim-sweeney-but-the-free-games-program-has-been-just-magical)
+ - [Epic CEO Tim Sweeney accuses Apple of &#39;malicious compliance&#39; as Fortnite finally returns to iOS, but only in Europe and with a convoluted install process](https://www.pcgamer.com/gaming-industry/epic-ceo-tim-sweeney-accuses-apple-of-malicious-compliance-as-fortnite-finally-returns-to-ios-but-only-in-europe-and-with-a-convoluted-install-process)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
