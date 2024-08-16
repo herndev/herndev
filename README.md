@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [What part of &#39;He jumped out the plane&#39; do you not comprehend?](http://9gag.com/gag/aXPq9qz)
- - ⏩ [Turn back UK, Don&#39;t go into the shadows.](http://9gag.com/gag/aQz9402)
+ - 💣 [Watch out there fellows, they are getting smarter](http://9gag.com/gag/aGy1DDK)
+ - ⏩ [20-point buck spotted in the wild](http://9gag.com/gag/aYQxeLq)
  - 👉 [Letting the squad in on the show. Who can relate?](http://9gag.com/gag/aNDAZRA)<!-- MEMES:END -->
 
 ---
