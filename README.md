@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The 4DX Movie Renaissance Is Upon Us, And It’s Fascinating](https://kotaku.com/4dx-theater-movie-near-me-twisters-regal-interview-1851624287)
- - [What are the new map and weapon loot pool changes in Fortnite Chapter 5 Season 4?](https://www.polygon.com/fortnite-guide/441177/chapter-5-season-4-map-weapon-pool-vaulted-changes-c5s4)
- - [How To Get The Legendary Weapon Shattered Grounds In Fallout 76](https://kotaku.com/fallout-76-legendary-weapon-shattered-grounds-guide-1851619608)<!-- GAME:END -->
+ - [Best lighting kits for gaming](https://www.polygon.com/what-to-buy/24216170/best-lighting-kits-rgb-gaming)
+ - [How to get the Katalina ‘Mobile App Bonus Goals’ skin on Fortnite iOS and Android](https://www.polygon.com/fortnite-guide/441148/mobile-app-bonus-goals-ios-android-katakina)
+ - [Rogue One Will Be A &#39;Different&#39; Movie After Andor Season 2, Says Diego Luna](https://kotaku.com/andor-season-2-rogue-one-k2so-luna-interview-teaser-tv-1851624333)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
