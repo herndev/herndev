@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Japan will apply foreign trade regulations to chipmaking equipment, which will require foreign investors to give prior notice when conducting direct investment &lpar;Bloomberg&rpar;](http://www.techmeme.com/240815/p34#a240815p34)
- - [Fortnite’s next Marvel season features a whole lot of Doctor Doom](https://www.theverge.com/2024/8/15/24221374/fortnite-marvel-absolute-doctor-doom)
- - [Understanding Apple&#39;s on-device and server foundation models](https://appleinsider.com/articles/24/08/16/understanding-apples-on-device-and-server-foundation-models?utm_medium=rss)<!-- TECH:END -->
+ - [Danish officials say Margrethe Vestager, known for hitting Big Tech with multibillion-euro fines, is not being considered as EU antitrust chief for a third term &lpar;Financial Times&rpar;](http://www.techmeme.com/240816/p1#a240816p1)
+ - [Google’s wearable lineup looks impressive after the Pixel Watch 3’s launch](https://www.androidauthority.com/google-impressive-wearable-lineup-3472160/)
+ - [Best Outdoor Smart Plugs for 2024](https://www.cnet.com/home/smart-home/best-outdoor-smart-plugs/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
