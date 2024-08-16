@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Pixel chief says ‘very few’ Pixel users are coming from Samsung phones](https://www.androidauthority.com/few-google-pixel-users-coming-samsung-3471904/)
- - [Chainalysis: the value of crypto hacks increased by ~84% to $1.58B in the first seven months of 2024, likely due in large part to the rise in crypto prices &lpar;Suvashree Ghosh/Bloomberg&rpar;](http://www.techmeme.com/240816/p2#a240816p2)
- - [Danish officials say Margrethe Vestager, known for hitting Big Tech with multibillion-euro fines, is not being considered as EU antitrust chief for a third term &lpar;Financial Times&rpar;](http://www.techmeme.com/240816/p1#a240816p1)<!-- TECH:END -->
+ - [Google is preparing a major update for the Chromecast with Google TV](https://www.androidauthority.com/chromecast-with-google-tv-android-14-3472136/)
+ - [You can’t buy the OG Pixel Fold, but that will change soon](https://www.androidauthority.com/pixel-fold-comeback-3472186/)
+ - [Appfigures: consumers spent $3.8B on entertainment apps for mobile devices worldwide in Q1 2024, including $2.1B on streaming apps and $0.9B on short video apps &lpar;Janko Roettgers/Lowpass&rpar;](http://www.techmeme.com/240816/p3#a240816p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
