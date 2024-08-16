@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Next Week on Xbox: New Games for August 19 to 23](https://news.xbox.com/en-us/2024/08/16/next-week-on-xbox-new-games-for-august-19-to-23-2/)
- - [Black Myth: Wukong is an epic saga that’s both confounding and spectacular to behold](https://www.polygon.com/review/440941/black-myth-wukong-review)
- - [About half—50 in total—of Hi-Fi Rush developer Tango Gameworks&#39; staff will be taken on by new publisher Krafton](https://www.pcgamer.com/gaming-industry/about-half-50-in-total-of-hi-fi-rush-developer-tango-gameworks-staff-will-be-taken-on-by-new-publisher-krafton)<!-- GAME:END -->
+ - [When does Doctor Doom release in Fortnite Chapter 5 Season 4?](https://www.polygon.com/fortnite-guide/440881/doctor-doom-release-date-skin)
+ - [Genshin Impact version 5.0 livestream codes](https://www.polygon.com/genshin-impact-guides/440653/5-0-livestream-version-patch-codes-primogems-redeem)
+ - [Disney Says ‘X-Men ’97’ Creator Fired For Misconduct After He Blames Gay Pride Post For Loss Of Season 2 Credits](https://kotaku.com/x-men-97-beau-demayo-fired-disney-plus-misconduct-1851624094)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
