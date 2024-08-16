@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Black Myth: Wukong review roundup: &#39;An interesting and exciting reimagining&#39;](https://www.pcgamer.com/games/rpg/black-myth-wukong-review-roundup-an-interesting-and-exciting-reimagining)
- - [Madison Beer says Dress to Impress healed her — she has a point](https://www.polygon.com/culture/440808/madison-beer-dress-to-impress-roblox)
- - [Deadpool &amp; Wolverine Is Now The Most Successful R-Rated Movie Ever Made](https://kotaku.com/deadpool-wolverine-joker-box-office-record-r-rated-1851624482)<!-- GAME:END -->
+ - [Black Myth: Wukong Sounds Like A Pretty, But Repetitive And Buggy, Action Game](https://kotaku.com/black-myth-wukong-pc-ps5-review-round-up-is-it-good-1851624656)
+ - [Snag The Entire Far Cry Series On The Cheap This Weekend](https://kotaku.com/far-cry-series-sale-steam-1851624668)
+ - [Neo-Victorian survival sim Nightingale is getting &#39;handcrafted realms,&#39; more boss fights, and an all-new campaign in a major update coming later this summer](https://www.pcgamer.com/games/survival-crafting/neo-victorian-survival-sim-nightingale-is-getting-handcrafted-realms-more-boss-fights-and-an-all-new-campaign-in-a-major-update-coming-later-this-summer)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
