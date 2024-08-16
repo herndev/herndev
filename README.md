@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Trajectory trick shot in breath of fire](http://9gag.com/gag/ae9bpxq)
- - ⏩ [20-point buck spotted in the wild](http://9gag.com/gag/aYQxeLq)
- - 👉 [That escalated quickly](http://9gag.com/gag/a34qBvN)<!-- MEMES:END -->
+ - 💣 [Too big!](http://9gag.com/gag/axyVZQp)
+ - ⏩ [9/11 call confession](http://9gag.com/gag/agmLvmg)
+ - 👉 [20-point buck spotted in the wild](http://9gag.com/gag/aYQxeLq)<!-- MEMES:END -->
 
 ---
 
