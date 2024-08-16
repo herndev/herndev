@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [In 1911, in the Royal Swedish Academy of Sciences, a historic moment happened as Marie Curie stepped forward to receive her second Nobel Prize, this time in Chemistry. As the first person to win Nobel Prizes in two different scientific fields.](http://9gag.com/gag/azx8EDm)
+ - 💣 [Bro is so called super biker](http://9gag.com/gag/a2vrPBE)
  - ⏩ [Meticulous comparison](http://9gag.com/gag/a6Zbr08)
- - 👉 [Bro is so called super biker](http://9gag.com/gag/a2vrPBE)<!-- MEMES:END -->
+ - 👉 [England, you\u2019re f**ked](http://9gag.com/gag/aZZmNLQ)<!-- MEMES:END -->
 
 ---
 
