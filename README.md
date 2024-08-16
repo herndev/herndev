@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Leaked Intel Arrow Lake CPU benchmarks show generational performance regression but that might not be the whole story](https://www.pcgamer.com/hardware/processors/leaked-intel-arrow-lake-cpu-benchmarks-show-generational-performance-regression-but-that-might-not-be-the-whole-story)
- - [Many of Epic&#39;s exclusivity deals were &#39;not good investments,&#39; says Tim Sweeney, but the free games program &#39;has been just magical&#39;](https://www.pcgamer.com/gaming-industry/many-of-epics-exclusivity-deals-were-not-good-investments-says-tim-sweeney-but-the-free-games-program-has-been-just-magical)
- - [Epic CEO Tim Sweeney accuses Apple of &#39;malicious compliance&#39; as Fortnite finally returns to iOS, but only in Europe and with a convoluted install process](https://www.pcgamer.com/gaming-industry/epic-ceo-tim-sweeney-accuses-apple-of-malicious-compliance-as-fortnite-finally-returns-to-ios-but-only-in-europe-and-with-a-convoluted-install-process)<!-- GAME:END -->
+ - [SteamWorld Heist 2&#39;s new job system lets you experiment with building your own custom classes—and you&#39;re not allowed to judge me for making a completely unfair sniper that can scrap a whole squad with one shot](https://www.pcgamer.com/games/strategy/steamworld-heist-2-s-new-job-system-lets-you-experiment-with-building-your-own-custom-classes-and-you-re-not-allowed-to-judge-me-for-making-a-completely-unfair-sniper-that-can-scrap-a-whole-squad-with-one-shot)
+ - [You can get 650 hours of classic RPG in Humble&#39;s latest bundle, featuring original Baldur&#39;s Gate, Pathfinder, and Warhammer 40K: Rogue Trader](https://www.pcgamer.com/games/baldurs-gate/you-can-get-650-hours-of-classic-rpg-in-humbles-latest-bundle-featuring-original-baldurs-gate-pathfinder-and-warhammer-40k-rogue-trader)
+ - [Pokémon Go Twitch drop times for 2024 Pokémon World Championships codes](https://www.polygon.com/pokemon-go-guide/440559/twitch-drops-codes-times-partner-streams-world-championships)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
