@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to hide apps on Google Pixel phones with Private Space](https://www.androidauthority.com/hide-apps-google-pixel-phones-3456145/)
- - [Epic Games Store goes live for EU iPhone users](https://appleinsider.com/articles/24/08/16/epic-games-store-goes-live-for-eu-iphone-users?utm_medium=rss)
- - [How to Set Up Your New Android Phone &lpar;2024&rpar;](https://www.wired.com/story/how-to-set-up-your-new-android-phone/)<!-- TECH:END -->
+ - [Ikea’s stock-counting warehouse drones will fly alongside workers in the US](https://www.theverge.com/2024/8/16/24221688/ikea-drones-us-warehouse)
+ - [Kamala Harris&#39; Brat Summer Is Almost Over. What&#39;s Next?](https://www.wired.com/story/kamala-harris-social-media-brat/)
+ - [Hottest Toys of 2024](https://www.cnet.com/culture/entertainment/hottest-toys/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
