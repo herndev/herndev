@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [All Genshin Impact codes from the 5.0 livestream](https://www.pcgamer.com/games/rpg/genshin-impact-codes-5-0-livestream)
  - [Full details on Marvel x Fortnite Battle Royale Chapter 5 Season 4: Absolute Doom, live today](https://blog.playstation.com/2024/08/15/full-details-on-marvel-x-fortnite-battle-royale-chapter-5-season-4-absolute-doom-live-today/)
- - [Today&#39;s Wordle answer for Friday, August 16](https://www.pcgamer.com/games/puzzle/wordle-answer-today-august-16-2024)
- - [To hell with resale value, Magic: The Gathering is better when you bust out a permanent marker and draw on the cards](https://www.pcgamer.com/games/card-games/to-hell-with-resale-value-magic-the-gathering-is-better-when-you-bust-out-a-permanent-marker-and-draw-on-the-cards)<!-- GAME:END -->
+ - [Full details on Marvel x Fortnite Battle Royale Chapter 5 Season 4: Absolute Doom, live today](https://blog.playstation.com/2024/08/15/full-details-on-marvel-x-fortnite-battle-royale-chapter-5-season-4-absolute-doom-live-today/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
