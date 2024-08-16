@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Summer Spotlight: Celebrating the More Than 200 New Games Released on Xbox This Season](https://news.xbox.com/en-us/2024/08/16/summer-spotlight-more-than-200-new-games/)
- - [Sorcerers were doing too much magic for Diablo 4&#39;s servers to handle, so Blizzard nerfed their most popular build](https://www.pcgamer.com/games/rpg/sorcerers-were-doing-too-much-magic-for-diablo-4s-servers-to-handle-so-blizzard-nerfed-their-most-popular-build)
- - [Pokémon Go Twitch drop times for 2024 Pokémon World Championships codes](https://www.polygon.com/pokemon-go-guide/440559/twitch-drops-codes-times-partner-streams-world-championships)<!-- GAME:END -->
+ - [Twisters, Netflix’s The Union, and every movie new to streaming this week](https://www.polygon.com/movies/440083/twisters-netflixs-the-union-and-every-movie-new-to-streaming-this-week)
+ - [Arena Breakout: Infinite is a snack-sized Tarkov I can&#39;t stop playing, but has some awful monetisation](https://www.pcgamer.com/games/fps/arena-breakout-infinite-is-a-lightweight-tarkov-clone-thats-fun-to-play-but-has-some-awful-monetisation)
+ - [Summer Spotlight: Celebrating the More Than 200 New Games Released on Xbox This Season](https://news.xbox.com/en-us/2024/08/16/summer-spotlight-more-than-200-new-games/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
