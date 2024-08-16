@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple iPhone 16 rumors: Everything we know so far and what we want to see](https://www.androidauthority.com/apple-iphone-16-3368121/)
- - [Google is giving the Pixel Thermometer app some long-overdue attention](https://www.androidauthority.com/pixel-thermometer-update-3472430/)
- - [Google threatened tech influencers unless they ‘preferred’ the Pixel](https://www.theverge.com/2024/8/16/24221755/google-team-pixel-reviews-influencers)<!-- TECH:END -->
+ - [Here’s how Google Chrome could implement Lens translations](https://www.androidauthority.com/chrome-image-translation-3472455/)
+ - [Google says it &quot;missed the mark&quot; after leaked screenshots showed a Team Pixel program agreement threatened influencers who didn&#39;t showcase the Pixel over rivals &lpar;Victoria Song/The Verge&rpar;](http://www.techmeme.com/240816/p19#a240816p19)
+ - [Give Your Body Morning Sunlight for a Better Night&#39;s Sleep](https://www.cnet.com/health/sleep/morning-sunlight-improved-my-sleep/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
