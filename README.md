@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Bro is so called super biker](http://9gag.com/gag/a2vrPBE)
- - ⏩ [Meticulous comparison](http://9gag.com/gag/a6Zbr08)
- - 👉 [England, you\u2019re f**ked](http://9gag.com/gag/aZZmNLQ)<!-- MEMES:END -->
+ - 💣 [First Class Problems](http://9gag.com/gag/abApqgB)
+ - ⏩ [Vampire](http://9gag.com/gag/a6Zbyy2)
+ - 👉 [Get a tattoo that your friends choose](http://9gag.com/gag/aByW3ZD)<!-- MEMES:END -->
 
 ---
 
