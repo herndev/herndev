@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Won but at what cost](http://9gag.com/gag/ae9bG8B)
- - ⏩ [What part of &#39;He jumped out the plane&#39; do you not comprehend?](http://9gag.com/gag/aXPq9qz)
- - 👉 [Letting the squad in on the show. Who can relate?](http://9gag.com/gag/aNDAZRA)<!-- MEMES:END -->
+ - 💣 [Kind Man Leaves Ice Water For The Foxes](http://9gag.com/gag/aByW1N1)
+ - ⏩ [Gymnast by day, helps parents in the restaurant by night](http://9gag.com/gag/aO8zVLy)
+ - 👉 [Why are there no gifts under the tree yet?](http://9gag.com/gag/aGy1x8n)<!-- MEMES:END -->
 
 ---
 
