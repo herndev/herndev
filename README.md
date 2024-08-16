@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Revolut secures a $45B valuation, up from $33B during a 2021 fundraising, in a share sale by employees; the sale was led by Coatue and D1 Capital Partners &lpar;Akila Quinio/Financial Times&rpar;](http://www.techmeme.com/240816/p5#a240816p5)
- - [Huawei tri-fold foldable spotted in the wild again, and it’s thinner than you expect](https://www.androidauthority.com/huaweis-tri-fold-foldable-image-thinner-3472197/)
- - [Microsoft PowerToys will launch and automatically arrange your favorite apps](https://www.theverge.com/2024/8/16/24221639/microsoft-powertoys-workspaces-feature-demo)<!-- TECH:END -->
+ - [Google Wallet will support California IDs in the coming weeks](https://www.androidauthority.com/google-wallet-california-id-3472202/)
+ - [Why Did Samsung Take Control of My Banking App? Inside Android’s ‘Clobbering’ Dilemma](https://www.wired.com/story/android-clobbering-app-store/)
+ - [AI-powered ‘undressing’ websites are getting sued](https://www.theverge.com/2024/8/16/24221651/ai-deepfake-nude-undressing-websites-lawsuit-sanfrancisco)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
