@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Imagine being a white childless man in the UK paying high income tax so Muhammad can have his 7th kid with Fatima.](http://9gag.com/gag/aqybNYL)
- - ⏩ [Oii, listen!](http://9gag.com/gag/arybe6d)
- - 👉 [Vampire](http://9gag.com/gag/a6Zbyy2)<!-- MEMES:END -->
+ - 💣 [Thanks for choosing Air Somalia!](http://9gag.com/gag/a9yrd2o)
+ - ⏩ [God is scared of what he has created.](http://9gag.com/gag/azx8L8j)
+ - 👉 [MadeMeSmile](http://9gag.com/gag/abApy69)<!-- MEMES:END -->
 
 ---
 
