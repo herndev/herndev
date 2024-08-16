@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [First Class Problems](http://9gag.com/gag/abApqgB)
- - ⏩ [Vampire](http://9gag.com/gag/a6Zbyy2)
- - 👉 [Get a tattoo that your friends choose](http://9gag.com/gag/aByW3ZD)<!-- MEMES:END -->
+ - 💣 [The secret ingredient to qualify for Olympic is crime](http://9gag.com/gag/a7or5Me)
+ - ⏩ [My brain at 2am when I&#39;m trying to sleep](http://9gag.com/gag/a7oryGw)
+ - 👉 [Wait whaaat????](http://9gag.com/gag/aVvqXMn)<!-- MEMES:END -->
 
 ---
 
