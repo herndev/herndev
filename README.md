@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Nature, you scary!](http://9gag.com/gag/avyGpmZ)
- - ⏩ [Taliban organised a parade to celebrate the third anniversary of its victory over the United States.](http://9gag.com/gag/aqyb9WZ)
- - 👉 [MadeMeSmile](http://9gag.com/gag/abApy69)<!-- MEMES:END -->
+ - 💣 [Overqualified](http://9gag.com/gag/aZZmN9W)
+ - ⏩ [MadeMeSmile](http://9gag.com/gag/abApy69)
+ - 👉 [The instructor got the nerve of steel.](http://9gag.com/gag/aPABy9Q)<!-- MEMES:END -->
 
 ---
 
