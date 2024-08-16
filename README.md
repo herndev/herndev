@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Best lighting kits for gaming](https://www.polygon.com/what-to-buy/24216170/best-lighting-kits-rgb-gaming)
- - [How to get the Katalina ‘Mobile App Bonus Goals’ skin on Fortnite iOS and Android](https://www.polygon.com/fortnite-guide/441148/mobile-app-bonus-goals-ios-android-katakina)
- - [Rogue One Will Be A &#39;Different&#39; Movie After Andor Season 2, Says Diego Luna](https://kotaku.com/andor-season-2-rogue-one-k2so-luna-interview-teaser-tv-1851624333)<!-- GAME:END -->
+ - [Deadpool &amp; Wolverine Is Now The Most Successful R-Rated Movie Ever Made](https://kotaku.com/deadpool-wolverine-joker-box-office-record-r-rated-1851624482)
+ - [Hey look, Morrigan’s back in Dragon Age: The Veilguard](https://www.polygon.com/gaming/441234/dragon-age-the-veilguard-morrigan-back-who)
+ - [Hunt: Showdown enjoys highest-ever player count after 1896 update, but player complaints about UI are pushing down its Steam review score: &#39;I&#39;ve never seen such a bizarre reaction to so much amazing content&#39;](https://www.pcgamer.com/games/fps/hunt-showdown-enjoys-highest-ever-player-count-after-1896-update-but-player-complaints-about-ui-are-pushing-down-its-steam-review-score-ive-never-seen-such-a-bizarre-reaction-to-so-much-amazing-content)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
