@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Overqualified](http://9gag.com/gag/aZZmN9W)
- - ⏩ [Trajectory trick shot in breath of fire](http://9gag.com/gag/ae9bpxq)
- - 👉 [That escalated quickly](http://9gag.com/gag/a34qBvN)<!-- MEMES:END -->
+ - 💣 [Watch out there fellows, they are getting smarter](http://9gag.com/gag/aGy1DDK)
+ - ⏩ [Gymnast by day, helps parents in the restaurant by night](http://9gag.com/gag/aO8zVLy)
+ - 👉 [Letting the squad in on the show. Who can relate?](http://9gag.com/gag/aNDAZRA)<!-- MEMES:END -->
 
 ---
 
