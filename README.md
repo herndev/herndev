@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Understanding Apple&#39;s on-device and server foundation models](https://appleinsider.com/articles/24/08/16/understanding-apples-on-device-and-server-foundation-models?utm_medium=rss)
- - [Court filing: TikTok says DOJ misstated its ties to China, made factual errors in the case, and the divestment law would strip TikTok of its free speech rights &lpar;Jody Godoy/Reuters&rpar;](http://www.techmeme.com/240815/p33#a240815p33)
- - [Oura Advisor hands-on: A useful tool with high potential](https://www.androidauthority.com/oura-advisor-hands-on-3472107/)<!-- TECH:END -->
+ - [Japan will apply foreign trade regulations to chipmaking equipment, which will require foreign investors to give prior notice when conducting direct investment &lpar;Bloomberg&rpar;](http://www.techmeme.com/240815/p34#a240815p34)
+ - [Fortnite’s next Marvel season features a whole lot of Doctor Doom](https://www.theverge.com/2024/8/15/24221374/fortnite-marvel-absolute-doctor-doom)
+ - [Understanding Apple&#39;s on-device and server foundation models](https://appleinsider.com/articles/24/08/16/understanding-apples-on-device-and-server-foundation-models?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
