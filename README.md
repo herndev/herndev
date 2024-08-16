@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Did you know snails like beer?](http://9gag.com/gag/avyGZ35)
+ - 💣 [Overqualified](http://9gag.com/gag/aZZmN9W)
  - ⏩ [Trajectory trick shot in breath of fire](http://9gag.com/gag/ae9bpxq)
- - 👉 [20-point buck spotted in the wild](http://9gag.com/gag/aYQxeLq)<!-- MEMES:END -->
+ - 👉 [That escalated quickly](http://9gag.com/gag/a34qBvN)<!-- MEMES:END -->
 
 ---
 
