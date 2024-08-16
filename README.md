@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Kind Man Leaves Ice Water For The Foxes](http://9gag.com/gag/aByW1N1)
- - ⏩ [Gymnast by day, helps parents in the restaurant by night](http://9gag.com/gag/aO8zVLy)
- - 👉 [Why are there no gifts under the tree yet?](http://9gag.com/gag/aGy1x8n)<!-- MEMES:END -->
+ - 💣 [First day on the job](http://9gag.com/gag/aXPq9gg)
+ - ⏩ [Too big!](http://9gag.com/gag/axyVZQp)
+ - 👉 [Solid 3, 9gager in the wild](http://9gag.com/gag/a6ZbMy2)<!-- MEMES:END -->
 
 ---
 
