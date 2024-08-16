@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google is preparing a major update for the Chromecast with Google TV](https://www.androidauthority.com/chromecast-with-google-tv-android-14-3472136/)
- - [You can’t buy the OG Pixel Fold, but that will change soon](https://www.androidauthority.com/pixel-fold-comeback-3472186/)
- - [Appfigures: consumers spent $3.8B on entertainment apps for mobile devices worldwide in Q1 2024, including $2.1B on streaming apps and $0.9B on short video apps &lpar;Janko Roettgers/Lowpass&rpar;](http://www.techmeme.com/240816/p3#a240816p3)<!-- TECH:END -->
+ - [Revolut secures a $45B valuation, up from $33B during a 2021 fundraising, in a share sale by employees; the sale was led by Coatue and D1 Capital Partners &lpar;Akila Quinio/Financial Times&rpar;](http://www.techmeme.com/240816/p5#a240816p5)
+ - [Huawei tri-fold foldable spotted in the wild again, and it’s thinner than you expect](https://www.androidauthority.com/huaweis-tri-fold-foldable-image-thinner-3472197/)
+ - [Microsoft PowerToys will launch and automatically arrange your favorite apps](https://www.theverge.com/2024/8/16/24221639/microsoft-powertoys-workspaces-feature-demo)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
