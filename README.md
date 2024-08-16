@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Watch out there fellows, they are getting smarter](http://9gag.com/gag/aGy1DDK)
- - ⏩ [Gymnast by day, helps parents in the restaurant by night](http://9gag.com/gag/aO8zVLy)
+ - 💣 [Won but at what cost](http://9gag.com/gag/ae9bG8B)
+ - ⏩ [What part of &#39;He jumped out the plane&#39; do you not comprehend?](http://9gag.com/gag/aXPq9qz)
  - 👉 [Letting the squad in on the show. Who can relate?](http://9gag.com/gag/aNDAZRA)<!-- MEMES:END -->
 
 ---
