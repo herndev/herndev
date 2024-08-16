@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Deadpool &amp; Wolverine Is Now The Most Successful R-Rated Movie Ever Made](https://kotaku.com/deadpool-wolverine-joker-box-office-record-r-rated-1851624482)
- - [Hey look, Morrigan’s back in Dragon Age: The Veilguard](https://www.polygon.com/gaming/441234/dragon-age-the-veilguard-morrigan-back-who)
- - [Hunt: Showdown enjoys highest-ever player count after 1896 update, but player complaints about UI are pushing down its Steam review score: &#39;I&#39;ve never seen such a bizarre reaction to so much amazing content&#39;](https://www.pcgamer.com/games/fps/hunt-showdown-enjoys-highest-ever-player-count-after-1896-update-but-player-complaints-about-ui-are-pushing-down-its-steam-review-score-ive-never-seen-such-a-bizarre-reaction-to-so-much-amazing-content)<!-- GAME:END -->
+ - [Black Myth: Wukong review roundup: &#39;An interesting and exciting reimagining&#39;](https://www.pcgamer.com/games/rpg/black-myth-wukong-review-roundup-an-interesting-and-exciting-reimagining)
+ - [Madison Beer says Dress to Impress healed her — she has a point](https://www.polygon.com/culture/440808/madison-beer-dress-to-impress-roblox)
+ - [Deadpool &amp; Wolverine Is Now The Most Successful R-Rated Movie Ever Made](https://kotaku.com/deadpool-wolverine-joker-box-office-record-r-rated-1851624482)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
