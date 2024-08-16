@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [To hell with resale value, Magic: The Gathering is better when you bust out a permanent marker and draw on the cards](https://www.pcgamer.com/games/card-games/to-hell-with-resale-value-magic-the-gathering-is-better-when-you-bust-out-a-permanent-marker-and-draw-on-the-cards)
- - [Get ready for Nicolas Cage to do an incredible John Madden voice in a biopic about his life and the videogame](https://www.pcgamer.com/gaming-industry/get-ready-for-nicolas-cage-to-do-an-incredible-john-madden-voice-in-a-biopic-about-his-life-and-the-videogame)
- - [Dragon Age: The Veilguard is bringing back the heinously ugly original sin of preorder/digital deluxe cosmetics, but I&#39;m weirdly nostalgic for it now](https://www.pcgamer.com/games/dragon-age/dragon-age-the-veilguard-is-bringing-back-the-heinously-ugly-original-sin-of-preorderdigital-deluxe-cosmetics-but-im-weirdly-nostalgic-for-it-now)<!-- GAME:END -->
+ - [Full details on Marvel x Fortnite Battle Royale Chapter 5 Season 4: Absolute Doom, live today](https://blog.playstation.com/2024/08/15/full-details-on-marvel-x-fortnite-battle-royale-chapter-5-season-4-absolute-doom-live-today/)
+ - [Today&#39;s Wordle answer for Friday, August 16](https://www.pcgamer.com/games/puzzle/wordle-answer-today-august-16-2024)
+ - [To hell with resale value, Magic: The Gathering is better when you bust out a permanent marker and draw on the cards](https://www.pcgamer.com/games/card-games/to-hell-with-resale-value-magic-the-gathering-is-better-when-you-bust-out-a-permanent-marker-and-draw-on-the-cards)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
