@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Can someone tell me why?](http://9gag.com/gag/aW4m6Qn)
- - ⏩ [That escalated quickly](http://9gag.com/gag/a34qBvN)
- - 👉 [Taliban organised a parade to celebrate the third anniversary of its victory over the United States.](http://9gag.com/gag/aqyb9WZ)<!-- MEMES:END -->
+ - 💣 [Imagine being a white childless man in the UK paying high income tax so Muhammad can have his 7th kid with Fatima.](http://9gag.com/gag/aqybNYL)
+ - ⏩ [Oii, listen!](http://9gag.com/gag/arybe6d)
+ - 👉 [Vampire](http://9gag.com/gag/a6Zbyy2)<!-- MEMES:END -->
 
 ---
 
