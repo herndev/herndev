@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Save $100 on the gorgeous, portable, and capable BenQ GS50 projector](https://www.androidauthority.com/benq-gs50-outdoor-projector-deal-3472398/)
- - [A US appeals court largely upholds a ruling blocking the California Age-Appropriate Design Code Act, finding parts of the law likely violate the First Amendment &lpar;Cristiano Lima-Strong/Washington Post&rpar;](http://www.techmeme.com/240816/p18#a240816p18)
- - [Court blocks Disney-Fox-WBD sports streaming bundle](https://www.theverge.com/2024/8/16/24222035/venu-sports-disney-fox-wbd-blocked-court-antitrust)<!-- TECH:END -->
+ - [Apple iPhone 16 rumors: Everything we know so far and what we want to see](https://www.androidauthority.com/apple-iphone-16-3368121/)
+ - [Google is giving the Pixel Thermometer app some long-overdue attention](https://www.androidauthority.com/pixel-thermometer-update-3472430/)
+ - [Google threatened tech influencers unless they ‘preferred’ the Pixel](https://www.theverge.com/2024/8/16/24221755/google-team-pixel-reviews-influencers)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
