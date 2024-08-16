@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Who&#39;s Your Most Hateable Villain?](http://9gag.com/gag/aYQxNbq)
- - ⏩ [Liz Truss leaves stage as lettuce banner unfurls](http://9gag.com/gag/aqybmwY)
- - 👉 [Did you know snails like beer?](http://9gag.com/gag/avyGZ35)<!-- MEMES:END -->
+ - 💣 [Nature, you scary!](http://9gag.com/gag/avyGpmZ)
+ - ⏩ [Taliban organised a parade to celebrate the third anniversary of its victory over the United States.](http://9gag.com/gag/aqyb9WZ)
+ - 👉 [MadeMeSmile](http://9gag.com/gag/abApy69)<!-- MEMES:END -->
 
 ---
 
