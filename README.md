@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [All Genshin Impact codes from the 5.0 livestream](https://www.pcgamer.com/games/rpg/genshin-impact-codes-5-0-livestream)
- - [Full details on Marvel x Fortnite Battle Royale Chapter 5 Season 4: Absolute Doom, live today](https://blog.playstation.com/2024/08/15/full-details-on-marvel-x-fortnite-battle-royale-chapter-5-season-4-absolute-doom-live-today/)
- - [Full details on Marvel x Fortnite Battle Royale Chapter 5 Season 4: Absolute Doom, live today](https://blog.playstation.com/2024/08/15/full-details-on-marvel-x-fortnite-battle-royale-chapter-5-season-4-absolute-doom-live-today/)<!-- GAME:END -->
+ - [Fortnite’s back on iPhone with launch of mobile Epic Games Store in EU](https://www.polygon.com/news/440891/fortnites-back-on-iphone-with-launch-of-mobile-epic-games-store-in-eu)
+ - [Dragon Age: The Veilguard has a $150 &#39;edition&#39; that doesn&#39;t actually include the game, though you do get 22 inches of Rook&#39;s shiny blade](https://www.pcgamer.com/games/rpg/dragon-age-the-veilguard-has-a-150-edition-that-doesn-t-actually-include-the-game-though-you-do-get-22-inches-of-rook-s-shiny-blade)
+ - [The FTC is banning fake reviews, false testimonials and all sorts of shady consumer deception with an ominous sounding &#39;final rule&#39;](https://www.pcgamer.com/hardware/the-ftc-is-banning-fake-reviews-and-testimonials-with-an-ominous-sounding-final-rule)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
