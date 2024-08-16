@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [SteamWorld Heist 2&#39;s new job system lets you experiment with building your own custom classes—and you&#39;re not allowed to judge me for making a completely unfair sniper that can scrap a whole squad with one shot](https://www.pcgamer.com/games/strategy/steamworld-heist-2-s-new-job-system-lets-you-experiment-with-building-your-own-custom-classes-and-you-re-not-allowed-to-judge-me-for-making-a-completely-unfair-sniper-that-can-scrap-a-whole-squad-with-one-shot)
- - [You can get 650 hours of classic RPG in Humble&#39;s latest bundle, featuring original Baldur&#39;s Gate, Pathfinder, and Warhammer 40K: Rogue Trader](https://www.pcgamer.com/games/baldurs-gate/you-can-get-650-hours-of-classic-rpg-in-humbles-latest-bundle-featuring-original-baldurs-gate-pathfinder-and-warhammer-40k-rogue-trader)
- - [Pokémon Go Twitch drop times for 2024 Pokémon World Championships codes](https://www.polygon.com/pokemon-go-guide/440559/twitch-drops-codes-times-partner-streams-world-championships)<!-- GAME:END -->
+ - [Next Week on Xbox: New Games for August 19 to 23](https://news.xbox.com/en-us/2024/08/16/next-week-on-xbox-new-games-for-august-19-to-23-2/)
+ - [Black Myth: Wukong is an epic saga that’s both confounding and spectacular to behold](https://www.polygon.com/review/440941/black-myth-wukong-review)
+ - [About half—50 in total—of Hi-Fi Rush developer Tango Gameworks&#39; staff will be taken on by new publisher Krafton](https://www.pcgamer.com/gaming-industry/about-half-50-in-total-of-hi-fi-rush-developer-tango-gameworks-staff-will-be-taken-on-by-new-publisher-krafton)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
