@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Primate Labs releases Geekbench AI 1.0, formerly Geekbench ML, to test CPU, GPU, and NPU performance, available on Android, iOS, and desktop &lpar;Andrew Cunningham/Ars Technica&rpar;](http://www.techmeme.com/240815/p32#a240815p32)
- - [Lincoln’s massive digital dash fits right into the new Navigator](https://www.theverge.com/2024/8/15/24221242/lincoln-navigator-2025-panoramic-display-digital-dashboard)
- - [Binance resumes services in India, after completing registration with India&#39;s Financial Intelligence Unit, which imposed a ~$2.2M fine on Binance in June 2024 &lpar;Jamie Crawley/CoinDesk&rpar;](http://www.techmeme.com/240815/p31#a240815p31)<!-- TECH:END -->
+ - [Understanding Apple&#39;s on-device and server foundation models](https://appleinsider.com/articles/24/08/16/understanding-apples-on-device-and-server-foundation-models?utm_medium=rss)
+ - [Court filing: TikTok says DOJ misstated its ties to China, made factual errors in the case, and the divestment law would strip TikTok of its free speech rights &lpar;Jody Godoy/Reuters&rpar;](http://www.techmeme.com/240815/p33#a240815p33)
+ - [Oura Advisor hands-on: A useful tool with high potential](https://www.androidauthority.com/oura-advisor-hands-on-3472107/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
