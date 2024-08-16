@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Black Myth: Wukong Sounds Like A Pretty, But Repetitive And Buggy, Action Game](https://kotaku.com/black-myth-wukong-pc-ps5-review-round-up-is-it-good-1851624656)
- - [Snag The Entire Far Cry Series On The Cheap This Weekend](https://kotaku.com/far-cry-series-sale-steam-1851624668)
- - [Neo-Victorian survival sim Nightingale is getting &#39;handcrafted realms,&#39; more boss fights, and an all-new campaign in a major update coming later this summer](https://www.pcgamer.com/games/survival-crafting/neo-victorian-survival-sim-nightingale-is-getting-handcrafted-realms-more-boss-fights-and-an-all-new-campaign-in-a-major-update-coming-later-this-summer)<!-- GAME:END -->
+ - [Exoborne is making the extraction shooter less punishing, and taking storytelling notes from Hades](https://www.pcgamer.com/games/third-person-shooter/how-exoborne-is-making-extraction-shooters-less-punishing-and-taking-storytelling-notes-from-hades)
+ - [The spiritual successor to old school pick-up-and-play Call of Duty Zombies is out now, on sale for $10 and gloriously free of battle pass nonsense](https://www.pcgamer.com/games/fps/if-you-have-friends-you-want-to-play-fpses-with-but-theyre-allergic-to-battle-pass-this-is-your-life-now-nonsense-my-go-to-cod-zombies-alike-just-released-out-of-early-access-and-is-on-sale-for-dollar10)
+ - [PowerWash Simulator meets Pulp Fiction in this first-person scrubber where you clean up after horrific murders](https://www.pcgamer.com/games/sim/powerwash-simulator-meets-pulp-fiction-in-this-first-person-scrubber-where-you-clean-up-after-horrific-murders)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
