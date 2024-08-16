@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [9/11 call confession](http://9gag.com/gag/agmLvmg)
- - ⏩ [They call it land mine cleaner](http://9gag.com/gag/aryb4PK)
- - 👉 [Too big!](http://9gag.com/gag/axyVZQp)<!-- MEMES:END -->
+ - 💣 [\u201cI need to rest.`](http://9gag.com/gag/aByWrm2)
+ - ⏩ [This tradition is dying late.. It must not. 9gaggers..njoi your Friday!](http://9gag.com/gag/an7bNK5)
+ - 👉 [What part of &#39;He jumped out the plane&#39; do you not comprehend?](http://9gag.com/gag/aXPq9qz)<!-- MEMES:END -->
 
 ---
 
