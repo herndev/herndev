@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Chainalysis: the value of crypto hacks increased by ~84% to $1.58B in the first seven months of 2024, likely due in large part to the rise in crypto prices &lpar;Suvashree Ghosh/Bloomberg&rpar;](http://www.techmeme.com/240816/p2#a240816p2)
  - [Danish officials say Margrethe Vestager, known for hitting Big Tech with multibillion-euro fines, is not being considered as EU antitrust chief for a third term &lpar;Financial Times&rpar;](http://www.techmeme.com/240816/p1#a240816p1)
- - [Google’s wearable lineup looks impressive after the Pixel Watch 3’s launch](https://www.androidauthority.com/google-impressive-wearable-lineup-3472160/)
- - [Best Outdoor Smart Plugs for 2024](https://www.cnet.com/home/smart-home/best-outdoor-smart-plugs/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Google’s wearable lineup looks impressive after the Pixel Watch 3’s launch](https://www.androidauthority.com/google-impressive-wearable-lineup-3472160/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
