@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [2024 is going to be the best year ever for factory games](https://www.pcgamer.com/games/sim/2024-is-going-to-be-the-best-year-ever-for-factory-games)
- - [Hyped Modern Warfare 2 Remastered Multiplayer Mod Killed One Day Before Launch](https://kotaku.com/mw2-h2m-mod-activision-cease-and-desist-killed-steam-pc-1851623649)
- - [Dragon Age: The Veilguard&#39;s latest trailer is the best showing the game&#39;s gotten yet—BioWare really should have led with this months ago](https://www.pcgamer.com/games/dragon-age/dragon-age-the-veilguards-latest-trailer-is-the-best-showing-the-games-gotten-yetbioware-really-should-have-led-with-this-months-ago)<!-- GAME:END -->
+ - [Get ready for Nicolas Cage to do an incredible John Madden voice in a biopic about his life and the videogame](https://www.pcgamer.com/gaming-industry/get-ready-for-nicolas-cage-to-do-an-incredible-john-madden-voice-in-a-biopic-about-his-life-and-the-videogame)
+ - [Dragon Age: The Veilguard is bringing back the heinously ugly original sin of preorder/digital deluxe cosmetics, but I&#39;m weirdly nostalgic for it now](https://www.pcgamer.com/games/dragon-age/dragon-age-the-veilguard-is-bringing-back-the-heinously-ugly-original-sin-of-preorderdigital-deluxe-cosmetics-but-im-weirdly-nostalgic-for-it-now)
+ - [2024 is the best year we&#39;ve ever had for factory games](https://www.pcgamer.com/games/sim/2024-is-going-to-be-the-best-year-ever-for-factory-games)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
