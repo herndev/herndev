@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Circle to Search is learning to handle your full-screen queries &lpar;APK teardown&rpar;](https://www.androidauthority.com/circle-to-search-full-screen-3472342/)
- - [Apple warns of February store changes for EU developers, authors](https://appleinsider.com/articles/24/08/16/apple-warns-of-february-store-changes-for-eu-developers-authors?utm_medium=rss)
- - [AT&amp;T and Verizon call foul on SpaceX and T-Mobile’s satellite service plans](https://www.androidauthority.com/atnt-verizon-spacex-fcc-complaint-3472333/)<!-- TECH:END -->
+ - [OpenAI removed a cluster of Iranian accounts using ChatGPT for an influence campaign targeting the US elections, and says the effort didn&#39;t gain much traction &lpar;Cade Metz/New York Times&rpar;](http://www.techmeme.com/240816/p16#a240816p16)
+ - [A key part of California’s online safety law for kids is still on hold after appeals court ruling](https://www.theverge.com/2024/8/16/24221907/california-age-appropriate-design-code-appeals-court-preliminary-injunction-netchoice)
+ - [Pixel 9 Pro phones get Video Boost upgrades, but the one that costs $1,800 doesn’t get them all](https://www.androidauthority.com/pixel-9-pro-xl-video-boost-3469849/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
