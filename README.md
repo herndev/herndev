@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [When does Doctor Doom release in Fortnite Chapter 5 Season 4?](https://www.polygon.com/fortnite-guide/440881/doctor-doom-release-date-skin)
- - [Genshin Impact version 5.0 livestream codes](https://www.polygon.com/genshin-impact-guides/440653/5-0-livestream-version-patch-codes-primogems-redeem)
- - [Disney Says ‘X-Men ’97’ Creator Fired For Misconduct After He Blames Gay Pride Post For Loss Of Season 2 Credits](https://kotaku.com/x-men-97-beau-demayo-fired-disney-plus-misconduct-1851624094)<!-- GAME:END -->
+ - [The 4DX Movie Renaissance Is Upon Us, And It’s Fascinating](https://kotaku.com/4dx-theater-movie-near-me-twisters-regal-interview-1851624287)
+ - [What are the new map and weapon loot pool changes in Fortnite Chapter 5 Season 4?](https://www.polygon.com/fortnite-guide/441177/chapter-5-season-4-map-weapon-pool-vaulted-changes-c5s4)
+ - [How To Get The Legendary Weapon Shattered Grounds In Fallout 76](https://kotaku.com/fallout-76-legendary-weapon-shattered-grounds-guide-1851619608)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
