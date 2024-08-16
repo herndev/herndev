@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Wallet will support California IDs in the coming weeks](https://www.androidauthority.com/google-wallet-california-id-3472202/)
- - [Why Did Samsung Take Control of My Banking App? Inside Android’s ‘Clobbering’ Dilemma](https://www.wired.com/story/android-clobbering-app-store/)
- - [AI-powered ‘undressing’ websites are getting sued](https://www.theverge.com/2024/8/16/24221651/ai-deepfake-nude-undressing-websites-lawsuit-sanfrancisco)<!-- TECH:END -->
+ - [Leak shows rumored bronze titanium iPhone 16 Pro](https://appleinsider.com/articles/24/08/16/leak-shows-rumored-bronze-titanium-iphone-16-pro?utm_medium=rss)
+ - [Epic confirms that the Epic Games Store is available to download on Android devices worldwide, in addition to iPhones in the EU &lpar;Taylor Lyles/IGN&rpar;](http://www.techmeme.com/240816/p9#a240816p9)
+ - [Leak: The Galaxy S25 Ultra could be dead, long live the Galaxy S25 Note](https://www.androidauthority.com/samsung-galaxy-s25-plus-ultra-note-pro-3472224/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
