@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [What a peach](http://9gag.com/gag/axyVGOM)
- - ⏩ [Did you know snails like beer?](http://9gag.com/gag/avyGZ35)
- - 👉 [MadeMeSmile](http://9gag.com/gag/abApy69)<!-- MEMES:END -->
+ - 💣 [Who&#39;s Your Most Hateable Villain?](http://9gag.com/gag/aYQxNbq)
+ - ⏩ [Liz Truss leaves stage as lettuce banner unfurls](http://9gag.com/gag/aqybmwY)
+ - 👉 [Did you know snails like beer?](http://9gag.com/gag/avyGZ35)<!-- MEMES:END -->
 
 ---
 
