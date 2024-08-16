@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [OpenAI removed a cluster of Iranian accounts using ChatGPT for an influence campaign targeting the US elections, and says the effort didn&#39;t gain much traction &lpar;Cade Metz/New York Times&rpar;](http://www.techmeme.com/240816/p16#a240816p16)
- - [A key part of California’s online safety law for kids is still on hold after appeals court ruling](https://www.theverge.com/2024/8/16/24221907/california-age-appropriate-design-code-appeals-court-preliminary-injunction-netchoice)
- - [Pixel 9 Pro phones get Video Boost upgrades, but the one that costs $1,800 doesn’t get them all](https://www.androidauthority.com/pixel-9-pro-xl-video-boost-3469849/)<!-- TECH:END -->
+ - [Acura’s Performance EV concept looks like an angry sport boat](https://www.theverge.com/2024/8/16/24221912/acura-performance-ev-concept-honda-electric-platform)
+ - [Let this tiny bean bag chair for your lap hold your heavy handhelds](https://www.theverge.com/2024/8/16/24221940/gaming-pillow-handhelds-consoles-hands-free)
+ - [Apple Intelligence vs Google AI, plus an iPad Robot on the AppleInsider Podcast](https://appleinsider.com/articles/24/08/16/apple-intelligence-vs-google-ai-plus-an-ipad-robot-on-the-appleinsider-podcast?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
