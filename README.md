@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Thanks for choosing Air Somalia!](http://9gag.com/gag/a9yrd2o)
- - ⏩ [God is scared of what he has created.](http://9gag.com/gag/azx8L8j)
- - 👉 [MadeMeSmile](http://9gag.com/gag/abApy69)<!-- MEMES:END -->
+ - 💣 [Something he hadn&#39;t thought of....](http://9gag.com/gag/aAydrBE)
+ - ⏩ [Wait whaaat????](http://9gag.com/gag/aVvqXMn)
+ - 👉 [That escalated quickly](http://9gag.com/gag/a34qBvN)<!-- MEMES:END -->
 
 ---
 
