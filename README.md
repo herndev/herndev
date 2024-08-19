@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [iPhone 16 Pro Max leak shows off new gold-like bronze color &lpar;Update: Desert Titanium&rpar;](https://www.androidauthority.com/iphone-16-pro-max-leak-gold-like-color-3472229/)
  - [Age of Empires Mobile is coming to Android and iOS in October](https://www.androidauthority.com/age-of-empires-mobile-october-launch-3472356/)
- - [FOI docs: water consumption by data centers in Virginia, home to world&#39;s largest cluster of data centers, reached 1.85B+ gallons in 2023, up from 1.13B in 2019 &lpar;Camilla Hodgson/Financial Times&rpar;](http://www.techmeme.com/240818/p8#a240818p8)
- - [Best Prescription Delivery Services: Amazon, CVS, PillPack and More](https://www.cnet.com/health/medical/best-prescription-delivery-services/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Today&#39;s NYT Connections Hints, Answers and Help for Aug. 19 #435](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-aug-19-435/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
