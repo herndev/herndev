@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Waymo unveils its cheaper &quot;generation 6&quot; self-driving tech that&#39;s integrated with Geely Zeekr vehicles, with 13 cameras and 4 lidar sensors, down from 29 and 5 &lpar;CNBC&rpar;](http://www.techmeme.com/240819/p10#a240819p10)
- - [Snapdragon 8 Gen 4 could prioritize efficiency over raw CPU performance](https://www.androidauthority.com/snapdragon-8-gen-4-leak-3472699/)
- - [Trump Shares AI-Generated Images Claiming Swifties Are Supporting Him](https://www.wired.com/story/trump-shares-ai-generated-taylor-swift/)<!-- TECH:END -->
+ - [Climate Change’s Latest Deadly Killer: Lightning Strikes](https://www.wired.com/story/thunder-lightning-strike-deaths-india/)
+ - [You’ll need to teach this $16,000 humanoid robot how to make breakfast](https://www.theverge.com/2024/8/19/24223629/unitree-g1-robot-humanoid-price-release)
+ - [Procreate tells users, &#39;AI is not our future&#39;](https://appleinsider.com/articles/24/08/19/procreate-tells-users-ai-is-not-our-future?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
