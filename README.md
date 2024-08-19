@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ticketmaster’s nontransferrable ‘SafeTix’ are anti-competitive, DOJ suit claims](https://www.theverge.com/2024/8/19/24223774/ticketmaster-safetix-doj-antitrust-lawsuit-10-states-join)
- - [Apple Podcasts can now be heard on the web without a separate app](https://appleinsider.com/articles/24/08/19/apple-podcasts-can-now-be-heard-on-the-web-without-a-separate-app?utm_medium=rss)
- - [Waymo’s new robotaxi will feature fewer sensors to help lower costs](https://www.theverge.com/2024/8/19/24223655/waymos-new-robotaxi-will-feature-fewer-sensors-to-help-lower-costs)<!-- TECH:END -->
+ - [Samsung August 2024 security update rolling out to S23 FE, Flip 5, and more](https://www.androidauthority.com/sasmung-august-2024-flip-5-s23fe-3472820/)
+ - [Do we know enough about the health risks of new semiconductor factories?](https://www.theverge.com/2024/8/19/24214415/labor-unions-environmental-review-semiconductor-manufacturing-biden-commerce)
+ - [Save 20% on Eco-Friendly Rocketbook Planners, Notebooks and More With Sitewide Labor Day Deals](https://www.cnet.com/deals/save-20-on-eco-friendly-rocketbook-planners-notebooks-and-more-with-sitewide-labor-day-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
