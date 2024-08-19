@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [9 hour 14 lane jam after burning man festival in Nevada, USA](http://9gag.com/gag/agmLXoq)
- - ⏩ [Dress to impress](http://9gag.com/gag/azx81mp)
- - 👉 [People standing where electricity is about to strike](http://9gag.com/gag/aZZm3Yp)<!-- MEMES:END -->
+ - 💣 [Isn&#39;t it ?](http://9gag.com/gag/a2vroMD)
+ - ⏩ [9 hour 14 lane jam after burning man festival in Nevada, USA](http://9gag.com/gag/agmLXoq)
+ - 👉 [Mohammed from Egypt wants to abuse a 13 year old British girl but is caught by British patriots. Mohammed does not want to go to jail and says: `Call the Home Office. Alhamdulillah, I am Muslim!\u201d](http://9gag.com/gag/aE0YPe9)<!-- MEMES:END -->
 
 ---
 
