@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Can Mankey be shiny in Pokémon Go?](https://www.polygon.com/pokemon-go-guide/23869026/can-mankey-be-shiny-primeape)
- - [What You Need To Know About Armor Sets In 7 Days To Die](https://kotaku.com/7-days-to-die-crafting-armor-sets-guide-1851625310)
- - [Surprise, Final Fantasy 16 Arrives On PC Soon And Already Has A Free Demo](https://kotaku.com/ff16-final-fantasy-16-free-demo-pc-port-date-steam-epic-1851625840)<!-- GAME:END -->
+ - [This $250 Sonic X Shadow Generations Collector’s Edition Looks Dope](https://kotaku.com/sonic-x-shadow-generations-collectors-edition-limited-1851625995)
+ - [How to watch Gamescom Opening Night Live and what to expect](https://www.polygon.com/news/441518/how-to-watch-gamescom-opening-night-live-and-what-to-expect)
+ - [9 Games That Were Supposed To Come Out This Year But Were Delayed To 2025](https://kotaku.com/release-date-delay-avowed-jurassic-park-terminator-1851621171)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
