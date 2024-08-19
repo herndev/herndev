@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Raspberry Pi 5 gets a cheaper 2GB option](https://www.theverge.com/2024/8/19/24223494/raspberry-pi-5-cheaper-2gb-option)
- - [Lamborghini’s first EV is nearly ready — but are we?](https://www.theverge.com/2024/8/19/24223478/lamborghini-temerario-supercar-plugin-hybrid-ev-specs)
- - [Girls In Tech, Women Who Code, and other groups that aimed to diversify Silicon Valley are closing or rebranding to stay afloat, as critics attack DEI efforts &lpar;Washington Post&rpar;](http://www.techmeme.com/240819/p6#a240819p6)<!-- TECH:END -->
+ - [Apple shares how college students use Mac &amp; iPad as they head back to campus](https://appleinsider.com/articles/24/08/19/apple-shares-how-college-students-use-mac-ipad-as-they-head-back-to-campus?utm_medium=rss)
+ - [You can finally enable astro mode manually on Pixels, and here’s how to do it](https://www.androidauthority.com/google-pixel-manual-activate-astrophotography-mode-3472651/)
+ - [WhatsApp is developing two features to help declutter your inbox](https://www.androidauthority.com/whatsapp-features-declutter-inbox-3472648/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
