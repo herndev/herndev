@@ -48,7 +48,7 @@
 <!-- MEMES:START -->
  - 💣 [Now that\u2019s a big pile of s#it!](http://9gag.com/gag/a9yrnLZ)
  - ⏩ [What in the redneck is this !??](http://9gag.com/gag/an7bb60)
- - 👉 [You know](http://9gag.com/gag/azx89dq)<!-- MEMES:END -->
+ - 👉 [No wrong choices please](http://9gag.com/gag/amoYB0o)<!-- MEMES:END -->
 
 ---
 
