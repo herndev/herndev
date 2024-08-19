@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Twisters, Netflix’s The Union, and every movie new to streaming this week](https://www.polygon.com/movies/440083/twisters-netflixs-the-union-and-every-movie-new-to-streaming-this-week)
- - [Arena Breakout: Infinite is a snack-sized Tarkov I can&#39;t stop playing, but has some awful monetisation](https://www.pcgamer.com/games/fps/arena-breakout-infinite-is-a-lightweight-tarkov-clone-thats-fun-to-play-but-has-some-awful-monetisation)
- - [Summer Spotlight: Celebrating the More Than 200 New Games Released on Xbox This Season](https://news.xbox.com/en-us/2024/08/16/summer-spotlight-more-than-200-new-games/)<!-- GAME:END -->
+ - [According to a creator of the ambitious H2M Modern Warfare 2 mod shuttered by Activision, the multi-billion dollar corporation was worried the free project would disrupt Black Ops 6&#39;s sales](https://www.pcgamer.com/games/call-of-duty/according-to-a-creator-of-the-ambitious-h2m-modern-warfare-2-mod-shuttered-by-activision-the-multi-billion-dollar-corporation-was-worried-the-free-project-would-disrupt-black-ops-6-s-sales)
+ - [What to watch on Peacock now that the Olympics are over](https://www.polygon.com/what-to-watch/440831/best-shows-movies-peacock-olympics)
+ - [Alien: Romulus: The Kotaku Review](https://kotaku.com/alien-romulus-movie-review-timeline-reddit-4dx-1851625237)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
