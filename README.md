@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Plane door close and final checks\u2026](http://9gag.com/gag/ajPX5WR)
- - ⏩ [Isn&#39;t it ?](http://9gag.com/gag/a2vroMD)
- - 👉 [Have a nice day everyone](http://9gag.com/gag/a6ZbO0A)<!-- MEMES:END -->
+ - 💣 [Mother and child with poliosis, a hereditary white streak in their hair](http://9gag.com/gag/a34qQM1)
+ - ⏩ [POS streamer catcalls underage daughter, angry dad snaps](http://9gag.com/gag/arybG5V)
+ - 👉 [Nuclear powered cat](http://9gag.com/gag/awynnP1)<!-- MEMES:END -->
 
 ---
 
