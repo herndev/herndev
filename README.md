@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [What a big horse](http://9gag.com/gag/aVvqwV2)
- - ⏩ [Dress to impress](http://9gag.com/gag/azx81mp)
+ - 💣 [Renamed after 14 years, great...](http://9gag.com/gag/aZZmLq9)
+ - ⏩ [No wrong choices please](http://9gag.com/gag/amoYB0o)
  - 👉 [#RIP Alain Delon](http://9gag.com/gag/aqybgwp)<!-- MEMES:END -->
 
 ---
