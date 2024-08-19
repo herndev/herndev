@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Today is your last chance to save on Paramount Plus before its next price hike](https://www.theverge.com/2024/8/19/24221262/paramount-plus-essential-showtime-new-returning-subscriber-deal-sale)
- - [Google says the Pixel 9 series ‘supports’ Qi2 charging, but with one big drawback &lpar;Developing&rpar;](https://www.androidauthority.com/pixel-9-qi2-support-3472829/)
- - [Need an outdoor TV? Samsung’s The Terrace is $1,000 off!](https://www.androidauthority.com/samsung-the-terrace-deal-3472397/)<!-- TECH:END -->
+ - [Google Search gives ‘Search Personalization’ a makeover &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-search-personalization-redesign-3472843/)
+ - [Anova will start charging a subscription fee for its sous vide companion app](https://www.theverge.com/2024/8/19/24223878/anova-sous-vide-kitchen-app-subscription)
+ - [Turtle Beach’s new Stealth 700 gaming headset has two USB dongles](https://www.theverge.com/2024/8/19/24223821/turtle-beach-stealth-700-gen3-headset-playstation-xbox-pc-steam-price-specs)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
