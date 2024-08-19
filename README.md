@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [32 Best Family Board Games &lpar;2024&rpar;: Catan, Labyrinth, Onitama](https://www.wired.com/gallery/best-family-board-games/)
- - [How to Watch the 2024 Summer Paralympics: Streaming Schedule, Free Options](https://www.wired.com/story/how-to-watch-the-2024-paris-summer-paralympics/)
- - [Google Play will no longer pay to discover vulnerabilities in popular Android apps](https://www.androidauthority.com/google-play-security-reward-program-winding-down-3472376/)<!-- TECH:END -->
+ - [Carta: 254 of its VC-backed clients went bust in Q1 2024 and the startup bankruptcy rate is over 7x that of 2019, as funds raised in the 2021-2022 boom run out &lpar;George Hammond/Financial Times&rpar;](http://www.techmeme.com/240819/p2#a240819p2)
+ - [Here are all the AirPods models that could debut next month](https://www.androidauthority.com/airpods-4-on-track-fall-debut-3472607/)
+ - [32 Best Family Board Games &lpar;2024&rpar;: Catan, Labyrinth, Onitama](https://www.wired.com/gallery/best-family-board-games/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
