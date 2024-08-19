@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [No, you aren’t getting a worse Pixel 9 Pro, Pro XL if you buy it in these markets](https://www.androidauthority.com/google-pixel-9-pro-super-actua-screens-region-3472606/)
- - [Procreate’s anti-AI pledge attracts praise from digital creatives](https://www.theverge.com/2024/8/19/24223473/procreate-anti-generative-ai-pledge-digital-illustration-creatives)
- - [Poll result: Galaxy Watch 7’s latest update boosts battery life, but not for everyone](https://www.androidauthority.com/galaxy-watch-7-update-poll-results-3472586/)<!-- TECH:END -->
+ - [Raspberry Pi 5 gets a cheaper 2GB option](https://www.theverge.com/2024/8/19/24223494/raspberry-pi-5-cheaper-2gb-option)
+ - [Lamborghini’s first EV is nearly ready — but are we?](https://www.theverge.com/2024/8/19/24223478/lamborghini-temerario-supercar-plugin-hybrid-ev-specs)
+ - [Girls In Tech, Women Who Code, and other groups that aimed to diversify Silicon Valley are closing or rebranding to stay afloat, as critics attack DEI efforts &lpar;Washington Post&rpar;](http://www.techmeme.com/240819/p6#a240819p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
