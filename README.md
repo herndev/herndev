@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung Galaxy S25 series rumors and leaks: Everything we know so far](https://www.androidauthority.com/samsung-galaxy-s25-3437280/)
- - [Garmin backing gives boost to Google’s new Satellite SOS feature](https://www.androidauthority.com/garmin-google-pixel-9-satellite-sos-3472338/)
- - [Best Internet Providers in Harlingen, Texas](https://www.cnet.com/home/internet/best-internet-providers-in-harlingen-tx/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [From OPPO to OnePlus, this is what your next flagship phone could look like](https://www.androidauthority.com/oppo-oneplus-upcoming-flagship-phone-design-leak-3472570/)
+ - [Roblox has grown rapidly and consistently since 2018 and now sees an estimated average of 80M+ daily and 380M+ monthly users, over 2x that of Steam or Minecraft &lpar;Matthew Ball/MatthewBall.co&rpar;](http://www.techmeme.com/240819/p1#a240819p1)
+ - [The new Sonos app is such a disaster, the old version may just return](https://www.androidauthority.com/sonos-app-old-version-return-3472308/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
