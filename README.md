@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Here’s how Google Chrome could implement Lens translations](https://www.androidauthority.com/chrome-image-translation-3472455/)
- - [Google says it &quot;missed the mark&quot; after leaked screenshots showed a Team Pixel program agreement threatened influencers who didn&#39;t showcase the Pixel over rivals &lpar;Victoria Song/The Verge&rpar;](http://www.techmeme.com/240816/p19#a240816p19)
- - [Give Your Body Morning Sunlight for a Better Night&#39;s Sleep](https://www.cnet.com/health/sleep/morning-sunlight-improved-my-sleep/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Waymo’s robotaxi depot is still honking its San Francisco neighbors awake](https://www.theverge.com/2024/8/18/24223160/waymo-honking-san-francisco-parking-lot-depot-fix-not-working)
+ - [Android Auto’s new Google Assistant UI is giving off major Siri vibes](https://www.androidauthority.com/google-assistant-android-auto-siri-similarities-3472544/)
+ - [Best Home Security Cameras for Apple HomeKit and Siri in 2024](https://www.cnet.com/home/security/best-home-security-cameras-for-apple-homekit-and-siri/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
