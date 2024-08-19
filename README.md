@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [That day\u2026 nobody had a good day](http://9gag.com/gag/a7or3WA)
- - ⏩ [All Juliette actresses , pick your favorite with memes.](http://9gag.com/gag/aByWgQP)
- - 👉 [WWE superstar Rhea Ripley makes time for a fan.](http://9gag.com/gag/aQz9dDz)<!-- MEMES:END -->
+ - 💣 [#RIP Alain Delon](http://9gag.com/gag/aqybgwp)
+ - ⏩ [WWE superstar Rhea Ripley makes time for a fan.](http://9gag.com/gag/aQz9dDz)
+ - 👉 [You know](http://9gag.com/gag/azx89dq)<!-- MEMES:END -->
 
 ---
 
