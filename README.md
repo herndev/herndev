@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [First day on the job](http://9gag.com/gag/aXPq9gg)
- - ⏩ [Too big!](http://9gag.com/gag/axyVZQp)
- - 👉 [Solid 3, 9gager in the wild](http://9gag.com/gag/a6ZbMy2)<!-- MEMES:END -->
+ - 💣 [Dress to impress](http://9gag.com/gag/azx81mp)
+ - ⏩ [9 hour 14 lane jam after burning man festival in Nevada, USA](http://9gag.com/gag/agmLXoq)
+ - 👉 [He `didn&#39;t do nuffin` ! It&#39;s THEM again Yogi, it&#39;s ALWAYS them](http://9gag.com/gag/aZZmL1n)<!-- MEMES:END -->
 
 ---
 
