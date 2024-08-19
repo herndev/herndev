@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [You can tell that question sent him back to his childhood trauma..Hope the dude is going well.](http://9gag.com/gag/amoYPPv)
- - ⏩ [#RIP Alain Delon](http://9gag.com/gag/aqybgwp)
- - 👉 [Action day dream](http://9gag.com/gag/agmLB16)<!-- MEMES:END -->
+ - 💣 [Isn&#39;t it ?](http://9gag.com/gag/a2vroMD)
+ - ⏩ [All Juliette actresses , pick your favorite with memes.](http://9gag.com/gag/aByWgQP)
+ - 👉 [#RIP Alain Delon](http://9gag.com/gag/aqybgwp)<!-- MEMES:END -->
 
 ---
 
