@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Microsoft closes another door for bypassing the TPM 2.0 requirement in Windows 11](https://www.pcgamer.com/software/windows/microsoft-closes-another-door-for-bypassing-the-tpm-20-requirement-in-windows-11)
- - [The Mechanism Gaming Pillow acts like a third arm for your gaming handhelds and I&#39;m not ashamed to say I kinda want one](https://www.pcgamer.com/hardware/handheld-gaming-pcs/the-mechanism-gaming-pillow-acts-like-a-third-arm-for-your-gaming-handhelds-and-im-not-ashamed-to-say-i-kinda-want-one)
- - [Mystery mansion puzzle game Blue Prince is my GOTY, even if it doesn&#39;t come out this year](https://www.pcgamer.com/games/puzzle/mystery-mansion-puzzle-game-blue-prince-is-my-goty-even-if-it-doesnt-come-out-this-year)<!-- GAME:END -->
+ - [Can Mankey be shiny in Pokémon Go?](https://www.polygon.com/pokemon-go-guide/23869026/can-mankey-be-shiny-primeape)
+ - [What You Need To Know About Armor Sets In 7 Days To Die](https://kotaku.com/7-days-to-die-crafting-armor-sets-guide-1851625310)
+ - [Surprise, Final Fantasy 16 Arrives On PC Soon And Already Has A Free Demo](https://kotaku.com/ff16-final-fantasy-16-free-demo-pc-port-date-steam-epic-1851625840)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
