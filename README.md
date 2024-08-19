@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple shares how college students use Mac &amp; iPad as they head back to campus](https://appleinsider.com/articles/24/08/19/apple-shares-how-college-students-use-mac-ipad-as-they-head-back-to-campus?utm_medium=rss)
- - [You can finally enable astro mode manually on Pixels, and here’s how to do it](https://www.androidauthority.com/google-pixel-manual-activate-astrophotography-mode-3472651/)
- - [WhatsApp is developing two features to help declutter your inbox](https://www.androidauthority.com/whatsapp-features-declutter-inbox-3472648/)<!-- TECH:END -->
+ - [Nanoleaf Expo Display Box, SmartMi E1, &amp; Apple&#39;s Robotic iPad on HomeKit Insider](https://appleinsider.com/articles/24/08/19/nanoleaf-expo-display-box-smartmi-e1-apples-robotic-ipad-on-homekit-insider?utm_medium=rss)
+ - [Android 15 features: Everything you need to know about confirmed and leaked features](https://www.androidauthority.com/android-15-features-3401939/)
+ - [Raspberry Pi launches a Raspberry Pi 5 with 2GB of RAM for $50, alongside the existing 4GB model for $60 and 8GB for $80, and may release a future 1GB model &lpar;Les Pounder/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/240819/p9#a240819p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
