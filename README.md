@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Carta: 254 of its VC-backed clients went bust in Q1 2024 and the startup bankruptcy rate is over 7x that of 2019, as funds raised in the 2021-2022 boom run out &lpar;George Hammond/Financial Times&rpar;](http://www.techmeme.com/240819/p2#a240819p2)
- - [Here are all the AirPods models that could debut next month](https://www.androidauthority.com/airpods-4-on-track-fall-debut-3472607/)
- - [32 Best Family Board Games &lpar;2024&rpar;: Catan, Labyrinth, Onitama](https://www.wired.com/gallery/best-family-board-games/)<!-- TECH:END -->
+ - [After Google&#39;s antitrust loss, what comes next is not clear, besides the court ordering Google to stop or reduce TAC payments; Apple may build its own search &lpar;Benedict Evans&rpar;](http://www.techmeme.com/240819/p4#a240819p4)
+ - [Poll: What are your smartphone dealbreakers?](https://www.androidauthority.com/smartphone-dealbreaker-poll-3472602/)
+ - [Security flaws in Microsoft Mac apps could let attackers spy on users](https://appleinsider.com/articles/24/08/19/security-flaws-in-microsoft-mac-apps-could-let-attackers-spy-on-users?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
