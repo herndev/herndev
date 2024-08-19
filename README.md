@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Search gives ‘Search Personalization’ a makeover &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-search-personalization-redesign-3472843/)
- - [Anova will start charging a subscription fee for its sous vide companion app](https://www.theverge.com/2024/8/19/24223878/anova-sous-vide-kitchen-app-subscription)
- - [Turtle Beach’s new Stealth 700 gaming headset has two USB dongles](https://www.theverge.com/2024/8/19/24223821/turtle-beach-stealth-700-gen3-headset-playstation-xbox-pc-steam-price-specs)<!-- TECH:END -->
+ - [Plain text passwords may have struck again](https://www.theverge.com/2024/8/19/24223858/national-public-data-breach-ssn-privacy)
+ - [Best Home Exercise Equipment for 2024](https://www.cnet.com/health/fitness/best-home-exercise-equipment/#ftag=CAD590a51e)
+ - [Gemini Live is not too useful as a premium feature as it lacks many integrations that text-based Gemini supports and cannot yet interpret images or video &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240819/p16#a240819p16)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
