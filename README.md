@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [What in the redneck is this !??](http://9gag.com/gag/an7bb60)
- - ⏩ [People standing where electricity is about to strike](http://9gag.com/gag/aZZm3Yp)
- - 👉 [9 hour 14 lane jam after burning man festival in Nevada, USA](http://9gag.com/gag/agmLXoq)<!-- MEMES:END -->
+ - 💣 [9 hour 14 lane jam after burning man festival in Nevada, USA](http://9gag.com/gag/agmLXoq)
+ - ⏩ [Dress to impress](http://9gag.com/gag/azx81mp)
+ - 👉 [People standing where electricity is about to strike](http://9gag.com/gag/aZZm3Yp)<!-- MEMES:END -->
 
 ---
 
