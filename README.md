@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle answer for Monday, August 19](https://www.pcgamer.com/games/puzzle/wordle-answer-today-august-19-2024)
  - [Great moments in PC gaming: Painting the map your color in a strategy game](https://www.pcgamer.com/games/strategy/great-moments-in-pc-gaming-painting-the-map-your-color-in-a-strategy-game)
- - [You can now watch all 14 weapon previews for Monster Hunter Wilds](https://www.pcgamer.com/games/you-can-now-see-all-14-weapon-previews-for-monster-hunter-wilds)
- - [&#39;Don&#39;t get lacerated!&#39; is a bullet-point feature in limb-lopping survival horror game The Lacerator](https://www.pcgamer.com/games/horror/dont-get-lacerated-is-a-bullet-point-feature-in-limb-lopping-survival-horror-game-the-lacerator)<!-- GAME:END -->
+ - [You can now watch all 14 weapon previews for Monster Hunter Wilds](https://www.pcgamer.com/games/you-can-now-see-all-14-weapon-previews-for-monster-hunter-wilds)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
