@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Plain text passwords may have struck again](https://www.theverge.com/2024/8/19/24223858/national-public-data-breach-ssn-privacy)
- - [Best Home Exercise Equipment for 2024](https://www.cnet.com/health/fitness/best-home-exercise-equipment/#ftag=CAD590a51e)
- - [Gemini Live is not too useful as a premium feature as it lacks many integrations that text-based Gemini supports and cannot yet interpret images or video &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240819/p16#a240819p16)<!-- TECH:END -->
+ - [Report suggests Fitbit smartwatches are done — and Google’s not saying otherwise](https://www.androidauthority.com/fitbit-smartwatches-discontinued-3472930/)
+ - [A new Plex-integrated, ad-free launcher for Android and Google TVs has rolled out](https://www.androidauthority.com/dispatch-launcher-android-google-tv-3472797/)
+ - [The FBI, ODNI, and CISA say they are &quot;confident&quot; that Iran was responsible for recent attempted hacks into the Trump and Biden-Harris campaigns &lpar;Perry Stein/Washington Post&rpar;](http://www.techmeme.com/240819/p18#a240819p18)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
