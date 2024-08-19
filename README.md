@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best Prescription Delivery Services: Amazon, CVS, PillPack and More](https://www.cnet.com/health/medical/best-prescription-delivery-services/#ftag=CAD590a51e)
  - [Waymo’s robotaxi depot is still honking its San Francisco neighbors awake](https://www.theverge.com/2024/8/18/24223160/waymo-honking-san-francisco-parking-lot-depot-fix-not-working)
- - [Best Internet Providers in Gulfport, Mississippi](https://www.cnet.com/home/internet/best-internet-providers-in-gulfport-ms/#ftag=CAD590a51e)
- - [Android Auto’s new Google Assistant UI is giving off major Siri vibes](https://www.androidauthority.com/google-assistant-android-auto-siri-similarities-3472544/)<!-- TECH:END -->
+ - [Best Internet Providers in Gulfport, Mississippi](https://www.cnet.com/home/internet/best-internet-providers-in-gulfport-ms/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
