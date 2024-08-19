@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Isn&#39;t it ?](http://9gag.com/gag/a2vroMD)
- - ⏩ [All Juliette actresses , pick your favorite with memes.](http://9gag.com/gag/aByWgQP)
+ - 💣 [What a big horse](http://9gag.com/gag/aVvqwV2)
+ - ⏩ [Dress to impress](http://9gag.com/gag/azx81mp)
  - 👉 [#RIP Alain Delon](http://9gag.com/gag/aqybgwp)<!-- MEMES:END -->
 
 ---
