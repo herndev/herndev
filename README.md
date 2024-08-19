@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [People standing where electricity is about to strike](http://9gag.com/gag/aZZm3Yp)
- - ⏩ [Actual blackmagicf**kery](http://9gag.com/gag/a6ZbE5R)
+ - 💣 [#RIP Alain Delon](http://9gag.com/gag/aqybgwp)
+ - ⏩ [Becareful guys... stay away...](http://9gag.com/gag/a1mbR9w)
  - 👉 [All Juliette actresses , pick your favorite with memes.](http://9gag.com/gag/aByWgQP)<!-- MEMES:END -->
 
 ---
