@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Renamed after 14 years, great...](http://9gag.com/gag/aZZmLq9)
- - ⏩ [No wrong choices please](http://9gag.com/gag/amoYB0o)
- - 👉 [#RIP Alain Delon](http://9gag.com/gag/aqybgwp)<!-- MEMES:END -->
+ - 💣 [It&#39;s gonna get weird](http://9gag.com/gag/adB78Nd)
+ - ⏩ [Dress to impress](http://9gag.com/gag/azx81mp)
+ - 👉 [Isn&#39;t it ?](http://9gag.com/gag/a2vroMD)<!-- MEMES:END -->
 
 ---
 
