@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone 16 Pro Max leak shows off new gold-like bronze color &lpar;Update: Desert Titanium&rpar;](https://www.androidauthority.com/iphone-16-pro-max-leak-gold-like-color-3472229/)
- - [Age of Empires Mobile is coming to Android and iOS in October](https://www.androidauthority.com/age-of-empires-mobile-october-launch-3472356/)
- - [Today&#39;s NYT Connections Hints, Answers and Help for Aug. 19 #435](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-aug-19-435/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Samsung Galaxy S25 series rumors and leaks: Everything we know so far](https://www.androidauthority.com/samsung-galaxy-s25-3437280/)
+ - [Garmin backing gives boost to Google’s new Satellite SOS feature](https://www.androidauthority.com/garmin-google-pixel-9-satellite-sos-3472338/)
+ - [Best Internet Providers in Harlingen, Texas](https://www.cnet.com/home/internet/best-internet-providers-in-harlingen-tx/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
