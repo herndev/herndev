@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Destiny 2 AFK Farming Has Gotten So Bad, Players Will Be Banned For It Now](https://kotaku.com/destiny-2-exotic-class-item-afk-farm-overthrow-chest-1851626062)
- - [Halle Berry Is Open To Making A New Catwoman Movie, But...](https://kotaku.com/halle-berry-catwoman-2-sequel-return-direct-dc-wb-1851625973)
- - [Exclusive Inside Out 2 clip dives into Bloofy’s origins](https://www.polygon.com/animation-cartoons/441572/inside-out-2-behind-the-scenes-clip-bloofy)<!-- GAME:END -->
+ - [Report: Indiana Jones Won&#39;t Be An Xbox Exclusive For Long, Coming To PS5 Shortly After](https://kotaku.com/indiana-jones-great-circle-game-pass-ps5-exclusive-1851626140)
+ - [Mega Man Returns, But As A Digital Funko Pop](https://kotaku.com/mega-man-funko-pop-funko-fusion-demo-steam-trailer-pc-1851626112)
+ - [Black Myth: Wukong publisher issues bizarre directive on what streamers can &lpar;and can’t&rpar; say](https://www.polygon.com/news/441563/black-myth-wukong-streamer-restrictions-feminist-propaganda)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
