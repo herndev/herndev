@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Madden NFL 25 stumbles out to a &#39;mixed&#39; rating on Steam, which means it&#39;s no worse than any other Madden game on PC](https://www.pcgamer.com/games/sports/madden-nfl-25-stumbles-out-to-a-mixed-rating-on-steam-which-means-its-no-worse-than-any-other-madden-game-on-pc)
  - [Larian released a teaser for the new evil endings coming in Baldur&#39;s Gate 3&#39;s next patch, and they really weren&#39;t kidding about the evil part](https://www.pcgamer.com/games/rpg/larian-released-a-teaser-for-the-new-evil-endings-coming-in-baldur-s-gate-3-s-next-patch-and-they-really-weren-t-kidding-about-the-evil-part)
- - [You Can Play The OG Diablo In Your Browser For Free Right Now](https://kotaku.com/diablo-1-browser-play-for-free-phone-blizzard-pc-1851626289)
- - [James Gunn&#39;s Superman Done Filming A Whole Year Early To Make Sure The VFX Are Good](https://kotaku.com/superman-legion-vfx-james-gunn-costumes-leaks-1851626258)<!-- GAME:END -->
+ - [You Can Play The OG Diablo In Your Browser For Free Right Now](https://kotaku.com/diablo-1-browser-play-for-free-phone-blizzard-pc-1851626289)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
