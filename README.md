@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [People standing where electricity is about to strike](http://9gag.com/gag/aZZm3Yp)
- - ⏩ [Plane door close and final checks\u2026](http://9gag.com/gag/ajPX5WR)
- - 👉 [All Juliette actresses , pick your favorite with memes.](http://9gag.com/gag/aByWgQP)<!-- MEMES:END -->
+ - 💣 [UK : Portsmouth - Mohammed Shahid Hussain, from Pakistan, attempted to rape a 14-year-old British girl, caught and arrested. Mohammed says, `I am new here, I don\u2019t know UK laws, I only follow Sharia law.`](http://9gag.com/gag/a34qEv3)
+ - ⏩ [What in the redneck is this !??](http://9gag.com/gag/an7bb60)
+ - 👉 [POS streamer catcalls underage daughter, angry dad snaps](http://9gag.com/gag/arybG5V)<!-- MEMES:END -->
 
 ---
 
