@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [People standing where electricity is about to strike](http://9gag.com/gag/aZZm3Yp)
- - ⏩ [How! How? How?! Its magic!](http://9gag.com/gag/aXPqYgD)
- - 👉 [What a big horse](http://9gag.com/gag/aVvqwV2)<!-- MEMES:END -->
+ - 💣 [Mother and child with poliosis, a hereditary white streak in their hair](http://9gag.com/gag/a34qQM1)
+ - ⏩ [9 hour 14 lane jam after burning man festival in Nevada, USA](http://9gag.com/gag/agmLXoq)
+ - 👉 [Nuclear powered cat](http://9gag.com/gag/awynnP1)<!-- MEMES:END -->
 
 ---
 
