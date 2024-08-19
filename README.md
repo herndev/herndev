@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Dress to impress](http://9gag.com/gag/azx81mp)
- - ⏩ [9 hour 14 lane jam after burning man festival in Nevada, USA](http://9gag.com/gag/agmLXoq)
- - 👉 [He `didn&#39;t do nuffin` ! It&#39;s THEM again Yogi, it&#39;s ALWAYS them](http://9gag.com/gag/aZZmL1n)<!-- MEMES:END -->
+ - 💣 [Plane door close and final checks\u2026](http://9gag.com/gag/ajPX5WR)
+ - ⏩ [Gynocentrism on disply](http://9gag.com/gag/ayNDo2Y)
+ - 👉 [Isn&#39;t it ?](http://9gag.com/gag/a2vroMD)<!-- MEMES:END -->
 
 ---
 
