@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [You can finally pick different power modes for battery or plugged in with the latest Windows 11 Insider build, ending the tyranny of one power setting for all](https://www.pcgamer.com/software/windows/you-can-finally-pick-different-power-modes-for-battery-or-plugged-in-with-the-latest-windows-11-insider-build-ending-the-tyranny-of-one-power-setting-for-all)
- - [The Ultimate March 7th &lpar;The Hunt&rpar; Build For Honkai: Star Rail](https://kotaku.com/honkai-star-rail-march-7th-the-hunt-path-build-guide-1851625301)
- - [Silksong thirst is now so outrageously high that Geoff Keighley has to announce that it won&#39;t be at his show so people don&#39;t lose their minds](https://www.pcgamer.com/games/roguelike/silksong-thirst-is-now-so-outrageously-high-that-geoff-keighley-has-to-announce-that-it-wont-be-at-his-show-so-people-dont-lose-their-minds)<!-- GAME:END -->
+ - [OneXPlayer is back with another external GPU and this time uses a graphics chip so new, not even its maker has announced it](https://www.pcgamer.com/hardware/graphics-cards/onexplayer-is-back-with-another-external-gpu-and-this-time-uses-a-graphics-chip-so-new-not-even-its-maker-has-announced-it)
+ - [Cheap but very cheerful? PowerA&#39;s wireless controllers feature Hall effect sensors and start at just $50](https://www.pcgamer.com/hardware/controllers/cheap-but-very-cheerful-poweras-wireless-controllers-feature-hall-effect-sensors-and-start-at-just-dollar50)
+ - [Everything Announced At The 2024 Pokémon World Championships](https://kotaku.com/pokemon-world-championships-announcements-legends-tcg-1851625585)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
