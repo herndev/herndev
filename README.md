@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nanoleaf Expo Display Box, SmartMi E1, &amp; Apple&#39;s Robotic iPad on HomeKit Insider](https://appleinsider.com/articles/24/08/19/nanoleaf-expo-display-box-smartmi-e1-apples-robotic-ipad-on-homekit-insider?utm_medium=rss)
- - [Android 15 features: Everything you need to know about confirmed and leaked features](https://www.androidauthority.com/android-15-features-3401939/)
- - [Raspberry Pi launches a Raspberry Pi 5 with 2GB of RAM for $50, alongside the existing 4GB model for $60 and 8GB for $80, and may release a future 1GB model &lpar;Les Pounder/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/240819/p9#a240819p9)<!-- TECH:END -->
+ - [Waymo unveils its cheaper &quot;generation 6&quot; self-driving tech that&#39;s integrated with Geely Zeekr vehicles, with 13 cameras and 4 lidar sensors, down from 29 and 5 &lpar;CNBC&rpar;](http://www.techmeme.com/240819/p10#a240819p10)
+ - [Snapdragon 8 Gen 4 could prioritize efficiency over raw CPU performance](https://www.androidauthority.com/snapdragon-8-gen-4-leak-3472699/)
+ - [Trump Shares AI-Generated Images Claiming Swifties Are Supporting Him](https://www.wired.com/story/trump-shares-ai-generated-taylor-swift/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
