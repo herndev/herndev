@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Play will no longer pay to discover vulnerabilities in popular Android apps](https://www.androidauthority.com/google-play-security-reward-program-winding-down-3472376/)
- - [Major leak reveals what next-generation flagship phones could look like](https://www.androidauthority.com/oppo-oneplus-upcoming-flagship-phone-design-leak-3472570/)
- - [Peloton Bike or Peloton Bike Plus: Which One Should You Buy?](https://www.cnet.com/health/fitness/peloton-bike-vs-peloton-bike-plus-which-one-should-you-buy/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [32 Best Family Board Games &lpar;2024&rpar;: Catan, Labyrinth, Onitama](https://www.wired.com/gallery/best-family-board-games/)
+ - [How to Watch the 2024 Summer Paralympics: Streaming Schedule, Free Options](https://www.wired.com/story/how-to-watch-the-2024-paris-summer-paralympics/)
+ - [Google Play will no longer pay to discover vulnerabilities in popular Android apps](https://www.androidauthority.com/google-play-security-reward-program-winding-down-3472376/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
