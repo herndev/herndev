@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung August 2024 security update rolling out to S23 FE, Flip 5, and more](https://www.androidauthority.com/sasmung-august-2024-flip-5-s23fe-3472820/)
- - [Do we know enough about the health risks of new semiconductor factories?](https://www.theverge.com/2024/8/19/24214415/labor-unions-environmental-review-semiconductor-manufacturing-biden-commerce)
- - [Save 20% on Eco-Friendly Rocketbook Planners, Notebooks and More With Sitewide Labor Day Deals](https://www.cnet.com/deals/save-20-on-eco-friendly-rocketbook-planners-notebooks-and-more-with-sitewide-labor-day-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Today is your last chance to save on Paramount Plus before its next price hike](https://www.theverge.com/2024/8/19/24221262/paramount-plus-essential-showtime-new-returning-subscriber-deal-sale)
+ - [Google says the Pixel 9 series ‘supports’ Qi2 charging, but with one big drawback &lpar;Developing&rpar;](https://www.androidauthority.com/pixel-9-qi2-support-3472829/)
+ - [Need an outdoor TV? Samsung’s The Terrace is $1,000 off!](https://www.androidauthority.com/samsung-the-terrace-deal-3472397/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
