@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The new highest-level Steam user in the world spent over half a million dollars to do it, has a &#39;Discord Kitten,&#39; a $9,000 Counter-Strike gun with a racial slur on it, and potential beef with the guy in third place](https://www.pcgamer.com/gaming-industry/the-new-highest-level-steam-user-in-the-world-spent-over-half-a-million-dollars-to-do-it-has-a-discord-kitten-a-dollar9000-counter-strike-gun-with-a-racial-slur-on-it-and-potentially-beef-with-the-guy-in-third-place)
- - [Design little towns for adorable vegetable people in this cute sandbox](https://www.pcgamer.com/games/design-little-towns-for-adorable-vegetable-people-in-this-cute-sandbox)
- - [The FDA just cleared &#39;Traumagel,&#39; a wound-treating gel with &#39;the color and texture of hummus&#39; that sounds like a real-life FPS medkit](https://www.pcgamer.com/games/fps/the-fda-just-cleared-traumagel-a-wound-treating-gel-with-the-color-and-texture-of-hummus-that-sounds-like-a-real-life-fps-medkit)<!-- GAME:END -->
+ - [Great moments in PC gaming: Painting the map your color in a strategy game](https://www.pcgamer.com/games/strategy/great-moments-in-pc-gaming-painting-the-map-your-color-in-a-strategy-game)
+ - [You can now watch all 14 weapon previews for Monster Hunter Wilds](https://www.pcgamer.com/games/you-can-now-see-all-14-weapon-previews-for-monster-hunter-wilds)
+ - [&#39;Don&#39;t get lacerated!&#39; is a bullet-point feature in limb-lopping survival horror game The Lacerator](https://www.pcgamer.com/games/horror/dont-get-lacerated-is-a-bullet-point-feature-in-limb-lopping-survival-horror-game-the-lacerator)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
