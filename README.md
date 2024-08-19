@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [This $250 Sonic X Shadow Generations Collector’s Edition Looks Dope](https://kotaku.com/sonic-x-shadow-generations-collectors-edition-limited-1851625995)
- - [How to watch Gamescom Opening Night Live and what to expect](https://www.polygon.com/news/441518/how-to-watch-gamescom-opening-night-live-and-what-to-expect)
- - [9 Games That Were Supposed To Come Out This Year But Were Delayed To 2025](https://kotaku.com/release-date-delay-avowed-jurassic-park-terminator-1851621171)<!-- GAME:END -->
+ - [Destiny 2 AFK Farming Has Gotten So Bad, Players Will Be Banned For It Now](https://kotaku.com/destiny-2-exotic-class-item-afk-farm-overthrow-chest-1851626062)
+ - [Halle Berry Is Open To Making A New Catwoman Movie, But...](https://kotaku.com/halle-berry-catwoman-2-sequel-return-direct-dc-wb-1851625973)
+ - [Exclusive Inside Out 2 clip dives into Bloofy’s origins](https://www.polygon.com/animation-cartoons/441572/inside-out-2-behind-the-scenes-clip-bloofy)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
