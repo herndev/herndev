@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [All Juliette actresses , pick your favorite with memes.](http://9gag.com/gag/aByWgQP)
- - ⏩ [9 hour 14 lane jam after burning man festival in Nevada, USA](http://9gag.com/gag/agmLXoq)
- - 👉 [Renamed after 14 years, great...](http://9gag.com/gag/aZZmLq9)<!-- MEMES:END -->
+ - 💣 [People standing where electricity is about to strike](http://9gag.com/gag/aZZm3Yp)
+ - ⏩ [Plane door close and final checks\u2026](http://9gag.com/gag/ajPX5WR)
+ - 👉 [All Juliette actresses , pick your favorite with memes.](http://9gag.com/gag/aByWgQP)<!-- MEMES:END -->
 
 ---
 
