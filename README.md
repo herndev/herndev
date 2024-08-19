@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Go on roguelike dives to keep evil gods asleep in Feed the Deep](https://www.pcgamer.com/games/roguelike/go-on-roguelike-dives-to-keep-evil-gods-asleep-in-feed-the-deep)
- - [Today&#39;s Wordle answer for Monday, August 19](https://www.pcgamer.com/games/puzzle/wordle-answer-today-august-19-2024)
- - [Great moments in PC gaming: Painting the map your color in a strategy game](https://www.pcgamer.com/games/strategy/great-moments-in-pc-gaming-painting-the-map-your-color-in-a-strategy-game)<!-- GAME:END -->
+ - [Silent Hill 2 &lpar;2024&rpar; is most successful when it&amp;#8217;s doing its best Silent Hill 2 &lpar;2001&rpar; imitation](https://www.polygon.com/impressions/440977/silent-hill-2-2024-preview)
+ - [MSI&#39;s PBO Enhanced Modes take Ryzen 9000 series chips off the leash, giving you up to 15% extra performance](https://www.pcgamer.com/hardware/processors/msis-pbo-enhanced-modes-take-ryzen-9000-series-chips-off-the-leash-giving-you-up-to-15-extra-performance)
+ - [Go on roguelike dives to keep evil gods asleep in Feed the Deep](https://www.pcgamer.com/games/roguelike/go-on-roguelike-dives-to-keep-evil-gods-asleep-in-feed-the-deep)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
