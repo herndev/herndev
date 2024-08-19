@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [After Google&#39;s antitrust loss, what comes next is not clear, besides the court ordering Google to stop or reduce TAC payments; Apple may build its own search &lpar;Benedict Evans&rpar;](http://www.techmeme.com/240819/p4#a240819p4)
- - [Poll: What are your smartphone dealbreakers?](https://www.androidauthority.com/smartphone-dealbreaker-poll-3472602/)
- - [Security flaws in Microsoft Mac apps could let attackers spy on users](https://appleinsider.com/articles/24/08/19/security-flaws-in-microsoft-mac-apps-could-let-attackers-spy-on-users?utm_medium=rss)<!-- TECH:END -->
+ - [No, you aren’t getting a worse Pixel 9 Pro, Pro XL if you buy it in these markets](https://www.androidauthority.com/google-pixel-9-pro-super-actua-screens-region-3472606/)
+ - [Procreate’s anti-AI pledge attracts praise from digital creatives](https://www.theverge.com/2024/8/19/24223473/procreate-anti-generative-ai-pledge-digital-illustration-creatives)
+ - [Poll result: Galaxy Watch 7’s latest update boosts battery life, but not for everyone](https://www.androidauthority.com/galaxy-watch-7-update-poll-results-3472586/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
