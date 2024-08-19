@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Isn&#39;t it ?](http://9gag.com/gag/a2vroMD)
- - ⏩ [9 hour 14 lane jam after burning man festival in Nevada, USA](http://9gag.com/gag/agmLXoq)
- - 👉 [Mohammed from Egypt wants to abuse a 13 year old British girl but is caught by British patriots. Mohammed does not want to go to jail and says: `Call the Home Office. Alhamdulillah, I am Muslim!\u201d](http://9gag.com/gag/aE0YPe9)<!-- MEMES:END -->
+ - 💣 [That day\u2026 nobody had a good day](http://9gag.com/gag/a7or3WA)
+ - ⏩ [All Juliette actresses , pick your favorite with memes.](http://9gag.com/gag/aByWgQP)
+ - 👉 [WWE superstar Rhea Ripley makes time for a fan.](http://9gag.com/gag/aQz9dDz)<!-- MEMES:END -->
 
 ---
 
