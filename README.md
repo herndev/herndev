@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Go on roguelike dives to keep evil gods asleep in Feed the Deep](https://www.pcgamer.com/games/roguelike/go-on-roguelike-dives-to-keep-evil-gods-asleep-in-feed-the-deep)
  - [Today&#39;s Wordle answer for Monday, August 19](https://www.pcgamer.com/games/puzzle/wordle-answer-today-august-19-2024)
- - [Great moments in PC gaming: Painting the map your color in a strategy game](https://www.pcgamer.com/games/strategy/great-moments-in-pc-gaming-painting-the-map-your-color-in-a-strategy-game)
- - [You can now watch all 14 weapon previews for Monster Hunter Wilds](https://www.pcgamer.com/games/you-can-now-see-all-14-weapon-previews-for-monster-hunter-wilds)<!-- GAME:END -->
+ - [Great moments in PC gaming: Painting the map your color in a strategy game](https://www.pcgamer.com/games/strategy/great-moments-in-pc-gaming-painting-the-map-your-color-in-a-strategy-game)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
