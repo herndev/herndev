@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Plane door close and final checks\u2026](http://9gag.com/gag/ajPX5WR)
- - ⏩ [Gynocentrism on disply](http://9gag.com/gag/ayNDo2Y)
- - 👉 [Isn&#39;t it ?](http://9gag.com/gag/a2vroMD)<!-- MEMES:END -->
+ - 💣 [Now that\u2019s a big pile of s#it!](http://9gag.com/gag/a9yrnLZ)
+ - ⏩ [What in the redneck is this !??](http://9gag.com/gag/an7bb60)
+ - 👉 [You know](http://9gag.com/gag/azx89dq)<!-- MEMES:END -->
 
 ---
 
