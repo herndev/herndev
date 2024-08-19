@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [According to a creator of the ambitious H2M Modern Warfare 2 mod shuttered by Activision, the multi-billion dollar corporation was worried the free project would disrupt Black Ops 6&#39;s sales](https://www.pcgamer.com/games/call-of-duty/according-to-a-creator-of-the-ambitious-h2m-modern-warfare-2-mod-shuttered-by-activision-the-multi-billion-dollar-corporation-was-worried-the-free-project-would-disrupt-black-ops-6-s-sales)
- - [What to watch on Peacock now that the Olympics are over](https://www.polygon.com/what-to-watch/440831/best-shows-movies-peacock-olympics)
- - [Alien: Romulus: The Kotaku Review](https://kotaku.com/alien-romulus-movie-review-timeline-reddit-4dx-1851625237)<!-- GAME:END -->
+ - [The new highest-level Steam user in the world spent over half a million dollars to do it, has a &#39;Discord Kitten,&#39; a $9,000 Counter-Strike gun with a racial slur on it, and potential beef with the guy in third place](https://www.pcgamer.com/gaming-industry/the-new-highest-level-steam-user-in-the-world-spent-over-half-a-million-dollars-to-do-it-has-a-discord-kitten-a-dollar9000-counter-strike-gun-with-a-racial-slur-on-it-and-potentially-beef-with-the-guy-in-third-place)
+ - [Design little towns for adorable vegetable people in this cute sandbox](https://www.pcgamer.com/games/design-little-towns-for-adorable-vegetable-people-in-this-cute-sandbox)
+ - [The FDA just cleared &#39;Traumagel,&#39; a wound-treating gel with &#39;the color and texture of hummus&#39; that sounds like a real-life FPS medkit](https://www.pcgamer.com/games/fps/the-fda-just-cleared-traumagel-a-wound-treating-gel-with-the-color-and-texture-of-hummus-that-sounds-like-a-real-life-fps-medkit)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
