@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [I give you the smolest gaming PC: A tiny desktop playing tiny Doom is the ultimate &#39;90s nostalgia hit](https://www.pcgamer.com/hardware/gaming-pcs/i-give-you-the-smolest-gaming-pc-a-tiny-desktop-playing-tiny-doom-is-the-ultimate-90s-nostalgia-hit)
- - [Geekom AX8 Pro review](https://www.pcgamer.com/hardware/gaming-pcs/geekom-ax8-pro-mini-pc-review)
- - [Intel&#39;s next-gen Arrow Lake desktop CPUs are reportedly only 7 weeks away from launch](https://www.pcgamer.com/hardware/processors/intels-next-gen-arrow-lake-desktop-cpus-are-reportedly-only-7-weeks-away-from-launch)<!-- GAME:END -->
+ - [Everybody wants to change the world in Paper Trail and Slider](https://www.polygon.com/review/441238/paper-trail-slider-puzzle-games)
+ - [Zotac Gaming officially launches its Zone handheld gaming PC with a super fancy AMOLED HDR screen](https://www.pcgamer.com/hardware/handheld-gaming-pcs/zotac-gaming-officially-launches-its-zone-handheld-gaming-pc-with-a-super-fancy-amoled-hdr-screen)
+ - [Inside Out 2 Is Finally Coming To Streaming And We’re Still Thinking About Anxiety](https://kotaku.com/inside-out-2-where-to-stream-date-streaming-disney-1851624475)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
