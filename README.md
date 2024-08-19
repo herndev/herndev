@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Now that\u2019s a big pile of s#it!](http://9gag.com/gag/a9yrnLZ)
- - ⏩ [What in the redneck is this !??](http://9gag.com/gag/an7bb60)
- - 👉 [No wrong choices please](http://9gag.com/gag/amoYB0o)<!-- MEMES:END -->
+ - 💣 [Plane door close and final checks\u2026](http://9gag.com/gag/ajPX5WR)
+ - ⏩ [Isn&#39;t it ?](http://9gag.com/gag/a2vroMD)
+ - 👉 [Have a nice day everyone](http://9gag.com/gag/a6ZbO0A)<!-- MEMES:END -->
 
 ---
 
