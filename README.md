@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Silent Hill 2 hands-on report](https://blog.playstation.com/2024/08/19/silent-hill-2-hands-on-report/)
- - [Silent Hill 2 hands-on report](https://blog.playstation.com/2024/08/19/silent-hill-2-hands-on-report/)
- - [Silent Hill 2 &lpar;2024&rpar; is most successful when it&amp;#8217;s doing its best Silent Hill 2 &lpar;2001&rpar; imitation](https://www.polygon.com/impressions/440977/silent-hill-2-2024-preview)<!-- GAME:END -->
+ - [I give you the smolest gaming PC: A tiny desktop playing tiny Doom is the ultimate &#39;90s nostalgia hit](https://www.pcgamer.com/hardware/gaming-pcs/i-give-you-the-smolest-gaming-pc-a-tiny-desktop-playing-tiny-doom-is-the-ultimate-90s-nostalgia-hit)
+ - [Geekom AX8 Pro review](https://www.pcgamer.com/hardware/gaming-pcs/geekom-ax8-pro-mini-pc-review)
+ - [Intel&#39;s next-gen Arrow Lake desktop CPUs are reportedly only 7 weeks away from launch](https://www.pcgamer.com/hardware/processors/intels-next-gen-arrow-lake-desktop-cpus-are-reportedly-only-7-weeks-away-from-launch)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
