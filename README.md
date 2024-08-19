@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [From OPPO to OnePlus, this is what your next flagship phone could look like](https://www.androidauthority.com/oppo-oneplus-upcoming-flagship-phone-design-leak-3472570/)
- - [Roblox has grown rapidly and consistently since 2018 and now sees an estimated average of 80M+ daily and 380M+ monthly users, over 2x that of Steam or Minecraft &lpar;Matthew Ball/MatthewBall.co&rpar;](http://www.techmeme.com/240819/p1#a240819p1)
- - [The new Sonos app is such a disaster, the old version may just return](https://www.androidauthority.com/sonos-app-old-version-return-3472308/)<!-- TECH:END -->
+ - [Google Play will no longer pay to discover vulnerabilities in popular Android apps](https://www.androidauthority.com/google-play-security-reward-program-winding-down-3472376/)
+ - [Major leak reveals what next-generation flagship phones could look like](https://www.androidauthority.com/oppo-oneplus-upcoming-flagship-phone-design-leak-3472570/)
+ - [Peloton Bike or Peloton Bike Plus: Which One Should You Buy?](https://www.cnet.com/health/fitness/peloton-bike-vs-peloton-bike-plus-which-one-should-you-buy/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
