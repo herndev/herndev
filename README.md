@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [OneXPlayer is back with another external GPU and this time uses a graphics chip so new, not even its maker has announced it](https://www.pcgamer.com/hardware/graphics-cards/onexplayer-is-back-with-another-external-gpu-and-this-time-uses-a-graphics-chip-so-new-not-even-its-maker-has-announced-it)
- - [Cheap but very cheerful? PowerA&#39;s wireless controllers feature Hall effect sensors and start at just $50](https://www.pcgamer.com/hardware/controllers/cheap-but-very-cheerful-poweras-wireless-controllers-feature-hall-effect-sensors-and-start-at-just-dollar50)
- - [Everything Announced At The 2024 Pokémon World Championships](https://kotaku.com/pokemon-world-championships-announcements-legends-tcg-1851625585)<!-- GAME:END -->
+ - [Microsoft closes another door for bypassing the TPM 2.0 requirement in Windows 11](https://www.pcgamer.com/software/windows/microsoft-closes-another-door-for-bypassing-the-tpm-20-requirement-in-windows-11)
+ - [The Mechanism Gaming Pillow acts like a third arm for your gaming handhelds and I&#39;m not ashamed to say I kinda want one](https://www.pcgamer.com/hardware/handheld-gaming-pcs/the-mechanism-gaming-pillow-acts-like-a-third-arm-for-your-gaming-handhelds-and-im-not-ashamed-to-say-i-kinda-want-one)
+ - [Mystery mansion puzzle game Blue Prince is my GOTY, even if it doesn&#39;t come out this year](https://www.pcgamer.com/games/puzzle/mystery-mansion-puzzle-game-blue-prince-is-my-goty-even-if-it-doesnt-come-out-this-year)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
