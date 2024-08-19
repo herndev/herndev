@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [It&#39;s gonna get weird](http://9gag.com/gag/adB78Nd)
- - ⏩ [Dress to impress](http://9gag.com/gag/azx81mp)
- - 👉 [Isn&#39;t it ?](http://9gag.com/gag/a2vroMD)<!-- MEMES:END -->
+ - 💣 [People standing where electricity is about to strike](http://9gag.com/gag/aZZm3Yp)
+ - ⏩ [Actual blackmagicf**kery](http://9gag.com/gag/a6ZbE5R)
+ - 👉 [All Juliette actresses , pick your favorite with memes.](http://9gag.com/gag/aByWgQP)<!-- MEMES:END -->
 
 ---
 
