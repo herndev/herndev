@@ -33,8 +33,8 @@
 
 <!-- GAME:START -->
  - [Silent Hill 2 hands-on report](https://blog.playstation.com/2024/08/19/silent-hill-2-hands-on-report/)
- - [Silent Hill 2 &lpar;2024&rpar; is most successful when it&amp;#8217;s doing its best Silent Hill 2 &lpar;2001&rpar; imitation](https://www.polygon.com/impressions/440977/silent-hill-2-2024-preview)
- - [The Silent Hill 2 remake feels like the PS2 classic in a Resident Evil 2 remake wrapper, and you know what? That&#39;s not bad](https://www.pcgamer.com/games/horror/silent-hill-2-remake-preview)<!-- GAME:END -->
+ - [Silent Hill 2 hands-on report](https://blog.playstation.com/2024/08/19/silent-hill-2-hands-on-report/)
+ - [Silent Hill 2 &lpar;2024&rpar; is most successful when it&amp;#8217;s doing its best Silent Hill 2 &lpar;2001&rpar; imitation](https://www.polygon.com/impressions/440977/silent-hill-2-2024-preview)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
