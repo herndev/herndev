@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Mother and child with poliosis, a hereditary white streak in their hair](http://9gag.com/gag/a34qQM1)
- - ⏩ [POS streamer catcalls underage daughter, angry dad snaps](http://9gag.com/gag/arybG5V)
- - 👉 [Nuclear powered cat](http://9gag.com/gag/awynnP1)<!-- MEMES:END -->
+ - 💣 [People standing where electricity is about to strike](http://9gag.com/gag/aZZm3Yp)
+ - ⏩ [How! How? How?! Its magic!](http://9gag.com/gag/aXPqYgD)
+ - 👉 [What a big horse](http://9gag.com/gag/aVvqwV2)<!-- MEMES:END -->
 
 ---
 
