@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [#RIP Alain Delon](http://9gag.com/gag/aqybgwp)
- - ⏩ [WWE superstar Rhea Ripley makes time for a fan.](http://9gag.com/gag/aQz9dDz)
- - 👉 [You know](http://9gag.com/gag/azx89dq)<!-- MEMES:END -->
+ - 💣 [You can tell that question sent him back to his childhood trauma..Hope the dude is going well.](http://9gag.com/gag/amoYPPv)
+ - ⏩ [#RIP Alain Delon](http://9gag.com/gag/aqybgwp)
+ - 👉 [Action day dream](http://9gag.com/gag/agmLB16)<!-- MEMES:END -->
 
 ---
 
