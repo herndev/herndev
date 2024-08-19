@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [#RIP Alain Delon](http://9gag.com/gag/aqybgwp)
- - ⏩ [Becareful guys... stay away...](http://9gag.com/gag/a1mbR9w)
- - 👉 [All Juliette actresses , pick your favorite with memes.](http://9gag.com/gag/aByWgQP)<!-- MEMES:END -->
+ - 💣 [Guess the state](http://9gag.com/gag/aLnDwyW)
+ - ⏩ [#RIP Alain Delon](http://9gag.com/gag/aqybgwp)
+ - 👉 [You can tell that question sent him back to his childhood trauma..Hope the dude is going well.](http://9gag.com/gag/amoYPPv)<!-- MEMES:END -->
 
 ---
 
