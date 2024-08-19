@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Climate Change’s Latest Deadly Killer: Lightning Strikes](https://www.wired.com/story/thunder-lightning-strike-deaths-india/)
- - [You’ll need to teach this $16,000 humanoid robot how to make breakfast](https://www.theverge.com/2024/8/19/24223629/unitree-g1-robot-humanoid-price-release)
- - [Procreate tells users, &#39;AI is not our future&#39;](https://appleinsider.com/articles/24/08/19/procreate-tells-users-ai-is-not-our-future?utm_medium=rss)<!-- TECH:END -->
+ - [Ticketmaster’s nontransferrable ‘SafeTix’ are anti-competitive, DOJ suit claims](https://www.theverge.com/2024/8/19/24223774/ticketmaster-safetix-doj-antitrust-lawsuit-10-states-join)
+ - [Apple Podcasts can now be heard on the web without a separate app](https://appleinsider.com/articles/24/08/19/apple-podcasts-can-now-be-heard-on-the-web-without-a-separate-app?utm_medium=rss)
+ - [Waymo’s new robotaxi will feature fewer sensors to help lower costs](https://www.theverge.com/2024/8/19/24223655/waymos-new-robotaxi-will-feature-fewer-sensors-to-help-lower-costs)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
