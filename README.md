@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ex-Autonomy CEO Mike Lynch, who was acquitted on US fraud charges in June, is among six missing after a yacht sank off Sicily, according to Italian authorities &lpar;Associated Press&rpar;](http://www.techmeme.com/240819/p20#a240819p20)
- - [Donald Trump shared AI-generated images on Truth Social that show Taylor Swift and her fans vowing their support for his campaign; Swift hasn&#39;t endorsed Trump &lpar;Nick Robins-Early/The Guardian&rpar;](http://www.techmeme.com/240819/p19#a240819p19)
- - [You&#39;ve Got a Friend in... ChatGPT? I Tried Out the AI&#39;s New Voice Mode to Find Out](https://www.cnet.com/tech/services-and-software/youve-got-a-friend-in-chatgpt-i-tried-out-the-ais-new-voice-mode-to-find-out/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Google could soon help you discover new and upcoming movies and TV shows &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-discover-movies-tv-shows-card-3472953/)
+ - [Cisco Talos: eight vulnerabilities in Microsoft&#39;s macOS apps could be abused by attackers to record video/sound from a user&#39;s device, log user input, and more &lpar;Connor Jones/The Register&rpar;](http://www.techmeme.com/240819/p21#a240819p21)
+ - [Ex-Autonomy CEO Mike Lynch, who was acquitted on US fraud charges in June, is among six missing after a yacht sank off Sicily, according to Italian authorities &lpar;Associated Press&rpar;](http://www.techmeme.com/240819/p20#a240819p20)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
