@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [US labor and environmental groups submit comments to the Commerce Department saying draft health and environmental assessments for new chip factories fall short &lpar;Justine Calma/The Verge&rpar;](http://www.techmeme.com/240820/p5#a240820p5)
- - [Stephen Chamberlain, who faced the same charges as Mike Lynch over Autonomy&#39;s sale, died after a road accident, per his lawyer, days before Lynch went missing &lpar;Reuters&rpar;](http://www.techmeme.com/240820/p4#a240820p4)
- - [Poll: How much do you pay for your phone plan every month?](https://www.androidauthority.com/phone-plan-cost-poll-3472676/)<!-- TECH:END -->
+ - [Best Smart Plugs](https://www.cnet.com/home/smart-home/best-smart-plugs/#ftag=CAD590a51e)
+ - [How to turn on a VPN connection on your iPhone](https://appleinsider.com/inside/iphone/tips/how-to-turn-on-a-vpn-connection-on-your-iphone?utm_medium=rss)
+ - [Black Myth: Wukong, a Chinese-made, Tencent-backed game, became Steam&#39;s fourth most popular title ever within hours of its launch with 1.4M+ concurrent players &lpar;Bloomberg&rpar;](http://www.techmeme.com/240820/p8#a240820p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
