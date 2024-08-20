@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [MudRunner follow-up RoadCraft is all about natural disasters, heavy machinery and, yes, more mud](https://www.pcgamer.com/games/sim/mudrunner-follow-up-roadcraft-is-all-about-natural-disasters-heavy-machinery-and-yes-more-mud)
- - [This Underrated And Immersive Shooter Series Is On Sale At The Moment](https://kotaku.com/metro-2033-last-light-exodus-sale-1851627004)
- - [Even Disney has realized that trying to use the Disney+ terms of service to wriggle out of a wrongful death lawsuit was a terrible idea](https://www.pcgamer.com/gaming-industry/even-disney-has-realized-that-trying-to-use-the-disney-terms-of-service-to-wriggle-out-of-a-wrongful-death-lawsuit-was-a-terrible-idea)<!-- GAME:END -->
+ - [New Lost Records: Bloom &amp;#038; Rage trailer hints at a teenage mystery](https://www.polygon.com/news/442063/lost-records-bloom-rage-trailer-announcement)
+ - [A new Dying Light game is on the way, starring original protagonist Kyle Crane](https://www.polygon.com/gamescom/442060/dying-light-techland-the-beast-reveal-trailer-gamescom-2024)
+ - [Thanks to Tarsier Studios&#39; new horror game Reanimal, I&#39;ll never look at a sheep in the same way again](https://www.pcgamer.com/games/horror/thanks-to-tarsier-studios-new-horror-game-reanimal-ill-never-look-at-a-sheep-in-the-same-way-again)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
