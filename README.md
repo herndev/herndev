@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [How to watch Gamescom Opening Night Live 2024](https://www.pcgamer.com/gaming-industry/events-conferences/how-to-watch-gamescom-opening-night-live-2024)
  - [Black Myth: Wukong crushes Elden Ring and Cyberpunk 2077&#39;s all-time player records on Steam with 1.2 million and counting](https://www.pcgamer.com/games/action/black-myth-wukong-crushes-elden-ring-and-cyberpunk-2077s-all-time-player-records-on-steam-with-12-million-and-counting)
- - [Today&#39;s Wordle answer for Tuesday, August 20](https://www.pcgamer.com/games/puzzle/wordle-answer-today-august-20-2024)
- - [All bell locations in Black Myth: Wukong chapter 1](https://www.polygon.com/guides/440629/black-myth-wukong-bell-locations-chapter-1-secret-area)<!-- GAME:END -->
+ - [Today&#39;s Wordle answer for Tuesday, August 20](https://www.pcgamer.com/games/puzzle/wordle-answer-today-august-20-2024)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
