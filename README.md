@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Lara Croft Normal Diving Evolution &lpar;1996 - 2015&rpar; &lpar;DEI 2018&rpar;](http://9gag.com/gag/apRpgwb)
- - ⏩ [So proud of this community.](http://9gag.com/gag/a7orq7L)
- - 👉 [It&#39;s gonna get weird](http://9gag.com/gag/adB78Nd)<!-- MEMES:END -->
+ - 💣 [Please where Hans](http://9gag.com/gag/aRBmEXM)
+ - ⏩ [This man have no enemies.](http://9gag.com/gag/avyGAAq)
+ - 👉 [Spell attic](http://9gag.com/gag/aD2W43O)<!-- MEMES:END -->
 
 ---
 
