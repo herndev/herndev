@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Vitamin Subscription for 2024](https://www.cnet.com/health/nutrition/best-vitamin-subscription/#ftag=CAD590a51e)
- - [Google Photos is working on a “Show less” option for faces you see &lpar;Update: Rolling out&rpar;](https://www.androidauthority.com/google-photos-memories-faces-show-less-option-3438858/)
- - [The AGs of 10 states join the DOJ&#39;s antitrust lawsuit seeking to break up Live Nation and Ticketmaster; 39 states, plus DC, are now part of the lawsuit &lpar;Daniel Tencer/Music Business Worldwide&rpar;](http://www.techmeme.com/240820/p10#a240820p10)<!-- TECH:END -->
+ - [Snapdragon 7s Gen 3 launched: This mid-range chip that will power a Galaxy device](https://www.androidauthority.com/snapdragon-7s-gen-3-3472589/)
+ - [Nvidia’s new G-Sync monitors no longer need a dedicated hardware module](https://www.theverge.com/2024/8/20/24224270/nvidia-g-sync-module-mediatek-partnership)
+ - [Apple wants to put touch screens on every MacBook Pro metal surface](https://appleinsider.com/articles/24/08/20/apple-wants-to-put-touch-screens-on-every-macbook-pro-metal-surface?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
