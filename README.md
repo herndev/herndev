@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Overwatch 2 Fans Are Tired Of Blizzard Playing Favorites](https://kotaku.com/overwatch-2-kiriko-mercy-venture-reaper-season-12-skins-1851626893)
- - [PS Plus Is Losing A Ton Of Great Games Next Month](https://kotaku.com/ps-plus-games-leaving-horizon-forbidden-west-marvel-ps5-1851626853)
- - [The Borderlands movie was so wretched that someone&#39;s made a 3-minute song just from the bad reviews](https://www.pcgamer.com/movies-tv/the-borderlands-movie-was-so-wretched-that-someones-made-a-3-minute-song-just-from-the-bad-reviews)<!-- GAME:END -->
+ - [MudRunner follow-up RoadCraft is all about natural disasters, heavy machinery and, yes, more mud](https://www.pcgamer.com/games/sim/mudrunner-follow-up-roadcraft-is-all-about-natural-disasters-heavy-machinery-and-yes-more-mud)
+ - [This Underrated And Immersive Shooter Series Is On Sale At The Moment](https://kotaku.com/metro-2033-last-light-exodus-sale-1851627004)
+ - [Even Disney has realized that trying to use the Disney+ terms of service to wriggle out of a wrongful death lawsuit was a terrible idea](https://www.pcgamer.com/gaming-industry/even-disney-has-realized-that-trying-to-use-the-disney-terms-of-service-to-wriggle-out-of-a-wrongful-death-lawsuit-was-a-terrible-idea)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
