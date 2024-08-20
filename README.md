@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [All bell locations in Black Myth: Wukong chapter 1](https://www.polygon.com/guides/440629/black-myth-wukong-bell-locations-chapter-1-secret-area)
- - [How to help the Yellow-Robed Squire in chapter 2 of Black Myth: Wukong](https://www.polygon.com/guides/440630/black-myth-wukong-yellow-robed-squire-how-to-help-chapter-2-secret-area)
- - [All Buddha’s Eyeballs locations in Black Myth: Wukong](https://www.polygon.com/guides/440633/black-myth-wukon-buddha-eyeball-locations-where-to-deliver)<!-- GAME:END -->
+ - [Black Myth: Wukong crushes Elden Ring and Cyberpunk 2077&#39;s all-time player records on Steam with 1.2 million and counting](https://www.pcgamer.com/games/action/black-myth-wukong-crushes-elden-ring-and-cyberpunk-2077s-all-time-player-records-on-steam-with-12-million-and-counting)
+ - [Today&#39;s Wordle answer for Tuesday, August 20](https://www.pcgamer.com/games/puzzle/wordle-answer-today-august-20-2024)
+ - [All bell locations in Black Myth: Wukong chapter 1](https://www.polygon.com/guides/440629/black-myth-wukong-bell-locations-chapter-1-secret-area)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
