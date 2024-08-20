@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Guess the state](http://9gag.com/gag/aLnDwyW)
- - ⏩ [#RIP Alain Delon](http://9gag.com/gag/aqybgwp)
- - 👉 [You can tell that question sent him back to his childhood trauma..Hope the dude is going well.](http://9gag.com/gag/amoYPPv)<!-- MEMES:END -->
+ - 💣 [Celebrities too: money doesnot buy happiness](http://9gag.com/gag/ae9bgZm)
+ - ⏩ [Becareful guys... stay away...](http://9gag.com/gag/a1mbR9w)
+ - 👉 [No wrong choices please](http://9gag.com/gag/amoYB0o)<!-- MEMES:END -->
 
 ---
 
