@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Pokémon Worlds competitor gets disqualified straight after winning the quarter-finals, thanks to a rude hand gesture](https://www.pcgamer.com/games/card-games/pokemon-worlds-competitor-gets-disqualified-straight-after-winning-the-quarter-finals-thanks-to-a-rude-hand-gesture)
- - [Best mini-PCs in 2024: The compact computers I love the most](https://www.pcgamer.com/hardware/gaming-pcs/best-mini-pcs-for-gaming)
- - [US lawmakers believe TP-Link networking products come with an &#39;unusual degree of vulnerabilities&#39; leaving them vulnerable to hackers](https://www.pcgamer.com/hardware/networking/us-lawmakers-believe-tp-link-networking-products-come-with-an-unusual-degree-of-vulnerabilities-leaving-them-vulnerable-to-hackers)<!-- GAME:END -->
+ - [Coming to Game Pass: Atlas Fallen, Core Keeper, and Star Trucker](https://news.xbox.com/en-us/2024/08/20/xbox-game-pass-august-2024-wave-2/)
+ - [Gamescom 2024](https://www.polygon.com/gamescom/440839/gamescom-2024-everything-announced)
+ - [Alien: Romulus is Ready Player One for the Alien universe](https://www.polygon.com/entertainment/441159/alien-romulus-ready-player-ash-rain-ian-holm)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
