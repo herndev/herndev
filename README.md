@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google Messages beta brings back dual-SIM support for RCS chats](https://www.androidauthority.com/google-messages-dual-sim-rcs-2-3472965/)
  - [Business groups including Asia Internet Coalition, which includes Amazon, Google, and Meta, criticize Hong Kong&#39;s new cyber rules, calling them &quot;unprecedented&quot; &lpar;Newley Purnell/Bloomberg&rpar;](http://www.techmeme.com/240820/p2#a240820p2)
- - [Sources: Apple plans to make the most expensive iPhone models in India for the first time as Foxconn rushes to produce iPhone 16 Pro and Pro Max in the country &lpar;Sankalp Phartiyal/Bloomberg&rpar;](http://www.techmeme.com/240820/p1#a240820p1)
- - [Today&#39;s NYT Mini Crossword Answers for Aug. 20](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-aug-20/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sources: Apple plans to make the most expensive iPhone models in India for the first time as Foxconn rushes to produce iPhone 16 Pro and Pro Max in the country &lpar;Sankalp Phartiyal/Bloomberg&rpar;](http://www.techmeme.com/240820/p1#a240820p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
