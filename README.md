@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Fame shame](http://9gag.com/gag/a5QbQer)
- - ⏩ [After 50 years of marriage, `I want a DNA test because the kids are ugly`](http://9gag.com/gag/aoy1gwg)
- - 👉 [Abrupt bullet](http://9gag.com/gag/a9yrqL0)<!-- MEMES:END -->
+ - 💣 [Neighbors like this are far and few between](http://9gag.com/gag/ae9bgvq)
+ - ⏩ [Monke Kang go brrrr](http://9gag.com/gag/a6ZbZy9)
+ - 👉 [Are landscapes still relevant? This is me chillin in Tatry &lpar;Slovakia&rpar;](http://9gag.com/gag/aZZmDXQ)<!-- MEMES:END -->
 
 ---
 
