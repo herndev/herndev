@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft confirms Indiana Jones is coming to PS5 after its Xbox debut](https://www.theverge.com/2024/8/20/24224284/indiana-jones-and-the-great-circle-ps5-release-date)
- - [The best deals on MacBooks right now](https://www.theverge.com/22399419/apple-macbook-air-pro-mac-mini-imac-deals)
- - [5 ways talking to Gemini Live is much, much better than using Google Assistant](https://www.androidauthority.com/gemini-live-vs-google-assistant-3472788/)<!-- TECH:END -->
+ - [Civilization 7 lets you mix and match history — and it’s a blast](https://www.theverge.com/24224489/civilization-7-hands-on-demo-impressions-firaxis-games)
+ - [Customers can now extend AppleCare+ up to 45 days after it expires](https://appleinsider.com/articles/24/08/20/customers-can-now-extend-applecare-up-to-45-days-after-it-expires?utm_medium=rss)
+ - [Apple&#39;s M3 Pro 14-inch MacBook Pro drops to $1,499, the lowest price ever](https://appleinsider.com/articles/24/08/20/apples-m3-pro-14-inch-macbook-pro-drops-to-1499-the-lowest-price-ever?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
