@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Clash with legends of yore in Black Myth: Wukong](https://www.pcgamer.com/games/clash-with-legends-of-yore-in-black-myth-wukong)
- - [No other laptop maker would let me cannibalise the best bit of its new machine the way Framework does and that&#39;s a damned shame](https://www.pcgamer.com/hardware/gaming-laptops/no-other-laptop-maker-would-let-me-cannibalise-the-best-bit-of-its-new-machine-the-way-framework-does-and-thats-a-damned-shame)
- - [Atari announces the 7800 Plus console coming this winter](https://www.polygon.com/pre-order/441690/atari-7800-plus-price-availability-games)<!-- GAME:END -->
+ - [Shadow the Hedgehog is Venom now](https://www.polygon.com/news/441856/sonic-x-shadow-generations-venom)
+ - [Black Myth: Wukong Beats Cyberpunk And Elden Ring To Set New Steam Records Hours After Coming Out](https://kotaku.com/black-myth-wukong-steam-game-pass-cyberpunk-elden-ring-1851626674)
+ - [Black Myth: Wukong makes record-breaking debut on Steam](https://www.polygon.com/news/441851/black-myth-wukong-steam-charts)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
