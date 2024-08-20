@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google TV went off the air for hours last weekend](https://www.androidauthority.com/google-tv-outage-3472926/)
  - [Report suggests Fitbit smartwatches are done — and Google’s not saying otherwise](https://www.androidauthority.com/fitbit-smartwatches-discontinued-3472930/)
- - [A new Plex-integrated, ad-free launcher for Android and Google TVs has rolled out](https://www.androidauthority.com/dispatch-launcher-android-google-tv-3472797/)
- - [The FBI, ODNI, and CISA say they are &quot;confident&quot; that Iran was responsible for recent attempted hacks into the Trump and Biden-Harris campaigns &lpar;Perry Stein/Washington Post&rpar;](http://www.techmeme.com/240819/p18#a240819p18)<!-- TECH:END -->
+ - [A new Plex-integrated, ad-free launcher for Android and Google TVs has rolled out](https://www.androidauthority.com/dispatch-launcher-android-google-tv-3472797/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
