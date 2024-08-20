@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Neighbors like this are far and few between](http://9gag.com/gag/ae9bgvq)
- - ⏩ [Monke Kang go brrrr](http://9gag.com/gag/a6ZbZy9)
- - 👉 [Are landscapes still relevant? This is me chillin in Tatry &lpar;Slovakia&rpar;](http://9gag.com/gag/aZZmDXQ)<!-- MEMES:END -->
+ - 💣 [What&#39;s Popeye&#39;s favorite food. \ud83e\udd26](http://9gag.com/gag/aByWmDO)
+ - ⏩ [Lara Croft Normal Diving Evolution &lpar;1996 - 2015&rpar; &lpar;DEI 2018&rpar;](http://9gag.com/gag/apRpgwb)
+ - 👉 [Spell attic](http://9gag.com/gag/aD2W43O)<!-- MEMES:END -->
 
 ---
 
