@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google TV went off the air for hours last weekend](https://www.androidauthority.com/google-tv-outage-3472926/)
- - [Report suggests Fitbit smartwatches are done — and Google’s not saying otherwise](https://www.androidauthority.com/fitbit-smartwatches-discontinued-3472930/)
- - [A new Plex-integrated, ad-free launcher for Android and Google TVs has rolled out](https://www.androidauthority.com/dispatch-launcher-android-google-tv-3472797/)<!-- TECH:END -->
+ - [Ex-Autonomy CEO Mike Lynch, who was acquitted on US fraud charges in June, is among six missing after a yacht sank off Sicily, according to Italian authorities &lpar;Associated Press&rpar;](http://www.techmeme.com/240819/p20#a240819p20)
+ - [Donald Trump shared AI-generated images on Truth Social that show Taylor Swift and her fans vowing their support for his campaign; Swift hasn&#39;t endorsed Trump &lpar;Nick Robins-Early/The Guardian&rpar;](http://www.techmeme.com/240819/p19#a240819p19)
+ - [You&#39;ve Got a Friend in... ChatGPT? I Tried Out the AI&#39;s New Voice Mode to Find Out](https://www.cnet.com/tech/services-and-software/youve-got-a-friend-in-chatgpt-i-tried-out-the-ais-new-voice-mode-to-find-out/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
