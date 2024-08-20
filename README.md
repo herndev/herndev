@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Becareful guys... stay away...](http://9gag.com/gag/a1mbR9w)
- - ⏩ [Red Hot Glowing Metal Ball dropped in Aloe Vera Gel.](http://9gag.com/gag/aD2WdjO)
- - 👉 [Relatable](http://9gag.com/gag/a5QbWrL)<!-- MEMES:END -->
+ - 💣 [All Juliette actresses , pick your favorite with memes.](http://9gag.com/gag/aByWgQP)
+ - ⏩ [Gynocentrism on disply](http://9gag.com/gag/ayNDo2Y)
+ - 👉 [Not again](http://9gag.com/gag/azx81KB)<!-- MEMES:END -->
 
 ---
 
