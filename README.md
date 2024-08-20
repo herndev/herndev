@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Celebrities too: money doesnot buy happiness](http://9gag.com/gag/ae9bgZm)
- - ⏩ [Becareful guys... stay away...](http://9gag.com/gag/a1mbR9w)
- - 👉 [No wrong choices please](http://9gag.com/gag/amoYB0o)<!-- MEMES:END -->
+ - 💣 [Becareful guys... stay away...](http://9gag.com/gag/a1mbR9w)
+ - ⏩ [What in the world is this creature](http://9gag.com/gag/abApYpp)
+ - 👉 [All Juliette actresses , pick your favorite with memes.](http://9gag.com/gag/aByWgQP)<!-- MEMES:END -->
 
 ---
 
