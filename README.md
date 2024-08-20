@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Wtf](http://9gag.com/gag/aByWnDD)
- - ⏩ [Not again](http://9gag.com/gag/azx81KB)
- - 👉 [Probably a repost, but i don&#39;t care, that was AWESOME!](http://9gag.com/gag/avyGzAn)<!-- MEMES:END -->
+ - 💣 [Becareful guys... stay away...](http://9gag.com/gag/a1mbR9w)
+ - ⏩ [Red Hot Glowing Metal Ball dropped in Aloe Vera Gel.](http://9gag.com/gag/aD2WdjO)
+ - 👉 [Relatable](http://9gag.com/gag/a5QbWrL)<!-- MEMES:END -->
 
 ---
 
