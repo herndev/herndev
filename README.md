@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [What&#39;s Popeye&#39;s favorite food. \ud83e\udd26](http://9gag.com/gag/aByWmDO)
- - ⏩ [After 50 years of marriage, `I want a DNA test because the kids are ugly`](http://9gag.com/gag/aoy1gwg)
- - 👉 [Her, `I&#39;ve never done this before`, also her...](http://9gag.com/gag/a5QbXNo)<!-- MEMES:END -->
+ - 💣 [12232](http://9gag.com/gag/aAydyE9)
+ - ⏩ [He faked not only the players but also the cameraman three times](http://9gag.com/gag/azx8egb)
+ - 👉 [South african diversity](http://9gag.com/gag/aW4mj74)<!-- MEMES:END -->
 
 ---
 
