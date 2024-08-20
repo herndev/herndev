@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Bugs bunny](http://9gag.com/gag/an7bz2E)
- - ⏩ [Neighbors like this are far and few between](http://9gag.com/gag/ae9bgvq)
- - 👉 [This classic from Superman](http://9gag.com/gag/a9yr1P1)<!-- MEMES:END -->
+ - 💣 [Fame shame](http://9gag.com/gag/a5QbQer)
+ - ⏩ [After 50 years of marriage, `I want a DNA test because the kids are ugly`](http://9gag.com/gag/aoy1gwg)
+ - 👉 [Abrupt bullet](http://9gag.com/gag/a9yrqL0)<!-- MEMES:END -->
 
 ---
 
