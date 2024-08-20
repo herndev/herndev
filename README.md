@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft Teams’ new single app for personal and work is now available](https://www.theverge.com/2024/8/20/24224507/microsoft-teams-work-single-personal-account-app-windows-mac-download)
- - [Dubious invite strongly hints at bronze iPhone 16 Pro at September Apple event [u]](https://appleinsider.com/articles/24/08/19/dubious-invite-strongly-hints-at-bronze-iphone-16-pro-at-september-apple-event?utm_medium=rss)
- - [Authors sue Anthropic for training AI using pirated books](https://www.theverge.com/2024/8/20/24224450/anthropic-copyright-lawsuit-pirated-books-ai)<!-- TECH:END -->
+ - [Pokemon TCG Pocket coming soon, up for registration now on Play Store](https://www.androidauthority.com/pokemon-tcg-pocket-release-3473324/)
+ - [You can now read Kindle books on a Peloton](https://www.theverge.com/2024/8/20/24224501/kindle-peloton-ebooks-fitness)
+ - [The DNC Is Officially the Influencer Convention](https://www.wired.com/story/dnc-influencer-convention/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
