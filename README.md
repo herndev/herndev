@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Unrealistic standards?](http://9gag.com/gag/aNDAP4v)
- - ⏩ [Are there any believers ?](http://9gag.com/gag/aLnDv8z)
- - 👉 [It&#39;s gonna get weird](http://9gag.com/gag/adB78Nd)<!-- MEMES:END -->
+ - ⏩ [I would walk 500 miles ..](http://9gag.com/gag/agmLBQ1)
+ - 👉 [Probably a repost, but i don&#39;t care, that was AWESOME!](http://9gag.com/gag/avyGzAn)<!-- MEMES:END -->
 
 ---
 
