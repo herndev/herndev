@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Take a look at Circle to Search’s ‘Song Search’ in action &lpar;Update: Rolling out&rpar;](https://www.androidauthority.com/circle-to-search-audio-search-first-look-3470398/)
  - [PhonePe and Google Pay accounted for over 85% share of 14.4B UPI transactions in July; PhonePe led with 5.9B transactions, Google Pay 5.3B, and Paytm 1.1B &lpar;Digbijay Mishra/The Economic Times&rpar;](http://www.techmeme.com/240819/p22#a240819p22)
- - [Google could soon help you discover new and upcoming movies and TV shows &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-discover-movies-tv-shows-card-3472953/)
- - [Cisco Talos: eight vulnerabilities in Microsoft&#39;s macOS apps could be abused by attackers to record video/sound from a user&#39;s device, log user input, and more &lpar;Connor Jones/The Register&rpar;](http://www.techmeme.com/240819/p21#a240819p21)<!-- TECH:END -->
+ - [Today&#39;s NYT Strands Hints, Answers and Help for Aug. 20, #170](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-aug-20-170/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
