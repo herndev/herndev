@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Messages beta brings back dual-SIM support for RCS chats](https://www.androidauthority.com/google-messages-dual-sim-rcs-2-3472965/)
- - [Business groups including Asia Internet Coalition, which includes Amazon, Google, and Meta, criticize Hong Kong&#39;s new cyber rules, calling them &quot;unprecedented&quot; &lpar;Newley Purnell/Bloomberg&rpar;](http://www.techmeme.com/240820/p2#a240820p2)
- - [Sources: Apple plans to make the most expensive iPhone models in India for the first time as Foxconn rushes to produce iPhone 16 Pro and Pro Max in the country &lpar;Sankalp Phartiyal/Bloomberg&rpar;](http://www.techmeme.com/240820/p1#a240820p1)<!-- TECH:END -->
+ - [Valve bans Razer and Wooting’s new keyboard features in Counter-Strike 2](https://www.theverge.com/2024/8/20/24224261/valve-counter-strike-2-razer-snap-tap-wooting-socd-ban-kick)
+ - [WhatsApp usernames could come with an innovative twist](https://www.androidauthority.com/whatsapp-usernames-innovative-twist-3473014/)
+ - [Q&amp;A with GitHub CEO Thomas Dohmke on AI, GitHub Copilot, letting developers test AI models in GitHub, open-source AI models, working within Microsoft, and more &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/240820/p3#a240820p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
