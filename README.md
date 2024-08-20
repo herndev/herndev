@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [US intelligence says Iran hacked the Trump campaign](https://www.theverge.com/2024/8/20/24224356/election-hackers-trump-campaign-iran)
- - [Amazon’s Echo Hub is down to its best price yet](https://www.theverge.com/2024/8/20/24223841/amazon-echo-hub-sonos-ace-deal-sale)
- - [Nvidia’s AI NPCs will debut in a multiplayer mech battle game next year](https://www.theverge.com/2024/8/20/24224391/mecha-break-nvidia-ai-npcs-announced)<!-- TECH:END -->
+ - [Microsoft Teams’ new single app for personal and work is now available](https://www.theverge.com/2024/8/20/24224507/microsoft-teams-work-single-personal-account-app-windows-mac-download)
+ - [Dubious invite strongly hints at bronze iPhone 16 Pro at September Apple event [u]](https://appleinsider.com/articles/24/08/19/dubious-invite-strongly-hints-at-bronze-iphone-16-pro-at-september-apple-event?utm_medium=rss)
+ - [Authors sue Anthropic for training AI using pirated books](https://www.theverge.com/2024/8/20/24224450/anthropic-copyright-lawsuit-pirated-books-ai)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
