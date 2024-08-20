@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Please where Hans](http://9gag.com/gag/aRBmEXM)
- - ⏩ [This man have no enemies.](http://9gag.com/gag/avyGAAq)
- - 👉 [Spell attic](http://9gag.com/gag/aD2W43O)<!-- MEMES:END -->
+ - 💣 [Ooof](http://9gag.com/gag/azx82Ez)
+ - ⏩ [Mother faces the man who abused and murdered her 7 year old child in a German court.](http://9gag.com/gag/aAyd0Bd)
+ - 👉 [What&#39;s Popeye&#39;s favorite food. \ud83e\udd26](http://9gag.com/gag/aByWmDO)<!-- MEMES:END -->
 
 ---
 
