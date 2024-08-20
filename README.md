@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Are landscapes still relevant? This is me chillin in Tatry &lpar;Slovakia&rpar;](http://9gag.com/gag/aZZmDXQ)
- - ⏩ [So proud of this community.](http://9gag.com/gag/a7orq7L)
- - 👉 [Mother faces the man who abused and murdered her 7 year old child in a German court.](http://9gag.com/gag/aAyd0Bd)<!-- MEMES:END -->
+ - 💣 [Celebrities too: money doesnot buy happiness](http://9gag.com/gag/ae9bgZm)
+ - ⏩ [It&#39;s gonna get weird](http://9gag.com/gag/adB78Nd)
+ - 👉 [What&#39;s Popeye&#39;s favorite food. \ud83e\udd26](http://9gag.com/gag/aByWmDO)<!-- MEMES:END -->
 
 ---
 
