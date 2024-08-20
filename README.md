@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Valve bans Razer and Wooting’s new keyboard features in Counter-Strike 2](https://www.theverge.com/2024/8/20/24224261/valve-counter-strike-2-razer-snap-tap-wooting-socd-ban-kick)
- - [WhatsApp usernames could come with an innovative twist](https://www.androidauthority.com/whatsapp-usernames-innovative-twist-3473014/)
- - [Q&amp;A with GitHub CEO Thomas Dohmke on AI, GitHub Copilot, letting developers test AI models in GitHub, open-source AI models, working within Microsoft, and more &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/240820/p3#a240820p3)<!-- TECH:END -->
+ - [US labor and environmental groups submit comments to the Commerce Department saying draft health and environmental assessments for new chip factories fall short &lpar;Justine Calma/The Verge&rpar;](http://www.techmeme.com/240820/p5#a240820p5)
+ - [Stephen Chamberlain, who faced the same charges as Mike Lynch over Autonomy&#39;s sale, died after a road accident, per his lawyer, days before Lynch went missing &lpar;Reuters&rpar;](http://www.techmeme.com/240820/p4#a240820p4)
+ - [Poll: How much do you pay for your phone plan every month?](https://www.androidauthority.com/phone-plan-cost-poll-3472676/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
