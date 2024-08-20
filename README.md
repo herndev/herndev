@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Take a look at Circle to Search’s ‘Song Search’ in action &lpar;Update: Rolling out&rpar;](https://www.androidauthority.com/circle-to-search-audio-search-first-look-3470398/)
- - [PhonePe and Google Pay accounted for over 85% share of 14.4B UPI transactions in July; PhonePe led with 5.9B transactions, Google Pay 5.3B, and Paytm 1.1B &lpar;Digbijay Mishra/The Economic Times&rpar;](http://www.techmeme.com/240819/p22#a240819p22)
- - [Today&#39;s NYT Strands Hints, Answers and Help for Aug. 20, #170](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-aug-20-170/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sources: Apple plans to make the most expensive iPhone models in India for the first time as Foxconn rushes to produce iPhone 16 Pro and Pro Max in the country &lpar;Sankalp Phartiyal/Bloomberg&rpar;](http://www.techmeme.com/240820/p1#a240820p1)
+ - [Today&#39;s NYT Mini Crossword Answers for Aug. 20](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-aug-20/#ftag=CAD590a51e)
+ - [Take a look at Circle to Search’s ‘Song Search’ in action &lpar;Update: Rolling out&rpar;](https://www.androidauthority.com/circle-to-search-audio-search-first-look-3470398/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
