@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [New Lost Records: Bloom &amp;#038; Rage trailer hints at a teenage mystery](https://www.polygon.com/news/442063/lost-records-bloom-rage-trailer-announcement)
- - [A new Dying Light game is on the way, starring original protagonist Kyle Crane](https://www.polygon.com/gamescom/442060/dying-light-techland-the-beast-reveal-trailer-gamescom-2024)
- - [Thanks to Tarsier Studios&#39; new horror game Reanimal, I&#39;ll never look at a sheep in the same way again](https://www.pcgamer.com/games/horror/thanks-to-tarsier-studios-new-horror-game-reanimal-ill-never-look-at-a-sheep-in-the-same-way-again)<!-- GAME:END -->
+ - [gamescom Opening Night Live 2024: Everything Xbox Revealed](https://news.xbox.com/en-us/2024/08/20/gamescom-opening-night-live-2024-xbox-recap/)
+ - [Indiana Jones and the Great Circle: Breaking Down Brand New Gameplay](https://news.xbox.com/en-us/2024/08/20/indiana-jones-and-the-great-circle-new-gameplay/)
+ - [With Indiana Jones and the Great Circle, MachineGames is taking inspiration less from Uncharted and more from The Chronicles of Riddick: Escape from Butcher Bay: &#39;We&#39;ve been going back a little bit into the history of our own&#39;](https://www.pcgamer.com/games/action/with-indiana-jones-and-the-great-circle-machinegames-is-taking-inspiration-less-from-uncharted-and-more-from-the-chronicles-of-riddick-escape-from-butcher-bay-weve-been-going-back-a-little-bit-into-the-history-of-our-own)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
