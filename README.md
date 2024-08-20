@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Pokemon TCG Pocket coming soon, up for registration now on Play Store](https://www.androidauthority.com/pokemon-tcg-pocket-release-3473324/)
- - [You can now read Kindle books on a Peloton](https://www.theverge.com/2024/8/20/24224501/kindle-peloton-ebooks-fitness)
- - [The DNC Is Officially the Influencer Convention](https://www.wired.com/story/dnc-influencer-convention/)<!-- TECH:END -->
+ - [The Samsung Galaxy Ring supports Qi2 charging, but there’s a catch](https://www.androidauthority.com/samsung-galaxy-ring-qi2-charging-3473405/)
+ - [Latest iOS 18 beta is &#39;final&#39; for all but the iPhone 16 models](https://appleinsider.com/articles/24/08/20/latest-ios-18-beta-is-final-for-all-but-the-iphone-16-models?utm_medium=rss)
+ - [Cond&amp;eacute; Nast makes a multiyear deal with OpenAI, letting ChatGPT and SearchGPT surface stories from The New Yorker, Vogue, Vanity Fair, Bon Appetit, and Wired &lpar;Kate Knibbs/Wired&rpar;](http://www.techmeme.com/240820/p22#a240820p22)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
