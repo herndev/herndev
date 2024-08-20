@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [12232](http://9gag.com/gag/aAydyE9)
- - ⏩ [He faked not only the players but also the cameraman three times](http://9gag.com/gag/azx8egb)
- - 👉 [South african diversity](http://9gag.com/gag/aW4mj74)<!-- MEMES:END -->
+ - 💣 [Construction site for migrant hotel to house hundreds of migrants in Ballyboden, Dublin burns down.](http://9gag.com/gag/aGy1L6G)
+ - ⏩ [Lara Croft Normal Diving Evolution &lpar;1996 - 2015&rpar; &lpar;DEI 2018&rpar;](http://9gag.com/gag/apRpgwb)
+ - 👉 [Based Nadal](http://9gag.com/gag/a7oro5z)<!-- MEMES:END -->
 
 ---
 
