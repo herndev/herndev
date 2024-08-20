@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Madden NFL 25 stumbles out to a &#39;mixed&#39; rating on Steam, which means it&#39;s no worse than any other Madden game on PC](https://www.pcgamer.com/games/sports/madden-nfl-25-stumbles-out-to-a-mixed-rating-on-steam-which-means-its-no-worse-than-any-other-madden-game-on-pc)
- - [Larian released a teaser for the new evil endings coming in Baldur&#39;s Gate 3&#39;s next patch, and they really weren&#39;t kidding about the evil part](https://www.pcgamer.com/games/rpg/larian-released-a-teaser-for-the-new-evil-endings-coming-in-baldur-s-gate-3-s-next-patch-and-they-really-weren-t-kidding-about-the-evil-part)
- - [You Can Play The OG Diablo In Your Browser For Free Right Now](https://kotaku.com/diablo-1-browser-play-for-free-phone-blizzard-pc-1851626289)<!-- GAME:END -->
+ - [All bell locations in Black Myth: Wukong chapter 1](https://www.polygon.com/guides/440629/black-myth-wukong-bell-locations-chapter-1-secret-area)
+ - [How to help the Yellow-Robed Squire in chapter 2 of Black Myth: Wukong](https://www.polygon.com/guides/440630/black-myth-wukong-yellow-robed-squire-how-to-help-chapter-2-secret-area)
+ - [All Buddha’s Eyeballs locations in Black Myth: Wukong](https://www.polygon.com/guides/440633/black-myth-wukon-buddha-eyeball-locations-where-to-deliver)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
