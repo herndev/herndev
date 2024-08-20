@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Snapdragon 7s Gen 3 launched: This mid-range chip that will power a Galaxy device](https://www.androidauthority.com/snapdragon-7s-gen-3-3472589/)
- - [Nvidia’s new G-Sync monitors no longer need a dedicated hardware module](https://www.theverge.com/2024/8/20/24224270/nvidia-g-sync-module-mediatek-partnership)
- - [Apple wants to put touch screens on every MacBook Pro metal surface](https://appleinsider.com/articles/24/08/20/apple-wants-to-put-touch-screens-on-every-macbook-pro-metal-surface?utm_medium=rss)<!-- TECH:END -->
+ - [Nvidia plans to let users link an Xbox account to its GeForce Now streaming service to enable automatic sign-in for supported games, starting on August 22 &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/240820/p14#a240820p14)
+ - [How new Apple Music subscribers can get three months for free](https://appleinsider.com/articles/24/08/20/how-new-apple-music-subscribers-can-get-three-months-for-free?utm_medium=rss)
+ - [Virginia-based Defcon AI, which aims to use ML to improve US military logistics, raised a $44M seed led by Bessemer, and has earned $15M in government contracts &lpar;Aria Alamalhodaei/TechCrunch&rpar;](http://www.techmeme.com/240820/p13#a240820p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
