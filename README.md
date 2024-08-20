@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone 16, Pro marketing images seemingly leak weeks before launch](https://appleinsider.com/articles/24/08/20/iphone-16-pro-marketing-images-seemingly-leak-weeks-before-launch?utm_medium=rss)
- - [Arm-mounted haptics could make future iPhone notifications more discreet](https://appleinsider.com/articles/24/08/20/arm-mounted-haptics-could-make-future-iphone-notifications-more-discreet?utm_medium=rss)
- - [16 Best Paper Planners: Weekly, Daily, and Accessories &lpar;2024&rpar;](https://www.wired.com/story/best-paper-planners/)<!-- TECH:END -->
+ - [US intelligence says Iran hacked the Trump campaign](https://www.theverge.com/2024/8/20/24224356/election-hackers-trump-campaign-iran)
+ - [Amazon’s Echo Hub is down to its best price yet](https://www.theverge.com/2024/8/20/24223841/amazon-echo-hub-sonos-ace-deal-sale)
+ - [Nvidia’s AI NPCs will debut in a multiplayer mech battle game next year](https://www.theverge.com/2024/8/20/24224391/mecha-break-nvidia-ai-npcs-announced)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
