@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Smart Plugs](https://www.cnet.com/home/smart-home/best-smart-plugs/#ftag=CAD590a51e)
- - [How to turn on a VPN connection on your iPhone](https://appleinsider.com/inside/iphone/tips/how-to-turn-on-a-vpn-connection-on-your-iphone?utm_medium=rss)
- - [Black Myth: Wukong, a Chinese-made, Tencent-backed game, became Steam&#39;s fourth most popular title ever within hours of its launch with 1.4M+ concurrent players &lpar;Bloomberg&rpar;](http://www.techmeme.com/240820/p8#a240820p8)<!-- TECH:END -->
+ - [Best Vitamin Subscription for 2024](https://www.cnet.com/health/nutrition/best-vitamin-subscription/#ftag=CAD590a51e)
+ - [Google Photos is working on a “Show less” option for faces you see &lpar;Update: Rolling out&rpar;](https://www.androidauthority.com/google-photos-memories-faces-show-less-option-3438858/)
+ - [The AGs of 10 states join the DOJ&#39;s antitrust lawsuit seeking to break up Live Nation and Ticketmaster; 39 states, plus DC, are now part of the lawsuit &lpar;Daniel Tencer/Music Business Worldwide&rpar;](http://www.techmeme.com/240820/p10#a240820p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
