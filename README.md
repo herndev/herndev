@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Xbox Insiders: Everything You Need to Know About Xbox Game Pass Standard](https://news.xbox.com/en-us/2024/08/20/xbox-insiders-everything-you-need-to-know-about-xbox-game-pass-standard/)
- - [Get The Best Platformer Of The 2010s On Sale Right Now](https://kotaku.com/celeste-steam-sale-platformer-1851626778)
- - [Leximan taught me that I could be the best wizard in the world as long as I could get over one thing—basic spelling](https://www.pcgamer.com/games/puzzle/leximan-taught-me-that-i-could-be-the-best-wizard-in-the-world-as-long-as-i-could-get-over-one-thingbasic-spelling)<!-- GAME:END -->
+ - [Overwatch 2 Fans Are Tired Of Blizzard Playing Favorites](https://kotaku.com/overwatch-2-kiriko-mercy-venture-reaper-season-12-skins-1851626893)
+ - [PS Plus Is Losing A Ton Of Great Games Next Month](https://kotaku.com/ps-plus-games-leaving-horizon-forbidden-west-marvel-ps5-1851626853)
+ - [The Borderlands movie was so wretched that someone&#39;s made a 3-minute song just from the bad reviews](https://www.pcgamer.com/movies-tv/the-borderlands-movie-was-so-wretched-that-someones-made-a-3-minute-song-just-from-the-bad-reviews)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
