@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Celebrities too: money doesnot buy happiness](http://9gag.com/gag/ae9bgZm)
- - ⏩ [It&#39;s gonna get weird](http://9gag.com/gag/adB78Nd)
- - 👉 [What&#39;s Popeye&#39;s favorite food. \ud83e\udd26](http://9gag.com/gag/aByWmDO)<!-- MEMES:END -->
+ - 💣 [Bugs bunny](http://9gag.com/gag/an7bz2E)
+ - ⏩ [Neighbors like this are far and few between](http://9gag.com/gag/ae9bgvq)
+ - 👉 [This classic from Superman](http://9gag.com/gag/a9yr1P1)<!-- MEMES:END -->
 
 ---
 
