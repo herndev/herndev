@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Shadow the Hedgehog is Venom now](https://www.polygon.com/news/441856/sonic-x-shadow-generations-venom)
- - [Black Myth: Wukong Beats Cyberpunk And Elden Ring To Set New Steam Records Hours After Coming Out](https://kotaku.com/black-myth-wukong-steam-game-pass-cyberpunk-elden-ring-1851626674)
- - [Black Myth: Wukong makes record-breaking debut on Steam](https://www.polygon.com/news/441851/black-myth-wukong-steam-charts)<!-- GAME:END -->
+ - [Xbox Insiders: Everything You Need to Know About Xbox Game Pass Standard](https://news.xbox.com/en-us/2024/08/20/xbox-insiders-everything-you-need-to-know-about-xbox-game-pass-standard/)
+ - [Get The Best Platformer Of The 2010s On Sale Right Now](https://kotaku.com/celeste-steam-sale-platformer-1851626778)
+ - [Leximan taught me that I could be the best wizard in the world as long as I could get over one thing—basic spelling](https://www.pcgamer.com/games/puzzle/leximan-taught-me-that-i-could-be-the-best-wizard-in-the-world-as-long-as-i-could-get-over-one-thingbasic-spelling)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
