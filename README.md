@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google has to face a class action lawsuit over Chrome’s data collection](https://www.theverge.com/2024/8/20/24224686/google-class-action-lawsuit-chrome-sync-data-collection)
- - [Google Classroom comes back from summer break with a better approach to group projects](https://www.theverge.com/2024/8/20/24224594/google-classroom-student-group-assignments)
- - [In a Reddit AMA, CEO Patrick Spence said Sonos won&#39;t rerelease its old app, after testing showed that doing so &quot;would make the problems worse, not better&quot; &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/240820/p25#a240820p25)<!-- TECH:END -->
+ - [Shein sues Temu for copyright infringement, accusing the company of stealing trade secrets and masquerading &quot;as a legitimate e-commerce &#39;marketplace&#39;&quot; &lpar;Samantha Cole/404 Media&rpar;](http://www.techmeme.com/240820/p28#a240820p28)
+ - [Gemini in Gmail can now help polish up your drafts](https://www.theverge.com/2024/8/20/24159832/google-gmail-gemini-help-me-write-polish)
+ - [Best Internet Providers in New Braunfels, Texas](https://www.cnet.com/home/internet/best-internet-providers-in-new-braunfels-tx/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
