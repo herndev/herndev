@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Bubble house with an area of 5500 square feet, which can be built in a few days](http://9gag.com/gag/azx81Az)
- - ⏩ [Becareful guys... stay away...](http://9gag.com/gag/a1mbR9w)
- - 👉 [WWE superstar Rhea Ripley makes time for a fan.](http://9gag.com/gag/aQz9dDz)<!-- MEMES:END -->
+ - ⏩ [Ostend Belgium, 1899 and present day Why?](http://9gag.com/gag/arybMeV)
+ - 👉 [Spell attic](http://9gag.com/gag/aD2W43O)<!-- MEMES:END -->
 
 ---
 
