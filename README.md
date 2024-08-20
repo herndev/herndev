@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Civilization 7 lets you mix and match history — and it’s a blast](https://www.theverge.com/24224489/civilization-7-hands-on-demo-impressions-firaxis-games)
- - [Customers can now extend AppleCare+ up to 45 days after it expires](https://appleinsider.com/articles/24/08/20/customers-can-now-extend-applecare-up-to-45-days-after-it-expires?utm_medium=rss)
- - [Apple&#39;s M3 Pro 14-inch MacBook Pro drops to $1,499, the lowest price ever](https://appleinsider.com/articles/24/08/20/apples-m3-pro-14-inch-macbook-pro-drops-to-1499-the-lowest-price-ever?utm_medium=rss)<!-- TECH:END -->
+ - [Google has to face a class action lawsuit over Chrome’s data collection](https://www.theverge.com/2024/8/20/24224686/google-class-action-lawsuit-chrome-sync-data-collection)
+ - [Google Classroom comes back from summer break with a better approach to group projects](https://www.theverge.com/2024/8/20/24224594/google-classroom-student-group-assignments)
+ - [In a Reddit AMA, CEO Patrick Spence said Sonos won&#39;t rerelease its old app, after testing showed that doing so &quot;would make the problems worse, not better&quot; &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/240820/p25#a240820p25)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
