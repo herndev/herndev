@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [All Juliette actresses , pick your favorite with memes.](http://9gag.com/gag/aByWgQP)
- - ⏩ [Gynocentrism on disply](http://9gag.com/gag/ayNDo2Y)
- - 👉 [Not again](http://9gag.com/gag/azx81KB)<!-- MEMES:END -->
+ - 💣 [Bubble house with an area of 5500 square feet, which can be built in a few days](http://9gag.com/gag/azx81Az)
+ - ⏩ [Becareful guys... stay away...](http://9gag.com/gag/a1mbR9w)
+ - 👉 [WWE superstar Rhea Ripley makes time for a fan.](http://9gag.com/gag/aQz9dDz)<!-- MEMES:END -->
 
 ---
 
