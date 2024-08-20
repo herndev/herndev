@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Sid Meier’s Civilization VII Revolutionizes the Strategy Classic by Building History in Layers](https://news.xbox.com/en-us/2024/08/20/sid-meiers-civilization-7-revolutionizes-strategy-classic/)
- - [Masters of Albion’s god hand is the meatiest part of its Gamescom trailer](https://www.polygon.com/gamescom/442161/masters-of-albion-reveal-trailer-molyneaux-gamescom-2024)
- - [It Sure Looks Like Keanu Reeves Is Starring In An Armored Core Short Film For Amazon](https://kotaku.com/keanu-reeves-armored-core-secret-level-trailer-amazon-1851627327)<!-- GAME:END -->
+ - [Kingdom Come: Deliverance 2 imagines a medieval Europe that&#39;s mostly swords in its latest Gamescom gameplay teaser](https://www.pcgamer.com/games/rpg/kingdom-come-deliverance-2-imagines-a-medieval-europe-thats-mostly-swords-in-its-latest-gamescom-gameplay-teaser)
+ - [Stellar Blade studio says a PC version is coming &#39;in the near future&#39;](https://www.pcgamer.com/games/action/stellar-blade-studio-says-a-pc-version-is-coming-in-the-near-future)
+ - [2024’s franchise blockbusters, ranked by their value to the series](https://www.polygon.com/24171622/2024-movie-sequels-prequels-ranked-least-to-most-essential)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
