@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Bubble house with an area of 5500 square feet, which can be built in a few days](http://9gag.com/gag/azx81Az)
- - ⏩ [Ostend Belgium, 1899 and present day Why?](http://9gag.com/gag/arybMeV)
- - 👉 [Spell attic](http://9gag.com/gag/aD2W43O)<!-- MEMES:END -->
+ - 💣 [Lara Croft Normal Diving Evolution &lpar;1996 - 2015&rpar; &lpar;DEI 2018&rpar;](http://9gag.com/gag/apRpgwb)
+ - ⏩ [So proud of this community.](http://9gag.com/gag/a7orq7L)
+ - 👉 [It&#39;s gonna get weird](http://9gag.com/gag/adB78Nd)<!-- MEMES:END -->
 
 ---
 
