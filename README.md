@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Samsung Galaxy Ring supports Qi2 charging, but there’s a catch](https://www.androidauthority.com/samsung-galaxy-ring-qi2-charging-3473405/)
- - [Latest iOS 18 beta is &#39;final&#39; for all but the iPhone 16 models](https://appleinsider.com/articles/24/08/20/latest-ios-18-beta-is-final-for-all-but-the-iphone-16-models?utm_medium=rss)
- - [Cond&amp;eacute; Nast makes a multiyear deal with OpenAI, letting ChatGPT and SearchGPT surface stories from The New Yorker, Vogue, Vanity Fair, Bon Appetit, and Wired &lpar;Kate Knibbs/Wired&rpar;](http://www.techmeme.com/240820/p22#a240820p22)<!-- TECH:END -->
+ - [Microsoft confirms Indiana Jones is coming to PS5 after its Xbox debut](https://www.theverge.com/2024/8/20/24224284/indiana-jones-and-the-great-circle-ps5-release-date)
+ - [The best deals on MacBooks right now](https://www.theverge.com/22399419/apple-macbook-air-pro-mac-mini-imac-deals)
+ - [5 ways talking to Gemini Live is much, much better than using Google Assistant](https://www.androidauthority.com/gemini-live-vs-google-assistant-3472788/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
