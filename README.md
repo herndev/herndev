@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [He faked not only the players but also the cameraman three times](http://9gag.com/gag/azx8egb)
- - ⏩ [I would walk 500 miles ..](http://9gag.com/gag/agmLBQ1)
- - 👉 [Becareful guys... stay away...](http://9gag.com/gag/a1mbR9w)<!-- MEMES:END -->
+ - 💣 [Unrealistic standards?](http://9gag.com/gag/aNDAP4v)
+ - ⏩ [Are there any believers ?](http://9gag.com/gag/aLnDv8z)
+ - 👉 [It&#39;s gonna get weird](http://9gag.com/gag/adB78Nd)<!-- MEMES:END -->
 
 ---
 
