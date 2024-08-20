@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [US lawmakers believe TP-Link networking products come with an &#39;unusual degree of vulnerabilities&#39; leaving them vulnerable to hackers](https://www.pcgamer.com/hardware/networking/us-lawmakers-believe-tp-link-networking-products-come-with-an-unusual-degree-of-vulnerabilities-leaving-them-vulnerable-to-hackers)
  - [How to watch Gamescom Opening Night Live 2024](https://www.pcgamer.com/gaming-industry/events-conferences/how-to-watch-gamescom-opening-night-live-2024)
- - [Black Myth: Wukong crushes Elden Ring and Cyberpunk 2077&#39;s all-time player records on Steam with 1.2 million and counting](https://www.pcgamer.com/games/action/black-myth-wukong-crushes-elden-ring-and-cyberpunk-2077s-all-time-player-records-on-steam-with-12-million-and-counting)
- - [Today&#39;s Wordle answer for Tuesday, August 20](https://www.pcgamer.com/games/puzzle/wordle-answer-today-august-20-2024)<!-- GAME:END -->
+ - [Black Myth: Wukong crushes Elden Ring and Cyberpunk 2077&#39;s all-time player records on Steam with 1.2 million and counting](https://www.pcgamer.com/games/action/black-myth-wukong-crushes-elden-ring-and-cyberpunk-2077s-all-time-player-records-on-steam-with-12-million-and-counting)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
