@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nvidia plans to let users link an Xbox account to its GeForce Now streaming service to enable automatic sign-in for supported games, starting on August 22 &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/240820/p14#a240820p14)
- - [How new Apple Music subscribers can get three months for free](https://appleinsider.com/articles/24/08/20/how-new-apple-music-subscribers-can-get-three-months-for-free?utm_medium=rss)
- - [Virginia-based Defcon AI, which aims to use ML to improve US military logistics, raised a $44M seed led by Bessemer, and has earned $15M in government contracts &lpar;Aria Alamalhodaei/TechCrunch&rpar;](http://www.techmeme.com/240820/p13#a240820p13)<!-- TECH:END -->
+ - [iPhone 16, Pro marketing images seemingly leak weeks before launch](https://appleinsider.com/articles/24/08/20/iphone-16-pro-marketing-images-seemingly-leak-weeks-before-launch?utm_medium=rss)
+ - [Arm-mounted haptics could make future iPhone notifications more discreet](https://appleinsider.com/articles/24/08/20/arm-mounted-haptics-could-make-future-iphone-notifications-more-discreet?utm_medium=rss)
+ - [16 Best Paper Planners: Weekly, Daily, and Accessories &lpar;2024&rpar;](https://www.wired.com/story/best-paper-planners/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
