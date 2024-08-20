@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Coming to Game Pass: Atlas Fallen, Core Keeper, and Star Trucker](https://news.xbox.com/en-us/2024/08/20/xbox-game-pass-august-2024-wave-2/)
- - [Gamescom 2024](https://www.polygon.com/gamescom/440839/gamescom-2024-everything-announced)
- - [Alien: Romulus is Ready Player One for the Alien universe](https://www.polygon.com/entertainment/441159/alien-romulus-ready-player-ash-rain-ian-holm)<!-- GAME:END -->
+ - [Clash with legends of yore in Black Myth: Wukong](https://www.pcgamer.com/games/clash-with-legends-of-yore-in-black-myth-wukong)
+ - [No other laptop maker would let me cannibalise the best bit of its new machine the way Framework does and that&#39;s a damned shame](https://www.pcgamer.com/hardware/gaming-laptops/no-other-laptop-maker-would-let-me-cannibalise-the-best-bit-of-its-new-machine-the-way-framework-does-and-thats-a-damned-shame)
+ - [Atari announces the 7800 Plus console coming this winter](https://www.polygon.com/pre-order/441690/atari-7800-plus-price-availability-games)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
