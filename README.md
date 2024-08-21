@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [South african diversity](http://9gag.com/gag/aW4mj74)
- - ⏩ [Maybe with this, we will see a resurgence of good games.](http://9gag.com/gag/aW4m4KK)
- - 👉 [Absolute chad](http://9gag.com/gag/aO8z8pr)<!-- MEMES:END -->
+ - 💣 [`My Lady Jane` shows a black, gay King Edward \u201cnavigating his queerness\u201d in 16th Century England. And if that wasn&#39;t enough, they also threw him in a wheelchair for good measure.](http://9gag.com/gag/aVvqg28)
+ - ⏩ [Saw this in quora ... what do you guys think of this?](http://9gag.com/gag/aKGVEWZ)
+ - 👉 [Ooof](http://9gag.com/gag/azx82Ez)<!-- MEMES:END -->
 
 ---
 
