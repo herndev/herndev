@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Backbone One 2nd gen review: sleek upgrades to a classic iPhone controller](https://appleinsider.com/articles/24/08/21/backbone-one-2nd-gen-review-sleek-upgrades-to-a-classic-iphone-controller?utm_medium=rss)
- - [New York-based Trunk Tools, which provides automation tools to organize unstructured construction documentation, raised a $20M Series A led by Redpoint &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240820/p31#a240820p31)
- - [Best Rowing Machines for 2024](https://www.cnet.com/health/fitness/best-rowing-machine/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Following rivals&#39; criticism, CrowdStrike President says no vendor could &quot;technically&quot; guarantee their software won&#39;t cause an incident like the July outage &lpar;Stephanie Stacey/Financial Times&rpar;](http://www.techmeme.com/240821/p1#a240821p1)
+ - [Today&#39;s NYT Strands Hints, Answers and Help for Aug. 21, #171](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-aug-21-171/#ftag=CAD590a51e)
+ - [Backbone One 2nd gen review: sleek upgrades to a classic iPhone controller](https://appleinsider.com/articles/24/08/21/backbone-one-2nd-gen-review-sleek-upgrades-to-a-classic-iphone-controller?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
