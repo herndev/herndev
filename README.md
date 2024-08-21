@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung Galaxy Tab S10 rumors: Everything we know and what we want to see](https://www.androidauthority.com/samsung-galaxy-tab-s10-3389280/)
- - [Google could soon be asking a whole lot more of you to set your browser and search defaults](https://www.androidauthority.com/chrome-browser-choice-3473959/)
- - [How to freeze your credit after a data breach](https://www.theverge.com/24224789/data-breach-freeze-report-security-how-to)<!-- TECH:END -->
+ - [Stadiums Are Embracing Face Recognition. Privacy Advocates Say They Should Stick to Sports](https://www.wired.com/story/face-recognition-stadiums-protest/)
+ - [iPhone character entry glitch crashes search, but it&#39;s not a bad bug](https://appleinsider.com/articles/24/08/21/iphone-character-entry-glitch-crashes-search-but-its-not-a-bad-bug?utm_medium=rss)
+ - [At Nintendo’s New Museum, Classic Games Get Reinvented for Today](https://www.wired.com/story/nintendo-museum-kyoto-reinvents-classic-games/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
