@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Kingdom Come: Deliverance II – How Your Character Becomes Unique to You](https://news.xbox.com/en-us/2024/08/21/kingdom-come-deliverance-2-gamescom-preview/)
- - [Shattered Space&#39;s Irresistible Horror Vibes Have Me Ready To Reinstall Starfield](https://kotaku.com/starfield-dlc-shattered-space-bethesda-horror-1851628323)
- - [BioWare spent more than 200,000 hours testing Dragon Age: The Veilguard on PC: &#39;Getting the PC experience just right was crucial to us&#39;](https://www.pcgamer.com/games/rpg/bioware-spent-more-than-200-000-hours-testing-dragon-age-the-veilguared-on-pc-getting-the-pc-experience-just-right-was-crucial-to-us)<!-- GAME:END -->
+ - [Riddlemaster Randy Pitchford says the Borderlands 4 teaser contains &#39;several secrets&#39;](https://www.pcgamer.com/games/fps/riddlemaster-randy-pitchford-says-the-borderlands-4-teaser-contains-several-secrets)
+ - [Dredge, Blasphemous, and other Team17 titles are on sale at GOG](https://www.polygon.com/sales-guide/442721/gog-team17-dredge-blasphemous-deal-sale)
+ - [Where to find silk in Black Myth: Wukong](https://www.polygon.com/guides/440631/black-myth-wukong-silk-how-to-get-where-to-find)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
