@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Let&#39;s all just pretend that the Borderlands 4 reveal came at a better time](https://www.pcgamer.com/games/fps/lets-all-just-pretend-that-the-borderlands-4-reveal-came-at-a-better-time)
  - [Journey to the Savage Planet developer says Google only wanted &#39;monstrous&#39; games with major licenses for Stadia: &#39;They were very strange&#39;](https://www.pcgamer.com/games/journey-to-the-savage-planet-developer-says-google-only-wanted-monstrous-games-with-major-licenses-for-stadia-they-were-very-strange)
- - [Riddlemaster Randy Pitchford says the Borderlands 4 teaser contains &#39;several secrets&#39;](https://www.pcgamer.com/games/fps/riddlemaster-randy-pitchford-says-the-borderlands-4-teaser-contains-several-secrets)
- - [Dredge, Blasphemous, and other Team17 titles are on sale at GOG](https://www.polygon.com/sales-guide/442721/gog-team17-dredge-blasphemous-deal-sale)<!-- GAME:END -->
+ - [Riddlemaster Randy Pitchford says the Borderlands 4 teaser contains &#39;several secrets&#39;](https://www.pcgamer.com/games/fps/riddlemaster-randy-pitchford-says-the-borderlands-4-teaser-contains-several-secrets)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
