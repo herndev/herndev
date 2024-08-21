@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon cancels the Echo Show 8 Photos Edition’s main feature — focusing on photos](https://www.theverge.com/2024/8/21/24225149/amazon-end-photosplus-subscription-echo-show-8-photos-edition)
- - [US court records: US agencies are increasingly accessing parts of the 500M encrypted message haul retrieved from the hack of encrypted phone company Sky in 2021 &lpar;Joseph Cox/404 Media&rpar;](http://www.techmeme.com/240821/p18#a240821p18)
- - [iCloud storage leads the pack across Apple&#39;s entire services ecosystem](https://appleinsider.com/articles/24/08/21/icloud-storage-leads-the-pack-in-apples-services-ecosystem?utm_medium=rss)<!-- TECH:END -->
+ - [Public Citizen: crypto companies have spent $119M+ in the 2024 election cycle through Q2, or 48% of all corporate money, an &quot;unprecedented&quot; spending spree &lpar;Brendan Pedersen/Punchbowl News&rpar;](http://www.techmeme.com/240821/p20#a240821p20)
+ - [Chrome now lets you batch import your open tabs when switching phones](https://www.androidauthority.com/chrome-browser-batch-tab-import-3473872/)
+ - [Interviews with US political campaigns and tech companies: despite offers from 30+ companies for AI products, most campaigns are wary and largely not biting &lpar;Sheera Frenkel/New York Times&rpar;](http://www.techmeme.com/240821/p19#a240821p19)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
