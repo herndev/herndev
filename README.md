@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Covid-19 Summer Wave Is So Big, the FDA Might Release New Vaccines Early](https://www.wired.com/story/covid-summer-surge-fda-vaccine-approval/)
- - [The FTC’s noncompete agreements ban has been struck down](https://www.theverge.com/2024/8/21/24225112/ftc-noncompete-agreement-ban-blocked-judge)
- - [Pokemon TCG Pocket release date: When is it available?](https://www.androidauthority.com/pokemon-tcg-pocket-release-date-3473119/)<!-- TECH:END -->
+ - [Since 2023, Chinese investors, including Alibaba and Tencent, have valued 6+ China-based startups developing LLMs, dubbed &quot;Little AI Dragons&quot;, at $1B+ each &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240821/p8#a240821p8)
+ - [Linux users say Microsoft&#39;s recent Windows patch leaves dual-boot devices unable to boot into Linux when Secure Boot is enforced; Microsoft hasn&#39;t commented &lpar;Dan Goodin/Ars Technica&rpar;](http://www.techmeme.com/240821/p7#a240821p7)
+ - [Users now have more time to extend their AppleCare Plus coverage after it expires](https://www.androidauthority.com/more-time-extend-applecare-plus-3473668/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
