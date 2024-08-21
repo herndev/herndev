@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [`My Lady Jane` shows a black, gay King Edward \u201cnavigating his queerness\u201d in 16th Century England. And if that wasn&#39;t enough, they also threw him in a wheelchair for good measure.](http://9gag.com/gag/aVvqg28)
- - ⏩ [Saw this in quora ... what do you guys think of this?](http://9gag.com/gag/aKGVEWZ)
- - 👉 [Ooof](http://9gag.com/gag/azx82Ez)<!-- MEMES:END -->
+ - 💣 [Abrupt bullet](http://9gag.com/gag/a9yrqL0)
+ - ⏩ [Maybe with this, we will see a resurgence of good games.](http://9gag.com/gag/aW4m4KK)
+ - 👉 [After S2 of Acolyte was cancelled, the Actress knows who to blame. Not her bad acting or the bad writing. Its racism not to watch the garbade. Sauce in comments.](http://9gag.com/gag/aLnDnmV)<!-- MEMES:END -->
 
 ---
 
