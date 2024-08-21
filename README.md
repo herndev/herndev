@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Sorry mom, I&#39;m getting old too](http://9gag.com/gag/a34qZMr)
- - ⏩ [What orthognathic surgery can do](http://9gag.com/gag/aByWL5O)
- - 👉 [I know Wednesday didn&#39;t come yet, still...](http://9gag.com/gag/a7oroyr)<!-- MEMES:END -->
+ - 💣 [Please where Hans](http://9gag.com/gag/aRBmEXM)
+ - ⏩ [I know Wednesday didn&#39;t come yet, still...](http://9gag.com/gag/a7oroyr)
+ - 👉 [Sorry mom, I&#39;m getting old too](http://9gag.com/gag/a34qZMr)<!-- MEMES:END -->
 
 ---
 
