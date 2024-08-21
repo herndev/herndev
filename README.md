@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The poeple has spoken](http://9gag.com/gag/aW4m4BA)
- - ⏩ [Amazon driver breaks through motorcyclist blockade](http://9gag.com/gag/abApePb)
- - 👉 [Dude calmly walks into a store and deals with a bully](http://9gag.com/gag/apRp3MM)<!-- MEMES:END -->
+ - 💣 [Amazon driver breaks through motorcyclist blockade](http://9gag.com/gag/abApePb)
+ - ⏩ [Sweet Baby Inc. can go f**k themselves!](http://9gag.com/gag/agmLmmn)
+ - 👉 [Title](http://9gag.com/gag/apRp1w9)<!-- MEMES:END -->
 
 ---
 
