@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [New Xboxes Are Out In October And Up For Pre-Order As Microsoft Continues Porting Games To PS5](https://kotaku.com/xbox-series-xs-2tb-spencer-game-pass-indiana-jones-ps5-1851627716)
- - [Xbox Unveils Four New Accessibility Offerings](https://news.xbox.com/en-us/2024/08/21/xbox-accessibility-adaptive-joystick-thumbstick-toppers/)
- - [All The Features Available In Black Myth: Wukong&#39;s Photo Mode](https://kotaku.com/black-myth-wukong-photo-mode-settings-1851625321)<!-- GAME:END -->
+ - [Let’s Build a Dungeon: The Game Dev Sim That Lets You Build Entire Games Yourself](https://news.xbox.com/en-us/2024/08/21/lets-build-a-dungeon-the-game-dev-sim-that-lets-you-build-entire-games-yourself/)
+ - [Terminator Zero’s showrunner knows that Terminator is bigger than the Connors](https://www.polygon.com/anime/442189/terminator-zero-showrunner-interview-preview-connor-john-sarah)
+ - [Honkai: Star Rail codes for August 2024](https://www.polygon.com/honkai-star-rail-guides/23699079/code-redeem-redemption-gift-stellar-jade)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
