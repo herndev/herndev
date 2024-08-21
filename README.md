@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Absolute chad](http://9gag.com/gag/aO8z8pr)
- - ⏩ [Going to Gamescom tomorrow to try and find a publisher that will publish our game. Wish me luck :&rpar;](http://9gag.com/gag/aXPqLN6)
- - 👉 [Nothing but the truth](http://9gag.com/gag/aQz9zZ2)<!-- MEMES:END -->
+ - 💣 [Fame shame](http://9gag.com/gag/a5QbQer)
+ - ⏩ [Lara Croft Normal Diving Evolution &lpar;1996 - 2015&rpar; &lpar;DEI 2018&rpar;](http://9gag.com/gag/apRpgwb)
+ - 👉 [E-scooter riders are worse than cyclists](http://9gag.com/gag/a9yrzV6)<!-- MEMES:END -->
 
 ---
 
