@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Winter Burrow: The First Hands-on](https://news.xbox.com/en-us/2024/08/21/winter-burrow-the-first-hands-on/)
- - [&#39;We won&#39;t see another game reach these heights until probably GTA 6&#39;: Palworld community manager congratulates Black Myth: Wukong for its continued success](https://www.pcgamer.com/games/rpg/we-wont-see-another-game-reach-these-heights-until-probably-gta-6-palworld-community-manager-congratulates-black-myth-wukong-for-its-continued-success)
- - [MSI Crosshair 16 HX review](https://www.pcgamer.com/hardware/gaming-laptops/msi-crosshair-16-hx-review)<!-- GAME:END -->
+ - [Pre-Order Three New Xbox Series X|S Console Options Starting August 21](https://news.xbox.com/en-us/2024/08/21/xbox-series-x-s-new-console-options-pre-order/)
+ - [Gearbox boss Randy Pitchford predicted that the Epic Games Store would kill off Steam 5 years ago, now the internet is mocking him as Borderlands 4 comes crawling back](https://www.pcgamer.com/games/fps/gearbox-boss-randy-pitchford-predicted-that-the-epic-games-store-would-kill-off-steam-5-years-ago-now-the-internet-is-mocking-him-as-borderlands-4-comes-crawling-back)
+ - [Winter Burrow: The First Hands-on](https://news.xbox.com/en-us/2024/08/21/winter-burrow-the-first-hands-on/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
