@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The UK&#39;s new rules to curb online payment scams, rolling out in October 2024, face backlash from the finance industry, including over a lack of time to adjust &lpar;Aisha S Gani/Bloomberg&rpar;](http://www.techmeme.com/240821/p3#a240821p3)
- - [Samsung Galaxy S24 FE rumors and leaks: Everything we know so far](https://www.androidauthority.com/samsung-galaxy-s24-fe-3440533/)
- - [Today&#39;s NYT Mini Crossword Answers for Aug. 21](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-aug-21/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The Covid-19 Summer Wave Is So Big, the FDA Might Release New Vaccines Early](https://www.wired.com/story/covid-summer-surge-fda-vaccine-approval/)
+ - [The FTC’s noncompete agreements ban has been struck down](https://www.theverge.com/2024/8/21/24225112/ftc-noncompete-agreement-ban-blocked-judge)
+ - [Pokemon TCG Pocket release date: When is it available?](https://www.androidauthority.com/pokemon-tcg-pocket-release-date-3473119/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
