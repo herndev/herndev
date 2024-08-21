@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Amazon driver breaks through motorcyclist blockade](http://9gag.com/gag/abApePb)
- - ⏩ [Sweet Baby Inc. can go f**k themselves!](http://9gag.com/gag/agmLmmn)
- - 👉 [Title](http://9gag.com/gag/apRp1w9)<!-- MEMES:END -->
+ - 💣 [Her, `I&#39;ve never done this before`, also her...](http://9gag.com/gag/a5QbXNo)
+ - ⏩ [Title](http://9gag.com/gag/apRp1w9)
+ - 👉 [Mother faces the man who abused and murdered her 7 year old child in a German court.](http://9gag.com/gag/aAyd0Bd)<!-- MEMES:END -->
 
 ---
 
