@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Abrupt bullet](http://9gag.com/gag/a9yrqL0)
+ - 💣 [South african diversity](http://9gag.com/gag/aW4mj74)
  - ⏩ [Maybe with this, we will see a resurgence of good games.](http://9gag.com/gag/aW4m4KK)
- - 👉 [After S2 of Acolyte was cancelled, the Actress knows who to blame. Not her bad acting or the bad writing. Its racism not to watch the garbade. Sauce in comments.](http://9gag.com/gag/aLnDnmV)<!-- MEMES:END -->
+ - 👉 [I\u2019m a guy who just likes to draw. I hope &lpar;between all the propaganda&rpar; my latest piece can put a smile to someones face. Thx for the nice feedback I often get from you guys. Really lifts me up.](http://9gag.com/gag/avyGWGq)<!-- MEMES:END -->
 
 ---
 
