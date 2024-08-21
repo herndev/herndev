@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Today&#39;s Wordle answer for Wednesday, August 21](https://www.pcgamer.com/games/puzzle/wordle-answer-today-august-21-2024)
- - [We asked Black Myth: Wukong&#39;s developer about the controversy over its founders&#39; past sexist remarks, but GameScience&#39;s only reply was &#39;No comment&#39;](https://www.pcgamer.com/games/action/black-myth-wukong-sexism-controversy-interview-no-comment)
- - [Kingdom Come: Deliverance 2 imagines a medieval Europe that&#39;s mostly swords in its latest Gamescom gameplay teaser](https://www.pcgamer.com/games/rpg/kingdom-come-deliverance-2-imagines-a-medieval-europe-thats-mostly-swords-in-its-latest-gamescom-gameplay-teaser)<!-- GAME:END -->
+ - [Three Hours With Kingdom Come: Deliverance 2 Has Me Thinking It Might Be A Great Immersive RPG](https://kotaku.com/kingdom-come-deliverance-2-preview-medieval-rpg-1851626849)
+ - [Kingdom Come: Deliverance 2 is a strange mixture of historical drama and The Hangover](https://www.pcgamer.com/games/rpg/kingdom-come-deliverance-2-is-a-strange-mixture-of-historical-drama-and-the-hangover)
+ - [Games Workshop officially bans the use of AI in its Golden Demon painting competitions](https://www.pcgamer.com/games/board-games/games-workshop-officially-bans-the-use-of-ai-in-its-golden-demon-painting-competitions)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
