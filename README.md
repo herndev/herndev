@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Based Nadal](http://9gag.com/gag/a7oro5z)
- - ⏩ [Don&#39;t forget to use your paper straws!](http://9gag.com/gag/a4Pbzp1)
- - 👉 [The poeple has spoken](http://9gag.com/gag/aW4m4BA)<!-- MEMES:END -->
+ - 💣 [The poeple has spoken](http://9gag.com/gag/aW4m4BA)
+ - ⏩ [Amazon driver breaks through motorcyclist blockade](http://9gag.com/gag/abApePb)
+ - 👉 [Dude calmly walks into a store and deals with a bully](http://9gag.com/gag/apRp3MM)<!-- MEMES:END -->
 
 ---
 
