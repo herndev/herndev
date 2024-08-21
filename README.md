@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft plans to launch the $450 white discless Xbox Series X, a $600 2TB Galaxy Black special-edition Series X, and $350 1TB Series S on October 15 in the US &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/240821/p16#a240821p16)
- - [Want Apple Music for free? Apple is extending its free trial, but there’s a catch](https://www.androidauthority.com/apple-music-free-trial-three-months-3473788/)
- - [Lego’s Super Mario: Mario Kart sets will cross the finish line early in 2025](https://www.theverge.com/2024/8/21/24225151/lego-super-mario-mario-kart-toys)<!-- TECH:END -->
+ - [Amazon cancels the Echo Show 8 Photos Edition’s main feature — focusing on photos](https://www.theverge.com/2024/8/21/24225149/amazon-end-photosplus-subscription-echo-show-8-photos-edition)
+ - [US court records: US agencies are increasingly accessing parts of the 500M encrypted message haul retrieved from the hack of encrypted phone company Sky in 2021 &lpar;Joseph Cox/404 Media&rpar;](http://www.techmeme.com/240821/p18#a240821p18)
+ - [iCloud storage leads the pack across Apple&#39;s entire services ecosystem](https://appleinsider.com/articles/24/08/21/icloud-storage-leads-the-pack-in-apples-services-ecosystem?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
