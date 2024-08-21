@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [South african diversity](http://9gag.com/gag/aW4mj74)
- - ⏩ [Maybe with this, we will see a resurgence of good games.](http://9gag.com/gag/aW4m4KK)
- - 👉 [I\u2019m a guy who just likes to draw. I hope &lpar;between all the propaganda&rpar; my latest piece can put a smile to someones face. Thx for the nice feedback I often get from you guys. Really lifts me up.](http://9gag.com/gag/avyGWGq)<!-- MEMES:END -->
+ - 💣 [Sweet Baby Inc. can go f**k themselves!](http://9gag.com/gag/agmLmmn)
+ - ⏩ [Ooof](http://9gag.com/gag/azx82Ez)
+ - 👉 [Her, `I&#39;ve never done this before`, also her...](http://9gag.com/gag/a5QbXNo)<!-- MEMES:END -->
 
 ---
 
