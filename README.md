@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Fame shame](http://9gag.com/gag/a5QbQer)
- - ⏩ [Lara Croft Normal Diving Evolution &lpar;1996 - 2015&rpar; &lpar;DEI 2018&rpar;](http://9gag.com/gag/apRpgwb)
- - 👉 [E-scooter riders are worse than cyclists](http://9gag.com/gag/a9yrzV6)<!-- MEMES:END -->
+ - 💣 [Based Nadal](http://9gag.com/gag/a7oro5z)
+ - ⏩ [Abrupt bullet](http://9gag.com/gag/a9yrqL0)
+ - 👉 [And we all know why](http://9gag.com/gag/aLnDn9A)<!-- MEMES:END -->
 
 ---
 
