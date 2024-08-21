@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Beats Studio Pro headphones add one of Apple’s best features](https://www.theverge.com/2024/8/21/24225250/beats-studio-pro-apple-audio-sharing-update-headphones)
- - [Airbnb makes it easier to get into rentals by connecting with more smart locks](https://www.theverge.com/2024/8/21/24225305/airbnb-smart-lock-yale-august-integration)
- - [Amazon is breaking the one thing that mattered with the Echo Show 8 Photos Edition](https://www.androidauthority.com/echo-show-8-photos-edition-3473907/)<!-- TECH:END -->
+ - [New Beats firmware brings audio sharing to Beats Studio Pro](https://appleinsider.com/articles/24/08/21/new-beats-firmware-brings-audio-sharing-to-beats-studio-pro?utm_medium=rss)
+ - [Tesla’s latest Model X recall isn’t just a software update](https://www.theverge.com/2024/8/21/24225309/tesla-model-x-second-recall-roof-trim-adhesive)
+ - [Microsoft announces the $30 Xbox Adaptive Joystick, a wired companion to other Xbox controllers, for players with limited mobility, launching in early 2025 &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/240821/p21#a240821p21)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
