@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Clean up the Afterlife in Crypt Custodian](https://news.xbox.com/en-us/2024/08/21/clean-up-the-afterlife-in-crypt-custodian/)
- - [Grab This Stunning Indie Adventure Game On Steam For Cheap](https://kotaku.com/steam-rhythm-game-sale-a-highland-song-scotland-1851628198)
- - [Pick Up The Entire Mafia Series In This Offer You Can’t Refuse](https://kotaku.com/mafia-series-2-3-sale-hangar-13-new-game-1851628204)<!-- GAME:END -->
+ - [Kingdom Come: Deliverance II – How Your Character Becomes Unique to You](https://news.xbox.com/en-us/2024/08/21/kingdom-come-deliverance-2-gamescom-preview/)
+ - [Shattered Space&#39;s Irresistible Horror Vibes Have Me Ready To Reinstall Starfield](https://kotaku.com/starfield-dlc-shattered-space-bethesda-horror-1851628323)
+ - [BioWare spent more than 200,000 hours testing Dragon Age: The Veilguard on PC: &#39;Getting the PC experience just right was crucial to us&#39;](https://www.pcgamer.com/games/rpg/bioware-spent-more-than-200-000-hours-testing-dragon-age-the-veilguared-on-pc-getting-the-pc-experience-just-right-was-crucial-to-us)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
