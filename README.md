@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Based Nadal](http://9gag.com/gag/a7oro5z)
- - ⏩ [Abrupt bullet](http://9gag.com/gag/a9yrqL0)
- - 👉 [And we all know why](http://9gag.com/gag/aLnDn9A)<!-- MEMES:END -->
+ - 💣 [Mother faces the man who abused and murdered her 7 year old child in a German court.](http://9gag.com/gag/aAyd0Bd)
+ - ⏩ [Get your own sword](http://9gag.com/gag/avyGW5d)
+ - 👉 [Sorry mom, I&#39;m getting old too](http://9gag.com/gag/a34qZMr)<!-- MEMES:END -->
 
 ---
 
