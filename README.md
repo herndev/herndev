@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Diablo IV: Vessel of Hatred – New Features Revealed Live at Gamescom](https://news.blizzard.com/diablo4/24128995/#new_tab)
- - [Blizzard will inject a little WoW into Diablo 4: Vessel of Hatred with a new co-op dungeon and party finder](https://www.pcgamer.com/games/rpg/blizzard-will-inject-a-little-wow-into-diablo-4-vessel-of-hatred-with-a-new-co-op-dungeon-and-party-finder)
- - [How Overwatch 2’s new hero Juno went from fighter pilot alien to anxious teen from Mars](https://www.polygon.com/overwatch/442505/overwatch-2-juno-lore-blizzard-interview)<!-- GAME:END -->
+ - [New Xboxes Are Out In October And Up For Pre-Order As Microsoft Continues Porting Games To PS5](https://kotaku.com/xbox-series-xs-2tb-spencer-game-pass-indiana-jones-ps5-1851627716)
+ - [Xbox Unveils Four New Accessibility Offerings](https://news.xbox.com/en-us/2024/08/21/xbox-accessibility-adaptive-joystick-thumbstick-toppers/)
+ - [All The Features Available In Black Myth: Wukong&#39;s Photo Mode](https://kotaku.com/black-myth-wukong-photo-mode-settings-1851625321)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
