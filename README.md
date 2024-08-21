@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Bowers &amp; Wilkins Pi8 Earbuds Review: Soaring Sound, Clever Case](https://www.wired.com/review/review-bowers-and-wilkins-pi8-in-ear-headphones/)
- - [A look at Rockbridge, a Silicon Valley-backed right-wing donor group co-founded by JD Vance to influence US politics; docs and sources: its 2024 budget is ~$75M &lpar;Reuters&rpar;](http://www.techmeme.com/240821/p2#a240821p2)
- - [The Galaxy S24 FE is a step closer to launch thanks to new listing](https://www.androidauthority.com/samsung-galaxy-s24-fe-bluetooth-listing-3472175/)<!-- TECH:END -->
+ - [The UK&#39;s new rules to curb online payment scams, rolling out in October 2024, face backlash from the finance industry, including over a lack of time to adjust &lpar;Aisha S Gani/Bloomberg&rpar;](http://www.techmeme.com/240821/p3#a240821p3)
+ - [Samsung Galaxy S24 FE rumors and leaks: Everything we know so far](https://www.androidauthority.com/samsung-galaxy-s24-fe-3440533/)
+ - [Today&#39;s NYT Mini Crossword Answers for Aug. 21](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-aug-21/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
