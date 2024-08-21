@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Mother faces the man who abused and murdered her 7 year old child in a German court.](http://9gag.com/gag/aAyd0Bd)
- - ⏩ [Get your own sword](http://9gag.com/gag/avyGW5d)
- - 👉 [Sorry mom, I&#39;m getting old too](http://9gag.com/gag/a34qZMr)<!-- MEMES:END -->
+ - 💣 [Dude calmly walks into a store and deals with a bully](http://9gag.com/gag/apRp3MM)
+ - ⏩ [E-scooter riders are worse than cyclists](http://9gag.com/gag/a9yrzV6)
+ - 👉 [Title](http://9gag.com/gag/apRp1w9)<!-- MEMES:END -->
 
 ---
 
