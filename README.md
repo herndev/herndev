@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft releases three Phi-3.5 models designed for basic/fast reasoning and more, available for developers to download, use, and fine-tune on Hugging Face &lpar;Carl Franzen/VentureBeat&rpar;](http://www.techmeme.com/240820/p30#a240820p30)
- - [10 Best Places to Buy Plants Online for 2024](https://www.cnet.com/news/best-places-to-buy-plants-online/#ftag=CAD590a51e)
- - [Best Home Security Cameras With Lights for 2024](https://www.cnet.com/home/security/the-best-home-security-cameras-with-lights/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Backbone One 2nd gen review: sleek upgrades to a classic iPhone controller](https://appleinsider.com/articles/24/08/21/backbone-one-2nd-gen-review-sleek-upgrades-to-a-classic-iphone-controller?utm_medium=rss)
+ - [New York-based Trunk Tools, which provides automation tools to organize unstructured construction documentation, raised a $20M Series A led by Redpoint &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240820/p31#a240820p31)
+ - [Microsoft releases three Phi-3.5 models designed for basic/fast reasoning and more, available for developers to download, use, and fine-tune on Hugging Face &lpar;Carl Franzen/VentureBeat&rpar;](http://www.techmeme.com/240820/p30#a240820p30)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
