@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [These are my 10 favorite Google Photos features](https://www.androidauthority.com/favorite-google-photos-features-3473294/)
- - [Galaxy Watch may soon let you turn off daily activity alerts](https://www.androidauthority.com/galaxy-watch-turn-off-daily-activity-alerts-3473730/)
- - [Samsung unveils a new Odyssey gaming monitor lineup that uses eye-tracking tech to convert 2D visuals into glasses-free 3D, set for release &quot;within this year&quot; &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/240821/p11#a240821p11)<!-- TECH:END -->
+ - [This system can sort real pictures from AI fakes — why aren’t platforms using it?](https://www.theverge.com/2024/8/21/24223932/c2pa-standard-verify-ai-generated-images-content-credentials)
+ - [Ring’s budget battery doorbell can now see packages left on your porch](https://www.theverge.com/2024/8/21/24223639/ring-battery-doorbell-camera-price-release-date-specs)
+ - [Sources and docs: sales reps say Google&#39;s targeting of teen minors goes beyond Meta; Google lets advertisers target an &quot;unknown&quot; group that skews toward teens &lpar;Catherine Perloff/Adweek&rpar;](http://www.techmeme.com/240821/p14#a240821p14)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
