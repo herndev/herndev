@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Jackbox Naughty Pack answers fan demand with minigames for sickos](https://www.polygon.com/gaming/442642/jackbox-naughty-pack-nsfw-games-fan-demand)
- - [Atomfall: The First Hands-On](https://news.xbox.com/en-us/2024/08/21/atomfall-the-first-hands-on/)
- - [Malware plucks at the bland horrors of the computer desktop](https://www.polygon.com/review/441331/malware-plucks-at-the-bland-horrors-of-the-computer-desktop)<!-- GAME:END -->
+ - [Lego Reveals Adorable Little Mario Kart Sets Coming In 2025](https://kotaku.com/mario-kart-8-lego-nintendo-switch-release-date-1851628089)
+ - [Save up to 87% on Monster Hunter: World, Rise, and all the DLC](https://www.polygon.com/good-deals/442662/monster-hunter-world-rise-dlc-sale)
+ - [Floatopia is coming to PS5 in 2025](https://blog.playstation.com/2024/08/21/floatopia-is-coming-to-ps5-in-2025/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
