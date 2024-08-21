@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Damn it, Jp, clean your shit!](http://9gag.com/gag/agmLgXw)
- - ⏩ [Typical Balkan grandma](http://9gag.com/gag/aAydbed)
- - 👉 [Her, `I&#39;ve never done this before`, also her...](http://9gag.com/gag/a5QbXNo)<!-- MEMES:END -->
+ - 💣 [Actual blackmagicf**kery](http://9gag.com/gag/a6ZbE5R)
+ - ⏩ [When you face main villain on level 1](http://9gag.com/gag/aO8z2R2)
+ - 👉 [Based Nadal](http://9gag.com/gag/a7oro5z)<!-- MEMES:END -->
 
 ---
 
