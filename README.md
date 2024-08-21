@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Since 2023, Chinese investors, including Alibaba and Tencent, have valued 6+ China-based startups developing LLMs, dubbed &quot;Little AI Dragons&quot;, at $1B+ each &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240821/p8#a240821p8)
- - [Linux users say Microsoft&#39;s recent Windows patch leaves dual-boot devices unable to boot into Linux when Secure Boot is enforced; Microsoft hasn&#39;t commented &lpar;Dan Goodin/Ars Technica&rpar;](http://www.techmeme.com/240821/p7#a240821p7)
- - [Users now have more time to extend their AppleCare Plus coverage after it expires](https://www.androidauthority.com/more-time-extend-applecare-plus-3473668/)<!-- TECH:END -->
+ - [These are my 10 favorite Google Photos features](https://www.androidauthority.com/favorite-google-photos-features-3473294/)
+ - [Galaxy Watch may soon let you turn off daily activity alerts](https://www.androidauthority.com/galaxy-watch-turn-off-daily-activity-alerts-3473730/)
+ - [Samsung unveils a new Odyssey gaming monitor lineup that uses eye-tracking tech to convert 2D visuals into glasses-free 3D, set for release &quot;within this year&quot; &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/240821/p11#a240821p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
