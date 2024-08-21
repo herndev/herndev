@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Fame shame](http://9gag.com/gag/a5QbQer)
- - ⏩ [Effect of Komodo dragon&#39;s bite](http://9gag.com/gag/aAydyR0)
- - 👉 [Stunning Italian lifting 85kg &lpar;she weights 49kg&rpar;](http://9gag.com/gag/a87yAj1)<!-- MEMES:END -->
+ - 💣 [Sorry mom, I&#39;m getting old too](http://9gag.com/gag/a34qZMr)
+ - ⏩ [What orthognathic surgery can do](http://9gag.com/gag/aByWL5O)
+ - 👉 [I know Wednesday didn&#39;t come yet, still...](http://9gag.com/gag/a7oroyr)<!-- MEMES:END -->
 
 ---
 
