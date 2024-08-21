@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [This system can sort real pictures from AI fakes — why aren’t platforms using it?](https://www.theverge.com/2024/8/21/24223932/c2pa-standard-verify-ai-generated-images-content-credentials)
- - [Ring’s budget battery doorbell can now see packages left on your porch](https://www.theverge.com/2024/8/21/24223639/ring-battery-doorbell-camera-price-release-date-specs)
- - [Sources and docs: sales reps say Google&#39;s targeting of teen minors goes beyond Meta; Google lets advertisers target an &quot;unknown&quot; group that skews toward teens &lpar;Catherine Perloff/Adweek&rpar;](http://www.techmeme.com/240821/p14#a240821p14)<!-- TECH:END -->
+ - [Microsoft plans to launch the $450 white discless Xbox Series X, a $600 2TB Galaxy Black special-edition Series X, and $350 1TB Series S on October 15 in the US &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/240821/p16#a240821p16)
+ - [Want Apple Music for free? Apple is extending its free trial, but there’s a catch](https://www.androidauthority.com/apple-music-free-trial-three-months-3473788/)
+ - [Lego’s Super Mario: Mario Kart sets will cross the finish line early in 2025](https://www.theverge.com/2024/8/21/24225151/lego-super-mario-mario-kart-toys)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
