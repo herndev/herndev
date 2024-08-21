@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Pre-Order Three New Xbox Series X|S Console Options Starting August 21](https://news.xbox.com/en-us/2024/08/21/xbox-series-x-s-new-console-options-pre-order/)
- - [Gearbox boss Randy Pitchford predicted that the Epic Games Store would kill off Steam 5 years ago, now the internet is mocking him as Borderlands 4 comes crawling back](https://www.pcgamer.com/games/fps/gearbox-boss-randy-pitchford-predicted-that-the-epic-games-store-would-kill-off-steam-5-years-ago-now-the-internet-is-mocking-him-as-borderlands-4-comes-crawling-back)
- - [Winter Burrow: The First Hands-on](https://news.xbox.com/en-us/2024/08/21/winter-burrow-the-first-hands-on/)<!-- GAME:END -->
+ - [Diablo IV: Vessel of Hatred – New Features Revealed Live at Gamescom](https://news.blizzard.com/diablo4/24128995/#new_tab)
+ - [Blizzard will inject a little WoW into Diablo 4: Vessel of Hatred with a new co-op dungeon and party finder](https://www.pcgamer.com/games/rpg/blizzard-will-inject-a-little-wow-into-diablo-4-vessel-of-hatred-with-a-new-co-op-dungeon-and-party-finder)
+ - [How Overwatch 2’s new hero Juno went from fighter pilot alien to anxious teen from Mars](https://www.polygon.com/overwatch/442505/overwatch-2-juno-lore-blizzard-interview)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
