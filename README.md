@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Public Citizen: crypto companies have spent $119M+ in the 2024 election cycle through Q2, or 48% of all corporate money, an &quot;unprecedented&quot; spending spree &lpar;Brendan Pedersen/Punchbowl News&rpar;](http://www.techmeme.com/240821/p20#a240821p20)
- - [Chrome now lets you batch import your open tabs when switching phones](https://www.androidauthority.com/chrome-browser-batch-tab-import-3473872/)
- - [Interviews with US political campaigns and tech companies: despite offers from 30+ companies for AI products, most campaigns are wary and largely not biting &lpar;Sheera Frenkel/New York Times&rpar;](http://www.techmeme.com/240821/p19#a240821p19)<!-- TECH:END -->
+ - [The Beats Studio Pro headphones add one of Apple’s best features](https://www.theverge.com/2024/8/21/24225250/beats-studio-pro-apple-audio-sharing-update-headphones)
+ - [Airbnb makes it easier to get into rentals by connecting with more smart locks](https://www.theverge.com/2024/8/21/24225305/airbnb-smart-lock-yale-august-integration)
+ - [Amazon is breaking the one thing that mattered with the Echo Show 8 Photos Edition](https://www.androidauthority.com/echo-show-8-photos-edition-3473907/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
