@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Actual blackmagicf**kery](http://9gag.com/gag/a6ZbE5R)
- - ⏩ [When you face main villain on level 1](http://9gag.com/gag/aO8z2R2)
- - 👉 [Based Nadal](http://9gag.com/gag/a7oro5z)<!-- MEMES:END -->
+ - 💣 [Absolute chad](http://9gag.com/gag/aO8z8pr)
+ - ⏩ [Going to Gamescom tomorrow to try and find a publisher that will publish our game. Wish me luck :&rpar;](http://9gag.com/gag/aXPqLN6)
+ - 👉 [Nothing but the truth](http://9gag.com/gag/aQz9zZ2)<!-- MEMES:END -->
 
 ---
 
