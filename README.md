@@ -40,8 +40,8 @@
 
 <!-- TECH:START -->
  - [Microsoft releases three Phi-3.5 models designed for basic/fast reasoning and more, available for developers to download, use, and fine-tune on Hugging Face &lpar;Carl Franzen/VentureBeat&rpar;](http://www.techmeme.com/240820/p30#a240820p30)
- - [The Motorola Razr Plus 2024 is $100 off, only a month after its release](https://www.androidauthority.com/motorola-razr-plus-2024-deal-3473373/)
- - [Sources: Walmart, JD.com&#39;s largest shareholder, is seeking to raise up to $3.74B by selling its stake in the Chinese e-commerce firm; JD falls 9%+ after hours &lpar;Amy Or/Bloomberg&rpar;](http://www.techmeme.com/240820/p29#a240820p29)<!-- TECH:END -->
+ - [10 Best Places to Buy Plants Online for 2024](https://www.cnet.com/news/best-places-to-buy-plants-online/#ftag=CAD590a51e)
+ - [Best Home Security Cameras With Lights for 2024](https://www.cnet.com/home/security/the-best-home-security-cameras-with-lights/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
