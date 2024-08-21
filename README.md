@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Her, `I&#39;ve never done this before`, also her...](http://9gag.com/gag/a5QbXNo)
- - ⏩ [Title](http://9gag.com/gag/apRp1w9)
- - 👉 [Mother faces the man who abused and murdered her 7 year old child in a German court.](http://9gag.com/gag/aAyd0Bd)<!-- MEMES:END -->
+ - 💣 [Fame shame](http://9gag.com/gag/a5QbQer)
+ - ⏩ [Effect of Komodo dragon&#39;s bite](http://9gag.com/gag/aAydyR0)
+ - 👉 [Stunning Italian lifting 85kg &lpar;she weights 49kg&rpar;](http://9gag.com/gag/a87yAj1)<!-- MEMES:END -->
 
 ---
 
