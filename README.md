@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Shein sues Temu for copyright infringement, accusing the company of stealing trade secrets and masquerading &quot;as a legitimate e-commerce &#39;marketplace&#39;&quot; &lpar;Samantha Cole/404 Media&rpar;](http://www.techmeme.com/240820/p28#a240820p28)
- - [Gemini in Gmail can now help polish up your drafts](https://www.theverge.com/2024/8/20/24159832/google-gmail-gemini-help-me-write-polish)
- - [Best Internet Providers in New Braunfels, Texas](https://www.cnet.com/home/internet/best-internet-providers-in-new-braunfels-tx/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best AirPods Pro Accessories for 2024](https://www.cnet.com/tech/mobile/best-airpods-pro-accessories/#ftag=CAD590a51e)
+ - [Winners of the 2024 iPhone Photography Awards announced](https://appleinsider.com/articles/24/08/20/winners-of-the-2024-iphone-photography-awards-announced?utm_medium=rss)
+ - [Best Weight Loss Programs for 2024](https://www.cnet.com/health/nutrition/best-weight-loss-programs/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
