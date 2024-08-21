@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Let’s Build a Dungeon: The Game Dev Sim That Lets You Build Entire Games Yourself](https://news.xbox.com/en-us/2024/08/21/lets-build-a-dungeon-the-game-dev-sim-that-lets-you-build-entire-games-yourself/)
- - [Terminator Zero’s showrunner knows that Terminator is bigger than the Connors](https://www.polygon.com/anime/442189/terminator-zero-showrunner-interview-preview-connor-john-sarah)
- - [Honkai: Star Rail codes for August 2024](https://www.polygon.com/honkai-star-rail-guides/23699079/code-redeem-redemption-gift-stellar-jade)<!-- GAME:END -->
+ - [The Jackbox Naughty Pack answers fan demand with minigames for sickos](https://www.polygon.com/gaming/442642/jackbox-naughty-pack-nsfw-games-fan-demand)
+ - [Atomfall: The First Hands-On](https://news.xbox.com/en-us/2024/08/21/atomfall-the-first-hands-on/)
+ - [Malware plucks at the bland horrors of the computer desktop](https://www.polygon.com/review/441331/malware-plucks-at-the-bland-horrors-of-the-computer-desktop)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
