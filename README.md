@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Galaxy S24 FE is a step closer to launch thanks to new listing](https://www.androidauthority.com/samsung-galaxy-s24-fe-bluetooth-listing-3472175/)
  - [Following rivals&#39; criticism, CrowdStrike President says no vendor could &quot;technically&quot; guarantee their software won&#39;t cause an incident like the July outage &lpar;Stephanie Stacey/Financial Times&rpar;](http://www.techmeme.com/240821/p1#a240821p1)
- - [Today&#39;s NYT Strands Hints, Answers and Help for Aug. 21, #171](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-aug-21-171/#ftag=CAD590a51e)
- - [Backbone One 2nd gen review: sleek upgrades to a classic iPhone controller](https://appleinsider.com/articles/24/08/21/backbone-one-2nd-gen-review-sleek-upgrades-to-a-classic-iphone-controller?utm_medium=rss)<!-- TECH:END -->
+ - [McAfee Rolls Out Deepfake Detector in Lenovo&#39;s New Copilot-Plus PCs](https://www.cnet.com/tech/services-and-software/mcafee-rolls-out-deepfake-detector-in-lenovos-new-copilot-plus-pcs/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
