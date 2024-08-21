@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [South african diversity](http://9gag.com/gag/aW4mj74)
- - ⏩ [I\u2019m a guy who just likes to draw. I hope &lpar;between all the propaganda&rpar; my latest piece can put a smile to someones face. Thx for the nice feedback I often get from you guys. Really lifts me up.](http://9gag.com/gag/avyGWGq)
- - 👉 [Maybe with this, we will see a resurgence of good games.](http://9gag.com/gag/aW4m4KK)<!-- MEMES:END -->
+ - ⏩ [Maybe with this, we will see a resurgence of good games.](http://9gag.com/gag/aW4m4KK)
+ - 👉 [Absolute chad](http://9gag.com/gag/aO8z8pr)<!-- MEMES:END -->
 
 ---
 
