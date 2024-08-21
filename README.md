@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Lego Reveals Adorable Little Mario Kart Sets Coming In 2025](https://kotaku.com/mario-kart-8-lego-nintendo-switch-release-date-1851628089)
- - [Save up to 87% on Monster Hunter: World, Rise, and all the DLC](https://www.polygon.com/good-deals/442662/monster-hunter-world-rise-dlc-sale)
- - [Floatopia is coming to PS5 in 2025](https://blog.playstation.com/2024/08/21/floatopia-is-coming-to-ps5-in-2025/)<!-- GAME:END -->
+ - [Clean up the Afterlife in Crypt Custodian](https://news.xbox.com/en-us/2024/08/21/clean-up-the-afterlife-in-crypt-custodian/)
+ - [Grab This Stunning Indie Adventure Game On Steam For Cheap](https://kotaku.com/steam-rhythm-game-sale-a-highland-song-scotland-1851628198)
+ - [Pick Up The Entire Mafia Series In This Offer You Can’t Refuse](https://kotaku.com/mafia-series-2-3-sale-hangar-13-new-game-1851628204)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
