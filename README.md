@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [New York, New York](http://9gag.com/gag/an7b7n0)
- - ⏩ [Amazon driver breaks through motorcyclist blockade](http://9gag.com/gag/abApePb)
- - 👉 [Lara Croft Normal Diving Evolution &lpar;1996 - 2015&rpar; &lpar;DEI 2018&rpar;](http://9gag.com/gag/apRpgwb)<!-- MEMES:END -->
+ - 💣 [`My Lady Jane` shows a black, gay King Edward \u201cnavigating his queerness\u201d in 16th Century England. And if that wasn&#39;t enough, they also threw him in a wheelchair for good measure.](http://9gag.com/gag/aVvqg28)
+ - ⏩ [Red Hot Glowing Metal Ball dropped in Aloe Vera Gel.](http://9gag.com/gag/aD2WdjO)
+ - 👉 [Celebrities too: money doesnot buy happiness](http://9gag.com/gag/ae9bgZm)<!-- MEMES:END -->
 
 ---
 
