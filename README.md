@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Red Hot Glowing Metal Ball dropped in Aloe Vera Gel.](http://9gag.com/gag/aD2WdjO)
- - ⏩ [When you face main villain on level 1](http://9gag.com/gag/aO8z2R2)
- - 👉 [Sweet Baby Inc. can go f**k themselves!](http://9gag.com/gag/agmLmmn)<!-- MEMES:END -->
+ - 💣 [Damn it, Jp, clean your shit!](http://9gag.com/gag/agmLgXw)
+ - ⏩ [Typical Balkan grandma](http://9gag.com/gag/aAydbed)
+ - 👉 [Her, `I&#39;ve never done this before`, also her...](http://9gag.com/gag/a5QbXNo)<!-- MEMES:END -->
 
 ---
 
