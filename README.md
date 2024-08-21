@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple leads global mobile market, outpacing competitors in advertising](https://appleinsider.com/articles/24/08/21/apple-leads-global-mobile-market-outpacing-competitors-in-advertising?utm_medium=rss)
- - [Apple is shaking up how it manages the App Store](https://www.theverge.com/2024/8/21/24225566/apple-app-store-matt-fischer-stepping-down)
- - [The Business Platinum Card from American Express: A Valuable Card for Business Travel](https://www.cnet.com/personal-finance/the-business-platinum-card-from-american-express/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Smart Home Deals: Save on Futuristic and Convenient Smart Home Gadgets](https://www.cnet.com/deals/best-smart-home-deals/#ftag=CAD590a51e)
+ - [Microsoft’s contentious AI-powered Recall system finally has an ETA](https://www.androidauthority.com/microsoft-recall-testing-3474077/)
+ - [This is the coolest mouse for Star Wars fans, and it’s $30 off!](https://www.androidauthority.com/logitech-g502-x-plus-millenium-falcon-edition-mouse-deal-3474020/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
