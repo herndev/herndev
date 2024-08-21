@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [New Beats firmware brings audio sharing to Beats Studio Pro](https://appleinsider.com/articles/24/08/21/new-beats-firmware-brings-audio-sharing-to-beats-studio-pro?utm_medium=rss)
- - [Tesla’s latest Model X recall isn’t just a software update](https://www.theverge.com/2024/8/21/24225309/tesla-model-x-second-recall-roof-trim-adhesive)
- - [Microsoft announces the $30 Xbox Adaptive Joystick, a wired companion to other Xbox controllers, for players with limited mobility, launching in early 2025 &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/240821/p21#a240821p21)<!-- TECH:END -->
+ - [Samsung Galaxy Tab S10 rumors: Everything we know and what we want to see](https://www.androidauthority.com/samsung-galaxy-tab-s10-3389280/)
+ - [Google could soon be asking a whole lot more of you to set your browser and search defaults](https://www.androidauthority.com/chrome-browser-choice-3473959/)
+ - [How to freeze your credit after a data breach](https://www.theverge.com/24224789/data-breach-freeze-report-security-how-to)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
