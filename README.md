@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [We asked Black Myth: Wukong&#39;s developer about the controversy over its founders&#39; past sexist remarks, but GameScience&#39;s only reply was &#39;No comment&#39;](https://www.pcgamer.com/games/action/black-myth-wukong-sexism-controversy-interview-no-comment)
  - [Kingdom Come: Deliverance 2 imagines a medieval Europe that&#39;s mostly swords in its latest Gamescom gameplay teaser](https://www.pcgamer.com/games/rpg/kingdom-come-deliverance-2-imagines-a-medieval-europe-thats-mostly-swords-in-its-latest-gamescom-gameplay-teaser)
- - [Stellar Blade studio says a PC version is coming &#39;in the near future&#39;](https://www.pcgamer.com/games/action/stellar-blade-studio-says-a-pc-version-is-coming-in-the-near-future)
- - [2024’s franchise blockbusters, ranked by their value to the series](https://www.polygon.com/24171622/2024-movie-sequels-prequels-ranked-least-to-most-essential)<!-- GAME:END -->
+ - [Stellar Blade studio says a PC version is coming &#39;in the near future&#39;](https://www.pcgamer.com/games/action/stellar-blade-studio-says-a-pc-version-is-coming-in-the-near-future)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
