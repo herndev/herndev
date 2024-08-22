@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Pixel 9 tips and tricks: Get the most out of your Pixel experience](https://www.androidauthority.com/google-pixel-9-tips-3472666/)
- - [The ad-free Kindle Kids has dropped below $100 for the first time this year](https://www.theverge.com/2024/8/22/24224813/amazon-kindle-paperwhite-kids-anker-maggo-qi2-charger-deal-sale)
- - [Meta’s Oversight Board is reviewing posts related to political violence in Venezuela](https://www.theverge.com/2024/8/22/24225579/meta-oversight-board-venezuela-elections-colectivos)<!-- TECH:END -->
+ - [Exclusive: every iPhone 16 &amp; iPhone 16 Pro camera spec &amp; Capture Button detail revealed](https://appleinsider.com/articles/24/08/22/exclusive-every-iphone-16-iphone-16-pro-camera-spec-capture-button-detail-revealed?utm_medium=rss)
+ - [The Kamala Harris campaign launches a Twitch channel, and plans to stream her DNC address there; the campaign has hired 175+ staff to work across digital &lpar;Makena Kelly/Wired&rpar;](http://www.techmeme.com/240822/p19#a240822p19)
+ - [Animal Crossing mobile shuts down in November but will live on in new app](https://www.theverge.com/2024/8/22/24225944/nintendo-animal-crossing-pocket-camp-mobile-ending-date)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
