@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Inzoi Character Studio is almost obsessively beautiful, giving everyone a perfectly pouty lip and everything](https://www.pcgamer.com/games/life-sim/inzoi-character-studio-tips)
- - [Seeing Black Myth: Wukong running on GeForce Now may have finally convinced me that cloud gaming is the future](https://www.pcgamer.com/hardware/seeing-black-myth-wukong-running-on-geforce-now-may-have-finally-convinced-me-that-cloud-gaming-is-the-future)
- - [The creators of Blasphemous are making a real-time tactics game about escaping from a haunted Spanish monastery](https://www.pcgamer.com/games/strategy/the-creators-of-blasphemous-are-making-a-real-time-tactics-game-about-escaping-from-a-haunted-spanish-monastery)<!-- GAME:END -->
+ - [Starfield: Shattered Space Is a Narrative-Driven, Horror-Inflected Expansion to the Galaxy](https://news.xbox.com/en-us/2024/08/22/starfield-shattered-space-release-date-preview/)
+ - [Concord dev reflects on the last 8 years of development, &#39;We don&#39;t get a lot of launch days in our careers&#39;](https://www.pcgamer.com/games/fps/concord-dev-reflects-on-the-last-8-years-of-development-we-dont-get-a-lot-of-launch-days-in-our-careers)
+ - [Inzoi Character Studio is almost obsessively beautiful, giving everyone a perfectly pouty lip and everything](https://www.pcgamer.com/games/life-sim/inzoi-character-studio-tips)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
