@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Lifehack moment when faced with low visibility during a storm](http://9gag.com/gag/a7or0W2)
- - ⏩ [We need you, good job! otherwise I have to do it myself](http://9gag.com/gag/an7bnm0)
- - 👉 [After S2 of Acolyte was cancelled, the Actress knows who to blame. Not her bad acting or the bad writing. Its racism not to watch the garbade. Sauce in comments.](http://9gag.com/gag/aLnDnmV)<!-- MEMES:END -->
+ - 💣 [Mic drop](http://9gag.com/gag/ajPXLxw)
+ - ⏩ [It will work, trust me!! I&#39;m an engineer!!](http://9gag.com/gag/ae9b9Wj)
+ - 👉 [Ink meets steel in this graffiti piece!](http://9gag.com/gag/aYQxPxq)<!-- MEMES:END -->
 
 ---
 
