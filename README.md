@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Chinese self-driving startup WeRide delays its planned IPO in the US, citing its need for more time to complete documents, after filing for an IPO in July 2024 &lpar;CNBC&rpar;](http://www.techmeme.com/240822/p14#a240822p14)
- - [Is your YouTube account hacked? Google now has a new recovery tool for that](https://www.androidauthority.com/youtube-hacked-account-recovery-3474268/)
- - [Chinese government data: Chinese companies imported $25.9B of chip machinery in January to July 2024, passing $23.8B in 2021, $21.6B in 2022, and $18B in 2023 &lpar;James Mayger/Bloomberg&rpar;](http://www.techmeme.com/240822/p13#a240822p13)<!-- TECH:END -->
+ - [Google Pixel 9 tips and tricks: Get the most out of your Pixel experience](https://www.androidauthority.com/google-pixel-9-tips-3472666/)
+ - [The ad-free Kindle Kids has dropped below $100 for the first time this year](https://www.theverge.com/2024/8/22/24224813/amazon-kindle-paperwhite-kids-anker-maggo-qi2-charger-deal-sale)
+ - [Meta’s Oversight Board is reviewing posts related to political violence in Venezuela](https://www.theverge.com/2024/8/22/24225579/meta-oversight-board-venezuela-elections-colectivos)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
