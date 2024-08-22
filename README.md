@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Real cinema](http://9gag.com/gag/a87y0KV)
- - ⏩ [Lol](http://9gag.com/gag/a5QbXYE)
- - 👉 [Slim and Busty Japanese](http://9gag.com/gag/aGy1L7K)<!-- MEMES:END -->
+ - 💣 [This Parasite Replaces A Fish&#39;s Tongue](http://9gag.com/gag/a4PbNwd)
+ - ⏩ [No need to lick Japanese yogurt lids](http://9gag.com/gag/a0eb0Vz)
+ - 👉 [Breaking in](http://9gag.com/gag/aVvqKWy)<!-- MEMES:END -->
 
 ---
 
