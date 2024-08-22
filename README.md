@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [80s dance style](http://9gag.com/gag/aYQxDGO)
- - ⏩ [When you arrest people for internet posts, they start posting in real life.](http://9gag.com/gag/a34q8j1)
- - 👉 [Dear pension fund](http://9gag.com/gag/a7orVpq)<!-- MEMES:END -->
+ - 💣 [Dear pension fund](http://9gag.com/gag/a7orVpq)
+ - ⏩ [Need to be careful who you&#39;re hiring](http://9gag.com/gag/aLnDGqv)
+ - 👉 [No experience. Unacceptable!!](http://9gag.com/gag/aW4moG2)<!-- MEMES:END -->
 
 ---
 
