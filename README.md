@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Can You Install a Home Battery System by Yourself?](https://www.cnet.com/home/energy-and-utilities/can-you-install-a-home-battery-system-by-yourself/#ftag=CAD590a51e)
- - [Best Houseplants for Air Purification and Low Light Environments](https://www.cnet.com/how-to/best-houseplants-for-air-purification-and-low-light-environments/#ftag=CAD590a51e)
- - [The Next Frontier for mRNA Could Be Healing Damaged Organs](https://www.wired.com/story/mrna-organ-rejuvenation-pittsburgh-upmc-center-transcriptional-medicine/)<!-- TECH:END -->
+ - [Trump is launching a cryptocurrency platform, and we have no idea what it does](https://www.theverge.com/2024/8/22/24226184/trump-defiant-ones-cryptocurrency-platform)
+ - [Best Laptop Deals: Discounts of Up to $500 on Apple, Acer, Dell and More](https://www.cnet.com/deals/best-laptop-deals/#ftag=CAD590a51e)
+ - [NFT marketplace Magic Eden launches a mobile wallet app and will begin using a token to be issued by a foundation that supports the Magic Eden ecosystem &lpar;Olga Kharif/Bloomberg&rpar;](http://www.techmeme.com/240822/p29#a240822p29)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
