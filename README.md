@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Starfield: Shattered Space Is a Narrative-Driven, Horror-Inflected Expansion to the Galaxy](https://news.xbox.com/en-us/2024/08/22/starfield-shattered-space-release-date-preview/)
- - [Concord dev reflects on the last 8 years of development, &#39;We don&#39;t get a lot of launch days in our careers&#39;](https://www.pcgamer.com/games/fps/concord-dev-reflects-on-the-last-8-years-of-development-we-dont-get-a-lot-of-launch-days-in-our-careers)
- - [Inzoi Character Studio is almost obsessively beautiful, giving everyone a perfectly pouty lip and everything](https://www.pcgamer.com/games/life-sim/inzoi-character-studio-tips)<!-- GAME:END -->
+ - [How Ara: History Untold Rewrites the Age-Old Rules of Strategy](https://news.xbox.com/en-us/2024/08/22/ara-history-untold-strategy-rule-hands-on/)
+ - [Has Nintendo just figured out how to shut down a live game in a good way?](https://www.polygon.com/nintendo/442905/animal-crossing-pocket-camp-shut-down)
+ - [Final Fantasy 16 PC system requirements are here and surprisingly light for one of the PS5&#39;s best-looking games](https://www.pcgamer.com/hardware/final-fantasy-16-pc-system-requirements-are-here-and-surprisingly-light-for-one-of-the-ps5s-best-looking-games)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
