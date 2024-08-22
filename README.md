@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at interoperability challenges to the adoption of the C2PA&#39;s authentication standard, including the lack of support for C2PA metadata in cameras &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/240822/p3#a240822p3)
- - [Here’s a neat trick to speed up your migration to the Google Pixel 9](https://www.androidauthority.com/speed-up-data-transfer-google-pixel-9-3473623/)
- - [Today&#39;s NYT Mini Crossword Answers for Aug. 22](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-aug-22/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Satellite SOS is now available for Google Pixel 9 phones](https://www.androidauthority.com/google-pixel-9-satellite-sos-available-3474184/)
+ - [Monument Valley 3 release date: When is it launching?](https://www.androidauthority.com/monument-valley-3-release-date-3473746/)
+ - [A look at interoperability challenges to the adoption of the C2PA&#39;s authentication standard, including the lack of support for C2PA metadata in cameras &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/240822/p3#a240822p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
