@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I know Wednesday didn&#39;t come yet, still...](http://9gag.com/gag/a7oroyr)
- - ⏩ [When your best buddy brings some girls to the roadtrip but you\u2019re nervous as hell watching the weather app throughout the whole trip.](http://9gag.com/gag/aByWVGN)
- - 👉 [Lifehack moment when faced with low visibility during a storm](http://9gag.com/gag/a7or0W2)<!-- MEMES:END -->
+ - 💣 [Harsh indeed](http://9gag.com/gag/a6Zb9Nq)
+ - ⏩ [How AI can bring these wild concepts to life!](http://9gag.com/gag/a2vr0oD)
+ - 👉 [Breaking in](http://9gag.com/gag/aVvqKWy)<!-- MEMES:END -->
 
 ---
 
