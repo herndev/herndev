@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Letter and sources: nearly 200 Google DeepMind workers, or 5% of its overall headcount, signed a letter dated May 16 calling to drop its military contracts &lpar;Billy Perrigo/TIME&rpar;](http://www.techmeme.com/240822/p22#a240822p22)
- - [Chat, who thinks I should be president?](https://www.theverge.com/2024/8/22/24226050/kamala-harris-twitch-account-stream-speech)
- - [Get five lines of Mint Mobile for $3 per line when you switch from Verizon or AT&amp;T, for limited time](https://www.androidauthority.com/mint-mobile-transfer-promotion-3474366/)<!-- TECH:END -->
+ - [No one’s ready for this](https://www.theverge.com/2024/8/22/24225972/ai-photo-era-what-is-reality-google-pixel-9)
+ - [Best Indoor Security Cameras for 2024](https://www.cnet.com/home/security/best-indoor-home-security-cameras/#ftag=CAD590a51e)
+ - [Body of British tech billionaire Mike Lynch recovered off the coast of Sicily](https://www.theverge.com/2024/8/22/24226123/mike-lynch-body-found-superyacht-bayesian-italy)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
