@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Stunning Italian lifting 85kg &lpar;she weights 49kg&rpar;](http://9gag.com/gag/a87yAj1)
- - ⏩ [Lifehack moment when faced with low visibility during a storm](http://9gag.com/gag/a7or0W2)
- - 👉 [When you face main villain on level 1](http://9gag.com/gag/aO8z2R2)<!-- MEMES:END -->
+ - 💣 [How I see myself getting arrested](http://9gag.com/gag/aYQxDo2)
+ - ⏩ [Absolute chad](http://9gag.com/gag/aO8z8pr)
+ - 👉 [Take me home](http://9gag.com/gag/awynLbW)<!-- MEMES:END -->
 
 ---
 
