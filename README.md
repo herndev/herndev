@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Black Myth: Wukong has the most bombastic action game opening since 2010s greats God of War 3 and Asura&#39;s Wrath](https://www.pcgamer.com/games/action/black-myth-wukong-has-the-most-bombastic-action-game-opening-since-2010s-greats-god-of-war-3-and-asuras-wrath)
  - [Let&#39;s all just pretend that the Borderlands 4 reveal came at a better time](https://www.pcgamer.com/games/fps/lets-all-just-pretend-that-the-borderlands-4-reveal-came-at-a-better-time)
- - [Journey to the Savage Planet developer says Google only wanted &#39;monstrous&#39; games with major licenses for Stadia: &#39;They were very strange&#39;](https://www.pcgamer.com/games/journey-to-the-savage-planet-developer-says-google-only-wanted-monstrous-games-with-major-licenses-for-stadia-they-were-very-strange)
- - [Riddlemaster Randy Pitchford says the Borderlands 4 teaser contains &#39;several secrets&#39;](https://www.pcgamer.com/games/fps/riddlemaster-randy-pitchford-says-the-borderlands-4-teaser-contains-several-secrets)<!-- GAME:END -->
+ - [Journey to the Savage Planet developer says Google only wanted &#39;monstrous&#39; games with major licenses for Stadia: &#39;They were very strange&#39;](https://www.pcgamer.com/games/journey-to-the-savage-planet-developer-says-google-only-wanted-monstrous-games-with-major-licenses-for-stadia-they-were-very-strange)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
