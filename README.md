@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nintendo ending &#39;Animal Crossing: Pocket Camp&#39;, plans offline relaunch](https://appleinsider.com/articles/24/08/22/nintendo-ending-animal-crossing-pocket-camp-plans-offline-relaunch?utm_medium=rss)
- - [Uber teams up with Cruise to deliver more autonomous rides next year](https://www.theverge.com/2024/8/22/24226331/uber-cruise-autonomous-rides)
- - [Fourth AirPods Pro 2 beta firmware now available for testers](https://appleinsider.com/articles/24/08/22/fourth-airpods-pro-2-beta-firmware-now-available-for-testers?utm_medium=rss)<!-- TECH:END -->
+ - [Do Not Disturb mode is being supercharged in Android 15: Here’s how](https://www.androidauthority.com/android-15-priority-modes-3474550/)
+ - [Today&#39;s NYT Connections Hint for Aug. 22 #438 Is to Know Your Newspapers](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-aug-22-438/#ftag=CAD590a51e)
+ - [I Can Play This All Day: Early Hands-On with Cap and Bucky in Marvel Rivals](https://www.cnet.com/tech/gaming/i-can-play-this-all-day-early-hands-on-with-cap-and-bucky-in-marvel-rivals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
