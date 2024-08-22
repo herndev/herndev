@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Lost in Random: The Eternal Die – Gamble with Fate in a New Rogue-lite Adventure](https://news.xbox.com/en-us/2024/08/22/lost-in-random-the-eternal-die-sequel-roguelite/)
- - [Final Fantasy 16, Black Myth: Wukong and Final Fantasy 7 Remake Intergrade all require over 100 GB, so I thought you might like this 2 TB SSD for $140](https://www.pcgamer.com/hardware/ssds/final-fantasy-16-black-myth-wukong-and-final-fantasy-7-remake-intergrade-all-require-over-100-gb-so-i-thought-you-might-like-this-2-tb-ssd-for-dollar140)
- - [GTA Online update for the week of August 22](https://www.polygon.com/gta-online-guides/442969/august-22-weekly-update-events-assault-att-16)<!-- GAME:END -->
+ - [Battle Through and Build Ridiculous Dungeons for Gory, Gory Glory in King of Meat](https://news.xbox.com/en-us/2024/08/22/king-of-meat/)
+ - [These AMD Ryzen 7500G and 7300G chips don&#39;t officially exist but they&#39;re making me wonder why we bother with naming schemes](https://www.pcgamer.com/hardware/processors/these-amd-ryzen-7500g-and-7300g-chips-dont-officially-exist-but-theyre-making-me-wonder-why-we-bother-with-naming-schemes)
+ - [Pick Up The Civilization Games For Cheap And Get 4X-Pilled Ahead Of Civ VII](https://kotaku.com/civilization-series-7-6-sale-steam-1851629267)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
