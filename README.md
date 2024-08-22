@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [No one’s ready for this](https://www.theverge.com/2024/8/22/24225972/ai-photo-era-what-is-reality-google-pixel-9)
- - [Best Indoor Security Cameras for 2024](https://www.cnet.com/home/security/best-indoor-home-security-cameras/#ftag=CAD590a51e)
- - [Body of British tech billionaire Mike Lynch recovered off the coast of Sicily](https://www.theverge.com/2024/8/22/24226123/mike-lynch-body-found-superyacht-bayesian-italy)<!-- TECH:END -->
+ - [Can You Install a Home Battery System by Yourself?](https://www.cnet.com/home/energy-and-utilities/can-you-install-a-home-battery-system-by-yourself/#ftag=CAD590a51e)
+ - [Best Houseplants for Air Purification and Low Light Environments](https://www.cnet.com/how-to/best-houseplants-for-air-purification-and-low-light-environments/#ftag=CAD590a51e)
+ - [The Next Frontier for mRNA Could Be Healing Damaged Organs](https://www.wired.com/story/mrna-organ-rejuvenation-pittsburgh-upmc-center-transcriptional-medicine/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
