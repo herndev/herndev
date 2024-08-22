@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Mic drop](http://9gag.com/gag/ajPXLxw)
- - ⏩ [It will work, trust me!! I&#39;m an engineer!!](http://9gag.com/gag/ae9b9Wj)
- - 👉 [Ink meets steel in this graffiti piece!](http://9gag.com/gag/aYQxPxq)<!-- MEMES:END -->
+ - 💣 [Dad Uses Alphabet Tattoo So That His Autistic Son Can Communicate](http://9gag.com/gag/axyVWYb)
+ - ⏩ [Don&#39;t forget to use your paper straws!](http://9gag.com/gag/a4Pbzp1)
+ - 👉 [A relaxing night walk in Japan](http://9gag.com/gag/a1mbDjP)<!-- MEMES:END -->
 
 ---
 
