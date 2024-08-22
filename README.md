@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to add an email account to Apple Mail on Mac or iOS](https://appleinsider.com/inside/macos/tips/how-to-add-an-email-account-to-apple-mail-on-mac-or-ios?utm_medium=rss)
- - [Keychron Q15 Max review: High-quality and quirky mechanical keyboard](https://appleinsider.com/articles/24/08/22/keychron-q15-max-review-high-quality-and-quirky-mechanical-keyboard?utm_medium=rss)
- - [OpenAI exec says California’s AI safety bill might slow progress](https://www.theverge.com/2024/8/21/24225648/openai-letter-california-ai-safety-bill-sb-1047)<!-- TECH:END -->
+ - [Study shows your smartwatch and fitness trackers are lying to you](https://www.androidauthority.com/fitness-health-tracking-devices-limitations-study-3474029/)
+ - [LiteSpeed Cache, the top WordPress site acceleration plugin, had a critical flaw that left sites open to takeover attacks; 2M+ sites are likely still vulnerable &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/240821/p32#a240821p32)
+ - [How to add an email account to Apple Mail on Mac or iOS](https://appleinsider.com/inside/macos/tips/how-to-add-an-email-account-to-apple-mail-on-mac-or-ios?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
