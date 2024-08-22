@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Android 15 QPR1 Beta 1 is live for Pixels, hints at longer Pixel 6 support](https://www.androidauthority.com/android-15-qpr1-beta-1-rollout-3474517/)
- - [Ex-FTX exec Ryan Salame&#39;s romantic partner is charged with campaign finance violations, a day after he said the US reneged on his plea deal by investigating her &lpar;Bloomberg&rpar;](http://www.techmeme.com/240822/p32#a240822p32)
- - [Influencers Take Over the DNC](https://www.wired.com/story/influencer-takeover-dnc/)<!-- TECH:END -->
+ - [Nintendo ending &#39;Animal Crossing: Pocket Camp&#39;, plans offline relaunch](https://appleinsider.com/articles/24/08/22/nintendo-ending-animal-crossing-pocket-camp-plans-offline-relaunch?utm_medium=rss)
+ - [Uber teams up with Cruise to deliver more autonomous rides next year](https://www.theverge.com/2024/8/22/24226331/uber-cruise-autonomous-rides)
+ - [Fourth AirPods Pro 2 beta firmware now available for testers](https://appleinsider.com/articles/24/08/22/fourth-airpods-pro-2-beta-firmware-now-available-for-testers?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
