@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [How I see myself getting arrested](http://9gag.com/gag/aYQxDo2)
- - ⏩ [Absolute chad](http://9gag.com/gag/aO8z8pr)
- - 👉 [Take me home](http://9gag.com/gag/awynLbW)<!-- MEMES:END -->
+ - 💣 [Eva about Britain](http://9gag.com/gag/aGy1800)
+ - ⏩ [VR Gym motivation](http://9gag.com/gag/ayNDW1p)
+ - 👉 [A relaxing night walk in Japan](http://9gag.com/gag/a1mbDjP)<!-- MEMES:END -->
 
 ---
 
