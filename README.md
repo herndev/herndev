@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How to absorb Spirits in Black Myth: Wukong](https://www.polygon.com/guides/442670/black-myth-wukong-absorb-spirits-without-guidance)
- - [As scandal surrounds the MrBeast empire, MrBeast lawyers up and goes into bunker mode](https://www.pcgamer.com/hardware/streaming/as-scandal-surrounds-the-mrbeast-empire-mrbeast-lawyers-up-and-goes-into-bunker-mode)
- - [The War for Rohirrim trailer brings Lord of the Rings into the anime age](https://www.polygon.com/lord-of-the-rings/443172/lord-rings-war-for-rohirrim-trailer)<!-- GAME:END -->
+ - [Lord Of The Rings Anime Prequel Looks Killer In Its First Trailer](https://kotaku.com/lord-rings-war-rohirrim-trailer-release-date-anime-1851629680)
+ - [The rise of the Chinese action RPG](https://www.pcgamer.com/games/rpg/the-rise-of-the-chinese-action-rpg)
+ - [Get our favorite gaming speakers for their lowest price ever](https://www.polygon.com/good-deals/443150/razer-nommo-gaming-speakers-sale)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
