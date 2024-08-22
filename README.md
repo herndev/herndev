@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [No filming inside](http://9gag.com/gag/aMV8dBx)
- - ⏩ [When you face main villain on level 1](http://9gag.com/gag/aO8z2R2)
- - 👉 [Effect of Komodo dragon&#39;s bite](http://9gag.com/gag/aAydyR0)<!-- MEMES:END -->
+ - 💣 [Eva about Britain](http://9gag.com/gag/aGy1800)
+ - ⏩ [Breaking in](http://9gag.com/gag/aVvqKWy)
+ - 👉 [Probably I&#39;m going to jail after this post!](http://9gag.com/gag/a6Zb598)<!-- MEMES:END -->
 
 ---
 
