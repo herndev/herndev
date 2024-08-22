@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [80s dance style](http://9gag.com/gag/aYQxDGO)
- - ⏩ [Kidney stone. Drink water](http://9gag.com/gag/amoY10d)
- - 👉 [9gaggers](http://9gag.com/gag/aYQxOwV)<!-- MEMES:END -->
+ - 💣 [Naked man vs cops, who will win?](http://9gag.com/gag/a1mbVQb)
+ - ⏩ [Let me guess, she will be lesbian too](http://9gag.com/gag/ae9bxmp)
+ - 👉 [Kidney stone. Drink water](http://9gag.com/gag/amoY10d)<!-- MEMES:END -->
 
 ---
 
