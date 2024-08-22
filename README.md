@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Breaking in](http://9gag.com/gag/aVvqKWy)
- - ⏩ [Eva about Britain](http://9gag.com/gag/aGy1800)
- - 👉 [It&#39;s not about being `easy` to be with.](http://9gag.com/gag/a9yr5yo)<!-- MEMES:END -->
+ - 💣 [Stunning Italian lifting 85kg &lpar;she weights 49kg&rpar;](http://9gag.com/gag/a87yAj1)
+ - ⏩ [Lifehack moment when faced with low visibility during a storm](http://9gag.com/gag/a7or0W2)
+ - 👉 [When you face main villain on level 1](http://9gag.com/gag/aO8z2R2)<!-- MEMES:END -->
 
 ---
 
