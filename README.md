@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Dear pension fund](http://9gag.com/gag/a7orVpq)
+ - 💣 [Party in your 30s...](http://9gag.com/gag/a6ZbBLL)
  - ⏩ [Need to be careful who you&#39;re hiring](http://9gag.com/gag/aLnDGqv)
- - 👉 [No experience. Unacceptable!!](http://9gag.com/gag/aW4moG2)<!-- MEMES:END -->
+ - 👉 [VR Gym motivation](http://9gag.com/gag/ayNDW1p)<!-- MEMES:END -->
 
 ---
 
