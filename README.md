@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Trump is launching a cryptocurrency platform, and we have no idea what it does](https://www.theverge.com/2024/8/22/24226184/trump-defiant-ones-cryptocurrency-platform)
- - [Best Laptop Deals: Discounts of Up to $500 on Apple, Acer, Dell and More](https://www.cnet.com/deals/best-laptop-deals/#ftag=CAD590a51e)
- - [NFT marketplace Magic Eden launches a mobile wallet app and will begin using a token to be issued by a foundation that supports the Magic Eden ecosystem &lpar;Olga Kharif/Bloomberg&rpar;](http://www.techmeme.com/240822/p29#a240822p29)<!-- TECH:END -->
+ - [The Lord of the Rings anime looks appropriately epic in first trailer](https://www.theverge.com/24226288/the-lord-of-the-rings-war-of-the-rohirrim-anime-trailer)
+ - [Google Keep’s ‘Help me create a list’ feature comes to all Pixel phones](https://www.androidauthority.com/google-keep-pixel-phones-3474448/)
+ - [A Popular iOS Illustration App Is Saying No to Generative AI](https://www.wired.com/story/procreate-app-no-generative-ai/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
