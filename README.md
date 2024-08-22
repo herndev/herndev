@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Neuralink says surgery for its second human implant &quot;went well&quot; and the patient, who had a spinal cord injury, can design 3D objects and play Counter-Strike 2 &lpar;Sarah McBride/Bloomberg&rpar;](http://www.techmeme.com/240822/p2#a240822p2)
- - [The unsealed list of X Holdings shareholders names nearly 100 entities, including 8VC, Italy-based UnipolSai S.P.A., and a fund linked with Sean &quot;Diddy&quot; Combs &lpar;Trisha Thadani/Washington Post&rpar;](http://www.techmeme.com/240822/p1#a240822p1)
- - [Study shows your smartwatch and fitness trackers are lying to you](https://www.androidauthority.com/fitness-health-tracking-devices-limitations-study-3474029/)<!-- TECH:END -->
+ - [A look at interoperability challenges to the adoption of the C2PA&#39;s authentication standard, including the lack of support for C2PA metadata in cameras &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/240822/p3#a240822p3)
+ - [Here’s a neat trick to speed up your migration to the Google Pixel 9](https://www.androidauthority.com/speed-up-data-transfer-google-pixel-9-3473623/)
+ - [Today&#39;s NYT Mini Crossword Answers for Aug. 22](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-aug-22/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
