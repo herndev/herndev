@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Casting of Frank Stone’s Features: Everything to Know](https://news.xbox.com/en-us/2024/08/22/casting-of-frank-stone-features/)
- - [Someone finally figured out a good use for NFTs: Peter Molyneux is using &#39;land&#39; sales from his failed blockchain game to fund the development of his new project](https://www.pcgamer.com/games/strategy/someone-finally-found-a-good-use-for-nfts-peter-molyneux-is-using-land-sales-from-his-failed-blockchain-game-to-fund-the-development-of-his-new-project)
- - [Now Is A Great Time To Grab This Amazing Horror Fishing Game](https://kotaku.com/dredge-horror-fishing-game-steam-gog-sale-1851629409)<!-- GAME:END -->
+ - [Jack Black And Paul Rudd&#39;s Anaconda Reboot Sounds Bad](https://kotaku.com/anaconda-reboot-comedy-meta-jack-black-paul-rudd-sony-1851629468)
+ - [This city builder swaps traffic jams with human sacrifice, because you&#39;re the mayor of a huge Cthulhu cult](https://www.pcgamer.com/games/city-builder/this-city-builder-swaps-traffic-jams-with-human-sacrifice-because-youre-the-mayor-of-a-huge-cthulhu-cult)
+ - [Black Myth: Wukong: The Kotaku Review](https://kotaku.com/black-myth-wukong-review-soulslike-pc-ps5-1851629456)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
