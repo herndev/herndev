@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Breaking in](http://9gag.com/gag/aVvqKWy)
- - ⏩ [A relaxing night walk in Japan](http://9gag.com/gag/a1mbDjP)
- - 👉 [Onlyfan wives get paid a lot compared to a cop salary](http://9gag.com/gag/agmL8dv)<!-- MEMES:END -->
+ - 💣 [Hilarious](http://9gag.com/gag/aD2W667)
+ - ⏩ [Lifehack moment when faced with low visibility during a storm](http://9gag.com/gag/a7or0W2)
+ - 👉 [Mic drop](http://9gag.com/gag/ajPXLxw)<!-- MEMES:END -->
 
 ---
 
