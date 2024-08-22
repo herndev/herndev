@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Breaking in](http://9gag.com/gag/aVvqKWy)
- - ⏩ [Bro thought he was John wick](http://9gag.com/gag/amoYGP2)
- - 👉 [Harsh indeed](http://9gag.com/gag/a6Zb9Nq)<!-- MEMES:END -->
+ - 💣 [Real cinema](http://9gag.com/gag/a87y0KV)
+ - ⏩ [Lol](http://9gag.com/gag/a5QbXYE)
+ - 👉 [Slim and Busty Japanese](http://9gag.com/gag/aGy1L7K)<!-- MEMES:END -->
 
 ---
 
