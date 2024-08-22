@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft, Amazon, and others plan to use old power stations and industrial sites for data centers, as land and power in many markets are &quot;heavily constrained&quot; &lpar;Camilla Hodgson/Financial Times&rpar;](http://www.techmeme.com/240822/p11#a240822p11)
- - [YouTube has a new tool to help restore hacked channels: an AI chatbot](https://www.theverge.com/2024/8/22/24225690/youtube-support-restore-hacked-channels-ai-chatbot)
- - [Apple&#39;s App Store vice president is the first departure in regulatory shake-up](https://appleinsider.com/articles/24/08/21/apple-app-store-vice-president-of-the-app-store-is-the-first-departure-in-regulatory-shake-up?utm_medium=rss)<!-- TECH:END -->
+ - [Chinese self-driving startup WeRide delays its planned IPO in the US, citing its need for more time to complete documents, after filing for an IPO in July 2024 &lpar;CNBC&rpar;](http://www.techmeme.com/240822/p14#a240822p14)
+ - [Is your YouTube account hacked? Google now has a new recovery tool for that](https://www.androidauthority.com/youtube-hacked-account-recovery-3474268/)
+ - [Chinese government data: Chinese companies imported $25.9B of chip machinery in January to July 2024, passing $23.8B in 2021, $21.6B in 2022, and $18B in 2023 &lpar;James Mayger/Bloomberg&rpar;](http://www.techmeme.com/240822/p13#a240822p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
