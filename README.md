@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Exclusive: every iPhone 16 &amp; iPhone 16 Pro camera spec &amp; Capture Button detail revealed](https://appleinsider.com/articles/24/08/22/exclusive-every-iphone-16-iphone-16-pro-camera-spec-capture-button-detail-revealed?utm_medium=rss)
- - [The Kamala Harris campaign launches a Twitch channel, and plans to stream her DNC address there; the campaign has hired 175+ staff to work across digital &lpar;Makena Kelly/Wired&rpar;](http://www.techmeme.com/240822/p19#a240822p19)
- - [Animal Crossing mobile shuts down in November but will live on in new app](https://www.theverge.com/2024/8/22/24225944/nintendo-animal-crossing-pocket-camp-mobile-ending-date)<!-- TECH:END -->
+ - [Dublin, California-based Opkey, which provides AI-based ERP testing software, raised a $47M Series B led by PeakSpan Capital &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/240822/p21#a240822p21)
+ - [Peloton is adding a $95 activation fee for secondhand machines](https://www.theverge.com/2024/8/22/24225988/peloton-used-equipment-activation-fee-fitness)
+ - [Ultimate Ears Everboom: Good Speaker, Tough Sell](https://www.wired.com/review/ultimate-ears-everboom/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
