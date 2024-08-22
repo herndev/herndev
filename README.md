@@ -46,7 +46,7 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Harsh indeed](http://9gag.com/gag/a6Zb9Nq)
+ - 💣 [It&#39;s not about being `easy` to be with.](http://9gag.com/gag/a9yr5yo)
  - ⏩ [How AI can bring these wild concepts to life!](http://9gag.com/gag/a2vr0oD)
  - 👉 [Breaking in](http://9gag.com/gag/aVvqKWy)<!-- MEMES:END -->
 
