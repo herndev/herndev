@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This Parasite Replaces A Fish&#39;s Tongue](http://9gag.com/gag/a4PbNwd)
- - ⏩ [No need to lick Japanese yogurt lids](http://9gag.com/gag/a0eb0Vz)
- - 👉 [Breaking in](http://9gag.com/gag/aVvqKWy)<!-- MEMES:END -->
+ - 💣 [I know Wednesday didn&#39;t come yet, still...](http://9gag.com/gag/a7oroyr)
+ - ⏩ [When your best buddy brings some girls to the roadtrip but you\u2019re nervous as hell watching the weather app throughout the whole trip.](http://9gag.com/gag/aByWVGN)
+ - 👉 [Lifehack moment when faced with low visibility during a storm](http://9gag.com/gag/a7or0W2)<!-- MEMES:END -->
 
 ---
 
