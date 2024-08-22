@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Lord Of The Rings Anime Prequel Looks Killer In Its First Trailer](https://kotaku.com/lord-rings-war-rohirrim-trailer-release-date-anime-1851629680)
- - [The rise of the Chinese action RPG](https://www.pcgamer.com/games/rpg/the-rise-of-the-chinese-action-rpg)
- - [Get our favorite gaming speakers for their lowest price ever](https://www.polygon.com/good-deals/443150/razer-nommo-gaming-speakers-sale)<!-- GAME:END -->
+ - [This upcoming &#39;survival-action game&#39; looks like Stalker crossed with an episode of your mom&#39;s favorite British murder-mystery show](https://www.pcgamer.com/games/fps/this-upcoming-survival-action-game-looks-like-stalker-crossed-with-an-episode-of-your-mom-s-favorite-british-murder-mystery-show)
+ - [11 Monster Hunter Wilds features from the Gamescom dev streams that have me hooting and hollering like an inbound Bazelgeuse](https://www.pcgamer.com/games/rpg/11-monster-hunter-wilds-features-from-the-gamescom-dev-streams-that-have-me-hooting-and-hollering-like-an-inbound-bazelgeuse)
+ - [Revenge Of The Savage Planet Is A Surprising Sequel To A Great Metroidvania](https://kotaku.com/return-to-the-savage-planet-preview-sequel-metroidvania-1851629714)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
