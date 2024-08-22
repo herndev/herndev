@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Eva about Britain](http://9gag.com/gag/aGy1800)
- - ⏩ [VR Gym motivation](http://9gag.com/gag/ayNDW1p)
- - 👉 [A relaxing night walk in Japan](http://9gag.com/gag/a1mbDjP)<!-- MEMES:END -->
+ - 💣 [Lifehack moment when faced with low visibility during a storm](http://9gag.com/gag/a7or0W2)
+ - ⏩ [We need you, good job! otherwise I have to do it myself](http://9gag.com/gag/an7bnm0)
+ - 👉 [After S2 of Acolyte was cancelled, the Actress knows who to blame. Not her bad acting or the bad writing. Its racism not to watch the garbade. Sauce in comments.](http://9gag.com/gag/aLnDnmV)<!-- MEMES:END -->
 
 ---
 
