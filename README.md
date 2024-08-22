@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [It&#39;s not about being `easy` to be with.](http://9gag.com/gag/a9yr5yo)
- - ⏩ [How AI can bring these wild concepts to life!](http://9gag.com/gag/a2vr0oD)
- - 👉 [Breaking in](http://9gag.com/gag/aVvqKWy)<!-- MEMES:END -->
+ - 💣 [No filming inside](http://9gag.com/gag/aMV8dBx)
+ - ⏩ [When you face main villain on level 1](http://9gag.com/gag/aO8z2R2)
+ - 👉 [Effect of Komodo dragon&#39;s bite](http://9gag.com/gag/aAydyR0)<!-- MEMES:END -->
 
 ---
 
