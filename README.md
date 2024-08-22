@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [[Redacted] Revealed on the Xbox Gamescom Livestream – Learn More About the Rivals System](https://news.xbox.com/en-us/2024/08/22/redacted-rivals-system/)
- - [Logan Lucky just keeps getting funnier the longer we wait for The Winds of Winter](https://www.polygon.com/action/442847/logan-lucky-netflix-best-joke-winds-winter)
- - [Star Wars: The Acolyte Fans Worry The Entire Show Might Disappear After Disney Takes Down Store Merch](https://kotaku.com/star-wars-acolyte-season-2-canceled-disney-streaming-1851629075)<!-- GAME:END -->
+ - [Lost in Random: The Eternal Die – Gamble with Fate in a New Rogue-lite Adventure](https://news.xbox.com/en-us/2024/08/22/lost-in-random-the-eternal-die-sequel-roguelite/)
+ - [Final Fantasy 16, Black Myth: Wukong and Final Fantasy 7 Remake Intergrade all require over 100 GB, so I thought you might like this 2 TB SSD for $140](https://www.pcgamer.com/hardware/ssds/final-fantasy-16-black-myth-wukong-and-final-fantasy-7-remake-intergrade-all-require-over-100-gb-so-i-thought-you-might-like-this-2-tb-ssd-for-dollar140)
+ - [GTA Online update for the week of August 22](https://www.polygon.com/gta-online-guides/442969/august-22-weekly-update-events-assault-att-16)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
