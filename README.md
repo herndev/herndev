@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Researchers: a network of 200+ Russia-linked X accounts shows how Russian trolls are trying to go viral, including low-quality, high-volume replies to Elon Musk &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240822/p8#a240822p8)
- - [The foldable iPad may not be an iPad, and you’re going to be waiting for a while](https://www.androidauthority.com/foldable-macbook-leak-potential-specs-3474214/)
- - [Foldable MacBook Pro delayed to at least 2027](https://appleinsider.com/articles/24/08/22/foldable-macbook-pro-delayed-to-at-least-2027?utm_medium=rss)<!-- TECH:END -->
+ - [Microsoft, Amazon, and others plan to use old power stations and industrial sites for data centers, as land and power in many markets are &quot;heavily constrained&quot; &lpar;Camilla Hodgson/Financial Times&rpar;](http://www.techmeme.com/240822/p11#a240822p11)
+ - [YouTube has a new tool to help restore hacked channels: an AI chatbot](https://www.theverge.com/2024/8/22/24225690/youtube-support-restore-hacked-channels-ai-chatbot)
+ - [Apple&#39;s App Store vice president is the first departure in regulatory shake-up](https://appleinsider.com/articles/24/08/21/apple-app-store-vice-president-of-the-app-store-is-the-first-departure-in-regulatory-shake-up?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
