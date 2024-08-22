@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Smart Home Deals: Save on Futuristic and Convenient Smart Home Gadgets](https://www.cnet.com/deals/best-smart-home-deals/#ftag=CAD590a51e)
- - [Microsoft’s contentious AI-powered Recall system finally has an ETA](https://www.androidauthority.com/microsoft-recall-testing-3474077/)
- - [This is the coolest mouse for Star Wars fans, and it’s $30 off!](https://www.androidauthority.com/logitech-g502-x-plus-millenium-falcon-edition-mouse-deal-3474020/)<!-- TECH:END -->
+ - [Apple Ring wishlist: All the features I want to see](https://www.androidauthority.com/apple-ring-3464532/)
+ - [Best OLED Laptop Deals: Save on Top Models From HP, Razer and More](https://www.cnet.com/deals/best-oled-laptop-deals/#ftag=CAD590a51e)
+ - [Hall Effect Controllers Marry Magnetism and Gaming](https://www.cnet.com/tech/gaming/hall-effect-controllers-marry-magnetism-and-gaming/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
