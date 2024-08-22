@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Italian officials: UK tech entrepreneur Mike Lynch&#39;s body has been recovered from the wreckage of the superyacht Bayesian, which sank three days ago off Sicily &lpar;Financial Times&rpar;](http://www.techmeme.com/240822/p5#a240822p5)
- - [Google Wear OS 5: Features, release date, and more](https://www.androidauthority.com/wear-os-5-3424860/)
- - [A look at the facial recognition systems becoming common at major league sporting venues, like the MLB&#39;s Go-Ahead Entry, as privacy advocates raise concerns &lpar;Caroline Haskins/Wired&rpar;](http://www.techmeme.com/240822/p4#a240822p4)<!-- TECH:END -->
+ - [Researchers: a network of 200+ Russia-linked X accounts shows how Russian trolls are trying to go viral, including low-quality, high-volume replies to Elon Musk &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240822/p8#a240822p8)
+ - [The foldable iPad may not be an iPad, and you’re going to be waiting for a while](https://www.androidauthority.com/foldable-macbook-leak-potential-specs-3474214/)
+ - [Foldable MacBook Pro delayed to at least 2027](https://appleinsider.com/articles/24/08/22/foldable-macbook-pro-delayed-to-at-least-2027?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
