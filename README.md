@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Hilarious](http://9gag.com/gag/aD2W667)
- - ⏩ [Lifehack moment when faced with low visibility during a storm](http://9gag.com/gag/a7or0W2)
- - 👉 [Mic drop](http://9gag.com/gag/ajPXLxw)<!-- MEMES:END -->
+ - 💣 [80s dance style](http://9gag.com/gag/aYQxDGO)
+ - ⏩ [Kidney stone. Drink water](http://9gag.com/gag/amoY10d)
+ - 👉 [9gaggers](http://9gag.com/gag/aYQxOwV)<!-- MEMES:END -->
 
 ---
 
