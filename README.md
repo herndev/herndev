@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Dad Uses Alphabet Tattoo So That His Autistic Son Can Communicate](http://9gag.com/gag/axyVWYb)
- - ⏩ [Don&#39;t forget to use your paper straws!](http://9gag.com/gag/a4Pbzp1)
- - 👉 [A relaxing night walk in Japan](http://9gag.com/gag/a1mbDjP)<!-- MEMES:END -->
+ - 💣 [80s dance style](http://9gag.com/gag/aYQxDGO)
+ - ⏩ [When you arrest people for internet posts, they start posting in real life.](http://9gag.com/gag/a34q8j1)
+ - 👉 [Dear pension fund](http://9gag.com/gag/a7orVpq)<!-- MEMES:END -->
 
 ---
 
