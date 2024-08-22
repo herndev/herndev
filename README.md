@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Dublin, California-based Opkey, which provides AI-based ERP testing software, raised a $47M Series B led by PeakSpan Capital &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/240822/p21#a240822p21)
- - [Peloton is adding a $95 activation fee for secondhand machines](https://www.theverge.com/2024/8/22/24225988/peloton-used-equipment-activation-fee-fitness)
- - [Ultimate Ears Everboom: Good Speaker, Tough Sell](https://www.wired.com/review/ultimate-ears-everboom/)<!-- TECH:END -->
+ - [Letter and sources: nearly 200 Google DeepMind workers, or 5% of its overall headcount, signed a letter dated May 16 calling to drop its military contracts &lpar;Billy Perrigo/TIME&rpar;](http://www.techmeme.com/240822/p22#a240822p22)
+ - [Chat, who thinks I should be president?](https://www.theverge.com/2024/8/22/24226050/kamala-harris-twitch-account-stream-speech)
+ - [Get five lines of Mint Mobile for $3 per line when you switch from Verizon or AT&amp;T, for limited time](https://www.androidauthority.com/mint-mobile-transfer-promotion-3474366/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
