@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Lord of the Rings anime looks appropriately epic in first trailer](https://www.theverge.com/24226288/the-lord-of-the-rings-war-of-the-rohirrim-anime-trailer)
- - [Google Keep’s ‘Help me create a list’ feature comes to all Pixel phones](https://www.androidauthority.com/google-keep-pixel-phones-3474448/)
- - [A Popular iOS Illustration App Is Saying No to Generative AI](https://www.wired.com/story/procreate-app-no-generative-ai/)<!-- TECH:END -->
+ - [Android 15 QPR1 Beta 1 is live for Pixels, hints at longer Pixel 6 support](https://www.androidauthority.com/android-15-qpr1-beta-1-rollout-3474517/)
+ - [Ex-FTX exec Ryan Salame&#39;s romantic partner is charged with campaign finance violations, a day after he said the US reneged on his plea deal by investigating her &lpar;Bloomberg&rpar;](http://www.techmeme.com/240822/p32#a240822p32)
+ - [Influencers Take Over the DNC](https://www.wired.com/story/influencer-takeover-dnc/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
