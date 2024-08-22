@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [We need you, good job! otherwise I have to do it myself](http://9gag.com/gag/an7bnm0)
- - ⏩ [The poeple has spoken](http://9gag.com/gag/aW4m4BA)
- - 👉 [Effect of Komodo dragon&#39;s bite](http://9gag.com/gag/aAydyR0)<!-- MEMES:END -->
+ - 💣 [Breaking in](http://9gag.com/gag/aVvqKWy)
+ - ⏩ [Bro thought he was John wick](http://9gag.com/gag/amoYGP2)
+ - 👉 [Harsh indeed](http://9gag.com/gag/a6Zb9Nq)<!-- MEMES:END -->
 
 ---
 
