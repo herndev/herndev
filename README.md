@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Asus unveils its X870/X870E motherboard lineup at Gamescom 2024 and they look pretty darn good](https://www.pcgamer.com/hardware/motherboards/asus-unveils-its-x870x870e-motherboard-lineup-at-gamescom-2024-and-they-look-pretty-darn-good)
- - [Today&#39;s Wordle answer for Thursday, August 22](https://www.pcgamer.com/games/puzzle/wordle-answer-today-august-22-2024)
- - [Black Myth: Wukong has the most bombastic action game opening since 2010s greats God of War 3 and Asura&#39;s Wrath](https://www.pcgamer.com/games/action/black-myth-wukong-has-the-most-bombastic-action-game-opening-since-2010s-greats-god-of-war-3-and-asuras-wrath)<!-- GAME:END -->
+ - [Inzoi Character Studio is almost obsessively beautiful, giving everyone a perfectly pouty lip and everything](https://www.pcgamer.com/games/life-sim/inzoi-character-studio-tips)
+ - [Seeing Black Myth: Wukong running on GeForce Now may have finally convinced me that cloud gaming is the future](https://www.pcgamer.com/hardware/seeing-black-myth-wukong-running-on-geforce-now-may-have-finally-convinced-me-that-cloud-gaming-is-the-future)
+ - [The creators of Blasphemous are making a real-time tactics game about escaping from a haunted Spanish monastery](https://www.pcgamer.com/games/strategy/the-creators-of-blasphemous-are-making-a-real-time-tactics-game-about-escaping-from-a-haunted-spanish-monastery)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
