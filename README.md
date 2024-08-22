@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Party in your 30s...](http://9gag.com/gag/a6ZbBLL)
- - ⏩ [Need to be careful who you&#39;re hiring](http://9gag.com/gag/aLnDGqv)
- - 👉 [VR Gym motivation](http://9gag.com/gag/ayNDW1p)<!-- MEMES:END -->
+ - 💣 [Onlyfan wives get paid a lot compared to a cop salary](http://9gag.com/gag/agmL8dv)
+ - ⏩ [We need you, good job! otherwise I have to do it myself](http://9gag.com/gag/an7bnm0)
+ - 👉 [9gaggers](http://9gag.com/gag/aYQxOwV)<!-- MEMES:END -->
 
 ---
 
