@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Satellite SOS is now available for Google Pixel 9 phones](https://www.androidauthority.com/google-pixel-9-satellite-sos-available-3474184/)
- - [Monument Valley 3 release date: When is it launching?](https://www.androidauthority.com/monument-valley-3-release-date-3473746/)
- - [A look at interoperability challenges to the adoption of the C2PA&#39;s authentication standard, including the lack of support for C2PA metadata in cameras &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/240822/p3#a240822p3)<!-- TECH:END -->
+ - [Italian officials: UK tech entrepreneur Mike Lynch&#39;s body has been recovered from the wreckage of the superyacht Bayesian, which sank three days ago off Sicily &lpar;Financial Times&rpar;](http://www.techmeme.com/240822/p5#a240822p5)
+ - [Google Wear OS 5: Features, release date, and more](https://www.androidauthority.com/wear-os-5-3424860/)
+ - [A look at the facial recognition systems becoming common at major league sporting venues, like the MLB&#39;s Go-Ahead Entry, as privacy advocates raise concerns &lpar;Caroline Haskins/Wired&rpar;](http://www.techmeme.com/240822/p4#a240822p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
