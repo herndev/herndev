@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta cancels high-end XR headset after tepid response to Apple’s Vision Pro](https://www.androidauthority.com/meta-premium-headset-canceled-3474697/)
- - [Q&amp;A with AI pioneer Yoshua Bengio on advocating for AI regulation, his support for California&#39;s AI safety bill, AI achieving human-level intelligence, and more &lpar;Shirin Ghaffary/Bloomberg&rpar;](http://www.techmeme.com/240823/p14#a240823p14)
- - [Apple&#39;s future iPhone Flip - all the rumors about a possible foldable iPhone](https://appleinsider.com/articles/24/08/23/apples-future-iphone-flip---all-the-rumors-about-a-possible-foldable-iphone?utm_medium=rss)<!-- TECH:END -->
+ - [The French AI startup called H, formerly Holistic, says three of its five co-founders are leaving over &quot;operational differences&quot;, after raising $220M in May &lpar;The Information&rpar;](http://www.techmeme.com/240823/p16#a240823p16)
+ - [SCOTUS could deal another blow to climate action](https://www.theverge.com/2024/8/23/24226042/scotus-epa-clean-power-coal-plants-pause-rule)
+ - [Sources: Apple plans to unveil new iPhones, AirPods, and Apple Watches on September 10; developer logs: Apple has ramped up testing of four new M4 Mac models &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/240823/p15#a240823p15)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
