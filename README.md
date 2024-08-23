@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [All DLC weapon locations in Elden Ring Shadow of the Erdtree](https://www.polygon.com/elden-ring-shadow-erdtree-guide/24180256/all-new-dlc-weapon-locations)
- - [Sir Ansbach questline walkthrough in Elden Ring: Shadow of the Erdtree](https://www.polygon.com/elden-ring-shadow-erdtree-guide/24183286/sir-ansbach-questline-steps-dlc-sote)
- - [All DLC boss locations in Elden Ring Shadow of the Erdtree](https://www.polygon.com/elden-ring-shadow-erdtree-guide/24180254/all-dlc-boss-locations-bosses-in-order)<!-- GAME:END -->
+ - [Using the D&amp;#038;D Beyond digital toolset is going to get worse before it gets better](https://www.polygon.com/dnd-dungeons-dragons/443394/dnd-beyond-changelog-phb-launch-date-character-sheets)
+ - [Black Myth: Wukong is already one of the fastest-selling games of all time, moving almost as many units in one week as Elden Ring and Cyberpunk did in their first months](https://www.pcgamer.com/games/action/black-myth-wukong-is-already-one-of-the-fastest-selling-games-of-all-time-moving-almost-as-many-units-in-one-week-as-elden-ring-and-cyberpunk-did-in-their-first-months)
+ - [Animators harness the power of yaoi for union campaign](https://www.polygon.com/animation-cartoons/443397/animation-union-yaoi-meme-bargaining)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
