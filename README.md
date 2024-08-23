@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Keep your coffee hot and your wallet fat with this Ember Mug 2 40% deal](https://www.androidauthority.com/ember-mug-2-deal-3474823/)
- - [Garmin Fenix 8 wishlist: All the features I want to see](https://www.androidauthority.com/garmin-fenix-8-3391386/)
- - [RFK Jr. Suspends Presidential Campaign, Endorses Trump](https://www.wired.com/story/rfk-jr-drops-out-presidential-race/)<!-- TECH:END -->
+ - [The best laptops you can buy](https://www.theverge.com/21250695/best-laptops)
+ - [Meta says a small cluster of WhatsApp accounts linked to the Iran-backed hacking group APT42 targeted people affiliated with the Biden and Trump administrations &lpar;Shannon Bond/NPR&rpar;](http://www.techmeme.com/240823/p17#a240823p17)
+ - [Apple rumor points to an iPhone 16, Watch, and AirPods launch event next month](https://www.theverge.com/2024/8/23/24227030/apple-iphone-16-watch-series-10-airpods-launch-event-date-rumor)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
