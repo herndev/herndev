@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [9 Things We Learned About Monster Hunter Wilds At Gamescom](https://kotaku.com/monster-hunter-wilds-gamescom-new-features-1851630592)
- - [3 Big Changes Coming To Diablo IV In Its First Major Expansion](https://kotaku.com/diablo-4-vessel-of-hatred-mercenaries-dark-citadel-1851630602)
- - [How to beat the Yellow Wind Sage in Black Myth: Wukong](https://www.polygon.com/guides/443178/black-myth-wukong-yellow-wind-sage-how-to-beat)<!-- GAME:END -->
+ - [Dying Light: The Beast is more of the same, but with superpowers](https://www.polygon.com/preview/443640/dying-light-the-beast-is-more-of-the-same-but-with-superpowers)
+ - [Kotaku’s Weekend Guide: 6 Games We Can&#39;t Wait To Get Back To](https://kotaku.com/what-to-play-recommendations-robcop-order-1886-1851630601)
+ - [9 Things We Learned About Monster Hunter Wilds At Gamescom](https://kotaku.com/monster-hunter-wilds-gamescom-new-features-1851630592)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
