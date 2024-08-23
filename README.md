@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Concord Has One Big Thing Going For It And Lots Of Stuff Holding It Back](https://kotaku.com/concord-review-sci-fi-hero-shooter-ps5-overwatch-1851630481)
- - [Diablo IV Is Cheap Ahead Of Vessel Of Hatred, And You Can Try It For Free If You Hurry](https://kotaku.com/diablo-4-free-trial-sale-steam-deck-pc-vessel-hatred-1851630535)
- - [Using the D&amp;#038;D Beyond digital toolset is going to get worse before it gets better](https://www.polygon.com/dnd-dungeons-dragons/443394/dnd-beyond-changelog-phb-launch-date-character-sheets)<!-- GAME:END -->
+ - [9 Things We Learned About Monster Hunter Wilds At Gamescom](https://kotaku.com/monster-hunter-wilds-gamescom-new-features-1851630592)
+ - [3 Big Changes Coming To Diablo IV In Its First Major Expansion](https://kotaku.com/diablo-4-vessel-of-hatred-mercenaries-dark-citadel-1851630602)
+ - [How to beat the Yellow Wind Sage in Black Myth: Wukong](https://www.polygon.com/guides/443178/black-myth-wukong-yellow-wind-sage-how-to-beat)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
