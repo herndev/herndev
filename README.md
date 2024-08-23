@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Bungie&#39;s pre-Halo FPS Classic Marathon Infinity just launched on Steam for free, meaning you can now play the entire Marathon trilogy for the low price of nothing](https://www.pcgamer.com/games/fps/bungies-pre-halo-fps-classic-marathon-infinity-just-launched-on-steam-for-free-meaning-you-can-now-play-the-entire-marathon-trilogy-for-the-low-price-of-nothing)
  - [Asus has finally come up with the easy-release GPU slot we&#39;ve all been crying out for](https://www.pcgamer.com/hardware/graphics-cards/asus-has-finally-come-up-with-the-easy-release-gpu-slot-weve-all-been-crying-out-for)
- - [Elgato Facecam Neo review](https://www.pcgamer.com/hardware/webcams/elgato-facecam-neo-review)
- - [Asked about SAG-AFTRA&#39;s strike for better AI protections, Amazon Games Boss claims AI &#39;has nothing to do with taking work away&#39; from actors because &#39;for games, we don&#39;t really have acting&#39;](https://www.pcgamer.com/games/asked-about-sag-aftras-strike-for-better-ai-protections-amazon-games-boss-claims-ai-has-nothing-to-do-with-taking-work-away-from-actors-because-for-games-we-dont-really-have-acting)<!-- GAME:END -->
+ - [Elgato Facecam Neo review](https://www.pcgamer.com/hardware/webcams/elgato-facecam-neo-review)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
