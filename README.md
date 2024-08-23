@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to use a VPN to access geo-restricted content and social media](https://appleinsider.com/inside/iphone/tips/how-to-use-a-vpn-to-access-geo-restricted-content-and-social-media?utm_medium=rss)
- - [Sources: Meta cancels plans for a premium headset, codenamed La Jolla and envisioned as a competitor to Apple&#39;s Vision Pro, after development began in November &lpar;The Information&rpar;](http://www.techmeme.com/240823/p12#a240823p12)
- - [Android 15 features: Everything you need to know about confirmed and leaked features](https://www.androidauthority.com/android-15-features-3401939/)<!-- TECH:END -->
+ - [Are Copilot Plus PCs really the Windows alternative to Chromebooks?](https://www.theverge.com/24226855/copilot-plus-pcs-alternative-chromebooks)
+ - [Meta pulls plug on plans for high-end Vision Pro competitor](https://www.theverge.com/2024/8/23/24226856/meta-vr-ar-la-jolla-rumor-quest-pro-2)
+ - [Apple-1 owned by Apple&#39;s first applications engineer sells for over $300,000](https://appleinsider.com/articles/24/08/23/apple-1-owned-by-apples-first-applications-engineer-sells-for-over-300000?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
