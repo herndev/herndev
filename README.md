@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [After Borderlands comes crawling back to Steam, Gearbox boss Randy Pitchford responds to people mocking his old predictions about Steam being killed off by the Epic Store: &#39;Epic is not pressing their advantage&#39;](https://www.pcgamer.com/games/fps/after-borderlands-comes-crawling-back-to-steam-gearbox-boss-randy-pitchford-responds-to-people-mocking-his-old-predictions-about-steam-being-killed-off-by-the-epic-store-epic-is-not-pressing-their-advantage)
- - [A Sims Game Is Finally Coming To The Nintendo Switch, Sorta](https://kotaku.com/mysims-nintendo-switch-kingdom-racing-party-release-1851630257)
- - [Where To Find Essential Antibiotics In 7 Days To Die](https://kotaku.com/7-days-to-die-where-to-find-antibiotics-guide-1851625768)<!-- GAME:END -->
+ - [All DLC weapon locations in Elden Ring Shadow of the Erdtree](https://www.polygon.com/elden-ring-shadow-erdtree-guide/24180256/all-new-dlc-weapon-locations)
+ - [Sir Ansbach questline walkthrough in Elden Ring: Shadow of the Erdtree](https://www.polygon.com/elden-ring-shadow-erdtree-guide/24183286/sir-ansbach-questline-steps-dlc-sote)
+ - [All DLC boss locations in Elden Ring Shadow of the Erdtree](https://www.polygon.com/elden-ring-shadow-erdtree-guide/24180254/all-dlc-boss-locations-bosses-in-order)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
