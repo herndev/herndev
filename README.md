@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Are Copilot Plus PCs really the Windows alternative to Chromebooks?](https://www.theverge.com/24226855/copilot-plus-pcs-alternative-chromebooks)
- - [Meta pulls plug on plans for high-end Vision Pro competitor](https://www.theverge.com/2024/8/23/24226856/meta-vr-ar-la-jolla-rumor-quest-pro-2)
- - [Apple-1 owned by Apple&#39;s first applications engineer sells for over $300,000](https://appleinsider.com/articles/24/08/23/apple-1-owned-by-apples-first-applications-engineer-sells-for-over-300000?utm_medium=rss)<!-- TECH:END -->
+ - [Meta cancels high-end XR headset after tepid response to Apple’s Vision Pro](https://www.androidauthority.com/meta-premium-headset-canceled-3474697/)
+ - [Q&amp;A with AI pioneer Yoshua Bengio on advocating for AI regulation, his support for California&#39;s AI safety bill, AI achieving human-level intelligence, and more &lpar;Shirin Ghaffary/Bloomberg&rpar;](http://www.techmeme.com/240823/p14#a240823p14)
+ - [Apple&#39;s future iPhone Flip - all the rumors about a possible foldable iPhone](https://appleinsider.com/articles/24/08/23/apples-future-iphone-flip---all-the-rumors-about-a-possible-foldable-iphone?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
