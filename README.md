@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best CD Rates Today -- APYs Are Falling Fast, Aug. 23, 2024](https://www.cnet.com/personal-finance/cd-rates-today-august-23-2024/#ftag=CAD590a51e)
- - [Premier League Soccer: Livestream Man City vs. Ipswich From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-livestream-man-city-vs-ipswich-from-anywhere/#ftag=CAD590a51e)
- - [Save 35% on New Bedding and More at Cozy Earth With Our Exclusive Discount Code](https://www.cnet.com/deals/save-35-on-new-bedding-and-more-at-cozy-earth-with-our-exclusive-discount-code/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Microsoft to host CrowdStrike and others to discuss Windows security changes](https://www.theverge.com/2024/8/23/24226638/microsoft-windows-security-summit-crowdstrike-partners)
+ - [Apple shifts iPhone 16 production mix to greatly favor Pro models](https://appleinsider.com/articles/24/08/23/apple-shifts-iphone-16-production-mix-to-greatly-favor-pro-models?utm_medium=rss)
+ - [Apple Podcasts no longer king as competitors gain ground](https://appleinsider.com/articles/24/08/23/apple-podcasts-no-longer-king-as-competitors-gain-ground?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
