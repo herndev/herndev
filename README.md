@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This chair catch by a Waffle House employee](http://9gag.com/gag/aE0YVAx)
- - ⏩ [Like seriously over thinking](http://9gag.com/gag/abApWQO)
- - 👉 [A job of a coach ain&#39;t easy](http://9gag.com/gag/a4PbAYp)<!-- MEMES:END -->
+ - 💣 [Take me home](http://9gag.com/gag/awynLbW)
+ - ⏩ [This crying lady, though](http://9gag.com/gag/avyGvEE)
+ - 👉 [Onsen trips with in-laws](http://9gag.com/gag/a6ZbpX8)<!-- MEMES:END -->
 
 ---
 
