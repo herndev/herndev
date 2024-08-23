@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Let me guess, she will be lesbian too](http://9gag.com/gag/ae9bxmp)
- - ⏩ [It&#39;s always these guys..](http://9gag.com/gag/ae9bm8v)
- - 👉 [Like seriously over thinking](http://9gag.com/gag/abApWQO)<!-- MEMES:END -->
+ - 💣 [By helicopter](http://9gag.com/gag/azx8RBb)
+ - ⏩ [Like seriously over thinking](http://9gag.com/gag/abApWQO)
+ - 👉 [Onlyfan wives get paid a lot compared to a cop salary](http://9gag.com/gag/agmL8dv)<!-- MEMES:END -->
 
 ---
 
