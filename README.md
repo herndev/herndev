@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The French AI startup called H, formerly Holistic, says three of its five co-founders are leaving over &quot;operational differences&quot;, after raising $220M in May &lpar;The Information&rpar;](http://www.techmeme.com/240823/p16#a240823p16)
- - [SCOTUS could deal another blow to climate action](https://www.theverge.com/2024/8/23/24226042/scotus-epa-clean-power-coal-plants-pause-rule)
- - [Sources: Apple plans to unveil new iPhones, AirPods, and Apple Watches on September 10; developer logs: Apple has ramped up testing of four new M4 Mac models &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/240823/p15#a240823p15)<!-- TECH:END -->
+ - [Keep your coffee hot and your wallet fat with this Ember Mug 2 40% deal](https://www.androidauthority.com/ember-mug-2-deal-3474823/)
+ - [Garmin Fenix 8 wishlist: All the features I want to see](https://www.androidauthority.com/garmin-fenix-8-3391386/)
+ - [RFK Jr. Suspends Presidential Campaign, Endorses Trump](https://www.wired.com/story/rfk-jr-drops-out-presidential-race/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
