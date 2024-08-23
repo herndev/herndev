@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Visible offers T-Mobile customers $15/mo plan, locks price for five years](https://www.androidauthority.com/visible-15-month-unlimited-t-mobile-transfer-3474822/)
- - [Some T-Mobile subscribers need to choose a new payment method](https://www.androidauthority.com/t-mobile-play-store-billing-3474858/)
- - [The best laptops you can buy](https://www.theverge.com/21250695/best-laptops)<!-- TECH:END -->
+ - [Andrew Ng steps down as CEO of LandingAI, the computer vision startup he founded in 2017, and transitions to executive chairman; ex-COO Dan Maloney is named CEO &lpar;Devin Coldewey/TechCrunch&rpar;](http://www.techmeme.com/240823/p18#a240823p18)
+ - [Google gives Android a speed boost after memory management upgrade](https://www.androidauthority.com/android-gains-16kb-page-support-3474807/)
+ - [Visible offers T-Mobile customers $15/mo plan, locks price for five years](https://www.androidauthority.com/visible-15-month-unlimited-t-mobile-transfer-3474822/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
