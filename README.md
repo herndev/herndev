@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [By helicopter](http://9gag.com/gag/azx8RBb)
- - ⏩ [Like seriously over thinking](http://9gag.com/gag/abApWQO)
- - 👉 [Onlyfan wives get paid a lot compared to a cop salary](http://9gag.com/gag/agmL8dv)<!-- MEMES:END -->
+ - 💣 [Cavillerine](http://9gag.com/gag/amoYM6X)
+ - ⏩ [Canon event](http://9gag.com/gag/aD2WVMB)
+ - 👉 [How We Imagined A.I. Then vs. Now!](http://9gag.com/gag/abApxBv)<!-- MEMES:END -->
 
 ---
 
