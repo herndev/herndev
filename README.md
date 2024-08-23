@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The reason I love this community](http://9gag.com/gag/a9yrXyo)
- - ⏩ [When all the trans players quite the game.](http://9gag.com/gag/aNDARZ6)
- - 👉 [Wake up companies. Yes they are the loudest crybabies, but they are a minority that don&#39;t even consume the product they cried for. Go woke, go broke](http://9gag.com/gag/agmL22g)<!-- MEMES:END -->
+ - 💣 [Let me guess, she will be lesbian too](http://9gag.com/gag/ae9bxmp)
+ - ⏩ [It&#39;s always these guys..](http://9gag.com/gag/ae9bm8v)
+ - 👉 [Like seriously over thinking](http://9gag.com/gag/abApWQO)<!-- MEMES:END -->
 
 ---
 
