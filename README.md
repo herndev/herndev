@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Bungie&#39;s pre-Halo FPS Classic Marathon Infinity just launched on Steam for free, meaning you can now play the entire Marathon trilogy for the low price of nothing](https://www.pcgamer.com/games/fps/bungies-pre-halo-fps-classic-marathon-infinity-just-launched-on-steam-for-free-meaning-you-can-now-play-the-entire-marathon-trilogy-for-the-low-price-of-nothing)
- - [Asus has finally come up with the easy-release GPU slot we&#39;ve all been crying out for](https://www.pcgamer.com/hardware/graphics-cards/asus-has-finally-come-up-with-the-easy-release-gpu-slot-weve-all-been-crying-out-for)
- - [Elgato Facecam Neo review](https://www.pcgamer.com/hardware/webcams/elgato-facecam-neo-review)<!-- GAME:END -->
+ - [Next Week on Xbox: New Games for August 26 to 30](https://news.xbox.com/en-us/2024/08/23/next-week-on-xbox-new-games-august-26-to-30/)
+ - [Delta Force is an awkward marriage of Battlefield and Call of Duty, but every once in awhile it all clicks](https://www.pcgamer.com/games/fps/delta-force-is-an-awkward-marriage-of-battlefield-and-call-of-duty-but-every-once-in-awhile-it-all-clicks)
+ - [LG says its new &#39;Dream OLED&#39; tech cracks the pesky problems that prevent OLED gaming panels being brighter and lasting longer](https://www.pcgamer.com/hardware/gaming-monitors/lg-says-its-new-dream-oled-tech-cracks-the-pesky-problems-that-prevent-oled-gaming-panels-being-brighter-and-lasting-longer)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
