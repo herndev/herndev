@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The results are nonless are impressive.](http://9gag.com/gag/apRp62p)
+ - 💣 [Cavillerine](http://9gag.com/gag/amoYM6X)
  - ⏩ [Let me guess, she will be lesbian too](http://9gag.com/gag/ae9bxmp)
- - 👉 [Like seriously over thinking](http://9gag.com/gag/abApWQO)<!-- MEMES:END -->
+ - 👉 [I can&#39;t think of a title](http://9gag.com/gag/a34qy3m)<!-- MEMES:END -->
 
 ---
 
