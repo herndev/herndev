@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Snag Apple&#39;s M3 MacBook Air 15-inch with 16GB RAM for just $1,299 with coupon](https://appleinsider.com/articles/24/08/23/snag-apples-m3-macbook-air-15-inch-with-16gb-ram-for-just-1299-with-coupon?utm_medium=rss)
- - [Premier League Soccer: Livestream Brighton vs. Man United From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-livestream-brighton-vs-man-united-from-anywhere/#ftag=CAD590a51e)
- - [This Woman Secretly Tries to Stop War](https://www.wired.com/story/gabrielle-rifkind-peace-oxford-process/)<!-- TECH:END -->
+ - [Crypto’s Shiny New Political Machine](https://www.wired.com/story/crypto-political-donations-super-pacs-campaigns/)
+ - [How to troubleshoot a Mac that won’t boot](https://www.theverge.com/24226229/macos-mac-apple-boot-fix-how-to)
+ - [Grab Yourself the Ember Smart Mug 2 With a Tasty $60 Off Right Now](https://www.cnet.com/deals/grab-yourself-the-ember-smart-mug-2-with-a-tasty-60-off-right-now/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
