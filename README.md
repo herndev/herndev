@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Cavillerine](http://9gag.com/gag/amoYM6X)
- - ⏩ [Mother reunites with her son after she got the call he regained consciousness after spending 16 days in a coma](http://9gag.com/gag/aVvqmpv)
- - 👉 [It&#39;s a fair question](http://9gag.com/gag/aGy1AyZ)<!-- MEMES:END -->
+ - 💣 [Determined Woman In Her 40&#39;s Becomes A Marathon Runner](http://9gag.com/gag/aW4mb3q)
+ - ⏩ [Apparently you can test whether a kid is sleeping or just pretending by doing this to their arms](http://9gag.com/gag/aYQx1y2)
+ - 👉 [Bro identifies as fat](http://9gag.com/gag/aO8z1gv)<!-- MEMES:END -->
 
 ---
 
