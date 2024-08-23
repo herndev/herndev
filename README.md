@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Crypto’s Shiny New Political Machine](https://www.wired.com/story/crypto-political-donations-super-pacs-campaigns/)
- - [How to troubleshoot a Mac that won’t boot](https://www.theverge.com/24226229/macos-mac-apple-boot-fix-how-to)
- - [Grab Yourself the Ember Smart Mug 2 With a Tasty $60 Off Right Now](https://www.cnet.com/deals/grab-yourself-the-ember-smart-mug-2-with-a-tasty-60-off-right-now/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best CD Rates Today -- APYs Are Falling Fast, Aug. 23, 2024](https://www.cnet.com/personal-finance/cd-rates-today-august-23-2024/#ftag=CAD590a51e)
+ - [Premier League Soccer: Livestream Man City vs. Ipswich From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-livestream-man-city-vs-ipswich-from-anywhere/#ftag=CAD590a51e)
+ - [Save 35% on New Bedding and More at Cozy Earth With Our Exclusive Discount Code](https://www.cnet.com/deals/save-35-on-new-bedding-and-more-at-cozy-earth-with-our-exclusive-discount-code/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
