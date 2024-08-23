@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft to host CrowdStrike and others to discuss Windows security changes](https://www.theverge.com/2024/8/23/24226638/microsoft-windows-security-summit-crowdstrike-partners)
- - [Apple shifts iPhone 16 production mix to greatly favor Pro models](https://appleinsider.com/articles/24/08/23/apple-shifts-iphone-16-production-mix-to-greatly-favor-pro-models?utm_medium=rss)
- - [Apple Podcasts no longer king as competitors gain ground](https://appleinsider.com/articles/24/08/23/apple-podcasts-no-longer-king-as-competitors-gain-ground?utm_medium=rss)<!-- TECH:END -->
+ - [How to use a VPN to access geo-restricted content and social media](https://appleinsider.com/inside/iphone/tips/how-to-use-a-vpn-to-access-geo-restricted-content-and-social-media?utm_medium=rss)
+ - [Sources: Meta cancels plans for a premium headset, codenamed La Jolla and envisioned as a competitor to Apple&#39;s Vision Pro, after development began in November &lpar;The Information&rpar;](http://www.techmeme.com/240823/p12#a240823p12)
+ - [Android 15 features: Everything you need to know about confirmed and leaked features](https://www.androidauthority.com/android-15-features-3401939/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
