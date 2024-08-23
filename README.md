@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [We need you, good job! otherwise I have to do it myself](http://9gag.com/gag/an7bnm0)
- - ⏩ [A relaxing night walk in Japan](http://9gag.com/gag/a1mbDjP)
- - 👉 [The results are nonless are impressive.](http://9gag.com/gag/apRp62p)<!-- MEMES:END -->
+ - 💣 [This chair catch by a Waffle House employee](http://9gag.com/gag/aE0YVAx)
+ - ⏩ [Like seriously over thinking](http://9gag.com/gag/abApWQO)
+ - 👉 [A job of a coach ain&#39;t easy](http://9gag.com/gag/a4PbAYp)<!-- MEMES:END -->
 
 ---
 
