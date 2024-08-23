@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Determined Woman In Her 40&#39;s Becomes A Marathon Runner](http://9gag.com/gag/aW4mb3q)
- - ⏩ [Apparently you can test whether a kid is sleeping or just pretending by doing this to their arms](http://9gag.com/gag/aYQx1y2)
- - 👉 [Bro identifies as fat](http://9gag.com/gag/aO8z1gv)<!-- MEMES:END -->
+ - 💣 [It isn&#39;t that hard to understand](http://9gag.com/gag/aW4mvw6)
+ - ⏩ [The reason I love this community](http://9gag.com/gag/a9yrXyo)
+ - 👉 [Boy caused parents to owe $132,000 in debt](http://9gag.com/gag/ae9bmdp)<!-- MEMES:END -->
 
 ---
 
