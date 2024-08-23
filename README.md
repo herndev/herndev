@@ -46,7 +46,7 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Mic drop](http://9gag.com/gag/ajPXLxw)
+ - 💣 [Eleventyone](http://9gag.com/gag/aryb3dp)
  - ⏩ [Kidney stone. Drink water](http://9gag.com/gag/amoY10d)
  - 👉 [No need to lick Japanese yogurt lids](http://9gag.com/gag/a0eb0Vz)<!-- MEMES:END -->
 
