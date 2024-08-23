@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Naked man vs cops, who will win?](http://9gag.com/gag/a1mbVQb)
- - ⏩ [Let me guess, she will be lesbian too](http://9gag.com/gag/ae9bxmp)
- - 👉 [Kidney stone. Drink water](http://9gag.com/gag/amoY10d)<!-- MEMES:END -->
+ - 💣 [Mic drop](http://9gag.com/gag/ajPXLxw)
+ - ⏩ [Kidney stone. Drink water](http://9gag.com/gag/amoY10d)
+ - 👉 [No need to lick Japanese yogurt lids](http://9gag.com/gag/a0eb0Vz)<!-- MEMES:END -->
 
 ---
 
