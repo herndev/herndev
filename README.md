@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Shareholders approve upgrading Alibaba&#39;s Hong Kong listing, which expects to attract billions of dollars in Chinese investment, to primary status on August 28 &lpar;Edwin Chan/Bloomberg&rpar;](http://www.techmeme.com/240822/p36#a240822p36)
- - [Microsoft confirms the Windows Control Panel, which debuted in 1985 with Windows 1.0, is &quot;in the process of being deprecated in favor of the Settings app&quot; &lpar;Sayan Sen/Neowin&rpar;](http://www.techmeme.com/240822/p35#a240822p35)
- - [Silverbear, an investor named in Bolt&#39;s financial docs for a $450M raise, says it was &quot;never in this deal&quot;, as some investors consider legal action against Bolt &lpar;Forbes&rpar;](http://www.techmeme.com/240822/p34#a240822p34)<!-- TECH:END -->
+ - [The Pixel 9&#39;s AI features have made creating realistic and believable fake photos trivial, and Google&#39;s safeguards are astonishingly anemic &lpar;Sarah Jeong/The Verge&rpar;](http://www.techmeme.com/240822/p37#a240822p37)
+ - [Shareholders approve upgrading Alibaba&#39;s Hong Kong listing, which expects to attract billions of dollars in Chinese investment, to primary status on August 28 &lpar;Bloomberg&rpar;](http://www.techmeme.com/240822/p36#a240822p36)
+ - [Microsoft confirms the Windows Control Panel, which debuted in 1985 with Windows 1.0, is &quot;in the process of being deprecated in favor of the Settings app&quot; &lpar;Sayan Sen/Neowin&rpar;](http://www.techmeme.com/240822/p35#a240822p35)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
