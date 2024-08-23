@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Do Not Disturb mode is being supercharged in Android 15: Here’s how](https://www.androidauthority.com/android-15-priority-modes-3474550/)
- - [Today&#39;s NYT Connections Hint for Aug. 22 #438 Is to Know Your Newspapers](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-aug-22-438/#ftag=CAD590a51e)
- - [I Can Play This All Day: Early Hands-On with Cap and Bucky in Marvel Rivals](https://www.cnet.com/tech/gaming/i-can-play-this-all-day-early-hands-on-with-cap-and-bucky-in-marvel-rivals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Silverbear, an investor named in Bolt&#39;s financial docs for a $450M raise, says it was &quot;never in this deal&quot;, as some investors consider legal action against Bolt &lpar;Forbes&rpar;](http://www.techmeme.com/240822/p34#a240822p34)
+ - [The Eufy Security Indoor Cam S350 is the coolest, and it’s $30 off](https://www.androidauthority.com/eufy-security-indoor-cam-s350-deal-3474497/)
+ - [Internal memo: Noam Shazeer, the ex-CEO of Character.AI who joined Google this month, will be Gemini co-technical lead and work with Jeff Dean and Oriol Vinyals &lpar;Erin Woo/The Information&rpar;](http://www.techmeme.com/240822/p33#a240822p33)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
