@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [BONK!!!!!!!](http://9gag.com/gag/aD2WVx9)
- - ⏩ [We need you, good job! otherwise I have to do it myself](http://9gag.com/gag/an7bnm0)
- - 👉 [9gaggers](http://9gag.com/gag/aYQxOwV)<!-- MEMES:END -->
+ - 💣 [We need you, good job! otherwise I have to do it myself](http://9gag.com/gag/an7bnm0)
+ - ⏩ [A relaxing night walk in Japan](http://9gag.com/gag/a1mbDjP)
+ - 👉 [The results are nonless are impressive.](http://9gag.com/gag/apRp62p)<!-- MEMES:END -->
 
 ---
 
