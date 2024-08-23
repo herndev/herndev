@@ -41,7 +41,7 @@
 <!-- TECH:START -->
  - [Docs: state-linked Chinese entities are using cloud services from AWS or its rivals to access advanced US chips and AI models they cannot acquire otherwise &lpar;Reuters&rpar;](http://www.techmeme.com/240822/p40#a240822p40)
  - [Dallas-based Siepe, which provides data management software and services to the private credit industry, raised a $30M Series B led by WestCap &lpar;Dallas Innovates&rpar;](http://www.techmeme.com/240822/p39#a240822p39)
- - [Rode Wireless Pro review: Impressive features, superb audio quality](https://appleinsider.com/articles/24/08/23/rode-wireless-pro-review-impressive-features-superb-audio-quality?utm_medium=rss)<!-- TECH:END -->
+ - [Today&#39;s NYT Connections Hints, Answers and Help for Aug. 23 #439](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-aug-23-439/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
