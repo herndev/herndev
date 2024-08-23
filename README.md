@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Cavillerine](http://9gag.com/gag/amoYM6X)
- - ⏩ [Let me guess, she will be lesbian too](http://9gag.com/gag/ae9bxmp)
- - 👉 [I can&#39;t think of a title](http://9gag.com/gag/a34qy3m)<!-- MEMES:END -->
+ - 💣 [A trucker in Canada who was on the road after falsifying his logbook crashes into a car from behind while distracted with his phone. He killed two children and her grandmother](http://9gag.com/gag/axyVRw1)
+ - ⏩ [9gaggers](http://9gag.com/gag/aYQxOwV)
+ - 👉 [It&#39;s always these guys..](http://9gag.com/gag/ae9bm8v)<!-- MEMES:END -->
 
 ---
 
