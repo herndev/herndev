@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How long is Black Myth: Wukong?](https://www.pcgamer.com/games/rpg/how-long-is-black-myth-wukong)
- - [Peter Molyneux says he&#39;s &#39;coming home&#39; to PC, but should we welcome him back after everything that&#39;s happened?](https://www.pcgamer.com/games/strategy/peter-molyneux-masters-of-albion-announcement-redemption)
- - [The best movies leaving Netflix, Hulu, and HBO Max at the end of April 2022](https://www.polygon.com/what-to-watch/2022/4/27/23031814/best-movies-netflix-amazon-hulu-hbo-leaving-april-2022)<!-- GAME:END -->
+ - [Yes, Black Myth: Wukong A Has New Game Plus Mode](https://kotaku.com/does-black-myth-wukong-have-new-game-plus-mode-1851629196)
+ - [You can tell the new Heroes of Might and Magic game is meant to be a throwback to when the series was good because they&#39;re not insisting we call it Might and Magic: Heroes this time](https://www.pcgamer.com/games/strategy/you-can-tell-the-new-heroes-of-might-and-magic-game-is-meant-to-be-a-throwback-to-when-the-series-was-good-because-theyre-not-insisting-we-call-it-might-and-magic-heroes-this-time)
+ - [Today&#39;s Wordle answer for Friday, August 23](https://www.pcgamer.com/games/puzzle/wordle-answer-today-august-23-2024)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
