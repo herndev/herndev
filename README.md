@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How Microsoft Flight Simulator Helped a Groundbreaking Lost Airliner Soar Once Again](https://news.xbox.com/en-us/2024/08/23/how-microsoft-flight-simulator-helped-lost-airliner-soar-again/)
- - [Black Myth: Wukong Secret Lets You Summon One Rock Boss To Beat The Crap Out Of Another Rock Boss](https://kotaku.com/black-myth-wukong-buddha-eyeball-shigandang-stone-cliff-1851630113)
- - [Join The 33 Immortals Weekend Playtest!](https://news.xbox.com/en-us/2024/08/23/join-the-33-immortals-weekend-playtest/)<!-- GAME:END -->
+ - [After Borderlands comes crawling back to Steam, Gearbox boss Randy Pitchford responds to people mocking his old predictions about Steam being killed off by the Epic Store: &#39;Epic is not pressing their advantage&#39;](https://www.pcgamer.com/games/fps/after-borderlands-comes-crawling-back-to-steam-gearbox-boss-randy-pitchford-responds-to-people-mocking-his-old-predictions-about-steam-being-killed-off-by-the-epic-store-epic-is-not-pressing-their-advantage)
+ - [A Sims Game Is Finally Coming To The Nintendo Switch, Sorta](https://kotaku.com/mysims-nintendo-switch-kingdom-racing-party-release-1851630257)
+ - [Where To Find Essential Antibiotics In 7 Days To Die](https://kotaku.com/7-days-to-die-where-to-find-antibiotics-guide-1851625768)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
