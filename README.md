@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best laptops you can buy](https://www.theverge.com/21250695/best-laptops)
- - [Meta says a small cluster of WhatsApp accounts linked to the Iran-backed hacking group APT42 targeted people affiliated with the Biden and Trump administrations &lpar;Shannon Bond/NPR&rpar;](http://www.techmeme.com/240823/p17#a240823p17)
- - [Apple rumor points to an iPhone 16, Watch, and AirPods launch event next month](https://www.theverge.com/2024/8/23/24227030/apple-iphone-16-watch-series-10-airpods-launch-event-date-rumor)<!-- TECH:END -->
+ - [Visible offers T-Mobile customers $15/mo plan, locks price for five years](https://www.androidauthority.com/visible-15-month-unlimited-t-mobile-transfer-3474822/)
+ - [Some T-Mobile subscribers need to choose a new payment method](https://www.androidauthority.com/t-mobile-play-store-billing-3474858/)
+ - [The best laptops you can buy](https://www.theverge.com/21250695/best-laptops)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
