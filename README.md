@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Using the D&amp;#038;D Beyond digital toolset is going to get worse before it gets better](https://www.polygon.com/dnd-dungeons-dragons/443394/dnd-beyond-changelog-phb-launch-date-character-sheets)
- - [Black Myth: Wukong is already one of the fastest-selling games of all time, moving almost as many units in one week as Elden Ring and Cyberpunk did in their first months](https://www.pcgamer.com/games/action/black-myth-wukong-is-already-one-of-the-fastest-selling-games-of-all-time-moving-almost-as-many-units-in-one-week-as-elden-ring-and-cyberpunk-did-in-their-first-months)
- - [Animators harness the power of yaoi for union campaign](https://www.polygon.com/animation-cartoons/443397/animation-union-yaoi-meme-bargaining)<!-- GAME:END -->
+ - [Concord Has One Big Thing Going For It And Lots Of Stuff Holding It Back](https://kotaku.com/concord-review-sci-fi-hero-shooter-ps5-overwatch-1851630481)
+ - [Diablo IV Is Cheap Ahead Of Vessel Of Hatred, And You Can Try It For Free If You Hurry](https://kotaku.com/diablo-4-free-trial-sale-steam-deck-pc-vessel-hatred-1851630535)
+ - [Using the D&amp;#038;D Beyond digital toolset is going to get worse before it gets better](https://www.polygon.com/dnd-dungeons-dragons/443394/dnd-beyond-changelog-phb-launch-date-character-sheets)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
