@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Redmagic Titan 16 Pro: A legend awakens](https://www.pcgamer.com/hardware/gaming-laptops/redmagic-titan-16-pro-a-legend-awakens)
  - [Yes, Black Myth: Wukong A Has New Game Plus Mode](https://kotaku.com/does-black-myth-wukong-have-new-game-plus-mode-1851629196)
- - [You can tell the new Heroes of Might and Magic game is meant to be a throwback to when the series was good because they&#39;re not insisting we call it Might and Magic: Heroes this time](https://www.pcgamer.com/games/strategy/you-can-tell-the-new-heroes-of-might-and-magic-game-is-meant-to-be-a-throwback-to-when-the-series-was-good-because-theyre-not-insisting-we-call-it-might-and-magic-heroes-this-time)
- - [Today&#39;s Wordle answer for Friday, August 23](https://www.pcgamer.com/games/puzzle/wordle-answer-today-august-23-2024)<!-- GAME:END -->
+ - [You can tell the new Heroes of Might and Magic game is meant to be a throwback to when the series was good because they&#39;re not insisting we call it Might and Magic: Heroes this time](https://www.pcgamer.com/games/strategy/you-can-tell-the-new-heroes-of-might-and-magic-game-is-meant-to-be-a-throwback-to-when-the-series-was-good-because-theyre-not-insisting-we-call-it-might-and-magic-heroes-this-time)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
