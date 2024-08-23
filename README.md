@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [This app lets you listen to any book, article or PDF thanks to AI](https://www.androidauthority.com/elevenlabs-reader-app-3474174/)
- - [Best Solar-Powered Home Security Cameras for 2024](https://www.cnet.com/home/security/best-solar-powered-home-security-camera/#ftag=CAD590a51e)
- - [Best Internet Providers in Newark, New Jersey](https://www.cnet.com/home/internet/best-internet-providers-in-newark-nj/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The first triple-screen foldable phone is around the corner](https://www.androidauthority.com/first-triple-screen-foldable-phone-launch-3474604/)
+ - [Samsung Galaxy Ring teardown: disposable tech built not to last over two years due to lithium ion batteries that can&#39;t be replaced without destroying the device &lpar;Shahram Mokhtari/iFixit News&rpar;](http://www.techmeme.com/240823/p2#a240823p2)
+ - [This app lets you listen to any book, article or PDF thanks to AI](https://www.androidauthority.com/elevenlabs-reader-app-3474174/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
