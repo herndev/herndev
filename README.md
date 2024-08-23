@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Japanese chipmaker Kioxia applies to list on the Tokyo Stock Exchange, likely to be Japan&#39;s biggest IPO in 2024; source: Kioxia seeks to raise at least $500M &lpar;Leo Lewis/Financial Times&rpar;](http://www.techmeme.com/240823/p3#a240823p3)
- - [ElevenLabs’ AI Reader app can now narrate text in 32 languages](https://www.theverge.com/2024/8/23/24226643/elevenlabs-ai-reader-app-32-languages-global-release)
- - [When War Came to Their Country, They Built a Map](https://www.wired.com/story/deep-state-ukraine-map/)<!-- TECH:END -->
+ - [OnePlus could cleverly offer magnetic accessories without a MagSafe phone](https://www.androidauthority.com/oneplus-oppo-magsafe-magnetic-accessories-3474626/)
+ - [Sony Block Solutions Labs, a joint venture between Sony and Web3 developer Startale, launches Soneium, a layer-2 blockchain to empower creators, devs, and more &lpar;Dean Takahashi/VentureBeat&rpar;](http://www.techmeme.com/240823/p5#a240823p5)
+ - [The Scientific Reasons Behind Why You Get So Many Mosquito Bites](https://www.cnet.com/health/the-scientific-reasons-behind-why-you-get-so-many-mosquito-bites/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
