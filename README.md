@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Internet Providers in Newark, New Jersey](https://www.cnet.com/home/internet/best-internet-providers-in-newark-nj/#ftag=CAD590a51e)
- - [Dealroom: AI coding assistant startups such as Anysphere and Augment have raised $433M so far in 2024 alone, bringing the total since January 2023 to $906M &lpar;Madhumita Murgia/Financial Times&rpar;](http://www.techmeme.com/240823/p1#a240823p1)
- - [Today&#39;s NYT Mini Crossword Answers for Aug. 23](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-aug-23/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [This app lets you listen to any book, article or PDF thanks to AI](https://www.androidauthority.com/elevenlabs-reader-app-3474174/)
+ - [Best Solar-Powered Home Security Cameras for 2024](https://www.cnet.com/home/security/best-solar-powered-home-security-camera/#ftag=CAD590a51e)
+ - [Best Internet Providers in Newark, New Jersey](https://www.cnet.com/home/internet/best-internet-providers-in-newark-nj/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
