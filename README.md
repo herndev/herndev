@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Next Week on Xbox: New Games for August 26 to 30](https://news.xbox.com/en-us/2024/08/23/next-week-on-xbox-new-games-august-26-to-30/)
- - [Delta Force is an awkward marriage of Battlefield and Call of Duty, but every once in awhile it all clicks](https://www.pcgamer.com/games/fps/delta-force-is-an-awkward-marriage-of-battlefield-and-call-of-duty-but-every-once-in-awhile-it-all-clicks)
- - [LG says its new &#39;Dream OLED&#39; tech cracks the pesky problems that prevent OLED gaming panels being brighter and lasting longer](https://www.pcgamer.com/hardware/gaming-monitors/lg-says-its-new-dream-oled-tech-cracks-the-pesky-problems-that-prevent-oled-gaming-panels-being-brighter-and-lasting-longer)<!-- GAME:END -->
+ - [How Microsoft Flight Simulator Helped a Groundbreaking Lost Airliner Soar Once Again](https://news.xbox.com/en-us/2024/08/23/how-microsoft-flight-simulator-helped-lost-airliner-soar-again/)
+ - [Black Myth: Wukong Secret Lets You Summon One Rock Boss To Beat The Crap Out Of Another Rock Boss](https://kotaku.com/black-myth-wukong-buddha-eyeball-shigandang-stone-cliff-1851630113)
+ - [Join The 33 Immortals Weekend Playtest!](https://news.xbox.com/en-us/2024/08/23/join-the-33-immortals-weekend-playtest/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
