@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The best movies leaving Netflix, Hulu, and HBO Max at the end of April 2022](https://www.polygon.com/what-to-watch/2022/4/27/23031814/best-movies-netflix-amazon-hulu-hbo-leaving-april-2022)
- - [This upcoming &#39;survival-action game&#39; looks like Stalker crossed with an episode of your mom&#39;s favorite British murder-mystery show](https://www.pcgamer.com/games/fps/this-upcoming-survival-action-game-looks-like-stalker-crossed-with-an-episode-of-your-mom-s-favorite-british-murder-mystery-show)
- - [11 Monster Hunter Wilds features from the Gamescom dev streams that have me hooting and hollering like an inbound Bazelgeuse](https://www.pcgamer.com/games/rpg/11-monster-hunter-wilds-features-from-the-gamescom-dev-streams-that-have-me-hooting-and-hollering-like-an-inbound-bazelgeuse)<!-- GAME:END -->
+ - [How long is Black Myth: Wukong?](https://www.pcgamer.com/games/rpg/how-long-is-black-myth-wukong)
+ - [Peter Molyneux says he&#39;s &#39;coming home&#39; to PC, but should we welcome him back after everything that&#39;s happened?](https://www.pcgamer.com/games/strategy/peter-molyneux-masters-of-albion-announcement-redemption)
+ - [The best movies leaving Netflix, Hulu, and HBO Max at the end of April 2022](https://www.polygon.com/what-to-watch/2022/4/27/23031814/best-movies-netflix-amazon-hulu-hbo-leaving-april-2022)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
