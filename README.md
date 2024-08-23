@@ -47,7 +47,7 @@
 
 <!-- MEMES:START -->
  - 💣 [Like seriously over thinking](http://9gag.com/gag/abApWQO)
- - ⏩ [When you arrest people for internet posts, they start posting in real life.](http://9gag.com/gag/a34q8j1)
+ - ⏩ [BONK!!!!!!!](http://9gag.com/gag/aD2WVx9)
  - 👉 [I&#39;m in!](http://9gag.com/gag/aXPq449)<!-- MEMES:END -->
 
 ---
