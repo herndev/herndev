@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Take me home](http://9gag.com/gag/awynLbW)
- - ⏩ [This crying lady, though](http://9gag.com/gag/avyGvEE)
- - 👉 [Onsen trips with in-laws](http://9gag.com/gag/a6ZbpX8)<!-- MEMES:END -->
+ - 💣 [Wake up companies. Yes they are the loudest crybabies, but they are a minority that don&#39;t even consume the product they cried for. Go woke, go broke](http://9gag.com/gag/agmL22g)
+ - ⏩ [The reason I love this community](http://9gag.com/gag/a9yrXyo)
+ - 👉 [Other oil rich Arab countries don&#39;t want them .soo](http://9gag.com/gag/a0eb6BL)<!-- MEMES:END -->
 
 ---
 
