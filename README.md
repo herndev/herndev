@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [A trucker in Canada who was on the road after falsifying his logbook crashes into a car from behind while distracted with his phone. He killed two children and her grandmother](http://9gag.com/gag/axyVRw1)
- - ⏩ [9gaggers](http://9gag.com/gag/aYQxOwV)
- - 👉 [It&#39;s always these guys..](http://9gag.com/gag/ae9bm8v)<!-- MEMES:END -->
+ - 💣 [Cavillerine](http://9gag.com/gag/amoYM6X)
+ - ⏩ [A relaxing night walk in Japan](http://9gag.com/gag/a1mbDjP)
+ - 👉 [9gaggers](http://9gag.com/gag/aYQxOwV)<!-- MEMES:END -->
 
 ---
 
