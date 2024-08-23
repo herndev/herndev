@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [How We Imagined A.I. Then vs. Now!](http://9gag.com/gag/abApxBv)
- - ⏩ [Brits have talent](http://9gag.com/gag/a87y60Q)
- - 👉 [Let me guess, she will be lesbian too](http://9gag.com/gag/ae9bxmp)<!-- MEMES:END -->
+ - 💣 [The results are nonless are impressive.](http://9gag.com/gag/apRp62p)
+ - ⏩ [Let me guess, she will be lesbian too](http://9gag.com/gag/ae9bxmp)
+ - 👉 [Like seriously over thinking](http://9gag.com/gag/abApWQO)<!-- MEMES:END -->
 
 ---
 
