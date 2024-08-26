@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [This is our first real-world look at the Google Pixel 9a, or is it?](https://www.androidauthority.com/google-pixel-9a-sketchy-leak-3475111/)
- - [Analysis: Elon Musk posted ~13,000 times on X in 2024 to July, or 61 posts per day, almost as much as in all of 2023, as he shifts to posting about politics &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240826/p8#a240826p8)
- - [‘Should Art Be Regulated by the SEC?’: NFT Artists’ New Lawsuit Seeks Answers](https://www.wired.com/story/jonathan-mann-brian-frye-sec-lawsuit-nfts-art-securities/)<!-- TECH:END -->
+ - [Google Messages is giving you another way to find your lost group chats](https://www.androidauthority.com/google-messages-group-chat-search-new-conversation-3475152/)
+ - [Chinese-made, Tencent-backed game Black Myth: Wukong sold 10M copies in just 83 hours, one of the fastest game debuts in history, earning an estimated $450M+ &lpar;Bloomberg&rpar;](http://www.techmeme.com/240826/p12#a240826p12)
+ - [Current and former Nvidia staff say that, despite a 3,776% stock jump since 2019, minting many millionaires, the work hours are still grueling and high-stress &lpar;Bloomberg&rpar;](http://www.techmeme.com/240826/p11#a240826p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
