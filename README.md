@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Another obvious reason](http://9gag.com/gag/awynvjB)
- - ⏩ [AI is contributing to a better world, they say](http://9gag.com/gag/a34qnr1)
- - 👉 [The best cosplay in history](http://9gag.com/gag/an7b8Az)<!-- MEMES:END -->
+ - 💣 [TATE Brothers - DllCOT of Romania seized all of Andrew &amp; Tristan Tates cars. They now have 32 supercars seized. Noooo, even the Lada\u2026 Insane!!](http://9gag.com/gag/aoy1qLg)
+ - ⏩ [Be Honest Now.](http://9gag.com/gag/amoYKLd)
+ - 👉 [Reliability](http://9gag.com/gag/a0ebW2O)<!-- MEMES:END -->
 
 ---
 
