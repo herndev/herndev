@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [OpenAI supports CA bill AB 3211 to require companies generating AI content to add watermarks; the bill passed in the state Assembly 62-0 and heads to Senate &lpar;Anna Tong/Reuters&rpar;](http://www.techmeme.com/240826/p19#a240826p19)
- - [Hope and disparity: a colorful new way to visualize air quality around the world](https://www.theverge.com/2024/8/26/24228658/air-quality-pollution-art-data-visualization-stripes)
- - [Ikea is testing a secondhand marketplace, but only in two countries](https://www.theverge.com/2024/8/26/24228840/ikea-preowned-secondhand-marketplace-test)<!-- TECH:END -->
+ - [Best Early Labor Day Deals &lpar;2024&rpar;: Tablets, Streaming Sticks, and More](https://www.wired.com/story/labor-day-deals-2024/)
+ - [Gannett is shuttering site accused of publishing AI product reviews](https://www.theverge.com/2024/8/26/24228880/gannett-usa-today-reviewed-product-reviews-ai-articles)
+ - [French prosecutors: Pavel Durov&#39;s arrest is part of a probe &quot;against person unnamed&quot; into CSAM, drug sales, and more on the app and not working with authorities &lpar;New York Times&rpar;](http://www.techmeme.com/240826/p20#a240826p20)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
