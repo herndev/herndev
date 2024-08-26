@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Report: Activision Canceled A Crash Bandicoot / Spyro Crossover Game](https://kotaku.com/crash-bandicoot-5-spyro-crossover-cancelled-activision-1851632213)
- - [Report says well-known videogame accessibility advocate may not have actually existed](https://www.pcgamer.com/games/report-says-well-known-videogame-accessibility-advocate-may-not-have-actually-existed)
- - [The Black Myth: Wukong map mod is here to make your Journey to the West a little easier](https://www.pcgamer.com/games/action/the-black-myth-wukong-map-mod-is-here-to-make-your-journey-to-the-west-a-little-easier)<!-- GAME:END -->
+ - [Microsoft softens language about killing off the Control Panel, but it&#39;s still clearly gonna kill off the Control Panel](https://www.pcgamer.com/gaming-industry/microsoft-softens-language-about-killing-off-the-control-panel-but-it-s-still-clearly-gonna-kill-off-the-control-panel)
+ - [&#39;This game is going to easily—and I mean easily—take over&#39;: Major streamers, early fans, and esports players share their Deadlock hype after Valve opens the floodgates](https://www.pcgamer.com/games/moba/this-game-is-going-to-easilyand-i-mean-easilytake-over-major-streamers-early-fans-and-esports-players-share-their-deadlock-hype-after-valve-opens-the-floodgates)
+ - [Report: Activision Canceled A Crash Bandicoot / Spyro Crossover Game](https://kotaku.com/crash-bandicoot-5-spyro-crossover-cancelled-activision-1851632213)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
