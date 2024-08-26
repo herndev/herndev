@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Here Come The Gokus In Black Myth: Wukong](https://kotaku.com/black-myth-wukong-dragon-ball-z-goku-best-mods-1851632139)
- - [Where to find refined iron sand in Black Myth: Wukong](https://www.polygon.com/guides/444014/black-myth-wukong-refined-iron-sand-how-to-get-where-to-find)
- - [Get One Of The Best Co-op Games Ever Made For Cheap In The Latest Humble Bundle](https://kotaku.com/humble-bundle-escape-academy-coop-puzzle-sale-1851632131)<!-- GAME:END -->
+ - [Report: Activision Canceled A Crash Bandicoot / Spyro Crossover Game](https://kotaku.com/crash-bandicoot-5-spyro-crossover-cancelled-activision-1851632213)
+ - [Report says well-known videogame accessibility advocate may not have actually existed](https://www.pcgamer.com/games/report-says-well-known-videogame-accessibility-advocate-may-not-have-actually-existed)
+ - [The Black Myth: Wukong map mod is here to make your Journey to the West a little easier](https://www.pcgamer.com/games/action/the-black-myth-wukong-map-mod-is-here-to-make-your-journey-to-the-west-a-little-easier)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
