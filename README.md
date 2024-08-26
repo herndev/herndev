@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Andrzej Sapkowski has finished writing another Witcher book](https://www.pcgamer.com/games/rpg/andrzej-sapkowski-has-finished-writing-another-witcher-book)
- - [MSI&#39;s X870 and X870E motherboards come with an auxiliary 8-pin power connector, which could indicate some scary next-gen GPU power consumption levels](https://www.pcgamer.com/hardware/motherboards/msis-x870-and-x870e-motherboards-come-with-an-auxiliary-8-pin-power-connector-which-could-indicate-some-scary-next-gen-gpu-power-consumption-levels)
- - [Indiana Jones and the Great Circle will have challenging puzzles, but also a creative hint system through Indy&#39;s camera: &#39;We don&#39;t want you to go to YouTube to look up the solution, because that&#39;s immersion-breaking and bad&#39;](https://www.pcgamer.com/games/fps/indiana-jones-and-the-great-circle-will-have-challenging-puzzles-but-also-a-creative-hint-system-through-indys-camera-we-dont-want-you-to-go-to-youtube-to-look-up-the-solution-because-thats-immersion-breaking-and-bad)<!-- GAME:END -->
+ - [Five new Steam games you probably missed &lpar;August 26, 2024&rpar;](https://www.pcgamer.com/software/platforms/five-new-steam-games-you-probably-missed-august-26-2024)
+ - [A super fan of Dungeons &amp; Dragons&#39; Githyanki made a Baldur&#39;s Gate 3-infused Doom map where you can just hang out and talk to them](https://www.pcgamer.com/games/fps/a-super-fan-of-dungeons-and-dragons-githyanki-made-a-baldurs-gate-3-infused-doom-map-where-you-can-just-hang-out-and-talk-to-them)
+ - [Andrzej Sapkowski has finished writing another Witcher book](https://www.pcgamer.com/games/rpg/andrzej-sapkowski-has-finished-writing-another-witcher-book)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
