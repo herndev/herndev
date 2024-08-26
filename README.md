@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Our two very favorite headphones are heavily discounted right now](https://www.androidauthority.com/apple-airpods-max-sony-wh-1000mx5-deals-3475183/)
- - [Your button-less phone dream might become a reality next year](https://www.androidauthority.com/xiaomi-button-less-phone-3475199/)
- - [A year later, Lenovo’s Legion Go is getting its own official dock and controller wedge](https://www.theverge.com/2024/8/26/24227098/lenovo-legion-go-dock-carry-case-joystick-connector)<!-- TECH:END -->
+ - [Nintendo is closing out the summer with a 40-minute showcase](https://www.theverge.com/24228697/nintendo-direct-indie-showcase-partner-direct-august)
+ - [French President Emmanuel Macron says the government was not involved in the arrest of Telegram CEO Pavel Durov and &quot;this is in no way a political decision&quot; &lpar;Victor Goury-Laffont/Politico&rpar;](http://www.techmeme.com/240826/p15#a240826p15)
+ - [You can now share video timestamps via YouTube mobile](https://www.androidauthority.com/video-timestamps-youtube-mobile-3475237/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
