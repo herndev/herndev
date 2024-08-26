@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [All those millions of claims for not even 700 concurrent players. Hilarious](http://9gag.com/gag/aZZmVop)
- - ⏩ [The... what?](http://9gag.com/gag/aYQxBGv)
- - 👉 [TroIIing them](http://9gag.com/gag/a6Zb49N)<!-- MEMES:END -->
+ - 💣 [Want some Anxiety?](http://9gag.com/gag/amoYbKX)
+ - ⏩ [My fellow asian 9gaggers](http://9gag.com/gag/aXPqQYv)
+ - 👉 [The... what?](http://9gag.com/gag/aYQxBGv)<!-- MEMES:END -->
 
 ---
 
