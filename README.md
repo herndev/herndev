@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Early Labor Day Deals &lpar;2024&rpar;: Tablets, Streaming Sticks, and More](https://www.wired.com/story/labor-day-deals-2024/)
- - [Gannett is shuttering site accused of publishing AI product reviews](https://www.theverge.com/2024/8/26/24228880/gannett-usa-today-reviewed-product-reviews-ai-articles)
- - [French prosecutors: Pavel Durov&#39;s arrest is part of a probe &quot;against person unnamed&quot; into CSAM, drug sales, and more on the app and not working with authorities &lpar;New York Times&rpar;](http://www.techmeme.com/240826/p20#a240826p20)<!-- TECH:END -->
+ - [Google Meet will stay onscreen when you switch tabs](https://www.theverge.com/2024/8/26/24229009/google-meet-automatic-picture-in-picture-switch-tabs)
+ - [Here’s an early look at Google’s revamped Pixel wallpaper app in Android 15 QPR1](https://www.androidauthority.com/pixel-wallpaper-app-revamp-3475404/)
+ - [Crypto platform Abra agrees to settle with the SEC over claims of unregistered securities; the SEC said the Abra Earn product had almost $500M from US investors &lpar;Jesse Hamilton/CoinDesk&rpar;](http://www.techmeme.com/240826/p21#a240826p21)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
