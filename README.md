@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple CFO shakeup: Kevan Parekh replacing Luca Maestri](https://appleinsider.com/articles/24/08/26/apple-cfo-shakeup-kevan-parekh-replacing-luca-maestri?utm_medium=rss)
- - [Google app could be getting a handy search recall shortcut &lpar;APK Teardown&rpar;](https://www.androidauthority.com/google-app-last-query-popup-3475435/)
- - [Apple announces CFO Luca Maestri will transition from his role on January 1, 2025; Kevan Parekh, Apple&#39;s VP of Financial Planning and Analysis, will become CFO &lpar;Apple&rpar;](http://www.techmeme.com/240826/p24#a240826p24)<!-- TECH:END -->
+ - [Docs: Amazon plans to launch its delayed overhaul of Alexa in October for as much as $10/month, with AI-generated news summaries, a chatbot for kids, and more &lpar;Caroline O&#39;Donovan/Washington Post&rpar;](http://www.techmeme.com/240826/p25#a240826p25)
+ - [Telegram CEO Pavel Durov’s Arrest Linked to Sweeping Criminal Investigation](https://www.wired.com/story/telegram-pavel-durov-arrest-investigation-allegations/)
+ - [Apple’s CFO will step down](https://www.theverge.com/2024/8/26/24229078/apple-cfo-luca-maestri-transition-kevan-parekh)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
