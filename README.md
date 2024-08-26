@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [What time does Genshin Impact 5.0 release?](https://www.polygon.com/genshin-impact-guides/444012/version-5-0-release-times-maintenance-end)
- - [Grab the entire Kazuma Kiryu Yakuza saga for 70% off](https://www.polygon.com/good-deals/443977/yakuza-complete-series-sale-kiyru-0-kiwami-gog)
- - [Star Wars Outlaws: Should you tell Eleera about the Pyke traitor or save the info for Gorak?](https://www.pcgamer.com/games/action/star-wars-outlaws-eleera-pyke-traitor-choice)<!-- GAME:END -->
+ - [Steam surpasses 37 million concurrent users for the first time ever thanks to Black Myth: Wukong](https://www.pcgamer.com/software/platforms/steam-surpasses-37-million-concurrent-users-for-the-first-time-ever-thanks-to-black-myth-wukong)
+ - [Sony&#39;s Latest Big Game, Concord, Is Flopping](https://kotaku.com/concord-flop-low-player-count-steam-psn-sales-fps-ps5-1851631800)
+ - [Metal Gear Solid 3 Remake Sounds Like It&#39;s Basically The Original Game With Much Better Graphics](https://kotaku.com/metal-gear-solid-3-delta-remake-performance-mode-60fps-1851631819)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
