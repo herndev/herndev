@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Dragon Age: The Veilguard drops a 10-minute combat deep dive video, and it might just have sold me on giving BioWare&#39;s latest RPG a whirl](https://www.pcgamer.com/games/rpg/dragon-age-the-veilguard-drops-a-10-minute-combat-deep-dive-video-and-it-might-just-have-sold-me-on-giving-biowares-latest-rpg-a-whirl)
- - [D&amp;#038;D team backtracks over proposed digital-tool changes after fan outcry](https://www.polygon.com/dnd-dungeons-dragons/444017/dnd-beyond-homebrew-changes-canceled-fan-outcry)
- - [How To Complete Fortnite&#39;s Latest Doctor Doom-Themed Quest](https://kotaku.com/fortnite-are-we-doomed-quest-guide-1851631512)<!-- GAME:END -->
+ - [What time does Genshin Impact 5.0 release?](https://www.polygon.com/genshin-impact-guides/444012/version-5-0-release-times-maintenance-end)
+ - [Grab the entire Kazuma Kiryu Yakuza saga for 70% off](https://www.polygon.com/good-deals/443977/yakuza-complete-series-sale-kiyru-0-kiwami-gog)
+ - [Star Wars Outlaws: Should you tell Eleera about the Pyke traitor or save the info for Gorak?](https://www.pcgamer.com/games/action/star-wars-outlaws-eleera-pyke-traitor-choice)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
