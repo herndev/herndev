@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [TATE Brothers - DllCOT of Romania seized all of Andrew &amp; Tristan Tates cars. They now have 32 supercars seized. Noooo, even the Lada\u2026 Insane!!](http://9gag.com/gag/aoy1qLg)
- - ⏩ [Be Honest Now.](http://9gag.com/gag/amoYKLd)
- - 👉 [Reliability](http://9gag.com/gag/a0ebW2O)<!-- MEMES:END -->
+ - 💣 [The best cosplay in history](http://9gag.com/gag/an7b8Az)
+ - ⏩ [Zooming into iphone cpu die &lpar;5nm&rpar;](http://9gag.com/gag/aAydLWZ)
+ - 👉 [My life is miserable man. Every day is a struggle to make it to bed, just so I can do it again the next day. His mom left when he was less than a year old because she didn&#39;t want the responsibility. She has had no contact, and I&#39;ve had to do it alone since then. It&#39;s been hell...](http://9gag.com/gag/a2vrjDO)<!-- MEMES:END -->
 
 ---
 
