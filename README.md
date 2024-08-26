@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How Slow Horses built the perfect asshole](https://www.polygon.com/tv/444096/slow-horses-jackson-lamb-interview-showrunner)
- - [Everything you need to know before playing Space Marine 2](https://www.polygon.com/gaming/444179/everything-you-need-to-know-warhammer-40k-space-marine-2)
- - [Save 30% on this immaculate Lego Atari 2600 replica](https://www.polygon.com/good-deals/444114/lego-atari-2600-best-buy-sale)<!-- GAME:END -->
+ - [Here Come The Gokus In Black Myth: Wukong](https://kotaku.com/black-myth-wukong-dragon-ball-z-goku-best-mods-1851632139)
+ - [Where to find refined iron sand in Black Myth: Wukong](https://www.polygon.com/guides/444014/black-myth-wukong-refined-iron-sand-how-to-get-where-to-find)
+ - [Get One Of The Best Co-op Games Ever Made For Cheap In The Latest Humble Bundle](https://kotaku.com/humble-bundle-escape-academy-coop-puzzle-sale-1851632131)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
