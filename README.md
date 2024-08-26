@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Gamers hoping to build a Ryzen 9000-series system with an affordable B850 motherboard are set for a long wait](https://www.pcgamer.com/hardware/motherboards/gamers-hoping-to-build-a-ryzen-9000-series-system-with-an-affordable-b850-motherboard-are-set-for-a-long-wait)
  - [Scientists say they not only taught hydrogel how to play Pong, but to get better at it over time](https://www.pcgamer.com/games/sports/scientists-say-they-not-only-taught-hydrogel-how-to-play-pong-but-to-get-better-at-it-over-time)
- - [Today&#39;s Wordle answer for Monday, August 26](https://www.pcgamer.com/games/puzzle/wordle-answer-today-august-26-2024)
- - [Five new Steam games you probably missed &lpar;August 26, 2024&rpar;](https://www.pcgamer.com/software/platforms/five-new-steam-games-you-probably-missed-august-26-2024)<!-- GAME:END -->
+ - [Today&#39;s Wordle answer for Monday, August 26](https://www.pcgamer.com/games/puzzle/wordle-answer-today-august-26-2024)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
