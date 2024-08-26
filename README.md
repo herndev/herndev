@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Nerds rejoice, we be happening!](http://9gag.com/gag/an7bZX5)
- - ⏩ [Those two are doing well. Fame did not do harm to them](http://9gag.com/gag/aRBmGp5)
- - 👉 [100 years ago this would be on every newspaper on the planet and this dude would be in history books. Now it&#39;s just a YouTube short.](http://9gag.com/gag/a0ebGZX)<!-- MEMES:END -->
+ - 💣 [One of Reason Diversity not selling in asia](http://9gag.com/gag/a9yreR1)
+ - ⏩ [Be Honest Now.](http://9gag.com/gag/amoYKLd)
+ - 👉 [All those millions of claims for not even 700 concurrent players. Hilarious](http://9gag.com/gag/aZZmVop)<!-- MEMES:END -->
 
 ---
 
