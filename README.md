@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Five new Steam games you probably missed &lpar;August 26, 2024&rpar;](https://www.pcgamer.com/software/platforms/five-new-steam-games-you-probably-missed-august-26-2024)
- - [A super fan of Dungeons &amp; Dragons&#39; Githyanki made a Baldur&#39;s Gate 3-infused Doom map where you can just hang out and talk to them](https://www.pcgamer.com/games/fps/a-super-fan-of-dungeons-and-dragons-githyanki-made-a-baldurs-gate-3-infused-doom-map-where-you-can-just-hang-out-and-talk-to-them)
- - [Andrzej Sapkowski has finished writing another Witcher book](https://www.pcgamer.com/games/rpg/andrzej-sapkowski-has-finished-writing-another-witcher-book)<!-- GAME:END -->
+ - [Scientists say they not only taught hydrogel how to play Pong, but to get better at it over time](https://www.pcgamer.com/games/sports/scientists-say-they-not-only-taught-hydrogel-how-to-play-pong-but-to-get-better-at-it-over-time)
+ - [Today&#39;s Wordle answer for Monday, August 26](https://www.pcgamer.com/games/puzzle/wordle-answer-today-august-26-2024)
+ - [Five new Steam games you probably missed &lpar;August 26, 2024&rpar;](https://www.pcgamer.com/software/platforms/five-new-steam-games-you-probably-missed-august-26-2024)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
