@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [This over-the-counter gadget could help the war against diabetes](https://www.theverge.com/2024/8/26/24226685/dexcom-stelo-hands-on-continuous-glucose-monitor-wearables)
- - [Sources: IBM shuts its China R&amp;D department, affecting 1,000+ employees, and plans to move some R&amp;D functions overseas, the latest company to retreat from China &lpar;Raffaele Huang/Wall Street Journal&rpar;](http://www.techmeme.com/240826/p6#a240826p6)
- - [Now’s the worst time to buy these Apple products](https://www.androidauthority.com/worst-time-buy-apple-products-3475112/)<!-- TECH:END -->
+ - [This is our first real-world look at the Google Pixel 9a, or is it?](https://www.androidauthority.com/google-pixel-9a-sketchy-leak-3475111/)
+ - [Analysis: Elon Musk posted ~13,000 times on X in 2024 to July, or 61 posts per day, almost as much as in all of 2023, as he shifts to posting about politics &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240826/p8#a240826p8)
+ - [‘Should Art Be Regulated by the SEC?’: NFT Artists’ New Lawsuit Seeks Answers](https://www.wired.com/story/jonathan-mann-brian-frye-sec-lawsuit-nfts-art-securities/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
