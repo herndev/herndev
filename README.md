@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [HoverAir X1 Pro and Promax: folding, self-flying 4K and 8K drones with modular controllers](https://www.theverge.com/2024/8/26/24227115/hoverair-x1-pro-promax-announcement-price-release-date)
- - [PSA: Some Pixel 9 Pro buyers can’t redeem the free Gemini Advanced trial](https://www.androidauthority.com/pixel-9-pro-redeem-gemini-advanced-trial-3475251/)
- - [Google may make it easier to manage the places your phone stays unlocked &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-may-make-it-easier-to-manage-the-places-your-phone-stays-unlocked-apk-teardown-3475259/)<!-- TECH:END -->
+ - [Samsung will soon let you create AI wallpapers on its touchscreen refrigerators](https://www.theverge.com/2024/8/26/24228788/samsung-ai-wallpapers-refrigerators-bixby-upgrade-bespoke-appliances)
+ - [Inflection will cap free access to its AI chatbot Pi in the coming months and let users export their conversations as the startup focuses on enterprise products &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/240826/p17#a240826p17)
+ - [Indiegogo will guarantee shipping for some crowdfunding campaigns](https://www.theverge.com/2024/8/26/24228647/indiegogo-shipping-guarantee-crowdfunding)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
