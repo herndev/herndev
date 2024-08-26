@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Now the silver and gold medals are also looking terrible after 2 weeks...](http://9gag.com/gag/aByWbAZ)
- - ⏩ [I regret that I didn&#39;t come to Thailand earlier](http://9gag.com/gag/a34qx87)
- - 👉 [She wants a ring I guess](http://9gag.com/gag/aAydqnE)<!-- MEMES:END -->
+ - 💣 [Stopping at a train crossing](http://9gag.com/gag/aoy1AAg)
+ - ⏩ [Exactly my point !](http://9gag.com/gag/amoYnj6)
+ - 👉 [The good old days](http://9gag.com/gag/aYQxn9V)<!-- MEMES:END -->
 
 ---
 
