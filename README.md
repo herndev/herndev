@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nintendo is closing out the summer with a 40-minute showcase](https://www.theverge.com/24228697/nintendo-direct-indie-showcase-partner-direct-august)
- - [French President Emmanuel Macron says the government was not involved in the arrest of Telegram CEO Pavel Durov and &quot;this is in no way a political decision&quot; &lpar;Victor Goury-Laffont/Politico&rpar;](http://www.techmeme.com/240826/p15#a240826p15)
- - [You can now share video timestamps via YouTube mobile](https://www.androidauthority.com/video-timestamps-youtube-mobile-3475237/)<!-- TECH:END -->
+ - [HoverAir X1 Pro and Promax: folding, self-flying 4K and 8K drones with modular controllers](https://www.theverge.com/2024/8/26/24227115/hoverair-x1-pro-promax-announcement-price-release-date)
+ - [PSA: Some Pixel 9 Pro buyers can’t redeem the free Gemini Advanced trial](https://www.androidauthority.com/pixel-9-pro-redeem-gemini-advanced-trial-3475251/)
+ - [Google may make it easier to manage the places your phone stays unlocked &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-may-make-it-easier-to-manage-the-places-your-phone-stays-unlocked-apk-teardown-3475259/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
