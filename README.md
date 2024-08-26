@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [It isn&#39;t that hard to understand](http://9gag.com/gag/aW4mvw6)
- - ⏩ [The reason I love this community](http://9gag.com/gag/a9yrXyo)
- - 👉 [Boy caused parents to owe $132,000 in debt](http://9gag.com/gag/ae9bmdp)<!-- MEMES:END -->
+ - 💣 [Can&#39;t figure out what this creature is](http://9gag.com/gag/a4Pbw8A)
+ - ⏩ [Want some Anxiety?](http://9gag.com/gag/amoYbKX)
+ - 👉 [And I want to know how much time they got.](http://9gag.com/gag/aKGVLOZ)<!-- MEMES:END -->
 
 ---
 
