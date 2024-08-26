@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [One of Reason Diversity not selling in asia](http://9gag.com/gag/a9yreR1)
- - ⏩ [Be Honest Now.](http://9gag.com/gag/amoYKLd)
+ - 💣 [Now the silver and gold medals are also looking terrible after 2 weeks...](http://9gag.com/gag/aByWbAZ)
+ - ⏩ [Bro finally got his latina](http://9gag.com/gag/ayNDr5b)
  - 👉 [All those millions of claims for not even 700 concurrent players. Hilarious](http://9gag.com/gag/aZZmVop)<!-- MEMES:END -->
 
 ---
