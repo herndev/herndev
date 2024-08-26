@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Life Is Strange: Double Exposure is more of a puzzle game than I expected](https://www.polygon.com/preview/443719/life-is-strange-double-exposure-is-more-of-a-puzzle-game-than-i-expected)
- - [Inside Out 2, Longlegs, Netflix’s Incoming, and every movie new to streaming this week](https://www.polygon.com/entertainment/441219/new-movies-watch-inside-out-2-netflix-incoming-longlegs)
- - [Zoë Kravitz’s horror-thriller Blink Twice is blunt, obvious, and incandescently angry](https://www.polygon.com/review/443624/blink-twice-zoe-kravitz-channing-tatum)<!-- GAME:END -->
+ - [Indiana Jones and the Great Circle will have challenging puzzles, but also a creative hint system through Indy&#39;s camera: &#39;We don&#39;t want you to go to YouTube to look up the solution, because that&#39;s immersion-breaking and bad&#39;](https://www.pcgamer.com/games/fps/indiana-jones-and-the-great-circle-will-have-challenging-puzzles-but-also-a-creative-hint-system-through-indys-camera-we-dont-want-you-to-go-to-youtube-to-look-up-the-solution-because-thats-immersion-breaking-and-bad)
+ - [Flip patties with friends to fill orders in cozy cook-em-up Galaxy Burger](https://www.pcgamer.com/games/flip-patties-with-friends-to-fill-orders-in-cozy-cook-em-up-galaxy-burger)
+ - [Doom E1M1 remade in Doom Eternal is honestly kind of quaint](https://www.pcgamer.com/games/fps/doom-e1m1-remade-in-doom-eternal-is-honestly-kind-of-quaint)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
