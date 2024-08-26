@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung will soon let you create AI wallpapers on its touchscreen refrigerators](https://www.theverge.com/2024/8/26/24228788/samsung-ai-wallpapers-refrigerators-bixby-upgrade-bespoke-appliances)
- - [Inflection will cap free access to its AI chatbot Pi in the coming months and let users export their conversations as the startup focuses on enterprise products &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/240826/p17#a240826p17)
- - [Indiegogo will guarantee shipping for some crowdfunding campaigns](https://www.theverge.com/2024/8/26/24228647/indiegogo-shipping-guarantee-crowdfunding)<!-- TECH:END -->
+ - [OpenAI supports CA bill AB 3211 to require companies generating AI content to add watermarks; the bill passed in the state Assembly 62-0 and heads to Senate &lpar;Anna Tong/Reuters&rpar;](http://www.techmeme.com/240826/p19#a240826p19)
+ - [Hope and disparity: a colorful new way to visualize air quality around the world](https://www.theverge.com/2024/8/26/24228658/air-quality-pollution-art-data-visualization-stripes)
+ - [Ikea is testing a secondhand marketplace, but only in two countries](https://www.theverge.com/2024/8/26/24228840/ikea-preowned-secondhand-marketplace-test)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
