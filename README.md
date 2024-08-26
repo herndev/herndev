@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Wtf am I doing with my time now?](http://9gag.com/gag/an7b3Vz)
+ - 💣 [Spoiler: it isn\u2019t real](http://9gag.com/gag/aMV80rx)
  - ⏩ [That escalated so quickly](http://9gag.com/gag/aKGVy1b)
- - 👉 [TroIIing them](http://9gag.com/gag/a6Zb49N)<!-- MEMES:END -->
+ - 👉 [Stopping at a train crossing](http://9gag.com/gag/aoy1AAg)<!-- MEMES:END -->
 
 ---
 
