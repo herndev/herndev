@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Another obvious reason](http://9gag.com/gag/awynvjB)
- - ⏩ [I regret that I didn&#39;t come to Thailand earlier](http://9gag.com/gag/a34qx87)
- - 👉 [Want some Anxiety?](http://9gag.com/gag/amoYbKX)<!-- MEMES:END -->
+ - 💣 [Give this road a name.](http://9gag.com/gag/aYQxn0w)
+ - ⏩ [And I want to know how much time they got.](http://9gag.com/gag/aKGVLOZ)
+ - 👉 [Bro found a hack](http://9gag.com/gag/aPABVNq)<!-- MEMES:END -->
 
 ---
 
