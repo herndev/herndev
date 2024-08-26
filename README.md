@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Long-overdue: New Apple Macs could finally come with more RAM for all that cash](https://www.androidauthority.com/apple-macs-16gb-ram-3475105/)
  - [How some Chinese AI companies use brokers to access GPUs despite US sanctions, sometimes using cryptocurrency smart contracts to anonymously process orders &lpar;Raffaele Huang/Wall Street Journal&rpar;](http://www.techmeme.com/240826/p4#a240826p4)
- - [Google brings even more free channels to your Google TV device](https://www.androidauthority.com/google-tv-more-free-channels-3474584/)
- - [Today only: get a 14-inch MacBook Pro with 1TB SSD, 19-core GPU for just $1,699](https://appleinsider.com/articles/24/08/26/today-only-get-a-14-inch-macbook-pro-with-1tb-ssd-19-core-gpu-for-just-1699?utm_medium=rss)<!-- TECH:END -->
+ - [Drizly Is Shutting Down. These Are the Best Alcohol Delivery Services to Try Instead](https://www.cnet.com/how-to/best-alcohol-delivery-services/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
