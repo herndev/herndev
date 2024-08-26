@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Your wife is a model pov](http://9gag.com/gag/ae9bW9q)
- - ⏩ [Equal payment](http://9gag.com/gag/ayNDZMV)
- - 👉 [That escalated quickly](http://9gag.com/gag/awynvNQ)<!-- MEMES:END -->
+ - 💣 [Another obvious reason](http://9gag.com/gag/awynvjB)
+ - ⏩ [I regret that I didn&#39;t come to Thailand earlier](http://9gag.com/gag/a34qx87)
+ - 👉 [Want some Anxiety?](http://9gag.com/gag/amoYbKX)<!-- MEMES:END -->
 
 ---
 
