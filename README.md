@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Stopping at a train crossing](http://9gag.com/gag/aoy1AAg)
- - ⏩ [Exactly my point !](http://9gag.com/gag/amoYnj6)
- - 👉 [The good old days](http://9gag.com/gag/aYQxn9V)<!-- MEMES:END -->
+ - 💣 [My fellow asian 9gaggers](http://9gag.com/gag/aXPqQYv)
+ - ⏩ [Upcoming Concord DLC](http://9gag.com/gag/adB7Wg9)
+ - 👉 [Orange Man BAD!](http://9gag.com/gag/axyVAX1)<!-- MEMES:END -->
 
 ---
 
