@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Steam surpasses 37 million concurrent users for the first time ever thanks to Black Myth: Wukong](https://www.pcgamer.com/software/platforms/steam-surpasses-37-million-concurrent-users-for-the-first-time-ever-thanks-to-black-myth-wukong)
- - [Sony&#39;s Latest Big Game, Concord, Is Flopping](https://kotaku.com/concord-flop-low-player-count-steam-psn-sales-fps-ps5-1851631800)
- - [Metal Gear Solid 3 Remake Sounds Like It&#39;s Basically The Original Game With Much Better Graphics](https://kotaku.com/metal-gear-solid-3-delta-remake-performance-mode-60fps-1851631819)<!-- GAME:END -->
+ - [How Slow Horses built the perfect asshole](https://www.polygon.com/tv/444096/slow-horses-jackson-lamb-interview-showrunner)
+ - [Everything you need to know before playing Space Marine 2](https://www.polygon.com/gaming/444179/everything-you-need-to-know-warhammer-40k-space-marine-2)
+ - [Save 30% on this immaculate Lego Atari 2600 replica](https://www.polygon.com/good-deals/444114/lego-atari-2600-best-buy-sale)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
