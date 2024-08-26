@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Messages is giving you another way to find your lost group chats](https://www.androidauthority.com/google-messages-group-chat-search-new-conversation-3475152/)
- - [Chinese-made, Tencent-backed game Black Myth: Wukong sold 10M copies in just 83 hours, one of the fastest game debuts in history, earning an estimated $450M+ &lpar;Bloomberg&rpar;](http://www.techmeme.com/240826/p12#a240826p12)
- - [Current and former Nvidia staff say that, despite a 3,776% stock jump since 2019, minting many millionaires, the work hours are still grueling and high-stress &lpar;Bloomberg&rpar;](http://www.techmeme.com/240826/p11#a240826p11)<!-- TECH:END -->
+ - [Samsung Portrait Studio vs Google Pixel Studio: What’s the difference?](https://www.androidauthority.com/samsung-portrait-studio-vs-google-pixel-studio-3473750/)
+ - [Nest Smart Learning Thermostat, Sonos app issues, &amp; Wi-Fi issues on HomeKit Insider](https://appleinsider.com/articles/24/08/26/nest-smart-learning-thermostat-sonos-app-issues-wi-fi-issues-on-homekit-insider?utm_medium=rss)
+ - [French agency OFMIN, established in 2023 to prevent violence against minors, issued the arrest warrant for Pavel Durov, who is a citizen of France and the UAE &lpar;Gaspard Sebag/Bloomberg&rpar;](http://www.techmeme.com/240826/p14#a240826p14)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
