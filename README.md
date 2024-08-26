@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A look at the aftermath of the FCC ending the Affordable Connectivity Program for ~23M US households in May 2024; Spectrum says it lost 154K customers in Q2 &lpar;Joe Supan/CNET&rpar;](http://www.techmeme.com/240826/p5#a240826p5)
  - [Long-overdue: New Apple Macs could finally come with more RAM for all that cash](https://www.androidauthority.com/apple-macs-16gb-ram-3475105/)
- - [How some Chinese AI companies use brokers to access GPUs despite US sanctions, sometimes using cryptocurrency smart contracts to anonymously process orders &lpar;Raffaele Huang/Wall Street Journal&rpar;](http://www.techmeme.com/240826/p4#a240826p4)
- - [Drizly Is Shutting Down. These Are the Best Alcohol Delivery Services to Try Instead](https://www.cnet.com/how-to/best-alcohol-delivery-services/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [How some Chinese AI companies use brokers to access GPUs despite US sanctions, sometimes using cryptocurrency smart contracts to anonymously process orders &lpar;Raffaele Huang/Wall Street Journal&rpar;](http://www.techmeme.com/240826/p4#a240826p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
