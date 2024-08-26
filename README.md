@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Understanding World of Warcraft&#39;s Brand New Warband System](https://kotaku.com/world-of-warcraft-the-war-within-warband-system-guide-1851631239)
  - [Strange Darling’s creators want you to disagree about what happens in the movie](https://www.polygon.com/horror/443406/strange-darling-ending-explained-discussion-creator-interview)
- - [Star Wars Outlaws review](https://www.pcgamer.com/games/action/star-wars-outlaws-review)
- - [Star Wars Outlaws performance analysis: Ray traced galaxies far, far away really, really demand upscaling and frame generation](https://www.pcgamer.com/hardware/star-wars-outlaws-performance-analysis-ray-traced-galaxies-far-far-away-really-really-demand-upscaling-and-frame-generation)<!-- GAME:END -->
+ - [Star Wars Outlaws review](https://www.pcgamer.com/games/action/star-wars-outlaws-review)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
