@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Obsidian’s Blockbuster Avowed Feels Like The Perfect Combination Of First-Person And Classic RPG](https://kotaku.com/avowed-preview-obsidian-rpg-pillars-eternity-1851631371)
- - [Surprise! This Might Be The Last Nintendo Direct Before We Hear About The Switch 2](https://kotaku.com/nintendo-direct-switch-2-silksong-livestream-watch-1851631378)
- - [Valve Quietly Announces Super-Secret Hero Shooter Deadlock Months After People Started Playing It](https://kotaku.com/deadlock-valve-steam-hero-shooter-moba-release-date-1851631341)<!-- GAME:END -->
+ - [15 Years Ago, Batman: Arkham Asylum Changed Superhero Games Forever](https://kotaku.com/batman-arkham-asylum-city-knight-anniversary-15-sale-1851631469)
+ - [Must-Have Gaming Gear To Level Up The School Year Like A Pro](https://kotaku.com/must-have-gaming-gear-to-level-up-the-school-year-like-1851615859)
+ - [How To Complete Fortnite&#39;s Chapter 5, Season 4, Week 1 Quests](https://kotaku.com/fortnite-battle-pass-chapter-5-season-4-week-1-guide-1851631339)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
