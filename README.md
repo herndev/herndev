@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Want some Anxiety?](http://9gag.com/gag/amoYbKX)
- - ⏩ [My fellow asian 9gaggers](http://9gag.com/gag/aXPqQYv)
- - 👉 [The... what?](http://9gag.com/gag/aYQxBGv)<!-- MEMES:END -->
+ - 💣 [Nerds rejoice, we be happening!](http://9gag.com/gag/an7bZX5)
+ - ⏩ [Those two are doing well. Fame did not do harm to them](http://9gag.com/gag/aRBmGp5)
+ - 👉 [100 years ago this would be on every newspaper on the planet and this dude would be in history books. Now it&#39;s just a YouTube short.](http://9gag.com/gag/a0ebGZX)<!-- MEMES:END -->
 
 ---
 
