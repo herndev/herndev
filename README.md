@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Want some Anxiety?](http://9gag.com/gag/amoYbKX)
+ - 💣 [All those millions of claims for not even 700 concurrent players. Hilarious](http://9gag.com/gag/aZZmVop)
  - ⏩ [The... what?](http://9gag.com/gag/aYQxBGv)
- - 👉 [I regret that I didn&#39;t come to Thailand earlier](http://9gag.com/gag/a34qx87)<!-- MEMES:END -->
+ - 👉 [TroIIing them](http://9gag.com/gag/a6Zb49N)<!-- MEMES:END -->
 
 ---
 
