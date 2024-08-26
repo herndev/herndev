@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Can&#39;t figure out what this creature is](http://9gag.com/gag/a4Pbw8A)
- - ⏩ [Want some Anxiety?](http://9gag.com/gag/amoYbKX)
- - 👉 [And I want to know how much time they got.](http://9gag.com/gag/aKGVLOZ)<!-- MEMES:END -->
+ - 💣 [Want some Anxiety?](http://9gag.com/gag/amoYbKX)
+ - ⏩ [One aged like wine, the others like milk](http://9gag.com/gag/aGy1rn5)
+ - 👉 [Poor Ahmed](http://9gag.com/gag/a9yrZv0)<!-- MEMES:END -->
 
 ---
 
