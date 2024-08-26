@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The good old days](http://9gag.com/gag/aYQxn9V)
- - ⏩ [Didn&#39;t knew it could be used like that](http://9gag.com/gag/a2vrxxE)
- - 👉 [Dog eats cicada](http://9gag.com/gag/a5Qbxng)<!-- MEMES:END -->
+ - 💣 [Want some Anxiety?](http://9gag.com/gag/amoYbKX)
+ - ⏩ [The... what?](http://9gag.com/gag/aYQxBGv)
+ - 👉 [I regret that I didn&#39;t come to Thailand earlier](http://9gag.com/gag/a34qx87)<!-- MEMES:END -->
 
 ---
 
