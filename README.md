@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Want some Anxiety?](http://9gag.com/gag/amoYbKX)
- - ⏩ [One aged like wine, the others like milk](http://9gag.com/gag/aGy1rn5)
- - 👉 [Poor Ahmed](http://9gag.com/gag/a9yrZv0)<!-- MEMES:END -->
+ - 💣 [Your wife is a model pov](http://9gag.com/gag/ae9bW9q)
+ - ⏩ [Equal payment](http://9gag.com/gag/ayNDZMV)
+ - 👉 [That escalated quickly](http://9gag.com/gag/awynvNQ)<!-- MEMES:END -->
 
 ---
 
