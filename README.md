@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [15 Years Ago, Batman: Arkham Asylum Changed Superhero Games Forever](https://kotaku.com/batman-arkham-asylum-city-knight-anniversary-15-sale-1851631469)
- - [Must-Have Gaming Gear To Level Up The School Year Like A Pro](https://kotaku.com/must-have-gaming-gear-to-level-up-the-school-year-like-1851615859)
- - [How To Complete Fortnite&#39;s Chapter 5, Season 4, Week 1 Quests](https://kotaku.com/fortnite-battle-pass-chapter-5-season-4-week-1-guide-1851631339)<!-- GAME:END -->
+ - [Dragon Age: The Veilguard drops a 10-minute combat deep dive video, and it might just have sold me on giving BioWare&#39;s latest RPG a whirl](https://www.pcgamer.com/games/rpg/dragon-age-the-veilguard-drops-a-10-minute-combat-deep-dive-video-and-it-might-just-have-sold-me-on-giving-biowares-latest-rpg-a-whirl)
+ - [D&amp;#038;D team backtracks over proposed digital-tool changes after fan outcry](https://www.polygon.com/dnd-dungeons-dragons/444017/dnd-beyond-homebrew-changes-canceled-fan-outcry)
+ - [How To Complete Fortnite&#39;s Latest Doctor Doom-Themed Quest](https://kotaku.com/fortnite-are-we-doomed-quest-guide-1851631512)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
