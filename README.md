@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [My fellow asian 9gaggers](http://9gag.com/gag/aXPqQYv)
- - ⏩ [Upcoming Concord DLC](http://9gag.com/gag/adB7Wg9)
- - 👉 [Orange Man BAD!](http://9gag.com/gag/axyVAX1)<!-- MEMES:END -->
+ - 💣 [The good old days](http://9gag.com/gag/aYQxn9V)
+ - ⏩ [Didn&#39;t knew it could be used like that](http://9gag.com/gag/a2vrxxE)
+ - 👉 [Dog eats cicada](http://9gag.com/gag/a5Qbxng)<!-- MEMES:END -->
 
 ---
 
