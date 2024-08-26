@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Star Wars Outlaws proves you can still be Star Wars without the Jedi](https://www.polygon.com/star-wars/443727/star-wars-outlaws-proves-you-can-still-be-star-wars-without-the-jedi)
- - [Valve developer shares video of an even earlier version of Deadlock, in which the player battles Half-Life 2 enemies with Left 4 Dead weapons](https://www.pcgamer.com/games/moba/valve-developer-shares-video-of-an-even-earlier-version-of-deadlock-in-which-the-player-battles-half-life-2-enemies-with-left4dead-weapons)
- - [Gloomwood, aka Thief with guns, is getting cutscenes &#39;done in an early 1900s animated horror style&#39; to introduce major areas and encounters](https://www.pcgamer.com/games/fps/gloomwood-aka-thief-with-guns-is-getting-cutscenes-done-in-an-early-1900s-animated-horror-style-to-introduce-major-areas-and-encounters)<!-- GAME:END -->
+ - [Strange Darling’s creators want you to disagree about what happens in the movie](https://www.polygon.com/horror/443406/strange-darling-ending-explained-discussion-creator-interview)
+ - [Star Wars Outlaws review](https://www.pcgamer.com/games/action/star-wars-outlaws-review)
+ - [Star Wars Outlaws performance analysis: Ray traced galaxies far, far away really, really demand upscaling and frame generation](https://www.pcgamer.com/hardware/star-wars-outlaws-performance-analysis-ray-traced-galaxies-far-far-away-really-really-demand-upscaling-and-frame-generation)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
