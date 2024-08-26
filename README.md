@@ -46,7 +46,7 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Spoiler: it isn\u2019t real](http://9gag.com/gag/aMV80rx)
+ - 💣 [One of Reason Diversity not selling in asia](http://9gag.com/gag/a9yreR1)
  - ⏩ [That escalated so quickly](http://9gag.com/gag/aKGVy1b)
  - 👉 [Stopping at a train crossing](http://9gag.com/gag/aoy1AAg)<!-- MEMES:END -->
 
