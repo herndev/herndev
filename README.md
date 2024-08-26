@@ -32,8 +32,8 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Gloomwood, aka Thief with guns, is getting cutscenes &#39;done in an early 1900s animated horror style&#39; to introduce major areas and encounters](https://www.pcgamer.com/games/fps/gloomwood-aka-thief-with-guns-is-getting-cutscenes-done-in-an-early-1900s-animated-horror-style-to-introduce-major-areas-and-encounters)
  - [Civilization 7 is making bold changes to a familiar formula](https://www.polygon.com/gamescom/443918/civilization-7-hands-on-preview)
- - [Metal Gear Solid Delta: Snake Eater – hands-on report](https://blog.playstation.com/2024/08/26/metal-gear-solid-delta-snake-eater-hands-on-report/)
  - [Metal Gear Solid Delta: Snake Eater – hands-on report](https://blog.playstation.com/2024/08/26/metal-gear-solid-delta-snake-eater-hands-on-report/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
