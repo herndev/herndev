@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung Portrait Studio vs Google Pixel Studio: What’s the difference?](https://www.androidauthority.com/samsung-portrait-studio-vs-google-pixel-studio-3473750/)
- - [Nest Smart Learning Thermostat, Sonos app issues, &amp; Wi-Fi issues on HomeKit Insider](https://appleinsider.com/articles/24/08/26/nest-smart-learning-thermostat-sonos-app-issues-wi-fi-issues-on-homekit-insider?utm_medium=rss)
- - [French agency OFMIN, established in 2023 to prevent violence against minors, issued the arrest warrant for Pavel Durov, who is a citizen of France and the UAE &lpar;Gaspard Sebag/Bloomberg&rpar;](http://www.techmeme.com/240826/p14#a240826p14)<!-- TECH:END -->
+ - [Our two very favorite headphones are heavily discounted right now](https://www.androidauthority.com/apple-airpods-max-sony-wh-1000mx5-deals-3475183/)
+ - [Your button-less phone dream might become a reality next year](https://www.androidauthority.com/xiaomi-button-less-phone-3475199/)
+ - [A year later, Lenovo’s Legion Go is getting its own official dock and controller wedge](https://www.theverge.com/2024/8/26/24227098/lenovo-legion-go-dock-carry-case-joystick-connector)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
