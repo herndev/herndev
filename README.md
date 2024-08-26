@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Now the silver and gold medals are also looking terrible after 2 weeks...](http://9gag.com/gag/aByWbAZ)
- - ⏩ [Bro finally got his latina](http://9gag.com/gag/ayNDr5b)
- - 👉 [All those millions of claims for not even 700 concurrent players. Hilarious](http://9gag.com/gag/aZZmVop)<!-- MEMES:END -->
+ - 💣 [Wtf am I doing with my time now?](http://9gag.com/gag/an7b3Vz)
+ - ⏩ [That escalated so quickly](http://9gag.com/gag/aKGVy1b)
+ - 👉 [TroIIing them](http://9gag.com/gag/a6Zb49N)<!-- MEMES:END -->
 
 ---
 
