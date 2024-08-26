@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Gloomwood, aka Thief with guns, is getting cutscenes &#39;done in an early 1900s animated horror style&#39; to introduce major areas and encounters](https://www.pcgamer.com/games/fps/gloomwood-aka-thief-with-guns-is-getting-cutscenes-done-in-an-early-1900s-animated-horror-style-to-introduce-major-areas-and-encounters)
- - [Civilization 7 is making bold changes to a familiar formula](https://www.polygon.com/gamescom/443918/civilization-7-hands-on-preview)
- - [Metal Gear Solid Delta: Snake Eater – hands-on report](https://blog.playstation.com/2024/08/26/metal-gear-solid-delta-snake-eater-hands-on-report/)<!-- GAME:END -->
+ - [Star Wars Outlaws proves you can still be Star Wars without the Jedi](https://www.polygon.com/star-wars/443727/star-wars-outlaws-proves-you-can-still-be-star-wars-without-the-jedi)
+ - [Valve developer shares video of an even earlier version of Deadlock, in which the player battles Half-Life 2 enemies with Left 4 Dead weapons](https://www.pcgamer.com/games/moba/valve-developer-shares-video-of-an-even-earlier-version-of-deadlock-in-which-the-player-battles-half-life-2-enemies-with-left4dead-weapons)
+ - [Gloomwood, aka Thief with guns, is getting cutscenes &#39;done in an early 1900s animated horror style&#39; to introduce major areas and encounters](https://www.pcgamer.com/games/fps/gloomwood-aka-thief-with-guns-is-getting-cutscenes-done-in-an-early-1900s-animated-horror-style-to-introduce-major-areas-and-encounters)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
