@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Andrew Ng steps down as CEO of LandingAI, the computer vision startup he founded in 2017, and transitions to executive chairman; ex-COO Dan Maloney is named CEO &lpar;Devin Coldewey/TechCrunch&rpar;](http://www.techmeme.com/240823/p18#a240823p18)
- - [Google gives Android a speed boost after memory management upgrade](https://www.androidauthority.com/android-gains-16kb-page-support-3474807/)
- - [Visible offers T-Mobile customers $15/mo plan, locks price for five years](https://www.androidauthority.com/visible-15-month-unlimited-t-mobile-transfer-3474822/)<!-- TECH:END -->
+ - [Formula 1’s new gyro camera adds a Dutch angle to the Dutch Grand Prix](https://www.theverge.com/2024/8/25/24228247/formula-1-f1-gyro-camera-dutch-grand-prix-zandvoort)
+ - [A look at Telegram&#39;s claims that it&#39;s a &quot;secure messenger&quot; despite lacking default end-to-end encrypted messages and any E2E encrypted option for group chats &lpar;Matthew Green/A Few Thoughts ...&rpar;](http://www.techmeme.com/240825/p7#a240825p7)
+ - [Best Internet Providers in New Orleans, Louisiana](https://www.cnet.com/home/internet/best-internet-providers-in-new-orleans-la/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
