@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Low iPad mini stock could hint at impending upgrade with Apple Intelligence](https://appleinsider.com/articles/24/08/26/low-ipad-mini-stock-could-hint-at-impending-upgrade-with-apple-intelligence?utm_medium=rss)
- - [Sources: Amazon aggregators Branded and Heyday plan to merge; Branded would acquire Heyday in exchange for $521M in equity in a new company to be named Essor &lpar;Spencer Soper/Bloomberg&rpar;](http://www.techmeme.com/240826/p26#a240826p26)
- - [WhatsApp is working on its best Snapchat impression with new AR filters](https://www.androidauthority.com/whatsapp-ar-filters-3475448/)<!-- TECH:END -->
+ - [In a letter to US Rep. Jim Jordan, Mark Zuckerberg says he regrets Meta wasn&#39;t more outspoken about the Biden admin&#39;s pressure to restrict some COVID-19 content &lpar;Siobhan Hughes/Wall Street Journal&rpar;](http://www.techmeme.com/240826/p29#a240826p29)
+ - [Sources: Google aims to slash what it spends on deals with some Australian outlets under the News Media Bargaining Code, after Meta said it wouldn&#39;t renew deals &lpar;Sam Buckingham-Jones/Australian ...&rpar;](http://www.techmeme.com/240826/p28#a240826p28)
+ - [Elon Musk says that &quot;all things considered&quot;, California &quot;should probably&quot; pass the AI safety bill &lpar;Elon Musk/@elonmusk&rpar;](http://www.techmeme.com/240826/p27#a240826p27)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
