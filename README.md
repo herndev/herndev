@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Look at this fantastic innovative gameplay](http://9gag.com/gag/a34qrb3)
- - ⏩ [Pay it forward guys](http://9gag.com/gag/agmLwyn)
- - 👉 [Father and son invented a sandbag that has no sand](http://9gag.com/gag/aMV85mx)<!-- MEMES:END -->
+ - 💣 [A historian&#39;s take on Europe](http://9gag.com/gag/avyGqvE)
+ - ⏩ [Yesrs ago a friend told me does not watch the news, I thought he was wrong...](http://9gag.com/gag/avyGw1M)
+ - 👉 [Peace&#39;nt](http://9gag.com/gag/ayNDKLp)<!-- MEMES:END -->
 
 ---
 
