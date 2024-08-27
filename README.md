@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The year is 3955...](http://9gag.com/gag/abApDnb)
- - ⏩ [Two legends meet!](http://9gag.com/gag/aByWe2Z)
- - 👉 [A historian&#39;s take on Europe](http://9gag.com/gag/avyGqvE)<!-- MEMES:END -->
+ - 💣 [Look at this fantastic innovative gameplay](http://9gag.com/gag/a34qrb3)
+ - ⏩ [Pay it forward guys](http://9gag.com/gag/agmLwyn)
+ - 👉 [Father and son invented a sandbag that has no sand](http://9gag.com/gag/aMV85mx)<!-- MEMES:END -->
 
 ---
 
