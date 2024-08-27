@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle answer for Tuesday, August 27](https://www.pcgamer.com/games/puzzle/wordle-answer-today-august-27-2024)
  - [Star Wars Outlaws release time and release date](https://www.pcgamer.com/games/action/star-wars-outlaws-release-time-date)
- - [The Olympics may be over, but I&#39;m still going for 40-year-old gold in the first licensed Olympic games](https://www.pcgamer.com/games/sports/the-olympics-may-be-over-but-im-still-going-for-40-year-old-gold-in-the-first-licensed-olympic-games)
- - [&#39;A violation is upon you&#39;: Valve called out for breaking its own rules with Deadlock&#39;s Steam store page](https://www.pcgamer.com/games/a-violation-is-upon-you-valve-called-out-for-breaking-its-own-rules-with-deadlocks-steam-store-page)<!-- GAME:END -->
+ - [The Olympics may be over, but I&#39;m still going for 40-year-old gold in the first licensed Olympic games](https://www.pcgamer.com/games/sports/the-olympics-may-be-over-but-im-still-going-for-40-year-old-gold-in-the-first-licensed-olympic-games)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
