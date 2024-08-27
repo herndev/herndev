@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Challenge accepted!](http://9gag.com/gag/ajPXw68)
- - ⏩ [Look at this fantastic innovative gameplay](http://9gag.com/gag/a34qrb3)
- - 👉 [He is an absolute legend \ud83d\udd25](http://9gag.com/gag/aoy17qw)<!-- MEMES:END -->
+ - 💣 [Two days of seeing things](http://9gag.com/gag/azx83Vm)
+ - ⏩ [Bro learned something that day](http://9gag.com/gag/agmLeQK)
+ - 👉 [Feminism is cancer](http://9gag.com/gag/aByWenN)<!-- MEMES:END -->
 
 ---
 
