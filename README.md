@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Apple MacBook Air M1 is only $649, and it’s still an amazing computer](https://www.androidauthority.com/apple-macbook-air-m1-deal-2-3475765/)
- - [China Conquers Mexico’s Automotive Market, and the US Is Worried](https://www.wired.com/story/china-conquers-mexican-automotive-market-and-the-us-is-worried/)
- - [Darkest Dungeon II brings its turn-based roadtrip to macOS](https://appleinsider.com/articles/24/08/27/darkest-dungeon-ii-brings-its-turn-based-roadtrip-to-macos?utm_medium=rss)<!-- TECH:END -->
+ - [The Apple Watch Ultra 2 is $100 off ahead of Apple’s next hardware event](https://www.theverge.com/2024/8/27/24229199/apple-watch-ultra-2-super-mario-rpg-remake-deal-sale)
+ - [Google Meet’s automatic AI note-taking is here](https://www.theverge.com/2024/8/27/24229843/google-meets-automatic-ai-note-taking-launch)
+ - [Self-driving truck company TuSimple, which delisted from Nasdaq in January, reaches a $189M settlement of a suit alleging fraud by overstating safety and more &lpar;Jonathan Stempel/Reuters&rpar;](http://www.techmeme.com/240827/p24#a240827p24)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
