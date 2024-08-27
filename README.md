@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Everything announced at Nintendo Direct August 2024](https://www.polygon.com/nintendo/444438/nintendo-direct-august-2024-everything-announced)
- - [How to open the Kaja Cola machine in WoW: The War Within](https://www.pcgamer.com/games/mmo/world-of-warcraft/wow-kaja-cola-machine-solution)
- - [Final Fantasy 14&#39;s Yoshi-P says &#39;if the question is whether I was shocked&#39; by the mixed reception to Dawntrail&#39;s story, &#39;the answer is no, not really&#39;](https://www.pcgamer.com/games/final-fantasy/final-fantasy-14-s-yoshi-p-says-if-the-question-is-whether-i-was-shocked-by-the-mixed-reception-to-dawntrail-s-story-the-answer-is-no-not-really)<!-- GAME:END -->
+ - [The Acolyte season 1 was a mess — but I’m still mad it got canceled](https://www.polygon.com/opinion/444261/star-wars-acolyte-season-2-canceled)
+ - [Fortnite Crew Pack and skin for September 2024](https://www.polygon.com/fortnite-guide/23941614/fortnite-crew-pack-skin)
+ - [Here is every game launching on Nintendo Switch right after the Direct](https://www.polygon.com/nintendo/444493/every-game-launching-switch-direct-download)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
