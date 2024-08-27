@@ -48,7 +48,7 @@
 <!-- MEMES:START -->
  - 💣 [Bok](http://9gag.com/gag/a6ZbezL)
  - ⏩ [One of Reason Diversity not selling in asia](http://9gag.com/gag/a9yreR1)
- - 👉 [Agent Smith was right, wtf happened after 1999?](http://9gag.com/gag/adB7wjZ)<!-- MEMES:END -->
+ - 👉 [Freedom and democracy](http://9gag.com/gag/agmLb3K)<!-- MEMES:END -->
 
 ---
 
