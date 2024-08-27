@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Five Reasons Why You &lpar;Yes, You Xbox Fans&rpar; Should Start Playing World of Warcraft](https://news.xbox.com/en-us/2024/08/27/five-reasons-why-start-playing-world-of-warcraft/)
- - [Deadpool &amp; Wolverine May Not Be The Last Time We See Channing Tatum&#39;s Gambit](https://kotaku.com/deadpool-wolverine-gambit-mcu-deleted-scene-tatum-1851633090)
- - [D&amp;#038;D will split a new Forgotten Realms release across two books](https://www.polygon.com/dnd-dungeons-dragons/444702/dd-will-split-a-new-forgotten-realms-release-across-two-books)<!-- GAME:END -->
+ - [Castlevania’s Dracula and Trevor Belmont Come to Dead by Daylight](https://news.xbox.com/en-us/2024/08/27/castlevanias-dracula-and-trevor-belmont-come-to-dead-by-daylight/)
+ - [Deadlock&#39;s occult New York setting already has such excellent vibes that I might become a MOBA guy just to see where Valve takes it](https://www.pcgamer.com/games/moba/deadlocks-occult-new-york-setting-already-has-such-excellent-vibes-that-i-might-become-a-moba-guy-just-to-see-where-valve-takes-it)
+ - [Metal Gear Solid 3&#39;s Famous Salute Is Now A $430 Statue](https://kotaku.com/mgs3-delta-snake-eater-remake-statute-boss-salute-price-1851633084)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
