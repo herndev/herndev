@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [PSA: Some Pixel AI features may not work if you unlock your device’s bootloader](https://www.androidauthority.com/pixel-ai-features-unavailable-bootloader-unlocked-3475527/)
- - [Apple really wants all your money in September with newly rumored iPad launch](https://www.androidauthority.com/new-ipads-upcoming-apple-event-3475535/)
- - [It seems the Sony PS5 Pro may be just around the corner](https://www.androidauthority.com/sony-ps5-pro-release-3475564/)<!-- TECH:END -->
+ - [Samsung is extending its seven year update commitment beyond mobile devices](https://www.androidauthority.com/samsung-tizen-seven-years-3475592/)
+ - [Google’s Pixel 9 Pro XL likely needs a specific charger for its 37W fast charging](https://www.androidauthority.com/pixel-9-pro-xl-charging-voltage-requirement-3475557/)
+ - [Klarna reports H1 2024 revenue up 27% YoY to ~$1.3B, a ~$66M adjusted profit, up from a ~$44M loss in H1 2023, and says AI does the job of 700 employees &lpar;Aisha S Gani/Bloomberg&rpar;](http://www.techmeme.com/240827/p10#a240827p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
