@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Behold Shadow The Hedgehog In The First Sonic 3 Trailer](https://kotaku.com/sonic-hedgehog-3-first-trailer-keanu-reeves-shadow-1851632082)
- - [Fields of Mistria is pure magic](https://www.polygon.com/review/444036/fields-of-mistria-review-pc-early-access)
- - [Visions Of Mana: The Kotaku Review](https://kotaku.com/visions-of-mana-review-square-enix-1851632322)<!-- GAME:END -->
+ - [The most anticipated TV shows of fall 2024](https://www.polygon.com/tv/439924/best-new-tv-fall-2024-release-calendar-schedule-shows-series)
+ - [Where to watch Tuesday’s D&amp;#038;D Direct presentation](https://www.polygon.com/dnd-dungeons-dragons/444183/dnd-direct-livestream-where-to-watch)
+ - [Go Battle League ‘Max Out’ rewards and schedule in Pokémon Go](https://www.polygon.com/pokemon-go-guide/444432/go-battle-league-max-out-season-20-rewards-schedule)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
