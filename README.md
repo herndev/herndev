@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung’s new AI smart TVs are getting seven years of OS updates](https://www.theverge.com/2024/8/27/24229429/samsung-ai-smart-tvs-tizen-os-seven-years-updates)
- - [China&#39;s curbs on shipments of germanium and gallium, which are used to make chips, have led to an almost 2x increase in prices in Europe over the past year &lpar;Financial Times&rpar;](http://www.techmeme.com/240827/p5#a240827p5)
- - [A profile of Pavel Durov, a devout techno-optimist who trolled authorities online, started social network VKontakte in 2006, and left Russia in 2014 for Dubai &lpar;New York Times&rpar;](http://www.techmeme.com/240827/p4#a240827p4)<!-- TECH:END -->
+ - [PSA: Some Pixel AI features may not work if you unlock your device’s bootloader](https://www.androidauthority.com/pixel-ai-features-unavailable-bootloader-unlocked-3475527/)
+ - [Apple really wants all your money in September with newly rumored iPad launch](https://www.androidauthority.com/new-ipads-upcoming-apple-event-3475535/)
+ - [It seems the Sony PS5 Pro may be just around the corner](https://www.androidauthority.com/sony-ps5-pro-release-3475564/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
