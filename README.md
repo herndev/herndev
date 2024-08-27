@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Go Battle League ‘Max Out’ rewards and schedule in Pokémon Go](https://www.polygon.com/pokemon-go-guide/444422/go-battle-league-max-out-rewards-and-schedule-in-pokemon-go)
- - [If you&#39;re gaming with a Zen 5 system, you&#39;ll bag some major performance gains from the upcoming Windows 11 24H2 update](https://www.pcgamer.com/hardware/processors/if-youre-gaming-with-a-zen-5-system-youll-bag-some-major-performance-gains-from-the-upcoming-windows-11-24h2-update)
- - [How to get into Gorak’s suite in Star Wars Outlaws](https://www.polygon.com/star-wars-outlaws-guides/442950/gorak-suite-how-to-enter)<!-- GAME:END -->
+ - [Call of Duty: Black Ops 6 system requirements have been revealed and you won&#39;t need a rig upgrade if you can run &lpar;all of&rpar; last year&#39;s COD](https://www.pcgamer.com/hardware/call-of-duty-black-ops-6-system-requirements-have-been-revealed-and-you-wont-need-a-rig-upgrade-if-you-can-run-all-of-last-years-cod)
+ - [World of Warcraft: The War Within is out—kicking off with banger zones, stupendous side quests, and early access gripes](https://www.pcgamer.com/games/world-of-warcraft/world-of-warcraft-the-war-within-is-out-kicking-off-with-banger-zones-stupendous-side-quests-and-early-access-gripes)
+ - [If you&#39;re gaming with a Zen 5 system, you&#39;ll bag some major performance gains from the upcoming Windows 11 24H2 update](https://www.pcgamer.com/hardware/processors/if-youre-gaming-with-a-zen-5-system-youll-bag-some-major-performance-gains-from-the-upcoming-windows-11-24h2-update)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
