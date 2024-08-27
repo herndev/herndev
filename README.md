@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Retro gold rush: which emulators are on the App Store, and what&#39;s coming](https://appleinsider.com/articles/24/04/26/retro-gold-rush-these-emulators-are-coming-to-the-app-store-soon?utm_medium=rss)
- - [Promising Drug for Mpox Fails in Trials as Virus Spreads in Africa](https://www.wired.com/story/a-promising-drug-for-mpox-just-failed-in-trials/)
- - [Web3 esports startup Gameplay Galaxy, focused on developing upcoming game Trial Xtreme Freedom, raised a $24M seed co-led by Blockchain Capital and Merit Circle &lpar;Rachel Kaser/VentureBeat&rpar;](http://www.techmeme.com/240827/p23#a240827p23)<!-- TECH:END -->
+ - [The Apple MacBook Air M1 is only $649, and it’s still an amazing computer](https://www.androidauthority.com/apple-macbook-air-m1-deal-2-3475765/)
+ - [China Conquers Mexico’s Automotive Market, and the US Is Worried](https://www.wired.com/story/china-conquers-mexican-automotive-market-and-the-us-is-worried/)
+ - [Darkest Dungeon II brings its turn-based roadtrip to macOS](https://appleinsider.com/articles/24/08/27/darkest-dungeon-ii-brings-its-turn-based-roadtrip-to-macos?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
