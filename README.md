@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [A few seconds later and...](http://9gag.com/gag/aO8zn52)
- - ⏩ [All those millions of claims for not even 700 concurrent players. Hilarious](http://9gag.com/gag/aZZmVop)
- - 👉 [That&#39;s crazy honestly..](http://9gag.com/gag/aYQxnDx)<!-- MEMES:END -->
+ - 💣 [Philippines have had it with their BS. If only the West understood how to handle business...](http://9gag.com/gag/ae9bwYO)
+ - ⏩ [Eeeee](http://9gag.com/gag/aByWzOZ)
+ - 👉 [Smooth criminal](http://9gag.com/gag/a7orPom)<!-- MEMES:END -->
 
 ---
 
