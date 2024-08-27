@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I bet the plane had all the phelanges intact](http://9gag.com/gag/awyn2GW)
- - ⏩ [That f**king boulder!](http://9gag.com/gag/aPABLmV)
- - 👉 [Stopping at a train crossing](http://9gag.com/gag/aoy1AAg)<!-- MEMES:END -->
+ - 💣 [Freedom and democracy](http://9gag.com/gag/agmLb3K)
+ - ⏩ [Agent Smith was right, wtf happened after 1999?](http://9gag.com/gag/adB7wjZ)
+ - 👉 [Britain 2024](http://9gag.com/gag/a5QbAXq)<!-- MEMES:END -->
 
 ---
 
