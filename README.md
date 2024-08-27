@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Coming soon to Europe](http://9gag.com/gag/aPABz7G)
- - ⏩ [That escalated so quickly](http://9gag.com/gag/aKGVy1b)
- - 👉 [Father and son invented a sandbag that has no sand](http://9gag.com/gag/aMV85mx)<!-- MEMES:END -->
+ - 💣 [I bet the plane had all the phelanges intact](http://9gag.com/gag/awyn2GW)
+ - ⏩ [That f**king boulder!](http://9gag.com/gag/aPABLmV)
+ - 👉 [Stopping at a train crossing](http://9gag.com/gag/aoy1AAg)<!-- MEMES:END -->
 
 ---
 
