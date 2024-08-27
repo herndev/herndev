@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google now offers a better, faster way to reply in Gmail](https://www.androidauthority.com/gmail-small-reply-window-3475091/)
  - [Release notes for the Android 14 downgrade OTA confirm Google delays Android 15 roll out to Pixel devices from September to October, possibly around 15th &lpar;Mishaal Rahman/Android Authority&rpar;](http://www.techmeme.com/240827/p1#a240827p1)
- - [Google just confirmed when Pixel’s Android 15 update will roll out](https://www.androidauthority.com/pixel-android-15-update-release-3475495/)
- - [Satechi 4-in-1 USB-C Hub review: Data transfer galore](https://appleinsider.com/articles/24/08/27/satechi-4-in-1-usb-c-hub-review-data-transfer-galore?utm_medium=rss)<!-- TECH:END -->
+ - [Google just confirmed when Pixel’s Android 15 update will roll out](https://www.androidauthority.com/pixel-android-15-update-release-3475495/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
