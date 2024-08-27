@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Deal: This Belkin MagSafe 3-in-1 Wireless Charging Stand is $52 off](https://www.androidauthority.com/belkin-magsafe-3-in-1-wireless-charging-stand-deal-3475763/)
- - [A Look Inside the Airbus Factory Revolutionizing the World of Airplanes](https://www.wired.com/story/heres-what-the-inside-of-an-airbus-factory-looks-like/)
- - [The new BOOX Go 6 is basically a Kindle that runs Android apps](https://www.androidauthority.com/boox-go-6-3475777/)<!-- TECH:END -->
+ - [Pixel 9 Pro XL teardown shows what Google’s learned about reparability — and what still needs work](https://www.androidauthority.com/pixel-9-pro-xl-teardown-3475825/)
+ - [MakerDAO rebrands as Sky and debuts a new USDS stablecoin, but the token draws backlash after users noticed it allows the issuer to remotely freeze the asset &lpar;Krisztian Sandor/CoinDesk&rpar;](http://www.techmeme.com/240827/p28#a240827p28)
+ - [Telegram’s CEO has taken a hands-off approach for years — now his luck might have run out](https://www.theverge.com/2024/8/27/24229935/telegram-pavel-durov-france-arrest-moderation-crime)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
