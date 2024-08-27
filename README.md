@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google now offers a better, faster way to reply in Gmail](https://www.androidauthority.com/gmail-small-reply-window-3475091/)
- - [Release notes for the Android 14 downgrade OTA confirm Google delays Android 15 roll out to Pixel devices from September to October, possibly around 15th &lpar;Mishaal Rahman/Android Authority&rpar;](http://www.techmeme.com/240827/p1#a240827p1)
- - [Google just confirmed when Pixel’s Android 15 update will roll out](https://www.androidauthority.com/pixel-android-15-update-release-3475495/)<!-- TECH:END -->
+ - [Google Meet enhances picture-in-picture mode with this key change](https://www.androidauthority.com/google-meet-enhances-picture-in-picture-3475509/)
+ - [A look at &quot;Terrorgram&quot;, a network of far-right Telegram channels posting info on power grid attacks, which the North American Reliability Corp. says have spiked &lpar;Jeff Stone/Bloomberg&rpar;](http://www.techmeme.com/240827/p2#a240827p2)
+ - [Leak: Xiaomi’s new custom phone chipset could match 2022’s best silicon](https://www.androidauthority.com/xiaomi-phone-chip-leak-details-3475512/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
