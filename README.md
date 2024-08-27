@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [There are no Portuguese, children and women. The situation in Lisbon is dramatic](http://9gag.com/gag/aqybOAP)
- - ⏩ [That escalated so quickly](http://9gag.com/gag/aKGVy1b)
- - 👉 [Justice can be blinding good!](http://9gag.com/gag/aNDAGbb)<!-- MEMES:END -->
+ - 💣 [Challenge accepted!](http://9gag.com/gag/ajPXw68)
+ - ⏩ [Look at this fantastic innovative gameplay](http://9gag.com/gag/a34qrb3)
+ - 👉 [He is an absolute legend \ud83d\udd25](http://9gag.com/gag/aoy17qw)<!-- MEMES:END -->
 
 ---
 
