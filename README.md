@@ -41,7 +41,7 @@
 <!-- TECH:START -->
  - [Google Meet enhances picture-in-picture mode with this key change](https://www.androidauthority.com/google-meet-enhances-picture-in-picture-3475509/)
  - [A look at &quot;Terrorgram&quot;, a network of far-right Telegram channels posting info on power grid attacks, which the North American Reliability Corp. says have spiked &lpar;Jeff Stone/Bloomberg&rpar;](http://www.techmeme.com/240827/p2#a240827p2)
- - [Leak: Xiaomi’s new custom phone chipset could match 2022’s best silicon](https://www.androidauthority.com/xiaomi-phone-chip-leak-details-3475512/)<!-- TECH:END -->
+ - [Best Internet Providers in Ontario, California](https://www.cnet.com/home/internet/best-internet-providers-in-ontario-ca/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
