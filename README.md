@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Windows PCs now play nicer with the PS5 controller](https://www.androidauthority.com/dualsense-app-windows-customization-support-3475597/)
- - [44 Best Cheap Gear Under $30 &lpar;2024&rpar;: Phone Cases, Bags, and More](https://www.wired.com/gallery/our-favorite-gear-under-30-dollars/)
- - [How VPNs protect you from governments, thieves, and your boss](https://appleinsider.com/inside/iphone/tips/how-vpns-protect-you-from-governments-thieves-and-your-boss?utm_medium=rss)<!-- TECH:END -->
+ - [Nest Learning Thermostat 4th-Gen review: Finally works for Apple Home users](https://appleinsider.com/articles/24/08/27/nest-learning-thermostat-4th-gen-review-finally-works-for-apple-home-users?utm_medium=rss)
+ - [Can a YouTube video really fix your wet phone?](https://www.theverge.com/2024/8/27/24228925/remove-water-phone-youtube-vergecast)
+ - [Android 15 features: Everything you need to know about confirmed and leaked features](https://www.androidauthority.com/android-15-features-3401939/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
