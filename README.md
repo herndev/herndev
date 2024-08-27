@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung is extending its seven year update commitment beyond mobile devices](https://www.androidauthority.com/samsung-tizen-seven-years-3475592/)
- - [Google’s Pixel 9 Pro XL likely needs a specific charger for its 37W fast charging](https://www.androidauthority.com/pixel-9-pro-xl-charging-voltage-requirement-3475557/)
- - [Klarna reports H1 2024 revenue up 27% YoY to ~$1.3B, a ~$66M adjusted profit, up from a ~$44M loss in H1 2023, and says AI does the job of 700 employees &lpar;Aisha S Gani/Bloomberg&rpar;](http://www.techmeme.com/240827/p10#a240827p10)<!-- TECH:END -->
+ - [Windows PCs now play nicer with the PS5 controller](https://www.androidauthority.com/dualsense-app-windows-customization-support-3475597/)
+ - [44 Best Cheap Gear Under $30 &lpar;2024&rpar;: Phone Cases, Bags, and More](https://www.wired.com/gallery/our-favorite-gear-under-30-dollars/)
+ - [How VPNs protect you from governments, thieves, and your boss](https://appleinsider.com/inside/iphone/tips/how-vpns-protect-you-from-governments-thieves-and-your-boss?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
