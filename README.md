@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Father and son invented a sandbag that has no sand](http://9gag.com/gag/aMV85mx)
- - ⏩ [Deep](http://9gag.com/gag/aVvq4M2)
- - 👉 [Bro finally got his latina](http://9gag.com/gag/ayNDr5b)<!-- MEMES:END -->
+ - 💣 [Deep](http://9gag.com/gag/aVvq4M2)
+ - ⏩ [Smooth criminal](http://9gag.com/gag/a7orPom)
+ - 👉 [Conversation with harley](http://9gag.com/gag/aW4mP2K)<!-- MEMES:END -->
 
 ---
 
