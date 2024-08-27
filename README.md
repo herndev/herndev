@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [There are no Portuguese, children and women. The situation in Lisbon is dramatic](http://9gag.com/gag/aqybOAP)
- - ⏩ [Look at this fantastic innovative gameplay](http://9gag.com/gag/a34qrb3)
- - 👉 [A ride stalled at Six Flags Mexico during a rain storm](http://9gag.com/gag/a0ebgmB)<!-- MEMES:END -->
+ - 💣 [Eeeee](http://9gag.com/gag/aByWzOZ)
+ - ⏩ [The year is 3955...](http://9gag.com/gag/abApDnb)
+ - 👉 [Feminism is cancer](http://9gag.com/gag/aByWenN)<!-- MEMES:END -->
 
 ---
 
