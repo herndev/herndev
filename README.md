@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Meet enhances picture-in-picture mode with this key change](https://www.androidauthority.com/google-meet-enhances-picture-in-picture-3475509/)
- - [A look at &quot;Terrorgram&quot;, a network of far-right Telegram channels posting info on power grid attacks, which the North American Reliability Corp. says have spiked &lpar;Jeff Stone/Bloomberg&rpar;](http://www.techmeme.com/240827/p2#a240827p2)
- - [Best Internet Providers in Ontario, California](https://www.cnet.com/home/internet/best-internet-providers-in-ontario-ca/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Samsung’s new AI smart TVs are getting seven years of OS updates](https://www.theverge.com/2024/8/27/24229429/samsung-ai-smart-tvs-tizen-os-seven-years-updates)
+ - [China&#39;s curbs on shipments of germanium and gallium, which are used to make chips, have led to an almost 2x increase in prices in Europe over the past year &lpar;Financial Times&rpar;](http://www.techmeme.com/240827/p5#a240827p5)
+ - [A profile of Pavel Durov, a devout techno-optimist who trolled authorities online, started social network VKontakte in 2006, and left Russia in 2014 for Dubai &lpar;New York Times&rpar;](http://www.techmeme.com/240827/p4#a240827p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
