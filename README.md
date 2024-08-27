@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Freedom and democracy](http://9gag.com/gag/agmLb3K)
- - ⏩ [Agent Smith was right, wtf happened after 1999?](http://9gag.com/gag/adB7wjZ)
- - 👉 [Britain 2024](http://9gag.com/gag/a5QbAXq)<!-- MEMES:END -->
+ - 💣 [Spoiler: it isn\u2019t real](http://9gag.com/gag/aMV80rx)
+ - ⏩ [Look at this fantastic innovative gameplay](http://9gag.com/gag/a34qrb3)
+ - 👉 [Pay it forward guys](http://9gag.com/gag/agmLwyn)<!-- MEMES:END -->
 
 ---
 
