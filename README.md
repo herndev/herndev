@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Spoiler: it isn\u2019t real](http://9gag.com/gag/aMV80rx)
+ - 💣 [There are no Portuguese, children and women. The situation in Lisbon is dramatic](http://9gag.com/gag/aqybOAP)
  - ⏩ [Look at this fantastic innovative gameplay](http://9gag.com/gag/a34qrb3)
- - 👉 [Pay it forward guys](http://9gag.com/gag/agmLwyn)<!-- MEMES:END -->
+ - 👉 [A ride stalled at Six Flags Mexico during a rain storm](http://9gag.com/gag/a0ebgmB)<!-- MEMES:END -->
 
 ---
 
