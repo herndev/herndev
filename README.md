@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Deep](http://9gag.com/gag/aVvq4M2)
- - ⏩ [Smooth criminal](http://9gag.com/gag/a7orPom)
- - 👉 [Conversation with harley](http://9gag.com/gag/aW4mP2K)<!-- MEMES:END -->
+ - 💣 [Bok](http://9gag.com/gag/a6ZbezL)
+ - ⏩ [One of Reason Diversity not selling in asia](http://9gag.com/gag/a9yreR1)
+ - 👉 [Agent Smith was right, wtf happened after 1999?](http://9gag.com/gag/adB7wjZ)<!-- MEMES:END -->
 
 ---
 
