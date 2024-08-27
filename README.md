@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [In horro movie](http://9gag.com/gag/ajPXvn0)
- - ⏩ [Upvote if you have opened your eyes.](http://9gag.com/gag/ajPXvNp)
- - 👉 [Bok](http://9gag.com/gag/a6ZbezL)<!-- MEMES:END -->
+ - 💣 [A few seconds later and...](http://9gag.com/gag/aO8zn52)
+ - ⏩ [All those millions of claims for not even 700 concurrent players. Hilarious](http://9gag.com/gag/aZZmVop)
+ - 👉 [That&#39;s crazy honestly..](http://9gag.com/gag/aYQxnDx)<!-- MEMES:END -->
 
 ---
 
