@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Two days of seeing things](http://9gag.com/gag/azx83Vm)
- - ⏩ [Bro learned something that day](http://9gag.com/gag/agmLeQK)
- - 👉 [Feminism is cancer](http://9gag.com/gag/aByWenN)<!-- MEMES:END -->
+ - ⏩ [Once you go Muslim, you are never coming back](http://9gag.com/gag/ae9bByW)
+ - 👉 [Payload deployed](http://9gag.com/gag/amoYwEv)<!-- MEMES:END -->
 
 ---
 
