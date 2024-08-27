@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Nearly every essential Castlevania game is now on PC, with one glaring exception](https://www.pcgamer.com/games/action/nearly-every-essential-castlevania-game-is-now-on-pc-with-one-glaring-exception)
- - [Ryan Reynolds’ deleted Deadpool &amp;#038; Wolverine clip suggests a future for its biggest cameo](https://www.polygon.com/movies/444921/deadpool-wolverine-deleted-gambit-scene)
- - [Smite 2 is a full-on sequel because the original is just too old: &#39;There were lots of little janky bits about Smite 1 that we were unable to address&#39;](https://www.pcgamer.com/games/moba/smite-2-is-a-full-on-sequel-because-the-original-is-just-too-old-there-were-lots-of-little-janky-bits-about-smite-1-that-we-were-unable-to-address)<!-- GAME:END -->
+ - [Complete fish list in Fields of Mistria](https://www.polygon.com/fields-of-mistria-guides/444802/complete-fish-list-in-fields-of-mistria)
+ - [One of the best co-op survival games of the past few years just popped up on PC Game Pass](https://www.pcgamer.com/games/survival-crafting/one-of-the-best-co-op-survival-games-of-the-past-few-years-just-popped-up-on-pc-game-pass)
+ - [Space Marine 2&#39;s Roadmap Promises New Maps, Missions, And More](https://kotaku.com/space-marine-2-road-map-free-content-new-missions-modes-1851633332)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
