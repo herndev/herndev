@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [India&#39;s central bank says its CBDC pilot has 5M+ users and as many as 16 banks participating, but it&#39;s not rushing to roll out a full-scale implementation &lpar;Amitoj Singh/CoinDesk&rpar;](http://www.techmeme.com/240826/p30#a240826p30)
  - [In a letter to US Rep. Jim Jordan, Mark Zuckerberg says he regrets Meta wasn&#39;t more outspoken about the Biden admin&#39;s pressure to restrict some COVID-19 content &lpar;Siobhan Hughes/Wall Street Journal&rpar;](http://www.techmeme.com/240826/p29#a240826p29)
- - [Sources: Google aims to slash what it spends on deals with some Australian outlets under the News Media Bargaining Code, after Meta said it wouldn&#39;t renew deals &lpar;Sam Buckingham-Jones/Australian ...&rpar;](http://www.techmeme.com/240826/p28#a240826p28)
- - [Elon Musk says that &quot;all things considered&quot;, California &quot;should probably&quot; pass the AI safety bill &lpar;Elon Musk/@elonmusk&rpar;](http://www.techmeme.com/240826/p27#a240826p27)<!-- TECH:END -->
+ - [&#39;Only Murders in the Building&#39;: Season 4 Release Date and Where to Stream](https://www.cnet.com/tech/services-and-software/only-murders-in-the-building-season-4-release-date-and-where-to-stream/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
