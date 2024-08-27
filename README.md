@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Microsoft softens language about killing off the Control Panel, but it&#39;s still clearly gonna kill off the Control Panel](https://www.pcgamer.com/gaming-industry/microsoft-softens-language-about-killing-off-the-control-panel-but-it-s-still-clearly-gonna-kill-off-the-control-panel)
- - [&#39;This game is going to easily—and I mean easily—take over&#39;: Major streamers, early fans, and esports players share their Deadlock hype after Valve opens the floodgates](https://www.pcgamer.com/games/moba/this-game-is-going-to-easilyand-i-mean-easilytake-over-major-streamers-early-fans-and-esports-players-share-their-deadlock-hype-after-valve-opens-the-floodgates)
- - [Report: Activision Canceled A Crash Bandicoot / Spyro Crossover Game](https://kotaku.com/crash-bandicoot-5-spyro-crossover-cancelled-activision-1851632213)<!-- GAME:END -->
+ - [The Olympics may be over, but I&#39;m still going for 40-year-old gold in the first licensed Olympic games](https://www.pcgamer.com/games/sports/the-olympics-may-be-over-but-im-still-going-for-40-year-old-gold-in-the-first-licensed-olympic-games)
+ - [&#39;A violation is upon you&#39;: Valve called out for breaking its own rules with Deadlock&#39;s Steam store page](https://www.pcgamer.com/games/a-violation-is-upon-you-valve-called-out-for-breaking-its-own-rules-with-deadlocks-steam-store-page)
+ - [Microsoft softens language about killing off the Control Panel, but it&#39;s still clearly gonna kill off the Control Panel](https://www.pcgamer.com/gaming-industry/microsoft-softens-language-about-killing-off-the-control-panel-but-it-s-still-clearly-gonna-kill-off-the-control-panel)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
