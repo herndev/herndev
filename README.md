@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Square Enix&#39;s Failed Shooter Is Going Free-To-Play Later This Year](https://kotaku.com/foamstars-free-to-play-square-enix-october-ps5-ps4-pc-1851632964)
- - [18 Takeaways From The First Sonic The Hedgehog 3 Trailer](https://kotaku.com/sonic-the-hedgehog-3-shadow-gerald-trailer-explained-1851632861)
- - [How To Unlock Ultimate Valby In The First Descendant](https://kotaku.com/the-first-descendant-ultimate-valby-unlock-guide-1851632830)<!-- GAME:END -->
+ - [Five Reasons Why You &lpar;Yes, You Xbox Fans&rpar; Should Start Playing World of Warcraft](https://news.xbox.com/en-us/2024/08/27/five-reasons-why-start-playing-world-of-warcraft/)
+ - [Deadpool &amp; Wolverine May Not Be The Last Time We See Channing Tatum&#39;s Gambit](https://kotaku.com/deadpool-wolverine-gambit-mcu-deleted-scene-tatum-1851633090)
+ - [D&amp;#038;D will split a new Forgotten Realms release across two books](https://www.polygon.com/dnd-dungeons-dragons/444702/dd-will-split-a-new-forgotten-realms-release-across-two-books)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
