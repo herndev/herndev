@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Bok](http://9gag.com/gag/a6ZbezL)
- - ⏩ [One of Reason Diversity not selling in asia](http://9gag.com/gag/a9yreR1)
- - 👉 [Freedom and democracy](http://9gag.com/gag/agmLb3K)<!-- MEMES:END -->
+ - 💣 [Conversation with harley](http://9gag.com/gag/aW4mP2K)
+ - ⏩ [Wtf am I doing with my time now?](http://9gag.com/gag/an7b3Vz)
+ - 👉 [This deserves a debate](http://9gag.com/gag/a4PbBmm)<!-- MEMES:END -->
 
 ---
 
