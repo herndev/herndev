@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Castlevania’s Dracula and Trevor Belmont Come to Dead by Daylight](https://news.xbox.com/en-us/2024/08/27/castlevanias-dracula-and-trevor-belmont-come-to-dead-by-daylight/)
- - [Deadlock&#39;s occult New York setting already has such excellent vibes that I might become a MOBA guy just to see where Valve takes it](https://www.pcgamer.com/games/moba/deadlocks-occult-new-york-setting-already-has-such-excellent-vibes-that-i-might-become-a-moba-guy-just-to-see-where-valve-takes-it)
- - [Metal Gear Solid 3&#39;s Famous Salute Is Now A $430 Statue](https://kotaku.com/mgs3-delta-snake-eater-remake-statute-boss-salute-price-1851633084)<!-- GAME:END -->
+ - [Nearly every essential Castlevania game is now on PC, with one glaring exception](https://www.pcgamer.com/games/action/nearly-every-essential-castlevania-game-is-now-on-pc-with-one-glaring-exception)
+ - [Ryan Reynolds’ deleted Deadpool &amp;#038; Wolverine clip suggests a future for its biggest cameo](https://www.polygon.com/movies/444921/deadpool-wolverine-deleted-gambit-scene)
+ - [Smite 2 is a full-on sequel because the original is just too old: &#39;There were lots of little janky bits about Smite 1 that we were unable to address&#39;](https://www.pcgamer.com/games/moba/smite-2-is-a-full-on-sequel-because-the-original-is-just-too-old-there-were-lots-of-little-janky-bits-about-smite-1-that-we-were-unable-to-address)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
