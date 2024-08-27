@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [A historian&#39;s take on Europe](http://9gag.com/gag/avyGqvE)
- - ⏩ [Yesrs ago a friend told me does not watch the news, I thought he was wrong...](http://9gag.com/gag/avyGw1M)
- - 👉 [Peace&#39;nt](http://9gag.com/gag/ayNDKLp)<!-- MEMES:END -->
+ - 💣 [There are no Portuguese, children and women. The situation in Lisbon is dramatic](http://9gag.com/gag/aqybOAP)
+ - ⏩ [That escalated so quickly](http://9gag.com/gag/aKGVy1b)
+ - 👉 [Justice can be blinding good!](http://9gag.com/gag/aNDAGbb)<!-- MEMES:END -->
 
 ---
 
