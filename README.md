@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Snap rolls out a native Snapchat app for iPad, 13 years after launching on iOS; the app can only run in portrait mode &lpar;Filipe Esp&amp;oacute;sito/9to5Mac&rpar;](http://www.techmeme.com/240827/p15#a240827p15)
- - [AirPods Pro rumored to get better Digital ANC in next update](https://appleinsider.com/articles/24/08/27/airpods-pro-rumored-to-get-better-digital-anc-in-next-update?utm_medium=rss)
- - [Having trouble accessing shared albums in Google Photos? You’re not alone](https://www.androidauthority.com/google-photos-shared-albums-issue-3475643/)<!-- TECH:END -->
+ - [Nothing’s next earbuds may look nothing like previous models](https://www.androidauthority.com/nothing-ear-open-3475649/)
+ - [Sources: ex-Intel board member Lip-Bu Tan, an industry veteran, left over what he considered a bloated workforce, risk-averse culture, and lagging AI strategy &lpar;Max A. Cherney/Reuters&rpar;](http://www.techmeme.com/240827/p19#a240827p19)
+ - [Dyson’s back with a smarter hair curler](https://www.theverge.com/2024/8/27/24229624/dyson-airwrap-id-beauty-tech)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
