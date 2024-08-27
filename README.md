@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Star Wars Outlaws release time and release date](https://www.pcgamer.com/games/action/star-wars-outlaws-release-time-date)
  - [The Olympics may be over, but I&#39;m still going for 40-year-old gold in the first licensed Olympic games](https://www.pcgamer.com/games/sports/the-olympics-may-be-over-but-im-still-going-for-40-year-old-gold-in-the-first-licensed-olympic-games)
- - [&#39;A violation is upon you&#39;: Valve called out for breaking its own rules with Deadlock&#39;s Steam store page](https://www.pcgamer.com/games/a-violation-is-upon-you-valve-called-out-for-breaking-its-own-rules-with-deadlocks-steam-store-page)
- - [Microsoft softens language about killing off the Control Panel, but it&#39;s still clearly gonna kill off the Control Panel](https://www.pcgamer.com/gaming-industry/microsoft-softens-language-about-killing-off-the-control-panel-but-it-s-still-clearly-gonna-kill-off-the-control-panel)<!-- GAME:END -->
+ - [&#39;A violation is upon you&#39;: Valve called out for breaking its own rules with Deadlock&#39;s Steam store page](https://www.pcgamer.com/games/a-violation-is-upon-you-valve-called-out-for-breaking-its-own-rules-with-deadlocks-steam-store-page)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
