@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Not Sure If Troll or Serious.](http://9gag.com/gag/a1mbBww)
- - ⏩ [Big things going in at BIC](http://9gag.com/gag/axyVe6L)
- - 👉 [My fellow asian 9gaggers](http://9gag.com/gag/aXPqQYv)<!-- MEMES:END -->
+ - 💣 [Father and son invented a sandbag that has no sand](http://9gag.com/gag/aMV85mx)
+ - ⏩ [Deep](http://9gag.com/gag/aVvq4M2)
+ - 👉 [Bro finally got his latina](http://9gag.com/gag/ayNDr5b)<!-- MEMES:END -->
 
 ---
 
