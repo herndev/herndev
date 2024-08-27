@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The most anticipated TV shows of fall 2024](https://www.polygon.com/tv/439924/best-new-tv-fall-2024-release-calendar-schedule-shows-series)
- - [Where to watch Tuesday’s D&amp;#038;D Direct presentation](https://www.polygon.com/dnd-dungeons-dragons/444183/dnd-direct-livestream-where-to-watch)
- - [Go Battle League ‘Max Out’ rewards and schedule in Pokémon Go](https://www.polygon.com/pokemon-go-guide/444432/go-battle-league-max-out-season-20-rewards-schedule)<!-- GAME:END -->
+ - [Everything announced at Nintendo Direct August 2024](https://www.polygon.com/nintendo/444438/nintendo-direct-august-2024-everything-announced)
+ - [How to open the Kaja Cola machine in WoW: The War Within](https://www.pcgamer.com/games/mmo/world-of-warcraft/wow-kaja-cola-machine-solution)
+ - [Final Fantasy 14&#39;s Yoshi-P says &#39;if the question is whether I was shocked&#39; by the mixed reception to Dawntrail&#39;s story, &#39;the answer is no, not really&#39;](https://www.pcgamer.com/games/final-fantasy/final-fantasy-14-s-yoshi-p-says-if-the-question-is-whether-i-was-shocked-by-the-mixed-reception-to-dawntrail-s-story-the-answer-is-no-not-really)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
