@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Philippines have had it with their BS. If only the West understood how to handle business...](http://9gag.com/gag/ae9bwYO)
- - ⏩ [Eeeee](http://9gag.com/gag/aByWzOZ)
- - 👉 [Smooth criminal](http://9gag.com/gag/a7orPom)<!-- MEMES:END -->
+ - 💣 [Not Sure If Troll or Serious.](http://9gag.com/gag/a1mbBww)
+ - ⏩ [Big things going in at BIC](http://9gag.com/gag/axyVe6L)
+ - 👉 [My fellow asian 9gaggers](http://9gag.com/gag/aXPqQYv)<!-- MEMES:END -->
 
 ---
 
