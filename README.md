@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Bok](http://9gag.com/gag/a6ZbezL)
- - ⏩ [One of Reason Diversity not selling in asia](http://9gag.com/gag/a9yreR1)
- - 👉 [Freedom and democracy](http://9gag.com/gag/agmLb3K)<!-- MEMES:END -->
+ - 💣 [Coming soon to Europe](http://9gag.com/gag/aPABz7G)
+ - ⏩ [That escalated so quickly](http://9gag.com/gag/aKGVy1b)
+ - 👉 [Father and son invented a sandbag that has no sand](http://9gag.com/gag/aMV85mx)<!-- MEMES:END -->
 
 ---
 
