@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nothing’s next earbuds may look nothing like previous models](https://www.androidauthority.com/nothing-ear-open-3475649/)
- - [Sources: ex-Intel board member Lip-Bu Tan, an industry veteran, left over what he considered a bloated workforce, risk-averse culture, and lagging AI strategy &lpar;Max A. Cherney/Reuters&rpar;](http://www.techmeme.com/240827/p19#a240827p19)
- - [Dyson’s back with a smarter hair curler](https://www.theverge.com/2024/8/27/24229624/dyson-airwrap-id-beauty-tech)<!-- TECH:END -->
+ - [Here’s how Messages will solve the low-quality media problem in RCS chats &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-messages-rcs-media-3475724/)
+ - [Samsung&#39;s ViewFinity S9 5K monitor just received a hefty 48% price cut at Amazon](https://appleinsider.com/articles/24/08/27/samsungs-viewfinity-s9-5k-monitor-just-received-a-hefty-48-price-cut-at-amazon?utm_medium=rss)
+ - [Seattle-based startup Supio, which uses AI to help lawyers analyze documents, raised a $25M Series A led by Sapphire Ventures &lpar;Taylor Soper/GeekWire&rpar;](http://www.techmeme.com/240827/p22#a240827p22)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
