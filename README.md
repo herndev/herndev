@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Low iPad mini stock could hint at impending upgrade with Apple Intelligence](https://appleinsider.com/articles/24/08/26/low-ipad-mini-stock-could-hint-at-impending-upgrade-with-apple-intelligence?utm_medium=rss)
  - [India&#39;s central bank says its CBDC pilot has 5M+ users and as many as 16 banks participating, but it&#39;s not rushing to roll out a full-scale implementation &lpar;Amitoj Singh/CoinDesk&rpar;](http://www.techmeme.com/240826/p30#a240826p30)
- - [In a letter to US Rep. Jim Jordan, Mark Zuckerberg says he regrets Meta wasn&#39;t more outspoken about the Biden admin&#39;s pressure to restrict some COVID-19 content &lpar;Siobhan Hughes/Wall Street Journal&rpar;](http://www.techmeme.com/240826/p29#a240826p29)
- - [&#39;Only Murders in the Building&#39;: Season 4 Release Date and Where to Stream](https://www.cnet.com/tech/services-and-software/only-murders-in-the-building-season-4-release-date-and-where-to-stream/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [In a letter to US Rep. Jim Jordan, Mark Zuckerberg says he regrets Meta wasn&#39;t more outspoken about the Biden admin&#39;s pressure to restrict some COVID-19 content &lpar;Siobhan Hughes/Wall Street Journal&rpar;](http://www.techmeme.com/240826/p29#a240826p29)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
