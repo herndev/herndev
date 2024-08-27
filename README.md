@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Call of Duty: Black Ops 6 system requirements have been revealed and you won&#39;t need a rig upgrade if you can run &lpar;all of&rpar; last year&#39;s COD](https://www.pcgamer.com/hardware/call-of-duty-black-ops-6-system-requirements-have-been-revealed-and-you-wont-need-a-rig-upgrade-if-you-can-run-all-of-last-years-cod)
- - [World of Warcraft: The War Within is out—kicking off with banger zones, stupendous side quests, and early access gripes](https://www.pcgamer.com/games/world-of-warcraft/world-of-warcraft-the-war-within-is-out-kicking-off-with-banger-zones-stupendous-side-quests-and-early-access-gripes)
- - [If you&#39;re gaming with a Zen 5 system, you&#39;ll bag some major performance gains from the upcoming Windows 11 24H2 update](https://www.pcgamer.com/hardware/processors/if-youre-gaming-with-a-zen-5-system-youll-bag-some-major-performance-gains-from-the-upcoming-windows-11-24h2-update)<!-- GAME:END -->
+ - [Behold Shadow The Hedgehog In The First Sonic 3 Trailer](https://kotaku.com/sonic-hedgehog-3-first-trailer-keanu-reeves-shadow-1851632082)
+ - [Fields of Mistria is pure magic](https://www.polygon.com/review/444036/fields-of-mistria-review-pc-early-access)
+ - [Visions Of Mana: The Kotaku Review](https://kotaku.com/visions-of-mana-review-square-enix-1851632322)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
