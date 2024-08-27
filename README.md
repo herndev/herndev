@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Acolyte season 1 was a mess — but I’m still mad it got canceled](https://www.polygon.com/opinion/444261/star-wars-acolyte-season-2-canceled)
- - [Fortnite Crew Pack and skin for September 2024](https://www.polygon.com/fortnite-guide/23941614/fortnite-crew-pack-skin)
- - [Here is every game launching on Nintendo Switch right after the Direct](https://www.polygon.com/nintendo/444493/every-game-launching-switch-direct-download)<!-- GAME:END -->
+ - [Square Enix&#39;s Failed Shooter Is Going Free-To-Play Later This Year](https://kotaku.com/foamstars-free-to-play-square-enix-october-ps5-ps4-pc-1851632964)
+ - [18 Takeaways From The First Sonic The Hedgehog 3 Trailer](https://kotaku.com/sonic-the-hedgehog-3-shadow-gerald-trailer-explained-1851632861)
+ - [How To Unlock Ultimate Valby In The First Descendant](https://kotaku.com/the-first-descendant-ultimate-valby-unlock-guide-1851632830)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
