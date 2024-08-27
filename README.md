@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Here’s how Messages will solve the low-quality media problem in RCS chats &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-messages-rcs-media-3475724/)
- - [Samsung&#39;s ViewFinity S9 5K monitor just received a hefty 48% price cut at Amazon](https://appleinsider.com/articles/24/08/27/samsungs-viewfinity-s9-5k-monitor-just-received-a-hefty-48-price-cut-at-amazon?utm_medium=rss)
- - [Seattle-based startup Supio, which uses AI to help lawyers analyze documents, raised a $25M Series A led by Sapphire Ventures &lpar;Taylor Soper/GeekWire&rpar;](http://www.techmeme.com/240827/p22#a240827p22)<!-- TECH:END -->
+ - [Retro gold rush: which emulators are on the App Store, and what&#39;s coming](https://appleinsider.com/articles/24/04/26/retro-gold-rush-these-emulators-are-coming-to-the-app-store-soon?utm_medium=rss)
+ - [Promising Drug for Mpox Fails in Trials as Virus Spreads in Africa](https://www.wired.com/story/a-promising-drug-for-mpox-just-failed-in-trials/)
+ - [Web3 esports startup Gameplay Galaxy, focused on developing upcoming game Trial Xtreme Freedom, raised a $24M seed co-led by Blockchain Capital and Merit Circle &lpar;Rachel Kaser/VentureBeat&rpar;](http://www.techmeme.com/240827/p23#a240827p23)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
