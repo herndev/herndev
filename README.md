@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Today&#39;s Wordle answer for Tuesday, August 27](https://www.pcgamer.com/games/puzzle/wordle-answer-today-august-27-2024)
- - [Star Wars Outlaws release time and release date](https://www.pcgamer.com/games/action/star-wars-outlaws-release-time-date)
- - [The Olympics may be over, but I&#39;m still going for 40-year-old gold in the first licensed Olympic games](https://www.pcgamer.com/games/sports/the-olympics-may-be-over-but-im-still-going-for-40-year-old-gold-in-the-first-licensed-olympic-games)<!-- GAME:END -->
+ - [How to get into Gorak’s suite in Star Wars Outlaws](https://www.polygon.com/star-wars-outlaws-guides/442950/gorak-suite-how-to-enter)
+ - [13 beginners tips before starting Star Wars Outlaws](https://www.polygon.com/star-wars-outlaws-guides/444006/beginners-tips-tricks)
+ - [Can Magnemite be shiny in Pokémon Go?](https://www.polygon.com/pokemon-go-guide/444073/can-magnemite-be-shiny-magneton-magnezone)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
