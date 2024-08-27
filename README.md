@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [One of Reason Diversity not selling in asia](http://9gag.com/gag/a9yreR1)
- - ⏩ [That escalated so quickly](http://9gag.com/gag/aKGVy1b)
- - 👉 [Stopping at a train crossing](http://9gag.com/gag/aoy1AAg)<!-- MEMES:END -->
+ - 💣 [In horro movie](http://9gag.com/gag/ajPXvn0)
+ - ⏩ [Upvote if you have opened your eyes.](http://9gag.com/gag/ajPXvNp)
+ - 👉 [Bok](http://9gag.com/gag/a6ZbezL)<!-- MEMES:END -->
 
 ---
 
