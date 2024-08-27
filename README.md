@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Apple Watch Ultra 2 is $100 off ahead of Apple’s next hardware event](https://www.theverge.com/2024/8/27/24229199/apple-watch-ultra-2-super-mario-rpg-remake-deal-sale)
- - [Google Meet’s automatic AI note-taking is here](https://www.theverge.com/2024/8/27/24229843/google-meets-automatic-ai-note-taking-launch)
- - [Self-driving truck company TuSimple, which delisted from Nasdaq in January, reaches a $189M settlement of a suit alleging fraud by overstating safety and more &lpar;Jonathan Stempel/Reuters&rpar;](http://www.techmeme.com/240827/p24#a240827p24)<!-- TECH:END -->
+ - [Deal: This Belkin MagSafe 3-in-1 Wireless Charging Stand is $52 off](https://www.androidauthority.com/belkin-magsafe-3-in-1-wireless-charging-stand-deal-3475763/)
+ - [A Look Inside the Airbus Factory Revolutionizing the World of Airplanes](https://www.wired.com/story/heres-what-the-inside-of-an-airbus-factory-looks-like/)
+ - [The new BOOX Go 6 is basically a Kindle that runs Android apps](https://www.androidauthority.com/boox-go-6-3475777/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
