@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Castlevania’s classic DS trilogy is coming to the Switch](https://www.theverge.com/2024/8/27/24229521/castlevania-dominus-collection-nintendo-switch-ds-trilogy)
- - [MySims is making a comeback on the Switch](https://www.theverge.com/2024/8/27/24229056/mysims-nintendo-switch-remastered-launch)
- - [Nest Learning Thermostat 4th-Gen review: Finally, Apple Home compatibility](https://appleinsider.com/articles/24/08/27/nest-learning-thermostat-4th-gen-review-finally-works-for-apple-home-users?utm_medium=rss)<!-- TECH:END -->
+ - [Snap rolls out a native Snapchat app for iPad, 13 years after launching on iOS; the app can only run in portrait mode &lpar;Filipe Esp&amp;oacute;sito/9to5Mac&rpar;](http://www.techmeme.com/240827/p15#a240827p15)
+ - [AirPods Pro rumored to get better Digital ANC in next update](https://appleinsider.com/articles/24/08/27/airpods-pro-rumored-to-get-better-digital-anc-in-next-update?utm_medium=rss)
+ - [Having trouble accessing shared albums in Google Photos? You’re not alone](https://www.androidauthority.com/google-photos-shared-albums-issue-3475643/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
