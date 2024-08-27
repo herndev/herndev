@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Eeeee](http://9gag.com/gag/aByWzOZ)
- - ⏩ [The year is 3955...](http://9gag.com/gag/abApDnb)
- - 👉 [Feminism is cancer](http://9gag.com/gag/aByWenN)<!-- MEMES:END -->
+ - 💣 [The year is 3955...](http://9gag.com/gag/abApDnb)
+ - ⏩ [Two legends meet!](http://9gag.com/gag/aByWe2Z)
+ - 👉 [A historian&#39;s take on Europe](http://9gag.com/gag/avyGqvE)<!-- MEMES:END -->
 
 ---
 
