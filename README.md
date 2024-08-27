@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Go Battle League ‘Max Out’ rewards and schedule in Pokémon Go](https://www.polygon.com/pokemon-go-guide/444422/go-battle-league-max-out-rewards-and-schedule-in-pokemon-go)
  - [If you&#39;re gaming with a Zen 5 system, you&#39;ll bag some major performance gains from the upcoming Windows 11 24H2 update](https://www.pcgamer.com/hardware/processors/if-youre-gaming-with-a-zen-5-system-youll-bag-some-major-performance-gains-from-the-upcoming-windows-11-24h2-update)
- - [How to get into Gorak’s suite in Star Wars Outlaws](https://www.polygon.com/star-wars-outlaws-guides/442950/gorak-suite-how-to-enter)
- - [13 beginners tips before starting Star Wars Outlaws](https://www.polygon.com/star-wars-outlaws-guides/444006/beginners-tips-tricks)<!-- GAME:END -->
+ - [How to get into Gorak’s suite in Star Wars Outlaws](https://www.polygon.com/star-wars-outlaws-guides/442950/gorak-suite-how-to-enter)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
