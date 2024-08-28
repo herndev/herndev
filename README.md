@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple is cutting jobs across its Books and News apps](https://www.theverge.com/2024/8/28/24230344/apple-job-layoffs-books-news-apps-digital-services)
- - [iPhone 17 range may increase RAM to 12GB](https://appleinsider.com/articles/24/08/28/iphone-17-range-may-increase-ram-to-12gb?utm_medium=rss)
- - [How Telegram CEO Pavel Durov miscalculated on moderation, saying earlier in 2024 that he did not expect &quot;significant challenges&quot; despite new laws targeting tech &lpar;Financial Times&rpar;](http://www.techmeme.com/240828/p6#a240828p6)<!-- TECH:END -->
+ - [Apple all-in on struggling Matter, to the detriment of HomeKit Accessory Protocol](https://appleinsider.com/articles/24/08/28/apple-all-in-on-struggling-matter-to-the-detriment-of-homekit-accessory-protocol?utm_medium=rss)
+ - [StarLink could bring free satellite SOS to everyone, everywhere](https://www.androidauthority.com/starlink-could-bring-free-satellite-sos-to-everyone-everywhere-3475913/)
+ - [Snap launches new safety tools and resources for US educators, and says Snapchat has 20M+ US teen users; Pew says 51% of US teens used Snapchat daily in 2023 &lpar;April Rubin/Axios&rpar;](http://www.techmeme.com/240828/p10#a240828p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
