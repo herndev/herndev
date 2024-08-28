@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Slim or Ultra? Samsung’s thinner Z Fold 6 might have an all-new name](https://www.androidauthority.com/samsung-galaxy-z-fold-6-slim-ultra-new-name-3475891/)
  - [Google Photos could soon get video presets to make basic edits much easier](https://www.androidauthority.com/google-photos-video-presets-teardown-3475503/)
- - [Venezuelan journalists are using AI avatars to host daily newscasts without putting themselves at risk, amid President Nicol&amp;aacute;s Maduro&#39;s media crackdown &lpar;The Guardian&rpar;](http://www.techmeme.com/240828/p2#a240828p2)
- - [How Curtains, Blinds and Drapes Can Save You Money](https://www.cnet.com/how-to/save-energy-curtains-blinds-drapes/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Venezuelan journalists are using AI avatars to host daily newscasts without putting themselves at risk, amid President Nicol&amp;aacute;s Maduro&#39;s media crackdown &lpar;The Guardian&rpar;](http://www.techmeme.com/240828/p2#a240828p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
