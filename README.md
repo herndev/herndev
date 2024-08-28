@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s 15-inch MacBook Air M3 is back down to $1,049 for Labor Day 2024](https://appleinsider.com/articles/24/08/28/apples-15-inch-macbook-air-m3-is-back-down-to-1049-for-labor-day-2024?utm_medium=rss)
- - [Apple lowers its walled garden, but favors YouTube Music over Spotify](https://www.androidauthority.com/you-can-export-apple-music-playlists-youtube-3475948/)
- - [Sources: Zurich-based Swiss-Mile, which makes the autonomous Robotic Mule and Robotic Watchdog robots, is close to raising a $20M seed at a $100M+ valuation &lpar;Eyk Henning/Bloomberg&rpar;](http://www.techmeme.com/240828/p13#a240828p13)<!-- TECH:END -->
+ - [iPhone 16 will lead Apple to record high $400 billion revenues in 2024](https://appleinsider.com/articles/24/08/28/iphone-16-will-lead-apple-to-record-high-400-billion-revenues-in-2024?utm_medium=rss)
+ - [OpenSea says it has received a Wells notice from the US SEC calling NFTs sold on the platform securities &lpar;Katherine Ross/Blockworks&rpar;](http://www.techmeme.com/240828/p16#a240828p16)
+ - [Super Micro delays filing its annual financial disclosures, a day after short-seller Hindenburg Research alleged &quot;glaring accounting red flags&quot;; SMCI drops 20%+ &lpar;Brody Ford/Bloomberg&rpar;](http://www.techmeme.com/240828/p15#a240828p15)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
