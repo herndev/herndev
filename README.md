@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Simple creatures](http://9gag.com/gag/amoY45d)
- - ⏩ [Who let the...](http://9gag.com/gag/avyGN55)
- - 👉 [Ex-f**king-cuse me? This shit WASNT cgi?](http://9gag.com/gag/avyGKv5)<!-- MEMES:END -->
+ - 💣 [Dating in 2024...](http://9gag.com/gag/aNDAbPw)
+ - ⏩ [See you in hell](http://9gag.com/gag/arybQeK)
+ - 👉 [This Cop was Fired and is Facing a Million Dollar Lawsuit.](http://9gag.com/gag/aYQxX7x)<!-- MEMES:END -->
 
 ---
 
