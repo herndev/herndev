@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Space Marine 2&#39;s lead dev says more games can trace their DNA back to 40K than people might think: &#39;Many young gamers probably don&#39;t realize the influence it had on your favorite game&#39;](https://www.pcgamer.com/games/action/space-marine-2s-lead-dev-says-more-games-can-trace-their-dna-back-to-40k-than-people-might-think-many-young-gamers-probably-dont-realize-the-influence-it-had-on-your-favorite-game)
- - [Magical girl anime inspired Naomi Osaka’s US Open outfits](https://www.polygon.com/anime/445451/naomi-osaka-magical-girl-tennis-outfit-inspo)
- - [The Best Games To Pick Up During the ID@Xbox Sale](https://kotaku.com/best-indie-xbox-games-sale-deep-rock-warhammer-1851634755)<!-- GAME:END -->
+ - [How to unlock the Choir of One Exotic Catalysts in Destiny 2](https://www.polygon.com/destiny-2-guide-walkthrough/445174/catalyst-quest-choir-of-one-encore-secret-chests)
+ - [How to complete the ‘Encore’ Exotic mission and earn Choir of One in Destiny 2](https://www.polygon.com/destiny-2-guide-walkthrough/444098/choir-of-one-exotic-encore-mission-walkthrough)
+ - [My favorite mic is on sale for its lowest price ever](https://www.polygon.com/good-deals/445484/logitech-yeti-gx-microphone-streaming-amazon-deal-sale)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
