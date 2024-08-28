@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Once you go Muslim, you are never coming back](http://9gag.com/gag/ae9bByW)
- - ⏩ [Some games evolved backwards](http://9gag.com/gag/avyGwKZ)
- - 👉 [Look at this fantastic innovative gameplay](http://9gag.com/gag/a34qrb3)<!-- MEMES:END -->
+ - 💣 [Dating in 2024...](http://9gag.com/gag/aNDAbPw)
+ - ⏩ [Bitterness Abounds](http://9gag.com/gag/aQz9Lw7)
+ - 👉 [A ride stalled at Six Flags Mexico during a rain storm](http://9gag.com/gag/a0ebgmB)<!-- MEMES:END -->
 
 ---
 
