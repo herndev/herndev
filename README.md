@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A few days left: Watch this comedy gem before it leaves Netflix](https://www.androidauthority.com/movies-leaving-netflix-august-3475864/)
- - [Plaud’s NotePin is another AI wearable for remembering everything](https://www.theverge.com/2024/8/28/24229510/plaud-notepin-ai-wearable-transcription)
- - [Apple Books, Mac App Store outages have been resolved](https://appleinsider.com/articles/24/08/28/apple-books-mac-app-store-outages-have-been-resolved?utm_medium=rss)<!-- TECH:END -->
+ - [Apple&#39;s 15-inch MacBook Air M3 is back down to $1,049 for Labor Day 2024](https://appleinsider.com/articles/24/08/28/apples-15-inch-macbook-air-m3-is-back-down-to-1049-for-labor-day-2024?utm_medium=rss)
+ - [Apple lowers its walled garden, but favors YouTube Music over Spotify](https://www.androidauthority.com/you-can-export-apple-music-playlists-youtube-3475948/)
+ - [Sources: Zurich-based Swiss-Mile, which makes the autonomous Robotic Mule and Robotic Watchdog robots, is close to raising a $20M seed at a $100M+ valuation &lpar;Eyk Henning/Bloomberg&rpar;](http://www.techmeme.com/240828/p13#a240828p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
