@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Not all problems can be solved with your mouth..](http://9gag.com/gag/aVvqrey)
- - ⏩ [Posture. When Ai costs too much](http://9gag.com/gag/avyGwOq)
- - 👉 [Dating in 2024...](http://9gag.com/gag/aNDAbPw)<!-- MEMES:END -->
+ - 💣 [I knew about this through 9gag now I&#39;m returning the favour to innocent curious minds, those assholes definitely should have gotten death sentences Japan law system is a f**king joke](http://9gag.com/gag/agmLwoq)
+ - ⏩ [See you in hell](http://9gag.com/gag/arybQeK)
+ - 👉 [Posture. When Ai costs too much](http://9gag.com/gag/avyGwOq)<!-- MEMES:END -->
 
 ---
 
