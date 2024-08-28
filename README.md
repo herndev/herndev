@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Slim or Ultra? Samsung’s thinner Z Fold 6 might have an all-new name](https://www.androidauthority.com/samsung-galaxy-z-fold-6-slim-ultra-new-name-3475891/)
- - [Google Photos could soon get video presets to make basic edits much easier](https://www.androidauthority.com/google-photos-video-presets-teardown-3475503/)
- - [Venezuelan journalists are using AI avatars to host daily newscasts without putting themselves at risk, amid President Nicol&amp;aacute;s Maduro&#39;s media crackdown &lpar;The Guardian&rpar;](http://www.techmeme.com/240828/p2#a240828p2)<!-- TECH:END -->
+ - [Experts: Pavel Durov&#39;s arrest may be an outlier as the legal bar is high in the US and Europe to prosecute executives for content posted on their tech platforms &lpar;New York Times&rpar;](http://www.techmeme.com/240828/p3#a240828p3)
+ - [Ryzen CPU owners can now download better gaming performance thanks to a Windows 11 update](https://www.theverge.com/2024/8/28/24230321/microsoft-windows-11-update-ryzen-cpu-performance-improvement)
+ - [Slim or Ultra? Samsung’s thinner Z Fold 6 might have an all-new name](https://www.androidauthority.com/samsung-galaxy-z-fold-6-slim-ultra-new-name-3475891/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
