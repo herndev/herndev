@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Once you go Muslim, you are never coming back](http://9gag.com/gag/ae9bByW)
- - ⏩ [He is an absolute legend \ud83d\udd25](http://9gag.com/gag/aoy17qw)
- - 👉 [Feminism is cancer](http://9gag.com/gag/aByWenN)<!-- MEMES:END -->
+ - 💣 [One of the best](http://9gag.com/gag/amoYZno)
+ - ⏩ [Afghanistan to Pakistan hashish and opium smuggling... Now this is a green company! No fossil fuel, just pure kinetic power....](http://9gag.com/gag/aVvq8BP)
+ - 👉 [Extreme Culinary](http://9gag.com/gag/a0ebGjZ)<!-- MEMES:END -->
 
 ---
 
