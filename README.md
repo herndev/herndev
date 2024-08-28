@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle answer for Wednesday, August 28](https://www.pcgamer.com/games/puzzle/wordle-answer-today-august-28-2024)
  - [Spectre Divide, the most promising tactical FPS since Valorant, is out next week](https://www.pcgamer.com/games/fps/spectre-divide-the-most-promising-tactical-fps-since-valorant-is-out-next-week)
- - [Space Marine 2 reveals post-launch plans: 4 seasons of paid cosmetics and free gameplay updates including new maps, weapons, enemies, and a horde mode](https://www.pcgamer.com/games/third-person-shooter/space-marine-2-reveals-post-launch-plans-4-seasons-of-paid-cosmetics-and-free-gameplay-updates-including-new-maps-weapons-enemies-and-a-horde-mode)
- - [The eagerness to grave dance on unpopular games has become a bad habit](https://www.pcgamer.com/games/fps/the-eagerness-to-grave-dance-on-unpopular-games-has-become-a-bad-habit)<!-- GAME:END -->
+ - [Space Marine 2 reveals post-launch plans: 4 seasons of paid cosmetics and free gameplay updates including new maps, weapons, enemies, and a horde mode](https://www.pcgamer.com/games/third-person-shooter/space-marine-2-reveals-post-launch-plans-4-seasons-of-paid-cosmetics-and-free-gameplay-updates-including-new-maps-weapons-enemies-and-a-horde-mode)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
