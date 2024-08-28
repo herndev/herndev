@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple all-in on struggling Matter, to the detriment of HomeKit Accessory Protocol](https://appleinsider.com/articles/24/08/28/apple-all-in-on-struggling-matter-to-the-detriment-of-homekit-accessory-protocol?utm_medium=rss)
- - [StarLink could bring free satellite SOS to everyone, everywhere](https://www.androidauthority.com/starlink-could-bring-free-satellite-sos-to-everyone-everywhere-3475913/)
- - [Snap launches new safety tools and resources for US educators, and says Snapchat has 20M+ US teen users; Pew says 51% of US teens used Snapchat daily in 2023 &lpar;April Rubin/Axios&rpar;](http://www.techmeme.com/240828/p10#a240828p10)<!-- TECH:END -->
+ - [A few days left: Watch this comedy gem before it leaves Netflix](https://www.androidauthority.com/movies-leaving-netflix-august-3475864/)
+ - [Plaud’s NotePin is another AI wearable for remembering everything](https://www.theverge.com/2024/8/28/24229510/plaud-notepin-ai-wearable-transcription)
+ - [Apple Books, Mac App Store outages have been resolved](https://appleinsider.com/articles/24/08/28/apple-books-mac-app-store-outages-have-been-resolved?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
