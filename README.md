@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Today&#39;s Wordle answer for Wednesday, August 28](https://www.pcgamer.com/games/puzzle/wordle-answer-today-august-28-2024)
- - [Spectre Divide, the most promising tactical FPS since Valorant, is out next week](https://www.pcgamer.com/games/fps/spectre-divide-the-most-promising-tactical-fps-since-valorant-is-out-next-week)
- - [Space Marine 2 reveals post-launch plans: 4 seasons of paid cosmetics and free gameplay updates including new maps, weapons, enemies, and a horde mode](https://www.pcgamer.com/games/third-person-shooter/space-marine-2-reveals-post-launch-plans-4-seasons-of-paid-cosmetics-and-free-gameplay-updates-including-new-maps-weapons-enemies-and-a-horde-mode)<!-- GAME:END -->
+ - [Emio – The Smiling Man is a captivating tale with a middling end](https://www.polygon.com/review/444764/emio-the-smiling-man-review-nintendo-switch)
+ - [Deadlock&#39;s upcoming hero Astro, is a sign that players need to start learning better movement habits](https://www.pcgamer.com/games/moba/deadlocks-upcoming-hero-astro-is-a-sign-that-players-need-to-start-learning-better-movement-habits)
+ - [Final Fantasy 14 director Yoshi-P talks about the Scion&#39;s &#39;half-hearted&#39; role in Dawntrail, says they&#39;ll likely use smaller, more selective groups of beloved NPCs in the future](https://www.pcgamer.com/games/final-fantasy/final-fantasy-14-s-yoshi-p-talks-about-the-scion-s-half-hearted-role-in-dawntrail-says-they-ll-likely-use-smaller-more-selective-groups-of-the-game-s-beloved-npcs-in-the-future)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
