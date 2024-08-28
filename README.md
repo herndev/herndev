@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How to unlock the Choir of One Exotic Catalysts in Destiny 2](https://www.polygon.com/destiny-2-guide-walkthrough/445174/catalyst-quest-choir-of-one-encore-secret-chests)
- - [How to complete the ‘Encore’ Exotic mission and earn Choir of One in Destiny 2](https://www.polygon.com/destiny-2-guide-walkthrough/444098/choir-of-one-exotic-encore-mission-walkthrough)
- - [My favorite mic is on sale for its lowest price ever](https://www.polygon.com/good-deals/445484/logitech-yeti-gx-microphone-streaming-amazon-deal-sale)<!-- GAME:END -->
+ - [Crypt Custodian review](https://www.pcgamer.com/games/adventure/crypt-custodian-review)
+ - [Just over a year after it launched on PC, Warner Bros is shutting down Harry Potter: Magic Awakened](https://www.pcgamer.com/games/just-over-a-year-after-it-launched-on-pc-warner-bros-is-shutting-down-harry-potter-magic-awakened)
+ - [With a mix of RTS and deckbuilding, Warcana is truly one of the strangest genre patchworks I&#39;ve ever seen](https://www.pcgamer.com/games/strategy/with-a-mix-of-rts-and-deckbuilding-warcana-is-truly-one-of-the-strangest-genre-patchworks-ive-ever-seen)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
