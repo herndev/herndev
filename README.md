@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Chinese meal delivery giant Meituan reports Q2 revenue up 21% YoY to ~$11.6B, above $11.3B est., as its core business expanded; its stock is up ~25% in 2024 &lpar;Bloomberg&rpar;](http://www.techmeme.com/240828/p5#a240828p5)
- - [X updates Grok to direct users to Vote.gov for election queries, after a letter from five US secretaries of state warned of spreading election misinformation &lpar;Christine Fernando/Associated Press&rpar;](http://www.techmeme.com/240828/p4#a240828p4)
- - [X’s Grok bot now points to government website after election misinformation warnings](https://www.theverge.com/2024/8/28/24230325/x-grok-chatbot-election-misinformation-warnings-vote)<!-- TECH:END -->
+ - [Apple is cutting jobs across its Books and News apps](https://www.theverge.com/2024/8/28/24230344/apple-job-layoffs-books-news-apps-digital-services)
+ - [iPhone 17 range may increase RAM to 12GB](https://appleinsider.com/articles/24/08/28/iphone-17-range-may-increase-ram-to-12gb?utm_medium=rss)
+ - [How Telegram CEO Pavel Durov miscalculated on moderation, saying earlier in 2024 that he did not expect &quot;significant challenges&quot; despite new laws targeting tech &lpar;Financial Times&rpar;](http://www.techmeme.com/240828/p6#a240828p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
