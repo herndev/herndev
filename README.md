@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Posture. When Ai costs too much](http://9gag.com/gag/avyGwOq)
- - ⏩ [Bro learned something that day](http://9gag.com/gag/agmLeQK)
- - 👉 [Some games evolved backwards](http://9gag.com/gag/avyGwKZ)<!-- MEMES:END -->
+ - 💣 [Massive win](http://9gag.com/gag/amoYeYV)
+ - ⏩ [Spot on!](http://9gag.com/gag/a7orR4q)
+ - 👉 [AMAZON!!!!!](http://9gag.com/gag/arybLR0)<!-- MEMES:END -->
 
 ---
 
