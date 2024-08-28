@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [CD Projekt dev explains how Geralt ended up in Balatro, and the answer will shock you: CD Projekt devs really like Balatro](https://www.pcgamer.com/games/card-games/cd-projekt-dev-explains-how-geralt-ended-up-in-balatro-and-the-answer-will-shock-you-cd-projekt-devs-really-like-balatro)
- - [Bandai Namco and Amazon say no refunds as they kill off anime MMO Blue Protocol, but they&#39;ll give you 5,000 funbucks a month until it dies](https://www.pcgamer.com/games/mmo/bandai-namco-and-amazon-say-no-refunds-as-they-kill-off-anime-mmo-blue-protocol-but-theyll-give-you-5000-funbucks-a-month-until-it-dies)
- - [Star Wars Outlaws is the most Star Wars a Star Wars game has been since Star Wars Galaxies](https://www.pcgamer.com/games/action/star-wars-outlaws-is-the-most-star-wars-a-star-wars-game-has-been-since-star-wars-galaxies)<!-- GAME:END -->
+ - [Escape Room Madness: Which Mad Experiments Game is for You?](https://news.xbox.com/en-us/2024/08/28/escape-room-madness-which-mad-experiments-game-is-for-you/)
+ - [A Scene In The Sonic 3 Trailer Already Has Fans Theorizing About Sonic 4](https://kotaku.com/sonic-3-trailer-robotnik-metal-quill-theory-ending-1851634404)
+ - [Comprehensive controller support turns Path of Exile 2 into a twin-stick titan](https://www.polygon.com/gamescom/445251/path-of-exile-2-hands-on-preview)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
