@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [This triple-screen foldable concept makes the Galaxy Z Fold 6 look ordinary](https://www.androidauthority.com/tecno-phantom-ultimate-2-3475213/)
- - [iPhone Users on AT&amp;T Report Being Stuck in SOS Mode](https://www.cnet.com/tech/mobile/iphone-users-on-at-t-report-being-stuck-in-sos-mode/#ftag=CAD590a51e)
- - [Three child safety advocacy groups from the US, UK, and Canada say their outreach to Telegram to flag CSAM on the platform has largely been ignored &lpar;Kevin Collier/NBC News&rpar;](http://www.techmeme.com/240827/p31#a240827p31)<!-- TECH:END -->
+ - [Hohem iSteady V3 review: Robust gimbal with a learning curve](https://appleinsider.com/articles/24/08/28/hohem-isteady-v3-review-robust-gimbal-with-a-learning-curve?utm_medium=rss)
+ - [Sources: Apple is laying off ~100 people in its services group in a rare move, impacting Apple Books, News, and other teams, as part of a shift in priorities &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/240827/p32#a240827p32)
+ - [It’s not just you: AT&amp;T had a widespread outage and was down for many users](https://www.androidauthority.com/att-widespread-outage-3475850/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
