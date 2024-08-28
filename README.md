@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Emio – The Smiling Man is a captivating tale with a middling end](https://www.polygon.com/review/444764/emio-the-smiling-man-review-nintendo-switch)
- - [Deadlock&#39;s upcoming hero Astro, is a sign that players need to start learning better movement habits](https://www.pcgamer.com/games/moba/deadlocks-upcoming-hero-astro-is-a-sign-that-players-need-to-start-learning-better-movement-habits)
- - [Final Fantasy 14 director Yoshi-P talks about the Scion&#39;s &#39;half-hearted&#39; role in Dawntrail, says they&#39;ll likely use smaller, more selective groups of beloved NPCs in the future](https://www.pcgamer.com/games/final-fantasy/final-fantasy-14-s-yoshi-p-talks-about-the-scion-s-half-hearted-role-in-dawntrail-says-they-ll-likely-use-smaller-more-selective-groups-of-the-game-s-beloved-npcs-in-the-future)<!-- GAME:END -->
+ - [New Clair Obscur: Expedition 33 gameplay – fighting and exploring the Flying Waters region](https://blog.playstation.com/2024/08/28/new-clair-obscur-expedition-33-gameplay-fighting-and-exploring-the-flying-waters-region/)
+ - [Clair Obscur: Expedition 33 – A Detailed Breakdown of its Painterly RPG Combat](https://news.xbox.com/en-us/2024/08/28/clair-obscur-expedition-33-combat-breakdown-preview/)
+ - [Metaphor: ReFantazio shares DNA with Persona, but is its own fascinating beast](https://www.polygon.com/impressions/444848/metaphor-refantazio-preview-pc-ps5-xbox)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
