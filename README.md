@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Xbox August Update Is Rolling Out with Updates to Cloud Gaming, Consoles, PC Gaming, and Accessories](https://news.xbox.com/en-us/2024/08/28/xbox-august-update-discord/)
- - [Where To Find Every Essential NPC In Fortnite Chapter 5 Season 4](https://kotaku.com/fortnite-npc-location-chapter-5-season-4-guide-1851633971)
- - [After claiming 8 GB on a Mac is like 16 GB on PC, Apple&#39;s rumoured to be finally making the jump to 16 GB](https://www.pcgamer.com/hardware/memory/after-claiming-8-gb-on-a-mac-is-like-16-gb-on-pc-apples-rumoured-to-be-finally-making-the-jump-to-16-gb)<!-- GAME:END -->
+ - [Indie Selects for August: End Summer with Some of Our Favorite New Launches](https://news.xbox.com/en-us/2024/08/28/indie-selects-id-xbox-august/)
+ - [Evil was always more than the sum of its parts](https://www.polygon.com/tv/444900/evil-series-finale-review-good-cbs-kings)
+ - [Nearly every Warhammer 40K game is on sale right now for up to 80% off](https://www.polygon.com/sales-guide/444489/warhammer-40k-deals-humble)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
