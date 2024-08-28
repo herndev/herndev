@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [HP reports Q3 revenue up 2.4% YoY to $13.5B, vs. $13.4B est., Printing revenue down 3% to $4.14B, and increases its share repurchase authorization to $10B &lpar;Brody Ford/Bloomberg&rpar;](http://www.techmeme.com/240828/p28#a240828p28)
- - [Apple Music now lets you easily transfer playlists to YouTube Music](https://www.theverge.com/2024/8/28/24230713/apple-youtube-music-transfer-playlist-feature)
- - [Telegram CEO charged in French criminal investigation](https://www.theverge.com/2024/8/28/24230448/telegram-ceo-pavel-durov-charges-france)<!-- TECH:END -->
+ - [Poll: Who’s running a rooted smartphone?](https://www.androidauthority.com/android-root-poll-3476132/)
+ - [Yelp sues Google for antitrust violations](https://www.theverge.com/2024/8/28/24230905/yelp-google-antitrust-lawsuit)
+ - [Affirm reports Q4 revenue up 48% YoY to $659.2M, vs. $604M est., and says it expects to generate an operating profit by Q4 2025; AFRM jumps 14%+ after hours &lpar;Ciara Linnane/MarketWatch&rpar;](http://www.techmeme.com/240828/p30#a240828p30)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
