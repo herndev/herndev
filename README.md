@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Pixel 9 Pro XL teardown shows what Google’s learned about reparability — and what still needs work](https://www.androidauthority.com/pixel-9-pro-xl-teardown-3475825/)
- - [MakerDAO rebrands as Sky and debuts a new USDS stablecoin, but the token draws backlash after users noticed it allows the issuer to remotely freeze the asset &lpar;Krisztian Sandor/CoinDesk&rpar;](http://www.techmeme.com/240827/p28#a240827p28)
- - [Telegram’s CEO has taken a hands-off approach for years — now his luck might have run out](https://www.theverge.com/2024/8/27/24229935/telegram-pavel-durov-france-arrest-moderation-crime)<!-- TECH:END -->
+ - [Switching to YouTube Music gets easier with new Apple Music playlist export tool](https://appleinsider.com/articles/24/08/27/switching-to-youtube-music-gets-easier-with-new-apple-music-playlist-export-tool?utm_medium=rss)
+ - [Barbie Phone Reveal: A Vision in Pink, Complete With Mirror and Malibu Snake](https://www.cnet.com/tech/mobile/barbie-phone-reveal-a-vision-in-pink-complete-with-mirror-and-malibu-snake/#ftag=CAD590a51e)
+ - [Barbie Phone by HMD: An All-Pink Glittery Dumb Phone That Flips](https://www.wired.com/story/hmd-barbie-phone/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
