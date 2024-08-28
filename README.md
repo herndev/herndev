@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Father and son invented a sandbag that has no sand](http://9gag.com/gag/aMV85mx)
- - ⏩ [A woman tries to make fun of a child](http://9gag.com/gag/aAyd9z0)
- - 👉 [Look at this fantastic innovative gameplay](http://9gag.com/gag/a34qrb3)<!-- MEMES:END -->
+ - 💣 [Unreal](http://9gag.com/gag/a2vrgYw)
+ - ⏩ [Philippines have had it with their BS. If only the West understood how to handle business...](http://9gag.com/gag/ae9bwYO)
+ - 👉 [Tarzan in the flesh](http://9gag.com/gag/aAyd7K0)<!-- MEMES:END -->
 
 ---
 
