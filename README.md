@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [TikTok must face a lawsuit for recommending the viral ‘blackout challenge’](https://www.theverge.com/2024/8/28/24230523/tiktok-blackout-challenge-lawsuit-appeals-court)
- - [Microsoft Phone Link update makes it even easier to send files to your PC](https://www.androidauthority.com/share-files-windows-pc-android-share-sheet-3476077/)
- - [Tumblr will move all of its blogs to WordPress — and you won’t even notice a difference](https://www.theverge.com/2024/8/28/24230587/tumblr-move-blogs-wordpress-automattic)<!-- TECH:END -->
+ - [Samsung Galaxy S25 series rumors and leaks: Everything we know so far](https://www.androidauthority.com/samsung-galaxy-s25-3437280/)
+ - [Apple Intelligence Photo Clean Up shows up in iOS 18.1 beta](https://appleinsider.com/articles/24/08/28/apple-intelligence-photo-clean-up-shows-up-in-ios-181-beta?utm_medium=rss)
+ - [Verizon now sells smart rings, with a surprising brand on offer](https://www.androidauthority.com/ultrahuman-ring-air-verizon-3476070/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
