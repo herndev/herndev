@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Spectre Divide, the most promising tactical FPS since Valorant, is out next week](https://www.pcgamer.com/games/fps/spectre-divide-the-most-promising-tactical-fps-since-valorant-is-out-next-week)
  - [Space Marine 2 reveals post-launch plans: 4 seasons of paid cosmetics and free gameplay updates including new maps, weapons, enemies, and a horde mode](https://www.pcgamer.com/games/third-person-shooter/space-marine-2-reveals-post-launch-plans-4-seasons-of-paid-cosmetics-and-free-gameplay-updates-including-new-maps-weapons-enemies-and-a-horde-mode)
- - [The eagerness to grave dance on unpopular games has become a bad habit](https://www.pcgamer.com/games/fps/the-eagerness-to-grave-dance-on-unpopular-games-has-become-a-bad-habit)
- - [Deadlock wins the award for best placeholder UI text I&#39;ve ever read with this one-line character bio calling one of its heroes an a**hole](https://www.pcgamer.com/games/moba/deadlock-wins-the-award-for-best-placeholder-ui-text-ive-ever-read-with-this-one-line-character-bio-calling-one-of-its-heroes-an-ahole)<!-- GAME:END -->
+ - [The eagerness to grave dance on unpopular games has become a bad habit](https://www.pcgamer.com/games/fps/the-eagerness-to-grave-dance-on-unpopular-games-has-become-a-bad-habit)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
