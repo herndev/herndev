@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Two days of seeing things](http://9gag.com/gag/azx83Vm)
- - ⏩ [Once you go Muslim, you are never coming back](http://9gag.com/gag/ae9bByW)
- - 👉 [Payload deployed](http://9gag.com/gag/amoYwEv)<!-- MEMES:END -->
+ - 💣 [Only facts](http://9gag.com/gag/aAyd7np)
+ - ⏩ [Tarzan in the flesh](http://9gag.com/gag/aAyd7K0)
+ - 👉 [Once you go Muslim, you are never coming back](http://9gag.com/gag/ae9bByW)<!-- MEMES:END -->
 
 ---
 
