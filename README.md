@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Where were these morally questionable woman back in my days](http://9gag.com/gag/a7orRxx)
+ - 💣 [Payload deployed](http://9gag.com/gag/amoYwEv)
  - ⏩ [Here is the reason why only 3-4 manufacturer of Semiconductor](http://9gag.com/gag/aZZm6P6)
- - 👉 [Posture. When Ai costs too much](http://9gag.com/gag/avyGwOq)<!-- MEMES:END -->
+ - 👉 [Gamestop return.](http://9gag.com/gag/abAp8OB)<!-- MEMES:END -->
 
 ---
 
