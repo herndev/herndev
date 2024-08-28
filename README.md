@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [He is an absolute legend \ud83d\udd25](http://9gag.com/gag/aoy17qw)
- - ⏩ [Father and son invented a sandbag that has no sand](http://9gag.com/gag/aMV85mx)
- - 👉 [Pay it forward guys](http://9gag.com/gag/agmLwyn)<!-- MEMES:END -->
+ - 💣 [Once you go Muslim, you are never coming back](http://9gag.com/gag/ae9bByW)
+ - ⏩ [He is an absolute legend \ud83d\udd25](http://9gag.com/gag/aoy17qw)
+ - 👉 [Feminism is cancer](http://9gag.com/gag/aByWenN)<!-- MEMES:END -->
 
 ---
 
