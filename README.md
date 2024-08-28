@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Posture. When Ai costs too much](http://9gag.com/gag/avyGwOq)
- - ⏩ [Best devil in a movie? I\u2019ll start](http://9gag.com/gag/aGy1mMK)
- - 👉 [Feminism is cancer](http://9gag.com/gag/aByWenN)<!-- MEMES:END -->
+ - 💣 [Once you go Muslim, you are never coming back](http://9gag.com/gag/ae9bByW)
+ - ⏩ [Some games evolved backwards](http://9gag.com/gag/avyGwKZ)
+ - 👉 [Look at this fantastic innovative gameplay](http://9gag.com/gag/a34qrb3)<!-- MEMES:END -->
 
 ---
 
