@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [New Clair Obscur: Expedition 33 gameplay – fighting and exploring the Flying Waters region](https://blog.playstation.com/2024/08/28/new-clair-obscur-expedition-33-gameplay-fighting-and-exploring-the-flying-waters-region/)
- - [Clair Obscur: Expedition 33 – A Detailed Breakdown of its Painterly RPG Combat](https://news.xbox.com/en-us/2024/08/28/clair-obscur-expedition-33-combat-breakdown-preview/)
- - [Metaphor: ReFantazio shares DNA with Persona, but is its own fascinating beast](https://www.polygon.com/impressions/444848/metaphor-refantazio-preview-pc-ps5-xbox)<!-- GAME:END -->
+ - [The 26 must-read books of fall 2024](https://www.polygon.com/books/444069/book-preview-fall-2024)
+ - [The Ultimate Walkthrough To Thank Goodness You&#39;re Here](https://kotaku.com/thank-goodness-youre-here-guide-walkthrough-1851633756)
+ - [AOC announces what could be the cheapest OLED gaming monitors yet](https://www.pcgamer.com/hardware/gaming-monitors/aoc-announces-what-could-be-the-cheapest-oled-gaming-monitors-yet)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
