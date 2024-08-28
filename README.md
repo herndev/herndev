@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Unreal](http://9gag.com/gag/a2vrgYw)
- - ⏩ [Philippines have had it with their BS. If only the West understood how to handle business...](http://9gag.com/gag/ae9bwYO)
- - 👉 [Tarzan in the flesh](http://9gag.com/gag/aAyd7K0)<!-- MEMES:END -->
+ - 💣 [Two days of seeing things](http://9gag.com/gag/azx83Vm)
+ - ⏩ [Wtf am I doing with my time now?](http://9gag.com/gag/an7b3Vz)
+ - 👉 [Concord. Spent $100+million. Dead on arrival](http://9gag.com/gag/amoYyW2)<!-- MEMES:END -->
 
 ---
 
