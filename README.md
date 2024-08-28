@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Two days of seeing things](http://9gag.com/gag/azx83Vm)
- - ⏩ [One of the best](http://9gag.com/gag/amoYZno)
- - 👉 [You&#39;re my sister! Only by blood..](http://9gag.com/gag/an7bPVz)<!-- MEMES:END -->
+ - 💣 [Not all problems can be solved with your mouth..](http://9gag.com/gag/aVvqrey)
+ - ⏩ [Posture. When Ai costs too much](http://9gag.com/gag/avyGwOq)
+ - 👉 [Dating in 2024...](http://9gag.com/gag/aNDAbPw)<!-- MEMES:END -->
 
 ---
 
