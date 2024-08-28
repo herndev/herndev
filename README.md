@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Only facts](http://9gag.com/gag/aAyd7np)
- - ⏩ [Tarzan in the flesh](http://9gag.com/gag/aAyd7K0)
- - 👉 [Once you go Muslim, you are never coming back](http://9gag.com/gag/ae9bByW)<!-- MEMES:END -->
+ - 💣 [He is an absolute legend \ud83d\udd25](http://9gag.com/gag/aoy17qw)
+ - ⏩ [Father and son invented a sandbag that has no sand](http://9gag.com/gag/aMV85mx)
+ - 👉 [Pay it forward guys](http://9gag.com/gag/agmLwyn)<!-- MEMES:END -->
 
 ---
 
