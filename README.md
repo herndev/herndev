@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Two days of seeing things](http://9gag.com/gag/azx83Vm)
- - ⏩ [Wtf am I doing with my time now?](http://9gag.com/gag/an7b3Vz)
- - 👉 [Concord. Spent $100+million. Dead on arrival](http://9gag.com/gag/amoYyW2)<!-- MEMES:END -->
+ - 💣 [Tarzan in the flesh](http://9gag.com/gag/aAyd7K0)
+ - ⏩ [Here is the reason why only 3-4 manufacturer of Semiconductor](http://9gag.com/gag/aZZm6P6)
+ - 👉 [This Cop was Fired and is Facing a Million Dollar Lawsuit.](http://9gag.com/gag/aYQxX7x)<!-- MEMES:END -->
 
 ---
 
