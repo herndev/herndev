@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Unscrew yourself](http://9gag.com/gag/aZZmXmn)
- - ⏩ [Two days of seeing things](http://9gag.com/gag/azx83Vm)
- - 👉 [Posture. When Ai costs too much](http://9gag.com/gag/avyGwOq)<!-- MEMES:END -->
+ - 💣 [Two days of seeing things](http://9gag.com/gag/azx83Vm)
+ - ⏩ [Posture. When Ai costs too much](http://9gag.com/gag/avyGwOq)
+ - 👉 [Rebekah Valentine `Game Journalist` that wrote the Hit piece on Black Myth Wukong has left twitter.](http://9gag.com/gag/adB7zqB)<!-- MEMES:END -->
 
 ---
 
