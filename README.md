@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Hohem iSteady V3 review: Robust gimbal with a learning curve](https://appleinsider.com/articles/24/08/28/hohem-isteady-v3-review-robust-gimbal-with-a-learning-curve?utm_medium=rss)
- - [Sources: Apple is laying off ~100 people in its services group in a rare move, impacting Apple Books, News, and other teams, as part of a shift in priorities &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/240827/p32#a240827p32)
- - [It’s not just you: AT&amp;T had a widespread outage and was down for many users](https://www.androidauthority.com/att-widespread-outage-3475850/)<!-- TECH:END -->
+ - [Apple lays off about 100 services jobs across Apple Books, News](https://appleinsider.com/articles/24/08/28/apple-lays-off-about-100-services-jobs-across-apple-books-news?utm_medium=rss)
+ - [Sources: Emmanuel Macron invited Pavel Durov to move Telegram to Paris in 2018; in 2017, a joint operation between French and UAE spies hacked Durov&#39;s iPhone &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240828/p1#a240828p1)
+ - [Hohem iSteady V3 review: Robust gimbal with a learning curve](https://appleinsider.com/articles/24/08/28/hohem-isteady-v3-review-robust-gimbal-with-a-learning-curve?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
