@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [This triple-screen foldable concept makes the Galaxy Z Fold 6 look ordinary](https://www.androidauthority.com/tecno-phantom-ultimate-2-3475213/)
  - [iPhone Users on AT&amp;T Report Being Stuck in SOS Mode](https://www.cnet.com/tech/mobile/iphone-users-on-at-t-report-being-stuck-in-sos-mode/#ftag=CAD590a51e)
- - [Three child safety advocacy groups from the US, UK, and Canada say their outreach to Telegram to flag CSAM on the platform has largely been ignored &lpar;Kevin Collier/NBC News&rpar;](http://www.techmeme.com/240827/p31#a240827p31)
- - [Kenya-based Wasoko and Egypt-based MaxAB, two of Africa&#39;s largest B2B e-commerce platforms, merge in an all-stock deal; the companies raised over $240M combined &lpar;Tage Kene-Okafor/TechCrunch&rpar;](http://www.techmeme.com/240827/p30#a240827p30)<!-- TECH:END -->
+ - [Three child safety advocacy groups from the US, UK, and Canada say their outreach to Telegram to flag CSAM on the platform has largely been ignored &lpar;Kevin Collier/NBC News&rpar;](http://www.techmeme.com/240827/p31#a240827p31)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
