@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Poll: Who’s running a rooted smartphone?](https://www.androidauthority.com/android-root-poll-3476132/)
- - [Yelp sues Google for antitrust violations](https://www.theverge.com/2024/8/28/24230905/yelp-google-antitrust-lawsuit)
- - [Affirm reports Q4 revenue up 48% YoY to $659.2M, vs. $604M est., and says it expects to generate an operating profit by Q4 2025; AFRM jumps 14%+ after hours &lpar;Ciara Linnane/MarketWatch&rpar;](http://www.techmeme.com/240828/p30#a240828p30)<!-- TECH:END -->
+ - [Yelp sues Google, alleging Google used its dominance in general search to gain an unfair advantage in local search services and local search advertising markets &lpar;Nico Grant/New York Times&rpar;](http://www.techmeme.com/240828/p32#a240828p32)
+ - [Are Meta’s carbon emissions shrinking? Depends on how you look at it](https://www.theverge.com/2024/8/28/24230481/meta-sustainability-report-carbon-footprint-renewable-energy-climate-change)
+ - [Threads now lets users see and like fediverse replies on other posts besides their own, and posts submitted via Threads API will be syndicated to the fediverse &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/240828/p31#a240828p31)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
