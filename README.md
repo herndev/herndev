@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Massive win](http://9gag.com/gag/amoYeYV)
- - ⏩ [Spot on!](http://9gag.com/gag/a7orR4q)
- - 👉 [AMAZON!!!!!](http://9gag.com/gag/arybLR0)<!-- MEMES:END -->
+ - 💣 [Two days of seeing things](http://9gag.com/gag/azx83Vm)
+ - ⏩ [One of the best](http://9gag.com/gag/amoYZno)
+ - 👉 [You&#39;re my sister! Only by blood..](http://9gag.com/gag/an7bPVz)<!-- MEMES:END -->
 
 ---
 
