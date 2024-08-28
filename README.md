@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung Galaxy S25 series rumors and leaks: Everything we know so far](https://www.androidauthority.com/samsung-galaxy-s25-3437280/)
- - [Apple Intelligence Photo Clean Up shows up in iOS 18.1 beta](https://appleinsider.com/articles/24/08/28/apple-intelligence-photo-clean-up-shows-up-in-ios-181-beta?utm_medium=rss)
- - [Verizon now sells smart rings, with a surprising brand on offer](https://www.androidauthority.com/ultrahuman-ring-air-verizon-3476070/)<!-- TECH:END -->
+ - [Now’s your chance to wirelessly access your Android phone through Windows](https://www.androidauthority.com/windows-wireless-android-phone-sharing-3476095/)
+ - [Sources: OpenAI is in talks for a funding round valuing it above $100B; Thrive Capital is leading the round and will invest ~$1B, and Microsoft will also invest &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240828/p24#a240828p24)
+ - [A US court rules TikTok must face a lawsuit over a 10-year-old&#39;s death and the &quot;blackout challenge&quot;, saying algorithmic curation isn&#39;t protected by Section 230 &lpar;Nate Raymond/Reuters&rpar;](http://www.techmeme.com/240828/p23#a240828p23)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
