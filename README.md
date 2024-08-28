@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Borderlands Is No Longer The Biggest Box Office Flop Of The Year](https://kotaku.com/the-crow-reboot-remake-box-office-flop-2024-borderlands-1851634462)
- - [CD Projekt Wants To Do More Cyberpunk Animation Projects In the Future](https://kotaku.com/cybperunk-edgerunners-cd-projekt-animation-projects-1851634494)
- - [Deadlock players are learning they can pause the match for the entire lobby, and some are using it for evil](https://www.pcgamer.com/games/moba/deadlock-players-are-learning-they-can-pause-the-match-for-the-entire-lobby-and-some-are-using-it-for-evil)<!-- GAME:END -->
+ - [Space Marine 2&#39;s lead dev says more games can trace their DNA back to 40K than people might think: &#39;Many young gamers probably don&#39;t realize the influence it had on your favorite game&#39;](https://www.pcgamer.com/games/action/space-marine-2s-lead-dev-says-more-games-can-trace-their-dna-back-to-40k-than-people-might-think-many-young-gamers-probably-dont-realize-the-influence-it-had-on-your-favorite-game)
+ - [Magical girl anime inspired Naomi Osaka’s US Open outfits](https://www.polygon.com/anime/445451/naomi-osaka-magical-girl-tennis-outfit-inspo)
+ - [The Best Games To Pick Up During the ID@Xbox Sale](https://kotaku.com/best-indie-xbox-games-sale-deep-rock-warhammer-1851634755)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
