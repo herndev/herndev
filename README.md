@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Islamists are the far right extremists](http://9gag.com/gag/aZZm6XV)
- - ⏩ [Mock me if you must, but I&#39;m beyond happy right now.](http://9gag.com/gag/a34qO3r)
- - 👉 [Simple creatures](http://9gag.com/gag/amoY45d)<!-- MEMES:END -->
+ - 💣 [Simple creatures](http://9gag.com/gag/amoY45d)
+ - ⏩ [Who let the...](http://9gag.com/gag/avyGN55)
+ - 👉 [Ex-f**king-cuse me? This shit WASNT cgi?](http://9gag.com/gag/avyGKv5)<!-- MEMES:END -->
 
 ---
 
