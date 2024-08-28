@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I knew about this through 9gag now I&#39;m returning the favour to innocent curious minds, those assholes definitely should have gotten death sentences Japan law system is a f**king joke](http://9gag.com/gag/agmLwoq)
- - ⏩ [See you in hell](http://9gag.com/gag/arybQeK)
+ - 💣 [Unscrew yourself](http://9gag.com/gag/aZZmXmn)
+ - ⏩ [Two days of seeing things](http://9gag.com/gag/azx83Vm)
  - 👉 [Posture. When Ai costs too much](http://9gag.com/gag/avyGwOq)<!-- MEMES:END -->
 
 ---
