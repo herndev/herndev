@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The 26 must-read books of fall 2024](https://www.polygon.com/books/444069/book-preview-fall-2024)
- - [The Ultimate Walkthrough To Thank Goodness You&#39;re Here](https://kotaku.com/thank-goodness-youre-here-guide-walkthrough-1851633756)
- - [AOC announces what could be the cheapest OLED gaming monitors yet](https://www.pcgamer.com/hardware/gaming-monitors/aoc-announces-what-could-be-the-cheapest-oled-gaming-monitors-yet)<!-- GAME:END -->
+ - [The Xbox August Update Is Rolling Out with Updates to Cloud Gaming, Consoles, PC Gaming, and Accessories](https://news.xbox.com/en-us/2024/08/28/xbox-august-update-discord/)
+ - [Where To Find Every Essential NPC In Fortnite Chapter 5 Season 4](https://kotaku.com/fortnite-npc-location-chapter-5-season-4-guide-1851633971)
+ - [After claiming 8 GB on a Mac is like 16 GB on PC, Apple&#39;s rumoured to be finally making the jump to 16 GB](https://www.pcgamer.com/hardware/memory/after-claiming-8-gb-on-a-mac-is-like-16-gb-on-pc-apples-rumoured-to-be-finally-making-the-jump-to-16-gb)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
