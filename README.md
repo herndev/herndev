@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Indie Selects for August: End Summer with Some of Our Favorite New Launches](https://news.xbox.com/en-us/2024/08/28/indie-selects-id-xbox-august/)
- - [Evil was always more than the sum of its parts](https://www.polygon.com/tv/444900/evil-series-finale-review-good-cbs-kings)
- - [Nearly every Warhammer 40K game is on sale right now for up to 80% off](https://www.polygon.com/sales-guide/444489/warhammer-40k-deals-humble)<!-- GAME:END -->
+ - [CD Projekt dev explains how Geralt ended up in Balatro, and the answer will shock you: CD Projekt devs really like Balatro](https://www.pcgamer.com/games/card-games/cd-projekt-dev-explains-how-geralt-ended-up-in-balatro-and-the-answer-will-shock-you-cd-projekt-devs-really-like-balatro)
+ - [Bandai Namco and Amazon say no refunds as they kill off anime MMO Blue Protocol, but they&#39;ll give you 5,000 funbucks a month until it dies](https://www.pcgamer.com/games/mmo/bandai-namco-and-amazon-say-no-refunds-as-they-kill-off-anime-mmo-blue-protocol-but-theyll-give-you-5000-funbucks-a-month-until-it-dies)
+ - [Star Wars Outlaws is the most Star Wars a Star Wars game has been since Star Wars Galaxies](https://www.pcgamer.com/games/action/star-wars-outlaws-is-the-most-star-wars-a-star-wars-game-has-been-since-star-wars-galaxies)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
