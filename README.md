@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Escape Room Madness: Which Mad Experiments Game is for You?](https://news.xbox.com/en-us/2024/08/28/escape-room-madness-which-mad-experiments-game-is-for-you/)
- - [A Scene In The Sonic 3 Trailer Already Has Fans Theorizing About Sonic 4](https://kotaku.com/sonic-3-trailer-robotnik-metal-quill-theory-ending-1851634404)
- - [Comprehensive controller support turns Path of Exile 2 into a twin-stick titan](https://www.polygon.com/gamescom/445251/path-of-exile-2-hands-on-preview)<!-- GAME:END -->
+ - [Borderlands Is No Longer The Biggest Box Office Flop Of The Year](https://kotaku.com/the-crow-reboot-remake-box-office-flop-2024-borderlands-1851634462)
+ - [CD Projekt Wants To Do More Cyberpunk Animation Projects In the Future](https://kotaku.com/cybperunk-edgerunners-cd-projekt-animation-projects-1851634494)
+ - [Deadlock players are learning they can pause the match for the entire lobby, and some are using it for evil](https://www.pcgamer.com/games/moba/deadlock-players-are-learning-they-can-pause-the-match-for-the-entire-lobby-and-some-are-using-it-for-evil)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
