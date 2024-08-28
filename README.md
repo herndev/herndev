@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Tarzan in the flesh](http://9gag.com/gag/aAyd7K0)
- - ⏩ [Here is the reason why only 3-4 manufacturer of Semiconductor](http://9gag.com/gag/aZZm6P6)
- - 👉 [This Cop was Fired and is Facing a Million Dollar Lawsuit.](http://9gag.com/gag/aYQxX7x)<!-- MEMES:END -->
+ - 💣 [Posture. When Ai costs too much](http://9gag.com/gag/avyGwOq)
+ - ⏩ [Bro learned something that day](http://9gag.com/gag/agmLeQK)
+ - 👉 [Some games evolved backwards](http://9gag.com/gag/avyGwKZ)<!-- MEMES:END -->
 
 ---
 
