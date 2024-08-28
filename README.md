@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Two days of seeing things](http://9gag.com/gag/azx83Vm)
- - ⏩ [Posture. When Ai costs too much](http://9gag.com/gag/avyGwOq)
- - 👉 [Rebekah Valentine `Game Journalist` that wrote the Hit piece on Black Myth Wukong has left twitter.](http://9gag.com/gag/adB7zqB)<!-- MEMES:END -->
+ - 💣 [Posture. When Ai costs too much](http://9gag.com/gag/avyGwOq)
+ - ⏩ [Best devil in a movie? I\u2019ll start](http://9gag.com/gag/aGy1mMK)
+ - 👉 [Feminism is cancer](http://9gag.com/gag/aByWenN)<!-- MEMES:END -->
 
 ---
 
