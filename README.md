@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Now’s your chance to wirelessly access your Android phone through Windows](https://www.androidauthority.com/windows-wireless-android-phone-sharing-3476095/)
- - [Sources: OpenAI is in talks for a funding round valuing it above $100B; Thrive Capital is leading the round and will invest ~$1B, and Microsoft will also invest &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240828/p24#a240828p24)
- - [A US court rules TikTok must face a lawsuit over a 10-year-old&#39;s death and the &quot;blackout challenge&quot;, saying algorithmic curation isn&#39;t protected by Section 230 &lpar;Nate Raymond/Reuters&rpar;](http://www.techmeme.com/240828/p23#a240828p23)<!-- TECH:END -->
+ - [HP reports Q3 revenue up 2.4% YoY to $13.5B, vs. $13.4B est., Printing revenue down 3% to $4.14B, and increases its share repurchase authorization to $10B &lpar;Brody Ford/Bloomberg&rpar;](http://www.techmeme.com/240828/p28#a240828p28)
+ - [Apple Music now lets you easily transfer playlists to YouTube Music](https://www.theverge.com/2024/8/28/24230713/apple-youtube-music-transfer-playlist-feature)
+ - [Telegram CEO charged in French criminal investigation](https://www.theverge.com/2024/8/28/24230448/telegram-ceo-pavel-durov-charges-france)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
