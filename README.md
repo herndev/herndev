@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [One of the best](http://9gag.com/gag/amoYZno)
- - ⏩ [Afghanistan to Pakistan hashish and opium smuggling... Now this is a green company! No fossil fuel, just pure kinetic power....](http://9gag.com/gag/aVvq8BP)
- - 👉 [Extreme Culinary](http://9gag.com/gag/a0ebGjZ)<!-- MEMES:END -->
+ - 💣 [Father and son invented a sandbag that has no sand](http://9gag.com/gag/aMV85mx)
+ - ⏩ [A woman tries to make fun of a child](http://9gag.com/gag/aAyd9z0)
+ - 👉 [Look at this fantastic innovative gameplay](http://9gag.com/gag/a34qrb3)<!-- MEMES:END -->
 
 ---
 
