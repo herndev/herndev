@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nothing Phone 2a Plus would be the Nothing Phone I’d buy… if I didn’t live in the US](https://www.androidauthority.com/nothing-phone-2a-plus-review-3468425/)
- - [Big-name publishers are refusing to let Apple Intelligence train on data](https://appleinsider.com/articles/24/08/29/big-name-publishers-are-refusing-to-let-apple-intelligence-train-on-data?utm_medium=rss)
- - [Latest iOS beta makes it far easier to digest your friends’ long rants](https://www.androidauthority.com/ios-18-1-beta-3-notification-summaries-all-apps-3476322/)<!-- TECH:END -->
+ - [This 100W GaN charger is thin and foldable](https://www.theverge.com/2024/8/29/24231208/genki-turbocharger-100w-gan-charger-thin-foldable-price)
+ - [You can now use Gemini to analyze documents and create charts from spreadsheets](https://www.androidauthority.com/gemini-file-attachment-rollout-3476321/)
+ - [Anti-piracy group ACE says it worked with Hanoi police to shutter Hanoi-based Fmovies and its affiliates, &quot;the largest pirate streaming operation in the world&quot; &lpar;Katie Kilkenny/The Hollywood Reporter&rpar;](http://www.techmeme.com/240829/p19#a240829p19)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
