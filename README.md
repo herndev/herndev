@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [This 100W GaN charger is thin and foldable](https://www.theverge.com/2024/8/29/24231208/genki-turbocharger-100w-gan-charger-thin-foldable-price)
- - [You can now use Gemini to analyze documents and create charts from spreadsheets](https://www.androidauthority.com/gemini-file-attachment-rollout-3476321/)
- - [Anti-piracy group ACE says it worked with Hanoi police to shutter Hanoi-based Fmovies and its affiliates, &quot;the largest pirate streaming operation in the world&quot; &lpar;Katie Kilkenny/The Hollywood Reporter&rpar;](http://www.techmeme.com/240829/p19#a240829p19)<!-- TECH:END -->
+ - [13 ways tech has made my life worse](https://www.androidauthority.com/ways-tech-made-my-life-worse-3475699/)
+ - [Meta says its Llama models were downloaded ~350M times, are used by AT&amp;T and other companies, and usage via cloud providers more than doubled from May to July &lpar;Katie Paul/Reuters&rpar;](http://www.techmeme.com/240829/p20#a240829p20)
+ - [Powerful Spyware Exploits Enable a New String of ‘Watering Hole’ Attacks](https://www.wired.com/story/russia-cozy-bear-watering-hole-attacks/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
