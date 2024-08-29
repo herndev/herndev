@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Payload deployed](http://9gag.com/gag/amoYwEv)
- - ⏩ [Gamestop return.](http://9gag.com/gag/abAp8OB)
- - 👉 [Here is the reason why only 3-4 manufacturer of Semiconductor](http://9gag.com/gag/aZZm6P6)<!-- MEMES:END -->
+ - 💣 [Look at this fantastic innovative gameplay](http://9gag.com/gag/a34qrb3)
+ - ⏩ [Main character of the friend group gets humbled FAST](http://9gag.com/gag/aAydzLR)
+ - 👉 [Where were these morally questionable woman back in my days](http://9gag.com/gag/a7orRxx)<!-- MEMES:END -->
 
 ---
 
