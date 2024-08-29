@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [See you in hell](http://9gag.com/gag/arybQeK)
- - ⏩ [How in the world?](http://9gag.com/gag/an7b6Dn)
- - 👉 [Just your turn...](http://9gag.com/gag/aqyb3wv)<!-- MEMES:END -->
+ - 💣 [Bitterness Abounds](http://9gag.com/gag/aQz9Lw7)
+ - ⏩ [AI the ultimate genie](http://9gag.com/gag/a9yrQyW)
+ - 👉 [Main character of the friend group gets humbled FAST](http://9gag.com/gag/aAydzLR)<!-- MEMES:END -->
 
 ---
 
