@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Randy Pitchford says Tiny Tina&#39;s Wonderlands didn&#39;t get DLC because there was &#39;no way to do that and put the focus on Borderlands 4 that we needed to&#39;](https://www.pcgamer.com/games/fps/randy-pitchford-says-tiny-tinas-wonderlands-didnt-get-dlc-because-there-was-no-way-to-do-that-and-put-the-focus-on-borderlands-4-that-we-needed-to)
- - [In survival MMO Dune: Awakening players can &#39;see just a little bit into the future&#39; once they get &#39;saturated with spice&#39;](https://www.pcgamer.com/games/mmo/in-survival-mmo-dune-awakening-players-can-see-just-a-little-bit-into-the-future-once-they-get-saturated-with-spice)
- - [Rings of Power’s Celebrimbor plot is adapting a myth, not a book](https://www.polygon.com/lotr-rings-of-power/445583/lord-celebrimbor-sauron-annatar)<!-- GAME:END -->
+ - [Dimension 20’s raucous live shows come to Dropout next month](https://www.polygon.com/trailer/445986/dimension-20s-raucous-live-shows-come-to-dropout-next-month)
+ - [Get This Generation’s Most Inventive Stealth Games On Sale](https://kotaku.com/hitman-world-of-assassination-sale-playstation-1851636254)
+ - [Dustborn: The Kotaku Review](https://kotaku.com/dustborn-review-red-thread-games-quantic-dream-pax-ps5-1851636258)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
