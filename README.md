@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Phone Link’s Instant Hotspot feature is no longer exclusive to Samsung phones](https://www.androidauthority.com/android-instant-hotspot-windows-pc-3476424/)
- - [Apple&#39;s 16-inch MacBook Pro is $500 off at Amazon](https://appleinsider.com/articles/24/08/29/apples-16-inch-macbook-pro-is-500-off-at-amazon?utm_medium=rss)
- - [A demure and mindful trademark investigation](https://www.theverge.com/24230813/demure-mindful-trademark-uspto-explainer-jools-lebron)<!-- TECH:END -->
+ - [Bluesky adds ‘anti-toxicity’ options to limit dogpiling and hostile quote posts](https://www.theverge.com/2024/8/29/24231414/bluesky-anti-toxicity-features-detach-posts-from-quotes)
+ - [Remedy partners with Annapurna for Control 2 and potential film and TV adaptations](https://www.theverge.com/2024/8/29/24231469/control-sequel-movie-tv-remedy-annapurna)
+ - [Future Apple iPhone cases may incorporate extra Action Buttons](https://appleinsider.com/articles/24/08/29/future-apple-iphone-cases-may-incorporate-extra-action-buttons?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
