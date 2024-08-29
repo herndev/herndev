@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Not funny](http://9gag.com/gag/aRBmpWM)
- - ⏩ [Rapture on order](http://9gag.com/gag/aLnDyQW)
- - 👉 [One of the best](http://9gag.com/gag/amoYZno)<!-- MEMES:END -->
+ - 💣 [HR Math](http://9gag.com/gag/aW4mwL3)
+ - ⏩ [A Clean Neighbour](http://9gag.com/gag/apRpO1p)
+ - 👉 [Main character of the friend group gets humbled FAST](http://9gag.com/gag/aAydzLR)<!-- MEMES:END -->
 
 ---
 
