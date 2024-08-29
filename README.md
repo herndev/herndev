@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [F**k you and goodnight.](http://9gag.com/gag/aNDANxA)
- - ⏩ [A sega classic](http://9gag.com/gag/a7orYz2)
- - 👉 [I don&#39;t think they are women.](http://9gag.com/gag/adB7EzM)<!-- MEMES:END -->
+ - 💣 [Not funny](http://9gag.com/gag/aRBmpWM)
+ - ⏩ [Rapture on order](http://9gag.com/gag/aLnDyQW)
+ - 👉 [One of the best](http://9gag.com/gag/amoYZno)<!-- MEMES:END -->
 
 ---
 
