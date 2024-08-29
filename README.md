@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Rings of Power&amp;#8217;s the Stranger actor digs into his own mystery and the Tom Bombadil of it all](https://www.polygon.com/lotr-rings-of-power/445177/lord-rings-powers-who-stranger-season-2-tom-bombadil-interview)
- - [I desperately want a &#39;cheap&#39; OLED upgrade but there&#39;s no way I&#39;m ditching a 32-inch monitor to do it](https://www.pcgamer.com/hardware/gaming-monitors/i-desperately-want-a-cheap-oled-upgrade-but-theres-no-way-im-ditching-a-32-inch-monitor-to-do-it)
- - [I would bet money that Metal Gear Solid 4 is PC-bound after Konami tells fans they can &#39;probably connect the dots&#39; about its inclusion on Master Collection volume 2](https://www.pcgamer.com/games/action/i-would-bet-money-that-metal-gear-solid-4-is-pc-bound-after-konami-tells-fans-they-can-probably-connect-the-dots-about-its-inclusion-on-master-collection-volume-2)<!-- GAME:END -->
+ - [Our favourite city builder of last year is releasing its first expansion next month, and it brings a new biome, new buildings and, oh yes, frog people](https://www.pcgamer.com/games/strategy/our-favourite-city-builder-of-last-year-is-releasing-its-first-expansion-next-month-and-it-brings-a-new-biome-new-buildings-and-oh-yes-frog-people)
+ - [World of Warcraft might finally have nailed solo dungeons with Delves](https://www.polygon.com/world-of-warcraft/445135/wow-war-within-delves)
+ - [Achievement Unlocked! Back to School Gifts For Even Hard-to-Please Gamers](https://kotaku.com/achievement-unlocked-back-to-school-gifts-for-even-har-1851630491)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
