@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Good](http://9gag.com/gag/arybjL7)
- - ⏩ [Where were these morally questionable woman back in my days](http://9gag.com/gag/a7orRxx)
- - 👉 [Kaiju no.W](http://9gag.com/gag/aByWAXZ)<!-- MEMES:END -->
+ - 💣 [I\u2019m not fooking paying that!](http://9gag.com/gag/aByW7VP)
+ - ⏩ [Funny coz](http://9gag.com/gag/aW4mwjZ)
+ - 👉 [AI the ultimate genie](http://9gag.com/gag/a9yrQyW)<!-- MEMES:END -->
 
 ---
 
