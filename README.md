@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Tasks may soon make it even easier to procrastinate &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-tasks-rescheduling-3476579/)
- - [Save $300 on the Anker EverFrost 30 Powered Cooler and upgrade your summer outings](https://www.androidauthority.com/anker-everfrost-30-powered-cooler-deal-3476588/)
- - [Sources: Nvidia, Apple, and Microsoft, the three most valuable tech companies, are in talks to join the funding round that would value OpenAI at over $100B &lpar;Bloomberg&rpar;](http://www.techmeme.com/240829/p27#a240829p27)<!-- TECH:END -->
+ - [Mark your calendar: Samsung announces date for SDC 2024](https://www.androidauthority.com/samsung-sdc-2024-date-3476612/)
+ - [The Google Weather app for Wear OS now has a more detailed forecast tile](https://www.androidauthority.com/google-weather-forecast-tile-update-3476623/)
+ - [The iPhone’s volume buttons will no longer work with Spotify Connect](https://www.theverge.com/2024/8/29/24231516/spotify-apple-physical-iphone-volume-controls)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
