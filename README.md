@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Remedy is leaving Epic in the dark place to self-publish Control 2 through a &#39;strategic cooperation agreement&#39; with Annapurna](https://www.pcgamer.com/games/action/remedy-is-leaving-epic-in-the-dark-place-to-self-publish-control-2-through-a-strategic-cooperation-agreement-with-annapurna)
- - [Here&#39;s Our First Look At The New Jurassic Park Movie](https://kotaku.com/jurassic-park-world-4-rebirth-trailer-screenshots-2025-1851636033)
- - [MOBAs are suddenly back in fashion, and one dev says it might be because of soulslikes: &#39;Now that more players understand that it feels great to master a difficult game, I think more are willing to take that journey&#39;](https://www.pcgamer.com/games/moba/mobas-are-suddenly-back-in-fashion-and-one-dev-says-it-might-be-because-of-soulslikes-now-that-more-players-understand-that-it-feels-great-to-master-a-difficult-game-i-think-more-are-willing-to-take-that-journey)<!-- GAME:END -->
+ - [Randy Pitchford says Tiny Tina&#39;s Wonderlands didn&#39;t get DLC because there was &#39;no way to do that and put the focus on Borderlands 4 that we needed to&#39;](https://www.pcgamer.com/games/fps/randy-pitchford-says-tiny-tinas-wonderlands-didnt-get-dlc-because-there-was-no-way-to-do-that-and-put-the-focus-on-borderlands-4-that-we-needed-to)
+ - [In survival MMO Dune: Awakening players can &#39;see just a little bit into the future&#39; once they get &#39;saturated with spice&#39;](https://www.pcgamer.com/games/mmo/in-survival-mmo-dune-awakening-players-can-see-just-a-little-bit-into-the-future-once-they-get-saturated-with-spice)
+ - [Rings of Power’s Celebrimbor plot is adapting a myth, not a book](https://www.polygon.com/lotr-rings-of-power/445583/lord-celebrimbor-sauron-annatar)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
