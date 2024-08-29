@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Dating in 2024...](http://9gag.com/gag/aNDAbPw)
- - ⏩ [Dean Clifford - Butterfly skin, Iron heart. He also benchpressed 150kgs](http://9gag.com/gag/adB7mON)
- - 👉 [Two days of seeing things](http://9gag.com/gag/azx83Vm)<!-- MEMES:END -->
+ - 💣 [I\u2019m not fooking paying that!](http://9gag.com/gag/aByW7VP)
+ - ⏩ [See you in hell](http://9gag.com/gag/arybQeK)
+ - 👉 [Where were these morally questionable woman back in my days](http://9gag.com/gag/a7orRxx)<!-- MEMES:END -->
 
 ---
 
