@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Media: Pavel Durov&#39;s lawyer says it is &quot;totally absurd to think that the head of a social network could be involved in criminal acts that do not concern him&quot; &lpar;Reuters&rpar;](http://www.techmeme.com/240829/p15#a240829p15)
- - [Mac App Store apps can now be installed on external drives](https://appleinsider.com/articles/24/08/29/mac-app-store-apps-can-now-be-installed-on-external-drives?utm_medium=rss)
- - [Sources: the Netherlands PM Dick Schoof will likely not renew some ASML licenses to service and provide spare parts in China when they expire at the end of 2024 &lpar;Bloomberg&rpar;](http://www.techmeme.com/240829/p14#a240829p14)<!-- TECH:END -->
+ - [Nothing Phone 2a Plus would be the Nothing Phone I’d buy… if I didn’t live in the US](https://www.androidauthority.com/nothing-phone-2a-plus-review-3468425/)
+ - [Big-name publishers are refusing to let Apple Intelligence train on data](https://appleinsider.com/articles/24/08/29/big-name-publishers-are-refusing-to-let-apple-intelligence-train-on-data?utm_medium=rss)
+ - [Latest iOS beta makes it far easier to digest your friends’ long rants](https://www.androidauthority.com/ios-18-1-beta-3-notification-summaries-all-apps-3476322/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
