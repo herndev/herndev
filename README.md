@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Here is the reason why only 3-4 manufacturer of Semiconductor](http://9gag.com/gag/aZZm6P6)
- - ⏩ [If someone gives you warning, its better to listen to it](http://9gag.com/gag/aAydjxo)
- - 👉 [A Clean Neighbour](http://9gag.com/gag/apRpO1p)<!-- MEMES:END -->
+ - 💣 [See you in hell](http://9gag.com/gag/arybQeK)
+ - ⏩ [How in the world?](http://9gag.com/gag/an7b6Dn)
+ - 👉 [Just your turn...](http://9gag.com/gag/aqyb3wv)<!-- MEMES:END -->
 
 ---
 
