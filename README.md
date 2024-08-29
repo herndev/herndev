@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Damian Gath, 52, British man with Parkinson&#39;s disease, first diagnosed 12 years ago, has been taking a new drug called Produodopa, which has recently been approved](http://9gag.com/gag/a0eb2GX)
- - ⏩ [F**k you and goodnight.](http://9gag.com/gag/aNDANxA)
- - 👉 [A sega classic](http://9gag.com/gag/a7orYz2)<!-- MEMES:END -->
+ - 💣 [Remember to empty your arms if you sit a lot](http://9gag.com/gag/ayNDg8W)
+ - ⏩ [F up and find out.... Apparently they asked them to turn down the loud music](http://9gag.com/gag/aAydWVE)
+ - 👉 [Gamestop return.](http://9gag.com/gag/abAp8OB)<!-- MEMES:END -->
 
 ---
 
