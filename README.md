@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Monster Hunter Wilds and its 10-hour Gamescom queue was the star of the show, proving the series has truly entered the mainstream](https://www.pcgamer.com/games/rpg/monster-hunter-wilds-10-hour-gamescom-queue-was-the-star-of-the-show-proving-the-series-has-truly-entered-the-mainstream)
- - [Today&#39;s Wordle answer for Thursday, August 29](https://www.pcgamer.com/games/puzzle/wordle-answer-today-august-29-2024)
- - [Garth Nix’s Dungeons &amp;#038; Dragons fandom is all over his upcoming alien-invasion book](https://www.polygon.com/dnd-dungeons-dragons/444967/garth-nix-interview-excerpt-10-year-old-overlord)<!-- GAME:END -->
+ - [Rings of Power&amp;#8217;s the Stranger actor digs into his own mystery and the Tom Bombadil of it all](https://www.polygon.com/lotr-rings-of-power/445177/lord-rings-powers-who-stranger-season-2-tom-bombadil-interview)
+ - [I desperately want a &#39;cheap&#39; OLED upgrade but there&#39;s no way I&#39;m ditching a 32-inch monitor to do it](https://www.pcgamer.com/hardware/gaming-monitors/i-desperately-want-a-cheap-oled-upgrade-but-theres-no-way-im-ditching-a-32-inch-monitor-to-do-it)
+ - [I would bet money that Metal Gear Solid 4 is PC-bound after Konami tells fans they can &#39;probably connect the dots&#39; about its inclusion on Master Collection volume 2](https://www.pcgamer.com/games/action/i-would-bet-money-that-metal-gear-solid-4-is-pc-bound-after-konami-tells-fans-they-can-probably-connect-the-dots-about-its-inclusion-on-master-collection-volume-2)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
