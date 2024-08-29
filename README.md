@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Just your turn...](http://9gag.com/gag/aqyb3wv)
- - ⏩ [Rapture on order](http://9gag.com/gag/aLnDyQW)
- - 👉 [A Clean Neighbour](http://9gag.com/gag/apRpO1p)<!-- MEMES:END -->
+ - 💣 [HR Math](http://9gag.com/gag/aW4mwL3)
+ - ⏩ [I\u2019m not fooking paying that!](http://9gag.com/gag/aByW7VP)
+ - 👉 [Never nuke a country twice?](http://9gag.com/gag/aoy1Bq3)<!-- MEMES:END -->
 
 ---
 
