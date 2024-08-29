@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [AI the ultimate genie](http://9gag.com/gag/a9yrQyW)
- - ⏩ [The most german dude ever](http://9gag.com/gag/a0eb2ZQ)
- - 👉 [Funny coz](http://9gag.com/gag/aW4mwjZ)<!-- MEMES:END -->
+ - 💣 [Just your turn...](http://9gag.com/gag/aqyb3wv)
+ - ⏩ [Rapture on order](http://9gag.com/gag/aLnDyQW)
+ - 👉 [A Clean Neighbour](http://9gag.com/gag/apRpO1p)<!-- MEMES:END -->
 
 ---
 
