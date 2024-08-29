@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I\u2019m not fooking paying that!](http://9gag.com/gag/aByW7VP)
- - ⏩ [Funny coz](http://9gag.com/gag/aW4mwjZ)
- - 👉 [AI the ultimate genie](http://9gag.com/gag/a9yrQyW)<!-- MEMES:END -->
+ - 💣 [Here is the reason why only 3-4 manufacturer of Semiconductor](http://9gag.com/gag/aZZm6P6)
+ - ⏩ [If someone gives you warning, its better to listen to it](http://9gag.com/gag/aAydjxo)
+ - 👉 [A Clean Neighbour](http://9gag.com/gag/apRpO1p)<!-- MEMES:END -->
 
 ---
 
