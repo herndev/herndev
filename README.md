@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Look at this fantastic innovative gameplay](http://9gag.com/gag/a34qrb3)
- - ⏩ [Main character of the friend group gets humbled FAST](http://9gag.com/gag/aAydzLR)
- - 👉 [Where were these morally questionable woman back in my days](http://9gag.com/gag/a7orRxx)<!-- MEMES:END -->
+ - 💣 [Dating in 2024...](http://9gag.com/gag/aNDAbPw)
+ - ⏩ [Dean Clifford - Butterfly skin, Iron heart. He also benchpressed 150kgs](http://9gag.com/gag/adB7mON)
+ - 👉 [Two days of seeing things](http://9gag.com/gag/azx83Vm)<!-- MEMES:END -->
 
 ---
 
