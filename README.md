@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Star Wars Outlaws: Breaking Down the Syndicates of the Underworld](https://news.xbox.com/en-us/2024/08/29/star-wars-outlaws-syndicates/)
- - [Some Star Wars Outlaws Early Access Players Are Being Forced To Restart And Lose All Their Progress](https://kotaku.com/star-wars-outlaws-early-access-progress-restart-ps5-1851635600)
- - [Visions Of Mana Is A 30-Hour RPG You Can Make Last Twice As Long](https://kotaku.com/how-long-is-visions-of-mana-square-enix-rpg-1851635405)<!-- GAME:END -->
+ - [Gori: Cuddly Carnage Kick Flips Onto Xbox Series X|S and Xbox One Today](https://news.xbox.com/en-us/2024/08/29/gori-cuddly-carnage-kick-flips-onto-xbox-series-xs-and-xbox-one-today/)
+ - [The best piece of tech I&amp;#8217;ve bought in years is this funky little e-reader](https://www.polygon.com/deals/445205/kobo-libra-e-reader)
+ - [Star Wars Outlaws expert locations and every ability](https://www.pcgamer.com/games/action/star-wars-outlaws-experts-abilities-locations)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
