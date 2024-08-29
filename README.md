@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Kuo: in the 2025 iPhone lineup, only iPhone 17 Pro Max will feature 12GB DRAM and an upgraded cooling system combining vapor chamber tech and graphite sheets &lpar;Eric Slivka/MacRumors&rpar;](http://www.techmeme.com/240829/p1#a240829p1)
  - [It’s almost time for a new Google Clock widget &lpar;Update: Rolling out&rpar;](https://www.androidauthority.com/new-google-clock-widget-3472756/)
- - [Today&#39;s NYT Strands Hints, Answers and Help for Aug. 29, #179](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-aug-29-179/#ftag=CAD590a51e)
- - [Today&#39;s NYT Connections Hints, Answers and Help for Aug. 29 #445](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-aug-29-445/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Today&#39;s NYT Strands Hints, Answers and Help for Aug. 29, #179](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-aug-29-179/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
