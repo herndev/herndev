@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Apple is in talks to invest in OpenAI as part of a new fundraising round that would value the ChatGPT maker above $100B &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240829/p25#a240829p25)
- - [Magic, which makes AI tools for coding and to automate software development tasks, raised $320M from Eric Schmidt and others, bringing its total raised to $465M &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240829/p24#a240829p24)
- - [Jurassic World Rebirth comes out next year](https://www.theverge.com/2024/8/29/24231524/jurassic-world-rebirth-2025-scarlett-johansson)<!-- TECH:END -->
+ - [Michael Lacey, co-founder of the classified ad site Backpage, gets five years in prison and a $3M fine for money laundering; two other executives get 10 years &lpar;New York Times&rpar;](http://www.techmeme.com/240829/p26#a240829p26)
+ - [Apple again said to be considering investing in ChatGPT maker OpenAI](https://appleinsider.com/articles/24/08/29/apple-again-said-to-be-considering-investing-in-chatgpt-maker-openai?utm_medium=rss)
+ - [The Nintendo Switch is receiving a rare $30 discount](https://www.theverge.com/2024/8/29/24230878/nintendo-switch-samsung-music-frame-speaker-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
