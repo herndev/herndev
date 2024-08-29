@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Is Snapchat not working for you? Here’s how you can try to fix it](https://www.androidauthority.com/snapchat-not-working-how-to-fix-977763/)
- - [Automattic plans to shift Tumblr&#39;s backend over to WordPress, in a bid to make sharing work across the platforms easier, after buying Tumblr for $3M in 2019 &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/240829/p7#a240829p7)
- - [You can now test YouTube’s comment topics feature in all languages](https://www.androidauthority.com/youtube-comment-topics-all-languages-3476260/)<!-- TECH:END -->
+ - [University of Wisconsin denied new trial in decade-long chip patent battle against Apple](https://appleinsider.com/articles/24/08/29/university-of-wisconsin-denied-new-trial-in-decade-long-chip-patent-battle-against-apple?utm_medium=rss)
+ - [Chinese state media: a Chinese official says the government has invested $6.12B+ in a nationwide project to build computing data centers over the past years &lpar;Reuters&rpar;](http://www.techmeme.com/240829/p11#a240829p11)
+ - [Everything new in the third round of Apple Intelligence developer betas](https://appleinsider.com/articles/24/08/28/everything-new-in-apples-third-round-of-developer-betas?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
