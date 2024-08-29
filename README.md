@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sony’s limited edition Astro Bot controller is up for preorder again](https://www.theverge.com/24215774/astro-bot-limited-edition-dualsense-wireless-controller-preorder-price-release-date-ps5)
- - [ChatGPT’s weekly users have doubled in less than a year](https://www.theverge.com/2024/8/29/24231685/openai-chatgpt-200-million-weekly-users)
- - [Gemini can now help you search through your cluttered Gmail inbox on Android phones](https://www.androidauthority.com/gmail-app-gemini-qna-3476651/)<!-- TECH:END -->
+ - [Meta is opening up Horizon Worlds to users aged 10 to 12 with parental approval, and rolls out a new age rating system for worlds to help parents supervise kids &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/240829/p31#a240829p31)
+ - [Android will no longer call slow chargers ‘fast,’ but only on Pixel 9 so far](https://www.androidauthority.com/pixel-9-charging-rapidly-lock-screen-3476687/)
+ - [Sonos opens a Trello board so we can see how it’s fixing the busted app](https://www.theverge.com/2024/8/29/24231766/sonos-trello-board-fix-busted-app)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
