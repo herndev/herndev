@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [It’s almost time for a new Google Clock widget &lpar;Update: Rolling out&rpar;](https://www.androidauthority.com/new-google-clock-widget-3472756/)
  - [Today&#39;s NYT Strands Hints, Answers and Help for Aug. 29, #179](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-aug-29-179/#ftag=CAD590a51e)
- - [Today&#39;s NYT Connections Hints, Answers and Help for Aug. 29 #445](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-aug-29-445/#ftag=CAD590a51e)
- - [Today&#39;s Wordle Hints, Answer and Help for Aug. 29, #1167](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-aug-29-1167/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Today&#39;s NYT Connections Hints, Answers and Help for Aug. 29 #445](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-aug-29-445/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
