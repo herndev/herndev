@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Garth Nix’s Dungeons &amp;#038; Dragons fandom is all over his upcoming alien-invasion book](https://www.polygon.com/dnd-dungeons-dragons/444967/garth-nix-interview-excerpt-10-year-old-overlord)
  - [Crypt Custodian review](https://www.pcgamer.com/games/adventure/crypt-custodian-review)
- - [Just over a year after it launched on PC, Warner Bros is shutting down Harry Potter: Magic Awakened](https://www.pcgamer.com/games/just-over-a-year-after-it-launched-on-pc-warner-bros-is-shutting-down-harry-potter-magic-awakened)
- - [With a mix of RTS and deckbuilding, Warcana is truly one of the strangest genre patchworks I&#39;ve ever seen](https://www.pcgamer.com/games/strategy/with-a-mix-of-rts-and-deckbuilding-warcana-is-truly-one-of-the-strangest-genre-patchworks-ive-ever-seen)<!-- GAME:END -->
+ - [Just over a year after it launched on PC, Warner Bros is shutting down Harry Potter: Magic Awakened](https://www.pcgamer.com/games/just-over-a-year-after-it-launched-on-pc-warner-bros-is-shutting-down-harry-potter-magic-awakened)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
