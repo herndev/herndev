@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I\u2019m not fooking paying that!](http://9gag.com/gag/aByW7VP)
- - ⏩ [Main character of the friend group gets humbled FAST](http://9gag.com/gag/aAydzLR)
- - 👉 [Dating in 2024...](http://9gag.com/gag/aNDAbPw)<!-- MEMES:END -->
+ - 💣 [Dating in 2024...](http://9gag.com/gag/aNDAbPw)
+ - ⏩ [Not funny](http://9gag.com/gag/aRBmpWM)
+ - 👉 [Truth about Indian street food](http://9gag.com/gag/aQz9GR8)<!-- MEMES:END -->
 
 ---
 
