@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [I went to a Hololive concert and now I’m convinced VTubers can do anything](https://www.polygon.com/culture/445206/hololive-breaking-dimensions-concert-vtubers)
- - [Free Play Days – Age of Waters and Outbreak](https://news.xbox.com/en-us/2024/08/29/free-play-days-age-of-waters-and-outbreak/)
- - [Astro Bot is the best argument for the PS5’s DualSense controller](https://www.polygon.com/gaming/444895/astro-bot-ps5-dualsense-controller)<!-- GAME:END -->
+ - [Star Wars Outlaws: Breaking Down the Syndicates of the Underworld](https://news.xbox.com/en-us/2024/08/29/star-wars-outlaws-syndicates/)
+ - [Some Star Wars Outlaws Early Access Players Are Being Forced To Restart And Lose All Their Progress](https://kotaku.com/star-wars-outlaws-early-access-progress-restart-ps5-1851635600)
+ - [Visions Of Mana Is A 30-Hour RPG You Can Make Last Twice As Long](https://kotaku.com/how-long-is-visions-of-mana-square-enix-rpg-1851635405)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
