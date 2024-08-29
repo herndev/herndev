@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Michael Lacey, co-founder of the classified ad site Backpage, gets five years in prison and a $3M fine for money laundering; two other executives get 10 years &lpar;New York Times&rpar;](http://www.techmeme.com/240829/p26#a240829p26)
- - [Apple again said to be considering investing in ChatGPT maker OpenAI](https://appleinsider.com/articles/24/08/29/apple-again-said-to-be-considering-investing-in-chatgpt-maker-openai?utm_medium=rss)
- - [The Nintendo Switch is receiving a rare $30 discount](https://www.theverge.com/2024/8/29/24230878/nintendo-switch-samsung-music-frame-speaker-deal-sale)<!-- TECH:END -->
+ - [Google Tasks may soon make it even easier to procrastinate &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-tasks-rescheduling-3476579/)
+ - [Save $300 on the Anker EverFrost 30 Powered Cooler and upgrade your summer outings](https://www.androidauthority.com/anker-everfrost-30-powered-cooler-deal-3476588/)
+ - [Sources: Nvidia, Apple, and Microsoft, the three most valuable tech companies, are in talks to join the funding round that would value OpenAI at over $100B &lpar;Bloomberg&rpar;](http://www.techmeme.com/240829/p27#a240829p27)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
