@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I\u2019m not fooking paying that!](http://9gag.com/gag/aByW7VP)
- - ⏩ [See you in hell](http://9gag.com/gag/arybQeK)
- - 👉 [Where were these morally questionable woman back in my days](http://9gag.com/gag/a7orRxx)<!-- MEMES:END -->
+ - 💣 [Bitterness Abounds](http://9gag.com/gag/aQz9Lw7)
+ - ⏩ [Oh, long Johnson](http://9gag.com/gag/a1mb3Db)
+ - 👉 [Sad](http://9gag.com/gag/aGy1Qw0)<!-- MEMES:END -->
 
 ---
 
