@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [PSA: Getting annoyed by fall damage in Star Wars Outlaws? Grab this early game charm](https://www.pcgamer.com/games/action/star-wars-outlaws-fall-damage-tooka-paw)
- - [Deadlock has guns, but that doesn&#39;t make it a shooter](https://www.pcgamer.com/games/moba/deadlock-has-guns-but-that-doesn-t-make-it-a-shooter)
- - [How to find experts and unlock abilities in Star Wars Outlaws](https://www.polygon.com/star-wars-outlaws-guides/445441/all-abilities-experts-locations-where-to-find)<!-- GAME:END -->
+ - [Sid Meier was apparently baffled by the decision to launch Civilization 5 without Genghis Khan: &#39;Sid said, What?&#39;](https://www.pcgamer.com/games/strategy/sid-meier-was-apparently-baffled-by-the-decision-to-launch-civilization-5-without-genghis-khan-sid-said-what)
+ - [Everything you want to know about the Rings of Power in Rings of Power](https://www.polygon.com/23403117/lord-rings-power-elven-rings-powers-galadriel-elrond)
+ - [World of Warcraft: The War Within review](https://www.pcgamer.com/games/world-of-warcraft/world-of-warcraft-the-war-within-review)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
