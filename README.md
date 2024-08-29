@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Play Store finally lets you download multiple app updates at once](https://www.androidauthority.com/google-play-store-simultaneous-download-multiple-app-updates-3475868/)
- - [Russians, from Kremlin officials to Putin&#39;s harshest critics, see Telegram as a source of both uncensored info, including on Ukraine, and problematic content &lpar;Bloomberg&rpar;](http://www.techmeme.com/240829/p2#a240829p2)
- - [Kuo: in the 2025 iPhone lineup, only iPhone 17 Pro Max will feature 12GB DRAM and an upgraded cooling system combining vapor chamber tech and graphite sheets &lpar;Eric Slivka/MacRumors&rpar;](http://www.techmeme.com/240829/p1#a240829p1)<!-- TECH:END -->
+ - [A major Android brand could copy one of the iPhone 16’s biggest highlights](https://www.androidauthority.com/oppo-capture-button-quick-button-apple-iphone-16-3476241/)
+ - [As Chinese EV manufacturers consolidate and close, EV owners say they&#39;re losing access to smartphone app updates and features that rely on cloud services &lpar;Tianyu Fang/Rest of World&rpar;](http://www.techmeme.com/240829/p5#a240829p5)
+ - [Apple finally has an answer to Magic Eraser, and we’ve tried it](https://www.androidauthority.com/ios-beta-clean-up-photos-3476238/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
