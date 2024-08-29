@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Monster Hunter Wilds and its 10-hour Gamescom queue was the star of the show, proving the series has truly entered the mainstream](https://www.pcgamer.com/games/rpg/monster-hunter-wilds-10-hour-gamescom-queue-was-the-star-of-the-show-proving-the-series-has-truly-entered-the-mainstream)
  - [Today&#39;s Wordle answer for Thursday, August 29](https://www.pcgamer.com/games/puzzle/wordle-answer-today-august-29-2024)
- - [Garth Nix’s Dungeons &amp;#038; Dragons fandom is all over his upcoming alien-invasion book](https://www.polygon.com/dnd-dungeons-dragons/444967/garth-nix-interview-excerpt-10-year-old-overlord)
- - [Crypt Custodian review](https://www.pcgamer.com/games/adventure/crypt-custodian-review)<!-- GAME:END -->
+ - [Garth Nix’s Dungeons &amp;#038; Dragons fandom is all over his upcoming alien-invasion book](https://www.polygon.com/dnd-dungeons-dragons/444967/garth-nix-interview-excerpt-10-year-old-overlord)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
