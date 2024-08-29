@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [University of Wisconsin denied new trial in decade-long chip patent battle against Apple](https://appleinsider.com/articles/24/08/29/university-of-wisconsin-denied-new-trial-in-decade-long-chip-patent-battle-against-apple?utm_medium=rss)
- - [Chinese state media: a Chinese official says the government has invested $6.12B+ in a nationwide project to build computing data centers over the past years &lpar;Reuters&rpar;](http://www.techmeme.com/240829/p11#a240829p11)
- - [Everything new in the third round of Apple Intelligence developer betas](https://appleinsider.com/articles/24/08/28/everything-new-in-apples-third-round-of-developer-betas?utm_medium=rss)<!-- TECH:END -->
+ - [Media: Pavel Durov&#39;s lawyer says it is &quot;totally absurd to think that the head of a social network could be involved in criminal acts that do not concern him&quot; &lpar;Reuters&rpar;](http://www.techmeme.com/240829/p15#a240829p15)
+ - [Mac App Store apps can now be installed on external drives](https://appleinsider.com/articles/24/08/29/mac-app-store-apps-can-now-be-installed-on-external-drives?utm_medium=rss)
+ - [Sources: the Netherlands PM Dick Schoof will likely not renew some ASML licenses to service and provide spare parts in China when they expire at the end of 2024 &lpar;Bloomberg&rpar;](http://www.techmeme.com/240829/p14#a240829p14)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
