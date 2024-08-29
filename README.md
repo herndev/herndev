@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Our favourite city builder of last year is releasing its first expansion next month, and it brings a new biome, new buildings and, oh yes, frog people](https://www.pcgamer.com/games/strategy/our-favourite-city-builder-of-last-year-is-releasing-its-first-expansion-next-month-and-it-brings-a-new-biome-new-buildings-and-oh-yes-frog-people)
- - [World of Warcraft might finally have nailed solo dungeons with Delves](https://www.polygon.com/world-of-warcraft/445135/wow-war-within-delves)
- - [Achievement Unlocked! Back to School Gifts For Even Hard-to-Please Gamers](https://kotaku.com/achievement-unlocked-back-to-school-gifts-for-even-har-1851630491)<!-- GAME:END -->
+ - [This Lord of the Rings Middle-earth map will help you navigate The Rings of Power](https://www.polygon.com/23331136/lord-of-the-rings-middle-earth-map-rings-of-power)
+ - [Dev studio returns 20 years after it stopped existing to remaster PS1 banger Croc, and it&#39;s destroyed my relationship with my colleagues](https://www.pcgamer.com/games/action/dev-studio-returns-20-years-after-it-stopped-existing-to-remaster-ps1-banger-croc-and-its-destroyed-my-relationship-with-my-colleagues)
+ - [The 25 best games on Game Pass](https://www.polygon.com/best-games/22372750/best-game-pass-games-xbox)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
