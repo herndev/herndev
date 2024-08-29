@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Yelp files antitrust suit against Google over monopolistic local search practices](https://www.androidauthority.com/yelp-google-antitrust-3476169/)
- - [California&#39;s State Assembly passes the AI safety bill SB 1047, which now goes back to the Senate for a process vote before requiring Governor Newsom&#39;s signature &lpar;Anna Tong/Reuters&rpar;](http://www.techmeme.com/240828/p33#a240828p33)
- - [T-Mobile just greatly simplified the online trade-in process in three key ways](https://www.androidauthority.com/t-mobile-online-trade-ins-updated-3476174/)<!-- TECH:END -->
+ - [iPhone 17 Pro Max to get exclusive 12GB RAM, vapor chamber cooling](https://appleinsider.com/articles/24/08/29/iphone-17-pro-max-to-get-exclusive-12gb-ram-vapor-chamber-cooling?utm_medium=rss)
+ - [LG’s new smart home hub has a built-in voice assistant](https://www.theverge.com/2024/8/28/24230692/lg-thinq-on-smart-home-hub-ai-voice-assistant)
+ - [Jensen Huang says Nvidia&#39;s new Blackwell chips will have &quot;lots and lots of supply&quot;, and the company expects billions of dollars in revenue from the chips in Q4 &lpar;Bloomberg&rpar;](http://www.techmeme.com/240828/p35#a240828p35)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
