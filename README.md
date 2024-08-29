@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Shadow of the Ninja – Reborn: The Three-Decade Journey of a Cult Classic and its Epic Remake, Out Now on Xbox](https://news.xbox.com/en-us/2024/08/29/the-three-decade-journey-of-a-cult-classic-and-its-epic-remake-out-now-on-xbox/)
- - [Fields of Mistria museum collectables list](https://www.polygon.com/fields-of-mistria-guides/445259/museum-list-sections-archaeology-dig-spots)
- - [Complete bug list in Fields of Mistria](https://www.polygon.com/fields-of-mistria-guides/444982/all-bugs-list-locations-seasons-weather)<!-- GAME:END -->
+ - [Remedy is leaving Epic in the dark place to self-publish Control 2 through a &#39;strategic cooperation agreement&#39; with Annapurna](https://www.pcgamer.com/games/action/remedy-is-leaving-epic-in-the-dark-place-to-self-publish-control-2-through-a-strategic-cooperation-agreement-with-annapurna)
+ - [Here&#39;s Our First Look At The New Jurassic Park Movie](https://kotaku.com/jurassic-park-world-4-rebirth-trailer-screenshots-2025-1851636033)
+ - [MOBAs are suddenly back in fashion, and one dev says it might be because of soulslikes: &#39;Now that more players understand that it feels great to master a difficult game, I think more are willing to take that journey&#39;](https://www.pcgamer.com/games/moba/mobas-are-suddenly-back-in-fashion-and-one-dev-says-it-might-be-because-of-soulslikes-now-that-more-players-understand-that-it-feels-great-to-master-a-difficult-game-i-think-more-are-willing-to-take-that-journey)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
