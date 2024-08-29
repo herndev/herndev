@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Dimension 20’s raucous live shows come to Dropout next month](https://www.polygon.com/trailer/445986/dimension-20s-raucous-live-shows-come-to-dropout-next-month)
- - [Get This Generation’s Most Inventive Stealth Games On Sale](https://kotaku.com/hitman-world-of-assassination-sale-playstation-1851636254)
- - [Dustborn: The Kotaku Review](https://kotaku.com/dustborn-review-red-thread-games-quantic-dream-pax-ps5-1851636258)<!-- GAME:END -->
+ - [PSA: Getting annoyed by fall damage in Star Wars Outlaws? Grab this early game charm](https://www.pcgamer.com/games/action/star-wars-outlaws-fall-damage-tooka-paw)
+ - [Deadlock has guns, but that doesn&#39;t make it a shooter](https://www.pcgamer.com/games/moba/deadlock-has-guns-but-that-doesn-t-make-it-a-shooter)
+ - [How to find experts and unlock abilities in Star Wars Outlaws](https://www.polygon.com/star-wars-outlaws-guides/445441/all-abilities-experts-locations-where-to-find)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
