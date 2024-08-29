@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Payload deployed](http://9gag.com/gag/amoYwEv)
- - ⏩ [Here is the reason why only 3-4 manufacturer of Semiconductor](http://9gag.com/gag/aZZm6P6)
- - 👉 [Gamestop return.](http://9gag.com/gag/abAp8OB)<!-- MEMES:END -->
+ - ⏩ [Gamestop return.](http://9gag.com/gag/abAp8OB)
+ - 👉 [Here is the reason why only 3-4 manufacturer of Semiconductor](http://9gag.com/gag/aZZm6P6)<!-- MEMES:END -->
 
 ---
 
