@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Dating in 2024...](http://9gag.com/gag/aNDAbPw)
- - ⏩ [Not funny](http://9gag.com/gag/aRBmpWM)
- - 👉 [Truth about Indian street food](http://9gag.com/gag/aQz9GR8)<!-- MEMES:END -->
+ - 💣 [Extreme](http://9gag.com/gag/abAp88O)
+ - ⏩ [Bitterness Abounds](http://9gag.com/gag/aQz9Lw7)
+ - 👉 [I\u2019m not fooking paying that!](http://9gag.com/gag/aByW7VP)<!-- MEMES:END -->
 
 ---
 
