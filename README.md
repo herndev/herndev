@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [13 ways tech has made my life worse](https://www.androidauthority.com/ways-tech-made-my-life-worse-3475699/)
- - [Meta says its Llama models were downloaded ~350M times, are used by AT&amp;T and other companies, and usage via cloud providers more than doubled from May to July &lpar;Katie Paul/Reuters&rpar;](http://www.techmeme.com/240829/p20#a240829p20)
- - [Powerful Spyware Exploits Enable a New String of ‘Watering Hole’ Attacks](https://www.wired.com/story/russia-cozy-bear-watering-hole-attacks/)<!-- TECH:END -->
+ - [Phone Link’s Instant Hotspot feature is no longer exclusive to Samsung phones](https://www.androidauthority.com/android-instant-hotspot-windows-pc-3476424/)
+ - [Apple&#39;s 16-inch MacBook Pro is $500 off at Amazon](https://appleinsider.com/articles/24/08/29/apples-16-inch-macbook-pro-is-500-off-at-amazon?utm_medium=rss)
+ - [A demure and mindful trademark investigation](https://www.theverge.com/24230813/demure-mindful-trademark-uspto-explainer-jools-lebron)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
