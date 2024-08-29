@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Extreme](http://9gag.com/gag/abAp88O)
- - ⏩ [Bitterness Abounds](http://9gag.com/gag/aQz9Lw7)
- - 👉 [I\u2019m not fooking paying that!](http://9gag.com/gag/aByW7VP)<!-- MEMES:END -->
+ - 💣 [Damian Gath, 52, British man with Parkinson&#39;s disease, first diagnosed 12 years ago, has been taking a new drug called Produodopa, which has recently been approved](http://9gag.com/gag/a0eb2GX)
+ - ⏩ [F**k you and goodnight.](http://9gag.com/gag/aNDANxA)
+ - 👉 [A sega classic](http://9gag.com/gag/a7orYz2)<!-- MEMES:END -->
 
 ---
 
