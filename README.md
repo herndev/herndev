@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [F up and find out.... Apparently they asked them to turn down the loud music](http://9gag.com/gag/aAydWVE)
- - ⏩ [Savage](http://9gag.com/gag/aMV8pEM)
- - 👉 [I get it](http://9gag.com/gag/azx86rK)<!-- MEMES:END -->
+ - 💣 [HR Math](http://9gag.com/gag/aW4mwL3)
+ - ⏩ [See you in hell](http://9gag.com/gag/arybQeK)
+ - 👉 [A Clean Neighbour](http://9gag.com/gag/apRpO1p)<!-- MEMES:END -->
 
 ---
 
