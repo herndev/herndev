@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Bitterness Abounds](http://9gag.com/gag/aQz9Lw7)
- - ⏩ [AI the ultimate genie](http://9gag.com/gag/a9yrQyW)
- - 👉 [Main character of the friend group gets humbled FAST](http://9gag.com/gag/aAydzLR)<!-- MEMES:END -->
+ - 💣 [F up and find out.... Apparently they asked them to turn down the loud music](http://9gag.com/gag/aAydWVE)
+ - ⏩ [Savage](http://9gag.com/gag/aMV8pEM)
+ - 👉 [I get it](http://9gag.com/gag/azx86rK)<!-- MEMES:END -->
 
 ---
 
