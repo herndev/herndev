@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A major Android brand could copy one of the iPhone 16’s biggest highlights](https://www.androidauthority.com/oppo-capture-button-quick-button-apple-iphone-16-3476241/)
- - [As Chinese EV manufacturers consolidate and close, EV owners say they&#39;re losing access to smartphone app updates and features that rely on cloud services &lpar;Tianyu Fang/Rest of World&rpar;](http://www.techmeme.com/240829/p5#a240829p5)
- - [Apple finally has an answer to Magic Eraser, and we’ve tried it](https://www.androidauthority.com/ios-beta-clean-up-photos-3476238/)<!-- TECH:END -->
+ - [Is Snapchat not working for you? Here’s how you can try to fix it](https://www.androidauthority.com/snapchat-not-working-how-to-fix-977763/)
+ - [Automattic plans to shift Tumblr&#39;s backend over to WordPress, in a bid to make sharing work across the platforms easier, after buying Tumblr for $3M in 2019 &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/240829/p7#a240829p7)
+ - [You can now test YouTube’s comment topics feature in all languages](https://www.androidauthority.com/youtube-comment-topics-all-languages-3476260/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
