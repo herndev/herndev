@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [HR Math](http://9gag.com/gag/aW4mwL3)
- - ⏩ [See you in hell](http://9gag.com/gag/arybQeK)
- - 👉 [A Clean Neighbour](http://9gag.com/gag/apRpO1p)<!-- MEMES:END -->
+ - 💣 [AI the ultimate genie](http://9gag.com/gag/a9yrQyW)
+ - ⏩ [The most german dude ever](http://9gag.com/gag/a0eb2ZQ)
+ - 👉 [Funny coz](http://9gag.com/gag/aW4mwjZ)<!-- MEMES:END -->
 
 ---
 
