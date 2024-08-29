@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [This Lord of the Rings Middle-earth map will help you navigate The Rings of Power](https://www.polygon.com/23331136/lord-of-the-rings-middle-earth-map-rings-of-power)
- - [Dev studio returns 20 years after it stopped existing to remaster PS1 banger Croc, and it&#39;s destroyed my relationship with my colleagues](https://www.pcgamer.com/games/action/dev-studio-returns-20-years-after-it-stopped-existing-to-remaster-ps1-banger-croc-and-its-destroyed-my-relationship-with-my-colleagues)
- - [The 25 best games on Game Pass](https://www.polygon.com/best-games/22372750/best-game-pass-games-xbox)<!-- GAME:END -->
+ - [I went to a Hololive concert and now I’m convinced VTubers can do anything](https://www.polygon.com/culture/445206/hololive-breaking-dimensions-concert-vtubers)
+ - [Free Play Days – Age of Waters and Outbreak](https://news.xbox.com/en-us/2024/08/29/free-play-days-age-of-waters-and-outbreak/)
+ - [Astro Bot is the best argument for the PS5’s DualSense controller](https://www.polygon.com/gaming/444895/astro-bot-ps5-dualsense-controller)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
