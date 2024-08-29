@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [One of the best](http://9gag.com/gag/amoYZno)
- - ⏩ [Gamestop return.](http://9gag.com/gag/abAp8OB)
- - 👉 [Not funny](http://9gag.com/gag/aRBmpWM)<!-- MEMES:END -->
+ - 💣 [I\u2019m not fooking paying that!](http://9gag.com/gag/aByW7VP)
+ - ⏩ [Main character of the friend group gets humbled FAST](http://9gag.com/gag/aAydzLR)
+ - 👉 [Dating in 2024...](http://9gag.com/gag/aNDAbPw)<!-- MEMES:END -->
 
 ---
 
