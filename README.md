@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Mark your calendar: Samsung announces date for SDC 2024](https://www.androidauthority.com/samsung-sdc-2024-date-3476612/)
- - [The Google Weather app for Wear OS now has a more detailed forecast tile](https://www.androidauthority.com/google-weather-forecast-tile-update-3476623/)
- - [The iPhone’s volume buttons will no longer work with Spotify Connect](https://www.theverge.com/2024/8/29/24231516/spotify-apple-physical-iphone-volume-controls)<!-- TECH:END -->
+ - [Sony’s limited edition Astro Bot controller is up for preorder again](https://www.theverge.com/24215774/astro-bot-limited-edition-dualsense-wireless-controller-preorder-price-release-date-ps5)
+ - [ChatGPT’s weekly users have doubled in less than a year](https://www.theverge.com/2024/8/29/24231685/openai-chatgpt-200-million-weekly-users)
+ - [Gemini can now help you search through your cluttered Gmail inbox on Android phones](https://www.androidauthority.com/gmail-app-gemini-qna-3476651/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
