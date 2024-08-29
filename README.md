@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [HR Math](http://9gag.com/gag/aW4mwL3)
- - ⏩ [A Clean Neighbour](http://9gag.com/gag/apRpO1p)
- - 👉 [Main character of the friend group gets humbled FAST](http://9gag.com/gag/aAydzLR)<!-- MEMES:END -->
+ - 💣 [Good](http://9gag.com/gag/arybjL7)
+ - ⏩ [Where were these morally questionable woman back in my days](http://9gag.com/gag/a7orRxx)
+ - 👉 [Kaiju no.W](http://9gag.com/gag/aByWAXZ)<!-- MEMES:END -->
 
 ---
 
