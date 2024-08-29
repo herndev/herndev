@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Bluesky adds ‘anti-toxicity’ options to limit dogpiling and hostile quote posts](https://www.theverge.com/2024/8/29/24231414/bluesky-anti-toxicity-features-detach-posts-from-quotes)
- - [Remedy partners with Annapurna for Control 2 and potential film and TV adaptations](https://www.theverge.com/2024/8/29/24231469/control-sequel-movie-tv-remedy-annapurna)
- - [Future Apple iPhone cases may incorporate extra Action Buttons](https://appleinsider.com/articles/24/08/29/future-apple-iphone-cases-may-incorporate-extra-action-buttons?utm_medium=rss)<!-- TECH:END -->
+ - [Sources: Apple is in talks to invest in OpenAI as part of a new fundraising round that would value the ChatGPT maker above $100B &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240829/p25#a240829p25)
+ - [Magic, which makes AI tools for coding and to automate software development tasks, raised $320M from Eric Schmidt and others, bringing its total raised to $465M &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240829/p24#a240829p24)
+ - [Jurassic World Rebirth comes out next year](https://www.theverge.com/2024/8/29/24231524/jurassic-world-rebirth-2025-scarlett-johansson)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
