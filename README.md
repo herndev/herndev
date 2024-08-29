@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Gori: Cuddly Carnage Kick Flips Onto Xbox Series X|S and Xbox One Today](https://news.xbox.com/en-us/2024/08/29/gori-cuddly-carnage-kick-flips-onto-xbox-series-xs-and-xbox-one-today/)
- - [The best piece of tech I&amp;#8217;ve bought in years is this funky little e-reader](https://www.polygon.com/deals/445205/kobo-libra-e-reader)
- - [Star Wars Outlaws expert locations and every ability](https://www.pcgamer.com/games/action/star-wars-outlaws-experts-abilities-locations)<!-- GAME:END -->
+ - [Shadow of the Ninja – Reborn: The Three-Decade Journey of a Cult Classic and its Epic Remake, Out Now on Xbox](https://news.xbox.com/en-us/2024/08/29/the-three-decade-journey-of-a-cult-classic-and-its-epic-remake-out-now-on-xbox/)
+ - [Fields of Mistria museum collectables list](https://www.polygon.com/fields-of-mistria-guides/445259/museum-list-sections-archaeology-dig-spots)
+ - [Complete bug list in Fields of Mistria](https://www.polygon.com/fields-of-mistria-guides/444982/all-bugs-list-locations-seasons-weather)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
