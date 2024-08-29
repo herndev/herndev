@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Bitterness Abounds](http://9gag.com/gag/aQz9Lw7)
- - ⏩ [Oh, long Johnson](http://9gag.com/gag/a1mb3Db)
- - 👉 [Sad](http://9gag.com/gag/aGy1Qw0)<!-- MEMES:END -->
+ - 💣 [One of the best](http://9gag.com/gag/amoYZno)
+ - ⏩ [Gamestop return.](http://9gag.com/gag/abAp8OB)
+ - 👉 [Not funny](http://9gag.com/gag/aRBmpWM)<!-- MEMES:END -->
 
 ---
 
