@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Yelp sues Google, alleging Google used its dominance in general search to gain an unfair advantage in local search services and local search advertising markets &lpar;Nico Grant/New York Times&rpar;](http://www.techmeme.com/240828/p32#a240828p32)
- - [Are Meta’s carbon emissions shrinking? Depends on how you look at it](https://www.theverge.com/2024/8/28/24230481/meta-sustainability-report-carbon-footprint-renewable-energy-climate-change)
- - [Threads now lets users see and like fediverse replies on other posts besides their own, and posts submitted via Threads API will be syndicated to the fediverse &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/240828/p31#a240828p31)<!-- TECH:END -->
+ - [Yelp files antitrust suit against Google over monopolistic local search practices](https://www.androidauthority.com/yelp-google-antitrust-3476169/)
+ - [California&#39;s State Assembly passes the AI safety bill SB 1047, which now goes back to the Senate for a process vote before requiring Governor Newsom&#39;s signature &lpar;Anna Tong/Reuters&rpar;](http://www.techmeme.com/240828/p33#a240828p33)
+ - [T-Mobile just greatly simplified the online trade-in process in three key ways](https://www.androidauthority.com/t-mobile-online-trade-ins-updated-3476174/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
