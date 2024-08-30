@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Welcome to Berlin!](http://9gag.com/gag/amo2N56)
- - ⏩ [Never nuke a country twice?](http://9gag.com/gag/aoy1Bq3)
- - 👉 [A naked man attacking a presenter with a brick on Romanian TV!](http://9gag.com/gag/apRQEpb)<!-- MEMES:END -->
+ - 💣 [It got deleted, here again](http://9gag.com/gag/avy7pRn)
+ - ⏩ [Welcome to Berlin!](http://9gag.com/gag/amo2N56)
+ - 👉 [Witty title](http://9gag.com/gag/ae9bo1O)<!-- MEMES:END -->
 
 ---
 
