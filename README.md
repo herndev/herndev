@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Like things perfectly balanced? Don’t look at the Pixel 9’s wireless charging coils](https://www.androidauthority.com/google-pixel-9-wireless-charging-coil-position-3476750/)
- - [A look at Google&#39;s HeAR, a bioacoustics healthcare AI model trained 300M sounds, including 100M cough sounds, to analyze users&#39; coughs and detect tuberculosis &lpar;Saritha Rai/Bloomberg&rpar;](http://www.techmeme.com/240830/p2#a240830p2)
- - [Don&#39;t Miss Your Chance to Snag a Year Long Costco Membership for Just $60, Plus $20 in Free Credit](https://www.cnet.com/deals/dont-miss-your-chance-to-snag-a-year-long-costco-membership-for-just-60-plus-20-in-free-credit/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Backpage co-founder sentenced to five years in prison](https://www.theverge.com/2024/8/30/24232069/backpage-founder-michael-lacey-sentenced-five-years-in-prison)
+ - [China&#39;s top antitrust regulator says it has seen &quot;effective results&quot; that Alibaba has ceased the monopolistic practices that prompted an investigation in 2020 &lpar;Bloomberg&rpar;](http://www.techmeme.com/240830/p3#a240830p3)
+ - [Hypocrite Apple broke Spotify Connect volume control, so here’s a wonky workaround](https://www.androidauthority.com/spotify-connect-mess-apple-3476762/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
