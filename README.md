@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [OnePlus 13 rumors: Everything we know so far and what we want to see](https://www.androidauthority.com/oneplus-13-3436509/)
- - [Circle to Search now automatically scans barcodes and QR codes](https://www.androidauthority.com/circle-to-search-barcode-scanner-rollout-3476930/)
- - [The City of Columbus, OH, sues security researcher David Leroy Ross, aka Connor Goodwolf, accusing him of sharing data stolen by a ransomware gang with media &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/240830/p13#a240830p13)<!-- TECH:END -->
+ - [Best Labor Day Deals &lpar;2024&rpar;: TVs, AirPods Max, and More](https://www.wired.com/story/labor-day-deals-2024/)
+ - [Elon Musk’s Standoff With Brazil Reaches a Tipping Point](https://www.wired.com/story/elon-musks-standoff-with-brazil-reaches-a-tipping-point/)
+ - [Poll: Do you like Circle to Search?](https://www.androidauthority.com/circle-to-search-poll-3476949/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
