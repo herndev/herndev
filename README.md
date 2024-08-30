@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [&#39;We are not an extraction shooter, hero shooter, or some competitive tac shooter:&#39; Cyberpunk FPS Defect&#39;s secret fourth thing actually has me excited for a PvEvP game for once](https://www.pcgamer.com/games/fps/we-are-not-an-extraction-shooter-hero-shooter-or-some-competitive-tac-shooter-cyberpunk-fps-defect-s-secret-fourth-thing-actually-has-me-excited-for-a-pvevp-game-for-once)
  - [Sid Meier was apparently baffled by the decision to launch Civilization 5 without Genghis Khan: &#39;Sid said, What?&#39;](https://www.pcgamer.com/games/strategy/sid-meier-was-apparently-baffled-by-the-decision-to-launch-civilization-5-without-genghis-khan-sid-said-what)
- - [Everything you want to know about the Rings of Power in Rings of Power](https://www.polygon.com/23403117/lord-rings-power-elven-rings-powers-galadriel-elrond)
- - [World of Warcraft: The War Within review](https://www.pcgamer.com/games/world-of-warcraft/world-of-warcraft-the-war-within-review)<!-- GAME:END -->
+ - [Everything you want to know about the Rings of Power in Rings of Power](https://www.polygon.com/23403117/lord-rings-power-elven-rings-powers-galadriel-elrond)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
