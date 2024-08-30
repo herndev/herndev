@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Brennan Lee Mulligan talks the ‘freedom and joy’ of Never Stop Blowing Up](https://www.polygon.com/actual-play/445791/never-stop-blowing-up-dimension-20-brennan-lee-mulligan-interview)
- - [Dustborn Developers Condemn ‘Tidal Wave Of Hate And Abuse’ Directed At The Team](https://kotaku.com/dustborn-red-thread-games-harassment-abuse-review-woke-1851636977)
- - [Asus ROG Zephyrus G16 &lpar;2024&rpar; GA605 review](https://www.pcgamer.com/hardware/gaming-laptops/asus-rog-zephyrus-g16-2024-ga605-review)<!-- GAME:END -->
+ - [Your Guide to the Call of Duty: Black Ops 6 Multiplayer Beta Weekends on Xbox](https://news.xbox.com/en-us/2024/08/30/guide-to-black-ops-6-multiplayer-beta-on-xbox/)
+ - [Rings of Power&amp;#8217;s elf hero wanted his big action scene to feel like anime](https://www.polygon.com/lotr-rings-of-power/445624/trop-elf-actor-ismael-cruz-cordova-interview-anime-action)
+ - [Brandon Sanderson’s Cosmere TTRPG  becomes must-funded Kickstarter game ever](https://www.polygon.com/tabletop-games/446320/sanderson-cosmere-ttrpg-breaks-record-most-funded-game-kickstarter)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
