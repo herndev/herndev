@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Space marines are so big the Space Marine 2 dev team had to spend a considerable amount of time just getting their walking and running animations right](https://www.pcgamer.com/games/third-person-shooter/space-marines-are-so-big-the-space-marine-2-dev-team-had-to-spend-a-considerable-amount-of-time-just-getting-their-walking-and-running-animations-right)
  - [Today&#39;s Wordle answer for Friday, August 30](https://www.pcgamer.com/games/puzzle/wordle-answer-today-august-30-2024)
- - [Deadlock&#39;s first major patch adds wall jumping and over a hundred balance changes](https://www.pcgamer.com/games/moba/deadlocks-first-major-patch-adds-wall-jumping-and-over-a-hundred-balance-changes)
- - [I spent an hour swearing, fleeing and dying in the machine-infested battlefields of The Forever Winter and cannot wait to do it again](https://www.pcgamer.com/games/third-person-shooter/i-spent-an-hour-swearing-fleeing-and-dying-in-the-machine-infested-battlefields-of-the-forever-winter-and-cannot-wait-to-do-it-again)<!-- GAME:END -->
+ - [Deadlock&#39;s first major patch adds wall jumping and over a hundred balance changes](https://www.pcgamer.com/games/moba/deadlocks-first-major-patch-adds-wall-jumping-and-over-a-hundred-balance-changes)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
