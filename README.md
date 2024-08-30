@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [One way to develop trust issue](http://9gag.com/gag/a87yrMp)
- - ⏩ [Snow White and the Million Dislikes](http://9gag.com/gag/a878dm3)
- - 👉 [Reminder: for single women over 30](http://9gag.com/gag/aVvqGqv)<!-- MEMES:END -->
+ - 💣 [Reminder: for single women over 30](http://9gag.com/gag/aVvqGqv)
+ - ⏩ [HR Math](http://9gag.com/gag/aW4mwL3)
+ - 👉 [Wobble](http://9gag.com/gag/a0e5vmZ)<!-- MEMES:END -->
 
 ---
 
