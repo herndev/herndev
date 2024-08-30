@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This should be illegal](http://9gag.com/gag/amoYD59)
- - ⏩ [Make Memes Great Again](http://9gag.com/gag/amoYeKv)
- - 👉 [Game of the Year](http://9gag.com/gag/aLnDq2A)<!-- MEMES:END -->
+ - 💣 [It&#39;s no wonder why people of the past acted like Venice was a world wonder. They were already living in the future!](http://9gag.com/gag/a6ZbA5m)
+ - ⏩ [Savage](http://9gag.com/gag/aMV8pEM)
+ - 👉 [Based Latvia?](http://9gag.com/gag/avyGbxE)<!-- MEMES:END -->
 
 ---
 
