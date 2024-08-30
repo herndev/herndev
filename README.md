@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nest Learning Thermostat users frustrated by dim display, fix on the way](https://www.androidauthority.com/nest-learning-thermostat-dimness-3477077/)
- - [Brazil’s X ban is sending lots of people to Bluesky](https://www.theverge.com/2024/8/30/24232561/brazil-x-ban-sending-people-bluesky)
- - [I cut my notifications: Here’s why you should too](https://www.androidauthority.com/why-to-cut-notifications-3476907/)<!-- TECH:END -->
+ - [Brazil bans X: all the latest news](https://www.theverge.com/2024/8/30/24232573/brazil-x-twitter-ban-elon-musk)
+ - [An analysis of 6,599 keywords shows Google is offering AI Overviews for 17% of queries in the UK and US, but rarely for searches about current events &lpar;Dominic Ponsford/Press Gazette&rpar;](http://www.techmeme.com/240830/p21#a240830p21)
+ - [The Apple AirTag 4-Pack dropped to just $75](https://www.androidauthority.com/apple-airtag-4-pack-deal-3477047/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
