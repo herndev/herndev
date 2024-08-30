@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [It got deleted, here again](http://9gag.com/gag/avy7pRn)
- - ⏩ [Look at those moves](http://9gag.com/gag/a9yr9GW)
+ - 💣 [Oil Shelf Collapsed at Supermarket](http://9gag.com/gag/aRBm5j5)
+ - ⏩ [Never nuke a country twice?](http://9gag.com/gag/aoy1Bq3)
  - 👉 [`Oh my God` indeed. That range instructor stays very calm.](http://9gag.com/gag/adB90D9)<!-- MEMES:END -->
 
 ---
