@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A new iPad mini 7 may be close -- what the rumor mill says is coming](https://appleinsider.com/articles/24/08/30/a-new-ipad-mini-7-may-be-close----what-the-rumor-mill-says-is-coming?utm_medium=rss)
- - [Investor note: 360 One values Indian startup VerSe, which operates popular news aggregator Dailyhunt, at $2.9B, down from $5B in 2022 when VerSe raised $805M &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/240830/p10#a240830p10)
- - [AnandTech shuts down after 27 years](https://www.theverge.com/2024/8/30/24232171/anandtech-tech-journalism-hardware)<!-- TECH:END -->
+ - [Organizing WhatsApp chats is about to get a whole lot easier](https://www.androidauthority.com/whatsapp-lists-chat-filter-3476839/)
+ - [You can now seamlessly transfer YouTube Music playlists to Apple Music](https://www.androidauthority.com/youtube-music-playlist-transfer-apple-music-3476850/)
+ - [Intel definitively claims its laptop chips aren’t crashing because of that voltage thing](https://www.theverge.com/2024/8/30/24232279/intel-13th-14th-gen-laptop-crashing-vmin-shift-instability)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
