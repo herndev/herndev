@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Runescape is increasing its membership subscription costs, and players aren&#39;t happy: &#39;Inflation my a**&#39;](https://www.pcgamer.com/games/mmo/runescape-is-increasing-its-membership-subscription-costs-and-players-arent-happy-inflation-my-a)
- - [Read an exclusive excerpt from a teen horror comic inspired by real small town cults](https://www.polygon.com/comics/446256/loving-ohio-comic-excerpt-matthew-erman-sam-beck)
- - [Pick Up This Outstanding, Delightfully Weird Shooter On Sale](https://kotaku.com/control-playstation-sale-remedy-connected-universe-1851637320)<!-- GAME:END -->
+ - [Black Ops 6 will let players talk directly to their meat shield hostages, fans are already bracing for heretofore unseen levels of toxicity and abuse](https://www.pcgamer.com/games/fps/black-ops-6-will-let-players-talk-directly-to-their-meat-shield-hostages-fans-are-already-bracing-for-heretofore-unseen-levels-of-toxicity-and-abuse)
+ - [The 8 best games from Nintendo’s blockbuster Switch sale](https://www.polygon.com/sales-guide/445917/nintendo-switch-blockbuster-sale-labor-day)
+ - [Is this the most relatable image in gaming history?](https://www.polygon.com/opinion/446708/zelda-echoes-of-wisdom-sleep-in-bed-boss-fight)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
