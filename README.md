@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Next Week on Xbox: New Games for September 2 to 6](https://news.xbox.com/en-us/2024/08/30/next-week-on-xbox-new-games-for-september-2-to-6/)
- - [Rings of Power’s masked riders are playing with a messy Tolkien legacy](https://www.polygon.com/lotr-rings-of-power/445809/trop-rhun-dark-wizard-tolkien-ciaran-hinds)
- - [Star Wars Outlaws&#39; Accessibility Options Are Astonishing](https://kotaku.com/star-wars-outlaws-settings-options-accessibility-guide-1851636696)<!-- GAME:END -->
+ - [The must-watch anime to look out for in fall 2024](https://www.polygon.com/23960593/new-anime-2024-release-calendar-schedule-watch-streaming)
+ - [Where Star Wars Outlaws fits into the larger Star Wars universe](https://www.polygon.com/gaming/446047/star-wars-outlaws-timeline-syndicates-explainer)
+ - [How to find experts and unlock abilities in Star Wars Outlaws](https://www.polygon.com/star-wars-outlaws-guides/445441/all-abilities-experts-locations-where-to-find)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
