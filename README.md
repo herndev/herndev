@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Kotaku’s Weekend Guide: 5 Games To Enjoy This Labor Day](https://kotaku.com/kotaku-weekend-guide-star-wars-outlaws-sonic-1851637106)
- - [Official PlayStation Podcast Episode 492: Puzzling Platforms](https://blog.playstation.com/2024/08/30/official-playstation-podcast-episode-492-puzzling-platforms/)
- - [Official PlayStation Podcast Episode 492: Puzzling Platforms](https://blog.playstation.com/2024/08/30/official-playstation-podcast-episode-492-puzzling-platforms/)<!-- GAME:END -->
+ - [Dustborn devs call out the &#39;tidal wave of hate and abuse&#39; that&#39;s engulfed the game: &#39;Those who engage in such behavior will be removed from our community&#39;](https://www.pcgamer.com/games/adventure/dustborn-devs-call-out-the-tidal-wave-of-hate-and-abuse-thats-engulfed-the-game-those-who-engage-in-such-behavior-will-be-removed-from-our-community)
+ - [Shadow, Amy&#39;s Absence, And More The Internet Can&#39;t Stop Talking About From The Sonic 3 Trailer](https://kotaku.com/sonic-3-movie-trailer-reaction-keanu-reeves-shadow-amy-1851637185)
+ - [After 10 years of reinventing The Elder Scrolls Online, its devs say they&#39;d have only done one thing differently: &#39;Pick the game you want to make&#39;](https://www.pcgamer.com/games/mmo/after-10-years-of-reinventing-the-elder-scrolls-online-its-devs-say-theyd-have-only-done-one-thing-differently-pick-the-game-you-want-to-make)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
