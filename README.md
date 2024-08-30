@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A federal judge dismisses a lawsuit claiming Elon Musk and Tesla pumped up Dogecoin into a &quot;pyramid scheme&quot;, finding that Musk&#39;s statements were &quot;aspirational&quot; &lpar;Rachel Graf/Bloomberg&rpar;](http://www.techmeme.com/240830/p6#a240830p6)
- - [As Russia plans a trial of cross-border payments using crypto, some senior Russian leaders suggest it can help counter sanctions; experts doubt it will work &lpar;CoinDesk&rpar;](http://www.techmeme.com/240830/p5#a240830p5)
- - [Sources: Amazon&#39;s revamped &quot;Remarkable&quot; Alexa, due for release in October, will be powered by Anthropic&#39;s Claude, with plans to charge users $5 to $10/month &lpar;Greg Bensinger/Reuters&rpar;](http://www.techmeme.com/240830/p4#a240830p4)<!-- TECH:END -->
+ - [Huione Guarantee, a Cambodia-based online marketplace that facilitates pig butchering and other scams, has processed $49B+ in crypto transactions since 2021 &lpar;Chainalysis&rpar;](http://www.techmeme.com/240830/p7#a240830p7)
+ - [Apple Sports gets ready for football season, no matter if it’s soccer or handegg](https://www.androidauthority.com/apple-sports-football-update-3476794/)
+ - [Spotify says Apple is blocking volume controls for connected devices](https://appleinsider.com/articles/24/08/30/spotify-says-apple-is-blocking-volume-controls-for-connected-devices?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
