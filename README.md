@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [`Outlaw`](http://9gag.com/gag/a34Mvxm)
- - ⏩ [This is how they record the Bugatti when it goes more than 300km](http://9gag.com/gag/a87yrPe)
- - 👉 [Down to a Science: The Quick Drop Maestro](http://9gag.com/gag/avyGb3W)<!-- MEMES:END -->
+ - 💣 [BBQ in balcony](http://9gag.com/gag/a7orjBm)
+ - ⏩ [A short and witty title](http://9gag.com/gag/aqyb0gY)
+ - 👉 [Little extra cheese on the taco](http://9gag.com/gag/a34qV2Q)<!-- MEMES:END -->
 
 ---
 
