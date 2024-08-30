@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [`Oh my God` indeed. That range instructor stays very calm.](http://9gag.com/gag/adB90D9)
- - ⏩ [Sonoluminescence - If you collapse an underwater bubble with a soundwave, light is produced, and nobody knows why](http://9gag.com/gag/aGy1WWG)
- - 👉 [Hahaha, still, why is it that 9gag is not cancelled?](http://9gag.com/gag/aQze682)<!-- MEMES:END -->
+ - 💣 [Welcome to Berlin!](http://9gag.com/gag/amo2N56)
+ - ⏩ [Never nuke a country twice?](http://9gag.com/gag/aoy1Bq3)
+ - 👉 [A naked man attacking a presenter with a brick on Romanian TV!](http://9gag.com/gag/apRQEpb)<!-- MEMES:END -->
 
 ---
 
