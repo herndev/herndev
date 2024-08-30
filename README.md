@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Reminder: for single women over 30](http://9gag.com/gag/aVvqGqv)
- - ⏩ [Never nuke a country twice?](http://9gag.com/gag/aoy1Bq3)
- - 👉 [Relationship goal](http://9gag.com/gag/aVvqNxy)<!-- MEMES:END -->
+ - 💣 [Truth about Indian street food](http://9gag.com/gag/aQz9GR8)
+ - ⏩ [Born to be a dog, forced to be a wolf](http://9gag.com/gag/a0ebAYZ)
+ - 👉 [Interesting Painting](http://9gag.com/gag/abAz3nB)<!-- MEMES:END -->
 
 ---
 
