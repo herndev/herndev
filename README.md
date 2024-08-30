@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [One way to develop trust issue](http://9gag.com/gag/a87yrMp)
- - ⏩ [Sonoluminescence - If you collapse an underwater bubble with a soundwave, light is produced, and nobody knows why](http://9gag.com/gag/aGy1WWG)
- - 👉 [Funny coz](http://9gag.com/gag/aW4mwjZ)<!-- MEMES:END -->
+ - 💣 [Witty title](http://9gag.com/gag/ae9bo1O)
+ - ⏩ [Funny coz](http://9gag.com/gag/aW4mwjZ)
+ - 👉 [How in the world?](http://9gag.com/gag/an7b6Dn)<!-- MEMES:END -->
 
 ---
 
