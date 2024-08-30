@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Reminder: for single women over 30](http://9gag.com/gag/aVvqGqv)
- - ⏩ [HR Math](http://9gag.com/gag/aW4mwL3)
- - 👉 [Wobble](http://9gag.com/gag/a0e5vmZ)<!-- MEMES:END -->
+ - 💣 [`Oh my God` indeed. That range instructor stays very calm.](http://9gag.com/gag/adB90D9)
+ - ⏩ [Sonoluminescence - If you collapse an underwater bubble with a soundwave, light is produced, and nobody knows why](http://9gag.com/gag/aGy1WWG)
+ - 👉 [Hahaha, still, why is it that 9gag is not cancelled?](http://9gag.com/gag/aQze682)<!-- MEMES:END -->
 
 ---
 
