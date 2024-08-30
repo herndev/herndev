@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [MongoDB reports Q2 revenue up 13% YoY to $478.1M, vs. $464.1M est., and forecasts Q3 and FY 2025 revenue above estimates; MDB jumps 13%+ after hours &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/240829/p32#a240829p32)
- - [Yelp files antitrust suit against Google over local search practices &lpar;Update: Yelp counter-response&rpar;](https://www.androidauthority.com/yelp-google-antitrust-3476169/)
- - [Google’s AI chatbot for your Gmail inbox is rolling out on Android](https://www.theverge.com/2024/8/29/24231824/google-gmail-q-a-gemini-ai-chatbot-android)<!-- TECH:END -->
+ - [The best Xbox controller to buy right now](https://www.theverge.com/23025443/best-xbox-controllers-one-series-x-s)
+ - [Google rolls out Gmail Q&amp;A, a feature that allows users who pay for Gemini to chat with and use the AI assistant for their emails, on Android and soon on iOS &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/240829/p35#a240829p35)
+ - [A US district judge dismisses, with prejudice, a lawsuit accusing Elon Musk and Tesla of defrauding investors by hyping Dogecoin and conducting insider trading &lpar;Jonathan Stempel/Reuters&rpar;](http://www.techmeme.com/240829/p34#a240829p34)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
