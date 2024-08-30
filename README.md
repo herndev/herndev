@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Labor Day Deals &lpar;2024&rpar;: TVs, AirPods Max, and More](https://www.wired.com/story/labor-day-deals-2024/)
- - [Elon Musk’s Standoff With Brazil Reaches a Tipping Point](https://www.wired.com/story/elon-musks-standoff-with-brazil-reaches-a-tipping-point/)
- - [Poll: Do you like Circle to Search?](https://www.androidauthority.com/circle-to-search-poll-3476949/)<!-- TECH:END -->
+ - [Microsoft says a North Korean hacking group earlier in August exploited a now-patched zero-day in a Chromium core engine to steal crypto from organizations &lpar;Lorenzo Franceschi-Bicchierai/TechCrunch&rpar;](http://www.techmeme.com/240830/p17#a240830p17)
+ - [The Creators of &#39;Industry&#39; Know Banking Is a Rigged Game](https://www.wired.com/story/dial-up-industry-creators-mickey-down-konrad-kay/)
+ - [Best True Wireless Sports Earbuds With Ear Hooks for 2024](https://www.cnet.com/tech/mobile/best-true-wireless-sports-earbuds-with-ear-hooks/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
