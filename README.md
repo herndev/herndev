@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle answer for Friday, August 30](https://www.pcgamer.com/games/puzzle/wordle-answer-today-august-30-2024)
  - [Deadlock&#39;s first major patch adds wall jumping and over a hundred balance changes](https://www.pcgamer.com/games/moba/deadlocks-first-major-patch-adds-wall-jumping-and-over-a-hundred-balance-changes)
- - [I spent an hour swearing, fleeing and dying in the machine-infested battlefields of The Forever Winter and cannot wait to do it again](https://www.pcgamer.com/games/third-person-shooter/i-spent-an-hour-swearing-fleeing-and-dying-in-the-machine-infested-battlefields-of-the-forever-winter-and-cannot-wait-to-do-it-again)
- - [&#39;We are not an extraction shooter, hero shooter, or some competitive tac shooter:&#39; Cyberpunk FPS Defect&#39;s secret fourth thing actually has me excited for a PvEvP game for once](https://www.pcgamer.com/games/fps/we-are-not-an-extraction-shooter-hero-shooter-or-some-competitive-tac-shooter-cyberpunk-fps-defect-s-secret-fourth-thing-actually-has-me-excited-for-a-pvevp-game-for-once)<!-- GAME:END -->
+ - [I spent an hour swearing, fleeing and dying in the machine-infested battlefields of The Forever Winter and cannot wait to do it again](https://www.pcgamer.com/games/third-person-shooter/i-spent-an-hour-swearing-fleeing-and-dying-in-the-machine-infested-battlefields-of-the-forever-winter-and-cannot-wait-to-do-it-again)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
