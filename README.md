@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Organizing WhatsApp chats is about to get a whole lot easier](https://www.androidauthority.com/whatsapp-lists-chat-filter-3476839/)
- - [You can now seamlessly transfer YouTube Music playlists to Apple Music](https://www.androidauthority.com/youtube-music-playlist-transfer-apple-music-3476850/)
- - [Intel definitively claims its laptop chips aren’t crashing because of that voltage thing](https://www.theverge.com/2024/8/30/24232279/intel-13th-14th-gen-laptop-crashing-vmin-shift-instability)<!-- TECH:END -->
+ - [CrowdStrike exec will testify to Congress about July’s global IT meltdown](https://www.theverge.com/2024/8/30/24232301/crowdstrike-vp-adam-meyers-congress-testimony-it-outage)
+ - [Amazon crushes it with this $1,499 M3 Pro MacBook Pro 14-inch deal](https://appleinsider.com/articles/24/08/30/amazon-crushes-it-with-this-1499-m3-pro-macbook-pro-14-inch-deal?utm_medium=rss)
+ - [Greenworks 60V Lawn Mower Review: It Just Cuts, Baby](https://www.wired.com/review/review-greenworks-60v-21-inch-self-propelled-lawn-mower/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
