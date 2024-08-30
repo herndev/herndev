@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Official Xbox Podcast | Deep Dive Into Atomfall](https://news.xbox.com/en-us/podcast/deep-dive-into-atomfall-official-xbox-podcast/)
- - [James Gunn Says &#39;No Truth&#39; To Recent Batman Game Rumor](https://kotaku.com/batman-matt-reeves-game-rumors-denied-james-gunn-1851637228)
- - [Report: Ubisoft&#39;s Once-Popular FPS Is Running Out Of Time](https://kotaku.com/xdefiant-ubisoft-months-season-3-low-playercount-pc-ps5-1851637209)<!-- GAME:END -->
+ - [Runescape is increasing its membership subscription costs, and players aren&#39;t happy: &#39;Inflation my a**&#39;](https://www.pcgamer.com/games/mmo/runescape-is-increasing-its-membership-subscription-costs-and-players-arent-happy-inflation-my-a)
+ - [Read an exclusive excerpt from a teen horror comic inspired by real small town cults](https://www.polygon.com/comics/446256/loving-ohio-comic-excerpt-matthew-erman-sam-beck)
+ - [Pick Up This Outstanding, Delightfully Weird Shooter On Sale](https://kotaku.com/control-playstation-sale-remedy-connected-universe-1851637320)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
