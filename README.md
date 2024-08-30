@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Pixel 9 Deals: Save on Google&#39;s New Pixel 9 Series With These Current Offers](https://www.cnet.com/deals/best-pixel-9-deals/#ftag=CAD590a51e)
- - [Ouch: The Pixel 9 Pro Fold can’t be charged with the Pixel Stand](https://www.androidauthority.com/google-pixel-9-pro-fold-pixel-stand-3476226/)
- - [The 17 Best Labor Day Sleep Deals of 2024: Sheets, Pillows, Tech and More](https://www.cnet.com/deals/best-labor-day-sleep-deals-2024/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Like things perfectly balanced? Don’t look at the Pixel 9’s wireless charging coils](https://www.androidauthority.com/google-pixel-9-wireless-charging-coil-position-3476750/)
+ - [A look at Google&#39;s HeAR, a bioacoustics healthcare AI model trained 300M sounds, including 100M cough sounds, to analyze users&#39; coughs and detect tuberculosis &lpar;Saritha Rai/Bloomberg&rpar;](http://www.techmeme.com/240830/p2#a240830p2)
+ - [Don&#39;t Miss Your Chance to Snag a Year Long Costco Membership for Just $60, Plus $20 in Free Credit](https://www.cnet.com/deals/dont-miss-your-chance-to-snag-a-year-long-costco-membership-for-just-60-plus-20-in-free-credit/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
