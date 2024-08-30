@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Backpage co-founder sentenced to five years in prison](https://www.theverge.com/2024/8/30/24232069/backpage-founder-michael-lacey-sentenced-five-years-in-prison)
- - [China&#39;s top antitrust regulator says it has seen &quot;effective results&quot; that Alibaba has ceased the monopolistic practices that prompted an investigation in 2020 &lpar;Bloomberg&rpar;](http://www.techmeme.com/240830/p3#a240830p3)
- - [Hypocrite Apple broke Spotify Connect volume control, so here’s a wonky workaround](https://www.androidauthority.com/spotify-connect-mess-apple-3476762/)<!-- TECH:END -->
+ - [A federal judge dismisses a lawsuit claiming Elon Musk and Tesla pumped up Dogecoin into a &quot;pyramid scheme&quot;, finding that Musk&#39;s statements were &quot;aspirational&quot; &lpar;Rachel Graf/Bloomberg&rpar;](http://www.techmeme.com/240830/p6#a240830p6)
+ - [As Russia plans a trial of cross-border payments using crypto, some senior Russian leaders suggest it can help counter sanctions; experts doubt it will work &lpar;CoinDesk&rpar;](http://www.techmeme.com/240830/p5#a240830p5)
+ - [Sources: Amazon&#39;s revamped &quot;Remarkable&quot; Alexa, due for release in October, will be powered by Anthropic&#39;s Claude, with plans to charge users $5 to $10/month &lpar;Greg Bensinger/Reuters&rpar;](http://www.techmeme.com/240830/p4#a240830p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
