@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Goldenmate 800W UPS review: Minimal, but effective power supply](https://appleinsider.com/articles/24/08/30/goldenmate-800w-ups-review-minimal-but-effective-power-supply?utm_medium=rss)
- - [Alibaba releases Qwen2-VL, a new AI model that it says can analyze videos longer than 20 minutes to summarize and answer questions about the videos&#39; content &lpar;Carl Franzen/VentureBeat&rpar;](http://www.techmeme.com/240829/p36#a240829p36)
- - [Controversial AI Bill Passes Legislative Vote](https://www.cnet.com/tech/services-and-software/controversial-ai-bill-passes-legislative-vote/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sources: Intel explores options to cope with historic slump, including a split of its product and foundry units and potentially scrapping some factory projects &lpar;Bloomberg&rpar;](http://www.techmeme.com/240829/p39#a240829p39)
+ - [Analysts and industry execs say Nvidia&#39;s Blackwell engineering challenges stem from combining two new processors and several memory components in a single chip &lpar;Asa Fitch/Wall Street Journal&rpar;](http://www.techmeme.com/240829/p38#a240829p38)
+ - [Indian quick grocery delivery startup Zepto raises $340M at a $5B valuation, up from $3.6B in June 2024, in a round led by General Catalyst &lpar;Reuters&rpar;](http://www.techmeme.com/240829/p37#a240829p37)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
