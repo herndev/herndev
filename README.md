@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Goldenmate 800W UPS review: Minimal, but effective power supply](https://appleinsider.com/articles/24/08/30/goldenmate-800w-ups-review-minimal-but-effective-power-supply?utm_medium=rss)
  - [Alibaba releases Qwen2-VL, a new AI model that it says can analyze videos longer than 20 minutes to summarize and answer questions about the videos&#39; content &lpar;Carl Franzen/VentureBeat&rpar;](http://www.techmeme.com/240829/p36#a240829p36)
- - [Controversial AI Bill Passes Legislative Vote](https://www.cnet.com/tech/services-and-software/controversial-ai-bill-passes-legislative-vote/#ftag=CAD590a51e)
- - [Hyundai’s electrified N Vision 74 is headed for production someday soon](https://www.theverge.com/2024/8/29/24231878/hyundai-n-vision-74-concept-electrified-car-launch-2030)<!-- TECH:END -->
+ - [Controversial AI Bill Passes Legislative Vote](https://www.cnet.com/tech/services-and-software/controversial-ai-bill-passes-legislative-vote/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
