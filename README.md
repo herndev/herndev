@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [It&#39;s no wonder why people of the past acted like Venice was a world wonder. They were already living in the future!](http://9gag.com/gag/a6ZbA5m)
- - ⏩ [Savage](http://9gag.com/gag/aMV8pEM)
- - 👉 [Based Latvia?](http://9gag.com/gag/avyGbxE)<!-- MEMES:END -->
+ - 💣 [Police didn&#39;t take it seriously.1point](http://9gag.com/gag/aD2WyX9)
+ - ⏩ [A Clean Neighbour](http://9gag.com/gag/apRpO1p)
+ - 👉 [Never nuke a country twice?](http://9gag.com/gag/aoy1Bq3)<!-- MEMES:END -->
 
 ---
 
