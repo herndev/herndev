@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta is opening up Horizon Worlds to users aged 10 to 12 with parental approval, and rolls out a new age rating system for worlds to help parents supervise kids &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/240829/p31#a240829p31)
- - [Android will no longer call slow chargers ‘fast,’ but only on Pixel 9 so far](https://www.androidauthority.com/pixel-9-charging-rapidly-lock-screen-3476687/)
- - [Sonos opens a Trello board so we can see how it’s fixing the busted app](https://www.theverge.com/2024/8/29/24231766/sonos-trello-board-fix-busted-app)<!-- TECH:END -->
+ - [MongoDB reports Q2 revenue up 13% YoY to $478.1M, vs. $464.1M est., and forecasts Q3 and FY 2025 revenue above estimates; MDB jumps 13%+ after hours &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/240829/p32#a240829p32)
+ - [Yelp files antitrust suit against Google over local search practices &lpar;Update: Yelp counter-response&rpar;](https://www.androidauthority.com/yelp-google-antitrust-3476169/)
+ - [Google’s AI chatbot for your Gmail inbox is rolling out on Android](https://www.theverge.com/2024/8/29/24231824/google-gmail-q-a-gemini-ai-chatbot-android)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
