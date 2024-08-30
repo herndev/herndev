@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best ebook reader to buy right now](https://www.theverge.com/23769068/best-ebook-readers)
- - [Deal: Some of you can get a MacBook Air M2 $250 off!](https://www.androidauthority.com/apple-macbook-air-m2-deal-4-3477048/)
- - [Mark Zuckerberg says Meta AI has over 185M weekly active users and over 400M MAUs and it&#39;s &quot;growing quickly&quot; even without a rollout &quot;in UK, Brazil, or EU yet&quot; &lpar;Kalley Huang/The Information&rpar;](http://www.techmeme.com/240830/p19#a240830p19)<!-- TECH:END -->
+ - [Nest Learning Thermostat users frustrated by dim display, fix on the way](https://www.androidauthority.com/nest-learning-thermostat-dimness-3477077/)
+ - [Brazil’s X ban is sending lots of people to Bluesky](https://www.theverge.com/2024/8/30/24232561/brazil-x-ban-sending-people-bluesky)
+ - [I cut my notifications: Here’s why you should too](https://www.androidauthority.com/why-to-cut-notifications-3476907/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
