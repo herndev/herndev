@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [CrowdStrike exec will testify to Congress about July’s global IT meltdown](https://www.theverge.com/2024/8/30/24232301/crowdstrike-vp-adam-meyers-congress-testimony-it-outage)
- - [Amazon crushes it with this $1,499 M3 Pro MacBook Pro 14-inch deal](https://appleinsider.com/articles/24/08/30/amazon-crushes-it-with-this-1499-m3-pro-macbook-pro-14-inch-deal?utm_medium=rss)
- - [Greenworks 60V Lawn Mower Review: It Just Cuts, Baby](https://www.wired.com/review/review-greenworks-60v-21-inch-self-propelled-lawn-mower/)<!-- TECH:END -->
+ - [OnePlus 13 rumors: Everything we know so far and what we want to see](https://www.androidauthority.com/oneplus-13-3436509/)
+ - [Circle to Search now automatically scans barcodes and QR codes](https://www.androidauthority.com/circle-to-search-barcode-scanner-rollout-3476930/)
+ - [The City of Columbus, OH, sues security researcher David Leroy Ross, aka Connor Goodwolf, accusing him of sharing data stolen by a ransomware gang with media &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/240830/p13#a240830p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
