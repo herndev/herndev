@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The must-watch anime to look out for in fall 2024](https://www.polygon.com/23960593/new-anime-2024-release-calendar-schedule-watch-streaming)
- - [Where Star Wars Outlaws fits into the larger Star Wars universe](https://www.polygon.com/gaming/446047/star-wars-outlaws-timeline-syndicates-explainer)
- - [How to find experts and unlock abilities in Star Wars Outlaws](https://www.polygon.com/star-wars-outlaws-guides/445441/all-abilities-experts-locations-where-to-find)<!-- GAME:END -->
+ - [Brennan Lee Mulligan talks the ‘freedom and joy’ of Never Stop Blowing Up](https://www.polygon.com/actual-play/445791/never-stop-blowing-up-dimension-20-brennan-lee-mulligan-interview)
+ - [Dustborn Developers Condemn ‘Tidal Wave Of Hate And Abuse’ Directed At The Team](https://kotaku.com/dustborn-red-thread-games-harassment-abuse-review-woke-1851636977)
+ - [Asus ROG Zephyrus G16 &lpar;2024&rpar; GA605 review](https://www.pcgamer.com/hardware/gaming-laptops/asus-rog-zephyrus-g16-2024-ga605-review)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
