@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The final scene of \u2018Men in Black\u2019 always leaves me pondering the nature of our reality.](http://9gag.com/gag/aRBmbD7)
- - ⏩ [Sonoluminescence - If you collapse an underwater bubble with a soundwave, light is produced, and nobody knows why](http://9gag.com/gag/aGy1WWG)
- - 👉 [F up and find out.... Apparently they asked them to turn down the loud music](http://9gag.com/gag/aAydWVE)<!-- MEMES:END -->
+ - 💣 [Femcels incoming](http://9gag.com/gag/azx8Njz)
+ - ⏩ [A Clean Neighbour](http://9gag.com/gag/apRpO1p)
+ - 👉 [Cupids Arrow you say?](http://9gag.com/gag/a4PbXyv)<!-- MEMES:END -->
 
 ---
 
