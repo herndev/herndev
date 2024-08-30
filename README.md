@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Truth about Indian street food](http://9gag.com/gag/aQz9GR8)
- - ⏩ [Born to be a dog, forced to be a wolf](http://9gag.com/gag/a0ebAYZ)
- - 👉 [Interesting Painting](http://9gag.com/gag/abAz3nB)<!-- MEMES:END -->
+ - 💣 [`Outlaw`](http://9gag.com/gag/a34Mvxm)
+ - ⏩ [This is how they record the Bugatti when it goes more than 300km](http://9gag.com/gag/a87yrPe)
+ - 👉 [Down to a Science: The Quick Drop Maestro](http://9gag.com/gag/avyGb3W)<!-- MEMES:END -->
 
 ---
 
