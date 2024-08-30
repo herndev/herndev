@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Alan Wake, Control TV and movie projects in the works from Annapurna](https://www.polygon.com/gaming/446186/alan-wake-control-movie-tv-annapurna-remedy)
- - [Orcs Must Die! Deathtrap proves slaughtering orcs is like riding a bike, but way more fun](https://www.pcgamer.com/games/action/orcs-must-die-deathtrap-proves-slaughtering-orcs-is-like-riding-a-bike-but-way-more-fun)
- - [Warhammer 40,000: Space Marine 2’s Photo Mode detailed](https://blog.playstation.com/2024/08/30/warhammer-40000-space-marine-2s-photo-mode-detailed/)<!-- GAME:END -->
+ - [Next Week on Xbox: New Games for September 2 to 6](https://news.xbox.com/en-us/2024/08/30/next-week-on-xbox-new-games-for-september-2-to-6/)
+ - [Rings of Power’s masked riders are playing with a messy Tolkien legacy](https://www.polygon.com/lotr-rings-of-power/445809/trop-rhun-dark-wizard-tolkien-ciaran-hinds)
+ - [Star Wars Outlaws&#39; Accessibility Options Are Astonishing](https://kotaku.com/star-wars-outlaws-settings-options-accessibility-guide-1851636696)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
