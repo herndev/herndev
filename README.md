@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [All the news on Telegram CEO Pavel Durov’s arrest](https://www.theverge.com/2024/8/30/24232138/telegram-ceo-pavel-durov-arrest-france-news)
- - [iPhone 16 Glowtime is coming, AirTags save the day on the AppleInsider Podcast](https://appleinsider.com/articles/24/08/30/iphone-16-glowtime-is-coming-airtags-save-the-day-on-the-appleinsider-podcast?utm_medium=rss)
- - [The Galaxy Z Fold Special Edition might be everything the Fold 6 should have been](https://www.androidauthority.com/samsung-galaxy-z-fold-special-edition-s-pen-slot-3476769/)<!-- TECH:END -->
+ - [Once hesitant to openly comment about politics, German tech leaders publicly voice their opposition to the far-right AfD ahead of Sunday&#39;s state elections &lpar;J.D. Capelouto/Semafor&rpar;](http://www.techmeme.com/240830/p9#a240830p9)
+ - [The best new streaming shows this week: Chastity High and more](https://www.androidauthority.com/best-new-tv-shows-to-stream-this-week-3084538/)
+ - [How to use iOS’s Live Text feature](https://www.theverge.com/22559167/ios-15-live-text-feature-how-to)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
