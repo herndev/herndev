@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Black Ops 6 will let players talk directly to their meat shield hostages, fans are already bracing for heretofore unseen levels of toxicity and abuse](https://www.pcgamer.com/games/fps/black-ops-6-will-let-players-talk-directly-to-their-meat-shield-hostages-fans-are-already-bracing-for-heretofore-unseen-levels-of-toxicity-and-abuse)
- - [The 8 best games from Nintendo’s blockbuster Switch sale](https://www.polygon.com/sales-guide/445917/nintendo-switch-blockbuster-sale-labor-day)
- - [Is this the most relatable image in gaming history?](https://www.polygon.com/opinion/446708/zelda-echoes-of-wisdom-sleep-in-bed-boss-fight)<!-- GAME:END -->
+ - [This upcoming survival game promises an unusual twist: You&#39;re an alien botanist who&#39;s crash-landed on Earth 300,000 years ago](https://www.pcgamer.com/games/survival-crafting/this-upcoming-survival-game-promises-an-unusual-twist-youre-an-alien-botanist-whos-crash-landed-on-earth-300000-years-ago)
+ - [Gearbox says Borderlands 4&#39;s humor will be grounded in its world: &#39;We want to make sure that it&#39;s situational, that it emerges naturally&#39;](https://www.pcgamer.com/games/fps/gearbox-says-borderlands-4s-humor-will-be-grounded-in-its-world-we-want-to-make-sure-that-its-situational-that-it-emerges-naturally)
+ - [Blizzard&#39;s next massive Diablo 4 update will let everyone enjoy its endgame in half the time and let blasters crank the difficulty up higher than ever before](https://www.pcgamer.com/games/rpg/blizzard-s-next-massive-diablo-4-update-will-let-everyone-enjoy-its-endgame-in-half-the-time-and-let-blasters-crank-the-difficulty-up-higher-than-ever-before)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
