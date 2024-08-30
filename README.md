@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [This open source tool updates DLSS to the latest version in all your games at once and no matter the launcher](https://www.pcgamer.com/hardware/this-open-source-tool-updates-dlss-to-the-latest-version-in-all-your-games-at-once-and-no-matter-the-launcher)
- - [As Intel&#39;s struggles continue, rumours are now emerging that plans are afoot to flog its chip-manufacturing fabs](https://www.pcgamer.com/hardware/processors/as-intels-struggles-continue-rumours-are-now-emerging-that-plans-are-afoot-to-flog-its-chip-manufacturing-fabs)
- - [There&#39;s a Teenage Mutant Ninja Turtles roguelike on its way to Steam that&#39;s basically Hades with co-op, and it&#39;s surprisingly bodacious, dudes](https://www.pcgamer.com/games/roguelike/there-s-a-teenage-mutant-ninja-turtles-roguelike-on-its-way-to-steam-that-s-basically-hades-with-co-op-and-it-s-surprisingly-bodacious-dudes)<!-- GAME:END -->
+ - [All Honkai: Star Rail codes from the 2.5 livestream](https://www.pcgamer.com/games/rpg/honkai-star-rail-codes-2-5-livestream)
+ - [Warhammer 40,000: Mechanicus 2&#39;s revamped Cognition system is incredibly clever, bridging the gap between wargame vets and tactics fans](https://www.pcgamer.com/games/strategy/warhammer-40-000-mechanicus-2-s-revamped-cognition-system-is-incredibly-clever-bridging-the-gap-between-wargame-vets-and-tactics-fans)
+ - [Shinji Mikami doesn&#39;t think the world needs another Dino Crisis, &#39;that&#39;s been kind of nailed down by Monster Hunter in recent years&#39;](https://www.pcgamer.com/games/horror/shinji-mikami-doesnt-think-the-world-needs-another-dino-crisis-thats-been-kind-of-nailed-down-by-monster-hunter-in-recent-years)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
