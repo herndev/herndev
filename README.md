@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [It got deleted, here again](http://9gag.com/gag/avy7pRn)
- - ⏩ [Welcome to Berlin!](http://9gag.com/gag/amo2N56)
- - 👉 [Witty title](http://9gag.com/gag/ae9bo1O)<!-- MEMES:END -->
+ - ⏩ [Look at those moves](http://9gag.com/gag/a9yr9GW)
+ - 👉 [`Oh my God` indeed. That range instructor stays very calm.](http://9gag.com/gag/adB90D9)<!-- MEMES:END -->
 
 ---
 
