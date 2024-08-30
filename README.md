@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Dustborn devs call out the &#39;tidal wave of hate and abuse&#39; that&#39;s engulfed the game: &#39;Those who engage in such behavior will be removed from our community&#39;](https://www.pcgamer.com/games/adventure/dustborn-devs-call-out-the-tidal-wave-of-hate-and-abuse-thats-engulfed-the-game-those-who-engage-in-such-behavior-will-be-removed-from-our-community)
- - [Shadow, Amy&#39;s Absence, And More The Internet Can&#39;t Stop Talking About From The Sonic 3 Trailer](https://kotaku.com/sonic-3-movie-trailer-reaction-keanu-reeves-shadow-amy-1851637185)
- - [After 10 years of reinventing The Elder Scrolls Online, its devs say they&#39;d have only done one thing differently: &#39;Pick the game you want to make&#39;](https://www.pcgamer.com/games/mmo/after-10-years-of-reinventing-the-elder-scrolls-online-its-devs-say-theyd-have-only-done-one-thing-differently-pick-the-game-you-want-to-make)<!-- GAME:END -->
+ - [Official Xbox Podcast | Deep Dive Into Atomfall](https://news.xbox.com/en-us/podcast/deep-dive-into-atomfall-official-xbox-podcast/)
+ - [James Gunn Says &#39;No Truth&#39; To Recent Batman Game Rumor](https://kotaku.com/batman-matt-reeves-game-rumors-denied-james-gunn-1851637228)
+ - [Report: Ubisoft&#39;s Once-Popular FPS Is Running Out Of Time](https://kotaku.com/xdefiant-ubisoft-months-season-3-low-playercount-pc-ps5-1851637209)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
