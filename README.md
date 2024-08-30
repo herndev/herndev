@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [AI the ultimate genie](http://9gag.com/gag/a9yrQyW)
- - ⏩ [Sonoluminescence - If you collapse an underwater bubble with a soundwave, light is produced, and nobody knows why](http://9gag.com/gag/aGy1WWG)
- - 👉 [Never nuke a country twice?](http://9gag.com/gag/aoy1Bq3)<!-- MEMES:END -->
+ - 💣 [It&#39;s no wonder why people of the past acted like Venice was a world wonder. They were already living in the future!](http://9gag.com/gag/a6ZbA5m)
+ - ⏩ [Based Latvia?](http://9gag.com/gag/avyGbxE)
+ - 👉 [Savage](http://9gag.com/gag/aMV8pEM)<!-- MEMES:END -->
 
 ---
 
