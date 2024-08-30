@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Femcels incoming](http://9gag.com/gag/azx8Njz)
- - ⏩ [A Clean Neighbour](http://9gag.com/gag/apRpO1p)
- - 👉 [Cupids Arrow you say?](http://9gag.com/gag/a4PbXyv)<!-- MEMES:END -->
+ - 💣 [Reminder: for single women over 30](http://9gag.com/gag/aVvqGqv)
+ - ⏩ [Never nuke a country twice?](http://9gag.com/gag/aoy1Bq3)
+ - 👉 [Relationship goal](http://9gag.com/gag/aVvqNxy)<!-- MEMES:END -->
 
 ---
 
