@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Space marines are so big the Space Marine 2 dev team had to spend a considerable amount of time just getting their walking and running animations right](https://www.pcgamer.com/games/third-person-shooter/space-marines-are-so-big-the-space-marine-2-dev-team-had-to-spend-a-considerable-amount-of-time-just-getting-their-walking-and-running-animations-right)
- - [Today&#39;s Wordle answer for Friday, August 30](https://www.pcgamer.com/games/puzzle/wordle-answer-today-august-30-2024)
- - [Deadlock&#39;s first major patch adds wall jumping and over a hundred balance changes](https://www.pcgamer.com/games/moba/deadlocks-first-major-patch-adds-wall-jumping-and-over-a-hundred-balance-changes)<!-- GAME:END -->
+ - [Call of Duty: Black Ops 6 pre-order guide](https://www.polygon.com/pre-order/445874/call-of-duty-black-ops-6-vault-edition-where-to-buy)
+ - [Black Ops 6 beta start time in early access, and how to get a beta code](https://www.polygon.com/black-ops-6-guides/445111/beta-times-dates-code-early-access)
+ - [Space marines are so big the Space Marine 2 dev team had to spend a considerable amount of time just getting their walking and running animations right](https://www.pcgamer.com/games/third-person-shooter/space-marines-are-so-big-the-space-marine-2-dev-team-had-to-spend-a-considerable-amount-of-time-just-getting-their-walking-and-running-animations-right)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
