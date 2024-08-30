@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [BBQ in balcony](http://9gag.com/gag/a7orjBm)
- - ⏩ [A short and witty title](http://9gag.com/gag/aqyb0gY)
- - 👉 [Little extra cheese on the taco](http://9gag.com/gag/a34qV2Q)<!-- MEMES:END -->
+ - 💣 [One way to develop trust issue](http://9gag.com/gag/a87yrMp)
+ - ⏩ [Sonoluminescence - If you collapse an underwater bubble with a soundwave, light is produced, and nobody knows why](http://9gag.com/gag/aGy1WWG)
+ - 👉 [Funny coz](http://9gag.com/gag/aW4mwjZ)<!-- MEMES:END -->
 
 ---
 
