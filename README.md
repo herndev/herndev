@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Your Guide to the Call of Duty: Black Ops 6 Multiplayer Beta Weekends on Xbox](https://news.xbox.com/en-us/2024/08/30/guide-to-black-ops-6-multiplayer-beta-on-xbox/)
- - [Rings of Power&amp;#8217;s elf hero wanted his big action scene to feel like anime](https://www.polygon.com/lotr-rings-of-power/445624/trop-elf-actor-ismael-cruz-cordova-interview-anime-action)
- - [Brandon Sanderson’s Cosmere TTRPG  becomes must-funded Kickstarter game ever](https://www.polygon.com/tabletop-games/446320/sanderson-cosmere-ttrpg-breaks-record-most-funded-game-kickstarter)<!-- GAME:END -->
+ - [Kotaku’s Weekend Guide: 5 Games To Enjoy This Labor Day](https://kotaku.com/kotaku-weekend-guide-star-wars-outlaws-sonic-1851637106)
+ - [Official PlayStation Podcast Episode 492: Puzzling Platforms](https://blog.playstation.com/2024/08/30/official-playstation-podcast-episode-492-puzzling-platforms/)
+ - [Official PlayStation Podcast Episode 492: Puzzling Platforms](https://blog.playstation.com/2024/08/30/official-playstation-podcast-episode-492-puzzling-platforms/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
