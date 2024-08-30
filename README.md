@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Thanks! Just started gaming today!](http://9gag.com/gag/aoy1B93)
- - ⏩ [The game is amazing](http://9gag.com/gag/adB9yP2)
- - 👉 [Post](http://9gag.com/gag/ary51m5)<!-- MEMES:END -->
+ - 💣 [One way to develop trust issue](http://9gag.com/gag/a87yrMp)
+ - ⏩ [Snow White and the Million Dislikes](http://9gag.com/gag/a878dm3)
+ - 👉 [Reminder: for single women over 30](http://9gag.com/gag/aVvqGqv)<!-- MEMES:END -->
 
 ---
 
