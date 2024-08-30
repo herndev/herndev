@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [All Honkai: Star Rail codes from the 2.5 livestream](https://www.pcgamer.com/games/rpg/honkai-star-rail-codes-2-5-livestream)
- - [Warhammer 40,000: Mechanicus 2&#39;s revamped Cognition system is incredibly clever, bridging the gap between wargame vets and tactics fans](https://www.pcgamer.com/games/strategy/warhammer-40-000-mechanicus-2-s-revamped-cognition-system-is-incredibly-clever-bridging-the-gap-between-wargame-vets-and-tactics-fans)
- - [Shinji Mikami doesn&#39;t think the world needs another Dino Crisis, &#39;that&#39;s been kind of nailed down by Monster Hunter in recent years&#39;](https://www.pcgamer.com/games/horror/shinji-mikami-doesnt-think-the-world-needs-another-dino-crisis-thats-been-kind-of-nailed-down-by-monster-hunter-in-recent-years)<!-- GAME:END -->
+ - [Alan Wake, Control TV and movie projects in the works from Annapurna](https://www.polygon.com/gaming/446186/alan-wake-control-movie-tv-annapurna-remedy)
+ - [Orcs Must Die! Deathtrap proves slaughtering orcs is like riding a bike, but way more fun](https://www.pcgamer.com/games/action/orcs-must-die-deathtrap-proves-slaughtering-orcs-is-like-riding-a-bike-but-way-more-fun)
+ - [Warhammer 40,000: Space Marine 2’s Photo Mode detailed](https://blog.playstation.com/2024/08/30/warhammer-40000-space-marine-2s-photo-mode-detailed/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
