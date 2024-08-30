@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Huione Guarantee, a Cambodia-based online marketplace that facilitates pig butchering and other scams, has processed $49B+ in crypto transactions since 2021 &lpar;Chainalysis&rpar;](http://www.techmeme.com/240830/p7#a240830p7)
- - [Apple Sports gets ready for football season, no matter if it’s soccer or handegg](https://www.androidauthority.com/apple-sports-football-update-3476794/)
- - [Spotify says Apple is blocking volume controls for connected devices](https://appleinsider.com/articles/24/08/30/spotify-says-apple-is-blocking-volume-controls-for-connected-devices?utm_medium=rss)<!-- TECH:END -->
+ - [All the news on Telegram CEO Pavel Durov’s arrest](https://www.theverge.com/2024/8/30/24232138/telegram-ceo-pavel-durov-arrest-france-news)
+ - [iPhone 16 Glowtime is coming, AirTags save the day on the AppleInsider Podcast](https://appleinsider.com/articles/24/08/30/iphone-16-glowtime-is-coming-airtags-save-the-day-on-the-appleinsider-podcast?utm_medium=rss)
+ - [The Galaxy Z Fold Special Edition might be everything the Fold 6 should have been](https://www.androidauthority.com/samsung-galaxy-z-fold-special-edition-s-pen-slot-3476769/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
