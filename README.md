@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Once hesitant to openly comment about politics, German tech leaders publicly voice their opposition to the far-right AfD ahead of Sunday&#39;s state elections &lpar;J.D. Capelouto/Semafor&rpar;](http://www.techmeme.com/240830/p9#a240830p9)
- - [The best new streaming shows this week: Chastity High and more](https://www.androidauthority.com/best-new-tv-shows-to-stream-this-week-3084538/)
- - [How to use iOS’s Live Text feature](https://www.theverge.com/22559167/ios-15-live-text-feature-how-to)<!-- TECH:END -->
+ - [A new iPad mini 7 may be close -- what the rumor mill says is coming](https://appleinsider.com/articles/24/08/30/a-new-ipad-mini-7-may-be-close----what-the-rumor-mill-says-is-coming?utm_medium=rss)
+ - [Investor note: 360 One values Indian startup VerSe, which operates popular news aggregator Dailyhunt, at $2.9B, down from $5B in 2022 when VerSe raised $805M &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/240830/p10#a240830p10)
+ - [AnandTech shuts down after 27 years](https://www.theverge.com/2024/8/30/24232171/anandtech-tech-journalism-hardware)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
