@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Call of Duty: Black Ops 6 pre-order guide](https://www.polygon.com/pre-order/445874/call-of-duty-black-ops-6-vault-edition-where-to-buy)
- - [Black Ops 6 beta start time in early access, and how to get a beta code](https://www.polygon.com/black-ops-6-guides/445111/beta-times-dates-code-early-access)
- - [Space marines are so big the Space Marine 2 dev team had to spend a considerable amount of time just getting their walking and running animations right](https://www.pcgamer.com/games/third-person-shooter/space-marines-are-so-big-the-space-marine-2-dev-team-had-to-spend-a-considerable-amount-of-time-just-getting-their-walking-and-running-animations-right)<!-- GAME:END -->
+ - [This open source tool updates DLSS to the latest version in all your games at once and no matter the launcher](https://www.pcgamer.com/hardware/this-open-source-tool-updates-dlss-to-the-latest-version-in-all-your-games-at-once-and-no-matter-the-launcher)
+ - [As Intel&#39;s struggles continue, rumours are now emerging that plans are afoot to flog its chip-manufacturing fabs](https://www.pcgamer.com/hardware/processors/as-intels-struggles-continue-rumours-are-now-emerging-that-plans-are-afoot-to-flog-its-chip-manufacturing-fabs)
+ - [There&#39;s a Teenage Mutant Ninja Turtles roguelike on its way to Steam that&#39;s basically Hades with co-op, and it&#39;s surprisingly bodacious, dudes](https://www.pcgamer.com/games/roguelike/there-s-a-teenage-mutant-ninja-turtles-roguelike-on-its-way-to-steam-that-s-basically-hades-with-co-op-and-it-s-surprisingly-bodacious-dudes)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
