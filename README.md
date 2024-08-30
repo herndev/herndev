@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [HR Math](http://9gag.com/gag/aW4mwL3)
- - ⏩ [I\u2019m not fooking paying that!](http://9gag.com/gag/aByW7VP)
+ - 💣 [AI the ultimate genie](http://9gag.com/gag/a9yrQyW)
+ - ⏩ [Sonoluminescence - If you collapse an underwater bubble with a soundwave, light is produced, and nobody knows why](http://9gag.com/gag/aGy1WWG)
  - 👉 [Never nuke a country twice?](http://9gag.com/gag/aoy1Bq3)<!-- MEMES:END -->
 
 ---
