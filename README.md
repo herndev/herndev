@@ -48,7 +48,7 @@
 <!-- MEMES:START -->
  - 💣 [Thanks! Just started gaming today!](http://9gag.com/gag/aoy1B93)
  - ⏩ [The game is amazing](http://9gag.com/gag/adB9yP2)
- - 👉 [Let me rest here](http://9gag.com/gag/an7jqM5)<!-- MEMES:END -->
+ - 👉 [Post](http://9gag.com/gag/ary51m5)<!-- MEMES:END -->
 
 ---
 
