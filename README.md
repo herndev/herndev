@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Deadlock&#39;s first major patch adds wall jumping and over a hundred balance changes](https://www.pcgamer.com/games/moba/deadlocks-first-major-patch-adds-wall-jumping-and-over-a-hundred-balance-changes)
  - [I spent an hour swearing, fleeing and dying in the machine-infested battlefields of The Forever Winter and cannot wait to do it again](https://www.pcgamer.com/games/third-person-shooter/i-spent-an-hour-swearing-fleeing-and-dying-in-the-machine-infested-battlefields-of-the-forever-winter-and-cannot-wait-to-do-it-again)
- - [&#39;We are not an extraction shooter, hero shooter, or some competitive tac shooter:&#39; Cyberpunk FPS Defect&#39;s secret fourth thing actually has me excited for a PvEvP game for once](https://www.pcgamer.com/games/fps/we-are-not-an-extraction-shooter-hero-shooter-or-some-competitive-tac-shooter-cyberpunk-fps-defect-s-secret-fourth-thing-actually-has-me-excited-for-a-pvevp-game-for-once)
- - [Sid Meier was apparently baffled by the decision to launch Civilization 5 without Genghis Khan: &#39;Sid said, What?&#39;](https://www.pcgamer.com/games/strategy/sid-meier-was-apparently-baffled-by-the-decision-to-launch-civilization-5-without-genghis-khan-sid-said-what)<!-- GAME:END -->
+ - [&#39;We are not an extraction shooter, hero shooter, or some competitive tac shooter:&#39; Cyberpunk FPS Defect&#39;s secret fourth thing actually has me excited for a PvEvP game for once](https://www.pcgamer.com/games/fps/we-are-not-an-extraction-shooter-hero-shooter-or-some-competitive-tac-shooter-cyberpunk-fps-defect-s-secret-fourth-thing-actually-has-me-excited-for-a-pvevp-game-for-once)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
