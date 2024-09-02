@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [FineWoven won&#39;t be missed, but it should be remembered](https://appleinsider.com/articles/24/09/02/finewoven-wont-be-missed-but-it-should-be-remembered?utm_medium=rss)
- - [I’ve used Google Messages for years, and I want it to copy these 5 features](https://www.androidauthority.com/google-messages-copy-features-3476014/)
- - [Apple&#39;s embrace of Matter and new automation accessories on HomeKit Insider](https://appleinsider.com/articles/24/09/02/apples-embrace-of-matter-and-new-automation-accessories-on-homekit-insider?utm_medium=rss)<!-- TECH:END -->
+ - [The best Labor Day sales happening now](https://www.theverge.com/24229577/best-labor-day-sales-2024-tech-deals-laptops-tvs-earbuds)
+ - [Windows 11 is now the most popular OS for PC gaming](https://www.theverge.com/2024/9/2/24234091/microsoft-windows-11-popular-steam-pc-gaming-survey)
+ - [16 Best Crossplay Games for Consoles and PC &lpar;2024&rpar;: Xbox, PlayStation, Switch, Mobile](https://www.wired.com/story/crossplay-games-console-pc-switch-mobile/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
