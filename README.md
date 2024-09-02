@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple lobbyists helped kill child online safety bill](https://appleinsider.com/articles/24/09/02/apple-a-big-child-smartphone-safety-proponent-while-spending-millions-to-lobby-against-mandates?utm_medium=rss)
- - [Windows 11 PCs may be stuck with Recall, after all](https://www.androidauthority.com/microsoft-recall-uninstall-3477433/)
- - [iPhone 16 rumors vs iPhone 13 - a comparison for upgraders](https://appleinsider.com/inside/iphone-16/vs/iphone-16-rumors-vs-iphone-13---a-comparison-for-upgraders?utm_medium=rss)<!-- TECH:END -->
+ - [Save $50 on These Anker Headphones at Amazon This Labor Day](https://www.cnet.com/deals/save-50-on-these-anker-headphones-at-amazon-this-labor-day/#ftag=CAD590a51e)
+ - [Best Labor Day Sales: We Found 130 Incredible Deals Worth Shopping From Amazon and Others](https://www.cnet.com/tech/best-labor-day-sales-2024-09-02/#ftag=CAD590a51e)
+ - [Best Labor Day Appliance Deals: Massive Discounts at Best Buy, Home Depot and More](https://www.cnet.com/deals/best-labor-day-appliance-sales-2024-09-02/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
