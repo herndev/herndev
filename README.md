@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Footage of a 12 year old kid in Michigan robbing a gas station at gun point.](http://9gag.com/gag/a9yAW0K)
- - ⏩ [Jack Sparrow&#39;s dad.](http://9gag.com/gag/aoyOp6m)
- - 👉 [You shouldn&#39;t pick that up](http://9gag.com/gag/a1mKYWD)<!-- MEMES:END -->
+ - 💣 [When you are a Norwegian princess and want to piss off mom and dad. So you marry a self proclaimed Shaman. And people wonder what&#39;s wrong with the world today.](http://9gag.com/gag/aBy8YEx)
+ - ⏩ [Walmart clearance find](http://9gag.com/gag/aGyew6G)
+ - 👉 [That&#39;s what happiness looks like](http://9gag.com/gag/amo28zj)<!-- MEMES:END -->
 
 ---
 
