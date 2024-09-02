@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle answer for Monday, September 2](https://www.pcgamer.com/games/puzzle/wordle-answer-today-september-2-2024)
  - [Five new Steam games you probably missed &lpar;September 2, 2024&rpar;](https://www.pcgamer.com/software/platforms/five-new-steam-games-you-probably-missed-september-2-2024)
- - [Crusader Kings 3 players have pet their digital cats and dogs over 11 million times](https://www.pcgamer.com/games/strategy/crusader-kings-3-players-have-pet-their-digital-cats-and-dogs-over-11-million-times)
- - [Risk of Rain 2 creators comment on Gearbox&#39;s first DLC without them: &#39;It&#39;s great to see new content for the game, but it&#39;s hard to see growing pains of the new team in real time&#39;](https://www.pcgamer.com/games/roguelike/risk-of-rain-2-creators-weigh-in-on-gearbox-s-first-dlc-without-them-it-s-great-to-see-new-content-for-the-game-but-it-s-hard-to-see-growing-pains-of-the-new-team-in-real-time)<!-- GAME:END -->
+ - [Crusader Kings 3 players have pet their digital cats and dogs over 11 million times](https://www.pcgamer.com/games/strategy/crusader-kings-3-players-have-pet-their-digital-cats-and-dogs-over-11-million-times)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
