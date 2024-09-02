@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Top Best Buy Labor Day Sales: Unbeatable Deals on Headphones, Laptops, Appliances and More](https://www.cnet.com/deals/best-buy-labor-day-sale-2024-09-01/#ftag=CAD590a51e)
+ - [What are Gemini Extensions? Make Google’s chatbot smarter than ChatGPT](https://www.androidauthority.com/gemini-extensions-3477277/)
  - [Best Labor Day Sales: Over 125 Can&#39;t-Miss Deals Happening Right Now From Amazon, Walmart, Best Buy and Others](https://www.cnet.com/tech/best-labor-day-sales-2024-09-01/#ftag=CAD590a51e)
- - [Brighten up Your Home This Labor Day With a Brilliant Discount on Enbrighten Smart Lights](https://www.cnet.com/deals/brighten-up-your-home-this-labor-day-with-a-brilliant-discount-on-enbrighten-smart-lights/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [M2 MacBook Air Is Back to $200 Off This Labor Day &lpar;$250 Off for My Best Buy Members&rpar;](https://www.cnet.com/deals/m2-macbook-air-is-back-200-off-this-labor-day-250-off-for-my-best-buy-members/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
