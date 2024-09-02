@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Times are tough for strippers](http://9gag.com/gag/a34M3xm)
- - ⏩ [You shouldn&#39;t pick that up](http://9gag.com/gag/a1mKYWD)
- - 👉 [That adrenaline rush when the Apophis asteroid visits us in 2029.](http://9gag.com/gag/azxqjOq)<!-- MEMES:END -->
+ - 💣 [Penny wise](http://9gag.com/gag/a1mKXQ6)
+ - ⏩ [Seems like nobody did this yet.](http://9gag.com/gag/an7jBnV)
+ - 👉 [When you are a Norwegian princess and want to piss off mom and dad. So you marry a self proclaimed Shaman. And people wonder what&#39;s wrong with the world today.](http://9gag.com/gag/aBy8YEx)<!-- MEMES:END -->
 
 ---
 
