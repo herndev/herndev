@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Bye-bye Exynos? All Galaxy S25 phones might have Snapdragon power](https://www.androidauthority.com/samsung-galaxy-s25-series-phones-snapdragon-3476738/)
  - [Best Labor Day Sales: Over 120 Can&#39;t-Miss Deals Happening Right Now From Amazon, Walmart, Best Buy and Others](https://www.cnet.com/tech/best-labor-day-sales-2024-09-01/#ftag=CAD590a51e)
- - [Sources: China has threatened Japan of severe economic retaliation if Japan further restricts sales and servicing of chipmaking equipment to Chinese firms &lpar;Bloomberg&rpar;](http://www.techmeme.com/240902/p1#a240902p1)
- - [Today&#39;s NYT Strands Hints, Answers and Help for Sept. 2, #183](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-sept-2-183/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sources: China has threatened Japan of severe economic retaliation if Japan further restricts sales and servicing of chipmaking equipment to Chinese firms &lpar;Bloomberg&rpar;](http://www.techmeme.com/240902/p1#a240902p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
