@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best Labor Day sales happening now](https://www.theverge.com/24229577/best-labor-day-sales-2024-tech-deals-laptops-tvs-earbuds)
- - [Windows 11 is now the most popular OS for PC gaming](https://www.theverge.com/2024/9/2/24234091/microsoft-windows-11-popular-steam-pc-gaming-survey)
- - [16 Best Crossplay Games for Consoles and PC &lpar;2024&rpar;: Xbox, PlayStation, Switch, Mobile](https://www.wired.com/story/crossplay-games-console-pc-switch-mobile/)<!-- TECH:END -->
+ - [Oasis ticketing chaos prompts probe into dynamic pricing](https://www.theverge.com/2024/9/2/24234149/oasis-reunion-tour-tickets-dynamic-pricing-probe-uk)
+ - [A majority of Brazilian judges on a Supreme Court panel vote to confirm an order to ban X in Brazil and fine those who don&#39;t comply with it by using a VPN &lpar;Daniel Carvalho/Bloomberg&rpar;](http://www.techmeme.com/240902/p9#a240902p9)
+ - [Best Labor Day Deals &lpar;2024&rpar;: TVs, AirPods Max, and More](https://www.wired.com/story/labor-day-deals-2024/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
