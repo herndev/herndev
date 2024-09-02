@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tim Cook hangs out with George Clooney as &#39;Wolfs&#39; gets standing ovation](https://appleinsider.com/articles/24/09/02/tim-cook-hangs-out-with-george-clooney-as-wolfs-gets-standing-ovation?utm_medium=rss)
- - [What a 160-year-old theory about coal predicts about our self-driving future](https://www.theverge.com/2024/9/2/24232386/self-driving-car-jevons-paradox-robotaxi-waymo-cruise)
- - [Sources: LobbyMatic, which offers AI tools for lobbying, is covertly run by far-right conspiracy theorists and convicted felons, including Jacob Wohl &lpar;Daniel Lippman/Politico&rpar;](http://www.techmeme.com/240902/p7#a240902p7)<!-- TECH:END -->
+ - [Google Pixel 9 review: the phone that Android needs](https://www.theverge.com/24232480/google-pixel-9-review-screen-camera-battery)
+ - [Google Chrome could soon bring back tab group sharing](https://www.androidauthority.com/chrome-tab-group-sharing-preview-3477341/)
+ - [Social networks can’t be forced to filter content for kids, says judge](https://www.theverge.com/2024/9/2/24232366/texas-scope-act-hb18-blocked-kids-online-safety)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
