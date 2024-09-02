@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [According to a court filing on August 30, SEC seeks a change in the FTX&#39;s bankruptcy plan and says it may challenge any distributions involving crypto assets &lpar;Amitoj Singh/CoinDesk&rpar;](http://www.techmeme.com/240902/p3#a240902p3)
- - [Apple may discontinue its most controversial 2023 product next week](https://www.androidauthority.com/apple-finewoven-discontinued-next-week-3477299/)
- - [Disney blocks ESPN, ABC, and other channels for millions of DirecTV subscribers](https://www.theverge.com/2024/9/2/24233997/disney-directv-blackout-espn-abc-carriage-dispute)<!-- TECH:END -->
+ - [Sources: ByteDance is tapping banks, including Citigroup and JPMorgan, for a $9.5B loan, the biggest dollar-denominated corporate loan in Asia excluding Japan &lpar;Chien Mi Wong/Bloomberg&rpar;](http://www.techmeme.com/240902/p6#a240902p6)
+ - [Here’s how the Play Store’s upcoming Auto-open feature works &lpar;APK teardown&rpar;](https://www.androidauthority.com/play-store-auto-open-early-look-3477312/)
+ - [OKX says OKX SG received a Major Payment Institution license from the Monetary Authority of Singapore, and appoints former Grab exec Gracie Lin as OKX SG CEO &lpar;Bloomberg&rpar;](http://www.techmeme.com/240902/p5#a240902p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
