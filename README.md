@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Check out the PSX vibes on spooky, lo-fi horror mystery Pinnacle Point](https://www.pcgamer.com/games/horror/check-out-the-psx-vibes-on-spooky-lo-fi-horror-mystery-pinnacle-point)
  - [Satisfactory&#39;s top-tier quantum tech will let you transmute metals like an alchemist](https://www.pcgamer.com/games/satisfactorys-top-tier-quantum-tech-will-let-you-transmute-metals-like-an-alchemist)
- - [Star Wars Outlaws Is A Crappy Masterpiece](https://kotaku.com/star-wars-outlaws-stealth-bugs-ubisoft-1851637931)
- - [Cairn might be the best climbing game I&#39;ve ever played, and I wish it was released already](https://www.pcgamer.com/games/action/cairn-might-be-the-best-climbing-game-ive-ever-played-and-i-wish-it-was-released-already)<!-- GAME:END -->
+ - [Star Wars Outlaws Is A Crappy Masterpiece](https://kotaku.com/star-wars-outlaws-stealth-bugs-ubisoft-1851637931)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
