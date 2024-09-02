@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Satisfactory&#39;s top-tier quantum tech will let you transmute metals like an alchemist](https://www.pcgamer.com/games/satisfactorys-top-tier-quantum-tech-will-let-you-transmute-metals-like-an-alchemist)
  - [Star Wars Outlaws Is A Crappy Masterpiece](https://kotaku.com/star-wars-outlaws-stealth-bugs-ubisoft-1851637931)
- - [Cairn might be the best climbing game I&#39;ve ever played, and I wish it was released already](https://www.pcgamer.com/games/action/cairn-might-be-the-best-climbing-game-ive-ever-played-and-i-wish-it-was-released-already)
- - [Capcom legend behind Dragon’s Dogma leaves after 30 years](https://www.polygon.com/news/446887/hideaki-itsuno-leaves-capcom-devil-may-cry-dragons-dogma)<!-- GAME:END -->
+ - [Cairn might be the best climbing game I&#39;ve ever played, and I wish it was released already](https://www.pcgamer.com/games/action/cairn-might-be-the-best-climbing-game-ive-ever-played-and-i-wish-it-was-released-already)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
