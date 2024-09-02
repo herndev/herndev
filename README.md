@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [That&#39;s what happiness looks like](http://9gag.com/gag/amo28zj)
- - ⏩ [2nd time](http://9gag.com/gag/axy0Gjb)
+ - 💣 [Footage of a 12 year old kid in Michigan robbing a gas station at gun point.](http://9gag.com/gag/a9yAW0K)
+ - ⏩ [Jack Sparrow&#39;s dad.](http://9gag.com/gag/aoyOp6m)
  - 👉 [You shouldn&#39;t pick that up](http://9gag.com/gag/a1mKYWD)<!-- MEMES:END -->
 
 ---
