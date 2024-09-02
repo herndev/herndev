@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Jacob Wohl is running an AI lobbying company under a pseudonym, Politico reports](https://www.theverge.com/2024/9/2/24234231/jacob-wohl-jack-burkman-ai-lobbying-lobbymatic-politico)
- - [Elon Musk boosts a post that disparages the abilities of &quot;women and low T men&quot;, advocates a &quot;Republic of high status males&quot;, and mentions a &quot;Reich effect&quot; &lpar;Ellsworth Toohey/Boing Boing&rpar;](http://www.techmeme.com/240902/p12#a240902p12)
- - [Best Labor Day Sales: We Found 132 Incredible Deals Worth Shopping From Amazon and Others](https://www.cnet.com/tech/best-labor-day-sales-2024-09-02/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [You can still get a $350 gift card with your Google Pixel 9 Pro Fold pre-order](https://www.androidauthority.com/google-pixel-9-fold-deal-350-gift-card-3477489/)
+ - [Bissell&#39;s Little Green Cleaner Is Only $88 for Labor Day](https://www.cnet.com/deals/bissells-little-green-cleaner-is-only-88-for-labor-day/#ftag=CAD590a51e)
+ - [Best Buy Labor Day Sales: Celebrate With Major Discounts on TVs, Tablets, Appliances and More](https://www.cnet.com/deals/best-buy-labor-day-sale-2024-09-02/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
