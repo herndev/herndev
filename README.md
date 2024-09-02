@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Fidelity&#39;s latest valuation of X, 72% lower than when Musk took over, would mean top investor Prince Alwaleed bin Talal al Saud is down $1.4B and Ellison $720M &lpar;Faiz Siddiqui/Washington Post&rpar;](http://www.techmeme.com/240901/p9#a240901p9)
- - [Best Labor Day Sales: 127 Can&#39;t-Miss Deals Happening Right Now From Amazon, Walmart, Best Buy, and Others](https://www.cnet.com/tech/best-labor-day-sales-2024-09-01/#ftag=CAD590a51e)
- - [Best Internet Providers in Waco, Texas](https://www.cnet.com/home/internet/best-internet-providers-in-waco-tx/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Top Best Buy Labor Day Sales: Unbeatable Deals on Headphones, Laptops, Appliances and More](https://www.cnet.com/deals/best-buy-labor-day-sale-2024-09-01/#ftag=CAD590a51e)
+ - [Best Labor Day Sales: Over 125 Can&#39;t-Miss Deals Happening Right Now From Amazon, Walmart, Best Buy and Others](https://www.cnet.com/tech/best-labor-day-sales-2024-09-01/#ftag=CAD590a51e)
+ - [Brighten up Your Home This Labor Day With a Brilliant Discount on Enbrighten Smart Lights](https://www.cnet.com/deals/brighten-up-your-home-this-labor-day-with-a-brilliant-discount-on-enbrighten-smart-lights/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
