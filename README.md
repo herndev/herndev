@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Starlink, which has 250K customers in Brazil, told Brazil&#39;s telecom agency that it would not comply with orders to block X until its frozen assets were released &lpar;Jack Nicas/New York Times&rpar;](http://www.techmeme.com/240902/p10#a240902p10)
- - [Best Buy&#39;s $749 MacBook Air deal ends today](https://appleinsider.com/articles/24/09/02/best-buys-749-macbook-air-deal-ends-today?utm_medium=rss)
- - [Best Labor Day TV Sales 2024: Over 50 Amazing Discounts on TVs From Sony, TCL and More](https://www.cnet.com/deals/best-labor-day-tv-sales-2024-09-02/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple lobbyists helped kill child online safety bill](https://appleinsider.com/articles/24/09/02/apple-a-big-child-smartphone-safety-proponent-while-spending-millions-to-lobby-against-mandates?utm_medium=rss)
+ - [Windows 11 PCs may be stuck with Recall, after all](https://www.androidauthority.com/microsoft-recall-uninstall-3477433/)
+ - [iPhone 16 rumors vs iPhone 13 - a comparison for upgraders](https://appleinsider.com/inside/iphone-16/vs/iphone-16-rumors-vs-iphone-13---a-comparison-for-upgraders?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
