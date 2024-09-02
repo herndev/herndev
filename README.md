@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Penny wise](http://9gag.com/gag/a1mKXQ6)
- - ⏩ [Scary](http://9gag.com/gag/aqy12qj)
- - 👉 [They get what they deserve, I guess...](http://9gag.com/gag/adB9pDQ)<!-- MEMES:END -->
+ - 💣 [Go woke and go broke Empowered](http://9gag.com/gag/ajPNqrx)
+ - ⏩ [Can someone translate what he said](http://9gag.com/gag/a1mKM2v)
+ - 👉 [That adrenaline rush when the Apophis asteroid visits us in 2029.](http://9gag.com/gag/azxqjOq)<!-- MEMES:END -->
 
 ---
 
