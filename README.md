@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Orcs GOOD. Orange man BAD. &lpar;It would appear that The Tolkien Estate approved this new perspective&rpar;.](http://9gag.com/gag/an7jXLb)
- - ⏩ [You shouldn&#39;t pick that up](http://9gag.com/gag/a1mKYWD)
- - 👉 [Never forget...](http://9gag.com/gag/a4PGdLA)<!-- MEMES:END -->
+ - 💣 [The show has created some dumb people just as the movies have created some dumb people.](http://9gag.com/gag/aKGDPrO)
+ - ⏩ [Walmart clearance find](http://9gag.com/gag/aGyew6G)
+ - 👉 [You shouldn&#39;t pick that up](http://9gag.com/gag/a1mKYWD)<!-- MEMES:END -->
 
 ---
 
