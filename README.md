@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How MechWarrior 5: Clans is bringing a narrative focus and intricate, handcrafted missions back to the storied series](https://www.pcgamer.com/games/sim/how-mechwarrior-5-clans-is-bringing-a-narrative-focus-and-intricate-handcrafted-missions-back-to-the-storied-series)
- - [Today&#39;s Wordle answer for Monday, September 2](https://www.pcgamer.com/games/puzzle/wordle-answer-today-september-2-2024)
- - [Five new Steam games you probably missed &lpar;September 2, 2024&rpar;](https://www.pcgamer.com/software/platforms/five-new-steam-games-you-probably-missed-september-2-2024)<!-- GAME:END -->
+ - [Larian looked to popular homebrew D&amp;D rules for Baldur&#39;s Gate 3: &#39;We were like—okay, we&#39;re not crazy, some people do it, so maybe we can try it as well&#39;](https://www.pcgamer.com/games/baldurs-gate/larian-looked-to-popular-homebrew-d-d-rules-for-baldur-s-gate-3-we-were-like-okay-we-re-not-crazy-some-people-do-it-so-maybe-we-can-try-it-as-well)
+ - [Just in time for Labor Day, Ayaneo handheld gaming PCs are now available in the US at Best Buy](https://www.pcgamer.com/hardware/handheld-gaming-pcs/just-in-time-for-labor-day-ayaneo-handheld-gaming-pcs-are-now-available-in-the-us-at-best-buy)
+ - [How MechWarrior 5: Clans is bringing a narrative focus and intricate, handcrafted missions back to the storied series](https://www.pcgamer.com/games/sim/how-mechwarrior-5-clans-is-bringing-a-narrative-focus-and-intricate-handcrafted-missions-back-to-the-storied-series)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
