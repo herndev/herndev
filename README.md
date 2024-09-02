@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Larian looked to popular homebrew D&amp;D rules for Baldur&#39;s Gate 3: &#39;We were like—okay, we&#39;re not crazy, some people do it, so maybe we can try it as well&#39;](https://www.pcgamer.com/games/baldurs-gate/larian-looked-to-popular-homebrew-d-d-rules-for-baldur-s-gate-3-we-were-like-okay-we-re-not-crazy-some-people-do-it-so-maybe-we-can-try-it-as-well)
- - [Just in time for Labor Day, Ayaneo handheld gaming PCs are now available in the US at Best Buy](https://www.pcgamer.com/hardware/handheld-gaming-pcs/just-in-time-for-labor-day-ayaneo-handheld-gaming-pcs-are-now-available-in-the-us-at-best-buy)
- - [How MechWarrior 5: Clans is bringing a narrative focus and intricate, handcrafted missions back to the storied series](https://www.pcgamer.com/games/sim/how-mechwarrior-5-clans-is-bringing-a-narrative-focus-and-intricate-handcrafted-missions-back-to-the-storied-series)<!-- GAME:END -->
+ - [Star Wars Outlaws: Where to find the market trader in the Counterfeit Credits quest](https://www.pcgamer.com/games/action/star-wars-outlaws-market-trader-counterfeit-credits)
+ - [My Lovely Empress: How Xbox Helped a Fascinating Game Find Its Audience](https://news.xbox.com/en-us/2024/09/02/my-lovely-empress-xbox/)
+ - [Larian looked to popular homebrew D&amp;D rules for Baldur&#39;s Gate 3: &#39;We were like—okay, we&#39;re not crazy, some people do it, so maybe we can try it as well&#39;](https://www.pcgamer.com/games/baldurs-gate/larian-looked-to-popular-homebrew-d-d-rules-for-baldur-s-gate-3-we-were-like-okay-we-re-not-crazy-some-people-do-it-so-maybe-we-can-try-it-as-well)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
