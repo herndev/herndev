@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Brazil bans X: all the latest news](https://www.theverge.com/2024/8/30/24232573/brazil-x-twitter-ban-elon-musk)
- - [An analysis of 6,599 keywords shows Google is offering AI Overviews for 17% of queries in the UK and US, but rarely for searches about current events &lpar;Dominic Ponsford/Press Gazette&rpar;](http://www.techmeme.com/240830/p21#a240830p21)
- - [The Apple AirTag 4-Pack dropped to just $75](https://www.androidauthority.com/apple-airtag-4-pack-deal-3477047/)<!-- TECH:END -->
+ - [A look at Sub.club, which aims to let users on ActivityPub-based platforms monetize content via subscriptions while taking a 6% cut, available in dev preview &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/240901/p8#a240901p8)
+ - [Dune Analytics: Pump.fun has generated over $100M in cumulative revenue from more than 1M memecoins created on the platform since its launch in January 2024 &lpar;Zack Abrams/The Block&rpar;](http://www.techmeme.com/240901/p7#a240901p7)
+ - [Best Labor Day Sales: 125+ Fantastic Deals Happening Right Now From Amazon, Best Buy, and Others](https://www.cnet.com/tech/best-labor-day-sales-2024-09-01/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
