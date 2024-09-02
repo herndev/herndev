@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The kingdom will last forever](http://9gag.com/gag/aqy1Ly7)
- - ⏩ [Perfect shot reveals rigged game](http://9gag.com/gag/aAyDw49)
- - 👉 [This is so pure...love always wins](http://9gag.com/gag/aKGDBp1)<!-- MEMES:END -->
+ - 💣 [Penny wise](http://9gag.com/gag/a1mKXQ6)
+ - ⏩ [Scary](http://9gag.com/gag/aqy12qj)
+ - 👉 [They get what they deserve, I guess...](http://9gag.com/gag/adB9pDQ)<!-- MEMES:END -->
 
 ---
 
