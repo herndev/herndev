@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [They get what they deserve, I guess...](http://9gag.com/gag/adB9pDQ)
- - ⏩ [2nd time](http://9gag.com/gag/axy0Gjb)
- - 👉 [Hate it when this happens](http://9gag.com/gag/a878jEZ)<!-- MEMES:END -->
+ - 💣 [That&#39;s what happiness looks like](http://9gag.com/gag/amo28zj)
+ - ⏩ [That adrenaline rush when the Apophis asteroid visits us in 2029.](http://9gag.com/gag/azxqjOq)
+ - 👉 [They get what they deserve, I guess...](http://9gag.com/gag/adB9pDQ)<!-- MEMES:END -->
 
 ---
 
