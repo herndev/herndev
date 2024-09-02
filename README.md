@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Pixel 9 review: the phone that Android needs](https://www.theverge.com/24232480/google-pixel-9-review-screen-camera-battery)
- - [Google Chrome could soon bring back tab group sharing](https://www.androidauthority.com/chrome-tab-group-sharing-preview-3477341/)
- - [Social networks can’t be forced to filter content for kids, says judge](https://www.theverge.com/2024/9/2/24232366/texas-scope-act-hb18-blocked-kids-online-safety)<!-- TECH:END -->
+ - [FineWoven won&#39;t be missed, but it should be remembered](https://appleinsider.com/articles/24/09/02/finewoven-wont-be-missed-but-it-should-be-remembered?utm_medium=rss)
+ - [I’ve used Google Messages for years, and I want it to copy these 5 features](https://www.androidauthority.com/google-messages-copy-features-3476014/)
+ - [Apple&#39;s embrace of Matter and new automation accessories on HomeKit Insider](https://appleinsider.com/articles/24/09/02/apples-embrace-of-matter-and-new-automation-accessories-on-homekit-insider?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
