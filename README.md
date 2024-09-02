@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [It&#39;s late to school, her mother was even more anxious than she was.](http://9gag.com/gag/aW4qMX4)
- - ⏩ [Steve Chadman is tired of Ellen&#39;s BS already.](http://9gag.com/gag/aE0BYop)
- - 👉 [The American Dream](http://9gag.com/gag/ae9e65p)<!-- MEMES:END -->
+ - 💣 [They get what they deserve, I guess...](http://9gag.com/gag/adB9pDQ)
+ - ⏩ [The American Dream](http://9gag.com/gag/ae9e65p)
+ - 👉 [Perfect shot reveals rigged game](http://9gag.com/gag/aAyDw49)<!-- MEMES:END -->
 
 ---
 
