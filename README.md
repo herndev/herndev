@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Go woke and go broke Empowered](http://9gag.com/gag/ajPNqrx)
- - ⏩ [Why would you behave that way?](http://9gag.com/gag/ae9e6gW)
- - 👉 [Moaning Lisa](http://9gag.com/gag/aGye0DG)<!-- MEMES:END -->
+ - 💣 [The show has created some dumb people just as the movies have created some dumb people.](http://9gag.com/gag/aKGDPrO)
+ - ⏩ [Walmart clearance find](http://9gag.com/gag/aGyew6G)
+ - 👉 [You shouldn&#39;t pick that up](http://9gag.com/gag/a1mKYWD)<!-- MEMES:END -->
 
 ---
 
