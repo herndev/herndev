@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Penny wise](http://9gag.com/gag/a1mKXQ6)
- - ⏩ [Seems like nobody did this yet.](http://9gag.com/gag/an7jBnV)
- - 👉 [When you are a Norwegian princess and want to piss off mom and dad. So you marry a self proclaimed Shaman. And people wonder what&#39;s wrong with the world today.](http://9gag.com/gag/aBy8YEx)<!-- MEMES:END -->
+ - 💣 [That adrenaline rush when the Apophis asteroid visits us in 2029.](http://9gag.com/gag/azxqjOq)
+ - ⏩ [Can someone translate what he said](http://9gag.com/gag/a1mKM2v)
+ - 👉 [Hate it when this happens](http://9gag.com/gag/a878jEZ)<!-- MEMES:END -->
 
 ---
 
