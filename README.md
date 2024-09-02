@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung Galaxy S25 series rumors and leaks: Everything we know so far](https://www.androidauthority.com/samsung-galaxy-s25-3437280/)
- - [How I Use AI to Catch Cheaters at School](https://www.cnet.com/tech/services-and-software/how-i-use-ai-to-catch-cheaters-at-school/#ftag=CAD590a51e)
- - [Best Labor Day Sales: Over 120 Can&#39;t-Miss Deals Happening Right Now From Amazon, Walmart, Best Buy and Others](https://www.cnet.com/tech/best-labor-day-sales-2024-09-02/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Microsoft says its Recall uninstall option in Windows 11 is just a bug](https://www.theverge.com/2024/9/2/24233992/microsoft-recall-windows-11-uninstall-feature-bug)
+ - [A look at Amazon&#39;s and Bezos Earth Fund&#39;s growing influence on the carbon credit market, as experts worry about how Big Tech aims to achieve tough climate goals &lpar;Kenza Bryan/Financial Times&rpar;](http://www.techmeme.com/240902/p2#a240902p2)
+ - [Samsung Galaxy S25 series rumors and leaks: Everything we know so far](https://www.androidauthority.com/samsung-galaxy-s25-3437280/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
