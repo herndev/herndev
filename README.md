@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [You shouldn&#39;t pick that up](http://9gag.com/gag/a1mKYWD)
- - ⏩ [2nd time](http://9gag.com/gag/axy0Gjb)
- - 👉 [When you are a Norwegian princess and want to piss off mom and dad. So you marry a self proclaimed Shaman. And people wonder what&#39;s wrong with the world today.](http://9gag.com/gag/aBy8YEx)<!-- MEMES:END -->
+ - 💣 [It&#39;s late to school, her mother was even more anxious than she was.](http://9gag.com/gag/aW4qMX4)
+ - ⏩ [Steve Chadman is tired of Ellen&#39;s BS already.](http://9gag.com/gag/aE0BYop)
+ - 👉 [The American Dream](http://9gag.com/gag/ae9e65p)<!-- MEMES:END -->
 
 ---
 
