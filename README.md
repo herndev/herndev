@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Bye-bye Exynos? All Galaxy S25 phones might have Snapdragon power](https://www.androidauthority.com/samsung-galaxy-s25-series-phones-snapdragon-3476738/)
- - [Best Labor Day Sales: Over 120 Can&#39;t-Miss Deals Happening Right Now From Amazon, Walmart, Best Buy and Others](https://www.cnet.com/tech/best-labor-day-sales-2024-09-01/#ftag=CAD590a51e)
- - [Sources: China has threatened Japan of severe economic retaliation if Japan further restricts sales and servicing of chipmaking equipment to Chinese firms &lpar;Bloomberg&rpar;](http://www.techmeme.com/240902/p1#a240902p1)<!-- TECH:END -->
+ - [Samsung Galaxy S25 series rumors and leaks: Everything we know so far](https://www.androidauthority.com/samsung-galaxy-s25-3437280/)
+ - [How I Use AI to Catch Cheaters at School](https://www.cnet.com/tech/services-and-software/how-i-use-ai-to-catch-cheaters-at-school/#ftag=CAD590a51e)
+ - [Best Labor Day Sales: Over 120 Can&#39;t-Miss Deals Happening Right Now From Amazon, Walmart, Best Buy and Others](https://www.cnet.com/tech/best-labor-day-sales-2024-09-02/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
