@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Wildlife camera traps captures this Orangutan.](http://9gag.com/gag/a5QneVL)
- - ⏩ [Neighbour](http://9gag.com/gag/ajPNrBg)
- - 👉 [Memefy everything](http://9gag.com/gag/azxqg2N)<!-- MEMES:END -->
+ - 💣 [Penny wise](http://9gag.com/gag/a1mKXQ6)
+ - ⏩ [Can someone translate what he said](http://9gag.com/gag/a1mKM2v)
+ - 👉 [2nd time](http://9gag.com/gag/axy0Gjb)<!-- MEMES:END -->
 
 ---
 
