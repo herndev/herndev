@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: ByteDance is tapping banks, including Citigroup and JPMorgan, for a $9.5B loan, the biggest dollar-denominated corporate loan in Asia excluding Japan &lpar;Chien Mi Wong/Bloomberg&rpar;](http://www.techmeme.com/240902/p6#a240902p6)
- - [Here’s how the Play Store’s upcoming Auto-open feature works &lpar;APK teardown&rpar;](https://www.androidauthority.com/play-store-auto-open-early-look-3477312/)
- - [OKX says OKX SG received a Major Payment Institution license from the Monetary Authority of Singapore, and appoints former Grab exec Gracie Lin as OKX SG CEO &lpar;Bloomberg&rpar;](http://www.techmeme.com/240902/p5#a240902p5)<!-- TECH:END -->
+ - [Tim Cook hangs out with George Clooney as &#39;Wolfs&#39; gets standing ovation](https://appleinsider.com/articles/24/09/02/tim-cook-hangs-out-with-george-clooney-as-wolfs-gets-standing-ovation?utm_medium=rss)
+ - [What a 160-year-old theory about coal predicts about our self-driving future](https://www.theverge.com/2024/9/2/24232386/self-driving-car-jevons-paradox-robotaxi-waymo-cruise)
+ - [Sources: LobbyMatic, which offers AI tools for lobbying, is covertly run by far-right conspiracy theorists and convicted felons, including Jacob Wohl &lpar;Daniel Lippman/Politico&rpar;](http://www.techmeme.com/240902/p7#a240902p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
