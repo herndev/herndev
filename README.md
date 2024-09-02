@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [What are Gemini Extensions? Make Google’s chatbot smarter than ChatGPT](https://www.androidauthority.com/gemini-extensions-3477277/)
  - [Best Labor Day Sales: Over 125 Can&#39;t-Miss Deals Happening Right Now From Amazon, Walmart, Best Buy and Others](https://www.cnet.com/tech/best-labor-day-sales-2024-09-01/#ftag=CAD590a51e)
- - [M2 MacBook Air Is Back to $200 Off This Labor Day &lpar;$250 Off for My Best Buy Members&rpar;](https://www.cnet.com/deals/m2-macbook-air-is-back-200-off-this-labor-day-250-off-for-my-best-buy-members/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Today&#39;s NYT Strands Hints, Answers and Help for Sept. 2, #183](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-sept-2-183/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Connections Hints, Answers and Help for Sept. 2 #449](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-sept-2-449/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
