@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Acer Predator Helios 18 review](https://www.pcgamer.com/hardware/gaming-laptops/acer-predator-helios-18-review)
- - [WoW&#39;s auction house broke for nearly a week, thanks to a code change that made a database table go from roughly 40,000 rows to &#39;tens of millions&#39;](https://www.pcgamer.com/games/world-of-warcraft/wow-s-auction-house-broke-for-nearly-a-week-thanks-to-a-code-change-that-made-a-database-table-go-from-roughly-40-000-rows-to-tens-of-millions)
- - [Slow down—World of Warcraft: The War Within&#39;s best stories lie in its side quests and optional conversations](https://www.pcgamer.com/games/world-of-warcraft/slow-down-world-of-warcraft-the-war-within-s-best-stories-lie-in-its-side-quests-and-optional-conversations)<!-- GAME:END -->
+ - [Star Wars Outlaws Is A Crappy Masterpiece](https://kotaku.com/star-wars-outlaws-stealth-bugs-ubisoft-1851637931)
+ - [Cairn might be the best climbing game I&#39;ve ever played, and I wish it was released already](https://www.pcgamer.com/games/action/cairn-might-be-the-best-climbing-game-ive-ever-played-and-i-wish-it-was-released-already)
+ - [Capcom legend behind Dragon’s Dogma leaves after 30 years](https://www.polygon.com/news/446887/hideaki-itsuno-leaves-capcom-devil-may-cry-dragons-dogma)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
