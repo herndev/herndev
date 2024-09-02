@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Go woke and go broke Empowered](http://9gag.com/gag/ajPNqrx)
- - ⏩ [Can someone translate what he said](http://9gag.com/gag/a1mKM2v)
- - 👉 [That adrenaline rush when the Apophis asteroid visits us in 2029.](http://9gag.com/gag/azxqjOq)<!-- MEMES:END -->
+ - 💣 [Good old times](http://9gag.com/gag/adB978M)
+ - ⏩ [The kingdom will last forever](http://9gag.com/gag/aqy1Ly7)
+ - 👉 [Over 4 years of straight playtime, on one game...](http://9gag.com/gag/apRQvop)<!-- MEMES:END -->
 
 ---
 
