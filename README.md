@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Intel&#39;s CEO is reportedly set to present cost-cutting plan to the board and may &#39;slice off unnecessary businesses&#39;. Ouch](https://www.pcgamer.com/hardware/intels-ceo-is-reportedly-set-to-present-cost-cutting-plan-to-the-board-and-may-slice-off-unnecessary-businesses-ouch)
- - [Revenge And Retribution Reign In Our Post-Bash In Berlin WWE Pound-For-Pound Rankings](https://kotaku.com/bash-in-berlin-wwe-pound-for-pound-rankings-1851637766)
- - [Nintendo Officially Declares Breath Of The Wild To Be Outside Of The Zelda Series&#39; Timeline](https://kotaku.com/zelda-nintendo-breath-of-the-wild-timeline-1851637896)<!-- GAME:END -->
+ - [Acer Predator Helios 18 review](https://www.pcgamer.com/hardware/gaming-laptops/acer-predator-helios-18-review)
+ - [WoW&#39;s auction house broke for nearly a week, thanks to a code change that made a database table go from roughly 40,000 rows to &#39;tens of millions&#39;](https://www.pcgamer.com/games/world-of-warcraft/wow-s-auction-house-broke-for-nearly-a-week-thanks-to-a-code-change-that-made-a-database-table-go-from-roughly-40-000-rows-to-tens-of-millions)
+ - [Slow down—World of Warcraft: The War Within&#39;s best stories lie in its side quests and optional conversations](https://www.pcgamer.com/games/world-of-warcraft/slow-down-world-of-warcraft-the-war-within-s-best-stories-lie-in-its-side-quests-and-optional-conversations)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
