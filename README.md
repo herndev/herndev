@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Penny wise](http://9gag.com/gag/a1mKXQ6)
- - ⏩ [Can someone translate what he said](http://9gag.com/gag/a1mKM2v)
- - 👉 [2nd time](http://9gag.com/gag/axy0Gjb)<!-- MEMES:END -->
+ - 💣 [They get what they deserve, I guess...](http://9gag.com/gag/adB9pDQ)
+ - ⏩ [2nd time](http://9gag.com/gag/axy0Gjb)
+ - 👉 [Hate it when this happens](http://9gag.com/gag/a878jEZ)<!-- MEMES:END -->
 
 ---
 
