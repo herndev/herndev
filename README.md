@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Mind Cores Make All The Difference In Black Myth: Wukong](https://kotaku.com/black-myth-wukong-mind-cores-xu-dog-grind-1851637869)
- - [Mouse: P.I. for Hire devs share ambitions to make a game that&#39;s more than &#39;just a cool art project&#39;: A satirical metroidvania shooter with &#39;adult, deep, gripping storylines&#39;](https://www.pcgamer.com/games/fps/mouse-p-i-for-hire-devs-share-ambitions-to-make-a-game-that-s-more-than-just-a-cool-art-project-a-satirical-metroidvania-shooter-with-adult-deep-gripping-storylines)
- - [Microsoft might be planning to let AI loose on your local video and audio files with Windows 11 &#39;intelligent media search&#39;](https://www.pcgamer.com/software/windows/microsoft-might-be-planning-to-let-ai-loose-on-your-local-video-and-audio-files-with-windows-11-intelligent-media-search)<!-- GAME:END -->
+ - [Capcom Just Made Its Disastrous Mobile Resident Evil Games Even Worse](https://kotaku.com/resident-evil-7-village-capcom-ios-apple-1851637885)
+ - [Toonami’s push for original anime has always been ahead of the curve](https://www.polygon.com/anime/446097/toonami-original-anime-rick-morty-uzumaki-history)
+ - [Mind Cores Make All The Difference In Black Myth: Wukong](https://kotaku.com/black-myth-wukong-mind-cores-xu-dog-grind-1851637869)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
