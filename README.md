@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [There’s a reason why Google Gemini’s feeling a lot more responsive](https://www.androidauthority.com/gemini-faster-3477482/)
- - [Brazilian Supreme Court panel upholds X ban, while Starlink refuses to comply](https://www.theverge.com/2024/9/2/24234349/x-twitter-ban-brazil-supreme-court-elon-musk-moraes)
- - [Best Labor Day Sales: We Found Over 125 Amazing Deals Worth Shopping From Amazon and Others](https://www.cnet.com/tech/best-labor-day-sales-2024-09-02/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Deals: Apple iPad 9th and 10th generations are at all-time lows right now](https://www.androidauthority.com/apple-ipad-9th-10th-deals-3477488/)
+ - [Things are finally heating up for Google’s Pixel Thermometer app](https://www.androidauthority.com/pixel-thermometer-body-3477536/)
+ - [A look at the growing use of tablets in US prisons, letting inmates make calls, send messages, and more, as the FCC imposes price caps on voice and video calls &lpar;Nicholas G. Miller/Wall Street Journal&rpar;](http://www.techmeme.com/240902/p13#a240902p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
