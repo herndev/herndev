@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Star Wars Outlaws: Where to find the market trader in the Counterfeit Credits quest](https://www.pcgamer.com/games/action/star-wars-outlaws-market-trader-counterfeit-credits)
- - [My Lovely Empress: How Xbox Helped a Fascinating Game Find Its Audience](https://news.xbox.com/en-us/2024/09/02/my-lovely-empress-xbox/)
- - [Larian looked to popular homebrew D&amp;D rules for Baldur&#39;s Gate 3: &#39;We were like—okay, we&#39;re not crazy, some people do it, so maybe we can try it as well&#39;](https://www.pcgamer.com/games/baldurs-gate/larian-looked-to-popular-homebrew-d-d-rules-for-baldur-s-gate-3-we-were-like-okay-we-re-not-crazy-some-people-do-it-so-maybe-we-can-try-it-as-well)<!-- GAME:END -->
+ - [Mind Cores Make All The Difference In Black Myth: Wukong](https://kotaku.com/black-myth-wukong-mind-cores-xu-dog-grind-1851637869)
+ - [Mouse: P.I. for Hire devs share ambitions to make a game that&#39;s more than &#39;just a cool art project&#39;: A satirical metroidvania shooter with &#39;adult, deep, gripping storylines&#39;](https://www.pcgamer.com/games/fps/mouse-p-i-for-hire-devs-share-ambitions-to-make-a-game-that-s-more-than-just-a-cool-art-project-a-satirical-metroidvania-shooter-with-adult-deep-gripping-storylines)
+ - [Microsoft might be planning to let AI loose on your local video and audio files with Windows 11 &#39;intelligent media search&#39;](https://www.pcgamer.com/software/windows/microsoft-might-be-planning-to-let-ai-loose-on-your-local-video-and-audio-files-with-windows-11-intelligent-media-search)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
