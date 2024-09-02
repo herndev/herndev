@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [This upcoming survival game promises an unusual twist: You&#39;re an alien botanist who&#39;s crash-landed on Earth 300,000 years ago](https://www.pcgamer.com/games/survival-crafting/this-upcoming-survival-game-promises-an-unusual-twist-youre-an-alien-botanist-whos-crash-landed-on-earth-300000-years-ago)
- - [Gearbox says Borderlands 4&#39;s humor will be grounded in its world: &#39;We want to make sure that it&#39;s situational, that it emerges naturally&#39;](https://www.pcgamer.com/games/fps/gearbox-says-borderlands-4s-humor-will-be-grounded-in-its-world-we-want-to-make-sure-that-its-situational-that-it-emerges-naturally)
- - [Blizzard&#39;s next massive Diablo 4 update will let everyone enjoy its endgame in half the time and let blasters crank the difficulty up higher than ever before](https://www.pcgamer.com/games/rpg/blizzard-s-next-massive-diablo-4-update-will-let-everyone-enjoy-its-endgame-in-half-the-time-and-let-blasters-crank-the-difficulty-up-higher-than-ever-before)<!-- GAME:END -->
+ - [This demake of King&#39;s Quest 6 has been 18 years in the making](https://www.pcgamer.com/games/adventure/this-demake-of-kings-quest-6-has-been-18-years-in-the-making)
+ - [&#39;AI is coming for all of us:&#39; Mass Effect, Metal Gear Solid, and Baldur&#39;s Gate voice actor Jennifer Hale weighs in on SAG-AFTRA&#39;s games industry strike](https://www.pcgamer.com/gaming-industry/ai-is-coming-for-all-of-us-mass-effect-metal-gear-solid-and-baldur-s-gate-voice-actor-jennifer-hale-weighs-in-on-sag-aftra-s-games-industry-strike)
+ - [Frostpunk 2 will have official modding support](https://www.pcgamer.com/games/strategy/frostpunk-2-will-have-official-modding-support)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
