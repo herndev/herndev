@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Penny wise](http://9gag.com/gag/a1mKXQ6)
- - ⏩ [This is so pure...love always wins](http://9gag.com/gag/aKGDBp1)
- - 👉 [Jack Sparrow&#39;s dad.](http://9gag.com/gag/aoyOp6m)<!-- MEMES:END -->
+ - 💣 [Orcs GOOD. Orange man BAD. &lpar;It would appear that The Tolkien Estate approved this new perspective&rpar;.](http://9gag.com/gag/an7jXLb)
+ - ⏩ [You shouldn&#39;t pick that up](http://9gag.com/gag/a1mKYWD)
+ - 👉 [Never forget...](http://9gag.com/gag/a4PGdLA)<!-- MEMES:END -->
 
 ---
 
