@@ -47,7 +47,7 @@
 
 <!-- MEMES:START -->
  - 💣 [The show has created some dumb people just as the movies have created some dumb people.](http://9gag.com/gag/aKGDPrO)
- - ⏩ [Walmart clearance find](http://9gag.com/gag/aGyew6G)
+ - ⏩ [Can someone translate what he said](http://9gag.com/gag/a1mKM2v)
  - 👉 [You shouldn&#39;t pick that up](http://9gag.com/gag/a1mKYWD)<!-- MEMES:END -->
 
 ---
