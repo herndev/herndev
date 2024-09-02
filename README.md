@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Capcom Just Made Its Disastrous Mobile Resident Evil Games Even Worse](https://kotaku.com/resident-evil-7-village-capcom-ios-apple-1851637885)
- - [Toonami’s push for original anime has always been ahead of the curve](https://www.polygon.com/anime/446097/toonami-original-anime-rick-morty-uzumaki-history)
- - [Mind Cores Make All The Difference In Black Myth: Wukong](https://kotaku.com/black-myth-wukong-mind-cores-xu-dog-grind-1851637869)<!-- GAME:END -->
+ - [Intel&#39;s CEO is reportedly set to present cost-cutting plan to the board and may &#39;slice off unnecessary businesses&#39;. Ouch](https://www.pcgamer.com/hardware/intels-ceo-is-reportedly-set-to-present-cost-cutting-plan-to-the-board-and-may-slice-off-unnecessary-businesses-ouch)
+ - [Revenge And Retribution Reign In Our Post-Bash In Berlin WWE Pound-For-Pound Rankings](https://kotaku.com/bash-in-berlin-wwe-pound-for-pound-rankings-1851637766)
+ - [Nintendo Officially Declares Breath Of The Wild To Be Outside Of The Zelda Series&#39; Timeline](https://kotaku.com/zelda-nintendo-breath-of-the-wild-timeline-1851637896)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
