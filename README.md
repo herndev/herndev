@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft says its Recall uninstall option in Windows 11 is just a bug](https://www.theverge.com/2024/9/2/24233992/microsoft-recall-windows-11-uninstall-feature-bug)
- - [A look at Amazon&#39;s and Bezos Earth Fund&#39;s growing influence on the carbon credit market, as experts worry about how Big Tech aims to achieve tough climate goals &lpar;Kenza Bryan/Financial Times&rpar;](http://www.techmeme.com/240902/p2#a240902p2)
- - [Samsung Galaxy S25 series rumors and leaks: Everything we know so far](https://www.androidauthority.com/samsung-galaxy-s25-3437280/)<!-- TECH:END -->
+ - [According to a court filing on August 30, SEC seeks a change in the FTX&#39;s bankruptcy plan and says it may challenge any distributions involving crypto assets &lpar;Amitoj Singh/CoinDesk&rpar;](http://www.techmeme.com/240902/p3#a240902p3)
+ - [Apple may discontinue its most controversial 2023 product next week](https://www.androidauthority.com/apple-finewoven-discontinued-next-week-3477299/)
+ - [Disney blocks ESPN, ABC, and other channels for millions of DirecTV subscribers](https://www.theverge.com/2024/9/2/24233997/disney-directv-blackout-espn-abc-carriage-dispute)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
