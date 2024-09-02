@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The show has created some dumb people just as the movies have created some dumb people.](http://9gag.com/gag/aKGDPrO)
- - ⏩ [Walmart clearance find](http://9gag.com/gag/aGyew6G)
+ - 💣 [That&#39;s what happiness looks like](http://9gag.com/gag/amo28zj)
+ - ⏩ [2nd time](http://9gag.com/gag/axy0Gjb)
  - 👉 [You shouldn&#39;t pick that up](http://9gag.com/gag/a1mKYWD)<!-- MEMES:END -->
 
 ---
