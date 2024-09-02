@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [How MechWarrior 5: Clans is bringing a narrative focus and intricate, handcrafted missions back to the storied series](https://www.pcgamer.com/games/sim/how-mechwarrior-5-clans-is-bringing-a-narrative-focus-and-intricate-handcrafted-missions-back-to-the-storied-series)
  - [Today&#39;s Wordle answer for Monday, September 2](https://www.pcgamer.com/games/puzzle/wordle-answer-today-september-2-2024)
- - [Five new Steam games you probably missed &lpar;September 2, 2024&rpar;](https://www.pcgamer.com/software/platforms/five-new-steam-games-you-probably-missed-september-2-2024)
- - [Crusader Kings 3 players have pet their digital cats and dogs over 11 million times](https://www.pcgamer.com/games/strategy/crusader-kings-3-players-have-pet-their-digital-cats-and-dogs-over-11-million-times)<!-- GAME:END -->
+ - [Five new Steam games you probably missed &lpar;September 2, 2024&rpar;](https://www.pcgamer.com/software/platforms/five-new-steam-games-you-probably-missed-september-2-2024)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
