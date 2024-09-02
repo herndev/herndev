@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [This demake of King&#39;s Quest 6 has been 18 years in the making](https://www.pcgamer.com/games/adventure/this-demake-of-kings-quest-6-has-been-18-years-in-the-making)
- - [&#39;AI is coming for all of us:&#39; Mass Effect, Metal Gear Solid, and Baldur&#39;s Gate voice actor Jennifer Hale weighs in on SAG-AFTRA&#39;s games industry strike](https://www.pcgamer.com/gaming-industry/ai-is-coming-for-all-of-us-mass-effect-metal-gear-solid-and-baldur-s-gate-voice-actor-jennifer-hale-weighs-in-on-sag-aftra-s-games-industry-strike)
- - [Frostpunk 2 will have official modding support](https://www.pcgamer.com/games/strategy/frostpunk-2-will-have-official-modding-support)<!-- GAME:END -->
+ - [Risk of Rain 2 creators comment on Gearbox&#39;s first DLC without them: &#39;It&#39;s great to see new content for the game, but it&#39;s hard to see growing pains of the new team in real time&#39;](https://www.pcgamer.com/games/roguelike/risk-of-rain-2-creators-weigh-in-on-gearbox-s-first-dlc-without-them-it-s-great-to-see-new-content-for-the-game-but-it-s-hard-to-see-growing-pains-of-the-new-team-in-real-time)
+ - [A hardcore, turn-based zombie survival roguelike is getting good buzz on Steam](https://www.pcgamer.com/games/a-hardcore-turn-based-zombie-survival-roguelike-is-getting-good-buzz-on-steam)
+ - [This demake of King&#39;s Quest 6 has been 18 years in the making](https://www.pcgamer.com/games/adventure/this-demake-of-kings-quest-6-has-been-18-years-in-the-making)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
