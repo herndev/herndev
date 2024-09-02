@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [That&#39;s what happiness looks like](http://9gag.com/gag/amo28zj)
- - ⏩ [That adrenaline rush when the Apophis asteroid visits us in 2029.](http://9gag.com/gag/azxqjOq)
- - 👉 [They get what they deserve, I guess...](http://9gag.com/gag/adB9pDQ)<!-- MEMES:END -->
+ - 💣 [Penny wise](http://9gag.com/gag/a1mKXQ6)
+ - ⏩ [This is so pure...love always wins](http://9gag.com/gag/aKGDBp1)
+ - 👉 [Jack Sparrow&#39;s dad.](http://9gag.com/gag/aoyOp6m)<!-- MEMES:END -->
 
 ---
 
