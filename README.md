@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [They get what they deserve, I guess...](http://9gag.com/gag/adB9pDQ)
- - ⏩ [The American Dream](http://9gag.com/gag/ae9e65p)
- - 👉 [Perfect shot reveals rigged game](http://9gag.com/gag/aAyDw49)<!-- MEMES:END -->
+ - 💣 [When you are a Norwegian princess and want to piss off mom and dad. So you marry a self proclaimed Shaman. And people wonder what&#39;s wrong with the world today.](http://9gag.com/gag/aBy8YEx)
+ - ⏩ [Title](http://9gag.com/gag/a8788WQ)
+ - 👉 [Jack Sparrow&#39;s dad.](http://9gag.com/gag/aoyOp6m)<!-- MEMES:END -->
 
 ---
 
