@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Title](http://9gag.com/gag/a8788WQ)
- - ⏩ [Brazilian Highway simulator](http://9gag.com/gag/aW4qqd4)
- - 👉 [Something, something, consequences](http://9gag.com/gag/avy7rbn)<!-- MEMES:END -->
+ - 💣 [Perfect shot reveals rigged game](http://9gag.com/gag/aAyDw49)
+ - ⏩ [Aragorn enjoying KFC!](http://9gag.com/gag/aBy8W6z)
+ - 👉 [I can&#39;t see da difference](http://9gag.com/gag/aqy1L4Z)<!-- MEMES:END -->
 
 ---
 
