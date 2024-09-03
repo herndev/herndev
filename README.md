@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Aragorn enjoying KFC!](http://9gag.com/gag/aBy8W6z)
- - ⏩ [Penny wise](http://9gag.com/gag/a1mKXQ6)
- - 👉 [It&#39;s late to school, her mother was even more anxious than she was.](http://9gag.com/gag/aW4qMX4)<!-- MEMES:END -->
+ - 💣 [Well\u2026. Shit.](http://9gag.com/gag/a4PGZ71)
+ - ⏩ [The American Dream](http://9gag.com/gag/ae9e65p)
+ - 👉 [The mystery meatball man](http://9gag.com/gag/aD2zWeO)<!-- MEMES:END -->
 
 ---
 
