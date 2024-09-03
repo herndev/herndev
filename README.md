@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Deals: Apple iPad 9th and 10th generations are at all-time lows right now](https://www.androidauthority.com/apple-ipad-9th-10th-deals-3477488/)
- - [Things are finally heating up for Google’s Pixel Thermometer app](https://www.androidauthority.com/pixel-thermometer-body-3477536/)
- - [A look at the growing use of tablets in US prisons, letting inmates make calls, send messages, and more, as the FCC imposes price caps on voice and video calls &lpar;Nicholas G. Miller/Wall Street Journal&rpar;](http://www.techmeme.com/240902/p13#a240902p13)<!-- TECH:END -->
+ - [Best Labor Day Appliance Deals: Don&#39;t Miss Out on Massive Discounts at Best Buy, Home Depot and More](https://www.cnet.com/deals/best-labor-day-appliance-sales-2024-09-02/#ftag=CAD590a51e)
+ - [Best Labor Day Sales: We Found Over 125 Amazing Deals Worth Shopping From Amazon and Others](https://www.cnet.com/tech/best-labor-day-sales-2024-09-02/#ftag=CAD590a51e)
+ - [Best Labor Day Deals Under $25: Last-Minute Deals on Headphones, Kitchen, Smart Home Tech and More](https://www.cnet.com/deals/best-labor-day-deals-under-25-2024-09-02/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
