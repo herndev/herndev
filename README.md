@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Android 15 is out — but it’s not ready for your phone yet](https://www.theverge.com/2024/9/3/24234730/android-15-availability-circle-to-search-earthquake-alerts)
- - [Apple outs ninth developer beta for vision OS 2](https://appleinsider.com/articles/24/09/03/apple-outs-ninth-developer-beta-for-vision-os-2?utm_medium=rss)
- - [Snag This 13-Piece Carote Cookware Set for Just $70 With This Labor Day Sale](https://www.cnet.com/deals/snag-this-13-piece-carote-cookware-set-for-just-70-this-labor-day/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The Acer Chromebook Plus 516 GE gaming laptop is only $549 right now](https://www.androidauthority.com/acer-chromebook-plus-516-ge-deal-3477994/)
+ - [New VWs will answer some of your questions with ChatGPT](https://www.theverge.com/2024/9/3/24234979/volkswagen-vw-ai-chatgpt-plus-speech-id-4-gti-golf-r-tiguan)
+ - [The Search for the Face Behind Mavis Beacon Teaches Typing](https://www.wired.com/story/seeking-mavis-beacon/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
