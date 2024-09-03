@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [How to start world war 3](http://9gag.com/gag/aE0BnDe)
- - ⏩ [Aragorn enjoying KFC!](http://9gag.com/gag/aBy8W6z)
- - 👉 [Penny wise](http://9gag.com/gag/a1mKXQ6)<!-- MEMES:END -->
+ - 💣 [But tomorrow never came](http://9gag.com/gag/a2v4mWe)
+ - ⏩ [So peacefull nature](http://9gag.com/gag/aO8BvyD)
+ - 👉 [Well\u2026. Shit.](http://9gag.com/gag/a4PGZ71)<!-- MEMES:END -->
 
 ---
 
