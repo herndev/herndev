@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Pixel 9 Pro Fold brings Android’s classic taskbar back early](https://www.androidauthority.com/android-taskbar-pinning-3477910/)
- - [The Pixel 9 Pro Fold is the foldable we’ve been waiting for](https://www.theverge.com/24231795/pixel-9-pro-fold-hands-on-screen-size-foldable)
- - [Get a 4-pack of Apple AirTags for only $74.99 at Amazon](https://appleinsider.com/articles/24/09/03/get-a-4-pack-of-apple-airtags-for-only-7499-at-amazon?utm_medium=rss)<!-- TECH:END -->
+ - [Android 15 is out — but it’s not ready for your phone yet](https://www.theverge.com/2024/9/3/24234730/android-15-availability-circle-to-search-earthquake-alerts)
+ - [Apple outs ninth developer beta for vision OS 2](https://appleinsider.com/articles/24/09/03/apple-outs-ninth-developer-beta-for-vision-os-2?utm_medium=rss)
+ - [Snag This 13-Piece Carote Cookware Set for Just $70 With This Labor Day Sale](https://www.cnet.com/deals/snag-this-13-piece-carote-cookware-set-for-just-70-this-labor-day/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
