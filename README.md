@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Connections&amp;#8217; new feature means you can one-up your friends even harder](https://www.polygon.com/news/447179/nytimes-connections-share-stats-win-rate)
- - [Magic&amp;#8217;s Duskmourn channels ‘80s horror, adds new room cards](https://www.polygon.com/mtg-magic-the-gathering/447308/duskmourn-room-cards-explained)
- - [How to unlock the Choir of One Exotic Catalysts in Destiny 2](https://www.polygon.com/destiny-2-guide-walkthrough/445174/catalyst-quest-choir-of-one-encore-secret-chests)<!-- GAME:END -->
+ - [Two ways to save a video game industry on fire](https://www.polygon.com/opinion/446844/two-ways-to-save-a-video-game-industry-on-fire)
+ - [Get 20% off this Trigun Deluxe reprint before it launches next week](https://www.polygon.com/good-deals/447276/trigun-deluxe-manga-where-to-buy)
+ - [Connections’ new feature means you can one-up your friends even harder](https://www.polygon.com/news/447179/nytimes-connections-share-stats-win-rate)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
