@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [More memes and less propaganda please](http://9gag.com/gag/aE0BBY9)
- - ⏩ [The first one was reflex, the second one was intentional.](http://9gag.com/gag/ayNxxBM)
- - 👉 [Skank free](http://9gag.com/gag/aBy889P)<!-- MEMES:END -->
+ - 💣 [We can keep hold till you die, Earl.](http://9gag.com/gag/ae9eeV5)
+ - ⏩ [Well\u2026. Shit.](http://9gag.com/gag/a4PGZ71)
+ - 👉 [So don&#39;t worry](http://9gag.com/gag/a5QnnbE)<!-- MEMES:END -->
 
 ---
 
