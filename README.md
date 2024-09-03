@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Intel&#39;s Arrow Lake and Lunar Lake CPUs won&#39;t have the instability issues affecting 13th and 14th Gen processors](https://www.pcgamer.com/hardware/processors/intels-arrow-lake-and-lunar-lake-cpus-wont-have-the-instability-issues-affecting-13th-and-14th-gen-processors)
  - [Today&#39;s Wordle answer for Tuesday, September 3](https://www.pcgamer.com/games/puzzle/wordle-answer-today-september-3-2024)
- - [Check out the PSX vibes on spooky, lo-fi horror mystery Pinnacle Point](https://www.pcgamer.com/games/horror/check-out-the-psx-vibes-on-spooky-lo-fi-horror-mystery-pinnacle-point)
- - [Satisfactory&#39;s top-tier quantum tech will let you transmute metals like an alchemist](https://www.pcgamer.com/games/satisfactorys-top-tier-quantum-tech-will-let-you-transmute-metals-like-an-alchemist)<!-- GAME:END -->
+ - [Check out the PSX vibes on spooky, lo-fi horror mystery Pinnacle Point](https://www.pcgamer.com/games/horror/check-out-the-psx-vibes-on-spooky-lo-fi-horror-mystery-pinnacle-point)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
