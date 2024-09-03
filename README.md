@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Well\u2026. Shit.](http://9gag.com/gag/a4PGZ71)
- - ⏩ [The American Dream](http://9gag.com/gag/ae9e65p)
- - 👉 [The mystery meatball man](http://9gag.com/gag/aD2zWeO)<!-- MEMES:END -->
+ - 💣 [Title](http://9gag.com/gag/a8788WQ)
+ - ⏩ [Brazilian Highway simulator](http://9gag.com/gag/aW4qqd4)
+ - 👉 [Something, something, consequences](http://9gag.com/gag/avy7rbn)<!-- MEMES:END -->
 
 ---
 
