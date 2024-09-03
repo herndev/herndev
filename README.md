@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Flexible glass displays could replace MacBook Pro keyboards](https://appleinsider.com/articles/19/01/31/macbook-keyboard-failures-could-end-with-introduction-of-glass-panel-keyboards?utm_medium=rss)
- - [Zilch says it made an operating profit in July 2024, hitting profitability within four years of its founding date, and crossed &amp;pound;100M in annual revenue run rate &lpar;Ryan Browne/CNBC&rpar;](http://www.techmeme.com/240903/p8#a240903p8)
- - [Dubai-based Ziina, a P2P payments app with 50,000 retail and business customers, raised a $22M Series A led by Altos, bringing its total funding to $30M+ &lpar;Tage Kene-Okafor/TechCrunch&rpar;](http://www.techmeme.com/240903/p7#a240903p7)<!-- TECH:END -->
+ - [Canva says its AI features are worth the 300 percent price increase](https://www.theverge.com/2024/9/3/24234698/canva-price-increase-300-percent-ai-features)
+ - [Pixel Watch 3’s software support window is a far cry from the Pixel 9](https://www.androidauthority.com/pixel-watch-3-software-support-3477694/)
+ - [iPhone SE 4 rumored to finally ditch LCD for OLED in early 2025](https://appleinsider.com/articles/24/09/03/iphone-se-4-rumored-to-finally-ditch-lcd-for-oled-in-early-2025?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
