@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [FFXIV housing lottery schedule for September 2024](https://www.polygon.com/ffxiv-guides-ff14-final-fantasy-14-online/24115693/housing-lottery-schedule-entry-results-period)
- - [Why Gamescom Dominates Where E3 Failed](https://kotaku.com/gamescom-2024-e3-microsoft-gaming-show-1851638178)
- - [Cult Of The Lamb&#39;s Corrupted Relics And Tarot Cards Explained](https://kotaku.com/cult-of-the-lamb-corrupted-relics-tarot-cards-guide-1851638196)<!-- GAME:END -->
+ - [Introducing Lyn: Astroneer’s First Antagonist](https://news.xbox.com/en-us/2024/09/03/introducing-lyn-astroneers-first-antagonist/)
+ - [The First Sonic Movie Is Now On Netflix And Way Better Than You Think](https://kotaku.com/sonic-hedgehog-movies-2-3-where-to-watch-netflix-stream-1851638455)
+ - [Lexip Kakashi Kamui Naruto Shippuden controller review](https://www.pcgamer.com/hardware/controllers/lexip-kakashi-kamui-naruto-shippuden-controller-review)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
