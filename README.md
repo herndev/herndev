@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How accurate is the Galaxy Watch’s health tracking? Samsung’s latest study provides answers](https://www.androidauthority.com/galaxy-watch-fitness-data-accuracy-study-3478035/)
- - [Sources: the DOJ sent subpoenas to Nvidia and others, as it seeks evidence that Nvidia violated antitrust laws by making it harder to switch suppliers and more &lpar;Bloomberg&rpar;](http://www.techmeme.com/240903/p25#a240903p25)
- - [Here are the best AirPods deals you can get right now](https://www.theverge.com/21302051/best-apple-airpods-deals)<!-- TECH:END -->
+ - [Volkswagen rolls out its ChatGPT-integrated Plus Speech voice assistant in the US, starting with the 2025 Jetta and Jetta GLI; a subscription is required &lpar;Wes Davis/The Verge&rpar;](http://www.techmeme.com/240903/p28#a240903p28)
+ - [DOJ says it won&#39;t pressure social media companies to remove content about foreign threats to national security or elections, after claims platforms were coerced &lpar;Chris Strohm/Bloomberg&rpar;](http://www.techmeme.com/240903/p27#a240903p27)
+ - [The Nvidia AI antitrust investigation is ‘escalating,’ reports Bloomberg](https://www.theverge.com/2024/9/3/24235233/nvidia-doj-ai-antitrust-investigation)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
