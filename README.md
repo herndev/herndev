@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I am a single mother.... pffff hahahaha .... buuurnnn](http://9gag.com/gag/aE0Bx5p)
- - ⏩ [When your kids spends all character customization credits on combat and magic but leaves Intelligence on zero](http://9gag.com/gag/a4PG7Lw)
- - 👉 [How to load a .50 calibre flintlock](http://9gag.com/gag/a0e5bDz)<!-- MEMES:END -->
+ - 💣 [More memes and less propaganda please](http://9gag.com/gag/aE0BBY9)
+ - ⏩ [The first one was reflex, the second one was intentional.](http://9gag.com/gag/ayNxxBM)
+ - 👉 [Skank free](http://9gag.com/gag/aBy889P)<!-- MEMES:END -->
 
 ---
 
