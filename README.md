@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Peak Design’s Outdoor bags are ready for your next adventure](https://www.theverge.com/2024/9/3/24232208/peak-design-outdoor-backpacks-slings-price-specs)
- - [Bored of ChatGPT’s current voices? We’ve got good news for you](https://www.androidauthority.com/chatgpt-soon-offer-more-voices-3477784/)
- - [Some Big Tech critics worry that Kamala Harris&#39; deep ties to tech companies could prompt her to abandon Democrats&#39; recent aggressive stance toward the sector &lpar;Washington Post&rpar;](http://www.techmeme.com/240903/p11#a240903p11)<!-- TECH:END -->
+ - [Coinbase, Brian Armstrong, and their PACs haven&#39;t donated to Trump or Harris, instead pursuing a strategy of targeted donations to congressional campaigns &lpar;Bloomberg&rpar;](http://www.techmeme.com/240903/p12#a240903p12)
+ - [Apple’s next iPhone SE might get an OLED upgrade](https://www.theverge.com/2024/9/3/24234749/apple-iphone-se-4th-generation-oled-display-rumor-leak)
+ - [Exclusive: Google Pixel 9a to come with Tensor G4 but an older modem](https://www.androidauthority.com/exclusive-google-pixel-9a-modem-3477459/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
