@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Slav home renovation simulator](http://9gag.com/gag/aGyeeEG)
- - ⏩ [A nice, relaxing boat ride.](http://9gag.com/gag/a1mKQov)
- - 👉 [Concord is officially dead.](http://9gag.com/gag/aVvMYAn)<!-- MEMES:END -->
+ - 💣 [A Bribe to ease your mind with guilt](http://9gag.com/gag/aGye1On)
+ - ⏩ [Sorry for late BBQ photo](http://9gag.com/gag/aD2zxnw)
+ - 👉 [When your kids spends all character customization credits on combat and magic but leaves Intelligence on zero](http://9gag.com/gag/a4PG7Lw)<!-- MEMES:END -->
 
 ---
 
