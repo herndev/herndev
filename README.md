@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [11 Of The Best Games At PAX West 2024](https://kotaku.com/pax-best-games-life-strange-ritas-rewind-1851638757)
- - [&#39;There&#39;s a plane bro&#39;: A Call of Duty: Black Ops 6 calling card seemed to reference 9/11 before getting removed](https://www.pcgamer.com/games/call-of-duty/theres-a-plane-bro-a-call-of-duty-black-ops-6-calling-card-seemed-to-reference-911-before-getting-removed)
- - [9 Out-Of-This-World Games To Grab During Steam’s Big Space Sale](https://kotaku.com/steam-sale-space-sci-fi-no-mans-sky-outer-worlds-1851638672)<!-- GAME:END -->
+ - [Last call to save 90% on CRPG classics from Humble](https://www.polygon.com/deals/440566/humble-crpg-bundle-warhammer-rogue-trader-deal-sale)
+ - [Where to pre-order Mass Effect: The Board Game](https://www.polygon.com/pre-order/446633/mass-effect-board-game-where-to-buy-kickstarter)
+ - [Black Ops 6 Is So Fast It&#39;s Both Frustrating And Fun](https://kotaku.com/call-of-duty-black-ops-6-multiplayer-beta-weekend-1851638800)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
