@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Date](http://9gag.com/gag/a5QnbOy)
- - ⏩ [Title](http://9gag.com/gag/a8788WQ)
- - 👉 [Something, something, consequences](http://9gag.com/gag/avy7rbn)<!-- MEMES:END -->
+ - 💣 [Aragorn enjoying KFC!](http://9gag.com/gag/aBy8W6z)
+ - ⏩ [Penny wise](http://9gag.com/gag/a1mKXQ6)
+ - 👉 [It&#39;s late to school, her mother was even more anxious than she was.](http://9gag.com/gag/aW4qMX4)<!-- MEMES:END -->
 
 ---
 
