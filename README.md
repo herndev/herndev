@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle answer for Tuesday, September 3](https://www.pcgamer.com/games/puzzle/wordle-answer-today-september-3-2024)
  - [Check out the PSX vibes on spooky, lo-fi horror mystery Pinnacle Point](https://www.pcgamer.com/games/horror/check-out-the-psx-vibes-on-spooky-lo-fi-horror-mystery-pinnacle-point)
- - [Satisfactory&#39;s top-tier quantum tech will let you transmute metals like an alchemist](https://www.pcgamer.com/games/satisfactorys-top-tier-quantum-tech-will-let-you-transmute-metals-like-an-alchemist)
- - [Star Wars Outlaws Is A Crappy Masterpiece](https://kotaku.com/star-wars-outlaws-stealth-bugs-ubisoft-1851637931)<!-- GAME:END -->
+ - [Satisfactory&#39;s top-tier quantum tech will let you transmute metals like an alchemist](https://www.pcgamer.com/games/satisfactorys-top-tier-quantum-tech-will-let-you-transmute-metals-like-an-alchemist)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
