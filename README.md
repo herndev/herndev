@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [A Bribe to ease your mind with guilt](http://9gag.com/gag/aGye1On)
- - ⏩ [Sorry for late BBQ photo](http://9gag.com/gag/aD2zxnw)
- - 👉 [When your kids spends all character customization credits on combat and magic but leaves Intelligence on zero](http://9gag.com/gag/a4PG7Lw)<!-- MEMES:END -->
+ - 💣 [Sorry for late BBQ photo](http://9gag.com/gag/aD2zxnw)
+ - ⏩ [THRIFT was misunderstood to be THEFT i guess.](http://9gag.com/gag/ayNxXjr)
+ - 👉 [A Bribe to ease your mind with guilt](http://9gag.com/gag/aGye1On)<!-- MEMES:END -->
 
 ---
 
