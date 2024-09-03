@@ -39,7 +39,7 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Labor Day Sales: Over 125 Amazing Deals Still Happening from Amazon, Best Buy and Others](https://www.cnet.com/tech/best-labor-day-sales-2024-09-02/#ftag=CAD590a51e)
+ - [Best Labor Day Sales: 125+ Big Deals Still Live from Amazon, Best Buy and More](https://www.cnet.com/tech/best-labor-day-sales-2024-09-02/#ftag=CAD590a51e)
  - [Heybike Hauler review: Hefty yet comfortable e-bike for errands](https://appleinsider.com/articles/24/09/03/heybike-hauler-review-hefty-yet-comfortable-e-bike-for-errands?utm_medium=rss)
  - [Best Mattresses for Couples in 2024](https://www.cnet.com/health/sleep/best-mattresses-for-couples/#ftag=CAD590a51e)<!-- TECH:END -->
 
