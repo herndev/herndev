@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The American Dream](http://9gag.com/gag/ae9e65p)
- - ⏩ [Perfect shot reveals rigged game](http://9gag.com/gag/aAyDw49)
- - 👉 [It&#39;s late to school, her mother was even more anxious than she was.](http://9gag.com/gag/aW4qMX4)<!-- MEMES:END -->
+ - 💣 [Brazilian Highway simulator](http://9gag.com/gag/aW4qqd4)
+ - ⏩ [Date](http://9gag.com/gag/a5QnbOy)
+ - 👉 [Title](http://9gag.com/gag/a8788WQ)<!-- MEMES:END -->
 
 ---
 
