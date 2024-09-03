@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Coinbase, Brian Armstrong, and their PACs haven&#39;t donated to Trump or Harris, instead pursuing a strategy of targeted donations to congressional campaigns &lpar;Bloomberg&rpar;](http://www.techmeme.com/240903/p12#a240903p12)
- - [Apple’s next iPhone SE might get an OLED upgrade](https://www.theverge.com/2024/9/3/24234749/apple-iphone-se-4th-generation-oled-display-rumor-leak)
- - [Exclusive: Google Pixel 9a to come with Tensor G4 but an older modem](https://www.androidauthority.com/exclusive-google-pixel-9a-modem-3477459/)<!-- TECH:END -->
+ - [NaNoWriMo is in disarray after organizers defend AI writing tools](https://www.theverge.com/2024/9/3/24234811/nanowrimo-ai-stance-classist-ableist-criticism)
+ - [Save $56 on this awesome Anker 737 Power Bank](https://www.androidauthority.com/anker-737-power-bank-deal-3477487/)
+ - [Spotter debuts a set of AI tools called Spotter Studio, to help creators brainstorm video ideas by analyzing 2B+ top YouTube videos and more, for $49/month &lpar;Lauren Forristal/TechCrunch&rpar;](http://www.techmeme.com/240903/p13#a240903p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
