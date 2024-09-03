@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The 7\u20197\u201d basketball player Robert Bobroczkyi behind the scenes of Alien: Romulus](http://9gag.com/gag/aPA9WDn)
- - ⏩ [Again](http://9gag.com/gag/ary5K85)
- - 👉 [Aragorn enjoying KFC!](http://9gag.com/gag/aBy8W6z)<!-- MEMES:END -->
+ - 💣 [The American Dream](http://9gag.com/gag/ae9e65p)
+ - ⏩ [Perfect shot reveals rigged game](http://9gag.com/gag/aAyDw49)
+ - 👉 [It&#39;s late to school, her mother was even more anxious than she was.](http://9gag.com/gag/aW4qMX4)<!-- MEMES:END -->
 
 ---
 
