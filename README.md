@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [NaNoWriMo is in disarray after organizers defend AI writing tools](https://www.theverge.com/2024/9/3/24234811/nanowrimo-ai-stance-classist-ableist-criticism)
- - [Save $56 on this awesome Anker 737 Power Bank](https://www.androidauthority.com/anker-737-power-bank-deal-3477487/)
- - [Spotter debuts a set of AI tools called Spotter Studio, to help creators brainstorm video ideas by analyzing 2B+ top YouTube videos and more, for $49/month &lpar;Lauren Forristal/TechCrunch&rpar;](http://www.techmeme.com/240903/p13#a240903p13)<!-- TECH:END -->
+ - [A deepfake porn crisis has hit 500+ Korean schools, as police investigate crime rings targeting two major universities and say a probe into Telegram may follow &lpar;Jean Mackenzie/BBC&rpar;](http://www.techmeme.com/240903/p15#a240903p15)
+ - [The Best Horror Films on Prime Video to Watch Right Now](https://www.cnet.com/tech/services-and-software/the-best-horror-films-on-prime-video-september-2024/#ftag=CAD590a51e)
+ - [Best PC Speakers for 2024](https://www.cnet.com/tech/home-entertainment/best-pc-speakers/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
