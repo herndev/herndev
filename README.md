@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Italian is the best](http://9gag.com/gag/azxqXLq)
- - ⏩ [How to start world war 3](http://9gag.com/gag/aE0BnDe)
- - 👉 [The 7\u20197\u201d basketball player Robert Bobroczkyi behind the scenes of Alien: Romulus](http://9gag.com/gag/aPA9WDn)<!-- MEMES:END -->
+ - 💣 [So don&#39;t worry](http://9gag.com/gag/a5QnnbE)
+ - ⏩ [Some Rayguns \ud83e\udd98](http://9gag.com/gag/azxqA5p)
+ - 👉 [A Bribe to ease your mind with guilt](http://9gag.com/gag/aGye1On)<!-- MEMES:END -->
 
 ---
 
