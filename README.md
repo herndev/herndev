@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Labor Day Appliance Deals: Don&#39;t Miss Out on Massive Discounts at Best Buy, Home Depot and More](https://www.cnet.com/deals/best-labor-day-appliance-sales-2024-09-02/#ftag=CAD590a51e)
- - [Best Labor Day Sales: We Found Over 125 Amazing Deals Worth Shopping From Amazon and Others](https://www.cnet.com/tech/best-labor-day-sales-2024-09-02/#ftag=CAD590a51e)
- - [Best Labor Day Deals Under $25: Last-Minute Deals on Headphones, Kitchen, Smart Home Tech and More](https://www.cnet.com/deals/best-labor-day-deals-under-25-2024-09-02/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Heybike Hauler review: Hefty yet comfortable e-bike for errands](https://appleinsider.com/articles/24/09/03/heybike-hauler-review-hefty-yet-comfortable-e-bike-for-errands?utm_medium=rss)
+ - [Best Labor Day Mattress Deals: Last-Minute Savings from Helix, Purple, Nectar and Other Top Brands](https://www.cnet.com/deals/best-labor-day-mattress-deals-2024-09-02/#ftag=CAD590a51e)
+ - [Best Labor Day Sales: We Found Over 125 Amazing Deals Worth Shopping From Amazon and Others](https://www.cnet.com/tech/best-labor-day-sales-2024-09-02/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
