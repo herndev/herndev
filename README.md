@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [We can keep hold till you die, Earl.](http://9gag.com/gag/ae9eeV5)
- - ⏩ [Well\u2026. Shit.](http://9gag.com/gag/a4PGZ71)
- - 👉 [So don&#39;t worry](http://9gag.com/gag/a5QnnbE)<!-- MEMES:END -->
+ - 💣 [100rpm human spin](http://9gag.com/gag/aMVA9pG)
+ - ⏩ [It&#39;s late to school, her mother was even more anxious than she was.](http://9gag.com/gag/aW4qMX4)
+ - 👉 [The mystery meatball man](http://9gag.com/gag/aD2zWeO)<!-- MEMES:END -->
 
 ---
 
