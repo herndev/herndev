@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Volkswagen rolls out its ChatGPT-integrated Plus Speech voice assistant in the US, starting with the 2025 Jetta and Jetta GLI; a subscription is required &lpar;Wes Davis/The Verge&rpar;](http://www.techmeme.com/240903/p28#a240903p28)
- - [DOJ says it won&#39;t pressure social media companies to remove content about foreign threats to national security or elections, after claims platforms were coerced &lpar;Chris Strohm/Bloomberg&rpar;](http://www.techmeme.com/240903/p27#a240903p27)
- - [The Nvidia AI antitrust investigation is ‘escalating,’ reports Bloomberg](https://www.theverge.com/2024/9/3/24235233/nvidia-doj-ai-antitrust-investigation)<!-- TECH:END -->
+ - [Hyundai’s first EV with native Tesla Supercharging is the new Ioniq 5](https://www.theverge.com/2024/9/3/24235272/hyundai-2025-ioniq-5-tesla-nacs-ev-charging-supercharger)
+ - [Sources: Sam Altman and other OpenAI execs have been meeting with investors to advance a deal to spend tens of billions to build infrastructure for AI in the US &lpar;Bloomberg&rpar;](http://www.techmeme.com/240903/p31#a240903p31)
+ - [Best Labor Day Tablet Deals: Last-Minute Discounts on iPads, Galaxy Tabs and More](https://www.cnet.com/deals/best-labor-day-tablet-deals-2024-09-03/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
