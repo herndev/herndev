@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Windows 11 is now the most popular OS for Steam users worldwide, though it took longer than Windows 10 did](https://www.pcgamer.com/software/windows/windows-11-is-now-the-most-popular-os-for-steam-users-worldwide-though-it-took-longer-than-windows-10-did)
- - [Rocksteady reportedly begins a round of layoffs after Suicide Squad: Kill the Justice League&#39;s shortcomings, slashes its QA team&#39;s numbers in half](https://www.pcgamer.com/games/third-person-shooter/rocksteady-reportedly-begins-a-round-of-layoffs-after-suicide-squad-kill-the-justice-league-s-shortcomings-slashes-its-qa-team-s-numbers-in-half)
- - [Pokémon Go ‘Galar Calling’ choose a path quest steps: Grookey, Scorbunny, or Sobble?](https://www.polygon.com/pokemon-go-guide/446920/galar-calling-choose-a-path-grookey-scorbunny-sobble-adventure)<!-- GAME:END -->
+ - [Rethinking Lara Croft was a ‘unique pressure,’ says Tomb Raider showrunner](https://www.polygon.com/tv/446607/tomb-raider-legend-lara-croft-netflix-show-design-interview)
+ - [Coming to Game Pass: Age of Mythology: Retold, Expeditions: A MudRunner Game, and More](https://news.xbox.com/en-us/2024/09/03/xbox-game-pass-september-2024-wave-1/)
+ - [Xbox boss Phil Spencer says he&#39;s made the &#39;worst game choice decisions,&#39; letting exclusives like Destiny slip through his fingers](https://www.pcgamer.com/gaming-industry/xbox-boss-phil-spencer-says-hes-made-the-worst-game-choice-decisions-letting-exclusives-like-destiny-slip-through-his-fingers)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
