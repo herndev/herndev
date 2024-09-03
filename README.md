@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Last call to save 90% on CRPG classics from Humble](https://www.polygon.com/deals/440566/humble-crpg-bundle-warhammer-rogue-trader-deal-sale)
- - [Where to pre-order Mass Effect: The Board Game](https://www.polygon.com/pre-order/446633/mass-effect-board-game-where-to-buy-kickstarter)
- - [Black Ops 6 Is So Fast It&#39;s Both Frustrating And Fun](https://kotaku.com/call-of-duty-black-ops-6-multiplayer-beta-weekend-1851638800)<!-- GAME:END -->
+ - [This illustrated copy of Children of Dune is the true Lisan al Gaib](https://www.polygon.com/sci-fi/447193/children-of-dune-folio-society-where-to-buy)
+ - [10 major Sims 4 features you probably forgot it didn&#39;t have at launch 10 years ago](https://www.pcgamer.com/games/the-sims/10-major-sims-4-features-you-probably-forgot-it-didn-t-have-at-launch-10-years-ago)
+ - [Court locks in Bungie&#39;s $4.4 million win against Destiny 2 cheat maker, refuses request for a new trial](https://www.pcgamer.com/games/fps/court-locks-in-bungies-dollar44-million-win-against-destiny-2-cheat-maker-refuses-request-for-a-new-trial)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
