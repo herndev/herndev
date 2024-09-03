@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [So don&#39;t worry](http://9gag.com/gag/a5QnnbE)
- - ⏩ [Some Rayguns \ud83e\udd98](http://9gag.com/gag/azxqA5p)
- - 👉 [A Bribe to ease your mind with guilt](http://9gag.com/gag/aGye1On)<!-- MEMES:END -->
+ - 💣 [I am a single mother.... pffff hahahaha .... buuurnnn](http://9gag.com/gag/aE0Bx5p)
+ - ⏩ [When your kids spends all character customization credits on combat and magic but leaves Intelligence on zero](http://9gag.com/gag/a4PG7Lw)
+ - 👉 [How to load a .50 calibre flintlock](http://9gag.com/gag/a0e5bDz)<!-- MEMES:END -->
 
 ---
 
