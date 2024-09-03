@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Two ways to save a video game industry on fire](https://www.polygon.com/opinion/446844/two-ways-to-save-a-video-game-industry-on-fire)
- - [Get 20% off this Trigun Deluxe reprint before it launches next week](https://www.polygon.com/good-deals/447276/trigun-deluxe-manga-where-to-buy)
- - [Connections’ new feature means you can one-up your friends even harder](https://www.polygon.com/news/447179/nytimes-connections-share-stats-win-rate)<!-- GAME:END -->
+ - [Gundam Breaker 4 is the ideal mech building sandbox for mobile suit sickos](https://www.pcgamer.com/games/action/gundam-breaker-4-is-the-ideal-mech-building-sandbox-for-mobile-suit-sickos)
+ - [Concord developer expresses gratitude for support following the sudden shutdown: &#39;For all of you reaching out with love, you are the reason we make games&#39;](https://www.pcgamer.com/games/fps/concord-developer-expresses-gratitude-for-support-following-the-sudden-shutdown-for-all-of-you-reaching-out-with-love-you-are-the-reason-we-make-games)
+ - [Spectre Divide launches with outrageous $90 gun skins out the gate, which only makes its broken matchmaking more annoying](https://www.pcgamer.com/games/fps/spectre-divide-launches-with-outrageous-90-gun-skins-which-only-makes-its-broken-matchmaking-more-annoying)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
