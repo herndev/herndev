@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources detail OpenAI&#39;s struggles to transform into a no-nonsense, profit-driven company; 80% of its 1,700+ staff started after ChatGPT&#39;s November 2022 release &lpar;New York Times&rpar;](http://www.techmeme.com/240903/p5#a240903p5)
  - [You can now watch X videos on the big screen, but it’s not what you think it is](https://www.androidauthority.com/x-launches-tv-app-for-videos-3477639/)
- - [The use of AI techniques has accelerated and improved drug discovery efforts, in the face of rising antibiotic resistance due to drug overuse &lpar;Dhruv Khullar/New Yorker&rpar;](http://www.techmeme.com/240903/p4#a240903p4)
- - [Love Samsung Messages? Too bad, Samsung is pushing more phones to Google Messages](https://www.androidauthority.com/samsung-messages-google-messages-older-phones-3477632/)<!-- TECH:END -->
+ - [The use of AI techniques has accelerated and improved drug discovery efforts, in the face of rising antibiotic resistance due to drug overuse &lpar;Dhruv Khullar/New Yorker&rpar;](http://www.techmeme.com/240903/p4#a240903p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
