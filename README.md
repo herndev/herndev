@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [You Can Get The Whole Kingdom Hearts Series For The Price Of One Game Right Now](https://kotaku.com/kingdom-hearts-series-steam-sale-1851638597)
- - [Risk of Rain 2&#39;s creators, along with &#39;many other&#39; devs from Hopoo, have been snapped up by Valve—which means the end of the studio&#39;s unannounced game](https://www.pcgamer.com/games/roguelike/risk-of-rain-2-s-creators-along-with-many-other-devs-from-hopoo-have-been-snapped-up-by-valve-which-means-the-end-of-the-studio-s-unannounced-game)
- - [Dragon&#39;s Dogma 2 was the sign-off for Capcom legend Hideaki Itsuno, who&#39;s leaving to do his own thing after three decades at the top](https://www.pcgamer.com/gaming-industry/dragons-dogma-2-was-the-sign-off-for-capcom-legend-hideaki-itsuno-whos-leaving-to-do-his-own-thing-after-three-decades-at-the-top)<!-- GAME:END -->
+ - [11 Of The Best Games At PAX West 2024](https://kotaku.com/pax-best-games-life-strange-ritas-rewind-1851638757)
+ - [&#39;There&#39;s a plane bro&#39;: A Call of Duty: Black Ops 6 calling card seemed to reference 9/11 before getting removed](https://www.pcgamer.com/games/call-of-duty/theres-a-plane-bro-a-call-of-duty-black-ops-6-calling-card-seemed-to-reference-911-before-getting-removed)
+ - [9 Out-Of-This-World Games To Grab During Steam’s Big Space Sale](https://kotaku.com/steam-sale-space-sci-fi-no-mans-sky-outer-worlds-1851638672)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
