@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A deepfake porn crisis has hit 500+ Korean schools, as police investigate crime rings targeting two major universities and say a probe into Telegram may follow &lpar;Jean Mackenzie/BBC&rpar;](http://www.techmeme.com/240903/p15#a240903p15)
- - [The Best Horror Films on Prime Video to Watch Right Now](https://www.cnet.com/tech/services-and-software/the-best-horror-films-on-prime-video-september-2024/#ftag=CAD590a51e)
- - [Best PC Speakers for 2024](https://www.cnet.com/tech/home-entertainment/best-pc-speakers/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Google Pixel 9 Pro Fold brings Android’s classic taskbar back early](https://www.androidauthority.com/android-taskbar-pinning-3477910/)
+ - [The Pixel 9 Pro Fold is the foldable we’ve been waiting for](https://www.theverge.com/24231795/pixel-9-pro-fold-hands-on-screen-size-foldable)
+ - [Get a 4-pack of Apple AirTags for only $74.99 at Amazon](https://appleinsider.com/articles/24/09/03/get-a-4-pack-of-apple-airtags-for-only-7499-at-amazon?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
