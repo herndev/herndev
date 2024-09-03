@@ -48,7 +48,7 @@
 <!-- MEMES:START -->
  - 💣 [Date](http://9gag.com/gag/a5QnbOy)
  - ⏩ [Title](http://9gag.com/gag/a8788WQ)
- - 👉 [Brazilian Highway simulator](http://9gag.com/gag/aW4qqd4)<!-- MEMES:END -->
+ - 👉 [Something, something, consequences](http://9gag.com/gag/avy7rbn)<!-- MEMES:END -->
 
 ---
 
