@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The church of Immaculate Conception of Saint Omer in Calais, France \ud83c\uddeb\ud83c\uddf7](http://9gag.com/gag/awyQX08)
- - ⏩ [The 7\u20197\u201d basketball player Robert Bobroczkyi behind the scenes of Alien: Romulus](http://9gag.com/gag/aPA9WDn)
- - 👉 [The kingdom will last forever](http://9gag.com/gag/aqy1Ly7)<!-- MEMES:END -->
+ - 💣 [The 7\u20197\u201d basketball player Robert Bobroczkyi behind the scenes of Alien: Romulus](http://9gag.com/gag/aPA9WDn)
+ - ⏩ [Again](http://9gag.com/gag/ary5K85)
+ - 👉 [Aragorn enjoying KFC!](http://9gag.com/gag/aBy8W6z)<!-- MEMES:END -->
 
 ---
 
