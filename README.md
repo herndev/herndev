@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Labor Day Sales: 125+ Big Deals Still Live from Amazon, Best Buy and More](https://www.cnet.com/tech/best-labor-day-sales-2024-09-02/#ftag=CAD590a51e)
- - [Heybike Hauler review: Hefty yet comfortable e-bike for errands](https://appleinsider.com/articles/24/09/03/heybike-hauler-review-hefty-yet-comfortable-e-bike-for-errands?utm_medium=rss)
- - [Best Mattresses for Couples in 2024](https://www.cnet.com/health/sleep/best-mattresses-for-couples/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Understanding secure contactless transactions in iOS 18](https://appleinsider.com/inside/ios-18/tips/understanding-secure-contactless-transactions-in-ios-18?utm_medium=rss)
+ - [HP says it intends to pursue its $4B damages claim in London against the estate of the recently deceased Mike Lynch; HP won the false accounting case in 2022 &lpar;Jonathan Browning/Bloomberg&rpar;](http://www.techmeme.com/240902/p14#a240902p14)
+ - [Best Labor Day Sales: 125+ Big Deals Still Live from Amazon, Best Buy and More](https://www.cnet.com/tech/best-labor-day-sales-2024-09-02/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
