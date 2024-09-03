@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Rethinking Lara Croft was a ‘unique pressure,’ says Tomb Raider showrunner](https://www.polygon.com/tv/446607/tomb-raider-legend-lara-croft-netflix-show-design-interview)
- - [Coming to Game Pass: Age of Mythology: Retold, Expeditions: A MudRunner Game, and More](https://news.xbox.com/en-us/2024/09/03/xbox-game-pass-september-2024-wave-1/)
- - [Xbox boss Phil Spencer says he&#39;s made the &#39;worst game choice decisions,&#39; letting exclusives like Destiny slip through his fingers](https://www.pcgamer.com/gaming-industry/xbox-boss-phil-spencer-says-hes-made-the-worst-game-choice-decisions-letting-exclusives-like-destiny-slip-through-his-fingers)<!-- GAME:END -->
+ - [The win rates for Deadlock heroes have been revealed, and in the last 11 days, one character has been played over 2.5 million times](https://www.pcgamer.com/games/moba/the-win-rates-for-deadlock-heroes-have-been-revealed-and-in-the-last-11-days-one-character-has-been-played-over-25-million-times)
+ - [Final Fantasy XIV&#39;s Augmented Ironworks Armor Is Worth The Grind](https://kotaku.com/final-fantasy-xiv-augmented-ironworks-armor-grind-guide-1851638181)
+ - [Stalker 2: Heart of Chernobyl is downright gorgeous, and feels like it&#39;s using modern tech to fully realise the atmosphere the first game strove for](https://www.pcgamer.com/games/fps/stalker-2-heart-of-chernobyl-is-downright-gorgeous-using-modern-tech-to-further-draw-its-player-into-the-atmosphere-the-first-game-wanted-to-create)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
