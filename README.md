@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Over 4 years of straight playtime, on one game...](http://9gag.com/gag/apRQvop)
- - ⏩ [Scary](http://9gag.com/gag/aqy12qj)
- - 👉 [Crazy reference...](http://9gag.com/gag/a878pbY)<!-- MEMES:END -->
+ - 💣 [How to start world war 3](http://9gag.com/gag/aE0BnDe)
+ - ⏩ [Aragorn enjoying KFC!](http://9gag.com/gag/aBy8W6z)
+ - 👉 [Penny wise](http://9gag.com/gag/a1mKXQ6)<!-- MEMES:END -->
 
 ---
 
