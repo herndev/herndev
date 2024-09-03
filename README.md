@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The win rates for Deadlock heroes have been revealed, and in the last 11 days, one character has been played over 2.5 million times](https://www.pcgamer.com/games/moba/the-win-rates-for-deadlock-heroes-have-been-revealed-and-in-the-last-11-days-one-character-has-been-played-over-25-million-times)
- - [Final Fantasy XIV&#39;s Augmented Ironworks Armor Is Worth The Grind](https://kotaku.com/final-fantasy-xiv-augmented-ironworks-armor-grind-guide-1851638181)
- - [Stalker 2: Heart of Chernobyl is downright gorgeous, and feels like it&#39;s using modern tech to fully realise the atmosphere the first game strove for](https://www.pcgamer.com/games/fps/stalker-2-heart-of-chernobyl-is-downright-gorgeous-using-modern-tech-to-further-draw-its-player-into-the-atmosphere-the-first-game-wanted-to-create)<!-- GAME:END -->
+ - [FFXIV housing lottery schedule for September 2024](https://www.polygon.com/ffxiv-guides-ff14-final-fantasy-14-online/24115693/housing-lottery-schedule-entry-results-period)
+ - [Why Gamescom Dominates Where E3 Failed](https://kotaku.com/gamescom-2024-e3-microsoft-gaming-show-1851638178)
+ - [Cult Of The Lamb&#39;s Corrupted Relics And Tarot Cards Explained](https://kotaku.com/cult-of-the-lamb-corrupted-relics-tarot-cards-guide-1851638196)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
