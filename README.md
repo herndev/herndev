@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Good old times](http://9gag.com/gag/adB978M)
- - ⏩ [The kingdom will last forever](http://9gag.com/gag/aqy1Ly7)
- - 👉 [Over 4 years of straight playtime, on one game...](http://9gag.com/gag/apRQvop)<!-- MEMES:END -->
+ - 💣 [Over 4 years of straight playtime, on one game...](http://9gag.com/gag/apRQvop)
+ - ⏩ [Scary](http://9gag.com/gag/aqy12qj)
+ - 👉 [Crazy reference...](http://9gag.com/gag/a878pbY)<!-- MEMES:END -->
 
 ---
 
