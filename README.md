@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [This illustrated copy of Children of Dune is the true Lisan al Gaib](https://www.polygon.com/sci-fi/447193/children-of-dune-folio-society-where-to-buy)
- - [10 major Sims 4 features you probably forgot it didn&#39;t have at launch 10 years ago](https://www.pcgamer.com/games/the-sims/10-major-sims-4-features-you-probably-forgot-it-didn-t-have-at-launch-10-years-ago)
- - [Court locks in Bungie&#39;s $4.4 million win against Destiny 2 cheat maker, refuses request for a new trial](https://www.pcgamer.com/games/fps/court-locks-in-bungies-dollar44-million-win-against-destiny-2-cheat-maker-refuses-request-for-a-new-trial)<!-- GAME:END -->
+ - [Connections&amp;#8217; new feature means you can one-up your friends even harder](https://www.polygon.com/news/447179/nytimes-connections-share-stats-win-rate)
+ - [Magic&amp;#8217;s Duskmourn channels ‘80s horror, adds new room cards](https://www.polygon.com/mtg-magic-the-gathering/447308/duskmourn-room-cards-explained)
+ - [How to unlock the Choir of One Exotic Catalysts in Destiny 2](https://www.polygon.com/destiny-2-guide-walkthrough/445174/catalyst-quest-choir-of-one-encore-secret-chests)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
