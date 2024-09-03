@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Next year’s best smartphone camera has already leaked](https://www.androidauthority.com/xiaomi-15-ultra-camera-specs-3477995/)
- - [Google releases Pixel update to get rid of surveillance vulnerability](https://www.theverge.com/2024/9/3/24235127/google-pixel-showcase-vulnerability-patch)
- - [The latest Castlevania collection is truly excellent](https://www.theverge.com/2024/9/3/24234889/castlevania-dominus-collection-review-switch-xbox-playstation-pc)<!-- TECH:END -->
+ - [How accurate is the Galaxy Watch’s health tracking? Samsung’s latest study provides answers](https://www.androidauthority.com/galaxy-watch-fitness-data-accuracy-study-3478035/)
+ - [Sources: the DOJ sent subpoenas to Nvidia and others, as it seeks evidence that Nvidia violated antitrust laws by making it harder to switch suppliers and more &lpar;Bloomberg&rpar;](http://www.techmeme.com/240903/p25#a240903p25)
+ - [Here are the best AirPods deals you can get right now](https://www.theverge.com/21302051/best-apple-airpods-deals)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
