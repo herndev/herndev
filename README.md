@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources detail OpenAI&#39;s struggles to transform into a no-nonsense, profit-driven company; 80% of its 1,700+ staff started after ChatGPT&#39;s November 2022 release &lpar;New York Times&rpar;](http://www.techmeme.com/240903/p5#a240903p5)
- - [You can now watch X videos on the big screen, but it’s not what you think it is](https://www.androidauthority.com/x-launches-tv-app-for-videos-3477639/)
- - [The use of AI techniques has accelerated and improved drug discovery efforts, in the face of rising antibiotic resistance due to drug overuse &lpar;Dhruv Khullar/New Yorker&rpar;](http://www.techmeme.com/240903/p4#a240903p4)<!-- TECH:END -->
+ - [Flexible glass displays could replace MacBook Pro keyboards](https://appleinsider.com/articles/19/01/31/macbook-keyboard-failures-could-end-with-introduction-of-glass-panel-keyboards?utm_medium=rss)
+ - [Zilch says it made an operating profit in July 2024, hitting profitability within four years of its founding date, and crossed &amp;pound;100M in annual revenue run rate &lpar;Ryan Browne/CNBC&rpar;](http://www.techmeme.com/240903/p8#a240903p8)
+ - [Dubai-based Ziina, a P2P payments app with 50,000 retail and business customers, raised a $22M Series A led by Altos, bringing its total funding to $30M+ &lpar;Tage Kene-Okafor/TechCrunch&rpar;](http://www.techmeme.com/240903/p7#a240903p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
