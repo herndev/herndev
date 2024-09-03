@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Volvo EX90 first drive: not fully baked](https://www.theverge.com/2024/9/3/24233412/volvo-ex90-hands-on-specs-range-tech-lidar)
- - [Seven leading SEO experts and publisher audience strategists on changing their approach due to Google Search AI Overviews, how it may alter traffic, and more &lpar;Andrew Deck/Nieman Lab&rpar;](http://www.techmeme.com/240903/p3#a240903p3)
- - [Samsung Galaxy S24 FE rumors and leaks: Everything we know so far](https://www.androidauthority.com/samsung-galaxy-s24-fe-3440533/)<!-- TECH:END -->
+ - [You can now watch X videos on the big screen, but it’s not what you think it is](https://www.androidauthority.com/x-launches-tv-app-for-videos-3477639/)
+ - [The use of AI techniques has accelerated and improved drug discovery efforts, in the face of rising antibiotic resistance due to drug overuse &lpar;Dhruv Khullar/New Yorker&rpar;](http://www.techmeme.com/240903/p4#a240903p4)
+ - [Love Samsung Messages? Too bad, Samsung is pushing more phones to Google Messages](https://www.androidauthority.com/samsung-messages-google-messages-older-phones-3477632/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
