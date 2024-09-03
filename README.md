@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Acer Chromebook Plus 516 GE gaming laptop is only $549 right now](https://www.androidauthority.com/acer-chromebook-plus-516-ge-deal-3477994/)
- - [New VWs will answer some of your questions with ChatGPT](https://www.theverge.com/2024/9/3/24234979/volkswagen-vw-ai-chatgpt-plus-speech-id-4-gti-golf-r-tiguan)
- - [The Search for the Face Behind Mavis Beacon Teaches Typing](https://www.wired.com/story/seeking-mavis-beacon/)<!-- TECH:END -->
+ - [Next year’s best smartphone camera has already leaked](https://www.androidauthority.com/xiaomi-15-ultra-camera-specs-3477995/)
+ - [Google releases Pixel update to get rid of surveillance vulnerability](https://www.theverge.com/2024/9/3/24235127/google-pixel-showcase-vulnerability-patch)
+ - [The latest Castlevania collection is truly excellent](https://www.theverge.com/2024/9/3/24234889/castlevania-dominus-collection-review-switch-xbox-playstation-pc)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
