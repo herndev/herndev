@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Pokémon Go ‘Galar Calling’ choose a path quest steps: Grookey, Scorbunny, or Sobble?](https://www.polygon.com/pokemon-go-guide/446920/galar-calling-choose-a-path-grookey-scorbunny-sobble-adventure)
- - [Bethesda bans Doom mod about a resurrected mech-demon Margaret Thatcher because it&#39;s apparently a bit close to &#39;real-world politics&#39;](https://www.pcgamer.com/games/fps/bethesda-bans-doom-mod-about-a-resurrected-mech-demon-margaret-thatcher-because-its-apparently-a-bit-close-to-real-world-politics)
- - [Intel&#39;s Arrow Lake and Lunar Lake CPUs won&#39;t have the instability issues affecting 13th and 14th Gen processors](https://www.pcgamer.com/hardware/processors/intels-arrow-lake-and-lunar-lake-cpus-wont-have-the-instability-issues-affecting-13th-and-14th-gen-processors)<!-- GAME:END -->
+ - [Windows 11 is now the most popular OS for Steam users worldwide, though it took longer than Windows 10 did](https://www.pcgamer.com/software/windows/windows-11-is-now-the-most-popular-os-for-steam-users-worldwide-though-it-took-longer-than-windows-10-did)
+ - [Rocksteady reportedly begins a round of layoffs after Suicide Squad: Kill the Justice League&#39;s shortcomings, slashes its QA team&#39;s numbers in half](https://www.pcgamer.com/games/third-person-shooter/rocksteady-reportedly-begins-a-round-of-layoffs-after-suicide-squad-kill-the-justice-league-s-shortcomings-slashes-its-qa-team-s-numbers-in-half)
+ - [Pokémon Go ‘Galar Calling’ choose a path quest steps: Grookey, Scorbunny, or Sobble?](https://www.polygon.com/pokemon-go-guide/446920/galar-calling-choose-a-path-grookey-scorbunny-sobble-adventure)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
