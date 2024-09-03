@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Introducing Lyn: Astroneer’s First Antagonist](https://news.xbox.com/en-us/2024/09/03/introducing-lyn-astroneers-first-antagonist/)
- - [The First Sonic Movie Is Now On Netflix And Way Better Than You Think](https://kotaku.com/sonic-hedgehog-movies-2-3-where-to-watch-netflix-stream-1851638455)
- - [Lexip Kakashi Kamui Naruto Shippuden controller review](https://www.pcgamer.com/hardware/controllers/lexip-kakashi-kamui-naruto-shippuden-controller-review)<!-- GAME:END -->
+ - [You Can Get The Whole Kingdom Hearts Series For The Price Of One Game Right Now](https://kotaku.com/kingdom-hearts-series-steam-sale-1851638597)
+ - [Risk of Rain 2&#39;s creators, along with &#39;many other&#39; devs from Hopoo, have been snapped up by Valve—which means the end of the studio&#39;s unannounced game](https://www.pcgamer.com/games/roguelike/risk-of-rain-2-s-creators-along-with-many-other-devs-from-hopoo-have-been-snapped-up-by-valve-which-means-the-end-of-the-studio-s-unannounced-game)
+ - [Dragon&#39;s Dogma 2 was the sign-off for Capcom legend Hideaki Itsuno, who&#39;s leaving to do his own thing after three decades at the top](https://www.pcgamer.com/gaming-industry/dragons-dogma-2-was-the-sign-off-for-capcom-legend-hideaki-itsuno-whos-leaving-to-do-his-own-thing-after-three-decades-at-the-top)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
