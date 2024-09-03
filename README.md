@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Predator hunters threaten a 13 year old boy for trying to meet up with a 12 year old girl](http://9gag.com/gag/avy7r75)
- - ⏩ [A Bribe to ease your mind with guilt](http://9gag.com/gag/aGye1On)
- - 👉 [NEWS \ud83d\udea8: Astronauts are reporting that Boeing Starliner is emitting strange `sonar like noises` . This is the real audio of it](http://9gag.com/gag/aPA9BWR)<!-- MEMES:END -->
+ - 💣 [Slav home renovation simulator](http://9gag.com/gag/aGyeeEG)
+ - ⏩ [A nice, relaxing boat ride.](http://9gag.com/gag/a1mKQov)
+ - 👉 [Concord is officially dead.](http://9gag.com/gag/aVvMYAn)<!-- MEMES:END -->
 
 ---
 
