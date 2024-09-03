@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Canva says its AI features are worth the 300 percent price increase](https://www.theverge.com/2024/9/3/24234698/canva-price-increase-300-percent-ai-features)
- - [Pixel Watch 3’s software support window is a far cry from the Pixel 9](https://www.androidauthority.com/pixel-watch-3-software-support-3477694/)
- - [iPhone SE 4 rumored to finally ditch LCD for OLED in early 2025](https://appleinsider.com/articles/24/09/03/iphone-se-4-rumored-to-finally-ditch-lcd-for-oled-in-early-2025?utm_medium=rss)<!-- TECH:END -->
+ - [Peak Design’s Outdoor bags are ready for your next adventure](https://www.theverge.com/2024/9/3/24232208/peak-design-outdoor-backpacks-slings-price-specs)
+ - [Bored of ChatGPT’s current voices? We’ve got good news for you](https://www.androidauthority.com/chatgpt-soon-offer-more-voices-3477784/)
+ - [Some Big Tech critics worry that Kamala Harris&#39; deep ties to tech companies could prompt her to abandon Democrats&#39; recent aggressive stance toward the sector &lpar;Washington Post&rpar;](http://www.techmeme.com/240903/p11#a240903p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
