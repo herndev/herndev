@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Harebrained reveals its first game following split from Paradox: A survival-horror RPG where you blast limbs off your enemies and then attach them to your own body](https://www.pcgamer.com/games/horror/harebrained-reveals-its-first-game-following-split-from-paradox-a-survival-horror-rpg-where-you-blast-limbs-off-your-enemies-and-then-attach-them-to-your-own-body)
- - [Game Of Thrones Author Posts, Then Quickly Deletes, Scathing House Of The Dragon Criticism](https://kotaku.com/george-rr-martin-house-of-the-dragon-blood-and-cheese-1851640092)
- - [The ninth-gen Apple iPad is on sale for its lowest price ever](https://www.polygon.com/good-deals/447942/apple-ipad-9th-gen-sale)<!-- GAME:END -->
+ - [Huh, we’re getting a Twilight animated series from Edward Cullen’s perspective](https://www.polygon.com/tv/448082/twilight-animated-series-edward-cullen-midnight-sun)
+ - [World of Warcraft’s 20-year anniversary will be a full patch of celebration](https://www.polygon.com/world-of-warcraft/448020/world-of-warcrafts-20-year-anniversary-will-be-a-full-patch-of-celebration)
+ - [Harebrained reveals its first game following split from Paradox: A survival-horror RPG where you blast limbs off your enemies and then attach them to your own body](https://www.pcgamer.com/games/horror/harebrained-reveals-its-first-game-following-split-from-paradox-a-survival-horror-rpg-where-you-blast-limbs-off-your-enemies-and-then-attach-them-to-your-own-body)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
