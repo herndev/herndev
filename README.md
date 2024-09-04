@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Players’ Choice: Vote for August 2024’s best new game](https://blog.playstation.com/2024/09/04/players-choice-vote-for-august-2024s-best-new-game/)
- - [Grab Your Space Rod and Find the Perfect Fishing Spot in the No Man’s Sky Aquarius Update](https://news.xbox.com/en-us/2024/09/04/grab-your-space-rod-and-find-the-perfect-fishing-spot-in-the-no-mans-sky-aquarius-update/)
- - [The best sci-fi movies you can watch at home](https://www.polygon.com/what-to-watch/23051923/best-sci-fi-movies-netflix-hulu-max-free)<!-- GAME:END -->
+ - [How to get Max Particles from Power Spots in Pokémon Go](https://www.polygon.com/pokemon-go-guide/447529/max-particles-power-spots-how-to-get-mp)
+ - [People Are Rushing To Sell Concord For Way Too Much Now That It&#39;s Shutting Down](https://kotaku.com/concord-ebay-scalpers-ps5-physical-copies-prices-sony-1851639576)
+ - [Counter-Strike 2 pro falls foul of the SnapTap ban and fesses up: &#39;embarrassing and amateur&#39;](https://www.pcgamer.com/games/fps/counter-strike-2-pro-falls-foul-of-the-snaptap-ban-and-fesses-up-embarrassing-and-amateur)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
