@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Sorry for late BBQ photo](http://9gag.com/gag/aD2zxnw)
- - ⏩ [THRIFT was misunderstood to be THEFT i guess.](http://9gag.com/gag/ayNxXjr)
- - 👉 [A Bribe to ease your mind with guilt](http://9gag.com/gag/aGye1On)<!-- MEMES:END -->
+ - ⏩ [Concord is officially dead.](http://9gag.com/gag/aVvMYAn)
+ - 👉 [Pretty Sure nobody noticed that](http://9gag.com/gag/a1mKo0b)<!-- MEMES:END -->
 
 ---
 
