@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [It is definitely better](http://9gag.com/gag/a2v4ZgE)
- - ⏩ [Italian is the best](http://9gag.com/gag/azxqXLq)
- - 👉 [YouTuber JK took a photo every day for 22 years to see how he ages &lpar;25 to 47 years&rpar;](http://9gag.com/gag/aQze1W8)<!-- MEMES:END -->
+ - 💣 [THRIFT was misunderstood to be THEFT i guess.](http://9gag.com/gag/ayNxXjr)
+ - ⏩ [Grandpa chill](http://9gag.com/gag/aVvM7dv)
+ - 👉 [Italian is the best](http://9gag.com/gag/azxqXLq)<!-- MEMES:END -->
 
 ---
 
