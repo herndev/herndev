@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [US safety regulators say it’s time to investigate Shein and Temu](https://www.theverge.com/2024/9/4/24235882/shein-temu-safety-commission-investigation-cpsc)
- - [Everything is not OSOM: The company born from Essential’s ashes is shutting down](https://www.androidauthority.com/osom-shut-down-3478302/)
- - [I Found the Best Way to Reheat Pizza and It&#39;s Not the Air Fryer](https://www.cnet.com/how-to/i-tested-5-ways-to-reheat-pizza-and-this-was-the-best/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Audio transcription compared -- Cloud-based vs. on-device](https://appleinsider.com/articles/24/09/04/audio-transcription-compared----cloud-based-vs-on-device?utm_medium=rss)
+ - [The Internet Archive Loses Its Appeal of a Major Copyright Case](https://www.wired.com/story/internet-archive-loses-hachette-books-case-appeal/)
+ - [Best PlayStation Plus Deals: Get a 3-Month Membership With 10% Off](https://www.cnet.com/deals/best-playstation-plus-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
