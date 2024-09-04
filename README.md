@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Huh, we’re getting a Twilight animated series from Edward Cullen’s perspective](https://www.polygon.com/tv/448082/twilight-animated-series-edward-cullen-midnight-sun)
- - [World of Warcraft’s 20-year anniversary will be a full patch of celebration](https://www.polygon.com/world-of-warcraft/448020/world-of-warcrafts-20-year-anniversary-will-be-a-full-patch-of-celebration)
- - [Harebrained reveals its first game following split from Paradox: A survival-horror RPG where you blast limbs off your enemies and then attach them to your own body](https://www.pcgamer.com/games/horror/harebrained-reveals-its-first-game-following-split-from-paradox-a-survival-horror-rpg-where-you-blast-limbs-off-your-enemies-and-then-attach-them-to-your-own-body)<!-- GAME:END -->
+ - [Spectre Divide lowers skin prices just hours after launch: &#39;We took a swing that we thought would best set us up to support the game. Turns out we swung a bit high&#39;](https://www.pcgamer.com/games/fps/spectre-divide-lowers-skin-prices-just-hours-after-launch-we-took-a-swing-that-we-thought-would-best-set-us-up-to-support-the-game-turns-out-we-swung-a-bit-high)
+ - [Concord&#39;s catastrophic failure has made me even more worried about Bungie&#39;s Marathon](https://www.pcgamer.com/games/fps/concords-catastrophic-failure-has-made-me-even-more-worried-about-bungies-marathon)
+ - [Huh, we’re getting a Twilight animated series from Edward Cullen’s perspective](https://www.polygon.com/tv/448082/twilight-animated-series-edward-cullen-midnight-sun)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
