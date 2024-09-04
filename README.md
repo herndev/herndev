@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [YouTube’s new safety feature for teens gives parents more control](https://www.androidauthority.com/youtube-safety-feature-teens-3478267/)
- - [The Internet Archive just lost its appeal over ebook lending](https://www.theverge.com/2024/9/4/24235958/internet-archive-loses-appeal-ebook-lending)
- - [Samsung could learn a thing or two from the Pixel 9 Pro Fold’s ‘phone-first’ philosophy](https://www.androidauthority.com/pixel-9-pro-fold-design-3478334/)<!-- TECH:END -->
+ - [Roku’s new Backdrops feature is blatantly inspired by Samsung’s Frame TV](https://www.theverge.com/2024/9/4/24235866/roku-backdrop-feature-artwork-screensavers)
+ - [Nothing OS 3.0 leak offers first look at new animations and big changes](https://www.androidauthority.com/nothing-os-3-leaked-features-3478320/)
+ - [Save $30 on the brand-new Anker SOLIX C300 DC Portable Power Station](https://www.androidauthority.com/anker-solix-c300-dc-portable-power-station-deal-3478360/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
