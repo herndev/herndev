@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Acer’s 14-inch laptops claim 24 hours of battery life from Intel, Qualcomm, or AMD](https://www.theverge.com/2024/9/4/24235329/acer-ifa-2024-new-swift-ai-laptops-specs)
- - [This concept laptop has Nintendo Switch-style detachable controllers](https://www.androidauthority.com/project-dualplay-gaming-laptop-announced-3477903/)
- - [‘The Legend of Zelda: Echoes of Wisdom’ Gives the Princess Powers That Link Never Got](https://www.wired.com/story/the-legend-of-zelda-echoes-of-wisdom-early-review/)<!-- TECH:END -->
+ - [Tado’s Matter-compliant heating products are coming to the UK](https://www.theverge.com/2024/9/4/24234392/tado-x-matter-thread-heatpump-europe-uk-price-specs)
+ - [Germany’s Far Right Is in a Panic Over Telegram](https://www.wired.com/story/germanys-far-right-is-in-a-panic-over-telegram/)
+ - [Filing: Lyft plans to sell some of its bike and scooter business and cut 1% of its employees as it struggles to turn profitable &lpar;Natalie Lung/Bloomberg&rpar;](http://www.techmeme.com/240904/p26#a240904p26)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
