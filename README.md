@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Save the Kingdom: Epic Battles Await in Bunny Battle Nemesis](https://news.xbox.com/en-us/2024/09/04/save-the-kingdom-epic-battles-await-in-bunny-battle-nemesis/)
- - [Steam&#39;s approval process dinged this indie game remake for being a remake of the game it&#39;s remaking: &#39;Seems identical to the game you put out 11 years ago&#39;](https://www.pcgamer.com/games/puzzle/steams-approval-process-dinged-this-indie-game-remake-for-being-a-remake-of-the-game-its-remaking-seems-identical-to-the-game-you-put-out-11-years-ago)
- - [Misfits and Magic season 2 tackles the future of magic](https://www.polygon.com/tabletop-games/447782/dimension-20-misfits-and-magic-season-2-trailer)<!-- GAME:END -->
+ - [Another Game Is Missing Xbox At Launch And Dev Blames Microsoft: &#39;They Ignore Us&#39; [Update: Phil Spencer Working On It]](https://kotaku.com/enotria-last-song-soulslike-xbox-ps5-game-pass-1851638365)
+ - [AEW Has A Chris Jericho Problem](https://kotaku.com/aew-dynamite-chris-jericho-vortex-wwe-retire-1851639872)
+ - [10 Crucial Tips To Get The Most Out Of Visions Of Mana](https://kotaku.com/visions-of-mana-tips-square-enix-difficulty-1851639676)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
