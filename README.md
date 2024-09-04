@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Is there any chance of a Concord comeback? Here are 5 other times major PC games failed to launch, and what happened next](https://www.pcgamer.com/gaming-industry/is-there-any-chance-of-a-concord-comeback-here-are-5-other-times-major-pc-games-failed-to-launch-and-what-happened-next)
- - [Oof, I forgot that Concord has an episode in upcoming TV series Secret Level](https://www.pcgamer.com/games/fps/oof-i-forgot-that-concord-has-an-episode-in-upcoming-tv-series-secret-level)
- - [Fresh off a cozy fuzzy animal set, Magic: The Gathering is going full horror again](https://www.pcgamer.com/games/card-games/fresh-off-a-cozy-fuzzy-animal-set-magic-the-gathering-is-going-full-horror-again)<!-- GAME:END -->
+ - [Borderlands players cracked a secret cipher to find &#39;the most valuable SHiFT code we&#39;ve ever made&#39;](https://www.pcgamer.com/games/fps/borderlands-players-cracked-a-secret-cipher-to-find-the-most-valuable-shift-code-weve-ever-made)
+ - [Today&#39;s Wordle answer for Wednesday, September 4](https://www.pcgamer.com/games/puzzle/wordle-answer-today-september-4-2024)
+ - [Is there any chance of a Concord comeback? Here are 5 other times major PC games failed to launch, and what happened next](https://www.pcgamer.com/gaming-industry/is-there-any-chance-of-a-concord-comeback-here-are-5-other-times-major-pc-games-failed-to-launch-and-what-happened-next)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
