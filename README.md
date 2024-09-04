@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tokyo-based Sakana AI, which unveiled several AI models for Japanese speakers, raised a $100M Series A led by NEA, Khosla, and Lux, with Nvidia participating &lpar;Min Jeong Lee/BNN Bloomberg&rpar;](http://www.techmeme.com/240904/p8#a240904p8)
- - [Google Play Store is already testing a higher limit for simultaneous app downloads](https://www.androidauthority.com/play-store-testing-higher-limit-downloads-3478110/)
- - [Nvidia stock fell 9.5% on Tuesday, losing $279B in market value, the biggest single-day drop for a US company, as investors soften their optimism about AI &lpar;Reuters&rpar;](http://www.techmeme.com/240904/p7#a240904p7)<!-- TECH:END -->
+ - [Apple&#39;s iPhone 16 cases won&#39;t need a cutout for the Capture button](https://appleinsider.com/articles/24/09/04/apples-iphone-16-cases-wont-need-a-cutout-for-the-capture-button?utm_medium=rss)
+ - [Ubisoft stock fell by 10%+ to a ten year low in the past two days, giving it a market cap of &amp;euro;1.99B, following the lukewarm reception to Star Wars Outlaws &lpar;Tom Henderson/Insider Gaming&rpar;](http://www.techmeme.com/240904/p11#a240904p11)
+ - [Blackstone agrees to acquire Australian data center operator AirTrunk in a deal valuing the company at around $16.1B &lpar;Bloomberg&rpar;](http://www.techmeme.com/240904/p10#a240904p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
