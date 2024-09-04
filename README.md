@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [THRIFT was misunderstood to be THEFT i guess.](http://9gag.com/gag/ayNxXjr)
- - ⏩ [Dental and root canal treatment](http://9gag.com/gag/a8788w6)
- - 👉 [Why are they like this? this poor man.](http://9gag.com/gag/aqy1jKp)<!-- MEMES:END -->
+ - 💣 [Poor guy](http://9gag.com/gag/aE0B2ze)
+ - ⏩ [Killer Smile](http://9gag.com/gag/a6ZVEKL)
+ - 👉 [YouTuber JK took a photo every day for 22 years to see how he ages &lpar;25 to 47 years&rpar;](http://9gag.com/gag/aQze1W8)<!-- MEMES:END -->
 
 ---
 
