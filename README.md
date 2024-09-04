@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [It is definitely better](http://9gag.com/gag/a2v4ZgE)
- - ⏩ [The Latest From Elmo.](http://9gag.com/gag/aVvM3qd)
- - 👉 [When you have to let homie win](http://9gag.com/gag/aZZgg5W)<!-- MEMES:END -->
+ - 💣 [Japoreo lession](http://9gag.com/gag/a0e5Qzn)
+ - ⏩ [This really happened?](http://9gag.com/gag/a5Qnoyo)
+ - 👉 [We can keep hold till you die, Earl.](http://9gag.com/gag/ae9eeV5)<!-- MEMES:END -->
 
 ---
 
