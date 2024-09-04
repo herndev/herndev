@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [New Apple Watch Series 10 rumors disagree over screen redesign](https://appleinsider.com/articles/24/09/04/new-apple-watch-series-10-rumors-disagree-over-screen-redesign?utm_medium=rss)
- - [The Biden administration&#39;s big bet on Intel to lead a US chipmaking revival is in trouble as Intel struggles to meet milestones for receiving CHIPS Act grants &lpar;Mackenzie Hawkins/Bloomberg&rpar;](http://www.techmeme.com/240904/p16#a240904p16)
- - [Instagram’s latest update makes Stories more engaging](https://www.androidauthority.com/instagram-stories-support-comments-3478148/)<!-- TECH:END -->
+ - [YubiKeys have an unfixable security flaw](https://www.theverge.com/2024/9/4/24235635/yubikey-unfixable-security-vulnerability-side-channel-explot)
+ - [Microsoft to announce ‘next phase of Copilot’ on September 16th](https://www.theverge.com/2024/9/4/24235634/microsoft-copilot-event-satya-nadella)
+ - [Qualcomm announces its first 8-core Snapdragon X Plus chips, which will ship in new Asus Zenbook S 15 and Dell Inspiron 14, available for $899 each &lpar;Sean Hollister/The Verge&rpar;](http://www.techmeme.com/240904/p17#a240904p17)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
