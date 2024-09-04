@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Sorry for late BBQ photo](http://9gag.com/gag/aD2zxnw)
- - ⏩ [Concord is officially dead.](http://9gag.com/gag/aVvMYAn)
- - 👉 [Pretty Sure nobody noticed that](http://9gag.com/gag/a1mKo0b)<!-- MEMES:END -->
+ - 💣 [The end is the best](http://9gag.com/gag/aBy88WO)
+ - ⏩ [Italian is the best](http://9gag.com/gag/azxqXLq)
+ - 👉 [Concord is officially dead.](http://9gag.com/gag/aVvMYAn)<!-- MEMES:END -->
 
 ---
 
