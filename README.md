@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [The end is the best](http://9gag.com/gag/aBy88WO)
- - ⏩ [Italian is the best](http://9gag.com/gag/azxqXLq)
- - 👉 [Ayder duck feathers are considered one of the most luxurious bedding materials. It is characterized by its rarity and superior thermal insulation](http://9gag.com/gag/aRBjm17)<!-- MEMES:END -->
+ - ⏩ [Na-na na-na na-na baby give it up](http://9gag.com/gag/ayNxx8r)
+ - 👉 [A Bribe to ease your mind with guilt](http://9gag.com/gag/aGye1On)<!-- MEMES:END -->
 
 ---
 
