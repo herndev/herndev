@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Gary Oldman](http://9gag.com/gag/aZZgLN6)
- - ⏩ [France has started operating its 57th nuclear reactor today. The first new one in 25 years. Couldn&#39;t be happier !](http://9gag.com/gag/ary5oep)
- - 👉 [Concord is officially dead.](http://9gag.com/gag/aVvMYAn)<!-- MEMES:END -->
+ - 💣 [This really happened?](http://9gag.com/gag/a5Qnoyo)
+ - ⏩ [So don&#39;t worry](http://9gag.com/gag/a5QnnbE)
+ - 👉 [THRIFT was misunderstood to be THEFT i guess.](http://9gag.com/gag/ayNxXjr)<!-- MEMES:END -->
 
 ---
 
