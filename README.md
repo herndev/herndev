@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Keep smiling!](http://9gag.com/gag/aPA9Yjn)
- - ⏩ [I was shocked to find 9gagers on Insta comment.\u00a0](http://9gag.com/gag/aKGDxeb)
- - 👉 [Slav home renovation simulator](http://9gag.com/gag/aGyeeEG)<!-- MEMES:END -->
+ - 💣 [The end is the best](http://9gag.com/gag/aBy88WO)
+ - ⏩ [Italian is the best](http://9gag.com/gag/azxqXLq)
+ - 👉 [Ayder duck feathers are considered one of the most luxurious bedding materials. It is characterized by its rarity and superior thermal insulation](http://9gag.com/gag/aRBjm17)<!-- MEMES:END -->
 
 ---
 
