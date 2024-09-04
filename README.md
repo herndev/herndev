@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How to get Max Particles from Power Spots in Pokémon Go](https://www.polygon.com/pokemon-go-guide/447529/max-particles-power-spots-how-to-get-mp)
- - [People Are Rushing To Sell Concord For Way Too Much Now That It&#39;s Shutting Down](https://kotaku.com/concord-ebay-scalpers-ps5-physical-copies-prices-sony-1851639576)
- - [Counter-Strike 2 pro falls foul of the SnapTap ban and fesses up: &#39;embarrassing and amateur&#39;](https://www.pcgamer.com/games/fps/counter-strike-2-pro-falls-foul-of-the-snaptap-ban-and-fesses-up-embarrassing-and-amateur)<!-- GAME:END -->
+ - [Couch PC gaming could get a whole load more convenient as Microsoft has started testing a virtual keyboard layout for controllers](https://www.pcgamer.com/hardware/controllers/couch-pc-gaming-could-get-a-whole-load-more-convenient-as-microsoft-has-started-testing-a-virtual-keyboard-layout-for-controllers)
+ - [Add 1 TB of extra storage to your Switch or Steam Deck for just $66](https://www.polygon.com/good-deals/447557/lexar-1tb-microsd-sale-switch-steam-deck-storage)
+ - [Get The Star Wars Jedi Games For Cheap If Outlaws Has Left You Wanting More](https://kotaku.com/star-wars-jedi-fallen-order-survivor-playstation-sale-1851639692)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
