@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Best dad ever](http://9gag.com/gag/aZZgyq9)
- - ⏩ [THRIFT was misunderstood to be THEFT i guess.](http://9gag.com/gag/ayNxXjr)
- - 👉 [Chewin&#39; The Fat....Scottish Comedy Show](http://9gag.com/gag/aGyeZqw)<!-- MEMES:END -->
+ - 💣 [It is definitely better](http://9gag.com/gag/a2v4ZgE)
+ - ⏩ [The Latest From Elmo.](http://9gag.com/gag/aVvM3qd)
+ - 👉 [When you have to let homie win](http://9gag.com/gag/aZZgg5W)<!-- MEMES:END -->
 
 ---
 
