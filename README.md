@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Keep smiling!](http://9gag.com/gag/aPA9Yjn)
- - ⏩ [Slav home renovation simulator](http://9gag.com/gag/aGyeeEG)
- - 👉 [Gary Oldman](http://9gag.com/gag/aZZgLN6)<!-- MEMES:END -->
+ - 💣 [A Bribe to ease your mind with guilt](http://9gag.com/gag/aGye1On)
+ - ⏩ [Maui saves a lady stuck in a mcdonald&#39;s bathroom](http://9gag.com/gag/avy7oMZ)
+ - 👉 [THRIFT was misunderstood to be THEFT i guess.](http://9gag.com/gag/ayNxXjr)<!-- MEMES:END -->
 
 ---
 
