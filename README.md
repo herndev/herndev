@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [A Bribe to ease your mind with guilt](http://9gag.com/gag/aGye1On)
- - ⏩ [Maui saves a lady stuck in a mcdonald&#39;s bathroom](http://9gag.com/gag/avy7oMZ)
- - 👉 [THRIFT was misunderstood to be THEFT i guess.](http://9gag.com/gag/ayNxXjr)<!-- MEMES:END -->
+ - 💣 [When your boss finds out what you&#39;ve been doing](http://9gag.com/gag/aoyONxX)
+ - ⏩ [Na-na na-na na-na baby give it up](http://9gag.com/gag/ayNxx8r)
+ - 👉 [Italian is the best](http://9gag.com/gag/azxqXLq)<!-- MEMES:END -->
 
 ---
 
