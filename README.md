@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Another Game Is Missing Xbox At Launch And Dev Blames Microsoft: &#39;They Ignore Us&#39; [Update: Phil Spencer Working On It]](https://kotaku.com/enotria-last-song-soulslike-xbox-ps5-game-pass-1851638365)
- - [AEW Has A Chris Jericho Problem](https://kotaku.com/aew-dynamite-chris-jericho-vortex-wwe-retire-1851639872)
- - [10 Crucial Tips To Get The Most Out Of Visions Of Mana](https://kotaku.com/visions-of-mana-tips-square-enix-difficulty-1851639676)<!-- GAME:END -->
+ - [All expert locations and abilities in Star Wars Outlaws](https://www.polygon.com/star-wars-outlaws-guides/445441/all-abilities-experts-locations-where-to-find)
+ - [You Have One Day Left To Get These Amazing RPGs For Cheap](https://kotaku.com/steam-sale-tales-of-series-rpg-arise-symphonia-1851639995)
+ - [Where To Find Miriam&#39;s Vanishing Sorcery In Shadow Of The Erdtree](https://kotaku.com/elden-ring-shadow-erdtree-miriams-vanishing-guide-1851639701)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
