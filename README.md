@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [When your boss finds out what you&#39;ve been doing](http://9gag.com/gag/aoyONxX)
- - ⏩ [Na-na na-na na-na baby give it up](http://9gag.com/gag/ayNxx8r)
- - 👉 [Italian is the best](http://9gag.com/gag/azxqXLq)<!-- MEMES:END -->
+ - 💣 [Gary Oldman](http://9gag.com/gag/aZZgLN6)
+ - ⏩ [France has started operating its 57th nuclear reactor today. The first new one in 25 years. Couldn&#39;t be happier !](http://9gag.com/gag/ary5oep)
+ - 👉 [Concord is officially dead.](http://9gag.com/gag/aVvMYAn)<!-- MEMES:END -->
 
 ---
 
