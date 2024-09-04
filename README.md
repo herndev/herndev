@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Couch PC gaming could get a whole load more convenient as Microsoft has started testing a virtual keyboard layout for controllers](https://www.pcgamer.com/hardware/controllers/couch-pc-gaming-could-get-a-whole-load-more-convenient-as-microsoft-has-started-testing-a-virtual-keyboard-layout-for-controllers)
- - [Add 1 TB of extra storage to your Switch or Steam Deck for just $66](https://www.polygon.com/good-deals/447557/lexar-1tb-microsd-sale-switch-steam-deck-storage)
- - [Get The Star Wars Jedi Games For Cheap If Outlaws Has Left You Wanting More](https://kotaku.com/star-wars-jedi-fallen-order-survivor-playstation-sale-1851639692)<!-- GAME:END -->
+ - [Save the Kingdom: Epic Battles Await in Bunny Battle Nemesis](https://news.xbox.com/en-us/2024/09/04/save-the-kingdom-epic-battles-await-in-bunny-battle-nemesis/)
+ - [Steam&#39;s approval process dinged this indie game remake for being a remake of the game it&#39;s remaking: &#39;Seems identical to the game you put out 11 years ago&#39;](https://www.pcgamer.com/games/puzzle/steams-approval-process-dinged-this-indie-game-remake-for-being-a-remake-of-the-game-its-remaking-seems-identical-to-the-game-you-put-out-11-years-ago)
+ - [Misfits and Magic season 2 tackles the future of magic](https://www.polygon.com/tabletop-games/447782/dimension-20-misfits-and-magic-season-2-trailer)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
