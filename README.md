@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Audio transcription compared -- Cloud-based vs. on-device](https://appleinsider.com/articles/24/09/04/audio-transcription-compared----cloud-based-vs-on-device?utm_medium=rss)
- - [The Internet Archive Loses Its Appeal of a Major Copyright Case](https://www.wired.com/story/internet-archive-loses-hachette-books-case-appeal/)
- - [Best PlayStation Plus Deals: Get a 3-Month Membership With 10% Off](https://www.cnet.com/deals/best-playstation-plus-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [YouTube’s new safety feature for teens gives parents more control](https://www.androidauthority.com/youtube-safety-feature-teens-3478267/)
+ - [The Internet Archive just lost its appeal over ebook lending](https://www.theverge.com/2024/9/4/24235958/internet-archive-loses-appeal-ebook-lending)
+ - [Samsung could learn a thing or two from the Pixel 9 Pro Fold’s ‘phone-first’ philosophy](https://www.androidauthority.com/pixel-9-pro-fold-design-3478334/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
