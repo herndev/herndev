@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Delaware Customs seized over $100k in Apple products destined for China](https://appleinsider.com/articles/24/09/04/delaware-customs-seized-over-100k-in-apple-products-destined-for-china?utm_medium=rss)
- - [The first reviews of ChatGPT’s Google Search rival are here, and they’re a mixed bag](https://www.androidauthority.com/searchgpt-first-reactions-3478389/)
- - [Elon Musk is absolutely not a ‘free speech absolutist’](https://www.theverge.com/2024/9/4/24235213/x-brazil-suppression-speech-elon-musk-india-turkey)<!-- TECH:END -->
+ - [Right-Wing Influencer Network Tenet Media Allegedly Spread Russian Disinformation](https://www.wired.com/story/right-wing-influencer-network-tenet-media-allegedly-spread-russian-disinformation/)
+ - [C3.ai reports Q1 revenue up 21% YoY to $87.2M, vs. $86.9M est., and subscription revenue up 20% YoY to $73.5M, vs. $79.1M est.; its stock falls 16%+ after hours &lpar;Juby Babu/Reuters&rpar;](http://www.techmeme.com/240904/p47#a240904p47)
+ - [Seeing &#39;Beetlejuice Beetlejuice&#39;? Here&#39;s How to Stream the 1988 Original](https://www.cnet.com/tech/services-and-software/seeing-beetlejuice-beetlejuice-heres-how-to-stream-the-1988-original/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
