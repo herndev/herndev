@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nvidia says it has inquired with the US DOJ and hasn&#39;t been subpoenaed, following a report that it had received a subpoena from the DOJ over antitrust concerns &lpar;Kif Leswing/CNBC&rpar;](http://www.techmeme.com/240904/p41#a240904p41)
- - [Russia is trying to meddle with the US election again, Biden administration says](https://www.theverge.com/2024/9/4/24235864/russia-influence-disinformation-us-presidential-election)
- - [Battery Share restriction means Pixel 9 phones can’t give and take](https://www.androidauthority.com/google-pixel-9-battery-share-3478338/)<!-- TECH:END -->
+ - [Delaware Customs seized over $100k in Apple products destined for China](https://appleinsider.com/articles/24/09/04/delaware-customs-seized-over-100k-in-apple-products-destined-for-china?utm_medium=rss)
+ - [The first reviews of ChatGPT’s Google Search rival are here, and they’re a mixed bag](https://www.androidauthority.com/searchgpt-first-reactions-3478389/)
+ - [Elon Musk is absolutely not a ‘free speech absolutist’](https://www.theverge.com/2024/9/4/24235213/x-brazil-suppression-speech-elon-musk-india-turkey)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
