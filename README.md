@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Why are they like this? this poor man.](http://9gag.com/gag/aqy1jKp)
- - ⏩ [Italian is the best](http://9gag.com/gag/azxqXLq)
- - 👉 [We can keep hold till you die, Earl.](http://9gag.com/gag/ae9eeV5)<!-- MEMES:END -->
+ - 💣 [THRIFT was misunderstood to be THEFT i guess.](http://9gag.com/gag/ayNxXjr)
+ - ⏩ [Dental and root canal treatment](http://9gag.com/gag/a8788w6)
+ - 👉 [Why are they like this? this poor man.](http://9gag.com/gag/aqy1jKp)<!-- MEMES:END -->
 
 ---
 
