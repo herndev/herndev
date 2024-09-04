@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Beats by Dre teases new PowerBeats Pro 2 headphones for 2025](https://appleinsider.com/articles/24/09/04/beats-by-dre-teases-new-powerbeats-pro-2-headphones-for-2025?utm_medium=rss)
- - [Panasonic TVs return to the US with a huge 85 inch Mini LED screen](https://www.theverge.com/2024/9/4/24235680/panasonic-tv-oled-mini-led-amazon-fire-tv)
- - [X launches a new TV app &quot;on several app stores&quot; in beta, as part of an effort to court advertisers, creators, and partners around a &quot;video-first platform&quot; &lpar;TechCrunch&rpar;](http://www.techmeme.com/240904/p34#a240904p34)<!-- TECH:END -->
+ - [US safety regulators say it’s time to investigate Shein and Temu](https://www.theverge.com/2024/9/4/24235882/shein-temu-safety-commission-investigation-cpsc)
+ - [Everything is not OSOM: The company born from Essential’s ashes is shutting down](https://www.androidauthority.com/osom-shut-down-3478302/)
+ - [I Found the Best Way to Reheat Pizza and It&#39;s Not the Air Fryer](https://www.cnet.com/how-to/i-tested-5-ways-to-reheat-pizza-and-this-was-the-best/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
