@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Fantasian: Neo Dimension on PS5 – hands-on report](https://blog.playstation.com/2024/09/04/fantasian-neo-dimension-on-ps5-hands-on-report/)
- - [No Man&#39;s Sky finally delivers the perfect reason to explore a few trillion planets: to go fishing](https://www.pcgamer.com/games/survival-crafting/no-mans-sky-finally-delivers-the-perfect-reason-to-explore-a-few-trillion-planets-to-go-fishing)
- - [The Adventure Zone’s new season mixes dice with Saturday morning cartoons](https://www.polygon.com/comedy/445805/adventure-zone-new-season-abnimals-premiere-interview)<!-- GAME:END -->
+ - [Star Trucker – Keepin’ Galactic Truckin’ Grounded](https://news.xbox.com/en-us/2024/09/04/star-trucker-keepin-galactic-truckin-grounded/)
+ - [Elon Musk&#39;s monster wakes up as xAI turns on &#39;Colossus&#39;, the Nvidia-powered AI-training supercomputer claiming to be the most powerful in the world](https://www.pcgamer.com/hardware/elon-musks-monster-wakes-up-as-xai-turns-on-colossus-the-nvidia-powered-ai-training-supercomputer-claiming-to-be-the-most-powerful-in-the-world)
+ - [The newest update to No Man&amp;#8217;s Sky finally adds a fishing minigame](https://www.polygon.com/news/447270/no-mans-sky-aquarius-update-fishing)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
