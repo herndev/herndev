@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Japoreo lession](http://9gag.com/gag/a0e5Qzn)
- - ⏩ [This really happened?](http://9gag.com/gag/a5Qnoyo)
- - 👉 [We can keep hold till you die, Earl.](http://9gag.com/gag/ae9eeV5)<!-- MEMES:END -->
+ - 💣 [Italian is the best](http://9gag.com/gag/azxqXLq)
+ - ⏩ [THRIFT was misunderstood to be THEFT i guess.](http://9gag.com/gag/ayNxXjr)
+ - 👉 [Poor guy](http://9gag.com/gag/aE0B2ze)<!-- MEMES:END -->
 
 ---
 
