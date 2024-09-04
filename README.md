@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Fresh off a cozy fuzzy animal set, Magic: The Gathering is going full horror again](https://www.pcgamer.com/games/card-games/fresh-off-a-cozy-fuzzy-animal-set-magic-the-gathering-is-going-full-horror-again)
  - [Gundam Breaker 4 is the ideal mech building sandbox for mobile suit sickos](https://www.pcgamer.com/games/action/gundam-breaker-4-is-the-ideal-mech-building-sandbox-for-mobile-suit-sickos)
- - [Concord developer expresses gratitude for support following the sudden shutdown: &#39;For all of you reaching out with love, you are the reason we make games&#39;](https://www.pcgamer.com/games/fps/concord-developer-expresses-gratitude-for-support-following-the-sudden-shutdown-for-all-of-you-reaching-out-with-love-you-are-the-reason-we-make-games)
- - [Spectre Divide launches with outrageous $90 gun skins out the gate, which only makes its broken matchmaking more annoying](https://www.pcgamer.com/games/fps/spectre-divide-launches-with-outrageous-90-gun-skins-which-only-makes-its-broken-matchmaking-more-annoying)<!-- GAME:END -->
+ - [Concord developer expresses gratitude for support following the sudden shutdown: &#39;For all of you reaching out with love, you are the reason we make games&#39;](https://www.pcgamer.com/games/fps/concord-developer-expresses-gratitude-for-support-following-the-sudden-shutdown-for-all-of-you-reaching-out-with-love-you-are-the-reason-we-make-games)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
