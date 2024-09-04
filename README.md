@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ride-hailing company GoTo plans to close its Gojek brand in Vietnam, to focus on reaching profitability in its main operations in Indonesia and Singapore &lpar;Olivia Poh/Bloomberg&rpar;](http://www.techmeme.com/240904/p29#a240904p29)
- - [Intel’s advanced chipmaking process reportedly runs into trouble](https://www.theverge.com/2024/9/4/24235682/intel-18a-chipmaking-process-broadcom-test)
- - [Android 15 features: Everything you need to know about confirmed and leaked features](https://www.androidauthority.com/android-15-features-3401939/)<!-- TECH:END -->
+ - [Beats by Dre teases new PowerBeats Pro 2 headphones for 2025](https://appleinsider.com/articles/24/09/04/beats-by-dre-teases-new-powerbeats-pro-2-headphones-for-2025?utm_medium=rss)
+ - [Panasonic TVs return to the US with a huge 85 inch Mini LED screen](https://www.theverge.com/2024/9/4/24235680/panasonic-tv-oled-mini-led-amazon-fire-tv)
+ - [X launches a new TV app &quot;on several app stores&quot; in beta, as part of an effort to court advertisers, creators, and partners around a &quot;video-first platform&quot; &lpar;TechCrunch&rpar;](http://www.techmeme.com/240904/p34#a240904p34)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
