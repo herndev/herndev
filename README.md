@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Borderlands players cracked a secret cipher to find &#39;the most valuable SHiFT code we&#39;ve ever made&#39;](https://www.pcgamer.com/games/fps/borderlands-players-cracked-a-secret-cipher-to-find-the-most-valuable-shift-code-weve-ever-made)
- - [Today&#39;s Wordle answer for Wednesday, September 4](https://www.pcgamer.com/games/puzzle/wordle-answer-today-september-4-2024)
- - [Is there any chance of a Concord comeback? Here are 5 other times major PC games failed to launch, and what happened next](https://www.pcgamer.com/gaming-industry/is-there-any-chance-of-a-concord-comeback-here-are-5-other-times-major-pc-games-failed-to-launch-and-what-happened-next)<!-- GAME:END -->
+ - [A new Cyberpunk 2077 board game crowdfunding campaign hit its goal in 10 minutes and is now well past a million dollars](https://www.pcgamer.com/games/rpg/a-new-cyberpunk-2077-board-game-crowdfunding-campaign-hit-its-goal-in-10-minutes-and-is-now-well-past-a-million-dollars)
+ - [This absurd delivery game where you can smash through buildings was my favourite game at an event where I also played the Metal Gear Solid and Silent Hill remakes](https://www.pcgamer.com/games/action/this-absurd-delivery-game-where-you-can-smash-through-buildings-was-my-favourite-game-at-an-event-where-i-also-played-the-metal-gear-solid-and-silent-hill-remakes)
+ - [Borderlands players cracked a secret cipher to find &#39;the most valuable SHiFT code we&#39;ve ever made&#39;](https://www.pcgamer.com/games/fps/borderlands-players-cracked-a-secret-cipher-to-find-the-most-valuable-shift-code-weve-ever-made)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
