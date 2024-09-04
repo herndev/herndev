@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tado’s Matter-compliant heating products are coming to the UK](https://www.theverge.com/2024/9/4/24234392/tado-x-matter-thread-heatpump-europe-uk-price-specs)
- - [Germany’s Far Right Is in a Panic Over Telegram](https://www.wired.com/story/germanys-far-right-is-in-a-panic-over-telegram/)
- - [Filing: Lyft plans to sell some of its bike and scooter business and cut 1% of its employees as it struggles to turn profitable &lpar;Natalie Lung/Bloomberg&rpar;](http://www.techmeme.com/240904/p26#a240904p26)<!-- TECH:END -->
+ - [Ride-hailing company GoTo plans to close its Gojek brand in Vietnam, to focus on reaching profitability in its main operations in Indonesia and Singapore &lpar;Olivia Poh/Bloomberg&rpar;](http://www.techmeme.com/240904/p29#a240904p29)
+ - [Intel’s advanced chipmaking process reportedly runs into trouble](https://www.theverge.com/2024/9/4/24235682/intel-18a-chipmaking-process-broadcom-test)
+ - [Android 15 features: Everything you need to know about confirmed and leaked features](https://www.androidauthority.com/android-15-features-3401939/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
