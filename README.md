@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Italian is the best](http://9gag.com/gag/azxqXLq)
- - ⏩ [THRIFT was misunderstood to be THEFT i guess.](http://9gag.com/gag/ayNxXjr)
- - 👉 [Poor guy](http://9gag.com/gag/aE0B2ze)<!-- MEMES:END -->
+ - 💣 [Why are they like this? this poor man.](http://9gag.com/gag/aqy1jKp)
+ - ⏩ [Italian is the best](http://9gag.com/gag/azxqXLq)
+ - 👉 [We can keep hold till you die, Earl.](http://9gag.com/gag/ae9eeV5)<!-- MEMES:END -->
 
 ---
 
