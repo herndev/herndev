@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [A masterclass on how to waste millions.](http://9gag.com/gag/amo2Bj9)
- - ⏩ [Poor guy](http://9gag.com/gag/aE0B2ze)
- - 👉 [Blackrock owns majority Amazon shares after Bezos.](http://9gag.com/gag/avy7zbq)<!-- MEMES:END -->
+ - 💣 [It is definitely better](http://9gag.com/gag/a2v4ZgE)
+ - ⏩ [Italian is the best](http://9gag.com/gag/azxqXLq)
+ - 👉 [YouTuber JK took a photo every day for 22 years to see how he ages &lpar;25 to 47 years&rpar;](http://9gag.com/gag/aQze1W8)<!-- MEMES:END -->
 
 ---
 
