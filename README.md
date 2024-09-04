@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The OnePlus Open 2 could be the new thinnest foldable](https://www.androidauthority.com/oneplus-open-2-thin-leak-3478093/)
- - [A look at X&#39;s shrinking clout in Brazil even before the ban; Twitter, the platform now known as X, once dominated Brazilian social media with 40M+ users &lpar;Terrence McCoy/Washington Post&rpar;](http://www.techmeme.com/240904/p5#a240904p5)
- - [Amid poor sales, Sony halts sales and offers refunds for its FPS game Concord, which launched as a $40 PS5 and PC title on August 23 after years of development &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/240904/p4#a240904p4)<!-- TECH:END -->
+ - [Tokyo-based Sakana AI, which unveiled several AI models for Japanese speakers, raised a $100M Series A led by NEA, Khosla, and Lux, with Nvidia participating &lpar;Min Jeong Lee/BNN Bloomberg&rpar;](http://www.techmeme.com/240904/p8#a240904p8)
+ - [Google Play Store is already testing a higher limit for simultaneous app downloads](https://www.androidauthority.com/play-store-testing-higher-limit-downloads-3478110/)
+ - [Nvidia stock fell 9.5% on Tuesday, losing $279B in market value, the biggest single-day drop for a US company, as investors soften their optimism about AI &lpar;Reuters&rpar;](http://www.techmeme.com/240904/p7#a240904p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
