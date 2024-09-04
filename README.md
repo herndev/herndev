@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [YubiKeys have an unfixable security flaw](https://www.theverge.com/2024/9/4/24235635/yubikey-unfixable-security-vulnerability-side-channel-explot)
- - [Microsoft to announce ‘next phase of Copilot’ on September 16th](https://www.theverge.com/2024/9/4/24235634/microsoft-copilot-event-satya-nadella)
- - [Qualcomm announces its first 8-core Snapdragon X Plus chips, which will ship in new Asus Zenbook S 15 and Dell Inspiron 14, available for $899 each &lpar;Sean Hollister/The Verge&rpar;](http://www.techmeme.com/240904/p17#a240904p17)<!-- TECH:END -->
+ - [Acer’s 14-inch laptops claim 24 hours of battery life from Intel, Qualcomm, or AMD](https://www.theverge.com/2024/9/4/24235329/acer-ifa-2024-new-swift-ai-laptops-specs)
+ - [This concept laptop has Nintendo Switch-style detachable controllers](https://www.androidauthority.com/project-dualplay-gaming-laptop-announced-3477903/)
+ - [‘The Legend of Zelda: Echoes of Wisdom’ Gives the Princess Powers That Link Never Got](https://www.wired.com/story/the-legend-of-zelda-echoes-of-wisdom-early-review/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
