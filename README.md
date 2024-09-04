@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [A new Cyberpunk 2077 board game crowdfunding campaign hit its goal in 10 minutes and is now well past a million dollars](https://www.pcgamer.com/games/rpg/a-new-cyberpunk-2077-board-game-crowdfunding-campaign-hit-its-goal-in-10-minutes-and-is-now-well-past-a-million-dollars)
- - [This absurd delivery game where you can smash through buildings was my favourite game at an event where I also played the Metal Gear Solid and Silent Hill remakes](https://www.pcgamer.com/games/action/this-absurd-delivery-game-where-you-can-smash-through-buildings-was-my-favourite-game-at-an-event-where-i-also-played-the-metal-gear-solid-and-silent-hill-remakes)
- - [Borderlands players cracked a secret cipher to find &#39;the most valuable SHiFT code we&#39;ve ever made&#39;](https://www.pcgamer.com/games/fps/borderlands-players-cracked-a-secret-cipher-to-find-the-most-valuable-shift-code-weve-ever-made)<!-- GAME:END -->
+ - [US Department of Justice gets serious with Nvidia as it issues subpoenas in anti-competitive AI practices probe](https://www.pcgamer.com/software/ai/us-department-of-justice-gets-serious-with-nvidia-as-it-issues-subpoenas-in-anti-competitive-ai-practices-probe)
+ - [&#39;Worse than horse armour&#39;—Age of Mythology: Retold is charging $6 for 22-year-old jpegs, giving the DLC &#39;very negative&#39; Steam reviews before the game&#39;s even out](https://www.pcgamer.com/games/rts/worse-than-horse-armour-age-of-mythology-retold-is-charging-6-for-22-year-old-jpegs-giving-the-dlc-very-negative-steam-reviews-before-the-game-s-even-out)
+ - [A new Cyberpunk 2077 board game crowdfunding campaign hit its goal in 10 minutes and is now well past a million dollars](https://www.pcgamer.com/games/rpg/a-new-cyberpunk-2077-board-game-crowdfunding-campaign-hit-its-goal-in-10-minutes-and-is-now-well-past-a-million-dollars)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
