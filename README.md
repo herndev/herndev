@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Fresh off a cozy fuzzy animal set, Magic: The Gathering is going full horror again](https://www.pcgamer.com/games/card-games/fresh-off-a-cozy-fuzzy-animal-set-magic-the-gathering-is-going-full-horror-again)
- - [Gundam Breaker 4 is the ideal mech building sandbox for mobile suit sickos](https://www.pcgamer.com/games/action/gundam-breaker-4-is-the-ideal-mech-building-sandbox-for-mobile-suit-sickos)
- - [Concord developer expresses gratitude for support following the sudden shutdown: &#39;For all of you reaching out with love, you are the reason we make games&#39;](https://www.pcgamer.com/games/fps/concord-developer-expresses-gratitude-for-support-following-the-sudden-shutdown-for-all-of-you-reaching-out-with-love-you-are-the-reason-we-make-games)<!-- GAME:END -->
+ - [Is there any chance of a Concord comeback? Here are 5 other times major PC games failed to launch, and what happened next](https://www.pcgamer.com/gaming-industry/is-there-any-chance-of-a-concord-comeback-here-are-5-other-times-major-pc-games-failed-to-launch-and-what-happened-next)
+ - [Oof, I forgot that Concord has an episode in upcoming TV series Secret Level](https://www.pcgamer.com/games/fps/oof-i-forgot-that-concord-has-an-episode-in-upcoming-tv-series-secret-level)
+ - [Fresh off a cozy fuzzy animal set, Magic: The Gathering is going full horror again](https://www.pcgamer.com/games/card-games/fresh-off-a-cozy-fuzzy-animal-set-magic-the-gathering-is-going-full-horror-again)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
