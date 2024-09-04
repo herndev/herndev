@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Star Trucker – Keepin’ Galactic Truckin’ Grounded](https://news.xbox.com/en-us/2024/09/04/star-trucker-keepin-galactic-truckin-grounded/)
- - [Elon Musk&#39;s monster wakes up as xAI turns on &#39;Colossus&#39;, the Nvidia-powered AI-training supercomputer claiming to be the most powerful in the world](https://www.pcgamer.com/hardware/elon-musks-monster-wakes-up-as-xai-turns-on-colossus-the-nvidia-powered-ai-training-supercomputer-claiming-to-be-the-most-powerful-in-the-world)
- - [The newest update to No Man&amp;#8217;s Sky finally adds a fishing minigame](https://www.polygon.com/news/447270/no-mans-sky-aquarius-update-fishing)<!-- GAME:END -->
+ - [Players’ Choice: Vote for August 2024’s best new game](https://blog.playstation.com/2024/09/04/players-choice-vote-for-august-2024s-best-new-game/)
+ - [Grab Your Space Rod and Find the Perfect Fishing Spot in the No Man’s Sky Aquarius Update](https://news.xbox.com/en-us/2024/09/04/grab-your-space-rod-and-find-the-perfect-fishing-spot-in-the-no-mans-sky-aquarius-update/)
+ - [The best sci-fi movies you can watch at home](https://www.polygon.com/what-to-watch/23051923/best-sci-fi-movies-netflix-hulu-max-free)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
