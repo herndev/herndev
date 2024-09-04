@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Italian is the best](http://9gag.com/gag/azxqXLq)
- - ⏩ [So don&#39;t worry](http://9gag.com/gag/a5QnnbE)
- - 👉 [This really happened?](http://9gag.com/gag/a5Qnoyo)<!-- MEMES:END -->
+ - 💣 [When your kids spends all character customization credits on combat and magic but leaves Intelligence on zero](http://9gag.com/gag/a4PG7Lw)
+ - ⏩ [Pretty Sure nobody noticed that](http://9gag.com/gag/a1mKo0b)
+ - 👉 [Maui saves a lady stuck in a mcdonald&#39;s bathroom](http://9gag.com/gag/avy7oMZ)<!-- MEMES:END -->
 
 ---
 
