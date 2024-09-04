@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The most accurate hacking scene ever](http://9gag.com/gag/axy00mW)
- - ⏩ [Some people are never happy](http://9gag.com/gag/aAyDdgZ)
- - 👉 [This really happened?](http://9gag.com/gag/a5Qnoyo)<!-- MEMES:END -->
+ - 💣 [Keep smiling!](http://9gag.com/gag/aPA9Yjn)
+ - ⏩ [I was shocked to find 9gagers on Insta comment.\u00a0](http://9gag.com/gag/aKGDxeb)
+ - 👉 [Slav home renovation simulator](http://9gag.com/gag/aGyeeEG)<!-- MEMES:END -->
 
 ---
 
