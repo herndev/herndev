@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The end is the best](http://9gag.com/gag/aBy88WO)
- - ⏩ [Italian is the best](http://9gag.com/gag/azxqXLq)
- - 👉 [Concord is officially dead.](http://9gag.com/gag/aVvMYAn)<!-- MEMES:END -->
+ - 💣 [The most accurate hacking scene ever](http://9gag.com/gag/axy00mW)
+ - ⏩ [Some people are never happy](http://9gag.com/gag/aAyDdgZ)
+ - 👉 [This really happened?](http://9gag.com/gag/a5Qnoyo)<!-- MEMES:END -->
 
 ---
 
