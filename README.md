@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The OnePlus Open 2 could be the new thinnest foldable](https://www.androidauthority.com/oneplus-open-2-thin-leak-3478093/)
  - [A look at X&#39;s shrinking clout in Brazil even before the ban; Twitter, the platform now known as X, once dominated Brazilian social media with 40M+ users &lpar;Terrence McCoy/Washington Post&rpar;](http://www.techmeme.com/240904/p5#a240904p5)
- - [Amid poor sales, Sony halts sales and offers refunds for its FPS game Concord, which launched as a $40 PS5 and PC title on August 23 after years of development &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/240904/p4#a240904p4)
- - [Google may have just removed an unsafe Verizon demo app from Pixels](https://www.androidauthority.com/google-pixel-september-updates-vulnerable-verizon-showcase-app-3477844/)<!-- TECH:END -->
+ - [Amid poor sales, Sony halts sales and offers refunds for its FPS game Concord, which launched as a $40 PS5 and PC title on August 23 after years of development &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/240904/p4#a240904p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
