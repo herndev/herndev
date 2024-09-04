@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [US Department of Justice gets serious with Nvidia as it issues subpoenas in anti-competitive AI practices probe](https://www.pcgamer.com/software/ai/us-department-of-justice-gets-serious-with-nvidia-as-it-issues-subpoenas-in-anti-competitive-ai-practices-probe)
- - [&#39;Worse than horse armour&#39;—Age of Mythology: Retold is charging $6 for 22-year-old jpegs, giving the DLC &#39;very negative&#39; Steam reviews before the game&#39;s even out](https://www.pcgamer.com/games/rts/worse-than-horse-armour-age-of-mythology-retold-is-charging-6-for-22-year-old-jpegs-giving-the-dlc-very-negative-steam-reviews-before-the-game-s-even-out)
- - [A new Cyberpunk 2077 board game crowdfunding campaign hit its goal in 10 minutes and is now well past a million dollars](https://www.pcgamer.com/games/rpg/a-new-cyberpunk-2077-board-game-crowdfunding-campaign-hit-its-goal-in-10-minutes-and-is-now-well-past-a-million-dollars)<!-- GAME:END -->
+ - [Fantasian: Neo Dimension on PS5 – hands-on report](https://blog.playstation.com/2024/09/04/fantasian-neo-dimension-on-ps5-hands-on-report/)
+ - [No Man&#39;s Sky finally delivers the perfect reason to explore a few trillion planets: to go fishing](https://www.pcgamer.com/games/survival-crafting/no-mans-sky-finally-delivers-the-perfect-reason-to-explore-a-few-trillion-planets-to-go-fishing)
+ - [The Adventure Zone’s new season mixes dice with Saturday morning cartoons](https://www.polygon.com/comedy/445805/adventure-zone-new-season-abnimals-premiere-interview)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
