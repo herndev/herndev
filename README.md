@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s iPhone 16 cases won&#39;t need a cutout for the Capture button](https://appleinsider.com/articles/24/09/04/apples-iphone-16-cases-wont-need-a-cutout-for-the-capture-button?utm_medium=rss)
- - [Ubisoft stock fell by 10%+ to a ten year low in the past two days, giving it a market cap of &amp;euro;1.99B, following the lukewarm reception to Star Wars Outlaws &lpar;Tom Henderson/Insider Gaming&rpar;](http://www.techmeme.com/240904/p11#a240904p11)
- - [Blackstone agrees to acquire Australian data center operator AirTrunk in a deal valuing the company at around $16.1B &lpar;Bloomberg&rpar;](http://www.techmeme.com/240904/p10#a240904p10)<!-- TECH:END -->
+ - [New Apple Watch Series 10 rumors disagree over screen redesign](https://appleinsider.com/articles/24/09/04/new-apple-watch-series-10-rumors-disagree-over-screen-redesign?utm_medium=rss)
+ - [The Biden administration&#39;s big bet on Intel to lead a US chipmaking revival is in trouble as Intel struggles to meet milestones for receiving CHIPS Act grants &lpar;Mackenzie Hawkins/Bloomberg&rpar;](http://www.techmeme.com/240904/p16#a240904p16)
+ - [Instagram’s latest update makes Stories more engaging](https://www.androidauthority.com/instagram-stories-support-comments-3478148/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
