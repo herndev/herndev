@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Free Play Days – Madden NFL 25 and TopSpin 2K25](https://news.xbox.com/en-us/2024/09/05/free-play-days-madden-nfl-25-and-topspin-2k25/)
- - [Daggerheart, a new Critical Role game, feels more complicated than D&amp;#038;D in a good way](https://www.polygon.com/preview/447660/daggerheart-critical-role-gameplay-vs-dnd)
- - [Everything New In Baldur’s Gate 3’s Seventh Big Patch](https://kotaku.com/baldurs-gate-3-patch-7-notes-pc-ps5-xbox-mac-date-1851640673)<!-- GAME:END -->
+ - [Warhammer 40,000: Space Marine 2 – Making a Sequel to a 13-Year Old Game &lpar;and How It Could Lead to More&rpar;](https://news.xbox.com/en-us/2024/09/05/warhammer-40000-space-marine-2-making-a-sequel/)
+ - [The Rings of Power episode 4 finds some footing amid its trust issues](https://www.polygon.com/lotr-rings-of-power/447801/trop-episode-4-review-bombadil-tolkien-lore)
+ - [The Internet Reacts To The Minecraft Movie’s Divisive Teaser Trailer](https://kotaku.com/minecraft-movie-trailer-internet-reacts-jack-black-1851640832)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
