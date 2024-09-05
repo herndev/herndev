@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Deal: Bose QuietComfort Earbuds II are free when you buy a Motorola Razr Plus 2024](https://www.androidauthority.com/motorola-razr-plus-2024-free-bose-quietcomfort-earbuds-ii-3478786/)
- - [New underground wells could store carbon dioxide pollution for Microsoft and Amazon](https://www.theverge.com/2024/9/5/24236124/oxy-carbon-dioxide-removal-well-permit-epa-microsoft-amazon)
- - [Why It&#39;s So Hard to Fully Block X in Brazil](https://www.wired.com/story/brazil-x-ban-isp-blocking/)<!-- TECH:END -->
+ - [Google’s virtual try-on tool adds new outfits for your fit check](https://www.androidauthority.com/google-search-virtual-try-on-dresses-3478761/)
+ - [Google Maps is crashing all over, but there’s an easy fix](https://www.androidauthority.com/google-maps-crashing-3478773/)
+ - [&#39;Mythic Quest&#39; star Rob McElhenney brings hope for season 4](https://appleinsider.com/articles/24/09/05/mythic-quest-star-rob-mcelhenney-brings-hope-for-season-4?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
