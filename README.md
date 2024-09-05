@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to get on Google&#39;s &#39;Ask Photos&#39; waitlist for iPhone](https://appleinsider.com/inside/iphone/tips/how-to-get-on-googles-ask-photos-waitlist-for-iphone?utm_medium=rss)
- - [A new, even more affordable Moto Razr might be on the way](https://www.androidauthority.com/moto-razr-50s-hdr-certification-3478859/)
- - [The US imposes new export controls on critical tech, including quantum computing and semiconductor goods, aligning the US with Japan, Netherlands, other allies &lpar;Mackenzie Hawkins/Bloomberg&rpar;](http://www.techmeme.com/240905/p29#a240905p29)<!-- TECH:END -->
+ - [Microsoft plans to use StopNCII&#39;s hash database to block revenge porn in Bing, joining Facebook, Instagram, TikTok, Snapchat, Reddit, Pornhub, and OnlyFans &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/240905/p32#a240905p32)
+ - [Google is making your smart home setup even easier by backing up Thread credentials](https://www.androidauthority.com/google-back-up-thread-credentials-3478881/)
+ - [Google Photos can now help you find and recall your precious moments](https://www.androidauthority.com/google-photos-search-upgrade-3478887/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
