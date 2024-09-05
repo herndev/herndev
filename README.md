@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [If your favorite Baldur&#39;s Gate 3 mods don&#39;t work with the new update yet, Larian will let you stick with the older version instead](https://www.pcgamer.com/games/rpg/if-your-favorite-baldurs-gate-3-mods-dont-work-with-the-new-update-yet-larian-will-let-you-stick-with-the-older-version-instead)
- - [The Labyrinth and The Dark Crystal limited edition 4K Blu-rays are coming this fall](https://www.polygon.com/pre-order/448455/the-labyrinth-dark-crystal-4k-blu-ray-limited-edition-steelbook-pre-order-walmart)
- - [Automatons beware: The next major Helldivers 2 patch will overhaul armor penetration later this month](https://www.pcgamer.com/games/third-person-shooter/automatons-beware-the-next-major-helldivers-2-patch-will-overhaul-armor-penetration-later-this-month)<!-- GAME:END -->
+ - [Did Beetlejuice 2’s writers abandon ship halfway through?](https://www.polygon.com/review/448506/beetlejuice-beetlejuice-tim-burton-sequel)
+ - [The Sims 4 will expand on life and death with a Grim Reaper expansion this Halloween](https://www.polygon.com/gaming/448612/the-sims-4-will-expand-on-life-and-death-with-a-grim-reaper-expansion-this-halloween)
+ - [Netflix&#39;s Terminator Zero Anime Is A Welcome Departure From The Franchise&#39;s Uninspired Sameness](https://kotaku.com/netflix-terminator-zero-anime-sarah-connor-judgment-day-1851641264)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
