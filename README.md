@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft plans to use StopNCII&#39;s hash database to block revenge porn in Bing, joining Facebook, Instagram, TikTok, Snapchat, Reddit, Pornhub, and OnlyFans &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/240905/p32#a240905p32)
- - [Google is making your smart home setup even easier by backing up Thread credentials](https://www.androidauthority.com/google-back-up-thread-credentials-3478881/)
- - [Google Photos can now help you find and recall your precious moments](https://www.androidauthority.com/google-photos-search-upgrade-3478887/)<!-- TECH:END -->
+ - [The best new streaming movies this week: The Fall Guy and more](https://www.androidauthority.com/best-new-streaming-movies-this-week-3083965/)
+ - [Pixel Stand 2 vanishes from Google Store, and we can guess why](https://www.androidauthority.com/pixel-stand-2-no-longer-available-3478853/)
+ - [Looking for a new phone? Boost will give you a year of free service with purchase of a 5G phone](https://www.androidauthority.com/boost-free-phone-service-3478900/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
