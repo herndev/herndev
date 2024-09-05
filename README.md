@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Slork](https://www.pcgamer.com/games/third-person-shooter/slork)
  - [You can buy every RPG Larian ever made before Baldur&#39;s Gate 3 for around $30 on Steam right now](https://www.pcgamer.com/games/rpg/you-can-buy-every-rpg-larian-ever-made-before-baldurs-gate-3-for-around-dollar30-on-steam-right-now)
- - [The worst Castlevania game just got a lot better](https://www.polygon.com/gaming/448559/castlevania-dominus-collection-impressions)
- - [Looks Like Sony Just Sneakily Confirmed Those PS5 Pro Leaks](https://kotaku.com/ps5-pro-leaks-confirmed-real-sony-30th-anniversary-1851641408)<!-- GAME:END -->
+ - [The worst Castlevania game just got a lot better](https://www.polygon.com/gaming/448559/castlevania-dominus-collection-impressions)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
