@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Blackrock owns majority Amazon shares after Bezos.](http://9gag.com/gag/avy7zbq)
- - ⏩ [Clown of the year contender](http://9gag.com/gag/avy7Aq5)
- - 👉 [He was so close to lose his job](http://9gag.com/gag/aqy1eN7)<!-- MEMES:END -->
+ - 💣 [Wanted to share my passion: Pizza](http://9gag.com/gag/axy0oAK)
+ - ⏩ [Stop propaganda, here come the cats](http://9gag.com/gag/aO8Bx7E)
+ - 👉 [Clown of the year contender](http://9gag.com/gag/avy7Aq5)<!-- MEMES:END -->
 
 ---
 
