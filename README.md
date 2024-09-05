@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Dragon Age: The Veilguard&#39;s skill trees might&#39;ve twisted my node-loving, build-tinkering sicko arm just enough to get me excited about playing it](https://www.pcgamer.com/games/dragon-age/dragon-age-the-veilguard-s-skill-trees-might-ve-twisted-my-node-loving-build-tinkering-sicko-arm-just-enough-to-get-me-excited-about-it)
- - [Space Marine 2 early access and global release times](https://www.pcgamer.com/games/third-person-shooter/space-marine-2-early-access-release-times)
- - [Today&#39;s Wordle answer for Thursday, September 5](https://www.pcgamer.com/games/puzzle/wordle-answer-today-September-5-2024)<!-- GAME:END -->
+ - [Astro Bot: The Kotaku Review](https://kotaku.com/astro-bot-kotaku-review-playstation-5-1851640280)
+ - [&#39;They clearly aren&#39;t ready for stats sites yet&#39;: Valve prevents a Deadlock tracker from getting any more information on matches](https://www.pcgamer.com/games/moba/they-clearly-arent-ready-for-stats-sites-yet-valve-prevents-a-deadlock-tracker-from-getting-any-more-information-on-matches)
+ - [Nvidia RTX 5080 and RTX 5090 are reportedly &#39;scheduled to officially launch in September&#39; and we&#39;ll believe it when we see them](https://www.pcgamer.com/hardware/graphics-cards/nvidia-rtx-5080-and-rtx-5090-are-reportedly-scheduled-to-officially-launch-in-september-and-well-believe-it-when-we-see-them)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
