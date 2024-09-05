@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Intel cancels plans for using its 20A process node for its Arrow Lake processors for the consumer market and will use external nodes instead, likely from TSMC &lpar;Paul Alcorn/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/240905/p3#a240905p3)
- - [Cybersecurity company Pango Group is acquiring all of Kaspersky&#39;s US customers, or ~1M users, after Commerce Department banned Kaspersky&#39;s software in the US &lpar;Sam Sabin/Axios&rpar;](http://www.techmeme.com/240905/p2#a240905p2)
- - [A look at the economics of Waymo&#39;s robot taxi business as its dominance has grown since Cruise pulled its fleet off the road &lpar;Eli Tan/New York Times&rpar;](http://www.techmeme.com/240905/p1#a240905p1)<!-- TECH:END -->
+ - [India and Singapore sign a series of deals to ramp up collaboration in semiconductors and digital technologies, including cybersecurity, 5G, AI, and more &lpar;Bloomberg&rpar;](http://www.techmeme.com/240905/p7#a240905p7)
+ - [YouTube begins restricting repeated video recommendations to teens about fitness levels, body weights, or physical features globally, expanding beyond the US &lpar;Dan Milmo/The Guardian&rpar;](http://www.techmeme.com/240905/p6#a240905p6)
+ - [Inside Amazon Zoox&#39;s command center in Foster City, California, which holds about 36 human technicians who oversee and provide remote assistance to robot taxis &lpar;New York Times&rpar;](http://www.techmeme.com/240905/p5#a240905p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
