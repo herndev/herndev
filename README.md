@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ugreen’s new Uno chargers have cute emoji faces that change when you charge](https://www.theverge.com/2024/9/5/24225379/ugreen-uno-usb-charger-power-bank-hub-gan-emoji-robots-price-specs)
- - [Yaber’s new projectors bring JBL sound and a home cinema experience to your living room](https://www.androidauthority.com/yaber-k3-projectors-launched-3478971/)
- - [T-Mobile phone subscribers may soon be able to get 5G Home internet for as little as $30 a month](https://www.androidauthority.com/t-mobile-home-internet-5g-bundle-3478751/)<!-- TECH:END -->
+ - [Sources: Intel is considering selling part of its 88% stake in Mobileye, and is also exploring options for its Network and Edge enterprise networking division &lpar;Bloomberg&rpar;](http://www.techmeme.com/240905/p36#a240905p36)
+ - [US and UK sign legally enforceable AI treaty](https://www.theverge.com/2024/9/5/24236980/us-signs-legally-enforceable-ai-treaty)
+ - [Why Super Typhoons Like Yagi Are More Common Than You’d Think](https://www.wired.com/story/why-super-typhoons-like-yagi-are-more-common-than-youd-think/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
