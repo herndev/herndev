@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft to detail OneDrive Copilot, mobile app updates, and more during October event](https://www.theverge.com/2024/9/5/24236680/microsoft-onedrive-october-event-copilot-mobile-photos-updates)
- - [Google’s Nest floodlight camera is a solid $70 off right now](https://www.theverge.com/2024/9/5/24236581/google-nest-cam-floodlight-marvel-capcom-collection-deal-sale)
- - [&#39;Total War: Empire&#39; set to conquer the App Store this fall](https://appleinsider.com/articles/24/09/05/total-war-empire-set-to-conquer-the-app-store-this-fall?utm_medium=rss)<!-- TECH:END -->
+ - [Deal: Bose QuietComfort Earbuds II are free when you buy a Motorola Razr Plus 2024](https://www.androidauthority.com/motorola-razr-plus-2024-free-bose-quietcomfort-earbuds-ii-3478786/)
+ - [New underground wells could store carbon dioxide pollution for Microsoft and Amazon](https://www.theverge.com/2024/9/5/24236124/oxy-carbon-dioxide-removal-well-permit-epa-microsoft-amazon)
+ - [Why It&#39;s So Hard to Fully Block X in Brazil](https://www.wired.com/story/brazil-x-ban-isp-blocking/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
