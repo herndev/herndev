@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Germany-based Aleph Alpha, which raised $500M+ in 2023, is pivoting to focus on helping clients use AI tools, instead of trying to outperform OpenAI and others &lpar;Mark Bergen/Bloomberg&rpar;](http://www.techmeme.com/240905/p8#a240905p8)
- - [Samsung One UI 6.1.1 is now trickling out to Galaxy S24 phones](https://www.androidauthority.com/samsung-one-ui-6-1-1-galaxy-s24-series-launch-3478501/)
- - [Anker’s new MagGo lineup of power accessories is for busy travelers who still value convenience](https://www.androidauthority.com/anker-maggo-3478296/)<!-- TECH:END -->
+ - [Leaked Disney files include personal data of some staff and customers, and show that Disney+ had $2.4B+ revenue in March quarter, or 43% of Disney&#39;s DTC revenue &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240905/p10#a240905p10)
+ - [YouTube is limiting videos about weight and appearance for teens](https://www.theverge.com/2024/9/5/24236516/youtube-limiting-weight-appearance-video-recommendations-teens)
+ - [An adviser to CJEU sides with Italy&#39;s antitrust authority that Google&#39;s refusal to provide third-party access to Android Auto may breach EU competition rules &lpar;Foo Yun Chee/Reuters&rpar;](http://www.techmeme.com/240905/p9#a240905p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
