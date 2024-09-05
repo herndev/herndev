@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Wanted to share my passion: Pizza](http://9gag.com/gag/axy0oAK)
- - ⏩ [Stop propaganda, here come the cats](http://9gag.com/gag/aO8Bx7E)
- - 👉 [Clown of the year contender](http://9gag.com/gag/avy7Aq5)<!-- MEMES:END -->
+ - 💣 [He was so close to lose his job](http://9gag.com/gag/aqy1eN7)
+ - ⏩ [Big ant train](http://9gag.com/gag/aYQ4o3x)
+ - 👉 [That escalated quickly](http://9gag.com/gag/ayNx9P8)<!-- MEMES:END -->
 
 ---
 
