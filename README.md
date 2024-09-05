@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [What is this?](http://9gag.com/gag/a7oD3vq)
- - ⏩ [YouTuber JK took a photo every day for 22 years to see how he ages &lpar;25 to 47 years&rpar;](http://9gag.com/gag/aQze1W8)
- - 👉 [Your welcome](http://9gag.com/gag/aNDzpm3)<!-- MEMES:END -->
+ - 💣 [WTF Sony??!!](http://9gag.com/gag/aMVAxGX)
+ - ⏩ [Officer asks a lady to step aside for her safety.](http://9gag.com/gag/azxqmzZ)
+ - 👉 [I wouldn&#39;t come too close to a legendary gator like this. Give him a name.](http://9gag.com/gag/azxq9QB)<!-- MEMES:END -->
 
 ---
 
