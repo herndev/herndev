@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Astro Bot: The Kotaku Review](https://kotaku.com/astro-bot-kotaku-review-playstation-5-1851640280)
- - [&#39;They clearly aren&#39;t ready for stats sites yet&#39;: Valve prevents a Deadlock tracker from getting any more information on matches](https://www.pcgamer.com/games/moba/they-clearly-arent-ready-for-stats-sites-yet-valve-prevents-a-deadlock-tracker-from-getting-any-more-information-on-matches)
- - [Nvidia RTX 5080 and RTX 5090 are reportedly &#39;scheduled to officially launch in September&#39; and we&#39;ll believe it when we see them](https://www.pcgamer.com/hardware/graphics-cards/nvidia-rtx-5080-and-rtx-5090-are-reportedly-scheduled-to-officially-launch-in-september-and-well-believe-it-when-we-see-them)<!-- GAME:END -->
+ - [The mind-blowing fantasy movie The Fall is finally back, in 4K](https://www.polygon.com/trailer/448140/the-fall-movie-4k-streaming-mubi)
+ - [How Dungeon Stalkers is trying to make the extraction genre more approachable for everyone](https://www.pcgamer.com/games/how-dungeon-stalkers-is-trying-to-make-the-extraction-genre-more-approachable-for-everyone)
+ - [The Rings Of Power Season 2 Episode 4 Introduces An Iconic Lord Of The Rings Character In The Best Way Possible](https://kotaku.com/rings-of-power-season-2-episode-4-review-recap-1851640186)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
