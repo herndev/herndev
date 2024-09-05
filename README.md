@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Oh hell naw](http://9gag.com/gag/azxqMMp)
- - ⏩ [Pepsi](http://9gag.com/gag/adB9gpQ)
- - 👉 [Big ant train](http://9gag.com/gag/aYQ4o3x)<!-- MEMES:END -->
+ - 💣 [Someone with HR girl at last year&#39;s company party](http://9gag.com/gag/aAyDGXp)
+ - ⏩ [Big ant train](http://9gag.com/gag/aYQ4o3x)
+ - 👉 [Pepsi](http://9gag.com/gag/adB9gpQ)<!-- MEMES:END -->
 
 ---
 
