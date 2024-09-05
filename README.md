@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google’s virtual try-on tool adds new outfits for your fit check](https://www.androidauthority.com/google-search-virtual-try-on-dresses-3478761/)
- - [Google Maps is crashing all over, but there’s an easy fix](https://www.androidauthority.com/google-maps-crashing-3478773/)
- - [&#39;Mythic Quest&#39; star Rob McElhenney brings hope for season 4](https://appleinsider.com/articles/24/09/05/mythic-quest-star-rob-mcelhenney-brings-hope-for-season-4?utm_medium=rss)<!-- TECH:END -->
+ - [How to get on Google&#39;s &#39;Ask Photos&#39; waitlist for iPhone](https://appleinsider.com/inside/iphone/tips/how-to-get-on-googles-ask-photos-waitlist-for-iphone?utm_medium=rss)
+ - [A new, even more affordable Moto Razr might be on the way](https://www.androidauthority.com/moto-razr-50s-hdr-certification-3478859/)
+ - [The US imposes new export controls on critical tech, including quantum computing and semiconductor goods, aligning the US with Japan, Netherlands, other allies &lpar;Mackenzie Hawkins/Bloomberg&rpar;](http://www.techmeme.com/240905/p29#a240905p29)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
