@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [This custom Warhammer 40K PS5 is a monument to the hubris of the Imperium](https://www.polygon.com/news/448402/warhammer-40k-custom-ps5-space-marine-2)
- - [Ubisoft&#39;s slump continues: Star Wars Outlaws fails to turn things around, XDefiant numbers are sliding, and we still don&#39;t know where The Sands of Time is](https://www.pcgamer.com/gaming-industry/despite-high-hopes-for-star-wars-outlaws-and-xdefiant-ubisofts-share-price-is-now-sitting-at-a-10-year-low)
- - [Playing Concord at the end of its world](https://www.polygon.com/playstation/448419/concord-gameplay-final-hours-close-servers-offline-time-date)<!-- GAME:END -->
+ - [Arcane’s Latest Trailer Teases All-Out War For Its Final Season](https://kotaku.com/arcane-season-2-finale-netflix-trailer-riot-league-1851641164)
+ - [Dr Disrespect Returning For The First Time Since Admitting To &#39;Inappropriate&#39; Chat With Minor](https://kotaku.com/dr-disrespect-return-streaming-youtube-sexting-twitch-1851641136)
+ - [At PAX West, perennial mad lad Swen Vincke once again said Baldur&#39;s Gate 3 was somehow going to be even bigger: &#39;In our heads, we were going to have so many more regions to make&#39;](https://www.pcgamer.com/games/rpg/at-pax-west-perennial-mad-lad-swen-vincke-once-again-said-baldurs-gate-3-was-somehow-going-to-be-even-bigger-in-our-heads-we-were-going-to-have-so-many-more-regions-to-make)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
