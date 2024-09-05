@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Warhammer 40,000: Space Marine 2 – Making a Sequel to a 13-Year Old Game &lpar;and How It Could Lead to More&rpar;](https://news.xbox.com/en-us/2024/09/05/warhammer-40000-space-marine-2-making-a-sequel/)
- - [The Rings of Power episode 4 finds some footing amid its trust issues](https://www.polygon.com/lotr-rings-of-power/447801/trop-episode-4-review-bombadil-tolkien-lore)
- - [The Internet Reacts To The Minecraft Movie’s Divisive Teaser Trailer](https://kotaku.com/minecraft-movie-trailer-internet-reacts-jack-black-1851640832)<!-- GAME:END -->
+ - [Acer&#39;s just announced a 600 Hz monitor that can surely only be for those with superhuman vision](https://www.pcgamer.com/hardware/gaming-monitors/acers-just-announced-a-600-hz-monitor-that-can-surely-only-be-for-those-with-superhuman-vision)
+ - [VKB Gladiator NXT EVO F-14 Combat Edition + STECS Throttle System review](https://www.pcgamer.com/hardware/controllers/vkb-gladiator-nxt-evo-f-14-combat-edition-stecs-throttle-system-review)
+ - [When is the Black Ops 6 open beta start time?](https://www.polygon.com/black-ops-6-guides/445111/beta-times-dates-code-early-access)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
