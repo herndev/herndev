@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [India and Singapore sign a series of deals to ramp up collaboration in semiconductors and digital technologies, including cybersecurity, 5G, AI, and more &lpar;Bloomberg&rpar;](http://www.techmeme.com/240905/p7#a240905p7)
- - [YouTube begins restricting repeated video recommendations to teens about fitness levels, body weights, or physical features globally, expanding beyond the US &lpar;Dan Milmo/The Guardian&rpar;](http://www.techmeme.com/240905/p6#a240905p6)
- - [Inside Amazon Zoox&#39;s command center in Foster City, California, which holds about 36 human technicians who oversee and provide remote assistance to robot taxis &lpar;New York Times&rpar;](http://www.techmeme.com/240905/p5#a240905p5)<!-- TECH:END -->
+ - [The Philips Hue 8K sync box arrives — for $350](https://www.theverge.com/2024/9/5/24236307/philips-hue-play-sync-box-8k-upgrade-price-release-date)
+ - [Philips Hue launches a new smart lighting solution for the kitchen](https://www.theverge.com/2024/9/5/24236276/philips-hue-nobilia-smart-kitchen-lighting)
+ - [Best Cases for Your iPhone 14 and iPhone 14 Pro in 2024](https://www.cnet.com/tech/mobile/best-iphone-14-cases/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
