@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [A long-time Minecraft fan&#39;s reaction to the Minecraft movie:](http://9gag.com/gag/aAyDGpZ)
- - ⏩ [Pepsi](http://9gag.com/gag/adB9gpQ)
- - 👉 [Killer Smile](http://9gag.com/gag/a6ZVEKL)<!-- MEMES:END -->
+ - 💣 [Mirror reveals that everybody else in the room is a vampire &lpar;Van Helsing, 2004&rpar;](http://9gag.com/gag/an7j4oq)
+ - ⏩ [Officer asks a lady to step aside for her safety.](http://9gag.com/gag/azxqmzZ)
+ - 👉 [$1200/month +deposit. 3 references needed. No pets. Welcome to New York.](http://9gag.com/gag/a0e5Zzn)<!-- MEMES:END -->
 
 ---
 
