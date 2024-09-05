@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [THRIFT was misunderstood to be THEFT i guess.](http://9gag.com/gag/ayNxXjr)
- - ⏩ [Grandpa chill](http://9gag.com/gag/aVvM7dv)
- - 👉 [Italian is the best](http://9gag.com/gag/azxqXLq)<!-- MEMES:END -->
+ - 💣 [We don&#39;t need a `Jamie bond `?](http://9gag.com/gag/an7j4AE)
+ - ⏩ [Officer asks a lady to step aside for her safety.](http://9gag.com/gag/azxqmzZ)
+ - 👉 [Grandpa chill](http://9gag.com/gag/aVvM7dv)<!-- MEMES:END -->
 
 ---
 
