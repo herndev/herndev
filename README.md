@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Acer&#39;s just announced a 600 Hz monitor that can surely only be for those with superhuman vision](https://www.pcgamer.com/hardware/gaming-monitors/acers-just-announced-a-600-hz-monitor-that-can-surely-only-be-for-those-with-superhuman-vision)
- - [VKB Gladiator NXT EVO F-14 Combat Edition + STECS Throttle System review](https://www.pcgamer.com/hardware/controllers/vkb-gladiator-nxt-evo-f-14-combat-edition-stecs-throttle-system-review)
- - [When is the Black Ops 6 open beta start time?](https://www.polygon.com/black-ops-6-guides/445111/beta-times-dates-code-early-access)<!-- GAME:END -->
+ - [This custom Warhammer 40K PS5 is a monument to the hubris of the Imperium](https://www.polygon.com/news/448402/warhammer-40k-custom-ps5-space-marine-2)
+ - [Ubisoft&#39;s slump continues: Star Wars Outlaws fails to turn things around, XDefiant numbers are sliding, and we still don&#39;t know where The Sands of Time is](https://www.pcgamer.com/gaming-industry/despite-high-hopes-for-star-wars-outlaws-and-xdefiant-ubisofts-share-price-is-now-sitting-at-a-10-year-low)
+ - [Playing Concord at the end of its world](https://www.polygon.com/playstation/448419/concord-gameplay-final-hours-close-servers-offline-time-date)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
