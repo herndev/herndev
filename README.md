@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The mind-blowing fantasy movie The Fall is finally back, in 4K](https://www.polygon.com/trailer/448140/the-fall-movie-4k-streaming-mubi)
- - [How Dungeon Stalkers is trying to make the extraction genre more approachable for everyone](https://www.pcgamer.com/games/how-dungeon-stalkers-is-trying-to-make-the-extraction-genre-more-approachable-for-everyone)
- - [The Rings Of Power Season 2 Episode 4 Introduces An Iconic Lord Of The Rings Character In The Best Way Possible](https://kotaku.com/rings-of-power-season-2-episode-4-review-recap-1851640186)<!-- GAME:END -->
+ - [The new season of Arcane looks like it’s gonna break my heart](https://www.polygon.com/animation-cartoons/448293/arcane-season-2-trailer-netflix-release-date)
+ - [How to get the Doom skin in Fortnite Chapter 5 Season 4](https://www.polygon.com/fortnite-guide/440881/doctor-doom-release-date-skin)
+ - [Rings of Power episode 4 shows that however nerdy you think J.R.R. Tolkien was, he was nerdier](https://www.polygon.com/lotr-rings-of-power/447883/rings-of-power-episode-4-shows-that-however-nerdy-you-think-j-r-r-tolkien-was-he-was-nerdier)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
