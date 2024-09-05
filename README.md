@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Intel cancels plans for using its 20A process node for its Arrow Lake processors for the consumer market and will use external nodes instead, likely from TSMC &lpar;Paul Alcorn/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/240905/p3#a240905p3)
  - [Cybersecurity company Pango Group is acquiring all of Kaspersky&#39;s US customers, or ~1M users, after Commerce Department banned Kaspersky&#39;s software in the US &lpar;Sam Sabin/Axios&rpar;](http://www.techmeme.com/240905/p2#a240905p2)
- - [A look at the economics of Waymo&#39;s robot taxi business as its dominance has grown since Cruise pulled its fleet off the road &lpar;Eli Tan/New York Times&rpar;](http://www.techmeme.com/240905/p1#a240905p1)
- - [Gboard is rolling out a new emoji picker that’s optimized for tablets and foldables](https://www.androidauthority.com/gboard-emoji-picker-large-screen-foldables-tablets-3478464/)<!-- TECH:END -->
+ - [A look at the economics of Waymo&#39;s robot taxi business as its dominance has grown since Cruise pulled its fleet off the road &lpar;Eli Tan/New York Times&rpar;](http://www.techmeme.com/240905/p1#a240905p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
