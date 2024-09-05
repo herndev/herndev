@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [I love the HONOR Magic V3’s astounding hardware but I’m stumped by its software](https://www.androidauthority.com/honor-magic-v3-review-3476025/)
- - [This new laptop has a detachable webcam because why not?](https://www.androidauthority.com/honor-magicbook-art-14-detachable-webcam-3478199/)
- - [HONOR Magic V3 launched globally: The thinnest foldable phone, period](https://www.androidauthority.com/honor-magic-v3-global-3477812/)<!-- TECH:END -->
+ - [How the Wayback Machine is trying to solve the web’s growing linkrot problem](https://www.theverge.com/24236556/wayback-machine-linkrot-internet-archive-web-ai-mark-graham-decoder-interview-podcast)
+ - [Govee would like to make your smart holiday lights Matter](https://www.theverge.com/2024/9/5/24236438/govee-matter-smart-light-strips-stringlights-star-light-projector-ai-sync-box-kit-2)
+ - [Lock in the best trade-in value for your used iPhone, Apple Watch ahead of the iPhone 16](https://appleinsider.com/articles/24/09/04/lock-in-the-best-trade-in-value-for-your-used-iphone-apple-watch-ahead-of-the-iphone-16?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
