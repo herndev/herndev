@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Picnic time](http://9gag.com/gag/a2v479D)
- - ⏩ [Big ant train](http://9gag.com/gag/aYQ4o3x)
- - 👉 [Mirror reveals that everybody else in the room is a vampire &lpar;Van Helsing, 2004&rpar;](http://9gag.com/gag/an7j4oq)<!-- MEMES:END -->
+ - 💣 [Give it the sonic treatment](http://9gag.com/gag/axy0BzD)
+ - ⏩ [Officer asks a lady to step aside for her safety.](http://9gag.com/gag/azxqmzZ)
+ - 👉 [Someone with HR girl at last year&#39;s company party](http://9gag.com/gag/aAyDGXp)<!-- MEMES:END -->
 
 ---
 
