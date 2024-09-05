@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best new streaming movies this week: The Fall Guy and more](https://www.androidauthority.com/best-new-streaming-movies-this-week-3083965/)
- - [Pixel Stand 2 vanishes from Google Store, and we can guess why](https://www.androidauthority.com/pixel-stand-2-no-longer-available-3478853/)
- - [Looking for a new phone? Boost will give you a year of free service with purchase of a 5G phone](https://www.androidauthority.com/boost-free-phone-service-3478900/)<!-- TECH:END -->
+ - [Ugreen’s new Uno chargers have cute emoji faces that change when you charge](https://www.theverge.com/2024/9/5/24225379/ugreen-uno-usb-charger-power-bank-hub-gan-emoji-robots-price-specs)
+ - [Yaber’s new projectors bring JBL sound and a home cinema experience to your living room](https://www.androidauthority.com/yaber-k3-projectors-launched-3478971/)
+ - [T-Mobile phone subscribers may soon be able to get 5G Home internet for as little as $30 a month](https://www.androidauthority.com/t-mobile-home-internet-5g-bundle-3478751/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
