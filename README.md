@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Leaked Disney files include personal data of some staff and customers, and show that Disney+ had $2.4B+ revenue in March quarter, or 43% of Disney&#39;s DTC revenue &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240905/p10#a240905p10)
- - [YouTube is limiting videos about weight and appearance for teens](https://www.theverge.com/2024/9/5/24236516/youtube-limiting-weight-appearance-video-recommendations-teens)
- - [An adviser to CJEU sides with Italy&#39;s antitrust authority that Google&#39;s refusal to provide third-party access to Android Auto may breach EU competition rules &lpar;Foo Yun Chee/Reuters&rpar;](http://www.techmeme.com/240905/p9#a240905p9)<!-- TECH:END -->
+ - [Public demand gets Apple to finally announce Find My for South Korea](https://appleinsider.com/articles/24/09/05/public-demand-gets-apple-to-finally-announce-find-my-for-south-korea?utm_medium=rss)
+ - [Ant Group launches Zhixiaobao, a standalone AI app to let users facilitate daily tasks such as ordering meals and hailing taxis, and access third-party services &lpar;Xinmei Shen/South China Morning Post&rpar;](http://www.techmeme.com/240905/p14#a240905p14)
+ - [Verizon looks to expand Fios with $20 billion purchase of Frontier](https://www.theverge.com/2024/9/5/24236519/verizon-frontier-fiber-network-acquisition-20-billion)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
