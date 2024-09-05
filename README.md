@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Public demand gets Apple to finally announce Find My for South Korea](https://appleinsider.com/articles/24/09/05/public-demand-gets-apple-to-finally-announce-find-my-for-south-korea?utm_medium=rss)
- - [Ant Group launches Zhixiaobao, a standalone AI app to let users facilitate daily tasks such as ordering meals and hailing taxis, and access third-party services &lpar;Xinmei Shen/South China Morning Post&rpar;](http://www.techmeme.com/240905/p14#a240905p14)
- - [Verizon looks to expand Fios with $20 billion purchase of Frontier](https://www.theverge.com/2024/9/5/24236519/verizon-frontier-fiber-network-acquisition-20-billion)<!-- TECH:END -->
+ - [Federal prosecutors charge a man for allegedly using AI to create hundreds of thousands of songs by fake bands to get $10M in royalties from streaming services &lpar;Maia Coleman/New York Times&rpar;](http://www.techmeme.com/240905/p16#a240905p16)
+ - [Samsung One UI 6.1.1 is now out for Galaxy S24 phones &lpar;Update: US and EU availability details&rpar;](https://www.androidauthority.com/samsung-one-ui-6-1-1-galaxy-s24-series-launch-3478501/)
+ - [Pregnant cardiologist says Apple Watch saved her and her baby](https://appleinsider.com/articles/24/09/05/pregnant-cardiologist-says-apple-watch-saved-her-and-her-baby?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
