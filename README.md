@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Smart Deer Gets Help from Strangers](http://9gag.com/gag/aZZg0vV)
- - ⏩ [Zero](http://9gag.com/gag/apRQgz9)
- - 👉 [Stop propaganda, here come the cats](http://9gag.com/gag/aO8Bx7E)<!-- MEMES:END -->
+ - 💣 [Great tip!](http://9gag.com/gag/aE0B29G)
+ - ⏩ [Clown of the year contender](http://9gag.com/gag/avy7Aq5)
+ - 👉 [Mirror reveals that everybody else in the room is a vampire &lpar;Van Helsing, 2004&rpar;](http://9gag.com/gag/an7j4oq)<!-- MEMES:END -->
 
 ---
 
