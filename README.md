@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [WTF Sony??!!](http://9gag.com/gag/aMVAxGX)
+ - 💣 [A long-time Minecraft fan&#39;s reaction to the Minecraft movie:](http://9gag.com/gag/aAyDGpZ)
  - ⏩ [Pepsi](http://9gag.com/gag/adB9gpQ)
- - 👉 [Lol :D...](http://9gag.com/gag/a7oDEAm)<!-- MEMES:END -->
+ - 👉 [Killer Smile](http://9gag.com/gag/a6ZVEKL)<!-- MEMES:END -->
 
 ---
 
