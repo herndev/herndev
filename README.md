@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [How long would you last in the water after the Titanic sank?](http://9gag.com/gag/a1mK1gv)
- - ⏩ [Lol :D...](http://9gag.com/gag/a7oDEAm)
- - 👉 [Big ant train](http://9gag.com/gag/aYQ4o3x)<!-- MEMES:END -->
+ - 💣 [He was so close to lose his job](http://9gag.com/gag/aqy1eN7)
+ - ⏩ [Mirror reveals that everybody else in the room is a vampire &lpar;Van Helsing, 2004&rpar;](http://9gag.com/gag/an7j4oq)
+ - 👉 [Blackrock owns majority Amazon shares after Bezos.](http://9gag.com/gag/avy7zbq)<!-- MEMES:END -->
 
 ---
 
