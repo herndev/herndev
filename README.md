@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Did Beetlejuice 2’s writers abandon ship halfway through?](https://www.polygon.com/review/448506/beetlejuice-beetlejuice-tim-burton-sequel)
- - [The Sims 4 will expand on life and death with a Grim Reaper expansion this Halloween](https://www.polygon.com/gaming/448612/the-sims-4-will-expand-on-life-and-death-with-a-grim-reaper-expansion-this-halloween)
- - [Netflix&#39;s Terminator Zero Anime Is A Welcome Departure From The Franchise&#39;s Uninspired Sameness](https://kotaku.com/netflix-terminator-zero-anime-sarah-connor-judgment-day-1851641264)<!-- GAME:END -->
+ - [You can buy every RPG Larian ever made before Baldur&#39;s Gate 3 for around $30 on Steam right now](https://www.pcgamer.com/games/rpg/you-can-buy-every-rpg-larian-ever-made-before-baldurs-gate-3-for-around-dollar30-on-steam-right-now)
+ - [The worst Castlevania game just got a lot better](https://www.polygon.com/gaming/448559/castlevania-dominus-collection-impressions)
+ - [Looks Like Sony Just Sneakily Confirmed Those PS5 Pro Leaks](https://kotaku.com/ps5-pro-leaks-confirmed-real-sony-30th-anniversary-1851641408)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
