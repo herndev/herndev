@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [The latest gameplay videos for Dragon Age: The Veilguard make me think I should play something other than a mage this one time](https://www.pcgamer.com/games/rpg/the-latest-gameplay-videos-for-dragon-age-the-veilguard-make-me-think-i-should-play-something-other-than-a-mage-this-one-time)
  - [Spectre Divide lowers skin prices just hours after launch: &#39;We took a swing that we thought would best set us up to support the game. Turns out we swung a bit high&#39;](https://www.pcgamer.com/games/fps/spectre-divide-lowers-skin-prices-just-hours-after-launch-we-took-a-swing-that-we-thought-would-best-set-us-up-to-support-the-game-turns-out-we-swung-a-bit-high)
- - [Concord&#39;s catastrophic failure has made me even more worried about Bungie&#39;s Marathon](https://www.pcgamer.com/games/fps/concords-catastrophic-failure-has-made-me-even-more-worried-about-bungies-marathon)
- - [Huh, we’re getting a Twilight animated series from Edward Cullen’s perspective](https://www.polygon.com/tv/448082/twilight-animated-series-edward-cullen-midnight-sun)<!-- GAME:END -->
+ - [Concord&#39;s catastrophic failure has made me even more worried about Bungie&#39;s Marathon](https://www.pcgamer.com/games/fps/concords-catastrophic-failure-has-made-me-even-more-worried-about-bungies-marathon)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
