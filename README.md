@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Philips Hue 8K sync box arrives — for $350](https://www.theverge.com/2024/9/5/24236307/philips-hue-play-sync-box-8k-upgrade-price-release-date)
- - [Philips Hue launches a new smart lighting solution for the kitchen](https://www.theverge.com/2024/9/5/24236276/philips-hue-nobilia-smart-kitchen-lighting)
- - [Best Cases for Your iPhone 14 and iPhone 14 Pro in 2024](https://www.cnet.com/tech/mobile/best-iphone-14-cases/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Germany-based Aleph Alpha, which raised $500M+ in 2023, is pivoting to focus on helping clients use AI tools, instead of trying to outperform OpenAI and others &lpar;Mark Bergen/Bloomberg&rpar;](http://www.techmeme.com/240905/p8#a240905p8)
+ - [Samsung One UI 6.1.1 is now trickling out to Galaxy S24 phones](https://www.androidauthority.com/samsung-one-ui-6-1-1-galaxy-s24-series-launch-3478501/)
+ - [Anker’s new MagGo lineup of power accessories is for busy travelers who still value convenience](https://www.androidauthority.com/anker-maggo-3478296/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
