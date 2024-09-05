@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Chewin&#39; The Fat....Scottish Comedy Show](http://9gag.com/gag/aGyeZqw)
- - ⏩ [He&#39;s one of us 9gaggers.](http://9gag.com/gag/a1mK1jR)
- - 👉 [He was so close to lose his job](http://9gag.com/gag/aqy1eN7)<!-- MEMES:END -->
+ - 💣 [Smart Deer Gets Help from Strangers](http://9gag.com/gag/aZZg0vV)
+ - ⏩ [Zero](http://9gag.com/gag/apRQgz9)
+ - 👉 [Stop propaganda, here come the cats](http://9gag.com/gag/aO8Bx7E)<!-- MEMES:END -->
 
 ---
 
