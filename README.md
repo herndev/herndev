@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The new season of Arcane looks like it’s gonna break my heart](https://www.polygon.com/animation-cartoons/448293/arcane-season-2-trailer-netflix-release-date)
- - [How to get the Doom skin in Fortnite Chapter 5 Season 4](https://www.polygon.com/fortnite-guide/440881/doctor-doom-release-date-skin)
- - [Rings of Power episode 4 shows that however nerdy you think J.R.R. Tolkien was, he was nerdier](https://www.polygon.com/lotr-rings-of-power/447883/rings-of-power-episode-4-shows-that-however-nerdy-you-think-j-r-r-tolkien-was-he-was-nerdier)<!-- GAME:END -->
+ - [Free Play Days – Madden NFL 25 and TopSpin 2K25](https://news.xbox.com/en-us/2024/09/05/free-play-days-madden-nfl-25-and-topspin-2k25/)
+ - [Daggerheart, a new Critical Role game, feels more complicated than D&amp;#038;D in a good way](https://www.polygon.com/preview/447660/daggerheart-critical-role-gameplay-vs-dnd)
+ - [Everything New In Baldur’s Gate 3’s Seventh Big Patch](https://kotaku.com/baldurs-gate-3-patch-7-notes-pc-ps5-xbox-mac-date-1851640673)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
