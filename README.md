@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Big ant train](http://9gag.com/gag/aYQ4o3x)
- - ⏩ [Officer asks a lady to step aside for her safety.](http://9gag.com/gag/azxqmzZ)
- - 👉 [Lol :D...](http://9gag.com/gag/a7oDEAm)<!-- MEMES:END -->
+ - 💣 [Pepsi](http://9gag.com/gag/adB9gpQ)
+ - ⏩ [Big ant train](http://9gag.com/gag/aYQ4o3x)
+ - 👉 [Blackrock owns majority Amazon shares after Bezos.](http://9gag.com/gag/avy7zbq)<!-- MEMES:END -->
 
 ---
 
