@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Arcane’s Latest Trailer Teases All-Out War For Its Final Season](https://kotaku.com/arcane-season-2-finale-netflix-trailer-riot-league-1851641164)
- - [Dr Disrespect Returning For The First Time Since Admitting To &#39;Inappropriate&#39; Chat With Minor](https://kotaku.com/dr-disrespect-return-streaming-youtube-sexting-twitch-1851641136)
- - [At PAX West, perennial mad lad Swen Vincke once again said Baldur&#39;s Gate 3 was somehow going to be even bigger: &#39;In our heads, we were going to have so many more regions to make&#39;](https://www.pcgamer.com/games/rpg/at-pax-west-perennial-mad-lad-swen-vincke-once-again-said-baldurs-gate-3-was-somehow-going-to-be-even-bigger-in-our-heads-we-were-going-to-have-so-many-more-regions-to-make)<!-- GAME:END -->
+ - [If your favorite Baldur&#39;s Gate 3 mods don&#39;t work with the new update yet, Larian will let you stick with the older version instead](https://www.pcgamer.com/games/rpg/if-your-favorite-baldurs-gate-3-mods-dont-work-with-the-new-update-yet-larian-will-let-you-stick-with-the-older-version-instead)
+ - [The Labyrinth and The Dark Crystal limited edition 4K Blu-rays are coming this fall](https://www.polygon.com/pre-order/448455/the-labyrinth-dark-crystal-4k-blu-ray-limited-edition-steelbook-pre-order-walmart)
+ - [Automatons beware: The next major Helldivers 2 patch will overhaul armor penetration later this month](https://www.pcgamer.com/games/third-person-shooter/automatons-beware-the-next-major-helldivers-2-patch-will-overhaul-armor-penetration-later-this-month)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
