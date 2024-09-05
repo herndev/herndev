@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [We don&#39;t need a `Jamie bond `?](http://9gag.com/gag/an7j4AE)
- - ⏩ [Officer asks a lady to step aside for her safety.](http://9gag.com/gag/azxqmzZ)
- - 👉 [Grandpa chill](http://9gag.com/gag/aVvM7dv)<!-- MEMES:END -->
+ - 💣 [WTF Sony??!!](http://9gag.com/gag/aMVAxGX)
+ - ⏩ [Pepsi](http://9gag.com/gag/adB9gpQ)
+ - 👉 [Maui saves a lady stuck in a mcdonald&#39;s bathroom](http://9gag.com/gag/avy7oMZ)<!-- MEMES:END -->
 
 ---
 
