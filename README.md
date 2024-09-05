@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Someone with HR girl at last year&#39;s company party](http://9gag.com/gag/aAyDGXp)
- - ⏩ [Big ant train](http://9gag.com/gag/aYQ4o3x)
- - 👉 [Pepsi](http://9gag.com/gag/adB9gpQ)<!-- MEMES:END -->
+ - 💣 [WTF Sony??!!](http://9gag.com/gag/aMVAxGX)
+ - ⏩ [Pepsi](http://9gag.com/gag/adB9gpQ)
+ - 👉 [Lol :D...](http://9gag.com/gag/a7oDEAm)<!-- MEMES:END -->
 
 ---
 
