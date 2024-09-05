@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How the Wayback Machine is trying to solve the web’s growing linkrot problem](https://www.theverge.com/24236556/wayback-machine-linkrot-internet-archive-web-ai-mark-graham-decoder-interview-podcast)
- - [Govee would like to make your smart holiday lights Matter](https://www.theverge.com/2024/9/5/24236438/govee-matter-smart-light-strips-stringlights-star-light-projector-ai-sync-box-kit-2)
- - [Lock in the best trade-in value for your used iPhone, Apple Watch ahead of the iPhone 16](https://appleinsider.com/articles/24/09/04/lock-in-the-best-trade-in-value-for-your-used-iphone-apple-watch-ahead-of-the-iphone-16?utm_medium=rss)<!-- TECH:END -->
+ - [Microsoft to detail OneDrive Copilot, mobile app updates, and more during October event](https://www.theverge.com/2024/9/5/24236680/microsoft-onedrive-october-event-copilot-mobile-photos-updates)
+ - [Google’s Nest floodlight camera is a solid $70 off right now](https://www.theverge.com/2024/9/5/24236581/google-nest-cam-floodlight-marvel-capcom-collection-deal-sale)
+ - [&#39;Total War: Empire&#39; set to conquer the App Store this fall](https://appleinsider.com/articles/24/09/05/total-war-empire-set-to-conquer-the-app-store-this-fall?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
