@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [He was so close to lose his job](http://9gag.com/gag/aqy1eN7)
+ - 💣 [Picnic time](http://9gag.com/gag/a2v479D)
  - ⏩ [Big ant train](http://9gag.com/gag/aYQ4o3x)
- - 👉 [That escalated quickly](http://9gag.com/gag/ayNx9P8)<!-- MEMES:END -->
+ - 👉 [Mirror reveals that everybody else in the room is a vampire &lpar;Van Helsing, 2004&rpar;](http://9gag.com/gag/an7j4oq)<!-- MEMES:END -->
 
 ---
 
