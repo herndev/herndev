@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Oh hell naw](http://9gag.com/gag/azxqMMp)
- - ⏩ [.. meanwhile](http://9gag.com/gag/aGyeZRG)
- - 👉 [YouTuber JK took a photo every day for 22 years to see how he ages &lpar;25 to 47 years&rpar;](http://9gag.com/gag/aQze1W8)<!-- MEMES:END -->
+ - 💣 [Pepsi](http://9gag.com/gag/adB9gpQ)
+ - ⏩ [YouTuber JK took a photo every day for 22 years to see how he ages &lpar;25 to 47 years&rpar;](http://9gag.com/gag/aQze1W8)
+ - 👉 [This really happened?](http://9gag.com/gag/a5Qnoyo)<!-- MEMES:END -->
 
 ---
 
