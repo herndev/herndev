@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Pepsi](http://9gag.com/gag/adB9gpQ)
- - ⏩ [Big ant train](http://9gag.com/gag/aYQ4o3x)
- - 👉 [Blackrock owns majority Amazon shares after Bezos.](http://9gag.com/gag/avy7zbq)<!-- MEMES:END -->
+ - 💣 [Oh hell naw](http://9gag.com/gag/azxqMMp)
+ - ⏩ [Pepsi](http://9gag.com/gag/adB9gpQ)
+ - 👉 [Big ant train](http://9gag.com/gag/aYQ4o3x)<!-- MEMES:END -->
 
 ---
 
