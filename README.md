@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Galadriel’s kickass orc-fighting has unexpected weight, considering the orc babies at home](https://www.polygon.com/lotr-rings-of-power/448524/trop-orc-adar-galadriel-orc-fight-how)
- - [Harry Potter: Quidditch Champions, as this video shows, feels like a trial run for its inclusion in Hogwarts Legacy 2](https://www.pcgamer.com/games/action/harry-potter-quidditch-champions-as-this-video-shows-feels-like-a-trial-run-for-its-inclusion-in-hogwarts-legacy-2)
- - [&#39;What a sad existence&#39;: The first cheaters in Deadlock have been spotted, giving players some pretty bad flashbacks to TF2 and CS](https://www.pcgamer.com/games/moba/what-a-sad-existence-the-first-cheaters-in-deadlock-have-been-spotted-giving-players-some-pretty-bad-flashbacks-to-tf2-and-cs)<!-- GAME:END -->
+ - [Next Week on Xbox: New Games for September 9 to 13](https://news.xbox.com/en-us/2024/09/06/next-week-on-xbox-new-games-for-september-9-to-13/)
+ - [Bluetooth 6 announced with Apple-like device tracking, lower latency, and improved efficiency](https://www.pcgamer.com/hardware/bluetooth-6-announced-with-apple-like-device-tracking-lower-latency-and-improved-efficiency)
+ - [At least Concord will still arrive to TV this fall](https://www.polygon.com/tv/448693/concord-episode-amazon-prime-video-secret-level)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
