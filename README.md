@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Next Week on Xbox: New Games for September 9 to 13](https://news.xbox.com/en-us/2024/09/06/next-week-on-xbox-new-games-for-september-9-to-13/)
- - [Bluetooth 6 announced with Apple-like device tracking, lower latency, and improved efficiency](https://www.pcgamer.com/hardware/bluetooth-6-announced-with-apple-like-device-tracking-lower-latency-and-improved-efficiency)
- - [At least Concord will still arrive to TV this fall](https://www.polygon.com/tv/448693/concord-episode-amazon-prime-video-secret-level)<!-- GAME:END -->
+ - [Hugh Jackman Talks About Need For &#39;Fresh Lube&#39; On Deadpool &amp; Wolverine Set](https://kotaku.com/hugh-jackman-talks-about-need-for-fresh-lube-on-deadpoo-1851641892)
+ - [Acer says its next gaming PC comes with Intel&#39;s next-gen Arrow Lake chips, which seems a little premature](https://www.pcgamer.com/hardware/processors/acer-says-its-next-gaming-pc-comes-with-intels-next-gen-arrow-lake-chips-which-seems-a-little-premature)
+ - [The Best Guns And Weapons To Use In Warhammer 40K: Space Marine 2](https://kotaku.com/warhammer-40k-space-marine-2-best-weapons-guide-1851641828)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
