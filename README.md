@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Big ant train](http://9gag.com/gag/aYQ4o3x)
- - ⏩ [Moped driver provokes traffic jam because he wants to film with his mobile phone. Driver&#39;s reaction understandable](http://9gag.com/gag/aO8Bx8y)
- - 👉 [He&#39;s one of us 9gaggers.](http://9gag.com/gag/a1mK1jR)<!-- MEMES:END -->
+ - 💣 [Made in](http://9gag.com/gag/aPA9AyB)
+ - ⏩ [He&#39;s one of us 9gaggers.](http://9gag.com/gag/a1mK1jR)
+ - 👉 [Who let the bugs out](http://9gag.com/gag/aD2z287)<!-- MEMES:END -->
 
 ---
 
