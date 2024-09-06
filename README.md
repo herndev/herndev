@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Baldur&amp;#8217;s Gate 3 team isn&amp;#8217;t finished with the game yet](https://www.polygon.com/news/448917/baldurs-gate-3-final-update-bg3)
- - [The Starfield Planet At The Center Of Its Shattered Space DLC Sounds Like It Has A Lot Going On](https://kotaku.com/starfield-shattered-space-dlc-varuun-size-1851642222)
- - [Do TV shows and movies lose rights to songs like video games do?](https://www.polygon.com/explained/448860/music-video-game-tv-licensing-rights-problems)<!-- GAME:END -->
+ - [Five Features That Make NBA 2K25 a Must-Play for Basketball Fans on Xbox](https://news.xbox.com/en-us/2024/09/06/five-features-nba-2k25-must-play-xbox/)
+ - [This Handful Of Discounted Games Show Off The Switch’s Range](https://kotaku.com/nintendo-switch-sale-persona-pentiment-1851642256)
+ - [Astro Bot&#39;s God Of War Level Has The Best Secret Weapon](https://kotaku.com/astro-bot-god-of-war-odins-ravens-leviathan-axe-guide-1851642186)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
