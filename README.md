@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Just about every iPhone 16 Pro camera detail has been leaked](https://appleinsider.com/articles/24/09/06/just-about-every-iphone-16-pro-camera-detail-has-been-leaked?utm_medium=rss)
- - [Google Pixel 9 problems and how to fix them](https://www.androidauthority.com/google-pixel-9-problems-fixes-3478075/)
- - [iPhone 16 and Apple Watch Series 10 rumors, plus hysterical phishing emails on the AppleInsider Podcast](https://appleinsider.com/articles/24/09/06/iphone-16-and-apple-watch-series-10-rumors-plus-hysterical-phishing-emails-on-the-appleinsider-podcast?utm_medium=rss)<!-- TECH:END -->
+ - [I tried Acer’s crazy laptop with a built-in controller and… I didn’t hate it](https://www.androidauthority.com/acer-project-dualplay-hands-on-ifa-2024-3478787/)
+ - [The OPPO Find X8 series is confirmed, will bring Glacier Battery tech](https://www.androidauthority.com/oppo-find-x8-series-coming-first-details-3479145/)
+ - [Google and DOJ return for round two of their antitrust fight — this time about ads](https://www.theverge.com/24236989/google-doj-ad-tech-antitrust-trial-preview)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
