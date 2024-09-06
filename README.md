@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Made in](http://9gag.com/gag/aPA9AyB)
- - ⏩ [He&#39;s one of us 9gaggers.](http://9gag.com/gag/a1mK1jR)
- - 👉 [Who let the bugs out](http://9gag.com/gag/aD2z287)<!-- MEMES:END -->
+ - 💣 [That escalated quickly](http://9gag.com/gag/ayNx9P8)
+ - ⏩ [He was so close to lose his job](http://9gag.com/gag/aqy1eN7)
+ - 👉 [Turkish airlines here I come](http://9gag.com/gag/aE0B0Gp)<!-- MEMES:END -->
 
 ---
 
