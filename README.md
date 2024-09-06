@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Today&#39;s Wordle answer for Friday, September 6](https://www.pcgamer.com/games/puzzle/wordle-answer-today-september-6-2024)
- - [Asian Games in the Spotlight: The Xbox Broadcast Returns to TGS 2024](https://news.xbox.com/en-us/2024/09/05/xbox-tokyo-game-show-2024/)
- - [Baldur&#39;s Gate 3&#39;s Patch 7 tweaked one of the game&#39;s most brutal scenes to twist the knife even more](https://www.pcgamer.com/games/baldurs-gate/baldur-s-gate-3-s-patch-7-tweaked-one-of-the-game-s-most-brutal-scenes-to-twist-the-knife-even-more)<!-- GAME:END -->
+ - [All secret exits in Astro Bot and how to unlock them](https://www.polygon.com/astro-bot-guides/447099/secret-exits-levels-locations-how-to-unlock)
+ - [All hidden levels in Astro Bot and how to unlock them](https://www.polygon.com/astro-bot-guides/447107/hidden-levels-planets-all-locations-how-to-unlock)
+ - [Today&#39;s Wordle answer for Friday, September 6](https://www.pcgamer.com/games/puzzle/wordle-answer-today-september-6-2024)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
