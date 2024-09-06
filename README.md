@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [That escalated quickly](http://9gag.com/gag/ayNx9P8)
- - ⏩ [He was so close to lose his job](http://9gag.com/gag/aqy1eN7)
- - 👉 [Turkish airlines here I come](http://9gag.com/gag/aE0B0Gp)<!-- MEMES:END -->
+ - 💣 [Clown of the year contender](http://9gag.com/gag/avy7Aq5)
+ - ⏩ [Wouldn\u2019t it be nice?](http://9gag.com/gag/aAyD03o)
+ - 👉 [The sad truth.](http://9gag.com/gag/an7j7nB)<!-- MEMES:END -->
 
 ---
 
