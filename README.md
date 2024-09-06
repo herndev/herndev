@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Telegram CEO says he’ll moderate better after getting arrested in France](https://www.theverge.com/2024/9/5/24237174/telegram-ceo-pavel-durov-statement-following-arrest)
- - [Pavel Durov calls his arrest by French authorities &quot;misguided&quot; and denies Telegram is an &quot;anarchic paradise&quot;, in his first public comments since the detention &lpar;The Guardian&rpar;](http://www.techmeme.com/240905/p40#a240905p40)
- - [Analysts raise questions over Brazilian digital bank Nubank&#39;s rising default rate, even as loans grow 28% YoY; ~60% of all Brazilian adults have Nubank&#39;s app &lpar;Bloomberg&rpar;](http://www.techmeme.com/240905/p39#a240905p39)<!-- TECH:END -->
+ - [Telegram radically alters its stance on &quot;illegal&quot; use of its platform by letting users in private chats &quot;flag illegal content&quot; for review by its moderators &lpar;Danny Nelson/CoinDesk&rpar;](http://www.techmeme.com/240905/p41#a240905p41)
+ - [Coffee or tea? You can make both and save with the GoveeLife Smart Wi-Fi Electric Kettle](https://www.androidauthority.com/goveelife-smart-wi-fi-electric-kettle-deal-3478784/)
+ - [Telegram CEO says he’ll moderate better after getting arrested in France](https://www.theverge.com/2024/9/5/24237174/telegram-ceo-pavel-durov-statement-following-arrest)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
