@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Instagram is adding new features for DMs](https://www.theverge.com/2024/9/6/24237107/instagram-dms-chat-features-cutouts-photos-drawing)
- - [YouTube takes down Tenet Media and four other channels after the DOJ alleged that Russia was paying right-wing influencers in the US to produce content &lpar;Gerrit De Vynck/Washington Post&rpar;](http://www.techmeme.com/240906/p13#a240906p13)
- - [Pavel Durov says Telegram now has 10M paid subscribers and removes the People Nearby feature, saying it had &quot;issues with bots and scammers.&quot; &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/240906/p12#a240906p12)<!-- TECH:END -->
+ - [Apple could completely ditch Qualcomm&#39;s 5G modems by 2027](https://appleinsider.com/articles/24/09/06/apple-could-completely-ditch-qualcomms-5g-modems-by-2027?utm_medium=rss)
+ - [You can now sync your Philips Hue lights with 8K screens](https://www.androidauthority.com/philips-hue-play-sync-box-8k-launch-3479214/)
+ - [All the Top New Gadgets at IFA 2024](https://www.wired.com/story/all-the-top-new-gadgets-at-ifa-2024/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
