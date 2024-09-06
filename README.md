@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Xgimi’s new ultra-short throw projector keeps dust and dirt off its lens](https://www.theverge.com/2024/9/6/24236669/xgimi-projector-aura-2-home-theater-mogo-3-pro-price)
- - [The UK CMA objects to Google&#39;s ad tech practices, says Google harms competition by using its online display ad dominance &quot;to favour its own ad tech services&quot; &lpar;Ryan Browne/CNBC&rpar;](http://www.techmeme.com/240906/p7#a240906p7)
- - [All the Top New Gadgets at IFA 2024](https://www.wired.com/story/all-the-top-new-gadgets-at-ifa-2024/)<!-- TECH:END -->
+ - [Therapy Sessions Exposed by Mental Health Care Firm’s Unsecured Database](https://www.wired.com/story/confidant-health-therapy-records-database-exposure/)
+ - [ChromeOS just copied one of Windows 11’s best features](https://www.theverge.com/2024/9/6/24237360/chromeos-128-update-snap-groups-split-screen-text-extraction)
+ - [Apple&#39;s new Scandinavian store opens September 20](https://appleinsider.com/articles/24/09/06/apples-new-scandinavian-store-opens-september-20?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
