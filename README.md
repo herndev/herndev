@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [How long would you last in the water after the Titanic sank?](http://9gag.com/gag/a1mK1gv)
- - ⏩ [Let them know](http://9gag.com/gag/aW4qgDA)
- - 👉 [\u00a0](http://9gag.com/gag/a1mKmrb)<!-- MEMES:END -->
+ - 💣 [Examples of types of blindness](http://9gag.com/gag/aVvMgzP)
+ - ⏩ [Thinking outside the box](http://9gag.com/gag/avy7eGq)
+ - 👉 [Let them know](http://9gag.com/gag/aW4qgDA)<!-- MEMES:END -->
 
 ---
 
