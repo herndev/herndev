@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple could completely ditch Qualcomm&#39;s 5G modems by 2027](https://appleinsider.com/articles/24/09/06/apple-could-completely-ditch-qualcomms-5g-modems-by-2027?utm_medium=rss)
- - [You can now sync your Philips Hue lights with 8K screens](https://www.androidauthority.com/philips-hue-play-sync-box-8k-launch-3479214/)
- - [All the Top New Gadgets at IFA 2024](https://www.wired.com/story/all-the-top-new-gadgets-at-ifa-2024/)<!-- TECH:END -->
+ - [What&#39;s coming in iOS 18 -- and what will wait until iOS 18.1](https://appleinsider.com/articles/24/09/06/whats-coming-in-ios-18----and-what-will-wait-until-ios-181?utm_medium=rss)
+ - [Best Phone Deals: Upgrade Your Cell and Save More Than $500 in the Process](https://www.cnet.com/deals/best-phone-deals/#ftag=CAD590a51e)
+ - [Save $100 on This Action Camera and Grab Previously Unobtainable Shots With Ease](https://www.cnet.com/deals/save-100-on-this-action-camera-and-grab-previously-unobtainable-shots-with-ease/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
