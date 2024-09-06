@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [It’s taken a year, but Philips Hue cameras finally support Google Home, Alexa](https://www.androidauthority.com/philips-hue-secure-cameras-google-home-alexa-3479085/)
- - [TECNO’s Pocket Go Windows AR system set wants to be a gaming PC you can wear](https://www.androidauthority.com/pocket-go-windows-ar-3478951/)
- - [Airbnb says New York City&#39;s law on short-term rentals has had &quot;predictable&quot; outcomes one year later, as rent prices remain high and housing availability low &lpar;Amanda Hoover/Wired&rpar;](http://www.techmeme.com/240906/p5#a240906p5)<!-- TECH:END -->
+ - [Xgimi’s new ultra-short throw projector keeps dust and dirt off its lens](https://www.theverge.com/2024/9/6/24236669/xgimi-projector-aura-2-home-theater-mogo-3-pro-price)
+ - [The UK CMA objects to Google&#39;s ad tech practices, says Google harms competition by using its online display ad dominance &quot;to favour its own ad tech services&quot; &lpar;Ryan Browne/CNBC&rpar;](http://www.techmeme.com/240906/p7#a240906p7)
+ - [All the Top New Gadgets at IFA 2024](https://www.wired.com/story/all-the-top-new-gadgets-at-ifa-2024/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
