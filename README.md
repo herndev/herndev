@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I don&#39;t know](http://9gag.com/gag/a6ZVXRN)
- - ⏩ [90.](http://9gag.com/gag/awyQyD4)
- - 👉 [It&#39;s over](http://9gag.com/gag/aPA9mxV)<!-- MEMES:END -->
+ - 💣 [Bedtime story privilege](http://9gag.com/gag/aVvMEQ8)
+ - ⏩ [Asking the real questions](http://9gag.com/gag/a2v4vbD)
+ - 👉 [Giving them what they deserve](http://9gag.com/gag/ajPNVAx)<!-- MEMES:END -->
 
 ---
 
