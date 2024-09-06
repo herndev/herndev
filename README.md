@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Clown of the year contender](http://9gag.com/gag/avy7Aq5)
- - ⏩ [The sad truth.](http://9gag.com/gag/an7j7nB)
- - 👉 [Are you happy?](http://9gag.com/gag/aO8Bxrr)<!-- MEMES:END -->
+ - 💣 [He was so close to lose his job](http://9gag.com/gag/aqy1eN7)
+ - ⏩ [Big ant train](http://9gag.com/gag/aYQ4o3x)
+ - 👉 [Someone with HR girl at last year&#39;s company party](http://9gag.com/gag/aAyDGXp)<!-- MEMES:END -->
 
 ---
 
