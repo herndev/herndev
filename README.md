@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Here we go](http://9gag.com/gag/aPA9ZgP)
- - ⏩ [Magician at the table](http://9gag.com/gag/aD2z2OB)
- - 👉 [This Cod map looks fire to be honest](http://9gag.com/gag/aMVAKQ6)<!-- MEMES:END -->
+ - 💣 [Scary spider\u2026where ?](http://9gag.com/gag/avy7WMb)
+ - ⏩ [So, sand fleas exist, huh? Now i know... Aaand i wish i didn&#39;t know...](http://9gag.com/gag/aQzezr7)
+ - 👉 [Women](http://9gag.com/gag/ary5WYV)<!-- MEMES:END -->
 
 ---
 
