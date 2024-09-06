@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I&#39;m The Cat Man!](http://9gag.com/gag/a4PGP8p)
- - ⏩ [The resemblance is uncanny](http://9gag.com/gag/aGyeL67)
+ - 💣 [The resemblance is uncanny](http://9gag.com/gag/aGyeL67)
+ - ⏩ [I really want this](http://9gag.com/gag/a6ZVXom)
  - 👉 [90.](http://9gag.com/gag/awyQyD4)<!-- MEMES:END -->
 
 ---
