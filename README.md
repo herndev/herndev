@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Therapy Sessions Exposed by Mental Health Care Firm’s Unsecured Database](https://www.wired.com/story/confidant-health-therapy-records-database-exposure/)
- - [ChromeOS just copied one of Windows 11’s best features](https://www.theverge.com/2024/9/6/24237360/chromeos-128-update-snap-groups-split-screen-text-extraction)
- - [Apple&#39;s new Scandinavian store opens September 20](https://appleinsider.com/articles/24/09/06/apples-new-scandinavian-store-opens-september-20?utm_medium=rss)<!-- TECH:END -->
+ - [iPhone 16 event expected to debut AirPods 4 with speaker, improved audio](https://appleinsider.com/articles/24/09/06/iphone-16-event-expected-to-debut-airpods-4-with-speaker-improved-audio?utm_medium=rss)
+ - [Sleep apnea in, hypertension out for Apple Watch Series 10](https://appleinsider.com/articles/24/09/06/sleep-apnea-in-hypertension-out-for-apple-watch-series-10?utm_medium=rss)
+ - [Devastating typhoon approaching the core of iPhone 16 manufacture &amp; delivery](https://appleinsider.com/articles/24/09/06/potentially-devastating-typhoon-approaching-hong-kong-disrupting-life-and-business?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
