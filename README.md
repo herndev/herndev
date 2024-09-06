@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Something I saved 8 years ago](http://9gag.com/gag/aAyDyGZ)
- - ⏩ [Someone with HR girl at last year&#39;s company party](http://9gag.com/gag/aAyDGXp)
- - 👉 [Asking the real questions](http://9gag.com/gag/a2v4vbD)<!-- MEMES:END -->
+ - ⏩ [Asking the real questions](http://9gag.com/gag/a2v4vbD)
+ - 👉 [Someone with HR girl at last year&#39;s company party](http://9gag.com/gag/aAyDGXp)<!-- MEMES:END -->
 
 ---
 
