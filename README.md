@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Report: Concord Will Live On In Amazon&#39;s New TV Show](https://kotaku.com/amazon-concord-secret-level-canceled-report-series-blur-1851641987)
- - [The Internet Archive has lost the appeal for its landmark copyright case, agreeing to pay an undisclosed amount to publishers](https://www.pcgamer.com/software/the-internet-archive-has-lost-the-appeal-for-its-landmark-copyright-case-agreeing-to-pay-an-undisclosed-amount-to-publishers)
- - [Qualcomm has reportedly been eyeing up an acquisition of Intel&#39;s chip design business](https://www.pcgamer.com/hardware/processors/qualcomm-has-reportedly-been-eyeing-up-an-acquisition-of-intels-chip-design-business)<!-- GAME:END -->
+ - [SteelSeries’ cozy, multi-platform wireless headset is 27% off](https://www.polygon.com/good-deals/448779/steelseries-arctic-nova-5-wireless-gaming-headset-pc-ps5)
+ - [The Fall Guy, now on Peacock, enters its ‘perfect couch movie’ era](https://www.polygon.com/action/448320/the-fall-guy-ryan-gosling-emily-blunt-movie-watch-streaming)
+ - [Working on video games taught me how to write](https://www.polygon.com/2013/4/18/4231940/how-to-write-video-games)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
