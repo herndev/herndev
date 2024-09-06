@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Magician at the table](http://9gag.com/gag/aD2z2OB)
- - ⏩ [Why can&#39;t you be like Timmy?](http://9gag.com/gag/aMVA4gx)
- - 👉 [The Old Internet heroes](http://9gag.com/gag/aVvMbGv)<!-- MEMES:END -->
+ - 💣 [Women](http://9gag.com/gag/ary5WYV)
+ - ⏩ [Turkish airlines here I come](http://9gag.com/gag/aE0B0Gp)
+ - 👉 [Blind Paralympics long jumper in action](http://9gag.com/gag/aMVAVMW)<!-- MEMES:END -->
 
 ---
 
