@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [I tried Acer’s crazy laptop with a built-in controller and… I didn’t hate it](https://www.androidauthority.com/acer-project-dualplay-hands-on-ifa-2024-3478787/)
- - [The OPPO Find X8 series is confirmed, will bring Glacier Battery tech](https://www.androidauthority.com/oppo-find-x8-series-coming-first-details-3479145/)
- - [Google and DOJ return for round two of their antitrust fight — this time about ads](https://www.theverge.com/24236989/google-doj-ad-tech-antitrust-trial-preview)<!-- TECH:END -->
+ - [Instagram is adding new features for DMs](https://www.theverge.com/2024/9/6/24237107/instagram-dms-chat-features-cutouts-photos-drawing)
+ - [YouTube takes down Tenet Media and four other channels after the DOJ alleged that Russia was paying right-wing influencers in the US to produce content &lpar;Gerrit De Vynck/Washington Post&rpar;](http://www.techmeme.com/240906/p13#a240906p13)
+ - [Pavel Durov says Telegram now has 10M paid subscribers and removes the People Nearby feature, saying it had &quot;issues with bots and scammers.&quot; &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/240906/p12#a240906p12)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
