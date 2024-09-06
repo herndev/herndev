@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Big ant train](http://9gag.com/gag/aYQ4o3x)
- - ⏩ [I&#39;m not sure what I hoped to find...](http://9gag.com/gag/aO8BxLD)
- - 👉 [Why can&#39;t you be like Timmy?](http://9gag.com/gag/aMVA4gx)<!-- MEMES:END -->
+ - ⏩ [Moped driver provokes traffic jam because he wants to film with his mobile phone. Driver&#39;s reaction understandable](http://9gag.com/gag/aO8Bx8y)
+ - 👉 [He&#39;s one of us 9gaggers.](http://9gag.com/gag/a1mK1jR)<!-- MEMES:END -->
 
 ---
 
