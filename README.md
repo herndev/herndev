@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Qualcomm CEO Cristiano Amon says the company is working with Samsung and Google on a mixed-reality set of smart glasses linked to a smartphone &lpar;Arjun Kharpal/CNBC&rpar;](http://www.techmeme.com/240905/p38#a240905p38)
- - [Salesforce agrees to acquire Own Company, which provides data management and protection services, for ~$1.9B in cash; Own was valued at $3.35B as of August 2021 &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240905/p37#a240905p37)
- - [Sources: Intel is considering selling part of its 88% stake in Mobileye, and is also exploring options for its Network and Edge enterprise networking division &lpar;Bloomberg&rpar;](http://www.techmeme.com/240905/p36#a240905p36)<!-- TECH:END -->
+ - [Analysts raise questions over Brazilian digital bank Nubank&#39;s rising default rate, even as loans grow 28% YoY; ~60% of all Brazilian adults have Nubank&#39;s app &lpar;Bloomberg&rpar;](http://www.techmeme.com/240905/p39#a240905p39)
+ - [Two of the best gaming mice from Razer and Logitech are on sale!](https://www.androidauthority.com/razer-basilisk-v3-pro-logitech-g502-x-plus-lightspeed-mice-deal-3478785/)
+ - [Qualcomm CEO Cristiano Amon says the company is working with Samsung and Google on a mixed-reality set of smart glasses linked to a smartphone &lpar;Arjun Kharpal/CNBC&rpar;](http://www.techmeme.com/240905/p38#a240905p38)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
