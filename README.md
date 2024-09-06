@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Flexispot E7 Plus Standing Desk review: A worthy ergonomic investment](https://appleinsider.com/articles/24/09/06/flexispot-e7-plus-standing-desk-review-a-worthy-ergonomic-investment?utm_medium=rss)
- - [Potentially devastating typhoon approaching Hong Kong, disrupting life and business](https://appleinsider.com/articles/24/09/06/potentially-devastating-typhoon-approaching-hong-kong-disrupting-life-and-business?utm_medium=rss)
- - [Sources: Apple approves a WeChat update for iOS, as talks continue with Tencent to offer IAP and block links to external payment services in mini games &lpar;Pei Li/Bloomberg&rpar;](http://www.techmeme.com/240905/p44#a240905p44)<!-- TECH:END -->
+ - [Sources: Qualcomm has explored acquiring portions of Intel&#39;s design business, including Intel&#39;s client PC design business, as Intel struggles to generate cash &lpar;Reuters&rpar;](http://www.techmeme.com/240906/p3#a240906p3)
+ - [A look at Honor&#39;s AI defocus tech, which aims to solve myopia and is available on the new Honor MagicPad 2 tablet and Honor Magic V3 foldable phone &lpar;Nicholas Sutrich/Android Central&rpar;](http://www.techmeme.com/240906/p2#a240906p2)
+ - [Potentially devastating typhoon approaching the core of iPhone 16 manufacture &amp; delivery](https://appleinsider.com/articles/24/09/06/potentially-devastating-typhoon-approaching-hong-kong-disrupting-life-and-business?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
