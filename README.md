@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Women](http://9gag.com/gag/ary5WYV)
- - ⏩ [Something I saved 8 years ago](http://9gag.com/gag/aAyDyGZ)
- - 👉 [Who let the bugs out](http://9gag.com/gag/aD2z287)<!-- MEMES:END -->
+ - 💣 [I&#39;m The Cat Man!](http://9gag.com/gag/a4PGP8p)
+ - ⏩ [The resemblance is uncanny](http://9gag.com/gag/aGyeL67)
+ - 👉 [90.](http://9gag.com/gag/awyQyD4)<!-- MEMES:END -->
 
 ---
 
