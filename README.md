@@ -41,7 +41,7 @@
 <!-- TECH:START -->
  - [Telegram radically alters its stance on &quot;illegal&quot; use of its platform by letting users in private chats &quot;flag illegal content&quot; for review by its moderators &lpar;Danny Nelson/CoinDesk&rpar;](http://www.techmeme.com/240905/p41#a240905p41)
  - [Coffee or tea? You can make both and save with the GoveeLife Smart Wi-Fi Electric Kettle](https://www.androidauthority.com/goveelife-smart-wi-fi-electric-kettle-deal-3478784/)
- - [Telegram CEO says he’ll moderate better after getting arrested in France](https://www.theverge.com/2024/9/5/24237174/telegram-ceo-pavel-durov-statement-following-arrest)<!-- TECH:END -->
+ - [Best Mattress Deals: Extended Discounts Still Available on Purple, Casper, Saatva and More](https://www.cnet.com/deals/best-mattress-sales/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
