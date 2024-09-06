@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Analysts raise questions over Brazilian digital bank Nubank&#39;s rising default rate, even as loans grow 28% YoY; ~60% of all Brazilian adults have Nubank&#39;s app &lpar;Bloomberg&rpar;](http://www.techmeme.com/240905/p39#a240905p39)
- - [Two of the best gaming mice from Razer and Logitech are on sale!](https://www.androidauthority.com/razer-basilisk-v3-pro-logitech-g502-x-plus-lightspeed-mice-deal-3478785/)
- - [Qualcomm CEO Cristiano Amon says the company is working with Samsung and Google on a mixed-reality set of smart glasses linked to a smartphone &lpar;Arjun Kharpal/CNBC&rpar;](http://www.techmeme.com/240905/p38#a240905p38)<!-- TECH:END -->
+ - [Telegram CEO says he’ll moderate better after getting arrested in France](https://www.theverge.com/2024/9/5/24237174/telegram-ceo-pavel-durov-statement-following-arrest)
+ - [Pavel Durov calls his arrest by French authorities &quot;misguided&quot; and denies Telegram is an &quot;anarchic paradise&quot;, in his first public comments since the detention &lpar;The Guardian&rpar;](http://www.techmeme.com/240905/p40#a240905p40)
+ - [Analysts raise questions over Brazilian digital bank Nubank&#39;s rising default rate, even as loans grow 28% YoY; ~60% of all Brazilian adults have Nubank&#39;s app &lpar;Bloomberg&rpar;](http://www.techmeme.com/240905/p39#a240905p39)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
