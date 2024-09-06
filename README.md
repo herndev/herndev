@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Hugh Jackman Talks About Need For &#39;Fresh Lube&#39; On Deadpool &amp; Wolverine Set](https://kotaku.com/hugh-jackman-talks-about-need-for-fresh-lube-on-deadpoo-1851641892)
- - [Acer says its next gaming PC comes with Intel&#39;s next-gen Arrow Lake chips, which seems a little premature](https://www.pcgamer.com/hardware/processors/acer-says-its-next-gaming-pc-comes-with-intels-next-gen-arrow-lake-chips-which-seems-a-little-premature)
- - [The Best Guns And Weapons To Use In Warhammer 40K: Space Marine 2](https://kotaku.com/warhammer-40k-space-marine-2-best-weapons-guide-1851641828)<!-- GAME:END -->
+ - [Report: Concord Will Live On In Amazon&#39;s New TV Show](https://kotaku.com/amazon-concord-secret-level-canceled-report-series-blur-1851641987)
+ - [The Internet Archive has lost the appeal for its landmark copyright case, agreeing to pay an undisclosed amount to publishers](https://www.pcgamer.com/software/the-internet-archive-has-lost-the-appeal-for-its-landmark-copyright-case-agreeing-to-pay-an-undisclosed-amount-to-publishers)
+ - [Qualcomm has reportedly been eyeing up an acquisition of Intel&#39;s chip design business](https://www.pcgamer.com/hardware/processors/qualcomm-has-reportedly-been-eyeing-up-an-acquisition-of-intels-chip-design-business)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
