@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Five Features That Make NBA 2K25 a Must-Play for Basketball Fans on Xbox](https://news.xbox.com/en-us/2024/09/06/five-features-nba-2k25-must-play-xbox/)
- - [This Handful Of Discounted Games Show Off The Switch’s Range](https://kotaku.com/nintendo-switch-sale-persona-pentiment-1851642256)
- - [Astro Bot&#39;s God Of War Level Has The Best Secret Weapon](https://kotaku.com/astro-bot-god-of-war-odins-ravens-leviathan-axe-guide-1851642186)<!-- GAME:END -->
+ - [Dr Disrespect returns with 20-minute rant on Twitch ban, denies wrongdoing and says he&#39;s the victim of a conspiracy: &#39;They wanted to cut down the Doc, plain and simple&#39;](https://www.pcgamer.com/hardware/streaming/dr-disrespect-returns-with-20-minute-rant-on-twitch-ban-denies-wrongdoing-and-says-hes-the-victim-of-a-conspiracy-they-wanted-to-cut-down-the-doc-plain-and-simple)
+ - [Beetlejuice Beetlejuice Is Too Much Nostalgia And Too Little Substance](https://kotaku.com/beetlejuice-beetlejuice-movie-review-cast-2024-new-1851642373)
+ - [The 15 deepest cuts in Astro Bot, and where they came from](https://www.polygon.com/playstation/448757/astro-bot-characters-deep-cuts)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
