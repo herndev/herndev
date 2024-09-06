@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Telegram radically alters its stance on &quot;illegal&quot; use of its platform by letting users in private chats &quot;flag illegal content&quot; for review by its moderators &lpar;Danny Nelson/CoinDesk&rpar;](http://www.techmeme.com/240905/p41#a240905p41)
- - [Coffee or tea? You can make both and save with the GoveeLife Smart Wi-Fi Electric Kettle](https://www.androidauthority.com/goveelife-smart-wi-fi-electric-kettle-deal-3478784/)
- - [Best Mattress Deals: Extended Discounts Still Available on Purple, Casper, Saatva and More](https://www.cnet.com/deals/best-mattress-sales/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Flexispot E7 Plus Standing Desk review: A worthy ergonomic investment](https://appleinsider.com/articles/24/09/06/flexispot-e7-plus-standing-desk-review-a-worthy-ergonomic-investment?utm_medium=rss)
+ - [Potentially devastating typhoon approaching Hong Kong, disrupting life and business](https://appleinsider.com/articles/24/09/06/potentially-devastating-typhoon-approaching-hong-kong-disrupting-life-and-business?utm_medium=rss)
+ - [Sources: Apple approves a WeChat update for iOS, as talks continue with Tencent to offer IAP and block links to external payment services in mini games &lpar;Pei Li/Bloomberg&rpar;](http://www.techmeme.com/240905/p44#a240905p44)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
