@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Someone with HR girl at last year&#39;s company party](http://9gag.com/gag/aAyDGXp)
- - ⏩ [Mirror reveals that everybody else in the room is a vampire &lpar;Van Helsing, 2004&rpar;](http://9gag.com/gag/an7j4oq)
- - 👉 [Officer asks a lady to step aside for her safety.](http://9gag.com/gag/azxqmzZ)<!-- MEMES:END -->
+ - 💣 [Clown of the year contender](http://9gag.com/gag/avy7Aq5)
+ - ⏩ [The sad truth.](http://9gag.com/gag/an7j7nB)
+ - 👉 [Are you happy?](http://9gag.com/gag/aO8Bxrr)<!-- MEMES:END -->
 
 ---
 
