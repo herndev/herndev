@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Watch Series 10 rumored to add sleep apnea detection](https://www.theverge.com/2024/9/6/24237873/apple-watch-series-10-rumor-sleep-apnea)
- - [Telegram says the app&#39;s source code has not changed, and its FAQ has been changed only to make it clearer how to report content on Telegram, including via DSA &lpar;Mia Sato/The Verge&rpar;](http://www.techmeme.com/240906/p24#a240906p24)
- - [You only have seven hours to save $700 on the Dell Alienware x14 R2](https://www.androidauthority.com/dell-alienware-x14-r2-deal-3479359/)<!-- TECH:END -->
+ - [The Boeing Starliner’s strange test flight is finally returning to Earth, but it’s empty](https://www.theverge.com/24237936/boeing-starliner-crewed-flight-test-return-astronauts-stuck-on-iss)
+ - [Here’s how Android 15 blocks thieves from bypassing factory reset protection](https://www.androidauthority.com/android-15-factory-reset-protection-upgrades-3479431/)
+ - [Boeing Starliner Returns Home to an Uncertain Future](https://www.wired.com/story/boeing-starliner-return-nasa-contract/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
