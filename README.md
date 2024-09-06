@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [&#39;What a sad existence&#39;: The first cheaters in Deadlock have been spotted, giving players some pretty bad flashbacks to TF2 and CS](https://www.pcgamer.com/games/moba/what-a-sad-existence-the-first-cheaters-in-deadlock-have-been-spotted-giving-players-some-pretty-bad-flashbacks-to-tf2-and-cs)
- - [Baldur&#39;s Gate 3&#39;s new patch has a forbidden evil ending where you get bored and peace out, just before your moment of bloody triumph](https://www.pcgamer.com/games/baldurs-gate/baldur-s-gate-3-s-new-patch-has-a-forbidden-evil-ending-where-you-get-bored-and-peace-out-just-before-your-moment-of-bloody-triumph)
- - [Glintstone Nails Are The Best Sorcery In Shadow Of The Erdtree](https://kotaku.com/elden-ring-shadow-erdtree-glintstone-nails-guide-1851639749)<!-- GAME:END -->
+ - [Galadriel’s kickass orc-fighting has unexpected weight, considering the orc babies at home](https://www.polygon.com/lotr-rings-of-power/448524/trop-orc-adar-galadriel-orc-fight-how)
+ - [Harry Potter: Quidditch Champions, as this video shows, feels like a trial run for its inclusion in Hogwarts Legacy 2](https://www.pcgamer.com/games/action/harry-potter-quidditch-champions-as-this-video-shows-feels-like-a-trial-run-for-its-inclusion-in-hogwarts-legacy-2)
+ - [&#39;What a sad existence&#39;: The first cheaters in Deadlock have been spotted, giving players some pretty bad flashbacks to TF2 and CS](https://www.pcgamer.com/games/moba/what-a-sad-existence-the-first-cheaters-in-deadlock-have-been-spotted-giving-players-some-pretty-bad-flashbacks-to-tf2-and-cs)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
