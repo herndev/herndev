@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The resemblance is uncanny](http://9gag.com/gag/aGyeL67)
- - ⏩ [I really want this](http://9gag.com/gag/a6ZVXom)
- - 👉 [90.](http://9gag.com/gag/awyQyD4)<!-- MEMES:END -->
+ - 💣 [Why can&#39;t you be like Timmy?](http://9gag.com/gag/aMVA4gx)
+ - ⏩ [Turkish airlines here I come](http://9gag.com/gag/aE0B0Gp)
+ - 👉 [I&#39;m not sure what I hoped to find...](http://9gag.com/gag/aO8BxLD)<!-- MEMES:END -->
 
 ---
 
