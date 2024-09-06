@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Bedtime story privilege](http://9gag.com/gag/aVvMEQ8)
- - ⏩ [Asking the real questions](http://9gag.com/gag/a2v4vbD)
- - 👉 [Giving them what they deserve](http://9gag.com/gag/ajPNVAx)<!-- MEMES:END -->
+ - 💣 [How long would you last in the water after the Titanic sank?](http://9gag.com/gag/a1mK1gv)
+ - ⏩ [Let them know](http://9gag.com/gag/aW4qgDA)
+ - 👉 [\u00a0](http://9gag.com/gag/a1mKmrb)<!-- MEMES:END -->
 
 ---
 
