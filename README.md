@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Scary spider\u2026where ?](http://9gag.com/gag/avy7WMb)
- - ⏩ [So, sand fleas exist, huh? Now i know... Aaand i wish i didn&#39;t know...](http://9gag.com/gag/aQzezr7)
- - 👉 [Women](http://9gag.com/gag/ary5WYV)<!-- MEMES:END -->
+ - 💣 [Women](http://9gag.com/gag/ary5WYV)
+ - ⏩ [Something I saved 8 years ago](http://9gag.com/gag/aAyDyGZ)
+ - 👉 [Who let the bugs out](http://9gag.com/gag/aD2z287)<!-- MEMES:END -->
 
 ---
 
