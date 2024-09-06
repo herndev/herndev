@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [He was so close to lose his job](http://9gag.com/gag/aqy1eN7)
- - ⏩ [Big ant train](http://9gag.com/gag/aYQ4o3x)
- - 👉 [Someone with HR girl at last year&#39;s company party](http://9gag.com/gag/aAyDGXp)<!-- MEMES:END -->
+ - 💣 [Something I saved 8 years ago](http://9gag.com/gag/aAyDyGZ)
+ - ⏩ [Someone with HR girl at last year&#39;s company party](http://9gag.com/gag/aAyDGXp)
+ - 👉 [Asking the real questions](http://9gag.com/gag/a2v4vbD)<!-- MEMES:END -->
 
 ---
 
