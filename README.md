@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Made in](http://9gag.com/gag/aPA9AyB)
- - ⏩ [Asking the real questions](http://9gag.com/gag/a2v4vbD)
- - 👉 [Good job!](http://9gag.com/gag/a34Mwg1)<!-- MEMES:END -->
+ - 💣 [Legend says they&#39;re still blowing up to this day](http://9gag.com/gag/a4PG1yw)
+ - ⏩ [Give it the sonic treatment](http://9gag.com/gag/axy0BzD)
+ - 👉 [Big ant train](http://9gag.com/gag/aYQ4o3x)<!-- MEMES:END -->
 
 ---
 
