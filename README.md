@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [SteelSeries’ cozy, multi-platform wireless headset is 27% off](https://www.polygon.com/good-deals/448779/steelseries-arctic-nova-5-wireless-gaming-headset-pc-ps5)
- - [The Fall Guy, now on Peacock, enters its ‘perfect couch movie’ era](https://www.polygon.com/action/448320/the-fall-guy-ryan-gosling-emily-blunt-movie-watch-streaming)
- - [Working on video games taught me how to write](https://www.polygon.com/2013/4/18/4231940/how-to-write-video-games)<!-- GAME:END -->
+ - [The Baldur&amp;#8217;s Gate 3 team isn&amp;#8217;t finished with the game yet](https://www.polygon.com/news/448917/baldurs-gate-3-final-update-bg3)
+ - [The Starfield Planet At The Center Of Its Shattered Space DLC Sounds Like It Has A Lot Going On](https://kotaku.com/starfield-shattered-space-dlc-varuun-size-1851642222)
+ - [Do TV shows and movies lose rights to songs like video games do?](https://www.polygon.com/explained/448860/music-video-game-tv-licensing-rights-problems)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
