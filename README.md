@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone 16 event expected to debut AirPods 4 with speaker, improved audio](https://appleinsider.com/articles/24/09/06/iphone-16-event-expected-to-debut-airpods-4-with-speaker-improved-audio?utm_medium=rss)
- - [Sleep apnea in, hypertension out for Apple Watch Series 10](https://appleinsider.com/articles/24/09/06/sleep-apnea-in-hypertension-out-for-apple-watch-series-10?utm_medium=rss)
- - [Devastating typhoon approaching the core of iPhone 16 manufacture &amp; delivery](https://appleinsider.com/articles/24/09/06/potentially-devastating-typhoon-approaching-hong-kong-disrupting-life-and-business?utm_medium=rss)<!-- TECH:END -->
+ - [Just about every iPhone 16 Pro camera detail has been leaked](https://appleinsider.com/articles/24/09/06/just-about-every-iphone-16-pro-camera-detail-has-been-leaked?utm_medium=rss)
+ - [Google Pixel 9 problems and how to fix them](https://www.androidauthority.com/google-pixel-9-problems-fixes-3478075/)
+ - [iPhone 16 and Apple Watch Series 10 rumors, plus hysterical phishing emails on the AppleInsider Podcast](https://appleinsider.com/articles/24/09/06/iphone-16-and-apple-watch-series-10-rumors-plus-hysterical-phishing-emails-on-the-appleinsider-podcast?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
