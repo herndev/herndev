@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How to customise armour in Space Marine 2 and create your own chapter](https://www.pcgamer.com/games/third-person-shooter/space-marine-2-customise-armour)
- - [Senior crew on a US warship installed an unauthorised Starlink dish attached to a wooden pallet and were discovered because the network was named &#39;STINKY&#39;](https://www.pcgamer.com/hardware/senior-crew-on-a-us-warship-installed-an-unauthorised-starlink-dish-attached-to-a-wooden-pallet-and-were-discovered-because-the-network-was-named-stinky)
- - [The Sims 4 is now a decade old, the longest-running game in the series, and its age is seriously showing](https://www.pcgamer.com/games/life-sim/the-sims-4-is-now-a-decade-old-the-longest-running-game-in-the-series-and-its-age-is-seriously-showing)<!-- GAME:END -->
+ - [&#39;What a sad existence&#39;: The first cheaters in Deadlock have been spotted, giving players some pretty bad flashbacks to TF2 and CS](https://www.pcgamer.com/games/moba/what-a-sad-existence-the-first-cheaters-in-deadlock-have-been-spotted-giving-players-some-pretty-bad-flashbacks-to-tf2-and-cs)
+ - [Baldur&#39;s Gate 3&#39;s new patch has a forbidden evil ending where you get bored and peace out, just before your moment of bloody triumph](https://www.pcgamer.com/games/baldurs-gate/baldur-s-gate-3-s-new-patch-has-a-forbidden-evil-ending-where-you-get-bored-and-peace-out-just-before-your-moment-of-bloody-triumph)
+ - [Glintstone Nails Are The Best Sorcery In Shadow Of The Erdtree](https://kotaku.com/elden-ring-shadow-erdtree-glintstone-nails-guide-1851639749)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
