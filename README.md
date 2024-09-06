@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Qualcomm has explored acquiring portions of Intel&#39;s design business, including Intel&#39;s client PC design business, as Intel struggles to generate cash &lpar;Reuters&rpar;](http://www.techmeme.com/240906/p3#a240906p3)
- - [A look at Honor&#39;s AI defocus tech, which aims to solve myopia and is available on the new Honor MagicPad 2 tablet and Honor Magic V3 foldable phone &lpar;Nicholas Sutrich/Android Central&rpar;](http://www.techmeme.com/240906/p2#a240906p2)
- - [Potentially devastating typhoon approaching the core of iPhone 16 manufacture &amp; delivery](https://appleinsider.com/articles/24/09/06/potentially-devastating-typhoon-approaching-hong-kong-disrupting-life-and-business?utm_medium=rss)<!-- TECH:END -->
+ - [Leak: Here’s our first look at the Galaxy Z Fold Special Edition](https://www.androidauthority.com/samsung-galaxy-z-fold-special-edition-leak-render-3478491/)
+ - [Threads is trading trust for growth via Meta&#39;s creator program, which pays people to post without disclosing, making users assume everyone is engagement farming &lpar;Ben Werdmuller/Werd I/O&rpar;](http://www.techmeme.com/240906/p4#a240906p4)
+ - [Sources: Qualcomm has explored acquiring portions of Intel&#39;s design business, including Intel&#39;s client PC design business, as Intel struggles to generate cash &lpar;Reuters&rpar;](http://www.techmeme.com/240906/p3#a240906p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
