@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Why can&#39;t you be like Timmy?](http://9gag.com/gag/aMVA4gx)
- - ⏩ [Turkish airlines here I come](http://9gag.com/gag/aE0B0Gp)
- - 👉 [I&#39;m not sure what I hoped to find...](http://9gag.com/gag/aO8BxLD)<!-- MEMES:END -->
+ - 💣 [Magician at the table](http://9gag.com/gag/aD2z2OB)
+ - ⏩ [Why can&#39;t you be like Timmy?](http://9gag.com/gag/aMVA4gx)
+ - 👉 [The Old Internet heroes](http://9gag.com/gag/aVvMbGv)<!-- MEMES:END -->
 
 ---
 
