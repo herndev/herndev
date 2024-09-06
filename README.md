@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Dr Disrespect returns with 20-minute rant on Twitch ban, denies wrongdoing and says he&#39;s the victim of a conspiracy: &#39;They wanted to cut down the Doc, plain and simple&#39;](https://www.pcgamer.com/hardware/streaming/dr-disrespect-returns-with-20-minute-rant-on-twitch-ban-denies-wrongdoing-and-says-hes-the-victim-of-a-conspiracy-they-wanted-to-cut-down-the-doc-plain-and-simple)
- - [Beetlejuice Beetlejuice Is Too Much Nostalgia And Too Little Substance](https://kotaku.com/beetlejuice-beetlejuice-movie-review-cast-2024-new-1851642373)
- - [The 15 deepest cuts in Astro Bot, and where they came from](https://www.polygon.com/playstation/448757/astro-bot-characters-deep-cuts)<!-- GAME:END -->
+ - [Roblox CEO delivers imperial announcement that the goal is &#39;1 billion daily active users&#39; and 10% of all global gaming revenue, thanks](https://www.pcgamer.com/software/platforms/roblox-ceo-delivers-imperial-announcement-that-the-goal-is-1-billion-daily-active-users-and-10-of-all-global-gaming-revenue-thanks)
+ - [Don’t Forget To Smack Every PlayStation Character You Collect In Astro Bot](https://kotaku.com/astro-bot-smack-playstation-characters-crash-site-1851642444)
+ - [People Who Paid Extra To Play The New Test Drive Early Can&#39;t Due To Server Issues](https://kotaku.com/test-drive-unlimited-3-early-access-server-issues-1851642389)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
