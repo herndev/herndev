@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The judge in the Google monopoly ruling says he&#39;ll take until August 2025 to determine remedies in the case and asks the DOJ to propose fixes by the end of 2024 &lpar;Cecilia Kang/New York Times&rpar;](http://www.techmeme.com/240906/p22#a240906p22)
- - [Google wants your help spreading the word of Gemini Advanced by sending your friends free trials](https://www.androidauthority.com/gemini-advanced-free-trial-3479384/)
- - [Need a portable power station? Anker and EcoFlow have great deals for you today!](https://www.androidauthority.com/anker-ecoflow-power-station-deals-3479360/)<!-- TECH:END -->
+ - [Apple Watch Series 10 rumored to add sleep apnea detection](https://www.theverge.com/2024/9/6/24237873/apple-watch-series-10-rumor-sleep-apnea)
+ - [Telegram says the app&#39;s source code has not changed, and its FAQ has been changed only to make it clearer how to report content on Telegram, including via DSA &lpar;Mia Sato/The Verge&rpar;](http://www.techmeme.com/240906/p24#a240906p24)
+ - [You only have seven hours to save $700 on the Dell Alienware x14 R2](https://www.androidauthority.com/dell-alienware-x14-r2-deal-3479359/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
