@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The DOJ wants info on Google’s AI strategy to bust up its search monopoly](https://www.theverge.com/2024/9/6/24237760/doj-google-search-antitrust-remedies-artificial-intelligence)
- - [HyperWrite CEO unveils Reflection 70B, based on Llama 3.1 70B Instruct and trained using reflection-tuning, and says it beats GPT-4o in all benchmarks tested &lpar;Carl Franzen/VentureBeat&rpar;](http://www.techmeme.com/240906/p20#a240906p20)
- - [AMD just tipped the Z2 Extreme chip for next year’s Steam Deck competitors](https://www.theverge.com/2024/9/6/24237735/amd-z2-extreme-gaming-handheld-pc-chip)<!-- TECH:END -->
+ - [The judge in the Google monopoly ruling says he&#39;ll take until August 2025 to determine remedies in the case and asks the DOJ to propose fixes by the end of 2024 &lpar;Cecilia Kang/New York Times&rpar;](http://www.techmeme.com/240906/p22#a240906p22)
+ - [Google wants your help spreading the word of Gemini Advanced by sending your friends free trials](https://www.androidauthority.com/gemini-advanced-free-trial-3479384/)
+ - [Need a portable power station? Anker and EcoFlow have great deals for you today!](https://www.androidauthority.com/anker-ecoflow-power-station-deals-3479360/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
