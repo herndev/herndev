@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [He was so close to lose his job](http://9gag.com/gag/aqy1eN7)
+ - 💣 [Here we go](http://9gag.com/gag/aPA9ZgP)
  - ⏩ [Magician at the table](http://9gag.com/gag/aD2z2OB)
- - 👉 [So, sand fleas exist, huh? Now i know... Aaand i wish i didn&#39;t know...](http://9gag.com/gag/aQzezr7)<!-- MEMES:END -->
+ - 👉 [This Cod map looks fire to be honest](http://9gag.com/gag/aMVAKQ6)<!-- MEMES:END -->
 
 ---
 
