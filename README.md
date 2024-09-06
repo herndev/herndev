@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Women](http://9gag.com/gag/ary5WYV)
- - ⏩ [Turkish airlines here I come](http://9gag.com/gag/aE0B0Gp)
- - 👉 [Blind Paralympics long jumper in action](http://9gag.com/gag/aMVAVMW)<!-- MEMES:END -->
+ - 💣 [I don&#39;t know](http://9gag.com/gag/a6ZVXRN)
+ - ⏩ [90.](http://9gag.com/gag/awyQyD4)
+ - 👉 [It&#39;s over](http://9gag.com/gag/aPA9mxV)<!-- MEMES:END -->
 
 ---
 
