@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Clown of the year contender](http://9gag.com/gag/avy7Aq5)
- - ⏩ [Wouldn\u2019t it be nice?](http://9gag.com/gag/aAyD03o)
- - 👉 [The sad truth.](http://9gag.com/gag/an7j7nB)<!-- MEMES:END -->
+ - 💣 [He was so close to lose his job](http://9gag.com/gag/aqy1eN7)
+ - ⏩ [Magician at the table](http://9gag.com/gag/aD2z2OB)
+ - 👉 [So, sand fleas exist, huh? Now i know... Aaand i wish i didn&#39;t know...](http://9gag.com/gag/aQzezr7)<!-- MEMES:END -->
 
 ---
 
