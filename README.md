@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Streamers captured Concord&#39;s final moments as the servers went offline: &#39;What a huge f***ing honor&#39;](https://www.pcgamer.com/games/fps/streamers-captured-concords-final-moments-as-the-servers-went-offline-what-a-huge-fing-honor)
- - [Visions of Mana review](https://www.pcgamer.com/games/rpg/visions-of-mana-review)
- - [Zenless Zone Zero’s Jane Doe might be the horniest Hoyoverse work yet](https://www.polygon.com/culture/449128/zenless-zone-zero-jane-doe-horny-zzz)<!-- GAME:END -->
+ - [Baldur&#39;s Gate 3&#39;s latest patch is not the final update, Larian says: &#39;The chefs must cook&#39;](https://www.pcgamer.com/games/rpg/baldurs-gate-3s-latest-patch-is-not-the-final-update-larian-says-the-chefs-must-cook)
+ - [Once Human dev says some recent player feedback &#39;has been quite demoralizing&#39;](https://www.pcgamer.com/games/survival-crafting/once-human-devs-says-some-recent-player-feedback-has-been-quite-demoralizing)
+ - [The Boy and the Heron, Twilight of the Warriors, Netflix’s Rebel Ridge, and every movie new to streaming this week](https://www.polygon.com/entertainment/445767/new-movies-boy-and-the-heron-netflix-rebel-ridge-twilight-of-the-warriors-watch-streaming)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
