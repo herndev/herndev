@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Legend says they&#39;re still blowing up to this day](http://9gag.com/gag/a4PG1yw)
- - ⏩ [Give it the sonic treatment](http://9gag.com/gag/axy0BzD)
- - 👉 [Big ant train](http://9gag.com/gag/aYQ4o3x)<!-- MEMES:END -->
+ - 💣 [Big ant train](http://9gag.com/gag/aYQ4o3x)
+ - ⏩ [I&#39;m not sure what I hoped to find...](http://9gag.com/gag/aO8BxLD)
+ - 👉 [Why can&#39;t you be like Timmy?](http://9gag.com/gag/aMVA4gx)<!-- MEMES:END -->
 
 ---
 
