@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [What&#39;s coming in iOS 18 -- and what will wait until iOS 18.1](https://appleinsider.com/articles/24/09/06/whats-coming-in-ios-18----and-what-will-wait-until-ios-181?utm_medium=rss)
- - [Best Phone Deals: Upgrade Your Cell and Save More Than $500 in the Process](https://www.cnet.com/deals/best-phone-deals/#ftag=CAD590a51e)
- - [Save $100 on This Action Camera and Grab Previously Unobtainable Shots With Ease](https://www.cnet.com/deals/save-100-on-this-action-camera-and-grab-previously-unobtainable-shots-with-ease/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Roblox plans to let creators keep 50% to 70% of revenue when their titles are purchased in real currency on desktop computers vs. 30% for purchases with Robux &lpar;Alex Heath/The Verge&rpar;](http://www.techmeme.com/240906/p17#a240906p17)
+ - [GoPro Hero 13 Black review: Big changes come for the popular action cam](https://appleinsider.com/articles/24/09/06/gopro-hero-13-black-review-big-changes-come-for-the-popular-action-cam?utm_medium=rss)
+ - [Android 15 is already prepared for Bluetooth 6.0’s best new feature](https://www.androidauthority.com/android-15-bluetooth-channel-sounding-3479321/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
