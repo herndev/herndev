@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazfit T-Rex 3 announced: A brighter, longer lasting smartwatch](https://www.androidauthority.com/amazfit-t-rex-3-3479069/)
- - [Hisense TVs can now sync with these smart lights — no additional hardware required](https://www.theverge.com/2024/9/6/24236752/hisense-tvs-now-sync-yeelight-smart-lights)
- - [Leak: Here’s our first look at the Galaxy Z Fold Special Edition](https://www.androidauthority.com/samsung-galaxy-z-fold-special-edition-leak-render-3478491/)<!-- TECH:END -->
+ - [It’s taken a year, but Philips Hue cameras finally support Google Home, Alexa](https://www.androidauthority.com/philips-hue-secure-cameras-google-home-alexa-3479085/)
+ - [TECNO’s Pocket Go Windows AR system set wants to be a gaming PC you can wear](https://www.androidauthority.com/pocket-go-windows-ar-3478951/)
+ - [Airbnb says New York City&#39;s law on short-term rentals has had &quot;predictable&quot; outcomes one year later, as rent prices remain high and housing availability low &lpar;Amanda Hoover/Wired&rpar;](http://www.techmeme.com/240906/p5#a240906p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
