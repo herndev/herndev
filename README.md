@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Something I saved 8 years ago](http://9gag.com/gag/aAyDyGZ)
+ - 💣 [Made in](http://9gag.com/gag/aPA9AyB)
  - ⏩ [Asking the real questions](http://9gag.com/gag/a2v4vbD)
- - 👉 [Someone with HR girl at last year&#39;s company party](http://9gag.com/gag/aAyDGXp)<!-- MEMES:END -->
+ - 👉 [Good job!](http://9gag.com/gag/a34Mwg1)<!-- MEMES:END -->
 
 ---
 
