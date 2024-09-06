@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [What Cancún’s Tourists Don’t See Is a Sprawling Concrete Jungle](https://www.wired.com/story/the-inequality-of-cancun-that-tourists-dont-see/)
- - [It might be your last chance to get the Apple iPad 9th Generation for $199](https://www.androidauthority.com/apple-ipad-9th-generation-deal-3-3479361/)
- - [Meta plans to enable group chats between WhatsApp/Messenger and third-party apps in 2025 and voice and video calling with such apps in 2027, to comply with DMA &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240906/p19#a240906p19)<!-- TECH:END -->
+ - [The DOJ wants info on Google’s AI strategy to bust up its search monopoly](https://www.theverge.com/2024/9/6/24237760/doj-google-search-antitrust-remedies-artificial-intelligence)
+ - [HyperWrite CEO unveils Reflection 70B, based on Llama 3.1 70B Instruct and trained using reflection-tuning, and says it beats GPT-4o in all benchmarks tested &lpar;Carl Franzen/VentureBeat&rpar;](http://www.techmeme.com/240906/p20#a240906p20)
+ - [AMD just tipped the Z2 Extreme chip for next year’s Steam Deck competitors](https://www.theverge.com/2024/9/6/24237735/amd-z2-extreme-gaming-handheld-pc-chip)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
