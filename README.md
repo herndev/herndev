@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Roblox CEO delivers imperial announcement that the goal is &#39;1 billion daily active users&#39; and 10% of all global gaming revenue, thanks](https://www.pcgamer.com/software/platforms/roblox-ceo-delivers-imperial-announcement-that-the-goal-is-1-billion-daily-active-users-and-10-of-all-global-gaming-revenue-thanks)
- - [Don’t Forget To Smack Every PlayStation Character You Collect In Astro Bot](https://kotaku.com/astro-bot-smack-playstation-characters-crash-site-1851642444)
- - [People Who Paid Extra To Play The New Test Drive Early Can&#39;t Due To Server Issues](https://kotaku.com/test-drive-unlimited-3-early-access-server-issues-1851642389)<!-- GAME:END -->
+ - [Streamers captured Concord&#39;s final moments as the servers went offline: &#39;What a huge f***ing honor&#39;](https://www.pcgamer.com/games/fps/streamers-captured-concords-final-moments-as-the-servers-went-offline-what-a-huge-fing-honor)
+ - [Visions of Mana review](https://www.pcgamer.com/games/rpg/visions-of-mana-review)
+ - [Zenless Zone Zero’s Jane Doe might be the horniest Hoyoverse work yet](https://www.polygon.com/culture/449128/zenless-zone-zero-jane-doe-horny-zzz)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
