@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Source: Sequoia Capital completed its $861M purchase of Stripe shares from Sequoia limited partners last week; Stripe didn&#39;t receive any proceeds &lpar;Dan Primack/Axios&rpar;](http://www.techmeme.com/240909/p10#a240909p10)
- - [The Observatory is Apple Park&#39;s picturesque new event space](https://appleinsider.com/articles/24/09/09/the-observatory-is-apple-parks-picturesque-new-event-space?utm_medium=rss)
- - [IFA 2024: The best smart home, Find My, and Qi2 devices to debut](https://appleinsider.com/articles/24/09/09/ifa-2024-the-best-smart-home-find-my-and-qi2-devices-to-debut?utm_medium=rss)<!-- TECH:END -->
+ - [Amazon is allowing Audible narrators to clone themselves with AI](https://www.theverge.com/2024/9/9/24239903/amazon-audible-audiobook-narrators-ai-generated-voice-clones)
+ - [The Meta Quest 3S leaks in Meta’s own PC app](https://www.theverge.com/2024/9/9/24239819/meta-quest-3s-leak-budget-vr-headset)
+ - [Google’s now last-gen Pixel 8 Pro hits a new low price of $624](https://www.theverge.com/2024/9/9/24239797/google-pixel-8-pro-smartphone-oneplus-open-foldable-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
