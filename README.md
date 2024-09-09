@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [iOS 18 will launch next week with new ways to customize your home screen](https://www.theverge.com/2024/9/9/24240230/ios-18-release-date-iphone-16)
- - [Apple has a bunch of new iPhone 16 &amp; iPhone 16 Pro cases](https://appleinsider.com/articles/24/09/09/apple-has-a-bunch-of-new-iphone-16-iphone-16-pro-cases?utm_medium=rss)
- - [AMD is turning its back on flagship gaming GPUs — to chase AI first](https://www.theverge.com/2024/9/9/24240173/amd-udna-gpu-ai-gaming-rdna-cdna-jack-huynh)<!-- TECH:END -->
+ - [Flagship showdown -- iPhone 16 Pro vs iPhone 15 Pro features compared](https://appleinsider.com/inside/iphone-16/vs/flagship-showdown----iphone-16-pro-vs-iphone-15-pro-features-compared?utm_medium=rss)
+ - [Apple’s new MagSafe charger gets Qi2, but Apple’s tech still charges faster](https://www.androidauthority.com/apple-qi2-wireless-charging-3480242/)
+ - [Save $400 on the awesome Narwal Freo X Ultra robot vacuum and mop](https://www.androidauthority.com/narwal-freo-x-ultra-deal-3-3480213/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
