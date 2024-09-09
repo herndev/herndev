@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I guess it pays to be him](http://9gag.com/gag/a6ZVBGb)
- - ⏩ [2024 Landlords be like:](http://9gag.com/gag/avy7drW)
- - 👉 [In 1719, John Law decided to offer prisoners in Paris something they could not refuse. He offered them their freedom as long as they were willing to marry a prostitute and head off to Louisiana.](http://9gag.com/gag/azxqK3j)<!-- MEMES:END -->
+ - 💣 [Forests, ice, deserts, lava\u2026](http://9gag.com/gag/agmYxNK)
+ - ⏩ [He&#39;s one-sixteenth Irish](http://9gag.com/gag/aD2zZ49)
+ - 👉 [It do be like that sometimes...](http://9gag.com/gag/a878ep6)<!-- MEMES:END -->
 
 ---
 
