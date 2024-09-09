@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Intelligence&#39;s Image Playground, Genmoji delayed until iOS 18.2](https://appleinsider.com/articles/24/09/08/apple-intelligences-image-playground-genmoji-to-wait-until-ios-182?utm_medium=rss)
- - [New AirPods Max predicted for Apple&#39;s iPhone 16 launch](https://appleinsider.com/articles/24/09/09/new-airpods-max-predicted-for-apples-iphone-16-launch?utm_medium=rss)
- - [Apple Store shuts down ahead of iPhone 16 launch event](https://appleinsider.com/articles/24/09/09/apple-store-shuts-down-ahead-of-iphone-16-launch-event?utm_medium=rss)<!-- TECH:END -->
+ - [Samsung&#39;s Latest Galaxy Watch Ultra Is Now at Its Lowest Ever Price](https://www.cnet.com/deals/samsungs-latest-galaxy-watch-ultra-is-now-at-its-lowest-ever-price/#ftag=CAD590a51e)
+ - [Here Are 5 Jobs AI Will Create — and 5 Roles AI Will Change](https://www.cnet.com/tech/services-and-software/here-are-5-jobs-ai-will-create-and-5-roles-ai-will-change/#ftag=CAD590a51e)
+ - [Miami-based finally, which offers bookkeeping, accounting, and finance tools for SMBs, raised a $50M Series B from PeakSpan and a $150M credit line &lpar;Mary Ann Azevedo/TechCrunch&rpar;](http://www.techmeme.com/240909/p7#a240909p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
