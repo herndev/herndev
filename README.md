@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung&#39;s Latest Galaxy Watch Ultra Is Now at Its Lowest Ever Price](https://www.cnet.com/deals/samsungs-latest-galaxy-watch-ultra-is-now-at-its-lowest-ever-price/#ftag=CAD590a51e)
- - [Here Are 5 Jobs AI Will Create — and 5 Roles AI Will Change](https://www.cnet.com/tech/services-and-software/here-are-5-jobs-ai-will-create-and-5-roles-ai-will-change/#ftag=CAD590a51e)
- - [Miami-based finally, which offers bookkeeping, accounting, and finance tools for SMBs, raised a $50M Series B from PeakSpan and a $150M credit line &lpar;Mary Ann Azevedo/TechCrunch&rpar;](http://www.techmeme.com/240909/p7#a240909p7)<!-- TECH:END -->
+ - [Google’s Android Search widget is getting supercharged with new shortcuts](https://www.androidauthority.com/google-search-widget-shortcut-3479864/)
+ - [IFA smart home news, Thread &amp; Bluetooth updates &amp; more on HomeKit Insider](https://appleinsider.com/articles/24/09/09/ifa-smart-home-news-thread-bluetooth-updates-more-on-homekit-insider?utm_medium=rss)
+ - [Audible plans to invite some US-based audiobook narrators to train AI on their voices, to clone the voices for recordings through a royalty-sharing model &lpar;Ashley Carman/Bloomberg&rpar;](http://www.techmeme.com/240909/p9#a240909p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
