@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Glowtime: One of Apple’s flagship devices may be a no-show at the event](https://www.androidauthority.com/apple-watch-ultra-3-launch-canceled-3479734/)
- - [Australia-based SafetyCulture, which offers a suite of risk management tools, raised AU$165M led by Airtree at a AU$2.5B valuation, down from AU$2.7B in 2023 &lpar;David Adams/SmartCompany&rpar;](http://www.techmeme.com/240909/p2#a240909p2)
- - [South Korea is hosting a summit in Seoul on September 9-10, seeking to establish a blueprint for the responsible military use of AI; 90+ countries are attending &lpar;Joyce Lee/Reuters&rpar;](http://www.techmeme.com/240909/p1#a240909p1)<!-- TECH:END -->
+ - [It’s official: The next OnePlus flagship is coming and will launch very soon](https://www.androidauthority.com/oneplus-13-launch-october-3479749/)
+ - [What to expect from Apple’s ‘It’s Glowtime’ iPhone 16 event](https://www.theverge.com/2024/9/4/24232248/apple-event-september-iphone-16-date-time-live-stream-watch-how-to-rumors)
+ - [The AirPods Max might finally see a refresh today after 4 long years](https://www.androidauthority.com/airpods-max-2-launch-3479747/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
