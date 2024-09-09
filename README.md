@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon is allowing Audible narrators to clone themselves with AI](https://www.theverge.com/2024/9/9/24239903/amazon-audible-audiobook-narrators-ai-generated-voice-clones)
- - [The Meta Quest 3S leaks in Meta’s own PC app](https://www.theverge.com/2024/9/9/24239819/meta-quest-3s-leak-budget-vr-headset)
- - [Google’s now last-gen Pixel 8 Pro hits a new low price of $624](https://www.theverge.com/2024/9/9/24239797/google-pixel-8-pro-smartphone-oneplus-open-foldable-deal-sale)<!-- TECH:END -->
+ - [A live blog of Apple&#39;s event, where four new iPhones are expected and rumors suggest a new Apple Watch and AirPods models could be announced &lpar;The Verge&rpar;](http://www.techmeme.com/240909/p13#a240909p13)
+ - [Best Apple Watch Ultra and Ultra 2 Deals: Get Money Off With Discounts and Trade-Ins](https://www.cnet.com/deals/best-apple-watch-ultra-deals/#ftag=CAD590a51e)
+ - [Save $250 on this M3 MacBook Air with 16GB RAM, 512GB SSD during the Apple Event](https://appleinsider.com/articles/24/09/09/save-250-on-this-m3-macbook-air-with-16gb-ram-512gb-ssd-during-the-apple-event?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
