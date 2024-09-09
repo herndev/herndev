@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [World Of Warcraft: The War Within: The Kotaku Review](https://kotaku.com/wow-war-within-review-expansion-is-it-good-1851643832)
- - [Sony Reveals Surprise 9-Minute Tech Showcase For What Sounds Like A PS5 Pro [Update: Yup]](https://kotaku.com/ps5-pro-sony-showcase-mark-cerny-price-release-date-1851643308)
- - [Funko Fusion&#39;s Mecha Colonel Sanders Is Locked Behind A $25 Chicken Paywall](https://kotaku.com/funko-fusion-colonel-sanders-pop-reward-how-to-unlock-1851643794)<!-- GAME:END -->
+ - [Space Marine 2 cruises past 225,000 concurrent users on Steam within hours of full release](https://www.pcgamer.com/games/third-person-shooter/space-marine-2-cruises-past-225000-concurrent-users-on-steam-within-hours-of-full-release)
+ - [7 years after declaring it took &#39;courage&#39; to remove the iPhone&#39;s headphone jack, Apple has finally decided buttons and ports are cool again](https://www.pcgamer.com/hardware/7-years-after-declaring-it-took-courage-to-remove-the-iphones-headphone-jack-apple-has-finally-decided-buttons-and-ports-are-cool-again)
+ - [Celebrate Sega Dreamcast&amp;#8217;s 25th birthday with new must-have merch from Limited Run](https://www.polygon.com/pre-order/449460/sega-dreamcast-25-anniversary-limited-run-merch)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
