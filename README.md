@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [James Earl Jones, the legendary voice of Darth Vader, Mufasa, and CNN, has died](https://www.pcgamer.com/movies-tv/james-earl-jones-the-legendary-voice-of-darth-vader-mufasa-and-cnn-has-died)
  - [All ‘Free Big Brother!’ bots and puzzle pieces in Astro Bot](https://www.polygon.com/astro-bot-guides/449393/free-big-brother-all-bots-puzzle-pieces-collectables-locations)
- - [All ‘Trapped In Time’ bots and puzzle pieces in Astro Bot](https://www.polygon.com/astro-bot-guides/449482/trapped-in-time-bots-puzzle-pieces-collectables-locations)
- - [The new Mobile Gaming Show will be broadcast on September 26](https://www.pcgamer.com/games/the-new-mobile-gaming-show-will-be-broadcast-on-september-26)<!-- GAME:END -->
+ - [All ‘Trapped In Time’ bots and puzzle pieces in Astro Bot](https://www.polygon.com/astro-bot-guides/449482/trapped-in-time-bots-puzzle-pieces-collectables-locations)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
