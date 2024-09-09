@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [It do be like that sometimes...](http://9gag.com/gag/a878ep6)
- - ⏩ [Nice hair bro](http://9gag.com/gag/aQzeZDW)
- - 👉 [Easy money](http://9gag.com/gag/aE0BOdo)<!-- MEMES:END -->
+ - 💣 [2024 Landlords be like:](http://9gag.com/gag/avy7drW)
+ - ⏩ [Me or this white rock?](http://9gag.com/gag/aO8B1Zy)
+ - 👉 [Run it Crysis can](http://9gag.com/gag/ae9e7yp)<!-- MEMES:END -->
 
 ---
 
