@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [In case no one has ever fully heard this poor guy&#39;s last song](http://9gag.com/gag/azxqOmb)
- - ⏩ [Easy money](http://9gag.com/gag/aE0BOdo)
- - 👉 [Confidence is key!](http://9gag.com/gag/abAz27X)<!-- MEMES:END -->
+ - 💣 [The snow outside your window!](http://9gag.com/gag/abAzQ6E)
+ - ⏩ [Cat sees his friend after a long time!](http://9gag.com/gag/a878V0Y)
+ - 👉 [A 9GAG joke crossing platforms](http://9gag.com/gag/aPA91LV)<!-- MEMES:END -->
 
 ---
 
