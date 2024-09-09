@@ -39,7 +39,7 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [It’s official: The next OnePlus flagship is coming and will launch very soon](https://www.androidauthority.com/oneplus-13-launch-october-3479749/)
+ - [It’s official: The OnePlus 13 is coming and will launch very soon](https://www.androidauthority.com/oneplus-13-launch-october-3479749/)
  - [What to expect from Apple’s ‘It’s Glowtime’ iPhone 16 event](https://www.theverge.com/2024/9/4/24232248/apple-event-september-iphone-16-date-time-live-stream-watch-how-to-rumors)
  - [The AirPods Max might finally see a refresh today after 4 long years](https://www.androidauthority.com/airpods-max-2-launch-3479747/)<!-- TECH:END -->
 
