@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [It do be like that sometimes...](http://9gag.com/gag/a878ep6)
+ - 💣 [In case no one has ever fully heard this poor guy&#39;s last song](http://9gag.com/gag/azxqOmb)
  - ⏩ [Easy money](http://9gag.com/gag/aE0BOdo)
- - 👉 [2024 Landlords be like:](http://9gag.com/gag/avy7drW)<!-- MEMES:END -->
+ - 👉 [Confidence is key!](http://9gag.com/gag/abAz27X)<!-- MEMES:END -->
 
 ---
 
