@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [How fast do neutron stars rotate](http://9gag.com/gag/a5QnGzy)
- - ⏩ [Should have sent him to the Olympics!](http://9gag.com/gag/aW4q2zZ)
- - 👉 [My momma dropped that final order...yes ma&#39;am. I am not gonna go against my mom ever...so...](http://9gag.com/gag/amo2xRy)<!-- MEMES:END -->
+ - 💣 [Month without alcohol](http://9gag.com/gag/aBy8XbA)
+ - ⏩ [Accurate](http://9gag.com/gag/aKGDYeQ)
+ - 👉 [God bless the polish border patrol](http://9gag.com/gag/aYQ4q6q)<!-- MEMES:END -->
 
 ---
 
