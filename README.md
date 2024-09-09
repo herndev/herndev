@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Blue lagoon boat tour](http://9gag.com/gag/aO8BPPv)
- - ⏩ [Exstreamly Large Alligator](http://9gag.com/gag/a6ZV2BL)
- - 👉 [A normal group dev? Blasphemy!!!](http://9gag.com/gag/aoyO4YA)<!-- MEMES:END -->
+ - 💣 [A normal group dev? Blasphemy!!!](http://9gag.com/gag/aoyO4YA)
+ - ⏩ [New fear unlocked](http://9gag.com/gag/aKGDYN1)
+ - 👉 [What do you use?](http://9gag.com/gag/a34Myom)<!-- MEMES:END -->
 
 ---
 
