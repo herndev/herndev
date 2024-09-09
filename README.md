@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone 16 launch today: Everything you need to know about the next Android flagship challenger](https://www.androidauthority.com/apple-iphone-16-3368121/)
- - [Parents concerned about students&#39; screen time in school are opting their children out of classroom tech, after working to ban smartphones in the classroom &lpar;Julie Jargon/Wall Street Journal&rpar;](http://www.techmeme.com/240908/p8#a240908p8)
- - [Samsung Galaxy Z Flip 6 problems and how to fix them](https://www.androidauthority.com/samsung-galaxy-z-flip-6-problems-fixes-3479715/)<!-- TECH:END -->
+ - [South Korea is hosting a summit in Seoul on September 9-10, seeking to establish a blueprint for the responsible military use of AI; 90+ countries are attending &lpar;Joyce Lee/Reuters&rpar;](http://www.techmeme.com/240909/p1#a240909p1)
+ - [iPhone 16 launch today: What will Apple’s next Android flagship challengers bring?](https://www.androidauthority.com/apple-iphone-16-3368121/)
+ - [Parents concerned about students&#39; screen time in school are opting their children out of classroom tech, after working to ban smartphones in the classroom &lpar;Julie Jargon/Wall Street Journal&rpar;](http://www.techmeme.com/240908/p8#a240908p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
