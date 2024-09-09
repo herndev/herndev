@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A live blog of Apple&#39;s event, where four new iPhones are expected and rumors suggest a new Apple Watch and AirPods models could be announced &lpar;The Verge&rpar;](http://www.techmeme.com/240909/p13#a240909p13)
- - [Best Apple Watch Ultra and Ultra 2 Deals: Get Money Off With Discounts and Trade-Ins](https://www.cnet.com/deals/best-apple-watch-ultra-deals/#ftag=CAD590a51e)
- - [Save $250 on this M3 MacBook Air with 16GB RAM, 512GB SSD during the Apple Event](https://appleinsider.com/articles/24/09/09/save-250-on-this-m3-macbook-air-with-16gb-ram-512gb-ssd-during-the-apple-event?utm_medium=rss)<!-- TECH:END -->
+ - [iPhone 16, iPhone 16 Plus arrive with Camera Control button and more speed](https://appleinsider.com/articles/24/09/09/camera-control-action-button-and-apple-intelligence-come-to-iphone-16-and-iphone-16-plus?utm_medium=rss)
+ - [Apple announces hearing health related features for AirPods Pro 2, including a &quot;clinical grade&quot; hearing aid mode and a clinically-validated hearing test &lpar;Benjamin Mayo/9to5Mac&rpar;](http://www.techmeme.com/240909/p19#a240909p19)
+ - [AirPods Pro 2 to be clinical grade hearing aid with update](https://appleinsider.com/articles/24/09/09/airpods-pro-2-to-be-clinical-grade-hearing-aid-with-update?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
