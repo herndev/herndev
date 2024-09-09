@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Should you buy a Switch or wait for the Switch 2?](https://www.polygon.com/24072924/buy-switch-or-switch-2)
- - [Former World of Warcraft designer calls streamlined MMO levelling a mistake: &#39;Getting to level cap should be an accomplishment, not a blip&#39;](https://www.pcgamer.com/games/mmo/former-world-of-warcraft-designer-calls-streamlined-mmo-levelling-a-mistake-getting-to-level-cap-should-be-an-accomplishment-not-a-blip)
- - [How To Become A Kessel Sabacc Pro In Star Wars Outlaws](https://kotaku.com/star-wars-outlaws-kessel-sabacc-tips-rules-shift-1851643042)<!-- GAME:END -->
+ - [Intel&#39;s next-gen Arrow Lake chips have been listed on a UK retailer website under the Core Ultra 200K branding, with specs that seem reasonable](https://www.pcgamer.com/hardware/processors/intels-next-gen-arrow-lake-chips-have-been-listed-on-a-uk-retailer-website-under-the-core-ultra-200k-branding-with-specs-that-seem-reasonable)
+ - [&#39;From the developer&#39;s standpoint, they love this strategy&#39;—AMD&#39;s plan to merge its RDNA and CDNA GPU architectures to a unified system called UDNA](https://www.pcgamer.com/hardware/graphics-cards/from-the-developers-standpoint-they-love-this-strategyamds-plan-to-merge-its-rdna-and-cdna-gpu-architectures-to-a-unified-system-called-udna)
+ - [PSA: The Bloodborne DLC Soundtrack Is Now Available On Spotify](https://kotaku.com/bloodborne-old-hunters-spotify-soundtrack-playstation-1851643316)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
