@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Flagship showdown -- iPhone 16 Pro vs iPhone 15 Pro features compared](https://appleinsider.com/inside/iphone-16/vs/flagship-showdown----iphone-16-pro-vs-iphone-15-pro-features-compared?utm_medium=rss)
- - [Apple’s new MagSafe charger gets Qi2, but Apple’s tech still charges faster](https://www.androidauthority.com/apple-qi2-wireless-charging-3480242/)
- - [Save $400 on the awesome Narwal Freo X Ultra robot vacuum and mop](https://www.androidauthority.com/narwal-freo-x-ultra-deal-3-3480213/)<!-- TECH:END -->
+ - [iPhone 16 vs Galaxy S24: Which should you buy?](https://www.androidauthority.com/iphone-16-vs-galaxy-s24-3480081/)
+ - [The FBI says that losses from crypto-related frauds increased 45% YoY to $5.6B in 2023, with losses from investment scams accounting for 71% of the total &lpar;Hannah Lang/Reuters&rpar;](http://www.techmeme.com/240909/p34#a240909p34)
+ - [A complete guide to all of Apple&#39;s new bands for the Apple Watches](https://appleinsider.com/articles/24/09/09/a-complete-guide-to-all-of-apples-new-bands-for-the-apple-watches?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
