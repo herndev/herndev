@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [2024 Landlords be like:](http://9gag.com/gag/avy7drW)
- - ⏩ [Me or this white rock?](http://9gag.com/gag/aO8B1Zy)
- - 👉 [Run it Crysis can](http://9gag.com/gag/ae9e7yp)<!-- MEMES:END -->
+ - 💣 [-Help me, gymbro!](http://9gag.com/gag/a7oDpB2)
+ - ⏩ [My momma dropped that final order...yes ma&#39;am. I am not gonna go against my mom ever...so...](http://9gag.com/gag/amo2xRy)
+ - 👉 [Easy money](http://9gag.com/gag/aE0BOdo)<!-- MEMES:END -->
 
 ---
 
