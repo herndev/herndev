@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [South Korea is hosting a summit in Seoul on September 9-10, seeking to establish a blueprint for the responsible military use of AI; 90+ countries are attending &lpar;Joyce Lee/Reuters&rpar;](http://www.techmeme.com/240909/p1#a240909p1)
- - [iPhone 16 launch today: What will Apple’s next Android flagship challengers bring?](https://www.androidauthority.com/apple-iphone-16-3368121/)
- - [Parents concerned about students&#39; screen time in school are opting their children out of classroom tech, after working to ban smartphones in the classroom &lpar;Julie Jargon/Wall Street Journal&rpar;](http://www.techmeme.com/240908/p8#a240908p8)<!-- TECH:END -->
+ - [Glowtime: One of Apple’s flagship devices may be a no-show at the event](https://www.androidauthority.com/apple-watch-ultra-3-launch-canceled-3479734/)
+ - [Australia-based SafetyCulture, which offers a suite of risk management tools, raised AU$165M led by Airtree at a AU$2.5B valuation, down from AU$2.7B in 2023 &lpar;David Adams/SmartCompany&rpar;](http://www.techmeme.com/240909/p2#a240909p2)
+ - [South Korea is hosting a summit in Seoul on September 9-10, seeking to establish a blueprint for the responsible military use of AI; 90+ countries are attending &lpar;Joyce Lee/Reuters&rpar;](http://www.techmeme.com/240909/p1#a240909p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
