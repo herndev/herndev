@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone 16, iPhone 16 Plus arrive with Camera Control button and more speed](https://appleinsider.com/articles/24/09/09/camera-control-action-button-and-apple-intelligence-come-to-iphone-16-and-iphone-16-plus?utm_medium=rss)
- - [Apple announces hearing health related features for AirPods Pro 2, including a &quot;clinical grade&quot; hearing aid mode and a clinically-validated hearing test &lpar;Benjamin Mayo/9to5Mac&rpar;](http://www.techmeme.com/240909/p19#a240909p19)
- - [AirPods Pro 2 to be clinical grade hearing aid with update](https://appleinsider.com/articles/24/09/09/airpods-pro-2-to-be-clinical-grade-hearing-aid-with-update?utm_medium=rss)<!-- TECH:END -->
+ - [Apple’s iPhone 16 event: the 8 biggest announcements](https://www.theverge.com/24239739/apple-iphone-16-event-announcements-watch-series-10-airpods)
+ - [Keep your new iPhone 16 completely safe with ESR’s protective cases and screen protector](https://www.androidauthority.com/esr-iphone-16-cases-screen-protector-3479720/)
+ - [iPhone 16 Pro gets bigger and better with improved cameras and Apple Intelligence](https://appleinsider.com/articles/24/09/09/apples-new-iphone-16-pro-and-pro-max-are-bigger-and-better?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
