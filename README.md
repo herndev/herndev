@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Four Years In, Sony Is Making PS5 Controllers More Expensive](https://kotaku.com/ps5-dualsense-price-hike-colors-pro-reveal-1851643092)
- - [GOTY Contender Astro Bot Has A Whole Heap Of Secret Exits You Likely Missed](https://kotaku.com/astro-bot-secret-exits-bonus-levels-guide-1851643005)
- - [The 36 best movies on Netflix right now](https://www.polygon.com/21266801/best-movies-on-netflix)<!-- GAME:END -->
+ - [Should you buy a Switch or wait for the Switch 2?](https://www.polygon.com/24072924/buy-switch-or-switch-2)
+ - [Former World of Warcraft designer calls streamlined MMO levelling a mistake: &#39;Getting to level cap should be an accomplishment, not a blip&#39;](https://www.pcgamer.com/games/mmo/former-world-of-warcraft-designer-calls-streamlined-mmo-levelling-a-mistake-getting-to-level-cap-should-be-an-accomplishment-not-a-blip)
+ - [How To Become A Kessel Sabacc Pro In Star Wars Outlaws](https://kotaku.com/star-wars-outlaws-kessel-sabacc-tips-rules-shift-1851643042)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
