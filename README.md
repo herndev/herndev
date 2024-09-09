@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Ubisoft Is Fixing Those Early, Annoying Star Wars Outlaws Stealth Missions](https://kotaku.com/star-wars-outlaws-stealth-sneaking-hard-fail-update-ps5-1851643400)
- - [I queued for a Final Fantasy 14 boss fight in real life and it was shockingly similar to doing it from the comfort of my PC](https://www.pcgamer.com/games/mmo/i-queued-for-a-final-fantasy-14-boss-fight-in-real-life-and-it-was-shockingly-similar-to-doing-it-from-the-comfort-of-my-pc)
- - [Fortnite Now Lets You Turn Into Doctor Doom, With All His Powers](https://kotaku.com/fortnite-doctor-doom-cauldron-guide-1851643406)<!-- GAME:END -->
+ - [Astro Bot Has An Amazing Uncharted Level, With A Bunch Of Secret Eggs](https://kotaku.com/astro-bot-has-an-amazing-uncharted-level-with-a-bunch-1851643485)
+ - [Literal rock star tells Rockstar &#39;go f*** yourself&#39; over measly GTA 6 offer](https://www.pcgamer.com/games/grand-theft-auto/literal-rock-star-tells-rockstar-go-f-yourself-over-measly-gta-6-offer)
+ - [Bungie Outlines 4 Major Changes For The Future Of Destiny 2](https://kotaku.com/destiny-2-codename-frontiers-loot-expansions-free-1851643541)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
