@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The best Space Marine 2 weapons and how to upgrade them](https://www.pcgamer.com/games/third-person-shooter/space-marine-2-best-weapons-tier-list)
- - [Space Marine 2 classes explained and best class overall](https://www.pcgamer.com/games/third-person-shooter/space-marine-2-classes-best-class)
- - [10 Space Marine 2 tips to turn yourself into a flawless killing machine](https://www.pcgamer.com/games/third-person-shooter/space-marine-2-tips-and-tricks)<!-- GAME:END -->
+ - [&#39;I don’t want AMD to be the company that only people who can afford Porsches and Ferraris can buy&#39;: AMD&#39;s Jack Huyhn says being &#39;King of the Hill&#39; isn&#39;t the priority for its next-gen GPUs](https://www.pcgamer.com/hardware/graphics-cards/i-dont-want-amd-to-be-the-company-that-only-people-who-can-afford-porsches-and-ferraris-can-buy-amds-jack-huynh-says-being-king-of-the-hill-isnt-the-priority-for-its-next-gen-gpus)
+ - [The world&#39;s worst GPU can now be yours for a mere $1,024 in the form of a &#39;luxury purse&#39;](https://www.pcgamer.com/hardware/graphics-cards/the-worlds-worst-gpu-can-now-be-yours-for-a-mere-dollar1024-in-the-form-of-a-luxury-purse)
+ - [The best Space Marine 2 weapons and how to upgrade them](https://www.pcgamer.com/games/third-person-shooter/space-marine-2-best-weapons-tier-list)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
