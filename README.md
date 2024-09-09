@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Month without alcohol](http://9gag.com/gag/aBy8XbA)
- - ⏩ [If you look closely, you can see that the dinosaurs aren\u2019t real although we need a Scottish rendition of Jurassic Park.](http://9gag.com/gag/a5Qn20L)
- - 👉 [Accurate](http://9gag.com/gag/aKGDYeQ)<!-- MEMES:END -->
+ - 💣 [This is how all cops should be in US](http://9gag.com/gag/azxqR0z)
+ - ⏩ [My momma dropped that final order...yes ma&#39;am. I am not gonna go against my mom ever...so...](http://9gag.com/gag/amo2xRy)
+ - 👉 [Flying 332 Feet in a hot wheels truck for world record jump](http://9gag.com/gag/apRQ699)<!-- MEMES:END -->
 
 ---
 
