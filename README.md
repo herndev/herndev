@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [-Help me, gymbro!](http://9gag.com/gag/a7oDpB2)
- - ⏩ [My momma dropped that final order...yes ma&#39;am. I am not gonna go against my mom ever...so...](http://9gag.com/gag/amo2xRy)
- - 👉 [Easy money](http://9gag.com/gag/aE0BOdo)<!-- MEMES:END -->
+ - 💣 [It do be like that sometimes...](http://9gag.com/gag/a878ep6)
+ - ⏩ [Easy money](http://9gag.com/gag/aE0BOdo)
+ - 👉 [2024 Landlords be like:](http://9gag.com/gag/avy7drW)<!-- MEMES:END -->
 
 ---
 
