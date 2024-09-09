@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Forests, ice, deserts, lava\u2026](http://9gag.com/gag/agmYxNK)
- - ⏩ [He&#39;s one-sixteenth Irish](http://9gag.com/gag/aD2zZ49)
- - 👉 [It do be like that sometimes...](http://9gag.com/gag/a878ep6)<!-- MEMES:END -->
+ - 💣 [My momma dropped that final order...yes ma&#39;am. I am not gonna go against my mom ever...so...](http://9gag.com/gag/amo2xRy)
+ - ⏩ [Nice hair bro](http://9gag.com/gag/aQzeZDW)
+ - 👉 [3 set of \u201chow you like that\u201d](http://9gag.com/gag/an7jv5n)<!-- MEMES:END -->
 
 ---
 
