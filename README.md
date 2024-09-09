@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Nice hair bro](http://9gag.com/gag/aQzeZDW)
- - ⏩ [Raygun brought breakdancing to the masses, like literally!](http://9gag.com/gag/awyQOp1)
- - 👉 [2024 Landlords be like:](http://9gag.com/gag/avy7drW)<!-- MEMES:END -->
+ - 💣 [It do be like that sometimes...](http://9gag.com/gag/a878ep6)
+ - ⏩ [Nice hair bro](http://9gag.com/gag/aQzeZDW)
+ - 👉 [Easy money](http://9gag.com/gag/aE0BOdo)<!-- MEMES:END -->
 
 ---
 
