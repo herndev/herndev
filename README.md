@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Intel&#39;s next-gen Arrow Lake chips have been listed on a UK retailer website under the Core Ultra 200K branding, with specs that seem reasonable](https://www.pcgamer.com/hardware/processors/intels-next-gen-arrow-lake-chips-have-been-listed-on-a-uk-retailer-website-under-the-core-ultra-200k-branding-with-specs-that-seem-reasonable)
- - [&#39;From the developer&#39;s standpoint, they love this strategy&#39;—AMD&#39;s plan to merge its RDNA and CDNA GPU architectures to a unified system called UDNA](https://www.pcgamer.com/hardware/graphics-cards/from-the-developers-standpoint-they-love-this-strategyamds-plan-to-merge-its-rdna-and-cdna-gpu-architectures-to-a-unified-system-called-udna)
- - [PSA: The Bloodborne DLC Soundtrack Is Now Available On Spotify](https://kotaku.com/bloodborne-old-hunters-spotify-soundtrack-playstation-1851643316)<!-- GAME:END -->
+ - [Ubisoft Is Fixing Those Early, Annoying Star Wars Outlaws Stealth Missions](https://kotaku.com/star-wars-outlaws-stealth-sneaking-hard-fail-update-ps5-1851643400)
+ - [I queued for a Final Fantasy 14 boss fight in real life and it was shockingly similar to doing it from the comfort of my PC](https://www.pcgamer.com/games/mmo/i-queued-for-a-final-fantasy-14-boss-fight-in-real-life-and-it-was-shockingly-similar-to-doing-it-from-the-comfort-of-my-pc)
+ - [Fortnite Now Lets You Turn Into Doctor Doom, With All His Powers](https://kotaku.com/fortnite-doctor-doom-cauldron-guide-1851643406)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
