@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Black Apple Watch Ultra could be launched at Apple&#39;s Glowtime event](https://appleinsider.com/articles/24/09/09/black-apple-watch-ultra-could-be-launched-at-apples-glowtime-event?utm_medium=rss)
- - [New AirPods Max predicted for Apple&#39;s iPhone 16 launch](https://appleinsider.com/articles/24/09/09/new-airpods-max-predicted-for-apples-iphone-16-launch?utm_medium=rss)
- - [Best T-Mobile Phones for 2024](https://www.cnet.com/tech/mobile/best-t-mobile-phones/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Pixel 10 wishlist: All the features I want to see](https://www.androidauthority.com/google-pixel-10-3470386/)
+ - [Skype co-founder Niklas Zennstr&amp;ouml;m&#39;s Atomico raised $1.24B, including a $754M growth-stage fund and a $485M early stage fund &lpar;Ryan Browne/CNBC&rpar;](http://www.techmeme.com/240909/p5#a240909p5)
+ - [What You Need to Know About Grok AI and Your Privacy](https://www.wired.com/story/grok-ai-privacy-opt-out/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
