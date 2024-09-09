@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [It’s official: The OnePlus 13 is coming and will launch very soon](https://www.androidauthority.com/oneplus-13-launch-october-3479749/)
- - [What to expect from Apple’s ‘It’s Glowtime’ iPhone 16 event](https://www.theverge.com/2024/9/4/24232248/apple-event-september-iphone-16-date-time-live-stream-watch-how-to-rumors)
- - [The AirPods Max might finally see a refresh today after 4 long years](https://www.androidauthority.com/airpods-max-2-launch-3479747/)<!-- TECH:END -->
+ - [The Samsung Galaxy S25 Ultra could gain another big camera upgrade](https://www.androidauthority.com/samsung-galaxy-s25-ultra-ultrawide-camera-3479772/)
+ - [I got hate for not using the S Pen on my Galaxy S24 Ultra, so I used it for a few weeks](https://www.androidauthority.com/s-pen-features-3478670/)
+ - [An interview with Iconiq Capital&#39;s Matthew Jacobson on the firm&#39;s focus on M&amp;A and secondary markets, investing in startups creating AI &quot;applications&quot;, and more &lpar;George Hammond/Financial Times&rpar;](http://www.techmeme.com/240909/p3#a240909p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
