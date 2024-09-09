@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Baldur&#39;s Gate 3&#39;s latest patch is not the final update, Larian says: &#39;The chefs must cook&#39;](https://www.pcgamer.com/games/rpg/baldurs-gate-3s-latest-patch-is-not-the-final-update-larian-says-the-chefs-must-cook)
- - [Once Human dev says some recent player feedback &#39;has been quite demoralizing&#39;](https://www.pcgamer.com/games/survival-crafting/once-human-devs-says-some-recent-player-feedback-has-been-quite-demoralizing)
- - [The Boy and the Heron, Twilight of the Warriors, Netflix’s Rebel Ridge, and every movie new to streaming this week](https://www.polygon.com/entertainment/445767/new-movies-boy-and-the-heron-netflix-rebel-ridge-twilight-of-the-warriors-watch-streaming)<!-- GAME:END -->
+ - [I was always mod-skeptical with Baldur&#39;s Gate 3, but being able to install them with one click has completely changed my mind](https://www.pcgamer.com/games/baldurs-gate/i-was-always-mod-skeptical-with-baldur-s-gate-3-but-being-able-to-install-them-with-one-click-has-completely-changed-my-mind)
+ - [What time does Honkai: Star Rail 2.5 release?](https://www.polygon.com/honkai-star-rail-guides/448932/patch-2-5-release-time-maintenance-end)
+ - [Stealth strategy takes a particularly demonic bent with this game of commando scientists vs Nazi occultists](https://www.pcgamer.com/games/stealth-strategy-takes-a-particularly-demonic-bent-with-this-game-of-commando-scientists-vs-nazi-occultists)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
