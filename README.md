@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Astro Bot Has An Amazing Uncharted Level, With A Bunch Of Secret Eggs](https://kotaku.com/astro-bot-has-an-amazing-uncharted-level-with-a-bunch-1851643485)
- - [Literal rock star tells Rockstar &#39;go f*** yourself&#39; over measly GTA 6 offer](https://www.pcgamer.com/games/grand-theft-auto/literal-rock-star-tells-rockstar-go-f-yourself-over-measly-gta-6-offer)
- - [Bungie Outlines 4 Major Changes For The Future Of Destiny 2](https://kotaku.com/destiny-2-codename-frontiers-loot-expansions-free-1851643541)<!-- GAME:END -->
+ - [Destiny 2 roadmap shows major changes to the game’s usual schedule](https://www.polygon.com/destiny/449464/destiny-2-roadmap-codename-frontiers-behemoth-apollo-expansions)
+ - [Destiny 2 is abandoning big annual expansions and linear campaigns in favour of more frequent releases that are &#39;mysterious, weird, and not afraid to try new things&#39;](https://www.pcgamer.com/games/fps/destiny-2-is-abandoning-big-annual-expansions-and-linear-campaigns-in-favour-of-more-frequent-releases-that-are-mysterious-weird-and-not-afraid-to-try-new-things)
+ - [Astro Bot Has An Amazing Uncharted Level, With A Bunch Of Secret Eggs](https://kotaku.com/astro-bot-has-an-amazing-uncharted-level-with-a-bunch-1851643485)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
