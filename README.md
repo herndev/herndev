@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Month without alcohol](http://9gag.com/gag/aBy8XbA)
- - ⏩ [Accurate](http://9gag.com/gag/aKGDYeQ)
- - 👉 [God bless the polish border patrol](http://9gag.com/gag/aYQ4q6q)<!-- MEMES:END -->
+ - 💣 [I guess it pays to be him](http://9gag.com/gag/a6ZVBGb)
+ - ⏩ [2024 Landlords be like:](http://9gag.com/gag/avy7drW)
+ - 👉 [In 1719, John Law decided to offer prisoners in Paris something they could not refuse. He offered them their freedom as long as they were willing to marry a prostitute and head off to Louisiana.](http://9gag.com/gag/azxqK3j)<!-- MEMES:END -->
 
 ---
 
