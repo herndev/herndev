@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This is how all cops should be in US](http://9gag.com/gag/azxqR0z)
- - ⏩ [A normal group dev? Blasphemy!!!](http://9gag.com/gag/aoyO4YA)
- - 👉 [Nice hair bro](http://9gag.com/gag/aQzeZDW)<!-- MEMES:END -->
+ - 💣 [Nice hair bro](http://9gag.com/gag/aQzeZDW)
+ - ⏩ [Raygun brought breakdancing to the masses, like literally!](http://9gag.com/gag/awyQOp1)
+ - 👉 [2024 Landlords be like:](http://9gag.com/gag/avy7drW)<!-- MEMES:END -->
 
 ---
 
