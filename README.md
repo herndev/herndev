@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Nice hair bro](http://9gag.com/gag/aQzeZDW)
- - ⏩ [New fear unlocked](http://9gag.com/gag/aKGDYN1)
- - 👉 [NEW FEAR UNLOCKED INDEED](http://9gag.com/gag/a1mKEND)<!-- MEMES:END -->
+ - 💣 [This is how all cops should be in US](http://9gag.com/gag/azxqR0z)
+ - ⏩ [A normal group dev? Blasphemy!!!](http://9gag.com/gag/aoyO4YA)
+ - 👉 [Nice hair bro](http://9gag.com/gag/aQzeZDW)<!-- MEMES:END -->
 
 ---
 
