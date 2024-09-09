@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Examples of types of blindness](http://9gag.com/gag/aVvMgzP)
- - ⏩ [Thinking outside the box](http://9gag.com/gag/avy7eGq)
- - 👉 [Let them know](http://9gag.com/gag/aW4qgDA)<!-- MEMES:END -->
+ - 💣 [Meanwhile in Nederland](http://9gag.com/gag/avy7RVq)
+ - ⏩ [If you look closely, you can see that the dinosaurs aren\u2019t real although we need a Scottish rendition of Jurassic Park.](http://9gag.com/gag/a5Qn20L)
+ - 👉 [Accurate](http://9gag.com/gag/aKGDYeQ)<!-- MEMES:END -->
 
 ---
 
