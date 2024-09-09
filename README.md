@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Samsung Galaxy S25 Ultra could gain another big camera upgrade](https://www.androidauthority.com/samsung-galaxy-s25-ultra-ultrawide-camera-3479772/)
- - [I got hate for not using the S Pen on my Galaxy S24 Ultra, so I used it for a few weeks](https://www.androidauthority.com/s-pen-features-3478670/)
- - [An interview with Iconiq Capital&#39;s Matthew Jacobson on the firm&#39;s focus on M&amp;A and secondary markets, investing in startups creating AI &quot;applications&quot;, and more &lpar;George Hammond/Financial Times&rpar;](http://www.techmeme.com/240909/p3#a240909p3)<!-- TECH:END -->
+ - [Black Apple Watch Ultra could be launched at Apple&#39;s Glowtime event](https://appleinsider.com/articles/24/09/09/black-apple-watch-ultra-could-be-launched-at-apples-glowtime-event?utm_medium=rss)
+ - [New AirPods Max predicted for Apple&#39;s iPhone 16 launch](https://appleinsider.com/articles/24/09/09/new-airpods-max-predicted-for-apples-iphone-16-launch?utm_medium=rss)
+ - [Best T-Mobile Phones for 2024](https://www.cnet.com/tech/mobile/best-t-mobile-phones/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
