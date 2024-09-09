@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Pixel 10 wishlist: All the features I want to see](https://www.androidauthority.com/google-pixel-10-3470386/)
- - [Skype co-founder Niklas Zennstr&amp;ouml;m&#39;s Atomico raised $1.24B, including a $754M growth-stage fund and a $485M early stage fund &lpar;Ryan Browne/CNBC&rpar;](http://www.techmeme.com/240909/p5#a240909p5)
- - [What You Need to Know About Grok AI and Your Privacy](https://www.wired.com/story/grok-ai-privacy-opt-out/)<!-- TECH:END -->
+ - [Apple Intelligence&#39;s Image Playground, Genmoji delayed until iOS 18.2](https://appleinsider.com/articles/24/09/08/apple-intelligences-image-playground-genmoji-to-wait-until-ios-182?utm_medium=rss)
+ - [New AirPods Max predicted for Apple&#39;s iPhone 16 launch](https://appleinsider.com/articles/24/09/09/new-airpods-max-predicted-for-apples-iphone-16-launch?utm_medium=rss)
+ - [Apple Store shuts down ahead of iPhone 16 launch event](https://appleinsider.com/articles/24/09/09/apple-store-shuts-down-ahead-of-iphone-16-launch-event?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
