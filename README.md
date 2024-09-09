@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [My momma dropped that final order...yes ma&#39;am. I am not gonna go against my mom ever...so...](http://9gag.com/gag/amo2xRy)
+ - 💣 [Raygun brought breakdancing to the masses, like literally!](http://9gag.com/gag/awyQOp1)
  - ⏩ [Nice hair bro](http://9gag.com/gag/aQzeZDW)
- - 👉 [3 set of \u201chow you like that\u201d](http://9gag.com/gag/an7jv5n)<!-- MEMES:END -->
+ - 👉 [Imma watch it them](http://9gag.com/gag/a1mKEe2)<!-- MEMES:END -->
 
 ---
 
