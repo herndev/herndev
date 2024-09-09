@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Boeing Starliner’s strange test flight is finally returning to Earth, but it’s empty](https://www.theverge.com/24237936/boeing-starliner-crewed-flight-test-return-astronauts-stuck-on-iss)
- - [Here’s how Android 15 blocks thieves from bypassing factory reset protection](https://www.androidauthority.com/android-15-factory-reset-protection-upgrades-3479431/)
- - [Boeing Starliner Returns Home to an Uncertain Future](https://www.wired.com/story/boeing-starliner-return-nasa-contract/)<!-- TECH:END -->
+ - [How to Watch Rams vs. Lions Tonight on Sunday Night Football](https://www.cnet.com/tech/services-and-software/how-to-watch-rams-vs-lions-tonight-on-sunday-night-football/#ftag=CAD590a51e)
+ - [Kendrick Lamar to headline Apple&#39;s 2025 Super Bowl half-time show](https://appleinsider.com/articles/24/09/08/kendrick-lamar-to-headline-apples-2025-super-bowl-half-time-show?utm_medium=rss)
+ - [Grab a 16% cash bonus for your used iPhone or Apple Watch](https://appleinsider.com/articles/24/09/08/grab-a-16-cash-bonus-for-your-used-iphone-or-apple-watch?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
