@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The snow outside your window!](http://9gag.com/gag/abAzQ6E)
- - ⏩ [Cat sees his friend after a long time!](http://9gag.com/gag/a878V0Y)
- - 👉 [A 9GAG joke crossing platforms](http://9gag.com/gag/aPA91LV)<!-- MEMES:END -->
+ - 💣 [This guy who worked at 7-11 for FIFTY YEARS got nothing aside from an e-mail as a reward.](http://9gag.com/gag/ary5245)
+ - ⏩ [Women aren&#39;t gold diggers](http://9gag.com/gag/aPA91MP)
+ - 👉 [Update. I&#39;ve now lost 112kg. For me, it took surgeries, hard work, and more surgeries. But it&#39;s all actually possible. Now mock me, you beautiful c*nts.](http://9gag.com/gag/aRBjopq)<!-- MEMES:END -->
 
 ---
 
