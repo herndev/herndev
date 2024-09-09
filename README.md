@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle answer for Monday, September 9](https://www.pcgamer.com/games/puzzle/wordle-answer-today-september-9-2024)
  - [Five new Steam games you probably missed &lpar;September 9, 2024&rpar;](https://www.pcgamer.com/software/platforms/five-new-steam-games-you-probably-missed-september-9-2024)
- - [This horny cyberpunk vampire RPG has already hit its goal on Kickstarter](https://www.pcgamer.com/games/rpg/this-horny-cyberpunk-vampire-rpg-has-already-hit-its-goal-on-kickstarter)
- - [I was always mod-skeptical with Baldur&#39;s Gate 3, but being able to install them with one click has completely changed my mind](https://www.pcgamer.com/games/baldurs-gate/i-was-always-mod-skeptical-with-baldur-s-gate-3-but-being-able-to-install-them-with-one-click-has-completely-changed-my-mind)<!-- GAME:END -->
+ - [This horny cyberpunk vampire RPG has already hit its goal on Kickstarter](https://www.pcgamer.com/games/rpg/this-horny-cyberpunk-vampire-rpg-has-already-hit-its-goal-on-kickstarter)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
