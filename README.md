@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [This horny cyberpunk vampire RPG has already hit its goal on Kickstarter](https://www.pcgamer.com/games/rpg/this-horny-cyberpunk-vampire-rpg-has-already-hit-its-goal-on-kickstarter)
  - [I was always mod-skeptical with Baldur&#39;s Gate 3, but being able to install them with one click has completely changed my mind](https://www.pcgamer.com/games/baldurs-gate/i-was-always-mod-skeptical-with-baldur-s-gate-3-but-being-able-to-install-them-with-one-click-has-completely-changed-my-mind)
- - [What time does Honkai: Star Rail 2.5 release?](https://www.polygon.com/honkai-star-rail-guides/448932/patch-2-5-release-time-maintenance-end)
- - [Stealth strategy takes a particularly demonic bent with this game of commando scientists vs Nazi occultists](https://www.pcgamer.com/games/stealth-strategy-takes-a-particularly-demonic-bent-with-this-game-of-commando-scientists-vs-nazi-occultists)<!-- GAME:END -->
+ - [What time does Honkai: Star Rail 2.5 release?](https://www.polygon.com/honkai-star-rail-guides/448932/patch-2-5-release-time-maintenance-end)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
