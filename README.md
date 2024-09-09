@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [`Tax the rich` explained](http://9gag.com/gag/agmYEgw)
- - ⏩ [Should have sent him to the Olympics!](http://9gag.com/gag/aW4q2zZ)
- - 👉 [We should follow Nigeria](http://9gag.com/gag/a9yA2q0)<!-- MEMES:END -->
+ - 💣 [This is how all cops should be in US](http://9gag.com/gag/azxqR0z)
+ - ⏩ [New fear unlocked](http://9gag.com/gag/aKGDYN1)
+ - 👉 [Imma watch it them](http://9gag.com/gag/a1mKEe2)<!-- MEMES:END -->
 
 ---
 
