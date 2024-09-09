@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple’s iPhone 16 event: the 8 biggest announcements](https://www.theverge.com/24239739/apple-iphone-16-event-announcements-watch-series-10-airpods)
- - [Keep your new iPhone 16 completely safe with ESR’s protective cases and screen protector](https://www.androidauthority.com/esr-iphone-16-cases-screen-protector-3479720/)
- - [iPhone 16 Pro gets bigger and better with improved cameras and Apple Intelligence](https://appleinsider.com/articles/24/09/09/apples-new-iphone-16-pro-and-pro-max-are-bigger-and-better?utm_medium=rss)<!-- TECH:END -->
+ - [iPhone 16 Pro, Pro Max hands-on: despite larger displays, they don&#39;t feel that much bigger, helped by thin bezels; the Camera Control button is ultra sensitive &lpar;The Verge&rpar;](http://www.techmeme.com/240909/p26#a240909p26)
+ - [Everything Apple Announced Today: iPhone 16, Apple Watch Series 10, New AirPods](https://www.wired.com/story/everything-apple-announced-iphone-16-apple-watch-series-10-new-airpods/)
+ - [macOS Sequoia announced for September 16](https://appleinsider.com/articles/24/09/09/macos-sequoia-announced-for-september-16?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
