@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This is how all cops should be in US](http://9gag.com/gag/azxqR0z)
- - ⏩ [New fear unlocked](http://9gag.com/gag/aKGDYN1)
- - 👉 [Imma watch it them](http://9gag.com/gag/a1mKEe2)<!-- MEMES:END -->
+ - 💣 [Blue lagoon boat tour](http://9gag.com/gag/aO8BPPv)
+ - ⏩ [Exstreamly Large Alligator](http://9gag.com/gag/a6ZV2BL)
+ - 👉 [A normal group dev? Blasphemy!!!](http://9gag.com/gag/aoyO4YA)<!-- MEMES:END -->
 
 ---
 
