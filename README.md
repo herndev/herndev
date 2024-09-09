@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone 16 Pro, Pro Max hands-on: despite larger displays, they don&#39;t feel that much bigger, helped by thin bezels; the Camera Control button is ultra sensitive &lpar;The Verge&rpar;](http://www.techmeme.com/240909/p26#a240909p26)
- - [Everything Apple Announced Today: iPhone 16, Apple Watch Series 10, New AirPods](https://www.wired.com/story/everything-apple-announced-iphone-16-apple-watch-series-10-new-airpods/)
- - [macOS Sequoia announced for September 16](https://appleinsider.com/articles/24/09/09/macos-sequoia-announced-for-september-16?utm_medium=rss)<!-- TECH:END -->
+ - [iOS 18 will launch next week with new ways to customize your home screen](https://www.theverge.com/2024/9/9/24240230/ios-18-release-date-iphone-16)
+ - [Apple has a bunch of new iPhone 16 &amp; iPhone 16 Pro cases](https://appleinsider.com/articles/24/09/09/apple-has-a-bunch-of-new-iphone-16-iphone-16-pro-cases?utm_medium=rss)
+ - [AMD is turning its back on flagship gaming GPUs — to chase AI first](https://www.theverge.com/2024/9/9/24240173/amd-udna-gpu-ai-gaming-rdna-cdna-jack-huynh)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
