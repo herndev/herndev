@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Raygun brought breakdancing to the masses, like literally!](http://9gag.com/gag/awyQOp1)
- - ⏩ [Nice hair bro](http://9gag.com/gag/aQzeZDW)
- - 👉 [Imma watch it them](http://9gag.com/gag/a1mKEe2)<!-- MEMES:END -->
+ - 💣 [`Tax the rich` explained](http://9gag.com/gag/agmYEgw)
+ - ⏩ [Should have sent him to the Olympics!](http://9gag.com/gag/aW4q2zZ)
+ - 👉 [We should follow Nigeria](http://9gag.com/gag/a9yA2q0)<!-- MEMES:END -->
 
 ---
 
