@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google’s Android Search widget is getting supercharged with new shortcuts](https://www.androidauthority.com/google-search-widget-shortcut-3479864/)
- - [IFA smart home news, Thread &amp; Bluetooth updates &amp; more on HomeKit Insider](https://appleinsider.com/articles/24/09/09/ifa-smart-home-news-thread-bluetooth-updates-more-on-homekit-insider?utm_medium=rss)
- - [Audible plans to invite some US-based audiobook narrators to train AI on their voices, to clone the voices for recordings through a royalty-sharing model &lpar;Ashley Carman/Bloomberg&rpar;](http://www.techmeme.com/240909/p9#a240909p9)<!-- TECH:END -->
+ - [Source: Sequoia Capital completed its $861M purchase of Stripe shares from Sequoia limited partners last week; Stripe didn&#39;t receive any proceeds &lpar;Dan Primack/Axios&rpar;](http://www.techmeme.com/240909/p10#a240909p10)
+ - [The Observatory is Apple Park&#39;s picturesque new event space](https://appleinsider.com/articles/24/09/09/the-observatory-is-apple-parks-picturesque-new-event-space?utm_medium=rss)
+ - [IFA 2024: The best smart home, Find My, and Qi2 devices to debut](https://appleinsider.com/articles/24/09/09/ifa-2024-the-best-smart-home-find-my-and-qi2-devices-to-debut?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
