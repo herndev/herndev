@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Astro Bot: How Team Asobi created a unified vision for fun](https://blog.playstation.com/2024/09/09/astro-bot-how-team-asobi-created-a-unified-vision-for-fun/)
- - [Nintendo’s new Mario Party makes a great first impression](https://www.polygon.com/preview/448976/super-mario-party-jamboree-gameplay-impressions)
- - [FF14&#39;s Solo Only streamer plots and grinds for 85 days to topple Susano, a boss with a 14-second countdown to an unavoidable death when fought alone—and comes out on top](https://www.pcgamer.com/games/final-fantasy/ff14-s-solo-only-streamer-plots-and-grinds-for-85-days-to-topple-susano-a-boss-with-a-14-second-countdown-to-an-unavoidable-death-on-his-own-and-comes-out-on-top)<!-- GAME:END -->
+ - [Four Years In, Sony Is Making PS5 Controllers More Expensive](https://kotaku.com/ps5-dualsense-price-hike-colors-pro-reveal-1851643092)
+ - [GOTY Contender Astro Bot Has A Whole Heap Of Secret Exits You Likely Missed](https://kotaku.com/astro-bot-secret-exits-bonus-levels-guide-1851643005)
+ - [The 36 best movies on Netflix right now](https://www.polygon.com/21266801/best-movies-on-netflix)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
