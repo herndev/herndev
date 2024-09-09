@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Destiny 2 roadmap shows major changes to the game’s usual schedule](https://www.polygon.com/destiny/449464/destiny-2-roadmap-codename-frontiers-behemoth-apollo-expansions)
- - [Destiny 2 is abandoning big annual expansions and linear campaigns in favour of more frequent releases that are &#39;mysterious, weird, and not afraid to try new things&#39;](https://www.pcgamer.com/games/fps/destiny-2-is-abandoning-big-annual-expansions-and-linear-campaigns-in-favour-of-more-frequent-releases-that-are-mysterious-weird-and-not-afraid-to-try-new-things)
- - [Astro Bot Has An Amazing Uncharted Level, With A Bunch Of Secret Eggs](https://kotaku.com/astro-bot-has-an-amazing-uncharted-level-with-a-bunch-1851643485)<!-- GAME:END -->
+ - [World Of Warcraft: The War Within: The Kotaku Review](https://kotaku.com/wow-war-within-review-expansion-is-it-good-1851643832)
+ - [Sony Reveals Surprise 9-Minute Tech Showcase For What Sounds Like A PS5 Pro [Update: Yup]](https://kotaku.com/ps5-pro-sony-showcase-mark-cerny-price-release-date-1851643308)
+ - [Funko Fusion&#39;s Mecha Colonel Sanders Is Locked Behind A $25 Chicken Paywall](https://kotaku.com/funko-fusion-colonel-sanders-pop-reward-how-to-unlock-1851643794)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
