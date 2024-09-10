@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Pixel Watch 3 review: third time’s the charm](https://www.theverge.com/24239115/google-pixel-watch-3-review-smartwatch-wear-os-wearable)
- - [Here are all the iPhone models you can pick from right now](https://www.androidauthority.com/all-iphone-models-2024-3480450/)
- - [Motorola’s first phone with 5 years of Android OS updates isn’t a flagship](https://www.androidauthority.com/motorola-edge-50-neo-five-years-android-updates-3480423/)<!-- TECH:END -->
+ - [Flagship showdown -- iPhone 16 Pro vs iPhone 15 Pro features compared](https://appleinsider.com/inside/iphone-16/vs/flagship-showdown----iphone-16-pro-vs-iphone-15-pro-features-compared?utm_medium=rss)
+ - [Smartcat, which provides AI-powered translation tools for businesses, raised a $43M Series C led by Left Lane Capital, bringing its total funding to $70M &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240910/p10#a240910p10)
+ - [Apple&#39;s next Studio Display could be curved and very secure](https://appleinsider.com/articles/24/02/01/apples-next-studio-display-could-be-curved-and-very-secure?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
