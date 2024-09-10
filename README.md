@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [New Google One Lite plan is here, right as we predicted](https://www.androidauthority.com/new-google-one-lite-plan-3480381/)
- - [A new leak suggests Galaxy S25 will have Exynos chip after all. Or does it?](https://www.androidauthority.com/samsung-galaxy-s25-exynos-leak-3480377/)
- - [Huawei unveils Mate XT trifold smartphone with a 10.2-inch screen when unfolded, available in China on September 20 for $2,800+ &lpar;Evelyn Cheng/CNBC&rpar;](http://www.techmeme.com/240910/p5#a240910p5)<!-- TECH:END -->
+ - [Bad news: Sony won’t release the Xperia 5 VI this year](https://www.androidauthority.com/sony-cancel-skip-xperia-5-vi-3480397/)
+ - [Apple must pay EU $14 billion over Ireland tax arrangement](https://appleinsider.com/articles/24/09/10/apple-must-pay-eu-14-billion-over-ireland-tax-arrangement?utm_medium=rss)
+ - [Billionaire Finally Launches on First Private Space-Walk Mission](https://www.wired.com/story/polaris-dawn-private-spacewalk-crew-dragon-spacex/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
