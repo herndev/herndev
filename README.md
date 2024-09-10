@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Swiss tourist agency never mentions this stuff...](http://9gag.com/gag/azxqZpx)
- - ⏩ [Women aren&#39;t gold diggers](http://9gag.com/gag/aPA91MP)
- - 👉 [When your King reminds you to keep it off in front of the whole country ...](http://9gag.com/gag/a9yAVyK)<!-- MEMES:END -->
+ - 💣 [Old](http://9gag.com/gag/aGyeoN6)
+ - ⏩ [My wife asked me to connect more with my feminine side - so I crashed the car!](http://9gag.com/gag/amo2bWy)
+ - 👉 [A legend is gone, long live James Earl Jones](http://9gag.com/gag/ajPNyep)<!-- MEMES:END -->
 
 ---
 
