@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Thanks god. He carried auto revive.](http://9gag.com/gag/aNDzjvb)
- - ⏩ [Swiss tourist agency never mentions this stuff...](http://9gag.com/gag/azxqZpx)
- - 👉 [This guy who worked at 7-11 for FIFTY YEARS got nothing aside from an e-mail as a reward.](http://9gag.com/gag/ary5245)<!-- MEMES:END -->
+ - 💣 [Women aren&#39;t gold diggers](http://9gag.com/gag/aPA91MP)
+ - ⏩ [NSFW as well](http://9gag.com/gag/a7oDnXL)
+ - 👉 [Have you noticed that climate emergency catastrophist goblin Greta Thunberg never criticizes polluting companies that aren\u2019t in the West? Interesting, isn\u2019t it?](http://9gag.com/gag/a4PGWp1)<!-- MEMES:END -->
 
 ---
 
