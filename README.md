@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone 16 vs Galaxy S24: Which should you buy?](https://www.androidauthority.com/iphone-16-vs-galaxy-s24-3480081/)
- - [The FBI says that losses from crypto-related frauds increased 45% YoY to $5.6B in 2023, with losses from investment scams accounting for 71% of the total &lpar;Hannah Lang/Reuters&rpar;](http://www.techmeme.com/240909/p34#a240909p34)
- - [A complete guide to all of Apple&#39;s new bands for the Apple Watches](https://appleinsider.com/articles/24/09/09/a-complete-guide-to-all-of-apples-new-bands-for-the-apple-watches?utm_medium=rss)<!-- TECH:END -->
+ - [JD Vance’s latest cat flub is bizarre misinformation about migrants eating them](https://www.theverge.com/2024/9/9/24240338/haitian-migrants-cats-springfield-disinformation-jd-vance-elon-musk)
+ - [This iPhone ‘Supercycle’ May Not Be So Super](https://www.wired.com/story/iphone-16-supercycle/)
+ - [FineWoven is alive, but just barely hanging on](https://appleinsider.com/articles/24/09/09/finewoven-is-barely-hanging-on-but-apple-has-cut-way-back-on-it?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
