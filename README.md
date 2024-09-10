@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Take an Apple MacBook Air M2 home at a $200 discount!](https://www.androidauthority.com/apple-macbook-air-m2-deal-5-3480704/)
- - [You don’t need to replace your AirPods Max to get a splash of the new colors](https://www.theverge.com/2024/9/10/24241034/apple-airpods-max-wireless-headphones-ear-cushions-colors)
- - [The iPhone 16 will ship as a work in progress](https://www.theverge.com/2024/9/10/24241043/apple-iphone-16-pro-intelligence-ai-missing)<!-- TECH:END -->
+ - [How to choose which Apple Watch to buy](https://www.theverge.com/23037217/apple-watch-series-9-ultra-2-second-gen-se-best-smartwatch-how-to)
+ - [New firmware available for AirPods Pro 2 and Apple Pencil Pro](https://appleinsider.com/articles/24/09/10/new-firmware-available-for-airpods-pro-2-and-apple-pencil-pro?utm_medium=rss)
+ - [The US finally takes aim at truck bloat](https://www.theverge.com/2024/9/10/24241047/nhtsa-rule-pedestrian-safety-fmvss-suv-truck-design)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
