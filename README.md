@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Persona 3 Reload and Episode Aigis The Answer: A Deeply Personal Journey](https://news.xbox.com/en-us/2024/09/10/persona-3-reload-episode-aigis-the-answer-dlc/)
- - [Win a free Bag of Holding from Polygon!](https://www.polygon.com/good-deals/446235/win-free-bag-of-holding)
- - [How to get Max Particles from Power Spots in Pokémon Go](https://www.polygon.com/pokemon-go-guide/447529/max-particles-power-spots-how-to-get-mp)<!-- GAME:END -->
+ - [Former Sony prez says don&#39;t blame greed, thousands of laid-off devs can just &#39;go to the beach for a year&#39;: &#39;Things jump out in front of you and you deal with them just like any game. So get over it!&#39;](https://www.pcgamer.com/gaming-industry/former-sony-prez-says-dont-blame-greed-thousands-of-laid-off-devs-can-just-go-to-the-beach-for-a-year-things-jump-out-in-front-of-you-and-you-deal-with-them-just-like-any-game-so-get-over-it)
+ - [The first RTX 4070s with slower GDDR6 memory are now available to buy but there isn&#39;t a single reason to do so at the moment](https://www.pcgamer.com/hardware/graphics-cards/the-first-rtx-4070s-with-slower-gddr6-memory-are-now-available-to-buy-but-there-isnt-a-single-reason-to-do-so-at-the-moment)
+ - [One of FF14&#39;s most prolific raid guide creators is a science teacher, whose first &#39;Hector lectures&#39; were made with an app from his time &#39;teaching online during the pandemic&#39;](https://www.pcgamer.com/games/final-fantasy/one-of-ff14-s-most-prolific-raid-guide-creators-is-a-science-teacher-whose-first-hector-lectures-were-made-with-an-app-from-his-time-teaching-online-during-the-pandemic)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
