@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [A highschool lesson about how to pick up and carry a wounded person, Vietnam](http://9gag.com/gag/aLn8Xmv)
- - ⏩ [This aged poorly](http://9gag.com/gag/aD2zVYN)
- - 👉 [Easy money](http://9gag.com/gag/aE0BOdo)<!-- MEMES:END -->
+ - 💣 [First time I see the other side of the story portraited in mainstream media.](http://9gag.com/gag/axy040Y)
+ - ⏩ [Just a regular bike](http://9gag.com/gag/amo2pej)
+ - 👉 [Bridge collapse in Vietnam &lpar;09/09/2024&rpar;](http://9gag.com/gag/amo2pd4)<!-- MEMES:END -->
 
 ---
 
