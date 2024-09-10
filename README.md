@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [I played some Little Nightmares 3, and it&#39;s the best horror about being lost and tiny in an unfathomable hellscape since Little Nightmares 2](https://www.pcgamer.com/games/horror/i-played-some-little-nightmares-3-and-its-the-best-horror-about-being-lost-and-tiny-in-an-unfathomable-hellscape-since-little-nightmares-2)
  - [Another reminder that your digital library isn&#39;t forever: Oxenfree will be completely removed from Itch.io next month](https://www.pcgamer.com/games/adventure/another-reminder-that-your-digital-library-isn-t-forever-oxenfree-will-be-completely-removed-from-itch-io-next-month)
- - [One Baldur&#39;s Gate 3 player retaliated against Act 3&#39;s annoying wizard street performers with a frame rate-tanking, 100+ exploding barrel nuclear strike](https://www.pcgamer.com/games/baldurs-gate/one-baldur-s-gate-3-player-retaliated-against-act-3-s-annoying-wizard-street-performers-with-a-frame-rate-tanking-100-exploding-barrel-nuclear-strike)
- - [James Earl Jones, the legendary voice of Darth Vader, Mufasa, and CNN, has died](https://www.pcgamer.com/movies-tv/james-earl-jones-the-legendary-voice-of-darth-vader-mufasa-and-cnn-has-died)<!-- GAME:END -->
+ - [One Baldur&#39;s Gate 3 player retaliated against Act 3&#39;s annoying wizard street performers with a frame rate-tanking, 100+ exploding barrel nuclear strike](https://www.pcgamer.com/games/baldurs-gate/one-baldur-s-gate-3-player-retaliated-against-act-3-s-annoying-wizard-street-performers-with-a-frame-rate-tanking-100-exploding-barrel-nuclear-strike)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
