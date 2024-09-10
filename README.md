@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Minecraft is retiring the yearly &lpar;and much maligned&rpar; mob vote](https://www.polygon.com/news/449905/minecraft-retire-mob-vote)
- - [Sonic Team director dashes hopes for a standalone Chao Garden: &#39;We can&#39;t just break it off and make it a thing&#39;](https://www.pcgamer.com/games/action/sonic-team-director-dashes-hopes-for-a-standalone-chao-garden-we-cant-just-break-it-off-and-make-it-a-thing)
- - [Xbox Game Pass Standard Is Here – How to Choose the Right Plan for You](https://news.xbox.com/en-us/2024/09/10/xbox-game-pass-standard-is-here/)<!-- GAME:END -->
+ - [How to unlock all Choir of One Exotic Catalysts in Destiny 2](https://www.polygon.com/destiny-2-guide-walkthrough/445174/catalyst-quest-choir-of-one-encore-secret-chests)
+ - [Survival game Nightingale is making big changes after the developers looked at games like Palworld and Enshrouded: &#39;It was really the structure that stood out&#39;](https://www.pcgamer.com/games/survival-crafting/survival-game-nightingale-is-making-big-changes-after-the-developers-looked-at-games-like-palworld-and-enshrouded-it-was-really-the-structure-that-stood-out)
+ - [The company behind a &#39;mental health action shooter&#39; envisions a health insurance-funded &#39;golden age&#39; for gaming, and it just got FDA clearance to treat stress](https://www.pcgamer.com/gaming-industry/deepwell-dtx-videogame-therapy-fda-clearance)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
