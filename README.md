@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Have you noticed that climate emergency catastrophist goblin Greta Thunberg never criticizes polluting companies that aren\u2019t in the West? Interesting, isn\u2019t it?](http://9gag.com/gag/a4PGWp1)
- - ⏩ [The lower dungeon of Warwick Castle. It\u2019s an \u2018oubliette\u2019, where prisoners were dropped and forgotten about](http://9gag.com/gag/aGye7P6)
- - 👉 [Reminds me of Man vs wild](http://9gag.com/gag/ae9edzb)<!-- MEMES:END -->
+ - 💣 [Sounds like a fair deal](http://9gag.com/gag/a7oD61A)
+ - ⏩ [Women aren&#39;t gold diggers](http://9gag.com/gag/aPA91MP)
+ - 👉 [Animal attacking people unsuccessfully!](http://9gag.com/gag/aW4q9Y2)<!-- MEMES:END -->
 
 ---
 
