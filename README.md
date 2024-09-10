@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone 16 gets super fast wireless charging, with the right MagSafe cable](https://appleinsider.com/articles/24/09/09/iphone-16-gets-hugely-faster-wireless-charging-if-you-have-the-right-magsafe-cord?utm_medium=rss)
- - [Apple Watch Ultra 3 &amp; new Apple Watch SE expected to ship in 2025](https://appleinsider.com/articles/24/09/10/apple-watch-ultra-3-new-apple-watch-se-expected-to-ship-in-2025?utm_medium=rss)
- - [Election officials across the US say false election rumors spread by Elon Musk to his 197M+ followers often coincide with calls by locals to purge voter rolls &lpar;Washington Post&rpar;](http://www.techmeme.com/240910/p14#a240910p14)<!-- TECH:END -->
+ - [Here’s where you can preorder the AirPods 4 and updated AirPods Max](https://www.theverge.com/24240101/apple-airpods-4-max-headphones-preorder-buy-price-release-date)
+ - [Gracious Apple is letting you keep your old watch bands for yet another year](https://www.androidauthority.com/apple-watch-series-10-supports-older-bands-3480561/)
+ - [Google Play Store gets a new look for installations &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-play-store-install-ui-tweak-3480539/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
