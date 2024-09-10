@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Imma watch it them](http://9gag.com/gag/a1mKEe2)
- - ⏩ [Audience member has seizure in the front row and bro didn&#39;t even hesitate](http://9gag.com/gag/azxq42Z)
- - 👉 [Men are simple](http://9gag.com/gag/aGye2bn)<!-- MEMES:END -->
+ - 💣 [So many possibilities](http://9gag.com/gag/azxq4Bq)
+ - ⏩ [The silence after the letter N tho](http://9gag.com/gag/aD2zXOx)
+ - 👉 [Women aren&#39;t gold diggers](http://9gag.com/gag/aPA91MP)<!-- MEMES:END -->
 
 ---
 
