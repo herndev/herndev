@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Flagship showdown -- iPhone 16 Pro vs iPhone 15 Pro features compared](https://appleinsider.com/inside/iphone-16/vs/flagship-showdown----iphone-16-pro-vs-iphone-15-pro-features-compared?utm_medium=rss)
- - [Smartcat, which provides AI-powered translation tools for businesses, raised a $43M Series C led by Left Lane Capital, bringing its total funding to $70M &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240910/p10#a240910p10)
- - [Apple&#39;s next Studio Display could be curved and very secure](https://appleinsider.com/articles/24/02/01/apples-next-studio-display-could-be-curved-and-very-secure?utm_medium=rss)<!-- TECH:END -->
+ - [Glean, which uses AI to offer unified search across apps used at a company, raised $260M+ at a $4.6B valuation, after raising $200M at a $2.2B valuation in Feb. &lpar;Amy Thomson/Bloomberg&rpar;](http://www.techmeme.com/240910/p12#a240910p12)
+ - [You Need to Claim Your Share of Cash App&#39;s $15 Million Settlement This Fall. Here&#39;s How](https://www.cnet.com/personal-finance/you-need-to-claim-your-share-of-cash-apps-15-million-settlement-this-fall-heres-how/#ftag=CAD590a51e)
+ - [Mortgage Rates Fall Ahead of Fed Week. Today&#39;s Mortgage Rates, Sept. 10, 2024](https://www.cnet.com/personal-finance/mortgages-cool-off-for-homeseekers-current-mortgage-rates-for-sept-10-2024/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
