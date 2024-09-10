@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [ChatGPT is about to get a berry good upgrade very soon](https://www.androidauthority.com/chatgpt-strawberry-launch-september-3480750/)
- - [Having trouble with your Google Pixel 9 Pro Fold on AT&amp;T? You aren’t alone](https://www.androidauthority.com/pixel-9-pro-fold-att-5g-3480722/)
- - [DirecTV rejects Disney’s offer to bring one channel back for tonight only](https://www.theverge.com/2024/9/10/24241123/disney-directv-debate-dispute-abc-news)<!-- TECH:END -->
+ - [Deal: The Anker 548 Power Bank is huge, has a light, has plenty of ports, and is $50 off](https://www.androidauthority.com/anker-548-power-bank-deal-3480702/)
+ - [Flipper Zero 1.0 firmware update supercharges the hacking handheld](https://www.theverge.com/2024/9/10/24241081/flipper-zero-1-0-major-firmware-update-2024)
+ - [Google plans to buy carbon removal credits from direct air capture provider Holocene for $100 per ton, far below current prices, for delivery by the early 2030s &lpar;Justine Calma/The Verge&rpar;](http://www.techmeme.com/240910/p23#a240910p23)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
