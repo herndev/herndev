@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone 16 and iPhone 16 Plus: First Look video](https://www.cnet.com/videos/iphone-16-and-iphone-16-plus-first-look/#ftag=CAD590a51e)
- - [James Earl Jones&#39; Darth Vader Has Already Been Immortalized With AI](https://www.wired.com/story/james-earl-jones-darth-vader-death-artificial-intelligence/)
- - [iPhone 16 has a new Camera Control button -- Here&#39;s everything it can do](https://appleinsider.com/articles/24/09/10/iphone-16-has-a-new-camera-control-button----heres-everything-it-can-do?utm_medium=rss)<!-- TECH:END -->
+ - [Hands-On with AirPods 4 and New AirPods Max video](https://www.cnet.com/videos/hands-on-with-airpods-4-and-new-airpods-max/#ftag=CAD590a51e)
+ - [Google and DOJ’s ad tech fight is all about control](https://www.theverge.com/2024/9/9/24240386/google-doj-ad-tech-antitrust-trial-court-day-one)
+ - [iPhone 16 vs. iPhone 14: How These Phones Stack Up](https://www.cnet.com/tech/mobile/iphone-16-vs-iphone-14-how-these-phones-stack-up/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
