@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung Galaxy Tab S10 price leak offers a pleasant surprise](https://www.androidauthority.com/samsung-galaxy-tab-s10-price-leak-3480337/)
- - [Get an iPhone 16 for free or iPhone 16 Pro Max at $1,000 off with AT&amp;T&#39;s preorder deals](https://appleinsider.com/articles/24/09/10/get-an-iphone-16-for-free-or-iphone-16-pro-max-at-1000-off-with-atts-preorder-deals?utm_medium=rss)
- - [Q&amp;A with Mike Krieger on his new role as chief product officer at Anthropic, co-founding and selling news app Artifact, copyright issues, AI safety, and more &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/240910/p1#a240910p1)<!-- TECH:END -->
+ - [HUAWEI Mate XT launched: The first triple-screen foldable is here!](https://www.androidauthority.com/huawei-mate-xt-3479745/)
+ - [Does the Apple iPhone 16 have eSIM and dual-SIM capabilities?](https://www.androidauthority.com/iphone-16-esim-dual-sim-3480316/)
+ - [An excerpt from the book Character Limit on Musk&#39;s acquisition of Twitter and how his inner circle employed hardball tactics in a touch-and-go transaction &lpar;Vanity Fair&rpar;](http://www.techmeme.com/240910/p2#a240910p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
