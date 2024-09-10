@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Exstreamly Large Alligator](http://9gag.com/gag/a6ZV2BL)
- - ⏩ [Should have sent him to the Olympics!](http://9gag.com/gag/aW4q2zZ)
- - 👉 [A highschool lesson about how to pick up and carry a wounded person, Vietnam](http://9gag.com/gag/aLn8Xmv)<!-- MEMES:END -->
+ - 💣 [Welcome to Canada. Where our seniors are kicked out of their housing and forced to live in tents to make room for immigrants who live for free off the taxpayer.](http://9gag.com/gag/aKGDO4g)
+ - ⏩ [Update. I&#39;ve now lost 112kg. For me, it took surgeries, hard work, and more surgeries. But it&#39;s all actually possible. Now mock me, you beautiful c*nts.](http://9gag.com/gag/aRBjopq)
+ - 👉 [Confidence is key!](http://9gag.com/gag/abAz27X)<!-- MEMES:END -->
 
 ---
 
