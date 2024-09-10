@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [PS5 Pro rumors and leaks: What we know so far about Sony’s next gaming console](https://www.androidauthority.com/sony-ps5-pro-3337407/)
  - [&#39;The Elder Scrolls: Castles&#39; now available on iPhone, Mac](https://appleinsider.com/articles/24/09/10/the-elder-scrolls-castles-now-available-on-iphone-mac?utm_medium=rss)
- - [Startups say Pakistan&#39;s new China-like firewall is making it harder for them to raise funds, amid complaints about censorship and internet speeds falling by 40% &lpar;Kunwar Khuldune Shahid/Rest of World&rpar;](http://www.techmeme.com/240909/p36#a240909p36)
- - [Flagship showdown -- iPhone 16 Pro vs iPhone 15 Pro features compared](https://appleinsider.com/inside/iphone-16/vs/flagship-showdown----iphone-16-pro-vs-iphone-15-pro-features-compared?utm_medium=rss)<!-- TECH:END -->
+ - [Don&#39;t Buy an iPhone 16 Case Yet. Here&#39;s What to Look for First](https://www.cnet.com/tech/mobile/dont-buy-an-iphone-16-case-yet-heres-what-to-look-for-first/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
