@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Confidence is key!](http://9gag.com/gag/abAz27X)
- - ⏩ [All the U.N.C.L.E&#39;s from family tree](http://9gag.com/gag/aW4q2OK)
- - 👉 [Have you noticed that climate emergency catastrophist goblin Greta Thunberg never criticizes polluting companies that aren\u2019t in the West? Interesting, isn\u2019t it?](http://9gag.com/gag/a4PGWp1)<!-- MEMES:END -->
+ - 💣 [Cat sees his friend after a long time!](http://9gag.com/gag/a878V0Y)
+ - ⏩ [First time I see the other side of the story portraited in mainstream media.](http://9gag.com/gag/axy040Y)
+ - 👉 [Goodbye to another childhood legend](http://9gag.com/gag/aYQ4mPx)<!-- MEMES:END -->
 
 ---
 
