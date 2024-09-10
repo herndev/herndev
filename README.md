@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [This Iodyne is the most gadgety portable SSD ever devised](https://www.theverge.com/2024/9/10/24240378/iodyne-pro-mini-ssd-e-paper-find-my-apple-google-thunderbolt)
- - [Confessions of a Hinge Power User](https://www.wired.com/story/confessions-of-a-hinge-power-user/)
- - [Goldman Sachs is certain to lose millions when it sells off Apple Card](https://appleinsider.com/articles/24/09/10/goldman-sachs-is-certain-to-lose-millions-when-it-sells-off-its-apple-card-stake?utm_medium=rss)<!-- TECH:END -->
+ - [What to do before you trade in your old iPhone for an iPhone 16](https://appleinsider.com/inside/iphone/tips/what-to-do-before-you-trade-in-your-old-iphone-for-an-iphone-16?utm_medium=rss)
+ - [Waymo: its cars in Phoenix and SF had 48% fewer crashes/mile than humans and 73% fewer injury-causing ones; humans rear-ended Waymos in 16 of the 23 worst ones &lpar;Timothy B Lee/Understanding AI&rpar;](http://www.techmeme.com/240910/p19#a240910p19)
+ - [Paris-based Neat, which helps other companies sell insurance products to their own customers, raised a &amp;euro;50M Series A, with ~60% in equity and the rest in debt &lpar;Romain Dillet/TechCrunch&rpar;](http://www.techmeme.com/240910/p18#a240910p18)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
