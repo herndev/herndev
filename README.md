@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [ASSA ABLOY acquires Level Lock, creates new Ambient Property Technologies subsidiary](https://appleinsider.com/articles/24/09/10/assa-abloy-acquires-level-lock-creates-new-ambient-property-technologies-subsidiary?utm_medium=rss)
- - [Samsung Galaxy Tab S10 rumors: Everything we know and what we want to see](https://www.androidauthority.com/samsung-galaxy-tab-s10-3389280/)
- - [Apps can now better protect your data by making you close potentially risky apps](https://www.androidauthority.com/play-integrity-app-access-risk-3480649/)<!-- TECH:END -->
+ - [ChatGPT is about to get a berry good upgrade very soon](https://www.androidauthority.com/chatgpt-strawberry-launch-september-3480750/)
+ - [Having trouble with your Google Pixel 9 Pro Fold on AT&amp;T? You aren’t alone](https://www.androidauthority.com/pixel-9-pro-fold-att-5g-3480722/)
+ - [DirecTV rejects Disney’s offer to bring one channel back for tonight only](https://www.theverge.com/2024/9/10/24241123/disney-directv-debate-dispute-abc-news)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
