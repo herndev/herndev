@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Can Dewpider be shiny in Pokémon Go?](https://www.polygon.com/pokemon-go-guide/447739/can-dewpider-be-shiny-araquanid)
- - [Today&#39;s Wordle answer for Tuesday, September 10](https://www.pcgamer.com/games/puzzle/wordle-answer-today-september-10-2024)
- - [I played some Little Nightmares 3, and it&#39;s the best horror about being lost and tiny in an unfathomable hellscape since Little Nightmares 2](https://www.pcgamer.com/games/horror/i-played-some-little-nightmares-3-and-its-the-best-horror-about-being-lost-and-tiny-in-an-unfathomable-hellscape-since-little-nightmares-2)<!-- GAME:END -->
+ - [Destiny 2: How to find each Cayde Stash and get the 10th anniversary armour](https://www.pcgamer.com/games/fps/destiny-2-cayde-stash-locations-10th-anniversary-armour)
+ - [AMD confirms it&#39;s working on a Ryzen Z2 chip for next-gen handheld PCs, even though only two vendors currently use the Z1](https://www.pcgamer.com/hardware/handheld-gaming-pcs/amd-confirms-its-working-on-a-ryzen-z2-chip-for-next-gen-handheld-pcs-even-though-only-two-vendors-currently-use-the-z1)
+ - [Can Dewpider be shiny in Pokémon Go?](https://www.polygon.com/pokemon-go-guide/447739/can-dewpider-be-shiny-araquanid)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
