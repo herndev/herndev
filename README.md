@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This guy who worked at 7-11 for FIFTY YEARS got nothing aside from an e-mail as a reward.](http://9gag.com/gag/ary5245)
- - ⏩ [Looks like a downgrade to me.](http://9gag.com/gag/aNDzqYK)
- - 👉 [Confidence is key!](http://9gag.com/gag/abAz27X)<!-- MEMES:END -->
+ - 💣 [Gotta keep going!](http://9gag.com/gag/aD2zVBN)
+ - ⏩ [Anti theft measures](http://9gag.com/gag/aXPvK8D)
+ - 👉 [Thanks god. He carried auto revive.](http://9gag.com/gag/aNDzjvb)<!-- MEMES:END -->
 
 ---
 
