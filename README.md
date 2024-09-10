@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Animal attacking people unsuccessfully!](http://9gag.com/gag/aW4q9Y2)
- - ⏩ [Have you noticed that climate emergency catastrophist goblin Greta Thunberg never criticizes polluting companies that aren\u2019t in the West? Interesting, isn\u2019t it?](http://9gag.com/gag/a4PGWp1)
- - 👉 [When robots arrive in every house](http://9gag.com/gag/a4PGxNv)<!-- MEMES:END -->
+ - 💣 [Swiss tourist agency never mentions this stuff...](http://9gag.com/gag/azxqZpx)
+ - ⏩ [Women aren&#39;t gold diggers](http://9gag.com/gag/aPA91MP)
+ - 👉 [When your King reminds you to keep it off in front of the whole country ...](http://9gag.com/gag/a9yAVyK)<!-- MEMES:END -->
 
 ---
 
