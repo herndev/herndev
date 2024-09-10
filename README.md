@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Glean, which uses AI to offer unified search across apps used at a company, raised $260M+ at a $4.6B valuation, after raising $200M at a $2.2B valuation in Feb. &lpar;Amy Thomson/Bloomberg&rpar;](http://www.techmeme.com/240910/p12#a240910p12)
- - [You Need to Claim Your Share of Cash App&#39;s $15 Million Settlement This Fall. Here&#39;s How](https://www.cnet.com/personal-finance/you-need-to-claim-your-share-of-cash-apps-15-million-settlement-this-fall-heres-how/#ftag=CAD590a51e)
- - [Mortgage Rates Fall Ahead of Fed Week. Today&#39;s Mortgage Rates, Sept. 10, 2024](https://www.cnet.com/personal-finance/mortgages-cool-off-for-homeseekers-current-mortgage-rates-for-sept-10-2024/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [iPhone 16 gets super fast wireless charging, with the right MagSafe cable](https://appleinsider.com/articles/24/09/09/iphone-16-gets-hugely-faster-wireless-charging-if-you-have-the-right-magsafe-cord?utm_medium=rss)
+ - [Apple Watch Ultra 3 &amp; new Apple Watch SE expected to ship in 2025](https://appleinsider.com/articles/24/09/10/apple-watch-ultra-3-new-apple-watch-se-expected-to-ship-in-2025?utm_medium=rss)
+ - [Election officials across the US say false election rumors spread by Elon Musk to his 197M+ followers often coincide with calls by locals to purge voter rolls &lpar;Washington Post&rpar;](http://www.techmeme.com/240910/p14#a240910p14)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
