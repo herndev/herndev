@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Can Dewpider be shiny in Pokémon Go?](https://www.polygon.com/pokemon-go-guide/447739/can-dewpider-be-shiny-araquanid)
  - [Today&#39;s Wordle answer for Tuesday, September 10](https://www.pcgamer.com/games/puzzle/wordle-answer-today-september-10-2024)
- - [I played some Little Nightmares 3, and it&#39;s the best horror about being lost and tiny in an unfathomable hellscape since Little Nightmares 2](https://www.pcgamer.com/games/horror/i-played-some-little-nightmares-3-and-its-the-best-horror-about-being-lost-and-tiny-in-an-unfathomable-hellscape-since-little-nightmares-2)
- - [Another reminder that your digital library isn&#39;t forever: Oxenfree will be completely removed from Itch.io next month](https://www.pcgamer.com/games/adventure/another-reminder-that-your-digital-library-isn-t-forever-oxenfree-will-be-completely-removed-from-itch-io-next-month)<!-- GAME:END -->
+ - [I played some Little Nightmares 3, and it&#39;s the best horror about being lost and tiny in an unfathomable hellscape since Little Nightmares 2](https://www.pcgamer.com/games/horror/i-played-some-little-nightmares-3-and-its-the-best-horror-about-being-lost-and-tiny-in-an-unfathomable-hellscape-since-little-nightmares-2)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
