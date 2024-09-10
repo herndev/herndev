@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Destiny 2: How to find each Cayde Stash and get the 10th anniversary armour](https://www.pcgamer.com/games/fps/destiny-2-cayde-stash-locations-10th-anniversary-armour)
- - [AMD confirms it&#39;s working on a Ryzen Z2 chip for next-gen handheld PCs, even though only two vendors currently use the Z1](https://www.pcgamer.com/hardware/handheld-gaming-pcs/amd-confirms-its-working-on-a-ryzen-z2-chip-for-next-gen-handheld-pcs-even-though-only-two-vendors-currently-use-the-z1)
- - [Can Dewpider be shiny in Pokémon Go?](https://www.polygon.com/pokemon-go-guide/447739/can-dewpider-be-shiny-araquanid)<!-- GAME:END -->
+ - [Watching Doom being played on a hologram-like volumetric display is like taking a peek at the future of gaming](https://www.pcgamer.com/hardware/watching-doom-being-played-on-a-hologram-like-volumetric-display-is-like-taking-a-peek-at-the-future-of-gaming)
+ - [Acer says it has &#39;no business relationship with the company&#39; that designed essentially the same handheld gaming PC 8 months prior](https://www.pcgamer.com/hardware/handheld-gaming-pcs/acer-says-it-has-no-business-relationship-with-the-company-that-designed-essentially-the-same-handheld-gaming-pc-8-months-prior)
+ - [New fan-made engine makes Black and White playable on modern PCs, because god knows neither EA or Molyneux is going to do it](https://www.pcgamer.com/games/sim/new-fan-made-engine-makes-black-and-white-playable-on-modern-pcs-because-god-knows-neither-ea-or-molyneux-is-going-to-do-it)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
