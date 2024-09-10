@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Here’s where you can preorder the AirPods 4 and updated AirPods Max](https://www.theverge.com/24240101/apple-airpods-4-max-headphones-preorder-buy-price-release-date)
- - [Gracious Apple is letting you keep your old watch bands for yet another year](https://www.androidauthority.com/apple-watch-series-10-supports-older-bands-3480561/)
- - [Google Play Store gets a new look for installations &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-play-store-install-ui-tweak-3480539/)<!-- TECH:END -->
+ - [This Iodyne is the most gadgety portable SSD ever devised](https://www.theverge.com/2024/9/10/24240378/iodyne-pro-mini-ssd-e-paper-find-my-apple-google-thunderbolt)
+ - [Confessions of a Hinge Power User](https://www.wired.com/story/confessions-of-a-hinge-power-user/)
+ - [Goldman Sachs is certain to lose millions when it sells off Apple Card](https://appleinsider.com/articles/24/09/10/goldman-sachs-is-certain-to-lose-millions-when-it-sells-off-its-apple-card-stake?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
