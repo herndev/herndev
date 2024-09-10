@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Former Sony prez says don&#39;t blame greed, thousands of laid-off devs can just &#39;go to the beach for a year&#39;: &#39;Things jump out in front of you and you deal with them just like any game. So get over it!&#39;](https://www.pcgamer.com/gaming-industry/former-sony-prez-says-dont-blame-greed-thousands-of-laid-off-devs-can-just-go-to-the-beach-for-a-year-things-jump-out-in-front-of-you-and-you-deal-with-them-just-like-any-game-so-get-over-it)
- - [The first RTX 4070s with slower GDDR6 memory are now available to buy but there isn&#39;t a single reason to do so at the moment](https://www.pcgamer.com/hardware/graphics-cards/the-first-rtx-4070s-with-slower-gddr6-memory-are-now-available-to-buy-but-there-isnt-a-single-reason-to-do-so-at-the-moment)
- - [One of FF14&#39;s most prolific raid guide creators is a science teacher, whose first &#39;Hector lectures&#39; were made with an app from his time &#39;teaching online during the pandemic&#39;](https://www.pcgamer.com/games/final-fantasy/one-of-ff14-s-most-prolific-raid-guide-creators-is-a-science-teacher-whose-first-hector-lectures-were-made-with-an-app-from-his-time-teaching-online-during-the-pandemic)<!-- GAME:END -->
+ - [Ara: History Untold’s Multiplayer is Designed for Speed, Flexibility, and Fun](https://news.xbox.com/en-us/2024/09/10/ara-history-untold-multiplayer-preview/)
+ - [The PS5 Pro is the most powerful games consoles ever released, but at $700 PC gaming has nothing to worry about](https://www.pcgamer.com/hardware/the-ps5-pro-is-the-most-powerful-games-consoles-ever-released-but-at-dollar700-pc-gaming-has-nothing-to-worry-about)
+ - [PlayStation 5 Pro revealed, out Nov. 7 for $699](https://www.polygon.com/news/446873/playstation-5-pro-price-release-date-specs)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
