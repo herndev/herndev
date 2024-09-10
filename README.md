@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Bad news: Sony won’t release the Xperia 5 VI this year](https://www.androidauthority.com/sony-cancel-skip-xperia-5-vi-3480397/)
- - [Apple must pay EU $14 billion over Ireland tax arrangement](https://appleinsider.com/articles/24/09/10/apple-must-pay-eu-14-billion-over-ireland-tax-arrangement?utm_medium=rss)
- - [Billionaire Finally Launches on First Private Space-Walk Mission](https://www.wired.com/story/polaris-dawn-private-spacewalk-crew-dragon-spacex/)<!-- TECH:END -->
+ - [Best Dog Toys, According to the Experts: Our Dogs](https://www.cnet.com/home/kitchen-and-household/the-best-dog-toys-according-to-the-experts-our-dogs/#ftag=CAD590a51e)
+ - [Why Is AI So Bad at Generating Images of Kamala Harris?](https://www.wired.com/story/bad-kamala-harris-ai-generated-images/)
+ - [Credit Card &#39;Forgiveness&#39; Programs Are Usually Scams. 10 Red Flags to Look For](https://www.cnet.com/personal-finance/credit-cards/credit-card-forgiveness-programs-are-usually-scams-10-red-flags-to-spot-them/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
