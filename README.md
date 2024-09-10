@@ -39,7 +39,7 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [HUAWEI Mate XT launched: The first triple-screen foldable is here!](https://www.androidauthority.com/huawei-mate-xt-3479745/)
+ - [The first triple-screen foldable phone is finally here, and it’s pricey](https://www.androidauthority.com/huawei-mate-xt-3479745/)
  - [Does the Apple iPhone 16 have eSIM and dual-SIM capabilities?](https://www.androidauthority.com/iphone-16-esim-dual-sim-3480316/)
  - [An excerpt from the book Character Limit on Musk&#39;s acquisition of Twitter and how his inner circle employed hardball tactics in a touch-and-go transaction &lpar;Vanity Fair&rpar;](http://www.techmeme.com/240910/p2#a240910p2)<!-- TECH:END -->
 
