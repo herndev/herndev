@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How to unlock all Choir of One Exotic Catalysts in Destiny 2](https://www.polygon.com/destiny-2-guide-walkthrough/445174/catalyst-quest-choir-of-one-encore-secret-chests)
- - [Survival game Nightingale is making big changes after the developers looked at games like Palworld and Enshrouded: &#39;It was really the structure that stood out&#39;](https://www.pcgamer.com/games/survival-crafting/survival-game-nightingale-is-making-big-changes-after-the-developers-looked-at-games-like-palworld-and-enshrouded-it-was-really-the-structure-that-stood-out)
- - [The company behind a &#39;mental health action shooter&#39; envisions a health insurance-funded &#39;golden age&#39; for gaming, and it just got FDA clearance to treat stress](https://www.pcgamer.com/gaming-industry/deepwell-dtx-videogame-therapy-fda-clearance)<!-- GAME:END -->
+ - [Honkai: Star Rail codes for September 2024](https://www.polygon.com/honkai-star-rail-guides/23699079/code-redeem-redemption-gift-stellar-jade)
+ - [After eating it for killing The Crew, Ubisoft promises to bring offline support to The Crew 2 and The Crew Motorfest](https://www.pcgamer.com/games/racing/after-eating-it-for-killing-the-crew-ubisoft-promises-to-bring-offline-support-to-the-crew-2-and-the-crew-motorfest)
+ - [How to unlock all Choir of One Exotic Catalysts in Destiny 2](https://www.polygon.com/destiny-2-guide-walkthrough/445174/catalyst-quest-choir-of-one-encore-secret-chests)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
