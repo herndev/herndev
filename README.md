@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Q&amp;A with Mike Krieger on his new role as chief product officer at Anthropic, co-founding and selling news app Artifact, copyright issues, AI safety, and more &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/240910/p1#a240910p1)
- - [There’s some bad news for fans looking forward to the Galaxy S24 Fan Edition](https://www.androidauthority.com/samsung-galaxy-s24-fe-price-3480332/)
- - [Today&#39;s NYT Mini Crossword Answers for Sept. 10](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-sept-10/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Samsung Galaxy Tab S10 price leak offers a pleasant surprise](https://www.androidauthority.com/samsung-galaxy-tab-s10-price-leak-3480337/)
+ - [Get an iPhone 16 for free or iPhone 16 Pro Max at $1,000 off with AT&amp;T&#39;s preorder deals](https://appleinsider.com/articles/24/09/10/get-an-iphone-16-for-free-or-iphone-16-pro-max-at-1000-off-with-atts-preorder-deals?utm_medium=rss)
+ - [Q&amp;A with Mike Krieger on his new role as chief product officer at Anthropic, co-founding and selling news app Artifact, copyright issues, AI safety, and more &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/240910/p1#a240910p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
