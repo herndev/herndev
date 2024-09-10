@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Fatal Fury: City of the Wolves interview  — SNK director discusses the series’ new direction](https://blog.playstation.com/2024/09/10/fatal-fury-city-of-the-wolves-interview-snk-director-discusses-the-series-new-direction/)
- - [Towerborne Releases in Steam Early Access Today](https://news.xbox.com/en-us/2024/09/10/towerborne-releases-in-steam-early-access-today/)
- - [I Am Your Beast is an instant classic of wacky speed-revenge proportions](https://www.polygon.com/review/449563/i-am-your-beast-review)<!-- GAME:END -->
+ - [Persona 3 Reload and Episode Aigis The Answer: A Deeply Personal Journey](https://news.xbox.com/en-us/2024/09/10/persona-3-reload-episode-aigis-the-answer-dlc/)
+ - [Win a free Bag of Holding from Polygon!](https://www.polygon.com/good-deals/446235/win-free-bag-of-holding)
+ - [How to get Max Particles from Power Spots in Pokémon Go](https://www.polygon.com/pokemon-go-guide/447529/max-particles-power-spots-how-to-get-mp)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
