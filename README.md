@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [JD Vance’s latest cat flub is bizarre misinformation about migrants eating them](https://www.theverge.com/2024/9/9/24240338/haitian-migrants-cats-springfield-disinformation-jd-vance-elon-musk)
- - [This iPhone ‘Supercycle’ May Not Be So Super](https://www.wired.com/story/iphone-16-supercycle/)
- - [FineWoven is alive, but just barely hanging on](https://appleinsider.com/articles/24/09/09/finewoven-is-barely-hanging-on-but-apple-has-cut-way-back-on-it?utm_medium=rss)<!-- TECH:END -->
+ - [iPhone 16 and iPhone 16 Plus: First Look video](https://www.cnet.com/videos/iphone-16-and-iphone-16-plus-first-look/#ftag=CAD590a51e)
+ - [James Earl Jones&#39; Darth Vader Has Already Been Immortalized With AI](https://www.wired.com/story/james-earl-jones-darth-vader-death-artificial-intelligence/)
+ - [iPhone 16 has a new Camera Control button -- Here&#39;s everything it can do](https://appleinsider.com/articles/24/09/10/iphone-16-has-a-new-camera-control-button----heres-everything-it-can-do?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
