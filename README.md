@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Taking off bra at the end of day](http://9gag.com/gag/aPA9ryG)
- - ⏩ [Confidence is key!](http://9gag.com/gag/abAz27X)
- - 👉 [We need more like this again in TV](http://9gag.com/gag/an7jDrb)<!-- MEMES:END -->
+ - 💣 [A highschool lesson about how to pick up and carry a wounded person, Vietnam](http://9gag.com/gag/aLn8Xmv)
+ - ⏩ [This aged poorly](http://9gag.com/gag/aD2zVYN)
+ - 👉 [Easy money](http://9gag.com/gag/aE0BOdo)<!-- MEMES:END -->
 
 ---
 
