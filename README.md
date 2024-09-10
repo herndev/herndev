@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Women aren&#39;t gold diggers](http://9gag.com/gag/aPA91MP)
- - ⏩ [Hodor](http://9gag.com/gag/aQzeO2r)
- - 👉 [I know what I have to do now, but man I&#39;m crushed](http://9gag.com/gag/amo2Myy)<!-- MEMES:END -->
+ - 💣 [Easy money](http://9gag.com/gag/aE0BOdo)
+ - ⏩ [I know what I have to do now, but man I&#39;m crushed](http://9gag.com/gag/amo2Myy)
+ - 👉 [Women aren&#39;t gold diggers](http://9gag.com/gag/aPA91MP)<!-- MEMES:END -->
 
 ---
 
