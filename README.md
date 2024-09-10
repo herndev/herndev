@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to choose which Apple Watch to buy](https://www.theverge.com/23037217/apple-watch-series-9-ultra-2-second-gen-se-best-smartwatch-how-to)
- - [New firmware available for AirPods Pro 2 and Apple Pencil Pro](https://appleinsider.com/articles/24/09/10/new-firmware-available-for-airpods-pro-2-and-apple-pencil-pro?utm_medium=rss)
- - [The US finally takes aim at truck bloat](https://www.theverge.com/2024/9/10/24241047/nhtsa-rule-pedestrian-safety-fmvss-suv-truck-design)<!-- TECH:END -->
+ - [ASSA ABLOY acquires Level Lock, creates new Ambient Property Technologies subsidiary](https://appleinsider.com/articles/24/09/10/assa-abloy-acquires-level-lock-creates-new-ambient-property-technologies-subsidiary?utm_medium=rss)
+ - [Samsung Galaxy Tab S10 rumors: Everything we know and what we want to see](https://www.androidauthority.com/samsung-galaxy-tab-s10-3389280/)
+ - [Apps can now better protect your data by making you close potentially risky apps](https://www.androidauthority.com/play-integrity-app-access-risk-3480649/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
