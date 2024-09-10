@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [So many possibilities](http://9gag.com/gag/azxq4Bq)
- - ⏩ [The silence after the letter N tho](http://9gag.com/gag/aD2zXOx)
- - 👉 [Women aren&#39;t gold diggers](http://9gag.com/gag/aPA91MP)<!-- MEMES:END -->
+ - 💣 [Exstreamly Large Alligator](http://9gag.com/gag/a6ZV2BL)
+ - ⏩ [Should have sent him to the Olympics!](http://9gag.com/gag/aW4q2zZ)
+ - 👉 [A highschool lesson about how to pick up and carry a wounded person, Vietnam](http://9gag.com/gag/aLn8Xmv)<!-- MEMES:END -->
 
 ---
 
