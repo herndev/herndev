@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [First time I see the other side of the story portraited in mainstream media.](http://9gag.com/gag/axy040Y)
+ - 💣 [Swiss tourist agency never mentions this stuff...](http://9gag.com/gag/azxqZpx)
  - ⏩ [Just a regular bike](http://9gag.com/gag/amo2pej)
- - 👉 [Bridge collapse in Vietnam &lpar;09/09/2024&rpar;](http://9gag.com/gag/amo2pd4)<!-- MEMES:END -->
+ - 👉 [Honesty is a quality of good people. No matter where you come from, what you believe in or how much money you have](http://9gag.com/gag/aAyD2mp)<!-- MEMES:END -->
 
 ---
 
