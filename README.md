@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [These shot-for-shot remakes of the Minecraft Movie trailer make the official one look fake in comparison](https://www.pcgamer.com/games/survival-crafting/these-shot-for-shot-remakes-of-the-minecraft-movie-trailer-make-the-official-one-look-fake-in-comparison)
- - [The Elder Scrolls: Castles is Available Now on iOS and Android!](https://bethesda.net/en/article/2WOoLN9fcAXRz6KFX2bCjP/the-elder-scrolls-castles-available-now)
- - [13 Games Guaranteed To Look Better On PS5 Pro At Launch](https://kotaku.com/ps5-pro-enhanced-support-8k-60fps-update-ff7-1851644737)<!-- GAME:END -->
+ - [Xbox Game Pass Standard Is Here – How to Choose the Right Plan for You](https://news.xbox.com/en-us/2024/09/10/xbox-game-pass-standard-is-here/)
+ - [The best Batman movie is on sale for its lowest price ever](https://www.polygon.com/good-deals/449934/batman-mask-of-the-phantasm-4k-blu-ray-amazon-sale)
+ - [The yearly Minecraft mob vote is dead, players celebrate the death of mob democracy](https://www.pcgamer.com/games/survival-crafting/the-yearly-minecraft-mob-vote-is-dead-players-celebrate-the-death-of-mob-democracy)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
