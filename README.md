@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The first triple-screen foldable phone is finally here, and it’s pricey](https://www.androidauthority.com/huawei-mate-xt-3479745/)
- - [Does the Apple iPhone 16 have eSIM and dual-SIM capabilities?](https://www.androidauthority.com/iphone-16-esim-dual-sim-3480316/)
- - [An excerpt from the book Character Limit on Musk&#39;s acquisition of Twitter and how his inner circle employed hardball tactics in a touch-and-go transaction &lpar;Vanity Fair&rpar;](http://www.techmeme.com/240910/p2#a240910p2)<!-- TECH:END -->
+ - [New Google One Lite plan is here, right as we predicted](https://www.androidauthority.com/new-google-one-lite-plan-3480381/)
+ - [A new leak suggests Galaxy S25 will have Exynos chip after all. Or does it?](https://www.androidauthority.com/samsung-galaxy-s25-exynos-leak-3480377/)
+ - [Huawei unveils Mate XT trifold smartphone with a 10.2-inch screen when unfolded, available in China on September 20 for $2,800+ &lpar;Evelyn Cheng/CNBC&rpar;](http://www.techmeme.com/240910/p5#a240910p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
