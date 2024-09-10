@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Easy money](http://9gag.com/gag/aE0BOdo)
- - ⏩ [I know what I have to do now, but man I&#39;m crushed](http://9gag.com/gag/amo2Myy)
+ - 💣 [This guy who worked at 7-11 for FIFTY YEARS got nothing aside from an e-mail as a reward.](http://9gag.com/gag/ary5245)
+ - ⏩ [Expensive tooth fairy](http://9gag.com/gag/azxq4bB)
  - 👉 [Women aren&#39;t gold diggers](http://9gag.com/gag/aPA91MP)<!-- MEMES:END -->
 
 ---
