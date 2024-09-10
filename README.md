@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Old](http://9gag.com/gag/aGyeoN6)
- - ⏩ [My wife asked me to connect more with my feminine side - so I crashed the car!](http://9gag.com/gag/amo2bWy)
- - 👉 [A legend is gone, long live James Earl Jones](http://9gag.com/gag/ajPNyep)<!-- MEMES:END -->
+ - 💣 [Have you noticed that climate emergency catastrophist goblin Greta Thunberg never criticizes polluting companies that aren\u2019t in the West? Interesting, isn\u2019t it?](http://9gag.com/gag/a4PGWp1)
+ - ⏩ [The lower dungeon of Warwick Castle. It\u2019s an \u2018oubliette\u2019, where prisoners were dropped and forgotten about](http://9gag.com/gag/aGye7P6)
+ - 👉 [Reminds me of Man vs wild](http://9gag.com/gag/ae9edzb)<!-- MEMES:END -->
 
 ---
 
