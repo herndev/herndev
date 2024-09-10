@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Dog Toys, According to the Experts: Our Dogs](https://www.cnet.com/home/kitchen-and-household/the-best-dog-toys-according-to-the-experts-our-dogs/#ftag=CAD590a51e)
- - [Why Is AI So Bad at Generating Images of Kamala Harris?](https://www.wired.com/story/bad-kamala-harris-ai-generated-images/)
- - [Credit Card &#39;Forgiveness&#39; Programs Are Usually Scams. 10 Red Flags to Look For](https://www.cnet.com/personal-finance/credit-cards/credit-card-forgiveness-programs-are-usually-scams-10-red-flags-to-spot-them/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Google Pixel Watch 3 review: third time’s the charm](https://www.theverge.com/24239115/google-pixel-watch-3-review-smartwatch-wear-os-wearable)
+ - [Here are all the iPhone models you can pick from right now](https://www.androidauthority.com/all-iphone-models-2024-3480450/)
+ - [Motorola’s first phone with 5 years of Android OS updates isn’t a flagship](https://www.androidauthority.com/motorola-edge-50-neo-five-years-android-updates-3480423/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
