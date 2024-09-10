@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Audience member has seizure in the front row and bro didn&#39;t even hesitate](http://9gag.com/gag/azxq42Z)
- - ⏩ [Cat sees his friend after a long time!](http://9gag.com/gag/a878V0Y)
- - 👉 [Men are simple](http://9gag.com/gag/aGye2bn)<!-- MEMES:END -->
+ - 💣 [Taking off bra at the end of day](http://9gag.com/gag/aPA9ryG)
+ - ⏩ [Confidence is key!](http://9gag.com/gag/abAz27X)
+ - 👉 [We need more like this again in TV](http://9gag.com/gag/an7jDrb)<!-- MEMES:END -->
 
 ---
 
