@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Xbox Game Pass Standard Is Here – How to Choose the Right Plan for You](https://news.xbox.com/en-us/2024/09/10/xbox-game-pass-standard-is-here/)
- - [The best Batman movie is on sale for its lowest price ever](https://www.polygon.com/good-deals/449934/batman-mask-of-the-phantasm-4k-blu-ray-amazon-sale)
- - [The yearly Minecraft mob vote is dead, players celebrate the death of mob democracy](https://www.pcgamer.com/games/survival-crafting/the-yearly-minecraft-mob-vote-is-dead-players-celebrate-the-death-of-mob-democracy)<!-- GAME:END -->
+ - [Minecraft is retiring the yearly &lpar;and much maligned&rpar; mob vote](https://www.polygon.com/news/449905/minecraft-retire-mob-vote)
+ - [Sonic Team director dashes hopes for a standalone Chao Garden: &#39;We can&#39;t just break it off and make it a thing&#39;](https://www.pcgamer.com/games/action/sonic-team-director-dashes-hopes-for-a-standalone-chao-garden-we-cant-just-break-it-off-and-make-it-a-thing)
+ - [Xbox Game Pass Standard Is Here – How to Choose the Right Plan for You](https://news.xbox.com/en-us/2024/09/10/xbox-game-pass-standard-is-here/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
