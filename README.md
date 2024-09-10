@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I know what I have to do now, but man I&#39;m crushed](http://9gag.com/gag/amo2Myy)
- - ⏩ [Blue lagoon boat tour](http://9gag.com/gag/aO8BPPv)
- - 👉 [They really did him dirty!](http://9gag.com/gag/aNDzRVv)<!-- MEMES:END -->
+ - 💣 [This guy who worked at 7-11 for FIFTY YEARS got nothing aside from an e-mail as a reward.](http://9gag.com/gag/ary5245)
+ - ⏩ [Looks like a downgrade to me.](http://9gag.com/gag/aNDzqYK)
+ - 👉 [Confidence is key!](http://9gag.com/gag/abAz27X)<!-- MEMES:END -->
 
 ---
 
