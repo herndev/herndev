@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [PS5 Pro rumors and leaks: What we know so far about Sony’s next gaming console](https://www.androidauthority.com/sony-ps5-pro-3337407/)
- - [&#39;The Elder Scrolls: Castles&#39; now available on iPhone, Mac](https://appleinsider.com/articles/24/09/10/the-elder-scrolls-castles-now-available-on-iphone-mac?utm_medium=rss)
- - [Don&#39;t Buy an iPhone 16 Case Yet. Here&#39;s What to Look for First](https://www.cnet.com/tech/mobile/dont-buy-an-iphone-16-case-yet-heres-what-to-look-for-first/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Q&amp;A with Mike Krieger on his new role as chief product officer at Anthropic, co-founding and selling news app Artifact, copyright issues, AI safety, and more &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/240910/p1#a240910p1)
+ - [There’s some bad news for fans looking forward to the Galaxy S24 Fan Edition](https://www.androidauthority.com/samsung-galaxy-s24-fe-price-3480332/)
+ - [Today&#39;s NYT Mini Crossword Answers for Sept. 10](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-sept-10/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
