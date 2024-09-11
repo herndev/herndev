@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Here’s a closer look at the Huawei Mate XT triple-screen foldable](https://www.theverge.com/2024/9/11/24241628/huawei-mate-xt-triple-screen-foldable-closer-look-hands-on-demos)
- - [An analysis finds 40+ examples of Facebook removing emergency-related posts during 20+ US wildfires since June 2024; Facebook says it is investigating the issue &lpar;Brianna Sacks/Washington Post&rpar;](http://www.techmeme.com/240911/p7#a240911p7)
- - [Apple iPhone 16 vs Google Pixel 9: Which should you buy?](https://www.androidauthority.com/iphone-16-vs-pixel-9-3479764/)<!-- TECH:END -->
+ - [Apple Watch Series 10 vs Series 8: Should you upgrade?](https://www.androidauthority.com/apple-watch-series-10-vs-series-8-3480847/)
+ - [This year’s missing Apple Watches are now expected to launch next year](https://www.androidauthority.com/apple-watch-ultra-3-se-3-expected-launch-2025-3480856/)
+ - [A surge in scams poses a serious image problem for Revolut, which faces more complaints than its large UK rivals about authorized push payment scams &lpar;Aisha S Gani/Bloomberg&rpar;](http://www.techmeme.com/240911/p8#a240911p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
