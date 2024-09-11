@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Dead By Daylight codes and how to redeem them](https://www.pcgamer.com/games/horror/dead-by-daylight-dbd-codes)
  - [Life Is Strange: Double Exposure Brings Back Max Caulfield By Taking on a Whole New Gaming Genre](https://news.xbox.com/en-us/2024/09/11/life-is-strange-double-exposure-puzzle-game/)
- - [World of Warcraft: The War Within](https://www.pcgamer.com/games/world-of-warcraft-the-war-within)
- - [Today&#39;s Wordle answer for Wednesday, September 11](https://www.pcgamer.com/games/puzzle/wordle-answer-today-september-11-2024)<!-- GAME:END -->
+ - [World of Warcraft: The War Within](https://www.pcgamer.com/games/world-of-warcraft-the-war-within)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
