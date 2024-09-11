@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google adds Audio Overview to NotebookLM, letting users turn documents into audio discussions with two AI hosts that summarize and explain the source material &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/240911/p18#a240911p18)
- - [HONOR’s Galaxy Z Fold killer is selling like hotcakes](https://www.androidauthority.com/honor-magic-v3-eu-sales-3481004/)
- - [What to Know About IVF, or In Vitro Fertilization](https://www.cnet.com/health/medical/what-to-know-about-ivf-or-in-vitro-fertilization/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Actors union and women’s groups push Gavin Newsom to sign AI safety bill](https://www.theverge.com/2024/9/11/24242142/sag-aftra-ai-now-gavin-newsom-safety-sb-1047-letters)
+ - [Compared: A18 vs A18 Pro -- breaking down what&#39;s powering iPhone 16](https://appleinsider.com/articles/24/09/11/compared-a18-vs-a18-pro----breaking-down-whats-powering-iphone-16?utm_medium=rss)
+ - [Altera CEO denies a report that Intel plans to outright sell Altera, saying the plan is to sell a stake in the business and push for an IPO of the unit by 2026 &lpar;CRN&rpar;](http://www.techmeme.com/240911/p21#a240911p21)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
