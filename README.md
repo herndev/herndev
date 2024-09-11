@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Hero without cape](http://9gag.com/gag/a9yA4yL)
- - ⏩ [BEST. WIFE. EVER](http://9gag.com/gag/aGyerz7)
- - 👉 [Woman In London Is Attacked By A Migrant, When The Police Shows Up And Threaten To Arrest Her Because She Called Him A &#39;Filthy Migrant&#39;](http://9gag.com/gag/aYQ4nnm)<!-- MEMES:END -->
+ - 💣 [Remember kids. Never drink too much](http://9gag.com/gag/aQzerwz)
+ - ⏩ [Do it again](http://9gag.com/gag/aE0Bjxo)
+ - 👉 [Every man has his weakness](http://9gag.com/gag/aQzerEz)<!-- MEMES:END -->
 
 ---
 
