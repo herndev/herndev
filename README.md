@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [`They&#39;re eating the dogs. They&#39;re eating the cats. They&#39;re eating the pets.` - Former President Trump](http://9gag.com/gag/ayNxZR8)
- - ⏩ [A legend is gone, long live James Earl Jones](http://9gag.com/gag/ajPNyep)
- - 👉 [NENENNNNNN!!!!!](http://9gag.com/gag/adB9rBd)<!-- MEMES:END -->
+ - 💣 [Anti theft measures](http://9gag.com/gag/aXPvK8D)
+ - ⏩ [Never forget.](http://9gag.com/gag/adB9d6j)
+ - 👉 [What&#39;s better than one gf? two.](http://9gag.com/gag/aQzeNre)<!-- MEMES:END -->
 
 ---
 
