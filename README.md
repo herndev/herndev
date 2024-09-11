@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Sounds like a fair deal](http://9gag.com/gag/a7oD61A)
- - ⏩ [Women aren&#39;t gold diggers](http://9gag.com/gag/aPA91MP)
- - 👉 [Animal attacking people unsuccessfully!](http://9gag.com/gag/aW4q9Y2)<!-- MEMES:END -->
+ - 💣 [Preselection Rule](http://9gag.com/gag/abAzdpO)
+ - ⏩ [Woman In London Is Attacked By A Migrant, When The Police Shows Up And Threaten To Arrest Her Because She Called Him A &#39;Filthy Migrant&#39;](http://9gag.com/gag/aYQ4nnm)
+ - 👉 [This is amazing!](http://9gag.com/gag/avy7X0d)<!-- MEMES:END -->
 
 ---
 
