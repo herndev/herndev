@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Remember kids. Never drink too much](http://9gag.com/gag/aQzerwz)
- - ⏩ [Do it again](http://9gag.com/gag/aE0Bjxo)
- - 👉 [Every man has his weakness](http://9gag.com/gag/aQzerEz)<!-- MEMES:END -->
+ - 💣 [Does anyone recognize the thieves fat face? Location: Germany, lake of constanze &lpar;Bodenseekreis&rpar;, FN](http://9gag.com/gag/a7oDmpq)
+ - ⏩ [Every man has his weakness](http://9gag.com/gag/aQzerEz)
+ - 👉 [I would love be that guy...](http://9gag.com/gag/a6ZVzLq)<!-- MEMES:END -->
 
 ---
 
