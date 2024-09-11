@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Search will take you ‘Wayback’ with links to the Internet Archive](https://www.theverge.com/2024/9/11/24241841/google-search-results-internet-archive-wayback-machine-cached-results)
- - [No, Kamala Harris wasn’t wearing these audio earrings](https://www.theverge.com/2024/9/11/24241792/kamala-harris-debate-h1-nova-audio-earrings-debunked)
- - [Stellantis is spending $400 million to revamp US factories for EVs](https://www.theverge.com/2024/9/11/24241789/stellantis-invests-ev-michigan-plants-sterling-heights-ram-rev-ramcharger)<!-- TECH:END -->
+ - [OPPO reveals what the Find N3 could’ve looked like](https://www.androidauthority.com/oppo-find-n3-alternate-design-3480956/)
+ - [Galaxy A16 5G renders offer your first look at Samsung’s 2025 budget phone](https://www.androidauthority.com/samasung-galaxy-a16-renders-3480985/)
+ - [Seoul-based Spoon Labs, which operates an audio streamer called Spoon and a short video app called Vigloo, raised ~$89.3M from PUBG publisher Krafton &lpar;Marie Dealessandri/GamesIndustry.biz&rpar;](http://www.techmeme.com/240911/p15#a240911p15)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
