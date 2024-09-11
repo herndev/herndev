@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The DEADLY self-cleaning Litter boxes..](http://9gag.com/gag/avy7mxb)
- - ⏩ [Every man has his weakness](http://9gag.com/gag/aQzerEz)
- - 👉 [Ryan Reynolds from temu behind the bar](http://9gag.com/gag/aRBj8jq)<!-- MEMES:END -->
+ - 💣 [A normal dev team](http://9gag.com/gag/axy04LD)
+ - ⏩ [Phoebe always has to be close to her human](http://9gag.com/gag/aBy8jwz)
+ - 👉 [Animal attacking people unsuccessfully!](http://9gag.com/gag/aW4q9Y2)<!-- MEMES:END -->
 
 ---
 
