@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [New Xbox Friends and Followers Experience](https://news.xbox.com/en-us/2024/09/11/new-xbox-friends-and-followers-experience/)
- - [Grab These Great Post-Apocalyptic Games On Sale And Learn How To Survive The End Days](https://kotaku.com/apocalypse-game-sale-fallout-dying-light-walking-dead-1851645992)
- - [This Month&#39;s PS Plus Freebies Include Plucky Squire And Uh...Mister Mosquito](https://kotaku.com/ps-plus-premium-extra-games-september-plucky-squire-ps5-1851645955)<!-- GAME:END -->
+ - [Space Marine 2&#39;s first hotfix is live, ultrawide support and private PvE lobbies are coming soon: &#39;We&#39;re reading all of your feedback with great attention&#39;](https://www.pcgamer.com/games/third-person-shooter/space-marine-2s-first-hotfix-is-live-ultrawide-support-and-private-pve-lobbies-are-coming-soon-were-reading-all-of-your-feedback-with-great-attention)
+ - [Destiny 2 Nerf Gun And Ace Of Spades Ornament Accused Of Plagiarizing 9-Year-Old Fanart](https://kotaku.com/destiny-2-ace-of-spades-nerf-gun-ornament-fan-art-1851646089)
+ - [How To Find Shadow Of The Erdtree&#39;s Outer God Heirloom Talisman](https://kotaku.com/elden-ring-shadow-erdtree-outer-god-heirloom-talisman-1851645828)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
