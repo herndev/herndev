@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Sounds like a fair deal](http://9gag.com/gag/a7oD61A)
- - ⏩ [Let&#39;s all point and laugh](http://9gag.com/gag/aYQ4mO2)
- - 👉 [Ryan Reynolds from temu behind the bar](http://9gag.com/gag/aRBj8jq)<!-- MEMES:END -->
+ - 💣 [Ryan Reynolds from temu behind the bar](http://9gag.com/gag/aRBj8jq)
+ - ⏩ [Unexpected aka wait till the end.](http://9gag.com/gag/azxqz8x)
+ - 👉 [Remember kids. Never drink too much](http://9gag.com/gag/aQzerwz)<!-- MEMES:END -->
 
 ---
 
