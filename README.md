@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [All of my memories keep you near. In silent moments imagine you here.](http://9gag.com/gag/apRQdz5)
- - ⏩ [A funny comedian?](http://9gag.com/gag/a4PGrOp)
- - 👉 [Sounds like a fair deal](http://9gag.com/gag/a7oD61A)<!-- MEMES:END -->
+ - 💣 [The DEADLY self-cleaning Litter boxes..](http://9gag.com/gag/avy7mxb)
+ - ⏩ [Every man has his weakness](http://9gag.com/gag/aQzerEz)
+ - 👉 [Ryan Reynolds from temu behind the bar](http://9gag.com/gag/aRBj8jq)<!-- MEMES:END -->
 
 ---
 
