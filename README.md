@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Wallpaper Wednesday: More great phone wallpapers for all to share &lpar;September 11&rpar;](https://www.androidauthority.com/wallpaper-wednesday-sep-11-2024-3479082/)
- - [Google still hasn’t fixed delayed notifications on Pixels, but you can try this](https://www.androidauthority.com/google-pixel-delayed-notifications-3480868/)
- - [Google dominates online ads, says antitrust trial witness, but publishers are feeling ‘stuck’](https://www.theverge.com/2024/9/11/24241386/former-news-corp-executive-google-doj-ad-tech-trial)<!-- TECH:END -->
+ - [Samsung Galaxy A36 5G wishlist: All the features I want to see](https://www.androidauthority.com/samsung-galaxy-a36-3460253/)
+ - [Hugh Grant is absolutely terrifying in A24’s horror flick Heretic](https://www.theverge.com/24241767/heretic-review-a24-hugh-grant)
+ - [On second day of the US DOJ&#39;s antitrust trial focused on ads, a former News Corp exec testified as a government witness, saying Google held publishers &quot;hostage&quot; &lpar;Lauren Feiner/The Verge&rpar;](http://www.techmeme.com/240911/p12#a240911p12)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
