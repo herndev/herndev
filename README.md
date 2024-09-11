@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Ryan Reynolds from temu behind the bar](http://9gag.com/gag/aRBj8jq)
- - ⏩ [Unexpected aka wait till the end.](http://9gag.com/gag/azxqz8x)
+ - 💣 [It it really true ??](http://9gag.com/gag/aXPvz9P)
+ - ⏩ [Ryan Reynolds from temu behind the bar](http://9gag.com/gag/aRBj8jq)
  - 👉 [Remember kids. Never drink too much](http://9gag.com/gag/aQzerwz)<!-- MEMES:END -->
 
 ---
