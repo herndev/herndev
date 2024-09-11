@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Elden Ring: Shadow of the Erdtree’s hated final boss gets nerfed at last](https://www.polygon.com/gaming/450363/elden-ring-shadow-of-the-erdtree-patch-radahn-nerf)
- - [Should you buy a Steam Deck instead of a PS5 Pro? How about instead of a new car you buy a boat?—these things are not the same](https://www.pcgamer.com/hardware/handheld-gaming-pcs/should-you-buy-a-steam-deck-instead-of-a-ps5-pro-how-about-instead-of-a-new-car-you-buy-a-boatthese-things-are-not-the-same)
- - [Disney Sued For Using Peter Cushing&#39;s Face In Star Wars: Rogue One](https://kotaku.com/star-wars-rogue-one-peter-cushing-disney-sued-1851645468)<!-- GAME:END -->
+ - [The best horror movies of the year so far, ranked by scariness](https://www.polygon.com/24090384/best-horror-movies-2024-how-scary)
+ - [Konami admits Metal Gear Solid Master Collection Vol 1 kind of sucked at launch, promises to &#39;do everything we can not to repeat that&#39; with Volume 2](https://www.pcgamer.com/games/action/konami-admits-metal-gear-solid-master-collection-vol-1-kind-of-sucked-at-launch-promises-to-do-everything-we-can-not-to-repeat-that-with-volume-2)
+ - [Helldivers 2 devs casually reveal they&#39;re quadrupling the Railgun&#39;s durable damage, while CCO Pilestedt says kit like the Recoilless Rifle will become a &#39;delete key&#39;, and oh, do I like the sound of that](https://www.pcgamer.com/games/third-person-shooter/helldivers-2-devs-casually-reveal-they-re-quadrupling-the-railgun-s-durable-damage-while-cco-pilestedt-says-kit-like-the-recoilless-rifle-will-become-a-delete-key-and-oh-do-i-like-the-sound-of-that)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
