@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google could soon rebrand and upgrade its Switch to Android app &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-rebrand-upgrade-switch-to-android-apk-teardown-3480801/)
  - [Taylor Swift endorses Kamala Harris in response to fake AI Trump endorsement](https://www.theverge.com/2024/9/10/24241538/taylor-swift-endorses-kamala-harris-donald-trump-ai-endorsement-deepfake)
- - [Taylor Swift says she&#39;s voting for Kamala Harris, noting that Donald Trump sharing an AI-generated image of her &quot;endorsing&quot; him prompted her to reveal her plans &lpar;Taylor Swift/Taylor Swift on Instagram&rpar;](http://www.techmeme.com/240910/p29#a240910p29)
- - [Donald Trump goes all in on viral anti-immigrant lie](https://www.theverge.com/2024/9/10/24241487/trump-debate-haitian-migrants-cats-dogs-ohio)<!-- TECH:END -->
+ - [Best Gas Grills of 2024](https://www.cnet.com/home/yard-and-outdoors/best-gas-grill/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
