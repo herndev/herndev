@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This is amazing!](http://9gag.com/gag/avy7X0d)
- - ⏩ [The century of the left taking L&#39;s like a mf](http://9gag.com/gag/a34Mn21)
- - 👉 [Every man has his weakness](http://9gag.com/gag/aQzerEz)<!-- MEMES:END -->
+ - 💣 [Every night.](http://9gag.com/gag/amo2RRX)
+ - ⏩ [Animal attacking people unsuccessfully!](http://9gag.com/gag/aW4q9Y2)
+ - 👉 [When your King reminds you to keep it off in front of the whole country ...](http://9gag.com/gag/a9yAVyK)<!-- MEMES:END -->
 
 ---
 
