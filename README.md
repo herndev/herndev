@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This is amazing!](http://9gag.com/gag/avy7X0d)
- - ⏩ [The Earth&#39;s magnetic field deflecting 1.5 million tons of solar material shoot off the sun at 100 miles per second.](http://9gag.com/gag/aLn8rgA)
- - 👉 [Thanks god. He carried auto revive.](http://9gag.com/gag/aNDzjvb)<!-- MEMES:END -->
+ - 💣 [My wife asked me to connect more with my feminine side - so I crashed the car!](http://9gag.com/gag/amo2bWy)
+ - ⏩ [This, this is beautiful](http://9gag.com/gag/aXPvGw6)
+ - 👉 [A funny comedian?](http://9gag.com/gag/a4PGrOp)<!-- MEMES:END -->
 
 ---
 
