@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [How to make your factory way better than satisfactory in Satisfactory](https://www.pcgamer.com/games/sim/satisfactory-game-tips-getting-started-guide)
  - [Holy cow, The Crew 2 is on sale for $1 on Steam](https://www.pcgamer.com/games/racing/holy-cow-the-crew-2-is-on-sale-for-dollar1-on-steam)
- - [World of Warcraft launches the first season for The War Within](https://www.polygon.com/gaming/450151/world-warcraft-war-within-season-1-launch-nerubar-palace)
- - [Honkai: Star Rail codes for September 2024](https://www.polygon.com/honkai-star-rail-guides/23699079/code-redeem-redemption-gift-stellar-jade)<!-- GAME:END -->
+ - [World of Warcraft launches the first season for The War Within](https://www.polygon.com/gaming/450151/world-warcraft-war-within-season-1-launch-nerubar-palace)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
