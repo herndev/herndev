@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [PS5 Pro specs: How does it compare to the PS5 Slim?](https://www.androidauthority.com/ps5-pro-specs-3476440/)
- - [The former CEO of Everyday Robotics, Alphabet&#39;s AI robotics moonshot that was shut down in January 2023, reflects on its start and efforts to give AI a body &lpar;Hans Peter Brondmo/Wired&rpar;](http://www.techmeme.com/240911/p6#a240911p6)
- - [Samsung Galaxy S24 FE rumors and leaks: Everything we know so far](https://www.androidauthority.com/samsung-galaxy-s24-fe-3440533/)<!-- TECH:END -->
+ - [Here’s a closer look at the Huawei Mate XT triple-screen foldable](https://www.theverge.com/2024/9/11/24241628/huawei-mate-xt-triple-screen-foldable-closer-look-hands-on-demos)
+ - [An analysis finds 40+ examples of Facebook removing emergency-related posts during 20+ US wildfires since June 2024; Facebook says it is investigating the issue &lpar;Brianna Sacks/Washington Post&rpar;](http://www.techmeme.com/240911/p7#a240911p7)
+ - [Apple iPhone 16 vs Google Pixel 9: Which should you buy?](https://www.androidauthority.com/iphone-16-vs-pixel-9-3479764/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
