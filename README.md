@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung could pull a Pixel 9 and bring satellite support to S25 Ultra](https://www.androidauthority.com/samsung-galaxy-s25-ultra-charging-speed-satellite-3480824/)
- - [Apple Watch Series 10 vs Series 7: Should you upgrade?](https://www.androidauthority.com/apple-watch-series-10-vs-series-7-3480430/)
- - [Sergey Brin says he works at Google &quot;pretty much every day&quot; and that recent AI algorithmic improvements are &quot;outpacing the increased compute&quot; put into models &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240911/p5#a240911p5)<!-- TECH:END -->
+ - [PS5 Pro specs: How does it compare to the PS5 Slim?](https://www.androidauthority.com/ps5-pro-specs-3476440/)
+ - [The former CEO of Everyday Robotics, Alphabet&#39;s AI robotics moonshot that was shut down in January 2023, reflects on its start and efforts to give AI a body &lpar;Hans Peter Brondmo/Wired&rpar;](http://www.techmeme.com/240911/p6#a240911p6)
+ - [Samsung Galaxy S24 FE rumors and leaks: Everything we know so far](https://www.androidauthority.com/samsung-galaxy-s24-fe-3440533/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
