@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Preselection Rule](http://9gag.com/gag/abAzdpO)
- - ⏩ [Woman In London Is Attacked By A Migrant, When The Police Shows Up And Threaten To Arrest Her Because She Called Him A &#39;Filthy Migrant&#39;](http://9gag.com/gag/aYQ4nnm)
- - 👉 [This is amazing!](http://9gag.com/gag/avy7X0d)<!-- MEMES:END -->
+ - 💣 [This is amazing!](http://9gag.com/gag/avy7X0d)
+ - ⏩ [The Earth&#39;s magnetic field deflecting 1.5 million tons of solar material shoot off the sun at 100 miles per second.](http://9gag.com/gag/aLn8rgA)
+ - 👉 [Thanks god. He carried auto revive.](http://9gag.com/gag/aNDzjvb)<!-- MEMES:END -->
 
 ---
 
