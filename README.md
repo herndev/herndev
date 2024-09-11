@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Animal attacking people unsuccessfully!](http://9gag.com/gag/aW4q9Y2)
- - ⏩ [A normal dev team](http://9gag.com/gag/axy04LD)
- - 👉 [Missing your cruise ship](http://9gag.com/gag/agmY6jW)<!-- MEMES:END -->
+ - 💣 [Hero without cape](http://9gag.com/gag/a9yA4yL)
+ - ⏩ [BEST. WIFE. EVER](http://9gag.com/gag/aGyerz7)
+ - 👉 [Woman In London Is Attacked By A Migrant, When The Police Shows Up And Threaten To Arrest Her Because She Called Him A &#39;Filthy Migrant&#39;](http://9gag.com/gag/aYQ4nnm)<!-- MEMES:END -->
 
 ---
 
