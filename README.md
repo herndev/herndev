@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Matt Shumer, who was accused of fraud over HyperWrite&#39;s 70B-parameter AI model, says he &quot;got ahead&quot; of himself but doesn&#39;t explain why the model underperformed &lpar;Carl Franzen/VentureBeat&rpar;](http://www.techmeme.com/240910/p28#a240910p28)
- - [The 4 Best Waterproof Mattress Protectors of 2024, As Tested By Our Experts](https://www.cnet.com/health/sleep/best-waterproof-mattress-protectors/#ftag=CAD590a51e)
- - [Best Blenders 2024 -- Tested by CNET Experts](https://www.cnet.com/home/kitchen-and-household/best-blender/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Taylor Swift endorses Kamala Harris in response to fake AI Trump endorsement](https://www.theverge.com/2024/9/10/24241538/taylor-swift-endorses-kamala-harris-donald-trump-ai-endorsement-deepfake)
+ - [Taylor Swift says she&#39;s voting for Kamala Harris, noting that Donald Trump sharing an AI-generated image of her &quot;endorsing&quot; him prompted her to reveal her plans &lpar;Taylor Swift/Taylor Swift on Instagram&rpar;](http://www.techmeme.com/240910/p29#a240910p29)
+ - [Donald Trump goes all in on viral anti-immigrant lie](https://www.theverge.com/2024/9/10/24241487/trump-debate-haitian-migrants-cats-dogs-ohio)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
