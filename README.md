@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung Galaxy A36 5G wishlist: All the features I want to see](https://www.androidauthority.com/samsung-galaxy-a36-3460253/)
- - [Hugh Grant is absolutely terrifying in A24’s horror flick Heretic](https://www.theverge.com/24241767/heretic-review-a24-hugh-grant)
- - [On second day of the US DOJ&#39;s antitrust trial focused on ads, a former News Corp exec testified as a government witness, saying Google held publishers &quot;hostage&quot; &lpar;Lauren Feiner/The Verge&rpar;](http://www.techmeme.com/240911/p12#a240911p12)<!-- TECH:END -->
+ - [A rundown of what’s new and improved in Android 15](https://www.theverge.com/24160704/google-android-15-beta-new-features)
+ - [Google starts linking to The Internet Archive&#39;s Wayback Machine in Search, letting users view archived versions of pages as part of &quot;About this page&quot; feature &lpar;Ben Schoon/9to5Google&rpar;](http://www.techmeme.com/240911/p14#a240911p14)
+ - [Apple’s AirPods Pro Could Soon Disrupt the Hearing Aid Industry](https://www.wired.com/story/apple-airpods-pro-over-the-counter-hearing-aids/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
