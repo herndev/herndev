@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Best Game And Movie Jokes About Last Night’s Presidential Debate](https://kotaku.com/presidential-debate-kamala-harris-donald-trump-jokes-1851646179)
- - [Glorious heralds its return with the launch of the GMMK 3 Hall Effect keyboard](https://www.polygon.com/deals/450038/glorious-gmmk-3-hall-effect-gaming-keyboard)
- - [Astro Bot&#39;s Earlier Game Astro&#39;s Playroom Now Has An Ape Escape Bot!](https://kotaku.com/astro-bot-playroom-ape-escape-bot-guide-1851645859)<!-- GAME:END -->
+ - [Where to pre-order Disney Lorcana: Azurite Sea](https://www.polygon.com/disney-lorcana/450584/azurite-sea-where-to-buy-pre-order)
+ - [The PS5 Disc Drive Is Selling Out Online After PS5 Pro Reveal](https://kotaku.com/ps5-pro-disc-drive-cost-selling-out-where-to-buy-amazon-1851646276)
+ - [Destiny&#39;s Ten-Year Anniversary Event Is Bittersweet](https://kotaku.com/destiny-ten-year-anniversary-event-bittersweet-bungie-1851646274)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
