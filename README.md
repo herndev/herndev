@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [In a memo to commemorate Alibaba&#39;s 25th anniversary, Jack Ma said the competition will make the company stronger, urging trust &quot;in the power of market forces&quot; &lpar;Jiahui Huang/Wall Street Journal&rpar;](http://www.techmeme.com/240911/p3#a240911p3)
- - [&#39;Lessons in Chemistry&#39; and &#39;The Morning Show&#39; honored at Creative Arts Emmys](https://appleinsider.com/articles/24/09/09/lessons-in-chemistry-and-the-morning-show-honored-at-creative-arts-emmys?utm_medium=rss)
- - [Facebook admits to scraping every Australian adult user&#39;s public data to train AI, with no opt-out option because it is not required to do so under privacy law &lpar;Jake Evans/ABC&rpar;](http://www.techmeme.com/240911/p2#a240911p2)<!-- TECH:END -->
+ - [Sergey Brin says he works at Google &quot;pretty much every day&quot; and that recent AI algorithmic improvements are &quot;outpacing the increased compute&quot; put into models &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240911/p5#a240911p5)
+ - [Samsung Galaxy S25 series rumors and leaks: Everything we know so far](https://www.androidauthority.com/samsung-galaxy-s25-3437280/)
+ - [After iPhone 16, at least two Android brands are working on camera buttons](https://www.androidauthority.com/iphone-16-android-camera-buttons-3480341/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
