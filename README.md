@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [OPPO reveals what the Find N3 could’ve looked like](https://www.androidauthority.com/oppo-find-n3-alternate-design-3480956/)
- - [Galaxy A16 5G renders offer your first look at Samsung’s 2025 budget phone](https://www.androidauthority.com/samasung-galaxy-a16-renders-3480985/)
- - [Seoul-based Spoon Labs, which operates an audio streamer called Spoon and a short video app called Vigloo, raised ~$89.3M from PUBG publisher Krafton &lpar;Marie Dealessandri/GamesIndustry.biz&rpar;](http://www.techmeme.com/240911/p15#a240911p15)<!-- TECH:END -->
+ - [Bluesky rolls out the ability to post videos of up to 60 seconds with optional attached subtitles; each post can contain one video, and adult content is allowed &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/240911/p17#a240911p17)
+ - [Developers can nag lapsed app subscribers with win-back offers](https://appleinsider.com/articles/24/09/11/developers-can-nag-lapsed-app-subscribers-with-win-back-offers?utm_medium=rss)
+ - [Google Search starts offering easy access to old versions of web pages](https://www.androidauthority.com/google-search-internet-archive-3480964/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
