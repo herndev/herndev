@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Thanks god. He carried auto revive.](http://9gag.com/gag/aNDzjvb)
- - ⏩ [Driver said `rather you than me` smh \ud83d\ude02](http://9gag.com/gag/aRBjydQ)
- - 👉 [Every night.](http://9gag.com/gag/amo2RRX)<!-- MEMES:END -->
+ - 💣 [How to calm a roo. Edited the video upside down, alps can be seen in background aswell](http://9gag.com/gag/a1mKEq6)
+ - ⏩ [NSFW as well](http://9gag.com/gag/a7oDnXL)
+ - 👉 [Meanwhile in fc24](http://9gag.com/gag/aRBjOyB)<!-- MEMES:END -->
 
 ---
 
