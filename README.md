@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Bluesky rolls out the ability to post videos of up to 60 seconds with optional attached subtitles; each post can contain one video, and adult content is allowed &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/240911/p17#a240911p17)
- - [Developers can nag lapsed app subscribers with win-back offers](https://appleinsider.com/articles/24/09/11/developers-can-nag-lapsed-app-subscribers-with-win-back-offers?utm_medium=rss)
- - [Google Search starts offering easy access to old versions of web pages](https://www.androidauthority.com/google-search-internet-archive-3480964/)<!-- TECH:END -->
+ - [Google adds Audio Overview to NotebookLM, letting users turn documents into audio discussions with two AI hosts that summarize and explain the source material &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/240911/p18#a240911p18)
+ - [HONOR’s Galaxy Z Fold killer is selling like hotcakes](https://www.androidauthority.com/honor-magic-v3-eu-sales-3481004/)
+ - [What to Know About IVF, or In Vitro Fertilization](https://www.cnet.com/health/medical/what-to-know-about-ivf-or-in-vitro-fertilization/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
