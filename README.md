@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A rundown of what’s new and improved in Android 15](https://www.theverge.com/24160704/google-android-15-beta-new-features)
- - [Google starts linking to The Internet Archive&#39;s Wayback Machine in Search, letting users view archived versions of pages as part of &quot;About this page&quot; feature &lpar;Ben Schoon/9to5Google&rpar;](http://www.techmeme.com/240911/p14#a240911p14)
- - [Apple’s AirPods Pro Could Soon Disrupt the Hearing Aid Industry](https://www.wired.com/story/apple-airpods-pro-over-the-counter-hearing-aids/)<!-- TECH:END -->
+ - [Google Search will take you ‘Wayback’ with links to the Internet Archive](https://www.theverge.com/2024/9/11/24241841/google-search-results-internet-archive-wayback-machine-cached-results)
+ - [No, Kamala Harris wasn’t wearing these audio earrings](https://www.theverge.com/2024/9/11/24241792/kamala-harris-debate-h1-nova-audio-earrings-debunked)
+ - [Stellantis is spending $400 million to revamp US factories for EVs](https://www.theverge.com/2024/9/11/24241789/stellantis-invests-ev-michigan-plants-sterling-heights-ram-rev-ramcharger)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
