@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Chainalysis: payments in Singapore using stablecoins reached a record high of almost $1B in Q2, led by transactions at merchant outlets &lpar;Suvashree Ghosh/Bloomberg&rpar;](http://www.techmeme.com/240911/p11#a240911p11)
- - [I’m an avid runner, but Samsung’s running data surprised me](https://www.androidauthority.com/samsung-advanced-running-metrics-3479928/)
- - [Nuro is branching out into robotaxis and personally owned autonomous vehicles](https://www.theverge.com/2024/9/11/24241353/nuro-robotaxi-personal-owned-autonomous-vehicle-license)<!-- TECH:END -->
+ - [Wallpaper Wednesday: More great phone wallpapers for all to share &lpar;September 11&rpar;](https://www.androidauthority.com/wallpaper-wednesday-sep-11-2024-3479082/)
+ - [Google still hasn’t fixed delayed notifications on Pixels, but you can try this](https://www.androidauthority.com/google-pixel-delayed-notifications-3480868/)
+ - [Google dominates online ads, says antitrust trial witness, but publishers are feeling ‘stuck’](https://www.theverge.com/2024/9/11/24241386/former-news-corp-executive-google-doj-ad-tech-trial)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
