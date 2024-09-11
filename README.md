@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Wallet is getting hungry for your cards, with work on bulk import tool &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-wallet-bulk-import-3481029/)
- - [Google is using AI to make fake podcasts from your research](https://www.theverge.com/2024/9/11/24242138/google-notebook-llm-ai-fake-podcasts-research)
- - [Here’s how the new Apple Watch Series 10 stacks up to other models](https://www.theverge.com/24240412/apple-watch-series-10-vs-ultra-2-se-comparison-specs-price)<!-- TECH:END -->
+ - [Steam’s improved family sharing is out now for everyone](https://www.theverge.com/2024/9/11/24242377/valve-steam-improved-family-sharing-out-now)
+ - [Phone 16 receives Apple Intelligence features via iOS 18.1 beta 3](https://appleinsider.com/articles/24/09/11/phone-16-receives-apple-intelligence-features-via-ios-181-beta-3?utm_medium=rss)
+ - [Orange County police considering Apple Vision Pro to process surveillance data in real-time](https://appleinsider.com/articles/24/09/11/orange-county-police-considering-apple-vision-pro-for-real-time-operations-center?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
