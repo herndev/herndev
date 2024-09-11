@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [One Big Game: 24-Hour Football Match Returns in Aid of SpecialEffect](https://news.xbox.com/en-us/2024/09/11/rare-one-big-game-charity/)
- - [Get a year of Paramount Plus for half price](https://www.polygon.com/good-deals/450027/paramount-plus-year-annual-subscription-ad-free-deal)
- - [Ray tracing has taken its first steps at becoming the rendering norm for triple-A games but that just makes upscaling and frame generation a Hobson&#39;s choice](https://www.pcgamer.com/hardware/graphics-cards/ray-tracing-has-taken-its-first-steps-at-becoming-the-rendering-norm-for-triple-a-games-but-that-just-makes-upscaling-and-frame-generation-a-hobsons-choice)<!-- GAME:END -->
+ - [Elden Ring: Shadow of the Erdtree’s hated final boss gets nerfed at last](https://www.polygon.com/gaming/450363/elden-ring-shadow-of-the-erdtree-patch-radahn-nerf)
+ - [Should you buy a Steam Deck instead of a PS5 Pro? How about instead of a new car you buy a boat?—these things are not the same](https://www.pcgamer.com/hardware/handheld-gaming-pcs/should-you-buy-a-steam-deck-instead-of-a-ps5-pro-how-about-instead-of-a-new-car-you-buy-a-boatthese-things-are-not-the-same)
+ - [Disney Sued For Using Peter Cushing&#39;s Face In Star Wars: Rogue One](https://kotaku.com/star-wars-rogue-one-peter-cushing-disney-sued-1851645468)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
