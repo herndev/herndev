@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Space Marine 2&#39;s First Big Update Will Add Private Lobbies, Ultrawide Support, And More](https://kotaku.com/space-marine-2-warhammer-40k-first-update-private-lobby-1851645793)
- - [Check Out This Amazing Paintbrush Controller Someone Made For FF14&#39;s Brush-Wielding Pictomancers](https://kotaku.com/final-fantasy-14-controller-pictomancer-paintbrush-mmo-1851645802)
- - [PlayStation Plus Game Catalog for September: The Plucky Squire, Night in the Woods, Under The Waves and more](https://blog.playstation.com/2024/09/11/playstation-plus-game-catalog-for-september-the-plucky-squire-night-in-the-woods-under-the-waves-and-more/)<!-- GAME:END -->
+ - [Dragon Age: The Veilguard will have Dragon Age: The Photo Mode at launch](https://www.pcgamer.com/games/rpg/dragon-age-the-veilguard-will-have-dragon-age-the-photo-mode-at-launch)
+ - [One Of Pokémon’s Best Merch Lines Just Hit Gen 6 In Style](https://kotaku.com/pokemon-center-sitting-cuties-gen-6-x-y-kalos-plushes-1851645894)
+ - [Breakthrough Gaming: How To Get Started In Extraction Fantasy Dungeonborne](https://kotaku.com/dungeonborne-starter-guide-fighter-class-1851645776)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
