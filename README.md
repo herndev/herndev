@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Actors union and women’s groups push Gavin Newsom to sign AI safety bill](https://www.theverge.com/2024/9/11/24242142/sag-aftra-ai-now-gavin-newsom-safety-sb-1047-letters)
- - [Compared: A18 vs A18 Pro -- breaking down what&#39;s powering iPhone 16](https://appleinsider.com/articles/24/09/11/compared-a18-vs-a18-pro----breaking-down-whats-powering-iphone-16?utm_medium=rss)
- - [Altera CEO denies a report that Intel plans to outright sell Altera, saying the plan is to sell a stake in the business and push for an IPO of the unit by 2026 &lpar;CRN&rpar;](http://www.techmeme.com/240911/p21#a240911p21)<!-- TECH:END -->
+ - [Google Wallet is getting hungry for your cards, with work on bulk import tool &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-wallet-bulk-import-3481029/)
+ - [Google is using AI to make fake podcasts from your research](https://www.theverge.com/2024/9/11/24242138/google-notebook-llm-ai-fake-podcasts-research)
+ - [Here’s how the new Apple Watch Series 10 stacks up to other models](https://www.theverge.com/24240412/apple-watch-series-10-vs-ultra-2-se-comparison-specs-price)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
