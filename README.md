@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Watch Series 10 vs Series 8: Should you upgrade?](https://www.androidauthority.com/apple-watch-series-10-vs-series-8-3480847/)
- - [This year’s missing Apple Watches are now expected to launch next year](https://www.androidauthority.com/apple-watch-ultra-3-se-3-expected-launch-2025-3480856/)
- - [A surge in scams poses a serious image problem for Revolut, which faces more complaints than its large UK rivals about authorized push payment scams &lpar;Aisha S Gani/Bloomberg&rpar;](http://www.techmeme.com/240911/p8#a240911p8)<!-- TECH:END -->
+ - [Google Home could improve its Matter support to save you time and trouble &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-home-link-matter-devices-apk-teardown-3480881/)
+ - [RIP XOXO](https://www.theverge.com/2024/9/11/24240012/xoxo-festival-portland-kickstarter-creative)
+ - [Trump Fans Spread Conspiracy About Microphone Earrings After Debate](https://www.wired.com/story/trump-harris-debate-conspiracy-microphone-earrings/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
