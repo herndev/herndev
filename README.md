@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Dragon Age: The Veilguard will have Dragon Age: The Photo Mode at launch](https://www.pcgamer.com/games/rpg/dragon-age-the-veilguard-will-have-dragon-age-the-photo-mode-at-launch)
- - [One Of Pokémon’s Best Merch Lines Just Hit Gen 6 In Style](https://kotaku.com/pokemon-center-sitting-cuties-gen-6-x-y-kalos-plushes-1851645894)
- - [Breakthrough Gaming: How To Get Started In Extraction Fantasy Dungeonborne](https://kotaku.com/dungeonborne-starter-guide-fighter-class-1851645776)<!-- GAME:END -->
+ - [New Xbox Friends and Followers Experience](https://news.xbox.com/en-us/2024/09/11/new-xbox-friends-and-followers-experience/)
+ - [Grab These Great Post-Apocalyptic Games On Sale And Learn How To Survive The End Days](https://kotaku.com/apocalypse-game-sale-fallout-dying-light-walking-dead-1851645992)
+ - [This Month&#39;s PS Plus Freebies Include Plucky Squire And Uh...Mister Mosquito](https://kotaku.com/ps-plus-premium-extra-games-september-plucky-squire-ps5-1851645955)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
