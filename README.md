@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The best horror movies of the year so far, ranked by scariness](https://www.polygon.com/24090384/best-horror-movies-2024-how-scary)
- - [Konami admits Metal Gear Solid Master Collection Vol 1 kind of sucked at launch, promises to &#39;do everything we can not to repeat that&#39; with Volume 2](https://www.pcgamer.com/games/action/konami-admits-metal-gear-solid-master-collection-vol-1-kind-of-sucked-at-launch-promises-to-do-everything-we-can-not-to-repeat-that-with-volume-2)
- - [Helldivers 2 devs casually reveal they&#39;re quadrupling the Railgun&#39;s durable damage, while CCO Pilestedt says kit like the Recoilless Rifle will become a &#39;delete key&#39;, and oh, do I like the sound of that](https://www.pcgamer.com/games/third-person-shooter/helldivers-2-devs-casually-reveal-they-re-quadrupling-the-railgun-s-durable-damage-while-cco-pilestedt-says-kit-like-the-recoilless-rifle-will-become-a-delete-key-and-oh-do-i-like-the-sound-of-that)<!-- GAME:END -->
+ - [Space Marine 2&#39;s First Big Update Will Add Private Lobbies, Ultrawide Support, And More](https://kotaku.com/space-marine-2-warhammer-40k-first-update-private-lobby-1851645793)
+ - [Check Out This Amazing Paintbrush Controller Someone Made For FF14&#39;s Brush-Wielding Pictomancers](https://kotaku.com/final-fantasy-14-controller-pictomancer-paintbrush-mmo-1851645802)
+ - [PlayStation Plus Game Catalog for September: The Plucky Squire, Night in the Woods, Under The Waves and more](https://blog.playstation.com/2024/09/11/playstation-plus-game-catalog-for-september-the-plucky-squire-night-in-the-woods-under-the-waves-and-more/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
