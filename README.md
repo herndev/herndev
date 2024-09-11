@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [How to calm a roo. Edited the video upside down, alps can be seen in background aswell](http://9gag.com/gag/a1mKEq6)
- - ⏩ [NSFW as well](http://9gag.com/gag/a7oDnXL)
- - 👉 [Meanwhile in fc24](http://9gag.com/gag/aRBjOyB)<!-- MEMES:END -->
+ - 💣 [`They&#39;re eating the dogs. They&#39;re eating the cats. They&#39;re eating the pets.` - Former President Trump](http://9gag.com/gag/ayNxZR8)
+ - ⏩ [A legend is gone, long live James Earl Jones](http://9gag.com/gag/ajPNyep)
+ - 👉 [NENENNNNNN!!!!!](http://9gag.com/gag/adB9rBd)<!-- MEMES:END -->
 
 ---
 
