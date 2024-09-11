@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Dead By Daylight codes and how to redeem them](https://www.pcgamer.com/games/horror/dead-by-daylight-dbd-codes)
- - [Life Is Strange: Double Exposure Brings Back Max Caulfield By Taking on a Whole New Gaming Genre](https://news.xbox.com/en-us/2024/09/11/life-is-strange-double-exposure-puzzle-game/)
- - [World of Warcraft: The War Within](https://www.pcgamer.com/games/world-of-warcraft-the-war-within)<!-- GAME:END -->
+ - [FromSoft hands out a mega-nerf to Shadow of the Erdtree&#39;s final boss, players begin printing their &#39;I beat him pre-patch&#39; t-shirts to lord it over the rest of us](https://www.pcgamer.com/games/rpg/fromsoft-hands-out-a-mega-nerf-to-shadow-of-the-erdtrees-final-boss-players-begin-printing-their-i-beat-him-pre-patch-t-shirts-to-lord-it-over-the-rest-of-us)
+ - [World of Warcraft: The War Within&#39;s Season 1 is live—with Mythic dungeons, raids, and the new endgame activity Delves released in full](https://www.pcgamer.com/games/world-of-warcraft/world-of-warcraft-the-war-within-s-season-1-is-live-with-mythic-dungeons-raids-and-the-new-endgame-activity-delves-released-in-full)
+ - [Dead By Daylight codes and how to redeem them](https://www.pcgamer.com/games/horror/dead-by-daylight-dbd-codes)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
