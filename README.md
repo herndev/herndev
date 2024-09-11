@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [FromSoft hands out a mega-nerf to Shadow of the Erdtree&#39;s final boss, players begin printing their &#39;I beat him pre-patch&#39; t-shirts to lord it over the rest of us](https://www.pcgamer.com/games/rpg/fromsoft-hands-out-a-mega-nerf-to-shadow-of-the-erdtrees-final-boss-players-begin-printing-their-i-beat-him-pre-patch-t-shirts-to-lord-it-over-the-rest-of-us)
- - [World of Warcraft: The War Within&#39;s Season 1 is live—with Mythic dungeons, raids, and the new endgame activity Delves released in full](https://www.pcgamer.com/games/world-of-warcraft/world-of-warcraft-the-war-within-s-season-1-is-live-with-mythic-dungeons-raids-and-the-new-endgame-activity-delves-released-in-full)
- - [Dead By Daylight codes and how to redeem them](https://www.pcgamer.com/games/horror/dead-by-daylight-dbd-codes)<!-- GAME:END -->
+ - [One Big Game: 24-Hour Football Match Returns in Aid of SpecialEffect](https://news.xbox.com/en-us/2024/09/11/rare-one-big-game-charity/)
+ - [Get a year of Paramount Plus for half price](https://www.polygon.com/good-deals/450027/paramount-plus-year-annual-subscription-ad-free-deal)
+ - [Ray tracing has taken its first steps at becoming the rendering norm for triple-A games but that just makes upscaling and frame generation a Hobson&#39;s choice](https://www.pcgamer.com/hardware/graphics-cards/ray-tracing-has-taken-its-first-steps-at-becoming-the-rendering-norm-for-triple-a-games-but-that-just-makes-upscaling-and-frame-generation-a-hobsons-choice)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
