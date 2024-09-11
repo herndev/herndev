@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Where to pre-order Disney Lorcana: Azurite Sea](https://www.polygon.com/disney-lorcana/450584/azurite-sea-where-to-buy-pre-order)
- - [The PS5 Disc Drive Is Selling Out Online After PS5 Pro Reveal](https://kotaku.com/ps5-pro-disc-drive-cost-selling-out-where-to-buy-amazon-1851646276)
- - [Destiny&#39;s Ten-Year Anniversary Event Is Bittersweet](https://kotaku.com/destiny-ten-year-anniversary-event-bittersweet-bungie-1851646274)<!-- GAME:END -->
+ - [Sea of Thieves developer acknowledges harassment surge, promises fixes](https://www.polygon.com/gaming/450632/sea-of-thieves-security-harassment-hacking-rare-response)
+ - [Deadlock gives me the same feeling Dota 2 and Team Fortress 2 did before they consumed my life](https://www.pcgamer.com/games/moba/deadlock-gives-me-the-same-feeling-dota-2-and-team-fortress-2-did-before-they-consumed-my-life)
+ - [Payday 3&#39;s game director is stepping down after a hard first year for the heist game sequel](https://www.pcgamer.com/games/fps/payday-3s-game-director-is-stepping-down-after-a-hard-first-year-for-the-heist-game-sequel)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
