@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Every night.](http://9gag.com/gag/amo2RRX)
- - ⏩ [Animal attacking people unsuccessfully!](http://9gag.com/gag/aW4q9Y2)
- - 👉 [When your King reminds you to keep it off in front of the whole country ...](http://9gag.com/gag/a9yAVyK)<!-- MEMES:END -->
+ - 💣 [Thanks god. He carried auto revive.](http://9gag.com/gag/aNDzjvb)
+ - ⏩ [Driver said `rather you than me` smh \ud83d\ude02](http://9gag.com/gag/aRBjydQ)
+ - 👉 [Every night.](http://9gag.com/gag/amo2RRX)<!-- MEMES:END -->
 
 ---
 
