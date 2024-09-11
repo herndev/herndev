@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sergey Brin says he works at Google &quot;pretty much every day&quot; and that recent AI algorithmic improvements are &quot;outpacing the increased compute&quot; put into models &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240911/p5#a240911p5)
- - [Samsung Galaxy S25 series rumors and leaks: Everything we know so far](https://www.androidauthority.com/samsung-galaxy-s25-3437280/)
- - [After iPhone 16, at least two Android brands are working on camera buttons](https://www.androidauthority.com/iphone-16-android-camera-buttons-3480341/)<!-- TECH:END -->
+ - [Samsung could pull a Pixel 9 and bring satellite support to S25 Ultra](https://www.androidauthority.com/samsung-galaxy-s25-ultra-charging-speed-satellite-3480824/)
+ - [Apple Watch Series 10 vs Series 7: Should you upgrade?](https://www.androidauthority.com/apple-watch-series-10-vs-series-7-3480430/)
+ - [Sergey Brin says he works at Google &quot;pretty much every day&quot; and that recent AI algorithmic improvements are &quot;outpacing the increased compute&quot; put into models &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240911/p5#a240911p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
