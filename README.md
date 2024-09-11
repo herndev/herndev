@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [AWS plans to spend &amp;pound;8B in the UK to grow its cloud business, expecting to support up to 14,000 jobs and contribute &amp;pound;14B to the UK GDP between 2024 and 2028 &lpar;Joe Mayes/Bloomberg&rpar;](http://www.techmeme.com/240910/p27#a240910p27)
- - [California Solar Panel Incentives: Tax Credits, Rebates, Financing and More](https://www.cnet.com/home/energy-and-utilities/california-solar-panel-incentives-tax-credits-rebates-financing-and-more/#ftag=CAD590a51e)
- - [Maryland-based Forterra, which develops autonomous driving tech for military and commercial vehicles, raised a $75M Series B &lpar;Maria Deutscher/SiliconANGLE&rpar;](http://www.techmeme.com/240910/p26#a240910p26)<!-- TECH:END -->
+ - [Matt Shumer, who was accused of fraud over HyperWrite&#39;s 70B-parameter AI model, says he &quot;got ahead&quot; of himself but doesn&#39;t explain why the model underperformed &lpar;Carl Franzen/VentureBeat&rpar;](http://www.techmeme.com/240910/p28#a240910p28)
+ - [The 4 Best Waterproof Mattress Protectors of 2024, As Tested By Our Experts](https://www.cnet.com/health/sleep/best-waterproof-mattress-protectors/#ftag=CAD590a51e)
+ - [Best Blenders 2024 -- Tested by CNET Experts](https://www.cnet.com/home/kitchen-and-household/best-blender/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
