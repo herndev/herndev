@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Sea of Thieves developer acknowledges harassment surge, promises fixes](https://www.polygon.com/gaming/450632/sea-of-thieves-security-harassment-hacking-rare-response)
- - [Deadlock gives me the same feeling Dota 2 and Team Fortress 2 did before they consumed my life](https://www.pcgamer.com/games/moba/deadlock-gives-me-the-same-feeling-dota-2-and-team-fortress-2-did-before-they-consumed-my-life)
- - [Payday 3&#39;s game director is stepping down after a hard first year for the heist game sequel](https://www.pcgamer.com/games/fps/payday-3s-game-director-is-stepping-down-after-a-hard-first-year-for-the-heist-game-sequel)<!-- GAME:END -->
+ - [Amidst upset over Space Marine 2 automatically installing Epic Online Services, Epic says PC crossplay is a requirement for all multiplayer games on its store](https://www.pcgamer.com/games/third-person-shooter/amidst-upset-over-space-marine-2-automatically-installing-epic-online-services-epic-says-pc-crossplay-is-a-requirement-for-all-multiplayer-games-on-its-store)
+ - [If Space Marine 2 gets you curious about Warhammer 40K lore, give Darktide a spin](https://www.polygon.com/warhammer-40k/450651/warhammer-40k-space-marine-2-lore-darktide-imperium)
+ - [Sea of Thieves developer acknowledges harassment surge, promises fixes](https://www.polygon.com/gaming/450632/sea-of-thieves-security-harassment-hacking-rare-response)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
