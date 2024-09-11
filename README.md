@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Space Marine 2&#39;s first hotfix is live, ultrawide support and private PvE lobbies are coming soon: &#39;We&#39;re reading all of your feedback with great attention&#39;](https://www.pcgamer.com/games/third-person-shooter/space-marine-2s-first-hotfix-is-live-ultrawide-support-and-private-pve-lobbies-are-coming-soon-were-reading-all-of-your-feedback-with-great-attention)
- - [Destiny 2 Nerf Gun And Ace Of Spades Ornament Accused Of Plagiarizing 9-Year-Old Fanart](https://kotaku.com/destiny-2-ace-of-spades-nerf-gun-ornament-fan-art-1851646089)
- - [How To Find Shadow Of The Erdtree&#39;s Outer God Heirloom Talisman](https://kotaku.com/elden-ring-shadow-erdtree-outer-god-heirloom-talisman-1851645828)<!-- GAME:END -->
+ - [The Best Game And Movie Jokes About Last Night’s Presidential Debate](https://kotaku.com/presidential-debate-kamala-harris-donald-trump-jokes-1851646179)
+ - [Glorious heralds its return with the launch of the GMMK 3 Hall Effect keyboard](https://www.polygon.com/deals/450038/glorious-gmmk-3-hall-effect-gaming-keyboard)
+ - [Astro Bot&#39;s Earlier Game Astro&#39;s Playroom Now Has An Ape Escape Bot!](https://kotaku.com/astro-bot-playroom-ape-escape-bot-guide-1851645859)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
