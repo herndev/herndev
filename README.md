@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Anti theft measures](http://9gag.com/gag/aXPvK8D)
- - ⏩ [Never forget.](http://9gag.com/gag/adB9d6j)
- - 👉 [What&#39;s better than one gf? two.](http://9gag.com/gag/aQzeNre)<!-- MEMES:END -->
+ - 💣 [NSFW as well](http://9gag.com/gag/a7oDnXL)
+ - ⏩ [Missing your cruise ship](http://9gag.com/gag/agmY6jW)
+ - 👉 [Expensive tooth fairy](http://9gag.com/gag/azxq4bB)<!-- MEMES:END -->
 
 ---
 
