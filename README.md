@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [NSFW as well](http://9gag.com/gag/a7oDnXL)
- - ⏩ [Missing your cruise ship](http://9gag.com/gag/agmY6jW)
- - 👉 [Expensive tooth fairy](http://9gag.com/gag/azxq4bB)<!-- MEMES:END -->
+ - 💣 [The lower dungeon of Warwick Castle. It\u2019s an \u2018oubliette\u2019, where prisoners were dropped and forgotten about](http://9gag.com/gag/aGye7P6)
+ - ⏩ [A normal dev team](http://9gag.com/gag/axy04LD)
+ - 👉 [Taking off bra at the end of day](http://9gag.com/gag/aPA9ryG)<!-- MEMES:END -->
 
 ---
 
