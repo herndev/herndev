@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Does anyone recognize the thieves fat face? Location: Germany, lake of constanze &lpar;Bodenseekreis&rpar;, FN](http://9gag.com/gag/a7oDmpq)
- - ⏩ [Every man has his weakness](http://9gag.com/gag/aQzerEz)
- - 👉 [I would love be that guy...](http://9gag.com/gag/a6ZVzLq)<!-- MEMES:END -->
+ - 💣 [Sounds like a fair deal](http://9gag.com/gag/a7oD61A)
+ - ⏩ [Let&#39;s all point and laugh](http://9gag.com/gag/aYQ4mO2)
+ - 👉 [Ryan Reynolds from temu behind the bar](http://9gag.com/gag/aRBj8jq)<!-- MEMES:END -->
 
 ---
 
