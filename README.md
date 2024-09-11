@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Deal: The Anker 548 Power Bank is huge, has a light, has plenty of ports, and is $50 off](https://www.androidauthority.com/anker-548-power-bank-deal-3480702/)
- - [Flipper Zero 1.0 firmware update supercharges the hacking handheld](https://www.theverge.com/2024/9/10/24241081/flipper-zero-1-0-major-firmware-update-2024)
- - [Google plans to buy carbon removal credits from direct air capture provider Holocene for $100 per ton, far below current prices, for delivery by the early 2030s &lpar;Justine Calma/The Verge&rpar;](http://www.techmeme.com/240910/p23#a240910p23)<!-- TECH:END -->
+ - [MariaDB, which went public via SPAC in late 2022, says it&#39;s been acquired by PE firm K1 and names a new CEO, after filing to delist its shares from the NYSE &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/240910/p25#a240910p25)
+ - [Which iPhone 16 Model Should You Buy?](https://www.wired.com/story/which-apple-iphone-16-models-to-buy/)
+ - [NYC-based Versana, a two-year-old platform that allows lenders to access data about $2.7T worth of loans, raised $26M from Barclays, Bank of America, and others &lpar;Jan-Henrik Foerster/Bloomberg&rpar;](http://www.techmeme.com/240910/p24#a240910p24)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
