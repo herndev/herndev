@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [A normal dev team](http://9gag.com/gag/axy04LD)
- - ⏩ [Phoebe always has to be close to her human](http://9gag.com/gag/aBy8jwz)
- - 👉 [Animal attacking people unsuccessfully!](http://9gag.com/gag/aW4q9Y2)<!-- MEMES:END -->
+ - 💣 [The lower dungeon of Warwick Castle. It\u2019s an \u2018oubliette\u2019, where prisoners were dropped and forgotten about](http://9gag.com/gag/aGye7P6)
+ - ⏩ [Love for the Art of sex](http://9gag.com/gag/aoyOq50)
+ - 👉 [What&#39;s better than one gf? two.](http://9gag.com/gag/aQzeNre)<!-- MEMES:END -->
 
 ---
 
