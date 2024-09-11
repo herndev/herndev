@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Anyone remember this](http://9gag.com/gag/a9yAZ7m)
- - ⏩ [The lower dungeon of Warwick Castle. It\u2019s an \u2018oubliette\u2019, where prisoners were dropped and forgotten about](http://9gag.com/gag/aGye7P6)
- - 👉 [Ryan Reynolds from temu behind the bar](http://9gag.com/gag/aRBj8jq)<!-- MEMES:END -->
+ - 💣 [Animal attacking people unsuccessfully!](http://9gag.com/gag/aW4q9Y2)
+ - ⏩ [A normal dev team](http://9gag.com/gag/axy04LD)
+ - 👉 [Missing your cruise ship](http://9gag.com/gag/agmY6jW)<!-- MEMES:END -->
 
 ---
 
