@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Home could improve its Matter support to save you time and trouble &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-home-link-matter-devices-apk-teardown-3480881/)
- - [RIP XOXO](https://www.theverge.com/2024/9/11/24240012/xoxo-festival-portland-kickstarter-creative)
- - [Trump Fans Spread Conspiracy About Microphone Earrings After Debate](https://www.wired.com/story/trump-harris-debate-conspiracy-microphone-earrings/)<!-- TECH:END -->
+ - [Chainalysis: payments in Singapore using stablecoins reached a record high of almost $1B in Q2, led by transactions at merchant outlets &lpar;Suvashree Ghosh/Bloomberg&rpar;](http://www.techmeme.com/240911/p11#a240911p11)
+ - [I’m an avid runner, but Samsung’s running data surprised me](https://www.androidauthority.com/samsung-advanced-running-metrics-3479928/)
+ - [Nuro is branching out into robotaxis and personally owned autonomous vehicles](https://www.theverge.com/2024/9/11/24241353/nuro-robotaxi-personal-owned-autonomous-vehicle-license)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
