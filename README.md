@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [New Galaxy S25 renders show flat sides aren’t going anywhere](https://www.androidauthority.com/galaxy-s25-renders-3481265/)
- - [Utah-based Strider, which analyzes OSINT to help protect organizations against nation-state attacks, raised a $55M Series C, bringing its total funding to $110M &lpar;James Rundle/Wall Street Journal&rpar;](http://www.techmeme.com/240912/p25#a240912p25)
- - [Yes, You Can Now Bet on Elections in the US](https://www.wired.com/story/yes-you-can-now-bet-on-elections-in-the-us/)<!-- TECH:END -->
+ - [Inside Out 2 is coming to Disney Plus later this month](https://www.theverge.com/2024/9/12/24242928/inside-out-2-disney-plus-premiere-date)
+ - [Plex launches a new app just for photos](https://www.androidauthority.com/plex-photos-app-3481322/)
+ - [27 Gifts Teens May Actually Like &lpar;2024&rpar;](https://www.wired.com/gallery/best-gift-ideas-for-teens/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
