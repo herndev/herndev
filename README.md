@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [It it really true ??](http://9gag.com/gag/aXPvz9P)
- - ⏩ [I have the high ground now](http://9gag.com/gag/aVvM4Md)
- - 👉 [Unexpected aka wait till the end.](http://9gag.com/gag/azxqz8x)<!-- MEMES:END -->
+ - 💣 [Congrats!](http://9gag.com/gag/a2v4AA9)
+ - ⏩ [I would love be that guy...](http://9gag.com/gag/a6ZVzLq)
+ - 👉 [Not the same vibe](http://9gag.com/gag/aKGDNxN)<!-- MEMES:END -->
 
 ---
 
