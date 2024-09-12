@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google app working to give you control over how searches influence your feed &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-app-updates-from-searches-3481377/)
- - [Salesforce rolls out Agentforce, a suite of AI agents that handle tasks in sales, marketing, commerce, and customer service, starting at $2 per conversation &lpar;Ina Fried/Axios&rpar;](http://www.techmeme.com/240912/p34#a240912p34)
- - [It will cost you over $1,100 to replace the screen on Huawei’s tri-fold phone](https://www.theverge.com/2024/9/12/24243081/huawei-mate-xt-ultimate-design-fold-screen-repair)<!-- TECH:END -->
+ - [The White House says Adobe, Cohere, Microsoft, Anthropic, OpenAI, and Common Crawl made voluntary commitments to fight AI-generated image-based sexual abuse &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240912/p36#a240912p36)
+ - [Here’s our first look at the Google Photos extension for Gemini &lpar;APK Teardown&rpar;](https://www.androidauthority.com/gemini-google-photos-extension-screenshots-3481443/)
+ - [Android 15 QPR1 Beta 2 is live: Here’s what’s new](https://www.androidauthority.com/android-15-qpr1-beta-2-features-3481352/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
