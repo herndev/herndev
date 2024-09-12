@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Elgato has super-sized the Stream Deck for broadcasters](https://www.theverge.com/2024/9/12/24242942/elgato-stream-deck-studio-broadcast-streaming)
- - [Microsoft plans to make changes to Windows that will help CrowdStrike, Broadcom, and other security vendors operate outside of the Windows kernel &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/240912/p32#a240912p32)
- - [The Apple iPad Mini goes back to its all-time low price](https://www.androidauthority.com/apple-ipad-mini-6th-generation-deal-3481380/)<!-- TECH:END -->
+ - [Google app working to give you control over how searches influence your feed &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-app-updates-from-searches-3481377/)
+ - [Salesforce rolls out Agentforce, a suite of AI agents that handle tasks in sales, marketing, commerce, and customer service, starting at $2 per conversation &lpar;Ina Fried/Axios&rpar;](http://www.techmeme.com/240912/p34#a240912p34)
+ - [It will cost you over $1,100 to replace the screen on Huawei’s tri-fold phone](https://www.theverge.com/2024/9/12/24243081/huawei-mate-xt-ultimate-design-fold-screen-repair)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
