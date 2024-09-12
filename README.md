@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Free Play Days – UFC 5, Rainbow Six Siege, Classified: France ’44 and Overcooked All You Can Eat](https://news.xbox.com/en-us/2024/09/12/free-play-days-ufc-5-rainbow-six-siege-classified-france-44-and-overcooked-all-you-can-eat/)
- - [The best movies of 2024 so far](https://www.polygon.com/what-to-watch/24064917/best-movies-2024)
- - [Venom 3 trailer shows off its big bad: The God of Symbiotes](https://www.polygon.com/movies/450760/venom-3-trailer-knull-marvel-comics-origin)<!-- GAME:END -->
+ - [Chappell Roan Turned The VMAs Into An Elden Ring Cutscene](https://kotaku.com/chappell-roan-video-music-awards-vmas-good-luck-babe-1851646872)
+ - [Here’s The Deal With Those High-Level Ruins In Visions Of Mana](https://kotaku.com/visions-of-mana-how-to-beat-ruins-guide-1851646843)
+ - [Five New Features Are Coming To PS5 Starting Today And One Of Them Sounds Really Neat](https://kotaku.com/ps5-system-update-features-charging-3d-audio-1851646881)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
