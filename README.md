@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Wild Bastards review](https://www.pcgamer.com/games/fps/wild-bastards-review)
- - [US Dept of Justice claims Google &#39;corrupted legitimate competition in the ad tech industry by engaging in a systematic campaign to seize control&#39;](https://www.pcgamer.com/software/platforms/us-dept-of-justice-claims-google-corrupted-legitimate-competition-in-the-ad-tech-industry-by-engaging-in-a-systematic-campaign-to-seize-control)
- - [Destiny 2 Nerf Gun And Ace Of Spades Ornament Accused Of Plagiarizing 9-Year-Old Fanart [Update: Bungie Investigating]](https://kotaku.com/destiny-2-ace-of-spades-nerf-gun-ornament-fan-art-1851646089)<!-- GAME:END -->
+ - [Rings Of Power Season 2 Episode 5 Foreshadows The Disaster We All Know Is Coming](https://kotaku.com/rings-of-power-season-2-episode-5-review-recap-1851646323)
+ - [Yars Rising review](https://www.pcgamer.com/games/action/yars-rising-review)
+ - [Until Dawn PC features and specs revealed, out October 4](https://blog.playstation.com/2024/09/12/until-dawn-pc-features-and-specs-revealed-out-october-4/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
