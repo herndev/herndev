@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [He is dead, he just doesn&#39;t know it.](http://9gag.com/gag/a5QnAGg)
- - ⏩ [Unexpected aka wait till the end.](http://9gag.com/gag/azxqz8x)
- - 👉 [`No evidence` the longer version has he speaking... She is Haitian. End of.](http://9gag.com/gag/avy74qM)<!-- MEMES:END -->
+ - 💣 [Unexpected aka wait till the end.](http://9gag.com/gag/azxqz8x)
+ - ⏩ [Riyal RIP high school DXD](http://9gag.com/gag/azxqBBZ)
+ - 👉 [Remember kids. Never drink too much](http://9gag.com/gag/aQzerwz)<!-- MEMES:END -->
 
 ---
 
