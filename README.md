@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Phoebe always has to be close to her human](http://9gag.com/gag/aBy8jwz)
- - ⏩ [Winner](http://9gag.com/gag/aLn8N1V)
- - 👉 [Someone asked what&#39;s luck](http://9gag.com/gag/avy7DqE)<!-- MEMES:END -->
+ - 💣 [It it really true ??](http://9gag.com/gag/aXPvz9P)
+ - ⏩ [I have the high ground now](http://9gag.com/gag/aVvM4Md)
+ - 👉 [Unexpected aka wait till the end.](http://9gag.com/gag/azxqz8x)<!-- MEMES:END -->
 
 ---
 
