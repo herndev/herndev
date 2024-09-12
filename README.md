@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Watch Series 10 vs Apple Watch Ultra 2 - comparing the biggest wearables](https://appleinsider.com/inside/apple-watch-series-10/vs/apple-watch-series-10-vs-apple-watch-ultra-2---comparing-the-biggest-wearables?utm_medium=rss)
- - [Apple speeds up iPhone 16 USB-C charging with 45W upgrade](https://appleinsider.com/articles/24/09/12/apple-speeds-up-iphone-16-usb-c-charging-with-45w-upgrade?utm_medium=rss)
- - [Sony’s latest PS5 update can help protect controller batteries](https://www.theverge.com/2024/9/12/24242704/sony-playstation-ps5-update-adaptive-charging-controller-batteries)<!-- TECH:END -->
+ - [iFixit made its own USB-C soldering iron, and it’s already a joy](https://www.theverge.com/2024/9/12/24242497/ifixit-fixhub-usb-soldering-iron-station-battery-toolkit-price-release-date)
+ - [Google Wallet will let you make a digital ID from a US passport](https://www.theverge.com/2024/9/12/24242033/google-wallet-us-passport-drivers-license-digital-id)
+ - [Coinbase launches its wrapped bitcoin, cbBTC, on the Ethereum and Base networks, supported by various DeFi services for trading, lending, and as collateral &lpar;Shaurya Malwa/CoinDesk&rpar;](http://www.techmeme.com/240912/p12#a240912p12)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
