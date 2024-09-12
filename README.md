@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle answer for Thursday, September 12](https://www.pcgamer.com/games/puzzle/wordle-answer-today-september-12-2024)
  - [WoW duo reach max level in The War Within without actually playing The War Within](https://www.pcgamer.com/games/world-of-warcraft/wow-the-war-within-duo-max-level-exploration)
- - [Amidst upset over Space Marine 2 automatically installing Epic Online Services, Epic says PC crossplay is a requirement for all multiplayer games on its store](https://www.pcgamer.com/games/third-person-shooter/amidst-upset-over-space-marine-2-automatically-installing-epic-online-services-epic-says-pc-crossplay-is-a-requirement-for-all-multiplayer-games-on-its-store)
- - [If Space Marine 2 gets you curious about Warhammer 40K lore, give Darktide a spin](https://www.polygon.com/warhammer-40k/450651/warhammer-40k-space-marine-2-lore-darktide-imperium)<!-- GAME:END -->
+ - [Amidst upset over Space Marine 2 automatically installing Epic Online Services, Epic says PC crossplay is a requirement for all multiplayer games on its store](https://www.pcgamer.com/games/third-person-shooter/amidst-upset-over-space-marine-2-automatically-installing-epic-online-services-epic-says-pc-crossplay-is-a-requirement-for-all-multiplayer-games-on-its-store)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
