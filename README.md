@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [You can save up to 25% on the Steam Deck right now](https://www.polygon.com/good-deals/450957/steam-deck-lcd-sale)
- - [Here&#39;s What Star Wars Jedi: Survivor Looks Like On Last-Gen Consoles](https://kotaku.com/star-wars-jedi-survivor-ps4-pro-xbox-one-port-gameplay-1851647110)
- - [The Front Room might be 2024’s most political horror movie. The Eggers can almost agree.](https://www.polygon.com/horror/450806/front-room-a24-movie-sam-max-eggers-interview-brandy-norwood)<!-- GAME:END -->
+ - [The Steam Deck is on sale for 25% off, but maybe not the model you want](https://www.pcgamer.com/hardware/the-steam-deck-is-on-sale-for-25-off-but-maybe-not-the-model-you-want)
+ - [Mika And The Witch&#39;s Mountain Is Teeny Right Now, But Plans To Grow](https://kotaku.com/how-long-is-mika-and-the-witchs-mountain-1851647091)
+ - [McDonald’s Genshin Impact collab wants to give you in-game items instead of toys](https://www.polygon.com/genshin-impact/450401/mcdonalds-genshin-impact-collab-in-game-rewards)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
