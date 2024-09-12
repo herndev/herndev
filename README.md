@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Chappell Roan Turned The VMAs Into An Elden Ring Cutscene](https://kotaku.com/chappell-roan-video-music-awards-vmas-good-luck-babe-1851646872)
- - [Here’s The Deal With Those High-Level Ruins In Visions Of Mana](https://kotaku.com/visions-of-mana-how-to-beat-ruins-guide-1851646843)
- - [Five New Features Are Coming To PS5 Starting Today And One Of Them Sounds Really Neat](https://kotaku.com/ps5-system-update-features-charging-3d-audio-1851646881)<!-- GAME:END -->
+ - [World Of Warcraft: The War Within Has Huge Loot In Its New Delves](https://kotaku.com/world-of-warcraft-the-war-within-delves-guide-1851646959)
+ - [The Best Party Game On PC Is A Bargain On Steam Right Now](https://kotaku.com/jackbox-party-pack-steam-sale-pc-multiplayer-1851646977)
+ - [The Rings of Power episode 5 finally does something with its Rings of Power](https://www.polygon.com/lotr-rings-of-power/450477/trop-episode-5-review-sauron-celebrimbor-why)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
