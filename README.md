@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Researchers detail gaining the ability to generate counterfeit HTTPS certificates and more after acquiring an expired WHOIS server domain for the .mobi TLD &lpar;Dan Goodin/Ars Technica&rpar;](http://www.techmeme.com/240912/p4#a240912p4)
- - [A 397-page EC report, released shortly before CJEU&#39;s verdicts against Apple and Google, says the EU&#39;s competition enforcement can be &quot;harmful to innovation&quot; &lpar;Gian Volpicelli/Bloomberg&rpar;](http://www.techmeme.com/240912/p3#a240912p3)
- - [Google is getting ready to bring exclusive Pixel 9 features to older Pixels &lpar;APK Teardown&rpar;](https://www.androidauthority.com/google-pixel-9-camera-features-older-pixel-phones-3481138/)<!-- TECH:END -->
+ - [Breaking! Galaxy S23, Galaxy Z Fold 5, Galaxy Z Flip 5 start getting One UI 6.1.1 update](https://www.androidauthority.com/samsung-galaxy-s23-one-ui-6-1-1-update-3481154/)
+ - [Get a Sam&#39;s Club membership for just $15 &amp; snag deals on AirTags, iPads &amp; HomePods](https://appleinsider.com/articles/24/09/12/get-a-sams-club-membership-for-just-15?utm_medium=rss)
+ - [Researchers detail gaining the ability to generate counterfeit HTTPS certificates and more after acquiring an expired WHOIS server domain for the .mobi TLD &lpar;Dan Goodin/Ars Technica&rpar;](http://www.techmeme.com/240912/p4#a240912p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
