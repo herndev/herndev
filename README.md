@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I would love be that guy...](http://9gag.com/gag/a6ZVzLq)
- - ⏩ [Monkey](http://9gag.com/gag/a9yA01o)
- - 👉 [It it really true ??](http://9gag.com/gag/aXPvz9P)<!-- MEMES:END -->
+ - 💣 [It it really true ??](http://9gag.com/gag/aXPvz9P)
+ - ⏩ [This is toxic](http://9gag.com/gag/aAyD5Zd)
+ - 👉 [Unexpected aka wait till the end.](http://9gag.com/gag/azxqz8x)<!-- MEMES:END -->
 
 ---
 
