@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Rings Of Power Season 2 Episode 5 Foreshadows The Disaster We All Know Is Coming](https://kotaku.com/rings-of-power-season-2-episode-5-review-recap-1851646323)
- - [Yars Rising review](https://www.pcgamer.com/games/action/yars-rising-review)
- - [Until Dawn PC features and specs revealed, out October 4](https://blog.playstation.com/2024/09/12/until-dawn-pc-features-and-specs-revealed-out-october-4/)<!-- GAME:END -->
+ - [The new EVE survival MMO is using blockchain tech to create a &#39;boiling financial hellscape,&#39; but don&#39;t call it a blockchain game](https://www.pcgamer.com/games/mmo/the-new-eve-survival-mmo-is-using-blockchain-tech-to-create-a-boiling-financial-hellscape-but-dont-call-it-a-blockchain-game)
+ - [Microsoft gaming&#39;s post-acquisition bloodletting continues as 650 more staff are set to be laid off for &#39;sustainable future growth&#39;](https://www.pcgamer.com/gaming-industry/microsoft-gaming-s-post-acquisition-bloodletting-continues-as-650-more-staff-are-set-to-be-laid-off-for-sustainable-future-growth)
+ - [Summer movies, ranked by Hideo Kojima’s vibe-based tweet reactions](https://www.polygon.com/lists/450454/summer-movies-2024-ranked-by-hideo-kojima-tweets)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
