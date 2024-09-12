@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google’s new AI feature lets you turn your notes into eerily realistic podcasts](https://www.androidauthority.com/notebooklm-audio-overview-3481206/)
- - [16 Best Cozy Games &lpar;2024&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-cozy-games/)
- - [Best portable power stations for winter camping from Bluetti](https://appleinsider.com/articles/24/09/12/best-portable-power-stations-for-winter-camping-from-bluetti?utm_medium=rss)<!-- TECH:END -->
+ - [Flappy Bird is coming back](https://www.theverge.com/2024/9/12/24242791/flappy-bird-relaunch-2025-new-game-modes)
+ - [Sources: Sam Altman and execs from Google, Anthropic, Microsoft, and power and utility companies met at the White House regarding US AI energy infrastructure &lpar;Hayden Field/CNBC&rpar;](http://www.techmeme.com/240912/p16#a240912p16)
+ - [A unique attack could steal your passwords from Apple Vision Pro](https://appleinsider.com/articles/24/09/12/a-unique-attack-could-steal-your-passwords-from-apple-vision-pro?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
