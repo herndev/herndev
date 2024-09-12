@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [WhatsApp brings Meta Verified badges to small businesses in India, starting at ~$8/month, and gives them the ability to send customized messages to customers &lpar;TechCrunch&rpar;](http://www.techmeme.com/240912/p5#a240912p5)
- - [Both New Apple AirPods 4 Models Are Available for Preorder. Find the Best Deals](https://www.cnet.com/deals/both-new-apple-airpods-4-models-are-available-for-preorder-find-the-best-deals/#ftag=CAD590a51e)
- - [Breaking! Galaxy S23, Galaxy Z Fold 5, Galaxy Z Flip 5 start getting One UI 6.1.1 update](https://www.androidauthority.com/samsung-galaxy-s23-one-ui-6-1-1-update-3481154/)<!-- TECH:END -->
+ - [Apple’s AirPods Pro 2 could forever change how people access hearing aids](https://www.theverge.com/2024/9/12/24241960/apple-airpods-pro-2-otc-hearing-aid-health-industry)
+ - [Sony Xperia 1 VII wishlist: All the features I want to see](https://www.androidauthority.com/sony-xperia-1-vii-3479382/)
+ - [Ireland&#39;s DPC opens an investigation into Google&#39;s GDPR compliance over using the personal information of EU users for training foundational AI models &lpar;Natasha Lomas/TechCrunch&rpar;](http://www.techmeme.com/240912/p7#a240912p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
