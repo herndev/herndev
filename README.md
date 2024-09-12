@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [It it really true ??](http://9gag.com/gag/aXPvz9P)
- - ⏩ [Tables are turned](http://9gag.com/gag/aKGDXeN)
- - 👉 [This bromance was impeccable](http://9gag.com/gag/apRQXnb)<!-- MEMES:END -->
+ - 💣 [I would love be that guy...](http://9gag.com/gag/a6ZVzLq)
+ - ⏩ [Monkey](http://9gag.com/gag/a9yA01o)
+ - 👉 [It it really true ??](http://9gag.com/gag/aXPvz9P)<!-- MEMES:END -->
 
 ---
 
