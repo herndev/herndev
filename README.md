@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Listen to her](http://9gag.com/gag/adB9wyQ)
- - ⏩ [Today, a large group of Polish men visited migrants living in a former dormitory to inform them about cultural codes to abide by in Poland. The visit was made after reports that some of the migrants had recently started bothering kids on their way home from school in Zaniemy\u015bl](http://9gag.com/gag/ajPNvNQ)
- - 👉 [Kobie Turner, advocate of `sitting like an old man`](http://9gag.com/gag/adB9wKD)<!-- MEMES:END -->
+ - 💣 [It it really true ??](http://9gag.com/gag/aXPvz9P)
+ - ⏩ [Tables are turned](http://9gag.com/gag/aKGDXeN)
+ - 👉 [This bromance was impeccable](http://9gag.com/gag/apRQXnb)<!-- MEMES:END -->
 
 ---
 
