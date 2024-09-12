@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Flappy Bird is coming back](https://www.theverge.com/2024/9/12/24242791/flappy-bird-relaunch-2025-new-game-modes)
- - [Sources: Sam Altman and execs from Google, Anthropic, Microsoft, and power and utility companies met at the White House regarding US AI energy infrastructure &lpar;Hayden Field/CNBC&rpar;](http://www.techmeme.com/240912/p16#a240912p16)
- - [A unique attack could steal your passwords from Apple Vision Pro](https://appleinsider.com/articles/24/09/12/a-unique-attack-could-steal-your-passwords-from-apple-vision-pro?utm_medium=rss)<!-- TECH:END -->
+ - [Google Chrome makes it easier to opt out of annoying notifications on Android](https://www.theverge.com/2024/9/12/24242838/google-chrome-android-notifications-permissions)
+ - [Apple courageously removes charging cable from AirPods 4 box](https://www.androidauthority.com/airpods-4-box-excludes-cable-3481251/)
+ - [J.D. Vance shouldn&#39;t open his mouth about Apple if he doesn&#39;t have a clue](https://appleinsider.com/articles/24/09/12/jd-vance-shouldnt-open-his-mouth-about-apple-if-he-doesnt-have-a-clue?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
