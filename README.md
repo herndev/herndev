@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Today’s Samsung store deal can get you a whopping $1,000 off on the Galaxy S24 Ultra](https://www.androidauthority.com/discover-samsung-sale-galaxy-s24-ultra-galaxy-z-fold-6-galaxy-z-flip-6-3481133/)
- - [The iPhone 16 series got a big charging upgrade that Apple didn’t talk about](https://www.androidauthority.com/apple-iphone-16-series-charging-speed-certification-3481125/)
- - [Infineon says it has developed 300mm gallium nitride wafers, which can produce 2.3x more chips than 200mm wafers and speed their adoption for AI applications &lpar;Debby Wu/Bloomberg&rpar;](http://www.techmeme.com/240911/p27#a240911p27)<!-- TECH:END -->
+ - [Centricity, a digital wealth management service for financial advisers and asset managers, raised a $20M seed led by Lightspeed India at a $125M valuation &lpar;The Economic Times&rpar;](http://www.techmeme.com/240912/p2#a240912p2)
+ - [Tune.fm, a music streaming service with an integrated NFT marketplace that offers blockchain micropayments to artists, raised $50M from Global Emerging Markets &lpar;Ana Paula Pereira/Cointelegraph&rpar;](http://www.techmeme.com/240912/p1#a240912p1)
+ - [Today’s Samsung store deal can get you a whopping $1,000 off on the Galaxy S24 Ultra](https://www.androidauthority.com/discover-samsung-sale-galaxy-s24-ultra-galaxy-z-fold-6-galaxy-z-flip-6-3481133/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
