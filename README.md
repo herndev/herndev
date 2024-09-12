@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I\u2019m actively dying of cancer. My brother took this picture. My days are near an end I fear my friends.](http://9gag.com/gag/aQzebVe)
- - ⏩ [Just saying!!](http://9gag.com/gag/a6ZVeYm)
- - 👉 [Remember when shows didn&#39;t have diversity quotas like today?](http://9gag.com/gag/aGyeqrK)<!-- MEMES:END -->
+ - 💣 [He is dead, he just doesn&#39;t know it.](http://9gag.com/gag/a5QnAGg)
+ - ⏩ [It it really true ??](http://9gag.com/gag/aXPvz9P)
+ - 👉 [This bromance was impeccable](http://9gag.com/gag/apRQXnb)<!-- MEMES:END -->
 
 ---
 
