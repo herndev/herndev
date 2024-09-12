@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Flappy Bird to return a decade after its viral rise and fall](https://www.polygon.com/gaming/451035/flappy-bird-returns-2024-ios-android)
- - [Cyberpunk 2077 finally has official support for AMD&#39;s FSR3](https://www.pcgamer.com/games/rpg/cyberpunk-2077-finally-has-official-support-for-amds-fsr3)
- - [Here’s what you get with Nintendo Switch Online + Expansion Pack](https://www.polygon.com/22747408/nintendo-switch-online-expansion-pack-faq-price-cancel-guide)<!-- GAME:END -->
+ - [The next Helldivers 2 Warbond is almost certainly a violation of international humanitarian law](https://www.pcgamer.com/games/third-person-shooter/the-next-helldivers-2-warbond-is-almost-certainly-a-violation-of-international-humanitarian-law)
+ - [Tony Hawk teases something ‘insanely exciting’ for Pro Skater’s 25th anniversary](https://www.polygon.com/gaming/451091/tony-hawk-pro-skater-25th-anniversary-thps-3-4)
+ - [If you get kicked out of your Steam Family, the slot is locked for a year, so you&#39;d better get along—here&#39;s how Steam&#39;s new family sharing system works](https://www.pcgamer.com/software/platforms/steam-families-launch-faq)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
