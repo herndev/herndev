@@ -48,7 +48,7 @@
 <!-- MEMES:START -->
  - 💣 [55lbs down and have kept it off for a year!](http://9gag.com/gag/aBy8MW1)
  - ⏩ [Ryan Reynolds from temu behind the bar](http://9gag.com/gag/aRBj8jq)
- - 👉 [Today, a large group of Polish men visited migrants living in a former dormitory to inform them about cultural codes to abide by in Poland. The visit was made after reports that some of the migrants had recently started bothering kids on their way home from school in Zaniemy\u015bl](http://9gag.com/gag/ajPNvNQ)<!-- MEMES:END -->
+ - 👉 [Remember when shows didn&#39;t have diversity quotas like today?](http://9gag.com/gag/aGyeqrK)<!-- MEMES:END -->
 
 ---
 
