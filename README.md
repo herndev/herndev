@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The next Helldivers 2 Warbond is almost certainly a violation of international humanitarian law](https://www.pcgamer.com/games/third-person-shooter/the-next-helldivers-2-warbond-is-almost-certainly-a-violation-of-international-humanitarian-law)
- - [Tony Hawk teases something ‘insanely exciting’ for Pro Skater’s 25th anniversary](https://www.polygon.com/gaming/451091/tony-hawk-pro-skater-25th-anniversary-thps-3-4)
- - [If you get kicked out of your Steam Family, the slot is locked for a year, so you&#39;d better get along—here&#39;s how Steam&#39;s new family sharing system works](https://www.pcgamer.com/software/platforms/steam-families-launch-faq)<!-- GAME:END -->
+ - [A Year Later, Unity Cancels Controversial Runtime Fees Completely](https://kotaku.com/unity-install-runtime-fees-canceled-ceo-blog-post-price-1851647405)
+ - [The Latest Dragon Ball: Sparking Zero Trailer Has Shocked Fans In The Best Way](https://kotaku.com/dragon-ball-sparking-zero-gt-ss4-baby-super-17-roster-1851647395)
+ - [God of War Ragnarök is coming to PC on Sept. 19, and you can already get $10 off](https://www.polygon.com/good-deals/450854/god-of-war-gow-ragnarok-pre-order-steam-pc-deal)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
