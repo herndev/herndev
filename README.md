@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Unexpected aka wait till the end.](http://9gag.com/gag/azxqz8x)
- - ⏩ [I would love be that guy...](http://9gag.com/gag/a6ZVzLq)
- - 👉 [Winner](http://9gag.com/gag/aLn8N1V)<!-- MEMES:END -->
+ - 💣 [All hole already used](http://9gag.com/gag/avy741O)
+ - ⏩ [Unexpected aka wait till the end.](http://9gag.com/gag/azxqz8x)
+ - 👉 [Remember kids. Never drink too much](http://9gag.com/gag/aQzerwz)<!-- MEMES:END -->
 
 ---
 
