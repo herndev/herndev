@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Does anyone recognize the thieves fat face? Location: Germany, lake of constanze &lpar;Bodenseekreis&rpar;, FN](http://9gag.com/gag/a7oDmpq)
- - ⏩ [He is dead, he just doesn&#39;t know it.](http://9gag.com/gag/a5QnAGg)
- - 👉 [Kick and scream all you want.....it&#39;s gonna happen.](http://9gag.com/gag/aPA9Lgq)<!-- MEMES:END -->
+ - 💣 [I\u2019m actively dying of cancer. My brother took this picture. My days are near an end I fear my friends.](http://9gag.com/gag/aQzebVe)
+ - ⏩ [Just saying!!](http://9gag.com/gag/a6ZVeYm)
+ - 👉 [Remember when shows didn&#39;t have diversity quotas like today?](http://9gag.com/gag/aGyeqrK)<!-- MEMES:END -->
 
 ---
 
