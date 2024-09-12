@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [PS5 system update adds Welcome hub, Party Share, personalized 3D audio profiles, adaptive controller charging, and more](https://blog.playstation.com/2024/09/12/ps5-system-update-adds-welcome-hub-party-share-personalized-3d-audio-profiles-adaptive-controller-charging-and-more/)
- - [PS5 system update adds Welcome hub, Party Share, personalized 3D audio profiles, adaptive controller charging, and more](https://blog.playstation.com/2024/09/12/ps5-system-update-adds-welcome-hub-party-share-personalized-3d-audio-profiles-adaptive-controller-charging-and-more/)
- - [Today&#39;s Wordle answer for Thursday, September 12](https://www.pcgamer.com/games/puzzle/wordle-answer-today-september-12-2024)<!-- GAME:END -->
+ - [This custom Final Fantasy 14 controller uses real paint on a canvas to control the Pictomancer, you know, for the immersion](https://www.pcgamer.com/games/final-fantasy/this-custom-final-fantasy-14-controller-uses-real-paint-on-a-canvas-to-control-the-pictomancer-you-know-for-the-immersion)
+ - [Asus ROG Delta II review](https://www.pcgamer.com/hardware/gaming-headsets/asus-rog-delta-ii-gaming-headset-review)
+ - [Finally, a game that knows the best bit of being a witch is creeping everyone out](https://www.pcgamer.com/games/sim/finally-a-game-that-knows-the-best-bit-of-being-a-witch-is-creeping-everyone-out)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
