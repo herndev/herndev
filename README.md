@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [World Of Warcraft: The War Within Has Huge Loot In Its New Delves](https://kotaku.com/world-of-warcraft-the-war-within-delves-guide-1851646959)
- - [The Best Party Game On PC Is A Bargain On Steam Right Now](https://kotaku.com/jackbox-party-pack-steam-sale-pc-multiplayer-1851646977)
- - [The Rings of Power episode 5 finally does something with its Rings of Power](https://www.polygon.com/lotr-rings-of-power/450477/trop-episode-5-review-sauron-celebrimbor-why)<!-- GAME:END -->
+ - [You can save up to 25% on the Steam Deck right now](https://www.polygon.com/good-deals/450957/steam-deck-lcd-sale)
+ - [Here&#39;s What Star Wars Jedi: Survivor Looks Like On Last-Gen Consoles](https://kotaku.com/star-wars-jedi-survivor-ps4-pro-xbox-one-port-gameplay-1851647110)
+ - [The Front Room might be 2024’s most political horror movie. The Eggers can almost agree.](https://www.polygon.com/horror/450806/front-room-a24-movie-sam-max-eggers-interview-brandy-norwood)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
