@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Steam Deck is on sale for 25% off, but maybe not the model you want](https://www.pcgamer.com/hardware/the-steam-deck-is-on-sale-for-25-off-but-maybe-not-the-model-you-want)
- - [Mika And The Witch&#39;s Mountain Is Teeny Right Now, But Plans To Grow](https://kotaku.com/how-long-is-mika-and-the-witchs-mountain-1851647091)
- - [McDonald’s Genshin Impact collab wants to give you in-game items instead of toys](https://www.polygon.com/genshin-impact/450401/mcdonalds-genshin-impact-collab-in-game-rewards)<!-- GAME:END -->
+ - [Flappy Bird to return a decade after its viral rise and fall](https://www.polygon.com/gaming/451035/flappy-bird-returns-2024-ios-android)
+ - [Cyberpunk 2077 finally has official support for AMD&#39;s FSR3](https://www.pcgamer.com/games/rpg/cyberpunk-2077-finally-has-official-support-for-amds-fsr3)
+ - [Here’s what you get with Nintendo Switch Online + Expansion Pack](https://www.polygon.com/22747408/nintendo-switch-online-expansion-pack-faq-price-cancel-guide)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
