@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Infineon says it has developed 300mm gallium nitride wafers, which can produce 2.3x more chips than 200mm wafers and speed their adoption for AI applications &lpar;Debby Wu/Bloomberg&rpar;](http://www.techmeme.com/240911/p27#a240911p27)
- - [Best Buy issues first material discount on the new black Apple Watch Ultra 2](https://appleinsider.com/articles/24/09/12/best-buy-issues-first-material-discount-on-the-new-black-apple-watch-ultra-2?utm_medium=rss)
- - [Nevada is working with Google to launch a generative AI tool that will issue recommendations to human referees on whether unemployed workers should get benefits &lpar;Todd Feathers/Gizmodo&rpar;](http://www.techmeme.com/240911/p26#a240911p26)<!-- TECH:END -->
+ - [Today’s Samsung store deal can get you a whopping $1,000 off on the Galaxy S24 Ultra](https://www.androidauthority.com/discover-samsung-sale-galaxy-s24-ultra-galaxy-z-fold-6-galaxy-z-flip-6-3481133/)
+ - [The iPhone 16 series got a big charging upgrade that Apple didn’t talk about](https://www.androidauthority.com/apple-iphone-16-series-charging-speed-certification-3481125/)
+ - [Infineon says it has developed 300mm gallium nitride wafers, which can produce 2.3x more chips than 200mm wafers and speed their adoption for AI applications &lpar;Debby Wu/Bloomberg&rpar;](http://www.techmeme.com/240911/p27#a240911p27)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
