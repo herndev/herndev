@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The White House says Adobe, Cohere, Microsoft, Anthropic, OpenAI, and Common Crawl made voluntary commitments to fight AI-generated image-based sexual abuse &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240912/p36#a240912p36)
- - [Here’s our first look at the Google Photos extension for Gemini &lpar;APK Teardown&rpar;](https://www.androidauthority.com/gemini-google-photos-extension-screenshots-3481443/)
- - [Android 15 QPR1 Beta 2 is live: Here’s what’s new](https://www.androidauthority.com/android-15-qpr1-beta-2-features-3481352/)<!-- TECH:END -->
+ - [The entire staff of beloved game publisher Annapurna Interactive has reportedly resigned](https://www.theverge.com/games/2024/9/12/24243317/annapurna-interactive-staff-reportedly-resigns)
+ - [Google tests desktop windowing for Android tablets](https://www.theverge.com/2024/9/12/24243230/google-android-desktop-window-resize-multitasking-tablets)
+ - [Here’s everything you need to know about preordering the new iPhone 16](https://www.theverge.com/24237057/apple-iphone-16-plus-pro-max-preorder-buy-price-release-date)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
