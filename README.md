@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple’s AirPods Pro 2 could forever change how people access hearing aids](https://www.theverge.com/2024/9/12/24241960/apple-airpods-pro-2-otc-hearing-aid-health-industry)
- - [Sony Xperia 1 VII wishlist: All the features I want to see](https://www.androidauthority.com/sony-xperia-1-vii-3479382/)
- - [Ireland&#39;s DPC opens an investigation into Google&#39;s GDPR compliance over using the personal information of EU users for training foundational AI models &lpar;Natasha Lomas/TechCrunch&rpar;](http://www.techmeme.com/240912/p7#a240912p7)<!-- TECH:END -->
+ - [Why NASA is sticking with Boeing](https://www.theverge.com/2024/9/12/24241904/boeing-starliner-nasa-iss-spacex-crew-dragon)
+ - [iOS 18 has over 250 new features and updates, says Apple](https://appleinsider.com/articles/24/09/12/ios-18-has-over-250-new-features-and-updates-says-apple?utm_medium=rss)
+ - [Microsoft lays off 650 more Xbox employees](https://www.theverge.com/2024/9/12/24242695/microsoft-xbox-layoffs-650-employees)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
