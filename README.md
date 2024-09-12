@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [A Year Later, Unity Cancels Controversial Runtime Fees Completely](https://kotaku.com/unity-install-runtime-fees-canceled-ceo-blog-post-price-1851647405)
- - [The Latest Dragon Ball: Sparking Zero Trailer Has Shocked Fans In The Best Way](https://kotaku.com/dragon-ball-sparking-zero-gt-ss4-baby-super-17-roster-1851647395)
- - [God of War Ragnarök is coming to PC on Sept. 19, and you can already get $10 off](https://www.polygon.com/good-deals/450854/god-of-war-gow-ragnarok-pre-order-steam-pc-deal)<!-- GAME:END -->
+ - [WoW: The War Within&#39;s new mini dungeons are annihilating solo players while groups sleepwalk through them for &#39;free&#39; loot](https://www.pcgamer.com/games/world-of-warcraft/wow-the-war-within-s-new-mini-dungeons-are-annihilating-solo-players-while-groups-sleepwalk-through-them-for-free-loot)
+ - [Valve politely asks that you only use Steam&#39;s family sharing for &#39;close family members&#39; in a &#39;household,&#39; but let&#39;s be real: everyone shares their games with Discord friends](https://www.pcgamer.com/software/platforms/steam-families-household-rule)
+ - [European Consumer Organization alleges game companies including Activision, Electronic Arts, Epic, and Ubisoft are &#39;tricking&#39; consumers with premium in-game currencies](https://www.pcgamer.com/gaming-industry/european-consumer-organization-alleges-game-companies-including-activision-electronic-arts-epic-and-ubisoft-are-tricking-consumers-with-premium-in-game-currencies)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
