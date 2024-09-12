@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Not the same vibe](http://9gag.com/gag/aKGDNxN)
- - ⏩ [Today, a large group of Polish men visited migrants living in a former dormitory to inform them about cultural codes to abide by in Poland. The visit was made after reports that some of the migrants had recently started bothering kids on their way home from school in Zaniemy\u015bl](http://9gag.com/gag/ajPNvNQ)
- - 👉 [Ryan Reynolds from temu behind the bar](http://9gag.com/gag/aRBj8jq)<!-- MEMES:END -->
+ - 💣 [I&#39;ve never seen so much stupid in one video](http://9gag.com/gag/aD2zq0w)
+ - ⏩ [Who would like to join this group?](http://9gag.com/gag/a4PGmNA)
+ - 👉 [X-23](http://9gag.com/gag/aE0BbyM)<!-- MEMES:END -->
 
 ---
 
