@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Why NASA is sticking with Boeing](https://www.theverge.com/2024/9/12/24241904/boeing-starliner-nasa-iss-spacex-crew-dragon)
- - [iOS 18 has over 250 new features and updates, says Apple](https://appleinsider.com/articles/24/09/12/ios-18-has-over-250-new-features-and-updates-says-apple?utm_medium=rss)
- - [Microsoft lays off 650 more Xbox employees](https://www.theverge.com/2024/9/12/24242695/microsoft-xbox-layoffs-650-employees)<!-- TECH:END -->
+ - [Apple Watch Series 10 vs Apple Watch Ultra 2 - comparing the biggest wearables](https://appleinsider.com/inside/apple-watch-series-10/vs/apple-watch-series-10-vs-apple-watch-ultra-2---comparing-the-biggest-wearables?utm_medium=rss)
+ - [Apple speeds up iPhone 16 USB-C charging with 45W upgrade](https://appleinsider.com/articles/24/09/12/apple-speeds-up-iphone-16-usb-c-charging-with-45w-upgrade?utm_medium=rss)
+ - [Sony’s latest PS5 update can help protect controller batteries](https://www.theverge.com/2024/9/12/24242704/sony-playstation-ps5-update-adaptive-charging-controller-batteries)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
