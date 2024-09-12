@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [All hole already used](http://9gag.com/gag/avy741O)
- - ⏩ [Unexpected aka wait till the end.](http://9gag.com/gag/azxqz8x)
- - 👉 [Remember kids. Never drink too much](http://9gag.com/gag/aQzerwz)<!-- MEMES:END -->
+ - 💣 [Phoebe always has to be close to her human](http://9gag.com/gag/aBy8jwz)
+ - ⏩ [Winner](http://9gag.com/gag/aLn8N1V)
+ - 👉 [Someone asked what&#39;s luck](http://9gag.com/gag/avy7DqE)<!-- MEMES:END -->
 
 ---
 
