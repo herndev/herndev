@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Nevada is working with Google to launch a generative AI tool that will issue recommendations to human referees on whether unemployed workers should get benefits &lpar;Todd Feathers/Gizmodo&rpar;](http://www.techmeme.com/240911/p26#a240911p26)
  - [Sources: Adam Neumann&#39;s Flowcarbon, which raised $70M in 2022 from a16z and others, is refunding investors after failing to launch its Goddess Nature Token &lpar;Sarah Emerson/Forbes&rpar;](http://www.techmeme.com/240911/p25#a240911p25)
- - [iPhone 16 models see faster 5G downloads with new Snapdragon X75 modem](https://appleinsider.com/articles/24/09/12/iphone-16-models-see-faster-5g-downloads-with-new-snapdragon-x75-modem?utm_medium=rss)
- - [Best Immunity Supplements for 2024](https://www.cnet.com/health/nutrition/best-immunity-supplements/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [iPhone 16 models see faster 5G downloads with new Snapdragon X75 modem](https://appleinsider.com/articles/24/09/12/iphone-16-models-see-faster-5g-downloads-with-new-snapdragon-x75-modem?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
