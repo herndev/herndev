@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Today&#39;s Wordle answer for Thursday, September 12](https://www.pcgamer.com/games/puzzle/wordle-answer-today-september-12-2024)
- - [WoW duo reach max level in The War Within without actually playing The War Within](https://www.pcgamer.com/games/world-of-warcraft/wow-the-war-within-duo-max-level-exploration)
- - [Amidst upset over Space Marine 2 automatically installing Epic Online Services, Epic says PC crossplay is a requirement for all multiplayer games on its store](https://www.pcgamer.com/games/third-person-shooter/amidst-upset-over-space-marine-2-automatically-installing-epic-online-services-epic-says-pc-crossplay-is-a-requirement-for-all-multiplayer-games-on-its-store)<!-- GAME:END -->
+ - [PS5 system update adds Welcome hub, Party Share, personalized 3D audio profiles, adaptive controller charging, and more](https://blog.playstation.com/2024/09/12/ps5-system-update-adds-welcome-hub-party-share-personalized-3d-audio-profiles-adaptive-controller-charging-and-more/)
+ - [PS5 system update adds Welcome hub, Party Share, personalized 3D audio profiles, adaptive controller charging, and more](https://blog.playstation.com/2024/09/12/ps5-system-update-adds-welcome-hub-party-share-personalized-3d-audio-profiles-adaptive-controller-charging-and-more/)
+ - [Today&#39;s Wordle answer for Thursday, September 12](https://www.pcgamer.com/games/puzzle/wordle-answer-today-september-12-2024)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
