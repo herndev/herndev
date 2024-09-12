@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Centricity, a digital wealth management service for financial advisers and asset managers, raised a $20M seed led by Lightspeed India at a $125M valuation &lpar;The Economic Times&rpar;](http://www.techmeme.com/240912/p2#a240912p2)
- - [Tune.fm, a music streaming service with an integrated NFT marketplace that offers blockchain micropayments to artists, raised $50M from Global Emerging Markets &lpar;Ana Paula Pereira/Cointelegraph&rpar;](http://www.techmeme.com/240912/p1#a240912p1)
- - [Today’s Samsung store deal can get you a whopping $1,000 off on the Galaxy S24 Ultra](https://www.androidauthority.com/discover-samsung-sale-galaxy-s24-ultra-galaxy-z-fold-6-galaxy-z-flip-6-3481133/)<!-- TECH:END -->
+ - [Researchers detail gaining the ability to generate counterfeit HTTPS certificates and more after acquiring an expired WHOIS server domain for the .mobi TLD &lpar;Dan Goodin/Ars Technica&rpar;](http://www.techmeme.com/240912/p4#a240912p4)
+ - [A 397-page EC report, released shortly before CJEU&#39;s verdicts against Apple and Google, says the EU&#39;s competition enforcement can be &quot;harmful to innovation&quot; &lpar;Gian Volpicelli/Bloomberg&rpar;](http://www.techmeme.com/240912/p3#a240912p3)
+ - [Google is getting ready to bring exclusive Pixel 9 features to older Pixels &lpar;APK Teardown&rpar;](https://www.androidauthority.com/google-pixel-9-camera-features-older-pixel-phones-3481138/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
