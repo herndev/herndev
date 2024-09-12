@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [This custom Final Fantasy 14 controller uses real paint on a canvas to control the Pictomancer, you know, for the immersion](https://www.pcgamer.com/games/final-fantasy/this-custom-final-fantasy-14-controller-uses-real-paint-on-a-canvas-to-control-the-pictomancer-you-know-for-the-immersion)
- - [Asus ROG Delta II review](https://www.pcgamer.com/hardware/gaming-headsets/asus-rog-delta-ii-gaming-headset-review)
- - [Finally, a game that knows the best bit of being a witch is creeping everyone out](https://www.pcgamer.com/games/sim/finally-a-game-that-knows-the-best-bit-of-being-a-witch-is-creeping-everyone-out)<!-- GAME:END -->
+ - [Wild Bastards review](https://www.pcgamer.com/games/fps/wild-bastards-review)
+ - [US Dept of Justice claims Google &#39;corrupted legitimate competition in the ad tech industry by engaging in a systematic campaign to seize control&#39;](https://www.pcgamer.com/software/platforms/us-dept-of-justice-claims-google-corrupted-legitimate-competition-in-the-ad-tech-industry-by-engaging-in-a-systematic-campaign-to-seize-control)
+ - [Destiny 2 Nerf Gun And Ace Of Spades Ornament Accused Of Plagiarizing 9-Year-Old Fanart [Update: Bungie Investigating]](https://kotaku.com/destiny-2-ace-of-spades-nerf-gun-ornament-fan-art-1851646089)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
