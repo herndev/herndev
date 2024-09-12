@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [It it really true ??](http://9gag.com/gag/aXPvz9P)
- - ⏩ [Ryan Reynolds from temu behind the bar](http://9gag.com/gag/aRBj8jq)
- - 👉 [Remember kids. Never drink too much](http://9gag.com/gag/aQzerwz)<!-- MEMES:END -->
+ - 💣 [He is dead, he just doesn&#39;t know it.](http://9gag.com/gag/a5QnAGg)
+ - ⏩ [Unexpected aka wait till the end.](http://9gag.com/gag/azxqz8x)
+ - 👉 [`No evidence` the longer version has he speaking... She is Haitian. End of.](http://9gag.com/gag/avy74qM)<!-- MEMES:END -->
 
 ---
 
