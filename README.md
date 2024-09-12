@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Does anyone recognize the thieves fat face? Location: Germany, lake of constanze &lpar;Bodenseekreis&rpar;, FN](http://9gag.com/gag/a7oDmpq)
- - ⏩ [X-23](http://9gag.com/gag/aE0BbyM)
- - 👉 [It it really true ??](http://9gag.com/gag/aXPvz9P)<!-- MEMES:END -->
+ - 💣 [The Danish Military did an IQ test. A trend was spotted.](http://9gag.com/gag/aNDzMyw)
+ - ⏩ [She didn&#39;t see it coming.](http://9gag.com/gag/a7oDx5A)
+ - 👉 [Welcome to... Australia!](http://9gag.com/gag/ae9eBb5)<!-- MEMES:END -->
 
 ---
 
