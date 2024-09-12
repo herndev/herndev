@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Chrome makes it easier to opt out of annoying notifications on Android](https://www.theverge.com/2024/9/12/24242838/google-chrome-android-notifications-permissions)
- - [Apple courageously removes charging cable from AirPods 4 box](https://www.androidauthority.com/airpods-4-box-excludes-cable-3481251/)
- - [J.D. Vance shouldn&#39;t open his mouth about Apple if he doesn&#39;t have a clue](https://appleinsider.com/articles/24/09/12/jd-vance-shouldnt-open-his-mouth-about-apple-if-he-doesnt-have-a-clue?utm_medium=rss)<!-- TECH:END -->
+ - [New Galaxy S25 renders show flat sides aren’t going anywhere](https://www.androidauthority.com/galaxy-s25-renders-3481265/)
+ - [Utah-based Strider, which analyzes OSINT to help protect organizations against nation-state attacks, raised a $55M Series C, bringing its total funding to $110M &lpar;James Rundle/Wall Street Journal&rpar;](http://www.techmeme.com/240912/p25#a240912p25)
+ - [Yes, You Can Now Bet on Elections in the US](https://www.wired.com/story/yes-you-can-now-bet-on-elections-in-the-us/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
