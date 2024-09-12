@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Unexpected aka wait till the end.](http://9gag.com/gag/azxqz8x)
- - ⏩ [Riyal RIP high school DXD](http://9gag.com/gag/azxqBBZ)
- - 👉 [Remember kids. Never drink too much](http://9gag.com/gag/aQzerwz)<!-- MEMES:END -->
+ - ⏩ [I would love be that guy...](http://9gag.com/gag/a6ZVzLq)
+ - 👉 [Winner](http://9gag.com/gag/aLn8N1V)<!-- MEMES:END -->
 
 ---
 
