@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [It it really true ??](http://9gag.com/gag/aXPvz9P)
- - ⏩ [This is toxic](http://9gag.com/gag/aAyD5Zd)
- - 👉 [Unexpected aka wait till the end.](http://9gag.com/gag/azxqz8x)<!-- MEMES:END -->
+ - 💣 [Looking at 9gag in the work bathroom](http://9gag.com/gag/a9yAGL6)
+ - ⏩ [X-23](http://9gag.com/gag/aE0BbyM)
+ - 👉 [It it really true ??](http://9gag.com/gag/aXPvz9P)<!-- MEMES:END -->
 
 ---
 
