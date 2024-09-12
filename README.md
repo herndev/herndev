@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Congrats!](http://9gag.com/gag/a2v4AA9)
- - ⏩ [I would love be that guy...](http://9gag.com/gag/a6ZVzLq)
- - 👉 [Not the same vibe](http://9gag.com/gag/aKGDNxN)<!-- MEMES:END -->
+ - 💣 [What&#39;s better than one gf? two.](http://9gag.com/gag/aQzeNre)
+ - ⏩ [Winner](http://9gag.com/gag/aLn8N1V)
+ - 👉 [Welcome to London, where you can be arrested for criticizing active crime in front of police](http://9gag.com/gag/aPA9zYB)<!-- MEMES:END -->
 
 ---
 
