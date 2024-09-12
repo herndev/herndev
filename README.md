@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The new EVE survival MMO is using blockchain tech to create a &#39;boiling financial hellscape,&#39; but don&#39;t call it a blockchain game](https://www.pcgamer.com/games/mmo/the-new-eve-survival-mmo-is-using-blockchain-tech-to-create-a-boiling-financial-hellscape-but-dont-call-it-a-blockchain-game)
- - [Microsoft gaming&#39;s post-acquisition bloodletting continues as 650 more staff are set to be laid off for &#39;sustainable future growth&#39;](https://www.pcgamer.com/gaming-industry/microsoft-gaming-s-post-acquisition-bloodletting-continues-as-650-more-staff-are-set-to-be-laid-off-for-sustainable-future-growth)
- - [Summer movies, ranked by Hideo Kojima’s vibe-based tweet reactions](https://www.polygon.com/lists/450454/summer-movies-2024-ranked-by-hideo-kojima-tweets)<!-- GAME:END -->
+ - [Free Play Days – UFC 5, Rainbow Six Siege, Classified: France ’44 and Overcooked All You Can Eat](https://news.xbox.com/en-us/2024/09/12/free-play-days-ufc-5-rainbow-six-siege-classified-france-44-and-overcooked-all-you-can-eat/)
+ - [The best movies of 2024 so far](https://www.polygon.com/what-to-watch/24064917/best-movies-2024)
+ - [Venom 3 trailer shows off its big bad: The God of Symbiotes](https://www.polygon.com/movies/450760/venom-3-trailer-knull-marvel-comics-origin)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
