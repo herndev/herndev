@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Looking at 9gag in the work bathroom](http://9gag.com/gag/a9yAGL6)
- - ⏩ [He should get the kid 100%](http://9gag.com/gag/a6ZV6PL)
- - 👉 [From the Archiv for my fellow Excel slaves](http://9gag.com/gag/a9yAGAK)<!-- MEMES:END -->
+ - 💣 [PS5 vs PS5 Pro](http://9gag.com/gag/agmYz86)
+ - ⏩ [Welcome to... Australia!](http://9gag.com/gag/ae9eBb5)
+ - 👉 [I&#39;m completely new to the lore of Warhammer 40k and hoped someone could recommend me a good book to start on. I love the heresy memes and want to find out where they come from.](http://9gag.com/gag/aMVA7ZG)<!-- MEMES:END -->
 
 ---
 
