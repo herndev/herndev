@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [These are the best iPhone 16 Pro and iPhone 16 Pro Max cases you can snag right now](https://appleinsider.com/inside/iphone-16/best/these-are-the-best-iphone-16-pro-and-iphone-16-pro-max-cases-you-can-snag-right-now?utm_medium=rss)
- - [The best cases you can get for your iPhone 16 and iPhone 16 Plus](https://appleinsider.com/inside/iphone-16/best/the-best-cases-you-can-get-for-your-iphone-16-and-iphone-16-plus?utm_medium=rss)
- - [iPhone 16 vs iPhone 15 compared - the iPhone for the rest of us](https://appleinsider.com/inside/iphone-16/vs/iphone-16-vs-iphone-15-compared---the-iphone-for-the-rest-of-us?utm_medium=rss)<!-- TECH:END -->
+ - [Waymo and Uber expand their robotaxi partnership to Austin and Atlanta](https://www.theverge.com/2024/9/13/24243397/waymo-uber-austin-atlanta-robotaxi-partnership)
+ - [Don’t ask if AI can make art — ask how AI can be art](https://www.theverge.com/2024/9/13/24241189/generative-ai-interactivity-art)
+ - [iPhone 16 Pro Max sees shipping date slip just minutes after preorders start](https://appleinsider.com/articles/24/09/13/iphone-16-pro-max-see-shipping-date-slip-just-minutes-after-preorders-start?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
