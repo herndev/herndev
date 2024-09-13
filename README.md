@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How Ubisoft Built an Authentic New World for Star Wars Outlaws](https://news.xbox.com/en-us/2024/09/13/how-ubisoft-built-an-authentic-new-world-for-star-wars-outlaws/)
- - [Voice actor Peter Renaday, who played Duncan in Dragon Age: Origins, has died age 89](https://www.pcgamer.com/gaming-industry/voice-actor-peter-renaday-who-played-duncan-in-dragon-age-origins-has-died-age-89)
- - [Someone Added VP Nom And Dreamcast Fan Tim Walz To Crazy Taxi](https://kotaku.com/crazy-taxi-dreamcast-tim-walz-fan-sega-mod-kamala-vp-1851647426)<!-- GAME:END -->
+ - [How Jackbox Games Took a Beloved Party Game and Made a New Remote Play Version](https://news.xbox.com/en-us/2024/09/13/how-jackbox-games-took-a-beloved-party-game-and-made-a-new-remote-play-version/)
+ - [Frostpunk 2’s co-director on the changes they made to the game](https://www.polygon.com/gaming/451037/frostpunk-2-interview-jakub-stokalski-11-bit-games)
+ - [The Lollipop Chainsaw Remaster Is A Janky Mess](https://kotaku.com/lollipop-chainsaw-repop-review-performance-broken-bugs-1851648070)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
