@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Looking at 9gag in the work bathroom](http://9gag.com/gag/a9yAGL6)
- - ⏩ [Just a 3 years old tadpole that didn&#39;t turned into a frog &lpar;banana for scale&rpar;](http://9gag.com/gag/a9yA0LK)
- - 👉 [It it really true ??](http://9gag.com/gag/aXPvz9P)<!-- MEMES:END -->
+ - 💣 [This is toxic](http://9gag.com/gag/aAyD5Zd)
+ - ⏩ [Monkey](http://9gag.com/gag/a9yA01o)
+ - 👉 [The fake petition comments are gold\u2026](http://9gag.com/gag/avy7qPn)<!-- MEMES:END -->
 
 ---
 
