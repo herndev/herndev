@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [PS5 vs PS5 Pro](http://9gag.com/gag/agmYz86)
- - ⏩ [Find that someone who always makes you feel seen.](http://9gag.com/gag/agmYzAK)
- - 👉 [All over...](http://9gag.com/gag/aD2zeyG)<!-- MEMES:END -->
+ - 💣 [Magic rocks logic](http://9gag.com/gag/a4PGXVZ)
+ - ⏩ [Weekeeeend](http://9gag.com/gag/aZZg6oX)
+ - 👉 [Riding a bike on a moving train](http://9gag.com/gag/azxqp7m)<!-- MEMES:END -->
 
 ---
 
