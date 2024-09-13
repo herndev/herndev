@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [IT&#39;S MA&#39;AM!](http://9gag.com/gag/a5Qn38E)
- - ⏩ [Lets Make a Product and Declares War on The Buyer. Yeah Sure, Who Knows What Could Happen](http://9gag.com/gag/a9yA44j)
- - 👉 [I know what I saw](http://9gag.com/gag/aNDzGqK)<!-- MEMES:END -->
+ - 💣 [Looking at 9gag in the work bathroom](http://9gag.com/gag/a9yAGL6)
+ - ⏩ [He should get the kid 100%](http://9gag.com/gag/a6ZV6PL)
+ - 👉 [This is toxic](http://9gag.com/gag/aAyD5Zd)<!-- MEMES:END -->
 
 ---
 
