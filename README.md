@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Find that someone who always makes you feel seen.](http://9gag.com/gag/agmYzAK)
- - ⏩ [IT&#39;S MA&#39;AM!](http://9gag.com/gag/a5Qn38E)
- - 👉 [PS5 vs PS5 Pro](http://9gag.com/gag/agmYz86)<!-- MEMES:END -->
+ - 💣 [PS5 vs PS5 Pro](http://9gag.com/gag/agmYz86)
+ - ⏩ [Find that someone who always makes you feel seen.](http://9gag.com/gag/agmYzAK)
+ - 👉 [All over...](http://9gag.com/gag/aD2zeyG)<!-- MEMES:END -->
 
 ---
 
