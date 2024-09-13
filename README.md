@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Yoink](http://9gag.com/gag/aMVA7oV)
- - ⏩ [This is toxic](http://9gag.com/gag/aAyD5Zd)
- - 👉 [IT&#39;S MA&#39;AM!](http://9gag.com/gag/a5Qn38E)<!-- MEMES:END -->
+ - 💣 [I want some high-fives too](http://9gag.com/gag/ae9eBvp)
+ - ⏩ [Mortified](http://9gag.com/gag/aAyD9O0)
+ - 👉 [Power of friendship](http://9gag.com/gag/avy7KZX)<!-- MEMES:END -->
 
 ---
 
