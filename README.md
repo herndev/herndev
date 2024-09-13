@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Cute Dog](http://9gag.com/gag/ayNxj6W)
- - ⏩ [I\u2019m actively dying of cancer. My brother took this picture. My days are near an end I fear my friends.](http://9gag.com/gag/aQzebVe)
- - 👉 [Time to watch it again!](http://9gag.com/gag/ayNxjzM)<!-- MEMES:END -->
+ - 💣 [Find that someone who always makes you feel seen.](http://9gag.com/gag/agmYzAK)
+ - ⏩ [IT&#39;S MA&#39;AM!](http://9gag.com/gag/a5Qn38E)
+ - 👉 [PS5 vs PS5 Pro](http://9gag.com/gag/agmYz86)<!-- MEMES:END -->
 
 ---
 
