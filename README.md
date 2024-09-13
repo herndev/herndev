@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Sure, not every space game needs them, but just for the record: seamless planetary landings are cool as hell](https://www.pcgamer.com/games/sim/sure-not-every-space-game-needs-them-but-just-for-the-record-seamless-planetary-landings-are-really-cool)
  - [Until Dawn system requirements are here, and support for ultrawide and Dualsense haptics are in](https://www.pcgamer.com/games/horror/until-dawn-system-requirements-are-here-and-support-for-ultrawide-and-dualsense-haptics-are-in)
- - [Space Marine 2 is a 2007 game in the best way possible](https://www.pcgamer.com/games/third-person-shooter/space-marine-2-is-a-2007-game-in-the-best-way-possible)
- - [Kentucky Route Zero and Stray publisher Annapurna Interactive has collapsed, with its entire staff quitting en masse](https://www.pcgamer.com/gaming-industry/kentucky-route-zero-and-stray-publisher-annapurna-interactive-has-collapsed-with-its-entire-staff-quitting-en-masse)<!-- GAME:END -->
+ - [Space Marine 2 is a 2007 game in the best way possible](https://www.pcgamer.com/games/third-person-shooter/space-marine-2-is-a-2007-game-in-the-best-way-possible)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
