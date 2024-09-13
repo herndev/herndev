@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Sony confirms PS5 Pro has next-gen ray-tracing tech and &#39;there are no other AMD GPUs that use it yet&#39;](https://www.pcgamer.com/hardware/sony-confirms-ps5-pro-has-next-gen-ray-tracing-tech-and-there-are-no-other-amd-gpus-that-use-it-yet)
- - [Alienware AW2725QF review](https://www.pcgamer.com/hardware/gaming-monitors/alienware-aw2725qf-review)
- - [Hollowbody is an English cyberpunk Silent Hill, for better and worse](https://www.pcgamer.com/games/horror/hollowbody-is-an-english-cyberpunk-silent-hill-for-better-and-worse)<!-- GAME:END -->
+ - [These Horror Movie Children Keep Us Up At Night](https://kotaku.com/horror-movie-children-creepy-m3gan-babadook-1851645971)
+ - [All Zenless Zone Zero codes from the 1.2 livestream](https://www.pcgamer.com/games/action/zenless-zone-zero-1-2-livestream-codes)
+ - [Gray Zone Warfare&#39;s first big update is coming and it feels like a game-changer](https://www.pcgamer.com/games/fps/gray-zone-warfares-first-big-update-is-coming-and-it-feels-like-a-game-changer)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
