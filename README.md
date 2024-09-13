@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Control 2 isn&#39;t affected by the collapse of Annapurna Interactive because the deal was signed by the other Annapurna](https://www.pcgamer.com/games/action/control-2-isnt-affected-by-the-collapse-of-annapurna-interactive-because-the-deal-was-signed-by-the-other-annapurna)
- - [Google results insist a Bugsnax sequel is coming out next month, but there&#39;s one small problem: Its devs aren&#39;t making one](https://www.pcgamer.com/games/adventure/google-results-insist-a-bugsnax-sequel-is-coming-out-next-month-but-theres-one-small-problem-its-devs-arent-making-one)
- - [Kotaku&#39;s Weekend Guide: 5 Games We Can&#39;t Wait To Get Back To](https://kotaku.com/what-to-play-recommendations-space-marine-funko-fusion-1851648317)<!-- GAME:END -->
+ - [Penny&#39;s Big Breakaway studio announces layoffs: &#39;Evening Star has been swept up in the same turbulence that has affected so many of our peers in the games industry&#39;](https://www.pcgamer.com/games/action/pennys-big-breakaway-studio-announces-layoffs-evening-star-has-been-swept-up-in-the-same-turbulence-that-has-affected-so-many-of-our-peers-in-the-games-industry)
+ - [Civil War, The Crow, Netflix’s Uglies, and every movie new to streaming this week](https://www.polygon.com/entertainment/449256/new-movies-civil-war-the-crow-uglies-netflix-watch-streaming)
+ - [The &#39;reverse&#39; localization of PC classic MechWarrior shows just how far ahead Japanese PC tech was in the early &#39;90s](https://www.pcgamer.com/games/action/the-reverse-localization-of-pc-classic-mechwarrior-shows-just-how-far-ahead-japanese-pc-tech-was-in-the-early-90s)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
