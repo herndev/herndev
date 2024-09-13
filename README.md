@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle answer for Friday, September 13](https://www.pcgamer.com/games/puzzle/wordle-answer-today-september-13-2024)
  - [Sure, not every space game needs them, but just for the record: seamless planetary landings are cool as hell](https://www.pcgamer.com/games/sim/sure-not-every-space-game-needs-them-but-just-for-the-record-seamless-planetary-landings-are-really-cool)
- - [Until Dawn system requirements are here, and support for ultrawide and Dualsense haptics are in](https://www.pcgamer.com/games/horror/until-dawn-system-requirements-are-here-and-support-for-ultrawide-and-dualsense-haptics-are-in)
- - [Space Marine 2 is a 2007 game in the best way possible](https://www.pcgamer.com/games/third-person-shooter/space-marine-2-is-a-2007-game-in-the-best-way-possible)<!-- GAME:END -->
+ - [Until Dawn system requirements are here, and support for ultrawide and Dualsense haptics are in](https://www.pcgamer.com/games/horror/until-dawn-system-requirements-are-here-and-support-for-ultrawide-and-dualsense-haptics-are-in)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
