@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [I&#39;m Planning To Buy A PS5 Pro And I&#39;m Excited](https://kotaku.com/ps5-pro-price-too-high-excited-worth-it-700-price-4k-1851648292)
- - [Someone Recreated Stardew Valley Using 75,000 Lego Bricks](https://kotaku.com/stardew-valley-lego-75-000-bricks-pelican-town-brickcon-1851648259)
- - [Grab This Heartfelt And Colorful Adventure Game While It’s Cheap](https://kotaku.com/chicory-colorful-tale-steam-sale-recommendation-zelda-1851648287)<!-- GAME:END -->
+ - [Control 2 isn&#39;t affected by the collapse of Annapurna Interactive because the deal was signed by the other Annapurna](https://www.pcgamer.com/games/action/control-2-isnt-affected-by-the-collapse-of-annapurna-interactive-because-the-deal-was-signed-by-the-other-annapurna)
+ - [Google results insist a Bugsnax sequel is coming out next month, but there&#39;s one small problem: Its devs aren&#39;t making one](https://www.pcgamer.com/games/adventure/google-results-insist-a-bugsnax-sequel-is-coming-out-next-month-but-theres-one-small-problem-its-devs-arent-making-one)
+ - [Kotaku&#39;s Weekend Guide: 5 Games We Can&#39;t Wait To Get Back To](https://kotaku.com/what-to-play-recommendations-space-marine-funko-fusion-1851648317)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
