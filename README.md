@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [OpenAI’s expensive new model claims to solve problems like a doctoral candidate](https://www.androidauthority.com/openai-o1-preview-3481749/)
- - [Google TV’s free channels get a new name: Welcome to FreePlay](https://www.androidauthority.com/google-tv-freeplay-rebranding-3481786/)
- - [Netflix wants to stream live episodes of Hot Ones](https://www.theverge.com/2024/9/13/24243999/netflix-live-episodes-hot-ones)<!-- TECH:END -->
+ - [23andMe agrees to pay $30 million to settle lawsuit over massive data breach](https://www.theverge.com/2024/9/13/24243986/23andme-settlement-dna-data-breach-lawsuit)
+ - [Google is preparing to borrow a feature from Apple’s Stolen Device Protection](https://www.androidauthority.com/android-identity-check-3481804/)
+ - [Anker’s new $35 MagSafe gadget sticks SD cards to your iPhone](https://www.theverge.com/2024/9/13/24244018/anker-magnetic-card-reader-usb-c-iphone-prores-4k)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
