@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Alienware AW2725QF review](https://www.pcgamer.com/hardware/gaming-monitors/alienware-aw2725qf-review)
  - [Hollowbody is an English cyberpunk Silent Hill, for better and worse](https://www.pcgamer.com/games/horror/hollowbody-is-an-english-cyberpunk-silent-hill-for-better-and-worse)
- - [Today&#39;s Wordle answer for Friday, September 13](https://www.pcgamer.com/games/puzzle/wordle-answer-today-september-13-2024)
- - [Sure, not every space game needs them, but just for the record: seamless planetary landings are cool as hell](https://www.pcgamer.com/games/sim/sure-not-every-space-game-needs-them-but-just-for-the-record-seamless-planetary-landings-are-really-cool)<!-- GAME:END -->
+ - [Today&#39;s Wordle answer for Friday, September 13](https://www.pcgamer.com/games/puzzle/wordle-answer-today-september-13-2024)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
