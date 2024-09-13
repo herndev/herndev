@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The entire staff of beloved game publisher Annapurna Interactive has reportedly resigned](https://www.theverge.com/games/2024/9/12/24243317/annapurna-interactive-staff-reportedly-resigns)
- - [Google tests desktop windowing for Android tablets](https://www.theverge.com/2024/9/12/24243230/google-android-desktop-window-resize-multitasking-tablets)
- - [Here’s everything you need to know about preordering the new iPhone 16](https://www.theverge.com/24237057/apple-iphone-16-plus-pro-max-preorder-buy-price-release-date)<!-- TECH:END -->
+ - [Vox Media says its annual Code Conference has been put on hold, calling it a &quot;strong franchise&quot; but declining to share further information about its future &lpar;Oliver Darcy/Status&rpar;](http://www.techmeme.com/240912/p39#a240912p39)
+ - [The best ebook reader to buy right now](https://www.theverge.com/23769068/best-ebook-readers)
+ - [Google News app looks like it’s planning a big reorganization &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-news-interface-3481469/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
