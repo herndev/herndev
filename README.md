@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [To all 9 gagers](http://9gag.com/gag/apRQw2D)
- - ⏩ [The Danish Military did an IQ test. A trend was spotted.](http://9gag.com/gag/aNDzMyw)
- - 👉 [This bromance was impeccable](http://9gag.com/gag/apRQXnb)<!-- MEMES:END -->
+ - 💣 [Why do all teenagers look like this?](http://9gag.com/gag/aZZgY9Q)
+ - ⏩ [Bro threw a grenade](http://9gag.com/gag/a7oDxGz)
+ - 👉 [Power of friendship](http://9gag.com/gag/avy7KZX)<!-- MEMES:END -->
 
 ---
 
