@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple files to stop NSO Group lawsuit over fears of data leaks](https://appleinsider.com/articles/24/09/13/apple-files-to-stop-nso-group-lawsuit-over-fears-of-data-leaks?utm_medium=rss)
- - [Snappy could improve smartphone photography with a stabilized grip](https://www.theverge.com/2024/9/13/24243735/snappy-smartphone-photography-grip-kickstarter)
- - [This Digital Archivist Believes Hollywood&#39;s &#39;Competition Era&#39; Is Over](https://www.wired.com/story/dial-up-maya-cade-black-film-archive/)<!-- TECH:END -->
+ - [Now patched macOS Calendar exploit let hackers steal data from iCloud](https://appleinsider.com/articles/24/09/13/now-patched-macos-calendar-exploit-let-hackers-steal-data-from-icloud?utm_medium=rss)
+ - [How to cross-post your Threads posts to the fediverse](https://www.theverge.com/24107998/threads-fediverse-mastodon-how-to)
+ - [Apple still has a lot of new hardware to release before the end of 2024](https://appleinsider.com/articles/24/09/13/apple-still-has-a-lot-of-new-hardware-to-release-before-the-end-of-2024?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
