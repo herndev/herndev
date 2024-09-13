@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Waymo and Uber plan to expand their robotaxi partnership in Phoenix, Arizona, to Austin and Atlanta, starting in early 2025 &lpar;Andrew J. Hawkins/The Verge&rpar;](http://www.techmeme.com/240913/p11#a240913p11)
- - [The best new streaming shows this week: The Circle and more](https://www.androidauthority.com/best-new-tv-shows-to-stream-this-week-3084538/)
- - [FanDuel and Betfair&#39;s parent company, Flutter, agrees to acquire a 56% stake in Brazilian online gaming operator NSX for a cash consideration of about $350M &lpar;Daniel Zuidijk/Bloomberg&rpar;](http://www.techmeme.com/240913/p10#a240913p10)<!-- TECH:END -->
+ - [Here’s how much Google paid in fines over the years and why](https://www.androidauthority.com/google-fines-over-the-years-3481262/)
+ - [United Airlines plans to start testing Starlink internet service early next year, with the first passenger flights likely equipped with free Wi-Fi later in 2025 &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240913/p14#a240913p14)
+ - [The OnePlus Watch 2, one of our top Android smartwatch picks, hits its best price](https://www.theverge.com/2024/9/13/24242856/oneplus-watch-2-ember-mug-2-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
