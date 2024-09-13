@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [&#39;It&#39;s very emotional, it&#39;s really tense&#39;: Heavy lies the crown of AI dominance as Nvidia&#39;s Jensen Huang admits to getting just three hours sleep a night](https://www.pcgamer.com/hardware/its-very-emotional-its-really-tense-heavy-lies-the-crown-of-ai-dominance-as-nvidias-jensen-huang-admits-to-getting-just-three-hours-sleep-a-night)
- - [I played Roblox&#39;s hottest game that&#39;s sweeping social media and got my ass handed to me by a bunch of 12-year-olds](https://www.pcgamer.com/games/sim/i-played-robloxs-hottest-game-thats-sweeping-social-media-and-got-my-ass-handed-to-me-by-a-bunch-of-12-year-olds)
- - [Planet Coaster 2: The Diary of a Park Management Intern](https://news.xbox.com/en-us/2024/09/13/planet-coaster-2-the-diary-of-a-park-management-intern/)<!-- GAME:END -->
+ - [How Ubisoft Built an Authentic New World for Star Wars Outlaws](https://news.xbox.com/en-us/2024/09/13/how-ubisoft-built-an-authentic-new-world-for-star-wars-outlaws/)
+ - [Voice actor Peter Renaday, who played Duncan in Dragon Age: Origins, has died age 89](https://www.pcgamer.com/gaming-industry/voice-actor-peter-renaday-who-played-duncan-in-dragon-age-origins-has-died-age-89)
+ - [Someone Added VP Nom And Dreamcast Fan Tim Walz To Crazy Taxi](https://kotaku.com/crazy-taxi-dreamcast-tim-walz-fan-sega-mod-kamala-vp-1851647426)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
