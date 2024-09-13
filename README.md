@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple’s AirPods Pro 2 just got FDA approval to double-up as hearing aids](https://www.androidauthority.com/apple-airpods-hearing-aid-fda-approval-3481587/)
- - [Online Apple Store is down ahead of the iPhone 16 preorders](https://appleinsider.com/articles/24/09/13/online-apple-store-is-down-ahead-of-the-iphone-16-preorders?utm_medium=rss)
- - [Netflix is ending support for some older iPhones and iPads](https://www.theverge.com/2024/9/13/24243597/netflix-app-support-ending-ios16-iphones-ipads)<!-- TECH:END -->
+ - [Leak suggests Snapdragon 8 Gen 4 could be a performance beast](https://www.androidauthority.com/dimensity-9400-snapdragon-8-gen-4-specs-3481628/)
+ - [Apple to allow alternative app stores and browser engines on iPads in the EU with iPadOS 18 on September 16, after the EU applied DMA rules on iPadOS in April &lpar;Romain Dillet/TechCrunch&rpar;](http://www.techmeme.com/240913/p5#a240913p5)
+ - [Key Mortgage Refinance Rate Moves Up: Refinance Rates for Sept. 13, 2024](https://www.cnet.com/personal-finance/mortgages/key-mortgage-refinance-rate-moves-up-refinance-rates-for-sept-13-2024/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
