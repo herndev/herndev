@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The Danish Military did an IQ test. A trend was spotted.](http://9gag.com/gag/aNDzMyw)
- - ⏩ [She didn&#39;t see it coming.](http://9gag.com/gag/a7oDx5A)
- - 👉 [Welcome to... Australia!](http://9gag.com/gag/ae9eBb5)<!-- MEMES:END -->
+ - 💣 [Looking at 9gag in the work bathroom](http://9gag.com/gag/a9yAGL6)
+ - ⏩ [Just a 3 years old tadpole that didn&#39;t turned into a frog &lpar;banana for scale&rpar;](http://9gag.com/gag/a9yA0LK)
+ - 👉 [It it really true ??](http://9gag.com/gag/aXPvz9P)<!-- MEMES:END -->
 
 ---
 
