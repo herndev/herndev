@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This is toxic](http://9gag.com/gag/aAyD5Zd)
- - ⏩ [Monkey](http://9gag.com/gag/a9yA01o)
- - 👉 [The fake petition comments are gold\u2026](http://9gag.com/gag/avy7qPn)<!-- MEMES:END -->
+ - 💣 [She signals to him DNA sweep of saliva in mouth to do to potential suspects](http://9gag.com/gag/apRQMAb)
+ - ⏩ [Kick and scream all you want.....it&#39;s gonna happen.](http://9gag.com/gag/aPA9Lgq)
+ - 👉 [The Thug Who Shot A Female Gymnast 8 Times While She Was In The Fetal Position Claims He Did Because He Feared For His Life](http://9gag.com/gag/aBy8bnz)<!-- MEMES:END -->
 
 ---
 
