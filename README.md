@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [‘Terrorgram’ Charges Show US Has Had Tools to Crack Down on Far-Right Terrorism All Along](https://www.wired.com/story/terrorgram-collective-indictments/)
- - [TIFF 2024: all the latest movie reviews from Toronto](https://www.theverge.com/2024/9/7/24235914/tiff-2024-toronto-movie-reviews-trailers)
- - [What the hell did I just watch?](https://www.theverge.com/24243766/megalopolis-review)<!-- TECH:END -->
+ - [Is this weirdly shaped, canary-yellow thing Tesla’s robotaxi?](https://www.theverge.com/2024/9/13/24243807/tesla-robotaxi-spy-shot-reddit-yellow-camo-shape)
+ - [Google debuts DataGemma models that use real world data from Google-created Data Commons to reduce hallucinations in queries revolving around statistical data &lpar;Shubham Sharma/VentureBeat&rpar;](http://www.techmeme.com/240913/p18#a240913p18)
+ - [Hands on with Apple&#39;s silicone cases for iPhone 16](https://appleinsider.com/articles/24/09/13/hands-on-with-apples-silicone-cases-for-iphone-16?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
