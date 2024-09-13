@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Its not just a phase, MOM.](http://9gag.com/gag/a2v46qO)
- - ⏩ [It it really true ??](http://9gag.com/gag/aXPvz9P)
- - 👉 [Never Be The 2nd Option](http://9gag.com/gag/awyQWm1)<!-- MEMES:END -->
+ - 💣 [To all 9 gagers](http://9gag.com/gag/apRQw2D)
+ - ⏩ [The Danish Military did an IQ test. A trend was spotted.](http://9gag.com/gag/aNDzMyw)
+ - 👉 [This bromance was impeccable](http://9gag.com/gag/apRQXnb)<!-- MEMES:END -->
 
 ---
 
