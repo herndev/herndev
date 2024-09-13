@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [These Horror Movie Children Keep Us Up At Night](https://kotaku.com/horror-movie-children-creepy-m3gan-babadook-1851645971)
- - [All Zenless Zone Zero codes from the 1.2 livestream](https://www.pcgamer.com/games/action/zenless-zone-zero-1-2-livestream-codes)
- - [Gray Zone Warfare&#39;s first big update is coming and it feels like a game-changer](https://www.pcgamer.com/games/fps/gray-zone-warfares-first-big-update-is-coming-and-it-feels-like-a-game-changer)<!-- GAME:END -->
+ - [Altered TCG rivals Magic, Lorcana, and Star Wars: Unlimited with colorful combatants and a brilliant app](https://www.polygon.com/review/450660/altered-tcg-review)
+ - [It&#39;s Time To Take Down Mysterio In Fortnite&#39;s Marvel Season](https://kotaku.com/fortnite-chapter-5-week-4-mysterio-illusionist-guide-1851647595)
+ - [Acer responds to claims its gaming laptop intro was misogynistic: &#39;Acer makes no difference in gender, our objective is to make technology available to everybody&#39;](https://www.pcgamer.com/hardware/acer-responds-to-claims-its-gaming-laptop-intro-was-misogynistic-acer-makes-no-difference-in-gender-our-objective-is-to-make-technology-available-to-everybody)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
