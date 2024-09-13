@@ -46,7 +46,7 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [PS5 vs PS5 Pro](http://9gag.com/gag/agmYz86)
+ - 💣 [Was watching inside out 2. When I noticed in the background...](http://9gag.com/gag/ae9eqPq)
  - ⏩ [Welcome to... Australia!](http://9gag.com/gag/ae9eBb5)
  - 👉 [I&#39;m completely new to the lore of Warhammer 40k and hoped someone could recommend me a good book to start on. I love the heresy memes and want to find out where they come from.](http://9gag.com/gag/aMVA7ZG)<!-- MEMES:END -->
 
