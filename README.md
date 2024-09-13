@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Altered TCG rivals Magic, Lorcana, and Star Wars: Unlimited with colorful combatants and a brilliant app](https://www.polygon.com/review/450660/altered-tcg-review)
- - [It&#39;s Time To Take Down Mysterio In Fortnite&#39;s Marvel Season](https://kotaku.com/fortnite-chapter-5-week-4-mysterio-illusionist-guide-1851647595)
- - [Acer responds to claims its gaming laptop intro was misogynistic: &#39;Acer makes no difference in gender, our objective is to make technology available to everybody&#39;](https://www.pcgamer.com/hardware/acer-responds-to-claims-its-gaming-laptop-intro-was-misogynistic-acer-makes-no-difference-in-gender-our-objective-is-to-make-technology-available-to-everybody)<!-- GAME:END -->
+ - [Next Week on Xbox: New Games for September 16 to 20](https://news.xbox.com/en-us/2024/09/13/next-week-on-xbox-new-games-for-september-16-to-20/)
+ - [Zenless Zone Zero 1.2 livestream codes](https://www.polygon.com/zenless-zone-zero-guides/2024/8/3/450852/zzz-1-2-codes-redeem-livestream)
+ - [Full Intel next-gen Arrow Lake CPU model list, specs, release dates, the works reportedly revealed](https://www.pcgamer.com/hardware/processors/full-intel-next-gen-arrow-lake-cpu-model-list-specs-release-dates-the-works-reportedly-revealed)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
