@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Here’s how much Google paid in fines over the years and why](https://www.androidauthority.com/google-fines-over-the-years-3481262/)
- - [United Airlines plans to start testing Starlink internet service early next year, with the first passenger flights likely equipped with free Wi-Fi later in 2025 &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240913/p14#a240913p14)
- - [The OnePlus Watch 2, one of our top Android smartwatch picks, hits its best price](https://www.theverge.com/2024/9/13/24242856/oneplus-watch-2-ember-mug-2-deal-sale)<!-- TECH:END -->
+ - [‘Terrorgram’ Charges Show US Has Had Tools to Crack Down on Far-Right Terrorism All Along](https://www.wired.com/story/terrorgram-collective-indictments/)
+ - [TIFF 2024: all the latest movie reviews from Toronto](https://www.theverge.com/2024/9/7/24235914/tiff-2024-toronto-movie-reviews-trailers)
+ - [What the hell did I just watch?](https://www.theverge.com/24243766/megalopolis-review)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
