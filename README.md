@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I know what I saw](http://9gag.com/gag/aNDzGqK)
- - ⏩ [Jon Bon Jovi talks a woman off the ledge of the John Seigenthaler Pedestrian Bridge downtown in Tennessee](http://9gag.com/gag/agmY9Qg)
- - 👉 [The fake petition comments are gold\u2026](http://9gag.com/gag/avy7qPn)<!-- MEMES:END -->
+ - 💣 [IT&#39;S MA&#39;AM!](http://9gag.com/gag/a5Qn38E)
+ - ⏩ [Lets Make a Product and Declares War on The Buyer. Yeah Sure, Who Knows What Could Happen](http://9gag.com/gag/a9yA44j)
+ - 👉 [I know what I saw](http://9gag.com/gag/aNDzGqK)<!-- MEMES:END -->
 
 ---
 
