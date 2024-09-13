@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Looking at 9gag in the work bathroom](http://9gag.com/gag/a9yAGL6)
- - ⏩ [He should get the kid 100%](http://9gag.com/gag/a6ZV6PL)
- - 👉 [From the Archiv for my fellow Excel slaves](http://9gag.com/gag/a9yAGAK)<!-- MEMES:END -->
+ - 💣 [Toretto\u00b4s crew has upped their game](http://9gag.com/gag/ary5710)
+ - ⏩ [Men, has anyone given you a flower?](http://9gag.com/gag/aZZgKDn)
+ - 👉 [Welcome to... Australia!](http://9gag.com/gag/ae9eBb5)<!-- MEMES:END -->
 
 ---
 
