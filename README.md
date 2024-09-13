@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [In a provisional ruling, the CMA says Vodafone and Three&#39;s planned $19B merger could lead to higher prices, diminished service, and reduced investment in the UK &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/240913/p3#a240913p3)
- - [From specs to pricing: Xiaomi’s upcoming Galaxy S24, Pixel 9 rival leaks in full](https://www.androidauthority.com/xiaomi-14t-series-leak-3481589/)
- - [TECNO PHANTOM V Fold 2 and V Flip 2 launch alongside new PHANTOM V Pen](https://www.androidauthority.com/tecno-phantom-v-fold-2-3481369/)<!-- TECH:END -->
+ - [Apple’s AirPods Pro 2 just got FDA approval to double-up as hearing aids](https://www.androidauthority.com/apple-airpods-hearing-aid-fda-approval-3481587/)
+ - [Online Apple Store is down ahead of the iPhone 16 preorders](https://appleinsider.com/articles/24/09/13/online-apple-store-is-down-ahead-of-the-iphone-16-preorders?utm_medium=rss)
+ - [Netflix is ending support for some older iPhones and iPads](https://www.theverge.com/2024/9/13/24243597/netflix-app-support-ending-ios16-iphones-ipads)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
