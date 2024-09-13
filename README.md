@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [WoW: The War Within&#39;s new mini dungeons are annihilating solo players while groups sleepwalk through them for &#39;free&#39; loot](https://www.pcgamer.com/games/world-of-warcraft/wow-the-war-within-s-new-mini-dungeons-are-annihilating-solo-players-while-groups-sleepwalk-through-them-for-free-loot)
- - [Valve politely asks that you only use Steam&#39;s family sharing for &#39;close family members&#39; in a &#39;household,&#39; but let&#39;s be real: everyone shares their games with Discord friends](https://www.pcgamer.com/software/platforms/steam-families-household-rule)
- - [European Consumer Organization alleges game companies including Activision, Electronic Arts, Epic, and Ubisoft are &#39;tricking&#39; consumers with premium in-game currencies](https://www.pcgamer.com/gaming-industry/european-consumer-organization-alleges-game-companies-including-activision-electronic-arts-epic-and-ubisoft-are-tricking-consumers-with-premium-in-game-currencies)<!-- GAME:END -->
+ - [Until Dawn system requirements are here, and support for ultrawide and Dualsense haptics are in](https://www.pcgamer.com/games/horror/until-dawn-system-requirements-are-here-and-support-for-ultrawide-and-dualsense-haptics-are-in)
+ - [Space Marine 2 is a 2007 game in the best way possible](https://www.pcgamer.com/games/third-person-shooter/space-marine-2-is-a-2007-game-in-the-best-way-possible)
+ - [Kentucky Route Zero and Stray publisher Annapurna Interactive has collapsed, with its entire staff quitting en masse](https://www.pcgamer.com/gaming-industry/kentucky-route-zero-and-stray-publisher-annapurna-interactive-has-collapsed-with-its-entire-staff-quitting-en-masse)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
