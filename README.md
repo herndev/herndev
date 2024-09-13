@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How Jackbox Games Took a Beloved Party Game and Made a New Remote Play Version](https://news.xbox.com/en-us/2024/09/13/how-jackbox-games-took-a-beloved-party-game-and-made-a-new-remote-play-version/)
- - [Frostpunk 2’s co-director on the changes they made to the game](https://www.polygon.com/gaming/451037/frostpunk-2-interview-jakub-stokalski-11-bit-games)
- - [The Lollipop Chainsaw Remaster Is A Janky Mess](https://kotaku.com/lollipop-chainsaw-repop-review-performance-broken-bugs-1851648070)<!-- GAME:END -->
+ - [All Of The Drama Around The $700 PS5 Pro, Explained](https://kotaku.com/ps5-pro-build-pc-graphics-card-price-digital-foundry-1851648164)
+ - [Here’s where to pre-order Metaphor: ReFantazio, and what comes with it](https://www.polygon.com/pre-order/451386/metaphor-refantazio-buy-standard-digital-deluxe-collectors-edition)
+ - [A Bunch Of Batman Games Are On Sale To Celebrate The Penguin](https://kotaku.com/batman-arkham-penguin-series-hbo-steam-sale-1851648143)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
