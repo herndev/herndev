@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Waymo and Uber expand their robotaxi partnership to Austin and Atlanta](https://www.theverge.com/2024/9/13/24243397/waymo-uber-austin-atlanta-robotaxi-partnership)
- - [Don’t ask if AI can make art — ask how AI can be art](https://www.theverge.com/2024/9/13/24241189/generative-ai-interactivity-art)
- - [iPhone 16 Pro Max sees shipping date slip just minutes after preorders start](https://appleinsider.com/articles/24/09/13/iphone-16-pro-max-see-shipping-date-slip-just-minutes-after-preorders-start?utm_medium=rss)<!-- TECH:END -->
+ - [Waymo and Uber plan to expand their robotaxi partnership in Phoenix, Arizona, to Austin and Atlanta, starting in early 2025 &lpar;Andrew J. Hawkins/The Verge&rpar;](http://www.techmeme.com/240913/p11#a240913p11)
+ - [The best new streaming shows this week: The Circle and more](https://www.androidauthority.com/best-new-tv-shows-to-stream-this-week-3084538/)
+ - [FanDuel and Betfair&#39;s parent company, Flutter, agrees to acquire a 56% stake in Brazilian online gaming operator NSX for a cash consideration of about $350M &lpar;Daniel Zuidijk/Bloomberg&rpar;](http://www.techmeme.com/240913/p10#a240913p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
