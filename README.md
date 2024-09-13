@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Unexpected aka wait till the end.](http://9gag.com/gag/azxqz8x)
- - ⏩ [Bro threw a grenade](http://9gag.com/gag/a7oDxGz)
- - 👉 [PS5 vs PS5 Pro](http://9gag.com/gag/agmYz86)<!-- MEMES:END -->
+ - 💣 [Yoink](http://9gag.com/gag/aMVA7oV)
+ - ⏩ [This is toxic](http://9gag.com/gag/aAyD5Zd)
+ - 👉 [IT&#39;S MA&#39;AM!](http://9gag.com/gag/a5Qn38E)<!-- MEMES:END -->
 
 ---
 
