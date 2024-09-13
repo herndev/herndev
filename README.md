@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Magic rocks logic](http://9gag.com/gag/a4PGXVZ)
- - ⏩ [Weekeeeend](http://9gag.com/gag/aZZg6oX)
- - 👉 [Riding a bike on a moving train](http://9gag.com/gag/azxqp7m)<!-- MEMES:END -->
+ - 💣 [Louis is one of the best characters in the series](http://9gag.com/gag/aqy10bR)
+ - ⏩ [PS5 vs PS5 Pro](http://9gag.com/gag/agmYz86)
+ - 👉 [Power of friendship](http://9gag.com/gag/avy7KZX)<!-- MEMES:END -->
 
 ---
 
