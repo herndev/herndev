@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [All Of The Drama Around The $700 PS5 Pro, Explained](https://kotaku.com/ps5-pro-build-pc-graphics-card-price-digital-foundry-1851648164)
- - [Here’s where to pre-order Metaphor: ReFantazio, and what comes with it](https://www.polygon.com/pre-order/451386/metaphor-refantazio-buy-standard-digital-deluxe-collectors-edition)
- - [A Bunch Of Batman Games Are On Sale To Celebrate The Penguin](https://kotaku.com/batman-arkham-penguin-series-hbo-steam-sale-1851648143)<!-- GAME:END -->
+ - [&#39;There&#39;s an alternate universe where Half-Life disappeared after release&#39;: Valve&#39;s first marketing strategist Monica Harrington says she helped navigate its way out of early disaster](https://www.pcgamer.com/games/fps/theres-an-alternate-universe-where-half-life-disappeared-after-release-valves-first-marketing-strategist-monica-harrington-says-she-helped-navigate-its-way-out-of-early-disaster)
+ - [Immortals of Aveum developers find a new home at Rockstar co-founder Dan Houser&#39;s Absurd Ventures studio](https://www.pcgamer.com/gaming-industry/immortals-of-aveum-developers-find-a-new-home-at-rockstar-co-founder-dan-housers-absurd-ventures-studio)
+ - [Call Of Duty: Modern Warfare 3, Starfield, And More Missing From Game Pass Standard](https://kotaku.com/xbox-game-pass-standard-library-starfield-diablo-4-1851645117)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
