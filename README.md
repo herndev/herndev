@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Is this weirdly shaped, canary-yellow thing Tesla’s robotaxi?](https://www.theverge.com/2024/9/13/24243807/tesla-robotaxi-spy-shot-reddit-yellow-camo-shape)
- - [Google debuts DataGemma models that use real world data from Google-created Data Commons to reduce hallucinations in queries revolving around statistical data &lpar;Shubham Sharma/VentureBeat&rpar;](http://www.techmeme.com/240913/p18#a240913p18)
- - [Hands on with Apple&#39;s silicone cases for iPhone 16](https://appleinsider.com/articles/24/09/13/hands-on-with-apples-silicone-cases-for-iphone-16?utm_medium=rss)<!-- TECH:END -->
+ - [Apple files to stop NSO Group lawsuit over fears of data leaks](https://appleinsider.com/articles/24/09/13/apple-files-to-stop-nso-group-lawsuit-over-fears-of-data-leaks?utm_medium=rss)
+ - [Snappy could improve smartphone photography with a stabilized grip](https://www.theverge.com/2024/9/13/24243735/snappy-smartphone-photography-grip-kickstarter)
+ - [This Digital Archivist Believes Hollywood&#39;s &#39;Competition Era&#39; Is Over](https://www.wired.com/story/dial-up-maya-cade-black-film-archive/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
