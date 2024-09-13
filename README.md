@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Why do all teenagers look like this?](http://9gag.com/gag/aZZgY9Q)
- - ⏩ [Bro threw a grenade](http://9gag.com/gag/a7oDxGz)
- - 👉 [Power of friendship](http://9gag.com/gag/avy7KZX)<!-- MEMES:END -->
+ - 💣 [Cute Dog](http://9gag.com/gag/ayNxj6W)
+ - ⏩ [I\u2019m actively dying of cancer. My brother took this picture. My days are near an end I fear my friends.](http://9gag.com/gag/aQzebVe)
+ - 👉 [Time to watch it again!](http://9gag.com/gag/ayNxjzM)<!-- MEMES:END -->
 
 ---
 
