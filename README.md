@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Sony confirms PS5 Pro has next-gen ray-tracing tech and &#39;there are no other AMD GPUs that use it yet&#39;](https://www.pcgamer.com/hardware/sony-confirms-ps5-pro-has-next-gen-ray-tracing-tech-and-there-are-no-other-amd-gpus-that-use-it-yet)
  - [Alienware AW2725QF review](https://www.pcgamer.com/hardware/gaming-monitors/alienware-aw2725qf-review)
- - [Hollowbody is an English cyberpunk Silent Hill, for better and worse](https://www.pcgamer.com/games/horror/hollowbody-is-an-english-cyberpunk-silent-hill-for-better-and-worse)
- - [Today&#39;s Wordle answer for Friday, September 13](https://www.pcgamer.com/games/puzzle/wordle-answer-today-september-13-2024)<!-- GAME:END -->
+ - [Hollowbody is an English cyberpunk Silent Hill, for better and worse](https://www.pcgamer.com/games/horror/hollowbody-is-an-english-cyberpunk-silent-hill-for-better-and-worse)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
