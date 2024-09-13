@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [This Is How Johnnie Walker Made the World’s Lightest Whisky Bottle](https://www.wired.com/story/this-is-how-johnnie-walker-made-the-worlds-lightest-whisky-bottle/)
- - [Q&amp;A with Alibaba.com president Kuo Zhang on the enduring importance of the US market, navigating geopolitical tensions, competing with Shein and Temu, and more &lpar;Viola Zhou/Rest of World&rpar;](http://www.techmeme.com/240913/p2#a240913p2)
- - [The Galaxy S24 FE might not have a big price hike, but it’s not all good news](https://www.androidauthority.com/samsung-galaxy-s24-fe-smaller-price-hike-3480818/)<!-- TECH:END -->
+ - [In a provisional ruling, the CMA says Vodafone and Three&#39;s planned $19B merger could lead to higher prices, diminished service, and reduced investment in the UK &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/240913/p3#a240913p3)
+ - [From specs to pricing: Xiaomi’s upcoming Galaxy S24, Pixel 9 rival leaks in full](https://www.androidauthority.com/xiaomi-14t-series-leak-3481589/)
+ - [TECNO PHANTOM V Fold 2 and V Flip 2 launch alongside new PHANTOM V Pen](https://www.androidauthority.com/tecno-phantom-v-fold-2-3481369/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
