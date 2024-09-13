@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Mortal Kombat 1: How We Reinvented Klassic Kombatants Cyrax, Sektor, and Noob Saibot](https://news.xbox.com/en-us/2024/09/13/mortal-kombat-1-khaos-reigns-cyrax-sektor-noob-saibot-breakdown/)
- - [Transformers One tells a ‘biblical’ Optimus Prime story that only animation can pull off](https://www.polygon.com/23802110/transformers-one-2024-story-optimus-prime-chris-hemsworth)
- - [Check Out The Newest Life-Sized Pokémon Plush](https://kotaku.com/pokemon-porygon-life-sized-plush-center-store-import-1851647810)<!-- GAME:END -->
+ - [&#39;It&#39;s very emotional, it&#39;s really tense&#39;: Heavy lies the crown of AI dominance as Nvidia&#39;s Jensen Huang admits to getting just three hours sleep a night](https://www.pcgamer.com/hardware/its-very-emotional-its-really-tense-heavy-lies-the-crown-of-ai-dominance-as-nvidias-jensen-huang-admits-to-getting-just-three-hours-sleep-a-night)
+ - [I played Roblox&#39;s hottest game that&#39;s sweeping social media and got my ass handed to me by a bunch of 12-year-olds](https://www.pcgamer.com/games/sim/i-played-robloxs-hottest-game-thats-sweeping-social-media-and-got-my-ass-handed-to-me-by-a-bunch-of-12-year-olds)
+ - [Planet Coaster 2: The Diary of a Park Management Intern](https://news.xbox.com/en-us/2024/09/13/planet-coaster-2-the-diary-of-a-park-management-intern/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
