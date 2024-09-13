@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Louis is one of the best characters in the series](http://9gag.com/gag/aqy10bR)
- - ⏩ [PS5 vs PS5 Pro](http://9gag.com/gag/agmYz86)
- - 👉 [Power of friendship](http://9gag.com/gag/avy7KZX)<!-- MEMES:END -->
+ - 💣 [Weekeeeend](http://9gag.com/gag/aZZg6oX)
+ - ⏩ [`A surprise I&#39;m sure, but a welcome one.`](http://9gag.com/gag/agmYDZr)
+ - 👉 [Double face](http://9gag.com/gag/a0e5rbd)<!-- MEMES:END -->
 
 ---
 
