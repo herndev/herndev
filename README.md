@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [23andMe agrees to pay $30 million to settle lawsuit over massive data breach](https://www.theverge.com/2024/9/13/24243986/23andme-settlement-dna-data-breach-lawsuit)
- - [Google is preparing to borrow a feature from Apple’s Stolen Device Protection](https://www.androidauthority.com/android-identity-check-3481804/)
- - [Anker’s new $35 MagSafe gadget sticks SD cards to your iPhone](https://www.theverge.com/2024/9/13/24244018/anker-magnetic-card-reader-usb-c-iphone-prores-4k)<!-- TECH:END -->
+ - [Google Meet’s ‘take notes with Gemini’ feature may soon go mobile &lpar;APK Teardown&rpar;](https://www.androidauthority.com/gemini-meeting-notes-mobile-3481808/)
+ - [MicroStrategy stock jumped 8%+ on Friday after founder Michael Saylor said it purchased another $1.1B worth of bitcoin, taking its bitcoin holdings to $14.6B &lpar;MacKenzie Sigalos/CNBC&rpar;](http://www.techmeme.com/240913/p26#a240913p26)
+ - [Sam Bankman-Fried asks for a new trial in an appeal to the 2nd Circuit US Court of Appeals and directly attacks US District Judge Lewis Kaplan for alleged bias &lpar;Bloomberg&rpar;](http://www.techmeme.com/240913/p25#a240913p25)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
