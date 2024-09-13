@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [&#39;There&#39;s an alternate universe where Half-Life disappeared after release&#39;: Valve&#39;s first marketing strategist Monica Harrington says she helped navigate its way out of early disaster](https://www.pcgamer.com/games/fps/theres-an-alternate-universe-where-half-life-disappeared-after-release-valves-first-marketing-strategist-monica-harrington-says-she-helped-navigate-its-way-out-of-early-disaster)
- - [Immortals of Aveum developers find a new home at Rockstar co-founder Dan Houser&#39;s Absurd Ventures studio](https://www.pcgamer.com/gaming-industry/immortals-of-aveum-developers-find-a-new-home-at-rockstar-co-founder-dan-housers-absurd-ventures-studio)
- - [Call Of Duty: Modern Warfare 3, Starfield, And More Missing From Game Pass Standard](https://kotaku.com/xbox-game-pass-standard-library-starfield-diablo-4-1851645117)<!-- GAME:END -->
+ - [I&#39;m Planning To Buy A PS5 Pro And I&#39;m Excited](https://kotaku.com/ps5-pro-price-too-high-excited-worth-it-700-price-4k-1851648292)
+ - [Someone Recreated Stardew Valley Using 75,000 Lego Bricks](https://kotaku.com/stardew-valley-lego-75-000-bricks-pelican-town-brickcon-1851648259)
+ - [Grab This Heartfelt And Colorful Adventure Game While It’s Cheap](https://kotaku.com/chicory-colorful-tale-steam-sale-recommendation-zelda-1851648287)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
