@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Looking at 9gag in the work bathroom](http://9gag.com/gag/a9yAGL6)
- - ⏩ [I agree](http://9gag.com/gag/aZZg5Pp)
- - 👉 [Don&#39;t let the boss know](http://9gag.com/gag/an7j335)<!-- MEMES:END -->
+ - 💣 [I know what I saw](http://9gag.com/gag/aNDzGqK)
+ - ⏩ [Jon Bon Jovi talks a woman off the ledge of the John Seigenthaler Pedestrian Bridge downtown in Tennessee](http://9gag.com/gag/agmY9Qg)
+ - 👉 [The fake petition comments are gold\u2026](http://9gag.com/gag/avy7qPn)<!-- MEMES:END -->
 
 ---
 
