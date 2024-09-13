@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I want some high-fives too](http://9gag.com/gag/ae9eBvp)
- - ⏩ [Mortified](http://9gag.com/gag/aAyD9O0)
- - 👉 [Power of friendship](http://9gag.com/gag/avy7KZX)<!-- MEMES:END -->
+ - 💣 [Its not just a phase, MOM.](http://9gag.com/gag/a2v46qO)
+ - ⏩ [It it really true ??](http://9gag.com/gag/aXPvz9P)
+ - 👉 [Never Be The 2nd Option](http://9gag.com/gag/awyQWm1)<!-- MEMES:END -->
 
 ---
 
