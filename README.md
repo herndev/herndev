@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [In two experiments with 2,190 American conspiracy theorists, conversations with GPT-4 Turbo reduced their belief in conspiracy theories by about 20% on average &lpar;Jennifer Ouellette/Ars Technica&rpar;](http://www.techmeme.com/240912/p42#a240912p42)
- - [Every, which offers startups an all-in-one finance and human resources suite that combines banking, cards, tax, payroll, and more, raised a $22.5M Series A &lpar;Duncan Riley/SiliconANGLE&rpar;](http://www.techmeme.com/240912/p41#a240912p41)
- - [Come pixel-peep what the PS5 Pro can maybe actually do](https://www.theverge.com/2024/9/12/24243216/playstation-5-pro-ps5-big-4k-screenshots)<!-- TECH:END -->
+ - [Researchers detail GAZEploit, a now-fixed Vision Pro vulnerability allowing hackers to determine which key a user is typing based on the user&#39;s eye movement &lpar;Matt Burgess/Wired&rpar;](http://www.techmeme.com/240912/p43#a240912p43)
+ - [Having trouble with your Google Pixel 9 Pro Fold on AT&amp;T? You aren’t alone &lpar;Update: AT&amp;T statement&rpar;](https://www.androidauthority.com/pixel-9-pro-fold-att-5g-3480722/)
+ - [In two experiments with 2,190 American conspiracy theorists, conversations with GPT-4 Turbo reduced their belief in conspiracy theories by about 20% on average &lpar;Jennifer Ouellette/Ars Technica&rpar;](http://www.techmeme.com/240912/p42#a240912p42)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
