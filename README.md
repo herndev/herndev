@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Now patched macOS Calendar exploit let hackers steal data from iCloud](https://appleinsider.com/articles/24/09/13/now-patched-macos-calendar-exploit-let-hackers-steal-data-from-icloud?utm_medium=rss)
- - [How to cross-post your Threads posts to the fediverse](https://www.theverge.com/24107998/threads-fediverse-mastodon-how-to)
- - [Apple still has a lot of new hardware to release before the end of 2024](https://appleinsider.com/articles/24/09/13/apple-still-has-a-lot-of-new-hardware-to-release-before-the-end-of-2024?utm_medium=rss)<!-- TECH:END -->
+ - [OpenAI’s expensive new model claims to solve problems like a doctoral candidate](https://www.androidauthority.com/openai-o1-preview-3481749/)
+ - [Google TV’s free channels get a new name: Welcome to FreePlay](https://www.androidauthority.com/google-tv-freeplay-rebranding-3481786/)
+ - [Netflix wants to stream live episodes of Hot Ones](https://www.theverge.com/2024/9/13/24243999/netflix-live-episodes-hot-ones)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
