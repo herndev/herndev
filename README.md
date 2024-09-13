@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [OpenAI&#39;s o1 models aren&#39;t as simple as the next step up from GPT-4o as they introduce major cost and performance trade-offs in exchange for improved &quot;reasoning&quot; &lpar;Simon Willison/Simon Willison&#39;s Weblog&rpar;](http://www.techmeme.com/240913/p1#a240913p1)
- - [Google to removes limit on home screen Contacts widget &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-contacts-widget-favorites-update-3481546/)
- - [Google Pixel 9 Pro XL vs Apple iPhone 16 Pro Max: Which should you buy?](https://www.androidauthority.com/google-pixel-9-pro-xl-vs-iphone-16-pro-max-3481142/)<!-- TECH:END -->
+ - [Android 15’s latest QPR beta makes your Pixel Tablet more of a desktop than ever before](https://www.androidauthority.com/android-15-qpr-2-beta-1-desktop-windowing-3481557/)
+ - [It looks like the Pixel 9 series has a case of broken notifications](https://www.androidauthority.com/google-pixel-9-notifications-problem-3481564/)
+ - [Today&#39;s NYT Mini Crossword Answers for Sept. 13](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-sept-13/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
