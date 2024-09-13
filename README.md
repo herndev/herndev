@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Vox Media says its annual Code Conference has been put on hold, calling it a &quot;strong franchise&quot; but declining to share further information about its future &lpar;Oliver Darcy/Status&rpar;](http://www.techmeme.com/240912/p39#a240912p39)
- - [The best ebook reader to buy right now](https://www.theverge.com/23769068/best-ebook-readers)
- - [Google News app looks like it’s planning a big reorganization &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-news-interface-3481469/)<!-- TECH:END -->
+ - [Every, which offers startups an all-in-one finance and human resources suite that combines banking, cards, tax, payroll, and more, raised a $22.5M Series A &lpar;Duncan Riley/SiliconANGLE&rpar;](http://www.techmeme.com/240912/p41#a240912p41)
+ - [Come pixel-peep what the PS5 Pro can maybe actually do](https://www.theverge.com/2024/9/12/24243216/playstation-5-pro-ps5-big-4k-screenshots)
+ - [Should you buy an iPhone 16 or wait for the Galaxy S25?](https://www.androidauthority.com/iphone-16-vs-galaxy-s25-3480473/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
