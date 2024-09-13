@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Next Week on Xbox: New Games for September 16 to 20](https://news.xbox.com/en-us/2024/09/13/next-week-on-xbox-new-games-for-september-16-to-20/)
- - [Zenless Zone Zero 1.2 livestream codes](https://www.polygon.com/zenless-zone-zero-guides/2024/8/3/450852/zzz-1-2-codes-redeem-livestream)
- - [Full Intel next-gen Arrow Lake CPU model list, specs, release dates, the works reportedly revealed](https://www.pcgamer.com/hardware/processors/full-intel-next-gen-arrow-lake-cpu-model-list-specs-release-dates-the-works-reportedly-revealed)<!-- GAME:END -->
+ - [Mortal Kombat 1: How We Reinvented Klassic Kombatants Cyrax, Sektor, and Noob Saibot](https://news.xbox.com/en-us/2024/09/13/mortal-kombat-1-khaos-reigns-cyrax-sektor-noob-saibot-breakdown/)
+ - [Transformers One tells a ‘biblical’ Optimus Prime story that only animation can pull off](https://www.polygon.com/23802110/transformers-one-2024-story-optimus-prime-chris-hemsworth)
+ - [Check Out The Newest Life-Sized Pokémon Plush](https://kotaku.com/pokemon-porygon-life-sized-plush-center-store-import-1851647810)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
