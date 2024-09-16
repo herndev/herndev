@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The best Steam Deck accessories](https://www.polygon.com/what-to-buy/23627961/best-steam-deck-accessories)
- - [The new Lego Star Wars special has the most depressing ending](https://www.polygon.com/star-wars/451887/lego-star-wars-rebuild-the-galaxy-ending-depressing-wow)
- - [Get a headstart on fighting seasonal affective disorder with this Frostpunk deal](https://www.polygon.com/good-deals/451763/frostpunk-2-deluxe-edition-sale-steam-gog)<!-- GAME:END -->
+ - [PlayStation 6 chip chosen back in 2022, partly over backward compatibility](https://www.polygon.com/playstation/451896/ps6-amd-cpu-gpu-backward-compatibility-sony)
+ - [A new sequel to Batman 1989 brings Clayface into the Burtonverse — here’s a taste](https://www.polygon.com/books/451732/batman-resurrection-book-batman-returns-sequel-john-jackson-miller-excerpt)
+ - [There&#39;s A Way To Play Cult Of The Lamb With Online Co-Op](https://kotaku.com/cult-of-the-lamb-online-co-op-devolver-1851649020)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
