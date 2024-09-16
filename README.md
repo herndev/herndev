@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [ChatGPT Glossary: 46 AI Terms That Everyone Should Know](https://www.cnet.com/tech/services-and-software/chatgpt-glossary-46-ai-terms-that-everyone-should-know/#ftag=CAD590a51e)
  - [Suspected Trump Gunman Was Once Charged With Possession of a Weapon of Mass Destruction](https://www.wired.com/story/ryan-routh-donald-trump-gunman-weapon-of-mass-destruction-criminal-record/)
- - [iPhone 16, iPhone 16 Plus may have been the bestsellers in debut weekend](https://appleinsider.com/articles/24/09/16/iphone-16-iphone-16-plus-may-have-been-the-bestsellers-in-debut-weekend?utm_medium=rss)
- - [Best Internet Providers in Redding, California](https://www.cnet.com/home/internet/best-internet-providers-in-redding-ca/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [iPhone 16, iPhone 16 Plus may have been the bestsellers in debut weekend](https://appleinsider.com/articles/24/09/16/iphone-16-iphone-16-plus-may-have-been-the-bestsellers-in-debut-weekend?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
