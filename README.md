@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [A farmer in Nebraska asking a pro-fracking committee member to honor his word of drinking water from a fracking location](http://9gag.com/gag/aMVj1PX)
- - ⏩ [Marathon Girl](http://9gag.com/gag/avy7bRM)
- - 👉 [Justice](http://9gag.com/gag/aD2x0qd)<!-- MEMES:END -->
+ - 💣 [People who annoy you](http://9gag.com/gag/aqy79QQ)
+ - ⏩ [India is Dark Souls for western women](http://9gag.com/gag/a9ypbg0)
+ - 👉 [Ah yes](http://9gag.com/gag/ae9MNxQ)<!-- MEMES:END -->
 
 ---
 
