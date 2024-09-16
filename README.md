@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Groq partners with Aramco to build a data center in Saudi Arabia by 2024, says it will be the world&#39;s largest AI inferencing center with 19K Groq&#39;s custom GPUs &lpar;Matthew Martin/Bloomberg&rpar;](http://www.techmeme.com/240916/p1#a240916p1)
- - [Android 15 will give users more control over their Health Connect data &lpar;APK teardown&rpar;](https://www.androidauthority.com/android-15-health-connect-backup-and-restroe-data-3481951/)
- - [After iPhone 16, two Android brands are working on camera keys &lpar;Update: Three&rpar;](https://www.androidauthority.com/iphone-16-android-camera-buttons-3480341/)<!-- TECH:END -->
+ - [Android treats third-party launchers poorly, but this survey could help](https://www.androidauthority.com/android-third-party-launchers-issues-survey-3481961/)
+ - [Best Preorder Deals for the Apple Watch Series 10 Before It Launches This Week](https://www.cnet.com/deals/best-preorder-deals-for-the-apple-watch-series-10-before-it-launches-this-week/#ftag=CAD590a51e)
+ - [iPhone 16 Launches This Week. Find the Best Preorder Deals Available Now](https://www.cnet.com/deals/iphone-16-launches-this-week-find-the-best-preorder-deals-available-now/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
