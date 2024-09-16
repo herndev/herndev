@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Revisiting the D&amp;D games of my youth really makes me appreciate how much better things are today](https://www.pcgamer.com/games/rpg/revisiting-the-dandd-games-of-my-youth-really-makes-me-appreciate-how-much-better-things-are-today)
- - [Today&#39;s Wordle answer for Monday, September 16](https://www.pcgamer.com/games/puzzle/wordle-answer-today-september-16-2024)
- - [Five new Steam games you probably missed &lpar;September 16, 2024&rpar;](https://www.pcgamer.com/software/platforms/five-new-steam-games-you-probably-missed-september-16-2024)<!-- GAME:END -->
+ - [A Concord Platinum Trophy hunter came back from the grave to destroy the meme of 69 &lpar;nice&rpar; players achieving plat](https://www.pcgamer.com/games/fps/a-concord-platinum-trophy-hunter-came-back-from-the-grave-to-destroy-the-meme-of-69-nice-players-achieving-plat)
+ - [Valve developer has to keep reminding players that Deadlock&#39;s anti-cheat system is coming and &#39;very high priority&#39;, since it&#39;s leaning mostly on player reports right now](https://www.pcgamer.com/games/moba/valve-developer-has-to-keep-reminding-players-that-deadlock-s-anti-cheat-system-is-coming-and-very-high-priority-since-it-s-leaning-mostly-on-player-reports-right-now)
+ - [Flappy Bird creator says he&#39;s got nothing to do with the game&#39;s zombie comeback—&#39;I did not sell anything&#39;](https://www.pcgamer.com/gaming-industry/flappy-bird-creator-says-he-s-got-nothing-to-do-with-the-game-s-zombie-comeback-i-did-not-sell-anything)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
