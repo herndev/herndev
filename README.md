@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Short](http://9gag.com/gag/aXPxZVv)
- - ⏩ [That\u2019s what friends are for.](http://9gag.com/gag/a7oD4dA)
- - 👉 [Something something something\u2026. Dark side](http://9gag.com/gag/a6Zomgm)<!-- MEMES:END -->
+ - 💣 [Cop caught planting evidence red handed](http://9gag.com/gag/aND1mp4)
+ - ⏩ [I choose the Bear](http://9gag.com/gag/arygvG5)
+ - 👉 [Marie](http://9gag.com/gag/a6ZVWYA)<!-- MEMES:END -->
 
 ---
 
