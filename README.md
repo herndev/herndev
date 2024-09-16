@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple’s New Passwords App May Solve Your Login Nightmares](https://www.wired.com/story/apple-password-app-ios-18/)
- - [Microsoft debuts new AI coding tools in Excel, adds email prioritization Outlook features, and says Copilot&#39;s customer base grew 60%+ in the most recent quarter &lpar;Bloomberg&rpar;](http://www.techmeme.com/240916/p15#a240916p15)
- - [Grab Apple AirPods for as low as $89, with deals of up to $250 off](https://appleinsider.com/articles/24/09/16/grab-apple-airpods-for-as-low-as-89-with-deals-of-up-to-250-off?utm_medium=rss)<!-- TECH:END -->
+ - [Get Apple&#39;s 1TB 16-inch MacBook Pro M3 for $2,299 &lpar;all-time best price&rpar;](https://appleinsider.com/articles/24/09/16/get-apples-1tb-16-inch-macbook-pro-m3-for-2299-all-time-best-price?utm_medium=rss)
+ - [Sony reportedly picked AMD over Intel for the PS6](https://www.theverge.com/2024/9/16/24246234/playstation-6-rumor-sony-intel-amd)
+ - [Android notifications might finally sync across devices soon](https://www.theverge.com/2024/9/16/24246293/google-android-15-beta-notification-sync-across-devices-code)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
