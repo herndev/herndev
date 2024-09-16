@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Android treats third-party launchers poorly, but this survey could help](https://www.androidauthority.com/android-third-party-launchers-issues-survey-3481961/)
- - [Best Preorder Deals for the Apple Watch Series 10 Before It Launches This Week](https://www.cnet.com/deals/best-preorder-deals-for-the-apple-watch-series-10-before-it-launches-this-week/#ftag=CAD590a51e)
- - [iPhone 16 Launches This Week. Find the Best Preorder Deals Available Now](https://www.cnet.com/deals/iphone-16-launches-this-week-find-the-best-preorder-deals-available-now/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Google might let you sync your notifications between your Android devices](https://www.androidauthority.com/sync-notifications-android-devices-leak-3481920/)
+ - [EU Commissioner Thierry Breton, who oversees Big Tech regulation, says he is stepping down over a rift with Commission President Ursula von der Leyen &lpar;Reuters&rpar;](http://www.techmeme.com/240916/p2#a240916p2)
+ - [Android treats third-party launchers poorly, but this survey could help](https://www.androidauthority.com/android-third-party-launchers-issues-survey-3481961/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
