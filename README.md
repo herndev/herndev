@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [What is SHE smoking](http://9gag.com/gag/aXPxbM2)
- - ⏩ [Marie](http://9gag.com/gag/a6ZVWYA)
- - 👉 [I choose the Bear](http://9gag.com/gag/arygvG5)<!-- MEMES:END -->
+ - 💣 [I choose the Bear](http://9gag.com/gag/arygvG5)
+ - ⏩ [And act like strangers](http://9gag.com/gag/agmXrq6)
+ - 👉 [Peak Old Days](http://9gag.com/gag/awyXbN1)<!-- MEMES:END -->
 
 ---
 
