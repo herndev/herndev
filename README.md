@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [People who annoy you](http://9gag.com/gag/aqy79QQ)
- - ⏩ [Cop caught planting evidence red handed](http://9gag.com/gag/aND1mp4)
- - 👉 [I choose the Bear](http://9gag.com/gag/arygvG5)<!-- MEMES:END -->
+ - 💣 [Totally changed](http://9gag.com/gag/a0eKvpZ)
+ - ⏩ [Something something something\u2026. Dark side](http://9gag.com/gag/a6Zomgm)
+ - 👉 [Simple truth](http://9gag.com/gag/a7oM5dA)<!-- MEMES:END -->
 
 ---
 
