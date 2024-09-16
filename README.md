@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Snu Snu, mommy.](http://9gag.com/gag/ajPEQm8)
- - ⏩ [Speed was not bad though](http://9gag.com/gag/aLnjRLx)
- - 👉 [Men are so simple](http://9gag.com/gag/aKGDrdO)<!-- MEMES:END -->
+ - 💣 [The moment of realization](http://9gag.com/gag/aGyjKo7)
+ - ⏩ [That\u2019s what friends are for.](http://9gag.com/gag/a7oD4dA)
+ - 👉 [Forget about the guy in the black Tesla.](http://9gag.com/gag/awyXNx1)<!-- MEMES:END -->
 
 ---
 
