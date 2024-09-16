@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Revisiting the D&amp;D games of my youth really makes me appreciate how much better things are today](https://www.pcgamer.com/games/rpg/revisiting-the-dandd-games-of-my-youth-really-makes-me-appreciate-how-much-better-things-are-today)
  - [Today&#39;s Wordle answer for Monday, September 16](https://www.pcgamer.com/games/puzzle/wordle-answer-today-september-16-2024)
- - [Five new Steam games you probably missed &lpar;September 16, 2024&rpar;](https://www.pcgamer.com/software/platforms/five-new-steam-games-you-probably-missed-september-16-2024)
- - [Diablo 4 has made over $150M from microtransactions, achieved over $1B in lifetime revenue](https://www.pcgamer.com/games/rpg/diablo-4-has-made-over-dollar150m-from-microtransactions-achieved-over-dollar1b-in-lifetime-revenue)<!-- GAME:END -->
+ - [Five new Steam games you probably missed &lpar;September 16, 2024&rpar;](https://www.pcgamer.com/software/platforms/five-new-steam-games-you-probably-missed-september-16-2024)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
