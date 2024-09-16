@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Today&#39;s NYT Strands Hints, Answers and Help for Sept. 16, #197](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-sept-16-197/#ftag=CAD590a51e)
- - [Today&#39;s Wordle Hints, Answer and Help for Sept. 16, #1185](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-sept-16-1185/#ftag=CAD590a51e)
- - [Today&#39;s NYT Connections Hints, Answers and Help for Sept. 16, #463](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-sept-16-463/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Android 15 will give users more control over their Health Connect data &lpar;APK teardown&rpar;](https://www.androidauthority.com/android-15-health-connect-backup-and-restroe-data-3481951/)
+ - [After iPhone 16, two Android brands are working on camera keys &lpar;Update: Three&rpar;](https://www.androidauthority.com/iphone-16-android-camera-buttons-3480341/)
+ - [Today&#39;s NYT Mini Crossword Answers for Sept. 16](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-sept-16/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
