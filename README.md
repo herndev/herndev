@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Somehow, the Dog Situation on Airplanes Has Gotten Even Wilder](https://www.wired.com/story/dogs-on-planes-new-rabies-rules-august-2024/)
- - [Analysis: new iPhone first weekend pre-orders were down 12.7% to ~37M units; the iPhone 16 Pro declined 27% and iPhone 16 Pro Max 16% compared to the iPhone 15 &lpar;Ming-Chi Kuo&rpar;](http://www.techmeme.com/240916/p4#a240916p4)
- - [A plastic Apple Watch may debut next year](https://www.androidauthority.com/plastic-apple-watch-next-year-3481988/)<!-- TECH:END -->
+ - [Sources: in 2022, Intel lost out to AMD and TSMC on a contract to design and fabricate Sony&#39;s PS6 chip, a significant blow to its contract manufacturing unit &lpar;Max A. Cherney/Reuters&rpar;](http://www.techmeme.com/240916/p6#a240916p6)
+ - [A ton of you are seeing delayed notifications on your Pixel phone](https://www.androidauthority.com/google-pixel-phone-delayed-notifications-poll-results-3481984/)
+ - [&#39;Slow Horses&#39; wins outstanding writing Emmy for Apple TV+](https://appleinsider.com/articles/24/09/16/slow-horses-wins-outstanding-writing-emmy-for-apple-tv?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
