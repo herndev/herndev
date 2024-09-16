@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [What is SHE smoking](http://9gag.com/gag/aXPxbM2)
- - ⏩ [A short woman, with authority, without headscarf, puts him in place and tells him what to do. This will haunt him for life.](http://9gag.com/gag/aD2x0O9)
- - 👉 [People who annoy you](http://9gag.com/gag/aqy79QQ)<!-- MEMES:END -->
+ - 💣 [They&#39;ve been ice-skating partners for over 20 years](http://9gag.com/gag/arygerp)
+ - ⏩ [Who not?](http://9gag.com/gag/aByxRyO)
+ - 👉 [A dolphin amongst Sharks](http://9gag.com/gag/a6ZodyR)<!-- MEMES:END -->
 
 ---
 
