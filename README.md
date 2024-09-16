@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [&#39;Specialists will not be coming back&#39;: The next Battlefield will emulate Battlefields 3 and 4, &#39;the pinnacle&#39; of the series, says EA](https://www.pcgamer.com/games/fps/specialists-will-not-be-coming-back-the-next-battlefield-will-emulate-battlefields-3-and-4-the-pinnacle-of-the-series-says-ea)
- - [Original Flappy Bird developer not involved with rerelease](https://www.polygon.com/news/452008/flappy-bird-original-developer-not-involved)
- - [Final Fantasy 16&#39;s Producer Says Please Don&#39;t Make &#39;Inappropriate&#39; Mods](https://kotaku.com/ff16-pc-port-offensive-inappropriate-mods-nude-ps5-1851649334)<!-- GAME:END -->
+ - [Helldivers 2 devs took fan outcry to heart and made the new Napalm Barrage an absolute monstrosity](https://www.pcgamer.com/games/third-person-shooter/helldivers-2-devs-took-fan-outcry-to-heart-and-made-the-new-napalm-barrage-an-absolute-monstrosity)
+ - [Project Borealis, the fan-made effort to bring Half-Life 2 Episode 3 to life, returns after years of silence with a new &#39;Prologue&#39; teaser](https://www.pcgamer.com/games/fps/project-borealis-the-fan-made-effort-to-bring-half-life-2-episode-3-to-life-returns-after-years-of-silence-with-a-new-prologue-teaser)
+ - [Baldur&#39;s Gate 3 modders are already using its jailbroken level editor to make the game&#39;s first custom maps, including a proof-of-concept level in Hell](https://www.pcgamer.com/games/baldurs-gate/baldur-s-gate-3-modders-are-already-using-its-jailbroken-level-editor-to-make-the-game-s-first-custom-maps-including-a-proof-of-concept-level-in-hell)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
