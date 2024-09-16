@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Next Battlefield Returns To Modern Day, Wants To Be Like Battlefield 3](https://kotaku.com/battlefield-6-modern-day-specialists-classes-release-da-1851649399)
- - [This $33 charger has eyes only for you and your gadgets](https://www.polygon.com/good-deals/452081/usbc-charger-ugreen-cute-emoji-screen-deal-amazon-prime)
- - [Two Of 2024’s Best Indies Are On Sale During This Steam Event](https://kotaku.com/1000xresist-fellow-traveller-games-sale-steam-1851649391)<!-- GAME:END -->
+ - [Original Flappy Bird developer not involved with rerelease](https://www.polygon.com/news/452008/flappy-bird-original-developer-not-involved)
+ - [Final Fantasy 16&#39;s Producer Says Please Don&#39;t Make &#39;Inappropriate&#39; Mods](https://kotaku.com/ff16-pc-port-offensive-inappropriate-mods-nude-ps5-1851649334)
+ - [Next Battlefield Returns To Modern Day, Wants To Be Like Battlefield 3](https://kotaku.com/battlefield-6-modern-day-specialists-classes-release-da-1851649399)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
