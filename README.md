@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [OpenAI Messed With the Wrong Mega-Popular Parenting Forum](https://www.wired.com/story/mumsnet-openai-copyright-allegations/)
- - [Elon Musk deleted an X post that said &quot;no one is even trying to assassinate Biden/Kamala&quot; after an apparent Trump assassination attempt, calling the post a joke &lpar;Business Insider&rpar;](http://www.techmeme.com/240916/p7#a240916p7)
- - [This Brain Implant Lets People Control Amazon Alexa With Their Minds](https://www.wired.com/story/synchron-amazon-alexa-brain-computer-interface-bci/)<!-- TECH:END -->
+ - [How to Choose the Right Soundbar &lpar;2024&rpar;: Size, Price, Surround Sound, and Subwoofers](https://www.wired.com/story/how-to-buy-the-right-soundbar/)
+ - [Can satellites spot wildfires before they grow out of control?](https://www.theverge.com/2024/9/16/24243996/fire-satellite-google-firesat-constellation)
+ - [AirPods 4 review roundup: noise cancellation is a game changer](https://appleinsider.com/articles/24/09/16/airpods-4-review-roundup-noise-cancellation-is-a-game-changer?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
