@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Snu Snu, mommy.](http://9gag.com/gag/ajPEQm8)
- - ⏩ [Marathon Girl](http://9gag.com/gag/avy7bRM)
+ - 💣 [And act like strangers](http://9gag.com/gag/agmXrq6)
+ - ⏩ [My fellow sport enthusiast](http://9gag.com/gag/aD2xRZO)
  - 👉 [Marie](http://9gag.com/gag/a6ZVWYA)<!-- MEMES:END -->
 
 ---
