@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Save $250 on the Apple AirPods Max only today &lpar;refurbished&rpar;](https://www.androidauthority.com/refurbished-apple-airpods-max-deal-3482155/)
- - [Pixel 10 codenames point to another four phones next year](https://www.androidauthority.com/pixel-10-codenames-3482170/)
- - [Download iOS 18 for Your iPhone. How to Get It Right Now](https://www.cnet.com/tech/services-and-software/download-ios-18-for-your-iphone-how-to-get-it-right-now/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Elon Musk Is a National Security Risk](https://www.wired.com/story/elon-musk-biden-harris-assassination-post-x/)
+ - [Halide’s advanced camera app is now as easy to launch as Apple’s](https://www.theverge.com/2024/9/16/24246547/iphone-ios-18-halide-camera-app-lock-screen)
+ - [Intel announces it is creating a separate entity for its foundry business, a structure that could allow it to raise outside funding; INTC jumps 8% after hours &lpar;CNBC&rpar;](http://www.techmeme.com/240916/p25#a240916p25)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
