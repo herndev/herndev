@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon is making its employees come back to the office five days a week](https://www.theverge.com/2024/9/16/24246428/amazon-return-to-office-five-days-a-week)
- - [Apple Pay includes an option to pay with BNPL service Affirm on iOS 18, following the discontinuation of Apple Pay Later &lpar;Zac Hall/9to5Mac&rpar;](http://www.techmeme.com/240916/p19#a240916p19)
- - [Apple releases updates for iOS 17.7, iPadOS 17.7, macOS Ventura, and Sonoma](https://appleinsider.com/articles/24/09/16/apple-releases-updates-for-ios-177-ipados-177-macos-ventura-and-sonoma?utm_medium=rss)<!-- TECH:END -->
+ - [How Google got away with charging publishers more than anyone else](https://www.theverge.com/2024/9/16/24244357/google-adx-take-rate-commission-antitrust-trial)
+ - [Apple launches iOS 18 without Apple Intelligence, iPadOS 18, macOS 15 Sequoia, visionOS 2, and watchOS 11 &lpar;Gary Ng/iPhone in Canada Blog&rpar;](http://www.techmeme.com/240916/p21#a240916p21)
+ - [Amazon CEO Andy Jassy tells employees to return to the office five days a week, citing the importance of the policy to the company&#39;s culture &lpar;Annie Palmer/CNBC&rpar;](http://www.techmeme.com/240916/p20#a240916p20)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
