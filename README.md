@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Five new Steam games you probably missed &lpar;September 16, 2024&rpar;](https://www.pcgamer.com/software/platforms/five-new-steam-games-you-probably-missed-september-16-2024)
  - [Diablo 4 has made over $150M from microtransactions, achieved over $1B in lifetime revenue](https://www.pcgamer.com/games/rpg/diablo-4-has-made-over-dollar150m-from-microtransactions-achieved-over-dollar1b-in-lifetime-revenue)
- - [Here&#39;s a sci-fi action RPG where your inventory is a ship designer and your skills are a tech tree](https://www.pcgamer.com/games/rpg/heres-a-sci-fi-action-rpg-where-your-inventory-is-a-ship-designer-and-your-skills-are-a-tech-tree)
- - [Somewhere between Death Stranding and A Short Hike, there&#39;s Caravan SandWitch](https://www.pcgamer.com/games/somewhere-between-death-stranding-and-a-short-hike-theres-caravan-sandwitch)<!-- GAME:END -->
+ - [Here&#39;s a sci-fi action RPG where your inventory is a ship designer and your skills are a tech tree](https://www.pcgamer.com/games/rpg/heres-a-sci-fi-action-rpg-where-your-inventory-is-a-ship-designer-and-your-skills-are-a-tech-tree)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
