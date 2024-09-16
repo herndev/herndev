@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nintendo’s 2024 Switch holiday bundle now includes OLED](https://www.theverge.com/2024/9/16/24246126/nintendo-switch-mario-kart-8-oled-bundle-nintendo-online)
- - [Microsoft confirms scrapping plans to overhaul its Edge browser UI, including moving away from a rounded tab design, first announced at a February 2023 event &lpar;Zac Bowden/Windows Central&rpar;](http://www.techmeme.com/240916/p11#a240916p11)
- - [Slack unveils Agents for Slack, letting paid users access Salesforce AI agents, third-party agents from Asana, Cohere, Adobe, and others, and users&#39; own agents &lpar;Emilia David/VentureBeat&rpar;](http://www.techmeme.com/240916/p10#a240916p10)<!-- TECH:END -->
+ - [Refurbished first-gen AirPods Max headphones are $250 off for today only](https://www.theverge.com/good-deals/2024/9/16/24246092/apple-airpods-max-lightning-headphones-amazon-fire-7-kids-deal-sale)
+ - [Zildjian’s wireless headphones have a special ANC mode for drums](https://www.theverge.com/2024/9/16/24246091/zildjian-alchem-e-perfect-tune-wireless-headphones-anc)
+ - [Apple AirPods 4 and AirPods 4 With Active Noise Cancellation Review: Not Worth It](https://www.wired.com/review/apple-airpods-4/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
