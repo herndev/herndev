@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Intel’s big turnaround plan includes spinning off its chipmaking business](https://www.theverge.com/2024/9/16/24246599/intel-foundry-independent-spinoff)
- - [The US awards Intel up to an additional $3B under the CHIPS and Science Act for the Secure Enclave program to expand the supply of microelectronics for the DOD &lpar;Kristian Burt/CNBC&rpar;](http://www.techmeme.com/240916/p28#a240916p28)
- - [Review of iOS 18: despite missing upcoming AI features, there&#39;s plenty to like including bold personalization options and solid updates to Notes, Calendar, Maps &lpar;Philip Michaels/Tom&#39;s Guide&rpar;](http://www.techmeme.com/240916/p27#a240916p27)<!-- TECH:END -->
+ - [Don&#39;t wait to update: iOS 18 introduces key security fixes](https://appleinsider.com/articles/24/09/16/dont-wait-to-update-ios-18-introduces-key-security-fixes?utm_medium=rss)
+ - [Microsoft unveils a $60B stock buyback program, matching its largest-ever repurchase authorization, and raises its quarterly dividend by 10% to $0.83 per share &lpar;Andrew Pollack/Bloomberg&rpar;](http://www.techmeme.com/240916/p30#a240916p30)
+ - [Apple gets ready for AI: all the news on iOS 18, macOS Sequoia, and more](https://www.theverge.com/24246632/apple-intelligence-ios-18-ipad-os-18-macos-sequoia-iphone-16)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
