@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [PlayStation 6 chip chosen back in 2022, partly over backward compatibility](https://www.polygon.com/playstation/451896/ps6-amd-cpu-gpu-backward-compatibility-sony)
- - [A new sequel to Batman 1989 brings Clayface into the Burtonverse — here’s a taste](https://www.polygon.com/books/451732/batman-resurrection-book-batman-returns-sequel-john-jackson-miller-excerpt)
- - [There&#39;s A Way To Play Cult Of The Lamb With Online Co-Op](https://kotaku.com/cult-of-the-lamb-online-co-op-devolver-1851649020)<!-- GAME:END -->
+ - [Next Battlefield Returns To Modern Day, Wants To Be Like Battlefield 3](https://kotaku.com/battlefield-6-modern-day-specialists-classes-release-da-1851649399)
+ - [This $33 charger has eyes only for you and your gadgets](https://www.polygon.com/good-deals/452081/usbc-charger-ugreen-cute-emoji-screen-deal-amazon-prime)
+ - [Two Of 2024’s Best Indies Are On Sale During This Steam Event](https://kotaku.com/1000xresist-fellow-traveller-games-sale-steam-1851649391)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
