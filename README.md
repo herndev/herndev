@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Marvel Vs. Capcom Fighting Collection: Arcade Classics, As Told By Steam Reviews](https://kotaku.com/marvel-vs-capcom-collection-steam-reviews-1851649035)
- - [Flappy Bird Creator Says He&#39;s Not Involved In The Hit Game&#39;s Return Amid References To NFTs and Crypto Arise](https://kotaku.com/flappy-bird-nft-crypto-blockchain-telegram-1851649000)
- - [&#39;PCs are difficult to set up&#39;, argues PlayStation co-CEO as he sticks up for his precious console&#39;s honour](https://www.pcgamer.com/gaming-industry/pcs-are-difficult-to-set-up-argues-playstation-co-ceo-as-he-sticks-up-for-his-precious-console-s-honour)<!-- GAME:END -->
+ - [The best Steam Deck accessories](https://www.polygon.com/what-to-buy/23627961/best-steam-deck-accessories)
+ - [The new Lego Star Wars special has the most depressing ending](https://www.polygon.com/star-wars/451887/lego-star-wars-rebuild-the-galaxy-ending-depressing-wow)
+ - [Get a headstart on fighting seasonal affective disorder with this Frostpunk deal](https://www.polygon.com/good-deals/451763/frostpunk-2-deluxe-edition-sale-steam-gog)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
