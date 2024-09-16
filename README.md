@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Apparently a guy tries to show how safe \u2018certain\u2019 neighbourhoods are in order to prove that they\u2019re actually safe places to be.](http://9gag.com/gag/aO8rKBy)
- - ⏩ [Cop caught planting evidence red handed](http://9gag.com/gag/aND1mp4)
- - 👉 [My future](http://9gag.com/gag/aoyObnX)<!-- MEMES:END -->
+ - 💣 [Short](http://9gag.com/gag/aXPxZVv)
+ - ⏩ [That\u2019s what friends are for.](http://9gag.com/gag/a7oD4dA)
+ - 👉 [Something something something\u2026. Dark side](http://9gag.com/gag/a6Zomgm)<!-- MEMES:END -->
 
 ---
 
