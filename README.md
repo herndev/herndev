@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This is the last photo ever taken of Marco Siffredi \u2014 just before he died attempting to snowboard down Mount Everest. What a knob.](http://9gag.com/gag/adBKNq9)
- - ⏩ [Simple truth](http://9gag.com/gag/a7oM5dA)
- - 👉 [And act like strangers](http://9gag.com/gag/agmXrq6)<!-- MEMES:END -->
+ - 💣 [And act like strangers](http://9gag.com/gag/agmXrq6)
+ - ⏩ [My fellow sport enthusiast](http://9gag.com/gag/aD2xRZO)
+ - 👉 [Because of the abundance of oil in the Algerian soil, it comes out on its own without drilling.](http://9gag.com/gag/aE0xvWM)<!-- MEMES:END -->
 
 ---
 
