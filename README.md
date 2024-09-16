@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How Google got away with charging publishers more than anyone else](https://www.theverge.com/2024/9/16/24244357/google-adx-take-rate-commission-antitrust-trial)
- - [Apple launches iOS 18 without Apple Intelligence, iPadOS 18, macOS 15 Sequoia, visionOS 2, and watchOS 11 &lpar;Gary Ng/iPhone in Canada Blog&rpar;](http://www.techmeme.com/240916/p21#a240916p21)
- - [Amazon CEO Andy Jassy tells employees to return to the office five days a week, citing the importance of the policy to the company&#39;s culture &lpar;Annie Palmer/CNBC&rpar;](http://www.techmeme.com/240916/p20#a240916p20)<!-- TECH:END -->
+ - [Save $250 on the Apple AirPods Max only today &lpar;refurbished&rpar;](https://www.androidauthority.com/refurbished-apple-airpods-max-deal-3482155/)
+ - [Pixel 10 codenames point to another four phones next year](https://www.androidauthority.com/pixel-10-codenames-3482170/)
+ - [Download iOS 18 for Your iPhone. How to Get It Right Now](https://www.cnet.com/tech/services-and-software/download-ios-18-for-your-iphone-how-to-get-it-right-now/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
