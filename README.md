@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best Android phones for everyone](https://www.theverge.com/23674658/best-android-phone)
- - [An EEOC analysis finds women made up 22.6% of US workers in high-tech roles in 2022, similar to the 22% in 2005, even as the number of lucrative jobs has soared &lpar;Naomi Nix/Washington Post&rpar;](http://www.techmeme.com/240913/p27#a240913p27)
- - [The new Flappy Bird’s crypto connections are raising eyebrows](https://www.androidauthority.com/flappy-bird-crypto-3481831/)<!-- TECH:END -->
+ - [iPhone 16, iPhone 16 Plus may have been the bestsellers in debut weekend](https://appleinsider.com/articles/24/09/16/iphone-16-iphone-16-plus-may-have-been-the-bestsellers-in-debut-weekend?utm_medium=rss)
+ - [Research based on the US Census Bureau&#39;s data from 2008 to 2021 suggests online dating may be partially to blame for a rise in income inequality in recent times &lpar;Alexandre Tanzi/Bloomberg&rpar;](http://www.techmeme.com/240915/p6#a240915p6)
+ - [iOS 18 Repair Assistant forces parts pairing for users](https://appleinsider.com/articles/24/09/15/ios-18-repair-assistant-forces-parts-pairing-for-users?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
