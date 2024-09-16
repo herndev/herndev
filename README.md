@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [People who annoy you](http://9gag.com/gag/aqy79QQ)
- - ⏩ [India is Dark Souls for western women](http://9gag.com/gag/a9ypbg0)
- - 👉 [Ah yes](http://9gag.com/gag/ae9MNxQ)<!-- MEMES:END -->
+ - 💣 [This is the last photo ever taken of Marco Siffredi \u2014 just before he died attempting to snowboard down Mount Everest. What a knob.](http://9gag.com/gag/adBKNq9)
+ - ⏩ [Simple truth](http://9gag.com/gag/a7oM5dA)
+ - 👉 [And act like strangers](http://9gag.com/gag/agmXrq6)<!-- MEMES:END -->
 
 ---
 
