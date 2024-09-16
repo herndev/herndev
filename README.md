@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Get Apple&#39;s 1TB 16-inch MacBook Pro M3 for $2,299 &lpar;all-time best price&rpar;](https://appleinsider.com/articles/24/09/16/get-apples-1tb-16-inch-macbook-pro-m3-for-2299-all-time-best-price?utm_medium=rss)
- - [Sony reportedly picked AMD over Intel for the PS6](https://www.theverge.com/2024/9/16/24246234/playstation-6-rumor-sony-intel-amd)
- - [Android notifications might finally sync across devices soon](https://www.theverge.com/2024/9/16/24246293/google-android-15-beta-notification-sync-across-devices-code)<!-- TECH:END -->
+ - [Amazon is making its employees come back to the office five days a week](https://www.theverge.com/2024/9/16/24246428/amazon-return-to-office-five-days-a-week)
+ - [Apple Pay includes an option to pay with BNPL service Affirm on iOS 18, following the discontinuation of Apple Pay Later &lpar;Zac Hall/9to5Mac&rpar;](http://www.techmeme.com/240916/p19#a240916p19)
+ - [Apple releases updates for iOS 17.7, iPadOS 17.7, macOS Ventura, and Sonoma](https://appleinsider.com/articles/24/09/16/apple-releases-updates-for-ios-177-ipados-177-macos-ventura-and-sonoma?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
