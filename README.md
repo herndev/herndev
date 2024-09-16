@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [People who annoy you](http://9gag.com/gag/aqy79QQ)
- - ⏩ [Who doesn&#39;t love a goth girl ?](http://9gag.com/gag/a34MVYm)
- - 👉 [My fellow sport enthusiast](http://9gag.com/gag/aD2xRZO)<!-- MEMES:END -->
+ - 💣 [Because of the abundance of oil in the Algerian soil, it comes out on its own without drilling.](http://9gag.com/gag/aE0xvWM)
+ - ⏩ [Marathon Girl](http://9gag.com/gag/avy7bRM)
+ - 👉 [Salute for this kind of guy.](http://9gag.com/gag/aGyeWpX)<!-- MEMES:END -->
 
 ---
 
