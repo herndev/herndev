@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Because of the abundance of oil in the Algerian soil, it comes out on its own without drilling.](http://9gag.com/gag/aE0xvWM)
+ - 💣 [Snu Snu, mommy.](http://9gag.com/gag/ajPEQm8)
  - ⏩ [Marathon Girl](http://9gag.com/gag/avy7bRM)
- - 👉 [Salute for this kind of guy.](http://9gag.com/gag/aGyeWpX)<!-- MEMES:END -->
+ - 👉 [Marie](http://9gag.com/gag/a6ZVWYA)<!-- MEMES:END -->
 
 ---
 
