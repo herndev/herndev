@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Cop caught planting evidence red handed](http://9gag.com/gag/aND1mp4)
- - ⏩ [I choose the Bear](http://9gag.com/gag/arygvG5)
- - 👉 [Marie](http://9gag.com/gag/a6ZVWYA)<!-- MEMES:END -->
+ - ⏩ [When the day finally &#39;came&#39;](http://9gag.com/gag/aAyDnz0)
+ - 👉 [Marathon Girl](http://9gag.com/gag/avy7bRM)<!-- MEMES:END -->
 
 ---
 
