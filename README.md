@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [And act like strangers](http://9gag.com/gag/agmXrq6)
- - ⏩ [My fellow sport enthusiast](http://9gag.com/gag/aD2xRZO)
- - 👉 [Because of the abundance of oil in the Algerian soil, it comes out on its own without drilling.](http://9gag.com/gag/aE0xvWM)<!-- MEMES:END -->
+ - 💣 [Peak Old Days](http://9gag.com/gag/awyXbN1)
+ - ⏩ [Marathon Girl](http://9gag.com/gag/avy7bRM)
+ - 👉 [What kind of sport is this](http://9gag.com/gag/arygp97)<!-- MEMES:END -->
 
 ---
 
