@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Sea of Thieves &amp; Xbox in NYC to Kick Off New York Liberty’s Push to Playoffs](https://news.xbox.com/en-us/2024/09/16/xbox-sea-of-thieves-new-york-liberty-crossover/)
- - [Enter Your Spoiler Bunker, Zelda: Echoes Of Wisdom Has Leaked Online](https://kotaku.com/zelda-echoes-of-wisdom-leak-nintendo-rom-1851648804)
- - [Microsoft&#39;s recyclobot uses machine learning and computer vision to open and recycle 90% of hard drive components](https://www.pcgamer.com/hardware/hdds/microsofts-recyclobot-uses-machine-learning-and-computer-vision-to-open-and-recycle-90-of-hard-drive-components)<!-- GAME:END -->
+ - [Here&#39;s what you need to know before picking up Star Wars Outlaws](https://www.pcgamer.com/games/heres-what-you-need-to-know-before-picking-up-star-wars-outlaws)
+ - [Report: PlayStation 6&#39;s Chip Choice Will Help With Backward Compatibility](https://kotaku.com/ps6-chip-release-date-backwards-compatibility-ps5-1851648868)
+ - [10 Sprawling Action Games To Play After Star Wars Outlaws](https://kotaku.com/last-of-us-starfield-games-like-star-wars-outlaws-1851648627)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
