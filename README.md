@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Elon Musk Is a National Security Risk](https://www.wired.com/story/elon-musk-biden-harris-assassination-post-x/)
- - [Halide’s advanced camera app is now as easy to launch as Apple’s](https://www.theverge.com/2024/9/16/24246547/iphone-ios-18-halide-camera-app-lock-screen)
- - [Intel announces it is creating a separate entity for its foundry business, a structure that could allow it to raise outside funding; INTC jumps 8% after hours &lpar;CNBC&rpar;](http://www.techmeme.com/240916/p25#a240916p25)<!-- TECH:END -->
+ - [Intel’s big turnaround plan includes spinning off its chipmaking business](https://www.theverge.com/2024/9/16/24246599/intel-foundry-independent-spinoff)
+ - [The US awards Intel up to an additional $3B under the CHIPS and Science Act for the Secure Enclave program to expand the supply of microelectronics for the DOD &lpar;Kristian Burt/CNBC&rpar;](http://www.techmeme.com/240916/p28#a240916p28)
+ - [Review of iOS 18: despite missing upcoming AI features, there&#39;s plenty to like including bold personalization options and solid updates to Notes, Calendar, Maps &lpar;Philip Michaels/Tom&#39;s Guide&rpar;](http://www.techmeme.com/240916/p27#a240916p27)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
