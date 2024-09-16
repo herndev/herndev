@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The moment of realization](http://9gag.com/gag/aGyjKo7)
- - ⏩ [That\u2019s what friends are for.](http://9gag.com/gag/a7oD4dA)
- - 👉 [Forget about the guy in the black Tesla.](http://9gag.com/gag/awyXNx1)<!-- MEMES:END -->
+ - 💣 [Apparently a guy tries to show how safe \u2018certain\u2019 neighbourhoods are in order to prove that they\u2019re actually safe places to be.](http://9gag.com/gag/aO8rKBy)
+ - ⏩ [Cop caught planting evidence red handed](http://9gag.com/gag/aND1mp4)
+ - 👉 [My future](http://9gag.com/gag/aoyObnX)<!-- MEMES:END -->
 
 ---
 
