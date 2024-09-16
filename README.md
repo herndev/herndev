@@ -40,8 +40,8 @@
 
 <!-- TECH:START -->
  - [iPhone 16, iPhone 16 Plus may have been the bestsellers in debut weekend](https://appleinsider.com/articles/24/09/16/iphone-16-iphone-16-plus-may-have-been-the-bestsellers-in-debut-weekend?utm_medium=rss)
- - [Research based on the US Census Bureau&#39;s data from 2008 to 2021 suggests online dating may be partially to blame for a rise in income inequality in recent times &lpar;Alexandre Tanzi/Bloomberg&rpar;](http://www.techmeme.com/240915/p6#a240915p6)
- - [iOS 18 Repair Assistant forces parts pairing for users](https://appleinsider.com/articles/24/09/15/ios-18-repair-assistant-forces-parts-pairing-for-users?utm_medium=rss)<!-- TECH:END -->
+ - [Best Internet Providers in Redding, California](https://www.cnet.com/home/internet/best-internet-providers-in-redding-ca/#ftag=CAD590a51e)
+ - [Stop Vacuuming Back and Forth and Try This Method for a Cleaner Home](https://www.cnet.com/home/kitchen-and-household/stop-vacuuming-back-and-forth-and-try-this-method-for-a-cleaner-home/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
