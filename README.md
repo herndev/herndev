@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [And act like strangers](http://9gag.com/gag/agmXrq6)
- - ⏩ [My fellow sport enthusiast](http://9gag.com/gag/aD2xRZO)
- - 👉 [Marie](http://9gag.com/gag/a6ZVWYA)<!-- MEMES:END -->
+ - 💣 [Snu Snu, mommy.](http://9gag.com/gag/ajPEQm8)
+ - ⏩ [Speed was not bad though](http://9gag.com/gag/aLnjRLx)
+ - 👉 [Men are so simple](http://9gag.com/gag/aKGDrdO)<!-- MEMES:END -->
 
 ---
 
