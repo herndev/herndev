@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Simple truth](http://9gag.com/gag/a7oM5dA)
- - ⏩ [Marie](http://9gag.com/gag/a6ZVWYA)
- - 👉 [Because of the abundance of oil in the Algerian soil, it comes out on its own without drilling.](http://9gag.com/gag/aE0xvWM)<!-- MEMES:END -->
+ - 💣 [People who annoy you](http://9gag.com/gag/aqy79QQ)
+ - ⏩ [Cop caught planting evidence red handed](http://9gag.com/gag/aND1mp4)
+ - 👉 [I choose the Bear](http://9gag.com/gag/arygvG5)<!-- MEMES:END -->
 
 ---
 
