@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Final Fantasy 16 director Naoki Yoshida asks that modders please don&#39;t run amok with &#39;offensive or inappropriate&#39; shenanigans now the game&#39;s on PC](https://www.pcgamer.com/games/rpg/final-fantasy-16-director-naoki-yoshida-asks-that-modders-please-dont-run-amok-with-offensive-or-inappropriate-shenanigans-now-the-games-on-pc)
- - [12,000 Fake Nintendo And Sega Consoles To Be Destroyed In Major Retro Gaming Bust](https://kotaku.com/snes-sega-genesis-roms-emulator-retro-console-1851648927)
- - [You can get Rocksteady&amp;#8217;s Batman: Arkham trilogy on Steam for just $9](https://www.polygon.com/good-deals/451747/batman-arkham-collection-steam-asylum-city-knight-deal)<!-- GAME:END -->
+ - [Marvel Vs. Capcom Fighting Collection: Arcade Classics, As Told By Steam Reviews](https://kotaku.com/marvel-vs-capcom-collection-steam-reviews-1851649035)
+ - [Flappy Bird Creator Says He&#39;s Not Involved In The Hit Game&#39;s Return Amid References To NFTs and Crypto Arise](https://kotaku.com/flappy-bird-nft-crypto-blockchain-telegram-1851649000)
+ - [&#39;PCs are difficult to set up&#39;, argues PlayStation co-CEO as he sticks up for his precious console&#39;s honour](https://www.pcgamer.com/gaming-industry/pcs-are-difficult-to-set-up-argues-playstation-co-ceo-as-he-sticks-up-for-his-precious-console-s-honour)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
