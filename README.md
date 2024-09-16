@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to Choose the Right Soundbar &lpar;2024&rpar;: Size, Price, Surround Sound, and Subwoofers](https://www.wired.com/story/how-to-buy-the-right-soundbar/)
- - [Can satellites spot wildfires before they grow out of control?](https://www.theverge.com/2024/9/16/24243996/fire-satellite-google-firesat-constellation)
- - [AirPods 4 review roundup: noise cancellation is a game changer](https://appleinsider.com/articles/24/09/16/airpods-4-review-roundup-noise-cancellation-is-a-game-changer?utm_medium=rss)<!-- TECH:END -->
+ - [Nintendo’s 2024 Switch holiday bundle now includes OLED](https://www.theverge.com/2024/9/16/24246126/nintendo-switch-mario-kart-8-oled-bundle-nintendo-online)
+ - [Microsoft confirms scrapping plans to overhaul its Edge browser UI, including moving away from a rounded tab design, first announced at a February 2023 event &lpar;Zac Bowden/Windows Central&rpar;](http://www.techmeme.com/240916/p11#a240916p11)
+ - [Slack unveils Agents for Slack, letting paid users access Salesforce AI agents, third-party agents from Asana, Cohere, Adobe, and others, and users&#39; own agents &lpar;Emilia David/VentureBeat&rpar;](http://www.techmeme.com/240916/p10#a240916p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
