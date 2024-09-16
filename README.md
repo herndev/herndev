@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google might let you sync your notifications between your Android devices](https://www.androidauthority.com/sync-notifications-android-devices-leak-3481920/)
- - [EU Commissioner Thierry Breton, who oversees Big Tech regulation, says he is stepping down over a rift with Commission President Ursula von der Leyen &lpar;Reuters&rpar;](http://www.techmeme.com/240916/p2#a240916p2)
- - [Android treats third-party launchers poorly, but this survey could help](https://www.androidauthority.com/android-third-party-launchers-issues-survey-3481961/)<!-- TECH:END -->
+ - [Somehow, the Dog Situation on Airplanes Has Gotten Even Wilder](https://www.wired.com/story/dogs-on-planes-new-rabies-rules-august-2024/)
+ - [Analysis: new iPhone first weekend pre-orders were down 12.7% to ~37M units; the iPhone 16 Pro declined 27% and iPhone 16 Pro Max 16% compared to the iPhone 15 &lpar;Ming-Chi Kuo&rpar;](http://www.techmeme.com/240916/p4#a240916p4)
+ - [A plastic Apple Watch may debut next year](https://www.androidauthority.com/plastic-apple-watch-next-year-3481988/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
