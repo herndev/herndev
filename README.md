@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Here&#39;s what you need to know before picking up Star Wars Outlaws](https://www.pcgamer.com/games/heres-what-you-need-to-know-before-picking-up-star-wars-outlaws)
- - [Report: PlayStation 6&#39;s Chip Choice Will Help With Backward Compatibility](https://kotaku.com/ps6-chip-release-date-backwards-compatibility-ps5-1851648868)
- - [10 Sprawling Action Games To Play After Star Wars Outlaws](https://kotaku.com/last-of-us-starfield-games-like-star-wars-outlaws-1851648627)<!-- GAME:END -->
+ - [Final Fantasy 16 director Naoki Yoshida asks that modders please don&#39;t run amok with &#39;offensive or inappropriate&#39; shenanigans now the game&#39;s on PC](https://www.pcgamer.com/games/rpg/final-fantasy-16-director-naoki-yoshida-asks-that-modders-please-dont-run-amok-with-offensive-or-inappropriate-shenanigans-now-the-games-on-pc)
+ - [12,000 Fake Nintendo And Sega Consoles To Be Destroyed In Major Retro Gaming Bust](https://kotaku.com/snes-sega-genesis-roms-emulator-retro-console-1851648927)
+ - [You can get Rocksteady&amp;#8217;s Batman: Arkham trilogy on Steam for just $9](https://www.polygon.com/good-deals/451747/batman-arkham-collection-steam-asylum-city-knight-deal)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
