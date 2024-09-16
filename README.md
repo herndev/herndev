@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Weekeeeend](http://9gag.com/gag/aZZg6oX)
- - ⏩ [`A surprise I&#39;m sure, but a welcome one.`](http://9gag.com/gag/agmYDZr)
- - 👉 [Double face](http://9gag.com/gag/a0e5rbd)<!-- MEMES:END -->
+ - 💣 [People who annoy you](http://9gag.com/gag/aqy79QQ)
+ - ⏩ [Who doesn&#39;t love a goth girl ?](http://9gag.com/gag/a34MVYm)
+ - 👉 [My fellow sport enthusiast](http://9gag.com/gag/aD2xRZO)<!-- MEMES:END -->
 
 ---
 
