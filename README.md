@@ -33,8 +33,8 @@
 
 <!-- GAME:START -->
  - [&lpar;For Singapore&rpar; Welcome PlayStation 5 Pro, the most visually impressive way to play games on PlayStation](https://blog.playstation.com/2024/09/16/20240917-ps5pro/)
- - [Today&#39;s Wordle answer for Tuesday, September 17](https://www.pcgamer.com/games/puzzle/wordle-answer-today-September-17-2024)
- - [Final Fantasy 16 PC launch times and release date](https://www.pcgamer.com/games/final-fantasy/ff16-launch-times-release-date)<!-- GAME:END -->
+ - [&lpar;For Singapore&rpar; Welcome PlayStation 5 Pro, the most visually impressive way to play games on PlayStation](https://blog.playstation.com/2024/09/16/20240917-ps5pro/)
+ - [Today&#39;s Wordle answer for Tuesday, September 17](https://www.pcgamer.com/games/puzzle/wordle-answer-today-September-17-2024)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
