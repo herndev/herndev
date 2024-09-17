@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Don&#39;t wait to update: iOS 18 introduces key security fixes](https://appleinsider.com/articles/24/09/16/dont-wait-to-update-ios-18-introduces-key-security-fixes?utm_medium=rss)
- - [Microsoft unveils a $60B stock buyback program, matching its largest-ever repurchase authorization, and raises its quarterly dividend by 10% to $0.83 per share &lpar;Andrew Pollack/Bloomberg&rpar;](http://www.techmeme.com/240916/p30#a240916p30)
- - [Apple gets ready for AI: all the news on iOS 18, macOS Sequoia, and more](https://www.theverge.com/24246632/apple-intelligence-ios-18-ipad-os-18-macos-sequoia-iphone-16)<!-- TECH:END -->
+ - [Here’s how I make the most of my free ChatGPT account, beyond the basics](https://www.androidauthority.com/best-uses-for-chatgpt-free-account-3482214/)
+ - [TikTok faces a skeptical panel of judges in its existential fight against the US government](https://www.theverge.com/2024/9/16/24246568/tiktok-v-garland-oral-arguments-dc-circuit)
+ - [Need a power bank on the cheap? Here are some great deals from Anker and UGREEN](https://www.androidauthority.com/anker-ugreen-power-bank-deals-3482153/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
