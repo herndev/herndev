@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [5 Things You Need to Know About Ara: History Untold](https://news.xbox.com/en-us/2024/09/17/5-things-you-need-to-know-about-ara-history-untold/)
- - [This Nostalgic Zelda-Like Is A Delightful Love Letter To Gaming](https://kotaku.com/plucky-squire-review-zelda-pc-playstation-xbox-switch-1851648226)
- - [Fighter Class build guide for Dungeons &amp;#038; Dragons 5e 2024](https://www.polygon.com/dungeons-and-dragons-dnd-guide/452004/fighter-class-build-guide)<!-- GAME:END -->
+ - [War Game: The Making of S.T.A.L.K.E.R. 2 – Available October 3](https://variety.com/2024/gaming/news/stalker-2-ukraine-war-developers-doc-xbox-1236146958/#new_tab)
+ - [A Big Moment In Digimon History Is Coming To Blu-Ray, And It’s Up For Pre-Order](https://kotaku.com/digimon-the-movies-english-dub-pre-order-blu-ray-1851650353)
+ - [7 Cheap Open-World Games To Pick Up And Explore From Xbox’s Sale](https://kotaku.com/open-world-sale-xbox-red-dead-redemption-2-cyberpunk-1851650320)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
