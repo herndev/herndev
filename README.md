@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Final Fantasy 16 PC launch times and release date](https://www.pcgamer.com/games/final-fantasy/ff16-launch-times-release-date)
  - [There are weird games, and then there&#39;s Judero: a delectably Scottish adventure made out of action figures and Harryhausenesque claymation where you fight faeries, lizards, and Englishmen](https://www.pcgamer.com/games/action/there-are-weird-games-and-then-there-s-judero-a-delectably-scottish-adventure-made-out-of-action-figures-and-harryhausenesque-claymation-where-you-fight-faeries-lizards-and-englishmen)
- - [Unknown 9: Awakening feels like a AA videogame from the late 2000s, and so far that isn&#39;t a bad thing](https://www.pcgamer.com/games/action/unknown-9-awakening-feels-like-a-aa-videogame-from-the-late-2000s-and-so-far-that-isnt-a-bad-thing)
- - [Helldivers 2 devs took fan outcry to heart and made the new Napalm Barrage an absolute monstrosity](https://www.pcgamer.com/games/third-person-shooter/helldivers-2-devs-took-fan-outcry-to-heart-and-made-the-new-napalm-barrage-an-absolute-monstrosity)<!-- GAME:END -->
+ - [Unknown 9: Awakening feels like a AA videogame from the late 2000s, and so far that isn&#39;t a bad thing](https://www.pcgamer.com/games/action/unknown-9-awakening-feels-like-a-aa-videogame-from-the-late-2000s-and-so-far-that-isnt-a-bad-thing)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
