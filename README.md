@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Ah yes](http://9gag.com/gag/ae9MNxQ)
- - ⏩ [We did our part not watching it.](http://9gag.com/gag/aAyxY8d)
- - 👉 [&lpar;\u2060\u256f\u2060\u00b0\u2060\u25a1\u2060\u00b0\u2060\uff09\u2060\u256f](http://9gag.com/gag/aE0x1pn)<!-- MEMES:END -->
+ - ⏩ [This is also why there are literally no homicides in UAE](http://9gag.com/gag/aMVjQEM)
+ - 👉 [We did our part not watching it.](http://9gag.com/gag/aAyxY8d)<!-- MEMES:END -->
 
 ---
 
