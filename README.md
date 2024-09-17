@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at the activity of some members of The Com, an online community linked to the Scattered Spider hacking group, and their involvement in extortion groups &lpar;Brian Krebs/Krebs on Security&rpar;](http://www.techmeme.com/240916/p34#a240916p34)
- - [A US federal jury finds Zynga infringed on two IBM patents related to web-based communications and orders the game maker to pay $44.9M; Zynga plans to appeal &lpar;Blake Brittain/Reuters&rpar;](http://www.techmeme.com/240916/p33#a240916p33)
- - [‘I Told Him I’m Not Getting in It’: Former Titan Submersible Engineer Testifies](https://www.wired.com/story/oceangate-hearings-day-one-witness-tony-nissen-coast-guard/)<!-- TECH:END -->
+ - [Trump is hawking tokens for a crypto project he still hasn’t explained](https://www.theverge.com/2024/9/16/24246805/trump-world-liberty-financial-crypto-platform-announcement)
+ - [Best Coolers of 2024](https://www.cnet.com/home/yard-and-outdoors/best-coolers/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Mini Crossword Answers for Sept. 17](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-sept-17/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
