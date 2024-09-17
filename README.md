@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [They&#39;ve been ice-skating partners for over 20 years](http://9gag.com/gag/arygerp)
- - ⏩ [Who not?](http://9gag.com/gag/aByxRyO)
- - 👉 [A dolphin amongst Sharks](http://9gag.com/gag/a6ZodyR)<!-- MEMES:END -->
+ - 💣 [Who not?](http://9gag.com/gag/aByxRyO)
+ - ⏩ [They&#39;ve been ice-skating partners for over 20 years](http://9gag.com/gag/arygerp)
+ - 👉 [Because of the abundance of oil in the Algerian soil, it comes out on its own without drilling.](http://9gag.com/gag/aE0xvWM)<!-- MEMES:END -->
 
 ---
 
