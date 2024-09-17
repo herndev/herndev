@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Watch Series 10 review roundup: A strong annual upgrade](https://appleinsider.com/articles/24/09/17/apple-watch-series-10-review-roundup-a-strong-annual-upgrade?utm_medium=rss)
- - [Deals: Apple&#39;s M3 14-inch MacBook Pro with 16GB RAM is on sale for $1,499](https://appleinsider.com/articles/24/09/17/deals-apples-m3-14-inch-macbook-pro-with-16gb-ram-is-on-sale-for-1499?utm_medium=rss)
- - [In US v. Google, YouTube’s CEO defends the Google way](https://www.theverge.com/2024/9/17/24247066/neal-mohan-us-v-google-testimony)<!-- TECH:END -->
+ - [Apple iPhone 17 rumors: Everything we know so far and what we want to see](https://www.androidauthority.com/apple-iphone-17-3453759/)
+ - [Wintermute partners with Chaos Labs to launch a crypto-based betting site focused on the US presidential election; Polymarket has ~$1B in wagers on that contest &lpar;Muyao Shen/Bloomberg&rpar;](http://www.techmeme.com/240917/p15#a240917p15)
+ - [Uber is now asking riders to get verified as a safety measure for drivers](https://www.theverge.com/2024/9/17/24246397/uber-rider-verification-fraud-driver-safety)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
