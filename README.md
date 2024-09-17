@@ -48,7 +48,7 @@
 <!-- MEMES:START -->
  - 💣 [Railway bridge in Poland- every day vs last Sunday](http://9gag.com/gag/amo7Xxo)
  - ⏩ [A farmer in Nebraska asking a pro-fracking committee member to honor his word of drinking water from a fracking location](http://9gag.com/gag/aMVj1PX)
- - 👉 [C U Next Time](http://9gag.com/gag/aYQgbD2)<!-- MEMES:END -->
+ - 👉 [So many books](http://9gag.com/gag/azxXbYp)<!-- MEMES:END -->
 
 ---
 
