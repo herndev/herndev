@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Ah yes](http://9gag.com/gag/ae9MNxQ)
- - ⏩ [This is also why there are literally no homicides in UAE](http://9gag.com/gag/aMVjQEM)
- - 👉 [We did our part not watching it.](http://9gag.com/gag/aAyxY8d)<!-- MEMES:END -->
+ - 💣 [Aim](http://9gag.com/gag/amo70ej)
+ - ⏩ [A short woman, with authority, without headscarf, puts him in place and tells him what to do. This will haunt him for life.](http://9gag.com/gag/aD2x0O9)
+ - 👉 [9gaggers... its 2012..](http://9gag.com/gag/aD2xod7)<!-- MEMES:END -->
 
 ---
 
