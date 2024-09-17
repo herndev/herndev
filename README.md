@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [macOS Sequoia backs five USB-C port Mac mini rumors](https://appleinsider.com/articles/24/09/17/macos-sequoia-backs-five-usb-c-port-mac-mini-rumors?utm_medium=rss)
- - [5 Best Sunrise Alarm Clocks &lpar;2024&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-sunrise-alarm-clocks/)
- - [Apple Watch Series 10 Review: Sleep Apnea Notifications and a Bigger Display](https://www.wired.com/review/review-apple-watch-series-10-nl/)<!-- TECH:END -->
+ - [iOS 18 review: Good, but better with Apple Intelligence](https://appleinsider.com/articles/24/09/17/ios-18-review-good-but-better-with-apple-intelligence?utm_medium=rss)
+ - [Eve’s Light Switch is getting a refresh that Matters](https://www.androidauthority.com/eve-light-switch-matter-support-3482290/)
+ - [Google outlines plans to help you sort real images from fake](https://www.theverge.com/2024/9/17/24247004/google-c2pa-verify-ai-generated-images-content)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
