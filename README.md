@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft: starting in late August, Russian cyber operatives focused on Harris&#39; campaign, with disinfo including videos spread by a site posing as a news outlet &lpar;Sam Sabin/Axios&rpar;](http://www.techmeme.com/240917/p31#a240917p31)
- - [California Governor Gavin Newsom signs two bills restricting the use of AI replicas of performers, building on protections SAG-AFTRA sought in its 2023 strike &lpar;Katie Kilkenny/The Hollywood Reporter&rpar;](http://www.techmeme.com/240917/p30#a240917p30)
- - [Spatial photos now available on iPhone 15 Pro with iOS 18.1 developer beta 4](https://appleinsider.com/articles/24/09/17/spatial-photos-now-available-on-iphone-15-pro-with-ios-181-developer-beta-4?utm_medium=rss)<!-- TECH:END -->
+ - [The best instant cameras you can buy right now](https://www.theverge.com/23133103/best-instant-cameras-fujifilm-polaroid-kodak)
+ - [California governor signs rules limiting AI actor clones](https://www.theverge.com/2024/9/17/24247583/california-governor-newsom-signs-ai-digital-replica-bills)
+ - [Sources: Apple&#39;s A16 SoC is currently being manufactured at Phase 1 of TSMC&#39;s Fab 21 in Arizona in small, but significant, numbers &lpar;Tim Culpan/Tim Culpan&#39;s Position&rpar;](http://www.techmeme.com/240917/p34#a240917p34)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
