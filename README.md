@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Here’s how I make the most of my free ChatGPT account, beyond the basics](https://www.androidauthority.com/best-uses-for-chatgpt-free-account-3482214/)
- - [TikTok faces a skeptical panel of judges in its existential fight against the US government](https://www.theverge.com/2024/9/16/24246568/tiktok-v-garland-oral-arguments-dc-circuit)
- - [Need a power bank on the cheap? Here are some great deals from Anker and UGREEN](https://www.androidauthority.com/anker-ugreen-power-bank-deals-3482153/)<!-- TECH:END -->
+ - [A US federal jury finds Zynga infringed on two IBM patents related to web-based communications and orders the game maker to pay $44.9M; Zynga plans to appeal &lpar;Blake Brittain/Reuters&rpar;](http://www.techmeme.com/240916/p33#a240916p33)
+ - [‘I Told Him I’m Not Getting in It’: Former Titan Submersible Engineer Testifies](https://www.wired.com/story/oceangate-hearings-day-one-witness-tony-nissen-coast-guard/)
+ - [Meta says it&#39;s banning Russian media outlet RT from its apps globally, days after the Biden admin accused RT of acting as an arm of Moscow&#39;s spy agencies &lpar;NBC News&rpar;](http://www.techmeme.com/240916/p32#a240916p32)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
