@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The new Google TV Streamer is already on store shelves but you can’t buy it](https://www.androidauthority.com/google-tv-streamer-home-depot-3482260/)
- - [Google could soon make it easier to manage Trusted places for Extend Unlock &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-trusted-places-toggle-apk-teardown-3482250/)
- - [TECNO PHANTOM V Fold 2 and V Flip 2 launch alongside new PHANTOM V Pen &lpar;Update&rpar;](https://www.androidauthority.com/tecno-phantom-v-fold-2-3481369/)<!-- TECH:END -->
+ - [iPhone user on Google Fi? Here’s why you don’t have RCS yet.](https://www.androidauthority.com/apple-iphone-google-fi-rcs-3482267/)
+ - [Amazon Prime Day announced for October, giving you a head start for your holiday shopping](https://www.androidauthority.com/amazon-prime-big-deals-day-announced-3482273/)
+ - [Q&amp;A with Philips CEO Roy Jakobs on evolving the company, a three-year restructuring plan, laying off 10,000 staff, FDA litigation, AI in healthcare, and more &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/240917/p2#a240917p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
