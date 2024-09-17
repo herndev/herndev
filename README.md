@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [A dolphin amongst Sharks](http://9gag.com/gag/a6ZodyR)
- - ⏩ [I was afraid of nothing, until i saw this picture](http://9gag.com/gag/aRB3A6j)
- - 👉 [This Screwdriver that looks like a Revolver](http://9gag.com/gag/avyOP1n)<!-- MEMES:END -->
+ - 💣 [What kind of sport is this](http://9gag.com/gag/arygp97)
+ - ⏩ [We did our part not watching it.](http://9gag.com/gag/aAyxY8d)
+ - 👉 [Ah yes](http://9gag.com/gag/ae9MNxQ)<!-- MEMES:END -->
 
 ---
 
