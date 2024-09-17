@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Trapezium has one of the most cunning and manipulative protagonists in anime](https://www.polygon.com/anime/452527/trapezium-movie-review-idols)
- - [If Space Marine 2 left you with a 40K craving, Humble Bundle&#39;s selling 24 Space Marine books for $18](https://www.pcgamer.com/games/action/if-space-marine-2-left-you-with-a-40k-craving-humble-bundles-selling-24-space-marine-books-for-dollar18)
- - [Pokémon Go Has Added Dynamaxing, And Then Forgotten To Explain It Properly](https://kotaku.com/pokemon-go-dynamax-max-particles-battle-guide-1851650328)<!-- GAME:END -->
+ - [New GTA Online Update Breaks Steam Deck Support](https://kotaku.com/gta-online-update-steam-deck-gta-6-rdr-pc-port-leak-ps5-1851650625)
+ - [Overwatch 2 Celebrates World Of Warcraft With New Crossover Event](https://kotaku.com/overwatch-2-world-of-warcraft-event-skins-widowmaker-1851650621)
+ - [The End is the bleakest Hollywood musical ever made](https://www.polygon.com/review/452540/the-end-is-the-bleakest-hollywood-musical-ever-made)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
