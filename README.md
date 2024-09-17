@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Because of the abundance of oil in the Algerian soil, it comes out on its own without drilling.](http://9gag.com/gag/aE0xvWM)
- - ⏩ [Ah yes](http://9gag.com/gag/ae9MNxQ)
+ - 💣 [Ah yes](http://9gag.com/gag/ae9MNxQ)
+ - ⏩ [Peak Old Days](http://9gag.com/gag/awyXbN1)
  - 👉 [Wonder Woman replacement](http://9gag.com/gag/azxXbGm)<!-- MEMES:END -->
 
 ---
