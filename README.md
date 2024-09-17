@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [I Wore Snap&#39;s New Self Contained AR Spectacles and Snap OS video](https://www.cnet.com/videos/i-wore-snaps-new-self-contained-ar-spectacles-and-snap-os/#ftag=CAD590a51e)
- - [Snap’s new Spectacles inch closer to compelling AR](https://www.theverge.com/2024/9/17/24245572/snap-spectacles-ar-developers-evan-spiegel)
- - [Best Places to Sell Your Used Electronics for 2024](https://www.cnet.com/tech/mobile/best-places-to-sell-electronics/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Late-Night Snack? Make It One of These 7 Expert-Approved Foods for Better Sleep](https://www.cnet.com/health/sleep/late-night-snack-make-it-one-of-these-7-expert-approved-foods-for-better-sleep/#ftag=CAD590a51e)
+ - [Apple stops iPadOS 18 updates for M4 iPad Pro](https://appleinsider.com/articles/24/09/17/apple-stops-ipados-18-updates-for-m4-ipad-pro?utm_medium=rss)
+ - [Best Headphones for 2024](https://www.cnet.com/tech/mobile/best-headphones/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
