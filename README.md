@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [C U Next Time](http://9gag.com/gag/aYQgbD2)
- - ⏩ [Simple truth](http://9gag.com/gag/a7oM5dA)
- - 👉 [No black samurai. What a Bummer!](http://9gag.com/gag/aAyxpDE)<!-- MEMES:END -->
+ - 💣 [This is also why there are literally no homicides in UAE](http://9gag.com/gag/aMVjQEM)
+ - ⏩ [&lpar;\u2060\u256f\u2060\u00b0\u2060\u25a1\u2060\u00b0\u2060\uff09\u2060\u256f](http://9gag.com/gag/aE0x1pn)
+ - 👉 [What kind of sport is this](http://9gag.com/gag/arygp97)<!-- MEMES:END -->
 
 ---
 
