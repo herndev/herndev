@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Una Fuerza Hermoza: Xbox Celebrates the Diverse Voices of Hispanic Creators](https://news.xbox.com/en-us/2024/09/17/xbox-hispanic-heritage-month-2024/)
- - [How To Farm Infernal Compasses In Diablo 4, And Take On The Infernal Hordes](https://kotaku.com/diablo-4-infernal-compass-hordes-guide-1851649799)
- - [RedMagic Titan 16 Pro review](https://www.pcgamer.com/hardware/gaming-laptops/redmagic-titan-16-pro-review)<!-- GAME:END -->
+ - [5 Things You Need to Know About Ara: History Untold](https://news.xbox.com/en-us/2024/09/17/5-things-you-need-to-know-about-ara-history-untold/)
+ - [This Nostalgic Zelda-Like Is A Delightful Love Letter To Gaming](https://kotaku.com/plucky-squire-review-zelda-pc-playstation-xbox-switch-1851648226)
+ - [Fighter Class build guide for Dungeons &amp;#038; Dragons 5e 2024](https://www.polygon.com/dungeons-and-dragons-dnd-guide/452004/fighter-class-build-guide)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
