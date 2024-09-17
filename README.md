@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google plans to flag AI-generated images that have C2PA metadata on Search, Google Lens, and Circle to Search in the &quot;about this image&quot; box, within a few months &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240917/p19#a240917p19)
- - [Apple updates iWork productivity app suite with iOS 18 &amp; macOS Sequoia features](https://appleinsider.com/articles/24/09/17/apple-updates-iwork-productivity-app-suite-with-ios-18-macos-sequoia-features?utm_medium=rss)
- - [Nothing puts its next launch ‘out in the open’ in just one week](https://www.androidauthority.com/nothing-open-teaser-3482400/)<!-- TECH:END -->
+ - [I Wore Snap&#39;s New Self Contained AR Spectacles and Snap OS video](https://www.cnet.com/videos/i-wore-snaps-new-self-contained-ar-spectacles-and-snap-os/#ftag=CAD590a51e)
+ - [Snap’s new Spectacles inch closer to compelling AR](https://www.theverge.com/2024/9/17/24245572/snap-spectacles-ar-developers-evan-spiegel)
+ - [Best Places to Sell Your Used Electronics for 2024](https://www.cnet.com/tech/mobile/best-places-to-sell-electronics/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
