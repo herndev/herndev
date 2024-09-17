@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Revolut is preparing to launch its services in India in 2025, in an effort to expand outside Europe, which accounted for more than 90% of its sales in 2023 &lpar;Financial Times&rpar;](http://www.techmeme.com/240917/p1#a240917p1)
- - [The Trumps Have Gone Full Crypto With World Liberty Financial](https://www.wired.com/story/trump-world-liberty-financial-crypto-defi/)
- - [Theragun Alternatives: Best Budget Massage Guns for 2024](https://www.cnet.com/health/fitness/best-budget-massage-guns/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The new Google TV Streamer is already on store shelves but you can’t buy it](https://www.androidauthority.com/google-tv-streamer-home-depot-3482260/)
+ - [Google could soon make it easier to manage Trusted places for Extend Unlock &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-trusted-places-toggle-apk-teardown-3482250/)
+ - [TECNO PHANTOM V Fold 2 and V Flip 2 launch alongside new PHANTOM V Pen &lpar;Update&rpar;](https://www.androidauthority.com/tecno-phantom-v-fold-2-3481369/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
