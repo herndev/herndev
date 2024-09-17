@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [We did our part not watching it.](http://9gag.com/gag/aAyxY8d)
- - ⏩ [People who annoy you](http://9gag.com/gag/aqy79QQ)
- - 👉 [Ah yes](http://9gag.com/gag/ae9MNxQ)<!-- MEMES:END -->
+ - 💣 [Because of the abundance of oil in the Algerian soil, it comes out on its own without drilling.](http://9gag.com/gag/aE0xvWM)
+ - ⏩ [Ah yes](http://9gag.com/gag/ae9MNxQ)
+ - 👉 [Wonder Woman replacement](http://9gag.com/gag/azxXbGm)<!-- MEMES:END -->
 
 ---
 
