@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Because of the abundance of oil in the Algerian soil, it comes out on its own without drilling.](http://9gag.com/gag/aE0xvWM)
- - ⏩ [I choose the Bear](http://9gag.com/gag/arygvG5)
- - 👉 [People who annoy you](http://9gag.com/gag/aqy79QQ)<!-- MEMES:END -->
+ - 💣 [I choose the Bear](http://9gag.com/gag/arygvG5)
+ - ⏩ [Ah yes](http://9gag.com/gag/ae9MNxQ)
+ - 👉 [What kind of sport is this](http://9gag.com/gag/arygp97)<!-- MEMES:END -->
 
 ---
 
