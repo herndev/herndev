@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [A farmer in Nebraska asking a pro-fracking committee member to honor his word of drinking water from a fracking location](http://9gag.com/gag/aMVj1PX)
- - ⏩ [C U Next Time](http://9gag.com/gag/aYQgbD2)
- - 👉 [Simple truth](http://9gag.com/gag/a7oM5dA)<!-- MEMES:END -->
+ - 💣 [Snu Snu, mommy.](http://9gag.com/gag/ajPEQm8)
+ - ⏩ [Yep](http://9gag.com/gag/a5QopBr)
+ - 👉 [We did our part not watching it.](http://9gag.com/gag/aAyxY8d)<!-- MEMES:END -->
 
 ---
 
