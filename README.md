@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [&lpar;For Singapore&rpar; Welcome PlayStation 5 Pro, the most visually impressive way to play games on PlayStation](https://blog.playstation.com/2024/09/16/20240917-ps5pro/)
- - [&lpar;For Singapore&rpar; Welcome PlayStation 5 Pro, the most visually impressive way to play games on PlayStation](https://blog.playstation.com/2024/09/16/20240917-ps5pro/)
- - [Today&#39;s Wordle answer for Tuesday, September 17](https://www.pcgamer.com/games/puzzle/wordle-answer-today-September-17-2024)<!-- GAME:END -->
+ - [Intel announces it will &#39;pause&#39; plans for a manufacturing megafab in Germany due to ongoing money trouble](https://www.pcgamer.com/hardware/processors/intel-announces-it-will-pause-plans-for-a-manufacturing-megafab-in-germany-due-to-ongoing-money-trouble)
+ - [Frostpunk 2 early access times and global release date](https://www.pcgamer.com/games/city-builder/frostpunk-2-early-access-release-times)
+ - [&lpar;For Singapore&rpar; Welcome PlayStation 5 Pro, the most visually impressive way to play games on PlayStation](https://blog.playstation.com/2024/09/16/20240917-ps5pro/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
