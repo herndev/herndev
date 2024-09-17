@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone user on Google Fi? Here’s why you don’t have RCS yet.](https://www.androidauthority.com/apple-iphone-google-fi-rcs-3482267/)
- - [Amazon Prime Day announced for October, giving you a head start for your holiday shopping](https://www.androidauthority.com/amazon-prime-big-deals-day-announced-3482273/)
- - [Q&amp;A with Philips CEO Roy Jakobs on evolving the company, a three-year restructuring plan, laying off 10,000 staff, FDA litigation, AI in healthcare, and more &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/240917/p2#a240917p2)<!-- TECH:END -->
+ - [Setapp Mobile’s open beta adds more apps for European iPhone users](https://www.theverge.com/2024/9/17/24243950/setapp-mobile-alternative-ios-app-store-eu-open-beta)
+ - [A look at Shenzhen-based Transsion, whose Infinix and Tecno command about 50% of Africa&#39;s smartphone market and are finding success in Asia and the Middle East &lpar;Austin Carr/Bloomberg&rpar;](http://www.techmeme.com/240917/p3#a240917p3)
+ - [Google Photos rolls out new image-flipping feature](https://www.androidauthority.com/google-photos-flip-images-horizontally-3482288/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
