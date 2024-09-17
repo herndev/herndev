@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [iOS 18 review: Good, but better with Apple Intelligence](https://appleinsider.com/articles/24/09/17/ios-18-review-good-but-better-with-apple-intelligence?utm_medium=rss)
- - [Eve’s Light Switch is getting a refresh that Matters](https://www.androidauthority.com/eve-light-switch-matter-support-3482290/)
- - [Google outlines plans to help you sort real images from fake](https://www.theverge.com/2024/9/17/24247004/google-c2pa-verify-ai-generated-images-content)<!-- TECH:END -->
+ - [Apple Watch Series 10 review roundup: A strong annual upgrade](https://appleinsider.com/articles/24/09/17/apple-watch-series-10-review-roundup-a-strong-annual-upgrade?utm_medium=rss)
+ - [Deals: Apple&#39;s M3 14-inch MacBook Pro with 16GB RAM is on sale for $1,499](https://appleinsider.com/articles/24/09/17/deals-apples-m3-14-inch-macbook-pro-with-16gb-ram-is-on-sale-for-1499?utm_medium=rss)
+ - [In US v. Google, YouTube’s CEO defends the Google way](https://www.theverge.com/2024/9/17/24247066/neal-mohan-us-v-google-testimony)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
