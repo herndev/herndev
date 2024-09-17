@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Co-op Fun Awaits– the Chaotic Welcome to Empyreum Arrives on September 20!](https://news.xbox.com/en-us/2024/09/17/welcome-to-empyreum-arrives-september-20/)
- - [GTA Online finally gets BattlEye anti-cheat, and some fans think it&#39;s a sign of bigger things to come](https://www.pcgamer.com/games/action/gta-online-finally-gets-battleye-anti-cheat-and-some-fans-think-its-a-sign-of-bigger-things-to-come)
- - [EA&#39;s Skate Reboot Will Launch In Early Access Next Year](https://kotaku.com/ea-skate-4-reboot-release-date-early-access-2025-pc-ps5-1851650367)<!-- GAME:END -->
+ - [Trapezium has one of the most cunning and manipulative protagonists in anime](https://www.polygon.com/anime/452527/trapezium-movie-review-idols)
+ - [If Space Marine 2 left you with a 40K craving, Humble Bundle&#39;s selling 24 Space Marine books for $18](https://www.pcgamer.com/games/action/if-space-marine-2-left-you-with-a-40k-craving-humble-bundles-selling-24-space-marine-books-for-dollar18)
+ - [Pokémon Go Has Added Dynamaxing, And Then Forgotten To Explain It Properly](https://kotaku.com/pokemon-go-dynamax-max-particles-battle-guide-1851650328)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
