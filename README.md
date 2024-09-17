@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Snu Snu, mommy.](http://9gag.com/gag/ajPEQm8)
- - ⏩ [Yep](http://9gag.com/gag/a5QopBr)
- - 👉 [We did our part not watching it.](http://9gag.com/gag/aAyxY8d)<!-- MEMES:END -->
+ - 💣 [Because of the abundance of oil in the Algerian soil, it comes out on its own without drilling.](http://9gag.com/gag/aE0xvWM)
+ - ⏩ [I choose the Bear](http://9gag.com/gag/arygvG5)
+ - 👉 [People who annoy you](http://9gag.com/gag/aqy79QQ)<!-- MEMES:END -->
 
 ---
 
