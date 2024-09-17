@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Late-Night Snack? Make It One of These 7 Expert-Approved Foods for Better Sleep](https://www.cnet.com/health/sleep/late-night-snack-make-it-one-of-these-7-expert-approved-foods-for-better-sleep/#ftag=CAD590a51e)
- - [Apple stops iPadOS 18 updates for M4 iPad Pro](https://appleinsider.com/articles/24/09/17/apple-stops-ipados-18-updates-for-m4-ipad-pro?utm_medium=rss)
- - [Best Headphones for 2024](https://www.cnet.com/tech/mobile/best-headphones/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The 12 Best Eye Creams of 2024](https://www.cnet.com/health/personal-care/best-eye-cream/#ftag=CAD590a51e)
+ - [Best Family Games for 2024](https://www.cnet.com/culture/entertainment/10-best-family-board-games/#ftag=CAD590a51e)
+ - [Find Your State&#39;s Early Voting Info With This Simple Guide](https://www.cnet.com/news/politics/find-your-states-early-voting-info-with-this-simple-guide/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
