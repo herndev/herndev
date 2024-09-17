@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Chin](http://9gag.com/gag/aByx3Nz)
- - ⏩ [We did our part not watching it.](http://9gag.com/gag/aAyxY8d)
- - 👉 [Thanks, google.](http://9gag.com/gag/aVv3Oxv)<!-- MEMES:END -->
+ - 💣 [We did our part not watching it.](http://9gag.com/gag/aAyxY8d)
+ - ⏩ [Chin](http://9gag.com/gag/aByx3Nz)
+ - 👉 [9gagger checking to see if the company in their house left yet.](http://9gag.com/gag/axy1dzW)<!-- MEMES:END -->
 
 ---
 
