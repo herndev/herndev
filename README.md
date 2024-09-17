@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [OpenAI confirms fixing an issue &quot;where it appeared as though ChatGPT was starting new conversations&quot;, after users reported ChatGPT reaching out proactively &lpar;Victor Tangermann/Futurism&rpar;](http://www.techmeme.com/240917/p6#a240917p6)
- - [Time Bandits cancelled by Apple TV+](https://appleinsider.com/articles/24/09/17/time-bandits-cancelled-by-apple-tv?utm_medium=rss)
- - [Company behind Apple Watch ban just made Wear OS watches much easier to build](https://www.androidauthority.com/google-qualcomm-masimo-wear-os-smartwatch-reference-platform-3482297/)<!-- TECH:END -->
+ - [Pixel 10 wishlist: All the features I want to see](https://www.androidauthority.com/google-pixel-10-3470386/)
+ - [How Netflix staged a remarkable recovery since its 2022 stock crash, adding 45M+ subscribers via a password crackdown and gaining an edge over Hollywood rivals &lpar;Christopher Grimes/Financial Times&rpar;](http://www.techmeme.com/240917/p8#a240917p8)
+ - [How Apple Watch sleep apnea detection works in watchOS 11](https://appleinsider.com/articles/24/09/17/how-apple-watch-sleep-apnea-detection-works-in-watchos-11?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
