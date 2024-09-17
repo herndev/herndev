@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Uber says it plans to start checking US passengers&#39; account info against third-party ID verification databases; drivers will be able to see a user&#39;s blue badge &lpar;Curtis Heinzl/Bloomberg&rpar;](http://www.techmeme.com/240917/p16#a240917p16)
- - [How to use macOS Terminal and what it’s useful for](https://www.theverge.com/24246585/macos-apple-terminal-how-to)
- - [Amazon is producing The Sims movie](https://www.theverge.com/2024/9/17/24247232/the-sims-movie-amazon-luckychap-kate-heron-briony-redman)<!-- TECH:END -->
+ - [Google plans to flag AI-generated images that have C2PA metadata on Search, Google Lens, and Circle to Search in the &quot;about this image&quot; box, within a few months &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240917/p19#a240917p19)
+ - [Apple updates iWork productivity app suite with iOS 18 &amp; macOS Sequoia features](https://appleinsider.com/articles/24/09/17/apple-updates-iwork-productivity-app-suite-with-ios-18-macos-sequoia-features?utm_medium=rss)
+ - [Nothing puts its next launch ‘out in the open’ in just one week](https://www.androidauthority.com/nothing-open-teaser-3482400/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
