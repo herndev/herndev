@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [A short woman, with authority, without headscarf, puts him in place and tells him what to do. This will haunt him for life.](http://9gag.com/gag/aD2x0O9)
- - ⏩ [Who not?](http://9gag.com/gag/aByxRyO)
- - 👉 [Revenge of the cat ladies! &lpar;Ubisoft staff then and now&rpar;](http://9gag.com/gag/aZZ3PqX)<!-- MEMES:END -->
+ - 💣 [A farmer in Nebraska asking a pro-fracking committee member to honor his word of drinking water from a fracking location](http://9gag.com/gag/aMVj1PX)
+ - ⏩ [C U Next Time](http://9gag.com/gag/aYQgbD2)
+ - 👉 [Simple truth](http://9gag.com/gag/a7oM5dA)<!-- MEMES:END -->
 
 ---
 
