@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Peak Old Days](http://9gag.com/gag/awyXbN1)
- - ⏩ [And act like strangers](http://9gag.com/gag/agmXrq6)
- - 👉 [People who annoy you](http://9gag.com/gag/aqy79QQ)<!-- MEMES:END -->
+ - 💣 [People who annoy you](http://9gag.com/gag/aqy79QQ)
+ - ⏩ [Revenge of the cat ladies! &lpar;Ubisoft staff then and now&rpar;](http://9gag.com/gag/aZZ3PqX)
+ - 👉 [I choose the Bear](http://9gag.com/gag/arygvG5)<!-- MEMES:END -->
 
 ---
 
