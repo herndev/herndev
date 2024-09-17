@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The 12 Best Eye Creams of 2024](https://www.cnet.com/health/personal-care/best-eye-cream/#ftag=CAD590a51e)
- - [Best Family Games for 2024](https://www.cnet.com/culture/entertainment/10-best-family-board-games/#ftag=CAD590a51e)
- - [Find Your State&#39;s Early Voting Info With This Simple Guide](https://www.cnet.com/news/politics/find-your-states-early-voting-info-with-this-simple-guide/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Microsoft: starting in late August, Russian cyber operatives focused on Harris&#39; campaign, with disinfo including videos spread by a site posing as a news outlet &lpar;Sam Sabin/Axios&rpar;](http://www.techmeme.com/240917/p31#a240917p31)
+ - [California Governor Gavin Newsom signs two bills restricting the use of AI replicas of performers, building on protections SAG-AFTRA sought in its 2023 strike &lpar;Katie Kilkenny/The Hollywood Reporter&rpar;](http://www.techmeme.com/240917/p30#a240917p30)
+ - [Spatial photos now available on iPhone 15 Pro with iOS 18.1 developer beta 4](https://appleinsider.com/articles/24/09/17/spatial-photos-now-available-on-iphone-15-pro-with-ios-181-developer-beta-4?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
