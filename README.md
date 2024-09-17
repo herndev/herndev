@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Modders are rejecting FromSoft&#39;s recent Elden Ring: Shadow of the Erdtree nerf by restoring the final boss to his former strength](https://www.pcgamer.com/games/rpg/modders-are-rejecting-fromsofts-recent-elden-ring-shadow-of-the-erdtree-nerf-by-restoring-the-final-boss-to-his-former-strength)
- - [Jason Momoa was &#39;really mad and yelling&#39; on the Minecraft movie set, says Valkyrae: &#39;I just saw him mistreat some of the crew&#39;](https://www.pcgamer.com/movies-tv/jason-momoa-was-really-mad-and-yelling-on-the-minecraft-movie-set-says-valkyrae-i-just-saw-him-mistreat-some-of-the-crew)
- - [Intel announces it will &#39;pause&#39; plans for a manufacturing megafab in Germany due to ongoing money trouble](https://www.pcgamer.com/hardware/processors/intel-announces-it-will-pause-plans-for-a-manufacturing-megafab-in-germany-due-to-ongoing-money-trouble)<!-- GAME:END -->
+ - [Coming Soon to Game Pass: Ara: History Untold, Frostpunk 2, and Wargroove 2](https://news.xbox.com/en-us/2024/09/17/xbox-game-pass-september-2024-wave-2/)
+ - [We Took On The Difficult Task Of Ranking Hayao Miyazaki Movies](https://kotaku.com/hayao-miyazaki-movies-ranked-studio-ghibli-1851649293)
+ - [Zotac Zbox Magnus One review](https://www.pcgamer.com/hardware/gaming-pcs/zotac-zbox-magnus-one-review)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
