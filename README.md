@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Setapp Mobile’s open beta adds more apps for European iPhone users](https://www.theverge.com/2024/9/17/24243950/setapp-mobile-alternative-ios-app-store-eu-open-beta)
- - [A look at Shenzhen-based Transsion, whose Infinix and Tecno command about 50% of Africa&#39;s smartphone market and are finding success in Asia and the Middle East &lpar;Austin Carr/Bloomberg&rpar;](http://www.techmeme.com/240917/p3#a240917p3)
- - [Google Photos rolls out new image-flipping feature](https://www.androidauthority.com/google-photos-flip-images-horizontally-3482288/)<!-- TECH:END -->
+ - [OpenAI confirms fixing an issue &quot;where it appeared as though ChatGPT was starting new conversations&quot;, after users reported ChatGPT reaching out proactively &lpar;Victor Tangermann/Futurism&rpar;](http://www.techmeme.com/240917/p6#a240917p6)
+ - [Time Bandits cancelled by Apple TV+](https://appleinsider.com/articles/24/09/17/time-bandits-cancelled-by-apple-tv?utm_medium=rss)
+ - [Company behind Apple Watch ban just made Wear OS watches much easier to build](https://www.androidauthority.com/google-qualcomm-masimo-wear-os-smartwatch-reference-platform-3482297/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
