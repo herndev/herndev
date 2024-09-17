@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Helldivers 2 devs took fan outcry to heart and made the new Napalm Barrage an absolute monstrosity](https://www.pcgamer.com/games/third-person-shooter/helldivers-2-devs-took-fan-outcry-to-heart-and-made-the-new-napalm-barrage-an-absolute-monstrosity)
- - [Project Borealis, the fan-made effort to bring Half-Life 2 Episode 3 to life, returns after years of silence with a new &#39;Prologue&#39; teaser](https://www.pcgamer.com/games/fps/project-borealis-the-fan-made-effort-to-bring-half-life-2-episode-3-to-life-returns-after-years-of-silence-with-a-new-prologue-teaser)
- - [Baldur&#39;s Gate 3 modders are already using its jailbroken level editor to make the game&#39;s first custom maps, including a proof-of-concept level in Hell](https://www.pcgamer.com/games/baldurs-gate/baldur-s-gate-3-modders-are-already-using-its-jailbroken-level-editor-to-make-the-game-s-first-custom-maps-including-a-proof-of-concept-level-in-hell)<!-- GAME:END -->
+ - [There are weird games, and then there&#39;s Judero: a delectably Scottish adventure made out of action figures and Harryhausenesque claymation where you fight faeries, lizards, and Englishmen](https://www.pcgamer.com/games/action/there-are-weird-games-and-then-there-s-judero-a-delectably-scottish-adventure-made-out-of-action-figures-and-harryhausenesque-claymation-where-you-fight-faeries-lizards-and-englishmen)
+ - [Unknown 9: Awakening feels like a AA videogame from the late 2000s, and so far that isn&#39;t a bad thing](https://www.pcgamer.com/games/action/unknown-9-awakening-feels-like-a-aa-videogame-from-the-late-2000s-and-so-far-that-isnt-a-bad-thing)
+ - [Helldivers 2 devs took fan outcry to heart and made the new Napalm Barrage an absolute monstrosity](https://www.pcgamer.com/games/third-person-shooter/helldivers-2-devs-took-fan-outcry-to-heart-and-made-the-new-napalm-barrage-an-absolute-monstrosity)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
