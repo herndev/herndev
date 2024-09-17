@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Coming Soon to Game Pass: Ara: History Untold, Frostpunk 2, and Wargroove 2](https://news.xbox.com/en-us/2024/09/17/xbox-game-pass-september-2024-wave-2/)
- - [We Took On The Difficult Task Of Ranking Hayao Miyazaki Movies](https://kotaku.com/hayao-miyazaki-movies-ranked-studio-ghibli-1851649293)
- - [Zotac Zbox Magnus One review](https://www.pcgamer.com/hardware/gaming-pcs/zotac-zbox-magnus-one-review)<!-- GAME:END -->
+ - [Rubik’s Cube inventor collaborated on new Rubik’s Match mobile game](https://www.polygon.com/news/452176/rubiks-cube-match-3-mobile-game-reveal)
+ - [The new D&amp;#038;D Player’s Handbook is a treasure, and we may never see its equal again](https://www.polygon.com/dnd-dungeons-dragons/451969/new-players-handbook-review-2024)
+ - [Everything You Need To Know About Diablo 4&#39;s Infernal Hordes](https://kotaku.com/diablo-4-infernal-hordes-guide-1851649824)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
