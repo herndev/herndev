@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [We did our part not watching it.](http://9gag.com/gag/aAyxY8d)
- - ⏩ [Chin](http://9gag.com/gag/aByx3Nz)
- - 👉 [9gagger checking to see if the company in their house left yet.](http://9gag.com/gag/axy1dzW)<!-- MEMES:END -->
+ - 💣 [A dolphin amongst Sharks](http://9gag.com/gag/a6ZodyR)
+ - ⏩ [I was afraid of nothing, until i saw this picture](http://9gag.com/gag/aRB3A6j)
+ - 👉 [This Screwdriver that looks like a Revolver](http://9gag.com/gag/avyOP1n)<!-- MEMES:END -->
 
 ---
 
