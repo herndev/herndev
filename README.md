@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Ah yes](http://9gag.com/gag/ae9MNxQ)
- - ⏩ [Peak Old Days](http://9gag.com/gag/awyXbN1)
- - 👉 [Wonder Woman replacement](http://9gag.com/gag/azxXbGm)<!-- MEMES:END -->
+ - 💣 [Railway bridge in Poland- every day vs last Sunday](http://9gag.com/gag/amo7Xxo)
+ - ⏩ [A farmer in Nebraska asking a pro-fracking committee member to honor his word of drinking water from a fracking location](http://9gag.com/gag/aMVj1PX)
+ - 👉 [C U Next Time](http://9gag.com/gag/aYQgbD2)<!-- MEMES:END -->
 
 ---
 
