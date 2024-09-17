@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Rubik’s Cube inventor collaborated on new Rubik’s Match mobile game](https://www.polygon.com/news/452176/rubiks-cube-match-3-mobile-game-reveal)
- - [The new D&amp;#038;D Player’s Handbook is a treasure, and we may never see its equal again](https://www.polygon.com/dnd-dungeons-dragons/451969/new-players-handbook-review-2024)
- - [Everything You Need To Know About Diablo 4&#39;s Infernal Hordes](https://kotaku.com/diablo-4-infernal-hordes-guide-1851649824)<!-- GAME:END -->
+ - [Una Fuerza Hermoza: Xbox Celebrates the Diverse Voices of Hispanic Creators](https://news.xbox.com/en-us/2024/09/17/xbox-hispanic-heritage-month-2024/)
+ - [How To Farm Infernal Compasses In Diablo 4, And Take On The Infernal Hordes](https://kotaku.com/diablo-4-infernal-compass-hordes-guide-1851649799)
+ - [RedMagic Titan 16 Pro review](https://www.pcgamer.com/hardware/gaming-laptops/redmagic-titan-16-pro-review)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
