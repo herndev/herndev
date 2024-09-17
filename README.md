@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Burden of Command is a WW2 wargame that saddles you with anxiety about each soldier&#39;s life](https://www.pcgamer.com/games/strategy/burden-of-command-is-a-ww2-wargame-that-saddles-you-with-anxiety-about-each-soldiers-life)
- - [The Sims 5 is doing invite-only multiplayer testing this fall](https://www.pcgamer.com/games/the-sims/the-sims-5-is-doing-invite-only-multiplayer-testing-this-fall)
- - [Another Rockstar Launcher leak points to Grand Theft Auto 6 and Red Dead Redemption coming to PC](https://www.pcgamer.com/games/action/another-rockstar-launcher-leak-points-to-grand-theft-auto-6-and-red-dead-redemption-coming-to-pc)<!-- GAME:END -->
+ - [Blizzard reveals new Diablo 4: Vessel of Hatred story details — It&#39;s more than just disgusting body horror](https://www.pcgamer.com/games/rpg/diablo-4-vessel-of-hatred-reveals-new-campaign-details-it-s-more-than-just-disgusting-body-horror)
+ - [&#39;The game is absolutely not dying&#39;: XDefiant boss rejects claims that Ubisoft&#39;s shooter is struggling to find players](https://www.pcgamer.com/games/fps/the-game-is-absolutely-not-dying-xdefiant-boss-rejects-claims-that-ubisofts-shooter-is-struggling-to-find-players)
+ - [How to get cores in Frostpunk 2](https://www.pcgamer.com/frostpunk-2-cores)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
