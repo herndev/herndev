@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [War Game: The Making of S.T.A.L.K.E.R. 2 – Available October 3](https://variety.com/2024/gaming/news/stalker-2-ukraine-war-developers-doc-xbox-1236146958/#new_tab)
- - [A Big Moment In Digimon History Is Coming To Blu-Ray, And It’s Up For Pre-Order](https://kotaku.com/digimon-the-movies-english-dub-pre-order-blu-ray-1851650353)
- - [7 Cheap Open-World Games To Pick Up And Explore From Xbox’s Sale](https://kotaku.com/open-world-sale-xbox-red-dead-redemption-2-cyberpunk-1851650320)<!-- GAME:END -->
+ - [Co-op Fun Awaits– the Chaotic Welcome to Empyreum Arrives on September 20!](https://news.xbox.com/en-us/2024/09/17/welcome-to-empyreum-arrives-september-20/)
+ - [GTA Online finally gets BattlEye anti-cheat, and some fans think it&#39;s a sign of bigger things to come](https://www.pcgamer.com/games/action/gta-online-finally-gets-battleye-anti-cheat-and-some-fans-think-its-a-sign-of-bigger-things-to-come)
+ - [EA&#39;s Skate Reboot Will Launch In Early Access Next Year](https://kotaku.com/ea-skate-4-reboot-release-date-early-access-2025-pc-ps5-1851650367)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
