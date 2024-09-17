@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Intel announces it will &#39;pause&#39; plans for a manufacturing megafab in Germany due to ongoing money trouble](https://www.pcgamer.com/hardware/processors/intel-announces-it-will-pause-plans-for-a-manufacturing-megafab-in-germany-due-to-ongoing-money-trouble)
- - [Frostpunk 2 early access times and global release date](https://www.pcgamer.com/games/city-builder/frostpunk-2-early-access-release-times)
- - [&lpar;For Singapore&rpar; Welcome PlayStation 5 Pro, the most visually impressive way to play games on PlayStation](https://blog.playstation.com/2024/09/16/20240917-ps5pro/)<!-- GAME:END -->
+ - [Modders are rejecting FromSoft&#39;s recent Elden Ring: Shadow of the Erdtree nerf by restoring the final boss to his former strength](https://www.pcgamer.com/games/rpg/modders-are-rejecting-fromsofts-recent-elden-ring-shadow-of-the-erdtree-nerf-by-restoring-the-final-boss-to-his-former-strength)
+ - [Jason Momoa was &#39;really mad and yelling&#39; on the Minecraft movie set, says Valkyrae: &#39;I just saw him mistreat some of the crew&#39;](https://www.pcgamer.com/movies-tv/jason-momoa-was-really-mad-and-yelling-on-the-minecraft-movie-set-says-valkyrae-i-just-saw-him-mistreat-some-of-the-crew)
+ - [Intel announces it will &#39;pause&#39; plans for a manufacturing megafab in Germany due to ongoing money trouble](https://www.pcgamer.com/hardware/processors/intel-announces-it-will-pause-plans-for-a-manufacturing-megafab-in-germany-due-to-ongoing-money-trouble)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
