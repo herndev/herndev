@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [People who annoy you](http://9gag.com/gag/aqy79QQ)
- - ⏩ [Revenge of the cat ladies! &lpar;Ubisoft staff then and now&rpar;](http://9gag.com/gag/aZZ3PqX)
- - 👉 [I choose the Bear](http://9gag.com/gag/arygvG5)<!-- MEMES:END -->
+ - 💣 [A short woman, with authority, without headscarf, puts him in place and tells him what to do. This will haunt him for life.](http://9gag.com/gag/aD2x0O9)
+ - ⏩ [Who not?](http://9gag.com/gag/aByxRyO)
+ - 👉 [Revenge of the cat ladies! &lpar;Ubisoft staff then and now&rpar;](http://9gag.com/gag/aZZ3PqX)<!-- MEMES:END -->
 
 ---
 
