@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [New GTA Online Update Breaks Steam Deck Support](https://kotaku.com/gta-online-update-steam-deck-gta-6-rdr-pc-port-leak-ps5-1851650625)
- - [Overwatch 2 Celebrates World Of Warcraft With New Crossover Event](https://kotaku.com/overwatch-2-world-of-warcraft-event-skins-widowmaker-1851650621)
- - [The End is the bleakest Hollywood musical ever made](https://www.polygon.com/review/452540/the-end-is-the-bleakest-hollywood-musical-ever-made)<!-- GAME:END -->
+ - [Burden of Command is a WW2 wargame that saddles you with anxiety about each soldier&#39;s life](https://www.pcgamer.com/games/strategy/burden-of-command-is-a-ww2-wargame-that-saddles-you-with-anxiety-about-each-soldiers-life)
+ - [The Sims 5 is doing invite-only multiplayer testing this fall](https://www.pcgamer.com/games/the-sims/the-sims-5-is-doing-invite-only-multiplayer-testing-this-fall)
+ - [Another Rockstar Launcher leak points to Grand Theft Auto 6 and Red Dead Redemption coming to PC](https://www.pcgamer.com/games/action/another-rockstar-launcher-leak-points-to-grand-theft-auto-6-and-red-dead-redemption-coming-to-pc)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
