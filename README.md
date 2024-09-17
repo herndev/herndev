@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple iPhone 17 rumors: Everything we know so far and what we want to see](https://www.androidauthority.com/apple-iphone-17-3453759/)
- - [Wintermute partners with Chaos Labs to launch a crypto-based betting site focused on the US presidential election; Polymarket has ~$1B in wagers on that contest &lpar;Muyao Shen/Bloomberg&rpar;](http://www.techmeme.com/240917/p15#a240917p15)
- - [Uber is now asking riders to get verified as a safety measure for drivers](https://www.theverge.com/2024/9/17/24246397/uber-rider-verification-fraud-driver-safety)<!-- TECH:END -->
+ - [Uber says it plans to start checking US passengers&#39; account info against third-party ID verification databases; drivers will be able to see a user&#39;s blue badge &lpar;Curtis Heinzl/Bloomberg&rpar;](http://www.techmeme.com/240917/p16#a240917p16)
+ - [How to use macOS Terminal and what it’s useful for](https://www.theverge.com/24246585/macos-apple-terminal-how-to)
+ - [Amazon is producing The Sims movie](https://www.theverge.com/2024/9/17/24247232/the-sims-movie-amazon-luckychap-kate-heron-briony-redman)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
