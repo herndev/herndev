@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Scooter ft New Kids](http://9gag.com/gag/a6Zo7Em)
- - ⏩ [Almost 3000 wound\u00e8d Hezbollah terr\u00f6rists till now from the dedliest cyber attack that has been launched in human history.](http://9gag.com/gag/a2vommd)
- - 👉 [9gaggers... its 2012..](http://9gag.com/gag/aD2xod7)<!-- MEMES:END -->
+ - 💣 [A dolphin amongst Sharks](http://9gag.com/gag/a6ZodyR)
+ - ⏩ [9gaggers... its 2012..](http://9gag.com/gag/aD2xod7)
+ - 👉 [Iranian Ambassador reported to be holding a Hezbollab beeper](http://9gag.com/gag/a0eKpZL)<!-- MEMES:END -->
 
 ---
 
