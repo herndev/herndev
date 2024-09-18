@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Internet Providers in Missouri](https://www.cnet.com/home/internet/best-internet-providers-in-missouri/#ftag=CAD590a51e)
- - [&#39;The Golden Bachelorette&#39;: How to Watch the New Reality Dating Spinoff](https://www.cnet.com/tech/services-and-software/the-golden-bachelorette-how-to-watch-the-new-reality-dating-spinoff/#ftag=CAD590a51e)
- - [Groceries or Meal Kits: Which Is More Expensive In 2024? I Did the Math](https://www.cnet.com/health/nutrition/groceries-or-meal-kits-which-is-more-expensive-in-2024-we-did-the-math/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [California Gov. Gavin Newsom says he is concerned about the potential &quot;chilling effect&quot; of AI safety bill SB 1047, which awaits his signature, on AI development &lpar;Brody Ford/Bloomberg&rpar;](http://www.techmeme.com/240917/p36#a240917p36)
+ - [iOS 18.1 developer beta 4: Context-based suggestions for Siri, and more](https://appleinsider.com/articles/24/09/17/ios-181-developer-beta-4-context-based-suggestions-for-siri-and-more?utm_medium=rss)
+ - [The GSM Association plans to enable E2EE on messages between Android and iOS; Google is working to bring cross-platform E2EE to RCS chats &quot;as soon as possible&quot; &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/240917/p35#a240917p35)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
