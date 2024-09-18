@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [9gaggers... its 2012..](http://9gag.com/gag/aD2xod7)
- - ⏩ [When you realize you&#39;re going to prison for the rest of your life.](http://9gag.com/gag/aRB3ezB)
- - 👉 [Chin](http://9gag.com/gag/aByx3Nz)<!-- MEMES:END -->
+ - 💣 [Cargasm](http://9gag.com/gag/a2vo5AO)
+ - ⏩ [This is also why there are literally no homicides in UAE](http://9gag.com/gag/aMVjQEM)
+ - 👉 [This may be the funniest special op in the history of special ops, maybe ever.](http://9gag.com/gag/aXPx9mv)<!-- MEMES:END -->
 
 ---
 
