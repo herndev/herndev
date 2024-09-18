@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [&lpar;\u2060\u256f\u2060\u00b0\u2060\u25a1\u2060\u00b0\u2060\uff09\u2060\u256f](http://9gag.com/gag/aE0x1pn)
- - ⏩ [Chin](http://9gag.com/gag/aByx3Nz)
- - 👉 [The FBI visited this man yesterday for free speech acts they knew were not crimes. Take notes Europe. This is how Americans deal with fascist authorities.](http://9gag.com/gag/ayNX0yb)<!-- MEMES:END -->
+ - 💣 [9gaggers... its 2012..](http://9gag.com/gag/aD2xod7)
+ - ⏩ [This may be the funniest special op in the history of special ops, maybe ever.](http://9gag.com/gag/aXPx9mv)
+ - 👉 [Something about fishermen running out of nets or something, I don&#39;t know](http://9gag.com/gag/apR2o6W)<!-- MEMES:END -->
 
 ---
 
