@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I was afraid of nothing, until i saw this picture](http://9gag.com/gag/aRB3A6j)
- - ⏩ [They&#39;ve been ice-skating partners for over 20 years](http://9gag.com/gag/arygerp)
- - 👉 [Meet FAFO jr](http://9gag.com/gag/ae9M0mj)<!-- MEMES:END -->
+ - 💣 [Oh deer](http://9gag.com/gag/a7oMZ9e)
+ - ⏩ [Chin](http://9gag.com/gag/aByx3Nz)
+ - 👉 [&lpar;\u2060\u256f\u2060\u00b0\u2060\u25a1\u2060\u00b0\u2060\uff09\u2060\u256f](http://9gag.com/gag/aE0x1pn)<!-- MEMES:END -->
 
 ---
 
