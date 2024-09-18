@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Castlevania Dominus Collection: How Konami Recreated DS and Arcade Games for Xbox](https://news.xbox.com/en-us/2024/09/18/castlevania-dominus-collection-interview/)
- - [Why A Space Marine 2 Exec&#39;s YouTube Comment Became A Lightning Rod](https://kotaku.com/space-marine-2-saber-ceo-asmongold-youtube-comment-1851650858)
- - [&#39;I had no idea what had happened&#39;: Final Fantasy 16&#39;s Ben Starr on becoming a meme, playing angsty roles, and which series summon he&#39;d take on a date](https://www.pcgamer.com/games/rpg/i-had-no-idea-what-had-happened-final-fantasy-16s-ben-starr-on-becoming-a-meme-playing-angsty-roles-and-which-series-summon-hed-take-on-a-date)<!-- GAME:END -->
+ - [The Steam Deck&#39;s rare but troublesome &#39;loading throbber&#39; issue has been fixed](https://www.pcgamer.com/hardware/handheld-gaming-pcs/the-steam-decks-rare-but-troublesome-loading-throbber-issue-has-been-fixed)
+ - [Enotria: The Last Song review](https://www.pcgamer.com/games/action/enotria-review)
+ - [MSI outs &#39;world&#39;s first&#39; ATX 3.1-ready mobos with extra PCIe juice for power-crazed next-gen GPUs](https://www.pcgamer.com/hardware/motherboards/msi-outs-worlds-first-atx-31-ready-mobos-with-extra-pcie-juice-for-power-crazed-next-gen-gpus)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
