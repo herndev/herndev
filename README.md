@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [As long both teams have fun](http://9gag.com/gag/aByxwNQ)
- - ⏩ [Life Memes #2](http://9gag.com/gag/adBKXbj)
- - 👉 [The laughter did more emotional damage than what the cop did physically.](http://9gag.com/gag/arygOVV)<!-- MEMES:END -->
+ - 💣 [Oh deer](http://9gag.com/gag/a7oMZ9e)
+ - ⏩ [Video of the Titan imploded sub now released](http://9gag.com/gag/azxXAMN)
+ - 👉 [&lpar;\u2060\u256f\u2060\u00b0\u2060\u25a1\u2060\u00b0\u2060\uff09\u2060\u256f](http://9gag.com/gag/aE0x1pn)<!-- MEMES:END -->
 
 ---
 
