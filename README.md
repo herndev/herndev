@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Steam Deck&#39;s rare but troublesome &#39;loading throbber&#39; issue has been fixed](https://www.pcgamer.com/hardware/handheld-gaming-pcs/the-steam-decks-rare-but-troublesome-loading-throbber-issue-has-been-fixed)
- - [Enotria: The Last Song review](https://www.pcgamer.com/games/action/enotria-review)
- - [MSI outs &#39;world&#39;s first&#39; ATX 3.1-ready mobos with extra PCIe juice for power-crazed next-gen GPUs](https://www.pcgamer.com/hardware/motherboards/msi-outs-worlds-first-atx-31-ready-mobos-with-extra-pcie-juice-for-power-crazed-next-gen-gpus)<!-- GAME:END -->
+ - [How The Elder Scrolls: Castles Builds on Fallout Shelter to Create a Fascinatingly Authentic Elder Scrolls Spin-Off](https://news.xbox.com/en-us/2024/09/18/elder-scrolls-castles-interview/)
+ - [One Piece season 2’s behind the scenes trailer is mysterious but still looks great](https://www.polygon.com/entertainment/452889/one-piece-season-2-netflix-live-action-trailer-teaser-bts)
+ - [Get The First Frostpunk For Cheap Ahead of Its Sequel](https://kotaku.com/frostpunk-steam-sale-survival-city-builder-sequel-1851651387)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
