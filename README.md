@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Avatar fans should check out Aang’s Destiny, the new deck-building game](https://www.polygon.com/deals/453077/avatar-last-airbender-aangs-destiny-tabletop-board-deck-game-buy)
- - [Grab 2024’s Most Ridiculous RPG While It’s On Sale](https://kotaku.com/like-a-dragon-infinite-wealth-sale-playstation-steam-1851651944)
- - [In a rare triumph for videogame discourse, God of War Ragnarok will have a setting to reduce puzzle hints on PC](https://www.pcgamer.com/games/action/in-a-rare-triumph-for-videogame-discourse-god-of-war-ragnarok-will-have-a-setting-to-reduce-puzzle-hints-on-pc)<!-- GAME:END -->
+ - [Space Marine 2 devs will adjust Veteran difficulty to make it &#39;slightly more fair,&#39; but they really don&#39;t want to do an FOV slider—and you can just forget about shoulder swapping](https://www.pcgamer.com/games/third-person-shooter/space-marine-2-devs-will-adjust-veteran-difficult-to-make-it-slightly-more-fair-but-they-really-dont-want-to-do-an-fov-sliderand-you-can-just-forget-about-shoulder-swapping)
+ - [Wizard Class build guide for Dungeons &amp;#038; Dragons 5e 2024](https://www.polygon.com/dungeons-and-dragons-dnd-guide/452996/wizard-class-build-guide)
+ - [Cleric Class build guide for Dungeons &amp;#038; Dragons 5e 2024](https://www.polygon.com/dungeons-and-dragons-dnd-guide/452995/cleric-class-build-guide)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
