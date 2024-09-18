@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Intelligence will come to more languages over the next year](https://www.theverge.com/2024/9/18/24247839/apple-intelligence-language-support-german-italian)
- - [Apple iPhone 16 Pro review: small camera update, big difference](https://www.theverge.com/24247538/apple-iphone-16-pro-review)
- - [Apple iPhone 16 and 16 Plus review: all caught up](https://www.theverge.com/24247479/apple-iphone-16-plus-review-camera-control-screen-battery)<!-- TECH:END -->
+ - [iPhone 16 Pro review roundup: Incremental improvements, until Apple Intelligence](https://appleinsider.com/articles/24/09/18/iphone-16-pro-review-roundup-incremental-improvements-until-apple-intelligence?utm_medium=rss)
+ - [TechInsights: China&#39;s YMTC upgraded its &quot;Xtacking&quot; tech, which stacks memory cells in layers, to rival NAND industry leaders, but significant challenges remain &lpar;Debby Wu/Bloomberg&rpar;](http://www.techmeme.com/240918/p27#a240918p27)
+ - [Bose’s latest ANC earbuds offer premium features at a reasonable price](https://www.androidauthority.com/bose-quietcomfort-earbuds-3482693/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
