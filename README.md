@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Overwatch 2: Creating Sound for Support Hero Juno That is Out of this World](https://news.xbox.com/en-us/2024/09/18/overwatch-2-juno-sound-design/)
- - [Ubisoft&#39;s Call Of Duty-Like FPS Is &#39;Not Dying&#39; And Is &#39;Doing Well,&#39; Says Producer](https://kotaku.com/xdefiant-call-of-duty-fps-ubisoft-dying-rubin-road-map-1851651645)
- - [Dan Da Dan’s creators were just as worried about doing the manga justice as you were](https://www.polygon.com/anime/452633/dan-da-dan-adaptation-interview-manga-style-approach)<!-- GAME:END -->
+ - [How a Twitch streamer helped bring NASA to the livestreaming community](https://www.polygon.com/twitch/452754/science-streamer-moohoodles-interview-nasa-twitchcon)
+ - [Square Enix confirms lower-than-expected Final Fantasy 7 Rebirth and Final Fantasy 16 sales in newly public financial report: &#39;Profits unfortunately did not meet our expectations&#39;](https://www.pcgamer.com/gaming-industry/square-enix-confirms-lower-than-expected-final-fantasy-7-rebirth-and-final-fantasy-16-sales-in-newly-public-financial-report-profits-unfortunately-did-not-meet-our-expectations)
+ - [With a Star Wars Jedi threequel coming, does this mean Cal Kestis… must die?](https://www.polygon.com/star-wars/453056/with-a-star-wars-jedi-threequel-coming-does-this-mean-cal-kestis-must-die)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
