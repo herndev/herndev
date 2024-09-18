@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [HTC&#39;s next VR headset is a little less Meta Quest and a little more Apple Vision Pro in its bid to be the everything device](https://www.pcgamer.com/hardware/vr-hardware/htcs-next-vr-headset-is-a-little-less-meta-quest-and-a-little-more-apple-vision-pro-in-its-bid-to-be-the-everything-device)
- - [Games industry hurtles further into self-parody as ESRB leaks existence of a Horizon Zero Dawn Remaster](https://www.pcgamer.com/games/action/games-industry-hurtles-further-into-self-parody-as-esrb-leaks-existence-of-a-horizon-zero-dawn-remaster)
- - [PC gaming made me a better drummer than I had any right to be—all thanks to an electronic kit and open source software](https://www.pcgamer.com/hardware/pc-gaming-made-me-a-better-drummer-than-i-had-any-right-to-beall-thanks-to-an-electronic-kit-and-open-source-software)<!-- GAME:END -->
+ - [UFO 50 was terrible to review but incredible to play](https://www.polygon.com/review/452079/ufo-50-review-pc)
+ - [AI-generated lighting from Lepro should be setting the mood for your gaming sessions](https://www.pcgamer.com/hardware/lighting/ai-generated-lighting-from-lepro-should-be-setting-the-mood-for-your-gaming-sessions)
+ - [EA says it&#39;s going to use AI to fix The Sims 4&#39;s really annoying user content gallery](https://www.pcgamer.com/games/the-sims/ea-says-its-going-to-use-ai-to-fix-the-sims-4s-really-annoying-user-content-gallery)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
