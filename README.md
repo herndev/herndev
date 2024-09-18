@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [YouTube is adding ‘seasons’ to make your favorite channel more like Netflix](https://www.theverge.com/2024/9/18/24248206/youtube-season-episode-format-organizing-tv-netflix-binge)
- - [The FBI says it disrupted a botnet of &quot;hundreds of thousands&quot; of IoT devices worldwide last week, run by the China-linked hacking group Flax Typhoon &lpar;Joe Warminsky/The Record&rpar;](http://www.techmeme.com/240918/p38#a240918p38)
- - [Take these leaked Nintendo Switch 2 images with a grain of salt](https://www.androidauthority.com/nintendo-switch-2-alleged-design-3482774/)<!-- TECH:END -->
+ - [YouTube auto-dubbing will let you watch global content with realistic voice and tone matching](https://www.androidauthority.com/youtube-autodubbing-expands-3482855/)
+ - [Amazon&#39;s Fall Prime Day starts October 8, but Apple deals from $24 are live right now](https://appleinsider.com/articles/24/09/18/amazons-fall-prime-day-starts-october-8-but-apple-deals-from-24-are-live-right-now?utm_medium=rss)
+ - [Apple is &lpar;momentarily&rpar; no longer the second-biggest smartphone maker](https://www.androidauthority.com/xiaomi-apple-market-3482815/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
