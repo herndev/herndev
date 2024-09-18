@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Chin](http://9gag.com/gag/aByx3Nz)
- - ⏩ [&lpar;\u2060\u256f\u2060\u00b0\u2060\u25a1\u2060\u00b0\u2060\uff09\u2060\u256f](http://9gag.com/gag/aE0x1pn)
- - 👉 [This is also why there are literally no homicides in UAE](http://9gag.com/gag/aMVjQEM)<!-- MEMES:END -->
+ - 💣 [Video of the Titan imploded sub now released](http://9gag.com/gag/azxXAMN)
+ - ⏩ [This is also why there are literally no homicides in UAE](http://9gag.com/gag/aMVjQEM)
+ - 👉 [Rapist is let of after having his sister raped.](http://9gag.com/gag/axy1jKY)<!-- MEMES:END -->
 
 ---
 
