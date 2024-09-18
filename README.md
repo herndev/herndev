@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [With visionOS 2, Apple’s Vision Pro comes into focus](https://www.theverge.com/2024/9/18/24246461/apple-visionos-2-vision-pro-impressions-features-virtual-reality)
- - [YouTube adds an Inspiration tab in the YouTube Studio app for creators to use AI to generate video concepts, create titles and thumbnails, and write videos &lpar;David Pierce/The Verge&rpar;](http://www.techmeme.com/240918/p33#a240918p33)
- - [EU advocacy group sues Apple because other streaming music services hiked prices](https://appleinsider.com/articles/24/09/18/eu-advocacy-group-sues-apple-because-other-streaming-music-services-hiked-prices?utm_medium=rss)<!-- TECH:END -->
+ - [Substack now lets creators with its Bestsellers badges start live videos within its app, and plans to roll out the feature to all users in the coming months &lpar;Anna Washenko/Engadget&rpar;](http://www.techmeme.com/240918/p35#a240918p35)
+ - [OnePlus is taking $100 off its Pad 2 tablet with a free pair of Buds 3 earbuds](https://www.theverge.com/good-deals/2024/9/18/24247983/oneplus-pad-2-buds-3-android-tablet-echo-show-deal-sale)
+ - [NBA Twitter newsbreaker Adrian Wojnarowski is retiring](https://www.theverge.com/2024/9/18/24248090/adrian-wojnarowski-retirement-nba-twitter)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
