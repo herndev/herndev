@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Get a pair of Pokémon Squishmallows for their lowest price ever](https://www.polygon.com/good-deals/452793/pokemon-squishmallows-best-buy-sale)
- - [Is This What The New Switch 2 Looks Like?](https://kotaku.com/switch-2-specs-leaks-nintendo-screen-release-date-price-1851651185)
- - [Intel&#39;s next-gen Arrow Lake CPUs could support up to 10,000 MT/s DDR5 CUDIMM RAM, but that&#39;ll be using the Gear 2 setting which is pretty rubbish for gaming](https://www.pcgamer.com/hardware/processors/intels-next-gen-arrow-lake-cpus-could-support-up-to-10000-mts-ddr5-cudimm-ram-but-thatll-be-using-the-gear-2-setting-which-is-pretty-rubbish-for-gaming)<!-- GAME:END -->
+ - [Overwatch 2: Creating Sound for Support Hero Juno That is Out of this World](https://news.xbox.com/en-us/2024/09/18/overwatch-2-juno-sound-design/)
+ - [Ubisoft&#39;s Call Of Duty-Like FPS Is &#39;Not Dying&#39; And Is &#39;Doing Well,&#39; Says Producer](https://kotaku.com/xdefiant-call-of-duty-fps-ubisoft-dying-rubin-road-map-1851651645)
+ - [Dan Da Dan’s creators were just as worried about doing the manga justice as you were](https://www.polygon.com/anime/452633/dan-da-dan-adaptation-interview-manga-style-approach)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
