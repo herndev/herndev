@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [If they installed one of these, would you return to the office](http://9gag.com/gag/aO8rVPv)
- - ⏩ [A dolphin amongst Sharks](http://9gag.com/gag/a6ZodyR)
+ - 💣 [Scooter ft New Kids](http://9gag.com/gag/a6Zo7Em)
+ - ⏩ [Almost 3000 wound\u00e8d Hezbollah terr\u00f6rists till now from the dedliest cyber attack that has been launched in human history.](http://9gag.com/gag/a2vommd)
  - 👉 [9gaggers... its 2012..](http://9gag.com/gag/aD2xod7)<!-- MEMES:END -->
 
 ---
