@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [NYC-based GreenLite, which aims to standardize the construction permitting process across multiple jurisdictions, raised a $28.5M Series A led by Craft Ventures &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240917/p39#a240917p39)
- - [Sources: the US is urging Vietnam to avoid cable-laying firm HMN Technologies and other Chinese companies in Vietnam&#39;s plans for 10 new subsea cables by 2030 &lpar;Reuters&rpar;](http://www.techmeme.com/240917/p38#a240917p38)
- - [Average Electricity Bill in New Jersey &lpar;and How to Save&rpar;](https://www.cnet.com/how-to/average-electricity-bill-in-new-jersey-and-how-to-save/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [How to use UTM to run almost any version of macOS -- even very old ones](https://appleinsider.com/inside/macos/tips/how-to-use-utm-to-run-almost-any-version-of-macos----even-very-old-ones?utm_medium=rss)
+ - [Exploding pagers kill nine and injure thousands in an attack on Hezbollah](https://www.theverge.com/2024/9/17/24247200/exploding-pager-attack-hezbollah-lebanon-syria)
+ - [Today&#39;s NYT Connections Hints, Answers and Help for Sept. 18, #465](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-sept-18-465/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
