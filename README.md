@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Can Wobbuffet be shiny in Pokémon Go?](https://www.polygon.com/pokemon-go-guide/447836/can-wobbuffet-be-shiny-wynaut)
  - [Tiny Glade review](https://www.pcgamer.com/games/city-builder/tiny-glade-review)
- - [Today&#39;s Wordle answer for Wednesday, September 18](https://www.pcgamer.com/games/puzzle/wordle-answer-today-September-18-2024)
- - [Bong Joon-ho kills off so many Robert Pattinson clones in the Mickey 17 trailer](https://www.polygon.com/movies/452316/mickey-17-trailer-release-date-robert-pattinson-bong-joon-ho)<!-- GAME:END -->
+ - [Today&#39;s Wordle answer for Wednesday, September 18](https://www.pcgamer.com/games/puzzle/wordle-answer-today-September-18-2024)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
