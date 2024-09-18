@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Blizzard has apparently decided the best way to combat the Hearthstone-is-dying narrative is by releasing a $60 Ragnaros hero skin](https://www.pcgamer.com/games/card-games/blizzard-has-apparently-decided-the-best-way-to-combat-the-hearthstone-is-dying-narrative-is-by-releasing-a-dollar60-ragnaros-hero-skin)
- - [There won&#39;t actually be a Sims 5 because EA is going to &#39;disrupt the sequel model&#39; by shoving The Sims 4, Project Rene, and two other games into one &#39;massive Sims platform&#39;](https://www.pcgamer.com/games/the-sims/there-wont-actually-be-a-sims-5-because-ea-is-going-to-disrupt-the-sequel-model-by-shoving-the-sims-4-project-rene-and-two-other-games-into-one-massive-sims-platform)
- - [The next Battlefield game has been in &#39;nearly daily&#39; playtesting for &#39;well over a year,&#39; and a large-scale community test is planned for early 2025](https://www.pcgamer.com/games/fps/the-next-battlefield-game-has-been-in-nearly-daily-playtesting-for-well-over-a-year-and-a-large-scale-community-test-is-planned-for-early-2025)<!-- GAME:END -->
+ - [Arrowhead creative director agrees Helldivers 2 needs a harder difficulty mode after the &#39;buff everything&#39; patch](https://www.pcgamer.com/games/third-person-shooter/arrowhead-creative-director-agrees-helldivers-2-needs-a-harder-difficulty-mode-after-the-buff-everything-patch)
+ - [For the first time in 20 years, World of Warcraft will let solo players fight its hardest boss in a new &#39;Story Mode&#39; raid difficulty](https://www.pcgamer.com/games/world-of-warcraft/for-the-first-time-in-20-years-world-of-warcraft-will-let-solo-players-fight-its-hardest-boss-in-a-new-story-mode-raid-difficulty)
+ - [Blizzard has apparently decided the best way to combat the Hearthstone-is-dying narrative is by releasing a $60 Ragnaros hero skin](https://www.pcgamer.com/games/card-games/blizzard-has-apparently-decided-the-best-way-to-combat-the-hearthstone-is-dying-narrative-is-by-releasing-a-dollar60-ragnaros-hero-skin)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
