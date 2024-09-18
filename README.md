@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A planned UK data center project in Abbots Langley, seen as a test for the new Labour government&#39;s data center push, stokes tensions among the local community &lpar;Financial Times&rpar;](http://www.techmeme.com/240918/p16#a240918p16)
- - [Starling Bank survey of over 3,000 UK adults: 28% say they were targeted by an AI voice cloning scam in the past year; 46% didn&#39;t even know about such scams &lpar;Jen Mills/Metro.co.uk&rpar;](http://www.techmeme.com/240918/p15#a240918p15)
- - [The EU&#39;s General Court backs Google&#39;s challenge against the EU&#39;s &amp;euro;1.49B antitrust fine, imposed in 2019 for hindering rivals in online search ads &lpar;Foo Yun Chee/Reuters&rpar;](http://www.techmeme.com/240918/p14#a240918p14)<!-- TECH:END -->
+ - [A look at the &quot;Shein village&quot; supply chain in Panyu, China, as Temu apes its tactics; sources say Beijing is unhappy with Shein&#39;s move to &quot;de-Chinafy&quot; itself &lpar;Financial Times&rpar;](http://www.techmeme.com/240918/p17#a240918p17)
+ - [You can now shoot spatial photos with your iPhone, but there’s a catch](https://www.androidauthority.com/ios-18-1-beta-4-spatial-photo-3482628/)
+ - [Samsung Galaxy Tab S10 rumors: Everything we know and what we want to see](https://www.androidauthority.com/samsung-galaxy-tab-s10-3389280/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
