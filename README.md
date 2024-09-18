@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: the US is urging Vietnam to avoid cable-laying firm HMN Technologies and other Chinese companies in Vietnam&#39;s plans for 10 new subsea cables by 2030 &lpar;Reuters&rpar;](http://www.techmeme.com/240917/p38#a240917p38)
  - [CA Gov. Newsom signs three laws regulating election AI deepfakes, including holding large online platforms liable for not removing content after a user&#39;s report &lpar;Stuart A. Thompson/New York Times&rpar;](http://www.techmeme.com/240917/p37#a240917p37)
- - [Best Antivirus Software for 2024](https://www.cnet.com/tech/services-and-software/best-antivirus/#ftag=CAD590a51e)
- - [Mickey 17’s first trailer is light in tone, heavy on dead Robert Pattinsons](https://www.theverge.com/2024/9/17/24138113/mickey-17-trailer-bong-joon-ho-robert-pattinson)<!-- TECH:END -->
+ - [Best Antivirus Software for 2024](https://www.cnet.com/tech/services-and-software/best-antivirus/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
