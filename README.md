@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Humble&amp;#8217;s $18 Warhammer 40K book bundle is the perfect chaser for Space Marine 2](https://www.polygon.com/good-deals/452668/space-marine-book-black-library-humble-bundle-sale)
- - [Rogue Class build guide for Dungeons &amp;#038; Dragons 5e 2024](https://www.polygon.com/dungeons-and-dragons-dnd-guide/452935/rogue-class-build-guide)
- - [New Simpsons Halloween Short Will Team Up Sideshow Bob With Disney Villains](https://kotaku.com/new-simpsons-short-disney-sideshow-bob-halloween-date-1851651817)<!-- GAME:END -->
+ - [Avatar fans should check out Aang’s Destiny, the new deck-building game](https://www.polygon.com/deals/453077/avatar-last-airbender-aangs-destiny-tabletop-board-deck-game-buy)
+ - [Grab 2024’s Most Ridiculous RPG While It’s On Sale](https://kotaku.com/like-a-dragon-infinite-wealth-sale-playstation-steam-1851651944)
+ - [In a rare triumph for videogame discourse, God of War Ragnarok will have a setting to reduce puzzle hints on PC](https://www.pcgamer.com/games/action/in-a-rare-triumph-for-videogame-discourse-god-of-war-ragnarok-will-have-a-setting-to-reduce-puzzle-hints-on-pc)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
