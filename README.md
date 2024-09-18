@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at the &quot;Shein village&quot; supply chain in Panyu, China, as Temu apes its tactics; sources say Beijing is unhappy with Shein&#39;s move to &quot;de-Chinafy&quot; itself &lpar;Financial Times&rpar;](http://www.techmeme.com/240918/p17#a240918p17)
- - [You can now shoot spatial photos with your iPhone, but there’s a catch](https://www.androidauthority.com/ios-18-1-beta-4-spatial-photo-3482628/)
- - [Samsung Galaxy Tab S10 rumors: Everything we know and what we want to see](https://www.androidauthority.com/samsung-galaxy-tab-s10-3389280/)<!-- TECH:END -->
+ - [Garmin has a new off-the-grid gadget for texting photos and audio](https://www.androidauthority.com/garmin-inreach-messenger-plus-3482142/)
+ - [Craigslist founder Craig Newmark plans to donate $100M to boost US cybersecurity: $50M to protect infrastructure and $50M to educate people about safeguards &lpar;Juliet Chung/Wall Street Journal&rpar;](http://www.techmeme.com/240918/p20#a240918p20)
+ - [Samsung Galaxy S25 series rumors and leaks: Everything we know so far](https://www.androidauthority.com/samsung-galaxy-s25-3437280/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
