@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Thanks, google.](http://9gag.com/gag/aVv3Oxv)
- - ⏩ [Chin](http://9gag.com/gag/aByx3Nz)
+ - 💣 [If they installed one of these, would you return to the office](http://9gag.com/gag/aO8rVPv)
+ - ⏩ [A dolphin amongst Sharks](http://9gag.com/gag/a6ZodyR)
  - 👉 [9gaggers... its 2012..](http://9gag.com/gag/aD2xod7)<!-- MEMES:END -->
 
 ---
