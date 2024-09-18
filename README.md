@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How The Elder Scrolls: Castles Builds on Fallout Shelter to Create a Fascinatingly Authentic Elder Scrolls Spin-Off](https://news.xbox.com/en-us/2024/09/18/elder-scrolls-castles-interview/)
- - [One Piece season 2’s behind the scenes trailer is mysterious but still looks great](https://www.polygon.com/entertainment/452889/one-piece-season-2-netflix-live-action-trailer-teaser-bts)
- - [Get The First Frostpunk For Cheap Ahead of Its Sequel](https://kotaku.com/frostpunk-steam-sale-survival-city-builder-sequel-1851651387)<!-- GAME:END -->
+ - [Get a pair of Pokémon Squishmallows for their lowest price ever](https://www.polygon.com/good-deals/452793/pokemon-squishmallows-best-buy-sale)
+ - [Is This What The New Switch 2 Looks Like?](https://kotaku.com/switch-2-specs-leaks-nintendo-screen-release-date-price-1851651185)
+ - [Intel&#39;s next-gen Arrow Lake CPUs could support up to 10,000 MT/s DDR5 CUDIMM RAM, but that&#39;ll be using the Gear 2 setting which is pretty rubbish for gaming](https://www.pcgamer.com/hardware/processors/intels-next-gen-arrow-lake-cpus-could-support-up-to-10000-mts-ddr5-cudimm-ram-but-thatll-be-using-the-gear-2-setting-which-is-pretty-rubbish-for-gaming)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
