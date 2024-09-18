@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to use UTM to run almost any version of macOS -- even very old ones](https://appleinsider.com/inside/macos/tips/how-to-use-utm-to-run-almost-any-version-of-macos----even-very-old-ones?utm_medium=rss)
- - [Exploding pagers kill nine and injure thousands in an attack on Hezbollah](https://www.theverge.com/2024/9/17/24247200/exploding-pager-attack-hezbollah-lebanon-syria)
- - [Today&#39;s NYT Connections Hints, Answers and Help for Sept. 18, #465](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-sept-18-465/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sources: the EU&#39;s decision to fine Meta, with up to 10% of its global annual revenue, for linking Marketplace and Facebook, could come as early as October 2024 &lpar;Javier Espinoza/Financial Times&rpar;](http://www.techmeme.com/240918/p3#a240918p3)
+ - [Google Photos is getting a new ‘Ultra HDR’ editing option](https://www.androidauthority.com/google-photos-ultra-hdr-editing-option-3482561/)
+ - [Australian police say they infiltrated Ghost, a global encrypted communications app developed for criminals, arresting dozens, including the app&#39;s alleged admin &lpar;Rod McGuirk/Associated Press&rpar;](http://www.techmeme.com/240918/p2#a240918p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
