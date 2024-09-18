@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Satisfied clients](http://9gag.com/gag/a9ypWbm)
- - ⏩ [Video of the Titan imploded sub now released](http://9gag.com/gag/azxXAMN)
- - 👉 [Now you know why those wackos with snakes and reptiles do this for a living](http://9gag.com/gag/aGyjw9w)<!-- MEMES:END -->
+ - 💣 [Cargasm](http://9gag.com/gag/a2vo5AO)
+ - ⏩ [9gaggers... its 2012..](http://9gag.com/gag/aD2xod7)
+ - 👉 [Video of the Titan imploded sub now released](http://9gag.com/gag/azxXAMN)<!-- MEMES:END -->
 
 ---
 
