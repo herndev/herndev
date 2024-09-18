@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [9gaggers... its 2012..](http://9gag.com/gag/aD2xod7)
- - ⏩ [This may be the funniest special op in the history of special ops, maybe ever.](http://9gag.com/gag/aXPx9mv)
- - 👉 [Something about fishermen running out of nets or something, I don&#39;t know](http://9gag.com/gag/apR2o6W)<!-- MEMES:END -->
+ - 💣 [This may be the funniest special op in the history of special ops, maybe ever.](http://9gag.com/gag/aXPx9mv)
+ - ⏩ [We did our part not watching it.](http://9gag.com/gag/aAyxY8d)
+ - 👉 [&lpar;\u2060\u256f\u2060\u00b0\u2060\u25a1\u2060\u00b0\u2060\uff09\u2060\u256f](http://9gag.com/gag/aE0x1pn)<!-- MEMES:END -->
 
 ---
 
