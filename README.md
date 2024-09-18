@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [House committee advances Kids Online Safety Act](https://www.theverge.com/2024/9/18/24248117/kosa-coppa-house-energy-commerce-committee-passage-amendments)
- - [14 people have been killed by a second day of device explosions in Lebanon](https://www.theverge.com/2024/9/18/24248214/lebanon-hezbollah-exploding-radio-attacks)
- - [Deal: Save $100 on the OnePlus Pad 2 and get the OnePlus Buds 3 for free!](https://www.androidauthority.com/oneplus-pad-2-free-oneplus-buds-3-deal-3482885/)<!-- TECH:END -->
+ - [The iPhone 16’s hidden upgrade is its repairability](https://www.androidauthority.com/iphone-16-repairability-3482906/)
+ - [Motorola Moto G75 leak gives a sneak peak at colors, specs, and more](https://www.androidauthority.com/motorola-moto-g75-leak-3482891/)
+ - [The best Nintendo Switch controllers to buy right now](https://www.theverge.com/23350899/nintendo-switch-controllers-best-wireless-joy-con-gamepad)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
