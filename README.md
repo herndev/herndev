@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Aim](http://9gag.com/gag/amo70ej)
- - ⏩ [A short woman, with authority, without headscarf, puts him in place and tells him what to do. This will haunt him for life.](http://9gag.com/gag/aD2x0O9)
+ - 💣 [Thanks, google.](http://9gag.com/gag/aVv3Oxv)
+ - ⏩ [Chin](http://9gag.com/gag/aByx3Nz)
  - 👉 [9gaggers... its 2012..](http://9gag.com/gag/aD2xod7)<!-- MEMES:END -->
 
 ---
