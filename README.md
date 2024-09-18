@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Helldivers 2&#39;s latest update looks like it&#39;s gone down smooth, with player counts not seen since June—from a balance patch, no less](https://www.pcgamer.com/games/third-person-shooter/helldivers-2-s-latest-update-looks-like-it-s-gone-down-smooth-with-player-counts-not-seen-since-june-from-a-balance-patch-no-less)
- - [EA says it&#39;s got a 3rd and final Star Wars Jedi game cooking in speech to imperial senate of investors—oh, and 40 million people have played the first 2 already](https://www.pcgamer.com/games/action/ea-says-its-got-a-3rd-and-final-star-wars-jedi-game-cooking-in-speech-to-imperial-senate-of-investorsoh-and-its-made-dollar5-billion-off-the-first-2-already)
- - [God of War Ragnarok release date and launch times](https://www.pcgamer.com/games/rpg/god-of-war-ragnarok-release-date-time)<!-- GAME:END -->
+ - [HTC&#39;s next VR headset is a little less Meta Quest and a little more Apple Vision Pro in its bid to be the everything device](https://www.pcgamer.com/hardware/vr-hardware/htcs-next-vr-headset-is-a-little-less-meta-quest-and-a-little-more-apple-vision-pro-in-its-bid-to-be-the-everything-device)
+ - [Games industry hurtles further into self-parody as ESRB leaks existence of a Horizon Zero Dawn Remaster](https://www.pcgamer.com/games/action/games-industry-hurtles-further-into-self-parody-as-esrb-leaks-existence-of-a-horizon-zero-dawn-remaster)
+ - [PC gaming made me a better drummer than I had any right to be—all thanks to an electronic kit and open source software](https://www.pcgamer.com/hardware/pc-gaming-made-me-a-better-drummer-than-i-had-any-right-to-beall-thanks-to-an-electronic-kit-and-open-source-software)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
