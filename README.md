@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How a Twitch streamer helped bring NASA to the livestreaming community](https://www.polygon.com/twitch/452754/science-streamer-moohoodles-interview-nasa-twitchcon)
- - [Square Enix confirms lower-than-expected Final Fantasy 7 Rebirth and Final Fantasy 16 sales in newly public financial report: &#39;Profits unfortunately did not meet our expectations&#39;](https://www.pcgamer.com/gaming-industry/square-enix-confirms-lower-than-expected-final-fantasy-7-rebirth-and-final-fantasy-16-sales-in-newly-public-financial-report-profits-unfortunately-did-not-meet-our-expectations)
- - [With a Star Wars Jedi threequel coming, does this mean Cal Kestis… must die?](https://www.polygon.com/star-wars/453056/with-a-star-wars-jedi-threequel-coming-does-this-mean-cal-kestis-must-die)<!-- GAME:END -->
+ - [Humble&amp;#8217;s $18 Warhammer 40K book bundle is the perfect chaser for Space Marine 2](https://www.polygon.com/good-deals/452668/space-marine-book-black-library-humble-bundle-sale)
+ - [Rogue Class build guide for Dungeons &amp;#038; Dragons 5e 2024](https://www.polygon.com/dungeons-and-dragons-dnd-guide/452935/rogue-class-build-guide)
+ - [New Simpsons Halloween Short Will Team Up Sideshow Bob With Disney Villains](https://kotaku.com/new-simpsons-short-disney-sideshow-bob-halloween-date-1851651817)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
