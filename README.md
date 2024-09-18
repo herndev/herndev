@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This is also why there are literally no homicides in UAE](http://9gag.com/gag/aMVjQEM)
- - ⏩ [Alright thanks everybody. See you tomorrow.](http://9gag.com/gag/ayNX82q)
- - 👉 [&lpar;\u2060\u256f\u2060\u00b0\u2060\u25a1\u2060\u00b0\u2060\uff09\u2060\u256f](http://9gag.com/gag/aE0x1pn)<!-- MEMES:END -->
+ - 💣 [&lpar;\u2060\u256f\u2060\u00b0\u2060\u25a1\u2060\u00b0\u2060\uff09\u2060\u256f](http://9gag.com/gag/aE0x1pn)
+ - ⏩ [Rapist is let of after having his sister raped.](http://9gag.com/gag/axy1jKY)
+ - 👉 [9gaggers... its 2012..](http://9gag.com/gag/aD2xod7)<!-- MEMES:END -->
 
 ---
 
