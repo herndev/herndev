@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Video of the Titan imploded sub now released](http://9gag.com/gag/azxXAMN)
- - ⏩ [This is also why there are literally no homicides in UAE](http://9gag.com/gag/aMVjQEM)
- - 👉 [Rapist is let of after having his sister raped.](http://9gag.com/gag/axy1jKY)<!-- MEMES:END -->
+ - 💣 [Satisfied clients](http://9gag.com/gag/a9ypWbm)
+ - ⏩ [Video of the Titan imploded sub now released](http://9gag.com/gag/azxXAMN)
+ - 👉 [Now you know why those wackos with snakes and reptiles do this for a living](http://9gag.com/gag/aGyjw9w)<!-- MEMES:END -->
 
 ---
 
