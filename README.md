@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [If you’ve struggled to see your new Nest Thermostat, there’s a fix on the way](https://www.theverge.com/2024/9/18/24248291/google-nest-learning-thermostat-4th-gen-software-update-fix)
- - [Know the price-matching policies for Best Buy, Target, Walmart, and others](https://www.theverge.com/21570383/price-matching-policy-apple-google-microsoft)
- - [PayPal has a new logo that makes it look just like everything else](https://www.theverge.com/2024/9/18/24248315/paypal-new-logo-design-2024-update)<!-- TECH:END -->
+ - [House committee advances Kids Online Safety Act](https://www.theverge.com/2024/9/18/24248117/kosa-coppa-house-energy-commerce-committee-passage-amendments)
+ - [14 people have been killed by a second day of device explosions in Lebanon](https://www.theverge.com/2024/9/18/24248214/lebanon-hezbollah-exploding-radio-attacks)
+ - [Deal: Save $100 on the OnePlus Pad 2 and get the OnePlus Buds 3 for free!](https://www.androidauthority.com/oneplus-pad-2-free-oneplus-buds-3-deal-3482885/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
