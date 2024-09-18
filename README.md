@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Substack now lets creators with its Bestsellers badges start live videos within its app, and plans to roll out the feature to all users in the coming months &lpar;Anna Washenko/Engadget&rpar;](http://www.techmeme.com/240918/p35#a240918p35)
- - [OnePlus is taking $100 off its Pad 2 tablet with a free pair of Buds 3 earbuds](https://www.theverge.com/good-deals/2024/9/18/24247983/oneplus-pad-2-buds-3-android-tablet-echo-show-deal-sale)
- - [NBA Twitter newsbreaker Adrian Wojnarowski is retiring](https://www.theverge.com/2024/9/18/24248090/adrian-wojnarowski-retirement-nba-twitter)<!-- TECH:END -->
+ - [How to choose which Apple Watch to buy](https://www.theverge.com/23037217/best-apple-watch-series-se-ultra)
+ - [Amazon warehouse workers are getting free Prime and a pay raise](https://www.theverge.com/2024/9/18/24248139/amazon-warehouse-workers-free-prime-pay-raise)
+ - [Apple enables direct Thread control for smart home devices with iOS 18](https://appleinsider.com/articles/24/09/18/apple-enables-direct-thread-control-for-smart-home-devices-with-ios-18?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
