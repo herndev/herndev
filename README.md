@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone 16 Pro review roundup: Incremental improvements, until Apple Intelligence](https://appleinsider.com/articles/24/09/18/iphone-16-pro-review-roundup-incremental-improvements-until-apple-intelligence?utm_medium=rss)
- - [TechInsights: China&#39;s YMTC upgraded its &quot;Xtacking&quot; tech, which stacks memory cells in layers, to rival NAND industry leaders, but significant challenges remain &lpar;Debby Wu/Bloomberg&rpar;](http://www.techmeme.com/240918/p27#a240918p27)
- - [Bose’s latest ANC earbuds offer premium features at a reasonable price](https://www.androidauthority.com/bose-quietcomfort-earbuds-3482693/)<!-- TECH:END -->
+ - [SpaceX dinged by FAA for failing to get mission changes approved](https://www.theverge.com/2024/9/18/24247996/faa-spacex-fine-license-violation-launch-changes-elon-musk-lawsuit-threat)
+ - [Wallpaper Wednesday: More great phone wallpapers for all to share &lpar;September 18&rpar;](https://www.androidauthority.com/wallpaper-wednesday-sep-18-2024-3482110/)
+ - [Do You Need an Antivirus Program on Windows?](https://www.wired.com/story/do-you-need-an-antivirus-program-on-windows/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
