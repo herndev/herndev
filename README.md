@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to choose which Apple Watch to buy](https://www.theverge.com/23037217/best-apple-watch-series-se-ultra)
- - [Amazon warehouse workers are getting free Prime and a pay raise](https://www.theverge.com/2024/9/18/24248139/amazon-warehouse-workers-free-prime-pay-raise)
- - [Apple enables direct Thread control for smart home devices with iOS 18](https://appleinsider.com/articles/24/09/18/apple-enables-direct-thread-control-for-smart-home-devices-with-ios-18?utm_medium=rss)<!-- TECH:END -->
+ - [YouTube is adding ‘seasons’ to make your favorite channel more like Netflix](https://www.theverge.com/2024/9/18/24248206/youtube-season-episode-format-organizing-tv-netflix-binge)
+ - [The FBI says it disrupted a botnet of &quot;hundreds of thousands&quot; of IoT devices worldwide last week, run by the China-linked hacking group Flax Typhoon &lpar;Joe Warminsky/The Record&rpar;](http://www.techmeme.com/240918/p38#a240918p38)
+ - [Take these leaked Nintendo Switch 2 images with a grain of salt](https://www.androidauthority.com/nintendo-switch-2-alleged-design-3482774/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
