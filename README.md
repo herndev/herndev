@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Garmin has a new off-the-grid gadget for texting photos and audio](https://www.androidauthority.com/garmin-inreach-messenger-plus-3482142/)
- - [Craigslist founder Craig Newmark plans to donate $100M to boost US cybersecurity: $50M to protect infrastructure and $50M to educate people about safeguards &lpar;Juliet Chung/Wall Street Journal&rpar;](http://www.techmeme.com/240918/p20#a240918p20)
- - [Samsung Galaxy S25 series rumors and leaks: Everything we know so far](https://www.androidauthority.com/samsung-galaxy-s25-3437280/)<!-- TECH:END -->
+ - [Apple Intelligence will come to more languages over the next year](https://www.theverge.com/2024/9/18/24247839/apple-intelligence-language-support-german-italian)
+ - [Apple iPhone 16 Pro review: small camera update, big difference](https://www.theverge.com/24247538/apple-iphone-16-pro-review)
+ - [Apple iPhone 16 and 16 Plus review: all caught up](https://www.theverge.com/24247479/apple-iphone-16-plus-review-camera-control-screen-battery)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
