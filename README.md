@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Bong Joon-ho kills off so many Robert Pattinson clones in the Mickey 17 trailer](https://www.polygon.com/movies/452316/mickey-17-trailer-release-date-robert-pattinson-bong-joon-ho)
- - [EA says giving videogame characters &#39;life and persistence&#39; outside of games with AI is a &#39;profound opportunity,&#39; which is the kind of talk that leads to dangerous Holodeck malfunctions](https://www.pcgamer.com/gaming-industry/ea-says-giving-videogame-characters-life-and-persistence-outside-of-games-is-a-profound-opportunity-which-is-the-kind-of-talk-that-leads-to-dangerous-holodeck-malfunctions)
- - [Arrowhead creative director agrees Helldivers 2 needs a harder difficulty mode after the &#39;buff everything&#39; patch](https://www.pcgamer.com/games/third-person-shooter/arrowhead-creative-director-agrees-helldivers-2-needs-a-harder-difficulty-mode-after-the-buff-everything-patch)<!-- GAME:END -->
+ - [Tiny Glade review](https://www.pcgamer.com/games/city-builder/tiny-glade-review)
+ - [Today&#39;s Wordle answer for Wednesday, September 18](https://www.pcgamer.com/games/puzzle/wordle-answer-today-September-18-2024)
+ - [Bong Joon-ho kills off so many Robert Pattinson clones in the Mickey 17 trailer](https://www.polygon.com/movies/452316/mickey-17-trailer-release-date-robert-pattinson-bong-joon-ho)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
