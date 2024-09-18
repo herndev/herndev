@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [9gaggers... its 2012..](http://9gag.com/gag/aD2xod7)
- - ⏩ [Now you know why those wackos with snakes and reptiles do this for a living](http://9gag.com/gag/aGyjw9w)
- - 👉 [Chin](http://9gag.com/gag/aByx3Nz)<!-- MEMES:END -->
+ - 💣 [I was afraid of nothing, until i saw this picture](http://9gag.com/gag/aRB3A6j)
+ - ⏩ [They&#39;ve been ice-skating partners for over 20 years](http://9gag.com/gag/arygerp)
+ - 👉 [Meet FAFO jr](http://9gag.com/gag/ae9M0mj)<!-- MEMES:END -->
 
 ---
 
