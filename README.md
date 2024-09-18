@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Lenovo says the company has started building AI servers in Pondicherry in southeastern India, moving beyond products such as laptops and smartphones &lpar;Saritha Rai/Bloomberg&rpar;](http://www.techmeme.com/240918/p5#a240918p5)
- - [Google Pixel 9a wishlist: All the features I want to see](https://www.androidauthority.com/google-pixel-9a-3479179/)
- - [Prager Metis, a former auditor for FTX, pays a $1.95M fine to settle two US SEC cases, including for alleged negligence in auditing the cryptocurrency exchange &lpar;Jonathan Stempel/Reuters&rpar;](http://www.techmeme.com/240918/p4#a240918p4)<!-- TECH:END -->
+ - [Intel&#39;s decision to delay new Germany and Poland plants by two years is a blow to the EU&#39;s goal of making 20% of the world&#39;s chips by 2030, up from ~9% in 2022 &lpar;Pieter Haeck/Politico&rpar;](http://www.techmeme.com/240918/p10#a240918p10)
+ - [Taiwanese chip industry suppliers have been expanding into the Japanese island of Kyushu, which has become a gateway for business growth after TSMC&#39;s arrival &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/240918/p9#a240918p9)
+ - [New Snapchat AR spectacles are here, but not for you](https://www.androidauthority.com/snapchat-ar-spectacles-fifth-generation-3482569/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
