@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [India, which has set aside $11B for its semiconductor mission, is obsessing over self-reliance instead of focusing on areas that can be scaled up quickly &lpar;Mihir Sharma/Bloomberg&rpar;](http://www.techmeme.com/240918/p12#a240918p12)
- - [The Galaxy S23 Ultra has a major camera zoom bug thanks to One UI 6.1.1](https://www.androidauthority.com/samsung-galaxy-s23-ultra-camera-zoom-bug-one-ui-6-1-1-3482592/)
- - [Apple pulls the iPadOS 18 update for M4 iPad Pro models after bricking complaints as the company works &quot;to resolve an issue impacting a small number of devices&quot; &lpar;Juli Clover/MacRumors&rpar;](http://www.techmeme.com/240918/p11#a240918p11)<!-- TECH:END -->
+ - [A planned UK data center project in Abbots Langley, seen as a test for the new Labour government&#39;s data center push, stokes tensions among the local community &lpar;Financial Times&rpar;](http://www.techmeme.com/240918/p16#a240918p16)
+ - [Starling Bank survey of over 3,000 UK adults: 28% say they were targeted by an AI voice cloning scam in the past year; 46% didn&#39;t even know about such scams &lpar;Jen Mills/Metro.co.uk&rpar;](http://www.techmeme.com/240918/p15#a240918p15)
+ - [The EU&#39;s General Court backs Google&#39;s challenge against the EU&#39;s &amp;euro;1.49B antitrust fine, imposed in 2019 for hindering rivals in online search ads &lpar;Foo Yun Chee/Reuters&rpar;](http://www.techmeme.com/240918/p14#a240918p14)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
