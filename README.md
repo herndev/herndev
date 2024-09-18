@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Oh deer](http://9gag.com/gag/a7oMZ9e)
- - ⏩ [Chin](http://9gag.com/gag/aByx3Nz)
+ - 💣 [This is also why there are literally no homicides in UAE](http://9gag.com/gag/aMVjQEM)
+ - ⏩ [Alright thanks everybody. See you tomorrow.](http://9gag.com/gag/ayNX82q)
  - 👉 [&lpar;\u2060\u256f\u2060\u00b0\u2060\u25a1\u2060\u00b0\u2060\uff09\u2060\u256f](http://9gag.com/gag/aE0x1pn)<!-- MEMES:END -->
 
 ---
