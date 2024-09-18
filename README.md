@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [UFO 50 was terrible to review but incredible to play](https://www.polygon.com/review/452079/ufo-50-review-pc)
- - [AI-generated lighting from Lepro should be setting the mood for your gaming sessions](https://www.pcgamer.com/hardware/lighting/ai-generated-lighting-from-lepro-should-be-setting-the-mood-for-your-gaming-sessions)
- - [EA says it&#39;s going to use AI to fix The Sims 4&#39;s really annoying user content gallery](https://www.pcgamer.com/games/the-sims/ea-says-its-going-to-use-ai-to-fix-the-sims-4s-really-annoying-user-content-gallery)<!-- GAME:END -->
+ - [Castlevania Dominus Collection: How Konami Recreated DS and Arcade Games for Xbox](https://news.xbox.com/en-us/2024/09/18/castlevania-dominus-collection-interview/)
+ - [Why A Space Marine 2 Exec&#39;s YouTube Comment Became A Lightning Rod](https://kotaku.com/space-marine-2-saber-ceo-asmongold-youtube-comment-1851650858)
+ - [&#39;I had no idea what had happened&#39;: Final Fantasy 16&#39;s Ben Starr on becoming a meme, playing angsty roles, and which series summon he&#39;d take on a date](https://www.pcgamer.com/games/rpg/i-had-no-idea-what-had-happened-final-fantasy-16s-ben-starr-on-becoming-a-meme-playing-angsty-roles-and-which-series-summon-hed-take-on-a-date)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
