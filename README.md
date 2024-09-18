@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [YouTube auto-dubbing will let you watch global content with realistic voice and tone matching](https://www.androidauthority.com/youtube-autodubbing-expands-3482855/)
- - [Amazon&#39;s Fall Prime Day starts October 8, but Apple deals from $24 are live right now](https://appleinsider.com/articles/24/09/18/amazons-fall-prime-day-starts-october-8-but-apple-deals-from-24-are-live-right-now?utm_medium=rss)
- - [Apple is &lpar;momentarily&rpar; no longer the second-biggest smartphone maker](https://www.androidauthority.com/xiaomi-apple-market-3482815/)<!-- TECH:END -->
+ - [If you’ve struggled to see your new Nest Thermostat, there’s a fix on the way](https://www.theverge.com/2024/9/18/24248291/google-nest-learning-thermostat-4th-gen-software-update-fix)
+ - [Know the price-matching policies for Best Buy, Target, Walmart, and others](https://www.theverge.com/21570383/price-matching-policy-apple-google-microsoft)
+ - [PayPal has a new logo that makes it look just like everything else](https://www.theverge.com/2024/9/18/24248315/paypal-new-logo-design-2024-update)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
