@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The iPhone 16’s hidden upgrade is its repairability](https://www.androidauthority.com/iphone-16-repairability-3482906/)
- - [Motorola Moto G75 leak gives a sneak peak at colors, specs, and more](https://www.androidauthority.com/motorola-moto-g75-leak-3482891/)
- - [The best Nintendo Switch controllers to buy right now](https://www.theverge.com/23350899/nintendo-switch-controllers-best-wireless-joy-con-gamepad)<!-- TECH:END -->
+ - [Here’s another chance to get the Apple iPad 9th Generation for $199](https://www.androidauthority.com/apple-ipad-9th-generation-deal-4-3482884/)
+ - [Playtika agrees to buy Tel Aviv-based mobile game maker SuperPlay for $700M, and up to an additional $1.25B if SuperPlay hits financial targets over three years &lpar;Dean Takahashi/VentureBeat&rpar;](http://www.techmeme.com/240918/p43#a240918p43)
+ - [Google Workspace users will see their Calendars front and center in Chrome](https://www.theverge.com/2024/9/18/24248416/google-workspace-chrome-calendar-new0tabs)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
