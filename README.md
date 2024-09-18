@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [God of War Ragnarok release date and launch times](https://www.pcgamer.com/games/rpg/god-of-war-ragnarok-release-date-time)
- - [Can Wobbuffet be shiny in Pokémon Go?](https://www.polygon.com/pokemon-go-guide/447836/can-wobbuffet-be-shiny-wynaut)
- - [Tiny Glade review](https://www.pcgamer.com/games/city-builder/tiny-glade-review)<!-- GAME:END -->
+ - [Helldivers 2&#39;s latest update looks like it&#39;s gone down smooth, with player counts not seen since June—from a balance patch, no less](https://www.pcgamer.com/games/third-person-shooter/helldivers-2-s-latest-update-looks-like-it-s-gone-down-smooth-with-player-counts-not-seen-since-june-from-a-balance-patch-no-less)
+ - [EA says it&#39;s got a 3rd and final Star Wars Jedi game cooking in speech to imperial senate of investors—oh, and 40 million people have played the first 2 already](https://www.pcgamer.com/games/action/ea-says-its-got-a-3rd-and-final-star-wars-jedi-game-cooking-in-speech-to-imperial-senate-of-investorsoh-and-its-made-dollar5-billion-off-the-first-2-already)
+ - [God of War Ragnarok release date and launch times](https://www.pcgamer.com/games/rpg/god-of-war-ragnarok-release-date-time)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
