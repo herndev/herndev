@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [SpaceX dinged by FAA for failing to get mission changes approved](https://www.theverge.com/2024/9/18/24247996/faa-spacex-fine-license-violation-launch-changes-elon-musk-lawsuit-threat)
- - [Wallpaper Wednesday: More great phone wallpapers for all to share &lpar;September 18&rpar;](https://www.androidauthority.com/wallpaper-wednesday-sep-18-2024-3482110/)
- - [Do You Need an Antivirus Program on Windows?](https://www.wired.com/story/do-you-need-an-antivirus-program-on-windows/)<!-- TECH:END -->
+ - [With visionOS 2, Apple’s Vision Pro comes into focus](https://www.theverge.com/2024/9/18/24246461/apple-visionos-2-vision-pro-impressions-features-virtual-reality)
+ - [YouTube adds an Inspiration tab in the YouTube Studio app for creators to use AI to generate video concepts, create titles and thumbnails, and write videos &lpar;David Pierce/The Verge&rpar;](http://www.techmeme.com/240918/p33#a240918p33)
+ - [EU advocacy group sues Apple because other streaming music services hiked prices](https://appleinsider.com/articles/24/09/18/eu-advocacy-group-sues-apple-because-other-streaming-music-services-hiked-prices?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
