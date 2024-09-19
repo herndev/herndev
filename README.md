@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Microsoft Flight Simulator 2024: The Many Enhancements That Make This the Most Ambitious Flight Sim Ever](https://news.xbox.com/en-us/2024/09/19/microsoft-flight-simulator-2024-preview/)
- - [How Pokémon TCG Pocket replicates the feel of opening a physical card pack](https://www.polygon.com/pokemon/452814/pokemon-trading-card-game-pocket-opening-pack-feel)
- - [Pokémon Trading Card Game Pocket is for the art sickos](https://www.polygon.com/pokemon/453190/trading-card-game-pocket-tcg-preview)<!-- GAME:END -->
+ - [Before Terminator Zero, Batman Ninja revitalized an American franchise by setting it in Japan](https://www.polygon.com/entertainment/452233/batman-ninja-anime-watch-terminator-zero-japan)
+ - [Google finally wins a court case and gets out of a €1.49 billion fine over anti-competitive practices](https://www.pcgamer.com/hardware/google-finally-wins-a-court-case-and-gets-out-of-a-euro149-billion-fine-over-anti-competitive-practices)
+ - [&#39;It is truly unfortunate&#39;: Palworld responds to Nintendo&#39;s lawsuit while also continuing to &#39;strive to create a game that our fans can be proud of&#39;](https://www.pcgamer.com/games/survival-crafting/it-is-truly-unfortunate-palworld-responds-to-nintendos-lawsuit-while-also-continuing-to-strive-to-create-a-game-that-our-fans-can-be-proud-of)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
