@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The new Microsoft Flight Simulator will be a lot smaller](https://www.theverge.com/2024/9/19/24248947/microsoft-flight-simulator-2024-cloud-release-date)
- - [Pixel Watch 2 is selling at a crazy low $75 at select Target stores](https://www.androidauthority.com/pixel-watch-2-clearance-sale-3483136/)
- - [Sources: server CPU designer Ampere is exploring a potential sale; Ampere was reportedly valued at $8B in a proposed minority investment in 2021 &lpar;Bloomberg&rpar;](http://www.techmeme.com/240919/p27#a240919p27)<!-- TECH:END -->
+ - [New BenQ monitor deals for your Mac deliver discounts of up to $200 off &amp; lowest prices ever](https://appleinsider.com/articles/24/09/19/new-benq-monitor-deals-for-your-mac-deliver-discounts-of-up-to-200-off-lowest-prices-ever?utm_medium=rss)
+ - [Microsoft launches a Windows app for iPhones, Macs, and Android devices](https://www.theverge.com/2024/9/19/24249087/microsoft-windows-app-ios-ipados-macos-web-general-availability)
+ - [Where to preorder Microsoft’s special-edition Galaxy Black Xbox Series X](https://www.theverge.com/24247123/microsoft-xbox-series-x-2tb-galaxy-black-special-edition-preorder-buy-price-release-date)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
