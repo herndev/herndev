@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Adventure Zone’s new season mixes dice with Saturday morning cartoons](https://www.polygon.com/comedy/445805/adventure-zone-new-season-abnimals-premiere-interview)
- - [A year after extraction shooter The Cycle: Frontier was shut down, it&#39;s back—well, in Fortnite at least](https://www.pcgamer.com/games/fps/a-year-after-extraction-shooter-the-cycle-frontier-was-shut-down-its-backwell-in-fortnite-at-least)
- - [Several emergency patches later, Blizzard almost has WoW&#39;s new solo dungeons figured out](https://www.pcgamer.com/games/world-of-warcraft/several-emergency-patches-later-blizzard-almost-has-wow-s-new-solo-dungeons-figured-out)<!-- GAME:END -->
+ - [Dragon Age: The Veilguard will see the return of Inquisition&#39;s protagonist, and you&#39;ll be able to customize their appearance and voice](https://www.pcgamer.com/games/dragon-age/dragon-age-the-veilguard-will-see-the-return-of-inquisition-s-protagonist-and-you-ll-be-able-to-customize-their-appearance-and-voice)
+ - [Concord game director reportedly steps down as Firewalk developers fear layoffs or a possible closure](https://www.pcgamer.com/games/fps/concord-game-director-reportedly-steps-down-as-firewalk-developers-fear-layoffs-or-a-possible-closure)
+ - [The Adventure Zone’s new season mixes dice with Saturday morning cartoons](https://www.polygon.com/comedy/445805/adventure-zone-new-season-abnimals-premiere-interview)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
