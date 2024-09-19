@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Only one Concord player left online.](http://9gag.com/gag/aoyNpjw)
- - ⏩ [China, middle schoolers cheering for lifting the ban on ponytail](http://9gag.com/gag/a4P7Zp1)
- - 👉 [Oh deer](http://9gag.com/gag/a7oMZ9e)<!-- MEMES:END -->
+ - 💣 [There are no sause, only glory for the emperor](http://9gag.com/gag/a0eKpVB)
+ - ⏩ [He leaves the \u201csmart\u201d car parking itself. The car decides it doesn\u2019t fit and drives off](http://9gag.com/gag/aQz3M97)
+ - 👉 [Clean and safe](http://9gag.com/gag/agmXYxn)<!-- MEMES:END -->
 
 ---
 
