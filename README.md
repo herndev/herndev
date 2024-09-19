@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Agatha All Along brews together WandaVision, Doctor Strange, and Darkhold lore](https://www.polygon.com/marvel/453203/agatha-all-along-darkhold-scarlet-witch-where-dead-body-who)
- - [Just as it looked like Palworld might escape Nintendo&#39;s gaze, the lawsuit has been filed: Nintendo is suing Pocketpair for patent infringement](https://www.pcgamer.com/games/rpg/nintendo-is-suing-the-palworld-developer-claiming-it-infringes-on-patents)
- - [Nintendo And The Pokémon Company Are Suing Palworld Developer](https://kotaku.com/palworld-pokemon-company-lawsuit-nintendo-pocketpair-1851652124)<!-- GAME:END -->
+ - [Agatha All Along’s unnamed ‘Teen’ is probably this familiar Marvel Comics character](https://www.polygon.com/marvel/453241/who-is-teen-in-agatha-all-along)
+ - [Rellana&#39;s Armor Lets You Dress As One Of Shadow Of The Erdtree&#39;s Coolest Bosses](https://kotaku.com/elden-ring-shadow-erdtree-rellana-s-armor-set-guide-1851651378)
+ - [Agatha All Along brews together WandaVision, Doctor Strange, and Darkhold lore](https://www.polygon.com/marvel/453203/agatha-all-along-darkhold-scarlet-witch-where-dead-body-who)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
