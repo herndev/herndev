@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Pokémon TCG Pocket wants to be a gateway to digital card collecting](https://www.theverge.com/2024/9/19/24248306/pokemon-tcg-pocket-hands-on)
- - [DJI goes pro with latest Osmo Action camera](https://www.theverge.com/2024/9/19/24247926/dji-osmo-action-5-pro-compared-gopro-price-specs)
- - [Apple and Google disagree on what a photo is](https://www.androidauthority.com/apple-google-disagree-what-photo-is-3483069/)<!-- TECH:END -->
+ - [Amazon joins the Motion Picture Association, after a long courtship; the lobbying group&#39;s other members are Disney, Netflix, Paramount, Sony, Universal, and WBD &lpar;Brooks Barnes/New York Times&rpar;](http://www.techmeme.com/240919/p22#a240919p22)
+ - [Compared: AirPods 4 vs AirPods 3 -- Pro-grade budget audio](https://appleinsider.com/inside/airpods/vs/compared-airpods-4-vs-airpods-3----pro-grade-budget-audio?utm_medium=rss)
+ - [Amazon launches Amelia, an AI tool to help third-party sellers resolve account issues and fetch sales and inventory data, in beta for select US sellers &lpar;CNBC&rpar;](http://www.techmeme.com/240919/p21#a240919p21)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
