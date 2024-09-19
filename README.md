@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [There are no sause, only glory for the emperor](http://9gag.com/gag/a0eKpVB)
- - ⏩ [He leaves the \u201csmart\u201d car parking itself. The car decides it doesn\u2019t fit and drives off](http://9gag.com/gag/aQz3M97)
- - 👉 [Clean and safe](http://9gag.com/gag/agmXYxn)<!-- MEMES:END -->
+ - 💣 [Thursday](http://9gag.com/gag/ae9MM45)
+ - ⏩ [House commander in chief](http://9gag.com/gag/a4P7Gvv)
+ - 👉 [She will not go out the same](http://9gag.com/gag/aAyx1Kg)<!-- MEMES:END -->
 
 ---
 
