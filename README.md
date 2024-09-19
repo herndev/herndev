@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Europe demands Apple open up iOS for better accessory compatibility](https://appleinsider.com/articles/24/09/19/europe-demands-apple-open-up-ios-for-better-accessory-compatibility?utm_medium=rss)
- - [Palmer Luckey partners with Microsoft to turn US soldiers into Starship Troopers](https://www.theverge.com/2024/9/19/24248851/palmer-luckey-anduril-microsoft-partnership-ivas-ar-headset)
- - [iOS 18 isn&#39;t any more of a cheater&#39;s operating system than Android has been](https://appleinsider.com/articles/24/06/14/ios-18-isnt-any-more-of-a-cheaters-operating-system-than-android-has-been?utm_medium=rss)<!-- TECH:END -->
+ - [Pokémon TCG Pocket wants to be a gateway to digital card collecting](https://www.theverge.com/2024/9/19/24248306/pokemon-tcg-pocket-hands-on)
+ - [DJI goes pro with latest Osmo Action camera](https://www.theverge.com/2024/9/19/24247926/dji-osmo-action-5-pro-compared-gopro-price-specs)
+ - [Apple and Google disagree on what a photo is](https://www.androidauthority.com/apple-google-disagree-what-photo-is-3483069/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
