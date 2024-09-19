@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sony celebrates 30 years of PlayStation with a PS1 makeover for the PS5 and PS5 Pro](https://www.androidauthority.com/playstation-30th-anniversary-consoles-3483214/)
- - [The best smartphone you can buy for under $500](https://www.theverge.com/21420196/best-budget-smartphone-cheap)
- - [OpenAI makes its latest AI models, o1-preview and o1-mini, available to all ChatGPT Enterprise and ChatGPT Edu customers &lpar;Michael Nu&amp;ntilde;ez/VentureBeat&rpar;](http://www.techmeme.com/240919/p34#a240919p34)<!-- TECH:END -->
+ - [Concord’s director reportedly steps down](https://www.theverge.com/2024/9/19/24249358/sony-playstation-concord-director-steps-down)
+ - [Deal: The Ember Mug 2 smart mug is 40% off, only today!](https://www.androidauthority.com/ember-mug-2-deal-2-3483222/)
+ - [Memo: Disney plans to stop using Slack in most units by the end of 2024, after a hacking group leaked 1TB+ of its data, including 44M Slack messages, in July &lpar;Robbie Whelan/Wall Street Journal&rpar;](http://www.techmeme.com/240919/p35#a240919p35)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
