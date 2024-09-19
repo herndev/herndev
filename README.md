@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Oh deer](http://9gag.com/gag/a7oMZ9e)
- - ⏩ [Nice tiddies](http://9gag.com/gag/abAMpqr)
- - 👉 [Singer Nick Patera has the ability to switch between both male and female vocals at will](http://9gag.com/gag/axy1g4W)<!-- MEMES:END -->
+ - 💣 [Visit Bali or Bora Bora Maldives](http://9gag.com/gag/abAMpZ8)
+ - ⏩ [The perfect youtube channel doesn&#39;t exi...](http://9gag.com/gag/ayNX8rY)
+ - 👉 [There are no sause, only glory for the emperor](http://9gag.com/gag/a0eKpVB)<!-- MEMES:END -->
 
 ---
 
