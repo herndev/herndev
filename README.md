@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Thursday](http://9gag.com/gag/ae9MM45)
- - ⏩ [House commander in chief](http://9gag.com/gag/a4P7Gvv)
- - 👉 [She will not go out the same](http://9gag.com/gag/aAyx1Kg)<!-- MEMES:END -->
+ - 💣 [Life be like](http://9gag.com/gag/aZZ3pRQ)
+ - ⏩ [High definition too](http://9gag.com/gag/aQz3ME2)
+ - 👉 [Welcome To University](http://9gag.com/gag/aAyxw92)<!-- MEMES:END -->
 
 ---
 
