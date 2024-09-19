@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Behold, the black Apple Watch Ultra 2](https://www.theverge.com/2024/9/19/24248380/apple-watch-ultra-2-black-smartwatch-wearables)
- - [The estates of dead celebrities like Laurence Olivier and James Dean partnered with ElevenLabs on its &quot;iconic voices&quot; project, making millions after their death &lpar;Mia Dawkins/Bloomberg&rpar;](http://www.techmeme.com/240919/p13#a240919p13)
- - [Layoffs.fyi: tech companies have laid off ~137,000 people since January 2024; Indeed.com: software development job postings are down 30%+ since February 2020 &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240919/p12#a240919p12)<!-- TECH:END -->
+ - [Here’s how Pixel’s software update policy changed over the years](https://www.androidauthority.com/google-pixel-software-update-policy-3482984/)
+ - [YouTube says it has &quot;widely rolled out Pause ads to all advertisers&quot; after a &quot;strong advertiser and strong viewer response&quot;; YouTube piloted Pause ads in 2023 &lpar;Sean Hollister/The Verge&rpar;](http://www.techmeme.com/240919/p16#a240919p16)
+ - [Non-Pro iPhone 18 users may miss out on this key change](https://www.androidauthority.com/iphone-18-2nm-chips-3483026/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
