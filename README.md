@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Two researchers say a security conference in China potentially used the event as a secret espionage operation to collect intelligence from an unknown target &lpar;Kim Zetter/Wired&rpar;](http://www.techmeme.com/240918/p47#a240918p47)
- - [Nuphy Air60 V2 review: tiny &amp; mighty mechanical keyboard gets better](https://appleinsider.com/articles/24/09/19/nuphy-air60-v2-review-tiny-mighty-mechanical-keyboard-gets-better?utm_medium=rss)
- - [Today&#39;s NYT Strands Hints, Answers and Help for Sept. 19, #200](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-sept-19-200/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Android 15 release date leaks: Get ready to have some Vanilla Ice Cream](https://www.androidauthority.com/android-15-release-date-leak-3482962/)
+ - [The US House Committee on Energy and Commerce advanced KOSA and COPPA 2.0 on a voice vote despite discontent from some lawmakers over last-minute changes &lpar;Adi Robertson/The Verge&rpar;](http://www.techmeme.com/240919/p3#a240919p3)
+ - [EU regulators say Microsoft&#39;s acquihire of Inflection&#39;s team will not be scrutinized under EU merger rules, after seven EU countries dropped their requests &lpar;Foo Yun Chee/Reuters&rpar;](http://www.techmeme.com/240919/p2#a240919p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
