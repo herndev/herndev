@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Here’s how Pixel’s software update policy changed over the years](https://www.androidauthority.com/google-pixel-software-update-policy-3482984/)
- - [YouTube says it has &quot;widely rolled out Pause ads to all advertisers&quot; after a &quot;strong advertiser and strong viewer response&quot;; YouTube piloted Pause ads in 2023 &lpar;Sean Hollister/The Verge&rpar;](http://www.techmeme.com/240919/p16#a240919p16)
- - [Non-Pro iPhone 18 users may miss out on this key change](https://www.androidauthority.com/iphone-18-2nm-chips-3483026/)<!-- TECH:END -->
+ - [Europe demands Apple open up iOS for better accessory compatibility](https://appleinsider.com/articles/24/09/19/europe-demands-apple-open-up-ios-for-better-accessory-compatibility?utm_medium=rss)
+ - [Palmer Luckey partners with Microsoft to turn US soldiers into Starship Troopers](https://www.theverge.com/2024/9/19/24248851/palmer-luckey-anduril-microsoft-partnership-ivas-ar-headset)
+ - [iOS 18 isn&#39;t any more of a cheater&#39;s operating system than Android has been](https://appleinsider.com/articles/24/06/14/ios-18-isnt-any-more-of-a-cheaters-operating-system-than-android-has-been?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
