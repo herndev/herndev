@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon joins the Motion Picture Association, after a long courtship; the lobbying group&#39;s other members are Disney, Netflix, Paramount, Sony, Universal, and WBD &lpar;Brooks Barnes/New York Times&rpar;](http://www.techmeme.com/240919/p22#a240919p22)
- - [Compared: AirPods 4 vs AirPods 3 -- Pro-grade budget audio](https://appleinsider.com/inside/airpods/vs/compared-airpods-4-vs-airpods-3----pro-grade-budget-audio?utm_medium=rss)
- - [Amazon launches Amelia, an AI tool to help third-party sellers resolve account issues and fetch sales and inventory data, in beta for select US sellers &lpar;CNBC&rpar;](http://www.techmeme.com/240919/p21#a240919p21)<!-- TECH:END -->
+ - [Palworld developer has no idea why Nintendo’s suing over its Pokémon-like game](https://www.theverge.com/2024/9/19/24248957/pocketpair-pokemon-patent-infrigement-lawsuit)
+ - [Strange Visual Auras Could Hold the Key to Better Migraine Treatments](https://www.wired.com/story/strange-visual-auras-could-hold-the-key-to-better-migraine-treatments/)
+ - [T-Mobile introduces T-Priority, a new network slice aimed at first responders](https://www.androidauthority.com/t-mobile-t-priority-3483144/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
