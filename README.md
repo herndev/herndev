@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Hipstamatic’s new app collects everyone’s party photos for you](https://www.theverge.com/2024/9/19/24248903/hipstamatic-disposable-camera-app-ios-iphone)
- - [You might get offered promo codes if one of these delivery robots runs into you](https://www.theverge.com/2024/9/19/24249034/starship-technologies-delivery-robot-accident-promo-codes)
- - [The Apple Watch is now a better TV remote](https://www.theverge.com/2024/9/19/24249074/apple-watch-watchos-11-tv-remote)<!-- TECH:END -->
+ - [Apple&#39;s iPhone 16 &amp; iPhone 16 Pro battery capacities have been revealed](https://appleinsider.com/articles/24/09/19/apples-iphone-16-iphone-16-pro-battery-capacities-have-been-revealed?utm_medium=rss)
+ - [You can still get the Samsung Galaxy Z Fold 6 and Z Flip 6 at steep discounts!](https://www.androidauthority.com/samsung-galaxy-z-fold-6-galazy-z-flip-6-deals-3483223/)
+ - [Google’s cute talking Pixel and iPhone are back to welcome Apple to the world of RCS](https://www.androidauthority.com/google-rcs-apple-3483224/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
