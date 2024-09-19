@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Fight A Golden Hippo, Get A Thorny Incantation, In Shadow Of The Erdtree](https://kotaku.com/elden-ring-shadow-erdtree-aspects-crucible-thorns-1851651561)
- - [Today&#39;s Wordle answer for Thursday, September 19](https://www.pcgamer.com/games/puzzle/wordle-answer-today-September-19-2024)
- - [Agatha All Along’s unnamed ‘Teen’ is probably this familiar Marvel Comics character](https://www.polygon.com/marvel/453241/who-is-teen-in-agatha-all-along)<!-- GAME:END -->
+ - [Nintendo and Pokémon Co. sue Palworld for patent infringement](https://www.polygon.com/news/453369/nintendo-pokemon-co-palworld-lawsuit)
+ - [You Can Wear The Armor Of Shadow Of The Erdtree&#39;s Final Boss, But You Have To Beat Him First](https://kotaku.com/elden-ring-shadow-erdtree-young-lion-s-armor-set-guide-1851651490)
+ - [AceZone A-Spire Wireless review](https://www.pcgamer.com/hardware/gaming-headsets/acezone-a-spire-wireless-review)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
