@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s new OS public betas offer a glimpse of Apple Intelligence](https://appleinsider.com/articles/24/09/19/apples-new-os-public-betas-offer-a-glimpse-of-apple-intelligence?utm_medium=rss)
- - [Apple pulls MacBook component supplier shipments over quality issues](https://appleinsider.com/articles/24/09/19/apple-pulls-macbook-component-supplier-shipments-over-quality-issues?utm_medium=rss)
- - [Display shipments for new MacBook Air, iPad rumored to start in October](https://appleinsider.com/articles/24/09/19/display-shipments-for-new-macbook-air-ipad-rumored-to-start-in-october?utm_medium=rss)<!-- TECH:END -->
+ - [Hipstamatic’s new app collects everyone’s party photos for you](https://www.theverge.com/2024/9/19/24248903/hipstamatic-disposable-camera-app-ios-iphone)
+ - [You might get offered promo codes if one of these delivery robots runs into you](https://www.theverge.com/2024/9/19/24249034/starship-technologies-delivery-robot-accident-promo-codes)
+ - [The Apple Watch is now a better TV remote](https://www.theverge.com/2024/9/19/24249074/apple-watch-watchos-11-tv-remote)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
