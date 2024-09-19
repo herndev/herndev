@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [New BenQ monitor deals for your Mac deliver discounts of up to $200 off &amp; lowest prices ever](https://appleinsider.com/articles/24/09/19/new-benq-monitor-deals-for-your-mac-deliver-discounts-of-up-to-200-off-lowest-prices-ever?utm_medium=rss)
- - [Microsoft launches a Windows app for iPhones, Macs, and Android devices](https://www.theverge.com/2024/9/19/24249087/microsoft-windows-app-ios-ipados-macos-web-general-availability)
- - [Where to preorder Microsoft’s special-edition Galaxy Black Xbox Series X](https://www.theverge.com/24247123/microsoft-xbox-series-x-2tb-galaxy-black-special-edition-preorder-buy-price-release-date)<!-- TECH:END -->
+ - [Apple&#39;s new OS public betas offer a glimpse of Apple Intelligence](https://appleinsider.com/articles/24/09/19/apples-new-os-public-betas-offer-a-glimpse-of-apple-intelligence?utm_medium=rss)
+ - [Apple pulls MacBook component supplier shipments over quality issues](https://appleinsider.com/articles/24/09/19/apple-pulls-macbook-component-supplier-shipments-over-quality-issues?utm_medium=rss)
+ - [Display shipments for new MacBook Air, iPad rumored to start in October](https://appleinsider.com/articles/24/09/19/display-shipments-for-new-macbook-air-ipad-rumored-to-start-in-october?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
