@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Free Play Days – 505 Games Takeover Featuring 10 Games](https://news.xbox.com/en-us/2024/09/19/free-play-days-505-games-takeover-featuring-10-games/)
- - [The Rings of  Power is struggling to portray what power actually means](https://www.polygon.com/lotr-rings-of-power/452990/trop-episode-6-review-sauron-celebrimbor-numenor)
- - [13 things you should know before starting God of War Ragnarök](https://www.polygon.com/god-of-war-ragnarok-guide/23447280/tips-tricks-beginners-guide-kratos-atreus)<!-- GAME:END -->
+ - [D&amp;#038;D’s new Player’s Handbook unlocks smart options for thickheaded tanks](https://www.polygon.com/dnd-dungeons-dragons/452893/new-weapon-mastery-rules-players-handbook)
+ - [Agatha All Along Star Sasheer Zamata On Witchcraft And Star Trek](https://kotaku.com/agatha-all-along-sasheer-zamata-star-trek-snl-1851652795)
+ - [Is Nintendo suing the Palworld devs over a patent on throwing Poké Balls?](https://www.pcgamer.com/games/survival-crafting/is-nintendo-suing-the-palworld-devs-over-a-patent-on-throwing-poke-balls)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
