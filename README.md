@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [One last selfie](http://9gag.com/gag/avyO7nq)
- - ⏩ [High definition too](http://9gag.com/gag/aQz3ME2)
- - 👉 [Welcome To University](http://9gag.com/gag/aAyxw92)<!-- MEMES:END -->
+ - 💣 [Infinite money glitch](http://9gag.com/gag/aRB3jnA)
+ - ⏩ [In case you were wondering how much brain surgery costs.](http://9gag.com/gag/aMVj8WP)
+ - 👉 [He leaves the \u201csmart\u201d car parking itself. The car decides it doesn\u2019t fit and drives off](http://9gag.com/gag/aQz3M97)<!-- MEMES:END -->
 
 ---
 
