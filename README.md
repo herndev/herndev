@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [V\u00f5 Thi Thang smiling after being sentenced to 20 years hard labour in a prison camp by the South Vietnamese govt. After being sentenced she reportedly smiled at the judge and said `20 years? Your government won&#39;t last that long](http://9gag.com/gag/abAM6D9)
- - ⏩ [Cargasm](http://9gag.com/gag/a2vo5AO)
- - 👉 [This may be the funniest special op in the history of special ops, maybe ever.](http://9gag.com/gag/aXPx9mv)<!-- MEMES:END -->
+ - 💣 [Oh deer](http://9gag.com/gag/a7oMZ9e)
+ - ⏩ [They are eating the geese](http://9gag.com/gag/aND1deA)
+ - 👉 [Toy cars get into a bad crash](http://9gag.com/gag/aRB3V1B)<!-- MEMES:END -->
 
 ---
 
