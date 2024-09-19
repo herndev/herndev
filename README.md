@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Concord’s director reportedly steps down](https://www.theverge.com/2024/9/19/24249358/sony-playstation-concord-director-steps-down)
- - [Deal: The Ember Mug 2 smart mug is 40% off, only today!](https://www.androidauthority.com/ember-mug-2-deal-2-3483222/)
- - [Memo: Disney plans to stop using Slack in most units by the end of 2024, after a hacking group leaked 1TB+ of its data, including 44M Slack messages, in July &lpar;Robbie Whelan/Wall Street Journal&rpar;](http://www.techmeme.com/240919/p35#a240919p35)<!-- TECH:END -->
+ - [US online passport renewal is now fully open for business](https://www.theverge.com/2024/9/19/24249413/us-online-passport-renewal-website)
+ - [Check out incident reports working on Android Auto](https://www.androidauthority.com/google-maps-android-auto-incident-report-3483287/)
+ - [macOS Sequoia causing issues with third-party security tools and web browsers](https://appleinsider.com/articles/24/09/19/macos-sequoia-causing-issues-with-third-party-security-tools-and-web-browsers?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
