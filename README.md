@@ -46,7 +46,7 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Life be like](http://9gag.com/gag/aZZ3pRQ)
+ - 💣 [One last selfie](http://9gag.com/gag/avyO7nq)
  - ⏩ [High definition too](http://9gag.com/gag/aQz3ME2)
  - 👉 [Welcome To University](http://9gag.com/gag/aAyxw92)<!-- MEMES:END -->
 
