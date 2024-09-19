@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Mercor, a jobs marketplace that uses AI to vet and interview candidates, raised a $32M Series A led by Benchmark at a $250M valuation and says it&#39;s profitable &lpar;Alex Konrad/Forbes&rpar;](http://www.techmeme.com/240918/p46#a240918p46)
  - [Best Showerhead Filters of 2024](https://www.cnet.com/health/personal-care/best-shower-filter/#ftag=CAD590a51e)
- - [Agatha All Along is a whimsical road trip through Marvel’s world of witchcraft](https://www.theverge.com/2024/9/18/24246402/agatha-all-along-review)
- - [Best Dash Cam Deals: Save Over $100 on Top-Rated Dash Cams](https://www.cnet.com/roadshow/news/best-dash-cam-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Agatha All Along is a whimsical road trip through Marvel’s world of witchcraft](https://www.theverge.com/2024/9/18/24246402/agatha-all-along-review)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
