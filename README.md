@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Cargasm](http://9gag.com/gag/a2vo5AO)
- - ⏩ [Harry&#39;s trying to make a different kind of magic, if you know what I mean](http://9gag.com/gag/axy10QM)
- - 👉 [Better make sure nobody is watching](http://9gag.com/gag/ajPEX9G)<!-- MEMES:END -->
+ - 💣 [Only one Concord player left online.](http://9gag.com/gag/aoyNpjw)
+ - ⏩ [China, middle schoolers cheering for lifting the ban on ponytail](http://9gag.com/gag/a4P7Zp1)
+ - 👉 [Oh deer](http://9gag.com/gag/a7oMZ9e)<!-- MEMES:END -->
 
 ---
 
