@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Zelda-Inspired Plucky Squire Shows What Happens When A Game Doesn&#39;t Trust Its Players](https://kotaku.com/the-plucky-squire-zelda-inspiration-too-on-rails-1851653126)
- - [Dead Rising Deluxe Remaster fixes most of what made Dead Rising a flawed classic](https://www.polygon.com/review/453309/dead-rising-deluxe-remaster-review-capcom)
- - [Best DTIR 30-06 loadout, class build in Modern Warfare 3](https://www.polygon.com/modern-warfare-3-guides/453839/best-dtir-30-06-loadout-class-build-mw3)<!-- GAME:END -->
+ - [The Adventure Zone’s new season mixes dice with Saturday morning cartoons](https://www.polygon.com/comedy/445805/adventure-zone-new-season-abnimals-premiere-interview)
+ - [A year after extraction shooter The Cycle: Frontier was shut down, it&#39;s back—well, in Fortnite at least](https://www.pcgamer.com/games/fps/a-year-after-extraction-shooter-the-cycle-frontier-was-shut-down-its-backwell-in-fortnite-at-least)
+ - [Several emergency patches later, Blizzard almost has WoW&#39;s new solo dungeons figured out](https://www.pcgamer.com/games/world-of-warcraft/several-emergency-patches-later-blizzard-almost-has-wow-s-new-solo-dungeons-figured-out)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
