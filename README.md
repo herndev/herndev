@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Infinite money glitch](http://9gag.com/gag/aRB3jnA)
- - ⏩ [In case you were wondering how much brain surgery costs.](http://9gag.com/gag/aMVj8WP)
- - 👉 [He leaves the \u201csmart\u201d car parking itself. The car decides it doesn\u2019t fit and drives off](http://9gag.com/gag/aQz3M97)<!-- MEMES:END -->
+ - 💣 [Upvote the money cat. It will bring you nothing but it&#39;s a cat. And has money. Isn&#39;t it so incredible attractive?](http://9gag.com/gag/aE0xB8G)
+ - ⏩ [Bro it&#39;s just a prank, the prank](http://9gag.com/gag/a4P77M1)
+ - 👉 [Spray Grass then Water later](http://9gag.com/gag/aLnj8YP)<!-- MEMES:END -->
 
 ---
 
