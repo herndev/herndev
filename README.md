@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Grab One Of Shadow Of The Erdtree&#39;s Best Shields, Guarded By A Ghost](https://kotaku.com/elden-ring-shadow-erdtree-serpent-crest-shield-guide-1851651352)
- - [Ara: History Untold looks a lot like Civilization until you realize there&#39;s no hexes: &#39;We&#39;re not playing a board game, we&#39;re actually trying to simulate some of what we see in real life&#39;](https://www.pcgamer.com/games/strategy/ara-history-untold-regions-vs-hexes-interview)
- - [Friendship restored with Steam: Valve has fixed the screenshot manager and all is right with the world](https://www.pcgamer.com/gaming-industry/friendship-restored-with-steam-valve-has-fixed-the-screenshot-manager-and-all-is-right-with-the-world)<!-- GAME:END -->
+ - [Agatha All Along brews together WandaVision, Doctor Strange, and Darkhold lore](https://www.polygon.com/marvel/453203/agatha-all-along-darkhold-scarlet-witch-where-dead-body-who)
+ - [Just as it looked like Palworld might escape Nintendo&#39;s gaze, the lawsuit has been filed: Nintendo is suing Pocketpair for patent infringement](https://www.pcgamer.com/games/rpg/nintendo-is-suing-the-palworld-developer-claiming-it-infringes-on-patents)
+ - [Nintendo And The Pokémon Company Are Suing Palworld Developer](https://kotaku.com/palworld-pokemon-company-lawsuit-nintendo-pocketpair-1851652124)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
