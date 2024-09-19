@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [YouTube’s new way to interrupt your viewing is going wide](https://www.androidauthority.com/youtube-pause-ads-rollout-3482993/)
- - [Content Creators in the Adult Industry Want a Say in AI Rules](https://www.wired.com/story/content-creators-in-the-adult-industry-want-a-say-in-ai-rules/)
- - [The Pixel Studio app just got a welcome sharing addition](https://www.androidauthority.com/google-pixel-studio-sharing-images-feature-3481574/)<!-- TECH:END -->
+ - [Study: unintended electromagnetic radiation from second-gen Starlink satellites is stronger than first-gen, causing 32x more interference with radio telescopes &lpar;Georgina Rannard/BBC&rpar;](http://www.techmeme.com/240919/p9#a240919p9)
+ - [Bluesky addresses how it approaches trust and safety concerns on the platform, including piloting initiatives to deal with bad actors, abuse, and spam &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/240919/p8#a240919p8)
+ - [It’s official: OPPO Color OS 15 has a launch date](https://www.androidauthority.com/oppo-color-os-15-release-date-3483005/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
