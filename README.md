@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Before Terminator Zero, Batman Ninja revitalized an American franchise by setting it in Japan](https://www.polygon.com/entertainment/452233/batman-ninja-anime-watch-terminator-zero-japan)
- - [Google finally wins a court case and gets out of a €1.49 billion fine over anti-competitive practices](https://www.pcgamer.com/hardware/google-finally-wins-a-court-case-and-gets-out-of-a-euro149-billion-fine-over-anti-competitive-practices)
- - [&#39;It is truly unfortunate&#39;: Palworld responds to Nintendo&#39;s lawsuit while also continuing to &#39;strive to create a game that our fans can be proud of&#39;](https://www.pcgamer.com/games/survival-crafting/it-is-truly-unfortunate-palworld-responds-to-nintendos-lawsuit-while-also-continuing-to-strive-to-create-a-game-that-our-fans-can-be-proud-of)<!-- GAME:END -->
+ - [Celebrating 30 years of PlayStation with a nostalgic look](https://blog.playstation.com/2024/09/19/celebrating-30-years-of-playstation-with-a-nostalgic-look/)
+ - [We’ve Seen How Dragon Age: The Veilguard Looks – Here’s How It Plays](https://news.xbox.com/en-us/2024/09/19/dragon-age-the-veilguard-hands-on/)
+ - [Dragon Age: The Veilguard’s press preview gave me the reassurance I was looking for](https://www.polygon.com/impressions/452864/dragon-age-the-veilguard-preview-pc)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
