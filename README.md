@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [WhatsApp could soon let you theme your chats. Here’s how it would look](https://www.androidauthority.com/whatsapp-preset-chat-themes-demo-3482957/)
- - [In an open letter coordinated by Meta, more than two dozen companies warned that the EU might reap fewer rewards of AI because of the bloc&#39;s tech regulations &lpar;Kim Mackrael/Wall Street Journal&rpar;](http://www.techmeme.com/240919/p5#a240919p5)
- - [Android 15 release date: When is the next update coming?](https://www.androidauthority.com/android-15-release-schedule-3415324/)<!-- TECH:END -->
+ - [The Pixel Studio app just got a welcome sharing addition](https://www.androidauthority.com/google-pixel-studio-sharing-images-feature-3481574/)
+ - [A UN advisory body makes seven recommendations for governing AI, including establishing a panel to provide impartial and reliable scientific knowledge about AI &lpar;Supantha Mukherjee/Reuters&rpar;](http://www.techmeme.com/240919/p7#a240919p7)
+ - [Analysis: Elon Musk, apparently unaware of Tenet Media&#39;s alleged Russian funding, replied to or reposted content from accounts tied to Tenet at least 60 times &lpar;David Ingram/NBC News&rpar;](http://www.techmeme.com/240919/p6#a240919p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
