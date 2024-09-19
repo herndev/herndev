@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Visit Bali or Bora Bora Maldives](http://9gag.com/gag/abAMpZ8)
- - ⏩ [The perfect youtube channel doesn&#39;t exi...](http://9gag.com/gag/ayNX8rY)
- - 👉 [There are no sause, only glory for the emperor](http://9gag.com/gag/a0eKpVB)<!-- MEMES:END -->
+ - 💣 [How palantiris were made](http://9gag.com/gag/aVv3MD2)
+ - ⏩ [One last selfie](http://9gag.com/gag/avyO7nq)
+ - 👉 [As a French person, I thought that the whole world loved me and my country, that our food and cities were amazing, that our nature was magnificent. Then I met 9GAG and learned the truth the hard way.](http://9gag.com/gag/ae9Mbjq)<!-- MEMES:END -->
 
 ---
 
