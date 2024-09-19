@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Singer Nick Patera has the ability to switch between both male and female vocals at will](http://9gag.com/gag/axy1g4W)
- - ⏩ [An Israeli cyberattack caused explosions in pagers used by Hezbollah members for communication, wounding thousands in Lebanon and Syria.&lpar;sources and videos in comments&rpar;](http://9gag.com/gag/arygKvV)
- - 👉 [Rapist is let of after having his sister raped.](http://9gag.com/gag/axy1jKY)<!-- MEMES:END -->
+ - 💣 [Cargasm](http://9gag.com/gag/a2vo5AO)
+ - ⏩ [9gaggers... its 2012..](http://9gag.com/gag/aD2xod7)
+ - 👉 [Visit Bali or Bora Bora Maldives](http://9gag.com/gag/abAMpZ8)<!-- MEMES:END -->
 
 ---
 
