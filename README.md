@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [V\u00f5 Thi Thang smiling after being sentenced to 20 years hard labour in a prison camp by the South Vietnamese govt. After being sentenced she reportedly smiled at the judge and said `20 years? Your government won&#39;t last that long](http://9gag.com/gag/abAM6D9)
- - ⏩ [Visit Bali or Bora Bora Maldives](http://9gag.com/gag/abAMpZ8)
- - 👉 [Video of the Titan imploded sub now released](http://9gag.com/gag/azxXAMN)<!-- MEMES:END -->
+ - 💣 [It&#39;s Wednesday , my dudes](http://9gag.com/gag/a4P7jVm)
+ - ⏩ [Oh deer](http://9gag.com/gag/a7oMZ9e)
+ - 👉 [Singer Nick Patera has the ability to switch between both male and female vocals at will](http://9gag.com/gag/axy1g4W)<!-- MEMES:END -->
 
 ---
 
