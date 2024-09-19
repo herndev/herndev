@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Fight A Golden Hippo, Get A Thorny Incantation, In Shadow Of The Erdtree](https://kotaku.com/elden-ring-shadow-erdtree-aspects-crucible-thorns-1851651561)
  - [Today&#39;s Wordle answer for Thursday, September 19](https://www.pcgamer.com/games/puzzle/wordle-answer-today-September-19-2024)
- - [Agatha All Along’s unnamed ‘Teen’ is probably this familiar Marvel Comics character](https://www.polygon.com/marvel/453241/who-is-teen-in-agatha-all-along)
- - [Rellana&#39;s Armor Lets You Dress As One Of Shadow Of The Erdtree&#39;s Coolest Bosses](https://kotaku.com/elden-ring-shadow-erdtree-rellana-s-armor-set-guide-1851651378)<!-- GAME:END -->
+ - [Agatha All Along’s unnamed ‘Teen’ is probably this familiar Marvel Comics character](https://www.polygon.com/marvel/453241/who-is-teen-in-agatha-all-along)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
