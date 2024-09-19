@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Marvel Vs. Capcom Fighting Collection Arcade Classics Is Packed With Secret Characters](https://kotaku.com/marvel-vs-capcom-fighting-collection-unlock-secrets-1851652522)
- - [Frostpunk 2: How to transfer oil and other resources from your colony to your city](https://www.pcgamer.com/games/city-builder/frostpunk-2-transfer-oil-colony)
- - [Star Wars Outlaws&#39; Speeder Bike Sucks, Here&#39;s How to Improve It](https://kotaku.com/star-wars-outlaws-speeder-bike-upgrade-guide-1851652655)<!-- GAME:END -->
+ - [It’s Always A Good Time To Return To Return To Monkey Island](https://kotaku.com/return-to-monkey-island-lucasarts-anniversary-1851653030)
+ - [Minecraft Live returns on September 28 with &#39;a new look and feel&#39;](https://www.pcgamer.com/games/survival-crafting/minecraft-live-returns-on-september-28-with-a-new-look-and-feel)
+ - [Dragon Age: The Veilguard&#39;s character creator fixes my old nemesis from Inquisition: the lighting](https://www.pcgamer.com/games/dragon-age/dragon-age-the-veilguards-character-creator-fixes-my-old-nemesis-from-inquisition-the-lighting)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
