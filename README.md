@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [D&amp;#038;D’s new Player’s Handbook unlocks smart options for thickheaded tanks](https://www.polygon.com/dnd-dungeons-dragons/452893/new-weapon-mastery-rules-players-handbook)
- - [Agatha All Along Star Sasheer Zamata On Witchcraft And Star Trek](https://kotaku.com/agatha-all-along-sasheer-zamata-star-trek-snl-1851652795)
- - [Is Nintendo suing the Palworld devs over a patent on throwing Poké Balls?](https://www.pcgamer.com/games/survival-crafting/is-nintendo-suing-the-palworld-devs-over-a-patent-on-throwing-poke-balls)<!-- GAME:END -->
+ - [Marvel Vs. Capcom Fighting Collection Arcade Classics Is Packed With Secret Characters](https://kotaku.com/marvel-vs-capcom-fighting-collection-unlock-secrets-1851652522)
+ - [Frostpunk 2: How to transfer oil and other resources from your colony to your city](https://www.pcgamer.com/games/city-builder/frostpunk-2-transfer-oil-colony)
+ - [Star Wars Outlaws&#39; Speeder Bike Sucks, Here&#39;s How to Improve It](https://kotaku.com/star-wars-outlaws-speeder-bike-upgrade-guide-1851652655)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
