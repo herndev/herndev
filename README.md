@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Palworld developer has no idea why Nintendo’s suing over its Pokémon-like game](https://www.theverge.com/2024/9/19/24248957/pocketpair-pokemon-patent-infrigement-lawsuit)
- - [Strange Visual Auras Could Hold the Key to Better Migraine Treatments](https://www.wired.com/story/strange-visual-auras-could-hold-the-key-to-better-migraine-treatments/)
- - [T-Mobile introduces T-Priority, a new network slice aimed at first responders](https://www.androidauthority.com/t-mobile-t-priority-3483144/)<!-- TECH:END -->
+ - [The new Microsoft Flight Simulator will be a lot smaller](https://www.theverge.com/2024/9/19/24248947/microsoft-flight-simulator-2024-cloud-release-date)
+ - [Pixel Watch 2 is selling at a crazy low $75 at select Target stores](https://www.androidauthority.com/pixel-watch-2-clearance-sale-3483136/)
+ - [Sources: server CPU designer Ampere is exploring a potential sale; Ampere was reportedly valued at $8B in a proposed minority investment in 2021 &lpar;Bloomberg&rpar;](http://www.techmeme.com/240919/p27#a240919p27)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
