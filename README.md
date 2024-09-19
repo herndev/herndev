@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s iPhone 16 &amp; iPhone 16 Pro battery capacities have been revealed](https://appleinsider.com/articles/24/09/19/apples-iphone-16-iphone-16-pro-battery-capacities-have-been-revealed?utm_medium=rss)
- - [You can still get the Samsung Galaxy Z Fold 6 and Z Flip 6 at steep discounts!](https://www.androidauthority.com/samsung-galaxy-z-fold-6-galazy-z-flip-6-deals-3483223/)
- - [Google’s cute talking Pixel and iPhone are back to welcome Apple to the world of RCS](https://www.androidauthority.com/google-rcs-apple-3483224/)<!-- TECH:END -->
+ - [Sony celebrates 30 years of PlayStation with a PS1 makeover for the PS5 and PS5 Pro](https://www.androidauthority.com/playstation-30th-anniversary-consoles-3483214/)
+ - [The best smartphone you can buy for under $500](https://www.theverge.com/21420196/best-budget-smartphone-cheap)
+ - [OpenAI makes its latest AI models, o1-preview and o1-mini, available to all ChatGPT Enterprise and ChatGPT Edu customers &lpar;Michael Nu&amp;ntilde;ez/VentureBeat&rpar;](http://www.techmeme.com/240919/p34#a240919p34)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
