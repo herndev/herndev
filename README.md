@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Celebrating 30 years of PlayStation with a nostalgic look](https://blog.playstation.com/2024/09/19/celebrating-30-years-of-playstation-with-a-nostalgic-look/)
- - [We’ve Seen How Dragon Age: The Veilguard Looks – Here’s How It Plays](https://news.xbox.com/en-us/2024/09/19/dragon-age-the-veilguard-hands-on/)
- - [Dragon Age: The Veilguard’s press preview gave me the reassurance I was looking for](https://www.polygon.com/impressions/452864/dragon-age-the-veilguard-preview-pc)<!-- GAME:END -->
+ - [Dragon Age: The Veilguard – hands-on report](https://blog.playstation.com/2024/09/19/dragon-age-the-veilguard-hands-on-report/)
+ - [Dead Rising Deluxe Remaster: Improvements to Zombie Paradise](https://news.xbox.com/en-us/2024/09/19/dead-rising-deluxe-remaster-changes-improvements/)
+ - [The holy THOCK of Awekeys&#39; Full Metal Keycaps cannot make up for the fact that I&#39;m a terrible typist](https://www.pcgamer.com/hardware/gaming-keyboards/the-holy-thock-of-awekeys-full-metal-keycaps-cannot-make-up-for-the-fact-that-im-a-terrible-typist)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
