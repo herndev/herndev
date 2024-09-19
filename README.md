@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Study: unintended electromagnetic radiation from second-gen Starlink satellites is stronger than first-gen, causing 32x more interference with radio telescopes &lpar;Georgina Rannard/BBC&rpar;](http://www.techmeme.com/240919/p9#a240919p9)
- - [Bluesky addresses how it approaches trust and safety concerns on the platform, including piloting initiatives to deal with bad actors, abuse, and spam &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/240919/p8#a240919p8)
- - [It’s official: OPPO Color OS 15 has a launch date](https://www.androidauthority.com/oppo-color-os-15-release-date-3483005/)<!-- TECH:END -->
+ - [Behold, the black Apple Watch Ultra 2](https://www.theverge.com/2024/9/19/24248380/apple-watch-ultra-2-black-smartwatch-wearables)
+ - [The estates of dead celebrities like Laurence Olivier and James Dean partnered with ElevenLabs on its &quot;iconic voices&quot; project, making millions after their death &lpar;Mia Dawkins/Bloomberg&rpar;](http://www.techmeme.com/240919/p13#a240919p13)
+ - [Layoffs.fyi: tech companies have laid off ~137,000 people since January 2024; Indeed.com: software development job postings are down 30%+ since February 2020 &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240919/p12#a240919p12)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
