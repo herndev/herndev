@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [How palantiris were made](http://9gag.com/gag/aVv3MD2)
- - ⏩ [One last selfie](http://9gag.com/gag/avyO7nq)
- - 👉 [As a French person, I thought that the whole world loved me and my country, that our food and cities were amazing, that our nature was magnificent. Then I met 9GAG and learned the truth the hard way.](http://9gag.com/gag/ae9Mbjq)<!-- MEMES:END -->
+ - 💣 [I was afraid of nothing, until i saw this picture](http://9gag.com/gag/aRB3A6j)
+ - ⏩ [Video of the Titan imploded sub now released](http://9gag.com/gag/azxXAMN)
+ - 👉 [The true wingman](http://9gag.com/gag/avyO7mE)<!-- MEMES:END -->
 
 ---
 
