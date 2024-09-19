@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [It’s Always A Good Time To Return To Return To Monkey Island](https://kotaku.com/return-to-monkey-island-lucasarts-anniversary-1851653030)
- - [Minecraft Live returns on September 28 with &#39;a new look and feel&#39;](https://www.pcgamer.com/games/survival-crafting/minecraft-live-returns-on-september-28-with-a-new-look-and-feel)
- - [Dragon Age: The Veilguard&#39;s character creator fixes my old nemesis from Inquisition: the lighting](https://www.pcgamer.com/games/dragon-age/dragon-age-the-veilguards-character-creator-fixes-my-old-nemesis-from-inquisition-the-lighting)<!-- GAME:END -->
+ - [Zelda-Inspired Plucky Squire Shows What Happens When A Game Doesn&#39;t Trust Its Players](https://kotaku.com/the-plucky-squire-zelda-inspiration-too-on-rails-1851653126)
+ - [Dead Rising Deluxe Remaster fixes most of what made Dead Rising a flawed classic](https://www.polygon.com/review/453309/dead-rising-deluxe-remaster-review-capcom)
+ - [Best DTIR 30-06 loadout, class build in Modern Warfare 3](https://www.polygon.com/modern-warfare-3-guides/453839/best-dtir-30-06-loadout-class-build-mw3)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
