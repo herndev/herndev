@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [It&#39;s Wednesday , my dudes](http://9gag.com/gag/a4P7jVm)
- - ⏩ [Oh deer](http://9gag.com/gag/a7oMZ9e)
+ - 💣 [Oh deer](http://9gag.com/gag/a7oMZ9e)
+ - ⏩ [Nice tiddies](http://9gag.com/gag/abAMpqr)
  - 👉 [Singer Nick Patera has the ability to switch between both male and female vocals at will](http://9gag.com/gag/axy1g4W)<!-- MEMES:END -->
 
 ---
