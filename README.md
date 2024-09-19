@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Dragon Age: The Veilguard – hands-on report](https://blog.playstation.com/2024/09/19/dragon-age-the-veilguard-hands-on-report/)
- - [Dead Rising Deluxe Remaster: Improvements to Zombie Paradise](https://news.xbox.com/en-us/2024/09/19/dead-rising-deluxe-remaster-changes-improvements/)
- - [The holy THOCK of Awekeys&#39; Full Metal Keycaps cannot make up for the fact that I&#39;m a terrible typist](https://www.pcgamer.com/hardware/gaming-keyboards/the-holy-thock-of-awekeys-full-metal-keycaps-cannot-make-up-for-the-fact-that-im-a-terrible-typist)<!-- GAME:END -->
+ - [Free Play Days – 505 Games Takeover Featuring 10 Games](https://news.xbox.com/en-us/2024/09/19/free-play-days-505-games-takeover-featuring-10-games/)
+ - [The Rings of  Power is struggling to portray what power actually means](https://www.polygon.com/lotr-rings-of-power/452990/trop-episode-6-review-sauron-celebrimbor-numenor)
+ - [13 things you should know before starting God of War Ragnarök](https://www.polygon.com/god-of-war-ragnarok-guide/23447280/tips-tricks-beginners-guide-kratos-atreus)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
