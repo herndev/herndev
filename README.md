@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Here’s another chance to get the Apple iPad 9th Generation for $199](https://www.androidauthority.com/apple-ipad-9th-generation-deal-4-3482884/)
- - [Playtika agrees to buy Tel Aviv-based mobile game maker SuperPlay for $700M, and up to an additional $1.25B if SuperPlay hits financial targets over three years &lpar;Dean Takahashi/VentureBeat&rpar;](http://www.techmeme.com/240918/p43#a240918p43)
- - [Google Workspace users will see their Calendars front and center in Chrome](https://www.theverge.com/2024/9/18/24248416/google-workspace-chrome-calendar-new0tabs)<!-- TECH:END -->
+ - [US Senate Warns Big Tech to Act Fast Against Election Meddling](https://www.wired.com/story/senate-hearing-with-us-tech-providers-on-election-threats/)
+ - [GTA V, one of the most popular Steam Deck games, is now ‘unsupported’](https://www.theverge.com/2024/9/18/24248585/gta-v-steam-deck-battleye)
+ - [Court filings: X has moved its official headquarters to Bastrop, Texas, a small town just outside of Austin that&#39;s also home to SpaceX and The Boring Company &lpar;Sarah Emerson/Forbes&rpar;](http://www.techmeme.com/240918/p44#a240918p44)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
