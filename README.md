@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Android 15 release date leaks: Get ready to have some Vanilla Ice Cream](https://www.androidauthority.com/android-15-release-date-leak-3482962/)
- - [The US House Committee on Energy and Commerce advanced KOSA and COPPA 2.0 on a voice vote despite discontent from some lawmakers over last-minute changes &lpar;Adi Robertson/The Verge&rpar;](http://www.techmeme.com/240919/p3#a240919p3)
- - [EU regulators say Microsoft&#39;s acquihire of Inflection&#39;s team will not be scrutinized under EU merger rules, after seven EU countries dropped their requests &lpar;Foo Yun Chee/Reuters&rpar;](http://www.techmeme.com/240919/p2#a240919p2)<!-- TECH:END -->
+ - [WhatsApp could soon let you theme your chats. Here’s how it would look](https://www.androidauthority.com/whatsapp-preset-chat-themes-demo-3482957/)
+ - [In an open letter coordinated by Meta, more than two dozen companies warned that the EU might reap fewer rewards of AI because of the bloc&#39;s tech regulations &lpar;Kim Mackrael/Wall Street Journal&rpar;](http://www.techmeme.com/240919/p5#a240919p5)
+ - [Android 15 release date: When is the next update coming?](https://www.androidauthority.com/android-15-release-schedule-3415324/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
