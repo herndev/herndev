@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Mercor, a jobs marketplace that uses AI to vet and interview candidates, raised a $32M Series A led by Benchmark at a $250M valuation and says it&#39;s profitable &lpar;Alex Konrad/Forbes&rpar;](http://www.techmeme.com/240918/p46#a240918p46)
- - [Best Showerhead Filters of 2024](https://www.cnet.com/health/personal-care/best-shower-filter/#ftag=CAD590a51e)
- - [Agatha All Along is a whimsical road trip through Marvel’s world of witchcraft](https://www.theverge.com/2024/9/18/24246402/agatha-all-along-review)<!-- TECH:END -->
+ - [Two researchers say a security conference in China potentially used the event as a secret espionage operation to collect intelligence from an unknown target &lpar;Kim Zetter/Wired&rpar;](http://www.techmeme.com/240918/p47#a240918p47)
+ - [Nuphy Air60 V2 review: tiny &amp; mighty mechanical keyboard gets better](https://appleinsider.com/articles/24/09/19/nuphy-air60-v2-review-tiny-mighty-mechanical-keyboard-gets-better?utm_medium=rss)
+ - [Today&#39;s NYT Strands Hints, Answers and Help for Sept. 19, #200](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-sept-19-200/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
