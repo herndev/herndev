@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [US Senate Warns Big Tech to Act Fast Against Election Meddling](https://www.wired.com/story/senate-hearing-with-us-tech-providers-on-election-threats/)
- - [GTA V, one of the most popular Steam Deck games, is now ‘unsupported’](https://www.theverge.com/2024/9/18/24248585/gta-v-steam-deck-battleye)
- - [Court filings: X has moved its official headquarters to Bastrop, Texas, a small town just outside of Austin that&#39;s also home to SpaceX and The Boring Company &lpar;Sarah Emerson/Forbes&rpar;](http://www.techmeme.com/240918/p44#a240918p44)<!-- TECH:END -->
+ - [Best Showerhead Filters of 2024](https://www.cnet.com/health/personal-care/best-shower-filter/#ftag=CAD590a51e)
+ - [Agatha All Along is a whimsical road trip through Marvel’s world of witchcraft](https://www.theverge.com/2024/9/18/24246402/agatha-all-along-review)
+ - [Best Dash Cam Deals: Save Over $100 on Top-Rated Dash Cams](https://www.cnet.com/roadshow/news/best-dash-cam-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
