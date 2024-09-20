@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [8BitDo now sells the NES-themed keycaps from its retro keyboard](https://www.theverge.com/2024/9/20/24249970/8bitdo-keyboard-mechanical-keycap-nintendo)
- - [The Shade Room Founder Is Ready to Dial Down the Shade](https://www.wired.com/story/dial-up-angie-nwandu-the-shade-room/)
- - [Microsoft’s Copilot key will be able to launch apps on Windows 11 soon](https://www.theverge.com/2024/9/20/24250067/microsoft-windows-11-copilot-key-customization-apps)<!-- TECH:END -->
+ - [T-Mobile thinks more AI is just what its customer service needs](https://www.androidauthority.com/tmobile-openai-partnership-intentcx-3483689/)
+ - [Apple designers shed light on the new iPhone 16 Camera Control button](https://appleinsider.com/articles/24/09/20/apple-designers-shed-light-on-the-new-iphone-16-camera-control-button?utm_medium=rss)
+ - [The best deals you can get ahead of Amazon’s October Prime Day sale](https://www.theverge.com/24248182/amazon-october-prime-day-best-early-deals-echo-speakers-displays-fire-tablets-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
