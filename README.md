@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Rings of Power is wasting Middle-earth&amp;#8217;s magic](https://www.polygon.com/lotr-rings-of-power/454279/trop-magic-gandalf-rings-wasted)
- - [Polygon’s favorite Dungeons &amp;#038; Dragons accessories](https://www.polygon.com/gift-guide/446209/polygon-favorite-dungeons-and-dragons-books-dice-accessories)
- - [Frostpunk 2 factions and communities explained](https://www.pcgamer.com/games/city-builder/frostpunk-2-factions)<!-- GAME:END -->
+ - [Even more Lord of the Rings games are now free for Amazon Prime members](https://www.polygon.com/good-deals/448884/amazon-prime-free-lord-of-the-rings-game-deal)
+ - [Sega’s Steam Sale Offers Up A Ton Of Lengthy RPGs For A Bargain](https://kotaku.com/sega-steam-sale-persona-like-a-dragon-sonic-1851653985)
+ - [Space Marine sickos can rejoice thanks to a new Warhammer 40K  fan film on YouTube](https://www.polygon.com/culture/454409/auto-draft)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
