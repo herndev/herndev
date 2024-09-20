@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Spray Grass then Water later](http://9gag.com/gag/aLnj8YP)
- - ⏩ [Well done boy!](http://9gag.com/gag/aD2x1R7)
- - 👉 [Terr0rists in Lebanon right now](http://9gag.com/gag/a5QooMr)<!-- MEMES:END -->
+ - 💣 [Infinite money glitch](http://9gag.com/gag/aRB3jnA)
+ - ⏩ [Take it in slow](http://9gag.com/gag/avyOG3W)
+ - 👉 [Thought so hard the first time he lost brain cells](http://9gag.com/gag/awyXnGR)<!-- MEMES:END -->
 
 ---
 
