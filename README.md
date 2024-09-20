@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Yang Yuanqing, Lenovo&#39;s Chairman and CEO](http://9gag.com/gag/a34KMg5)
- - ⏩ [Know the simple rules](http://9gag.com/gag/a87oyG3)
- - 👉 [Ray meeting his new inmate.](http://9gag.com/gag/a87ooed)<!-- MEMES:END -->
+ - 💣 [One last selfie](http://9gag.com/gag/avyO7nq)
+ - ⏩ [If I can get away with this,I&#39;m now wondering what else I can get away with.](http://9gag.com/gag/aAyxD1Z)
+ - 👉 [Welcome To University](http://9gag.com/gag/aAyxw92)<!-- MEMES:END -->
 
 ---
 
