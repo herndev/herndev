@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Today&#39;s Wordle answer for Friday, September 20](https://www.pcgamer.com/games/puzzle/wordle-answer-today-september-19-2024)
- - [Cristin Milioti’s ascendant mafia boss Sofia Falcone is The Penguin’s standout villain](https://www.polygon.com/tv/453456/batman-penguin-hangman-sofia-falcone-comics-origin)
- - [Netflix announces Rebel Moon: Blood Line, a surprisingly fun mobile spinoff game](https://www.polygon.com/preview/453135/rebel-moon-netflix-video-game-trailer-beta)<!-- GAME:END -->
+ - [Give it up for Ryzen AI Max+: AMD&#39;s Strix Halo uber-APU model list and preliminary specs have leaked out](https://www.pcgamer.com/hardware/give-it-up-for-ryzen-ai-max-amds-strix-halo-uber-apu-model-list-and-preliminary-specs-have-leaked-out)
+ - [Somehow, the Magic: The Gathering animated series returned—Netflix announces that the show&#39;s still in the works after long silence](https://www.pcgamer.com/movies-tv/somehow-the-magic-the-gathering-animated-series-returned-netflix-announces-that-the-show-s-still-in-the-works-after-long-silence)
+ - [The Sword Lance Is A Real Show Of Strength In Shadow Of The Erdtree](https://kotaku.com/elden-ring-shadow-erdtree-heavy-lance-guide-1851652733)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
