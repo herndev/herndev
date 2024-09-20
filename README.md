@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone 17 may gain ProMotion on all models, under-display Face ID on Pro](https://appleinsider.com/articles/24/09/20/iphone-17-may-gain-promotion-on-all-models-under-display-face-id-on-pro?utm_medium=rss)
- - [Tumblr says it has seen a 222.99% growth in communities and 349.55% growth in users since the X ban in Brazil, with DAUs up 30% from 110K prior to the ban &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/240920/p13#a240920p13)
- - [Researcher reveals ‘catastrophic’ security flaw in the Arc browser](https://www.theverge.com/2024/9/20/24249919/arc-browser-boost-firebase-vulnerability-patched)<!-- TECH:END -->
+ - [8BitDo now sells the NES-themed keycaps from its retro keyboard](https://www.theverge.com/2024/9/20/24249970/8bitdo-keyboard-mechanical-keycap-nintendo)
+ - [The Shade Room Founder Is Ready to Dial Down the Shade](https://www.wired.com/story/dial-up-angie-nwandu-the-shade-room/)
+ - [Microsoft’s Copilot key will be able to launch apps on Windows 11 soon](https://www.theverge.com/2024/9/20/24250067/microsoft-windows-11-copilot-key-customization-apps)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
