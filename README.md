@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Show no mercy.](http://9gag.com/gag/a9ypYBD)
- - ⏩ [Visit Bali or Bora Bora Maldives](http://9gag.com/gag/abAMpZ8)
- - 👉 [Money can&#39;t buy happiness they said](http://9gag.com/gag/azxXAQZ)<!-- MEMES:END -->
+ - 💣 [Raise wages!](http://9gag.com/gag/azxXAnN)
+ - ⏩ [I don&#39;t blame them, Looks like a boy](http://9gag.com/gag/apR2pxM)
+ - 👉 [Now that is air support](http://9gag.com/gag/apR22qn)<!-- MEMES:END -->
 
 ---
 
