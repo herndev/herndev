@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Sword Art Online Fractured Daydream: “Link Start” the Open Network Test to Get Loot Ahead of the Full Game](https://news.xbox.com/en-us/2024/09/20/sword-art-online-fractured-daydream-link-start-the-open-network-test-to-get-loot-ahead-of-the-full-game/)
- - [Best Kastov LSW loadout, class build in Modern Warfare 3](https://www.polygon.com/modern-warfare-3-guides/453996/best-kastov-lsw-loadout-class-build-mw3)
- - [Dragon Age: The Veilguard keeps reminding that I&#39;m still angry with BioWare for its crimes against the qunari](https://www.pcgamer.com/games/dragon-age/dragon-age-the-veilguard-keeps-reminding-that-im-still-angry-with-bioware-for-its-crimes-against-the-qunari)<!-- GAME:END -->
+ - [The top 5 horror films to pair with Magic: The Gathering’s new set, Duskmourn](https://www.polygon.com/mtg-magic-the-gathering/453618/duskmourn-horror-movie-inspiration)
+ - [The Dragon Age Books, Comics, And More BioWare Recommends You Check Out Before The Veilguard](https://kotaku.com/dragon-age-veilguard-books-comics-missing-audio-drama-1851649328)
+ - [The next Like a Dragon game is a wild pirate-themed spinoff, and it’s out soon](https://www.polygon.com/news/454009/like-a-dragon-pirate-yakuza-in-hawaii-trailer-release-date)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
