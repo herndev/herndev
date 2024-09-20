@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Infinite money glitch](http://9gag.com/gag/aRB3jnA)
- - ⏩ [Take it in slow](http://9gag.com/gag/avyOG3W)
- - 👉 [Thought so hard the first time he lost brain cells](http://9gag.com/gag/awyXnGR)<!-- MEMES:END -->
+ - 💣 [Money can&#39;t buy happiness they said](http://9gag.com/gag/azxXAQZ)
+ - ⏩ [Now that is air support](http://9gag.com/gag/apR22qn)
+ - 👉 [Call an ambulance!!](http://9gag.com/gag/aGyj195)<!-- MEMES:END -->
 
 ---
 
