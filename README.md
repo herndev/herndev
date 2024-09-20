@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The top 5 horror films to pair with Magic: The Gathering’s new set, Duskmourn](https://www.polygon.com/mtg-magic-the-gathering/453618/duskmourn-horror-movie-inspiration)
- - [The Dragon Age Books, Comics, And More BioWare Recommends You Check Out Before The Veilguard](https://kotaku.com/dragon-age-veilguard-books-comics-missing-audio-drama-1851649328)
- - [The next Like a Dragon game is a wild pirate-themed spinoff, and it’s out soon](https://www.polygon.com/news/454009/like-a-dragon-pirate-yakuza-in-hawaii-trailer-release-date)<!-- GAME:END -->
+ - [Next Week on Xbox: New Games for September 23 to 27](https://news.xbox.com/en-us/2024/09/20/next-week-on-xbox-sept-23-to-27/)
+ - [New Cyberpunk anime coming from Netflix and CD Projekt Red](https://www.polygon.com/anime/454036/netflix-new-cyberpunk-anime-announcement-cd-projekt-red)
+ - [Pokémon TCG Pocket Streamlines The Card Game To Rival Marvel Snap](https://kotaku.com/pokemon-tcg-pocket-marvel-snap-1851653373)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
