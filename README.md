@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Up close with Sony’s PS5 Pro — and the 30th Anniversary model](https://www.theverge.com/2024/9/20/24249600/ps5-pro-30th-anniversary-photos)
- - [All your paranoia about social media sites surveilling you is probably spot-on](https://www.androidauthority.com/ftc-2024-report-social-media-surveillance-3483396/)
- - [Top Walmart Promo Codes for September 2024](https://www.wired.com/story/top-walmart-promo-codes/)<!-- TECH:END -->
+ - [iPhone 16 &amp; iPhone 16 Pro are now available in store](https://appleinsider.com/articles/24/09/20/iphone-16-iphone-16-pro-are-now-available-in-store?utm_medium=rss)
+ - [OPPO Find X8 takes on iPhone 16 in first official image](https://www.androidauthority.com/oppo-find-x8-series-official-image-iphone-16-3483406/)
+ - [Plank Firm Mattress Review 2024: An Ultra-Firm and Flippable Bed](https://www.cnet.com/health/sleep/plank-firm-mattress-review/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
