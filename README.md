@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [US online passport renewal is now fully open for business](https://www.theverge.com/2024/9/19/24249413/us-online-passport-renewal-website)
- - [Check out incident reports working on Android Auto](https://www.androidauthority.com/google-maps-android-auto-incident-report-3483287/)
- - [macOS Sequoia causing issues with third-party security tools and web browsers](https://appleinsider.com/articles/24/09/19/macos-sequoia-causing-issues-with-third-party-security-tools-and-web-browsers?utm_medium=rss)<!-- TECH:END -->
+ - [Sources: Concord&#39;s game director steps down, as Firewalk, the studio behind the PlayStation flop, is left in limbo, with some staffers expecting mass layoffs &lpar;Ethan Gach/Kotaku&rpar;](http://www.techmeme.com/240919/p36#a240919p36)
+ - [Want a power station? Anker has a couple of hot deals for you](https://www.androidauthority.com/anker-solix-c300-c800-power-station-deals-3483221/)
+ - [Thursday Night Football: How to Watch, Stream Patriots vs. Jets Tonight on Prime Video](https://www.cnet.com/tech/services-and-software/thursday-night-football-how-to-watch-stream-patriots-vs-jets-tonight-on-prime-video/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
