@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone 16 &amp; iPhone 16 Pro are now available in store](https://appleinsider.com/articles/24/09/20/iphone-16-iphone-16-pro-are-now-available-in-store?utm_medium=rss)
- - [OPPO Find X8 takes on iPhone 16 in first official image](https://www.androidauthority.com/oppo-find-x8-series-official-image-iphone-16-3483406/)
- - [Plank Firm Mattress Review 2024: An Ultra-Firm and Flippable Bed](https://www.cnet.com/health/sleep/plank-firm-mattress-review/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [You can now try Apple Intelligence without joining the developer program](https://www.androidauthority.com/ios-18-1-public-beta-3483458/)
+ - [Singapore-based crypto exchange BingX suffered a security hack on its hot wallet, resulting in a &quot;minor&quot; loss; PeckShield: the loss was $43M in cryptocurrencies &lpar;Vishal Chawla/The Block&rpar;](http://www.techmeme.com/240920/p3#a240920p3)
+ - [French digital health insurance startup Alan raised &amp;euro;173M led by Belgian bank Belfius Bank at a &amp;euro;4B valuation, bringing its total raised since 2021 to &amp;euro;500M+ &lpar;Benoit Berthelot/Bloomberg&rpar;](http://www.techmeme.com/240920/p2#a240920p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
