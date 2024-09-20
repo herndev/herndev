@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [T-Mobile thinks more AI is just what its customer service needs](https://www.androidauthority.com/tmobile-openai-partnership-intentcx-3483689/)
- - [Apple designers shed light on the new iPhone 16 Camera Control button](https://appleinsider.com/articles/24/09/20/apple-designers-shed-light-on-the-new-iphone-16-camera-control-button?utm_medium=rss)
- - [The best deals you can get ahead of Amazon’s October Prime Day sale](https://www.theverge.com/24248182/amazon-october-prime-day-best-early-deals-echo-speakers-displays-fire-tablets-sale)<!-- TECH:END -->
+ - [iPhone 17 may gain ProMotion on all models, no under-display Face ID on Pro](https://appleinsider.com/articles/24/09/20/iphone-17-may-gain-promotion-on-all-models-under-display-face-id-on-pro?utm_medium=rss)
+ - [Sources: Qualcomm made a takeover approach to Intel in recent days; Intel stock jumps 7%+ &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240920/p16#a240920p16)
+ - [The mystery of the Pixel Watch 3’s Performance Loop Band may nearly be over](https://www.androidauthority.com/pixel-watch-3-performance-loop-band-sales-3483685/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
