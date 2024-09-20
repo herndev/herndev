@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [9gaggers... Smile...](http://9gag.com/gag/aLnjgAA)
- - ⏩ [Realistic sound game](http://9gag.com/gag/aByxxzZ)
- - 👉 [A woman with tumors on her head documents her recovery journey.](http://9gag.com/gag/a7oMwR2)<!-- MEMES:END -->
+ - 💣 [One last selfie](http://9gag.com/gag/avyO7nq)
+ - ⏩ [Thursday](http://9gag.com/gag/ae9MM45)
+ - 👉 [Realistic sound game](http://9gag.com/gag/aByxxzZ)<!-- MEMES:END -->
 
 ---
 
