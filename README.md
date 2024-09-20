@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The iPhone camera is more confusing than ever](https://www.theverge.com/2024/9/20/24248356/iphone-16-camera-photographic-styles)
- - [Customers try out the iPhone 16 in Apple Stores around the world](https://appleinsider.com/articles/24/09/20/customers-try-out-the-iphone-16-in-apple-stores-around-the-world?utm_medium=rss)
- - [Unboxing the iPhone 16 Pro Max and Apple Watch Series 10](https://appleinsider.com/articles/24/09/20/unboxing-the-iphone-16-pro-max-and-apple-watch-series-10?utm_medium=rss)<!-- TECH:END -->
+ - [The official Google Pixel 9 case is a nice silicone cover but I wanted to see this one extra feature](https://www.androidauthority.com/official-google-pixel-9-case-review-3482011/)
+ - [Want to Get Into Founder Mode? You Should Be So Lucky](https://www.wired.com/story/plaintext-want-to-get-into-founder-mode-you-should-be-so-lucky/)
+ - [Welcome to the new and improved Verge Deals newsletter](https://www.theverge.com/2024/9/20/24249294/verge-deals-newsletter-subscribe-tech-discounts)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
