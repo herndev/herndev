@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Know the simple rules](http://9gag.com/gag/a87oyG3)
- - ⏩ [He leaves the \u201csmart\u201d car parking itself. The car decides it doesn\u2019t fit and drives off](http://9gag.com/gag/aQz3M97)
- - 👉 [One last selfie](http://9gag.com/gag/avyO7nq)<!-- MEMES:END -->
+ - 💣 [High definition too](http://9gag.com/gag/aQz3ME2)
+ - ⏩ [Only one Concord player left online.](http://9gag.com/gag/aoyNpjw)
+ - 👉 [Eye contact](http://9gag.com/gag/aKGjj4Q)<!-- MEMES:END -->
 
 ---
 
