@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Women](http://9gag.com/gag/aPAjMdB)
- - ⏩ [It&#39;s time to trust us](http://9gag.com/gag/amo77Z6)
- - 👉 [Oh deer](http://9gag.com/gag/a7oMZ9e)<!-- MEMES:END -->
+ - 💣 [Yang Yuanqing, Lenovo&#39;s Chairman and CEO](http://9gag.com/gag/a34KMg5)
+ - ⏩ [Know the simple rules](http://9gag.com/gag/a87oyG3)
+ - 👉 [Ray meeting his new inmate.](http://9gag.com/gag/a87ooed)<!-- MEMES:END -->
 
 ---
 
