@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This is so me](http://9gag.com/gag/a0eKKdz)
- - ⏩ [One last selfie](http://9gag.com/gag/avyO7nq)
- - 👉 [I don&#39;t blame them, Looks like a boy](http://9gag.com/gag/apR2pxM)<!-- MEMES:END -->
+ - 💣 [Time to start a new conspiracy theory](http://9gag.com/gag/aByxx42)
+ - ⏩ [Brooke Shields over the years : 1978 - 2024](http://9gag.com/gag/aND1AGA)
+ - 👉 [One last selfie](http://9gag.com/gag/avyO7nq)<!-- MEMES:END -->
 
 ---
 
