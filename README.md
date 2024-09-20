@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [You can now try Apple Intelligence without joining the developer program](https://www.androidauthority.com/ios-18-1-public-beta-3483458/)
- - [Singapore-based crypto exchange BingX suffered a security hack on its hot wallet, resulting in a &quot;minor&quot; loss; PeckShield: the loss was $43M in cryptocurrencies &lpar;Vishal Chawla/The Block&rpar;](http://www.techmeme.com/240920/p3#a240920p3)
- - [French digital health insurance startup Alan raised &amp;euro;173M led by Belgian bank Belfius Bank at a &amp;euro;4B valuation, bringing its total raised since 2021 to &amp;euro;500M+ &lpar;Benoit Berthelot/Bloomberg&rpar;](http://www.techmeme.com/240920/p2#a240920p2)<!-- TECH:END -->
+ - [Sending files between Android and iOS could soon become easier &lpar;for some&rpar;](https://www.androidauthority.com/color-os-15-send-files-android-iphone-3483455/)
+ - [Xiaomi and vivo phones are set to borrow a cool AI feature from Google and Samsung](https://www.androidauthority.com/circle-to-search-xiaomi-vivo-3483456/)
+ - [Indian edtech startup Physics Wallah raises a $210M Series B led by hedge fund Hornbill Capital at a $2.8B valuation, up from $1.1B valuation in June 2022 &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/240920/p4#a240920p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
