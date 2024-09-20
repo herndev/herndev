@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Hit the Pitch Early in EA Sports FC 25 with EA Play](https://news.xbox.com/en-us/2024/09/20/ea-play-september-fc-25/)
- - [Kotaku&#39;s Weekend Guide: 5 Terrific Games To Say Goodbye To Summer With](https://kotaku.com/kotaku-weekend-guide-god-of-war-ufo-50-fortnite-visions-1851653862)
- - [Lost Records: Bloom &amp;#038; Rage’s Nora has acne. It’s no big deal](https://www.polygon.com/gaming/454220/lost-records-bloom-rage-nora-skin-textures-acne)<!-- GAME:END -->
+ - [Rings of Power is wasting Middle-earth&amp;#8217;s magic](https://www.polygon.com/lotr-rings-of-power/454279/trop-magic-gandalf-rings-wasted)
+ - [Polygon’s favorite Dungeons &amp;#038; Dragons accessories](https://www.polygon.com/gift-guide/446209/polygon-favorite-dungeons-and-dragons-books-dice-accessories)
+ - [Frostpunk 2 factions and communities explained](https://www.pcgamer.com/games/city-builder/frostpunk-2-factions)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
