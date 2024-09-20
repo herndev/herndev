@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Rivian is now shipping its Gen 2 R1T and R1S EVs with tri-motor powertrains](https://www.theverge.com/2024/9/20/24249829/rivian-2025-r1t-r1s-tri-motor-shipping-gen-2)
- - [Tim Cook opens Fifth Avenue store as iPhone 16 sales begin](https://appleinsider.com/articles/24/09/20/tim-cook-opens-fifth-avenue-store-as-iphone-16-sales-begin?utm_medium=rss)
- - [When You Call a Restaurant, You Might Be Chatting With an AI Host](https://www.wired.com/story/restaurant-ai-hosts/)<!-- TECH:END -->
+ - [Which iPhone 16 Model Should You Buy?](https://www.wired.com/story/which-apple-iphone-16-models-to-buy/)
+ - [Google Ventures CEO David Krane about the firm&#39;s first 15 years, operating independently from Alphabet, early investments in Nest and Uber, generative AI, more &lpar;Allie Garfinkle/Fortune&rpar;](http://www.techmeme.com/240920/p12#a240920p12)
+ - [Preorder demand for iPhone 16 rises in Russia despite high import prices](https://appleinsider.com/articles/24/09/20/preorder-demand-for-iphone-16-rises-in-russia-despite-high-import-prices?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
