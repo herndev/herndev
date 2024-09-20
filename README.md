@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Dragon Age: The Veilguard will see the return of Inquisition&#39;s protagonist, and you&#39;ll be able to customize their appearance and voice](https://www.pcgamer.com/games/dragon-age/dragon-age-the-veilguard-will-see-the-return-of-inquisition-s-protagonist-and-you-ll-be-able-to-customize-their-appearance-and-voice)
- - [Concord game director reportedly steps down as Firewalk developers fear layoffs or a possible closure](https://www.pcgamer.com/games/fps/concord-game-director-reportedly-steps-down-as-firewalk-developers-fear-layoffs-or-a-possible-closure)
- - [The Adventure Zone’s new season mixes dice with Saturday morning cartoons](https://www.polygon.com/comedy/445805/adventure-zone-new-season-abnimals-premiere-interview)<!-- GAME:END -->
+ - [Judero review](https://www.pcgamer.com/games/adventure/judero-review)
+ - [Wow, January 2025 looks absolutely stacked with movies for genre fiends](https://www.polygon.com/movies/453619/january-2025-movies-good)
+ - [Dragon Age: The Veilguard will see the return of Inquisition&#39;s protagonist, and you&#39;ll be able to customize their appearance and voice](https://www.pcgamer.com/games/dragon-age/dragon-age-the-veilguard-will-see-the-return-of-inquisition-s-protagonist-and-you-ll-be-able-to-customize-their-appearance-and-voice)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
