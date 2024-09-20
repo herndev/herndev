@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Go to therapy](http://9gag.com/gag/aVv307K)
- - ⏩ [Modern problems requires modern solution](http://9gag.com/gag/aYQg7Vx)
- - 👉 [Leaked gta 6 motion capture](http://9gag.com/gag/abAMGvv)<!-- MEMES:END -->
+ - 💣 [House commander in chief](http://9gag.com/gag/a4P7Gvv)
+ - ⏩ [A man and his dog saves a french woman from fake asylum seekers](http://9gag.com/gag/aAyxxMR)
+ - 👉 [This is how mountain goats protect themselves from predators.](http://9gag.com/gag/azxXqpK)<!-- MEMES:END -->
 
 ---
 
