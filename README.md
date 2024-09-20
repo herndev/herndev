@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Yea `world&#39;s strongest lock` my ass](http://9gag.com/gag/aAyxxgZ)
- - ⏩ [Now that is air support](http://9gag.com/gag/apR22qn)
- - 👉 [Thursday](http://9gag.com/gag/ae9MM45)<!-- MEMES:END -->
+ - 💣 [9gaggers... Smile...](http://9gag.com/gag/aLnjgAA)
+ - ⏩ [Realistic sound game](http://9gag.com/gag/aByxxzZ)
+ - 👉 [A woman with tumors on her head documents her recovery journey.](http://9gag.com/gag/a7oMwR2)<!-- MEMES:END -->
 
 ---
 
