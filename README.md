@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Arcane’s final season starts streaming on November 9th](https://www.theverge.com/2024/9/19/24236186/netflix-arcane-season-2-premiere-date-trailer)
- - [Netflix’s Devil May Cry series starts streaming in April](https://www.theverge.com/2024/9/19/24249440/devil-may-cry-show-netflix-date-trailer)
- - [Zack Snyder&#39;s Rebel Moon Film Series Is Getting a Netflix Game](https://www.cnet.com/tech/gaming/zack-snyders-rebel-moon-film-series-is-getting-a-netflix-game/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [&#39;Squid Game&#39; Season 2 Teaser Brings Gi-hun Back Into the Deadly Action](https://www.cnet.com/tech/services-and-software/squid-game-season-2-teaser-brings-gi-hun-back-into-the-deadly-action/#ftag=CAD590a51e)
+ - [Lara Croft Is Back in Action in &#39;Tomb Raider&#39; Animated Series Trailer](https://www.cnet.com/tech/services-and-software/lara-croft-is-back-in-action-in-tomb-raider-animated-series-trailer/#ftag=CAD590a51e)
+ - [Netflix adds Civilization VI and Street Fighter IV to its games lineup](https://www.theverge.com/2024/9/19/24249136/netflix-civilization-6-street-fighter-4-game-releases)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
