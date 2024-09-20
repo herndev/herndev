@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A profile of Xbox President Sarah Bond, who helped mollify the UK CMA concerning the Activision acquisition and is leading a transformation of the Xbox division &lpar;Bloomberg&rpar;](http://www.techmeme.com/240920/p9#a240920p9)
- - [Best Apple Watch &lpar;2024&rpar;: Which Model Should You Buy?](https://www.wired.com/gallery/best-apple-watch/)
- - [Elon Musk is navigating Brazil’s X ban — and flirting with its far right](https://www.theverge.com/2024/9/20/24249256/elon-musk-brazil-x-ban-far-right)<!-- TECH:END -->
+ - [Rivian is now shipping its Gen 2 R1T and R1S EVs with tri-motor powertrains](https://www.theverge.com/2024/9/20/24249829/rivian-2025-r1t-r1s-tri-motor-shipping-gen-2)
+ - [Tim Cook opens Fifth Avenue store as iPhone 16 sales begin](https://appleinsider.com/articles/24/09/20/tim-cook-opens-fifth-avenue-store-as-iphone-16-sales-begin?utm_medium=rss)
+ - [When You Call a Restaurant, You Might Be Chatting With an AI Host](https://www.wired.com/story/restaurant-ai-hosts/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
