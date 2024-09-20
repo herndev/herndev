@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Give it up for Ryzen AI Max+: AMD&#39;s Strix Halo uber-APU model list and preliminary specs have leaked out](https://www.pcgamer.com/hardware/give-it-up-for-ryzen-ai-max-amds-strix-halo-uber-apu-model-list-and-preliminary-specs-have-leaked-out)
- - [Somehow, the Magic: The Gathering animated series returned—Netflix announces that the show&#39;s still in the works after long silence](https://www.pcgamer.com/movies-tv/somehow-the-magic-the-gathering-animated-series-returned-netflix-announces-that-the-show-s-still-in-the-works-after-long-silence)
- - [The Sword Lance Is A Real Show Of Strength In Shadow Of The Erdtree](https://kotaku.com/elden-ring-shadow-erdtree-heavy-lance-guide-1851652733)<!-- GAME:END -->
+ - [Sword Art Online Fractured Daydream: “Link Start” the Open Network Test to Get Loot Ahead of the Full Game](https://news.xbox.com/en-us/2024/09/20/sword-art-online-fractured-daydream-link-start-the-open-network-test-to-get-loot-ahead-of-the-full-game/)
+ - [Best Kastov LSW loadout, class build in Modern Warfare 3](https://www.polygon.com/modern-warfare-3-guides/453996/best-kastov-lsw-loadout-class-build-mw3)
+ - [Dragon Age: The Veilguard keeps reminding that I&#39;m still angry with BioWare for its crimes against the qunari](https://www.pcgamer.com/games/dragon-age/dragon-age-the-veilguard-keeps-reminding-that-im-still-angry-with-bioware-for-its-crimes-against-the-qunari)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
