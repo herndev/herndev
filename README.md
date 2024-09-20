@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sending files between Android and iOS could soon become easier &lpar;for some&rpar;](https://www.androidauthority.com/color-os-15-send-files-android-iphone-3483455/)
- - [Xiaomi and vivo phones are set to borrow a cool AI feature from Google and Samsung](https://www.androidauthority.com/circle-to-search-xiaomi-vivo-3483456/)
- - [Indian edtech startup Physics Wallah raises a $210M Series B led by hedge fund Hornbill Capital at a $2.8B valuation, up from $1.1B valuation in June 2022 &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/240920/p4#a240920p4)<!-- TECH:END -->
+ - [Apple put on notice over support for third-party watches and headphones](https://www.theverge.com/2024/9/20/24249738/eu-dma-apple-ios-iphone-interoperability-smartwatches-headphones)
+ - [Xavier Niel, a Driving Force of French AI, Is Now Shaping TikTok](https://www.wired.com/story/what-xavier-niel-can-do-for-tiktok/)
+ - [How to Set Up Your New iPhone &lpar;2024&rpar;](https://www.wired.com/story/how-to-set-up-a-new-iphone/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
