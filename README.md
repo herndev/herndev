@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Yea `world&#39;s strongest lock` my ass](http://9gag.com/gag/aAyxxgZ)
- - ⏩ [I don&#39;t blame them, Looks like a boy](http://9gag.com/gag/apR2pxM)
- - 👉 [Yang Yuanqing, Lenovo&#39;s Chairman and CEO](http://9gag.com/gag/a34KMg5)<!-- MEMES:END -->
+ - 💣 [Women](http://9gag.com/gag/aPAjMdB)
+ - ⏩ [It&#39;s time to trust us](http://9gag.com/gag/amo77Z6)
+ - 👉 [Oh deer](http://9gag.com/gag/a7oMZ9e)<!-- MEMES:END -->
 
 ---
 
