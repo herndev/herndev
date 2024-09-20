@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The official Google Pixel 9 case is a nice silicone cover but I wanted to see this one extra feature](https://www.androidauthority.com/official-google-pixel-9-case-review-3482011/)
- - [Want to Get Into Founder Mode? You Should Be So Lucky](https://www.wired.com/story/plaintext-want-to-get-into-founder-mode-you-should-be-so-lucky/)
- - [Welcome to the new and improved Verge Deals newsletter](https://www.theverge.com/2024/9/20/24249294/verge-deals-newsletter-subscribe-tech-discounts)<!-- TECH:END -->
+ - [A profile of Xbox President Sarah Bond, who helped mollify the UK CMA concerning the Activision acquisition and is leading a transformation of the Xbox division &lpar;Bloomberg&rpar;](http://www.techmeme.com/240920/p9#a240920p9)
+ - [Best Apple Watch &lpar;2024&rpar;: Which Model Should You Buy?](https://www.wired.com/gallery/best-apple-watch/)
+ - [Elon Musk is navigating Brazil’s X ban — and flirting with its far right](https://www.theverge.com/2024/9/20/24249256/elon-musk-brazil-x-ban-far-right)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
