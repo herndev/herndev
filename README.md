@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [There&#39;s two types of news in Frostpunk 2: bad news, and good news that you slowly realize is actually bad news](https://www.pcgamer.com/games/city-builder/theres-two-types-of-news-in-frostpunk-2-bad-news-and-good-news-that-you-slowly-realize-is-actually-bad-news)
- - [All The Video Game News From Netflix&#39;s Geeked Week](https://kotaku.com/netflix-geeked-week-devil-may-cry-tomb-raider-trailers-1851654006)
- - [After nearly 10 years of waiting, the sequel to one of the weirdest games I&#39;ve ever played is finally almost here](https://www.pcgamer.com/games/horror/after-nearly-10-years-of-waiting-the-sequel-to-one-of-the-weirdest-games-ive-ever-played-is-finally-almost-here)<!-- GAME:END -->
+ - [Halle Berry on the key to Never Let Go: her character is ‘fucking crazy’](https://www.polygon.com/horror/454575/never-let-go-halle-berry-character)
+ - [Cards Against Humanity sues Elon Musk for $15M, alleges that SpaceX invaded a plot of land it owns in Texas: &#39;Go **** yourself, Elon Musk&#39;](https://www.pcgamer.com/gaming-industry/cards-against-humanity-sues-elon-musk-for-dollar15m-alleges-that-spacex-invaded-a-plot-of-land-it-owns-in-texas-go-yourself-elon-musk)
+ - [Dragon Age: The Veilguard game director says Inquisition&#39;s epilogue DLC &#39;should have been part of the base game&#39;](https://www.pcgamer.com/games/dragon-age/dragon-age-the-veilguard-game-director-says-inquisitions-epilogue-dlc-should-have-been-part-of-the-base-game)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
