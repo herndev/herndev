@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Realistic sound game](http://9gag.com/gag/aByxxzZ)
- - ⏩ [Thursday](http://9gag.com/gag/ae9MM45)
- - 👉 [Oh I&#39;d be pissed.](http://9gag.com/gag/aE0x20e)<!-- MEMES:END -->
+ - 💣 [Go to therapy](http://9gag.com/gag/aVv307K)
+ - ⏩ [Modern problems requires modern solution](http://9gag.com/gag/aYQg7Vx)
+ - 👉 [Leaked gta 6 motion capture](http://9gag.com/gag/abAMGvv)<!-- MEMES:END -->
 
 ---
 
