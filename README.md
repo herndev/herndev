@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Next Week on Xbox: New Games for September 23 to 27](https://news.xbox.com/en-us/2024/09/20/next-week-on-xbox-sept-23-to-27/)
- - [New Cyberpunk anime coming from Netflix and CD Projekt Red](https://www.polygon.com/anime/454036/netflix-new-cyberpunk-anime-announcement-cd-projekt-red)
- - [Pokémon TCG Pocket Streamlines The Card Game To Rival Marvel Snap](https://kotaku.com/pokemon-tcg-pocket-marvel-snap-1851653373)<!-- GAME:END -->
+ - [First trailer for Netflix’s Devil May Cry captures the glee of Dante’s demon hunting](https://www.polygon.com/trailer/454063/devil-may-cry-netflix-anime-release-date-trailer)
+ - [AMD &#39;leaving billions of dollars on the table&#39; thanks to laptop AI chip supply issues](https://www.pcgamer.com/hardware/amd-leaving-billions-of-dollars-on-the-table-thanks-to-laptop-ai-chip-supply-issues)
+ - [8BitDo’s wireless controller with Hall effect sticks is just $40](https://www.polygon.com/good-deals/454072/8bitdo-wireless-hall-effect-sticks-controller-sale-deal-amazon)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
