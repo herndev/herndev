@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Concord&#39;s game director steps down, as Firewalk, the studio behind the PlayStation flop, is left in limbo, with some staffers expecting mass layoffs &lpar;Ethan Gach/Kotaku&rpar;](http://www.techmeme.com/240919/p36#a240919p36)
- - [Want a power station? Anker has a couple of hot deals for you](https://www.androidauthority.com/anker-solix-c300-c800-power-station-deals-3483221/)
- - [Thursday Night Football: How to Watch, Stream Patriots vs. Jets Tonight on Prime Video](https://www.cnet.com/tech/services-and-software/thursday-night-football-how-to-watch-stream-patriots-vs-jets-tonight-on-prime-video/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Arcane’s final season starts streaming on November 9th](https://www.theverge.com/2024/9/19/24236186/netflix-arcane-season-2-premiere-date-trailer)
+ - [Netflix’s Devil May Cry series starts streaming in April](https://www.theverge.com/2024/9/19/24249440/devil-may-cry-show-netflix-date-trailer)
+ - [Zack Snyder&#39;s Rebel Moon Film Series Is Getting a Netflix Game](https://www.cnet.com/tech/gaming/zack-snyders-rebel-moon-film-series-is-getting-a-netflix-game/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
