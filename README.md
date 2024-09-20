@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Here&#39;s How Experts Think Nintendo Will Get Its Revenge On Palworld](https://kotaku.com/nintendo-pokemon-palworld-lawsuit-pocketpair-patent-1851654149)
- - [Devs Behind A Bunch Of Zelda Remasters Finally Get To Make Their Own With Echoes Of Wisdom](https://kotaku.com/echoes-of-wisdom-developer-grezzo-revealed-switch-zelda-1851654131)
- - [Netflix is doing a Splinter Cell animated series, and Michael Ironside isn&#39;t in it](https://www.pcgamer.com/movies-tv/netflix-is-doing-a-splinter-cell-animated-series-and-michael-ironside-isnt-in-it)<!-- GAME:END -->
+ - [They&#39;re planning to restart the Three Mile Island nuclear power plant to power Microsoft&#39;s cloud and AI data centers](https://www.pcgamer.com/hardware/theyre-planning-to-restart-the-three-mile-island-nuclear-power-plant-to-power-microsofts-cloud-and-ai-data-centers)
+ - [Helldivers 2&#39;s official Super Earth National Anthem has me so full of patriotic ardor, I feel like marching in the street](https://www.pcgamer.com/games/third-person-shooter/helldivers-2s-official-super-earth-national-anthem-has-me-so-full-of-patriotic-ardor-i-feel-like-marching-in-the-street)
+ - [Blink Twice, Challengers, Netflix’s His Three Daughters, and every movie new to streaming this week](https://www.polygon.com/entertainment/451670/new-movies-blink-twice-challengers-netflix-watch-streaming)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
