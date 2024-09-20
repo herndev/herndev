@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Halle Berry on the key to Never Let Go: her character is ‘fucking crazy’](https://www.polygon.com/horror/454575/never-let-go-halle-berry-character)
- - [Cards Against Humanity sues Elon Musk for $15M, alleges that SpaceX invaded a plot of land it owns in Texas: &#39;Go **** yourself, Elon Musk&#39;](https://www.pcgamer.com/gaming-industry/cards-against-humanity-sues-elon-musk-for-dollar15m-alleges-that-spacex-invaded-a-plot-of-land-it-owns-in-texas-go-yourself-elon-musk)
- - [Dragon Age: The Veilguard game director says Inquisition&#39;s epilogue DLC &#39;should have been part of the base game&#39;](https://www.pcgamer.com/games/dragon-age/dragon-age-the-veilguard-game-director-says-inquisitions-epilogue-dlc-should-have-been-part-of-the-base-game)<!-- GAME:END -->
+ - [Here&#39;s How Experts Think Nintendo Will Get Its Revenge On Palworld](https://kotaku.com/nintendo-pokemon-palworld-lawsuit-pocketpair-patent-1851654149)
+ - [Devs Behind A Bunch Of Zelda Remasters Finally Get To Make Their Own With Echoes Of Wisdom](https://kotaku.com/echoes-of-wisdom-developer-grezzo-revealed-switch-zelda-1851654131)
+ - [Netflix is doing a Splinter Cell animated series, and Michael Ironside isn&#39;t in it](https://www.pcgamer.com/movies-tv/netflix-is-doing-a-splinter-cell-animated-series-and-michael-ironside-isnt-in-it)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
