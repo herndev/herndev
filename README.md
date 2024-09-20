@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [PSA: You can still get a free $30 gift card with a Google Pixel Buds Pro 2 pre-order](https://www.androidauthority.com/google-pixel-buds-pro-2-gift-card-deal-3483719/)
- - [The best new streaming shows this week: The Penguin and more](https://www.androidauthority.com/best-new-tv-shows-to-stream-this-week-3084538/)
- - [Protesters Take to Apple Stores Worldwide on iPhone 16 Launch Day](https://www.wired.com/story/apple-store-protests-gaza-congo-iphone-16-launch/)<!-- TECH:END -->
+ - [Walmart still has $649 Apple MacBook Airs!](https://www.androidauthority.com/apple-macbook-air-m1-deal-4-3483718/)
+ - [Has Google Photos search been broken for you? Here’s how to fix it](https://www.androidauthority.com/google-photos-search-bug-3483773/)
+ - [OceanGate’s ill-fated Titan sub relied on a hand-typed Excel spreadsheet](https://www.theverge.com/2024/9/20/24250237/oceangate-titan-submarine-coast-guard-hearing-investigation)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
