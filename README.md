@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple put on notice over support for third-party watches and headphones](https://www.theverge.com/2024/9/20/24249738/eu-dma-apple-ios-iphone-interoperability-smartwatches-headphones)
- - [Xavier Niel, a Driving Force of French AI, Is Now Shaping TikTok](https://www.wired.com/story/what-xavier-niel-can-do-for-tiktok/)
- - [How to Set Up Your New iPhone &lpar;2024&rpar;](https://www.wired.com/story/how-to-set-up-a-new-iphone/)<!-- TECH:END -->
+ - [The iPhone camera is more confusing than ever](https://www.theverge.com/2024/9/20/24248356/iphone-16-camera-photographic-styles)
+ - [Customers try out the iPhone 16 in Apple Stores around the world](https://appleinsider.com/articles/24/09/20/customers-try-out-the-iphone-16-in-apple-stores-around-the-world?utm_medium=rss)
+ - [Unboxing the iPhone 16 Pro Max and Apple Watch Series 10](https://appleinsider.com/articles/24/09/20/unboxing-the-iphone-16-pro-max-and-apple-watch-series-10?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
