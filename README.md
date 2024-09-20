@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [One last selfie](http://9gag.com/gag/avyO7nq)
- - ⏩ [If I can get away with this,I&#39;m now wondering what else I can get away with.](http://9gag.com/gag/aAyxD1Z)
- - 👉 [Welcome To University](http://9gag.com/gag/aAyxw92)<!-- MEMES:END -->
+ - 💣 [This is so me](http://9gag.com/gag/a0eKKdz)
+ - ⏩ [One last selfie](http://9gag.com/gag/avyO7nq)
+ - 👉 [I don&#39;t blame them, Looks like a boy](http://9gag.com/gag/apR2pxM)<!-- MEMES:END -->
 
 ---
 
