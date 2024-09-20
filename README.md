@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Raise wages!](http://9gag.com/gag/azxXAnN)
- - ⏩ [I don&#39;t blame them, Looks like a boy](http://9gag.com/gag/apR2pxM)
- - 👉 [Now that is air support](http://9gag.com/gag/apR22qn)<!-- MEMES:END -->
+ - 💣 [Yang Yuanqing, Lenovo&#39;s Chairman and CEO](http://9gag.com/gag/a34KMg5)
+ - ⏩ [Yea `world&#39;s strongest lock` my ass](http://9gag.com/gag/aAyxxgZ)
+ - 👉 [This is how mountain goats protect themselves from predators.](http://9gag.com/gag/azxXqpK)<!-- MEMES:END -->
 
 ---
 
