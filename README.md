@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [High definition too](http://9gag.com/gag/aQz3ME2)
- - ⏩ [Only one Concord player left online.](http://9gag.com/gag/aoyNpjw)
- - 👉 [Eye contact](http://9gag.com/gag/aKGjj4Q)<!-- MEMES:END -->
+ - 💣 [What the f**k](http://9gag.com/gag/aXPxxzd)
+ - ⏩ [My dude](http://9gag.com/gag/aAyxPAp)
+ - 👉 [Ray meeting his new inmate.](http://9gag.com/gag/a87ooed)<!-- MEMES:END -->
 
 ---
 
