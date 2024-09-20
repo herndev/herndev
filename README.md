@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This is how mountain goats protect themselves from predators.](http://9gag.com/gag/azxXqpK)
- - ⏩ [What the f**k](http://9gag.com/gag/aXPxxzd)
- - 👉 [Now that is air support](http://9gag.com/gag/apR22qn)<!-- MEMES:END -->
+ - 💣 [Yea `world&#39;s strongest lock` my ass](http://9gag.com/gag/aAyxxgZ)
+ - ⏩ [Now that is air support](http://9gag.com/gag/apR22qn)
+ - 👉 [Thursday](http://9gag.com/gag/ae9MM45)<!-- MEMES:END -->
 
 ---
 
