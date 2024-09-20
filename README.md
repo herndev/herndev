@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Yea `world&#39;s strongest lock` my ass](http://9gag.com/gag/aAyxxgZ)
- - ⏩ [It&#39;s time to trust us](http://9gag.com/gag/amo77Z6)
- - 👉 [He leaves the \u201csmart\u201d car parking itself. The car decides it doesn\u2019t fit and drives off](http://9gag.com/gag/aQz3M97)<!-- MEMES:END -->
+ - ⏩ [I don&#39;t blame them, Looks like a boy](http://9gag.com/gag/apR2pxM)
+ - 👉 [Yang Yuanqing, Lenovo&#39;s Chairman and CEO](http://9gag.com/gag/a34KMg5)<!-- MEMES:END -->
 
 ---
 
