@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Time to start a new conspiracy theory](http://9gag.com/gag/aByxx42)
- - ⏩ [Brooke Shields over the years : 1978 - 2024](http://9gag.com/gag/aND1AGA)
- - 👉 [One last selfie](http://9gag.com/gag/avyO7nq)<!-- MEMES:END -->
+ - 💣 [This is how mountain goats protect themselves from predators.](http://9gag.com/gag/azxXqpK)
+ - ⏩ [What the f**k](http://9gag.com/gag/aXPxxzd)
+ - 👉 [Now that is air support](http://9gag.com/gag/apR22qn)<!-- MEMES:END -->
 
 ---
 
