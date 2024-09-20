@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [House commander in chief](http://9gag.com/gag/a4P7Gvv)
- - ⏩ [A man and his dog saves a french woman from fake asylum seekers](http://9gag.com/gag/aAyxxMR)
- - 👉 [This is how mountain goats protect themselves from predators.](http://9gag.com/gag/azxXqpK)<!-- MEMES:END -->
+ - 💣 [Kind Man Returns Lost Dog, Refuses Cash Reward, Only Asks To Be Able To Visit The Dog](http://9gag.com/gag/an7M47L)
+ - ⏩ [. . .](http://9gag.com/gag/a5QoRzr)
+ - 👉 [A man and his dog saves a french woman from fake asylum seekers](http://9gag.com/gag/aAyxxMR)<!-- MEMES:END -->
 
 ---
 
