@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle answer for Friday, September 20](https://www.pcgamer.com/games/puzzle/wordle-answer-today-september-19-2024)
  - [Cristin Milioti’s ascendant mafia boss Sofia Falcone is The Penguin’s standout villain](https://www.polygon.com/tv/453456/batman-penguin-hangman-sofia-falcone-comics-origin)
- - [Netflix announces Rebel Moon: Blood Line, a surprisingly fun mobile spinoff game](https://www.polygon.com/preview/453135/rebel-moon-netflix-video-game-trailer-beta)
- - [Unsurprisingly, UFO 50 seems to have a big secret meta game that I&#39;ve only just scratched the surface of](https://www.pcgamer.com/games/action/unsurprisingly-ufo-50-seems-to-have-a-big-secret-meta-game-that-ive-only-just-scratched-the-surface-of)<!-- GAME:END -->
+ - [Netflix announces Rebel Moon: Blood Line, a surprisingly fun mobile spinoff game](https://www.polygon.com/preview/453135/rebel-moon-netflix-video-game-trailer-beta)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
