@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [First trailer for Netflix’s Devil May Cry captures the glee of Dante’s demon hunting](https://www.polygon.com/trailer/454063/devil-may-cry-netflix-anime-release-date-trailer)
- - [AMD &#39;leaving billions of dollars on the table&#39; thanks to laptop AI chip supply issues](https://www.pcgamer.com/hardware/amd-leaving-billions-of-dollars-on-the-table-thanks-to-laptop-ai-chip-supply-issues)
- - [8BitDo’s wireless controller with Hall effect sticks is just $40](https://www.polygon.com/good-deals/454072/8bitdo-wireless-hall-effect-sticks-controller-sale-deal-amazon)<!-- GAME:END -->
+ - [EA Sports FC 25 Makes 5-a-Side Dreams Come True with Rush Mode](https://news.xbox.com/en-us/2024/09/20/ea-sports-fc-25-rush-mode/)
+ - [&#39;This time I&#39;m actually cooked&#39;: The GeoGuessr World Cup final descends to chaos as players duke it out for $26,250](https://www.pcgamer.com/games/puzzle/this-time-im-actually-cooked-the-geoguessr-world-cup-final-descends-to-chaos-as-players-duke-it-out-for-dollar26250)
+ - [I&#39;ve tried the new deliberately anti-social AI-only social media app and I&#39;ve never been more glad to be a little bit of a loser](https://www.pcgamer.com/software/ai/ive-tried-the-new-deliberately-anti-social-ai-only-social-media-app-and-ive-never-been-more-glad-to-be-a-little-bit-of-a-loser)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
