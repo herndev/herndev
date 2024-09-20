@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Upvote the money cat. It will bring you nothing but it&#39;s a cat. And has money. Isn&#39;t it so incredible attractive?](http://9gag.com/gag/aE0xB8G)
- - ⏩ [Terr0rists in Lebanon right now](http://9gag.com/gag/a5QooMr)
- - 👉 [Well done boy!](http://9gag.com/gag/aD2x1R7)<!-- MEMES:END -->
+ - 💣 [Show no mercy.](http://9gag.com/gag/a9ypYBD)
+ - ⏩ [Visit Bali or Bora Bora Maldives](http://9gag.com/gag/abAMpZ8)
+ - 👉 [Money can&#39;t buy happiness they said](http://9gag.com/gag/azxXAQZ)<!-- MEMES:END -->
 
 ---
 
