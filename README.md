@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [OxygenOS 15 could make your OnePlus phone more iPhone-like](https://www.androidauthority.com/oxygen-os-15-ios-features-leak-3482986/)
- - [This is how much bigger your iPhone 16 batteries are](https://www.androidauthority.com/apple-iphone-16-battery-size-capacity-3483365/)
- - [Nvidia partners with Abu Dhabi-based G42 to create a climate tech lab and develop AI to improve weather forecasting accuracy using Nvidia&#39;s Earth-2 platform &lpar;Abeer Abu Omar/Bloomberg&rpar;](http://www.techmeme.com/240920/p1#a240920p1)<!-- TECH:END -->
+ - [Up close with Sony’s PS5 Pro — and the 30th Anniversary model](https://www.theverge.com/2024/9/20/24249600/ps5-pro-30th-anniversary-photos)
+ - [All your paranoia about social media sites surveilling you is probably spot-on](https://www.androidauthority.com/ftc-2024-report-social-media-surveillance-3483396/)
+ - [Top Walmart Promo Codes for September 2024](https://www.wired.com/story/top-walmart-promo-codes/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
