@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Judero review](https://www.pcgamer.com/games/adventure/judero-review)
- - [Wow, January 2025 looks absolutely stacked with movies for genre fiends](https://www.polygon.com/movies/453619/january-2025-movies-good)
- - [Dragon Age: The Veilguard will see the return of Inquisition&#39;s protagonist, and you&#39;ll be able to customize their appearance and voice](https://www.pcgamer.com/games/dragon-age/dragon-age-the-veilguard-will-see-the-return-of-inquisition-s-protagonist-and-you-ll-be-able-to-customize-their-appearance-and-voice)<!-- GAME:END -->
+ - [Netflix announces Rebel Moon: Blood Line, a surprisingly fun mobile spinoff game](https://www.polygon.com/preview/453135/rebel-moon-netflix-video-game-trailer-beta)
+ - [Unsurprisingly, UFO 50 seems to have a big secret meta game that I&#39;ve only just scratched the surface of](https://www.pcgamer.com/games/action/unsurprisingly-ufo-50-seems-to-have-a-big-secret-meta-game-that-ive-only-just-scratched-the-surface-of)
+ - [League of Legends show Arcane will conclude with a 3-act finale spread across November](https://www.pcgamer.com/movies-tv/netflix-league-of-legends-show-arcane-will-conclude-with-a-3-act-finale-spread-across-november)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
