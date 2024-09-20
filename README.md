@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple has a list of everything you need to repair the iPhone 16](https://appleinsider.com/articles/24/09/20/apple-has-a-list-of-everything-you-need-to-repair-the-iphone-16?utm_medium=rss)
- - [OpenAI&#39;s o1 models are dramatically better at reasoning than previous LLMs, but they struggle with spatial reasoning and are far from human-level intelligence &lpar;Timothy B Lee/Understanding AI&rpar;](http://www.techmeme.com/240920/p18#a240920p18)
- - [The Best iPhone 16 Cases and Accessories &lpar;2024&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-iphone-16-cases-and-accessories/)<!-- TECH:END -->
+ - [PSA: You can still get a free $30 gift card with a Google Pixel Buds Pro 2 pre-order](https://www.androidauthority.com/google-pixel-buds-pro-2-gift-card-deal-3483719/)
+ - [The best new streaming shows this week: The Penguin and more](https://www.androidauthority.com/best-new-tv-shows-to-stream-this-week-3084538/)
+ - [Protesters Take to Apple Stores Worldwide on iPhone 16 Launch Day](https://www.wired.com/story/apple-store-protests-gaza-congo-iphone-16-launch/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
