@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Even more Lord of the Rings games are now free for Amazon Prime members](https://www.polygon.com/good-deals/448884/amazon-prime-free-lord-of-the-rings-game-deal)
- - [Sega’s Steam Sale Offers Up A Ton Of Lengthy RPGs For A Bargain](https://kotaku.com/sega-steam-sale-persona-like-a-dragon-sonic-1851653985)
- - [Space Marine sickos can rejoice thanks to a new Warhammer 40K  fan film on YouTube](https://www.polygon.com/culture/454409/auto-draft)<!-- GAME:END -->
+ - [There&#39;s two types of news in Frostpunk 2: bad news, and good news that you slowly realize is actually bad news](https://www.pcgamer.com/games/city-builder/theres-two-types-of-news-in-frostpunk-2-bad-news-and-good-news-that-you-slowly-realize-is-actually-bad-news)
+ - [All The Video Game News From Netflix&#39;s Geeked Week](https://kotaku.com/netflix-geeked-week-devil-may-cry-tomb-raider-trailers-1851654006)
+ - [After nearly 10 years of waiting, the sequel to one of the weirdest games I&#39;ve ever played is finally almost here](https://www.pcgamer.com/games/horror/after-nearly-10-years-of-waiting-the-sequel-to-one-of-the-weirdest-games-ive-ever-played-is-finally-almost-here)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
