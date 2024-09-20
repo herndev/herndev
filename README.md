@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [EA Sports FC 25 Makes 5-a-Side Dreams Come True with Rush Mode](https://news.xbox.com/en-us/2024/09/20/ea-sports-fc-25-rush-mode/)
- - [&#39;This time I&#39;m actually cooked&#39;: The GeoGuessr World Cup final descends to chaos as players duke it out for $26,250](https://www.pcgamer.com/games/puzzle/this-time-im-actually-cooked-the-geoguessr-world-cup-final-descends-to-chaos-as-players-duke-it-out-for-dollar26250)
- - [I&#39;ve tried the new deliberately anti-social AI-only social media app and I&#39;ve never been more glad to be a little bit of a loser](https://www.pcgamer.com/software/ai/ive-tried-the-new-deliberately-anti-social-ai-only-social-media-app-and-ive-never-been-more-glad-to-be-a-little-bit-of-a-loser)<!-- GAME:END -->
+ - [Hit the Pitch Early in EA Sports FC 25 with EA Play](https://news.xbox.com/en-us/2024/09/20/ea-play-september-fc-25/)
+ - [Kotaku&#39;s Weekend Guide: 5 Terrific Games To Say Goodbye To Summer With](https://kotaku.com/kotaku-weekend-guide-god-of-war-ufo-50-fortnite-visions-1851653862)
+ - [Lost Records: Bloom &amp;#038; Rage’s Nora has acne. It’s no big deal](https://www.polygon.com/gaming/454220/lost-records-bloom-rage-nora-skin-textures-acne)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
