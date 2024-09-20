@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [One last selfie](http://9gag.com/gag/avyO7nq)
+ - 💣 [Realistic sound game](http://9gag.com/gag/aByxxzZ)
  - ⏩ [Thursday](http://9gag.com/gag/ae9MM45)
- - 👉 [Realistic sound game](http://9gag.com/gag/aByxxzZ)<!-- MEMES:END -->
+ - 👉 [Oh I&#39;d be pissed.](http://9gag.com/gag/aE0x20e)<!-- MEMES:END -->
 
 ---
 
