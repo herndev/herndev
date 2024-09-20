@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [OxygenOS 15 could make your OnePlus phone more iPhone-like](https://www.androidauthority.com/oxygen-os-15-ios-features-leak-3482986/)
  - [This is how much bigger your iPhone 16 batteries are](https://www.androidauthority.com/apple-iphone-16-battery-size-capacity-3483365/)
- - [Nvidia partners with Abu Dhabi-based G42 to create a climate tech lab and develop AI to improve weather forecasting accuracy using Nvidia&#39;s Earth-2 platform &lpar;Abeer Abu Omar/Bloomberg&rpar;](http://www.techmeme.com/240920/p1#a240920p1)
- - [Today&#39;s NYT Mini Crossword Answers for Sept. 20](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-sept-20/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Nvidia partners with Abu Dhabi-based G42 to create a climate tech lab and develop AI to improve weather forecasting accuracy using Nvidia&#39;s Earth-2 platform &lpar;Abeer Abu Omar/Bloomberg&rpar;](http://www.techmeme.com/240920/p1#a240920p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
