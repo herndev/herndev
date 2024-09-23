@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Here’s when to expect each batch of fresh Apple Intelligence features on iOS 18](https://www.androidauthority.com/apple-intelligence-timeline-ios-3484003/)
- - [Legacy carmakers struggle to keep pace as the focus shifts from engines to computing power; only Ford, GM, and BMW are in Gartner&#39;s digital performance top 10 &lpar;Financial Times&rpar;](http://www.techmeme.com/240923/p3#a240923p3)
- - [OPPO Find X8 Ultra wishlist: All the features I want to see](https://www.androidauthority.com/oppo-find-x8-ultra-3458722/)<!-- TECH:END -->
+ - [Similarweb: daily X users in the UK fell from 8M in May 2023 to 5.6M now, with 33%+ of the fall coming after the summer riots; US DAUs fell by ~20% in that time &lpar;Jemima Kelly/Financial Times&rpar;](http://www.techmeme.com/240923/p5#a240923p5)
+ - [Even mid-range phones are getting Gorilla Glass Victus 2, IP69 ratings](https://www.androidauthority.com/xiaomi-redmi-note-14-pro-ip69-victus-2-3484016/)
+ - [The FBI arrests and charges two people in Miami over a conspiracy to steal and launder 4,100+ bitcoin, worth $230M+, using crypto exchanges and mixing services &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/240923/p4#a240923p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
