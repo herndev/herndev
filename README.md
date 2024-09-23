@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Person](http://9gag.com/gag/aXPxn59)
- - ⏩ [They ruined her...](http://9gag.com/gag/ayNXqnM)
- - 👉 [A reminder that you put yourself in the friendzone, not her.](http://9gag.com/gag/aKGjG91)<!-- MEMES:END -->
+ - 💣 [They ruined her...](http://9gag.com/gag/ayNXqnM)
+ - ⏩ [Berlin, 21.09.24](http://9gag.com/gag/a5QoQAL)
+ - 👉 [Look at this](http://9gag.com/gag/aO8r8p6)<!-- MEMES:END -->
 
 ---
 
