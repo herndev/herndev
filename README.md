@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Mainline Legend Of Zelda Games, Ranked From Worst To Best](https://kotaku.com/best-legend-of-zelda-games-breath-wild-botw-nintendo-1850320051)
- - [‘TwitchCon Is Very Queer’: How The Streaming Convention Strives For Inclusivity](https://kotaku.com/twitchcon-2024-drag-queens-showcase-queer-inclusive-1851655276)
- - [Tim Walz loves Crazy Taxi, so thanks to modders you can now play Crazy Taxi as Tim Walz](https://www.pcgamer.com/games/racing/tim-walz-is-apparently-a-crazy-taxi-nut-so-someone-modded-him-into-the-dreamcast-classic)<!-- GAME:END -->
+ - [Chappell Roan Supports Fan Taking Concert Pictures On Their Nintendo DS](https://kotaku.com/chappell-roan-concert-london-nintendo-ds-pictures-1851655423)
+ - [The zombie Flappy Bird saga gets weirder: &#39;The game will never have NFTs&#39; but it does have Web3 features and you can only play it through Telegram, which doesn&#39;t seem great](https://www.pcgamer.com/games/the-zombie-flappy-bird-saga-gets-weirder-the-game-will-never-have-nfts-but-it-does-have-web3-features-and-you-can-only-play-it-through-telegram-which-doesnt-seem-great)
+ - [The Nintendo Switch Just Got One Hell Of An Arcade Platformer](https://kotaku.com/bzzzt-nintendo-switch-astro-bot-arcade-platformer-1851655376)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
