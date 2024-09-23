@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [That was an overkill.](http://9gag.com/gag/aO8r833)
- - ⏩ [Pick a number](http://9gag.com/gag/a9yp1Z1)
- - 👉 [Bro turns into red hulk](http://9gag.com/gag/aAyxy7d)<!-- MEMES:END -->
+ - 💣 [They\u2019re so easy to checkmate](http://9gag.com/gag/aYQgEO0)
+ - ⏩ [What I&#39;m going to save by giving gifts!](http://9gag.com/gag/a9ypz0Z)
+ - 👉 [Post](http://9gag.com/gag/a5Qo6qG)<!-- MEMES:END -->
 
 ---
 
