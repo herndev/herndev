@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [They\u2019re so easy to checkmate](http://9gag.com/gag/aYQgEO0)
- - ⏩ [What I&#39;m going to save by giving gifts!](http://9gag.com/gag/a9ypz0Z)
- - 👉 [Post](http://9gag.com/gag/a5Qo6qG)<!-- MEMES:END -->
+ - 💣 [Going down on her after making out for 5 minutes](http://9gag.com/gag/azxXdoZ)
+ - ⏩ [Can we learn this kind of power ?](http://9gag.com/gag/awyX3nB)
+ - 👉 [Help me, I&#39;m stuck](http://9gag.com/gag/ayNX3vW)<!-- MEMES:END -->
 
 ---
 
