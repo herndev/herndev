@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [They ruined her...](http://9gag.com/gag/ayNXqnM)
- - ⏩ [Berlin, 21.09.24](http://9gag.com/gag/a5QoQAL)
- - 👉 [Look at this](http://9gag.com/gag/aO8r8p6)<!-- MEMES:END -->
+ - ⏩ [Bro turns into red hulk](http://9gag.com/gag/aAyxy7d)
+ - 👉 [The cleaning process](http://9gag.com/gag/a9yp1oW)<!-- MEMES:END -->
 
 ---
 
