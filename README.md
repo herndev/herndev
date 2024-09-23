@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [What Do You Do in a Hobbit Life Sim? Taking a Walk Through Tales of the Shire, Launching Next March](https://news.xbox.com/en-us/2024/09/23/tales-of-the-shire-hobbit-life-sim/)
- - [I hope someone has the balls to import this Pixar-style animated musical about sperm](https://www.polygon.com/animation-cartoons/455007/spermageddon-review-sperm-sex-musical)
- - [Get 50 Pathfinder books for $35 at Humble](https://www.polygon.com/good-deals/454728/pathfinder-second-edition-humble-bundle-sale)<!-- GAME:END -->
+ - [It Is Possible To Respec In Visions Of Mana, But Not Until The Late Game](https://kotaku.com/visions-of-mana-how-to-respec-rpg-square-1851654963)
+ - [Surely &#39;Marines vs God&#39; is the game name of the year](https://www.pcgamer.com/games/rts/surely-marines-vs-god-is-the-game-name-of-the-year)
+ - [What Do You Do in a Hobbit Life Sim? Taking a Walk Through Tales of the Shire, Launching Next March](https://news.xbox.com/en-us/2024/09/23/tales-of-the-shire-hobbit-life-sim/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
