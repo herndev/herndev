@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Sony just lost around $400m due to massive failure of concord](http://9gag.com/gag/a7oME8m)
- - ⏩ [A reminder that you put yourself in the friendzone, not her.](http://9gag.com/gag/aKGjG91)
- - 👉 [Look at this](http://9gag.com/gag/aO8r8p6)<!-- MEMES:END -->
+ - 💣 [Person](http://9gag.com/gag/aXPxn59)
+ - ⏩ [He forgot how to horse](http://9gag.com/gag/a87oA5Z)
+ - 👉 [Sony just lost around $400m due to massive failure of concord](http://9gag.com/gag/a7oME8m)<!-- MEMES:END -->
 
 ---
 
