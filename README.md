@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Poll: What do you think of FCC’s 60-day unlock policy?](https://www.androidauthority.com/fcc-60-days-unlock-policy-poll-3483979/)
  - [Today&#39;s NYT Connections Hints, Answers and Help for Sept. 23, #470](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-sept-23-470/#ftag=CAD590a51e)
- - [Today&#39;s Wordle Hints, Answer and Help for Sept. 23, #1192](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-sept-23-1192/#ftag=CAD590a51e)
- - [Today&#39;s NYT Strands Hints, Answers and Help for Sept. 23, #204](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-sept-23-204/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Today&#39;s Wordle Hints, Answer and Help for Sept. 23, #1192](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-sept-23-1192/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
