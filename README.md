@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [A Progress Update on Our Carbon Reduction Goals at Xbox](https://news.xbox.com/en-us/2024/09/23/xbox-carbon-reduction-sustainability-update-2024/)
- - [Everything You Need To Know About Silent Hill 2-Inspired Horror Hollowbody](https://kotaku.com/hollowbody-how-long-to-beat-price-silent-hill-1851654742)
- - [Marvel&#39;s Thunderbolts Teases Shadowy Chaos In First Trailer](https://kotaku.com/marvel-thunderbolts-trailer-bucky-taskmaster-release-da-1851654765)<!-- GAME:END -->
+ - [Tips to Advance Through the First Era of Ara: History Untold](https://news.xbox.com/en-us/2024/09/23/ara-history-untold-tips/)
+ - [Thunderbolts*’ mysterious ‘Bob’ is Marvel’s own dark Superman](https://www.polygon.com/marvel/455057/sentry-bob-thunderbolts)
+ - [God Of War Ragnarök’s PC Port Is A Worse Version Of An Excellent Game](https://kotaku.com/god-of-war-ragnarok-pc-steam-framerate-network-login-1851654888)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
