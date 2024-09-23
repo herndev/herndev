@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Satisfactory players achieve absurd early-game speeds by building more ziplines to zipline on while ziplining](https://www.pcgamer.com/games/survival-crafting/satisfactory-players-achieve-absurd-early-game-speeds-by-building-more-ziplines-to-zipline-on-while-ziplining)
- - [Someone made a mod to bypass the PSN login for God of War Ragnarök, and it works](https://www.pcgamer.com/games/action/someone-made-a-mod-to-bypass-the-psn-login-for-god-of-war-ragnarok-and-it-works)
- - [Get hundreds of indie TTRPGs for just $10 at itch.io and support accessible gaming](https://www.polygon.com/good-deals/455327/itch-io-accessible-ttrpg-gaming-bundle-sale)<!-- GAME:END -->
+ - [How to Watch the Xbox Tokyo Game Show 2024 Broadcast This Thursday](https://news.xbox.com/en-us/2024/09/23/xbox-tokyo-game-show-2024-tgs-how-to-watch/)
+ - [Court orders X to reveal the identities of Genshin Impact leakers](https://www.pcgamer.com/games/rpg/court-orders-x-to-reveal-the-identities-of-genshin-impact-leakers)
+ - [Satisfactory players achieve absurd early-game speeds by building more ziplines to zipline on while ziplining](https://www.pcgamer.com/games/survival-crafting/satisfactory-players-achieve-absurd-early-game-speeds-by-building-more-ziplines-to-zipline-on-while-ziplining)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
