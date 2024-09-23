@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [It looks like Google was working on a Google TV Streamer ‘Pro’](https://www.androidauthority.com/google-tv-streamer-pro-reddit-3484291/)
- - [The best fitness trackers to buy right now](https://www.theverge.com/22985108/best-fitness-tracker)
- - [Assa Abloy partners with Boston Dynamics to let the dogs in](https://www.theverge.com/2024/9/23/24252240/assa-abloy-boston-dynamics-spot-robot-patrol-dog-door-smart-entry)<!-- TECH:END -->
+ - [Amazon issues first-ever AirPods 4 price cut](https://appleinsider.com/articles/24/09/23/amazon-issues-first-ever-airpods-4-price-cut?utm_medium=rss)
+ - [Apple says Apple Intelligence will require 4GB of storage on compatible iPhones, and the storage requirement &quot;will increase as more features roll out&quot; &lpar;Ryan Christoffel/9to5Mac&rpar;](http://www.techmeme.com/240923/p25#a240923p25)
+ - [ExxonMobil deceived the public with plastic recycling, lawsuit claims](https://www.theverge.com/2024/9/23/24252433/exxonmobil-knew-plastic-recycling-lawsuit-california)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
