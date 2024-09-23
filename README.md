@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nothing’s open-style headphones leak just before launch](https://www.theverge.com/2024/9/23/24252179/nothing-ear-open-wraparound-earbuds-design-leak)
- - [PlayStation’s next State of Play will cover more than 20 PS5 and PSVR 2 games](https://www.theverge.com/2024/9/23/24252281/sony-playstation-state-of-play-ps5-psvr-2-games)
- - [Leaked Samsung Galaxy S24 FE unboxing video leaves little to the imagination](https://www.androidauthority.com/galaxy-s24-fe-unboxing-3484186/)<!-- TECH:END -->
+ - [The black Apple Watch Ultra 2 is already $50 off in select sizes](https://www.theverge.com/2024/9/23/24252049/apple-watch-ultra-2-black-amazon-fire-tv-cube-deal-sale)
+ - [Apple iPhone 16 and iPhone 16 Plus Review: Why Go Pro?](https://www.wired.com/review/apple-iphone-16-and-iphone-16-plus/)
+ - [Your Dumb Memes Revived One of Butt Rock&#39;s Biggest Bands](https://www.wired.com/story/creed-memes-revival/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
