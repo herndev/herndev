@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle answer for Monday, September 23](https://www.pcgamer.com/games/puzzle/wordle-answer-today-september-23-2024)
  - [Five new Steam games you probably missed &lpar;September 23, 2024&rpar;](https://www.pcgamer.com/software/platforms/five-new-steam-games-you-probably-missed-september-23-2024)
- - [While Dragon Age: The Veilguard&#39;s companions will form their own relationships, it sounds like we&#39;ll still be able to interfere with them: &#39;They might come to you for advice, and I can&#39;t guarantee you&#39;ll give them good advice&#39;](https://www.pcgamer.com/games/dragon-age/while-dragon-age-the-veilguard-s-companions-will-form-their-own-relationships-it-sounds-like-we-ll-still-be-able-to-interfere-with-them-they-might-come-to-you-for-advice-and-i-can-t-guarantee-you-ll-give-them-good-advice)
- - [Two Point Museum will open its exhibits next March](https://www.pcgamer.com/games/two-point-museum-will-open-its-exhibits-next-march)<!-- GAME:END -->
+ - [While Dragon Age: The Veilguard&#39;s companions will form their own relationships, it sounds like we&#39;ll still be able to interfere with them: &#39;They might come to you for advice, and I can&#39;t guarantee you&#39;ll give them good advice&#39;](https://www.pcgamer.com/games/dragon-age/while-dragon-age-the-veilguard-s-companions-will-form-their-own-relationships-it-sounds-like-we-ll-still-be-able-to-interfere-with-them-they-might-come-to-you-for-advice-and-i-can-t-guarantee-you-ll-give-them-good-advice)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
