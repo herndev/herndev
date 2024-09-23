@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [They&#39;re planning to restart the Three Mile Island nuclear power plant to power Microsoft&#39;s cloud and AI data centers](https://www.pcgamer.com/hardware/theyre-planning-to-restart-the-three-mile-island-nuclear-power-plant-to-power-microsofts-cloud-and-ai-data-centers)
- - [Helldivers 2&#39;s official Super Earth National Anthem has me so full of patriotic ardor, I feel like marching in the street](https://www.pcgamer.com/games/third-person-shooter/helldivers-2s-official-super-earth-national-anthem-has-me-so-full-of-patriotic-ardor-i-feel-like-marching-in-the-street)
- - [Blink Twice, Challengers, Netflix’s His Three Daughters, and every movie new to streaming this week](https://www.polygon.com/entertainment/451670/new-movies-blink-twice-challengers-netflix-watch-streaming)<!-- GAME:END -->
+ - [Two Point Museum will open its exhibits next March](https://www.pcgamer.com/games/two-point-museum-will-open-its-exhibits-next-march)
+ - [One Baldur&#39;s Gate 3 modder managed to implement real-time combat like the classic games, but you should probably wait for them to figure out a pause button before diving in](https://www.pcgamer.com/games/baldurs-gate/one-baldur-s-gate-3-modder-managed-to-implemented-real-time-combat-like-the-classic-games-but-you-should-probably-wait-for-them-to-figure-out-a-pause-button-before-diving-in)
+ - [Here&#39;s an indie that takes classic RTS and runs it into a modern roguelike](https://www.pcgamer.com/games/strategy/heres-an-indie-that-takes-classic-rts-and-runs-it-into-the-modern-roguelike)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
