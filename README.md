@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Android 15 update blocks old notification noise — finally, some peace!](https://www.androidauthority.com/android-15-qpr1-old-notifications-3483958/)
- - [Touch screen issues hit iPhone 16 Pro and older models](https://appleinsider.com/articles/24/09/23/touch-screen-issues-hit-iphone-16-pro-and-older-models?utm_medium=rss)
- - [The US and India announce plans for a new chip plant in India, producing infrared, gallium nitride, and silicon carbide chips, as Narendra Modi visits the US &lpar;Swati Gupta/Bloomberg&rpar;](http://www.techmeme.com/240923/p7#a240923p7)<!-- TECH:END -->
+ - [The list of best-selling phones in H1 2024 is encouraging news for Android](https://www.androidauthority.com/most-popular-phones-h1-2024-3484063/)
+ - [A profile of Amazon executive Rohit Prasad, who now oversees a new team of thousands to develop AI products for an Alexa upgrade and other businesses &lpar;Sebastian Herrera/Wall Street Journal&rpar;](http://www.techmeme.com/240923/p10#a240923p10)
+ - [One UI 7: What we know so far and what want to see](https://www.androidauthority.com/one-ui-7-3429831/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
