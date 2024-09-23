@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The black Apple Watch Ultra 2 is already $50 off in select sizes](https://www.theverge.com/2024/9/23/24252049/apple-watch-ultra-2-black-amazon-fire-tv-cube-deal-sale)
- - [Apple iPhone 16 and iPhone 16 Plus Review: Why Go Pro?](https://www.wired.com/review/apple-iphone-16-and-iphone-16-plus/)
- - [Your Dumb Memes Revived One of Butt Rock&#39;s Biggest Bands](https://www.wired.com/story/creed-memes-revival/)<!-- TECH:END -->
+ - [Woot is offering $50 off the Switch OLED just in time for the new Zelda](https://www.theverge.com/2024/9/23/24252246/nintendo-switch-oled-woot-best-of-sale-deal)
+ - [Telegram will now hand over your phone number and IP if you’re a criminal suspect](https://www.theverge.com/2024/9/23/24252276/telegram-disclose-user-data-legal-requests-criminal-activity)
+ - [Microsoft releases a progress report on its efforts to make security its top priority, which began in November 2023 after a scathing report from the US CSRB &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/240923/p19#a240923p19)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
