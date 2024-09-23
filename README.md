@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Echoes of Wisdom started as a Zelda dungeon editor game](https://www.polygon.com/zelda/455109/echoes-of-wisdom-started-dungeon-maker)
- - [It’s Never A Bad Time To Grab Helldivers 2, Especially When It’s On Sale](https://kotaku.com/helldivers-2-sale-playstation-discount-1851654995)
- - [PlayStation’s next State of Play livestream confirmed for Sept. 24](https://www.polygon.com/news/453873/playstation-state-of-play-september-2024)<!-- GAME:END -->
+ - [What Do You Do in a Hobbit Life Sim? Taking a Walk Through Tales of the Shire, Launching Next March](https://news.xbox.com/en-us/2024/09/23/tales-of-the-shire-hobbit-life-sim/)
+ - [I hope someone has the balls to import this Pixar-style animated musical about sperm](https://www.polygon.com/animation-cartoons/455007/spermageddon-review-sperm-sex-musical)
+ - [Get 50 Pathfinder books for $35 at Humble](https://www.polygon.com/good-deals/454728/pathfinder-second-edition-humble-bundle-sale)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
