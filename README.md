@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [A reminder that you put yourself in the friendzone, not her.](http://9gag.com/gag/aKGjG91)
- - ⏩ [Going down on her after making out for 5 minutes](http://9gag.com/gag/azxXdoZ)
- - 👉 [He forgot how to horse](http://9gag.com/gag/a87oA5Z)<!-- MEMES:END -->
+ - 💣 [Hey kids wanna something cool?](http://9gag.com/gag/aW414z6)
+ - ⏩ [Person](http://9gag.com/gag/aXPxn59)
+ - 👉 [Lol no way.](http://9gag.com/gag/avyO1KO)<!-- MEMES:END -->
 
 ---
 
