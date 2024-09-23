@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung could cheap out on Galaxy S25, S26 cameras](https://www.androidauthority.com/samsung-galaxy-s25-s26-same-camera-3484001/)
- - [AI copilots are evolving into AI agents designed to take actions on behalf of users, as business software companies experiment with ways to sell generative AI &lpar;Financial Times&rpar;](http://www.techmeme.com/240923/p2#a240923p2)
- - [Best Internet Providers in Bozeman, Montana](https://www.cnet.com/home/internet/best-internet-providers-in-bozeman-mt/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Here’s when to expect each batch of fresh Apple Intelligence features on iOS 18](https://www.androidauthority.com/apple-intelligence-timeline-ios-3484003/)
+ - [Legacy carmakers struggle to keep pace as the focus shifts from engines to computing power; only Ford, GM, and BMW are in Gartner&#39;s digital performance top 10 &lpar;Financial Times&rpar;](http://www.techmeme.com/240923/p3#a240923p3)
+ - [OPPO Find X8 Ultra wishlist: All the features I want to see](https://www.androidauthority.com/oppo-find-x8-ultra-3458722/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
