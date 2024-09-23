@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Statue of .....](http://9gag.com/gag/ajPEmzg)
- - ⏩ [Ready to settle down](http://9gag.com/gag/aND1DX6)
- - 👉 [Berlin, 21.09.24](http://9gag.com/gag/a5QoQAL)<!-- MEMES:END -->
+ - 💣 [They ruined her...](http://9gag.com/gag/ayNXqnM)
+ - ⏩ [Just on time delivery...](http://9gag.com/gag/ayNXNZq)
+ - 👉 [Can we learn this kind of power ?](http://9gag.com/gag/awyX3nB)<!-- MEMES:END -->
 
 ---
 
