@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [X will let people you’ve blocked see your posts](https://www.theverge.com/2024/9/23/24252438/x-blocked-users-view-public-posts)
- - [US customers of Kaspersky antivirus find UltraAV, an entirely different AV suite, remotely installed on their PCs, after a Kaspersky deal with UltraAV&#39;s owner &lpar;Lorenzo Franceschi-Bicchierai/TechCrunch&rpar;](http://www.techmeme.com/240923/p21#a240923p21)
- - [Today’s hottest smartphone deals from Google, Samsung, and Motorola](https://www.androidauthority.com/smartphone-deals-google-samsung-motorola-3484271/)<!-- TECH:END -->
+ - [It looks like Google was working on a Google TV Streamer ‘Pro’](https://www.androidauthority.com/google-tv-streamer-pro-reddit-3484291/)
+ - [The best fitness trackers to buy right now](https://www.theverge.com/22985108/best-fitness-tracker)
+ - [Assa Abloy partners with Boston Dynamics to let the dogs in](https://www.theverge.com/2024/9/23/24252240/assa-abloy-boston-dynamics-spot-robot-patrol-dog-door-smart-entry)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
