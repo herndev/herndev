@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Date the one who understands this as art \ud83c\udfa8 \ud83d\udc99](http://9gag.com/gag/aD2x6ZG)
- - ⏩ [No title](http://9gag.com/gag/amo7WDV)
- - 👉 [It turned out to be the right move](http://9gag.com/gag/aLnjeKA)<!-- MEMES:END -->
+ - 💣 [A reminder that you put yourself in the friendzone, not her.](http://9gag.com/gag/aKGjG91)
+ - ⏩ [Going down on her after making out for 5 minutes](http://9gag.com/gag/azxXdoZ)
+ - 👉 [He forgot how to horse](http://9gag.com/gag/a87oA5Z)<!-- MEMES:END -->
 
 ---
 
