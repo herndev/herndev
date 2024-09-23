@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I&#39;m not even mad, that&#39;s brilliant!](http://9gag.com/gag/adBK8A9)
- - ⏩ [Not today Satan.](http://9gag.com/gag/aYQgre2)
- - 👉 [Can we learn this kind of power ?](http://9gag.com/gag/awyX3nB)<!-- MEMES:END -->
+ - 💣 [Person](http://9gag.com/gag/aXPxn59)
+ - ⏩ [They ruined her...](http://9gag.com/gag/ayNXqnM)
+ - 👉 [A reminder that you put yourself in the friendzone, not her.](http://9gag.com/gag/aKGjG91)<!-- MEMES:END -->
 
 ---
 
