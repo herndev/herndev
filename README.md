@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [They ruined her...](http://9gag.com/gag/ayNXqnM)
- - ⏩ [Bro turns into red hulk](http://9gag.com/gag/aAyxy7d)
- - 👉 [The cleaning process](http://9gag.com/gag/a9yp1oW)<!-- MEMES:END -->
+ - 💣 [That was an overkill.](http://9gag.com/gag/aO8r833)
+ - ⏩ [Pick a number](http://9gag.com/gag/a9yp1Z1)
+ - 👉 [Bro turns into red hulk](http://9gag.com/gag/aAyxy7d)<!-- MEMES:END -->
 
 ---
 
