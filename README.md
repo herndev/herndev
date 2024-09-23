@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft’s largest ever security transformation detailed in new report](https://www.theverge.com/2024/9/23/24251945/microsoft-security-report-secure-future-initiative)
- - [Marvel’s new Thunderbolts trailer is armed to the teeth](https://www.theverge.com/2024/9/23/24252103/thunderbolts-trailer-release-date)
- - [Devil May Cry release date, plot, and more](https://www.androidauthority.com/devil-may-cry-release-date-3484162/)<!-- TECH:END -->
+ - [YouTube Premium subscribers are reporting price hikes around the globe](https://www.theverge.com/2024/9/23/24252145/youtube-premium-price-increase-europe-asia-middle-east-south-america)
+ - [Google TV Streamer shoved a silly ‘General Interest’ app folder on my home screen](https://www.androidauthority.com/google-tv-streamer-general-interest-app-folder-3484173/)
+ - [JBL’s new party lights wirelessly sync to its glowing speakers](https://www.theverge.com/2024/9/23/24252096/jbl-speaker-partylight-stick-beam-bluetooth-wireless)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
