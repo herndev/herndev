@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [These Google TV Streamer features are coming to older devices](https://www.androidauthority.com/google-tv-streamer-features-older-devices-3484057/)
- - [Automattic CEO Matt Mullenweg calls WP Engine a &quot;cancer to WordPress&quot; and says it profits off confusion between the WordPress project and commercial services &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/240923/p13#a240923p13)
- - [Compared: Aqara U50 vs U100 vs U200 - Good, better, best in Apple Home security](https://appleinsider.com/articles/24/09/23/compared-aqara-u50-vs-u100-vs-u200---good-better-best-in-apple-home-security?utm_medium=rss)<!-- TECH:END -->
+ - [Microsoft’s largest ever security transformation detailed in new report](https://www.theverge.com/2024/9/23/24251945/microsoft-security-report-secure-future-initiative)
+ - [Marvel’s new Thunderbolts trailer is armed to the teeth](https://www.theverge.com/2024/9/23/24252103/thunderbolts-trailer-release-date)
+ - [Devil May Cry release date, plot, and more](https://www.androidauthority.com/devil-may-cry-release-date-3484162/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
