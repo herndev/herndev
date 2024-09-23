@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Woot is offering $50 off the Switch OLED just in time for the new Zelda](https://www.theverge.com/2024/9/23/24252246/nintendo-switch-oled-woot-best-of-sale-deal)
- - [Telegram will now hand over your phone number and IP if you’re a criminal suspect](https://www.theverge.com/2024/9/23/24252276/telegram-disclose-user-data-legal-requests-criminal-activity)
- - [Microsoft releases a progress report on its efforts to make security its top priority, which began in November 2023 after a scathing report from the US CSRB &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/240923/p19#a240923p19)<!-- TECH:END -->
+ - [X will let people you’ve blocked see your posts](https://www.theverge.com/2024/9/23/24252438/x-blocked-users-view-public-posts)
+ - [US customers of Kaspersky antivirus find UltraAV, an entirely different AV suite, remotely installed on their PCs, after a Kaspersky deal with UltraAV&#39;s owner &lpar;Lorenzo Franceschi-Bicchierai/TechCrunch&rpar;](http://www.techmeme.com/240923/p21#a240923p21)
+ - [Today’s hottest smartphone deals from Google, Samsung, and Motorola](https://www.androidauthority.com/smartphone-deals-google-samsung-motorola-3484271/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
