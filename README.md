@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Hey kids wanna something cool?](http://9gag.com/gag/aW414z6)
- - ⏩ [Person](http://9gag.com/gag/aXPxn59)
- - 👉 [Lol no way.](http://9gag.com/gag/avyO1KO)<!-- MEMES:END -->
+ - 💣 [Going down on her after making out for 5 minutes](http://9gag.com/gag/azxXdoZ)
+ - ⏩ [It turned out to be the right move](http://9gag.com/gag/aLnjeKA)
+ - 👉 [Hey kids wanna something cool?](http://9gag.com/gag/aW414z6)<!-- MEMES:END -->
 
 ---
 
