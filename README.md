@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Chappell Roan Supports Fan Taking Concert Pictures On Their Nintendo DS](https://kotaku.com/chappell-roan-concert-london-nintendo-ds-pictures-1851655423)
- - [The zombie Flappy Bird saga gets weirder: &#39;The game will never have NFTs&#39; but it does have Web3 features and you can only play it through Telegram, which doesn&#39;t seem great](https://www.pcgamer.com/games/the-zombie-flappy-bird-saga-gets-weirder-the-game-will-never-have-nfts-but-it-does-have-web3-features-and-you-can-only-play-it-through-telegram-which-doesnt-seem-great)
- - [The Nintendo Switch Just Got One Hell Of An Arcade Platformer](https://kotaku.com/bzzzt-nintendo-switch-astro-bot-arcade-platformer-1851655376)<!-- GAME:END -->
+ - [Satisfactory players achieve absurd early-game speeds by building more ziplines to zipline on while ziplining](https://www.pcgamer.com/games/survival-crafting/satisfactory-players-achieve-absurd-early-game-speeds-by-building-more-ziplines-to-zipline-on-while-ziplining)
+ - [Someone made a mod to bypass the PSN login for God of War Ragnarök, and it works](https://www.pcgamer.com/games/action/someone-made-a-mod-to-bypass-the-psn-login-for-god-of-war-ragnarok-and-it-works)
+ - [Get hundreds of indie TTRPGs for just $10 at itch.io and support accessible gaming](https://www.polygon.com/good-deals/455327/itch-io-accessible-ttrpg-gaming-bundle-sale)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
