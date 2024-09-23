@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Kind Man Returns Lost Dog, Refuses Cash Reward, Only Asks To Be Able To Visit The Dog](http://9gag.com/gag/an7M47L)
- - ⏩ [. . .](http://9gag.com/gag/a5QoRzr)
- - 👉 [A man and his dog saves a french woman from fake asylum seekers](http://9gag.com/gag/aAyxxMR)<!-- MEMES:END -->
+ - 💣 [Sony just lost around $400m due to massive failure of concord](http://9gag.com/gag/a7oME8m)
+ - ⏩ [A reminder that you put yourself in the friendzone, not her.](http://9gag.com/gag/aKGjG91)
+ - 👉 [Look at this](http://9gag.com/gag/aO8r8p6)<!-- MEMES:END -->
 
 ---
 
