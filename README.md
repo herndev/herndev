@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [It Is Possible To Respec In Visions Of Mana, But Not Until The Late Game](https://kotaku.com/visions-of-mana-how-to-respec-rpg-square-1851654963)
- - [Surely &#39;Marines vs God&#39; is the game name of the year](https://www.pcgamer.com/games/rts/surely-marines-vs-god-is-the-game-name-of-the-year)
- - [What Do You Do in a Hobbit Life Sim? Taking a Walk Through Tales of the Shire, Launching Next March](https://news.xbox.com/en-us/2024/09/23/tales-of-the-shire-hobbit-life-sim/)<!-- GAME:END -->
+ - [The Mainline Legend Of Zelda Games, Ranked From Worst To Best](https://kotaku.com/best-legend-of-zelda-games-breath-wild-botw-nintendo-1850320051)
+ - [‘TwitchCon Is Very Queer’: How The Streaming Convention Strives For Inclusivity](https://kotaku.com/twitchcon-2024-drag-queens-showcase-queer-inclusive-1851655276)
+ - [Tim Walz loves Crazy Taxi, so thanks to modders you can now play Crazy Taxi as Tim Walz](https://www.pcgamer.com/games/racing/tim-walz-is-apparently-a-crazy-taxi-nut-so-someone-modded-him-into-the-dreamcast-classic)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
