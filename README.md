@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Similarweb: daily X users in the UK fell from 8M in May 2023 to 5.6M now, with 33%+ of the fall coming after the summer riots; US DAUs fell by ~20% in that time &lpar;Jemima Kelly/Financial Times&rpar;](http://www.techmeme.com/240923/p5#a240923p5)
- - [Even mid-range phones are getting Gorilla Glass Victus 2, IP69 ratings](https://www.androidauthority.com/xiaomi-redmi-note-14-pro-ip69-victus-2-3484016/)
- - [The FBI arrests and charges two people in Miami over a conspiracy to steal and launder 4,100+ bitcoin, worth $230M+, using crypto exchanges and mixing services &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/240923/p4#a240923p4)<!-- TECH:END -->
+ - [Android 15 update blocks old notification noise — finally, some peace!](https://www.androidauthority.com/android-15-qpr1-old-notifications-3483958/)
+ - [Touch screen issues hit iPhone 16 Pro and older models](https://appleinsider.com/articles/24/09/23/touch-screen-issues-hit-iphone-16-pro-and-older-models?utm_medium=rss)
+ - [The US and India announce plans for a new chip plant in India, producing infrared, gallium nitride, and silicon carbide chips, as Narendra Modi visits the US &lpar;Swati Gupta/Bloomberg&rpar;](http://www.techmeme.com/240923/p7#a240923p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
