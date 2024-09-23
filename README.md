@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The lungs : i&#39;m tired boss](http://9gag.com/gag/aqy78e7)
+ - 💣 [Date the one who understands this as art \ud83c\udfa8 \ud83d\udc99](http://9gag.com/gag/aD2x6ZG)
  - ⏩ [No title](http://9gag.com/gag/amo7WDV)
- - 👉 [Date the one who understands this as art \ud83c\udfa8 \ud83d\udc99](http://9gag.com/gag/aD2x6ZG)<!-- MEMES:END -->
+ - 👉 [It turned out to be the right move](http://9gag.com/gag/aLnjeKA)<!-- MEMES:END -->
 
 ---
 
