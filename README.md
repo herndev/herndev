@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Going down on her after making out for 5 minutes](http://9gag.com/gag/azxXdoZ)
- - ⏩ [Can we learn this kind of power ?](http://9gag.com/gag/awyX3nB)
- - 👉 [Help me, I&#39;m stuck](http://9gag.com/gag/ayNX3vW)<!-- MEMES:END -->
+ - 💣 [Can we learn this kind of power ?](http://9gag.com/gag/awyX3nB)
+ - ⏩ [Change my mind](http://9gag.com/gag/an7MRxz)
+ - 👉 [They ruined her...](http://9gag.com/gag/ayNXqnM)<!-- MEMES:END -->
 
 ---
 
