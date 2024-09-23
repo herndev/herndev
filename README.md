@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Standing on the Shoulders of Giants: How Iconic RPGs of the Past Led Me to Create Beyond Galaxyland](https://news.xbox.com/en-us/2024/09/23/beyond-galaxyland/)
- - [Today&#39;s Wordle answer for Monday, September 23](https://www.pcgamer.com/games/puzzle/wordle-answer-today-september-23-2024)
- - [Five new Steam games you probably missed &lpar;September 23, 2024&rpar;](https://www.pcgamer.com/software/platforms/five-new-steam-games-you-probably-missed-september-23-2024)<!-- GAME:END -->
+ - [God of War Ragnarök is getting review bombed and some questionable mods because it requires a PSN account, and players aren&#39;t happy](https://www.pcgamer.com/games/rpg/god-of-war-ragnarok-is-getting-review-bombed-and-some-questionable-mods-because-it-requires-a-psn-account-and-players-arent-happy)
+ - [Samsung and TSMC have been eyeballing the Middle East for new locations to build chip factories, says WSJ](https://www.pcgamer.com/hardware/samsung-and-tsmc-have-been-eyeballing-the-middle-east-for-new-locations-to-build-chip-factories-says-wsj)
+ - [Standing on the Shoulders of Giants: How Iconic RPGs of the Past Led Me to Create Beyond Galaxyland](https://news.xbox.com/en-us/2024/09/23/beyond-galaxyland/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
