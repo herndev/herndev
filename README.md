@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Behind Bot Farm Corporation, a Siberia-based operation that raked in millions of dollars by deploying advanced poker-playing AI software across gambling sites &lpar;Kit Chellel/Bloomberg&rpar;](http://www.techmeme.com/240923/p1#a240923p1)
  - [Poll: What do you think of FCC’s 60-day unlock policy?](https://www.androidauthority.com/fcc-60-days-unlock-policy-poll-3483979/)
- - [Today&#39;s NYT Connections Hints, Answers and Help for Sept. 23, #470](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-sept-23-470/#ftag=CAD590a51e)
- - [Today&#39;s Wordle Hints, Answer and Help for Sept. 23, #1192](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-sept-23-1192/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Today&#39;s NYT Mini Crossword Answers for Sept. 23](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-sept-23/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
