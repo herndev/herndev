@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The best thrillers of the year so far](https://www.polygon.com/what-to-watch/454161/best-thrillers-movies-2024-watch)
- - [Stardew Valley’s 1.6 update coming to console and mobile in November](https://www.polygon.com/news/455030/stardew-valley-1-6-release-date-switch-console-mobile)
- - [PlayStation 30th Anniversary Collection Prices Have Started To Leak](https://kotaku.com/playstation-30th-anniversary-collection-price-preorder-1851654694)<!-- GAME:END -->
+ - [A Progress Update on Our Carbon Reduction Goals at Xbox](https://news.xbox.com/en-us/2024/09/23/xbox-carbon-reduction-sustainability-update-2024/)
+ - [Everything You Need To Know About Silent Hill 2-Inspired Horror Hollowbody](https://kotaku.com/hollowbody-how-long-to-beat-price-silent-hill-1851654742)
+ - [Marvel&#39;s Thunderbolts Teases Shadowy Chaos In First Trailer](https://kotaku.com/marvel-thunderbolts-trailer-bucky-taskmaster-release-da-1851654765)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
