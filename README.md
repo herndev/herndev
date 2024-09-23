@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [That damn smile](http://9gag.com/gag/agmXm1r)
- - ⏩ [For the captains on the road.](http://9gag.com/gag/aE0x0V9)
- - 👉 [I&#39;m not even mad, that&#39;s brilliant!](http://9gag.com/gag/adBK8A9)<!-- MEMES:END -->
+ - 💣 [Bye bakery](http://9gag.com/gag/a6ZoExq)
+ - ⏩ [Person](http://9gag.com/gag/aXPxn59)
+ - 👉 [A reminder that you put yourself in the friendzone, not her.](http://9gag.com/gag/aKGjG91)<!-- MEMES:END -->
 
 ---
 
