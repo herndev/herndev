@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Going down on her after making out for 5 minutes](http://9gag.com/gag/azxXdoZ)
- - ⏩ [It turned out to be the right move](http://9gag.com/gag/aLnjeKA)
- - 👉 [Hey kids wanna something cool?](http://9gag.com/gag/aW414z6)<!-- MEMES:END -->
+ - 💣 [French police charging firefighters, firefighters not having any of it](http://9gag.com/gag/ae9MO8Q)
+ - ⏩ [Hey kids wanna something cool?](http://9gag.com/gag/aW414z6)
+ - 👉 [Saudi Arabia as a millon empty AC tents, but not a Single Palestinian refugees. WHY?](http://9gag.com/gag/ae9M43v)<!-- MEMES:END -->
 
 ---
 
