@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [AC Technician Charges $1,700 to repair a small fix and gets caught on camera.](http://9gag.com/gag/awyXze1)
- - ⏩ [Sony just lost around $400m due to massive failure of concord](http://9gag.com/gag/a7oME8m)
- - 👉 [Didn\u2019t expect that to happen](http://9gag.com/gag/a0eKogv)<!-- MEMES:END -->
+ - 💣 [Statue of .....](http://9gag.com/gag/ajPEmzg)
+ - ⏩ [Ready to settle down](http://9gag.com/gag/aND1DX6)
+ - 👉 [Berlin, 21.09.24](http://9gag.com/gag/a5QoQAL)<!-- MEMES:END -->
 
 ---
 
