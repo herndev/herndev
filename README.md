@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Ara: History Untold review](https://www.pcgamer.com/games/strategy/ara-history-untold-review)
- - [Warhammer 40K Kill Team: Hivestorm is way more than a starter set](https://www.polygon.com/review/454527/40k-kill-team-hivestorm-review-solo-coop)
- - [Beloved Skyrim YouTuber Grandma Shirley Is Finally Retiring At Age 88](https://kotaku.com/grandma-shirley-curry-skyrim-youtube-bethesda-1851654620)<!-- GAME:END -->
+ - [The best thrillers of the year so far](https://www.polygon.com/what-to-watch/454161/best-thrillers-movies-2024-watch)
+ - [Stardew Valley’s 1.6 update coming to console and mobile in November](https://www.polygon.com/news/455030/stardew-valley-1-6-release-date-switch-console-mobile)
+ - [PlayStation 30th Anniversary Collection Prices Have Started To Leak](https://kotaku.com/playstation-30th-anniversary-collection-price-preorder-1851654694)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
