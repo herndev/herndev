@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [They ruined her...](http://9gag.com/gag/ayNXqnM)
- - ⏩ [Berlin, 21.09.24](http://9gag.com/gag/a5QoQAL)
- - 👉 [He forgot how to horse](http://9gag.com/gag/a87oA5Z)<!-- MEMES:END -->
+ - 💣 [I&#39;m not even mad, that&#39;s brilliant!](http://9gag.com/gag/adBK8A9)
+ - ⏩ [Not today Satan.](http://9gag.com/gag/aYQgre2)
+ - 👉 [Can we learn this kind of power ?](http://9gag.com/gag/awyX3nB)<!-- MEMES:END -->
 
 ---
 
