@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The list of best-selling phones in H1 2024 is encouraging news for Android](https://www.androidauthority.com/most-popular-phones-h1-2024-3484063/)
- - [A profile of Amazon executive Rohit Prasad, who now oversees a new team of thousands to develop AI products for an Alexa upgrade and other businesses &lpar;Sebastian Herrera/Wall Street Journal&rpar;](http://www.techmeme.com/240923/p10#a240923p10)
- - [One UI 7: What we know so far and what want to see](https://www.androidauthority.com/one-ui-7-3429831/)<!-- TECH:END -->
+ - [The US Commerce Department proposes banning Chinese software and hardware for internet connected vehicles, effectively banning Chinese vehicles in the US &lpar;Felicia Schwartz/Financial Times&rpar;](http://www.techmeme.com/240923/p11#a240923p11)
+ - [New Cloudflare Tools Let Sites Detect and Block AI Bots for Free](https://www.wired.com/story/cloudflare-tools-detect-block-ai-bots/)
+ - [Apple executives celebrate, reflect on the first decade of the Apple Watch](https://appleinsider.com/articles/24/09/21/apple-executives-celebrate-reflect-on-the-first-decade-of-the-apple-watch?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
