@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The US Commerce Department proposes banning Chinese software and hardware for internet connected vehicles, effectively banning Chinese vehicles in the US &lpar;Felicia Schwartz/Financial Times&rpar;](http://www.techmeme.com/240923/p11#a240923p11)
- - [New Cloudflare Tools Let Sites Detect and Block AI Bots for Free](https://www.wired.com/story/cloudflare-tools-detect-block-ai-bots/)
- - [Apple executives celebrate, reflect on the first decade of the Apple Watch](https://appleinsider.com/articles/24/09/21/apple-executives-celebrate-reflect-on-the-first-decade-of-the-apple-watch?utm_medium=rss)<!-- TECH:END -->
+ - [These Google TV Streamer features are coming to older devices](https://www.androidauthority.com/google-tv-streamer-features-older-devices-3484057/)
+ - [Automattic CEO Matt Mullenweg calls WP Engine a &quot;cancer to WordPress&quot; and says it profits off confusion between the WordPress project and commercial services &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/240923/p13#a240923p13)
+ - [Compared: Aqara U50 vs U100 vs U200 - Good, better, best in Apple Home security](https://appleinsider.com/articles/24/09/23/compared-aqara-u50-vs-u100-vs-u200---good-better-best-in-apple-home-security?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
