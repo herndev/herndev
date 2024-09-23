@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [YouTube Premium subscribers are reporting price hikes around the globe](https://www.theverge.com/2024/9/23/24252145/youtube-premium-price-increase-europe-asia-middle-east-south-america)
- - [Google TV Streamer shoved a silly ‘General Interest’ app folder on my home screen](https://www.androidauthority.com/google-tv-streamer-general-interest-app-folder-3484173/)
- - [JBL’s new party lights wirelessly sync to its glowing speakers](https://www.theverge.com/2024/9/23/24252096/jbl-speaker-partylight-stick-beam-bluetooth-wireless)<!-- TECH:END -->
+ - [Nothing’s open-style headphones leak just before launch](https://www.theverge.com/2024/9/23/24252179/nothing-ear-open-wraparound-earbuds-design-leak)
+ - [PlayStation’s next State of Play will cover more than 20 PS5 and PSVR 2 games](https://www.theverge.com/2024/9/23/24252281/sony-playstation-state-of-play-ps5-psvr-2-games)
+ - [Leaked Samsung Galaxy S24 FE unboxing video leaves little to the imagination](https://www.androidauthority.com/galaxy-s24-fe-unboxing-3484186/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
