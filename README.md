@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Tips to Advance Through the First Era of Ara: History Untold](https://news.xbox.com/en-us/2024/09/23/ara-history-untold-tips/)
- - [Thunderbolts*’ mysterious ‘Bob’ is Marvel’s own dark Superman](https://www.polygon.com/marvel/455057/sentry-bob-thunderbolts)
- - [God Of War Ragnarök’s PC Port Is A Worse Version Of An Excellent Game](https://kotaku.com/god-of-war-ragnarok-pc-steam-framerate-network-login-1851654888)<!-- GAME:END -->
+ - [Echoes of Wisdom started as a Zelda dungeon editor game](https://www.polygon.com/zelda/455109/echoes-of-wisdom-started-dungeon-maker)
+ - [It’s Never A Bad Time To Grab Helldivers 2, Especially When It’s On Sale](https://kotaku.com/helldivers-2-sale-playstation-discount-1851654995)
+ - [PlayStation’s next State of Play livestream confirmed for Sept. 24](https://www.polygon.com/news/453873/playstation-state-of-play-september-2024)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
