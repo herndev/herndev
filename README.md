@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Can we learn this kind of power ?](http://9gag.com/gag/awyX3nB)
- - ⏩ [Change my mind](http://9gag.com/gag/an7MRxz)
- - 👉 [They ruined her...](http://9gag.com/gag/ayNXqnM)<!-- MEMES:END -->
+ - 💣 [Change my mind](http://9gag.com/gag/an7MRxz)
+ - ⏩ [They ruined her...](http://9gag.com/gag/ayNXqnM)
+ - 👉 [It turned out to be the right move](http://9gag.com/gag/aLnjeKA)<!-- MEMES:END -->
 
 ---
 
