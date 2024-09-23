@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [In an event that raised $27M, Kamala Harris vowed to help grow investments in AI and crypto, her first comments on crypto as the Democratic presidential nominee &lpar;Jennifer Epstein/Bloomberg&rpar;](http://www.techmeme.com/240922/p12#a240922p12)
  - [Profile of Alexandr Wang, CEO of Scale AI, which hires contractors to do data labeling tasks, as he looks to expand to higher-margin AI tools to sustain growth &lpar;Berber Jin/Wall Street Journal&rpar;](http://www.techmeme.com/240922/p11#a240922p11)
- - [Best Internet Providers in Largo, Florida](https://www.cnet.com/home/internet/best-internet-providers-in-largo-fl/#ftag=CAD590a51e)
- - [Best Internet Providers in Milwaukee, Wisconsin](https://www.cnet.com/home/internet/best-internet-providers-in-milwaukee-wi/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Internet Providers in Largo, Florida](https://www.cnet.com/home/internet/best-internet-providers-in-largo-fl/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
