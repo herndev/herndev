@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [PSA: With RCS now on iOS, be careful when renaming group chats](https://www.androidauthority.com/rcs-apple-ios-group-chat-name-android-3483387/)
- - [Behind Bot Farm Corporation, a Siberia-based operation that raked in millions of dollars by deploying advanced poker-playing AI software across gambling sites &lpar;Kit Chellel/Bloomberg&rpar;](http://www.techmeme.com/240923/p1#a240923p1)
- - [Poll: What do you think of FCC’s 60-day unlock policy?](https://www.androidauthority.com/fcc-60-days-unlock-policy-poll-3483979/)<!-- TECH:END -->
+ - [Samsung could cheap out on Galaxy S25, S26 cameras](https://www.androidauthority.com/samsung-galaxy-s25-s26-same-camera-3484001/)
+ - [AI copilots are evolving into AI agents designed to take actions on behalf of users, as business software companies experiment with ways to sell generative AI &lpar;Financial Times&rpar;](http://www.techmeme.com/240923/p2#a240923p2)
+ - [Best Internet Providers in Bozeman, Montana](https://www.cnet.com/home/internet/best-internet-providers-in-bozeman-mt/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
