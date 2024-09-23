@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [They ruined her...](http://9gag.com/gag/ayNXqnM)
- - ⏩ [Just on time delivery...](http://9gag.com/gag/ayNXNZq)
- - 👉 [Can we learn this kind of power ?](http://9gag.com/gag/awyX3nB)<!-- MEMES:END -->
+ - ⏩ [Berlin, 21.09.24](http://9gag.com/gag/a5QoQAL)
+ - 👉 [He forgot how to horse](http://9gag.com/gag/a87oA5Z)<!-- MEMES:END -->
 
 ---
 
