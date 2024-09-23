@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [God of War Ragnarök is getting review bombed and some questionable mods because it requires a PSN account, and players aren&#39;t happy](https://www.pcgamer.com/games/rpg/god-of-war-ragnarok-is-getting-review-bombed-and-some-questionable-mods-because-it-requires-a-psn-account-and-players-arent-happy)
- - [Samsung and TSMC have been eyeballing the Middle East for new locations to build chip factories, says WSJ](https://www.pcgamer.com/hardware/samsung-and-tsmc-have-been-eyeballing-the-middle-east-for-new-locations-to-build-chip-factories-says-wsj)
- - [Standing on the Shoulders of Giants: How Iconic RPGs of the Past Led Me to Create Beyond Galaxyland](https://news.xbox.com/en-us/2024/09/23/beyond-galaxyland/)<!-- GAME:END -->
+ - [Ara: History Untold review](https://www.pcgamer.com/games/strategy/ara-history-untold-review)
+ - [Warhammer 40K Kill Team: Hivestorm is way more than a starter set](https://www.polygon.com/review/454527/40k-kill-team-hivestorm-review-solo-coop)
+ - [Beloved Skyrim YouTuber Grandma Shirley Is Finally Retiring At Age 88](https://kotaku.com/grandma-shirley-curry-skyrim-youtube-bethesda-1851654620)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
