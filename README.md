@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Best graphics card for laptops in 2024: the mobile GPUs I&#39;d want in my next gaming laptop](https://www.pcgamer.com/hardware/gaming-laptops/best-graphics-card-for-laptop)
- - [What time does Zelda: Echoes of Wisdom release?](https://www.polygon.com/zelda-echoes-wisdom-guides/455018/release-time-us-east-coast-west-coast-uk-europe-preload)
- - [&lpar;For Singapore and Malaysia&rpar; Welcome PlayStation 5 Pro, the most visually impressive way to play games on PlayStation](https://blog.playstation.com/2024/09/23/20240917-ps5pro/)<!-- GAME:END -->
+ - [&#39;I&#39;ve always released on PC first&#39;: Stardew Valley creator Eric Barone discusses why the 1.6 update came to PC before console—&#39;it&#39;s sort of a beta test&#39;](https://www.pcgamer.com/games/life-sim/ive-always-released-on-pc-first-stardew-valley-creator-eric-barone-discusses-why-the-16-update-came-to-pc-before-consoleits-sort-of-a-beta-test)
+ - [Blasphemous 2&#39;s new expansion and update adds more areas, bosses, and a New Game Plus mode, giving me another reason to suffer through this fantastic metroidvania again](https://www.pcgamer.com/games/action/blasphemous-2s-new-expansion-and-update-adds-more-areas-bosses-and-a-new-game-plus-mode-giving-me-another-reason-to-suffer-through-this-fantastic-metroidvania-again)
+ - [As a recent D&amp;D to Pathfinder 2e convert, this Humble Bundle&#39;s value is absurd—getting you everything you need to start playing, plus extra adventures, for $15](https://www.pcgamer.com/games/board-games/as-a-recent-d-d-to-pathfinder-2e-convert-this-humble-bundle-s-value-is-absurd-getting-you-everything-you-need-to-start-playing-plus-extra-adventures-for-15)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
