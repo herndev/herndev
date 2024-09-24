@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [SteelSeries’ new Apex Pro Gen 3 has upgraded switches and a thockier sound](https://www.theverge.com/2024/9/24/24252951/steelseries-apex-pro-gen-3-keyboards-hall-effect)
- - [First trailer for Ryan Coogler’s Sinners leaves the scariest parts to your imagination](https://www.theverge.com/2024/9/24/24253037/ryan-coogler-sinners-trailer-release-date)
- - [Logitech MX Creative Console review: the $200 control surface for apps like Lightroom is an affordable entry point, but pros may find the controls limiting &lpar;Steve Dent/Engadget&rpar;](http://www.techmeme.com/240924/p24#a240924p24)<!-- TECH:END -->
+ - [Tripling renewable energy capacity is ‘within reach,’ report says](https://www.theverge.com/2024/9/24/24252994/renewable-energy-triple-capacity-iea-report)
+ - [Logitech goes after Streamdeck with MX Creative Console](https://appleinsider.com/articles/24/09/24/logitech-goes-after-streamdeck-with-mx-creative-console?utm_medium=rss)
+ - [Sources: some key staff working on Microsoft&#39;s distilled AI models like Phi, trained on synthetic data, have left the Microsoft AI unit led by Mustafa Suleyman &lpar;Aaron Holmes/The Information&rpar;](http://www.techmeme.com/240924/p25#a240924p25)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
