@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Transparent is Back – Introducing the Cipher Series](https://news.xbox.com/en-us/2024/09/24/xbox-cipher-series-transparent-controller-design-lab/)
- - [Sony And Shift Up Sued Over Stellar Blade Name Rights](https://kotaku.com/stellar-blade-sony-shift-up-legal-case-trademark-1851655699)
- - [There&#39;s No Wrong Way To Tackle Visions Of Mana&#39;s Bosses, But There&#39;s A Right Way For You](https://kotaku.com/visions-of-mana-benevodon-boss-fights-guide-1851655719)<!-- GAME:END -->
+ - [Tekken 8: hands-on with Heihachi Mishima](https://blog.playstation.com/2024/09/24/tekken-8-hands-on-with-heihachi-mishima/)
+ - [It’s Your World Now – Ara: History Untold Launches Today](https://news.xbox.com/en-us/2024/09/24/ara-history-untold-launches-today/)
+ - [Assassin&#39;s Creed Shadows Has A Base-Building Sim Inside Of It](https://kotaku.com/assassins-creed-shadows-base-building-rpg-settlement-1851655892)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
