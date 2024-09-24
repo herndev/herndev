@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [French police charging firefighters, firefighters not having any of it](http://9gag.com/gag/ae9MO8Q)
- - ⏩ [Hey kids wanna something cool?](http://9gag.com/gag/aW414z6)
- - 👉 [Saudi Arabia as a millon empty AC tents, but not a Single Palestinian refugees. WHY?](http://9gag.com/gag/ae9M43v)<!-- MEMES:END -->
+ - 💣 [Let&#39;s put together a list of games we won&#39;t purchase. Please add anything else if you have more.](http://9gag.com/gag/aGyjE25)
+ - ⏩ [Lol no way.](http://9gag.com/gag/avyO1KO)
+ - 👉 [Hey kids wanna something cool?](http://9gag.com/gag/aW414z6)<!-- MEMES:END -->
 
 ---
 
