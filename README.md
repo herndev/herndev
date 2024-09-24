@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Wear OS 5 and the Recorder app are rolling out to older Pixel Watches](https://www.theverge.com/2024/9/24/24253258/pixel-watch-wear-os-5-smartwatch-wearables)
- - [James Cameron is joining Stability AI’s board of directors](https://www.theverge.com/2024/9/24/24253272/james-cameron-stability-ai)
- - [Nothing teases OS 3.0 changes: ‘the OS we always wanted to make’](https://www.androidauthority.com/nothing-os-3-0-teaser-3484608/)<!-- TECH:END -->
+ - [Sources: FBI raided the Reston, Virginia offices of Carahsoft, a government IT vendor, as part of a probe into a company with which Carahsoft has done business &lpar;David DiMolfetta/Nextgov/FCW&rpar;](http://www.techmeme.com/240924/p40#a240924p40)
+ - [Stability AI says filmmaker James Cameron has joined its board of directors &lpar;Alex Weprin/The Hollywood Reporter&rpar;](http://www.techmeme.com/240924/p39#a240924p39)
+ - [How Google made the ad tech industry revolve around itself](https://www.theverge.com/2024/9/24/24253293/google-ad-tech-antitrust-trial-doj-case)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
