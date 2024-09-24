@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Doggos are the best! Change my mind.](http://9gag.com/gag/abAMWWE)
- - ⏩ [Nice German stereotypes](http://9gag.com/gag/a4P76yp)
+ - 💣 [Nice German stereotypes](http://9gag.com/gag/a4P76yp)
+ - ⏩ [KERMIT THE MYTH](http://9gag.com/gag/apR2PWW)
  - 👉 [Me every evening](http://9gag.com/gag/a0eK6dv)<!-- MEMES:END -->
 
 ---
