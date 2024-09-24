@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung is taking pre-orders for an unannounced phone](https://www.theverge.com/2024/9/24/24253223/samsung-galaxy-s24-fe-pre-order-live-announcement)
- - [Now’s your chance to try out Spotify’s AI-generated playlists](https://www.androidauthority.com/spotify-ai-playlist-roll-out-3484590/)
- - [The best instant cameras you can buy right now](https://www.theverge.com/23133103/best-instant-cameras-fujifilm-polaroid-kodak)<!-- TECH:END -->
+ - [Microsoft debuts Correction in preview as part of the Azure AI Content Safety API; the service tries to find and revise AI-generated text that&#39;s factually wrong &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240924/p35#a240924p35)
+ - [This DIY kit gives you the Switch Lite OLED that Nintendo hasn’t](https://www.theverge.com/2024/9/24/24253224/nintendo-switch-lite-oled-upgrade-kit)
+ - [Here are Jony Ive’s $3,000 jackets](https://www.theverge.com/2024/9/24/24253225/jony-ive-lovefrom-moncler-collection-launches)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
