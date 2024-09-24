@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The MrBeast controversy era continues, with lunch packs and a lawsuit](https://www.polygon.com/culture/455739/mrbeast-controversy-continues-lunchly-lunch-packs)
- - [PlayStation State of Play for September 2024](https://www.polygon.com/gaming/455708/playstation-state-of-play-september-2024-news)
- - [New Lego Leia Minifig Shows Less Skin And Yes, People Are Being Weird About It](https://kotaku.com/new-lego-slave-leia-minifig-skirt-star-wars-jabba-barge-1851656395)<!-- GAME:END -->
+ - [World of Warcraft player accidentally sells extremely rare pet for 1/10th of its value: &#39;That&#39;s like my entire game savings over the last 17 years, gone&#39;](https://www.pcgamer.com/games/mmo/world-of-warcraft-player-accidentally-sells-extremely-rare-pet-for-110th-of-its-value-thats-like-my-entire-game-savings-over-the-last-17-years-gone)
+ - [New Lego Leia Minifig Shows Less Skin And Yes, People Are Being Weird About It](https://kotaku.com/new-lego-slave-leia-minifig-skirt-star-wars-jabba-barge-1851656395)
+ - [Space Marine 2 board game aims to indoctrinate videogame fans into the Warhammer miniatures lifestyle](https://www.pcgamer.com/games/strategy/space-marine-2-board-game-aims-to-indoctrinate-videogame-fans-into-the-warhammer-miniatures-lifestyle)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
