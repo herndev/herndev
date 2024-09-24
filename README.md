@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [2024’s Most Absurd Platformer Is On Sale Right Now](https://kotaku.com/thank-goodness-youre-here-steam-sale-absurd-comedy-1851656501)
- - [Three months after bringing Wayfinder back to Steam, Airship Syndicate announces more layoffs but says future development will continue](https://www.pcgamer.com/games/rpg/three-months-after-bringing-wayfinder-back-to-steam-airship-syndicate-announces-more-layoffs-but-says-future-development-will-continue)
- - [TwitchCon 2024 Was A Whirlwind](https://kotaku.com/twitchcon-2024-san-diego-diary-recap-hasanabi-1851656399)<!-- GAME:END -->
+ - [The MrBeast controversy era continues, with lunch packs and a lawsuit](https://www.polygon.com/culture/455739/mrbeast-controversy-continues-lunchly-lunch-packs)
+ - [PlayStation State of Play for September 2024](https://www.polygon.com/gaming/455708/playstation-state-of-play-september-2024-news)
+ - [New Lego Leia Minifig Shows Less Skin And Yes, People Are Being Weird About It](https://kotaku.com/new-lego-slave-leia-minifig-skirt-star-wars-jabba-barge-1851656395)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
