@@ -32,8 +32,8 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Best graphics card for laptops in 2024: the mobile GPUs I&#39;d want in my next gaming laptop](https://www.pcgamer.com/hardware/gaming-laptops/best-graphics-card-for-laptop)
  - [What time does Zelda: Echoes of Wisdom release?](https://www.polygon.com/zelda-echoes-wisdom-guides/455018/release-time-us-east-coast-west-coast-uk-europe-preload)
- - [&lpar;For Singapore and Malaysia&rpar; Welcome PlayStation 5 Pro, the most visually impressive way to play games on PlayStation](https://blog.playstation.com/2024/09/23/20240917-ps5pro/)
  - [&lpar;For Singapore and Malaysia&rpar; Welcome PlayStation 5 Pro, the most visually impressive way to play games on PlayStation](https://blog.playstation.com/2024/09/23/20240917-ps5pro/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
