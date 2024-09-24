@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Q&amp;A with Vinod Khosla on investing in AI and OpenAI, AI risks, the impact of AI in the labor market, regulation, dominance within the global AI race, and more &lpar;Astha Rajvanshi/TIME&rpar;](http://www.techmeme.com/240923/p35#a240923p35)
  - [A teardown of Huawei&#39;s popular Qingyun L540 laptop, which relies on some foreign tech, reveals the challenges ahead for China&#39;s tech self-sufficiency efforts &lpar;Ryan McMorrow/Financial Times&rpar;](http://www.techmeme.com/240923/p34#a240923p34)
- - [How safe are Google Pay, Apple Pay, and other payment apps on your phone?](https://www.androidauthority.com/is-google-pay-apple-pay-safe-3484366/)
- - [Celestia Foundation, which is behind the Celestia modular blockchain network, raised a $100M round led by Bain Capital Crypto, taking its total raised to $155M &lpar;Daniel Kuhn/The Block&rpar;](http://www.techmeme.com/240923/p33#a240923p33)<!-- TECH:END -->
+ - [How safe are Google Pay, Apple Pay, and other payment apps on your phone?](https://www.androidauthority.com/is-google-pay-apple-pay-safe-3484366/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
