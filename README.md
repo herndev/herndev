@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The lungs : i&#39;m tired boss](http://9gag.com/gag/aqy78e7)
+ - 💣 [F around and find out](http://9gag.com/gag/an7Mn60)
  - ⏩ [Help me, I&#39;m stuck](http://9gag.com/gag/ayNX3vW)
- - 👉 [Lol no way.](http://9gag.com/gag/avyO1KO)<!-- MEMES:END -->
+ - 👉 [Isnt 100k just for rent now?](http://9gag.com/gag/ayNX6eX)<!-- MEMES:END -->
 
 ---
 
