@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [It turned out to be the right move](http://9gag.com/gag/aLnjeKA)
- - ⏩ [Sure, why not](http://9gag.com/gag/apR234M)
- - 👉 [It ain&#39;t much](http://9gag.com/gag/aZZ314X)<!-- MEMES:END -->
+ - 💣 [Help me, I&#39;m stuck](http://9gag.com/gag/ayNX3vW)
+ - ⏩ [Saudi Arabia as a millon empty AC tents, but not a Single Palestinian refugees. WHY?](http://9gag.com/gag/ae9M43v)
+ - 👉 [Look at this](http://9gag.com/gag/aO8r8p6)<!-- MEMES:END -->
 
 ---
 
