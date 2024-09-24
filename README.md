@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tripling renewable energy capacity is ‘within reach,’ report says](https://www.theverge.com/2024/9/24/24252994/renewable-energy-triple-capacity-iea-report)
- - [Logitech goes after Streamdeck with MX Creative Console](https://appleinsider.com/articles/24/09/24/logitech-goes-after-streamdeck-with-mx-creative-console?utm_medium=rss)
- - [Sources: some key staff working on Microsoft&#39;s distilled AI models like Phi, trained on synthetic data, have left the Microsoft AI unit led by Mustafa Suleyman &lpar;Aaron Holmes/The Information&rpar;](http://www.techmeme.com/240924/p25#a240924p25)<!-- TECH:END -->
+ - [iPhone 16 vs iPhone 16 Pro compared -- Going Pro in 2024](https://appleinsider.com/inside/iphone-16/vs/iphone-16-vs-iphone-16-pro-compared----going-pro-in-2024?utm_medium=rss)
+ - [Sources: Mark Zuckerberg wants to get away from politics, pulling back from charitable causes that may seem partisan, tamping down employee activism, and more &lpar;New York Times&rpar;](http://www.techmeme.com/240924/p29#a240924p29)
+ - [The AirPods 4 are on sale for the first time](https://www.theverge.com/2024/9/24/24249916/apple-airpods-4-with-active-noise-cancellation-super-mario-bros-wonder-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
