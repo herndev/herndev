@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Sims 4 needs to get stripped to the studs if it&#39;s going to be the &#39;foundation&#39; for another decade of DLCs](https://www.pcgamer.com/games/the-sims/the-sims-4-needs-to-get-stripped-to-the-studs-if-its-going-to-be-the-foundation-for-another-decade-of-dlcs)
- - [Megalopolis is a fantasy disasterpiece, but this book explains why it exists](https://www.polygon.com/opinion/455654/megalopolis-explained-francis-ford-coppola-story)
- - [Breaking Down The Best And Worst Agatha All Along Theories](https://kotaku.com/marvel-agatha-all-along-mcu-theories-wiccan-mephisto-1851656313)<!-- GAME:END -->
+ - [2024’s Most Absurd Platformer Is On Sale Right Now](https://kotaku.com/thank-goodness-youre-here-steam-sale-absurd-comedy-1851656501)
+ - [Three months after bringing Wayfinder back to Steam, Airship Syndicate announces more layoffs but says future development will continue](https://www.pcgamer.com/games/rpg/three-months-after-bringing-wayfinder-back-to-steam-airship-syndicate-announces-more-layoffs-but-says-future-development-will-continue)
+ - [TwitchCon 2024 Was A Whirlwind](https://kotaku.com/twitchcon-2024-san-diego-diary-recap-hasanabi-1851656399)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
