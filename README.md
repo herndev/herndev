@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How to Watch the Xbox Tokyo Game Show 2024 Broadcast This Thursday](https://news.xbox.com/en-us/2024/09/23/xbox-tokyo-game-show-2024-tgs-how-to-watch/)
- - [Court orders X to reveal the identities of Genshin Impact leakers](https://www.pcgamer.com/games/rpg/court-orders-x-to-reveal-the-identities-of-genshin-impact-leakers)
- - [Satisfactory players achieve absurd early-game speeds by building more ziplines to zipline on while ziplining](https://www.pcgamer.com/games/survival-crafting/satisfactory-players-achieve-absurd-early-game-speeds-by-building-more-ziplines-to-zipline-on-while-ziplining)<!-- GAME:END -->
+ - [Pro WoW player risks it all by using a bug to get a 4% damage increase in world first race before getting caught on stream](https://www.pcgamer.com/games/world-of-warcraft/pro-wow-player-risks-it-all-by-using-a-bug-to-get-a-4-damage-increase-in-world-first-race-before-getting-caught-on-stream)
+ - [The best VR boxing game, and my favorite VR game in general, is getting a sequel with multiplayer soon](https://www.pcgamer.com/games/vr/the-best-vr-boxing-game-and-my-favorite-vr-game-in-general-is-getting-a-sequel-with-multiplayer-soon)
+ - [Baldur&#39;s Gate and Neverwinter Nights veterans are making a new RPG with a vision of &#39;Baldur&#39;s Gate 3, but Pathfinder, with miniatures&#39;](https://www.pcgamer.com/games/rpg/baldur-s-gate-and-neverwinter-nights-veterans-are-making-a-new-rpg-with-a-vision-of-baldur-s-gate-3-but-pathfinder-with-miniatures)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
