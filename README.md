@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [KERMIT THE MYTH](http://9gag.com/gag/apR2PWW)
- - ⏩ [Diddy do it?](http://9gag.com/gag/aGyjGZK)
- - 👉 [HoMM3 Heroes come to life](http://9gag.com/gag/aoyN4Ve)<!-- MEMES:END -->
+ - 💣 [They have Mongolian in their blood..](http://9gag.com/gag/aqy7xWL)
+ - ⏩ [Oh no](http://9gag.com/gag/axy16OK)
+ - 👉 [A reckless driver caused a truck collision.](http://9gag.com/gag/a9yp8XD)<!-- MEMES:END -->
 
 ---
 
