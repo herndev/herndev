@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Tekken 8: hands-on with Heihachi Mishima](https://blog.playstation.com/2024/09/24/tekken-8-hands-on-with-heihachi-mishima/)
- - [It’s Your World Now – Ara: History Untold Launches Today](https://news.xbox.com/en-us/2024/09/24/ara-history-untold-launches-today/)
- - [Assassin&#39;s Creed Shadows Has A Base-Building Sim Inside Of It](https://kotaku.com/assassins-creed-shadows-base-building-rpg-settlement-1851655892)<!-- GAME:END -->
+ - [Sony’s InZone M10S is a lightning-fast OLED gaming monitor](https://www.polygon.com/news/455058/sony-oled-m10s-inzone-gaming-monitor-specs-price)
+ - [Who Exactly Is Bob In Marvel’s Thunderbolts? Sentry Explained](https://kotaku.com/marvel-thunderbolts-sentry-bob-mcu-lewis-pullman-1851656009)
+ - [PSA: Switch Online members can save on new games, even Zelda: Echoes of Wisdom](https://www.polygon.com/good-deals/455365/game-vouchers-switch-online-nintendo-deal)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
