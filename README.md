@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Imagine asking for directions.](http://9gag.com/gag/aqy7QjY)
- - ⏩ [This kid just got yeeted out of McDonalds](http://9gag.com/gag/avyOW9b)
+ - 💣 [Shadow magic](http://9gag.com/gag/aVv3E1v)
+ - ⏩ [Dammmmnnn](http://9gag.com/gag/a1mo5oD)
  - 👉 [Caught this guy at Oktoberfest pretending to film the band, but he was filming something else\u2026](http://9gag.com/gag/aMVjPXW)<!-- MEMES:END -->
 
 ---
