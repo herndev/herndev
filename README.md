@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Myntra founder Mukesh Bansal&#39;s Nurix AI, which builds custom AI agents for enterprise services, raises a $27.5M seed from Accel, General Catalyst, and others &lpar;Digbijay Mishra/The Economic Times&rpar;](http://www.techmeme.com/240924/p2#a240924p2)
- - [Dyson Promo Code: Up to $200 Off Vacuums &lpar;September 2024&rpar;](https://www.wired.com/story/dyson-cordless-vacuum-promo-code/)
- - [The Delta emulator for iOS is getting online multiplayer](https://www.androidauthority.com/delta-emulator-online-multiplayer-3484395/)<!-- TECH:END -->
+ - [An interview with The Browser Company CEO Josh Miller on Arc Search being an operating system, competing with Chrome and Safari, monetization, AI, and more &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/240924/p3#a240924p3)
+ - [Samsung Galaxy S24 FE rumors and leaks: Everything we know so far](https://www.androidauthority.com/samsung-galaxy-s24-fe-3440533/)
+ - [How to Whip Up a Poached Egg in Just 60 Seconds](https://www.cnet.com/home/kitchen-and-household/how-to-whip-up-a-poached-egg-in-just-60-seconds/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
