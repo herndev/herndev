@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The US, Meta, Anthropic, Google, IBM, Microsoft, Nvidia, and OpenAI launch the Partnership for Global Inclusivity on AI to advance &quot;sustainable&quot; AI development &lpar;US Department of State&rpar;](http://www.techmeme.com/240924/p5#a240924p5)
- - [Forget AirDrop, iOS 18.1 offers a better way to share files with your Mac](https://www.androidauthority.com/ios-18-1-beta-5-share-files-mac-3484418/)
- - [Google Maps on Android Auto makes it easier to stay in the right lane](https://www.androidauthority.com/google-maps-android-auto-lane-guidance-3484406/)<!-- TECH:END -->
+ - [Android 15 makes touchpad support even better with a new gesture](https://www.androidauthority.com/android-15-tap-dragging-3484473/)
+ - [Raspberry Pi reports H1 2024 revenue up 61% YoY to $144M, gross profit up 47% YoY to $34.2M, and unit volume up 31% YoY to 3.66M; RPI jumps 5%+ pre-market &lpar;Stephanie Stacey/Financial Times&rpar;](http://www.techmeme.com/240924/p6#a240924p6)
+ - [Android will soon let you use Circle to Search on messaging bubbles](https://www.androidauthority.com/circle-to-search-on-messaging-bubbles-3484456/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
