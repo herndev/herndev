@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google’s Gemini AI might soon appear in your corporate Workspace](https://www.theverge.com/2024/9/24/24252934/google-workspace-gemini-ai-security-assistant)
- - [Pinterest’s new remix feature can jump-start your mood board](https://www.theverge.com/2024/9/24/24252588/pinterest-remix-collages-mood-boards)
- - [TikTok says it plans to shut down TikTok Music on November 28 and will delete customer data; the app, originally called Resso, first launched in 2019 &lpar;Lucas Shaw/Bloomberg&rpar;](http://www.techmeme.com/240924/p11#a240924p11)<!-- TECH:END -->
+ - [iPhone 16 vs iPhone 16 Pro compared -- Going Pro in 2024](https://appleinsider.com/inside/iphone-16/vs/iphone-16-vs-iphone-16-pro-compared----going-pro-in-2024?utm_medium=rss)
+ - [Brompton improves on a good thing with the G Line of bicycles](https://www.theverge.com/2024/9/24/24252957/brompton-g-e-bike-redesign-20-inch-specs-price)
+ - [Snap says it will use Google&#39;s Gemini to help add new features to its chatbot, including translating menus, after starting to use Gemini earlier in 2024 &lpar;Aisha Counts/Bloomberg&rpar;](http://www.techmeme.com/240924/p15#a240924p15)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
