@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Minecraft’s Transformers DLC Is Rolling Out](https://minecraft.net/article/transformers-dlc#new_tab)
- - [Soul Reaver Remasters Leak Ahead Of PlayStation State Of Play](https://kotaku.com/soul-reaver-remaster-remake-psn-leak-state-of-play-ps5-1851656134)
- - [Don&#39;t Nod is &#39;temporarily pausing&#39; work on two new games after sales of Jusant and Banishers: Ghosts of New Eden fall &#39;well below expectations&#39;](https://www.pcgamer.com/games/dont-nod-is-temporarily-pausing-work-on-two-new-games-after-sales-of-jusant-and-banishers-ghosts-of-new-eden-fall-well-below-expectations)<!-- GAME:END -->
+ - [The Sims 4 needs to get stripped to the studs if it&#39;s going to be the &#39;foundation&#39; for another decade of DLCs](https://www.pcgamer.com/games/the-sims/the-sims-4-needs-to-get-stripped-to-the-studs-if-its-going-to-be-the-foundation-for-another-decade-of-dlcs)
+ - [Megalopolis is a fantasy disasterpiece, but this book explains why it exists](https://www.polygon.com/opinion/455654/megalopolis-explained-francis-ford-coppola-story)
+ - [Breaking Down The Best And Worst Agatha All Along Theories](https://kotaku.com/marvel-agatha-all-along-mcu-theories-wiccan-mephisto-1851656313)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
