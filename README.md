@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Harmonic, a startup co-founded by Robinhood CEO Vlad Tenev that aims to build AI better at math than humans, raised a $75M Series A at a $325M valuation &lpar;Cade Metz/New York Times&rpar;](http://www.techmeme.com/240923/p27#a240923p27)
- - [Source: Meta plans to launch the voices of Judi Dench, Kristen Bell, John Cena, Awkwafina, and Keegan-Michael Key for its Meta AI chatbot at Connect this week &lpar;Katie Paul/Reuters&rpar;](http://www.techmeme.com/240923/p26#a240923p26)
- - [Proposed Ban Would Be a ‘Death Sentence’ for Chinese EVs in the US](https://www.wired.com/story/us-ban-china-russia-ev-cars-security/)<!-- TECH:END -->
+ - [iOS 18.1 developer beta 5: New Control Center toggles, options, and more](https://appleinsider.com/articles/24/09/23/ios-181-developer-beta-5-new-control-center-toggles-options-and-more?utm_medium=rss)
+ - [An official OpenAI X account was taken over to peddle a crypto scam](https://www.theverge.com/2024/9/23/24252664/openai-x-account-crypto-scam-newsroom)
+ - [California Governor Gavin Newsom signs the Phone-Free Schools Act, which will require schools to restrict cellphone use during school hours by July 1, 2026 &lpar;New York Times&rpar;](http://www.techmeme.com/240923/p28#a240923p28)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
