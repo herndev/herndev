@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Linkin Park delivers this year&#39;s League of Legends esports anthem, but it&#39;s no K-Pop banger](https://www.pcgamer.com/games/moba/linkin-park-delivers-this-years-league-of-legends-esports-anthem-but-its-no-k-pop-banger)
- - [Konami Hosting A Sale Of Its Huge And Weird Catalog](https://kotaku.com/konami-steam-sale-metal-gear-solid-contra-yu-gi-oh-1851656091)
- - [&#39;It&#39;s certainly not going to be business as usual because business at the moment is not as we&#39;d like it&#39;—Corsair CEO on its Fanatec acquisition](https://www.pcgamer.com/hardware/steering-wheels/its-certainly-not-going-to-be-business-as-usual-because-business-at-the-moment-is-not-as-wed-like-itcorsair-ceo-on-its-fanatec-acquisition)<!-- GAME:END -->
+ - [Minecraft’s Transformers DLC Is Rolling Out](https://minecraft.net/article/transformers-dlc#new_tab)
+ - [Soul Reaver Remasters Leak Ahead Of PlayStation State Of Play](https://kotaku.com/soul-reaver-remaster-remake-psn-leak-state-of-play-ps5-1851656134)
+ - [Don&#39;t Nod is &#39;temporarily pausing&#39; work on two new games after sales of Jusant and Banishers: Ghosts of New Eden fall &#39;well below expectations&#39;](https://www.pcgamer.com/games/dont-nod-is-temporarily-pausing-work-on-two-new-games-after-sales-of-jusant-and-banishers-ghosts-of-new-eden-fall-well-below-expectations)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
