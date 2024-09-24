@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Nice German stereotypes](http://9gag.com/gag/a4P76yp)
- - ⏩ [KERMIT THE MYTH](http://9gag.com/gag/apR2PWW)
- - 👉 [Me every evening](http://9gag.com/gag/a0eK6dv)<!-- MEMES:END -->
+ - 💣 [KERMIT THE MYTH](http://9gag.com/gag/apR2PWW)
+ - ⏩ [Diddy do it?](http://9gag.com/gag/aGyjGZK)
+ - 👉 [HoMM3 Heroes come to life](http://9gag.com/gag/aoyN4Ve)<!-- MEMES:END -->
 
 ---
 
