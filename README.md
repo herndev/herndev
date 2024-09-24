@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [You can learn to speak Elvish — just not J.R.R. Tolkien’s Elvish](https://www.polygon.com/lord-of-the-rings/455300/how-to-speak-elvish-tolkien-lotr)
- - [The Future Mobile Gaming show brings together Warframe, EVE, and FF16&#39;s Ben Starr this September 26, here&#39;s how to watch it](https://www.pcgamer.com/gaming-industry/events-conferences/the-future-mobile-gaming-show-brings-together-warframe-eve-and-ff16s-ben-starr-this-september-26-heres-how-to-watch-it)
- - [Alienware AW2725DF review](https://www.pcgamer.com/hardware/gaming-monitors/alienware-aw2725df-review)<!-- GAME:END -->
+ - [Transparent is Back – Introducing the Cipher Series](https://news.xbox.com/en-us/2024/09/24/xbox-cipher-series-transparent-controller-design-lab/)
+ - [Sony And Shift Up Sued Over Stellar Blade Name Rights](https://kotaku.com/stellar-blade-sony-shift-up-legal-case-trademark-1851655699)
+ - [There&#39;s No Wrong Way To Tackle Visions Of Mana&#39;s Bosses, But There&#39;s A Right Way For You](https://kotaku.com/visions-of-mana-benevodon-boss-fights-guide-1851655719)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
