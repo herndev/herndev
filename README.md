@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Any plot twist bois... &lpar;japan&rpar;](http://9gag.com/gag/aD2xno7)
- - ⏩ [Caught this guy at Oktoberfest pretending to film the band, but he was filming something else\u2026](http://9gag.com/gag/aMVjPXW)
- - 👉 [What the heeeeell](http://9gag.com/gag/ae9MOAv)<!-- MEMES:END -->
+ - 💣 [Post](http://9gag.com/gag/aGyjL3z)
+ - ⏩ [Oh no](http://9gag.com/gag/axy16OK)
+ - 👉 [And suddenly for no reason at all](http://9gag.com/gag/a9yp8VW)<!-- MEMES:END -->
 
 ---
 
