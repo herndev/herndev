@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Look at this](http://9gag.com/gag/aO8r8p6)
- - ⏩ [Any plot twist bois... &lpar;japan&rpar;](http://9gag.com/gag/aD2xno7)
- - 👉 [Hey kids wanna something cool?](http://9gag.com/gag/aW414z6)<!-- MEMES:END -->
+ - 💣 [Oh no](http://9gag.com/gag/axy16OK)
+ - ⏩ [Help me, I&#39;m stuck](http://9gag.com/gag/ayNX3vW)
+ - 👉 [A reminder that you put yourself in the friendzone, not her.](http://9gag.com/gag/aKGjG91)<!-- MEMES:END -->
 
 ---
 
