@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Android 15 makes touchpad support even better with a new gesture](https://www.androidauthority.com/android-15-tap-dragging-3484473/)
- - [Raspberry Pi reports H1 2024 revenue up 61% YoY to $144M, gross profit up 47% YoY to $34.2M, and unit volume up 31% YoY to 3.66M; RPI jumps 5%+ pre-market &lpar;Stephanie Stacey/Financial Times&rpar;](http://www.techmeme.com/240924/p6#a240924p6)
- - [Android will soon let you use Circle to Search on messaging bubbles](https://www.androidauthority.com/circle-to-search-on-messaging-bubbles-3484456/)<!-- TECH:END -->
+ - [Google’s Gemini AI might soon appear in your corporate Workspace](https://www.theverge.com/2024/9/24/24252934/google-workspace-gemini-ai-security-assistant)
+ - [Pinterest’s new remix feature can jump-start your mood board](https://www.theverge.com/2024/9/24/24252588/pinterest-remix-collages-mood-boards)
+ - [TikTok says it plans to shut down TikTok Music on November 28 and will delete customer data; the app, originally called Resso, first launched in 2019 &lpar;Lucas Shaw/Bloomberg&rpar;](http://www.techmeme.com/240924/p11#a240924p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
