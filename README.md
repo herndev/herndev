@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: FBI raided the Reston, Virginia offices of Carahsoft, a government IT vendor, as part of a probe into a company with which Carahsoft has done business &lpar;David DiMolfetta/Nextgov/FCW&rpar;](http://www.techmeme.com/240924/p40#a240924p40)
- - [Stability AI says filmmaker James Cameron has joined its board of directors &lpar;Alex Weprin/The Hollywood Reporter&rpar;](http://www.techmeme.com/240924/p39#a240924p39)
- - [How Google made the ad tech industry revolve around itself](https://www.theverge.com/2024/9/24/24253293/google-ad-tech-antitrust-trial-doj-case)<!-- TECH:END -->
+ - [Today’s hottest gaming monitor deals come from Samsung](https://www.androidauthority.com/samsung-odyssey-ark-neo-g7-deals-3484663/)
+ - [Google Is ‘Thinking Through’ How to Make the Pixel Watch Repairable](https://www.wired.com/story/google-is-thinking-through-the-pixel-watchs-design-to-be-repairable/)
+ - [Early Samsung Galaxy Tab S10 pre-order page reveals US pricing](https://www.androidauthority.com/galaxy-tab-s10-pre-order-3484676/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
