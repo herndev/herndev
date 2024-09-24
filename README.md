@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The great escape of 1944](http://9gag.com/gag/aVv3mO8)
- - ⏩ [F around and find out](http://9gag.com/gag/an7Mn60)
- - 👉 [Look at this](http://9gag.com/gag/aO8r8p6)<!-- MEMES:END -->
+ - 💣 [Imagine asking for directions.](http://9gag.com/gag/aqy7QjY)
+ - ⏩ [This kid just got yeeted out of McDonalds](http://9gag.com/gag/avyOW9b)
+ - 👉 [Caught this guy at Oktoberfest pretending to film the band, but he was filming something else\u2026](http://9gag.com/gag/aMVjPXW)<!-- MEMES:END -->
 
 ---
 
