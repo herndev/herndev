@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Shadow magic](http://9gag.com/gag/aVv3E1v)
- - ⏩ [Dammmmnnn](http://9gag.com/gag/a1mo5oD)
- - 👉 [Caught this guy at Oktoberfest pretending to film the band, but he was filming something else\u2026](http://9gag.com/gag/aMVjPXW)<!-- MEMES:END -->
+ - 💣 [Any plot twist bois... &lpar;japan&rpar;](http://9gag.com/gag/aD2xno7)
+ - ⏩ [Caught this guy at Oktoberfest pretending to film the band, but he was filming something else\u2026](http://9gag.com/gag/aMVjPXW)
+ - 👉 [What the heeeeell](http://9gag.com/gag/ae9MOAv)<!-- MEMES:END -->
 
 ---
 
