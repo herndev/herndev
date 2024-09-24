@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Delta emulator for iOS is getting online multiplayer](https://www.androidauthority.com/delta-emulator-online-multiplayer-3484395/)
- - [Google Photos rolls out new AI video editing tools, as previously spotted by Android Authority](https://www.androidauthority.com/google-photos-video-editing-ai-presets-new-tools-3484389/)
- - [Memo: an arbitrator awards full severance package to an ex-Twitter employee, who was laid off when Elon Musk took over, first such resolution of 2K+ complaints &lpar;Bloomberg&rpar;](http://www.techmeme.com/240924/p1#a240924p1)<!-- TECH:END -->
+ - [Myntra founder Mukesh Bansal&#39;s Nurix AI, which builds custom AI agents for enterprise services, raises a $27.5M seed from Accel, General Catalyst, and others &lpar;Digbijay Mishra/The Economic Times&rpar;](http://www.techmeme.com/240924/p2#a240924p2)
+ - [Dyson Promo Code: Up to $200 Off Vacuums &lpar;September 2024&rpar;](https://www.wired.com/story/dyson-cordless-vacuum-promo-code/)
+ - [The Delta emulator for iOS is getting online multiplayer](https://www.androidauthority.com/delta-emulator-online-multiplayer-3484395/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
