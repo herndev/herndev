@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nothing’s latest earbuds are probably nothing you have seen before](https://www.androidauthority.com/nothing-ear-open-launch-3484185/)
- - [Mapping the Marvel Universe in 6 Very Cool Charts](https://www.wired.com/story/book-excerpt-marvel-super-graphic-mapping-marvel/)
- - [Spotify’s AI playlist builder is now available in the US](https://www.theverge.com/2024/9/24/24252971/spotify-ai-playlist-builder-beta-available-us-canada)<!-- TECH:END -->
+ - [SteelSeries’ new Apex Pro Gen 3 has upgraded switches and a thockier sound](https://www.theverge.com/2024/9/24/24252951/steelseries-apex-pro-gen-3-keyboards-hall-effect)
+ - [First trailer for Ryan Coogler’s Sinners leaves the scariest parts to your imagination](https://www.theverge.com/2024/9/24/24253037/ryan-coogler-sinners-trailer-release-date)
+ - [Logitech MX Creative Console review: the $200 control surface for apps like Lightroom is an affordable entry point, but pros may find the controls limiting &lpar;Steve Dent/Engadget&rpar;](http://www.techmeme.com/240924/p24#a240924p24)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
