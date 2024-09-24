@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [F around and find out](http://9gag.com/gag/an7Mn60)
- - ⏩ [Help me, I&#39;m stuck](http://9gag.com/gag/ayNX3vW)
- - 👉 [Isnt 100k just for rent now?](http://9gag.com/gag/ayNX6eX)<!-- MEMES:END -->
+ - 💣 [What I&#39;m going to save by giving gifts!](http://9gag.com/gag/a9ypz0Z)
+ - ⏩ [Just a typical street in Tokyo](http://9gag.com/gag/ayNXN2W)
+ - 👉 [That was an overkill.](http://9gag.com/gag/aO8r833)<!-- MEMES:END -->
 
 ---
 
