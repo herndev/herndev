@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Today’s hottest gaming monitor deals come from Samsung](https://www.androidauthority.com/samsung-odyssey-ark-neo-g7-deals-3484663/)
- - [Google Is ‘Thinking Through’ How to Make the Pixel Watch Repairable](https://www.wired.com/story/google-is-thinking-through-the-pixel-watchs-design-to-be-repairable/)
- - [Early Samsung Galaxy Tab S10 pre-order page reveals US pricing](https://www.androidauthority.com/galaxy-tab-s10-pre-order-3484676/)<!-- TECH:END -->
+ - [PS5 Pro will enhance Stellar Blade, Jedi Survivor, Metal Gear and Resident Evil](https://www.theverge.com/2024/9/24/24253518/ps5-pro-sony-playstation-state-of-play-september-2024)
+ - [Ghost of Yotei is the next entry in Sucker Punch’s Ghosts series](https://www.theverge.com/2024/9/24/24253576/ghost-of-tsushima-2-yotei-ps5-pro-2025)
+ - [Horizon Zero Dawn is getting a remaster for PlayStation 5 and PC](https://www.theverge.com/2024/9/24/24253184/horizon-zero-dawn-remaster-ps5-pro-trailer)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
