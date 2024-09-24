@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Celestia Foundation, which is behind the Celestia modular blockchain network, raised a $100M round led by Bain Capital Crypto, taking its total raised to $155M &lpar;Daniel Kuhn/The Block&rpar;](http://www.techmeme.com/240923/p33#a240923p33)
- - [Revolut is spinning out its &amp;euro;8.5B wealth management offering into a standalone app and plans to launch it in European Economic Area countries by the end of 2024 &lpar;Emily Nicolle/Bloomberg&rpar;](http://www.techmeme.com/240923/p32#a240923p32)
- - [Amazon issues first-ever AirPods 4 price cut](https://appleinsider.com/articles/24/09/23/amazon-issues-first-ever-airpods-4-price-cut?utm_medium=rss)<!-- TECH:END -->
+ - [A teardown of Huawei&#39;s popular Qingyun L540 laptop, which relies on some foreign tech, reveals the challenges ahead for China&#39;s tech self-sufficiency efforts &lpar;Ryan McMorrow/Financial Times&rpar;](http://www.techmeme.com/240923/p34#a240923p34)
+ - [How safe are Google Pay, Apple Pay, and other payment apps on your phone?](https://www.androidauthority.com/is-google-pay-apple-pay-safe-3484366/)
+ - [Celestia Foundation, which is behind the Celestia modular blockchain network, raised a $100M round led by Bain Capital Crypto, taking its total raised to $155M &lpar;Daniel Kuhn/The Block&rpar;](http://www.techmeme.com/240923/p33#a240923p33)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
