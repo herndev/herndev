@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Let&#39;s put together a list of games we won&#39;t purchase. Please add anything else if you have more.](http://9gag.com/gag/aGyjE25)
- - ⏩ [Lol no way.](http://9gag.com/gag/avyO1KO)
- - 👉 [Hey kids wanna something cool?](http://9gag.com/gag/aW414z6)<!-- MEMES:END -->
+ - 💣 [He forgot how to horse](http://9gag.com/gag/a87oA5Z)
+ - ⏩ [This kid just got yeeted out of McDonalds](http://9gag.com/gag/avyOW9b)
+ - 👉 [They did Bruce dirty in this movie](http://9gag.com/gag/a34KA7Q)<!-- MEMES:END -->
 
 ---
 
