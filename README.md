@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Can we learn this kind of power ?](http://9gag.com/gag/awyX3nB)
- - ⏩ [Just a typical street in Tokyo](http://9gag.com/gag/ayNXN2W)
- - 👉 [A reminder that you put yourself in the friendzone, not her.](http://9gag.com/gag/aKGjG91)<!-- MEMES:END -->
+ - 💣 [The lungs : i&#39;m tired boss](http://9gag.com/gag/aqy78e7)
+ - ⏩ [Help me, I&#39;m stuck](http://9gag.com/gag/ayNX3vW)
+ - 👉 [Lol no way.](http://9gag.com/gag/avyO1KO)<!-- MEMES:END -->
 
 ---
 
