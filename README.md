@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Any plot twist bois... &lpar;japan&rpar;](http://9gag.com/gag/aD2xno7)
- - ⏩ [The lungs : i&#39;m tired boss](http://9gag.com/gag/aqy78e7)
- - 👉 [Caught this guy at Oktoberfest pretending to film the band, but he was filming something else\u2026](http://9gag.com/gag/aMVjPXW)<!-- MEMES:END -->
+ - 💣 [Post](http://9gag.com/gag/aGyjL3z)
+ - ⏩ [Yeet](http://9gag.com/gag/aMVjmw1)
+ - 👉 [Oh, please. That&#39;s not the reason why there&#39;s no bridge. If Europe wanted a bridge there, there would\u2019ve been a bridge. LOL](http://9gag.com/gag/aLnjGBz)<!-- MEMES:END -->
 
 ---
 
