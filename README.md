@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Help me, I&#39;m stuck](http://9gag.com/gag/ayNX3vW)
- - ⏩ [Saudi Arabia as a millon empty AC tents, but not a Single Palestinian refugees. WHY?](http://9gag.com/gag/ae9M43v)
- - 👉 [Look at this](http://9gag.com/gag/aO8r8p6)<!-- MEMES:END -->
+ - 💣 [Any plot twist bois... &lpar;japan&rpar;](http://9gag.com/gag/aD2xno7)
+ - ⏩ [Yeet](http://9gag.com/gag/aMVjmw1)
+ - 👉 [Pan Shot](http://9gag.com/gag/aZZ3nqQ)<!-- MEMES:END -->
 
 ---
 
