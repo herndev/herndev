@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [They have Mongolian in their blood..](http://9gag.com/gag/aqy7xWL)
+ - 💣 [A reckless driver caused a truck collision.](http://9gag.com/gag/a9yp8XD)
  - ⏩ [Oh no](http://9gag.com/gag/axy16OK)
- - 👉 [A reckless driver caused a truck collision.](http://9gag.com/gag/a9yp8XD)<!-- MEMES:END -->
+ - 👉 [Lol no way.](http://9gag.com/gag/avyO1KO)<!-- MEMES:END -->
 
 ---
 
