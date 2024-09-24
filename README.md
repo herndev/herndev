@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Official Thunderbolts poster adds an unwelcome sixth finger to one of the Thunderbolts](https://www.pcgamer.com/movies-tv/official-thunderbolts-poster-adds-an-unwelcome-sixth-finger-to-one-of-the-thunderbolts)
  - [Pro WoW player risks it all by using a bug to get a 4% damage increase in world first race before getting caught on stream](https://www.pcgamer.com/games/world-of-warcraft/pro-wow-player-risks-it-all-by-using-a-bug-to-get-a-4-damage-increase-in-world-first-race-before-getting-caught-on-stream)
- - [The best VR boxing game, and my favorite VR game in general, is getting a sequel with multiplayer soon](https://www.pcgamer.com/games/vr/the-best-vr-boxing-game-and-my-favorite-vr-game-in-general-is-getting-a-sequel-with-multiplayer-soon)
- - [Baldur&#39;s Gate and Neverwinter Nights veterans are making a new RPG with a vision of &#39;Baldur&#39;s Gate 3, but Pathfinder, with miniatures&#39;](https://www.pcgamer.com/games/rpg/baldur-s-gate-and-neverwinter-nights-veterans-are-making-a-new-rpg-with-a-vision-of-baldur-s-gate-3-but-pathfinder-with-miniatures)<!-- GAME:END -->
+ - [The best VR boxing game, and my favorite VR game in general, is getting a sequel with multiplayer soon](https://www.pcgamer.com/games/vr/the-best-vr-boxing-game-and-my-favorite-vr-game-in-general-is-getting-a-sequel-with-multiplayer-soon)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
