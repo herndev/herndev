@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Memo: an arbitrator awards full severance package to an ex-Twitter employee, who was laid off when Elon Musk took over, first such resolution of 2K+ complaints &lpar;Bloomberg&rpar;](http://www.techmeme.com/240924/p1#a240924p1)
- - [Best Carbon Monoxide Detector for 2024](https://www.cnet.com/news/best-carbon-monoxide-detector/#ftag=CAD590a51e)
- - [Duolingo Brings Adventure and AI to Your Language Learning Journey](https://www.cnet.com/tech/services-and-software/duolingo-brings-adventure-and-ai-to-your-language-learning-journey/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The Delta emulator for iOS is getting online multiplayer](https://www.androidauthority.com/delta-emulator-online-multiplayer-3484395/)
+ - [Google Photos rolls out new AI video editing tools, as previously spotted by Android Authority](https://www.androidauthority.com/google-photos-video-editing-ai-presets-new-tools-3484389/)
+ - [Memo: an arbitrator awards full severance package to an ex-Twitter employee, who was laid off when Elon Musk took over, first such resolution of 2K+ complaints &lpar;Bloomberg&rpar;](http://www.techmeme.com/240924/p1#a240924p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
