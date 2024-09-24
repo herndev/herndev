@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [World of Warcraft player accidentally sells extremely rare pet for 1/10th of its value: &#39;That&#39;s like my entire game savings over the last 17 years, gone&#39;](https://www.pcgamer.com/games/mmo/world-of-warcraft-player-accidentally-sells-extremely-rare-pet-for-110th-of-its-value-thats-like-my-entire-game-savings-over-the-last-17-years-gone)
- - [New Lego Leia Minifig Shows Less Skin And Yes, People Are Being Weird About It](https://kotaku.com/new-lego-slave-leia-minifig-skirt-star-wars-jabba-barge-1851656395)
- - [Space Marine 2 board game aims to indoctrinate videogame fans into the Warhammer miniatures lifestyle](https://www.pcgamer.com/games/strategy/space-marine-2-board-game-aims-to-indoctrinate-videogame-fans-into-the-warhammer-miniatures-lifestyle)<!-- GAME:END -->
+ - [Ghost of Yōtei announced: Ghost of Tsushima sequel coming to PS5 next year](https://www.pcgamer.com/games/action/ghost-of-yotei-announcement)
+ - [Horizon Zero Dawn Remastered is coming to PS5, PC October 31, 2024](https://blog.playstation.com/2024/09/24/horizon-zero-dawn-remastered-is-coming-to-ps5-pc-october-31-2024/)
+ - [Every big announcement from PlayStation’s new State of Play](https://www.polygon.com/news/455279/playstation-state-of-play-news-trailers-september-2024)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
