@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Any plot twist bois... &lpar;japan&rpar;](http://9gag.com/gag/aD2xno7)
- - ⏩ [Yeet](http://9gag.com/gag/aMVjmw1)
- - 👉 [Pan Shot](http://9gag.com/gag/aZZ3nqQ)<!-- MEMES:END -->
+ - 💣 [Can we learn this kind of power ?](http://9gag.com/gag/awyX3nB)
+ - ⏩ [Just a typical street in Tokyo](http://9gag.com/gag/ayNXN2W)
+ - 👉 [A reminder that you put yourself in the friendzone, not her.](http://9gag.com/gag/aKGjG91)<!-- MEMES:END -->
 
 ---
 
