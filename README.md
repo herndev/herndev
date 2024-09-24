@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [What I&#39;m going to save by giving gifts!](http://9gag.com/gag/a9ypz0Z)
- - ⏩ [Just a typical street in Tokyo](http://9gag.com/gag/ayNXN2W)
- - 👉 [That was an overkill.](http://9gag.com/gag/aO8r833)<!-- MEMES:END -->
+ - 💣 [Look at this](http://9gag.com/gag/aO8r8p6)
+ - ⏩ [Any plot twist bois... &lpar;japan&rpar;](http://9gag.com/gag/aD2xno7)
+ - 👉 [Hey kids wanna something cool?](http://9gag.com/gag/aW414z6)<!-- MEMES:END -->
 
 ---
 
