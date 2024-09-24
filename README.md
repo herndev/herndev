@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [An interview with The Browser Company CEO Josh Miller on Arc Search being an operating system, competing with Chrome and Safari, monetization, AI, and more &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/240924/p3#a240924p3)
- - [Samsung Galaxy S24 FE rumors and leaks: Everything we know so far](https://www.androidauthority.com/samsung-galaxy-s24-fe-3440533/)
- - [How to Whip Up a Poached Egg in Just 60 Seconds](https://www.cnet.com/home/kitchen-and-household/how-to-whip-up-a-poached-egg-in-just-60-seconds/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The US, Meta, Anthropic, Google, IBM, Microsoft, Nvidia, and OpenAI launch the Partnership for Global Inclusivity on AI to advance &quot;sustainable&quot; AI development &lpar;US Department of State&rpar;](http://www.techmeme.com/240924/p5#a240924p5)
+ - [Forget AirDrop, iOS 18.1 offers a better way to share files with your Mac](https://www.androidauthority.com/ios-18-1-beta-5-share-files-mac-3484418/)
+ - [Google Maps on Android Auto makes it easier to stay in the right lane](https://www.androidauthority.com/google-maps-android-auto-lane-guidance-3484406/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
