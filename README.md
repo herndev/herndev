@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Sony’s InZone M10S is a lightning-fast OLED gaming monitor](https://www.polygon.com/news/455058/sony-oled-m10s-inzone-gaming-monitor-specs-price)
- - [Who Exactly Is Bob In Marvel’s Thunderbolts? Sentry Explained](https://kotaku.com/marvel-thunderbolts-sentry-bob-mcu-lewis-pullman-1851656009)
- - [PSA: Switch Online members can save on new games, even Zelda: Echoes of Wisdom](https://www.polygon.com/good-deals/455365/game-vouchers-switch-online-nintendo-deal)<!-- GAME:END -->
+ - [Linkin Park delivers this year&#39;s League of Legends esports anthem, but it&#39;s no K-Pop banger](https://www.pcgamer.com/games/moba/linkin-park-delivers-this-years-league-of-legends-esports-anthem-but-its-no-k-pop-banger)
+ - [Konami Hosting A Sale Of Its Huge And Weird Catalog](https://kotaku.com/konami-steam-sale-metal-gear-solid-contra-yu-gi-oh-1851656091)
+ - [&#39;It&#39;s certainly not going to be business as usual because business at the moment is not as we&#39;d like it&#39;—Corsair CEO on its Fanatec acquisition](https://www.pcgamer.com/hardware/steering-wheels/its-certainly-not-going-to-be-business-as-usual-because-business-at-the-moment-is-not-as-wed-like-itcorsair-ceo-on-its-fanatec-acquisition)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
