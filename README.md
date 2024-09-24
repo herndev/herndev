@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Today&#39;s Wordle answer for Tuesday, September 24](https://www.pcgamer.com/games/puzzle/wordle-answer-today-september-24-2024)
- - [&lpar;For Southeast Asia&rpar; State of Play returns tomorrow](https://blog.playstation.com/2024/09/23/sop-092324/)
- - [Official Thunderbolts poster adds an unwelcome sixth finger to one of the Thunderbolts](https://www.pcgamer.com/movies-tv/official-thunderbolts-poster-adds-an-unwelcome-sixth-finger-to-one-of-the-thunderbolts)<!-- GAME:END -->
+ - [&lpar;For Singapore and Malaysia&rpar; Welcome PlayStation 5 Pro, the most visually impressive way to play games on PlayStation](https://blog.playstation.com/2024/09/23/20240917-ps5pro/)
+ - [Pre-orders now open for ATLUS’s next big title—Metaphor: ReFantazio, set to release on October 11, 2024!](https://blog.playstation.com/2024/09/23/20240612-metaphor/)
+ - [Today&#39;s Wordle answer for Tuesday, September 24](https://www.pcgamer.com/games/puzzle/wordle-answer-today-september-24-2024)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
