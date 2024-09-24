@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [&#39;I&#39;ve always released on PC first&#39;: Stardew Valley creator Eric Barone discusses why the 1.6 update came to PC before console—&#39;it&#39;s sort of a beta test&#39;](https://www.pcgamer.com/games/life-sim/ive-always-released-on-pc-first-stardew-valley-creator-eric-barone-discusses-why-the-16-update-came-to-pc-before-consoleits-sort-of-a-beta-test)
- - [Blasphemous 2&#39;s new expansion and update adds more areas, bosses, and a New Game Plus mode, giving me another reason to suffer through this fantastic metroidvania again](https://www.pcgamer.com/games/action/blasphemous-2s-new-expansion-and-update-adds-more-areas-bosses-and-a-new-game-plus-mode-giving-me-another-reason-to-suffer-through-this-fantastic-metroidvania-again)
- - [As a recent D&amp;D to Pathfinder 2e convert, this Humble Bundle&#39;s value is absurd—getting you everything you need to start playing, plus extra adventures, for $15](https://www.pcgamer.com/games/board-games/as-a-recent-d-d-to-pathfinder-2e-convert-this-humble-bundle-s-value-is-absurd-getting-you-everything-you-need-to-start-playing-plus-extra-adventures-for-15)<!-- GAME:END -->
+ - [You can learn to speak Elvish — just not J.R.R. Tolkien’s Elvish](https://www.polygon.com/lord-of-the-rings/455300/how-to-speak-elvish-tolkien-lotr)
+ - [The Future Mobile Gaming show brings together Warframe, EVE, and FF16&#39;s Ben Starr this September 26, here&#39;s how to watch it](https://www.pcgamer.com/gaming-industry/events-conferences/the-future-mobile-gaming-show-brings-together-warframe-eve-and-ff16s-ben-starr-this-september-26-heres-how-to-watch-it)
+ - [Alienware AW2725DF review](https://www.pcgamer.com/hardware/gaming-monitors/alienware-aw2725df-review)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
