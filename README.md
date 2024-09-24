@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Post](http://9gag.com/gag/aGyjL3z)
- - ⏩ [Yeet](http://9gag.com/gag/aMVjmw1)
- - 👉 [Oh, please. That&#39;s not the reason why there&#39;s no bridge. If Europe wanted a bridge there, there would\u2019ve been a bridge. LOL](http://9gag.com/gag/aLnjGBz)<!-- MEMES:END -->
+ - 💣 [Doggos are the best! Change my mind.](http://9gag.com/gag/abAMWWE)
+ - ⏩ [Nice German stereotypes](http://9gag.com/gag/a4P76yp)
+ - 👉 [Me every evening](http://9gag.com/gag/a0eK6dv)<!-- MEMES:END -->
 
 ---
 
