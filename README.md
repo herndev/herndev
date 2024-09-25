@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [CrowdStrike SVP Adam Meyers apologizes before Congress over the company&#39;s faulty update that caused a global IT outage, to largely sympathetic House lawmakers &lpar;Tim Starks/CyberScoop&rpar;](http://www.techmeme.com/240924/p45#a240924p45)
- - [Sony’s pearlescent new PS5 colors will jazz up your gaming station](https://www.theverge.com/2024/9/24/24253623/sony-pearlescent-chroma-playstation-5-slim-colors)
- - [Sources: Wiz is in discussions to sell existing shares at a valuation between $15B and $20B, after abandoning a deal in July to be acquired by Google for $23B &lpar;Bloomberg&rpar;](http://www.techmeme.com/240924/p44#a240924p44)<!-- TECH:END -->
+ - [London-based Apron, which is aiming to become the financial super app for SMBs, raised a $30M Series B led by Zinal Growth, bringing its total funding to $50.5M &lpar;Tom Matsuda/Sifted&rpar;](http://www.techmeme.com/240924/p47#a240924p47)
+ - [Palworld’s PS5 port is on hold indefinitely in Japan](https://www.theverge.com/2024/9/24/24253687/palworld-ps5-japan-release-date-nintendo-pokemon-lawsuit)
+ - [Filing: OpenAI agrees to give representatives for authors suing the company access to review its training data to see if OpenAI used authors&#39; copyrighted works &lpar;Winston Cho/The Hollywood Reporter&rpar;](http://www.techmeme.com/240924/p46#a240924p46)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
