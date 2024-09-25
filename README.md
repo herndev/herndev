@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The what?](http://9gag.com/gag/a9ypXYK)
- - ⏩ [Sony is pulling an Apple](http://9gag.com/gag/aVv3Lgw)
- - 👉 [Showing the concept of frictional force](http://9gag.com/gag/axy1PjY)<!-- MEMES:END -->
+ - 💣 [Contractors from Temu](http://9gag.com/gag/a0eKE8v)
+ - ⏩ [People illegally fishing spawned salmon in Canada](http://9gag.com/gag/apR2AL8)
+ - 👉 [Sony is pulling an Apple](http://9gag.com/gag/aVv3Lgw)<!-- MEMES:END -->
 
 ---
 
