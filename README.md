@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [1 year and a trio of DLCs later, Remnant 2&#39;s devs reflect on development, Resident Evil 4, and making a solid game outside the live service grinder](https://www.pcgamer.com/games/third-person-shooter/1-year-and-a-trio-of-dlcs-later-remnant-2-s-devs-reflect-on-development-resident-evil-4-and-making-a-solid-game-outside-the-live-service-grinder)
- - [PS5 Pro games list, including all confirmed first- and third-party upgrades](https://www.polygon.com/guides/449724/ps5-pro-games-list)
- - [&lpar;For Southeast Asia&rpar; First look at the Chroma Collection, an all-new iridescent line of PS5 accessories](https://blog.playstation.com/2024/09/25/20240925-chromacollection/)<!-- GAME:END -->
+ - [Starlight Re:Volver trades out Diablo&#39;s demons and gore for magical girls and sparkles, and I couldn&#39;t be more excited for it](https://www.pcgamer.com/games/rpg/starlight-revolver-trades-out-diablos-demons-and-gore-for-magical-girls-and-sparkles-and-i-couldnt-be-more-excited-for-it)
+ - [Konami just put out Metal Gear Solid 2 and 3 patches that finally make them into the ports we should have got a year ago](https://www.pcgamer.com/games/action/konami-just-put-out-metal-gear-solid-2-and-3-patches-that-finally-make-them-into-the-ports-we-should-have-got-a-year-ago)
+ - [After Bethesda kicked it off Doom&#39;s mod browser for &#39;real world politics&#39;, Thatcher&#39;s Techbase creators engage in masterful malicious compliance with a censored re-release](https://www.pcgamer.com/games/fps/after-bethesda-kicked-it-off-doom-s-mod-browser-for-real-world-politics-thatcher-s-techbase-creators-engage-in-masterful-malicious-compliance-with-a-censored-re-release)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
