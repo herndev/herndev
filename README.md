@@ -40,8 +40,8 @@
 
 <!-- TECH:START -->
  - [London-based Apron, which is aiming to become the financial super app for SMBs, raised a $30M Series B led by Zinal Growth, bringing its total funding to $50.5M &lpar;Tom Matsuda/Sifted&rpar;](http://www.techmeme.com/240924/p47#a240924p47)
- - [Palworld’s PS5 port is on hold indefinitely in Japan](https://www.theverge.com/2024/9/24/24253687/palworld-ps5-japan-release-date-nintendo-pokemon-lawsuit)
- - [Filing: OpenAI agrees to give representatives for authors suing the company access to review its training data to see if OpenAI used authors&#39; copyrighted works &lpar;Winston Cho/The Hollywood Reporter&rpar;](http://www.techmeme.com/240924/p46#a240924p46)<!-- TECH:END -->
+ - [Best Internet Providers in Tucson, Arizona](https://www.cnet.com/home/internet/best-internet-providers-in-tucson-az/#ftag=CAD590a51e)
+ - [Palworld’s PS5 port is on hold indefinitely in Japan](https://www.theverge.com/2024/9/24/24253687/palworld-ps5-japan-release-date-nintendo-pokemon-lawsuit)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
