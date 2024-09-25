@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [AI&#39;s first wave of successful implementation will probably look more like the first wave of computing, which was led by enterprise installations that cut jobs &lpar;Ben Thompson/Stratechery&rpar;](http://www.techmeme.com/240925/p9#a240925p9)
- - [About 15,000 US doctors and assistants are using an AI feature in MyChart, a ubiquitous communications platform at US hospitals, to draft messages for patients &lpar;Teddy Rosenbluth/New York Times&rpar;](http://www.techmeme.com/240925/p8#a240925p8)
- - [You don’t have to leave your game to change Spotify music on OnePlus phones](https://www.androidauthority.com/spotify-game-mode-overlay-oneplus-oppo-phones-3484736/)<!-- TECH:END -->
+ - [YouTube is giving you one more reason to go Premium](https://www.androidauthority.com/youtube-premium-conversational-ai-3484757/)
+ - [It turns out you’re really divided over the 80% rule for charging your phone](https://www.androidauthority.com/80-percent-charging-phone-divided-3484745/)
+ - [Meta Connect 2024: How to Watch and What to Expect](https://www.wired.com/story/meta-connect-2024-what-to-expect/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
