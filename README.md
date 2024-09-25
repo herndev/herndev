@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [&lpar;For Southeast Asia&rpar; Celebrating 30 years of PlayStation with a nostalgic look](https://blog.playstation.com/2024/09/24/for-southeast-asia-celebrating-30-years-of-playstation-with-a-nostalgic-look/)
  - [&lpar;For Southeast Asia&rpar; Horizon Zero Dawn Remastered is coming to PS5, PC October 31, 2024](https://blog.playstation.com/2024/09/24/20240924-horizon/)
- - [How Fantasian Neo Dimension Reunites the Fathers of the RPG – Launching on December 5](https://news.xbox.com/en-us/2024/09/24/fantasian-neo-dimension-xbox/)
- - [&lpar;For Southeast Asia&rpar; Introducing DualSense wireless controller – Fortnite Limited Edition](https://blog.playstation.com/2024/09/24/20240924-fortnite/)<!-- GAME:END -->
+ - [How Fantasian Neo Dimension Reunites the Fathers of the RPG – Launching on December 5](https://news.xbox.com/en-us/2024/09/24/fantasian-neo-dimension-xbox/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
