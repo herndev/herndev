@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [True](http://9gag.com/gag/aD2xbEO)
- - ⏩ [The enemy.](http://9gag.com/gag/apR2b8W)
- - 👉 [Chop Heart](http://9gag.com/gag/apR2xLE)<!-- MEMES:END -->
+ - 💣 [Burn \ud83d\udd25](http://9gag.com/gag/aRB3oOq)
+ - ⏩ [Pac smiling down from heaven.](http://9gag.com/gag/aVv3Zny)
+ - 👉 [Only the chosen pig will be able to defeat the wolf.](http://9gag.com/gag/a1mo2WP)<!-- MEMES:END -->
 
 ---
 
