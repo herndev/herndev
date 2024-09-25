@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Ghost Of Yōtei Looks Like Exactly The Game PS5 Pro Needs To Show Off Its Power](https://kotaku.com/ps5-pro-ghost-of-tsushima-2-yotei-sequel-state-of-play-1851656738)
- - [Monster Hunter Wilds Releasing In February 2025](https://kotaku.com/monster-hunter-wilds-world-release-date-february-2025-1851656728)
- - [Monster Hunter Wilds finally has a release date, will mark the first simultaneous PC launch in the series](https://www.pcgamer.com/games/rpg/monster-hunter-wilds-finally-has-a-release-date-will-mark-the-first-simultaneous-pc-launch-in-the-series)<!-- GAME:END -->
+ - [&lpar;For Southeast Asia&rpar; Horizon Zero Dawn Remastered is coming to PS5, PC October 31, 2024](https://blog.playstation.com/2024/09/24/20240924-horizon/)
+ - [How Fantasian Neo Dimension Reunites the Fathers of the RPG – Launching on December 5](https://news.xbox.com/en-us/2024/09/24/fantasian-neo-dimension-xbox/)
+ - [&lpar;For Southeast Asia&rpar; Introducing DualSense wireless controller – Fortnite Limited Edition](https://blog.playstation.com/2024/09/24/20240924-fortnite/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
