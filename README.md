@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Automattic sends a cease-and-desist letter to WP Engine, alleging unauthorized use of the WordPress trademark, after WP Engine sent its own letter on Monday &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/240925/p17#a240925p17)
- - [A new Mini phone is coming soon, but is it really mini?](https://www.androidauthority.com/vivo-x200-pro-mini-small-phone-3484797/)
- - [Apple Card Savings cuts interest rate again](https://appleinsider.com/articles/24/09/25/apple-card-savings-cuts-interest-rate-again?utm_medium=rss)<!-- TECH:END -->
+ - [Apple Oklahoma City union secures new contract with pay hikes, better working conditions](https://appleinsider.com/articles/24/09/25/apple-oklahoma-city-union-secures-new-contract-with-pay-hikes-better-working-conditions?utm_medium=rss)
+ - [Reddit begins rolling out its ML-powered translations in Brazil, Spain, Germany, Italy, the Philippines, and 30+ others on the web, mobile, and desktop &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/240925/p21#a240925p21)
+ - [Patients Are Turning to Vibrators to Relieve Their Migraines](https://www.wired.com/story/wired-health-hub-why-vibrating-your-body-the-right-way-could-relieve-migraines/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
