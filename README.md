@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to make the most of Apple&#39;s Calendar, and when to opt for an alternative](https://appleinsider.com/inside/macos/tips/how-to-make-the-most-of-apples-calendar-and-when-to-opt-for-an-alternative?utm_medium=rss)
- - [Today&#39;s NYT Connections Hints, Answers and Help for Sept. 25, #472](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-sept-25-472/#ftag=CAD590a51e)
- - [Today&#39;s Wordle Hints, Answer and Help for Sept. 25, #1194](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-sept-25-1194/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Google Photos could soon use Gemini AI to supercharge your memories &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-photos-gemini-ai-recap-memory-apk-teardown-3484727/)
+ - [The US DOL releases AI &amp; Inclusive Hiring Framework, a set of guidelines to help employers ensure AI doesn&#39;t lead to discrimination for disabled job seekers &lpar;Rebecca Rainey/Bloomberg Law&rpar;](http://www.techmeme.com/240925/p1#a240925p1)
+ - [PSA: Starting today, you’ll need a Samsung account to use the Galaxy Store](https://www.androidauthority.com/samsung-account-galaxy-store-access-3484730/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
