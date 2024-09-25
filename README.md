@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Husky With An Italian Accent!?! What???](http://9gag.com/gag/a5QozVy)
- - ⏩ [Imagine asking for directions.](http://9gag.com/gag/aqy7QjY)
- - 👉 [Real leadership](http://9gag.com/gag/aYQgPpO)<!-- MEMES:END -->
+ - 💣 [It&#39;s tough to have parents who aren&#39;t very smart](http://9gag.com/gag/agmX8Kx)
+ - ⏩ [Caught this guy at Oktoberfest pretending to film the band, but he was filming something else\u2026](http://9gag.com/gag/aMVjPXW)
+ - 👉 [Lol no way.](http://9gag.com/gag/avyO1KO)<!-- MEMES:END -->
 
 ---
 
