@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Mark Zuckerberg announces Meta Quest 3S: $300 VR headset to mostly match the Quest 3, coming October 15](https://www.pcgamer.com/hardware/vr-hardware/mark-zuckerberg-announces-meta-quest-3s-dollar300-vr-headset-to-mostly-match-the-quest-3-coming-october-15)
- - [Sony Confirms The First 25 Games Guaranteed To Get Upgraded For The PS5 Pro](https://kotaku.com/ps5-pro-enhanced-support-8k-60fps-update-ff7-1851644737)
- - [Ubisoft Returning To Day-One Steam Releases With Assassin&#39;s Creed Shadows](https://kotaku.com/assassins-creed-shadows-outlaws-steam-2025-day-one-pc-1851657405)<!-- GAME:END -->
+ - [Official Xbox Podcast: Microsoft Flight Simulator 2024: On Location at The Grand Canyon](https://news.xbox.com/en-us/podcast/microsoft-flight-simulator-2024-on-location-at-the-grand-canyon-official-xbox-podcast/)
+ - [Everything We Learned About The Ghost Of Tsushima Sequel](https://kotaku.com/ghost-of-yotei-tsushima-protagonist-atsu-wolf-ps5-1851657667)
+ - [Everything You Need To Know About Persona 3 DLC, Episode Aigis: The Answer](https://kotaku.com/persona-3-episode-aigis-the-answer-dlc-how-long-1851657377)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
