@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How to make the most of Apple&#39;s Calendar, and when to opt for an alternative](https://appleinsider.com/inside/macos/tips/how-to-make-the-most-of-apples-calendar-and-when-to-opt-for-an-alternative?utm_medium=rss)
  - [Today&#39;s NYT Connections Hints, Answers and Help for Sept. 25, #472](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-sept-25-472/#ftag=CAD590a51e)
- - [Today&#39;s Wordle Hints, Answer and Help for Sept. 25, #1194](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-sept-25-1194/#ftag=CAD590a51e)
- - [Best Peloton Alternatives for 2024](https://www.cnet.com/health/fitness/best-peloton-alternative/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Today&#39;s Wordle Hints, Answer and Help for Sept. 25, #1194](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-sept-25-1194/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
