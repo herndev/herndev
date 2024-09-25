@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Viral ‘Goodbye Meta AI’ Copypasta Will Not Protect You](https://www.wired.com/story/viral-facebook-copypasta-will-not-protect-you/)
- - [California’s new law requires schools to limit phone use](https://www.theverge.com/2024/9/25/24253426/california-phone-free-school-act-newsom)
- - [London-based Raycast, a keyboard-based macOS productivity app with third-party extensions, raised a $30M Series B and plans to release iOS and Windows apps &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/240925/p29#a240925p29)<!-- TECH:END -->
+ - [Lawmakers in California hit back at hard-to-cancel subscriptions](https://www.androidauthority.com/click-to-cancel-subscription-california-law-3484898/)
+ - [Amazon issues record low prices on Apple Watch Series 10, black Apple Watch Ultra 2](https://appleinsider.com/articles/24/09/25/amazon-issues-record-low-prices-on-apple-watch-series-10-black-apple-watch-ultra-2?utm_medium=rss)
+ - [Sources: Google&#39;s $2.7B Character.AI deal was primarily to rehire founder Noam Shazeer, who quit Google in 2021 and made hundreds of millions from the deal &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240925/p31#a240925p31)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
