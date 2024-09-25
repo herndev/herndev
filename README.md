@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Oklahoma City union secures new contract with pay hikes, better working conditions](https://appleinsider.com/articles/24/09/25/apple-oklahoma-city-union-secures-new-contract-with-pay-hikes-better-working-conditions?utm_medium=rss)
- - [Reddit begins rolling out its ML-powered translations in Brazil, Spain, Germany, Italy, the Philippines, and 30+ others on the web, mobile, and desktop &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/240925/p21#a240925p21)
- - [Patients Are Turning to Vibrators to Relieve Their Migraines](https://www.wired.com/story/wired-health-hub-why-vibrating-your-body-the-right-way-could-relieve-migraines/)<!-- TECH:END -->
+ - [Torras Ostand 360 Spin Case returns with two great options for iPhone 16 lineup](https://appleinsider.com/articles/24/09/25/torras-ostand-360-spin-case-returns-with-two-great-options-for-iphone-16-lineup?utm_medium=rss)
+ - [The Most Capable Open Source AI Model Yet Could Supercharge AI Agents](https://www.wired.com/story/molmo-open-source-multimodal-ai-model-allen-institute-agents/)
+ - [Raycast is bringing its super-powerful Mac launcher to iOS and Windows](https://www.theverge.com/2024/9/25/24253375/raycast-mac-launcher-ios-windows)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
