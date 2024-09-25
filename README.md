@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Ranked Mode and a New Character in 3on3 Freestyle’s World of Street Ball](https://news.xbox.com/en-us/2024/09/25/new-mode-and-character-in-3on3-freestyle/)
- - [Assassin&amp;#8217;s Creed Shadows delayed following ‘soft’ reception to Star Wars Outlaws, Ubisoft says](https://www.polygon.com/gaming/456349/assassins-creed-shadows-delay-star-wars-outlaws-sales)
- - [Star Wars Outlaws sales were &#39;softer than expected,&#39; so Ubisoft is slamming the release-it-on-Steam button early](https://www.pcgamer.com/games/action/star-wars-outlaws-coming-to-steam-in-november-sales-have-been-softer-than-expected)<!-- GAME:END -->
+ - [Mark Zuckerberg announces Meta Quest 3S: $300 VR headset to mostly match the Quest 3, coming October 15](https://www.pcgamer.com/hardware/vr-hardware/mark-zuckerberg-announces-meta-quest-3s-dollar300-vr-headset-to-mostly-match-the-quest-3-coming-october-15)
+ - [Sony Confirms The First 25 Games Guaranteed To Get Upgraded For The PS5 Pro](https://kotaku.com/ps5-pro-enhanced-support-8k-60fps-update-ff7-1851644737)
+ - [Ubisoft Returning To Day-One Steam Releases With Assassin&#39;s Creed Shadows](https://kotaku.com/assassins-creed-shadows-outlaws-steam-2025-day-one-pc-1851657405)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
