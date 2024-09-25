@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The most Star Wars-ass names in Star Wars](https://www.polygon.com/star-wars/455826/the-most-star-wars-ass-names-in-star-wars)
- - [Gran Turismo World Series 2024 Round 3 live in Tokyo September 28](https://blog.playstation.com/2024/09/25/gran-turismo-world-series-2024-round-3-live-in-tokyo-september-28/)
- - [This Balrog spacebar is literal fire and has made me realise I need a full set of LOTR keycaps, ASAP](https://www.pcgamer.com/hardware/gaming-keyboards/this-balrog-spacebar-is-literal-fire-and-has-made-me-realise-i-need-a-full-set-of-lotr-keycaps-asap)<!-- GAME:END -->
+ - [Warhammer 40K Super Fan Henry Cavill Shares His Review Of Space Marine 2](https://kotaku.com/henry-cavill-warhammer-40k-space-marine-2-amazon-tv-1851656498)
+ - [Palworld surprise launches on PlayStation 5 in spite of Pokémon lawsuit — except in Japan](https://www.polygon.com/gaming/455993/palworld-playstation-5-ps5-release-date)
+ - [Palworld Out Now On PS5 Days After The &#39;Pokémon With Guns&#39; Survival Game Gets Sued By Nintendo](https://kotaku.com/palworld-pokemon-nintendo-lawsuit-ps5-sony-1851656704)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
