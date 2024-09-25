@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [&lpar;For Southeast Asia&rpar; First look at the Chroma Collection, an all-new iridescent line of PS5 accessories](https://blog.playstation.com/2024/09/25/20240925-chromacollection/)
- - [&lpar;For Southeast Asia&rpar; First look at the Chroma Collection, an all-new iridescent line of PS5 accessories](https://blog.playstation.com/2024/09/25/20240925-chromacollection/)
- - [Today&#39;s Wordle answer for Wednesday, September 25](https://www.pcgamer.com/games/puzzle/wordle-answer-today-september-25-2024)<!-- GAME:END -->
+ - [1 year and a trio of DLCs later, Remnant 2&#39;s devs reflect on development, Resident Evil 4, and making a solid game outside the live service grinder](https://www.pcgamer.com/games/third-person-shooter/1-year-and-a-trio-of-dlcs-later-remnant-2-s-devs-reflect-on-development-resident-evil-4-and-making-a-solid-game-outside-the-live-service-grinder)
+ - [PS5 Pro games list, including all confirmed first- and third-party upgrades](https://www.polygon.com/guides/449724/ps5-pro-games-list)
+ - [&lpar;For Southeast Asia&rpar; First look at the Chroma Collection, an all-new iridescent line of PS5 accessories](https://blog.playstation.com/2024/09/25/20240925-chromacollection/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
