@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Mistakes were made](http://9gag.com/gag/aRB3v2B)
- - ⏩ [Awesome and speachless](http://9gag.com/gag/avyOxqb)
- - 👉 [Imagine asking for directions.](http://9gag.com/gag/aqy7QjY)<!-- MEMES:END -->
+ - 💣 [There you go!](http://9gag.com/gag/amo7xbd)
+ - ⏩ [No way lol](http://9gag.com/gag/ayNX6Yb)
+ - 👉 [And what&#39;s next?](http://9gag.com/gag/ae9M1yW)<!-- MEMES:END -->
 
 ---
 
