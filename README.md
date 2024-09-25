@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [OpenAI CTO Mira Murati Is Leaving the Company](https://www.wired.com/story/openai-cto-mira-murati-is-leaving-the-company/)
- - [Deals: Here are a couple of great laptops at amazing prices](https://www.androidauthority.com/apple-macbook-air-m1-hp-victus-15-laptop-deals-3484974/)
- - [Suunto’s new bone conduction headphones are up to $30 off right now](https://www.theverge.com/2024/9/25/24253447/suunto-wing-sonic-bone-conduction-headphones-ue-wonderboom-4-speaker-deal-sale)<!-- TECH:END -->
+ - [Micron reports Q4 revenue up 93% YoY to $7.75B, vs. $7.66B est., forecasts Q1 revenue and profit above estimates, helped by AI demand; MU jumps 13%+ after hours &lpar;Ian King/Bloomberg&rpar;](http://www.techmeme.com/240925/p50#a240925p50)
+ - [How to choose which Apple Watch to buy](https://www.theverge.com/23037217/best-apple-watch-series-se-ultra)
+ - [Over 100 companies, including Amazon, Google, Microsoft, and OpenAI, signed the EU&#39;s AI Pact for &quot;voluntary pledges&quot; before the AI Act; Apple and Meta did not &lpar;Natasha Lomas/TechCrunch&rpar;](http://www.techmeme.com/240925/p49#a240925p49)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
