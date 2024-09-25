@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Starlight Re:Volver trades out Diablo&#39;s demons and gore for magical girls and sparkles, and I couldn&#39;t be more excited for it](https://www.pcgamer.com/games/rpg/starlight-revolver-trades-out-diablos-demons-and-gore-for-magical-girls-and-sparkles-and-i-couldnt-be-more-excited-for-it)
- - [Konami just put out Metal Gear Solid 2 and 3 patches that finally make them into the ports we should have got a year ago](https://www.pcgamer.com/games/action/konami-just-put-out-metal-gear-solid-2-and-3-patches-that-finally-make-them-into-the-ports-we-should-have-got-a-year-ago)
- - [After Bethesda kicked it off Doom&#39;s mod browser for &#39;real world politics&#39;, Thatcher&#39;s Techbase creators engage in masterful malicious compliance with a censored re-release](https://www.pcgamer.com/games/fps/after-bethesda-kicked-it-off-doom-s-mod-browser-for-real-world-politics-thatcher-s-techbase-creators-engage-in-masterful-malicious-compliance-with-a-censored-re-release)<!-- GAME:END -->
+ - [The most Star Wars-ass names in Star Wars](https://www.polygon.com/star-wars/455826/the-most-star-wars-ass-names-in-star-wars)
+ - [Gran Turismo World Series 2024 Round 3 live in Tokyo September 28](https://blog.playstation.com/2024/09/25/gran-turismo-world-series-2024-round-3-live-in-tokyo-september-28/)
+ - [This Balrog spacebar is literal fire and has made me realise I need a full set of LOTR keycaps, ASAP](https://www.pcgamer.com/hardware/gaming-keyboards/this-balrog-spacebar-is-literal-fire-and-has-made-me-realise-i-need-a-full-set-of-lotr-keycaps-asap)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
