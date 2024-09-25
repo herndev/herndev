@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung, Hyundai, and Kia sign a partnership to integrate Samsung&#39;s SmartThings IoT platform with future car infotainment systems developed by Hyundai and Kia &lpar;Simon Sharwood/The Register&rpar;](http://www.techmeme.com/240925/p5#a240925p5)
- - [Google Cloud VP Gabe Monroy says he has seen 20%-30% productivity gains across the software development lifecycle at large companies using Gemini Code Assist &lpar;Vikas SN/Moneycontrol&rpar;](http://www.techmeme.com/240925/p4#a240925p4)
- - [You can now buy the new Google TV Streamer remote separately for your Chromecast](https://www.androidauthority.com/google-tv-streamer-remote-chromecast-compatibility-3484734/)<!-- TECH:END -->
+ - [AI&#39;s first wave of successful implementation will probably look more like the first wave of computing, which was led by enterprise installations that cut jobs &lpar;Ben Thompson/Stratechery&rpar;](http://www.techmeme.com/240925/p9#a240925p9)
+ - [About 15,000 US doctors and assistants are using an AI feature in MyChart, a ubiquitous communications platform at US hospitals, to draft messages for patients &lpar;Teddy Rosenbluth/New York Times&rpar;](http://www.techmeme.com/240925/p8#a240925p8)
+ - [You don’t have to leave your game to change Spotify music on OnePlus phones](https://www.androidauthority.com/spotify-game-mode-overlay-oneplus-oppo-phones-3484736/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
