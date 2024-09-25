@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [London-based Apron, which is aiming to become the financial super app for SMBs, raised a $30M Series B led by Zinal Growth, bringing its total funding to $50.5M &lpar;Tom Matsuda/Sifted&rpar;](http://www.techmeme.com/240924/p47#a240924p47)
- - [Best Internet Providers in Tucson, Arizona](https://www.cnet.com/home/internet/best-internet-providers-in-tucson-az/#ftag=CAD590a51e)
- - [Palworld’s PS5 port is on hold indefinitely in Japan](https://www.theverge.com/2024/9/24/24253687/palworld-ps5-japan-release-date-nintendo-pokemon-lawsuit)<!-- TECH:END -->
+ - [Today&#39;s NYT Connections Hints, Answers and Help for Sept. 25, #472](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-sept-25-472/#ftag=CAD590a51e)
+ - [Today&#39;s Wordle Hints, Answer and Help for Sept. 25, #1194](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-sept-25-1194/#ftag=CAD590a51e)
+ - [Best Peloton Alternatives for 2024](https://www.cnet.com/health/fitness/best-peloton-alternative/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
