@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [A reckless driver caused a truck collision.](http://9gag.com/gag/a9yp8XD)
- - ⏩ [Oh no](http://9gag.com/gag/axy16OK)
- - 👉 [Lol no way.](http://9gag.com/gag/avyO1KO)<!-- MEMES:END -->
+ - ⏩ [Any plot twist bois... &lpar;japan&rpar;](http://9gag.com/gag/aD2xno7)
+ - 👉 [Help me, I&#39;m stuck](http://9gag.com/gag/ayNX3vW)<!-- MEMES:END -->
 
 ---
 
