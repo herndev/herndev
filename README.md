@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [In Japan, those who arrive early to work park in a parking lot further away from their workplace in order to give way to those who arrive late to make it on time. This is called mutual understanding.](http://9gag.com/gag/a9ypvVm)
- - ⏩ [True](http://9gag.com/gag/aD2xbEO)
- - 👉 [Awesome and speachless](http://9gag.com/gag/avyOxqb)<!-- MEMES:END -->
+ - 💣 [Yeet](http://9gag.com/gag/aMVjmw1)
+ - ⏩ [They have Mongolian in their blood..](http://9gag.com/gag/aqy7xWL)
+ - 👉 [Shadow magic](http://9gag.com/gag/aVv3E1v)<!-- MEMES:END -->
 
 ---
 
