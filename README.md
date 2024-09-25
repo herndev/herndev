@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Photos could soon use Gemini AI to supercharge your memories &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-photos-gemini-ai-recap-memory-apk-teardown-3484727/)
- - [The US DOL releases AI &amp; Inclusive Hiring Framework, a set of guidelines to help employers ensure AI doesn&#39;t lead to discrimination for disabled job seekers &lpar;Rebecca Rainey/Bloomberg Law&rpar;](http://www.techmeme.com/240925/p1#a240925p1)
- - [PSA: Starting today, you’ll need a Samsung account to use the Galaxy Store](https://www.androidauthority.com/samsung-account-galaxy-store-access-3484730/)<!-- TECH:END -->
+ - [Samsung, Hyundai, and Kia sign a partnership to integrate Samsung&#39;s SmartThings IoT platform with future car infotainment systems developed by Hyundai and Kia &lpar;Simon Sharwood/The Register&rpar;](http://www.techmeme.com/240925/p5#a240925p5)
+ - [Google Cloud VP Gabe Monroy says he has seen 20%-30% productivity gains across the software development lifecycle at large companies using Gemini Code Assist &lpar;Vikas SN/Moneycontrol&rpar;](http://www.techmeme.com/240925/p4#a240925p4)
+ - [You can now buy the new Google TV Streamer remote separately for your Chromecast](https://www.androidauthority.com/google-tv-streamer-remote-chromecast-compatibility-3484734/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
