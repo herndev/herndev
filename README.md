@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [There you go!](http://9gag.com/gag/amo7xbd)
- - ⏩ [No way lol](http://9gag.com/gag/ayNX6Yb)
- - 👉 [And what&#39;s next?](http://9gag.com/gag/ae9M1yW)<!-- MEMES:END -->
+ - 💣 [Gotta love the guy](http://9gag.com/gag/aoyN4X3)
+ - ⏩ [Don&#39;t pull me in](http://9gag.com/gag/a0eKVDZ)
+ - 👉 [Lol no way.](http://9gag.com/gag/avyO1KO)<!-- MEMES:END -->
 
 ---
 
