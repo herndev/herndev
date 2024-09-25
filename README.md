@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Contractors from Temu](http://9gag.com/gag/a0eKE8v)
- - ⏩ [People illegally fishing spawned salmon in Canada](http://9gag.com/gag/apR2AL8)
- - 👉 [Sony is pulling an Apple](http://9gag.com/gag/aVv3Lgw)<!-- MEMES:END -->
+ - 💣 [It&#39;s tough to have parents who aren&#39;t very smart](http://9gag.com/gag/agmX8Kx)
+ - ⏩ [Let that sink in](http://9gag.com/gag/a9yp2no)
+ - 👉 [Heartbreaking.](http://9gag.com/gag/aW41b3K)<!-- MEMES:END -->
 
 ---
 
