@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Caught this guy at Oktoberfest pretending to film the band, but he was filming something else\u2026](http://9gag.com/gag/aMVjPXW)
+ - 💣 [I think that would be perfect for Halloween.](http://9gag.com/gag/apR2AoB)
  - ⏩ [Pac smiling down from heaven.](http://9gag.com/gag/aVv3Zny)
- - 👉 [Showing the concept of frictional force](http://9gag.com/gag/axy1PjY)<!-- MEMES:END -->
+ - 👉 [Congratulations](http://9gag.com/gag/ajPEBAx)<!-- MEMES:END -->
 
 ---
 
