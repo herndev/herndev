@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Shorter lead times suggest iPhone 16 is least popular since the iPhone 12](https://appleinsider.com/articles/24/09/25/shorter-lead-times-suggest-iphone-16-is-least-popular-since-the-iphone-12?utm_medium=rss)
- - [A live blog of Meta Connect 2024, where the company&#39;s first AR glasses, a cheaper Quest 3S headset, new AI features powered by Llama 3.1, and more are expected &lpar;Kylie Robison/The Verge&rpar;](http://www.techmeme.com/240925/p33#a240925p33)
- - [Meta has acquired the Threads.com domain name, according to Whois records; Threads.com was owned by a Slack alternative startup acquired by Shopify in June &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/240925/p32#a240925p32)<!-- TECH:END -->
+ - [Meta AI&#39;s Imagine features are now being expanded across Facebook, Messenger, and Instagram, letting users generate AI photos, image captions, and more &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/240925/p39#a240925p39)
+ - [Why Mark Zuckerberg thinks AR glasses will replace your phone](https://www.theverge.com/24253481/meta-ceo-mark-zuckerberg-ar-glasses-orion-ray-bans-ai-decoder-interview)
+ - [Hands-on with Orion, Meta’s first pair of AR glasses](https://www.theverge.com/24253908/meta-orion-ar-glasses-demo-mark-zuckerberg-interview)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
