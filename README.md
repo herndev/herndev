@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Final destination](http://9gag.com/gag/aAyx4d0)
- - ⏩ [Hmm hehe hahah AHAHAHA](http://9gag.com/gag/aAyxM79)
- - 👉 [If You Know, You Know...](http://9gag.com/gag/aO8rD6y)<!-- MEMES:END -->
+ - 💣 [In Japan, those who arrive early to work park in a parking lot further away from their workplace in order to give way to those who arrive late to make it on time. This is called mutual understanding.](http://9gag.com/gag/a9ypvVm)
+ - ⏩ [True](http://9gag.com/gag/aD2xbEO)
+ - 👉 [Awesome and speachless](http://9gag.com/gag/avyOxqb)<!-- MEMES:END -->
 
 ---
 
