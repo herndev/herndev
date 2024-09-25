@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [`Wait, that wasn&#39;t the same movie?`](http://9gag.com/gag/a87oeqZ)
- - ⏩ [. . .](http://9gag.com/gag/aGyjMoK)
- - 👉 [True](http://9gag.com/gag/aD2xbEO)<!-- MEMES:END -->
+ - 💣 [The lungs : i&#39;m tired boss](http://9gag.com/gag/aqy78e7)
+ - ⏩ [It&#39;s tough to have parents who aren&#39;t very smart](http://9gag.com/gag/agmX8Kx)
+ - 👉 [Brazilian Bridge](http://9gag.com/gag/adBKODj)<!-- MEMES:END -->
 
 ---
 
