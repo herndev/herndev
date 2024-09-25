@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [A reckless driver caused a truck collision.](http://9gag.com/gag/a9yp8XD)
- - ⏩ [Any plot twist bois... &lpar;japan&rpar;](http://9gag.com/gag/aD2xno7)
- - 👉 [Help me, I&#39;m stuck](http://9gag.com/gag/ayNX3vW)<!-- MEMES:END -->
+ - 💣 [Mistakes were made](http://9gag.com/gag/aRB3v2B)
+ - ⏩ [Awesome and speachless](http://9gag.com/gag/avyOxqb)
+ - 👉 [Imagine asking for directions.](http://9gag.com/gag/aqy7QjY)<!-- MEMES:END -->
 
 ---
 
