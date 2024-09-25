@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Ubisoft comes crawlin&#39; back to Steam](https://www.pcgamer.com/gaming-industry/ubisoft-comes-crawlin-back-to-steam)
  - [Nintendo&#39;s New Museum Has Some Awesome Merch](https://kotaku.com/nintendo-museum-gift-shop-merch-n64-virtual-boy-wii-u-1851657878)
- - [The developer of new free-to-play shooter Spectre Divide just laid off 13 employees, says it was necessary &#39;to support Spectre and its community for the long term&#39;](https://www.pcgamer.com/games/fps/the-developer-of-new-free-to-play-shooter-spectre-divide-just-laid-off-13-employees-says-it-was-necessary-to-support-spectre-and-its-community-for-the-long-term)
- - [Videogame patent lawyer says Nintendo is taking a risk with its Palworld lawsuit: &#39;They&#39;ve exposed themselves in a big way&#39;](https://www.pcgamer.com/games/survival-crafting/videogame-patent-lawyer-says-nintendo-is-taking-a-risk-with-its-palworld-lawsuit-theyve-exposed-themselves-in-a-big-way)<!-- GAME:END -->
+ - [The developer of new free-to-play shooter Spectre Divide just laid off 13 employees, says it was necessary &#39;to support Spectre and its community for the long term&#39;](https://www.pcgamer.com/games/fps/the-developer-of-new-free-to-play-shooter-spectre-divide-just-laid-off-13-employees-says-it-was-necessary-to-support-spectre-and-its-community-for-the-long-term)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
