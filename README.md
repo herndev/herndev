@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Xbox September Update – Game Bar Compact Mode Now Available, Updates for Xbox App on Mobile Coming Soon, and More](https://news.xbox.com/en-us/2024/09/25/xbox-update-september-game-bar-compact-mode/)
- - [I want a PlayStation 5 Pro, but I don’t need it](https://www.polygon.com/opinion/455883/playstation-5-pro-impressions)
- - [Disappointing Metal Gear Solid: Master Collection Vol. 1 Finally Getting Big 2.0 Patch To Make Things Right On PC](https://kotaku.com/metal-gear-solid-2-snake-eater-pc-2-0-patch-resolution-1851657115)<!-- GAME:END -->
+ - [Indie Selects for September: Go On an Adventure This Month](https://news.xbox.com/en-us/2024/09/25/indie-selects-id-xbox-september-2024/)
+ - [What does the Marvel Cinematic Universe think a witch is, exactly?](https://www.polygon.com/marvel/455846/agatha-witch-magic-rules-how)
+ - [Assassin&#39;s Creed Shadows is delayed into 2025](https://www.pcgamer.com/games/action/assassins-creed-shadows-is-delayed-into-2025)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
