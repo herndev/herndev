@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The lungs : i&#39;m tired boss](http://9gag.com/gag/aqy78e7)
- - ⏩ [It&#39;s tough to have parents who aren&#39;t very smart](http://9gag.com/gag/agmX8Kx)
- - 👉 [Brazilian Bridge](http://9gag.com/gag/adBKODj)<!-- MEMES:END -->
+ - 💣 [Final destination](http://9gag.com/gag/aAyx4d0)
+ - ⏩ [Hmm hehe hahah AHAHAHA](http://9gag.com/gag/aAyxM79)
+ - 👉 [If You Know, You Know...](http://9gag.com/gag/aO8rD6y)<!-- MEMES:END -->
 
 ---
 
