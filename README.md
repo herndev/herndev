@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Help, February 2025 Is Packed With Way Too Many Massive Games](https://kotaku.com/february-2025-too-many-games-assassins-creed-civ-7-ps5-1851657731)
- - [&#39;Our goal is not to push any specific agenda&#39;: Ubisoft CEO tries to mollify gamers who won&#39;t stop being mad about a Black samurai in Assassin&#39;s Creed Shadows](https://www.pcgamer.com/games/action/our-goal-is-not-to-push-any-specific-agenda-ubisoft-ceo-tries-to-mollify-gamers-who-wont-stop-being-mad-about-a-black-samurai-in-assassins-creed-shadows)
- - [We Still Don&#39;t Know What Time PlayStation 30th Anniversary Pre-Orders Start, Here&#39;s How To Prepare](https://kotaku.com/ps5-pro-30th-anniversary-pre-order-time-price-date-1851657733)<!-- GAME:END -->
+ - [Nintendo&#39;s New Museum Has Some Awesome Merch](https://kotaku.com/nintendo-museum-gift-shop-merch-n64-virtual-boy-wii-u-1851657878)
+ - [The developer of new free-to-play shooter Spectre Divide just laid off 13 employees, says it was necessary &#39;to support Spectre and its community for the long term&#39;](https://www.pcgamer.com/games/fps/the-developer-of-new-free-to-play-shooter-spectre-divide-just-laid-off-13-employees-says-it-was-necessary-to-support-spectre-and-its-community-for-the-long-term)
+ - [Videogame patent lawyer says Nintendo is taking a risk with its Palworld lawsuit: &#39;They&#39;ve exposed themselves in a big way&#39;](https://www.pcgamer.com/games/survival-crafting/videogame-patent-lawyer-says-nintendo-is-taking-a-risk-with-its-palworld-lawsuit-theyve-exposed-themselves-in-a-big-way)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
