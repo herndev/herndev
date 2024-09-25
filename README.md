@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [YouTube is giving you one more reason to go Premium](https://www.androidauthority.com/youtube-premium-conversational-ai-3484757/)
- - [It turns out you’re really divided over the 80% rule for charging your phone](https://www.androidauthority.com/80-percent-charging-phone-divided-3484745/)
- - [Meta Connect 2024: How to Watch and What to Expect](https://www.wired.com/story/meta-connect-2024-what-to-expect/)<!-- TECH:END -->
+ - [Researchers detail an AI model that they claim can solve Google&#39;s reCAPTCHAv2 challenges with 100% accuracy using a similar number of attempts as human users &lpar;Peter Saalfield/Decrypt&rpar;](http://www.techmeme.com/240925/p12#a240925p12)
+ - [The Samsung Galaxy Ring just got a tiny but welcome update](https://www.androidauthority.com/samsung-galaxy-ring-september-update-3484761/)
+ - [MKBHD is committed to fixing his wallpaper app, but not its $50 price tag](https://www.androidauthority.com/mkbhd-to-fix-wallpaper-app-3484751/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
