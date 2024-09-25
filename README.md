@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Real leadership](http://9gag.com/gag/aYQgPpO)
- - ⏩ [True](http://9gag.com/gag/aD2xbEO)
- - 👉 [In Japan, those who arrive early to work park in a parking lot further away from their workplace in order to give way to those who arrive late to make it on time. This is called mutual understanding.](http://9gag.com/gag/a9ypvVm)<!-- MEMES:END -->
+ - 💣 [`Wait, that wasn&#39;t the same movie?`](http://9gag.com/gag/a87oeqZ)
+ - ⏩ [. . .](http://9gag.com/gag/aGyjMoK)
+ - 👉 [True](http://9gag.com/gag/aD2xbEO)<!-- MEMES:END -->
 
 ---
 
