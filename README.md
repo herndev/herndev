@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle answer for Wednesday, September 25](https://www.pcgamer.com/games/puzzle/wordle-answer-today-september-25-2024)
  - [&lpar;For Southeast Asia&rpar; Celebrating 30 years of PlayStation with a nostalgic look](https://blog.playstation.com/2024/09/24/for-southeast-asia-celebrating-30-years-of-playstation-with-a-nostalgic-look/)
- - [&lpar;For Southeast Asia&rpar; Horizon Zero Dawn Remastered is coming to PS5, PC October 31, 2024](https://blog.playstation.com/2024/09/24/20240924-horizon/)
- - [How Fantasian Neo Dimension Reunites the Fathers of the RPG – Launching on December 5](https://news.xbox.com/en-us/2024/09/24/fantasian-neo-dimension-xbox/)<!-- GAME:END -->
+ - [&lpar;For Southeast Asia&rpar; Celebrating 30 years of PlayStation with a nostalgic look](https://blog.playstation.com/2024/09/24/for-southeast-asia-celebrating-30-years-of-playstation-with-a-nostalgic-look/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
