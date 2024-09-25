@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google&#39;s Mandiant says dozens of Fortune 100 companies have unwittingly hired North Korean IT workers in a scheme orchestrated by group UNC5267 starting in 2018 &lpar;Jonathan Greig/The Record&rpar;](http://www.techmeme.com/240925/p14#a240925p14)
- - [NOYB files a privacy complaint against Mozilla with the Austrian data protection authority, accusing the Firefox maker of tracking users without consent &lpar;Supantha Mukherjee/Reuters&rpar;](http://www.techmeme.com/240925/p13#a240925p13)
- - [Best Squat Racks of 2024](https://www.cnet.com/health/fitness/best-squat-racks/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Automattic sends a cease-and-desist letter to WP Engine, alleging unauthorized use of the WordPress trademark, after WP Engine sent its own letter on Monday &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/240925/p17#a240925p17)
+ - [A new Mini phone is coming soon, but is it really mini?](https://www.androidauthority.com/vivo-x200-pro-mini-small-phone-3484797/)
+ - [Apple Card Savings cuts interest rate again](https://appleinsider.com/articles/24/09/25/apple-card-savings-cuts-interest-rate-again?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
