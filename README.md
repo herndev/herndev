@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Indie Selects for September: Go On an Adventure This Month](https://news.xbox.com/en-us/2024/09/25/indie-selects-id-xbox-september-2024/)
- - [What does the Marvel Cinematic Universe think a witch is, exactly?](https://www.polygon.com/marvel/455846/agatha-witch-magic-rules-how)
- - [Assassin&#39;s Creed Shadows is delayed into 2025](https://www.pcgamer.com/games/action/assassins-creed-shadows-is-delayed-into-2025)<!-- GAME:END -->
+ - [Ranked Mode and a New Character in 3on3 Freestyle’s World of Street Ball](https://news.xbox.com/en-us/2024/09/25/new-mode-and-character-in-3on3-freestyle/)
+ - [Assassin&amp;#8217;s Creed Shadows delayed following ‘soft’ reception to Star Wars Outlaws, Ubisoft says](https://www.polygon.com/gaming/456349/assassins-creed-shadows-delay-star-wars-outlaws-sales)
+ - [Star Wars Outlaws sales were &#39;softer than expected,&#39; so Ubisoft is slamming the release-it-on-Steam button early](https://www.pcgamer.com/games/action/star-wars-outlaws-coming-to-steam-in-november-sales-have-been-softer-than-expected)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
