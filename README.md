@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Lawmakers in California hit back at hard-to-cancel subscriptions](https://www.androidauthority.com/click-to-cancel-subscription-california-law-3484898/)
- - [Amazon issues record low prices on Apple Watch Series 10, black Apple Watch Ultra 2](https://appleinsider.com/articles/24/09/25/amazon-issues-record-low-prices-on-apple-watch-series-10-black-apple-watch-ultra-2?utm_medium=rss)
- - [Sources: Google&#39;s $2.7B Character.AI deal was primarily to rehire founder Noam Shazeer, who quit Google in 2021 and made hundreds of millions from the deal &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240925/p31#a240925p31)<!-- TECH:END -->
+ - [Shorter lead times suggest iPhone 16 is least popular since the iPhone 12](https://appleinsider.com/articles/24/09/25/shorter-lead-times-suggest-iphone-16-is-least-popular-since-the-iphone-12?utm_medium=rss)
+ - [A live blog of Meta Connect 2024, where the company&#39;s first AR glasses, a cheaper Quest 3S headset, new AI features powered by Llama 3.1, and more are expected &lpar;Kylie Robison/The Verge&rpar;](http://www.techmeme.com/240925/p33#a240925p33)
+ - [Meta has acquired the Threads.com domain name, according to Whois records; Threads.com was owned by a Slack alternative startup acquired by Shopify in June &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/240925/p32#a240925p32)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
