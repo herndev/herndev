@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I think that would be perfect for Halloween.](http://9gag.com/gag/apR2AoB)
- - ⏩ [Pac smiling down from heaven.](http://9gag.com/gag/aVv3Zny)
- - 👉 [Congratulations](http://9gag.com/gag/ajPEBAx)<!-- MEMES:END -->
+ - 💣 [Oh no](http://9gag.com/gag/axy16OK)
+ - ⏩ [Uh oh](http://9gag.com/gag/apR2bnD)
+ - 👉 [Hello Billy](http://9gag.com/gag/avyOxKE)<!-- MEMES:END -->
 
 ---
 
