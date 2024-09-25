@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Allen Institute for AI releases the Multimodal Open Language Model, or Molmo, in 1B and 70B-parameter sizes, the most capable open source AI model yet &lpar;Will Knight/Wired&rpar;](http://www.techmeme.com/240925/p27#a240925p27)
- - [A fan of AMC’s The Terror helped identify real-life crew member of doomed expedition](https://www.theverge.com/2024/9/25/24253938/amc-the-terror-franklin-expedition-captain-james-fitzjames)
- - [Amazon’s next entry-level Kindle with a brighter screen leaks](https://www.theverge.com/2024/9/25/24253963/amazon-kindle-12-generation-colors-leak)<!-- TECH:END -->
+ - [The Viral ‘Goodbye Meta AI’ Copypasta Will Not Protect You](https://www.wired.com/story/viral-facebook-copypasta-will-not-protect-you/)
+ - [California’s new law requires schools to limit phone use](https://www.theverge.com/2024/9/25/24253426/california-phone-free-school-act-newsom)
+ - [London-based Raycast, a keyboard-based macOS productivity app with third-party extensions, raised a $30M Series B and plans to release iOS and Windows apps &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/240925/p29#a240925p29)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
