@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Micron reports Q4 revenue up 93% YoY to $7.75B, vs. $7.66B est., forecasts Q1 revenue and profit above estimates, helped by AI demand; MU jumps 13%+ after hours &lpar;Ian King/Bloomberg&rpar;](http://www.techmeme.com/240925/p50#a240925p50)
- - [How to choose which Apple Watch to buy](https://www.theverge.com/23037217/best-apple-watch-series-se-ultra)
- - [Over 100 companies, including Amazon, Google, Microsoft, and OpenAI, signed the EU&#39;s AI Pact for &quot;voluntary pledges&quot; before the AI Act; Apple and Meta did not &lpar;Natasha Lomas/TechCrunch&rpar;](http://www.techmeme.com/240925/p49#a240925p49)<!-- TECH:END -->
+ - [Need security cameras? The Blink Outdoor 4 3-pack is 62% off, reaching an all-time low price](https://www.androidauthority.com/blink-outdoor-4-3-pack-deal-3484973/)
+ - [The best budget robot vacuums](https://www.theverge.com/23846479/best-budget-robot-vacuum-robot-mop)
+ - [The Moonwalkers robot shoes are back, and they’re lighter this time](https://www.theverge.com/2024/9/25/24254444/shift-robotics-moonwalkers-aero-robot-shoes)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
