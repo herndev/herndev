@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Researchers detail an AI model that they claim can solve Google&#39;s reCAPTCHAv2 challenges with 100% accuracy using a similar number of attempts as human users &lpar;Peter Saalfield/Decrypt&rpar;](http://www.techmeme.com/240925/p12#a240925p12)
- - [The Samsung Galaxy Ring just got a tiny but welcome update](https://www.androidauthority.com/samsung-galaxy-ring-september-update-3484761/)
- - [MKBHD is committed to fixing his wallpaper app, but not its $50 price tag](https://www.androidauthority.com/mkbhd-to-fix-wallpaper-app-3484751/)<!-- TECH:END -->
+ - [Google&#39;s Mandiant says dozens of Fortune 100 companies have unwittingly hired North Korean IT workers in a scheme orchestrated by group UNC5267 starting in 2018 &lpar;Jonathan Greig/The Record&rpar;](http://www.techmeme.com/240925/p14#a240925p14)
+ - [NOYB files a privacy complaint against Mozilla with the Austrian data protection authority, accusing the Firefox maker of tracking users without consent &lpar;Supantha Mukherjee/Reuters&rpar;](http://www.techmeme.com/240925/p13#a240925p13)
+ - [Best Squat Racks of 2024](https://www.cnet.com/health/fitness/best-squat-racks/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
