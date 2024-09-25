@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Need security cameras? The Blink Outdoor 4 3-pack is 62% off, reaching an all-time low price](https://www.androidauthority.com/blink-outdoor-4-3-pack-deal-3484973/)
- - [The best budget robot vacuums](https://www.theverge.com/23846479/best-budget-robot-vacuum-robot-mop)
- - [The Moonwalkers robot shoes are back, and they’re lighter this time](https://www.theverge.com/2024/9/25/24254444/shift-robotics-moonwalkers-aero-robot-shoes)<!-- TECH:END -->
+ - [Ubisoft lowers its FY 2024-25 bookings forecast to &amp;euro;1.95B, vs. &amp;euro;2.42B est., and delays Assassin&#39;s Creed Shadows to February 14, 2025; UBI closes down 4.52% &lpar;Cecilia D&#39;Anastasio/Bloomberg&rpar;](http://www.techmeme.com/240925/p52#a240925p52)
+ - [Blue Origin gets its New Glenn rocket on track with new test fire](https://www.theverge.com/2024/9/25/24254512/blue-origin-new-glenn-second-stage-hotfire-test-blue-ring)
+ - [OpenAI’s for-profit switch could include equity for Sam Altman](https://www.theverge.com/2024/9/25/24254535/openai-non-profit-for-profit-sam-altman-investment)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
