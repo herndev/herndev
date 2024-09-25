@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Ghost of Yōtei announced: Ghost of Tsushima sequel coming to PS5 next year](https://www.pcgamer.com/games/action/ghost-of-yotei-announcement)
- - [Horizon Zero Dawn Remastered is coming to PS5, PC October 31, 2024](https://blog.playstation.com/2024/09/24/horizon-zero-dawn-remastered-is-coming-to-ps5-pc-october-31-2024/)
- - [Every big announcement from PlayStation’s new State of Play](https://www.polygon.com/news/455279/playstation-state-of-play-news-trailers-september-2024)<!-- GAME:END -->
+ - [Ghost Of Yōtei Looks Like Exactly The Game PS5 Pro Needs To Show Off Its Power](https://kotaku.com/ps5-pro-ghost-of-tsushima-2-yotei-sequel-state-of-play-1851656738)
+ - [Monster Hunter Wilds Releasing In February 2025](https://kotaku.com/monster-hunter-wilds-world-release-date-february-2025-1851656728)
+ - [Monster Hunter Wilds finally has a release date, will mark the first simultaneous PC launch in the series](https://www.pcgamer.com/games/rpg/monster-hunter-wilds-finally-has-a-release-date-will-mark-the-first-simultaneous-pc-launch-in-the-series)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
