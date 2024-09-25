@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [A reckless driver caused a truck collision.](http://9gag.com/gag/a9yp8XD)
- - ⏩ [Honey, why isn&#39;t Timmy sleeping properly?](http://9gag.com/gag/a4P7znQ)
- - 👉 [Shadow magic](http://9gag.com/gag/aVv3E1v)<!-- MEMES:END -->
+ - 💣 [Real leadership](http://9gag.com/gag/aYQgPpO)
+ - ⏩ [True](http://9gag.com/gag/aD2xbEO)
+ - 👉 [In Japan, those who arrive early to work park in a parking lot further away from their workplace in order to give way to those who arrive late to make it on time. This is called mutual understanding.](http://9gag.com/gag/a9ypvVm)<!-- MEMES:END -->
 
 ---
 
