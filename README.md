@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [It&#39;s tough to have parents who aren&#39;t very smart](http://9gag.com/gag/agmX8Kx)
- - ⏩ [Caught this guy at Oktoberfest pretending to film the band, but he was filming something else\u2026](http://9gag.com/gag/aMVjPXW)
- - 👉 [Lol no way.](http://9gag.com/gag/avyO1KO)<!-- MEMES:END -->
+ - 💣 [A reckless driver caused a truck collision.](http://9gag.com/gag/a9yp8XD)
+ - ⏩ [Honey, why isn&#39;t Timmy sleeping properly?](http://9gag.com/gag/a4P7znQ)
+ - 👉 [Shadow magic](http://9gag.com/gag/aVv3E1v)<!-- MEMES:END -->
 
 ---
 
