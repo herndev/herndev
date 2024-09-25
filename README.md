@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta AI&#39;s Imagine features are now being expanded across Facebook, Messenger, and Instagram, letting users generate AI photos, image captions, and more &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/240925/p39#a240925p39)
- - [Why Mark Zuckerberg thinks AR glasses will replace your phone](https://www.theverge.com/24253481/meta-ceo-mark-zuckerberg-ar-glasses-orion-ray-bans-ai-decoder-interview)
- - [Hands-on with Orion, Meta’s first pair of AR glasses](https://www.theverge.com/24253908/meta-orion-ar-glasses-demo-mark-zuckerberg-interview)<!-- TECH:END -->
+ - [OpenAI CTO Mira Murati Is Leaving the Company](https://www.wired.com/story/openai-cto-mira-murati-is-leaving-the-company/)
+ - [Deals: Here are a couple of great laptops at amazing prices](https://www.androidauthority.com/apple-macbook-air-m1-hp-victus-15-laptop-deals-3484974/)
+ - [Suunto’s new bone conduction headphones are up to $30 off right now](https://www.theverge.com/2024/9/25/24253447/suunto-wing-sonic-bone-conduction-headphones-ue-wonderboom-4-speaker-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
