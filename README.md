@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [It&#39;s tough to have parents who aren&#39;t very smart](http://9gag.com/gag/agmX8Kx)
- - ⏩ [Let that sink in](http://9gag.com/gag/a9yp2no)
- - 👉 [Heartbreaking.](http://9gag.com/gag/aW41b3K)<!-- MEMES:END -->
+ - 💣 [Pac smiling down from heaven.](http://9gag.com/gag/aVv3Zny)
+ - ⏩ [The what?](http://9gag.com/gag/a9ypXYK)
+ - 👉 [People illegally fishing spawned salmon in Canada](http://9gag.com/gag/apR2AL8)<!-- MEMES:END -->
 
 ---
 
