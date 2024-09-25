@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Showing the concept of frictional force](http://9gag.com/gag/axy1PjY)
- - ⏩ [Hello Billy](http://9gag.com/gag/avyOxKE)
- - 👉 [Sony is pulling an Apple](http://9gag.com/gag/aVv3Lgw)<!-- MEMES:END -->
+ - 💣 [The what?](http://9gag.com/gag/a9ypXYK)
+ - ⏩ [Sony is pulling an Apple](http://9gag.com/gag/aVv3Lgw)
+ - 👉 [Showing the concept of frictional force](http://9gag.com/gag/axy1PjY)<!-- MEMES:END -->
 
 ---
 
