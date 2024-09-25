@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Official Xbox Podcast: Microsoft Flight Simulator 2024: On Location at The Grand Canyon](https://news.xbox.com/en-us/podcast/microsoft-flight-simulator-2024-on-location-at-the-grand-canyon-official-xbox-podcast/)
- - [Everything We Learned About The Ghost Of Tsushima Sequel](https://kotaku.com/ghost-of-yotei-tsushima-protagonist-atsu-wolf-ps5-1851657667)
- - [Everything You Need To Know About Persona 3 DLC, Episode Aigis: The Answer](https://kotaku.com/persona-3-episode-aigis-the-answer-dlc-how-long-1851657377)<!-- GAME:END -->
+ - [Help, February 2025 Is Packed With Way Too Many Massive Games](https://kotaku.com/february-2025-too-many-games-assassins-creed-civ-7-ps5-1851657731)
+ - [&#39;Our goal is not to push any specific agenda&#39;: Ubisoft CEO tries to mollify gamers who won&#39;t stop being mad about a Black samurai in Assassin&#39;s Creed Shadows](https://www.pcgamer.com/games/action/our-goal-is-not-to-push-any-specific-agenda-ubisoft-ceo-tries-to-mollify-gamers-who-wont-stop-being-mad-about-a-black-samurai-in-assassins-creed-shadows)
+ - [We Still Don&#39;t Know What Time PlayStation 30th Anniversary Pre-Orders Start, Here&#39;s How To Prepare](https://kotaku.com/ps5-pro-30th-anniversary-pre-order-time-price-date-1851657733)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
