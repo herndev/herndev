@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Gotta love the guy](http://9gag.com/gag/aoyN4X3)
- - ⏩ [Don&#39;t pull me in](http://9gag.com/gag/a0eKVDZ)
- - 👉 [Lol no way.](http://9gag.com/gag/avyO1KO)<!-- MEMES:END -->
+ - 💣 [Husky With An Italian Accent!?! What???](http://9gag.com/gag/a5QozVy)
+ - ⏩ [Imagine asking for directions.](http://9gag.com/gag/aqy7QjY)
+ - 👉 [Real leadership](http://9gag.com/gag/aYQgPpO)<!-- MEMES:END -->
 
 ---
 
