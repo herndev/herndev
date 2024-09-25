@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Warhammer 40K Super Fan Henry Cavill Shares His Review Of Space Marine 2](https://kotaku.com/henry-cavill-warhammer-40k-space-marine-2-amazon-tv-1851656498)
- - [Palworld surprise launches on PlayStation 5 in spite of Pokémon lawsuit — except in Japan](https://www.polygon.com/gaming/455993/palworld-playstation-5-ps5-release-date)
- - [Palworld Out Now On PS5 Days After The &#39;Pokémon With Guns&#39; Survival Game Gets Sued By Nintendo](https://kotaku.com/palworld-pokemon-nintendo-lawsuit-ps5-sony-1851656704)<!-- GAME:END -->
+ - [Xbox September Update – Game Bar Compact Mode Now Available, Updates for Xbox App on Mobile Coming Soon, and More](https://news.xbox.com/en-us/2024/09/25/xbox-update-september-game-bar-compact-mode/)
+ - [I want a PlayStation 5 Pro, but I don’t need it](https://www.polygon.com/opinion/455883/playstation-5-pro-impressions)
+ - [Disappointing Metal Gear Solid: Master Collection Vol. 1 Finally Getting Big 2.0 Patch To Make Things Right On PC](https://kotaku.com/metal-gear-solid-2-snake-eater-pc-2-0-patch-resolution-1851657115)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
