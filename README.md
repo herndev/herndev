@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How to turn the Action Button into a multi-function automation launcher](https://appleinsider.com/inside/iphone/tips/how-to-turn-the-action-button-into-a-multi-function-automation-launcher?utm_medium=rss)
  - [Source: a demo of Sora initially took 10+ minutes to make a 1-minute clip; source: OpenAI execs spoke of training an improved Sora that could quickly make clips &lpar;Stephanie Palazzolo/The Information&rpar;](http://www.techmeme.com/240925/p56#a240925p56)
- - [I Played Like a Dragon: Pirate Yakuza in Hawaii. It&#39;s a Swarthy Sea Dog Adventure](https://www.cnet.com/tech/gaming/i-played-like-a-dragon-pirate-yakuza-in-hawaii-its-a-swarthy-sea-dog-adventure/#ftag=CAD590a51e)
- - [This Quick Trick Cools My Bedroom Without Blasting the AC](https://www.cnet.com/how-to/this-quick-trick-cools-my-bedroom-without-blasting-ac/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [I Played Like a Dragon: Pirate Yakuza in Hawaii. It&#39;s a Swarthy Sea Dog Adventure](https://www.cnet.com/tech/gaming/i-played-like-a-dragon-pirate-yakuza-in-hawaii-its-a-swarthy-sea-dog-adventure/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
