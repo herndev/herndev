@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Sony is pulling an Apple](http://9gag.com/gag/aVv3Lgw)
- - ⏩ [In time](http://9gag.com/gag/aKGjWY1)
- - 👉 [Hello Billy](http://9gag.com/gag/avyOxKE)<!-- MEMES:END -->
+ - 💣 [Task failed successfully](http://9gag.com/gag/adBKxdj)
+ - ⏩ [Heartbreaking.](http://9gag.com/gag/aW41b3K)
+ - 👉 [They have Mongolian in their blood..](http://9gag.com/gag/aqy7xWL)<!-- MEMES:END -->
 
 ---
 
