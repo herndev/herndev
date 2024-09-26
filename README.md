@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I think he didnt understand it.](http://9gag.com/gag/ayNXQZV)
- - ⏩ [Brb](http://9gag.com/gag/aLnjdQM)
- - 👉 [Heartbreaking.](http://9gag.com/gag/aW41b3K)<!-- MEMES:END -->
+ - 💣 [Beautiful.](http://9gag.com/gag/aYQgRgv)
+ - ⏩ [YES](http://9gag.com/gag/a87oV2Q)
+ - 👉 [Burn \ud83d\udd25](http://9gag.com/gag/aRB3oOq)<!-- MEMES:END -->
 
 ---
 
