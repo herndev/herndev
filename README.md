@@ -32,8 +32,8 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Space Marine 2&#39;s latest patch adds ultrawide support, private co-op lobbies, and battle buddies who will actually be useful for something](https://www.pcgamer.com/games/third-person-shooter/space-marine-2s-latest-patch-finally-adds-ultrawide-support-private-co-op-lobbies-and-battle-buddies-who-will-actually-be-useful-for-something)
  - [This New FPS Is Really Weird, But Really Awesome, Too](https://kotaku.com/echo-point-nova-fps-steam-review-titanfall-fps-doom-pc-1851658994)
- - [In Grotesquerie, Ryan Murphy does Seven and… it kinda works?](https://www.polygon.com/tv/457024/grotesquerie-ryan-murphy-review-ahs-hotel-seven-hulu)
  - [This unique action-platformer lets you shapeshift into animal forms—but I just got obsessed with being a flat piece of paper](https://www.pcgamer.com/games/action/this-unique-action-platformer-lets-you-shapeshift-into-animal-forms-but-i-just-got-obsessed-with-being-a-flat-piece-of-paper)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
