@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Sci-fi Extraction Shooter Synduality Echo of Ada Arrives January 23 – Pre-order Today](https://news.xbox.com/en-us/2024/09/26/synduality-magus-ai/)
- - [The prophecy is fulfilled: Overwatch 2 just announced one of its best collabs with My Hero Academia, which means we get a Juno x Uraraka skin](https://www.pcgamer.com/games/fps/the-prophecy-is-fulfilled-overwatch-2-just-announced-one-of-its-best-collabs-with-my-hero-academia-which-means-we-get-a-juno-x-uraraka-skin)
- - [Xbox Tokyo Game Show 2024 Broadcast: Every Announcement and Game Reveal](https://news.xbox.com/en-us/2024/09/26/xbox-tokyo-game-show-2024-tgs-recap/)<!-- GAME:END -->
+ - [The Last of Us joins PlayStation’s 30th Anniversary celebrations](https://blog.playstation.com/2024/09/26/the-last-of-us-joins-playstations-30th-anniversary-celebrations/)
+ - [Age of Mythology&#39;s least-loved expansion looks like it&#39;s had an overhaul in its remastered version, and we&#39;ll be able to play as China &#39;soon&#39;](https://www.pcgamer.com/games/rts/age-of-mythologys-least-loved-expansion-looks-like-its-had-an-overhaul-in-its-remastered-version-and-well-be-able-to-play-as-china-soon)
+ - [Metaphor: ReFantazio releases a meaty prologue demo that spans the game&#39;s &#39;first 4 dungeons&#39;—plus, your save data will carry over to the full game](https://www.pcgamer.com/games/rpg/metaphor-refantazio-releases-a-meaty-prologue-demo-that-spans-the-game-s-first-4-dungeons-plus-your-save-data-will-carry-over-to-the-full-game)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
