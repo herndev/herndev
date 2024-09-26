@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best smartphone you can buy for under $500](https://www.theverge.com/21420196/best-budget-smartphone-cheap)
- - [Google Calendar gears up for a visual refresh with new ‘flairs’ &lpar;APK Teardown&rpar;](https://www.androidauthority.com/google-calendar-new-flairs-3485548/)
- - [The best new streaming movies this week: Killer Heat and more](https://www.androidauthority.com/best-new-streaming-movies-this-week-3083965/)<!-- TECH:END -->
+ - [Does the Samsung Galaxy S24 FE support eSIM and dual-SIM?](https://www.androidauthority.com/samsung-galaxy-s24-fe-esim-dual-sim-3484713/)
+ - [The Verge Guide to Amazon’s October Prime Day event](https://www.theverge.com/24255302/amazon-prime-day-deals-tips-news-guide-2024-october)
+ - [Google may have hit pause on Pixel Watch Wear OS 5 updates](https://www.androidauthority.com/pixel-watch-wear-os-5-updates-3485553/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
