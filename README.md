@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung unveils the $649+ Galaxy S24 FE, a &quot;Fan Edition&quot; value-focused version of the S24 with a 6.7&quot; display, Exynos 2400e, and 8GB of RAM, in five colors &lpar;Ben Schoon/9to5Google&rpar;](http://www.techmeme.com/240926/p26#a240926p26)
- - [Moment’s SuperCage smartphone rig has more ports and more power for filmmakers](https://www.theverge.com/2024/9/26/24255026/moment-smartphone-filmmaking-supercage)
- - [Samsung Galaxy S24 FE vs Galaxy S24: Which should you buy and what’s the difference?](https://www.androidauthority.com/samsung-galaxy-s24-fe-vs-galaxy-s24-3485011/)<!-- TECH:END -->
+ - [A deepfake caller pretending to be a Ukrainian official almost tricked a US Senator](https://www.theverge.com/2024/9/26/24255179/deepfake-call-ukraine-senator-cardin-dmytro-kuleba)
+ - [Google’s new Nest Learning Thermostat is discounted for the first time](https://www.theverge.com/2024/9/26/24254879/google-nest-learning-thermostat-fourth-gen-elgato-stream-deck-deal-sale)
+ - [Sources: Robinhood and Revolut are exploring offering their own stablecoins; Tether&#39;s USDT has grown to $120B, accounting for over two-thirds of market value &lpar;Bloomberg&rpar;](http://www.techmeme.com/240926/p28#a240926p28)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
