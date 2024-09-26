@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [SK Hynix starts mass producing its new 12-layer HBM3E chips with 36GB per chip capacity, up 50% from its previous gen, slated for delivery by the end of 2024 &lpar;Anniek Bao/CNBC&rpar;](http://www.techmeme.com/240926/p2#a240926p2)
- - [Blackstone confirms a &amp;pound;10B investment for an AI data center in northeast England; UK PM Keir Starmer says the construction will create 4,000 jobs in 2025 &lpar;Surbhi Misra/Reuters&rpar;](http://www.techmeme.com/240926/p1#a240926p1)
- - [Disney Plus sets a price tag on account sharing: Is it worth it?](https://www.androidauthority.com/disney-plus-paid-account-sharing-prices-3485137/)<!-- TECH:END -->
+ - [a16z is a prosecution witness in the DOJ&#39;s case against BitClout founder Nader Al-Naji, who raised hundreds of millions dollars for his failed crypto startups &lpar;Jeff John Roberts/Fortune&rpar;](http://www.techmeme.com/240926/p5#a240926p5)
+ - [Google says its transition to memory-safe languages like Rust led to memory-safe vulnerabilities in Android dropping from 76% in 2019 to 24% in 2024 &lpar;The Hacker News&rpar;](http://www.techmeme.com/240926/p4#a240926p4)
+ - [Throwing out broken Pixel Watches is not a solution, and Google knows it](https://www.androidauthority.com/google-pixel-watch-repairability-decision-3485143/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
