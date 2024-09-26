@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Ubisoft comes crawlin&#39; back to Steam](https://www.pcgamer.com/gaming-industry/ubisoft-comes-crawlin-back-to-steam)
- - [Nintendo&#39;s New Museum Has Some Awesome Merch](https://kotaku.com/nintendo-museum-gift-shop-merch-n64-virtual-boy-wii-u-1851657878)
- - [The developer of new free-to-play shooter Spectre Divide just laid off 13 employees, says it was necessary &#39;to support Spectre and its community for the long term&#39;](https://www.pcgamer.com/games/fps/the-developer-of-new-free-to-play-shooter-spectre-divide-just-laid-off-13-employees-says-it-was-necessary-to-support-spectre-and-its-community-for-the-long-term)<!-- GAME:END -->
+ - [God of War Ragnarök PC review](https://www.pcgamer.com/games/action/god-of-war-ragnarok-pc-review)
+ - [February 2025 is now absurdly stacked with big games](https://www.pcgamer.com/games/february-2025-is-now-absurdly-stacked-with-big-games)
+ - [Hyrule Castle Underground jail walkthrough in Zelda: Echoes of Wisdom](https://www.polygon.com/zelda-echoes-wisdom-guides/451075/hyrule-castle-underground-walkthrough-escape-jail)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
