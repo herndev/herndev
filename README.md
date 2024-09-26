@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Like a Dragon: Pirate Yakuza in Hawaii – hands-on report](https://blog.playstation.com/2024/09/25/like-a-dragon-pirate-yakuza-in-hawaii-hands-on-report/)
- - [An early hands-on with Like a Dragon: Pirate Yakuza in Hawaii was absurd and delightful](https://www.polygon.com/impressions/456484/an-early-hands-on-with-like-a-dragon-pirate-yakuza-in-hawaii-was-absurd-and-delightful)
- - [Shohei Ohtani&#39;s impossible baseball skills are outpacing game developers: Konami reportedly had to buff him in a videogame that isn&#39;t even out yet](https://www.pcgamer.com/games/sports/shohei-ohtanis-impossible-baseball-skills-are-outpacing-game-developers-konami-reportedly-had-to-buff-him-in-a-videogame-that-isnt-even-out-yet)<!-- GAME:END -->
+ - [Dynasty Warriors: Origins — hands-on report](https://blog.playstation.com/2024/09/25/dynasty-warriors-origins-hands-on-report/)
+ - [Today&#39;s Wordle answer for Thursday, September 26](https://www.pcgamer.com/games/puzzle/wordle-answer-today-september-26-2024)
+ - [Like a Dragon: Pirate Yakuza in Hawaii – hands-on report](https://blog.playstation.com/2024/09/25/like-a-dragon-pirate-yakuza-in-hawaii-hands-on-report/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
