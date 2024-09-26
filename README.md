@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Robotic Apple Home Hub could have square-ish display](https://appleinsider.com/articles/24/09/26/robotic-apple-home-hub-could-have-square-ish-display?utm_medium=rss)
- - [Google Messages prepares its next tool in the fight against phishing and spam &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-messages-cross-country-3485507/)
- - [Zillow will now show climate risks for property listings in the US](https://www.theverge.com/2024/9/26/24255325/zillow-real-estate-climate-risk-insurance)<!-- TECH:END -->
+ - [The best smartphone you can buy for under $500](https://www.theverge.com/21420196/best-budget-smartphone-cheap)
+ - [Google Calendar gears up for a visual refresh with new ‘flairs’ &lpar;APK Teardown&rpar;](https://www.androidauthority.com/google-calendar-new-flairs-3485548/)
+ - [The best new streaming movies this week: Killer Heat and more](https://www.androidauthority.com/best-new-streaming-movies-this-week-3083965/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
