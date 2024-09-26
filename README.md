@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [California’s new law goes after ‘disappearing’ digital media](https://www.theverge.com/2024/9/26/24254922/california-digital-purchase-disclosure-law-ab-2426)
- - [Gemini Nano is finally coming to new Android phones, starting with the Xiaomi 14T](https://www.androidauthority.com/xiaomi-14t-gemini-nano-3485062/)
- - [Where to preorder the PS5 Pro and PlayStation’s 30th anniversary collection](https://www.theverge.com/24252575/sony-ps5-pro-playstation-5-preorder-buy-price-release-date)<!-- TECH:END -->
+ - [13 Best Couches We&#39;ve Tested That You Can Buy Online &lpar;2024&rpar;](https://www.wired.com/gallery/best-couches/)
+ - [Letter from Congress could be first step in forcing Apple to stop using BOE displays](https://appleinsider.com/articles/24/09/26/letter-from-congress-could-be-first-step-in-forcing-apple-to-stop-using-boe-displays?utm_medium=rss)
+ - [The Toyota Prius and Rav4 are no longer Prime](https://www.theverge.com/2024/9/26/24254955/toyota-prius-rav4-plug-in-hybrid-drops-prime-2025)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
