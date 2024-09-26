@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Study: newer, bigger versions of LLMs like OpenAI&#39;s GPT, Meta&#39;s Llama, and BigScience&#39;s BLOOM are more inclined to give wrong answers than to admit ignorance &lpar;Nicola Jones/Nature&rpar;](http://www.techmeme.com/240926/p10#a240926p10)
- - [In a filing, Oracle reveals a 29% stake in server CPU design startup Ampere with an option to own; Ampere&#39;s CEO Renee James is stepping down from Oracle&#39;s board &lpar;Bloomberg&rpar;](http://www.techmeme.com/240926/p9#a240926p9)
- - [Your Pixel Pro could soon make it even easier to check object temperature &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-pixel-8-9-pro-thermometer-auto-detect-material-apk-teardown-3485164/)<!-- TECH:END -->
+ - [An interview with Nintendo&#39;s Shigeru Miyamoto, who in recent years has focused on movies and amusement parks, on the new Nintendo Museum in Kyoto and more &lpar;Zachary Small/New York Times&rpar;](http://www.techmeme.com/240926/p11#a240926p11)
+ - [There’s good news if you want Gemini on your older Pixel Buds](https://www.androidauthority.com/gemini-coming-older-pixel-buds-3483989/)
+ - [Soon After the Deadly Hezbollah Pager Explosions, This AI-Generated Podcast Went Up](https://www.wired.com/story/pager-protocol-pager-explosion-ai-podcast/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
