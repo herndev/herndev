@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [The new SteelSeries Arctis GameBuds actually fit my weird little ears and if that isn&#39;t a glowing endorsement then I don&#39;t know what is](https://www.pcgamer.com/hardware/earbuds-headphones/the-new-steelseries-arctis-gamebuds-actually-fit-my-weird-little-ears-and-if-that-isnt-a-glowing-endorsement-then-i-dont-know-what-is)
  - [Monster Hunter Wilds: hands-on with the opening missions](https://blog.playstation.com/2024/09/25/monster-hunter-wilds-hands-on-with-the-opening-missions/)
- - [Dynasty Warriors: Origins — hands-on report](https://blog.playstation.com/2024/09/25/dynasty-warriors-origins-hands-on-report/)
- - [Today&#39;s Wordle answer for Thursday, September 26](https://www.pcgamer.com/games/puzzle/wordle-answer-today-september-26-2024)<!-- GAME:END -->
+ - [Monster Hunter Wilds: hands-on with the opening missions](https://blog.playstation.com/2024/09/25/monster-hunter-wilds-hands-on-with-the-opening-missions/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
