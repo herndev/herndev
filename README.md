@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [I&#39;m beyond excited for Threads of Time, the flashy Chrono Trigger-inspired RPG](https://www.pcgamer.com/games/rpg/im-beyond-excited-for-threads-of-time-the-flashy-chrono-trigger-inspired-rpg)
- - [FragPunk Closed Beta Begins October 10!](https://news.xbox.com/en-us/2024/09/26/fragpunk-closed-beta-begins-october-10/)
- - [Everything You Need To Know About Dragon Age: The Veilguard&#39;s Party, Their Classes, And More [Update]](https://kotaku.com/dragon-age-veilguard-companions-party-members-dreadwolf-1851530857)<!-- GAME:END -->
+ - [Where to pre-order the PS5 Pro](https://www.polygon.com/pre-order/449691/ps5-pro-ps-direct-amazon-best-buy)
+ - [The best Netflix TV shows of 2024 so far](https://www.polygon.com/what-to-watch/24195042/best-netflix-tv-shows-series-2024)
+ - [Playstation’s new 30th anniversary collection is now available to pre-order](https://www.polygon.com/pre-order/456457/playstation-30th-anniversary-pro-bundle-controller-where-to-buy)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
