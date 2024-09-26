@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The Lion, the witch and the audacity of this b*tch](http://9gag.com/gag/aW41bXK)
- - ⏩ [Pac smiling down from heaven.](http://9gag.com/gag/aVv3Zny)
- - 👉 [Giving customers in the hood pink bags](http://9gag.com/gag/aPAjQyn)<!-- MEMES:END -->
+ - 💣 [Heartbreaking.](http://9gag.com/gag/aW41b3K)
+ - ⏩ [Shutter Island &lpar;2010&rpar;](http://9gag.com/gag/an7Mrzz)
+ - 👉 [A grown man faked being a teenager so he can go back to school](http://9gag.com/gag/a1mo29w)<!-- MEMES:END -->
 
 ---
 
