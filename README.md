@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [a16z is a prosecution witness in the DOJ&#39;s case against BitClout founder Nader Al-Naji, who raised hundreds of millions dollars for his failed crypto startups &lpar;Jeff John Roberts/Fortune&rpar;](http://www.techmeme.com/240926/p5#a240926p5)
- - [Google says its transition to memory-safe languages like Rust led to memory-safe vulnerabilities in Android dropping from 76% in 2019 to 24% in 2024 &lpar;The Hacker News&rpar;](http://www.techmeme.com/240926/p4#a240926p4)
- - [Throwing out broken Pixel Watches is not a solution, and Google knows it](https://www.androidauthority.com/google-pixel-watch-repairability-decision-3485143/)<!-- TECH:END -->
+ - [Study: newer, bigger versions of LLMs like OpenAI&#39;s GPT, Meta&#39;s Llama, and BigScience&#39;s BLOOM are more inclined to give wrong answers than to admit ignorance &lpar;Nicola Jones/Nature&rpar;](http://www.techmeme.com/240926/p10#a240926p10)
+ - [In a filing, Oracle reveals a 29% stake in server CPU design startup Ampere with an option to own; Ampere&#39;s CEO Renee James is stepping down from Oracle&#39;s board &lpar;Bloomberg&rpar;](http://www.techmeme.com/240926/p9#a240926p9)
+ - [Your Pixel Pro could soon make it even easier to check object temperature &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-pixel-8-9-pro-thermometer-auto-detect-material-apk-teardown-3485164/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
