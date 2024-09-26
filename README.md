@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Get Ready to Groove: The Rhythm Towers Demo Joins the Xbox Insider Program!](https://news.xbox.com/en-us/2024/09/26/get-ready-to-groove-the-rhythm-towers-demo-joins-the-xbox-insider-program/)
- - [Steven Spielberg is &#39;a big PC gamer,&#39; proves impeccable taste by declaring &#39;I only do keyboard and mouse&#39;](https://www.pcgamer.com/gaming-industry/steven-spielberg-is-a-big-pc-gamer-proves-impeccable-taste-by-declaring-i-only-do-keyboard-and-mouse)
- - [John Wick: Ballerina&#39;s First Trailer Sets Ana De Armas On A Bloody Revenge Quest](https://kotaku.com/john-wick-5-ballerina-trailer-ana-armas-keanu-reeves-1851658683)<!-- GAME:END -->
+ - [16 Takeaways From The Last Of Us Season Two’s New Trailer](https://kotaku.com/last-of-us-season-2-trailer-abby-joel-ellie-isaac-tommy-1851658806)
+ - [We&#39;re Losing The Only Simpsons Game We&#39;ve Had In Years](https://kotaku.com/simpsons-tapped-out-closing-shutting-down-ea-when-faq-1851658796)
+ - [Official Xbox Podcast | Tokyo Game Show 2024](https://news.xbox.com/en-us/podcast/tokyo-game-show-2024-official-xbox-podcast/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
