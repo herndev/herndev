@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Interesting looking indie game, i wonder if... nvm](http://9gag.com/gag/aPAj8pR)
- - ⏩ [Uh oh](http://9gag.com/gag/apR2bnD)
- - 👉 [Giving customers in the hood pink bags](http://9gag.com/gag/aPAjQyn)<!-- MEMES:END -->
+ - 💣 [Dads acting like they live alone](http://9gag.com/gag/arygX0d)
+ - ⏩ [Hello Billy](http://9gag.com/gag/avyOxKE)
+ - 👉 [A grown man faked being a teenager so he can go back to school](http://9gag.com/gag/a1mo29w)<!-- MEMES:END -->
 
 ---
 
