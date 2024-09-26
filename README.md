@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Heartbreaking.](http://9gag.com/gag/aW41b3K)
- - ⏩ [Sony is pulling an Apple](http://9gag.com/gag/aVv3Lgw)
- - 👉 [True](http://9gag.com/gag/aD2xbEO)<!-- MEMES:END -->
+ - 💣 [The Lion, the witch and the audacity of this b*tch](http://9gag.com/gag/aW41bXK)
+ - ⏩ [Pac smiling down from heaven.](http://9gag.com/gag/aVv3Zny)
+ - 👉 [Giving customers in the hood pink bags](http://9gag.com/gag/aPAjQyn)<!-- MEMES:END -->
 
 ---
 
