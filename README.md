@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Take that mailman](https://www.reddit.com/r/funny/comments/1fprtg0/take_that_mailman/)
- - ⏩ [when you think about it](https://www.reddit.com/r/memes/comments/1fpqt9b/when_you_think_about_it/)
- - 👉 [&quot;Oh it is slippery?&quot;](https://www.reddit.com/r/memes/comments/1fpqstp/oh_it_is_slippery/)<!-- MEMES:END -->
+ - 💣 [Heartbreaking.](http://9gag.com/gag/aW41b3K)
+ - ⏩ [Sony is pulling an Apple](http://9gag.com/gag/aVv3Lgw)
+ - 👉 [True](http://9gag.com/gag/aD2xbEO)<!-- MEMES:END -->
 
 ---
 
