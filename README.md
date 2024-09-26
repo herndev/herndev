@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [You underestimate her power](http://9gag.com/gag/amo7Vzv)
- - ⏩ [The Lion, the witch and the audacity of this b*tch](http://9gag.com/gag/aW41bXK)
- - 👉 [Giving customers in the hood pink bags](http://9gag.com/gag/aPAjQyn)<!-- MEMES:END -->
+ - 💣 [Stranger Things](http://9gag.com/gag/ajPEKGR)
+ - ⏩ [Husband forgot his lunch so his wife brought it for him, richest man on earth.](http://9gag.com/gag/aE0xDYp)
+ - 👉 [SWEET BABY INC slideshow resurfaces and show the agenda in western gaming industry to ruin gaming... Also saying Quentin Tarantino is bad because he makes good movies.](http://9gag.com/gag/aW41RNK)<!-- MEMES:END -->
 
 ---
 
