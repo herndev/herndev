@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Twitch Is Nuking Everyone&#39;s Favorite Binding Of Isaac Emote](https://kotaku.com/twitch-biblethump-binding-isaac-emote-edmund-mcmillen-1851658915)
- - [The first trailer for The Last of Us season 2 goes hard on action, zombies, and sad Joel being very, very sad](https://www.pcgamer.com/movies-tv/the-first-trailer-for-the-last-of-us-season-2-goes-hard-on-action-zombies-and-sad-joel-being-very-very-sad)
- - [The 7 Best Kids Robot Movies, Ranked](https://kotaku.com/robot-movies-kids-children-ranked-walle-the-wild-robot-1851658849)<!-- GAME:END -->
+ - [This New FPS Is Really Weird, But Really Awesome, Too](https://kotaku.com/echo-point-nova-fps-steam-review-titanfall-fps-doom-pc-1851658994)
+ - [In Grotesquerie, Ryan Murphy does Seven and… it kinda works?](https://www.polygon.com/tv/457024/grotesquerie-ryan-murphy-review-ahs-hotel-seven-hulu)
+ - [This unique action-platformer lets you shapeshift into animal forms—but I just got obsessed with being a flat piece of paper](https://www.pcgamer.com/games/action/this-unique-action-platformer-lets-you-shapeshift-into-animal-forms-but-i-just-got-obsessed-with-being-a-flat-piece-of-paper)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
