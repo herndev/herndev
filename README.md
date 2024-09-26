@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Stranger Things](http://9gag.com/gag/ajPEKGR)
- - ⏩ [Husband forgot his lunch so his wife brought it for him, richest man on earth.](http://9gag.com/gag/aE0xDYp)
- - 👉 [SWEET BABY INC slideshow resurfaces and show the agenda in western gaming industry to ruin gaming... Also saying Quentin Tarantino is bad because he makes good movies.](http://9gag.com/gag/aW41RNK)<!-- MEMES:END -->
+ - 💣 [I think he didnt understand it.](http://9gag.com/gag/ayNXQZV)
+ - ⏩ [Brb](http://9gag.com/gag/aLnjdQM)
+ - 👉 [Heartbreaking.](http://9gag.com/gag/aW41b3K)<!-- MEMES:END -->
 
 ---
 
