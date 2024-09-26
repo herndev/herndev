@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [OPPO Find X8 Ultra wishlist: All the features I want to see](https://www.androidauthority.com/oppo-find-x8-ultra-3458722/)
- - [Google Photos is making it easier to share and edit albums &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-photos-toolbar-albums-3485182/)
- - [Common Pixel Watch 3 problems and how to fix them](https://www.androidauthority.com/pixel-watch-3-problems-3484348/)<!-- TECH:END -->
+ - [At Meta Connect, Mark Zuckerberg was the whole show, giving it a &quot;Zuck or nothing&quot; feel, and he has never seemed more intent on claiming the mantle of innovator &lpar;Casey Newton/Platformer&rpar;](http://www.techmeme.com/240926/p12#a240926p12)
+ - [Thursday Night Football: How to Watch, Stream Cowboys vs. Giants Tonight on Prime Video](https://www.cnet.com/tech/services-and-software/thursday-night-football-how-to-watch-stream-cowboys-vs-giants-tonight-on-prime-video/#ftag=CAD590a51e)
+ - [Best Savings Rates Today, Sept. 26, 2024: Don&#39;t Sleep on APYs as High as 5.30%. They Won&#39;t Last Long](https://www.cnet.com/personal-finance/banking/todays-best-savings-rates-sept-26-2024/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
