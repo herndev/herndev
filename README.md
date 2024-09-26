@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Hello Billy](http://9gag.com/gag/avyOxKE)
- - ⏩ [So this is what overfishing looks like.](http://9gag.com/gag/aKGjYQQ)
- - 👉 [Where can you find balls like that?](http://9gag.com/gag/aoyNL2e)<!-- MEMES:END -->
+ - 💣 [So this is what overfishing looks like.](http://9gag.com/gag/aKGjYQQ)
+ - ⏩ [Giving customers in the hood pink bags](http://9gag.com/gag/aPAjQyn)
+ - 👉 [Universal language](http://9gag.com/gag/awyX4rx)<!-- MEMES:END -->
 
 ---
 
