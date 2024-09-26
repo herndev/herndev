@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [He was a good man who was doing his best.he never complained or bad mouthed my mother. I cut contact with my mother the moment I turned 18 &amp; left for uni.](http://9gag.com/gag/avyO9EM)
- - ⏩ [Sony is pulling an Apple](http://9gag.com/gag/aVv3Lgw)
- - 👉 [A grown man faked being a teenager so he can go back to school](http://9gag.com/gag/a1mo29w)<!-- MEMES:END -->
+ - 💣 [Burn \ud83d\udd25](http://9gag.com/gag/aRB3oOq)
+ - ⏩ [Beautiful.](http://9gag.com/gag/aYQgRgv)
+ - 👉 [Jinkies](http://9gag.com/gag/a5Qo5Aq)<!-- MEMES:END -->
 
 ---
 
