@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Free Play Days – Naruto X Boruto Ultimate Ninja Storm Connections, Sudden Strike 4 European Battlefield Edition and Tropico 5 – Penultimate Edition](https://news.xbox.com/en-us/2024/09/26/free-play-days-naruto-x-boruto-ultimate-ninja-storm-connections-sudden-strike-4-european-battlefield-edition-and-tropico-5-penultimate-edition/)
- - [Overwatch 2’s Fortnite-ification Continues With My Hero Academia Crossover](https://kotaku.com/overwatch-2-my-hero-academia-crossover-skins-collab-1851658361)
- - [Xbox just surprise-dropped a bunch of games on Game Pass, and at least two of them are bangers](https://www.polygon.com/news/456685/game-pass-tokyo-game-show-2024-drops)<!-- GAME:END -->
+ - [New The Last of Us trailer sends Joel to therapy, which we’re all gonna need after this season](https://www.polygon.com/trailer/456792/last-of-us-season-2-hbo-2025)
+ - [D&amp;D 2024&#39;s Player Handbook first impressions: A great upgrade, but a mere echo of the brave step forward it could&#39;ve been](https://www.pcgamer.com/games/d-d-2024-s-player-handbook-first-impressions-a-great-upgrade-but-a-mere-echo-of-the-brave-step-forward-it-could-ve-been)
+ - [The Last Of Us Season Two Trailer Gives Us Our Best Look At Abby Yet](https://kotaku.com/last-of-us-us-season-2-trailer-abby-joel-ellie-guitar-1851658503)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
