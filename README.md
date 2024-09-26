@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Space Marine 2&#39;s latest patch adds ultrawide support, private co-op lobbies, and battle buddies who will actually be useful for something](https://www.pcgamer.com/games/third-person-shooter/space-marine-2s-latest-patch-finally-adds-ultrawide-support-private-co-op-lobbies-and-battle-buddies-who-will-actually-be-useful-for-something)
- - [This New FPS Is Really Weird, But Really Awesome, Too](https://kotaku.com/echo-point-nova-fps-steam-review-titanfall-fps-doom-pc-1851658994)
- - [This unique action-platformer lets you shapeshift into animal forms—but I just got obsessed with being a flat piece of paper](https://www.pcgamer.com/games/action/this-unique-action-platformer-lets-you-shapeshift-into-animal-forms-but-i-just-got-obsessed-with-being-a-flat-piece-of-paper)<!-- GAME:END -->
+ - [The latest Nvidia RTX 5090 specs rumour makes the ol&#39; RTX 4090 look like a goddam clown card](https://www.pcgamer.com/hardware/graphics-cards/the-latest-nvidia-rtx-5090-specs-rumour-makes-the-ol-rtx-4090-look-like-a-goddam-clown-card)
+ - [Dr Disrespect predicts he&#39;ll return to Deadrop developer Midnight Society: &#39;That&#39;s the Two Time&#39;s studio&#39;](https://www.pcgamer.com/games/fps/dr-disrespect-predicts-that-hell-return-to-deadrop-developer-midnight-society-thats-the-two-times-studio)
+ - [The Day Before studio returns from the dead and asks for a &#39;second chance&#39;: &#39;From now on, our development and marketing will be based on the principle of honesty&#39;](https://www.pcgamer.com/gaming-industry/the-day-before-developer-comes-back-from-the-dead-and-asks-for-a-second-chance-from-now-on-our-development-and-marketing-will-be-based-on-the-principle-of-honesty)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
