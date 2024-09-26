@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [13 Best Couches We&#39;ve Tested That You Can Buy Online &lpar;2024&rpar;](https://www.wired.com/gallery/best-couches/)
- - [Letter from Congress could be first step in forcing Apple to stop using BOE displays](https://appleinsider.com/articles/24/09/26/letter-from-congress-could-be-first-step-in-forcing-apple-to-stop-using-boe-displays?utm_medium=rss)
- - [The Toyota Prius and Rav4 are no longer Prime](https://www.theverge.com/2024/9/26/24254955/toyota-prius-rav4-plug-in-hybrid-drops-prime-2025)<!-- TECH:END -->
+ - [Samsung Galaxy Tab S10 series has arrived: Specs, pricing, availability, colors, and more](https://www.androidauthority.com/samsung-galaxy-tab-s10-3389280/)
+ - [California Governor Gavin Newsom signed AB 2426, which forces digital stores to tell customers they are getting a revocable license when &quot;buying&quot; digital media &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/240926/p24#a240926p24)
+ - [Apple wants a future Apple Pencil to work as a TV antenna](https://appleinsider.com/articles/24/09/26/apple-wants-a-future-apple-pencil-to-work-as-a-tv-antenna?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
