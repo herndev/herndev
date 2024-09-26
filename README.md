@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [So this is what overfishing looks like.](http://9gag.com/gag/aKGjYQQ)
- - ⏩ [Giving customers in the hood pink bags](http://9gag.com/gag/aPAjQyn)
- - 👉 [Universal language](http://9gag.com/gag/awyX4rx)<!-- MEMES:END -->
+ - 💣 [64 year old US woman travels to Switzerland to die in the suicide capsule](http://9gag.com/gag/aD2xZ7N)
+ - ⏩ [She cyberpunks](http://9gag.com/gag/a87oDBp)
+ - 👉 [Giving customers in the hood pink bags](http://9gag.com/gag/aPAjQyn)<!-- MEMES:END -->
 
 ---
 
