@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How many software updates will the Samsung Galaxy S24 FE get?](https://www.androidauthority.com/samsung-galaxy-s24-fe-sofware-updates-3485132/)
- - [X blocks links to hacked JD Vance dossier](https://www.theverge.com/2024/9/26/24255298/elon-musk-x-blocks-jd-vance-dossier)
- - [Ford’s BlueCruise 1.4 update lets you keep your hands off the wheel much longer](https://www.theverge.com/2024/9/26/24255245/ford-bluecruise-1-4-hands-free-driving-ota-update)<!-- TECH:END -->
+ - [Robotic Apple Home Hub could have square-ish display](https://appleinsider.com/articles/24/09/26/robotic-apple-home-hub-could-have-square-ish-display?utm_medium=rss)
+ - [Google Messages prepares its next tool in the fight against phishing and spam &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-messages-cross-country-3485507/)
+ - [Zillow will now show climate risks for property listings in the US](https://www.theverge.com/2024/9/26/24255325/zillow-real-estate-climate-risk-insurance)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
