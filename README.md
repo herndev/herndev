@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [At Meta Connect, Mark Zuckerberg was the whole show, giving it a &quot;Zuck or nothing&quot; feel, and he has never seemed more intent on claiming the mantle of innovator &lpar;Casey Newton/Platformer&rpar;](http://www.techmeme.com/240926/p12#a240926p12)
- - [Thursday Night Football: How to Watch, Stream Cowboys vs. Giants Tonight on Prime Video](https://www.cnet.com/tech/services-and-software/thursday-night-football-how-to-watch-stream-cowboys-vs-giants-tonight-on-prime-video/#ftag=CAD590a51e)
- - [Best Savings Rates Today, Sept. 26, 2024: Don&#39;t Sleep on APYs as High as 5.30%. They Won&#39;t Last Long](https://www.cnet.com/personal-finance/banking/todays-best-savings-rates-sept-26-2024/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Matt Mullenweg says Automattic has &quot;been attempting to make a licensing deal&quot; with WP Engine &quot;for a very long time, and all they have done has string us along&quot; &lpar;Matt Mullenweg&rpar;](http://www.techmeme.com/240926/p16#a240926p16)
+ - [LG rolls out full-screen screensaver ads to its smart TVs, including its expensive OLED models; the ads, on by default, can be disabled &lpar;Rasmus Larsen/FlatpanelsHD&rpar;](http://www.techmeme.com/240926/p15#a240926p15)
+ - [A future Galaxy Z Flip could turn your cover screen into a speaker, but why?](https://www.androidauthority.com/samsung-galaxy-z-flip-cover-screen-piezoelectric-speaker-3485188/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
