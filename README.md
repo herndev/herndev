@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A deepfake caller pretending to be a Ukrainian official almost tricked a US Senator](https://www.theverge.com/2024/9/26/24255179/deepfake-call-ukraine-senator-cardin-dmytro-kuleba)
- - [Google’s new Nest Learning Thermostat is discounted for the first time](https://www.theverge.com/2024/9/26/24254879/google-nest-learning-thermostat-fourth-gen-elgato-stream-deck-deal-sale)
- - [Sources: Robinhood and Revolut are exploring offering their own stablecoins; Tether&#39;s USDT has grown to $120B, accounting for over two-thirds of market value &lpar;Bloomberg&rpar;](http://www.techmeme.com/240926/p28#a240926p28)<!-- TECH:END -->
+ - [The best phone to buy right now](https://www.theverge.com/22163811/best-phone)
+ - [Nvidia’s RTX 5090 will reportedly include 32GB of VRAM and hefty power requirements](https://www.theverge.com/2024/9/26/24255234/nvidia-rtx-5090-5080-specs-leak)
+ - [Samsung Galaxy S24 FE vs Galaxy S23 FE: What’s the difference?](https://www.androidauthority.com/samsung-galaxy-s24-fe-vs-galaxy-s23-fe-3484966/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
