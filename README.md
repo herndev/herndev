@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [64 year old US woman travels to Switzerland to die in the suicide capsule](http://9gag.com/gag/aD2xZ7N)
- - ⏩ [She cyberpunks](http://9gag.com/gag/a87oDBp)
- - 👉 [Giving customers in the hood pink bags](http://9gag.com/gag/aPAjQyn)<!-- MEMES:END -->
+ - 💣 [Stranger Things](http://9gag.com/gag/ajPEKGR)
+ - ⏩ [Showing the concept of frictional force](http://9gag.com/gag/axy1PjY)
+ - 👉 [Sony is pulling an Apple](http://9gag.com/gag/aVv3Lgw)<!-- MEMES:END -->
 
 ---
 
