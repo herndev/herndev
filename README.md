@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [New The Last of Us trailer sends Joel to therapy, which we’re all gonna need after this season](https://www.polygon.com/trailer/456792/last-of-us-season-2-hbo-2025)
- - [D&amp;D 2024&#39;s Player Handbook first impressions: A great upgrade, but a mere echo of the brave step forward it could&#39;ve been](https://www.pcgamer.com/games/d-d-2024-s-player-handbook-first-impressions-a-great-upgrade-but-a-mere-echo-of-the-brave-step-forward-it-could-ve-been)
- - [The Last Of Us Season Two Trailer Gives Us Our Best Look At Abby Yet](https://kotaku.com/last-of-us-us-season-2-trailer-abby-joel-ellie-guitar-1851658503)<!-- GAME:END -->
+ - [30th Anniversary PS5 Pre-Orders Sold Out Fast And In The Most Frustrating Way Possible](https://kotaku.com/ps5-30th-anniversary-preorder-ps1-controller-playstatio-1851658626)
+ - [The Satisfactory team was already cooking up plans for what to add after launch even before the 1.0 release exceeded all expectations](https://www.pcgamer.com/games/sim/the-satisfactory-team-was-already-cooking-up-plans-for-what-to-add-after-launch-even-before-the-10-release-exceeded-all-expectations)
+ - [If recent Warhammer 40,000 videogames have given you the grimdark itch, Humble Bundle&#39;s got you covered with $589 worth of tabletop RPGs for just $25](https://www.pcgamer.com/games/rpg/if-recent-warhammer-40-000-videogames-have-given-you-the-grimdark-itch-humble-bundle-s-got-you-covered-with-589-worth-of-tabletop-rpgs-for-just-25)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
