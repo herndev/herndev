@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Don&#39;t worry, the Legacy of Kain: Soul Reaver remasters are also coming to PC](https://www.pcgamer.com/games/action/dont-worry-the-legacy-of-kain-soul-reaver-remasters-are-also-coming-to-pc)
- - [The new SteelSeries Arctis GameBuds actually fit my weird little ears and if that isn&#39;t a glowing endorsement then I don&#39;t know what is](https://www.pcgamer.com/hardware/earbuds-headphones/the-new-steelseries-arctis-gamebuds-actually-fit-my-weird-little-ears-and-if-that-isnt-a-glowing-endorsement-then-i-dont-know-what-is)
- - [Monster Hunter Wilds: hands-on with the opening missions](https://blog.playstation.com/2024/09/25/monster-hunter-wilds-hands-on-with-the-opening-missions/)<!-- GAME:END -->
+ - [Sci-fi Extraction Shooter Synduality Echo of Ada Arrives January 23 – Pre-order Today](https://news.xbox.com/en-us/2024/09/26/synduality-magus-ai/)
+ - [The prophecy is fulfilled: Overwatch 2 just announced one of its best collabs with My Hero Academia, which means we get a Juno x Uraraka skin](https://www.pcgamer.com/games/fps/the-prophecy-is-fulfilled-overwatch-2-just-announced-one-of-its-best-collabs-with-my-hero-academia-which-means-we-get-a-juno-x-uraraka-skin)
+ - [Xbox Tokyo Game Show 2024 Broadcast: Every Announcement and Game Reveal](https://news.xbox.com/en-us/2024/09/26/xbox-tokyo-game-show-2024-tgs-recap/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
