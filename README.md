@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [SteelSeries is launching $160 gaming earbuds for your Xbox, PlayStation, or PC](https://www.theverge.com/2024/9/26/24253924/steelseries-arctis-gamebuds-earbuds-pc-xbox-playstation-nintendo-switch-release-date-pricing)
- - [Tokyo-based Dinii, which lets diners order food from restaurants and shops through a mobile platform, raised a ~$48M Series B led by Bessemer and Hillhouse &lpar;Kate Park/TechCrunch&rpar;](http://www.techmeme.com/240925/p57#a240925p57)
- - [How to turn the Action Button into a multi-function automation launcher](https://appleinsider.com/inside/iphone/tips/how-to-turn-the-action-button-into-a-multi-function-automation-launcher?utm_medium=rss)<!-- TECH:END -->
+ - [SK Hynix starts mass producing its new 12-layer HBM3E chips with 36GB per chip capacity, up 50% from its previous gen, slated for delivery by the end of 2024 &lpar;Anniek Bao/CNBC&rpar;](http://www.techmeme.com/240926/p2#a240926p2)
+ - [Blackstone confirms a &amp;pound;10B investment for an AI data center in northeast England; UK PM Keir Starmer says the construction will create 4,000 jobs in 2025 &lpar;Surbhi Misra/Reuters&rpar;](http://www.techmeme.com/240926/p1#a240926p1)
+ - [Disney Plus sets a price tag on account sharing: Is it worth it?](https://www.androidauthority.com/disney-plus-paid-account-sharing-prices-3485137/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
