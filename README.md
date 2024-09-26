@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [16 Takeaways From The Last Of Us Season Two’s New Trailer](https://kotaku.com/last-of-us-season-2-trailer-abby-joel-ellie-isaac-tommy-1851658806)
- - [We&#39;re Losing The Only Simpsons Game We&#39;ve Had In Years](https://kotaku.com/simpsons-tapped-out-closing-shutting-down-ea-when-faq-1851658796)
- - [Official Xbox Podcast | Tokyo Game Show 2024](https://news.xbox.com/en-us/podcast/tokyo-game-show-2024-official-xbox-podcast/)<!-- GAME:END -->
+ - [Twitch Is Nuking Everyone&#39;s Favorite Binding Of Isaac Emote](https://kotaku.com/twitch-biblethump-binding-isaac-emote-edmund-mcmillen-1851658915)
+ - [The first trailer for The Last of Us season 2 goes hard on action, zombies, and sad Joel being very, very sad](https://www.pcgamer.com/movies-tv/the-first-trailer-for-the-last-of-us-season-2-goes-hard-on-action-zombies-and-sad-joel-being-very-very-sad)
+ - [The 7 Best Kids Robot Movies, Ranked](https://kotaku.com/robot-movies-kids-children-ranked-walle-the-wild-robot-1851658849)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
