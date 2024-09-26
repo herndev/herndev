@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung Galaxy Tab S10 series has arrived: Specs, pricing, availability, colors, and more](https://www.androidauthority.com/samsung-galaxy-tab-s10-3389280/)
- - [California Governor Gavin Newsom signed AB 2426, which forces digital stores to tell customers they are getting a revocable license when &quot;buying&quot; digital media &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/240926/p24#a240926p24)
- - [Apple wants a future Apple Pencil to work as a TV antenna](https://appleinsider.com/articles/24/09/26/apple-wants-a-future-apple-pencil-to-work-as-a-tv-antenna?utm_medium=rss)<!-- TECH:END -->
+ - [Samsung unveils the $649+ Galaxy S24 FE, a &quot;Fan Edition&quot; value-focused version of the S24 with a 6.7&quot; display, Exynos 2400e, and 8GB of RAM, in five colors &lpar;Ben Schoon/9to5Google&rpar;](http://www.techmeme.com/240926/p26#a240926p26)
+ - [Moment’s SuperCage smartphone rig has more ports and more power for filmmakers](https://www.theverge.com/2024/9/26/24255026/moment-smartphone-filmmaking-supercage)
+ - [Samsung Galaxy S24 FE vs Galaxy S24: Which should you buy and what’s the difference?](https://www.androidauthority.com/samsung-galaxy-s24-fe-vs-galaxy-s24-3485011/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
