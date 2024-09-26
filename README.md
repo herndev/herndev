@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Q&amp;A with Meta CTO Andrew Bosworth on Orion, Reality Labs, building News Feed, competing with Apple, developers, the AR and VR bifurcation, Ray-Ban, and more &lpar;Ben Thompson/Stratechery&rpar;](http://www.techmeme.com/240926/p18#a240926p18)
- - [Not even paying $2,000 can save you from screensaver ads on LG OLED TVs](https://www.androidauthority.com/lg-expensive-oled-tv-screensaver-ads-3485261/)
- - [Google TV Streamer 4K Review: Smooth Streaming](https://www.wired.com/review/google-tv-streamer-4k/)<!-- TECH:END -->
+ - [Google says a closed ad ecosystem isn’t anticompetitive — it’s just safer](https://www.theverge.com/2024/9/26/24253523/google-closed-ad-ecosystem-awbid-ad-fraud-3ve)
+ - [De-Fi Platform Studio Review: A Good Compact Recording Desk](https://www.wired.com/review/de-fi-platform-studio/)
+ - [Disney+ is now cracking down on password sharing in the U.S.](https://appleinsider.com/articles/24/09/26/disney-is-now-cracking-down-on-password-sharing-in-the-us?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
