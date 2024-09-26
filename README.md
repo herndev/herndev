@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google says a closed ad ecosystem isn’t anticompetitive — it’s just safer](https://www.theverge.com/2024/9/26/24253523/google-closed-ad-ecosystem-awbid-ad-fraud-3ve)
- - [De-Fi Platform Studio Review: A Good Compact Recording Desk](https://www.wired.com/review/de-fi-platform-studio/)
- - [Disney+ is now cracking down on password sharing in the U.S.](https://appleinsider.com/articles/24/09/26/disney-is-now-cracking-down-on-password-sharing-in-the-us?utm_medium=rss)<!-- TECH:END -->
+ - [California’s new law goes after ‘disappearing’ digital media](https://www.theverge.com/2024/9/26/24254922/california-digital-purchase-disclosure-law-ab-2426)
+ - [Gemini Nano is finally coming to new Android phones, starting with the Xiaomi 14T](https://www.androidauthority.com/xiaomi-14t-gemini-nano-3485062/)
+ - [Where to preorder the PS5 Pro and PlayStation’s 30th anniversary collection](https://www.theverge.com/24252575/sony-ps5-pro-playstation-5-preorder-buy-price-release-date)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
