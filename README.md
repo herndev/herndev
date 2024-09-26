@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Last of Us joins PlayStation’s 30th Anniversary celebrations](https://blog.playstation.com/2024/09/26/the-last-of-us-joins-playstations-30th-anniversary-celebrations/)
- - [Age of Mythology&#39;s least-loved expansion looks like it&#39;s had an overhaul in its remastered version, and we&#39;ll be able to play as China &#39;soon&#39;](https://www.pcgamer.com/games/rts/age-of-mythologys-least-loved-expansion-looks-like-its-had-an-overhaul-in-its-remastered-version-and-well-be-able-to-play-as-china-soon)
- - [Metaphor: ReFantazio releases a meaty prologue demo that spans the game&#39;s &#39;first 4 dungeons&#39;—plus, your save data will carry over to the full game](https://www.pcgamer.com/games/rpg/metaphor-refantazio-releases-a-meaty-prologue-demo-that-spans-the-game-s-first-4-dungeons-plus-your-save-data-will-carry-over-to-the-full-game)<!-- GAME:END -->
+ - [I&#39;m beyond excited for Threads of Time, the flashy Chrono Trigger-inspired RPG](https://www.pcgamer.com/games/rpg/im-beyond-excited-for-threads-of-time-the-flashy-chrono-trigger-inspired-rpg)
+ - [FragPunk Closed Beta Begins October 10!](https://news.xbox.com/en-us/2024/09/26/fragpunk-closed-beta-begins-october-10/)
+ - [Everything You Need To Know About Dragon Age: The Veilguard&#39;s Party, Their Classes, And More [Update]](https://kotaku.com/dragon-age-veilguard-companions-party-members-dreadwolf-1851530857)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
