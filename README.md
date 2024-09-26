@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [If You Know, You Know...](http://9gag.com/gag/aO8rD6y)
- - ⏩ [Congratulations](http://9gag.com/gag/ajPEBAx)
- - 👉 [Only the chosen pig will be able to defeat the wolf.](http://9gag.com/gag/a1mo2WP)<!-- MEMES:END -->
+ - 💣 [Sony is pulling an Apple](http://9gag.com/gag/aVv3Lgw)
+ - ⏩ [In time](http://9gag.com/gag/aKGjWY1)
+ - 👉 [Hello Billy](http://9gag.com/gag/avyOxKE)<!-- MEMES:END -->
 
 ---
 
