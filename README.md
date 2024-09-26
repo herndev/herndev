@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Now listen very carefully; DON&#39;T put the candle back](http://9gag.com/gag/aAyxZOE)
- - ⏩ [Heartbreaking.](http://9gag.com/gag/aW41b3K)
- - 👉 [Its official guys. We&#39;re on the watch list](http://9gag.com/gag/agmXKZn)<!-- MEMES:END -->
+ - 💣 [Uh oh](http://9gag.com/gag/apR2bnD)
+ - ⏩ [I think that would be perfect for Halloween.](http://9gag.com/gag/apR2AoB)
+ - 👉 [That&#39;s how you pay in brazil](http://9gag.com/gag/a87ozb6)<!-- MEMES:END -->
 
 ---
 
