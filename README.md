@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Burn \ud83d\udd25](http://9gag.com/gag/aRB3oOq)
- - ⏩ [Beautiful.](http://9gag.com/gag/aYQgRgv)
- - 👉 [Jinkies](http://9gag.com/gag/a5Qo5Aq)<!-- MEMES:END -->
+ - 💣 [You underestimate her power](http://9gag.com/gag/amo7Vzv)
+ - ⏩ [The what?](http://9gag.com/gag/a9ypXYK)
+ - 👉 [Unexpected!](http://9gag.com/gag/a2voGNE)<!-- MEMES:END -->
 
 ---
 
