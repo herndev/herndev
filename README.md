@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Beautiful.](http://9gag.com/gag/aYQgRgv)
- - ⏩ [YES](http://9gag.com/gag/a87oV2Q)
- - 👉 [Burn \ud83d\udd25](http://9gag.com/gag/aRB3oOq)<!-- MEMES:END -->
+ - 💣 [Now listen very carefully; DON&#39;T put the candle back](http://9gag.com/gag/aAyxZOE)
+ - ⏩ [Heartbreaking.](http://9gag.com/gag/aW41b3K)
+ - 👉 [Its official guys. We&#39;re on the watch list](http://9gag.com/gag/agmXKZn)<!-- MEMES:END -->
 
 ---
 
