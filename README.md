@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [So this is what overfishing looks like.](http://9gag.com/gag/aKGjYQQ)
+ - 💣 [You underestimate her power](http://9gag.com/gag/amo7Vzv)
  - ⏩ [The Lion, the witch and the audacity of this b*tch](http://9gag.com/gag/aW41bXK)
- - 👉 [Showing the concept of frictional force](http://9gag.com/gag/axy1PjY)<!-- MEMES:END -->
+ - 👉 [Giving customers in the hood pink bags](http://9gag.com/gag/aPAjQyn)<!-- MEMES:END -->
 
 ---
 
