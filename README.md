@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Where to pre-order the PS5 Pro](https://www.polygon.com/pre-order/449691/ps5-pro-ps-direct-amazon-best-buy)
- - [The best Netflix TV shows of 2024 so far](https://www.polygon.com/what-to-watch/24195042/best-netflix-tv-shows-series-2024)
- - [Playstation’s new 30th anniversary collection is now available to pre-order](https://www.polygon.com/pre-order/456457/playstation-30th-anniversary-pro-bundle-controller-where-to-buy)<!-- GAME:END -->
+ - [Free Play Days – Naruto X Boruto Ultimate Ninja Storm Connections, Sudden Strike 4 European Battlefield Edition and Tropico 5 – Penultimate Edition](https://news.xbox.com/en-us/2024/09/26/free-play-days-naruto-x-boruto-ultimate-ninja-storm-connections-sudden-strike-4-european-battlefield-edition-and-tropico-5-penultimate-edition/)
+ - [Overwatch 2’s Fortnite-ification Continues With My Hero Academia Crossover](https://kotaku.com/overwatch-2-my-hero-academia-crossover-skins-collab-1851658361)
+ - [Xbox just surprise-dropped a bunch of games on Game Pass, and at least two of them are bangers](https://www.polygon.com/news/456685/game-pass-tokyo-game-show-2024-drops)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
