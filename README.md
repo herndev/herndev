@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Dads acting like they live alone](http://9gag.com/gag/arygX0d)
- - ⏩ [Hello Billy](http://9gag.com/gag/avyOxKE)
- - 👉 [A grown man faked being a teenager so he can go back to school](http://9gag.com/gag/a1mo29w)<!-- MEMES:END -->
+ - 💣 [Hello Billy](http://9gag.com/gag/avyOxKE)
+ - ⏩ [So this is what overfishing looks like.](http://9gag.com/gag/aKGjYQQ)
+ - 👉 [Where can you find balls like that?](http://9gag.com/gag/aoyNL2e)<!-- MEMES:END -->
 
 ---
 
