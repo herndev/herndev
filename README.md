@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [A message](http://9gag.com/gag/ajPEB1q)
- - ⏩ [I think he didnt understand it.](http://9gag.com/gag/ayNXQZV)
- - 👉 [Sport is hard sometimes...](http://9gag.com/gag/aMVjzQX)<!-- MEMES:END -->
+ - 💣 [Take that mailman](https://www.reddit.com/r/funny/comments/1fprtg0/take_that_mailman/)
+ - ⏩ [when you think about it](https://www.reddit.com/r/memes/comments/1fpqt9b/when_you_think_about_it/)
+ - 👉 [&quot;Oh it is slippery?&quot;](https://www.reddit.com/r/memes/comments/1fpqstp/oh_it_is_slippery/)<!-- MEMES:END -->
 
 ---
 
