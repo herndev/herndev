@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Heartbreaking.](http://9gag.com/gag/aW41b3K)
- - ⏩ [Shutter Island &lpar;2010&rpar;](http://9gag.com/gag/an7Mrzz)
- - 👉 [A grown man faked being a teenager so he can go back to school](http://9gag.com/gag/a1mo29w)<!-- MEMES:END -->
+ - 💣 [So this is what overfishing looks like.](http://9gag.com/gag/aKGjYQQ)
+ - ⏩ [The Lion, the witch and the audacity of this b*tch](http://9gag.com/gag/aW41bXK)
+ - 👉 [Showing the concept of frictional force](http://9gag.com/gag/axy1PjY)<!-- MEMES:END -->
 
 ---
 
