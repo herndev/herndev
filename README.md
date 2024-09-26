@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Shohei Ohtani&#39;s impossible baseball skills are outpacing game developers: Konami reportedly had to buff him in a videogame that isn&#39;t even out yet](https://www.pcgamer.com/games/sports/shohei-ohtanis-impossible-baseball-skills-are-outpacing-game-developers-konami-reportedly-had-to-buff-him-in-a-videogame-that-isnt-even-out-yet)
  - [God of War Ragnarök PC review](https://www.pcgamer.com/games/action/god-of-war-ragnarok-pc-review)
- - [February 2025 is now absurdly stacked with big games](https://www.pcgamer.com/games/february-2025-is-now-absurdly-stacked-with-big-games)
- - [Hyrule Castle Underground jail walkthrough in Zelda: Echoes of Wisdom](https://www.polygon.com/zelda-echoes-wisdom-guides/451075/hyrule-castle-underground-walkthrough-escape-jail)<!-- GAME:END -->
+ - [February 2025 is now absurdly stacked with big games](https://www.pcgamer.com/games/february-2025-is-now-absurdly-stacked-with-big-games)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
