@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Monster Hunter Wilds: hands-on with the opening missions](https://blog.playstation.com/2024/09/25/monster-hunter-wilds-hands-on-with-the-opening-missions/)
  - [Dynasty Warriors: Origins — hands-on report](https://blog.playstation.com/2024/09/25/dynasty-warriors-origins-hands-on-report/)
- - [Today&#39;s Wordle answer for Thursday, September 26](https://www.pcgamer.com/games/puzzle/wordle-answer-today-september-26-2024)
- - [Like a Dragon: Pirate Yakuza in Hawaii – hands-on report](https://blog.playstation.com/2024/09/25/like-a-dragon-pirate-yakuza-in-hawaii-hands-on-report/)<!-- GAME:END -->
+ - [Today&#39;s Wordle answer for Thursday, September 26](https://www.pcgamer.com/games/puzzle/wordle-answer-today-september-26-2024)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
