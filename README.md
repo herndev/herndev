@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Task failed successfully](http://9gag.com/gag/adBKxdj)
- - ⏩ [Heartbreaking.](http://9gag.com/gag/aW41b3K)
- - 👉 [They have Mongolian in their blood..](http://9gag.com/gag/aqy7xWL)<!-- MEMES:END -->
+ - 💣 [A message](http://9gag.com/gag/ajPEB1q)
+ - ⏩ [I think he didnt understand it.](http://9gag.com/gag/ayNXQZV)
+ - 👉 [Sport is hard sometimes...](http://9gag.com/gag/aMVjzQX)<!-- MEMES:END -->
 
 ---
 
