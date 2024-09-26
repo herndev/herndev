@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [30th Anniversary PS5 Pre-Orders Sold Out Fast And In The Most Frustrating Way Possible](https://kotaku.com/ps5-30th-anniversary-preorder-ps1-controller-playstatio-1851658626)
- - [The Satisfactory team was already cooking up plans for what to add after launch even before the 1.0 release exceeded all expectations](https://www.pcgamer.com/games/sim/the-satisfactory-team-was-already-cooking-up-plans-for-what-to-add-after-launch-even-before-the-10-release-exceeded-all-expectations)
- - [If recent Warhammer 40,000 videogames have given you the grimdark itch, Humble Bundle&#39;s got you covered with $589 worth of tabletop RPGs for just $25](https://www.pcgamer.com/games/rpg/if-recent-warhammer-40-000-videogames-have-given-you-the-grimdark-itch-humble-bundle-s-got-you-covered-with-589-worth-of-tabletop-rpgs-for-just-25)<!-- GAME:END -->
+ - [Get Ready to Groove: The Rhythm Towers Demo Joins the Xbox Insider Program!](https://news.xbox.com/en-us/2024/09/26/get-ready-to-groove-the-rhythm-towers-demo-joins-the-xbox-insider-program/)
+ - [Steven Spielberg is &#39;a big PC gamer,&#39; proves impeccable taste by declaring &#39;I only do keyboard and mouse&#39;](https://www.pcgamer.com/gaming-industry/steven-spielberg-is-a-big-pc-gamer-proves-impeccable-taste-by-declaring-i-only-do-keyboard-and-mouse)
+ - [John Wick: Ballerina&#39;s First Trailer Sets Ana De Armas On A Bloody Revenge Quest](https://kotaku.com/john-wick-5-ballerina-trailer-ana-armas-keanu-reeves-1851658683)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
