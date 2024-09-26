@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta says Horizon Store now supports 2D apps built as PWAs, Android native apps, or via the new Meta Spatial SDK, which lets developers use Android dev tools &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/240925/p53#a240925p53)
- - [The best Nintendo Switch controllers to buy right now](https://www.theverge.com/23350899/nintendo-switch-controllers-best-wireless-joy-con-gamepad)
- - [Intel is releasing another microcode update to protect crashing Raptor Lake CPUs](https://www.theverge.com/2024/9/25/24254611/intel-13th-14th-gen-crashes-september-2024-microcode-0x12b)<!-- TECH:END -->
+ - [This Quick Trick Cools My Bedroom Without Blasting the AC](https://www.cnet.com/how-to/this-quick-trick-cools-my-bedroom-without-blasting-ac/#ftag=CAD590a51e)
+ - [PayPal says it is enabling US merchants to buy, hold, and sell cryptocurrency directly from their PayPal business accounts, except in New York state at launch &lpar;Pritam Biswas/Reuters&rpar;](http://www.techmeme.com/240925/p55#a240925p55)
+ - [Ecobee Smart Thermostat Premium Review: Expensive, but It Does Everything](https://www.cnet.com/home/energy-and-utilities/ecobee-smart-thermostat-premium-review/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
