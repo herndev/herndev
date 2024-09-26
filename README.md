@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best phone to buy right now](https://www.theverge.com/22163811/best-phone)
- - [Nvidia’s RTX 5090 will reportedly include 32GB of VRAM and hefty power requirements](https://www.theverge.com/2024/9/26/24255234/nvidia-rtx-5090-5080-specs-leak)
- - [Samsung Galaxy S24 FE vs Galaxy S23 FE: What’s the difference?](https://www.androidauthority.com/samsung-galaxy-s24-fe-vs-galaxy-s23-fe-3484966/)<!-- TECH:END -->
+ - [How many software updates will the Samsung Galaxy S24 FE get?](https://www.androidauthority.com/samsung-galaxy-s24-fe-sofware-updates-3485132/)
+ - [X blocks links to hacked JD Vance dossier](https://www.theverge.com/2024/9/26/24255298/elon-musk-x-blocks-jd-vance-dossier)
+ - [Ford’s BlueCruise 1.4 update lets you keep your hands off the wheel much longer](https://www.theverge.com/2024/9/26/24255245/ford-bluecruise-1-4-hands-free-driving-ota-update)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
