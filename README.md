@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Matt Mullenweg says Automattic has &quot;been attempting to make a licensing deal&quot; with WP Engine &quot;for a very long time, and all they have done has string us along&quot; &lpar;Matt Mullenweg&rpar;](http://www.techmeme.com/240926/p16#a240926p16)
- - [LG rolls out full-screen screensaver ads to its smart TVs, including its expensive OLED models; the ads, on by default, can be disabled &lpar;Rasmus Larsen/FlatpanelsHD&rpar;](http://www.techmeme.com/240926/p15#a240926p15)
- - [A future Galaxy Z Flip could turn your cover screen into a speaker, but why?](https://www.androidauthority.com/samsung-galaxy-z-flip-cover-screen-piezoelectric-speaker-3485188/)<!-- TECH:END -->
+ - [Q&amp;A with Meta CTO Andrew Bosworth on Orion, Reality Labs, building News Feed, competing with Apple, developers, the AR and VR bifurcation, Ray-Ban, and more &lpar;Ben Thompson/Stratechery&rpar;](http://www.techmeme.com/240926/p18#a240926p18)
+ - [Not even paying $2,000 can save you from screensaver ads on LG OLED TVs](https://www.androidauthority.com/lg-expensive-oled-tv-screensaver-ads-3485261/)
+ - [Google TV Streamer 4K Review: Smooth Streaming](https://www.wired.com/review/google-tv-streamer-4k/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
