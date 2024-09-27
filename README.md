@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Blizzard Reportedly Hasn&#39;t Given Up On The Dream Of A StarCraft Shooter](https://kotaku.com/starcraft-3-shooter-blizzard-far-cry-5-ghost-ares-1851659709)
- - [The Entire Dark Souls Trilogy Is Discounted On PC](https://kotaku.com/dark-souls-trilogy-2-3-dlc-sale-steam-recommendation-1851659706)
- - [New Law Will Force Companies To Admit You Don&#39;t Actually Own Digital Games](https://kotaku.com/california-ab-2426-digital-games-the-crew-new-law-psn-1851659641)<!-- GAME:END -->
+ - [Survive the Apocalypse in Dark Light: An Intense Hack ‘n’ Slash Metroidvania](https://news.xbox.com/en-us/2024/09/27/survive-the-apocalypse-in-dark-light/)
+ - [The one thing you should do before Dragon Age: The Veilguard is read this book](https://www.polygon.com/fantasy/457052/the-one-thing-you-should-do-before-dragon-age-the-veilguard-is-read-this-book)
+ - [Twitch Is Transforming Into A Home For Political Commentary And Caroline Kwan Is Leading The Charge](https://kotaku.com/twitch-is-transforming-into-a-home-for-political-commen-1851659698)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
