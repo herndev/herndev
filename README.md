@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Next Week on Xbox – New Games for September 30 to October 4](https://news.xbox.com/en-us/2024/09/27/next-week-on-xbox-new-games-for-september-30-to-october-4/)
- - [Dragon Age Fans Are Concerned About How Few Choices Carry Over To The Veilguard](https://kotaku.com/dragon-age-veilguard-choices-import-morrigan-inquisitor-1851659355)
- - [The best-named game of all time nearly could&#39;ve been called something else because some of its developers hated the pun](https://www.pcgamer.com/games/sim/the-best-named-game-of-all-time-nearly-couldve-been-called-something-else-because-some-of-its-developers-hated-the-pun)<!-- GAME:END -->
+ - [Magic: The Gathering’s latest art treatment is over 100 years old](https://www.polygon.com/mtg-magic-the-gathering/457049/duskmourn-double-exposure-are-treatment-explained-interview)
+ - [Pokemon Go&#39;s Sword Or Shield Quest Is A Colossal Waste Of Your Time](https://kotaku.com/pokemon-go-sword-shield-path-galar-timed-challenge-1851659409)
+ - [Metaphor: ReFantazio&#39;s demo reveals the most vitally important information: The protagonist&#39;s canonical name](https://www.pcgamer.com/games/rpg/metaphor-refantazios-demo-reveals-the-most-vitally-important-information-the-protagonists-canonical-name)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
