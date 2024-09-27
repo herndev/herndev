@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Intelligence will come to an M5-powered Apple Vision Pro](https://appleinsider.com/articles/24/09/27/apple-intelligence-will-come-to-an-m5-powered-apple-vision-pro?utm_medium=rss)
- - [Stripe data: AI startups took a median 11 months to hit $1M in annualized revenue after their first sales, vs. 15 months for previous gen of SaaS companies &lpar;Madhumita Murgia/Financial Times&rpar;](http://www.techmeme.com/240927/p5#a240927p5)
- - [Gemini is making Gmail’s smart replies smarter](https://www.theverge.com/2024/9/27/24255722/google-gemini-gmail-contextual-smart-replies-availability)<!-- TECH:END -->
+ - [Gmail’s smart replies just got longer, but there’s a catch &lpar;$titlerpar;](https://www.androidauthority.com/gmail-gemini-smart-replies-3485716/)
+ - [DefiLlama: Coinbase&#39;s L2 Ethereum network Base stands at $2.08B in total value locked, up from $430M at the start of 2024, marking a 370% growth year-to-date &lpar;Vishal Chawla/The Block&rpar;](http://www.techmeme.com/240927/p7#a240927p7)
+ - [Acer Swift X 14 Review: A Hot and Loud Gaming Laptop](https://www.wired.com/review/acer-swift-x-14/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
