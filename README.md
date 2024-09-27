@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The audacity](http://9gag.com/gag/aMVjqLW)
- - ⏩ [That&#39;s how you pay in brazil](http://9gag.com/gag/a87ozb6)
- - 👉 [He knows he&#39;s gonna get the Epsteined.](http://9gag.com/gag/aByxOdz)<!-- MEMES:END -->
+ - 💣 [Jinkies](http://9gag.com/gag/a5Qo5Aq)
+ - ⏩ [Chatting with bots](http://9gag.com/gag/a4P7VmZ)
+ - 👉 [This city needs a new hero](http://9gag.com/gag/aRB3DDA)<!-- MEMES:END -->
 
 ---
 
