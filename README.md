@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Chatting with bots](http://9gag.com/gag/a4P7VmZ)
- - ⏩ [This city needs a new hero](http://9gag.com/gag/aRB3DDA)
- - 👉 [Real representation of women in video games](http://9gag.com/gag/a9ypV8W)<!-- MEMES:END -->
+ - 💣 [And now you know](http://9gag.com/gag/aD2xQxw)
+ - ⏩ [Bodybuilder playing tug of war with a lion](http://9gag.com/gag/aKGjK4O)
+ - 👉 [The audacity](http://9gag.com/gag/aMVjqLW)<!-- MEMES:END -->
 
 ---
 
