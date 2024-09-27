@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This can\u2019t be real](http://9gag.com/gag/avyOD1b)
- - ⏩ [Shouldn&#39;t there be more water outside the boat than inside it?](http://9gag.com/gag/adBKdbM)
- - 👉 [And now you know](http://9gag.com/gag/aD2xQxw)<!-- MEMES:END -->
+ - 💣 [Pay peanuts, get monkeys](http://9gag.com/gag/azxXQQz)
+ - ⏩ [This 600-year-old painting is one of the most mysterious in history. That mirror in the back is just 3 inches wide \u2014 yet it reflects the entire room in immense detail.](http://9gag.com/gag/a1moq1R)
+ - 👉 [Fairy butterflies arent attracted to lamps?](http://9gag.com/gag/aMVjyb6)<!-- MEMES:END -->
 
 ---
 
