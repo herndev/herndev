@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to use Google’s Live Translate feature on your phone](https://www.androidauthority.com/how-to-use-google-live-translate-3481218/)
- - [TECNO’s new SPARK 30 Series delivers long-term fluency, an eye-catching look, and unmissable entertainment](https://www.androidauthority.com/tecno-spark-30-series-transformers-launch-3484382/)
- - [No, Sam Altman, AI Won’t Solve All of Humanity&#39;s Problems](https://www.wired.com/story/plaintext-no-sam-altman-ai-wont-solve-all-of-humanitys-problems/)<!-- TECH:END -->
+ - [iPhone 16 Pro and Pro Max teardown: great modularity upgrades and much improved repairability with a dual-entry design and a metal enclosure for 16 Pro battery &lpar;Kyle Wiens/iFixit News&rpar;](http://www.techmeme.com/240927/p11#a240927p11)
+ - [The Best Dyson Vacuums We&#39;ve Tested and Reviewed: V15, V12, and More](https://www.wired.com/gallery/best-dyson-vacuums/)
+ - [California is here to save you from misleading buy buttons on your next game and movie](https://www.androidauthority.com/california-consumer-protection-law-misleading-digital-stores-3485740/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
