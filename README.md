@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Time when Snoop Dogg helped everyone win on price is right](http://9gag.com/gag/arygrGd)
- - ⏩ [Snek video.](http://9gag.com/gag/aVv31EM)
- - 👉 [Anything is possible](http://9gag.com/gag/axy1n1Y)<!-- MEMES:END -->
+ - 💣 [This can\u2019t be real](http://9gag.com/gag/avyOD1b)
+ - ⏩ [Shouldn&#39;t there be more water outside the boat than inside it?](http://9gag.com/gag/adBKdbM)
+ - 👉 [And now you know](http://9gag.com/gag/aD2xQxw)<!-- MEMES:END -->
 
 ---
 
