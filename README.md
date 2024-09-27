@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [CNN will start locking some articles behind a paywall](https://www.theverge.com/2024/9/27/24255900/cnn-paywall-digital-subscription-mark-thompson)
- - [The Best Gaming Laptops &lpar;2024&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-gaming-laptops/)
- - [Now searches on Google Flights will suggest Amtrak train rides, too](https://www.theverge.com/2024/9/27/24255817/google-search-flights-amtrak-train-suggestions-tickets)<!-- TECH:END -->
+ - [Today is your last chance to save on Disney Plus before the password sharing crackdown](https://www.theverge.com/2024/9/27/24255200/disney-plus-basic-subscription-star-wars-outlaws-deal-sale)
+ - [Save up to $300 on Apple&#39;s MacBook Air during today&#39;s flash sale](https://appleinsider.com/articles/24/09/27/save-up-to-300-on-apples-macbook-air-during-todays-flash-sale?utm_medium=rss)
+ - [The US DOJ charges three hackers employed by Iran&#39;s Revolutionary Guard for allegedly hacking Trump&#39;s presidential campaign and disseminating stolen info &lpar;Eric Tucker/Associated Press&rpar;](http://www.techmeme.com/240927/p15#a240927p15)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
