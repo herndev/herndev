@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Step mommy.....](http://9gag.com/gag/ayNXz3M)
- - ⏩ [Fbi](http://9gag.com/gag/aMVjW06)
- - 👉 [It be like that tho](http://9gag.com/gag/ae9MWLv)<!-- MEMES:END -->
+ - 💣 [That&#39;s how you pay in brazil](http://9gag.com/gag/a87ozb6)
+ - ⏩ [The picture speaks for itself](http://9gag.com/gag/aYQgmmw)
+ - 👉 [Unexpected!](http://9gag.com/gag/a2voGNE)<!-- MEMES:END -->
 
 ---
 
