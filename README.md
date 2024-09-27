@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The point of no return.](http://9gag.com/gag/a4P7WO1)
- - ⏩ [She&#39;s probably a whistle blower](http://9gag.com/gag/adBKe3Z)
- - 👉 [The Lion, the witch and the audacity of this b*tch](http://9gag.com/gag/aW41bXK)<!-- MEMES:END -->
+ - 💣 [A $460,000 North Carolina beach house collapsed into the ocean due to coastal erosion](http://9gag.com/gag/arygdeK)
+ - ⏩ [The audacity](http://9gag.com/gag/aMVjqLW)
+ - 👉 [Love at first sight\u2026](http://9gag.com/gag/aQz3rqW)<!-- MEMES:END -->
 
 ---
 
