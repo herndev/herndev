@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Operation AI Comply has come out swinging against five companies the FTC says are peddling &#39;deceptive AI claims and schemes&#39;](https://www.pcgamer.com/software/ai/operation-ai-comply-has-come-out-swinging-against-five-companies-the-ftc-says-are-peddling-deceptive-ai-claims-and-schemes)
- - [Final Fantasy 14&#39;s developer band confirms one of Endwalker&#39;s most emotional songs, Close in the Distance, is from one specific character to your Warrior of Light](https://www.pcgamer.com/games/final-fantasy/final-fantasy-14-s-developer-band-confirms-one-of-endwalker-s-most-emotional-songs-close-in-the-distance-is-from-one-specific-character-to-your-warrior-of-light)
- - [Director James Cameron, creator of Skynet and the Terminator, joins the board of an AI firm](https://www.pcgamer.com/software/ai/director-james-cameron-creator-of-skynet-and-the-terminator-joins-the-board-of-an-ai-firm)<!-- GAME:END -->
+ - [Valve is punishing Deadlock cheaters in the best way possible, turning them into helpless frogs](https://www.pcgamer.com/games/moba/valve-is-punishing-deadlock-cheaters-in-the-best-way-possible-turning-them-into-helpless-frogs)
+ - [Blizzard is reportedly &#39;incubating&#39; a StarCraft shooter again, which would be the developer&#39;s 3rd attempt at the accursed concept](https://www.pcgamer.com/games/action/blizzard-is-reportedly-incubating-a-starcraft-shooter-again-which-would-be-the-developer-s-3rd-attempt-at-the-accursed-concept)
+ - [Operation AI Comply has come out swinging against five companies the FTC says are peddling &#39;deceptive AI claims and schemes&#39;](https://www.pcgamer.com/software/ai/operation-ai-comply-has-come-out-swinging-against-five-companies-the-ftc-says-are-peddling-deceptive-ai-claims-and-schemes)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
