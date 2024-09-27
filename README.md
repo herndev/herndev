@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Trump&#39;s $100,000 Watches Are the Most Tragic Celebrity Watch Yet](https://www.wired.com/story/trumps-dollar100000-watches-are-the-most-tragic-celebrity-watch-yet/)
- - [Galaxy S25 Ultra may finally bridge Samsung’s gap with OnePlus and Google](https://www.androidauthority.com/galaxy-s25-ultra-ram-3485802/)
- - [Meta will also block sharing of Ken Klippenstein&#39;s newsletter and other sources with the JD Vance dossier, citing foreign meddling and hacked materials policies &lpar;Cristiano Lima-Strong/Washington Post&rpar;](http://www.techmeme.com/240927/p17#a240927p17)<!-- TECH:END -->
+ - [Steam changes its subscriber agreement, removing its forced arbitration policy and allowing gamers to take legal action against its parent company Valve &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/240927/p19#a240927p19)
+ - [Chat Podcasts Rule the Market—and Always Will](https://www.wired.com/story/dial-up-eric-eddings-hartbeat-podcasts/)
+ - [This robot arm can detach its hand to grab things out of reach](https://www.theverge.com/2024/9/27/24256001/robot-arm-hand-crawl-grasp-epfl)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
