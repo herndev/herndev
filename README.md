@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Sony is pulling an Apple](http://9gag.com/gag/aVv3Lgw)
- - ⏩ [Yes, The Space marine is here to help us :&gt;](http://9gag.com/gag/a2voOm1)
- - 👉 [I have an idea](http://9gag.com/gag/aE0xZQ9)<!-- MEMES:END -->
+ - 💣 [A grown man faked being a teenager so he can go back to school](http://9gag.com/gag/a1mo29w)
+ - ⏩ [The point of no return.](http://9gag.com/gag/a4P7WO1)
+ - 👉 [Shits on fire @ ubisoft](http://9gag.com/gag/ae9M7yO)<!-- MEMES:END -->
 
 ---
 
