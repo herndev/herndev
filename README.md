@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [League of Legends turns 15, and Riot is still experimenting with its flagship title](https://www.polygon.com/gaming/457196/league-of-legends-15-years-future-development)
- - [I&#39;m trembling at the potential power of a 21,760-core RTX 5090. And the price. Actually mostly the price](https://www.pcgamer.com/hardware/graphics-cards/im-trembling-at-the-potential-power-of-a-21760-core-rtx-5090-and-the-price-actually-mostly-the-price)
- - [All Genshin Impact codes from the 5.1 livestream](https://www.pcgamer.com/games/rpg/genshin-impact-codes-5-1-livestream)<!-- GAME:END -->
+ - [Next Week on Xbox – New Games for September 30 to October 4](https://news.xbox.com/en-us/2024/09/27/next-week-on-xbox-new-games-for-september-30-to-october-4/)
+ - [Dragon Age Fans Are Concerned About How Few Choices Carry Over To The Veilguard](https://kotaku.com/dragon-age-veilguard-choices-import-morrigan-inquisitor-1851659355)
+ - [The best-named game of all time nearly could&#39;ve been called something else because some of its developers hated the pun](https://www.pcgamer.com/games/sim/the-best-named-game-of-all-time-nearly-couldve-been-called-something-else-because-some-of-its-developers-hated-the-pun)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
