@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This is what I&#39;m talking about](http://9gag.com/gag/aGyjNE7)
- - ⏩ [This city needs a new hero](http://9gag.com/gag/aRB3DDA)
- - 👉 [Real representation of women in video games](http://9gag.com/gag/a9ypV8W)<!-- MEMES:END -->
+ - 💣 [Step mommy.....](http://9gag.com/gag/ayNXz3M)
+ - ⏩ [Fbi](http://9gag.com/gag/aMVjW06)
+ - 👉 [It be like that tho](http://9gag.com/gag/ae9MWLv)<!-- MEMES:END -->
 
 ---
 
