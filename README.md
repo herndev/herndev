@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Today is your last chance to save on Disney Plus before the password sharing crackdown](https://www.theverge.com/2024/9/27/24255200/disney-plus-basic-subscription-star-wars-outlaws-deal-sale)
- - [Save up to $300 on Apple&#39;s MacBook Air during today&#39;s flash sale](https://appleinsider.com/articles/24/09/27/save-up-to-300-on-apples-macbook-air-during-todays-flash-sale?utm_medium=rss)
- - [The US DOJ charges three hackers employed by Iran&#39;s Revolutionary Guard for allegedly hacking Trump&#39;s presidential campaign and disseminating stolen info &lpar;Eric Tucker/Associated Press&rpar;](http://www.techmeme.com/240927/p15#a240927p15)<!-- TECH:END -->
+ - [Trump&#39;s $100,000 Watches Are the Most Tragic Celebrity Watch Yet](https://www.wired.com/story/trumps-dollar100000-watches-are-the-most-tragic-celebrity-watch-yet/)
+ - [Galaxy S25 Ultra may finally bridge Samsung’s gap with OnePlus and Google](https://www.androidauthority.com/galaxy-s25-ultra-ram-3485802/)
+ - [Meta will also block sharing of Ken Klippenstein&#39;s newsletter and other sources with the JD Vance dossier, citing foreign meddling and hacked materials policies &lpar;Cristiano Lima-Strong/Washington Post&rpar;](http://www.techmeme.com/240927/p17#a240927p17)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
