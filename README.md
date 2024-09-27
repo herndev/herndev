@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [It be like that tho](http://9gag.com/gag/ae9MWLv)
- - ⏩ [Love at first sight\u2026](http://9gag.com/gag/aQz3rqW)
- - 👉 [This 600-year-old painting is one of the most mysterious in history. That mirror in the back is just 3 inches wide \u2014 yet it reflects the entire room in immense detail.](http://9gag.com/gag/a1moq1R)<!-- MEMES:END -->
+ - ⏩ [I can&#39;t put my finger on it, but doesn&#39;t the new New Jersey State Police uniform remind you of something?](http://9gag.com/gag/aW419LZ)
+ - 👉 [Love at first sight\u2026](http://9gag.com/gag/aQz3rqW)<!-- MEMES:END -->
 
 ---
 
