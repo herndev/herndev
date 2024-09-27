@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [A grown man faked being a teenager so he can go back to school](http://9gag.com/gag/a1mo29w)
- - ⏩ [The point of no return.](http://9gag.com/gag/a4P7WO1)
- - 👉 [Shits on fire @ ubisoft](http://9gag.com/gag/ae9M7yO)<!-- MEMES:END -->
+ - 💣 [The point of no return.](http://9gag.com/gag/a4P7WO1)
+ - ⏩ [She&#39;s probably a whistle blower](http://9gag.com/gag/adBKe3Z)
+ - 👉 [The Lion, the witch and the audacity of this b*tch](http://9gag.com/gag/aW41bXK)<!-- MEMES:END -->
 
 ---
 
