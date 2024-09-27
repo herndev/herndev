@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Valve is punishing Deadlock cheaters in the best way possible, turning them into helpless frogs](https://www.pcgamer.com/games/moba/valve-is-punishing-deadlock-cheaters-in-the-best-way-possible-turning-them-into-helpless-frogs)
- - [Blizzard is reportedly &#39;incubating&#39; a StarCraft shooter again, which would be the developer&#39;s 3rd attempt at the accursed concept](https://www.pcgamer.com/games/action/blizzard-is-reportedly-incubating-a-starcraft-shooter-again-which-would-be-the-developer-s-3rd-attempt-at-the-accursed-concept)
- - [Operation AI Comply has come out swinging against five companies the FTC says are peddling &#39;deceptive AI claims and schemes&#39;](https://www.pcgamer.com/software/ai/operation-ai-comply-has-come-out-swinging-against-five-companies-the-ftc-says-are-peddling-deceptive-ai-claims-and-schemes)<!-- GAME:END -->
+ - [League of Legends turns 15, and Riot is still experimenting with its flagship title](https://www.polygon.com/gaming/457196/league-of-legends-15-years-future-development)
+ - [I&#39;m trembling at the potential power of a 21,760-core RTX 5090. And the price. Actually mostly the price](https://www.pcgamer.com/hardware/graphics-cards/im-trembling-at-the-potential-power-of-a-21760-core-rtx-5090-and-the-price-actually-mostly-the-price)
+ - [All Genshin Impact codes from the 5.1 livestream](https://www.pcgamer.com/games/rpg/genshin-impact-codes-5-1-livestream)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
