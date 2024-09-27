@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Pay peanuts, get monkeys](http://9gag.com/gag/azxXQQz)
- - ⏩ [This 600-year-old painting is one of the most mysterious in history. That mirror in the back is just 3 inches wide \u2014 yet it reflects the entire room in immense detail.](http://9gag.com/gag/a1moq1R)
- - 👉 [Fairy butterflies arent attracted to lamps?](http://9gag.com/gag/aMVjyb6)<!-- MEMES:END -->
+ - 💣 [It be like that tho](http://9gag.com/gag/ae9MWLv)
+ - ⏩ [Love at first sight\u2026](http://9gag.com/gag/aQz3rqW)
+ - 👉 [This 600-year-old painting is one of the most mysterious in history. That mirror in the back is just 3 inches wide \u2014 yet it reflects the entire room in immense detail.](http://9gag.com/gag/a1moq1R)<!-- MEMES:END -->
 
 ---
 
