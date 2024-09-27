@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s Lisa Jackson says environmental regulation is essential](https://appleinsider.com/articles/24/09/27/apples-lisa-jackson-says-environmental-regulation-is-essential?utm_medium=rss)
- - [The UK CMA rules that Amazon&#39;s $4B Anthropic deal does not qualify for an investigation under merger laws as Anthropic&#39;s UK revenue did not meet needed limits &lpar;Katharine Gemmell/Bloomberg&rpar;](http://www.techmeme.com/240927/p8#a240927p8)
- - [As FTC Chair Lina Khan’s Term Expires, Democrats Are Torn Between Donors and Their Base](https://www.wired.com/story/ftc-chair-lina-khans-democrats-donors-harris/)<!-- TECH:END -->
+ - [How to use Google’s Live Translate feature on your phone](https://www.androidauthority.com/how-to-use-google-live-translate-3481218/)
+ - [TECNO’s new SPARK 30 Series delivers long-term fluency, an eye-catching look, and unmissable entertainment](https://www.androidauthority.com/tecno-spark-30-series-transformers-launch-3484382/)
+ - [No, Sam Altman, AI Won’t Solve All of Humanity&#39;s Problems](https://www.wired.com/story/plaintext-no-sam-altman-ai-wont-solve-all-of-humanitys-problems/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
