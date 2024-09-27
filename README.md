@@ -32,8 +32,8 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [&#39;There&#39;s a lot of psychological hurdles&#39;: Why Mossmouth charged $25 for 50 games](https://www.pcgamer.com/games/action/theres-a-lot-of-psychological-hurdles-why-mossmouth-charged-dollar25-for-50-games)
  - [Today&#39;s Wordle answer for Friday, September 27](https://www.pcgamer.com/games/puzzle/wordle-answer-today-september-27-2024)
- - [Tokyo Game Show 2024 PlayStation booth recap: hands-on report](https://blog.playstation.com/2024/09/26/tokyo-game-show-2024-playstation-booth-recap-hands-on-report/)
  - [Tokyo Game Show 2024 PlayStation booth recap: hands-on report](https://blog.playstation.com/2024/09/26/tokyo-game-show-2024-playstation-booth-recap-hands-on-report/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
