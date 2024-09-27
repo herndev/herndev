@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [That&#39;s how you pay in brazil](http://9gag.com/gag/a87ozb6)
- - ⏩ [The picture speaks for itself](http://9gag.com/gag/aYQgmmw)
- - 👉 [Unexpected!](http://9gag.com/gag/a2voGNE)<!-- MEMES:END -->
+ - 💣 [Crazy dogs](http://9gag.com/gag/abAMRRE)
+ - ⏩ [Love at first sight\u2026](http://9gag.com/gag/aQz3rqW)
+ - 👉 [Yes, The Space marine is here to help us :&gt;](http://9gag.com/gag/a2voOm1)<!-- MEMES:END -->
 
 ---
 
