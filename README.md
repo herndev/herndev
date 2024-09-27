@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Arc browser adds security bulletins and bug bounties](https://www.theverge.com/2024/9/27/24256271/arc-browser-bug-bounty-security-bulletin)
- - [The Titan Submersible Hearings End With Few Solid Answers. Here’s What Comes Next](https://www.wired.com/story/titan-submersible-hearings-end-oceangate-coast-guard-heres-what-comes-next/)
- - [Earn 5% APY &lpar;or More&rpar; With These Savings Accounts – While Rates Last](https://www.cnet.com/personal-finance/these-savings-accounts-pay-5-percent-apy-or-higher-right-now/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Hot deals on computer docking stations from Baseus and UGREEN](https://www.androidauthority.com/baseus-ugreen-docking-station-deal-3485809/)
+ - [Android 15 updates have started hitting phones — just not yours](https://www.androidauthority.com/first-android-15-updates-3485855/)
+ - [The US DOJ charges two Russians for operating $1B+ money laundering services for cybercriminals; one is accused of operating the Joker&#39;s Stash marketplace &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/240927/p24#a240927p24)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
