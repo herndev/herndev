@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Tokyo Game Show 2024 PlayStation booth recap: hands-on report](https://blog.playstation.com/2024/09/26/tokyo-game-show-2024-playstation-booth-recap-hands-on-report/)
  - [&#39;How far can you push this one idea?&#39;: The UFO 50 team discusses the making of the most bonkers and beautifully weird gaming achievement of 2024](https://www.pcgamer.com/games/action/how-far-can-you-push-this-one-idea-the-ufo-50-team-discusses-the-making-of-the-most-bonkers-and-beautifully-weird-gaming-achievement-of-2024)
- - [The latest Nvidia RTX 5090 specs rumour makes the ol&#39; RTX 4090 look like a goddam clown card](https://www.pcgamer.com/hardware/graphics-cards/the-latest-nvidia-rtx-5090-specs-rumour-makes-the-ol-rtx-4090-look-like-a-goddam-clown-card)
- - [Dr Disrespect predicts he&#39;ll return to Deadrop developer Midnight Society: &#39;That&#39;s the Two Time&#39;s studio&#39;](https://www.pcgamer.com/games/fps/dr-disrespect-predicts-that-hell-return-to-deadrop-developer-midnight-society-thats-the-two-times-studio)<!-- GAME:END -->
+ - [The latest Nvidia RTX 5090 specs rumour makes the ol&#39; RTX 4090 look like a goddam clown card](https://www.pcgamer.com/hardware/graphics-cards/the-latest-nvidia-rtx-5090-specs-rumour-makes-the-ol-rtx-4090-look-like-a-goddam-clown-card)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
