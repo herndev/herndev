@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This 600-year-old painting is one of the most mysterious in history. That mirror in the back is just 3 inches wide \u2014 yet it reflects the entire room in immense detail.](http://9gag.com/gag/a1moq1R)
- - ⏩ [Pay peanuts, get monkeys](http://9gag.com/gag/azxXQQz)
- - 👉 [He knows he&#39;s gonna get the Epsteined.](http://9gag.com/gag/aByxOdz)<!-- MEMES:END -->
+ - 💣 [Time when Snoop Dogg helped everyone win on price is right](http://9gag.com/gag/arygrGd)
+ - ⏩ [Snek video.](http://9gag.com/gag/aVv31EM)
+ - 👉 [Anything is possible](http://9gag.com/gag/axy1n1Y)<!-- MEMES:END -->
 
 ---
 
