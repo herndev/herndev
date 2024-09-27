@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [So this is what overfishing looks like.](http://9gag.com/gag/aKGjYQQ)
- - ⏩ [Crazy dogs](http://9gag.com/gag/abAMRRE)
- - 👉 [I think that would be perfect for Halloween.](http://9gag.com/gag/apR2AoB)<!-- MEMES:END -->
+ - 💣 [Chatting with bots](http://9gag.com/gag/a4P7VmZ)
+ - ⏩ [This city needs a new hero](http://9gag.com/gag/aRB3DDA)
+ - 👉 [Real representation of women in video games](http://9gag.com/gag/a9ypV8W)<!-- MEMES:END -->
 
 ---
 
