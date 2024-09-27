@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Mango DAO, Mango Labs, and Blockworks Foundation agree to destroy MNGO tokens and ask crypto exchanges to stop trading them as part of an SEC settlement &lpar;Nikhilesh De/CoinDesk&rpar;](http://www.techmeme.com/240927/p21#a240927p21)
- - [The best doorbell cameras](https://www.theverge.com/22954554/best-video-doorbell-camera)
- - [Threads now lets you tag your location](https://www.theverge.com/2024/9/27/24256160/meta-threads-tag-location-instagram)<!-- TECH:END -->
+ - [Docs: OpenAI&#39;s monthly revenue hit $300M in August, up 1,700% since the beginning of 2023, and it expects ~$3.7B in annual sales in 2024 but also to lose ~$5B &lpar;New York Times&rpar;](http://www.techmeme.com/240927/p23#a240927p23)
+ - [DOJ indicts Iranians for alleged Trump campaign ‘hack-and-leak’ scheme](https://www.theverge.com/2024/9/27/24256133/doj-iranian-hackers-donald-trump-campaign)
+ - [Kaspersky confirms that it has replaced the antivirus software on its US customers&#39; computers with software called UltraAV, owned by American company Pango &lpar;Lorenzo Franceschi-Bicchierai/TechCrunch&rpar;](http://www.techmeme.com/240927/p22#a240927p22)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
