@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Yes, The Space marine is here to help us :&gt;](http://9gag.com/gag/a2voOm1)
- - ⏩ [&#39;The Table of Leipzig` by photographer Hayahisa Tomiyasu](http://9gag.com/gag/aMVjyq6)
- - 👉 [I have an idea](http://9gag.com/gag/aE0xZQ9)<!-- MEMES:END -->
+ - 💣 [So this is what overfishing looks like.](http://9gag.com/gag/aKGjYQQ)
+ - ⏩ [Crazy dogs](http://9gag.com/gag/abAMRRE)
+ - 👉 [I think that would be perfect for Halloween.](http://9gag.com/gag/apR2AoB)<!-- MEMES:END -->
 
 ---
 
