@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I think that would be perfect for Halloween.](http://9gag.com/gag/apR2AoB)
- - ⏩ [Unexpected!](http://9gag.com/gag/a2voGNE)
- - 👉 [Sony is pulling an Apple](http://9gag.com/gag/aVv3Lgw)<!-- MEMES:END -->
+ - 💣 [He knows he&#39;s gonna get the Epsteined.](http://9gag.com/gag/aByxOdz)
+ - ⏩ [She&#39;s probably a whistle blower](http://9gag.com/gag/adBKe3Z)
+ - 👉 [Yes, The Space marine is here to help us :&gt;](http://9gag.com/gag/a2voOm1)<!-- MEMES:END -->
 
 ---
 
