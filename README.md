@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [All stamp locations in Zelda: Echoes of Wisdom](https://www.polygon.com/zelda-echoes-wisdom-guides/456335/stamps-stand-locations-all-where-to-find-rally)
- - [I wish that I had several thousand dollars to splurge on the new Sailor Moon x Jimmy Choo collection](https://www.polygon.com/anime/457593/sailor-moon-jimmy-choo-shoe-collection-2024)
- - [New California law inspired by Ubisoft and Sony requires retailers to warn consumers that the digital games they buy can be taken away at any time](https://www.pcgamer.com/gaming-industry/new-california-law-inspired-by-ubisoft-and-sony-requires-retailers-to-warn-consumers-that-the-digital-games-they-buy-can-be-taken-away-at-any-time)<!-- GAME:END -->
+ - [How Iron Meat’s Levels Bring You a Gore-ific Experience](https://news.xbox.com/en-us/2024/09/27/how-iron-meats-levels-bring-you-a-gore-ific-experience/)
+ - [Inside Out 2, Wolfs, Netflix’s Will &amp;#038; Harper, and every movie new to streaming this week](https://www.polygon.com/entertainment/455026/new-movies-watch-inside-out-2-netflix-incoming-will-harper)
+ - [All stamp locations in Zelda: Echoes of Wisdom](https://www.polygon.com/zelda-echoes-wisdom-guides/456335/stamps-stand-locations-all-where-to-find-rally)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
