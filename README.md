@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [A $460,000 North Carolina beach house collapsed into the ocean due to coastal erosion](http://9gag.com/gag/arygdeK)
- - ⏩ [The audacity](http://9gag.com/gag/aMVjqLW)
- - 👉 [Love at first sight\u2026](http://9gag.com/gag/aQz3rqW)<!-- MEMES:END -->
+ - 💣 [The audacity](http://9gag.com/gag/aMVjqLW)
+ - ⏩ [That&#39;s how you pay in brazil](http://9gag.com/gag/a87ozb6)
+ - 👉 [He knows he&#39;s gonna get the Epsteined.](http://9gag.com/gag/aByxOdz)<!-- MEMES:END -->
 
 ---
 
