@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Jinkies](http://9gag.com/gag/a5Qo5Aq)
- - ⏩ [Chatting with bots](http://9gag.com/gag/a4P7VmZ)
- - 👉 [This city needs a new hero](http://9gag.com/gag/aRB3DDA)<!-- MEMES:END -->
+ - 💣 [Yes, The Space marine is here to help us :&gt;](http://9gag.com/gag/a2voOm1)
+ - ⏩ [&#39;The Table of Leipzig` by photographer Hayahisa Tomiyasu](http://9gag.com/gag/aMVjyq6)
+ - 👉 [I have an idea](http://9gag.com/gag/aE0xZQ9)<!-- MEMES:END -->
 
 ---
 
