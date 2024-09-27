@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [&#39;There&#39;s a lot of psychological hurdles&#39;: Why Mossmouth charged $25 for 50 games](https://www.pcgamer.com/games/action/theres-a-lot-of-psychological-hurdles-why-mossmouth-charged-dollar25-for-50-games)
- - [Today&#39;s Wordle answer for Friday, September 27](https://www.pcgamer.com/games/puzzle/wordle-answer-today-september-27-2024)
- - [Tokyo Game Show 2024 PlayStation booth recap: hands-on report](https://blog.playstation.com/2024/09/26/tokyo-game-show-2024-playstation-booth-recap-hands-on-report/)<!-- GAME:END -->
+ - [Operation AI Comply has come out swinging against five companies the FTC says are peddling &#39;deceptive AI claims and schemes&#39;](https://www.pcgamer.com/software/ai/operation-ai-comply-has-come-out-swinging-against-five-companies-the-ftc-says-are-peddling-deceptive-ai-claims-and-schemes)
+ - [Final Fantasy 14&#39;s developer band confirms one of Endwalker&#39;s most emotional songs, Close in the Distance, is from one specific character to your Warrior of Light](https://www.pcgamer.com/games/final-fantasy/final-fantasy-14-s-developer-band-confirms-one-of-endwalker-s-most-emotional-songs-close-in-the-distance-is-from-one-specific-character-to-your-warrior-of-light)
+ - [Director James Cameron, creator of Skynet and the Terminator, joins the board of an AI firm](https://www.pcgamer.com/software/ai/director-james-cameron-creator-of-skynet-and-the-terminator-joins-the-board-of-an-ai-firm)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
