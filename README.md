@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [This new mid-range phone puts the Pixel 8a, Galaxy A55 to shame](https://www.androidauthority.com/redmi-note-14-pro-plus-3485176/)
- - [Apple Watch Series 10 battery life: How long does it last and how to improve it](https://www.androidauthority.com/apple-watch-series-10-battery-life-3485655/)
- - [Google has hit pause on Pixel Watch Wear OS 5 updates &lpar;Update: Confirmed&rpar;](https://www.androidauthority.com/pixel-watch-wear-os-5-updates-3485553/)<!-- TECH:END -->
+ - [Bad news: More phones are shipping without a charger now](https://www.androidauthority.com/xiaomi-14t-pro-in-box-charger-bundled-3485695/)
+ - [Kamala Harris is courting crypto investors and pro-crypto Democrats, as some prominent Democrats temper their initial skepticism of crypto assets &lpar;Joseph Zeballos-Roig/Semafor&rpar;](http://www.techmeme.com/240927/p4#a240927p4)
+ - [The Best Sex Machines for Solo, Couple, or Long-Distance Playtime &lpar;2024&rpar;](https://www.wired.com/gallery/best-sex-machines/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
