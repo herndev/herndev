@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Another day, another Qualcomm rebrand: The Snapdragon 8 Gen 4 might get a new name](https://www.androidauthority.com/qualcomm-snapdragon-8-gen-4-rebrand-8-elite-3485658/)
- - [The UK&#39;s Gambling Commission plans to take fantasy football startup Sorare to court next week over charges of providing unlicensed gambling facilities to users &lpar;Samuel Agini/Financial Times&rpar;](http://www.techmeme.com/240927/p3#a240927p3)
- - [Shein Workers Have Had It—and They’re Going Public](https://www.wired.com/story/the-shein-gig-workers-packing-your-order/)<!-- TECH:END -->
+ - [This new mid-range phone puts the Pixel 8a, Galaxy A55 to shame](https://www.androidauthority.com/redmi-note-14-pro-plus-3485176/)
+ - [Apple Watch Series 10 battery life: How long does it last and how to improve it](https://www.androidauthority.com/apple-watch-series-10-battery-life-3485655/)
+ - [Google has hit pause on Pixel Watch Wear OS 5 updates &lpar;Update: Confirmed&rpar;](https://www.androidauthority.com/pixel-watch-wear-os-5-updates-3485553/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
