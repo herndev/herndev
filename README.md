@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The legend behind Rings of Power’s action breaks open the Siege of Eregion](https://www.polygon.com/lotr-rings-of-power/456405/trop-siege-eregion-interview-action-director-vic-armstrong)
- - [Vampire Survivors dev opens publishing arm, tells Web3 and F2P mobile games to stuff it](https://www.pcgamer.com/gaming-industry/vampire-survivors-dev-opens-publishing-arm-tells-web3-and-f2p-mobile-games-to-stuff-it)
- - [Forget Palworld — TCG Card Shop Simulator is the best Pokémon-like game](https://www.polygon.com/impressions/457163/tcg-card-shop-simulator-review-pokemon-like)<!-- GAME:END -->
+ - [Blizzard Reportedly Hasn&#39;t Given Up On The Dream Of A StarCraft Shooter](https://kotaku.com/starcraft-3-shooter-blizzard-far-cry-5-ghost-ares-1851659709)
+ - [The Entire Dark Souls Trilogy Is Discounted On PC](https://kotaku.com/dark-souls-trilogy-2-3-dlc-sale-steam-recommendation-1851659706)
+ - [New Law Will Force Companies To Admit You Don&#39;t Actually Own Digital Games](https://kotaku.com/california-ab-2426-digital-games-the-crew-new-law-psn-1851659641)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
