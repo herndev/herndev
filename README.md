@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung Galaxy S24 FE vs Google Pixel 8a: Which should you buy?](https://www.androidauthority.com/samsung-galaxy-s24-fe-vs-google-pixel-8a-3485711/)
- - [Steam will let you sue Valve now](https://www.theverge.com/2024/9/27/24255841/steam-forced-arbitration-policy-lawsuit)
- - [It looks like the end of the road for Google Meet on Android TV &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-meet-android-tv-deprecation-apk-teardown-3485766/)<!-- TECH:END -->
+ - [CNN will start locking some articles behind a paywall](https://www.theverge.com/2024/9/27/24255900/cnn-paywall-digital-subscription-mark-thompson)
+ - [The Best Gaming Laptops &lpar;2024&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-gaming-laptops/)
+ - [Now searches on Google Flights will suggest Amtrak train rides, too](https://www.theverge.com/2024/9/27/24255817/google-search-flights-amtrak-train-suggestions-tickets)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
