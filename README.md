@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Haitian politician drinks water from a giant JUG during his address at the UN General Assembly.](http://9gag.com/gag/apR2dL8)
- - ⏩ [He knows he&#39;s gonna get the Epsteined.](http://9gag.com/gag/aByxOdz)
- - 👉 [A $460,000 North Carolina beach house collapsed into the ocean due to coastal erosion](http://9gag.com/gag/arygdeK)<!-- MEMES:END -->
+ - 💣 [Maggie Smith from Harry potter &amp; Downton Abbey died at 89 years old , RIP](http://9gag.com/gag/aVv316P)
+ - ⏩ [Quite a zinger!](http://9gag.com/gag/ajPER4w)
+ - 👉 [Snek video.](http://9gag.com/gag/aVv31EM)<!-- MEMES:END -->
 
 ---
 
