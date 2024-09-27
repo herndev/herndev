@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone 16 Pro and Pro Max teardown: great modularity upgrades and much improved repairability with a dual-entry design and a metal enclosure for 16 Pro battery &lpar;Kyle Wiens/iFixit News&rpar;](http://www.techmeme.com/240927/p11#a240927p11)
- - [The Best Dyson Vacuums We&#39;ve Tested and Reviewed: V15, V12, and More](https://www.wired.com/gallery/best-dyson-vacuums/)
- - [California is here to save you from misleading buy buttons on your next game and movie](https://www.androidauthority.com/california-consumer-protection-law-misleading-digital-stores-3485740/)<!-- TECH:END -->
+ - [Samsung Galaxy S24 FE vs Google Pixel 8a: Which should you buy?](https://www.androidauthority.com/samsung-galaxy-s24-fe-vs-google-pixel-8a-3485711/)
+ - [Steam will let you sue Valve now](https://www.theverge.com/2024/9/27/24255841/steam-forced-arbitration-policy-lawsuit)
+ - [It looks like the end of the road for Google Meet on Android TV &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-meet-android-tv-deprecation-apk-teardown-3485766/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
