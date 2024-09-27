@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [My Old Ass director wanted to tell a different coming out story](https://www.polygon.com/movies/456620/my-old-ass-director-queer-story-coming-out-bisexual)
- - [Nintendo&#39;s lawsuit against Palworld isn&#39;t just bad for the industry, it&#39;s bad for Nintendo](https://www.pcgamer.com/games/survival-crafting/nintendo-s-lawsuit-against-palworld-isn-t-just-bad-for-the-industry-it-s-bad-for-nintendo)
- - [Deadlock Cheaters Are Getting Punished In The Best Way Possible](https://kotaku.com/deadlock-cheating-frog-steam-valve-ban-beta-invite-1851659893)<!-- GAME:END -->
+ - [Crossbow: Bloodnight’s Fast-Paced Blend of FPS Action and Gothic Horror](https://news.xbox.com/en-us/2024/09/27/crossbow-bloodnights-blend-of-action-and-horror/)
+ - [The Sims 4&#39;s Grim Reaper event seems pretty neat actually but, surprising no one, it&#39;s also very bugged](https://www.pcgamer.com/games/the-sims/the-sims-4s-grim-reaper-event-seems-pretty-neat-actually-but-surprising-no-one-its-also-very-bugged)
+ - [This Stunning Outer Wilds: Design Works Collector&#39;s Package Reminds Us Why We Love The 2019 GOTY](https://kotaku.com/outer-wilds-design-works-collectors-items-3d-model-1851659973)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
