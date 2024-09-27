@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [My 9 favorite watch faces for the Apple Watch Series 10](https://www.androidauthority.com/best-apple-watch-series-10-faces-3485114/)
- - [T-Mobile overhauling how it handles 988 crisis calls](https://www.androidauthority.com/tmobile-988-geo-routing-3485331/)
- - [Starlink crosses 4M customers; it started beta services in October 2020 and hit 1M subscribers in December 2022, 2M in September 2023, and 3M in May 2024 &lpar;Aria Alamalhodaei/TechCrunch&rpar;](http://www.techmeme.com/240926/p36#a240926p36)<!-- TECH:END -->
+ - [Source: at an all-hands meeting, Sam Altman said there were no plans for him to get a &quot;giant equity stake&quot; in OpenAI, calling the information &quot;just not true&quot; &lpar;Hayden Field/CNBC&rpar;](http://www.techmeme.com/240926/p38#a240926p38)
+ - [Berlin-based Distribusion, a B2B marketplace connecting ground transportation providers and online travel retailers, raised an $80M Series C led by TQ Ventures &lpar;Cate Lawrence/Tech.eu&rpar;](http://www.techmeme.com/240926/p37#a240926p37)
+ - [My 9 favorite watch faces for the Apple Watch Series 10](https://www.androidauthority.com/best-apple-watch-series-10-faces-3485114/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
