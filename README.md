@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Survive the Apocalypse in Dark Light: An Intense Hack ‘n’ Slash Metroidvania](https://news.xbox.com/en-us/2024/09/27/survive-the-apocalypse-in-dark-light/)
- - [The one thing you should do before Dragon Age: The Veilguard is read this book](https://www.polygon.com/fantasy/457052/the-one-thing-you-should-do-before-dragon-age-the-veilguard-is-read-this-book)
- - [Twitch Is Transforming Into A Home For Political Commentary And Caroline Kwan Is Leading The Charge](https://kotaku.com/twitch-is-transforming-into-a-home-for-political-commen-1851659698)<!-- GAME:END -->
+ - [My Old Ass director wanted to tell a different coming out story](https://www.polygon.com/movies/456620/my-old-ass-director-queer-story-coming-out-bisexual)
+ - [Nintendo&#39;s lawsuit against Palworld isn&#39;t just bad for the industry, it&#39;s bad for Nintendo](https://www.pcgamer.com/games/survival-crafting/nintendo-s-lawsuit-against-palworld-isn-t-just-bad-for-the-industry-it-s-bad-for-nintendo)
+ - [Deadlock Cheaters Are Getting Punished In The Best Way Possible](https://kotaku.com/deadlock-cheating-frog-steam-valve-ban-beta-invite-1851659893)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
