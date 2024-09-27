@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Crossbow: Bloodnight’s Fast-Paced Blend of FPS Action and Gothic Horror](https://news.xbox.com/en-us/2024/09/27/crossbow-bloodnights-blend-of-action-and-horror/)
- - [The Sims 4&#39;s Grim Reaper event seems pretty neat actually but, surprising no one, it&#39;s also very bugged](https://www.pcgamer.com/games/the-sims/the-sims-4s-grim-reaper-event-seems-pretty-neat-actually-but-surprising-no-one-its-also-very-bugged)
- - [This Stunning Outer Wilds: Design Works Collector&#39;s Package Reminds Us Why We Love The 2019 GOTY](https://kotaku.com/outer-wilds-design-works-collectors-items-3d-model-1851659973)<!-- GAME:END -->
+ - [New California law inspired by Ubisoft and Sony requires retailers to warn consumers that the digital games they buy can be taken away at any time](https://www.pcgamer.com/gaming-industry/new-california-law-inspired-by-ubisoft-and-sony-requires-retailers-to-warn-consumers-that-the-digital-games-they-buy-can-be-taken-away-at-any-time)
+ - [Kotaku Weekend Guide: 6 Great Games To Play Before The Next Avalanche Of Releases](https://kotaku.com/kotaku-weekend-guide-zelda-metaphor-refantazio-ufo-50-1851659663)
+ - [The trusty Xbox wireless controller is $20 off at Woot](https://www.polygon.com/good-deals/457657/xbox-wireless-controller-usbc-woot-sale)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
