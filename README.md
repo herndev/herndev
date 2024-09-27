@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Gmail’s smart replies just got longer, but there’s a catch &lpar;$titlerpar;](https://www.androidauthority.com/gmail-gemini-smart-replies-3485716/)
- - [DefiLlama: Coinbase&#39;s L2 Ethereum network Base stands at $2.08B in total value locked, up from $430M at the start of 2024, marking a 370% growth year-to-date &lpar;Vishal Chawla/The Block&rpar;](http://www.techmeme.com/240927/p7#a240927p7)
- - [Acer Swift X 14 Review: A Hot and Loud Gaming Laptop](https://www.wired.com/review/acer-swift-x-14/)<!-- TECH:END -->
+ - [Apple&#39;s Lisa Jackson says environmental regulation is essential](https://appleinsider.com/articles/24/09/27/apples-lisa-jackson-says-environmental-regulation-is-essential?utm_medium=rss)
+ - [The UK CMA rules that Amazon&#39;s $4B Anthropic deal does not qualify for an investigation under merger laws as Anthropic&#39;s UK revenue did not meet needed limits &lpar;Katharine Gemmell/Bloomberg&rpar;](http://www.techmeme.com/240927/p8#a240927p8)
+ - [As FTC Chair Lina Khan’s Term Expires, Democrats Are Torn Between Donors and Their Base](https://www.wired.com/story/ftc-chair-lina-khans-democrats-donors-harris/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
