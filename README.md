@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [You underestimate her power](http://9gag.com/gag/amo7Vzv)
- - ⏩ [The what?](http://9gag.com/gag/a9ypXYK)
- - 👉 [Unexpected!](http://9gag.com/gag/a2voGNE)<!-- MEMES:END -->
+ - 💣 [I think that would be perfect for Halloween.](http://9gag.com/gag/apR2AoB)
+ - ⏩ [Unexpected!](http://9gag.com/gag/a2voGNE)
+ - 👉 [Sony is pulling an Apple](http://9gag.com/gag/aVv3Lgw)<!-- MEMES:END -->
 
 ---
 
