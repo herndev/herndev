@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Magic: The Gathering’s latest art treatment is over 100 years old](https://www.polygon.com/mtg-magic-the-gathering/457049/duskmourn-double-exposure-are-treatment-explained-interview)
- - [Pokemon Go&#39;s Sword Or Shield Quest Is A Colossal Waste Of Your Time](https://kotaku.com/pokemon-go-sword-shield-path-galar-timed-challenge-1851659409)
- - [Metaphor: ReFantazio&#39;s demo reveals the most vitally important information: The protagonist&#39;s canonical name](https://www.pcgamer.com/games/rpg/metaphor-refantazios-demo-reveals-the-most-vitally-important-information-the-protagonists-canonical-name)<!-- GAME:END -->
+ - [The legend behind Rings of Power’s action breaks open the Siege of Eregion](https://www.polygon.com/lotr-rings-of-power/456405/trop-siege-eregion-interview-action-director-vic-armstrong)
+ - [Vampire Survivors dev opens publishing arm, tells Web3 and F2P mobile games to stuff it](https://www.pcgamer.com/gaming-industry/vampire-survivors-dev-opens-publishing-arm-tells-web3-and-f2p-mobile-games-to-stuff-it)
+ - [Forget Palworld — TCG Card Shop Simulator is the best Pokémon-like game](https://www.polygon.com/impressions/457163/tcg-card-shop-simulator-review-pokemon-like)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
