@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Bad news: More phones are shipping without a charger now](https://www.androidauthority.com/xiaomi-14t-pro-in-box-charger-bundled-3485695/)
- - [Kamala Harris is courting crypto investors and pro-crypto Democrats, as some prominent Democrats temper their initial skepticism of crypto assets &lpar;Joseph Zeballos-Roig/Semafor&rpar;](http://www.techmeme.com/240927/p4#a240927p4)
- - [The Best Sex Machines for Solo, Couple, or Long-Distance Playtime &lpar;2024&rpar;](https://www.wired.com/gallery/best-sex-machines/)<!-- TECH:END -->
+ - [Apple Intelligence will come to an M5-powered Apple Vision Pro](https://appleinsider.com/articles/24/09/27/apple-intelligence-will-come-to-an-m5-powered-apple-vision-pro?utm_medium=rss)
+ - [Stripe data: AI startups took a median 11 months to hit $1M in annualized revenue after their first sales, vs. 15 months for previous gen of SaaS companies &lpar;Madhumita Murgia/Financial Times&rpar;](http://www.techmeme.com/240927/p5#a240927p5)
+ - [Gemini is making Gmail’s smart replies smarter](https://www.theverge.com/2024/9/27/24255722/google-gemini-gmail-contextual-smart-replies-availability)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
