@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [New California law inspired by Ubisoft and Sony requires retailers to warn consumers that the digital games they buy can be taken away at any time](https://www.pcgamer.com/gaming-industry/new-california-law-inspired-by-ubisoft-and-sony-requires-retailers-to-warn-consumers-that-the-digital-games-they-buy-can-be-taken-away-at-any-time)
- - [Kotaku Weekend Guide: 6 Great Games To Play Before The Next Avalanche Of Releases](https://kotaku.com/kotaku-weekend-guide-zelda-metaphor-refantazio-ufo-50-1851659663)
- - [The trusty Xbox wireless controller is $20 off at Woot](https://www.polygon.com/good-deals/457657/xbox-wireless-controller-usbc-woot-sale)<!-- GAME:END -->
+ - [All stamp locations in Zelda: Echoes of Wisdom](https://www.polygon.com/zelda-echoes-wisdom-guides/456335/stamps-stand-locations-all-where-to-find-rally)
+ - [I wish that I had several thousand dollars to splurge on the new Sailor Moon x Jimmy Choo collection](https://www.polygon.com/anime/457593/sailor-moon-jimmy-choo-shoe-collection-2024)
+ - [New California law inspired by Ubisoft and Sony requires retailers to warn consumers that the digital games they buy can be taken away at any time](https://www.pcgamer.com/gaming-industry/new-california-law-inspired-by-ubisoft-and-sony-requires-retailers-to-warn-consumers-that-the-digital-games-they-buy-can-be-taken-away-at-any-time)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
