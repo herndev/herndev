@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Starlink crosses 4M customers; it started beta services in October 2020 and hit 1M subscribers in December 2022, 2M in September 2023, and 3M in May 2024 &lpar;Aria Alamalhodaei/TechCrunch&rpar;](http://www.techmeme.com/240926/p36#a240926p36)
- - [Xfinity Agreed to Drop Its &#39;10G&#39; Branding. Here&#39;s What the Term Actually Means](https://www.cnet.com/home/internet/xfinity-agreed-to-drop-its-10g-branding-heres-what-the-term-actually-means/#ftag=CAD590a51e)
- - [Samsung Galaxy S24 FE hands-on: I think it’s great, but is it really a ‘fan edition’?](https://www.androidauthority.com/samsung-galaxy-s24-fe-hands-on-3485524/)<!-- TECH:END -->
+ - [My 9 favorite watch faces for the Apple Watch Series 10](https://www.androidauthority.com/best-apple-watch-series-10-faces-3485114/)
+ - [T-Mobile overhauling how it handles 988 crisis calls](https://www.androidauthority.com/tmobile-988-geo-routing-3485331/)
+ - [Starlink crosses 4M customers; it started beta services in October 2020 and hit 1M subscribers in December 2022, 2M in September 2023, and 3M in May 2024 &lpar;Aria Alamalhodaei/TechCrunch&rpar;](http://www.techmeme.com/240926/p36#a240926p36)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
