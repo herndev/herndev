@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [What You Need to Know for Diablo IV: Vessel of Hatred’s Launch](https://news.blizzard.com/diablo4/24140359/what-you-need-to-know-for-vessel-of-hatred-s-launch#new_tab)
- - [Doom will run on a literal potato but apparently quantum computers still aren&#39;t powerful enough to run even this wireframe version natively](https://www.pcgamer.com/hardware/doom-will-run-on-a-literal-potato-but-apparently-quantum-computers-still-arent-powerful-enough-to-run-even-this-wireframe-version-natively)
- - [All amiibo rewards and unlocks in Zelda: Echoes of Wisdom](https://www.polygon.com/zelda-echoes-wisdom-guides/453837/amiibo-rewards-unlocks)<!-- GAME:END -->
+ - [16 Things We Wish We Knew Before Playing Dead Rising Deluxe Remaster](https://kotaku.com/dead-rising-deluxe-remaster-tips-before-playing-1851660797)
+ - [The Megalopolis Discourse Is, Appropriately, Mega Weird](https://kotaku.com/megalopolis-movie-coppola-reviews-cast-rotten-tomatoes-1851660791)
+ - [Starship Troopers: Continuum’s upgrade and perk system leans into the original sci-fi film’s mythology](https://blog.playstation.com/2024/09/30/starship-troopers-continuums-upgrade-and-perk-system-leans-into-the-original-sci-fi-films-mythology/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
