@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [So useful](http://9gag.com/gag/aYQgXxV)
- - ⏩ [Another one. Injured 31 victims, including 8 children.](http://9gag.com/gag/ae9MBVj)
- - 👉 [Shrek&#39;s donkey](http://9gag.com/gag/aGyj53w)<!-- MEMES:END -->
+ - 💣 [Women](http://9gag.com/gag/a2vopDp)
+ - ⏩ [Ah yes, the seggs](http://9gag.com/gag/aMVj7Y6)
+ - 👉 [Titten saves life](http://9gag.com/gag/ae9MwKp)<!-- MEMES:END -->
 
 ---
 
