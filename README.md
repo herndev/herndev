@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Did we just get a look at the front of the OnePlus 13?](https://www.androidauthority.com/oneplus-13-front-screen-picture-3485663/)
- - [Ancestry vs. 23andMe: How to Pick the Best DNA Testing Kit for You](https://www.cnet.com/health/medical/ancestry-vs-23-and-me-dna-testing-kit-which-is-best/#ftag=CAD590a51e)
- - [See it, record it, search it: Google Lens video search feature starts rolling out](https://www.androidauthority.com/see-it-record-it-search-it-google-lens-video-search-feature-starts-rolling-out-3485999/)<!-- TECH:END -->
+ - [FCC’s new 60-day phone unlocking policy isn’t everyone’s cup of tea](https://www.androidauthority.com/fcc-60-day-phone-unlocking-policy-survey-results-3486007/)
+ - [Snapdragon 8 Gen 4 price leaks and its bad news for your next phone purchase](https://www.androidauthority.com/snapdragon-8-gen-4-dimensity-9400-prices-leak-3486015/)
+ - [Today&#39;s NYT Mini Crossword Answers for Sept. 30](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-sept-30/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
