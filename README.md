@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Mirage Feathers is an anime-twist on a neglected Sega classic](https://www.polygon.com/impressions/457669/mirage-feathers)
- - [Every Movie In The Batman Universe, Ranked From Worst To Best](https://kotaku.com/batman-best-keaton-nolan-pattinson-movies-1851660049)
- - [Overwatch 2 players are banging their heads against a wall after finding out that Blizzard fumbled a Netflix adaptation](https://www.pcgamer.com/games/fps/overwatch-2-players-are-banging-their-heads-against-a-wall-after-finding-out-that-blizzard-fumbled-a-netflix-adaptation)<!-- GAME:END -->
+ - [Nintendo is filing for the patents it&#39;s suing Palworld with in the US as well, though some &lpar;non-final&rpar; rejections could complicate matters](https://www.pcgamer.com/gaming-industry/nintendo-is-filing-for-the-patents-it-s-suing-palworld-with-in-the-us-as-well-though-some-non-final-rejections-could-complicate-matters)
+ - [Epic Fires Off Fresh Lawsuits Over What A Pain It Is To Download Fortnite](https://kotaku.com/epic-google-samsung-trial-fortnite-1851660601)
+ - [Mirage Feathers is an anime-twist on a neglected Sega classic](https://www.polygon.com/impressions/457669/mirage-feathers)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
