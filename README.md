@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Controlling Apple Vision Pro with your brain is one step closer to reality](https://appleinsider.com/articles/24/09/30/controlling-apple-vision-pro-with-your-brain-is-one-step-closer-to-reality?utm_medium=rss)
- - [Is this Anker’s first 140W wall charger with a screen?](https://www.theverge.com/2024/9/30/24258691/anker-leak-charger-zolo-usb-c)
- - [A US judge dismisses a DOJ lawsuit accusing eBay of violating environmental laws by allowing the sale of harmful products, citing Section 230 protections &lpar;Jonathan Stempel/Reuters&rpar;](http://www.techmeme.com/240930/p26#a240930p26)<!-- TECH:END -->
+ - [Apple AirPods help police locate stolen Ferrari worth $575,000](https://appleinsider.com/articles/24/09/30/apple-airpods-help-police-locate-stolen-ferrari-worth-575000?utm_medium=rss)
+ - [Notes on Google NotebookLM&#39;s Audio Overview feature, which generates a podcast with two AI hosts discussing user-provided content and is surprisingly effective &lpar;Simon Willison/Simon Willison&#39;s Weblog&rpar;](http://www.techmeme.com/240930/p27#a240930p27)
+ - [Want to Buy a Smart Glass Door? It Just Got a Little Bit Cheaper](https://www.wired.com/story/smart-glass-door-home-depot/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
