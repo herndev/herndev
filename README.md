@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [15 Best Keyboards for PC &lpar;2024&rpar;: Gaming and Work](https://www.wired.com/gallery/best-keyboards/)
- - [Samsung’s Galaxy S24 FE is the phone the Pixel 9 should have been](https://www.androidauthority.com/galaxy-s24-fe-the-pixel-9-i-wanted-3485393/)
- - [AMD improves Zen 5 CPU latency and performance with BIOS updates](https://www.theverge.com/2024/9/30/24258147/amd-zen-5-cpu-performance-latency-bios-updates)<!-- TECH:END -->
+ - [Death Stranding 2’s photo mode looks wild](https://www.theverge.com/2024/9/30/24258230/death-stranding-2-photo-mode-trailer-tgs-2024)
+ - [Source: SoftBank&#39;s Vision Fund has agreed to invest $500M in OpenAI&#39;s latest funding round, SoftBank&#39;s first investment in OpenAI, which is raising $6.5B &lpar;The Information&rpar;](http://www.techmeme.com/240930/p13#a240930p13)
+ - [The UK FCA says a man pleaded guilty to illegally operating a crypto ATM network, which processed &amp;pound;2.6M across various locations, as it cracks down on such ATMs &lpar;Camomile Shumba/CoinDesk&rpar;](http://www.techmeme.com/240930/p12#a240930p12)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
