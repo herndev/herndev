@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Intense and Unexpected Turbulence](http://9gag.com/gag/aND15Vv)
- - ⏩ [Arena Darkeh sentences a man to 10 years for building guns legally in his own home with no priors. Her exact words were `don&#39;t mention the second amendment. It doesn&#39;t exist in this courtroom.` This judge needs to be arrested for treason.](http://9gag.com/gag/ae9MngB)
- - 👉 [Man surprises blind girlfriend by proposing marriage in Braille](http://9gag.com/gag/aLnjEm5)<!-- MEMES:END -->
+ - 💣 [In an AirBNB in northern France, my room has a second door that opens to this](http://9gag.com/gag/ae9M8Gm)
+ - ⏩ [Intense and Unexpected Turbulence](http://9gag.com/gag/aND15Vv)
+ - 👉 [Would?](http://9gag.com/gag/aRB3bK2)<!-- MEMES:END -->
 
 ---
 
