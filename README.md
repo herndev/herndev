@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Intense and Unexpected Turbulence](http://9gag.com/gag/aND15Vv)
- - ⏩ [Do you pee ?](http://9gag.com/gag/a34KXo1)
- - 👉 [Oak professor has been busy.](http://9gag.com/gag/ae9M8Ob)<!-- MEMES:END -->
+ - 💣 [Oak professor has been busy.](http://9gag.com/gag/ae9M8Ob)
+ - ⏩ [What&#39;s the deal with this bald guy?](http://9gag.com/gag/aAyxArp)
+ - 👉 [Lesson 1: Find a tall woman](http://9gag.com/gag/aXPx1Dz)<!-- MEMES:END -->
 
 ---
 
