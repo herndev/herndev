@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [YouTube solves its missing music problem](https://www.androidauthority.com/youtube-sesac-deal-3486337/)
- - [Why YouTube is missing your favorite songs: What you must know](https://www.androidauthority.com/youtube-sesac-music-dispute-3486212/)
- - [YouTube reaches a deal with SESAC that will bring back songs by Adele, Bob Dylan, Nirvana, and others that were removed over the weekend in the US &lpar;Umar Shakir/The Verge&rpar;](http://www.techmeme.com/240930/p23#a240930p23)<!-- TECH:END -->
+ - [Controlling Apple Vision Pro with your brain is one step closer to reality](https://appleinsider.com/articles/24/09/30/controlling-apple-vision-pro-with-your-brain-is-one-step-closer-to-reality?utm_medium=rss)
+ - [Is this Anker’s first 140W wall charger with a screen?](https://www.theverge.com/2024/9/30/24258691/anker-leak-charger-zolo-usb-c)
+ - [A US judge dismisses a DOJ lawsuit accusing eBay of violating environmental laws by allowing the sale of harmful products, citing Section 230 protections &lpar;Jonathan Stempel/Reuters&rpar;](http://www.techmeme.com/240930/p26#a240930p26)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
