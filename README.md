@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Women](http://9gag.com/gag/a2vopDp)
- - ⏩ [Ah yes, the seggs](http://9gag.com/gag/aMVj7Y6)
- - 👉 [Titten saves life](http://9gag.com/gag/ae9MwKp)<!-- MEMES:END -->
+ - 💣 [Another safety orientation video.](http://9gag.com/gag/ae9MzGq)
+ - ⏩ [New merch gon drop, too.](http://9gag.com/gag/awyX2oy)
+ - 👉 [That should be required by law](http://9gag.com/gag/aXPx3Kd)<!-- MEMES:END -->
 
 ---
 
