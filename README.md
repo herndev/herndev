@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Ironmouse is now the most subscribed-to channel on Twitch ever](https://www.polygon.com/twitch/458345/ironmouse-breaks-subs-record-twitch-subathon)
  - [Like a Dragon: Yakuza&#39;s first trailer is grim, violent, stylish, and has absolutely no karaoke whatsoever](https://www.pcgamer.com/movies-tv/like-a-dragon-yakuzas-first-trailer-is-grim-violent-stylish-and-has-absolutely-no-karaoke-whatsoever)
- - [Activision said &#39;no&#39; to Skyrim modders 3 years into remaking a semi-obscure vampire RPG it published a lifetime ago, so now those modders are reworking it into a new story](https://www.pcgamer.com/games/rpg/activision-said-no-to-skyrim-modders-3-years-into-remaking-a-semi-obscure-vampire-rpg-it-published-a-lifetime-ago-so-now-those-modders-are-reworking-it-into-a-new-story)
- - [Tekken boss once tried to get KFC&#39;s Colonel Sanders to join the roster, but the chicken superpower wouldn&#39;t budge: &#39;They weren&#39;t very open to the idea&#39;](https://www.pcgamer.com/games/fighting/tekken-boss-once-tried-to-get-kfcs-colonel-sanders-to-join-the-roster-but-the-chicken-superpower-wouldnt-budge-they-werent-very-open-to-the-idea)<!-- GAME:END -->
+ - [Activision said &#39;no&#39; to Skyrim modders 3 years into remaking a semi-obscure vampire RPG it published a lifetime ago, so now those modders are reworking it into a new story](https://www.pcgamer.com/games/rpg/activision-said-no-to-skyrim-modders-3-years-into-remaking-a-semi-obscure-vampire-rpg-it-published-a-lifetime-ago-so-now-those-modders-are-reworking-it-into-a-new-story)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
