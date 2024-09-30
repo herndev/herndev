@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [16 Things We Wish We Knew Before Playing Dead Rising Deluxe Remaster](https://kotaku.com/dead-rising-deluxe-remaster-tips-before-playing-1851660797)
- - [The Megalopolis Discourse Is, Appropriately, Mega Weird](https://kotaku.com/megalopolis-movie-coppola-reviews-cast-rotten-tomatoes-1851660791)
- - [Starship Troopers: Continuum’s upgrade and perk system leans into the original sci-fi film’s mythology](https://blog.playstation.com/2024/09/30/starship-troopers-continuums-upgrade-and-perk-system-leans-into-the-original-sci-fi-films-mythology/)<!-- GAME:END -->
+ - [Warhammer 40k&amp;#8217;s first academic conference asked the big questions about Space Marines](https://www.polygon.com/warhammer-40k/458188/warhammer-40000-academic-conference-heidelberg-germany)
+ - [Improve Your Weapons And Armor In Black Myth: Wukong Right From The Start](https://kotaku.com/black-myth-wukong-stone-spirits-farming-guide-1851660978)
+ - [The Legend of Zelda Encyclopedia &lpar;and other Zelda history books&rpar; are half off](https://www.polygon.com/amazon-prime-day/458076/zelda-encyclopedia-books-sale)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
