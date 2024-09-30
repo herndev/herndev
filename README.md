@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [White girls in a nutshell](http://9gag.com/gag/aE0xKBx)
- - ⏩ [This guy shows how much his machines collect in laundrette in a month](http://9gag.com/gag/aLnjobV)
- - 👉 [Titten saves life](http://9gag.com/gag/ae9MwKp)<!-- MEMES:END -->
+ - 💣 [Another one. Injured 31 victims, including 8 children.](http://9gag.com/gag/ae9MBVj)
+ - ⏩ [Chad Prince Salman](http://9gag.com/gag/aLnj7V5)
+ - 👉 [Uprooting a tree using a tire and physics](http://9gag.com/gag/amo7Zv2)<!-- MEMES:END -->
 
 ---
 
