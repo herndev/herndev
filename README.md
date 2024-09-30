@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Epic is suing Samsung and Google for One UI’s Auto Blocker shenanigans](https://www.androidauthority.com/epic-sues-samsung-google-auto-blocker-app-sideloading-3486097/)
- - [An FBI affidavit and European media leaks show how Russia&#39;s Doppelganger disinformation project operated and give insights into the Kremlin&#39;s online tactics &lpar;Thomas Rid/Foreign Affairs&rpar;](http://www.techmeme.com/240930/p8#a240930p8)
- - [Epic files a CA lawsuit accusing Samsung and Google of colluding to deter users from rival app stores via Samsung&#39;s Auto Blocker, and plans to speak to the EU &lpar;Reuters&rpar;](http://www.techmeme.com/240930/p7#a240930p7)<!-- TECH:END -->
+ - [15 Best Keyboards for PC &lpar;2024&rpar;: Gaming and Work](https://www.wired.com/gallery/best-keyboards/)
+ - [Samsung’s Galaxy S24 FE is the phone the Pixel 9 should have been](https://www.androidauthority.com/galaxy-s24-fe-the-pixel-9-i-wanted-3485393/)
+ - [AMD improves Zen 5 CPU latency and performance with BIOS updates](https://www.theverge.com/2024/9/30/24258147/amd-zen-5-cpu-performance-latency-bios-updates)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
