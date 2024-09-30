@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How Iron Meat’s Levels Bring You a Gore-ific Experience](https://news.xbox.com/en-us/2024/09/27/how-iron-meats-levels-bring-you-a-gore-ific-experience/)
- - [Inside Out 2, Wolfs, Netflix’s Will &amp;#038; Harper, and every movie new to streaming this week](https://www.polygon.com/entertainment/455026/new-movies-watch-inside-out-2-netflix-incoming-will-harper)
- - [All stamp locations in Zelda: Echoes of Wisdom](https://www.polygon.com/zelda-echoes-wisdom-guides/456335/stamps-stand-locations-all-where-to-find-rally)<!-- GAME:END -->
+ - [Roguelike horror shooter Dead Estate will get its final update in October](https://www.pcgamer.com/games/roguelike/roguelike-horror-shooter-dead-estate-will-have-its-final-update-this-october)
+ - [The original 1997 Backyard Baseball is finally coming to Steam](https://www.pcgamer.com/games/sports/the-original-1997-backyard-baseball-is-finally-coming-to-steam)
+ - [Check out this Death metal action RPG based on stylish tabletop game Mörk Borg](https://www.pcgamer.com/games/rpg/check-out-this-death-metal-action-rpg-based-on-stylish-tabletop-rpg-mork-borg)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
