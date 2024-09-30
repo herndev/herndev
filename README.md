@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Epic sues Google again for making the Epic Games Store such a headache to install, and now it&#39;s dragged Samsung into the fight too](https://www.pcgamer.com/gaming-industry/epic-sues-google-again-for-making-the-epic-games-store-such-a-headache-to-install-and-now-its-dragged-samsung-into-the-fight-too)
- - [Magic: The Gathering fans push volunteers out with alleged threats of violence](https://www.polygon.com/mtg-magic-the-gathering/458184/commander-rules-committee-steps-down)
- - [The 11 Best Weapons In Dead Rising Deluxe Remaster, And Where To Find Them](https://kotaku.com/dead-rising-deluxe-remaster-best-weapons-guide-1851660916)<!-- GAME:END -->
+ - [Wizards Responds To Magic: The Gathering Commander Meltdown Over Controversial Card Bans](https://kotaku.com/magic-gathering-mtg-commander-banned-cards-wizards-1851661288)
+ - [Into the Breach, SteamWorld Heist 2, and other great turn-based games are on sale at Steam](https://www.polygon.com/sales-guide/458193/turn-based-rpg-strategy-games-steam-sale)
+ - [Starfield&#39;s Shattered Space patch fixes a modding restriction that could turn your game into a surrealist hellscape](https://www.pcgamer.com/games/rpg/starfields-shattered-space-patch-fixes-a-modding-restriction-that-could-turn-your-game-into-a-surrealist-hellscape)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
