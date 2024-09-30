@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [See it, record it, search it: Google Lens video search feature starts rolling out](https://www.androidauthority.com/see-it-record-it-search-it-google-lens-video-search-feature-starts-rolling-out-3485999/)
  - [Google Phone’s latest UI test brings it even closer to the iPhone &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-phone-incoming-call-ui-test-apk-teardown-3485981/)
- - [Student Loan Forgiveness: Today&#39;s the Last Day to Apply for This Student Loan Debt Relief Program](https://www.cnet.com/personal-finance/loans/student-loan-forgiveness-todays-the-last-day-to-apply-for-this-student-loan-debt-relief-program/#ftag=CAD590a51e)
- - [Two Major Student Loan Benefits Expire Today. Here&#39;s What to Do](https://www.cnet.com/personal-finance/loans/two-major-student-loan-benefits-expire-today-heres-what-to-do/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Student Loan Forgiveness: Today&#39;s the Last Day to Apply for This Student Loan Debt Relief Program](https://www.cnet.com/personal-finance/loans/student-loan-forgiveness-todays-the-last-day-to-apply-for-this-student-loan-debt-relief-program/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
