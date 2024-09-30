@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Another one. Injured 31 victims, including 8 children.](http://9gag.com/gag/ae9MBVj)
- - ⏩ [Chad Prince Salman](http://9gag.com/gag/aLnj7V5)
- - 👉 [Uprooting a tree using a tire and physics](http://9gag.com/gag/amo7Zv2)<!-- MEMES:END -->
+ - 💣 [Sound that makes cats gag](http://9gag.com/gag/amo74dv)
+ - ⏩ [In Vienna, minute of silence for Philippine, a French girl kiIIed by an african invader, is trashed by other africn invaders celebrating her murder.](http://9gag.com/gag/aKGjZLj)
+ - 👉 [It is time we take control](http://9gag.com/gag/arygwMy)<!-- MEMES:END -->
 
 ---
 
