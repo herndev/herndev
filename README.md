@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google&#39;s lawyers wrapped up their defense of the company in the US DOJ ad tech antitrust trial last week; a judge&#39;s ruling is expected in the coming months &lpar;New York Times&rpar;](http://www.techmeme.com/240930/p2#a240930p2)
- - [Google Wallet can now automatically fetch your train tickets from Gmail](https://www.androidauthority.com/google-wallet-train-tickets-3486034/)
- - [This potentially lifesaving Apple Watch feature just got approved in Canada](https://www.androidauthority.com/sleep-apnea-apple-watch-canada-3486039/)<!-- TECH:END -->
+ - [Epic is suing Google — again — and now Samsung too](https://www.theverge.com/policy/2024/9/30/24256395/epic-sues-google-samsung-antitrust-auto-blocker)
+ - [TV star turns losing his Apple Watch into a game](https://appleinsider.com/articles/24/09/30/tv-star-turns-losing-his-apple-watch-into-a-game?utm_medium=rss)
+ - [A look at the Global Internet Forum to Counter Terrorism, created by Meta, Microsoft, YouTube, and X in 2016 to share info; X quietly left the board this month &lpar;Paresh Dave/Wired&rpar;](http://www.techmeme.com/240930/p5#a240930p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
