@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Why You Won&#39;t See Me at Condo Association Meetings](http://9gag.com/gag/a7oMxP2)
- - ⏩ [Proud silly royalty](http://9gag.com/gag/azxXyYj)
- - 👉 [Baby, baby oh...](http://9gag.com/gag/awyX9W4)<!-- MEMES:END -->
+ - ⏩ [Should I ask? I know I probably shouldn&#39;t ask. I really want to ask, though.](http://9gag.com/gag/amo7OQo)
+ - 👉 [Get stopped, idiot](http://9gag.com/gag/aW41AN2)<!-- MEMES:END -->
 
 ---
 
