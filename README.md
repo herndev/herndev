@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [California enacts an internet-connected car data privacy law to curb domestic violence, requiring carmakers to make it easier to submit restraining orders, more &lpar;Reuters&rpar;](http://www.techmeme.com/240930/p17#a240930p17)
- - [New Song Search Quick Settings tile makes your phone almost as good as a Pixel at recognizing music](https://www.androidauthority.com/song-search-quick-setings-tile-3486171/)
- - [Google’s working with Amtrak to make booking train travel easier](https://www.androidauthority.com/google-amtrak-integration-3486217/)<!-- TECH:END -->
+ - [Oura says it will see annual sales double to roughly $500M this year; sources: it plans to debut a new, thinner fitness ring with better battery life in October &lpar;Bloomberg&rpar;](http://www.techmeme.com/240930/p20#a240930p20)
+ - [Cybertruck Finally Gets Full Self-Driving &lpar;Supervised&rpar;](https://www.wired.com/story/cybertruck-finally-gets-full-self-driving-supervised/)
+ - [The Echo Hub smart home controller is down to a new all-time low price](https://www.theverge.com/2024/9/30/24258304/echo-hub-usb-c-apple-pencil-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
