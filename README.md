@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Finally Germans are standing up against this nonsense](http://9gag.com/gag/aD2xKoO)
- - ⏩ [A true professional](http://9gag.com/gag/adBKGyd)
- - 👉 [Be like Anna Muzychuk](http://9gag.com/gag/a9ypg7K)<!-- MEMES:END -->
+ - 💣 [Sorry guys, not sponsoring your shit...](http://9gag.com/gag/aW415K2)
+ - ⏩ [6 feet](http://9gag.com/gag/aLnjZ8A)
+ - 👉 [The last day](http://9gag.com/gag/ayNXw2V)<!-- MEMES:END -->
 
 ---
 
