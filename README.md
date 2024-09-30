@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Moo Deng frenzy has officially reached Final Fantasy 14, seemingly causing the price of its adorable hippo minion to skyrocket](https://www.pcgamer.com/games/final-fantasy/the-moo-deng-frenzy-has-officially-reached-final-fantasy-14-seemingly-causing-the-price-of-its-adorable-hippo-minion-to-skyrocket)
- - [Pre-order Monster Hunter Wilds and save 18%](https://www.polygon.com/pre-order/457978/monster-hunter-wilds-deal-fanatical)
- - [Russia gears up to ban Discord &#39;in the coming days&#39;](https://www.pcgamer.com/gaming-industry/russia-gears-up-to-ban-discord-in-the-coming-days)<!-- GAME:END -->
+ - [Starfield: Shattered Space – How to Start, What Level You Should Be, the Latest Updates, and More](https://news.xbox.com/en-us/2024/09/30/starfield-shattered-space-how-to-start/)
+ - [Key Blizzard developers apparently tried for years to get a new Starcraft or Warcraft RTS off the ground, but execs had &#39;no appetite&#39; for them](https://www.pcgamer.com/games/strategy/key-blizzard-developers-apparently-tried-for-years-to-get-a-new-starcraft-or-warcraft-rts-off-the-ground-but-execs-had-no-appetite-for-them)
+ - [Death Stranding 2 Shows Off Wild Photo Shoot Mode And Teases Release Date](https://kotaku.com/death-stranding-2-release-date-trailer-tgs-2024-panel-1851660760)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
