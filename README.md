@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The FCC announces a $31.5M settlement with T-Mobile over four data breaches, in 2021, 2022, and 2023, that compromised personal info of millions of US customers &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/240930/p21#a240930p21)
- - [Check out every color of the Samsung Galaxy A16 5G and 4G](https://www.androidauthority.com/galaxy-a16-colors-revealed-3486258/)
- - [Save $750 on the Narwal Freo Robot Vacuum and Mop](https://www.androidauthority.com/narwal-freo-robot-vacuum-and-mop-deal-3486176/)<!-- TECH:END -->
+ - [YouTube solves its missing music problem](https://www.androidauthority.com/youtube-sesac-deal-3486337/)
+ - [Why YouTube is missing your favorite songs: What you must know](https://www.androidauthority.com/youtube-sesac-music-dispute-3486212/)
+ - [YouTube reaches a deal with SESAC that will bring back songs by Adele, Bob Dylan, Nirvana, and others that were removed over the weekend in the US &lpar;Umar Shakir/The Verge&rpar;](http://www.techmeme.com/240930/p23#a240930p23)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
