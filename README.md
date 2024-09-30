@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Death Stranding 2’s photo mode looks wild](https://www.theverge.com/2024/9/30/24258230/death-stranding-2-photo-mode-trailer-tgs-2024)
- - [Source: SoftBank&#39;s Vision Fund has agreed to invest $500M in OpenAI&#39;s latest funding round, SoftBank&#39;s first investment in OpenAI, which is raising $6.5B &lpar;The Information&rpar;](http://www.techmeme.com/240930/p13#a240930p13)
- - [The UK FCA says a man pleaded guilty to illegally operating a crypto ATM network, which processed &amp;pound;2.6M across various locations, as it cracks down on such ATMs &lpar;Camomile Shumba/CoinDesk&rpar;](http://www.techmeme.com/240930/p12#a240930p12)<!-- TECH:END -->
+ - [NBCU’s streaming chief isn’t worried about you canceling cable](https://www.theverge.com/24258301/matt-strauss-peacock-nbc-comcast-olympics-sports-direct-to-consumer-video-streaming)
+ - [Tesla starts pushing Full Self-Driving access for some Cybertrucks](https://www.theverge.com/2024/9/30/24258232/tesla-cybertruck-fsd-early-access-v12-roll-out)
+ - [Oasis won’t use Ticketmaster’s dynamic pricing for North America tour](https://www.theverge.com/2024/9/30/24258255/oasis-live-2025-us-tour-no-dynamic-pricing-ticketmaster)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
