@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Wizards Responds To Magic: The Gathering Commander Meltdown Over Controversial Card Bans](https://kotaku.com/magic-gathering-mtg-commander-banned-cards-wizards-1851661288)
- - [Into the Breach, SteamWorld Heist 2, and other great turn-based games are on sale at Steam](https://www.polygon.com/sales-guide/458193/turn-based-rpg-strategy-games-steam-sale)
- - [Starfield&#39;s Shattered Space patch fixes a modding restriction that could turn your game into a surrealist hellscape](https://www.pcgamer.com/games/rpg/starfields-shattered-space-patch-fixes-a-modding-restriction-that-could-turn-your-game-into-a-surrealist-hellscape)<!-- GAME:END -->
+ - [Like a Dragon: Yakuza&#39;s first trailer is grim, violent, stylish, and has absolutely no karaoke whatsoever](https://www.pcgamer.com/movies-tv/like-a-dragon-yakuzas-first-trailer-is-grim-violent-stylish-and-has-absolutely-no-karaoke-whatsoever)
+ - [Activision said &#39;no&#39; to Skyrim modders 3 years into remaking a semi-obscure vampire RPG it published a lifetime ago, so now those modders are reworking it into a new story](https://www.pcgamer.com/games/rpg/activision-said-no-to-skyrim-modders-3-years-into-remaking-a-semi-obscure-vampire-rpg-it-published-a-lifetime-ago-so-now-those-modders-are-reworking-it-into-a-new-story)
+ - [Tekken boss once tried to get KFC&#39;s Colonel Sanders to join the roster, but the chicken superpower wouldn&#39;t budge: &#39;They weren&#39;t very open to the idea&#39;](https://www.pcgamer.com/games/fighting/tekken-boss-once-tried-to-get-kfcs-colonel-sanders-to-join-the-roster-but-the-chicken-superpower-wouldnt-budge-they-werent-very-open-to-the-idea)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
