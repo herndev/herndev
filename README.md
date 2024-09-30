@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Five new Steam games you probably missed &lpar;September 30, 2024&rpar;](https://www.pcgamer.com/software/platforms/five-new-steam-games-you-probably-missed-september-30-2024)
- - [Roguelike horror shooter Dead Estate will get its final update in October](https://www.pcgamer.com/games/roguelike/roguelike-horror-shooter-dead-estate-will-have-its-final-update-this-october)
- - [The original 1997 Backyard Baseball is finally coming to Steam](https://www.pcgamer.com/games/sports/the-original-1997-backyard-baseball-is-finally-coming-to-steam)<!-- GAME:END -->
+ - [Today&#39;s Wordle answer for Monday, September 30](https://www.pcgamer.com/games/puzzle/wordle-answer-today-september-30-2024)
+ - [Strategic robot carnage intensifies as autobattler Mechabellum hits its 1.0 release](https://www.pcgamer.com/games/strategy/strategic-robot-carnage-intensifies-as-autobattler-mechabellum-hits-its-1-0-release)
+ - [Monster Hunter fans are excited because a big farting ape is returning for Monster Hunter Wilds](https://www.pcgamer.com/games/rpg/monster-hunter-fans-are-excited-because-a-big-farting-ape-is-returning-for-monster-hunter-wilds)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
