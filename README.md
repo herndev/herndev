@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Epic is suing Google — again — and now Samsung too](https://www.theverge.com/policy/2024/9/30/24256395/epic-sues-google-samsung-antitrust-auto-blocker)
- - [TV star turns losing his Apple Watch into a game](https://appleinsider.com/articles/24/09/30/tv-star-turns-losing-his-apple-watch-into-a-game?utm_medium=rss)
- - [A look at the Global Internet Forum to Counter Terrorism, created by Meta, Microsoft, YouTube, and X in 2016 to share info; X quietly left the board this month &lpar;Paresh Dave/Wired&rpar;](http://www.techmeme.com/240930/p5#a240930p5)<!-- TECH:END -->
+ - [Epic is suing Samsung and Google for One UI’s Auto Blocker shenanigans](https://www.androidauthority.com/epic-sues-samsung-google-auto-blocker-app-sideloading-3486097/)
+ - [An FBI affidavit and European media leaks show how Russia&#39;s Doppelganger disinformation project operated and give insights into the Kremlin&#39;s online tactics &lpar;Thomas Rid/Foreign Affairs&rpar;](http://www.techmeme.com/240930/p8#a240930p8)
+ - [Epic files a CA lawsuit accusing Samsung and Google of colluding to deter users from rival app stores via Samsung&#39;s Auto Blocker, and plans to speak to the EU &lpar;Reuters&rpar;](http://www.techmeme.com/240930/p7#a240930p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
