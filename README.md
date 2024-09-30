@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Best community after 9gag](http://9gag.com/gag/a34KgP1)
- - ⏩ [Well that escalated quickly](http://9gag.com/gag/aE0xKKx)
- - 👉 [Get stopped, idiot](http://9gag.com/gag/aW41AN2)<!-- MEMES:END -->
+ - 💣 [The good boy.](http://9gag.com/gag/axy1w12)
+ - ⏩ [He was an actual terminator who pretended to be an actor](http://9gag.com/gag/aYQgX72)
+ - 👉 [So useful](http://9gag.com/gag/aYQgXxV)<!-- MEMES:END -->
 
 ---
 
