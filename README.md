@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Warhammer 40k&amp;#8217;s first academic conference asked the big questions about Space Marines](https://www.polygon.com/warhammer-40k/458188/warhammer-40000-academic-conference-heidelberg-germany)
- - [Improve Your Weapons And Armor In Black Myth: Wukong Right From The Start](https://kotaku.com/black-myth-wukong-stone-spirits-farming-guide-1851660978)
- - [The Legend of Zelda Encyclopedia &lpar;and other Zelda history books&rpar; are half off](https://www.polygon.com/amazon-prime-day/458076/zelda-encyclopedia-books-sale)<!-- GAME:END -->
+ - [Epic sues Google again for making the Epic Games Store such a headache to install, and now it&#39;s dragged Samsung into the fight too](https://www.pcgamer.com/gaming-industry/epic-sues-google-again-for-making-the-epic-games-store-such-a-headache-to-install-and-now-its-dragged-samsung-into-the-fight-too)
+ - [Magic: The Gathering fans push volunteers out with alleged threats of violence](https://www.polygon.com/mtg-magic-the-gathering/458184/commander-rules-committee-steps-down)
+ - [The 11 Best Weapons In Dead Rising Deluxe Remaster, And Where To Find Them](https://kotaku.com/dead-rising-deluxe-remaster-best-weapons-guide-1851660916)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
