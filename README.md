@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Oak professor has been busy.](http://9gag.com/gag/ae9M8Ob)
- - ⏩ [What&#39;s the deal with this bald guy?](http://9gag.com/gag/aAyxArp)
- - 👉 [Lesson 1: Find a tall woman](http://9gag.com/gag/aXPx1Dz)<!-- MEMES:END -->
+ - 💣 [OurProphet](http://9gag.com/gag/axy1qdM)
+ - ⏩ [Intense and Unexpected Turbulence](http://9gag.com/gag/aND15Vv)
+ - 👉 [The nerve of this guy](http://9gag.com/gag/aLnjozW)<!-- MEMES:END -->
 
 ---
 
