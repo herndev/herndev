@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Raspberry Pi and Sony made an AI-powered camera module](https://www.theverge.com/2024/9/30/24258134/raspberry-pi-ai-camera-module-sony-price-availability)
- - [Antenna: Netflix cancellations spiked for a few days in late July 2024 after Reed Hastings endorsed Kamala Harris and announced a $7M super PAC donation &lpar;Lucas Shaw/Bloomberg&rpar;](http://www.techmeme.com/240930/p1#a240930p1)
- - [ChatGPT Plus could eventually cost almost $50 a month](https://www.androidauthority.com/openai-chatgpt-plus-price-increases-report-3486032/)<!-- TECH:END -->
+ - [Google&#39;s lawyers wrapped up their defense of the company in the US DOJ ad tech antitrust trial last week; a judge&#39;s ruling is expected in the coming months &lpar;New York Times&rpar;](http://www.techmeme.com/240930/p2#a240930p2)
+ - [Google Wallet can now automatically fetch your train tickets from Gmail](https://www.androidauthority.com/google-wallet-train-tickets-3486034/)
+ - [This potentially lifesaving Apple Watch feature just got approved in Canada](https://www.androidauthority.com/sleep-apnea-apple-watch-canada-3486039/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
