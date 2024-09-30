@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Leaked Google Pixel 9A renders reveal a visor-free look](https://www.theverge.com/2024/9/30/24258413/google-pixel-9a-render-image-leak-rumor)
- - [This front door can go from clear to opaque with a voice command](https://www.theverge.com/2024/9/30/24258344/smart-glass-door-feather-river-hubspace-home-depot)
- - [Reddit moderators must now submit a request to Reddit staff before changing a subreddit&#39;s public/private status, making sitewide mod-led protests much harder &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/240930/p15#a240930p15)<!-- TECH:END -->
+ - [California enacts an internet-connected car data privacy law to curb domestic violence, requiring carmakers to make it easier to submit restraining orders, more &lpar;Reuters&rpar;](http://www.techmeme.com/240930/p17#a240930p17)
+ - [New Song Search Quick Settings tile makes your phone almost as good as a Pixel at recognizing music](https://www.androidauthority.com/song-search-quick-setings-tile-3486171/)
+ - [Google’s working with Amtrak to make booking train travel easier](https://www.androidauthority.com/google-amtrak-integration-3486217/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
