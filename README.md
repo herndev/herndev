@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [TeamGroup PD20 mini external SSD review](https://www.pcgamer.com/hardware/ssds/teamgroup-pd20-mini-external-ssd-review)
- - [Today&#39;s Wordle answer for Monday, September 30](https://www.pcgamer.com/games/puzzle/wordle-answer-today-september-30-2024)
- - [Strategic robot carnage intensifies as autobattler Mechabellum hits its 1.0 release](https://www.pcgamer.com/games/strategy/strategic-robot-carnage-intensifies-as-autobattler-mechabellum-hits-its-1-0-release)<!-- GAME:END -->
+ - [Overwatch 2 players are banging their heads against a wall after finding out that Blizzard fumbled a Netflix adaptation](https://www.pcgamer.com/games/fps/overwatch-2-players-are-banging-their-heads-against-a-wall-after-finding-out-that-blizzard-fumbled-a-netflix-adaptation)
+ - [Final Fantasy 14: Dawntrail&#39;s first major patch comes mid-November: Alliance and &#39;Chaotic&#39; raids, allied society quests, and a scant few details on the MSQ](https://www.pcgamer.com/games/final-fantasy/final-fantasy-14-dawntrail-s-first-major-patch-comes-mid-november-alliance-and-chaotic-raids-allied-society-quests-and-a-scant-few-details-on-the-msq)
+ - [TeamGroup PD20 mini external SSD review](https://www.pcgamer.com/hardware/ssds/teamgroup-pd20-mini-external-ssd-review)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
