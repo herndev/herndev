@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [TeamGroup PD20 mini external SSD review](https://www.pcgamer.com/hardware/ssds/teamgroup-pd20-mini-external-ssd-review)
  - [Today&#39;s Wordle answer for Monday, September 30](https://www.pcgamer.com/games/puzzle/wordle-answer-today-september-30-2024)
- - [Strategic robot carnage intensifies as autobattler Mechabellum hits its 1.0 release](https://www.pcgamer.com/games/strategy/strategic-robot-carnage-intensifies-as-autobattler-mechabellum-hits-its-1-0-release)
- - [Monster Hunter fans are excited because a big farting ape is returning for Monster Hunter Wilds](https://www.pcgamer.com/games/rpg/monster-hunter-fans-are-excited-because-a-big-farting-ape-is-returning-for-monster-hunter-wilds)<!-- GAME:END -->
+ - [Strategic robot carnage intensifies as autobattler Mechabellum hits its 1.0 release](https://www.pcgamer.com/games/strategy/strategic-robot-carnage-intensifies-as-autobattler-mechabellum-hits-its-1-0-release)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
