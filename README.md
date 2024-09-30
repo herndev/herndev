@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Overwatch 2 players are banging their heads against a wall after finding out that Blizzard fumbled a Netflix adaptation](https://www.pcgamer.com/games/fps/overwatch-2-players-are-banging-their-heads-against-a-wall-after-finding-out-that-blizzard-fumbled-a-netflix-adaptation)
- - [Final Fantasy 14: Dawntrail&#39;s first major patch comes mid-November: Alliance and &#39;Chaotic&#39; raids, allied society quests, and a scant few details on the MSQ](https://www.pcgamer.com/games/final-fantasy/final-fantasy-14-dawntrail-s-first-major-patch-comes-mid-november-alliance-and-chaotic-raids-allied-society-quests-and-a-scant-few-details-on-the-msq)
- - [TeamGroup PD20 mini external SSD review](https://www.pcgamer.com/hardware/ssds/teamgroup-pd20-mini-external-ssd-review)<!-- GAME:END -->
+ - [Mirage Feathers is an anime-twist on a neglected Sega classic](https://www.polygon.com/impressions/457669/mirage-feathers)
+ - [Every Movie In The Batman Universe, Ranked From Worst To Best](https://kotaku.com/batman-best-keaton-nolan-pattinson-movies-1851660049)
+ - [Overwatch 2 players are banging their heads against a wall after finding out that Blizzard fumbled a Netflix adaptation](https://www.pcgamer.com/games/fps/overwatch-2-players-are-banging-their-heads-against-a-wall-after-finding-out-that-blizzard-fumbled-a-netflix-adaptation)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
