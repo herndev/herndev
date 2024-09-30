@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Hot deals on computer docking stations from Baseus and UGREEN](https://www.androidauthority.com/baseus-ugreen-docking-station-deal-3485809/)
- - [Android 15 updates have started hitting phones — just not yours](https://www.androidauthority.com/first-android-15-updates-3485855/)
- - [The US DOJ charges two Russians for operating $1B+ money laundering services for cybercriminals; one is accused of operating the Joker&#39;s Stash marketplace &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/240927/p24#a240927p24)<!-- TECH:END -->
+ - [Many popular songs have vanished from YouTube and YouTube Music: Here’s why](https://www.androidauthority.com/youtube-sesac-licensing-expired-3485969/)
+ - [Best Exercise Bikes for 2024](https://www.cnet.com/health/fitness/best-exercise-bike/#ftag=CAD590a51e)
+ - [Google Pixel AI vs Samsung Galaxy AI: Which suite offers more features?](https://www.androidauthority.com/google-pixel-ai-vs-samsung-galaxy-ai-3485965/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
