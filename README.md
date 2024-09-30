@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [In an AirBNB in northern France, my room has a second door that opens to this](http://9gag.com/gag/ae9M8Gm)
- - ⏩ [Intense and Unexpected Turbulence](http://9gag.com/gag/aND15Vv)
- - 👉 [Would?](http://9gag.com/gag/aRB3bK2)<!-- MEMES:END -->
+ - 💣 [Finally Germans are standing up against this nonsense](http://9gag.com/gag/aD2xKoO)
+ - ⏩ [A true professional](http://9gag.com/gag/adBKGyd)
+ - 👉 [Be like Anna Muzychuk](http://9gag.com/gag/a9ypg7K)<!-- MEMES:END -->
 
 ---
 
