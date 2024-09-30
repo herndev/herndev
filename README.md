@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [It&#39;s been years since the Elektra movie came out and she can still do the tricks](http://9gag.com/gag/aGyjQbX)
- - ⏩ [Sound that makes cats gag](http://9gag.com/gag/amo74dv)
- - 👉 [A new way to hire](http://9gag.com/gag/aoyNQgw)<!-- MEMES:END -->
+ - 💣 [Intense and Unexpected Turbulence](http://9gag.com/gag/aND15Vv)
+ - ⏩ [Do you pee ?](http://9gag.com/gag/a34KXo1)
+ - 👉 [Oak professor has been busy.](http://9gag.com/gag/ae9M8Ob)<!-- MEMES:END -->
 
 ---
 
