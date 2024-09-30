@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Man surprises blind girlfriend by proposing marriage in Braille](http://9gag.com/gag/aLnjEm5)
- - ⏩ [Learn the difference](http://9gag.com/gag/aMVj5gA)
+ - 💣 [Learn the difference](http://9gag.com/gag/aMVj5gA)
+ - ⏩ [Man surprises blind girlfriend by proposing marriage in Braille](http://9gag.com/gag/aLnjEm5)
  - 👉 [The good boy.](http://9gag.com/gag/axy1w12)<!-- MEMES:END -->
 
 ---
