@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best Standing Desks of 2024](https://www.cnet.com/news/best-standing-desk/#ftag=CAD590a51e)
  - [Many popular songs have vanished from YouTube and YouTube Music: Here’s why](https://www.androidauthority.com/youtube-sesac-licensing-expired-3485969/)
- - [Best Exercise Bikes for 2024](https://www.cnet.com/health/fitness/best-exercise-bike/#ftag=CAD590a51e)
- - [Google Pixel AI vs Samsung Galaxy AI: Which suite offers more features?](https://www.androidauthority.com/google-pixel-ai-vs-samsung-galaxy-ai-3485965/)<!-- TECH:END -->
+ - [Best Exercise Bikes for 2024](https://www.cnet.com/health/fitness/best-exercise-bike/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
