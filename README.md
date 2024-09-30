@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Oura says it will see annual sales double to roughly $500M this year; sources: it plans to debut a new, thinner fitness ring with better battery life in October &lpar;Bloomberg&rpar;](http://www.techmeme.com/240930/p20#a240930p20)
- - [Cybertruck Finally Gets Full Self-Driving &lpar;Supervised&rpar;](https://www.wired.com/story/cybertruck-finally-gets-full-self-driving-supervised/)
- - [The Echo Hub smart home controller is down to a new all-time low price](https://www.theverge.com/2024/9/30/24258304/echo-hub-usb-c-apple-pencil-deal-sale)<!-- TECH:END -->
+ - [The FCC announces a $31.5M settlement with T-Mobile over four data breaches, in 2021, 2022, and 2023, that compromised personal info of millions of US customers &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/240930/p21#a240930p21)
+ - [Check out every color of the Samsung Galaxy A16 5G and 4G](https://www.androidauthority.com/galaxy-a16-colors-revealed-3486258/)
+ - [Save $750 on the Narwal Freo Robot Vacuum and Mop](https://www.androidauthority.com/narwal-freo-robot-vacuum-and-mop-deal-3486176/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
