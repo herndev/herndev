@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [NBCU’s streaming chief isn’t worried about you canceling cable](https://www.theverge.com/24258301/matt-strauss-peacock-nbc-comcast-olympics-sports-direct-to-consumer-video-streaming)
- - [Tesla starts pushing Full Self-Driving access for some Cybertrucks](https://www.theverge.com/2024/9/30/24258232/tesla-cybertruck-fsd-early-access-v12-roll-out)
- - [Oasis won’t use Ticketmaster’s dynamic pricing for North America tour](https://www.theverge.com/2024/9/30/24258255/oasis-live-2025-us-tour-no-dynamic-pricing-ticketmaster)<!-- TECH:END -->
+ - [Apple to donate to aid relief efforts following Hurricane Helene aftermath](https://appleinsider.com/articles/24/09/30/apple-to-donate-to-aid-relief-efforts-following-hurricane-helene-aftermath?utm_medium=rss)
+ - [A massive outage has affected Verizon customers since around 10AM ET, according to reports on Downdetector from subscribers across the US &lpar;Chance Miller/9to5Mac&rpar;](http://www.techmeme.com/240930/p14#a240930p14)
+ - [Verizon wireless service is disrupted across a large area of the US](https://appleinsider.com/articles/24/09/30/verizon-wireless-service-is-disrupted-across-a-large-area-of-the-us?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
