@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Starfield: Shattered Space – How to Start, What Level You Should Be, the Latest Updates, and More](https://news.xbox.com/en-us/2024/09/30/starfield-shattered-space-how-to-start/)
- - [Key Blizzard developers apparently tried for years to get a new Starcraft or Warcraft RTS off the ground, but execs had &#39;no appetite&#39; for them](https://www.pcgamer.com/games/strategy/key-blizzard-developers-apparently-tried-for-years-to-get-a-new-starcraft-or-warcraft-rts-off-the-ground-but-execs-had-no-appetite-for-them)
- - [Death Stranding 2 Shows Off Wild Photo Shoot Mode And Teases Release Date](https://kotaku.com/death-stranding-2-release-date-trailer-tgs-2024-panel-1851660760)<!-- GAME:END -->
+ - [What You Need to Know for Diablo IV: Vessel of Hatred’s Launch](https://news.blizzard.com/diablo4/24140359/what-you-need-to-know-for-vessel-of-hatred-s-launch#new_tab)
+ - [Doom will run on a literal potato but apparently quantum computers still aren&#39;t powerful enough to run even this wireframe version natively](https://www.pcgamer.com/hardware/doom-will-run-on-a-literal-potato-but-apparently-quantum-computers-still-arent-powerful-enough-to-run-even-this-wireframe-version-natively)
+ - [All amiibo rewards and unlocks in Zelda: Echoes of Wisdom](https://www.polygon.com/zelda-echoes-wisdom-guides/453837/amiibo-rewards-unlocks)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
