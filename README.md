@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [FCC’s new 60-day phone unlocking policy isn’t everyone’s cup of tea](https://www.androidauthority.com/fcc-60-day-phone-unlocking-policy-survey-results-3486007/)
- - [Snapdragon 8 Gen 4 price leaks and its bad news for your next phone purchase](https://www.androidauthority.com/snapdragon-8-gen-4-dimensity-9400-prices-leak-3486015/)
- - [Today&#39;s NYT Mini Crossword Answers for Sept. 30](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-sept-30/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Raspberry Pi and Sony made an AI-powered camera module](https://www.theverge.com/2024/9/30/24258134/raspberry-pi-ai-camera-module-sony-price-availability)
+ - [Antenna: Netflix cancellations spiked for a few days in late July 2024 after Reed Hastings endorsed Kamala Harris and announced a $7M super PAC donation &lpar;Lucas Shaw/Bloomberg&rpar;](http://www.techmeme.com/240930/p1#a240930p1)
+ - [ChatGPT Plus could eventually cost almost $50 a month](https://www.androidauthority.com/openai-chatgpt-plus-price-increases-report-3486032/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
