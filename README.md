@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Learn the difference](http://9gag.com/gag/aMVj5gA)
- - ⏩ [Man surprises blind girlfriend by proposing marriage in Braille](http://9gag.com/gag/aLnjEm5)
- - 👉 [The good boy.](http://9gag.com/gag/axy1w12)<!-- MEMES:END -->
+ - 💣 [Why You Won&#39;t See Me at Condo Association Meetings](http://9gag.com/gag/a7oMxP2)
+ - ⏩ [Proud silly royalty](http://9gag.com/gag/azxXyYj)
+ - 👉 [Baby, baby oh...](http://9gag.com/gag/awyX9W4)<!-- MEMES:END -->
 
 ---
 
