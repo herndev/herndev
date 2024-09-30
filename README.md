@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [It be like that tho](http://9gag.com/gag/ae9MWLv)
- - ⏩ [I can&#39;t put my finger on it, but doesn&#39;t the new New Jersey State Police uniform remind you of something?](http://9gag.com/gag/aW419LZ)
- - 👉 [Love at first sight\u2026](http://9gag.com/gag/aQz3rqW)<!-- MEMES:END -->
+ - 💣 [Door Dash driver fined $500 and banned from the app after spitting in a Whitby family\u2019s order even after receiving a tip.](http://9gag.com/gag/aQz3bv7)
+ - ⏩ [You may now kiss the axe](http://9gag.com/gag/aAyxLXd)
+ - 👉 [Lesson 1: Find a tall woman](http://9gag.com/gag/aXPx1Dz)<!-- MEMES:END -->
 
 ---
 
