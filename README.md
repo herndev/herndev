@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Nintendo is filing for the patents it&#39;s suing Palworld with in the US as well, though some &lpar;non-final&rpar; rejections could complicate matters](https://www.pcgamer.com/gaming-industry/nintendo-is-filing-for-the-patents-it-s-suing-palworld-with-in-the-us-as-well-though-some-non-final-rejections-could-complicate-matters)
- - [Epic Fires Off Fresh Lawsuits Over What A Pain It Is To Download Fortnite](https://kotaku.com/epic-google-samsung-trial-fortnite-1851660601)
- - [Mirage Feathers is an anime-twist on a neglected Sega classic](https://www.polygon.com/impressions/457669/mirage-feathers)<!-- GAME:END -->
+ - [The Moo Deng frenzy has officially reached Final Fantasy 14, seemingly causing the price of its adorable hippo minion to skyrocket](https://www.pcgamer.com/games/final-fantasy/the-moo-deng-frenzy-has-officially-reached-final-fantasy-14-seemingly-causing-the-price-of-its-adorable-hippo-minion-to-skyrocket)
+ - [Pre-order Monster Hunter Wilds and save 18%](https://www.polygon.com/pre-order/457978/monster-hunter-wilds-deal-fanatical)
+ - [Russia gears up to ban Discord &#39;in the coming days&#39;](https://www.pcgamer.com/gaming-industry/russia-gears-up-to-ban-discord-in-the-coming-days)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
