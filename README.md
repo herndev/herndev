@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple to donate to aid relief efforts following Hurricane Helene aftermath](https://appleinsider.com/articles/24/09/30/apple-to-donate-to-aid-relief-efforts-following-hurricane-helene-aftermath?utm_medium=rss)
- - [A massive outage has affected Verizon customers since around 10AM ET, according to reports on Downdetector from subscribers across the US &lpar;Chance Miller/9to5Mac&rpar;](http://www.techmeme.com/240930/p14#a240930p14)
- - [Verizon wireless service is disrupted across a large area of the US](https://appleinsider.com/articles/24/09/30/verizon-wireless-service-is-disrupted-across-a-large-area-of-the-us?utm_medium=rss)<!-- TECH:END -->
+ - [Leaked Google Pixel 9A renders reveal a visor-free look](https://www.theverge.com/2024/9/30/24258413/google-pixel-9a-render-image-leak-rumor)
+ - [This front door can go from clear to opaque with a voice command](https://www.theverge.com/2024/9/30/24258344/smart-glass-door-feather-river-hubspace-home-depot)
+ - [Reddit moderators must now submit a request to Reddit staff before changing a subreddit&#39;s public/private status, making sitewide mod-led protests much harder &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/240930/p15#a240930p15)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
