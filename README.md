@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Another safety orientation video.](http://9gag.com/gag/ae9MzGq)
- - ⏩ [New merch gon drop, too.](http://9gag.com/gag/awyX2oy)
- - 👉 [That should be required by law](http://9gag.com/gag/aXPx3Kd)<!-- MEMES:END -->
+ - 💣 [White girls in a nutshell](http://9gag.com/gag/aE0xKBx)
+ - ⏩ [This guy shows how much his machines collect in laundrette in a month](http://9gag.com/gag/aLnjobV)
+ - 👉 [Titten saves life](http://9gag.com/gag/ae9MwKp)<!-- MEMES:END -->
 
 ---
 
