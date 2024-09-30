@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [A true professional](http://9gag.com/gag/adBKGyd)
- - ⏩ [He was an actual terminator who pretended to be an actor](http://9gag.com/gag/aYQgX72)
- - 👉 [It&#39;s been years since the Elektra movie came out and she can still do the tricks](http://9gag.com/gag/aGyjQbX)<!-- MEMES:END -->
+ - 💣 [It&#39;s been years since the Elektra movie came out and she can still do the tricks](http://9gag.com/gag/aGyjQbX)
+ - ⏩ [Sound that makes cats gag](http://9gag.com/gag/amo74dv)
+ - 👉 [A new way to hire](http://9gag.com/gag/aoyNQgw)<!-- MEMES:END -->
 
 ---
 
