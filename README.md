@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Cloud backup startup Eon, founded in January 2024, emerges from stealth with a Sequoia-led $20M seed, a $30M Series A, a $77M Series B, and a $750M valuation &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/241001/p12#a241001p12)
- - [Chromebooks are getting a new button dedicated to Google’s AI](https://www.theverge.com/2024/10/1/24259069/chromebook-quick-insert-ai-button-samsung-lenovo)
- - [How Google tried to unravel the DOJ’s ad tech case](https://www.theverge.com/2024/10/1/24258771/doj-google-ad-tech-antitrust-case-market-definition)<!-- TECH:END -->
+ - [PlayStation Network is back online following a lengthy outage](https://www.theverge.com/2024/9/30/24258989/ps5-ps4-playstation-network-down-outage-offline)
+ - [Hurricane Helene disrupts critical chip mining operations in North Carolina](https://www.theverge.com/2024/10/1/24259236/hurricane-helene-spruce-pine-quartz-mining-paused)
+ - [Google announces new Chromebook models with Samsung and Lenovo, and adds AI features to ChromeOS; Samsung&#39;s Galaxy Chromebook Plus gets a new Quick Insert key &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/241001/p13#a241001p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
