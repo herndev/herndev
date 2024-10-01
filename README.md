@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Motorola ThinkPhone 25 launched: A smaller ThinkPhone, but is it better?](https://www.androidauthority.com/motorola-thinkphone-25-3486476/)
- - [Bentley Continental GT Speed Hybrid 2025 Review: Prices, Specs, Availability](https://www.wired.com/review/review-bentley-continental-gt-speed-hybrid-2025/)
- - [eBay is off the hook for selling harmful products](https://www.theverge.com/2024/10/1/24259191/ebay-doj-harmful-polluting-products-lawsuit-dismissed)<!-- TECH:END -->
+ - [Two iPhone buyers conspired to rob and murder delivery man](https://appleinsider.com/articles/24/10/01/two-iphone-buyers-conspired-to-rob-and-murder-delivery-man?utm_medium=rss)
+ - [An unredacted New Mexico lawsuit shows Snap grappled internally with how to warn users of Snapchat sextortion risks without striking fear in users or parents &lpar;Jeff Horwitz/Wall Street Journal&rpar;](http://www.techmeme.com/241001/p10#a241001p10)
+ - [How streamers on Twitch and other services are moving further into talking politics, making the livestreaming platforms a focus for both presidential campaigns &lpar;New York Times&rpar;](http://www.techmeme.com/241001/p9#a241001p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
