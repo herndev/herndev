@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Coming Soon to Game Pass: Sifu, Inscryption, Mad Streets, and More](https://news.xbox.com/en-us/2024/10/01/xbox-game-pass-october-2024-wave-1/)
- - [The Halloween Countdown: 31 days of horror to watch](https://www.polygon.com/what-to-watch/452010/best-halloween-horror-movies-tv-watch-stream)
- - [AI bots are using a &#39;YOLO&#39; model to beat Captchas in just another way computers are better than you](https://www.pcgamer.com/software/ai/ai-bots-are-using-a-yolo-model-to-beat-captchas-in-just-another-way-computers-are-better-than-you)<!-- GAME:END -->
+ - [Like A Dragon: Yakuza Gets First Amazon Prime Trailer And It Looks Excellent](https://kotaku.com/like-a-dragon-yakuza-amazon-prime-tv-trailer-date-1851661705)
+ - [PS5&#39;s Best New Feature Overshadowed By Scourge Of Unblockable Ads [Update: It&#39;s Fixed]](https://kotaku.com/ps5-firmware-update-ads-welcome-hub-custom-widgets-1851661075)
+ - [Coming Soon to Game Pass: Sifu, Inscryption, Mad Streets, and More](https://news.xbox.com/en-us/2024/10/01/xbox-game-pass-october-2024-wave-1/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
