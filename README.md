@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [OPPO Find X8 Ultra wishlist: All the features I want to see](https://www.androidauthority.com/oppo-find-x8-ultra-3458722/)
- - [An interview with WhatsApp Product Director Alice Newton-Rex on end-to-end encryption, spotting misinformation, the UK&#39;s Online Safety Act, Telegram, and more &lpar;Cristina Criddle/Financial Times&rpar;](http://www.techmeme.com/241001/p4#a241001p4)
- - [Gemini Live is now available to all, no subscription needed](https://www.androidauthority.com/gemini-live-available-free-users-3486455/)<!-- TECH:END -->
+ - [A look at the debates over whether social media has fueled a teen suicide crisis, as mental health struggles have risen sharply among young Americans &lpar;Andrew Solomon/New Yorker&rpar;](http://www.techmeme.com/241001/p6#a241001p6)
+ - [PSN is back up and running after widespread outage &lpar;Updated&rpar;](https://www.androidauthority.com/playstation-network-down-3486442/)
+ - [An interview with SAP CEO Christian Klein on why regulating AI would harm EU competitiveness, spending &amp;euro;2B per year on AI, building the Joule chatbot, and more &lpar;Stephen Morris/Financial Times&rpar;](http://www.techmeme.com/241001/p5#a241001p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
