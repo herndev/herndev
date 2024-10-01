@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [OpenAI debuts a public beta of its Realtime API to quickly make speech-to-speech features, a way to use images to fine-tune GPT-4o uses via its API, and more &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/241001/p23#a241001p23)
- - [Third watchOS 11.1, tvOS 18.1, visionOS 2.1 betas arrive without iOS, iPadOS, macOS](https://appleinsider.com/articles/24/10/01/third-watchos-111-tvos-181-visionos-21-betas-arrive-without-ios-ipados-macos?utm_medium=rss)
- - [Instagram’s ‘best practices’ tell creators how they should post](https://www.theverge.com/2024/10/1/24259462/instagram-best-practices-business-profiles-tips-reach)<!-- TECH:END -->
+ - [Sleep Number’s newest smart bed aims to tackle night sweats](https://www.theverge.com/2024/10/1/24259440/sleep-number-climate-cool-smart-bed-price-features)
+ - [The best iPhones](https://www.theverge.com/23618862/best-iphone-camera-battery-screen-guide)
+ - [Sources say many OpenAI staff thought that o1 was not ready to be unveiled, and then-CTO Mira Murati was often stuck in the middle of arguments between teams &lpar;Fortune&rpar;](http://www.techmeme.com/241001/p25#a241001p25)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
