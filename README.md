@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Off The Grid Playtest is Available Today!](https://news.xbox.com/en-us/2024/10/01/off-the-grid-playtest-is-available-today/)
- - [For The Love Of God, Play Yakuza 0 Before The Amazon Show Drops](https://kotaku.com/yakuza-0-kiwami-like-a-dragon-amazon-show-1851662354)
- - [The best early October Prime Day deals](https://www.polygon.com/amazon-prime-day/458471/best-early-deals-board-games-toys)<!-- GAME:END -->
+ - [Vtuber Ironmouse breaks Twitch subscriber record, surpassing 320,000 paying viewers](https://www.pcgamer.com/hardware/streaming/vtuber-ironmouse-breaks-twitch-subscriber-record-surpassing-320000-paying-viewers)
+ - [How to unlock all Dampé’s automatons in Zelda: Echoes of Wisdom](https://www.polygon.com/zelda-echoes-wisdom-guides/457398/automatons-all-how-to-get)
+ - [Spirit Halloween Calls SNL &#39;Irrelevant&#39; And &#39;Dead&#39; After Recent Skit](https://kotaku.com/spirit-halloween-nbc-snl-saturday-night-live-skit-dead-1851662401)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
