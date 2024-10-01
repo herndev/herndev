@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [YC-backed PearAI gets criticism for cloning another AI coding editor covered under the Apache license and applying its own made-up closed license on it &lpar;Julie Bort/TechCrunch&rpar;](http://www.techmeme.com/240930/p32#a240930p32)
- - [California Governor Vetoes Far-Reaching AI Safety Bill](https://www.cnet.com/tech/services-and-software/california-governor-vetoes-far-reaching-ai-safety-bill/#ftag=CAD590a51e)
- - [PlayStation Network is down, knocking PS5 and PS4 gamers offline](https://www.theverge.com/2024/9/30/24258989/ps5-ps4-playstation-network-down-outage-offline)<!-- TECH:END -->
+ - [Viture Pro XR Glasses review: A good step for AR/VR](https://appleinsider.com/articles/24/10/01/viture-pro-xr-glasses-review-a-good-step-for-arvr?utm_medium=rss)
+ - [The biggest Galaxy Ring competitor is just around the corner](https://www.androidauthority.com/oura-ring-4-launch-3486422/)
+ - [YC-backed PearAI criticized for forking another AI code editor covered under the Apache license and changing the license to its own made-up closed license &lpar;Julie Bort/TechCrunch&rpar;](http://www.techmeme.com/240930/p32#a240930p32)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
