@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Minutes After Calling Netanyahu &#39;Psychopath&#39;, Journalist Breaks Down In Live Interview Upon Hearing About Nasrallah&#39;s Death](http://9gag.com/gag/azxXpXb)
- - ⏩ [5 years left to get the seks](http://9gag.com/gag/aW41zo4)
- - 👉 [Whattt is Hygene](http://9gag.com/gag/a2vonYp)<!-- MEMES:END -->
+ - 💣 [Empowered working woman, she doesn&#39;t need a man.](http://9gag.com/gag/aYQgXrx)
+ - ⏩ [In an AirBNB in northern France, my room has a second door that opens to this](http://9gag.com/gag/ae9M8Gm)
+ - 👉 [5 years left to get the seks](http://9gag.com/gag/aW41zo4)<!-- MEMES:END -->
 
 ---
 
