@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at the debates over whether social media has fueled a teen suicide crisis, as mental health struggles have risen sharply among young Americans &lpar;Andrew Solomon/New Yorker&rpar;](http://www.techmeme.com/241001/p6#a241001p6)
- - [PSN is back up and running after widespread outage &lpar;Updated&rpar;](https://www.androidauthority.com/playstation-network-down-3486442/)
- - [An interview with SAP CEO Christian Klein on why regulating AI would harm EU competitiveness, spending &amp;euro;2B per year on AI, building the Joule chatbot, and more &lpar;Stephen Morris/Financial Times&rpar;](http://www.techmeme.com/241001/p5#a241001p5)<!-- TECH:END -->
+ - [Motorola ThinkPhone 25 launched: A smaller ThinkPhone, but is it better?](https://www.androidauthority.com/motorola-thinkphone-25-3486476/)
+ - [Bentley Continental GT Speed Hybrid 2025 Review: Prices, Specs, Availability](https://www.wired.com/review/review-bentley-continental-gt-speed-hybrid-2025/)
+ - [eBay is off the hook for selling harmful products](https://www.theverge.com/2024/10/1/24259191/ebay-doj-harmful-polluting-products-lawsuit-dismissed)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
