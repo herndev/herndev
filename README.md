@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Which career has the most women?](http://9gag.com/gag/aD2xe9B)
- - ⏩ [Happily Never After](http://9gag.com/gag/aqy7oAY)
- - 👉 [Women](http://9gag.com/gag/a2vopDp)<!-- MEMES:END -->
+ - 💣 [Would?](http://9gag.com/gag/aRB3bK2)
+ - ⏩ [Permission to be horn](http://9gag.com/gag/aByxpxN)
+ - 👉 [Brazilian engineering and construction at its finest](http://9gag.com/gag/a5QoYzL)<!-- MEMES:END -->
 
 ---
 
