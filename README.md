@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Like A Dragon: Yakuza Gets First Amazon Prime Trailer And It Looks Excellent](https://kotaku.com/like-a-dragon-yakuza-amazon-prime-tv-trailer-date-1851661705)
- - [PS5&#39;s Best New Feature Overshadowed By Scourge Of Unblockable Ads [Update: It&#39;s Fixed]](https://kotaku.com/ps5-firmware-update-ads-welcome-hub-custom-widgets-1851661075)
- - [Coming Soon to Game Pass: Sifu, Inscryption, Mad Streets, and More](https://news.xbox.com/en-us/2024/10/01/xbox-game-pass-october-2024-wave-1/)<!-- GAME:END -->
+ - [Now That You Have More Time, Catch Up On The Latest Assassin’s Creed For Cheap](https://kotaku.com/assassins-creed-mirage-xbox-one-series-shadows-sale-1851661813)
+ - [WoTC forced to take over popular Magic: The Gathering competitive format after community tantrum over card bans involves &#39;credible threats of physical assault&#39;](https://www.pcgamer.com/games/card-games/wotc-forced-to-take-over-popular-magic-the-gathering-competitive-format-after-community-tantrum-threats-and-outrage-over-card-bans)
+ - [The really simple solution to AMD&#39;s collapsing gaming GPU market share is lower prices from launch](https://www.pcgamer.com/hardware/graphics-cards/the-really-simple-solution-to-amds-collapsing-gaming-gpu-market-share-is-lower-prices-from-launch)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
