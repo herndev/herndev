@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Destiny 2 is adding new maps and factions to the superb Onslaught mode next week, but Bungie confirms no new &#39;shiny&#39; weapons](https://www.pcgamer.com/games/fps/destiny-2-is-adding-new-maps-and-factions-to-the-superb-onslaught-mode-next-week-but-bungie-confirms-no-new-shiny-weapons)
- - [Robert Englund Says He&#39;s Too Old To Play Freddy Krueger Again](https://kotaku.com/freddy-krueger-englund-nightmare-elm-street-sequel-1851662572)
- - [Get The Original Resident Evil Trilogy For Just $25](https://kotaku.com/resident-evil-2-3-original-trilogy-bundle-gog-1851662547)<!-- GAME:END -->
+ - [The Valheim board game smashes crowdfunding goals on first day](https://www.polygon.com/gaming/459047/valheim-board-game-crowdfunder-gamefound)
+ - [Nintendo Switch emulator Ryujinx taken offline](https://www.polygon.com/gaming/458905/nintendo-switch-emulator-ryujinx-offline)
+ - [Switch emulator Ryujinx goes offline after creator gets an offer from Nintendo they can&#39;t refuse](https://www.pcgamer.com/gaming-industry/switch-emulator-ryujinx-goes-offline-after-creator-gets-an-offer-from-nintendo-they-cant-refuse)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
