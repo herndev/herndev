@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Minutes After Calling Netanyahu &#39;Psychopath&#39;, Journalist Breaks Down In Live Interview Upon Hearing About Nasrallah&#39;s Death](http://9gag.com/gag/azxXpXb)
- - ⏩ [Empowered working woman, she doesn&#39;t need a man.](http://9gag.com/gag/aYQgXrx)
- - 👉 [Another one. Injured 31 victims, including 8 children.](http://9gag.com/gag/ae9MBVj)<!-- MEMES:END -->
+ - 💣 [Any Germans here? Of course there are.](http://9gag.com/gag/axy1X1b)
+ - ⏩ [Spooky scary skeletons send shivers down your spine](http://9gag.com/gag/abAM97L)
+ - 👉 [Good boy. Badass boy.](http://9gag.com/gag/aXPx6KV)<!-- MEMES:END -->
 
 ---
 
