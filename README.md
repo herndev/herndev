@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Would?](http://9gag.com/gag/aRB3bK2)
- - ⏩ [Permission to be horn](http://9gag.com/gag/aByxpxN)
- - 👉 [Brazilian engineering and construction at its finest](http://9gag.com/gag/a5QoYzL)<!-- MEMES:END -->
+ - 💣 [Brazilian engineering and construction at its finest](http://9gag.com/gag/a5QoYzL)
+ - ⏩ [The last part of Fast &amp; furious](http://9gag.com/gag/aPAjEyQ)
+ - 👉 [Whattt is Hygene](http://9gag.com/gag/a2vonYp)<!-- MEMES:END -->
 
 ---
 
