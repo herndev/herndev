@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [We&#39;re All Doomed.........................](http://9gag.com/gag/aByx7LD)
- - ⏩ [Abundance mindset](http://9gag.com/gag/a7oMzrx)
+ - 💣 [Abundance mindset](http://9gag.com/gag/a7oMzrx)
+ - ⏩ [We&#39;re All Doomed.........................](http://9gag.com/gag/aByx7LD)
  - 👉 [Do you pee ?](http://9gag.com/gag/a34KXo1)<!-- MEMES:END -->
 
 ---
