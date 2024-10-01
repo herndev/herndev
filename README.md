@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [As the US and allies try to sanction Evil Corp., the UK NCA says the ransomware gang conducted cyberattacks and espionage ops on NATO allies on Kremlin orders &lpar;Ryan Gallagher/Bloomberg&rpar;](http://www.techmeme.com/241001/p21#a241001p21)
- - [You can keep the door closed on Whirlpool’s new self-drying washers](https://www.theverge.com/2024/10/1/24259346/whirlpool-washing-machine-freshflow-vent)
- - [Microsoft&#39;s new Windows 11 update adds generative AI-based fill and erase options to Paint and up to 8x picture resolution upscaling to Photos, for Copilot+ PCs &lpar;Devindra Hardawar/Engadget&rpar;](http://www.techmeme.com/241001/p20#a241001p20)<!-- TECH:END -->
+ - [We tested six smart rings, and there’s a clear winner](https://www.theverge.com/2024/10/1/24259284/oura-ring-samsung-galaxy-ring-ultrahuman-ring-air-ringconn-circular-ring-evie-ring-review-wearables)
+ - [Epic debuts a program to reduce the royalty rate for games built with Unreal Engine from 5% to 3.5% if they launch on the Epic Game Store, starting in 2025 &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/241001/p22#a241001p22)
+ - [Port workers along East and Gulf Coasts go on strike](https://www.theverge.com/2024/10/1/24259395/port-workers-ila-east-gulf-coast-strike-automation)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
