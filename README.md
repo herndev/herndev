@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [All smoothie recipes list and ingredient locations in Zelda: Echoes of Wisdom](https://www.polygon.com/zelda-echoes-wisdom-guides/455762/smoothie-recipes-all-list-ingredients-where-to-find)
- - [Zelda: Echoes of Wisdom walkthrough for the main story, best dungeon order](https://www.polygon.com/zelda-echoes-wisdom-guides/452120/main-story-walkthrough-best-order-eow)
- - [How to get the Gerudo Sanctum chest behind the wall in Zelda: Echoes of Wisdom](https://www.polygon.com/zelda-echoes-wisdom-guides/458305/gerudo-sanctum-chest-behind-the-wall-2f)<!-- GAME:END -->
+ - [Every movie and show coming to Netflix in October](https://www.polygon.com/entertainment/458016/ew-netflix-october-2024-movies-tv-to-watch)
+ - [Is the Daily PokéCoin Bounty Part 2 ticket worth it in Pokémon Go?](https://www.polygon.com/pokemon-go-guide/446377/daily-pokecoin-bounty-ticket-worth-it-value-research)
+ - [All smoothie recipes list and ingredient locations in Zelda: Echoes of Wisdom](https://www.polygon.com/zelda-echoes-wisdom-guides/455762/smoothie-recipes-all-list-ingredients-where-to-find)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
