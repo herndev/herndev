@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Who&#39;s at fault here?](http://9gag.com/gag/a9ypgED)
- - ⏩ [Permission to be horn](http://9gag.com/gag/aByxpxN)
- - 👉 [Intense and Unexpected Turbulence](http://9gag.com/gag/aND15Vv)<!-- MEMES:END -->
+ - 💣 [Alpha male](http://9gag.com/gag/aYQg3g0)
+ - ⏩ [Intense and Unexpected Turbulence](http://9gag.com/gag/aND15Vv)
+ - 👉 [Women](http://9gag.com/gag/a2vopDp)<!-- MEMES:END -->
 
 ---
 
