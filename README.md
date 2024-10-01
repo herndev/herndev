@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [We tested six smart rings, and there’s a clear winner](https://www.theverge.com/2024/10/1/24259284/oura-ring-samsung-galaxy-ring-ultrahuman-ring-air-ringconn-circular-ring-evie-ring-review-wearables)
- - [Epic debuts a program to reduce the royalty rate for games built with Unreal Engine from 5% to 3.5% if they launch on the Epic Game Store, starting in 2025 &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/241001/p22#a241001p22)
- - [Port workers along East and Gulf Coasts go on strike](https://www.theverge.com/2024/10/1/24259395/port-workers-ila-east-gulf-coast-strike-automation)<!-- TECH:END -->
+ - [OpenAI debuts a public beta of its Realtime API to quickly make speech-to-speech features, a way to use images to fine-tune GPT-4o uses via its API, and more &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/241001/p23#a241001p23)
+ - [Third watchOS 11.1, tvOS 18.1, visionOS 2.1 betas arrive without iOS, iPadOS, macOS](https://appleinsider.com/articles/24/10/01/third-watchos-111-tvos-181-visionos-21-betas-arrive-without-ios-ipados-macos?utm_medium=rss)
+ - [Instagram’s ‘best practices’ tell creators how they should post](https://www.theverge.com/2024/10/1/24259462/instagram-best-practices-business-profiles-tips-reach)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
