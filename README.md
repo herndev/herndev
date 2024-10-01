@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Gladiator 2 release date: Will it land on streaming services?](https://www.androidauthority.com/gladiator-2-release-date-streaming-3486373/)
- - [Dyson Promo Code: 20% Off October 2024 | WIRED](https://www.wired.com/story/dyson-cordless-vacuum-promo-code/)
- - [Interested in free Becky G or Xavi tickets? Verizon has your back](https://www.androidauthority.com/verizon-access-concert-series-3486678/)<!-- TECH:END -->
+ - [Adobe announces Elements 2025 for Photoshop &amp; Premiere](https://appleinsider.com/articles/24/10/01/adobe-announces-elements-2025-for-photoshop-premiere?utm_medium=rss)
+ - [This old Android phone is living its best life listening to San Francisco from the top of a pole](https://www.androidauthority.com/bop-spotter-3486715/)
+ - [Open-source Nintendo Switch emulator Ryujinx has been removed from GitHub, and its team has reportedly ceased development after Nintendo contacted its creator &lpar;Kyle Orland/Ars Technica&rpar;](http://www.techmeme.com/241001/p33#a241001p33)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
