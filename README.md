@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Minutes After Calling Netanyahu &#39;Psychopath&#39;, Journalist Breaks Down In Live Interview Upon Hearing About Nasrallah&#39;s Death](http://9gag.com/gag/azxXpXb)
- - ⏩ [Brazilian engineering and construction at its finest](http://9gag.com/gag/a5QoYzL)
- - 👉 [Uprooting a tree using a tire and physics](http://9gag.com/gag/amo7Zv2)<!-- MEMES:END -->
+ - 💣 [A true professional](http://9gag.com/gag/adBKGyd)
+ - ⏩ [Be like Anna Muzychuk](http://9gag.com/gag/a9ypg7K)
+ - 👉 [She had ONE ficking job!](http://9gag.com/gag/arygQL6)<!-- MEMES:END -->
 
 ---
 
