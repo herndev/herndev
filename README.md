@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone 16 A18 processor isn&#39;t a &#39;binned&#39; A18 Pro](https://appleinsider.com/articles/24/10/01/iphone-16-a18-processor-isnt-a-binned-a18-pro?utm_medium=rss)
- - [The UK Has No Coal-Fired Power Plants for the First Time in 142 Years](https://www.wired.com/story/uk-no-coal-fired-power-plants-first-time-in-142-years/)
- - [Anthropic hires OpenAI co-founder Durk Kingma, who spent years as a doctoral fellow at Google before joining OpenAI&#39;s founding team as a research scientist &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/241001/p28#a241001p28)<!-- TECH:END -->
+ - [The best fitness trackers to buy right now](https://www.theverge.com/22985108/best-fitness-tracker)
+ - [Nvidia’s all-in-one app will replace GeForce Experience later this year](https://www.theverge.com/2024/10/1/24259664/nvidia-app-beta-replace-geforce-experience-control-panel)
+ - [23andMe Is Sinking Fast. Can the Company Survive?](https://www.wired.com/story/is-23andme-dead-at-home-genetic-testing-anne-wojcicki/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
