@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Brazilian engineering and construction at its finest](http://9gag.com/gag/a5QoYzL)
- - ⏩ [The last part of Fast &amp; furious](http://9gag.com/gag/aPAjEyQ)
- - 👉 [Whattt is Hygene](http://9gag.com/gag/a2vonYp)<!-- MEMES:END -->
+ - 💣 [We&#39;re All Doomed.........................](http://9gag.com/gag/aByx7LD)
+ - ⏩ [Abundance mindset](http://9gag.com/gag/a7oMzrx)
+ - 👉 [Do you pee ?](http://9gag.com/gag/a34KXo1)<!-- MEMES:END -->
 
 ---
 
