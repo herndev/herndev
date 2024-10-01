@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Alpha male](http://9gag.com/gag/aYQg3g0)
- - ⏩ [Intense and Unexpected Turbulence](http://9gag.com/gag/aND15Vv)
- - 👉 [Women](http://9gag.com/gag/a2vopDp)<!-- MEMES:END -->
+ - 💣 [From an interview by CNN](http://9gag.com/gag/azxXn8j)
+ - ⏩ [Be like Anna Muzychuk](http://9gag.com/gag/a9ypg7K)
+ - 👉 [Genius moves](http://9gag.com/gag/a87oR2O)<!-- MEMES:END -->
 
 ---
 
