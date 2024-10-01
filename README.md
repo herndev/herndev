@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Vtuber Ironmouse breaks Twitch subscriber record, surpassing 320,000 paying viewers](https://www.pcgamer.com/hardware/streaming/vtuber-ironmouse-breaks-twitch-subscriber-record-surpassing-320000-paying-viewers)
- - [How to unlock all Dampé’s automatons in Zelda: Echoes of Wisdom](https://www.polygon.com/zelda-echoes-wisdom-guides/457398/automatons-all-how-to-get)
- - [Spirit Halloween Calls SNL &#39;Irrelevant&#39; And &#39;Dead&#39; After Recent Skit](https://kotaku.com/spirit-halloween-nbc-snl-saturday-night-live-skit-dead-1851662401)<!-- GAME:END -->
+ - [Destiny 2 is adding new maps and factions to the superb Onslaught mode next week, but Bungie confirms no new &#39;shiny&#39; weapons](https://www.pcgamer.com/games/fps/destiny-2-is-adding-new-maps-and-factions-to-the-superb-onslaught-mode-next-week-but-bungie-confirms-no-new-shiny-weapons)
+ - [Robert Englund Says He&#39;s Too Old To Play Freddy Krueger Again](https://kotaku.com/freddy-krueger-englund-nightmare-elm-street-sequel-1851662572)
+ - [Get The Original Resident Evil Trilogy For Just $25](https://kotaku.com/resident-evil-2-3-original-trilogy-bundle-gog-1851662547)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
