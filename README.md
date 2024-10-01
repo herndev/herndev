@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [My Favorite Anime: Studio Ghibli animator Akihiko Yamatsura on the anime that changed his life](https://www.polygon.com/anime/458153/studio-ghibli-miyazaki-yamashita-lupin-3rd-favorite)
- - [Somebody made the video game equivalent of It Follows and it looks awesome](https://www.polygon.com/horror/458703/crowded-followed-survival-horror-game-it-follows)
- - [Extremely Chill Spray Paint Simulator Wants To Be Your Next Power Wash-Style Obsession](https://kotaku.com/spray-paint-simulator-preview-power-wash-1851662224)<!-- GAME:END -->
+ - [Off The Grid Playtest is Available Today!](https://news.xbox.com/en-us/2024/10/01/off-the-grid-playtest-is-available-today/)
+ - [For The Love Of God, Play Yakuza 0 Before The Amazon Show Drops](https://kotaku.com/yakuza-0-kiwami-like-a-dragon-amazon-show-1851662354)
+ - [The best early October Prime Day deals](https://www.polygon.com/amazon-prime-day/458471/best-early-deals-board-games-toys)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
