@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best fitness trackers to buy right now](https://www.theverge.com/22985108/best-fitness-tracker)
- - [Nvidia’s all-in-one app will replace GeForce Experience later this year](https://www.theverge.com/2024/10/1/24259664/nvidia-app-beta-replace-geforce-experience-control-panel)
- - [23andMe Is Sinking Fast. Can the Company Survive?](https://www.wired.com/story/is-23andme-dead-at-home-genetic-testing-anne-wojcicki/)<!-- TECH:END -->
+ - [Gladiator 2 release date: Will it land on streaming services?](https://www.androidauthority.com/gladiator-2-release-date-streaming-3486373/)
+ - [Dyson Promo Code: 20% Off October 2024 | WIRED](https://www.wired.com/story/dyson-cordless-vacuum-promo-code/)
+ - [Interested in free Becky G or Xavi tickets? Verizon has your back](https://www.androidauthority.com/verizon-access-concert-series-3486678/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
