@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Whattt is Hygene](http://9gag.com/gag/a2vonYp)
- - ⏩ [Which career has the most women?](http://9gag.com/gag/aD2xe9B)
- - 👉 [Apple thrown from top of oil rig](http://9gag.com/gag/an7MP4b)<!-- MEMES:END -->
+ - ⏩ [Empowered working woman, she doesn&#39;t need a man.](http://9gag.com/gag/aYQgXrx)
+ - 👉 [Happily Never After](http://9gag.com/gag/aqy7oAY)<!-- MEMES:END -->
 
 ---
 
