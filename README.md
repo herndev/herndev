@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Parents can now set Fortnite time limits](https://www.theverge.com/2024/10/1/24256104/fortnite-parental-control-time-limits)
- - [Nationwide Verizon outage restored, but not explained](https://appleinsider.com/articles/24/10/01/nationwide-verizon-outage-restored-but-not-explained?utm_medium=rss)
- - [Hurricane Helene Will Send Shockwaves Through the Semiconductor Industry](https://www.wired.com/story/hurricane-helene-shockwaves-semiconductor-industry-microchips-spruce-pine-north-carolina-sand-high-quality-quartz/)<!-- TECH:END -->
+ - [Cloud backup startup Eon, founded in January 2024, emerges from stealth with a Sequoia-led $20M seed, a $30M Series A, a $77M Series B, and a $750M valuation &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/241001/p12#a241001p12)
+ - [Chromebooks are getting a new button dedicated to Google’s AI](https://www.theverge.com/2024/10/1/24259069/chromebook-quick-insert-ai-button-samsung-lenovo)
+ - [How Google tried to unravel the DOJ’s ad tech case](https://www.theverge.com/2024/10/1/24258771/doj-google-ad-tech-antitrust-case-market-definition)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
