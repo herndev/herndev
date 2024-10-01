@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [PlayStation Network is back online following a lengthy outage](https://www.theverge.com/2024/9/30/24258989/ps5-ps4-playstation-network-down-outage-offline)
- - [Hurricane Helene disrupts critical chip mining operations in North Carolina](https://www.theverge.com/2024/10/1/24259236/hurricane-helene-spruce-pine-quartz-mining-paused)
- - [Google announces new Chromebook models with Samsung and Lenovo, and adds AI features to ChromeOS; Samsung&#39;s Galaxy Chromebook Plus gets a new Quick Insert key &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/241001/p13#a241001p13)<!-- TECH:END -->
+ - [Microsoft begins rolling out Bing Generative Search, its answer to Google&#39;s AI Overviews, to users in the US &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/241001/p18#a241001p18)
+ - [Microsoft is discontinuing HoloLens 2, with no replacement, and will only push &quot;updates to address critical security issues and software regressions&quot; until 2028 &lpar;David Heaney/UploadVR&rpar;](http://www.techmeme.com/241001/p17#a241001p17)
+ - [Pebblebee’s trackers now work on Apple’s or Google’s networks](https://www.theverge.com/2024/10/1/24259262/pebblebee-tracker-universal-apple-find-my-device-google-android)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
