@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Sorry guys, not sponsoring your shit...](http://9gag.com/gag/aW415K2)
- - ⏩ [Who&#39;s at fault here?](http://9gag.com/gag/a9ypgED)
- - 👉 [Apple thrown from top of oil rig](http://9gag.com/gag/an7MP4b)<!-- MEMES:END -->
+ - 💣 [Who&#39;s at fault here?](http://9gag.com/gag/a9ypgED)
+ - ⏩ [Permission to be horn](http://9gag.com/gag/aByxpxN)
+ - 👉 [Intense and Unexpected Turbulence](http://9gag.com/gag/aND15Vv)<!-- MEMES:END -->
 
 ---
 
