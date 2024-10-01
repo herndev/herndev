@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Do you pee ?](http://9gag.com/gag/a34KXo1)
- - ⏩ [6 feet](http://9gag.com/gag/aLnjZ8A)
- - 👉 [How to take a joke](http://9gag.com/gag/a2vo32O)<!-- MEMES:END -->
+ - 💣 [Another one. Injured 31 victims, including 8 children.](http://9gag.com/gag/ae9MBVj)
+ - ⏩ [Smooooothhhh](http://9gag.com/gag/aO8rLny)
+ - 👉 [Brazilian engineering and construction at its finest](http://9gag.com/gag/a5QoYzL)<!-- MEMES:END -->
 
 ---
 
