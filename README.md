@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Finally, an online game shutting down the right way: Islands of Insight will close servers next month and &#39;permanently modify the game to be offline-only&#39; so the promising puzzler can live on](https://www.pcgamer.com/games/puzzle/finally-an-online-game-shutting-down-the-right-way-islands-of-insights-will-close-servers-next-month-and-permanently-modify-the-game-to-be-offline-only-so-the-promising-puzzler-can-live-on)
  - [Ironmouse is now the most subscribed-to channel on Twitch ever](https://www.polygon.com/twitch/458345/ironmouse-breaks-subs-record-twitch-subathon)
- - [Like a Dragon: Yakuza&#39;s first trailer is grim, violent, stylish, and has absolutely no karaoke whatsoever](https://www.pcgamer.com/movies-tv/like-a-dragon-yakuzas-first-trailer-is-grim-violent-stylish-and-has-absolutely-no-karaoke-whatsoever)
- - [Activision said &#39;no&#39; to Skyrim modders 3 years into remaking a semi-obscure vampire RPG it published a lifetime ago, so now those modders are reworking it into a new story](https://www.pcgamer.com/games/rpg/activision-said-no-to-skyrim-modders-3-years-into-remaking-a-semi-obscure-vampire-rpg-it-published-a-lifetime-ago-so-now-those-modders-are-reworking-it-into-a-new-story)<!-- GAME:END -->
+ - [Like a Dragon: Yakuza&#39;s first trailer is grim, violent, stylish, and has absolutely no karaoke whatsoever](https://www.pcgamer.com/movies-tv/like-a-dragon-yakuzas-first-trailer-is-grim-violent-stylish-and-has-absolutely-no-karaoke-whatsoever)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
