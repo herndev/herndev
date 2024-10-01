@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Monster Hunter will get its own Fender guitar in 2025, joining the hallowed company of Kurt Cobain, Jimi Hendrix and Yngwie Malmsteen](https://www.pcgamer.com/games/rpg/monster-hunter-will-get-its-own-fender-guitar-in-2025-joining-the-hallowed-company-of-kurt-cobain-jimi-hendrix-and-yngwie-malmsteen)
- - [Can Pidove be shiny in Pokémon Go?](https://www.polygon.com/pokemon-go/458030/can-pidove-be-shiny-tranquill-unfezant)
- - [Today&#39;s Wordle answer for Tuesday, October 1](https://www.pcgamer.com/games/puzzle/wordle-answer-today-october-1-2024)<!-- GAME:END -->
+ - [All smoothie recipes list and ingredient locations in Zelda: Echoes of Wisdom](https://www.polygon.com/zelda-echoes-wisdom-guides/455762/smoothie-recipes-all-list-ingredients-where-to-find)
+ - [Zelda: Echoes of Wisdom walkthrough for the main story, best dungeon order](https://www.polygon.com/zelda-echoes-wisdom-guides/452120/main-story-walkthrough-best-order-eow)
+ - [How to get the Gerudo Sanctum chest behind the wall in Zelda: Echoes of Wisdom](https://www.polygon.com/zelda-echoes-wisdom-guides/458305/gerudo-sanctum-chest-behind-the-wall-2f)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
