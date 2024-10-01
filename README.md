@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [FCC&#39;s connectivity data in counties affected by Hurricane Helene: as of Sept. 30, 370 of North Carolina&#39;s 1,452 cell sites are out because of a lack of power &lpar;Kevin Collier/NBC News&rpar;](http://www.techmeme.com/240930/p33#a240930p33)
  - [Viture Pro XR Glasses review: A good step for AR/VR](https://appleinsider.com/articles/24/10/01/viture-pro-xr-glasses-review-a-good-step-for-arvr?utm_medium=rss)
- - [The biggest Galaxy Ring competitor is just around the corner](https://www.androidauthority.com/oura-ring-4-launch-3486422/)
- - [YC-backed PearAI criticized for forking another AI code editor covered under the Apache license and changing the license to its own made-up closed license &lpar;Julie Bort/TechCrunch&rpar;](http://www.techmeme.com/240930/p32#a240930p32)<!-- TECH:END -->
+ - [Today&#39;s NYT Strands Hints, Answers and Help for Oct. 1, #212](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-oct-1-212/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
