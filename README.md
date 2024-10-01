@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Abundance mindset](http://9gag.com/gag/a7oMzrx)
- - ⏩ [We&#39;re All Doomed.........................](http://9gag.com/gag/aByx7LD)
- - 👉 [Do you pee ?](http://9gag.com/gag/a34KXo1)<!-- MEMES:END -->
+ - 💣 [Empowered working woman, she doesn&#39;t need a man.](http://9gag.com/gag/aYQgXrx)
+ - ⏩ [In an AirBNB in northern France, my room has a second door that opens to this](http://9gag.com/gag/ae9M8Gm)
+ - 👉 [Neat trick](http://9gag.com/gag/aByxe21)<!-- MEMES:END -->
 
 ---
 
