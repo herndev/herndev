@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [A true professional](http://9gag.com/gag/adBKGyd)
- - ⏩ [Be like Anna Muzychuk](http://9gag.com/gag/a9ypg7K)
- - 👉 [She had ONE ficking job!](http://9gag.com/gag/arygQL6)<!-- MEMES:END -->
+ - 💣 [Sorry guys, not sponsoring your shit...](http://9gag.com/gag/aW415K2)
+ - ⏩ [Who&#39;s at fault here?](http://9gag.com/gag/a9ypgED)
+ - 👉 [Apple thrown from top of oil rig](http://9gag.com/gag/an7MP4b)<!-- MEMES:END -->
 
 ---
 
