@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Galaxy S25 Ultra doesn’t look like it will dig into your palm](https://www.androidauthority.com/samsung-galaxy-s25-ultra-case-dummy-leaks-3486436/)
- - [In the past year, one researcher reported vulnerabilities in 19 commercial services used by hundreds of courts, state agencies, and police departments in the US &lpar;Dan Goodin/Ars Technica&rpar;](http://www.techmeme.com/241001/p2#a241001p2)
- - [Heads up, gamers: PSN is experiencing a widespread outage right now!](https://www.androidauthority.com/playstation-network-down-3486442/)<!-- TECH:END -->
+ - [Android’s Personal Safety app to introduce time extension for Safety Checks &lpar;APK Teardown&rpar;](https://www.androidauthority.com/personal-safety-check-add-time-3486457/)
+ - [A look at Calliope Networks, a content licensing company whose License to Scrape program is targeting YouTubers to strike their own AI training data agreements &lpar;Kate Knibbs/Wired&rpar;](http://www.techmeme.com/241001/p3#a241001p3)
+ - [The Galaxy S25 Ultra doesn’t look like it will dig into your palm](https://www.androidauthority.com/samsung-galaxy-s25-ultra-case-dummy-leaks-3486436/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
