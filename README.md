@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Now That You Have More Time, Catch Up On The Latest Assassin’s Creed For Cheap](https://kotaku.com/assassins-creed-mirage-xbox-one-series-shadows-sale-1851661813)
- - [WoTC forced to take over popular Magic: The Gathering competitive format after community tantrum over card bans involves &#39;credible threats of physical assault&#39;](https://www.pcgamer.com/games/card-games/wotc-forced-to-take-over-popular-magic-the-gathering-competitive-format-after-community-tantrum-threats-and-outrage-over-card-bans)
- - [The really simple solution to AMD&#39;s collapsing gaming GPU market share is lower prices from launch](https://www.pcgamer.com/hardware/graphics-cards/the-really-simple-solution-to-amds-collapsing-gaming-gpu-market-share-is-lower-prices-from-launch)<!-- GAME:END -->
+ - [Tiny Glade players are remaking fantasy worlds in astonishing detail](https://www.polygon.com/culture/457096/tiny-glade-harry-potter-remake-legend-of-zelda)
+ - [Steven Spielberg &#39;Loves Call Of Duty&#39; But Only Plays With Keyboard And Mouse](https://kotaku.com/steven-spielberg-loves-call-of-duty-keyboard-mouse-max-1851661871)
+ - [FFXIV housing lottery schedule for October 2024](https://www.polygon.com/ffxiv-guides-ff14-final-fantasy-14-online/24115693/housing-lottery-schedule-entry-results-period)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
