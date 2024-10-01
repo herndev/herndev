@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [&#39;They are tearing each other apart like pulled pork&#39;: Minecraft players are shipping two of the creepiest mobs around after Minecraft Live](https://www.pcgamer.com/games/survival-crafting/they-are-tearing-each-other-apart-like-pulled-pork-minecraft-players-are-shipping-two-of-the-creepiest-mobs-around-after-minecraft-live)
  - [Every movie and show coming to Netflix in October](https://www.polygon.com/entertainment/458016/ew-netflix-october-2024-movies-tv-to-watch)
- - [Is the Daily PokéCoin Bounty Part 2 ticket worth it in Pokémon Go?](https://www.polygon.com/pokemon-go-guide/446377/daily-pokecoin-bounty-ticket-worth-it-value-research)
- - [All smoothie recipes list and ingredient locations in Zelda: Echoes of Wisdom](https://www.polygon.com/zelda-echoes-wisdom-guides/455762/smoothie-recipes-all-list-ingredients-where-to-find)<!-- GAME:END -->
+ - [AMD&#39;s new RDNA 4 gaming-GPU-for-the-masses said to be delayed but will probably still be available before the Nvidia competition](https://www.pcgamer.com/hardware/graphics-cards/amds-new-rdna-4-gaming-gpu-for-the-masses-said-to-be-delayed-but-will-probably-still-be-available-before-the-nvidia-competition)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
