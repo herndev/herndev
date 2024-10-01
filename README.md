@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [5 years left to get the seks](http://9gag.com/gag/aW41zo4)
- - ⏩ [Neat trick](http://9gag.com/gag/aByxe21)
- - 👉 [Injured?](http://9gag.com/gag/aqy7EE7)<!-- MEMES:END -->
+ - 💣 [Minutes After Calling Netanyahu &#39;Psychopath&#39;, Journalist Breaks Down In Live Interview Upon Hearing About Nasrallah&#39;s Death](http://9gag.com/gag/azxXpXb)
+ - ⏩ [Brazilian engineering and construction at its finest](http://9gag.com/gag/a5QoYzL)
+ - 👉 [Uprooting a tree using a tire and physics](http://9gag.com/gag/amo7Zv2)<!-- MEMES:END -->
 
 ---
 
