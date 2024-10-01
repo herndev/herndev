@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [From an interview by CNN](http://9gag.com/gag/azxXn8j)
- - ⏩ [Be like Anna Muzychuk](http://9gag.com/gag/a9ypg7K)
- - 👉 [Genius moves](http://9gag.com/gag/a87oR2O)<!-- MEMES:END -->
+ - 💣 [Carolina Reapers Are No Joke](http://9gag.com/gag/amo74w9)
+ - ⏩ [Another one. Injured 31 victims, including 8 children.](http://9gag.com/gag/ae9MBVj)
+ - 👉 [Permission to be horn](http://9gag.com/gag/aByxpxN)<!-- MEMES:END -->
 
 ---
 
