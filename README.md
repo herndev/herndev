@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [PlayStation Network is down, knocking PS5 and PS4 gamers offline](https://www.theverge.com/2024/9/30/24258989/ps5-ps4-playstation-network-down-outage-offline)
- - [A US court awards Amazon a partial dismissal of FTC&#39;s lawsuit accusing it of illegal monopolies, in a sealed ruling whose details weren&#39;t immediately clear &lpar;Jody Godoy/Reuters&rpar;](http://www.techmeme.com/240930/p31#a240930p31)
- - [Apple requests anti-steering injunction in Epic case be tossed given new precedent](https://appleinsider.com/articles/24/10/01/apple-requests-anti-steering-injunction-in-epic-case-be-tossed-given-new-precedent?utm_medium=rss)<!-- TECH:END -->
+ - [YC-backed PearAI gets criticism for cloning another AI coding editor covered under the Apache license and applying its own made-up closed license on it &lpar;Julie Bort/TechCrunch&rpar;](http://www.techmeme.com/240930/p32#a240930p32)
+ - [California Governor Vetoes Far-Reaching AI Safety Bill](https://www.cnet.com/tech/services-and-software/california-governor-vetoes-far-reaching-ai-safety-bill/#ftag=CAD590a51e)
+ - [PlayStation Network is down, knocking PS5 and PS4 gamers offline](https://www.theverge.com/2024/9/30/24258989/ps5-ps4-playstation-network-down-outage-offline)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
