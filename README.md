@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [FCC&#39;s connectivity data in counties affected by Hurricane Helene: as of Sept. 30, 370 of North Carolina&#39;s 1,452 cell sites are out because of a lack of power &lpar;Kevin Collier/NBC News&rpar;](http://www.techmeme.com/240930/p33#a240930p33)
- - [Viture Pro XR Glasses review: A good step for AR/VR](https://appleinsider.com/articles/24/10/01/viture-pro-xr-glasses-review-a-good-step-for-arvr?utm_medium=rss)
- - [Today&#39;s NYT Strands Hints, Answers and Help for Oct. 1, #212](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-oct-1-212/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The Galaxy S25 Ultra doesn’t look like it will dig into your palm](https://www.androidauthority.com/samsung-galaxy-s25-ultra-case-dummy-leaks-3486436/)
+ - [In the past year, one researcher reported vulnerabilities in 19 commercial services used by hundreds of courts, state agencies, and police departments in the US &lpar;Dan Goodin/Ars Technica&rpar;](http://www.techmeme.com/241001/p2#a241001p2)
+ - [Heads up, gamers: PSN is experiencing a widespread outage right now!](https://www.androidauthority.com/playstation-network-down-3486442/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
