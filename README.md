@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [OPPO Find X8 Ultra wishlist: All the features I want to see](https://www.androidauthority.com/oppo-find-x8-ultra-3458722/)
  - [An interview with WhatsApp Product Director Alice Newton-Rex on end-to-end encryption, spotting misinformation, the UK&#39;s Online Safety Act, Telegram, and more &lpar;Cristina Criddle/Financial Times&rpar;](http://www.techmeme.com/241001/p4#a241001p4)
- - [Gemini Live is now available to all, no subscription needed](https://www.androidauthority.com/gemini-live-available-free-users-3486455/)
- - [Qualcomm Snapdragon 8 Gen 4: When’s it coming and what to expect?](https://www.androidauthority.com/qualcomm-snapdragon-8-gen-4-3484492/)<!-- TECH:END -->
+ - [Gemini Live is now available to all, no subscription needed](https://www.androidauthority.com/gemini-live-available-free-users-3486455/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
