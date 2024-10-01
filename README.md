@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Carolina Reapers Are No Joke](http://9gag.com/gag/amo74w9)
- - ⏩ [Another one. Injured 31 victims, including 8 children.](http://9gag.com/gag/ae9MBVj)
- - 👉 [Permission to be horn](http://9gag.com/gag/aByxpxN)<!-- MEMES:END -->
+ - 💣 [Which career has the most women?](http://9gag.com/gag/aD2xe9B)
+ - ⏩ [Happily Never After](http://9gag.com/gag/aqy7oAY)
+ - 👉 [Women](http://9gag.com/gag/a2vopDp)<!-- MEMES:END -->
 
 ---
 
