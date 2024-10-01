@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [MIT spinoff Liquid AI debuts its non-transformer AI models LFM 1B, 3B, and 40B MoE, and claims they achieve &quot;state-of-the-art performance at every scale&quot; &lpar;Carl Franzen/VentureBeat&rpar;](http://www.techmeme.com/240930/p29#a240930p29)
- - [Amazon&#39;s fan-favorite $1,299 M3 MacBook Pro deal is back ahead of fall Prime Day](https://appleinsider.com/articles/24/09/30/amazons-fan-favorite-1299-m3-macbook-pro-deal-is-back-ahead-of-fall-prime-day?utm_medium=rss)
- - [The best smartwatches for Android](https://www.theverge.com/23449363/best-android-smartwatches-wear-os)<!-- TECH:END -->
+ - [PlayStation Network is down, knocking PS5 and PS4 gamers offline](https://www.theverge.com/2024/9/30/24258989/ps5-ps4-playstation-network-down-outage-offline)
+ - [A US court awards Amazon a partial dismissal of FTC&#39;s lawsuit accusing it of illegal monopolies, in a sealed ruling whose details weren&#39;t immediately clear &lpar;Jody Godoy/Reuters&rpar;](http://www.techmeme.com/240930/p31#a240930p31)
+ - [Apple requests anti-steering injunction in Epic case be tossed given new precedent](https://appleinsider.com/articles/24/10/01/apple-requests-anti-steering-injunction-in-epic-case-be-tossed-given-new-precedent?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
