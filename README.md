@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [&#39;They are tearing each other apart like pulled pork&#39;: Minecraft players are shipping two of the creepiest mobs around after Minecraft Live](https://www.pcgamer.com/games/survival-crafting/they-are-tearing-each-other-apart-like-pulled-pork-minecraft-players-are-shipping-two-of-the-creepiest-mobs-around-after-minecraft-live)
- - [Every movie and show coming to Netflix in October](https://www.polygon.com/entertainment/458016/ew-netflix-october-2024-movies-tv-to-watch)
- - [AMD&#39;s new RDNA 4 gaming-GPU-for-the-masses said to be delayed but will probably still be available before the Nvidia competition](https://www.pcgamer.com/hardware/graphics-cards/amds-new-rdna-4-gaming-gpu-for-the-masses-said-to-be-delayed-but-will-probably-still-be-available-before-the-nvidia-competition)<!-- GAME:END -->
+ - [Coming Soon to Game Pass: Sifu, Inscryption, Mad Streets, and More](https://news.xbox.com/en-us/2024/10/01/xbox-game-pass-october-2024-wave-1/)
+ - [The Halloween Countdown: 31 days of horror to watch](https://www.polygon.com/what-to-watch/452010/best-halloween-horror-movies-tv-watch-stream)
+ - [AI bots are using a &#39;YOLO&#39; model to beat Captchas in just another way computers are better than you](https://www.pcgamer.com/software/ai/ai-bots-are-using-a-yolo-model-to-beat-captchas-in-just-another-way-computers-are-better-than-you)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
