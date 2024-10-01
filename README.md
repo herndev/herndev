@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft begins rolling out Bing Generative Search, its answer to Google&#39;s AI Overviews, to users in the US &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/241001/p18#a241001p18)
- - [Microsoft is discontinuing HoloLens 2, with no replacement, and will only push &quot;updates to address critical security issues and software regressions&quot; until 2028 &lpar;David Heaney/UploadVR&rpar;](http://www.techmeme.com/241001/p17#a241001p17)
- - [Pebblebee’s trackers now work on Apple’s or Google’s networks](https://www.theverge.com/2024/10/1/24259262/pebblebee-tracker-universal-apple-find-my-device-google-android)<!-- TECH:END -->
+ - [As the US and allies try to sanction Evil Corp., the UK NCA says the ransomware gang conducted cyberattacks and espionage ops on NATO allies on Kremlin orders &lpar;Ryan Gallagher/Bloomberg&rpar;](http://www.techmeme.com/241001/p21#a241001p21)
+ - [You can keep the door closed on Whirlpool’s new self-drying washers](https://www.theverge.com/2024/10/1/24259346/whirlpool-washing-machine-freshflow-vent)
+ - [Microsoft&#39;s new Windows 11 update adds generative AI-based fill and erase options to Paint and up to 8x picture resolution upscaling to Photos, for Copilot+ PCs &lpar;Devindra Hardawar/Engadget&rpar;](http://www.techmeme.com/241001/p20#a241001p20)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
