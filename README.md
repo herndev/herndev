@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Android’s Personal Safety app to introduce time extension for Safety Checks &lpar;APK Teardown&rpar;](https://www.androidauthority.com/personal-safety-check-add-time-3486457/)
- - [A look at Calliope Networks, a content licensing company whose License to Scrape program is targeting YouTubers to strike their own AI training data agreements &lpar;Kate Knibbs/Wired&rpar;](http://www.techmeme.com/241001/p3#a241001p3)
- - [The Galaxy S25 Ultra doesn’t look like it will dig into your palm](https://www.androidauthority.com/samsung-galaxy-s25-ultra-case-dummy-leaks-3486436/)<!-- TECH:END -->
+ - [An interview with WhatsApp Product Director Alice Newton-Rex on end-to-end encryption, spotting misinformation, the UK&#39;s Online Safety Act, Telegram, and more &lpar;Cristina Criddle/Financial Times&rpar;](http://www.techmeme.com/241001/p4#a241001p4)
+ - [Gemini Live is now available to all, no subscription needed](https://www.androidauthority.com/gemini-live-available-free-users-3486455/)
+ - [Qualcomm Snapdragon 8 Gen 4: When’s it coming and what to expect?](https://www.androidauthority.com/qualcomm-snapdragon-8-gen-4-3484492/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
