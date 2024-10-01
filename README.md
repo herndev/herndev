@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [A true professional](http://9gag.com/gag/adBKGyd)
- - ⏩ [From an interview by CNN](http://9gag.com/gag/azxXn8j)
- - 👉 [Be like Anna Muzychuk](http://9gag.com/gag/a9ypg7K)<!-- MEMES:END -->
+ - 💣 [5 years left to get the seks](http://9gag.com/gag/aW41zo4)
+ - ⏩ [Neat trick](http://9gag.com/gag/aByxe21)
+ - 👉 [Injured?](http://9gag.com/gag/aqy7EE7)<!-- MEMES:END -->
 
 ---
 
