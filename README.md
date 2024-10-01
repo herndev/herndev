@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple AirPods help police locate stolen Ferrari worth $575,000](https://appleinsider.com/articles/24/09/30/apple-airpods-help-police-locate-stolen-ferrari-worth-575000?utm_medium=rss)
- - [Notes on Google NotebookLM&#39;s Audio Overview feature, which generates a podcast with two AI hosts discussing user-provided content and is surprisingly effective &lpar;Simon Willison/Simon Willison&#39;s Weblog&rpar;](http://www.techmeme.com/240930/p27#a240930p27)
- - [Want to Buy a Smart Glass Door? It Just Got a Little Bit Cheaper](https://www.wired.com/story/smart-glass-door-home-depot/)<!-- TECH:END -->
+ - [MIT spinoff Liquid AI debuts its non-transformer AI models LFM 1B, 3B, and 40B MoE, and claims they achieve &quot;state-of-the-art performance at every scale&quot; &lpar;Carl Franzen/VentureBeat&rpar;](http://www.techmeme.com/240930/p29#a240930p29)
+ - [Amazon&#39;s fan-favorite $1,299 M3 MacBook Pro deal is back ahead of fall Prime Day](https://appleinsider.com/articles/24/09/30/amazons-fan-favorite-1299-m3-macbook-pro-deal-is-back-ahead-of-fall-prime-day?utm_medium=rss)
+ - [The best smartwatches for Android](https://www.theverge.com/23449363/best-android-smartwatches-wear-os)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
