@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Tiny Glade players are remaking fantasy worlds in astonishing detail](https://www.polygon.com/culture/457096/tiny-glade-harry-potter-remake-legend-of-zelda)
- - [Steven Spielberg &#39;Loves Call Of Duty&#39; But Only Plays With Keyboard And Mouse](https://kotaku.com/steven-spielberg-loves-call-of-duty-keyboard-mouse-max-1851661871)
- - [FFXIV housing lottery schedule for October 2024](https://www.polygon.com/ffxiv-guides-ff14-final-fantasy-14-online/24115693/housing-lottery-schedule-entry-results-period)<!-- GAME:END -->
+ - [BioWare Says Baldur’s Gate 3’s Success Emboldened The Dragon Age Team](https://kotaku.com/dragon-age-veilguard-baldurs-gate-3-bioware-larian-1851662063)
+ - [Grab more D&amp;D 5e adventures than you&#39;ll ever have time to play for just $18 in Humble Bundle&#39;s latest absurd offering](https://www.pcgamer.com/games/rpg/grab-more-d-d-5e-adventures-than-you-ll-ever-have-time-to-play-for-just-18-in-humble-bundle-s-latest-absurd-offering)
+ - [Check Out Our Favorite Cosplay From Colossalcon 2024](https://kotaku.com/colossalcon-texas-2024-cosplay-costume-best-1851661902)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
