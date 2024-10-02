@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Baldur’s Gate 3 Gets New Evil Endings, Mods and More on Xbox](https://news.xbox.com/en-us/2024/10/02/baldurs-gate-3-mods-evil-endings-dynamic-split-screen-xbox/)
- - [Zelda: Echoes of Wisdom players are already cheesing their way through the game](https://www.polygon.com/zelda/458049/loz-echoes-wisdom-players-cheesing)
- - [Final Fantasy 14 suspends housing demolition on North American servers after Hurricane Helene causes devastating damage across multiple states](https://www.pcgamer.com/games/final-fantasy/final-fantasy-14-suspends-housing-demolition-on-north-american-servers-after-hurricane-helene-causes-devastating-damage-across-multiple-states)<!-- GAME:END -->
+ - [Modder puts desktop-grade RTX 4090 card into custom laptop. Machine weighs as much as small dog](https://www.pcgamer.com/hardware/desktop-grade-RTX-4090-card-in-custom-laptop)
+ - [Minecraft Pale Garden biome: everything we know about the upcoming update](https://www.pcgamer.com/games/survival-crafting/minecraft-pale-garden-drop)
+ - [GameSir Kaleid Flux review](https://www.pcgamer.com/hardware/controllers/gamesir-kaleid-flux-review)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
