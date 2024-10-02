@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Numa, which uses AI to automate tasks for auto dealerships and has 600 customers in the US and Canada, raised a $32M Series B led by Touring Capital and Mitsui &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/241001/p34#a241001p34)
- - [The best noise-canceling headphones to buy right now](https://www.theverge.com/21345733/best-noise-canceling-headphones)
- - [Can Your iPhone Run the Newest Apple Mobile OS? See All the iOS 18 Compatible Devices](https://www.cnet.com/tech/services-and-software/can-your-iphone-run-the-newest-apple-mobile-os-see-all-the-ios-18-compatible-devices/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Nvidia details NVLM 1.0, a family of LLMs that is led by the 72B parameter NVLM-D-72B and can handle vision and language tasks while enhancing text-only tasks &lpar;Michael Nu&amp;ntilde;ez/VentureBeat&rpar;](http://www.techmeme.com/241001/p35#a241001p35)
+ - [Amazon Prime Day Budgeting Hacks From a CFP](https://www.cnet.com/personal-finance/banking/amazon-prime-day-budgeting-hacks-from-a-cfp/#ftag=CAD590a51e)
+ - [Insurance Premiums Spike as Natural Disasters Strike. What Homeowners Can Do](https://www.cnet.com/personal-finance/insurance-premiums-spike-as-natural-disasters-strike-what-homeowners-can-do/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
