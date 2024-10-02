@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [&#39;Wolfs&#39; is the most-watched movie on Apple TV+ ever](https://appleinsider.com/articles/24/10/02/wolfs-is-the-most-watched-movie-on-apple-tv-ever?utm_medium=rss)
- - [Philippine President Marcos Jr. signs a law imposing a 12% value-added tax on non-resident digital service providers, including Netflix, HBO, and Disney &lpar;Andreo Calonzo/Bloomberg&rpar;](http://www.techmeme.com/241002/p9#a241002p9)
- - [Developer Christian Selig says third-party YouTube app Juno for the Vision Pro was &quot;removed from the App Store&quot;, after YouTube said it violated its ToS in April &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/241002/p8#a241002p8)<!-- TECH:END -->
+ - [Telegram CEO Pavel Durov says his previous post on ToS updates &quot;may have seemed to announce a major shift in how Telegram works&quot; but &quot;little has changed&quot; &lpar;Jake Rudnitsky/Bloomberg&rpar;](http://www.techmeme.com/241002/p12#a241002p12)
+ - [Meta rolls out its Fraud Intelligence Reciprocal Exchange to let UK banks share transaction intelligence to help catch scammers, after a pilot with two banks &lpar;Akila Quinio/Financial Times&rpar;](http://www.techmeme.com/241002/p11#a241002p11)
+ - [Microsoft releases a $150 standalone version of Office 2024 for consumers and SMBs, with core app updates and UI changes; the last standalone was Office 2021 &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/241002/p10#a241002p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
