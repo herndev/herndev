@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I mean, you don&#39;t want to waste gas, right?](http://9gag.com/gag/awyX6oW)
- - ⏩ [Palm reading](http://9gag.com/gag/aND1xN0)
- - 👉 [When you are master of playing geoguess](http://9gag.com/gag/ayNBE0M)<!-- MEMES:END -->
+ - 💣 [Whattt is Hygene](http://9gag.com/gag/a2vonYp)
+ - ⏩ [Owner of impact plastics Gerald O\u2019Connor, who let 6 employees die due to flooding in Hurricane Helene by telling them they\u2019d be fired if they didn\u2019t show up that day](http://9gag.com/gag/aVv3n6M)
+ - 👉 [My daughter just said she wants to go to band camp](http://9gag.com/gag/aryG1KB)<!-- MEMES:END -->
 
 ---
 
