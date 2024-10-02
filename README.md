@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to Generate an AI Podcast Using Google&#39;s NotebookLM](https://www.wired.com/story/ai-podcast-google-notebooklm/)
- - [Coperni’s Spray-On Dress Was a Viral Smash. This Gravity-Defying Gel Bag Might Top It](https://www.wired.com/story/coperni-spray-on-dress-viral-smash-gravity-defying-gel-bag-might-top-it/)
- - [Automattic demanded a cut of 8% of WP Engine&#39;s monthly revenue to use the WordPress trademark in a seven-year deal in a September 20 letter; WP Engine declined &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/241002/p20#a241002p20)<!-- TECH:END -->
+ - [Teardown shows AirPods 4 still unfixable by the public](https://appleinsider.com/articles/24/10/02/teardown-shows-airpods-4-still-unfixable-by-the-public?utm_medium=rss)
+ - [iPhone users delay upgrades as Android owners are upgrading often for newer tech](https://appleinsider.com/articles/24/10/02/iphone-users-delay-upgrades-as-android-owners-are-upgrading-often-for-newer-tech?utm_medium=rss)
+ - [I tried Rabbit’s LAM Playground, and I’m still disappointed](https://www.androidauthority.com/rabbit-lam-playground-3486938/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
