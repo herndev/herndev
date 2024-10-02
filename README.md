@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Sushi kebab](http://9gag.com/gag/aPAjE1R)
- - ⏩ [The tolerant left.](http://9gag.com/gag/aqy7q2R)
- - 👉 [Capture the flag](http://9gag.com/gag/aoyNBZn)<!-- MEMES:END -->
+ - 💣 [Meanwhile in Canada...](http://9gag.com/gag/a9yp9vj)
+ - ⏩ [Giorgia Meloni\u2019s iron fist: Prison for blocking a road and chemical castration for rapists Italy is finalizing a controversial security decree, dubbed \u2018anti-Gandhi\u2019 because it targets non-violent protests. It also makes it impossible for undocumented migrants to buy a SIM card](http://9gag.com/gag/aMVjRN6)
+ - 👉 [Posting memes I found on my smartphone until I get bored or die #776](http://9gag.com/gag/avyOYDd)<!-- MEMES:END -->
 
 ---
 
