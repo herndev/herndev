@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Pulp Fiction’s 30th anniversary 4K Blu-ray collection is packed with goodies](https://www.polygon.com/pre-order/459227/pulp-fiction-30-anniversary-4k-bluray-limited-edition)
- - [Xbox Celebrates Accessibility in Gaming with New Adaptive Joystick and Continued Support for Special Olympics](https://news.xbox.com/en-us/2024/10/02/xbox-gaming-disability-community-accessibility-2024/)
- - [Hauntii feels the best when you let go](https://www.polygon.com/impressions/458745/hauntii-impressions-pc)<!-- GAME:END -->
+ - [Age of Wonders 4 Has a New Chapter of Stories to Tell](https://news.xbox.com/en-us/2024/10/02/age-of-wonders-4-expansion-pass/)
+ - [The mystery of Azrael’s burned demons runs even deeper than the movie says](https://www.polygon.com/horror/458753/azrael-demon-monster-how-bts)
+ - [My Dragon Age: Inquisition replay is perfect now that I found this rare flower crown](https://www.polygon.com/gaming/459019/dragon-age-inquisition-ardent-blossom-flower-crown-quest)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
