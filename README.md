@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [`Look civilisation ! Let&#39;s destroy it](http://9gag.com/gag/aLnjyNW)
- - ⏩ [Czech Republic Blocked Joint EU Statement Calling for a Ceasefire in Lebanon](http://9gag.com/gag/aRB35Wy)
- - 👉 [Her daughter was only 13 years old. She burned him alive without mercy. Well done.](http://9gag.com/gag/aPAjN8q)<!-- MEMES:END -->
+ - 💣 [She knew her son got diddled\ud83d\udc80](http://9gag.com/gag/an7ML0b)
+ - ⏩ [Zoom office](http://9gag.com/gag/azxXpnZ)
+ - 👉 [The last part of Fast &amp; furious](http://9gag.com/gag/aPAjEyQ)<!-- MEMES:END -->
 
 ---
 
