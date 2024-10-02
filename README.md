@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [The tolerant left.](http://9gag.com/gag/aqy7q2R)
- - ⏩ [Pleddit moment](http://9gag.com/gag/awyXRNy)
- - 👉 [He won](http://9gag.com/gag/aPAjNbP)<!-- MEMES:END -->
+ - ⏩ [Yuna song not happy](http://9gag.com/gag/azxX6Rj)
+ - 👉 [I mean, you don&#39;t want to waste gas, right?](http://9gag.com/gag/awyX6oW)<!-- MEMES:END -->
 
 ---
 
