@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Adobe announces Elements 2025 for Photoshop &amp; Premiere](https://appleinsider.com/articles/24/10/01/adobe-announces-elements-2025-for-photoshop-premiere?utm_medium=rss)
- - [This old Android phone is living its best life listening to San Francisco from the top of a pole](https://www.androidauthority.com/bop-spotter-3486715/)
- - [Open-source Nintendo Switch emulator Ryujinx has been removed from GitHub, and its team has reportedly ceased development after Nintendo contacted its creator &lpar;Kyle Orland/Ars Technica&rpar;](http://www.techmeme.com/241001/p33#a241001p33)<!-- TECH:END -->
+ - [Numa, which uses AI to automate tasks for auto dealerships and has 600 customers in the US and Canada, raised a $32M Series B led by Touring Capital and Mitsui &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/241001/p34#a241001p34)
+ - [The best noise-canceling headphones to buy right now](https://www.theverge.com/21345733/best-noise-canceling-headphones)
+ - [Can Your iPhone Run the Newest Apple Mobile OS? See All the iOS 18 Compatible Devices](https://www.cnet.com/tech/services-and-software/can-your-iphone-run-the-newest-apple-mobile-os-see-all-the-ios-18-compatible-devices/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
