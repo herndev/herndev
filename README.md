@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [That\u2019s a lot of island](http://9gag.com/gag/aE0xmDe)
- - ⏩ [Pleddit moment](http://9gag.com/gag/awyXRNy)
- - 👉 [Posting memes I found on my smartphone until I get bored or die #776](http://9gag.com/gag/avyOYDd)<!-- MEMES:END -->
+ - 💣 [He looks lost, like he just spawned there](http://9gag.com/gag/aPAjbVK)
+ - ⏩ [Sylvester Stallone paid $1 million dollars out of his own pocket for stunt man Simon Crane to slide between two planes on a cable at 15,000 feet &lpar;4.6 km&rpar; - making it the most expensive aerial stunt ever, according to the Guinness Book of World Records](http://9gag.com/gag/a34KmjN)
+ - 👉 [Pleddit moment](http://9gag.com/gag/awyXRNy)<!-- MEMES:END -->
 
 ---
 
