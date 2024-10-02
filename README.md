@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [It’s the last day to save 50% on accessories with Samsung Galaxy S24 FE or Tab S10 pre-orders](https://www.androidauthority.com/samsung-galaxy-s24-fe-tab-s10-plus-ultra-pre-order-deals-3487035/)
- - [Amazon plans to increase the number of ads on Prime Video in 2025 after not seeing a sharp drop in subscribers since adding advertisements in January 2024 &lpar;Daniel Thomas/Financial Times&rpar;](http://www.techmeme.com/241002/p29#a241002p29)
- - [Amazon gives the Fire HD 8 a big RAM boost with newly launched models](https://www.androidauthority.com/amazon-fire-hd-8-tablet-2024-launch-3486999/)<!-- TECH:END -->
+ - [How to follow live sports scores on your iPhone lockscreen](https://www.theverge.com/23693319/iphone-live-activities-sports-lock-screen-apple-tv-mlb)
+ - [T-Mobile follows up Verizon with a network outage of its own](https://www.androidauthority.com/t-mobile-outage-3487066/)
+ - [The Garmin Lily 2 Active watch finally adds GPS and buttons](https://www.theverge.com/2024/10/2/24260540/garmin-lily-2-active-smartwatch-fitness-tracker)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
