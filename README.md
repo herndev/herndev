@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Posting memes I found on my smartphone until I get bored or die #776](http://9gag.com/gag/avyOYDd)
- - ⏩ [Please save Spidey!](http://9gag.com/gag/a9ypopZ)
- - 👉 [Man Wins Bid on $4K Taylor Swift Guitar at Live Auction Just to Hammer in Front of Crowd](http://9gag.com/gag/a0eK2pB)<!-- MEMES:END -->
+ - 💣 [Tiktok prankers finally getting what they deserve. Messed with the wrong man there.](http://9gag.com/gag/apRmE25)
+ - ⏩ [Thanks, I hate this soap dispenser](http://9gag.com/gag/a0eQv1B)
+ - 👉 [Confusion of the highest order](http://9gag.com/gag/a873d3Z)<!-- MEMES:END -->
 
 ---
 
