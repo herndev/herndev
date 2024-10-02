@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Whattt is Hygene](http://9gag.com/gag/a2vonYp)
- - ⏩ [Empowered working woman, she doesn&#39;t need a man.](http://9gag.com/gag/aYQgXrx)
- - 👉 [Happily Never After](http://9gag.com/gag/aqy7oAY)<!-- MEMES:END -->
+ - 💣 [That\u2019s a lot of island](http://9gag.com/gag/aE0xmDe)
+ - ⏩ [Pleddit moment](http://9gag.com/gag/awyXRNy)
+ - 👉 [Posting memes I found on my smartphone until I get bored or die #776](http://9gag.com/gag/avyOYDd)<!-- MEMES:END -->
 
 ---
 
