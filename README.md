@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Larian boss Swen Vincke cruelly hints at a 2029 release for the studio&#39;s next game, only to yoink it away: &#39;It was just a joke&#39;](https://www.pcgamer.com/games/rpg/larian-boss-swen-vincke-cruelly-hints-at-a-2029-release-for-the-studios-next-game-only-to-yoink-it-away-it-was-just-a-joke)
- - [First I Hated Shogun Showdown, Then I Realized It&#39;s Fantastic](https://kotaku.com/shogun-showdown-review-steam-switch-deckbuilder-strateg-1851663570)
- - [Grab Monster Hunter: World For Cheap In Preparation For Wilds](https://kotaku.com/monster-hunter-sale-steam-playstation-world-wilds-1851663569)<!-- GAME:END -->
+ - [Eastern Temple and ‘Let’s Play a Game’ quest walkthrough for Zelda: Echoes of Wisdom](https://www.polygon.com/zelda-echoes-wisdom-guides/459444/eastern-temple-walkthrough-lets-play-a-game)
+ - [Get a T. rex-size bundle of Jurassic Park sims for just $20](https://www.polygon.com/good-deals/459587/jurassic-world-evolution-humble-bundle-sale)
+ - [Microsoft Has Started Asking Devs Why They&#39;re Skipping Xbox](https://kotaku.com/games-skipping-xbox-microsoft-asks-devs-studio-why-ps5-1851663611)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
