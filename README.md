@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Starbites: How We Built a Delightful Dystopia](https://news.xbox.com/en-us/2024/10/02/starbites-xbox/)
- - [Frostpunk dev&#39;s quietly very cool survival game where you manage relationships with your alt-universe selves gets delayed to next year](https://www.pcgamer.com/games/survival-crafting/frostpunk-devs-quietly-very-cool-survival-game-where-you-manage-relationships-with-your-alt-universe-selves-gets-delayed-to-next-year)
- - [New Lego Set Recreates One Of Sonic’s Best Boss Fights](https://kotaku.com/sonic-hedgehog-shadow-biolizard-lego-set-generations-1851663124)<!-- GAME:END -->
+ - [Pulp Fiction’s 30th anniversary 4K Blu-ray collection is packed with goodies](https://www.polygon.com/pre-order/459227/pulp-fiction-30-anniversary-4k-bluray-limited-edition)
+ - [Xbox Celebrates Accessibility in Gaming with New Adaptive Joystick and Continued Support for Special Olympics](https://news.xbox.com/en-us/2024/10/02/xbox-gaming-disability-community-accessibility-2024/)
+ - [Hauntii feels the best when you let go](https://www.polygon.com/impressions/458745/hauntii-impressions-pc)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
