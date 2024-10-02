@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Bad luck khamenei](http://9gag.com/gag/amo7jy4)
- - ⏩ [`Look civilisation ! Let&#39;s destroy it](http://9gag.com/gag/aLnjyNW)
- - 👉 [Any Germans here? Of course there are.](http://9gag.com/gag/axy1X1b)<!-- MEMES:END -->
+ - 💣 [What Will happen LOL.](http://9gag.com/gag/a87oBve)
+ - ⏩ [The tolerant left.](http://9gag.com/gag/aqy7q2R)
+ - 👉 [Whattt is Hygene](http://9gag.com/gag/a2vonYp)<!-- MEMES:END -->
 
 ---
 
