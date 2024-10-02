@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The tolerant left.](http://9gag.com/gag/aqy7q2R)
- - ⏩ [Yuna song not happy](http://9gag.com/gag/azxX6Rj)
- - 👉 [I mean, you don&#39;t want to waste gas, right?](http://9gag.com/gag/awyX6oW)<!-- MEMES:END -->
+ - 💣 [My daughter just said she wants to go to band camp](http://9gag.com/gag/aryG1KB)
+ - ⏩ [Alpha male](http://9gag.com/gag/aYQg3g0)
+ - 👉 [Iran missiles strike Israel](http://9gag.com/gag/aMVjRLX)<!-- MEMES:END -->
 
 ---
 
