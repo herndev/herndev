@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Telegram CEO Pavel Durov says his previous post on ToS updates &quot;may have seemed to announce a major shift in how Telegram works&quot; but &quot;little has changed&quot; &lpar;Jake Rudnitsky/Bloomberg&rpar;](http://www.techmeme.com/241002/p12#a241002p12)
- - [Meta rolls out its Fraud Intelligence Reciprocal Exchange to let UK banks share transaction intelligence to help catch scammers, after a pilot with two banks &lpar;Akila Quinio/Financial Times&rpar;](http://www.techmeme.com/241002/p11#a241002p11)
- - [Microsoft releases a $150 standalone version of Office 2024 for consumers and SMBs, with core app updates and UI changes; the last standalone was Office 2021 &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/241002/p10#a241002p10)<!-- TECH:END -->
+ - [AI contact center startup Crescendo raised $50M from General Catalyst and others at a $500M valuation, and acquired Idaho-based outsourcing company PartnerHero &lpar;Newley Purnell/Bloomberg&rpar;](http://www.techmeme.com/241002/p17#a241002p17)
+ - [Microsoft Office 2024 for Mac without subscriptions is now available](https://appleinsider.com/articles/24/10/02/microsoft-office-2024-for-mac-without-subscriptions-is-now-available?utm_medium=rss)
+ - [No, Tim Walz Is Not Friends with School Shooters](https://www.wired.com/story/vp-debate-tim-walz-friends-school-shooters/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
