@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [AI contact center startup Crescendo raised $50M from General Catalyst and others at a $500M valuation, and acquired Idaho-based outsourcing company PartnerHero &lpar;Newley Purnell/Bloomberg&rpar;](http://www.techmeme.com/241002/p17#a241002p17)
- - [Microsoft Office 2024 for Mac without subscriptions is now available](https://appleinsider.com/articles/24/10/02/microsoft-office-2024-for-mac-without-subscriptions-is-now-available?utm_medium=rss)
- - [No, Tim Walz Is Not Friends with School Shooters](https://www.wired.com/story/vp-debate-tim-walz-friends-school-shooters/)<!-- TECH:END -->
+ - [Apple’s designs are ‘iconic’ because of repetition and laziness](https://www.androidauthority.com/apple-iphone-lazy-design-3482334/)
+ - [Venmo is getting payment scheduling](https://www.theverge.com/2024/10/2/24260089/venmo-payment-request-scheduling-feature-announcement)
+ - [Ring is finally adding 24/7 recording to its security cameras](https://www.theverge.com/2024/10/2/24259779/ring-24-7-continuous-recording-smart-security-cameras)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
