@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Accenture says it will train 30,000 employees on Nvidia technology and start a new Nvidia Business Group focused on driving enterprise adoption of AI agents &lpar;Dylan Martin/CRN&rpar;](http://www.techmeme.com/241002/p31#a241002p31)
- - [The best Fitbits for your fitness and health](https://www.theverge.com/22982833/best-fitbit-watch-fitness-tracker)
- - [Players Are Turning the ‘Echoes’ in ‘The Legend of Zelda: Echoes of Wisdom’ Into Cheat Codes](https://www.wired.com/story/players-turning-legend-of-zelda-echoes-of-wisdom-echoes-into-cheat-codes/)<!-- TECH:END -->
+ - [The best Nintendo Switch controllers to buy right now](https://www.theverge.com/23350899/nintendo-switch-controllers-best-wireless-joy-con-gamepad)
+ - [Warning: Older Galaxy phones getting bricked by new Samsung update](https://www.androidauthority.com/galaxy-s10-bootloop-3487074/)
+ - [Turning Meta’s smart glasses into a privacy nightmare took no time at all](https://www.androidauthority.com/meta-smart-glasses-facial-recognition-3487046/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
