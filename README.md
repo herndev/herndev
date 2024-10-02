@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Quntis RGB Pro+ Monitor Light review: Effortlessly brighten your desk](https://appleinsider.com/articles/24/10/02/quntis-rgb-pro-monitor-light-review-effortlessly-brighten-your-desk?utm_medium=rss)
- - [Oracle plans to invest over $6.5B in Malaysia to set up a public cloud region, its first in the country and third in Southeast Asia, after two in Singapore &lpar;Danial Azhar/Reuters&rpar;](http://www.techmeme.com/241001/p37#a241001p37)
- - [Best Solar Panel Installation Companies in Seattle](https://www.cnet.com/home/energy-and-utilities/best-solar-panel-installation-companies-in-seattle/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Resolve AI, which is building AI tools to help software engineers troubleshoot and fix production issues, raised a $35M seed led by Greylock &lpar;Krystal Hu/Reuters&rpar;](http://www.techmeme.com/241001/p39#a241001p39)
+ - [Google’s declining search quality drove me to Perplexity, but is the grass really greener?](https://www.androidauthority.com/perplexity-vs-google-search-3486535/)
+ - [How the FBI and Mandiant caught hacker Jesse Kipf, who sold access to systems he broke into and hacked Hawaii&#39;s death registration system to fake his own death &lpar;Lorenzo Franceschi-Bicchierai/TechCrunch&rpar;](http://www.techmeme.com/241001/p38#a241001p38)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
