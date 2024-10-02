@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Famous Polish Zero...](http://9gag.com/gag/ae9rK4m)
- - ⏩ [Demonization is getting out of hand](http://9gag.com/gag/aoyemmx)
- - 👉 [The tolerant left.](http://9gag.com/gag/aqy7q2R)<!-- MEMES:END -->
+ - 💣 [What Have We Done? Are We The Baddies?](http://9gag.com/gag/ajPEozx)
+ - ⏩ [Famous Polish Zero...](http://9gag.com/gag/ae9rK4m)
+ - 👉 [Palm reading](http://9gag.com/gag/aND1xN0)<!-- MEMES:END -->
 
 ---
 
