@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple’s designs are ‘iconic’ because of repetition and laziness](https://www.androidauthority.com/apple-iphone-lazy-design-3482334/)
- - [Venmo is getting payment scheduling](https://www.theverge.com/2024/10/2/24260089/venmo-payment-request-scheduling-feature-announcement)
- - [Ring is finally adding 24/7 recording to its security cameras](https://www.theverge.com/2024/10/2/24259779/ring-24-7-continuous-recording-smart-security-cameras)<!-- TECH:END -->
+ - [DC Studios’ next big project is an animated movie about the Robins](https://www.theverge.com/2024/10/2/24260171/dc-studios-dynamic-duo-arthur-mintz-theresa-andersson-james-gunn)
+ - [Months after a terrible app launch, Sonos promises it&#39;ll do better](https://appleinsider.com/articles/24/10/02/months-after-a-terrible-app-launch-sonos-promises-itll-do-better?utm_medium=rss)
+ - [Wallpaper Wednesday: More great phone wallpapers for all to share &lpar;October 2&rpar;](https://www.androidauthority.com/wallpaper-wednesday-oct-02-2024-3486248/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
