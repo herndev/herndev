@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Teardown shows AirPods 4 still unfixable by the public](https://appleinsider.com/articles/24/10/02/teardown-shows-airpods-4-still-unfixable-by-the-public?utm_medium=rss)
- - [iPhone users delay upgrades as Android owners are upgrading often for newer tech](https://appleinsider.com/articles/24/10/02/iphone-users-delay-upgrades-as-android-owners-are-upgrading-often-for-newer-tech?utm_medium=rss)
- - [I tried Rabbit’s LAM Playground, and I’m still disappointed](https://www.androidauthority.com/rabbit-lam-playground-3486938/)<!-- TECH:END -->
+ - [Xbox co-founder J Allard has joined Amazon to work on ‘new ideas’](https://www.theverge.com/2024/10/2/24260438/xbox-co-founder-j-allard-amazon-hiring)
+ - [Amazon’s new Fire tablets have AI inside](https://www.theverge.com/2024/10/2/24260392/amazon-fire-hd-8-tablet-ai)
+ - [Hurricane Helene Shows Insurance Industry That No Homes Are Safe](https://www.wired.com/story/hurricane-helene-shows-insurance-industry-that-no-homes-are-safe-north-carolina/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
