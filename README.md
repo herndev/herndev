@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Peak XV has cut its $2.85B fund by $465M, or ~16%, over a year after its split from Sequoia, with the bulk of the reduction coming at the growth stage &lpar;The Economic Times&rpar;](http://www.techmeme.com/241001/p36#a241001p36)
  - [Nvidia details NVLM 1.0, a family of LLMs that is led by the 72B parameter NVLM-D-72B and can handle vision and language tasks while enhancing text-only tasks &lpar;Michael Nu&amp;ntilde;ez/VentureBeat&rpar;](http://www.techmeme.com/241001/p35#a241001p35)
- - [Amazon Prime Day Budgeting Hacks From a CFP](https://www.cnet.com/personal-finance/banking/amazon-prime-day-budgeting-hacks-from-a-cfp/#ftag=CAD590a51e)
- - [Insurance Premiums Spike as Natural Disasters Strike. What Homeowners Can Do](https://www.cnet.com/personal-finance/insurance-premiums-spike-as-natural-disasters-strike-what-homeowners-can-do/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Home Exercise Equipment for 2024](https://www.cnet.com/health/fitness/best-home-exercise-equipment/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
