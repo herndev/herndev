@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Tiktok prankers finally getting what they deserve. Messed with the wrong man there.](http://9gag.com/gag/apRmE25)
- - ⏩ [Thanks, I hate this soap dispenser](http://9gag.com/gag/a0eQv1B)
- - 👉 [Confusion of the highest order](http://9gag.com/gag/a873d3Z)<!-- MEMES:END -->
+ - 💣 [5 years left to get the seks](http://9gag.com/gag/aW41zo4)
+ - ⏩ [Famous Polish Zero...](http://9gag.com/gag/ae9rK4m)
+ - 👉 [My daughter just said she wants to go to band camp](http://9gag.com/gag/aryG1KB)<!-- MEMES:END -->
 
 ---
 
