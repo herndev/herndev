@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best Nintendo Switch controllers to buy right now](https://www.theverge.com/23350899/nintendo-switch-controllers-best-wireless-joy-con-gamepad)
- - [Warning: Older Galaxy phones getting bricked by new Samsung update](https://www.androidauthority.com/galaxy-s10-bootloop-3487074/)
- - [Turning Meta’s smart glasses into a privacy nightmare took no time at all](https://www.androidauthority.com/meta-smart-glasses-facial-recognition-3487046/)<!-- TECH:END -->
+ - [Biden signs legislation exempting some US semiconductor manufacturing facilities from federal environmental reviews that are receiving government subsidies &lpar;David Shepardson/Reuters&rpar;](http://www.techmeme.com/241002/p32#a241002p32)
+ - [Charter will offer Peacock for free with some cable subscriptions next year](https://www.theverge.com/2024/10/2/24260711/charter-cable-bundle-free-peacock-streaming-carriage-deal)
+ - [The best Nintendo Switch controllers to buy right now](https://www.theverge.com/23350899/nintendo-switch-controllers-best-wireless-joy-con-gamepad)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
