@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [FCC is offering $200 million to protect schools and libraries from hackers](https://www.theverge.com/2024/10/2/24260459/fcc-schools-libraries-cybersecurity-pilot-universal-service-fund)
- - [OpenAI just raised $6.6 billion to build ever-larger AI models](https://www.theverge.com/2024/10/2/24260457/openai-funding-round-thrive-capital-6-billion)
- - [Source: Thrive invested ~$1.3B in OpenAI&#39;s $6.6B round, with an exclusive option to invest up to $1B more at the same $157B valuation through 2025 &lpar;Cade Metz/New York Times&rpar;](http://www.techmeme.com/241002/p28#a241002p28)<!-- TECH:END -->
+ - [It’s the last day to save 50% on accessories with Samsung Galaxy S24 FE or Tab S10 pre-orders](https://www.androidauthority.com/samsung-galaxy-s24-fe-tab-s10-plus-ultra-pre-order-deals-3487035/)
+ - [Amazon plans to increase the number of ads on Prime Video in 2025 after not seeing a sharp drop in subscribers since adding advertisements in January 2024 &lpar;Daniel Thomas/Financial Times&rpar;](http://www.techmeme.com/241002/p29#a241002p29)
+ - [Amazon gives the Fire HD 8 a big RAM boost with newly launched models](https://www.androidauthority.com/amazon-fire-hd-8-tablet-2024-launch-3486999/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
