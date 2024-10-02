@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [T-Mobile could soon lower device promotional discounts on certain plans](https://www.androidauthority.com/t-mobile-segmented-plan-lower-device-promo-discount-leak-3486775/)
- - [Google DeepMind is developing an AI research assistant for scientists; BioNTech&#39;s InstaDeep unveils a Llama 3.1-based AI assistant for experimental biology &lpar;Financial Times&rpar;](http://www.techmeme.com/241002/p2#a241002p2)
- - [Puffy Lux Mattress Review: A Soft, Cloud-Like Sleep for Side Sleepers](https://www.cnet.com/health/sleep/puffy-lux-mattress-review/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Google opens the door to Gemini Nano for all Android apps!](https://www.androidauthority.com/google-gemini-nano-ai-edge-sdk-3486809/)
+ - [The AAWireless Two is official and coming soon](https://www.androidauthority.com/aawireless-two-3486808/)
+ - [Raspberry Pi, a FTSE 250 company that defied the trend of UK-based tech companies that have listed in the US, has revived Cambridge&#39;s history of making hardware &lpar;John Gapper/Financial Times&rpar;](http://www.techmeme.com/241002/p4#a241002p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
