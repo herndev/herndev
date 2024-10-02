@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [What Will happen LOL.](http://9gag.com/gag/a87oBve)
- - ⏩ [The tolerant left.](http://9gag.com/gag/aqy7q2R)
- - 👉 [Whattt is Hygene](http://9gag.com/gag/a2vonYp)<!-- MEMES:END -->
+ - 💣 [Whattt is Hygene](http://9gag.com/gag/a2vonYp)
+ - ⏩ [She knew her son got diddled\ud83d\udc80](http://9gag.com/gag/an7ML0b)
+ - 👉 [Pleddit moment](http://9gag.com/gag/awyXRNy)<!-- MEMES:END -->
 
 ---
 
