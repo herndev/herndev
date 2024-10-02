@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [God Of War Ragnarök, As Told By Steam Reviews](https://kotaku.com/god-of-war-ragnarok-steam-reviews-sony-1851663495)
- - [All echoes locations in Zelda: Echoes of Wisdom](https://www.polygon.com/zelda-echoes-wisdom-guides/452604/all-echoes-best-complete-list-locations)
- - [Best echoes in Zelda: Echoes of Wisdom](https://www.polygon.com/zelda-echoes-wisdom-guides/459271/best-echoes)<!-- GAME:END -->
+ - [Larian boss Swen Vincke cruelly hints at a 2029 release for the studio&#39;s next game, only to yoink it away: &#39;It was just a joke&#39;](https://www.pcgamer.com/games/rpg/larian-boss-swen-vincke-cruelly-hints-at-a-2029-release-for-the-studios-next-game-only-to-yoink-it-away-it-was-just-a-joke)
+ - [First I Hated Shogun Showdown, Then I Realized It&#39;s Fantastic](https://kotaku.com/shogun-showdown-review-steam-switch-deckbuilder-strateg-1851663570)
+ - [Grab Monster Hunter: World For Cheap In Preparation For Wilds](https://kotaku.com/monster-hunter-sale-steam-playstation-world-wilds-1851663569)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
