@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google opens the door to Gemini Nano for all Android apps!](https://www.androidauthority.com/google-gemini-nano-ai-edge-sdk-3486809/)
- - [The AAWireless Two is official and coming soon](https://www.androidauthority.com/aawireless-two-3486808/)
- - [Raspberry Pi, a FTSE 250 company that defied the trend of UK-based tech companies that have listed in the US, has revived Cambridge&#39;s history of making hardware &lpar;John Gapper/Financial Times&rpar;](http://www.techmeme.com/241002/p4#a241002p4)<!-- TECH:END -->
+ - [A profile of Jarod Koopman, who leads IRS Criminal Investigation&#39;s cybercrime unit, which has returned $12B+ to victims and the US Treasury in the past 10 years &lpar;Geraldine Brooks/Washington Post&rpar;](http://www.techmeme.com/241002/p5#a241002p5)
+ - [Motorola ThinkPhone 25 launched: A smaller ThinkPhone &lpar;Update: No US release&rpar;](https://www.androidauthority.com/motorola-thinkphone-25-3486476/)
+ - [Eight Scientists, a Billion Dollars, and the Moonshot Agency Trying to Make Britain Great Again](https://www.wired.com/story/aria-moonshot-darpa-uk-britain-great-again/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
