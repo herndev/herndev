@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Modder puts desktop-grade RTX 4090 card into custom laptop. Machine weighs as much as small dog](https://www.pcgamer.com/hardware/desktop-grade-RTX-4090-card-in-custom-laptop)
- - [Minecraft Pale Garden biome: everything we know about the upcoming update](https://www.pcgamer.com/games/survival-crafting/minecraft-pale-garden-drop)
- - [GameSir Kaleid Flux review](https://www.pcgamer.com/hardware/controllers/gamesir-kaleid-flux-review)<!-- GAME:END -->
+ - [Starbites: How We Built a Delightful Dystopia](https://news.xbox.com/en-us/2024/10/02/starbites-xbox/)
+ - [Frostpunk dev&#39;s quietly very cool survival game where you manage relationships with your alt-universe selves gets delayed to next year](https://www.pcgamer.com/games/survival-crafting/frostpunk-devs-quietly-very-cool-survival-game-where-you-manage-relationships-with-your-alt-universe-selves-gets-delayed-to-next-year)
+ - [New Lego Set Recreates One Of Sonic’s Best Boss Fights](https://kotaku.com/sonic-hedgehog-shadow-biolizard-lego-set-generations-1851663124)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
