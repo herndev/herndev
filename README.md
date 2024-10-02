@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [DC Studios’ next big project is an animated movie about the Robins](https://www.theverge.com/2024/10/2/24260171/dc-studios-dynamic-duo-arthur-mintz-theresa-andersson-james-gunn)
- - [Months after a terrible app launch, Sonos promises it&#39;ll do better](https://appleinsider.com/articles/24/10/02/months-after-a-terrible-app-launch-sonos-promises-itll-do-better?utm_medium=rss)
- - [Wallpaper Wednesday: More great phone wallpapers for all to share &lpar;October 2&rpar;](https://www.androidauthority.com/wallpaper-wednesday-oct-02-2024-3486248/)<!-- TECH:END -->
+ - [How to Generate an AI Podcast Using Google&#39;s NotebookLM](https://www.wired.com/story/ai-podcast-google-notebooklm/)
+ - [Coperni’s Spray-On Dress Was a Viral Smash. This Gravity-Defying Gel Bag Might Top It](https://www.wired.com/story/coperni-spray-on-dress-viral-smash-gravity-defying-gel-bag-might-top-it/)
+ - [Automattic demanded a cut of 8% of WP Engine&#39;s monthly revenue to use the WordPress trademark in a seven-year deal in a September 20 letter; WP Engine declined &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/241002/p20#a241002p20)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
