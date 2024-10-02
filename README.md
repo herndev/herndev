@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [London-based Dexory, which builds autonomous robots for warehouses, raised a $80M Series B led by DTCP, taking its total equity funding to $120M &lpar;Kai Nicol-Schwarz/Sifted&rpar;](http://www.techmeme.com/241002/p1#a241002p1)
- - [OnePlus phones face fresh sales halt following another patent dispute](https://www.androidauthority.com/oneplus-sales-halt-patent-dispute-interdigital-3486772/)
- - [JD Vance avoids January 6th questions by pivoting to Facebook ‘censorship’](https://www.theverge.com/2024/10/2/24259972/vance-walz-big-tech-first-amendment-debate)<!-- TECH:END -->
+ - [T-Mobile could soon lower device promotional discounts on certain plans](https://www.androidauthority.com/t-mobile-segmented-plan-lower-device-promo-discount-leak-3486775/)
+ - [Google DeepMind is developing an AI research assistant for scientists; BioNTech&#39;s InstaDeep unveils a Llama 3.1-based AI assistant for experimental biology &lpar;Financial Times&rpar;](http://www.techmeme.com/241002/p2#a241002p2)
+ - [Puffy Lux Mattress Review: A Soft, Cloud-Like Sleep for Side Sleepers](https://www.cnet.com/health/sleep/puffy-lux-mattress-review/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
