@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Eastern Temple and ‘Let’s Play a Game’ quest walkthrough for Zelda: Echoes of Wisdom](https://www.polygon.com/zelda-echoes-wisdom-guides/459444/eastern-temple-walkthrough-lets-play-a-game)
- - [Get a T. rex-size bundle of Jurassic Park sims for just $20](https://www.polygon.com/good-deals/459587/jurassic-world-evolution-humble-bundle-sale)
- - [Microsoft Has Started Asking Devs Why They&#39;re Skipping Xbox](https://kotaku.com/games-skipping-xbox-microsoft-asks-devs-studio-why-ps5-1851663611)<!-- GAME:END -->
+ - [6 years after successfully crowdfunding a game about orphans in a cyberpunk warzone, the studio making it has closed: &#39;We&#39;ve been so close to a release, several times, and there&#39;s a lot to regret after all the work done&#39;](https://www.pcgamer.com/gaming-industry/6-years-after-successfully-crowdfunding-a-game-about-orphans-in-a-cyberpunk-warzone-the-studio-making-it-has-closed-weve-been-so-close-to-a-release-several-times-and-theres-a-lot-to-regret-after-all-the-work-done)
+ - [Terrifying Watch Dogs-Like Smart Glasses Make It Possible To Dox Strangers On The Street](https://kotaku.com/watch-dogs-smart-glasses-instantly-dox-strangers-meta-1851663754)
+ - [Eastern Temple and ‘Let’s Play a Game’ quest walkthrough for Zelda: Echoes of Wisdom](https://www.polygon.com/zelda-echoes-wisdom-guides/459444/eastern-temple-walkthrough-lets-play-a-game)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
