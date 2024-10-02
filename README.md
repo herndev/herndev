@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Miss Slingshot Nr.2](http://9gag.com/gag/ae9rKYO)
- - ⏩ [Famous Polish Zero...](http://9gag.com/gag/ae9rK4m)
- - 👉 [What Have We Done? Are We The Baddies?](http://9gag.com/gag/ajPEozx)<!-- MEMES:END -->
+ - 💣 [Owner of impact plastics Gerald O\u2019Connor, who let 6 employees die due to flooding in Hurricane Helene by telling them they\u2019d be fired if they didn\u2019t show up that day](http://9gag.com/gag/aVv3n6M)
+ - ⏩ [Yuna song not happy](http://9gag.com/gag/azxX6Rj)
+ - 👉 [I really understand the guy](http://9gag.com/gag/aPAY66P)<!-- MEMES:END -->
 
 ---
 
