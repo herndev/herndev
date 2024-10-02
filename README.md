@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [`Look civilisation ! Let&#39;s destroy it](http://9gag.com/gag/aLnjyNW)
- - ⏩ [Her daughter was only 13 years old. She burned him alive without mercy. Well done.](http://9gag.com/gag/aPAjN8q)
- - 👉 [Czech Republic Blocked Joint EU Statement Calling for a Ceasefire in Lebanon](http://9gag.com/gag/aRB35Wy)<!-- MEMES:END -->
+ - ⏩ [Czech Republic Blocked Joint EU Statement Calling for a Ceasefire in Lebanon](http://9gag.com/gag/aRB35Wy)
+ - 👉 [Her daughter was only 13 years old. She burned him alive without mercy. Well done.](http://9gag.com/gag/aPAjN8q)<!-- MEMES:END -->
 
 ---
 
