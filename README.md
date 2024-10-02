@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Whattt is Hygene](http://9gag.com/gag/a2vonYp)
- - ⏩ [She knew her son got diddled\ud83d\udc80](http://9gag.com/gag/an7ML0b)
- - 👉 [Pleddit moment](http://9gag.com/gag/awyXRNy)<!-- MEMES:END -->
+ - 💣 [What Have We Done? Are We The Baddies?](http://9gag.com/gag/ajPEozx)
+ - ⏩ [The tolerant left.](http://9gag.com/gag/aqy7q2R)
+ - 👉 [HR is mostly a waste of air and space](http://9gag.com/gag/aLnjyzg)<!-- MEMES:END -->
 
 ---
 
