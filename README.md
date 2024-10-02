@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How Blizzard’s Titan fell apart](https://www.polygon.com/excerpt/458330/why-blizzard-mmo-titan-was-cancelled)
- - [Starfield&#39;s Shattered Space expansion hasn&#39;t been a smashing success on Steam: &#39;Less content than any Skyrim DLC&#39;](https://www.pcgamer.com/games/rpg/starfields-shattered-space-expansion-hasnt-been-a-smashing-success-on-steam-less-content-than-any-skyrim-dlc)
- - [The Rocky Horror Show is getting its own videogame for Halloween, and it&#39;s a retro 2D platformer for some reason](https://www.pcgamer.com/games/action/the-rocky-horror-show-is-getting-its-own-videogame-for-halloween-and-it-s-a-retro-2d-platformer-for-some-reason)<!-- GAME:END -->
+ - [Baldur’s Gate 3 Gets New Evil Endings, Mods and More on Xbox](https://news.xbox.com/en-us/2024/10/02/baldurs-gate-3-mods-evil-endings-dynamic-split-screen-xbox/)
+ - [Zelda: Echoes of Wisdom players are already cheesing their way through the game](https://www.polygon.com/zelda/458049/loz-echoes-wisdom-players-cheesing)
+ - [Final Fantasy 14 suspends housing demolition on North American servers after Hurricane Helene causes devastating damage across multiple states](https://www.pcgamer.com/games/final-fantasy/final-fantasy-14-suspends-housing-demolition-on-north-american-servers-after-hurricane-helene-causes-devastating-damage-across-multiple-states)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
