@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [What Have We Done? Are We The Baddies?](http://9gag.com/gag/ajPEozx)
- - ⏩ [The tolerant left.](http://9gag.com/gag/aqy7q2R)
- - 👉 [HR is mostly a waste of air and space](http://9gag.com/gag/aLnjyzg)<!-- MEMES:END -->
+ - 💣 [Whattt is Hygene](http://9gag.com/gag/a2vonYp)
+ - ⏩ [Sylvester Stallone paid $1 million dollars out of his own pocket for stunt man Simon Crane to slide between two planes on a cable at 15,000 feet &lpar;4.6 km&rpar; - making it the most expensive aerial stunt ever, according to the Guinness Book of World Records](http://9gag.com/gag/a34KmjN)
+ - 👉 [Yuna song not happy](http://9gag.com/gag/azxX6Rj)<!-- MEMES:END -->
 
 ---
 
