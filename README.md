@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to follow live sports scores on your iPhone lockscreen](https://www.theverge.com/23693319/iphone-live-activities-sports-lock-screen-apple-tv-mlb)
- - [T-Mobile follows up Verizon with a network outage of its own](https://www.androidauthority.com/t-mobile-outage-3487066/)
- - [The Garmin Lily 2 Active watch finally adds GPS and buttons](https://www.theverge.com/2024/10/2/24260540/garmin-lily-2-active-smartwatch-fitness-tracker)<!-- TECH:END -->
+ - [Accenture says it will train 30,000 employees on Nvidia technology and start a new Nvidia Business Group focused on driving enterprise adoption of AI agents &lpar;Dylan Martin/CRN&rpar;](http://www.techmeme.com/241002/p31#a241002p31)
+ - [The best Fitbits for your fitness and health](https://www.theverge.com/22982833/best-fitbit-watch-fitness-tracker)
+ - [Players Are Turning the ‘Echoes’ in ‘The Legend of Zelda: Echoes of Wisdom’ Into Cheat Codes](https://www.wired.com/story/players-turning-legend-of-zelda-echoes-of-wisdom-echoes-into-cheat-codes/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
