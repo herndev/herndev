@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Black Myth: Wukong&#39;s Most Bizarre Mod Turns It Into A First-Person Shooter](https://kotaku.com/black-myth-wukong-shooter-mod-dlc-xbox-ps5-1851663397)
  - [Age of Wonders 4 Has a New Chapter of Stories to Tell](https://news.xbox.com/en-us/2024/10/02/age-of-wonders-4-expansion-pass/)
- - [The mystery of Azrael’s burned demons runs even deeper than the movie says](https://www.polygon.com/horror/458753/azrael-demon-monster-how-bts)
- - [My Dragon Age: Inquisition replay is perfect now that I found this rare flower crown](https://www.polygon.com/gaming/459019/dragon-age-inquisition-ardent-blossom-flower-crown-quest)<!-- GAME:END -->
+ - [The mystery of Azrael’s burned demons runs even deeper than the movie says](https://www.polygon.com/horror/458753/azrael-demon-monster-how-bts)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
