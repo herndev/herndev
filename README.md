@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A profile of Denise Coates, the UK&#39;s richest woman, who founded online gambling company Bet365, which had &amp;pound;3B+ in 2023 revenue, as she focuses on a US expansion &lpar;Rob Davies/The Guardian&rpar;](http://www.techmeme.com/241002/p7#a241002p7)
- - [2024 has been a barren year for big video games compared to 2023, helping indie games take center stage; the games industry has laid off 10,000+ people in 2024 &lpar;Tom Faber/Financial Times&rpar;](http://www.techmeme.com/241002/p6#a241002p6)
- - [Formula E’s Race to Get the Whole World Electrified](https://www.wired.com/story/wired-energy-tech-summit-jeff-dodds-formula-e/)<!-- TECH:END -->
+ - [&#39;Wolfs&#39; is the most-watched movie on Apple TV+ ever](https://appleinsider.com/articles/24/10/02/wolfs-is-the-most-watched-movie-on-apple-tv-ever?utm_medium=rss)
+ - [Philippine President Marcos Jr. signs a law imposing a 12% value-added tax on non-resident digital service providers, including Netflix, HBO, and Disney &lpar;Andreo Calonzo/Bloomberg&rpar;](http://www.techmeme.com/241002/p9#a241002p9)
+ - [Developer Christian Selig says third-party YouTube app Juno for the Vision Pro was &quot;removed from the App Store&quot;, after YouTube said it violated its ToS in April &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/241002/p8#a241002p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
