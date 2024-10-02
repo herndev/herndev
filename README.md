@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [AMD Fluid Motion Frames 2 is out now and hands Radeon gamers a new AI-optimised frame generation option in most games](https://www.pcgamer.com/hardware/graphics-cards/amd-fluid-motion-frames-2-is-out-now-and-hands-radeon-gamers-a-new-ai-optimised-frame-generation-option-in-most-games)
- - [Leaked screenshots claiming to be from the next Sims game Project Rene have surfaced and fans are in shambles over them](https://www.pcgamer.com/games/the-sims/leaked-screenshots-claiming-to-be-from-the-next-sims-game-project-rene-have-surfaced-and-fans-are-in-shambles-over-them)
- - [Devolver has a new label dedicated to making games based on comics, films, TV shows and &#39;cult heroes&#39;](https://www.pcgamer.com/gaming-industry/game-development/devolver-has-a-new-label-dedicated-to-making-games-based-on-comics-films-tv-shows-and-cult-heroes)<!-- GAME:END -->
+ - [How Blizzard’s Titan fell apart](https://www.polygon.com/excerpt/458330/why-blizzard-mmo-titan-was-cancelled)
+ - [Starfield&#39;s Shattered Space expansion hasn&#39;t been a smashing success on Steam: &#39;Less content than any Skyrim DLC&#39;](https://www.pcgamer.com/games/rpg/starfields-shattered-space-expansion-hasnt-been-a-smashing-success-on-steam-less-content-than-any-skyrim-dlc)
+ - [The Rocky Horror Show is getting its own videogame for Halloween, and it&#39;s a retro 2D platformer for some reason](https://www.pcgamer.com/games/action/the-rocky-horror-show-is-getting-its-own-videogame-for-halloween-and-it-s-a-retro-2d-platformer-for-some-reason)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
