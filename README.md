@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [5 years left to get the seks](http://9gag.com/gag/aW41zo4)
- - ⏩ [Famous Polish Zero...](http://9gag.com/gag/ae9rK4m)
- - 👉 [My daughter just said she wants to go to band camp](http://9gag.com/gag/aryG1KB)<!-- MEMES:END -->
+ - 💣 [Famous Polish Zero...](http://9gag.com/gag/ae9rK4m)
+ - ⏩ [Demonization is getting out of hand](http://9gag.com/gag/aoyemmx)
+ - 👉 [The tolerant left.](http://9gag.com/gag/aqy7q2R)<!-- MEMES:END -->
 
 ---
 
