@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Black Myth: Wukong&#39;s Most Bizarre Mod Turns It Into A First-Person Shooter](https://kotaku.com/black-myth-wukong-shooter-mod-dlc-xbox-ps5-1851663397)
- - [Age of Wonders 4 Has a New Chapter of Stories to Tell](https://news.xbox.com/en-us/2024/10/02/age-of-wonders-4-expansion-pass/)
- - [The mystery of Azrael’s burned demons runs even deeper than the movie says](https://www.polygon.com/horror/458753/azrael-demon-monster-how-bts)<!-- GAME:END -->
+ - [God Of War Ragnarök, As Told By Steam Reviews](https://kotaku.com/god-of-war-ragnarok-steam-reviews-sony-1851663495)
+ - [All echoes locations in Zelda: Echoes of Wisdom](https://www.polygon.com/zelda-echoes-wisdom-guides/452604/all-echoes-best-complete-list-locations)
+ - [Best echoes in Zelda: Echoes of Wisdom](https://www.polygon.com/zelda-echoes-wisdom-guides/459271/best-echoes)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
