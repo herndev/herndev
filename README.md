@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [My daughter just said she wants to go to band camp](http://9gag.com/gag/aryG1KB)
- - ⏩ [Alpha male](http://9gag.com/gag/aYQg3g0)
- - 👉 [Iran missiles strike Israel](http://9gag.com/gag/aMVjRLX)<!-- MEMES:END -->
+ - 💣 [Sushi kebab](http://9gag.com/gag/aPAjE1R)
+ - ⏩ [The tolerant left.](http://9gag.com/gag/aqy7q2R)
+ - 👉 [Capture the flag](http://9gag.com/gag/aoyNBZn)<!-- MEMES:END -->
 
 ---
 
