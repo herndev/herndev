@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Barcelona-based Submer, which submerges data center server racks in its proprietary coolant, raised a $55.5M Series C at a ~$500M post-money valuation &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/241003/p14#a241003p14)
- - [Analysis: London&#39;s Met police used facial recognition 117 times in 2024 to August, up from 32 times in total from 2020 to 2023; ~770,966 people were scanned &lpar;Yasemin Craggs Mersinoglu/Financial Times&rpar;](http://www.techmeme.com/241003/p13#a241003p13)
- - [License Plate Readers Are Creating a US-Wide Database of Political Lawn Signs and Bumper Stickers](https://www.wired.com/story/license-plate-readers-political-signs-bumper-stickers/)<!-- TECH:END -->
+ - [Epic knows its game store social features ‘suck,’ but it wants to fix that](https://www.theverge.com/2024/10/3/24260534/epic-games-store-pc-social-features-suck)
+ - [This crazy Samsung photo trick is coming to another flagship phone](https://www.androidauthority.com/crazy-samsung-photo-trick-oppo-find-x8-3487207/)
+ - [As Wildfires Rage, California’s Insurance Market Is in Crisis](https://www.wired.com/story/fire-insurance-wildfires-california-state-farm-allstate-liberty-mutual/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
