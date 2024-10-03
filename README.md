@@ -48,7 +48,7 @@
 <!-- MEMES:START -->
  - 💣 [The gaurdian.](http://9gag.com/gag/aE02w99)
  - ⏩ [Mexico&#39;s president said nope](http://9gag.com/gag/awyA0mR)
- - 👉 [This can&#39;t be anything good...](http://9gag.com/gag/azx9LEB)<!-- MEMES:END -->
+ - 👉 [Pulpit rock in Norway](http://9gag.com/gag/aVvYWjK)<!-- MEMES:END -->
 
 ---
 
