@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Inside Elon Musk’s AI party in OpenAI’s old headquarters](https://www.theverge.com/2024/10/3/24261160/elon-musk-xai-recruiting-party-openai-dev-day-sam-altman)
- - [These Anker SOLIX power station deals are for those who need serious power](https://www.androidauthority.com/anker-solix-deals-3487260/)
- - [Google’s rivalry with OpenAI heats up as it works on a new reasoning AI model](https://www.androidauthority.com/google-reasoning-ai-model-3487297/)<!-- TECH:END -->
+ - [&#39;Ted Lasso&#39; season 4 rumored to start filming in London in early 2025](https://appleinsider.com/articles/24/10/03/ted-lasso-season-4-rumored-to-start-filming-in-london-in-early-2025?utm_medium=rss)
+ - [Google rolls out ads in AI Overviews when a user&#39;s question has a &quot;commercial angle&quot;, and identifies the ads with a &quot;sponsored&quot; header, on mobile in the US &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/241003/p27#a241003p27)
+ - [Google updates Lens to let users take a video or use their voice to search, showing an AI Overview and search results, rolling out to Search Labs on mobile &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/241003/p26#a241003p26)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
