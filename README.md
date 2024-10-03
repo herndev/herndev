@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Japan](http://9gag.com/gag/aQz3Yjr)
- - ⏩ [The milk became yogurt](http://9gag.com/gag/a87oP8d)
- - 👉 [Hey look it\u2019s Eddie Ha-](http://9gag.com/gag/abAMjLr)<!-- MEMES:END -->
+ - 💣 [Miss Slingshot Nr.2](http://9gag.com/gag/ae9rKYO)
+ - ⏩ [What Will happen LOL.](http://9gag.com/gag/a87oBve)
+ - 👉 [Pleddit moment](http://9gag.com/gag/awyXRNy)<!-- MEMES:END -->
 
 ---
 
