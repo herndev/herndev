@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [6 exciting city builders coming out before the end of the 2024 &lpar;plus a few more to look forward to next year&rpar;](https://www.pcgamer.com/games/city-builder/city-builders-2024)
- - [Paradox scrupulously avoids saying &#39;Nazis&#39; in the new Hearts of Iron 4 expansion announcement, which is all about Nazis](https://www.pcgamer.com/games/strategy/paradox-scrupulously-avoids-saying-nazis-in-the-new-hearts-of-iron-4-expansion-announcement-which-is-all-about-nazis)
- - [Counter-Strike 2 gives the people what they want: tiny sausages hanging from their guns](https://www.pcgamer.com/games/fps/counter-strike-2-gives-the-people-what-they-want-tiny-sausages-hanging-from-their-guns)<!-- GAME:END -->
+ - [Official Xbox Podcast | Diablo IV Update, FC 25, Controllers, and More](https://news.xbox.com/en-us/podcast/diablo-iv-update-fc-25-controllers-and-more-official-xbox-podcast/)
+ - [Big Star Wars Outlaws patch fixes a long list of launch issues](https://www.polygon.com/gaming/460554/star-wars-outlaws-stealth-speeder-bugs-patch)
+ - [6 exciting city builders coming out before the end of 2024 &lpar;plus a few more to look forward to next year&rpar;](https://www.pcgamer.com/games/city-builder/city-builders-2024)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
