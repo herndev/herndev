@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [I spent 14 hours flying 6,230 miles to watch MSI make me a new motherboard in just 40 minutes](https://www.pcgamer.com/hardware/motherboards/i-spent-14-hours-flying-6230-miles-to-watch-msi-make-me-a-new-motherboard-in-just-40-minutes)
- - [Is the Daily PokéCoin Bounty Part 2 ticket worth it in Pokémon Go?](https://www.polygon.com/pokemon-go-guide/446377/daily-pokecoin-bounty-ticket-worth-it-value-research)
- - [Today&#39;s Wordle answer for Thursday, October 3](https://www.pcgamer.com/games/puzzle/wordle-answer-today-october-3-2024)<!-- GAME:END -->
+ - [You will never play many of 2024’s best games](https://www.polygon.com/459580/too-many-video-games)
+ - [Bethesda honcho says Starfield is &#39;the best game we&#39;ve ever made&#39; in massive bout of amnesia](https://www.pcgamer.com/games/rpg/bethesda-honcho-says-starfield-is-the-best-game-weve-ever-made-in-massive-bout-of-amnesia)
+ - [Not all Space Marines are created equal: Space Marine 2 dev asks players to be nice on the off chance you come across Henry Cavill](https://www.pcgamer.com/games/action/not-all-space-marines-are-created-equal-space-marine-2-dev-asks-players-to-be-nice-on-the-off-chance-you-come-across-henry-cavill)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
