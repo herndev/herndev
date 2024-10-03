@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The hits just keep on coming. More than DOUBLE the budget of Concord](http://9gag.com/gag/a6ZOrDm)
- - ⏩ [Owner of impact plastics Gerald O\u2019Connor, who let 6 employees die due to flooding in Hurricane Helene by telling them they\u2019d be fired if they didn\u2019t show up that day](http://9gag.com/gag/aVv3n6M)
- - 👉 [Pleddit moment](http://9gag.com/gag/awyXRNy)<!-- MEMES:END -->
+ - 💣 [For the boys...](http://9gag.com/gag/aNDYem3)
+ - ⏩ [Famous Polish Zero...](http://9gag.com/gag/ae9rK4m)
+ - 👉 [Not the sharpest of tools.](http://9gag.com/gag/a873dvY)<!-- MEMES:END -->
 
 ---
 
