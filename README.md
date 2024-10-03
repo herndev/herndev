@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Gemini Live goes global with support for 40+ languages](https://www.androidauthority.com/gemini-live-languages-3487021/)
- - [Uber partners with ex-Yandex self-driving group for robotaxis and robot delivery](https://www.theverge.com/2024/10/3/24260712/uber-avride-robotaxi-sidewalk-robot-delivery-yandex)
- - [Gemini Live will support more languages for its AI voice chat](https://www.theverge.com/2024/10/3/24260561/gemini-live-language-support)<!-- TECH:END -->
+ - [The toxic transformation of Warcraft maker Blizzard](https://www.theverge.com/2024/10/3/24260550/blizzard-entertainment-play-nice-jason-schreier-activision-gaming-microsoft-xbox-decoder-interview)
+ - [What’s on your desk, David Pierce?](https://www.theverge.com/24259381/work-home-desk-logitech-sony)
+ - [No, you’re not hacked: You can ignore that scary “You added a new card to your Google Account” email](https://www.androidauthority.com/google-account-added-a-new-card-email-3487265/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
