@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Out hiking](http://9gag.com/gag/an7MpDo)
- - ⏩ [I really understand the guy](http://9gag.com/gag/aPAY66P)
- - 👉 [Gets caught stealing and the owners locked them in, she is screaming \u201ccall the police\u201d and acting like she is the victim of a kidnapping! She is trying to get the men outside to do something because she is a woman ! the police came and arrested the owners of the shop.](http://9gag.com/gag/aqyKmVL)<!-- MEMES:END -->
+ - 💣 [Hey look it\u2019s Eddie Ha-](http://9gag.com/gag/abAMjLr)
+ - ⏩ [NFL player Rashee Rice&#39;s mom was caught stealing a package from a neighbor&#39;s porch while wearing a `Momma-Rice` jersey. Rice is signed to a 6.5M dollar contract](http://9gag.com/gag/amoBXK4)
+ - 👉 [Mexico&#39;s president said nope](http://9gag.com/gag/awyA0mR)<!-- MEMES:END -->
 
 ---
 
