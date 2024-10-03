@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Solo dev says he&#39;s bucking against the survival &#39;formula&#39; that makes them stale, and if you want to actually make an axe from scratch does he have the game for you](https://www.pcgamer.com/games/survival-crafting/solo-dev-says-hes-bucking-against-the-survival-formula-that-makes-them-stale-and-if-you-want-to-actually-make-an-axe-from-scratch-does-he-have-the-game-for-you)
- - [GTA Online Is Getting A Zombies Mode Set In GTA V&#39;s Snowy Opening Location](https://kotaku.com/gta-online-zombies-north-yankton-halloween-survival-1851664429)
- - [Thrustmaster AVA F/A-18 Super Hornet flight stick review](https://www.pcgamer.com/hardware/controllers/thrustmaster-ava-f-a-18-super-hornet-flight-stick-review)<!-- GAME:END -->
+ - [Asmodee’s first Lego board game, Monkey Palace, feels like Scrabble for STEM kids](https://www.polygon.com/gaming/459860/monkey-palace-lego-board-game-review)
+ - [Windblown Hands-On: Dead Cells Developer’s New 3D Roguelike Is Lightning-Fast Fun](https://kotaku.com/windblown-preview-dead-cells-motion-twin-1851664560)
+ - [15 Things We Wish We Knew Before Playing Space Marine 2 Multiplayer](https://kotaku.com/space-marine-2-multiplayer-tips-1851664469)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
