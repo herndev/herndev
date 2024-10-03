@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Rings of Power season 2 leaves its wizards almost as mysterious as season 1](https://www.polygon.com/lotr-rings-of-power/459369/gandalf-name-saruman-dark-wizard)
- - [&#39;None of this makes any sense&#39;: Amazon&#39;s latest MMO import is a localization disaster](https://www.pcgamer.com/games/mmo/none-of-this-makes-any-sense-amazons-latest-mmo-import-is-a-localization-disaster)
- - [Kvark is a Sovietcore boomer shooter that looks like Half Life if it happened in early &#39;80s Czechoslovakia, and it&#39;s somehow become my favorite FPS of the month](https://www.pcgamer.com/games/fps/kvark-is-a-sovietcore-boomer-shooter-that-looks-like-half-life-if-it-happened-in-early-80s-czechoslovakia-and-its-somehow-become-my-favorite-fps-of-the-month)<!-- GAME:END -->
+ - [The illustrated Lord of the Rings box set has never been cheaper](https://www.polygon.com/amazon-prime-day/460068/lord-of-the-rings-illustrated-box-set-hobbit-sale)
+ - [Final Fantasy XVI, As Told By Steam Reviews](https://kotaku.com/final-fantasy-16-steam-pc-reviews-square-enix-rpg-1851664723)
+ - [Rings of Power season 2 leaves its wizards almost as mysterious as season 1](https://www.polygon.com/lotr-rings-of-power/459369/gandalf-name-saruman-dark-wizard)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
