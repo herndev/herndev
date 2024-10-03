@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Today&#39;s Wordle answer for Thursday, October 3](https://www.pcgamer.com/games/puzzle/wordle-answer-today-october-3-2024)
- - [The big Deadlock hero tier list: Who is dominating Valve&#39;s new MOBA in the early days](https://www.pcgamer.com/games/moba/deadlock-best-character-tier-list)
- - [A Valve engineer used ChatGPT to find a new matchmaking algorithm for Deadlock, and now it&#39;s in the game](https://www.pcgamer.com/games/moba/valve-chatgpt-deadlock-algorithm)<!-- GAME:END -->
+ - [I spent 14 hours flying 6,230 miles to watch MSI make me a new motherboard in just 40 minutes](https://www.pcgamer.com/hardware/motherboards/i-spent-14-hours-flying-6230-miles-to-watch-msi-make-me-a-new-motherboard-in-just-40-minutes)
+ - [Is the Daily PokéCoin Bounty Part 2 ticket worth it in Pokémon Go?](https://www.polygon.com/pokemon-go-guide/446377/daily-pokecoin-bounty-ticket-worth-it-value-research)
+ - [Today&#39;s Wordle answer for Thursday, October 3](https://www.pcgamer.com/games/puzzle/wordle-answer-today-october-3-2024)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
