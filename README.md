@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Works!](http://9gag.com/gag/aAyxnZZ)
- - ⏩ [HR is mostly a waste of air and space](http://9gag.com/gag/aLnjyzg)
- - 👉 [I really understand the guy](http://9gag.com/gag/aPAY66P)<!-- MEMES:END -->
+ - 💣 [I don\u2019t know how he didn\u2019t know the board was there](http://9gag.com/gag/a4PQpmQ)
+ - ⏩ [Palm reading](http://9gag.com/gag/aND1xN0)
+ - 👉 [Pleddit moment](http://9gag.com/gag/awyXRNy)<!-- MEMES:END -->
 
 ---
 
