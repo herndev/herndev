@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [All the Lord of the Rings: The Rings of Power season 3 news we’ve heard so far](https://www.polygon.com/lotr-rings-of-power/459256/trop-season-3-release-date-cast-news)
- - [Samsung debated selling off its manufacturing arm as 3 nm yields remain low and the chip giant&#39;s stock price drops](https://www.pcgamer.com/hardware/samsung-debated-selling-off-its-manufacturing-arm-as-3-nm-yields-remain-low-and-the-chip-giants-stock-price-drops)
- - [You will never play many of 2024’s best games](https://www.polygon.com/459580/too-many-video-games)<!-- GAME:END -->
+ - [Metro Awakening adapts classic gameplay mechanics for PS VR2](https://blog.playstation.com/2024/10/03/metro-awakening-adapts-classic-gameplay-mechanics-for-ps-vr2/)
+ - [Fear the Spotlight&#39;s demo is a great way to kick off the spooky season even if it did make me face one of my irrational fears](https://www.pcgamer.com/games/horror/fear-the-spotlights-demo-may-be-a-giant-red-flag-but-its-a-great-way-to-kick-off-the-spooky-season-and-get-some-early-scares-in)
+ - [Mortal Kombat 1’s Towers Of Time Mode Isn’t Explained Well, So We Made It Simple](https://kotaku.com/mortal-kombat-1-towers-of-time-mode-guide-1851664040)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
