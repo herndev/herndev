@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [The big Deadlock hero tier list: Who is dominating Valve&#39;s new MOBA in the early days](https://www.pcgamer.com/games/moba/deadlock-best-character-tier-list)
  - [A Valve engineer used ChatGPT to find a new matchmaking algorithm for Deadlock, and now it&#39;s in the game](https://www.pcgamer.com/games/moba/valve-chatgpt-deadlock-algorithm)
- - [The Day Before’s strange saga continues, as Fntastic attempts a comeback with a new game](https://www.polygon.com/gaming/459703/the-day-before-dev-fntastic-escape-factory-kickstarter)
- - [The portals to hell have legs and health bars in Diablo 4: Vessel of Hatred&#39;s Season of Hatred Rising](https://www.pcgamer.com/games/rpg/the-portals-to-hell-have-legs-and-health-bars-in-diablo-4-vessel-of-hatreds-season-of-hatred-rising)<!-- GAME:END -->
+ - [The Day Before’s strange saga continues, as Fntastic attempts a comeback with a new game](https://www.polygon.com/gaming/459703/the-day-before-dev-fntastic-escape-factory-kickstarter)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
