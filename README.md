@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple releases iOS 18.0.1 with bug fixes for iPhone 16 touchscreen and more](https://www.theverge.com/2024/10/3/24261590/apple-ios-18-0-1-bug-fixes-iphone-16-touch-screen)
- - [These Tracfone prepaid plans now get double the data and hotspot at no extra cost](https://www.androidauthority.com/tracfone-plans-upgrade-3487552/)
- - [Point updates for iOS, iPadOS, macOS &amp; the rest released with bug fixes](https://appleinsider.com/articles/24/10/03/point-updates-for-ios-ipados-macos-the-rest-released-with-bug-fixes?utm_medium=rss)<!-- TECH:END -->
+ - [The best phone to buy right now](https://www.theverge.com/22163811/best-phone)
+ - [Google Meet’s new call screen makes it easier to hop into meetings with recent contacts](https://www.androidauthority.com/google-meet-start-a-call-screen-3487298/)
+ - [Here’s how you’ll use your phone like a Wiimote to control Samsung TVs in 2025](https://www.androidauthority.com/samsung-tv-wiimote-control-3487484/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
