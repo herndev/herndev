@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [...](http://9gag.com/gag/a7o3v5x)
- - ⏩ [Losing Interest and skills too\ud83d\ude2d](http://9gag.com/gag/avy82VE)
- - 👉 [I really understand the guy](http://9gag.com/gag/aPAY66P)<!-- MEMES:END -->
+ - 💣 [Pleddit moment](http://9gag.com/gag/awyXRNy)
+ - ⏩ [Guess now we know why Justin become such a weirdo.](http://9gag.com/gag/aGyZ9Y5)
+ - 👉 [Miss Slingshot Nr.2](http://9gag.com/gag/ae9rKYO)<!-- MEMES:END -->
 
 ---
 
