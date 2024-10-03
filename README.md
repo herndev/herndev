@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I don\u2019t know how he didn\u2019t know the board was there](http://9gag.com/gag/a4PQpmQ)
- - ⏩ [Palm reading](http://9gag.com/gag/aND1xN0)
- - 👉 [Pleddit moment](http://9gag.com/gag/awyXRNy)<!-- MEMES:END -->
+ - 💣 [Last night](http://9gag.com/gag/ae9Mo6B)
+ - ⏩ [I mean, you don&#39;t want to waste gas, right?](http://9gag.com/gag/awyX6oW)
+ - 👉 [10 Years Ago Elsa and Anna went Live Action](http://9gag.com/gag/azx976K)<!-- MEMES:END -->
 
 ---
 
