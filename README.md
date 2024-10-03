@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Black Forest Labs, whose Flux.1 model powers Grok&#39;s image generator, launches an API in beta and its latest image generation model Flux1.1 Pro &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/241003/p22#a241003p22)
- - [Spotify now automatically creates an offline playlist when you lose internet](https://www.theverge.com/2024/10/3/24261098/spotify-music-offline-backup)
- - [Tesla recalls over 27,000 Cybertrucks over laggy reverse cameras](https://www.theverge.com/2024/10/3/24261099/tesla-cybertruck-recall-reverse-camera-delay-software)<!-- TECH:END -->
+ - [Inside Elon Musk’s AI party in OpenAI’s old headquarters](https://www.theverge.com/2024/10/3/24261160/elon-musk-xai-recruiting-party-openai-dev-day-sam-altman)
+ - [These Anker SOLIX power station deals are for those who need serious power](https://www.androidauthority.com/anker-solix-deals-3487260/)
+ - [Google’s rivalry with OpenAI heats up as it works on a new reasoning AI model](https://www.androidauthority.com/google-reasoning-ai-model-3487297/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
