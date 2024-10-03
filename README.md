@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Yuna song not happy](http://9gag.com/gag/azxX6Rj)
- - ⏩ [Pleddit moment](http://9gag.com/gag/awyXRNy)
- - 👉 [...](http://9gag.com/gag/a7o3v5x)<!-- MEMES:END -->
+ - ⏩ [10 Years Ago Elsa and Anna went Live Action](http://9gag.com/gag/azx976K)
+ - 👉 [HR is mostly a waste of air and space](http://9gag.com/gag/aLnjyzg)<!-- MEMES:END -->
 
 ---
 
