@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A US judge temporarily blocks California&#39;s AG from enforcing AB 2839 on election deepfakes, which Gov. Gavin Newsom signed into law on September 17 &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/241002/p34#a241002p34)
- - [Ring just doubled the price of its alarm monitoring service for grandfathered customers](https://www.theverge.com/2024/10/2/24260773/amazon-ring-alarm-price-hike-dark-pattern)
- - [The SEC files a notice of appeal in its Ripple case, seeking to reverse a July 2023 ruling that XRP sales on retail exchanges didn&#39;t violate securities law &lpar;Nikhilesh De/CoinDesk&rpar;](http://www.techmeme.com/241002/p33#a241002p33)<!-- TECH:END -->
+ - [Founders Tim Berners-Lee and Rosemary Leith announce the World Wide Web Foundation is shutting down after fifteen years of fighting to make the web safer &lpar;Thomas Claburn/The Register&rpar;](http://www.techmeme.com/241002/p35#a241002p35)
+ - [Best BBQ Sauces for 2024](https://www.cnet.com/news/best-bbq-sauces/#ftag=CAD590a51e)
+ - [Best Beats Headphones and Earbuds for 2024](https://www.cnet.com/tech/mobile/best-beats-headphones/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
