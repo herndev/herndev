@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Yuna song not happy](http://9gag.com/gag/azxX6Rj)
- - ⏩ [10 Years Ago Elsa and Anna went Live Action](http://9gag.com/gag/azx976K)
- - 👉 [HR is mostly a waste of air and space](http://9gag.com/gag/aLnjyzg)<!-- MEMES:END -->
+ - 💣 [Let&#39;s be honest... companies DON&#39;T care...](http://9gag.com/gag/aLnjqyv)
+ - ⏩ [I really understand the guy](http://9gag.com/gag/aPAY66P)
+ - 👉 [Commercial airplane without the seats](http://9gag.com/gag/azxX63K)<!-- MEMES:END -->
 
 ---
 
