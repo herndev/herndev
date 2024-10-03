@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Biden signs legislation exempting some US semiconductor manufacturing facilities from federal environmental reviews that are receiving government subsidies &lpar;David Shepardson/Reuters&rpar;](http://www.techmeme.com/241002/p32#a241002p32)
- - [Charter will offer Peacock for free with some cable subscriptions next year](https://www.theverge.com/2024/10/2/24260711/charter-cable-bundle-free-peacock-streaming-carriage-deal)
- - [The best Nintendo Switch controllers to buy right now](https://www.theverge.com/23350899/nintendo-switch-controllers-best-wireless-joy-con-gamepad)<!-- TECH:END -->
+ - [The SEC files a notice of appeal in its Ripple case, seeking to reverse a July 2023 ruling that XRP sales on retail exchanges didn&#39;t violate securities law &lpar;Nikhilesh De/CoinDesk&rpar;](http://www.techmeme.com/241002/p33#a241002p33)
+ - [Here are the best iPad deals right now](https://www.theverge.com/21280354/best-ipad-deals-apple)
+ - [Tim Cook sells Apple stock worth in excess of $50 million](https://appleinsider.com/articles/24/10/02/tim-cook-sells-apple-stock-worth-in-excess-of-50-million?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
