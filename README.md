@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The illustrated Lord of the Rings box set has never been cheaper](https://www.polygon.com/amazon-prime-day/460068/lord-of-the-rings-illustrated-box-set-hobbit-sale)
- - [Final Fantasy XVI, As Told By Steam Reviews](https://kotaku.com/final-fantasy-16-steam-pc-reviews-square-enix-rpg-1851664723)
- - [Rings of Power season 2 leaves its wizards almost as mysterious as season 1](https://www.polygon.com/lotr-rings-of-power/459369/gandalf-name-saruman-dark-wizard)<!-- GAME:END -->
+ - [Counter-Strike 2 gives the people what they want: tiny sausages hanging from their guns](https://www.pcgamer.com/games/fps/counter-strike-2-gives-the-people-what-they-want-tiny-sausages-hanging-from-their-guns)
+ - [This Sick-Looking Elden Ring Jacket Is Inspired By One Its Coolest Bosses](https://kotaku.com/elden-ring-jacket-maliketh-limited-edition-1851664813)
+ - [The Sims 4&#39;s Life and Death expansion is indeed adding that Grim Reaper career everyone wanted](https://www.pcgamer.com/games/the-sims/the-sims-4s-life-and-death-expansion-is-indeed-adding-that-grim-reaper-career-everyone-wanted)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
