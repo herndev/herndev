@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Counter-Strike 2 gives the people what they want: tiny sausages hanging from their guns](https://www.pcgamer.com/games/fps/counter-strike-2-gives-the-people-what-they-want-tiny-sausages-hanging-from-their-guns)
- - [This Sick-Looking Elden Ring Jacket Is Inspired By One Its Coolest Bosses](https://kotaku.com/elden-ring-jacket-maliketh-limited-edition-1851664813)
- - [The Sims 4&#39;s Life and Death expansion is indeed adding that Grim Reaper career everyone wanted](https://www.pcgamer.com/games/the-sims/the-sims-4s-life-and-death-expansion-is-indeed-adding-that-grim-reaper-career-everyone-wanted)<!-- GAME:END -->
+ - [6 exciting city builders coming out before the end of the 2024 &lpar;plus a few more to look forward to next year&rpar;](https://www.pcgamer.com/games/city-builder/city-builders-2024)
+ - [Paradox scrupulously avoids saying &#39;Nazis&#39; in the new Hearts of Iron 4 expansion announcement, which is all about Nazis](https://www.pcgamer.com/games/strategy/paradox-scrupulously-avoids-saying-nazis-in-the-new-hearts-of-iron-4-expansion-announcement-which-is-all-about-nazis)
+ - [Counter-Strike 2 gives the people what they want: tiny sausages hanging from their guns](https://www.pcgamer.com/games/fps/counter-strike-2-gives-the-people-what-they-want-tiny-sausages-hanging-from-their-guns)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
