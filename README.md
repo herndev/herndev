@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Give me 1 minute without politics](http://9gag.com/gag/aGyZYmK)
- - ⏩ [This is a funny picture, now laugh!](http://9gag.com/gag/aMVZeNV)
- - 👉 [Gentleman](http://9gag.com/gag/a7o35ne)<!-- MEMES:END -->
+ - 💣 [Note: Avoid browsing in bathrooms.](http://9gag.com/gag/a9yKdR1)
+ - ⏩ [Demonization is getting out of hand](http://9gag.com/gag/aoyemmx)
+ - 👉 [Palm reading](http://9gag.com/gag/aND1xN0)<!-- MEMES:END -->
 
 ---
 
