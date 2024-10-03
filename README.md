@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The SEC files a notice of appeal in its Ripple case, seeking to reverse a July 2023 ruling that XRP sales on retail exchanges didn&#39;t violate securities law &lpar;Nikhilesh De/CoinDesk&rpar;](http://www.techmeme.com/241002/p33#a241002p33)
- - [Here are the best iPad deals right now](https://www.theverge.com/21280354/best-ipad-deals-apple)
- - [Tim Cook sells Apple stock worth in excess of $50 million](https://appleinsider.com/articles/24/10/02/tim-cook-sells-apple-stock-worth-in-excess-of-50-million?utm_medium=rss)<!-- TECH:END -->
+ - [A US judge temporarily blocks California&#39;s AG from enforcing AB 2839 on election deepfakes, which Gov. Gavin Newsom signed into law on September 17 &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/241002/p34#a241002p34)
+ - [Ring just doubled the price of its alarm monitoring service for grandfathered customers](https://www.theverge.com/2024/10/2/24260773/amazon-ring-alarm-price-hike-dark-pattern)
+ - [The SEC files a notice of appeal in its Ripple case, seeking to reverse a July 2023 ruling that XRP sales on retail exchanges didn&#39;t violate securities law &lpar;Nikhilesh De/CoinDesk&rpar;](http://www.techmeme.com/241002/p33#a241002p33)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
