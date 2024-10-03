@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [WP Engine files a lawsuit in California against Automattic and WordPress co-founder Matt Mullenweg, accusing them of extortion, abuse of power, and greed &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/241002/p38#a241002p38)
- - [Twitch includes raids, which let streamers who are going offline to send viewers to other channels, in its average viewer count, easing the path to make partner &lpar;James Hale/Tubefilter&rpar;](http://www.techmeme.com/241002/p37#a241002p37)
- - [Investigation: over a dozen crypto companies unknowingly hired North Korean IT workers who used fake IDs, successfully navigated interviews, and passed checks &lpar;Sam Kessler/CoinDesk&rpar;](http://www.techmeme.com/241002/p36#a241002p36)<!-- TECH:END -->
+ - [Analysis: Microsoft&#39;s finance leases, commencing between FY 2025 and FY 2030, mainly for data centers, has risen by $100B+ in less than two years to $108.4B &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/241003/p1#a241003p1)
+ - [Epic is bringing its free games program to mobile this year](https://www.androidauthority.com/epic-free-games-program-mobile-coming-soon-3487129/)
+ - [One UI 7 is almost here: What we know so far and what want to see](https://www.androidauthority.com/one-ui-7-3429831/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
