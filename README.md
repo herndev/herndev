@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Let&#39;s be honest... companies DON&#39;T care...](http://9gag.com/gag/aLnjqyv)
- - ⏩ [I really understand the guy](http://9gag.com/gag/aPAY66P)
- - 👉 [Commercial airplane without the seats](http://9gag.com/gag/azxX63K)<!-- MEMES:END -->
+ - 💣 [Japan](http://9gag.com/gag/aQz3Yjr)
+ - ⏩ [The milk became yogurt](http://9gag.com/gag/a87oP8d)
+ - 👉 [Hey look it\u2019s Eddie Ha-](http://9gag.com/gag/abAMjLr)<!-- MEMES:END -->
 
 ---
 
