@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I&#39;m known where are you live](http://9gag.com/gag/awyAr64)
- - ⏩ [This can&#39;t be anything good...](http://9gag.com/gag/azx9LEB)
- - 👉 [I really understand the guy](http://9gag.com/gag/aPAY66P)<!-- MEMES:END -->
+ - 💣 [Every masterpiece has its cheap copy](http://9gag.com/gag/axyz2jY)
+ - ⏩ [Horsemen of the Apocalypse](http://9gag.com/gag/aPAYy4q)
+ - 👉 [Forklift fellas](http://9gag.com/gag/aqyK98Y)<!-- MEMES:END -->
 
 ---
 
