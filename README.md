@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Metro Awakening adapts classic gameplay mechanics for PS VR2](https://blog.playstation.com/2024/10/03/metro-awakening-adapts-classic-gameplay-mechanics-for-ps-vr2/)
- - [Fear the Spotlight&#39;s demo is a great way to kick off the spooky season even if it did make me face one of my irrational fears](https://www.pcgamer.com/games/horror/fear-the-spotlights-demo-may-be-a-giant-red-flag-but-its-a-great-way-to-kick-off-the-spooky-season-and-get-some-early-scares-in)
- - [Mortal Kombat 1’s Towers Of Time Mode Isn’t Explained Well, So We Made It Simple](https://kotaku.com/mortal-kombat-1-towers-of-time-mode-guide-1851664040)<!-- GAME:END -->
+ - [Free Play Days – Matchpoint – Tennis Championships and The Land Beneath Us](https://news.xbox.com/en-us/2024/10/03/free-play-days-matchpoint-tennis-championships-and-the-land-beneath-us/)
+ - [Dragon Age won The Game Awards’ first GOTY 10 years ago. Is it about to happen again?](https://www.polygon.com/awards/459117/dragon-age-the-veilguard-game-awards-chances)
+ - [Asus has now made it clear if a product sent for repair will be fixed under warranty or if it&#39;ll cost ya](https://www.pcgamer.com/hardware/in-response-to-backlash-asus-has-now-made-it-clear-if-a-product-sent-for-repair-will-be-fixed-under-warranty-or-if-itll-cost-ya)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
