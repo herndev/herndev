@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Here are the Pixel 9a wallpapers for your viewing pleasure](https://www.androidauthority.com/pixel-9a-wallpapers-3487145/)
- - [PitchBook: Q3 US VC investments rose 8% YoY to $37.9B across 3,777 deals; AI firms got 36% of deal value and 27% of deal count in the first nine months of 2024 &lpar;Sarah McBride/Bloomberg&rpar;](http://www.techmeme.com/241003/p3#a241003p3)
- - [PitchBook and the NVCA: global VC activity declined in Q3; VC investments in Asia hit $14.9B, the lowest figure since Q1 2017, impacted by China&#39;s deep decline &lpar;Dean Takahashi/VentureBeat&rpar;](http://www.techmeme.com/241003/p2#a241003p2)<!-- TECH:END -->
+ - [Uh oh: More ads are coming to Prime Video](https://www.androidauthority.com/prime-video-more-ads-3486001/)
+ - [Two Harvard students demo using Ray-Ban Meta Smart Glasses, PimEyes, and other tools to instantly identify strangers&#39; names, phone numbers, addresses, and more &lpar;Joseph Cox/404 Media&rpar;](http://www.techmeme.com/241003/p6#a241003p6)
+ - [Dogecoin has become surprisingly popular among businesses looking to accept crypto for real-world purchases, largely due to the memecoin&#39;s low transaction costs &lpar;Teresa Xie/Bloomberg&rpar;](http://www.techmeme.com/241003/p5#a241003p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
