@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Asmodee’s first Lego board game, Monkey Palace, feels like Scrabble for STEM kids](https://www.polygon.com/gaming/459860/monkey-palace-lego-board-game-review)
- - [Windblown Hands-On: Dead Cells Developer’s New 3D Roguelike Is Lightning-Fast Fun](https://kotaku.com/windblown-preview-dead-cells-motion-twin-1851664560)
- - [15 Things We Wish We Knew Before Playing Space Marine 2 Multiplayer](https://kotaku.com/space-marine-2-multiplayer-tips-1851664469)<!-- GAME:END -->
+ - [Rings of Power season 2 leaves its wizards almost as mysterious as season 1](https://www.polygon.com/lotr-rings-of-power/459369/gandalf-name-saruman-dark-wizard)
+ - [&#39;None of this makes any sense&#39;: Amazon&#39;s latest MMO import is a localization disaster](https://www.pcgamer.com/games/mmo/none-of-this-makes-any-sense-amazons-latest-mmo-import-is-a-localization-disaster)
+ - [Kvark is a Sovietcore boomer shooter that looks like Half Life if it happened in early &#39;80s Czechoslovakia, and it&#39;s somehow become my favorite FPS of the month](https://www.pcgamer.com/games/fps/kvark-is-a-sovietcore-boomer-shooter-that-looks-like-half-life-if-it-happened-in-early-80s-czechoslovakia-and-its-somehow-become-my-favorite-fps-of-the-month)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
