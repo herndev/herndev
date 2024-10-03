@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Every masterpiece has its cheap copy](http://9gag.com/gag/axyz2jY)
- - ⏩ [Horsemen of the Apocalypse](http://9gag.com/gag/aPAYy4q)
- - 👉 [Forklift fellas](http://9gag.com/gag/aqyK98Y)<!-- MEMES:END -->
+ - 💣 [The gaurdian.](http://9gag.com/gag/aE02w99)
+ - ⏩ [When you put a headset microphone on tennis players](http://9gag.com/gag/aQzRpAq)
+ - 👉 [That is one intresting concreate mixture](http://9gag.com/gag/aNDYeN0)<!-- MEMES:END -->
 
 ---
 
