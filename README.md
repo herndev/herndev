@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [An investigation finds over a dozen crypto companies unknowingly hired IT workers, who used fake IDs and successfully navigated interviews, from North Korea &lpar;Sam Kessler/CoinDesk&rpar;](http://www.techmeme.com/241002/p36#a241002p36)
  - [Founders Tim Berners-Lee and Rosemary Leith announce the World Wide Web Foundation is shutting down after fifteen years of fighting to make the web safer &lpar;Thomas Claburn/The Register&rpar;](http://www.techmeme.com/241002/p35#a241002p35)
- - [Best BBQ Sauces for 2024](https://www.cnet.com/news/best-bbq-sauces/#ftag=CAD590a51e)
- - [Best Beats Headphones and Earbuds for 2024](https://www.cnet.com/tech/mobile/best-beats-headphones/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best BBQ Sauces for 2024](https://www.cnet.com/news/best-bbq-sauces/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
