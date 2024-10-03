@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Last night](http://9gag.com/gag/ae9Mo6B)
- - ⏩ [I mean, you don&#39;t want to waste gas, right?](http://9gag.com/gag/awyX6oW)
- - 👉 [10 Years Ago Elsa and Anna went Live Action](http://9gag.com/gag/azx976K)<!-- MEMES:END -->
+ - 💣 [Yuna song not happy](http://9gag.com/gag/azxX6Rj)
+ - ⏩ [Pleddit moment](http://9gag.com/gag/awyXRNy)
+ - 👉 [...](http://9gag.com/gag/a7o3v5x)<!-- MEMES:END -->
 
 ---
 
