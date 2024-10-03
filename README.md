@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Now you can use Apple’s Home Key to get into your garage or home office](https://www.theverge.com/2024/10/3/24261181/aqara-u300-lever-smart-lock-smart-home-matter-apple-home-key)
- - [Trump Supporters Are Pushing a Clip of a Voting Machine Being Hacked. It&#39;s Not What It Seems](https://www.wired.com/story/trump-supporters-hacking-voting-machine/)
- - [OpenAI launches a new canvas ChatGPT interface in beta that opens a separate window beside the normal chat window for writing and coding projects &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/241003/p29#a241003p29)<!-- TECH:END -->
+ - [Google releases Gemini 1.5 Flash-8B, a smaller and faster variant of 1.5 Flash, with 50% lower price, 2x higher rate limits, and lower latency on small prompts &lpar;Google Developers Blog&rpar;](http://www.techmeme.com/241003/p31#a241003p31)
+ - [Samsung to rename all of its software to One UI in 2025](https://www.androidauthority.com/samsung-one-ui-branding-3487421/)
+ - [The US and Microsoft seize 107 websites used by Russian intelligence agents and their proxies in the US operating under Star Blizzard, a group active since 2016 &lpar;Katrina Manson/Bloomberg&rpar;](http://www.techmeme.com/241003/p30#a241003p30)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
