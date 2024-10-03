@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Commercial airplane without the seats](http://9gag.com/gag/azxX63K)
- - ⏩ [That is one intresting concreate mixture](http://9gag.com/gag/aNDYeN0)
+ - 💣 [The gaurdian.](http://9gag.com/gag/aE02w99)
+ - ⏩ [Mexico&#39;s president said nope](http://9gag.com/gag/awyA0mR)
  - 👉 [This can&#39;t be anything good...](http://9gag.com/gag/azx9LEB)<!-- MEMES:END -->
 
 ---
