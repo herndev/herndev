@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [&#39;Ted Lasso&#39; season 4 rumored to start filming in London in early 2025](https://appleinsider.com/articles/24/10/03/ted-lasso-season-4-rumored-to-start-filming-in-london-in-early-2025?utm_medium=rss)
- - [Google rolls out ads in AI Overviews when a user&#39;s question has a &quot;commercial angle&quot;, and identifies the ads with a &quot;sponsored&quot; header, on mobile in the US &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/241003/p27#a241003p27)
- - [Google updates Lens to let users take a video or use their voice to search, showing an AI Overview and search results, rolling out to Search Labs on mobile &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/241003/p26#a241003p26)<!-- TECH:END -->
+ - [Now you can use Apple’s Home Key to get into your garage or home office](https://www.theverge.com/2024/10/3/24261181/aqara-u300-lever-smart-lock-smart-home-matter-apple-home-key)
+ - [Trump Supporters Are Pushing a Clip of a Voting Machine Being Hacked. It&#39;s Not What It Seems](https://www.wired.com/story/trump-supporters-hacking-voting-machine/)
+ - [OpenAI launches a new canvas ChatGPT interface in beta that opens a separate window beside the normal chat window for writing and coding projects &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/241003/p29#a241003p29)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
