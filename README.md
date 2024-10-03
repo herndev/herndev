@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [For the boys...](http://9gag.com/gag/aNDYem3)
- - ⏩ [Famous Polish Zero...](http://9gag.com/gag/ae9rK4m)
- - 👉 [Not the sharpest of tools.](http://9gag.com/gag/a873dvY)<!-- MEMES:END -->
+ - 💣 [Works!](http://9gag.com/gag/aAyxnZZ)
+ - ⏩ [HR is mostly a waste of air and space](http://9gag.com/gag/aLnjyzg)
+ - 👉 [I really understand the guy](http://9gag.com/gag/aPAY66P)<!-- MEMES:END -->
 
 ---
 
