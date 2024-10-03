@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [You will never play many of 2024’s best games](https://www.polygon.com/459580/too-many-video-games)
- - [Bethesda honcho says Starfield is &#39;the best game we&#39;ve ever made&#39; in massive bout of amnesia](https://www.pcgamer.com/games/rpg/bethesda-honcho-says-starfield-is-the-best-game-weve-ever-made-in-massive-bout-of-amnesia)
- - [Not all Space Marines are created equal: Space Marine 2 dev asks players to be nice on the off chance you come across Henry Cavill](https://www.pcgamer.com/games/action/not-all-space-marines-are-created-equal-space-marine-2-dev-asks-players-to-be-nice-on-the-off-chance-you-come-across-henry-cavill)<!-- GAME:END -->
+ - [All the Lord of the Rings: The Rings of Power season 3 news we’ve heard so far](https://www.polygon.com/lotr-rings-of-power/459256/trop-season-3-release-date-cast-news)
+ - [Samsung debated selling off its manufacturing arm as 3 nm yields remain low and the chip giant&#39;s stock price drops](https://www.pcgamer.com/hardware/samsung-debated-selling-off-its-manufacturing-arm-as-3-nm-yields-remain-low-and-the-chip-giants-stock-price-drops)
+ - [You will never play many of 2024’s best games](https://www.polygon.com/459580/too-many-video-games)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
