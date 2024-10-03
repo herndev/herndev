@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Miss Slingshot Nr.2](http://9gag.com/gag/ae9rKYO)
- - ⏩ [What Will happen LOL.](http://9gag.com/gag/a87oBve)
- - 👉 [Pleddit moment](http://9gag.com/gag/awyXRNy)<!-- MEMES:END -->
+ - 💣 [...](http://9gag.com/gag/a7o3v5x)
+ - ⏩ [Losing Interest and skills too\ud83d\ude2d](http://9gag.com/gag/avy82VE)
+ - 👉 [I really understand the guy](http://9gag.com/gag/aPAY66P)<!-- MEMES:END -->
 
 ---
 
