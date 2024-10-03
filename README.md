@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Pixel 9a rumors: Everything we know so far and what we want to see](https://www.androidauthority.com/google-pixel-9a-3479179/)
- - [The big boys want in on crypto, too](https://www.theverge.com/2024/10/3/24261453/paypal-visa-blockchain-stablecoins)
- - [4 Expert-Approved Tips That Will Unlock Lifelong Healthy Eyes](https://www.cnet.com/health/personal-care/4-expert-approved-tips-that-will-unlock-lifelong-healthy-eyes/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Google is killing its one-click app to run Chrome OS in a VM on Android devices](https://www.androidauthority.com/chrome-os-android-launcher-killed-3487486/)
+ - [UnifyDrive UT2 portable NAS review: Hardware has promise, software is terrible](https://appleinsider.com/articles/24/10/03/unifydrive-ut2-portable-nas-review-hardware-has-promise-software-is-terrible?utm_medium=rss)
+ - [Sony’s best ANC headphones and earbuds are getting Google’s Find My Device](https://www.theverge.com/2024/10/3/24261443/sony-wireless-headphones-google-find-my-device-update)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
