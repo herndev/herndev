@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How chips made by US companies like Analog Devices, Germany&#39;s Infineon, and others helped power a Russian missile used in Ukraine, despite US export controls &lpar;Bloomberg&rpar;](http://www.techmeme.com/241003/p10#a241003p10)
- - [Apple pulls watchOS 11.1 beta for locking up Apple Watches](https://appleinsider.com/articles/24/10/03/apple-pulls-watchos-111-beta-for-locking-up-apple-watches?utm_medium=rss)
- - [Researchers: hackers are actively exploiting a recently disclosed RCE vulnerability in Zimbra email servers triggered by sending emails to the SMTP server &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/241003/p9#a241003p9)<!-- TECH:END -->
+ - [Barcelona-based Submer, which submerges data center server racks in its proprietary coolant, raised a $55.5M Series C at a ~$500M post-money valuation &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/241003/p14#a241003p14)
+ - [Analysis: London&#39;s Met police used facial recognition 117 times in 2024 to August, up from 32 times in total from 2020 to 2023; ~770,966 people were scanned &lpar;Yasemin Craggs Mersinoglu/Financial Times&rpar;](http://www.techmeme.com/241003/p13#a241003p13)
+ - [License Plate Readers Are Creating a US-Wide Database of Political Lawn Signs and Bumper Stickers](https://www.wired.com/story/license-plate-readers-political-signs-bumper-stickers/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
