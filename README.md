@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Free Play Days – Matchpoint – Tennis Championships and The Land Beneath Us](https://news.xbox.com/en-us/2024/10/03/free-play-days-matchpoint-tennis-championships-and-the-land-beneath-us/)
- - [Dragon Age won The Game Awards’ first GOTY 10 years ago. Is it about to happen again?](https://www.polygon.com/awards/459117/dragon-age-the-veilguard-game-awards-chances)
- - [Asus has now made it clear if a product sent for repair will be fixed under warranty or if it&#39;ll cost ya](https://www.pcgamer.com/hardware/in-response-to-backlash-asus-has-now-made-it-clear-if-a-product-sent-for-repair-will-be-fixed-under-warranty-or-if-itll-cost-ya)<!-- GAME:END -->
+ - [The best early Prime Day deals you can shop right now](https://www.polygon.com/amazon-prime-day/458471/best-early-deals-board-games-toys)
+ - [8 Awesomely Absurd Games To Play When You’re Done With Lollipop Chainsaw](https://kotaku.com/games-like-lollipop-chainsaw-deadpool-bayonetta-1851664270)
+ - [AAA RPG Based On Avatar: The Last Airbender Announced By Paramount](https://kotaku.com/aaa-rpg-avatar-last-airbender-saber-paramount-confirmed-1851664303)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
