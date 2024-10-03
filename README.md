@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [That is one intresting concreate mixture](http://9gag.com/gag/aNDYeN0)
- - ⏩ [Gets caught stealing and the owners locked them in, she is screaming \u201ccall the police\u201d and acting like she is the victim of a kidnapping! She is trying to get the men outside to do something because she is a woman ! the police came and arrested the owners of the shop.](http://9gag.com/gag/aqyKmVL)
- - 👉 [Demonization is getting out of hand](http://9gag.com/gag/aoyemmx)<!-- MEMES:END -->
+ - 💣 [I&#39;m known where are you live](http://9gag.com/gag/awyAr64)
+ - ⏩ [This can&#39;t be anything good...](http://9gag.com/gag/azx9LEB)
+ - 👉 [I really understand the guy](http://9gag.com/gag/aPAY66P)<!-- MEMES:END -->
 
 ---
 
