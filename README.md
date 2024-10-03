@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The toxic transformation of Warcraft maker Blizzard](https://www.theverge.com/2024/10/3/24260550/blizzard-entertainment-play-nice-jason-schreier-activision-gaming-microsoft-xbox-decoder-interview)
- - [What’s on your desk, David Pierce?](https://www.theverge.com/24259381/work-home-desk-logitech-sony)
- - [No, you’re not hacked: You can ignore that scary “You added a new card to your Google Account” email](https://www.androidauthority.com/google-account-added-a-new-card-email-3487265/)<!-- TECH:END -->
+ - [Black Forest Labs, whose Flux.1 model powers Grok&#39;s image generator, launches an API in beta and its latest image generation model Flux1.1 Pro &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/241003/p22#a241003p22)
+ - [Spotify now automatically creates an offline playlist when you lose internet](https://www.theverge.com/2024/10/3/24261098/spotify-music-offline-backup)
+ - [Tesla recalls over 27,000 Cybertrucks over laggy reverse cameras](https://www.theverge.com/2024/10/3/24261099/tesla-cybertruck-recall-reverse-camera-delay-software)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
