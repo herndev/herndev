@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The gaurdian.](http://9gag.com/gag/aE02w99)
- - ⏩ [When you put a headset microphone on tennis players](http://9gag.com/gag/aQzRpAq)
- - 👉 [That is one intresting concreate mixture](http://9gag.com/gag/aNDYeN0)<!-- MEMES:END -->
+ - 💣 [Commercial airplane without the seats](http://9gag.com/gag/azxX63K)
+ - ⏩ [That is one intresting concreate mixture](http://9gag.com/gag/aNDYeN0)
+ - 👉 [This can&#39;t be anything good...](http://9gag.com/gag/azx9LEB)<!-- MEMES:END -->
 
 ---
 
