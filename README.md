@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google is killing its one-click app to run Chrome OS in a VM on Android devices](https://www.androidauthority.com/chrome-os-android-launcher-killed-3487486/)
- - [UnifyDrive UT2 portable NAS review: Hardware has promise, software is terrible](https://appleinsider.com/articles/24/10/03/unifydrive-ut2-portable-nas-review-hardware-has-promise-software-is-terrible?utm_medium=rss)
- - [Sony’s best ANC headphones and earbuds are getting Google’s Find My Device](https://www.theverge.com/2024/10/3/24261443/sony-wireless-headphones-google-find-my-device-update)<!-- TECH:END -->
+ - [Apple releases iOS 18.0.1 with bug fixes for iPhone 16 touchscreen and more](https://www.theverge.com/2024/10/3/24261590/apple-ios-18-0-1-bug-fixes-iphone-16-touch-screen)
+ - [These Tracfone prepaid plans now get double the data and hotspot at no extra cost](https://www.androidauthority.com/tracfone-plans-upgrade-3487552/)
+ - [Point updates for iOS, iPadOS, macOS &amp; the rest released with bug fixes](https://appleinsider.com/articles/24/10/03/point-updates-for-ios-ipados-macos-the-rest-released-with-bug-fixes?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
