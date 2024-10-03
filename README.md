@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Analysis: Microsoft&#39;s finance leases, commencing between FY 2025 and FY 2030, mainly for data centers, has risen by $100B+ in less than two years to $108.4B &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/241003/p1#a241003p1)
- - [Epic is bringing its free games program to mobile this year](https://www.androidauthority.com/epic-free-games-program-mobile-coming-soon-3487129/)
- - [One UI 7 is almost here: What we know so far and what want to see](https://www.androidauthority.com/one-ui-7-3429831/)<!-- TECH:END -->
+ - [Here are the Pixel 9a wallpapers for your viewing pleasure](https://www.androidauthority.com/pixel-9a-wallpapers-3487145/)
+ - [PitchBook: Q3 US VC investments rose 8% YoY to $37.9B across 3,777 deals; AI firms got 36% of deal value and 27% of deal count in the first nine months of 2024 &lpar;Sarah McBride/Bloomberg&rpar;](http://www.techmeme.com/241003/p3#a241003p3)
+ - [PitchBook and the NVCA: global VC activity declined in Q3; VC investments in Asia hit $14.9B, the lowest figure since Q1 2017, impacted by China&#39;s deep decline &lpar;Dean Takahashi/VentureBeat&rpar;](http://www.techmeme.com/241003/p2#a241003p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
