@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Epic knows its game store social features ‘suck,’ but it wants to fix that](https://www.theverge.com/2024/10/3/24260534/epic-games-store-pc-social-features-suck)
- - [This crazy Samsung photo trick is coming to another flagship phone](https://www.androidauthority.com/crazy-samsung-photo-trick-oppo-find-x8-3487207/)
- - [As Wildfires Rage, California’s Insurance Market Is in Crisis](https://www.wired.com/story/fire-insurance-wildfires-california-state-farm-allstate-liberty-mutual/)<!-- TECH:END -->
+ - [Gemini Live goes global with support for 40+ languages](https://www.androidauthority.com/gemini-live-languages-3487021/)
+ - [Uber partners with ex-Yandex self-driving group for robotaxis and robot delivery](https://www.theverge.com/2024/10/3/24260712/uber-avride-robotaxi-sidewalk-robot-delivery-yandex)
+ - [Gemini Live will support more languages for its AI voice chat](https://www.theverge.com/2024/10/3/24260561/gemini-live-language-support)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
