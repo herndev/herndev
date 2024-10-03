@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle answer for Thursday, October 3](https://www.pcgamer.com/games/puzzle/wordle-answer-today-october-3-2024)
  - [The big Deadlock hero tier list: Who is dominating Valve&#39;s new MOBA in the early days](https://www.pcgamer.com/games/moba/deadlock-best-character-tier-list)
- - [A Valve engineer used ChatGPT to find a new matchmaking algorithm for Deadlock, and now it&#39;s in the game](https://www.pcgamer.com/games/moba/valve-chatgpt-deadlock-algorithm)
- - [The Day Before’s strange saga continues, as Fntastic attempts a comeback with a new game](https://www.polygon.com/gaming/459703/the-day-before-dev-fntastic-escape-factory-kickstarter)<!-- GAME:END -->
+ - [A Valve engineer used ChatGPT to find a new matchmaking algorithm for Deadlock, and now it&#39;s in the game](https://www.pcgamer.com/games/moba/valve-chatgpt-deadlock-algorithm)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
