@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Pleddit moment](http://9gag.com/gag/awyXRNy)
- - ⏩ [Guess now we know why Justin become such a weirdo.](http://9gag.com/gag/aGyZ9Y5)
- - 👉 [Miss Slingshot Nr.2](http://9gag.com/gag/ae9rKYO)<!-- MEMES:END -->
+ - 💣 [Give me 1 minute without politics](http://9gag.com/gag/aGyZYmK)
+ - ⏩ [This is a funny picture, now laugh!](http://9gag.com/gag/aMVZeNV)
+ - 👉 [Gentleman](http://9gag.com/gag/a7o35ne)<!-- MEMES:END -->
 
 ---
 
