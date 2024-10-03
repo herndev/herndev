@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The best early Prime Day deals you can shop right now](https://www.polygon.com/amazon-prime-day/458471/best-early-deals-board-games-toys)
- - [8 Awesomely Absurd Games To Play When You’re Done With Lollipop Chainsaw](https://kotaku.com/games-like-lollipop-chainsaw-deadpool-bayonetta-1851664270)
- - [AAA RPG Based On Avatar: The Last Airbender Announced By Paramount](https://kotaku.com/aaa-rpg-avatar-last-airbender-saber-paramount-confirmed-1851664303)<!-- GAME:END -->
+ - [Solo dev says he&#39;s bucking against the survival &#39;formula&#39; that makes them stale, and if you want to actually make an axe from scratch does he have the game for you](https://www.pcgamer.com/games/survival-crafting/solo-dev-says-hes-bucking-against-the-survival-formula-that-makes-them-stale-and-if-you-want-to-actually-make-an-axe-from-scratch-does-he-have-the-game-for-you)
+ - [GTA Online Is Getting A Zombies Mode Set In GTA V&#39;s Snowy Opening Location](https://kotaku.com/gta-online-zombies-north-yankton-halloween-survival-1851664429)
+ - [Thrustmaster AVA F/A-18 Super Hornet flight stick review](https://www.pcgamer.com/hardware/controllers/thrustmaster-ava-f-a-18-super-hornet-flight-stick-review)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
