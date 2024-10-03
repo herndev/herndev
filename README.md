@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Uh oh: More ads are coming to Prime Video](https://www.androidauthority.com/prime-video-more-ads-3486001/)
- - [Two Harvard students demo using Ray-Ban Meta Smart Glasses, PimEyes, and other tools to instantly identify strangers&#39; names, phone numbers, addresses, and more &lpar;Joseph Cox/404 Media&rpar;](http://www.techmeme.com/241003/p6#a241003p6)
- - [Dogecoin has become surprisingly popular among businesses looking to accept crypto for real-world purchases, largely due to the memecoin&#39;s low transaction costs &lpar;Teresa Xie/Bloomberg&rpar;](http://www.techmeme.com/241003/p5#a241003p5)<!-- TECH:END -->
+ - [A Bank of America outage showed customers blanked-out account balances](https://www.theverge.com/2024/10/2/24260615/bank-of-america-is-down-outage-account-balance-blank-zero)
+ - [Oura Ring 4 arrives to take on the Samsung Galaxy Ring](https://www.androidauthority.com/oura-ring-4-3368927/)
+ - [Oura Ring 4 First Take: More Titanium, Better Accuracy and Longer Battery Life](https://www.cnet.com/tech/mobile/oura-ring-4-first-take-more-titanium-better-accuracy-and-longer-battery-life/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
