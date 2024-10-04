@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [For the boys...](http://9gag.com/gag/aNDYem3)
- - ⏩ [Not mine. But pre cool](http://9gag.com/gag/aryG47y)
- - 👉 [Modern wonder](http://9gag.com/gag/aNDYZ34)<!-- MEMES:END -->
+ - 💣 [WTF was this Sh*t](http://9gag.com/gag/aryG4zV)
+ - ⏩ [That is one intresting concreate mixture](http://9gag.com/gag/aNDYeN0)
+ - 👉 [What would you do if you won the lottery?](http://9gag.com/gag/axyzNGD)<!-- MEMES:END -->
 
 ---
 
