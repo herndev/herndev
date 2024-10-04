@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Joker: Folie à Deux: The Kotaku Review](https://kotaku.com/joker-2-folie-a-deux-movie-review-cast-showtimes-1851665425)
- - [Silent Hill 2: Enhanced Edition is the best way to play the original game on PC](https://www.polygon.com/gaming/460787/play-silent-hill-2-enhanced-edition-pc-port-fan-project)
- - [If You’re Liking Space Marine 2, Grab This Other Great Warhammer 40K Game On Sale](https://kotaku.com/warhammer-40k-rogue-trader-void-shadows-space-marine-2-1851665413)<!-- GAME:END -->
+ - [Govee Cob Strip Light Pro review](https://www.pcgamer.com/hardware/lighting/govee-cob-strip-light-pro-review)
+ - [Public-facing Valve dev shows why most Valve devs don&#39;t have much to do with the public: &#39;I&#39;m just the only one dumb enough to be on Twitter&#39;](https://www.pcgamer.com/games/fps/public-facing-valve-dev-shows-why-most-valve-devs-dont-have-much-to-do-with-the-public-im-just-the-only-one-dumb-enough-to-be-on-twitter)
+ - [How to get a Master Ball in Pokémon Go, and when is it best to use one?](https://www.polygon.com/pokemon-go-guide/23732462/master-ball-research-unlock-use-miss)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
