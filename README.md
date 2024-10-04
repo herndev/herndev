@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This might be the best selfie ever](http://9gag.com/gag/aBy03RO)
- - ⏩ [Oh dear](http://9gag.com/gag/aQzR4R8)
- - 👉 [Homie called customer service](http://9gag.com/gag/adBLN8B)<!-- MEMES:END -->
+ - 💣 [I&#39;m known where are you live](http://9gag.com/gag/awyAr64)
+ - ⏩ [What the hell happened?](http://9gag.com/gag/a5QMNDV)
+ - 👉 [This can&#39;t be anything good...](http://9gag.com/gag/azx9LEB)<!-- MEMES:END -->
 
 ---
 
