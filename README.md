@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Mous ads are super annoying, but it still makes the best Pixel 9 case](https://www.androidauthority.com/mous-super-thin-limitless-pixel-9-review-3486470/)
- - [Arc’s ‘better mobile browser’ is now available on Android](https://www.theverge.com/2024/10/4/24262056/arc-search-android-beta-mobile-web-browser)
- - [The smartphone-sized Boox Palma e-reader’s on sale exclusively for Verge readers](https://www.theverge.com/2024/10/4/24262072/boox-palma-e-reader-deal-sale)<!-- TECH:END -->
+ - [Here’s how Google made the Pixel 9 a security juggernaut](https://www.androidauthority.com/pixel-9-series-baseband-security-3487904/)
+ - [Samsung is once again sacrificing Android updates at the altar of One UI](https://www.androidauthority.com/samsung-one-ui-7-delay-3487724/)
+ - [Matt Mullenweg: ‘WordPress.org just belongs to me’](https://www.theverge.com/2024/10/4/24262232/matt-mullenweg-wordpress-org-wp-engine)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
