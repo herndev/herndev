@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Just a normal Amazon delivery](http://9gag.com/gag/avy8ZoM)
- - ⏩ [Talk about science](http://9gag.com/gag/aYQYbKV)
- - 👉 [I&#39;m known where are you live](http://9gag.com/gag/awyAr64)<!-- MEMES:END -->
+ - 💣 [Dad is not afraid to die](http://9gag.com/gag/adBLN6N)
+ - ⏩ [The gaurdian.](http://9gag.com/gag/aE02w99)
+ - 👉 [Demonization is getting out of hand](http://9gag.com/gag/aoyemmx)<!-- MEMES:END -->
 
 ---
 
