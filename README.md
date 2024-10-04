@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Hasbro is bringing classic board games to Fortnite, starting with Clue](https://www.theverge.com/2024/10/4/24261095/hasbro-board-games-fortnite)
- - [Samsung confirms bootloop issue on older Galaxy phones, and here’s how to fix it](https://www.androidauthority.com/samsung-smartthings-galaxy-bootloop-fix-3487828/)
- - [Google Gemini e-mail searches arrive ahead of Apple Intelligence](https://appleinsider.com/articles/24/10/04/google-gemini-e-mail-searches-arrive-ahead-of-apple-intelligence?utm_medium=rss)<!-- TECH:END -->
+ - [The best new streaming shows this week: Curses! and more](https://www.androidauthority.com/best-new-tv-shows-to-stream-this-week-3084538/)
+ - [Meta announces Movie Gen, an AI-powered video generator](https://www.theverge.com/2024/10/4/24261990/meta-movie-gen-ai-video-generator-openai-sora)
+ - [7 Best Digital Photo Frames &lpar;2024&rpar;: Wi-Fi, High-Res, and Artwork](https://www.wired.com/gallery/best-digital-picture-frames/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
