@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Indie developers are revitalizing the underappreciated immersive sim](https://www.polygon.com/gaming/460227/indie-immersive-simulation-games-genre-trend)
- - [This cursed Skyrim mod flips the entire game horizontally like Mario Kart&#39;s mirror mode and it&#39;s weirdly very upsetting](https://www.pcgamer.com/games/rpg/this-cursed-skyrim-mod-flips-the-entire-game-horizontally-like-mario-karts-mirror-mode-and-its-weirdly-very-upsetting)
- - [Civilization 7&#39;s system requirements are here and they look downright breezy, plus you&#39;ll only need 20 GB of storage space](https://www.pcgamer.com/games/strategy/civilization-7s-system-requirements-are-here-and-they-look-downright-breezy-plus-youll-only-need-20-gb-of-storage-space)<!-- GAME:END -->
+ - [Next Week on Xbox – New Games for October 7 to 11](https://news.xbox.com/en-us/2024/10/04/next-week-on-xbox-new-games-for-october-7-to-11/)
+ - [How to lose friends and alienate people with Magic’s new group slug Commander deck](https://www.polygon.com/mtg-magic-the-gathering/460284/commander-red-black-group-slug-endless-punishment-deck)
+ - [Avatar: The Last Airbender may finally get the respect it deserves as Saber Interactive helms a new RPG based on the animated series](https://www.pcgamer.com/games/rpg/avatar-the-last-airbender-may-finally-get-the-respect-it-deserves-as-saber-interactive-helms-a-new-rpg-based-on-the-animated-series)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
