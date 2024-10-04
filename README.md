@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [You can ignore that scary “You added a new card to your Google Account” email &lpar;Update: Statement&rpar;](https://www.androidauthority.com/google-account-added-a-new-card-email-3487265/)
- - [How to hide all but your open apps in macOS Dock](https://appleinsider.com/inside/macos/tips/how-to-hide-all-but-your-open-apps-in-macos-dock?utm_medium=rss)
- - [Today&#39;s Wordle Hints, Answer and Help for Oct. 4, #1203](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-oct-4-1203/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [One UI 7.0 could be the shortest-lived One UI release in Samsung’s history](https://www.androidauthority.com/one-ui-7-0-shortest-lived-release-samsung-history-3487630/)
+ - [Google says it&#39;ll stop linking to news content and cut ties with news orgs in New Zealand if the country passes law forcing digital platforms to pay for content &lpar;Lucy Craymer/Reuters&rpar;](http://www.techmeme.com/241004/p1#a241004p1)
+ - [Today&#39;s NYT Mini Crossword Answers for Oct. 4](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-oct-4/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
