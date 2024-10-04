@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [This new poker-like card game for Android has taken over my life](https://www.androidauthority.com/balatro-android-3486887/)
- - [AI&#39;s Big Gift to Society Is … Pithy Summaries?](https://www.wired.com/story/plaintext-ai-summaries-make-us-dumber/)
- - [Meta’s Movie Gen Makes Convincing AI Video Clips](https://www.wired.com/story/meta-movie-gen-ai-model/)<!-- TECH:END -->
+ - [Hasbro is bringing classic board games to Fortnite, starting with Clue](https://www.theverge.com/2024/10/4/24261095/hasbro-board-games-fortnite)
+ - [Samsung confirms bootloop issue on older Galaxy phones, and here’s how to fix it](https://www.androidauthority.com/samsung-smartthings-galaxy-bootloop-fix-3487828/)
+ - [Google Gemini e-mail searches arrive ahead of Apple Intelligence](https://appleinsider.com/articles/24/10/04/google-gemini-e-mail-searches-arrive-ahead-of-apple-intelligence?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
