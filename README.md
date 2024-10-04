@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Man of culture...](http://9gag.com/gag/a873jyO)
- - ⏩ [Bro lost it before it even started](http://9gag.com/gag/aRB1P37)
- - 👉 [Homie called customer service](http://9gag.com/gag/adBLN8B)<!-- MEMES:END -->
+ - 💣 [Mexico&#39;s president said nope](http://9gag.com/gag/awyA0mR)
+ - ⏩ [That is one intresting concreate mixture](http://9gag.com/gag/aNDYeN0)
+ - 👉 [Dad is not afraid to die](http://9gag.com/gag/adBLN6N)<!-- MEMES:END -->
 
 ---
 
