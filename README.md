@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Decoy Effect](http://9gag.com/gag/aAy3rY2)
- - ⏩ [That is one intresting concreate mixture](http://9gag.com/gag/aNDYeN0)
- - 👉 [She seems nice](http://9gag.com/gag/agmnyp1)<!-- MEMES:END -->
+ - ⏩ [Statue at the Vatican Museum](http://9gag.com/gag/a5QMP6G)
+ - 👉 [Worst possible mental illness](http://9gag.com/gag/a9yKMQ1)<!-- MEMES:END -->
 
 ---
 
