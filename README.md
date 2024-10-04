@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The cheapest Xbox console is a Fire TV Stick, now half off for Oct. Prime Day](https://www.polygon.com/amazon-prime-day/2024/7/17/24200649/fire-tv-4k-deal-xbox-game-pass-ultimate)
- - [As Ubisoft struggles and shareholders sweat, Tencent and the Guillemot family are reportedly looking at a buyout](https://www.pcgamer.com/gaming-industry/as-ubisoft-struggles-and-shareholders-sweat-tencent-and-the-guillemot-family-are-reportedly-looking-at-a-buyout)
- - [9 Ghoulish Games To Play After Dead Rising Deluxe Remaster](https://kotaku.com/dead-rising-deluxe-dead-space-doom-resident-evil-1851665522)<!-- GAME:END -->
+ - [Get Your Best Possible Start At Smash Hit MMO Throne And Liberty](https://kotaku.com/throne-and-liberty-mmo-ncsoft-how-to-get-started-1851665601)
+ - [Blox Fruits codes and how to redeem them](https://www.pcgamer.com/games/roblox/blox-fruits-codes)
+ - [Anime Defenders codes and how to redeem them](https://www.pcgamer.com/games/roblox/anime-defenders-codes)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
