@@ -46,7 +46,7 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Oh dear](http://9gag.com/gag/aQzR4R8)
+ - 💣 [Man of culture...](http://9gag.com/gag/a873jyO)
  - ⏩ [Bro lost it before it even started](http://9gag.com/gag/aRB1P37)
  - 👉 [Homie called customer service](http://9gag.com/gag/adBLN8B)<!-- MEMES:END -->
 
