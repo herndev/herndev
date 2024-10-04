@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [This ortholinear Mobius strip keeb is twisting my melon, man](https://www.pcgamer.com/hardware/gaming-keyboards/this-ortholinear-mobius-strip-keeb-is-twisting-my-melon-man)
- - [The Silent Hill 2 remake adds yet another layer of interpretation](https://www.polygon.com/review/460647/silent-hill-2-sh2-remake-review-ps5-pc)
- - [Today&#39;s Wordle answer for Friday, October 4](https://www.pcgamer.com/games/puzzle/wordle-answer-today-october-4-2024)<!-- GAME:END -->
+ - [Civilization 7&#39;s system requirements are here and they look downright breezy, plus you&#39;ll only need 20 GB of storage space](https://www.pcgamer.com/games/strategy/civilization-7s-system-requirements-are-here-and-they-look-downright-breezy-plus-youll-only-need-20-gb-of-storage-space)
+ - [&#39;Game development doesn&#39;t proceed at a constant pace&#39;: Metal Gear Solid Delta: Snake Eater&#39;s devs explain why there are 2 difficulty settings but won&#39;t say a word about a possible release date](https://www.pcgamer.com/games/action/game-development-doesnt-proceed-at-a-constant-pace-metal-gear-solid-delta-snake-eaters-devs-explain-why-there-are-2-difficulty-settings-but-wont-say-a-word-about-a-possible-release-date)
+ - [This ortholinear Mobius strip keeb is twisting my melon, man](https://www.pcgamer.com/hardware/gaming-keyboards/this-ortholinear-mobius-strip-keeb-is-twisting-my-melon-man)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
