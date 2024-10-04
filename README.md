@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Japanese guy performs an incredible sleight of hand coin trick for his friends at dinner and drinks.](http://9gag.com/gag/aQzRpz7)
- - ⏩ [Mexico&#39;s president said nope](http://9gag.com/gag/awyA0mR)
- - 👉 [Just a normal Amazon delivery](http://9gag.com/gag/avy8ZoM)<!-- MEMES:END -->
+ - 💣 [For the boys...](http://9gag.com/gag/aNDYem3)
+ - ⏩ [Not mine. But pre cool](http://9gag.com/gag/aryG47y)
+ - 👉 [Modern wonder](http://9gag.com/gag/aNDYZ34)<!-- MEMES:END -->
 
 ---
 
