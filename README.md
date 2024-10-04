@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Here’s how Google made the Pixel 9 a security juggernaut](https://www.androidauthority.com/pixel-9-series-baseband-security-3487904/)
- - [Samsung is once again sacrificing Android updates at the altar of One UI](https://www.androidauthority.com/samsung-one-ui-7-delay-3487724/)
- - [Matt Mullenweg: ‘WordPress.org just belongs to me’](https://www.theverge.com/2024/10/4/24262232/matt-mullenweg-wordpress-org-wp-engine)<!-- TECH:END -->
+ - [Belfast&#39;s Apple Store is moving to a new location in mid-October](https://appleinsider.com/articles/24/10/04/belfasts-apple-store-is-moving-to-a-new-location-in-mid-october?utm_medium=rss)
+ - [Amazon clears out Oura Ring Gen 3 inventory at blowout prices](https://appleinsider.com/articles/24/10/04/amazon-clears-out-oura-ring-gen-3-inventory-at-blowout-prices?utm_medium=rss)
+ - [From AOL Time Warner to DirecTV and Dish: 20 years of media mergers](https://www.theverge.com/2024/10/4/24259360/directv-dish-merger-timeline-aol-timewarner)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
