@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [YouTube Shorts are getting lengthier starting this month](https://www.androidauthority.com/youtube-shorts-longer-time-limit-3487658/)
- - [Samsung’s free TV service is getting almost 4,000 hours of Korean content](https://www.androidauthority.com/samsung-tv-plus-korean-movies-shows-3487659/)
- - [Up to 65% Off Walmart Promo Codes &amp; Coupons | October 2024](https://www.wired.com/story/top-walmart-promo-codes/)<!-- TECH:END -->
+ - [The Secret Alchemy of Making Ice Cream](https://www.wired.com/story/inside-alchemy-ice-cream-making/)
+ - [One of the best iPhone web browsers is coming to Android today](https://www.androidauthority.com/arc-search-android-launch-3487670/)
+ - [Google is testing verified checkmarks in search](https://www.theverge.com/2024/10/4/24261877/google-search-verified-checkmarks-experiment-feature)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
