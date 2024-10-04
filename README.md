@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Dad is not afraid to die](http://9gag.com/gag/adBLN6N)
- - ⏩ [The gaurdian.](http://9gag.com/gag/aE02w99)
- - 👉 [Demonization is getting out of hand](http://9gag.com/gag/aoyemmx)<!-- MEMES:END -->
+ - 💣 [Mexico&#39;s president said nope](http://9gag.com/gag/awyA0mR)
+ - ⏩ [That is one intresting concreate mixture](http://9gag.com/gag/aNDYeN0)
+ - 👉 [Let the blaming begin.](http://9gag.com/gag/aLngQ6z)<!-- MEMES:END -->
 
 ---
 
