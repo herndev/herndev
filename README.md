@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Mexico&#39;s president said nope](http://9gag.com/gag/awyA0mR)
- - ⏩ [Homie called customer service](http://9gag.com/gag/adBLN8B)
- - 👉 [Dad is not afraid to die](http://9gag.com/gag/adBLN6N)<!-- MEMES:END -->
+ - 💣 [Gets caught stealing and the owners locked them in, she is screaming \u201ccall the police\u201d and acting like she is the victim of a kidnapping! She is trying to get the men outside to do something because she is a woman ! the police came and arrested the owners of the shop.](http://9gag.com/gag/aqyKmVL)
+ - ⏩ [I&#39;m known where are you live](http://9gag.com/gag/awyAr64)
+ - 👉 [Let the blaming begin.](http://9gag.com/gag/aLngQ6z)<!-- MEMES:END -->
 
 ---
 
