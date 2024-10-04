@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The gaurdian.](http://9gag.com/gag/aE02w99)
- - ⏩ [Mexico&#39;s president said nope](http://9gag.com/gag/awyA0mR)
- - 👉 [Pulpit rock in Norway](http://9gag.com/gag/aVvYWjK)<!-- MEMES:END -->
+ - 💣 [What would you do if you won the lottery?](http://9gag.com/gag/axyzNGD)
+ - ⏩ [The gaurdian.](http://9gag.com/gag/aE02w99)
+ - 👉 [I&#39;m known where are you live](http://9gag.com/gag/awyAr64)<!-- MEMES:END -->
 
 ---
 
