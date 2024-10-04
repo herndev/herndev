@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Belfast&#39;s Apple Store is moving to a new location in mid-October](https://appleinsider.com/articles/24/10/04/belfasts-apple-store-is-moving-to-a-new-location-in-mid-october?utm_medium=rss)
- - [Amazon clears out Oura Ring Gen 3 inventory at blowout prices](https://appleinsider.com/articles/24/10/04/amazon-clears-out-oura-ring-gen-3-inventory-at-blowout-prices?utm_medium=rss)
- - [From AOL Time Warner to DirecTV and Dish: 20 years of media mergers](https://www.theverge.com/2024/10/4/24259360/directv-dish-merger-timeline-aol-timewarner)<!-- TECH:END -->
+ - [Waymo’s New Agreement With Hyundai Raises Questions About China](https://www.wired.com/story/waymo-new-agreement-hyundai-raises-questions-china/)
+ - [Google is testing out blue checkmarks for search results](https://www.androidauthority.com/search-test-blue-checks-3487951/)
+ - [Apple iPad Mini goes back to its all-time low price](https://www.androidauthority.com/apple-ipad-mini-deal-3487948/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
