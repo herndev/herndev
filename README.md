@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Coinbase says it will delist all unauthorized stablecoins, like Tether&#39;s USDT, from its exchange in the EEA by 2024&#39;s end, to comply with the EU&#39;s MiCA rules &lpar;Emily Nicolle/Bloomberg&rpar;](http://www.techmeme.com/241004/p13#a241004p13)
- - [She Asked TikTok If Her House Was Haunted. Then the Cops Came](https://www.wired.com/story/tiktok-rug-buried-investigation-haunting/)
- - [How to make an external bootable drive in macOS Sequoia](https://appleinsider.com/inside/macos-sequoia/tips/how-to-make-an-external-bootable-drive-in-macos-sequoia?utm_medium=rss)<!-- TECH:END -->
+ - [Mous ads are super annoying, but it still makes the best Pixel 9 case](https://www.androidauthority.com/mous-super-thin-limitless-pixel-9-review-3486470/)
+ - [Arc’s ‘better mobile browser’ is now available on Android](https://www.theverge.com/2024/10/4/24262056/arc-search-android-beta-mobile-web-browser)
+ - [The smartphone-sized Boox Palma e-reader’s on sale exclusively for Verge readers](https://www.theverge.com/2024/10/4/24262072/boox-palma-e-reader-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
