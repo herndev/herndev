@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [What would you do if you won the lottery?](http://9gag.com/gag/axyzNGD)
- - ⏩ [The gaurdian.](http://9gag.com/gag/aE02w99)
- - 👉 [I&#39;m known where are you live](http://9gag.com/gag/awyAr64)<!-- MEMES:END -->
+ - 💣 [Note: Avoid browsing in bathrooms.](http://9gag.com/gag/a9yKdR1)
+ - ⏩ [Mexico&#39;s president said nope](http://9gag.com/gag/awyA0mR)
+ - 👉 [That is one intresting concreate mixture](http://9gag.com/gag/aNDYeN0)<!-- MEMES:END -->
 
 ---
 
