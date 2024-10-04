@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle answer for Friday, October 4](https://www.pcgamer.com/games/puzzle/wordle-answer-today-october-4-2024)
  - [Star Wars Outlaws&#39; hectic speeder wipeouts won&#39;t happen as often with its major new update](https://www.pcgamer.com/games/action/star-wars-outlaws-hectic-speeder-wipeouts-wont-happen-as-often-with-its-major-new-update)
- - [This bowhunting game created by a Bethesda veteran plays like if you made a whole game out of Skyrim&#39;s stealth archer playstyle](https://www.pcgamer.com/games/fps/this-bowhunting-game-created-by-a-bethesda-veteran-plays-like-if-you-made-a-whole-game-out-of-skyrims-stealth-archer-playstyle)
- - [Magic: The Gathering followed its fuzzy animal set with one based on slasher movies and horror novels, a juxtaposition that was &#39;both a coincidence and deliberate&#39;](https://www.pcgamer.com/games/card-games/magic-the-gathering-followed-its-fuzzy-animal-set-with-one-based-on-slasher-movies-and-horror-novels-a-juxtaposition-that-was-both-a-coincidence-and-deliberate)<!-- GAME:END -->
+ - [This bowhunting game created by a Bethesda veteran plays like if you made a whole game out of Skyrim&#39;s stealth archer playstyle](https://www.pcgamer.com/games/fps/this-bowhunting-game-created-by-a-bethesda-veteran-plays-like-if-you-made-a-whole-game-out-of-skyrims-stealth-archer-playstyle)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
