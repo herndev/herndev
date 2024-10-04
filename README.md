@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I&#39;m known where are you live](http://9gag.com/gag/awyAr64)
- - ⏩ [What the hell happened?](http://9gag.com/gag/a5QMNDV)
- - 👉 [This can&#39;t be anything good...](http://9gag.com/gag/azx9LEB)<!-- MEMES:END -->
+ - 💣 [Oh dear](http://9gag.com/gag/aQzR4R8)
+ - ⏩ [Bro lost it before it even started](http://9gag.com/gag/aRB1P37)
+ - 👉 [Homie called customer service](http://9gag.com/gag/adBLN8B)<!-- MEMES:END -->
 
 ---
 
