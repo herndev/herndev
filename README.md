@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [You&#39;ll Never Guess What Game This Is From](https://kotaku.com/call-of-duty-fps-module-fortnite-first-person-mode-epic-1851665895)
- - [Every Movie In The Batman Universe, Now Including Joker: Folie à Deux, Ranked [Update]](https://kotaku.com/batman-best-keaton-nolan-pattinson-movies-1851660049)
- - [Overwatch 2 Hits Its Second Anniversary With Little To Show For It](https://kotaku.com/overwatch-2-anniversary-pve-story-events-skins-shop-1851665897)<!-- GAME:END -->
+ - [I’m offended that the only thing Zelda can consume in Echoes of Wisdom is smoothies](https://www.polygon.com/opinion/461122/zelda-echoes-of-wisdom-smoothies-diet-culture)
+ - [Warhammer 40K: Rogue Trader and its new expansion are on sale for 40% off](https://www.pcgamer.com/games/rpg/warhammer-40k-rogue-trader-and-its-new-expansion-are-on-sale-for-40-percent-off)
+ - [Larian says 40% of all current Baldur&#39;s Gate 3 players are now &#39;embracing utter chaos with mods&#39;](https://www.pcgamer.com/games/rpg/larian-says-40-percent-of-all-current-baldurs-gate-3-players-are-now-embracing-utter-chaos-with-mods)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
