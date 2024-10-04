@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Govee Cob Strip Light Pro review](https://www.pcgamer.com/hardware/lighting/govee-cob-strip-light-pro-review)
- - [Public-facing Valve dev shows why most Valve devs don&#39;t have much to do with the public: &#39;I&#39;m just the only one dumb enough to be on Twitter&#39;](https://www.pcgamer.com/games/fps/public-facing-valve-dev-shows-why-most-valve-devs-dont-have-much-to-do-with-the-public-im-just-the-only-one-dumb-enough-to-be-on-twitter)
- - [How to get a Master Ball in Pokémon Go, and when is it best to use one?](https://www.polygon.com/pokemon-go-guide/23732462/master-ball-research-unlock-use-miss)<!-- GAME:END -->
+ - [The cheapest Xbox console is a Fire TV Stick, now half off for Oct. Prime Day](https://www.polygon.com/amazon-prime-day/2024/7/17/24200649/fire-tv-4k-deal-xbox-game-pass-ultimate)
+ - [As Ubisoft struggles and shareholders sweat, Tencent and the Guillemot family are reportedly looking at a buyout](https://www.pcgamer.com/gaming-industry/as-ubisoft-struggles-and-shareholders-sweat-tencent-and-the-guillemot-family-are-reportedly-looking-at-a-buyout)
+ - [9 Ghoulish Games To Play After Dead Rising Deluxe Remaster](https://kotaku.com/dead-rising-deluxe-dead-space-doom-resident-evil-1851665522)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
