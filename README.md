@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [I’m offended that the only thing Zelda can consume in Echoes of Wisdom is smoothies](https://www.polygon.com/opinion/461122/zelda-echoes-of-wisdom-smoothies-diet-culture)
- - [Warhammer 40K: Rogue Trader and its new expansion are on sale for 40% off](https://www.pcgamer.com/games/rpg/warhammer-40k-rogue-trader-and-its-new-expansion-are-on-sale-for-40-percent-off)
- - [Larian says 40% of all current Baldur&#39;s Gate 3 players are now &#39;embracing utter chaos with mods&#39;](https://www.pcgamer.com/games/rpg/larian-says-40-percent-of-all-current-baldurs-gate-3-players-are-now-embracing-utter-chaos-with-mods)<!-- GAME:END -->
+ - [I just squeezed more eggs in one hour than you have in your entire life](https://www.pcgamer.com/games/action/i-just-squeezed-more-eggs-in-one-hour-than-you-have-in-your-entire-life)
+ - [Every Civilization 7 leader we know about so far](https://www.pcgamer.com/games/strategy/civlization-7-leaders-guide)
+ - [Horizon Zero Dawn Remastered will require a PSN account, and you can&#39;t buy the originals on PC anymore](https://www.pcgamer.com/games/action/horizon-zero-dawn-remastered-will-require-a-psn-account-and-you-cant-buy-the-originals-on-pc-anymore)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
