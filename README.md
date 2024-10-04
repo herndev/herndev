@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Mexico&#39;s president said nope](http://9gag.com/gag/awyA0mR)
- - ⏩ [That is one intresting concreate mixture](http://9gag.com/gag/aNDYeN0)
- - 👉 [Let the blaming begin.](http://9gag.com/gag/aLngQ6z)<!-- MEMES:END -->
+ - ⏩ [Homie called customer service](http://9gag.com/gag/adBLN8B)
+ - 👉 [Dad is not afraid to die](http://9gag.com/gag/adBLN6N)<!-- MEMES:END -->
 
 ---
 
