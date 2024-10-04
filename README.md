@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Next Week on Xbox – New Games for October 7 to 11](https://news.xbox.com/en-us/2024/10/04/next-week-on-xbox-new-games-for-october-7-to-11/)
- - [How to lose friends and alienate people with Magic’s new group slug Commander deck](https://www.polygon.com/mtg-magic-the-gathering/460284/commander-red-black-group-slug-endless-punishment-deck)
- - [Avatar: The Last Airbender may finally get the respect it deserves as Saber Interactive helms a new RPG based on the animated series](https://www.pcgamer.com/games/rpg/avatar-the-last-airbender-may-finally-get-the-respect-it-deserves-as-saber-interactive-helms-a-new-rpg-based-on-the-animated-series)<!-- GAME:END -->
+ - [Halo: Flashpoint, a skirmish tabletop game, is now available for pre-order](https://www.polygon.com/pre-order/460719/halo-flashpoint-tabletop-skirmish-game)
+ - [Throne And Liberty Is Steam&#39;s Latest Massive Free Hit: Here&#39;s What You Need To Know](https://kotaku.com/throne-and-liberty-mmo-ncsoft-everything-to-know-1851665223)
+ - [Next Week on Xbox – New Games for October 7 to 11](https://news.xbox.com/en-us/2024/10/04/next-week-on-xbox-new-games-for-october-7-to-11/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
