@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best phone to buy right now](https://www.theverge.com/22163811/best-phone)
- - [Google Meet’s new call screen makes it easier to hop into meetings with recent contacts](https://www.androidauthority.com/google-meet-start-a-call-screen-3487298/)
- - [Here’s how you’ll use your phone like a Wiimote to control Samsung TVs in 2025](https://www.androidauthority.com/samsung-tv-wiimote-control-3487484/)<!-- TECH:END -->
+ - [The new Ford Expedition adds Android Automotive and half of the Lincoln’s panoramic screen](https://www.theverge.com/2024/10/3/24261313/ford-expedition-2025-android-automotive-digital-experience)
+ - [The best MagSafe and Qi2 chargers for your iPhone](https://www.theverge.com/23505846/best-magsafe-magnetic-chargers-apple-iphone)
+ - [Port workers on the East and Gulf coasts agree to end their strikes](https://www.theverge.com/2024/10/3/24261653/port-workers-strike-tentative-agreement-wages)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
