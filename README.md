@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Home outage breaks app Settings, Activity feed &lpar;Update: Restored&rpar;](https://www.androidauthority.com/google-home-outage-2-3487939/)
- - [Apple&#39;s AI research team releases Depth Pro, an AI model that can generate a 2.25-megapixel depth map in 0.3 seconds on a standard GPU, using a single image &lpar;Michael Nu&amp;ntilde;ez/VentureBeat&rpar;](http://www.techmeme.com/241004/p16#a241004p16)
- - [Deal: Amazon Smart Thermostat is 30% off, and some of you can get it even cheaper!](https://www.androidauthority.com/amazon-smart-thermostat-deal-3487947/)<!-- TECH:END -->
+ - [In an email to a16z employees, Ben Horowitz says he and his wife plan to make a &quot;significant&quot; personal donation to Harris&#39; campaign; he endorsed Trump in July &lpar;Dan Primack/Axios&rpar;](http://www.techmeme.com/241004/p17#a241004p17)
+ - [Google Maps and Waze route warnings get a little help from the cops](https://www.androidauthority.com/police-google-maps-3487987/)
+ - [I Own a Chevy Bolt, and Superchargers Are a Total Game Changer](https://www.wired.com/story/i-own-a-chevy-bolt-and-superchargers-are-a-total-game-changer/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
