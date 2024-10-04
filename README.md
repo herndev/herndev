@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Epic and Disney want to make ‘what every Disney fan has ever wanted’](https://www.theverge.com/2024/10/4/24261555/epic-disney-fortnite-unreal-fest)
- - [Google Home’s Favorites tab could get this quality-of-life change for climate control &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-home-favorites-tab-temperature-apk-teardown-3487687/)
- - [Rivian now says it will make fewer electric vehicles this year than it did in 2023](https://www.theverge.com/2024/10/4/24261908/rivian-q3-production-delivery-forecast-supply-shortage)<!-- TECH:END -->
+ - [This new poker-like card game for Android has taken over my life](https://www.androidauthority.com/balatro-android-3486887/)
+ - [AI&#39;s Big Gift to Society Is … Pithy Summaries?](https://www.wired.com/story/plaintext-ai-summaries-make-us-dumber/)
+ - [Meta’s Movie Gen Makes Convincing AI Video Clips](https://www.wired.com/story/meta-movie-gen-ai-model/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
