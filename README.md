@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best new streaming shows this week: Curses! and more](https://www.androidauthority.com/best-new-tv-shows-to-stream-this-week-3084538/)
- - [Meta announces Movie Gen, an AI-powered video generator](https://www.theverge.com/2024/10/4/24261990/meta-movie-gen-ai-video-generator-openai-sora)
- - [7 Best Digital Photo Frames &lpar;2024&rpar;: Wi-Fi, High-Res, and Artwork](https://www.wired.com/gallery/best-digital-picture-frames/)<!-- TECH:END -->
+ - [Meta launches a Gen-Z focused redesign for Facebook, including a Local tab in 10 US cities, an Explore tab, and a full screen video player in the Video tab &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/241004/p12#a241004p12)
+ - [Google is making your next phone trade-in experience faster by changing Android](https://www.androidauthority.com/android-trade-in-mode-3487880/)
+ - [Financial newsletter accuses Roblox of enabling child abuse](https://www.theverge.com/2024/10/4/24262033/roblox-the-bear-cave-child-abuse)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
