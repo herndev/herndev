@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Statue at the Vatican Museum](http://9gag.com/gag/a5QMP6G)
- - ⏩ [This can&#39;t be anything good...](http://9gag.com/gag/azx9LEB)
- - 👉 [What the hell happened?](http://9gag.com/gag/a5QMNDV)<!-- MEMES:END -->
+ - 💣 [Decoy Effect](http://9gag.com/gag/aAy3rY2)
+ - ⏩ [That is one intresting concreate mixture](http://9gag.com/gag/aNDYeN0)
+ - 👉 [She seems nice](http://9gag.com/gag/agmnyp1)<!-- MEMES:END -->
 
 ---
 
