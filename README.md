@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Now switch the roles. A 40-year-old guy does exactly the same against the will of a 16-year-old female pop star. The world would burn.](http://9gag.com/gag/aoyeZ92)
- - ⏩ [Decoy Effect](http://9gag.com/gag/aAy3rY2)
- - 👉 [Dad is not afraid to die](http://9gag.com/gag/adBLN6N)<!-- MEMES:END -->
+ - 💣 [Statue at the Vatican Museum](http://9gag.com/gag/a5QMP6G)
+ - ⏩ [This can&#39;t be anything good...](http://9gag.com/gag/azx9LEB)
+ - 👉 [What the hell happened?](http://9gag.com/gag/a5QMNDV)<!-- MEMES:END -->
 
 ---
 
