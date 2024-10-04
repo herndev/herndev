@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Official Xbox Podcast | Diablo IV Update, FC 25, Controllers, and More](https://news.xbox.com/en-us/podcast/diablo-iv-update-fc-25-controllers-and-more-official-xbox-podcast/)
- - [Big Star Wars Outlaws patch fixes a long list of launch issues](https://www.polygon.com/gaming/460554/star-wars-outlaws-stealth-speeder-bugs-patch)
- - [6 exciting city builders coming out before the end of 2024 &lpar;plus a few more to look forward to next year&rpar;](https://www.pcgamer.com/games/city-builder/city-builders-2024)<!-- GAME:END -->
+ - [This bowhunting game created by a Bethesda veteran plays like if you made a whole game out of Skyrim&#39;s stealth archer playstyle](https://www.pcgamer.com/games/fps/this-bowhunting-game-created-by-a-bethesda-veteran-plays-like-if-you-made-a-whole-game-out-of-skyrims-stealth-archer-playstyle)
+ - [Magic: The Gathering followed its fuzzy animal set with one based on slasher movies and horror novels, a juxtaposition that was &#39;both a coincidence and deliberate&#39;](https://www.pcgamer.com/games/card-games/magic-the-gathering-followed-its-fuzzy-animal-set-with-one-based-on-slasher-movies-and-horror-novels-a-juxtaposition-that-was-both-a-coincidence-and-deliberate)
+ - [Official Xbox Podcast | Diablo IV Update, FC 25, Controllers, and More](https://news.xbox.com/en-us/podcast/diablo-iv-update-fc-25-controllers-and-more-official-xbox-podcast/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
