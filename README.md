@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Cupertino wins and loses millions over California&#39;s Apple tax ruling](https://appleinsider.com/articles/24/10/04/cupertino-wins-and-loses-millions-over-californias-apple-tax-ruling?utm_medium=rss)
- - [Wastewater Offers an Early Alarm System for Another Deadly Virus](https://www.wired.com/story/wastewater-offers-an-early-alarm-system-for-a-deadly-virus/)
- - [Google Home could soon make it easier to control your lights with presets &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-home-light-presets-apk-teardown-3487718/)<!-- TECH:END -->
+ - [Epic and Disney want to make ‘what every Disney fan has ever wanted’](https://www.theverge.com/2024/10/4/24261555/epic-disney-fortnite-unreal-fest)
+ - [Google Home’s Favorites tab could get this quality-of-life change for climate control &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-home-favorites-tab-temperature-apk-teardown-3487687/)
+ - [Rivian now says it will make fewer electric vehicles this year than it did in 2023](https://www.theverge.com/2024/10/4/24261908/rivian-q3-production-delivery-forecast-supply-shortage)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
