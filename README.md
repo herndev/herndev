@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Star Wars Outlaws&#39; hectic speeder wipeouts won&#39;t happen as often with its major new update](https://www.pcgamer.com/games/action/star-wars-outlaws-hectic-speeder-wipeouts-wont-happen-as-often-with-its-major-new-update)
  - [This bowhunting game created by a Bethesda veteran plays like if you made a whole game out of Skyrim&#39;s stealth archer playstyle](https://www.pcgamer.com/games/fps/this-bowhunting-game-created-by-a-bethesda-veteran-plays-like-if-you-made-a-whole-game-out-of-skyrims-stealth-archer-playstyle)
- - [Magic: The Gathering followed its fuzzy animal set with one based on slasher movies and horror novels, a juxtaposition that was &#39;both a coincidence and deliberate&#39;](https://www.pcgamer.com/games/card-games/magic-the-gathering-followed-its-fuzzy-animal-set-with-one-based-on-slasher-movies-and-horror-novels-a-juxtaposition-that-was-both-a-coincidence-and-deliberate)
- - [Official Xbox Podcast | Diablo IV Update, FC 25, Controllers, and More](https://news.xbox.com/en-us/podcast/diablo-iv-update-fc-25-controllers-and-more-official-xbox-podcast/)<!-- GAME:END -->
+ - [Magic: The Gathering followed its fuzzy animal set with one based on slasher movies and horror novels, a juxtaposition that was &#39;both a coincidence and deliberate&#39;](https://www.pcgamer.com/games/card-games/magic-the-gathering-followed-its-fuzzy-animal-set-with-one-based-on-slasher-movies-and-horror-novels-a-juxtaposition-that-was-both-a-coincidence-and-deliberate)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
