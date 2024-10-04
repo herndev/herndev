@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Halo: Flashpoint, a skirmish tabletop game, is now available for pre-order](https://www.polygon.com/pre-order/460719/halo-flashpoint-tabletop-skirmish-game)
- - [Throne And Liberty Is Steam&#39;s Latest Massive Free Hit: Here&#39;s What You Need To Know](https://kotaku.com/throne-and-liberty-mmo-ncsoft-everything-to-know-1851665223)
- - [Next Week on Xbox – New Games for October 7 to 11](https://news.xbox.com/en-us/2024/10/04/next-week-on-xbox-new-games-for-october-7-to-11/)<!-- GAME:END -->
+ - [Joker: Folie à Deux: The Kotaku Review](https://kotaku.com/joker-2-folie-a-deux-movie-review-cast-showtimes-1851665425)
+ - [Silent Hill 2: Enhanced Edition is the best way to play the original game on PC](https://www.polygon.com/gaming/460787/play-silent-hill-2-enhanced-edition-pc-port-fan-project)
+ - [If You’re Liking Space Marine 2, Grab This Other Great Warhammer 40K Game On Sale](https://kotaku.com/warhammer-40k-rogue-trader-void-shadows-space-marine-2-1851665413)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
