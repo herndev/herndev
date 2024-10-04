@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta launches a Gen-Z focused redesign for Facebook, including a Local tab in 10 US cities, an Explore tab, and a full screen video player in the Video tab &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/241004/p12#a241004p12)
- - [Google is making your next phone trade-in experience faster by changing Android](https://www.androidauthority.com/android-trade-in-mode-3487880/)
- - [Financial newsletter accuses Roblox of enabling child abuse](https://www.theverge.com/2024/10/4/24262033/roblox-the-bear-cave-child-abuse)<!-- TECH:END -->
+ - [Coinbase says it will delist all unauthorized stablecoins, like Tether&#39;s USDT, from its exchange in the EEA by 2024&#39;s end, to comply with the EU&#39;s MiCA rules &lpar;Emily Nicolle/Bloomberg&rpar;](http://www.techmeme.com/241004/p13#a241004p13)
+ - [She Asked TikTok If Her House Was Haunted. Then the Cops Came](https://www.wired.com/story/tiktok-rug-buried-investigation-haunting/)
+ - [How to make an external bootable drive in macOS Sequoia](https://appleinsider.com/inside/macos-sequoia/tips/how-to-make-an-external-bootable-drive-in-macos-sequoia?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
