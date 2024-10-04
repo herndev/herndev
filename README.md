@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Meteoric Rise of Temu and Pinduoduo—and What Might Finally Slow Them Down](https://www.wired.com/story/temu-pinduoduo-retail-us-china-imports-crackdown/)
  - [One UI 7 is almost here: What we know so far and what want to see](https://www.androidauthority.com/one-ui-7-3429831/)
- - [Your WhatsApp status is becoming more like Instagram Stories](https://www.androidauthority.com/whatsapp-status-private-mention-like-3487645/)
- - [One UI 7.0 could be the shortest-lived One UI release in Samsung’s history](https://www.androidauthority.com/one-ui-7-0-shortest-lived-release-samsung-history-3487630/)<!-- TECH:END -->
+ - [Your WhatsApp status is becoming more like Instagram Stories](https://www.androidauthority.com/whatsapp-status-private-mention-like-3487645/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
