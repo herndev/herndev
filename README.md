@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [One UI 7.0 could be the shortest-lived One UI release in Samsung’s history](https://www.androidauthority.com/one-ui-7-0-shortest-lived-release-samsung-history-3487630/)
- - [Google says it&#39;ll stop linking to news content and cut ties with news orgs in New Zealand if the country passes law forcing digital platforms to pay for content &lpar;Lucy Craymer/Reuters&rpar;](http://www.techmeme.com/241004/p1#a241004p1)
- - [Today&#39;s NYT Mini Crossword Answers for Oct. 4](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-oct-4/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [One UI 7 is almost here: What we know so far and what want to see](https://www.androidauthority.com/one-ui-7-3429831/)
+ - [Your WhatsApp status is becoming more like Instagram Stories](https://www.androidauthority.com/whatsapp-status-private-mention-like-3487645/)
+ - [One UI 7.0 could be the shortest-lived One UI release in Samsung’s history](https://www.androidauthority.com/one-ui-7-0-shortest-lived-release-samsung-history-3487630/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
