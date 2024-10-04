@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [This ortholinear Mobius strip keeb is twisting my melon, man](https://www.pcgamer.com/hardware/gaming-keyboards/this-ortholinear-mobius-strip-keeb-is-twisting-my-melon-man)
  - [The Silent Hill 2 remake adds yet another layer of interpretation](https://www.polygon.com/review/460647/silent-hill-2-sh2-remake-review-ps5-pc)
- - [Today&#39;s Wordle answer for Friday, October 4](https://www.pcgamer.com/games/puzzle/wordle-answer-today-october-4-2024)
- - [Star Wars Outlaws&#39; hectic speeder wipeouts won&#39;t happen as often with its major new update](https://www.pcgamer.com/games/action/star-wars-outlaws-hectic-speeder-wipeouts-wont-happen-as-often-with-its-major-new-update)<!-- GAME:END -->
+ - [Today&#39;s Wordle answer for Friday, October 4](https://www.pcgamer.com/games/puzzle/wordle-answer-today-october-4-2024)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
