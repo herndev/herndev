@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Matt Mullenweg says 159 Automattic employees, ~8.4% of staff, accepted a generous buyout package offered to those who disagreed with his direction of WordPress &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/241004/p4#a241004p4)
- - [The CJEU sides with Max Schrems over his privacy dispute with Meta after an Austrian court asked CJEU if Facebook undermines GDPR with its use of data for ads &lpar;Foo Yun Chee/Reuters&rpar;](http://www.techmeme.com/241004/p3#a241004p3)
- - [Making an RSV Vaccine Was Hard. Getting People to Take It Is Even Harder](https://www.wired.com/story/making-an-rsv-vaccine-was-a-challenge-getting-people-to-take-it-is-the-next/)<!-- TECH:END -->
+ - [Cupertino wins and loses millions over California&#39;s Apple tax ruling](https://appleinsider.com/articles/24/10/04/cupertino-wins-and-loses-millions-over-californias-apple-tax-ruling?utm_medium=rss)
+ - [Wastewater Offers an Early Alarm System for Another Deadly Virus](https://www.wired.com/story/wastewater-offers-an-early-alarm-system-for-a-deadly-virus/)
+ - [Google Home could soon make it easier to control your lights with presets &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-home-light-presets-apk-teardown-3487718/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
