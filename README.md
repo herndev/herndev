@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Decoy Effect](http://9gag.com/gag/aAy3rY2)
- - ⏩ [Statue at the Vatican Museum](http://9gag.com/gag/a5QMP6G)
- - 👉 [Worst possible mental illness](http://9gag.com/gag/a9yKMQ1)<!-- MEMES:END -->
+ - 💣 [Let the blaming begin.](http://9gag.com/gag/aLngQ6z)
+ - ⏩ [It\u2019s Dave Chappelle obviously](http://9gag.com/gag/a6ZOLrN)
+ - 👉 [What the hell happened?](http://9gag.com/gag/a5QMNDV)<!-- MEMES:END -->
 
 ---
 
