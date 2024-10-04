@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [WTF was this Sh*t](http://9gag.com/gag/aryG4zV)
- - ⏩ [That is one intresting concreate mixture](http://9gag.com/gag/aNDYeN0)
- - 👉 [What would you do if you won the lottery?](http://9gag.com/gag/axyzNGD)<!-- MEMES:END -->
+ - ⏩ [A friendly reminder to get yourself a dash cam. Dude that hit me was uninsured and tried telling the cops that I ran a red light. **Headphone warning**](http://9gag.com/gag/agmnNYx)
+ - 👉 [Mexico&#39;s president said nope](http://9gag.com/gag/awyA0mR)<!-- MEMES:END -->
 
 ---
 
