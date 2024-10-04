@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Meteoric Rise of Temu and Pinduoduo—and What Might Finally Slow Them Down](https://www.wired.com/story/temu-pinduoduo-retail-us-china-imports-crackdown/)
- - [One UI 7 is almost here: What we know so far and what want to see](https://www.androidauthority.com/one-ui-7-3429831/)
- - [Your WhatsApp status is becoming more like Instagram Stories](https://www.androidauthority.com/whatsapp-status-private-mention-like-3487645/)<!-- TECH:END -->
+ - [YouTube Shorts are getting lengthier starting this month](https://www.androidauthority.com/youtube-shorts-longer-time-limit-3487658/)
+ - [Samsung’s free TV service is getting almost 4,000 hours of Korean content](https://www.androidauthority.com/samsung-tv-plus-korean-movies-shows-3487659/)
+ - [Up to 65% Off Walmart Promo Codes &amp; Coupons | October 2024](https://www.wired.com/story/top-walmart-promo-codes/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
