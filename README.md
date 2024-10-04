@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Waymo’s New Agreement With Hyundai Raises Questions About China](https://www.wired.com/story/waymo-new-agreement-hyundai-raises-questions-china/)
- - [Google is testing out blue checkmarks for search results](https://www.androidauthority.com/search-test-blue-checks-3487951/)
- - [Apple iPad Mini goes back to its all-time low price](https://www.androidauthority.com/apple-ipad-mini-deal-3487948/)<!-- TECH:END -->
+ - [Google Home outage breaks app Settings, Activity feed &lpar;Update: Restored&rpar;](https://www.androidauthority.com/google-home-outage-2-3487939/)
+ - [Apple&#39;s AI research team releases Depth Pro, an AI model that can generate a 2.25-megapixel depth map in 0.3 seconds on a standard GPU, using a single image &lpar;Michael Nu&amp;ntilde;ez/VentureBeat&rpar;](http://www.techmeme.com/241004/p16#a241004p16)
+ - [Deal: Amazon Smart Thermostat is 30% off, and some of you can get it even cheaper!](https://www.androidauthority.com/amazon-smart-thermostat-deal-3487947/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
