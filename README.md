@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Secret Alchemy of Making Ice Cream](https://www.wired.com/story/inside-alchemy-ice-cream-making/)
- - [One of the best iPhone web browsers is coming to Android today](https://www.androidauthority.com/arc-search-android-launch-3487670/)
- - [Google is testing verified checkmarks in search](https://www.theverge.com/2024/10/4/24261877/google-search-verified-checkmarks-experiment-feature)<!-- TECH:END -->
+ - [Matt Mullenweg says 159 Automattic employees, ~8.4% of staff, accepted a generous buyout package offered to those who disagreed with his direction of WordPress &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/241004/p4#a241004p4)
+ - [The CJEU sides with Max Schrems over his privacy dispute with Meta after an Austrian court asked CJEU if Facebook undermines GDPR with its use of data for ads &lpar;Foo Yun Chee/Reuters&rpar;](http://www.techmeme.com/241004/p3#a241004p3)
+ - [Making an RSV Vaccine Was Hard. Getting People to Take It Is Even Harder](https://www.wired.com/story/making-an-rsv-vaccine-was-a-challenge-getting-people-to-take-it-is-the-next/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
