@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Get Your Best Possible Start At Smash Hit MMO Throne And Liberty](https://kotaku.com/throne-and-liberty-mmo-ncsoft-how-to-get-started-1851665601)
- - [Blox Fruits codes and how to redeem them](https://www.pcgamer.com/games/roblox/blox-fruits-codes)
- - [Anime Defenders codes and how to redeem them](https://www.pcgamer.com/games/roblox/anime-defenders-codes)<!-- GAME:END -->
+ - [Star Citizen developer mandates 7-day work weeks, with no promise of overtime pay](https://www.polygon.com/news/461159/star-citizen-overtime-citizencon)
+ - [Don’t Miss This Delightful Road Trip Adventure On Game Pass](https://kotaku.com/open-roads-xbox-game-pass-keri-russell-kaitlyn-dever-1851665805)
+ - [Most Players Prefer Single-Player Games, New Study Claims](https://kotaku.com/survey-data-study-53-percent-gamers-singleplayer-pvp-1851665722)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
