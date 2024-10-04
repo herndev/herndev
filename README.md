@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [You can ignore that scary “You added a new card to your Google Account” email &lpar;Update: Statement&rpar;](https://www.androidauthority.com/google-account-added-a-new-card-email-3487265/)
  - [How to hide all but your open apps in macOS Dock](https://appleinsider.com/inside/macos/tips/how-to-hide-all-but-your-open-apps-in-macos-dock?utm_medium=rss)
- - [Apple&#39;s spooky Q4 2024 earnings are on Halloween](https://appleinsider.com/articles/24/10/04/apples-spooky-q4-2024-earnings-are-on-halloween?utm_medium=rss)
- - [CCData: Binance&#39;s trading volume in the $2T digital asset market fell from 42.7% at the start of 2024 to 36.6% in September, the lowest share since January 2021 &lpar;Olga Kharif/Bloomberg&rpar;](http://www.techmeme.com/241003/p37#a241003p37)<!-- TECH:END -->
+ - [Today&#39;s Wordle Hints, Answer and Help for Oct. 4, #1203](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-oct-4-1203/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
