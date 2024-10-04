@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Star Citizen developer mandates 7-day work weeks, with no promise of overtime pay](https://www.polygon.com/news/461159/star-citizen-overtime-citizencon)
- - [Don’t Miss This Delightful Road Trip Adventure On Game Pass](https://kotaku.com/open-roads-xbox-game-pass-keri-russell-kaitlyn-dever-1851665805)
- - [Most Players Prefer Single-Player Games, New Study Claims](https://kotaku.com/survey-data-study-53-percent-gamers-singleplayer-pvp-1851665722)<!-- GAME:END -->
+ - [You&#39;ll Never Guess What Game This Is From](https://kotaku.com/call-of-duty-fps-module-fortnite-first-person-mode-epic-1851665895)
+ - [Every Movie In The Batman Universe, Now Including Joker: Folie à Deux, Ranked [Update]](https://kotaku.com/batman-best-keaton-nolan-pattinson-movies-1851660049)
+ - [Overwatch 2 Hits Its Second Anniversary With Little To Show For It](https://kotaku.com/overwatch-2-anniversary-pve-story-events-skins-shop-1851665897)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
