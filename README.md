@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Halo&#39;s Master Chief Gets An Unreal Makeover In New Tech Showcase](https://kotaku.com/halo-6-master-chief-unreal-engine-remake-graphics-1851667178)
- - [Dragon Ball: Sparking! Zero review](https://www.pcgamer.com/games/fighting/dragon-ball-sparking-zero-review)
- - [The best picks from Target’s well timed buy 2, get 1 free sale](https://www.polygon.com/sales-guide/461838/target-buy-two-get-one-free-gaming-tabletop-movies-books-deal)<!-- GAME:END -->
+ - [&#39;God it was gutting&#39; to see the Fallout fanbase response, says Fallout Tactics lead: &#39;fervent and passionate and often horribly toxic&#39;](https://www.pcgamer.com/games/strategy/god-it-was-gutting-to-see-the-fallout-fanbase-response-says-fallout-tactics-lead-fervent-and-passionate-and-often-horribly-toxic)
+ - [OG Silent Hill 2 Director Is Happy The Remake Changed The Camera](https://kotaku.com/silent-hill-2-remake-changes-camera-director-konami-ps2-1851667016)
+ - [Halo&#39;s Master Chief Gets An Unreal Makeover In New Tech Showcase](https://kotaku.com/halo-6-master-chief-unreal-engine-remake-graphics-1851667178)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
