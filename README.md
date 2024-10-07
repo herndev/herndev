@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Pretty Slick Trick; Rick](http://9gag.com/gag/a2vZd8p)
- - ⏩ [That man](http://9gag.com/gag/aGyZeBG)
+ - 💣 [Dw, no one died](http://9gag.com/gag/amoBYgy)
+ - ⏩ [Sad anon](http://9gag.com/gag/aVvYMow)
  - 👉 [I prefer movies made before 2014](http://9gag.com/gag/avy87Kb)<!-- MEMES:END -->
 
 ---
