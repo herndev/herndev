@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [SmartThings adds Matter 1.3, eufy S3 Cam Pro launches, &amp; more on HomeKit Insider](https://appleinsider.com/articles/24/10/07/smartthings-adds-matter-13-eufy-s3-cam-pro-launches-more-on-homekit-insider?utm_medium=rss)
- - [Sansui’s new 55-inch 4K OLED is just $799](https://www.theverge.com/2024/10/7/24264214/sansui-55-inch-4k-oled-tv-budget-price-ai-karaoke-mode-youtube)
- - [Nissan buys into Ford, BMW, and Honda’s home EV charging business](https://www.theverge.com/2024/10/7/24264241/nissan-chargescape-investment-ev-home-v2g)<!-- TECH:END -->
+ - [Filing: KoBold Metals, which uses ML to help it sift through datasets to identify large deposits of various metals, has raised $491M of a targeted $527M round &lpar;Tim De Chant/TechCrunch&rpar;](http://www.techmeme.com/241007/p12#a241007p12)
+ - [Rabbit CEO Jesse Lyu isn’t thinking too far ahead](https://www.theverge.com/24260181/rabbit-r1-large-action-model-lam-playground-generative-ai-jesse-lyu-interview-users)
+ - [28 Best Early Amazon Prime Day Deals On Gear We&#39;ve Tested &lpar;October 2024&rpar;](https://www.wired.com/story/best-early-prime-day-deals-october-2024-1/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
