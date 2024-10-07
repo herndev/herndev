@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Sony’s stellar XM4 noise-canceling headphones are 63% off for Prime Day](https://www.polygon.com/amazon-prime-day/461679/sony-wh1000xm4-noise-canceling-headphones)
- - [Get 2024’s best football game for 30% off ahead of October Prime Day](https://www.polygon.com/amazon-prime-day/459917/ea-sports-college-football-deal-ncaa)
- - [The Future Of Halo Is Coming And It Includes Multiple Games](https://kotaku.com/halo-6-infinite-unreal-engine-ue5-ce-remake-343-1851666611)<!-- GAME:END -->
+ - [Ewan McGregor Keeps The Dream Of Live-Action Star Wars: Clone Wars Alive](https://kotaku.com/star-wars-obi-wan-season-2-clone-wars-armor-ewan-1851666770)
+ - [Astro Bot, Final Fantasy 7 Rebirth top Golden Joystick Awards nominees, with key indies close behind](https://www.polygon.com/awards/461690/astro-bot-final-fantasy-7-rebirth-top-golden-joystick-awards-nominees-with-key-indies-close-behind)
+ - [Everything you need to know about Call of Duty: Black Ops 6](https://www.pcgamer.com/games/call-of-duty/black-ops-6-release-date-trailers)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
