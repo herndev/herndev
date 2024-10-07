@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The legend of Goblin Green: Why gamers love one discontinued Warhammer paint over all others](https://www.polygon.com/features/460185/goblin-green-warhammer-40k-paint-pigment)
- - [Halo found alive: Developer rebrands, multiple games in the works](https://www.polygon.com/halo/461480/halo-studios-343-indurstries-reboot-unreal-engine)
- - [Phoenix Springs is a lesson in using negative space, both visually and narratively](https://www.polygon.com/review/460978/phoenix-springs-review-pc)<!-- GAME:END -->
+ - [Alien: Isolation is my favourite horror game because it&#39;s taken me an entire decade to finish it](https://www.pcgamer.com/games/horror/alien-isolation-is-my-favourite-horror-game-because-its-taken-me-an-entire-decade-to-finish-it)
+ - [Save up to £249 on one of AMD&#39;s best RDNA 3 GPUs, thanks to these Prime Day graphics card deals](https://www.pcgamer.com/hardware/graphics-cards/save-up-to-gbp249-on-one-of-amds-best-rdna-3-gpus-thanks-to-these-prime-day-graphics-card-deals)
+ - [Age of Empires 2 in first-person? Sure why not](https://www.pcgamer.com/games/rts/age-of-empires-2-in-first-person-sure-why-not)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
