@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [In 2003, two men stole a parked Boeing 727 from Luanda International Airport and flew away into the sunset. They&#39;ve never been found.](http://9gag.com/gag/agmnnGv)
- - ⏩ [Smooth](http://9gag.com/gag/apRmr6n)
- - 👉 [Katt Williams knew about diddy parties and warned people before](http://9gag.com/gag/aO8YrRr)<!-- MEMES:END -->
+ - 💣 [Pretty Slick Trick; Rick](http://9gag.com/gag/a2vZd8p)
+ - ⏩ [That man](http://9gag.com/gag/aGyZeBG)
+ - 👉 [I prefer movies made before 2014](http://9gag.com/gag/avy87Kb)<!-- MEMES:END -->
 
 ---
 
