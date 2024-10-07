@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Diablo 4: Vessel of Hatred release date and release times](https://www.pcgamer.com/games/rpg/diablo-4-vessel-of-hatred-expansion-release-times)
- - [Get into the zone with Acezone&#39;s new A-Spire Wireless Headset](https://www.pcgamer.com/hardware/gaming-headsets/get-into-the-zone-with-acezones-new-a-spire-wireless-headset)
- - [Iconic Dungeons &amp; Dragons RPG Planescape: Torment was a &#39;B-Team&#39; project that started life as 3 different games⁠—including a 3D dungeon crawler](https://www.pcgamer.com/games/rpg/iconic-dungeons-and-dragons-rpg-planescape-torment-was-a-b-team-project-that-started-life-as-3-different-games-including-a-3d-dungeon-crawler)<!-- GAME:END -->
+ - [Diablo 4 best mercenary and how to recruit them all](https://www.pcgamer.com/games/rpg/diablo-4-mercenaries-best-merc)
+ - [How to unlock the Dark Citadel in Diablo 4: Vessel of Hatred](https://www.pcgamer.com/games/rpg/diablo-4-dark-citadel-unlock)
+ - [How to taunt the villagers in Diablo 4: Vessel of Hatred](https://www.pcgamer.com/games/rpg/diablo-4-wayward-friendship-taunt-the-villagers)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
