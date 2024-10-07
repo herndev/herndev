@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Ewan McGregor Keeps The Dream Of Live-Action Star Wars: Clone Wars Alive](https://kotaku.com/star-wars-obi-wan-season-2-clone-wars-armor-ewan-1851666770)
- - [Astro Bot, Final Fantasy 7 Rebirth top Golden Joystick Awards nominees, with key indies close behind](https://www.polygon.com/awards/461690/astro-bot-final-fantasy-7-rebirth-top-golden-joystick-awards-nominees-with-key-indies-close-behind)
- - [Everything you need to know about Call of Duty: Black Ops 6](https://www.pcgamer.com/games/call-of-duty/black-ops-6-release-date-trailers)<!-- GAME:END -->
+ - [The tortured production timeline of Marvel’s Blade reboot, explained](https://www.polygon.com/24206301/mcu-blade-timeline-production-delays-release-date-director)
+ - [6 Things I Wish I Knew Before Playing Diablo 4: Vessel Of Hatred](https://kotaku.com/diablo-4-vessel-of-hatred-tips-mercenaries-1851666760)
+ - [Joker 2 is bombing at the box office](https://www.polygon.com/news/461731/joker-2-box-office-flop-bad)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
