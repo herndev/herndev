@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Alien: Isolation is my favourite horror game because it&#39;s taken me an entire decade to finish it](https://www.pcgamer.com/games/horror/alien-isolation-is-my-favourite-horror-game-because-its-taken-me-an-entire-decade-to-finish-it)
- - [Save up to £249 on one of AMD&#39;s best RDNA 3 GPUs, thanks to these Prime Day graphics card deals](https://www.pcgamer.com/hardware/graphics-cards/save-up-to-gbp249-on-one-of-amds-best-rdna-3-gpus-thanks-to-these-prime-day-graphics-card-deals)
- - [Age of Empires 2 in first-person? Sure why not](https://www.pcgamer.com/games/rts/age-of-empires-2-in-first-person-sure-why-not)<!-- GAME:END -->
+ - [Sony’s stellar XM4 noise-canceling headphones are 63% off for Prime Day](https://www.polygon.com/amazon-prime-day/461679/sony-wh1000xm4-noise-canceling-headphones)
+ - [Get 2024’s best football game for 30% off ahead of October Prime Day](https://www.polygon.com/amazon-prime-day/459917/ea-sports-college-football-deal-ncaa)
+ - [The Future Of Halo Is Coming And It Includes Multiple Games](https://kotaku.com/halo-6-infinite-unreal-engine-ue5-ce-remake-343-1851666611)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
