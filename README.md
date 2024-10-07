@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [In an email to a16z employees, Ben Horowitz says he and his wife plan to make a &quot;significant&quot; personal donation to Harris&#39; campaign; he endorsed Trump in July &lpar;Dan Primack/Axios&rpar;](http://www.techmeme.com/241004/p17#a241004p17)
- - [Google Maps and Waze route warnings get a little help from the cops](https://www.androidauthority.com/police-google-maps-3487987/)
- - [I Own a Chevy Bolt, and Superchargers Are a Total Game Changer](https://www.wired.com/story/i-own-a-chevy-bolt-and-superchargers-are-a-total-game-changer/)<!-- TECH:END -->
+ - [Amazon Prime Day: More Than 100 of the Top Early Offers To Shop Before October&#39;s Prime Day Sale](https://www.cnet.com/tech/best-prime-day-deals-2024-10-06/#ftag=CAD590a51e)
+ - [I tested 5 AI image generators and this is the one I recommend](https://www.androidauthority.com/ai-image-generators-tested-3488182/)
+ - [Best Internet Providers in Birmingham, Alabama](https://www.cnet.com/home/internet/best-internet-providers-in-birmingham-al/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
