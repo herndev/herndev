@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Jesus Christ Marie](http://9gag.com/gag/ajP8XQq)
- - ⏩ [Shut Up And Take My Money!](http://9gag.com/gag/ae9rMGj)
- - 👉 [Find this quite satisfying](http://9gag.com/gag/aQzRxOW)<!-- MEMES:END -->
+ - ⏩ [FAFO at it&#39;s finest](http://9gag.com/gag/aYQYL5w)
+ - 👉 [Crom! The riddle of steel.](http://9gag.com/gag/a4PQZX1)<!-- MEMES:END -->
 
 ---
 
