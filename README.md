@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Wow science is amazing.!!! Wait, what.?!](http://9gag.com/gag/a8733wO)
- - ⏩ [Joker 2 takes some liberties with the source material.](http://9gag.com/gag/a34QqW8)
- - 👉 [DEI strikes again](http://9gag.com/gag/aYQY7Nm)<!-- MEMES:END -->
+ - 💣 [Flat tire](http://9gag.com/gag/aW4Y1GK)
+ - ⏩ [Jesus Christ Marie](http://9gag.com/gag/ajP8XQq)
+ - 👉 [What `percentage` are you?](http://9gag.com/gag/aO8YBpy)<!-- MEMES:END -->
 
 ---
 
