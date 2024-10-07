@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Confirmed : Ubisoft DEI stock crash was engineered. Hats off to MRPickles12345 for calling it. Link in comments](http://9gag.com/gag/a5QMWoE)
- - ⏩ [`Interior designer`](http://9gag.com/gag/aMVZA0x)
- - 👉 [Wow science is amazing.!!! Wait, what.?!](http://9gag.com/gag/a8733wO)<!-- MEMES:END -->
+ - 💣 [Diddy&#39;s mother](http://9gag.com/gag/aXPYj99)
+ - ⏩ [HEY 9GAG?!](http://9gag.com/gag/a1mQQg8)
+ - 👉 [Making millionaires billionaires. And where I work is mandatory to ask for donations to customers. Fk em.](http://9gag.com/gag/aryGoYK)<!-- MEMES:END -->
 
 ---
 
