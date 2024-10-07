@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [That man](http://9gag.com/gag/aGyZeBG)
- - ⏩ [What a big cat\u2026. I want one.](http://9gag.com/gag/aPAYYnR)
- - 👉 [I prefer movies made before 2014](http://9gag.com/gag/avy87Kb)<!-- MEMES:END -->
+ - 💣 [I need a translator](http://9gag.com/gag/a9yKWoK)
+ - ⏩ [Katt Williams knew about diddy parties and warned people before](http://9gag.com/gag/aO8YrRr)
+ - 👉 [Let&#39;s guitar!](http://9gag.com/gag/awyAXjQ)<!-- MEMES:END -->
 
 ---
 
