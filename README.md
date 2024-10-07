@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Let the blaming begin.](http://9gag.com/gag/aLngQ6z)
- - ⏩ [It\u2019s Dave Chappelle obviously](http://9gag.com/gag/a6ZOLrN)
- - 👉 [What the hell happened?](http://9gag.com/gag/a5QMNDV)<!-- MEMES:END -->
+ - 💣 [Jesus Christ Marie](http://9gag.com/gag/ajP8XQq)
+ - ⏩ [Shut Up And Take My Money!](http://9gag.com/gag/ae9rMGj)
+ - 👉 [Find this quite satisfying](http://9gag.com/gag/aQzRxOW)<!-- MEMES:END -->
 
 ---
 
