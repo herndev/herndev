@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Get into the zone with Acezone&#39;s new A-Spire Wireless Headset](https://www.pcgamer.com/hardware/gaming-headsets/get-into-the-zone-with-acezones-new-a-spire-wireless-headset)
  - [Iconic Dungeons &amp; Dragons RPG Planescape: Torment was a &#39;B-Team&#39; project that started life as 3 different games⁠—including a 3D dungeon crawler](https://www.pcgamer.com/games/rpg/iconic-dungeons-and-dragons-rpg-planescape-torment-was-a-b-team-project-that-started-life-as-3-different-games-including-a-3d-dungeon-crawler)
- - [Today&#39;s Wordle answer for Monday, October 7](https://www.pcgamer.com/games/puzzle/wordle-answer-today-october-7-2024)
- - [Epic Boss Tim Sweeney says Unreal Engine 6 will be a &#39;metaverse&#39; joining Fortnite and other Unreal games, including an upcoming &#39;persistent universe&#39; in development with Disney](https://www.pcgamer.com/gaming-industry/epic-boss-tim-sweeney-says-unreal-engine-6-will-be-a-metaverse-joining-fortnite-and-other-unreal-games-including-an-upcoming-persistent-universe-in-development-with-disney)<!-- GAME:END -->
+ - [Today&#39;s Wordle answer for Monday, October 7](https://www.pcgamer.com/games/puzzle/wordle-answer-today-october-7-2024)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
