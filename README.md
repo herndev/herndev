@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Diablo 4 best mercenary and how to recruit them all](https://www.pcgamer.com/games/rpg/diablo-4-mercenaries-best-merc)
- - [How to unlock the Dark Citadel in Diablo 4: Vessel of Hatred](https://www.pcgamer.com/games/rpg/diablo-4-dark-citadel-unlock)
- - [How to taunt the villagers in Diablo 4: Vessel of Hatred](https://www.pcgamer.com/games/rpg/diablo-4-wayward-friendship-taunt-the-villagers)<!-- GAME:END -->
+ - [Duake lets you play Quake as the Doomguy](https://www.pcgamer.com/games/fps/duake-lets-you-play-quake-as-the-doomguy)
+ - [All Diablo 4 Runewords and how to farm them](https://www.pcgamer.com/games/rpg/diablo-4-rune-list-how-to-farm)
+ - [How to solve the brazier puzzle in Diablo 4: Vessel of Hatred](https://www.pcgamer.com/games/rpg/diablo-4-brazier-puzzle-all-good-things)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
