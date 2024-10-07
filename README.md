@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How and why does your phone get bricked?](https://www.androidauthority.com/how-why-phone-bricked-3488181/)
- - [Instacart’s smart cart helps you navigate to the sauce that’s on sale](https://www.theverge.com/2024/10/7/24262249/instacart-smart-caper-cart-live-location-map-game-treasure-hunt)
- - [Users say their Apple Watch can predict when they’re about to fall sick](https://www.androidauthority.com/apple-watch-vitals-app-predict-sickness-3488298/)<!-- TECH:END -->
+ - [SCOTUS rejects X&#39;s appeal over a secret DOJ search warrant from Special Counsel Jack Smith for records related to Donald Trump&#39;s Twitter account &lpar;Greg Stohr/Bloomberg&rpar;](http://www.techmeme.com/241007/p10#a241007p10)
+ - [Apple MacBook Air M2 hits a new all-time low price!](https://www.androidauthority.com/apple-macbook-air-m2-deal-6-3488260/)
+ - [It’s not just you: Verizon had an outage this morning](https://www.androidauthority.com/verizon-down-outage-3488355/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
