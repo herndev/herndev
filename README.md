@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [\u200e \u200e \u200e \u200e \u200e \u200e \u200e \u200e \u200e \u200e \u200e \u200e \u200e \u200e \u200e](http://9gag.com/gag/aryGbKp)
- - ⏩ [In 2013, a man named Richard Swanson tried to dribble a football from Seattle to Brazil to promote a charity. He was run over and killed by a truck just 250 miles into his 10,000-mile trip](http://9gag.com/gag/aGyZ1dZ)
- - 👉 [Wow science is amazing.!!! Wait, what.?!](http://9gag.com/gag/a8733wO)<!-- MEMES:END -->
+ - 💣 [Looks cool](http://9gag.com/gag/abAYGz9)
+ - ⏩ [Diddy&#39;s mother](http://9gag.com/gag/aXPYj99)
+ - 👉 [Daughter is only a reflection of the father](http://9gag.com/gag/a6ZONGR)<!-- MEMES:END -->
 
 ---
 
