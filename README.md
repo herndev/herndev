@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Duake lets you play Quake as the Doomguy](https://www.pcgamer.com/games/fps/duake-lets-you-play-quake-as-the-doomguy)
- - [All Diablo 4 Runewords and how to farm them](https://www.pcgamer.com/games/rpg/diablo-4-rune-list-how-to-farm)
- - [How to solve the brazier puzzle in Diablo 4: Vessel of Hatred](https://www.pcgamer.com/games/rpg/diablo-4-brazier-puzzle-all-good-things)<!-- GAME:END -->
+ - [The legend of Goblin Green: Why gamers love one discontinued Warhammer paint over all others](https://www.polygon.com/features/460185/goblin-green-warhammer-40k-paint-pigment)
+ - [Halo found alive: Developer rebrands, multiple games in the works](https://www.polygon.com/halo/461480/halo-studios-343-indurstries-reboot-unreal-engine)
+ - [Phoenix Springs is a lesson in using negative space, both visually and narratively](https://www.polygon.com/review/460978/phoenix-springs-review-pc)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
