@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Android taskbar could soon be upgraded to show recent apps](https://www.androidauthority.com/android-taskbar-recent-apps-3488476/)
- - [Google must crack open Android for third-party stores, rules Epic judge](https://www.theverge.com/policy/2024/10/7/24243316/epic-google-permanent-injunction-ruling-third-party-stores)
- - [Ubisoft responds to rumors about Tencent’s potential buyout](https://www.theverge.com/2024/10/7/24264469/ubisoft-tencent-buyout-rumors-statement)<!-- TECH:END -->
+ - [Watch this one minute preview of Apple’s first scripted Vision Pro short](https://www.theverge.com/2024/10/7/24264457/apple-submerged-trailer-vision-pro-immersive-video)
+ - [Judge razes restrictive Play Store polices as Epic suit finally gets some results](https://www.androidauthority.com/epic-play-store-suit-3488524/)
+ - [Judge greenlights FTC’s antitrust suit against Amazon](https://www.theverge.com/2024/10/7/24264605/ftc-amazon-antitrust-motion-to-dismiss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
