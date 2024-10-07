@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [We Spoiled Joker 2 For Ourselves And Here’s What We Think About That Wild Ending](https://kotaku.com/joker-2-ending-explained-reactions-sequel-phillips-real-1851667302)
- - [7 Minutes in Hell is the latest co-op horror game on Steam that wants to get you screaming over proximity chat](https://www.pcgamer.com/games/horror/7-minutes-in-hell-is-the-latest-co-op-horror-game-on-steam-that-wants-to-get-you-screaming-over-proximity-chat)
- - [Dragon Ball Z Voice Famous For &#39;Find Out Next Time&#39; Has Died](https://kotaku.com/dragon-ball-z-narrator-next-time-death-doc-harris-1851667281)<!-- GAME:END -->
+ - [Diablo IV&#39;s Big Expansion Faces &#39;Small Delay&#39; On Launch Day](https://kotaku.com/diablo-4-vessel-hatred-goes-live-delay-bug-time-zone-1851667333)
+ - [A school shooting videogame made by the parents of a victim aims to change minds about gun control: &#39;This is not a scary game, it&#39;s an educational game&#39;](https://www.pcgamer.com/games/a-school-shooting-videogame-made-by-the-parents-of-a-victim-aims-to-change-minds-about-gun-control-this-is-not-a-scary-game-its-an-educational-game)
+ - [Metaphor: ReFantazio&#39;s ReViews are in, and the Persona follow-up looks like 2024&#39;s unanimous RPG hit](https://www.pcgamer.com/games/rpg/metaphor-refantazios-reviews-are-in-and-the-persona-follow-up-looks-like-2024s-unanimous-rpg-hit)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
