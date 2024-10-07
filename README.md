@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple releases macOS 15.0.1, which &quot;improves compatibility with third-party security software&quot;, after the Sequoia&#39;s release broke some third-party tools &lpar;Lorenzo Franceschi-Bicchierai/TechCrunch&rpar;](http://www.techmeme.com/241007/p14#a241007p14)
- - [Fourth watchOS 11.1, tvOS 18.1, and visionOS 2.1 have arrived](https://appleinsider.com/articles/24/10/07/fourth-watchos-111-tvos-181-and-visionos-21-have-arrived?utm_medium=rss)
- - [Apple&#39;s six developer betas land for iOS 18.1, iPadOS 18.1, macOS Sequoia 15.1](https://appleinsider.com/articles/24/10/07/apples-six-developer-betas-land-for-ios-181-ipados-181-macos-sequoia-151?utm_medium=rss)<!-- TECH:END -->
+ - [The Android taskbar could soon be upgraded to show recent apps](https://www.androidauthority.com/android-taskbar-recent-apps-3488476/)
+ - [Google must crack open Android for third-party stores, rules Epic judge](https://www.theverge.com/policy/2024/10/7/24243316/epic-google-permanent-injunction-ruling-third-party-stores)
+ - [Ubisoft responds to rumors about Tencent’s potential buyout](https://www.theverge.com/2024/10/7/24264469/ubisoft-tencent-buyout-rumors-statement)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
