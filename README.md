@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Only imperial stormtroopers are so precise](http://9gag.com/gag/a1mQRrD)
- - ⏩ [Sometimes you tell a lie so much that you start believing it&#39;s the truth. Nothing hits better than reality check](http://9gag.com/gag/azx992z)
- - 👉 [Dw, no one died](http://9gag.com/gag/amoBYgy)<!-- MEMES:END -->
+ - 💣 [Confirmed : Ubisoft DEI stock crash was engineered. Hats off to MRPickles12345 for calling it. Link in comments](http://9gag.com/gag/a5QMWoE)
+ - ⏩ [`Interior designer`](http://9gag.com/gag/aMVZA0x)
+ - 👉 [Wow science is amazing.!!! Wait, what.?!](http://9gag.com/gag/a8733wO)<!-- MEMES:END -->
 
 ---
 
