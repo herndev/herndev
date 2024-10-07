@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [SCOTUS rejects X&#39;s appeal over a secret DOJ search warrant from Special Counsel Jack Smith for records related to Donald Trump&#39;s Twitter account &lpar;Greg Stohr/Bloomberg&rpar;](http://www.techmeme.com/241007/p10#a241007p10)
- - [Apple MacBook Air M2 hits a new all-time low price!](https://www.androidauthority.com/apple-macbook-air-m2-deal-6-3488260/)
- - [It’s not just you: Verizon had an outage this morning](https://www.androidauthority.com/verizon-down-outage-3488355/)<!-- TECH:END -->
+ - [SmartThings adds Matter 1.3, eufy S3 Cam Pro launches, &amp; more on HomeKit Insider](https://appleinsider.com/articles/24/10/07/smartthings-adds-matter-13-eufy-s3-cam-pro-launches-more-on-homekit-insider?utm_medium=rss)
+ - [Sansui’s new 55-inch 4K OLED is just $799](https://www.theverge.com/2024/10/7/24264214/sansui-55-inch-4k-oled-tv-budget-price-ai-karaoke-mode-youtube)
+ - [Nissan buys into Ford, BMW, and Honda’s home EV charging business](https://www.theverge.com/2024/10/7/24264241/nissan-chargescape-investment-ev-home-v2g)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
