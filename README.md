@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [A Filipino Fisherman Slept Next to a $100 Million Treasure for 10 Years](http://9gag.com/gag/aqyKKxv)
- - ⏩ [Wait, wait, are they talking?](http://9gag.com/gag/aO8YY9v)
- - 👉 [RTX on/off](http://9gag.com/gag/ajP8NZR)<!-- MEMES:END -->
+ - 💣 [Shut Up And Take My Money!](http://9gag.com/gag/ae9rMGj)
+ - ⏩ [1940 they invented this device to train leg muscles](http://9gag.com/gag/a8733YY)
+ - 👉 [Sometimes you tell a lie so much that you start believing it&#39;s the truth. Nothing hits better than reality check](http://9gag.com/gag/azx992z)<!-- MEMES:END -->
 
 ---
 
