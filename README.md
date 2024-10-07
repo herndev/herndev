@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Netflix’s animated Tomb Raider show, Dragon Ball Daima, and more new TV this week](https://www.polygon.com/tv/459577/new-tv-netflix-week-dragon-ball-lara-croft-daima-disclaimer)
- - [What time does Genshin Impact 5.1 release?](https://www.polygon.com/genshin-impact-guides/461761/version-5-1-release-times-maintenance-end)
- - [Can Slowpoke and Galarian Slowpoke be shiny in Pokémon Go?](https://www.polygon.com/pokemon-go-guide/23889390/can-slowpoke-be-shiny-slowbro-slowking-mega-galarian)<!-- GAME:END -->
+ - [Metaphor: Refantazio&#39;s Gorgeous Menus Are A Pain In The Ass To Make](https://kotaku.com/metaphor-refantazio-persona-5-menu-ui-hashino-1851667088)
+ - [Pathologic 3 adds additional time travel mechanics, set to arrive in 2025](https://www.polygon.com/gaming/462084/pathologic-3-bachelor-time-travel-2025)
+ - [The Silent Hill 2 remake leans into the horror of Comic Sans](https://www.polygon.com/culture/461904/silent-hill-2-remake-comic-sans-easter-egg)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
