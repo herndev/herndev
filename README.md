@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [343 Industries becomes Halo Studios, confirms switch to Unreal Engine: &#39;The original Halo franchise was a graphics showcase, it was best-in-class… and that&#39;s what Halo needs to be again&#39;](https://www.pcgamer.com/games/fps/343-industries-becomes-halo-studios-confirms-switch-to-unreal-engine-the-original-halo-franchise-was-a-graphics-showcase-it-was-best-in-class-and-thats-what-halo-needs-to-be-again)
  - [Halo Studios: New Name, New Engine, New Games, New Philosophy](https://news.xbox.com/en-us/2024/10/06/halo-studios-unreal-engine-interview/)
- - [A 31-year treasure hunt has finally ended](https://www.pcgamer.com/games/puzzle/a-31-year-treasure-hunt-has-finally-ended)
- - [The Case of the Golden Idol has done so well that it&#39;s getting a free definitive edition upgrade](https://www.pcgamer.com/games/the-case-of-the-golden-idol-has-done-so-well-that-its-getting-a-free-definitive-edition-upgrade)<!-- GAME:END -->
+ - [A 31-year treasure hunt has finally ended](https://www.pcgamer.com/games/puzzle/a-31-year-treasure-hunt-has-finally-ended)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
