@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Among US companies founded in the past 20 years, only Meta and Uber have become &quot;scale insurgent&quot;, with $10B in annual revenue and $1B of operating cash flow &lpar;John Foley/Financial Times&rpar;](http://www.techmeme.com/241007/p1#a241007p1)
- - [One UI 7 is almost here: What we know so far and what want to see](https://www.androidauthority.com/one-ui-7-3429831/)
- - [Unboxing video gives us our first look at the unreleased M4 MacBook Pro](https://www.androidauthority.com/apple-m4-macbook-pro-unboxing-video-leak-3488219/)<!-- TECH:END -->
+ - [SpaceX, T-Mobile’s satellite network for phones gets green light in Helene’s wake](https://www.androidauthority.com/spacex-t-mobile-green-light-satellite-service-hurricane-helene-3488227/)
+ - [Amazon Prime Day: Over 120 Early Offers To Shop Before October&#39;s Prime Day Sale](https://www.cnet.com/tech/best-prime-day-deals-2024-10-07/#ftag=CAD590a51e)
+ - [Among US companies founded in the past 20 years, only Meta and Uber have become &quot;scale insurgent&quot;, with $10B in annual revenue and $1B of operating cash flow &lpar;John Foley/Financial Times&rpar;](http://www.techmeme.com/241007/p1#a241007p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
