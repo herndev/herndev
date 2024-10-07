@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [I just squeezed more eggs in one hour than you have in your entire life](https://www.pcgamer.com/games/action/i-just-squeezed-more-eggs-in-one-hour-than-you-have-in-your-entire-life)
- - [Every Civilization 7 leader we know about so far](https://www.pcgamer.com/games/strategy/civlization-7-leaders-guide)
- - [Horizon Zero Dawn Remastered will require a PSN account, and you can&#39;t buy the originals on PC anymore](https://www.pcgamer.com/games/action/horizon-zero-dawn-remastered-will-require-a-psn-account-and-you-cant-buy-the-originals-on-pc-anymore)<!-- GAME:END -->
+ - [Halo Studios: New Name, New Engine, New Games, New Philosophy](https://news.xbox.com/en-us/2024/10/06/halo-studios-unreal-engine-interview/)
+ - [A 31-year treasure hunt has finally ended](https://www.pcgamer.com/games/puzzle/a-31-year-treasure-hunt-has-finally-ended)
+ - [The Case of the Golden Idol has done so well that it&#39;s getting a free definitive edition upgrade](https://www.pcgamer.com/games/the-case-of-the-golden-idol-has-done-so-well-that-its-getting-a-free-definitive-edition-upgrade)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
