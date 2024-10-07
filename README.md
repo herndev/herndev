@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The OnePlus 13 could offer an alternative to MagSafe &lpar;kind of&rpar;](https://www.androidauthority.com/oneplus-13-magnetic-accessories-tease-3488249/)
- - [Investigation: police in 15 US states used facial recognition in 1,000+ cases since 2020 and routinely failed to tell defendants about their use of the software &lpar;Washington Post&rpar;](http://www.techmeme.com/241007/p3#a241007p3)
- - [The future of Halo is being built with Unreal Engine 5](https://www.theverge.com/2024/10/7/24264129/halo-unreal-engine-5-halo-studios-announcement)<!-- TECH:END -->
+ - [Google could soon help you rediscover new features in its apps and services &lpar;APK Teardown&rpar;](https://www.androidauthority.com/google-play-services-whats-new-3488255/)
+ - [How Chinese e-commerce companies like Pinduoduo pushing to lower prices are making China&#39;s deflation worse; HSBC says ~60% of Chinese consumers use e-commerce &lpar;New York Times&rpar;](http://www.techmeme.com/241007/p6#a241007p6)
+ - [M1 iMacs failing with dark horizontal lines on screen](https://appleinsider.com/articles/24/10/07/m1-imacs-failing-with-dark-horizontal-lines-on-screen?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
