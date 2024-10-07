@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The tortured production timeline of Marvel’s Blade reboot, explained](https://www.polygon.com/24206301/mcu-blade-timeline-production-delays-release-date-director)
- - [6 Things I Wish I Knew Before Playing Diablo 4: Vessel Of Hatred](https://kotaku.com/diablo-4-vessel-of-hatred-tips-mercenaries-1851666760)
- - [Joker 2 is bombing at the box office](https://www.polygon.com/news/461731/joker-2-box-office-flop-bad)<!-- GAME:END -->
+ - [Netflix’s animated Tomb Raider show, Dragon Ball Daima, and more new TV this week](https://www.polygon.com/tv/459577/new-tv-netflix-week-dragon-ball-lara-croft-daima-disclaimer)
+ - [What time does Genshin Impact 5.1 release?](https://www.polygon.com/genshin-impact-guides/461761/version-5-1-release-times-maintenance-end)
+ - [Can Slowpoke and Galarian Slowpoke be shiny in Pokémon Go?](https://www.polygon.com/pokemon-go-guide/23889390/can-slowpoke-be-shiny-slowbro-slowking-mega-galarian)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
