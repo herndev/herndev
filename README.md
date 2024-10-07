@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google is testing a new version of Chrome for Android with extensions support](https://www.androidauthority.com/desktop-chrome-android-extensions-3488455/)
- - [Zombie-horror &#39;Resident Evil 2&#39; heads to Mac on Dec 31](https://appleinsider.com/articles/24/10/07/zombie-horror-resident-evil-2-heads-to-mac-on-dec-31?utm_medium=rss)
- - [Nvidia to hold CES 2025 keynote as RTX 5090 rumors swirl](https://www.theverge.com/2024/10/7/24264418/nvidia-ces-2025-keynote-rtx-5090-rumors)<!-- TECH:END -->
+ - [Apple releases macOS 15.0.1, which &quot;improves compatibility with third-party security software&quot;, after the Sequoia&#39;s release broke some third-party tools &lpar;Lorenzo Franceschi-Bicchierai/TechCrunch&rpar;](http://www.techmeme.com/241007/p14#a241007p14)
+ - [Fourth watchOS 11.1, tvOS 18.1, and visionOS 2.1 have arrived](https://appleinsider.com/articles/24/10/07/fourth-watchos-111-tvos-181-and-visionos-21-have-arrived?utm_medium=rss)
+ - [Apple&#39;s six developer betas land for iOS 18.1, iPadOS 18.1, macOS Sequoia 15.1](https://appleinsider.com/articles/24/10/07/apples-six-developer-betas-land-for-ios-181-ipados-181-macos-sequoia-151?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
