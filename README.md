@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Metaphor: Refantazio&#39;s Gorgeous Menus Are A Pain In The Ass To Make](https://kotaku.com/metaphor-refantazio-persona-5-menu-ui-hashino-1851667088)
- - [Pathologic 3 adds additional time travel mechanics, set to arrive in 2025](https://www.polygon.com/gaming/462084/pathologic-3-bachelor-time-travel-2025)
- - [The Silent Hill 2 remake leans into the horror of Comic Sans](https://www.polygon.com/culture/461904/silent-hill-2-remake-comic-sans-easter-egg)<!-- GAME:END -->
+ - [Halo&#39;s Master Chief Gets An Unreal Makeover In New Tech Showcase](https://kotaku.com/halo-6-master-chief-unreal-engine-remake-graphics-1851667178)
+ - [Dragon Ball: Sparking! Zero review](https://www.pcgamer.com/games/fighting/dragon-ball-sparking-zero-review)
+ - [The best picks from Target’s well timed buy 2, get 1 free sale](https://www.polygon.com/sales-guide/461838/target-buy-two-get-one-free-gaming-tabletop-movies-books-deal)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
