@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Google Nest Wi-Fi Router is a steal at under $40 right now](https://www.androidauthority.com/google-nest-wi-fi-router-amazon-deal-3488089/)
- - [A Galaxy Ring competitor isn’t coming from Apple any time soon](https://www.androidauthority.com/apple-ring-not-coming-soon-3488239/)
- - [Amazon Prime Day: More Than 115 Offers You Can Get Before October&#39;s Prime Day Sale](https://www.cnet.com/tech/best-prime-day-deals-2024-10-07/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The OnePlus 13 could offer an alternative to MagSafe &lpar;kind of&rpar;](https://www.androidauthority.com/oneplus-13-magnetic-accessories-tease-3488249/)
+ - [Investigation: police in 15 US states used facial recognition in 1,000+ cases since 2020 and routinely failed to tell defendants about their use of the software &lpar;Washington Post&rpar;](http://www.techmeme.com/241007/p3#a241007p3)
+ - [The future of Halo is being built with Unreal Engine 5](https://www.theverge.com/2024/10/7/24264129/halo-unreal-engine-5-halo-studios-announcement)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
