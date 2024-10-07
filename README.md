@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Looks cool](http://9gag.com/gag/abAYGz9)
- - ⏩ [Diddy&#39;s mother](http://9gag.com/gag/aXPYj99)
- - 👉 [Daughter is only a reflection of the father](http://9gag.com/gag/a6ZONGR)<!-- MEMES:END -->
+ - 💣 [Only imperial stormtroopers are so precise](http://9gag.com/gag/a1mQRrD)
+ - ⏩ [Sometimes you tell a lie so much that you start believing it&#39;s the truth. Nothing hits better than reality check](http://9gag.com/gag/azx992z)
+ - 👉 [Dw, no one died](http://9gag.com/gag/amoBYgy)<!-- MEMES:END -->
 
 ---
 
