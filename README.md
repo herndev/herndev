@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Diddy&#39;s mother](http://9gag.com/gag/aXPYj99)
- - ⏩ [HEY 9GAG?!](http://9gag.com/gag/a1mQQg8)
- - 👉 [Making millionaires billionaires. And where I work is mandatory to ask for donations to customers. Fk em.](http://9gag.com/gag/aryGoYK)<!-- MEMES:END -->
+ - 💣 [Flat tire](http://9gag.com/gag/aW4Y1GK)
+ - ⏩ [Katt Williams knew about diddy parties and warned people before](http://9gag.com/gag/aO8YrRr)
+ - 👉 [Data breaches reveal the frequency of PIN codes](http://9gag.com/gag/a1mQoZD)<!-- MEMES:END -->
 
 ---
 
