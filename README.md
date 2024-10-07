@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Play Store could soon highlight apps built for tablets and cars &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-play-store-highlight-tablet-car-apps-apk-teardown-3488214/)
- - [Amazon Prime Day: Over 120 Early Offers To Shop Before October&#39;s Prime Day Sale](https://www.cnet.com/tech/best-prime-day-deals-2024-10-06/#ftag=CAD590a51e)
- - [An interview with AWS CEO Matt Garman on generative AI, AWS&#39; AI chatbot Q, shutting down services, investing in open source, open sourcing projects, and more &lpar;Frederic Lardinois/TechCrunch&rpar;](http://www.techmeme.com/241006/p9#a241006p9)<!-- TECH:END -->
+ - [Among US companies founded in the past 20 years, only Meta and Uber have become &quot;scale insurgent&quot;, with $10B in annual revenue and $1B of operating cash flow &lpar;John Foley/Financial Times&rpar;](http://www.techmeme.com/241007/p1#a241007p1)
+ - [One UI 7 is almost here: What we know so far and what want to see](https://www.androidauthority.com/one-ui-7-3429831/)
+ - [Unboxing video gives us our first look at the unreleased M4 MacBook Pro](https://www.androidauthority.com/apple-m4-macbook-pro-unboxing-video-leak-3488219/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
