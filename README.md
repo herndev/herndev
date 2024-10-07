@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I prefer movies made before 2014](http://9gag.com/gag/avy87Kb)
- - ⏩ [Getting bodied.](http://9gag.com/gag/aW4Yqqd)
- - 👉 [Wake up woman](http://9gag.com/gag/amoBBYy)<!-- MEMES:END -->
+ - 💣 [A Filipino Fisherman Slept Next to a $100 Million Treasure for 10 Years](http://9gag.com/gag/aqyKKxv)
+ - ⏩ [Wait, wait, are they talking?](http://9gag.com/gag/aO8YY9v)
+ - 👉 [RTX on/off](http://9gag.com/gag/ajP8NZR)<!-- MEMES:END -->
 
 ---
 
