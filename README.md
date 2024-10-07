@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Flat tire](http://9gag.com/gag/aW4Y1GK)
- - ⏩ [Katt Williams knew about diddy parties and warned people before](http://9gag.com/gag/aO8YrRr)
- - 👉 [Data breaches reveal the frequency of PIN codes](http://9gag.com/gag/a1mQoZD)<!-- MEMES:END -->
+ - 💣 [Burt Reynolds was so heartbroken, he almost couldn&#39;t do it. The engineers said he cried the entire session. After Burt died, on his mantle sat a picture of Judith. Burt commented that scene was the most difficult scene he ever had to do. RIP Judith Barsi, and Burt Reynolds](http://9gag.com/gag/aryGo20)
+ - ⏩ [Flat tire](http://9gag.com/gag/aW4Y1GK)
+ - 👉 [Wow science is amazing.!!! Wait, what.?!](http://9gag.com/gag/a8733wO)<!-- MEMES:END -->
 
 ---
 
