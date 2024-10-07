@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Filing: KoBold Metals, which uses ML to help it sift through datasets to identify large deposits of various metals, has raised $491M of a targeted $527M round &lpar;Tim De Chant/TechCrunch&rpar;](http://www.techmeme.com/241007/p12#a241007p12)
- - [Rabbit CEO Jesse Lyu isn’t thinking too far ahead](https://www.theverge.com/24260181/rabbit-r1-large-action-model-lam-playground-generative-ai-jesse-lyu-interview-users)
- - [28 Best Early Amazon Prime Day Deals On Gear We&#39;ve Tested &lpar;October 2024&rpar;](https://www.wired.com/story/best-early-prime-day-deals-october-2024-1/)<!-- TECH:END -->
+ - [Google is testing a new version of Chrome for Android with extensions support](https://www.androidauthority.com/desktop-chrome-android-extensions-3488455/)
+ - [Zombie-horror &#39;Resident Evil 2&#39; heads to Mac on Dec 31](https://appleinsider.com/articles/24/10/07/zombie-horror-resident-evil-2-heads-to-mac-on-dec-31?utm_medium=rss)
+ - [Nvidia to hold CES 2025 keynote as RTX 5090 rumors swirl](https://www.theverge.com/2024/10/7/24264418/nvidia-ces-2025-keynote-rtx-5090-rumors)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
