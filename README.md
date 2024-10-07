@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google could soon help you rediscover new features in its apps and services &lpar;APK Teardown&rpar;](https://www.androidauthority.com/google-play-services-whats-new-3488255/)
- - [How Chinese e-commerce companies like Pinduoduo pushing to lower prices are making China&#39;s deflation worse; HSBC says ~60% of Chinese consumers use e-commerce &lpar;New York Times&rpar;](http://www.techmeme.com/241007/p6#a241007p6)
- - [M1 iMacs failing with dark horizontal lines on screen](https://appleinsider.com/articles/24/10/07/m1-imacs-failing-with-dark-horizontal-lines-on-screen?utm_medium=rss)<!-- TECH:END -->
+ - [Samsung says it is not interested in spinning off its contract chip manufacturing business; sources say it has struggled to win big orders for new chip capacity &lpar;Reuters&rpar;](http://www.techmeme.com/241007/p8#a241007p8)
+ - [Apple may not be making a Smart Ring right now after all](https://appleinsider.com/articles/24/10/07/apple-may-not-be-making-a-smart-ring-right-now-after-all?utm_medium=rss)
+ - [The Race to Block OpenAI’s Scraping Bots Is Slowing Down](https://www.wired.com/story/open-ai-publisher-deals-scraping-bots/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
