@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google Play Store could soon highlight apps built for tablets and cars &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-play-store-highlight-tablet-car-apps-apk-teardown-3488214/)
  - [Amazon Prime Day: Over 120 Early Offers To Shop Before October&#39;s Prime Day Sale](https://www.cnet.com/tech/best-prime-day-deals-2024-10-06/#ftag=CAD590a51e)
- - [An interview with AWS CEO Matt Garman on generative AI, AWS&#39; AI chatbot Q, shutting down services, investing in open source, open sourcing projects, and more &lpar;Frederic Lardinois/TechCrunch&rpar;](http://www.techmeme.com/241006/p9#a241006p9)
- - [Today&#39;s NYT Strands Hints, Answers and Help for Oct. 7, #218](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-oct-7-218/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [An interview with AWS CEO Matt Garman on generative AI, AWS&#39; AI chatbot Q, shutting down services, investing in open source, open sourcing projects, and more &lpar;Frederic Lardinois/TechCrunch&rpar;](http://www.techmeme.com/241006/p9#a241006p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
