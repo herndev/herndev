@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [SpaceX, T-Mobile’s satellite network for phones gets green light in Helene’s wake](https://www.androidauthority.com/spacex-t-mobile-green-light-satellite-service-hurricane-helene-3488227/)
- - [Amazon Prime Day: Over 120 Early Offers To Shop Before October&#39;s Prime Day Sale](https://www.cnet.com/tech/best-prime-day-deals-2024-10-07/#ftag=CAD590a51e)
- - [Among US companies founded in the past 20 years, only Meta and Uber have become &quot;scale insurgent&quot;, with $10B in annual revenue and $1B of operating cash flow &lpar;John Foley/Financial Times&rpar;](http://www.techmeme.com/241007/p1#a241007p1)<!-- TECH:END -->
+ - [Dealroom: US VCs made up 65% of 2024 VC investments in European defense startups, up from 18% in 2023, for a total of $458M or 3x+ more than in any prior year &lpar;Sylvia Pfeifer/Financial Times&rpar;](http://www.techmeme.com/241007/p2#a241007p2)
+ - [Poll: Have you started using RCS on your iPhone?](https://www.androidauthority.com/poll-have-you-started-using-rcs-on-your-iphone-3488237/)
+ - [Amazon Prime Day: Over 120 Early Offers To Shop Before October&#39;s Prime Day Sale](https://www.cnet.com/tech/best-prime-day-deals-2024-10-07/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
