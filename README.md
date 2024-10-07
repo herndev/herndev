@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Watch this one minute preview of Apple’s first scripted Vision Pro short](https://www.theverge.com/2024/10/7/24264457/apple-submerged-trailer-vision-pro-immersive-video)
- - [Judge razes restrictive Play Store polices as Epic suit finally gets some results](https://www.androidauthority.com/epic-play-store-suit-3488524/)
- - [Judge greenlights FTC’s antitrust suit against Amazon](https://www.theverge.com/2024/10/7/24264605/ftc-amazon-antitrust-motion-to-dismiss)<!-- TECH:END -->
+ - [Google could put a Gemini button right on the Android lock screen](https://www.androidauthority.com/android-ai-button-lock-screen-3488484/)
+ - [Epic v. Google: everything we learned in Fortnite court](https://www.theverge.com/23945184/epic-v-google-fortnite-play-store-antitrust-trial-updates)
+ - [How to set up sleep schedules in iOS](https://www.theverge.com/23296761/sleep-schedules-ios-health-app-how-to)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
