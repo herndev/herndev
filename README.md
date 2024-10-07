@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [&#39;God it was gutting&#39; to see the Fallout fanbase response, says Fallout Tactics lead: &#39;fervent and passionate and often horribly toxic&#39;](https://www.pcgamer.com/games/strategy/god-it-was-gutting-to-see-the-fallout-fanbase-response-says-fallout-tactics-lead-fervent-and-passionate-and-often-horribly-toxic)
- - [OG Silent Hill 2 Director Is Happy The Remake Changed The Camera](https://kotaku.com/silent-hill-2-remake-changes-camera-director-konami-ps2-1851667016)
- - [Halo&#39;s Master Chief Gets An Unreal Makeover In New Tech Showcase](https://kotaku.com/halo-6-master-chief-unreal-engine-remake-graphics-1851667178)<!-- GAME:END -->
+ - [We Spoiled Joker 2 For Ourselves And Here’s What We Think About That Wild Ending](https://kotaku.com/joker-2-ending-explained-reactions-sequel-phillips-real-1851667302)
+ - [7 Minutes in Hell is the latest co-op horror game on Steam that wants to get you screaming over proximity chat](https://www.pcgamer.com/games/horror/7-minutes-in-hell-is-the-latest-co-op-horror-game-on-steam-that-wants-to-get-you-screaming-over-proximity-chat)
+ - [Dragon Ball Z Voice Famous For &#39;Find Out Next Time&#39; Has Died](https://kotaku.com/dragon-ball-z-narrator-next-time-death-doc-harris-1851667281)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
