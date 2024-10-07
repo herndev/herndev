@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung says it is not interested in spinning off its contract chip manufacturing business; sources say it has struggled to win big orders for new chip capacity &lpar;Reuters&rpar;](http://www.techmeme.com/241007/p8#a241007p8)
- - [Apple may not be making a Smart Ring right now after all](https://appleinsider.com/articles/24/10/07/apple-may-not-be-making-a-smart-ring-right-now-after-all?utm_medium=rss)
- - [The Race to Block OpenAI’s Scraping Bots Is Slowing Down](https://www.wired.com/story/open-ai-publisher-deals-scraping-bots/)<!-- TECH:END -->
+ - [How and why does your phone get bricked?](https://www.androidauthority.com/how-why-phone-bricked-3488181/)
+ - [Instacart’s smart cart helps you navigate to the sauce that’s on sale](https://www.theverge.com/2024/10/7/24262249/instacart-smart-caper-cart-live-location-map-game-treasure-hunt)
+ - [Users say their Apple Watch can predict when they’re about to fall sick](https://www.androidauthority.com/apple-watch-vitals-app-predict-sickness-3488298/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
