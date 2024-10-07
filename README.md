@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Shut Up And Take My Money!](http://9gag.com/gag/ae9rMGj)
- - ⏩ [1940 they invented this device to train leg muscles](http://9gag.com/gag/a8733YY)
- - 👉 [Sometimes you tell a lie so much that you start believing it&#39;s the truth. Nothing hits better than reality check](http://9gag.com/gag/azx992z)<!-- MEMES:END -->
+ - 💣 [Wow science is amazing.!!! Wait, what.?!](http://9gag.com/gag/a8733wO)
+ - ⏩ [Joker 2 takes some liberties with the source material.](http://9gag.com/gag/a34QqW8)
+ - 👉 [DEI strikes again](http://9gag.com/gag/aYQY7Nm)<!-- MEMES:END -->
 
 ---
 
