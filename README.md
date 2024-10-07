@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best doorbell cameras](https://www.theverge.com/22954554/best-video-doorbell-camera)
- - [Amazon Prime Day: More Than 100 of the Top Early Offers To Shop Before October&#39;s Prime Day Sale](https://www.cnet.com/tech/best-prime-day-deals-2024-10-06/#ftag=CAD590a51e)
- - [Substack, which still isn&#39;t profitable but has added +1M paid subscribers over the last year, is trying to become a primary way creators of all mediums get paid &lpar;Max Tani/Semafor&rpar;](http://www.techmeme.com/241006/p8#a241006p8)<!-- TECH:END -->
+ - [An interview with AWS CEO Matt Garman on generative AI, AWS&#39; AI chatbot Q, shutting down services, investments in the open-source ecosystem, and more &lpar;Frederic Lardinois/TechCrunch&rpar;](http://www.techmeme.com/241006/p9#a241006p9)
+ - [CNET Survey: 72% of Shoppers Are Making Sacrifices to Afford Holiday Shopping](https://www.cnet.com/personal-finance/cnet-holiday-spending-survey/#ftag=CAD590a51e)
+ - [Amazon Prime Day: More Than 100 of the Top Early Offers To Shop Before October&#39;s Prime Day Sale](https://www.cnet.com/tech/best-prime-day-deals-2024-10-06/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
