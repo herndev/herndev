@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Epic Boss Tim Sweeney says Unreal Engine 6 will be a &#39;metaverse&#39; joining Fortnite and other Unreal games, including an upcoming &#39;persistent universe&#39; in development with Disney](https://www.pcgamer.com/gaming-industry/epic-boss-tim-sweeney-says-unreal-engine-6-will-be-a-metaverse-joining-fortnite-and-other-unreal-games-including-an-upcoming-persistent-universe-in-development-with-disney)
  - [343 Industries becomes Halo Studios, confirms switch to Unreal Engine: &#39;The original Halo franchise was a graphics showcase, it was best-in-class… and that&#39;s what Halo needs to be again&#39;](https://www.pcgamer.com/games/fps/343-industries-becomes-halo-studios-confirms-switch-to-unreal-engine-the-original-halo-franchise-was-a-graphics-showcase-it-was-best-in-class-and-thats-what-halo-needs-to-be-again)
- - [Halo Studios: New Name, New Engine, New Games, New Philosophy](https://news.xbox.com/en-us/2024/10/06/halo-studios-unreal-engine-interview/)
- - [A 31-year treasure hunt has finally ended](https://www.pcgamer.com/games/puzzle/a-31-year-treasure-hunt-has-finally-ended)<!-- GAME:END -->
+ - [Halo Studios: New Name, New Engine, New Games, New Philosophy](https://news.xbox.com/en-us/2024/10/06/halo-studios-unreal-engine-interview/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
