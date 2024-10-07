@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Dw, no one died](http://9gag.com/gag/amoBYgy)
- - ⏩ [Sad anon](http://9gag.com/gag/aVvYMow)
+ - 💣 [That man](http://9gag.com/gag/aGyZeBG)
+ - ⏩ [What a big cat\u2026. I want one.](http://9gag.com/gag/aPAYYnR)
  - 👉 [I prefer movies made before 2014](http://9gag.com/gag/avy87Kb)<!-- MEMES:END -->
 
 ---
