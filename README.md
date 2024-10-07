@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google could put a Gemini button right on the Android lock screen](https://www.androidauthority.com/android-ai-button-lock-screen-3488484/)
- - [Epic v. Google: everything we learned in Fortnite court](https://www.theverge.com/23945184/epic-v-google-fortnite-play-store-antitrust-trial-updates)
- - [How to set up sleep schedules in iOS](https://www.theverge.com/23296761/sleep-schedules-ios-health-app-how-to)<!-- TECH:END -->
+ - [Files by Google gets a new sharing shortcut](https://www.androidauthority.com/files-by-google-quick-share-3488554/)
+ - [Android’s new single app screen sharing feature is getting less restrictive](https://www.androidauthority.com/android-partial-screenshare-task-switcher-3488494/)
+ - [TikTok launches Smart+, a new AI-powered ad tool that competes with Google&#39;s Performance Max and Meta&#39;s Advantage+, automating ad targeting and optimization &lpar;Digiday&rpar;](http://www.techmeme.com/241007/p21#a241007p21)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
