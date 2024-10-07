@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Diablo 4: Vessel of Hatred release date and release times](https://www.pcgamer.com/games/rpg/diablo-4-vessel-of-hatred-expansion-release-times)
  - [Get into the zone with Acezone&#39;s new A-Spire Wireless Headset](https://www.pcgamer.com/hardware/gaming-headsets/get-into-the-zone-with-acezones-new-a-spire-wireless-headset)
- - [Iconic Dungeons &amp; Dragons RPG Planescape: Torment was a &#39;B-Team&#39; project that started life as 3 different games⁠—including a 3D dungeon crawler](https://www.pcgamer.com/games/rpg/iconic-dungeons-and-dragons-rpg-planescape-torment-was-a-b-team-project-that-started-life-as-3-different-games-including-a-3d-dungeon-crawler)
- - [Today&#39;s Wordle answer for Monday, October 7](https://www.pcgamer.com/games/puzzle/wordle-answer-today-october-7-2024)<!-- GAME:END -->
+ - [Iconic Dungeons &amp; Dragons RPG Planescape: Torment was a &#39;B-Team&#39; project that started life as 3 different games⁠—including a 3D dungeon crawler](https://www.pcgamer.com/games/rpg/iconic-dungeons-and-dragons-rpg-planescape-torment-was-a-b-team-project-that-started-life-as-3-different-games-including-a-3d-dungeon-crawler)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
