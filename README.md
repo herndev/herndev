@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Flat tire](http://9gag.com/gag/aW4Y1GK)
- - ⏩ [Jesus Christ Marie](http://9gag.com/gag/ajP8XQq)
- - 👉 [What `percentage` are you?](http://9gag.com/gag/aO8YBpy)<!-- MEMES:END -->
+ - 💣 [Indian quality](http://9gag.com/gag/a2vZZBD)
+ - ⏩ [Sorry for the mojis, but this is a cause worth fighting for](http://9gag.com/gag/aAy3gVg)
+ - 👉 [Really not surprising](http://9gag.com/gag/avy88rq)<!-- MEMES:END -->
 
 ---
 
