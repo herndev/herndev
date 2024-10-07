@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I need a translator](http://9gag.com/gag/a9yKWoK)
- - ⏩ [Katt Williams knew about diddy parties and warned people before](http://9gag.com/gag/aO8YrRr)
- - 👉 [Let&#39;s guitar!](http://9gag.com/gag/awyAXjQ)<!-- MEMES:END -->
+ - 💣 [I prefer movies made before 2014](http://9gag.com/gag/avy87Kb)
+ - ⏩ [Getting bodied.](http://9gag.com/gag/aW4Yqqd)
+ - 👉 [Wake up woman](http://9gag.com/gag/amoBBYy)<!-- MEMES:END -->
 
 ---
 
