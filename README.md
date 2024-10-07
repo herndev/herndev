@@ -40,8 +40,8 @@
 
 <!-- TECH:START -->
  - [The best doorbell cameras](https://www.theverge.com/22954554/best-video-doorbell-camera)
- - [Substack, which still isn&#39;t profitable but has added +1M paid subscribers over the last year, is trying to become a primary way creators of all mediums get paid &lpar;Max Tani/Semafor&rpar;](http://www.techmeme.com/241006/p8#a241006p8)
- - [A Russian YouTuber may have tested the new M4 MacBook Pro](https://appleinsider.com/articles/24/10/07/a-russian-youtuber-may-have-tested-the-new-m4-macbook-pro?utm_medium=rss)<!-- TECH:END -->
+ - [Amazon Prime Day: More Than 100 of the Top Early Offers To Shop Before October&#39;s Prime Day Sale](https://www.cnet.com/tech/best-prime-day-deals-2024-10-06/#ftag=CAD590a51e)
+ - [Substack, which still isn&#39;t profitable but has added +1M paid subscribers over the last year, is trying to become a primary way creators of all mediums get paid &lpar;Max Tani/Semafor&rpar;](http://www.techmeme.com/241006/p8#a241006p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
