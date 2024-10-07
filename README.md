@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Files by Google gets a new sharing shortcut](https://www.androidauthority.com/files-by-google-quick-share-3488554/)
- - [Android’s new single app screen sharing feature is getting less restrictive](https://www.androidauthority.com/android-partial-screenshare-task-switcher-3488494/)
- - [TikTok launches Smart+, a new AI-powered ad tool that competes with Google&#39;s Performance Max and Meta&#39;s Advantage+, automating ad targeting and optimization &lpar;Digiday&rpar;](http://www.techmeme.com/241007/p21#a241007p21)<!-- TECH:END -->
+ - [Apple’s next MacBook Pros might have leaked in Russia](https://www.theverge.com/2024/10/7/24264707/apple-m4-macbook-pro-russia-leak-video)
+ - [Apple&#39;s global head of procurement, Dan Rosckes, to retire after 24 years](https://appleinsider.com/articles/24/10/07/apples-global-head-of-procurement-dan-rosckes-to-retire-after-24-years?utm_medium=rss)
+ - [Chevy’s cheapest Silverado EV now starts at $57,095](https://www.theverge.com/2024/10/7/24264622/chevy-silverado-ev-2025-wt-lt-rst)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
