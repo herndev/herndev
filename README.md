@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Filing: Shein&#39;s UK business made &amp;pound;1.55B in 2023 revenue, up 38% over a 16-month period to the end of 2022, as the fast fashion retailer prepares for a UK IPO &lpar;Helen Reid/Reuters&rpar;](http://www.techmeme.com/241008/p22#a241008p22)
- - [Samsung&#39;s 32-inch M8 monitor is now over 40% off](https://appleinsider.com/articles/24/10/08/samsungs-32-inch-m8-monitor-is-now-over-40-off?utm_medium=rss)
- - [OneDrive is getting a new mobile app, better search, and colored folders in File Explorer](https://www.theverge.com/2024/10/8/24265312/microsoft-onedrive-mobile-app-search-colored-folders-file-explorer)<!-- TECH:END -->
+ - [279 Best Prime Day Deals, Vetted By Our Amazon Experts &lpar;Oct 2024&rpar;](https://www.wired.com/story/best-prime-day-deals-october-2024/)
+ - [The Oura Ring Gen 3 is 20 percent off](https://www.theverge.com/2024/10/8/24265363/amazon-prime-day-oura-ring-gen-3-smart-ring-wearables-october)
+ - [Apple’s M3 MacBook Airs are at their best prices for Amazon’s Prime Day](https://www.theverge.com/2024/10/8/24265354/apple-macbook-air-13-15-m3-processor-october-prime-day-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
