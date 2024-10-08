@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Remember this](http://9gag.com/gag/aNDYgB6)
+ - 💣 [`My life is over`](http://9gag.com/gag/a1mQrBv)
  - ⏩ [How fast 100 Mach](http://9gag.com/gag/amoBPvo)
- - 👉 [Only one month gap](http://9gag.com/gag/agmnBBr)<!-- MEMES:END -->
+ - 👉 [Never seen a nicer was of handling a heckler. True gentleman](http://9gag.com/gag/an79gyE)<!-- MEMES:END -->
 
 ---
 
