@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best Prime Day deals you can get on some of our favorite gadgets](https://www.theverge.com/24265074/amazon-prime-day-best-deals-sale-tech-staff-picks-favorites-october-2024)
- - [Meta is bringing AI-edited video ads to Facebook and Instagram](https://www.theverge.com/2024/10/8/24265065/meta-ai-edited-video-ads-facebook-instagram)
- - [iFixit now sells a USB-powered tool for removing the iPhone 16’s battery](https://www.theverge.com/2024/10/8/24262373/ifixit-iphone-16-battery-repair-adhesive)<!-- TECH:END -->
+ - [iFixit&#39;s VoltClip tool will let you unglue your iPhone 16 battery](https://appleinsider.com/articles/24/10/08/ifixits-voltclip-tool-will-let-you-unglue-your-iphone-16-battery?utm_medium=rss)
+ - [Apple makes the last-ever iPod nano and iPod shuffle obsolete](https://appleinsider.com/articles/24/10/08/apple-makes-the-last-ever-ipod-nano-and-ipod-shuffle-obsolete?utm_medium=rss)
+ - [Rockstar brings Red Dead Redemption to PC, 14 years after its PS3 and Xbox 360 release, available via Rockstar, Steam, and the Epic Games Store on October 29 &lpar;Kris Holt/Engadget&rpar;](http://www.techmeme.com/241008/p18#a241008p18)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
