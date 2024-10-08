@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Diablo 4: Vessel of Hatred is live and there&#39;s no better time to jump in](https://www.pcgamer.com/games/rpg/diablo-4-vessel-of-hatred-is-live-and-theres-no-better-time-to-jump-in)
  - [Today&#39;s Wordle answer for Tuesday, October 8](https://www.pcgamer.com/games/puzzle/wordle-answer-today-october-8-2024)
- - [Infinity Nikki is about to make dress up games mainstream](https://www.pcgamer.com/games/adventure/infinity-nikki-is-about-to-make-dress-up-games-mainstream)
- - [&#39;There were so many meetings&#39;: A former Bethesda developer explains why he quit during Starfield and started a solo project](https://www.pcgamer.com/games/rpg/there-were-so-many-meetings-a-former-bethesda-developer-explains-why-he-quit-during-starfield-and-started-a-solo-project)<!-- GAME:END -->
+ - [Infinity Nikki is about to make dress up games mainstream](https://www.pcgamer.com/games/adventure/infinity-nikki-is-about-to-make-dress-up-games-mainstream)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
