@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Random physics](http://9gag.com/gag/aD214dw)
- - ⏩ [DEI strikes again](http://9gag.com/gag/aYQY7Nm)
- - 👉 [His super power is humen shield](http://9gag.com/gag/a9yKREZ)<!-- MEMES:END -->
+ - 💣 [I was there 3000 years ago](http://9gag.com/gag/adBL5eD)
+ - ⏩ [RTX on/off](http://9gag.com/gag/ajP8NZR)
+ - 👉 [Title](http://9gag.com/gag/avy8oDX)<!-- MEMES:END -->
 
 ---
 
