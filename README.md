@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Road Rage f**k around find out](http://9gag.com/gag/azx9MOx)
- - ⏩ [Can&#39;t take it? Then don&#39;t give it.](http://9gag.com/gag/aVvY7g8)
- - 👉 [Somebody gives this man a company.](http://9gag.com/gag/an794Zn)<!-- MEMES:END -->
+ - 💣 [No more taco nights](http://9gag.com/gag/aYQY7ZO)
+ - ⏩ [Only one month gap](http://9gag.com/gag/agmnBBr)
+ - 👉 [Wow science is amazing.!!! Wait, what.?!](http://9gag.com/gag/a8733wO)<!-- MEMES:END -->
 
 ---
 
