@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Influencer tries to do a prank and gets slapped](http://9gag.com/gag/a4PQRed)
- - ⏩ [I was there 3000 years ago](http://9gag.com/gag/adBL5eD)
- - 👉 [In 2003, two men stole a parked Boeing 727 from Luanda International Airport and flew away into the sunset. They&#39;ve never been found.](http://9gag.com/gag/agmnnGv)<!-- MEMES:END -->
+ - 💣 [No more taco nights](http://9gag.com/gag/aYQY7ZO)
+ - ⏩ [I am listening ..](http://9gag.com/gag/awyAoBy)
+ - 👉 [Title](http://9gag.com/gag/avy8oDX)<!-- MEMES:END -->
 
 ---
 
