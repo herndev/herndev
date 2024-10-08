@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [YouTube for Android TV is rolling out a Netflix-like account switcher](https://www.androidauthority.com/youtube-android-tv-account-switcher-3488892/)
- - [Prime Day deal: The Pixel 8 has never been cheaper at just $403](https://www.androidauthority.com/prime-day-2-pixel-8-deal-3488884/)
- - [The Biden-Harris administration launches a Reddit White House account for news and info about federal government work; first posts are about Hurricane Helene &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/241008/p27#a241008p27)<!-- TECH:END -->
+ - [The best Apple deals available for Amazon’s October Prime Day event](https://www.theverge.com/24264786/apple-amazon-prime-day-deal-sale-airpods-october)
+ - [Brazil’s X ban is coming to an end: all the latest news](https://www.theverge.com/2024/8/30/24232573/brazil-x-twitter-ban-elon-musk)
+ - [Best Prime Day Mattress Deals Plus Epic Bedding Sales &lpar;2024&rpar;](https://www.wired.com/story/amazon-prime-day-mattress-deals-october-2024/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
