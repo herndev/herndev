@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Your Favorite Era is Back: Rewind Back to the ’90s with Forza Horizon 5](https://forza.net/news/forza-horizon-5-back-to-the-90s&reserved=0#new_tab)
- - [Street Fighter 6 Has Added The Coolest New Feature, And Not Enough People Know About It](https://kotaku.com/street-fighter-6-replay-review-how-to-use-1851667802)
- - [Oof: Years before Steam, a Blizzard engineer wanted to turn Battle.net into a third-party game store, but was reportedly turned down](https://www.pcgamer.com/gaming-industry/oof-years-before-steam-a-blizzard-engineer-wanted-to-turn-battle-net-into-a-third-party-game-store-but-was-reportedly-turned-down)<!-- GAME:END -->
+ - [Towerborne Update: Duskveil Ushers in Tweaks, Enhancements, and a Haunting Transformation to the Belfry](https://store.steampowered.com/news/app/2458830/view/4699033840166683892#new_tab)
+ - [Dragon Ball Sparking Zero’s Great Ape Vegeta Fight Is Kicking Everyone’s Ass](https://kotaku.com/dragon-ball-sparking-zero-great-ape-vegeta-reactions-1851667987)
+ - [Pokémon Go Giovanni counters, team line-up in October 2024](https://www.polygon.com/pokemon-go-guide/23581491/giovanni-counters-team-go-rocket)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
