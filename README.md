@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle answer for Tuesday, October 8](https://www.pcgamer.com/games/puzzle/wordle-answer-today-october-8-2024)
  - [Infinity Nikki is about to make dress up games mainstream](https://www.pcgamer.com/games/adventure/infinity-nikki-is-about-to-make-dress-up-games-mainstream)
- - [&#39;There were so many meetings&#39;: A former Bethesda developer explains why he quit during Starfield and started a solo project](https://www.pcgamer.com/games/rpg/there-were-so-many-meetings-a-former-bethesda-developer-explains-why-he-quit-during-starfield-and-started-a-solo-project)
- - [How to get more time and loot in Kurast Undercity in Diablo 4](https://www.polygon.com/diablo-4-guides/459768/kurast-undercity-time-attunement-explainer)<!-- GAME:END -->
+ - [&#39;There were so many meetings&#39;: A former Bethesda developer explains why he quit during Starfield and started a solo project](https://www.pcgamer.com/games/rpg/there-were-so-many-meetings-a-former-bethesda-developer-explains-why-he-quit-during-starfield-and-started-a-solo-project)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
