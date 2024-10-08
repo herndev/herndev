@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Flat tire](http://9gag.com/gag/aW4Y1GK)
- - ⏩ [Wow science is amazing.!!! Wait, what.?!](http://9gag.com/gag/a8733wO)
- - 👉 [Title](http://9gag.com/gag/avy8oDX)<!-- MEMES:END -->
+ - 💣 [I was there 3000 years ago](http://9gag.com/gag/adBL5eD)
+ - ⏩ [Gandalf getting his PhD!?](http://9gag.com/gag/a5QMWME)
+ - 👉 [Offended](http://9gag.com/gag/aryGM4y)<!-- MEMES:END -->
 
 ---
 
