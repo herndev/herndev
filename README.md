@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [At least there was no mess to clean up.](http://9gag.com/gag/aKGxdB1)
- - ⏩ [In 2003, two men stole a parked Boeing 727 from Luanda International Airport and flew away into the sunset. They&#39;ve never been found.](http://9gag.com/gag/agmnnGv)
- - 👉 [No more taco nights](http://9gag.com/gag/aYQY7ZO)<!-- MEMES:END -->
+ - 💣 [Road Rage f**k around find out](http://9gag.com/gag/azx9MOx)
+ - ⏩ [Can&#39;t take it? Then don&#39;t give it.](http://9gag.com/gag/aVvY7g8)
+ - 👉 [Somebody gives this man a company.](http://9gag.com/gag/an794Zn)<!-- MEMES:END -->
 
 ---
 
