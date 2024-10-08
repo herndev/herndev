@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Docs introduces tabs to help navigate even the most unwieldy documents](https://www.androidauthority.com/google-docs-tabs-3488865/)
- - [&#39;Metaphor: ReFantazio&#39; Is the Future of RPGs](https://www.wired.com/story/metaphor-refantazio-is-the-future-of-rpgs/)
- - [Brazil&#39;s Supreme Court authorizes the return of X after the company complied with its demands, including taking down some accounts and appointing a legal agent &lpar;Bloomberg&rpar;](http://www.techmeme.com/241008/p25#a241008p25)<!-- TECH:END -->
+ - [YouTube for Android TV is rolling out a Netflix-like account switcher](https://www.androidauthority.com/youtube-android-tv-account-switcher-3488892/)
+ - [Prime Day deal: The Pixel 8 has never been cheaper at just $403](https://www.androidauthority.com/prime-day-2-pixel-8-deal-3488884/)
+ - [The Biden-Harris administration launches a Reddit White House account for news and info about federal government work; first posts are about Hurricane Helene &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/241008/p27#a241008p27)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
