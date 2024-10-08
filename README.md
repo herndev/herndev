@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How Undisputed Enables You to Forge Your Own Boxing Path](https://news.xbox.com/en-us/2024/10/08/how-undisputed-enables-you-to-forge-your-own-boxing-path/)
- - [Hold Your Breath squanders everything it has going for it](https://www.polygon.com/movies/462069/hold-your-breath-hulu-review-good-bad)
- - [Ubisoft&#39;s grudging return to Steam continues as Assassin&#39;s Creed Valhalla finally gets achievements 2 years after launch](https://www.pcgamer.com/games/assassins-creed/ubisofts-grudging-return-to-steam-continues-as-assassins-creed-valhalla-finally-gets-achievements-2-years-after-launch)<!-- GAME:END -->
+ - [Your Survival Guide to Diablo IV: Vessel of Hatred, Out Today](https://news.xbox.com/en-us/2024/10/08/your-survival-guide-to-diablo-iv-vessel-of-hatred-out-today/)
+ - [Backbone&amp;#8217;s mobile controller is at its lowest price ever for Prime Day](https://www.polygon.com/amazon-prime-day/460283/backbone-one-iphone-android-mobile-controller)
+ - [Apartment Story Is A Thrilling Narrative Game In The Guise Of A Sims-Like](https://kotaku.com/apartment-story-pc-sims-suspense-chekhov-godot-1851667761)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
