@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Act fast to score $300 off the Samsung Galaxy S24 Ultra](https://www.androidauthority.com/samsung-galaxy-s24-ultra-prime-day-deal-3488558/)
- - [9 Best Prime Day Kindle Deals and Accessories &lpar;2024&rpar;](https://www.wired.com/story/best-prime-day-kindle-deals-october-2024/)
- - [216 Best Prime Day Deals, Tested and Tracked By Our Team](https://www.wired.com/story/best-prime-day-deals-october-2024/)<!-- TECH:END -->
+ - [Filing: Saudi Arabia&#39;s PIF sold ~17.3M Nintendo shares between August 21 to October 1, lowering its stake to 7.54%, despite an exec saying it wants to buy more &lpar;Bloomberg&rpar;](http://www.techmeme.com/241008/p4#a241008p4)
+ - [Best Prime Day Mattress Deals Plus Epic Bedding Sales &lpar;2024&rpar;](https://www.wired.com/story/amazon-prime-day-mattress-deals-october-2024/)
+ - [The Narwal Freo X Ultra robot vacuum and mop is $500 off, the cheapest it has ever been](https://www.androidauthority.com/narwal-freo-x-ultra-robot-deal-3488664/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
