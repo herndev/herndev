@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This has to be a joke right](http://9gag.com/gag/aAy3bGg)
- - ⏩ [Thanks, Toyota](http://9gag.com/gag/avy8zR5)
- - 👉 [Daughter is only a reflection of the father](http://9gag.com/gag/a6ZONGR)<!-- MEMES:END -->
+ - 💣 [At least there was no mess to clean up.](http://9gag.com/gag/aKGxdB1)
+ - ⏩ [In 2003, two men stole a parked Boeing 727 from Luanda International Airport and flew away into the sunset. They&#39;ve never been found.](http://9gag.com/gag/agmnnGv)
+ - 👉 [No more taco nights](http://9gag.com/gag/aYQY7ZO)<!-- MEMES:END -->
 
 ---
 
