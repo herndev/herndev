@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [iFixit&#39;s VoltClip tool will let you unglue your iPhone 16 battery](https://appleinsider.com/articles/24/10/08/ifixits-voltclip-tool-will-let-you-unglue-your-iphone-16-battery?utm_medium=rss)
- - [Apple makes the last-ever iPod nano and iPod shuffle obsolete](https://appleinsider.com/articles/24/10/08/apple-makes-the-last-ever-ipod-nano-and-ipod-shuffle-obsolete?utm_medium=rss)
- - [Rockstar brings Red Dead Redemption to PC, 14 years after its PS3 and Xbox 360 release, available via Rockstar, Steam, and the Epic Games Store on October 29 &lpar;Kris Holt/Engadget&rpar;](http://www.techmeme.com/241008/p18#a241008p18)<!-- TECH:END -->
+ - [Honda Zero first drive: an EV without the baggage](https://www.theverge.com/2024/10/8/24265238/honda-zero-first-drive-ev-weight-battery-vr-autonomous)
+ - [Google Meet can now transcribe and record meetings by default](https://www.androidauthority.com/google-meet-default-recording-3488772/)
+ - [The Verge guide to Amazon’s October Prime Day event](https://www.theverge.com/24255302/amazon-prime-day-deals-tips-news-guide-2024-october)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
