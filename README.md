@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Did Google just reveal the Galaxy S25’s MediaTek connection?](https://www.androidauthority.com/google-alphamind-samsung-galaxy-s25-mediatek-3488607/)
- - [Online gig platforms sought to increase their &quot;take rates&quot; amid slowing growth; PitchBook: Fiverr and Upwork are trading at less than 20% their pandemic peaks &lpar;Stephanie Stacey/Financial Times&rpar;](http://www.techmeme.com/241008/p1#a241008p1)
- - [Samsung Promo Codes &amp; Coupons - October 2024](https://www.wired.com/story/samsung-promo-codes/)<!-- TECH:END -->
+ - [Samsung apologizes for making just $6.8 billion last quarter](https://www.theverge.com/2024/10/8/24265018/samsung-profit-apology-ai-memory-chips)
+ - [Here’s how Gemini will let you fine-tune your generated images &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-gemini-ai-image-generator-edits-demo-apk-teardown-3488613/)
+ - [Why My Roku Streaming Stick 4K Is Perfect for Prime Day Shopping](https://www.cnet.com/deals/why-my-roku-streaming-stick-4k-is-perfect-for-prime-day-shopping/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
