@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Mr. Incredible is a lucky man.](http://9gag.com/gag/aMVZA2P)
- - ⏩ [Title](http://9gag.com/gag/avy8oDX)
- - 👉 [Well well\u2026 ain\u2019t that something](http://9gag.com/gag/a0eQ56n)<!-- MEMES:END -->
+ - 💣 [Random physics](http://9gag.com/gag/aD214dw)
+ - ⏩ [DEI strikes again](http://9gag.com/gag/aYQY7Nm)
+ - 👉 [His super power is humen shield](http://9gag.com/gag/a9yKREZ)<!-- MEMES:END -->
 
 ---
 
