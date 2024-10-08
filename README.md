@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Dude goes 20000% for each movie](http://9gag.com/gag/a0eQNWO)
- - ⏩ [What a big cat\u2026. I want one.](http://9gag.com/gag/aPAYYnR)
- - 👉 [Can&#39;t take it? Then don&#39;t give it.](http://9gag.com/gag/aVvY7g8)<!-- MEMES:END -->
+ - 💣 [Influencer tries to do a prank and gets slapped](http://9gag.com/gag/a4PQRed)
+ - ⏩ [I was there 3000 years ago](http://9gag.com/gag/adBL5eD)
+ - 👉 [In 2003, two men stole a parked Boeing 727 from Luanda International Airport and flew away into the sunset. They&#39;ve never been found.](http://9gag.com/gag/agmnnGv)<!-- MEMES:END -->
 
 ---
 
