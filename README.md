@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Diablo IV&#39;s Big Expansion Faces &#39;Small Delay&#39; On Launch Day](https://kotaku.com/diablo-4-vessel-hatred-goes-live-delay-bug-time-zone-1851667333)
- - [A school shooting videogame made by the parents of a victim aims to change minds about gun control: &#39;This is not a scary game, it&#39;s an educational game&#39;](https://www.pcgamer.com/games/a-school-shooting-videogame-made-by-the-parents-of-a-victim-aims-to-change-minds-about-gun-control-this-is-not-a-scary-game-its-an-educational-game)
- - [Metaphor: ReFantazio&#39;s ReViews are in, and the Persona follow-up looks like 2024&#39;s unanimous RPG hit](https://www.pcgamer.com/games/rpg/metaphor-refantazios-reviews-are-in-and-the-persona-follow-up-looks-like-2024s-unanimous-rpg-hit)<!-- GAME:END -->
+ - [How to get more time and loot in Kurast Undercity in Diablo 4](https://www.polygon.com/diablo-4-guides/459768/kurast-undercity-time-attunement-explainer)
+ - [How to unlock all Mercenaries in Diablo 4](https://www.polygon.com/diablo-4-guides/459112/mercenaries-how-to-unlock-all)
+ - [How to start the Vessel of Hatred DLC in Diablo 4](https://www.polygon.com/diablo-4-guides/459109/vessel-hatred-dlc-how-to-start-skip-campaign-state-choice)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
