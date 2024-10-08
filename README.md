@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [YouTuber hero-scientist reveals the hidden lie at Morrowind&#39;s heart: Its rivers aren&#39;t rivers at all](https://www.pcgamer.com/games/the-elder-scrolls/youtuber-hero-scientist-reveals-the-hidden-lie-at-morrowinds-heart-its-rivers-arent-rivers-at-all)
- - [What if Pokémon Snap was soaked in pumpkin spice?](https://www.polygon.com/impressions/461729/penko-park-pokemon-snap-like)
- - [Roblox&#39;s Dress to Impress is getting a spooky Halloween update with over 30 haunting hairstyles and a pose that will scar me for life](https://www.pcgamer.com/games/sim/robloxs-dress-to-impress-is-getting-a-spooky-halloween-update-with-over-30-haunting-hairstyles-and-a-pose-that-will-scar-me-for-life)<!-- GAME:END -->
+ - [The best October Prime Day deals](https://www.polygon.com/amazon-prime-day/455235/best-deals-gaming-movies-toys-board-games)
+ - [Joker: Folie à Deux flips the script on Harley Quinn — but not on Todd Phillips’ problems writing women](https://www.polygon.com/analysis/462109/joker-folie-a-deux-harley-quinn-lady-gaga)
+ - [Paradox wants to get out of the RPG business: &#39;If Bloodlines 2, God willing, is successful, Bloodlines 3 [will be] done by someone else&#39;](https://www.pcgamer.com/games/rpg/paradox-wants-to-get-out-of-the-rpg-business-if-bloodlines-2-god-willing-is-successful-bloodlines-3-will-be-done-by-someone-else)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
