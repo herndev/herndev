@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Filing: Saudi Arabia&#39;s PIF sold ~17.3M Nintendo shares between August 21 to October 1, lowering its stake to 7.54%, despite an exec saying it wants to buy more &lpar;Bloomberg&rpar;](http://www.techmeme.com/241008/p4#a241008p4)
- - [Best Prime Day Mattress Deals Plus Epic Bedding Sales &lpar;2024&rpar;](https://www.wired.com/story/amazon-prime-day-mattress-deals-october-2024/)
- - [The Narwal Freo X Ultra robot vacuum and mop is $500 off, the cheapest it has ever been](https://www.androidauthority.com/narwal-freo-x-ultra-robot-deal-3488664/)<!-- TECH:END -->
+ - [After years of playing it safe, Samsung promises to make exciting products again](https://www.androidauthority.com/samsung-exciting-technologies-products-3488657/)
+ - [Uber announces ride-hailing and delivery updates: an EV-only Uber Green in 40 cities, a GPT-4o-powered chatbot to answer drivers&#39; EV questions, and more &lpar;Andrew J. Hawkins/The Verge&rpar;](http://www.techmeme.com/241008/p7#a241008p7)
+ - [Tablet deals: Apple iPad Mini and Google Pixel Tablet hit new record-low prices](https://www.androidauthority.com/apple-ipad-mini-google-pixel-tablet-deals-3488676/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
