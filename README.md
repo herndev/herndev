@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [No more taco nights](http://9gag.com/gag/aYQY7ZO)
- - ⏩ [I am listening ..](http://9gag.com/gag/awyAoBy)
- - 👉 [Title](http://9gag.com/gag/avy8oDX)<!-- MEMES:END -->
+ - 💣 [A divine message that she should not use the phone in during class hours](http://9gag.com/gag/aGyZgRn)
+ - ⏩ [No more taco nights](http://9gag.com/gag/aYQY7ZO)
+ - 👉 [At least there was no mess to clean up.](http://9gag.com/gag/aKGxdB1)<!-- MEMES:END -->
 
 ---
 
