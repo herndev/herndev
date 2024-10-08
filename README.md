@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Destiny 2: Revenant adds a new dungeon and brings back Icebreaker](https://www.polygon.com/news/459113/destiny-2-episode-revenant-patch-notes)
- - [Please, Please, Please Let This NHL 25 Prediction Be Correct](https://kotaku.com/new-york-rangers-stanley-cup-nhl-25-prediction-bracket-1851668039)
- - [Pokémon Go leader counters for Sierra, Arlo, and Cliff in October 2024](https://www.polygon.com/pokemon-go-guide/23579975/team-rocket-leader-counters-sierra-arlo-cliff-party-weaknesses)<!-- GAME:END -->
+ - [Celebrate Coronation Week with Kingdom Two Crowns: Call of Olympus – Out Now](https://news.xbox.com/en-us/2024/10/08/celebrate-coronation-week-with-kingdom-two-crowns-call-of-olympus-out-now/)
+ - [New Cozy Sim Asks What If Animal Crossing Looked Like The Elder Scrolls?](https://kotaku.com/hawthorne-stardew-valley-skyrim-cozy-sim-rpg-trailer-1851668143)
+ - [I Love Skating In Metaphor: ReFantazio](https://kotaku.com/metaphor-refantazio-sword-skate-fast-travel-map-1851668165)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
