@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Your Survival Guide to Diablo IV: Vessel of Hatred, Out Today](https://news.xbox.com/en-us/2024/10/08/your-survival-guide-to-diablo-iv-vessel-of-hatred-out-today/)
- - [Backbone&amp;#8217;s mobile controller is at its lowest price ever for Prime Day](https://www.polygon.com/amazon-prime-day/460283/backbone-one-iphone-android-mobile-controller)
- - [Apartment Story Is A Thrilling Narrative Game In The Guise Of A Sims-Like](https://kotaku.com/apartment-story-pc-sims-suspense-chekhov-godot-1851667761)<!-- GAME:END -->
+ - [Your Favorite Era is Back: Rewind Back to the ’90s with Forza Horizon 5](https://forza.net/news/forza-horizon-5-back-to-the-90s&reserved=0#new_tab)
+ - [Street Fighter 6 Has Added The Coolest New Feature, And Not Enough People Know About It](https://kotaku.com/street-fighter-6-replay-review-how-to-use-1851667802)
+ - [Oof: Years before Steam, a Blizzard engineer wanted to turn Battle.net into a third-party game store, but was reportedly turned down](https://www.pcgamer.com/gaming-industry/oof-years-before-steam-a-blizzard-engineer-wanted-to-turn-battle-net-into-a-third-party-game-store-but-was-reportedly-turned-down)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
