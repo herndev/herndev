@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [279 Best Prime Day Deals, Vetted By Our Amazon Experts &lpar;Oct 2024&rpar;](https://www.wired.com/story/best-prime-day-deals-october-2024/)
- - [The Oura Ring Gen 3 is 20 percent off](https://www.theverge.com/2024/10/8/24265363/amazon-prime-day-oura-ring-gen-3-smart-ring-wearables-october)
- - [Apple’s M3 MacBook Airs are at their best prices for Amazon’s Prime Day](https://www.theverge.com/2024/10/8/24265354/apple-macbook-air-13-15-m3-processor-october-prime-day-deal-sale)<!-- TECH:END -->
+ - [Plex is rolling out user reviews so you can help friends find hidden gems](https://www.androidauthority.com/plex-movie-show-reviews-3488846/)
+ - [GM’s Ultium battery gets the ultimatum](https://www.theverge.com/2024/10/8/24265416/gm-ultium-ev-battery-platform-discontinued-lfp)
+ - [Fitbit app will now use Gemini to help you with your health and fitness data](https://www.androidauthority.com/fitbit-labs-insights-explorer-3488858/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
