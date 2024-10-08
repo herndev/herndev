@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [US Cellular tells the FCC it’s doomed without the T-Mobile acquisition](https://www.androidauthority.com/us-cellular-t-mobile-aquisition-fcc-letter-3488604/)
- - [Better late than never: Pixel Watch ‘fully charged’ notifications are rolling out again](https://www.androidauthority.com/pixel-watch-fully-charged-notifications-rolling-out-again-3488598/)
- - [Voter Registration Deadlines Are Passing This Week: Find Out if You Still Have Time](https://www.cnet.com/news/politics/voter-registration-deadlines-are-passing-this-week-find-out-if-you-still-have-time/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Did Google just reveal the Galaxy S25’s MediaTek connection?](https://www.androidauthority.com/google-alphamind-samsung-galaxy-s25-mediatek-3488607/)
+ - [Online gig platforms sought to increase their &quot;take rates&quot; amid slowing growth; PitchBook: Fiverr and Upwork are trading at less than 20% their pandemic peaks &lpar;Stephanie Stacey/Financial Times&rpar;](http://www.techmeme.com/241008/p1#a241008p1)
+ - [Samsung Promo Codes &amp; Coupons - October 2024](https://www.wired.com/story/samsung-promo-codes/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
