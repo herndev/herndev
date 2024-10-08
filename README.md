@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A look at OpenAI&#39;s ongoing talent exodus, seeming shift in hiring priorities, deep bench of young talent, and the intensifying competition to hire the next wave &lpar;Will Knight/Wired&rpar;](http://www.techmeme.com/241007/p27#a241007p27)
  - [Lofree Dot Foundation keyboard review: lightweight and stylish](https://appleinsider.com/articles/24/10/08/lofree-dot-foundation-keyboard-review-lightweight-and-stylish?utm_medium=rss)
- - [MoneyGram says hackers &quot;accessed and acquired&quot; some customers&#39; personal and transaction data, including SSNs, during a cyberattack between September 20 and 22 &lpar;Zack Whittaker/TechCrunch&rpar;](http://www.techmeme.com/241007/p26#a241007p26)
- - [Amazon Prime Day: The Best 130 Deals Live Ahead of October&#39;s Big Deal Days](https://www.cnet.com/tech/best-prime-day-deals-2024-10-07/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Today&#39;s NYT Strands Hints, Answers and Help for Oct. 8, #219](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-oct-8-219/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
