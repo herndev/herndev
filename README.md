@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [After years of playing it safe, Samsung promises to make exciting products again](https://www.androidauthority.com/samsung-exciting-technologies-products-3488657/)
- - [Uber announces ride-hailing and delivery updates: an EV-only Uber Green in 40 cities, a GPT-4o-powered chatbot to answer drivers&#39; EV questions, and more &lpar;Andrew J. Hawkins/The Verge&rpar;](http://www.techmeme.com/241008/p7#a241008p7)
- - [Tablet deals: Apple iPad Mini and Google Pixel Tablet hit new record-low prices](https://www.androidauthority.com/apple-ipad-mini-google-pixel-tablet-deals-3488676/)<!-- TECH:END -->
+ - [Apple&#39;s iPad maintains lead as tablet market expanded in Q2 2024](https://appleinsider.com/articles/24/10/08/apples-ipad-maintains-lead-as-tablet-market-expanded-in-q2-2024?utm_medium=rss)
+ - [Hate YouTube ads? This key change will make you hate them even more](https://www.androidauthority.com/youtube-hides-skip-ads-mobile-3488684/)
+ - [Save up to 30% on Aqara smart locks and HomeKit doorbell during Prime Big Deal Days](https://appleinsider.com/articles/24/10/08/save-up-to-30-on-aqara-smart-locks-and-homekit-doorbell-during-prime-big-deal-days?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
