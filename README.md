@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple’s next MacBook Pros might have leaked in Russia](https://www.theverge.com/2024/10/7/24264707/apple-m4-macbook-pro-russia-leak-video)
- - [Apple&#39;s global head of procurement, Dan Rosckes, to retire after 24 years](https://appleinsider.com/articles/24/10/07/apples-global-head-of-procurement-dan-rosckes-to-retire-after-24-years?utm_medium=rss)
- - [Chevy’s cheapest Silverado EV now starts at $57,095](https://www.theverge.com/2024/10/7/24264622/chevy-silverado-ev-2025-wt-lt-rst)<!-- TECH:END -->
+ - [The UK launches a Regulatory Innovation Office to speed up the approval of new tech such as autonomous drones and AI in health care &lpar;Sarah Young/Reuters&rpar;](http://www.techmeme.com/241007/p22#a241007p22)
+ - [Apple&#39;s global head of procurement Dan Rosckes to retire after 24 years](https://appleinsider.com/articles/24/10/07/apples-global-head-of-procurement-dan-rosckes-to-retire-after-24-years?utm_medium=rss)
+ - [Russian YouTubers keep showing off alleged M4 MacBook Pros in historic Apple leak](https://appleinsider.com/articles/24/10/07/russian-youtubers-keep-showing-off-alleged-m4-macbook-pros-in-possibly-historic-apple-leak?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
