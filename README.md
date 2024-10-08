@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [1940 they invented this device to train leg muscles](http://9gag.com/gag/a8733YY)
- - ⏩ [At least there was no mess to clean up.](http://9gag.com/gag/aKGxdB1)
- - 👉 [How to make a quick 10 bucks!\ud83d\ude02](http://9gag.com/gag/aryG5nB)<!-- MEMES:END -->
+ - 💣 [Gandalf getting his PhD!?](http://9gag.com/gag/a5QMWME)
+ - ⏩ [I was there 3000 years ago](http://9gag.com/gag/adBL5eD)
+ - 👉 [Move like a gazelle](http://9gag.com/gag/a9yKR3j)<!-- MEMES:END -->
 
 ---
 
