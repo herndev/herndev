@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Can&#39;t take it? Then don&#39;t give it.](http://9gag.com/gag/aVvY7g8)
- - ⏩ [Somebody gives this man a company.](http://9gag.com/gag/an794Zn)
- - 👉 [The boys](http://9gag.com/gag/aAy3b3R)<!-- MEMES:END -->
+ - 💣 [Remember this](http://9gag.com/gag/aNDYgB6)
+ - ⏩ [How fast 100 Mach](http://9gag.com/gag/amoBPvo)
+ - 👉 [Only one month gap](http://9gag.com/gag/agmnBBr)<!-- MEMES:END -->
 
 ---
 
