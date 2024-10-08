@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [This Unreal Engine-Powered Hurricane Milton Storm Surge Simulator Is Terrifying](https://kotaku.com/hurricane-milton-storm-surge-simulation-unnreal-florida-1851668336)
- - [This farming game lets you plant crops anywhere you want on a real-world map, so I patriotically grew corn and raised sheep under the Statue of Liberty](https://www.pcgamer.com/games/sim/this-farming-game-lets-you-plant-crops-anywhere-you-want-on-a-real-world-map-so-i-patriotically-grew-corn-and-raised-sheep-under-the-statue-of-liberty)
- - [The best board game deals of October Prime Day](https://www.polygon.com/amazon-prime-day/455240/the-best-board-game-deals-of-october-prime-day)<!-- GAME:END -->
+ - [The coolest Prime Day board game deals, as picked by our tabletop gaming obsessives](https://www.pcgamer.com/hardware/our-tabletop-gaming-obsessives-pick-the-coolest-prime-day-board-game-deals)
+ - [After botching the Cree nation in Civ 6, Firaxis established a partnership with the Shawnee to ensure &#39;authentic, sincere&#39; representation in Civilization 7](https://www.pcgamer.com/games/strategy/after-botching-the-cree-nation-in-civ-6-firaxis-established-a-partnership-with-the-shawnee-to-ensure-authentic-sincere-representation-in-civilization-7)
+ - [Another Previously Current Gen-Only Game Is Getting A PS4 Port](https://kotaku.com/goat-simulator-3-ps4-xbox-one-port-release-last-gen-1851668327)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
