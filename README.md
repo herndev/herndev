@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Diablo 4: Vessel of Hatred is live and there&#39;s no better time to jump in](https://www.pcgamer.com/games/rpg/diablo-4-vessel-of-hatred-is-live-and-theres-no-better-time-to-jump-in)
- - [Today&#39;s Wordle answer for Tuesday, October 8](https://www.pcgamer.com/games/puzzle/wordle-answer-today-october-8-2024)
- - [Infinity Nikki is about to make dress up games mainstream](https://www.pcgamer.com/games/adventure/infinity-nikki-is-about-to-make-dress-up-games-mainstream)<!-- GAME:END -->
+ - [Roblox&#39;s Dress to Impress is getting a spooky Halloween update with over 30 haunting hairstyles and a pose that will scar me for life](https://www.pcgamer.com/games/sim/robloxs-dress-to-impress-is-getting-a-spooky-halloween-update-with-over-30-haunting-hairstyles-and-a-pose-that-will-scar-me-for-life)
+ - [The cheapest RTX 4070 gaming PC deal this October Prime Day is on Newegg, not Amazon](https://www.pcgamer.com/hardware/gaming-pcs/the-cheapest-rtx-4070-gaming-pc-deal-this-october-prime-day-is-on-newegg-not-amazon)
+ - [The best Magic: The Gathering deals of October Prime Day](https://www.polygon.com/amazon-prime-day/460640/best-mtg-deals-magic-gathering)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
