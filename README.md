@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [A divine message that she should not use the phone in during class hours](http://9gag.com/gag/aGyZgRn)
- - ⏩ [No more taco nights](http://9gag.com/gag/aYQY7ZO)
+ - 💣 [No more taco nights](http://9gag.com/gag/aYQY7ZO)
+ - ⏩ [I was there 3000 years ago](http://9gag.com/gag/adBL5eD)
  - 👉 [At least there was no mess to clean up.](http://9gag.com/gag/aKGxdB1)<!-- MEMES:END -->
 
 ---
