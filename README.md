@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [&#39;There were so many meetings&#39;: A former Bethesda developer explains why he quit during Starfield and started a solo project](https://www.pcgamer.com/games/rpg/there-were-so-many-meetings-a-former-bethesda-developer-explains-why-he-quit-during-starfield-and-started-a-solo-project)
  - [How to get more time and loot in Kurast Undercity in Diablo 4](https://www.polygon.com/diablo-4-guides/459768/kurast-undercity-time-attunement-explainer)
- - [How to unlock all Mercenaries in Diablo 4](https://www.polygon.com/diablo-4-guides/459112/mercenaries-how-to-unlock-all)
- - [How to start the Vessel of Hatred DLC in Diablo 4](https://www.polygon.com/diablo-4-guides/459109/vessel-hatred-dlc-how-to-start-skip-campaign-state-choice)<!-- GAME:END -->
+ - [How to unlock all Mercenaries in Diablo 4](https://www.polygon.com/diablo-4-guides/459112/mercenaries-how-to-unlock-all)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
