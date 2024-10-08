@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Refurbished PS5s are officially available through Sony, starting at $350](https://www.polygon.com/deals/463267/refurbished-ps5-playstation-5-certified-buy)
- - [&#39;I can assure you that Spectre isn’t going anywhere&#39;: Spectre Divide chief says the game isn&#39;t dying, so please stop saying it is](https://www.pcgamer.com/games/fps/i-can-assure-you-that-spectre-isnt-going-anywhere-spectre-divide-chief-says-the-game-isnt-dying-so-please-stop-saying-it-is)
- - [Boo gets its own glow in the dark Switch controller in time for Halloween](https://www.polygon.com/deals/462847/boo-glow-dark-pdp-nintedo-switch-controller)<!-- GAME:END -->
+ - [This Unreal Engine-Powered Hurricane Milton Storm Surge Simulator Is Terrifying](https://kotaku.com/hurricane-milton-storm-surge-simulation-unnreal-florida-1851668336)
+ - [This farming game lets you plant crops anywhere you want on a real-world map, so I patriotically grew corn and raised sheep under the Statue of Liberty](https://www.pcgamer.com/games/sim/this-farming-game-lets-you-plant-crops-anywhere-you-want-on-a-real-world-map-so-i-patriotically-grew-corn-and-raised-sheep-under-the-statue-of-liberty)
+ - [The best board game deals of October Prime Day](https://www.polygon.com/amazon-prime-day/455240/the-best-board-game-deals-of-october-prime-day)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
