@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Roblox&#39;s Dress to Impress is getting a spooky Halloween update with over 30 haunting hairstyles and a pose that will scar me for life](https://www.pcgamer.com/games/sim/robloxs-dress-to-impress-is-getting-a-spooky-halloween-update-with-over-30-haunting-hairstyles-and-a-pose-that-will-scar-me-for-life)
- - [The cheapest RTX 4070 gaming PC deal this October Prime Day is on Newegg, not Amazon](https://www.pcgamer.com/hardware/gaming-pcs/the-cheapest-rtx-4070-gaming-pc-deal-this-october-prime-day-is-on-newegg-not-amazon)
- - [The best Magic: The Gathering deals of October Prime Day](https://www.polygon.com/amazon-prime-day/460640/best-mtg-deals-magic-gathering)<!-- GAME:END -->
+ - [YouTuber hero-scientist reveals the hidden lie at Morrowind&#39;s heart: Its rivers aren&#39;t rivers at all](https://www.pcgamer.com/games/the-elder-scrolls/youtuber-hero-scientist-reveals-the-hidden-lie-at-morrowinds-heart-its-rivers-arent-rivers-at-all)
+ - [What if Pokémon Snap was soaked in pumpkin spice?](https://www.polygon.com/impressions/461729/penko-park-pokemon-snap-like)
+ - [Roblox&#39;s Dress to Impress is getting a spooky Halloween update with over 30 haunting hairstyles and a pose that will scar me for life](https://www.pcgamer.com/games/sim/robloxs-dress-to-impress-is-getting-a-spooky-halloween-update-with-over-30-haunting-hairstyles-and-a-pose-that-will-scar-me-for-life)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
