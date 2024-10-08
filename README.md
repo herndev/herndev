@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Lofree Dot Foundation keyboard review: lightweight and stylish](https://appleinsider.com/articles/24/10/08/lofree-dot-foundation-keyboard-review-lightweight-and-stylish?utm_medium=rss)
  - [MoneyGram says hackers &quot;accessed and acquired&quot; some customers&#39; personal and transaction data, including SSNs, during a cyberattack between September 20 and 22 &lpar;Zack Whittaker/TechCrunch&rpar;](http://www.techmeme.com/241007/p26#a241007p26)
- - [Amazon Prime Day: The Best 130 Deals Live Ahead of October&#39;s Big Deal Days](https://www.cnet.com/tech/best-prime-day-deals-2024-10-07/#ftag=CAD590a51e)
- - [Samsung Electronics issues a rare apology for posting disappointing preliminary Q3 results and plans to review its organizational culture and processes &lpar;Yoolim Lee/Bloomberg&rpar;](http://www.techmeme.com/241007/p25#a241007p25)<!-- TECH:END -->
+ - [Amazon Prime Day: The Best 130 Deals Live Ahead of October&#39;s Big Deal Days](https://www.cnet.com/tech/best-prime-day-deals-2024-10-07/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
