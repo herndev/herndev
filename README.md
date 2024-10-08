@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The OnePlus Watch 2 plunges a record 30% in Prime Day 2 sale](https://www.androidauthority.com/oneplus-watch-2-deal-prime-day-2-3488570/)
- - [The best smart locks you can buy right now](https://www.theverge.com/23393163/best-smart-door-lock)
- - [The Roli Airwave Is Both an AI Piano Teacher and a Digital Theremin](https://www.wired.com/story/roli-airwave-ai-music-teacher/)<!-- TECH:END -->
+ - [How to use your iPhone&#39;s satellite features in an emergency](https://appleinsider.com/inside/iphone/tips/how-to-use-your-iphones-satellite-features-in-an-emergency?utm_medium=rss)
+ - [Crypto.com sues the US SEC after receiving a Wells notice that the agency plans to bring an enforcement action against it; Consensys sued the SEC in April 2024 &lpar;Sarah Wynn/The Block&rpar;](http://www.techmeme.com/241008/p14#a241008p14)
+ - [12 Best Prime Day Laptop Deals &lpar;2024&rpar;](https://www.wired.com/story/best-prime-day-laptop-deals-october-2024/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
