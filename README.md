@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Comcast confirms another huge data breach: Over 230,000 users impacted](https://www.androidauthority.com/comcast-data-breach-230000-customers-3488597/)
- - [A look at OpenAI&#39;s ongoing talent exodus, seeming shift in hiring priorities, deep bench of young talent, and the intensifying competition to hire the next wave &lpar;Will Knight/Wired&rpar;](http://www.techmeme.com/241007/p27#a241007p27)
- - [Lofree Dot Foundation keyboard review: lightweight and stylish](https://appleinsider.com/articles/24/10/08/lofree-dot-foundation-keyboard-review-lightweight-and-stylish?utm_medium=rss)<!-- TECH:END -->
+ - [US Cellular tells the FCC it’s doomed without the T-Mobile acquisition](https://www.androidauthority.com/us-cellular-t-mobile-aquisition-fcc-letter-3488604/)
+ - [Better late than never: Pixel Watch ‘fully charged’ notifications are rolling out again](https://www.androidauthority.com/pixel-watch-fully-charged-notifications-rolling-out-again-3488598/)
+ - [Voter Registration Deadlines Are Passing This Week: Find Out if You Still Have Time](https://www.cnet.com/news/politics/voter-registration-deadlines-are-passing-this-week-find-out-if-you-still-have-time/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
