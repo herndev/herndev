@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to use your iPhone&#39;s satellite features in an emergency](https://appleinsider.com/inside/iphone/tips/how-to-use-your-iphones-satellite-features-in-an-emergency?utm_medium=rss)
- - [Crypto.com sues the US SEC after receiving a Wells notice that the agency plans to bring an enforcement action against it; Consensys sued the SEC in April 2024 &lpar;Sarah Wynn/The Block&rpar;](http://www.techmeme.com/241008/p14#a241008p14)
- - [12 Best Prime Day Laptop Deals &lpar;2024&rpar;](https://www.wired.com/story/best-prime-day-laptop-deals-october-2024/)<!-- TECH:END -->
+ - [The best Prime Day deals you can get on some of our favorite gadgets](https://www.theverge.com/24265074/amazon-prime-day-best-deals-sale-tech-staff-picks-favorites-october-2024)
+ - [Meta is bringing AI-edited video ads to Facebook and Instagram](https://www.theverge.com/2024/10/8/24265065/meta-ai-edited-video-ads-facebook-instagram)
+ - [iFixit now sells a USB-powered tool for removing the iPhone 16’s battery](https://www.theverge.com/2024/10/8/24262373/ifixit-iphone-16-battery-repair-adhesive)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
