@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [What a joke..rrr](http://9gag.com/gag/an79jrB)
- - ⏩ [In 2003, two men stole a parked Boeing 727 from Luanda International Airport and flew away into the sunset. They&#39;ve never been found.](http://9gag.com/gag/agmnnGv)
- - 👉 [Title](http://9gag.com/gag/avy8oDX)<!-- MEMES:END -->
+ - 💣 [Shocking Hollywood](http://9gag.com/gag/aBy00Ax)
+ - ⏩ [1940 they invented this device to train leg muscles](http://9gag.com/gag/a8733YY)
+ - 👉 [How to make a quick 10 bucks!\ud83d\ude02](http://9gag.com/gag/aryG5nB)<!-- MEMES:END -->
 
 ---
 
