@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Sometimes you tell a lie so much that you start believing it&#39;s the truth. Nothing hits better than reality check](http://9gag.com/gag/azx992z)
+ - 💣 [Mr. Incredible is a lucky man.](http://9gag.com/gag/aMVZA2P)
  - ⏩ [Title](http://9gag.com/gag/avy8oDX)
- - 👉 [Wow science is amazing.!!! Wait, what.?!](http://9gag.com/gag/a8733wO)<!-- MEMES:END -->
+ - 👉 [Well well\u2026 ain\u2019t that something](http://9gag.com/gag/a0eQ56n)<!-- MEMES:END -->
 
 ---
 
