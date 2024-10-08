@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Towerborne Update: Duskveil Ushers in Tweaks, Enhancements, and a Haunting Transformation to the Belfry](https://store.steampowered.com/news/app/2458830/view/4699033840166683892#new_tab)
- - [Dragon Ball Sparking Zero’s Great Ape Vegeta Fight Is Kicking Everyone’s Ass](https://kotaku.com/dragon-ball-sparking-zero-great-ape-vegeta-reactions-1851667987)
- - [Pokémon Go Giovanni counters, team line-up in October 2024](https://www.polygon.com/pokemon-go-guide/23581491/giovanni-counters-team-go-rocket)<!-- GAME:END -->
+ - [Destiny 2: Revenant adds a new dungeon and brings back Icebreaker](https://www.polygon.com/news/459113/destiny-2-episode-revenant-patch-notes)
+ - [Please, Please, Please Let This NHL 25 Prediction Be Correct](https://kotaku.com/new-york-rangers-stanley-cup-nhl-25-prediction-bracket-1851668039)
+ - [Pokémon Go leader counters for Sierra, Arlo, and Cliff in October 2024](https://www.polygon.com/pokemon-go-guide/23579975/team-rocket-leader-counters-sierra-arlo-cliff-party-weaknesses)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
