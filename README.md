@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The UK launches a Regulatory Innovation Office to speed up the approval of new tech such as autonomous drones and AI in health care &lpar;Sarah Young/Reuters&rpar;](http://www.techmeme.com/241007/p22#a241007p22)
- - [Apple&#39;s global head of procurement Dan Rosckes to retire after 24 years](https://appleinsider.com/articles/24/10/07/apples-global-head-of-procurement-dan-rosckes-to-retire-after-24-years?utm_medium=rss)
- - [Russian YouTubers keep showing off alleged M4 MacBook Pros in historic Apple leak](https://appleinsider.com/articles/24/10/07/russian-youtubers-keep-showing-off-alleged-m4-macbook-pros-in-possibly-historic-apple-leak?utm_medium=rss)<!-- TECH:END -->
+ - [Samsung Electronics issues a rare apology for posting disappointing preliminary Q3 results and plans to review its organizational culture and processes &lpar;Yoolim Lee/Bloomberg&rpar;](http://www.techmeme.com/241007/p25#a241007p25)
+ - [Samsung estimates Q3 operating profit up 274% YoY to ~$6.78B, falling short of analysts&#39; estimates of ~$7.66B, as it struggles to capitalize on AI chips demand &lpar;Reuters&rpar;](http://www.techmeme.com/241007/p24#a241007p24)
+ - [Apple Watch Series 10 teardown shows progress in everything except repairability](https://appleinsider.com/articles/24/10/08/apple-watch-series-10-teardown-shows-progress-in-everything-except-repairability?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
