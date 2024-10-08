@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung apologizes for making just $6.8 billion last quarter](https://www.theverge.com/2024/10/8/24265018/samsung-profit-apology-ai-memory-chips)
- - [Here’s how Gemini will let you fine-tune your generated images &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-gemini-ai-image-generator-edits-demo-apk-teardown-3488613/)
- - [Why My Roku Streaming Stick 4K Is Perfect for Prime Day Shopping](https://www.cnet.com/deals/why-my-roku-streaming-stick-4k-is-perfect-for-prime-day-shopping/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Act fast to score $300 off the Samsung Galaxy S24 Ultra](https://www.androidauthority.com/samsung-galaxy-s24-ultra-prime-day-deal-3488558/)
+ - [9 Best Prime Day Kindle Deals and Accessories &lpar;2024&rpar;](https://www.wired.com/story/best-prime-day-kindle-deals-october-2024/)
+ - [216 Best Prime Day Deals, Tested and Tracked By Our Team](https://www.wired.com/story/best-prime-day-deals-october-2024/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
