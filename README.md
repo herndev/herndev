@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The best October Prime Day deals](https://www.polygon.com/amazon-prime-day/455235/best-deals-gaming-movies-toys-board-games)
- - [Joker: Folie à Deux flips the script on Harley Quinn — but not on Todd Phillips’ problems writing women](https://www.polygon.com/analysis/462109/joker-folie-a-deux-harley-quinn-lady-gaga)
- - [Paradox wants to get out of the RPG business: &#39;If Bloodlines 2, God willing, is successful, Bloodlines 3 [will be] done by someone else&#39;](https://www.pcgamer.com/games/rpg/paradox-wants-to-get-out-of-the-rpg-business-if-bloodlines-2-god-willing-is-successful-bloodlines-3-will-be-done-by-someone-else)<!-- GAME:END -->
+ - [A Cocktail of Fear – How Alien: Isolation Terrified Xbox Players](https://news.xbox.com/en-us/2024/10/08/how-alien-isolation-terrified-xbox-players/)
+ - [The best Magic: The Gathering deals of October Prime Day](https://www.polygon.com/amazon-prime-day/460640/best-mtg-deals-magic-gathering)
+ - [The best board game deals of October Prime Day](https://www.polygon.com/amazon-prime-day/455240/the-best-board-game-deals-of-october-prime-day)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
