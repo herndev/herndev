@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Honda Zero first drive: an EV without the baggage](https://www.theverge.com/2024/10/8/24265238/honda-zero-first-drive-ev-weight-battery-vr-autonomous)
- - [Google Meet can now transcribe and record meetings by default](https://www.androidauthority.com/google-meet-default-recording-3488772/)
- - [The Verge guide to Amazon’s October Prime Day event](https://www.theverge.com/24255302/amazon-prime-day-deals-tips-news-guide-2024-october)<!-- TECH:END -->
+ - [Filing: Shein&#39;s UK business made &amp;pound;1.55B in 2023 revenue, up 38% over a 16-month period to the end of 2022, as the fast fashion retailer prepares for a UK IPO &lpar;Helen Reid/Reuters&rpar;](http://www.techmeme.com/241008/p22#a241008p22)
+ - [Samsung&#39;s 32-inch M8 monitor is now over 40% off](https://appleinsider.com/articles/24/10/08/samsungs-32-inch-m8-monitor-is-now-over-40-off?utm_medium=rss)
+ - [OneDrive is getting a new mobile app, better search, and colored folders in File Explorer](https://www.theverge.com/2024/10/8/24265312/microsoft-onedrive-mobile-app-search-colored-folders-file-explorer)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
