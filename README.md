@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Plex is rolling out user reviews so you can help friends find hidden gems](https://www.androidauthority.com/plex-movie-show-reviews-3488846/)
- - [GM’s Ultium battery gets the ultimatum](https://www.theverge.com/2024/10/8/24265416/gm-ultium-ev-battery-platform-discontinued-lfp)
- - [Fitbit app will now use Gemini to help you with your health and fitness data](https://www.androidauthority.com/fitbit-labs-insights-explorer-3488858/)<!-- TECH:END -->
+ - [Google Docs introduces tabs to help navigate even the most unwieldy documents](https://www.androidauthority.com/google-docs-tabs-3488865/)
+ - [&#39;Metaphor: ReFantazio&#39; Is the Future of RPGs](https://www.wired.com/story/metaphor-refantazio-is-the-future-of-rpgs/)
+ - [Brazil&#39;s Supreme Court authorizes the return of X after the company complied with its demands, including taking down some accounts and appointing a legal agent &lpar;Bloomberg&rpar;](http://www.techmeme.com/241008/p25#a241008p25)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
