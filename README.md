@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung Electronics issues a rare apology for posting disappointing preliminary Q3 results and plans to review its organizational culture and processes &lpar;Yoolim Lee/Bloomberg&rpar;](http://www.techmeme.com/241007/p25#a241007p25)
- - [Samsung estimates Q3 operating profit up 274% YoY to ~$6.78B, falling short of analysts&#39; estimates of ~$7.66B, as it struggles to capitalize on AI chips demand &lpar;Reuters&rpar;](http://www.techmeme.com/241007/p24#a241007p24)
- - [Apple Watch Series 10 teardown shows progress in everything except repairability](https://appleinsider.com/articles/24/10/08/apple-watch-series-10-teardown-shows-progress-in-everything-except-repairability?utm_medium=rss)<!-- TECH:END -->
+ - [MoneyGram says hackers &quot;accessed and acquired&quot; some customers&#39; personal and transaction data, including SSNs, during a cyberattack between September 20 and 22 &lpar;Zack Whittaker/TechCrunch&rpar;](http://www.techmeme.com/241007/p26#a241007p26)
+ - [Amazon Prime Day: The Best 130 Deals Live Ahead of October&#39;s Big Deal Days](https://www.cnet.com/tech/best-prime-day-deals-2024-10-07/#ftag=CAD590a51e)
+ - [Samsung Electronics issues a rare apology for posting disappointing preliminary Q3 results and plans to review its organizational culture and processes &lpar;Yoolim Lee/Bloomberg&rpar;](http://www.techmeme.com/241007/p25#a241007p25)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
