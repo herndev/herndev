@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Infinity Nikki is about to make dress up games mainstream](https://www.pcgamer.com/games/adventure/infinity-nikki-is-about-to-make-dress-up-games-mainstream)
  - [&#39;There were so many meetings&#39;: A former Bethesda developer explains why he quit during Starfield and started a solo project](https://www.pcgamer.com/games/rpg/there-were-so-many-meetings-a-former-bethesda-developer-explains-why-he-quit-during-starfield-and-started-a-solo-project)
- - [How to get more time and loot in Kurast Undercity in Diablo 4](https://www.polygon.com/diablo-4-guides/459768/kurast-undercity-time-attunement-explainer)
- - [How to unlock all Mercenaries in Diablo 4](https://www.polygon.com/diablo-4-guides/459112/mercenaries-how-to-unlock-all)<!-- GAME:END -->
+ - [How to get more time and loot in Kurast Undercity in Diablo 4](https://www.polygon.com/diablo-4-guides/459768/kurast-undercity-time-attunement-explainer)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
