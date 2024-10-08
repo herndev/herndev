@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Celebrate Coronation Week with Kingdom Two Crowns: Call of Olympus – Out Now](https://news.xbox.com/en-us/2024/10/08/celebrate-coronation-week-with-kingdom-two-crowns-call-of-olympus-out-now/)
- - [New Cozy Sim Asks What If Animal Crossing Looked Like The Elder Scrolls?](https://kotaku.com/hawthorne-stardew-valley-skyrim-cozy-sim-rpg-trailer-1851668143)
- - [I Love Skating In Metaphor: ReFantazio](https://kotaku.com/metaphor-refantazio-sword-skate-fast-travel-map-1851668165)<!-- GAME:END -->
+ - [Refurbished PS5s are officially available through Sony, starting at $350](https://www.polygon.com/deals/463267/refurbished-ps5-playstation-5-certified-buy)
+ - [&#39;I can assure you that Spectre isn’t going anywhere&#39;: Spectre Divide chief says the game isn&#39;t dying, so please stop saying it is](https://www.pcgamer.com/games/fps/i-can-assure-you-that-spectre-isnt-going-anywhere-spectre-divide-chief-says-the-game-isnt-dying-so-please-stop-saying-it-is)
+ - [Boo gets its own glow in the dark Switch controller in time for Halloween](https://www.polygon.com/deals/462847/boo-glow-dark-pdp-nintedo-switch-controller)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
