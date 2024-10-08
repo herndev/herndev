@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [A Cocktail of Fear – How Alien: Isolation Terrified Xbox Players](https://news.xbox.com/en-us/2024/10/08/how-alien-isolation-terrified-xbox-players/)
- - [The best Magic: The Gathering deals of October Prime Day](https://www.polygon.com/amazon-prime-day/460640/best-mtg-deals-magic-gathering)
- - [The best board game deals of October Prime Day](https://www.polygon.com/amazon-prime-day/455240/the-best-board-game-deals-of-october-prime-day)<!-- GAME:END -->
+ - [How Undisputed Enables You to Forge Your Own Boxing Path](https://news.xbox.com/en-us/2024/10/08/how-undisputed-enables-you-to-forge-your-own-boxing-path/)
+ - [Hold Your Breath squanders everything it has going for it](https://www.polygon.com/movies/462069/hold-your-breath-hulu-review-good-bad)
+ - [Ubisoft&#39;s grudging return to Steam continues as Assassin&#39;s Creed Valhalla finally gets achievements 2 years after launch](https://www.pcgamer.com/games/assassins-creed/ubisofts-grudging-return-to-steam-continues-as-assassins-creed-valhalla-finally-gets-achievements-2-years-after-launch)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
