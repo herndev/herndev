@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Comcast confirms another huge data breach: Over 230,000 users impacted](https://www.androidauthority.com/comcast-data-breach-230000-customers-3488597/)
  - [A look at OpenAI&#39;s ongoing talent exodus, seeming shift in hiring priorities, deep bench of young talent, and the intensifying competition to hire the next wave &lpar;Will Knight/Wired&rpar;](http://www.techmeme.com/241007/p27#a241007p27)
- - [Lofree Dot Foundation keyboard review: lightweight and stylish](https://appleinsider.com/articles/24/10/08/lofree-dot-foundation-keyboard-review-lightweight-and-stylish?utm_medium=rss)
- - [Today&#39;s NYT Strands Hints, Answers and Help for Oct. 8, #219](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-oct-8-219/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Lofree Dot Foundation keyboard review: lightweight and stylish](https://appleinsider.com/articles/24/10/08/lofree-dot-foundation-keyboard-review-lightweight-and-stylish?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
