@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s iPad maintains lead as tablet market expanded in Q2 2024](https://appleinsider.com/articles/24/10/08/apples-ipad-maintains-lead-as-tablet-market-expanded-in-q2-2024?utm_medium=rss)
- - [Hate YouTube ads? This key change will make you hate them even more](https://www.androidauthority.com/youtube-hides-skip-ads-mobile-3488684/)
- - [Save up to 30% on Aqara smart locks and HomeKit doorbell during Prime Big Deal Days](https://appleinsider.com/articles/24/10/08/save-up-to-30-on-aqara-smart-locks-and-homekit-doorbell-during-prime-big-deal-days?utm_medium=rss)<!-- TECH:END -->
+ - [The OnePlus Watch 2 plunges a record 30% in Prime Day 2 sale](https://www.androidauthority.com/oneplus-watch-2-deal-prime-day-2-3488570/)
+ - [The best smart locks you can buy right now](https://www.theverge.com/23393163/best-smart-door-lock)
+ - [The Roli Airwave Is Both an AI Piano Teacher and a Digital Theremin](https://www.wired.com/story/roli-airwave-ai-music-teacher/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
