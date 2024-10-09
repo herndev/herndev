@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [OpenAI announces Singapore will serve as its APAC hub and appoints Oliver Jay, who served as Asana&#39;s chief revenue officer, to lead international expansion &lpar;Laura Dobberstein/The Register&rpar;](http://www.techmeme.com/241009/p9#a241009p9)
- - [Up to 65% Off Walmart Promo Codes - October 2024](https://www.wired.com/story/top-walmart-promo-codes/)
- - [Best Mattresses for Sciatica for 2024](https://www.cnet.com/health/sleep/best-mattress-for-sciatica/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [A profile of the National Archives and Records Administration&#39;s Chief Innovation Officer Pamela Wright, who leads the agency&#39;s project to digitize 13B+ records &lpar;Sarah Vowell/Washington Post&rpar;](http://www.techmeme.com/241009/p11#a241009p11)
+ - [18 Best Prime Day Laptop Deals &lpar;2024&rpar;](https://www.wired.com/story/best-prime-day-laptop-deals-october-2024-1/)
+ - [MiniMax, ByteDance, and 01.ai are among a group of Chinese AI companies that have launched AI products overseas, particularly in the US, to boost revenue growth &lpar;Eleanor Olcott/Financial Times&rpar;](http://www.techmeme.com/241009/p10#a241009p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
