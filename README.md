@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Eminem, his brother, his mom](http://9gag.com/gag/ae9rAXW)
- - ⏩ [Banana for scale](http://9gag.com/gag/aBy0dw1)
- - 👉 [She just jump oh f**king nowhere](http://9gag.com/gag/aW4YGxZ)<!-- MEMES:END -->
+ - 💣 [Just hold still for a second](http://9gag.com/gag/aqyKj5Y)
+ - ⏩ [Footage shows members of the Jalisco New Generation Cartel &lpar;CJNG&rpar; in Mexico. CJNG is heavily militarized and more violent than other criminal organizations. The cartel has a special operations group for specific types of warfare.](http://9gag.com/gag/a0eQ7md)
+ - 👉 [Ford knows its customers.](http://9gag.com/gag/a6ZOKWA)<!-- MEMES:END -->
 
 ---
 
