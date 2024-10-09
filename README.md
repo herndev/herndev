@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Offended](http://9gag.com/gag/aryGM4y)
- - ⏩ [Muscle Memory](http://9gag.com/gag/a4PQojp)
- - 👉 [Only one month gap](http://9gag.com/gag/agmnBBr)<!-- MEMES:END -->
+ - 💣 [Heheh, the world is healing!](http://9gag.com/gag/a2vZ18Y)
+ - ⏩ [Somebody gives this man a company.](http://9gag.com/gag/an794Zn)
+ - 👉 [Let them fight](http://9gag.com/gag/aLng1KW)<!-- MEMES:END -->
 
 ---
 
