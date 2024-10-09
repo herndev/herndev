@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon Prime Day: We Found Over 150 Deals Worth Shopping](https://www.cnet.com/tech/amazon-october-prime-day-deals-live-2024-10-08/#ftag=CAD590a51e)
- - [Analysts expect M4 Macs to drive premium PC demand in the short term](https://appleinsider.com/articles/24/10/09/analysts-expect-m4-macs-to-drive-premium-pc-demand-in-the-short-term?utm_medium=rss)
- - [Unmasking Bitcoin Creator Satoshi Nakamoto—Again](https://www.wired.com/story/unmasking-bitcoin-creator-satoshi-nakamoto-again/)<!-- TECH:END -->
+ - [Our favorite deals under $50 from Amazon’s October Prime Day sale](https://www.theverge.com/24262440/amazon-prime-day-best-cheap-tech-deals-under-50-october-2024)
+ - [Amazon Prime Day: We Found Over 140 Deals Worth Shopping](https://www.cnet.com/tech/amazon-october-prime-day-deals-live-2024-10-08/#ftag=CAD590a51e)
+ - [Helix Twilight Mattress Review 2024: A Hybrid Bed for Back and Stomach Sleepers](https://www.cnet.com/health/sleep/helix-twilight-mattress-review/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
