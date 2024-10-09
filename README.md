@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Silent Hill 2 players are modding away the fog and freeing the camera to discover hidden detail in the remake](https://www.pcgamer.com/games/horror/silent-hill-2-players-are-modding-away-the-fog-and-freeing-the-camera-to-discover-hidden-detail-in-the-remake)
  - [Today&#39;s Wordle answer for Wednesday, October 9](https://www.pcgamer.com/games/puzzle/wordle-answer-today-october-9-2024)
- - [The next game in the Like a Dragon series was almost a fishing game: &#39;I wanted to make a game called Like a Dragon: Tuna&#39;](https://www.pcgamer.com/games/action/the-next-game-in-the-like-a-dragon-series-was-almost-a-fishing-game-i-wanted-to-make-a-game-called-like-a-dragon-tuna)
- - [Nintendo is shedding its veneer of kindness and embracing a new reputation: Vigorous legal bully](https://www.pcgamer.com/gaming-industry/nintendo-is-shedding-its-veneer-of-kindness-and-embracing-a-new-reputation-vigorous-legal-bully)<!-- GAME:END -->
+ - [The next game in the Like a Dragon series was almost a fishing game: &#39;I wanted to make a game called Like a Dragon: Tuna&#39;](https://www.pcgamer.com/games/action/the-next-game-in-the-like-a-dragon-series-was-almost-a-fishing-game-i-wanted-to-make-a-game-called-like-a-dragon-tuna)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
