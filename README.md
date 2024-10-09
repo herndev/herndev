@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [No amount of money can convince me to do something like this](http://9gag.com/gag/aZZLDbQ)
+ - 💣 [She just jump oh f**king nowhere](http://9gag.com/gag/aW4YGxZ)
  - ⏩ [The geh is strong with this one](http://9gag.com/gag/amoBg9y)
- - 👉 [As im sure There are some Black dudes here i Gotta ask. Why do Black women wear wigs?](http://9gag.com/gag/adBL8w2)<!-- MEMES:END -->
+ - 👉 [Muscle Memory](http://9gag.com/gag/a4PQojp)<!-- MEMES:END -->
 
 ---
 
