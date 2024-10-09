@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [YouTube rejects claims that it’s hiding the skip button](https://www.androidauthority.com/youtube-denies-hiding-skip-button-3489200/)
- - [Hot deals: Get our favorite portable batteries at record-breaking prices](https://www.androidauthority.com/cuktech-20-power-bank-anker-548-power-bank-anker-solix-c300-deals-3489179/)
- - [26 Best Prime Day Deals Under $30](https://www.wired.com/story/26-best-prime-day-deals-under-30-october-2024/)<!-- TECH:END -->
+ - [Tim Walz Rally Goes Live on World of Warcraft Twitch Stream](https://www.wired.com/story/tim-walz-rally-world-of-warcraft-twitch/)
+ - [Our favorite budget headphones, are even cheaper today!](https://www.androidauthority.com/jlab-jbuds-lux-anc-headphones-deal-3489178/)
+ - [This fitness tracker is somehow only now getting step counting](https://www.androidauthority.com/whoop-step-counting-3489245/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
