@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Everything is fine](http://9gag.com/gag/aQzRE1W)
- - ⏩ [Only one month gap](http://9gag.com/gag/agmnBBr)
- - 👉 [Peyton and her special talent](http://9gag.com/gag/a34QEW7)<!-- MEMES:END -->
+ - 💣 [Footage shows members of the Jalisco New Generation Cartel &lpar;CJNG&rpar; in Mexico. CJNG is heavily militarized and more violent than other criminal organizations. The cartel has a special operations group for specific types of warfare.](http://9gag.com/gag/a0eQ7md)
+ - ⏩ [Just hold still for a second](http://9gag.com/gag/aqyKj5Y)
+ - 👉 [Ew, a lab diamond?](http://9gag.com/gag/a2vZ70e)<!-- MEMES:END -->
 
 ---
 
