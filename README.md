@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Two Classic PlayStation Horror Games Are Coming To PS Plus This Month](https://kotaku.com/dino-crisis-siren-ps2-horror-ps-plus-games-october-2024-1851669030)
- - [Throne And Liberty Isn&#39;t All Hitting Stuff, There&#39;s Relaxing Fishing Too](https://kotaku.com/throne-and-liberty-fishing-guide-mmo-amazon-1851668944)
- - [11 Baldur’s Gate 3 Mods To Give You New Ways To Play](https://kotaku.com/baldurs-gate-3-mods-bg3-classes-races-real-time-combat-1851669048)<!-- GAME:END -->
+ - [Get Lego Star Wars and Animal Crossing sets on sale for Prime Day](https://www.polygon.com/amazon-prime-day/462666/best-lego-deals-star-wars-nintendo)
+ - [Desperately Need More Stardew Valley? Try Stardew Valley Expanded](https://kotaku.com/stardew-valley-expanded-mod-concernedape-1851668970)
+ - [Apple’s AirPods Pro 2 are on sale for their lowest price ever for October Prime Day](https://www.polygon.com/amazon-prime-day/463623/apple-airpods-pro-2-deal)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
