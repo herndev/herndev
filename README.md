@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Can MrBeast survive controversy long enough to win back the fans?](https://www.polygon.com/culture/462862/mrbeast-lawsuits-lunchly-logan-paul-fan-reactions)
- - [The best board game deals from day two of October Prime Day](https://www.polygon.com/amazon-prime-day/455240/the-best-board-game-deals-of-october-prime-day)
- - [This gorgeous Suzume box set is half off for October Prime Day](https://www.polygon.com/amazon-prime-day/2024/7/16/24199826/suzume-your-name-best-blu-ray-deals)<!-- GAME:END -->
+ - [Silent Hill 2 owes much to Christina Aguilera at the 1999 Teen Choice Awards](https://www.polygon.com/culture/462908/silent-hill-2-christina-aguilera-teen-choice-awards-1999)
+ - [The day two October Prime Day deals Polygon readers can&amp;#8217;t get enough of](https://www.polygon.com/amazon-prime-day/463039/bestsellers-popular-deals)
+ - [‘Like new’ PlayStation Portals are still $60 off through Amazon for Prime Day](https://www.polygon.com/amazon-prime-day/463068/playstation-ps-portal-deal-like-new-renewed)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
