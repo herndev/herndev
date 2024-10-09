@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Only one month gap](http://9gag.com/gag/agmnBBr)
- - ⏩ [As im sure There are some Black dudes here i Gotta ask. Why do Black women wear wigs?](http://9gag.com/gag/adBL8w2)
- - 👉 [Muscle Memory](http://9gag.com/gag/a4PQojp)<!-- MEMES:END -->
+ - 💣 [Offended](http://9gag.com/gag/aryGM4y)
+ - ⏩ [Muscle Memory](http://9gag.com/gag/a4PQojp)
+ - 👉 [Only one month gap](http://9gag.com/gag/agmnBBr)<!-- MEMES:END -->
 
 ---
 
