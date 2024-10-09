@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Silent Hill 2 owes much to Christina Aguilera at the 1999 Teen Choice Awards](https://www.polygon.com/culture/462908/silent-hill-2-christina-aguilera-teen-choice-awards-1999)
- - [The day two October Prime Day deals Polygon readers can&amp;#8217;t get enough of](https://www.polygon.com/amazon-prime-day/463039/bestsellers-popular-deals)
- - [‘Like new’ PlayStation Portals are still $60 off through Amazon for Prime Day](https://www.polygon.com/amazon-prime-day/463068/playstation-ps-portal-deal-like-new-renewed)<!-- GAME:END -->
+ - [After Shadow of the Tomb Raider, an animated Lara Croft had to laugh, cry, and wrestle like a pro](https://www.polygon.com/animation-cartoons/462663/tomb-raider-netflix-lara-croft-after-survivor-trilogy)
+ - [Report On Roblox Describes It As &#39;A Pedophile Hellscape For Kids&#39;](https://kotaku.com/roblox-hindenburg-report-pedophile-hellscape-for-kids-1851668649)
+ - [This Unreal Engine-Powered Hurricane Milton Storm Surge Simulator Is Terrifying](https://kotaku.com/hurricane-milton-storm-surge-simulation-unnreal-florida-1851668336)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
