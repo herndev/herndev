@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [After Shadow of the Tomb Raider, an animated Lara Croft had to laugh, cry, and wrestle like a pro](https://www.polygon.com/animation-cartoons/462663/tomb-raider-netflix-lara-croft-after-survivor-trilogy)
- - [Report On Roblox Describes It As &#39;A Pedophile Hellscape For Kids&#39;](https://kotaku.com/roblox-hindenburg-report-pedophile-hellscape-for-kids-1851668649)
- - [This Unreal Engine-Powered Hurricane Milton Storm Surge Simulator Is Terrifying](https://kotaku.com/hurricane-milton-storm-surge-simulation-unnreal-florida-1851668336)<!-- GAME:END -->
+ - [Solve an Epic Puzzle for the Chance to Win an Indiana Jones and The Great Circle Themed Console](https://news.xbox.com/en-us/2024/10/09/indiana-jones-and-the-great-circle-xbox-sweepstakes/)
+ - [Infinity Nikki codes and how to redeem them](https://www.pcgamer.com/games/adventure/infinity-nikki-codes-active-redeem)
+ - [Xbox’s &#39;Seasonal Savings&#39; Sale Slashes Prices On Some Huge Titles And Overlooked Gems](https://kotaku.com/xbox-seasonal-savings-sale-recommendations-1851668728)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
