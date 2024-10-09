@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Green Lantern HBO Show Makes Rebel Ridge Star Its John Stewart](https://kotaku.com/green-lantern-hbo-rebel-ridge-john-stewart-aaron-pierre-1851669212)
- - [Dragon Age: The Veilguard won&#39;t have an arachnophobia mode because it won&#39;t have any spiders](https://www.pcgamer.com/games/rpg/dragon-age-the-veilguard-wont-have-an-arachnophobia-mode-because-it-wont-have-any-spiders)
- - [Don&amp;#8217;t miss out on the best Magic: The Gathering Prime Day deals before they sell out](https://www.polygon.com/amazon-prime-day/460640/best-mtg-deals-magic-gathering)<!-- GAME:END -->
+ - [More Embracer Group layoffs: Star Trek Online developer Cryptic Studios is cutting jobs for the second time in a year](https://www.pcgamer.com/gaming-industry/more-embracer-group-layoffs-star-trek-online-developer-cryptic-studios-is-cutting-jobs-for-the-second-time-in-a-year)
+ - [The best board game deals you can get right now from Prime Day](https://www.polygon.com/amazon-prime-day/455240/the-best-board-game-deals-of-october-prime-day)
+ - [Roblox clashes with an &#39;activist short-seller&#39; who&#39;s going after its share price with accusations that it&#39;s running a &#39;pedophile hellscape&#39; and lying about user numbers](https://www.pcgamer.com/gaming-industry/roblox-clashes-with-an-activist-short-seller-whos-going-after-its-share-price-with-accusations-that-its-running-a-pedophile-hellscape-and-lying-about-user-numbers)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
