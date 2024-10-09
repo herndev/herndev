@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Guarantee she came out of something\u2019s a$](http://9gag.com/gag/aLngwYV)
- - ⏩ [Ahh!! The tales of HOA](http://9gag.com/gag/aAy3G8E)
- - 👉 [Just hold still for a second](http://9gag.com/gag/aqyKj5Y)<!-- MEMES:END -->
+ - 💣 [The geh is strong with this one](http://9gag.com/gag/amoBg9y)
+ - ⏩ [Never seen a nicer was of handling a heckler. True gentleman](http://9gag.com/gag/an79gyE)
+ - 👉 [As im sure There are some Black dudes here i Gotta ask. Why do Black women wear wigs?](http://9gag.com/gag/adBL8w2)<!-- MEMES:END -->
 
 ---
 
