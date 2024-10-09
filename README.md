@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best Apple deals available for Amazon’s October Prime Day event](https://www.theverge.com/24264786/apple-amazon-prime-day-deal-sale-airpods-october)
- - [Brazil’s X ban is coming to an end: all the latest news](https://www.theverge.com/2024/8/30/24232573/brazil-x-twitter-ban-elon-musk)
- - [Best Prime Day Mattress Deals Plus Epic Bedding Sales &lpar;2024&rpar;](https://www.wired.com/story/amazon-prime-day-mattress-deals-october-2024/)<!-- TECH:END -->
+ - [10 Best Prime Day Kindle Deals and Accessories &lpar;2024&rpar;](https://www.wired.com/story/best-prime-day-kindle-deals-october-2024/)
+ - [Flash sale: grab Apple&#39;s 14-inch MacBook Pro M3 Pro for just $1,699 &lpar;$300 off&rpar;](https://appleinsider.com/articles/24/10/08/flash-sale-grab-apples-14-inch-macbook-pro-m3-pro-for-just-1699-300-off?utm_medium=rss)
+ - [How a UK treaty could spell the end of the .io domain](https://www.theverge.com/2024/10/8/24265441/uk-treaty-end-io-domain-chagos-islands)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
