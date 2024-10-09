@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Just hold still for a second](http://9gag.com/gag/aqyKj5Y)
- - ⏩ [Footage shows members of the Jalisco New Generation Cartel &lpar;CJNG&rpar; in Mexico. CJNG is heavily militarized and more violent than other criminal organizations. The cartel has a special operations group for specific types of warfare.](http://9gag.com/gag/a0eQ7md)
- - 👉 [Ford knows its customers.](http://9gag.com/gag/a6ZOKWA)<!-- MEMES:END -->
+ - 💣 [Thank me later](http://9gag.com/gag/a34QEgQ)
+ - ⏩ [Ed for two dollars!](http://9gag.com/gag/aD21Dnx)
+ - 👉 [Hi I&#39;m granny, welcome to Jackass](http://9gag.com/gag/an79gQz)<!-- MEMES:END -->
 
 ---
 
