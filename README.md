@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A profile of the National Archives and Records Administration&#39;s Chief Innovation Officer Pamela Wright, who leads the agency&#39;s project to digitize 13B+ records &lpar;Sarah Vowell/Washington Post&rpar;](http://www.techmeme.com/241009/p11#a241009p11)
- - [18 Best Prime Day Laptop Deals &lpar;2024&rpar;](https://www.wired.com/story/best-prime-day-laptop-deals-october-2024-1/)
- - [MiniMax, ByteDance, and 01.ai are among a group of Chinese AI companies that have launched AI products overseas, particularly in the US, to boost revenue growth &lpar;Eleanor Olcott/Financial Times&rpar;](http://www.techmeme.com/241009/p10#a241009p10)<!-- TECH:END -->
+ - [298 Best Prime Day Deals, Vetted By Our Amazon Experts &lpar;Oct 2024&rpar;](https://www.wired.com/story/best-prime-day-deals-october-2024-1/)
+ - [A look at disagreements over automation between US dockworkers and shipping industry officials, who say they need AI-powered stacking cranes and other machines &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/241009/p13#a241009p13)
+ - [We’re Tracking the Best October Prime Day 2024 Deals Live](https://www.wired.com/live/prime-day-october-2024-liveblog/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
