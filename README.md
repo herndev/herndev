@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Microsoft Flight Simulator 2024 gives a boost to aviation’s hottest new sport, STOL](https://www.polygon.com/pc/463041/msfs-2024-national-stol-estol-customization)
- - [87% of eBay&#39;s trading card experts &#39;earn less than a living wage,&#39; so the only thing left to do is go on strike](https://www.pcgamer.com/games/card-games/87-percent-of-ebays-trading-card-experts-earn-less-than-a-living-wage-so-the-only-thing-left-to-do-is-go-on-strike)
- - [The best Magic: The Gathering deals of October Prime Day](https://www.polygon.com/amazon-prime-day/460640/best-mtg-deals-magic-gathering)<!-- GAME:END -->
+ - [Can MrBeast survive controversy long enough to win back the fans?](https://www.polygon.com/culture/462862/mrbeast-lawsuits-lunchly-logan-paul-fan-reactions)
+ - [The best board game deals from day two of October Prime Day](https://www.polygon.com/amazon-prime-day/455240/the-best-board-game-deals-of-october-prime-day)
+ - [This gorgeous Suzume box set is half off for October Prime Day](https://www.polygon.com/amazon-prime-day/2024/7/16/24199826/suzume-your-name-best-blu-ray-deals)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
