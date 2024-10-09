@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [You can grab three months of Xbox Game Pass Ultimate for just $29 today](https://www.theverge.com/2024/10/9/24266142/xbox-game-pass-ultimate-deal-sale-microsoft-october-amazon-prime-day-2024)
- - [How the DOJ wants to break up Google’s search monopoly](https://www.theverge.com/2024/10/9/24265983/doj-google-search-remedies-monopoly)
- - [YouTube says it is ‘not hiding the skip button’ on ads](https://www.theverge.com/2024/10/9/24266183/youtube-not-hiding-skip-button-ads)<!-- TECH:END -->
+ - [Chromebooks may soon lose a feature that allows you to use Windows apps](https://www.androidauthority.com/chromebook-parallels-could-end-3489145/)
+ - [X will pay its Premium users to engage with each other](https://www.theverge.com/2024/10/9/24266258/x-pay-premium-users-engage-with-each-other)
+ - [Amazon aims to deploy Vision Assisted Package Retrieval, an AI-powered tool to help drivers quickly find packages in delivery vans, in 1,000 vans by early 2025 &lpar;Spencer Soper/Bloomberg&rpar;](http://www.techmeme.com/241009/p28#a241009p28)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
