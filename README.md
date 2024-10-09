@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Heheh, the world is healing!](http://9gag.com/gag/a2vZ18Y)
- - ⏩ [Somebody gives this man a company.](http://9gag.com/gag/an794Zn)
- - 👉 [Let them fight](http://9gag.com/gag/aLng1KW)<!-- MEMES:END -->
+ - 💣 [Guarantee she came out of something\u2019s a$](http://9gag.com/gag/aLngwYV)
+ - ⏩ [Gandalf getting his PhD!?](http://9gag.com/gag/a5QMWME)
+ - 👉 [First time crash](http://9gag.com/gag/aryGmv0)<!-- MEMES:END -->
 
 ---
 
