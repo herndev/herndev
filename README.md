@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [As im sure There are some Black dudes here i Gotta ask. Why do Black women wear wigs?](http://9gag.com/gag/adBL8w2)
- - ⏩ [Ford knows its customers.](http://9gag.com/gag/a6ZOKWA)
- - 👉 [The geh is strong with this one](http://9gag.com/gag/amoBg9y)<!-- MEMES:END -->
+ - 💣 [The geh is strong with this one](http://9gag.com/gag/amoBg9y)
+ - ⏩ [Muscle Memory](http://9gag.com/gag/a4PQojp)
+ - 👉 [Ford knows its customers.](http://9gag.com/gag/a6ZOKWA)<!-- MEMES:END -->
 
 ---
 
