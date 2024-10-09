@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Fight That Nearly Destroyed the Letterboxd Community](https://www.wired.com/story/the-fight-that-nearly-destroyed-the-letterboxd-community/)
- - [X Is Back in Brazil](https://www.wired.com/story/x-is-back-in-brazil/)
- - [US Department of Justice considering a break-up of Google after monopoly ruling](https://appleinsider.com/articles/24/10/09/us-department-of-justice-considering-a-break-up-of-google-after-monopoly-ruling?utm_medium=rss)<!-- TECH:END -->
+ - [Nothing OS 3.0 hands-on: Dot matrix re-reloaded](https://www.androidauthority.com/nothing-os-3-hands-on-3488739/)
+ - [Ring’s New AI Search Tool Lets You Easily Scan Videos—With Mixed Results](https://www.wired.com/story/amazon-ring-new-ai-video-search-tool-mixed-results/)
+ - [Ring’s video history search is super handy for tracking my cat](https://www.theverge.com/2024/10/9/24265564/ring-ai-smart-video-search-security-camera-price-availability)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
