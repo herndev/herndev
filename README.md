@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Get Lego Star Wars and Animal Crossing sets on sale for Prime Day](https://www.polygon.com/amazon-prime-day/462666/best-lego-deals-star-wars-nintendo)
- - [Desperately Need More Stardew Valley? Try Stardew Valley Expanded](https://kotaku.com/stardew-valley-expanded-mod-concernedape-1851668970)
- - [Apple’s AirPods Pro 2 are on sale for their lowest price ever for October Prime Day](https://www.polygon.com/amazon-prime-day/463623/apple-airpods-pro-2-deal)<!-- GAME:END -->
+ - [Green Lantern HBO Show Makes Rebel Ridge Star Its John Stewart](https://kotaku.com/green-lantern-hbo-rebel-ridge-john-stewart-aaron-pierre-1851669212)
+ - [Dragon Age: The Veilguard won&#39;t have an arachnophobia mode because it won&#39;t have any spiders](https://www.pcgamer.com/games/rpg/dragon-age-the-veilguard-wont-have-an-arachnophobia-mode-because-it-wont-have-any-spiders)
+ - [Don&amp;#8217;t miss out on the best Magic: The Gathering Prime Day deals before they sell out](https://www.polygon.com/amazon-prime-day/460640/best-mtg-deals-magic-gathering)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
