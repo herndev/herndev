@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [The next game in the Like a Dragon series was almost a fishing game: &#39;I wanted to make a game called Like a Dragon: Tuna&#39;](https://www.pcgamer.com/games/action/the-next-game-in-the-like-a-dragon-series-was-almost-a-fishing-game-i-wanted-to-make-a-game-called-like-a-dragon-tuna)
  - [Nintendo is shedding its veneer of kindness and embracing a new reputation: Vigorous legal bully](https://www.pcgamer.com/gaming-industry/nintendo-is-shedding-its-veneer-of-kindness-and-embracing-a-new-reputation-vigorous-legal-bully)
- - [Bloodlines 2 is &#39;a bit more of an action RPG,&#39; Paradox exec says: &#39;People who have seen it talk about Dishonored&#39;](https://www.pcgamer.com/games/rpg/bloodlines-2-is-a-bit-more-of-an-action-rpg-paradox-exec-says-people-who-have-seen-it-talk-about-dishonored)
- - [The best board game deals of October Prime Day](https://www.polygon.com/amazon-prime-day/455240/the-best-board-game-deals-of-october-prime-day)<!-- GAME:END -->
+ - [Bloodlines 2 is &#39;a bit more of an action RPG,&#39; Paradox exec says: &#39;People who have seen it talk about Dishonored&#39;](https://www.pcgamer.com/games/rpg/bloodlines-2-is-a-bit-more-of-an-action-rpg-paradox-exec-says-people-who-have-seen-it-talk-about-dishonored)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
