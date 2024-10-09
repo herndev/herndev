@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [We’re Tracking the Best October Prime Day 2024 Deals Live](https://www.wired.com/live/prime-day-october-2024-liveblog/)
- - [All Chromebook users will get the Chrome OS Recorder app](https://www.androidauthority.com/all-chromebooks-get-recorder-app-3489059/)
- - [Google Photos could soon tell you if an image is AI-generated &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-photos-ai-generated-image-metadata-apk-teardown-3489044/)<!-- TECH:END -->
+ - [Google TV Streamer’s custom AI art screensavers reach all Chromecast and Google TV devices](https://www.androidauthority.com/google-tv-ai-screensaver-rollout-3489067/)
+ - [The best deals you can grab on day two of Amazon Prime Day](https://www.theverge.com/good-deals/24262468/amazon-prime-day-best-deals-sales-tech-gadgets-october-2024)
+ - [Game on: Backbone One is 30% off today!](https://www.androidauthority.com/backbone-one-on-sale-3489097/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
