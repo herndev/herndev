@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [9 Best Prime Day Kindle Deals and Accessories &lpar;2024&rpar;](https://www.wired.com/story/best-prime-day-kindle-deals-october-2024-1/)
- - [OpenAI says it suspects that China-linked SweetSpecter tried to phish its employees earlier in 2024, posing as a ChatGPT user to send customer support emails &lpar;Seth Fiegerman/Bloomberg&rpar;](http://www.techmeme.com/241009/p15#a241009p15)
- - [Best Prime Day Mattress Deals Plus Epic Bedding Sales &lpar;2024&rpar;](https://www.wired.com/story/amazon-prime-day-mattress-deals-october-2024-1/)<!-- TECH:END -->
+ - [The Fight That Nearly Destroyed the Letterboxd Community](https://www.wired.com/story/the-fight-that-nearly-destroyed-the-letterboxd-community/)
+ - [X Is Back in Brazil](https://www.wired.com/story/x-is-back-in-brazil/)
+ - [US Department of Justice considering a break-up of Google after monopoly ruling](https://appleinsider.com/articles/24/10/09/us-department-of-justice-considering-a-break-up-of-google-after-monopoly-ruling?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
