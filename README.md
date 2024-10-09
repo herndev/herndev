@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [5 Prime Day Portable Charger and Power Station Deals &lpar;2024&rpar;](https://www.wired.com/story/best-prime-day-portable-power-station-and-charger-deals-october-2024/)
  - [We’re Tracking the Best October Prime Day 2024 Deals Live](https://www.wired.com/live/prime-day-october-2024-liveblog/)
- - [Nvidia’s RTX 5070 reportedly set to launch alongside the RTX 5090 at CES 2025](https://www.theverge.com/2024/10/9/24266052/nvidia-rtx-5070-ces-rumor-specs)<!-- TECH:END -->
+ - [All Chromebook users will get the Chrome OS Recorder app](https://www.androidauthority.com/all-chromebooks-get-recorder-app-3489059/)
+ - [Google Photos could soon tell you if an image is AI-generated &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-photos-ai-generated-image-metadata-apk-teardown-3489044/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
