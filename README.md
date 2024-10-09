@@ -46,7 +46,7 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Guarantee she came out of something\u2019s a$](http://9gag.com/gag/aLngwYV)
+ - 💣 [No amount of money can convince me to do something like this](http://9gag.com/gag/aZZLDbQ)
  - ⏩ [The geh is strong with this one](http://9gag.com/gag/amoBg9y)
  - 👉 [As im sure There are some Black dudes here i Gotta ask. Why do Black women wear wigs?](http://9gag.com/gag/adBL8w2)<!-- MEMES:END -->
 
