@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Thank me later](http://9gag.com/gag/a34QEgQ)
- - ⏩ [Ed for two dollars!](http://9gag.com/gag/aD21Dnx)
- - 👉 [Hi I&#39;m granny, welcome to Jackass](http://9gag.com/gag/an79gQz)<!-- MEMES:END -->
+ - 💣 [Jugde can&#39;t believe my eyes](http://9gag.com/gag/aMVZdKM)
+ - ⏩ [Only one month gap](http://9gag.com/gag/agmnBBr)
+ - 👉 [Just hold still for a second](http://9gag.com/gag/aqyKj5Y)<!-- MEMES:END -->
 
 ---
 
