@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Helldivers 2 players are constructing a &#39;Democratic Space Station&#39; in the runup to Liberty Day, which some think is just so that the Illuminate can steam in and blow it up](https://www.pcgamer.com/games/action/helldivers-2-players-are-constructing-a-democratic-space-station-in-the-runup-to-liberty-day-which-some-think-is-just-so-that-the-illuminate-can-steam-in-and-blow-it-up)
- - [Silent Hill 2 players are modding away the fog and freeing the camera to discover hidden detail in the remake](https://www.pcgamer.com/games/horror/silent-hill-2-players-are-modding-away-the-fog-and-freeing-the-camera-to-discover-hidden-detail-in-the-remake)
- - [Today&#39;s Wordle answer for Wednesday, October 9](https://www.pcgamer.com/games/puzzle/wordle-answer-today-october-9-2024)<!-- GAME:END -->
+ - [This hand-crafted puppet of Nix is so cute it makes me want a Star Wars Outlaws movie](https://www.pcgamer.com/games/action/this-hand-crafted-puppet-of-nix-is-so-cute-it-makes-me-want-a-star-wars-outlaws-movie)
+ - [We&#39;ve collectively spent 11,000 years playing Balatro, fans reply it&#39;s gotta be more than that](https://www.pcgamer.com/games/roguelike/weve-collectively-spent-11-000-years-playing-balatro-fans-reply-its-gotta-be-more-than-that)
+ - [Helldivers 2 players are constructing a &#39;Democratic Space Station&#39; in the runup to Liberty Day, which some think is just so that the Illuminate can steam in and blow it up](https://www.pcgamer.com/games/action/helldivers-2-players-are-constructing-a-democratic-space-station-in-the-runup-to-liberty-day-which-some-think-is-just-so-that-the-illuminate-can-steam-in-and-blow-it-up)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
