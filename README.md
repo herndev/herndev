@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Solve an Epic Puzzle for the Chance to Win an Indiana Jones and The Great Circle Themed Console](https://news.xbox.com/en-us/2024/10/09/indiana-jones-and-the-great-circle-xbox-sweepstakes/)
- - [Infinity Nikki codes and how to redeem them](https://www.pcgamer.com/games/adventure/infinity-nikki-codes-active-redeem)
- - [Xbox’s &#39;Seasonal Savings&#39; Sale Slashes Prices On Some Huge Titles And Overlooked Gems](https://kotaku.com/xbox-seasonal-savings-sale-recommendations-1851668728)<!-- GAME:END -->
+ - [Bulwark Evolves on Xbox Series X|S and Xbox One Today](https://news.xbox.com/en-us/2024/10/09/bulwark-evolves-on-xbox-series-xs-and-xbox-one-today/)
+ - [The Prime Day deals our readers can&amp;#8217;t get enough of](https://www.polygon.com/amazon-prime-day/463039/bestsellers-popular-deals)
+ - [I asked Amazon&#39;s AI to show me the best Prime Day deals and thankfully I&#39;m still better at this than a bot](https://www.pcgamer.com/hardware/i-asked-amazons-ai-to-show-me-the-best-prime-day-deals-and-thankfully-im-still-better-at-this-than-a-bot)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
