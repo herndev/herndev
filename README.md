@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Jugde can&#39;t believe my eyes](http://9gag.com/gag/aMVZdKM)
- - ⏩ [Only one month gap](http://9gag.com/gag/agmnBBr)
- - 👉 [Just hold still for a second](http://9gag.com/gag/aqyKj5Y)<!-- MEMES:END -->
+ - 💣 [Hi I&#39;m granny, welcome to Jackass](http://9gag.com/gag/an79gQz)
+ - ⏩ [As im sure There are some Black dudes here i Gotta ask. Why do Black women wear wigs?](http://9gag.com/gag/adBL8w2)
+ - 👉 [Not today](http://9gag.com/gag/aNDYDE4)<!-- MEMES:END -->
 
 ---
 
