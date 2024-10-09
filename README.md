@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Wow science is amazing.!!! Wait, what.?!](http://9gag.com/gag/a8733wO)
- - ⏩ [`My life is over`](http://9gag.com/gag/a1mQrBv)
- - 👉 [Guarantee she came out of something\u2019s a$](http://9gag.com/gag/aLngwYV)<!-- MEMES:END -->
+ - 💣 [Never seen a nicer was of handling a heckler. True gentleman](http://9gag.com/gag/an79gyE)
+ - ⏩ [Ahh!! The tales of HOA](http://9gag.com/gag/aAy3G8E)
+ - 👉 [A Filipino Fisherman Slept Next to a $100 Million Treasure for 10 Years](http://9gag.com/gag/aqyKKxv)<!-- MEMES:END -->
 
 ---
 
