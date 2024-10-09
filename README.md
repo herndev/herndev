@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Chromebooks may soon lose a feature that allows you to use Windows apps](https://www.androidauthority.com/chromebook-parallels-could-end-3489145/)
- - [X will pay its Premium users to engage with each other](https://www.theverge.com/2024/10/9/24266258/x-pay-premium-users-engage-with-each-other)
- - [Amazon aims to deploy Vision Assisted Package Retrieval, an AI-powered tool to help drivers quickly find packages in delivery vans, in 1,000 vans by early 2025 &lpar;Spencer Soper/Bloomberg&rpar;](http://www.techmeme.com/241009/p28#a241009p28)<!-- TECH:END -->
+ - [Google is putting together a new alliance to keep you safe from scams and fraud](https://www.androidauthority.com/global-signal-exchange-3489154/)
+ - [Amazon announces AI Shopping Guides, which show AI-generated descriptions and recommendations for over 100 product types on its US mobile website and app &lpar;Will Knight/Wired&rpar;](http://www.techmeme.com/241009/p32#a241009p32)
+ - [Apple&#39;s former hardware chief and current Apple Vision Pro lead is retiring](https://appleinsider.com/articles/24/10/09/apples-former-hardware-chief-and-current-apple-vision-pro-lead-is-retiring?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
