@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to use inline text prediction and other autocorrect functions in Pages](https://appleinsider.com/inside/macos/tips/how-to-use-inline-text-prediction-and-other-autocorrect-functions-in-pages?utm_medium=rss)
- - [Filing: the US DOJ lays out &quot;behavioral and structural remedies&quot;, including a breakup, for the federal judge to consider in the Google Search antitrust case &lpar;Leah Nylen/Bloomberg&rpar;](http://www.techmeme.com/241008/p32#a241008p32)
- - [Our favorite deals under $50 from Amazon’s October Prime Day sale](https://www.theverge.com/24262440/amazon-prime-day-best-cheap-tech-deals-under-50-october-2024)<!-- TECH:END -->
+ - [Breaking up big tech: US wants to separate Android, Play, and Chrome from Google](https://www.androidauthority.com/us-doj-break-android-google-play-chrome-away-from-google-3488931/)
+ - [Good news: Samsung confirms One UI 7 will be available as a public beta](https://www.androidauthority.com/samsung-one-ui-7-public-beta-3488930/)
+ - [The best deals from Amazon’s October Prime Day sale](https://www.theverge.com/good-deals/24262468/amazon-prime-day-best-deals-sales-tech-gadgets-october-2024)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
