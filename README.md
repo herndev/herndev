@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Former Bethesda and BioWare devs are making a Stardew-like with Redwall animals, and oh my god look at this little mouse farmer carry a pumpkin](https://www.pcgamer.com/games/survival-crafting/former-bethesda-and-bioware-devs-are-making-a-stardew-like-with-redwall-animals-and-oh-my-god-look-at-this-little-mouse-farmer-carry-a-pumpkin)
- - [What time does Fortnite’s Fortnitemares event start?](https://www.polygon.com/fortnite-guide/464115/fortnitemares-event-start-date-time-est-pst-bst)
- - [The best October Prime Day deals](https://www.polygon.com/amazon-prime-day/455235/best-deals-gaming-movies-toys-board-games)<!-- GAME:END -->
+ - [Nintendo fans wished for new hardware, the monkey&#39;s paw curled, and they got an alarm clock](https://www.pcgamer.com/hardware/nintendo-fans-wished-for-new-hardware-the-monkeys-paw-curled-and-they-got-an-alarm-clock)
+ - [Bonaparte: A Mechanized Revolution tosses mechs into the French Revolution, but doesn&#39;t toss out the history](https://www.pcgamer.com/games/strategy/bonaparte-a-mechanized-revolution-tosses-mechs-into-the-french-revolution-but-doesnt-toss-out-the-history)
+ - [&#39;Nobody, and I mean nobody, at Bethesda is patting themselves on the back while ignoring our players&#39;: Starfield design director reassures fans that developers are paying attention to community concerns](https://www.pcgamer.com/games/rpg/nobody-and-i-mean-nobody-at-bethesda-is-patting-themselves-on-the-back-while-ignoring-our-players-starfield-design-director-reassures-fans-that-developers-are-paying-attention-to-community-concerns)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
