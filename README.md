@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Bulwark Evolves on Xbox Series X|S and Xbox One Today](https://news.xbox.com/en-us/2024/10/09/bulwark-evolves-on-xbox-series-xs-and-xbox-one-today/)
- - [The Prime Day deals our readers can&amp;#8217;t get enough of](https://www.polygon.com/amazon-prime-day/463039/bestsellers-popular-deals)
- - [I asked Amazon&#39;s AI to show me the best Prime Day deals and thankfully I&#39;m still better at this than a bot](https://www.pcgamer.com/hardware/i-asked-amazons-ai-to-show-me-the-best-prime-day-deals-and-thankfully-im-still-better-at-this-than-a-bot)<!-- GAME:END -->
+ - [Two Classic PlayStation Horror Games Are Coming To PS Plus This Month](https://kotaku.com/dino-crisis-siren-ps2-horror-ps-plus-games-october-2024-1851669030)
+ - [Throne And Liberty Isn&#39;t All Hitting Stuff, There&#39;s Relaxing Fishing Too](https://kotaku.com/throne-and-liberty-fishing-guide-mmo-amazon-1851668944)
+ - [11 Baldur’s Gate 3 Mods To Give You New Ways To Play](https://kotaku.com/baldurs-gate-3-mods-bg3-classes-races-real-time-combat-1851669048)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
