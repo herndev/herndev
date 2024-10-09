@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google TV Streamer’s custom AI art screensavers reach all Chromecast and Google TV devices](https://www.androidauthority.com/google-tv-ai-screensaver-rollout-3489067/)
- - [The best deals you can grab on day two of Amazon Prime Day](https://www.theverge.com/good-deals/24262468/amazon-prime-day-best-deals-sales-tech-gadgets-october-2024)
- - [Game on: Backbone One is 30% off today!](https://www.androidauthority.com/backbone-one-on-sale-3489097/)<!-- TECH:END -->
+ - [You can grab three months of Xbox Game Pass Ultimate for just $29 today](https://www.theverge.com/2024/10/9/24266142/xbox-game-pass-ultimate-deal-sale-microsoft-october-amazon-prime-day-2024)
+ - [How the DOJ wants to break up Google’s search monopoly](https://www.theverge.com/2024/10/9/24265983/doj-google-search-remedies-monopoly)
+ - [YouTube says it is ‘not hiding the skip button’ on ads](https://www.theverge.com/2024/10/9/24266183/youtube-not-hiding-skip-button-ads)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
