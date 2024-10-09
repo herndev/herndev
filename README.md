@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [10 Best Prime Day Kindle Deals and Accessories &lpar;2024&rpar;](https://www.wired.com/story/best-prime-day-kindle-deals-october-2024/)
- - [Flash sale: grab Apple&#39;s 14-inch MacBook Pro M3 Pro for just $1,699 &lpar;$300 off&rpar;](https://appleinsider.com/articles/24/10/08/flash-sale-grab-apples-14-inch-macbook-pro-m3-pro-for-just-1699-300-off?utm_medium=rss)
- - [How a UK treaty could spell the end of the .io domain](https://www.theverge.com/2024/10/8/24265441/uk-treaty-end-io-domain-chagos-islands)<!-- TECH:END -->
+ - [Amazon Prime Day: We Found Over 150 Deals Worth Shopping](https://www.cnet.com/tech/amazon-october-prime-day-deals-live-2024-10-08/#ftag=CAD590a51e)
+ - [Analysts expect M4 Macs to drive premium PC demand in the short term](https://appleinsider.com/articles/24/10/09/analysts-expect-m4-macs-to-drive-premium-pc-demand-in-the-short-term?utm_medium=rss)
+ - [Unmasking Bitcoin Creator Satoshi Nakamoto—Again](https://www.wired.com/story/unmasking-bitcoin-creator-satoshi-nakamoto-again/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
