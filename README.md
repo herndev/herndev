@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The All England Club says AI will make &quot;out&quot; and &quot;fault&quot; calls at the Wimbledon tennis championships starting in 2025, replacing line judges, after a 2024 test &lpar;Associated Press&rpar;](http://www.techmeme.com/241009/p22#a241009p22)
- - [317 Best Prime Day Deals, Vetted By Our Amazon Experts &lpar;Oct 2024&rpar;](https://www.wired.com/story/best-prime-day-deals-october-2024-1/)
- - [London-based Basecamp Research, which says its BaseFold model outperforms AlphaFold 2 at predicting proteins, raised a $60M Series B, for $85M in total funding &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/241009/p21#a241009p21)<!-- TECH:END -->
+ - [5 Prime Day Portable Charger and Power Station Deals &lpar;2024&rpar;](https://www.wired.com/story/best-prime-day-portable-power-station-and-charger-deals-october-2024/)
+ - [We’re Tracking the Best October Prime Day 2024 Deals Live](https://www.wired.com/live/prime-day-october-2024-liveblog/)
+ - [Nvidia’s RTX 5070 reportedly set to launch alongside the RTX 5090 at CES 2025](https://www.theverge.com/2024/10/9/24266052/nvidia-rtx-5070-ces-rumor-specs)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
