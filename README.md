@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nothing OS 3.0 hands-on: Dot matrix re-reloaded](https://www.androidauthority.com/nothing-os-3-hands-on-3488739/)
- - [Ring’s New AI Search Tool Lets You Easily Scan Videos—With Mixed Results](https://www.wired.com/story/amazon-ring-new-ai-video-search-tool-mixed-results/)
- - [Ring’s video history search is super handy for tracking my cat](https://www.theverge.com/2024/10/9/24265564/ring-ai-smart-video-search-security-camera-price-availability)<!-- TECH:END -->
+ - [The All England Club says AI will make &quot;out&quot; and &quot;fault&quot; calls at the Wimbledon tennis championships starting in 2025, replacing line judges, after a 2024 test &lpar;Associated Press&rpar;](http://www.techmeme.com/241009/p22#a241009p22)
+ - [317 Best Prime Day Deals, Vetted By Our Amazon Experts &lpar;Oct 2024&rpar;](https://www.wired.com/story/best-prime-day-deals-october-2024-1/)
+ - [London-based Basecamp Research, which says its BaseFold model outperforms AlphaFold 2 at predicting proteins, raised a $60M Series B, for $85M in total funding &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/241009/p21#a241009p21)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
