@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The coolest Prime Day board game deals, as picked by our tabletop gaming obsessives](https://www.pcgamer.com/hardware/our-tabletop-gaming-obsessives-pick-the-coolest-prime-day-board-game-deals)
- - [After botching the Cree nation in Civ 6, Firaxis established a partnership with the Shawnee to ensure &#39;authentic, sincere&#39; representation in Civilization 7](https://www.pcgamer.com/games/strategy/after-botching-the-cree-nation-in-civ-6-firaxis-established-a-partnership-with-the-shawnee-to-ensure-authentic-sincere-representation-in-civilization-7)
- - [Another Previously Current Gen-Only Game Is Getting A PS4 Port](https://kotaku.com/goat-simulator-3-ps4-xbox-one-port-release-last-gen-1851668327)<!-- GAME:END -->
+ - [Bloodlines 2 is &#39;a bit more of an action RPG,&#39; Paradox exec says: &#39;People who have seen it talk about Dishonored&#39;](https://www.pcgamer.com/games/rpg/bloodlines-2-is-a-bit-more-of-an-action-rpg-paradox-exec-says-people-who-have-seen-it-talk-about-dishonored)
+ - [Blizzard canceled a roguelike version of Diablo 4 with permadeath and Batman: Arkham-style brawls](https://www.pcgamer.com/games/rpg/blizzard-canceled-a-roguelike-version-of-diablo-4-with-permadeath-and-batman-arkham-style-brawls)
+ - [The FPS/mecha hybrid from the creator of Cruelty Squad, which was an immersive sim designed to make you feel sick, will be out next year](https://www.pcgamer.com/games/fps/the-fps-mecha-hybrid-from-the-creator-of-cruelty-squad-which-was-an-immersive-sim-designed-to-make-you-feel-sick-will-be-out-next-year)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
