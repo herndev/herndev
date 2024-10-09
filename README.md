@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [More Embracer Group layoffs: Star Trek Online developer Cryptic Studios is cutting jobs for the second time in a year](https://www.pcgamer.com/gaming-industry/more-embracer-group-layoffs-star-trek-online-developer-cryptic-studios-is-cutting-jobs-for-the-second-time-in-a-year)
- - [The best board game deals you can get right now from Prime Day](https://www.polygon.com/amazon-prime-day/455240/the-best-board-game-deals-of-october-prime-day)
- - [Roblox clashes with an &#39;activist short-seller&#39; who&#39;s going after its share price with accusations that it&#39;s running a &#39;pedophile hellscape&#39; and lying about user numbers](https://www.pcgamer.com/gaming-industry/roblox-clashes-with-an-activist-short-seller-whos-going-after-its-share-price-with-accusations-that-its-running-a-pedophile-hellscape-and-lying-about-user-numbers)<!-- GAME:END -->
+ - [Former Bethesda and BioWare devs are making a Stardew-like with Redwall animals, and oh my god look at this little mouse farmer carry a pumpkin](https://www.pcgamer.com/games/survival-crafting/former-bethesda-and-bioware-devs-are-making-a-stardew-like-with-redwall-animals-and-oh-my-god-look-at-this-little-mouse-farmer-carry-a-pumpkin)
+ - [What time does Fortnite’s Fortnitemares event start?](https://www.polygon.com/fortnite-guide/464115/fortnitemares-event-start-date-time-est-pst-bst)
+ - [The best October Prime Day deals](https://www.polygon.com/amazon-prime-day/455235/best-deals-gaming-movies-toys-board-games)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
