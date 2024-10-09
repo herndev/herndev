@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [This hand-crafted puppet of Nix is so cute it makes me want a Star Wars Outlaws movie](https://www.pcgamer.com/games/action/this-hand-crafted-puppet-of-nix-is-so-cute-it-makes-me-want-a-star-wars-outlaws-movie)
- - [We&#39;ve collectively spent 11,000 years playing Balatro, fans reply it&#39;s gotta be more than that](https://www.pcgamer.com/games/roguelike/weve-collectively-spent-11-000-years-playing-balatro-fans-reply-its-gotta-be-more-than-that)
- - [Helldivers 2 players are constructing a &#39;Democratic Space Station&#39; in the runup to Liberty Day, which some think is just so that the Illuminate can steam in and blow it up](https://www.pcgamer.com/games/action/helldivers-2-players-are-constructing-a-democratic-space-station-in-the-runup-to-liberty-day-which-some-think-is-just-so-that-the-illuminate-can-steam-in-and-blow-it-up)<!-- GAME:END -->
+ - [Microsoft Flight Simulator 2024 gives a boost to aviation’s hottest new sport, STOL](https://www.polygon.com/pc/463041/msfs-2024-national-stol-estol-customization)
+ - [87% of eBay&#39;s trading card experts &#39;earn less than a living wage,&#39; so the only thing left to do is go on strike](https://www.pcgamer.com/games/card-games/87-percent-of-ebays-trading-card-experts-earn-less-than-a-living-wage-so-the-only-thing-left-to-do-is-go-on-strike)
+ - [The best Magic: The Gathering deals of October Prime Day](https://www.polygon.com/amazon-prime-day/460640/best-mtg-deals-magic-gathering)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
