@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Footage shows members of the Jalisco New Generation Cartel &lpar;CJNG&rpar; in Mexico. CJNG is heavily militarized and more violent than other criminal organizations. The cartel has a special operations group for specific types of warfare.](http://9gag.com/gag/a0eQ7md)
- - ⏩ [Ford knows its customers.](http://9gag.com/gag/a6ZOKWA)
- - 👉 [First time crash](http://9gag.com/gag/aryGmv0)<!-- MEMES:END -->
+ - 💣 [My fellow 9gaggers](http://9gag.com/gag/aoyegjn)
+ - ⏩ [Brazilian Spiderman](http://9gag.com/gag/a9yKqAW)
+ - 👉 [Ed for two dollars!](http://9gag.com/gag/aD21Dnx)<!-- MEMES:END -->
 
 ---
 
