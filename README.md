@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Nintendo is shedding its veneer of kindness and embracing a new reputation: Vigorous legal bully](https://www.pcgamer.com/gaming-industry/nintendo-is-shedding-its-veneer-of-kindness-and-embracing-a-new-reputation-vigorous-legal-bully)
  - [Bloodlines 2 is &#39;a bit more of an action RPG,&#39; Paradox exec says: &#39;People who have seen it talk about Dishonored&#39;](https://www.pcgamer.com/games/rpg/bloodlines-2-is-a-bit-more-of-an-action-rpg-paradox-exec-says-people-who-have-seen-it-talk-about-dishonored)
- - [Blizzard canceled a roguelike version of Diablo 4 with permadeath and Batman: Arkham-style brawls](https://www.pcgamer.com/games/rpg/blizzard-canceled-a-roguelike-version-of-diablo-4-with-permadeath-and-batman-arkham-style-brawls)
- - [The FPS/mecha hybrid from the creator of Cruelty Squad, which was an immersive sim designed to make you feel sick, will be out next year](https://www.pcgamer.com/games/fps/the-fps-mecha-hybrid-from-the-creator-of-cruelty-squad-which-was-an-immersive-sim-designed-to-make-you-feel-sick-will-be-out-next-year)<!-- GAME:END -->
+ - [The best board game deals of October Prime Day](https://www.polygon.com/amazon-prime-day/455240/the-best-board-game-deals-of-october-prime-day)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
