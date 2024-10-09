@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google is putting together a new alliance to keep you safe from scams and fraud](https://www.androidauthority.com/global-signal-exchange-3489154/)
- - [Amazon announces AI Shopping Guides, which show AI-generated descriptions and recommendations for over 100 product types on its US mobile website and app &lpar;Will Knight/Wired&rpar;](http://www.techmeme.com/241009/p32#a241009p32)
- - [Apple&#39;s former hardware chief and current Apple Vision Pro lead is retiring](https://appleinsider.com/articles/24/10/09/apples-former-hardware-chief-and-current-apple-vision-pro-lead-is-retiring?utm_medium=rss)<!-- TECH:END -->
+ - [YouTube rejects claims that it’s hiding the skip button](https://www.androidauthority.com/youtube-denies-hiding-skip-button-3489200/)
+ - [Hot deals: Get our favorite portable batteries at record-breaking prices](https://www.androidauthority.com/cuktech-20-power-bank-anker-548-power-bank-anker-solix-c300-deals-3489179/)
+ - [26 Best Prime Day Deals Under $30](https://www.wired.com/story/26-best-prime-day-deals-under-30-october-2024/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
