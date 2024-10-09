@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [The geh is strong with this one](http://9gag.com/gag/amoBg9y)
- - ⏩ [Muscle Memory](http://9gag.com/gag/a4PQojp)
- - 👉 [Ford knows its customers.](http://9gag.com/gag/a6ZOKWA)<!-- MEMES:END -->
+ - ⏩ [As im sure There are some Black dudes here i Gotta ask. Why do Black women wear wigs?](http://9gag.com/gag/adBL8w2)
+ - 👉 [First time crash](http://9gag.com/gag/aryGmv0)<!-- MEMES:END -->
 
 ---
 
