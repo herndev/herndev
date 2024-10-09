@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tim Walz Rally Goes Live on World of Warcraft Twitch Stream](https://www.wired.com/story/tim-walz-rally-world-of-warcraft-twitch/)
- - [Our favorite budget headphones, are even cheaper today!](https://www.androidauthority.com/jlab-jbuds-lux-anc-headphones-deal-3489178/)
- - [This fitness tracker is somehow only now getting step counting](https://www.androidauthority.com/whoop-step-counting-3489245/)<!-- TECH:END -->
+ - [Some Threads and Instagram users say their accounts are being deleted or restricted due to moderation failures; Adam Mosseri says he&#39;s &quot;looking into it&quot; &lpar;Umar Shakir/The Verge&rpar;](http://www.techmeme.com/241009/p36#a241009p36)
+ - [The best deals you can grab on day two of Amazon Prime Day](https://www.theverge.com/good-deals/24262468/amazon-prime-day-best-deals-sales-tech-gadgets-october-2024)
+ - [25 Best Amazon Prime Day Hair Tool Deals to Shop Right Now &lpar;2024&rpar;](https://www.wired.com/story/best-prime-day-hair-tool-deals-october-2024-1/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
