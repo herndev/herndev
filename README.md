@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [My fellow 9gaggers](http://9gag.com/gag/aoyegjn)
- - ⏩ [Brazilian Spiderman](http://9gag.com/gag/a9yKqAW)
- - 👉 [Ed for two dollars!](http://9gag.com/gag/aD21Dnx)<!-- MEMES:END -->
+ - 💣 [Eminem, his brother, his mom](http://9gag.com/gag/ae9rAXW)
+ - ⏩ [Banana for scale](http://9gag.com/gag/aBy0dw1)
+ - 👉 [She just jump oh f**king nowhere](http://9gag.com/gag/aW4YGxZ)<!-- MEMES:END -->
 
 ---
 
