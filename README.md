@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [PSA: Update your Firefox browser asap to avoid this zero-day exploit](https://www.androidauthority.com/firefox-zero-day-exploit-fix-3489555/)
- - [The FBI secretly created a coin to investigate crypto pump-and-dump schemes](https://www.theverge.com/2024/10/10/24267098/fbi-coin-crypto-token-nexgenai-sec-doj-fraud-investigation)
- - [FCC chair rejects Trump’s call to revoke CBS license over Harris interview edit](https://www.theverge.com/2024/10/10/24267054/fcc-chair-rosenworcel-trump-harris-60-minutes-cbs-license)<!-- TECH:END -->
+ - [The FBI reveals it created Ethereum-based token NexFundAI with the help of &quot;cooperating witnesses&quot; to investigate price manipulation in crypto markets &lpar;Gaby Del Valle/The Verge&rpar;](http://www.techmeme.com/241010/p24#a241010p24)
+ - [Need a laptop? Check out these Apple MacBook Air deals](https://www.androidauthority.com/apple-macbook-air-m2-m3-deals-3489549/)
+ - [Amazon&#39;s best Prime Day Apple deals have just been extended](https://appleinsider.com/articles/24/10/10/amazons-best-prime-day-apple-deals-have-just-been-extended?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
