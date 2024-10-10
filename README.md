@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [I want my smart Android TV to be dumb again](https://www.androidauthority.com/dumb-android-tv-3437662/)
- - [We Tried the World’s Most Expensive Wireless Speakers.](https://www.wired.com/story/we-tried-the-worlds-most-expensive-wireless-speakers/)
- - [GM’s PowerBank home battery is now available](https://www.theverge.com/2024/10/10/24266440/gm-home-battery-powerbank-launch)<!-- TECH:END -->
+ - [Garmin Fenix 8 review: the $1,000 smartwatch has excellent battery and fitness tracking and an OLED display, but costs $350 more than the Fenix 7 and lacks LTE &lpar;Victoria Song/The Verge&rpar;](http://www.techmeme.com/241010/p14#a241010p14)
+ - [Garmin Fenix 8 review: only kind of smart](https://www.theverge.com/24266434/garmin-fenix-8-review-smartwatch-wearables-fitness-tracking)
+ - [The World&#39;s First Commercial Space Station Looks Like a Luxury Hotel Inside](https://www.wired.com/story/the-worlds-first-commercial-space-station-looks-like-a-luxury-hotel-inside/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
