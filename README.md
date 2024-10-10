@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Nintendo fans wished for new hardware, the monkey&#39;s paw curled, and they got an alarm clock](https://www.pcgamer.com/hardware/nintendo-fans-wished-for-new-hardware-the-monkeys-paw-curled-and-they-got-an-alarm-clock)
- - [Bonaparte: A Mechanized Revolution tosses mechs into the French Revolution, but doesn&#39;t toss out the history](https://www.pcgamer.com/games/strategy/bonaparte-a-mechanized-revolution-tosses-mechs-into-the-french-revolution-but-doesnt-toss-out-the-history)
- - [&#39;Nobody, and I mean nobody, at Bethesda is patting themselves on the back while ignoring our players&#39;: Starfield design director reassures fans that developers are paying attention to community concerns](https://www.pcgamer.com/games/rpg/nobody-and-i-mean-nobody-at-bethesda-is-patting-themselves-on-the-back-while-ignoring-our-players-starfield-design-director-reassures-fans-that-developers-are-paying-attention-to-community-concerns)<!-- GAME:END -->
+ - [Bungie has doubled down on the most ridiculous-looking hat in Destiny](https://www.pcgamer.com/games/fps/bungie-has-doubled-down-on-the-most-ridiculous-looking-hat-in-destiny)
+ - [Former Blizzard president planned to &#39;cut down&#39; on microtransactions in Diablo 4 and reboot Overwatch before the Microsoft buyout](https://www.pcgamer.com/games/rpg/former-blizzard-president-planned-to-cut-down-on-microtransactions-in-diablo-4-and-reboot-overwatch-before-the-microsoft-buyout)
+ - [Nintendo fans wished for new hardware, the monkey&#39;s paw curled, and they got an alarm clock](https://www.pcgamer.com/hardware/nintendo-fans-wished-for-new-hardware-the-monkeys-paw-curled-and-they-got-an-alarm-clock)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
