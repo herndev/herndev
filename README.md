@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Free Play Days – Mafia III: Definitive Edition, Moving Out 2, Destiny 2 Expansions and Conan Exiles](https://news.xbox.com/en-us/2024/10/10/free-play-days-10-10-2024/)
- - [Mario &amp; Luigi: Brothership Sounds Like A Pleasant But Familiar RPG Adventure](https://kotaku.com/mario-luigi-brothership-previews-demo-rpg-switch-1851669675)
- - [&#39;We&#39;ve managed to keep the lights on… until now&#39;: Cosy dino game Paleo Pines is asking players for help amid &#39;a sudden drying up of publishing and investment opportunities&#39;](https://www.pcgamer.com/games/life-sim/weve-managed-to-keep-the-lights-on-until-now-cosy-dino-game-paleo-pines-is-asking-players-for-help-amid-a-sudden-drying-up-of-publishing-and-investment-opportunities)<!-- GAME:END -->
+ - [GTA Online update for the week of October 10](https://www.polygon.com/gta-online-guides/464586/october-10-weekly-update-events-cemetary-zombies)
+ - [Your Favorite Childhood Game Is Out On Steam Today—And It’s Exactly How You Remember It](https://kotaku.com/play-backyard-baseball-97-steam-game-release-date-1851669749)
+ - [Best Necromancer builds in Diablo 4 season 6](https://www.polygon.com/diablo-4-guides/23656235/necromancer-best-build-skills)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
