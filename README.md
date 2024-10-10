@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [GTA Online update for the week of October 10](https://www.polygon.com/gta-online-guides/464586/october-10-weekly-update-events-cemetary-zombies)
- - [Your Favorite Childhood Game Is Out On Steam Today—And It’s Exactly How You Remember It](https://kotaku.com/play-backyard-baseball-97-steam-game-release-date-1851669749)
- - [Best Necromancer builds in Diablo 4 season 6](https://www.polygon.com/diablo-4-guides/23656235/necromancer-best-build-skills)<!-- GAME:END -->
+ - [I never thought I&#39;d see the day: FIFA&#39;s esports World Cup is being played in Konami&#39;s eFootball](https://www.pcgamer.com/games/sports/i-never-thought-id-see-the-day-fifas-esports-world-cup-is-being-played-in-konamis-efootball)
+ - [Find love and abandon god with this $20,000 fully customisable Baldur&#39;s Gate 3 Astarion sex doll](https://www.pcgamer.com/games/baldurs-gate/find-love-and-abandon-god-with-this-usd20-000-fully-customisable-baldurs-gate-3-astarion-sex-doll)
+ - [The Dark Age of Paradox Interactive: What exactly happened to one of PC gaming&#39;s best publishers?](https://www.pcgamer.com/games/strategy/the-dark-age-of-paradox-interactive-what-exactly-happened-to-one-of-pc-gamings-best-publishers)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
