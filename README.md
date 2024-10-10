@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Footage shows members of the Jalisco New Generation Cartel &lpar;CJNG&rpar; in Mexico. CJNG is heavily militarized and more violent than other criminal organizations. The cartel has a special operations group for specific types of warfare.](http://9gag.com/gag/a0eQ7md)
- - ⏩ [I don&#39;t understand the rules, does this mean he won?](http://9gag.com/gag/amoBg4V)
- - 👉 [Jugde can&#39;t believe my eyes](http://9gag.com/gag/aMVZdKM)<!-- MEMES:END -->
+ - 💣 [You can do it, too!](http://9gag.com/gag/a7o3oGw)
+ - ⏩ [Whizzes and Whacks: An Intriguing Auditory Experience](http://9gag.com/gag/aQzRgDw)
+ - 👉 [The One](http://9gag.com/gag/avy8WRq)<!-- MEMES:END -->
 
 ---
 
