@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [A short and witty title for Queen](http://9gag.com/gag/aryG3xV)
- - ⏩ [Granny did not care](http://9gag.com/gag/apRmRD9)
- - 👉 [Sodium silicate &lpar;Waterglass&rpar; in action](http://9gag.com/gag/aGyZnp7)<!-- MEMES:END -->
+ - 💣 [That was tough..](http://9gag.com/gag/aD2122O)
+ - ⏩ [Mirov II, the forgotten Soviet supercar](http://9gag.com/gag/aXPYPjP)
+ - 👉 [The most powerful nuclear device ever detonated by the United States is captured by a B57-B Canberra from the sky &lpar;1954&rpar;](http://9gag.com/gag/azx92op)<!-- MEMES:END -->
 
 ---
 
