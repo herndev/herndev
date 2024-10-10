@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [A little wholesome](http://9gag.com/gag/ayNB2Pp)
- - ⏩ [Too afraid to ask](http://9gag.com/gag/amoBWMy)
- - 👉 [A short and witty title for Queen](http://9gag.com/gag/aryG3xV)<!-- MEMES:END -->
+ - 💣 [Too afraid to ask](http://9gag.com/gag/amoBWMy)
+ - ⏩ [A short and witty title for Queen](http://9gag.com/gag/aryG3xV)
+ - 👉 [A little wholesome](http://9gag.com/gag/ayNB2Pp)<!-- MEMES:END -->
 
 ---
 
