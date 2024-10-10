@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Too afraid to ask](http://9gag.com/gag/amoBWMy)
- - ⏩ [A short and witty title for Queen](http://9gag.com/gag/aryG3xV)
- - 👉 [A little wholesome](http://9gag.com/gag/ayNB2Pp)<!-- MEMES:END -->
+ - 💣 [Granny did not care](http://9gag.com/gag/apRmRD9)
+ - ⏩ [That was tough..](http://9gag.com/gag/aD2122O)
+ - 👉 [When the child has to play the role of the parent](http://9gag.com/gag/a0eQXWQ)<!-- MEMES:END -->
 
 ---
 
