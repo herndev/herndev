@@ -46,7 +46,7 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [First time crash](http://9gag.com/gag/aryGmv0)
+ - 💣 [Hang in there, man](http://9gag.com/gag/awyAyp4)
  - ⏩ [A little wholesome](http://9gag.com/gag/ayNB2Pp)
  - 👉 [Not today](http://9gag.com/gag/aNDYDE4)<!-- MEMES:END -->
 
