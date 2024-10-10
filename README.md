@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Satisfactory 1.0 finally has mod support, and the revamped mod manager now supports dedicated servers too](https://www.pcgamer.com/games/sim/satisfactory-1-0-finally-has-mod-support-and-the-revamped-mod-manager-now-supports-dedicated-servers-too)
  - [Grand Theft Hamlet, which mixes Shakespeare with GTA Online, is coming to streaming](https://www.polygon.com/entertainment/465008/grand-theft-hamlet-gta-online)
- - [Watch our documentary, The Great Game: The Making of Spycraft](https://www.polygon.com/videos/464690/spycraft-documentary)
- - [RuneScape creator&#39;s new MMO gets a one-day delay, and it&#39;s the US government&#39;s fault](https://www.pcgamer.com/games/mmo/runescape-creators-new-mmo-gets-a-one-day-delay-and-its-the-us-governments-fault)<!-- GAME:END -->
+ - [Watch our documentary, The Great Game: The Making of Spycraft](https://www.polygon.com/videos/464690/spycraft-documentary)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
