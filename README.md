@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [OMG that&#39;s disgusting! Where?](http://9gag.com/gag/aNDYDOA)
- - ⏩ [They don&#39;t make&#39;em like they used to](http://9gag.com/gag/aPAYZQw)
- - 👉 [Not today](http://9gag.com/gag/aNDYDE4)<!-- MEMES:END -->
+ - 💣 [The One](http://9gag.com/gag/avy8WRq)
+ - ⏩ [Okayy lets go](http://9gag.com/gag/aryGWjp)
+ - 👉 [Do you have a friend like this?](http://9gag.com/gag/azx9d5m)<!-- MEMES:END -->
 
 ---
 
