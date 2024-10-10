@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Garmin Fenix 8 review: the $1,000 smartwatch has excellent battery and fitness tracking and an OLED display, but costs $350 more than the Fenix 7 and lacks LTE &lpar;Victoria Song/The Verge&rpar;](http://www.techmeme.com/241010/p14#a241010p14)
- - [Garmin Fenix 8 review: only kind of smart](https://www.theverge.com/24266434/garmin-fenix-8-review-smartwatch-wearables-fitness-tracking)
- - [The World&#39;s First Commercial Space Station Looks Like a Luxury Hotel Inside](https://www.wired.com/story/the-worlds-first-commercial-space-station-looks-like-a-luxury-hotel-inside/)<!-- TECH:END -->
+ - [Intel’s new flagship CPUs will run cooler and more efficiently for PC gaming](https://www.theverge.com/2024/10/10/24265928/intel-core-ultra-200s-series-specs-release-date-pricing)
+ - [Farther, which makes software for financial advisers, raised $72M co-led by CapitalG and Viewpoint at a $542M valuation, bringing its total funding to $117M &lpar;Katie Roof/Bloomberg&rpar;](http://www.techmeme.com/241010/p16#a241010p16)
+ - [Lexus’ new LX has a waterproofed hybrid engine](https://www.theverge.com/2024/10/10/24266847/lexus-lx-700h-rugged-hybrid-suv-2025)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
