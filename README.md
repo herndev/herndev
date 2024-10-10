@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best Android phones for everyone](https://www.theverge.com/23674658/best-android-phone)
- - [Google tests showing full recipes right in search results](https://www.theverge.com/2024/10/10/24267119/google-search-recipe-blogs-quick-view)
- - [The sequel to the beloved mystery game Golden Idol launches in November](https://www.theverge.com/2024/10/10/24267159/the-rise-of-the-golden-idol-release-date-trailer)<!-- TECH:END -->
+ - [Android 15’s Home Controls screensaver turns your device into a smart home dashboard](https://www.androidauthority.com/home-controls-screensaver-3489628/)
+ - [The best ebook reader to buy right now](https://www.theverge.com/23769068/best-ebook-readers)
+ - [Google Contacts could make adding contacts to other accounts a hassle &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-contacts-loses-account-choice-3489594/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
