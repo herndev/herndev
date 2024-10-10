@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Taiwan says China detained four employees at Foxconn&#39;s iPhone factories in Zhengzhou, and says Foxconn said it didn&#39;t suffer a financial loss from their actions &lpar;Joyu Wang/Wall Street Journal&rpar;](http://www.techmeme.com/241010/p13#a241010p13)
- - [The OPPO Find X8 series finally has a launch date](https://www.androidauthority.com/oppo-find-x8-series-launch-annoucement-3489432/)
- - [OnePlus says OnePlus 13 is coming this month with a big performance leap](https://www.androidauthority.com/oneplus-13-performance-software-3489431/)<!-- TECH:END -->
+ - [I want my smart Android TV to be dumb again](https://www.androidauthority.com/dumb-android-tv-3437662/)
+ - [We Tried the World’s Most Expensive Wireless Speakers.](https://www.wired.com/story/we-tried-the-worlds-most-expensive-wireless-speakers/)
+ - [GM’s PowerBank home battery is now available](https://www.theverge.com/2024/10/10/24266440/gm-home-battery-powerbank-launch)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
