@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [PC Gamer magazine&#39;s new issue is on sale now: Kingdom Come: Deliverance 2](https://www.pcgamer.com/gaming-industry/pc-gamer-magazines-new-issue-is-on-sale-now-kingdom-come-deliverance-2)
  - [Today&#39;s Wordle answer for Thursday, October 10](https://www.pcgamer.com/games/puzzle/wordle-answer-today-october-10-2024)
- - [The Kamala Harris campaign is going to stream World of Warcraft tonight to court the gamer vote](https://www.pcgamer.com/games/mmo/the-kamala-harris-campaign-is-going-to-stream-world-of-warcraft-tonight-to-court-the-gamer-vote)
- - [Bungie has doubled down on the most ridiculous-looking hat in Destiny](https://www.pcgamer.com/games/fps/bungie-has-doubled-down-on-the-most-ridiculous-looking-hat-in-destiny)<!-- GAME:END -->
+ - [The Kamala Harris campaign is going to stream World of Warcraft tonight to court the gamer vote](https://www.pcgamer.com/games/mmo/the-kamala-harris-campaign-is-going-to-stream-world-of-warcraft-tonight-to-court-the-gamer-vote)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
