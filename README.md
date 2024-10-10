@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Android 15’s Home Controls screensaver turns your device into a smart home dashboard](https://www.androidauthority.com/home-controls-screensaver-3489628/)
- - [The best ebook reader to buy right now](https://www.theverge.com/23769068/best-ebook-readers)
- - [Google Contacts could make adding contacts to other accounts a hassle &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-contacts-loses-account-choice-3489594/)<!-- TECH:END -->
+ - [Ticketmaster will start using Apple Wallet’s more useful tickets this month](https://www.theverge.com/2024/10/10/24267269/ticketmaster-apple-wallet-new-tickets)
+ - [Will Elon Musk Tip the Election for Trump?](https://www.wired.com/story/elon-musk-donald-trump-election/)
+ - [Apple to donate to Hurricane Milton relief efforts, says CEO Tim Cook](https://appleinsider.com/articles/24/10/10/apple-to-donate-to-hurricane-milton-relief-efforts-says-ceo-tim-cook?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
