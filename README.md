@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Hang in there, man](http://9gag.com/gag/awyAyp4)
- - ⏩ [A little wholesome](http://9gag.com/gag/ayNB2Pp)
- - 👉 [Not today](http://9gag.com/gag/aNDYDE4)<!-- MEMES:END -->
+ - 💣 [He&#39;s been waiting a long time for this](http://9gag.com/gag/a9yK6L6)
+ - ⏩ [Too afraid to ask](http://9gag.com/gag/amoBWMy)
+ - 👉 [Come here you little..](http://9gag.com/gag/a5QMQEO)<!-- MEMES:END -->
 
 ---
 
