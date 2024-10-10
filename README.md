@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [I never thought I&#39;d see the day: FIFA&#39;s esports World Cup is being played in Konami&#39;s eFootball](https://www.pcgamer.com/games/sports/i-never-thought-id-see-the-day-fifas-esports-world-cup-is-being-played-in-konamis-efootball)
- - [Find love and abandon god with this $20,000 fully customisable Baldur&#39;s Gate 3 Astarion sex doll](https://www.pcgamer.com/games/baldurs-gate/find-love-and-abandon-god-with-this-usd20-000-fully-customisable-baldurs-gate-3-astarion-sex-doll)
- - [The Dark Age of Paradox Interactive: What exactly happened to one of PC gaming&#39;s best publishers?](https://www.pcgamer.com/games/strategy/the-dark-age-of-paradox-interactive-what-exactly-happened-to-one-of-pc-gamings-best-publishers)<!-- GAME:END -->
+ - [Dragon Ball: Sparking Zero&#39;s &#39;Bean Daddies&#39; Are Using Yajirobe To Destroy Everyone](https://kotaku.com/dragon-ball-sparking-zero-yajirobe-senzu-bean-tier-op-1851669930)
+ - [PlayStation’s Fall Sale Kicks Off With Some Massive Deals On Madden And Other Hits](https://kotaku.com/playstation-fall-sale-madden-college-football-yakuza-1851669914)
+ - [Diablo 4: Vessel Of Hatred Has Added Runewords, And They&#39;re Game-Changers](https://kotaku.com/diablo-4-vessel-of-hatred-runewords-guide-blizzard-1851669838)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
