@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Hang in there, man](http://9gag.com/gag/awyAyp4)
- - ⏩ [Should&#39;ve honk again](http://9gag.com/gag/ayNB2DY)
- - 👉 [Baby in the womb](http://9gag.com/gag/amoB134)<!-- MEMES:END -->
+ - 💣 [Mama; I&#39;m going fast!](http://9gag.com/gag/amoBAV9)
+ - ⏩ [Mirov II, the forgotten Soviet supercar](http://9gag.com/gag/aXPYPjP)
+ - 👉 [A little wholesome](http://9gag.com/gag/ayNB2Pp)<!-- MEMES:END -->
 
 ---
 
