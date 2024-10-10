@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Mark Zuckerberg Says He&#39;s Probably The Best Civilization Player In The World](https://kotaku.com/mark-zuckerberg-ceo-facebook-civilization-best-player-1851670162)
- - [The Internet Reacts To Nintendo&#39;s Alarm Clock That Only Works For Single People](https://kotaku.com/nintendo-switch-2-alarmo-preorder-scalpers-bed-1851670175)
- - [Don’t sleep on Deadlock’s active items](https://www.pcgamer.com/games/moba/dont-sleep-on-deadlocks-active-items)<!-- GAME:END -->
+ - [Grand Theft Hamlet, which mixes Shakespeare with GTA Online, is coming to streaming](https://www.polygon.com/entertainment/465008/grand-theft-hamlet-gta-online)
+ - [Watch our documentary, The Great Game: The Making of Spycraft](https://www.polygon.com/videos/464690/spycraft-documentary)
+ - [RuneScape creator&#39;s new MMO gets a one-day delay, and it&#39;s the US government&#39;s fault](https://www.pcgamer.com/games/mmo/runescape-creators-new-mmo-gets-a-one-day-delay-and-its-the-us-governments-fault)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
