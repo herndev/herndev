@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Dyson Promo Code: 20% Off October 2024](https://www.wired.com/story/dyson-cordless-vacuum-promo-code/)
- - [A profile of FTC Chair Lina Khan, whose term ended in September 2024, as a bipartisan club of tech figures and VCs, including Reid Hoffman, call for her ouster &lpar;Bloomberg&rpar;](http://www.techmeme.com/241010/p4#a241010p4)
- - [Ecommerce Europe: e-commerce turnover in Europe including the UK to rise 8% YoY to &amp;euro;958B in 2024, the first growth year since 2021 in inflation-adjusted terms &lpar;Helen Reid/Reuters&rpar;](http://www.techmeme.com/241010/p3#a241010p3)<!-- TECH:END -->
+ - [Circle to Search is coming to HONOR phones, including the ultra-thin Magic V3](https://www.androidauthority.com/circle-to-search-honor-phones-3488234/)
+ - [The Galaxy S24 series just got the October 2024 security update](https://www.androidauthority.com/samsung-galaxy-s24-series-october-patch-update-3489367/)
+ - [Pixel Watch ‘fully charged’ notifications are rolling out again &lpar;Updated: Officially announced&rpar;](https://www.androidauthority.com/pixel-watch-fully-charged-notifications-rolling-out-again-3488598/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
