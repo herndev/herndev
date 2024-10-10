@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How Google plans to deflect and delay the US breakup threat; legal timelines may let it avoid changes for years, and a ruling on remedies may come in mid-2025 &lpar;Financial Times&rpar;](http://www.techmeme.com/241010/p9#a241010p9)
- - [Which Linux distro uses the least amount of RAM? I tested several to find out](https://www.androidauthority.com/linux-distro-least-ram-3489365/)
- - [Automattic demanding an 8% cut of WP Engine&#39;s revenue is a wanton violation of general open source ideals, and the damage could extend far beyond WordPress &lpar;David Heinemeier Hansson/HEY&rpar;](http://www.techmeme.com/241010/p8#a241010p8)<!-- TECH:END -->
+ - [Taiwan says China detained four employees at Foxconn&#39;s iPhone factories in Zhengzhou, and says Foxconn said it didn&#39;t suffer a financial loss from their actions &lpar;Joyu Wang/Wall Street Journal&rpar;](http://www.techmeme.com/241010/p13#a241010p13)
+ - [The OPPO Find X8 series finally has a launch date](https://www.androidauthority.com/oppo-find-x8-series-launch-annoucement-3489432/)
+ - [OnePlus says OnePlus 13 is coming this month with a big performance leap](https://www.androidauthority.com/oneplus-13-performance-software-3489431/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
