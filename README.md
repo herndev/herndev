@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [OMG that&#39;s disgusting! Where?](http://9gag.com/gag/aNDYDOA)
- - ⏩ [The most powerful nuclear device ever detonated by the United States is captured by a B57-B Canberra from the sky &lpar;1954&rpar;](http://9gag.com/gag/azx92op)
- - 👉 [How the Golden Gate Bridge was constructed](http://9gag.com/gag/a4PQorp)<!-- MEMES:END -->
+ - 💣 [That was tough..](http://9gag.com/gag/aD2122O)
+ - ⏩ [Who has experienced this before? This made me smile and cry at the same time.](http://9gag.com/gag/awyAMYy)
+ - 👉 [OMG that&#39;s disgusting! Where?](http://9gag.com/gag/aNDYDOA)<!-- MEMES:END -->
 
 ---
 
