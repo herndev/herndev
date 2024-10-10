@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Dragon Ball: Sparking Zero&#39;s &#39;Bean Daddies&#39; Are Using Yajirobe To Destroy Everyone](https://kotaku.com/dragon-ball-sparking-zero-yajirobe-senzu-bean-tier-op-1851669930)
- - [PlayStation’s Fall Sale Kicks Off With Some Massive Deals On Madden And Other Hits](https://kotaku.com/playstation-fall-sale-madden-college-football-yakuza-1851669914)
- - [Diablo 4: Vessel Of Hatred Has Added Runewords, And They&#39;re Game-Changers](https://kotaku.com/diablo-4-vessel-of-hatred-runewords-guide-blizzard-1851669838)<!-- GAME:END -->
+ - [Thanks to its all-encompassing Randomizer mod, Deus Ex has gotten a festive Halloween update with game modes and modifiers to turn it into a survival horror game](https://www.pcgamer.com/games/rpg/thanks-to-its-all-encompassing-randomizer-mod-deus-ex-has-gotten-a-festive-halloween-update-with-game-modes-and-modifiers-to-turn-it-into-a-survival-horror-game)
+ - [Persona series director says Atlus&#39;s flashy menus are &#39;actually really annoying&#39; to design](https://www.pcgamer.com/games/rpg/persona-series-director-says-atluss-flashy-menus-are-actually-really-annoying-to-design)
+ - [The Streak is over: For the first time in 20 years, a Football Manager game is delayed](https://www.pcgamer.com/games/sports/the-streak-is-over-for-the-first-time-in-20-years-a-football-manager-game-is-delayed)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
