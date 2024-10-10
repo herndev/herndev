@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Here’s how to negotiate a lower phone and internet bill](https://www.androidauthority.com/how-to-lower-cell-phone-bill-3489296/)
- - [Porsche to recall over 27,000 EVs in US over battery short circuit risk](https://www.theverge.com/2024/10/10/24266923/porsche-battery-short-circuit-fire-recall-nhtsa)
- - [Google&#39;s EMEA president Matt Brittin plans to step down after a decade in the post and will continue running operations until a successor is chosen &lpar;Martin Coulter/Reuters&rpar;](http://www.techmeme.com/241010/p19#a241010p19)<!-- TECH:END -->
+ - [Apple&#39;s &#39;Submerged&#39; for Apple Vision Pro is submarine warfare terror in the comfort of your home](https://appleinsider.com/articles/24/10/10/apples-submerged-for-apple-vision-pro-is-submarine-warfare-terror-in-the-comfort-of-your-home?utm_medium=rss)
+ - [Deal: Save an 58% on the impressive Razer Kishi V2 Pro gaming controller](https://www.androidauthority.com/razer-kishi-v2-pro-controller-deal-3489551/)
+ - [Chinese researchers debut AI model Pyramid Flow, which makes a five-second, 384p video in 56 seconds, built using a new technique called pyramidal flow matching &lpar;Carl Franzen/VentureBeat&rpar;](http://www.techmeme.com/241010/p20#a241010p20)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
