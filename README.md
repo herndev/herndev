@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [He&#39;s been waiting a long time for this](http://9gag.com/gag/a9yK6L6)
- - ⏩ [Too afraid to ask](http://9gag.com/gag/amoBWMy)
- - 👉 [Come here you little..](http://9gag.com/gag/a5QMQEO)<!-- MEMES:END -->
+ - 💣 [Whizzes and Whacks: An Intriguing Auditory Experience](http://9gag.com/gag/aQzRgDw)
+ - ⏩ [Wife material right there.](http://9gag.com/gag/a9yKzzo)
+ - 👉 [\u201cYeah right\u201d.. Sorry my guy, the damage has already been done](http://9gag.com/gag/a7o3eWr)<!-- MEMES:END -->
 
 ---
 
