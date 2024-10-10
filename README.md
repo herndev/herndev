@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Intel’s new flagship CPUs will run cooler and more efficiently for PC gaming](https://www.theverge.com/2024/10/10/24265928/intel-core-ultra-200s-series-specs-release-date-pricing)
- - [Farther, which makes software for financial advisers, raised $72M co-led by CapitalG and Viewpoint at a $542M valuation, bringing its total funding to $117M &lpar;Katie Roof/Bloomberg&rpar;](http://www.techmeme.com/241010/p16#a241010p16)
- - [Lexus’ new LX has a waterproofed hybrid engine](https://www.theverge.com/2024/10/10/24266847/lexus-lx-700h-rugged-hybrid-suv-2025)<!-- TECH:END -->
+ - [Here’s how to negotiate a lower phone and internet bill](https://www.androidauthority.com/how-to-lower-cell-phone-bill-3489296/)
+ - [Porsche to recall over 27,000 EVs in US over battery short circuit risk](https://www.theverge.com/2024/10/10/24266923/porsche-battery-short-circuit-fire-recall-nhtsa)
+ - [Google&#39;s EMEA president Matt Brittin plans to step down after a decade in the post and will continue running operations until a successor is chosen &lpar;Martin Coulter/Reuters&rpar;](http://www.techmeme.com/241010/p19#a241010p19)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
