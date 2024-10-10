@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Thanks to its all-encompassing Randomizer mod, Deus Ex has gotten a festive Halloween update with game modes and modifiers to turn it into a survival horror game](https://www.pcgamer.com/games/rpg/thanks-to-its-all-encompassing-randomizer-mod-deus-ex-has-gotten-a-festive-halloween-update-with-game-modes-and-modifiers-to-turn-it-into-a-survival-horror-game)
- - [Persona series director says Atlus&#39;s flashy menus are &#39;actually really annoying&#39; to design](https://www.pcgamer.com/games/rpg/persona-series-director-says-atluss-flashy-menus-are-actually-really-annoying-to-design)
- - [The Streak is over: For the first time in 20 years, a Football Manager game is delayed](https://www.pcgamer.com/games/sports/the-streak-is-over-for-the-first-time-in-20-years-a-football-manager-game-is-delayed)<!-- GAME:END -->
+ - [Overwatch 2 teases a new tank hero in its season 13 trailer and his name could be &#39;Spiker&#39;](https://www.pcgamer.com/games/fps/overwatch-2-teases-a-new-tank-hero-in-its-season-13-trailer-and-his-name-could-be-spiker)
+ - [DOOM Eternal Leads A Hell Of A Strong Month Of Free Prime Gaming Titles This Month](https://kotaku.com/amazon-prime-gaming-october-free-games-doom-eternal-1851670115)
+ - [Best Barbarian builds in Diablo 4 season 6](https://www.polygon.com/23654868/barbarian-best-build-skills)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
