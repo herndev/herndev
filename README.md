@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Granny did not care](http://9gag.com/gag/apRmRD9)
- - ⏩ [That was tough..](http://9gag.com/gag/aD2122O)
+ - 💣 [He&#39;s been waiting a long time for this](http://9gag.com/gag/a9yK6L6)
+ - ⏩ [Florida man folks!](http://9gag.com/gag/an79Ryo)
  - 👉 [When the child has to play the role of the parent](http://9gag.com/gag/a0eQXWQ)<!-- MEMES:END -->
 
 ---
