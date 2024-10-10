@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Eminem, his brother, his mom](http://9gag.com/gag/ae9rAXW)
- - ⏩ [Jugde can&#39;t believe my eyes](http://9gag.com/gag/aMVZdKM)
- - 👉 [Who has experienced this before? This made me smile and cry at the same time.](http://9gag.com/gag/awyAMYy)<!-- MEMES:END -->
+ - 💣 [OMG that&#39;s disgusting! Where?](http://9gag.com/gag/aNDYDOA)
+ - ⏩ [They don&#39;t make&#39;em like they used to](http://9gag.com/gag/aPAYZQw)
+ - 👉 [Not today](http://9gag.com/gag/aNDYDE4)<!-- MEMES:END -->
 
 ---
 
