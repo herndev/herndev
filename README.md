@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s &#39;Submerged&#39; for Apple Vision Pro is submarine warfare terror in the comfort of your home](https://appleinsider.com/articles/24/10/10/apples-submerged-for-apple-vision-pro-is-submarine-warfare-terror-in-the-comfort-of-your-home?utm_medium=rss)
- - [Deal: Save an 58% on the impressive Razer Kishi V2 Pro gaming controller](https://www.androidauthority.com/razer-kishi-v2-pro-controller-deal-3489551/)
- - [Chinese researchers debut AI model Pyramid Flow, which makes a five-second, 384p video in 56 seconds, built using a new technique called pyramidal flow matching &lpar;Carl Franzen/VentureBeat&rpar;](http://www.techmeme.com/241010/p20#a241010p20)<!-- TECH:END -->
+ - [PSA: Update your Firefox browser asap to avoid this zero-day exploit](https://www.androidauthority.com/firefox-zero-day-exploit-fix-3489555/)
+ - [The FBI secretly created a coin to investigate crypto pump-and-dump schemes](https://www.theverge.com/2024/10/10/24267098/fbi-coin-crypto-token-nexgenai-sec-doj-fraud-investigation)
+ - [FCC chair rejects Trump’s call to revoke CBS license over Harris interview edit](https://www.theverge.com/2024/10/10/24267054/fcc-chair-rosenworcel-trump-harris-60-minutes-cbs-license)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
