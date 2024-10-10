@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [T-Mobile now offers the cheapest plan for your smartwatch, tablet, and laptop](https://www.androidauthority.com/t-mobile-smartwatch-tablet-laptop-plan-3489351/)
- - [The best last-minute deals you can grab before October Prime Day ends](https://www.theverge.com/good-deals/24262468/amazon-prime-day-best-deals-sales-tech-gadgets-october-2024)
- - [Paris-based Qantev, which offers an AI-based claim management software for health and life insurance companies, raised a &amp;euro;30M Series B &lpar;Anna Heim/TechCrunch&rpar;](http://www.techmeme.com/241010/p1#a241010p1)<!-- TECH:END -->
+ - [A SCOTUS decision means that the US now legally owns the 69,370 BTC obtained during its Silk Road probe; the ex-IRS agent who seized them is in a Nigerian jail &lpar;Andy Greenberg/Wired&rpar;](http://www.techmeme.com/241010/p2#a241010p2)
+ - [Amazon Prime Day: 150+ Prime Day Deals Before Time Runs Out](https://www.cnet.com/deals/best-october-prime-day-sales-2024-10-09/#ftag=CAD590a51e)
+ - [T-Mobile now offers the cheapest plan for your smartwatch, tablet, and laptop](https://www.androidauthority.com/t-mobile-smartwatch-tablet-laptop-plan-3489351/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
