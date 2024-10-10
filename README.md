@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Mama; I&#39;m going fast!](http://9gag.com/gag/amoBAV9)
- - ⏩ [Mirov II, the forgotten Soviet supercar](http://9gag.com/gag/aXPYPjP)
- - 👉 [A little wholesome](http://9gag.com/gag/ayNB2Pp)<!-- MEMES:END -->
+ - 💣 [A short and witty title for Queen](http://9gag.com/gag/aryG3xV)
+ - ⏩ [Granny did not care](http://9gag.com/gag/apRmRD9)
+ - 👉 [Sodium silicate &lpar;Waterglass&rpar; in action](http://9gag.com/gag/aGyZnp7)<!-- MEMES:END -->
 
 ---
 
