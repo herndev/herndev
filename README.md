@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Overwatch 2 teases a new tank hero in its season 13 trailer and his name could be &#39;Spiker&#39;](https://www.pcgamer.com/games/fps/overwatch-2-teases-a-new-tank-hero-in-its-season-13-trailer-and-his-name-could-be-spiker)
- - [DOOM Eternal Leads A Hell Of A Strong Month Of Free Prime Gaming Titles This Month](https://kotaku.com/amazon-prime-gaming-october-free-games-doom-eternal-1851670115)
- - [Best Barbarian builds in Diablo 4 season 6](https://www.polygon.com/23654868/barbarian-best-build-skills)<!-- GAME:END -->
+ - [Mark Zuckerberg Says He&#39;s Probably The Best Civilization Player In The World](https://kotaku.com/mark-zuckerberg-ceo-facebook-civilization-best-player-1851670162)
+ - [The Internet Reacts To Nintendo&#39;s Alarm Clock That Only Works For Single People](https://kotaku.com/nintendo-switch-2-alarmo-preorder-scalpers-bed-1851670175)
+ - [Don’t sleep on Deadlock’s active items](https://www.pcgamer.com/games/moba/dont-sleep-on-deadlocks-active-items)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
