@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [9 Best Prime Day Kindle Deals and Accessories &lpar;2024&rpar;](https://www.wired.com/story/best-prime-day-kindle-deals-october-2024-1/)
- - [The best Prime Day smart home deals we found](https://www.theverge.com/2024/10/8/24264721/amazon-prime-day-best-smart-home-deals-sale-october-robot-vacuum)
- - [The best October Prime Day deals you can still get for under $100](https://www.theverge.com/24264356/amazon-prime-day-best-cheap-tech-deals-under-100-october-2024)<!-- TECH:END -->
+ - [Indian insurance firm Star Health says it suffered a &quot;malicious cyberattack&quot;, about two weeks after hackers put 31M customers&#39; alleged personal data on Telegram &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/241009/p41#a241009p41)
+ - [Grabango, which provided cashierless checkout tech and raised just over $73M, shuts down after failing to secure enough funding to continue its services &lpar;CNBC&rpar;](http://www.techmeme.com/241009/p40#a241009p40)
+ - [Our favorite deals under $50 from Amazon’s October Prime Day sale](https://www.theverge.com/24262440/amazon-prime-day-best-cheap-tech-deals-under-50-october-2024)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
