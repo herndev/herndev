@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Whizzes and Whacks: An Intriguing Auditory Experience](http://9gag.com/gag/aQzRgDw)
- - ⏩ [Wife material right there.](http://9gag.com/gag/a9yKzzo)
- - 👉 [\u201cYeah right\u201d.. Sorry my guy, the damage has already been done](http://9gag.com/gag/a7o3eWr)<!-- MEMES:END -->
+ - 💣 [Hang in there, man](http://9gag.com/gag/awyAyp4)
+ - ⏩ [Should&#39;ve honk again](http://9gag.com/gag/ayNB2DY)
+ - 👉 [Baby in the womb](http://9gag.com/gag/amoB134)<!-- MEMES:END -->
 
 ---
 
