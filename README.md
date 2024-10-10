@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [You can do it, too!](http://9gag.com/gag/a7o3oGw)
- - ⏩ [Whizzes and Whacks: An Intriguing Auditory Experience](http://9gag.com/gag/aQzRgDw)
- - 👉 [The One](http://9gag.com/gag/avy8WRq)<!-- MEMES:END -->
+ - 💣 [The storm surge for Hurricane Milton is expected to be 15 feet](http://9gag.com/gag/a1mQP02)
+ - ⏩ [60 Minutes caught deleting interview footages and replacing them with heavily edited videos](http://9gag.com/gag/aKGxEg3)
+ - 👉 [Everything is fine](http://9gag.com/gag/aQzRE1W)<!-- MEMES:END -->
 
 ---
 
