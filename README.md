@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Should&#39;ve honk again](http://9gag.com/gag/ayNB2DY)
- - ⏩ [A little wholesome](http://9gag.com/gag/ayNB2Pp)
- - 👉 [Hang in there, man](http://9gag.com/gag/awyAyp4)<!-- MEMES:END -->
+ - 💣 [They don&#39;t make&#39;em like they used to](http://9gag.com/gag/aPAYZQw)
+ - ⏩ [Should&#39;ve honk again](http://9gag.com/gag/ayNB2DY)
+ - 👉 [That was tough..](http://9gag.com/gag/aD2122O)<!-- MEMES:END -->
 
 ---
 
