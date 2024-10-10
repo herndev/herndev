@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Some Threads and Instagram users say their accounts are being deleted or restricted due to moderation failures; Adam Mosseri says he&#39;s &quot;looking into it&quot; &lpar;Umar Shakir/The Verge&rpar;](http://www.techmeme.com/241009/p36#a241009p36)
- - [The best deals you can grab on day two of Amazon Prime Day](https://www.theverge.com/good-deals/24262468/amazon-prime-day-best-deals-sales-tech-gadgets-october-2024)
- - [25 Best Amazon Prime Day Hair Tool Deals to Shop Right Now &lpar;2024&rpar;](https://www.wired.com/story/best-prime-day-hair-tool-deals-october-2024-1/)<!-- TECH:END -->
+ - [9 Best Prime Day Kindle Deals and Accessories &lpar;2024&rpar;](https://www.wired.com/story/best-prime-day-kindle-deals-october-2024-1/)
+ - [The best Prime Day smart home deals we found](https://www.theverge.com/2024/10/8/24264721/amazon-prime-day-best-smart-home-deals-sale-october-robot-vacuum)
+ - [The best October Prime Day deals you can still get for under $100](https://www.theverge.com/24264356/amazon-prime-day-best-cheap-tech-deals-under-100-october-2024)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
