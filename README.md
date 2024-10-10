@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Mario &amp;#038; Luigi’s new game feels fun and familiar, but maybe a little formulaic](https://www.polygon.com/impressions/463951/mario-luigi-brothership-nintendo-switch)
- - [Bandai Namco says sorry for disqualifying a top Tekken World Tour contender whose country wasn&#39;t listed among the 189 eligible options](https://www.pcgamer.com/games/fighting/bandai-namco-says-sorry-for-disqualifying-a-top-tekken-world-tour-contender-whose-country-wasnt-listed-among-the-189-eligible-options)
- - [Thunderbolt vs OCuLink external GPU interface-off or: Why I wouldn&#39;t touch Thunderbolt with a bargepole for gaming](https://www.pcgamer.com/hardware/graphics-cards/state-of-play-egpus)<!-- GAME:END -->
+ - [The 30th anniversary PS5 is available to pre-order at more stores](https://www.polygon.com/pre-order/456457/playstation-30th-anniversary-pro-bundle-controller-where-to-buy)
+ - [A Guided Tour of Duloc from the Shrek Special Pack for PowerWash Simulator](https://news.xbox.com/en-us/2024/10/10/shrek-special-pack-for-powerwash-simulator/)
+ - [The cover of the new Discworld tabletop RPG brings back a flood of memories](https://www.polygon.com/tabletop-games/463865/the-cover-of-the-new-discworld-tabletop-rpg-brings-back-a-flood-of-memories)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
