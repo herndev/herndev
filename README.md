@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The storm surge for Hurricane Milton is expected to be 15 feet](http://9gag.com/gag/a1mQP02)
- - ⏩ [60 Minutes caught deleting interview footages and replacing them with heavily edited videos](http://9gag.com/gag/aKGxEg3)
- - 👉 [Everything is fine](http://9gag.com/gag/aQzRE1W)<!-- MEMES:END -->
+ - 💣 [It&#39;s not about the money or a neat office job, it&#39;s about your mental health](http://9gag.com/gag/ae9r94q)
+ - ⏩ [The One](http://9gag.com/gag/avy8WRq)
+ - 👉 [Whizzes and Whacks: An Intriguing Auditory Experience](http://9gag.com/gag/aQzRgDw)<!-- MEMES:END -->
 
 ---
 
