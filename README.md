@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The 30th anniversary PS5 is available to pre-order at more stores](https://www.polygon.com/pre-order/456457/playstation-30th-anniversary-pro-bundle-controller-where-to-buy)
- - [A Guided Tour of Duloc from the Shrek Special Pack for PowerWash Simulator](https://news.xbox.com/en-us/2024/10/10/shrek-special-pack-for-powerwash-simulator/)
- - [The cover of the new Discworld tabletop RPG brings back a flood of memories](https://www.polygon.com/tabletop-games/463865/the-cover-of-the-new-discworld-tabletop-rpg-brings-back-a-flood-of-memories)<!-- GAME:END -->
+ - [Free Play Days – Mafia III: Definitive Edition, Moving Out 2, Destiny 2 Expansions and Conan Exiles](https://news.xbox.com/en-us/2024/10/10/free-play-days-10-10-2024/)
+ - [Mario &amp; Luigi: Brothership Sounds Like A Pleasant But Familiar RPG Adventure](https://kotaku.com/mario-luigi-brothership-previews-demo-rpg-switch-1851669675)
+ - [&#39;We&#39;ve managed to keep the lights on… until now&#39;: Cosy dino game Paleo Pines is asking players for help amid &#39;a sudden drying up of publishing and investment opportunities&#39;](https://www.pcgamer.com/games/life-sim/weve-managed-to-keep-the-lights-on-until-now-cosy-dino-game-paleo-pines-is-asking-players-for-help-amid-a-sudden-drying-up-of-publishing-and-investment-opportunities)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
