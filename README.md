@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A creepy Halloween Audio Emoji is coming to Google’s Phone app &lpar;APK teardown&rpar;](https://www.androidauthority.com/halloween-audio-emoji-google-phone-app-3489384/)
- - [Elon Musk Is All In on MAGA. Donald Trump’s Supporters Are Loving It](https://www.wired.com/story/elon-musk-donald-trump-maga/)
- - [Make Perfect Chicken Thighs in the Air Fryer in Only 15 Minutes](https://www.cnet.com/how-to/make-perfect-chicken-thighs-in-the-air-fryer-in-only-15-minutes/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [How Google plans to deflect and delay the US breakup threat; legal timelines may let it avoid changes for years, and a ruling on remedies may come in mid-2025 &lpar;Financial Times&rpar;](http://www.techmeme.com/241010/p9#a241010p9)
+ - [Which Linux distro uses the least amount of RAM? I tested several to find out](https://www.androidauthority.com/linux-distro-least-ram-3489365/)
+ - [Automattic demanding an 8% cut of WP Engine&#39;s revenue is a wanton violation of general open source ideals, and the damage could extend far beyond WordPress &lpar;David Heinemeier Hansson/HEY&rpar;](http://www.techmeme.com/241010/p8#a241010p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
