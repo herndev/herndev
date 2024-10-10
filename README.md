@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [To mark the launch of Metaphor: ReFantazio, Sega is going to make someone a real-life noble, but there&#39;s a catch—you&#39;ll be joining the nobility of an illegitimate nation in the North Sea with only one resident](https://www.pcgamer.com/games/rpg/to-mark-the-launch-of-metaphor-refantazio-sega-is-going-to-make-someone-a-real-world-noble-but-theres-a-catch-youll-be-joining-the-nobility-of-an-illegitimate-nation-in-the-north-sea-with-only-one-resident)
- - [PC Gamer magazine&#39;s new issue is on sale now: Kingdom Come: Deliverance 2](https://www.pcgamer.com/gaming-industry/pc-gamer-magazines-new-issue-is-on-sale-now-kingdom-come-deliverance-2)
- - [Today&#39;s Wordle answer for Thursday, October 10](https://www.pcgamer.com/games/puzzle/wordle-answer-today-october-10-2024)<!-- GAME:END -->
+ - [Mario &amp;#038; Luigi’s new game feels fun and familiar, but maybe a little formulaic](https://www.polygon.com/impressions/463951/mario-luigi-brothership-nintendo-switch)
+ - [Bandai Namco says sorry for disqualifying a top Tekken World Tour contender whose country wasn&#39;t listed among the 189 eligible options](https://www.pcgamer.com/games/fighting/bandai-namco-says-sorry-for-disqualifying-a-top-tekken-world-tour-contender-whose-country-wasnt-listed-among-the-189-eligible-options)
+ - [Thunderbolt vs OCuLink external GPU interface-off or: Why I wouldn&#39;t touch Thunderbolt with a bargepole for gaming](https://www.pcgamer.com/hardware/graphics-cards/state-of-play-egpus)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
