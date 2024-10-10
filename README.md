@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The FBI reveals it created Ethereum-based token NexFundAI with the help of &quot;cooperating witnesses&quot; to investigate price manipulation in crypto markets &lpar;Gaby Del Valle/The Verge&rpar;](http://www.techmeme.com/241010/p24#a241010p24)
- - [Need a laptop? Check out these Apple MacBook Air deals](https://www.androidauthority.com/apple-macbook-air-m2-m3-deals-3489549/)
- - [Amazon&#39;s best Prime Day Apple deals have just been extended](https://appleinsider.com/articles/24/10/10/amazons-best-prime-day-apple-deals-have-just-been-extended?utm_medium=rss)<!-- TECH:END -->
+ - [The best Android phones for everyone](https://www.theverge.com/23674658/best-android-phone)
+ - [Google tests showing full recipes right in search results](https://www.theverge.com/2024/10/10/24267119/google-search-recipe-blogs-quick-view)
+ - [The sequel to the beloved mystery game Golden Idol launches in November](https://www.theverge.com/2024/10/10/24267159/the-rise-of-the-golden-idol-release-date-trailer)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
