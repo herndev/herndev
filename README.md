@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle answer for Thursday, October 10](https://www.pcgamer.com/games/puzzle/wordle-answer-today-october-10-2024)
  - [The Kamala Harris campaign is going to stream World of Warcraft tonight to court the gamer vote](https://www.pcgamer.com/games/mmo/the-kamala-harris-campaign-is-going-to-stream-world-of-warcraft-tonight-to-court-the-gamer-vote)
- - [Bungie has doubled down on the most ridiculous-looking hat in Destiny](https://www.pcgamer.com/games/fps/bungie-has-doubled-down-on-the-most-ridiculous-looking-hat-in-destiny)
- - [Former Blizzard president planned to &#39;cut down&#39; on microtransactions in Diablo 4 and reboot Overwatch before the Microsoft buyout](https://www.pcgamer.com/games/rpg/former-blizzard-president-planned-to-cut-down-on-microtransactions-in-diablo-4-and-reboot-overwatch-before-the-microsoft-buyout)<!-- GAME:END -->
+ - [Bungie has doubled down on the most ridiculous-looking hat in Destiny](https://www.pcgamer.com/games/fps/bungie-has-doubled-down-on-the-most-ridiculous-looking-hat-in-destiny)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
