@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The One](http://9gag.com/gag/avy8WRq)
- - ⏩ [Okayy lets go](http://9gag.com/gag/aryGWjp)
- - 👉 [Do you have a friend like this?](http://9gag.com/gag/azx9d5m)<!-- MEMES:END -->
+ - 💣 [Should&#39;ve honk again](http://9gag.com/gag/ayNB2DY)
+ - ⏩ [A little wholesome](http://9gag.com/gag/ayNB2Pp)
+ - 👉 [Hang in there, man](http://9gag.com/gag/awyAyp4)<!-- MEMES:END -->
 
 ---
 
