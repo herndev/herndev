@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [An investigation details a $243M crypto heist in August 2024 in which a social engineering attack targeted a single customer of Gemini&#39;s crypto exchange &lpar;Brian Krebs/Krebs on Security&rpar;](http://www.techmeme.com/241010/p5#a241010p5)
  - [Circle to Search is coming to HONOR phones, including the ultra-thin Magic V3](https://www.androidauthority.com/circle-to-search-honor-phones-3488234/)
- - [The Galaxy S24 series just got the October 2024 security update](https://www.androidauthority.com/samsung-galaxy-s24-series-october-patch-update-3489367/)
- - [Pixel Watch ‘fully charged’ notifications are rolling out again &lpar;Updated: Officially announced&rpar;](https://www.androidauthority.com/pixel-watch-fully-charged-notifications-rolling-out-again-3488598/)<!-- TECH:END -->
+ - [The Galaxy S24 series just got the October 2024 security update](https://www.androidauthority.com/samsung-galaxy-s24-series-october-patch-update-3489367/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
