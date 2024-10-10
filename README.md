@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [To mark the launch of Metaphor: ReFantazio, Sega is going to make someone a real-life noble, but there&#39;s a catch—you&#39;ll be joining the nobility of an illegitimate nation in the North Sea with only one resident](https://www.pcgamer.com/games/rpg/to-mark-the-launch-of-metaphor-refantazio-sega-is-going-to-make-someone-a-real-world-noble-but-theres-a-catch-youll-be-joining-the-nobility-of-an-illegitimate-nation-in-the-north-sea-with-only-one-resident)
  - [PC Gamer magazine&#39;s new issue is on sale now: Kingdom Come: Deliverance 2](https://www.pcgamer.com/gaming-industry/pc-gamer-magazines-new-issue-is-on-sale-now-kingdom-come-deliverance-2)
- - [Today&#39;s Wordle answer for Thursday, October 10](https://www.pcgamer.com/games/puzzle/wordle-answer-today-october-10-2024)
- - [The Kamala Harris campaign is going to stream World of Warcraft tonight to court the gamer vote](https://www.pcgamer.com/games/mmo/the-kamala-harris-campaign-is-going-to-stream-world-of-warcraft-tonight-to-court-the-gamer-vote)<!-- GAME:END -->
+ - [Today&#39;s Wordle answer for Thursday, October 10](https://www.pcgamer.com/games/puzzle/wordle-answer-today-october-10-2024)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
