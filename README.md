@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Old one but satisfying](http://9gag.com/gag/aqyK8QR)
- - ⏩ [That was tough..](http://9gag.com/gag/aD2122O)
- - 👉 [Should&#39;ve honk again](http://9gag.com/gag/ayNB2DY)<!-- MEMES:END -->
+ - 💣 [First time crash](http://9gag.com/gag/aryGmv0)
+ - ⏩ [A little wholesome](http://9gag.com/gag/ayNB2Pp)
+ - 👉 [Not today](http://9gag.com/gag/aNDYDE4)<!-- MEMES:END -->
 
 ---
 
