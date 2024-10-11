@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [When the child has to play the role of the parent](http://9gag.com/gag/a0eQXWQ)
- - ⏩ [Radiate my shirt but not my chickens](http://9gag.com/gag/a0eQojL)
- - 👉 [Hang in there, man](http://9gag.com/gag/awyAyp4)<!-- MEMES:END -->
+ - 💣 [Fascinating machine](http://9gag.com/gag/adBLBOM)
+ - ⏩ [That was tough..](http://9gag.com/gag/aD2122O)
+ - 👉 [When the child has to play the role of the parent](http://9gag.com/gag/a0eQXWQ)<!-- MEMES:END -->
 
 ---
 
