@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Filing: TikTok&#39;s European revenue grew to $4.57B in 2023, up from $2.6B in 2022; losses grew to $1.3B, up from $512M YoY; ByteDance set aside $1B for EU fines &lpar;Iain Martin/Forbes&rpar;](http://www.techmeme.com/241011/p11#a241011p11)
- - [Arc Search browser for Android is promising, but I’m not ready to replace Google Chrome just yet](https://www.androidauthority.com/arc-search-browser-3488152/)
- - [Russian MacBook Pro Leaks, Apple Ring, and Apple Intelligence on the AppleInsider Podcast](https://appleinsider.com/articles/24/10/11/russian-macbook-pro-leaks-apple-ring-and-apple-intelligence-on-the-appleinsider-podcast?utm_medium=rss)<!-- TECH:END -->
+ - [Faulty court filing redactions show TikTok executives were unconcerned with the harms the app poses for teenagers despite internal research validating concerns &lpar;NPR&rpar;](http://www.techmeme.com/241011/p13#a241011p13)
+ - [Samsung Galaxy S25 series rumors and leaks: Everything we know so far](https://www.androidauthority.com/samsung-galaxy-s25-3437280/)
+ - [Fellow Aiden Coffee Maker Review: A Great Cup Made Simple](https://www.wired.com/review/fellow-aiden-precision-coffee-maker/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
