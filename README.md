@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Join The First Berserker: Khazan Closed Beta Oct 11 – 20!](https://news.xbox.com/en-us/2024/10/11/join-the-first-berserker-khazan-closed-beta-oct-11-20/)
  - [13 beginner’s tips to know before starting Metaphor: ReFantazio](https://www.polygon.com/metaphor-refantazio-guides/463158/beginners-tips-tricks)
- - [How to increase Eloquence in Metaphor: ReFantazio](https://www.polygon.com/metaphor-refantazio-guides/463373/eloquence-how-to-increase-raise-level-up)
- - [How to unlock all Followers in Metaphor: ReFantazio](https://www.polygon.com/metaphor-refantazio-guides/463408/followers-all-list-how-to-unlock)<!-- GAME:END -->
+ - [How to increase Eloquence in Metaphor: ReFantazio](https://www.polygon.com/metaphor-refantazio-guides/463373/eloquence-how-to-increase-raise-level-up)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
