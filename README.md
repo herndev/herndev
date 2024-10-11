@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Some developers say OpenAI&#39;s GPT Store is a mixed bag, with revenue sharing reserved for a tiny number of GPT creators in an invite-only pilot program in the US &lpar;Lauren Goode/Wired&rpar;](http://www.techmeme.com/241011/p9#a241011p9)
- - [Asus TUF Gaming A14 Review: A Great Budget Gaming Laptop](https://www.wired.com/review/asus-tuf-gaming-a14-2024/)
- - [Why Hurricane Milton Turned the Sky Purple](https://www.wired.com/story/why-hurricane-milton-turned-the-sky-purple/)<!-- TECH:END -->
+ - [Filing: TikTok&#39;s European revenue grew to $4.57B in 2023, up from $2.6B in 2022; losses grew to $1.3B, up from $512M YoY; ByteDance set aside $1B for EU fines &lpar;Iain Martin/Forbes&rpar;](http://www.techmeme.com/241011/p11#a241011p11)
+ - [Arc Search browser for Android is promising, but I’m not ready to replace Google Chrome just yet](https://www.androidauthority.com/arc-search-browser-3488152/)
+ - [Russian MacBook Pro Leaks, Apple Ring, and Apple Intelligence on the AppleInsider Podcast](https://appleinsider.com/articles/24/10/11/russian-macbook-pro-leaks-apple-ring-and-apple-intelligence-on-the-appleinsider-podcast?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
