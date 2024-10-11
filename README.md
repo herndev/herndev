@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The &#39;Before&#39; video](http://9gag.com/gag/an79RRb)
- - ⏩ [I love happy endings](http://9gag.com/gag/ae9rVdm)
- - 👉 [When the child has to play the role of the parent](http://9gag.com/gag/a0eQXWQ)<!-- MEMES:END -->
+ - 💣 [Too afraid to ask](http://9gag.com/gag/amoBWMy)
+ - ⏩ [PTCM for accuracy](http://9gag.com/gag/a2vZwr9)
+ - 👉 [Hand restoration of generator armatures](http://9gag.com/gag/apRm3LB)<!-- MEMES:END -->
 
 ---
 
