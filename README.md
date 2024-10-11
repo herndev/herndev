@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at the promise of AI agents as a way for companies to monetize models; PitchBook: AI agent startups raised $8.2B over the last 12 months, up 81.4% YoY &lpar;Kylie Robison/The Verge&rpar;](http://www.techmeme.com/241011/p4#a241011p4)
- - [Pixel Watch owners: Brace for a longer wait as Google works on fixing Wear OS 5 update](https://www.androidauthority.com/google-pixel-watch-pixel-watch-2-wear-os-5-update-fix-3489692/)
- - [Relyance AI, which helps companies comply with data privacy regulations, raised a $32.1M Series B led by Thomvest, bringing its total funding to ~$59M &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/241011/p3#a241011p3)<!-- TECH:END -->
+ - [Google is forced to open up Play Store and the Xbox app is taking full advantage](https://www.androidauthority.com/xbox-android-app-buy-play-games-3489694/)
+ - [A review of Submerged, Apple&#39;s first scripted short film shot in Immersive Video for the Vision Pro: technologically impressive, but an isolating experience &lpar;Victoria Song/The Verge&rpar;](http://www.techmeme.com/241011/p5#a241011p5)
+ - [Older Pixel Watches are getting a new charging screen](https://www.androidauthority.com/pixel-watch-charging-screen-3489693/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
