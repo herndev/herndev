@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Artists teach a choir of GPU fans to sing with AI and the result is not as soulless as you might think](https://www.pcgamer.com/hardware/GPU-fan-pipe-organ-AI)
  - [There&#39;s now a third studio boasting Disco Elysium veterans trying to follow up the beloved RPG—here with a spiritual successor &#39;psychogeographic RPG&#39;](https://www.pcgamer.com/games/rpg/theres-now-a-third-studio-boasting-disco-elysium-veterans-trying-to-follow-up-the-beloved-rpg-here-with-a-a-spiritual-successor-psychogeographic-rpg)
- - [Join The First Berserker: Khazan Closed Beta Oct 11 – 20!](https://news.xbox.com/en-us/2024/10/11/join-the-first-berserker-khazan-closed-beta-oct-11-20/)
- - [13 beginner’s tips to know before starting Metaphor: ReFantazio](https://www.polygon.com/metaphor-refantazio-guides/463158/beginners-tips-tricks)<!-- GAME:END -->
+ - [Join The First Berserker: Khazan Closed Beta Oct 11 – 20!](https://news.xbox.com/en-us/2024/10/11/join-the-first-berserker-khazan-closed-beta-oct-11-20/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
