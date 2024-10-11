@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Android 15 QPR1 brings another new method to stop your screen shares](https://www.androidauthority.com/android-15-qpr1-stop-screen-shares-3489652/)
- - [I’ve tested hundreds of smartwatches: Here’s what the most common metrics mean](https://www.androidauthority.com/smartwatches-metrics-meaning-3487615/)
- - [Elon Musk reveals the Tesla Cybercab, saying &quot;you will be able to buy one&quot; for under $30,000 and that he expects the robotaxi to be in production &quot;before 2027&quot; &lpar;Rebecca Bellan/TechCrunch&rpar;](http://www.techmeme.com/241010/p36#a241010p36)<!-- TECH:END -->
+ - [Sources: Pittsburgh-based Abridge, which uses AI to transcribe doctors&#39; conversations with their patients, raised $250M at a $2.5B pre-money valuation &lpar;The Information&rpar;](http://www.techmeme.com/241011/p2#a241011p2)
+ - [Elon Musk claims &quot;unsupervised&quot; FSD will come to TX and CA in 2025 for select models and shows a Tesla Robovan, meant to be autonomous and carry up to 20 people &lpar;Aarian Marshall/Wired&rpar;](http://www.techmeme.com/241011/p1#a241011p1)
+ - [Android 15 QPR1 brings another new method to stop your screen shares](https://www.androidauthority.com/android-15-qpr1-stop-screen-shares-3489652/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
