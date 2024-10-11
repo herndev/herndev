@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Artists teach a choir of GPU fans to sing with AI and the result is not as soulless as you might think](https://www.pcgamer.com/hardware/GPU-fan-pipe-organ-AI)
- - [There&#39;s now a third studio boasting Disco Elysium veterans trying to follow up the beloved RPG—here with a spiritual successor &#39;psychogeographic RPG&#39;](https://www.pcgamer.com/games/rpg/theres-now-a-third-studio-boasting-disco-elysium-veterans-trying-to-follow-up-the-beloved-rpg-here-with-a-a-spiritual-successor-psychogeographic-rpg)
- - [Join The First Berserker: Khazan Closed Beta Oct 11 – 20!](https://news.xbox.com/en-us/2024/10/11/join-the-first-berserker-khazan-closed-beta-oct-11-20/)<!-- GAME:END -->
+ - [Halo: Flashpoint, a new miniatures game, has all the right moves](https://www.polygon.com/tabletop-games/464798/halo-flashpoint-review-mantic-miniatures-skirmish)
+ - [Metaphor: ReFantazio is the new fastest-selling game in Atlus&#39; history, selling a million copies in its first day](https://www.pcgamer.com/games/rpg/metaphor-refantazio-is-the-new-fastest-selling-game-in-atlus-history-selling-a-million-copies-in-its-first-day)
+ - [MSI MAG X870 Tomahawk WiFi review](https://www.pcgamer.com/hardware/motherboards/msi-mag-x870-tomahawk-wifi-review)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
