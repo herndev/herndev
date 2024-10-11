@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Motorola Android 15 roadmap revealed, and this 2024 phone isn’t on the list](https://www.androidauthority.com/motorola-android-15-roadmap-3489715/)
- - [Amazon Prime Day: 140+ Extended Prime Day Deals Still Available to Shop Right Now](https://www.cnet.com/deals/best-october-prime-day-sales-2024-10-11/#ftag=CAD590a51e)
- - [A profile of White House national security adviser Jake Sullivan, who has crafted a strategy to stop China from unseating the US as the world&#39;s tech superpower &lpar;Issie Lapowsky/Wired&rpar;](http://www.techmeme.com/241011/p6#a241011p6)<!-- TECH:END -->
+ - [ByteDance confirms laying off hundreds of TikTok content moderators in Malaysia and plans to invest $2B in 2024 on trust and safety; sources: 700 were laid off &lpar;Norman Goh/Nikkei Asia&rpar;](http://www.techmeme.com/241011/p7#a241011p7)
+ - [Samsung phones are finally getting a Quick Settings tile for Google Wallet](https://www.androidauthority.com/google-wallet-samsung-quick-settings-tile-3489723/)
+ - [45 of the Best Prime Day Deals Under $50 Still Available Today](https://www.cnet.com/deals/best-prime-day-deals-under-50-2024-10-11/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
