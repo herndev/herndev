@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Just this](http://9gag.com/gag/axyzvbn)
- - ⏩ [Dude, leave some chicks for us](http://9gag.com/gag/aZZL8oQ)
- - 👉 [Nice day innit?](http://9gag.com/gag/avy8EEq)<!-- MEMES:END -->
+ - 💣 [Is she into you?](http://9gag.com/gag/ajP8L48)
+ - ⏩ [Assistant on work trip](http://9gag.com/gag/aD21ZB9)
+ - 👉 [Iwao Hakamada: World&#39;s Longest-Serving Death Row Inmate Declared Innocent After 56 Years](http://9gag.com/gag/a873656)<!-- MEMES:END -->
 
 ---
 
