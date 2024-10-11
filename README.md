@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google tries to keep you from leaving Search with new recipe feature](https://www.androidauthority.com/google-search-quick-view-3489845/)
- - [The Best Game Subscription Services That We&#39;ve Tested &lpar;2024&rpar;](https://www.wired.com/story/best-game-subscriptions/)
- - [A look at Musk&#39;s unparalleled involvement in the US election; sources: Trump campaign contacted X to prevent the circulation of the hacked JD Vance dossier &lpar;New York Times&rpar;](http://www.techmeme.com/241011/p17#a241011p17)<!-- TECH:END -->
+ - [Adam Mosseri attributes Instagram and Threads&#39; moderation issues, due to which users lost access to their accounts, to human moderators, not AI systems &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/241011/p19#a241011p19)
+ - [X drops Unilever from its ‘advertiser boycott’ lawsuit](https://www.theverge.com/2024/10/11/24267784/x-unilever-lawsuit-advertiser-boycott-garm-elon-musk)
+ - [The Motorola Razr Plus 2023 plunges to just $500](https://www.androidauthority.com/motorola-razr-plus-2023-deal-3-3489879/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
