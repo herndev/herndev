@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Glooko, whose diabetes management app is used by more than 4.4M patients and 10K clinics globally, raised a $100M Series F led by Georgian &lpar;Conor Hale/Fierce Biotech&rpar;](http://www.techmeme.com/241010/p33#a241010p33)
- - [Valve will finally sell the Steam Deck in Australia](https://www.theverge.com/2024/10/10/24267410/valve-steam-deck-australia)
- - [Microsoft plans to let US users buy and play Xbox games from the Xbox App on Android starting in November, after a judge ordered Google to open up Play Store &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/241010/p32#a241010p32)<!-- TECH:END -->
+ - [Asahi Linux enables AAA gaming on M-series Macs via a pile of workarounds](https://appleinsider.com/articles/24/10/11/asahi-linux-enables-aaa-gaming-on-m-series-macs-via-a-pile-of-workarounds?utm_medium=rss)
+ - [A look at possible outcomes from the Google Search antitrust trial, including the very likely scenario of Google&#39;s default search engine deals being struck down &lpar;Casey Newton/Platformer&rpar;](http://www.techmeme.com/241010/p35#a241010p35)
+ - [Tesla’s “We, Robot” robotaxi event: biggest news and announcements](https://www.theverge.com/2024/10/10/24267132/tesla-robotaxi-we-robot-autonomous-fsd-elon-musk)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
