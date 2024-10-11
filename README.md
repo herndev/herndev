@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Go Solo or Team up in Starship Troopers: Extermination](https://news.xbox.com/en-us/2024/10/11/go-solo-or-team-up-in-starship-troopers-extermination/)
- - [The Entire Tomb Raider Franchise Is On Deep Discount Right Now](https://kotaku.com/tomb-raider-sale-netflix-pc-playstation-xbox-switch-1851671022)
- - [Sega hasn&#39;t made a good Shinobi game in decades but hey Shogun is popular, so we&#39;re getting a Shinobi movie](https://www.pcgamer.com/gaming-industry/sega-hasnt-made-a-good-shinobi-game-in-decades-but-hey-shogun-is-popular-so-were-getting-a-shinobi-movie)<!-- GAME:END -->
+ - [This murder mystery farm sim will let you accidentally romance the killer, but I might just do it on purpose](https://www.pcgamer.com/games/life-sim/this-murder-mystery-farm-sim-will-let-you-accidentally-romance-the-killer-but-i-might-just-do-it-on-purpose)
+ - [Playing Echo Point Nova is like diving through someone&#39;s dreams after they&#39;ve played too much Titanfall or Tribes](https://www.pcgamer.com/games/fps/playing-echo-point-nova-is-like-diving-through-someones-dreams-after-theyve-played-too-much-titanfall-or-tribes)
+ - [A new Tomb Raider Remastered series is coming in 2025, complete with the game so bad it &#39;almost killed the series&#39;](https://www.pcgamer.com/games/action/a-new-tomb-raider-remastered-series-is-coming-in-2025-complete-with-the-game-so-bad-it-almost-killed-the-series)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
