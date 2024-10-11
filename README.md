@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Fascinating machine](http://9gag.com/gag/adBLBOM)
- - ⏩ [That was tough..](http://9gag.com/gag/aD2122O)
- - 👉 [When the child has to play the role of the parent](http://9gag.com/gag/a0eQXWQ)<!-- MEMES:END -->
+ - 💣 [The &#39;Before&#39; video](http://9gag.com/gag/an79RRb)
+ - ⏩ [When the child has to play the role of the parent](http://9gag.com/gag/a0eQXWQ)
+ - 👉 [Original picture in comments](http://9gag.com/gag/aPAYAVP)<!-- MEMES:END -->
 
 ---
 
