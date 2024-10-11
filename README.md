@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Is she into you?](http://9gag.com/gag/ajP8L48)
- - ⏩ [Assistant on work trip](http://9gag.com/gag/aD21ZB9)
- - 👉 [Iwao Hakamada: World&#39;s Longest-Serving Death Row Inmate Declared Innocent After 56 Years](http://9gag.com/gag/a873656)<!-- MEMES:END -->
+ - ⏩ [Woke dude gets humbled immediately](http://9gag.com/gag/a8730gO)
+ - 👉 [Now these are high tension moments! I remember this is exactly how we used to play when I was a kid, back in the 90s, when nobody had cellphones or tablets](http://9gag.com/gag/aPAYo2w)<!-- MEMES:END -->
 
 ---
 
