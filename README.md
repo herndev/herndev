@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [A short and witty title for Queen](http://9gag.com/gag/aryG3xV)
- - ⏩ [BOO](http://9gag.com/gag/aPAYo5Q)
- - 👉 [Feeling useless](http://9gag.com/gag/ayNBWVy)<!-- MEMES:END -->
+ - 💣 [When the child has to play the role of the parent](http://9gag.com/gag/a0eQXWQ)
+ - ⏩ [Too afraid to ask](http://9gag.com/gag/amoBWMy)
+ - 👉 [Yes, I stole the photo from Unilad. But I need updates. Maybe some degenerate has one?](http://9gag.com/gag/a9yKv0Z)<!-- MEMES:END -->
 
 ---
 
