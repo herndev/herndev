@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Too afraid to ask](http://9gag.com/gag/amoBWMy)
- - ⏩ [PTCM for accuracy](http://9gag.com/gag/a2vZwr9)
- - 👉 [Hand restoration of generator armatures](http://9gag.com/gag/apRm3LB)<!-- MEMES:END -->
+ - 💣 [The beast that beat a European baby has been captured. What punishment would he deserve now?](http://9gag.com/gag/an79OqE)
+ - ⏩ [The level of delusion](http://9gag.com/gag/axyzvPp)
+ - 👉 [Do you have a friend like this?](http://9gag.com/gag/azx9d5m)<!-- MEMES:END -->
 
 ---
 
