@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Hackers turn robot vacs across the US into obscenity-yelling machines](https://www.androidauthority.com/ecovacs-deebot-x2-hacked-3489912/)
- - [The best new streaming shows this week: Disclaimer and more](https://www.androidauthority.com/best-new-tv-shows-to-stream-this-week-3084538/)
- - [The Internet Archive is still down but will return in ‘days, not weeks’](https://www.theverge.com/2024/10/11/24268040/internet-archive-data-breach-outage-hacked)<!-- TECH:END -->
+ - [Here’s what Marques Brownlee is changing to fix his Panels wallpaper app](https://www.androidauthority.com/panels-wallpaper-app-3489990/)
+ - [Casio made a furry robot designed to cuddle and calm you down](https://www.theverge.com/2024/10/11/24268063/casio-robot-pet-moflin)
+ - [Filing: in OpenAI&#39;s $6.6B round, Khosla Ventures invested $405M; the majority or possibly all was pooled from other investors through a special purpose vehicle &lpar;Marina Temkin/TechCrunch&rpar;](http://www.techmeme.com/241011/p23#a241011p23)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
