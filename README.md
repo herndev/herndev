@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [That was tough..](http://9gag.com/gag/aD2122O)
- - ⏩ [Mirov II, the forgotten Soviet supercar](http://9gag.com/gag/aXPYPjP)
- - 👉 [The most powerful nuclear device ever detonated by the United States is captured by a B57-B Canberra from the sky &lpar;1954&rpar;](http://9gag.com/gag/azx92op)<!-- MEMES:END -->
+ - 💣 [Radiate my shirt but not my chickens](http://9gag.com/gag/a0eQojL)
+ - ⏩ [Is this me in my moms basement at 14 years old?](http://9gag.com/gag/apRm1Qp)
+ - 👉 [The &#39;Before&#39; video](http://9gag.com/gag/an79RRb)<!-- MEMES:END -->
 
 ---
 
