@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [When the child has to play the role of the parent](http://9gag.com/gag/a0eQXWQ)
- - ⏩ [Too afraid to ask](http://9gag.com/gag/amoBWMy)
- - 👉 [Yes, I stole the photo from Unilad. But I need updates. Maybe some degenerate has one?](http://9gag.com/gag/a9yKv0Z)<!-- MEMES:END -->
+ - 💣 [Now these are high tension moments! I remember this is exactly how we used to play when I was a kid, back in the 90s, when nobody had cellphones or tablets](http://9gag.com/gag/aPAYo2w)
+ - ⏩ [I love happy endings](http://9gag.com/gag/ae9rVdm)
+ - 👉 [Wholesome 69.](http://9gag.com/gag/aGyZMA5)<!-- MEMES:END -->
 
 ---
 
