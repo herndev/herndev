@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [You must watch this amazing presentation about a bespoke McDonald’s mural](https://www.theverge.com/2024/10/11/24230990/mcdonalds-bespoke-painting-cabel-sasser-wes-cook-xoxo-2024)
- - [Take 45% off the Google Nest Audio, which is rarely on sale](https://www.androidauthority.com/google-nest-audio-deal-2-3489878/)
- - [Amazon knocks up to 50% off latest Beats headphones, Pill Bluetooth speaker](https://appleinsider.com/articles/24/10/11/amazon-knocks-up-to-50-off-latest-beats-headphones-pill-bluetooth-speaker?utm_medium=rss)<!-- TECH:END -->
+ - [Steam now says the ‘game’ you’re buying is really just a license](https://www.theverge.com/2024/10/11/24267864/steam-buy-purchase-license-digital-storefront)
+ - [Apple cancels California DMV permit for self-driving car testing](https://appleinsider.com/articles/24/10/11/apple-cancels-california-dmv-permit-for-self-driving-car-testing?utm_medium=rss)
+ - [Xbox Cloud Gaming will let you stream your own games in November](https://www.theverge.com/2024/10/11/24268038/xbox-cloud-gaming-project-lapland-game-library)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
