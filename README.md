@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Tomb Raider IV-VI Remastered launches Feb 14, 2025](https://blog.playstation.com/2024/10/11/tomb-raider-iv-vi-remastered-launches-feb-14-2025/)
- - [Early Dragon Ball: Sparking! Zero boss fight is so hard that it&amp;#8217;s inspired loads of memes](https://www.polygon.com/gaming/464800/dragon-ball-sparking-zero-great-ape-vegeta-memes)
- - [Nvidia&#39;s RTX 5070 is rumoured for a CES 2025 reveal but I kinda think people need to calm down over its unconfirmed memory specs](https://www.pcgamer.com/hardware/graphics-cards/nvidias-rtx-5070-is-rumoured-for-a-ces-2025-reveal-but-i-kinda-think-people-need-to-calm-down-over-its-unconfirmed-memory-specs)<!-- GAME:END -->
+ - [Next Week on Xbox: New Games for October 14 to 18](https://news.xbox.com/en-us/2024/10/11/next-week-on-xbox-new-games-for-october-14-to-18/)
+ - [Three More Tomb Raider Games Are Getting Remasters In 2025, Including The Most Divisive One](https://kotaku.com/tomb-raider-4-6-remastered-angel-darkness-release-date-1851670508)
+ - [A Disco Elysium successor studio has been announced for the second time today, meaning there are now 4 companies battling for the title of ZA/UM&#39;s true inheritor](https://www.pcgamer.com/games/rpg/a-disco-elysium-successor-studio-has-been-announced-for-the-second-time-today-meaning-there-are-now-4-companies-battling-for-the-title-of-za-ums-true-inheritor)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
