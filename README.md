@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Next Week on Xbox: New Games for October 14 to 18](https://news.xbox.com/en-us/2024/10/11/next-week-on-xbox-new-games-for-october-14-to-18/)
- - [Three More Tomb Raider Games Are Getting Remasters In 2025, Including The Most Divisive One](https://kotaku.com/tomb-raider-4-6-remastered-angel-darkness-release-date-1851670508)
- - [A Disco Elysium successor studio has been announced for the second time today, meaning there are now 4 companies battling for the title of ZA/UM&#39;s true inheritor](https://www.pcgamer.com/games/rpg/a-disco-elysium-successor-studio-has-been-announced-for-the-second-time-today-meaning-there-are-now-4-companies-battling-for-the-title-of-za-ums-true-inheritor)<!-- GAME:END -->
+ - [The Tomb Raider that tried to kill off Lara Croft is getting a remaster](https://www.polygon.com/news/465121/tomb-raider-4-6-remastered-aspyr)
+ - [AI in games might&#39;ve just proven itself useful for a change—Activision claims Call of Duty&#39;s seen a 43% drop in &#39;disruptive voice chat&#39; since the start of the year thanks to its robo-snitch](https://www.pcgamer.com/games/call-of-duty/ai-in-games-mightve-just-proven-itself-useful-for-a-change-activision-claims-call-of-dutys-seen-a-43-percent-drop-in-disruptive-voice-chat-since-the-start-of-the-year-thanks-to-its-robo-snitch)
+ - [Say happy 25th birthday to &#39;the world&#39;s first GPU&#39;, the almighty 120 MHz Nvidia GeForce 256](https://www.pcgamer.com/hardware/graphics-cards/say-happy-25th-birthday-to-the-worlds-first-gpu-the-almighty-120-mhz-nvidia-geforce-256)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
