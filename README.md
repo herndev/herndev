@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Sodium silicate &lpar;Waterglass&rpar; in action](http://9gag.com/gag/aGyZnp7)
- - ⏩ [Woke dude gets humbled immediately](http://9gag.com/gag/a8730gO)
- - 👉 [Accuracy. Obliteration.](http://9gag.com/gag/aGyZ8O0)<!-- MEMES:END -->
+ - 💣 [A short and witty title for Queen](http://9gag.com/gag/aryG3xV)
+ - ⏩ [BOO](http://9gag.com/gag/aPAYo5Q)
+ - 👉 [Feeling useless](http://9gag.com/gag/ayNBWVy)<!-- MEMES:END -->
 
 ---
 
