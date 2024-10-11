@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [AMD launches the 5th Gen Epyc Turin data center chips, with up to 192 cores and clock speeds up to 5GHz, boasting double-digit gains in instructions per clock &lpar;Tobias Mann/The Register&rpar;](http://www.techmeme.com/241010/p31#a241010p31)
- - [Apple Card Savings reaches lowest interest rate yet](https://appleinsider.com/articles/24/10/10/apple-card-savings-reaches-lowest-interest-rate-yet?utm_medium=rss)
- - [Xbox will sell games directly in the Android app next month](https://www.theverge.com/2024/10/10/24267339/microsoft-xbox-android-purchase-games-us-court-ruling)<!-- TECH:END -->
+ - [Glooko, whose diabetes management app is used by more than 4.4M patients and 10K clinics globally, raised a $100M Series F led by Georgian &lpar;Conor Hale/Fierce Biotech&rpar;](http://www.techmeme.com/241010/p33#a241010p33)
+ - [Valve will finally sell the Steam Deck in Australia](https://www.theverge.com/2024/10/10/24267410/valve-steam-deck-australia)
+ - [Microsoft plans to let US users buy and play Xbox games from the Xbox App on Android starting in November, after a judge ordered Google to open up Play Store &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/241010/p32#a241010p32)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
