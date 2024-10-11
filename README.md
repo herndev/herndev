@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [This murder mystery farm sim will let you accidentally romance the killer, but I might just do it on purpose](https://www.pcgamer.com/games/life-sim/this-murder-mystery-farm-sim-will-let-you-accidentally-romance-the-killer-but-i-might-just-do-it-on-purpose)
- - [Playing Echo Point Nova is like diving through someone&#39;s dreams after they&#39;ve played too much Titanfall or Tribes](https://www.pcgamer.com/games/fps/playing-echo-point-nova-is-like-diving-through-someones-dreams-after-theyve-played-too-much-titanfall-or-tribes)
- - [A new Tomb Raider Remastered series is coming in 2025, complete with the game so bad it &#39;almost killed the series&#39;](https://www.pcgamer.com/games/action/a-new-tomb-raider-remastered-series-is-coming-in-2025-complete-with-the-game-so-bad-it-almost-killed-the-series)<!-- GAME:END -->
+ - [The sequel to one of the best murder mystery games ever is only a month away, and there&#39;s a new demo out now](https://www.pcgamer.com/games/puzzle/the-sequel-to-one-of-the-best-murder-mystery-games-ever-is-only-a-month-away-and-theres-a-new-demo-out-now)
+ - [The Little Witcher is a comic collection about having a cool, monster-slaying dad](https://www.polygon.com/gaming/465534/the-little-witcher-book-cd-projekt-red-comics-collection)
+ - [This Road Trip RPG Looks Awesome](https://kotaku.com/keep-driving-road-trip-sim-rpg-chill-steam-trailer-pc-1851671194)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
