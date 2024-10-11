@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [CD Projekt boss pushes back on &#39;conspiracy theories&#39; against diversity in gaming: &#39;We live in times where anyone can record complete nonsense and make a story out of it&#39;](https://www.pcgamer.com/gaming-industry/cd-projekt-boss-pushes-back-on-conspiracy-theories-against-diversity-in-gaming-we-live-in-times-where-anyone-can-record-complete-nonsense-and-make-a-story-out-of-it)
- - [This homebrew plugin that lets you install GOG and Epic games on your Steam Deck is getting a standalone Steam release](https://www.pcgamer.com/games/this-homebrew-plugin-that-lets-you-install-gog-and-epic-games-on-your-steam-deck-is-getting-a-standalone-steam-release)
- - [New California law means digital stores can’t imply you’re buying a game when you’re merely licensing it](https://www.polygon.com/news/457071/new)<!-- GAME:END -->
+ - [Elon Musk shows off bartending robots at a recent Tesla event, but some attendees say the automatons were being controlled by people](https://www.pcgamer.com/hardware/elon-musk-shows-off-bartending-robots-at-a-recent-tesla-event-but-some-attendees-say-the-automatons-were-being-controlled-by-people)
+ - [&#39;That&#39;s what we&#39;re trying to do, be a DM that enables any player&#39;s play style:&#39; Check out the upcoming RPG that&#39;s trying to do Baldur&#39;s Gate 3 in miniature⁠—in more ways than one](https://www.pcgamer.com/games/rpg/thats-what-were-trying-to-do-be-a-dm-that-enables-any-players-play-style-check-out-the-upcoming-rpg-thats-trying-to-do-baldurs-gate-3-in-miniature-in-more-ways-than-one)
+ - [Beetlejuice Beetlejuice, Bad Boys: Ride or Die, Netflix’s Lonely Planet, and every movie new to streaming this week](https://www.polygon.com/entertainment/461016/new-movies-watch-beetlejuice-beetlejuice-netflix-bad-boys-ride-or-die)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
