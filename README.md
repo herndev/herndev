@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Tomb Raider that tried to kill off Lara Croft is getting a remaster](https://www.polygon.com/news/465121/tomb-raider-4-6-remastered-aspyr)
- - [AI in games might&#39;ve just proven itself useful for a change—Activision claims Call of Duty&#39;s seen a 43% drop in &#39;disruptive voice chat&#39; since the start of the year thanks to its robo-snitch](https://www.pcgamer.com/games/call-of-duty/ai-in-games-mightve-just-proven-itself-useful-for-a-change-activision-claims-call-of-dutys-seen-a-43-percent-drop-in-disruptive-voice-chat-since-the-start-of-the-year-thanks-to-its-robo-snitch)
- - [Say happy 25th birthday to &#39;the world&#39;s first GPU&#39;, the almighty 120 MHz Nvidia GeForce 256](https://www.pcgamer.com/hardware/graphics-cards/say-happy-25th-birthday-to-the-worlds-first-gpu-the-almighty-120-mhz-nvidia-geforce-256)<!-- GAME:END -->
+ - [Play Metaphor: ReFantazio Today! Here’s What You Need to Know Before Heading In](https://news.xbox.com/en-us/2024/10/11/metaphor-refantazio-launch/)
+ - [MSI has just dropped a whole host of gorgeously horrible hardware to celebrate Stalker 2&#39;s impending release](https://www.pcgamer.com/hardware/msi-has-just-dropped-a-whole-host-of-gorgeously-horrible-hardware-to-celebrate-stalker-2s-impending-release)
+ - [I Loved Metaphor: ReFantazio’s Relationships, Except The One That Forced Romance](https://kotaku.com/metaphor-refantazio-romance-junah-eupha-strohl-1851670675)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
