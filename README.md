@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Adam Mosseri attributes Instagram and Threads&#39; moderation issues, due to which users lost access to their accounts, to human moderators, not AI systems &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/241011/p19#a241011p19)
- - [X drops Unilever from its ‘advertiser boycott’ lawsuit](https://www.theverge.com/2024/10/11/24267784/x-unilever-lawsuit-advertiser-boycott-garm-elon-musk)
- - [The Motorola Razr Plus 2023 plunges to just $500](https://www.androidauthority.com/motorola-razr-plus-2023-deal-3-3489879/)<!-- TECH:END -->
+ - [These are the best KDE-based Linux distros available right now](https://www.androidauthority.com/best-kde-linux-distros-3489393/)
+ - [T-Mobile Home Internet issue knocks VPNs and gamers offline](https://www.androidauthority.com/t-mobile-home-internet-gateway-firmware-issue-3489876/)
+ - [Imgur is going to be less strict about memes with adult humor](https://www.theverge.com/2024/10/11/24267304/imgur-less-strict-memes-adult-humor-content-moderation-mature)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
