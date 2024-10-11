@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [These are the best KDE-based Linux distros available right now](https://www.androidauthority.com/best-kde-linux-distros-3489393/)
- - [T-Mobile Home Internet issue knocks VPNs and gamers offline](https://www.androidauthority.com/t-mobile-home-internet-gateway-firmware-issue-3489876/)
- - [Imgur is going to be less strict about memes with adult humor](https://www.theverge.com/2024/10/11/24267304/imgur-less-strict-memes-adult-humor-content-moderation-mature)<!-- TECH:END -->
+ - [You must watch this amazing presentation about a bespoke McDonald’s mural](https://www.theverge.com/2024/10/11/24230990/mcdonalds-bespoke-painting-cabel-sasser-wes-cook-xoxo-2024)
+ - [Take 45% off the Google Nest Audio, which is rarely on sale](https://www.androidauthority.com/google-nest-audio-deal-2-3489878/)
+ - [Amazon knocks up to 50% off latest Beats headphones, Pill Bluetooth speaker](https://appleinsider.com/articles/24/10/11/amazon-knocks-up-to-50-off-latest-beats-headphones-pill-bluetooth-speaker?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
