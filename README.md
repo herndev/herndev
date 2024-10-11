@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [There&#39;s a future where you and your graphics card decide what a game looks like, not the developers](https://www.pcgamer.com/hardware/graphics-cards/theres-a-future-where-you-and-your-graphics-card-decide-what-a-game-looks-like-not-the-developers)
- - [Govee Strip Light 2 Pro review](https://www.pcgamer.com/hardware/lighting/govee-strip-light-2-pro-review)
- - [You&#39;ll soon be able to watch a Grand Theft Auto Online production of Hamlet in theatres across the US as Machinima achieves total cultural victory](https://www.pcgamer.com/games/grand-theft-auto/youll-soon-be-able-to-watch-a-grand-theft-auto-online-production-of-hamlet-in-theatres-across-the-us-as-machinima-achieves-total-cultural-victory)<!-- GAME:END -->
+ - [Discover New World: Aeternum – Creative Team Talks Xbox Experience](https://youtu.be/AU9zHf-evJs#new_tab)
+ - [Crucial P310 2 TB NVMe SSD review](https://www.pcgamer.com/hardware/ssds/crucial-p310-2-tb-nvme-ssd-review)
+ - [WD Black SN770M 1 TB NVMe SSD review](https://www.pcgamer.com/hardware/ssds/wd-black-sn770m-1-tb-nvme-ssd-review)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
