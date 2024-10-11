@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [New &#39;Made on iPad&#39; ad showcases how artists make NHL goalie masks](https://appleinsider.com/articles/24/10/11/new-made-on-ipad-ad-showcases-how-artists-make-nhl-goalie-masks?utm_medium=rss)
- - [Experts question the feasibility of Tesla&#39;s robotaxi plan, citing Musk&#39;s history of missing FSD targets, achieving scale without rideshare partnerships, more &lpar;Business Insider&rpar;](http://www.techmeme.com/241011/p15#a241011p15)
- - [Sony Linkbuds Open Review: Better Battery, Softer Sound](https://www.wired.com/review/sony-linkbuds-open/)<!-- TECH:END -->
+ - [Google tries to keep you from leaving Search with new recipe feature](https://www.androidauthority.com/google-search-quick-view-3489845/)
+ - [The Best Game Subscription Services That We&#39;ve Tested &lpar;2024&rpar;](https://www.wired.com/story/best-game-subscriptions/)
+ - [A look at Musk&#39;s unparalleled involvement in the US election; sources: Trump campaign contacted X to prevent the circulation of the hacked JD Vance dossier &lpar;New York Times&rpar;](http://www.techmeme.com/241011/p17#a241011p17)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
