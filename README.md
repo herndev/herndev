@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The &#39;Before&#39; video](http://9gag.com/gag/an79RRb)
- - ⏩ [When the child has to play the role of the parent](http://9gag.com/gag/a0eQXWQ)
- - 👉 [Original picture in comments](http://9gag.com/gag/aPAYAVP)<!-- MEMES:END -->
+ - 💣 [That&#39;s pretty cool](http://9gag.com/gag/aD21ZY9)
+ - ⏩ [Can&#39;t say I&#39;ve tried this one](http://9gag.com/gag/awyAmgQ)
+ - 👉 [Still better than the Rings of Power](http://9gag.com/gag/a9yK5Ko)<!-- MEMES:END -->
 
 ---
 
