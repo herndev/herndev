@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Play Metaphor: ReFantazio Today! Here’s What You Need to Know Before Heading In](https://news.xbox.com/en-us/2024/10/11/metaphor-refantazio-launch/)
- - [MSI has just dropped a whole host of gorgeously horrible hardware to celebrate Stalker 2&#39;s impending release](https://www.pcgamer.com/hardware/msi-has-just-dropped-a-whole-host-of-gorgeously-horrible-hardware-to-celebrate-stalker-2s-impending-release)
- - [I Loved Metaphor: ReFantazio’s Relationships, Except The One That Forced Romance](https://kotaku.com/metaphor-refantazio-romance-junah-eupha-strohl-1851670675)<!-- GAME:END -->
+ - [There&#39;s a future where you and your graphics card decide what a game looks like, not the developers](https://www.pcgamer.com/hardware/graphics-cards/theres-a-future-where-you-and-your-graphics-card-decide-what-a-game-looks-like-not-the-developers)
+ - [Govee Strip Light 2 Pro review](https://www.pcgamer.com/hardware/lighting/govee-strip-light-2-pro-review)
+ - [You&#39;ll soon be able to watch a Grand Theft Auto Online production of Hamlet in theatres across the US as Machinima achieves total cultural victory](https://www.pcgamer.com/games/grand-theft-auto/youll-soon-be-able-to-watch-a-grand-theft-auto-online-production-of-hamlet-in-theatres-across-the-us-as-machinima-achieves-total-cultural-victory)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
