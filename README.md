@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A profile of White House national security adviser Jake Sullivan, who has crafted a strategy to stop China from unseating the US as the world&#39;s tech superpower &lpar;Issie Lapowsky/Wired&rpar;](http://www.techmeme.com/241011/p6#a241011p6)
- - [Richard Mille&#39;s New McLaren Watch Has a ‘Jump Start’ Button](https://www.wired.com/story/richard-mille-rm65-01-mclaren-w1-has-a-jump-start-button/)
- - [Amazon Prime Day: 140+ Extended Prime Day Deals Still Available to Shop Right Now](https://www.cnet.com/deals/best-october-prime-day-sales-2024-10-10/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Motorola Android 15 roadmap revealed, and this 2024 phone isn’t on the list](https://www.androidauthority.com/motorola-android-15-roadmap-3489715/)
+ - [Amazon Prime Day: 140+ Extended Prime Day Deals Still Available to Shop Right Now](https://www.cnet.com/deals/best-october-prime-day-sales-2024-10-11/#ftag=CAD590a51e)
+ - [A profile of White House national security adviser Jake Sullivan, who has crafted a strategy to stop China from unseating the US as the world&#39;s tech superpower &lpar;Issie Lapowsky/Wired&rpar;](http://www.techmeme.com/241011/p6#a241011p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
