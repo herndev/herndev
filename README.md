@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Report: 47% of traditional hedge funds have crypto investments, up from 29% in 2023; among who already invested in crypto, 33% plan for more by the end of 2024 &lpar;Olga Kharif/Bloomberg&rpar;](http://www.techmeme.com/241011/p8#a241011p8)
- - [Today I learned this cool Pixel trick and wanted to share it with you](https://www.androidauthority.com/google-pixel-adjust-flashlight-brightness-3489747/)
- - [Maryland Apple Store staff file for union election](https://appleinsider.com/articles/24/10/11/maryland-apple-store-staff-file-for-union-election?utm_medium=rss)<!-- TECH:END -->
+ - [Some developers say OpenAI&#39;s GPT Store is a mixed bag, with revenue sharing reserved for a tiny number of GPT creators in an invite-only pilot program in the US &lpar;Lauren Goode/Wired&rpar;](http://www.techmeme.com/241011/p9#a241011p9)
+ - [Asus TUF Gaming A14 Review: A Great Budget Gaming Laptop](https://www.wired.com/review/asus-tuf-gaming-a14-2024/)
+ - [Why Hurricane Milton Turned the Sky Purple](https://www.wired.com/story/why-hurricane-milton-turned-the-sky-purple/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
