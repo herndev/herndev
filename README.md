@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google is forced to open up Play Store and the Xbox app is taking full advantage](https://www.androidauthority.com/xbox-android-app-buy-play-games-3489694/)
- - [A review of Submerged, Apple&#39;s first scripted short film shot in Immersive Video for the Vision Pro: technologically impressive, but an isolating experience &lpar;Victoria Song/The Verge&rpar;](http://www.techmeme.com/241011/p5#a241011p5)
- - [Older Pixel Watches are getting a new charging screen](https://www.androidauthority.com/pixel-watch-charging-screen-3489693/)<!-- TECH:END -->
+ - [A profile of White House national security adviser Jake Sullivan, who has crafted a strategy to stop China from unseating the US as the world&#39;s tech superpower &lpar;Issie Lapowsky/Wired&rpar;](http://www.techmeme.com/241011/p6#a241011p6)
+ - [Richard Mille&#39;s New McLaren Watch Has a ‘Jump Start’ Button](https://www.wired.com/story/richard-mille-rm65-01-mclaren-w1-has-a-jump-start-button/)
+ - [Amazon Prime Day: 140+ Extended Prime Day Deals Still Available to Shop Right Now](https://www.cnet.com/deals/best-october-prime-day-sales-2024-10-10/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
