@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Beuwuare of the children of the corn](http://9gag.com/gag/aAy3QMZ)
+ - 💣 [Radiate my shirt but not my chickens](http://9gag.com/gag/a0eQojL)
  - ⏩ [Singapore vs US baggage arrival](http://9gag.com/gag/aLngeBM)
- - 👉 [Blair Adams, 31, told friends that someone was trying to kill him. He left Canada and went on the run. He&#39;d be found murdered just days later on July 11th, 1996, in Knoxville, TN &lpar;around 2,600 miles away from his home&rpar;. His case is still unsolved.](http://9gag.com/gag/aRB14PQ)<!-- MEMES:END -->
+ - 👉 [`In the 1970s, hitchhiking was a common way to get around for those who didn\u2019t have a car or were too young to drive. Sticking out your thumb often led to a ride from a kind stranger, embodying the era&#39;s carefree and adventurous spirit. While hitchhiking seems unthinkable today.](http://9gag.com/gag/a873mGZ)<!-- MEMES:END -->
 
 ---
 
