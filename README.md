@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Every base is base 10](http://9gag.com/gag/aYQYPPN)
- - ⏩ [The &#39;Before&#39; video](http://9gag.com/gag/an79RRb)
+ - 💣 [The &#39;Before&#39; video](http://9gag.com/gag/an79RRb)
+ - ⏩ [I love happy endings](http://9gag.com/gag/ae9rVdm)
  - 👉 [When the child has to play the role of the parent](http://9gag.com/gag/a0eQXWQ)<!-- MEMES:END -->
 
 ---
