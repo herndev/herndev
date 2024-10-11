@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Faulty court filing redactions show TikTok executives were unconcerned with the harms the app poses for teenagers despite internal research validating concerns &lpar;NPR&rpar;](http://www.techmeme.com/241011/p13#a241011p13)
- - [Samsung Galaxy S25 series rumors and leaks: Everything we know so far](https://www.androidauthority.com/samsung-galaxy-s25-3437280/)
- - [Fellow Aiden Coffee Maker Review: A Great Cup Made Simple](https://www.wired.com/review/fellow-aiden-precision-coffee-maker/)<!-- TECH:END -->
+ - [New &#39;Made on iPad&#39; ad showcases how artists make NHL goalie masks](https://appleinsider.com/articles/24/10/11/new-made-on-ipad-ad-showcases-how-artists-make-nhl-goalie-masks?utm_medium=rss)
+ - [Experts question the feasibility of Tesla&#39;s robotaxi plan, citing Musk&#39;s history of missing FSD targets, achieving scale without rideshare partnerships, more &lpar;Business Insider&rpar;](http://www.techmeme.com/241011/p15#a241011p15)
+ - [Sony Linkbuds Open Review: Better Battery, Softer Sound](https://www.wired.com/review/sony-linkbuds-open/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
