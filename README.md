@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [The best FPS of 2024 so far is Echo Point Nova, a $25 hyper mobile co-op shooter I can&#39;t put down](https://www.pcgamer.com/games/fps/the-best-fps-of-2024-so-far-is-echo-point-nova-a-usd25-hyper-mobile-co-op-shooter-i-cant-put-down)
  - [Satisfactory 1.0 finally has mod support, and the revamped mod manager now supports dedicated servers too](https://www.pcgamer.com/games/sim/satisfactory-1-0-finally-has-mod-support-and-the-revamped-mod-manager-now-supports-dedicated-servers-too)
- - [Grand Theft Hamlet, which mixes Shakespeare with GTA Online, is coming to streaming](https://www.polygon.com/entertainment/465008/grand-theft-hamlet-gta-online)
- - [Watch our documentary, The Great Game: The Making of Spycraft](https://www.polygon.com/videos/464690/spycraft-documentary)<!-- GAME:END -->
+ - [Grand Theft Hamlet, which mixes Shakespeare with GTA Online, is coming to streaming](https://www.polygon.com/entertainment/465008/grand-theft-hamlet-gta-online)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
