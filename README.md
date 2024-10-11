@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Now these are high tension moments! I remember this is exactly how we used to play when I was a kid, back in the 90s, when nobody had cellphones or tablets](http://9gag.com/gag/aPAYo2w)
- - ⏩ [I love happy endings](http://9gag.com/gag/ae9rVdm)
- - 👉 [Wholesome 69.](http://9gag.com/gag/aGyZMA5)<!-- MEMES:END -->
+ - 💣 [Just this](http://9gag.com/gag/axyzvbn)
+ - ⏩ [Dude, leave some chicks for us](http://9gag.com/gag/aZZL8oQ)
+ - 👉 [Nice day innit?](http://9gag.com/gag/avy8EEq)<!-- MEMES:END -->
 
 ---
 
