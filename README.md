@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Radiate my shirt but not my chickens](http://9gag.com/gag/a0eQojL)
+ - 💣 [Too afraid to ask](http://9gag.com/gag/amoBWMy)
  - ⏩ [Is this me in my moms basement at 14 years old?](http://9gag.com/gag/apRm1Qp)
- - 👉 [The &#39;Before&#39; video](http://9gag.com/gag/an79RRb)<!-- MEMES:END -->
+ - 👉 [`In the 1970s, hitchhiking was a common way to get around for those who didn\u2019t have a car or were too young to drive. Sticking out your thumb often led to a ride from a kind stranger, embodying the era&#39;s carefree and adventurous spirit. While hitchhiking seems unthinkable today.](http://9gag.com/gag/a873mGZ)<!-- MEMES:END -->
 
 ---
 
