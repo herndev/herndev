@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Halo: Flashpoint, a new miniatures game, has all the right moves](https://www.polygon.com/tabletop-games/464798/halo-flashpoint-review-mantic-miniatures-skirmish)
- - [Metaphor: ReFantazio is the new fastest-selling game in Atlus&#39; history, selling a million copies in its first day](https://www.pcgamer.com/games/rpg/metaphor-refantazio-is-the-new-fastest-selling-game-in-atlus-history-selling-a-million-copies-in-its-first-day)
- - [MSI MAG X870 Tomahawk WiFi review](https://www.pcgamer.com/hardware/motherboards/msi-mag-x870-tomahawk-wifi-review)<!-- GAME:END -->
+ - [Early Dragon Ball: Sparking! Zero boss fight is so hard that it&amp;#8217;s inspired loads of memes](https://www.polygon.com/gaming/464800/dragon-ball-sparking-zero-great-ape-vegeta-memes)
+ - [Nvidia&#39;s RTX 5070 is rumoured for a CES 2025 reveal but I kinda think people need to calm down over its unconfirmed memory specs](https://www.pcgamer.com/hardware/graphics-cards/nvidias-rtx-5070-is-rumoured-for-a-ces-2025-reveal-but-i-kinda-think-people-need-to-calm-down-over-its-unconfirmed-memory-specs)
+ - [The new iPhone&#39;s beta AI has been summarising breakup texts and we can&#39;t figure out if that&#39;s taking the sting or the soul out of interpersonal communication](https://www.pcgamer.com/software/ai/the-new-iphones-beta-ai-has-been-summarising-breakup-texts-and-we-cant-figure-out-if-thats-taking-the-sting-or-the-soul-out-of-interpersonal-communication)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
