@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Steam now says the ‘game’ you’re buying is really just a license](https://www.theverge.com/2024/10/11/24267864/steam-buy-purchase-license-digital-storefront)
- - [Apple cancels California DMV permit for self-driving car testing](https://appleinsider.com/articles/24/10/11/apple-cancels-california-dmv-permit-for-self-driving-car-testing?utm_medium=rss)
- - [Xbox Cloud Gaming will let you stream your own games in November](https://www.theverge.com/2024/10/11/24268038/xbox-cloud-gaming-project-lapland-game-library)<!-- TECH:END -->
+ - [Hackers turn robot vacs across the US into obscenity-yelling machines](https://www.androidauthority.com/ecovacs-deebot-x2-hacked-3489912/)
+ - [The best new streaming shows this week: Disclaimer and more](https://www.androidauthority.com/best-new-tv-shows-to-stream-this-week-3084538/)
+ - [The Internet Archive is still down but will return in ‘days, not weeks’](https://www.theverge.com/2024/10/11/24268040/internet-archive-data-breach-outage-hacked)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
