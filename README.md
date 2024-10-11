@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The beast that beat a European baby has been captured. What punishment would he deserve now?](http://9gag.com/gag/an79OqE)
- - ⏩ [The level of delusion](http://9gag.com/gag/axyzvPp)
- - 👉 [Do you have a friend like this?](http://9gag.com/gag/azx9d5m)<!-- MEMES:END -->
+ - 💣 [Sodium silicate &lpar;Waterglass&rpar; in action](http://9gag.com/gag/aGyZnp7)
+ - ⏩ [Woke dude gets humbled immediately](http://9gag.com/gag/a8730gO)
+ - 👉 [Accuracy. Obliteration.](http://9gag.com/gag/aGyZ8O0)<!-- MEMES:END -->
 
 ---
 
