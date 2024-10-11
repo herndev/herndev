@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Discover New World: Aeternum – Creative Team Talks Xbox Experience](https://youtu.be/AU9zHf-evJs#new_tab)
- - [Crucial P310 2 TB NVMe SSD review](https://www.pcgamer.com/hardware/ssds/crucial-p310-2-tb-nvme-ssd-review)
- - [WD Black SN770M 1 TB NVMe SSD review](https://www.pcgamer.com/hardware/ssds/wd-black-sn770m-1-tb-nvme-ssd-review)<!-- GAME:END -->
+ - [Go Solo or Team up in Starship Troopers: Extermination](https://news.xbox.com/en-us/2024/10/11/go-solo-or-team-up-in-starship-troopers-extermination/)
+ - [The Entire Tomb Raider Franchise Is On Deep Discount Right Now](https://kotaku.com/tomb-raider-sale-netflix-pc-playstation-xbox-switch-1851671022)
+ - [Sega hasn&#39;t made a good Shinobi game in decades but hey Shogun is popular, so we&#39;re getting a Shinobi movie](https://www.pcgamer.com/gaming-industry/sega-hasnt-made-a-good-shinobi-game-in-decades-but-hey-shogun-is-popular-so-were-getting-a-shinobi-movie)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
