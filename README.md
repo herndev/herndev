@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Uniswap Labs unveils Unichain, an Ethereum Layer 2 blockchain built on Optimism tech, to enable faster, cheaper transactions and better liquidity across chains &lpar;Decrypt&rpar;](http://www.techmeme.com/241010/p30#a241010p30)
- - [Darktrace co-founder Poppy Gustafsson, who left last month ahead of the &amp;pound;4.3B takeover of the cybersecurity group, is appointed as the UK&#39;s investment minister &lpar;Financial Times&rpar;](http://www.techmeme.com/241010/p29#a241010p29)
- - [Get a Free Google Nest Doorbell and Cam When You Purchase an ADT Security System Post-Prime Day](https://www.cnet.com/deals/get-a-free-google-nest-doorbell-and-cam-when-you-purchase-an-adt-security-system-post-prime-day/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [AMD launches the 5th Gen Epyc Turin data center chips, with up to 192 cores and clock speeds up to 5GHz, boasting double-digit gains in instructions per clock &lpar;Tobias Mann/The Register&rpar;](http://www.techmeme.com/241010/p31#a241010p31)
+ - [Apple Card Savings reaches lowest interest rate yet](https://appleinsider.com/articles/24/10/10/apple-card-savings-reaches-lowest-interest-rate-yet?utm_medium=rss)
+ - [Xbox will sell games directly in the Android app next month](https://www.theverge.com/2024/10/10/24267339/microsoft-xbox-android-purchase-games-us-court-ruling)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
