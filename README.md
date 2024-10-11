@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Here’s what Marques Brownlee is changing to fix his Panels wallpaper app](https://www.androidauthority.com/panels-wallpaper-app-3489990/)
- - [Casio made a furry robot designed to cuddle and calm you down](https://www.theverge.com/2024/10/11/24268063/casio-robot-pet-moflin)
- - [Filing: in OpenAI&#39;s $6.6B round, Khosla Ventures invested $405M; the majority or possibly all was pooled from other investors through a special purpose vehicle &lpar;Marina Temkin/TechCrunch&rpar;](http://www.techmeme.com/241011/p23#a241011p23)<!-- TECH:END -->
+ - [Boeing is cutting 10 percent of its workforce](https://www.theverge.com/2024/10/11/24268218/boeing-layoffs-10-percent-workforce)
+ - [Investigation: Uber and Lyft lockouts for 800+ NYC drivers occurred almost every hour of every day, saving the companies hundreds of millions of dollars in pay &lpar;Bloomberg&rpar;](http://www.techmeme.com/241011/p24#a241011p24)
+ - [Poll result: Android runs circles around iPhones when it comes to USB-C](https://www.androidauthority.com/iphone-usb-c-poll-3489931/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
