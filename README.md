@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Tesla Cybercab announced: Elon Musk’s robotaxi is finally here](https://www.theverge.com/2024/10/10/24265530/tesla-robotaxi-elon-musk-features-range-price-release-date)
  - [Asahi Linux enables AAA gaming on M-series Macs via a pile of workarounds](https://appleinsider.com/articles/24/10/11/asahi-linux-enables-aaa-gaming-on-m-series-macs-via-a-pile-of-workarounds?utm_medium=rss)
- - [A look at possible outcomes from the Google Search antitrust trial, including the very likely scenario of Google&#39;s default search engine deals being struck down &lpar;Casey Newton/Platformer&rpar;](http://www.techmeme.com/241010/p35#a241010p35)
- - [Tesla’s “We, Robot” robotaxi event: biggest news and announcements](https://www.theverge.com/2024/10/10/24267132/tesla-robotaxi-we-robot-autonomous-fsd-elon-musk)<!-- TECH:END -->
+ - [A look at the possible outcomes of the Google Search antitrust trial, including the very likely scenario that Google&#39;s default search engine deals won&#39;t survive &lpar;Casey Newton/Platformer&rpar;](http://www.techmeme.com/241010/p35#a241010p35)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
