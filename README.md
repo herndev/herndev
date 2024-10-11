@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The sequel to one of the best murder mystery games ever is only a month away, and there&#39;s a new demo out now](https://www.pcgamer.com/games/puzzle/the-sequel-to-one-of-the-best-murder-mystery-games-ever-is-only-a-month-away-and-theres-a-new-demo-out-now)
- - [The Little Witcher is a comic collection about having a cool, monster-slaying dad](https://www.polygon.com/gaming/465534/the-little-witcher-book-cd-projekt-red-comics-collection)
- - [This Road Trip RPG Looks Awesome](https://kotaku.com/keep-driving-road-trip-sim-rpg-chill-steam-trailer-pc-1851671194)<!-- GAME:END -->
+ - [CD Projekt boss pushes back on &#39;conspiracy theories&#39; against diversity in gaming: &#39;We live in times where anyone can record complete nonsense and make a story out of it&#39;](https://www.pcgamer.com/gaming-industry/cd-projekt-boss-pushes-back-on-conspiracy-theories-against-diversity-in-gaming-we-live-in-times-where-anyone-can-record-complete-nonsense-and-make-a-story-out-of-it)
+ - [This homebrew plugin that lets you install GOG and Epic games on your Steam Deck is getting a standalone Steam release](https://www.pcgamer.com/games/this-homebrew-plugin-that-lets-you-install-gog-and-epic-games-on-your-steam-deck-is-getting-a-standalone-steam-release)
+ - [New California law means digital stores can’t imply you’re buying a game when you’re merely licensing it](https://www.polygon.com/news/457071/new)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
