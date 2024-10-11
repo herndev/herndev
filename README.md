@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Assistant on work trip](http://9gag.com/gag/aD21ZB9)
- - ⏩ [This just doesn&#39;t feel right, for some reason](http://9gag.com/gag/aKGxABj)
- - 👉 [Feeling useless](http://9gag.com/gag/ayNBWVy)<!-- MEMES:END -->
+ - 💣 [Every base is base 10](http://9gag.com/gag/aYQYPPN)
+ - ⏩ [Origin meme](http://9gag.com/gag/a6ZO5ne)
+ - 👉 [Wholesome 69.](http://9gag.com/gag/aGyZMA5)<!-- MEMES:END -->
 
 ---
 
