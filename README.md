@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle answer for Friday, October 11](https://www.pcgamer.com/games/puzzle/wordle-answer-today-october-11-2024)
  - [Dragon Ball: Sparking! Zero is trouncing the fighting game competition on Steam, with nearly double Street Fighter 6&#39;s all-time players record](https://www.pcgamer.com/games/fighting/dragon-ball-sparking-zero-is-trouncing-the-fighting-game-competition-on-steam-with-nearly-double-street-fighter-6s-all-time-players-record)
- - [The best FPS of 2024 so far is Echo Point Nova, a $25 hyper mobile co-op shooter I can&#39;t put down](https://www.pcgamer.com/games/fps/the-best-fps-of-2024-so-far-is-echo-point-nova-a-usd25-hyper-mobile-co-op-shooter-i-cant-put-down)
- - [Satisfactory 1.0 finally has mod support, and the revamped mod manager now supports dedicated servers too](https://www.pcgamer.com/games/sim/satisfactory-1-0-finally-has-mod-support-and-the-revamped-mod-manager-now-supports-dedicated-servers-too)<!-- GAME:END -->
+ - [The best FPS of 2024 so far is Echo Point Nova, a $25 hyper mobile co-op shooter I can&#39;t put down](https://www.pcgamer.com/games/fps/the-best-fps-of-2024-so-far-is-echo-point-nova-a-usd25-hyper-mobile-co-op-shooter-i-cant-put-down)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
