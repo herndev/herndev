@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How To Unlock Every Archetype In Metaphor: ReFantazio](https://kotaku.com/metaphor-refantazio-how-to-unlock-archetype-requirement-1851669689)
- - [ATLUS’s Latest Title Metaphor: ReFantazio Releasing Today!](https://blog.playstation.com/2024/10/10/20241011-refantazio/)
- - [Today&#39;s Wordle answer for Friday, October 11](https://www.pcgamer.com/games/puzzle/wordle-answer-today-october-11-2024)<!-- GAME:END -->
+ - [13 beginner’s tips to know before starting Metaphor: ReFantazio](https://www.polygon.com/metaphor-refantazio-guides/463158/beginners-tips-tricks)
+ - [How to increase Eloquence in Metaphor: ReFantazio](https://www.polygon.com/metaphor-refantazio-guides/463373/eloquence-how-to-increase-raise-level-up)
+ - [How to unlock all Followers in Metaphor: ReFantazio](https://www.polygon.com/metaphor-refantazio-guides/463408/followers-all-list-how-to-unlock)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
