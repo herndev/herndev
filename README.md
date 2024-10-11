@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Tomb Raider IV-VI Remastered launches Feb 14, 2025](https://blog.playstation.com/2024/10/11/tomb-raider-iv-vi-remastered-launches-feb-14-2025/)
  - [Early Dragon Ball: Sparking! Zero boss fight is so hard that it&amp;#8217;s inspired loads of memes](https://www.polygon.com/gaming/464800/dragon-ball-sparking-zero-great-ape-vegeta-memes)
- - [Nvidia&#39;s RTX 5070 is rumoured for a CES 2025 reveal but I kinda think people need to calm down over its unconfirmed memory specs](https://www.pcgamer.com/hardware/graphics-cards/nvidias-rtx-5070-is-rumoured-for-a-ces-2025-reveal-but-i-kinda-think-people-need-to-calm-down-over-its-unconfirmed-memory-specs)
- - [The new iPhone&#39;s beta AI has been summarising breakup texts and we can&#39;t figure out if that&#39;s taking the sting or the soul out of interpersonal communication](https://www.pcgamer.com/software/ai/the-new-iphones-beta-ai-has-been-summarising-breakup-texts-and-we-cant-figure-out-if-thats-taking-the-sting-or-the-soul-out-of-interpersonal-communication)<!-- GAME:END -->
+ - [Nvidia&#39;s RTX 5070 is rumoured for a CES 2025 reveal but I kinda think people need to calm down over its unconfirmed memory specs](https://www.pcgamer.com/hardware/graphics-cards/nvidias-rtx-5070-is-rumoured-for-a-ces-2025-reveal-but-i-kinda-think-people-need-to-calm-down-over-its-unconfirmed-memory-specs)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
