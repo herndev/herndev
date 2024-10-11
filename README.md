@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tesla Cybercab announced: Elon Musk’s robotaxi is finally here](https://www.theverge.com/2024/10/10/24265530/tesla-robotaxi-elon-musk-features-range-price-release-date)
- - [Asahi Linux enables AAA gaming on M-series Macs via a pile of workarounds](https://appleinsider.com/articles/24/10/11/asahi-linux-enables-aaa-gaming-on-m-series-macs-via-a-pile-of-workarounds?utm_medium=rss)
- - [A look at the possible outcomes of the Google Search antitrust trial, including the very likely scenario that Google&#39;s default search engine deals won&#39;t survive &lpar;Casey Newton/Platformer&rpar;](http://www.techmeme.com/241010/p35#a241010p35)<!-- TECH:END -->
+ - [Android 15 QPR1 brings another new method to stop your screen shares](https://www.androidauthority.com/android-15-qpr1-stop-screen-shares-3489652/)
+ - [I’ve tested hundreds of smartwatches: Here’s what the most common metrics mean](https://www.androidauthority.com/smartwatches-metrics-meaning-3487615/)
+ - [Elon Musk reveals the Tesla Cybercab, saying &quot;you will be able to buy one&quot; for under $30,000 and that he expects the robotaxi to be in production &quot;before 2027&quot; &lpar;Rebecca Bellan/TechCrunch&rpar;](http://www.techmeme.com/241010/p36#a241010p36)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
