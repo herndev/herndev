@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The girl speaks an artificial interslavic language. I have a question for the Slavs: do you really understand what she says, regardless of nationality?](http://9gag.com/gag/a0eQW6Q)
- - ⏩ [Churches](http://9gag.com/gag/aoyeD2n)
- - 👉 [Sweet Baby CEO held a 20min presentation about how oppressed they are and how to bully people into giving them money, it is going well](http://9gag.com/gag/ajP8Rwp)<!-- MEMES:END -->
+ - 💣 [Suspended](http://9gag.com/gag/a9yKVg6)
+ - ⏩ [Video game physics be like](http://9gag.com/gag/adBL4bV)
+ - 👉 [Do not redeem!](http://9gag.com/gag/a2vZjD9)<!-- MEMES:END -->
 
 ---
 
