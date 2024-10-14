@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [RIP, the rest of the family](http://9gag.com/gag/a6ZO3NL)
- - ⏩ [No title](http://9gag.com/gag/azx94DN)
- - 👉 [Western girls are spoiled. Asian girls know how relationships work!](http://9gag.com/gag/ae9rWXm)<!-- MEMES:END -->
+ - 💣 [10](http://9gag.com/gag/an7987b)
+ - ⏩ [Here comes Medusa](http://9gag.com/gag/aoyennX)
+ - 👉 [SpaceX Super heavy booster caught by Mechazilla arms!](http://9gag.com/gag/aQzRVoz)<!-- MEMES:END -->
 
 ---
 
