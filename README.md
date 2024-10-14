@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Suspended](http://9gag.com/gag/a9yKVg6)
- - ⏩ [Video game physics be like](http://9gag.com/gag/adBL4bV)
- - 👉 [Do not redeem!](http://9gag.com/gag/a2vZjD9)<!-- MEMES:END -->
+ - 💣 [Beep!](http://9gag.com/gag/aXPYKO6)
+ - ⏩ [Does this chick look familiar \ud83e\udd14?](http://9gag.com/gag/aZZLdoX)
+ - 👉 [Balding seems legit](http://9gag.com/gag/avy8mA5)<!-- MEMES:END -->
 
 ---
 
