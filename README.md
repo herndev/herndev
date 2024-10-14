@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Make Your iPhone Battery Last Longer with These Two Easy Tweaks](https://www.cnet.com/tech/mobile/make-your-iphone-battery-last-longer-with-these-two-easy-tweaks/#ftag=CAD590a51e)
  - [How scammers in Southeast Asia are using generative AI, crypto drainers, Starlink terminals, and other tools to expand their pig butchering operations &lpar;Wired&rpar;](http://www.techmeme.com/241013/p8#a241013p8)
- - [4 Great Bread Slicers for Guaranteed Uniform Sandwiches](https://www.cnet.com/news/best-bread-slicers/#ftag=CAD590a51e)
- - [RedCap, the 5G for wearables and IoT, will get its first devices soon](https://www.theverge.com/2024/10/13/24269370/at-t-t-mobile-redcap-5g-explained-iot-devices-coming-soon)<!-- TECH:END -->
+ - [Best Internet Providers in Joplin, Missouri](https://www.cnet.com/home/internet/best-internet-providers-in-joplin-mo/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
