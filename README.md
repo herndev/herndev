@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [The Penguin just dropped another Batman villain into Gotham](https://www.polygon.com/dc/464206/penguin-batman-magpie-villain-who-is-arkham-asylum)
  - [PAX Australia&#39;s cosplay competition was won by a meticulously outfitted Halsin](https://www.pcgamer.com/games/baldurs-gate/pax-australias-cosplay-competition-was-won-by-a-meticulously-outfitted-halsin)
- - [Five new Steam games you probably missed &lpar;October 14, 2024&rpar;](https://www.pcgamer.com/software/platforms/five-new-steam-games-you-probably-missed-october-14-2024)
- - [I can only assume this upcoming Witcher children&#39;s book takes it easy on the folk horror, fantasy racism, and brutal violence I associate with the series](https://www.pcgamer.com/games/the-witcher/i-can-only-assume-this-upcoming-witcher-childrens-book-takes-it-easy-on-the-folk-horror-fantasy-racism-and-brutal-violence-i-associate-with-the-series)<!-- GAME:END -->
+ - [Five new Steam games you probably missed &lpar;October 14, 2024&rpar;](https://www.pcgamer.com/software/platforms/five-new-steam-games-you-probably-missed-october-14-2024)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
