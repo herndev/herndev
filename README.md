@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Beep!](http://9gag.com/gag/aXPYKO6)
- - ⏩ [Does this chick look familiar \ud83e\udd14?](http://9gag.com/gag/aZZLdoX)
- - 👉 [Balding seems legit](http://9gag.com/gag/avy8mA5)<!-- MEMES:END -->
+ - 💣 [RIP, the rest of the family](http://9gag.com/gag/a6ZO3NL)
+ - ⏩ [No title](http://9gag.com/gag/azx94DN)
+ - 👉 [Western girls are spoiled. Asian girls know how relationships work!](http://9gag.com/gag/ae9rWXm)<!-- MEMES:END -->
 
 ---
 
