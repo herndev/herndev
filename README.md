@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Destiny: Rising is a new mobile RPG shooter set in Bungie’s Destiny universe](https://www.theverge.com/2024/10/14/24269790/destiny-rising-mobile-rpg-shooter)
- - [Samsung’s best gaming monitors are on sale!](https://www.androidauthority.com/samsung-odyssey-ark-odyssey-neo-g95nc-odyssey-g9-g95c-odyssey-neo-g7-deals-3489877/)
- - [National Public Data, the FL-based data broker that was hacked and lost hundreds of millions of SSNs and more earlier this year, files for Chapter 11 bankruptcy &lpar;Zack Whittaker/TechCrunch&rpar;](http://www.techmeme.com/241014/p13#a241014p13)<!-- TECH:END -->
+ - [Facebook not working? Here are the most common issues and how to fix them!](https://www.androidauthority.com/facebook-not-working-fix-823530/)
+ - [Deals: The Motorola Razr 2024 and Razr Plus 2024 are at record-low prices](https://www.androidauthority.com/motorola-razr-plus-2024-deals-3490288/)
+ - [Fifth watchOS 11.1, tvOS 18.1, visionOS 2.1 developer betas are out now](https://appleinsider.com/articles/24/10/14/fifth-watchos-111-tvos-181-visionos-21-developer-betas-are-out-now?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
