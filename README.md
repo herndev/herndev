@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Guess the UK city.](http://9gag.com/gag/ayNBQ3q)
- - ⏩ [C. Can&#39;t tell](http://9gag.com/gag/aZZLRr3)
- - 👉 [Bruh](http://9gag.com/gag/amoBpvd)<!-- MEMES:END -->
+ - 💣 [No heteronormativity allowed](http://9gag.com/gag/abAYRdX)
+ - ⏩ [Cashback Time #fforfree](http://9gag.com/gag/aGyZbvG)
+ - 👉 [Unexpected](http://9gag.com/gag/a5QM58g)<!-- MEMES:END -->
 
 ---
 
