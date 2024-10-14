@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Call of Duty: Black Ops 6, Call of Duty: Modern Warfare III and Call of Duty: Warzone Coming to the Cloud with Game Pass on October 25](https://news.xbox.com/en-us/2024/10/14/call-of-duty-coming-to-cloud-october-25/)
- - [Metaphor: ReFantazio’s music is canonically all in the hero’s head — and now I’m in my head about it](https://www.polygon.com/opinion/465517/metaphor-refantazio-music-gallica-spell-in-your-head)
- - [We have Final Fantasy 11 to thank for everything being on Discord, now—the app&#39;s co-creator made its prototype to talk strategy with his MMO buds](https://www.pcgamer.com/games/final-fantasy/we-have-final-fantasy-11-to-thank-for-everything-being-on-discord-now-the-apps-co-creator-made-its-prototype-to-talk-strategy-with-his-mmo-buds)<!-- GAME:END -->
+ - [Lunacid&#39;s Halloween update brings jack-o-lanterns to Wing&#39;s Rest, but most importantly a number of bug fixes and an update on language localization](https://www.pcgamer.com/games/rpg/lunacids-halloween-update-brings-jack-o-lanterns-to-wings-rest-but-most-importantly-a-number-of-bug-fixes-and-an-update-on-language-localization)
+ - [GTA Online Players Kill 430 Million Zombies In Just 3 Days](https://kotaku.com/gta-online-zombies-mode-ludendorff-cemetery-survival-1851672030)
+ - [The official Nintendo Museum appears to be emulating SNES games on a Windows PC, which is slightly embarrassing](https://www.pcgamer.com/hardware/the-official-nintendo-museum-appears-to-be-emulating-snes-games-on-a-windows-pc-which-is-slightly-embarrassing)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
