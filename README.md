@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Joker 2 makes unwanted record](http://9gag.com/gag/aAy3OZE)
- - ⏩ [They f**king nailed it](http://9gag.com/gag/aE02EPo)
- - 👉 [Being a good person mean act decent even when you don&#39;t have to.](http://9gag.com/gag/an79DNb)<!-- MEMES:END -->
+ - 💣 [Here comes Medusa](http://9gag.com/gag/aoyennX)
+ - ⏩ [Cashback Time #fforfree](http://9gag.com/gag/aGyZbvG)
+ - 👉 [Nature\u2019s Harvest: Capturing the Flow of Rubber Sap](http://9gag.com/gag/aVvYV9n)<!-- MEMES:END -->
 
 ---
 
