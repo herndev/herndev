@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Frame.io’s massive productivity update is now available for everyone](https://www.theverge.com/2024/10/14/24269780/frameio-v4-productivity-update-availability-c2c)
- - [Photoshop is getting a bunch of new AI tools](https://www.theverge.com/2024/10/14/24268813/photoshop-distraction-removal-ai-tool-launch)
- - [Adobe’s AI video model is here, and it’s already inside Premiere Pro](https://www.theverge.com/2024/10/14/24268695/adobe-ai-video-generation-firefly-model-premiere-pro)<!-- TECH:END -->
+ - [Fujifilm goes after aspiring vloggers with its new $800 X-M5 camera](https://www.theverge.com/2024/10/14/24269223/fujifilm-xm5-camera-16-55-ii-500mm-lens-announced)
+ - [Duolingo CEO Luis von Ahn wants you addicted to learning](https://www.theverge.com/24267841/luis-von-ahn-duolingo-owl-language-learning-gamification-generative-ai-android-decoder)
+ - [Google TV Streamer compare, hacked robovacs, &amp; iOS 18.1 looms on HomeKit Insider](https://appleinsider.com/articles/24/10/14/google-tv-streamer-compare-hacked-robovacs-ios-181-looms-on-homekit-insider?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
