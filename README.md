@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Play Store could soon make it easy to install apps with long listings &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-play-store-fixed-header-install-button-apk-teardown-3490075/)
- - [Here are all the Gemini Nano features, and the phones that support them](https://www.androidauthority.com/gemini-nano-features-devices-3490062/)
- - [Today&#39;s NYT Strands Hints, Answers and Help for Oct. 14, #225](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-oct-14-225/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [A profile of Ben Nimmo, OpenAI&#39;s principal threat investigator who found evidence that Russia and China were using ChatGPT to sway political discourse online &lpar;Cat Zakrzewski/Washington Post&rpar;](http://www.techmeme.com/241014/p1#a241014p1)
+ - [Best Peloton Alternatives for 2024](https://www.cnet.com/health/fitness/best-peloton-alternative/#ftag=CAD590a51e)
+ - [Google Play Store could soon make it easy to install apps with long listings &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-play-store-fixed-header-install-button-apk-teardown-3490075/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
