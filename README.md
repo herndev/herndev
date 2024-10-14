@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle answer for Monday, October 14](https://www.pcgamer.com/games/puzzle/wordle-answer-today-october-14-2024)
  - [The Penguin just dropped another Batman villain into Gotham](https://www.polygon.com/dc/464206/penguin-batman-magpie-villain-who-is-arkham-asylum)
- - [PAX Australia&#39;s cosplay competition was won by a meticulously outfitted Halsin](https://www.pcgamer.com/games/baldurs-gate/pax-australias-cosplay-competition-was-won-by-a-meticulously-outfitted-halsin)
- - [Five new Steam games you probably missed &lpar;October 14, 2024&rpar;](https://www.pcgamer.com/software/platforms/five-new-steam-games-you-probably-missed-october-14-2024)<!-- GAME:END -->
+ - [PAX Australia&#39;s cosplay competition was won by a meticulously outfitted Halsin](https://www.pcgamer.com/games/baldurs-gate/pax-australias-cosplay-competition-was-won-by-a-meticulously-outfitted-halsin)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
