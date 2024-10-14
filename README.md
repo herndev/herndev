@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A profile of Ben Nimmo, OpenAI&#39;s principal threat investigator who found evidence that Russia and China were using ChatGPT to sway political discourse online &lpar;Cat Zakrzewski/Washington Post&rpar;](http://www.techmeme.com/241014/p1#a241014p1)
- - [Best Peloton Alternatives for 2024](https://www.cnet.com/health/fitness/best-peloton-alternative/#ftag=CAD590a51e)
- - [Google Play Store could soon make it easy to install apps with long listings &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-play-store-fixed-header-install-button-apk-teardown-3490075/)<!-- TECH:END -->
+ - [Another major Android brand will launch its flagship phones this month](https://www.androidauthority.com/honor-magic-7-series-launch-date-3490094/)
+ - [Today&#39;s NYT Mini Crossword Answers for Oct. 14](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-oct-14/#ftag=CAD590a51e)
+ - [A profile of Ben Nimmo, OpenAI&#39;s principal threat investigator who found evidence that Russia and China were using ChatGPT to sway political discourse online &lpar;Cat Zakrzewski/Washington Post&rpar;](http://www.techmeme.com/241014/p1#a241014p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
