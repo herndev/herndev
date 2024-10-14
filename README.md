@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Squirrel With a Gun launches tomorrow – first look at upcoming free updates](https://blog.playstation.com/2024/10/14/squirrel-with-a-gun-launches-tomorrow-first-look-at-upcoming-free-updates/)
- - [Baldur&#39;s Gate 3 Publisher Condemns Scalpers As Collector&#39;s Edition Hits $3,000](https://kotaku.com/baldurs-gate-3-collectors-edition-scalpers-larian-1851671852)
- - [Beelink GTi 12 and EX Docking Station review](https://www.pcgamer.com/hardware/gaming-pcs/beelink-gti-12-and-ex-docking-station-review)<!-- GAME:END -->
+ - [Payday 3 dev reflects on &#39;disastrous&#39; launch—&#39;The game just felt unfinished… it was a bad experience&#39;](https://www.pcgamer.com/games/fps/payday-3-dev-reflects-on-disastrous-launch-the-game-just-felt-unfinished-it-was-a-bad-experience)
+ - [Adata SE920 2 TB external SSD review](https://www.pcgamer.com/hardware/ssds/adata-se920-2-tb-review)
+ - [Leaker suggests the RTX 5090 won&#39;t have a &#39;significant price increase&#39; and even with AMD down for the count here&#39;s how we think the RTX 50-series will line up](https://www.pcgamer.com/hardware/graphics-cards/leaker-suggests-the-rtx-5090-wont-have-a-significant-price-increase-and-even-with-amd-down-for-the-count-heres-how-we-think-the-rtx-50-series-will-line-up)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
