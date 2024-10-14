@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [American Horror Stories, Family Guy’s Halloween special, and more new TV for your week](https://www.polygon.com/tv/461106/new-tv-netflix-family-guy-ahs-lincoln-lawyer)
  - [This upcoming first-person sim puts you in charge of a military base in an alternate future where we&#39;re still fighting World War 2](https://www.pcgamer.com/games/sim/this-upcoming-first-person-sim-puts-you-in-charge-of-a-military-base-in-an-alternate-future-where-were-still-fighting-world-war-2)
- - [A Destiny 2 mobile game has been announced, but it sounds like Bungie&#39;s involvement is minimal](https://www.pcgamer.com/games/fps/a-destiny-2-mobile-game-has-been-announced-but-it-sounds-like-bungies-involvement-is-minimal)
- - [Xbox Partner Preview: See the Latest Games From Our Incredible Partners This Week](https://news.xbox.com/en-us/2024/10/14/xbox-partner-preview-october-2024/)<!-- GAME:END -->
+ - [A Destiny 2 mobile game has been announced, but it sounds like Bungie&#39;s involvement is minimal](https://www.pcgamer.com/games/fps/a-destiny-2-mobile-game-has-been-announced-but-it-sounds-like-bungies-involvement-is-minimal)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
