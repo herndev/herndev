@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Ubisoft keeps up the good work!](http://9gag.com/gag/aPAYn0q)
- - ⏩ [Nature\u2019s Harvest: Capturing the Flow of Rubber Sap](http://9gag.com/gag/aVvYV9n)
+ - 💣 [Dead inside](http://9gag.com/gag/agmnK51)
+ - ⏩ [Do you also have a savings account where you put money to be able buy those in the future?](http://9gag.com/gag/azx9YZN)
  - 👉 [How&#39;s your headgame?](http://9gag.com/gag/aMVZX5G)<!-- MEMES:END -->
 
 ---
