@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Churches](http://9gag.com/gag/aoyeD2n)
- - ⏩ [Beep!](http://9gag.com/gag/aXPYKO6)
- - 👉 [High IQ green protestors trying to block the road](http://9gag.com/gag/aE02Ndx)<!-- MEMES:END -->
+ - 💣 [High IQ green protestors trying to block the road](http://9gag.com/gag/aE02Ndx)
+ - ⏩ [I hope this boy isn&#39;t regretting it right now.](http://9gag.com/gag/agmnE7v)
+ - 👉 [Lol This is so true](http://9gag.com/gag/aO8YpvD)<!-- MEMES:END -->
 
 ---
 
