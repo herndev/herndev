@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Here comes Medusa](http://9gag.com/gag/aoyennX)
- - ⏩ [Technique to avoid spill your drinks](http://9gag.com/gag/aPAYpmg)
- - 👉 [Churches](http://9gag.com/gag/aoyeD2n)<!-- MEMES:END -->
+ - 💣 [High IQ green protestors trying to block the road](http://9gag.com/gag/aE02Ndx)
+ - ⏩ [Here comes Medusa](http://9gag.com/gag/aoyennX)
+ - 👉 [Thousands of Muslims are currently marching in Hamburg Germany demanding that Germany become part of the global Caliphate and introduce Sharia](http://9gag.com/gag/a5QM5OG)<!-- MEMES:END -->
 
 ---
 
