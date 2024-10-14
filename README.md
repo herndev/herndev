@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Over a million players have flooded back into GTA Online to check out a new Call of Duty-like zombie mode](https://www.pcgamer.com/games/grand-theft-auto/over-a-million-players-have-flooded-back-into-gta-online-to-check-out-a-new-call-of-duty-like-zombie-mode)
- - [Pico 4 Ultra review](https://www.pcgamer.com/hardware/vr-hardware/pico-4-ultra-review)
- - [Elon Musk wants your Tesla to have a mind of its own—and that includes driving off without you](https://www.pcgamer.com/hardware/cybercab-robotaxi-robovan)<!-- GAME:END -->
+ - [Squirrel With a Gun launches tomorrow – first look at upcoming free updates](https://blog.playstation.com/2024/10/14/squirrel-with-a-gun-launches-tomorrow-first-look-at-upcoming-free-updates/)
+ - [Baldur&#39;s Gate 3 Publisher Condemns Scalpers As Collector&#39;s Edition Hits $3,000](https://kotaku.com/baldurs-gate-3-collectors-edition-scalpers-larian-1851671852)
+ - [Beelink GTi 12 and EX Docking Station review](https://www.pcgamer.com/hardware/gaming-pcs/beelink-gti-12-and-ex-docking-station-review)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
