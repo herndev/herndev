@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Do you also have a savings account where you put money to be able buy those in the future?](http://9gag.com/gag/azx9YZN)
- - ⏩ [Here comes Medusa](http://9gag.com/gag/aoyennX)
- - 👉 [Bro spitting hard \ud83d\udc80](http://9gag.com/gag/a6ZO8Gq)<!-- MEMES:END -->
+ - 💣 [Churches](http://9gag.com/gag/aoyeD2n)
+ - ⏩ [Beep!](http://9gag.com/gag/aXPYKO6)
+ - 👉 [High IQ green protestors trying to block the road](http://9gag.com/gag/aE02Ndx)<!-- MEMES:END -->
 
 ---
 
