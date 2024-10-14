@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Dead inside](http://9gag.com/gag/agmnK51)
- - ⏩ [Do you also have a savings account where you put money to be able buy those in the future?](http://9gag.com/gag/azx9YZN)
- - 👉 [How&#39;s your headgame?](http://9gag.com/gag/aMVZX5G)<!-- MEMES:END -->
+ - 💣 [Churches](http://9gag.com/gag/aoyeD2n)
+ - ⏩ [It&#39;s pepsi&#39;d](http://9gag.com/gag/aBy0XMO)
+ - 👉 [Balding seems legit](http://9gag.com/gag/avy8mA5)<!-- MEMES:END -->
 
 ---
 
