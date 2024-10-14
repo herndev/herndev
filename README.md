@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Xbox Partner Preview: See the Latest Games From Our Incredible Partners This Week](https://news.xbox.com/en-us/2024/10/14/xbox-partner-preview-october-2024/)
- - [Robot vacuum cleaners are being hacked to spy on your family, chase pets, hurl verbal abuse, and the makers claim users &#39;do not need to worry excessively about this&#39;](https://www.pcgamer.com/hardware/hacked-robovac-oh-my)
- - [Destiny: Rising Announced For Mobile, From Developers Of Diablo Immortal](https://kotaku.com/destiny-rising-bungie-netease-diablo-immortal-1851672108)<!-- GAME:END -->
+ - [This upcoming first-person sim puts you in charge of a military base in an alternate future where we&#39;re still fighting World War 2](https://www.pcgamer.com/games/sim/this-upcoming-first-person-sim-puts-you-in-charge-of-a-military-base-in-an-alternate-future-where-were-still-fighting-world-war-2)
+ - [A Destiny 2 mobile game has been announced, but it sounds like Bungie&#39;s involvement is minimal](https://www.pcgamer.com/games/fps/a-destiny-2-mobile-game-has-been-announced-but-it-sounds-like-bungies-involvement-is-minimal)
+ - [Xbox Partner Preview: See the Latest Games From Our Incredible Partners This Week](https://news.xbox.com/en-us/2024/10/14/xbox-partner-preview-october-2024/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
