@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Here comes Medusa](http://9gag.com/gag/aoyennX)
- - ⏩ [Cashback Time #fforfree](http://9gag.com/gag/aGyZbvG)
- - 👉 [Nature\u2019s Harvest: Capturing the Flow of Rubber Sap](http://9gag.com/gag/aVvYV9n)<!-- MEMES:END -->
+ - 💣 [Would you be able to hold her down ? Linguistically.](http://9gag.com/gag/aPAYX5Q)
+ - ⏩ [Ladies &amp; Gentlemen.........this is some serious sci-fi shit.](http://9gag.com/gag/aBy0oPQ)
+ - 👉 [Thousands of Muslims are currently marching in Hamburg Germany demanding that Germany become part of the global Caliphate and introduce Sharia](http://9gag.com/gag/a5QM5OG)<!-- MEMES:END -->
 
 ---
 
