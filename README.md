@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Payday 3 dev reflects on &#39;disastrous&#39; launch—&#39;The game just felt unfinished… it was a bad experience&#39;](https://www.pcgamer.com/games/fps/payday-3-dev-reflects-on-disastrous-launch-the-game-just-felt-unfinished-it-was-a-bad-experience)
- - [Adata SE920 2 TB external SSD review](https://www.pcgamer.com/hardware/ssds/adata-se920-2-tb-review)
- - [Leaker suggests the RTX 5090 won&#39;t have a &#39;significant price increase&#39; and even with AMD down for the count here&#39;s how we think the RTX 50-series will line up](https://www.pcgamer.com/hardware/graphics-cards/leaker-suggests-the-rtx-5090-wont-have-a-significant-price-increase-and-even-with-amd-down-for-the-count-heres-how-we-think-the-rtx-50-series-will-line-up)<!-- GAME:END -->
+ - [Call of Duty: Black Ops 6, Call of Duty: Modern Warfare III and Call of Duty: Warzone Coming to the Cloud with Game Pass on October 25](https://news.xbox.com/en-us/2024/10/14/call-of-duty-coming-to-cloud-october-25/)
+ - [Metaphor: ReFantazio’s music is canonically all in the hero’s head — and now I’m in my head about it](https://www.polygon.com/opinion/465517/metaphor-refantazio-music-gallica-spell-in-your-head)
+ - [We have Final Fantasy 11 to thank for everything being on Discord, now—the app&#39;s co-creator made its prototype to talk strategy with his MMO buds](https://www.pcgamer.com/games/final-fantasy/we-have-final-fantasy-11-to-thank-for-everything-being-on-discord-now-the-apps-co-creator-made-its-prototype-to-talk-strategy-with-his-mmo-buds)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
