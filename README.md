@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung TVs are now getting One UI, bringing a fresh interface, new features](https://www.androidauthority.com/samsung-tv-one-ui-update-3490148/)
- - [How to Quickly Close All Safari, Chrome and Google Tabs on Your iPhone](https://www.cnet.com/tech/services-and-software/how-to-quickly-close-all-safari-chrome-and-google-tabs-on-your-iphone/#ftag=CAD590a51e)
- - [These Apps Help People With Disabilities Travel Smarter and Safer](https://www.wired.com/story/apps-to-help-people-with-disabilities-travel/)<!-- TECH:END -->
+ - [Frame.io’s massive productivity update is now available for everyone](https://www.theverge.com/2024/10/14/24269780/frameio-v4-productivity-update-availability-c2c)
+ - [Photoshop is getting a bunch of new AI tools](https://www.theverge.com/2024/10/14/24268813/photoshop-distraction-removal-ai-tool-launch)
+ - [Adobe’s AI video model is here, and it’s already inside Premiere Pro](https://www.theverge.com/2024/10/14/24268695/adobe-ai-video-generation-firefly-model-premiere-pro)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
