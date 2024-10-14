@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sebastien Bubeck, Microsoft&#39;s VP of GenAI research who is known for his work on Microsoft&#39;s Phi small language models, is leaving the company to join OpenAI &lpar;Juby Babu/Reuters&rpar;](http://www.techmeme.com/241014/p17#a241014p17)
  - [Pokémon developer faces major data leak](https://www.theverge.com/2024/10/14/24270226/pokemon-game-freak-data-leak-confirmed)
- - [New in iOS 18.1 developer beta 7: Translucent Clock widgets and under-the-hood enhancements](https://appleinsider.com/articles/24/10/14/new-in-ios-181-developer-beta-7-translucent-clock-widgets-and-under-the-hood-enhancements?utm_medium=rss)
- - [Best Buy selling exclusive black &amp; gold Beats Studio Pro headphones](https://appleinsider.com/articles/24/10/14/best-buy-selling-exclusive-black-gold-beats-studio-pro-headphones?utm_medium=rss)<!-- TECH:END -->
+ - [New in iOS 18.1 developer beta 7: Translucent Clock widgets and under-the-hood enhancements](https://appleinsider.com/articles/24/10/14/new-in-ios-181-developer-beta-7-translucent-clock-widgets-and-under-the-hood-enhancements?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
