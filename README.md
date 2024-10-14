@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Boeing is cutting 10 percent of its workforce](https://www.theverge.com/2024/10/11/24268218/boeing-layoffs-10-percent-workforce)
- - [Investigation: Uber and Lyft lockouts for 800+ NYC drivers occurred almost every hour of every day, saving the companies hundreds of millions of dollars in pay &lpar;Bloomberg&rpar;](http://www.techmeme.com/241011/p24#a241011p24)
- - [Poll result: Android runs circles around iPhones when it comes to USB-C](https://www.androidauthority.com/iphone-usb-c-poll-3489931/)<!-- TECH:END -->
+ - [How scammers in Southeast Asia are using generative AI, crypto drainers, Starlink terminals, and other tools to expand their pig butchering operations &lpar;Wired&rpar;](http://www.techmeme.com/241013/p8#a241013p8)
+ - [4 Great Bread Slicers for Guaranteed Uniform Sandwiches](https://www.cnet.com/news/best-bread-slicers/#ftag=CAD590a51e)
+ - [RedCap, the 5G for wearables and IoT, will get its first devices soon](https://www.theverge.com/2024/10/13/24269370/at-t-t-mobile-redcap-5g-explained-iot-devices-coming-soon)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
