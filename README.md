@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [I can only assume this upcoming Witcher children&#39;s book takes it easy on the folk horror, fantasy racism, and brutal violence I associate with the series](https://www.pcgamer.com/games/the-witcher/i-can-only-assume-this-upcoming-witcher-childrens-book-takes-it-easy-on-the-folk-horror-fantasy-racism-and-brutal-violence-i-associate-with-the-series)
- - [Epic wants its Fortnite-Disney metaverse project to be &#39;what every Disney fan has ever wanted,&#39; but don&#39;t expect Mickey Mouse to pick up an assault rifle](https://www.pcgamer.com/gaming-industry/epic-wants-its-fortnite-disney-metaverse-project-to-be-what-every-disney-fan-has-ever-wanted-but-dont-expect-mickey-mouse-to-pick-up-an-assault-rifle)
- - [Check out the micro-strategic base defense action of Thronefall](https://www.pcgamer.com/games/strategy/check-out-the-micro-strategic-base-defense-action-of-thronefall)<!-- GAME:END -->
+ - [PAX Australia&#39;s cosplay competition was won by a meticulously outfitted Halsin](https://www.pcgamer.com/games/baldurs-gate/pax-australias-cosplay-competition-was-won-by-a-meticulously-outfitted-halsin)
+ - [Five new Steam games you probably missed &lpar;October 14, 2024&rpar;](https://www.pcgamer.com/software/platforms/five-new-steam-games-you-probably-missed-october-14-2024)
+ - [I can only assume this upcoming Witcher children&#39;s book takes it easy on the folk horror, fantasy racism, and brutal violence I associate with the series](https://www.pcgamer.com/games/the-witcher/i-can-only-assume-this-upcoming-witcher-childrens-book-takes-it-easy-on-the-folk-horror-fantasy-racism-and-brutal-violence-i-associate-with-the-series)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
