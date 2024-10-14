@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Elon Musk wants your Tesla to have a mind of its own—and that includes driving off without you](https://www.pcgamer.com/hardware/cybercab-robotaxi-robovan)
- - [SpaceX&#39;s Starship &#39;chopstick landing&#39; technique just made every Kerbal Space Program enthusiast go green with envy](https://www.pcgamer.com/hardware/spacexs-starship-chopstick-landing-technique-just-made-every-kerbal-space-program-enthusiast-go-green-with-envy)
- - [Nvidia might be considering using sockets for its next AI mega GPUs but that&#39;s not going to happen with its GeForce graphics cards](https://www.pcgamer.com/hardware/processors/nvidia-might-be-considering-using-sockets-for-its-next-ai-mega-gpus-but-thats-not-going-to-happen-with-its-geforce-graphics-cards)<!-- GAME:END -->
+ - [Over a million players have flooded back into GTA Online to check out a new Call of Duty-like zombie mode](https://www.pcgamer.com/games/grand-theft-auto/over-a-million-players-have-flooded-back-into-gta-online-to-check-out-a-new-call-of-duty-like-zombie-mode)
+ - [Pico 4 Ultra review](https://www.pcgamer.com/hardware/vr-hardware/pico-4-ultra-review)
+ - [Elon Musk wants your Tesla to have a mind of its own—and that includes driving off without you](https://www.pcgamer.com/hardware/cybercab-robotaxi-robovan)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
