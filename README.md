@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Skills in PowerPoint](http://9gag.com/gag/avy8mN5)
- - ⏩ [Here comes Medusa](http://9gag.com/gag/aoyennX)
- - 👉 [Churches](http://9gag.com/gag/aoyeD2n)<!-- MEMES:END -->
+ - 💣 [Guess the UK city.](http://9gag.com/gag/ayNBQ3q)
+ - ⏩ [C. Can&#39;t tell](http://9gag.com/gag/aZZLRr3)
+ - 👉 [Bruh](http://9gag.com/gag/amoBpvd)<!-- MEMES:END -->
 
 ---
 
