@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Vacuum Smarter: Try This Technique for a Cleaner Home](https://www.cnet.com/home/kitchen-and-household/vacuum-smarter-try-this-technique-for-a-cleaner-home/#ftag=CAD590a51e)
- - [Best iPhone 16 Deals: Nab Apple’s Latest-Model Phones for Less](https://www.cnet.com/deals/best-iphone-16-deals/#ftag=CAD590a51e)
- - [Best Internet Providers in Maryland](https://www.cnet.com/home/internet/best-internet-providers-in-maryland/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Here are all the Gemini Nano features, and the phones that support them](https://www.androidauthority.com/gemini-nano-features-devices-3490062/)
+ - [Today&#39;s NYT Strands Hints, Answers and Help for Oct. 14, #225](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-oct-14-225/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Connections Hints, Answers and Help for Oct. 14, #491](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-oct-14-491/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
