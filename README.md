@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [High IQ green protestors trying to block the road](http://9gag.com/gag/aE02Ndx)
+ - 💣 [Do you also have a savings account where you put money to be able buy those in the future?](http://9gag.com/gag/azx9YZN)
  - ⏩ [Here comes Medusa](http://9gag.com/gag/aoyennX)
- - 👉 [Thousands of Muslims are currently marching in Hamburg Germany demanding that Germany become part of the global Caliphate and introduce Sharia](http://9gag.com/gag/a5QM5OG)<!-- MEMES:END -->
+ - 👉 [Bro spitting hard \ud83d\udc80](http://9gag.com/gag/a6ZO8Gq)<!-- MEMES:END -->
 
 ---
 
