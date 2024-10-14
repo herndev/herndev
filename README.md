@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Would you be able to hold her down ? Linguistically.](http://9gag.com/gag/aPAYX5Q)
- - ⏩ [Ladies &amp; Gentlemen.........this is some serious sci-fi shit.](http://9gag.com/gag/aBy0oPQ)
- - 👉 [Thousands of Muslims are currently marching in Hamburg Germany demanding that Germany become part of the global Caliphate and introduce Sharia](http://9gag.com/gag/a5QM5OG)<!-- MEMES:END -->
+ - 💣 [Skills in PowerPoint](http://9gag.com/gag/avy8mN5)
+ - ⏩ [Here comes Medusa](http://9gag.com/gag/aoyennX)
+ - 👉 [Churches](http://9gag.com/gag/aoyeD2n)<!-- MEMES:END -->
 
 ---
 
