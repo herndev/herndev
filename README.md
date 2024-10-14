@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Today&#39;s Wordle answer for Monday, October 14](https://www.pcgamer.com/games/puzzle/wordle-answer-today-october-14-2024)
- - [The Penguin just dropped another Batman villain into Gotham](https://www.polygon.com/dc/464206/penguin-batman-magpie-villain-who-is-arkham-asylum)
- - [PAX Australia&#39;s cosplay competition was won by a meticulously outfitted Halsin](https://www.pcgamer.com/games/baldurs-gate/pax-australias-cosplay-competition-was-won-by-a-meticulously-outfitted-halsin)<!-- GAME:END -->
+ - [Elon Musk wants your Tesla to have a mind of its own—and that includes driving off without you](https://www.pcgamer.com/hardware/cybercab-robotaxi-robovan)
+ - [SpaceX&#39;s Starship &#39;chopstick landing&#39; technique just made every Kerbal Space Program enthusiast go green with envy](https://www.pcgamer.com/hardware/spacexs-starship-chopstick-landing-technique-just-made-every-kerbal-space-program-enthusiast-go-green-with-envy)
+ - [Nvidia might be considering using sockets for its next AI mega GPUs but that&#39;s not going to happen with its GeForce graphics cards](https://www.pcgamer.com/hardware/processors/nvidia-might-be-considering-using-sockets-for-its-next-ai-mega-gpus-but-thats-not-going-to-happen-with-its-geforce-graphics-cards)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
