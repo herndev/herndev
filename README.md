@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Facebook not working? Here are the most common issues and how to fix them!](https://www.androidauthority.com/facebook-not-working-fix-823530/)
- - [Deals: The Motorola Razr 2024 and Razr Plus 2024 are at record-low prices](https://www.androidauthority.com/motorola-razr-plus-2024-deals-3490288/)
- - [Fifth watchOS 11.1, tvOS 18.1, visionOS 2.1 developer betas are out now](https://appleinsider.com/articles/24/10/14/fifth-watchos-111-tvos-181-visionos-21-developer-betas-are-out-now?utm_medium=rss)<!-- TECH:END -->
+ - [Get a free $100 gift card when you purchase a Samsung Galaxy S24 FE](https://www.androidauthority.com/samsung-galaxy-s24-fe-deal-3490287/)
+ - [Sources: Tether talked to several commodities trading firms about lending to them, as it hopes to face fewer regulatory restrictions than traditional lenders &lpar;Bloomberg&rpar;](http://www.techmeme.com/241014/p14#a241014p14)
+ - [Forget Prime Day. Amazon&#39;s 55-Inch Fire TV 4-Series Is Down to Just $340 Today for Prime Members](https://www.cnet.com/deals/forget-prime-day-amazons-55-inch-fire-tv-4-series-is-down-to-just-340-today-for-prime-members/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
