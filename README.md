@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [High IQ green protestors trying to block the road](http://9gag.com/gag/aE02Ndx)
- - ⏩ [I hope this boy isn&#39;t regretting it right now.](http://9gag.com/gag/agmnE7v)
- - 👉 [Lol This is so true](http://9gag.com/gag/aO8YpvD)<!-- MEMES:END -->
+ - 💣 [Joker 2 makes unwanted record](http://9gag.com/gag/aAy3OZE)
+ - ⏩ [Thousands of Muslims are currently marching in Hamburg Germany demanding that Germany become part of the global Caliphate and introduce Sharia](http://9gag.com/gag/a5QM5OG)
+ - 👉 [Here comes Medusa](http://9gag.com/gag/aoyennX)<!-- MEMES:END -->
 
 ---
 
