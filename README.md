@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [10](http://9gag.com/gag/an7987b)
- - ⏩ [Here comes Medusa](http://9gag.com/gag/aoyennX)
- - 👉 [SpaceX Super heavy booster caught by Mechazilla arms!](http://9gag.com/gag/aQzRVoz)<!-- MEMES:END -->
+ - 💣 [Here comes Medusa](http://9gag.com/gag/aoyennX)
+ - ⏩ [Thousands of Muslims are currently marching in Hamburg Germany demanding that Germany become part of the global Caliphate and introduce Sharia](http://9gag.com/gag/a5QM5OG)
+ - 👉 [Churches](http://9gag.com/gag/aoyeD2n)<!-- MEMES:END -->
 
 ---
 
