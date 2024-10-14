@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Every base is base 10](http://9gag.com/gag/aYQYPPN)
- - ⏩ [Origin meme](http://9gag.com/gag/a6ZO5ne)
- - 👉 [Wholesome 69.](http://9gag.com/gag/aGyZMA5)<!-- MEMES:END -->
+ - 💣 [Joker 2 makes unwanted record](http://9gag.com/gag/aAy3OZE)
+ - ⏩ [They f**king nailed it](http://9gag.com/gag/aE02EPo)
+ - 👉 [Being a good person mean act decent even when you don&#39;t have to.](http://9gag.com/gag/an79DNb)<!-- MEMES:END -->
 
 ---
 
