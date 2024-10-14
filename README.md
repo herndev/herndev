@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Cashback Time #fforfree](http://9gag.com/gag/aGyZbvG)
- - ⏩ [SpaceX Super heavy booster caught by Mechazilla arms!](http://9gag.com/gag/aQzRVoz)
- - 👉 [Unexpected](http://9gag.com/gag/a5QM58g)<!-- MEMES:END -->
+ - 💣 [Ubisoft keeps up the good work!](http://9gag.com/gag/aPAYn0q)
+ - ⏩ [Nature\u2019s Harvest: Capturing the Flow of Rubber Sap](http://9gag.com/gag/aVvYV9n)
+ - 👉 [How&#39;s your headgame?](http://9gag.com/gag/aMVZX5G)<!-- MEMES:END -->
 
 ---
 
