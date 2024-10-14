@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Elon Musk shows off bartending robots at a recent Tesla event, but some attendees say the automatons were being controlled by people](https://www.pcgamer.com/hardware/elon-musk-shows-off-bartending-robots-at-a-recent-tesla-event-but-some-attendees-say-the-automatons-were-being-controlled-by-people)
- - [&#39;That&#39;s what we&#39;re trying to do, be a DM that enables any player&#39;s play style:&#39; Check out the upcoming RPG that&#39;s trying to do Baldur&#39;s Gate 3 in miniature⁠—in more ways than one](https://www.pcgamer.com/games/rpg/thats-what-were-trying-to-do-be-a-dm-that-enables-any-players-play-style-check-out-the-upcoming-rpg-thats-trying-to-do-baldurs-gate-3-in-miniature-in-more-ways-than-one)
- - [Beetlejuice Beetlejuice, Bad Boys: Ride or Die, Netflix’s Lonely Planet, and every movie new to streaming this week](https://www.polygon.com/entertainment/461016/new-movies-watch-beetlejuice-beetlejuice-netflix-bad-boys-ride-or-die)<!-- GAME:END -->
+ - [I can only assume this upcoming Witcher children&#39;s book takes it easy on the folk horror, fantasy racism, and brutal violence I associate with the series](https://www.pcgamer.com/games/the-witcher/i-can-only-assume-this-upcoming-witcher-childrens-book-takes-it-easy-on-the-folk-horror-fantasy-racism-and-brutal-violence-i-associate-with-the-series)
+ - [Epic wants its Fortnite-Disney metaverse project to be &#39;what every Disney fan has ever wanted,&#39; but don&#39;t expect Mickey Mouse to pick up an assault rifle](https://www.pcgamer.com/gaming-industry/epic-wants-its-fortnite-disney-metaverse-project-to-be-what-every-disney-fan-has-ever-wanted-but-dont-expect-mickey-mouse-to-pick-up-an-assault-rifle)
+ - [Check out the micro-strategic base defense action of Thronefall](https://www.pcgamer.com/games/strategy/check-out-the-micro-strategic-base-defense-action-of-thronefall)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
