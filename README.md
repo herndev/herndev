@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Rare boss Craig Duncan promoted to Xbox Game Studios chief](https://www.theverge.com/2024/10/14/24269896/microsoft-xbox-game-studios-craig-duncan-promotion)
- - [Samsung rolls out One UI, based on Tizen 8.0, to its smart TVs that were released in 2023, after announcing plans to update the TVs at its developer conference &lpar;Asif Iqbal Shaik/SamMobile&rpar;](http://www.techmeme.com/241014/p11#a241014p11)
- - [Adobe Max 2024: All the major announcements around design and AI](https://www.theverge.com/2024/10/14/24269859/adobe-max-2024-major-announcements-stream)<!-- TECH:END -->
+ - [Save 20% on holiday gifts with this eBay coupon &lpar;bonus: 128 Apple products qualify&rpar;](https://appleinsider.com/articles/24/10/14/save-20-on-holiday-gifts-with-this-ebay-coupon-bonus-128-apple-products-qualify?utm_medium=rss)
+ - [Sources: several researchers at OpenAI have asked to switch teams after Liam Fedus was promoted to lead post-training, following Barret Zoph&#39;s departure &lpar;The Information&rpar;](http://www.techmeme.com/241014/p12#a241014p12)
+ - [Three Call of Duty games are coming to Xbox Cloud Gaming on October 25th](https://www.theverge.com/2024/10/14/24269925/xbox-cloud-gaming-call-of-duty-black-ops-6-warzone-support)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
