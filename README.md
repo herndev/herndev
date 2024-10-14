@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Churches](http://9gag.com/gag/aoyeD2n)
- - ⏩ [It&#39;s pepsi&#39;d](http://9gag.com/gag/aBy0XMO)
- - 👉 [Balding seems legit](http://9gag.com/gag/avy8mA5)<!-- MEMES:END -->
+ - 💣 [Here comes Medusa](http://9gag.com/gag/aoyennX)
+ - ⏩ [Technique to avoid spill your drinks](http://9gag.com/gag/aPAYpmg)
+ - 👉 [Churches](http://9gag.com/gag/aoyeD2n)<!-- MEMES:END -->
 
 ---
 
