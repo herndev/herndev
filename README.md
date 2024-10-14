@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Save 20% on holiday gifts with this eBay coupon &lpar;bonus: 128 Apple products qualify&rpar;](https://appleinsider.com/articles/24/10/14/save-20-on-holiday-gifts-with-this-ebay-coupon-bonus-128-apple-products-qualify?utm_medium=rss)
- - [Sources: several researchers at OpenAI have asked to switch teams after Liam Fedus was promoted to lead post-training, following Barret Zoph&#39;s departure &lpar;The Information&rpar;](http://www.techmeme.com/241014/p12#a241014p12)
- - [Three Call of Duty games are coming to Xbox Cloud Gaming on October 25th](https://www.theverge.com/2024/10/14/24269925/xbox-cloud-gaming-call-of-duty-black-ops-6-warzone-support)<!-- TECH:END -->
+ - [Destiny: Rising is a new mobile RPG shooter set in Bungie’s Destiny universe](https://www.theverge.com/2024/10/14/24269790/destiny-rising-mobile-rpg-shooter)
+ - [Samsung’s best gaming monitors are on sale!](https://www.androidauthority.com/samsung-odyssey-ark-odyssey-neo-g95nc-odyssey-g9-g95c-odyssey-neo-g7-deals-3489877/)
+ - [National Public Data, the FL-based data broker that was hacked and lost hundreds of millions of SSNs and more earlier this year, files for Chapter 11 bankruptcy &lpar;Zack Whittaker/TechCrunch&rpar;](http://www.techmeme.com/241014/p13#a241014p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
