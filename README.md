@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google Play Store could soon make it easy to install apps with long listings &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-play-store-fixed-header-install-button-apk-teardown-3490075/)
  - [Here are all the Gemini Nano features, and the phones that support them](https://www.androidauthority.com/gemini-nano-features-devices-3490062/)
- - [Today&#39;s NYT Strands Hints, Answers and Help for Oct. 14, #225](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-oct-14-225/#ftag=CAD590a51e)
- - [Today&#39;s NYT Connections Hints, Answers and Help for Oct. 14, #491](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-oct-14-491/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Today&#39;s NYT Strands Hints, Answers and Help for Oct. 14, #225](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-oct-14-225/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
