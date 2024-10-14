@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sebastien Bubeck, Microsoft&#39;s VP of GenAI research who is known for his work on Microsoft&#39;s Phi small language models, is leaving the company to join OpenAI &lpar;Juby Babu/Reuters&rpar;](http://www.techmeme.com/241014/p17#a241014p17)
- - [Pokémon developer faces major data leak](https://www.theverge.com/2024/10/14/24270226/pokemon-game-freak-data-leak-confirmed)
- - [New in iOS 18.1 developer beta 7: Translucent Clock widgets and under-the-hood enhancements](https://appleinsider.com/articles/24/10/14/new-in-ios-181-developer-beta-7-translucent-clock-widgets-and-under-the-hood-enhancements?utm_medium=rss)<!-- TECH:END -->
+ - [Google signs an agreement to purchase nuclear energy generated from multiple small modular reactors developed by Kairos Power, targeting 500 MW by 2035 &lpar;Jennifer Hiller/Wall Street Journal&rpar;](http://www.techmeme.com/241014/p19#a241014p19)
+ - [Samsung Care Plus open enrollment offers a second chance to protect your Galaxy](https://www.androidauthority.com/samsung-care-plus-extended-enrollment-3490392/)
+ - [Has iOS finally caught up with Android in terms of customization?](https://www.androidauthority.com/ios-customization-vs-android-3490117/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
