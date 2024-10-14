@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Silo’s new season 2 trailer teases what’s next for Juliette](https://www.theverge.com/2024/10/14/24270184/silo-season-2-trailer)
- - [Apple Car Key to unlock Volvo, Audi, Polestar vehicles soon](https://appleinsider.com/articles/24/10/14/apple-car-key-to-unlock-volvo-audi-polestar-vehicles-soon?utm_medium=rss)
- - [A look at what&#39;s changed since Microsoft acquired Activision Blizzard a year ago: layoffs, exec departures, some Xbox exclusives on PlayStation and Switch, more &lpar;Victoria Kennedy/Eurogamer.net&rpar;](http://www.techmeme.com/241014/p15#a241014p15)<!-- TECH:END -->
+ - [Pokémon developer faces major data leak](https://www.theverge.com/2024/10/14/24270226/pokemon-game-freak-data-leak-confirmed)
+ - [New in iOS 18.1 developer beta 7: Translucent Clock widgets and under-the-hood enhancements](https://appleinsider.com/articles/24/10/14/new-in-ios-181-developer-beta-7-translucent-clock-widgets-and-under-the-hood-enhancements?utm_medium=rss)
+ - [Best Buy selling exclusive black &amp; gold Beats Studio Pro headphones](https://appleinsider.com/articles/24/10/14/best-buy-selling-exclusive-black-gold-beats-studio-pro-headphones?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
