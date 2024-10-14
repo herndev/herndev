@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Lunacid&#39;s Halloween update brings jack-o-lanterns to Wing&#39;s Rest, but most importantly a number of bug fixes and an update on language localization](https://www.pcgamer.com/games/rpg/lunacids-halloween-update-brings-jack-o-lanterns-to-wings-rest-but-most-importantly-a-number-of-bug-fixes-and-an-update-on-language-localization)
- - [GTA Online Players Kill 430 Million Zombies In Just 3 Days](https://kotaku.com/gta-online-zombies-mode-ludendorff-cemetery-survival-1851672030)
- - [The official Nintendo Museum appears to be emulating SNES games on a Windows PC, which is slightly embarrassing](https://www.pcgamer.com/hardware/the-official-nintendo-museum-appears-to-be-emulating-snes-games-on-a-windows-pc-which-is-slightly-embarrassing)<!-- GAME:END -->
+ - [Xbox Partner Preview: See the Latest Games From Our Incredible Partners This Week](https://news.xbox.com/en-us/2024/10/14/xbox-partner-preview-october-2024/)
+ - [Robot vacuum cleaners are being hacked to spy on your family, chase pets, hurl verbal abuse, and the makers claim users &#39;do not need to worry excessively about this&#39;](https://www.pcgamer.com/hardware/hacked-robovac-oh-my)
+ - [Destiny: Rising Announced For Mobile, From Developers Of Diablo Immortal](https://kotaku.com/destiny-rising-bungie-netease-diablo-immortal-1851672108)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
