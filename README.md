@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Instagram enhances its profile sharing QR codes with a &quot;profile card&quot;, showing profile info on the front and, using a flip animation, a QR code on the back &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/241015/p19#a241015p19)
- - [iPhone SE 4 may be what Apple needs to make Apple Intelligence a hit](https://appleinsider.com/articles/24/10/15/iphone-se-4-may-be-what-apple-needs-to-make-apple-intelligence-a-hit?utm_medium=rss)
- - [Today’s hottest smartphone deals come from Samsung and OnePlus](https://www.androidauthority.com/samsung-galaxy-z-flip-6-oneplus-12-deals-3490716/)<!-- TECH:END -->
+ - [Beats partners with Kim Kardashian on new Beats Pill colors](https://appleinsider.com/articles/24/10/15/beats-partners-with-kim-kardashian-on-new-beats-pill-colors?utm_medium=rss)
+ - [The best instant cameras you can buy right now](https://www.theverge.com/23133103/best-instant-cameras-fujifilm-polaroid-kodak)
+ - [Amazon expands its suite of AI-powered ad tools to let US advertisers use generative AI to make audio ads, available now in beta, and unveils AI creative studio &lpar;Kathryn Lundstrom/Adweek&rpar;](http://www.techmeme.com/241015/p22#a241015p22)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
