@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The peak of sniper.](http://9gag.com/gag/avy845n)
- - ⏩ [Old but gold](http://9gag.com/gag/a6ZOxLR)
- - 👉 [Neighbor&#39;s tree encroaching on property](http://9gag.com/gag/aryGzwK)<!-- MEMES:END -->
+ - 💣 [When I Was A Boy..](http://9gag.com/gag/a6ZOx2N)
+ - ⏩ [3rd round failed..](http://9gag.com/gag/adBLdBM)
+ - 👉 [Aaand he`s gone](http://9gag.com/gag/aE02yno)<!-- MEMES:END -->
 
 ---
 
