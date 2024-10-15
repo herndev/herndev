@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Ladies &amp; Gentlemen.........this is some serious sci-fi shit.](http://9gag.com/gag/aBy0oPQ)
- - ⏩ [Technique to avoid spill your drinks](http://9gag.com/gag/aPAYpmg)
- - 👉 [Oh the mimes](http://9gag.com/gag/aoyeqBg)<!-- MEMES:END -->
+ - 💣 [Perfectly packing a fragile product for shipment](http://9gag.com/gag/an79WvE)
+ - ⏩ [The peak of sniper.](http://9gag.com/gag/avy845n)
+ - 👉 [Starlord](http://9gag.com/gag/ae9rygQ)<!-- MEMES:END -->
 
 ---
 
