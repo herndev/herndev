@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Sweaty palms](http://9gag.com/gag/a4PQmD6)
- - ⏩ [Kate Moss passed out at a Diddi GB party. Weird. Anyway. Have fun.. in freedom.. yaaaaay](http://9gag.com/gag/azx9vgp)
- - 👉 [Western girls are spoiled. Asian girls know how relationships work!](http://9gag.com/gag/ae9rWXm)<!-- MEMES:END -->
+ - 💣 [Aaand he`s gone](http://9gag.com/gag/aE02yno)
+ - ⏩ [Hehe](http://9gag.com/gag/azx9Qoj)
+ - 👉 [It&#39;s basically all Poland](http://9gag.com/gag/aLngOLP)<!-- MEMES:END -->
 
 ---
 
