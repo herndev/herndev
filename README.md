@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [3rd round failed..](http://9gag.com/gag/adBLdBM)
- - ⏩ [Come sweet death](http://9gag.com/gag/aVvYRZO)
- - 👉 [Prost](http://9gag.com/gag/aoyeAYX)<!-- MEMES:END -->
+ - 💣 [The peak of sniper.](http://9gag.com/gag/avy845n)
+ - ⏩ [Aaand he`s gone](http://9gag.com/gag/aE02yno)
+ - 👉 [Here comes Medusa](http://9gag.com/gag/aoyennX)<!-- MEMES:END -->
 
 ---
 
