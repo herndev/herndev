@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Check Out Minecraft’s Once Upon a Dr. Seuss DLC](https://www.minecraft.net/en-us/article/once-upon-a-dr-seuss-dlc#new_tab)
- - [9 Demos You Need To Play During This Month’s Steam Next Fest](https://kotaku.com/steam-next-fest-october-2024-best-demos-indie-pc-1851673014)
- - [Garry from Garry&#39;s mod finally gets the ultra-rare achievement for playing with Garry](https://www.pcgamer.com/software/platforms/garry-from-garrys-mod-finally-gets-the-ultra-rare-achievement-for-playing-with-garry)<!-- GAME:END -->
+ - [The Penguin Is About Sofia Falcone, Actually](https://kotaku.com/the-penguin-sofia-falcone-cristin-milioti-cast-1851673041)
+ - [Bandai Namco Reportedly Cancels Nintendo Project And Other Games](https://kotaku.com/bandai-namco-reportedly-cancels-nintendo-project-and-ot-1851673043)
+ - [Dragon Age: The Veilguard won&#39;t have Denuvo, but that means it also won&#39;t have a preload period on PC](https://www.pcgamer.com/games/rpg/dragon-age-the-veilguard-wont-have-denuvo-but-that-means-it-also-wont-have-a-preload-period-on-pc)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
