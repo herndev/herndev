@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [‘Magnetic Study’ Plusle Timed Research and event guide in Pokémon Go](https://www.polygon.com/pokemon-go-guide/465770/magnetic-study-plusle-minun-magnemite-timed-research-event)
- - [Today&#39;s Wordle answer for Tuesday, October 15](https://www.pcgamer.com/games/puzzle/wordle-answer-today-october-15-2024)
- - [Legendary game designer Jordan Weisman&#39;s next project is an open world deck-building pirate romance tactical RPG](https://www.pcgamer.com/games/card-games/legendary-game-designer-jordan-weismans-next-project-is-an-open-world-deck-building-pirate-romance-tactical-rpg)<!-- GAME:END -->
+ - [Overwatch 2 just made it easier to mute and report annoying players in the upcoming Season 13 patch](https://www.pcgamer.com/games/fps/overwatch-2-just-made-it-easier-to-mute-and-report-annoying-players-in-the-upcoming-season-13-patch)
+ - [Excess stock and poor SSD sales look set to pull flash memory prices down by up to 10%](https://www.pcgamer.com/hardware/ssds/excess-stock-and-poor-ssd-sales-look-set-to-pull-flash-memory-prices-down-by-up-to-10-percent)
+ - [‘Magnetic Study’ Plusle Timed Research and event guide in Pokémon Go](https://www.polygon.com/pokemon-go-guide/465770/magnetic-study-plusle-minun-magnemite-timed-research-event)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
