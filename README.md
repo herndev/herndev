@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Terrifier 3 turns the franchise from a cult favorite into a true box office hit](https://www.polygon.com/news/465872/terrifier-3-box-office-total-hit-joker-2-bomb)
- - [Twitch Streamer Asmongold Banned After Racist Rant About Palestinians [Update]](https://kotaku.com/asmongold-twitch-ban-youtube-gaza-israel-hasan-piker-1851672928)
- - [How to tame spirit beast Aradan in World of Warcraft: The War Within](https://www.pcgamer.com/games/world-of-warcraft/how-to-tame-aradan-spirit-beast-pet-war-within)<!-- GAME:END -->
+ - [The next gen of Pokémon may be coming to Switch 2 — and the OG Switch](https://www.polygon.com/news/465913/pokemon-gen-10-gaia-nintendo-switch-2)
+ - [Nintendo Was Reportedly &#39;Upset&#39; About That Creepy Mario Photo From 2016](https://kotaku.com/switch-2-creepy-mario-curtain-image-teaser-nintendo-1851673306)
+ - [Helldivers 2 developer rolls out even more buffs in second big patch](https://www.polygon.com/gaming/465978/helldivers-2-buff-patch-throwables-plasma-tank-mines)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
