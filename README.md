@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Overwatch 2 just made it easier to mute and report annoying players in the upcoming Season 13 patch](https://www.pcgamer.com/games/fps/overwatch-2-just-made-it-easier-to-mute-and-report-annoying-players-in-the-upcoming-season-13-patch)
- - [Excess stock and poor SSD sales look set to pull flash memory prices down by up to 10%](https://www.pcgamer.com/hardware/ssds/excess-stock-and-poor-ssd-sales-look-set-to-pull-flash-memory-prices-down-by-up-to-10-percent)
- - [‘Magnetic Study’ Plusle Timed Research and event guide in Pokémon Go](https://www.polygon.com/pokemon-go-guide/465770/magnetic-study-plusle-minun-magnemite-timed-research-event)<!-- GAME:END -->
+ - [Xbox, Bethesda and the BWT Alpine F1 Team Bring Indiana Jones and the Great Circle to the U.S. Grand Prix](https://news.xbox.com/en-us/2024/10/15/indiana-jones-great-circle-f1-livery-xbox-alpine/)
+ - [Beelink SER9 review](https://www.pcgamer.com/hardware/gaming-pcs/beelink-ser9-review)
+ - [Windows 10 only has a year of support: 12 months left to keep Copilot off your desktop or learn Linux](https://www.pcgamer.com/software/windows/windows-10-only-has-a-year-of-support-12-months-left-to-keep-copilot-off-your-desktop-or-learn-linux)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
