@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Messages could soon fix this big profile discovery privacy oversight &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-messages-profile-discovery-privacy-apk-teardown-3490456/)
- - [PSA: Scammers are posing as Google to takeover your Gmail account](https://www.androidauthority.com/gmail-account-takeover-scam-ai-3490454/)
- - [In a report, China&#39;s cybersecurity agency rejects US and Microsoft claims that Chinese hackers were behind Volt Typhoon, calling the claims a &quot;political farce&quot; &lpar;Bloomberg&rpar;](http://www.techmeme.com/241014/p24#a241014p24)<!-- TECH:END -->
+ - [Analysis: since ChatGPT&#39;s launch about two years ago, the US DOD has awarded ~$670M in contracts to ~323 companies for AI projects, up 20% from 2021 and 2022 &lpar;Kali Hays/Fortune&rpar;](http://www.techmeme.com/241015/p1#a241015p1)
+ - [Today&#39;s NYT Mini Crossword Answers for Oct. 15](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-oct-15/#ftag=CAD590a51e)
+ - [Google Messages could soon fix this big profile discovery privacy oversight &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-messages-profile-discovery-privacy-apk-teardown-3490456/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
