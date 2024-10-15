@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Kate Moss passed out at a Diddi GB party. Weird. Anyway. Have fun.. in freedom.. yaaaaay](http://9gag.com/gag/azx9vgp)
- - ⏩ [Aaand he`s gone](http://9gag.com/gag/aE02yno)
- - 👉 [Scuba Divers hear a Sonar `Ping` from deep in the Ocean](http://9gag.com/gag/azx9Bpj)<!-- MEMES:END -->
+ - 💣 [Happy Tetten Tuesday](http://9gag.com/gag/ae9rE45)
+ - ⏩ [Same video, same child, same cameraman, same actors, same scene. Same clothes, same haircut, Different location. Propaganda is something the `Palestinians` are good at.](http://9gag.com/gag/aryGDj6)
+ - 👉 [By far the best available POV of SpaceX Starship Rocket landing.](http://9gag.com/gag/aO8YOAv)<!-- MEMES:END -->
 
 ---
 
