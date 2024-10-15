@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Penguin Is About Sofia Falcone, Actually](https://kotaku.com/the-penguin-sofia-falcone-cristin-milioti-cast-1851673041)
- - [Bandai Namco Reportedly Cancels Nintendo Project And Other Games](https://kotaku.com/bandai-namco-reportedly-cancels-nintendo-project-and-ot-1851673043)
- - [Dragon Age: The Veilguard won&#39;t have Denuvo, but that means it also won&#39;t have a preload period on PC](https://www.pcgamer.com/games/rpg/dragon-age-the-veilguard-wont-have-denuvo-but-that-means-it-also-wont-have-a-preload-period-on-pc)<!-- GAME:END -->
+ - [Terrifier 3 turns the franchise from a cult favorite into a true box office hit](https://www.polygon.com/news/465872/terrifier-3-box-office-total-hit-joker-2-bomb)
+ - [Twitch Streamer Asmongold Banned After Racist Rant About Palestinians [Update]](https://kotaku.com/asmongold-twitch-ban-youtube-gaza-israel-hasan-piker-1851672928)
+ - [How to tame spirit beast Aradan in World of Warcraft: The War Within](https://www.pcgamer.com/games/world-of-warcraft/how-to-tame-aradan-spirit-beast-pet-war-within)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
