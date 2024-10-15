@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Post](http://9gag.com/gag/aAy3mgp)
- - ⏩ [Thankfully!](http://9gag.com/gag/avy8mKZ)
- - 👉 [When I Was A Boy..](http://9gag.com/gag/a6ZOx2N)<!-- MEMES:END -->
+ - 💣 [When I Was A Boy..](http://9gag.com/gag/a6ZOx2N)
+ - ⏩ [Yeah, they&#39;re a selfish bunch. But can&#39;t he just be glad how happy he made one of them?](http://9gag.com/gag/aQzRVbW)
+ - 👉 [10](http://9gag.com/gag/an7987b)<!-- MEMES:END -->
 
 ---
 
