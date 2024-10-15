@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Ward Christensen, co-inventor of the BBS and internet pioneer, has died](https://www.pcgamer.com/games/ward-christensen-co-inventor-of-the-bbs-and-internet-pioneer-has-died)
  - [Diablo 4 players dust off the other keys on their keyboards as Blizzard prepares to kill the one-button spiritborn build this week](https://www.pcgamer.com/games/rpg/diablo-4-players-dust-off-the-other-keys-on-their-keyboards-as-blizzard-prepares-to-kill-the-one-button-spiritborn-build-this-week)
- - [Asmongold suspended from Twitch following racist tirade about Palestinians](https://www.pcgamer.com/hardware/streaming/asmongold-suspended-from-twitch-following-racist-tirade-about-palestinians)
- - [I&#39;m So Happy Scare Tactics Is Back Just In Time For Halloween](https://kotaku.com/scare-tactics-usa-return-jordan-peele-review-syfy-ep1-1851673382)<!-- GAME:END -->
+ - [Asmongold suspended from Twitch following racist tirade about Palestinians](https://www.pcgamer.com/hardware/streaming/asmongold-suspended-from-twitch-following-racist-tirade-about-palestinians)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
