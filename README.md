@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [When I Was A Boy..](http://9gag.com/gag/a6ZOx2N)
- - ⏩ [Yeah, they&#39;re a selfish bunch. But can&#39;t he just be glad how happy he made one of them?](http://9gag.com/gag/aQzRVbW)
+ - 💣 [Diversity gone](http://9gag.com/gag/aQzRBZ2)
+ - ⏩ [Churches](http://9gag.com/gag/aoyeD2n)
  - 👉 [10](http://9gag.com/gag/an7987b)<!-- MEMES:END -->
 
 ---
