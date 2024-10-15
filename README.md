@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Prost](http://9gag.com/gag/aoyeAYX)
- - ⏩ [When I Was A Boy..](http://9gag.com/gag/a6ZOx2N)
- - 👉 [Kate Moss passed out at a Diddi GB party. Weird. Anyway. Have fun.. in freedom.. yaaaaay](http://9gag.com/gag/azx9vgp)<!-- MEMES:END -->
+ - 💣 [Poor Grandpa](http://9gag.com/gag/aE02bqx)
+ - ⏩ [Sweaty palms](http://9gag.com/gag/a4PQmD6)
+ - 👉 [*sigh*](http://9gag.com/gag/aBy0MPz)<!-- MEMES:END -->
 
 ---
 
