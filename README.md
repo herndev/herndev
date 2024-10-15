@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Deloitte expects chip industry revenue to grow 16% YoY in 2024 to a record $611B, and to reach $1T by 2030, despite the industry facing a talent shortage &lpar;Dean Takahashi/VentureBeat&rpar;](http://www.techmeme.com/241015/p2#a241015p2)
- - [Want to Get Free COVID-19 Tests from USPS? It Takes Only 2 Minutes](https://www.cnet.com/health/want-to-get-free-covid-19-tests-from-usps-it-only-takes-2-minutes/#ftag=CAD590a51e)
- - [Up to 65% Off Walmart Promo Codes - October 2024](https://www.wired.com/story/top-walmart-promo-codes/)<!-- TECH:END -->
+ - [Ward Christensen, co-inventor of the computer bulletin board system &lpar;BBS&rpar;, a foundational technology of the internet age, died at age 78 on October 11 &lpar;Benj Edwards/Ars Technica&rpar;](http://www.techmeme.com/241015/p4#a241015p4)
+ - [UK podcaster Harry Stebbings&#39; 20VC raised a $400M fund for early stage startups, one of Europe&#39;s biggest venture funds; the podcast recently hosted Sam Altman &lpar;Tim Bradshaw/Financial Times&rpar;](http://www.techmeme.com/241015/p3#a241015p3)
+ - [Best Savings Rates Today, Oct. 15, 2024: Take Advantage of High Interest Rates While You Still Can](https://www.cnet.com/personal-finance/banking/todays-best-savings-rates-oct-15-2024/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
