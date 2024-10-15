@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The FCC is looking into the impact of broadband data caps and why they still exist](https://www.theverge.com/2024/10/15/24271148/fcc-data-cap-impact-consumers-inquiry)
- - [Trump-backed World Liberty Financial crypto project gets off to a bumpy start, as its website crashes and WLFI token sales fall far short of the $300M target &lpar;CoinDesk&rpar;](http://www.techmeme.com/241015/p33#a241015p33)
- - [ASUS unveils Android 15 Preview Program for ROG Phone 8](https://www.androidauthority.com/rog-phone-8-android-15-3490914/)<!-- TECH:END -->
+ - [Android 15’s app archiving feature works with all Android apps, unlike the Play Store’s version](https://www.androidauthority.com/android-15-app-archiving-apks-3490945/)
+ - [Gemini will soon let you create images in the shapes and sizes you want &lpar;APK teardown&rpar;](https://www.androidauthority.com/gemini-image-resizing-3490905/)
+ - [The best fitness trackers to buy right now](https://www.theverge.com/22985108/best-fitness-tracker)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
