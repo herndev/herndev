@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Lets keep this alive, my 9Gag brothers and sisters!](http://9gag.com/gag/aAy3NrE)
- - ⏩ [It&#39;s in our hearts, right?](http://9gag.com/gag/a7o36D2)
- - 👉 [It&#39;s basically all Poland](http://9gag.com/gag/aLngOLP)<!-- MEMES:END -->
+ - 💣 [The peak of sniper.](http://9gag.com/gag/avy845n)
+ - ⏩ [Old but gold](http://9gag.com/gag/a6ZOxLR)
+ - 👉 [Neighbor&#39;s tree encroaching on property](http://9gag.com/gag/aryGzwK)<!-- MEMES:END -->
 
 ---
 
