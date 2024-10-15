@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Black Ops 6 Audio — A More Detailed, Dynamic Soundscape](https://www.callofduty.com/blog/2024/10/call-of-duty-black-ops-6-dynamic-soundscape-audio-intel#new_tab)
- - [Dimension 20 is going on a West Coast tour](https://www.polygon.com/news/465862/dimension-20-west-coast-tour-2025)
- - [Twitch Streamer Asmongold Banned After Racist Rant About Palestinians](https://kotaku.com/asmongold-twitch-ban-youtube-gaza-israel-hasan-piker-1851672928)<!-- GAME:END -->
+ - [Check Out Minecraft’s Once Upon a Dr. Seuss DLC](https://www.minecraft.net/en-us/article/once-upon-a-dr-seuss-dlc#new_tab)
+ - [9 Demos You Need To Play During This Month’s Steam Next Fest](https://kotaku.com/steam-next-fest-october-2024-best-demos-indie-pc-1851673014)
+ - [Garry from Garry&#39;s mod finally gets the ultra-rare achievement for playing with Garry](https://www.pcgamer.com/software/platforms/garry-from-garrys-mod-finally-gets-the-ultra-rare-achievement-for-playing-with-garry)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
