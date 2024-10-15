@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Xbox, Bethesda and the BWT Alpine F1 Team Bring Indiana Jones and the Great Circle to the U.S. Grand Prix](https://news.xbox.com/en-us/2024/10/15/indiana-jones-great-circle-f1-livery-xbox-alpine/)
- - [Beelink SER9 review](https://www.pcgamer.com/hardware/gaming-pcs/beelink-ser9-review)
- - [Windows 10 only has a year of support: 12 months left to keep Copilot off your desktop or learn Linux](https://www.pcgamer.com/software/windows/windows-10-only-has-a-year-of-support-12-months-left-to-keep-copilot-off-your-desktop-or-learn-linux)<!-- GAME:END -->
+ - [Coming to Game Pass: Call of Duty: Black Ops 6, StarCraft &amp; StarCraft II, and More](https://news.xbox.com/en-us/2024/10/15/xbox-game-pass-october-2024-wave-2/)
+ - [Matt Mercer, Deborah Ann Woll, other professional DMs helped write the new Dungeon Master’s Guide](https://www.polygon.com/dnd-dungeons-dragons/465448/matt-mercer-deborah-ann-woll-consultants-dmg-dungeon-masters-guide)
+ - [How to Get Started in New World Aeternum](https://kotaku.com/new-world-aeternum-classes-attribute-points-consumables-1851669856)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
