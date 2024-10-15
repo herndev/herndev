@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [This screensaver turns your Pixel into a smart home control panel](https://www.theverge.com/2024/10/15/24270909/android-15-smart-home-control-screensaver-pixel-tablet)
- - [The amazing Anker Prime 27,650mAh Power Bank is $60 off!](https://www.androidauthority.com/anker-prime-27650mah-power-bank-250w-deal-3490714/)
- - [Court filing: VMware agrees to pay $102.5M to settle a securities fraud class action lawsuit that could apply to those who traded its stock from 2018 to 2020 &lpar;Brandon Vigliarolo/The Register&rpar;](http://www.techmeme.com/241015/p26#a241015p26)<!-- TECH:END -->
+ - [Meta rolls out &quot;activity status&quot; to Threads that shows a green dot next to a user&#39;s profile picture to show the user is online, if they have the feature enabled &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/241015/p27#a241015p27)
+ - [Google Chrome’s uBlock Origin phaseout has begun](https://www.theverge.com/2024/10/15/24270981/google-chrome-ublock-origin-phaseout-manifest-v3-ad-blocker)
+ - [New beta firmware for AirPods Pro 2 released ahead of iOS 18.1 launch](https://appleinsider.com/articles/24/10/15/new-beta-firmware-for-airpods-pro-2-released-ahead-of-ios-181-launch?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
