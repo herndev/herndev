@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple and Samsung are neck-and-neck, and Xiaomi isn’t far behind](https://www.androidauthority.com/canalys-q3-2024-smartphone-market-share-results-3490476/)
  - [Analysis: since ChatGPT&#39;s launch about two years ago, the US DOD has awarded ~$670M in contracts to ~323 companies for AI projects, up 20% from 2021 and 2022 &lpar;Kali Hays/Fortune&rpar;](http://www.techmeme.com/241015/p1#a241015p1)
- - [Today&#39;s NYT Mini Crossword Answers for Oct. 15](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-oct-15/#ftag=CAD590a51e)
- - [Google Messages could soon fix this big profile discovery privacy oversight &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-messages-profile-discovery-privacy-apk-teardown-3490456/)<!-- TECH:END -->
+ - [Save Up to 87% on Surfshark VPN and Get a Free Extra Four Months Across All Plans](https://www.cnet.com/deals/save-up-to-87-on-surfshark-vpn-and-get-a-free-extra-four-months-across-all-plans/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
