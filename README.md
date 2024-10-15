@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to use Mission Control on Mac to enhance your productivity](https://appleinsider.com/inside/macos/tips/how-to-use-mission-control-on-mac-to-enhance-your-productivity?utm_medium=rss)
- - [FIDO Alliance announces Credential Exchange Protocol, a specification to make passkeys portable across systems, and Passkey Central, a resource website for devs &lpar;Lily Hay Newman/Wired&rpar;](http://www.techmeme.com/241014/p23#a241014p23)
- - [Sources: the US mulls capping AI chip sales from Nvidia and others on a country-specific basis, with a focus on the Middle East, for national security reasons &lpar;Mackenzie Hawkins/Bloomberg&rpar;](http://www.techmeme.com/241014/p22#a241014p22)<!-- TECH:END -->
+ - [PSA: Scammers are posing as Google to takeover your Gmail account](https://www.androidauthority.com/gmail-account-takeover-scam-ai-3490454/)
+ - [In a report, China&#39;s cybersecurity agency rejects US and Microsoft claims that Chinese hackers were behind Volt Typhoon, calling the claims a &quot;political farce&quot; &lpar;Bloomberg&rpar;](http://www.techmeme.com/241014/p24#a241014p24)
+ - [How to use Mission Control on Mac to enhance your productivity](https://appleinsider.com/inside/macos/tips/how-to-use-mission-control-on-mac-to-enhance-your-productivity?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
