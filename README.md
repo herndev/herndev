@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google Messages could soon fix this big profile discovery privacy oversight &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-messages-profile-discovery-privacy-apk-teardown-3490456/)
  - [PSA: Scammers are posing as Google to takeover your Gmail account](https://www.androidauthority.com/gmail-account-takeover-scam-ai-3490454/)
- - [In a report, China&#39;s cybersecurity agency rejects US and Microsoft claims that Chinese hackers were behind Volt Typhoon, calling the claims a &quot;political farce&quot; &lpar;Bloomberg&rpar;](http://www.techmeme.com/241014/p24#a241014p24)
- - [How to use Mission Control on Mac to enhance your productivity](https://appleinsider.com/inside/macos/tips/how-to-use-mission-control-on-mac-to-enhance-your-productivity?utm_medium=rss)<!-- TECH:END -->
+ - [In a report, China&#39;s cybersecurity agency rejects US and Microsoft claims that Chinese hackers were behind Volt Typhoon, calling the claims a &quot;political farce&quot; &lpar;Bloomberg&rpar;](http://www.techmeme.com/241014/p24#a241014p24)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
