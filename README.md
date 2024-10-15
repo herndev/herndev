@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Coming to Game Pass: Call of Duty: Black Ops 6, StarCraft &amp; StarCraft II, and More](https://news.xbox.com/en-us/2024/10/15/xbox-game-pass-october-2024-wave-2/)
- - [Matt Mercer, Deborah Ann Woll, other professional DMs helped write the new Dungeon Master’s Guide](https://www.polygon.com/dnd-dungeons-dragons/465448/matt-mercer-deborah-ann-woll-consultants-dmg-dungeon-masters-guide)
- - [How to Get Started in New World Aeternum](https://kotaku.com/new-world-aeternum-classes-attribute-points-consumables-1851669856)<!-- GAME:END -->
+ - [Announcing PlayStation The Concert – World Tour 2025-2026](https://blog.playstation.com/2024/10/15/announcing-playstation-the-concert-world-tour-2025-2026/)
+ - [Getting To Grips With Dragon Ball: Sparkling Zero&#39;s Wish-Granting Dragons](https://kotaku.com/dragon-ball-sparkling-zero-summoning-wishes-shenron-1851672547)
+ - [The Halloween Countdown: 31 days of horror to watch](https://www.polygon.com/what-to-watch/452010/best-halloween-horror-movies-tv-watch-stream)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
