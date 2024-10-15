@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [When I ask how delusional can people be, I don&#39;t mean it as a challenge.](http://9gag.com/gag/aXPYzYD)
- - ⏩ [Starlord](http://9gag.com/gag/ae9rygQ)
- - 👉 [Wall art w/ human blend](http://9gag.com/gag/aQzRKAw)<!-- MEMES:END -->
+ - 💣 [Kate Moss passed out at a Diddi GB party. Weird. Anyway. Have fun.. in freedom.. yaaaaay](http://9gag.com/gag/azx9vgp)
+ - ⏩ [Aaand he`s gone](http://9gag.com/gag/aE02yno)
+ - 👉 [Scuba Divers hear a Sonar `Ping` from deep in the Ocean](http://9gag.com/gag/azx9Bpj)<!-- MEMES:END -->
 
 ---
 
