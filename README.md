@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ward Christensen, co-inventor of the computer bulletin board system &lpar;BBS&rpar;, a foundational technology of the internet age, died at age 78 on October 11 &lpar;Benj Edwards/Ars Technica&rpar;](http://www.techmeme.com/241015/p4#a241015p4)
- - [UK podcaster Harry Stebbings&#39; 20VC raised a $400M fund for early stage startups, one of Europe&#39;s biggest venture funds; the podcast recently hosted Sam Altman &lpar;Tim Bradshaw/Financial Times&rpar;](http://www.techmeme.com/241015/p3#a241015p3)
- - [Best Savings Rates Today, Oct. 15, 2024: Take Advantage of High Interest Rates While You Still Can](https://www.cnet.com/personal-finance/banking/todays-best-savings-rates-oct-15-2024/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [You can now watch Apple TV Plus content on Amazon Prime Video &lpar;Update&rpar;](https://www.androidauthority.com/apple-tv-plus-content-amazon-prime-video-3489377/)
+ - [The US awards $750M to Wolfspeed, which makes EV chips, alongside $750M in financing led by Apollo to build new $6B+ factories in North Carolina and New York &lpar;Bloomberg&rpar;](http://www.techmeme.com/241015/p7#a241015p7)
+ - [YouTube Music could finally bring this basic feature Spotify has had for years](https://www.androidauthority.com/youtube-music-custom-playlist-thumbnails-soon-3490526/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
