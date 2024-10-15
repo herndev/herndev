@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Doctor Behind the ‘Suicide Pod’ Wants AI to Assist at the End of Life](https://www.wired.com/story/the-doctor-behind-the-suicide-pod-wants-ai-to-assist-at-the-end-of-life/)
- - [Spotify starts rolling out music videos in beta for Premium subscribers in 85 additional markets, after introducing the feature in 12 markets earlier in 2024 &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/241015/p10#a241015p10)
- - [WordPress plugin Jetpack releases a critical security update to fix a bug letting logged-in users access forms from website visitors, in all versions since 2016 &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/241015/p9#a241015p9)<!-- TECH:END -->
+ - [Apple just announced a new, faster iPad Mini](https://www.theverge.com/2024/10/15/24268079/apple-ipad-mini-2024-specs-price)
+ - [Oura Ring 4 Review: A More Accurate and Wearable Smart Ring](https://www.wired.com/review/oura-ring-4/)
+ - [Future Passkeys will be able to be shared across platforms &amp; password vaults](https://appleinsider.com/articles/24/10/15/future-passkeys-will-be-able-to-be-shared-across-platforms-password-vaults?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
