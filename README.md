@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Squirrel With A Gun is Out Today – and it’s Much More Than Just an Action-Shooter](https://news.xbox.com/en-us/2024/10/15/squirrel-with-a-gun-is-out-today-and-its-much-more-than-just-an-action-shooter/)
- - [Pokémon Fans Are Losing It Over This Freaky Typhlosion Story Allegedly In The Massive Leaks](https://kotaku.com/pokemon-game-freak-leak-typhlosion-octillery-story-lore-1851672828)
- - [Overwatch 2&#39;s latest patch has taken a sledgehammer to Sombra&#39;s kit, leaving the DPS hero in the dirt](https://www.pcgamer.com/games/fps/overwatch-2s-latest-patch-has-taken-a-sledgehammer-to-sombras-kit-leaving-the-dps-hero-in-the-dirt)<!-- GAME:END -->
+ - [Black Ops 6 Audio — A More Detailed, Dynamic Soundscape](https://www.callofduty.com/blog/2024/10/call-of-duty-black-ops-6-dynamic-soundscape-audio-intel#new_tab)
+ - [Dimension 20 is going on a West Coast tour](https://www.polygon.com/news/465862/dimension-20-west-coast-tour-2025)
+ - [Twitch Streamer Asmongold Banned After Racist Rant About Palestinians](https://kotaku.com/asmongold-twitch-ban-youtube-gaza-israel-hasan-piker-1851672928)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
