@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I got your back](http://9gag.com/gag/aNDY8Q4)
- - ⏩ [Aaand he`s gone](http://9gag.com/gag/aE02yno)
- - 👉 [Post](http://9gag.com/gag/aAy3mgp)<!-- MEMES:END -->
+ - 💣 [Post](http://9gag.com/gag/aAy3mgp)
+ - ⏩ [Thankfully!](http://9gag.com/gag/avy8mKZ)
+ - 👉 [When I Was A Boy..](http://9gag.com/gag/a6ZOx2N)<!-- MEMES:END -->
 
 ---
 
