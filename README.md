@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Android 15’s new cellular security features are missing on Pixel phones: Here’s why](https://www.androidauthority.com/android-15-mobile-network-security-pixel-3490909/)
- - [A teardown of Microsoft&#39;s disk-less Xbox Series X, which was released today, shows a redesigned motherboard, a 6nm chip, and a new cooling system &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/241015/p29#a241015p29)
- - [Anyone Can Turn You Into an AI Chatbot. There&#39;s Little You Can Do to Stop Them](https://www.wired.com/story/characterai-has-a-non-consensual-bot-problem/)<!-- TECH:END -->
+ - [The FCC is looking into the impact of broadband data caps and why they still exist](https://www.theverge.com/2024/10/15/24271148/fcc-data-cap-impact-consumers-inquiry)
+ - [Trump-backed World Liberty Financial crypto project gets off to a bumpy start, as its website crashes and WLFI token sales fall far short of the $300M target &lpar;CoinDesk&rpar;](http://www.techmeme.com/241015/p33#a241015p33)
+ - [ASUS unveils Android 15 Preview Program for ROG Phone 8](https://www.androidauthority.com/rog-phone-8-android-15-3490914/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
