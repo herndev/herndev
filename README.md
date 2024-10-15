@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Beats partners with Kim Kardashian on new Beats Pill colors](https://appleinsider.com/articles/24/10/15/beats-partners-with-kim-kardashian-on-new-beats-pill-colors?utm_medium=rss)
- - [The best instant cameras you can buy right now](https://www.theverge.com/23133103/best-instant-cameras-fujifilm-polaroid-kodak)
- - [Amazon expands its suite of AI-powered ad tools to let US advertisers use generative AI to make audio ads, available now in beta, and unveils AI creative studio &lpar;Kathryn Lundstrom/Adweek&rpar;](http://www.techmeme.com/241015/p22#a241015p22)<!-- TECH:END -->
+ - [Decagon, which offers enterprises AI-powered customer service agents, raised a $65M Series B led by Bain Capital Ventures, valuing it at $650M &lpar;Rashi Shrivastava/Forbes&rpar;](http://www.techmeme.com/241015/p25#a241015p25)
+ - [Intel and AMD forge an x86 ecosystem advisory group to ensure a unified x86 instruction set architecture moving forward, amid competition from Arm and RISC-V &lpar;Paul Alcorn/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/241015/p24#a241015p24)
+ - [Threads can now show you when people in your feed are online](https://www.theverge.com/2024/10/15/24270960/threads-activity-status-people-feed-online)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
