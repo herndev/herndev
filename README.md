@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [You can now watch Apple TV Plus content on Amazon Prime Video &lpar;Update&rpar;](https://www.androidauthority.com/apple-tv-plus-content-amazon-prime-video-3489377/)
- - [The US awards $750M to Wolfspeed, which makes EV chips, alongside $750M in financing led by Apollo to build new $6B+ factories in North Carolina and New York &lpar;Bloomberg&rpar;](http://www.techmeme.com/241015/p7#a241015p7)
- - [YouTube Music could finally bring this basic feature Spotify has had for years](https://www.androidauthority.com/youtube-music-custom-playlist-thumbnails-soon-3490526/)<!-- TECH:END -->
+ - [The Doctor Behind the ‘Suicide Pod’ Wants AI to Assist at the End of Life](https://www.wired.com/story/the-doctor-behind-the-suicide-pod-wants-ai-to-assist-at-the-end-of-life/)
+ - [Spotify starts rolling out music videos in beta for Premium subscribers in 85 additional markets, after introducing the feature in 12 markets earlier in 2024 &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/241015/p10#a241015p10)
+ - [WordPress plugin Jetpack releases a critical security update to fix a bug letting logged-in users access forms from website visitors, in all versions since 2016 &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/241015/p9#a241015p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
