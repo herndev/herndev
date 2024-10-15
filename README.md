@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Suspended](http://9gag.com/gag/a9yKVg6)
- - ⏩ [I love this clip every time I stumble over it](http://9gag.com/gag/aMVZNRV)
- - 👉 [Technique to avoid spill your drinks](http://9gag.com/gag/aPAYpmg)<!-- MEMES:END -->
+ - 💣 [I got your back](http://9gag.com/gag/aNDY8Q4)
+ - ⏩ [Aaand he`s gone](http://9gag.com/gag/aE02yno)
+ - 👉 [Post](http://9gag.com/gag/aAy3mgp)<!-- MEMES:END -->
 
 ---
 
