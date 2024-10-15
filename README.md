@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple just announced a new, faster iPad Mini](https://www.theverge.com/2024/10/15/24268079/apple-ipad-mini-2024-specs-price)
- - [Oura Ring 4 Review: A More Accurate and Wearable Smart Ring](https://www.wired.com/review/oura-ring-4/)
- - [Future Passkeys will be able to be shared across platforms &amp; password vaults](https://appleinsider.com/articles/24/10/15/future-passkeys-will-be-able-to-be-shared-across-platforms-password-vaults?utm_medium=rss)<!-- TECH:END -->
+ - [Surfshark Black Friday deals start now, with VPN sale prices from $1.99/mo](https://appleinsider.com/articles/24/10/15/surfshark-black-friday-deals-start-now-with-vpn-sale-prices-from-199mo?utm_medium=rss)
+ - [Microsoft’s New Xbox Series X and Series S Consoles Are on Sale Now &lpar;2024&rpar;](https://www.wired.com/story/how-to-order-xbox-series-x-and-xbox-series-s/)
+ - [A new leak reveals a larger screen for the 12th-gen Amazon Kindle Paperwhite](https://www.theverge.com/2024/10/15/24270673/amazon-kindle-paperwhite-12-gen-e-ink-e-reader)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
