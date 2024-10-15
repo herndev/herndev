@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Surfshark Black Friday deals start now, with VPN sale prices from $1.99/mo](https://appleinsider.com/articles/24/10/15/surfshark-black-friday-deals-start-now-with-vpn-sale-prices-from-199mo?utm_medium=rss)
- - [Microsoft’s New Xbox Series X and Series S Consoles Are on Sale Now &lpar;2024&rpar;](https://www.wired.com/story/how-to-order-xbox-series-x-and-xbox-series-s/)
- - [A new leak reveals a larger screen for the 12th-gen Amazon Kindle Paperwhite](https://www.theverge.com/2024/10/15/24270673/amazon-kindle-paperwhite-12-gen-e-ink-e-reader)<!-- TECH:END -->
+ - [Macintosh Plus with hacks can get on the internet -- kind of](https://appleinsider.com/articles/24/10/15/macintosh-plus-with-hacks-can-get-on-the-internet----kind-of?utm_medium=rss)
+ - [Nissan is giving Ariya owners a new charging network, access to Tesla Superchargers](https://www.theverge.com/2024/10/15/24270716/nissan-energy-charge-network-mynissan-app-ariya-tesla-adapter)
+ - [Apple iPad Mini &lpar;2024&rpar;: Specs, Release Date, Price, Features](https://www.wired.com/story/apple-ipad-mini-2024/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
