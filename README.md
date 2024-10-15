@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Netflix just added the canceled sitcom of two of the funniest guys around](https://www.polygon.com/what-to-watch/465361/netflix-detroiters-watch-it-best-comedians)
- - [Street Fighter 6 collector’s edition vinyl soundtrack is $66 at Amazon](https://www.polygon.com/good-deals/465793/street-fighter-6-ost-vinyl-sf6)
- - [Destiny 2 tonics explained: How to discover recipes and earn upgrades](https://www.pcgamer.com/games/fps/destiny-2-discover-tonic-recipes-fieldwork)<!-- GAME:END -->
+ - [Squirrel With A Gun is Out Today – and it’s Much More Than Just an Action-Shooter](https://news.xbox.com/en-us/2024/10/15/squirrel-with-a-gun-is-out-today-and-its-much-more-than-just-an-action-shooter/)
+ - [Pokémon Fans Are Losing It Over This Freaky Typhlosion Story Allegedly In The Massive Leaks](https://kotaku.com/pokemon-game-freak-leak-typhlosion-octillery-story-lore-1851672828)
+ - [Overwatch 2&#39;s latest patch has taken a sledgehammer to Sombra&#39;s kit, leaving the DPS hero in the dirt](https://www.pcgamer.com/games/fps/overwatch-2s-latest-patch-has-taken-a-sledgehammer-to-sombras-kit-leaving-the-dps-hero-in-the-dirt)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
