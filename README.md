@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle answer for Tuesday, October 15](https://www.pcgamer.com/games/puzzle/wordle-answer-today-october-15-2024)
  - [Legendary game designer Jordan Weisman&#39;s next project is an open world deck-building pirate romance tactical RPG](https://www.pcgamer.com/games/card-games/legendary-game-designer-jordan-weismans-next-project-is-an-open-world-deck-building-pirate-romance-tactical-rpg)
- - [American Horror Stories, Family Guy’s Halloween special, and more new TV for your week](https://www.polygon.com/tv/461106/new-tv-netflix-family-guy-ahs-lincoln-lawyer)
- - [This upcoming first-person sim puts you in charge of a military base in an alternate future where we&#39;re still fighting World War 2](https://www.pcgamer.com/games/sim/this-upcoming-first-person-sim-puts-you-in-charge-of-a-military-base-in-an-alternate-future-where-were-still-fighting-world-war-2)<!-- GAME:END -->
+ - [American Horror Stories, Family Guy’s Halloween special, and more new TV for your week](https://www.polygon.com/tv/461106/new-tv-netflix-family-guy-ahs-lincoln-lawyer)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
