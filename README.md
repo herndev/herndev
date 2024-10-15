@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Perfectly packing a fragile product for shipment](http://9gag.com/gag/an79WvE)
- - ⏩ [The peak of sniper.](http://9gag.com/gag/avy845n)
- - 👉 [Starlord](http://9gag.com/gag/ae9rygQ)<!-- MEMES:END -->
+ - 💣 [US Marine Lance Corporal William \u201cKyle\u201d Carpenter, the man who threw himself in front of a grenade in Afghanistan to protect his best friend](http://9gag.com/gag/aBy0j7Q)
+ - ⏩ [Balding seems legit](http://9gag.com/gag/avy8mA5)
+ - 👉 [10](http://9gag.com/gag/an7987b)<!-- MEMES:END -->
 
 ---
 
