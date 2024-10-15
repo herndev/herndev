@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Diversity gone](http://9gag.com/gag/aQzRBZ2)
- - ⏩ [Churches](http://9gag.com/gag/aoyeD2n)
- - 👉 [10](http://9gag.com/gag/an7987b)<!-- MEMES:END -->
+ - 💣 [3rd round failed..](http://9gag.com/gag/adBLdBM)
+ - ⏩ [Come sweet death](http://9gag.com/gag/aVvYRZO)
+ - 👉 [Prost](http://9gag.com/gag/aoyeAYX)<!-- MEMES:END -->
 
 ---
 
