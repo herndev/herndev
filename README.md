@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Announcing PlayStation The Concert – World Tour 2025-2026](https://blog.playstation.com/2024/10/15/announcing-playstation-the-concert-world-tour-2025-2026/)
- - [Getting To Grips With Dragon Ball: Sparkling Zero&#39;s Wish-Granting Dragons](https://kotaku.com/dragon-ball-sparkling-zero-summoning-wishes-shenron-1851672547)
- - [The Halloween Countdown: 31 days of horror to watch](https://www.polygon.com/what-to-watch/452010/best-halloween-horror-movies-tv-watch-stream)<!-- GAME:END -->
+ - [Netflix just added the canceled sitcom of two of the funniest guys around](https://www.polygon.com/what-to-watch/465361/netflix-detroiters-watch-it-best-comedians)
+ - [Street Fighter 6 collector’s edition vinyl soundtrack is $66 at Amazon](https://www.polygon.com/good-deals/465793/street-fighter-6-ost-vinyl-sf6)
+ - [Destiny 2 tonics explained: How to discover recipes and earn upgrades](https://www.pcgamer.com/games/fps/destiny-2-discover-tonic-recipes-fieldwork)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
