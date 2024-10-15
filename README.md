@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Prost](http://9gag.com/gag/aoyeAYX)
- - ⏩ [Technique to avoid spill your drinks](http://9gag.com/gag/aPAYpmg)
- - 👉 [Oh the mimes](http://9gag.com/gag/aoyeqBg)<!-- MEMES:END -->
+ - 💣 [Post](http://9gag.com/gag/aAy3mgp)
+ - ⏩ [Churches](http://9gag.com/gag/aoyeD2n)
+ - 👉 [Sweaty palms](http://9gag.com/gag/a4PQmD6)<!-- MEMES:END -->
 
 ---
 
