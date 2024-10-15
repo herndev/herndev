@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [When I Was A Boy..](http://9gag.com/gag/a6ZOx2N)
- - ⏩ [3rd round failed..](http://9gag.com/gag/adBLdBM)
- - 👉 [Aaand he`s gone](http://9gag.com/gag/aE02yno)<!-- MEMES:END -->
+ - 💣 [When I ask how delusional can people be, I don&#39;t mean it as a challenge.](http://9gag.com/gag/aXPYzYD)
+ - ⏩ [Starlord](http://9gag.com/gag/ae9rygQ)
+ - 👉 [Wall art w/ human blend](http://9gag.com/gag/aQzRKAw)<!-- MEMES:END -->
 
 ---
 
