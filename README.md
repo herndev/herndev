@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The peak of sniper.](http://9gag.com/gag/avy845n)
- - ⏩ [Aaand he`s gone](http://9gag.com/gag/aE02yno)
- - 👉 [Here comes Medusa](http://9gag.com/gag/aoyennX)<!-- MEMES:END -->
+ - 💣 [Ladies &amp; Gentlemen.........this is some serious sci-fi shit.](http://9gag.com/gag/aBy0oPQ)
+ - ⏩ [Technique to avoid spill your drinks](http://9gag.com/gag/aPAYpmg)
+ - 👉 [Oh the mimes](http://9gag.com/gag/aoyeqBg)<!-- MEMES:END -->
 
 ---
 
