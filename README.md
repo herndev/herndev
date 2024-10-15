@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta rolls out &quot;activity status&quot; to Threads that shows a green dot next to a user&#39;s profile picture to show the user is online, if they have the feature enabled &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/241015/p27#a241015p27)
- - [Google Chrome’s uBlock Origin phaseout has begun](https://www.theverge.com/2024/10/15/24270981/google-chrome-ublock-origin-phaseout-manifest-v3-ad-blocker)
- - [New beta firmware for AirPods Pro 2 released ahead of iOS 18.1 launch](https://appleinsider.com/articles/24/10/15/new-beta-firmware-for-airpods-pro-2-released-ahead-of-ios-181-launch?utm_medium=rss)<!-- TECH:END -->
+ - [Android 15’s new cellular security features are missing on Pixel phones: Here’s why](https://www.androidauthority.com/android-15-mobile-network-security-pixel-3490909/)
+ - [A teardown of Microsoft&#39;s disk-less Xbox Series X, which was released today, shows a redesigned motherboard, a 6nm chip, and a new cooling system &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/241015/p29#a241015p29)
+ - [Anyone Can Turn You Into an AI Chatbot. There&#39;s Little You Can Do to Stop Them](https://www.wired.com/story/characterai-has-a-non-consensual-bot-problem/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
