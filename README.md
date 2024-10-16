@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google confirms Night Sight for Instagram will make it to Pixel A series devices](https://www.androidauthority.com/night-sight-instagram-pixel-a-series-3491154/)
- - [F-Droid is the first third-party app store to support Android 15’s app archiving feature](https://www.androidauthority.com/f-droid-app-archiving-3491158/)
- - [Amazon looks to advanced nuclear reactors to meet climate goals](https://www.theverge.com/2024/10/16/24271696/amazon-nuclear-energy-advanced-reactors)<!-- TECH:END -->
+ - [Samsung’s elusive Galaxy Z Fold 6 variant could be launching as soon as next week](https://www.androidauthority.com/galaxy-z-fold-6-se-launch-date-3491179/)
+ - [Best iPad to Buy &lpar;and Some to Avoid&rpar; in 2024](https://www.wired.com/gallery/the-best-ipad/)
+ - [Here’s why you’re missing some features from the Android 15 update](https://www.androidauthority.com/android-15-missing-features-3491147/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
