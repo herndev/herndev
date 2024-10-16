@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Something ain\u2019t right\ud83d\udc80](http://9gag.com/gag/adBLMON)
- - ⏩ [*sigh*](http://9gag.com/gag/aBy0MPz)
- - 👉 [Sane Sunglasses salesman](http://9gag.com/gag/aYQYBnx)<!-- MEMES:END -->
+ - 💣 [Don&#39;t look it up](http://9gag.com/gag/aE02jeG)
+ - ⏩ [`Our student visas expired in canada .We demand permanent residency`..](http://9gag.com/gag/aryGDGy)
+ - 👉 [Worth of a son](http://9gag.com/gag/a2vZAVw)<!-- MEMES:END -->
 
 ---
 
