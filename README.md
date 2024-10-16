@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Happy Tetten Tuesday](http://9gag.com/gag/ae9rE45)
- - ⏩ [Sweaty palms](http://9gag.com/gag/a4PQmD6)
- - 👉 [*sigh*](http://9gag.com/gag/aBy0MPz)<!-- MEMES:END -->
+ - ⏩ [*sigh*](http://9gag.com/gag/aBy0MPz)
+ - 👉 [UNIFIL Peacekeeper Saleh al-Fafowari was killed today by Israeli forces in Lebanon. This tragedy comes just days after his 5th funeral in Gaza.](http://9gag.com/gag/aryG0x5)<!-- MEMES:END -->
 
 ---
 
