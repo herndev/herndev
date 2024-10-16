@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Phantom Blade Zero devs say they don&#39;t want to water down the game for foreigners—in fact, quite the opposite](https://www.pcgamer.com/games/action/phantom-blade-zero-devs-say-they-dont-want-to-water-down-the-game-for-foreigners-in-fact-quite-the-opposite)
- - [The 2025 game release calendar is going to tower over this year with constant major launches](https://www.pcgamer.com/games/new-games-2025-upcoming-pc-release-schedule)
- - [Overwatch 2&#39;s new Junkenstein event delivers on some PvE promises of old, but that doesn&#39;t mean the mode is flawless](https://www.pcgamer.com/games/fps/overwatch-2s-new-junkenstein-event-delivers-on-some-pve-promises-of-old-but-that-doesnt-mean-the-mode-is-flawless)<!-- GAME:END -->
+ - [Diablo 4 cow-hunting boffins find some actual cows as part of their latest discovery](https://www.pcgamer.com/games/strategy/diablo-4-cow-hunting-boffins-find-some-actual-cows-as-part-of-their-latest-discovery)
+ - [Razer’s Gengar Headset Is Cute, But Hard To Purchase](https://kotaku.com/pokemon-razer-gengar-headset-mouse-pad-desk-mat-1851673903)
+ - [This YouTuber made Brat and it’s the same but it’s on Mario Paint’s composer so it’s not](https://www.polygon.com/culture/466126/brat-mario-paint-composer-youtube)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
