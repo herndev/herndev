@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Afternoon shift FTW!](http://9gag.com/gag/aNDY2wb)
- - ⏩ [Mantis Disguised As A Wasp](http://9gag.com/gag/aXPYGm2)
- - 👉 [Shuji Nakamura, the inventor of blue led](http://9gag.com/gag/aPAYL7w)<!-- MEMES:END -->
+ - 💣 [Mantis Disguised As A Wasp](http://9gag.com/gag/aXPYGm2)
+ - ⏩ [That photographer worked as a sniper before. His shot was impeccably right on the mark](http://9gag.com/gag/aPAYpqR)
+ - 👉 [Sane Sunglasses salesman](http://9gag.com/gag/aYQYBnx)<!-- MEMES:END -->
 
 ---
 
