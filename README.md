@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Engineers Show How Flimsy AI ‘Reasoning’ Can Be](https://www.wired.com/story/apple-ai-llm-reasoning-research/)
- - [Here’s a bunch of bananas shit Trump said today about breaking up Google](https://www.theverge.com/2024/10/15/24271297/google-donald-trump-bananas-breaking-up-bananas)
- - [A review of Character.AI finds several instances of AI personas being created without a person&#39;s consent, seemingly violating the company&#39;s terms of service &lpar;Wired&rpar;](http://www.techmeme.com/241015/p37#a241015p37)<!-- TECH:END -->
+ - [Best Earbuds and Headphones for Working Out in 2024](https://www.cnet.com/tech/mobile/best-workout-headphones/#ftag=CAD590a51e)
+ - [Monogoto, which offers software-defined connectivity tools for enterprises, raised a $27M Series A led by Toyota Ventures, taking its total funding to $38M &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/241015/p39#a241015p39)
+ - [The 15 Best PS5 Games Right Now](https://www.cnet.com/tech/gaming/best-ps5-games/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
