@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Happy Tetten Tuesday](http://9gag.com/gag/ae9rE45)
- - ⏩ [*sigh*](http://9gag.com/gag/aBy0MPz)
- - 👉 [UNIFIL Peacekeeper Saleh al-Fafowari was killed today by Israeli forces in Lebanon. This tragedy comes just days after his 5th funeral in Gaza.](http://9gag.com/gag/aryG0x5)<!-- MEMES:END -->
+ - 💣 [I wish I had a big bro like him](http://9gag.com/gag/aqyKwev)
+ - ⏩ [Happy Tetten Tuesday](http://9gag.com/gag/ae9rE45)
+ - 👉 [These people are beyond stupid.](http://9gag.com/gag/amoBw1j)<!-- MEMES:END -->
 
 ---
 
