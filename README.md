@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Knowing she can&#39;t reach for it is diabolical](http://9gag.com/gag/aAy3L5o)
- - ⏩ [Disgusting.](http://9gag.com/gag/a2vZjXY)
- - 👉 [Afternoon shift FTW!](http://9gag.com/gag/aNDY2wb)<!-- MEMES:END -->
+ - 💣 [Women are never safe in India](http://9gag.com/gag/avy8X8X)
+ - ⏩ [US Marine Lance Corporal William \u201cKyle\u201d Carpenter, the man who threw himself in front of a grenade in Afghanistan to protect his best friend](http://9gag.com/gag/aBy0j7Q)
+ - 👉 [Boxer tests a `Indestructible` TV](http://9gag.com/gag/aAy3q5E)<!-- MEMES:END -->
 
 ---
 
