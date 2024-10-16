@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Analogue’s 4K Nintendo 64 launches next year for $249](https://www.theverge.com/2024/10/16/24265587/analogue-3d-nintendo-64-price-preorder-date)
- - [Amazon announces new Kindle family, including the first color Kindle](https://www.androidauthority.com/amazon-new-kindle-family-2024-3491084/)
- - [The porn saga of North Carolina’s lieutenant governor is modern lawfare in a nutshell](https://www.theverge.com/2024/10/16/24270877/mark-robinson-north-carolina-lieutenant-governor-porn-forum-tape-defamation-lawsuit)<!-- TECH:END -->
+ - [Samsung Galaxy Chromebook Plus review: thin design, spacious 15.6&quot; screen, great performance, Quick Insert key, and solid battery life, but average speakers &lpar;Daniel Thorp-Lancaster/Wired&rpar;](http://www.techmeme.com/241016/p29#a241016p29)
+ - [The OnePlus Pad is cheaper than ever and comes with a free magnetic keyboard](https://www.theverge.com/2024/10/16/24270849/oneplus-pad-amazon-smart-thermostat-deal-sale)
+ - [NASA Will Do Space in Style With the Prada Axiom Spacesuit](https://www.wired.com/story/nasa-wants-you-to-do-space-in-style-with-the-prada-axiom-spacesuit/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
