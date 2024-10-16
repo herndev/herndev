@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google’s Pixel update bonanza also includes critical October 2024 security patches](https://www.androidauthority.com/google-pixel-october-2024-security-patch-update-3491059/)
- - [Amazon’s new Kindle family includes the first color Kindle](https://www.theverge.com/2024/10/16/24271603/kindle-2024-colorsoft-scribe-paperwhite-specs-price-date)
- - [A look at a cluster of European cities within a five-hour train ride of London that collectively have 500+ startups with at least $100M of annual revenue &lpar;Saul Klein/Wired&rpar;](http://www.techmeme.com/241016/p8#a241016p8)<!-- TECH:END -->
+ - [Q&amp;A with Kevin Rose on Digg, what Reddit got right, the rise of news feeds, Techmeme being the place &quot;to just see globally what&#39;s happening in tech&quot;, and more &lpar;David Pierce/The Verge&rpar;](http://www.techmeme.com/241016/p10#a241016p10)
+ - [Microsoft’s prototype Surface Laptop leaks with Intel’s Lunar Lake chips inside](https://www.theverge.com/2024/10/16/24271612/microsoft-surface-laptop-prototype-leak-intel-lunar-lake)
+ - [ASML&#39;s stock falls the most since 1998 after projecting sluggish sales, erasing &amp;euro;50B from its market cap and causing Nvidia and other chip stocks to fall &lpar;Bloomberg&rpar;](http://www.techmeme.com/241016/p9#a241016p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
