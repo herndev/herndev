@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Shuji Nakamura, the inventor of blue led](http://9gag.com/gag/aPAYL7w)
- - ⏩ [You can already hear the green hair ones screeching](http://9gag.com/gag/an79Wxo)
- - 👉 [Scuba Divers hear a Sonar `Ping` from deep in the Ocean](http://9gag.com/gag/azx9Bpj)<!-- MEMES:END -->
+ - 💣 [Afternoon shift FTW!](http://9gag.com/gag/aNDY2wb)
+ - ⏩ [Mantis Disguised As A Wasp](http://9gag.com/gag/aXPYGm2)
+ - 👉 [Shuji Nakamura, the inventor of blue led](http://9gag.com/gag/aPAYL7w)<!-- MEMES:END -->
 
 ---
 
