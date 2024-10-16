@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [When do Astro Bot’s speedrun DLC levels go live?](https://www.polygon.com/astro-bot-guides/466172/speedrun-dlc-levels-update-time-schedule)
- - [Asmongold On Suspension Over Genocide Comments: &#39;I&#39;ve Slowly Been Devolving Into The Most Mean-Spirited... Psychopathic Version Of Myself&#39;](https://kotaku.com/asmongold-response-twitch-ban-palestine-gaza-1851674166)
- - [A New Futuristic Sport Is Being Added To NBA 2K25](https://kotaku.com/nba-2k25-gravity-ball-dlc-fortnite-new-game-basketball-1851674032)<!-- GAME:END -->
+ - [After some drama, Netflix just added the canceled sitcom of two of the funniest guys around](https://www.polygon.com/what-to-watch/465361/netflix-detroiters-watch-it-best-comedians)
+ - [Everything We Learned About Upcoming Pokémon Projects From That Massive Leak](https://kotaku.com/pokemon-game-freak-leaks-legends-z-a-gen-10-anime-movie-1851674254)
+ - [This $300 Cyberpunk: Edgerunners statue is a snapshot of the most horrific moment in the anime](https://www.pcgamer.com/games/this-usd300-cyberpunk-edgerunners-statue-is-a-snapshot-of-the-most-horrific-moment-in-the-anime)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
