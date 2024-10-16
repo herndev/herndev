@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [After some drama, Netflix just added the canceled sitcom of two of the funniest guys around](https://www.polygon.com/what-to-watch/465361/netflix-detroiters-watch-it-best-comedians)
- - [Everything We Learned About Upcoming Pokémon Projects From That Massive Leak](https://kotaku.com/pokemon-game-freak-leaks-legends-z-a-gen-10-anime-movie-1851674254)
- - [This $300 Cyberpunk: Edgerunners statue is a snapshot of the most horrific moment in the anime](https://www.pcgamer.com/games/this-usd300-cyberpunk-edgerunners-statue-is-a-snapshot-of-the-most-horrific-moment-in-the-anime)<!-- GAME:END -->
+ - [They just put a jetpack in Hades 2](https://www.pcgamer.com/games/roguelike/they-just-put-a-jetpack-in-hades-2)
+ - [Destiny 2 power level guide, all caps and Powerful and Pinnacle gear sources explained](https://www.polygon.com/destiny-2-guide-walkthrough/23611953/power-level-cap-powerful-pinnacle-gear)
+ - [One Of The Best-Looking Turn-Based RPGs In Years Just Revealed An All-Star Cast That Includes Gollum](https://kotaku.com/clair-obscur-expedition-33-turn-based-rpg-andy-serkis-1851674347)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
