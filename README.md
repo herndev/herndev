@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [UK filings: Google DeepMind&#39;s operating profit rose 91% YoY to &amp;pound;136M in 2023, after Google Brain merger; Alphabet&#39;s Isomorphic Labs had &amp;pound;60.4M loss, up 3x+ YoY &lpar;Jon Victor/The Information&rpar;](http://www.techmeme.com/241016/p4#a241016p4)
- - [Google may be getting ready to bring a Pixel 9 exclusive app to the Pixel 8 series](https://www.androidauthority.com/google-pixel-studio-app-pixel-8-series-3491016/)
- - [Move over 5G: T-Mobile confirms 5.5G is coming this year](https://www.androidauthority.com/t-mobile-confirms-5g-advanced-3491013/)<!-- TECH:END -->
+ - [Motorola reveals ambitious upcoming Moto AI features for its phones](https://www.androidauthority.com/motorola-moto-ai-features-2024-3491031/)
+ - [Apple Watch Series 10 tips and tricks: Make the most of your device](https://www.androidauthority.com/apple-watch-series-10-tips-3490976/)
+ - [NHS doctors warn of safety risks from an outdated IT infrastructure, as the UK government plans to digitize the world&#39;s largest publicly funded health service &lpar;Laura Hughes/Financial Times&rpar;](http://www.techmeme.com/241016/p5#a241016p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
