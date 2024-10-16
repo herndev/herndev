@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Women are never safe in India](http://9gag.com/gag/avy8X8X)
- - ⏩ [US Marine Lance Corporal William \u201cKyle\u201d Carpenter, the man who threw himself in front of a grenade in Afghanistan to protect his best friend](http://9gag.com/gag/aBy0j7Q)
- - 👉 [Boxer tests a `Indestructible` TV](http://9gag.com/gag/aAy3q5E)<!-- MEMES:END -->
+ - 💣 [Sweaty palms](http://9gag.com/gag/a4PQmD6)
+ - ⏩ [`Our student visas expired in canada .We demand permanent residency`..](http://9gag.com/gag/aryGDGy)
+ - 👉 [Look how far we come](http://9gag.com/gag/azx9z9j)<!-- MEMES:END -->
 
 ---
 
