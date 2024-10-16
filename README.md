@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Don&#39;t look it up](http://9gag.com/gag/aE02jeG)
- - ⏩ [`Our student visas expired in canada .We demand permanent residency`..](http://9gag.com/gag/aryGDGy)
- - 👉 [Worth of a son](http://9gag.com/gag/a2vZAVw)<!-- MEMES:END -->
+ - 💣 [Worth of a son](http://9gag.com/gag/a2vZAVw)
+ - ⏩ [Yo, what you got over there?](http://9gag.com/gag/aNDYMWG)
+ - 👉 [Sweaty palms](http://9gag.com/gag/a4PQmD6)<!-- MEMES:END -->
 
 ---
 
