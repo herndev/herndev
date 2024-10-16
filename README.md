@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Prost](http://9gag.com/gag/aoyeAYX)
- - ⏩ [Quad A quality brought to u by dei trash](http://9gag.com/gag/aBy05rD)
+ - 💣 [Happy Tetten Tuesday](http://9gag.com/gag/ae9rE45)
+ - ⏩ [Sweaty palms](http://9gag.com/gag/a4PQmD6)
  - 👉 [*sigh*](http://9gag.com/gag/aBy0MPz)<!-- MEMES:END -->
 
 ---
