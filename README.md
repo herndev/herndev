@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [I love the ultra-thin Samsung Galaxy Chromebook Plus for its display and design, but is that enough?](https://www.androidauthority.com/samsung-galaxy-chormebook-plus-review-3490298/)
- - [What Gmail Did to Email](https://www.theverge.com/c/24211978/gmail-email-storage-search-2004-anniversary-google)
- - [ASML CEO Christophe Fouquet says he expects a slow chip market recovery to extend &quot;well into 2025&quot; due to &quot;customer cautiousness&quot;, as the US&#39; China rules bite &lpar;Cagan Koc/Bloomberg&rpar;](http://www.techmeme.com/241016/p23#a241016p23)<!-- TECH:END -->
+ - [Analogue’s 4K Nintendo 64 launches next year for $249](https://www.theverge.com/2024/10/16/24265587/analogue-3d-nintendo-64-price-preorder-date)
+ - [Amazon announces new Kindle family, including the first color Kindle](https://www.androidauthority.com/amazon-new-kindle-family-2024-3491084/)
+ - [The porn saga of North Carolina’s lieutenant governor is modern lawfare in a nutshell](https://www.theverge.com/2024/10/16/24270877/mark-robinson-north-carolina-lieutenant-governor-porn-forum-tape-defamation-lawsuit)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
