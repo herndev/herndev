@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Survey: 68% of US adults support a ban on middle and high school students using phones during class and 24% oppose it; 53% oppose a ban lasting full school days &lpar;Pew Research Center&rpar;](http://www.techmeme.com/241016/p7#a241016p7)
- - [Filing: US prosecutors ask a judge to sentence Ilya Lichtenstein, mastermind of the 2016 Bitfinex hack, to five years in prison; sentencing is due in November &lpar;Sabrina Willmer/Bloomberg&rpar;](http://www.techmeme.com/241016/p6#a241016p6)
- - [OPPO Find X8 Ultra wishlist: All the features I want to see](https://www.androidauthority.com/oppo-find-x8-ultra-3458722/)<!-- TECH:END -->
+ - [The Android 15 update has weirdly broken the Instagram app](https://www.androidauthority.com/android-15-instagram-bug-3491053/)
+ - [Here’s why the battery charging limits feature isn’t in stable Android 15](https://www.androidauthority.com/battery-charging-limits-feature-android-15-missing-3491046/)
+ - [Best Riding Mowers for 2024](https://www.cnet.com/news/best-riding-mowers/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
