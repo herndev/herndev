@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [200 Bandai Namco employees reportedly moved into &#39;expulsion rooms&#39; designed to bore them into quitting, though the company maintains its innocence](https://www.pcgamer.com/gaming-industry/200-bandai-namco-employees-reportedly-moved-into-expulsion-rooms-designed-to-bore-them-into-quitting-though-the-company-maintains-its-innocence)
- - [This computer built inside Minecraft has 1,107,419 blocks, over 15 million views on TikTok, and all started &#39;for the fun of it&#39;](https://www.pcgamer.com/hardware/this-computer-built-inside-minecraft-has-1-107-419-blocks-over-15-million-views-on-tiktok-and-all-started-for-the-fun-of-it)
- - [Today&#39;s Wordle answer for Wednesday, October 16](https://www.pcgamer.com/games/puzzle/wordle-answer-today-october-16-2024)<!-- GAME:END -->
+ - [Introducing the cast of Clair Obscur: Expedition 33](https://blog.playstation.com/2024/10/16/introducing-the-cast-of-clair-obscur-expedition-33/)
+ - [Astro Bot: new speedrun level and Special Bots out tomorrow](https://blog.playstation.com/2024/10/16/astro-bot-new-speedrun-level-and-special-bots-out-tomorrow/)
+ - [200 Bandai Namco employees reportedly moved into &#39;expulsion rooms&#39; designed to bore them into quitting, though the company maintains its innocence](https://www.pcgamer.com/gaming-industry/200-bandai-namco-employees-reportedly-moved-into-expulsion-rooms-designed-to-bore-them-into-quitting-though-the-company-maintains-its-innocence)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
