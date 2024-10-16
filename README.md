@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [JD Vance thinks monarchists have some good ideas](https://www.theverge.com/2024/10/16/24266512/jd-vance-curtis-yarvin-influence-rage-project-2025)
- - [Chief People Officer leaves Apple after short 20 month tenure](https://appleinsider.com/articles/24/10/16/chief-people-officer-leaves-apple-after-short-18-month-tenure?utm_medium=rss)
- - [Amazon discontinues the Kindle Oasis, which was the only Kindle still available with physical page-turn buttons, introduced in 2016 and last refreshed in 2019 &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/241016/p36#a241016p36)<!-- TECH:END -->
+ - [Boston Dynamics and Toyota Research Institute partner to speed up development of humanoid robots using TRI&#39;s large behavior models and Boston Dynamics&#39; Atlas &lpar;Chester Dawson/Bloomberg&rpar;](http://www.techmeme.com/241016/p38#a241016p38)
+ - [Here are the best iPad deals right now](https://www.theverge.com/21280354/best-ipad-deals-apple)
+ - [AT&amp;T tries to defend why it shouldn’t let you unlock your phone sooner](https://www.androidauthority.com/att-opposes-fcc-unlocking-rule-3491237/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
