@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Nostalgia Perfected – How 8-Bit Adventures 2 Won Hearts with Pixels](https://news.xbox.com/en-us/2024/10/16/nostalgia-perfected-how-8-bit-adventures-2-won-hearts-with-pixels/)
- - [The Crimson Diamond and other narrative gems are cheaper for a limited time at GOG](https://www.polygon.com/sales-guide/466289/point-click-myst-narrative-adventure-games-deal-gog)
- - [What is the level cap and max Item Power in Diablo 4?](https://www.polygon.com/diablo-4-guides/23753834/level-cap-item-power-breakpoint)<!-- GAME:END -->
+ - [Mechwarrior 5: Clans review](https://www.pcgamer.com/games/action/mechwarrior-5-clans-review)
+ - [Disney World&#39;s New Line-Skipping Pass Costs Up To $450 A Day Per Person](https://kotaku.com/disney-lightning-pass-premier-costs-disneyland-world-1851674534)
+ - [Asmongold steps back from OTK and says &#39;I need to fix my f***ing life&#39; after racist rant about Palestinians: &#39;I have been slowly devolving into the most mean-spirited, rude, nasty, callous, psychopathic version of myself&#39;](https://www.pcgamer.com/hardware/streaming/asmongold-steps-back-from-otk-and-says-i-need-to-fix-my-f-ing-life-after-racist-rant-about-palestinians-i-have-been-slowly-devolving-into-the-most-mean-spirited-rude-nasty-callous-psychopathic-version-of-myself)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
