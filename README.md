@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Diablo 4 cow-hunting boffins find some actual cows as part of their latest discovery](https://www.pcgamer.com/games/strategy/diablo-4-cow-hunting-boffins-find-some-actual-cows-as-part-of-their-latest-discovery)
- - [Razer’s Gengar Headset Is Cute, But Hard To Purchase](https://kotaku.com/pokemon-razer-gengar-headset-mouse-pad-desk-mat-1851673903)
- - [This YouTuber made Brat and it’s the same but it’s on Mario Paint’s composer so it’s not](https://www.polygon.com/culture/466126/brat-mario-paint-composer-youtube)<!-- GAME:END -->
+ - [Experience True Hockey Intelligence in EA Sports NHL 25 With EA Play](https://news.xbox.com/en-us/2024/10/16/ea-play-october-2024-nhl-25/)
+ - [Overwatch 2 disturbs fans with a tweet telling them to look at Kiriko&#39;s &#39;grippers,&#39; proving yet again that corporate accounts ruin inside jokes](https://www.pcgamer.com/games/fps/overwatch-2-disturbs-fans-with-a-tweet-telling-them-to-look-at-kirikos-grippers-proving-yet-again-that-corporate-accounts-ruin-inside-jokes)
+ - [There may be a use for the Copilot key after all, but not quite yet—Microsoft is toying with the idea of allowing us to change what it opens](https://www.pcgamer.com/software/ai/there-may-be-a-use-for-the-copilot-key-after-all-but-not-quite-yet-microsoft-is-toying-with-the-idea-of-allowing-us-to-change-what-it-opens)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
