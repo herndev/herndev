@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Mantis Disguised As A Wasp](http://9gag.com/gag/aXPYGm2)
- - ⏩ [That photographer worked as a sniper before. His shot was impeccably right on the mark](http://9gag.com/gag/aPAYpqR)
- - 👉 [Sane Sunglasses salesman](http://9gag.com/gag/aYQYBnx)<!-- MEMES:END -->
+ - 💣 [When you enter the wrong room](http://9gag.com/gag/a9yKezj)
+ - ⏩ [Women are never safe in India](http://9gag.com/gag/avy8X8X)
+ - 👉 [Boxer tests a `Indestructible` TV](http://9gag.com/gag/aAy3q5E)<!-- MEMES:END -->
 
 ---
 
