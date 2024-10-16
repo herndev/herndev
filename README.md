@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I wish I had a big bro like him](http://9gag.com/gag/aqyKwev)
- - ⏩ [Yup thats me, you probably wonder how i got here](http://9gag.com/gag/aoyewNm)
- - 👉 [Shuji Nakamura, the inventor of blue led](http://9gag.com/gag/aPAYL7w)<!-- MEMES:END -->
+ - 💣 [Quick maths](http://9gag.com/gag/amoBwWd)
+ - ⏩ [Just saying tho...](http://9gag.com/gag/an79oXq)
+ - 👉 [They are right](http://9gag.com/gag/a0eQq3Z)<!-- MEMES:END -->
 
 ---
 
