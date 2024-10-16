@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Introducing the cast of Clair Obscur: Expedition 33](https://blog.playstation.com/2024/10/16/introducing-the-cast-of-clair-obscur-expedition-33/)
- - [Astro Bot: new speedrun level and Special Bots out tomorrow](https://blog.playstation.com/2024/10/16/astro-bot-new-speedrun-level-and-special-bots-out-tomorrow/)
- - [200 Bandai Namco employees reportedly moved into &#39;expulsion rooms&#39; designed to bore them into quitting, though the company maintains its innocence](https://www.pcgamer.com/gaming-industry/200-bandai-namco-employees-reportedly-moved-into-expulsion-rooms-designed-to-bore-them-into-quitting-though-the-company-maintains-its-innocence)<!-- GAME:END -->
+ - [Uncover the Truth – The Call of Duty: Black Ops 6 Accessories Collection is Here](https://news.xbox.com/en-us/2024/10/16/call-of-duty-black-ops-6-accessories-controller-console-wrap/)
+ - [I went to PAX Australia and all I got was a glimpse of this $17,000 gaming PC shaped like Medusa that&#39;s a commentary on AI&#39;s inability to grasp the importance of mythology stories in human culture](https://www.pcgamer.com/hardware/gaming-pcs/i-went-to-pax-australia-and-all-i-got-was-a-glimpse-of-this-usd17-000-gaming-pc-shaped-like-medusa-thats-a-commentary-on-ais-inability-to-grasp-the-importance-of-mythology-stories-in-human-culture)
+ - [Free New Astro Bot Levels Are Dropping Like Weekly TV Episodes](https://kotaku.com/astro-bot-free-dlc-release-date-ps5-ff7-1851673689)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
