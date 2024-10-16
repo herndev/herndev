@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [When you enter the wrong room](http://9gag.com/gag/a9yKezj)
- - ⏩ [Women are never safe in India](http://9gag.com/gag/avy8X8X)
- - 👉 [Boxer tests a `Indestructible` TV](http://9gag.com/gag/aAy3q5E)<!-- MEMES:END -->
+ - 💣 [US Marine Lance Corporal William \u201cKyle\u201d Carpenter, the man who threw himself in front of a grenade in Afghanistan to protect his best friend](http://9gag.com/gag/aBy0j7Q)
+ - ⏩ [Calcium carbide lamp used for miners to light their way inside mines!](http://9gag.com/gag/aO8YADN)
+ - 👉 [Mantis Disguised As A Wasp](http://9gag.com/gag/aXPYGm2)<!-- MEMES:END -->
 
 ---
 
