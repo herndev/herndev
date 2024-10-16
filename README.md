@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Experience True Hockey Intelligence in EA Sports NHL 25 With EA Play](https://news.xbox.com/en-us/2024/10/16/ea-play-october-2024-nhl-25/)
- - [Overwatch 2 disturbs fans with a tweet telling them to look at Kiriko&#39;s &#39;grippers,&#39; proving yet again that corporate accounts ruin inside jokes](https://www.pcgamer.com/games/fps/overwatch-2-disturbs-fans-with-a-tweet-telling-them-to-look-at-kirikos-grippers-proving-yet-again-that-corporate-accounts-ruin-inside-jokes)
- - [There may be a use for the Copilot key after all, but not quite yet—Microsoft is toying with the idea of allowing us to change what it opens](https://www.pcgamer.com/software/ai/there-may-be-a-use-for-the-copilot-key-after-all-but-not-quite-yet-microsoft-is-toying-with-the-idea-of-allowing-us-to-change-what-it-opens)<!-- GAME:END -->
+ - [When do Astro Bot’s speedrun DLC levels go live?](https://www.polygon.com/astro-bot-guides/466172/speedrun-dlc-levels-update-time-schedule)
+ - [Asmongold On Suspension Over Genocide Comments: &#39;I&#39;ve Slowly Been Devolving Into The Most Mean-Spirited... Psychopathic Version Of Myself&#39;](https://kotaku.com/asmongold-response-twitch-ban-palestine-gaza-1851674166)
+ - [A New Futuristic Sport Is Being Added To NBA 2K25](https://kotaku.com/nba-2k25-gravity-ball-dlc-fortnite-new-game-basketball-1851674032)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
