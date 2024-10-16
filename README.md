@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [This new hotspot from T-Mobile and TCL promises 5G data on a budget](https://www.androidauthority.com/t-mobile-tcl-5g-redcap-hotspot-launch-3491221/)
- - [Galaxy S25 series leak shows how well these phones will fit in your hand](https://www.androidauthority.com/galaxy-s25-display-glass-3491201/)
- - [The US charges two Sudanese brothers with running Anonymous Sudan, a cyberattack-for-hire gang allegedly responsible for 35,000 DDoS attacks in a single year &lpar;Joseph Menn/Washington Post&rpar;](http://www.techmeme.com/241016/p33#a241016p33)<!-- TECH:END -->
+ - [JD Vance thinks monarchists have some good ideas](https://www.theverge.com/2024/10/16/24266512/jd-vance-curtis-yarvin-influence-rage-project-2025)
+ - [Chief People Officer leaves Apple after short 20 month tenure](https://appleinsider.com/articles/24/10/16/chief-people-officer-leaves-apple-after-short-18-month-tenure?utm_medium=rss)
+ - [Amazon discontinues the Kindle Oasis, which was the only Kindle still available with physical page-turn buttons, introduced in 2016 and last refreshed in 2019 &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/241016/p36#a241016p36)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
