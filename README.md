@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Yo, what you got over there?](http://9gag.com/gag/aNDYMWG)
- - ⏩ [A loving father](http://9gag.com/gag/a4PQmWy)
+ - 💣 [UNIFIL Peacekeeper Saleh al-Fafowari was killed today by Israeli forces in Lebanon. This tragedy comes just days after his 5th funeral in Gaza.](http://9gag.com/gag/aryG0x5)
+ - ⏩ [Sweaty palms](http://9gag.com/gag/a4PQmD6)
  - 👉 [Quad A quality brought to u by dei trash](http://9gag.com/gag/aBy05rD)<!-- MEMES:END -->
 
 ---
