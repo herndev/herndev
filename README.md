@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Yup thats me, you probably wonder how i got here](http://9gag.com/gag/aoyewNm)
- - ⏩ [Don&#39;t look it up](http://9gag.com/gag/aE02jeG)
- - 👉 [Something ain\u2019t right\ud83d\udc80](http://9gag.com/gag/adBLMON)<!-- MEMES:END -->
+ - 💣 [Don&#39;t look it up](http://9gag.com/gag/aE02jeG)
+ - ⏩ [Kate Moss passed out at a Diddi GB party. Weird. Anyway. Have fun.. in freedom.. yaaaaay](http://9gag.com/gag/azx9vgp)
+ - 👉 [These people are beyond stupid.](http://9gag.com/gag/amoBw1j)<!-- MEMES:END -->
 
 ---
 
