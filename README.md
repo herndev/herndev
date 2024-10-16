@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [50% of Apple users couldn&#39;t manage AppleCare on device thanks to temporary outage](https://appleinsider.com/articles/24/10/16/50-of-apple-users-cant-manage-applecare-on-device-thanks-to-temporary-outage?utm_medium=rss)
- - [Los Angeles-based Ghost, a B2B marketplace for surplus inventory with more than 6,000 members, raised a $40M Series C led by L Catterton &lpar;Allie Garfinkle/Fortune&rpar;](http://www.techmeme.com/241015/p42#a241015p42)
- - [Bluetti Handsfree Backpack with portable power station is a photographer&#39;s dream](https://appleinsider.com/articles/24/10/16/bluetti-handsfree-backpack-with-portable-power-station-is-a-photographers-dream?utm_medium=rss)<!-- TECH:END -->
+ - [Filing: Elon Musk poured ~$75M into his pro-Trump America PAC, making seven donations between July 3 and September 5; Musk was the PAC&#39;s only donor &lpar;Bloomberg&rpar;](http://www.techmeme.com/241015/p44#a241015p44)
+ - [How to use the new Attachments Browser in Notes for macOS](https://appleinsider.com/inside/macos-sequoia/tips/how-to-use-the-new-attachments-browser-in-notes-for-macos?utm_medium=rss)
+ - [Xscape, which develops data center interconnects using silicon photonics, raised a $44M Series A led by IAG Capital Partners, taking its total funding to $57M &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/241015/p43#a241015p43)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
