@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Q&amp;A with Kevin Rose on Digg, what Reddit got right, the rise of news feeds, Techmeme being the place &quot;to just see globally what&#39;s happening in tech&quot;, and more &lpar;David Pierce/The Verge&rpar;](http://www.techmeme.com/241016/p10#a241016p10)
- - [Microsoft’s prototype Surface Laptop leaks with Intel’s Lunar Lake chips inside](https://www.theverge.com/2024/10/16/24271612/microsoft-surface-laptop-prototype-leak-intel-lunar-lake)
- - [ASML&#39;s stock falls the most since 1998 after projecting sluggish sales, erasing &amp;euro;50B from its market cap and causing Nvidia and other chip stocks to fall &lpar;Bloomberg&rpar;](http://www.techmeme.com/241016/p9#a241016p9)<!-- TECH:END -->
+ - [The OnePlus 13R may have leaked: The best mid-ranger of 2025?](https://www.androidauthority.com/oneplus-13r-specs-leak-3491078/)
+ - [Microsoft pulls $1 Xbox Game Pass trial just before new Call of Duty release](https://www.theverge.com/2024/10/16/24271619/microsoft-xbox-game-pass-trial-suspended-call-of-duty-black-ops-6)
+ - [The Cybersecurity Association of China says Intel products sold in the country should be subject to a security review, alleging it has &quot;constantly harmed&quot; China &lpar;Eduardo Baptista/Reuters&rpar;](http://www.techmeme.com/241016/p13#a241016p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
