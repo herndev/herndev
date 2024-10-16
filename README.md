@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Quick maths](http://9gag.com/gag/amoBwWd)
- - ⏩ [Just saying tho...](http://9gag.com/gag/an79oXq)
- - 👉 [They are right](http://9gag.com/gag/a0eQq3Z)<!-- MEMES:END -->
+ - 💣 [These people are beyond stupid.](http://9gag.com/gag/amoBw1j)
+ - ⏩ [I wish I had a big bro like him](http://9gag.com/gag/aqyKwev)
+ - 👉 [Does size matter?](http://9gag.com/gag/azx9wOj)<!-- MEMES:END -->
 
 ---
 
