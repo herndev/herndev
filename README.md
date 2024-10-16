@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [They just put a jetpack in Hades 2](https://www.pcgamer.com/games/roguelike/they-just-put-a-jetpack-in-hades-2)
- - [Destiny 2 power level guide, all caps and Powerful and Pinnacle gear sources explained](https://www.polygon.com/destiny-2-guide-walkthrough/23611953/power-level-cap-powerful-pinnacle-gear)
- - [One Of The Best-Looking Turn-Based RPGs In Years Just Revealed An All-Star Cast That Includes Gollum](https://kotaku.com/clair-obscur-expedition-33-turn-based-rpg-andy-serkis-1851674347)<!-- GAME:END -->
+ - [Nostalgia Perfected – How 8-Bit Adventures 2 Won Hearts with Pixels](https://news.xbox.com/en-us/2024/10/16/nostalgia-perfected-how-8-bit-adventures-2-won-hearts-with-pixels/)
+ - [The Crimson Diamond and other narrative gems are cheaper for a limited time at GOG](https://www.polygon.com/sales-guide/466289/point-click-myst-narrative-adventure-games-deal-gog)
+ - [What is the level cap and max Item Power in Diablo 4?](https://www.polygon.com/diablo-4-guides/23753834/level-cap-item-power-breakpoint)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
