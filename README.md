@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Yup thats me, you probably wonder how i got here](http://9gag.com/gag/aoyewNm)
- - ⏩ [Sane Sunglasses salesman](http://9gag.com/gag/aYQYBnx)
- - 👉 [Look how far we come](http://9gag.com/gag/azx9z9j)<!-- MEMES:END -->
+ - 💣 [Yo, what you got over there?](http://9gag.com/gag/aNDYMWG)
+ - ⏩ [A loving father](http://9gag.com/gag/a4PQmWy)
+ - 👉 [Quad A quality brought to u by dei trash](http://9gag.com/gag/aBy05rD)<!-- MEMES:END -->
 
 ---
 
