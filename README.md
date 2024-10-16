@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon’s New Kindle Lineup Includes the First-Ever Color Kindle](https://www.wired.com/story/amazon-new-kindle-colorsoft-kindle-paperwhite-kindle-scribe-2024/)
- - [Amazon finally has a color Kindle, and it looks pretty good](https://www.theverge.com/2024/10/16/24271632/amazon-kindle-colorsoft-specs-price-hands-on)
- - [Amazon’s new Kindle Scribe takes another step toward pen and paper](https://www.theverge.com/2024/10/16/24271627/amazon-kindle-scribe-2024-notebook-specs)<!-- TECH:END -->
+ - [I love the ultra-thin Samsung Galaxy Chromebook Plus for its display and design, but is that enough?](https://www.androidauthority.com/samsung-galaxy-chormebook-plus-review-3490298/)
+ - [What Gmail Did to Email](https://www.theverge.com/c/24211978/gmail-email-storage-search-2004-anniversary-google)
+ - [ASML CEO Christophe Fouquet says he expects a slow chip market recovery to extend &quot;well into 2025&quot; due to &quot;customer cautiousness&quot;, as the US&#39; China rules bite &lpar;Cagan Koc/Bloomberg&rpar;](http://www.techmeme.com/241016/p23#a241016p23)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
