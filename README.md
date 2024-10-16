@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Android 15 update has weirdly broken the Instagram app](https://www.androidauthority.com/android-15-instagram-bug-3491053/)
- - [Here’s why the battery charging limits feature isn’t in stable Android 15](https://www.androidauthority.com/battery-charging-limits-feature-android-15-missing-3491046/)
- - [Best Riding Mowers for 2024](https://www.cnet.com/news/best-riding-mowers/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Google’s Pixel update bonanza also includes critical October 2024 security patches](https://www.androidauthority.com/google-pixel-october-2024-security-patch-update-3491059/)
+ - [Amazon’s new Kindle family includes the first color Kindle](https://www.theverge.com/2024/10/16/24271603/kindle-2024-colorsoft-scribe-paperwhite-specs-price-date)
+ - [A look at a cluster of European cities within a five-hour train ride of London that collectively have 500+ startups with at least $100M of annual revenue &lpar;Saul Klein/Wired&rpar;](http://www.techmeme.com/241016/p8#a241016p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
