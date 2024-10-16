@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The OnePlus 13R may have leaked: The best mid-ranger of 2025?](https://www.androidauthority.com/oneplus-13r-specs-leak-3491078/)
- - [Microsoft pulls $1 Xbox Game Pass trial just before new Call of Duty release](https://www.theverge.com/2024/10/16/24271619/microsoft-xbox-game-pass-trial-suspended-call-of-duty-black-ops-6)
- - [The Cybersecurity Association of China says Intel products sold in the country should be subject to a security review, alleging it has &quot;constantly harmed&quot; China &lpar;Eduardo Baptista/Reuters&rpar;](http://www.techmeme.com/241016/p13#a241016p13)<!-- TECH:END -->
+ - [Adobe’s experimental tool can identify an artist’s work online or on a tote bag](https://www.theverge.com/2024/10/16/24271338/adobe-sneaks-project-know-how-content-credentials)
+ - [LatticeFlow&#39;s LLM Checker, which analyzed models from Meta, Alibaba, Mistral, Anthropic, and OpenAI against the EU&#39;s AI Act, finds some compliance issues &lpar;Martin Coulter/Reuters&rpar;](http://www.techmeme.com/241016/p15#a241016p15)
+ - [Apple Watch Ultra 2 in black review: Same tech, but the new color is absolutely fantastic](https://appleinsider.com/articles/24/10/16/apple-watch-ultra-2-in-black-review-same-tech-but-the-new-color-is-absolutely-fantastic?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
