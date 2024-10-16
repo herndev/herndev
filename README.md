@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung Galaxy Chromebook Plus review: thin design, spacious 15.6&quot; screen, great performance, Quick Insert key, and solid battery life, but average speakers &lpar;Daniel Thorp-Lancaster/Wired&rpar;](http://www.techmeme.com/241016/p29#a241016p29)
- - [The OnePlus Pad is cheaper than ever and comes with a free magnetic keyboard](https://www.theverge.com/2024/10/16/24270849/oneplus-pad-amazon-smart-thermostat-deal-sale)
- - [NASA Will Do Space in Style With the Prada Axiom Spacesuit](https://www.wired.com/story/nasa-wants-you-to-do-space-in-style-with-the-prada-axiom-spacesuit/)<!-- TECH:END -->
+ - [Google confirms Night Sight for Instagram will make it to Pixel A series devices](https://www.androidauthority.com/night-sight-instagram-pixel-a-series-3491154/)
+ - [F-Droid is the first third-party app store to support Android 15’s app archiving feature](https://www.androidauthority.com/f-droid-app-archiving-3491158/)
+ - [Amazon looks to advanced nuclear reactors to meet climate goals](https://www.theverge.com/2024/10/16/24271696/amazon-nuclear-energy-advanced-reactors)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
