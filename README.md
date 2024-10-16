@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Worth of a son](http://9gag.com/gag/a2vZAVw)
- - ⏩ [Yo, what you got over there?](http://9gag.com/gag/aNDYMWG)
- - 👉 [Sweaty palms](http://9gag.com/gag/a4PQmD6)<!-- MEMES:END -->
+ - 💣 [Yup thats me, you probably wonder how i got here](http://9gag.com/gag/aoyewNm)
+ - ⏩ [Sane Sunglasses salesman](http://9gag.com/gag/aYQYBnx)
+ - 👉 [Look how far we come](http://9gag.com/gag/azx9z9j)<!-- MEMES:END -->
 
 ---
 
