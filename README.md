@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Uncover the Truth – The Call of Duty: Black Ops 6 Accessories Collection is Here](https://news.xbox.com/en-us/2024/10/16/call-of-duty-black-ops-6-accessories-controller-console-wrap/)
- - [I went to PAX Australia and all I got was a glimpse of this $17,000 gaming PC shaped like Medusa that&#39;s a commentary on AI&#39;s inability to grasp the importance of mythology stories in human culture](https://www.pcgamer.com/hardware/gaming-pcs/i-went-to-pax-australia-and-all-i-got-was-a-glimpse-of-this-usd17-000-gaming-pc-shaped-like-medusa-thats-a-commentary-on-ais-inability-to-grasp-the-importance-of-mythology-stories-in-human-culture)
- - [Free New Astro Bot Levels Are Dropping Like Weekly TV Episodes](https://kotaku.com/astro-bot-free-dlc-release-date-ps5-ff7-1851673689)<!-- GAME:END -->
+ - [Phantom Blade Zero devs say they don&#39;t want to water down the game for foreigners—in fact, quite the opposite](https://www.pcgamer.com/games/action/phantom-blade-zero-devs-say-they-dont-want-to-water-down-the-game-for-foreigners-in-fact-quite-the-opposite)
+ - [The 2025 game release calendar is going to tower over this year with constant major launches](https://www.pcgamer.com/games/new-games-2025-upcoming-pc-release-schedule)
+ - [Overwatch 2&#39;s new Junkenstein event delivers on some PvE promises of old, but that doesn&#39;t mean the mode is flawless](https://www.pcgamer.com/games/fps/overwatch-2s-new-junkenstein-event-delivers-on-some-pve-promises-of-old-but-that-doesnt-mean-the-mode-is-flawless)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
