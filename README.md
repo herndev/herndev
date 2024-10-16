@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Happy Tetten Tuesday](http://9gag.com/gag/ae9rE45)
- - ⏩ [Imagine opening your door just to be Rick-Rolled](http://9gag.com/gag/aVvY8BM)
- - 👉 [By far the best available POV of SpaceX Starship Rocket landing.](http://9gag.com/gag/aO8YOAv)<!-- MEMES:END -->
+ - 💣 [Something ain\u2019t right\ud83d\udc80](http://9gag.com/gag/adBLMON)
+ - ⏩ [*sigh*](http://9gag.com/gag/aBy0MPz)
+ - 👉 [Sane Sunglasses salesman](http://9gag.com/gag/aYQYBnx)<!-- MEMES:END -->
 
 ---
 
