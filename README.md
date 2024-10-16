@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [*sigh*](http://9gag.com/gag/aBy0MPz)
- - ⏩ [Women complaining about pockets](http://9gag.com/gag/agmn6GW)
- - 👉 [Boxer tests a `Indestructible` TV](http://9gag.com/gag/aAy3q5E)<!-- MEMES:END -->
+ - 💣 [Happy Tetten Tuesday](http://9gag.com/gag/ae9rE45)
+ - ⏩ [Imagine opening your door just to be Rick-Rolled](http://9gag.com/gag/aVvY8BM)
+ - 👉 [By far the best available POV of SpaceX Starship Rocket landing.](http://9gag.com/gag/aO8YOAv)<!-- MEMES:END -->
 
 ---
 
