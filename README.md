@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [This computer built inside Minecraft has 1,107,419 blocks, over 15 million views on TikTok, and all started &#39;for the fun of it&#39;](https://www.pcgamer.com/hardware/this-computer-built-inside-minecraft-has-1-107-419-blocks-over-15-million-views-on-tiktok-and-all-started-for-the-fun-of-it)
  - [Today&#39;s Wordle answer for Wednesday, October 16](https://www.pcgamer.com/games/puzzle/wordle-answer-today-october-16-2024)
- - [Ward Christensen, co-inventor of the BBS and internet pioneer, has died](https://www.pcgamer.com/games/ward-christensen-co-inventor-of-the-bbs-and-internet-pioneer-has-died)
- - [Diablo 4 players dust off the other keys on their keyboards as Blizzard prepares to kill the one-button spiritborn build this week](https://www.pcgamer.com/games/rpg/diablo-4-players-dust-off-the-other-keys-on-their-keyboards-as-blizzard-prepares-to-kill-the-one-button-spiritborn-build-this-week)<!-- GAME:END -->
+ - [Ward Christensen, co-inventor of the BBS and internet pioneer, has died](https://www.pcgamer.com/games/ward-christensen-co-inventor-of-the-bbs-and-internet-pioneer-has-died)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
