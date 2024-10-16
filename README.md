@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Save on every new iPad mini 7 with coupon, on top of discounts on AppleCare](https://appleinsider.com/articles/24/10/16/save-on-every-new-ipad-mini-7-with-coupon-on-top-of-discounts-on-applecare?utm_medium=rss)
- - [Filing: Elon Musk poured ~$75M into his pro-Trump America PAC, making seven donations between July 3 and September 5; Musk was the PAC&#39;s only donor &lpar;Bloomberg&rpar;](http://www.techmeme.com/241015/p44#a241015p44)
- - [How to use the new Attachments Browser in Notes for macOS](https://appleinsider.com/inside/macos-sequoia/tips/how-to-use-the-new-attachments-browser-in-notes-for-macos?utm_medium=rss)<!-- TECH:END -->
+ - [UK filings: Google DeepMind&#39;s operating profit rose 91% YoY to &amp;pound;136M in 2023, after Google Brain merger; Alphabet&#39;s Isomorphic Labs had &amp;pound;60.4M loss, up 3x+ YoY &lpar;Jon Victor/The Information&rpar;](http://www.techmeme.com/241016/p4#a241016p4)
+ - [Google may be getting ready to bring a Pixel 9 exclusive app to the Pixel 8 series](https://www.androidauthority.com/google-pixel-studio-app-pixel-8-series-3491016/)
+ - [Move over 5G: T-Mobile confirms 5.5G is coming this year](https://www.androidauthority.com/t-mobile-confirms-5g-advanced-3491013/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
