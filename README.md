@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle answer for Wednesday, October 16](https://www.pcgamer.com/games/puzzle/wordle-answer-today-october-16-2024)
  - [Ward Christensen, co-inventor of the BBS and internet pioneer, has died](https://www.pcgamer.com/games/ward-christensen-co-inventor-of-the-bbs-and-internet-pioneer-has-died)
- - [Diablo 4 players dust off the other keys on their keyboards as Blizzard prepares to kill the one-button spiritborn build this week](https://www.pcgamer.com/games/rpg/diablo-4-players-dust-off-the-other-keys-on-their-keyboards-as-blizzard-prepares-to-kill-the-one-button-spiritborn-build-this-week)
- - [Asmongold suspended from Twitch following racist tirade about Palestinians](https://www.pcgamer.com/hardware/streaming/asmongold-suspended-from-twitch-following-racist-tirade-about-palestinians)<!-- GAME:END -->
+ - [Diablo 4 players dust off the other keys on their keyboards as Blizzard prepares to kill the one-button spiritborn build this week](https://www.pcgamer.com/games/rpg/diablo-4-players-dust-off-the-other-keys-on-their-keyboards-as-blizzard-prepares-to-kill-the-one-button-spiritborn-build-this-week)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
