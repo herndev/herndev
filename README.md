@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Adobe’s experimental tool can identify an artist’s work online or on a tote bag](https://www.theverge.com/2024/10/16/24271338/adobe-sneaks-project-know-how-content-credentials)
- - [LatticeFlow&#39;s LLM Checker, which analyzed models from Meta, Alibaba, Mistral, Anthropic, and OpenAI against the EU&#39;s AI Act, finds some compliance issues &lpar;Martin Coulter/Reuters&rpar;](http://www.techmeme.com/241016/p15#a241016p15)
- - [Apple Watch Ultra 2 in black review: Same tech, but the new color is absolutely fantastic](https://appleinsider.com/articles/24/10/16/apple-watch-ultra-2-in-black-review-same-tech-but-the-new-color-is-absolutely-fantastic?utm_medium=rss)<!-- TECH:END -->
+ - [Amazon’s New Kindle Lineup Includes the First-Ever Color Kindle](https://www.wired.com/story/amazon-new-kindle-colorsoft-kindle-paperwhite-kindle-scribe-2024/)
+ - [Amazon finally has a color Kindle, and it looks pretty good](https://www.theverge.com/2024/10/16/24271632/amazon-kindle-colorsoft-specs-price-hands-on)
+ - [Amazon’s new Kindle Scribe takes another step toward pen and paper](https://www.theverge.com/2024/10/16/24271627/amazon-kindle-scribe-2024-notebook-specs)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
