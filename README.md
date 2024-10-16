@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Motorola reveals ambitious upcoming Moto AI features for its phones](https://www.androidauthority.com/motorola-moto-ai-features-2024-3491031/)
- - [Apple Watch Series 10 tips and tricks: Make the most of your device](https://www.androidauthority.com/apple-watch-series-10-tips-3490976/)
- - [NHS doctors warn of safety risks from an outdated IT infrastructure, as the UK government plans to digitize the world&#39;s largest publicly funded health service &lpar;Laura Hughes/Financial Times&rpar;](http://www.techmeme.com/241016/p5#a241016p5)<!-- TECH:END -->
+ - [Survey: 68% of US adults support a ban on middle and high school students using phones during class and 24% oppose it; 53% oppose a ban lasting full school days &lpar;Pew Research Center&rpar;](http://www.techmeme.com/241016/p7#a241016p7)
+ - [Filing: US prosecutors ask a judge to sentence Ilya Lichtenstein, mastermind of the 2016 Bitfinex hack, to five years in prison; sentencing is due in November &lpar;Sabrina Willmer/Bloomberg&rpar;](http://www.techmeme.com/241016/p6#a241016p6)
+ - [OPPO Find X8 Ultra wishlist: All the features I want to see](https://www.androidauthority.com/oppo-find-x8-ultra-3458722/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
