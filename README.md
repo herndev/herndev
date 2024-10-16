@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I wish I had a big bro like him](http://9gag.com/gag/aqyKwev)
- - ⏩ [Happy Tetten Tuesday](http://9gag.com/gag/ae9rE45)
- - 👉 [These people are beyond stupid.](http://9gag.com/gag/amoBw1j)<!-- MEMES:END -->
+ - 💣 [Yup thats me, you probably wonder how i got here](http://9gag.com/gag/aoyewNm)
+ - ⏩ [Don&#39;t look it up](http://9gag.com/gag/aE02jeG)
+ - 👉 [Something ain\u2019t right\ud83d\udc80](http://9gag.com/gag/adBLMON)<!-- MEMES:END -->
 
 ---
 
