@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Instacart names Anirban Kundu, head of engineering for Uber&#39;s delivery business, as its new CTO, a position that has been vacant for eight months &lpar;Natalie Lung/Bloomberg&rpar;](http://www.techmeme.com/241016/p32#a241016p32)
- - [Discord says piracy subpoena would violate users’ First Amendment rights](https://www.theverge.com/2024/10/16/24271854/discord-nexon-dmca-subopoena-copyright-piracy)
- - [Deal: Amazing Samsung Odyssey G9 Series 49-inch monitor hits record-low price](https://www.androidauthority.com/samsung-odyssey-g9-series-49-inch-deal-3491170/)<!-- TECH:END -->
+ - [This new hotspot from T-Mobile and TCL promises 5G data on a budget](https://www.androidauthority.com/t-mobile-tcl-5g-redcap-hotspot-launch-3491221/)
+ - [Galaxy S25 series leak shows how well these phones will fit in your hand](https://www.androidauthority.com/galaxy-s25-display-glass-3491201/)
+ - [The US charges two Sudanese brothers with running Anonymous Sudan, a cyberattack-for-hire gang allegedly responsible for 35,000 DDoS attacks in a single year &lpar;Joseph Menn/Washington Post&rpar;](http://www.techmeme.com/241016/p33#a241016p33)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
