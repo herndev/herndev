@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Sweaty palms](http://9gag.com/gag/a4PQmD6)
- - ⏩ [`Our student visas expired in canada .We demand permanent residency`..](http://9gag.com/gag/aryGDGy)
- - 👉 [Look how far we come](http://9gag.com/gag/azx9z9j)<!-- MEMES:END -->
+ - 💣 [*sigh*](http://9gag.com/gag/aBy0MPz)
+ - ⏩ [Women complaining about pockets](http://9gag.com/gag/agmn6GW)
+ - 👉 [Boxer tests a `Indestructible` TV](http://9gag.com/gag/aAy3q5E)<!-- MEMES:END -->
 
 ---
 
