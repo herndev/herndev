@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Don&#39;t look it up](http://9gag.com/gag/aE02jeG)
- - ⏩ [Kate Moss passed out at a Diddi GB party. Weird. Anyway. Have fun.. in freedom.. yaaaaay](http://9gag.com/gag/azx9vgp)
- - 👉 [These people are beyond stupid.](http://9gag.com/gag/amoBw1j)<!-- MEMES:END -->
+ - 💣 [I wish I had a big bro like him](http://9gag.com/gag/aqyKwev)
+ - ⏩ [Yup thats me, you probably wonder how i got here](http://9gag.com/gag/aoyewNm)
+ - 👉 [Shuji Nakamura, the inventor of blue led](http://9gag.com/gag/aPAYL7w)<!-- MEMES:END -->
 
 ---
 
