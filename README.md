@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung’s elusive Galaxy Z Fold 6 variant could be launching as soon as next week](https://www.androidauthority.com/galaxy-z-fold-6-se-launch-date-3491179/)
- - [Best iPad to Buy &lpar;and Some to Avoid&rpar; in 2024](https://www.wired.com/gallery/the-best-ipad/)
- - [Here’s why you’re missing some features from the Android 15 update](https://www.androidauthority.com/android-15-missing-features-3491147/)<!-- TECH:END -->
+ - [Instacart names Anirban Kundu, head of engineering for Uber&#39;s delivery business, as its new CTO, a position that has been vacant for eight months &lpar;Natalie Lung/Bloomberg&rpar;](http://www.techmeme.com/241016/p32#a241016p32)
+ - [Discord says piracy subpoena would violate users’ First Amendment rights](https://www.theverge.com/2024/10/16/24271854/discord-nexon-dmca-subopoena-copyright-piracy)
+ - [Deal: Amazing Samsung Odyssey G9 Series 49-inch monitor hits record-low price](https://www.androidauthority.com/samsung-odyssey-g9-series-49-inch-deal-3491170/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
