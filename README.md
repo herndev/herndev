@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: last week, Meta fired ~24 staff in LA for using $25 meal credits to buy household items, as it restructures WhatsApp, Instagram, and Reality Labs teams &lpar;Financial Times&rpar;](http://www.techmeme.com/241017/p16#a241017p16)
- - [Why It Matters That JD Vance&#39;s Financial Adviser Posted About Drug Use on Reddit for Years](https://www.wired.com/story/jd-vance-financial-adviser-drugs-crypto/)
- - [Oh, WoW](https://www.theverge.com/c/24235606/world-of-warcraft-legacy-mmorpg-blizzard-2004)<!-- TECH:END -->
+ - [Was this the sickest iPod?](https://www.theverge.com/c/24238184/apple-ipod-mini-2004-retro-tech-steve-jobs)
+ - [Private equity firm Permira acquires Squarespace after raising its bid to $7.2B; Squarespace sells restaurant reservation service Tock to Amex for $400M &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/241017/p18#a241017p18)
+ - [Kindle Oasis is dead: Amazon kills its only eReader with physical buttons](https://www.androidauthority.com/amazon-kills-kindle-oasis-3491465/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
