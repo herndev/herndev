@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Made me smiling the whole day](http://9gag.com/gag/aYQY54w)
- - ⏩ [Some things should never have leaked](http://9gag.com/gag/a9yK0Wm)
- - 👉 [What an answer](http://9gag.com/gag/ajP8jRG)<!-- MEMES:END -->
+ - 💣 [Ring them an alarm](http://9gag.com/gag/aryGEmB)
+ - ⏩ [GTA Trevor](http://9gag.com/gag/a7o3g9r)
+ - 👉 [Bad biker](http://9gag.com/gag/aNDYXMb)<!-- MEMES:END -->
 
 ---
 
