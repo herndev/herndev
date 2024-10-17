@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung TV Plus not working? Here’s how to fix it](https://www.androidauthority.com/samsung-tv-plus-not-working-3489586/)
- - [Netflix’s The Electric State is full of big, goofy bots in first trailer](https://www.theverge.com/2024/10/17/24272564/the-electric-state-trailer-netflix-russo-bros)
- - [PBTails Metal Crush Defender Review: Stick Drift, Begone](https://www.wired.com/review/pbtails-metal-crush-defender/)<!-- TECH:END -->
+ - [Billing software company Zuora to be acquired by Silver Lake and GIC in a deal valued at $1.7B, an 18% premium to the closing price when acquisition talks began &lpar;Investing.com&rpar;](http://www.techmeme.com/241017/p21#a241017p21)
+ - [Some iPhone owners are reporting quick battery drain, but it&#39;s not clear why](https://appleinsider.com/articles/24/10/17/some-iphone-owners-are-reporting-quick-battery-drain-but-its-not-clear-why?utm_medium=rss)
+ - [Roadside Assistance via Satellite expands into the UK](https://appleinsider.com/articles/24/10/17/roadside-assistance-via-satellite-expands-into-the-uk?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
