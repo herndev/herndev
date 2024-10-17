@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [The US FTC just dealt a deathblow to bad gyms and skeevy subscription services with a new &#39;click to cancel&#39; rule](https://www.pcgamer.com/gaming-industry/the-us-ftc-just-dealt-a-deathblow-to-bad-gyms-and-skeevy-subscription-services-with-a-new-click-to-cancel-rule)
  - [All 14 followers in Metaphor: ReFantazio and how to complete their bonds](https://www.pcgamer.com/games/rpg/metaphor-refantazio-followers-and-bonds-guide)
- - [Sony&#39;s failed shooter Concord has been updated dozens of times on Steam in October, and I&#39;m starting to feel a comeback](https://www.pcgamer.com/games/fps/sonys-failed-shooter-concord-has-been-updated-dozens-of-times-on-steam-in-october-and-im-starting-to-feel-a-comeback)
- - [Diablo 4 player lands a 235 trillion damage hit with its new class and the pile of overpowered bugs keeping it at the top of the meta](https://www.pcgamer.com/games/rpg/diablo-4-player-lands-a-235-trillion-damage-hit-with-its-new-class-and-the-pile-of-overpowered-bugs-keeping-it-at-the-top-of-the-meta)<!-- GAME:END -->
+ - [Sony&#39;s failed shooter Concord has been updated dozens of times on Steam in October, and I&#39;m starting to feel a comeback](https://www.pcgamer.com/games/fps/sonys-failed-shooter-concord-has-been-updated-dozens-of-times-on-steam-in-october-and-im-starting-to-feel-a-comeback)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
