@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How to make Birthday Cake in Disney Dreamlight Valley](https://www.pcgamer.com/games/life-sim/how-to-make-birthday-cake-disney-dreamlight-valley)
- - [When&#39;s the next Valorant Night Market?](https://www.pcgamer.com/games/fps/valorant-night-market-date)
- - [Let Me Solo Her escapes 180-day Elden Ring ban after the FromSoft cops sent him down for installing Fortnite dances](https://www.pcgamer.com/games/rpg/let-me-solo-her-escapes-180-day-elden-ring-ban-after-the-fromsoft-cops-sent-him-down-for-installing-fortnite-dances)<!-- GAME:END -->
+ - [Free Play Days – NBA 2K25, Dying Light and ExoCross](https://news.xbox.com/en-us/2024/10/17/free-play-days-17-10-2024/)
+ - [One Of The Best-Looking Turn-Based RPGs In Years Just Revealed An All-Star Cast That Includes Gollum](https://kotaku.com/clair-obscur-expedition-33-turn-based-rpg-andy-serkis-1851674347)
+ - [After DMing a bunch of D&amp;D 5e, swapping over to Pathfinder 2e has felt like hanging out with a cool TTRPG uncle that lets you smoke weed](https://www.pcgamer.com/games/board-games/after-dming-a-bunch-of-d-and-d-5e-swapping-over-to-pathfinder-2e-has-felt-like-hanging-out-with-a-cool-ttrpg-uncle-that-lets-you-smoke-weed)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
