@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Religion explained in 60 secs](http://9gag.com/gag/amoBw3o)
- - ⏩ [UNIFIL Peacekeeper Saleh al-Fafowari was killed today by Israeli forces in Lebanon. This tragedy comes just days after his 5th funeral in Gaza.](http://9gag.com/gag/aryG0x5)
- - 👉 [Sane Sunglasses salesman](http://9gag.com/gag/aYQYBnx)<!-- MEMES:END -->
+ - ⏩ [Mission accomplished](http://9gag.com/gag/axyz80K)
+ - 👉 [What an answer](http://9gag.com/gag/ajP8jRG)<!-- MEMES:END -->
 
 ---
 
