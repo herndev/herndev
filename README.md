@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Sane Sunglasses salesman](http://9gag.com/gag/aYQYBnx)
- - ⏩ [Ring them an alarm](http://9gag.com/gag/aryGEmB)
- - 👉 [Quad A quality brought to u by dei trash](http://9gag.com/gag/aBy05rD)<!-- MEMES:END -->
+ - 💣 [Don&#39;t look it up](http://9gag.com/gag/aE02jeG)
+ - ⏩ [Bad biker](http://9gag.com/gag/aNDYXMb)
+ - 👉 [These people are beyond stupid.](http://9gag.com/gag/amoBw1j)<!-- MEMES:END -->
 
 ---
 
