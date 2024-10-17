@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Hacker accused of manipulating Bitcoin prices with a fake SEC tweet was arrested after allegedly searching &#39;what are some signs the FBI is after you&#39;](https://www.pcgamer.com/gaming-industry/hacker-fake-sec-tweet-arrest)
- - [Stalker&#39;s hardcore reputation didn&#39;t prepare me for how surprisingly basic Stalker 2: Heart of Chornobyl is](https://www.pcgamer.com/games/fps/stalkers-hardcore-reputation-didnt-prepare-me-for-how-surprisingly-basic-stalker-2-heart-of-chornobyl-is)
- - [Sea of Thieves Sneaks Into Season 14](https://www.seaofthieves.com/news/season-14-launch#new_tab)<!-- GAME:END -->
+ - [Vox Machina’s biggest season 3 change hits hard, even for the Critical Role cast](https://www.polygon.com/critical-role/466215/legend-vox-machina-percy-cast-death-episode-7)
+ - [YouTuber LGR felt &#39;numbness at how powerless I was&#39; as his one-of-a-kind retro PC collection took a direct hit from hurricane Helene, but seeing most of the trove survive now has him eager to share it with others](https://www.pcgamer.com/gaming-industry/youtuber-lgr-felt-numbness-at-how-powerless-i-was-as-his-one-of-a-kind-retro-pc-collection-took-a-direct-hit-from-hurricane-helene-but-seeing-most-of-the-trove-survive-now-has-him-eager-to-share-it-with-others)
+ - [Fullbright drops a surprise horror game on Steam, and it&#39;s all about giant spiders hiding in disgusting toilets](https://www.pcgamer.com/games/horror/fullbright-drops-a-surprise-horror-game-on-steam-and-its-all-about-giant-spiders-hiding-in-disgusting-toilets)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
