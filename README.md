@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Ring them an alarm](http://9gag.com/gag/aryGEmB)
- - ⏩ [Christ had no part in this sentence.](http://9gag.com/gag/a2vZ3RO)
- - 👉 [#1 priority with time machine](http://9gag.com/gag/aGyZ4xn)<!-- MEMES:END -->
+ - 💣 [#1 priority with time machine](http://9gag.com/gag/aGyZ4xn)
+ - ⏩ [I wish I had a big bro like him](http://9gag.com/gag/aqyKwev)
+ - 👉 [Ring them an alarm](http://9gag.com/gag/aryGEmB)<!-- MEMES:END -->
 
 ---
 
