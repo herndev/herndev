@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [They are right](http://9gag.com/gag/a0eQq3Z)
- - ⏩ [Actually can you move the two fridges so they&#39;re by the exit instead?](http://9gag.com/gag/aD21vBB)
- - 👉 [Looks like a ghost city](http://9gag.com/gag/abAYwj9)<!-- MEMES:END -->
+ - 💣 [This movie had no soundtrack which also made this film unsettling for me. Spooky, how authentic it was.](http://9gag.com/gag/aO8YOqR)
+ - ⏩ [Looks like a ghost city](http://9gag.com/gag/abAYwj9)
+ - 👉 [Hahahaaah woke BS..](http://9gag.com/gag/aQzRb97)<!-- MEMES:END -->
 
 ---
 
