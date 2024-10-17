@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Ring them an alarm](http://9gag.com/gag/aryGEmB)
- - ⏩ [Does size matter?](http://9gag.com/gag/azx9wOj)
- - 👉 [Looks like a ghost city](http://9gag.com/gag/abAYwj9)<!-- MEMES:END -->
+ - 💣 [They know what they are doing](http://9gag.com/gag/a4PQyOZ)
+ - ⏩ [#1 priority with time machine](http://9gag.com/gag/aGyZ4xn)
+ - 👉 [When gamers respect each other](http://9gag.com/gag/a9yKGZ6)<!-- MEMES:END -->
 
 ---
 
