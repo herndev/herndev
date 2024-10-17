@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Where you can play Spycraft, the game so wild we made a documentary about it](https://www.polygon.com/what-to-buy/466800/spycraft-game-movie-where-to-buy)
- - [You Want More Dragon Ball: Sparking Zero Dragon Balls?](https://kotaku.com/dragon-ball-sparking-zero-farm-super-shenron-porunga-1851675082)
- - [Heavys H1H headphones review](https://www.pcgamer.com/hardware/earbuds-headphones/heavys-h1h-headphones-review)<!-- GAME:END -->
+ - [Dropout’s Very Important People season 2 trailer promises even more hilarious interviews with bizarre characters](https://www.polygon.com/comedy/466916/very-important-people-season-2-trailer-dropout-vic-michaelis)
+ - [Everything To Know About Dragon Age: The Veilguard&#39;s Party Ahead Of Launch](https://kotaku.com/dragon-age-veilguard-companions-party-members-dreadwolf-1851530857)
+ - [Everything announced at Microsoft’s Xbox Partner Preview](https://www.polygon.com/gaming/466881/everything-announced-at-microsofts-xbox-partner-preview)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
