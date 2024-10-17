@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google asks 9th Circuit for emergency stay, says Epic ruling ‘is dangerous’](https://www.theverge.com/2024/10/16/24272291/google-play-changes-epic-ruling-9th-circuit-court-of-appeals)
  - [Here&#39;s Just How Massive Elon Musk&#39;s $75 Million Trump Donation Is](https://www.wired.com/story/elon-musk-trump-donations/)
- - [FTC &#39;Click to Cancel&#39; rule makes canceling subscriptions as easy as starting them](https://appleinsider.com/articles/24/10/17/ftc-click-to-cancel-rule-makes-canceling-subscriptions-as-easy-as-starting-them?utm_medium=rss)
- - [Everstage, which offers sales performance management software, raised a $30M Series B led by Eight Roads Ventures, bringing its total raised to $45M &lpar;Duncan Riley/SiliconANGLE&rpar;](http://www.techmeme.com/241016/p42#a241016p42)<!-- TECH:END -->
+ - [FTC &#39;Click to Cancel&#39; rule makes canceling subscriptions as easy as starting them](https://appleinsider.com/articles/24/10/17/ftc-click-to-cancel-rule-makes-canceling-subscriptions-as-easy-as-starting-them?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
