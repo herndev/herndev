@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The 23 Best Movies on Apple TV+ Right Now &lpar;October 2024&rpar;](https://www.wired.com/story/best-apple-tv-plus-movies/)
- - [Filmmakers Are Worried About AI. Big Tech Wants Them to See ‘What&#39;s Possible’](https://www.wired.com/story/filmmakers-are-worried-about-ai-big-tech-wants-them-to-see-whats-possible/)
- - [Qualcomm cancels the Snapdragon Dev Kit, which was supposed to ship in June, and will offer refunds, as the product failed to meet its &quot;standards of excellence&quot; &lpar;Rich Woods/XDA Developers&rpar;](http://www.techmeme.com/241017/p32#a241017p32)<!-- TECH:END -->
+ - [Deal: The Hohem iSteady V3 competes with the best gimbals, and it’s only $129 right now](https://www.androidauthority.com/hohem-isteady-v3-gimbal-deal-3491585/)
+ - [Automattic offered employees another chance to quit over WordPress drama](https://www.theverge.com/2024/10/17/24272867/automattic-employee-buyout-wordpress-drama)
+ - [McLaren updates Google Chrome](https://www.theverge.com/2024/10/17/24272707/mclaren-us-grand-prix-2024-f1-racing-google-chrome-livery)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
