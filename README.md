@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Was this the sickest iPod?](https://www.theverge.com/c/24238184/apple-ipod-mini-2004-retro-tech-steve-jobs)
- - [Private equity firm Permira acquires Squarespace after raising its bid to $7.2B; Squarespace sells restaurant reservation service Tock to Amex for $400M &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/241017/p18#a241017p18)
- - [Kindle Oasis is dead: Amazon kills its only eReader with physical buttons](https://www.androidauthority.com/amazon-kills-kindle-oasis-3491465/)<!-- TECH:END -->
+ - [Samsung TV Plus not working? Here’s how to fix it](https://www.androidauthority.com/samsung-tv-plus-not-working-3489586/)
+ - [Netflix’s The Electric State is full of big, goofy bots in first trailer](https://www.theverge.com/2024/10/17/24272564/the-electric-state-trailer-netflix-russo-bros)
+ - [PBTails Metal Crush Defender Review: Stick Drift, Begone](https://www.wired.com/review/pbtails-metal-crush-defender/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
