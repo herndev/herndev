@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [New Apple Belfast is the only Apple Store in Northern Ireland](https://appleinsider.com/articles/24/10/17/new-apple-belfast-is-the-only-apple-store-in-northern-ireland?utm_medium=rss)
- - [How influencers are changing advertising, with Digitas CEO Amy Lanzi](https://www.theverge.com/24272562/decoder-amy-lanzi-digitas-publicis-influencers-creators-marketing-advertising-generative-ai-adweek)
- - [Amnesty International gives EV makers low marks for human rights policies](https://www.theverge.com/2024/10/17/24270893/ev-battery-supply-chain-human-rights-amnesty-international-report)<!-- TECH:END -->
+ - [The best smartphone you can buy for under $500](https://www.theverge.com/21420196/best-budget-smartphone-cheap)
+ - [Google doesn’t want the Play Store opened up, seeks an emergency stay &lpar;Update: Epic response&rpar;](https://www.androidauthority.com/google-play-store-third-party-app-store-emergency-stay-motion-3491425/)
+ - [DHS Warns Law Enforcement Election Deniers May Attempt to Bomb Drop Boxes](https://www.wired.com/story/dhs-election-denial-violent-attacks/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
