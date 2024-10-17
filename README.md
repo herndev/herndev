@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [They Made A $300 Statue Of One Of The Saddest Moments In Cyberpunk: Edgerunners](https://kotaku.com/cyberpunk-edgerunners-rebecca-adam-smasher-death-statue-1851675150)
- - [Some Pokémon leaks are getting taken down by DMCA requests](https://www.polygon.com/pokemon/466776/dmca-requests-pokemon-leaks-takedowns)
- - [‘Find What I Stole!’ solution and treasure location in Assassin’s Creed Mirage](https://www.polygon.com/guides/23903586/find-what-i-stole-enigma-solution-treasure-location-ac-mirage)<!-- GAME:END -->
+ - [Where you can play Spycraft, the game so wild we made a documentary about it](https://www.polygon.com/what-to-buy/466800/spycraft-game-movie-where-to-buy)
+ - [You Want More Dragon Ball: Sparking Zero Dragon Balls?](https://kotaku.com/dragon-ball-sparking-zero-farm-super-shenron-porunga-1851675082)
+ - [Heavys H1H headphones review](https://www.pcgamer.com/hardware/earbuds-headphones/heavys-h1h-headphones-review)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
