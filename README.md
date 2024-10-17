@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Is it a man? Is it a woman? No... It&#39;s Lara Croft](http://9gag.com/gag/a8739NY)
- - ⏩ [Religion explained in 60 secs](http://9gag.com/gag/amoBw3o)
- - 👉 [Something ain\u2019t right\ud83d\udc80](http://9gag.com/gag/adBLMON)<!-- MEMES:END -->
+ - 💣 [Bad biker](http://9gag.com/gag/aNDYXMb)
+ - ⏩ [I wish I had a big bro like him](http://9gag.com/gag/aqyKwev)
+ - 👉 [Moderation is a propaganda word for Censorship.](http://9gag.com/gag/aXPY3gP)<!-- MEMES:END -->
 
 ---
 
