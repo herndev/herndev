@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Support groups in the Philippines blame GCash, the country&#39;s most popular payment app with 90M+ active users, for a rise in gambling addiction in the country &lpar;Patrick Kho/Rest of World&rpar;](http://www.techmeme.com/241017/p7#a241017p7)
- - [Google finally kills its dead Meet app](https://www.androidauthority.com/google-kills-meet-original-app-3491379/)
- - [The Galaxy Z Fold 6 Special Edition finally has an official launch date](https://www.androidauthority.com/samsung-galaxy-z-fold-6-special-edition-launch-date-3491402/)<!-- TECH:END -->
+ - [An interview with Uber CEO Dara Khosrowshahi on autonomous cars, lobbying regulators to get more EVs on the road, flying taxis, climate goals, and more &lpar;Bloomberg&rpar;](http://www.techmeme.com/241017/p9#a241017p9)
+ - [Android 15 update issues: Here’s why you’re missing some features &lpar;Updated: Rolling out gradually&rpar;](https://www.androidauthority.com/android-15-missing-features-3491147/)
+ - [Hobbyists post the code for Redbox kiosk software online, and tinkerers have been probing how it works, sometimes repurposing abandoned machines to run Doom &lpar;Jason Koebler/404 Media&rpar;](http://www.techmeme.com/241017/p8#a241017p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
