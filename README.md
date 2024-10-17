@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [They know what they are doing](http://9gag.com/gag/a4PQyOZ)
+ - 💣 [Hmm, what could it be?](http://9gag.com/gag/axyzqj1)
  - ⏩ [#1 priority with time machine](http://9gag.com/gag/aGyZ4xn)
- - 👉 [When gamers respect each other](http://9gag.com/gag/a9yKGZ6)<!-- MEMES:END -->
+ - 👉 [Christ had no part in this sentence.](http://9gag.com/gag/a2vZ3RO)<!-- MEMES:END -->
 
 ---
 
