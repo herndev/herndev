@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Ring them an alarm](http://9gag.com/gag/aryGEmB)
- - ⏩ [GTA Trevor](http://9gag.com/gag/a7o3g9r)
- - 👉 [Bad biker](http://9gag.com/gag/aNDYXMb)<!-- MEMES:END -->
+ - ⏩ [Does size matter?](http://9gag.com/gag/azx9wOj)
+ - 👉 [Looks like a ghost city](http://9gag.com/gag/abAYwj9)<!-- MEMES:END -->
 
 ---
 
