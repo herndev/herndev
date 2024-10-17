@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [When do Astro Bot’s speedrun DLC levels go live?](https://www.polygon.com/astro-bot-guides/466172/speedrun-dlc-levels-update-time-schedule)
  - [Today&#39;s Wordle answer for Thursday, October 17](https://www.pcgamer.com/games/puzzle/wordle-answer-today-october-17-2024)
- - [The US FTC just dealt a deathblow to bad gyms and skeevy subscription services with a new &#39;click to cancel&#39; rule](https://www.pcgamer.com/gaming-industry/the-us-ftc-just-dealt-a-deathblow-to-bad-gyms-and-skeevy-subscription-services-with-a-new-click-to-cancel-rule)
- - [All 14 followers in Metaphor: ReFantazio and how to complete their bonds](https://www.pcgamer.com/games/rpg/metaphor-refantazio-followers-and-bonds-guide)<!-- GAME:END -->
+ - [The US FTC just dealt a deathblow to bad gyms and skeevy subscription services with a new &#39;click to cancel&#39; rule](https://www.pcgamer.com/gaming-industry/the-us-ftc-just-dealt-a-deathblow-to-bad-gyms-and-skeevy-subscription-services-with-a-new-click-to-cancel-rule)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
