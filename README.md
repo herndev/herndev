@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Sea of Thieves Sneaks Into Season 14](https://www.seaofthieves.com/news/season-14-launch#new_tab)
- - [Sker Ritual: Tides of Terror DLC Now Available on Xbox Series X|S](https://news.xbox.com/en-us/2024/10/17/sker-ritual-tides-of-terror-dlc-now-available-on-xbox-series-xs/)
- - [Essential spooky Blu-rays are 20% off at Gruv for Halloween](https://www.polygon.com/sales-guide/466999/halloween-horror-movie-4k-blu-ray-gruv-deal)<!-- GAME:END -->
+ - [Hacker accused of manipulating Bitcoin prices with a fake SEC tweet was arrested after allegedly searching &#39;what are some signs the FBI is after you&#39;](https://www.pcgamer.com/gaming-industry/hacker-fake-sec-tweet-arrest)
+ - [Stalker&#39;s hardcore reputation didn&#39;t prepare me for how surprisingly basic Stalker 2: Heart of Chornobyl is](https://www.pcgamer.com/games/fps/stalkers-hardcore-reputation-didnt-prepare-me-for-how-surprisingly-basic-stalker-2-heart-of-chornobyl-is)
+ - [Sea of Thieves Sneaks Into Season 14](https://www.seaofthieves.com/news/season-14-launch#new_tab)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
