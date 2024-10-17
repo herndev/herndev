@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [It’s Mustang Month in Forza Motorsport: Celebrate 1 Year on the Track with a New Update](https://forza.net/news/forza-motorsport-update-13#new_tab)
- - [Former Sony exec says focusing on high-budget blockbusters is &#39;a death sentence&#39; for the games industry](https://www.pcgamer.com/gaming-industry/former-sony-exec-says-focusing-on-high-budget-blockbusters-is-a-death-sentence-for-the-games-industry)
- - [The Pokémon Center Just Released A Ton Of Adorable Winter Holiday Merch](https://kotaku.com/pokemon-center-winter-holiday-merch-christmas-nintendo-1851675507)<!-- GAME:END -->
+ - [Sea of Thieves Sneaks Into Season 14](https://www.seaofthieves.com/news/season-14-launch#new_tab)
+ - [Sker Ritual: Tides of Terror DLC Now Available on Xbox Series X|S](https://news.xbox.com/en-us/2024/10/17/sker-ritual-tides-of-terror-dlc-now-available-on-xbox-series-xs/)
+ - [Essential spooky Blu-rays are 20% off at Gruv for Halloween](https://www.polygon.com/sales-guide/466999/halloween-horror-movie-4k-blu-ray-gruv-deal)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
