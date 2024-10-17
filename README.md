@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Billing software company Zuora to be acquired by Silver Lake and GIC in a deal valued at $1.7B, an 18% premium to the closing price when acquisition talks began &lpar;Investing.com&rpar;](http://www.techmeme.com/241017/p21#a241017p21)
- - [Some iPhone owners are reporting quick battery drain, but it&#39;s not clear why](https://appleinsider.com/articles/24/10/17/some-iphone-owners-are-reporting-quick-battery-drain-but-its-not-clear-why?utm_medium=rss)
- - [Roadside Assistance via Satellite expands into the UK](https://appleinsider.com/articles/24/10/17/roadside-assistance-via-satellite-expands-into-the-uk?utm_medium=rss)<!-- TECH:END -->
+ - [New Apple Belfast is the only Apple Store in Northern Ireland](https://appleinsider.com/articles/24/10/17/new-apple-belfast-is-the-only-apple-store-in-northern-ireland?utm_medium=rss)
+ - [How influencers are changing advertising, with Digitas CEO Amy Lanzi](https://www.theverge.com/24272562/decoder-amy-lanzi-digitas-publicis-influencers-creators-marketing-advertising-generative-ai-adweek)
+ - [Amnesty International gives EV makers low marks for human rights policies](https://www.theverge.com/2024/10/17/24270893/ev-battery-supply-chain-human-rights-amnesty-international-report)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
