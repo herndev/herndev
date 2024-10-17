@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [It was a blast](http://9gag.com/gag/awyADzy)
- - ⏩ [Does size matter?](http://9gag.com/gag/azx9wOj)
- - 👉 [`just wait, stay calm and DON&#39;T PUT YOUR HAND ON THE IRON, F**K, IT&#39;S F**KED, EVERYONE IS GOING TO DIE, BB`ZZZZZZZZ`](http://9gag.com/gag/an79ZZb)<!-- MEMES:END -->
+ - 💣 [Is it a man? Is it a woman? No... It&#39;s Lara Croft](http://9gag.com/gag/a8739NY)
+ - ⏩ [Religion explained in 60 secs](http://9gag.com/gag/amoBw3o)
+ - 👉 [Something ain\u2019t right\ud83d\udc80](http://9gag.com/gag/adBLMON)<!-- MEMES:END -->
 
 ---
 
