@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [If you understand that reference, then it&#39;s time for you to get a girlfriend.](http://9gag.com/gag/ajP8zmx)
- - ⏩ [Bamboozling gypsies](http://9gag.com/gag/abAYNGp)
- - 👉 [Hamas chief Yahya Sinwar is eliminated by Israel defence forces in Rafah. &lpar;Picture in comments&rpar;](http://9gag.com/gag/a5QMOYE)<!-- MEMES:END -->
+ - 💣 [Too soon?](http://9gag.com/gag/aPAY5YB)
+ - ⏩ [Yes man!](http://9gag.com/gag/aO8Yw96)
+ - 👉 [Gossip girl](http://9gag.com/gag/a2vZ3qD)<!-- MEMES:END -->
 
 ---
 
