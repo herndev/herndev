@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Dropout’s Very Important People season 2 trailer promises even more hilarious interviews with bizarre characters](https://www.polygon.com/comedy/466916/very-important-people-season-2-trailer-dropout-vic-michaelis)
- - [Everything To Know About Dragon Age: The Veilguard&#39;s Party Ahead Of Launch](https://kotaku.com/dragon-age-veilguard-companions-party-members-dreadwolf-1851530857)
- - [Everything announced at Microsoft’s Xbox Partner Preview](https://www.polygon.com/gaming/466881/everything-announced-at-microsofts-xbox-partner-preview)<!-- GAME:END -->
+ - [Learning Japanese with games and anime is easier than ever](https://www.polygon.com/gaming/466750/how-to-learn-japanese-with-games-anime)
+ - [Scandal erupts at World Conker Championships as triumphant &#39;King Conker&#39; caught with painted steel replica: &#39;The whole thing is nuts&#39;](https://www.pcgamer.com/gaming-industry/scandal-erupts-at-world-conker-championships-as-triumphant-king-conker-caught-with-painted-steel-replica-the-whole-thing-is-nuts)
+ - [Everything Announced At Xbox&#39;s Short But Sweet October Showcase](https://kotaku.com/everything-recap-xbox-october-showcase-game-pass-fbc-1851675394)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
