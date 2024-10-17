@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Photos is getting a video player makeover: New UI, features revealed &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-photos-new-video-player-ui-features-3491336/)
- - [How to toggle removable and full disk access for apps in macOS Sequoia](https://appleinsider.com/inside/macos-sequoia/tips/how-to-toggle-removable-and-full-disk-access-for-apps-in-macos-sequoia?utm_medium=rss)
- - [Brazilian authorities have arrested a hacker, known as USDoD, who they allege is linked to breaches of National Public Data, the FBI&#39;s InfraGard, and others &lpar;Lawrence Abrams/BleepingComputer&rpar;](http://www.techmeme.com/241016/p43#a241016p43)<!-- TECH:END -->
+ - [Best Buy urges you to upgrade to the iPad mini 7 with 6th Gen trade-in values of up to $350](https://appleinsider.com/articles/24/10/17/best-buy-urges-you-to-upgrade-to-the-ipad-mini-7-with-6th-gen-trade-in-values-of-up-to-350?utm_medium=rss)
+ - [Filing: Google asks the US 9th Circuit for an emergency stay on the Epic ruling, saying the short time it was given to make Play Store changes risks user safety &lpar;The Verge&rpar;](http://www.techmeme.com/241016/p44#a241016p44)
+ - [Google Photos is getting a video player makeover: New UI, features revealed &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-photos-new-video-player-ui-features-3491336/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
