@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [#1 priority with time machine](http://9gag.com/gag/aGyZ4xn)
- - ⏩ [I wish I had a big bro like him](http://9gag.com/gag/aqyKwev)
- - 👉 [Ring them an alarm](http://9gag.com/gag/aryGEmB)<!-- MEMES:END -->
+ - 💣 [If you understand that reference, then it&#39;s time for you to get a girlfriend.](http://9gag.com/gag/ajP8zmx)
+ - ⏩ [Bamboozling gypsies](http://9gag.com/gag/abAYNGp)
+ - 👉 [Hamas chief Yahya Sinwar is eliminated by Israel defence forces in Rafah. &lpar;Picture in comments&rpar;](http://9gag.com/gag/a5QMOYE)<!-- MEMES:END -->
 
 ---
 
