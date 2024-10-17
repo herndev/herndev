@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Hmm, what could it be?](http://9gag.com/gag/axyzqj1)
- - ⏩ [#1 priority with time machine](http://9gag.com/gag/aGyZ4xn)
- - 👉 [Christ had no part in this sentence.](http://9gag.com/gag/a2vZ3RO)<!-- MEMES:END -->
+ - 💣 [Ring them an alarm](http://9gag.com/gag/aryGEmB)
+ - ⏩ [Christ had no part in this sentence.](http://9gag.com/gag/a2vZ3RO)
+ - 👉 [#1 priority with time machine](http://9gag.com/gag/aGyZ4xn)<!-- MEMES:END -->
 
 ---
 
