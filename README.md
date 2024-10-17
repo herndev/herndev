@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Quad A quality brought to u by dei trash](http://9gag.com/gag/aBy05rD)
- - ⏩ [I wish I had a big bro like him](http://9gag.com/gag/aqyKwev)
- - 👉 [Looks like a ghost city](http://9gag.com/gag/abAYwj9)<!-- MEMES:END -->
+ - 💣 [Sane Sunglasses salesman](http://9gag.com/gag/aYQYBnx)
+ - ⏩ [Ring them an alarm](http://9gag.com/gag/aryGEmB)
+ - 👉 [Quad A quality brought to u by dei trash](http://9gag.com/gag/aBy05rD)<!-- MEMES:END -->
 
 ---
 
