@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Bungie is claiming that a bug with one of Destiny 2&#39;s exotic weapons is actually a feature, and I&#39;m going to go into excruciating detail about why I think that&#39;s wrong](https://www.pcgamer.com/games/fps/bungie-is-claiming-that-a-bug-with-one-of-destiny-2s-exotic-weapons-is-actually-a-feature-and-im-going-to-go-into-excruciating-detail-about-why-i-think-thats-wrong)
- - [Skyrim lead says Bethesda was knocked back by furious response to Oblivion Horse Armour DLC, but it sold &#39;millions&#39; anyway: &#39;You&#39;re all making fun of it and yet you buy it&#39;](https://www.pcgamer.com/games/the-elder-scrolls/skyrim-lead-says-bethesda-was-knocked-back-by-furious-response-to-oblivion-horse-armour-dlc-but-it-sold-millions-anyway-youre-all-making-fun-of-it-and-yet-you-buy-it)
- - [‘Magnetic Study’ Minun Timed Research and event guide in Pokémon Go](https://www.polygon.com/pokemon-go-guide/465770/magnetic-study-plusle-minun-magnemite-timed-research-event)<!-- GAME:END -->
+ - [Sea of Thieves Sneaks Into Season 14](https://www.seaofthieves.com/news/season-14-launch#new_tab)
+ - [Researchers seem to have cracked 6G wireless, achieving speeds over 9,000x faster than the 5G average at 938 Gbps—would download Black Myth Wukong in 1.1 seconds](https://www.pcgamer.com/hardware/researchers-seem-to-have-cracked-6g-wireless-achieving-speeds-over-9-000x-faster-than-the-5g-average-at-938-gbps-would-download-black-myth-wukong-in-1-1-seconds)
+ - [Fair play, Exodus—having ex-Bioware devs and Matthew McConaughey on board is neat, but your freaky flesh spaceships have my attention](https://www.pcgamer.com/games/rpg/fair-play-exodus-having-ex-bioware-devs-and-matthew-mcconaughey-on-board-is-neat-but-your-freaky-flesh-spaceships-have-my-attention)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
