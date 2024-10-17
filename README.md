@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This is wild. Daughter going to jail for murdering her parents, and living WITH THEIR DEAD BODIES!!](http://9gag.com/gag/a6ZOeGq)
- - ⏩ [Ow shit. He said it](http://9gag.com/gag/avy8qmM)
- - 👉 [I wish I had a big bro like him](http://9gag.com/gag/aqyKwev)<!-- MEMES:END -->
+ - 💣 [They are right](http://9gag.com/gag/a0eQq3Z)
+ - ⏩ [Actually can you move the two fridges so they&#39;re by the exit instead?](http://9gag.com/gag/aD21vBB)
+ - 👉 [Looks like a ghost city](http://9gag.com/gag/abAYwj9)<!-- MEMES:END -->
 
 ---
 
