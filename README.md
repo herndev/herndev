@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: the EU warns X that it may calculate fines against X by including Elon Musk&#39;s other companies&#39; revenue; the DSA can fine 6% of global annual revenue &lpar;Bloomberg&rpar;](http://www.techmeme.com/241017/p13#a241017p13)
- - [GPS Jamming Is Screwing With Norwegian Planes](https://www.wired.com/story/gps-jamming-is-screwing-with-norwegian-planes/)
- - [This Prompt Can Make an AI Chatbot Identify and Extract Personal Details From Your Chats](https://www.wired.com/story/ai-imprompter-malware-llm/)<!-- TECH:END -->
+ - [Sources: last week, Meta fired ~24 staff in LA for using $25 meal credits to buy household items, as it restructures WhatsApp, Instagram, and Reality Labs teams &lpar;Financial Times&rpar;](http://www.techmeme.com/241017/p16#a241017p16)
+ - [Why It Matters That JD Vance&#39;s Financial Adviser Posted About Drug Use on Reddit for Years](https://www.wired.com/story/jd-vance-financial-adviser-drugs-crypto/)
+ - [Oh, WoW](https://www.theverge.com/c/24235606/world-of-warcraft-legacy-mmorpg-blizzard-2004)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
