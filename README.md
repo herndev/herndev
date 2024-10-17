@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Deal: The Hohem iSteady V3 competes with the best gimbals, and it’s only $129 right now](https://www.androidauthority.com/hohem-isteady-v3-gimbal-deal-3491585/)
- - [Automattic offered employees another chance to quit over WordPress drama](https://www.theverge.com/2024/10/17/24272867/automattic-employee-buyout-wordpress-drama)
- - [McLaren updates Google Chrome](https://www.theverge.com/2024/10/17/24272707/mclaren-us-grand-prix-2024-f1-racing-google-chrome-livery)<!-- TECH:END -->
+ - [The best Xbox controller to buy right now](https://www.theverge.com/23025443/best-xbox-controllers-one-series-x-s)
+ - [Behind the scenes: How AI is reshaping Google](https://www.androidauthority.com/google-reshuffles-ai-teams-3491664/)
+ - [Netflix says subscribers spend two hours a day on the platform](https://www.theverge.com/2024/10/17/24272920/netflix-q3-2024-earnings-subscriber-time-spent)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
