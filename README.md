@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Diablo 4 player lands a 235 trillion damage hit with its new class and the pile of overpowered bugs keeping it at the top of the meta](https://www.pcgamer.com/games/rpg/diablo-4-player-lands-a-235-trillion-damage-hit-with-its-new-class-and-the-pile-of-overpowered-bugs-keeping-it-at-the-top-of-the-meta)
- - [Mechwarrior 5: Clans review](https://www.pcgamer.com/games/action/mechwarrior-5-clans-review)
- - [Disney World&#39;s New Line-Skipping Pass Costs Up To $450 A Day Per Person](https://kotaku.com/disney-lightning-pass-premier-costs-disneyland-world-1851674534)<!-- GAME:END -->
+ - [All 14 followers in Metaphor: ReFantazio and how to complete their bonds](https://www.pcgamer.com/games/rpg/metaphor-refantazio-followers-and-bonds-guide)
+ - [Sony&#39;s failed shooter Concord has been updated dozens of times on Steam in October, and I&#39;m starting to feel a comeback](https://www.pcgamer.com/games/fps/sonys-failed-shooter-concord-has-been-updated-dozens-of-times-on-steam-in-october-and-im-starting-to-feel-a-comeback)
+ - [Diablo 4 player lands a 235 trillion damage hit with its new class and the pile of overpowered bugs keeping it at the top of the meta](https://www.pcgamer.com/games/rpg/diablo-4-player-lands-a-235-trillion-damage-hit-with-its-new-class-and-the-pile-of-overpowered-bugs-keeping-it-at-the-top-of-the-meta)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
