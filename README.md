@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Look how far we come](http://9gag.com/gag/azx9z9j)
- - ⏩ [Ring them an alarm](http://9gag.com/gag/aryGEmB)
- - 👉 [UNIFIL Peacekeeper Saleh al-Fafowari was killed today by Israeli forces in Lebanon. This tragedy comes just days after his 5th funeral in Gaza.](http://9gag.com/gag/aryG0x5)<!-- MEMES:END -->
+ - 💣 [Quad A quality brought to u by dei trash](http://9gag.com/gag/aBy05rD)
+ - ⏩ [I wish I had a big bro like him](http://9gag.com/gag/aqyKwev)
+ - 👉 [Looks like a ghost city](http://9gag.com/gag/abAYwj9)<!-- MEMES:END -->
 
 ---
 
