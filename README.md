@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Hahahaaah woke BS..](http://9gag.com/gag/aQzRb97)
- - ⏩ [Who thinks street racing is a good idea?](http://9gag.com/gag/aMVZ0nX)
- - 👉 [UNIFIL Peacekeeper Saleh al-Fafowari was killed today by Israeli forces in Lebanon. This tragedy comes just days after his 5th funeral in Gaza.](http://9gag.com/gag/aryG0x5)<!-- MEMES:END -->
+ - 💣 [This is wild. Daughter going to jail for murdering her parents, and living WITH THEIR DEAD BODIES!!](http://9gag.com/gag/a6ZOeGq)
+ - ⏩ [Ow shit. He said it](http://9gag.com/gag/avy8qmM)
+ - 👉 [I wish I had a big bro like him](http://9gag.com/gag/aqyKwev)<!-- MEMES:END -->
 
 ---
 
