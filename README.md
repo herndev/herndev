@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Buy urges you to upgrade to the iPad mini 7 with 6th Gen trade-in values of up to $350](https://appleinsider.com/articles/24/10/17/best-buy-urges-you-to-upgrade-to-the-ipad-mini-7-with-6th-gen-trade-in-values-of-up-to-350?utm_medium=rss)
- - [Filing: Google asks the US 9th Circuit for an emergency stay on the Epic ruling, saying the short time it was given to make Play Store changes risks user safety &lpar;The Verge&rpar;](http://www.techmeme.com/241016/p44#a241016p44)
- - [Google Photos is getting a video player makeover: New UI, features revealed &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-photos-new-video-player-ui-features-3491336/)<!-- TECH:END -->
+ - [Open Source Initiative says Meta is &quot;polluting&quot; the term open-source by using it for its Llama models; OSI to publish its definition of open-source AI next week &lpar;Richard Waters/Financial Times&rpar;](http://www.techmeme.com/241017/p1#a241017p1)
+ - [A creepy Halloween Audio Emoji is coming to Google’s Phone app &lpar;Updated: Rolling out&rpar;](https://www.androidauthority.com/halloween-audio-emoji-google-phone-app-3489384/)
+ - [Google is working on a silly gimmick for the Pixel Weather app &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-pixel-weather-app-update-weather-vibrations-3491337/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
