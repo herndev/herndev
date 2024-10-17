@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Winamp owner Llama Group deletes the GitHub repository of the legacy player&#39;s source code posted on September 24, following criticism on the way it was released &lpar;Kevin Purdy/Ars Technica&rpar;](http://www.techmeme.com/241017/p6#a241017p6)
- - [Google Photos could say goodbye to Memories, hello to Timeline &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-photos-memories-timeline-apk-teardown-3489356/)
- - [Google projects the number of reported Android memory safety flaws to be 36 by the end of 2024, down from 220+ in 2019, after adopting memory safety in new code &lpar;Google Online Security Blog&rpar;](http://www.techmeme.com/241017/p5#a241017p5)<!-- TECH:END -->
+ - [Support groups in the Philippines blame GCash, the country&#39;s most popular payment app with 90M+ active users, for a rise in gambling addiction in the country &lpar;Patrick Kho/Rest of World&rpar;](http://www.techmeme.com/241017/p7#a241017p7)
+ - [Google finally kills its dead Meet app](https://www.androidauthority.com/google-kills-meet-original-app-3491379/)
+ - [The Galaxy Z Fold 6 Special Edition finally has an official launch date](https://www.androidauthority.com/samsung-galaxy-z-fold-6-special-edition-launch-date-3491402/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
