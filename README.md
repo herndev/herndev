@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Hong Kong police arrested 24+ members of an alleged pig butchering crime ring, which they say used deepfake AI to lure its victims across Asia and raked in $46M &lpar;Jessie Yeung/CNN&rpar;](http://www.techmeme.com/241017/p3#a241017p3)
- - [Accel: VC funding for cloud startups in the US, Europe, and Israel to rise 27% YoY to $79.2B in 2024, with 40% of the funding going to generative AI startups &lpar;Ryan Browne/CNBC&rpar;](http://www.techmeme.com/241017/p2#a241017p2)
- - [Open Source Initiative says Meta is &quot;polluting&quot; the term open-source by using it for its Llama models; OSI to publish its definition of open-source AI next week &lpar;Richard Waters/Financial Times&rpar;](http://www.techmeme.com/241017/p1#a241017p1)<!-- TECH:END -->
+ - [Winamp owner Llama Group deletes the GitHub repository of the legacy player&#39;s source code posted on September 24, following criticism on the way it was released &lpar;Kevin Purdy/Ars Technica&rpar;](http://www.techmeme.com/241017/p6#a241017p6)
+ - [Google Photos could say goodbye to Memories, hello to Timeline &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-photos-memories-timeline-apk-teardown-3489356/)
+ - [Google projects the number of reported Android memory safety flaws to be 36 by the end of 2024, down from 220+ in 2019, after adopting memory safety in new code &lpar;Google Online Security Blog&rpar;](http://www.techmeme.com/241017/p5#a241017p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
