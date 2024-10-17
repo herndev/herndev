@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [An interview with Uber CEO Dara Khosrowshahi on autonomous cars, lobbying regulators to get more EVs on the road, flying taxis, climate goals, and more &lpar;Bloomberg&rpar;](http://www.techmeme.com/241017/p9#a241017p9)
- - [Android 15 update issues: Here’s why you’re missing some features &lpar;Updated: Rolling out gradually&rpar;](https://www.androidauthority.com/android-15-missing-features-3491147/)
- - [Hobbyists post the code for Redbox kiosk software online, and tinkerers have been probing how it works, sometimes repurposing abandoned machines to run Doom &lpar;Jason Koebler/404 Media&rpar;](http://www.techmeme.com/241017/p8#a241017p8)<!-- TECH:END -->
+ - [How machine learning could have transformative effects on Africa&#39;s developing economies and societies, as some critics worry over a deepening digital divide &lpar;Financial Times&rpar;](http://www.techmeme.com/241017/p10#a241017p10)
+ - [This backpack solar generator can help you ignore nature](https://www.theverge.com/2024/10/17/24272480/bluetti-handsfree-backpack-power-station-price-specs)
+ - [Google doesn’t want the Play Store opened up, seeks an emergency stay](https://www.androidauthority.com/google-play-store-third-party-app-store-emergency-stay-motion-3491425/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
