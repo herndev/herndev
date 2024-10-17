@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best Xbox controller to buy right now](https://www.theverge.com/23025443/best-xbox-controllers-one-series-x-s)
- - [Behind the scenes: How AI is reshaping Google](https://www.androidauthority.com/google-reshuffles-ai-teams-3491664/)
- - [Netflix says subscribers spend two hours a day on the platform](https://www.theverge.com/2024/10/17/24272920/netflix-q3-2024-earnings-subscriber-time-spent)<!-- TECH:END -->
+ - [ChatGPT has a Windows app now](https://www.theverge.com/2024/10/17/24273040/chatgpt-windows-app-subscribers-openai)
+ - [How a 12-Ounce Layer of Foam Changed the NFL](https://www.wired.com/story/nfl-guardian-caps-hanson-concussions-cte/)
+ - [Activision says it’s fixed an anti-cheat hack in Modern Warfare III and Call of Duty: Warzone](https://www.theverge.com/2024/10/17/24272984/activision-anti-cheat-hack-call-of-duty-modern-warfare-iii-warzone)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
