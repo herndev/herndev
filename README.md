@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How machine learning could have transformative effects on Africa&#39;s developing economies and societies, as some critics worry over a deepening digital divide &lpar;Financial Times&rpar;](http://www.techmeme.com/241017/p10#a241017p10)
- - [This backpack solar generator can help you ignore nature](https://www.theverge.com/2024/10/17/24272480/bluetti-handsfree-backpack-power-station-price-specs)
- - [Google doesn’t want the Play Store opened up, seeks an emergency stay](https://www.androidauthority.com/google-play-store-third-party-app-store-emergency-stay-motion-3491425/)<!-- TECH:END -->
+ - [Sources: the EU warns X that it may calculate fines against X by including Elon Musk&#39;s other companies&#39; revenue; the DSA can fine 6% of global annual revenue &lpar;Bloomberg&rpar;](http://www.techmeme.com/241017/p13#a241017p13)
+ - [GPS Jamming Is Screwing With Norwegian Planes](https://www.wired.com/story/gps-jamming-is-screwing-with-norwegian-planes/)
+ - [This Prompt Can Make an AI Chatbot Identify and Extract Personal Details From Your Chats](https://www.wired.com/story/ai-imprompter-malware-llm/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
