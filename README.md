@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Don&#39;t look it up](http://9gag.com/gag/aE02jeG)
- - ⏩ [Bad biker](http://9gag.com/gag/aNDYXMb)
- - 👉 [These people are beyond stupid.](http://9gag.com/gag/amoBw1j)<!-- MEMES:END -->
+ - 💣 [Religion explained in 60 secs](http://9gag.com/gag/amoBw3o)
+ - ⏩ [UNIFIL Peacekeeper Saleh al-Fafowari was killed today by Israeli forces in Lebanon. This tragedy comes just days after his 5th funeral in Gaza.](http://9gag.com/gag/aryG0x5)
+ - 👉 [Sane Sunglasses salesman](http://9gag.com/gag/aYQYBnx)<!-- MEMES:END -->
 
 ---
 
