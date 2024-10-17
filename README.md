@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Bad biker](http://9gag.com/gag/aNDYXMb)
- - ⏩ [I wish I had a big bro like him](http://9gag.com/gag/aqyKwev)
- - 👉 [Moderation is a propaganda word for Censorship.](http://9gag.com/gag/aXPY3gP)<!-- MEMES:END -->
+ - 💣 [Made me smiling the whole day](http://9gag.com/gag/aYQY54w)
+ - ⏩ [Some things should never have leaked](http://9gag.com/gag/a9yK0Wm)
+ - 👉 [What an answer](http://9gag.com/gag/ajP8jRG)<!-- MEMES:END -->
 
 ---
 
