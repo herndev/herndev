@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Too soon?](http://9gag.com/gag/aPAY5YB)
- - ⏩ [Yes man!](http://9gag.com/gag/aO8Yw96)
+ - 💣 [Christ had no part in this sentence.](http://9gag.com/gag/a2vZ3RO)
+ - ⏩ [I wish I had a big bro like him](http://9gag.com/gag/aqyKwev)
  - 👉 [Gossip girl](http://9gag.com/gag/a2vZ3qD)<!-- MEMES:END -->
 
 ---
