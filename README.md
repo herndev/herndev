@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Free Play Days – NBA 2K25, Dying Light and ExoCross](https://news.xbox.com/en-us/2024/10/17/free-play-days-17-10-2024/)
- - [One Of The Best-Looking Turn-Based RPGs In Years Just Revealed An All-Star Cast That Includes Gollum](https://kotaku.com/clair-obscur-expedition-33-turn-based-rpg-andy-serkis-1851674347)
- - [After DMing a bunch of D&amp;D 5e, swapping over to Pathfinder 2e has felt like hanging out with a cool TTRPG uncle that lets you smoke weed](https://www.pcgamer.com/games/board-games/after-dming-a-bunch-of-d-and-d-5e-swapping-over-to-pathfinder-2e-has-felt-like-hanging-out-with-a-cool-ttrpg-uncle-that-lets-you-smoke-weed)<!-- GAME:END -->
+ - [They Made A $300 Statue Of One Of The Saddest Moments In Cyberpunk: Edgerunners](https://kotaku.com/cyberpunk-edgerunners-rebecca-adam-smasher-death-statue-1851675150)
+ - [Some Pokémon leaks are getting taken down by DMCA requests](https://www.polygon.com/pokemon/466776/dmca-requests-pokemon-leaks-takedowns)
+ - [‘Find What I Stole!’ solution and treasure location in Assassin’s Creed Mirage](https://www.polygon.com/guides/23903586/find-what-i-stole-enigma-solution-treasure-location-ac-mirage)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
