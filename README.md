@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Sea of Thieves Sneaks Into Season 14](https://www.seaofthieves.com/news/season-14-launch#new_tab)
- - [Researchers seem to have cracked 6G wireless, achieving speeds over 9,000x faster than the 5G average at 938 Gbps—would download Black Myth Wukong in 1.1 seconds](https://www.pcgamer.com/hardware/researchers-seem-to-have-cracked-6g-wireless-achieving-speeds-over-9-000x-faster-than-the-5g-average-at-938-gbps-would-download-black-myth-wukong-in-1-1-seconds)
- - [Fair play, Exodus—having ex-Bioware devs and Matthew McConaughey on board is neat, but your freaky flesh spaceships have my attention](https://www.pcgamer.com/games/rpg/fair-play-exodus-having-ex-bioware-devs-and-matthew-mcconaughey-on-board-is-neat-but-your-freaky-flesh-spaceships-have-my-attention)<!-- GAME:END -->
+ - [How to make Birthday Cake in Disney Dreamlight Valley](https://www.pcgamer.com/games/life-sim/how-to-make-birthday-cake-disney-dreamlight-valley)
+ - [When&#39;s the next Valorant Night Market?](https://www.pcgamer.com/games/fps/valorant-night-market-date)
+ - [Let Me Solo Her escapes 180-day Elden Ring ban after the FromSoft cops sent him down for installing Fortnite dances](https://www.pcgamer.com/games/rpg/let-me-solo-her-escapes-180-day-elden-ring-ban-after-the-fromsoft-cops-sent-him-down-for-installing-fortnite-dances)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
