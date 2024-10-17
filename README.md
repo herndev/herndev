@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Uber has explored a possible bid for Expedia as it seeks to grow into a super app; Expedia, valued at nearly $20B, would be Uber&#39;s largest acquisition &lpar;Financial Times&rpar;](http://www.techmeme.com/241016/p40#a241016p40)
- - [Meta is laying off employees at WhatsApp, Instagram, and more](https://www.theverge.com/2024/10/16/24272195/meta-layoffs-whatsapp-instagram-reality-labs)
- - [The best smartwatches for Android](https://www.theverge.com/23449363/best-android-smartwatches-wear-os)<!-- TECH:END -->
+ - [Here&#39;s Just How Massive Elon Musk&#39;s $75 Million Trump Donation Is](https://www.wired.com/story/elon-musk-trump-donations/)
+ - [FTC &#39;Click to Cancel&#39; rule makes canceling subscriptions as easy as starting them](https://appleinsider.com/articles/24/10/17/ftc-click-to-cancel-rule-makes-canceling-subscriptions-as-easy-as-starting-them?utm_medium=rss)
+ - [Everstage, which offers sales performance management software, raised a $30M Series B led by Eight Roads Ventures, bringing its total raised to $45M &lpar;Duncan Riley/SiliconANGLE&rpar;](http://www.techmeme.com/241016/p42#a241016p42)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
