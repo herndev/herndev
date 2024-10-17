@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best smartphone you can buy for under $500](https://www.theverge.com/21420196/best-budget-smartphone-cheap)
- - [Google doesn’t want the Play Store opened up, seeks an emergency stay &lpar;Update: Epic response&rpar;](https://www.androidauthority.com/google-play-store-third-party-app-store-emergency-stay-motion-3491425/)
- - [DHS Warns Law Enforcement Election Deniers May Attempt to Bomb Drop Boxes](https://www.wired.com/story/dhs-election-denial-violent-attacks/)<!-- TECH:END -->
+ - [Apple Watch Ultra 2 in black review: Same tech, but the new color is absolutely fantastic](https://appleinsider.com/articles/24/10/16/apple-watch-ultra-2-in-black-review-same-tech-but-the-new-color-is-absolutely-fantastic?utm_medium=rss)
+ - [Smartwatch maker Polar dodges bullet in recent hack, but some customers still affected](https://www.androidauthority.com/polar-us-store-hacked-3491581/)
+ - [SpaceX Has a Plan for Starlink to Hit Gigabit Speeds](https://www.wired.com/story/spacex-starlink-internet-gigabit-speeds-fcc/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
