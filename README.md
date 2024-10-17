@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Watch Ultra 2 in black review: Same tech, but the new color is absolutely fantastic](https://appleinsider.com/articles/24/10/16/apple-watch-ultra-2-in-black-review-same-tech-but-the-new-color-is-absolutely-fantastic?utm_medium=rss)
- - [Smartwatch maker Polar dodges bullet in recent hack, but some customers still affected](https://www.androidauthority.com/polar-us-store-hacked-3491581/)
- - [SpaceX Has a Plan for Starlink to Hit Gigabit Speeds](https://www.wired.com/story/spacex-starlink-internet-gigabit-speeds-fcc/)<!-- TECH:END -->
+ - [The 23 Best Movies on Apple TV+ Right Now &lpar;October 2024&rpar;](https://www.wired.com/story/best-apple-tv-plus-movies/)
+ - [Filmmakers Are Worried About AI. Big Tech Wants Them to See ‘What&#39;s Possible’](https://www.wired.com/story/filmmakers-are-worried-about-ai-big-tech-wants-them-to-see-whats-possible/)
+ - [Qualcomm cancels the Snapdragon Dev Kit, which was supposed to ship in June, and will offer refunds, as the product failed to meet its &quot;standards of excellence&quot; &lpar;Rich Woods/XDA Developers&rpar;](http://www.techmeme.com/241017/p32#a241017p32)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
