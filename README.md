@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Violence of the beliefs](http://9gag.com/gag/amoBEYX)
- - ⏩ [A drone video showing sinwar&#39;s last minutes alive](http://9gag.com/gag/a0eQB3O)
- - 👉 [#1 priority with time machine](http://9gag.com/gag/aGyZ4xn)<!-- MEMES:END -->
+ - 💣 [Clown world](http://9gag.com/gag/aRB1qY2)
+ - ⏩ [What did you expect?](http://9gag.com/gag/a34QV77)
+ - 👉 [If there&#39;s a hole, there&#39;s a goal](http://9gag.com/gag/aryG7dp)<!-- MEMES:END -->
 
 ---
 
