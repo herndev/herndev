@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Photos expands automatic backups to another platform](https://www.androidauthority.com/google-photos-folder-backup-3491928/)
- - [You Can Now See the Code That Helped End Apartheid](https://www.wired.com/story/plaintext-you-can-now-see-the-code-that-ended-apartheid/)
- - [The future of the Kindle with Panos Panay](https://www.theverge.com/2024/10/18/24273208/amazon-kindle-panos-panay-ipad-mini-google-vergecast)<!-- TECH:END -->
+ - [Nintendo’s Alarmo is cute and cozy — but it’s still just an alarm clock](https://www.theverge.com/24273422/nintendo-alarmo-review-alarm-clock)
+ - [Feds are investigating Tesla ‘Full Self-Driving’ crashes in reduced visibility](https://www.theverge.com/2024/10/18/24273418/nhtsa-tesla-full-self-driving-investigation-crashes)
+ - [Elehear Beyond Review: Super Big Hearing Aids](https://www.wired.com/review/elehear-beyond/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
