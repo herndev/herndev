@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Boost Your Daily Coffee Ritual With My Favorite Mini Coffee Scale](https://www.cnet.com/deals/boost-your-daily-coffee-ritual-with-my-favorite-mini-coffee-scale/#ftag=CAD590a51e)
- - [Amazon’s latest Fire TV Stick gives you room to lose your TV remote](https://www.androidauthority.com/amazon-fire-tv-stick-hd-3491364/)
- - [Best Internet Providers in Providence, Rhode Island](https://www.cnet.com/home/internet/best-internet-providers-in-providence-ri/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Netflix gained 5.1M new subscribers in Q3, vs. 4M est., and says more than 50% of signups were for its ad-supported tier in countries where it was available &lpar;Reuters&rpar;](http://www.techmeme.com/241018/p3#a241018p3)
+ - [A look at Dippy, an AI companion startup that lets users see the reasoning behind their chatbot&#39;s replies, claims to have 50K DAUs, and raised a $2.1M pre-seed &lpar;Will Knight/Wired&rpar;](http://www.techmeme.com/241018/p2#a241018p2)
+ - [Check your email: Google Fi is offering $25 Fi credit as hurricane relief](https://www.androidauthority.com/google-fi-credit-hurricane-relief-3491847/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
