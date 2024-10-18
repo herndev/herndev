@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Boost Your Daily Coffee Ritual With My Favorite Mini Coffee Scale](https://www.cnet.com/deals/boost-your-daily-coffee-ritual-with-my-favorite-mini-coffee-scale/#ftag=CAD590a51e)
  - [Amazon’s latest Fire TV Stick gives you room to lose your TV remote](https://www.androidauthority.com/amazon-fire-tv-stick-hd-3491364/)
- - [Dell Coupon Code: 10% Off Select Items](https://www.wired.com/story/dell-coupon-code/)
- - [Google Play will force many apps to use Android’s Photo Picker for better privacy](https://www.androidauthority.com/google-force-android-photo-picker-3491650/)<!-- TECH:END -->
+ - [Best Internet Providers in Providence, Rhode Island](https://www.cnet.com/home/internet/best-internet-providers-in-providence-ri/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
