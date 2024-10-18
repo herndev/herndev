@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Clown world](http://9gag.com/gag/aRB1qY2)
- - ⏩ [If there&#39;s a hole, there&#39;s a goal](http://9gag.com/gag/aryG7dp)
- - 👉 [We trusted our lives with this bus signal. He is the man!!!](http://9gag.com/gag/a9yKQqK)<!-- MEMES:END -->
+ - 💣 [Ginger ale straight from the tap](http://9gag.com/gag/a0eQAvO)
+ - ⏩ [The best cookies ever.](http://9gag.com/gag/agmnP3x)
+ - 👉 [A drone video showing sinwar&#39;s last minutes alive](http://9gag.com/gag/a0eQB3O)<!-- MEMES:END -->
 
 ---
 
