@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Hot deal: This 8Bitdo Retro Mechanical Keyboard is every geek’s dream, especially at this price](https://www.androidauthority.com/8bitdo-retro-mechanical-keyboard-deal-3492083/)
- - [First benchmarks show massive leap in iPad mini performance](https://appleinsider.com/articles/24/10/18/first-benchmarks-show-massive-leap-in-ipad-mini-performance?utm_medium=rss)
- - [A look at Greg Brockman&#39;s role at OpenAI, as his return from a sabbatical nears; sources: OpenAI CFO thinks Apple pulled out of fundraising due to Murati&#39;s exit &lpar;The Information&rpar;](http://www.techmeme.com/241018/p14#a241018p14)<!-- TECH:END -->
+ - [You can still get a free $100 gift card when you buy a Samsung Galaxy S24 FE](https://www.androidauthority.com/samsung-galaxy-s24-fe-free-gift-card-deal-3492082/)
+ - [The FTC is trying to find out if John Deere’s repair policies broke the law](https://www.theverge.com/2024/10/18/24273639/ftc-probe-john-deere-right-to-repair)
+ - [The Apple Keyboard Is Bad. Upgrade to the Nuio Flow Instead](https://www.wired.com/story/nuio-flow-keyboard-hands-on/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
