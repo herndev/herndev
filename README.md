@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [#1 priority with time machine](http://9gag.com/gag/aGyZ4xn)
- - ⏩ [Yes man!](http://9gag.com/gag/aO8Yw96)
- - 👉 [Clown world](http://9gag.com/gag/aRB1qY2)<!-- MEMES:END -->
+ - 💣 [That&#39;s so satisfying ..](http://9gag.com/gag/aZZLGbW)
+ - ⏩ [This guy](http://9gag.com/gag/aGyZ4wn)
+ - 👉 [Christ had no part in this sentence.](http://9gag.com/gag/a2vZ3RO)<!-- MEMES:END -->
 
 ---
 
