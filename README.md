@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Destiny 2 Iron Banner schedule dates for 2024](https://www.polygon.com/destiny-2-guide-walkthrough/23971548/iron-banner-schedule-dates-when-next)
  - [Today&#39;s Wordle answer for Friday, October 18](https://www.pcgamer.com/games/puzzle/wordle-answer-today-october-18-2024)
- - [How to unlock &lpar;and use&rpar; every archetype in Metaphor: ReFantazio](https://www.pcgamer.com/games/rpg/metaphor-refantazio-every-archetype-and-how-to-unlock-them)
- - [Activision says it fixed a &#39;workaround&#39; in Call of Duty anti-cheat that banned &#39;a small number of innocent players,&#39; but a cheat maker claims they could ban anyone by typing two words into chat](https://www.pcgamer.com/games/call-of-duty/activision-says-it-fixed-a-workaround-in-call-of-duty-anti-cheat-that-banned-a-small-number-of-innocent-players-but-a-cheat-maker-claims-they-could-ban-anyone-by-typing-two-words-into-chat)<!-- GAME:END -->
+ - [How to unlock &lpar;and use&rpar; every archetype in Metaphor: ReFantazio](https://www.pcgamer.com/games/rpg/metaphor-refantazio-every-archetype-and-how-to-unlock-them)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
