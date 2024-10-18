@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google is making it easier to use a password manager inside Chrome on Android](https://www.theverge.com/2024/10/18/24273369/google-chrome-android-password-manager-native-autofill)
- - [You overwhelmingly prefer Google News as your news source on mobile](https://www.androidauthority.com/google-news-news-source-poll-results-3491864/)
- - [Byju&#39;s founder Byju Raveendran says his edtech startup, valued at $22B in 2022, is effectively &quot;worth zero&quot;, and that he made mistakes and mistimed the market &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/241018/p4#a241018p4)<!-- TECH:END -->
+ - [Some Pixel 8 Pro users are facing back gesture issues on Android 15, but there’s a fix](https://www.androidauthority.com/google-pixel-8-pro-swipe-back-gesture-issues-android-15-fix-3491887/)
+ - [14 Practical Gift Ideas for New Parents and Their Babies](https://www.wired.com/gallery/gift-ideas-for-new-parents-2024/)
+ - [Sources: Samsung has postponed taking deliveries of ASML chipmaking equipment for its upcoming factory in Taylor, Texas as it has yet to win any major customers &lpar;Reuters&rpar;](http://www.techmeme.com/241018/p5#a241018p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
