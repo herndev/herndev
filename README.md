@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [You can still get a free $100 gift card when you buy a Samsung Galaxy S24 FE](https://www.androidauthority.com/samsung-galaxy-s24-fe-free-gift-card-deal-3492082/)
- - [The FTC is trying to find out if John Deere’s repair policies broke the law](https://www.theverge.com/2024/10/18/24273639/ftc-probe-john-deere-right-to-repair)
- - [The Apple Keyboard Is Bad. Upgrade to the Nuio Flow Instead](https://www.wired.com/story/nuio-flow-keyboard-hands-on/)<!-- TECH:END -->
+ - [Epic judge lets Google keep its Android app store closed to competitors — for now](https://www.theverge.com/2024/10/18/24271996/google-epic-lawsuit-play-third-party-app-store-changes-delayed-administrative-stay-granted)
+ - [OnePlus might be ditching curved edges too](https://www.theverge.com/2024/10/18/24273650/oneplus-13-leak-rumor-design-flat-edge)
+ - [Android 15 has satellite messaging support. So why can’t you use it?](https://www.androidauthority.com/satellite-messaging-android-15-google-3492088/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
