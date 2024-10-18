@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best new streaming shows this week: Rivals and more](https://www.androidauthority.com/best-new-tv-shows-to-stream-this-week-3084538/)
- - [Sam Altman’s eyeball-scanning crypto project has a new Orb and a new name](https://www.theverge.com/2024/10/18/24273691/world-orb-sam-altman-iris-scan-crypto-token)
- - [The Legend of Zelda: Tears of the Kingdom is just $40 for first-time Woot buyers](https://www.theverge.com/2024/10/18/24273464/legend-of-zelda-tears-of-the-kingdom-nintendo-switch-deal-sale)<!-- TECH:END -->
+ - [Report: OpenAI sees a clause in its Microsoft contract, which cuts off Microsoft&#39;s access to OpenAI tech if OpenAI develops AGI, as a path to a better contract &lpar;Connie Loizos/TechCrunch&rpar;](http://www.techmeme.com/241018/p17#a241018p17)
+ - [iPhone 17 Slim still rumored to have a 6.6-inch display](https://appleinsider.com/articles/24/10/18/iphone-17-slim-still-rumored-to-have-a-66-inch-display?utm_medium=rss)
+ - [Nolah Signature Hybrid Mattress Review 2024: Nolah&#39;s Newest Hybrid Bed Tested by Experts](https://www.cnet.com/health/sleep/nolah-signature-hybrid-mattress-review/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
