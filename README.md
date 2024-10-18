@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Today&#39;s NYT Mini Crossword Answers for Oct. 18](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-oct-18/#ftag=CAD590a51e)
- - [FCC mandates all mobile phones in the US to be compatible with hearing aids](https://www.androidauthority.com/fcc-mobile-phones-hearing-aid-compatibility-3491793/)
- - [The MacBook Air updated with TK](https://www.cnet.com/tech/computing/the-macbook-air-updated-with-tk/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Amazon’s latest Fire TV Stick gives you room to lose your TV remote](https://www.androidauthority.com/amazon-fire-tv-stick-hd-3491364/)
+ - [Dell Coupon Code: 10% Off Select Items](https://www.wired.com/story/dell-coupon-code/)
+ - [Google Play will force many apps to use Android’s Photo Picker for better privacy](https://www.androidauthority.com/google-force-android-photo-picker-3491650/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
