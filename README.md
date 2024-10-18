@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nintendo’s Alarmo is cute and cozy — but it’s still just an alarm clock](https://www.theverge.com/24273422/nintendo-alarmo-review-alarm-clock)
- - [Feds are investigating Tesla ‘Full Self-Driving’ crashes in reduced visibility](https://www.theverge.com/2024/10/18/24273418/nhtsa-tesla-full-self-driving-investigation-crashes)
- - [Elehear Beyond Review: Super Big Hearing Aids](https://www.wired.com/review/elehear-beyond/)<!-- TECH:END -->
+ - [Ploopy’s 3D-printed, open-source trackpad is thoroughly customizable](https://www.theverge.com/2024/10/18/24273416/ploopy-trackpad-diy-open-source)
+ - [iPad mini 7, Apple Vision Pro 2, and another executive leaves Apple, on the AppleInsider Podcast](https://appleinsider.com/articles/24/10/18/ipad-mini-7-apple-vision-pro-2-and-another-executive-leaves-apple-on-the-appleinsider-podcast?utm_medium=rss)
+ - [Sony&#39;s PSVR2 PC Adapter Is a Poor Apology to PlayStation Fans](https://www.wired.com/story/sonys-psvr2-pc-adapter-is-a-poor-apology-to-playstation-fans/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
