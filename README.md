@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This CGI is more than 10 years old. and still better than nowadays CGI &lpar;esp disneys&rpar;](http://9gag.com/gag/a0eQy2n)
- - ⏩ [Revealing dress](http://9gag.com/gag/a9yK9MW)
- - 👉 [Clown world](http://9gag.com/gag/aRB1qY2)<!-- MEMES:END -->
+ - 💣 [I really wonder why\u2026](http://9gag.com/gag/aPAY5Dg)
+ - ⏩ [Pepperidge farm remembers](http://9gag.com/gag/an79LYq)
+ - 👉 [Hmm, what could it be?](http://9gag.com/gag/axyzqj1)<!-- MEMES:END -->
 
 ---
 
