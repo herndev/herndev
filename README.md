@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [&#39;Catch and remove cheaters within one hour&#39;: Call of Duty: Black Ops 6 anti-cheat team sets a lofty goal for the new game](https://www.pcgamer.com/games/call-of-duty/catch-and-remove-cheaters-within-one-hour-call-of-duty-black-ops-6-anti-cheat-team-sets-a-lofty-goal-for-the-new-game)
- - [The maker of an Assassin&#39;s Creed Shadows statue featuring a one-legged torii says the design was &#39;insensitive&#39; and will be changed](https://www.pcgamer.com/games/action/the-maker-of-an-assassins-creed-shadows-statue-featuring-a-one-legged-torii-says-the-design-was-insensitive-and-will-be-changed)
- - [Daniel Craig Reportedly Told Netflix&#39;s CEO His Business Model Was &#39;F***ed&#39;](https://kotaku.com/daniel-craig-netflix-streaming-model-knives-out-2-ted-1851676561)<!-- GAME:END -->
+ - [Magic: The Gathering team says timing is key for upcoming Marvel releases](https://www.polygon.com/mtg-magic-the-gathering/467434/marvel-mtg-universes-beyond-timing-release-date-price)
+ - [No Plans For Spider-Man 2 Story DLC, Insomniac Confirms](https://kotaku.com/spider-man-2-dlc-plans-confirmed-news-insomniac-pc-port-1851676695)
+ - [Fallout: London&#39;s latest patch makes more than 1,000 fixes and changes: &#39;The mod should be as solid as a rock&#39;](https://www.pcgamer.com/games/rpg/fallout-londons-latest-patch-makes-more-than-1-000-fixes-and-changes-the-mod-should-be-as-solid-as-a-rock)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
