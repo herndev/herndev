@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Report: OpenAI sees a clause in its Microsoft contract, which cuts off Microsoft&#39;s access to OpenAI tech if OpenAI develops AGI, as a path to a better contract &lpar;Connie Loizos/TechCrunch&rpar;](http://www.techmeme.com/241018/p17#a241018p17)
- - [iPhone 17 Slim still rumored to have a 6.6-inch display](https://appleinsider.com/articles/24/10/18/iphone-17-slim-still-rumored-to-have-a-66-inch-display?utm_medium=rss)
- - [Nolah Signature Hybrid Mattress Review 2024: Nolah&#39;s Newest Hybrid Bed Tested by Experts](https://www.cnet.com/health/sleep/nolah-signature-hybrid-mattress-review/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [In Shinichirō Watanabe’s Lazarus, parkour is the only way to go](https://www.theverge.com/2024/10/18/24273902/lazarus-trailer-adult-swim-shinichro-watanabe)
+ - [Spider-Man 2 is latest PlayStation exclusive coming to PC](https://www.theverge.com/2024/10/18/24273919/spider-man-2-pc-release-date)
+ - [Google appears to have pushed the wrong OTA notification to Android 15 beta testers](https://www.androidauthority.com/android-15-beta-update-3492117/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
