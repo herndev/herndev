@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Shocktober: Enjoy Savory Savings, Evocative Events, and Gruesome Games This Spooky Season](https://news.xbox.com/en-us/2024/10/18/shocktober-2024-enjoy-savory-savings/)
- - [&#39;UFO 50 has taken over my life&#39;: A fan has built a playable LX computer and plans to sell the blueprints for the parts on Etsy](https://www.pcgamer.com/hardware/ufo-50-has-taken-over-my-life-a-fan-has-built-a-playable-lx-computer-and-plans-to-sell-the-blueprints-for-the-parts-on-etsy)
- - [PlayStation loses fight in EU courts to stop sale of &#39;parasite&#39; mods because, among other reasons, a book author can&#39;t stop &#39;the reader from skipping to the end&#39;](https://www.pcgamer.com/gaming-industry/playstation-loses-fight-in-eu-courts-to-stop-sale-of-parasite-mods-because-among-other-reasons-a-book-author-cant-stop-the-reader-from-skipping-to-the-end)<!-- GAME:END -->
+ - [Dragon Ball: Sparking Zero Is About To Nerf One Of Its Most OP Fighters](https://kotaku.com/dragon-ball-sparking-zero-patch-yajirobe-lag-nerf-1851676334)
+ - [I fed Google&#39;s new notebook summarisation feature my article about the potential dangers of AI scraping and it&#39;s as creepy and self-aware as you would think](https://www.pcgamer.com/software/ai/i-fed-googles-new-notebook-summarisation-feature-my-article-about-the-potential-dangers-of-ai-scraping-and-its-as-creepy-and-self-aware-as-you-would-think)
+ - [Amazon&#39;s God of War TV show is starting over from scratch after the showrunner and executive producers all quit](https://www.pcgamer.com/movies-tv/amazons-god-of-war-tv-show-is-starting-over-from-scratch-after-the-showrunner-and-executive-producers-all-quit)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
