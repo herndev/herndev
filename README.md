@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Clown world](http://9gag.com/gag/aRB1qY2)
- - ⏩ [If you understand that reference, then it&#39;s time for you to get a girlfriend.](http://9gag.com/gag/ajP8zmx)
- - 👉 [`you wouldn&#39;t know`](http://9gag.com/gag/aLngxgv)<!-- MEMES:END -->
+ - 💣 [Gossip girl](http://9gag.com/gag/a2vZ3qD)
+ - ⏩ [#1 priority with time machine](http://9gag.com/gag/aGyZ4xn)
+ - 👉 [If you understand that reference, then it&#39;s time for you to get a girlfriend.](http://9gag.com/gag/ajP8zmx)<!-- MEMES:END -->
 
 ---
 
