@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Five Reasons to Play Unknown 9: Awakening Right Now](https://news.xbox.com/en-us/2024/10/18/five-reasons-to-play-unknown-9-awakening-right-now/)
- - [MadS’ director says shooting a blood-gushing single-take horror movie is easy, kinda](https://www.polygon.com/horror/467217/mads-shudder-one-shot-director-explains-interview)
- - [Where to pre-order The Art of The Legend of Vox Machina](https://www.polygon.com/pre-order/467374/vox-machina-critical-role-art-book-where-to-buy)<!-- GAME:END -->
+ - [Best Druid builds in Diablo 4 season 6](https://www.polygon.com/diablo-4-guides/23656236/druid-best-build-skills)
+ - [Best Barbarian builds in Diablo 4 season 6](https://www.polygon.com/23654868/barbarian-best-build-skills)
+ - [14 Vampire Movies You Should Watch This Halloween](https://kotaku.com/best-vampire-movies-halloween-interview-dracula-horror-1851676205)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
