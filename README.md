@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Pepperidge farm remembers](http://9gag.com/gag/an79LYq)
- - ⏩ [#1 priority with time machine](http://9gag.com/gag/aGyZ4xn)
- - 👉 [`None of your business`](http://9gag.com/gag/aryG7L7)<!-- MEMES:END -->
+ - ⏩ [This CGI is more than 10 years old. and still better than nowadays CGI &lpar;esp disneys&rpar;](http://9gag.com/gag/a0eQy2n)
+ - 👉 [#1 priority with time machine](http://9gag.com/gag/aGyZ4xn)<!-- MEMES:END -->
 
 ---
 
