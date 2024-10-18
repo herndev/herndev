@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Epic judge lets Google keep its Android app store closed to competitors — for now](https://www.theverge.com/2024/10/18/24271996/google-epic-lawsuit-play-third-party-app-store-changes-delayed-administrative-stay-granted)
- - [OnePlus might be ditching curved edges too](https://www.theverge.com/2024/10/18/24273650/oneplus-13-leak-rumor-design-flat-edge)
- - [Android 15 has satellite messaging support. So why can’t you use it?](https://www.androidauthority.com/satellite-messaging-android-15-google-3492088/)<!-- TECH:END -->
+ - [The best new streaming shows this week: Rivals and more](https://www.androidauthority.com/best-new-tv-shows-to-stream-this-week-3084538/)
+ - [Sam Altman’s eyeball-scanning crypto project has a new Orb and a new name](https://www.theverge.com/2024/10/18/24273691/world-orb-sam-altman-iris-scan-crypto-token)
+ - [The Legend of Zelda: Tears of the Kingdom is just $40 for first-time Woot buyers](https://www.theverge.com/2024/10/18/24273464/legend-of-zelda-tears-of-the-kingdom-nintendo-switch-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
