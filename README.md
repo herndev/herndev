@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I really wonder why\u2026](http://9gag.com/gag/aPAY5Dg)
- - ⏩ [Pepperidge farm remembers](http://9gag.com/gag/an79LYq)
- - 👉 [Hmm, what could it be?](http://9gag.com/gag/axyzqj1)<!-- MEMES:END -->
+ - 💣 [Idiots in cars](http://9gag.com/gag/awyAWpx)
+ - ⏩ [This CGI is more than 10 years old. and still better than nowadays CGI &lpar;esp disneys&rpar;](http://9gag.com/gag/a0eQy2n)
+ - 👉 [If you understand that reference, then it&#39;s time for you to get a girlfriend.](http://9gag.com/gag/ajP8zmx)<!-- MEMES:END -->
 
 ---
 
