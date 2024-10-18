@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Pepperidge farm remembers](http://9gag.com/gag/an79LYq)
- - ⏩ [This CGI is more than 10 years old. and still better than nowadays CGI &lpar;esp disneys&rpar;](http://9gag.com/gag/a0eQy2n)
- - 👉 [#1 priority with time machine](http://9gag.com/gag/aGyZ4xn)<!-- MEMES:END -->
+ - 💣 [This CGI is more than 10 years old. and still better than nowadays CGI &lpar;esp disneys&rpar;](http://9gag.com/gag/a0eQy2n)
+ - ⏩ [Revealing dress](http://9gag.com/gag/a9yK9MW)
+ - 👉 [Clown world](http://9gag.com/gag/aRB1qY2)<!-- MEMES:END -->
 
 ---
 
