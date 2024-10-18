@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Best Druid builds in Diablo 4 season 6](https://www.polygon.com/diablo-4-guides/23656236/druid-best-build-skills)
- - [Best Barbarian builds in Diablo 4 season 6](https://www.polygon.com/23654868/barbarian-best-build-skills)
- - [14 Vampire Movies You Should Watch This Halloween](https://kotaku.com/best-vampire-movies-halloween-interview-dracula-horror-1851676205)<!-- GAME:END -->
+ - [Oh no, I need a 3D printer now](https://www.polygon.com/gaming/467648/ufo-50-custom-computer-lukethemaker)
+ - [Uncle Chop&#39;s Rocket Shop is a delightfully tactile spaceship repair sim that reminds me how terrible I am at reading instruction manuals](https://www.pcgamer.com/games/sim/uncle-chops-rocket-shop-is-a-delightfully-tactile-spaceship-repair-sim-that-reminds-me-how-terrible-i-am-at-reading-instruction-manuals)
+ - [Call Of Duty: Black Ops 6 Campaign Will Be Longer Than Cold War Even If You Try To &#39;Speed Run&#39; It](https://kotaku.com/cod-black-ops-6-campaign-length-game-pass-launch-time-1851676478)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
