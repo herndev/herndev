@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Next Week on Xbox: New Games for October 21 to 25](https://news.xbox.com/en-us/2024/10/18/next-week-on-xbox-new-games-for-october-21-to-25/)
- - [Square Enix lawyers elbow in to shut down Yoko Taro fan archive, bafflingly, 6 months after he&#39;d thanked its creators for all the love](https://www.pcgamer.com/games/rpg/square-enix-lawyers-elbow-in-to-shut-down-yoko-taro-fan-archive-bafflingly-6-months-after-hed-thanked-its-creators-for-all-the-love)
- - [Bioshock and Doom Eternal head up the best batch of &#39;freebies&#39; Amazon Prime&#39;s ever offered](https://www.pcgamer.com/games/bioshock-and-doom-eternal-head-up-the-best-batch-of-freebies-amazon-primes-ever-offered)<!-- GAME:END -->
+ - [Why Games Like Killing Time Deserve to be Preserved](https://news.xbox.com/en-us/2024/10/18/why-games-like-killing-time-deserve-to-be-preserved/)
+ - [The best part of Agatha All Along is the way Agatha can’t stop poking the bear](https://www.polygon.com/marvel/467165/agatha-all-along-mcu-analysis-villain)
+ - [Oh God, Funko Pops Have Come For Baldur’s Gate 3](https://kotaku.com/baldurs-gate-3-funko-pops-astarion-shadowheart-karlach-1851676142)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
