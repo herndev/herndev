@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I wish I had a big bro like him](http://9gag.com/gag/aqyKwev)
- - ⏩ [Revenge at all costs!](http://9gag.com/gag/aMVZgZx)
- - 👉 [Hmm, what could it be?](http://9gag.com/gag/axyzqj1)<!-- MEMES:END -->
+ - 💣 [#1 priority with time machine](http://9gag.com/gag/aGyZ4xn)
+ - ⏩ [Yes man!](http://9gag.com/gag/aO8Yw96)
+ - 👉 [Clown world](http://9gag.com/gag/aRB1qY2)<!-- MEMES:END -->
 
 ---
 
