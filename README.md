@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Some Pixel 8 Pro users are facing back gesture issues on Android 15, but there’s a fix](https://www.androidauthority.com/google-pixel-8-pro-swipe-back-gesture-issues-android-15-fix-3491887/)
- - [14 Practical Gift Ideas for New Parents and Their Babies](https://www.wired.com/gallery/gift-ideas-for-new-parents-2024/)
- - [Sources: Samsung has postponed taking deliveries of ASML chipmaking equipment for its upcoming factory in Taylor, Texas as it has yet to win any major customers &lpar;Reuters&rpar;](http://www.techmeme.com/241018/p5#a241018p5)<!-- TECH:END -->
+ - [NHTSA opens a probe into Tesla&#39;s Full Self-Driving, covering 2.4M vehicles, after four reported crashes in low-visibility situations, including one fatal crash &lpar;Akash Sriram/Reuters&rpar;](http://www.techmeme.com/241018/p8#a241018p8)
+ - [Perplexity launches Internal Knowledge Search, to search the web or internal files, and Spaces, a way to organize research, for its Pro and Enterprise customers &lpar;Emilia David/VentureBeat&rpar;](http://www.techmeme.com/241018/p7#a241018p7)
+ - [The Paradox at the Heart of Elon Musk’s Cybercab Vision](https://www.wired.com/story/the-paradox-at-the-heart-of-elon-musks-cybercab-vision/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
