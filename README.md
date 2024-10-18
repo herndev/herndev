@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [`you wouldn&#39;t know`](http://9gag.com/gag/aLngxgv)
- - ⏩ [Pepperidge farm remembers](http://9gag.com/gag/an79LYq)
- - 👉 [Revealing dress](http://9gag.com/gag/a9yK9MW)<!-- MEMES:END -->
+ - 💣 [Pepperidge farm remembers](http://9gag.com/gag/an79LYq)
+ - ⏩ [Violence of the beliefs](http://9gag.com/gag/amoBEYX)
+ - 👉 [Checking the curd to see if it\u2019s ready to cut. That\u2019s all.](http://9gag.com/gag/an79LPz)<!-- MEMES:END -->
 
 ---
 
