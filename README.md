@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Oh no, I need a 3D printer now](https://www.polygon.com/gaming/467648/ufo-50-custom-computer-lukethemaker)
- - [Uncle Chop&#39;s Rocket Shop is a delightfully tactile spaceship repair sim that reminds me how terrible I am at reading instruction manuals](https://www.pcgamer.com/games/sim/uncle-chops-rocket-shop-is-a-delightfully-tactile-spaceship-repair-sim-that-reminds-me-how-terrible-i-am-at-reading-instruction-manuals)
- - [Call Of Duty: Black Ops 6 Campaign Will Be Longer Than Cold War Even If You Try To &#39;Speed Run&#39; It](https://kotaku.com/cod-black-ops-6-campaign-length-game-pass-launch-time-1851676478)<!-- GAME:END -->
+ - [&#39;Catch and remove cheaters within one hour&#39;: Call of Duty: Black Ops 6 anti-cheat team sets a lofty goal for the new game](https://www.pcgamer.com/games/call-of-duty/catch-and-remove-cheaters-within-one-hour-call-of-duty-black-ops-6-anti-cheat-team-sets-a-lofty-goal-for-the-new-game)
+ - [The maker of an Assassin&#39;s Creed Shadows statue featuring a one-legged torii says the design was &#39;insensitive&#39; and will be changed](https://www.pcgamer.com/games/action/the-maker-of-an-assassins-creed-shadows-statue-featuring-a-one-legged-torii-says-the-design-was-insensitive-and-will-be-changed)
+ - [Daniel Craig Reportedly Told Netflix&#39;s CEO His Business Model Was &#39;F***ed&#39;](https://kotaku.com/daniel-craig-netflix-streaming-model-knives-out-2-ted-1851676561)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
