@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ploopy’s 3D-printed, open-source trackpad is thoroughly customizable](https://www.theverge.com/2024/10/18/24273416/ploopy-trackpad-diy-open-source)
- - [iPad mini 7, Apple Vision Pro 2, and another executive leaves Apple, on the AppleInsider Podcast](https://appleinsider.com/articles/24/10/18/ipad-mini-7-apple-vision-pro-2-and-another-executive-leaves-apple-on-the-appleinsider-podcast?utm_medium=rss)
- - [Sony&#39;s PSVR2 PC Adapter Is a Poor Apology to PlayStation Fans](https://www.wired.com/story/sonys-psvr2-pc-adapter-is-a-poor-apology-to-playstation-fans/)<!-- TECH:END -->
+ - [Here’s how Android 15’s Failed Authentication Lock protects your sensitive data from thieves](https://www.androidauthority.com/android-15-failed-authentication-lock-3492044/)
+ - [Google’s NotebookLM now lets you guide the hosts of your AI podcast](https://www.theverge.com/2024/10/18/24273411/google-notebooklm-ai-audio-overview-customize)
+ - [13 Best Tested Computer Monitors &lpar;2024&rpar;: Budget, OLED, 4K](https://www.wired.com/gallery/best-computer-monitors/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
