@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [OnePlus 13 renders tease some subtle design tweaks for next flagship launch](https://www.androidauthority.com/oneplus-13-renders-3491651/)
- - [X updates its Privacy Policy to allow third-party &quot;collaborators&quot; to train their AI models on X user data, unless the user opts out, effective November 15, 2024 &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/241017/p38#a241017p38)
- - [Google makes it easier to find Android’s theft protection settings](https://www.androidauthority.com/android-theft-protection-safety-center-3491722/)<!-- TECH:END -->
+ - [Amazon will stream a live election special hosted by Brian Williams](https://www.theverge.com/2024/10/17/24273106/amazon-prime-video-election-night-live-special-brian-williams)
+ - [Not Sure if Your Flight Is on Time? Use Your iPhone&#39;s Hidden Flight Tracker](https://www.cnet.com/tech/mobile/not-sure-if-your-flight-is-on-time-use-your-iphones-hidden-flight-tracker/#ftag=CAD590a51e)
+ - [NYCC 2024: &#39;Outlander&#39; Season 7, Part 2 Trailer Shows Heartbreaking Tears and Uncertainty](https://www.cnet.com/tech/services-and-software/nycc-2024-outlander-season-7-part-2-trailer-shows-heartbreaking-tears-and-uncertainty/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
