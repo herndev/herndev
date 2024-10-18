@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Why Games Like Killing Time Deserve to be Preserved](https://news.xbox.com/en-us/2024/10/18/why-games-like-killing-time-deserve-to-be-preserved/)
- - [The best part of Agatha All Along is the way Agatha can’t stop poking the bear](https://www.polygon.com/marvel/467165/agatha-all-along-mcu-analysis-villain)
- - [Oh God, Funko Pops Have Come For Baldur’s Gate 3](https://kotaku.com/baldurs-gate-3-funko-pops-astarion-shadowheart-karlach-1851676142)<!-- GAME:END -->
+ - [Shocktober: Enjoy Savory Savings, Evocative Events, and Gruesome Games This Spooky Season](https://news.xbox.com/en-us/2024/10/18/shocktober-2024-enjoy-savory-savings/)
+ - [&#39;UFO 50 has taken over my life&#39;: A fan has built a playable LX computer and plans to sell the blueprints for the parts on Etsy](https://www.pcgamer.com/hardware/ufo-50-has-taken-over-my-life-a-fan-has-built-a-playable-lx-computer-and-plans-to-sell-the-blueprints-for-the-parts-on-etsy)
+ - [PlayStation loses fight in EU courts to stop sale of &#39;parasite&#39; mods because, among other reasons, a book author can&#39;t stop &#39;the reader from skipping to the end&#39;](https://www.pcgamer.com/gaming-industry/playstation-loses-fight-in-eu-courts-to-stop-sale-of-parasite-mods-because-among-other-reasons-a-book-author-cant-stop-the-reader-from-skipping-to-the-end)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
