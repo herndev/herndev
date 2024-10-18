@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Violence of the beliefs](http://9gag.com/gag/amoBEYX)
- - ⏩ [`you wouldn&#39;t know`](http://9gag.com/gag/aLngxgv)
- - 👉 [#1 priority with time machine](http://9gag.com/gag/aGyZ4xn)<!-- MEMES:END -->
+ - ⏩ [If you understand that reference, then it&#39;s time for you to get a girlfriend.](http://9gag.com/gag/ajP8zmx)
+ - 👉 [Pepperidge farm remembers](http://9gag.com/gag/an79LYq)<!-- MEMES:END -->
 
 ---
 
