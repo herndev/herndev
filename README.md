@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [NHTSA opens a probe into Tesla&#39;s Full Self-Driving, covering 2.4M vehicles, after four reported crashes in low-visibility situations, including one fatal crash &lpar;Akash Sriram/Reuters&rpar;](http://www.techmeme.com/241018/p8#a241018p8)
- - [Perplexity launches Internal Knowledge Search, to search the web or internal files, and Spaces, a way to organize research, for its Pro and Enterprise customers &lpar;Emilia David/VentureBeat&rpar;](http://www.techmeme.com/241018/p7#a241018p7)
- - [The Paradox at the Heart of Elon Musk’s Cybercab Vision](https://www.wired.com/story/the-paradox-at-the-heart-of-elon-musks-cybercab-vision/)<!-- TECH:END -->
+ - [Google Photos expands automatic backups to another platform](https://www.androidauthority.com/google-photos-folder-backup-3491928/)
+ - [You Can Now See the Code That Helped End Apartheid](https://www.wired.com/story/plaintext-you-can-now-see-the-code-that-ended-apartheid/)
+ - [The future of the Kindle with Panos Panay](https://www.theverge.com/2024/10/18/24273208/amazon-kindle-panos-panay-ipad-mini-google-vergecast)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
