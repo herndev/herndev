@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Today&#39;s NYT Mini Crossword Answers for Oct. 18](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-oct-18/#ftag=CAD590a51e)
  - [FCC mandates all mobile phones in the US to be compatible with hearing aids](https://www.androidauthority.com/fcc-mobile-phones-hearing-aid-compatibility-3491793/)
- - [The MacBook Air updated with TK](https://www.cnet.com/tech/computing/the-macbook-air-updated-with-tk/#ftag=CAD590a51e)
- - [Chinese robotaxi firm Pony.ai files for a Nasdaq IPO, says its H1 2024 revenue nearly doubled to $24.7M with a net loss of $51.3M, down from $69.4M in H1 2023 &lpar;Reuters&rpar;](http://www.techmeme.com/241017/p43#a241017p43)<!-- TECH:END -->
+ - [The MacBook Air updated with TK](https://www.cnet.com/tech/computing/the-macbook-air-updated-with-tk/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
