@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Dragon Ball: Sparking Zero Is About To Nerf One Of Its Most OP Fighters](https://kotaku.com/dragon-ball-sparking-zero-patch-yajirobe-lag-nerf-1851676334)
- - [I fed Google&#39;s new notebook summarisation feature my article about the potential dangers of AI scraping and it&#39;s as creepy and self-aware as you would think](https://www.pcgamer.com/software/ai/i-fed-googles-new-notebook-summarisation-feature-my-article-about-the-potential-dangers-of-ai-scraping-and-its-as-creepy-and-self-aware-as-you-would-think)
- - [Amazon&#39;s God of War TV show is starting over from scratch after the showrunner and executive producers all quit](https://www.pcgamer.com/movies-tv/amazons-god-of-war-tv-show-is-starting-over-from-scratch-after-the-showrunner-and-executive-producers-all-quit)<!-- GAME:END -->
+ - [Five Reasons to Play Unknown 9: Awakening Right Now](https://news.xbox.com/en-us/2024/10/18/five-reasons-to-play-unknown-9-awakening-right-now/)
+ - [MadS’ director says shooting a blood-gushing single-take horror movie is easy, kinda](https://www.polygon.com/horror/467217/mads-shudder-one-shot-director-explains-interview)
+ - [Where to pre-order The Art of The Legend of Vox Machina](https://www.polygon.com/pre-order/467374/vox-machina-critical-role-art-book-where-to-buy)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
