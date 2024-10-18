@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Netflix gained 5.1M new subscribers in Q3, vs. 4M est., and says more than 50% of signups were for its ad-supported tier in countries where it was available &lpar;Reuters&rpar;](http://www.techmeme.com/241018/p3#a241018p3)
- - [A look at Dippy, an AI companion startup that lets users see the reasoning behind their chatbot&#39;s replies, claims to have 50K DAUs, and raised a $2.1M pre-seed &lpar;Will Knight/Wired&rpar;](http://www.techmeme.com/241018/p2#a241018p2)
- - [Check your email: Google Fi is offering $25 Fi credit as hurricane relief](https://www.androidauthority.com/google-fi-credit-hurricane-relief-3491847/)<!-- TECH:END -->
+ - [Google is making it easier to use a password manager inside Chrome on Android](https://www.theverge.com/2024/10/18/24273369/google-chrome-android-password-manager-native-autofill)
+ - [You overwhelmingly prefer Google News as your news source on mobile](https://www.androidauthority.com/google-news-news-source-poll-results-3491864/)
+ - [Byju&#39;s founder Byju Raveendran says his edtech startup, valued at $22B in 2022, is effectively &quot;worth zero&quot;, and that he made mistakes and mistimed the market &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/241018/p4#a241018p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
