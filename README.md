@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Tis the season to be spooky](http://9gag.com/gag/aAy3oOp)
- - ⏩ [Onion is strong with this one](http://9gag.com/gag/aKGxRKZ)
- - 👉 [The best cookies ever.](http://9gag.com/gag/agmnP3x)<!-- MEMES:END -->
+ - 💣 [Violence of the beliefs](http://9gag.com/gag/amoBEYX)
+ - ⏩ [A drone video showing sinwar&#39;s last minutes alive](http://9gag.com/gag/a0eQB3O)
+ - 👉 [#1 priority with time machine](http://9gag.com/gag/aGyZ4xn)<!-- MEMES:END -->
 
 ---
 
