@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Spending Too Much on iPhone or Android App Subscriptions? Here&#39;s How to Find and Cancel Them](https://www.cnet.com/tech/services-and-software/spending-too-much-on-iphone-or-android-app-subscriptions-heres-how-to-find-and-cancel-them/#ftag=CAD590a51e)
- - [Sources: the US is probing if TSMC has been making AI or smartphone chips for Huawei in breach of US sanctions, including Huawei buying chips via intermediaries &lpar;Qianer Liu/The Information&rpar;](http://www.techmeme.com/241017/p40#a241017p40)
- - [FCC Requires That All Mobile Phones Must Be Compatible With Hearing Aids](https://www.cnet.com/health/medical/fcc-requires-that-all-mobile-phones-must-be-compatible-with-hearing-aids/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sources: Intel is looking to sell at least a minority stake, or possibly a majority stake, worth billions in its Altera subsidiary at a valuation of around $17B &lpar;Rohan Goswami/CNBC&rpar;](http://www.techmeme.com/241017/p42#a241017p42)
+ - [Sources describe OpenAI and Microsoft&#39;s fraying relationship, OpenAI renegotiating its deal for more computing power, Microsoft&#39;s own LLM efforts, and more &lpar;New York Times&rpar;](http://www.techmeme.com/241017/p41#a241017p41)
+ - [Spending Too Much on iPhone or Android App Subscriptions? Here&#39;s How to Find and Cancel Them](https://www.cnet.com/tech/services-and-software/spending-too-much-on-iphone-or-android-app-subscriptions-heres-how-to-find-and-cancel-them/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
