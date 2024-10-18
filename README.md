@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Magic: The Gathering team says timing is key for upcoming Marvel releases](https://www.polygon.com/mtg-magic-the-gathering/467434/marvel-mtg-universes-beyond-timing-release-date-price)
- - [No Plans For Spider-Man 2 Story DLC, Insomniac Confirms](https://kotaku.com/spider-man-2-dlc-plans-confirmed-news-insomniac-pc-port-1851676695)
- - [Fallout: London&#39;s latest patch makes more than 1,000 fixes and changes: &#39;The mod should be as solid as a rock&#39;](https://www.pcgamer.com/games/rpg/fallout-londons-latest-patch-makes-more-than-1-000-fixes-and-changes-the-mod-should-be-as-solid-as-a-rock)<!-- GAME:END -->
+ - [Space Marine 2&#39;s free 4K texture pack takes up more space than the entire base game, and you&#39;re gonna need some serious hardware to run it](https://www.pcgamer.com/games/third-person-shooter/space-marine-2s-free-4k-texture-pack-takes-up-more-space-than-the-entire-base-game-and-youre-gonna-need-some-serious-hardware-to-run-it)
+ - [The Wild Robot, Alien: Romulus, Netflix’s The Shadow Strays, and every movie new to streaming this week](https://www.polygon.com/entertainment/465629/new-movies-watch-streaming-alien-romulus-the-wild-robot-netflix-shadow-strays)
+ - [Sony&#39;s PC ports are speeding up: Spider-Man 2 arrives on PC in January 2025](https://www.pcgamer.com/games/action/sonys-pc-ports-are-speeding-up-spider-man-2-arrives-on-pc-in-january-2025)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
