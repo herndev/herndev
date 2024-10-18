@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Vox Machina’s biggest season 3 change hits hard, even for the Critical Role cast](https://www.polygon.com/critical-role/466215/legend-vox-machina-percy-cast-death-episode-7)
- - [YouTuber LGR felt &#39;numbness at how powerless I was&#39; as his one-of-a-kind retro PC collection took a direct hit from hurricane Helene, but seeing most of the trove survive now has him eager to share it with others](https://www.pcgamer.com/gaming-industry/youtuber-lgr-felt-numbness-at-how-powerless-i-was-as-his-one-of-a-kind-retro-pc-collection-took-a-direct-hit-from-hurricane-helene-but-seeing-most-of-the-trove-survive-now-has-him-eager-to-share-it-with-others)
- - [Fullbright drops a surprise horror game on Steam, and it&#39;s all about giant spiders hiding in disgusting toilets](https://www.pcgamer.com/games/horror/fullbright-drops-a-surprise-horror-game-on-steam-and-its-all-about-giant-spiders-hiding-in-disgusting-toilets)<!-- GAME:END -->
+ - [Activision says it fixed a &#39;workaround&#39; in Call of Duty anti-cheat that banned &#39;a small number of innocent players,&#39; but a cheat maker claims they could ban anyone by typing two words into chat](https://www.pcgamer.com/games/call-of-duty/activision-says-it-fixed-a-workaround-in-call-of-duty-anti-cheat-that-banned-a-small-number-of-innocent-players-but-a-cheat-maker-claims-they-could-ban-anyone-by-typing-two-words-into-chat)
+ - [Why Have 1.5 Million People Experienced the Dread Out Universe?](https://news.xbox.com/en-us/2024/10/17/why-have-1-5-million-people-experienced-the-dread-out-universe/)
+ - [Vox Machina’s biggest season 3 change hits hard, even for the Critical Role cast](https://www.polygon.com/critical-role/466215/legend-vox-machina-percy-cast-death-episode-7)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
