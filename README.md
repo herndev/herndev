@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [That&#39;s so satisfying ..](http://9gag.com/gag/aZZLGbW)
- - ⏩ [This guy](http://9gag.com/gag/aGyZ4wn)
- - 👉 [Christ had no part in this sentence.](http://9gag.com/gag/a2vZ3RO)<!-- MEMES:END -->
+ - 💣 [Pepperidge farm remembers](http://9gag.com/gag/an79LYq)
+ - ⏩ [This CGI is more than 10 years old. and still better than nowadays CGI &lpar;esp disneys&rpar;](http://9gag.com/gag/a0eQy2n)
+ - 👉 [#1 priority with time machine](http://9gag.com/gag/aGyZ4xn)<!-- MEMES:END -->
 
 ---
 
