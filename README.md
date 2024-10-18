@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Clown world](http://9gag.com/gag/aRB1qY2)
- - ⏩ [What did you expect?](http://9gag.com/gag/a34QV77)
- - 👉 [If there&#39;s a hole, there&#39;s a goal](http://9gag.com/gag/aryG7dp)<!-- MEMES:END -->
+ - 💣 [Hamas chief Yahya Sinwar is eliminated by Israel defence forces in Rafah. &lpar;Picture in comments&rpar;](http://9gag.com/gag/a5QMOYE)
+ - ⏩ [Revealing dress](http://9gag.com/gag/a9yK9MW)
+ - 👉 [Pepperidge farm remembers](http://9gag.com/gag/an79LYq)<!-- MEMES:END -->
 
 ---
 
