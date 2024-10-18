@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Christ had no part in this sentence.](http://9gag.com/gag/a2vZ3RO)
- - ⏩ [I wish I had a big bro like him](http://9gag.com/gag/aqyKwev)
- - 👉 [Gossip girl](http://9gag.com/gag/a2vZ3qD)<!-- MEMES:END -->
+ - 💣 [I wish I had a big bro like him](http://9gag.com/gag/aqyKwev)
+ - ⏩ [Revenge at all costs!](http://9gag.com/gag/aMVZgZx)
+ - 👉 [Hmm, what could it be?](http://9gag.com/gag/axyzqj1)<!-- MEMES:END -->
 
 ---
 
