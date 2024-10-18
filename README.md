@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Idiots in cars](http://9gag.com/gag/awyAWpx)
- - ⏩ [This CGI is more than 10 years old. and still better than nowadays CGI &lpar;esp disneys&rpar;](http://9gag.com/gag/a0eQy2n)
- - 👉 [If you understand that reference, then it&#39;s time for you to get a girlfriend.](http://9gag.com/gag/ajP8zmx)<!-- MEMES:END -->
+ - 💣 [Clown world](http://9gag.com/gag/aRB1qY2)
+ - ⏩ [If you understand that reference, then it&#39;s time for you to get a girlfriend.](http://9gag.com/gag/ajP8zmx)
+ - 👉 [`you wouldn&#39;t know`](http://9gag.com/gag/aLngxgv)<!-- MEMES:END -->
 
 ---
 
