@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Revealing the Invisible Hand Update &lpar;Version 1.1&rpar; for Ara: History Untold](https://news.xbox.com/en-us/2024/10/18/update-version-1-1-ara-history-untold/)
- - [FMV horror game Tenebris Somnia is a nightmare come true](https://www.polygon.com/gaming/467031/tenebris-somnia-survival-horror-game-demo-impressions)
- - [Players are loving Subnautica 2&#39;s first terrifying trailer thanks to a crustacean cameo: &#39;More big ol crabs hype&#39;](https://www.pcgamer.com/games/survival-crafting/players-are-loving-subnautica-2s-first-terrifying-trailer-thanks-to-a-crustacean-cameo-more-big-ol-crabs-hype)<!-- GAME:END -->
+ - [Next Week on Xbox: New Games for October 21 to 25](https://news.xbox.com/en-us/2024/10/18/next-week-on-xbox-new-games-for-october-21-to-25/)
+ - [Square Enix lawyers elbow in to shut down Yoko Taro fan archive, bafflingly, 6 months after he&#39;d thanked its creators for all the love](https://www.pcgamer.com/games/rpg/square-enix-lawyers-elbow-in-to-shut-down-yoko-taro-fan-archive-bafflingly-6-months-after-hed-thanked-its-creators-for-all-the-love)
+ - [Bioshock and Doom Eternal head up the best batch of &#39;freebies&#39; Amazon Prime&#39;s ever offered](https://www.pcgamer.com/games/bioshock-and-doom-eternal-head-up-the-best-batch-of-freebies-amazon-primes-ever-offered)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
