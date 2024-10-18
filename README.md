@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Ginger ale straight from the tap](http://9gag.com/gag/a0eQAvO)
- - ⏩ [The best cookies ever.](http://9gag.com/gag/agmnP3x)
- - 👉 [A drone video showing sinwar&#39;s last minutes alive](http://9gag.com/gag/a0eQB3O)<!-- MEMES:END -->
+ - 💣 [`you wouldn&#39;t know`](http://9gag.com/gag/aLngxgv)
+ - ⏩ [Pepperidge farm remembers](http://9gag.com/gag/an79LYq)
+ - 👉 [Revealing dress](http://9gag.com/gag/a9yK9MW)<!-- MEMES:END -->
 
 ---
 
