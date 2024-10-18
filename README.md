@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Gossip girl](http://9gag.com/gag/a2vZ3qD)
- - ⏩ [#1 priority with time machine](http://9gag.com/gag/aGyZ4xn)
- - 👉 [If you understand that reference, then it&#39;s time for you to get a girlfriend.](http://9gag.com/gag/ajP8zmx)<!-- MEMES:END -->
+ - 💣 [Tis the season to be spooky](http://9gag.com/gag/aAy3oOp)
+ - ⏩ [Onion is strong with this one](http://9gag.com/gag/aKGxRKZ)
+ - 👉 [The best cookies ever.](http://9gag.com/gag/agmnP3x)<!-- MEMES:END -->
 
 ---
 
