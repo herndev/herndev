@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon will stream a live election special hosted by Brian Williams](https://www.theverge.com/2024/10/17/24273106/amazon-prime-video-election-night-live-special-brian-williams)
- - [Not Sure if Your Flight Is on Time? Use Your iPhone&#39;s Hidden Flight Tracker](https://www.cnet.com/tech/mobile/not-sure-if-your-flight-is-on-time-use-your-iphones-hidden-flight-tracker/#ftag=CAD590a51e)
- - [NYCC 2024: &#39;Outlander&#39; Season 7, Part 2 Trailer Shows Heartbreaking Tears and Uncertainty](https://www.cnet.com/tech/services-and-software/nycc-2024-outlander-season-7-part-2-trailer-shows-heartbreaking-tears-and-uncertainty/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Spending Too Much on iPhone or Android App Subscriptions? Here&#39;s How to Find and Cancel Them](https://www.cnet.com/tech/services-and-software/spending-too-much-on-iphone-or-android-app-subscriptions-heres-how-to-find-and-cancel-them/#ftag=CAD590a51e)
+ - [Sources: the US is probing if TSMC has been making AI or smartphone chips for Huawei in breach of US sanctions, including Huawei buying chips via intermediaries &lpar;Qianer Liu/The Information&rpar;](http://www.techmeme.com/241017/p40#a241017p40)
+ - [FCC Requires That All Mobile Phones Must Be Compatible With Hearing Aids](https://www.cnet.com/health/medical/fcc-requires-that-all-mobile-phones-must-be-compatible-with-hearing-aids/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
