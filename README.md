@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Nintendo&#39;s Mysterious Switch Playtest Details Revealed, And...It&#39;s Not What You Hoped](https://kotaku.com/nintendo-playtest-switch-2-mario-mmo-1851677142)
- - [The Halloween Countdown: 31 days of horror to watch](https://www.polygon.com/what-to-watch/452010/best-halloween-horror-movies-tv-watch-stream)
- - [Former Bethesda lead is sceptical of The Elder Scrolls&#39; return to &#39;fiddly stat sheets&#39;, even in the face of Baldur&#39;s Gate 3&#39;s success](https://www.pcgamer.com/games/the-elder-scrolls/former-bethesda-lead-is-sceptical-of-the-elder-scrolls-return-to-fiddly-stat-sheets-even-in-the-face-of-baldurs-gate-3s-success)<!-- GAME:END -->
+ - [The curse of horde shooter balance: Fans take to Steam in protest as Space Marine 2 gets unpopular patch—devs promise course correction within the week](https://www.pcgamer.com/games/third-person-shooter/the-curse-of-horde-shooter-balance-fans-take-to-steam-in-protest-as-space-marine-2-gets-unpopular-patch-devs-promise-course-correction-within-the-week)
+ - [It&#39;s alive! YouTuber shows how ZX Spectrum can be resurrected using only new parts](https://www.pcgamer.com/hardware/zx-spectrum-new-parts-only)
+ - [This toilet attachment uses AI and a team of physicians to photograph, analyse, and report the full scoop on your poop](https://www.pcgamer.com/hardware/this-toilet-attachment-uses-ai-and-a-team-of-physicians-to-photograph-analyse-and-report-the-full-scoop-on-your-poop)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
