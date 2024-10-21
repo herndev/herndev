@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This newly graduated girl shows all the love she has for her parents](http://9gag.com/gag/adB56Ld)
- - ⏩ [Prank](http://9gag.com/gag/ayNoEAX)
- - 👉 [Praising Japan for safety is forbidden now](http://9gag.com/gag/aoy5zmx)<!-- MEMES:END -->
+ - 💣 [Why do I face consequences of my actions?](http://9gag.com/gag/aMVY2g1)
+ - ⏩ [Why are people so dense?](http://9gag.com/gag/aLn0P4V)
+ - 👉 [This newly graduated girl shows all the love she has for her parents](http://9gag.com/gag/adB56Ld)<!-- MEMES:END -->
 
 ---
 
