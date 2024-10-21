@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The curse of horde shooter balance: Fans take to Steam in protest as Space Marine 2 gets unpopular patch—devs promise course correction within the week](https://www.pcgamer.com/games/third-person-shooter/the-curse-of-horde-shooter-balance-fans-take-to-steam-in-protest-as-space-marine-2-gets-unpopular-patch-devs-promise-course-correction-within-the-week)
- - [It&#39;s alive! YouTuber shows how ZX Spectrum can be resurrected using only new parts](https://www.pcgamer.com/hardware/zx-spectrum-new-parts-only)
- - [This toilet attachment uses AI and a team of physicians to photograph, analyse, and report the full scoop on your poop](https://www.pcgamer.com/hardware/this-toilet-attachment-uses-ai-and-a-team-of-physicians-to-photograph-analyse-and-report-the-full-scoop-on-your-poop)<!-- GAME:END -->
+ - [Logitech G Pro 2 Lightspeed Review](https://www.pcgamer.com/hardware/gaming-mice/logitech-g-pro-2-lightspeed-review)
+ - [&#39;Please try not to binge it&#39;: Vampire Survivors finally releases a Castlevania DLC with 20 new characters, 40 new weapons, and &#39;a monstrously large stage&#39;](https://www.pcgamer.com/games/action/please-try-not-to-binge-it-vampire-survivors-finally-releases-a-castlevania-dlc-with-20-new-characters-40-new-weapons-and-a-monstrously-large-stage)
+ - [Elon Musk&#39;s X changes its terms of service to steer user lawsuits towards a Texas court instead of California. Which is fine. Just happens to be a completely different Texas court district to where X is actually headquartered](https://www.pcgamer.com/hardware/elon-musks-x-changes-its-terms-of-service-to-steer-user-lawsuits-towards-a-texas-court-instead-of-california-which-is-fine-just-happens-to-be-a-completely-different-texas-court-district-to-where-x-is-actually-headquartered)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
