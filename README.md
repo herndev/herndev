@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [That level of patience](http://9gag.com/gag/aW4EQj6)
- - ⏩ [This bloke found out Sweet Caroline wasn\u2019t all that sweet](http://9gag.com/gag/awyoroy)
- - 👉 [$400/nt Airbnb refuses to turn heat above 58 degrees](http://9gag.com/gag/axy724n)<!-- MEMES:END -->
+ - 💣 [This newly graduated girl shows all the love she has for her parents](http://9gag.com/gag/adB56Ld)
+ - ⏩ [Prank](http://9gag.com/gag/ayNoEAX)
+ - 👉 [Praising Japan for safety is forbidden now](http://9gag.com/gag/aoy5zmx)<!-- MEMES:END -->
 
 ---
 
