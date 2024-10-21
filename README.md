@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This was the original design of lord voldemort in Harry Potter ,which was then changed because producer&#39;s thought it might traumatize childrens](http://9gag.com/gag/avyo21O)
- - ⏩ [Prank](http://9gag.com/gag/ayNoEAX)
- - 👉 [WTF is wrong with them](http://9gag.com/gag/aVv0QeM)<!-- MEMES:END -->
+ - 💣 [Why such stupidity](http://9gag.com/gag/aKGdPDQ)
+ - ⏩ [Praising Japan for safety is forbidden now](http://9gag.com/gag/aoy5zmx)
+ - 👉 [Body shaming is fine it till its all about the weight](http://9gag.com/gag/aND0rNv)<!-- MEMES:END -->
 
 ---
 
