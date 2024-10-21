@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Valve says its &#39;not really fair to your customers&#39; to create yearly iterations of something like the Steam Deck, instead it&#39;s waiting &#39;for a generational leap in compute without sacrificing battery life&#39;](https://www.pcgamer.com/hardware/handheld-gaming-pcs/valve-says-its-not-really-fair-to-your-customers-to-create-yearly-iterations-of-something-like-the-steam-deck-instead-its-waiting-for-a-generational-leap-in-compute-without-sacrificing-battery-life)
- - [Vampire Survivors Getting Huge Castlevania DLC Just In Time For Halloween](https://kotaku.com/vampire-survivors-castlevania-dlc-halloween-ps5-switch-1851677539)
- - [Multiplayer focus aside, the Steam Next Fest demo charts reveal the weird unpredictability of PC gaming](https://www.pcgamer.com/games/multiplayer-focus-aside-the-steam-next-fest-demo-charts-reveal-the-weird-unpredictability-of-pc-gaming)<!-- GAME:END -->
+ - [What We Do in the Shadows, Lower Decks, and more new TV to watch this week](https://www.polygon.com/tv/466619/netflix-new-tv-wwdits-star-trek-lower-decks-hellbound-before-apple)
+ - [Become The Master Of Diablo 4&#39;s Kurast Undercity Dungeon](https://kotaku.com/diablo-4-kurast-undercity-dungeon-unlock-beat-1851677509)
+ - [Where to pre-order the 8BitDo 64 controller for the Analogue 3D](https://www.polygon.com/pre-order/467960/8bitdo-64-controller-analogue-3d-where-to-buy)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
