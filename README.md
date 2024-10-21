@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Investigation: a Russian espionage and hacking campaign targeted Georgia for years and breached its Foreign Ministry, Finance Ministry, central bank, and more &lpar;Bloomberg&rpar;](http://www.techmeme.com/241021/p6#a241021p6)
- - [Cook says Apple wasn&#39;t first with AI, but will be the best](https://appleinsider.com/articles/24/10/21/cook-says-apple-wasnt-first-with-ai-but-will-be-the-best?utm_medium=rss)
- - [How a Trump Win Could Unleash Dangerous AI](https://www.wired.com/story/donald-trump-ai-safety-regulation/)<!-- TECH:END -->
+ - [Kwikset takes a smart approach with its new smart lock](https://www.theverge.com/2024/10/21/24273662/kwikset-halo-select-new-smart-lock-matter-thread-wifi)
+ - [Q&amp;A with Google DeepMind&#39;s Demis Hassabis on his Nobel Prize being &quot;a watershed moment for AI&quot;, biology, AlphaFold 3, Isomorphic Labs, drug programs, and more &lpar;Madhumita Murgia/Financial Times&rpar;](http://www.techmeme.com/241021/p10#a241021p10)
+ - [Pick up Apple&#39;s M3 13-inch MacBook Air with 16GB RAM, 512GB storage for $1,299](https://appleinsider.com/articles/24/10/20/pick-up-apples-m3-13-inch-macbook-air-with-16gb-ram-512gb-storage-for-1349?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
