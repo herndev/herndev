@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [UK-based Sophos plans to acquire Atlanta-based cybersecurity company Secureworks for ~$859M, expected to close in early 2025; Dell owns ~79% of Secureworks &lpar;Joe Warminsky/The Record&rpar;](http://www.techmeme.com/241021/p16#a241021p16)
- - [These are your favorite Android 15 features, and one of them isn’t even live yet](https://www.androidauthority.com/poll-result-favorite-android-15-feature-3492425/)
- - [Vampire Survivors comes full-circle with Castlevania DLC expansion](https://www.theverge.com/2024/10/21/24275710/vampire-survivors-ode-to-castlevania-dlc-konami-collaboration-expansion)<!-- TECH:END -->
+ - [Who will deliver useful AI to the masses?](https://appleinsider.com/articles/24/10/21/who-will-deliver-useful-ai-to-the-masses?utm_medium=rss)
+ - [Russian officials buy four times more iPhones after ban](https://appleinsider.com/articles/24/10/21/russian-officials-buy-four-times-more-iphones-after-ban?utm_medium=rss)
+ - [It’s been years, but I still miss these dead Android apps dearly](https://www.androidauthority.com/dead-android-apps-3491528/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
