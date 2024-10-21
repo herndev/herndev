@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [White privileges](http://9gag.com/gag/aLn0PB5)
- - ⏩ [My wife got mad because I bought this charger.](http://9gag.com/gag/aoy5ZQg)
- - 👉 [Motivational](http://9gag.com/gag/avyoZ6Z)<!-- MEMES:END -->
+ - 💣 [This was the original design of lord voldemort in Harry Potter ,which was then changed because producer&#39;s thought it might traumatize childrens](http://9gag.com/gag/avyo21O)
+ - ⏩ [The Foot-pool](http://9gag.com/gag/a0eRv1Q)
+ - 👉 [Oh Canada](http://9gag.com/gag/aYQ7bGw)<!-- MEMES:END -->
 
 ---
 
