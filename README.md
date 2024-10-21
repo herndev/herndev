@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Ambitious Fallout Remake Gets Canceled Over Creator &#39;Burnout&#39;](https://kotaku.com/fallout-4-fallout-1-remake-remaster-hd-fan-project-mod-1851677833)
- - [Nintendo&#39;s Mysterious Switch Playtest Details Revealed, And...It&#39;s Not What You Hoped [Update]](https://kotaku.com/nintendo-playtest-switch-2-mario-mmo-1851677142)
- - [How to beat Zekvir&#39;s Lair in World of Warcraft: The War Within](https://www.pcgamer.com/games/world-of-warcraft/how-to-beat-zekvir-lair-void-airship-mount-the-war-within)<!-- GAME:END -->
+ - [Watch Out Pixar, Chick-Fil-A Has A New Animated Series](https://kotaku.com/chick-fil-a-evergreen-hills-animated-show-streaming-app-1851677885)
+ - [Blade Runner 2049 producers sue Elon Musk, Tesla, and Warner over AI-generated image used in Cybercab promotional event](https://www.pcgamer.com/hardware/blade-runner-2049-producers-sue-elon-musk-tesla-and-warner-over-ai-generated-image-used-in-cybercab-promotional-event)
+ - [Ambitious Fallout Remake Gets Canceled Over Creator &#39;Burnout&#39;](https://kotaku.com/fallout-4-fallout-1-remake-remaster-hd-fan-project-mod-1851677833)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
