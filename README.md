@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Bro won at life. Best marriage proposal reaction ever](http://9gag.com/gag/ae950rp)
- - ⏩ [Title](http://9gag.com/gag/aqyg22Z)
- - 👉 [Any fans of this old horror movie `THE BREED` &lpar;2006&rpar;?](http://9gag.com/gag/a7owb2q)<!-- MEMES:END -->
+ - 💣 [True story, bro. It happened to me](http://9gag.com/gag/aGygRYK)
+ - ⏩ [Showing a scammer his real face](http://9gag.com/gag/aPARG7K)
+ - 👉 [Girls wilding out](http://9gag.com/gag/aQz1pzW)<!-- MEMES:END -->
 
 ---
 
