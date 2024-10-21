@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Kwikset takes a smart approach with its new smart lock](https://www.theverge.com/2024/10/21/24273662/kwikset-halo-select-new-smart-lock-matter-thread-wifi)
- - [Q&amp;A with Google DeepMind&#39;s Demis Hassabis on his Nobel Prize being &quot;a watershed moment for AI&quot;, biology, AlphaFold 3, Isomorphic Labs, drug programs, and more &lpar;Madhumita Murgia/Financial Times&rpar;](http://www.techmeme.com/241021/p10#a241021p10)
- - [Pick up Apple&#39;s M3 13-inch MacBook Air with 16GB RAM, 512GB storage for $1,299](https://appleinsider.com/articles/24/10/20/pick-up-apples-m3-13-inch-macbook-air-with-16gb-ram-512gb-storage-for-1349?utm_medium=rss)<!-- TECH:END -->
+ - [The Volkswagen ID Buzz Is Finally Here. We Took the Electric Microbus for a Drive](https://www.wired.com/story/2025-volkswagen-id-buzz-test-drive-first-impressions/)
+ - [New price drops hit Apple&#39;s M3 MacBook Air, on sale from $899](https://appleinsider.com/articles/24/10/21/new-price-drops-hit-apples-m3-macbook-air-on-sale-from-899?utm_medium=rss)
+ - [iPhone 16 Pro randomly rebooting? You’re not alone](https://www.androidauthority.com/iphone-16-pro-random-reboots-3492386/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
