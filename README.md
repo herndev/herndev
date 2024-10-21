@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [T-Mobile’s new seasonal suspension charge makes it a pointless option](https://www.androidauthority.com/t-mobile-seasonal-suspension-charge-3492481/)
- - [Magic Keyboard, Magic Trackpad, &amp; Magic Mouse may soon be upgraded with USB-C](https://appleinsider.com/articles/24/10/21/magic-keyboard-magic-trackpad-magic-mouse-may-soon-be-upgraded-with-usb-c?utm_medium=rss)
- - [Blade Runner 2049&#39;s producer sues Musk, Tesla, and WBD for allegedly using AI to create imagery close to the film, despite a denied request, to promote Cybercab &lpar;Brooks Barnes/New York Times&rpar;](http://www.techmeme.com/241021/p20#a241021p20)<!-- TECH:END -->
+ - [One-third of DHS’s border surveillance cameras don’t even work](https://www.theverge.com/2024/10/21/24276110/border-patrol-surveillance-cameras-not-working-mark-green)
+ - [EssilorLuxottica CFO says Ray-Ban Meta glasses are a &quot;success&quot; in the US and the best-seller &quot;in 60%&quot; of Ray-Ban stores in Europe, the Middle East, and Africa &lpar;David Heaney/UploadVR&rpar;](http://www.techmeme.com/241021/p22#a241021p22)
+ - [YouTube investigating why some Premium subscribers are getting ads](https://www.androidauthority.com/youtube-premium-ads-appear-3492529/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
