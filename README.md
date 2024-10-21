@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Girls wilding out](http://9gag.com/gag/aQz1pzW)
- - ⏩ [$400/nt Airbnb refuses to turn heat above 58 degrees](http://9gag.com/gag/axy724n)
- - 👉 [Dont worry she is my ex. The ex](http://9gag.com/gag/agm5N1r)<!-- MEMES:END -->
+ - 💣 [She\u2019s a super mom\u2764\ufe0f](http://9gag.com/gag/an75K8V)
+ - ⏩ [What if that thing can read though?](http://9gag.com/gag/aqygNWZ)
+ - 👉 [Appalachian Banjo-man Shapiro](http://9gag.com/gag/a0eRLdZ)<!-- MEMES:END -->
 
 ---
 
