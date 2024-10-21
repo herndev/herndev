@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Why such stupidity](http://9gag.com/gag/aKGdPDQ)
- - ⏩ [Praising Japan for safety is forbidden now](http://9gag.com/gag/aoy5zmx)
- - 👉 [Body shaming is fine it till its all about the weight](http://9gag.com/gag/aND0rNv)<!-- MEMES:END -->
+ - 💣 [That&#39;s why Temu exists](http://9gag.com/gag/agm5rEK)
+ - ⏩ [Donkeys who understand physics know the easiest way to climb a steep staircase is to cross-climb](http://9gag.com/gag/aZZ7qQz)
+ - 👉 [Maui the demigod](http://9gag.com/gag/aVv0jev)<!-- MEMES:END -->
 
 ---
 
