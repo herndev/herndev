@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How OpenAI, Google, and Anthropic are using differing approches to improve &quot;model behavior&quot;, an emerging field shaping AI systems&#39; responses and characteristics &lpar;Cristina Criddle/Financial Times&rpar;](http://www.techmeme.com/241021/p1#a241021p1)
- - [Samsung unveils Galaxy Z Fold Special Edition: A sleeker, more powerful foldable](https://www.androidauthority.com/samsung-galaxy-z-fold-6-special-edition-3492282/)
- - [A look at the Harris campaign&#39;s outreach efforts to the tech sector, as it tries to convince that she will chart her own course but avoids specifics on policies &lpar;Washington Post&rpar;](http://www.techmeme.com/241020/p8#a241020p8)<!-- TECH:END -->
+ - [Tracxn: Indian health tech-related startups raised $3.7B since 2022, about half of the $7.4B raised in the sector across the Asia Pacific region &lpar;Bloomberg&rpar;](http://www.techmeme.com/241021/p2#a241021p2)
+ - [OnePlus 13 design officially revealed in video, with a spooky launch date](https://www.androidauthority.com/oneplus-13-official-design-launch-date-3492296/)
+ - [How OpenAI, Google, and Anthropic are using differing approches to improve &quot;model behavior&quot;, an emerging field shaping AI systems&#39; responses and characteristics &lpar;Cristina Criddle/Financial Times&rpar;](http://www.techmeme.com/241021/p1#a241021p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
