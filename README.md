@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Watch Out Pixar, Chick-Fil-A Has A New Animated Series](https://kotaku.com/chick-fil-a-evergreen-hills-animated-show-streaming-app-1851677885)
- - [Blade Runner 2049 producers sue Elon Musk, Tesla, and Warner over AI-generated image used in Cybercab promotional event](https://www.pcgamer.com/hardware/blade-runner-2049-producers-sue-elon-musk-tesla-and-warner-over-ai-generated-image-used-in-cybercab-promotional-event)
- - [Ambitious Fallout Remake Gets Canceled Over Creator &#39;Burnout&#39;](https://kotaku.com/fallout-4-fallout-1-remake-remaster-hd-fan-project-mod-1851677833)<!-- GAME:END -->
+ - [Everything James Gunn said about Superman, Supergirl, and Peacemaker at NYCC 2024](https://www.polygon.com/dc/468136/james-gunn-superman-nycc-2024-supergirl-peacemaker-lanterns)
+ - [I played a popular new social fishing game on Steam and ended up blowing all my fish earnings on scratch-off lotto tickets](https://www.pcgamer.com/games/i-played-a-popular-new-social-fishing-game-on-steam-and-ended-up-blowing-all-my-fish-earnings-on-scratch-off-lotto-tickets)
+ - [Grab a sweet discount on the award-winning Geekom A7 mini PC with this pre-Black Friday deal](https://www.pcgamer.com/hardware/gaming-pcs/grab-a-sweet-discount-on-the-award-winning-geekom-a7-mini-pc-with-this-pre-black-friday-deal)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
