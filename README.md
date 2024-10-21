@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How does a CPU work?](https://www.androidauthority.com/how-does-a-cpu-work-3193096/)
- - [Stripe announces it has finalized a deal to acquire stablecoin infrastructure company Bridge; Michael Arrington says the deal was worth $1.1B &lpar;Jamie Crawley/CoinDesk&rpar;](http://www.techmeme.com/241021/p19#a241021p19)
- - [Gemini may soon let you make calls and send texts on locked devices &lpar;APK teardown&rpar;](https://www.androidauthority.com/gemini-lock-screen-calls-3492468/)<!-- TECH:END -->
+ - [T-Mobile’s new seasonal suspension charge makes it a pointless option](https://www.androidauthority.com/t-mobile-seasonal-suspension-charge-3492481/)
+ - [Magic Keyboard, Magic Trackpad, &amp; Magic Mouse may soon be upgraded with USB-C](https://appleinsider.com/articles/24/10/21/magic-keyboard-magic-trackpad-magic-mouse-may-soon-be-upgraded-with-usb-c?utm_medium=rss)
+ - [Blade Runner 2049&#39;s producer sues Musk, Tesla, and WBD for allegedly using AI to create imagery close to the film, despite a denied request, to promote Cybercab &lpar;Brooks Barnes/New York Times&rpar;](http://www.techmeme.com/241021/p20#a241021p20)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
