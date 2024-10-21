@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [True story, bro. It happened to me](http://9gag.com/gag/aGygRYK)
- - ⏩ [Showing a scammer his real face](http://9gag.com/gag/aPARG7K)
- - 👉 [Girls wilding out](http://9gag.com/gag/aQz1pzW)<!-- MEMES:END -->
+ - 💣 [Girls wilding out](http://9gag.com/gag/aQz1pzW)
+ - ⏩ [$400/nt Airbnb refuses to turn heat above 58 degrees](http://9gag.com/gag/axy724n)
+ - 👉 [Dont worry she is my ex. The ex](http://9gag.com/gag/agm5N1r)<!-- MEMES:END -->
 
 ---
 
