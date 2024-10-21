@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [My precious](http://9gag.com/gag/aAygVEo)
- - ⏩ [Praising Japan for safety is forbidden now](http://9gag.com/gag/aoy5zmx)
- - 👉 [The Foot-pool](http://9gag.com/gag/a0eRv1Q)<!-- MEMES:END -->
+ - ⏩ [She&#39;s 40](http://9gag.com/gag/aGygwy6)
+ - 👉 [Why do I face consequences of my actions?](http://9gag.com/gag/aMVY2g1)<!-- MEMES:END -->
 
 ---
 
