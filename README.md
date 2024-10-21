@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Space Marine 2&#39;s free 4K texture pack takes up more space than the entire base game, and you&#39;re gonna need some serious hardware to run it](https://www.pcgamer.com/games/third-person-shooter/space-marine-2s-free-4k-texture-pack-takes-up-more-space-than-the-entire-base-game-and-youre-gonna-need-some-serious-hardware-to-run-it)
- - [The Wild Robot, Alien: Romulus, Netflix’s The Shadow Strays, and every movie new to streaming this week](https://www.polygon.com/entertainment/465629/new-movies-watch-streaming-alien-romulus-the-wild-robot-netflix-shadow-strays)
- - [Sony&#39;s PC ports are speeding up: Spider-Man 2 arrives on PC in January 2025](https://www.pcgamer.com/games/action/sonys-pc-ports-are-speeding-up-spider-man-2-arrives-on-pc-in-january-2025)<!-- GAME:END -->
+ - [Build and automate little terraforming factories in open world survival game Eden Crafters](https://www.pcgamer.com/games/survival-crafting/build-and-automate-little-terraforming-factories-in-open-world-survival-game-eden-crafters)
+ - [Here&#39;s an adorable, cozy little multiplayer chatroom fishing game](https://www.pcgamer.com/games/heres-an-adorable-cozy-little-multiplayer-chatroom-fishing-game)
+ - [PSA: Silent Hill 2 remake has a soft lock glitch at the end of Brookhaven Hospital](https://www.pcgamer.com/games/horror/psa-silent-hill-2-remake-has-a-soft-lock-glitch-at-the-end-of-brookhaven-hospital)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
