@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Why do I face consequences of my actions?](http://9gag.com/gag/aMVY2g1)
- - ⏩ [Why are people so dense?](http://9gag.com/gag/aLn0P4V)
- - 👉 [This newly graduated girl shows all the love she has for her parents](http://9gag.com/gag/adB56Ld)<!-- MEMES:END -->
+ - 💣 [Bonnie Haim disappeared in 1993, and her 3-year-old son claimed that his father had murdered her, but nobody could prove that he was telling the truth. Twenty years later, while renovating the home, the son discovered his mother\u2019s remains buried in the backyard.](http://9gag.com/gag/apR5qoE)
+ - ⏩ [The suggested 20% tip is actually 72.6%](http://9gag.com/gag/a34RYw5)
+ - 👉 [She&#39;s 40](http://9gag.com/gag/aGygwy6)<!-- MEMES:END -->
 
 ---
 
