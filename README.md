@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tiger Woods’ new tech golf league brings big screens to the green in January](https://www.theverge.com/2024/10/21/24275825/tiger-woods-tgl-tech-golf-league-launch-january-espn-plus)
- - [Anker’s Solix C300 DC power station has hit a new low price for Verge readers](https://www.theverge.com/2024/10/21/24275682/anker-solix-c300-dc-portable-power-station-iphone-16-pro-max-case-deal-sale)
- - [The GameCube’s retro styling lives on in this customized PS5 DualSense controller](https://www.theverge.com/2024/10/21/24275805/killscreen-cubesense-ps5-dualsense-controller-nintendo-gamecube)<!-- TECH:END -->
+ - [How does a CPU work?](https://www.androidauthority.com/how-does-a-cpu-work-3193096/)
+ - [Stripe announces it has finalized a deal to acquire stablecoin infrastructure company Bridge; Michael Arrington says the deal was worth $1.1B &lpar;Jamie Crawley/CoinDesk&rpar;](http://www.techmeme.com/241021/p19#a241021p19)
+ - [Gemini may soon let you make calls and send texts on locked devices &lpar;APK teardown&rpar;](https://www.androidauthority.com/gemini-lock-screen-calls-3492468/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
