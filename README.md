@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Android users are getting superior AI features, and Apple knows it](https://www.androidauthority.com/android-superior-ai-and-apple-knows-3492314/)
- - [ABI expects there to be 8,400 global data centers by 2030, as investors capitalize on the AI boom; Statista projects the industry will be worth $624B by 2029 &lpar;Nicholas Fearn/Financial Times&rpar;](http://www.techmeme.com/241021/p3#a241021p3)
- - [OnePlus 13 rumors: Everything we know so far and what we want to see](https://www.androidauthority.com/oneplus-13-3436509/)<!-- TECH:END -->
+ - [IBM launches its open source Granite 3.0 models, including 2B and 8B general purpose versions and Mixture-of-Experts models, aimed at enterprise customers &lpar;Sean Michael Kerner/VentureBeat&rpar;](http://www.techmeme.com/241021/p4#a241021p4)
+ - [Nintendo’s mysterious Playtest begins to leak](https://www.theverge.com/2024/10/21/24275596/nintendo-switch-online-beta-playtest-program-leak-mmo)
+ - [Goodbye, ‘Google’: Your account name could soon shine in Settings &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-setting-change-android-15-3492342/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
