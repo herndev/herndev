@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Bonnie Haim disappeared in 1993, and her 3-year-old son claimed that his father had murdered her, but nobody could prove that he was telling the truth. Twenty years later, while renovating the home, the son discovered his mother\u2019s remains buried in the backyard.](http://9gag.com/gag/apR5qoE)
+ - 💣 [Any fans of this old horror movie `THE BREED` &lpar;2006&rpar;?](http://9gag.com/gag/a7owb2q)
  - ⏩ [The suggested 20% tip is actually 72.6%](http://9gag.com/gag/a34RYw5)
- - 👉 [She&#39;s 40](http://9gag.com/gag/aGygwy6)<!-- MEMES:END -->
+ - 👉 [This bloke found out Sweet Caroline wasn\u2019t all that sweet](http://9gag.com/gag/awyoroy)<!-- MEMES:END -->
 
 ---
 
