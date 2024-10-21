@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Castlevania Gets Massive Steam Sale Just In Time For Halloween](https://kotaku.com/castlevania-steam-sale-halloween-vampire-konami-1851677773)
- - [&#39;90s action horror game Undeadline is the quintessential Halloween shmup: Brains, beauty, blood, and a nice thick slice of cheese](https://www.pcgamer.com/games/action/90s-action-horror-game-undeadline-is-the-quintessential-halloween-shmup-brains-beauty-blood-and-a-nice-thick-slice-of-cheese)
- - [Kim Kardashian: Hollywood fans might have a replacement in Influencer Story: Rise to Fame](https://www.polygon.com/impressions/468105/influencer-story-rise-to-fame-mobile-game-like-kim-kardashian-hollywood)<!-- GAME:END -->
+ - [Ambitious Fallout Remake Gets Canceled Over Creator &#39;Burnout&#39;](https://kotaku.com/fallout-4-fallout-1-remake-remaster-hd-fan-project-mod-1851677833)
+ - [Nintendo&#39;s Mysterious Switch Playtest Details Revealed, And...It&#39;s Not What You Hoped [Update]](https://kotaku.com/nintendo-playtest-switch-2-mario-mmo-1851677142)
+ - [How to beat Zekvir&#39;s Lair in World of Warcraft: The War Within](https://www.pcgamer.com/games/world-of-warcraft/how-to-beat-zekvir-lair-void-airship-mount-the-war-within)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
