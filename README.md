@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [She\u2019s a super mom\u2764\ufe0f](http://9gag.com/gag/an75K8V)
- - ⏩ [What if that thing can read though?](http://9gag.com/gag/aqygNWZ)
- - 👉 [Appalachian Banjo-man Shapiro](http://9gag.com/gag/a0eRLdZ)<!-- MEMES:END -->
+ - 💣 [17ft 400kg boat from the 1960s with a modern 250hp engine](http://9gag.com/gag/a2vRmYO)
+ - ⏩ [My son ist studying electrical engineering, this is the birthdaycake I made for him](http://9gag.com/gag/aW4EOY3)
+ - 👉 [Man doing magic with his mouth.](http://9gag.com/gag/aAygp5E)<!-- MEMES:END -->
 
 ---
 
