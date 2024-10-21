@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [All The Saw Movies, Ranked From Worst To Best](https://kotaku.com/saw-movies-ranked-in-order-how-many-horror-jigsaw-1851673838)
- - [The Snapdragon X dev kit that we thought looked pretty cool turned out to be so bad that Qualcomm ended up cancelling it](https://www.pcgamer.com/hardware/gaming-laptops/the-snapdragon-x-dev-kit-that-we-thought-looked-pretty-cool-turned-out-to-be-so-bad-that-qualcomm-ended-up-cancelling-it)
- - [Apple is a better PC gaming platform than people give it credit for, but it&#39;s still not a gaming platform](https://www.pcgamer.com/hardware/apple-is-a-better-gaming-platform-than-people-give-it-credit-for-but-its-still-not-a-gaming-platform)<!-- GAME:END -->
+ - [Nintendo&#39;s Mysterious Switch Playtest Details Revealed, And...It&#39;s Not What You Hoped](https://kotaku.com/nintendo-playtest-switch-2-mario-mmo-1851677142)
+ - [The Halloween Countdown: 31 days of horror to watch](https://www.polygon.com/what-to-watch/452010/best-halloween-horror-movies-tv-watch-stream)
+ - [Former Bethesda lead is sceptical of The Elder Scrolls&#39; return to &#39;fiddly stat sheets&#39;, even in the face of Baldur&#39;s Gate 3&#39;s success](https://www.pcgamer.com/games/the-elder-scrolls/former-bethesda-lead-is-sceptical-of-the-elder-scrolls-return-to-fiddly-stat-sheets-even-in-the-face-of-baldurs-gate-3s-success)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
