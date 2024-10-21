@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Logitech G Pro 2 Lightspeed Review](https://www.pcgamer.com/hardware/gaming-mice/logitech-g-pro-2-lightspeed-review)
- - [&#39;Please try not to binge it&#39;: Vampire Survivors finally releases a Castlevania DLC with 20 new characters, 40 new weapons, and &#39;a monstrously large stage&#39;](https://www.pcgamer.com/games/action/please-try-not-to-binge-it-vampire-survivors-finally-releases-a-castlevania-dlc-with-20-new-characters-40-new-weapons-and-a-monstrously-large-stage)
- - [Elon Musk&#39;s X changes its terms of service to steer user lawsuits towards a Texas court instead of California. Which is fine. Just happens to be a completely different Texas court district to where X is actually headquartered](https://www.pcgamer.com/hardware/elon-musks-x-changes-its-terms-of-service-to-steer-user-lawsuits-towards-a-texas-court-instead-of-california-which-is-fine-just-happens-to-be-a-completely-different-texas-court-district-to-where-x-is-actually-headquartered)<!-- GAME:END -->
+ - [Valve says its &#39;not really fair to your customers&#39; to create yearly iterations of something like the Steam Deck, instead it&#39;s waiting &#39;for a generational leap in compute without sacrificing battery life&#39;](https://www.pcgamer.com/hardware/handheld-gaming-pcs/valve-says-its-not-really-fair-to-your-customers-to-create-yearly-iterations-of-something-like-the-steam-deck-instead-its-waiting-for-a-generational-leap-in-compute-without-sacrificing-battery-life)
+ - [Vampire Survivors Getting Huge Castlevania DLC Just In Time For Halloween](https://kotaku.com/vampire-survivors-castlevania-dlc-halloween-ps5-switch-1851677539)
+ - [Multiplayer focus aside, the Steam Next Fest demo charts reveal the weird unpredictability of PC gaming](https://www.pcgamer.com/games/multiplayer-focus-aside-the-steam-next-fest-demo-charts-reveal-the-weird-unpredictability-of-pc-gaming)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
