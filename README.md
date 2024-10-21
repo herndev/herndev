@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Today&#39;s Wordle answer for Monday, October 21](https://www.pcgamer.com/games/puzzle/wordle-answer-today-october-21-2024)
- - [Five new Steam games you probably missed &lpar;October 21, 2024&rpar;](https://www.pcgamer.com/software/platforms/five-new-steam-games-you-probably-missed-october-21-2024)
- - [Final Fantasy 7 retranslation mod promises English-speaking players an experience &#39;as close as possible to that of Japanese-speaking players&#39;](https://www.pcgamer.com/games/rpg/final-fantasy-7-retranslation-mod-promises-english-speaking-players-an-experience-as-close-as-possible-to-that-of-japanese-speaking-players)<!-- GAME:END -->
+ - [Channel your inner Professor X by turning your gaming chair into Cerebro with this strap-on 7.1.2 surround sound speaker](https://www.pcgamer.com/hardware/speakers/channel-your-inner-professor-x-by-turning-your-gaming-chair-into-cerebro-with-this-strap-on-7-1-2-surround-sound-speaker)
+ - [Silent Hill 2&#39;s development was rough on Bloober Team because of online &#39;hate&#39;, but now that it&#39;s proved itself it wants to &#39;show what we can do on our own&#39; with Cronos: The New Dawn](https://www.pcgamer.com/games/horror/silent-hill-2s-development-was-rough-on-bloober-team-because-of-online-hate-but-now-that-its-proved-itself-it-wants-to-show-what-we-can-do-on-our-own-with-cronos-the-new-dawn)
+ - [Today&#39;s Wordle answer for Monday, October 21](https://www.pcgamer.com/games/puzzle/wordle-answer-today-october-21-2024)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
