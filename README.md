@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Volkswagen ID Buzz Is Finally Here. We Took the Electric Microbus for a Drive](https://www.wired.com/story/2025-volkswagen-id-buzz-test-drive-first-impressions/)
- - [New price drops hit Apple&#39;s M3 MacBook Air, on sale from $899](https://appleinsider.com/articles/24/10/21/new-price-drops-hit-apples-m3-macbook-air-on-sale-from-899?utm_medium=rss)
- - [iPhone 16 Pro randomly rebooting? You’re not alone](https://www.androidauthority.com/iphone-16-pro-random-reboots-3492386/)<!-- TECH:END -->
+ - [Zip, which uses AI to help businesses manage buying goods and services, raised $190M led by BOND at a $2.2B valuation, up from $1.5B in May 2023 &lpar;Paayal Zaveri/Bloomberg&rpar;](http://www.techmeme.com/241021/p13#a241021p13)
+ - [Q&amp;A with Intuit CEO Sasan Goodarzi on AI, tax, and more; in a follow-up, an exec said &quot;at the very least the end portion of your interview should be deleted&quot; &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/241021/p12#a241021p12)
+ - [Tropical Storm Oscar is making Cuba’s nationwide power outage even worse](https://www.theverge.com/2024/10/21/24275647/cuba-power-outage-tropical-storm-oscar)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
