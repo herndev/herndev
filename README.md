@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [True story, bro. It happened to me](http://9gag.com/gag/aGygRYK)
- - ⏩ [Influencer plunges to their death taking selfie.](http://9gag.com/gag/aZZ7qoV)
- - 👉 [The suggested 20% tip is actually 72.6%](http://9gag.com/gag/a34RYw5)<!-- MEMES:END -->
+ - 💣 [My precious](http://9gag.com/gag/aAygVEo)
+ - ⏩ [Praising Japan for safety is forbidden now](http://9gag.com/gag/aoy5zmx)
+ - 👉 [The Foot-pool](http://9gag.com/gag/a0eRv1Q)<!-- MEMES:END -->
 
 ---
 
