@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Who will deliver useful AI to the masses?](https://appleinsider.com/articles/24/10/21/who-will-deliver-useful-ai-to-the-masses?utm_medium=rss)
- - [Russian officials buy four times more iPhones after ban](https://appleinsider.com/articles/24/10/21/russian-officials-buy-four-times-more-iphones-after-ban?utm_medium=rss)
- - [It’s been years, but I still miss these dead Android apps dearly](https://www.androidauthority.com/dead-android-apps-3491528/)<!-- TECH:END -->
+ - [Tiger Woods’ new tech golf league brings big screens to the green in January](https://www.theverge.com/2024/10/21/24275825/tiger-woods-tgl-tech-golf-league-launch-january-espn-plus)
+ - [Anker’s Solix C300 DC power station has hit a new low price for Verge readers](https://www.theverge.com/2024/10/21/24275682/anker-solix-c300-dc-portable-power-station-iphone-16-pro-max-case-deal-sale)
+ - [The GameCube’s retro styling lives on in this customized PS5 DualSense controller](https://www.theverge.com/2024/10/21/24275805/killscreen-cubesense-ps5-dualsense-controller-nintendo-gamecube)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
