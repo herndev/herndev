@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [What We Do in the Shadows, Lower Decks, and more new TV to watch this week](https://www.polygon.com/tv/466619/netflix-new-tv-wwdits-star-trek-lower-decks-hellbound-before-apple)
- - [Become The Master Of Diablo 4&#39;s Kurast Undercity Dungeon](https://kotaku.com/diablo-4-kurast-undercity-dungeon-unlock-beat-1851677509)
- - [Where to pre-order the 8BitDo 64 controller for the Analogue 3D](https://www.polygon.com/pre-order/467960/8bitdo-64-controller-analogue-3d-where-to-buy)<!-- GAME:END -->
+ - [Hi-Rez Studios is closing 2 games as it continues to refocus on Smite 2](https://www.pcgamer.com/gaming-industry/hi-rez-studios-is-closing-2-games-as-it-continues-to-refocus-on-smite-2)
+ - [Vampire Survivors’ new  Castlevania DLC brings the hit roguelike full circle](https://www.polygon.com/gaming/467976/vampire-survivors-castlevania-dlc-release-date-price)
+ - [The 6 Best Smoothies In Zelda: Echoes Of Wisdom](https://kotaku.com/zelda-echoes-of-wisdom-best-smoothies-guide-1851677599)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
