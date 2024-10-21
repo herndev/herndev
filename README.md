@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Body shaming is fine it till its all about the weight](http://9gag.com/gag/aND0rNv)
- - ⏩ [Prank](http://9gag.com/gag/ayNoEAX)
- - 👉 [Is this peak ?](http://9gag.com/gag/awyoNzB)<!-- MEMES:END -->
+ - 💣 [True story, bro. It happened to me](http://9gag.com/gag/aGygRYK)
+ - ⏩ [Influencer plunges to their death taking selfie.](http://9gag.com/gag/aZZ7qoV)
+ - 👉 [The suggested 20% tip is actually 72.6%](http://9gag.com/gag/a34RYw5)<!-- MEMES:END -->
 
 ---
 
