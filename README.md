@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Build and automate little terraforming factories in open world survival game Eden Crafters](https://www.pcgamer.com/games/survival-crafting/build-and-automate-little-terraforming-factories-in-open-world-survival-game-eden-crafters)
- - [Here&#39;s an adorable, cozy little multiplayer chatroom fishing game](https://www.pcgamer.com/games/heres-an-adorable-cozy-little-multiplayer-chatroom-fishing-game)
- - [PSA: Silent Hill 2 remake has a soft lock glitch at the end of Brookhaven Hospital](https://www.pcgamer.com/games/horror/psa-silent-hill-2-remake-has-a-soft-lock-glitch-at-the-end-of-brookhaven-hospital)<!-- GAME:END -->
+ - [Five new Steam games you probably missed &lpar;October 21, 2024&rpar;](https://www.pcgamer.com/software/platforms/five-new-steam-games-you-probably-missed-october-21-2024)
+ - [Final Fantasy 7 retranslation mod promises English-speaking players an experience &#39;as close as possible to that of Japanese-speaking players&#39;](https://www.pcgamer.com/games/rpg/final-fantasy-7-retranslation-mod-promises-english-speaking-players-an-experience-as-close-as-possible-to-that-of-japanese-speaking-players)
+ - [Build and automate little terraforming factories in open world survival game Eden Crafters](https://www.pcgamer.com/games/survival-crafting/build-and-automate-little-terraforming-factories-in-open-world-survival-game-eden-crafters)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
