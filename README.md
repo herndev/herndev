@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Samsung unveils Galaxy Z Fold Special Edition: A sleeker, more powerful foldable](https://www.androidauthority.com/samsung-galaxy-z-fold-6-special-edition-3492282/)
  - [A look at the Harris campaign&#39;s outreach efforts to the tech sector, as it tries to convince that she will chart her own course but avoids specifics on policies &lpar;Washington Post&rpar;](http://www.techmeme.com/241020/p8#a241020p8)
- - [Nolah Mattresses Review 2024: A Bed for Everyone](https://www.cnet.com/health/sleep/nolah-mattresses-review/#ftag=CAD590a51e)
- - [At a protest in SF, blind Uber and Lyft users claim the companies aren&#39;t doing enough to prevent drivers from turning away passengers with visual impairments &lpar;Wired&rpar;](http://www.techmeme.com/241020/p7#a241020p7)<!-- TECH:END -->
+ - [Today&#39;s Wordle Hints, Answer and Help for Oct. 21, #1220](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-oct-21-1220/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
