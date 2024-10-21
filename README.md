@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Android users are getting superior AI features, and Apple knows it](https://www.androidauthority.com/android-superior-ai-and-apple-knows-3492314/)
  - [ABI expects there to be 8,400 global data centers by 2030, as investors capitalize on the AI boom; Statista projects the industry will be worth $624B by 2029 &lpar;Nicholas Fearn/Financial Times&rpar;](http://www.techmeme.com/241021/p3#a241021p3)
- - [OnePlus 13 rumors: Everything we know so far and what we want to see](https://www.androidauthority.com/oneplus-13-3436509/)
- - [Samsung’s Z Fold Special Edition flagship is here](https://www.theverge.com/2024/10/21/24275571/samsung-z-fold-special-edition-price-specs)<!-- TECH:END -->
+ - [OnePlus 13 rumors: Everything we know so far and what we want to see](https://www.androidauthority.com/oneplus-13-3436509/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
