@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Excellent execution of a classic](http://9gag.com/gag/ae953wv)
- - ⏩ [Bang bang](http://9gag.com/gag/aPAR4Nw)
+ - 💣 [Hold up ,wait a minute , sumthin ain\u2019t right !](http://9gag.com/gag/aryo4np)
+ - ⏩ [Let&#39;s see how many likes will Aztec get](http://9gag.com/gag/awyor0r)
  - 👉 [Bro won at life. Best marriage proposal reaction ever](http://9gag.com/gag/ae950rp)<!-- MEMES:END -->
 
 ---
