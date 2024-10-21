@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Deals: These awesome Anker chargers are up to 41% off!](https://www.androidauthority.com/anker-prime-67w-charger-733-power-bank-deals-3492522/)
- - [Android Auto missing from your Tesla? This device can fix that](https://www.androidauthority.com/android-auto-tesla-3492557/)
- - [The best fitness trackers to buy right now](https://www.theverge.com/22985108/best-fitness-tracker)<!-- TECH:END -->
+ - [Meta is testing the use of facial recognition to combat celebrity scam ads and to enable faster recovery of compromised accounts on Facebook and Instagram &lpar;Natasha Lomas/TechCrunch&rpar;](http://www.techmeme.com/241021/p25#a241021p25)
+ - [Apple&#39;s October Mac event or release plans still aren&#39;t clear](https://appleinsider.com/articles/24/10/21/apple-could-announce-new-macs-with-m4-chip-at-october-event-alongside-redesigned-mac-mini?utm_medium=rss)
+ - [Disney Plus and Hulu won’t let you sign up through Apple anymore](https://www.theverge.com/2024/10/21/24276226/disney-plus-hulu-sign-up-apple-app-store-anymore)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
