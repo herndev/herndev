@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Channel your inner Professor X by turning your gaming chair into Cerebro with this strap-on 7.1.2 surround sound speaker](https://www.pcgamer.com/hardware/speakers/channel-your-inner-professor-x-by-turning-your-gaming-chair-into-cerebro-with-this-strap-on-7-1-2-surround-sound-speaker)
- - [Silent Hill 2&#39;s development was rough on Bloober Team because of online &#39;hate&#39;, but now that it&#39;s proved itself it wants to &#39;show what we can do on our own&#39; with Cronos: The New Dawn](https://www.pcgamer.com/games/horror/silent-hill-2s-development-was-rough-on-bloober-team-because-of-online-hate-but-now-that-its-proved-itself-it-wants-to-show-what-we-can-do-on-our-own-with-cronos-the-new-dawn)
- - [Today&#39;s Wordle answer for Monday, October 21](https://www.pcgamer.com/games/puzzle/wordle-answer-today-october-21-2024)<!-- GAME:END -->
+ - [Squadron 42, which was &#39;feature-complete&#39; and just needed &#39;polish&#39; in 2023, is now targeting a 2026 launch](https://www.pcgamer.com/games/action/squadron-42-which-was-feature-complete-and-just-needed-polish-in-2023-is-now-targeting-a-2026-launch)
+ - [World&#39;s grainiest video purportedly shows an RTX 5090 under testing in a factory built to beat export restrictions to China, but I have my doubts](https://www.pcgamer.com/hardware/graphics-cards/worlds-grainiest-video-purportedly-shows-an-rtx-5090-under-testing-in-a-factory-built-to-beat-export-restrictions-to-china-but-i-have-my-doubts)
+ - [&#39;We&#39;ve been struggling with this for some time&#39;: Fallout: London devs pray they&#39;ve defeated the dreaded train crash bug after sharing a &#39;living document&#39; full of bug fixes](https://www.pcgamer.com/games/fallout/weve-been-struggling-with-this-for-some-time-fallout-london-devs-pray-theyve-defeated-the-dreaded-train-crash-bug-after-sharing-a-living-document-full-of-bug-fixes)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
