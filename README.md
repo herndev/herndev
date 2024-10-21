@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [One-third of DHS’s border surveillance cameras don’t even work](https://www.theverge.com/2024/10/21/24276110/border-patrol-surveillance-cameras-not-working-mark-green)
- - [EssilorLuxottica CFO says Ray-Ban Meta glasses are a &quot;success&quot; in the US and the best-seller &quot;in 60%&quot; of Ray-Ban stores in Europe, the Middle East, and Africa &lpar;David Heaney/UploadVR&rpar;](http://www.techmeme.com/241021/p22#a241021p22)
- - [YouTube investigating why some Premium subscribers are getting ads](https://www.androidauthority.com/youtube-premium-ads-appear-3492529/)<!-- TECH:END -->
+ - [Apple could announce redesigned Mac mini with M4 at October event](https://appleinsider.com/articles/24/10/21/apple-could-announce-new-macs-with-m4-chip-at-october-event-alongside-redesigned-mac-mini?utm_medium=rss)
+ - [Find My Device just got a lot smarter with new biometric login](https://www.androidauthority.com/find-my-device-biometric-login-3492571/)
+ - [iRobot’s budget-friendly Roombas add a self-emptying option](https://www.theverge.com/2024/10/21/24275897/irobot-robovac-robot-vacuum-essential-self-empty-dock)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
