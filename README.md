@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Zip, which uses AI to help businesses manage buying goods and services, raised $190M led by BOND at a $2.2B valuation, up from $1.5B in May 2023 &lpar;Paayal Zaveri/Bloomberg&rpar;](http://www.techmeme.com/241021/p13#a241021p13)
- - [Q&amp;A with Intuit CEO Sasan Goodarzi on AI, tax, and more; in a follow-up, an exec said &quot;at the very least the end portion of your interview should be deleted&quot; &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/241021/p12#a241021p12)
- - [Tropical Storm Oscar is making Cuba’s nationwide power outage even worse](https://www.theverge.com/2024/10/21/24275647/cuba-power-outage-tropical-storm-oscar)<!-- TECH:END -->
+ - [UK-based Sophos plans to acquire Atlanta-based cybersecurity company Secureworks for ~$859M, expected to close in early 2025; Dell owns ~79% of Secureworks &lpar;Joe Warminsky/The Record&rpar;](http://www.techmeme.com/241021/p16#a241021p16)
+ - [These are your favorite Android 15 features, and one of them isn’t even live yet](https://www.androidauthority.com/poll-result-favorite-android-15-feature-3492425/)
+ - [Vampire Survivors comes full-circle with Castlevania DLC expansion](https://www.theverge.com/2024/10/21/24275710/vampire-survivors-ode-to-castlevania-dlc-konami-collaboration-expansion)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
