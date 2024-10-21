@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This was the original design of lord voldemort in Harry Potter ,which was then changed because producer&#39;s thought it might traumatize childrens](http://9gag.com/gag/avyo21O)
- - ⏩ [The Foot-pool](http://9gag.com/gag/a0eRv1Q)
- - 👉 [Oh Canada](http://9gag.com/gag/aYQ7bGw)<!-- MEMES:END -->
+ - 💣 [Body shaming is fine it till its all about the weight](http://9gag.com/gag/aND0rNv)
+ - ⏩ [Prank](http://9gag.com/gag/ayNoEAX)
+ - 👉 [Is this peak ?](http://9gag.com/gag/awyoNzB)<!-- MEMES:END -->
 
 ---
 
