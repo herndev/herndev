@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Squadron 42, which was &#39;feature-complete&#39; and just needed &#39;polish&#39; in 2023, is now targeting a 2026 launch](https://www.pcgamer.com/games/action/squadron-42-which-was-feature-complete-and-just-needed-polish-in-2023-is-now-targeting-a-2026-launch)
- - [World&#39;s grainiest video purportedly shows an RTX 5090 under testing in a factory built to beat export restrictions to China, but I have my doubts](https://www.pcgamer.com/hardware/graphics-cards/worlds-grainiest-video-purportedly-shows-an-rtx-5090-under-testing-in-a-factory-built-to-beat-export-restrictions-to-china-but-i-have-my-doubts)
- - [&#39;We&#39;ve been struggling with this for some time&#39;: Fallout: London devs pray they&#39;ve defeated the dreaded train crash bug after sharing a &#39;living document&#39; full of bug fixes](https://www.pcgamer.com/games/fallout/weve-been-struggling-with-this-for-some-time-fallout-london-devs-pray-theyve-defeated-the-dreaded-train-crash-bug-after-sharing-a-living-document-full-of-bug-fixes)<!-- GAME:END -->
+ - [All The Saw Movies, Ranked From Worst To Best](https://kotaku.com/saw-movies-ranked-in-order-how-many-horror-jigsaw-1851673838)
+ - [The Snapdragon X dev kit that we thought looked pretty cool turned out to be so bad that Qualcomm ended up cancelling it](https://www.pcgamer.com/hardware/gaming-laptops/the-snapdragon-x-dev-kit-that-we-thought-looked-pretty-cool-turned-out-to-be-so-bad-that-qualcomm-ended-up-cancelling-it)
+ - [Apple is a better PC gaming platform than people give it credit for, but it&#39;s still not a gaming platform](https://www.pcgamer.com/hardware/apple-is-a-better-gaming-platform-than-people-give-it-credit-for-but-its-still-not-a-gaming-platform)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
