@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Hi-Rez Studios is closing 2 games as it continues to refocus on Smite 2](https://www.pcgamer.com/gaming-industry/hi-rez-studios-is-closing-2-games-as-it-continues-to-refocus-on-smite-2)
- - [Vampire Survivors’ new  Castlevania DLC brings the hit roguelike full circle](https://www.polygon.com/gaming/467976/vampire-survivors-castlevania-dlc-release-date-price)
- - [The 6 Best Smoothies In Zelda: Echoes Of Wisdom](https://kotaku.com/zelda-echoes-of-wisdom-best-smoothies-guide-1851677599)<!-- GAME:END -->
+ - [Castlevania Gets Massive Steam Sale Just In Time For Halloween](https://kotaku.com/castlevania-steam-sale-halloween-vampire-konami-1851677773)
+ - [&#39;90s action horror game Undeadline is the quintessential Halloween shmup: Brains, beauty, blood, and a nice thick slice of cheese](https://www.pcgamer.com/games/action/90s-action-horror-game-undeadline-is-the-quintessential-halloween-shmup-brains-beauty-blood-and-a-nice-thick-slice-of-cheese)
+ - [Kim Kardashian: Hollywood fans might have a replacement in Influencer Story: Rise to Fame](https://www.polygon.com/impressions/468105/influencer-story-rise-to-fame-mobile-game-like-kim-kardashian-hollywood)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
