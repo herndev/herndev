@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best Garmin watches for training and everyday life](https://www.theverge.com/23691498/best-garmin-smartwatch-fitness-tracker-wearables)
- - [Terray Therapeutics, which uses AI to accelerate small-molecule drug development, raised a $120M Series B led by Bedford Ridge Capital and Nvidia&#39;s NVentures &lpar;Kyt Dotson/SiliconANGLE&rpar;](http://www.techmeme.com/241018/p18#a241018p18)
- - [Amazon launches $99 Anker Thunderbolt 4 Mini Dock deal to power your MacBook](https://appleinsider.com/articles/24/10/18/amazon-launches-99-anker-thunderbolt-4-mini-dock-deal-to-power-your-macbook?utm_medium=rss)<!-- TECH:END -->
+ - [At a protest in SF, blind Uber and Lyft users claim the companies aren&#39;t doing enough to prevent drivers from turning away passengers with visual impairments &lpar;Wired&rpar;](http://www.techmeme.com/241020/p7#a241020p7)
+ - [I&#39;ve Been Sleeping on a Purple Mattress for 5 Years. Here&#39;s What You Need to Know Before Trying One For Yourself.](https://www.cnet.com/health/sleep/a-5-year-review-of-the-purple-hybrid-premier-mattress/#ftag=CAD590a51e)
+ - [Best Web Hosting Services for 2024](https://www.cnet.com/tech/services-and-software/best-web-hosting/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
