@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple could announce redesigned Mac mini with M4 at October event](https://appleinsider.com/articles/24/10/21/apple-could-announce-new-macs-with-m4-chip-at-october-event-alongside-redesigned-mac-mini?utm_medium=rss)
- - [Find My Device just got a lot smarter with new biometric login](https://www.androidauthority.com/find-my-device-biometric-login-3492571/)
- - [iRobot’s budget-friendly Roombas add a self-emptying option](https://www.theverge.com/2024/10/21/24275897/irobot-robovac-robot-vacuum-essential-self-empty-dock)<!-- TECH:END -->
+ - [Deals: These awesome Anker chargers are up to 41% off!](https://www.androidauthority.com/anker-prime-67w-charger-733-power-bank-deals-3492522/)
+ - [Android Auto missing from your Tesla? This device can fix that](https://www.androidauthority.com/android-auto-tesla-3492557/)
+ - [The best fitness trackers to buy right now](https://www.theverge.com/22985108/best-fitness-tracker)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
