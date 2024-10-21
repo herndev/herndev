@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How OpenAI, Google, and Anthropic are using differing approches to improve &quot;model behavior&quot;, an emerging field shaping AI systems&#39; responses and characteristics &lpar;Cristina Criddle/Financial Times&rpar;](http://www.techmeme.com/241021/p1#a241021p1)
  - [Samsung unveils Galaxy Z Fold Special Edition: A sleeker, more powerful foldable](https://www.androidauthority.com/samsung-galaxy-z-fold-6-special-edition-3492282/)
- - [A look at the Harris campaign&#39;s outreach efforts to the tech sector, as it tries to convince that she will chart her own course but avoids specifics on policies &lpar;Washington Post&rpar;](http://www.techmeme.com/241020/p8#a241020p8)
- - [Today&#39;s Wordle Hints, Answer and Help for Oct. 21, #1220](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-oct-21-1220/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [A look at the Harris campaign&#39;s outreach efforts to the tech sector, as it tries to convince that she will chart her own course but avoids specifics on policies &lpar;Washington Post&rpar;](http://www.techmeme.com/241020/p8#a241020p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
