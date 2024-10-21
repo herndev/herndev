@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Hold up ,wait a minute , sumthin ain\u2019t right !](http://9gag.com/gag/aryo4np)
- - ⏩ [Let&#39;s see how many likes will Aztec get](http://9gag.com/gag/awyor0r)
- - 👉 [Bro won at life. Best marriage proposal reaction ever](http://9gag.com/gag/ae950rp)<!-- MEMES:END -->
+ - 💣 [Bro won at life. Best marriage proposal reaction ever](http://9gag.com/gag/ae950rp)
+ - ⏩ [Title](http://9gag.com/gag/aqyg22Z)
+ - 👉 [Any fans of this old horror movie `THE BREED` &lpar;2006&rpar;?](http://9gag.com/gag/a7owb2q)<!-- MEMES:END -->
 
 ---
 
