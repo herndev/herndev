@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone 16 Pro restart bug is fixed in iOS 18.1](https://appleinsider.com/articles/24/10/22/iphone-16-pro-restart-bug-is-fixed-in-ios-181?utm_medium=rss)
- - [Google Translate could soon offer a richer, seamless Instant Translate experience &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-translate-richer-seamless-instant-translate-apk-teardown-3492801/)
- - [X data: Elon Musk-backed America PAC spent $166K between July 8 and October 1 to run 59 ads on X targeting swing voters in six states, yielding 32M+ impressions &lpar;Vittoria Elliott/Wired&rpar;](http://www.techmeme.com/241022/p7#a241022p7)<!-- TECH:END -->
+ - [I love the idea of an Android/Windows hybrid laptop, but I’m not sure this one’s for me](https://www.androidauthority.com/lenovo-thinkbook-plus-gen-5-hybrid-review-3491278/)
+ - [Apple iPad Mini &lpar;A17 Pro, 2024&rpar; Review: Portable and Powerful](https://www.wired.com/review/apple-ipad-mini-a17-pro-2024/)
+ - [Apple iPad Mini 2024 review: missing pieces](https://www.theverge.com/2024/10/22/24275956/apple-ipad-mini-2024-review)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
