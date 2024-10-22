@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [I love the idea of an Android/Windows hybrid laptop, but I’m not sure this one’s for me](https://www.androidauthority.com/lenovo-thinkbook-plus-gen-5-hybrid-review-3491278/)
- - [Apple iPad Mini &lpar;A17 Pro, 2024&rpar; Review: Portable and Powerful](https://www.wired.com/review/apple-ipad-mini-a17-pro-2024/)
- - [Apple iPad Mini 2024 review: missing pieces](https://www.theverge.com/2024/10/22/24275956/apple-ipad-mini-2024-review)<!-- TECH:END -->
+ - [iPad mini review roundup: Minor but needed evolution](https://appleinsider.com/articles/24/10/22/ipad-mini-review-roundup-minor-but-needed-evolution?utm_medium=rss)
+ - [A UK court says prominent Saudi dissident Yahya Assiri can sue Saudi Arabia in London court over claims of targeting him with NSO Group&#39;s Pegasus &lpar;Sam Tobin/Reuters&rpar;](http://www.techmeme.com/241022/p12#a241022p12)
+ - [AirPods are good for your &lpar;hearing&rpar; health](https://www.theverge.com/2024/10/22/24276646/apple-airpods-hearing-aid-smart-ring-vergecast)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
