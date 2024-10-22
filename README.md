@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [TSMC alerts U.S. to possible AI chip sanctions breach by Huawei](https://appleinsider.com/articles/24/10/22/tsmc-alerts-us-to-possible-ai-chip-sanctions-breach-by-huawei?utm_medium=rss)
- - [Cruise lost $435 million this quarter, even with its robotaxis on hiatus](https://www.theverge.com/2024/10/22/24276670/cruise-gm-loss-q3-2024-driverless-robotaxi)
- - [The Shitposting Cartoon Dogs Sending Trucks, Drones, and Weapons to Ukraine’s Front Lines](https://www.wired.com/story/nafo-ukraine-russia-war/)<!-- TECH:END -->
+ - [This Pixel 9 Pro’s camera bar is popping off, literally](https://www.androidauthority.com/google-pixel-9-pro-camera-bar-separating-3492839/)
+ - [The best smartwatches for Android](https://www.theverge.com/23449363/best-android-smartwatches-wear-os)
+ - [&#39;Absolution&#39; Excerpt: Read the Beginning of Jeff VanderMeer&#39;s Newest Southern Reach Book](https://www.wired.com/story/jeff-vandermeer-new-novel-absolution-book-excerpt/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
