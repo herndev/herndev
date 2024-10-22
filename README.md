@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Red Carpet Service](http://9gag.com/gag/aQz1Mxw)
- - ⏩ [Hey Joey... What does this button do?](http://9gag.com/gag/ayNoLny)
- - 👉 [Hello.. Let me order a 2x3 window frame.. Click.](http://9gag.com/gag/aBygwrP)<!-- MEMES:END -->
+ - 💣 [What in the cotton picking hell](http://9gag.com/gag/a5QRZ8q)
+ - ⏩ [Bro scammed the scammer](http://9gag.com/gag/a34RLEQ)
+ - 👉 [Unalived him with kindness](http://9gag.com/gag/aKGdBqW)<!-- MEMES:END -->
 
 ---
 
