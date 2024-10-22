@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [OpenAI and Microsoft announce a $10M AI local news project operated by the Lenfest Institute, starting with five US metro news organizations &lpar;Sara Fischer/Axios&rpar;](http://www.techmeme.com/241022/p27#a241022p27)
- - [Qualcomm partners with Google to help automakers develop AI voice assistants and unveils two new chips to power dashboards and self-driving features &lpar;Stephen Nellis/Reuters&rpar;](http://www.techmeme.com/241022/p26#a241022p26)
- - [Apple rumored to be working on new game-focused App Store &amp; launcher](https://appleinsider.com/articles/24/10/22/apple-rumored-to-be-working-on-new-game-focused-app-store-launcher?utm_medium=rss)<!-- TECH:END -->
+ - [Google Keep is preparing some powerful new tools to liven up your notes &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-keep-notetaking-tools-3492984/)
+ - [Runway rolls out Act-One, a Gen-3 Alpha tool for animating AI-generated characters with realistic facial expressions using video and voice recordings as inputs &lpar;Runway&rpar;](http://www.techmeme.com/241022/p29#a241022p29)
+ - [The best Fitbits for your fitness and health](https://www.theverge.com/22982833/best-fitbit-watch-fitness-tracker)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
