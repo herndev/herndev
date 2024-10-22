@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Asus China&#39;s general manager shows off the deep details of Intel&#39;s Arrow Lake chips in new reveal](https://www.pcgamer.com/hardware/processors/asus-chinas-general-manager-shows-off-the-deep-details-of-intels-arrow-lake-chips-in-new-reveal)
- - [Netflix Shutters AAA Game Studio It Built With Former Blizzard, Bungie Devs](https://kotaku.com/netflix-team-blue-bungie-blizzard-sony-closed-1851678075)
- - [How the 4th Southern Reach book, Absolution, burst out of author Jeff VanderMeer](https://www.polygon.com/books/467953/jeff-vandermeer-author-interview-absolution-southern-reach-prequel-sequel)<!-- GAME:END -->
+ - [Pal-dora&#39;s Box yawns open as Sega sues MementoMori developers over mechanic patents, seeking 1 billion yen in damages](https://www.pcgamer.com/gaming-industry/pal-doras-box-yawns-open-as-sega-sues-mementomori-developers-over-mechanic-patents-seeking-1-billion-yen-in-damages)
+ - [Spooky survival game Angst knows just I want: Survival mechanics that get out the way of my quest to steal a sad orb from the guy in the basement](https://www.pcgamer.com/games/survival-crafting/spooky-survival-game-angst-knows-just-i-want-survival-mechanics-that-get-out-the-way-of-my-quest-to-steal-a-sad-orb-from-the-guy-in-the-basement)
+ - [Carve pumpkins, solve spooky puzzles in Ghost Town Pumpkin Festival](https://www.polygon.com/impressions/468456/ghost-town-pumpkin-festival-2024-update-halloween)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
