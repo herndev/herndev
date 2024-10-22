@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Minecraft Bundles of Bravery Game Drop Adds Hardcore Survival and Inventory Bundles](https://www.minecraft.net/en-us/article/bundles-of-bravery#new_tab)
- - [Where to buy the D&amp;#038;D 50th anniversary vinyl album](https://www.polygon.com/pre-order/468512/bardic-inspiration-album-where-to-buy-dnd-dungeons-dragons-vinyl)
- - [Marvel&#39;s Blade Reboot Delayed Again As It Loses 2025 Release Window](https://kotaku.com/marvel-blade-reboot-delay-production-issues-2025-mcu-1851678580)<!-- GAME:END -->
+ - [Everything You Need To Know About Batman: Arkham Shadow](https://kotaku.com/batman-arkham-shadow-vr-meta-quest-3-release-1851678256)
+ - [US Army asks if Microsoft could please make its Kill-O-Vision headsets a bit cheaper](https://www.pcgamer.com/hardware/vr-hardware/us-army-asks-if-microsoft-could-please-make-its-kill-o-vision-headsets-a-bit-cheaper)
+ - [You can bone the Grim Reaper in The Sims 4 now](https://www.polygon.com/the-sims/468823/4-grim-reaper-woohoo-update-life-death)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
