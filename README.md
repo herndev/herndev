@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Why such stupidity](http://9gag.com/gag/aKGdPDQ)
- - ⏩ [But mom It&#39;s a homemade wifi booster.](http://9gag.com/gag/aAyg1O2)
- - 👉 [Why are people so dense?](http://9gag.com/gag/aLn0P4V)<!-- MEMES:END -->
+ - 💣 [Cristy R.](http://9gag.com/gag/a1mRXjw)
+ - ⏩ [Bro scammed the scammer](http://9gag.com/gag/a34RLEQ)
+ - 👉 [But mom It&#39;s a homemade wifi booster.](http://9gag.com/gag/aAyg1O2)<!-- MEMES:END -->
 
 ---
 
