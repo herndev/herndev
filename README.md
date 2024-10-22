@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone users can try AT&amp;T via eSIM free for 30 days](https://appleinsider.com/articles/24/10/22/iphone-users-can-try-att-via-esim-free-for-30-days?utm_medium=rss)
- - [Canva releases new generative AI features, including Dream Lab, an image generator powered by Leonardo.ai&#39;s Phoenix model; Canva acquired Leonardo.ai in July &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/241022/p25#a241022p25)
- - [Sources: Apple is working on a new App Store-like app dedicated to games that will integrate with the user&#39;s Game Center profile &lpar;Filipe Esp&amp;oacute;sito/9to5Mac&rpar;](http://www.techmeme.com/241022/p24#a241022p24)<!-- TECH:END -->
+ - [OpenAI and Microsoft announce a $10M AI local news project operated by the Lenfest Institute, starting with five US metro news organizations &lpar;Sara Fischer/Axios&rpar;](http://www.techmeme.com/241022/p27#a241022p27)
+ - [Qualcomm partners with Google to help automakers develop AI voice assistants and unveils two new chips to power dashboards and self-driving features &lpar;Stephen Nellis/Reuters&rpar;](http://www.techmeme.com/241022/p26#a241022p26)
+ - [Apple rumored to be working on new game-focused App Store &amp; launcher](https://appleinsider.com/articles/24/10/22/apple-rumored-to-be-working-on-new-game-focused-app-store-launcher?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
