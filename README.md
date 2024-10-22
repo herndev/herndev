@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Instant NOPE](http://9gag.com/gag/aryoKep)
- - ⏩ [$400/nt Airbnb refuses to turn heat above 58 degrees](http://9gag.com/gag/axy724n)
- - 👉 [Poor Choice of words](http://9gag.com/gag/a5QRP0N)<!-- MEMES:END -->
+ - 💣 [Do you know a couple like that?](http://9gag.com/gag/axy7jnK)
+ - ⏩ [My precious](http://9gag.com/gag/aAygVEo)
+ - 👉 [Why such stupidity](http://9gag.com/gag/aKGdPDQ)<!-- MEMES:END -->
 
 ---
 
