@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [UK Considers New Smartphone Bans for Children](https://www.wired.com/story/uk-considers-new-smartphone-bans-for-children/)
- - [You don’t need to install an iOS beta to try Apple Intelligence now](https://www.androidauthority.com/try-apple-intelligence-now-3492706/)
- - [YouTube Music’s Now Playing widget could be coming to more of your displays &lpar;APK teardown&rpar;](https://www.androidauthority.com/youtube-music-now-playing-widget-galaxy-z-flip-cover-display-apk-teardown-3492702/)<!-- TECH:END -->
+ - [Document: Chinese startup Horizon Robotics, which makes autonomous driving software and hardware, raised $696M in a Hong Kong IPO, before its October 24 listing &lpar;Bloomberg&rpar;](http://www.techmeme.com/241022/p4#a241022p4)
+ - [These are all the confirmed Snapdragon 8 Elite phones](https://www.androidauthority.com/best-snapdragon-8-elite-phones-3492728/)
+ - [Jack Sweeney says Meta suspended Instagram and Threads accounts tracking celebrities&#39; private jets, including Zuckerberg&#39;s; Meta cites a &quot;risk of physical harm&quot; &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/241022/p3#a241022p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
