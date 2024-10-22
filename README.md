@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Poor Choice of words](http://9gag.com/gag/a5QRP0N)
- - ⏩ [Title](http://9gag.com/gag/aqyg22Z)
- - 👉 [Showing a scammer his real face](http://9gag.com/gag/aPARG7K)<!-- MEMES:END -->
+ - 💣 [Nightmare fuel](http://9gag.com/gag/azx1E0Z)
+ - ⏩ [Any fans of this old horror movie `THE BREED` &lpar;2006&rpar;?](http://9gag.com/gag/a7owb2q)
+ - 👉 [Appalachian Banjo-man Shapiro](http://9gag.com/gag/a0eRLdZ)<!-- MEMES:END -->
 
 ---
 
