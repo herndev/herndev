@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Everything You Need To Know About Batman: Arkham Shadow](https://kotaku.com/batman-arkham-shadow-vr-meta-quest-3-release-1851678256)
- - [US Army asks if Microsoft could please make its Kill-O-Vision headsets a bit cheaper](https://www.pcgamer.com/hardware/vr-hardware/us-army-asks-if-microsoft-could-please-make-its-kill-o-vision-headsets-a-bit-cheaper)
- - [You can bone the Grim Reaper in The Sims 4 now](https://www.polygon.com/the-sims/468823/4-grim-reaper-woohoo-update-life-death)<!-- GAME:END -->
+ - [The Zootopia Russian Roulette game is kind of a bummer to play, but it&#39;s fun to watch](https://www.pcgamer.com/games/card-games/the-zootopia-russian-roulette-game-is-kind-of-a-bummer-to-play-but-its-fun-to-watch)
+ - [Sony carves off more of Bungie: The Creative Studios team is now officially a part of PlayStation Studios](https://www.pcgamer.com/gaming-industry/sony-carves-off-more-of-bungie-the-creative-studios-team-is-now-officially-a-part-of-playstation-studios)
+ - [Everything You Need To Know About Batman: Arkham Shadow](https://kotaku.com/batman-arkham-shadow-vr-meta-quest-3-release-1851678256)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
