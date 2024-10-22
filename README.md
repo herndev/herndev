@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [My precious](http://9gag.com/gag/aAygVEo)
- - ⏩ [Oh no...](http://9gag.com/gag/aND0o4A)
- - 👉 [$400/nt Airbnb refuses to turn heat above 58 degrees](http://9gag.com/gag/axy724n)<!-- MEMES:END -->
+ - 💣 [Why such stupidity](http://9gag.com/gag/aKGdPDQ)
+ - ⏩ [But mom It&#39;s a homemade wifi booster.](http://9gag.com/gag/aAyg1O2)
+ - 👉 [Why are people so dense?](http://9gag.com/gag/aLn0P4V)<!-- MEMES:END -->
 
 ---
 
