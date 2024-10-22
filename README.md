@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Can Litwick be shiny in Pokémon Go?](https://www.polygon.com/pokemon-go-guide/463725/can-litwick-be-shiny-lampent-chandelure)
- - [Can Duskull be shiny in Pokémon Go?](https://www.polygon.com/pokemon-go-guide/463769/can-duskull-be-shiny-dusclops-dusknoir)
- - [Can Gastly be shiny in Pokémon Go?](https://www.polygon.com/pokemon-go-guide/463779/can-gastly-be-shiny-haunter-gengar)<!-- GAME:END -->
+ - [Fake online reviews and false testimonials are now banned by America&#39;s FTC](https://www.pcgamer.com/hardware/fake-online-reviews-and-false-testimonials-are-now-banned-by-americas-ftc)
+ - [PowerA OPS v3 Pro review](https://www.pcgamer.com/hardware/controllers/powera-ops-v3-pro-review)
+ - [‘Spiritomb Challenge’ 2024 quest steps and how to get Spiritomb in Pokémon Go](https://www.polygon.com/pokemon-go-guide/468350/spiritomb-challenge-2024-quest-steps-how-to-get-shiny)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
