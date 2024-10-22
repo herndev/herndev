@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Five Tips for New Adventurers in Wildermyth: Console Edition, Out Now](https://news.xbox.com/en-us/2024/10/22/five-tips-for-new-adventurers-in-wildermyth-console-edition-out-now/)
- - [New Quiet Place Game Is Short, Scary, And A Perfect Halloween Treat](https://kotaku.com/quiet-place-new-game-road-ahead-review-is-it-good-scary-1851678522)
- - [Smash Bros. creator has been working on his next game for 2 years](https://www.polygon.com/news/468527/super-smash-bros-creator-new-game-masahiro-sakurai)<!-- GAME:END -->
+ - [Minecraft Bundles of Bravery Game Drop Adds Hardcore Survival and Inventory Bundles](https://www.minecraft.net/en-us/article/bundles-of-bravery#new_tab)
+ - [Where to buy the D&amp;#038;D 50th anniversary vinyl album](https://www.polygon.com/pre-order/468512/bardic-inspiration-album-where-to-buy-dnd-dungeons-dragons-vinyl)
+ - [Marvel&#39;s Blade Reboot Delayed Again As It Loses 2025 Release Window](https://kotaku.com/marvel-blade-reboot-delay-production-issues-2025-mcu-1851678580)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
