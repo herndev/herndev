@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The diddy treatment](http://9gag.com/gag/aqyg5vP)
- - ⏩ [You know what they say about good deeds](http://9gag.com/gag/a7ow7px)
- - 👉 [The memes are back boys!](http://9gag.com/gag/a5QRrrN)<!-- MEMES:END -->
+ - 💣 [Bro scammed the scammer](http://9gag.com/gag/a34RLEQ)
+ - ⏩ [Need to learn not to slap everyone willy nilly](http://9gag.com/gag/axy7GQY)
+ - 👉 [Instant NOPE](http://9gag.com/gag/aryoKep)<!-- MEMES:END -->
 
 ---
 
