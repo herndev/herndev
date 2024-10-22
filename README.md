@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Showing a scammer his real face](http://9gag.com/gag/aPARG7K)
- - ⏩ [Nice!](http://9gag.com/gag/an75Bv0)
- - 👉 [Poor Choice of words](http://9gag.com/gag/a5QRP0N)<!-- MEMES:END -->
+ - 💣 [Bro scammed the scammer](http://9gag.com/gag/a34RLEQ)
+ - ⏩ [Hello.. Let me order a 2x3 window frame.. Click.](http://9gag.com/gag/aBygwrP)
+ - 👉 [Showing a scammer his real face](http://9gag.com/gag/aPARG7K)<!-- MEMES:END -->
 
 ---
 
