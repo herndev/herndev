@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [TollBit, which recently launched a content monetization marketplace for publishers and AI companies, raised a $24M Series A led by Lightspeed Ventures &lpar;Sara Fischer/Axios&rpar;](http://www.techmeme.com/241022/p21#a241022p21)
- - [Exposed United Nations Database Left Sensitive Information Accessible Online](https://www.wired.com/story/un-women-database-exposure/)
- - [Air taxis and other electric-powered aircraft cleared for takeoff with final FAA rules](https://www.theverge.com/2024/10/22/24276873/faa-powered-lift-evtol-air-taxi-final-rule-sfar)<!-- TECH:END -->
+ - [The best Nintendo Switch controllers to buy right now](https://www.theverge.com/23350899/nintendo-switch-controllers-best-wireless-joy-con-gamepad)
+ - [Samsung Galaxy Watch Ultra plunges to a record-low price, saving you $145](https://www.androidauthority.com/samsung-galaxy-watch-ultra-deal-3492915/)
+ - [Fake user reviews are now banned in the US](https://www.androidauthority.com/ftc-bans-fake-reviews-3492933/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
