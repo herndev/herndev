@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [AT&amp;T finally has a network test drive program](https://www.theverge.com/2024/10/22/24276899/try-att-free-30-day-trial-iphone-esim-5g-mobile-hotspot)
- - [New firmware available for AirPods, AirPods Pro, and AirPods Max devices](https://appleinsider.com/articles/24/10/22/new-firmware-available-for-airpods-airpods-pro-and-airpods-max-devices?utm_medium=rss)
- - [Goldman Sachs faces $50M in fines over Apple Card failures](https://appleinsider.com/articles/24/10/22/goldman-sachs-faces-50m-in-fines-over-apple-card-failures?utm_medium=rss)<!-- TECH:END -->
+ - [iPhone users can try AT&amp;T via eSIM free for 30 days](https://appleinsider.com/articles/24/10/22/iphone-users-can-try-att-via-esim-free-for-30-days?utm_medium=rss)
+ - [Canva releases new generative AI features, including Dream Lab, an image generator powered by Leonardo.ai&#39;s Phoenix model; Canva acquired Leonardo.ai in July &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/241022/p25#a241022p25)
+ - [Sources: Apple is working on a new App Store-like app dedicated to games that will integrate with the user&#39;s Game Center profile &lpar;Filipe Esp&amp;oacute;sito/9to5Mac&rpar;](http://www.techmeme.com/241022/p24#a241022p24)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
