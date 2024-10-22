@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Bro scammed the scammer](http://9gag.com/gag/a34RLEQ)
- - ⏩ [Need to learn not to slap everyone willy nilly](http://9gag.com/gag/axy7GQY)
- - 👉 [Instant NOPE](http://9gag.com/gag/aryoKep)<!-- MEMES:END -->
+ - 💣 [My precious](http://9gag.com/gag/aAygVEo)
+ - ⏩ [Oh no...](http://9gag.com/gag/aND0o4A)
+ - 👉 [$400/nt Airbnb refuses to turn heat above 58 degrees](http://9gag.com/gag/axy724n)<!-- MEMES:END -->
 
 ---
 
