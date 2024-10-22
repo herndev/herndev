@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Nice!](http://9gag.com/gag/an75Bv0)
- - ⏩ [Title](http://9gag.com/gag/aqyg22Z)
- - 👉 [Damn, that meat might be older than some of the kids in that school](http://9gag.com/gag/a4PRdWd)<!-- MEMES:END -->
+ - 💣 [Showing a scammer his real face](http://9gag.com/gag/aPARG7K)
+ - ⏩ [Nice!](http://9gag.com/gag/an75Bv0)
+ - 👉 [Poor Choice of words](http://9gag.com/gag/a5QRP0N)<!-- MEMES:END -->
 
 ---
 
