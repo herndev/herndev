@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [PvPvE is &#39;a holy grail of game design,&#39; says Space Marine 2 director, and he&#39;s got no plans to chase it: &#39;A lot of studios are trying to find it and a lot of them fail&#39;](https://www.pcgamer.com/games/third-person-shooter/pvpve-is-a-holy-grail-of-game-design-says-space-marine-2-director-and-hes-got-no-plans-to-chase-it-a-lot-of-studios-are-trying-to-find-it-and-a-lot-of-them-fail)
  - [Everything James Gunn said about Superman, Supergirl, and Peacemaker at NYCC 2024](https://www.polygon.com/dc/468136/james-gunn-superman-nycc-2024-supergirl-peacemaker-lanterns)
- - [I played a popular new social fishing game on Steam and ended up blowing all my fish earnings on scratch-off lotto tickets](https://www.pcgamer.com/games/i-played-a-popular-new-social-fishing-game-on-steam-and-ended-up-blowing-all-my-fish-earnings-on-scratch-off-lotto-tickets)
- - [Grab a sweet discount on the award-winning Geekom A7 mini PC with this pre-Black Friday deal](https://www.pcgamer.com/hardware/gaming-pcs/grab-a-sweet-discount-on-the-award-winning-geekom-a7-mini-pc-with-this-pre-black-friday-deal)<!-- GAME:END -->
+ - [I played a popular new social fishing game on Steam and ended up blowing all my fish earnings on scratch-off lotto tickets](https://www.pcgamer.com/games/i-played-a-popular-new-social-fishing-game-on-steam-and-ended-up-blowing-all-my-fish-earnings-on-scratch-off-lotto-tickets)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
