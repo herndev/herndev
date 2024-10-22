@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Do you know a couple like that?](http://9gag.com/gag/axy7jnK)
- - ⏩ [Need to learn not to slap everyone willy nilly](http://9gag.com/gag/axy7GQY)
- - 👉 [That is confidence](http://9gag.com/gag/a5QR7EL)<!-- MEMES:END -->
+ - 💣 [The diddy treatment](http://9gag.com/gag/aqyg5vP)
+ - ⏩ [You know what they say about good deeds](http://9gag.com/gag/a7ow7px)
+ - 👉 [The memes are back boys!](http://9gag.com/gag/a5QRrrN)<!-- MEMES:END -->
 
 ---
 
