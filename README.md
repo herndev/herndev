@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Deal: This premium Logitech G915 TKL gaming keyboard is 48% off!](https://www.androidauthority.com/logitech-g915-tkl-gaming-keyboard-deal-3492916/)
- - [Microsoft and OpenAI are giving news outlets $10 million to use AI tools](https://www.theverge.com/2024/10/22/24276747/microsoft-openai-news-outlets-10-million-ai-tools)
- - [Samsung is still refusing to make an affordable Galaxy Z Fold](https://www.androidauthority.com/no-cheaper-samsung-foldable-3492889/)<!-- TECH:END -->
+ - [TollBit, which recently launched a content monetization marketplace for publishers and AI companies, raised a $24M Series A led by Lightspeed Ventures &lpar;Sara Fischer/Axios&rpar;](http://www.techmeme.com/241022/p21#a241022p21)
+ - [Exposed United Nations Database Left Sensitive Information Accessible Online](https://www.wired.com/story/un-women-database-exposure/)
+ - [Air taxis and other electric-powered aircraft cleared for takeoff with final FAA rules](https://www.theverge.com/2024/10/22/24276873/faa-powered-lift-evtol-air-taxi-final-rule-sfar)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
