@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [iPhone 16 Pro randomly rebooting? You’re not alone &lpar;Updated: Fixed&rpar;](https://www.androidauthority.com/iphone-16-pro-random-reboots-3492386/)
  - [Austin-based SchooLinks, whose SaaS offers college and career readiness resources for K-12 students, raised a $80M Series B led by Susquehanna Growth Equity &lpar;Zoya Hasan/Forbes&rpar;](http://www.techmeme.com/241021/p30#a241021p30)
- - [Another OEM is making its phones work better with Google Fast Pair](https://www.androidauthority.com/xiaomi-fast-pair-on-chre-3492633/)
- - [Mumbai-based Neysa, a provider of AI infrastructure to enterprise customers, raised a $30M Series A co-led by NTTVC, Z47, and Nexus Venture Partners &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/241021/p29#a241021p29)<!-- TECH:END -->
+ - [Another OEM is making its phones work better with Google Fast Pair](https://www.androidauthority.com/xiaomi-fast-pair-on-chre-3492633/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
