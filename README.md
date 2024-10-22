@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung Galaxy S25 series rumors and leaks: Everything we know so far](https://www.androidauthority.com/samsung-galaxy-s25-3437280/)
- - [How to Close the Gender Health Gap](https://www.wired.com/story/how-to-close-the-gender-health-gap/)
- - [Disney Plus and Hulu just got worse to avoid the Apple tax](https://www.androidauthority.com/disney-plus-hulu-retire-apple-billing-3492768/)<!-- TECH:END -->
+ - [iPhone 16 Pro restart bug is fixed in iOS 18.1](https://appleinsider.com/articles/24/10/22/iphone-16-pro-restart-bug-is-fixed-in-ios-181?utm_medium=rss)
+ - [Google Translate could soon offer a richer, seamless Instant Translate experience &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-translate-richer-seamless-instant-translate-apk-teardown-3492801/)
+ - [X data: Elon Musk-backed America PAC spent $166K between July 8 and October 1 to run 59 ads on X targeting swing voters in six states, yielding 32M+ impressions &lpar;Vittoria Elliott/Wired&rpar;](http://www.techmeme.com/241022/p7#a241022p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
