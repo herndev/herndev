@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [My son ist studying electrical engineering, this is the birthdaycake I made for him](http://9gag.com/gag/aW4EOY3)
- - ⏩ [It&#39;s over 9000](http://9gag.com/gag/aD2gom9)
- - 👉 [Man doing magic with his mouth.](http://9gag.com/gag/aAygp5E)<!-- MEMES:END -->
+ - 💣 [$400/nt Airbnb refuses to turn heat above 58 degrees](http://9gag.com/gag/axy724n)
+ - ⏩ [He&#39;s not wrong though](http://9gag.com/gag/a5QR72N)
+ - 👉 [Showing a scammer his real face](http://9gag.com/gag/aPARG7K)<!-- MEMES:END -->
 
 ---
 
