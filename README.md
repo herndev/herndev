@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Document: Chinese startup Horizon Robotics, which makes autonomous driving software and hardware, raised $696M in a Hong Kong IPO, before its October 24 listing &lpar;Bloomberg&rpar;](http://www.techmeme.com/241022/p4#a241022p4)
- - [These are all the confirmed Snapdragon 8 Elite phones](https://www.androidauthority.com/best-snapdragon-8-elite-phones-3492728/)
- - [Jack Sweeney says Meta suspended Instagram and Threads accounts tracking celebrities&#39; private jets, including Zuckerberg&#39;s; Meta cites a &quot;risk of physical harm&quot; &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/241022/p3#a241022p3)<!-- TECH:END -->
+ - [Samsung Galaxy S25 series rumors and leaks: Everything we know so far](https://www.androidauthority.com/samsung-galaxy-s25-3437280/)
+ - [How to Close the Gender Health Gap](https://www.wired.com/story/how-to-close-the-gender-health-gap/)
+ - [Disney Plus and Hulu just got worse to avoid the Apple tax](https://www.androidauthority.com/disney-plus-hulu-retire-apple-billing-3492768/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
