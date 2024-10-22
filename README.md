@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Appalachian Banjo-man Shapiro](http://9gag.com/gag/a0eRLdZ)
- - ⏩ [That is confidence](http://9gag.com/gag/a5QR7EL)
- - 👉 [Instant NOPE](http://9gag.com/gag/aryoKep)<!-- MEMES:END -->
+ - 💣 [That is confidence](http://9gag.com/gag/a5QR7EL)
+ - ⏩ [Showing a scammer his real face](http://9gag.com/gag/aPARG7K)
+ - 👉 [Bro scammed the scammer](http://9gag.com/gag/a34RLEQ)<!-- MEMES:END -->
 
 ---
 
