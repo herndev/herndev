@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Pal-dora&#39;s Box yawns open as Sega sues MementoMori developers over mechanic patents, seeking 1 billion yen in damages](https://www.pcgamer.com/gaming-industry/pal-doras-box-yawns-open-as-sega-sues-mementomori-developers-over-mechanic-patents-seeking-1-billion-yen-in-damages)
- - [Spooky survival game Angst knows just I want: Survival mechanics that get out the way of my quest to steal a sad orb from the guy in the basement](https://www.pcgamer.com/games/survival-crafting/spooky-survival-game-angst-knows-just-i-want-survival-mechanics-that-get-out-the-way-of-my-quest-to-steal-a-sad-orb-from-the-guy-in-the-basement)
- - [Carve pumpkins, solve spooky puzzles in Ghost Town Pumpkin Festival](https://www.polygon.com/impressions/468456/ghost-town-pumpkin-festival-2024-update-halloween)<!-- GAME:END -->
+ - [Criterion’s 24-hour sale slashes 50% off every Blu-ray](https://www.polygon.com/sales-guide/468394/criterion-collection-blu-ray-dvd-sale)
+ - [Elden Ring: Shadow of the Erdtree streamer manages to complete a 1HP, 1FP, and 1 stamina playthrough after 55 hours and 1,900 deaths](https://www.pcgamer.com/games/rpg/elden-ring-shadow-of-the-erdtree-streamer-manages-to-complete-a-1hp-1fp-and-1-stamina-playthrough-after-55-hours-and-1-900-deaths)
+ - [Corsair TC500 Luxe gaming chair review](https://www.pcgamer.com/hardware/gaming-chairs/corsair-tc500-luxe-gaming-chair-review)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
