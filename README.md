@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [UK Considers New Smartphone Bans for Children](https://www.wired.com/story/uk-considers-new-smartphone-bans-for-children/)
  - [You don’t need to install an iOS beta to try Apple Intelligence now](https://www.androidauthority.com/try-apple-intelligence-now-3492706/)
- - [Galaxy Z Flip’s cover display could become more useful with this YouTube Music widget &lpar;APK teardown&rpar;](https://www.androidauthority.com/youtube-music-now-playing-widget-galaxy-z-flip-cover-display-apk-teardown-3492702/)
- - [Paytm reports Q2 net profit of ~$111M, its first-ever profit, helped by the sale of its ticketing business in August; sales were down 34% YoY to ~$197.4M &lpar;Dimpal Gulwani/Reuters&rpar;](http://www.techmeme.com/241022/p2#a241022p2)<!-- TECH:END -->
+ - [YouTube Music’s Now Playing widget could be coming to more of your displays &lpar;APK teardown&rpar;](https://www.androidauthority.com/youtube-music-now-playing-widget-galaxy-z-flip-cover-display-apk-teardown-3492702/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
