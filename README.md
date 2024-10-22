@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Nightmare fuel](http://9gag.com/gag/azx1E0Z)
- - ⏩ [Any fans of this old horror movie `THE BREED` &lpar;2006&rpar;?](http://9gag.com/gag/a7owb2q)
- - 👉 [Appalachian Banjo-man Shapiro](http://9gag.com/gag/a0eRLdZ)<!-- MEMES:END -->
+ - 💣 [Motorcycle part](http://9gag.com/gag/aAygPnZ)
+ - ⏩ [Need to learn not to slap everyone willy nilly](http://9gag.com/gag/axy7GQY)
+ - 👉 [Dont worry she is my ex. The ex](http://9gag.com/gag/agm5N1r)<!-- MEMES:END -->
 
 ---
 
