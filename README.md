@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung Health app update makes it your digital nurse and nutritionist](https://www.androidauthority.com/samsung-health-app-update-health-records-medication-food-tracking-3492312/)
- - [How to use macOS&#39;s Finder Eject When Finished feature](https://appleinsider.com/inside/macos-sequoia/tips/how-to-use-macoss-finder-eject-when-finished-feature?utm_medium=rss)
- - [Today&#39;s NYT Connections Hints, Answers and Help for Oct. 22, #499](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-oct-22-499/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Today&#39;s NYT Mini Crossword Answers for Oct. 22](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-oct-22/#ftag=CAD590a51e)
+ - [Best Internet Providers in Savannah, Georgia](https://www.cnet.com/home/internet/best-internet-providers-in-savannah-ga/#ftag=CAD590a51e)
+ - [Samsung Health app update makes it your digital nurse and nutritionist](https://www.androidauthority.com/samsung-health-app-update-health-records-medication-food-tracking-3492312/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
