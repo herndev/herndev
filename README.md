@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [This gaudy Ghost Face cosmetic isn&#39;t exactly helping Hunt: Showdown 1896 players escape the feeling of corporate crossover creep](https://www.pcgamer.com/games/fps/this-gaudy-ghost-face-cosmetic-isnt-exactly-helping-hunt-showdown-1896-players-escape-the-feeling-of-corporate-crossover-creep)
- - [Super Affordable Xbox Headset Gets An Upgrade And A Price Bump](https://kotaku.com/xbox-series-x-s-wireless-headset-price-dolby-atmos-1851678395)
- - [Dress to Impress revokes the ability to colour its Halloween hot dog costume after, to nobody&#39;s surprise, players wield it to create penis outfits](https://www.pcgamer.com/games/sim/dress-to-impress-revokes-the-ability-to-colour-its-halloween-hot-dog-costume-after-players-to-nobodys-surprise-wield-it-to-create-penis-outfits)<!-- GAME:END -->
+ - [Five Tips for New Adventurers in Wildermyth: Console Edition, Out Now](https://news.xbox.com/en-us/2024/10/22/five-tips-for-new-adventurers-in-wildermyth-console-edition-out-now/)
+ - [New Quiet Place Game Is Short, Scary, And A Perfect Halloween Treat](https://kotaku.com/quiet-place-new-game-road-ahead-review-is-it-good-scary-1851678522)
+ - [Smash Bros. creator has been working on his next game for 2 years](https://www.polygon.com/news/468527/super-smash-bros-creator-new-game-masahiro-sakurai)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
