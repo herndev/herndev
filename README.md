@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Twitch Bans Arab Streamers Following &#39;Habibi&#39; Ratings Panel At TwitchCon](https://kotaku.com/twitch-ban-fr0gan-denims-capri-raffoul-adl-ethan-klein-1851677969)
  - [PvPvE is &#39;a holy grail of game design,&#39; says Space Marine 2 director, and he&#39;s got no plans to chase it: &#39;A lot of studios are trying to find it and a lot of them fail&#39;](https://www.pcgamer.com/games/third-person-shooter/pvpve-is-a-holy-grail-of-game-design-says-space-marine-2-director-and-hes-got-no-plans-to-chase-it-a-lot-of-studios-are-trying-to-find-it-and-a-lot-of-them-fail)
- - [Everything James Gunn said about Superman, Supergirl, and Peacemaker at NYCC 2024](https://www.polygon.com/dc/468136/james-gunn-superman-nycc-2024-supergirl-peacemaker-lanterns)
- - [I played a popular new social fishing game on Steam and ended up blowing all my fish earnings on scratch-off lotto tickets](https://www.pcgamer.com/games/i-played-a-popular-new-social-fishing-game-on-steam-and-ended-up-blowing-all-my-fish-earnings-on-scratch-off-lotto-tickets)<!-- GAME:END -->
+ - [Everything James Gunn said about Superman, Supergirl, and Peacemaker at NYCC 2024](https://www.polygon.com/dc/468136/james-gunn-superman-nycc-2024-supergirl-peacemaker-lanterns)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
