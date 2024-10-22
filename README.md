@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Disney no longer lets new and returning customers sign up for and buy subscriptions to Hulu or Disney+ through Apple&#39;s App Store, avoiding Apple&#39;s cut &lpar;Juli Clover/MacRumors&rpar;](http://www.techmeme.com/241021/p27#a241021p27)
- - [A civil rights org claims in a lawsuit that a VA town violated 4A protections by installing Flock cameras, making it &quot;impossible&quot; for citizens to move untracked &lpar;Jason Koebler/404 Media&rpar;](http://www.techmeme.com/241021/p26#a241021p26)
- - [Best E-Bikes and Scooters to Give in 2024](https://www.cnet.com/roadshow/news/best-e-bikes-and-scooters-to-give/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Mumbai-based Neysa, a provider of AI infrastructure to enterprise customers, raised a $30M Series A co-led by NTTVC, Z47, and Nexus Venture Partners &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/241021/p29#a241021p29)
+ - [Confirmed: ASUS ROG Phone 9 will launch in November with new Snapdragon 8 Elite chip](https://www.androidauthority.com/asus-rog-phone-9-launch-date-3492621/)
+ - [The US DOD plans an initiative to recruit CTOs and other senior tech professionals as uniformed, paid reservists to help in cybersecurity, data analytics, more &lpar;Heather Somerville/Wall Street Journal&rpar;](http://www.techmeme.com/241021/p28#a241021p28)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
