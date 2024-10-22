@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Criterion’s 24-hour sale slashes 50% off every Blu-ray](https://www.polygon.com/sales-guide/468394/criterion-collection-blu-ray-dvd-sale)
- - [Elden Ring: Shadow of the Erdtree streamer manages to complete a 1HP, 1FP, and 1 stamina playthrough after 55 hours and 1,900 deaths](https://www.pcgamer.com/games/rpg/elden-ring-shadow-of-the-erdtree-streamer-manages-to-complete-a-1hp-1fp-and-1-stamina-playthrough-after-55-hours-and-1-900-deaths)
- - [Corsair TC500 Luxe gaming chair review](https://www.pcgamer.com/hardware/gaming-chairs/corsair-tc500-luxe-gaming-chair-review)<!-- GAME:END -->
+ - [This gaudy Ghost Face cosmetic isn&#39;t exactly helping Hunt: Showdown 1896 players escape the feeling of corporate crossover creep](https://www.pcgamer.com/games/fps/this-gaudy-ghost-face-cosmetic-isnt-exactly-helping-hunt-showdown-1896-players-escape-the-feeling-of-corporate-crossover-creep)
+ - [Super Affordable Xbox Headset Gets An Upgrade And A Price Bump](https://kotaku.com/xbox-series-x-s-wireless-headset-price-dolby-atmos-1851678395)
+ - [Dress to Impress revokes the ability to colour its Halloween hot dog costume after, to nobody&#39;s surprise, players wield it to create penis outfits](https://www.pcgamer.com/games/sim/dress-to-impress-revokes-the-ability-to-colour-its-halloween-hot-dog-costume-after-players-to-nobodys-surprise-wield-it-to-create-penis-outfits)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
