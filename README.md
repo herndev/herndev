@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [This Pixel 9 Pro’s camera bar is popping off, literally](https://www.androidauthority.com/google-pixel-9-pro-camera-bar-separating-3492839/)
- - [The best smartwatches for Android](https://www.theverge.com/23449363/best-android-smartwatches-wear-os)
- - [&#39;Absolution&#39; Excerpt: Read the Beginning of Jeff VanderMeer&#39;s Newest Southern Reach Book](https://www.wired.com/story/jeff-vandermeer-new-novel-absolution-book-excerpt/)<!-- TECH:END -->
+ - [Deal: This premium Logitech G915 TKL gaming keyboard is 48% off!](https://www.androidauthority.com/logitech-g915-tkl-gaming-keyboard-deal-3492916/)
+ - [Microsoft and OpenAI are giving news outlets $10 million to use AI tools](https://www.theverge.com/2024/10/22/24276747/microsoft-openai-news-outlets-10-million-ai-tools)
+ - [Samsung is still refusing to make an affordable Galaxy Z Fold](https://www.androidauthority.com/no-cheaper-samsung-foldable-3492889/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
