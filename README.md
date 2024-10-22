@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone 16 Pro randomly rebooting? You’re not alone &lpar;Updated: Fixed&rpar;](https://www.androidauthority.com/iphone-16-pro-random-reboots-3492386/)
- - [Austin-based SchooLinks, whose SaaS offers college and career readiness resources for K-12 students, raised a $80M Series B led by Susquehanna Growth Equity &lpar;Zoya Hasan/Forbes&rpar;](http://www.techmeme.com/241021/p30#a241021p30)
- - [Another OEM is making its phones work better with Google Fast Pair](https://www.androidauthority.com/xiaomi-fast-pair-on-chre-3492633/)<!-- TECH:END -->
+ - [How to use macOS&#39;s Finder Eject When Finished feature](https://appleinsider.com/inside/macos-sequoia/tips/how-to-use-macoss-finder-eject-when-finished-feature?utm_medium=rss)
+ - [Today&#39;s NYT Connections Hints, Answers and Help for Oct. 22, #499](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-oct-22-499/#ftag=CAD590a51e)
+ - [Today&#39;s Wordle Hints, Answer and Help for Oct. 22, #1221](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-oct-22-1221/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
