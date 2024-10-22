@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Vendetta Forever: PS VR2 features detailed](https://blog.playstation.com/2024/10/22/vendetta-forever-ps-vr2-features-detailed/)
- - [The Biggest Things You Need to Know About Call of Duty: Black Ops 6](https://news.xbox.com/en-us/2024/10/22/biggest-things-need-to-know-call-of-duty-black-ops-6/)
- - [Helldivers 2 players have formed the &#39;Freedom Alliance&#39; to organise their own community orders](https://www.pcgamer.com/games/action/helldivers-2-players-have-formed-the-freedom-alliance-to-organise-their-own-community-orders)<!-- GAME:END -->
+ - [Asus China&#39;s general manager shows off the deep details of Intel&#39;s Arrow Lake chips in new reveal](https://www.pcgamer.com/hardware/processors/asus-chinas-general-manager-shows-off-the-deep-details-of-intels-arrow-lake-chips-in-new-reveal)
+ - [Netflix Shutters AAA Game Studio It Built With Former Blizzard, Bungie Devs](https://kotaku.com/netflix-team-blue-bungie-blizzard-sony-closed-1851678075)
+ - [How the 4th Southern Reach book, Absolution, burst out of author Jeff VanderMeer](https://www.polygon.com/books/467953/jeff-vandermeer-author-interview-absolution-southern-reach-prequel-sequel)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
