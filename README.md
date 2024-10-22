@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPad mini review roundup: Minor but needed evolution](https://appleinsider.com/articles/24/10/22/ipad-mini-review-roundup-minor-but-needed-evolution?utm_medium=rss)
- - [A UK court says prominent Saudi dissident Yahya Assiri can sue Saudi Arabia in London court over claims of targeting him with NSO Group&#39;s Pegasus &lpar;Sam Tobin/Reuters&rpar;](http://www.techmeme.com/241022/p12#a241022p12)
- - [AirPods are good for your &lpar;hearing&rpar; health](https://www.theverge.com/2024/10/22/24276646/apple-airpods-hearing-aid-smart-ring-vergecast)<!-- TECH:END -->
+ - [TSMC alerts U.S. to possible AI chip sanctions breach by Huawei](https://appleinsider.com/articles/24/10/22/tsmc-alerts-us-to-possible-ai-chip-sanctions-breach-by-huawei?utm_medium=rss)
+ - [Cruise lost $435 million this quarter, even with its robotaxis on hiatus](https://www.theverge.com/2024/10/22/24276670/cruise-gm-loss-q3-2024-driverless-robotaxi)
+ - [The Shitposting Cartoon Dogs Sending Trucks, Drones, and Weapons to Ukraine’s Front Lines](https://www.wired.com/story/nafo-ukraine-russia-war/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
