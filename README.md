@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Motorcycle part](http://9gag.com/gag/aAygPnZ)
- - ⏩ [Need to learn not to slap everyone willy nilly](http://9gag.com/gag/axy7GQY)
- - 👉 [Dont worry she is my ex. The ex](http://9gag.com/gag/agm5N1r)<!-- MEMES:END -->
+ - 💣 [Nice!](http://9gag.com/gag/an75Bv0)
+ - ⏩ [Title](http://9gag.com/gag/aqyg22Z)
+ - 👉 [Damn, that meat might be older than some of the kids in that school](http://9gag.com/gag/a4PRdWd)<!-- MEMES:END -->
 
 ---
 
