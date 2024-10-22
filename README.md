@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Twitch Bans Arab Streamers Following &#39;Habibi&#39; Ratings Panel At TwitchCon](https://kotaku.com/twitch-ban-fr0gan-denims-capri-raffoul-adl-ethan-klein-1851677969)
- - [PvPvE is &#39;a holy grail of game design,&#39; says Space Marine 2 director, and he&#39;s got no plans to chase it: &#39;A lot of studios are trying to find it and a lot of them fail&#39;](https://www.pcgamer.com/games/third-person-shooter/pvpve-is-a-holy-grail-of-game-design-says-space-marine-2-director-and-hes-got-no-plans-to-chase-it-a-lot-of-studios-are-trying-to-find-it-and-a-lot-of-them-fail)
- - [Everything James Gunn said about Superman, Supergirl, and Peacemaker at NYCC 2024](https://www.polygon.com/dc/468136/james-gunn-superman-nycc-2024-supergirl-peacemaker-lanterns)<!-- GAME:END -->
+ - [Today&#39;s Wordle answer for Tuesday, October 22](https://www.pcgamer.com/games/puzzle/wordle-answer-today-october-22-2024)
+ - [Twitch Bans Several Arab Streamers Following &#39;Habibi&#39; Ratings Panel At TwitchCon](https://kotaku.com/twitch-ban-fr0gan-denims-capri-raffoul-adl-ethan-klein-1851677969)
+ - [PvPvE is &#39;a holy grail of game design,&#39; says Space Marine 2 director, and he&#39;s got no plans to chase it: &#39;A lot of studios are trying to find it and a lot of them fail&#39;](https://www.pcgamer.com/games/third-person-shooter/pvpve-is-a-holy-grail-of-game-design-says-space-marine-2-director-and-hes-got-no-plans-to-chase-it-a-lot-of-studios-are-trying-to-find-it-and-a-lot-of-them-fail)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
