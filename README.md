@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [My son ist studying electrical engineering, this is the birthdaycake I made for him](http://9gag.com/gag/aW4EOY3)
- - ⏩ [The memes are back boys!](http://9gag.com/gag/a5QRrrN)
- - 👉 [Sausage on the floor](http://9gag.com/gag/ajP5nzq)<!-- MEMES:END -->
+ - 💣 [Need to learn not to slap everyone willy nilly](http://9gag.com/gag/axy7GQY)
+ - ⏩ [Literally excites](http://9gag.com/gag/azx1EnZ)
+ - 👉 [She&#39;s 40](http://9gag.com/gag/aGygwy6)<!-- MEMES:END -->
 
 ---
 
