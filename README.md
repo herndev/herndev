@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Need to learn not to slap everyone willy nilly](http://9gag.com/gag/axy7GQY)
- - ⏩ [Literally excites](http://9gag.com/gag/azx1EnZ)
- - 👉 [She&#39;s 40](http://9gag.com/gag/aGygwy6)<!-- MEMES:END -->
+ - 💣 [Do you know a couple like that?](http://9gag.com/gag/axy7jnK)
+ - ⏩ [Need to learn not to slap everyone willy nilly](http://9gag.com/gag/axy7GQY)
+ - 👉 [That is confidence](http://9gag.com/gag/a5QR7EL)<!-- MEMES:END -->
 
 ---
 
