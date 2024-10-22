@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Today&#39;s NYT Mini Crossword Answers for Oct. 22](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-oct-22/#ftag=CAD590a51e)
- - [Best Internet Providers in Savannah, Georgia](https://www.cnet.com/home/internet/best-internet-providers-in-savannah-ga/#ftag=CAD590a51e)
- - [Samsung Health app update makes it your digital nurse and nutritionist](https://www.androidauthority.com/samsung-health-app-update-health-records-medication-food-tracking-3492312/)<!-- TECH:END -->
+ - [Paytm reports Q2 net profit of ~$111M, its first-ever profit, helped by the sale of its ticketing business in August; sales were down 34% YoY to ~$197.4M &lpar;Dimpal Gulwani/Reuters&rpar;](http://www.techmeme.com/241022/p2#a241022p2)
+ - [T-Mobile warns FCC’s 60-day unlocking rule could cripple phone subsidies by up to 70%!](https://www.androidauthority.com/t-mobile-fcc-60-day-unlocking-rule-impact-3492698/)
+ - [Want 8 years of updates on your flagship phone? Qualcomm is making it possible.](https://www.androidauthority.com/qualcomm-snapdragon-8-elite-8-years-updates-3491808/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
