@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Fake online reviews and false testimonials are now banned by America&#39;s FTC](https://www.pcgamer.com/hardware/fake-online-reviews-and-false-testimonials-are-now-banned-by-americas-ftc)
- - [PowerA OPS v3 Pro review](https://www.pcgamer.com/hardware/controllers/powera-ops-v3-pro-review)
- - [‘Spiritomb Challenge’ 2024 quest steps and how to get Spiritomb in Pokémon Go](https://www.polygon.com/pokemon-go-guide/468350/spiritomb-challenge-2024-quest-steps-how-to-get-shiny)<!-- GAME:END -->
+ - [Amazon&#39;s Secret Level confirms its previously-leaked cast—which includes former governor of California and killer android Arnold Schwarzenegger](https://www.pcgamer.com/movies-tv/amazons-secret-level-confirms-its-previously-leaked-cast-which-includes-former-governor-of-california-and-killer-android-arnold-schwarzenegger)
+ - [Cult of the Lamb is releasing an EP where metal legends rework the game&#39;s chiptunes, and the first track is a total banger](https://www.pcgamer.com/games/sim/cult-of-the-lamb-is-releasing-an-ep-where-metal-legends-rework-the-games-chiptunes-and-the-first-track-is-a-total-banger)
+ - [Pokémon Go ‘Costume Party’ Timed Research quest steps, and is it worth buying?](https://www.polygon.com/pokemon-go-guide/468376/costume-party-quest-rewards-worth-buying)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
