@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta is testing the use of facial recognition to combat celebrity scam ads and to enable faster recovery of compromised accounts on Facebook and Instagram &lpar;Natasha Lomas/TechCrunch&rpar;](http://www.techmeme.com/241021/p25#a241021p25)
- - [Apple&#39;s October Mac event or release plans still aren&#39;t clear](https://appleinsider.com/articles/24/10/21/apple-could-announce-new-macs-with-m4-chip-at-october-event-alongside-redesigned-mac-mini?utm_medium=rss)
- - [Disney Plus and Hulu won’t let you sign up through Apple anymore](https://www.theverge.com/2024/10/21/24276226/disney-plus-hulu-sign-up-apple-app-store-anymore)<!-- TECH:END -->
+ - [Disney no longer lets new and returning customers sign up for and buy subscriptions to Hulu or Disney+ through Apple&#39;s App Store, avoiding Apple&#39;s cut &lpar;Juli Clover/MacRumors&rpar;](http://www.techmeme.com/241021/p27#a241021p27)
+ - [A civil rights org claims in a lawsuit that a VA town violated 4A protections by installing Flock cameras, making it &quot;impossible&quot; for citizens to move untracked &lpar;Jason Koebler/404 Media&rpar;](http://www.techmeme.com/241021/p26#a241021p26)
+ - [Best E-Bikes and Scooters to Give in 2024](https://www.cnet.com/roadshow/news/best-e-bikes-and-scooters-to-give/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
