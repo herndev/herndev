@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Do you know a couple like that?](http://9gag.com/gag/axy7jnK)
- - ⏩ [My precious](http://9gag.com/gag/aAygVEo)
- - 👉 [Why such stupidity](http://9gag.com/gag/aKGdPDQ)<!-- MEMES:END -->
+ - 💣 [Poor Choice of words](http://9gag.com/gag/a5QRP0N)
+ - ⏩ [Title](http://9gag.com/gag/aqyg22Z)
+ - 👉 [Showing a scammer his real face](http://9gag.com/gag/aPARG7K)<!-- MEMES:END -->
 
 ---
 
