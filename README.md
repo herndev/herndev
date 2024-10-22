@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Amazon&#39;s Secret Level confirms its previously-leaked cast—which includes former governor of California and killer android Arnold Schwarzenegger](https://www.pcgamer.com/movies-tv/amazons-secret-level-confirms-its-previously-leaked-cast-which-includes-former-governor-of-california-and-killer-android-arnold-schwarzenegger)
- - [Cult of the Lamb is releasing an EP where metal legends rework the game&#39;s chiptunes, and the first track is a total banger](https://www.pcgamer.com/games/sim/cult-of-the-lamb-is-releasing-an-ep-where-metal-legends-rework-the-games-chiptunes-and-the-first-track-is-a-total-banger)
- - [Pokémon Go ‘Costume Party’ Timed Research quest steps, and is it worth buying?](https://www.polygon.com/pokemon-go-guide/468376/costume-party-quest-rewards-worth-buying)<!-- GAME:END -->
+ - [Vendetta Forever: PS VR2 features detailed](https://blog.playstation.com/2024/10/22/vendetta-forever-ps-vr2-features-detailed/)
+ - [The Biggest Things You Need to Know About Call of Duty: Black Ops 6](https://news.xbox.com/en-us/2024/10/22/biggest-things-need-to-know-call-of-duty-black-ops-6/)
+ - [Helldivers 2 players have formed the &#39;Freedom Alliance&#39; to organise their own community orders](https://www.pcgamer.com/games/action/helldivers-2-players-have-formed-the-freedom-alliance-to-organise-their-own-community-orders)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
