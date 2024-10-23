@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [That boys vocabulary is about to grow](http://9gag.com/gag/a2vRd29)
- - ⏩ [Opening 100 year old wine](http://9gag.com/gag/agm5qdq)
- - 👉 [Enjoy the little things in life.](http://9gag.com/gag/aqygrYY)<!-- MEMES:END -->
+ - 💣 [Cool kid](http://9gag.com/gag/azx1qox)
+ - ⏩ [Yeah right..](http://9gag.com/gag/aryo5XX)
+ - 👉 [Emotional damage](http://9gag.com/gag/aZZ7g2X)<!-- MEMES:END -->
 
 ---
 
