@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Deadlock’s income mechanics and hero design are so game-changing I became a support main after a decade of hogging carry](https://www.pcgamer.com/games/moba/deadlock-support-fun-dynamo)
- - [News &amp; Highlights from the Fallout Day Broadcast](https://bethesda.net/en/article/106BFARWJOIlAkrwv406Qu/watch-the-fallout-day-broadcast#new_tab)
- - [Space Marine 2 Director Explains Why They&#39;re Rolling Back Its Most Controversial Changes](https://kotaku.com/space-marine-2-4-0-update-harder-nerfs-buff-bolt-guns-1851679664)<!-- GAME:END -->
+ - [Elon Musk Accused Of Stealing Blade Runner 2049 Imagery To Sell Teslas In New Lawsuit [Update: He Says The Movie &#39;Sucked&#39;]](https://kotaku.com/elon-musk-blade-runner-2049-lawsuit-tesla-cybercab-ai-1851677713)
+ - [How to increase grasp in Hades 2, plus all Arcana Cards list](https://www.polygon.com/hades-2-guides/24150082/arcana-cards-list-abilities-upgrades-perks)
+ - [The future of Fallout 76 includes pets, fishing, and an Enclave raid](https://www.polygon.com/gaming/469392/fallout-day-broadcast-news-ghouls-fishing-pets-ultracite-raid)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
