@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Pokémon TCG vending machines are showing up in big box stores](https://www.polygon.com/pokemon/469560/tcg-vending-machine-locations)
- - [The latest Cities: Skylines 2 patch addresses homelessness and pollution issues in an already-fraught election year](https://www.pcgamer.com/games/city-builder/the-latest-cities-skylines-2-patch-addresses-homelessness-and-pollution-issues-in-an-already-fraught-election-year)
- - [Sorry if this sounds shallow, but I do care about how long a game is before buying it](https://www.pcgamer.com/gaming-industry/sorry-if-this-sounds-shallow-but-i-do-care-about-how-long-a-game-is-before-buying-it)<!-- GAME:END -->
+ - [An anime catboy just taught Bernie Sanders what vtubers are during a Twitch stream](https://www.pcgamer.com/gaming-industry/an-anime-catboy-just-taught-bernie-sanders-what-vtubers-are-during-a-twitch-stream)
+ - [Venom: The Last Dance is in a toxic relationship with itself](https://www.polygon.com/review/469476/venom-3-the-last-dance-tom-hardy-knull)
+ - [The All-Digital PS5 Might Be The Least Popular Console Of All](https://kotaku.com/ps5-5-pro-disc-physical-xbox-series-x-s-sales-digital-1851679873)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
