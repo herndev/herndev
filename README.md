@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [So much hate](http://9gag.com/gag/aXPjvgz)
- - ⏩ [Red Carpet Service](http://9gag.com/gag/aQz1Mxw)
- - 👉 [Probably best to wear a seatbelt at all times?](http://9gag.com/gag/aMVY8M1)<!-- MEMES:END -->
+ - ⏩ [What do you put on your resume to get this job?!](http://9gag.com/gag/aryoOjV)
+ - 👉 [Red Carpet Service](http://9gag.com/gag/aQz1Mxw)<!-- MEMES:END -->
 
 ---
 
