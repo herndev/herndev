@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Think the Snapdragon 8 Elite is a beast? It could have been overclocked.](https://www.androidauthority.com/snapdragon-8-elite-faster-performance-3492694/)
- - [An interview with Craig Federighi on the launch of Apple Intelligence features like notification summaries in iOS 18.1, Siri, Apple&#39;s AI strategy, and more &lpar;Joanna Stern/Wall Street Journal&rpar;](http://www.techmeme.com/241023/p8#a241023p8)
- - [Sources: Shein&#39;s revenue growth slowed to 23% YoY to $18B in H1 2024 and its profit declined 70%+ YoY to just under $400M, as competition with Temu intensifies &lpar;The Information&rpar;](http://www.techmeme.com/241023/p7#a241023p7)<!-- TECH:END -->
+ - [Apple could embrace iPhone gaming with dedicated game store](https://www.androidauthority.com/apple-game-store-rumor-3493080/)
+ - [Best Tennis Balls of 2024](https://www.cnet.com/health/fitness/best-tennis-balls/#ftag=CAD590a51e)
+ - [Google Photos could say goodbye to Memories, hello to Timeline &lpar;Update&rpar;](https://www.androidauthority.com/google-photos-memories-timeline-apk-teardown-3489356/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
