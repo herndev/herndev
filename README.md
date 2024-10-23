@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to watch Messi&#39;s MLS playoff debut for free on Apple TV](https://appleinsider.com/inside/apple-tv-plus/tips/how-to-watch-messis-mls-playoff-debut-for-free-on-apple-tv?utm_medium=rss)
- - [Rather than pay for Google ads, this carrier wants to directly give fans up to $1500 for referrals](https://www.androidauthority.com/us-mobile-referral-program-3493225/)
- - [Suchir Balaji, who spent four years at OpenAI, says OpenAI&#39;s use of copyrighted data violated the law and ChatGPT damages the internet; he left in August 2024 &lpar;Cade Metz/New York Times&rpar;](http://www.techmeme.com/241023/p29#a241023p29)<!-- TECH:END -->
+ - [Qualcomm faces crisis that could strike at the very heart of Android phones &lpar;Update: Response&rpar;](https://www.androidauthority.com/qualcomm-arm-license-termination-3493039/)
+ - [Chinese industry tsar urges Tim Cook to continue investing](https://appleinsider.com/articles/24/10/23/chinese-industry-tsar-urges-tim-cook-to-continue-investing?utm_medium=rss)
+ - [The best Garmin watches for training and everyday life](https://www.theverge.com/23691498/best-garmin-smartwatch-fitness-tracker-wearables)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
