@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [I&#39;m #62935 on the waitlist for Daze, an expressive messenger app that&#39;s already got over 150,000 signups](https://www.pcgamer.com/hardware/Daze-chat-156000-signups)
- - [What time does Black Ops 6 release in your time zone?](https://www.polygon.com/black-ops-6-guides/468014/release-time-date-est-pst-bst-bo6)
- - [Metaphor: ReFantazio director Katsura Hashino is already working on a new game](https://www.pcgamer.com/games/rpg/metaphor-refantazio-director-katsura-hashino-is-already-working-on-a-new-game)<!-- GAME:END -->
+ - [Radio station uses AI to interview the ghost of a dead Nobel-winner with 3 quirky zoomers who don&#39;t exist, seems baffled people don&#39;t like it](https://www.pcgamer.com/software/ai/radio-station-uses-ai-to-interview-the-ghost-of-a-dead-nobel-winner-with-3-quirky-zoomers-who-dont-exist-seems-baffled-people-dont-like-it)
+ - [Gorgeous deck-building shop sim Potionomics just got a patch that fixes all my problems with it—plus voice acting, and an option to smooch everyone in a single playthrough](https://www.pcgamer.com/games/card-games/gorgeous-deck-building-shop-sim-potionomics-just-got-a-patch-that-fixes-all-my-problems-with-it-plus-voice-acting-and-an-option-to-smooch-everyone-in-a-single-playthrough)
+ - [The real shocker with Disney Dreamlight Valley&#39;s Halloween event is that it&#39;s the same as last year](https://www.pcgamer.com/games/life-sim/the-real-shocker-with-disney-dreamlight-valleys-halloween-event-is-that-its-the-same-as-last-year)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
