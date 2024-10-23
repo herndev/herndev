@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Elon Musk Accused Of Stealing Blade Runner 2049 Imagery To Sell Teslas In New Lawsuit [Update: He Says The Movie &#39;Sucked&#39;]](https://kotaku.com/elon-musk-blade-runner-2049-lawsuit-tesla-cybercab-ai-1851677713)
- - [How to increase grasp in Hades 2, plus all Arcana Cards list](https://www.polygon.com/hades-2-guides/24150082/arcana-cards-list-abilities-upgrades-perks)
- - [The future of Fallout 76 includes pets, fishing, and an Enclave raid](https://www.polygon.com/gaming/469392/fallout-day-broadcast-news-ghouls-fishing-pets-ultracite-raid)<!-- GAME:END -->
+ - [Pokémon TCG vending machines are showing up in big box stores](https://www.polygon.com/pokemon/469560/tcg-vending-machine-locations)
+ - [The latest Cities: Skylines 2 patch addresses homelessness and pollution issues in an already-fraught election year](https://www.pcgamer.com/games/city-builder/the-latest-cities-skylines-2-patch-addresses-homelessness-and-pollution-issues-in-an-already-fraught-election-year)
+ - [Sorry if this sounds shallow, but I do care about how long a game is before buying it](https://www.pcgamer.com/gaming-industry/sorry-if-this-sounds-shallow-but-i-do-care-about-how-long-a-game-is-before-buying-it)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
