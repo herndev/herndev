@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Opening 100 year old wine](http://9gag.com/gag/agm5qdq)
- - ⏩ [Nightmare fuel](http://9gag.com/gag/azx1E0Z)
+ - 💣 [Not great, not terrible, simulation of Chernobyl accident. Full video with the best explanation I ever saw, in the comments.](http://9gag.com/gag/aVv0PLM)
+ - ⏩ [What in the cotton picking hell](http://9gag.com/gag/a5QRZ8q)
  - 👉 [Hello.. Let me order a 2x3 window frame.. Click.](http://9gag.com/gag/aBygwrP)<!-- MEMES:END -->
 
 ---
