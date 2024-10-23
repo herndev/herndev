@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to run apps outside system security policies in macOS Sequoia](https://appleinsider.com/inside/macos-sequoia/tips/how-to-run-apps-outside-system-security-policies-in-macos-sequoia?utm_medium=rss)
- - [NYC-based Tennr, which uses AI-based document parsing and workflow automation to reduce waiting times for patients, raised a $37M Series B led by Lightspeed &lpar;Mike Wheatley/SiliconANGLE&rpar;](http://www.techmeme.com/241022/p33#a241022p33)
- - [OpenAI hires former White House official Aaron &quot;Ronnie&quot; Chatterji as its first chief economist to research how AI will impact economic growth and job creation &lpar;Cade Metz/New York Times&rpar;](http://www.techmeme.com/241022/p32#a241022p32)<!-- TECH:END -->
+ - [Qualcomm faces crisis that could strike at the very heart of Android phones](https://www.androidauthority.com/qualcomm-arm-license-termination-3493039/)
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Oct. 23, #30](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-oct-23-30/#ftag=CAD590a51e)
+ - [Today&#39;s Wordle Hints, Answer and Help for Oct. 23, #1222](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-oct-23-1222/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
