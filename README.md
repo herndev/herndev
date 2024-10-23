@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple could embrace iPhone gaming with dedicated game store](https://www.androidauthority.com/apple-game-store-rumor-3493080/)
- - [Best Tennis Balls of 2024](https://www.cnet.com/health/fitness/best-tennis-balls/#ftag=CAD590a51e)
- - [Google Photos could say goodbye to Memories, hello to Timeline &lpar;Update&rpar;](https://www.androidauthority.com/google-photos-memories-timeline-apk-teardown-3489356/)<!-- TECH:END -->
+ - [India&#39;s Supreme Court strikes down a tribunal order that let Byju&#39;s settle debts with India&#39;s cricket board, pushing the edtech startup firmly toward insolvency &lpar;Bloomberg&rpar;](http://www.techmeme.com/241023/p9#a241023p9)
+ - [Best Internet Providers in Irving, Texas](https://www.cnet.com/home/internet/best-internet-providers-in-irving-tx/#ftag=CAD590a51e)
+ - [Apple could embrace iPhone gaming with dedicated game store](https://www.androidauthority.com/apple-game-store-rumor-3493080/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
