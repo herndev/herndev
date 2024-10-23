@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s spring 2025 to be busy with M4 MacBook Air &amp; iPad updates](https://appleinsider.com/articles/24/10/23/apples-spring-2025-to-be-busy-with-m4-macbook-air-ipad-updates?utm_medium=rss)
- - [Windows 11 updates now install significantly faster and use less CPU](https://www.theverge.com/2024/10/23/24277844/microsoft-windows-11-24h2-windows-update-improvements)
- - [Hot deal: Save a whopping $800 on the Samsung Galaxy Z Fold 6](https://www.androidauthority.com/samsung-galaxy-z-fold-6-deal-2-3493313/)<!-- TECH:END -->
+ - [Update your Motorola Razr &lpar;2024&rpar; series because it’s getting Circle to Search](https://www.androidauthority.com/motorola-razr-series-circle-to-search-3493346/)
+ - [Microsoft: Russia, China, and Iran are stepping up cyber-influence efforts on the US election; China has focused on down-ballot candidates and Congress members &lpar;Lily Hay Newman/Wired&rpar;](http://www.techmeme.com/241023/p35#a241023p35)
+ - [Amazon app entices shoppers with a more personalized experience in latest redesign](https://www.androidauthority.com/amazon-shopping-app-redesign-3493309/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
