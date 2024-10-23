@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Hello.. Let me order a 2x3 window frame.. Click.](http://9gag.com/gag/aBygwrP)
- - ⏩ [Red Carpet Service](http://9gag.com/gag/aQz1Mxw)
- - 👉 [Hey Joey... What does this button do?](http://9gag.com/gag/ayNoLny)<!-- MEMES:END -->
+ - 💣 [`keep the change`](http://9gag.com/gag/ajP5N1q)
+ - ⏩ [That is confidence](http://9gag.com/gag/a5QR7EL)
+ - 👉 [Probably best to wear a seatbelt at all times?](http://9gag.com/gag/aMVY8M1)<!-- MEMES:END -->
 
 ---
 
