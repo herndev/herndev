@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Keep is preparing some powerful new tools to liven up your notes &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-keep-notetaking-tools-3492984/)
- - [Runway rolls out Act-One, a Gen-3 Alpha tool for animating AI-generated characters with realistic facial expressions using video and voice recordings as inputs &lpar;Runway&rpar;](http://www.techmeme.com/241022/p29#a241022p29)
- - [The best Fitbits for your fitness and health](https://www.theverge.com/22982833/best-fitbit-watch-fitness-tracker)<!-- TECH:END -->
+ - [Protein Explained: A Visual Guide for Vegans, Omnivores, and Meat-Eaters](https://www.cnet.com/health/nutrition/protein-explained-a-visual-guide-for-vegans-omnivores-and-meat-eaters/#ftag=CAD590a51e)
+ - [Best Internet Providers in New Haven, Connecticut](https://www.cnet.com/home/internet/best-internet-providers-in-new-haven-ct/#ftag=CAD590a51e)
+ - [30&quot; Hanging Animatronic Zombie](https://www.cnet.com/news/30-hanging-animatronic-zombie-dpnl/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
