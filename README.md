@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Ubisoft made a good Prince of Persia game, so of course it&#39;s disbanded the team shortly after release](https://www.pcgamer.com/games/action/ubisoft-made-a-good-prince-of-persia-game-so-of-course-its-disbanded-the-team-shortly-after-release)
- - [Play This Wonderfully Stylish Mystery Game As We Close Out The Halloween Season](https://kotaku.com/return-of-obra-dinn-mystery-whodunnit-sale-halloween-1851679424)
- - [The 6 Best Accessories To Improve Your Time In Zelda: Echoes Of Wisdom](https://kotaku.com/zelda-echoes-of-wisdom-best-accessories-guide-1851679293)<!-- GAME:END -->
+ - [Save the Date for Warcraft 30th Anniversary Direct on November 13](https://worldofwarcraft.blizzard.com/en-us/news/24149105/save-the-date-for-warcraft-30th-anniversary-direct-on-november-13#new_tab)
+ - [One Of The Best Vampire Games Ever Made Is Less Than $10 Right Now](https://kotaku.com/vampyr-halloween-sale-horror-steam-xbox-playstation-1851679589)
+ - [You can get every PC game in the Fallout series for under $50 through Oct. 29](https://www.polygon.com/sales-guide/469082/fallout-day-goty-new-vegas-deal-steam-epic)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
