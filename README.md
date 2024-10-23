@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Disgusting!](http://9gag.com/gag/amo5rEj)
- - ⏩ [The spell for immortality](http://9gag.com/gag/aZZ7Bp9)
- - 👉 [Aliens Humor. Laugh, for a change.](http://9gag.com/gag/aoy5O2n)<!-- MEMES:END -->
+ - 💣 [That boys vocabulary is about to grow](http://9gag.com/gag/a2vRd29)
+ - ⏩ [Opening 100 year old wine](http://9gag.com/gag/agm5qdq)
+ - 👉 [Enjoy the little things in life.](http://9gag.com/gag/aqygrYY)<!-- MEMES:END -->
 
 ---
 
