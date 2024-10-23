@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [I&#39;m #62935 on the waitlist for Daze, an expressive messenger app that&#39;s already got over 150,000 signups](https://www.pcgamer.com/hardware/Daze-chat-156000-signups)
  - [What time does Black Ops 6 release in your time zone?](https://www.polygon.com/black-ops-6-guides/468014/release-time-date-est-pst-bst-bo6)
- - [Metaphor: ReFantazio director Katsura Hashino is already working on a new game](https://www.pcgamer.com/games/rpg/metaphor-refantazio-director-katsura-hashino-is-already-working-on-a-new-game)
- - [Today&#39;s Wordle answer for Wednesday, October 23](https://www.pcgamer.com/games/puzzle/wordle-answer-today-october-23-2024)<!-- GAME:END -->
+ - [Metaphor: ReFantazio director Katsura Hashino is already working on a new game](https://www.pcgamer.com/games/rpg/metaphor-refantazio-director-katsura-hashino-is-already-working-on-a-new-game)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
