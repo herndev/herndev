@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [What time does Black Ops 6 release in your time zone?](https://www.polygon.com/black-ops-6-guides/468014/release-time-date-est-pst-bst-bo6)
  - [Metaphor: ReFantazio director Katsura Hashino is already working on a new game](https://www.pcgamer.com/games/rpg/metaphor-refantazio-director-katsura-hashino-is-already-working-on-a-new-game)
- - [Today&#39;s Wordle answer for Wednesday, October 23](https://www.pcgamer.com/games/puzzle/wordle-answer-today-october-23-2024)
- - [The Zootopia Russian Roulette game is kind of a bummer to play, but it&#39;s fun to watch](https://www.pcgamer.com/games/card-games/the-zootopia-russian-roulette-game-is-kind-of-a-bummer-to-play-but-its-fun-to-watch)<!-- GAME:END -->
+ - [Today&#39;s Wordle answer for Wednesday, October 23](https://www.pcgamer.com/games/puzzle/wordle-answer-today-october-23-2024)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
