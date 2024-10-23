@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Dodge Chargers with semi-solid-state batteries may hit the road in 2026](https://www.theverge.com/2024/10/23/24277832/dodge-charger-ev-semi-solid-state-mercedes-stellantis-demo-2026)
- - [IBM reports Q3 revenue up 1% YoY to $14.97B, vs. $15.07B est., and says bookings for AI consulting and software have exceeded $3B, up more than $1B QoQ &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/241023/p36#a241023p36)
- - [Qualcomm faces crisis that could strike at the very heart of Android phones &lpar;Update: Companies respond&rpar;](https://www.androidauthority.com/qualcomm-arm-license-termination-3493039/)<!-- TECH:END -->
+ - [Tesla has been testing a robotaxi service in the Bay Area for most of the year](https://www.theverge.com/2024/10/23/24278056/tesla-robotaxi-ride-hailing-test-employees)
+ - [This $50 case turns your phone into an e-reader minus the benefits of an e-reader](https://www.theverge.com/2024/10/23/24277920/astropad-bookcase-smartphone-e-reader-ios-android)
+ - [Hands on with Image Playground, ChatGPT, and Genmoji in iOS 18.2](https://appleinsider.com/articles/24/10/23/hands-on-with-image-playground-chatgpt-and-genmoji-in-ios-182?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
