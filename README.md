@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Here’s how Google Play Protect’s latest anti-scam measure works &lpar;APK teardown&rpar;](https://www.androidauthority.com/play-protect-disable-calls-3493200/)
- - [Amazon-owned Eero unveils the $350 Eero Outdoor 7, a dual-band 2.4 and 5Ghz Wi-Fi 7 access point that covers up to 15,000 square feet with speeds up to 2.1Gbps &lpar;Jennifer Pattison Tuohy/The Verge&rpar;](http://www.techmeme.com/241023/p25#a241023p25)
- - [TikTok brings its STEM feed to all users in the US, the UK, and Ireland by default to help find educational content, after launching the feed to under-18 users &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/241023/p24#a241023p24)<!-- TECH:END -->
+ - [How to watch Messi&#39;s MLS playoff debut for free on Apple TV](https://appleinsider.com/inside/apple-tv-plus/tips/how-to-watch-messis-mls-playoff-debut-for-free-on-apple-tv?utm_medium=rss)
+ - [Rather than pay for Google ads, this carrier wants to directly give fans up to $1500 for referrals](https://www.androidauthority.com/us-mobile-referral-program-3493225/)
+ - [Suchir Balaji, who spent four years at OpenAI, says OpenAI&#39;s use of copyrighted data violated the law and ChatGPT damages the internet; he left in August 2024 &lpar;Cade Metz/New York Times&rpar;](http://www.techmeme.com/241023/p29#a241023p29)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
