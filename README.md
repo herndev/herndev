@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Keep is preparing some powerful new tools to liven up your notes &lpar;Updated: More details&rpar;](https://www.androidauthority.com/google-keep-notetaking-tools-3492984/)
- - [Foursquare plans to sunset its City Guide app on December 15, 2024 to focus on check-in app Swarm, reversing a 2014 decision to split its services into two apps &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/241023/p5#a241023p5)
- - [There&#39;s One Big Reason Blue Apron Is the Best Meal Kit Service to Try in 2024](https://www.cnet.com/health/nutrition/blue-apron-review/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Think the Snapdragon 8 Elite is a beast? It could have been overclocked.](https://www.androidauthority.com/snapdragon-8-elite-faster-performance-3492694/)
+ - [An interview with Craig Federighi on the launch of Apple Intelligence features like notification summaries in iOS 18.1, Siri, Apple&#39;s AI strategy, and more &lpar;Joanna Stern/Wall Street Journal&rpar;](http://www.techmeme.com/241023/p8#a241023p8)
+ - [Sources: Shein&#39;s revenue growth slowed to 23% YoY to $18B in H1 2024 and its profit declined 70%+ YoY to just under $400M, as competition with Temu intensifies &lpar;The Information&rpar;](http://www.techmeme.com/241023/p7#a241023p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
