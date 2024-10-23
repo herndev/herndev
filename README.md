@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Metaphor: ReFantazio&#39;s Homo Jaluzo Is A Bad Baby, Let Us Help You Take Him Down](https://kotaku.com/metaphor-refantazio-homo-jaluzo-boss-fight-guide-1851679469)
- - [John Turturro Skipped DC&#39;s Penguin Series Due To All The &#39;Violence Towards Women&#39;](https://kotaku.com/john-turturro-violence-women-penguin-recast-hbo-batman-1851679586)
- - [Space Marine 2 will walk back unpopular difficulty changes, public test servers are coming to help avoid hassles like this in the future](https://www.pcgamer.com/games/third-person-shooter/space-marine-2-will-walk-back-unpopular-difficulty-changes-public-test-servers-are-coming-to-help-avoid-hassles-like-this-in-the-future)<!-- GAME:END -->
+ - [Deadlock’s income mechanics and hero design are so game-changing I became a support main after a decade of hogging carry](https://www.pcgamer.com/games/moba/deadlock-support-fun-dynamo)
+ - [News &amp; Highlights from the Fallout Day Broadcast](https://bethesda.net/en/article/106BFARWJOIlAkrwv406Qu/watch-the-fallout-day-broadcast#new_tab)
+ - [Space Marine 2 Director Explains Why They&#39;re Rolling Back Its Most Controversial Changes](https://kotaku.com/space-marine-2-4-0-update-harder-nerfs-buff-bolt-guns-1851679664)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
