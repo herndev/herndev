@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [`keep the change`](http://9gag.com/gag/ajP5N1q)
- - ⏩ [That is confidence](http://9gag.com/gag/a5QR7EL)
- - 👉 [Probably best to wear a seatbelt at all times?](http://9gag.com/gag/aMVY8M1)<!-- MEMES:END -->
+ - 💣 [Disgusting!](http://9gag.com/gag/amo5rEj)
+ - ⏩ [The spell for immortality](http://9gag.com/gag/aZZ7Bp9)
+ - 👉 [Aliens Humor. Laugh, for a change.](http://9gag.com/gag/aoy5O2n)<!-- MEMES:END -->
 
 ---
 
