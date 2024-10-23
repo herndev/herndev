@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Document: Arm is canceling a license that let Qualcomm use Arm&#39;s intellectual property to design chips, escalating the legal dispute between the companies &lpar;Ian King/Bloomberg&rpar;](http://www.techmeme.com/241022/p30#a241022p30)
- - [Best Shave Club for 2024: Dollar Shave Club, Harry&#39;s and More](https://www.cnet.com/health/personal-care/best-shave-club/#ftag=CAD590a51e)
- - [My Student Loan Mistakes and an Awful Scam Cost Me Thousands. How I Dug Myself Out](https://www.cnet.com/personal-finance/loans/my-student-loan-mistakes-and-one-awful-scam-cost-me-thousands-how-i-dug-myself-out/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The Boox Palma 2 has a faster processor and adds a fingerprint reader](https://www.theverge.com/2024/10/22/24275741/boox-palma-2-e-ink-reader)
+ - [Socket, which provides tools to help detect open source code vulnerabilities, raised a $40M Series B led by Abstract Ventures, taking its total funding to $65M &lpar;David Prosser/Forbes&rpar;](http://www.techmeme.com/241022/p31#a241022p31)
+ - [Craig Federighi says Siri won&#39;t become sentient, but it&#39;ll get better](https://appleinsider.com/articles/24/10/23/craig-federighi-says-siri-wont-become-sentient-but-itll-get-better?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
