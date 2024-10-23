@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Opening 100 year old wine](http://9gag.com/gag/agm5qdq)
- - ⏩ [Some fan redid a wicked poster to match the broadway show slightly covering the actresses eyes. She found it offensive. This was the internet response.](http://9gag.com/gag/a7owDew)
- - 👉 [I bet it is wet and slippery](http://9gag.com/gag/aGyge2n)<!-- MEMES:END -->
+ - 💣 [Yeah right..](http://9gag.com/gag/aryo5XX)
+ - ⏩ [Opening 100 year old wine](http://9gag.com/gag/agm5qdq)
+ - 👉 [What do you put on your resume to get this job?!](http://9gag.com/gag/aryoOjV)<!-- MEMES:END -->
 
 ---
 
