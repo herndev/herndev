@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [You are free Men, indeed](http://9gag.com/gag/a34Rjd8)
- - ⏩ [I&#39;m the captain now](http://9gag.com/gag/a5QRZ7o)
- - 👉 [Need to learn not to slap everyone willy nilly](http://9gag.com/gag/axy7GQY)<!-- MEMES:END -->
+ - 💣 [Hello.. Let me order a 2x3 window frame.. Click.](http://9gag.com/gag/aBygwrP)
+ - ⏩ [Red Carpet Service](http://9gag.com/gag/aQz1Mxw)
+ - 👉 [Hey Joey... What does this button do?](http://9gag.com/gag/ayNoLny)<!-- MEMES:END -->
 
 ---
 
