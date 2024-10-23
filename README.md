@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Nice!](http://9gag.com/gag/an75Bv0)
- - ⏩ [What in the cotton picking hell](http://9gag.com/gag/a5QRZ8q)
- - 👉 [Not great, not terrible, simulation of Chernobyl accident. Full video with the best explanation I ever saw, in the comments.](http://9gag.com/gag/aVv0PLM)<!-- MEMES:END -->
+ - 💣 [Lars Andersen, a master archer, is a Danish archer who would be the Messi of archery. He breaks a Guinness record by putting 7 arrows in a row through a keyhole Bear in mind that the keyhole measures something like 10 mm and Lars Andersen is some distance away.](http://9gag.com/gag/a875pwZ)
+ - ⏩ [I&#39;m OP and I have dcks to suck and seemen to drink.](http://9gag.com/gag/a2vR5DZ)
+ - 👉 [Long short story the dagther didn&#39;t want to go to the paid lessons and the father took the lessons. Cool guy.](http://9gag.com/gag/aAygwvd)<!-- MEMES:END -->
 
 ---
 
