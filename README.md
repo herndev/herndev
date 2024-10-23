@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Save the Date for Warcraft 30th Anniversary Direct on November 13](https://worldofwarcraft.blizzard.com/en-us/news/24149105/save-the-date-for-warcraft-30th-anniversary-direct-on-november-13#new_tab)
- - [One Of The Best Vampire Games Ever Made Is Less Than $10 Right Now](https://kotaku.com/vampyr-halloween-sale-horror-steam-xbox-playstation-1851679589)
- - [You can get every PC game in the Fallout series for under $50 through Oct. 29](https://www.polygon.com/sales-guide/469082/fallout-day-goty-new-vegas-deal-steam-epic)<!-- GAME:END -->
+ - [Metaphor: ReFantazio&#39;s Homo Jaluzo Is A Bad Baby, Let Us Help You Take Him Down](https://kotaku.com/metaphor-refantazio-homo-jaluzo-boss-fight-guide-1851679469)
+ - [John Turturro Skipped DC&#39;s Penguin Series Due To All The &#39;Violence Towards Women&#39;](https://kotaku.com/john-turturro-violence-women-penguin-recast-hbo-batman-1851679586)
+ - [Space Marine 2 will walk back unpopular difficulty changes, public test servers are coming to help avoid hassles like this in the future](https://www.pcgamer.com/games/third-person-shooter/space-marine-2-will-walk-back-unpopular-difficulty-changes-public-test-servers-are-coming-to-help-avoid-hassles-like-this-in-the-future)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
