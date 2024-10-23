@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [An investigation exposes data brokers using ads to help track almost any phone](https://www.theverge.com/2024/10/23/24277679/atlas-privacy-babel-street-data-brokers-locate-x-tracking)
- - [How to master the camera on iPhone 16 Pro &amp; iPhone 16 Pro Max](https://appleinsider.com/articles/24/10/23/how-to-master-the-camera-on-iphone-16-pro-iphone-16-pro-max?utm_medium=rss)
- - [Sources: Apple nears production of MacBook Airs with M4 for release in early 2025, slightly delays M4 Mac Studio, and plans new entry-level iPads for the spring &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/241023/p33#a241023p33)<!-- TECH:END -->
+ - [Apple&#39;s spring 2025 to be busy with M4 MacBook Air &amp; iPad updates](https://appleinsider.com/articles/24/10/23/apples-spring-2025-to-be-busy-with-m4-macbook-air-ipad-updates?utm_medium=rss)
+ - [Windows 11 updates now install significantly faster and use less CPU](https://www.theverge.com/2024/10/23/24277844/microsoft-windows-11-24h2-windows-update-improvements)
+ - [Hot deal: Save a whopping $800 on the Samsung Galaxy Z Fold 6](https://www.androidauthority.com/samsung-galaxy-z-fold-6-deal-2-3493313/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
