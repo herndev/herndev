@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Paytm receives regulatory approval to resume adding UPI payments users, following an eight-month Reserve Bank of India&#39;s restrictions on many of its operations &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/241023/p3#a241023p3)
- - [Google Photos’ upcoming image sharing feature gets a new UI ahead of launch &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-photos-enhance-before-sharing-new-ui-3493044/)
- - [Huawei launches HarmonyOS 5.0 and says 1B+ devices run on HarmonyOS including smartphones, PCs, and cars, and the OS has 15K+ apps, up 10x from earlier in 2024 &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/241023/p2#a241023p2)<!-- TECH:END -->
+ - [Google Keep is preparing some powerful new tools to liven up your notes &lpar;Updated: More details&rpar;](https://www.androidauthority.com/google-keep-notetaking-tools-3492984/)
+ - [Foursquare plans to sunset its City Guide app on December 15, 2024 to focus on check-in app Swarm, reversing a 2014 decision to split its services into two apps &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/241023/p5#a241023p5)
+ - [There&#39;s One Big Reason Blue Apron Is the Best Meal Kit Service to Try in 2024](https://www.cnet.com/health/nutrition/blue-apron-review/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
