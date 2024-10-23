@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Horizon Zero Dawn PS5 Remaster Looks Surprisingly Gorgeous And Will Have Way More NPCs](https://kotaku.com/horizon-zero-dawn-ps5-remaster-graphics-screenshot-1851676141)
- - [No More Room in Hell 2 might be too early for early access, with Steam reviews flagging endless technical issues and major server problems](https://www.pcgamer.com/games/survival-crafting/no-more-room-in-hell-2-might-be-too-early-for-early-access-with-steam-reviews-flagging-endless-technical-issues-and-major-server-problems)
- - [The Last Of Us, Stellar Blade, And More Reveal Their PS5 Pro Modes](https://kotaku.com/ps5-pro-enhance-mode-last-us-alan-wake-lies-p-4k-60fps-1851678765)<!-- GAME:END -->
+ - [Ubisoft made a good Prince of Persia game, so of course it&#39;s disbanded the team shortly after release](https://www.pcgamer.com/games/action/ubisoft-made-a-good-prince-of-persia-game-so-of-course-its-disbanded-the-team-shortly-after-release)
+ - [Play This Wonderfully Stylish Mystery Game As We Close Out The Halloween Season](https://kotaku.com/return-of-obra-dinn-mystery-whodunnit-sale-halloween-1851679424)
+ - [The 6 Best Accessories To Improve Your Time In Zelda: Echoes Of Wisdom](https://kotaku.com/zelda-echoes-of-wisdom-best-accessories-guide-1851679293)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
