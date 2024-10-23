@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I bet it is wet and slippery](http://9gag.com/gag/aGyge2n)
- - ⏩ [Some fan redid a wicked poster to match the broadway show slightly covering the actresses eyes. She found it offensive. This was the internet response.](http://9gag.com/gag/a7owDew)
- - 👉 [Hellenic Air Force pilot withstands 9+ g\u2019s without suit](http://9gag.com/gag/apR5Lvn)<!-- MEMES:END -->
+ - 💣 [Someone stop him](http://9gag.com/gag/aqyg1Z7)
+ - ⏩ [Emotional damage](http://9gag.com/gag/aZZ7g2X)
+ - 👉 [Red Carpet Service](http://9gag.com/gag/aQz1Mxw)<!-- MEMES:END -->
 
 ---
 
