@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Protein Explained: A Visual Guide for Vegans, Omnivores, and Meat-Eaters](https://www.cnet.com/health/nutrition/protein-explained-a-visual-guide-for-vegans-omnivores-and-meat-eaters/#ftag=CAD590a51e)
- - [Best Internet Providers in New Haven, Connecticut](https://www.cnet.com/home/internet/best-internet-providers-in-new-haven-ct/#ftag=CAD590a51e)
- - [30&quot; Hanging Animatronic Zombie](https://www.cnet.com/news/30-hanging-animatronic-zombie-dpnl/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Document: Arm is canceling a license that let Qualcomm use Arm&#39;s intellectual property to design chips, escalating the legal dispute between the companies &lpar;Ian King/Bloomberg&rpar;](http://www.techmeme.com/241022/p30#a241022p30)
+ - [Best Shave Club for 2024: Dollar Shave Club, Harry&#39;s and More](https://www.cnet.com/health/personal-care/best-shave-club/#ftag=CAD590a51e)
+ - [My Student Loan Mistakes and an Awful Scam Cost Me Thousands. How I Dug Myself Out](https://www.cnet.com/personal-finance/loans/my-student-loan-mistakes-and-one-awful-scam-cost-me-thousands-how-i-dug-myself-out/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
