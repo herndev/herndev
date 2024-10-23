@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Day Before developer cancels second Kickstarter after it whimpers out with $2,200 of funding, immediately goes all-in on a third game in the same announcement](https://www.pcgamer.com/games/the-day-before-developer-cancels-kickstarter-after-it-whimpers-out-with-usd2-200-of-funding-immediately-goes-all-in-on-a-third-game-in-the-same-announcement)
- - [The Developers Behind 2023&#39;s Most Notorious Game Just Can&#39;t Stop Themselves](https://kotaku.com/fntastic-the-day-before-items-kickstarter-1851679050)
- - [The Latest Pokémon Skateboards Are Gorgeous And Selling Out Fast](https://kotaku.com/pokemon-bear-walker-skateboard-dragonite-garchomp-1851679155)<!-- GAME:END -->
+ - [The Horizon Zero Dawn PS5 Remaster Looks Surprisingly Gorgeous And Will Have Way More NPCs](https://kotaku.com/horizon-zero-dawn-ps5-remaster-graphics-screenshot-1851676141)
+ - [No More Room in Hell 2 might be too early for early access, with Steam reviews flagging endless technical issues and major server problems](https://www.pcgamer.com/games/survival-crafting/no-more-room-in-hell-2-might-be-too-early-for-early-access-with-steam-reviews-flagging-endless-technical-issues-and-major-server-problems)
+ - [The Last Of Us, Stellar Blade, And More Reveal Their PS5 Pro Modes](https://kotaku.com/ps5-pro-enhance-mode-last-us-alan-wake-lies-p-4k-60fps-1851678765)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
