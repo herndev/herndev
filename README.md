@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Update your Motorola Razr &lpar;2024&rpar; series because it’s getting Circle to Search](https://www.androidauthority.com/motorola-razr-series-circle-to-search-3493346/)
- - [Microsoft: Russia, China, and Iran are stepping up cyber-influence efforts on the US election; China has focused on down-ballot candidates and Congress members &lpar;Lily Hay Newman/Wired&rpar;](http://www.techmeme.com/241023/p35#a241023p35)
- - [Amazon app entices shoppers with a more personalized experience in latest redesign](https://www.androidauthority.com/amazon-shopping-app-redesign-3493309/)<!-- TECH:END -->
+ - [Dodge Chargers with semi-solid-state batteries may hit the road in 2026](https://www.theverge.com/2024/10/23/24277832/dodge-charger-ev-semi-solid-state-mercedes-stellantis-demo-2026)
+ - [IBM reports Q3 revenue up 1% YoY to $14.97B, vs. $15.07B est., and says bookings for AI consulting and software have exceeded $3B, up more than $1B QoQ &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/241023/p36#a241023p36)
+ - [Qualcomm faces crisis that could strike at the very heart of Android phones &lpar;Update: Companies respond&rpar;](https://www.androidauthority.com/qualcomm-arm-license-termination-3493039/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
