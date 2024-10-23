@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tesla has been testing a robotaxi service in the Bay Area for most of the year](https://www.theverge.com/2024/10/23/24278056/tesla-robotaxi-ride-hailing-test-employees)
- - [This $50 case turns your phone into an e-reader minus the benefits of an e-reader](https://www.theverge.com/2024/10/23/24277920/astropad-bookcase-smartphone-e-reader-ios-android)
- - [Hands on with Image Playground, ChatGPT, and Genmoji in iOS 18.2](https://appleinsider.com/articles/24/10/23/hands-on-with-image-playground-chatgpt-and-genmoji-in-ios-182?utm_medium=rss)<!-- TECH:END -->
+ - [Apple Vision Pro guest mode may soon be controlled via iPhone](https://appleinsider.com/articles/24/10/23/apple-vision-pro-guest-mode-may-soon-be-controlled-via-iphone?utm_medium=rss)
+ - [Roblox plans child-safety reforms, including a new type of account to let parents monitor their child&#39;s online activity and friends, starting in November &lpar;Bloomberg&rpar;](http://www.techmeme.com/241023/p39#a241023p39)
+ - [tvOS 18.1 receives second release candidate version two days after the first](https://appleinsider.com/articles/24/10/23/tvos-181-receives-second-release-candidate-version-two-days-after-the-first?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
