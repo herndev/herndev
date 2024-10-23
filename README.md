@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [What time does Black Ops 6 release in your time zone?](https://www.polygon.com/black-ops-6-guides/468014/release-time-date-est-pst-bst-bo6)
- - [Telltale heaves a long, dog-tired sigh at &#39;unsubstantiated Reddit threads&#39;, reassures fans that The Wolf Among Us 2 is still being made, honest](https://www.pcgamer.com/games/adventure/telltale-heaves-a-long-dog-tired-sigh-at-unsubstantiated-reddit-threads-reassures-fans-that-the-wolf-among-us-2-is-still-being-made-honest)
- - [The Halloween Countdown: 31 days of horror to watch](https://www.polygon.com/what-to-watch/452010/best-halloween-horror-movies-tv-watch-stream)<!-- GAME:END -->
+ - [The Day Before developer cancels second Kickstarter after it whimpers out with $2,200 of funding, immediately goes all-in on a third game in the same announcement](https://www.pcgamer.com/games/the-day-before-developer-cancels-kickstarter-after-it-whimpers-out-with-usd2-200-of-funding-immediately-goes-all-in-on-a-third-game-in-the-same-announcement)
+ - [The Developers Behind 2023&#39;s Most Notorious Game Just Can&#39;t Stop Themselves](https://kotaku.com/fntastic-the-day-before-items-kickstarter-1851679050)
+ - [The Latest Pokémon Skateboards Are Gorgeous And Selling Out Fast](https://kotaku.com/pokemon-bear-walker-skateboard-dragonite-garchomp-1851679155)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
