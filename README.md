@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [High School Teacher Ban List](http://9gag.com/gag/aZZ7pr6)
- - ⏩ [Bro scammed the scammer](http://9gag.com/gag/a34RLEQ)
- - 👉 [Hey Joey... What does this button do?](http://9gag.com/gag/ayNoLny)<!-- MEMES:END -->
+ - 💣 [Cursed gumball](http://9gag.com/gag/aD2gW1N)
+ - ⏩ [Need to learn not to slap everyone willy nilly](http://9gag.com/gag/axy7GQY)
+ - 👉 [Enjoy the little things in life.](http://9gag.com/gag/aqygrYY)<!-- MEMES:END -->
 
 ---
 
