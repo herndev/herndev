@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple severely cuts Vision Pro production, and may stop it completely very soon](https://appleinsider.com/articles/24/10/23/apple-severely-cuts-vision-pro-production-and-may-stop-it-completely-very-soon?utm_medium=rss)
- - [A mother plans to sue Character.AI after her 14-year-old son became obsessed with a chatbot before his suicide; Character.AI says it plans new safety features &lpar;Kevin Roose/New York Times&rpar;](http://www.techmeme.com/241023/p20#a241023p20)
- - [Marantz’s first speakers look like works of art](https://www.theverge.com/2024/10/23/24277535/marantz-wireless-speaker-grand-horizon-streaming)<!-- TECH:END -->
+ - [Here’s how Google Play Protect’s latest anti-scam measure works &lpar;APK teardown&rpar;](https://www.androidauthority.com/play-protect-disable-calls-3493200/)
+ - [Amazon-owned Eero unveils the $350 Eero Outdoor 7, a dual-band 2.4 and 5Ghz Wi-Fi 7 access point that covers up to 15,000 square feet with speeds up to 2.1Gbps &lpar;Jennifer Pattison Tuohy/The Verge&rpar;](http://www.techmeme.com/241023/p25#a241023p25)
+ - [TikTok brings its STEM feed to all users in the US, the UK, and Ireland by default to help find educational content, after launching the feed to under-18 users &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/241023/p24#a241023p24)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
