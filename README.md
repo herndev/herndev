@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nigeria drops charges against Binance executive Tigran Gambaryan, detained since February 2024; sources say the case was discontinued due to his ill health &lpar;Nduka Orjinmo/Bloomberg&rpar;](http://www.techmeme.com/241023/p13#a241023p13)
- - [Apple is ‘concerned’ about AI turning real photos into ‘fantasy’](https://www.theverge.com/2024/10/23/24277489/apple-intelligence-iphone-ai-photo-editing-craig-federighi-interview)
- - [Amazon begins testing a new shopping app homepage on Android and iOS with millions of US users, adding bigger graphics and an emphasis on horizontal scrolling &lpar;Quentyn Kennemer/The Verge&rpar;](http://www.techmeme.com/241023/p12#a241023p12)<!-- TECH:END -->
+ - [Apple launched the iPod 23 years ago, and changed the world](https://appleinsider.com/articles/22/10/23/apple-launched-the-ipod-21-years-ago-and-changed-the-world?utm_medium=rss)
+ - [Samsung is considering a triple-screen foldable phone for next year](https://www.androidauthority.com/samsung-triple-screen-foldable-2025-3493135/)
+ - [Using Artificial Intelligence Is Easier Than You Think](https://www.wired.com/story/artificial-intelligence-tools-ai-unlocked-newsletter-season-two/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
