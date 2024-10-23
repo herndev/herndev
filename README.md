@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Severance looks like a terrifying return to office in new season 2 trailer](https://www.theverge.com/2024/10/23/24277021/severance-season-2-trailer-apple-tv-plus)
- - [Dropped iPhone leads to Australian woman being stuck upside down between boulders for hours](https://appleinsider.com/articles/24/10/23/dropped-iphone-leads-to-australian-woman-being-stuck-upside-down-between-boulders-for-hours?utm_medium=rss)
- - [Cisco brings Spatial Meetings to Apple Vision Pro with native Webex app](https://appleinsider.com/articles/24/10/23/cisco-brings-spatial-meetings-to-apple-vision-pro-with-native-webex-app?utm_medium=rss)<!-- TECH:END -->
+ - [Apple severely cuts Vision Pro production, and may stop it completely very soon](https://appleinsider.com/articles/24/10/23/apple-severely-cuts-vision-pro-production-and-may-stop-it-completely-very-soon?utm_medium=rss)
+ - [A mother plans to sue Character.AI after her 14-year-old son became obsessed with a chatbot before his suicide; Character.AI says it plans new safety features &lpar;Kevin Roose/New York Times&rpar;](http://www.techmeme.com/241023/p20#a241023p20)
+ - [Marantz’s first speakers look like works of art](https://www.theverge.com/2024/10/23/24277535/marantz-wireless-speaker-grand-horizon-streaming)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
