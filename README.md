@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Enjoy the little things in life.](http://9gag.com/gag/aqygrYY)
- - ⏩ [Sometimes windows have to be broken](http://9gag.com/gag/ae95YQv)
- - 👉 [Instant NOPE](http://9gag.com/gag/aryoKep)<!-- MEMES:END -->
+ - 💣 [Hellenic Air Force pilot withstands 9+ g\u2019s without suit](http://9gag.com/gag/apR5Lvn)
+ - ⏩ [Cursed gumball](http://9gag.com/gag/aD2gW1N)
+ - 👉 [Useful phone](http://9gag.com/gag/aMVYGWG)<!-- MEMES:END -->
 
 ---
 
