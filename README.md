@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Hellenic Air Force pilot withstands 9+ g\u2019s without suit](http://9gag.com/gag/apR5Lvn)
- - ⏩ [Cursed gumball](http://9gag.com/gag/aD2gW1N)
- - 👉 [Useful phone](http://9gag.com/gag/aMVYGWG)<!-- MEMES:END -->
+ - 💣 [You are free Men, indeed](http://9gag.com/gag/a34Rjd8)
+ - ⏩ [I&#39;m the captain now](http://9gag.com/gag/a5QRZ7o)
+ - 👉 [Need to learn not to slap everyone willy nilly](http://9gag.com/gag/axy7GQY)<!-- MEMES:END -->
 
 ---
 
