@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Cool kid](http://9gag.com/gag/azx1qox)
- - ⏩ [Yeah right..](http://9gag.com/gag/aryo5XX)
- - 👉 [Emotional damage](http://9gag.com/gag/aZZ7g2X)<!-- MEMES:END -->
+ - 💣 [So much hate](http://9gag.com/gag/aXPjvgz)
+ - ⏩ [Red Carpet Service](http://9gag.com/gag/aQz1Mxw)
+ - 👉 [Probably best to wear a seatbelt at all times?](http://9gag.com/gag/aMVY8M1)<!-- MEMES:END -->
 
 ---
 
