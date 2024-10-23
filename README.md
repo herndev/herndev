@@ -47,7 +47,7 @@
 
 <!-- MEMES:START -->
  - 💣 [Cursed gumball](http://9gag.com/gag/aD2gW1N)
- - ⏩ [Need to learn not to slap everyone willy nilly](http://9gag.com/gag/axy7GQY)
+ - ⏩ [Hellenic Air Force pilot withstands 9+ g\u2019s without suit](http://9gag.com/gag/apR5Lvn)
  - 👉 [Enjoy the little things in life.](http://9gag.com/gag/aqygrYY)<!-- MEMES:END -->
 
 ---
