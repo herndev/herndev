@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Zelda](http://9gag.com/gag/ae95p5m)
- - ⏩ [Some of the craziest people I have ever met have been psychologists and psychiatrists.](http://9gag.com/gag/an75y5b)
- - 👉 [Nice!](http://9gag.com/gag/an75Bv0)<!-- MEMES:END -->
+ - 💣 [High School Teacher Ban List](http://9gag.com/gag/aZZ7pr6)
+ - ⏩ [Bro scammed the scammer](http://9gag.com/gag/a34RLEQ)
+ - 👉 [Hey Joey... What does this button do?](http://9gag.com/gag/ayNoLny)<!-- MEMES:END -->
 
 ---
 
