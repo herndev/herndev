@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Qualcomm faces crisis that could strike at the very heart of Android phones](https://www.androidauthority.com/qualcomm-arm-license-termination-3493039/)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Oct. 23, #30](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-oct-23-30/#ftag=CAD590a51e)
- - [Today&#39;s Wordle Hints, Answer and Help for Oct. 23, #1222](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-oct-23-1222/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Paytm receives regulatory approval to resume adding UPI payments users, following an eight-month Reserve Bank of India&#39;s restrictions on many of its operations &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/241023/p3#a241023p3)
+ - [Google Photos’ upcoming image sharing feature gets a new UI ahead of launch &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-photos-enhance-before-sharing-new-ui-3493044/)
+ - [Huawei launches HarmonyOS 5.0 and says 1B+ devices run on HarmonyOS including smartphones, PCs, and cars, and the OS has 15K+ apps, up 10x from earlier in 2024 &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/241023/p2#a241023p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
