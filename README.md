@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple launched the iPod 23 years ago, and changed the world](https://appleinsider.com/articles/22/10/23/apple-launched-the-ipod-21-years-ago-and-changed-the-world?utm_medium=rss)
- - [Samsung is considering a triple-screen foldable phone for next year](https://www.androidauthority.com/samsung-triple-screen-foldable-2025-3493135/)
- - [Using Artificial Intelligence Is Easier Than You Think](https://www.wired.com/story/artificial-intelligence-tools-ai-unlocked-newsletter-season-two/)<!-- TECH:END -->
+ - [Severance looks like a terrifying return to office in new season 2 trailer](https://www.theverge.com/2024/10/23/24277021/severance-season-2-trailer-apple-tv-plus)
+ - [Dropped iPhone leads to Australian woman being stuck upside down between boulders for hours](https://appleinsider.com/articles/24/10/23/dropped-iphone-leads-to-australian-woman-being-stuck-upside-down-between-boulders-for-hours?utm_medium=rss)
+ - [Cisco brings Spatial Meetings to Apple Vision Pro with native Webex app](https://appleinsider.com/articles/24/10/23/cisco-brings-spatial-meetings-to-apple-vision-pro-with-native-webex-app?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
