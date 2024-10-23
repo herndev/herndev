@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [No Man’s Sky’s Halloween expedition, The Cursed, is out today](https://blog.playstation.com/2024/10/23/no-mans-skys-halloween-expedition-the-cursed-is-out-today/)
- - [No Man’s Sky: Prepare for an Eerie Expedition with The Cursed Update](https://news.xbox.com/en-us/2024/10/23/no-mans-sky-the-cursed-update/)
- - [AMD might not give up on AM4 just yet as it looks like more refreshed 5000-series chips are on the way](https://www.pcgamer.com/hardware/processors/amd-might-not-give-up-on-am4-just-yet-as-it-looks-like-more-refreshed-5000-series-chips-are-on-the-way)<!-- GAME:END -->
+ - [What time does Black Ops 6 release in your time zone?](https://www.polygon.com/black-ops-6-guides/468014/release-time-date-est-pst-bst-bo6)
+ - [Telltale heaves a long, dog-tired sigh at &#39;unsubstantiated Reddit threads&#39;, reassures fans that The Wolf Among Us 2 is still being made, honest](https://www.pcgamer.com/games/adventure/telltale-heaves-a-long-dog-tired-sigh-at-unsubstantiated-reddit-threads-reassures-fans-that-the-wolf-among-us-2-is-still-being-made-honest)
+ - [The Halloween Countdown: 31 days of horror to watch](https://www.polygon.com/what-to-watch/452010/best-halloween-horror-movies-tv-watch-stream)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
