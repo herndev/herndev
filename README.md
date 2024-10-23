@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [India&#39;s Supreme Court strikes down a tribunal order that let Byju&#39;s settle debts with India&#39;s cricket board, pushing the edtech startup firmly toward insolvency &lpar;Bloomberg&rpar;](http://www.techmeme.com/241023/p9#a241023p9)
- - [Best Internet Providers in Irving, Texas](https://www.cnet.com/home/internet/best-internet-providers-in-irving-tx/#ftag=CAD590a51e)
- - [Apple could embrace iPhone gaming with dedicated game store](https://www.androidauthority.com/apple-game-store-rumor-3493080/)<!-- TECH:END -->
+ - [The Galaxy S25 could be as good as the Ultra in performance](https://www.androidauthority.com/samsung-galaxy-s25-snapdragon-8-elite-soc-leak-3493116/)
+ - [AT&amp;T and T-Mobile Claim Locked Phones Are Good, Actually](https://www.wired.com/story/att-tmobile-claim-locked-phones-are-good-actually/)
+ - [Forget about the Galaxy S25 and S26, the first Galaxy S27 leak is here](https://www.androidauthority.com/samsung-galaxy-s27-exynos-2700-3493114/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
