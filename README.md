@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Radio station uses AI to interview the ghost of a dead Nobel-winner with 3 quirky zoomers who don&#39;t exist, seems baffled people don&#39;t like it](https://www.pcgamer.com/software/ai/radio-station-uses-ai-to-interview-the-ghost-of-a-dead-nobel-winner-with-3-quirky-zoomers-who-dont-exist-seems-baffled-people-dont-like-it)
- - [Gorgeous deck-building shop sim Potionomics just got a patch that fixes all my problems with it—plus voice acting, and an option to smooch everyone in a single playthrough](https://www.pcgamer.com/games/card-games/gorgeous-deck-building-shop-sim-potionomics-just-got-a-patch-that-fixes-all-my-problems-with-it-plus-voice-acting-and-an-option-to-smooch-everyone-in-a-single-playthrough)
- - [The real shocker with Disney Dreamlight Valley&#39;s Halloween event is that it&#39;s the same as last year](https://www.pcgamer.com/games/life-sim/the-real-shocker-with-disney-dreamlight-valleys-halloween-event-is-that-its-the-same-as-last-year)<!-- GAME:END -->
+ - [No Man’s Sky’s Halloween expedition, The Cursed, is out today](https://blog.playstation.com/2024/10/23/no-mans-skys-halloween-expedition-the-cursed-is-out-today/)
+ - [No Man’s Sky: Prepare for an Eerie Expedition with The Cursed Update](https://news.xbox.com/en-us/2024/10/23/no-mans-sky-the-cursed-update/)
+ - [AMD might not give up on AM4 just yet as it looks like more refreshed 5000-series chips are on the way](https://www.pcgamer.com/hardware/processors/amd-might-not-give-up-on-am4-just-yet-as-it-looks-like-more-refreshed-5000-series-chips-are-on-the-way)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
