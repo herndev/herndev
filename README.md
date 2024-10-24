@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Star Wars Outlaws&#39; New Patch Makes The Game Look Bad On PS5](https://kotaku.com/star-wars-outlaws-title-update-1-3-stealth-ps5-screen-1851680729)
- - [Overwatch 2 Is Bringing Back 6v6 Sooner Than Expected](https://kotaku.com/overwatch-2-6v6-test-season-14-open-role-queue-date-1851680742)
- - [Dragon Ball: Sparking Zero&#39;s First Update Is Live, Bringing Bean Daddies Everywhere To Their Knees](https://kotaku.com/dragon-ball-sparking-zero-patch-notes-yajirobe-save-bug-1851680683)<!-- GAME:END -->
+ - [Blizzard’s bringing back 6v6 Overwatch 2 in December to see how that whole thing goes](https://www.polygon.com/news/470043/overwatch-2-6v6-test-season-14-start-date)
+ - [Venom: The Last Dance’s post-credits scene is all about the future](https://www.polygon.com/marvel/469466/venom-last-dance-post-credits-scenes-sequel)
+ - [Dragon Age: The Veilguard&#39;s launch trailer brings a summer blockbuster vibe to BioWare&#39;s newest RPG](https://www.pcgamer.com/games/rpg/dragon-age-the-veilguards-launch-trailer-brings-a-summer-blockbuster-vibe-to-biowares-newest-rpg)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
