@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Fortinet discloses a critical FortiManager API flaw being exploited in 0-day attacks to steal sensitive files, after warning customers privately over a week ago &lpar;Lawrence Abrams/BleepingComputer&rpar;](http://www.techmeme.com/241023/p45#a241023p45)
- - [Today&#39;s NYT Mini Crossword Answers for Oct. 24](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-oct-24/#ftag=CAD590a51e)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Oct. 24, #31](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-oct-24-31/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Document: Guangzhou, China-based self-driving startup WeRide files for a Nasdaq IPO, planning to raise up to $119.4M &lpar;Reuters&rpar;](http://www.techmeme.com/241024/p1#a241024p1)
+ - [T-Mobile is testing a new 5G home internet service with very generous freebies for customers](https://www.androidauthority.com/t-mobile-mmwave-5g-home-internet-trial-3493533/)
+ - [Automatic emergency braking is getting better at preventing crashes](https://www.theverge.com/2024/10/24/24276802/automatic-emergency-braking-aeb-forward-collision-aaa)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
