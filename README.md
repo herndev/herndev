@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Ayaneo is desperate for you to feel the hype for its upcoming handheld, declaring &#39;The future has arrived&#39;](https://www.pcgamer.com/hardware/ayaneo-3-announced-and-not-much-else)
- - [For Halloween, No Man&#39;s Sky is going full-blown cosmic horror for a fortnight](https://www.pcgamer.com/games/sim/for-halloween-no-mans-sky-is-going-full-blown-cosmic-horror-for-a-fortnight)
- - [Today&#39;s Wordle answer for Thursday, October 24](https://www.pcgamer.com/games/puzzle/wordle-answer-today-october-24-2024)<!-- GAME:END -->
+ - [Roblox scrambles to fight the &#39;pedophile hellscape&#39; allegations with changes to pre-teen accounts that don&#39;t seem like enough](https://www.pcgamer.com/games/sim/roblox-scrambles-to-fight-the-pedophile-hellscape-allegations-with-changes-to-pre-teen-accounts-that-dont-seem-like-enough)
+ - [Cutting through the &#39;fake news&#39;, Nvidia CEO Jen-Hsun Huang says Blackwell&#39;s design flaw was &#39;100% Nvidia&#39;s fault&#39; and there are no tensions with TSMC](https://www.pcgamer.com/hardware/graphics-cards/cutting-through-the-fake-news-nvidia-ceo-jen-hsun-huang-says-blackwells-design-flaw-was-100-percent-nvidias-fault-and-there-are-no-tensions-with-tsmc)
+ - [All the Legend of Vox Machina season 4 news we’ve heard so far](https://www.polygon.com/critical-role/468661/legend-vox-machina-season-4-release-date-cast-news)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
