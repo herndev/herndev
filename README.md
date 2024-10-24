@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Exploring the &#39;twisted road&#39; of Irrational&#39;s doomed XCOM game—from fighting aliens &#39;the size of entire city blocks&#39; to a multiplayer mode where you could be the aliens](https://www.pcgamer.com/games/action/exploring-the-twisted-road-of-irrationals-doomed-xcom-game-from-fighting-aliens-the-size-of-entire-city-blocks-to-a-multiplayer-mode-where-you-could-be-the-aliens)
- - [Final Fantasy VII&#39;s Biggest Skip Ever Lets You &#39;Save&#39; Aerith Without Cheats](https://kotaku.com/final-fantasy-vii-aerith-cheat-speedrun-sephiroth-ff7-1851680275)
- - [Blizzard announces Warcraft 30th Anniversary Direct, teases that you won&#39;t want to miss &#39;a single surprise&#39;](https://www.pcgamer.com/games/world-of-warcraft/blizzard-announces-warcraft-30th-anniversary-direct-teases-that-you-wont-want-to-miss-a-single-surprise)<!-- GAME:END -->
+ - [Soul Stalker: Can You Overcome Its Roguelike World Through Pure Skill?](https://news.xbox.com/en-us/2024/10/24/soul-stalker-can-you-overcome-its-roguelike-world-through-pure-skill/)
+ - [John Wick Ran Out Of Money 24 Hours Before Filming, Then Eva Longoria Invested $6 Million](https://kotaku.com/john-wick-eva-longoria-investment-last-minute-24-hours-1851680461)
+ - [Today&#39;s Google Doodle is an alarmingly compelling card game about defeating mankind&#39;s oldest enemy: The Moon](https://www.pcgamer.com/games/card-games/todays-google-doodle-is-an-alarmingly-compelling-card-game-about-defeating-mankinds-oldest-enemy-the-moon)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
