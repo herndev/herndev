@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Notion is making a super customizable email app](https://www.theverge.com/2024/10/24/24278848/notion-super-customizable-email-app)
- - [Google Calendar looks like it’s swallowing up the Tasks app &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-calendar-tasks-3494000/)
- - [There’s a new web browser for Wear OS and this one doesn’t suck](https://www.androidauthority.com/new-wear-os-browser-3494001/)<!-- TECH:END -->
+ - [Scout Motors mounts an electric comeback with new SUV and truck concepts](https://www.theverge.com/2024/10/24/24277692/scout-motors-suv-truck-ev-concept-announce-price-specs)
+ - [Apple Intelligence bug bounty invites researchers to test its privacy claims](https://www.theverge.com/2024/10/24/24278881/apple-intelligence-bug-bounty-security-researchers-private-cloud-compute)
+ - [Google’s latest Play Points perk could be its best yet](https://www.androidauthority.com/play-points-disney-hulu-3494044/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
