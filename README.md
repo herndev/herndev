@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Insane job](http://9gag.com/gag/aLn0Dyv)
- - ⏩ [South African truck driver is shot at by roadside bandits](http://9gag.com/gag/a34RKrN)
- - 👉 [Trapped in a blizzard. Do you know what to do next to sutvive?](http://9gag.com/gag/awyoAnD)<!-- MEMES:END -->
+ - 💣 [What do you put on your resume to get this job?!](http://9gag.com/gag/aryoOjV)
+ - ⏩ [Behold.... The iron keg](http://9gag.com/gag/aQz1R7W)
+ - 👉 [Process server. Paid to hand someone documents.](http://9gag.com/gag/axy710b)<!-- MEMES:END -->
 
 ---
 
