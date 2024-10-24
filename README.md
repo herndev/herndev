@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Blizzard coins &#39;Meat or Treat&#39; for Diablo 4&#39;s upcoming Halloween event and I refuse to say it like that](https://www.pcgamer.com/games/rpg/blizzard-coins-meat-or-treat-for-diablo-4s-upcoming-halloween-event-and-i-refuse-to-say-it-like-that)
- - [How one of YouTube’s biggest ASMRtists created her shot-for-shot Shrek remake](https://www.polygon.com/youtube/469454/gibi-asmr-shrek-remake-youtube)
- - [An anime catboy just taught Bernie Sanders what vtubers are during a Twitch stream](https://www.pcgamer.com/gaming-industry/an-anime-catboy-just-taught-bernie-sanders-what-vtubers-are-during-a-twitch-stream)<!-- GAME:END -->
+ - [&#39;It even breaks my heart a bit&#39;: Denuvo pushes back on its haters, says Steam forums are a &#39;very toxic, very hostile environment&#39;](https://www.pcgamer.com/hardware/gaming-headsets/it-even-breaks-my-heart-a-bit-denuvo-pushes-back-on-its-haters-says-steam-forums-are-a-very-toxic-very-hostile-environment)
+ - [What exactly is up with Black Ops 6&#39;s &#39;Enhanced Headphone Mode&#39; and its $20 paid tier](https://www.pcgamer.com/games/call-of-duty/what-exactly-is-up-with-black-ops-6s-enhanced-headphone-mode-and-its-usd20-paid-tier)
+ - [Blizzard coins &#39;Meat or Treat&#39; for Diablo 4&#39;s upcoming Halloween event and I refuse to say it like that](https://www.pcgamer.com/games/rpg/blizzard-coins-meat-or-treat-for-diablo-4s-upcoming-halloween-event-and-i-refuse-to-say-it-like-that)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
