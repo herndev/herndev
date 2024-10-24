@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [What do you put on your resume to get this job?!](http://9gag.com/gag/aryoOjV)
- - ⏩ [Behold.... The iron keg](http://9gag.com/gag/aQz1R7W)
- - 👉 [Process server. Paid to hand someone documents.](http://9gag.com/gag/axy710b)<!-- MEMES:END -->
+ - 💣 [Process server. Paid to hand someone documents.](http://9gag.com/gag/axy710b)
+ - ⏩ [Probably best to wear a seatbelt at all times?](http://9gag.com/gag/aMVY8M1)
+ - 👉 [Behold.... The iron keg](http://9gag.com/gag/aQz1R7W)<!-- MEMES:END -->
 
 ---
 
