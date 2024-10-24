@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The unprecedented Pokémon hack covers decades of game secrets. Here’s what it means](https://www.polygon.com/pokemon/469483/pokemon-leak-hack-explainer-game-freak)
- - [You might want to hold off installing the latest Game Ready Nvidia GeForce driver if you&#39;re using Corsair iCUE or Bluestacks](https://www.pcgamer.com/hardware/graphics-cards/you-might-want-to-hold-off-installing-the-latest-game-ready-nvidia-geforce-driver-if-youre-using-corsair-icue-or-bluestacks)
- - [Ayaneo Flip DS review](https://www.pcgamer.com/hardware/handheld-gaming-pcs/ayaneo-flip-ds-review)<!-- GAME:END -->
+ - [Rogue Trader’s first expansion and post-launch polish are great additions to the 40K CRPG](https://www.polygon.com/impressions/469373/rogue-trader-void-shadows-post-launch-support)
+ - [This new keyboard built with switches also used in ATMs across Japan has led me down a rabbit hole of typing championships where contestants compete for a golden keyboard](https://www.pcgamer.com/hardware/gaming-keyboards/this-new-keyboard-built-with-switches-also-used-in-atms-across-japan-has-led-me-down-a-rabbit-hole-of-typing-championships-where-contestants-compete-for-a-golden-keyboard)
+ - [D&amp;D&#39;s upcoming 2024 Dungeon Master&#39;s Guide looks to actually guide dungeon masters, including a 4-step plan to making a story with a satisfying climax](https://www.pcgamer.com/games/d-and-ds-upcoming-dungeon-masters-guide-looks-to-actually-guide-dungeon-masters-including-a-4-step-plan-to-making-a-story-with-a-satisfying-climax)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
