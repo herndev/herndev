@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Motorola Razr 2024 plunges to new record-low price, saving you 39%](https://www.androidauthority.com/motorola-razr-2024-deal-2-3493922/)
- - [Verizon Family app lets you track your family’s location and activity, but is it worth it?](https://www.androidauthority.com/verizon-family-3493943/)
- - [Google will add an AI info section in the image details view of Google Photos, for images edited with tools like Magic Editor and Magic Eraser &lpar;Chris Welch/The Verge&rpar;](http://www.techmeme.com/241024/p31#a241024p31)<!-- TECH:END -->
+ - [Google’s long-awaited casting feature is here but not for the device we want &lpar;Update: Rolling out&rpar;](https://www.androidauthority.com/pixel-tablet-cast-nearby-devices-launch-3490229/)
+ - [Google Photos goes official with its tool to spot AI-edited images](https://www.androidauthority.com/google-photos-ai-info-section-3493930/)
+ - [AirPods Pro 2 receive support for Hearing Health features with new firmware update](https://appleinsider.com/articles/24/10/24/airpods-pro-2-receive-support-for-hearing-health-features-with-new-firmware-update?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
