@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Say my name](http://9gag.com/gag/aKGdjB3)
- - ⏩ [An ordinary morning on the Tokyo subway](http://9gag.com/gag/a7owD1m)
- - 👉 [Opening 100 year old wine](http://9gag.com/gag/agm5qdq)<!-- MEMES:END -->
+ - 💣 [Cursed gumball](http://9gag.com/gag/aD2gW1N)
+ - ⏩ [Trapped in a blizzard. Do you know what to do next to sutvive?](http://9gag.com/gag/awyoAnD)
+ - 👉 [Process server. Paid to hand someone documents.](http://9gag.com/gag/axy710b)<!-- MEMES:END -->
 
 ---
 
