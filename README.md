@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meet the Far-Right Constitutional Sheriffs Ready to Assert Control if Trump Loses](https://www.wired.com/story/constitutional-sheriffs-election-denial/)
- - [iOS is making permanently ditching the first-party app store easier than Android](https://www.androidauthority.com/apple-app-store-uninstall-3493741/)
- - [A new iMessage safety feature prompts kids to report explicit images to Apple](https://www.theverge.com/2024/10/24/24278526/apple-imessage-safety-feature-prompts-kids-report-explicit-images)<!-- TECH:END -->
+ - [Google Calendar adds an option to suck all the fun out of your schedule &lpar;APK Teardown&rpar;](https://www.androidauthority.com/google-calendar-event-illustrations-toggle-3493923/)
+ - [ROG Phone 9 Pro leak gives us our best look yet at the premium gaming phone](https://www.androidauthority.com/rog-phone-9-pro-leak-3493904/)
+ - [Google Photos will soon show you if an image was edited with AI](https://www.theverge.com/2024/10/24/24278663/google-photos-generative-ai-label-reimagine-best-take)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
