@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Yeah right..](http://9gag.com/gag/aryo5XX)
- - ⏩ [Those unrealistic body standards!](http://9gag.com/gag/axy71rK)
- - 👉 [Someone stop him](http://9gag.com/gag/aqyg1Z7)<!-- MEMES:END -->
+ - 💣 [This video is 15 years old but still relevant...](http://9gag.com/gag/a9yRroL)
+ - ⏩ [Probably best to wear a seatbelt at all times?](http://9gag.com/gag/aMVY8M1)
+ - 👉 [Say my name](http://9gag.com/gag/aKGdjB3)<!-- MEMES:END -->
 
 ---
 
