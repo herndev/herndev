@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [An ordinary morning on the Tokyo subway](http://9gag.com/gag/a7owD1m)
- - ⏩ [This video is 15 years old but still relevant...](http://9gag.com/gag/a9yRroL)
- - 👉 [Red Carpet Service](http://9gag.com/gag/aQz1Mxw)<!-- MEMES:END -->
+ - 💣 [Emotional damage](http://9gag.com/gag/aZZ7g2X)
+ - ⏩ [Biker music](http://9gag.com/gag/aQz1e0r)
+ - 👉 [Cheers to the guy working on the captions](http://9gag.com/gag/ayNoDyr)<!-- MEMES:END -->
 
 ---
 
