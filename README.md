@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Rogue Trader’s first expansion and post-launch polish are great additions to the 40K CRPG](https://www.polygon.com/impressions/469373/rogue-trader-void-shadows-post-launch-support)
- - [This new keyboard built with switches also used in ATMs across Japan has led me down a rabbit hole of typing championships where contestants compete for a golden keyboard](https://www.pcgamer.com/hardware/gaming-keyboards/this-new-keyboard-built-with-switches-also-used-in-atms-across-japan-has-led-me-down-a-rabbit-hole-of-typing-championships-where-contestants-compete-for-a-golden-keyboard)
- - [D&amp;D&#39;s upcoming 2024 Dungeon Master&#39;s Guide looks to actually guide dungeon masters, including a 4-step plan to making a story with a satisfying climax](https://www.pcgamer.com/games/d-and-ds-upcoming-dungeon-masters-guide-looks-to-actually-guide-dungeon-masters-including-a-4-step-plan-to-making-a-story-with-a-satisfying-climax)<!-- GAME:END -->
+ - [Free Play Days – MLB The Show 24, Under the Waves and Fallout 76](https://news.xbox.com/en-us/2024/10/24/free-play-days-24-10-24/)
+ - [With Ohtani Fever In Full Swing, One Piece Delays Its Season Premiere To Make Room For The World Series](https://kotaku.com/one-piece-anime-delayed-world-series-shohei-ohtani-mlb-1851680242)
+ - [&#39;I was hopeful&#39;: one lucky shopper ordered an RTX 4070 Super from Amazon for $40 and it wasn&#39;t just a rock in a box](https://www.pcgamer.com/hardware/graphics-cards/i-was-hopeful-one-lucky-shopper-ordered-an-rtx-4070-super-from-amazon-for-usd40-and-it-wasnt-just-a-rock-in-a-box)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
