@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Document: Guangzhou, China-based self-driving startup WeRide files for a Nasdaq IPO, planning to raise up to $119.4M &lpar;Reuters&rpar;](http://www.techmeme.com/241024/p1#a241024p1)
- - [T-Mobile is testing a new 5G home internet service with very generous freebies for customers](https://www.androidauthority.com/t-mobile-mmwave-5g-home-internet-trial-3493533/)
- - [Automatic emergency braking is getting better at preventing crashes](https://www.theverge.com/2024/10/24/24276802/automatic-emergency-braking-aeb-forward-collision-aaa)<!-- TECH:END -->
+ - [Google continues revamping ‘Do Not Disturb’ for Android 16 with new ‘Modes’](https://www.androidauthority.com/android-16-modes-feature-leak-3493455/)
+ - [Crypto super PAC Fairshake, a rare bipartisan PAC, plans to deploy $40M+ in the final weeks of the 2024 US elections, after already deploying $140M &lpar;Bloomberg&rpar;](http://www.techmeme.com/241024/p2#a241024p2)
+ - [Document: Guangzhou, China-based self-driving startup WeRide files for a Nasdaq IPO, planning to raise up to $119.4M &lpar;Reuters&rpar;](http://www.techmeme.com/241024/p1#a241024p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
