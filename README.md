@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This video is 15 years old but still relevant...](http://9gag.com/gag/a9yRroL)
- - ⏩ [Probably best to wear a seatbelt at all times?](http://9gag.com/gag/aMVY8M1)
- - 👉 [Say my name](http://9gag.com/gag/aKGdjB3)<!-- MEMES:END -->
+ - 💣 [Insane job](http://9gag.com/gag/aLn0Dyv)
+ - ⏩ [South African truck driver is shot at by roadside bandits](http://9gag.com/gag/a34RKrN)
+ - 👉 [Trapped in a blizzard. Do you know what to do next to sutvive?](http://9gag.com/gag/awyoAnD)<!-- MEMES:END -->
 
 ---
 
