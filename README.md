@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Watch display tech hints at iPhone ProMotion upgrade](https://appleinsider.com/articles/24/10/24/apple-watch-display-tech-hints-at-iphone-promotion-upgrade?utm_medium=rss)
- - [The UK CMA opens a formal probe into Google&#39;s Anthropic partnership, sets a December 19 deadline; Google planned to invest $2B in 2023 and signed a cloud deal &lpar;Katharine Gemmell/Bloomberg&rpar;](http://www.techmeme.com/241024/p19#a241024p19)
- - [I’ve tried Apple’s Google Lens rival on iOS 18.2, here’s how it works](https://www.androidauthority.com/visual-intelligence-on-ios-18-2-3493711/)<!-- TECH:END -->
+ - [DJI Osmo Action 5 Pro Review: Long Battery Life and Great 4K Footage](https://www.wired.com/review/dji-osmo-action-5-pro/)
+ - [Now you can launch Snapchat’s camera from your iPhone’s lock screen](https://www.theverge.com/2024/10/24/24278353/snapchat-iphone-lock-screen-ios18-widget-availability)
+ - [Apple now lets third-party browsers add web apps to an iPhone&#39;s Home Screen using their own custom engine in the EU in iOS 18.2 beta 1 &lpar;Filipe Esp&amp;oacute;sito/9to5Mac&rpar;](http://www.techmeme.com/241024/p20#a241024p20)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
