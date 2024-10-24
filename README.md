@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Process server. Paid to hand someone documents.](http://9gag.com/gag/axy710b)
- - ⏩ [Probably best to wear a seatbelt at all times?](http://9gag.com/gag/aMVY8M1)
- - 👉 [Behold.... The iron keg](http://9gag.com/gag/aQz1R7W)<!-- MEMES:END -->
+ - 💣 [Cursed gumball](http://9gag.com/gag/aD2gW1N)
+ - ⏩ [Don\u2019t judge a book by its cover](http://9gag.com/gag/a8753n6)
+ - 👉 [Trapped in a blizzard. Do you know what to do next to sutvive?](http://9gag.com/gag/awyoAnD)<!-- MEMES:END -->
 
 ---
 
