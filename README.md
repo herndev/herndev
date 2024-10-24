@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Roblox scrambles to fight the &#39;pedophile hellscape&#39; allegations with changes to pre-teen accounts that don&#39;t seem like enough](https://www.pcgamer.com/games/sim/roblox-scrambles-to-fight-the-pedophile-hellscape-allegations-with-changes-to-pre-teen-accounts-that-dont-seem-like-enough)
- - [Cutting through the &#39;fake news&#39;, Nvidia CEO Jen-Hsun Huang says Blackwell&#39;s design flaw was &#39;100% Nvidia&#39;s fault&#39; and there are no tensions with TSMC](https://www.pcgamer.com/hardware/graphics-cards/cutting-through-the-fake-news-nvidia-ceo-jen-hsun-huang-says-blackwells-design-flaw-was-100-percent-nvidias-fault-and-there-are-no-tensions-with-tsmc)
- - [All the Legend of Vox Machina season 4 news we’ve heard so far](https://www.polygon.com/critical-role/468661/legend-vox-machina-season-4-release-date-cast-news)<!-- GAME:END -->
+ - [The unprecedented Pokémon hack covers decades of game secrets. Here’s what it means](https://www.polygon.com/pokemon/469483/pokemon-leak-hack-explainer-game-freak)
+ - [You might want to hold off installing the latest Game Ready Nvidia GeForce driver if you&#39;re using Corsair iCUE or Bluestacks](https://www.pcgamer.com/hardware/graphics-cards/you-might-want-to-hold-off-installing-the-latest-game-ready-nvidia-geforce-driver-if-youre-using-corsair-icue-or-bluestacks)
+ - [Ayaneo Flip DS review](https://www.pcgamer.com/hardware/handheld-gaming-pcs/ayaneo-flip-ds-review)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
