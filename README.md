@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Photos could soon tell you if an image is AI-generated &lpar;Updated: Here’s how it’ll look&rpar;](https://www.androidauthority.com/google-photos-ai-generated-image-metadata-apk-teardown-3489044/)
- - [As Kroger and Walmart roll out electronic shelf labels, US lawmakers worry that the tech could allow for dynamic pricing; both deny plans to add dynamic pricing &lpar;Sara Ruberg/New York Times&rpar;](http://www.techmeme.com/241024/p10#a241024p10)
- - [Google, Microsoft, and Perplexity Are Promoting Scientific Racism in Search Results](https://www.wired.com/story/google-microsoft-perplexity-scientific-racism-search-results-ai/)<!-- TECH:END -->
+ - [Raspberry Pi unveils the Raspberry Pi AI HAT+ in 13 and 26 TOPS versions in partnership with Hailo, after announcing branded SSDs, micro SD cards, and a bumper &lpar;Les Pounder/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/241024/p14#a241024p14)
+ - [Judges and Border Police Targeted by Anti-Government Extremists, Doxed as ‘Traitors’](https://www.wired.com/story/judges-border-police-targeted-extremism/)
+ - [The Irish Data Protection Commission fines LinkedIn &amp;euro;310M over using personal data for behavioral analysis and targeted ads under GDPR, after a 2018 complaint &lpar;Ian Curran/The Irish Times&rpar;](http://www.techmeme.com/241024/p13#a241024p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
