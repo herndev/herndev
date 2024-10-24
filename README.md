@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Calendar adds an option to suck all the fun out of your schedule &lpar;APK Teardown&rpar;](https://www.androidauthority.com/google-calendar-event-illustrations-toggle-3493923/)
- - [ROG Phone 9 Pro leak gives us our best look yet at the premium gaming phone](https://www.androidauthority.com/rog-phone-9-pro-leak-3493904/)
- - [Google Photos will soon show you if an image was edited with AI](https://www.theverge.com/2024/10/24/24278663/google-photos-generative-ai-label-reimagine-best-take)<!-- TECH:END -->
+ - [Motorola Razr 2024 plunges to new record-low price, saving you 39%](https://www.androidauthority.com/motorola-razr-2024-deal-2-3493922/)
+ - [Verizon Family app lets you track your family’s location and activity, but is it worth it?](https://www.androidauthority.com/verizon-family-3493943/)
+ - [Google will add an AI info section in the image details view of Google Photos, for images edited with tools like Magic Editor and Magic Eraser &lpar;Chris Welch/The Verge&rpar;](http://www.techmeme.com/241024/p31#a241024p31)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
