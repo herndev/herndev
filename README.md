@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Saw machine detects contact with skin and reacts within 0,02 ms](http://9gag.com/gag/aRB0jW7)
- - ⏩ [Say my name](http://9gag.com/gag/aKGdjB3)
- - 👉 [Groom learned Korean secretly to surprise his wife in the weeding](http://9gag.com/gag/aPAR95g)<!-- MEMES:END -->
+ - 💣 [Husband creates a high-end restaurant experience for his wife](http://9gag.com/gag/aKGddb3)
+ - ⏩ [That&#39;s like listening to a homeless person give you financial advice](http://9gag.com/gag/aQz1R2z)
+ - 👉 [The moment he knew he phuked up](http://9gag.com/gag/aGygd1G)<!-- MEMES:END -->
 
 ---
 
