@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Someone stop him](http://9gag.com/gag/aqyg1Z7)
- - ⏩ [Emotional damage](http://9gag.com/gag/aZZ7g2X)
+ - 💣 [Some fan redid a wicked poster to match the broadway show slightly covering the actresses eyes. She found it offensive. This was the internet response.](http://9gag.com/gag/a7owDew)
+ - ⏩ [One of my favourite Trump moments](http://9gag.com/gag/an75jwE)
  - 👉 [Red Carpet Service](http://9gag.com/gag/aQz1Mxw)<!-- MEMES:END -->
 
 ---
