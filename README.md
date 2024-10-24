@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Behold.... The iron keg](http://9gag.com/gag/aQz1R7W)
- - ⏩ [This video is 15 years old but still relevant...](http://9gag.com/gag/a9yRroL)
- - 👉 [Red Carpet Service](http://9gag.com/gag/aQz1Mxw)<!-- MEMES:END -->
+ - 💣 [Groom learned Korean secretly to surprise his wife in the weeding](http://9gag.com/gag/aPAR95g)
+ - ⏩ [Someone stop him](http://9gag.com/gag/aqyg1Z7)
+ - 👉 [Say my name](http://9gag.com/gag/aKGdjB3)<!-- MEMES:END -->
 
 ---
 
