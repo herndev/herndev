@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [La reconquista it\u2019s my jam](http://9gag.com/gag/a0eRK9O)
- - ⏩ [Biker music](http://9gag.com/gag/aQz1e0r)
- - 👉 [Cool kid](http://9gag.com/gag/azx1qox)<!-- MEMES:END -->
+ - 💣 [44 will soon be Antesamatic](http://9gag.com/gag/a875y8p)
+ - ⏩ [Some fan redid a wicked poster to match the broadway show slightly covering the actresses eyes. She found it offensive. This was the internet response.](http://9gag.com/gag/a7owDew)
+ - 👉 [I bet it is wet and slippery](http://9gag.com/gag/aGyge2n)<!-- MEMES:END -->
 
 ---
 
