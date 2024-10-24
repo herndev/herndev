@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [A former Nvidia employee discovered the world&#39;s largest known prime number and all it took was some free software and a few thousand datacenter GPUs](https://www.pcgamer.com/gaming-industry/a-former-nvidia-employee-discovered-the-worlds-largest-known-prime-number-and-all-it-took-was-some-free-software-and-a-few-thousand-datacenter-gpus)
- - [Amazon’s Like A Dragon: Yakuza Is Already A Divisive Adaptation Of The Beloved Games](https://kotaku.com/like-a-dragon-yakuza-amazon-tv-show-reviews-roundup-1851680774)
- - [Blizzard’s bringing back 6v6 Overwatch 2 in December to see how that whole thing goes](https://www.polygon.com/news/470043/overwatch-2-6v6-test-season-14-start-date)<!-- GAME:END -->
+ - [Modder adds something big that&#39;s been missing from Starfield: daily routines, schedules, and inner lives for NPCs](https://www.pcgamer.com/games/rpg/modder-adds-something-big-thats-been-missing-from-starfield-daily-routines-schedules-and-inner-lives-for-npcs)
+ - [Borderlands fan with terminal illness asked to see Borderlands 4 early and Gearbox boss Randy Pitchford says &#39;we&#39;re going to do whatever we can to make something happen&#39;](https://www.pcgamer.com/games/fps/borderlands-fan-with-terminal-illness-asked-to-see-borderlands-4-early-and-gearbox-boss-randy-pitchford-says-were-going-to-do-whatever-we-can-to-make-something-happen)
+ - [Do you want to go to Boston? Because CD Projekt is looking for people to come to its studio to help test some new stuff](https://www.pcgamer.com/games/rpg/do-you-want-to-go-to-boston-because-cd-projekt-is-looking-for-people-to-come-to-its-studio-to-help-test-some-new-stuff)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
