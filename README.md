@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Creating Yooka-Replaylee – Our Vision for a Truly Modern Mascot Platformer](https://news.xbox.com/en-us/2024/10/24/yooka-replaylee-a-truly-modern-mascot-platformer/)
- - [Agatha All Along’s Latest Episode Is Its Best Yet](https://kotaku.com/agatha-all-along-marvel-disney-episode-7-death-reveal-1851680675)
- - [&#39;It is an affront to God&#39;: Fans react with horror and delight as Monster Hunter Wilds unveils its nastiest freak yet](https://www.pcgamer.com/games/rpg/it-is-an-affront-to-god-fans-react-with-horror-and-delight-as-monster-hunter-wilds-unveils-its-nastiest-freak-yet)<!-- GAME:END -->
+ - [Star Wars Outlaws&#39; New Patch Makes The Game Look Bad On PS5](https://kotaku.com/star-wars-outlaws-title-update-1-3-stealth-ps5-screen-1851680729)
+ - [Overwatch 2 Is Bringing Back 6v6 Sooner Than Expected](https://kotaku.com/overwatch-2-6v6-test-season-14-open-role-queue-date-1851680742)
+ - [Dragon Ball: Sparking Zero&#39;s First Update Is Live, Bringing Bean Daddies Everywhere To Their Knees](https://kotaku.com/dragon-ball-sparking-zero-patch-notes-yajirobe-save-bug-1851680683)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
