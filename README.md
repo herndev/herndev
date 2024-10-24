@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Probably best to wear a seatbelt at all times?](http://9gag.com/gag/aMVY8M1)
- - ⏩ [Saw machine detects contact with skin and reacts within 0,02 ms](http://9gag.com/gag/aRB0jW7)
- - 👉 [At a drive-thru](http://9gag.com/gag/aLn08xA)<!-- MEMES:END -->
+ - 💣 [Saw machine detects contact with skin and reacts within 0,02 ms](http://9gag.com/gag/aRB0jW7)
+ - ⏩ [Say my name](http://9gag.com/gag/aKGdjB3)
+ - 👉 [Groom learned Korean secretly to surprise his wife in the weeding](http://9gag.com/gag/aPAR95g)<!-- MEMES:END -->
 
 ---
 
