@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Groom learned Korean secretly to surprise his wife in the weeding](http://9gag.com/gag/aPAR95g)
- - ⏩ [Someone stop him](http://9gag.com/gag/aqyg1Z7)
- - 👉 [Say my name](http://9gag.com/gag/aKGdjB3)<!-- MEMES:END -->
+ - 💣 [Trapped in a blizzard. Do you know what to do next to sutvive?](http://9gag.com/gag/awyoAnD)
+ - ⏩ [Groom learned Korean secretly to surprise his wife in the weeding](http://9gag.com/gag/aPAR95g)
+ - 👉 [Behold.... The iron keg](http://9gag.com/gag/aQz1R7W)<!-- MEMES:END -->
 
 ---
 
