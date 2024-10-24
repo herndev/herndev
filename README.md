@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [44 will soon be Antesamatic](http://9gag.com/gag/a875y8p)
- - ⏩ [Some fan redid a wicked poster to match the broadway show slightly covering the actresses eyes. She found it offensive. This was the internet response.](http://9gag.com/gag/a7owDew)
- - 👉 [I bet it is wet and slippery](http://9gag.com/gag/aGyge2n)<!-- MEMES:END -->
+ - 💣 [Saw machine detects contact with skin and reacts within 0,02 ms](http://9gag.com/gag/aRB0jW7)
+ - ⏩ [Am I wrong thogh](http://9gag.com/gag/a6ZNMKL)
+ - 👉 [Emotional damage](http://9gag.com/gag/aZZ7g2X)<!-- MEMES:END -->
 
 ---
 
