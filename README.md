@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [YouTube could soon make it easier to stop binging past your bedtime &lpar;APK teardown&rpar;](https://www.androidauthority.com/youtube-app-bedtime-reminders-apk-teardown-3493572/)
- - [Insight and Info: China&#39;s leading EDA companies for chip design, Empyrean Technology, Primarius, and Semitronix, had less than 2% of global market share in 2023 &lpar;Financial Times&rpar;](http://www.techmeme.com/241024/p5#a241024p5)
- - [Glassnode data shows the number of bitcoin whales, network entities holding at least 1,000 bitcoin, has jumped to 1,678, the highest level since January 2021 &lpar;Omkar Godbole/CoinDesk&rpar;](http://www.techmeme.com/241024/p4#a241024p4)<!-- TECH:END -->
+ - [iOS 18.2 beta 1 introduces a new Apple Sudoku game, but there’s a catch](https://www.androidauthority.com/ios-18-2-beta-1-sudoku-3493611/)
+ - [Star Trek: Section 31 — Release date, plot, and more](https://www.androidauthority.com/star-trek-section-31-release-date-3493333/)
+ - [Best Speakerphone in 2024 for Working From Home](https://www.cnet.com/tech/mobile/best-speakerphone/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
