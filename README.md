@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Groom learned Korean secretly to surprise his wife in the weeding](http://9gag.com/gag/aPAR95g)
- - ⏩ [Say my name](http://9gag.com/gag/aKGdjB3)
- - 👉 [South African truck driver is shot at by roadside bandits](http://9gag.com/gag/a34RKrN)<!-- MEMES:END -->
+ - 💣 [Say my name](http://9gag.com/gag/aKGdjB3)
+ - ⏩ [An ordinary morning on the Tokyo subway](http://9gag.com/gag/a7owD1m)
+ - 👉 [Opening 100 year old wine](http://9gag.com/gag/agm5qdq)<!-- MEMES:END -->
 
 ---
 
