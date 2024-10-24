@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [DJI Osmo Action 5 Pro Review: Long Battery Life and Great 4K Footage](https://www.wired.com/review/dji-osmo-action-5-pro/)
- - [Now you can launch Snapchat’s camera from your iPhone’s lock screen](https://www.theverge.com/2024/10/24/24278353/snapchat-iphone-lock-screen-ios18-widget-availability)
- - [Apple now lets third-party browsers add web apps to an iPhone&#39;s Home Screen using their own custom engine in the EU in iOS 18.2 beta 1 &lpar;Filipe Esp&amp;oacute;sito/9to5Mac&rpar;](http://www.techmeme.com/241024/p20#a241024p20)<!-- TECH:END -->
+ - [How the US and Nigeria wrestled over Binance executive Tigran Gambaryan&#39;s detention in February 2024, which US officials said hurt the two allies&#39; relationship &lpar;New York Times&rpar;](http://www.techmeme.com/241024/p21#a241024p21)
+ - [Google Calendar gets a redesign and dark mode](https://www.theverge.com/2024/10/24/24278419/google-calendar-web-dark-mode)
+ - [The best Xbox controller to buy right now](https://www.theverge.com/23025443/best-xbox-controllers-one-series-x-s)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
