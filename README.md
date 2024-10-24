@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [An anime catboy just taught Bernie Sanders what vtubers are during a Twitch stream](https://www.pcgamer.com/gaming-industry/an-anime-catboy-just-taught-bernie-sanders-what-vtubers-are-during-a-twitch-stream)
- - [Venom: The Last Dance is in a toxic relationship with itself](https://www.polygon.com/review/469476/venom-3-the-last-dance-tom-hardy-knull)
- - [The All-Digital PS5 Might Be The Least Popular Console Of All](https://kotaku.com/ps5-5-pro-disc-physical-xbox-series-x-s-sales-digital-1851679873)<!-- GAME:END -->
+ - [Blizzard coins &#39;Meat or Treat&#39; for Diablo 4&#39;s upcoming Halloween event and I refuse to say it like that](https://www.pcgamer.com/games/rpg/blizzard-coins-meat-or-treat-for-diablo-4s-upcoming-halloween-event-and-i-refuse-to-say-it-like-that)
+ - [How one of YouTube’s biggest ASMRtists created her shot-for-shot Shrek remake](https://www.polygon.com/youtube/469454/gibi-asmr-shrek-remake-youtube)
+ - [An anime catboy just taught Bernie Sanders what vtubers are during a Twitch stream](https://www.pcgamer.com/gaming-industry/an-anime-catboy-just-taught-bernie-sanders-what-vtubers-are-during-a-twitch-stream)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
