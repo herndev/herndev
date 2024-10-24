@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Ayaneo is desperate for you to feel the hype for its upcoming handheld, declaring &#39;The future has arrived&#39;](https://www.pcgamer.com/hardware/ayaneo-3-announced-and-not-much-else)
  - [For Halloween, No Man&#39;s Sky is going full-blown cosmic horror for a fortnight](https://www.pcgamer.com/games/sim/for-halloween-no-mans-sky-is-going-full-blown-cosmic-horror-for-a-fortnight)
- - [Today&#39;s Wordle answer for Thursday, October 24](https://www.pcgamer.com/games/puzzle/wordle-answer-today-october-24-2024)
- - [&lpar;For Southeast Asia&rpar; An Open Beta Test for “Monster Hunter Wilds” has been announced! A deeper look into the newly revealed trailer #5!](https://blog.playstation.com/2024/10/23/20241024-mhw/)<!-- GAME:END -->
+ - [Today&#39;s Wordle answer for Thursday, October 24](https://www.pcgamer.com/games/puzzle/wordle-answer-today-october-24-2024)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
