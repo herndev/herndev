@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Cursed gumball](http://9gag.com/gag/aD2gW1N)
- - ⏩ [Trapped in a blizzard. Do you know what to do next to sutvive?](http://9gag.com/gag/awyoAnD)
- - 👉 [Process server. Paid to hand someone documents.](http://9gag.com/gag/axy710b)<!-- MEMES:END -->
+ - 💣 [Behold.... The iron keg](http://9gag.com/gag/aQz1R7W)
+ - ⏩ [This video is 15 years old but still relevant...](http://9gag.com/gag/a9yRroL)
+ - 👉 [Red Carpet Service](http://9gag.com/gag/aQz1Mxw)<!-- MEMES:END -->
 
 ---
 
