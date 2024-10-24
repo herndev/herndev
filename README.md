@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Free Play Days – MLB The Show 24, Under the Waves and Fallout 76](https://news.xbox.com/en-us/2024/10/24/free-play-days-24-10-24/)
- - [With Ohtani Fever In Full Swing, One Piece Delays Its Season Premiere To Make Room For The World Series](https://kotaku.com/one-piece-anime-delayed-world-series-shohei-ohtani-mlb-1851680242)
- - [&#39;I was hopeful&#39;: one lucky shopper ordered an RTX 4070 Super from Amazon for $40 and it wasn&#39;t just a rock in a box](https://www.pcgamer.com/hardware/graphics-cards/i-was-hopeful-one-lucky-shopper-ordered-an-rtx-4070-super-from-amazon-for-usd40-and-it-wasnt-just-a-rock-in-a-box)<!-- GAME:END -->
+ - [Exploring the &#39;twisted road&#39; of Irrational&#39;s doomed XCOM game—from fighting aliens &#39;the size of entire city blocks&#39; to a multiplayer mode where you could be the aliens](https://www.pcgamer.com/games/action/exploring-the-twisted-road-of-irrationals-doomed-xcom-game-from-fighting-aliens-the-size-of-entire-city-blocks-to-a-multiplayer-mode-where-you-could-be-the-aliens)
+ - [Final Fantasy VII&#39;s Biggest Skip Ever Lets You &#39;Save&#39; Aerith Without Cheats](https://kotaku.com/final-fantasy-vii-aerith-cheat-speedrun-sephiroth-ff7-1851680275)
+ - [Blizzard announces Warcraft 30th Anniversary Direct, teases that you won&#39;t want to miss &#39;a single surprise&#39;](https://www.pcgamer.com/games/world-of-warcraft/blizzard-announces-warcraft-30th-anniversary-direct-teases-that-you-wont-want-to-miss-a-single-surprise)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
