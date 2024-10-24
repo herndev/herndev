@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Sony&amp;#8217;s first OLED gaming monitor is fast, but not the right fit for most gamers](https://www.polygon.com/review/469727/sony-inzone-m10s-oled-pc-ps5-gaming-monitor)
- - [Here&#39;s Our Fave Cosplay From NYCC 2024](https://kotaku.com/nycc-cosplay-costume-best-new-york-comic-con-2024-1851680217)
- - [A Destiny 2 Conspiracy Theory Gets To The Heart Of Its Biggest Loot Problem](https://kotaku.com/a-destiny-2-conspiracy-theory-gets-to-the-heart-of-its-1851680514)<!-- GAME:END -->
+ - [Creating Yooka-Replaylee – Our Vision for a Truly Modern Mascot Platformer](https://news.xbox.com/en-us/2024/10/24/yooka-replaylee-a-truly-modern-mascot-platformer/)
+ - [Agatha All Along’s Latest Episode Is Its Best Yet](https://kotaku.com/agatha-all-along-marvel-disney-episode-7-death-reveal-1851680675)
+ - [&#39;It is an affront to God&#39;: Fans react with horror and delight as Monster Hunter Wilds unveils its nastiest freak yet](https://www.pcgamer.com/games/rpg/it-is-an-affront-to-god-fans-react-with-horror-and-delight-as-monster-hunter-wilds-unveils-its-nastiest-freak-yet)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
