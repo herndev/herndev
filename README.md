@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Raspberry Pi unveils the Raspberry Pi AI HAT+ in 13 and 26 TOPS versions in partnership with Hailo, after announcing branded SSDs, micro SD cards, and a bumper &lpar;Les Pounder/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/241024/p14#a241024p14)
- - [Judges and Border Police Targeted by Anti-Government Extremists, Doxed as ‘Traitors’](https://www.wired.com/story/judges-border-police-targeted-extremism/)
- - [The Irish Data Protection Commission fines LinkedIn &amp;euro;310M over using personal data for behavioral analysis and targeted ads under GDPR, after a 2018 complaint &lpar;Ian Curran/The Irish Times&rpar;](http://www.techmeme.com/241024/p13#a241024p13)<!-- TECH:END -->
+ - [Apple Watch display tech hints at iPhone ProMotion upgrade](https://appleinsider.com/articles/24/10/24/apple-watch-display-tech-hints-at-iphone-promotion-upgrade?utm_medium=rss)
+ - [The UK CMA opens a formal probe into Google&#39;s Anthropic partnership, sets a December 19 deadline; Google planned to invest $2B in 2023 and signed a cloud deal &lpar;Katharine Gemmell/Bloomberg&rpar;](http://www.techmeme.com/241024/p19#a241024p19)
+ - [I’ve tried Apple’s Google Lens rival on iOS 18.2, here’s how it works](https://www.androidauthority.com/visual-intelligence-on-ios-18-2-3493711/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
