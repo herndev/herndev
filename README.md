@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Emotional damage](http://9gag.com/gag/aZZ7g2X)
- - ⏩ [Biker music](http://9gag.com/gag/aQz1e0r)
- - 👉 [Cheers to the guy working on the captions](http://9gag.com/gag/ayNoDyr)<!-- MEMES:END -->
+ - 💣 [South African truck driver is shot at by roadside bandits](http://9gag.com/gag/a34RKrN)
+ - ⏩ [Someone stop him](http://9gag.com/gag/aqyg1Z7)
+ - 👉 [Process server. Paid to hand someone documents.](http://9gag.com/gag/axy710b)<!-- MEMES:END -->
 
 ---
 
