@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Overwatch 2 is officially bringing back 6v6 in testing this December](https://www.theverge.com/2024/10/24/24278781/overwatch-2-season-14-6v6-test)
- - [How ‘free’ is a free phone? We’ve done the math, so you don’t have to](https://www.androidauthority.com/how-free-is-a-free-phone-3493368/)
- - [You have until tomorrow to save $150 on Bose QuietComfort Ultra &lpar;refurbished&rpar;](https://www.androidauthority.com/bose-quietcomfort-ultra-refurbished-deal-3493921/)<!-- TECH:END -->
+ - [Notion is making a super customizable email app](https://www.theverge.com/2024/10/24/24278848/notion-super-customizable-email-app)
+ - [Google Calendar looks like it’s swallowing up the Tasks app &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-calendar-tasks-3494000/)
+ - [There’s a new web browser for Wear OS and this one doesn’t suck](https://www.androidauthority.com/new-wear-os-browser-3494001/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
