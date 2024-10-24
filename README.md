@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Say my name](http://9gag.com/gag/aKGdjB3)
- - ⏩ [I bet it is wet and slippery](http://9gag.com/gag/aGyge2n)
- - 👉 [Someone stop him](http://9gag.com/gag/aqyg1Z7)<!-- MEMES:END -->
+ - 💣 [Probably best to wear a seatbelt at all times?](http://9gag.com/gag/aMVY8M1)
+ - ⏩ [Saw machine detects contact with skin and reacts within 0,02 ms](http://9gag.com/gag/aRB0jW7)
+ - 👉 [At a drive-thru](http://9gag.com/gag/aLn08xA)<!-- MEMES:END -->
 
 ---
 
