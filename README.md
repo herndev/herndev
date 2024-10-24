@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Saw machine detects contact with skin and reacts within 0,02 ms](http://9gag.com/gag/aRB0jW7)
- - ⏩ [Am I wrong thogh](http://9gag.com/gag/a6ZNMKL)
- - 👉 [Emotional damage](http://9gag.com/gag/aZZ7g2X)<!-- MEMES:END -->
+ - 💣 [An ordinary morning on the Tokyo subway](http://9gag.com/gag/a7owD1m)
+ - ⏩ [This video is 15 years old but still relevant...](http://9gag.com/gag/a9yRroL)
+ - 👉 [Red Carpet Service](http://9gag.com/gag/aQz1Mxw)<!-- MEMES:END -->
 
 ---
 
