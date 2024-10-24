@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google’s long-awaited casting feature is here but not for the device we want &lpar;Update: Rolling out&rpar;](https://www.androidauthority.com/pixel-tablet-cast-nearby-devices-launch-3490229/)
- - [Google Photos goes official with its tool to spot AI-edited images](https://www.androidauthority.com/google-photos-ai-info-section-3493930/)
- - [AirPods Pro 2 receive support for Hearing Health features with new firmware update](https://appleinsider.com/articles/24/10/24/airpods-pro-2-receive-support-for-hearing-health-features-with-new-firmware-update?utm_medium=rss)<!-- TECH:END -->
+ - [Overwatch 2 is officially bringing back 6v6 in testing this December](https://www.theverge.com/2024/10/24/24278781/overwatch-2-season-14-6v6-test)
+ - [How ‘free’ is a free phone? We’ve done the math, so you don’t have to](https://www.androidauthority.com/how-free-is-a-free-phone-3493368/)
+ - [You have until tomorrow to save $150 on Bose QuietComfort Ultra &lpar;refurbished&rpar;](https://www.androidauthority.com/bose-quietcomfort-ultra-refurbished-deal-3493921/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
