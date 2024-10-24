@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Oxygen OS 15 brings reflection removal and more AI tricks to OnePlus phones](https://www.androidauthority.com/oneplus-oxygen-os-15-ai-features-3493183/)
- - [Oxygen OS 15 brings one of OnePlus’s best multitasking feature to more devices](https://www.androidauthority.com/oxygen-os-15-oneplus-open-canvas-wider-availability-3493192/)
- - [Apple adds an iMessage child safety feature in iOS 18.2 developer beta in Australia that will let children report nudity sent to them to Apple &lpar;Josh Taylor/The Guardian&rpar;](http://www.techmeme.com/241024/p23#a241024p23)<!-- TECH:END -->
+ - [Galaxy Z Fold 7 leak hints that it could come in two flavors](https://www.androidauthority.com/galaxy-z-fold-7-codenames-3493861/)
+ - [How the US could sabotage global climate goals](https://www.theverge.com/2024/10/24/24278402/us-presidential-election-trump-united-nations-climate-change-report)
+ - [Anthropic launches an analysis tool to help Claude write and run JavaScript code, perform calculations, and analyze data from files, in preview &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/241024/p25#a241024p25)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
