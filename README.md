@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How the US and Nigeria wrestled over Binance executive Tigran Gambaryan&#39;s detention in February 2024, which US officials said hurt the two allies&#39; relationship &lpar;New York Times&rpar;](http://www.techmeme.com/241024/p21#a241024p21)
- - [Google Calendar gets a redesign and dark mode](https://www.theverge.com/2024/10/24/24278419/google-calendar-web-dark-mode)
- - [The best Xbox controller to buy right now](https://www.theverge.com/23025443/best-xbox-controllers-one-series-x-s)<!-- TECH:END -->
+ - [Oxygen OS 15 brings reflection removal and more AI tricks to OnePlus phones](https://www.androidauthority.com/oneplus-oxygen-os-15-ai-features-3493183/)
+ - [Oxygen OS 15 brings one of OnePlus’s best multitasking feature to more devices](https://www.androidauthority.com/oxygen-os-15-oneplus-open-canvas-wider-availability-3493192/)
+ - [Apple adds an iMessage child safety feature in iOS 18.2 developer beta in Australia that will let children report nudity sent to them to Apple &lpar;Josh Taylor/The Guardian&rpar;](http://www.techmeme.com/241024/p23#a241024p23)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
