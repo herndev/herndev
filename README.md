@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Cursed gumball](http://9gag.com/gag/aD2gW1N)
- - ⏩ [Don\u2019t judge a book by its cover](http://9gag.com/gag/a8753n6)
- - 👉 [Trapped in a blizzard. Do you know what to do next to sutvive?](http://9gag.com/gag/awyoAnD)<!-- MEMES:END -->
+ - 💣 [Say my name](http://9gag.com/gag/aKGdjB3)
+ - ⏩ [I bet it is wet and slippery](http://9gag.com/gag/aGyge2n)
+ - 👉 [Someone stop him](http://9gag.com/gag/aqyg1Z7)<!-- MEMES:END -->
 
 ---
 
