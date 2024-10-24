@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Galaxy Z Fold 7 leak hints that it could come in two flavors](https://www.androidauthority.com/galaxy-z-fold-7-codenames-3493861/)
- - [How the US could sabotage global climate goals](https://www.theverge.com/2024/10/24/24278402/us-presidential-election-trump-united-nations-climate-change-report)
- - [Anthropic launches an analysis tool to help Claude write and run JavaScript code, perform calculations, and analyze data from files, in preview &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/241024/p25#a241024p25)<!-- TECH:END -->
+ - [Meet the Far-Right Constitutional Sheriffs Ready to Assert Control if Trump Loses](https://www.wired.com/story/constitutional-sheriffs-election-denial/)
+ - [iOS is making permanently ditching the first-party app store easier than Android](https://www.androidauthority.com/apple-app-store-uninstall-3493741/)
+ - [A new iMessage safety feature prompts kids to report explicit images to Apple](https://www.theverge.com/2024/10/24/24278526/apple-imessage-safety-feature-prompts-kids-report-explicit-images)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
