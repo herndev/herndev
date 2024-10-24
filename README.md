@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Blizzard’s bringing back 6v6 Overwatch 2 in December to see how that whole thing goes](https://www.polygon.com/news/470043/overwatch-2-6v6-test-season-14-start-date)
- - [Venom: The Last Dance’s post-credits scene is all about the future](https://www.polygon.com/marvel/469466/venom-last-dance-post-credits-scenes-sequel)
- - [Dragon Age: The Veilguard&#39;s launch trailer brings a summer blockbuster vibe to BioWare&#39;s newest RPG](https://www.pcgamer.com/games/rpg/dragon-age-the-veilguards-launch-trailer-brings-a-summer-blockbuster-vibe-to-biowares-newest-rpg)<!-- GAME:END -->
+ - [A former Nvidia employee discovered the world&#39;s largest known prime number and all it took was some free software and a few thousand datacenter GPUs](https://www.pcgamer.com/gaming-industry/a-former-nvidia-employee-discovered-the-worlds-largest-known-prime-number-and-all-it-took-was-some-free-software-and-a-few-thousand-datacenter-gpus)
+ - [Amazon’s Like A Dragon: Yakuza Is Already A Divisive Adaptation Of The Beloved Games](https://kotaku.com/like-a-dragon-yakuza-amazon-tv-show-reviews-roundup-1851680774)
+ - [Blizzard’s bringing back 6v6 Overwatch 2 in December to see how that whole thing goes](https://www.polygon.com/news/470043/overwatch-2-6v6-test-season-14-start-date)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
