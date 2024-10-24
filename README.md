@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [iOS 18.2 beta 1 introduces a new Apple Sudoku game, but there’s a catch](https://www.androidauthority.com/ios-18-2-beta-1-sudoku-3493611/)
- - [Star Trek: Section 31 — Release date, plot, and more](https://www.androidauthority.com/star-trek-section-31-release-date-3493333/)
- - [Best Speakerphone in 2024 for Working From Home](https://www.cnet.com/tech/mobile/best-speakerphone/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Samsung’s latest mid-range chip is here, and it’s a huge upgrade for Galaxy A phones](https://www.androidauthority.com/samsung-exynos-1580-3493623/)
+ - [Both the Harris and Trump campaigns are using TikTok to reach Gen Z; CredoIQ: viral conservative content surpassed progressive content at the start of October &lpar;Hannah Murphy/Financial Times&rpar;](http://www.techmeme.com/241024/p8#a241024p8)
+ - [At an event in Mumbai, Nvidia announces tie-ups with Indian companies including Reliance Industries, and launches a 4B-parameter small language model for Hindi &lpar;Reuters&rpar;](http://www.techmeme.com/241024/p7#a241024p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
