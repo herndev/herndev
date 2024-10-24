@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google continues revamping ‘Do Not Disturb’ for Android 16 with new ‘Modes’](https://www.androidauthority.com/android-16-modes-feature-leak-3493455/)
- - [Crypto super PAC Fairshake, a rare bipartisan PAC, plans to deploy $40M+ in the final weeks of the 2024 US elections, after already deploying $140M &lpar;Bloomberg&rpar;](http://www.techmeme.com/241024/p2#a241024p2)
- - [Document: Guangzhou, China-based self-driving startup WeRide files for a Nasdaq IPO, planning to raise up to $119.4M &lpar;Reuters&rpar;](http://www.techmeme.com/241024/p1#a241024p1)<!-- TECH:END -->
+ - [YouTube could soon make it easier to stop binging past your bedtime &lpar;APK teardown&rpar;](https://www.androidauthority.com/youtube-app-bedtime-reminders-apk-teardown-3493572/)
+ - [Insight and Info: China&#39;s leading EDA companies for chip design, Empyrean Technology, Primarius, and Semitronix, had less than 2% of global market share in 2023 &lpar;Financial Times&rpar;](http://www.techmeme.com/241024/p5#a241024p5)
+ - [Glassnode data shows the number of bitcoin whales, network entities holding at least 1,000 bitcoin, has jumped to 1,678, the highest level since January 2021 &lpar;Omkar Godbole/CoinDesk&rpar;](http://www.techmeme.com/241024/p4#a241024p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
