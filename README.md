@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Soul Stalker: Can You Overcome Its Roguelike World Through Pure Skill?](https://news.xbox.com/en-us/2024/10/24/soul-stalker-can-you-overcome-its-roguelike-world-through-pure-skill/)
- - [John Wick Ran Out Of Money 24 Hours Before Filming, Then Eva Longoria Invested $6 Million](https://kotaku.com/john-wick-eva-longoria-investment-last-minute-24-hours-1851680461)
- - [Today&#39;s Google Doodle is an alarmingly compelling card game about defeating mankind&#39;s oldest enemy: The Moon](https://www.pcgamer.com/games/card-games/todays-google-doodle-is-an-alarmingly-compelling-card-game-about-defeating-mankinds-oldest-enemy-the-moon)<!-- GAME:END -->
+ - [Sony&amp;#8217;s first OLED gaming monitor is fast, but not the right fit for most gamers](https://www.polygon.com/review/469727/sony-inzone-m10s-oled-pc-ps5-gaming-monitor)
+ - [Here&#39;s Our Fave Cosplay From NYCC 2024](https://kotaku.com/nycc-cosplay-costume-best-new-york-comic-con-2024-1851680217)
+ - [A Destiny 2 Conspiracy Theory Gets To The Heart Of Its Biggest Loot Problem](https://kotaku.com/a-destiny-2-conspiracy-theory-gets-to-the-heart-of-its-1851680514)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
