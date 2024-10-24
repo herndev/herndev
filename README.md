@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [South African truck driver is shot at by roadside bandits](http://9gag.com/gag/a34RKrN)
- - ⏩ [Someone stop him](http://9gag.com/gag/aqyg1Z7)
- - 👉 [Process server. Paid to hand someone documents.](http://9gag.com/gag/axy710b)<!-- MEMES:END -->
+ - 💣 [Some fan redid a wicked poster to match the broadway show slightly covering the actresses eyes. She found it offensive. This was the internet response.](http://9gag.com/gag/a7owDew)
+ - ⏩ [Cursed gumball](http://9gag.com/gag/aD2gW1N)
+ - 👉 [Parents for no reason](http://9gag.com/gag/a9yRAe6)<!-- MEMES:END -->
 
 ---
 
