@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung’s latest mid-range chip is here, and it’s a huge upgrade for Galaxy A phones](https://www.androidauthority.com/samsung-exynos-1580-3493623/)
- - [Both the Harris and Trump campaigns are using TikTok to reach Gen Z; CredoIQ: viral conservative content surpassed progressive content at the start of October &lpar;Hannah Murphy/Financial Times&rpar;](http://www.techmeme.com/241024/p8#a241024p8)
- - [At an event in Mumbai, Nvidia announces tie-ups with Indian companies including Reliance Industries, and launches a 4B-parameter small language model for Hindi &lpar;Reuters&rpar;](http://www.techmeme.com/241024/p7#a241024p7)<!-- TECH:END -->
+ - [Google Photos could soon tell you if an image is AI-generated &lpar;Updated: Here’s how it’ll look&rpar;](https://www.androidauthority.com/google-photos-ai-generated-image-metadata-apk-teardown-3489044/)
+ - [As Kroger and Walmart roll out electronic shelf labels, US lawmakers worry that the tech could allow for dynamic pricing; both deny plans to add dynamic pricing &lpar;Sara Ruberg/New York Times&rpar;](http://www.techmeme.com/241024/p10#a241024p10)
+ - [Google, Microsoft, and Perplexity Are Promoting Scientific Racism in Search Results](https://www.wired.com/story/google-microsoft-perplexity-scientific-racism-search-results-ai/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
