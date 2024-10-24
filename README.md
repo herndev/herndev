@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Trapped in a blizzard. Do you know what to do next to sutvive?](http://9gag.com/gag/awyoAnD)
- - ⏩ [Groom learned Korean secretly to surprise his wife in the weeding](http://9gag.com/gag/aPAR95g)
- - 👉 [Behold.... The iron keg](http://9gag.com/gag/aQz1R7W)<!-- MEMES:END -->
+ - 💣 [Yeah right..](http://9gag.com/gag/aryo5XX)
+ - ⏩ [Those unrealistic body standards!](http://9gag.com/gag/axy71rK)
+ - 👉 [Someone stop him](http://9gag.com/gag/aqyg1Z7)<!-- MEMES:END -->
 
 ---
 
