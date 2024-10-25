@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The 5 Key Things You Need to Know About MechWarrior 5: Clans](https://news.xbox.com/en-us/2024/10/25/5-key-things-know-about-mechwarrior-5-clans/)
- - [2024&#39;s Top Selling Game Adds A Generative AI Tool In Its Latest Big Update](https://kotaku.com/ea-college-football-title-update-october-ai-patch-notes-1851681679)
- - [The Best Trap In Each Saw Movie](https://kotaku.com/saw-movies-best-traps-jigsaw-john-kramer-tobin-bell-1851681680)<!-- GAME:END -->
+ - [Mountain Dew, Doritos, and Rockstar Energy Drink Are Giving Away Epic Gaming Rewards](https://news.xbox.com/en-us/2024/10/25/mountain-dew-doritos-and-rockstar-energy-drink-are-giving-away-epic-gaming-rewards/)
+ - [Erika Ishii, Aabria Iyengar, and Felicia Day answer twenty &lpar;sided&rpar; questions](https://www.polygon.com/videos/470082/erika-ishii-aabria-iyengar-felicia-day-interview)
+ - [Major Team Fortress 2 update finally fixes the Scout’s pants](https://www.polygon.com/gaming/470407/team-fortress-2-update-blue-scout-pants-valve)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
