@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Next Week on Xbox: New Games for October 28 to November 1](https://news.xbox.com/en-us/2024/10/25/next-week-on-xbox-new-games-for-october-28-to-november-1/)
- - [Dead Rising Deluxe Remaster, As Told By Steam Reviews](https://kotaku.com/dead-rising-deluxe-remastered-steam-reviews-1851681173)
- - [For Humberly González, Star Wars Outlaws wasn’t a stepping stone, it was the dream](https://www.polygon.com/awards/469886/star-wars-outlaws-kay-actor-humberly-gonzalez-interview-game-awards-goty)<!-- GAME:END -->
+ - [ZERO Sievert review](https://www.pcgamer.com/games/roguelike/zero-sievert-review)
+ - [The Outlast Trials devs reveal more upcoming content for the end of the year after a &#39;cyber incident&#39; set them back](https://www.pcgamer.com/games/horror/the-outlast-trials-devs-reveal-more-upcoming-content-for-the-end-of-the-year-after-a-cyber-incident-set-them-back)
+ - [Silent Hill 2&#39;s new patch fixes its last patch in possible meta commentary on recursive horror](https://www.pcgamer.com/games/horror/silent-hill-2s-new-patch-fixes-its-last-patch-in-possible-meta-commentary-on-recursive-horror)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
