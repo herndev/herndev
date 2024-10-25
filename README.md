@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [You&#39;ve hit rock bottom if you get arrested in a Chuck E Cheese](http://9gag.com/gag/aPAR7NK)
- - ⏩ [If you know, you h0rny\u2026](http://9gag.com/gag/azx1mMK)
- - 👉 [Best friend stuff](http://9gag.com/gag/a4PRE61)<!-- MEMES:END -->
+ - 💣 [A thing of beauty is a joy forever](http://9gag.com/gag/a9yREPD)
+ - ⏩ [That&#39;s like listening to a homeless person give you financial advice](http://9gag.com/gag/aQz1R2z)
+ - 👉 [The best way to go out \ud83d\ude14](http://9gag.com/gag/aQz1o3d)<!-- MEMES:END -->
 
 ---
 
