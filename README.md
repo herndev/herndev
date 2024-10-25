@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Adobe execs say artists need to embrace AI or get left behind](https://www.theverge.com/2024/10/25/24278715/adobe-artists-embrace-generative-ai-creative-community)
- - [Q&amp;A with Reddit CEO Steve Huffman on AI slop, the company&#39;s partnerships with Google and OpenAI, content moderation during an election year, and more &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/241025/p7#a241025p7)
- - [New Macs, new iOS 18.2, and debunked Apple rumors, on the AppleInsider Podcast](https://appleinsider.com/articles/24/10/25/new-macs-new-ios-182-and-debunked-apple-rumors-on-the-appleinsider-podcast?utm_medium=rss)<!-- TECH:END -->
+ - [Even Realities G1 Smart Glasses Review: Superb Display, But Slow Info](https://www.wired.com/review/review-even-realities-g1-smart-glasses/)
+ - [Amazon’s Like a Dragon works better as a mob drama than a Yakuza adaptation](https://www.theverge.com/2024/10/25/24278893/amazon-like-a-dragon-yakuza-prime-tv)
+ - [A look at the dispute between Arm and Qualcomm, whose relationship soured after Qualcomm became one of the main opponents to Nvidia&#39;s attempted Arm acquisition &lpar;Richard Waters/Financial Times&rpar;](http://www.techmeme.com/241025/p9#a241025p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
