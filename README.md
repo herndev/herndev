@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The perfect Halloween pumpkin doesn&#39;t exi.... oh wait.](http://9gag.com/gag/azx19zb)
- - ⏩ [Schizo Ross](http://9gag.com/gag/aO807YD)
- - 👉 [Stupid Sexy Halloween](http://9gag.com/gag/aZZ7yWW)<!-- MEMES:END -->
+ - 💣 [Can&#39;t figure out why he was fired as a journalist](http://9gag.com/gag/aVv0wNv)
+ - ⏩ [Bro escape from matrix](http://9gag.com/gag/aMVYA36)
+ - 👉 [Up there with Dorn&#39;s skeleton hand](http://9gag.com/gag/a0eRKOO)<!-- MEMES:END -->
 
 ---
 
