@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [An ordinary morning on the Tokyo subway](http://9gag.com/gag/a7owD1m)
- - ⏩ [Emotional damage](http://9gag.com/gag/aZZ7g2X)
- - 👉 [Behold.... The iron keg](http://9gag.com/gag/aQz1R7W)<!-- MEMES:END -->
+ - 💣 [The perfect Halloween pumpkin doesn&#39;t exi.... oh wait.](http://9gag.com/gag/azx19zb)
+ - ⏩ [Schizo Ross](http://9gag.com/gag/aO807YD)
+ - 👉 [Stupid Sexy Halloween](http://9gag.com/gag/aZZ7yWW)<!-- MEMES:END -->
 
 ---
 
