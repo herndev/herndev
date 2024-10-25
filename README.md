@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [A thing of beauty is a joy forever](http://9gag.com/gag/a9yREPD)
- - ⏩ [That&#39;s like listening to a homeless person give you financial advice](http://9gag.com/gag/aQz1R2z)
- - 👉 [The best way to go out \ud83d\ude14](http://9gag.com/gag/aQz1o3d)<!-- MEMES:END -->
+ - 💣 [That&#39;s like listening to a homeless person give you financial advice](http://9gag.com/gag/aQz1R2z)
+ - ⏩ [Imagine taking a picture of this thinking the note writer is unreasonable.](http://9gag.com/gag/avyoo1X)
+ - 👉 [A thing of beauty is a joy forever](http://9gag.com/gag/a9yREPD)<!-- MEMES:END -->
 
 ---
 
