@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The next Helldivers 2 Warbond is going full baddies mode with armor and weaponry from the Ministry of Truth](https://www.pcgamer.com/games/third-person-shooter/the-next-helldivers-2-warbond-is-going-full-baddies-mode-with-armor-and-weaponry-from-the-ministry-of-truth)
- - [Kotaku&#39;s Weekend Guide: 5 New Games We Can&#39;t Wait To Escape Into](https://kotaku.com/kotaku-weekend-guide-call-of-duty-blops-6-sonic-shadow-1851681728)
- - [Tom Holland&#39;s Spider-Man 4 Is Coming In 2026](https://kotaku.com/spider-man-4-avengers-doomsday-tom-holland-release-date-1851681957)<!-- GAME:END -->
+ - [Magic: The Gathering’s Final Fantasy reveal arrives with big changes for the beloved TCG](https://www.polygon.com/mtg-magic-the-gathering/470491/final-fantasy-art-reveal-universes-beyond-standard-legal-announcement)
+ - [Transformers One, Trap, Netflix’s Don’t Move, and every movie new to streaming this week](https://www.polygon.com/entertainment/467855/new-movies-watch-streaming-transformers-one-trap-netflix-dont-move)
+ - [This surrealist horror game made entirely in PowerPoint will get your Halloween started right](https://www.pcgamer.com/games/horror/this-surrealist-horror-game-made-entirely-in-powerpoint-will-get-your-halloween-started-right)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
