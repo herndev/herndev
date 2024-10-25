@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Scout Motors mounts an electric comeback with new SUV and truck concepts](https://www.theverge.com/2024/10/24/24277692/scout-motors-suv-truck-ev-concept-announce-price-specs)
- - [Apple Intelligence bug bounty invites researchers to test its privacy claims](https://www.theverge.com/2024/10/24/24278881/apple-intelligence-bug-bounty-security-researchers-private-cloud-compute)
- - [Google’s latest Play Points perk could be its best yet](https://www.androidauthority.com/play-points-disney-hulu-3494044/)<!-- TECH:END -->
+ - [Filing: Microsoft puts an &quot;assessment of investing in bitcoin&quot; as a voting item for its December 10 shareholder meeting; its board recommends voting against it &lpar;MK Manoylov/The Block&rpar;](http://www.techmeme.com/241024/p35#a241024p35)
+ - [A new Galaxy S25 leak hints at ‘sparkling’ new colors for the S25 and S25 Plus](https://www.androidauthority.com/galaxy-s25-series-color-options-3494051/)
+ - [How to Keep Your Fridge Food Safe When Your Power is Out](https://www.cnet.com/how-to/how-to-keep-your-fridge-food-safe-when-your-power-is-out/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
