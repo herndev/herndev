@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [UnitedHealth says over 100M people had their data stolen in the February ransomware attack on Change Healthcare, the largest-ever US healthcare data breach &lpar;Lawrence Abrams/BleepingComputer&rpar;](http://www.techmeme.com/241025/p2#a241025p2)
- - [A US federal judge allows 150+ cases from school districts against Meta, Google, and Snap alleging their apps contributed to students&#39; mental health crisis &lpar;Isaiah Poritz/Bloomberg&rpar;](http://www.techmeme.com/241025/p1#a241025p1)
- - [Oxygen OS 15 adds a new Simple Mode that makes it easier to use your OnePlus phone](https://www.androidauthority.com/oxygenos-15-simple-mode-3494080/)<!-- TECH:END -->
+ - [This subtle Google Contacts change looks perfect for long names &lpar;Updated: Rolling out&rpar;](https://www.androidauthority.com/google-contacts-ui-3476405/)
+ - [An app update has broken casting from Spotify to Google Home speakers](https://www.androidauthority.com/google-home-spotify-issue-3494108/)
+ - [Today&#39;s NYT Mini Crossword Answers for Oct. 25](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-oct-25/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
