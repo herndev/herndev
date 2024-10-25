@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Oh Justin..](http://9gag.com/gag/a34Rwv3)
- - ⏩ [Not a smart move while street racing.](http://9gag.com/gag/an759BV)
- - 👉 [You&#39;ve hit rock bottom if you get arrested in a Chuck E Cheese](http://9gag.com/gag/aPAR7NK)<!-- MEMES:END -->
+ - 💣 [Karma Strikes Back - FAFO At Its Best](http://9gag.com/gag/an7542b)
+ - ⏩ [Those unrealistic body standards!](http://9gag.com/gag/axy71rK)
+ - 👉 [This is for all the 9gag virgins](http://9gag.com/gag/apR5N38)<!-- MEMES:END -->
 
 ---
 
