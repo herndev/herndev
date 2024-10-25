@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Here I got you this](http://9gag.com/gag/aMVYZPR)
- - ⏩ [Heh, your blade is dull buddy.. check your ballz.](http://9gag.com/gag/aAygDnL)
- - 👉 [Twice for good measure](http://9gag.com/gag/azx1Xnx)<!-- MEMES:END -->
+ - 💣 [Up there with Dorn&#39;s skeleton hand](http://9gag.com/gag/a0eRKOO)
+ - ⏩ [Husband creates a high-end restaurant experience for his wife](http://9gag.com/gag/aKGddb3)
+ - 👉 [Nice](http://9gag.com/gag/aqygKyQ)<!-- MEMES:END -->
 
 ---
 
