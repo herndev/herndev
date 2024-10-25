@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Mountain Dew, Doritos, and Rockstar Energy Drink Are Giving Away Epic Gaming Rewards](https://news.xbox.com/en-us/2024/10/25/mountain-dew-doritos-and-rockstar-energy-drink-are-giving-away-epic-gaming-rewards/)
- - [Erika Ishii, Aabria Iyengar, and Felicia Day answer twenty &lpar;sided&rpar; questions](https://www.polygon.com/videos/470082/erika-ishii-aabria-iyengar-felicia-day-interview)
- - [Major Team Fortress 2 update finally fixes the Scout’s pants](https://www.polygon.com/gaming/470407/team-fortress-2-update-blue-scout-pants-valve)<!-- GAME:END -->
+ - [Survival Horror Gets Crafty in Outbreak: Shades of Horror Chromatic Split](https://news.xbox.com/en-us/2024/10/25/survival-horror-gets-crafty-in-outbreak-shades-of-horror-chromatic-split/)
+ - [Call of Duty: Black Ops 6 is effectively banned in Kuwait, so Activision is issuing refunds for pre-orders: &#39;We remain hopeful that local authorities will reconsider&#39;](https://www.pcgamer.com/games/fps/call-of-duty-black-ops-6-is-effectively-banned-in-kuwait-so-activision-is-issuing-refunds-for-pre-orders-we-remain-hopeful-that-local-authorities-will-reconsider)
+ - [How to solve all safehouse puzzles in Black Ops 6](https://www.polygon.com/black-ops-6-guides/470505/safehouse-puzzles-all-solutions-how-to-solve)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
