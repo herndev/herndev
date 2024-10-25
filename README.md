@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Diablo 4 Highest Tiers Of Difficulty Are Locked Behind A Whole Bunch Of Tasks](https://kotaku.com/diablo-4-blizzard-unlock-torment-difficulty-1851681151)
- - [Black Friday graphics card deals 2024: the big deals event is on the way and GPU deals are likely](https://www.pcgamer.com/black-friday-graphics-card-deals)
- - [In a world without filler episodes, The Legend of Vox Machina still makes space for crucial downtime](https://www.polygon.com/critical-role/469744/legend-vox-machina-season-3-review)<!-- GAME:END -->
+ - [Next Week on Xbox: New Games for October 28 to November 1](https://news.xbox.com/en-us/2024/10/25/next-week-on-xbox-new-games-for-october-28-to-november-1/)
+ - [Dead Rising Deluxe Remaster, As Told By Steam Reviews](https://kotaku.com/dead-rising-deluxe-remastered-steam-reviews-1851681173)
+ - [For Humberly González, Star Wars Outlaws wasn’t a stepping stone, it was the dream](https://www.polygon.com/awards/469886/star-wars-outlaws-kay-actor-humberly-gonzalez-interview-game-awards-goty)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
