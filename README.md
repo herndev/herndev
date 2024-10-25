@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Karma Strikes Back - FAFO At Its Best](http://9gag.com/gag/an7542b)
- - ⏩ [Those unrealistic body standards!](http://9gag.com/gag/axy71rK)
- - 👉 [This is for all the 9gag virgins](http://9gag.com/gag/apR5N38)<!-- MEMES:END -->
+ - 💣 [Don\u2019t judge a book by its cover](http://9gag.com/gag/a8753n6)
+ - ⏩ [You&#39;ve hit rock bottom if you get arrested in a Chuck E Cheese](http://9gag.com/gag/aPAR7NK)
+ - 👉 [If you know, you h0rny\u2026](http://9gag.com/gag/azx1mMK)<!-- MEMES:END -->
 
 ---
 
