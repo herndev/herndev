@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Generative AI is dividing RPG fans: Can AI really play Dungeons &amp; Dragons, and should it?](https://www.pcgamer.com/software/ai/generative-ai-is-dividing-rpg-fans-can-ai-really-play-dungeons-and-dragons-and-should-it)
  - [8 &#39;dead games&#39; that are still very much alive](https://www.pcgamer.com/games/8-dead-games-that-are-still-very-much-alive)
- - [A Destiny 2 Conspiracy Theory Gets To The Heart Of Its Biggest Loot Problem [Update: Bungie&#39;s Investigating]](https://kotaku.com/a-destiny-2-conspiracy-theory-gets-to-the-heart-of-its-1851680514)
- - [How to solve the piano puzzle in Black Ops 6](https://www.polygon.com/black-ops-6-guides/469805/piano-puzzle-solution-how-solve)<!-- GAME:END -->
+ - [A Destiny 2 Conspiracy Theory Gets To The Heart Of Its Biggest Loot Problem [Update: Bungie&#39;s Investigating]](https://kotaku.com/a-destiny-2-conspiracy-theory-gets-to-the-heart-of-its-1851680514)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
