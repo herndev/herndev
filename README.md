@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Husband creates a high-end restaurant experience for his wife](http://9gag.com/gag/aKGddb3)
- - ⏩ [That&#39;s like listening to a homeless person give you financial advice](http://9gag.com/gag/aQz1R2z)
- - 👉 [The moment he knew he phuked up](http://9gag.com/gag/aGygd1G)<!-- MEMES:END -->
+ - 💣 [One of my favourite Trump moments](http://9gag.com/gag/an75jwE)
+ - ⏩ [Heh, your blade is dull buddy.. check your ballz.](http://9gag.com/gag/aAygDnL)
+ - 👉 [If you know, you h0rny\u2026](http://9gag.com/gag/azx1mMK)<!-- MEMES:END -->
 
 ---
 
