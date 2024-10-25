@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Oxygen OS 15 adds a new Simple Mode that makes it easier to use your OnePlus phone](https://www.androidauthority.com/oxygenos-15-simple-mode-3494080/)
- - [Oxygen OS 15 brings OnePlus’ AI Toolkit features to more devices](https://www.androidauthority.com/oxygenos-15-ai-toolkit-features-3494061/)
- - [US Government Outlines Artificial Intelligence Guardrails in First Memorandum of Its Kind](https://www.cnet.com/tech/services-and-software/us-government-outlines-artificial-intelligence-guardrails-in-first-memorandum-of-its-kind/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [UnitedHealth says over 100M people had their data stolen in the February ransomware attack on Change Healthcare, the largest-ever US healthcare data breach &lpar;Lawrence Abrams/BleepingComputer&rpar;](http://www.techmeme.com/241025/p2#a241025p2)
+ - [A US federal judge allows 150+ cases from school districts against Meta, Google, and Snap alleging their apps contributed to students&#39; mental health crisis &lpar;Isaiah Poritz/Bloomberg&rpar;](http://www.techmeme.com/241025/p1#a241025p1)
+ - [Oxygen OS 15 adds a new Simple Mode that makes it easier to use your OnePlus phone](https://www.androidauthority.com/oxygenos-15-simple-mode-3494080/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
