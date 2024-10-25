@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Buy’s gaming sale including deals on the Asus ROG Ally and Scuf’s mobile controller](https://www.theverge.com/2024/10/25/24278489/ring-battery-doorbell-plus-deal-sale)
- - [How to Give Neurotic Losers the Main Character Treatment](https://www.wired.com/story/dial-up-tony-tulathimutte-best-book-of-2024/)
- - [Amazon quietly launches $849 M3 MacBook Air deal](https://appleinsider.com/articles/24/10/25/amazon-quietly-launches-849-m3-macbook-air-deal?utm_medium=rss)<!-- TECH:END -->
+ - [Apple trials app to manage a person&#39;s blood sugar levels](https://appleinsider.com/articles/24/10/25/apple-trials-app-to-manage-a-persons-blood-sugar-levels?utm_medium=rss)
+ - [Pixel Tablet and Nest speakers now sound a little different after latest update](https://www.androidauthority.com/pixel-tablet-nest-speaker-tone-change-3494337/)
+ - [How to choose which Apple Watch to buy](https://www.theverge.com/23037217/best-apple-watch-series-se-ultra)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
