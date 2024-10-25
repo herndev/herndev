@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The ending....](http://9gag.com/gag/avyoz1n)
- - ⏩ [That&#39;s a lot of damage](http://9gag.com/gag/adB5Kdj)
- - 👉 [Saw machine detects contact with skin and reacts within 0,02 ms](http://9gag.com/gag/aRB0jW7)<!-- MEMES:END -->
+ - 💣 [`Violated`](http://9gag.com/gag/aD2g4Zx)
+ - ⏩ [Imagine having to hide your kid from authorities for having an opinion - this world is f***ed](http://9gag.com/gag/aRB03GM)
+ - 👉 [You&#39;ve hit rock bottom if you get arrested in a Chuck E Cheese](http://9gag.com/gag/aPAR7NK)<!-- MEMES:END -->
 
 ---
 
