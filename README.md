@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Survival Horror Gets Crafty in Outbreak: Shades of Horror Chromatic Split](https://news.xbox.com/en-us/2024/10/25/survival-horror-gets-crafty-in-outbreak-shades-of-horror-chromatic-split/)
- - [Call of Duty: Black Ops 6 is effectively banned in Kuwait, so Activision is issuing refunds for pre-orders: &#39;We remain hopeful that local authorities will reconsider&#39;](https://www.pcgamer.com/games/fps/call-of-duty-black-ops-6-is-effectively-banned-in-kuwait-so-activision-is-issuing-refunds-for-pre-orders-we-remain-hopeful-that-local-authorities-will-reconsider)
- - [How to solve all safehouse puzzles in Black Ops 6](https://www.polygon.com/black-ops-6-guides/470505/safehouse-puzzles-all-solutions-how-to-solve)<!-- GAME:END -->
+ - [Why did Ubisoft send Prince of Persia: The Lost Crown out to die?](https://www.polygon.com/opinion/470613/prince-of-persia-lost-crown-ubisoft-team-disbanded-no-sequel)
+ - [Twitch’s changing guidelines could have a real economic impact on Vtubers](https://www.polygon.com/culture/470293/twitch-vtuber-tos-attire-guidelines-chastity-belt)
+ - [We Are Getting Two Predator Movies Next Year From Prey&#39;s Director](https://kotaku.com/predator-prey-2-badlands-secret-movie-animated-hulu-1851681811)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
