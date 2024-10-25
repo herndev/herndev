@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [South African truck driver is shot at by roadside bandits](http://9gag.com/gag/a34RKrN)
- - ⏩ [This is actually a smart move](http://9gag.com/gag/a9yRnqm)
- - 👉 [There was an attempt](http://9gag.com/gag/aqyggRv)<!-- MEMES:END -->
+ - 💣 [The ending....](http://9gag.com/gag/avyoz1n)
+ - ⏩ [That&#39;s a lot of damage](http://9gag.com/gag/adB5Kdj)
+ - 👉 [Saw machine detects contact with skin and reacts within 0,02 ms](http://9gag.com/gag/aRB0jW7)<!-- MEMES:END -->
 
 ---
 
