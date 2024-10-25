@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Mouse, keyboard or headset? Try to guess the Logitech product from the model name alone in our silly little quiz](https://www.pcgamer.com/hardware/mouse-keyboard-or-headset-try-to-guess-the-logitech-product-from-the-model-name-alone-in-our-silly-little-quiz)
- - [Intel&#39;s former CEO pushed for the chip maker to buy Nvidia for $20 billion in 2005—the GPU company is now worth $3.5 trillion](https://www.pcgamer.com/hardware/intels-former-ceo-pushed-for-the-chip-maker-to-buy-nvidia-for-usd20-billion-in-2005-the-gpu-company-is-now-worth-usd3-5-trillion)
- - [The most iconic, some would say best version of Windows was released 23 years ago today](https://www.pcgamer.com/software/windows/the-most-iconic-some-would-say-best-version-of-windows-was-released-23-years-ago-today)<!-- GAME:END -->
+ - [Call of Duty: Black Ops 6 is Officially Live Worldwide — Play Now!](https://www.callofduty.com/blog/2024/10/call-of-duty-black-ops-6-launch-comms-intel/#new_tab)
+ - [The boxing game that only exists because most big publishers won&#39;t touch the sport has now sold over a million copies](https://www.pcgamer.com/games/sports/the-boxing-game-that-only-exists-because-most-big-publishers-wont-touch-the-sport-has-now-sold-over-a-million-copies)
+ - [Deadlock adds 6 new heroes only available for veteran players, but none of that matters anymore because Valve has renamed Slork](https://www.pcgamer.com/games/moba/deadlock-adds-six-new-heroes-only-available-for-veteran-players-but-none-of-that-matters-anymore-because-valve-has-renamed-slork)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
