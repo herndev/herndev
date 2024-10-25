@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The recent ultra-violent RoboCop FPS that lets you atomise the skulls of criminal scum is going for a fraction of full price](https://www.pcgamer.com/games/adventure/the-recent-ultra-violent-robocop-fps-that-lets-you-atomise-the-skulls-of-criminal-scum-is-going-for-a-fraction-of-full-price)
- - [How to complete Sugar Rush in Disney Dreamlight Valley](https://www.pcgamer.com/games/life-sim/disney-dreamlight-valley-sugar-rush)
- - [How to complete A 3-Course Halloween Meal in Disney Dreamlight Valley](https://www.pcgamer.com/games/life-sim/disney-dreamlight-valley-a-3-course-halloween-meal)<!-- GAME:END -->
+ - [G.SKILL and Kingston break the 12,000MT/s DDR5 memory barrier with Intel&#39;s new Arrow Lake CPU](https://www.pcgamer.com/hardware/memory/g-skill-and-kingston-break-the-12-000mt-s-ddr5-memory-barrier-with-intels-new-arrow-lake-cpu)
+ - [Inspired modder makes Fruit Ninja but it&#39;s a Counter-Strike 2 aim trainer](https://www.pcgamer.com/games/fps/inspired-modder-makes-fruit-ninja-but-its-a-counter-strike-2-aim-trainer)
+ - [WoW stays true to form by dropping a $90 dinosaur mount during a controversial balance patch—and of course players are buying enough of them to gather in herds](https://www.pcgamer.com/games/world-of-warcraft/wow-stays-true-to-form-by-dropping-a-usd90-dinosaur-mount-during-a-controversial-balance-patch-and-of-course-players-are-buying-enough-of-them-to-gather-in-herds)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
