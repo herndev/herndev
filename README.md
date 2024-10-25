@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Elon Musk has been in regular contact with Vladimir Putin since late 2022; Putin asked Musk to not activate Starlink in Taiwan as a favor to Xi Jinping &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/241024/p40#a241024p40)
- - [How to banish annoyances in Safari with Distraction Control on Mac](https://appleinsider.com/articles/24/10/25/how-to-banish-annoyances-in-safari-with-distraction-control-on-mac?utm_medium=rss)
- - [Source: OpenAI plans to launch its next flagship model, codenamed Orion, by December, rolling it out in phases starting with the company&#39;s trusted partners &lpar;The Verge&rpar;](http://www.techmeme.com/241024/p39#a241024p39)<!-- TECH:END -->
+ - [Oxygen OS 15 adds a new Simple Mode that makes it easier to use your OnePlus phone](https://www.androidauthority.com/oxygenos-15-simple-mode-3494080/)
+ - [Oxygen OS 15 brings OnePlus’ AI Toolkit features to more devices](https://www.androidauthority.com/oxygenos-15-ai-toolkit-features-3494061/)
+ - [US Government Outlines Artificial Intelligence Guardrails in First Memorandum of Its Kind](https://www.cnet.com/tech/services-and-software/us-government-outlines-artificial-intelligence-guardrails-in-first-memorandum-of-its-kind/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
