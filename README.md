@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [When do Astro Bot’s speedrun DLC levels go live each week?](https://www.polygon.com/astro-bot-guides/466172/speedrun-dlc-levels-update-time-schedule)
  - [Today&#39;s Wordle answer for Friday, October 25](https://www.pcgamer.com/games/puzzle/wordle-answer-today-october-25-2024)
- - [Generative AI is dividing RPG fans: Can AI really play Dungeons &amp; Dragons, and should it?](https://www.pcgamer.com/software/ai/generative-ai-is-dividing-rpg-fans-can-ai-really-play-dungeons-and-dragons-and-should-it)
- - [8 &#39;dead games&#39; that are still very much alive](https://www.pcgamer.com/games/8-dead-games-that-are-still-very-much-alive)<!-- GAME:END -->
+ - [Generative AI is dividing RPG fans: Can AI really play Dungeons &amp; Dragons, and should it?](https://www.pcgamer.com/software/ai/generative-ai-is-dividing-rpg-fans-can-ai-really-play-dungeons-and-dragons-and-should-it)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
