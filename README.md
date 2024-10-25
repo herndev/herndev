@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [An ordinary morning on the Tokyo subway](http://9gag.com/gag/a7owD1m)
- - ⏩ [Hell to the no](http://9gag.com/gag/agm5nL6)
- - 👉 [Saw machine detects contact with skin and reacts within 0,02 ms](http://9gag.com/gag/aRB0jW7)<!-- MEMES:END -->
+ - 💣 [Hell to the no](http://9gag.com/gag/agm5nL6)
+ - ⏩ [Those unrealistic body standards!](http://9gag.com/gag/axy71rK)
+ - 👉 [Here I got you this](http://9gag.com/gag/aMVYZPR)<!-- MEMES:END -->
 
 ---
 
