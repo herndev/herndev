@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Modder adds something big that&#39;s been missing from Starfield: daily routines, schedules, and inner lives for NPCs](https://www.pcgamer.com/games/rpg/modder-adds-something-big-thats-been-missing-from-starfield-daily-routines-schedules-and-inner-lives-for-npcs)
- - [Borderlands fan with terminal illness asked to see Borderlands 4 early and Gearbox boss Randy Pitchford says &#39;we&#39;re going to do whatever we can to make something happen&#39;](https://www.pcgamer.com/games/fps/borderlands-fan-with-terminal-illness-asked-to-see-borderlands-4-early-and-gearbox-boss-randy-pitchford-says-were-going-to-do-whatever-we-can-to-make-something-happen)
- - [Do you want to go to Boston? Because CD Projekt is looking for people to come to its studio to help test some new stuff](https://www.pcgamer.com/games/rpg/do-you-want-to-go-to-boston-because-cd-projekt-is-looking-for-people-to-come-to-its-studio-to-help-test-some-new-stuff)<!-- GAME:END -->
+ - [8 &#39;dead games&#39; that are still very much alive](https://www.pcgamer.com/games/8-dead-games-that-are-still-very-much-alive)
+ - [A Destiny 2 Conspiracy Theory Gets To The Heart Of Its Biggest Loot Problem [Update: Bungie&#39;s Investigating]](https://kotaku.com/a-destiny-2-conspiracy-theory-gets-to-the-heart-of-its-1851680514)
+ - [How to solve the piano puzzle in Black Ops 6](https://www.polygon.com/black-ops-6-guides/469805/piano-puzzle-solution-how-solve)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
