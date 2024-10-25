@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple trials app to manage a person&#39;s blood sugar levels](https://appleinsider.com/articles/24/10/25/apple-trials-app-to-manage-a-persons-blood-sugar-levels?utm_medium=rss)
- - [Pixel Tablet and Nest speakers now sound a little different after latest update](https://www.androidauthority.com/pixel-tablet-nest-speaker-tone-change-3494337/)
- - [How to choose which Apple Watch to buy](https://www.theverge.com/23037217/best-apple-watch-series-se-ultra)<!-- TECH:END -->
+ - [Jeff Bezos reportedly killed the Washington Post’s Kamala Harris endorsement](https://www.theverge.com/2024/10/25/24279602/jeff-bezos-washington-post-kamala-harris-endorsement)
+ - [All the news about Scout Motors, a classic SUV brand gone electric](https://www.theverge.com/2024/10/25/24279566/scout-motors-a-classic-suv-brand-gone-electric)
+ - [Spatial content shot for Apple Vision Pro will soon be viewable in Safari](https://appleinsider.com/articles/24/10/25/spatial-content-shot-for-apple-vision-pro-will-soon-be-viewable-in-safari?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
