@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [The best way to go out \ud83d\ude14](http://9gag.com/gag/aQz1o3d)
- - ⏩ [What they&#39;ve seen, can not be unseen](http://9gag.com/gag/a0eR7oq)
- - 👉 [Remember this scene?](http://9gag.com/gag/aByg0ZZ)<!-- MEMES:END -->
+ - ⏩ [`Violated`](http://9gag.com/gag/aD2g4Zx)
+ - 👉 [10 is better than none](http://9gag.com/gag/azx193m)<!-- MEMES:END -->
 
 ---
 
