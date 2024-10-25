@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta signs its first big AI deal for news](https://www.theverge.com/2024/10/25/24279259/meta-reuters-ai-chatbot-deal-news-licensing-media)
- - [Perplexity CEO Aravind Srinivas says the AI-powered search engine now serves 100M queries each week; in July, Perplexity said it was serving 250M per month &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/241025/p14#a241025p14)
- - [Waymo just raised $5.6 billion to spread robotaxis to more cities](https://www.theverge.com/2024/10/25/24279330/waymo-funding-round-series-c-amount-alphabet)<!-- TECH:END -->
+ - [Leica’s new $23,000 film camera is platinum-plated and destined for collector shelves](https://www.theverge.com/2024/10/25/24279278/leica-m-edition-70-rangefinder-35mm-film-camera-platinum-special-edition)
+ - [A Neuralink Rival Says Its Eye Implant Restored Vision in Blind People](https://www.wired.com/story/science-corporation-neuralink-eye-implant-restored-vision-blind-people/)
+ - [Siri’s big ChatGPT upgrade is here — for better and worse](https://www.theverge.com/2024/10/25/24278716/siri-chat-gpt-ios-18-2-developer-beta-apple-intelligence)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
