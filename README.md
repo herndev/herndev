@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Don\u2019t judge a book by its cover](http://9gag.com/gag/a8753n6)
- - ⏩ [You&#39;ve hit rock bottom if you get arrested in a Chuck E Cheese](http://9gag.com/gag/aPAR7NK)
- - 👉 [If you know, you h0rny\u2026](http://9gag.com/gag/azx1mMK)<!-- MEMES:END -->
+ - 💣 [The best way to go out \ud83d\ude14](http://9gag.com/gag/aQz1o3d)
+ - ⏩ [What they&#39;ve seen, can not be unseen](http://9gag.com/gag/a0eR7oq)
+ - 👉 [Remember this scene?](http://9gag.com/gag/aByg0ZZ)<!-- MEMES:END -->
 
 ---
 
