@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [ZERO Sievert review](https://www.pcgamer.com/games/roguelike/zero-sievert-review)
- - [The Outlast Trials devs reveal more upcoming content for the end of the year after a &#39;cyber incident&#39; set them back](https://www.pcgamer.com/games/horror/the-outlast-trials-devs-reveal-more-upcoming-content-for-the-end-of-the-year-after-a-cyber-incident-set-them-back)
- - [Silent Hill 2&#39;s new patch fixes its last patch in possible meta commentary on recursive horror](https://www.pcgamer.com/games/horror/silent-hill-2s-new-patch-fixes-its-last-patch-in-possible-meta-commentary-on-recursive-horror)<!-- GAME:END -->
+ - [Mouse, keyboard or headset? Try to guess the Logitech product from the model name alone in our silly little quiz](https://www.pcgamer.com/hardware/mouse-keyboard-or-headset-try-to-guess-the-logitech-product-from-the-model-name-alone-in-our-silly-little-quiz)
+ - [Intel&#39;s former CEO pushed for the chip maker to buy Nvidia for $20 billion in 2005—the GPU company is now worth $3.5 trillion](https://www.pcgamer.com/hardware/intels-former-ceo-pushed-for-the-chip-maker-to-buy-nvidia-for-usd20-billion-in-2005-the-gpu-company-is-now-worth-usd3-5-trillion)
+ - [The most iconic, some would say best version of Windows was released 23 years ago today](https://www.pcgamer.com/software/windows/the-most-iconic-some-would-say-best-version-of-windows-was-released-23-years-ago-today)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
