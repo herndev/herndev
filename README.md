@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [OnePlus reveals OnePlus 13 cameras: Upgrade or downgrade? You decide](https://www.androidauthority.com/oneplus-13-camera-specs-3494107/)
- - [Next iPad mini rumored to get OLED, but you&#39;ll have to wait a while](https://appleinsider.com/articles/24/10/24/next-ipad-mini-to-have-oled-but-youll-have-to-wait-and-wait?utm_medium=rss)
- - [OnePlus launches Android 15-powered Oxygen OS 15, here’s what’s new](https://www.androidauthority.com/oxygenos-15-3428400/)<!-- TECH:END -->
+ - [Chinese self-driving firm WeRide raised $120M in its US IPO at a $4.21B valuation, and sold 7.7M shares at $15.50 a piece, the lower end of its targeted range &lpar;Reuters&rpar;](http://www.techmeme.com/241025/p5#a241025p5)
+ - [Best Portable Grills of 2024, Tested and Reviewed](https://www.cnet.com/home/yard-and-outdoors/best-portable-grill/#ftag=CAD590a51e)
+ - [Best Internet Providers in Valrico, Florida](https://www.cnet.com/home/internet/best-internet-providers-in-valrico-fl/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
