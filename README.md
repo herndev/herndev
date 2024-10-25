@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Call of Duty: Black Ops 6 is Officially Live Worldwide — Play Now!](https://www.callofduty.com/blog/2024/10/call-of-duty-black-ops-6-launch-comms-intel/#new_tab)
- - [The boxing game that only exists because most big publishers won&#39;t touch the sport has now sold over a million copies](https://www.pcgamer.com/games/sports/the-boxing-game-that-only-exists-because-most-big-publishers-wont-touch-the-sport-has-now-sold-over-a-million-copies)
- - [Deadlock adds 6 new heroes only available for veteran players, but none of that matters anymore because Valve has renamed Slork](https://www.pcgamer.com/games/moba/deadlock-adds-six-new-heroes-only-available-for-veteran-players-but-none-of-that-matters-anymore-because-valve-has-renamed-slork)<!-- GAME:END -->
+ - [The 5 Key Things You Need to Know About MechWarrior 5: Clans](https://news.xbox.com/en-us/2024/10/25/5-key-things-know-about-mechwarrior-5-clans/)
+ - [2024&#39;s Top Selling Game Adds A Generative AI Tool In Its Latest Big Update](https://kotaku.com/ea-college-football-title-update-october-ai-patch-notes-1851681679)
+ - [The Best Trap In Each Saw Movie](https://kotaku.com/saw-movies-best-traps-jigsaw-john-kramer-tobin-bell-1851681680)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
