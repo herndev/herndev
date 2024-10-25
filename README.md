@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Hell to the no](http://9gag.com/gag/agm5nL6)
- - ⏩ [Those unrealistic body standards!](http://9gag.com/gag/axy71rK)
- - 👉 [Here I got you this](http://9gag.com/gag/aMVYZPR)<!-- MEMES:END -->
+ - 💣 [An ordinary morning on the Tokyo subway](http://9gag.com/gag/a7owD1m)
+ - ⏩ [Emotional damage](http://9gag.com/gag/aZZ7g2X)
+ - 👉 [Behold.... The iron keg](http://9gag.com/gag/aQz1R7W)<!-- MEMES:END -->
 
 ---
 
