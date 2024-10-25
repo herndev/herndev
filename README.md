@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [The best way to go out \ud83d\ude14](http://9gag.com/gag/aQz1o3d)
- - ⏩ [`Violated`](http://9gag.com/gag/aD2g4Zx)
- - 👉 [10 is better than none](http://9gag.com/gag/azx193m)<!-- MEMES:END -->
+ - ⏩ [Those unrealistic body standards!](http://9gag.com/gag/axy71rK)
+ - 👉 [`Violated`](http://9gag.com/gag/aD2g4Zx)<!-- MEMES:END -->
 
 ---
 
