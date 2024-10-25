@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Leica’s new $23,000 film camera is platinum-plated and destined for collector shelves](https://www.theverge.com/2024/10/25/24279278/leica-m-edition-70-rangefinder-35mm-film-camera-platinum-special-edition)
- - [A Neuralink Rival Says Its Eye Implant Restored Vision in Blind People](https://www.wired.com/story/science-corporation-neuralink-eye-implant-restored-vision-blind-people/)
- - [Siri’s big ChatGPT upgrade is here — for better and worse](https://www.theverge.com/2024/10/25/24278716/siri-chat-gpt-ios-18-2-developer-beta-apple-intelligence)<!-- TECH:END -->
+ - [Best Buy’s gaming sale including deals on the Asus ROG Ally and Scuf’s mobile controller](https://www.theverge.com/2024/10/25/24278489/ring-battery-doorbell-plus-deal-sale)
+ - [How to Give Neurotic Losers the Main Character Treatment](https://www.wired.com/story/dial-up-tony-tulathimutte-best-book-of-2024/)
+ - [Amazon quietly launches $849 M3 MacBook Air deal](https://appleinsider.com/articles/24/10/25/amazon-quietly-launches-849-m3-macbook-air-deal?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
