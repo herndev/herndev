@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Video game preservationists have lost a legal fight to study games remotely](https://www.theverge.com/2024/10/25/24279657/us-copyright-dmca-exception-extension-denied-remote-access)
- - [Air taxis: the latest on the flying electric cars bringing the Jetsons dream to life](https://www.theverge.com/24279586/air-taxis-flying-electric-car-vtol-evtol)
- - [Sources: Google is aiming to release its Gemini 2.0 model in December; the model isn&#39;t showing the performance gains the Demis Hassabis-led team had hoped for &lpar;Alex Heath/The Verge&rpar;](http://www.techmeme.com/241025/p24#a241025p24)<!-- TECH:END -->
+ - [Google Calendar on the web catches up with Android with this fan-favorite feature](https://www.androidauthority.com/google-calendar-web-dark-mode-3494418/)
+ - [Hot deals: Samsung Galaxy Watch 7 and Ultra hit new record-low prices!](https://www.androidauthority.com/samsung-galaxy-watch-7-ultra-deals-3494401/)
+ - [Galaxy S25 series may not use Samsung’s best OLED panels](https://www.androidauthority.com/galaxy-s25-series-m13-oled-panels-3494409/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
