@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [One of my favourite Trump moments](http://9gag.com/gag/an75jwE)
- - ⏩ [Heh, your blade is dull buddy.. check your ballz.](http://9gag.com/gag/aAygDnL)
- - 👉 [If you know, you h0rny\u2026](http://9gag.com/gag/azx1mMK)<!-- MEMES:END -->
+ - 💣 [Up there with Dorn&#39;s skeleton hand](http://9gag.com/gag/a0eRKOO)
+ - ⏩ [Here I got you this](http://9gag.com/gag/aMVYZPR)
+ - 👉 [An ordinary morning on the Tokyo subway](http://9gag.com/gag/a7owD1m)<!-- MEMES:END -->
 
 ---
 
