@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [OceanGate Faces Federal Investigation a Year After the Titan Submersible Implosion](https://www.wired.com/story/oceangate-federal-investigation-titan-submersible-implosion/)
- - [Waymo closed a $5.6B Series C led by Alphabet to expand its robotaxi service in and beyond LA, San Francisco, and Phoenix, bringing its total funding to $11.1B &lpar;Lora Kolodny/CNBC&rpar;](http://www.techmeme.com/241025/p12#a241025p12)
- - [Replying to an X post linking to a report on OpenAI planning to launch its next frontier model Orion by December, Sam Altman says &quot;fake news out of control&quot; &lpar;Carl Franzen/VentureBeat&rpar;](http://www.techmeme.com/241025/p11#a241025p11)<!-- TECH:END -->
+ - [Meta signs its first big AI deal for news](https://www.theverge.com/2024/10/25/24279259/meta-reuters-ai-chatbot-deal-news-licensing-media)
+ - [Perplexity CEO Aravind Srinivas says the AI-powered search engine now serves 100M queries each week; in July, Perplexity said it was serving 250M per month &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/241025/p14#a241025p14)
+ - [Waymo just raised $5.6 billion to spread robotaxis to more cities](https://www.theverge.com/2024/10/25/24279330/waymo-funding-round-series-c-amount-alphabet)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
