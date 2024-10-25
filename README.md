@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [G.SKILL and Kingston break the 12,000MT/s DDR5 memory barrier with Intel&#39;s new Arrow Lake CPU](https://www.pcgamer.com/hardware/memory/g-skill-and-kingston-break-the-12-000mt-s-ddr5-memory-barrier-with-intels-new-arrow-lake-cpu)
- - [Inspired modder makes Fruit Ninja but it&#39;s a Counter-Strike 2 aim trainer](https://www.pcgamer.com/games/fps/inspired-modder-makes-fruit-ninja-but-its-a-counter-strike-2-aim-trainer)
- - [WoW stays true to form by dropping a $90 dinosaur mount during a controversial balance patch—and of course players are buying enough of them to gather in herds](https://www.pcgamer.com/games/world-of-warcraft/wow-stays-true-to-form-by-dropping-a-usd90-dinosaur-mount-during-a-controversial-balance-patch-and-of-course-players-are-buying-enough-of-them-to-gather-in-herds)<!-- GAME:END -->
+ - [Diablo 4 Highest Tiers Of Difficulty Are Locked Behind A Whole Bunch Of Tasks](https://kotaku.com/diablo-4-blizzard-unlock-torment-difficulty-1851681151)
+ - [Black Friday graphics card deals 2024: the big deals event is on the way and GPU deals are likely](https://www.pcgamer.com/black-friday-graphics-card-deals)
+ - [In a world without filler episodes, The Legend of Vox Machina still makes space for crucial downtime](https://www.polygon.com/critical-role/469744/legend-vox-machina-season-3-review)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
