@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [This Android skin has an AI that can order coffee and manage subscriptions](https://www.androidauthority.com/honor-magic-os-9-0-ai-agent-3493067/)
  - [This subtle Google Contacts change looks perfect for long names &lpar;Updated: Rolling out&rpar;](https://www.androidauthority.com/google-contacts-ui-3476405/)
- - [An app update has broken casting from Spotify to Google Home speakers](https://www.androidauthority.com/google-home-spotify-issue-3494108/)
- - [Today&#39;s NYT Mini Crossword Answers for Oct. 25](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-oct-25/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Internet Providers in Wausau, Wisconsin](https://www.cnet.com/home/internet/best-internet-providers-in-wausau-wi/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
