@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Even Realities G1 Smart Glasses Review: Superb Display, But Slow Info](https://www.wired.com/review/review-even-realities-g1-smart-glasses/)
- - [Amazon’s Like a Dragon works better as a mob drama than a Yakuza adaptation](https://www.theverge.com/2024/10/25/24278893/amazon-like-a-dragon-yakuza-prime-tv)
- - [A look at the dispute between Arm and Qualcomm, whose relationship soured after Qualcomm became one of the main opponents to Nvidia&#39;s attempted Arm acquisition &lpar;Richard Waters/Financial Times&rpar;](http://www.techmeme.com/241025/p9#a241025p9)<!-- TECH:END -->
+ - [OceanGate Faces Federal Investigation a Year After the Titan Submersible Implosion](https://www.wired.com/story/oceangate-federal-investigation-titan-submersible-implosion/)
+ - [Waymo closed a $5.6B Series C led by Alphabet to expand its robotaxi service in and beyond LA, San Francisco, and Phoenix, bringing its total funding to $11.1B &lpar;Lora Kolodny/CNBC&rpar;](http://www.techmeme.com/241025/p12#a241025p12)
+ - [Replying to an X post linking to a report on OpenAI planning to launch its next frontier model Orion by December, Sam Altman says &quot;fake news out of control&quot; &lpar;Carl Franzen/VentureBeat&rpar;](http://www.techmeme.com/241025/p11#a241025p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
