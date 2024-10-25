@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Calendar on the web catches up with Android with this fan-favorite feature](https://www.androidauthority.com/google-calendar-web-dark-mode-3494418/)
- - [Hot deals: Samsung Galaxy Watch 7 and Ultra hit new record-low prices!](https://www.androidauthority.com/samsung-galaxy-watch-7-ultra-deals-3494401/)
- - [Galaxy S25 series may not use Samsung’s best OLED panels](https://www.androidauthority.com/galaxy-s25-series-m13-oled-panels-3494409/)<!-- TECH:END -->
+ - [A US federal jury awards Apple $250, finding that Masimo&#39;s smartwatches infringed Apple Watch design patents; Apple sought statutory minimum damages &lpar;Christopher Yasiejko/Bloomberg Law&rpar;](http://www.techmeme.com/241025/p26#a241025p26)
+ - [DreamCloud Premier Rest Memory Foam Mattress Review 2024: Side Sleepers Will Love This Premium Foam Bed](https://www.cnet.com/health/sleep/dreamcloud-premier-rest-memory-foam-mattress-review/#ftag=CAD590a51e)
+ - [Google Calendar on the web catches up with Android with this fan-favorite feature](https://www.androidauthority.com/google-calendar-web-dark-mode-3494418/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
