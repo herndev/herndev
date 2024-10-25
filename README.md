@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [An ordinary morning on the Tokyo subway](http://9gag.com/gag/a7owD1m)
- - ⏩ [South African truck driver is shot at by roadside bandits](http://9gag.com/gag/a34RKrN)
- - 👉 [Me and who?](http://9gag.com/gag/a2vRZxZ)<!-- MEMES:END -->
+ - 💣 [South African truck driver is shot at by roadside bandits](http://9gag.com/gag/a34RKrN)
+ - ⏩ [This is actually a smart move](http://9gag.com/gag/a9yRnqm)
+ - 👉 [There was an attempt](http://9gag.com/gag/aqyggRv)<!-- MEMES:END -->
 
 ---
 
