@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Imagine having to hide your kid from authorities for having an opinion - this world is f***ed](http://9gag.com/gag/aRB03GM)
- - ⏩ [Bro escape from matrix](http://9gag.com/gag/aMVYA36)
- - 👉 [Those unrealistic body standards!](http://9gag.com/gag/axy71rK)<!-- MEMES:END -->
+ - 💣 [Oh Justin..](http://9gag.com/gag/a34Rwv3)
+ - ⏩ [Not a smart move while street racing.](http://9gag.com/gag/an759BV)
+ - 👉 [You&#39;ve hit rock bottom if you get arrested in a Chuck E Cheese](http://9gag.com/gag/aPAR7NK)<!-- MEMES:END -->
 
 ---
 
