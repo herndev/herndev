@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [When do Astro Bot’s speedrun DLC levels go live each week?](https://www.polygon.com/astro-bot-guides/466172/speedrun-dlc-levels-update-time-schedule)
- - [Today&#39;s Wordle answer for Friday, October 25](https://www.pcgamer.com/games/puzzle/wordle-answer-today-october-25-2024)
- - [Generative AI is dividing RPG fans: Can AI really play Dungeons &amp; Dragons, and should it?](https://www.pcgamer.com/software/ai/generative-ai-is-dividing-rpg-fans-can-ai-really-play-dungeons-and-dragons-and-should-it)<!-- GAME:END -->
+ - [The recent ultra-violent RoboCop FPS that lets you atomise the skulls of criminal scum is going for a fraction of full price](https://www.pcgamer.com/games/adventure/the-recent-ultra-violent-robocop-fps-that-lets-you-atomise-the-skulls-of-criminal-scum-is-going-for-a-fraction-of-full-price)
+ - [How to complete Sugar Rush in Disney Dreamlight Valley](https://www.pcgamer.com/games/life-sim/disney-dreamlight-valley-sugar-rush)
+ - [How to complete A 3-Course Halloween Meal in Disney Dreamlight Valley](https://www.pcgamer.com/games/life-sim/disney-dreamlight-valley-a-3-course-halloween-meal)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
