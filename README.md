@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Jeff Bezos reportedly killed the Washington Post’s Kamala Harris endorsement](https://www.theverge.com/2024/10/25/24279602/jeff-bezos-washington-post-kamala-harris-endorsement)
- - [All the news about Scout Motors, a classic SUV brand gone electric](https://www.theverge.com/2024/10/25/24279566/scout-motors-a-classic-suv-brand-gone-electric)
- - [Spatial content shot for Apple Vision Pro will soon be viewable in Safari](https://appleinsider.com/articles/24/10/25/spatial-content-shot-for-apple-vision-pro-will-soon-be-viewable-in-safari?utm_medium=rss)<!-- TECH:END -->
+ - [Source: Perplexity CEO told staff in 2023 that it had acquisition offers from X, OpenAI, and Notion, in the $150M to $200M range; Microsoft was also interested &lpar;Kevin Mclaughlin/The Information&rpar;](http://www.techmeme.com/241025/p23#a241025p23)
+ - [One UI 7 will finally let the Galaxy Tab S9 take full advantage of this Tab S10 accessory](https://www.androidauthority.com/galaxy-tab-s9-galaxy-ai-key-3494391/)
+ - [8BitDo challenges Backbone at its own game with new attachable mobile controller](https://www.androidauthority.com/8bitdo-smartphone-controller-3494371/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
