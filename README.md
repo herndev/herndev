@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Filing: Microsoft puts an &quot;assessment of investing in bitcoin&quot; as a voting item for its December 10 shareholder meeting; its board recommends voting against it &lpar;MK Manoylov/The Block&rpar;](http://www.techmeme.com/241024/p35#a241024p35)
- - [A new Galaxy S25 leak hints at ‘sparkling’ new colors for the S25 and S25 Plus](https://www.androidauthority.com/galaxy-s25-series-color-options-3494051/)
- - [How to Keep Your Fridge Food Safe When Your Power is Out](https://www.cnet.com/how-to/how-to-keep-your-fridge-food-safe-when-your-power-is-out/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Notion previews Mail, an email client that uses AI to organize, archive, or draft emails and handle scheduling and follow-ups, saying it is &quot;coming soon&quot; &lpar;Frederic Lardinois/TechCrunch&rpar;](http://www.techmeme.com/241024/p37#a241024p37)
+ - [11 Best Sexy Gifts for Lovers &lpar;2024&rpar;](https://www.wired.com/gallery/best-sexy-gifts/)
+ - [Best Hotel Mattresses in 2024](https://www.cnet.com/health/sleep/best-hotel-mattresses/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
