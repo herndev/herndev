@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Can&#39;t figure out why he was fired as a journalist](http://9gag.com/gag/aVv0wNv)
- - ⏩ [Bro escape from matrix](http://9gag.com/gag/aMVYA36)
- - 👉 [Up there with Dorn&#39;s skeleton hand](http://9gag.com/gag/a0eRKOO)<!-- MEMES:END -->
+ - 💣 [An ordinary morning on the Tokyo subway](http://9gag.com/gag/a7owD1m)
+ - ⏩ [South African truck driver is shot at by roadside bandits](http://9gag.com/gag/a34RKrN)
+ - 👉 [Me and who?](http://9gag.com/gag/a2vRZxZ)<!-- MEMES:END -->
 
 ---
 
