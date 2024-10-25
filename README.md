@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Why did Ubisoft send Prince of Persia: The Lost Crown out to die?](https://www.polygon.com/opinion/470613/prince-of-persia-lost-crown-ubisoft-team-disbanded-no-sequel)
- - [Twitch’s changing guidelines could have a real economic impact on Vtubers](https://www.polygon.com/culture/470293/twitch-vtuber-tos-attire-guidelines-chastity-belt)
- - [We Are Getting Two Predator Movies Next Year From Prey&#39;s Director](https://kotaku.com/predator-prey-2-badlands-secret-movie-animated-hulu-1851681811)<!-- GAME:END -->
+ - [The next Helldivers 2 Warbond is going full baddies mode with armor and weaponry from the Ministry of Truth](https://www.pcgamer.com/games/third-person-shooter/the-next-helldivers-2-warbond-is-going-full-baddies-mode-with-armor-and-weaponry-from-the-ministry-of-truth)
+ - [Kotaku&#39;s Weekend Guide: 5 New Games We Can&#39;t Wait To Escape Into](https://kotaku.com/kotaku-weekend-guide-call-of-duty-blops-6-sonic-shadow-1851681728)
+ - [Tom Holland&#39;s Spider-Man 4 Is Coming In 2026](https://kotaku.com/spider-man-4-avengers-doomsday-tom-holland-release-date-1851681957)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
