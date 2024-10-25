@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [This Android skin has an AI that can order coffee and manage subscriptions](https://www.androidauthority.com/honor-magic-os-9-0-ai-agent-3493067/)
- - [This subtle Google Contacts change looks perfect for long names &lpar;Updated: Rolling out&rpar;](https://www.androidauthority.com/google-contacts-ui-3476405/)
- - [Best Internet Providers in Wausau, Wisconsin](https://www.cnet.com/home/internet/best-internet-providers-in-wausau-wi/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [OnePlus reveals OnePlus 13 cameras: Upgrade or downgrade? You decide](https://www.androidauthority.com/oneplus-13-camera-specs-3494107/)
+ - [Next iPad mini rumored to get OLED, but you&#39;ll have to wait a while](https://appleinsider.com/articles/24/10/24/next-ipad-mini-to-have-oled-but-youll-have-to-wait-and-wait?utm_medium=rss)
+ - [OnePlus launches Android 15-powered Oxygen OS 15, here’s what’s new](https://www.androidauthority.com/oxygenos-15-3428400/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
