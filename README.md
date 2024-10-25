@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Notion previews Mail, an email client that uses AI to organize, archive, or draft emails and handle scheduling and follow-ups, saying it is &quot;coming soon&quot; &lpar;Frederic Lardinois/TechCrunch&rpar;](http://www.techmeme.com/241024/p37#a241024p37)
- - [11 Best Sexy Gifts for Lovers &lpar;2024&rpar;](https://www.wired.com/gallery/best-sexy-gifts/)
- - [Best Hotel Mattresses in 2024](https://www.cnet.com/health/sleep/best-hotel-mattresses/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Source: OpenAI plans to launch its next flagship model, codenamed Orion, by December, rolling it out in phases starting with the company&#39;s trusted partners &lpar;The Verge&rpar;](http://www.techmeme.com/241024/p39#a241024p39)
+ - [The company behind Arc is now building a second, much simpler browser](https://www.theverge.com/2024/10/24/24279020/browser-company-ai-browser-arc)
+ - [Identity verification service provider Socure agrees to acquire Effectiv, which helps businesses manage fraud prevention tools, for $136M in cash and equity &lpar;Emily Mason/Bloomberg&rpar;](http://www.techmeme.com/241024/p38#a241024p38)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
