@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Source: Perplexity CEO told staff in 2023 that it had acquisition offers from X, OpenAI, and Notion, in the $150M to $200M range; Microsoft was also interested &lpar;Kevin Mclaughlin/The Information&rpar;](http://www.techmeme.com/241025/p23#a241025p23)
- - [One UI 7 will finally let the Galaxy Tab S9 take full advantage of this Tab S10 accessory](https://www.androidauthority.com/galaxy-tab-s9-galaxy-ai-key-3494391/)
- - [8BitDo challenges Backbone at its own game with new attachable mobile controller](https://www.androidauthority.com/8bitdo-smartphone-controller-3494371/)<!-- TECH:END -->
+ - [Video game preservationists have lost a legal fight to study games remotely](https://www.theverge.com/2024/10/25/24279657/us-copyright-dmca-exception-extension-denied-remote-access)
+ - [Air taxis: the latest on the flying electric cars bringing the Jetsons dream to life](https://www.theverge.com/24279586/air-taxis-flying-electric-car-vtol-evtol)
+ - [Sources: Google is aiming to release its Gemini 2.0 model in December; the model isn&#39;t showing the performance gains the Demis Hassabis-led team had hoped for &lpar;Alex Heath/The Verge&rpar;](http://www.techmeme.com/241025/p24#a241025p24)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
