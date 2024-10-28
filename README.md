@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Just the surface for sure](http://9gag.com/gag/a875AOY)
- - ⏩ [Main character syndrome](http://9gag.com/gag/aAygK0L)
- - 👉 [How to correctly shoot a time lapse](http://9gag.com/gag/aRB0LWG)<!-- MEMES:END -->
+ - 💣 [Clown wingman](http://9gag.com/gag/amo5WgX)
+ - ⏩ [When you try to show off your skills](http://9gag.com/gag/aZZ7nrp)
+ - 👉 [CNN loses it after Shark Tank\u2019s Kevin O\u2019Leary points out that Kamala Harris was not actually nominated.](http://9gag.com/gag/a9yR6Ko)<!-- MEMES:END -->
 
 ---
 
