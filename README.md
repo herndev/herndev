@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Bungie Sci-Fi Extraction Shooter Marathon Does Not Sound Ready For 2025](https://kotaku.com/marathon-scifi-extraction-shooter-bungie-release-date-1851683083)
- - [Humble is offering a massive $40 bundle of Vampire: The Masquerade adventures](https://www.polygon.com/good-deals/471009/vampire-masqurade-ttrpg-humble-bundle-sale)
- - [Black Ops 6 Adds Perks To The Single-Player Campaign For The First Time](https://kotaku.com/black-ops-6-adds-perks-to-the-single-player-campaign-fo-1851682991)<!-- GAME:END -->
+ - [Fornite&#39;s Convoluted Battle Pass Is Getting Streamlined](https://kotaku.com/fortnite-battle-pass-xp-playlists-1851683252)
+ - [Call Of Duty: Black Ops 6 Jacks Up XP Rewards In First Update](https://kotaku.com/call-duty-black-ops-6-xp-farm-glitch-decoy-patch-notes-1851683189)
+ - [Call Of Duty: Black Ops 6 Best Builds: The AK-47](https://kotaku.com/call-of-duty-black-ops-6-ak-47-best-build-1851683031)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
