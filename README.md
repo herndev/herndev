@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This is how you win the Halloween!](http://9gag.com/gag/aBygVzD)
- - ⏩ [Good old pointy stick. Always the strongest.](http://9gag.com/gag/aLn0e4z)
- - 👉 [Clown wingman](http://9gag.com/gag/amo5WgX)<!-- MEMES:END -->
+ - 💣 [CNN loses it after Shark Tank\u2019s Kevin O\u2019Leary points out that Kamala Harris was not actually nominated.](http://9gag.com/gag/a9yR6Ko)
+ - ⏩ [This is how to pick cotton.](http://9gag.com/gag/a4PR6B6)
+ - 👉 [Main character syndrome](http://9gag.com/gag/aAygK0L)<!-- MEMES:END -->
 
 ---
 
