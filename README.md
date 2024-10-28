@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Naspers and Prosus CEO Fabricio Bloisi says he is overhauling corporate culture and pay structures in search of growth beyond Prosus&#39; stake in Tencent &lpar;Financial Times&rpar;](http://www.techmeme.com/241028/p3#a241028p3)
- - [Google Messages could give you more customizable contacts once again &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-messages-contact-pictures-apk-teardown-3494535/)
- - [Paris-based Filigran, which develops open-source threat intelligence platform OpenCTI used by the EU, the FBI, and more, raised a $35M Series B led by Insight &lpar;Romain Dillet/TechCrunch&rpar;](http://www.techmeme.com/241028/p2#a241028p2)<!-- TECH:END -->
+ - [EssilorLuxottica gives &quot;full support&quot; to Chief Strategy Officer Leonardo Maria Del Vecchio after an Italian hacking probe; the company is not part of the probe &lpar;Silvia Sciorilli Borrelli/Financial Times&rpar;](http://www.techmeme.com/241028/p5#a241028p5)
+ - [Hong Kong outlines an AI policy for finance and proposes an extension of a tax break on owning digital assets, as it seeks to become Asia&#39;s go-to financial hub &lpar;Bloomberg&rpar;](http://www.techmeme.com/241028/p4#a241028p4)
+ - [First look at OnePlus 13 magnetic cases reveals new wood grain options](https://www.androidauthority.com/oneplus-13-magnetic-cases-accessories-3494559/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
