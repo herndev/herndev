@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Main character syndrome](http://9gag.com/gag/aAygK0L)
- - ⏩ [This is just amazing.](http://9gag.com/gag/aZZ71v9)
- - 👉 [Apple Pay](http://9gag.com/gag/aoy53x3)<!-- MEMES:END -->
+ - 💣 [This is how you win the Halloween!](http://9gag.com/gag/aBygVzD)
+ - ⏩ [Good old pointy stick. Always the strongest.](http://9gag.com/gag/aLn0e4z)
+ - 👉 [Clown wingman](http://9gag.com/gag/amo5WgX)<!-- MEMES:END -->
 
 ---
 
