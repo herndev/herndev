@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [This new FPS is so good, it&#39;s almost unfair that it&#39;s free: A &#39;1v1 me bro&#39; simulator with 70 maps and no microtransactions that feels like the sickest Counter-Strike: Source mod of 2007](https://www.pcgamer.com/games/fps/this-new-fps-is-so-good-its-almost-unfair-that-its-free-a-1v1-me-bro-simulator-with-70-maps-and-no-microtransactions-that-feels-like-the-sickest-counter-strike-source-mod-of-2007)
  - [Five new Steam games you probably missed &lpar;October 28, 2024&rpar;](https://www.pcgamer.com/software/platforms/five-new-steam-games-you-probably-missed-october-28-2024)
- - [This visual novel about hunting supernatural oddities in urban environments will definitely be one for the Persona crowd](https://www.pcgamer.com/games/visual-novel/this-visual-novel-about-hunting-supernatural-oddities-in-urban-environments-will-definitely-be-one-for-the-persona-crowd)
- - [Vice presidential candidate Tim Walz dusts off his controller to stream Crazy Taxi on Twitch: &#39;The Republicans will accuse me of never having a Dreamcast or something&#39;](https://www.pcgamer.com/games/racing/vice-presidential-candidate-tim-walz-dusts-off-his-controller-to-stream-crazy-taxi-on-twitch-the-republicans-will-accuse-me-of-never-having-a-dreamcast-or-something)<!-- GAME:END -->
+ - [This visual novel about hunting supernatural oddities in urban environments will definitely be one for the Persona crowd](https://www.pcgamer.com/games/visual-novel/this-visual-novel-about-hunting-supernatural-oddities-in-urban-environments-will-definitely-be-one-for-the-persona-crowd)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
