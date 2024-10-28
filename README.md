@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [These red lights captured in France.](http://9gag.com/gag/avyo6xb)
- - ⏩ [This is how to pick cotton.](http://9gag.com/gag/a4PR6B6)
- - 👉 [Abrupt Explosion\u2026](http://9gag.com/gag/azx1Kwq)<!-- MEMES:END -->
+ - 💣 [No title](http://9gag.com/gag/a0eRVgZ)
+ - ⏩ [Abrupt Explosion\u2026](http://9gag.com/gag/azx1Kwq)
+ - 👉 [This is how to pick cotton.](http://9gag.com/gag/a4PR6B6)<!-- MEMES:END -->
 
 ---
 
