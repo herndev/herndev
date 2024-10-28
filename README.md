@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [New Home Experience in the Xbox App on Windows Is Available for Xbox Insiders](https://news.xbox.com/en-us/2024/10/28/new-home-experience-in-the-xbox-app-on-windows-is-available-for-xbox-insiders/)
- - [You Should Watch These Spellbinding Witch Movies For Halloween](https://kotaku.com/good-witch-movies-best-halloween-horror-1851678555)
- - [Call Of Duty Black Ops 6 Has Some Pretty Bad Spawn Issues At Launch](https://kotaku.com/call-duty-black-ops-6-spawn-bug-blops-cod-1851682799)<!-- GAME:END -->
+ - [2025 Is A Big Year For Magic: The Gathering Crossovers With Final Fantasy, Spider-Man, And Spongebob On The Way](https://kotaku.com/magic-the-gathering-final-fantasy-spiderman-crossovers-1851683037)
+ - [As US politics goes totally off the rails, Kamala Harris says to hell with it, let&#39;s start a Fortnite map](https://www.pcgamer.com/games/battle-royale/as-us-politics-goes-totally-off-the-rails-kamala-harris-says-to-hell-with-it-lets-start-a-fortnite-map)
+ - [After more than 10 years on Steam, DayZ sets another new concurrent player record](https://www.pcgamer.com/games/survival-crafting/after-more-than-10-years-on-steam-dayz-sets-another-new-concurrent-player-record)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
