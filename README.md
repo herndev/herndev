@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Pixel Watch 5 might be getting a custom Tensor chip](https://www.androidauthority.com/google-pixel-watch-5-tensor-chip-3494524/)
- - [The Pixel 11 in 2026 could finally catch up to Galaxy S20 Ultra’s zoom](https://www.androidauthority.com/google-pixel-11-100x-zoom-3494569/)
- - [US Intel Says Insider Threats Are &#39;Likely&#39; During the Election](https://www.wired.com/story/insider-threats-election/)<!-- TECH:END -->
+ - [Kwikset Halo Select, Govee ice maker, &amp; iPhone StandBy dock on HomeKit Insider](https://appleinsider.com/articles/24/10/28/kwikset-halo-select-govee-ice-maker-iphone-standby-dock-on-homekit-insider?utm_medium=rss)
+ - [The Open Source Initiative releases version 1.0 of its Open Source AI Definition, after years of collaboration with academia and the industry &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/241028/p14#a241028p14)
+ - [Month-end iPad sale: $199 9th Gen, M4 iPad Pro $899, iPad mini 7 deals](https://appleinsider.com/articles/24/10/26/month-end-ipad-sale-298-10th-gen-m4-ipad-pro-899-ipad-mini-7-deals?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
