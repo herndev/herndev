@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Fornite&#39;s Convoluted Battle Pass Is Getting Streamlined](https://kotaku.com/fortnite-battle-pass-xp-playlists-1851683252)
- - [Call Of Duty: Black Ops 6 Jacks Up XP Rewards In First Update](https://kotaku.com/call-duty-black-ops-6-xp-farm-glitch-decoy-patch-notes-1851683189)
- - [Call Of Duty: Black Ops 6 Best Builds: The AK-47](https://kotaku.com/call-of-duty-black-ops-6-ak-47-best-build-1851683031)<!-- GAME:END -->
+ - [Marathon gets proof-of-life update from Bungie, playtesting coming in 2025](https://www.polygon.com/news/471234/bungie-marathon-update-2025-playtests)
+ - [Timothée Chalamet crashed his own look-alike contest, then things got chaotic](https://www.polygon.com/culture/471387/timothee-chalamet-look-alike-contest-nyc)
+ - [The best nerdy Advent calendars](https://www.polygon.com/deals/23960913/nerdy-advent-calendars-best-mario-funko-pokemon-star-wars)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
