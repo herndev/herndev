@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Dragon Age: The Veilguard: Building A Rook That Truly Feels Like Yours](https://news.xbox.com/en-us/2024/10/28/dragon-age-the-veilguard-building-a-rook-that-truly-feels-like-yours/)
- - [Dragon Age: The Veilguard is the friend group simulator we’ve been waiting for](https://www.polygon.com/review/470712/review-dragon-age-the-veilguard-ps5-xbox-pc)
- - [YouTube Rejects Dr Disrespect&#39;s Request To Profit Off His Channel Again](https://kotaku.com/dr-disrespect-youtube-monetization-black-ops-6-ban-1851682643)<!-- GAME:END -->
+ - [In Dragon Age: The Veilguard, This Dialogue Option Lets You Declare Your Character Is Trans](https://kotaku.com/dragon-age-veilguard-trans-choice-rook-gender-pronouns-1851682607)
+ - [Bobby Hill Is All Grown Up In The King Of The Hill Revival](https://kotaku.com/king-of-the-hill-revival-adult-bobby-chef-1851682800)
+ - [How To Use Loot Keys In Black Ops 6’s Zombies Mode](https://kotaku.com/black-ops-6-zombies-armory-vault-loot-key-1851682766)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
