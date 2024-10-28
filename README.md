@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Dragon Age: The Veilguard Is Already Proving To Be One Of BioWare&#39;s More Divisive Sequels](https://kotaku.com/dragon-age-veilguard-reviews-metacritic-score-bioware-1851683347)
- - [Finally, a dungeon crawler with what I&#39;ve been missing in so many other fantasy adventures: common sense](https://www.pcgamer.com/games/rpg/finally-a-dungeon-crawler-with-what-ive-been-missing-in-so-many-other-fantasy-adventures-common-sense)
- - [A Destiny 2 Conspiracy Theory Gets To The Heart Of Its Biggest Loot Problem [Update: Bungie Says A Fix Is Coming]](https://kotaku.com/a-destiny-2-conspiracy-theory-gets-to-the-heart-of-its-1851680514)<!-- GAME:END -->
+ - [With no Disco Elysium 2 in sight, who exactly are behind the 5 studios of Disco devs now vying to make its spiritual successor?](https://www.pcgamer.com/games/rpg/disco-elysium-successor-studios-overview)
+ - [Suda51 thinks Shadows of the Damned has a better shot today than it did in 2011: &#39;Weirder, more non-standard games feel much more natural to players nowadays&#39;](https://www.pcgamer.com/gaming-industry/suda51-thinks-shadows-of-the-damned-has-a-better-shot-today-than-it-did-in-2011-weirder-more-non-standard-games-feel-much-more-natural-to-players-nowadays)
+ - [Dragon Age: The Veilguard Is Already Proving To Be One Of BioWare&#39;s More Divisive Sequels](https://kotaku.com/dragon-age-veilguard-reviews-metacritic-score-bioware-1851683347)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
