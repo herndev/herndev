@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [How to defend against a knife attack](http://9gag.com/gag/aD2g25K)
- - ⏩ [Good thing he came back](http://9gag.com/gag/an75n5L)
- - 👉 [Fight!](http://9gag.com/gag/aE0gM8x)<!-- MEMES:END -->
+ - 💣 [Fight!](http://9gag.com/gag/aE0gM8x)
+ - ⏩ [Where\u2019d they put everything?](http://9gag.com/gag/aW4Epp2)
+ - 👉 [Photographs of Blanche Monnier before and after being locked inside a filthy room for 25 years by her cruel mother.](http://9gag.com/gag/aE0gVxG)<!-- MEMES:END -->
 
 ---
 
