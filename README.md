@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Kwikset Halo Select, Govee ice maker, &amp; iPhone StandBy dock on HomeKit Insider](https://appleinsider.com/articles/24/10/28/kwikset-halo-select-govee-ice-maker-iphone-standby-dock-on-homekit-insider?utm_medium=rss)
- - [The Open Source Initiative releases version 1.0 of its Open Source AI Definition, after years of collaboration with academia and the industry &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/241028/p14#a241028p14)
- - [Month-end iPad sale: $199 9th Gen, M4 iPad Pro $899, iPad mini 7 deals](https://appleinsider.com/articles/24/10/26/month-end-ipad-sale-298-10th-gen-m4-ipad-pro-899-ipad-mini-7-deals?utm_medium=rss)<!-- TECH:END -->
+ - [Microsoft Teams is getting threads and combined chats and channels](https://www.theverge.com/2024/10/28/24281619/microsoft-teams-threaded-conversations-combined-chats-channels-ui-design-view)
+ - [Is Apple Vision Pro a &#39;first year flop&#39; or tomorrow, today?](https://appleinsider.com/articles/24/10/28/is-apple-vision-pro-a-first-year-flop-or-tomorrow-today?utm_medium=rss)
+ - [Don&#39;t Plug These 7 Devices Into an Extension Cord. An Expert Explains Why](https://www.cnet.com/how-to/dont-plug-these-7-devices-into-an-extension-cord-an-expert-explains-why/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
