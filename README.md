@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Marathon gets proof-of-life update from Bungie, playtesting coming in 2025](https://www.polygon.com/news/471234/bungie-marathon-update-2025-playtests)
- - [Timothée Chalamet crashed his own look-alike contest, then things got chaotic](https://www.polygon.com/culture/471387/timothee-chalamet-look-alike-contest-nyc)
- - [The best nerdy Advent calendars](https://www.polygon.com/deals/23960913/nerdy-advent-calendars-best-mario-funko-pokemon-star-wars)<!-- GAME:END -->
+ - [Dragon Age: The Veilguard Is Already Proving To Be One Of BioWare&#39;s More Divisive Sequels](https://kotaku.com/dragon-age-veilguard-reviews-metacritic-score-bioware-1851683347)
+ - [Finally, a dungeon crawler with what I&#39;ve been missing in so many other fantasy adventures: common sense](https://www.pcgamer.com/games/rpg/finally-a-dungeon-crawler-with-what-ive-been-missing-in-so-many-other-fantasy-adventures-common-sense)
+ - [A Destiny 2 Conspiracy Theory Gets To The Heart Of Its Biggest Loot Problem [Update: Bungie Says A Fix Is Coming]](https://kotaku.com/a-destiny-2-conspiracy-theory-gets-to-the-heart-of-its-1851680514)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
