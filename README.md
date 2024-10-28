@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [2025 Is A Big Year For Magic: The Gathering Crossovers With Final Fantasy, Spider-Man, And Spongebob On The Way](https://kotaku.com/magic-the-gathering-final-fantasy-spiderman-crossovers-1851683037)
- - [As US politics goes totally off the rails, Kamala Harris says to hell with it, let&#39;s start a Fortnite map](https://www.pcgamer.com/games/battle-royale/as-us-politics-goes-totally-off-the-rails-kamala-harris-says-to-hell-with-it-lets-start-a-fortnite-map)
- - [After more than 10 years on Steam, DayZ sets another new concurrent player record](https://www.pcgamer.com/games/survival-crafting/after-more-than-10-years-on-steam-dayz-sets-another-new-concurrent-player-record)<!-- GAME:END -->
+ - [Bungie Sci-Fi Extraction Shooter Marathon Does Not Sound Ready For 2025](https://kotaku.com/marathon-scifi-extraction-shooter-bungie-release-date-1851683083)
+ - [Humble is offering a massive $40 bundle of Vampire: The Masquerade adventures](https://www.polygon.com/good-deals/471009/vampire-masqurade-ttrpg-humble-bundle-sale)
+ - [Black Ops 6 Adds Perks To The Single-Player Campaign For The First Time](https://kotaku.com/black-ops-6-adds-perks-to-the-single-player-campaign-fo-1851682991)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
