@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [W.w Heisenberg downfall](http://9gag.com/gag/aW4Ep9K)
- - ⏩ [The unbearable weight of massive ... talent](http://9gag.com/gag/aBygdjx)
- - 👉 [Clown wingman](http://9gag.com/gag/amo5WgX)<!-- MEMES:END -->
+ - 💣 [Girls dressing for Halloween party](http://9gag.com/gag/aAyg0AL)
+ - ⏩ [Manga authors are getting bolder every year](http://9gag.com/gag/aBygZ2N)
+ - 👉 [She&#39;s like, `This is a raid. Where are all the candies?`](http://9gag.com/gag/aLn0Loz)<!-- MEMES:END -->
 
 ---
 
