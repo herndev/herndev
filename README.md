@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [EssilorLuxottica gives &quot;full support&quot; to Chief Strategy Officer Leonardo Maria Del Vecchio after an Italian hacking probe; the company is not part of the probe &lpar;Silvia Sciorilli Borrelli/Financial Times&rpar;](http://www.techmeme.com/241028/p5#a241028p5)
- - [Hong Kong outlines an AI policy for finance and proposes an extension of a tax break on owning digital assets, as it seeks to become Asia&#39;s go-to financial hub &lpar;Bloomberg&rpar;](http://www.techmeme.com/241028/p4#a241028p4)
- - [First look at OnePlus 13 magnetic cases reveals new wood grain options](https://www.androidauthority.com/oneplus-13-magnetic-cases-accessories-3494559/)<!-- TECH:END -->
+ - [A profile of ex-eBay and HP CEO Meg Whitman, who became US ambassador to Kenya in late 2021, as the US seeks to counterbalance Chinese tech influence in Africa &lpar;Bloomberg&rpar;](http://www.techmeme.com/241028/p8#a241028p8)
+ - [iPhone 16 demand remains in line with the iPhone 15](https://appleinsider.com/articles/24/10/28/iphone-16-demand-remains-in-line-with-the-iphone-15?utm_medium=rss)
+ - [How Jeff Bezos, who bought the Washington Post in 2013 and a DC mansion in 2016, never made a splash in the capital, visiting only on occasion for glitzy events &lpar;New York Times&rpar;](http://www.techmeme.com/241028/p7#a241028p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
