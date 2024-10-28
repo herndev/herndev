@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [When you try to show off your skills](http://9gag.com/gag/aZZ7nrp)
- - ⏩ [No title](http://9gag.com/gag/a0eRVgZ)
- - 👉 [W.w Heisenberg downfall](http://9gag.com/gag/aW4Ep9K)<!-- MEMES:END -->
+ - 💣 [Somewhat of a Pokefan but can someone explain the joke?](http://9gag.com/gag/adB5vx2)
+ - ⏩ [The unbearable weight of massive ... talent](http://9gag.com/gag/aBygdjx)
+ - 👉 [Fight!](http://9gag.com/gag/aE0gM8x)<!-- MEMES:END -->
 
 ---
 
