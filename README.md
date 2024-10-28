@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Android 16 could turn Wi-Fi and Bluetooth into one-click toggles once again](https://www.androidauthority.com/android-16-one-click-quick-settings-tiles-3494720/)
- - [M4 24-inch iMac vs M1 24-inch iMac compared -- A muted upgrade for first-adopters](https://appleinsider.com/inside/24-inch-imac/vs/m4-24-inch-imac-vs-m1-24-inch-imac-compared----a-muted-upgrade-for-first-adopters?utm_medium=rss)
- - [You can now buy certified refurbished Pixel 6 and Pixel 7 phones straight from Google](https://www.androidauthority.com/google-certified-refurbished-phones-3494697/)<!-- TECH:END -->
+ - [Poll result: You love Gmail’s Android app, but even that’s not always enough](https://www.androidauthority.com/gmail-android-app-poll-result-3494718/)
+ - [Your Ford vehicle could be getting a big Android Auto upgrade](https://www.androidauthority.com/ford-android-auto-upgrade-3494739/)
+ - [Google says its AI Overview summaries will begin rolling out in over 100 countries this week and will reach more than 1B monthly users with this expansion &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/241028/p23#a241028p23)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
