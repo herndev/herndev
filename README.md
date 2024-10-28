@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Indonesia bans the sale of recently debuted Apple products including the iPhone 16, after claiming Apple only partially fulfilled a ~$109M investment commitment &lpar;Claire Jiao/Bloomberg&rpar;](http://www.techmeme.com/241027/p10#a241027p10)
- - [Google quietly fixed the biggest problem with Quick Share for Windows](https://www.androidauthority.com/quick-share-for-windows-wifi-direct-3494451/)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Oct. 28, #35](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-oct-28-35/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [OnePlus 13: Bigger battery, fast charging, and fan-favorite features revealed](https://www.androidauthority.com/oneplus-13-battery-charging-connectivity-3494529/)
+ - [Indonesia bans the sale of iPhone 16 series, claiming that Apple has not fulfilled 40% local content requirements and has not met its investment commitments &lpar;Claire Jiao/Bloomberg&rpar;](http://www.techmeme.com/241027/p10#a241027p10)
+ - [Google quietly fixed the biggest problem with Quick Share for Windows](https://www.androidauthority.com/quick-share-for-windows-wifi-direct-3494451/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
