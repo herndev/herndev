@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Five new Steam games you probably missed &lpar;October 28, 2024&rpar;](https://www.pcgamer.com/software/platforms/five-new-steam-games-you-probably-missed-october-28-2024)
  - [This visual novel about hunting supernatural oddities in urban environments will definitely be one for the Persona crowd](https://www.pcgamer.com/games/visual-novel/this-visual-novel-about-hunting-supernatural-oddities-in-urban-environments-will-definitely-be-one-for-the-persona-crowd)
- - [Vice presidential candidate Tim Walz dusts off his controller to stream Crazy Taxi on Twitch: &#39;The Republicans will accuse me of never having a Dreamcast or something&#39;](https://www.pcgamer.com/games/racing/vice-presidential-candidate-tim-walz-dusts-off-his-controller-to-stream-crazy-taxi-on-twitch-the-republicans-will-accuse-me-of-never-having-a-dreamcast-or-something)
- - [Factorio&#39;s expansion is setting record high player counts yet again so I&#39;m expecting the world&#39;s IT infrastructure to collapse and innovation to stagnate any day now](https://www.pcgamer.com/games/strategy/factorios-expansion-is-setting-record-high-player-counts-yet-again-so-im-expecting-the-worlds-it-infrastructure-to-collapse-and-innovation-to-stagnate-any-day-now)<!-- GAME:END -->
+ - [Vice presidential candidate Tim Walz dusts off his controller to stream Crazy Taxi on Twitch: &#39;The Republicans will accuse me of never having a Dreamcast or something&#39;](https://www.pcgamer.com/games/racing/vice-presidential-candidate-tim-walz-dusts-off-his-controller-to-stream-crazy-taxi-on-twitch-the-republicans-will-accuse-me-of-never-having-a-dreamcast-or-something)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
