@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Anyone?](http://9gag.com/gag/aND0Qb6)
- - ⏩ [How to correctly shoot a time lapse](http://9gag.com/gag/aRB0LWG)
- - 👉 [Main character syndrome](http://9gag.com/gag/aAygK0L)<!-- MEMES:END -->
+ - 💣 [Judge&#39;s are disabled minded](http://9gag.com/gag/a34R021)
+ - ⏩ [When you try to show off your skills](http://9gag.com/gag/aZZ7nrp)
+ - 👉 [Fight!](http://9gag.com/gag/aE0gM8x)<!-- MEMES:END -->
 
 ---
 
