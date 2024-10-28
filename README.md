@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Google, OpenAI, and Anthropic are all making AI systems that will run your PC for you, doing online tasks like filling out forms, research, and even a spot of shopping](https://www.pcgamer.com/software/ai/google-openai-and-anthropic-are-all-making-ai-systems-that-will-run-your-pc-for-you-doing-online-tasks-like-filling-out-forms-research-and-even-a-spot-of-shopping)
  - [Disney Lorcana’s Azurite Sea expansion moves the upstart TCG out of the doldrums](https://www.polygon.com/disney-lorcana/470720/azurite-sea-starter-decks-impressions)
- - [Today&#39;s Wordle answer for Monday, October 28](https://www.pcgamer.com/games/puzzle/wordle-answer-today-october-28-2024)
- - [This new FPS is so good, it&#39;s almost unfair that it&#39;s free: A &#39;1v1 me bro&#39; simulator with 70 maps and no microtransactions that feels like the sickest Counter-Strike: Source mod of 2007](https://www.pcgamer.com/games/fps/this-new-fps-is-so-good-its-almost-unfair-that-its-free-a-1v1-me-bro-simulator-with-70-maps-and-no-microtransactions-that-feels-like-the-sickest-counter-strike-source-mod-of-2007)<!-- GAME:END -->
+ - [Today&#39;s Wordle answer for Monday, October 28](https://www.pcgamer.com/games/puzzle/wordle-answer-today-october-28-2024)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
