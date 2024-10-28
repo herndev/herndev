@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A profile of ex-eBay and HP CEO Meg Whitman, who became US ambassador to Kenya in late 2021, as the US seeks to counterbalance Chinese tech influence in Africa &lpar;Bloomberg&rpar;](http://www.techmeme.com/241028/p8#a241028p8)
- - [iPhone 16 demand remains in line with the iPhone 15](https://appleinsider.com/articles/24/10/28/iphone-16-demand-remains-in-line-with-the-iphone-15?utm_medium=rss)
- - [How Jeff Bezos, who bought the Washington Post in 2013 and a DC mansion in 2016, never made a splash in the capital, visiting only on occasion for glitzy events &lpar;New York Times&rpar;](http://www.techmeme.com/241028/p7#a241028p7)<!-- TECH:END -->
+ - [The pragmatist’s guide to the 2024 presidential election](https://www.theverge.com/24279103/2024-election-guide-trump-harris-policy-issues)
+ - [A UK judge sentences a 27-year-old man who used AI tool Daz 3D to create child sexual abuse imagery to 18 years in prison, a landmark prosecution over deepfakes &lpar;Financial Times&rpar;](http://www.techmeme.com/241028/p10#a241028p10)
+ - [A profile of Italian private equity firm Bending Spoons, which has acquired distressed SaaS businesses like WeTransfer and Evernote, and plans to spend billions &lpar;Mark Bergen/Bloomberg&rpar;](http://www.techmeme.com/241028/p9#a241028p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
