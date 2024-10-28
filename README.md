@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft Teams is getting threads and combined chats and channels](https://www.theverge.com/2024/10/28/24281619/microsoft-teams-threaded-conversations-combined-chats-channels-ui-design-view)
- - [Is Apple Vision Pro a &#39;first year flop&#39; or tomorrow, today?](https://appleinsider.com/articles/24/10/28/is-apple-vision-pro-a-first-year-flop-or-tomorrow-today?utm_medium=rss)
- - [Don&#39;t Plug These 7 Devices Into an Extension Cord. An Expert Explains Why](https://www.cnet.com/how-to/dont-plug-these-7-devices-into-an-extension-cord-an-expert-explains-why/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [visionOS 2.1 brings stability &amp; bug fixes to Apple Vision Pro](https://appleinsider.com/articles/24/10/28/visionos-21-brings-stability-bug-fixes-to-apple-vision-pro?utm_medium=rss)
+ - [macOS 15.1 Sequoia review: Apple Intelligence is on the Mac but you have to look for it](https://appleinsider.com/articles/24/10/28/macos-151-sequoia-review-apple-intelligence-is-on-the-mac-but-you-have-to-look-for-it?utm_medium=rss)
+ - [Apple updates &#39;Magic&#39; accessories to USB-C, included with M4 iMac](https://appleinsider.com/articles/24/10/28/apple-updates-magic-accessories-to-usb-c-included-with-m4-imac?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
