@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Poll result: You love Gmail’s Android app, but even that’s not always enough](https://www.androidauthority.com/gmail-android-app-poll-result-3494718/)
- - [Your Ford vehicle could be getting a big Android Auto upgrade](https://www.androidauthority.com/ford-android-auto-upgrade-3494739/)
- - [Google says its AI Overview summaries will begin rolling out in over 100 countries this week and will reach more than 1B monthly users with this expansion &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/241028/p23#a241028p23)<!-- TECH:END -->
+ - [Windows 11 is preventing users from removing their devices from Phone Link](https://www.androidauthority.com/windows-11-phone-link-issues-3494764/)
+ - [Apple Intelligence will come to EU iPhones in April](https://www.theverge.com/2024/10/28/24281947/apple-intelligence-eu-iphones-april)
+ - [Robinhood admits it’s just a gambling app](https://www.theverge.com/2024/10/28/24281883/robinhood-presidential-betting)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
