@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Internet Providers in Hawaii](https://www.cnet.com/home/internet/best-internet-providers-in-hawaii/#ftag=CAD590a51e)
- - [Musk said there&#39;s a &quot;chance&quot; HW3 systems, now in millions of Teslas, do &quot;not achieve the safety level&quot; for unsupervised FSD and mentioned free upgrades from HW3 &lpar;Fred Lambert/Electrek&rpar;](http://www.techmeme.com/241027/p9#a241027p9)
- - [Hospitals use a transcription tool powered by a hallucination-prone OpenAI model](https://www.theverge.com/2024/10/27/24281170/open-ai-whisper-hospitals-transcription-hallucinations-studies)<!-- TECH:END -->
+ - [Indonesia bans the sale of recently debuted Apple products including the iPhone 16, after claiming Apple only partially fulfilled a ~$109M investment commitment &lpar;Claire Jiao/Bloomberg&rpar;](http://www.techmeme.com/241027/p10#a241027p10)
+ - [Google quietly fixed the biggest problem with Quick Share for Windows](https://www.androidauthority.com/quick-share-for-windows-wifi-direct-3494451/)
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Oct. 28, #35](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-oct-28-35/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
