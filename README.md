@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The unbearable weight of massive ... talent](http://9gag.com/gag/aBygdjx)
- - ⏩ [Guy found out about potential energy becoming kinetic energy in a split second. Almost got the Darwin finger award](http://9gag.com/gag/aVv0bbK)
- - 👉 [Good thing he came back](http://9gag.com/gag/an75n5L)<!-- MEMES:END -->
+ - 💣 [5&#39;8` Asian representation in NBA and killing it.](http://9gag.com/gag/ae951Pp)
+ - ⏩ [Manga authors are getting bolder every year](http://9gag.com/gag/aBygZ2N)
+ - 👉 [When you try to show off your skills](http://9gag.com/gag/aZZ7nrp)<!-- MEMES:END -->
 
 ---
 
