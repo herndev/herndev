@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Fight!](http://9gag.com/gag/aE0gM8x)
- - ⏩ [Photographs of Blanche Monnier before and after being locked inside a filthy room for 25 years by her cruel mother.](http://9gag.com/gag/aE0gVxG)
- - 👉 [When you try to show off your skills](http://9gag.com/gag/aZZ7nrp)<!-- MEMES:END -->
+ - 💣 [WOW THIS STORY IS CRAZY](http://9gag.com/gag/a9yR6WL)
+ - ⏩ [`SUKA UAAAAAGGHHH`](http://9gag.com/gag/aZZ7wxp)
+ - 👉 [Fight!](http://9gag.com/gag/aE0gM8x)<!-- MEMES:END -->
 
 ---
 
