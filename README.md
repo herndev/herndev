@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [WOW THIS STORY IS CRAZY](http://9gag.com/gag/a9yR6WL)
- - ⏩ [`SUKA UAAAAAGGHHH`](http://9gag.com/gag/aZZ7wxp)
- - 👉 [Fight!](http://9gag.com/gag/aE0gM8x)<!-- MEMES:END -->
+ - 💣 [Just the surface for sure](http://9gag.com/gag/a875AOY)
+ - ⏩ [Main character syndrome](http://9gag.com/gag/aAygK0L)
+ - 👉 [How to correctly shoot a time lapse](http://9gag.com/gag/aRB0LWG)<!-- MEMES:END -->
 
 ---
 
