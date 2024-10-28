@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Somewhat of a Pokefan but can someone explain the joke?](http://9gag.com/gag/adB5vx2)
- - ⏩ [The unbearable weight of massive ... talent](http://9gag.com/gag/aBygdjx)
- - 👉 [Fight!](http://9gag.com/gag/aE0gM8x)<!-- MEMES:END -->
+ - 💣 [The unbearable weight of massive ... talent](http://9gag.com/gag/aBygdjx)
+ - ⏩ [Guy found out about potential energy becoming kinetic energy in a split second. Almost got the Darwin finger award](http://9gag.com/gag/aVv0bbK)
+ - 👉 [Good thing he came back](http://9gag.com/gag/an75n5L)<!-- MEMES:END -->
 
 ---
 
