@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Magic: The Gathering’s Final Fantasy reveal arrives with big changes for the beloved TCG](https://www.polygon.com/mtg-magic-the-gathering/470491/final-fantasy-art-reveal-universes-beyond-standard-legal-announcement)
- - [Transformers One, Trap, Netflix’s Don’t Move, and every movie new to streaming this week](https://www.polygon.com/entertainment/467855/new-movies-watch-streaming-transformers-one-trap-netflix-dont-move)
- - [This surrealist horror game made entirely in PowerPoint will get your Halloween started right](https://www.pcgamer.com/games/horror/this-surrealist-horror-game-made-entirely-in-powerpoint-will-get-your-halloween-started-right)<!-- GAME:END -->
+ - [This visual novel about hunting supernatural oddities in urban environments will definitely be one for the Persona crowd](https://www.pcgamer.com/games/visual-novel/this-visual-novel-about-hunting-supernatural-oddities-in-urban-environments-will-definitely-be-one-for-the-persona-crowd)
+ - [Vice presidential candidate Tim Walz dusts off his controller to stream Crazy Taxi on Twitch: &#39;The Republicans will accuse me of never having a Dreamcast or something&#39;](https://www.pcgamer.com/games/racing/vice-presidential-candidate-tim-walz-dusts-off-his-controller-to-stream-crazy-taxi-on-twitch-the-republicans-will-accuse-me-of-never-having-a-dreamcast-or-something)
+ - [Factorio&#39;s expansion is setting record high player counts yet again so I&#39;m expecting the world&#39;s IT infrastructure to collapse and innovation to stagnate any day now](https://www.pcgamer.com/games/strategy/factorios-expansion-is-setting-record-high-player-counts-yet-again-so-im-expecting-the-worlds-it-infrastructure-to-collapse-and-innovation-to-stagnate-any-day-now)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
