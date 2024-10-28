@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Pixel 11 could bring back a very useful feature from the Pixel 4](https://www.androidauthority.com/google-pixel-11-face-unlock-3494465/)
- - [OnePlus 13: Bigger battery, fast charging, and fan-favorite features revealed](https://www.androidauthority.com/oneplus-13-battery-charging-connectivity-3494529/)
- - [Indonesia bans the sale of iPhone 16 series, claiming that Apple has not fulfilled 40% local content requirements and has not met its investment commitments &lpar;Claire Jiao/Bloomberg&rpar;](http://www.techmeme.com/241027/p10#a241027p10)<!-- TECH:END -->
+ - [Google Messages could give you more customizable contacts once again &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-messages-contact-pictures-apk-teardown-3494535/)
+ - [Paris-based Filigran, whose open-source threat intelligence platform OpenCTI is used by the EU, the FBI, and others, raised a $35M Series B led by Insight &lpar;Romain Dillet/TechCrunch&rpar;](http://www.techmeme.com/241028/p2#a241028p2)
+ - [Google Pixel 10 and 11 are potentially getting these exciting new camera and AI tricks](https://www.androidauthority.com/google-pixel-10-and-pixel-11-camera-ai-features-3494468/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
