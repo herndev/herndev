@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A US federal jury awards Apple $250, finding that Masimo&#39;s smartwatches infringed Apple Watch design patents; Apple sought statutory minimum damages &lpar;Christopher Yasiejko/Bloomberg Law&rpar;](http://www.techmeme.com/241025/p26#a241025p26)
- - [DreamCloud Premier Rest Memory Foam Mattress Review 2024: Side Sleepers Will Love This Premium Foam Bed](https://www.cnet.com/health/sleep/dreamcloud-premier-rest-memory-foam-mattress-review/#ftag=CAD590a51e)
- - [Google Calendar on the web catches up with Android with this fan-favorite feature](https://www.androidauthority.com/google-calendar-web-dark-mode-3494418/)<!-- TECH:END -->
+ - [Hospitals use a transcription tool powered by a hallucination-prone OpenAI model](https://www.theverge.com/2024/10/27/24281170/open-ai-whisper-hospitals-transcription-hallucinations-studies)
+ - [Best Internet Providers in Miami Beach, Florida](https://www.cnet.com/home/internet/best-internet-providers-in-miami-beach-fl/#ftag=CAD590a51e)
+ - [2024 iPad mini teardown reveals minimal internal changes](https://appleinsider.com/articles/24/10/27/2024-ipad-mini-teardown-reveals-minimal-internal-changes?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
