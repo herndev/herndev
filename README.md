@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Pixel 11 could bring back a very useful feature from the Pixel 4](https://www.androidauthority.com/google-pixel-11-face-unlock-3494465/)
  - [OnePlus 13: Bigger battery, fast charging, and fan-favorite features revealed](https://www.androidauthority.com/oneplus-13-battery-charging-connectivity-3494529/)
- - [Indonesia bans the sale of iPhone 16 series, claiming that Apple has not fulfilled 40% local content requirements and has not met its investment commitments &lpar;Claire Jiao/Bloomberg&rpar;](http://www.techmeme.com/241027/p10#a241027p10)
- - [Google quietly fixed the biggest problem with Quick Share for Windows](https://www.androidauthority.com/quick-share-for-windows-wifi-direct-3494451/)<!-- TECH:END -->
+ - [Indonesia bans the sale of iPhone 16 series, claiming that Apple has not fulfilled 40% local content requirements and has not met its investment commitments &lpar;Claire Jiao/Bloomberg&rpar;](http://www.techmeme.com/241027/p10#a241027p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
