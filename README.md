@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The pragmatist’s guide to the 2024 presidential election](https://www.theverge.com/24279103/2024-election-guide-trump-harris-policy-issues)
- - [A UK judge sentences a 27-year-old man who used AI tool Daz 3D to create child sexual abuse imagery to 18 years in prison, a landmark prosecution over deepfakes &lpar;Financial Times&rpar;](http://www.techmeme.com/241028/p10#a241028p10)
- - [A profile of Italian private equity firm Bending Spoons, which has acquired distressed SaaS businesses like WeTransfer and Evernote, and plans to spend billions &lpar;Mark Bergen/Bloomberg&rpar;](http://www.techmeme.com/241028/p9#a241028p9)<!-- TECH:END -->
+ - [Google Pixel Watch 5 might be getting a custom Tensor chip](https://www.androidauthority.com/google-pixel-watch-5-tensor-chip-3494524/)
+ - [The Pixel 11 in 2026 could finally catch up to Galaxy S20 Ultra’s zoom](https://www.androidauthority.com/google-pixel-11-100x-zoom-3494569/)
+ - [US Intel Says Insider Threats Are &#39;Likely&#39; During the Election](https://www.wired.com/story/insider-threats-election/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
