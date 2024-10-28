@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Good boi stand ground, good boi saves flock](http://9gag.com/gag/a34RALe)
- - ⏩ [Abrupt Explosion\u2026](http://9gag.com/gag/azx1Kwq)
- - 👉 [Photographs of Blanche Monnier before and after being locked inside a filthy room for 25 years by her cruel mother.](http://9gag.com/gag/aE0gVxG)<!-- MEMES:END -->
+ - 💣 [No title](http://9gag.com/gag/a0eRVgZ)
+ - ⏩ [W.w Heisenberg downfall](http://9gag.com/gag/aW4Ep9K)
+ - 👉 [When you try to show off your skills](http://9gag.com/gag/aZZ7nrp)<!-- MEMES:END -->
 
 ---
 
