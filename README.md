@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Jeff Bezos is no longer relentlessly focused on customer satisfaction](https://www.theverge.com/2024/10/28/24282076/jeff-bezos-washington-post-cancellations-endorsement)
- - [Fortnite is streamlining its many battle passes](https://www.theverge.com/2024/10/28/24282075/fortnite-streamlining-battle-passes-music-lego-festival)
- - [Meta is reportedly working on its own AI-powered search engine, too](https://www.theverge.com/2024/10/28/24282017/meta-ai-powered-search-engine-report)<!-- TECH:END -->
+ - [UMG partners with AI music company Klay Vision to create an &quot;ethical&quot; AI model for AI-generated music; Klay plans to launch out of stealth in the coming months &lpar;Georg Szalai/The Hollywood Reporter&rpar;](http://www.techmeme.com/241028/p31#a241028p31)
+ - [Sources: VC firms are set to make hundreds of millions from Stripe&#39;s $1.1B acquisition of Bridge; Sequoia&#39;s ~16% stake is worth significantly more than $100M &lpar;Katie Roof/Bloomberg&rpar;](http://www.techmeme.com/241028/p30#a241028p30)
+ - [YouTube Music finally gets its ‘Speed dial’ for recent favorites](https://www.androidauthority.com/youtube-music-speed-dial-3494820/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
