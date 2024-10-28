@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [How to correctly shoot a time lapse](http://9gag.com/gag/aRB0LWG)
- - ⏩ [I don\u2019t want to start shit but I mean\u2026 Ned Stark died for this discovery.](http://9gag.com/gag/a7owOMx)
- - 👉 [Somewhat of a Pokefan but can someone explain the joke?](http://9gag.com/gag/adB5vx2)<!-- MEMES:END -->
+ - 💣 [How to defend against a knife attack](http://9gag.com/gag/aD2g25K)
+ - ⏩ [Good thing he came back](http://9gag.com/gag/an75n5L)
+ - 👉 [Fight!](http://9gag.com/gag/aE0gM8x)<!-- MEMES:END -->
 
 ---
 
