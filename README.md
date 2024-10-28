@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Google, OpenAI, and Anthropic are all making AI systems that will run your PC for you, doing online tasks like filling out forms, research, and even a spot of shopping](https://www.pcgamer.com/software/ai/google-openai-and-anthropic-are-all-making-ai-systems-that-will-run-your-pc-for-you-doing-online-tasks-like-filling-out-forms-research-and-even-a-spot-of-shopping)
- - [Disney Lorcana’s Azurite Sea expansion moves the upstart TCG out of the doldrums](https://www.polygon.com/disney-lorcana/470720/azurite-sea-starter-decks-impressions)
- - [Today&#39;s Wordle answer for Monday, October 28](https://www.pcgamer.com/games/puzzle/wordle-answer-today-october-28-2024)<!-- GAME:END -->
+ - [Deadlock&#39;s latest patch buffs three of the most annoying heroes but manages to leave out the biggest thorn in my side](https://www.pcgamer.com/games/moba/deadlocks-latest-patch-buffs-three-of-the-most-annoying-heroes-but-manages-to-leave-out-the-biggest-thorn-in-my-side)
+ - [Where to find all Black Ops 6 safe code locations in the campaign](https://www.polygon.com/black-ops-6-guides/470915/safe-code-location-campaign-money)
+ - [The Mighty Nein animated series is &#39;definitely more than halfway done&#39;, says Critical Role CEO—which&#39;ll make not one, but two famous D&amp;D campaigns turned into TV](https://www.pcgamer.com/movies-tv/the-mighty-nein-animated-series-is-definitely-more-than-halfway-done-says-critical-role-ceo-whichll-make-not-one-but-two-famous-d-and-d-campaigns-turned-into-tv)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
