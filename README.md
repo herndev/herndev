@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Intelligence is here, but it still has a lot to learn](https://www.theverge.com/2024/10/28/24279804/apple-intelligence-ios-18-1-siri-ai)
- - [Netflix is getting shareable bookmarks for those scenes you can’t stop obsessing over](https://www.androidauthority.com/netflix-moments-mobile-app-3494649/)
- - [AI Slop Is Flooding Medium](https://www.wired.com/story/ai-generated-medium-posts-content-moderation/)<!-- TECH:END -->
+ - [Android 16 could turn Wi-Fi and Bluetooth into one-click toggles once again](https://www.androidauthority.com/android-16-one-click-quick-settings-tiles-3494720/)
+ - [M4 24-inch iMac vs M1 24-inch iMac compared -- A muted upgrade for first-adopters](https://appleinsider.com/inside/24-inch-imac/vs/m4-24-inch-imac-vs-m1-24-inch-imac-compared----a-muted-upgrade-for-first-adopters?utm_medium=rss)
+ - [You can now buy certified refurbished Pixel 6 and Pixel 7 phones straight from Google](https://www.androidauthority.com/google-certified-refurbished-phones-3494697/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
