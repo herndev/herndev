@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [In Dragon Age: The Veilguard, This Dialogue Option Lets You Declare Your Character Is Trans](https://kotaku.com/dragon-age-veilguard-trans-choice-rook-gender-pronouns-1851682607)
- - [Bobby Hill Is All Grown Up In The King Of The Hill Revival](https://kotaku.com/king-of-the-hill-revival-adult-bobby-chef-1851682800)
- - [How To Use Loot Keys In Black Ops 6’s Zombies Mode](https://kotaku.com/black-ops-6-zombies-armory-vault-loot-key-1851682766)<!-- GAME:END -->
+ - [New Home Experience in the Xbox App on Windows Is Available for Xbox Insiders](https://news.xbox.com/en-us/2024/10/28/new-home-experience-in-the-xbox-app-on-windows-is-available-for-xbox-insiders/)
+ - [You Should Watch These Spellbinding Witch Movies For Halloween](https://kotaku.com/good-witch-movies-best-halloween-horror-1851678555)
+ - [Call Of Duty Black Ops 6 Has Some Pretty Bad Spawn Issues At Launch](https://kotaku.com/call-duty-black-ops-6-spawn-bug-blops-cod-1851682799)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
