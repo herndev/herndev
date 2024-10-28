@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Windows 11 is preventing users from removing their devices from Phone Link](https://www.androidauthority.com/windows-11-phone-link-issues-3494764/)
- - [Apple Intelligence will come to EU iPhones in April](https://www.theverge.com/2024/10/28/24281947/apple-intelligence-eu-iphones-april)
- - [Robinhood admits it’s just a gambling app](https://www.theverge.com/2024/10/28/24281883/robinhood-presidential-betting)<!-- TECH:END -->
+ - [The best fitness trackers to buy right now](https://www.theverge.com/22985108/best-fitness-tracker)
+ - [Lenovo Legion Go gaming handheld breaks to a new record-low price](https://www.androidauthority.com/lenovo-legion-go-deal-2-3494701/)
+ - [How GOP figures from Stephen Miller to Elon Musk use lawsuits to silence many groups studying disinfo, like the Stanford Observatory, CCDH, Graphika, NewsGuard &lpar;Parmy Olson/Bloomberg&rpar;](http://www.techmeme.com/241028/p25#a241028p25)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
