@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [visionOS 2.1 brings stability &amp; bug fixes to Apple Vision Pro](https://appleinsider.com/articles/24/10/28/visionos-21-brings-stability-bug-fixes-to-apple-vision-pro?utm_medium=rss)
- - [macOS 15.1 Sequoia review: Apple Intelligence is on the Mac but you have to look for it](https://appleinsider.com/articles/24/10/28/macos-151-sequoia-review-apple-intelligence-is-on-the-mac-but-you-have-to-look-for-it?utm_medium=rss)
- - [Apple updates &#39;Magic&#39; accessories to USB-C, included with M4 iMac](https://appleinsider.com/articles/24/10/28/apple-updates-magic-accessories-to-usb-c-included-with-m4-imac?utm_medium=rss)<!-- TECH:END -->
+ - [Apple Intelligence is here, but it still has a lot to learn](https://www.theverge.com/2024/10/28/24279804/apple-intelligence-ios-18-1-siri-ai)
+ - [Netflix is getting shareable bookmarks for those scenes you can’t stop obsessing over](https://www.androidauthority.com/netflix-moments-mobile-app-3494649/)
+ - [AI Slop Is Flooding Medium](https://www.wired.com/story/ai-generated-medium-posts-content-moderation/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
