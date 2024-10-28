@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best fitness trackers to buy right now](https://www.theverge.com/22985108/best-fitness-tracker)
- - [Lenovo Legion Go gaming handheld breaks to a new record-low price](https://www.androidauthority.com/lenovo-legion-go-deal-2-3494701/)
- - [How GOP figures from Stephen Miller to Elon Musk use lawsuits to silence many groups studying disinfo, like the Stanford Observatory, CCDH, Graphika, NewsGuard &lpar;Parmy Olson/Bloomberg&rpar;](http://www.techmeme.com/241028/p25#a241028p25)<!-- TECH:END -->
+ - [Jeff Bezos is no longer relentlessly focused on customer satisfaction](https://www.theverge.com/2024/10/28/24282076/jeff-bezos-washington-post-cancellations-endorsement)
+ - [Fortnite is streamlining its many battle passes](https://www.theverge.com/2024/10/28/24282075/fortnite-streamlining-battle-passes-music-lego-festival)
+ - [Meta is reportedly working on its own AI-powered search engine, too](https://www.theverge.com/2024/10/28/24282017/meta-ai-powered-search-engine-report)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
