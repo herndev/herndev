@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [No title](http://9gag.com/gag/a0eRVgZ)
- - ⏩ [W.w Heisenberg downfall](http://9gag.com/gag/aW4Ep9K)
- - 👉 [When you try to show off your skills](http://9gag.com/gag/aZZ7nrp)<!-- MEMES:END -->
+ - 💣 [These red lights captured in France.](http://9gag.com/gag/avyo6xb)
+ - ⏩ [This is how to pick cotton.](http://9gag.com/gag/a4PR6B6)
+ - 👉 [Abrupt Explosion\u2026](http://9gag.com/gag/azx1Kwq)<!-- MEMES:END -->
 
 ---
 
