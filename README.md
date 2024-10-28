@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Judge&#39;s are disabled minded](http://9gag.com/gag/a34R021)
- - ⏩ [When you try to show off your skills](http://9gag.com/gag/aZZ7nrp)
- - 👉 [Fight!](http://9gag.com/gag/aE0gM8x)<!-- MEMES:END -->
+ - 💣 [Main character syndrome](http://9gag.com/gag/aAygK0L)
+ - ⏩ [This is just amazing.](http://9gag.com/gag/aZZ71v9)
+ - 👉 [Apple Pay](http://9gag.com/gag/aoy53x3)<!-- MEMES:END -->
 
 ---
 
