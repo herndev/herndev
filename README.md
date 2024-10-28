@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [A Deep Dive into [REDACTED]’s Challenging End Game](https://news.xbox.com/en-us/2024/10/28/a-deep-dive-into-redacteds-challenging-end-game/)
- - [Microsoft&#39;s word-soup has made Windows 11 updates noticeably quicker via the &#39;parallel processing of component manifests&#39; complementing &#39;the parallel hydration of newly serviced components using reverse and forward differentials&#39;](https://www.pcgamer.com/software/operating-systems/microsofts-word-soup-has-made-windows-11-updates-noticeably-quicker-via-the-parallel-processing-of-component-manifests-complementing-the-parallel-hydration-of-newly-serviced-components-using-reverse-and-forward-differentials)
- - [Obsidian says choices both big and small will matter in Avowed, and &#39;the choices you get and the outcomes in front of you are going to depend on what you&#39;re able to find&#39;](https://www.pcgamer.com/games/rpg/obsidian-says-choices-both-big-and-small-will-matter-in-avowed-and-the-choices-you-get-and-the-outcomes-in-front-of-you-are-going-to-depend-on-what-youre-able-to-find)<!-- GAME:END -->
+ - [Dragon Age: The Veilguard: Building A Rook That Truly Feels Like Yours](https://news.xbox.com/en-us/2024/10/28/dragon-age-the-veilguard-building-a-rook-that-truly-feels-like-yours/)
+ - [Dragon Age: The Veilguard is the friend group simulator we’ve been waiting for](https://www.polygon.com/review/470712/review-dragon-age-the-veilguard-ps5-xbox-pc)
+ - [YouTube Rejects Dr Disrespect&#39;s Request To Profit Off His Channel Again](https://kotaku.com/dr-disrespect-youtube-monetization-black-ops-6-ban-1851682643)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
