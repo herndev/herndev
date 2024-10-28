@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Deadlock&#39;s latest patch buffs three of the most annoying heroes but manages to leave out the biggest thorn in my side](https://www.pcgamer.com/games/moba/deadlocks-latest-patch-buffs-three-of-the-most-annoying-heroes-but-manages-to-leave-out-the-biggest-thorn-in-my-side)
- - [Where to find all Black Ops 6 safe code locations in the campaign](https://www.polygon.com/black-ops-6-guides/470915/safe-code-location-campaign-money)
- - [The Mighty Nein animated series is &#39;definitely more than halfway done&#39;, says Critical Role CEO—which&#39;ll make not one, but two famous D&amp;D campaigns turned into TV](https://www.pcgamer.com/movies-tv/the-mighty-nein-animated-series-is-definitely-more-than-halfway-done-says-critical-role-ceo-whichll-make-not-one-but-two-famous-d-and-d-campaigns-turned-into-tv)<!-- GAME:END -->
+ - [A Deep Dive into [REDACTED]’s Challenging End Game](https://news.xbox.com/en-us/2024/10/28/a-deep-dive-into-redacteds-challenging-end-game/)
+ - [Microsoft&#39;s word-soup has made Windows 11 updates noticeably quicker via the &#39;parallel processing of component manifests&#39; complementing &#39;the parallel hydration of newly serviced components using reverse and forward differentials&#39;](https://www.pcgamer.com/software/operating-systems/microsofts-word-soup-has-made-windows-11-updates-noticeably-quicker-via-the-parallel-processing-of-component-manifests-complementing-the-parallel-hydration-of-newly-serviced-components-using-reverse-and-forward-differentials)
+ - [Obsidian says choices both big and small will matter in Avowed, and &#39;the choices you get and the outcomes in front of you are going to depend on what you&#39;re able to find&#39;](https://www.pcgamer.com/games/rpg/obsidian-says-choices-both-big-and-small-will-matter-in-avowed-and-the-choices-you-get-and-the-outcomes-in-front-of-you-are-going-to-depend-on-what-youre-able-to-find)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
