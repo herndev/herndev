@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [CNN loses it after Shark Tank\u2019s Kevin O\u2019Leary points out that Kamala Harris was not actually nominated.](http://9gag.com/gag/a9yR6Ko)
+ - 💣 [Fight!](http://9gag.com/gag/aE0gM8x)
  - ⏩ [This is how to pick cotton.](http://9gag.com/gag/a4PR6B6)
- - 👉 [Main character syndrome](http://9gag.com/gag/aAygK0L)<!-- MEMES:END -->
+ - 👉 [Where\u2019d they put everything?](http://9gag.com/gag/aW4Epp2)<!-- MEMES:END -->
 
 ---
 
