@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Fight!](http://9gag.com/gag/aE0gM8x)
- - ⏩ [This is how to pick cotton.](http://9gag.com/gag/a4PR6B6)
- - 👉 [Where\u2019d they put everything?](http://9gag.com/gag/aW4Epp2)<!-- MEMES:END -->
+ - 💣 [Good boi stand ground, good boi saves flock](http://9gag.com/gag/a34RALe)
+ - ⏩ [Abrupt Explosion\u2026](http://9gag.com/gag/azx1Kwq)
+ - 👉 [Photographs of Blanche Monnier before and after being locked inside a filthy room for 25 years by her cruel mother.](http://9gag.com/gag/aE0gVxG)<!-- MEMES:END -->
 
 ---
 
