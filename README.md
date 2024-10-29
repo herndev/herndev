@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Best C9 loadout and class build in Black Ops 6](https://www.polygon.com/black-ops-6-guides/446968/best-c9-loadout-class-build-setup-mp5-bo6)
- - [AMD drops a possible hint about how AI could be used in its next-gen upscaler package, FSR 4](https://www.pcgamer.com/hardware/graphics-cards/amd-drops-a-possible-hint-about-how-ai-could-be-used-in-its-next-gen-upscaler-package-fsr-4)
- - [How to get the Liberty Falls vault code in Black Ops 6 Zombies](https://www.polygon.com/black-ops-6-guides/471543/liberty-falls-vault-code-rewards-open-safe-deposit-box)<!-- GAME:END -->
+ - [How Netflix’s Remarkable Life of Ibelin pulled off its World of Warcraft scenes without Blizzard’s knowledge](https://www.polygon.com/world-of-warcraft/471239/wow-movie-netflix-remarkable-life-of-ibelin-animation)
+ - [Keychron Q5 HE review](https://www.pcgamer.com/hardware/gaming-keyboards/keychron-q5-he-review)
+ - [Shinji Mikami applauds the Resident Evil 4 remake for taking &#39;the half-assed scenario that I just wrote up in 2 weeks&#39; and fleshing it out](https://www.pcgamer.com/games/action/shinji-mikami-applauds-the-resident-evil-4-remake-for-taking-the-half-assed-scenario-that-i-just-wrote-up-in-2-weeks-and-fleshing-it-out)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
