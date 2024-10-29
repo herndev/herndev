@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [India&#39;s iPhone exports jump up to $6 billion in six months](https://appleinsider.com/articles/24/10/29/indias-iphone-exports-jump-up-to-6-billion-in-six-months?utm_medium=rss)
- - [‘We Were Wrong’: An Oral History of WIRED’s Original Website](https://www.wired.com/story/we-were-wrong-oral-history-hotwired/)
- - [Sources: in digital euro negotiations, Germany, France, and others say the European Central Bank has gained too much power over how much users&#39; wallets can hold &lpar;Politico&rpar;](http://www.techmeme.com/241029/p8#a241029p8)<!-- TECH:END -->
+ - [An analysis of the top US congressional X accounts: Republicans had nearly all of the posts with 20M+ views and saw bigger gains in followers since July 2023 &lpar;Washington Post&rpar;](http://www.techmeme.com/241029/p11#a241029p11)
+ - [Shopify says it has lured hundreds of Salesforce clients, including Mattel and Casper; analysts say Shopify overtook Salesforce&#39;s e-commerce business in 2021 &lpar;Bloomberg&rpar;](http://www.techmeme.com/241029/p10#a241029p10)
+ - [Sources: TSMC has suspended shipments of 7nm chips to at least two chip developers over suspicions they were trying to circumvent US export controls on Huawei &lpar;Cheng Ting-Fang/Nikkei Asia&rpar;](http://www.techmeme.com/241029/p9#a241029p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
