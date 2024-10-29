@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Apple&#39;s iPhone exports from India reached ~$6B in the six months through September 2024, up 33% YoY, on track to pass $10B by the end of fiscal 2024 &lpar;Sankalp Phartiyal/Bloomberg&rpar;](http://www.techmeme.com/241029/p1#a241029p1)
- - [Save up to $100 on Apple&#39;s 2024 iMac M4 with Best Buy Plus](https://appleinsider.com/articles/24/10/29/save-up-to-100-on-apples-2024-imac-m4-with-best-buy-plus?utm_medium=rss)
- - [You can now do an official Google course to learn how to talk to AI chatbots](https://www.androidauthority.com/google-course-how-to-talk-to-ai-3494858/)<!-- TECH:END -->
+ - [Apple Intelligence vs Google Gemini: Which AI platform makes your phone more useful?](https://www.androidauthority.com/apple-intelligence-vs-google-gemini-3466470/)
+ - [No need to polish your writing skills, Google’s AI will now make your sound smarter on Gmail.](https://www.androidauthority.com/gmail-polish-tool-3494874/)
+ - [Gartner: AI agents are &quot;one of the most hyped topics in gen AI today&quot;; survey: 75% of CEOs say AI will impact their industry, up from 21% in 2023 &lpar;Taryn Plumb/VentureBeat&rpar;](http://www.techmeme.com/241029/p2#a241029p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
