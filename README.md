@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [With no Disco Elysium 2 in sight, who exactly are behind the 5 studios of Disco devs now vying to make its spiritual successor?](https://www.pcgamer.com/games/rpg/disco-elysium-successor-studios-overview)
- - [Suda51 thinks Shadows of the Damned has a better shot today than it did in 2011: &#39;Weirder, more non-standard games feel much more natural to players nowadays&#39;](https://www.pcgamer.com/gaming-industry/suda51-thinks-shadows-of-the-damned-has-a-better-shot-today-than-it-did-in-2011-weirder-more-non-standard-games-feel-much-more-natural-to-players-nowadays)
- - [Dragon Age: The Veilguard Is Already Proving To Be One Of BioWare&#39;s More Divisive Sequels](https://kotaku.com/dragon-age-veilguard-reviews-metacritic-score-bioware-1851683347)<!-- GAME:END -->
+ - [Baldur&#39;s Gate 3 publishing chief praises Dragon Age: The Veilguard as a &#39;binge-worthy Netflix series&#39; and says that it knows what it &#39;wants to be&#39;](https://www.pcgamer.com/games/dragon-age/baldurs-gate-3-publishing-chief-praises-dragon-age-the-veilguard-as-a-binge-worthy-netflix-series-and-says-that-it-knows-what-it-wants-to-be)
+ - [The new Call of Duty Zombies mode is bananas: players are going bowling, turning into superheroes, and crafting jet guns](https://www.pcgamer.com/games/call-of-duty/black-ops-6-zombies-mode-is-bananas)
+ - [With no Disco Elysium 2 in sight, who exactly are behind the 5 studios of Disco devs now vying to make its spiritual successor?](https://www.pcgamer.com/games/rpg/disco-elysium-successor-studios-overview)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
