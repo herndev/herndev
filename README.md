@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Volvo and Polestar EVs are now getting Tesla Supercharger access](https://www.theverge.com/2024/10/29/24282667/volvo-polestar-tesla-supercharger-adapter-nacs)
- - [The Playdate Stereo Dock has been shelved](https://www.theverge.com/2024/10/29/24282637/panic-playdate-stereo-dock-bluetooth-speaker-pause-development-challenges)
- - [14 Best Cheap Headphones and Earbuds for $100 or Less &lpar;2024&rpar;](https://www.wired.com/gallery/best-headphones-under-100/)<!-- TECH:END -->
+ - [ESPN is launching a game inside Fortnite](https://www.theverge.com/2024/10/29/24279789/fortnite-espn-football-island-disney)
+ - [Android files now appear in Windows File Explorer, no cable necessary](https://www.androidauthority.com/windows-android-storage-integration-3495017/)
+ - [Download these Halloween wallpapers for your phone](https://www.androidauthority.com/halloween-wallpapers-3494859/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
