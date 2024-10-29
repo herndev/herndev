@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [An analysis of the top US congressional X accounts: Republicans had nearly all of the posts with 20M+ views and saw bigger gains in followers since July 2023 &lpar;Washington Post&rpar;](http://www.techmeme.com/241029/p11#a241029p11)
- - [Shopify says it has lured hundreds of Salesforce clients, including Mattel and Casper; analysts say Shopify overtook Salesforce&#39;s e-commerce business in 2021 &lpar;Bloomberg&rpar;](http://www.techmeme.com/241029/p10#a241029p10)
- - [Sources: TSMC has suspended shipments of 7nm chips to at least two chip developers over suspicions they were trying to circumvent US export controls on Huawei &lpar;Cheng Ting-Fang/Nikkei Asia&rpar;](http://www.techmeme.com/241029/p9#a241029p9)<!-- TECH:END -->
+ - [Vizio’s new ‘MicMe’ soundbar has built-in karaoke](https://www.theverge.com/2024/10/29/24282101/vizio-micme-soundbar-karaoke-microphones)
+ - [Lucid announces pricing of upcoming Gravity SUV](https://www.theverge.com/2024/10/29/24281934/lucid-gravity-price-announce-reservation)
+ - [The future of crypto regulation comes down to one unpopular man](https://www.theverge.com/24280387/gary-gensler-sec-chair-presidential-election-2024)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
