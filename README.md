@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [M4 Mac mini vs M2 Mac mini compared: Leaner and meaner](https://appleinsider.com/inside/mac-mini/vs/m4-mac-mini-vs-m2-mac-mini-compared-leaner-and-meaner?utm_medium=rss)
- - [New firmware available for fourth-generation AirPods](https://appleinsider.com/articles/24/10/29/new-firmware-available-for-fourth-generation-airpods?utm_medium=rss)
- - [Russia wants Google to pay a fine that’s more money than exists on Earth](https://www.androidauthority.com/google-russia-fine-amount-3495096/)<!-- TECH:END -->
+ - [An Elon Musk-funded super PAC is putting out fake pro-Harris ads](https://www.theverge.com/2024/10/29/24282957/progress-2028-elon-musk-building-americas-future-ads-pac)
+ - [Major Pixel 9a leak reveals bigger display and battery for the same price](https://www.androidauthority.com/pixel-9a-specs-leak-3495136/)
+ - [The Scary Movie franchise is getting a Wayans brothers reboot](https://www.theverge.com/2024/10/29/24282909/scary-movie-reboot-wayans-brothers)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
