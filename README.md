@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The end](http://9gag.com/gag/aYQ7EPq)
- - ⏩ [They could at least prove him wrong before they start criticising him](http://9gag.com/gag/a1mRNY2)
- - 👉 [This is how to pick cotton.](http://9gag.com/gag/a4PR6B6)<!-- MEMES:END -->
+ - 💣 [Fireworks](http://9gag.com/gag/ae95VDq)
+ - ⏩ [I don\u2019t want to start shit but I mean\u2026 Ned Stark died for this discovery.](http://9gag.com/gag/a7owOMx)
+ - 👉 [The end](http://9gag.com/gag/aYQ7EPq)<!-- MEMES:END -->
 
 ---
 
