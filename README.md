@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Hunting tactics - gain the animals&#39; trust](http://9gag.com/gag/avyoxx5)
- - ⏩ [No title](http://9gag.com/gag/a0eRVgZ)
- - 👉 [This is how you win the Halloween!](http://9gag.com/gag/aBygVzD)<!-- MEMES:END -->
+ - 💣 [Act hurt, dammit](http://9gag.com/gag/axy7O6Y)
+ - ⏩ [Forbidden chocolate cookie batter.](http://9gag.com/gag/a6ZNB32)
+ - 👉 [Fireworks](http://9gag.com/gag/ae95VDq)<!-- MEMES:END -->
 
 ---
 
