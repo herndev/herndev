@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Best Black Ops 6 XM4 loadout and class setup](https://www.pcgamer.com/games/fps/call-of-duty/black-ops-6-xm4-loadout)
  - [&#39;This really hurts&#39;: Path of Exile 2 early access has been delayed by three weeks](https://www.pcgamer.com/games/rpg/this-really-hurts-path-of-exile-2-early-access-has-been-delayed-by-three-weeks)
- - [Can Halloween Froakie and Rowlet be shiny in Pokémon Go?](https://www.polygon.com/pokemon-go-guide/471138/can-halloween-froakie-rowlet-be-shiny)
- - [Today&#39;s Wordle answer for Tuesday, October 29](https://www.pcgamer.com/games/puzzle/wordle-answer-today-october-29-2024)<!-- GAME:END -->
+ - [Can Halloween Froakie and Rowlet be shiny in Pokémon Go?](https://www.polygon.com/pokemon-go-guide/471138/can-halloween-froakie-rowlet-be-shiny)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
