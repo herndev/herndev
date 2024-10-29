@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Activate all neurons](http://9gag.com/gag/aVv0L3n)
- - ⏩ [It\u2019s better prevent than remediate](http://9gag.com/gag/azx1GPz)
- - 👉 [And there ya have it\u2026](http://9gag.com/gag/aByg6z2)<!-- MEMES:END -->
+ - 💣 [Photos with his wife vs. photos fishing](http://9gag.com/gag/a9yR2zo)
+ - ⏩ [Act hurt, dammit](http://9gag.com/gag/axy7O6Y)
+ - 👉 [P2W newbie with pro F2P players](http://9gag.com/gag/aPARo2g)<!-- MEMES:END -->
 
 ---
 
