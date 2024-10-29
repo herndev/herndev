@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Bungie has finally broken its silence on Marathon, but without the promised gameplay and practically no details—gulp?](https://www.pcgamer.com/games/fps/bungie-has-finally-broken-its-silence-on-marathon-but-without-the-promised-gameplay-and-practically-no-details-gulp)
- - [Comics legend Alan Moore calls out &#39;reflexive belligerence&#39; of pop culture fandom: &#39;Fan attitudes have toxified the world&#39;](https://www.pcgamer.com/games/comics-legend-alan-moore-calls-out-reflexive-belligerence-of-pop-culture-fandom-fan-attitudes-have-toxified-the-world)
- - [Dragon Age: The Veilguard](https://www.pcgamer.com/dragon-age-the-veilguard)<!-- GAME:END -->
+ - [Can Halloween Froakie and Rowlet be shiny in Pokémon Go?](https://www.polygon.com/pokemon-go-guide/471138/can-halloween-froakie-rowlet-be-shiny)
+ - [Today&#39;s Wordle answer for Tuesday, October 29](https://www.pcgamer.com/games/puzzle/wordle-answer-today-october-29-2024)
+ - [Bungie has finally broken its silence on Marathon, but without the promised gameplay and practically no details—gulp?](https://www.pcgamer.com/games/fps/bungie-has-finally-broken-its-silence-on-marathon-but-without-the-promised-gameplay-and-practically-no-details-gulp)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
