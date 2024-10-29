@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Sony Shuts Down Studio Behind Concord Less Than Two Years After Buying It](https://kotaku.com/firewalk-studios-concord-ps5-sony-live-service-shutdown-1851684290)
- - [Disney Dreamlight Valley expansion, Storybook Vale, adds Hades and Maleficent](https://www.polygon.com/news/471843/disney-dreamlight-valley-storybook-vale-expansion-announcement)
- - [Disney Dreamlight Valley just announced its second DLC featuring 4 new characters, along with a free update coming in December](https://www.pcgamer.com/games/life-sim/disney-dreamlight-valley-just-announced-its-second-dlc-featuring-4-new-characters-along-with-a-free-update-coming-in-december)<!-- GAME:END -->
+ - [Robert Downey Jr. Says He’d Sue If Marvel Ever Copied His Likeness With AI](https://kotaku.com/robert-downey-jr-sue-marvel-iron-man-ai-likeness-1851684439)
+ - [The best Steam Deck accessories](https://www.polygon.com/what-to-buy/23627961/best-steam-deck-accessories)
+ - [Pokémon&#39;s New Holiday Plushies Make Me Want To Take Halloween Decorations Down Early](https://kotaku.com/pokemon-holiday-plush-pikachu-maushold-stuffed-animal-1851684389)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
