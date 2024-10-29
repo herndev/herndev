@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Overwatch 2&#39;s director announces &#39;a small balance patch&#39; for the new Junkenstein&#39;s Lab mode, which has managed to attract 15% of the daily players 2 weeks after launch](https://www.pcgamer.com/games/fps/overwatch-2s-director-announces-a-small-balance-patch-for-the-new-junkensteins-lab-mode-which-has-managed-to-attract-15-percent-of-the-daily-players-2-weeks-after-launch)
- - [Turtle Beach Stealth Pivot gaming controller can twist itself into a mini fight stick](https://www.polygon.com/pre-order/471654/turtle-beach-stealth-pivot-controller-where-to-buy)
- - [Red Dead Redemption cheat codes for PC, PS4, Switch, and Xbox](https://www.polygon.com/guides/471403/red-dead-redemption-cheat-codes-pc-ps4-switch-xbox-rdr)<!-- GAME:END -->
+ - [New Updates Bring Infected and Classic Nuketown to Call of Duty: Black Ops 6](https://www.callofduty.com/blog/2024/10/call-of-duty-black-ops-6-new-maps-modes-updates-announcement#new_tab)
+ - [Introducing the Beth Deck, a 3D-printed gaming handheld that can be &#39;assembled in 15 minutes&#39; using the guts of a Framework laptop](https://www.pcgamer.com/hardware/introducing-the-beth-deck-a-3d-printed-gaming-handheld-that-can-be-assembled-in-15-minutes-using-the-guts-of-a-framework-laptop)
+ - [One Of The Best Fighting Games Around Is Half Off Right Now](https://kotaku.com/guilty-gear-strive-half-off-sale-steam-xbox-playstation-1851684093)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
