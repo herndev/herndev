@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Abrupt Explosion\u2026](http://9gag.com/gag/azx1Kwq)
- - ⏩ [Legit.. I&#39;m broke..](http://9gag.com/gag/a5QRGDE)
- - 👉 [The end](http://9gag.com/gag/aYQ7EPq)<!-- MEMES:END -->
+ - ⏩ [Fireworks](http://9gag.com/gag/ae95VDq)
+ - 👉 [Give him a nice smile](http://9gag.com/gag/a0eR02Z)<!-- MEMES:END -->
 
 ---
 
