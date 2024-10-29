@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Fireworks](http://9gag.com/gag/ae95VDq)
- - ⏩ [Cameraman on dutyl](http://9gag.com/gag/ae95ZRb)
- - 👉 [It\u2019s better prevent than remediate](http://9gag.com/gag/azx1GPz)<!-- MEMES:END -->
+ - 💣 [Abrupt Explosion\u2026](http://9gag.com/gag/azx1Kwq)
+ - ⏩ [Legit.. I&#39;m broke..](http://9gag.com/gag/a5QRGDE)
+ - 👉 [The end](http://9gag.com/gag/aYQ7EPq)<!-- MEMES:END -->
 
 ---
 
