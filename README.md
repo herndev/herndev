@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Boos](http://9gag.com/gag/azx1Zyq)
- - ⏩ [From Seoul to Soul-Crushing: A Korean Kid&#39;s Indian Adventure.](http://9gag.com/gag/a6ZNBXb)
+ - 💣 [When you just trying to work but your co-worker crack open a cold beer.](http://9gag.com/gag/axy7bLM)
+ - ⏩ [P2W newbie with pro F2P players](http://9gag.com/gag/aPARo2g)
  - 👉 [Hire a plumber next time.](http://9gag.com/gag/a6ZNBRq)<!-- MEMES:END -->
 
 ---
