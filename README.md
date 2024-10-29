@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Vizio’s new ‘MicMe’ soundbar has built-in karaoke](https://www.theverge.com/2024/10/29/24282101/vizio-micme-soundbar-karaoke-microphones)
- - [Lucid announces pricing of upcoming Gravity SUV](https://www.theverge.com/2024/10/29/24281934/lucid-gravity-price-announce-reservation)
- - [The future of crypto regulation comes down to one unpopular man](https://www.theverge.com/24280387/gary-gensler-sec-chair-presidential-election-2024)<!-- TECH:END -->
+ - [Cadillac’s first performance EV is the Lyriq-V](https://www.theverge.com/2024/10/29/24282592/cadillac-lyriq-v-series-performance-2026)
+ - [Test iPhone 17 models are reportedly already being developed in India](https://appleinsider.com/articles/24/10/29/test-iphone-17-models-are-reportedly-already-being-developed-in-india?utm_medium=rss)
+ - [OnePlus Open 2 rumors: Release date, leaked features, and everything else we know so far](https://www.androidauthority.com/oneplus-open-2-3418204/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
