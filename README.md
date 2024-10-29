@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A smaller Mac mini brings big problems for server farms and accessory makers](https://appleinsider.com/articles/24/10/29/a-smaller-mac-mini-brings-big-problems-for-server-farms-and-accessory-makers?utm_medium=rss)
- - [AI effects and text captions are coming to Final Cut Pro](https://appleinsider.com/articles/24/10/29/ai-effects-and-text-captions-are-coming-to-final-cut-pro?utm_medium=rss)
- - [Sony’s noise-canceling XM5s have dropped to one of their best prices yet](https://www.theverge.com/2024/10/29/24279458/sony-wh-1000xm5-thermapen-one-deal-sale)<!-- TECH:END -->
+ - [Sony closes Concord studio and permanently shuts down the game](https://www.theverge.com/2024/10/29/24282900/sony-shutting-down-concord-firewalk-studios)
+ - [Here’s where you can preorder Apple’s new iMac and Mac Mini with M4](https://www.theverge.com/24279801/apple-macbook-pro-mac-mini-imac-m4-preorder-buy-price-release-date)
+ - [Consensys, the maker of the MetaMask crypto wallet, is cutting 162 staff, ~20% of its workforce, and notes costly fights with regulators &lpar;Pritam Biswas/Reuters&rpar;](http://www.techmeme.com/241029/p23#a241029p23)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
