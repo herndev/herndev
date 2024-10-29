@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I already watched the movie, you don&#39;t need to sell it to me.](http://9gag.com/gag/aAygXqo)
- - ⏩ [The betrayal shall be remembered through ages to come...](http://9gag.com/gag/aVv0K1w)
- - 👉 [From Seoul to Soul-Crushing: A Korean Kid&#39;s Indian Adventure.](http://9gag.com/gag/a6ZNBXb)<!-- MEMES:END -->
+ - 💣 [Boos](http://9gag.com/gag/azx1Zyq)
+ - ⏩ [From Seoul to Soul-Crushing: A Korean Kid&#39;s Indian Adventure.](http://9gag.com/gag/a6ZNBXb)
+ - 👉 [Hire a plumber next time.](http://9gag.com/gag/a6ZNBRq)<!-- MEMES:END -->
 
 ---
 
