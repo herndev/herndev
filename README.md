@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [X says it has &quot;re-architected&quot; the scoring system for its Community Notes feature so that notes can now appear less than 20 minutes after a post is published &lpar;Karissa Bell/Engadget&rpar;](http://www.techmeme.com/241029/p35#a241029p35)
- - [Galaxy, shmalaxy — Samsung could be considering some new smartphone branding](https://www.androidauthority.com/samsung-branding-3495176/)
- - [The App Store could soon offer AI-generated summaries of user app reviews](https://appleinsider.com/articles/24/10/29/the-app-store-could-soon-offer-ai-generated-summaries-of-user-app-reviews?utm_medium=rss)<!-- TECH:END -->
+ - [Alphabet shares Q3 revenue up 15% to $88.27 billion](https://www.androidauthority.com/alphabet-q3-2024-revenue-3495216/)
+ - [EA reports Q2 net bookings up 14% YoY to $2.08B vs. $2.04B est., revenue up 6%, raises its FY 2025 bookings forecast, as its American football titles outperform &lpar;Zaheer Kachwala/Reuters&rpar;](http://www.techmeme.com/241029/p36#a241029p36)
+ - [Narwal Freo Z Ultra robot vacuum and mop gets discounted for the first time!](https://www.androidauthority.com/narwal-freo-z-ultra-deal-3495119/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
