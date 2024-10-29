@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [India&#39;s iPhone exports jump up to $6 billion in six months](https://appleinsider.com/articles/24/10/29/indias-iphone-exports-jump-up-to-6-billion-in-six-months?utm_medium=rss)
  - [‘We Were Wrong’: An Oral History of WIRED’s Original Website](https://www.wired.com/story/we-were-wrong-oral-history-hotwired/)
- - [As Schools Ban Phones, More Kids Are Using Smartwatches](https://www.wired.com/story/schools-ban-phones-but-kids-arrive-with-smartwatches-edsurge/)
- - [Hurun China Rich List: ByteDance founder Zhang Yiming, who stepped down as CEO in 2021, is China&#39;s richest person at $49.3B, as ByteDance&#39;s global revenue jumps &lpar;Casey Hall/Reuters&rpar;](http://www.techmeme.com/241029/p7#a241029p7)<!-- TECH:END -->
+ - [Sources: in digital euro negotiations, Germany, France, and others say the European Central Bank has gained too much power over how much users&#39; wallets can hold &lpar;Politico&rpar;](http://www.techmeme.com/241029/p8#a241029p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
