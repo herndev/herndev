@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Trench Crusade unchains the grimmest, darkest sci-fi miniatures universe](https://www.polygon.com/tabletop-games/470132/trench-crusade-mike-franchina-tuomas-pirinen-kickstarter-release-date)
- - [Performance figures emerge for the Ryzen 7 9800X3D ahead of release and it&#39;s already beginning to make me regret buying a 7800X3D a couple of weeks ago](https://www.pcgamer.com/hardware/performance-figures-emerge-for-the-ryzen-7-9800x3d-ahead-of-release-and-its-already-beginning-to-make-me-regret-buying-a-7800x3d-a-couple-of-weeks-ago)
- - [PS5 30th Anniversary Bundles That Sold Out In Minutes Will Briefly Be Back In Stock](https://kotaku.com/ps5-30th-anniversary-bungle-preorder-stock-date-1851682916)<!-- GAME:END -->
+ - [Overwatch 2&#39;s director announces &#39;a small balance patch&#39; for the new Junkenstein&#39;s Lab mode, which has managed to attract 15% of the daily players 2 weeks after launch](https://www.pcgamer.com/games/fps/overwatch-2s-director-announces-a-small-balance-patch-for-the-new-junkensteins-lab-mode-which-has-managed-to-attract-15-percent-of-the-daily-players-2-weeks-after-launch)
+ - [Turtle Beach Stealth Pivot gaming controller can twist itself into a mini fight stick](https://www.polygon.com/pre-order/471654/turtle-beach-stealth-pivot-controller-where-to-buy)
+ - [Red Dead Redemption cheat codes for PC, PS4, Switch, and Xbox](https://www.polygon.com/guides/471403/red-dead-redemption-cheat-codes-pc-ps4-switch-xbox-rdr)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
