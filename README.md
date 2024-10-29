@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [New Updates Bring Infected and Classic Nuketown to Call of Duty: Black Ops 6](https://www.callofduty.com/blog/2024/10/call-of-duty-black-ops-6-new-maps-modes-updates-announcement#new_tab)
- - [Introducing the Beth Deck, a 3D-printed gaming handheld that can be &#39;assembled in 15 minutes&#39; using the guts of a Framework laptop](https://www.pcgamer.com/hardware/introducing-the-beth-deck-a-3d-printed-gaming-handheld-that-can-be-assembled-in-15-minutes-using-the-guts-of-a-framework-laptop)
- - [One Of The Best Fighting Games Around Is Half Off Right Now](https://kotaku.com/guilty-gear-strive-half-off-sale-steam-xbox-playstation-1851684093)<!-- GAME:END -->
+ - [Sony Shuts Down Studio Behind Concord Less Than Two Years After Buying It](https://kotaku.com/firewalk-studios-concord-ps5-sony-live-service-shutdown-1851684290)
+ - [Disney Dreamlight Valley expansion, Storybook Vale, adds Hades and Maleficent](https://www.polygon.com/news/471843/disney-dreamlight-valley-storybook-vale-expansion-announcement)
+ - [Disney Dreamlight Valley just announced its second DLC featuring 4 new characters, along with a free update coming in December](https://www.pcgamer.com/games/life-sim/disney-dreamlight-valley-just-announced-its-second-dlc-featuring-4-new-characters-along-with-a-free-update-coming-in-december)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
