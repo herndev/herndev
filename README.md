@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Chinese hackers targeted phones used by Trump family members and Biden admin and State Dept. officials; audio communications may have been captured &lpar;New York Times&rpar;](http://www.techmeme.com/241029/p32#a241029p32)
- - [Snap says it will roll out its new &quot;simple&quot; Snapchat app in Q1 2025, ~10M users are testing it, but warns the engagement metrics are worse on iOS versus Android &lpar;Alex Weprin/The Hollywood Reporter&rpar;](http://www.techmeme.com/241029/p31#a241029p31)
- - [Apple&#39;s new M4 iMac is up to $100 off, plus $20 off AppleCare](https://appleinsider.com/articles/24/10/29/apples-new-m4-imac-is-up-to-100-off-plus-20-off-applecare?utm_medium=rss)<!-- TECH:END -->
+ - [X says it has &quot;re-architected&quot; the scoring system for its Community Notes feature so that notes can now appear less than 20 minutes after a post is published &lpar;Karissa Bell/Engadget&rpar;](http://www.techmeme.com/241029/p35#a241029p35)
+ - [Galaxy, shmalaxy — Samsung could be considering some new smartphone branding](https://www.androidauthority.com/samsung-branding-3495176/)
+ - [The App Store could soon offer AI-generated summaries of user app reviews](https://appleinsider.com/articles/24/10/29/the-app-store-could-soon-offer-ai-generated-summaries-of-user-app-reviews?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
