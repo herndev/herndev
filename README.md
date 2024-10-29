@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The things you may have missed from Monday&#39;s M4 iMac announcement](https://appleinsider.com/articles/24/10/28/the-things-you-may-have-missed-from-mondays-m4-imac-announcement?utm_medium=rss)
- - [Interviews with current and former staffers detail Evan Spiegel&#39;s efforts to revive Snap, his divisive AR bet, high senior staff turnover, and more &lpar;Hannah Murphy/Financial Times&rpar;](http://www.techmeme.com/241028/p32#a241028p32)
- - [UMG partners with AI music company Klay Vision to create an &quot;ethical&quot; AI model for AI-generated music; Klay plans to launch out of stealth in the coming months &lpar;Georg Szalai/The Hollywood Reporter&rpar;](http://www.techmeme.com/241028/p31#a241028p31)<!-- TECH:END -->
+ - [Gili Raanan&#39;s VC firm Cyberstarts has helped launch successful startups like Wiz but faces ethical questions about a profit-sharing program with industry execs &lpar;Forbes&rpar;](http://www.techmeme.com/241028/p34#a241028p34)
+ - [The Biden admin finalizes rules to limit US investments in AI and other tech sectors in China that could threaten national security, effective January 2 &lpar;Reuters&rpar;](http://www.techmeme.com/241028/p33#a241028p33)
+ - [How to Get Started on Your Smart Home Without a Hub or Smart Speaker](https://www.cnet.com/home/smart-home/heres-how-to-make-your-home-smarter-without-buying-a-hub-or-smart-speaker/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
