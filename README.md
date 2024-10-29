@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [5&#39;8` Asian representation in NBA and killing it.](http://9gag.com/gag/ae951Pp)
- - ⏩ [Side effect of living healthy](http://9gag.com/gag/aO80Zg3)
- - 👉 [It\u2019s better prevent than remediate](http://9gag.com/gag/azx1GPz)<!-- MEMES:END -->
+ - 💣 [Judge&#39;s are disabled minded](http://9gag.com/gag/a34R021)
+ - ⏩ [The end](http://9gag.com/gag/aYQ7EPq)
+ - 👉 [Side effect of living healthy](http://9gag.com/gag/aO80Zg3)<!-- MEMES:END -->
 
 ---
 
