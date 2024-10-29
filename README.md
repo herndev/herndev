@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [&#39;This really hurts&#39;: Path of Exile 2 early access has been delayed by three weeks](https://www.pcgamer.com/games/rpg/this-really-hurts-path-of-exile-2-early-access-has-been-delayed-by-three-weeks)
  - [Can Halloween Froakie and Rowlet be shiny in Pokémon Go?](https://www.polygon.com/pokemon-go-guide/471138/can-halloween-froakie-rowlet-be-shiny)
- - [Today&#39;s Wordle answer for Tuesday, October 29](https://www.pcgamer.com/games/puzzle/wordle-answer-today-october-29-2024)
- - [Bungie has finally broken its silence on Marathon, but without the promised gameplay and practically no details—gulp?](https://www.pcgamer.com/games/fps/bungie-has-finally-broken-its-silence-on-marathon-but-without-the-promised-gameplay-and-practically-no-details-gulp)<!-- GAME:END -->
+ - [Today&#39;s Wordle answer for Tuesday, October 29](https://www.pcgamer.com/games/puzzle/wordle-answer-today-october-29-2024)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
