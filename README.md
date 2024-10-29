@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Photos with his wife vs. photos fishing](http://9gag.com/gag/a9yR2zo)
- - ⏩ [Act hurt, dammit](http://9gag.com/gag/axy7O6Y)
- - 👉 [P2W newbie with pro F2P players](http://9gag.com/gag/aPARo2g)<!-- MEMES:END -->
+ - 💣 [Hunting tactics - gain the animals&#39; trust](http://9gag.com/gag/avyoxx5)
+ - ⏩ [No title](http://9gag.com/gag/a0eRVgZ)
+ - 👉 [This is how you win the Halloween!](http://9gag.com/gag/aBygVzD)<!-- MEMES:END -->
 
 ---
 
