@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [I Hate Call Of Duty’s Launcher So Much](https://kotaku.com/call-of-duty-launcher-sucks-bad-awful-review-1851684502)
- - [13 years after Shadows of the Damned&#39;s notoriously difficult development with EA, Suda51 has fully healed from the &#39;injury&#39; of rewriting the game 6 times: &#39;I actually have a lot ofreally fond memories of the experience&#39;](https://www.pcgamer.com/games/action/13-years-after-shadows-of-the-damneds-notoriously-difficult-development-with-ea-suda51-has-fully-healed-from-the-injury-of-rewriting-the-game-6-times-i-actually-have-a-lot-of-really-fond-memories-of-the-experience)
- - [The Vatican has a new mascot: an anime girl named Luce](https://www.polygon.com/culture/471610/vatican-anime-mascot-luce)<!-- GAME:END -->
+ - [17 Horror Games On PS Plus To Keep You Up On Halloween Night](https://kotaku.com/ps-plus-horror-ps4-ps5-zombie-silent-hill-resident-evil-1849704393)
+ - [Black Ops 6 is hiding the next Call of Duty: Warzone map in plain sight](https://www.pcgamer.com/games/call-of-duty/black-ops-6-is-hiding-the-next-warzone-map-in-plain-sight)
+ - [Blizzard is investigating claims that upcoming Hearthstone hero skins are AI generated](https://www.pcgamer.com/games/card-games/blizzard-is-investigating-claims-that-upcoming-hearthstone-hero-skins-are-ai-generated)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
