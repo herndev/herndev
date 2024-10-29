@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A now deleted chart on Amazon leaked the new Mac mini, with M4 or M4 Pro chip, two front-facing USB-C ports, up to a 14-core CPU, up to 64GB of RAM, more &lpar;Joe Rossignol/MacRumors&rpar;](http://www.techmeme.com/241028/p35#a241028p35)
- - [Today&#39;s NYT Mini Crossword Answers for Tuesday, Oct. 29](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-tuesday-oct-29/#ftag=CAD590a51e)
- - [EnergyPal Review: A Convenient Way to Go Solar](https://www.cnet.com/home/energy-and-utilities/energypal-review-a-convenient-way-to-go-solar/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [What&#39;s changed in runtime protection for macOS Sequoia](https://appleinsider.com/inside/macos-sequoia/tips/whats-changed-in-runtime-protection-for-macos-sequoia?utm_medium=rss)
+ - [Samsung’s new phone snatched up in 10 minutes after going on sale](https://www.androidauthority.com/samsung-galaxy-z-fold-6-special-edition-sales-3494850/)
+ - [Amazon leaks redesigned Mac mini with M4 Pro](https://appleinsider.com/articles/24/10/29/amazon-leaks-redesigned-mac-mini-with-m4-pro?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
