@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Map of La Plata, Argentina. One of the best planned cities in the world. Volvamos a los cl\u00e1sicos.](http://9gag.com/gag/aGygnYz)
- - ⏩ [Coconuts getting dehusked, drained, shelled, and peeled.](http://9gag.com/gag/azx1GmN)
- - 👉 [`we have vintage 50 years aged Kool aid`](http://9gag.com/gag/a9yR5dW)<!-- MEMES:END -->
+ - 💣 [The end](http://9gag.com/gag/aYQ7EPq)
+ - ⏩ [They could at least prove him wrong before they start criticising him](http://9gag.com/gag/a1mRNY2)
+ - 👉 [This is how to pick cotton.](http://9gag.com/gag/a4PR6B6)<!-- MEMES:END -->
 
 ---
 
