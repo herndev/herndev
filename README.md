@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Abrupt Explosion\u2026](http://9gag.com/gag/azx1Kwq)
- - ⏩ [Fireworks](http://9gag.com/gag/ae95VDq)
- - 👉 [Give him a nice smile](http://9gag.com/gag/a0eR02Z)<!-- MEMES:END -->
+ - 💣 [What on earth could this be](http://9gag.com/gag/aoy5Lj3)
+ - ⏩ [Now she\u2019s more confident, haha!](http://9gag.com/gag/a34RAd5)
+ - 👉 [Photographs of Blanche Monnier before and after being locked inside a filthy room for 25 years by her cruel mother.](http://9gag.com/gag/aE0gVxG)<!-- MEMES:END -->
 
 ---
 
