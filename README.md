@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Bungie has finally broken its silence on Marathon, but without the promised gameplay and practically no details—gulp?](https://www.pcgamer.com/games/fps/bungie-has-finally-broken-its-silence-on-marathon-but-without-the-promised-gameplay-and-practically-no-details-gulp)
  - [Comics legend Alan Moore calls out &#39;reflexive belligerence&#39; of pop culture fandom: &#39;Fan attitudes have toxified the world&#39;](https://www.pcgamer.com/games/comics-legend-alan-moore-calls-out-reflexive-belligerence-of-pop-culture-fandom-fan-attitudes-have-toxified-the-world)
- - [Dragon Age: The Veilguard](https://www.pcgamer.com/dragon-age-the-veilguard)
- - [Horizon Zero Dawn Remastered system requirements are pretty much identical to Forbidden Dawn](https://www.pcgamer.com/games/action/horizon-zero-dawn-remastered-system-requirements-are-pretty-much-identical-to-forbidden-dawn)<!-- GAME:END -->
+ - [Dragon Age: The Veilguard](https://www.pcgamer.com/dragon-age-the-veilguard)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
