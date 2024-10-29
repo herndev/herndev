@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [An Elon Musk-funded super PAC is putting out fake pro-Harris ads](https://www.theverge.com/2024/10/29/24282957/progress-2028-elon-musk-building-americas-future-ads-pac)
- - [Major Pixel 9a leak reveals bigger display and battery for the same price](https://www.androidauthority.com/pixel-9a-specs-leak-3495136/)
- - [The Scary Movie franchise is getting a Wayans brothers reboot](https://www.theverge.com/2024/10/29/24282909/scary-movie-reboot-wayans-brothers)<!-- TECH:END -->
+ - [Sources: Chinese hackers targeted phones used by Trump family members and Biden admin and State Dept. officials; audio communications may have been captured &lpar;New York Times&rpar;](http://www.techmeme.com/241029/p32#a241029p32)
+ - [Snap says it will roll out its new &quot;simple&quot; Snapchat app in Q1 2025, ~10M users are testing it, but warns the engagement metrics are worse on iOS versus Android &lpar;Alex Weprin/The Hollywood Reporter&rpar;](http://www.techmeme.com/241029/p31#a241029p31)
+ - [Apple&#39;s new M4 iMac is up to $100 off, plus $20 off AppleCare](https://appleinsider.com/articles/24/10/29/apples-new-m4-imac-is-up-to-100-off-plus-20-off-applecare?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
