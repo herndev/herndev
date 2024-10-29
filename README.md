@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Fireworks](http://9gag.com/gag/ae95VDq)
- - ⏩ [I don\u2019t want to start shit but I mean\u2026 Ned Stark died for this discovery.](http://9gag.com/gag/a7owOMx)
- - 👉 [The end](http://9gag.com/gag/aYQ7EPq)<!-- MEMES:END -->
+ - ⏩ [It\u2019s better prevent than remediate](http://9gag.com/gag/azx1GPz)
+ - 👉 [We wouldn&#39;t wanna do that](http://9gag.com/gag/aKGdvBj)<!-- MEMES:END -->
 
 ---
 
