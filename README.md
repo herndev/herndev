@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Intelligence vs Google Gemini: Which AI platform makes your phone more useful?](https://www.androidauthority.com/apple-intelligence-vs-google-gemini-3466470/)
- - [No need to polish your writing skills, Google’s AI will now make your sound smarter on Gmail.](https://www.androidauthority.com/gmail-polish-tool-3494874/)
- - [Gartner: AI agents are &quot;one of the most hyped topics in gen AI today&quot;; survey: 75% of CEOs say AI will impact their industry, up from 21% in 2023 &lpar;Taryn Plumb/VentureBeat&rpar;](http://www.techmeme.com/241029/p2#a241029p2)<!-- TECH:END -->
+ - [One UI 7 is almost here: What we know so far and what want to see](https://www.androidauthority.com/one-ui-7-3429831/)
+ - [The OnePlus 13 will beat Apple, Google, Samsung with its IP ratings](https://www.androidauthority.com/oneplus-13-ip-rating-confirmed-3494129/)
+ - [Q&amp;A with Airbnb CEO Brian Chesky on &quot;founder mode&quot; and why it&#39;s not about micromanagement, obsessing over company structure, Airbnb&#39;s Co-Host Network, and more &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/241029/p3#a241029p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
