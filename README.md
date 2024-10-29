@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Best Black Ops 6 XM4 loadout and class setup](https://www.pcgamer.com/games/fps/call-of-duty/black-ops-6-xm4-loadout)
- - [&#39;This really hurts&#39;: Path of Exile 2 early access has been delayed by three weeks](https://www.pcgamer.com/games/rpg/this-really-hurts-path-of-exile-2-early-access-has-been-delayed-by-three-weeks)
- - [Can Halloween Froakie and Rowlet be shiny in Pokémon Go?](https://www.polygon.com/pokemon-go-guide/471138/can-halloween-froakie-rowlet-be-shiny)<!-- GAME:END -->
+ - [Best C9 loadout and class build in Black Ops 6](https://www.polygon.com/black-ops-6-guides/446968/best-c9-loadout-class-build-setup-mp5-bo6)
+ - [AMD drops a possible hint about how AI could be used in its next-gen upscaler package, FSR 4](https://www.pcgamer.com/hardware/graphics-cards/amd-drops-a-possible-hint-about-how-ai-could-be-used-in-its-next-gen-upscaler-package-fsr-4)
+ - [How to get the Liberty Falls vault code in Black Ops 6 Zombies](https://www.polygon.com/black-ops-6-guides/471543/liberty-falls-vault-code-rewards-open-safe-deposit-box)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
