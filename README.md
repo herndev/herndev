@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at the rise of ransomware attacks on schools; a study says the number of ransomware attacks on K-12 increased by 393% from 14 in 2016 to 69 in 2022 &lpar;K-12 Dive&rpar;](http://www.techmeme.com/241029/p4#a241029p4)
- - [One UI 7 is almost here: What we know so far and what want to see](https://www.androidauthority.com/one-ui-7-3429831/)
- - [The OnePlus 13 will beat Apple, Google, Samsung with its IP ratings](https://www.androidauthority.com/oneplus-13-ip-rating-confirmed-3494129/)<!-- TECH:END -->
+ - [Google really wants you to use a Play Games profile](https://www.androidauthority.com/google-play-store-play-games-profile-3494894/)
+ - [Amazon leaks tiny Mac Mini with M4 chip](https://www.theverge.com/2024/10/29/24282533/amazon-mac-mini-leak-specs-m4-size)
+ - [An interview with Epic CEO Tim Sweeney on the path to the open metaverse, the growth of user-generated content on Fortnite, Epic&#39;s 3D assets store Fab, and more &lpar;Dean Takahashi/VentureBeat&rpar;](http://www.techmeme.com/241029/p5#a241029p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
