@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google really wants you to use a Play Games profile](https://www.androidauthority.com/google-play-store-play-games-profile-3494894/)
- - [Amazon leaks tiny Mac Mini with M4 chip](https://www.theverge.com/2024/10/29/24282533/amazon-mac-mini-leak-specs-m4-size)
- - [An interview with Epic CEO Tim Sweeney on the path to the open metaverse, the growth of user-generated content on Fortnite, Epic&#39;s 3D assets store Fab, and more &lpar;Dean Takahashi/VentureBeat&rpar;](http://www.techmeme.com/241029/p5#a241029p5)<!-- TECH:END -->
+ - [‘We Were Wrong’: An Oral History of WIRED’s Original Website](https://www.wired.com/story/we-were-wrong-oral-history-hotwired/)
+ - [As Schools Ban Phones, More Kids Are Using Smartwatches](https://www.wired.com/story/schools-ban-phones-but-kids-arrive-with-smartwatches-edsurge/)
+ - [Hurun China Rich List: ByteDance founder Zhang Yiming, who stepped down as CEO in 2021, is China&#39;s richest person at $49.3B, as ByteDance&#39;s global revenue jumps &lpar;Casey Hall/Reuters&rpar;](http://www.techmeme.com/241029/p7#a241029p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
