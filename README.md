@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Dragon Ball: Sparking Zero Is Missing Some Of DBZ&#39;s Best Outfits So Fans Are Modding Them In](https://kotaku.com/dragon-ball-sparking-dbz-goku-cell-jacket-vegeta-pink-1851684716)
  - [17 Horror Games On PS Plus To Keep You Up On Halloween Night](https://kotaku.com/ps-plus-horror-ps4-ps5-zombie-silent-hill-resident-evil-1849704393)
- - [Black Ops 6 is hiding the next Call of Duty: Warzone map in plain sight](https://www.pcgamer.com/games/call-of-duty/black-ops-6-is-hiding-the-next-warzone-map-in-plain-sight)
- - [Blizzard is investigating claims that upcoming Hearthstone hero skins are AI generated](https://www.pcgamer.com/games/card-games/blizzard-is-investigating-claims-that-upcoming-hearthstone-hero-skins-are-ai-generated)<!-- GAME:END -->
+ - [Black Ops 6 is hiding the next Call of Duty: Warzone map in plain sight](https://www.pcgamer.com/games/call-of-duty/black-ops-6-is-hiding-the-next-warzone-map-in-plain-sight)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
