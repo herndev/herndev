@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Baldur&#39;s Gate 3 publishing chief praises Dragon Age: The Veilguard as a &#39;binge-worthy Netflix series&#39; and says that it knows what it &#39;wants to be&#39;](https://www.pcgamer.com/games/dragon-age/baldurs-gate-3-publishing-chief-praises-dragon-age-the-veilguard-as-a-binge-worthy-netflix-series-and-says-that-it-knows-what-it-wants-to-be)
- - [The new Call of Duty Zombies mode is bananas: players are going bowling, turning into superheroes, and crafting jet guns](https://www.pcgamer.com/games/call-of-duty/black-ops-6-zombies-mode-is-bananas)
- - [With no Disco Elysium 2 in sight, who exactly are behind the 5 studios of Disco devs now vying to make its spiritual successor?](https://www.pcgamer.com/games/rpg/disco-elysium-successor-studios-overview)<!-- GAME:END -->
+ - [Comics legend Alan Moore calls out &#39;reflexive belligerence&#39; of pop culture fandom: &#39;Fan attitudes have toxified the world&#39;](https://www.pcgamer.com/games/comics-legend-alan-moore-calls-out-reflexive-belligerence-of-pop-culture-fandom-fan-attitudes-have-toxified-the-world)
+ - [Dragon Age: The Veilguard](https://www.pcgamer.com/dragon-age-the-veilguard)
+ - [Horizon Zero Dawn Remastered system requirements are pretty much identical to Forbidden Dawn](https://www.pcgamer.com/games/action/horizon-zero-dawn-remastered-system-requirements-are-pretty-much-identical-to-forbidden-dawn)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
