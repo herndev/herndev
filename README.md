@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Indiana Jones and the Great Circle: The First Hands-on](https://news.xbox.com/en-us/2024/10/29/indiana-jones-and-the-great-circle-first-hands-on-preview/)
- - [Jimmy Pesto From Bob&#39;s Burgers Sentenced To One Year In Prison For Storming Capitol On January 6](https://kotaku.com/bobs-burgers-jimmy-pesto-actor-january-6-prison-1851683723)
- - [UK prime minister reckons new laws will help publishers fight back against unapproved AI data scraping](https://www.pcgamer.com/software/ai/uk-prime-minister-reckons-new-laws-will-help-publishers-fight-back-against-unapproved-ai-data-scraping)<!-- GAME:END -->
+ - [Trench Crusade unchains the grimmest, darkest sci-fi miniatures universe](https://www.polygon.com/tabletop-games/470132/trench-crusade-mike-franchina-tuomas-pirinen-kickstarter-release-date)
+ - [Performance figures emerge for the Ryzen 7 9800X3D ahead of release and it&#39;s already beginning to make me regret buying a 7800X3D a couple of weeks ago](https://www.pcgamer.com/hardware/performance-figures-emerge-for-the-ryzen-7-9800x3d-ahead-of-release-and-its-already-beginning-to-make-me-regret-buying-a-7800x3d-a-couple-of-weeks-ago)
+ - [PS5 30th Anniversary Bundles That Sold Out In Minutes Will Briefly Be Back In Stock](https://kotaku.com/ps5-30th-anniversary-bungle-preorder-stock-date-1851682916)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
