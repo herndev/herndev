@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [ESPN is launching a game inside Fortnite](https://www.theverge.com/2024/10/29/24279789/fortnite-espn-football-island-disney)
- - [Android files now appear in Windows File Explorer, no cable necessary](https://www.androidauthority.com/windows-android-storage-integration-3495017/)
- - [Download these Halloween wallpapers for your phone](https://www.androidauthority.com/halloween-wallpapers-3494859/)<!-- TECH:END -->
+ - [A smaller Mac mini brings big problems for server farms and accessory makers](https://appleinsider.com/articles/24/10/29/a-smaller-mac-mini-brings-big-problems-for-server-farms-and-accessory-makers?utm_medium=rss)
+ - [AI effects and text captions are coming to Final Cut Pro](https://appleinsider.com/articles/24/10/29/ai-effects-and-text-captions-are-coming-to-final-cut-pro?utm_medium=rss)
+ - [Sony’s noise-canceling XM5s have dropped to one of their best prices yet](https://www.theverge.com/2024/10/29/24279458/sony-wh-1000xm5-thermapen-one-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
