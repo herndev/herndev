@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Poor guy](http://9gag.com/gag/aoy54K3)
- - ⏩ [The betrayal shall be remembered through ages to come...](http://9gag.com/gag/aVv0K1w)
- - 👉 [Act hurt, dammit](http://9gag.com/gag/axy7O6Y)<!-- MEMES:END -->
+ - 💣 [Side effect of living healthy](http://9gag.com/gag/aO80Zg3)
+ - ⏩ [Legit.. I&#39;m broke..](http://9gag.com/gag/a5QRGDE)
+ - 👉 [Cameraman on dutyl](http://9gag.com/gag/ae95ZRb)<!-- MEMES:END -->
 
 ---
 
