@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This is how you win the Halloween!](http://9gag.com/gag/aBygVzD)
- - ⏩ [Happy Birthday Bob Ross!](http://9gag.com/gag/ae95mPm)
- - 👉 [Its not even out and already cooked](http://9gag.com/gag/a9yR29D)<!-- MEMES:END -->
+ - 💣 [This guy won everything the chair, the game, the girl, the approval of every men/boys](http://9gag.com/gag/aO809X6)
+ - ⏩ [From Seoul to Soul-Crushing: A Korean Kid&#39;s Indian Adventure.](http://9gag.com/gag/a6ZNBXb)
+ - 👉 [Fireworks](http://9gag.com/gag/ae95VDq)<!-- MEMES:END -->
 
 ---
 
