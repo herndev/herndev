@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Dragon Ball: Sparking Zero Is Missing Some Of DBZ&#39;s Best Outfits So Fans Are Modding Them In](https://kotaku.com/dragon-ball-sparking-dbz-goku-cell-jacket-vegeta-pink-1851684716)
- - [17 Horror Games On PS Plus To Keep You Up On Halloween Night](https://kotaku.com/ps-plus-horror-ps4-ps5-zombie-silent-hill-resident-evil-1849704393)
- - [Black Ops 6 is hiding the next Call of Duty: Warzone map in plain sight](https://www.pcgamer.com/games/call-of-duty/black-ops-6-is-hiding-the-next-warzone-map-in-plain-sight)<!-- GAME:END -->
+ - [I set $5 as an arbitrary maximum price while browsing GOG&#39;s Halloween Sale, and the number of good games I got genuinely surprised me](https://www.pcgamer.com/games/i-set-usd5-as-an-arbitrary-maximum-price-while-browsing-gogs-halloween-sale-and-the-number-of-good-games-i-got-genuinely-surprised-me)
+ - [Magic: The Gathering goes back to basics with Foundations: green decks go tall, monsters get bigger](https://www.pcgamer.com/games/card-games/magic-the-gathering-goes-back-to-basics-with-foundations-green-decks-go-tall-monsters-get-bigger)
+ - [Dragon Ball: Sparking Zero Is Missing Some Of DBZ&#39;s Best Outfits So Fans Are Modding Them In](https://kotaku.com/dragon-ball-sparking-dbz-goku-cell-jacket-vegeta-pink-1851684716)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
