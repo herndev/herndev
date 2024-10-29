@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sony closes Concord studio and permanently shuts down the game](https://www.theverge.com/2024/10/29/24282900/sony-shutting-down-concord-firewalk-studios)
- - [Here’s where you can preorder Apple’s new iMac and Mac Mini with M4](https://www.theverge.com/24279801/apple-macbook-pro-mac-mini-imac-m4-preorder-buy-price-release-date)
- - [Consensys, the maker of the MetaMask crypto wallet, is cutting 162 staff, ~20% of its workforce, and notes costly fights with regulators &lpar;Pritam Biswas/Reuters&rpar;](http://www.techmeme.com/241029/p23#a241029p23)<!-- TECH:END -->
+ - [M4 Mac mini vs M2 Mac mini compared: Leaner and meaner](https://appleinsider.com/inside/mac-mini/vs/m4-mac-mini-vs-m2-mac-mini-compared-leaner-and-meaner?utm_medium=rss)
+ - [New firmware available for fourth-generation AirPods](https://appleinsider.com/articles/24/10/29/new-firmware-available-for-fourth-generation-airpods?utm_medium=rss)
+ - [Russia wants Google to pay a fine that’s more money than exists on Earth](https://www.androidauthority.com/google-russia-fine-amount-3495096/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
