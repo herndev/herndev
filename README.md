@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [UMG partners with AI music company Klay Vision to create an &quot;ethical&quot; AI model for AI-generated music; Klay plans to launch out of stealth in the coming months &lpar;Georg Szalai/The Hollywood Reporter&rpar;](http://www.techmeme.com/241028/p31#a241028p31)
- - [Sources: VC firms are set to make hundreds of millions from Stripe&#39;s $1.1B acquisition of Bridge; Sequoia&#39;s ~16% stake is worth significantly more than $100M &lpar;Katie Roof/Bloomberg&rpar;](http://www.techmeme.com/241028/p30#a241028p30)
- - [YouTube Music finally gets its ‘Speed dial’ for recent favorites](https://www.androidauthority.com/youtube-music-speed-dial-3494820/)<!-- TECH:END -->
+ - [The things you may have missed from Monday&#39;s M4 iMac announcement](https://appleinsider.com/articles/24/10/28/the-things-you-may-have-missed-from-mondays-m4-imac-announcement?utm_medium=rss)
+ - [Interviews with current and former staffers detail Evan Spiegel&#39;s efforts to revive Snap, his divisive AR bet, high senior staff turnover, and more &lpar;Hannah Murphy/Financial Times&rpar;](http://www.techmeme.com/241028/p32#a241028p32)
+ - [UMG partners with AI music company Klay Vision to create an &quot;ethical&quot; AI model for AI-generated music; Klay plans to launch out of stealth in the coming months &lpar;Georg Szalai/The Hollywood Reporter&rpar;](http://www.techmeme.com/241028/p31#a241028p31)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
