@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [5&#39;8` Asian representation in NBA and killing it.](http://9gag.com/gag/ae951Pp)
- - ⏩ [Judge&#39;s are disabled minded](http://9gag.com/gag/a34R021)
- - 👉 [That look](http://9gag.com/gag/a6ZNnLL)<!-- MEMES:END -->
+ - 💣 [Talk about stating the obvious.](http://9gag.com/gag/an75xvB)
+ - ⏩ [It&#39;s f**ked](http://9gag.com/gag/aXPj46v)
+ - 👉 [And there ya have it\u2026](http://9gag.com/gag/aByg6z2)<!-- MEMES:END -->
 
 ---
 
