@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [What&#39;s changed in runtime protection for macOS Sequoia](https://appleinsider.com/inside/macos-sequoia/tips/whats-changed-in-runtime-protection-for-macos-sequoia?utm_medium=rss)
- - [Samsung’s new phone snatched up in 10 minutes after going on sale](https://www.androidauthority.com/samsung-galaxy-z-fold-6-special-edition-sales-3494850/)
- - [Amazon leaks redesigned Mac mini with M4 Pro](https://appleinsider.com/articles/24/10/29/amazon-leaks-redesigned-mac-mini-with-m4-pro?utm_medium=rss)<!-- TECH:END -->
+ - [Sources: Apple&#39;s iPhone exports from India reached ~$6B in the six months through September 2024, up 33% YoY, on track to pass $10B by the end of fiscal 2024 &lpar;Sankalp Phartiyal/Bloomberg&rpar;](http://www.techmeme.com/241029/p1#a241029p1)
+ - [Save up to $100 on Apple&#39;s 2024 iMac M4 with Best Buy Plus](https://appleinsider.com/articles/24/10/29/save-up-to-100-on-apples-2024-imac-m4-with-best-buy-plus?utm_medium=rss)
+ - [You can now do an official Google course to learn how to talk to AI chatbots](https://www.androidauthority.com/google-course-how-to-talk-to-ai-3494858/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
