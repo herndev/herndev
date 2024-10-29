@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Cadillac’s first performance EV is the Lyriq-V](https://www.theverge.com/2024/10/29/24282592/cadillac-lyriq-v-series-performance-2026)
- - [Test iPhone 17 models are reportedly already being developed in India](https://appleinsider.com/articles/24/10/29/test-iphone-17-models-are-reportedly-already-being-developed-in-india?utm_medium=rss)
- - [OnePlus Open 2 rumors: Release date, leaked features, and everything else we know so far](https://www.androidauthority.com/oneplus-open-2-3418204/)<!-- TECH:END -->
+ - [Volvo and Polestar EVs are now getting Tesla Supercharger access](https://www.theverge.com/2024/10/29/24282667/volvo-polestar-tesla-supercharger-adapter-nacs)
+ - [The Playdate Stereo Dock has been shelved](https://www.theverge.com/2024/10/29/24282637/panic-playdate-stereo-dock-bluetooth-speaker-pause-development-challenges)
+ - [14 Best Cheap Headphones and Earbuds for $100 or Less &lpar;2024&rpar;](https://www.wired.com/gallery/best-headphones-under-100/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
