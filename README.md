@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How Netflix’s Remarkable Life of Ibelin pulled off its World of Warcraft scenes without Blizzard’s knowledge](https://www.polygon.com/world-of-warcraft/471239/wow-movie-netflix-remarkable-life-of-ibelin-animation)
- - [Keychron Q5 HE review](https://www.pcgamer.com/hardware/gaming-keyboards/keychron-q5-he-review)
- - [Shinji Mikami applauds the Resident Evil 4 remake for taking &#39;the half-assed scenario that I just wrote up in 2 weeks&#39; and fleshing it out](https://www.pcgamer.com/games/action/shinji-mikami-applauds-the-resident-evil-4-remake-for-taking-the-half-assed-scenario-that-i-just-wrote-up-in-2-weeks-and-fleshing-it-out)<!-- GAME:END -->
+ - [Indiana Jones and the Great Circle: The First Hands-on](https://news.xbox.com/en-us/2024/10/29/indiana-jones-and-the-great-circle-first-hands-on-preview/)
+ - [Jimmy Pesto From Bob&#39;s Burgers Sentenced To One Year In Prison For Storming Capitol On January 6](https://kotaku.com/bobs-burgers-jimmy-pesto-actor-january-6-prison-1851683723)
+ - [UK prime minister reckons new laws will help publishers fight back against unapproved AI data scraping](https://www.pcgamer.com/software/ai/uk-prime-minister-reckons-new-laws-will-help-publishers-fight-back-against-unapproved-ai-data-scraping)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
