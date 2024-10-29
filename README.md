@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Act hurt, dammit](http://9gag.com/gag/axy7O6Y)
- - ⏩ [Forbidden chocolate cookie batter.](http://9gag.com/gag/a6ZNB32)
- - 👉 [Fireworks](http://9gag.com/gag/ae95VDq)<!-- MEMES:END -->
+ - 💣 [Poor guy](http://9gag.com/gag/aoy54K3)
+ - ⏩ [The betrayal shall be remembered through ages to come...](http://9gag.com/gag/aVv0K1w)
+ - 👉 [Act hurt, dammit](http://9gag.com/gag/axy7O6Y)<!-- MEMES:END -->
 
 ---
 
