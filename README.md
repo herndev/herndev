@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Side effect of living healthy](http://9gag.com/gag/aO80Zg3)
- - ⏩ [Legit.. I&#39;m broke..](http://9gag.com/gag/a5QRGDE)
- - 👉 [Cameraman on dutyl](http://9gag.com/gag/ae95ZRb)<!-- MEMES:END -->
+ - 💣 [This is how you win the Halloween!](http://9gag.com/gag/aBygVzD)
+ - ⏩ [Happy Birthday Bob Ross!](http://9gag.com/gag/ae95mPm)
+ - 👉 [Its not even out and already cooked](http://9gag.com/gag/a9yR29D)<!-- MEMES:END -->
 
 ---
 
