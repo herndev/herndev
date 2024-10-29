@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Judge&#39;s are disabled minded](http://9gag.com/gag/a34R021)
- - ⏩ [The end](http://9gag.com/gag/aYQ7EPq)
- - 👉 [Side effect of living healthy](http://9gag.com/gag/aO80Zg3)<!-- MEMES:END -->
+ - 💣 [Map of La Plata, Argentina. One of the best planned cities in the world. Volvamos a los cl\u00e1sicos.](http://9gag.com/gag/aGygnYz)
+ - ⏩ [Coconuts getting dehusked, drained, shelled, and peeled.](http://9gag.com/gag/azx1GmN)
+ - 👉 [`we have vintage 50 years aged Kool aid`](http://9gag.com/gag/a9yR5dW)<!-- MEMES:END -->
 
 ---
 
