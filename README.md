@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Here we go again - Apple again rumored to buy Intel](https://appleinsider.com/articles/24/10/30/here-we-go-again---apple-again-rumored-to-buy-intel?utm_medium=rss)
- - [Nothing’s latest phone is easy to spot in the dark, but good luck finding it on store shelves](https://www.androidauthority.com/nothing-phone-2a-plus-community-edition-3495095/)
- - [Samsung Galaxy Book5 Pro 360 Review: Too Buggy](https://www.wired.com/review/samsung-galaxy-book5-pro-360/)<!-- TECH:END -->
+ - [Avride rolls out its next-gen sidewalk delivery robots](https://www.theverge.com/2024/10/30/24282906/avride-sidewalk-delivery-robot-update-wheels)
+ - [Alexa, where’s my Star Trek Computer?](https://www.theverge.com/24282710/amazon-alexa-ai-star-trek-computer-10-years-assistant)
+ - [Google could soon help you snap out of a binge session with Digital Wellbeing &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-digital-wellbeing-mindful-nudge-reminders-apk-teardown-3495363/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
