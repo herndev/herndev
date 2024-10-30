@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Busted](http://9gag.com/gag/an75DgV)
- - ⏩ [Cursed VR Girlfriend](http://9gag.com/gag/aQz1mdd)
+ - 💣 [So KCDII gets denuvo... just canccelled my preorder too. Heartbreaking.](http://9gag.com/gag/aGygGb7)
+ - ⏩ [Anyone heard about this?](http://9gag.com/gag/a7owN2b)
  - 👉 [Alexa what&#39;s flexing?](http://9gag.com/gag/aVv0Z8M)<!-- MEMES:END -->
 
 ---
