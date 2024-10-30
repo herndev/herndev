@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Waymo wants to use Google’s Gemini to train its robotaxis](https://www.theverge.com/2024/10/30/24283516/waymo-google-gemini-llm-ai-robotaxi)
- - [Boston Dynamics’ new video shows that its humanoid robot doesn’t need a human](https://www.theverge.com/2024/10/30/24283592/boston-dynamics-atlas-robot-autonomous)
- - [Cyberpunk 2077 will launch on Mac next year](https://www.theverge.com/2024/10/30/24283651/cyberpunk-2077-launch-mac)<!-- TECH:END -->
+ - [Marvel has its 2025 Disney Plus roadmap all laid out](https://www.theverge.com/2024/10/30/24283711/marvel-disney-plus-premiere-dates-2025-wonder-man-eyes-of-wakanda-ironheart-daredevil-born-again)
+ - [Massive One UI 7 leak reveals everything you want to know](https://www.androidauthority.com/massive-one-ui-7-leak-reveals-everything-you-want-to-know-3495461/)
+ - [Starlink Mini review: space internet goes ultraportable](https://www.theverge.com/24275688/starlink-mini-review-battery-powered-backpack-comparison)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
