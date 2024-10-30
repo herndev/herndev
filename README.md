@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Why you’re seeing those gross political ads during the World Series](https://www.theverge.com/2024/10/30/24283757/world-series-political-ads-anti-trans-abortion-dodgers-yankees)
- - [Robinhood reports Q3 revenue up 36% YoY to $637M, vs. $657.9M est., and crypto transaction revenue up 165% to $61M; HOOD drops 8%+ after hours &lpar;Arasu Kannagi Basil/Reuters&rpar;](http://www.techmeme.com/241030/p42#a241030p42)
- - [eBay reports Q3 revenue up 3% YoY to $2.58B, GMV up 2% to $18.3B, net income down 51% to $636M, and forecasts Q4 revenue below est.; EBAY drops 9%+ after hours &lpar;Juby Babu/Reuters&rpar;](http://www.techmeme.com/241030/p41#a241030p41)<!-- TECH:END -->
+ - [Apple’s latest iPad Air is on sale in all four colors for its lowest price to date](https://www.theverge.com/2024/10/30/24282960/apple-ipad-air-11-inch-airpods-max-usb-c-deal-sale)
+ - [Google doesn’t sell headsets anymore — but its app store is getting ready for them](https://www.theverge.com/2024/10/30/24283894/google-play-store-ar-vr-xr-headset-smart-glasses-support-code-leak)
+ - [Save up to $200 on Apple&#39;s M4 14-inch &amp; 16-inch MacBook Pro](https://appleinsider.com/articles/24/10/30/save-up-to-200-on-apples-m4-14-inch-16-inch-macbook-pro?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
