@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Need a good USB-C hub? This UGREEN Uno one is cute, capable, and 20% off](https://www.androidauthority.com/ugreen-uno-6-in-1-usb-c-hub-deal-3495118/)
- - [The best iPhones](https://www.theverge.com/23618862/best-iphone-camera-battery-screen-guide)
- - [Research: China&#39;s industrial policy to make the nation a leader in emerging technologies has largely been a success, despite US efforts to contain the country &lpar;Bloomberg&rpar;](http://www.techmeme.com/241029/p37#a241029p37)<!-- TECH:END -->
+ - [GitHub Copilot for Xcode now in public preview](https://appleinsider.com/articles/24/10/30/github-copilot-for-xcode-now-in-public-preview?utm_medium=rss)
+ - [AMD confirms its next-gen RDNA 4 GPUs will launch in early 2025](https://www.theverge.com/2024/10/29/24283263/amd-radeon-rdna-4-gpus-2025)
+ - [Best Solar Panel Installation Companies in Arizona](https://www.cnet.com/home/energy-and-utilities/arizona-solar-panels/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
