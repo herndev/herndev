@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I choose the memes](http://9gag.com/gag/apR5AyD)
- - ⏩ [Busted](http://9gag.com/gag/an75DgV)
- - 👉 [How company logos changed over time](http://9gag.com/gag/a1mR2O8)<!-- MEMES:END -->
+ - 💣 [Cursed VR Girlfriend](http://9gag.com/gag/aQz1mdd)
+ - ⏩ [What on earth could this be](http://9gag.com/gag/aoy5Lj3)
+ - 👉 [Feels so damn good!](http://9gag.com/gag/aXPj2rg)<!-- MEMES:END -->
 
 ---
 
