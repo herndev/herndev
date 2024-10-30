@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [I set $5 as an arbitrary maximum price while browsing GOG&#39;s Halloween Sale, and the number of good games I got genuinely surprised me](https://www.pcgamer.com/games/i-set-usd5-as-an-arbitrary-maximum-price-while-browsing-gogs-halloween-sale-and-the-number-of-good-games-i-got-genuinely-surprised-me)
- - [Magic: The Gathering goes back to basics with Foundations: green decks go tall, monsters get bigger](https://www.pcgamer.com/games/card-games/magic-the-gathering-goes-back-to-basics-with-foundations-green-decks-go-tall-monsters-get-bigger)
- - [Dragon Ball: Sparking Zero Is Missing Some Of DBZ&#39;s Best Outfits So Fans Are Modding Them In](https://kotaku.com/dragon-ball-sparking-dbz-goku-cell-jacket-vegeta-pink-1851684716)<!-- GAME:END -->
+ - [Electronic Arts chief says Dragon Age: The Veilguard is a &#39;return to what made BioWare great&#39;](https://www.pcgamer.com/games/rpg/electronic-arts-chief-says-dragon-age-the-veilguard-is-a-return-to-what-made-bioware-great)
+ - [Monster Hunter Wilds almost ruined Palicoes by letting them speak English, but thankfully you can revert them to meows](https://www.pcgamer.com/games/rpg/monster-hunter-wilds-almost-ruined-palicoes-by-letting-them-speak-english-but-thankfully-you-can-revert-them-to-meows)
+ - [I set $5 as an arbitrary maximum price while browsing GOG&#39;s Halloween Sale, and the number of good games I got genuinely surprised me](https://www.pcgamer.com/games/i-set-usd5-as-an-arbitrary-maximum-price-while-browsing-gogs-halloween-sale-and-the-number-of-good-games-i-got-genuinely-surprised-me)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
