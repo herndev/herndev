@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The PC Gaming Show: Most Wanted returns to reveal the 25 most-anticipated PC games this December](https://www.pcgamer.com/gaming-industry/events-conferences/the-pc-gaming-show-most-wanted-returns-to-reveal-the-25-most-anticipated-pc-games-this-december)
- - [Extreme overclockers might need new mounting frames for AMD 9000X3D chips, as Thermal Grizzly says two &#39;are likely incompatible without modifications&#39;](https://www.pcgamer.com/hardware/processors/extreme-overclockers-might-need-new-mounting-frames-for-amd-9000x3d-chips-as-thermal-grizzly-says-two-are-likely-incompatible-without-modifications)
- - [Disney Dreamlight Valley The Storybook Vale editions, explained](https://www.pcgamer.com/games/life-sim/disney-dreamlight-valley-storybook-vale-editions)<!-- GAME:END -->
+ - [Monster Hunter Wilds&#39; arachnophobia filter turns mosquitos into, okay, brace yourself—raunchy humping slimes that over 100,000 people think are jumping their bones](https://www.pcgamer.com/games/rpg/monster-hunter-wilds-arachnophobia-filter-turns-mosquitos-into-okay-brace-yourself-raunchy-humping-slimes-that-over-100-000-people-think-are-jumping-their-bones)
+ - [Play This Thrilling Lovecraftian Adventure Game Before Halloween Season Ends](https://kotaku.com/excavation-of-hobs-barrow-horror-steam-sale-halloween-1851685435)
+ - [Making my old Dragon Age character in Veilguard hit me where I didn’t expect](https://www.polygon.com/opinion/472088/dragon-age-veilguard-inquisitor-character-creator)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
