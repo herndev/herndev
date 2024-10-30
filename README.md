@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google updates Chrome desktop to let users choose how aggressively it frees up inactive tab resources across three modes, and adds a Performance Detection tool &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/241030/p15#a241030p15)
- - [PlayStation shutters Firewalk, which released shooter game Concord earlier in 2024 before taking it offline, and mobile studio Neon Koi, impacting ~210 jobs &lpar;Jason Schreier/Bloomberg&rpar;](http://www.techmeme.com/241030/p14#a241030p14)
- - [Google Photos Magic Editor could soon make it easier to Reimagine your photos &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-photos-magic-editor-reimagine-ui-apk-teardown-3495297/)<!-- TECH:END -->
+ - [UK filings: Stability AI co-founder and ex-CEO Emad Mostaque has given up his controlling shares in the startup; Mostaque owned 75%+, per previous filings &lpar;Mark Bergen/Bloomberg&rpar;](http://www.techmeme.com/241030/p19#a241030p19)
+ - [Sources detail how TikTok quickly struck a deal with GoTo to buy a ~75% stake in Tokopedia, letting TikTok restart TikTok Shop in Indonesia in December 2023 &lpar;New York Times&rpar;](http://www.techmeme.com/241030/p18#a241030p18)
+ - [Bag Apple&#39;s 9th-Gen iPad for Just $200 While You Still Can](https://www.cnet.com/deals/bag-apples-9th-gen-ipad-for-just-200-while-you-still-can/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
