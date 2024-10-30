@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [UK filings: Stability AI co-founder and ex-CEO Emad Mostaque has given up his controlling shares in the startup; Mostaque owned 75%+, per previous filings &lpar;Mark Bergen/Bloomberg&rpar;](http://www.techmeme.com/241030/p19#a241030p19)
- - [Sources detail how TikTok quickly struck a deal with GoTo to buy a ~75% stake in Tokopedia, letting TikTok restart TikTok Shop in Indonesia in December 2023 &lpar;New York Times&rpar;](http://www.techmeme.com/241030/p18#a241030p18)
- - [Bag Apple&#39;s 9th-Gen iPad for Just $200 While You Still Can](https://www.cnet.com/deals/bag-apples-9th-gen-ipad-for-just-200-while-you-still-can/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Here we go again - Apple again rumored to buy Intel](https://appleinsider.com/articles/24/10/30/here-we-go-again---apple-again-rumored-to-buy-intel?utm_medium=rss)
+ - [Nothing’s latest phone is easy to spot in the dark, but good luck finding it on store shelves](https://www.androidauthority.com/nothing-phone-2a-plus-community-edition-3495095/)
+ - [Samsung Galaxy Book5 Pro 360 Review: Too Buggy](https://www.wired.com/review/samsung-galaxy-book5-pro-360/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
