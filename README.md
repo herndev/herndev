@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [What on earth could this be](http://9gag.com/gag/aoy5Lj3)
+ - 💣 [This guy won everything the chair, the game, the girl, the approval of every men/boys](http://9gag.com/gag/aO809X6)
  - ⏩ [When you just trying to work but your co-worker crack open a cold beer.](http://9gag.com/gag/axy7bLM)
- - 👉 [Alexa what&#39;s flexing?](http://9gag.com/gag/aVv0Z8M)<!-- MEMES:END -->
+ - 👉 [Exploding worm: Epitoky &lpar;YT: rogeringersoll&rpar;](http://9gag.com/gag/a1mRVND)<!-- MEMES:END -->
 
 ---
 
