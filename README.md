@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Dwight is a straight shooter](http://9gag.com/gag/a2vRLW9)
- - ⏩ [From Seoul to Soul-Crushing: A Korean Kid&#39;s Indian Adventure.](http://9gag.com/gag/a6ZNBXb)
- - 👉 [Government created speed breakers on highway without any sign and the cars went \u2708\ufe0f](http://9gag.com/gag/azx1YKz)<!-- MEMES:END -->
+ - 💣 [The blind girl was given the best Christmas present. She loves Harry Potter but Braille books are very expensive. Her aunt collected money for a volume of one of the parts and donated it.](http://9gag.com/gag/a4PRWq6)
+ - ⏩ [I choose the memes](http://9gag.com/gag/apR5AyD)
+ - 👉 [Being a robber in Spain is different.](http://9gag.com/gag/aLn0XoA)<!-- MEMES:END -->
 
 ---
 
