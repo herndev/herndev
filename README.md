@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Steam now requires developers to tell people when their games have kernel mode anticheat](https://www.pcgamer.com/games/steam-now-requires-developers-to-tell-people-when-their-games-have-kernel-mode-anticheat)
- - [How to get more Hourglasses in Pokémon TCG Pocket](https://www.polygon.com/pokemon-tcg-pocket-guides/471854/hourglasses-get-pack-wonder-more)
- - [World of Warcraft’s next patch is on Siren Isle, full of mystery and loot](https://www.polygon.com/world-of-warcraft/472726/war-within-patch-wow-siren-isle)<!-- GAME:END -->
+ - [What time does Fortnite’s live event ‘Remix: The Prelude’ start?](https://www.polygon.com/fortnite-guide/472158/remix-the-prelude-live-event-start-time-release-time-zone)
+ - [Is Concord the biggest live service failure of all time? Here&#39;s how it stacks up next to other major flops](https://www.pcgamer.com/games/is-concord-the-biggest-live-service-failure-of-all-time-heres-how-it-stacks-up-next-to-other-major-flops)
+ - [Call of Duty: Black Ops 6 &#39;Omnimovement&#39; is a hit because controller aim assist got a huge nerf this year](https://www.pcgamer.com/games/call-of-duty/black-ops-6-omnimovement-aim-assist-nerf)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
