@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [NO WEEBS](http://9gag.com/gag/aYQ7qRq)
+ - 💣 [Abrupt Explosion\u2026](http://9gag.com/gag/azx1Kwq)
  - ⏩ [Act hurt, dammit](http://9gag.com/gag/axy7O6Y)
- - 👉 [Exploding worm: Epitoky &lpar;YT: rogeringersoll&rpar;](http://9gag.com/gag/a1mRVND)<!-- MEMES:END -->
+ - 👉 [What on earth could this be](http://9gag.com/gag/aoy5Lj3)<!-- MEMES:END -->
 
 ---
 
