@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I choose the memes](http://9gag.com/gag/apR5AyD)
- - ⏩ [Being a robber in Spain is different.](http://9gag.com/gag/aLn0XoA)
+ - 💣 [Being a robber in Spain is different.](http://9gag.com/gag/aLn0XoA)
+ - ⏩ [KARMA](http://9gag.com/gag/a5QR59N)
  - 👉 [`My grandfather suffered so much it generationally leaked into me, and now I am in trauma.` Damn man, is generational trauma actually true?](http://9gag.com/gag/aD2gQgw)<!-- MEMES:END -->
 
 ---
