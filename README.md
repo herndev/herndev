@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Pokémon Go ‘Halloween 2024 Part 2’ event guide](https://www.polygon.com/pokemon-go-guide/439865/halloween-2024-part-2-event-guide-field-research)
- - [All new MacBooks now come with a baseline 16GB of RAM, a year after Apple brazenly claimed 8GB of RAM on a Mac was &#39;analogous to 16GB&#39; on PCs](https://www.pcgamer.com/hardware/all-new-macbooks-now-come-with-a-baseline-16gb-of-ram-a-year-after-apple-brazenly-claimed-8gb-of-ram-on-a-mac-was-analogous-to-16gb-on-pcs)
- - [Capcom’s Halloween Sale Is Full Of Cheap Horror Treats For The Holiday](https://kotaku.com/capcom-halloween-steam-sale-resident-evil-horror-1851685634)<!-- GAME:END -->
+ - [Grab These Two Acclaimed Horror Games For Just $3 This Halloween](https://kotaku.com/oxenfree-2-sale-steam-halloween-horror-games-1851685695)
+ - [Dragon Ball: Sparking Zero Doesn’t Explain Battle Assist Settings, So We Did](https://kotaku.com/dragon-ball-sparking-zero-battle-assist-guide-1851685568)
+ - [Deadpool &amp; Wolverine Just Got A Disney Plus Streaming Date And It&#39;s Not Far Away](https://kotaku.com/deadpool-wolverine-just-got-a-disney-plus-streaming-d-1851685637)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
