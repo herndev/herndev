@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [A Politician who keeps his promise!](http://9gag.com/gag/a34R8bv)
- - ⏩ [I already watched the movie, you don&#39;t need to sell it to me.](http://9gag.com/gag/aAygXqo)
- - 👉 [What on earth could this be](http://9gag.com/gag/aoy5Lj3)<!-- MEMES:END -->
+ - 💣 [NO WEEBS](http://9gag.com/gag/aYQ7qRq)
+ - ⏩ [Act hurt, dammit](http://9gag.com/gag/axy7O6Y)
+ - 👉 [Exploding worm: Epitoky &lpar;YT: rogeringersoll&rpar;](http://9gag.com/gag/a1mRVND)<!-- MEMES:END -->
 
 ---
 
