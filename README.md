@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle answer for Wednesday, October 30](https://www.pcgamer.com/games/puzzle/wordle-answer-today-october-30-2024)
  - [Electronic Arts chief says Dragon Age: The Veilguard is a &#39;return to what made BioWare great&#39;](https://www.pcgamer.com/games/rpg/electronic-arts-chief-says-dragon-age-the-veilguard-is-a-return-to-what-made-bioware-great)
- - [Monster Hunter Wilds almost ruined Palicoes by letting them speak English, but thankfully you can revert them to meows](https://www.pcgamer.com/games/rpg/monster-hunter-wilds-almost-ruined-palicoes-by-letting-them-speak-english-but-thankfully-you-can-revert-them-to-meows)
- - [I set $5 as an arbitrary maximum price while browsing GOG&#39;s Halloween Sale, and the number of good games I got genuinely surprised me](https://www.pcgamer.com/games/i-set-usd5-as-an-arbitrary-maximum-price-while-browsing-gogs-halloween-sale-and-the-number-of-good-games-i-got-genuinely-surprised-me)<!-- GAME:END -->
+ - [Monster Hunter Wilds almost ruined Palicoes by letting them speak English, but thankfully you can revert them to meows](https://www.pcgamer.com/games/rpg/monster-hunter-wilds-almost-ruined-palicoes-by-letting-them-speak-english-but-thankfully-you-can-revert-them-to-meows)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
