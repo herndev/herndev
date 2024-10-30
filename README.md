@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The blind girl was given the best Christmas present. She loves Harry Potter but Braille books are very expensive. Her aunt collected money for a volume of one of the parts and donated it.](http://9gag.com/gag/a4PRWq6)
- - ⏩ [I choose the memes](http://9gag.com/gag/apR5AyD)
- - 👉 [Being a robber in Spain is different.](http://9gag.com/gag/aLn0XoA)<!-- MEMES:END -->
+ - 💣 [What on earth could this be](http://9gag.com/gag/aoy5Lj3)
+ - ⏩ [When you just trying to work but your co-worker crack open a cold beer.](http://9gag.com/gag/axy7bLM)
+ - 👉 [Alexa what&#39;s flexing?](http://9gag.com/gag/aVv0Z8M)<!-- MEMES:END -->
 
 ---
 
