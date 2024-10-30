@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Every Marvel movie and TV release set for 2024 and beyond](https://www.polygon.com/21452835/new-marvel-movies-come-out-release-schedule)
- - [Intel&#39;s Arrow Lake chips aren&#39;t winning any awards for gaming performance but I think its new E-cores deserve a gold star](https://www.pcgamer.com/hardware/processors/intels-arrow-lake-chips-arent-winning-any-awards-for-gaming-performance-but-i-think-its-new-e-cores-deserve-a-gold-star)
- - [Marvel drops first looks at Daredevil, Wonder Man, and new Spider-Man in big 2025 TV trailer](https://www.polygon.com/entertainment/472163/marvel-studios-2025-trailer-daredevil-spider-man)<!-- GAME:END -->
+ - [The PC Gaming Show: Most Wanted returns to reveal the 25 most-anticipated PC games this December](https://www.pcgamer.com/gaming-industry/events-conferences/the-pc-gaming-show-most-wanted-returns-to-reveal-the-25-most-anticipated-pc-games-this-december)
+ - [Extreme overclockers might need new mounting frames for AMD 9000X3D chips, as Thermal Grizzly says two &#39;are likely incompatible without modifications&#39;](https://www.pcgamer.com/hardware/processors/extreme-overclockers-might-need-new-mounting-frames-for-amd-9000x3d-chips-as-thermal-grizzly-says-two-are-likely-incompatible-without-modifications)
+ - [Disney Dreamlight Valley The Storybook Vale editions, explained](https://www.pcgamer.com/games/life-sim/disney-dreamlight-valley-storybook-vale-editions)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
