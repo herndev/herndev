@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [So KCDII gets denuvo... just canccelled my preorder too. Heartbreaking.](http://9gag.com/gag/aGygGb7)
- - ⏩ [Anyone heard about this?](http://9gag.com/gag/a7owN2b)
- - 👉 [Alexa what&#39;s flexing?](http://9gag.com/gag/aVv0Z8M)<!-- MEMES:END -->
+ - 💣 [Family Guy, When Wile E. Coyote caught the Road Runner](http://9gag.com/gag/aryoz1K)
+ - ⏩ [Now, here&#39;s to no sleep!](http://9gag.com/gag/aO80Pdy)
+ - 👉 [Clever kid](http://9gag.com/gag/aqygDAR)<!-- MEMES:END -->
 
 ---
 
