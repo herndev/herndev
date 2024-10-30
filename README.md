@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Abrupt Explosion\u2026](http://9gag.com/gag/azx1Kwq)
- - ⏩ [Act hurt, dammit](http://9gag.com/gag/axy7O6Y)
- - 👉 [What on earth could this be](http://9gag.com/gag/aoy5Lj3)<!-- MEMES:END -->
+ - 💣 [I choose the memes](http://9gag.com/gag/apR5AyD)
+ - ⏩ [Busted](http://9gag.com/gag/an75DgV)
+ - 👉 [How company logos changed over time](http://9gag.com/gag/a1mR2O8)<!-- MEMES:END -->
 
 ---
 
