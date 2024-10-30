@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Circle raises its fees to 0.03%+ per transaction for near-instant USDC redemptions above $2M; CoinGecko: USDC&#39;s market circulation is $35B, below USDT&#39;s $123B &lpar;Emily Nicolle/Bloomberg&rpar;](http://www.techmeme.com/241030/p11#a241030p11)
- - [Gallup: ~67% of US workers say they never use AI tools at work, while 4% use them daily and say they see benefits in productivity, efficiency, and more &lpar;Danielle Abril/Washington Post&rpar;](http://www.techmeme.com/241030/p10#a241030p10)
- - [Sources: an upcoming UK government-commissioned report says the UK should streamline the visa process for AI experts and create special zones for data centers &lpar;Anna Gross/Financial Times&rpar;](http://www.techmeme.com/241030/p9#a241030p9)<!-- TECH:END -->
+ - [Google updates Chrome desktop to let users choose how aggressively it frees up inactive tab resources across three modes, and adds a Performance Detection tool &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/241030/p15#a241030p15)
+ - [PlayStation shutters Firewalk, which released shooter game Concord earlier in 2024 before taking it offline, and mobile studio Neon Koi, impacting ~210 jobs &lpar;Jason Schreier/Bloomberg&rpar;](http://www.techmeme.com/241030/p14#a241030p14)
+ - [Google Photos Magic Editor could soon make it easier to Reimagine your photos &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-photos-magic-editor-reimagine-ui-apk-teardown-3495297/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
