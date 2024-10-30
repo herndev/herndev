@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Kids with Android phones will be able to use Google Wallet tap-to-pay soon](https://www.theverge.com/2024/10/30/24283825/android-phones-google-wallet-tap-to-pay-fitbit-ace-lte)
- - [Global Payments agrees to sell medical software business AdvancedMD to investment firm Francisco Partners for $1.13B; the deal is expected to close in Q4 2024 &lpar;Niket Nishant/Reuters&rpar;](http://www.techmeme.com/241030/p33#a241030p33)
- - [Ubisoft dumps its NFT game on the market to little fanfare](https://www.theverge.com/2024/10/30/24283677/ubisoft-nft-game-champions-tactics-grimoria-chronicles-sequence)<!-- TECH:END -->
+ - [Why you’re seeing those gross political ads during the World Series](https://www.theverge.com/2024/10/30/24283757/world-series-political-ads-anti-trans-abortion-dodgers-yankees)
+ - [Robinhood reports Q3 revenue up 36% YoY to $637M, vs. $657.9M est., and crypto transaction revenue up 165% to $61M; HOOD drops 8%+ after hours &lpar;Arasu Kannagi Basil/Reuters&rpar;](http://www.techmeme.com/241030/p42#a241030p42)
+ - [eBay reports Q3 revenue up 3% YoY to $2.58B, GMV up 2% to $18.3B, net income down 51% to $636M, and forecasts Q4 revenue below est.; EBAY drops 9%+ after hours &lpar;Juby Babu/Reuters&rpar;](http://www.techmeme.com/241030/p41#a241030p41)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
