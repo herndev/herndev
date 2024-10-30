@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Savage teacher](http://9gag.com/gag/aRB0Ow5)
- - ⏩ [Legit.. I&#39;m broke..](http://9gag.com/gag/a5QRGDE)
- - 👉 [I already watched the movie, you don&#39;t need to sell it to me.](http://9gag.com/gag/aAygXqo)<!-- MEMES:END -->
+ - 💣 [Legit.. I&#39;m broke..](http://9gag.com/gag/a5QRGDE)
+ - ⏩ [I already watched the movie, you don&#39;t need to sell it to me.](http://9gag.com/gag/aAygXqo)
+ - 👉 [Busted](http://9gag.com/gag/an75DgV)<!-- MEMES:END -->
 
 ---
 
