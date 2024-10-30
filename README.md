@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [M4 Pro Mac mini vs M1 Max Mac Studio compared: Smaller and better](https://appleinsider.com/inside/mac-mini/vs/m4-pro-mac-mini-vs-m1-max-mac-studio-compared-smaller-and-better?utm_medium=rss)
- - [Sources: in August, Andy Jassy called Trump to explain Amazon&#39;s future plans, and Trump said Amazon should cut him a large check for his presidential efforts &lpar;Washington Post&rpar;](http://www.techmeme.com/241030/p25#a241030p25)
- - [What to expect from Apple&#39;s Q4 2024 earnings on October 31](https://appleinsider.com/articles/24/10/29/what-to-expect-from-apples-q4-2024-earnings-on-october-31?utm_medium=rss)<!-- TECH:END -->
+ - [Apple supercharges its most powerful laptop with an even mightier M4 chip](https://www.androidauthority.com/apple-supercharges-macbook-pro-m4-3495349/)
+ - [Your charging habits reveal that you take battery health seriously](https://www.androidauthority.com/charging-habits-poll-results-3495401/)
+ - [Deadpool &amp; Wolverine hits Disney Plus this November](https://www.theverge.com/2024/10/30/24283598/deadpool-and-wolverine-disney-plus-premiere-date)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
