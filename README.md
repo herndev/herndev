@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Here are some of the best horror board games you can buy right now](https://www.polygon.com/gift-guide/471994/best-horror-board-games-2024)
- - [The M4 Pro chip inside Apple&#39;s ludicrously tiny new Mac Mini would make for an unbelievably good handheld gaming PC](https://www.pcgamer.com/hardware/processors/the-m4-pro-chip-inside-apples-ludicrously-tiny-new-mac-mini-would-make-for-an-unbelievably-good-handheld-gaming-pc)
- - [If Dragon Age: The Veilguard has got you in a Thedas mood, make sure you grab this brilliantly cheap deal on the official Dragon Age tabletop RPG](https://www.pcgamer.com/games/dragon-age/if-dragon-age-the-veilguard-has-got-you-in-a-thedas-mood-make-sure-you-grab-this-brilliantly-cheap-deal-on-the-official-dragon-age-tabletop-rpg)<!-- GAME:END -->
+ - [Pokémon Go ‘Halloween 2024 Part 2’ event guide](https://www.polygon.com/pokemon-go-guide/439865/halloween-2024-part-2-event-guide-field-research)
+ - [All new MacBooks now come with a baseline 16GB of RAM, a year after Apple brazenly claimed 8GB of RAM on a Mac was &#39;analogous to 16GB&#39; on PCs](https://www.pcgamer.com/hardware/all-new-macbooks-now-come-with-a-baseline-16gb-of-ram-a-year-after-apple-brazenly-claimed-8gb-of-ram-on-a-mac-was-analogous-to-16gb-on-pcs)
+ - [Capcom’s Halloween Sale Is Full Of Cheap Horror Treats For The Holiday](https://kotaku.com/capcom-halloween-steam-sale-resident-evil-horror-1851685634)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
