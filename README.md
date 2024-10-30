@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple’s latest iPad Air is on sale in all four colors for its lowest price to date](https://www.theverge.com/2024/10/30/24282960/apple-ipad-air-11-inch-airpods-max-usb-c-deal-sale)
- - [Google doesn’t sell headsets anymore — but its app store is getting ready for them](https://www.theverge.com/2024/10/30/24283894/google-play-store-ar-vr-xr-headset-smart-glasses-support-code-leak)
- - [Save up to $200 on Apple&#39;s M4 14-inch &amp; 16-inch MacBook Pro](https://appleinsider.com/articles/24/10/30/save-up-to-200-on-apples-m4-14-inch-16-inch-macbook-pro?utm_medium=rss)<!-- TECH:END -->
+ - [Nintendo announces Nintendo Music, an app that lets Switch Online subscribers stream or download gaming tunes from Nintendo titles, available on Android and iOS &lpar;Andrew Webster/The Verge&rpar;](http://www.techmeme.com/241030/p48#a241030p48)
+ - [Today’s hottest smartphone deals come from Motorola and REDMAGIC](https://www.androidauthority.com/motorola-razr-2024-redmagic-9s-pro-deals-3495578/)
+ - [Mark Zuckerberg says the company&#39;s AI-driven feed and video recommendations have led to an 8% increase in time spent on Facebook and a 6% increase on Instagram &lpar;Sarah E. Needleman/Wall Street Journal&rpar;](http://www.techmeme.com/241030/p47#a241030p47)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
