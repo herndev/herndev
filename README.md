@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Deadpool &amp;#038; Wolverine hits Disney Plus in two weeks](https://www.polygon.com/marvel/472153/deadpool-wolverine-hits-disney-plus-in-two-weeks)
- - [Marvel Teases Every Big Show Coming In The Next Year](https://kotaku.com/marvel-disney-plus-daredevil-ironheart-wonder-man-1851685063)
- - [A humble wardrobe is my favourite Dragon Age: The Veilguard feature](https://www.pcgamer.com/games/dragon-age/a-humble-wardrobe-is-my-favourite-dragon-age-the-veilguard-feature)<!-- GAME:END -->
+ - [Every Marvel movie and TV release set for 2024 and beyond](https://www.polygon.com/21452835/new-marvel-movies-come-out-release-schedule)
+ - [Intel&#39;s Arrow Lake chips aren&#39;t winning any awards for gaming performance but I think its new E-cores deserve a gold star](https://www.pcgamer.com/hardware/processors/intels-arrow-lake-chips-arent-winning-any-awards-for-gaming-performance-but-i-think-its-new-e-cores-deserve-a-gold-star)
+ - [Marvel drops first looks at Daredevil, Wonder Man, and new Spider-Man in big 2025 TV trailer](https://www.polygon.com/entertainment/472163/marvel-studios-2025-trailer-daredevil-spider-man)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
