@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Exploding worm: Epitoky &lpar;YT: rogeringersoll&rpar;](http://9gag.com/gag/a1mRVND)
- - ⏩ [The class above first, exclusive to Singapore Airlines](http://9gag.com/gag/aD2gXZ9)
- - 👉 [Instructions unclear](http://9gag.com/gag/a875ey3)<!-- MEMES:END -->
+ - 💣 [I choose the memes](http://9gag.com/gag/apR5AyD)
+ - ⏩ [Being a robber in Spain is different.](http://9gag.com/gag/aLn0XoA)
+ - 👉 [`My grandfather suffered so much it generationally leaked into me, and now I am in trauma.` Damn man, is generational trauma actually true?](http://9gag.com/gag/aD2gQgw)<!-- MEMES:END -->
 
 ---
 
