@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I would let her shoot me if in her before.](http://9gag.com/gag/ae952w5)
- - ⏩ [I already watched the movie, you don&#39;t need to sell it to me.](http://9gag.com/gag/aAygXqo)
- - 👉 [Busted](http://9gag.com/gag/an75DgV)<!-- MEMES:END -->
+ - 💣 [Cursed VR Girlfriend](http://9gag.com/gag/aQz1mdd)
+ - ⏩ [Hire a plumber next time.](http://9gag.com/gag/a6ZNBRq)
+ - 👉 [I choose the memes](http://9gag.com/gag/apR5AyD)<!-- MEMES:END -->
 
 ---
 
