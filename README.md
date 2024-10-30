@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Being a robber in Spain is different.](http://9gag.com/gag/aLn0XoA)
- - ⏩ [KARMA](http://9gag.com/gag/a5QR59N)
- - 👉 [`My grandfather suffered so much it generationally leaked into me, and now I am in trauma.` Damn man, is generational trauma actually true?](http://9gag.com/gag/aD2gQgw)<!-- MEMES:END -->
+ - 💣 [Busted](http://9gag.com/gag/an75DgV)
+ - ⏩ [Cursed VR Girlfriend](http://9gag.com/gag/aQz1mdd)
+ - 👉 [Alexa what&#39;s flexing?](http://9gag.com/gag/aVv0Z8M)<!-- MEMES:END -->
 
 ---
 
