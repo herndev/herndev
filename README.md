@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [AMD posts record revenues and says RDNA 4 is &#39;on track&#39; for early 2025, but why are gaming GPUs the one thing it can&#39;t get right?](https://www.pcgamer.com/hardware/graphics-cards/amd-posts-record-revenues-and-says-rdna-4-is-on-track-for-early-2025-but-why-are-gaming-gpus-the-one-thing-it-cant-get-right)
- - [Ayaneo&#39;s teasing us with concept photos of its &#39;Code: REVO&#39; handheld, a codename &#39;symbolizing the innovative strength that leads gamers to walk into a whole new dimension of Ayaneo handhelds&#39;](https://www.pcgamer.com/hardware/handheld-gaming-pcs/ayaneos-teasing-us-with-concept-photos-of-its-code-revo-handheld-a-codename-symbolizing-the-innovative-strength-that-leads-gamers-to-walk-into-a-whole-new-dimension-of-ayaneo-handhelds)
- - [Here&#39;s exactly how the transgender and non-binary options in Dragon Age: The Veilguard work](https://www.pcgamer.com/games/dragon-age/heres-exactly-how-the-transgender-and-non-binary-options-in-dragon-age-the-veilguard-work)<!-- GAME:END -->
+ - [Deadpool &amp;#038; Wolverine hits Disney Plus in two weeks](https://www.polygon.com/marvel/472153/deadpool-wolverine-hits-disney-plus-in-two-weeks)
+ - [Marvel Teases Every Big Show Coming In The Next Year](https://kotaku.com/marvel-disney-plus-daredevil-ironheart-wonder-man-1851685063)
+ - [A humble wardrobe is my favourite Dragon Age: The Veilguard feature](https://www.pcgamer.com/games/dragon-age/a-humble-wardrobe-is-my-favourite-dragon-age-the-veilguard-feature)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
