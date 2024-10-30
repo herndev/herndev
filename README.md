@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [When you just trying to work but your co-worker crack open a cold beer.](http://9gag.com/gag/axy7bLM)
- - ⏩ [P2W newbie with pro F2P players](http://9gag.com/gag/aPARo2g)
- - 👉 [Hire a plumber next time.](http://9gag.com/gag/a6ZNBRq)<!-- MEMES:END -->
+ - 💣 [Savage teacher](http://9gag.com/gag/aRB0Ow5)
+ - ⏩ [Legit.. I&#39;m broke..](http://9gag.com/gag/a5QRGDE)
+ - 👉 [I already watched the movie, you don&#39;t need to sell it to me.](http://9gag.com/gag/aAygXqo)<!-- MEMES:END -->
 
 ---
 
