@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to find 3D movies to watch on Apple Vision Pro](https://appleinsider.com/inside/apple-vision-pro/tips/how-to-find-3d-movies-to-watch-on-apple-vision-pro?utm_medium=rss)
- - [Microsoft says Russian hackers have sent &quot;highly targeted spearphishing emails&quot; to thousands of US officials, defense workers, and others in a phishing campaign &lpar;Katrina Manson/Bloomberg&rpar;](http://www.techmeme.com/241029/p39#a241029p39)
- - [Today&#39;s NYT Mini Crossword Answers for Wednesday, Oct. 30](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-wednesday-oct-30/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Canon’s budget-friendly 3D lens will be available in November](https://www.theverge.com/2024/10/30/24282588/canon-lens-3d-vr-eos-r7-camera)
+ - [Samsung&#39;s stock has dropped 32% from its 2024 peak on July 9, cutting $122B off its market cap, more than any other chipmaker worldwide on AI and foundry woes &lpar;Bloomberg&rpar;](http://www.techmeme.com/241029/p41#a241029p41)
+ - [IDC: Samsung&#39;s global market share in Q3 fell from 21% to 18% YoY, the only one of the top five global smartphone makers to experience falling shipments &lpar;Financial Times&rpar;](http://www.techmeme.com/241029/p40#a241029p40)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
