@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Marvel has its 2025 Disney Plus roadmap all laid out](https://www.theverge.com/2024/10/30/24283711/marvel-disney-plus-premiere-dates-2025-wonder-man-eyes-of-wakanda-ironheart-daredevil-born-again)
- - [Massive One UI 7 leak reveals everything you want to know](https://www.androidauthority.com/massive-one-ui-7-leak-reveals-everything-you-want-to-know-3495461/)
- - [Starlink Mini review: space internet goes ultraportable](https://www.theverge.com/24275688/starlink-mini-review-battery-powered-backpack-comparison)<!-- TECH:END -->
+ - [Gmail could soon make it even easier to find that lost email &lpar;APK teardown&rpar;](https://www.androidauthority.com/gmail-search-filter-3495415/)
+ - [Starlink Mini review: super compact and light, can be powered by a small power bank, installs quickly at new locations, but Wi-Fi range is sometimes a concern &lpar;Thomas Ricker/The Verge&rpar;](http://www.techmeme.com/241030/p31#a241030p31)
+ - [Google’s Pixel 9A might get a bigger display](https://www.theverge.com/2024/10/30/24283754/google-pixel-9a-bigger-display-price-rumors-leak)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
