@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [PS5 Slim Plates Don&#39;t Work With The PS5 Pro Despite Being The Same Size](https://kotaku.com/ps5-pro-slim-cover-plates-fit-size-30th-anniversary-1851685792)
- - [The best Asus ROG Ally accessories](https://www.polygon.com/what-to-buy/23844769/best-asus-rog-ally-accessories)
- - [World&#39;s biggest modding site announces new paid mods policies, with caveats—&#39;as long as it isn&#39;t to the detriment of the free modding ecosystem&#39;](https://www.pcgamer.com/gaming-industry/worlds-biggest-modding-site-announces-new-paid-mods-policies-with-caveats-as-long-as-it-isnt-to-the-detriment-of-the-free-modding-ecosystem)<!-- GAME:END -->
+ - [Steam now requires developers to tell people when their games have kernel mode anticheat](https://www.pcgamer.com/games/steam-now-requires-developers-to-tell-people-when-their-games-have-kernel-mode-anticheat)
+ - [How to get more Hourglasses in Pokémon TCG Pocket](https://www.polygon.com/pokemon-tcg-pocket-guides/471854/hourglasses-get-pack-wonder-more)
+ - [World of Warcraft’s next patch is on Siren Isle, full of mystery and loot](https://www.polygon.com/world-of-warcraft/472726/war-within-patch-wow-siren-isle)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
