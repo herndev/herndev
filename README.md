@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How to find 3D movies to watch on Apple Vision Pro](https://appleinsider.com/inside/apple-vision-pro/tips/how-to-find-3d-movies-to-watch-on-apple-vision-pro?utm_medium=rss)
  - [Microsoft says Russian hackers have sent &quot;highly targeted spearphishing emails&quot; to thousands of US officials, defense workers, and others in a phishing campaign &lpar;Katrina Manson/Bloomberg&rpar;](http://www.techmeme.com/241029/p39#a241029p39)
- - [Today&#39;s NYT Mini Crossword Answers for Wednesday, Oct. 30](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-wednesday-oct-30/#ftag=CAD590a51e)
- - [Best Internet Providers in New Orleans, Louisiana](https://www.cnet.com/home/internet/best-internet-providers-in-new-orleans-la/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Today&#39;s NYT Mini Crossword Answers for Wednesday, Oct. 30](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-wednesday-oct-30/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
