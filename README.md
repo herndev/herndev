@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Today&#39;s Wordle answer for Wednesday, October 30](https://www.pcgamer.com/games/puzzle/wordle-answer-today-october-30-2024)
- - [Electronic Arts chief says Dragon Age: The Veilguard is a &#39;return to what made BioWare great&#39;](https://www.pcgamer.com/games/rpg/electronic-arts-chief-says-dragon-age-the-veilguard-is-a-return-to-what-made-bioware-great)
- - [Monster Hunter Wilds almost ruined Palicoes by letting them speak English, but thankfully you can revert them to meows](https://www.pcgamer.com/games/rpg/monster-hunter-wilds-almost-ruined-palicoes-by-letting-them-speak-english-but-thankfully-you-can-revert-them-to-meows)<!-- GAME:END -->
+ - [Dragon Age: The Veilguard expects you to recreate your Inquisitor from scratch right at the start of the game, so now&#39;s a good time to go remind yourself what they looked like](https://www.pcgamer.com/games/dragon-age/dragon-age-the-veilguard-expects-you-to-recreate-your-inquisitor-from-scratch-right-at-the-start-of-the-game-so-nows-a-good-time-to-go-remind-yourself-what-they-looked-like)
+ - [FF14 director Yoshi-P says transphobic abuse sent to Wuk Lamat&#39;s English VA &#39;breaks my heart&#39;, pleads for players to &#39;refrain from personal attacks&#39;](https://www.pcgamer.com/games/final-fantasy/ff14-director-yoshi-p-says-transphobic-abuse-sent-to-wuk-lamats-english-va-breaks-my-heart-pleads-for-players-to-refrain-from-personal-attacks)
+ - [Today&#39;s Wordle answer for Wednesday, October 30](https://www.pcgamer.com/games/puzzle/wordle-answer-today-october-30-2024)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
