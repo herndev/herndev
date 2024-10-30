@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Alphabet shares Q3 revenue up 15% to $88.27 billion](https://www.androidauthority.com/alphabet-q3-2024-revenue-3495216/)
- - [EA reports Q2 net bookings up 14% YoY to $2.08B vs. $2.04B est., revenue up 6%, raises its FY 2025 bookings forecast, as its American football titles outperform &lpar;Zaheer Kachwala/Reuters&rpar;](http://www.techmeme.com/241029/p36#a241029p36)
- - [Narwal Freo Z Ultra robot vacuum and mop gets discounted for the first time!](https://www.androidauthority.com/narwal-freo-z-ultra-deal-3495119/)<!-- TECH:END -->
+ - [Need a good USB-C hub? This UGREEN Uno one is cute, capable, and 20% off](https://www.androidauthority.com/ugreen-uno-6-in-1-usb-c-hub-deal-3495118/)
+ - [The best iPhones](https://www.theverge.com/23618862/best-iphone-camera-battery-screen-guide)
+ - [Research: China&#39;s industrial policy to make the nation a leader in emerging technologies has largely been a success, despite US efforts to contain the country &lpar;Bloomberg&rpar;](http://www.techmeme.com/241029/p37#a241029p37)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
