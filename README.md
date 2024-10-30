@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [From Seoul to Soul-Crushing: A Korean Kid&#39;s Indian Adventure.](http://9gag.com/gag/a6ZNBXb)
- - ⏩ [It is ok](http://9gag.com/gag/agm5x7K)
- - 👉 [The class above first, exclusive to Singapore Airlines](http://9gag.com/gag/aD2gXZ9)<!-- MEMES:END -->
+ - 💣 [Dwight is a straight shooter](http://9gag.com/gag/a2vRLW9)
+ - ⏩ [From Seoul to Soul-Crushing: A Korean Kid&#39;s Indian Adventure.](http://9gag.com/gag/a6ZNBXb)
+ - 👉 [Government created speed breakers on highway without any sign and the cars went \u2708\ufe0f](http://9gag.com/gag/azx1YKz)<!-- MEMES:END -->
 
 ---
 
