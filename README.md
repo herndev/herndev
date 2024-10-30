@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Call of Duty’s massive filesize drives peak internet usage](https://www.theverge.com/2024/10/30/24283801/comcast-call-of-duty-black-ops-6-large-downloads)
- - [M4 Pro 14-inch MacBook Pro vs M1 Pro 14-inch MacBook Pro compared: Big performance gains in three years](https://appleinsider.com/inside/14-inch-macbook-pro/vs/m4-pro-14-inch-macbook-pro-vs-m1-pro-14-inch-macbook-pro-compared-big-performance-gains-in-three-years?utm_medium=rss)
- - [Here’s where you can preorder the new MacBook Pro, iMac, and Mac Mini](https://www.theverge.com/24279801/apple-macbook-pro-mac-mini-imac-m4-preorder-buy-price-release-date)<!-- TECH:END -->
+ - [Kids with Android phones will be able to use Google Wallet tap-to-pay soon](https://www.theverge.com/2024/10/30/24283825/android-phones-google-wallet-tap-to-pay-fitbit-ace-lte)
+ - [Global Payments agrees to sell medical software business AdvancedMD to investment firm Francisco Partners for $1.13B; the deal is expected to close in Q4 2024 &lpar;Niket Nishant/Reuters&rpar;](http://www.techmeme.com/241030/p33#a241030p33)
+ - [Ubisoft dumps its NFT game on the market to little fanfare](https://www.theverge.com/2024/10/30/24283677/ubisoft-nft-game-champions-tactics-grimoria-chronicles-sequence)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
