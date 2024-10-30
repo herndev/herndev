@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Grab These Two Acclaimed Horror Games For Just $3 This Halloween](https://kotaku.com/oxenfree-2-sale-steam-halloween-horror-games-1851685695)
- - [Dragon Ball: Sparking Zero Doesn’t Explain Battle Assist Settings, So We Did](https://kotaku.com/dragon-ball-sparking-zero-battle-assist-guide-1851685568)
- - [Deadpool &amp; Wolverine Just Got A Disney Plus Streaming Date And It&#39;s Not Far Away](https://kotaku.com/deadpool-wolverine-just-got-a-disney-plus-streaming-d-1851685637)<!-- GAME:END -->
+ - [PS5 Slim Plates Don&#39;t Work With The PS5 Pro Despite Being The Same Size](https://kotaku.com/ps5-pro-slim-cover-plates-fit-size-30th-anniversary-1851685792)
+ - [The best Asus ROG Ally accessories](https://www.polygon.com/what-to-buy/23844769/best-asus-rog-ally-accessories)
+ - [World&#39;s biggest modding site announces new paid mods policies, with caveats—&#39;as long as it isn&#39;t to the detriment of the free modding ecosystem&#39;](https://www.pcgamer.com/gaming-industry/worlds-biggest-modding-site-announces-new-paid-mods-policies-with-caveats-as-long-as-it-isnt-to-the-detriment-of-the-free-modding-ecosystem)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
