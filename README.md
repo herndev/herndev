@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [65% OFF Walmart Promo Codes, Coupons | November 2024](https://www.wired.com/story/top-walmart-promo-codes/)
- - [Contributions to generative AI projects on GitHub grew 59% YoY between October 2023 and September 2024 and Python topped JavaScript as the most popular language &lpar;The GitHub Blog&rpar;](http://www.techmeme.com/241030/p7#a241030p7)
- - [Factor Promo Code: $130 Off in November 2024](https://www.wired.com/story/factor-promo-code/)<!-- TECH:END -->
+ - [Sennheiser’s new wireless clip-on mics can convert to a tabletop microphone](https://www.theverge.com/2024/10/30/24279394/sennheiser-profile-wireless-microphone)
+ - [Google Pixel 9a rumors: Release date, leaked features, rumored price, and more](https://www.androidauthority.com/google-pixel-9a-3479179/)
+ - [65% OFF Walmart Promo Codes, Coupons | November 2024](https://www.wired.com/story/top-walmart-promo-codes/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
