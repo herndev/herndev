@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sennheiser’s new wireless clip-on mics can convert to a tabletop microphone](https://www.theverge.com/2024/10/30/24279394/sennheiser-profile-wireless-microphone)
- - [Google Pixel 9a rumors: Release date, leaked features, rumored price, and more](https://www.androidauthority.com/google-pixel-9a-3479179/)
- - [65% OFF Walmart Promo Codes, Coupons | November 2024](https://www.wired.com/story/top-walmart-promo-codes/)<!-- TECH:END -->
+ - [Circle raises its fees to 0.03%+ per transaction for near-instant USDC redemptions above $2M; CoinGecko: USDC&#39;s market circulation is $35B, below USDT&#39;s $123B &lpar;Emily Nicolle/Bloomberg&rpar;](http://www.techmeme.com/241030/p11#a241030p11)
+ - [Gallup: ~67% of US workers say they never use AI tools at work, while 4% use them daily and say they see benefits in productivity, efficiency, and more &lpar;Danielle Abril/Washington Post&rpar;](http://www.techmeme.com/241030/p10#a241030p10)
+ - [Sources: an upcoming UK government-commissioned report says the UK should streamline the visa process for AI experts and create special zones for data centers &lpar;Anna Gross/Financial Times&rpar;](http://www.techmeme.com/241030/p9#a241030p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
