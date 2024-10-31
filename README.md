@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [11 year old German girl can spot the difference between two circles full of colored dots](http://9gag.com/gag/aD2gPv7)
- - ⏩ [Imagine giving this to an ancient samourai](http://9gag.com/gag/ae95WEB)
- - 👉 [Meme Origins](http://9gag.com/gag/an75VBB)<!-- MEMES:END -->
+ - 💣 [One of life&#39;s great mysteries](http://9gag.com/gag/agm5EoW)
+ - ⏩ [11 year old German girl can spot the difference between two circles full of colored dots](http://9gag.com/gag/aD2gPv7)
+ - 👉 [Dante&#39;s Inferno &lpar;2010&rpar; is a really dark but also wicked game - I miss these inventive gems!](http://9gag.com/gag/aqygYRP)<!-- MEMES:END -->
 
 ---
 
