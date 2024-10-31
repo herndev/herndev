@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [24 hours with Apple Intelligence: Heavy on the Apple, light on the Intelligence](https://www.androidauthority.com/apple-intelligence-hands-on-3495837/)
- - [Google Search widget will let you customize its colors again](https://www.androidauthority.com/google-search-bar-color-customization-3496013/)
- - [Apple beats Wall Street predictions with record-breaking iPhone sales revenue](https://appleinsider.com/articles/24/10/31/apple-beats-wall-street-revenue-predictions-with-record-breaking-iphone-sales-revenue?utm_medium=rss)<!-- TECH:END -->
+ - [ChromeOS gets a big update with Quick Insert, Focus mode, and new AI features](https://www.theverge.com/2024/10/31/24284880/google-chromebook-chromeos-130-quick-insert-ai-focus-mode)
+ - [Tim Cook bids farewell to Luca Maestri on his last earnings call](https://appleinsider.com/articles/24/10/31/tim-cook-bids-farewell-to-luca-maestri-on-his-last-earnings-call?utm_medium=rss)
+ - [Google Home’s new Gemini Extension frees you to control your smart home with natural language](https://www.androidauthority.com/google-home-gemini-extension-3496007/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
