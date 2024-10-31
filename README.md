@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [US court docs: in 2022, Apple privately warned TikTok that it had more mature content than was suitable for under-17s and to change its App Store age rating &lpar;Cristiano Lima-Strong/Washington Post&rpar;](http://www.techmeme.com/241031/p17#a241031p17)
- - [Two more Nintendo 3DS emulators just bit the dust, but this time it’s good news](https://www.androidauthority.com/pablomk7-lime3ds-nintend-3ds-emulators-3495714/)
- - [Amazon&#39;s threat intel unit is making a name for itself after years in the shadows, including disrupting Anonymous Sudan and combating anti-US disinformation &lpar;Jamie Tarabay/Bloomberg&rpar;](http://www.techmeme.com/241031/p16#a241031p16)<!-- TECH:END -->
+ - [Mark Zuckerberg’s Midlife Crisis](https://www.wired.com/story/uncanny-valley-mark-zuckerberg-midlife-crisis/)
+ - [Introducing WIRED’s Flagship Podcast, ‘Uncanny Valley’](https://www.wired.com/story/introducing-new-podcast-uncanny-valley/)
+ - [The latest music streaming service is from… Nintendo?](https://www.androidauthority.com/nintendo-music-launches-on-mobile-3495726/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
