@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Portuguese businessman kidnapped in Maputo](http://9gag.com/gag/amo5Vj9)
- - ⏩ [Only Japan, royal princess would bow to average peasants.](http://9gag.com/gag/aByg4WO)
- - 👉 [POV : when the sound of drones is scarier than ghosts](http://9gag.com/gag/abArROr)<!-- MEMES:END -->
+ - 💣 [The peace of mind of having a shatterproof door...](http://9gag.com/gag/aryozo0)
+ - ⏩ [POV : when the sound of drones is scarier than ghosts](http://9gag.com/gag/abArROr)
+ - 👉 [Spiders are attracted to nectar, and in this case it cost her her life](http://9gag.com/gag/an75rAB)<!-- MEMES:END -->
 
 ---
 
