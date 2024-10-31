@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Change is coming to Magic: The Gathering — here&amp;#8217;s why longtime fans are worried](https://www.polygon.com/mtg-magic-the-gathering/472487/universes-beyond-controversy-standard-legal-magic-multiverse)
- - [Baldur&#39;s Gate 3 players have downloaded 50 million mods since official support was added, and Larian is &#39;glad [it] could facilitate&#39; 10,000 players renaming Withers to Bone Daddy](https://www.pcgamer.com/games/baldurs-gate/baldurs-gate-3-players-have-downloaded-50-million-mods-since-official-support-was-added-and-larian-is-glad-it-could-facilitate-10-000-players-renaming-withers-to-bone-daddy)
- - [A huge discount to Batman: Arkham Asylum, the superlative superhero game with over 47,000 &#39;Overwhelmingly Positive&#39; reviews on Steam, is the Halloween gaming treat I&#39;ve been waiting for](https://www.pcgamer.com/games/action/a-huge-discount-to-batman-arkham-asylum-the-superlative-superhero-game-with-over-47-000-overwhelmingly-positive-reviews-on-steam-is-the-halloween-gaming-treat-ive-been-waiting-for)<!-- GAME:END -->
+ - [Where to Take the Best Scary Photos in Roblox’s Halloween Event, The Haunt](https://news.xbox.com/en-us/2024/10/31/where-to-take-the-best-scary-photos-in-robloxs-halloween-event-the-haunt/)
+ - [A Baldur’s Gate 3 player’s guide to Dragon Age lore](https://www.polygon.com/explained/472291/dragon-age-veilguard-lore-explained-beginners-guide)
+ - [Before you play Dragon Age: The Veilguard, you really should change the annoying wayfinding settings](https://www.pcgamer.com/games/dragon-age/before-you-play-dragon-age-the-veilguard-you-really-should-change-the-annoying-wayfinding-settings)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
