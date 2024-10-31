@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Anyone heard about this?](http://9gag.com/gag/a7owN2b)
- - ⏩ [Smooth Operator!](http://9gag.com/gag/ae95RGp)
- - 👉 [Alexa what&#39;s flexing?](http://9gag.com/gag/aVv0Z8M)<!-- MEMES:END -->
+ - 💣 [KARMA](http://9gag.com/gag/a5QR59N)
+ - ⏩ [The peace of mind of having a shatterproof door...](http://9gag.com/gag/aryozo0)
+ - 👉 [Only Japan, royal princess would bow to average peasants.](http://9gag.com/gag/aByg4WO)<!-- MEMES:END -->
 
 ---
 
