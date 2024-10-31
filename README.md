@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [He took that well](http://9gag.com/gag/aBygX8x)
- - ⏩ [Speed Dating.](http://9gag.com/gag/aGyg2vw)
- - 👉 [The class above first, exclusive to Singapore Airlines](http://9gag.com/gag/aD2gXZ9)<!-- MEMES:END -->
+ - 💣 [Speed Dating.](http://9gag.com/gag/aGyg2vw)
+ - ⏩ [Where is my son](http://9gag.com/gag/aByg48A)
+ - 👉 [Third class citizens](http://9gag.com/gag/a0eRO3X)<!-- MEMES:END -->
 
 ---
 
