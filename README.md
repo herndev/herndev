@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Drill falls down the hole on an oil rig](http://9gag.com/gag/a5QRDVO)
- - ⏩ [The Modern Man\u2122](http://9gag.com/gag/abArd7b)
- - 👉 [One of life&#39;s great mysteries](http://9gag.com/gag/agm5EoW)<!-- MEMES:END -->
+ - 💣 [RayGun Challenge is LIVE](http://9gag.com/gag/amo5n29)
+ - ⏩ [POV : when the sound of drones is scarier than ghosts](http://9gag.com/gag/abArROr)
+ - 👉 [Drill falls down the hole on an oil rig](http://9gag.com/gag/a5QRDVO)<!-- MEMES:END -->
 
 ---
 
