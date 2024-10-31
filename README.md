@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Here are some of the best horror board games you can buy right now](https://www.polygon.com/gift-guide/471994/best-horror-board-games-2024)
- - [It’s becoming comical that Nintendo keeps not announcing the Switch 2](https://www.polygon.com/473280/nintendo-switch-2-announcement-when)
- - [It&amp;#8217;s worth tweaking Dragon Age: The Veilguard&amp;#8217;s combat options](https://www.polygon.com/gaming/473324/dragon-age-difficulty-options-customization-unbound)<!-- GAME:END -->
+ - [3 Things I wish Pokémon TCG Pocket Would Steal From Marvel Snap](https://kotaku.com/pokemon-tcg-pocket-marvel-snap-rewards-card-1851686837)
+ - [Return of the Phantom, which is basically The Phantom of the Opera but with time travel, is free on GOG](https://www.pcgamer.com/games/adventure/return-of-the-phantom-which-is-basically-the-phantom-of-the-opera-but-with-time-travel-is-free-on-gog)
+ - [Pokémon TCG Pocket Already Feels Like A Well-Laid Trap](https://kotaku.com/pokemon-tcg-pocket-impressions-gacha-mobile-card-game-1851686829)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
