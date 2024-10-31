@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [S.T.A.L.K.E.R. 2: How GSC Game World Battled Real-Life Danger](https://news.microsoft.com/source/?post_type=features&p=8487#new_tab)
- - [AMD confirms Ryzen 7 9800X3D will cost $489, highest clock speeds ever for 3D V-Cache and fully unlocked for overclocking](https://www.pcgamer.com/hardware/processors/amd-confirms-ryzen-7-9800x3d-will-cost-usd489-highest-clock-speeds-ever-for-3d-v-cache-and-fully-unlocked-for-overclocking)
- - [The Consequences Of Dragon Age: The Veilguard&#39;s Biggest Early Decision, Explained](https://kotaku.com/dragon-age-veilguard-save-minrathous-treviso-choice-1851686168)<!-- GAME:END -->
+ - [Free Play Days – A Spooky Halloween Special](https://news.xbox.com/en-us/2024/10/31/free-play-days-spooky-halloween-special-2024/)
+ - [Arkane&#39;s founder left because Bethesda &#39;did not want to do the kind of games that we wanted to make&#39;, and that&#39;s how it ended up with Redfall](https://www.pcgamer.com/games/arkanes-founder-left-because-bethesda-did-not-want-to-do-the-kind-of-games-that-we-wanted-to-make-and-thats-how-it-ended-up-with-redfall)
+ - [Nintendo launches new music app for Nintendo Switch Online members](https://www.polygon.com/news/472881/nintendo-music-app-android-ios)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
