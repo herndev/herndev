@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Speed Dating.](http://9gag.com/gag/aGyg2vw)
- - ⏩ [Where is my son](http://9gag.com/gag/aByg48A)
- - 👉 [Third class citizens](http://9gag.com/gag/a0eRO3X)<!-- MEMES:END -->
+ - 💣 [A woman cares for an egg](http://9gag.com/gag/ayNoPor)
+ - ⏩ [The class above first, exclusive to Singapore Airlines](http://9gag.com/gag/aD2gXZ9)
+ - 👉 [Government created speed breakers on highway without any sign and the cars went \u2708\ufe0f](http://9gag.com/gag/azx1YKz)<!-- MEMES:END -->
 
 ---
 
