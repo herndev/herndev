@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Where is my son](http://9gag.com/gag/aByg48A)
- - ⏩ [Only Japan, royal princess would bow to average peasants.](http://9gag.com/gag/aByg4WO)
- - 👉 [Anxiety problem solved](http://9gag.com/gag/a2vROdY)<!-- MEMES:END -->
+ - 💣 [Hold up, wait a minute...](http://9gag.com/gag/abArdqL)
+ - ⏩ [One of life&#39;s great mysteries](http://9gag.com/gag/agm5EoW)
+ - 👉 [I can fix her](http://9gag.com/gag/a1mRL12)<!-- MEMES:END -->
 
 ---
 
