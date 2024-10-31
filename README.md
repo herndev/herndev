@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Where is my son](http://9gag.com/gag/aByg48A)
- - ⏩ [Government created speed breakers on highway without any sign and the cars went \u2708\ufe0f](http://9gag.com/gag/azx1YKz)
- - 👉 [The class above first, exclusive to Singapore Airlines](http://9gag.com/gag/aD2gXZ9)<!-- MEMES:END -->
+ - 💣 [Imagine giving this to an ancient samourai](http://9gag.com/gag/ae95WEB)
+ - ⏩ [Clever kid](http://9gag.com/gag/aqygDAR)
+ - 👉 [Don&#39;t smoke](http://9gag.com/gag/aD2gMvx)<!-- MEMES:END -->
 
 ---
 
