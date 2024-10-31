@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Hold up, wait a minute...](http://9gag.com/gag/abArdqL)
- - ⏩ [One of life&#39;s great mysteries](http://9gag.com/gag/agm5EoW)
- - 👉 [I can fix her](http://9gag.com/gag/a1mRL12)<!-- MEMES:END -->
+ - 💣 [Drill falls down the hole on an oil rig](http://9gag.com/gag/a5QRDVO)
+ - ⏩ [The Modern Man\u2122](http://9gag.com/gag/abArd7b)
+ - 👉 [One of life&#39;s great mysteries](http://9gag.com/gag/agm5EoW)<!-- MEMES:END -->
 
 ---
 
