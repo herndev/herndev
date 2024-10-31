@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google will open a new physical retail store tomorrow, finally moving off the coasts](https://www.androidauthority.com/google-store-chicago-oakbrook-3495905/)
- - [Apex Legends is taking away its support for the Steam Deck and Linux](https://www.theverge.com/2024/10/31/24284644/apex-legends-loses-linux-steam-deck-support-anti-cheat)
- - [Mozilla’s long-awaited Thunderbird for Android app is now live](https://www.androidauthority.com/thunderbird-android-launch-3495902/)<!-- TECH:END -->
+ - [Activision-Blizzard says the Call of Duty series has sold more than 500M copies to date; Nadella says Black Ops 6 set a record for first-day players &lpar;Gene Park/Washington Post&rpar;](http://www.techmeme.com/241031/p39#a241031p39)
+ - [Trump is planning a crackdown on legal immigration, too](https://www.theverge.com/2024/10/31/24284684/trump-legal-immigration-crackdown-america-first-policy-institute)
+ - [Humane recalls the AI Pin’s charging case due to overheating concerns](https://www.theverge.com/2024/10/31/24284691/humane-ai-pin-charge-case-recall-fire-hazard)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
