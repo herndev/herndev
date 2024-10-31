@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Free Play Days – A Spooky Halloween Special](https://news.xbox.com/en-us/2024/10/31/free-play-days-spooky-halloween-special-2024/)
- - [Arkane&#39;s founder left because Bethesda &#39;did not want to do the kind of games that we wanted to make&#39;, and that&#39;s how it ended up with Redfall](https://www.pcgamer.com/games/arkanes-founder-left-because-bethesda-did-not-want-to-do-the-kind-of-games-that-we-wanted-to-make-and-thats-how-it-ended-up-with-redfall)
- - [Nintendo launches new music app for Nintendo Switch Online members](https://www.polygon.com/news/472881/nintendo-music-app-android-ios)<!-- GAME:END -->
+ - [From Rook to Riches: 10 Things to Know Before You Start Playing Dragon Age: The Veilguard](https://news.xbox.com/en-us/2024/10/31/dragon-age-the-veilguard-10-things-to-know/)
+ - [Call of Duty: Black Ops 6 accounted for 19% of all Comcast&#39;s traffic last week, and it&#39;s the first in the series in years actually worth its huge download size](https://www.pcgamer.com/games/call-of-duty/call-of-duty-black-ops-6-accounted-for-19-percent-of-all-comcasts-traffic-last-week-and-its-the-first-in-the-series-in-years-actually-worth-its-huge-download-size)
+ - [9 More Things Nintendo Will Announce Before The Switch 2](https://kotaku.com/switch-2-nintendo-reveal-date-n64-mini-ocarina-remake-1851686263)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
