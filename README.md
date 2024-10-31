@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [KARMA](http://9gag.com/gag/a5QR59N)
- - ⏩ [The peace of mind of having a shatterproof door...](http://9gag.com/gag/aryozo0)
- - 👉 [Only Japan, royal princess would bow to average peasants.](http://9gag.com/gag/aByg4WO)<!-- MEMES:END -->
+ - 💣 [Family Guy, When Wile E. Coyote caught the Road Runner](http://9gag.com/gag/aryoz1K)
+ - ⏩ [KARMA](http://9gag.com/gag/a5QR59N)
+ - 👉 [He&#39;s not wrong.](http://9gag.com/gag/aXPjRMV)<!-- MEMES:END -->
 
 ---
 
