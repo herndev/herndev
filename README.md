@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [M4 iMac vs 2019 Intel iMac compared: Five years makes a big difference](https://appleinsider.com/inside/24-inch-imac/vs/m4-imac-vs-2019-intel-imac-compared-five-years-makes-a-big-difference?utm_medium=rss)
- - [The Biden admin unveils an $825M investment in an Albany-based chip research and development facility; the NTSC says the facility aims to drive EUV innovation &lpar;Reuters&rpar;](http://www.techmeme.com/241031/p26#a241031p26)
- - [Apple donating to relief efforts following Spain&#39;s devastating floods](https://appleinsider.com/articles/24/10/31/apple-donating-to-relief-efforts-following-spains-devastating-floods?utm_medium=rss)<!-- TECH:END -->
+ - [Apple rumored to ditch Broadcom Wi-Fi for own design in iPhone 17](https://appleinsider.com/articles/24/10/31/apple-rumored-to-ditch-broadcom-wi-fi-for-own-design-in-iphone-17?utm_medium=rss)
+ - [Get Samsung&#39;s 32-inch M8 monitor for $399 &lpar;$300 off&rpar; &amp; score a free 2TB T9 portable SSD](https://appleinsider.com/articles/24/10/31/get-samsungs-32-inch-m8-monitor-for-399-300-off-score-a-free-2tb-t9-portable-ssd?utm_medium=rss)
+ - [Google adds Gemini in Google Maps in the US, with AI-summarized reviews and answers to conversational questions by users, and adds 150 cities to Immersive View &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/241031/p28#a241031p28)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
