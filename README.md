@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Where to Take the Best Scary Photos in Roblox’s Halloween Event, The Haunt](https://news.xbox.com/en-us/2024/10/31/where-to-take-the-best-scary-photos-in-robloxs-halloween-event-the-haunt/)
- - [A Baldur’s Gate 3 player’s guide to Dragon Age lore](https://www.polygon.com/explained/472291/dragon-age-veilguard-lore-explained-beginners-guide)
- - [Before you play Dragon Age: The Veilguard, you really should change the annoying wayfinding settings](https://www.pcgamer.com/games/dragon-age/before-you-play-dragon-age-the-veilguard-you-really-should-change-the-annoying-wayfinding-settings)<!-- GAME:END -->
+ - [S.T.A.L.K.E.R. 2: How GSC Game World Battled Real-Life Danger](https://news.microsoft.com/source/?post_type=features&p=8487#new_tab)
+ - [AMD confirms Ryzen 7 9800X3D will cost $489, highest clock speeds ever for 3D V-Cache and fully unlocked for overclocking](https://www.pcgamer.com/hardware/processors/amd-confirms-ryzen-7-9800x3d-will-cost-usd489-highest-clock-speeds-ever-for-3d-v-cache-and-fully-unlocked-for-overclocking)
+ - [The Consequences Of Dragon Age: The Veilguard&#39;s Biggest Early Decision, Explained](https://kotaku.com/dragon-age-veilguard-save-minrathous-treviso-choice-1851686168)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
