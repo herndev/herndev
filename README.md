@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Best first date](http://9gag.com/gag/amo5RQd)
- - ⏩ [KARMA](http://9gag.com/gag/a5QR59N)
- - 👉 [He&#39;s not wrong.](http://9gag.com/gag/aXPjRMV)<!-- MEMES:END -->
+ - 💣 [One of life&#39;s great mysteries](http://9gag.com/gag/agm5EoW)
+ - ⏩ [Portuguese businessman kidnapped in Maputo](http://9gag.com/gag/amo5Vj9)
+ - 👉 [A woman cares for an egg](http://9gag.com/gag/ayNoPor)<!-- MEMES:END -->
 
 ---
 
