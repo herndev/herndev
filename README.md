@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [From Rook to Riches: 10 Things to Know Before You Start Playing Dragon Age: The Veilguard](https://news.xbox.com/en-us/2024/10/31/dragon-age-the-veilguard-10-things-to-know/)
- - [Call of Duty: Black Ops 6 accounted for 19% of all Comcast&#39;s traffic last week, and it&#39;s the first in the series in years actually worth its huge download size](https://www.pcgamer.com/games/call-of-duty/call-of-duty-black-ops-6-accounted-for-19-percent-of-all-comcasts-traffic-last-week-and-its-the-first-in-the-series-in-years-actually-worth-its-huge-download-size)
- - [9 More Things Nintendo Will Announce Before The Switch 2](https://kotaku.com/switch-2-nintendo-reveal-date-n64-mini-ocarina-remake-1851686263)<!-- GAME:END -->
+ - [Indie Selects for October: Game Developers Bringing the Treats](https://news.xbox.com/en-us/2024/10/31/indie-selects-october-id-xbox/)
+ - [Agatha All Along proves Marvel has a sidekick problem](https://www.polygon.com/opinion/472406/marvel-mcu-agatha-young-avengers-billy-wiccan-spiderman-sidekick)
+ - [Agatha All Along Fizzles Out With A Disappointing Finale](https://kotaku.com/agatha-all-along-finale-mcu-marvel-disney-wiccan-1851686423)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
