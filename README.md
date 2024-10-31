@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple rumored to ditch Broadcom Wi-Fi for own design in iPhone 17](https://appleinsider.com/articles/24/10/31/apple-rumored-to-ditch-broadcom-wi-fi-for-own-design-in-iphone-17?utm_medium=rss)
- - [Get Samsung&#39;s 32-inch M8 monitor for $399 &lpar;$300 off&rpar; &amp; score a free 2TB T9 portable SSD](https://appleinsider.com/articles/24/10/31/get-samsungs-32-inch-m8-monitor-for-399-300-off-score-a-free-2tb-t9-portable-ssd?utm_medium=rss)
- - [Google adds Gemini in Google Maps in the US, with AI-summarized reviews and answers to conversational questions by users, and adds 150 cities to Immersive View &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/241031/p28#a241031p28)<!-- TECH:END -->
+ - [Kuo: Apple plans to use its own Wi-Fi and Bluetooth chips made by TSMC&#39;s N7 process and with Wi-Fi 7 in the iPhone 17 lineup, reducing its reliance on Broadcom &lpar;Ryan Christoffel/9to5Mac&rpar;](http://www.techmeme.com/241031/p32#a241031p32)
+ - [OnePlus unveils the OnePlus 13, its next flagship with a Snapdragon 8 Elite SoC, 12GB+ RAM, and a 6,000mAh battery, available in China on November 1 for ~$630+ &lpar;Andrew Liszewski/The Verge&rpar;](http://www.techmeme.com/241031/p31#a241031p31)
+ - [The newest Ring Battery Doorbell is $40 off and matching its lowest price](https://www.theverge.com/2024/10/31/24284448/ring-battery-doorbell-plus-samsung-galaxy-smarttag-2-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
