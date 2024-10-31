@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I can fix her](http://9gag.com/gag/a1mRL12)
- - ⏩ [The peace of mind of having a shatterproof door...](http://9gag.com/gag/aryozo0)
- - 👉 [Is she giving me some kind of sign?](http://9gag.com/gag/an75DgL)<!-- MEMES:END -->
+ - 💣 [Where is my son](http://9gag.com/gag/aByg48A)
+ - ⏩ [Only Japan, royal princess would bow to average peasants.](http://9gag.com/gag/aByg4WO)
+ - 👉 [Anxiety problem solved](http://9gag.com/gag/a2vROdY)<!-- MEMES:END -->
 
 ---
 
