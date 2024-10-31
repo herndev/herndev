@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The peace of mind of having a shatterproof door...](http://9gag.com/gag/aryozo0)
- - ⏩ [POV : when the sound of drones is scarier than ghosts](http://9gag.com/gag/abArROr)
- - 👉 [Spiders are attracted to nectar, and in this case it cost her her life](http://9gag.com/gag/an75rAB)<!-- MEMES:END -->
+ - 💣 [11 year old German girl can spot the difference between two circles full of colored dots](http://9gag.com/gag/aD2gPv7)
+ - ⏩ [Spoiled](http://9gag.com/gag/awyoGDx)
+ - 👉 [A woman cares for an egg](http://9gag.com/gag/ayNoPor)<!-- MEMES:END -->
 
 ---
 
