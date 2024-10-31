@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Indie Selects for October: Game Developers Bringing the Treats](https://news.xbox.com/en-us/2024/10/31/indie-selects-october-id-xbox/)
- - [Agatha All Along proves Marvel has a sidekick problem](https://www.polygon.com/opinion/472406/marvel-mcu-agatha-young-avengers-billy-wiccan-spiderman-sidekick)
- - [Agatha All Along Fizzles Out With A Disappointing Finale](https://kotaku.com/agatha-all-along-finale-mcu-marvel-disney-wiccan-1851686423)<!-- GAME:END -->
+ - [A Barbaric Journey Awaits: Embrace the Fury of Elderborn](https://news.xbox.com/en-us/2024/10/31/embrace-the-fury-of-elderborn/)
+ - [Dig VR announces collector&#39;s edition with two real-life excavators and a trip to America that costs £499,985 more than the game by itself](https://www.pcgamer.com/games/vr/dig-vr-announces-collectors-edition-with-two-real-life-excavators-and-a-trip-to-america-that-costs-gbp499-985-more-than-the-game-by-itself)
+ - [Elite Dangerous will let players colonize the Milky Way in 2025](https://www.polygon.com/pc/473158/elite-dangerous-colonization-expansion-bubble)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
