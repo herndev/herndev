@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Here are the price-matching policies for Best Buy, Walmart, and others](https://www.theverge.com/21570383/price-matching-policy-apple-google-microsoft)
- - [Siemens agrees to buy engineering software company Altair for ~$10B including debt, a 19% premium on Altair&#39;s October 21 closing price; deal to close in H2 2025 &lpar;Bloomberg&rpar;](http://www.techmeme.com/241030/p50#a241030p50)
- - [I Got to Play With Apple&#39;s New M4 Mac Mini, iMac and MacBook Pro](https://www.cnet.com/tech/computing/i-got-to-play-with-apples-new-m4-mac-mini-imac-and-macbook-pro/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Kraken lays off workers and names Arjun Sethi as co-CEO; sources say the cuts amount to 15% of its workforce, or ~400 employees, including the COO and the CTO &lpar;New York Times&rpar;](http://www.techmeme.com/241030/p51#a241030p51)
+ - [Meta’s Next Llama AI Models Are Training on a GPU Cluster ‘Bigger Than Anything’ Else](https://www.wired.com/story/meta-llama-ai-gpu-training/)
+ - [These Airlines Have the Most Flight Delays and Cancelations](https://www.cnet.com/personal-finance/these-airlines-have-the-most-flight-delays-and-cancelations/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
