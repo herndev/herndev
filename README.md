@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [A woman cares for an egg](http://9gag.com/gag/ayNoPor)
- - ⏩ [The class above first, exclusive to Singapore Airlines](http://9gag.com/gag/aD2gXZ9)
- - 👉 [Government created speed breakers on highway without any sign and the cars went \u2708\ufe0f](http://9gag.com/gag/azx1YKz)<!-- MEMES:END -->
+ - 💣 [Monster hunter is so wild now](http://9gag.com/gag/azx14qZ)
+ - ⏩ [One of life&#39;s great mysteries](http://9gag.com/gag/agm5EoW)
+ - 👉 [A woman cares for an egg](http://9gag.com/gag/ayNoPor)<!-- MEMES:END -->
 
 ---
 
