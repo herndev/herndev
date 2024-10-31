@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [One of life&#39;s great mysteries](http://9gag.com/gag/agm5EoW)
- - ⏩ [Portuguese businessman kidnapped in Maputo](http://9gag.com/gag/amo5Vj9)
- - 👉 [A woman cares for an egg](http://9gag.com/gag/ayNoPor)<!-- MEMES:END -->
+ - 💣 [Dante&#39;s Inferno &lpar;2010&rpar; is a really dark but also wicked game - I miss these inventive gems!](http://9gag.com/gag/aqygYRP)
+ - ⏩ [Former beauty Queen, Miss Wyoming winner Joyce McKinney being arrested by police after kidnapping Mormon missionary Kirk Anderson from his church, forcing him to be her sex slave for 3 days &lpar;1977&rpar;](http://9gag.com/gag/a0eROQX)
+ - 👉 [Spiders are attracted to nectar, and in this case it cost her her life](http://9gag.com/gag/an75rAB)<!-- MEMES:END -->
 
 ---
 
