@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [One of life&#39;s great mysteries](http://9gag.com/gag/agm5EoW)
- - ⏩ [11 year old German girl can spot the difference between two circles full of colored dots](http://9gag.com/gag/aD2gPv7)
- - 👉 [Dante&#39;s Inferno &lpar;2010&rpar; is a really dark but also wicked game - I miss these inventive gems!](http://9gag.com/gag/aqygYRP)<!-- MEMES:END -->
+ - 💣 [Portuguese businessman kidnapped in Maputo](http://9gag.com/gag/amo5Vj9)
+ - ⏩ [Only Japan, royal princess would bow to average peasants.](http://9gag.com/gag/aByg4WO)
+ - 👉 [POV : when the sound of drones is scarier than ghosts](http://9gag.com/gag/abArROr)<!-- MEMES:END -->
 
 ---
 
