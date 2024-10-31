@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [What time does Fortnite’s live event ‘Remix: The Prelude’ start?](https://www.polygon.com/fortnite-guide/472158/remix-the-prelude-live-event-start-time-release-time-zone)
- - [Is Concord the biggest live service failure of all time? Here&#39;s how it stacks up next to other major flops](https://www.pcgamer.com/games/is-concord-the-biggest-live-service-failure-of-all-time-heres-how-it-stacks-up-next-to-other-major-flops)
- - [Call of Duty: Black Ops 6 &#39;Omnimovement&#39; is a hit because controller aim assist got a huge nerf this year](https://www.pcgamer.com/games/call-of-duty/black-ops-6-omnimovement-aim-assist-nerf)<!-- GAME:END -->
+ - [Black Ops 6 is massively outselling last year&#39;s Call of Duty even though it&#39;s on Game Pass, which probably tells you how Modern Warfare 3 went](https://www.pcgamer.com/games/call-of-duty/black-ops-6-biggest-release-ever)
+ - [Lionsgate and Red Barrels are bringing &#39;the Outlast Universe&#39; to the big screen](https://www.pcgamer.com/movies-tv/lionsgate-and-red-barrels-are-bringing-the-outlast-universe-to-the-big-screen)
+ - [What time does Fortnite’s live event ‘Remix: The Prelude’ start?](https://www.polygon.com/fortnite-guide/472158/remix-the-prelude-live-event-start-time-release-time-zone)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
