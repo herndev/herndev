@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Today&#39;s Wordle answer for Thursday, October 31](https://www.pcgamer.com/games/puzzle/wordle-answer-today-october-31-2024)
- - [Black Ops 6 is massively outselling last year&#39;s Call of Duty even though it&#39;s on Game Pass, which probably tells you how Modern Warfare 3 went](https://www.pcgamer.com/games/call-of-duty/black-ops-6-biggest-release-ever)
- - [Lionsgate and Red Barrels are bringing &#39;the Outlast Universe&#39; to the big screen](https://www.pcgamer.com/movies-tv/lionsgate-and-red-barrels-are-bringing-the-outlast-universe-to-the-big-screen)<!-- GAME:END -->
+ - [Change is coming to Magic: The Gathering — here&amp;#8217;s why longtime fans are worried](https://www.polygon.com/mtg-magic-the-gathering/472487/universes-beyond-controversy-standard-legal-magic-multiverse)
+ - [Baldur&#39;s Gate 3 players have downloaded 50 million mods since official support was added, and Larian is &#39;glad [it] could facilitate&#39; 10,000 players renaming Withers to Bone Daddy](https://www.pcgamer.com/games/baldurs-gate/baldurs-gate-3-players-have-downloaded-50-million-mods-since-official-support-was-added-and-larian-is-glad-it-could-facilitate-10-000-players-renaming-withers-to-bone-daddy)
+ - [A huge discount to Batman: Arkham Asylum, the superlative superhero game with over 47,000 &#39;Overwhelmingly Positive&#39; reviews on Steam, is the Halloween gaming treat I&#39;ve been waiting for](https://www.pcgamer.com/games/action/a-huge-discount-to-batman-arkham-asylum-the-superlative-superhero-game-with-over-47-000-overwhelmingly-positive-reviews-on-steam-is-the-halloween-gaming-treat-ive-been-waiting-for)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
