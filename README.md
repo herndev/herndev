@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [RayGun Challenge is LIVE](http://9gag.com/gag/amo5n29)
- - ⏩ [POV : when the sound of drones is scarier than ghosts](http://9gag.com/gag/abArROr)
- - 👉 [Drill falls down the hole on an oil rig](http://9gag.com/gag/a5QRDVO)<!-- MEMES:END -->
+ - 💣 [11 year old German girl can spot the difference between two circles full of colored dots](http://9gag.com/gag/aD2gPv7)
+ - ⏩ [Imagine giving this to an ancient samourai](http://9gag.com/gag/ae95WEB)
+ - 👉 [Meme Origins](http://9gag.com/gag/an75VBB)<!-- MEMES:END -->
 
 ---
 
