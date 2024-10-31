@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [During a Reddit AMA, Sam Altman says GPT-5 likely won&#39;t come this year as OpenAI faces &quot;limitations and hard decisions&quot; in allocating compute resources &lpar;Hayden Field/CNBC&rpar;](http://www.techmeme.com/241031/p43#a241031p43)
- - [Poll: Should Samsung ditch One UI so you can get faster Android updates?](https://www.androidauthority.com/samsung-stock-android-3495945/)
- - [Elon Musk&#39;s America PAC Has Created an Election Denial Cesspool on X](https://www.wired.com/story/elon-musk-america-pac-election-denial-community-x/)<!-- TECH:END -->
+ - [Apple reports Q4 revenue from Services, which includes the App Store, Apple TV+, and Apple Music, up 12% YoY to $24.97B, a new quarterly record, but below est. &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/241031/p50#a241031p50)
+ - [Tim Cook says users are updating to iOS 18.1 at twice the rate of iOS 17.1](https://appleinsider.com/articles/24/10/31/users-are-updating-to-ios-181-at-twice-the-rate-of-ios-171?utm_medium=rss)
+ - [Apple Q4 revenue: iPhone up 6% YoY to $46.22B, Mac up 2% YoY to $7.74B, iPad up 8% YoY to $6.95B, and Wearables, Home, and Accessories down 3% YoY to $9.04B &lpar;CNBC&rpar;](http://www.techmeme.com/241031/p49#a241031p49)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
