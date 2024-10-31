@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Research finds judges are using algorithmic risk assessments for criminal defendants selectively, instead of wholesale adopting or rejecting algorithms&#39; advice &lpar;Lauren Feiner/The Verge&rpar;](http://www.techmeme.com/241031/p4#a241031p4)
- - [Zuckerberg says Meta is training Llama 4 models on a cluster of 100K+ H100 chips, &quot;or bigger than anything that I&#39;ve seen reported for what others are doing&quot; &lpar;Wired&rpar;](http://www.techmeme.com/241031/p3#a241031p3)
- - [South Korean government data: semiconductor production fell 3% YoY in September 2024, the first decline in 14 months, indicating slowing demand for memory chips &lpar;Sam Kim/Bloomberg&rpar;](http://www.techmeme.com/241031/p2#a241031p2)<!-- TECH:END -->
+ - [Impressed with Galaxy S24 Ultra’s anti-glare glass? Now it’s on this new Android flagship](https://www.androidauthority.com/samsung-galaxy-s24-ultra-anti-glare-glass-new-phone-3495281/)
+ - [CCDH: of 283 X posts in 2024 with false election claims that Community Notes members had responded to, only 20 had notes with enough votes to be publicly shown &lpar;Washington Post&rpar;](http://www.techmeme.com/241031/p7#a241031p7)
+ - [In a note to staff, Block CEO Jack Dorsey says Tidal is in for another mass layoff; insiders say as many as 100 people could be laid off, or ~25% of Tidal staff &lpar;Kali Hays/Fortune&rpar;](http://www.techmeme.com/241031/p6#a241031p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
