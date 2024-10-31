@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Chinese and Israeli academics predict the AI boom will increase global e-waste by 3% to 12% by 2030, or up to 2.5M metric tons of additional e-waste each year &lpar;Gerrit De Vynck/Washington Post&rpar;](http://www.techmeme.com/241031/p8#a241031p8)
  - [Impressed with Galaxy S24 Ultra’s anti-glare glass? Now it’s on this new Android flagship](https://www.androidauthority.com/samsung-galaxy-s24-ultra-anti-glare-glass-new-phone-3495281/)
- - [CCDH: of 283 X posts in 2024 with false election claims that Community Notes members had responded to, only 20 had notes with enough votes to be publicly shown &lpar;Washington Post&rpar;](http://www.techmeme.com/241031/p7#a241031p7)
- - [In a note to staff, Block CEO Jack Dorsey says Tidal is in for another mass layoff; insiders say as many as 100 people could be laid off, or ~25% of Tidal staff &lpar;Kali Hays/Fortune&rpar;](http://www.techmeme.com/241031/p6#a241031p6)<!-- TECH:END -->
+ - [CCDH: of 283 X posts in 2024 with false election claims that Community Notes members had responded to, only 20 had notes with enough votes to be publicly shown &lpar;Washington Post&rpar;](http://www.techmeme.com/241031/p7#a241031p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
