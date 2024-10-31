@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Our first hands-on with a real-world Snapdragon 8 Elite phone reveals a hot mess](https://www.androidauthority.com/real-world-snapdragon-8-elite-benchmarks-3494890/)
- - [A meditative take on sudoku that changes with the weather](https://www.theverge.com/2024/10/31/24283527/puzzmo-weather-memoku)
- - [Roblox reports Q3 revenue up 29% YoY to $919M, bookings up 34% YoY to $1.1B, above $1B est., and DAUs up 27% YoY to 88.9M; RBLX jumps 20%+ pre-market &lpar;Cecilia D&#39;Anastasio/Bloomberg&rpar;](http://www.techmeme.com/241031/p24#a241031p24)<!-- TECH:END -->
+ - [M4 iMac vs 2019 Intel iMac compared: Five years makes a big difference](https://appleinsider.com/inside/24-inch-imac/vs/m4-imac-vs-2019-intel-imac-compared-five-years-makes-a-big-difference?utm_medium=rss)
+ - [The Biden admin unveils an $825M investment in an Albany-based chip research and development facility; the NTSC says the facility aims to drive EUV innovation &lpar;Reuters&rpar;](http://www.techmeme.com/241031/p26#a241031p26)
+ - [Apple donating to relief efforts following Spain&#39;s devastating floods](https://appleinsider.com/articles/24/10/31/apple-donating-to-relief-efforts-following-spains-devastating-floods?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
