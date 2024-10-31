@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [STMicro reports Q3 net revenue down 25% YoY to $3.25B and expects FY 2024 revenue to fall 25% YoY to ~$13.27B, at the lower end of its $13.2B to $13.7B forecast &lpar;Christina Kyriasoglou/Bloomberg&rpar;](http://www.techmeme.com/241031/p11#a241031p11)
- - [Analysis: Taiwan has become Asia&#39;s best performing major stock market in 2024 thanks to TSMC and others, which make almost all of the critical AI hardware &lpar;Bloomberg&rpar;](http://www.techmeme.com/241031/p10#a241031p10)
- - [Many long-time game workers are ditching large productions in favor of smaller teams, enabled by growing accessibility of Unreal Engine and other powerful tools &lpar;Jason Schreier/Bloomberg&rpar;](http://www.techmeme.com/241031/p9#a241031p9)<!-- TECH:END -->
+ - [Ubisoft reports Q2 net bookings down 36% YoY to &amp;euro;352.3M, vs. &amp;euro;368M est., and expects Q3 net bookings of &amp;euro;380M, down from &amp;euro;626M in Q3 2023, as its big games flop &lpar;Daniel Zuidijk/Bloomberg&rpar;](http://www.techmeme.com/241031/p13#a241031p13)
+ - [China sanctions Skydio, the US&#39; largest drone maker and a supplier to Ukraine&#39;s military; sources say Skydio is rushing to find new suppliers for critical parts &lpar;Financial Times&rpar;](http://www.techmeme.com/241031/p12#a241031p12)
+ - [The Untold Story of Trump&#39;s Failed Attempt to Overthrow Venezuela&#39;s President](https://www.wired.com/story/trump-cia-venezuela-maduro-regime-change-plot/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
