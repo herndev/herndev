@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle answer for Thursday, October 31](https://www.pcgamer.com/games/puzzle/wordle-answer-today-october-31-2024)
  - [Black Ops 6 is massively outselling last year&#39;s Call of Duty even though it&#39;s on Game Pass, which probably tells you how Modern Warfare 3 went](https://www.pcgamer.com/games/call-of-duty/black-ops-6-biggest-release-ever)
- - [Lionsgate and Red Barrels are bringing &#39;the Outlast Universe&#39; to the big screen](https://www.pcgamer.com/movies-tv/lionsgate-and-red-barrels-are-bringing-the-outlast-universe-to-the-big-screen)
- - [What time does Fortnite’s live event ‘Remix: The Prelude’ start?](https://www.polygon.com/fortnite-guide/472158/remix-the-prelude-live-event-start-time-release-time-zone)<!-- GAME:END -->
+ - [Lionsgate and Red Barrels are bringing &#39;the Outlast Universe&#39; to the big screen](https://www.pcgamer.com/movies-tv/lionsgate-and-red-barrels-are-bringing-the-outlast-universe-to-the-big-screen)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
