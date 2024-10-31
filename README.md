@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [3 Things I wish Pokémon TCG Pocket Would Steal From Marvel Snap](https://kotaku.com/pokemon-tcg-pocket-marvel-snap-rewards-card-1851686837)
- - [Return of the Phantom, which is basically The Phantom of the Opera but with time travel, is free on GOG](https://www.pcgamer.com/games/adventure/return-of-the-phantom-which-is-basically-the-phantom-of-the-opera-but-with-time-travel-is-free-on-gog)
- - [Pokémon TCG Pocket Already Feels Like A Well-Laid Trap](https://kotaku.com/pokemon-tcg-pocket-impressions-gacha-mobile-card-game-1851686829)<!-- GAME:END -->
+ - [Xbox Insider Program Community Update – October 2024 ‘Spooky’ Edition](https://news.xbox.com/en-us/2024/10/31/xbox-insider-program-community-update-october-2024-spooky-edition/)
+ - [Stressing out waiting for Dragon Age: The Veilguard to download? Here&#39;s some Dragon Age ASMR to help mellow your mood](https://www.pcgamer.com/games/rpg/stressing-out-waiting-for-dragon-age-the-veilguard-to-download-heres-some-dragon-age-asmr-to-help-mellow-your-mood)
+ - [Many Pokémon TCG fans have never played competitive —Pocket changes that](https://www.polygon.com/pokemon/473455/tcg-pocket-battling-first-time-trading-card-game)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
