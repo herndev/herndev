@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [He&#39;s not wrong.](http://9gag.com/gag/aXPjRMV)
- - ⏩ [Family Guy, When Wile E. Coyote caught the Road Runner](http://9gag.com/gag/aryoz1K)
- - 👉 [Now, here&#39;s to no sleep!](http://9gag.com/gag/aO80Pdy)<!-- MEMES:END -->
+ - 💣 [He took that well](http://9gag.com/gag/aBygX8x)
+ - ⏩ [Speed Dating.](http://9gag.com/gag/aGyg2vw)
+ - 👉 [The class above first, exclusive to Singapore Airlines](http://9gag.com/gag/aD2gXZ9)<!-- MEMES:END -->
 
 ---
 
