@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Mark Zuckerberg says Meta is &quot;executing quite well&quot; in building out AI infrastructure, as Meta raises the low end of its 2024 capex guidance to $38B from $37B &lpar;Jonathan Vanian/CNBC&rpar;](http://www.techmeme.com/241031/p1#a241031p1)
  - [Source: Amazon&#39;s target deadline to unveil AI-upgraded Alexa has moved into 2025, after documents showed Amazon planned to unveil the product on Oct. 17, 2024 &lpar;Bloomberg&rpar;](http://www.techmeme.com/241030/p56#a241030p56)
- - [Microsoft says its AI business is on track to surpass an annual revenue run rate of $10B in Q2, its fastest product category ever to reach that milestone &lpar;Ina Fried/Axios&rpar;](http://www.techmeme.com/241030/p55#a241030p55)
- - [Filing: Microsoft has made &quot;funding commitments of $13B&quot; to OpenAI and says losses from its stake were partly why it had a $683M expense on its Q1 investments &lpar;Todd Bishop/GeekWire&rpar;](http://www.techmeme.com/241030/p54#a241030p54)<!-- TECH:END -->
+ - [Microsoft says its AI business is on track to surpass an annual revenue run rate of $10B in Q2, its fastest product category ever to reach that milestone &lpar;Ina Fried/Axios&rpar;](http://www.techmeme.com/241030/p55#a241030p55)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
