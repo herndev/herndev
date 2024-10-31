@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nintendo announces Nintendo Music, an app that lets Switch Online subscribers stream or download gaming tunes from Nintendo titles, available on Android and iOS &lpar;Andrew Webster/The Verge&rpar;](http://www.techmeme.com/241030/p48#a241030p48)
- - [Today’s hottest smartphone deals come from Motorola and REDMAGIC](https://www.androidauthority.com/motorola-razr-2024-redmagic-9s-pro-deals-3495578/)
- - [Mark Zuckerberg says the company&#39;s AI-driven feed and video recommendations have led to an 8% increase in time spent on Facebook and a 6% increase on Instagram &lpar;Sarah E. Needleman/Wall Street Journal&rpar;](http://www.techmeme.com/241030/p47#a241030p47)<!-- TECH:END -->
+ - [Here are the price-matching policies for Best Buy, Walmart, and others](https://www.theverge.com/21570383/price-matching-policy-apple-google-microsoft)
+ - [Siemens agrees to buy engineering software company Altair for ~$10B including debt, a 19% premium on Altair&#39;s October 21 closing price; deal to close in H2 2025 &lpar;Bloomberg&rpar;](http://www.techmeme.com/241030/p50#a241030p50)
+ - [I Got to Play With Apple&#39;s New M4 Mac Mini, iMac and MacBook Pro](https://www.cnet.com/tech/computing/i-got-to-play-with-apples-new-m4-mac-mini-imac-and-macbook-pro/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
