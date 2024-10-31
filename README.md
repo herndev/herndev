@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Monster hunter is so wild now](http://9gag.com/gag/azx14qZ)
- - ⏩ [One of life&#39;s great mysteries](http://9gag.com/gag/agm5EoW)
- - 👉 [A woman cares for an egg](http://9gag.com/gag/ayNoPor)<!-- MEMES:END -->
+ - 💣 [Smooth Operator!](http://9gag.com/gag/ae95RGp)
+ - ⏩ [Former beauty Queen, Miss Wyoming winner Joyce McKinney being arrested by police after kidnapping Mormon missionary Kirk Anderson from his church, forcing him to be her sex slave for 3 days &lpar;1977&rpar;](http://9gag.com/gag/a0eROQX)
+ - 👉 [POV : when the sound of drones is scarier than ghosts](http://9gag.com/gag/abArROr)<!-- MEMES:END -->
 
 ---
 
