@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Activision-Blizzard says the Call of Duty series has sold more than 500M copies to date; Nadella says Black Ops 6 set a record for first-day players &lpar;Gene Park/Washington Post&rpar;](http://www.techmeme.com/241031/p39#a241031p39)
- - [Trump is planning a crackdown on legal immigration, too](https://www.theverge.com/2024/10/31/24284684/trump-legal-immigration-crackdown-america-first-policy-institute)
- - [Humane recalls the AI Pin’s charging case due to overheating concerns](https://www.theverge.com/2024/10/31/24284691/humane-ai-pin-charge-case-recall-fire-hazard)<!-- TECH:END -->
+ - [Save $370 on a Samsung Galaxy S24 Ultra, still one of the best phones](https://www.androidauthority.com/samsung-galaxy-s24-ultra-deal-5-3495954/)
+ - [Anthropic’s Claude AI chatbot now has a desktop app](https://www.theverge.com/2024/10/31/24284742/claude-ai-macos-windows-desktop-app)
+ - [Microsoft delays the rollout of its controversial Recall feature to December to &quot;refine the experience&quot;, after previously pushing it from June to October &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/241031/p41#a241031p41)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
