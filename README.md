@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Phasmophobia Haunts Xbox Series X|S with a Halloween Event](https://news.xbox.com/en-us/2024/10/31/phasmophobia-halloween-event/)
- - [Call of Duty: Black Ops 6 Is Breaking Records For Xbox When It Needs Them Most](https://kotaku.com/call-duty-black-ops-6-game-pass-xbox-sales-ps5-1851686679)
- - [The director of World of Warcraft documentary The Remarkable Life of Ibelin says it&#39;s &#39;a coming of age story&#39;: &#39;We&#39;re trying to capture a human being&#39;](https://www.pcgamer.com/games/mmo/the-director-of-world-of-warcraft-documentary-the-remarkable-life-of-ibelin-says-its-a-coming-of-age-story-were-trying-to-capture-a-human-being)<!-- GAME:END -->
+ - [Here are some of the best horror board games you can buy right now](https://www.polygon.com/gift-guide/471994/best-horror-board-games-2024)
+ - [It’s becoming comical that Nintendo keeps not announcing the Switch 2](https://www.polygon.com/473280/nintendo-switch-2-announcement-when)
+ - [It&amp;#8217;s worth tweaking Dragon Age: The Veilguard&amp;#8217;s combat options](https://www.polygon.com/gaming/473324/dragon-age-difficulty-options-customization-unbound)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
