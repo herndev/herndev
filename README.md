@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Save $370 on a Samsung Galaxy S24 Ultra, still one of the best phones](https://www.androidauthority.com/samsung-galaxy-s24-ultra-deal-5-3495954/)
- - [Anthropic’s Claude AI chatbot now has a desktop app](https://www.theverge.com/2024/10/31/24284742/claude-ai-macos-windows-desktop-app)
- - [Microsoft delays the rollout of its controversial Recall feature to December to &quot;refine the experience&quot;, after previously pushing it from June to October &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/241031/p41#a241031p41)<!-- TECH:END -->
+ - [During a Reddit AMA, Sam Altman says GPT-5 likely won&#39;t come this year as OpenAI faces &quot;limitations and hard decisions&quot; in allocating compute resources &lpar;Hayden Field/CNBC&rpar;](http://www.techmeme.com/241031/p43#a241031p43)
+ - [Poll: Should Samsung ditch One UI so you can get faster Android updates?](https://www.androidauthority.com/samsung-stock-android-3495945/)
+ - [Elon Musk&#39;s America PAC Has Created an Election Denial Cesspool on X](https://www.wired.com/story/elon-musk-america-pac-election-denial-community-x/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
