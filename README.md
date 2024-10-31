@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ubisoft reports Q2 net bookings down 36% YoY to &amp;euro;352.3M, vs. &amp;euro;368M est., and expects Q3 net bookings of &amp;euro;380M, down from &amp;euro;626M in Q3 2023, as its big games flop &lpar;Daniel Zuidijk/Bloomberg&rpar;](http://www.techmeme.com/241031/p13#a241031p13)
- - [China sanctions Skydio, the US&#39; largest drone maker and a supplier to Ukraine&#39;s military; sources say Skydio is rushing to find new suppliers for critical parts &lpar;Financial Times&rpar;](http://www.techmeme.com/241031/p12#a241031p12)
- - [The Untold Story of Trump&#39;s Failed Attempt to Overthrow Venezuela&#39;s President](https://www.wired.com/story/trump-cia-venezuela-maduro-regime-change-plot/)<!-- TECH:END -->
+ - [US court docs: in 2022, Apple privately warned TikTok that it had more mature content than was suitable for under-17s and to change its App Store age rating &lpar;Cristiano Lima-Strong/Washington Post&rpar;](http://www.techmeme.com/241031/p17#a241031p17)
+ - [Two more Nintendo 3DS emulators just bit the dust, but this time it’s good news](https://www.androidauthority.com/pablomk7-lime3ds-nintend-3ds-emulators-3495714/)
+ - [Amazon&#39;s threat intel unit is making a name for itself after years in the shadows, including disrupting Anonymous Sudan and combating anti-US disinformation &lpar;Jamie Tarabay/Bloomberg&rpar;](http://www.techmeme.com/241031/p16#a241031p16)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
