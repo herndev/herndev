@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [A Barbaric Journey Awaits: Embrace the Fury of Elderborn](https://news.xbox.com/en-us/2024/10/31/embrace-the-fury-of-elderborn/)
- - [Dig VR announces collector&#39;s edition with two real-life excavators and a trip to America that costs £499,985 more than the game by itself](https://www.pcgamer.com/games/vr/dig-vr-announces-collectors-edition-with-two-real-life-excavators-and-a-trip-to-america-that-costs-gbp499-985-more-than-the-game-by-itself)
- - [Elite Dangerous will let players colonize the Milky Way in 2025](https://www.polygon.com/pc/473158/elite-dangerous-colonization-expansion-bubble)<!-- GAME:END -->
+ - [Phasmophobia Haunts Xbox Series X|S with a Halloween Event](https://news.xbox.com/en-us/2024/10/31/phasmophobia-halloween-event/)
+ - [Call of Duty: Black Ops 6 Is Breaking Records For Xbox When It Needs Them Most](https://kotaku.com/call-duty-black-ops-6-game-pass-xbox-sales-ps5-1851686679)
+ - [The director of World of Warcraft documentary The Remarkable Life of Ibelin says it&#39;s &#39;a coming of age story&#39;: &#39;We&#39;re trying to capture a human being&#39;](https://www.pcgamer.com/games/mmo/the-director-of-world-of-warcraft-documentary-the-remarkable-life-of-ibelin-says-its-a-coming-of-age-story-were-trying-to-capture-a-human-being)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
