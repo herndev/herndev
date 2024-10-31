@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple reports Q4 revenue from Services, which includes the App Store, Apple TV+, and Apple Music, up 12% YoY to $24.97B, a new quarterly record, but below est. &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/241031/p50#a241031p50)
- - [Tim Cook says users are updating to iOS 18.1 at twice the rate of iOS 17.1](https://appleinsider.com/articles/24/10/31/users-are-updating-to-ios-181-at-twice-the-rate-of-ios-171?utm_medium=rss)
- - [Apple Q4 revenue: iPhone up 6% YoY to $46.22B, Mac up 2% YoY to $7.74B, iPad up 8% YoY to $6.95B, and Wearables, Home, and Accessories down 3% YoY to $9.04B &lpar;CNBC&rpar;](http://www.techmeme.com/241031/p49#a241031p49)<!-- TECH:END -->
+ - [24 hours with Apple Intelligence: Heavy on the Apple, light on the Intelligence](https://www.androidauthority.com/apple-intelligence-hands-on-3495837/)
+ - [Google Search widget will let you customize its colors again](https://www.androidauthority.com/google-search-bar-color-customization-3496013/)
+ - [Apple beats Wall Street predictions with record-breaking iPhone sales revenue](https://appleinsider.com/articles/24/10/31/apple-beats-wall-street-revenue-predictions-with-record-breaking-iphone-sales-revenue?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
