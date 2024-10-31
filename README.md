@@ -46,7 +46,7 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Family Guy, When Wile E. Coyote caught the Road Runner](http://9gag.com/gag/aryoz1K)
+ - 💣 [Best first date](http://9gag.com/gag/amo5RQd)
  - ⏩ [KARMA](http://9gag.com/gag/a5QR59N)
  - 👉 [He&#39;s not wrong.](http://9gag.com/gag/aXPjRMV)<!-- MEMES:END -->
 
