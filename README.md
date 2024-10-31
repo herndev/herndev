@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Kuo: Apple plans to use its own Wi-Fi and Bluetooth chips made by TSMC&#39;s N7 process and with Wi-Fi 7 in the iPhone 17 lineup, reducing its reliance on Broadcom &lpar;Ryan Christoffel/9to5Mac&rpar;](http://www.techmeme.com/241031/p32#a241031p32)
- - [OnePlus unveils the OnePlus 13, its next flagship with a Snapdragon 8 Elite SoC, 12GB+ RAM, and a 6,000mAh battery, available in China on November 1 for ~$630+ &lpar;Andrew Liszewski/The Verge&rpar;](http://www.techmeme.com/241031/p31#a241031p31)
- - [The newest Ring Battery Doorbell is $40 off and matching its lowest price](https://www.theverge.com/2024/10/31/24284448/ring-battery-doorbell-plus-samsung-galaxy-smarttag-2-deal-sale)<!-- TECH:END -->
+ - [Google will open a new physical retail store tomorrow, finally moving off the coasts](https://www.androidauthority.com/google-store-chicago-oakbrook-3495905/)
+ - [Apex Legends is taking away its support for the Steam Deck and Linux](https://www.theverge.com/2024/10/31/24284644/apex-legends-loses-linux-steam-deck-support-anti-cheat)
+ - [Mozilla’s long-awaited Thunderbird for Android app is now live](https://www.androidauthority.com/thunderbird-android-launch-3495902/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
