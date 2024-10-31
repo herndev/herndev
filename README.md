@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Imagine giving this to an ancient samourai](http://9gag.com/gag/ae95WEB)
- - ⏩ [Clever kid](http://9gag.com/gag/aqygDAR)
- - 👉 [Don&#39;t smoke](http://9gag.com/gag/aD2gMvx)<!-- MEMES:END -->
+ - 💣 [I can fix her](http://9gag.com/gag/a1mRL12)
+ - ⏩ [The peace of mind of having a shatterproof door...](http://9gag.com/gag/aryozo0)
+ - 👉 [Is she giving me some kind of sign?](http://9gag.com/gag/an75DgL)<!-- MEMES:END -->
 
 ---
 
