@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Sony&amp;#8217;s first OLED gaming monitor is fast, but not the right fit for most gamers](https://www.polygon.com/review/469727/sony-inzone-m10s-oled-pc-ps5-gaming-monitor)
- - [Borderlands 2 player spends over 800 hours beating it without taking a single hit, but another player swiped the achievement 10 hours earlier](https://www.pcgamer.com/games/fps/borderlands-2-player-spends-over-800-hours-beating-it-without-taking-a-single-hit-but-another-player-swiped-the-achievement-10-hours-earlier)
- - [I play way too many indie horror games, and you absolutely shouldn&#39;t miss Psychopomp Gold: it&#39;s $9 and got 1,000 &#39;overwhelmingly positive&#39; Steam reviews in just 1 week](https://www.pcgamer.com/games/horror/i-play-way-too-many-indie-horror-games-and-you-absolutely-shouldnt-miss-psychopomp-gold-its-usd9-and-got-1-000-overwhelmingly-positive-steam-reviews-in-just-1-week)<!-- GAME:END -->
+ - [Another game is disappearing from Steam: Five years after its last update, Bethesda is closing its Elder Scrolls card game](https://www.pcgamer.com/games/card-games/another-game-is-disappearing-from-steam-five-years-after-its-last-update-bethesda-is-closing-its-elder-scrolls-card-game)
+ - [Kotaku’s Weekend Guide: 5 Great Games We Can&#39;t Wait To Spend Time With](https://kotaku.com/kotaku-weekend-guide-dragon-age-veilguard-life-strange-1851687395)
+ - [Sony&amp;#8217;s first OLED gaming monitor is fast, but not the right fit for most gamers](https://www.polygon.com/review/469727/sony-inzone-m10s-oled-pc-ps5-gaming-monitor)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
