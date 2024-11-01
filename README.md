@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Only Japan, royal princess would bow to average peasants.](http://9gag.com/gag/aByg4WO)
- - ⏩ [Only a few](http://9gag.com/gag/ae95qKj)
- - 👉 [Drill falls down the hole on an oil rig](http://9gag.com/gag/a5QRDVO)<!-- MEMES:END -->
+ - 💣 [Drill falls down the hole on an oil rig](http://9gag.com/gag/a5QRDVO)
+ - ⏩ [Completely normal phenomenon](http://9gag.com/gag/aQz1VEq)
+ - 👉 [Only a few](http://9gag.com/gag/ae95qKj)<!-- MEMES:END -->
 
 ---
 
