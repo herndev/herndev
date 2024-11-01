@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Q&amp;A with Google DeepMind Director John Jumper on winning the Nobel Prize in Chemistry, merging science and AI, advancing AlphaFold, rival labs, and more &lpar;Richard Nieva/Forbes&rpar;](http://www.techmeme.com/241101/p6#a241101p6)
- - [Google One user? Check your email for $150 discount on Pixel 9 phones](https://www.androidauthority.com/google-one-users-discount-pixel-9-phones-3496098/)
- - [The Time Change Is About to Mess With Your Sleep. Try These 3 Tips to Restore Your Internal Clock](https://www.cnet.com/health/sleep/3-tips-to-restore-your-internal-clock-with-the-end-of-daylight-saving/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [New Magic Mouse and Magic Keyboard don&#39;t work with older versions of macOS](https://appleinsider.com/articles/24/11/01/new-magic-mouse-and-magic-keyboard-dont-work-with-older-versions-of-macos?utm_medium=rss)
+ - [Crypto firm Immutable says it received a Wells notice from the SEC related to the sale of its IMX tokens in 2021, accuses the SEC of &quot;regulation by enforcement&quot; &lpar;Callan Quinn/CoinDesk&rpar;](http://www.techmeme.com/241101/p7#a241101p7)
+ - [The Complete Guide to Apple&#39;s New Passwords App: Passkeys, Verification Codes and More](https://www.cnet.com/tech/services-and-software/the-complete-guide-to-apples-new-passwords-app-passkeys-verification-codes-and-more/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
