@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Activo P1 Review: Wired Sound, Tired Looks](https://www.wired.com/review/activo-p1/)
- - [First M4 Max benchmark tears apart the M2 Ultra Mac Studio](https://appleinsider.com/articles/24/11/01/first-m4-max-benchmark-tears-apart-the-m2-ultra-mac-studio?utm_medium=rss)
- - [Satellite services provider Globalstar says Apple took a 20% ownership stake worth ~$400M, and has committed another $1.1B to expand satellite service capacity &lpar;Benjamin Mayo/9to5Mac&rpar;](http://www.techmeme.com/241101/p10#a241101p10)<!-- TECH:END -->
+ - [How to sign up for Amazon Prime](https://www.theverge.com/21493780/amazon-prime-sign-up-day-deals-sale-price-free)
+ - [The Best Smart Rings, Tested and Reviewed &lpar;2024&rpar;](https://www.wired.com/gallery/best-smart-rings/)
+ - [Quick Share for iOS and macOS might be in the works](https://www.androidauthority.com/quick-share-for-ios-macos-rumor-3496057/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
