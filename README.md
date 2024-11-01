@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Peak throughout](http://9gag.com/gag/aryozL0)
- - ⏩ [Eight Legged Freaks &lpar;2002&rpar;](http://9gag.com/gag/aW4EDyA)
- - 👉 [A woman cares for an egg](http://9gag.com/gag/ayNoPor)<!-- MEMES:END -->
+ - 💣 [Theres no option not to be trans lmao.](http://9gag.com/gag/a6ZN46q)
+ - ⏩ [Apparently, it&#39;s called the wedding ring effect](http://9gag.com/gag/ae95WR5)
+ - 👉 [POV : when the sound of drones is scarier than ghosts](http://9gag.com/gag/abArROr)<!-- MEMES:END -->
 
 ---
 
