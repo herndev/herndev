@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Hands on: Apple&#39;s USB-C accessories leave us wanting more](https://appleinsider.com/articles/24/11/01/hands-on-apples-usb-c-accessories-leave-us-wanting-more?utm_medium=rss)
- - [Google Messages will soon let you choose photo resolution before sending &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-messages-hd-icons-3496207/)
- - [Google may finally add album art to Now Playing on Pixel phones](https://www.androidauthority.com/now-playing-album-art-3496216/)<!-- TECH:END -->
+ - [Star Wars: Skeleton Crew looks like a wild ride in new trailer](https://www.theverge.com/2024/11/1/24285689/disney-plus-star-wars-skeleton-crew-trailer-wild-ride)
+ - [Google Messages should make it less tedious to investigate timestamps &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-messages-timestamp-swipe-3496230/)
+ - [Meta rolls out its Quest v71 update, including a redesign of Meta Horizon OS, a calendar app, and the ability to use Travel Mode on a train &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/241101/p15#a241101p15)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
