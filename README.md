@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Squarespace Promo Codes - 10% Off in November 2024 | WIRED](https://www.wired.com/story/squarespace-promo-code/)
- - [25% OFF VistaPrint Coupon, Promo Code for November 2024](https://www.wired.com/story/vistaprint-coupon-code/)
- - [Dyson Promo Code: 20% Off November 2024 | WIRED](https://www.wired.com/story/dyson-cordless-vacuum-promo-code/)<!-- TECH:END -->
+ - [WhatsApp chats just got a lot easier to organize](https://www.androidauthority.com/whatsapp-chats-just-got-a-lot-easier-to-organize-3496078/)
+ - [Hoka Coupon Code: Free Shipping in November 2024](https://www.wired.com/story/hoka-coupon-code/)
+ - [KitchenAid Promo Codes and Coupons: 15% Off Select Items | WIRED](https://www.wired.com/story/exclusive-kitchenaid-promo-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
