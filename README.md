@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Only Japan, royal princess would bow to average peasants.](http://9gag.com/gag/aByg4WO)
- - ⏩ [Only a few](http://9gag.com/gag/ae95qKj)
- - 👉 [Completely normal phenomenon](http://9gag.com/gag/aQz1VEq)<!-- MEMES:END -->
+ - 💣 [If you use the term `genocide`, first know the facts and figures.](http://9gag.com/gag/a9yRZjm)
+ - ⏩ [We are already there](http://9gag.com/gag/aW4EPOd)
+ - 👉 [Only a few](http://9gag.com/gag/ae95qKj)<!-- MEMES:END -->
 
 ---
 
