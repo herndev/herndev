@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Spoiled](http://9gag.com/gag/awyoGDx)
- - ⏩ [Where is my son](http://9gag.com/gag/aByg48A)
- - 👉 [Spiders are attracted to nectar, and in this case it cost her her life](http://9gag.com/gag/an75rAB)<!-- MEMES:END -->
+ - 💣 [If you use the term `genocide`, first know the facts and figures.](http://9gag.com/gag/a9yRZjm)
+ - ⏩ [Right in the feels](http://9gag.com/gag/aZZ7dRz)
+ - 👉 [The Modern Man\u2122](http://9gag.com/gag/abArd7b)<!-- MEMES:END -->
 
 ---
 
