@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Memes are getting better](http://9gag.com/gag/axy7ebM)
- - ⏩ [Yagami backwards is...](http://9gag.com/gag/a1mR87G)
- - 👉 [What it is really called though?](http://9gag.com/gag/an75deq)<!-- MEMES:END -->
+ - 💣 [Best community note I have ever read](http://9gag.com/gag/aVv0dEK)
+ - ⏩ [Hold up, wait a minute...](http://9gag.com/gag/abArdqL)
+ - 👉 [Praise The Selfie Stick?](http://9gag.com/gag/aQz1BQz)<!-- MEMES:END -->
 
 ---
 
