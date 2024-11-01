@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Get two LG monitors for the price of one – pick between 24-inch and 27-inch](https://www.androidauthority.com/lg-monitors-best-buy-deals-3496236/)
- - [Here’s how Google Messages will protect your and your friends’ nudes &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-messages-senstive-content-feature-3496252/)
- - [Agatha All Along rushed its journey down the ‘Witches’ Road’](https://www.theverge.com/2024/11/1/24284710/agatha-all-along-finale-billy-maximoff-death)<!-- TECH:END -->
+ - [Fortnite kicked off its remixed Chapter 2 season with a Snoop Dogg and Ice Spice concert](https://www.theverge.com/2024/11/1/24283508/fortnite-remix-chapter-2-concert-snoop-dogg-ice-spice)
+ - [Samsung XR hardware looks on track for a 2025 release — but just what are we going to get?](https://www.androidauthority.com/samsung-xr-hardware-3496271/)
+ - [Bose is taking up to 40 percent off headphones ahead of Black Friday](https://www.theverge.com/2024/11/1/24285396/bose-quietcomfort-ultra-headphones-backbone-one-controller-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
