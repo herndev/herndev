@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Best community note I have ever read](http://9gag.com/gag/aVv0dEK)
- - ⏩ [Gaslighting](http://9gag.com/gag/aBygjDD)
- - 👉 [Hold up, wait a minute...](http://9gag.com/gag/abArdqL)<!-- MEMES:END -->
+ - 💣 [Gaslighting](http://9gag.com/gag/aBygjDD)
+ - ⏩ [Apparently, it&#39;s called the wedding ring effect](http://9gag.com/gag/ae95WR5)
+ - 👉 [Happy Halloween guys, here&#39;s someone get spooked](http://9gag.com/gag/aLn0VeA)<!-- MEMES:END -->
 
 ---
 
