@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The peace of mind of having a shatterproof door...](http://9gag.com/gag/aryozo0)
- - ⏩ [Threats from Liam Neeson hits differently!](http://9gag.com/gag/an75rVn)
- - 👉 [RayGun Challenge is LIVE](http://9gag.com/gag/amo5n29)<!-- MEMES:END -->
+ - 💣 [She see](http://9gag.com/gag/ae95yjB)
+ - ⏩ [If you use the term `genocide`, first know the facts and figures.](http://9gag.com/gag/a9yRZjm)
+ - 👉 [Right in the feels](http://9gag.com/gag/aZZ7dRz)<!-- MEMES:END -->
 
 ---
 
