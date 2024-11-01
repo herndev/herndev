@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone 16 Pro one month review: an Apple Intelligence intro](https://appleinsider.com/articles/24/11/01/iphone-16-pro-one-month-review-an-apple-intelligence-intro?utm_medium=rss)
- - [M4 Mac mini vs 2018 Intel Mac mini compared: It&#39;s time to move to Apple Silicon](https://appleinsider.com/inside/mac-mini/vs/m4-mac-mini-vs-2018-intel-mac-mini-compared-its-time-to-move-to-apple-silicon?utm_medium=rss)
- - [Canalys: global smartphone shipments grew 5% YoY in Q3 to reach 309.9M units, the strongest Q3 performance since 2021; Samsung led with 57.5M units, Apple 54.5M &lpar;Canalys&rpar;](http://www.techmeme.com/241101/p8#a241101p8)<!-- TECH:END -->
+ - [The best thing about early Android 16? Getting a new phone for Xmas](https://www.androidauthority.com/early-android-16-xmas-3495441/)
+ - [LG Ultragear 34GS95QE Curved OLED Gaming Monitor Review: Big Curve](https://www.wired.com/review/lg-ultragear-34gs95qe-curved-oled-gaming-monitor/)
+ - [What voting machine companies are doing to avoid another 2020](https://www.theverge.com/2024/11/1/24284887/smartmatic-dominion-voting-machine-companies-trust-disinformation)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
