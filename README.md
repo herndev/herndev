@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Theres no option not to be trans lmao.](http://9gag.com/gag/a6ZN46q)
+ - 💣 [Best community note I have ever read](http://9gag.com/gag/aVv0dEK)
  - ⏩ [Drill falls down the hole on an oil rig](http://9gag.com/gag/a5QRDVO)
- - 👉 [Spiders are attracted to nectar, and in this case it cost her her life](http://9gag.com/gag/an75rAB)<!-- MEMES:END -->
+ - 👉 [Former beauty Queen, Miss Wyoming winner Joyce McKinney being arrested by police after kidnapping Mormon missionary Kirk Anderson from his church, forcing him to be her sex slave for 3 days &lpar;1977&rpar;](http://9gag.com/gag/a0eROQX)<!-- MEMES:END -->
 
 ---
 
