@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Poll: Are you excited about Google’s plans for an early Android 16 release?](https://www.androidauthority.com/android-16-poll-3496243/)
- - [Hyundai knows how to make a good-looking hydrogen concept car](https://www.theverge.com/2024/11/1/24285646/hyundai-initium-hydrogen-ev-suv-concept)
- - [CoreWeave told investors its signed contracts are worth $17B, including $10B by Microsoft from 2023 to 2030, and it expects revenue to grow 4x to $8B in 2025 &lpar;The Information&rpar;](http://www.techmeme.com/241101/p16#a241101p16)<!-- TECH:END -->
+ - [Get two LG monitors for the price of one – pick between 24-inch and 27-inch](https://www.androidauthority.com/lg-monitors-best-buy-deals-3496236/)
+ - [Here’s how Google Messages will protect your and your friends’ nudes &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-messages-senstive-content-feature-3496252/)
+ - [Agatha All Along rushed its journey down the ‘Witches’ Road’](https://www.theverge.com/2024/11/1/24284710/agatha-all-along-finale-billy-maximoff-death)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
