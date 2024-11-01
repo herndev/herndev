@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Messages jazzes up read receipts with new animation and location](https://www.androidauthority.com/google-messages-read-receipt-rollout-3496172/)
- - [Election Violence Is Already Here](https://www.wired.com/story/election-violence-is-already-here/)
- - [Apple acquires the team behind Pixelmator Pro](https://appleinsider.com/articles/24/11/01/apple-acquires-the-team-behind-pixelmator-pro?utm_medium=rss)<!-- TECH:END -->
+ - [You can now try Microsoft’s more modern Windows Hello UI](https://www.theverge.com/2024/11/1/24285558/microsoft-windows-hello-ui-passkeys-beta-testing)
+ - [Intel’s future laptops will have memory sticks again](https://www.theverge.com/2024/11/1/24285513/intel-ceo-lunar-lake-one-off-memory-package-discrete-gpu)
+ - [The best new streaming movies this week: Trap and more](https://www.androidauthority.com/best-new-streaming-movies-this-week-3083965/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
