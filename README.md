@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Only a few](http://9gag.com/gag/ae95qKj)
- - ⏩ [POV : when the sound of drones is scarier than ghosts](http://9gag.com/gag/abArROr)
- - 👉 [Hmm](http://9gag.com/gag/azx14Wj)<!-- MEMES:END -->
+ - 💣 [Theres no option not to be trans lmao.](http://9gag.com/gag/a6ZN46q)
+ - ⏩ [RayGun Challenge is LIVE](http://9gag.com/gag/amo5n29)
+ - 👉 [Drill falls down the hole on an oil rig](http://9gag.com/gag/a5QRDVO)<!-- MEMES:END -->
 
 ---
 
