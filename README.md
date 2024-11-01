@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Black Friday gaming headset deals 2024: discounts and deals on headsets galore](https://www.pcgamer.com/hardware/gaming-headsets/black-friday-gaming-headset-deals)
- - [Ex-BioWare dev explains why everyone in Mass Effect and Dragon Age does that one &#39;BioWare turn&#39; animation](https://www.pcgamer.com/games/rpg/ex-bioware-dev-explains-why-everyone-in-mass-effect-and-dragon-age-does-that-one-bioware-turn-animation)
- - [After a combined 180 hours playing, we can finally tell you which is the best Dragon Age: The Veilguard class and why it&#39;s actually kind of all of them](https://www.pcgamer.com/games/dragon-age/veilguard-best-class)<!-- GAME:END -->
+ - [The Plan Was To Take Gears 6 To Outer Space At One Point](https://kotaku.com/gears-war-6-e-day-sequel-space-mass-effect-1851687547)
+ - [Dragon Age Fans Are All Making The Same Joke About Chappell Roan’s SNL Look](https://kotaku.com/chappell-roan-saturday-night-live-snl-outfit-dragon-age-1851687610)
+ - [Some awesome games are buy 1, get 1 half-off at Best Buy](https://www.polygon.com/sales-guide/472315/best-buy-one-get-half-off-deal-games-metaphor-space-marine)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
