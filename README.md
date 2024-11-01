@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [UK data: 1,824 sexual communication with a child offenses occurred on social media in 2023-2024, with Snapchat in 48% of cases and Facebook and Messenger in 12% &lpar;Martyn Landi/The Independent&rpar;](http://www.techmeme.com/241031/p56#a241031p56)
  - [Early Geekbench scores show M4 Pro may outpace Mac Pro with M2 Ultra](https://appleinsider.com/articles/24/11/01/early-geekbench-scores-show-m4-pro-may-outpace-mac-pro-with-m2-ultra?utm_medium=rss)
- - [Ex-Lacework CEO and Facebook&#39;s former global head of engineering Jay Parikh joins Microsoft&#39;s senior leadership team and will report directly to Satya Nadella &lpar;Bloomberg&rpar;](http://www.techmeme.com/241031/p55#a241031p55)
- - [Amazon reports Q3 AWS revenue up 19% YoY to $27.45B, vs. $27.52B est., and AWS operating income of $10.45B, vs. $9.15B est., up from $7B in Q3 2023 &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/241031/p53#a241031p53)<!-- TECH:END -->
+ - [Best Verizon Phone for 2024](https://www.cnet.com/tech/mobile/best-verizon-phone/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
