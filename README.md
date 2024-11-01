@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Next Week on Xbox: New Games for November 4 to 8](https://news.xbox.com/en-us/2024/11/01/next-week-on-xbox-new-games-for-november-4-to-8/)
- - [Horizon Zero Dawn&#39;s questionable remaster launches to Mixed reviews as players lament a new mandatory PSN sign-in that wasn&#39;t in the original, visual glitches, and audio bugs](https://www.pcgamer.com/games/action/horizon-zero-dawns-questionable-remaster-launches-to-mixed-reviews-as-players-lament-a-new-mandatory-psn-sign-in-that-wasnt-in-the-original-visual-glitches-and-audio-bugs)
- - [What time does Fortnite’s live event ‘Remix: The Prelude’ start?](https://www.polygon.com/fortnite-guide/472158/remix-the-prelude-live-event-start-time-release-time-zone)<!-- GAME:END -->
+ - [PSA: You Can Miss The Most Important Quest In Dragon Age: The Veilguard](https://kotaku.com/dragon-age-veilguard-solas-memories-wolf-statues-quest-1851687250)
+ - [We Might End Up Getting A Game Of Thrones Movie After All](https://kotaku.com/game-thrones-hbo-george-r-r-martin-season-8-movie-1851687217)
+ - [An AI-generated website convinced thousands of people to show up to a fake Halloween parade in Ireland, showing how unprepared we are for AI misinformation](https://www.pcgamer.com/software/ai/an-ai-generated-website-convinced-thousands-of-people-to-show-up-to-a-fake-halloween-parade-in-ireland-showing-how-unprepared-we-are-for-ai-misinformation)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
