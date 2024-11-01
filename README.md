@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [New Magic Mouse and Magic Keyboard don&#39;t work with older versions of macOS](https://appleinsider.com/articles/24/11/01/new-magic-mouse-and-magic-keyboard-dont-work-with-older-versions-of-macos?utm_medium=rss)
- - [Crypto firm Immutable says it received a Wells notice from the SEC related to the sale of its IMX tokens in 2021, accuses the SEC of &quot;regulation by enforcement&quot; &lpar;Callan Quinn/CoinDesk&rpar;](http://www.techmeme.com/241101/p7#a241101p7)
- - [The Complete Guide to Apple&#39;s New Passwords App: Passkeys, Verification Codes and More](https://www.cnet.com/tech/services-and-software/the-complete-guide-to-apples-new-passwords-app-passkeys-verification-codes-and-more/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [iPhone 16 Pro one month review: an Apple Intelligence intro](https://appleinsider.com/articles/24/11/01/iphone-16-pro-one-month-review-an-apple-intelligence-intro?utm_medium=rss)
+ - [M4 Mac mini vs 2018 Intel Mac mini compared: It&#39;s time to move to Apple Silicon](https://appleinsider.com/inside/mac-mini/vs/m4-mac-mini-vs-2018-intel-mac-mini-compared-its-time-to-move-to-apple-silicon?utm_medium=rss)
+ - [Canalys: global smartphone shipments grew 5% YoY in Q3 to reach 309.9M units, the strongest Q3 performance since 2021; Samsung led with 57.5M units, Apple 54.5M &lpar;Canalys&rpar;](http://www.techmeme.com/241101/p8#a241101p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
