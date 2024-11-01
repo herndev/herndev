@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to sign up for Amazon Prime](https://www.theverge.com/21493780/amazon-prime-sign-up-day-deals-sale-price-free)
- - [The Best Smart Rings, Tested and Reviewed &lpar;2024&rpar;](https://www.wired.com/gallery/best-smart-rings/)
- - [Quick Share for iOS and macOS might be in the works](https://www.androidauthority.com/quick-share-for-ios-macos-rumor-3496057/)<!-- TECH:END -->
+ - [Apple is buying 20 percent of its iPhone satellite services partner](https://www.theverge.com/2024/11/1/24285347/apple-globalstar-investment-expansion-emergency-sos-satellite)
+ - [College football teams enthuse about nano-texture iPad Pro](https://appleinsider.com/articles/24/11/01/college-football-teams-enthuse-about-nano-texture-ipad-pro?utm_medium=rss)
+ - [Popular photo editing company Pixelmator says it has signed an agreement to be acquired by Apple, pending regulatory approval &lpar;Chance Miller/9to5Mac&rpar;](http://www.techmeme.com/241101/p12#a241101p12)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
