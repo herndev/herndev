@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [On Its 10th Anniversary, Over The Garden Wall Remains The Most Perfect Fall Show](https://kotaku.com/over-the-garden-wall-10-year-anniversary-fall-show-1851687442)
- - [A New Godzilla Movie Is Coming From The Makers Of The Incredible Godzilla Minus One](https://kotaku.com/godzilla-minus-one-sequel-teaser-release-date-ending-1851687391)
- - [Pre-order Monster Hunter Wilds on PC and save 18%](https://www.polygon.com/pre-order/457978/monster-hunter-wilds-deal-fanatical)<!-- GAME:END -->
+ - [Black Friday gaming headset deals 2024: discounts and deals on headsets galore](https://www.pcgamer.com/hardware/gaming-headsets/black-friday-gaming-headset-deals)
+ - [Ex-BioWare dev explains why everyone in Mass Effect and Dragon Age does that one &#39;BioWare turn&#39; animation](https://www.pcgamer.com/games/rpg/ex-bioware-dev-explains-why-everyone-in-mass-effect-and-dragon-age-does-that-one-bioware-turn-animation)
+ - [After a combined 180 hours playing, we can finally tell you which is the best Dragon Age: The Veilguard class and why it&#39;s actually kind of all of them](https://www.pcgamer.com/games/dragon-age/veilguard-best-class)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
