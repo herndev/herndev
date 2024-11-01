@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Snag a free $45 gift card with this early Black Friday Costco membership deal](https://appleinsider.com/articles/24/10/31/snag-a-free-45-gift-card-with-this-early-black-friday-costco-membership-deal?utm_medium=rss)
- - [Apple Q4 revenues: down 0.3% YoY to $15B in China, up 7.6% to $5.9B in Japan, up 16.6% to $7.38B in the rest of Asia-Pacific, and up 11% to $24.9B in Europe &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/241031/p52#a241031p52)
- - [The iPhone 17 might use Apple’s own Wi-Fi chips](https://www.theverge.com/2024/10/31/24284959/iphone-17-wifi-bluetooth-chip-broadcom)<!-- TECH:END -->
+ - [Early Geekbench scores show M4 Pro may outpace Mac Pro with M2 Ultra](https://appleinsider.com/articles/24/11/01/early-geekbench-scores-show-m4-pro-may-outpace-mac-pro-with-m2-ultra?utm_medium=rss)
+ - [Ex-Lacework CEO and Facebook&#39;s former global head of engineering Jay Parikh joins Microsoft&#39;s senior leadership team and will report directly to Satya Nadella &lpar;Bloomberg&rpar;](http://www.techmeme.com/241031/p55#a241031p55)
+ - [Amazon reports Q3 AWS revenue up 19% YoY to $27.45B, vs. $27.52B est., and AWS operating income of $10.45B, vs. $9.15B est., up from $7B in Q3 2023 &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/241031/p53#a241031p53)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
