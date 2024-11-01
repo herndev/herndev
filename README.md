@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [The Substance, Joker: Folie à Deux, Netflix’s Time Cut, and every movie new to streaming this week](https://www.polygon.com/entertainment/469923/new-movies-watch-streaming-the-substance-joker-2-netflix-time-cut)
  - [Another game is disappearing from Steam: Five years after its last update, Bethesda is closing its Elder Scrolls card game](https://www.pcgamer.com/games/card-games/another-game-is-disappearing-from-steam-five-years-after-its-last-update-bethesda-is-closing-its-elder-scrolls-card-game)
- - [Kotaku’s Weekend Guide: 5 Great Games We Can&#39;t Wait To Spend Time With](https://kotaku.com/kotaku-weekend-guide-dragon-age-veilguard-life-strange-1851687395)
- - [Sony&amp;#8217;s first OLED gaming monitor is fast, but not the right fit for most gamers](https://www.polygon.com/review/469727/sony-inzone-m10s-oled-pc-ps5-gaming-monitor)<!-- GAME:END -->
+ - [Kotaku’s Weekend Guide: 5 Great Games We Can&#39;t Wait To Spend Time With](https://kotaku.com/kotaku-weekend-guide-dragon-age-veilguard-life-strange-1851687395)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
