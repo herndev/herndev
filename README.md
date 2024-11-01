@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I hear other people saying, `Have you tried crossfit?`](http://9gag.com/gag/ajP5dGg)
+ - 💣 [Best community note I have ever read](http://9gag.com/gag/aVv0dEK)
  - ⏩ [Gaslighting](http://9gag.com/gag/aBygjDD)
- - 👉 [Completely normal phenomenon](http://9gag.com/gag/aQz1VEq)<!-- MEMES:END -->
+ - 👉 [Hold up, wait a minute...](http://9gag.com/gag/abArdqL)<!-- MEMES:END -->
 
 ---
 
