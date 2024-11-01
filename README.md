@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Monster Hunter Wilds beta isn&#39;t looking so hot, but Capcom says the full game &#39;is already in a more improved state&#39;](https://www.pcgamer.com/games/rpg/the-monster-hunter-wilds-beta-isnt-looking-so-hot-but-capcom-says-the-full-game-is-already-in-a-more-improved-state)
- - [Everything You Need To Know About Horizon Zero Dawn Remastered](https://kotaku.com/everything-you-need-to-know-about-horizon-zero-dawn-rem-1851687478)
- - [The Star Wars: Skeleton Crew Trailer Is Indeed Just The Goonies In Space, And It Rules](https://kotaku.com/star-wars-skeleton-crew-trailer-jude-law-1851687632)<!-- GAME:END -->
+ - [Sony&amp;#8217;s first OLED gaming monitor is fast, but not the right fit for most gamers](https://www.polygon.com/review/469727/sony-inzone-m10s-oled-pc-ps5-gaming-monitor)
+ - [Borderlands 2 player spends over 800 hours beating it without taking a single hit, but another player swiped the achievement 10 hours earlier](https://www.pcgamer.com/games/fps/borderlands-2-player-spends-over-800-hours-beating-it-without-taking-a-single-hit-but-another-player-swiped-the-achievement-10-hours-earlier)
+ - [I play way too many indie horror games, and you absolutely shouldn&#39;t miss Psychopomp Gold: it&#39;s $9 and got 1,000 &#39;overwhelmingly positive&#39; Steam reviews in just 1 week](https://www.pcgamer.com/games/horror/i-play-way-too-many-indie-horror-games-and-you-absolutely-shouldnt-miss-psychopomp-gold-its-usd9-and-got-1-000-overwhelmingly-positive-steam-reviews-in-just-1-week)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
