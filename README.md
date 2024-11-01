@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This brilliant criminal mind stealing a package from a door](http://9gag.com/gag/avyoB5b)
- - ⏩ [I&#39;m sure it&#39;s fine, just a normal pizza place](http://9gag.com/gag/aRB08w2)
- - 👉 [Only a few](http://9gag.com/gag/ae95qKj)<!-- MEMES:END -->
+ - 💣 [Happy Halloween guys, here&#39;s someone get spooked](http://9gag.com/gag/aLn0VeA)
+ - ⏩ [Memes are getting better](http://9gag.com/gag/axy7ebM)
+ - 👉 [0% Luck](http://9gag.com/gag/aRB08bj)<!-- MEMES:END -->
 
 ---
 
