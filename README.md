@@ -39,7 +39,7 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [UK data: 1,824 sexual communication with a child offenses occurred on social media in 2023-2024, with Snapchat in 48% of cases and Facebook and Messenger in 12% &lpar;Martyn Landi/The Independent&rpar;](http://www.techmeme.com/241031/p56#a241031p56)
+ - [UK police received 7,062 reports of online grooming in the last year; Snapchat was named in 48% of those cases where the means of communication was disclosed &lpar;Martyn Landi/The Independent&rpar;](http://www.techmeme.com/241031/p56#a241031p56)
  - [Early Geekbench scores show M4 Pro may outpace Mac Pro with M2 Ultra](https://appleinsider.com/articles/24/11/01/early-geekbench-scores-show-m4-pro-may-outpace-mac-pro-with-m2-ultra?utm_medium=rss)
  - [Best Verizon Phone for 2024](https://www.cnet.com/tech/mobile/best-verizon-phone/#ftag=CAD590a51e)<!-- TECH:END -->
 
