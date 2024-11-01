@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [If you use the term `genocide`, first know the facts and figures.](http://9gag.com/gag/a9yRZjm)
- - ⏩ [Right in the feels](http://9gag.com/gag/aZZ7dRz)
- - 👉 [The Modern Man\u2122](http://9gag.com/gag/abArd7b)<!-- MEMES:END -->
+ - 💣 [Peak throughout](http://9gag.com/gag/aryozL0)
+ - ⏩ [Eight Legged Freaks &lpar;2002&rpar;](http://9gag.com/gag/aW4EDyA)
+ - 👉 [A woman cares for an egg](http://9gag.com/gag/ayNoPor)<!-- MEMES:END -->
 
 ---
 
