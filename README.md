@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Drill falls down the hole on an oil rig](http://9gag.com/gag/a5QRDVO)
- - ⏩ [Completely normal phenomenon](http://9gag.com/gag/aQz1VEq)
- - 👉 [Only a few](http://9gag.com/gag/ae95qKj)<!-- MEMES:END -->
+ - 💣 [Only a few](http://9gag.com/gag/ae95qKj)
+ - ⏩ [POV : when the sound of drones is scarier than ghosts](http://9gag.com/gag/abArROr)
+ - 👉 [Hmm](http://9gag.com/gag/azx14Wj)<!-- MEMES:END -->
 
 ---
 
