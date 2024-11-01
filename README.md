@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Plan Was To Take Gears 6 To Outer Space At One Point](https://kotaku.com/gears-war-6-e-day-sequel-space-mass-effect-1851687547)
- - [Dragon Age Fans Are All Making The Same Joke About Chappell Roan’s SNL Look](https://kotaku.com/chappell-roan-saturday-night-live-snl-outfit-dragon-age-1851687610)
- - [Some awesome games are buy 1, get 1 half-off at Best Buy](https://www.polygon.com/sales-guide/472315/best-buy-one-get-half-off-deal-games-metaphor-space-marine)<!-- GAME:END -->
+ - [The Monster Hunter Wilds beta isn&#39;t looking so hot, but Capcom says the full game &#39;is already in a more improved state&#39;](https://www.pcgamer.com/games/rpg/the-monster-hunter-wilds-beta-isnt-looking-so-hot-but-capcom-says-the-full-game-is-already-in-a-more-improved-state)
+ - [Everything You Need To Know About Horizon Zero Dawn Remastered](https://kotaku.com/everything-you-need-to-know-about-horizon-zero-dawn-rem-1851687478)
+ - [The Star Wars: Skeleton Crew Trailer Is Indeed Just The Goonies In Space, And It Rules](https://kotaku.com/star-wars-skeleton-crew-trailer-jude-law-1851687632)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
