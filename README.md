@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Happy Halloween guys, here&#39;s someone get spooked](http://9gag.com/gag/aLn0VeA)
- - ⏩ [Hold up, wait a minute...](http://9gag.com/gag/abArdqL)
- - 👉 [Yagami backwards is...](http://9gag.com/gag/a1mR87G)<!-- MEMES:END -->
+ - 💣 [I hear other people saying, `Have you tried crossfit?`](http://9gag.com/gag/ajP5dGg)
+ - ⏩ [Gaslighting](http://9gag.com/gag/aBygjDD)
+ - 👉 [Completely normal phenomenon](http://9gag.com/gag/aQz1VEq)<!-- MEMES:END -->
 
 ---
 
