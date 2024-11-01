@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [PSA: You Can Miss The Most Important Quest In Dragon Age: The Veilguard](https://kotaku.com/dragon-age-veilguard-solas-memories-wolf-statues-quest-1851687250)
- - [We Might End Up Getting A Game Of Thrones Movie After All](https://kotaku.com/game-thrones-hbo-george-r-r-martin-season-8-movie-1851687217)
- - [An AI-generated website convinced thousands of people to show up to a fake Halloween parade in Ireland, showing how unprepared we are for AI misinformation](https://www.pcgamer.com/software/ai/an-ai-generated-website-convinced-thousands-of-people-to-show-up-to-a-fake-halloween-parade-in-ireland-showing-how-unprepared-we-are-for-ai-misinformation)<!-- GAME:END -->
+ - [What time does Fortnite’s live event ‘Remix: The Prelude’ start?](https://www.polygon.com/fortnite-guide/472158/remix-the-prelude-live-event-start-time-release-time-zone)
+ - [Pokémon Go Spotlight Hour schedule for November 2024](https://www.polygon.com/pokemon-go-guide/23661763/spotlight-hour-schedule)
+ - [Pokémon Go raid schedule for November 2024’s Legendary and Mega Pokémon](https://www.polygon.com/pokemon-go-guide/24168766/raid-schedule-legendary-mega-shadow-five-star)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
