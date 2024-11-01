@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [ChromeOS gets a big update with Quick Insert, Focus mode, and new AI features](https://www.theverge.com/2024/10/31/24284880/google-chromebook-chromeos-130-quick-insert-ai-focus-mode)
- - [Tim Cook bids farewell to Luca Maestri on his last earnings call](https://appleinsider.com/articles/24/10/31/tim-cook-bids-farewell-to-luca-maestri-on-his-last-earnings-call?utm_medium=rss)
- - [Google Home’s new Gemini Extension frees you to control your smart home with natural language](https://www.androidauthority.com/google-home-gemini-extension-3496007/)<!-- TECH:END -->
+ - [Snag a free $45 gift card with this early Black Friday Costco membership deal](https://appleinsider.com/articles/24/10/31/snag-a-free-45-gift-card-with-this-early-black-friday-costco-membership-deal?utm_medium=rss)
+ - [Apple Q4 revenues: down 0.3% YoY to $15B in China, up 7.6% to $5.9B in Japan, up 16.6% to $7.38B in the rest of Asia-Pacific, and up 11% to $24.9B in Europe &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/241031/p52#a241031p52)
+ - [The iPhone 17 might use Apple’s own Wi-Fi chips](https://www.theverge.com/2024/10/31/24284959/iphone-17-wifi-bluetooth-chip-broadcom)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
