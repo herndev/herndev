@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The best part of Deadlock&#39;s Halloween update is a new building redesign which reimagines the world into a truly occult New York City](https://www.pcgamer.com/games/moba/the-best-part-of-deadlocks-halloween-update-is-a-new-building-redesign-which-reimagines-the-world-into-a-truly-occult-new-york-city)
- - [PSA: Dragon Age: The Veilguard doesn&#39;t warn you which big quests are going to lock you out of finishing up side quests](https://www.pcgamer.com/games/dragon-age/veilguard-point-of-no-return-quests)
- - [Final Fantasy 14&#39;s patch 7.1 trailer teases much-needed character development for its bad dad antagonist Zoraal Ja—but a sluggish release schedule for everything else](https://www.pcgamer.com/games/final-fantasy/final-fantasy-14s-patch-7-1-trailer-teases-much-needed-character-development-for-its-bad-dad-antagonist-zoraal-ja-but-a-sluggish-release-schedule-for-everything-else)<!-- GAME:END -->
+ - [Next Week on Xbox: New Games for November 4 to 8](https://news.xbox.com/en-us/2024/11/01/next-week-on-xbox-new-games-for-november-4-to-8/)
+ - [Horizon Zero Dawn&#39;s questionable remaster launches to Mixed reviews as players lament a new mandatory PSN sign-in that wasn&#39;t in the original, visual glitches, and audio bugs](https://www.pcgamer.com/games/action/horizon-zero-dawns-questionable-remaster-launches-to-mixed-reviews-as-players-lament-a-new-mandatory-psn-sign-in-that-wasnt-in-the-original-visual-glitches-and-audio-bugs)
+ - [What time does Fortnite’s live event ‘Remix: The Prelude’ start?](https://www.polygon.com/fortnite-guide/472158/remix-the-prelude-live-event-start-time-release-time-zone)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
