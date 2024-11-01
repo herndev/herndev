@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Star Wars: Skeleton Crew looks like a wild ride in new trailer](https://www.theverge.com/2024/11/1/24285689/disney-plus-star-wars-skeleton-crew-trailer-wild-ride)
- - [Google Messages should make it less tedious to investigate timestamps &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-messages-timestamp-swipe-3496230/)
- - [Meta rolls out its Quest v71 update, including a redesign of Meta Horizon OS, a calendar app, and the ability to use Travel Mode on a train &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/241101/p15#a241101p15)<!-- TECH:END -->
+ - [Poll: Are you excited about Google’s plans for an early Android 16 release?](https://www.androidauthority.com/android-16-poll-3496243/)
+ - [Hyundai knows how to make a good-looking hydrogen concept car](https://www.theverge.com/2024/11/1/24285646/hyundai-initium-hydrogen-ev-suv-concept)
+ - [CoreWeave told investors its signed contracts are worth $17B, including $10B by Microsoft from 2023 to 2030, and it expects revenue to grow 4x to $8B in 2025 &lpar;The Information&rpar;](http://www.techmeme.com/241101/p16#a241101p16)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
