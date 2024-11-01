@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Only Japan, royal princess would bow to average peasants.](http://9gag.com/gag/aByg4WO)
- - ⏩ [Former beauty Queen, Miss Wyoming winner Joyce McKinney being arrested by police after kidnapping Mormon missionary Kirk Anderson from his church, forcing him to be her sex slave for 3 days &lpar;1977&rpar;](http://9gag.com/gag/a0eROQX)
- - 👉 [Spiders are attracted to nectar, and in this case it cost her her life](http://9gag.com/gag/an75rAB)<!-- MEMES:END -->
+ - 💣 [The peace of mind of having a shatterproof door...](http://9gag.com/gag/aryozo0)
+ - ⏩ [Threats from Liam Neeson hits differently!](http://9gag.com/gag/an75rVn)
+ - 👉 [RayGun Challenge is LIVE](http://9gag.com/gag/amo5n29)<!-- MEMES:END -->
 
 ---
 
