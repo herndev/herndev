@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [If you use the term `genocide`, first know the facts and figures.](http://9gag.com/gag/a9yRZjm)
- - ⏩ [We are already there](http://9gag.com/gag/aW4EPOd)
- - 👉 [Only a few](http://9gag.com/gag/ae95qKj)<!-- MEMES:END -->
+ - 💣 [Only Japan, royal princess would bow to average peasants.](http://9gag.com/gag/aByg4WO)
+ - ⏩ [Only a few](http://9gag.com/gag/ae95qKj)
+ - 👉 [Drill falls down the hole on an oil rig](http://9gag.com/gag/a5QRDVO)<!-- MEMES:END -->
 
 ---
 
