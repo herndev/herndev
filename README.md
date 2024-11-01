@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [The reigning Pope of 1-bit mystery games is back with a Halloween treat: a haunted house game you can play in your browser](https://www.pcgamer.com/games/adventure/the-reigning-pope-of-1-bit-mystery-games-is-back-with-a-halloween-treat-a-haunted-house-game-you-can-play-in-your-browser)
  - [Xbox Insider Program Community Update – October 2024 ‘Spooky’ Edition](https://news.xbox.com/en-us/2024/10/31/xbox-insider-program-community-update-october-2024-spooky-edition/)
- - [Stressing out waiting for Dragon Age: The Veilguard to download? Here&#39;s some Dragon Age ASMR to help mellow your mood](https://www.pcgamer.com/games/rpg/stressing-out-waiting-for-dragon-age-the-veilguard-to-download-heres-some-dragon-age-asmr-to-help-mellow-your-mood)
- - [Many Pokémon TCG fans have never played competitive —Pocket changes that](https://www.polygon.com/pokemon/473455/tcg-pocket-battling-first-time-trading-card-game)<!-- GAME:END -->
+ - [Stressing out waiting for Dragon Age: The Veilguard to download? Here&#39;s some Dragon Age ASMR to help mellow your mood](https://www.pcgamer.com/games/rpg/stressing-out-waiting-for-dragon-age-the-veilguard-to-download-heres-some-dragon-age-asmr-to-help-mellow-your-mood)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
