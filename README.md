@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Theres no option not to be trans lmao.](http://9gag.com/gag/a6ZN46q)
- - ⏩ [RayGun Challenge is LIVE](http://9gag.com/gag/amo5n29)
- - 👉 [Drill falls down the hole on an oil rig](http://9gag.com/gag/a5QRDVO)<!-- MEMES:END -->
+ - 💣 [Probably fatty liver](http://9gag.com/gag/a4PRmjm)
+ - ⏩ [Gaslighting](http://9gag.com/gag/aBygjDD)
+ - 👉 [The Modern Man\u2122](http://9gag.com/gag/abArd7b)<!-- MEMES:END -->
 
 ---
 
