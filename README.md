@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [What time does Fortnite’s live event ‘Remix: The Prelude’ start?](https://www.polygon.com/fortnite-guide/472158/remix-the-prelude-live-event-start-time-release-time-zone)
- - [Pokémon Go Spotlight Hour schedule for November 2024](https://www.polygon.com/pokemon-go-guide/23661763/spotlight-hour-schedule)
- - [Pokémon Go raid schedule for November 2024’s Legendary and Mega Pokémon](https://www.polygon.com/pokemon-go-guide/24168766/raid-schedule-legendary-mega-shadow-five-star)<!-- GAME:END -->
+ - [On Its 10th Anniversary, Over The Garden Wall Remains The Most Perfect Fall Show](https://kotaku.com/over-the-garden-wall-10-year-anniversary-fall-show-1851687442)
+ - [A New Godzilla Movie Is Coming From The Makers Of The Incredible Godzilla Minus One](https://kotaku.com/godzilla-minus-one-sequel-teaser-release-date-ending-1851687391)
+ - [Pre-order Monster Hunter Wilds on PC and save 18%](https://www.polygon.com/pre-order/457978/monster-hunter-wilds-deal-fanatical)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
