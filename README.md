@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Theres no option not to be trans lmao.](http://9gag.com/gag/a6ZN46q)
- - ⏩ [This brilliant criminal mind stealing a package from a door](http://9gag.com/gag/avyoB5b)
- - 👉 [RayGun Challenge is LIVE](http://9gag.com/gag/amo5n29)<!-- MEMES:END -->
+ - 💣 [Happy Halloween guys, here&#39;s someone get spooked](http://9gag.com/gag/aLn0VeA)
+ - ⏩ [Hold up, wait a minute...](http://9gag.com/gag/abArdqL)
+ - 👉 [Yagami backwards is...](http://9gag.com/gag/a1mR87G)<!-- MEMES:END -->
 
 ---
 
