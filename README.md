@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Theres no option not to be trans lmao.](http://9gag.com/gag/a6ZN46q)
- - ⏩ [Apparently, it&#39;s called the wedding ring effect](http://9gag.com/gag/ae95WR5)
- - 👉 [POV : when the sound of drones is scarier than ghosts](http://9gag.com/gag/abArROr)<!-- MEMES:END -->
+ - ⏩ [Drill falls down the hole on an oil rig](http://9gag.com/gag/a5QRDVO)
+ - 👉 [Spiders are attracted to nectar, and in this case it cost her her life](http://9gag.com/gag/an75rAB)<!-- MEMES:END -->
 
 ---
 
