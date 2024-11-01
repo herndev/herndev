@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [You can now try Microsoft’s more modern Windows Hello UI](https://www.theverge.com/2024/11/1/24285558/microsoft-windows-hello-ui-passkeys-beta-testing)
- - [Intel’s future laptops will have memory sticks again](https://www.theverge.com/2024/11/1/24285513/intel-ceo-lunar-lake-one-off-memory-package-discrete-gpu)
- - [The best new streaming movies this week: Trap and more](https://www.androidauthority.com/best-new-streaming-movies-this-week-3083965/)<!-- TECH:END -->
+ - [Hands on: Apple&#39;s USB-C accessories leave us wanting more](https://appleinsider.com/articles/24/11/01/hands-on-apples-usb-c-accessories-leave-us-wanting-more?utm_medium=rss)
+ - [Google Messages will soon let you choose photo resolution before sending &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-messages-hd-icons-3496207/)
+ - [Google may finally add album art to Now Playing on Pixel phones](https://www.androidauthority.com/now-playing-album-art-3496216/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
