@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Happy Halloween guys, here&#39;s someone get spooked](http://9gag.com/gag/aLn0VeA)
- - ⏩ [Memes are getting better](http://9gag.com/gag/axy7ebM)
- - 👉 [0% Luck](http://9gag.com/gag/aRB08bj)<!-- MEMES:END -->
+ - 💣 [Memes are getting better](http://9gag.com/gag/axy7ebM)
+ - ⏩ [Yagami backwards is...](http://9gag.com/gag/a1mR87G)
+ - 👉 [What it is really called though?](http://9gag.com/gag/an75deq)<!-- MEMES:END -->
 
 ---
 
