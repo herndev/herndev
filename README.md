@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [AI-generated Minecraft unveiled, showcasing AI&#39;s unlimited ability to copy things but worse](https://www.pcgamer.com/software/ai/ai-generated-minecraft-unveiled-showcasing-ais-unlimited-ability-to-copy-things-but-worse)
- - [Microsoft recalls Windows 11&#39;s Recall AI PC feature yet again and it now won&#39;t even be released for testing until December](https://www.pcgamer.com/software/windows/microsoft-recalls-windows-11s-recall-ai-pc-feature-yet-again-and-it-now-wont-even-be-released-for-testing-until-december)
- - [Today&#39;s Wordle answer for Friday, November 1](https://www.pcgamer.com/games/puzzle/wordle-answer-today-november-1-2024)<!-- GAME:END -->
+ - [The best part of Deadlock&#39;s Halloween update is a new building redesign which reimagines the world into a truly occult New York City](https://www.pcgamer.com/games/moba/the-best-part-of-deadlocks-halloween-update-is-a-new-building-redesign-which-reimagines-the-world-into-a-truly-occult-new-york-city)
+ - [PSA: Dragon Age: The Veilguard doesn&#39;t warn you which big quests are going to lock you out of finishing up side quests](https://www.pcgamer.com/games/dragon-age/veilguard-point-of-no-return-quests)
+ - [Final Fantasy 14&#39;s patch 7.1 trailer teases much-needed character development for its bad dad antagonist Zoraal Ja—but a sluggish release schedule for everything else](https://www.pcgamer.com/games/final-fantasy/final-fantasy-14s-patch-7-1-trailer-teases-much-needed-character-development-for-its-bad-dad-antagonist-zoraal-ja-but-a-sluggish-release-schedule-for-everything-else)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
