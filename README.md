@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I&#39;m not a girl, but...](http://9gag.com/gag/aryoj6B)
- - ⏩ [That control is godly](http://9gag.com/gag/azx1n5q)
- - 👉 [Japanese snack law.](http://9gag.com/gag/a34R6Re)<!-- MEMES:END -->
+ - 💣 [It&#39;s like progress and gaming revolution, but backwards](http://9gag.com/gag/aND0E5A)
+ - ⏩ [Would you find out?](http://9gag.com/gag/aRB0bp2)
+ - 👉 [Roma aeterna](http://9gag.com/gag/ayNoG8p)<!-- MEMES:END -->
 
 ---
 
