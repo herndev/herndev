@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Support Virtual Agent is Here to Help for Xbox Insiders Today!](https://news.xbox.com/en-us/2024/11/04/support-virtual-agent-is-here-to-help-for-xbox-insiders-today/)
- - [How to open the Doggpound vault in Fortnite](https://www.polygon.com/fortnite-guide/474221/doggpound-vault-how-to-open-snoop-dogg-keycard)
- - [Someone Finally Solved Silent Hill 2 Remake&#39;s Biggest Mystery](https://kotaku.com/silent-hill-2-polaroid-strange-photos-puzzle-solved-ps5-1851688947)<!-- GAME:END -->
+ - [Buy 1 game, get 1 50% off at Amazon for a limited time](https://www.polygon.com/sales-guide/474366/amazon-buy-1-get-half-off-metaphor-refantazio-balatro-warhammer-40k-space-marine-2)
+ - [This Bug Nearly Ruined Dragon Age: The Veilguard’s Excellent Finale For Me](https://kotaku.com/dragon-age-veilguard-inquisitor-face-creator-bug-glitch-1851689128)
+ - [Not content with finally getting Stardew Valley 1.6 live on all platforms, Eric Barone has piled a bunch of other new stuff on top of it in yet another big update](https://www.pcgamer.com/games/life-sim/not-content-with-finally-getting-stardew-valley-1-6-live-on-all-platforms-eric-barone-has-piled-a-bunch-of-other-new-stuff-on-top-of-it-in-yet-another-big-update)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
