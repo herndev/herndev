@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Morrigan isn&#39;t just my favourite Dragon Age character, she&#39;s the greatest fantasy RPG companion of all time](https://www.pcgamer.com/games/dragon-age/morrigan-isnt-just-my-favourite-dragon-age-character-shes-the-greatest-fantasy-rpg-companion-of-all-time)
  - [The Penguin’s production team really grew those mushrooms](https://www.polygon.com/dc/473788/penguin-mushroom-bliss-episode-real)
- - [Here&#39;s a time-devouring combination of factory-building and incremental game](https://www.pcgamer.com/games/strategy/heres-a-time-devouring-combination-of-factory-building-and-incremental-game)
- - [Five new Steam games you probably missed &lpar;November 4, 2024&rpar;](https://www.pcgamer.com/software/platforms/five-new-steam-games-you-probably-missed-november-4-2024)<!-- GAME:END -->
+ - [Here&#39;s a time-devouring combination of factory-building and incremental game](https://www.pcgamer.com/games/strategy/heres-a-time-devouring-combination-of-factory-building-and-incremental-game)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
