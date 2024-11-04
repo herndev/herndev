@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [It&#39;s like progress and gaming revolution, but backwards](http://9gag.com/gag/aND0E5A)
- - ⏩ [That control is godly](http://9gag.com/gag/azx1n5q)
- - 👉 [Would you find out?](http://9gag.com/gag/aRB0bp2)<!-- MEMES:END -->
+ - 💣 [I have no idea anyone can do that](http://9gag.com/gag/aGygX6n)
+ - ⏩ [This is Monica Keasler. The lady from Texas who made the complaints about Peanut the Squirrel and Fred the Racoon](http://9gag.com/gag/aLn077P)
+ - 👉 [Your dreams for Monday](http://9gag.com/gag/a7owQDq)<!-- MEMES:END -->
 
 ---
 
