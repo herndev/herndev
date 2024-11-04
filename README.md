@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Justice!](http://9gag.com/gag/aND076A)
+ - 💣 [He won $25 million dollars from the lottery and found his true love 4 days later\u2026](http://9gag.com/gag/aBygAzD)
  - ⏩ [Romance](http://9gag.com/gag/a0eR3qB)
- - 👉 [I have no idea anyone can do that](http://9gag.com/gag/aGygX6n)<!-- MEMES:END -->
+ - 👉 [Justice!](http://9gag.com/gag/aND076A)<!-- MEMES:END -->
 
 ---
 
