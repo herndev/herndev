@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [New to StarCraft II? Learn the Ropes Before its PC Game Pass Launch](https://news.xbox.com/en-us/2024/11/04/starcraft-ii-campaign-collection-game-pass-tips/)
- - [Sony Confirms PS5 Pro Specs And All 50+ Upgraded Games At Launch](https://kotaku.com/ps5-pro-specs-list-enhanced-upgraded-games-elden-ring-1851688507)
- - [The goggles, they do everything: These scratch-built AR glasses even have homemade lenses](https://www.pcgamer.com/hardware/the-goggles-they-do-everything-these-scratch-built-ar-glasses-even-have-homemade-lenses)<!-- GAME:END -->
+ - [Robots can play the cello with an orchestra now, and that sound you can hear is the point whistling over the top of its creator&#39;s heads](https://www.pcgamer.com/hardware/robots-can-play-the-cello-with-an-orchestra-now-and-that-sound-you-can-hear-is-the-point-whistling-over-the-top-of-its-creators-heads)
+ - [How to use valuables in Dragon Age: The Veilguard](https://www.pcgamer.com/games/dragon-age/veilguard-valuables-sell)
+ - [Microsoft&#39;s building data centres out of wood hoping we&#39;ll forget AI&#39;s made its carbon emissions 29% higher than when it pledged to go &#39;carbon negative&#39; in 2020](https://www.pcgamer.com/software/ai/microsofts-building-data-centres-out-of-wood-hoping-well-forget-ais-made-its-carbon-emissions-29-percent-higher-than-when-it-pledged-to-go-carbon-negative-in-2020)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
