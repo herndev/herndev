@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [M4 14-inch MacBook Pro vs M3 14-inch MacBook Pro compared: A portable speed boost](https://appleinsider.com/inside/macbook-pro/vs/m4-14-inch-macbook-pro-vs-m3-14-inch-macbook-pro-compared-a-portable-speed-boost?utm_medium=rss)
- - [How to install App Store apps on an external SSD](https://appleinsider.com/inside/macos-sequoia/tips/how-to-install-app-store-apps-on-an-external-ssd?utm_medium=rss)
- - [Raspberry Pi Touch Display 2 review: the new $60 screen is easy to build, works with the latest OS, and holds the Pi on its back, but scrolling can be awkward &lpar;Les Pounder/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/241104/p10#a241104p10)<!-- TECH:END -->
+ - [Oops, Apple approved another illegal streaming app](https://www.theverge.com/2024/11/4/24287574/apple-approved-illegal-streaming-app-univer-note)
+ - [European regulators evaluate iPadOS changes for compliance with Digital Markets Act](https://appleinsider.com/articles/24/11/04/european-regulators-evaluate-ipados-changes-for-compliance-with-digital-markets-act?utm_medium=rss)
+ - [Thunderbolt 5 vs Thunderbolt 4 -- everything you need to know](https://appleinsider.com/inside/mac/vs/thunderbolt-5-vs-thunderbolt-4----compared?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
