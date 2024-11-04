@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Dragon Age: The Veilguard’s Companions, Ranked From Good To Best](https://kotaku.com/dragon-age-veilguard-best-companions-lucanis-taash-neve-1851688830)
- - [Real Madrid is so popular, Real Madrid vs. Real Madrid outranks nearly every other matchup in EA Sports FC 25](https://www.pcgamer.com/games/sports/real-madrid-is-so-popular-real-madrid-vs-real-madrid-outranks-nearly-every-other-matchup-in-ea-sports-fc-25)
- - [Snag Guardians Of The Galaxy, Mafia, And Dishonored For Free With Prime Gaming This November](https://kotaku.com/november-free-amazon-games-dishonored-marvel-mafia-1851688818)<!-- GAME:END -->
+ - [Support Virtual Agent is Here to Help for Xbox Insiders Today!](https://news.xbox.com/en-us/2024/11/04/support-virtual-agent-is-here-to-help-for-xbox-insiders-today/)
+ - [How to open the Doggpound vault in Fortnite](https://www.polygon.com/fortnite-guide/474221/doggpound-vault-how-to-open-snoop-dogg-keycard)
+ - [Someone Finally Solved Silent Hill 2 Remake&#39;s Biggest Mystery](https://kotaku.com/silent-hill-2-polaroid-strange-photos-puzzle-solved-ps5-1851688947)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
