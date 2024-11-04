@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [That control is godly](http://9gag.com/gag/azx1n5q)
- - ⏩ [Would you find out?](http://9gag.com/gag/aRB0bp2)
- - 👉 [\ud83c\uddee\ud83c\uddf3 A pirate explains why he REFUSES to kidnap INDIAN people\u2026](http://9gag.com/gag/agm5wE6)<!-- MEMES:END -->
+ - 💣 [Typical Female behaviour](http://9gag.com/gag/amo54jo)
+ - ⏩ [Cherish every Moment](http://9gag.com/gag/aGygmvG)
+ - 👉 [Clue - people who annoys you?](http://9gag.com/gag/avyoM6W)<!-- MEMES:END -->
 
 ---
 
