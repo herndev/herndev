@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Gurman: Apple is working on a MacBook Pro overhaul featuring a thinner design, but it probably won&#39;t be released until 2026 following delays in display tech &lpar;Michael Burkhardt/9to5Mac&rpar;](http://www.techmeme.com/241103/p8#a241103p8)
- - [This Voltme Retractable 100W USB-C Cable Is Just $10 With Amazon Prime Right Now](https://www.cnet.com/deals/this-voltme-retractable-100w-usb-c-cable-is-just-10-with-amazon-prime-right-now/#ftag=CAD590a51e)
- - [36 Unique Gifts for People Who Have Everything](https://www.cnet.com/news/gifts-for-people-who-have-everything/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Perplexity launched a dedicated hub for the US general election, including ballot measures and voting results, while rivals like OpenAI have been more cautious &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/241103/p9#a241103p9)
+ - [Here are the best Apple Watch deals right now](https://www.theverge.com/21289209/best-apple-watch-deals)
+ - [Perplexity debuts an AI-powered election information hub](https://www.theverge.com/2024/11/3/24287157/perplexity-ai-election-voting-information-tracking-hub-us-presidential-election-2024-trump-harris)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
