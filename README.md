@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Celebrating 20 Years of Halo 2: Developers Discuss Rebuilding Classic Maps and the Iconic Halo 2 E3 Demo](https://news.xbox.com/en-us/2024/11/04/20-years-of-halo-2-new-maps-e3-demo/)
- - [We Looked Inside The Box Of The PS5 Pro, Sony&#39;s Most Expensive Console In Years](https://kotaku.com/ps5-pro-playstation-unboxing-inside-review-comparison-1851688605)
- - [Make The Most Of Blizzard&#39;s Defining Class, Diablo 4&#39;s Sorcerer](https://kotaku.com/sorcerer-build-guide-diablo-4-vessel-of-hatred-1851688114)<!-- GAME:END -->
+ - [Dragon Age: The Veilguard’s Companions, Ranked From Good To Best](https://kotaku.com/dragon-age-veilguard-best-companions-lucanis-taash-neve-1851688830)
+ - [Real Madrid is so popular, Real Madrid vs. Real Madrid outranks nearly every other matchup in EA Sports FC 25](https://www.pcgamer.com/games/sports/real-madrid-is-so-popular-real-madrid-vs-real-madrid-outranks-nearly-every-other-matchup-in-ea-sports-fc-25)
+ - [Snag Guardians Of The Galaxy, Mafia, And Dishonored For Free With Prime Gaming This November](https://kotaku.com/november-free-amazon-games-dishonored-marvel-mafia-1851688818)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
