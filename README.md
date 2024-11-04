@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Typical Female behaviour](http://9gag.com/gag/amo54jo)
- - ⏩ [Cherish every Moment](http://9gag.com/gag/aGygmvG)
+ - 💣 [Too late](http://9gag.com/gag/aND0NKr)
+ - ⏩ [Catfishing, but with debt](http://9gag.com/gag/aGygQm6)
  - 👉 [Clue - people who annoys you?](http://9gag.com/gag/avyoM6W)<!-- MEMES:END -->
 
 ---
