@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Hhmmmmm CURIOUS](http://9gag.com/gag/aAygzWg)
- - ⏩ [Too late](http://9gag.com/gag/aND0NKr)
- - 👉 [Korea has a 90% CONVICTION rate, politicians united to condemn him, and NOTHING is more sacred than the Comfort Women statues. HE&#39;S DONE.](http://9gag.com/gag/aD2gvKZ)<!-- MEMES:END -->
+ - 💣 [Volkswagens new Emergency Assist technology](http://9gag.com/gag/aryoj1d)
+ - ⏩ [Darwin Award goes to\u2026](http://9gag.com/gag/a4PRvXy)
+ - 👉 [I am scared, my dudes. Any advice?](http://9gag.com/gag/aVv05Zd)<!-- MEMES:END -->
 
 ---
 
