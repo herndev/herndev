@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Got married March 2024. I love my money more than her](http://9gag.com/gag/apR5OqD)
- - ⏩ [Too late](http://9gag.com/gag/aND0NKr)
- - 👉 [Catfishing, but with debt](http://9gag.com/gag/aGygQm6)<!-- MEMES:END -->
+ - 💣 [That control is godly](http://9gag.com/gag/azx1n5q)
+ - ⏩ [Would you find out?](http://9gag.com/gag/aRB0bp2)
+ - 👉 [\ud83c\uddee\ud83c\uddf3 A pirate explains why he REFUSES to kidnap INDIAN people\u2026](http://9gag.com/gag/agm5wE6)<!-- MEMES:END -->
 
 ---
 
