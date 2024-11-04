@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Five new Steam games you probably missed &lpar;November 4, 2024&rpar;](https://www.pcgamer.com/software/platforms/five-new-steam-games-you-probably-missed-november-4-2024)
- - [Magicraft is like Brotato mixed with Hades where you make up all your guns as you go along](https://www.pcgamer.com/games/roguelike/magicraft-is-like-brotato-mixed-with-hades-where-you-make-up-all-your-guns-as-you-go-along)
- - [In just 3 days, the state of Nintendo Alarmo hacking went from &#39;it loads a cat jpg&#39; to &#39;it runs Doom better than a lot of PCs back in the day&#39;](https://www.pcgamer.com/games/fps/in-just-3-days-the-state-of-nintendo-alarmo-hacking-went-from-it-loads-a-cat-jpg-to-it-runs-doom-better-than-a-lot-of-pcs-back-in-the-day)<!-- GAME:END -->
+ - [The Penguin’s production team really grew those mushrooms](https://www.polygon.com/dc/473788/penguin-mushroom-bliss-episode-real)
+ - [Here&#39;s a time-devouring combination of factory-building and incremental game](https://www.pcgamer.com/games/strategy/heres-a-time-devouring-combination-of-factory-building-and-incremental-game)
+ - [Five new Steam games you probably missed &lpar;November 4, 2024&rpar;](https://www.pcgamer.com/software/platforms/five-new-steam-games-you-probably-missed-november-4-2024)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
