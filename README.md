@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Lemokey G1 review](https://www.pcgamer.com/hardware/gaming-mice/lemokey-g1-review)
- - [Undead Labs wants to be known for more than just zombies, and State of Decay 3 could mark that changing point with &#39;a much greater level of ambition&#39;](https://www.pcgamer.com/games/survival-crafting/undead-labs-wants-to-be-known-for-more-than-just-zombies-and-state-of-decay-3-could-mark-that-changing-point-with-a-much-greater-level-of-ambition)
- - [Be The Very Best Spiritborn You Can Be In Diablo 4: Vessel Of Hatred](https://kotaku.com/spiritborn-build-guide-diablo-4-vessel-of-hatred-1851688083)<!-- GAME:END -->
+ - [New to StarCraft II? Learn the Ropes Before its PC Game Pass Launch](https://news.xbox.com/en-us/2024/11/04/starcraft-ii-campaign-collection-game-pass-tips/)
+ - [Sony Confirms PS5 Pro Specs And All 50+ Upgraded Games At Launch](https://kotaku.com/ps5-pro-specs-list-enhanced-upgraded-games-elden-ring-1851688507)
+ - [The goggles, they do everything: These scratch-built AR glasses even have homemade lenses](https://www.pcgamer.com/hardware/the-goggles-they-do-everything-these-scratch-built-ar-glasses-even-have-homemade-lenses)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
