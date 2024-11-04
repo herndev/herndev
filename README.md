@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Too late](http://9gag.com/gag/aND0NKr)
- - ⏩ [Prehistoric times before the rat race began](http://9gag.com/gag/amo5QEv)
- - 👉 [Nope](http://9gag.com/gag/ajP5e1Q)<!-- MEMES:END -->
+ - 💣 [Boys will always be boys](http://9gag.com/gag/aVv0y5v)
+ - ⏩ [Cherish every Moment](http://9gag.com/gag/aGygmvG)
+ - 👉 [Clue - people who annoys you?](http://9gag.com/gag/avyoM6W)<!-- MEMES:END -->
 
 ---
 
