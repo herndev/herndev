@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Fortnite kicked off its remixed Chapter 2 season with a Snoop Dogg and Ice Spice concert](https://www.theverge.com/2024/11/1/24283508/fortnite-remix-chapter-2-concert-snoop-dogg-ice-spice)
- - [Samsung XR hardware looks on track for a 2025 release — but just what are we going to get?](https://www.androidauthority.com/samsung-xr-hardware-3496271/)
- - [Bose is taking up to 40 percent off headphones ahead of Black Friday](https://www.theverge.com/2024/11/1/24285396/bose-quietcomfort-ultra-headphones-backbone-one-controller-deal-sale)<!-- TECH:END -->
+ - [Gurman: Apple is working on a MacBook Pro overhaul featuring a thinner design, but it probably won&#39;t be released until 2026 following delays in display tech &lpar;Michael Burkhardt/9to5Mac&rpar;](http://www.techmeme.com/241103/p8#a241103p8)
+ - [This Voltme Retractable 100W USB-C Cable Is Just $10 With Amazon Prime Right Now](https://www.cnet.com/deals/this-voltme-retractable-100w-usb-c-cable-is-just-10-with-amazon-prime-right-now/#ftag=CAD590a51e)
+ - [36 Unique Gifts for People Who Have Everything](https://www.cnet.com/news/gifts-for-people-who-have-everything/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
