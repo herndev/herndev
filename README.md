@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Interviews with Quantum Machines&#39; CTO and other executives on the startup&#39;s Nvidia partnership to use ML to get closer to an error-corrected quantum computer &lpar;Frederic Lardinois/TechCrunch&rpar;](http://www.techmeme.com/241104/p1#a241104p1)
- - [Google’s new ‘Special Offer From Pixel’ gives you 30% off on the Pixel 9 series](https://www.androidauthority.com/google-play-points-pixel-9-discount-3496419/)
- - [Best Gifts Under $300 for 2024](https://www.cnet.com/tech/mobile/best-gifts-under-300/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [This Quick Share change could solve its annoying dialog problem &lpar;APK teardown&rpar;](https://www.androidauthority.com/quick-share-tile-apk-teardown-3496431/)
+ - [X starts rolling out the update to let users see public posts and following and followers lists of users who block them; blocked users still can&#39;t engage or DM &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/241104/p2#a241104p2)
+ - [One UI 7 could copy this Apple Intelligence feature](https://www.androidauthority.com/samsung-one-ui-7-ai-notification-summaries-3496430/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
