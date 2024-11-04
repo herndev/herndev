@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple will let you upgrade to ChatGPT Plus right from Settings in iOS 18.2](https://www.theverge.com/2024/11/4/24288015/apple-ios-18-2-upgrade-to-chatgpt-plus-settings)
- - [Meta AI is ready for war](https://www.theverge.com/2024/11/4/24287951/meta-ai-llama-war-us-government-national-security)
- - [MAGA Influencers Are Making One Last Push for Donald Trump](https://www.wired.com/story/trump-campaign-influencers-election-day/)<!-- TECH:END -->
+ - [Apple will let you share lost AirTag info with an airline](https://www.theverge.com/2024/11/4/24288045/apple-ios-find-my-airtag-airline-luggage-temporary)
+ - [Here’s FCC Commissioner Brendan Carr sucking up to Donald Trump by threatening to take NBC off the air](https://www.theverge.com/2024/11/4/24287708/nbc-snl-kamala-harris-equal-time-rule-fcc-brendan-carr-speech-police)
+ - [Hot deals: Amazon Echo smart speakers on sale, along with free smart lights](https://www.androidauthority.com/amazon-echo-pop-dot-spot-deals-3496596/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
