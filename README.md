@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Morrigan isn&#39;t just my favourite Dragon Age character, she&#39;s the greatest fantasy RPG companion of all time](https://www.pcgamer.com/games/dragon-age/morrigan-isnt-just-my-favourite-dragon-age-character-shes-the-greatest-fantasy-rpg-companion-of-all-time)
- - [The Penguin’s production team really grew those mushrooms](https://www.polygon.com/dc/473788/penguin-mushroom-bliss-episode-real)
- - [Here&#39;s a time-devouring combination of factory-building and incremental game](https://www.pcgamer.com/games/strategy/heres-a-time-devouring-combination-of-factory-building-and-incremental-game)<!-- GAME:END -->
+ - [“Venus Vacation PRISM – DEAD OR ALIVE Xtreme -” Coming March 6th, 2025 &amp; Available for Pre-order](https://blog.playstation.com/2024/11/04/20241104-deadoralive/)
+ - [“Venus Vacation PRISM – DEAD OR ALIVE Xtreme -” Coming March 6th, 2025 &amp; Available for Pre-order](https://blog.playstation.com/2024/11/04/20241104-deadoralive/)
+ - [Morrigan isn&#39;t just my favourite Dragon Age character, she&#39;s the greatest fantasy RPG companion of all time](https://www.pcgamer.com/games/dragon-age/morrigan-isnt-just-my-favourite-dragon-age-character-shes-the-greatest-fantasy-rpg-companion-of-all-time)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
