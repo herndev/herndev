@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Volkswagens new Emergency Assist technology](http://9gag.com/gag/aryoj1d)
- - ⏩ [Darwin Award goes to\u2026](http://9gag.com/gag/a4PRvXy)
- - 👉 [I am scared, my dudes. Any advice?](http://9gag.com/gag/aVv05Zd)<!-- MEMES:END -->
+ - 💣 [R-E-S-P-E-C-T](http://9gag.com/gag/aBygpVP)
+ - ⏩ [We have food at home, and no money in the bank. Guess where we are eating?](http://9gag.com/gag/aRB0nx2)
+ - 👉 [That control is godly](http://9gag.com/gag/azx1n5q)<!-- MEMES:END -->
 
 ---
 
