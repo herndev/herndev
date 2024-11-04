@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Idiots](http://9gag.com/gag/ayNobdb)
- - ⏩ [It&#39;s like progress and gaming revolution, but backwards](http://9gag.com/gag/aND0E5A)
- - 👉 [This gentleman in China shows how far down he must go to get to his office](http://9gag.com/gag/avyoNPX)<!-- MEMES:END -->
+ - 💣 [Got married March 2024. I love my money more than her](http://9gag.com/gag/apR5OqD)
+ - ⏩ [Hhmmmmm CURIOUS](http://9gag.com/gag/aAygzWg)
+ - 👉 [Justice!](http://9gag.com/gag/aND076A)<!-- MEMES:END -->
 
 ---
 
