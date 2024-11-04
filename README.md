@@ -41,7 +41,7 @@
 <!-- TECH:START -->
  - [This Quick Share change could solve its annoying dialog problem &lpar;APK teardown&rpar;](https://www.androidauthority.com/quick-share-tile-apk-teardown-3496431/)
  - [X starts rolling out the update to let users see public posts and following and followers lists of users who block them; blocked users still can&#39;t engage or DM &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/241104/p2#a241104p2)
- - [One UI 7 could copy this Apple Intelligence feature](https://www.androidauthority.com/samsung-one-ui-7-ai-notification-summaries-3496430/)<!-- TECH:END -->
+ - [One UI 7 could arrive mid-November featuring new Apple-inspired intelligence](https://www.androidauthority.com/samsung-one-ui-7-ai-notification-summaries-3496430/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
