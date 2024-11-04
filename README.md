@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Got married March 2024. I love my money more than her](http://9gag.com/gag/apR5OqD)
- - ⏩ [Hhmmmmm CURIOUS](http://9gag.com/gag/aAygzWg)
- - 👉 [Justice!](http://9gag.com/gag/aND076A)<!-- MEMES:END -->
+ - 💣 [It&#39;s like progress and gaming revolution, but backwards](http://9gag.com/gag/aND0E5A)
+ - ⏩ [That control is godly](http://9gag.com/gag/azx1n5q)
+ - 👉 [Got married March 2024. I love my money more than her](http://9gag.com/gag/apR5OqD)<!-- MEMES:END -->
 
 ---
 
