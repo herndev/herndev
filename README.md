@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This gentleman in China shows how far down he must go to get to his office](http://9gag.com/gag/avyoNPX)
- - ⏩ [Hhmmmmm CURIOUS](http://9gag.com/gag/aAygzWg)
- - 👉 [Catfishing, but with debt](http://9gag.com/gag/aGygQm6)<!-- MEMES:END -->
+ - 💣 [Clue - people who annoys you?](http://9gag.com/gag/avyoM6W)
+ - ⏩ [That control is godly](http://9gag.com/gag/azx1n5q)
+ - 👉 [Idiots](http://9gag.com/gag/ayNobdb)<!-- MEMES:END -->
 
 ---
 
