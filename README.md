@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [\ud83c\uddee\ud83c\uddf3 A pirate explains why he REFUSES to kidnap INDIAN people\u2026](http://9gag.com/gag/agm5wE6)
- - ⏩ [Epstein didn&#39;t kill himself](http://9gag.com/gag/aMVY5pA)
- - 👉 [Somewhere in Dubai.](http://9gag.com/gag/aGygXKX)<!-- MEMES:END -->
+ - 💣 [Hhmmmmm CURIOUS](http://9gag.com/gag/aAygzWg)
+ - ⏩ [Too late](http://9gag.com/gag/aND0NKr)
+ - 👉 [Korea has a 90% CONVICTION rate, politicians united to condemn him, and NOTHING is more sacred than the Comfort Women statues. HE&#39;S DONE.](http://9gag.com/gag/aD2gvKZ)<!-- MEMES:END -->
 
 ---
 
