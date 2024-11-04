@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple will let you share lost AirTag info with an airline](https://www.theverge.com/2024/11/4/24288045/apple-ios-find-my-airtag-airline-luggage-temporary)
- - [Here’s FCC Commissioner Brendan Carr sucking up to Donald Trump by threatening to take NBC off the air](https://www.theverge.com/2024/11/4/24287708/nbc-snl-kamala-harris-equal-time-rule-fcc-brendan-carr-speech-police)
- - [Hot deals: Amazon Echo smart speakers on sale, along with free smart lights](https://www.androidauthority.com/amazon-echo-pop-dot-spot-deals-3496596/)<!-- TECH:END -->
+ - [T-Mobile to use OpenAI tech for a customer service bot slated for next year that can refer to customer-specific data, and will pay OpenAI $100M over three years &lpar;Aaron Holmes/The Information&rpar;](http://www.techmeme.com/241104/p24#a241104p24)
+ - [Palantir reports Q3 revenue up 30% YoY to $725.5M, vs. $701.1M est., and raises 2024 revenue forecast again on robust AI adoption; PLTR jumps 11%+ after hours &lpar;Arsheeya Bajwa/Reuters&rpar;](http://www.techmeme.com/241104/p23#a241104p23)
+ - [16 Best Cozy Games &lpar;2024&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-cozy-games/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
