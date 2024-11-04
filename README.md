@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Coming to Game Pass: Microsoft Flight Simulator 2024, Goat Simulator Remastered, and More](https://news.xbox.com/en-us/2024/11/04/xbox-game-pass-november-2024-wave-1/)
- - [Superman is the white whale of video game superheroes](https://www.polygon.com/gaming/471308/why-superman-games-are-bad)
- - [Ex-AMD fab GlobalFoundries has been fined $500K after admitting it shipped $17,000,000 worth of product to a company associated with China&#39;s military industrial complex](https://www.pcgamer.com/hardware/ex-amd-fab-globalfoundries-has-been-fined-usd500k-after-admitting-it-shipped-usd17-000-000-worth-of-product-to-a-company-associated-with-chinas-military-industrial-complex)<!-- GAME:END -->
+ - [Lemokey G1 review](https://www.pcgamer.com/hardware/gaming-mice/lemokey-g1-review)
+ - [Undead Labs wants to be known for more than just zombies, and State of Decay 3 could mark that changing point with &#39;a much greater level of ambition&#39;](https://www.pcgamer.com/games/survival-crafting/undead-labs-wants-to-be-known-for-more-than-just-zombies-and-state-of-decay-3-could-mark-that-changing-point-with-a-much-greater-level-of-ambition)
+ - [Be The Very Best Spiritborn You Can Be In Diablo 4: Vessel Of Hatred](https://kotaku.com/spiritborn-build-guide-diablo-4-vessel-of-hatred-1851688083)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
