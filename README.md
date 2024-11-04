@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Substance, Joker: Folie à Deux, Netflix’s Time Cut, and every movie new to streaming this week](https://www.polygon.com/entertainment/469923/new-movies-watch-streaming-the-substance-joker-2-netflix-time-cut)
- - [Another game is disappearing from Steam: Five years after its last update, Bethesda is closing its Elder Scrolls card game](https://www.pcgamer.com/games/card-games/another-game-is-disappearing-from-steam-five-years-after-its-last-update-bethesda-is-closing-its-elder-scrolls-card-game)
- - [Kotaku’s Weekend Guide: 5 Great Games We Can&#39;t Wait To Spend Time With](https://kotaku.com/kotaku-weekend-guide-dragon-age-veilguard-life-strange-1851687395)<!-- GAME:END -->
+ - [Magicraft is like Brotato mixed with Hades where you make up all your guns as you go along](https://www.pcgamer.com/games/roguelike/magicraft-is-like-brotato-mixed-with-hades-where-you-make-up-all-your-guns-as-you-go-along)
+ - [In just 3 days, the state of Nintendo Alarmo hacking went from &#39;it loads a cat jpg&#39; to &#39;it runs Doom better than a lot of PCs back in the day&#39;](https://www.pcgamer.com/games/fps/in-just-3-days-the-state-of-nintendo-alarmo-hacking-went-from-it-loads-a-cat-jpg-to-it-runs-doom-better-than-a-lot-of-pcs-back-in-the-day)
+ - [Every origin in Dragon Age: Origins, ranked](https://www.pcgamer.com/games/rpg/every-origin-in-dragon-age-origins-ranked)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
