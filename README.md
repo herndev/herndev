@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Boys will always be boys](http://9gag.com/gag/aVv0y5v)
- - ⏩ [Cherish every Moment](http://9gag.com/gag/aGygmvG)
- - 👉 [Clue - people who annoys you?](http://9gag.com/gag/avyoM6W)<!-- MEMES:END -->
+ - 💣 [This gentleman in China shows how far down he must go to get to his office](http://9gag.com/gag/avyoNPX)
+ - ⏩ [Hhmmmmm CURIOUS](http://9gag.com/gag/aAygzWg)
+ - 👉 [Catfishing, but with debt](http://9gag.com/gag/aGygQm6)<!-- MEMES:END -->
 
 ---
 
