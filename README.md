@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [“Venus Vacation PRISM – DEAD OR ALIVE Xtreme -” Coming March 6th, 2025 &amp; Available for Pre-order](https://blog.playstation.com/2024/11/04/20241104-deadoralive/)
- - [“Venus Vacation PRISM – DEAD OR ALIVE Xtreme -” Coming March 6th, 2025 &amp; Available for Pre-order](https://blog.playstation.com/2024/11/04/20241104-deadoralive/)
- - [Morrigan isn&#39;t just my favourite Dragon Age character, she&#39;s the greatest fantasy RPG companion of all time](https://www.pcgamer.com/games/dragon-age/morrigan-isnt-just-my-favourite-dragon-age-character-shes-the-greatest-fantasy-rpg-companion-of-all-time)<!-- GAME:END -->
+ - [&#39;One million street-level deals&#39; worth of methamphetamine smuggled in PC case shipment](https://www.pcgamer.com/hardware/pc-cases/one-million-street-level-deals-worth-of-methamphetamine-smuggled-in-pc-case-shipment)
+ - [Slitterhead transforms players into pawns in a parasitic proxy war](https://www.polygon.com/review/472903/slitterhead-game-review)
+ - [“Venus Vacation PRISM – DEAD OR ALIVE Xtreme -” Coming March 6th, 2025 &amp; Available for Pre-order](https://blog.playstation.com/2024/11/04/20241104-deadoralive/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
