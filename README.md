@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [X is allowing people you’ve blocked to see your posts](https://www.theverge.com/2024/11/4/24287585/x-twitter-block-change-view-public-posts)
- - [How hackers used infostealer malware to breach AT&amp;T, Ticketmaster, Santander, EA, and more, as global law enforcement tries to shut down the growing industry &lpar;Joseph Cox/Wired&rpar;](http://www.techmeme.com/241104/p14#a241104p14)
- - [The Best Gaming Headsets—We Tested Over Hundreds of Hours &lpar;2024&rpar;](https://www.wired.com/gallery/best-gaming-headsets/)<!-- TECH:END -->
+ - [The best Android phones for everyone](https://www.theverge.com/23674658/best-android-phone)
+ - [PS5 Pro’s actual specs and the launch day list of upgraded games revealed](https://www.theverge.com/2024/11/4/24287657/sony-ps5-pro-gpu-specs-unboxing-games-list-enhanced)
+ - [Best Savings Rates Today, Nov. 4, 2024: Earn More With Up to 5.25% APY](https://www.cnet.com/personal-finance/todays-best-savings-rates-nov-4-2024/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
