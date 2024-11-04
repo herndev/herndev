@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Best community note I have ever read](http://9gag.com/gag/aVv0dEK)
- - ⏩ [Hold up, wait a minute...](http://9gag.com/gag/abArdqL)
- - 👉 [Praise The Selfie Stick?](http://9gag.com/gag/aQz1BQz)<!-- MEMES:END -->
+ - 💣 [ZERO](http://9gag.com/gag/a875x6e)
+ - ⏩ [Korea has a 90% CONVICTION rate, politicians united to condemn him, and NOTHING is more sacred than the Comfort Women statues. HE&#39;S DONE.](http://9gag.com/gag/aD2gvKZ)
+ - 👉 [Penguins are a lie](http://9gag.com/gag/a6ZNg92)<!-- MEMES:END -->
 
 ---
 
