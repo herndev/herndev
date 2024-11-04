@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I have no idea anyone can do that](http://9gag.com/gag/aGygX6n)
- - ⏩ [This is Monica Keasler. The lady from Texas who made the complaints about Peanut the Squirrel and Fred the Racoon](http://9gag.com/gag/aLn077P)
- - 👉 [Your dreams for Monday](http://9gag.com/gag/a7owQDq)<!-- MEMES:END -->
+ - 💣 [I&#39;m not a girl, but...](http://9gag.com/gag/aryoj6B)
+ - ⏩ [That control is godly](http://9gag.com/gag/azx1n5q)
+ - 👉 [Japanese snack law.](http://9gag.com/gag/a34R6Re)<!-- MEMES:END -->
 
 ---
 
