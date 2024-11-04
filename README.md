@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Too late](http://9gag.com/gag/aND0NKr)
- - ⏩ [Catfishing, but with debt](http://9gag.com/gag/aGygQm6)
- - 👉 [Clue - people who annoys you?](http://9gag.com/gag/avyoM6W)<!-- MEMES:END -->
+ - ⏩ [Prehistoric times before the rat race began](http://9gag.com/gag/amo5QEv)
+ - 👉 [Nope](http://9gag.com/gag/ajP5e1Q)<!-- MEMES:END -->
 
 ---
 
