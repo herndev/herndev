@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Is Apple’s iPhone 16 Pro Good for Games?](https://www.wired.com/story/is-the-iphone-16-pro-good-for-games/)
- - [Astell &amp; Kern SP3000T review: a tube amp in your pocket](https://www.theverge.com/24285711/astell-kern-sp3000t-review-hybrid-tube-amp-dap)
- - [Can Apple innovate if iPhone remains the biggest slice of its revenues?](https://appleinsider.com/articles/24/11/04/can-apple-innovate-if-iphone-remains-the-biggest-slice-of-its-revenues?utm_medium=rss)<!-- TECH:END -->
+ - [M4 14-inch MacBook Pro vs M3 14-inch MacBook Pro compared: A portable speed boost](https://appleinsider.com/inside/macbook-pro/vs/m4-14-inch-macbook-pro-vs-m3-14-inch-macbook-pro-compared-a-portable-speed-boost?utm_medium=rss)
+ - [How to install App Store apps on an external SSD](https://appleinsider.com/inside/macos-sequoia/tips/how-to-install-app-store-apps-on-an-external-ssd?utm_medium=rss)
+ - [Raspberry Pi Touch Display 2 review: the new $60 screen is easy to build, works with the latest OS, and holds the Pi on its back, but scrolling can be awkward &lpar;Les Pounder/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/241104/p10#a241104p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
