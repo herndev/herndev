@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Oops, Apple approved another illegal streaming app](https://www.theverge.com/2024/11/4/24287574/apple-approved-illegal-streaming-app-univer-note)
- - [European regulators evaluate iPadOS changes for compliance with Digital Markets Act](https://appleinsider.com/articles/24/11/04/european-regulators-evaluate-ipados-changes-for-compliance-with-digital-markets-act?utm_medium=rss)
- - [Thunderbolt 5 vs Thunderbolt 4 -- everything you need to know](https://appleinsider.com/inside/mac/vs/thunderbolt-5-vs-thunderbolt-4----compared?utm_medium=rss)<!-- TECH:END -->
+ - [X is allowing people you’ve blocked to see your posts](https://www.theverge.com/2024/11/4/24287585/x-twitter-block-change-view-public-posts)
+ - [How hackers used infostealer malware to breach AT&amp;T, Ticketmaster, Santander, EA, and more, as global law enforcement tries to shut down the growing industry &lpar;Joseph Cox/Wired&rpar;](http://www.techmeme.com/241104/p14#a241104p14)
+ - [The Best Gaming Headsets—We Tested Over Hundreds of Hours &lpar;2024&rpar;](https://www.wired.com/gallery/best-gaming-headsets/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
