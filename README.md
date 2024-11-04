@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google TV removed its best new app, but it’ll be back soon](https://www.androidauthority.com/google-tv-freeplay-removed-3496454/)
- - [This Quick Share change could solve its annoying dialog problem &lpar;APK teardown&rpar;](https://www.androidauthority.com/quick-share-tile-apk-teardown-3496431/)
- - [MSI&#39;s New AI PCs Are an Upgrade for Professionals and Power Users](https://www.cnet.com/paid-content/news/msis-new-ai-pcs-are-an-upgrade-for-professionals-and-power-users/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple’s latest acquisition could eventually boost its lackluster Photos app](https://www.androidauthority.com/apple-is-acquiring-pixelmator-3496471/)
+ - [The US fines GlobalFoundries $500K and says it sent 74 shipments worth $17.1M to SJ Semiconductor, an affiliate of SMIC, without seeking a license &lpar;Reuters&rpar;](http://www.techmeme.com/241104/p3#a241104p3)
+ - [Tracking Elon Musk&#39;s Activities Over the Last Month Ahead of the Election](https://www.wired.com/story/elon-musk-trump-timeline/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
