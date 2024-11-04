@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Buy 1 game, get 1 50% off at Amazon for a limited time](https://www.polygon.com/sales-guide/474366/amazon-buy-1-get-half-off-metaphor-refantazio-balatro-warhammer-40k-space-marine-2)
- - [This Bug Nearly Ruined Dragon Age: The Veilguard’s Excellent Finale For Me](https://kotaku.com/dragon-age-veilguard-inquisitor-face-creator-bug-glitch-1851689128)
- - [Not content with finally getting Stardew Valley 1.6 live on all platforms, Eric Barone has piled a bunch of other new stuff on top of it in yet another big update](https://www.pcgamer.com/games/life-sim/not-content-with-finally-getting-stardew-valley-1-6-live-on-all-platforms-eric-barone-has-piled-a-bunch-of-other-new-stuff-on-top-of-it-in-yet-another-big-update)<!-- GAME:END -->
+ - [Stardew Valley has a troublesome new &#39;disappearing chickens&#39; bug, which Eric Barone is explaining away by declaring invisible coyotes are stealing them](https://www.pcgamer.com/games/life-sim/stardew-valley-has-a-troublesome-new-disappearing-chickens-bug-which-eric-barone-is-explaining-away-by-declaring-invisible-coyotes-are-stealing-them)
+ - [Should you sell your valuables in Dragon Age: The Veilguard?](https://www.polygon.com/dragon-age-veilguard-guides/474257/valuables-where-to-sell-merchant-locations)
+ - [Seven Stellar Indies To Grab During the ID@Xbox Sale](https://kotaku.com/xbox-indie-game-sale-cocoon-outer-wilds-1851689206)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
