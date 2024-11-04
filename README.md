@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [&#39;One million street-level deals&#39; worth of methamphetamine smuggled in PC case shipment](https://www.pcgamer.com/hardware/pc-cases/one-million-street-level-deals-worth-of-methamphetamine-smuggled-in-pc-case-shipment)
- - [Slitterhead transforms players into pawns in a parasitic proxy war](https://www.polygon.com/review/472903/slitterhead-game-review)
- - [“Venus Vacation PRISM – DEAD OR ALIVE Xtreme -” Coming March 6th, 2025 &amp; Available for Pre-order](https://blog.playstation.com/2024/11/04/20241104-deadoralive/)<!-- GAME:END -->
+ - [As seen in Astro Bot: 10 PlayStation VIP Bot cameos and the games that inspired them](https://blog.playstation.com/2024/11/04/as-seen-in-astro-bot-10-playstation-vip-bot-cameos-and-the-games-that-inspired-them/)
+ - [Like A Dragon: Yakuza Is A Confused, Sometimes Visionary Mess](https://kotaku.com/like-a-dragon-yakuza-series-review-amazon-1851688066)
+ - [What a difference a year makes: Nvidia&#39;s RTX 40-series share of the Steam Hardware Survey is 80% larger than this time last year but its last-gen RTX chips still rule the roost](https://www.pcgamer.com/hardware/what-a-difference-a-year-makes-nvidias-rtx-40-series-share-of-the-steam-hardware-survey-is-80-percent-larger-than-this-time-last-year-but-its-last-gen-rtx-chips-still-rule-the-roost)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
