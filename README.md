@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [I ditched Google for ChatGPT Search to find out if the grass is really greener](https://www.androidauthority.com/chatgpt-search-vs-google-3496399/)
- - [Perplexity launched a dedicated hub for the US general election, including ballot measures and voting results, while rivals like OpenAI have been more cautious &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/241103/p9#a241103p9)
- - [Here are the best Apple Watch deals right now](https://www.theverge.com/21289209/best-apple-watch-deals)<!-- TECH:END -->
+ - [Today&#39;s Wordle Hints, Answer and Help for Nov. 4, #1234](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-nov-4-1234/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Connections Hints, Answers and Help for Nov. 4, #512](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-nov-4-512/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Nov. 4, #42](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-nov-4-42/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
