@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [YouTube on Android TV throws creators a bone with big honkin’ subscribe button](https://www.androidauthority.com/youtube-subscribe-button-3496587/)
- - [Elon Musk’s PAC admits $1 million voter giveaways aren’t ‘random’](https://www.theverge.com/2024/11/4/24287952/elon-musk-philadelphia-america-pac-hearing-random)
- - [Apple Intelligence feature testing continues in a fresh beta round](https://appleinsider.com/articles/24/11/04/apple-intelligence-feature-testing-continues-in-a-fresh-beta-round?utm_medium=rss)<!-- TECH:END -->
+ - [Apple will let you upgrade to ChatGPT Plus right from Settings in iOS 18.2](https://www.theverge.com/2024/11/4/24288015/apple-ios-18-2-upgrade-to-chatgpt-plus-settings)
+ - [Meta AI is ready for war](https://www.theverge.com/2024/11/4/24287951/meta-ai-llama-war-us-government-national-security)
+ - [MAGA Influencers Are Making One Last Push for Donald Trump](https://www.wired.com/story/trump-campaign-influencers-election-day/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
