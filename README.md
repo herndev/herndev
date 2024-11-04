@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta confirms it has made Llama models available for US national security applications, with partners like Anduril, Booz Allen, Lockheed Martin using Llama AI &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/241104/p16#a241104p16)
- - [Can Philadelphia’s ballot counters outrun election lies?](https://www.theverge.com/2024/11/4/24285822/philadelphia-mail-in-ballot-counting-machines-misinformation)
- - [How to use a VPN to get the best travel deals](https://appleinsider.com/inside/ios/tips/how-to-use-a-vpn-to-get-the-best-travel-deals?utm_medium=rss)<!-- TECH:END -->
+ - [YouTube on Android TV throws creators a bone with big honkin’ subscribe button](https://www.androidauthority.com/youtube-subscribe-button-3496587/)
+ - [Elon Musk’s PAC admits $1 million voter giveaways aren’t ‘random’](https://www.theverge.com/2024/11/4/24287952/elon-musk-philadelphia-america-pac-hearing-random)
+ - [Apple Intelligence feature testing continues in a fresh beta round](https://appleinsider.com/articles/24/11/04/apple-intelligence-feature-testing-continues-in-a-fresh-beta-round?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
