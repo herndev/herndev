@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple’s latest acquisition could eventually boost its lackluster Photos app](https://www.androidauthority.com/apple-is-acquiring-pixelmator-3496471/)
- - [The US fines GlobalFoundries $500K and says it sent 74 shipments worth $17.1M to SJ Semiconductor, an affiliate of SMIC, without seeking a license &lpar;Reuters&rpar;](http://www.techmeme.com/241104/p3#a241104p3)
- - [Tracking Elon Musk&#39;s Activities Over the Last Month Ahead of the Election](https://www.wired.com/story/elon-musk-trump-timeline/)<!-- TECH:END -->
+ - [Mario’s excellent run continues with Mario &amp; Luigi: Brothership  on the Switch](https://www.theverge.com/24287092/mario-and-luigi-brothership-review-nintendo-switch)
+ - [Shenzhen-based autonomous driving startup DeepRoute.ai raised $100M from an unnamed Chinese automaker, and plans to launch 10+ models with clients in 2025 &lpar;Reuters&rpar;](http://www.techmeme.com/241104/p6#a241104p6)
+ - [Survey shows users really miss phones with free, unlimited photo backups: Is Google listening?](https://www.androidauthority.com/unlimited-free-photo-storage-backup-survey-results-3496469/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
