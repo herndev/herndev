@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Clue - people who annoys you?](http://9gag.com/gag/avyoM6W)
- - ⏩ [That control is godly](http://9gag.com/gag/azx1n5q)
- - 👉 [Idiots](http://9gag.com/gag/ayNobdb)<!-- MEMES:END -->
+ - 💣 [\ud83c\uddee\ud83c\uddf3 A pirate explains why he REFUSES to kidnap INDIAN people\u2026](http://9gag.com/gag/agm5wE6)
+ - ⏩ [Epstein didn&#39;t kill himself](http://9gag.com/gag/aMVY5pA)
+ - 👉 [Somewhere in Dubai.](http://9gag.com/gag/aGygXKX)<!-- MEMES:END -->
 
 ---
 
