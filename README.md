@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [ZERO](http://9gag.com/gag/a875x6e)
- - ⏩ [Idiots](http://9gag.com/gag/ayNobdb)
- - 👉 [Clue - people who annoys you?](http://9gag.com/gag/avyoM6W)<!-- MEMES:END -->
+ - 💣 [Got married March 2024. I love my money more than her](http://9gag.com/gag/apR5OqD)
+ - ⏩ [Too late](http://9gag.com/gag/aND0NKr)
+ - 👉 [Catfishing, but with debt](http://9gag.com/gag/aGygQm6)<!-- MEMES:END -->
 
 ---
 
