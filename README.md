@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Robots can play the cello with an orchestra now, and that sound you can hear is the point whistling over the top of its creator&#39;s heads](https://www.pcgamer.com/hardware/robots-can-play-the-cello-with-an-orchestra-now-and-that-sound-you-can-hear-is-the-point-whistling-over-the-top-of-its-creators-heads)
- - [How to use valuables in Dragon Age: The Veilguard](https://www.pcgamer.com/games/dragon-age/veilguard-valuables-sell)
- - [Microsoft&#39;s building data centres out of wood hoping we&#39;ll forget AI&#39;s made its carbon emissions 29% higher than when it pledged to go &#39;carbon negative&#39; in 2020](https://www.pcgamer.com/software/ai/microsofts-building-data-centres-out-of-wood-hoping-well-forget-ais-made-its-carbon-emissions-29-percent-higher-than-when-it-pledged-to-go-carbon-negative-in-2020)<!-- GAME:END -->
+ - [Celebrating 20 Years of Halo 2: Developers Discuss Rebuilding Classic Maps and the Iconic Halo 2 E3 Demo](https://news.xbox.com/en-us/2024/11/04/20-years-of-halo-2-new-maps-e3-demo/)
+ - [We Looked Inside The Box Of The PS5 Pro, Sony&#39;s Most Expensive Console In Years](https://kotaku.com/ps5-pro-playstation-unboxing-inside-review-comparison-1851688605)
+ - [Make The Most Of Blizzard&#39;s Defining Class, Diablo 4&#39;s Sorcerer](https://kotaku.com/sorcerer-build-guide-diablo-4-vessel-of-hatred-1851688114)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
