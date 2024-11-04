@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [He won $25 million dollars from the lottery and found his true love 4 days later\u2026](http://9gag.com/gag/aBygAzD)
- - ⏩ [Hhmmmmm CURIOUS](http://9gag.com/gag/aAygzWg)
- - 👉 [Korea has a 90% CONVICTION rate, politicians united to condemn him, and NOTHING is more sacred than the Comfort Women statues. HE&#39;S DONE.](http://9gag.com/gag/aD2gvKZ)<!-- MEMES:END -->
+ - 💣 [Idiots](http://9gag.com/gag/ayNobdb)
+ - ⏩ [It&#39;s like progress and gaming revolution, but backwards](http://9gag.com/gag/aND0E5A)
+ - 👉 [This gentleman in China shows how far down he must go to get to his office](http://9gag.com/gag/avyoNPX)<!-- MEMES:END -->
 
 ---
 
