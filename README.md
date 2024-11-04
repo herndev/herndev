@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [ZERO](http://9gag.com/gag/a875x6e)
- - ⏩ [Korea has a 90% CONVICTION rate, politicians united to condemn him, and NOTHING is more sacred than the Comfort Women statues. HE&#39;S DONE.](http://9gag.com/gag/aD2gvKZ)
- - 👉 [Penguins are a lie](http://9gag.com/gag/a6ZNg92)<!-- MEMES:END -->
+ - ⏩ [Idiots](http://9gag.com/gag/ayNobdb)
+ - 👉 [Clue - people who annoys you?](http://9gag.com/gag/avyoM6W)<!-- MEMES:END -->
 
 ---
 
