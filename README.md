@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Mario’s excellent run continues with Mario &amp; Luigi: Brothership  on the Switch](https://www.theverge.com/24287092/mario-and-luigi-brothership-review-nintendo-switch)
- - [Shenzhen-based autonomous driving startup DeepRoute.ai raised $100M from an unnamed Chinese automaker, and plans to launch 10+ models with clients in 2025 &lpar;Reuters&rpar;](http://www.techmeme.com/241104/p6#a241104p6)
- - [Survey shows users really miss phones with free, unlimited photo backups: Is Google listening?](https://www.androidauthority.com/unlimited-free-photo-storage-backup-survey-results-3496469/)<!-- TECH:END -->
+ - [Is Apple’s iPhone 16 Pro Good for Games?](https://www.wired.com/story/is-the-iphone-16-pro-good-for-games/)
+ - [Astell &amp; Kern SP3000T review: a tube amp in your pocket](https://www.theverge.com/24285711/astell-kern-sp3000t-review-hybrid-tube-amp-dap)
+ - [Can Apple innovate if iPhone remains the biggest slice of its revenues?](https://appleinsider.com/articles/24/11/04/can-apple-innovate-if-iphone-remains-the-biggest-slice-of-its-revenues?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
