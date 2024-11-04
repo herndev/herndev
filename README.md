@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Stardew Valley has a troublesome new &#39;disappearing chickens&#39; bug, which Eric Barone is explaining away by declaring invisible coyotes are stealing them](https://www.pcgamer.com/games/life-sim/stardew-valley-has-a-troublesome-new-disappearing-chickens-bug-which-eric-barone-is-explaining-away-by-declaring-invisible-coyotes-are-stealing-them)
- - [Should you sell your valuables in Dragon Age: The Veilguard?](https://www.polygon.com/dragon-age-veilguard-guides/474257/valuables-where-to-sell-merchant-locations)
- - [Seven Stellar Indies To Grab During the ID@Xbox Sale](https://kotaku.com/xbox-indie-game-sale-cocoon-outer-wilds-1851689206)<!-- GAME:END -->
+ - [Dragon Age boss says a Legendary Edition-style remaster of the old games in the series is unlikely because there&#39;s &#39;maybe 20 people left at BioWare&#39; who know how their engine works](https://www.pcgamer.com/games/rpg/dragon-age-boss-says-a-legendary-edition-style-remaster-of-the-old-games-in-the-series-is-unlikely-because-theres-maybe-20-people-left-at-bioware-who-know-how-their-engine-works)
+ - [Hideo Kojima Thinks People Are Wrong About Joker 2 And Will Realize It Decades Later](https://kotaku.com/hideo-kojima-joker-2-review-20-years-folie-a-deux-movie-1851689218)
+ - [Stardew Valley has a troublesome new &#39;disappearing chickens&#39; bug, which Eric Barone is explaining away by declaring invisible coyotes are stealing them](https://www.pcgamer.com/games/life-sim/stardew-valley-has-a-troublesome-new-disappearing-chickens-bug-which-eric-barone-is-explaining-away-by-declaring-invisible-coyotes-are-stealing-them)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
