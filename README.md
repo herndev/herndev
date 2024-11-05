@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Can Surskit be shiny in Pokémon Go?](https://www.polygon.com/pokemon-go-guide/474181/can-surskit-be-shiny-masquerain)
- - [The long promised online co-op update for The Binding of Isaac Rebirth is only weeks away](https://www.pcgamer.com/games/roguelike/the-long-promised-online-co-op-update-for-the-binding-of-isaac-rebirth-is-only-weeks-away)
- - [Today&#39;s Wordle answer for Tuesday, November 5](https://www.pcgamer.com/games/puzzle/wordle-answer-today-november-5-2024)<!-- GAME:END -->
+ - [It&#39;s the end of an era: Nvidia replaces Intel in a key Dow Jones index, as Team Blue&#39;s fortunes tumble](https://www.pcgamer.com/hardware/processors/its-the-end-of-an-era-nvidia-replaces-intel-in-a-key-dow-jones-index-as-team-blues-fortunes-tumble)
+ - [MSI’s huge Black Friday monitor discounts will net you a new screen for less](https://www.pcgamer.com/hardware/gaming-monitors/msis-huge-black-friday-monitor-discounts-will-net-you-a-new-screen-for-less)
+ - [Can Surskit be shiny in Pokémon Go?](https://www.polygon.com/pokemon-go-guide/474181/can-surskit-be-shiny-masquerain)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
