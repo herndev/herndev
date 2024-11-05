@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Metal Slug Tactics review](https://www.pcgamer.com/games/strategy/metal-slug-tactics-review)
- - [Early PlayStation 5 Pro shipments reveal some big upgrades over the original but that AMD GPU isn&#39;t quite what I was expecting](https://www.pcgamer.com/hardware/early-playstation-5-pro-shipments-reveal-some-big-upgrades-over-the-original-but-that-amd-gpu-isnt-quite-what-i-was-expecting)
- - [Nintendo has no plans to fast-track Switch 2 announcement as Switch sales fall fast](https://www.polygon.com/news/474643/nintendo-switch-2-announcement-no-change)<!-- GAME:END -->
+ - [Dragon Age: The Veilguard Warden Vault solution—How to open the locks](https://www.pcgamer.com/games/dragon-age/veilguard-warden-vault-open-the-locks)
+ - [What to stream to escape the news cycle for the next 24 hours](https://www.polygon.com/what-to-watch/474336/election-day-streaming-recommendations)
+ - [Revel In The Horror Of Death With Diablo 4&#39;s Ultimate Necromancer](https://kotaku.com/necromancer-build-guide-diablo-4-vessel-of-hatred-1851688127)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
