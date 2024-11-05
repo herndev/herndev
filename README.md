@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Somewhere in Dubai.](http://9gag.com/gag/aGygXKX)
- - ⏩ [Wrong number](http://9gag.com/gag/aZZ7OXV)
- - 👉 [Hello ?](http://9gag.com/gag/aKGdRYQ)<!-- MEMES:END -->
+ - 💣 [Dublin Justice WWE Style](http://9gag.com/gag/a2vR3WE)
+ - ⏩ [Hello ?](http://9gag.com/gag/aKGdRYQ)
+ - 👉 [AI needs to stop messing with our memes.](http://9gag.com/gag/aND0EEv)<!-- MEMES:END -->
 
 ---
 
