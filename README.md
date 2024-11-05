@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Poll result: YouTube Music radio has some really, really passionate fans](https://www.androidauthority.com/youtube-music-radio-poll-3496996/)
- - [Samsung Galaxy Watch 7 and Ultra deals just keep getting better!](https://www.androidauthority.com/samsung-galaxy-watch-7-ultra-deals-2-3496998/)
- - [Sources: Apple has asked Foxconn to produce AI servers in Taiwan using Apple silicon, but Foxconn&#39;s capacity is limited by demand for Nvidia&#39;s GB200 servers &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/241105/p17#a241105p17)<!-- TECH:END -->
+ - [EU might fine Apple for failure to comply with DMA, for real this time](https://appleinsider.com/articles/24/11/05/eu-might-fine-apple-for-failure-to-comply-with-dma-for-real-this-time?utm_medium=rss)
+ - [Pay once and forget it: These three US carriers can save you $250 or more if you pay annually](https://www.androidauthority.com/annual-prepaid-plan-3496983/)
+ - [Sources: Perplexity is finalizing a $500M funding round led by IVP that would value it at $9B, triple its reported valuation from just a few months ago &lpar;Berber Jin/Wall Street Journal&rpar;](http://www.techmeme.com/241105/p20#a241105p20)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
