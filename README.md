@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [WD Blue SN5000 4TB NVMe SSD review](https://www.pcgamer.com/hardware/ssds/wd-blue-sn5000-4tb-nvme-ssd-review)
- - [Stardew Valley&#39;s latest update added a &#39;secret, experimental mobile multiplayer&#39; mode, and you have to use the Konami code on a bunch of leaves to unlock it](https://www.pcgamer.com/games/life-sim/stardew-valleys-latest-update-added-a-secret-experimental-mobile-multiplayer-mode-and-you-have-to-use-the-konami-code-on-a-bunch-of-leaves-to-unlock-it)
- - [‘Secret’ multiplayer mode added to Stardew Valley on mobile](https://www.polygon.com/news/474732/stardew-valley-1-6-multiplayer-mode-mobile-ios-android)<!-- GAME:END -->
+ - [Wake Up To Hell: Someone Got Doom Running On Nintendo&#39;s Alarm Clock](https://kotaku.com/doom-alarmo-nintendo-alarm-clock-hack-modder-usb-id-pc-1851690005)
+ - [Pokémon Fan Calculates How Long It Will Take To Collect Every Card In TCG Pocket](https://kotaku.com/pokemon-tcg-pocket-hidden-cards-odds-wonder-pick-1851689974)
+ - [Pokémon TCG Pocket Can Be Deeply Confusing At First, So Here Are The Basics](https://kotaku.com/pokemon-tcg-pocket-guide-how-to-get-cards-1851689908)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
