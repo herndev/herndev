@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Mozambique 04NOV24. Population rioting indoors. Army is shooting to kill. Government cut down social media, they dont want the world to know. Help me making it viral. Also VODAFONE, cut down internet, to help the government, what a selfish company. MAKE IT VIRAL](http://9gag.com/gag/azxm7eN)
- - ⏩ [This time it will be different!](http://9gag.com/gag/aQz1Y82)
- - 👉 [Today](http://9gag.com/gag/aryoPwy)<!-- MEMES:END -->
+ - 💣 [The Process of Filling Pills. Pharmaceutical.](http://9gag.com/gag/aqygq4Y)
+ - ⏩ [Your dreams for Monday](http://9gag.com/gag/a7owQDq)
+ - 👉 [This water slide from the Netherlands](http://9gag.com/gag/aZZ7GB3)<!-- MEMES:END -->
 
 ---
 
