@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Android 16 is coming early, and we may already know exactly when](https://www.androidauthority.com/android-16-date-3496944/)
- - [US Mobile CEO speaks out against Google and is giving up to $1500 to dedicated fans in the process](https://www.androidauthority.com/us-mobile-ad-program-3496959/)
- - [Misleading ‘pro-Harris’ texts are bombarding swing state voters](https://www.theverge.com/2024/11/5/24288263/harris-texts-israel-gaza-michigan-pennsylvania)<!-- TECH:END -->
+ - [Apple’s next iPad Air could have a higher refresh rate, but we’re not so sure](https://www.androidauthority.com/apple-ipad-air-refresh-rate-3496965/)
+ - [The hyperloop lives on as a 1/12th scale model in Switzerland](https://www.theverge.com/2024/11/5/24288954/hyperloop-swisspod-test-worlds-longest-scale-model)
+ - [Toyota mounted five big-screen TVs to this Tundra truck](https://www.theverge.com/2024/11/5/24288874/toyota-ultimate-tailgate-tundra-sema-2024-concept-tvs)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
