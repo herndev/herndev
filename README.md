@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Judge jails woman after laughing at victims family in court](http://9gag.com/gag/aPARbYK)
- - ⏩ [A new format is being born.](http://9gag.com/gag/aRB0Yey)
- - 👉 [The Process of Filling Pills. Pharmaceutical.](http://9gag.com/gag/aqygq4Y)<!-- MEMES:END -->
+ - 💣 [Roma aeterna](http://9gag.com/gag/ayNoG8p)
+ - ⏩ [Hhmmmmm CURIOUS](http://9gag.com/gag/aAygzWg)
+ - 👉 [A new format is being born.](http://9gag.com/gag/aRB0Yey)<!-- MEMES:END -->
 
 ---
 
