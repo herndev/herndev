@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Future felon](http://9gag.com/gag/a9yRQZK)
- - ⏩ [This gentleman in China shows how far down he must go to get to his office](http://9gag.com/gag/avyoNPX)
- - 👉 [This water slide from the Netherlands](http://9gag.com/gag/aZZ7GB3)<!-- MEMES:END -->
+ - 💣 [Mozambique 04NOV24. Population rioting indoors. Army is shooting to kill. Government cut down social media, they dont want the world to know. Help me making it viral. Also VODAFONE, cut down internet, to help the government, what a selfish company. MAKE IT VIRAL](http://9gag.com/gag/azxm7eN)
+ - ⏩ [In your gaming history, what was the most WTF game mechanic or design that you ever encountered ?](http://9gag.com/gag/aZZyqPQ)
+ - 👉 [Inflation, Shrinkflation, Emptyflation](http://9gag.com/gag/aE0gLbO)<!-- MEMES:END -->
 
 ---
 
