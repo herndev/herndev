@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Degeneration](http://9gag.com/gag/aRB0xW2)
- - ⏩ [Future felon](http://9gag.com/gag/a9yRQZK)
- - 👉 [Me: Is my crush thinking about me? Her:\u2026](http://9gag.com/gag/aYQ79zq)<!-- MEMES:END -->
+ - 💣 [In 2016, an Egyptian man wearing an explosive belt hijacked a plane. A British passenger onboard asked him for a photo.](http://9gag.com/gag/aBygDGA)
+ - ⏩ [And is this good or bad?](http://9gag.com/gag/aAygnZp)
+ - 👉 [Goal ?](http://9gag.com/gag/abAr9Q8)<!-- MEMES:END -->
 
 ---
 
