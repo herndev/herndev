@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [It&#39;s the end of an era: Nvidia replaces Intel in a key Dow Jones index, as Team Blue&#39;s fortunes tumble](https://www.pcgamer.com/hardware/processors/its-the-end-of-an-era-nvidia-replaces-intel-in-a-key-dow-jones-index-as-team-blues-fortunes-tumble)
- - [MSI’s huge Black Friday monitor discounts will net you a new screen for less](https://www.pcgamer.com/hardware/gaming-monitors/msis-huge-black-friday-monitor-discounts-will-net-you-a-new-screen-for-less)
- - [Can Surskit be shiny in Pokémon Go?](https://www.polygon.com/pokemon-go-guide/474181/can-surskit-be-shiny-masquerain)<!-- GAME:END -->
+ - [In Elden Ring, dragons are three-dimensional characters](https://www.polygon.com/analysis/471742/elden-ring-video-game-dragons)
+ - [Tears of the Kingdom’s Light Dragon can teach you a lot about Zelda’s legacy](https://www.polygon.com/gaming/472430/zelda-tears-of-the-kingdom-light-dragon-lore)
+ - [You can use this website to learn the meaning of every Skyrim dragon’s name](https://www.polygon.com/gaming/472734/skyrim-dragon-names-rotmulaag-thuum-org)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
