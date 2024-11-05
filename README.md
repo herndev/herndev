@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Wake Up To Hell: Someone Got Doom Running On Nintendo&#39;s Alarm Clock](https://kotaku.com/doom-alarmo-nintendo-alarm-clock-hack-modder-usb-id-pc-1851690005)
- - [Pokémon Fan Calculates How Long It Will Take To Collect Every Card In TCG Pocket](https://kotaku.com/pokemon-tcg-pocket-hidden-cards-odds-wonder-pick-1851689974)
- - [Pokémon TCG Pocket Can Be Deeply Confusing At First, So Here Are The Basics](https://kotaku.com/pokemon-tcg-pocket-guide-how-to-get-cards-1851689908)<!-- GAME:END -->
+ - [M. Night Shyamalan’s Trap isn’t about the twist — it’s about what women get from true crime stories](https://www.polygon.com/movies/474770/m-night-shyamalan-trap-ending-explained-analysis)
+ - [All the suave assassins in Dragon Age: The Veilguard are actually even cooler in Tevinter Nights](https://www.pcgamer.com/games/dragon-age/all-the-suave-assassins-in-dragon-age-the-veilguard-are-actually-even-cooler-in-tevinter-nights)
+ - [Dragon Age Has Always Been Gay As Hell](https://kotaku.com/dragon-age-veilguard-gay-trans-non-binary-romance-1851690152)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
