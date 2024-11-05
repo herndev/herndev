@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Dublin Justice WWE Style](http://9gag.com/gag/a2vR3WE)
- - ⏩ [Hello ?](http://9gag.com/gag/aKGdRYQ)
- - 👉 [AI needs to stop messing with our memes.](http://9gag.com/gag/aND0EEv)<!-- MEMES:END -->
+ - 💣 [The Process of Filling Pills. Pharmaceutical.](http://9gag.com/gag/aqygq4Y)
+ - ⏩ [Me: Is my crush thinking about me? Her:\u2026](http://9gag.com/gag/aYQ79zq)
+ - 👉 [Absolutely Chad](http://9gag.com/gag/aZZ7e23)<!-- MEMES:END -->
 
 ---
 
