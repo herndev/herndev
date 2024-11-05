@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [It&#39;s like progress and gaming revolution, but backwards](http://9gag.com/gag/aND0E5A)
+ - 💣 [Too late](http://9gag.com/gag/aND0NKr)
  - ⏩ [Would you find out?](http://9gag.com/gag/aRB0bp2)
- - 👉 [Roma aeterna](http://9gag.com/gag/ayNoG8p)<!-- MEMES:END -->
+ - 👉 [The Process of Filling Pills. Pharmaceutical.](http://9gag.com/gag/aqygq4Y)<!-- MEMES:END -->
 
 ---
 
