@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Alexa at 10: Amazon’s assistant is a winner and a failure](https://www.theverge.com/2024/11/5/24288352/amazon-alexa-anniversary-ai-llm-assistant-vergecast)
- - [Best Riding Mowers for 2024](https://www.cnet.com/news/best-riding-mowers/#ftag=CAD590a51e)
- - [The Best Online Gift Cards and Digital Gift Ideas &lpar;2024&rpar;](https://www.wired.com/story/gift-cards-and-digital-gift-ideas/)<!-- TECH:END -->
+ - [There are already Thunderbolt 5 devices &amp; cables for Apple&#39;s new pro Macs](https://appleinsider.com/articles/24/11/05/there-are-already-thunderbolt-5-devices-cables-for-apples-new-pro-macs?utm_medium=rss)
+ - [Holiday gift guide 2024: best gifts for the Apple lovers in your life](https://appleinsider.com/articles/24/11/05/holiday-gift-guide-2024-best-gifts-for-the-apple-lovers-in-your-life?utm_medium=rss)
+ - [The first wooden satellite launched into space](https://www.theverge.com/2024/11/5/24288643/first-wood-satellite-launch-spacex-international-space-station)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
