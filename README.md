@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [In Elden Ring, dragons are three-dimensional characters](https://www.polygon.com/analysis/471742/elden-ring-video-game-dragons)
- - [Tears of the Kingdom’s Light Dragon can teach you a lot about Zelda’s legacy](https://www.polygon.com/gaming/472430/zelda-tears-of-the-kingdom-light-dragon-lore)
- - [You can use this website to learn the meaning of every Skyrim dragon’s name](https://www.polygon.com/gaming/472734/skyrim-dragon-names-rotmulaag-thuum-org)<!-- GAME:END -->
+ - [Metal Slug Tactics review](https://www.pcgamer.com/games/strategy/metal-slug-tactics-review)
+ - [Early PlayStation 5 Pro shipments reveal some big upgrades over the original but that AMD GPU isn&#39;t quite what I was expecting](https://www.pcgamer.com/hardware/early-playstation-5-pro-shipments-reveal-some-big-upgrades-over-the-original-but-that-amd-gpu-isnt-quite-what-i-was-expecting)
+ - [Nintendo has no plans to fast-track Switch 2 announcement as Switch sales fall fast](https://www.polygon.com/news/474643/nintendo-switch-2-announcement-no-change)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
