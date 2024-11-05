@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Guessing Game](http://9gag.com/gag/adB53yB)
- - ⏩ [I agree with Her.](http://9gag.com/gag/abAr9Gp)
- - 👉 [POV: working from home](http://9gag.com/gag/a34R9KQ)<!-- MEMES:END -->
+ - 💣 [Degeneration](http://9gag.com/gag/aRB0xW2)
+ - ⏩ [Future felon](http://9gag.com/gag/a9yRQZK)
+ - 👉 [Me: Is my crush thinking about me? Her:\u2026](http://9gag.com/gag/aYQ79zq)<!-- MEMES:END -->
 
 ---
 
