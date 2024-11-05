@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Looking back on 15 years of Dragon Age reviews—including that Dragon Age 2 score we&#39;ve never stopped defending](https://www.pcgamer.com/games/dragon-age/looking-back-on-15-years-of-dragon-age-reviews-including-that-dragon-age-2-score-weve-never-stopped-defending)
- - [Dragon Age: The Veilguard&#39;s first mods fulfil the creators&#39; true intention of letting you play as Nigel Thornberry, but spit on all that is good and decent by making everything less magenta](https://www.pcgamer.com/games/dragon-age/dragon-age-the-veilguards-first-mods-fulfil-the-creators-true-intention-of-letting-you-play-as-nigel-thornberry-but-spit-on-all-that-is-good-and-decent-by-making-everything-less-magenta)
- - [Dragon Age: The Veilguard’s First Patch Will Fix One Of The Game’s Biggest Problems](https://kotaku.com/dragon-age-veilguard-patch-notes-custom-inquisitor-face-1851689815)<!-- GAME:END -->
+ - [WD Blue SN5000 4TB NVMe SSD review](https://www.pcgamer.com/hardware/ssds/wd-blue-sn5000-4tb-nvme-ssd-review)
+ - [Stardew Valley&#39;s latest update added a &#39;secret, experimental mobile multiplayer&#39; mode, and you have to use the Konami code on a bunch of leaves to unlock it](https://www.pcgamer.com/games/life-sim/stardew-valleys-latest-update-added-a-secret-experimental-mobile-multiplayer-mode-and-you-have-to-use-the-konami-code-on-a-bunch-of-leaves-to-unlock-it)
+ - [‘Secret’ multiplayer mode added to Stardew Valley on mobile](https://www.polygon.com/news/474732/stardew-valley-1-6-multiplayer-mode-mobile-ios-android)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
