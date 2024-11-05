@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Dragon Age: The Veilguard Warden Vault solution—How to open the locks](https://www.pcgamer.com/games/dragon-age/veilguard-warden-vault-open-the-locks)
- - [What to stream to escape the news cycle for the next 24 hours](https://www.polygon.com/what-to-watch/474336/election-day-streaming-recommendations)
- - [Revel In The Horror Of Death With Diablo 4&#39;s Ultimate Necromancer](https://kotaku.com/necromancer-build-guide-diablo-4-vessel-of-hatred-1851688127)<!-- GAME:END -->
+ - [Deadlock players have finally figured out that Grey Talon is good, actually, only for Valve to dish out a little nerf](https://www.pcgamer.com/games/moba/deadlock-players-have-finally-figured-out-that-grey-talon-is-good-actually-only-for-valve-to-dish-out-a-little-nerf)
+ - [Pokémon TCG Pocket Launches Its First Drop Event, But There&#39;s A Catch](https://kotaku.com/pokemon-tcg-pocket-lapras-drop-event-gacha-1851689506)
+ - [Nintendo Swears Its Switch 2 Announcement Plans Haven&#39;t Changed With the Console Still MIA](https://kotaku.com/nintendo-switch-2-announcement-date-pokemon-legends-z-a-1851689577)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
