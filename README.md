@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Have too many games on your phone? Google Play could help you continue playing &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-play-continue-playing-apk-3496826/)
- - [French judicial source: investigators searched Netflix&#39;s offices in France and the Netherlands as part of a preliminary investigation into tax fraud laundering &lpar;Reuters&rpar;](http://www.techmeme.com/241105/p8#a241105p8)
- - [The Follow-Up to One of 2024’s Best Games May Never Happen](https://www.wired.com/story/the-follow-up-to-one-of-2024s-best-games-may-never-happen/)<!-- TECH:END -->
+ - [Alexa at 10: Amazon’s assistant is a winner and a failure](https://www.theverge.com/2024/11/5/24288352/amazon-alexa-anniversary-ai-llm-assistant-vergecast)
+ - [Best Riding Mowers for 2024](https://www.cnet.com/news/best-riding-mowers/#ftag=CAD590a51e)
+ - [The Best Online Gift Cards and Digital Gift Ideas &lpar;2024&rpar;](https://www.wired.com/story/gift-cards-and-digital-gift-ideas/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
