@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Volkswagens new Emergency Assist technology](http://9gag.com/gag/aryoj1d)
- - ⏩ [Title](http://9gag.com/gag/agm5P4W)
- - 👉 [Japanese snack law.](http://9gag.com/gag/a34R6Re)<!-- MEMES:END -->
+ - 💣 [Roma aeterna](http://9gag.com/gag/ayNoG8p)
+ - ⏩ [Darwin Award goes to\u2026](http://9gag.com/gag/a4PRvXy)
+ - 👉 [A new format is being born.](http://9gag.com/gag/aRB0Yey)<!-- MEMES:END -->
 
 ---
 
