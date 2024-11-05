@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Perplexity CEO Aravind Srinivas says his offer to help NYT was &quot;to provide technical infra support&quot; and &quot;not to replace journalists or engineers&quot; after pushback &lpar;Devin Coldewey/TechCrunch&rpar;](http://www.techmeme.com/241105/p1#a241105p1)
  - [Report: The Pixel 9 Pro XL was a top sales performer in the US](https://www.androidauthority.com/report-google-pixel-9-pro-xl-top-seller-3495722/)
- - [B&amp;H launches holiday deals on Apple with discounts up to $600 off](https://appleinsider.com/articles/24/11/05/bh-launches-holiday-deals-on-apple-with-discounts-up-to-600-off?utm_medium=rss)
- - [Google, Temasek, and Bain: online spending in Southeast Asia will reach $263B in 2024, up 15% YoY, the lowest growth rate since at least 2017, amid inflation &lpar;Olivia Poh/Bloomberg&rpar;](http://www.techmeme.com/241104/p35#a241104p35)<!-- TECH:END -->
+ - [B&amp;H launches holiday deals on Apple with discounts up to $600 off](https://appleinsider.com/articles/24/11/05/bh-launches-holiday-deals-on-apple-with-discounts-up-to-600-off?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
