@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Your dreams for Monday](http://9gag.com/gag/a7owQDq)
- - ⏩ [A new format is being born.](http://9gag.com/gag/aRB0Yey)
- - 👉 [Hhmmmmm CURIOUS](http://9gag.com/gag/aAygzWg)<!-- MEMES:END -->
+ - 💣 [Volkswagens new Emergency Assist technology](http://9gag.com/gag/aryoj1d)
+ - ⏩ [Title](http://9gag.com/gag/agm5P4W)
+ - 👉 [Japanese snack law.](http://9gag.com/gag/a34R6Re)<!-- MEMES:END -->
 
 ---
 
