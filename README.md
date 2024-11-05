@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The Process of Filling Pills. Pharmaceutical.](http://9gag.com/gag/aqygq4Y)
- - ⏩ [Your dreams for Monday](http://9gag.com/gag/a7owQDq)
- - 👉 [This water slide from the Netherlands](http://9gag.com/gag/aZZ7GB3)<!-- MEMES:END -->
+ - 💣 [Carving, what a beautiful hobby](http://9gag.com/gag/a4PRvPd)
+ - ⏩ [Guessing Game](http://9gag.com/gag/adB53yB)
+ - 👉 [POV: working from home](http://9gag.com/gag/a34R9KQ)<!-- MEMES:END -->
 
 ---
 
