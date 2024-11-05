@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Voting tech isn’t perfect, but so far it’s holding up](https://www.theverge.com/2024/11/5/24288940/election-day-voting-machines)
- - [How FTC Chair Lina Khan became a US election hot topic, drawing increasing vitriol as the presidential vote neared; Trump is expected to replace Khan if he wins &lpar;New York Times&rpar;](http://www.techmeme.com/241105/p15#a241105p15)
- - [This Google election conspiracy theory doesn’t hold up](https://www.theverge.com/2024/11/5/24289025/google-election-conspiracy-theory-harris-trump-where-can-i-vote-for-elon-musk)<!-- TECH:END -->
+ - [Poll result: YouTube Music radio has some really, really passionate fans](https://www.androidauthority.com/youtube-music-radio-poll-3496996/)
+ - [Samsung Galaxy Watch 7 and Ultra deals just keep getting better!](https://www.androidauthority.com/samsung-galaxy-watch-7-ultra-deals-2-3496998/)
+ - [Sources: Apple has asked Foxconn to produce AI servers in Taiwan using Apple silicon, but Foxconn&#39;s capacity is limited by demand for Nvidia&#39;s GB200 servers &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/241105/p17#a241105p17)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
