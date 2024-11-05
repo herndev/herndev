@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Hori’s officially licensed Steam controller is coming to the US](https://www.theverge.com/2024/11/5/24288729/hori-official-steam-controller-us-release-date-pricing)
- - [GlobalFoundries reports Q3 revenue down 6% YoY to $1.7B and expects Q4 revenue of $1.8B-$1.85B, vs. $1.8B est., driven by smartphone chip demand; GFS jumps 11%+ &lpar;Harshita Mary Varghese/Reuters&rpar;](http://www.techmeme.com/241105/p11#a241105p11)
- - [Halloween is over, but Galaxy Watch owners are being haunted by phantom vibrations](https://www.androidauthority.com/galaxy-watch-phantom-vibrations-3496876/)<!-- TECH:END -->
+ - [Hisense’s U6N TV is an even better value now that it’s hit an all-time low](https://www.theverge.com/2024/11/5/24287830/hisense-u6n-series-google-tv-55-inch-deal-sale)
+ - [Is this image real? WhatsApp’s new feature will tell you](https://www.androidauthority.com/whatsapp-reverse-image-search-feature-3496922/)
+ - [In its annual report, Apple warns of future products perhaps never exceeding the iPhone&#39;s profitability, &quot;geopolitical tensions&quot;, and AI features&#39; safety risks &lpar;Financial Times&rpar;](http://www.techmeme.com/241105/p13#a241105p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
