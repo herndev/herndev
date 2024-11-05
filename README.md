@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Justice!](http://9gag.com/gag/aND076A)
- - ⏩ [Got married March 2024. I love my money more than her](http://9gag.com/gag/apR5OqD)
- - 👉 [The Process of Filling Pills. Pharmaceutical.](http://9gag.com/gag/aqygq4Y)<!-- MEMES:END -->
+ - 💣 [Title](http://9gag.com/gag/agm5P4W)
+ - ⏩ [Hail your new god](http://9gag.com/gag/aYQ78Pv)
+ - 👉 [Japanese snack law.](http://9gag.com/gag/a34R6Re)<!-- MEMES:END -->
 
 ---
 
