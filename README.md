@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best Fitbits for your fitness and health](https://www.theverge.com/22982833/best-fitbit-watch-fitness-tracker)
- - [Judge declines to block Musk’s $1 million voter giveaways](https://www.theverge.com/2024/11/4/24288183/musk-million-dollar-voter-giveaway-america-pac-philadelphia)
- - [Source: Meta informed ad partners that it will extend its ban on new election ads for the week leading up to the election until several days after polls close &lpar;Sara Fischer/Axios&rpar;](http://www.techmeme.com/241104/p28#a241104p28)<!-- TECH:END -->
+ - [Apple News will use Live Activities to track election results live on iPhone](https://appleinsider.com/articles/24/11/04/apple-news-will-use-live-activities-to-track-election-results-live-on-iphone?utm_medium=rss)
+ - [Sources: OpenAI is in early talks with the California AG&#39;s office to become a for-profit company; letter: it also has discussed the shift with the Delaware AG &lpar;Bloomberg&rpar;](http://www.techmeme.com/241104/p30#a241104p30)
+ - [Sources: Apple is exploring a push into smart glasses with Atlas, an internal study of products currently on the market, led by its Product Systems Quality team &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/241104/p29#a241104p29)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
