@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Roma aeterna](http://9gag.com/gag/ayNoG8p)
- - ⏩ [Hhmmmmm CURIOUS](http://9gag.com/gag/aAygzWg)
- - 👉 [A new format is being born.](http://9gag.com/gag/aRB0Yey)<!-- MEMES:END -->
+ - 💣 [Your dreams for Monday](http://9gag.com/gag/a7owQDq)
+ - ⏩ [A new format is being born.](http://9gag.com/gag/aRB0Yey)
+ - 👉 [Hhmmmmm CURIOUS](http://9gag.com/gag/aAygzWg)<!-- MEMES:END -->
 
 ---
 
