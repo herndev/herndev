@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Carving, what a beautiful hobby](http://9gag.com/gag/a4PRvPd)
- - ⏩ [Guessing Game](http://9gag.com/gag/adB53yB)
+ - 💣 [Guessing Game](http://9gag.com/gag/adB53yB)
+ - ⏩ [I agree with Her.](http://9gag.com/gag/abAr9Gp)
  - 👉 [POV: working from home](http://9gag.com/gag/a34R9KQ)<!-- MEMES:END -->
 
 ---
