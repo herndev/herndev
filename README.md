@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Title](http://9gag.com/gag/agm5P4W)
- - ⏩ [Hail your new god](http://9gag.com/gag/aYQ78Pv)
- - 👉 [Japanese snack law.](http://9gag.com/gag/a34R6Re)<!-- MEMES:END -->
+ - 💣 [Me: Is my crush thinking about me? Her:\u2026](http://9gag.com/gag/aYQ79zq)
+ - ⏩ [This water slide from the Netherlands](http://9gag.com/gag/aZZ7GB3)
+ - 👉 [Future felon](http://9gag.com/gag/a9yRQZK)<!-- MEMES:END -->
 
 ---
 
