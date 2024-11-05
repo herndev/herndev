@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Musk could release Tesla Phone if Apple, Google do this](https://www.androidauthority.com/musk-tesla-phone-interview-3496754/)
- - [The Galaxy Z Fold Special Edition is even more special in this new market](https://www.androidauthority.com/samsung-w25-w25-flip-3496756/)
- - [AppGrowing: in Q3, Moonshot, Zhipu, ByteDance, Alibaba, and other Chinese AI companies spent ~$70.2M to promote their AI chatbots, as the market gets crowded &lpar;Ben Jiang/South China Morning Post&rpar;](http://www.techmeme.com/241105/p3#a241105p3)<!-- TECH:END -->
+ - [CCDH: before the election, Elon Musk made 87 X posts that were debunked by fact-checkers, hitting 2B+ views; his political posts had 17.1B views since July 2024 &lpar;Marshall Cohen/CNN&rpar;](http://www.techmeme.com/241105/p5#a241105p5)
+ - [The best PSP emulator on Android just got even better](https://www.androidauthority.com/ppsspp-1-18-update-3496763/)
+ - [The UK CMA says it would approve the &amp;pound;15B Vodafone-Three merger if they commit to investing &amp;pound;11B to upgrade the UK&#39;s network, ahead of a December 7 decision &lpar;Karin Matussek/Bloomberg&rpar;](http://www.techmeme.com/241105/p4#a241105p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
