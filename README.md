@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Hello ?](http://9gag.com/gag/aKGdRYQ)
- - ⏩ [Uh oh... Curse of Harambe wasn&#39;t enough I guess.](http://9gag.com/gag/aD2gEWx)
- - 👉 [The Process of Filling Pills. Pharmaceutical.](http://9gag.com/gag/aqygq4Y)<!-- MEMES:END -->
+ - 💣 [Japanese snack law.](http://9gag.com/gag/a34R6Re)
+ - ⏩ [Today](http://9gag.com/gag/aryoPwy)
+ - 👉 [This time it will be different!](http://9gag.com/gag/aQz1Y82)<!-- MEMES:END -->
 
 ---
 
