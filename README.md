@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Elon Musk Somehow Became A Top Ranked Diablo IV Player In Between Cheerleading For Trump](https://kotaku.com/elon-musk-diablo-4-joe-rogan-trump-election-2024-1851690062)
- - [How to obtain Mythal&#39;s essence by convincing her to help you in Dragon Age: The Veilguard](https://www.pcgamer.com/games/dragon-age/veilguard-mythal-essence-convince-recruit)
- - [Watch Some Of Smile 2 For Free By Being A Creep With Your Webcam](https://kotaku.com/smile-2-first-seven-minutes-paramount-1851690076)<!-- GAME:END -->
+ - [Sweet Lands by Uchibacoya brings a feudal anime twist to Candy Land](https://www.polygon.com/tabletop-games/474968/sweet-lands-uchibacoya-board-game-kickstarter)
+ - [Netflix Delisting Almost All Its Interactive Shows And Movies Next Month](https://kotaku.com/netflix-interactive-movies-shows-black-mirror-removed-1851690321)
+ - [Capcom, if you&#39;re listening: Monster Hunter Wilds needs its hitstop back](https://www.pcgamer.com/games/rpg/capcom-if-youre-listening-monster-hunter-wilds-needs-its-hitstop-back)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
