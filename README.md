@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [CCDH: before the election, Elon Musk made 87 X posts that were debunked by fact-checkers, hitting 2B+ views; his political posts had 17.1B views since July 2024 &lpar;Marshall Cohen/CNN&rpar;](http://www.techmeme.com/241105/p5#a241105p5)
- - [The best PSP emulator on Android just got even better](https://www.androidauthority.com/ppsspp-1-18-update-3496763/)
- - [The UK CMA says it would approve the &amp;pound;15B Vodafone-Three merger if they commit to investing &amp;pound;11B to upgrade the UK&#39;s network, ahead of a December 7 decision &lpar;Karin Matussek/Bloomberg&rpar;](http://www.techmeme.com/241105/p4#a241105p4)<!-- TECH:END -->
+ - [Sketchy rumor says iPad Air, iMac, and Studio Display could be updated to 90Hz](https://appleinsider.com/articles/24/11/05/sketchy-rumor-says-ipad-air-imac-and-studio-display-could-be-updated-to-90hz?utm_medium=rss)
+ - [Polymarket confirms paying US-based influencers, including large Instagram meme accounts, to promote election betting despite being banned in the US &lpar;Bloomberg&rpar;](http://www.techmeme.com/241105/p7#a241105p7)
+ - [TikTok Employees Shrug as the US Election Looms](https://www.wired.com/story/tiktok-ban-us-election-donald-trump-kamala-harris/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
