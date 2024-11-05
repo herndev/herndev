@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Two months after the disastrous Seekers of the Storm expansion, Gearbox details its Risk of Rain 2 rescue plan, and players are actually pretty excited](https://www.pcgamer.com/games/third-person-shooter/two-months-after-the-disastrous-seekers-of-the-storm-expansion-gearbox-details-its-risk-of-rain-2-rescue-plan-and-players-are-actually-pretty-excited)
- - [Helldivers 2 Director Open To Crossovers, But Doesn&#39;t Want To &#39;Dilute The IP&#39;](https://kotaku.com/helldivers-2-warhammer-crossover-trench-crusade-ip-ps5-1851690182)
- - [Hogwarts Legacy 2 Will Have Story Crossover With Harry Potter HBO Show](https://kotaku.com/hogwarts-legacy-2-hbo-harry-potter-tv-release-date-1851690168)<!-- GAME:END -->
+ - [Elon Musk Somehow Became A Top Ranked Diablo IV Player In Between Cheerleading For Trump](https://kotaku.com/elon-musk-diablo-4-joe-rogan-trump-election-2024-1851690062)
+ - [How to obtain Mythal&#39;s essence by convincing her to help you in Dragon Age: The Veilguard](https://www.pcgamer.com/games/dragon-age/veilguard-mythal-essence-convince-recruit)
+ - [Watch Some Of Smile 2 For Free By Being A Creep With Your Webcam](https://kotaku.com/smile-2-first-seven-minutes-paramount-1851690076)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
