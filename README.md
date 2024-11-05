@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [M. Night Shyamalan’s Trap isn’t about the twist — it’s about what women get from true crime stories](https://www.polygon.com/movies/474770/m-night-shyamalan-trap-ending-explained-analysis)
- - [All the suave assassins in Dragon Age: The Veilguard are actually even cooler in Tevinter Nights](https://www.pcgamer.com/games/dragon-age/all-the-suave-assassins-in-dragon-age-the-veilguard-are-actually-even-cooler-in-tevinter-nights)
- - [Dragon Age Has Always Been Gay As Hell](https://kotaku.com/dragon-age-veilguard-gay-trans-non-binary-romance-1851690152)<!-- GAME:END -->
+ - [Two months after the disastrous Seekers of the Storm expansion, Gearbox details its Risk of Rain 2 rescue plan, and players are actually pretty excited](https://www.pcgamer.com/games/third-person-shooter/two-months-after-the-disastrous-seekers-of-the-storm-expansion-gearbox-details-its-risk-of-rain-2-rescue-plan-and-players-are-actually-pretty-excited)
+ - [Helldivers 2 Director Open To Crossovers, But Doesn&#39;t Want To &#39;Dilute The IP&#39;](https://kotaku.com/helldivers-2-warhammer-crossover-trench-crusade-ip-ps5-1851690182)
+ - [Hogwarts Legacy 2 Will Have Story Crossover With Harry Potter HBO Show](https://kotaku.com/hogwarts-legacy-2-hbo-harry-potter-tv-release-date-1851690168)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
