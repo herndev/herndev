@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [There are already Thunderbolt 5 devices &amp; cables for Apple&#39;s new pro Macs](https://appleinsider.com/articles/24/11/05/there-are-already-thunderbolt-5-devices-cables-for-apples-new-pro-macs?utm_medium=rss)
- - [Holiday gift guide 2024: best gifts for the Apple lovers in your life](https://appleinsider.com/articles/24/11/05/holiday-gift-guide-2024-best-gifts-for-the-apple-lovers-in-your-life?utm_medium=rss)
- - [The first wooden satellite launched into space](https://www.theverge.com/2024/11/5/24288643/first-wood-satellite-launch-spacex-international-space-station)<!-- TECH:END -->
+ - [Why free VPNs aren&#39;t always safe to use](https://appleinsider.com/inside/iphone/tips/why-free-vpns-arent-always-safe-to-use?utm_medium=rss)
+ - [Arizona&#39;s Kari Lake Is Already Claiming Election Fraud](https://www.wired.com/story/kari-lake-campaign-claims-election-fraud/)
+ - [Apple iPhone 16 closes the gap on Snapdragon 8 Elite with iOS 18.1](https://www.androidauthority.com/iphone-16-ios-18-benchmarks-3496195/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
