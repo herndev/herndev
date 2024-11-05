@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Deadlock players have finally figured out that Grey Talon is good, actually, only for Valve to dish out a little nerf](https://www.pcgamer.com/games/moba/deadlock-players-have-finally-figured-out-that-grey-talon-is-good-actually-only-for-valve-to-dish-out-a-little-nerf)
- - [Pokémon TCG Pocket Launches Its First Drop Event, But There&#39;s A Catch](https://kotaku.com/pokemon-tcg-pocket-lapras-drop-event-gacha-1851689506)
- - [Nintendo Swears Its Switch 2 Announcement Plans Haven&#39;t Changed With the Console Still MIA](https://kotaku.com/nintendo-switch-2-announcement-date-pokemon-legends-z-a-1851689577)<!-- GAME:END -->
+ - [Looking back on 15 years of Dragon Age reviews—including that Dragon Age 2 score we&#39;ve never stopped defending](https://www.pcgamer.com/games/dragon-age/looking-back-on-15-years-of-dragon-age-reviews-including-that-dragon-age-2-score-weve-never-stopped-defending)
+ - [Dragon Age: The Veilguard&#39;s first mods fulfil the creators&#39; true intention of letting you play as Nigel Thornberry, but spit on all that is good and decent by making everything less magenta](https://www.pcgamer.com/games/dragon-age/dragon-age-the-veilguards-first-mods-fulfil-the-creators-true-intention-of-letting-you-play-as-nigel-thornberry-but-spit-on-all-that-is-good-and-decent-by-making-everything-less-magenta)
+ - [Dragon Age: The Veilguard’s First Patch Will Fix One Of The Game’s Biggest Problems](https://kotaku.com/dragon-age-veilguard-patch-notes-custom-inquisitor-face-1851689815)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
