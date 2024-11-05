@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Me: Is my crush thinking about me? Her:\u2026](http://9gag.com/gag/aYQ79zq)
- - ⏩ [This water slide from the Netherlands](http://9gag.com/gag/aZZ7GB3)
- - 👉 [Future felon](http://9gag.com/gag/a9yRQZK)<!-- MEMES:END -->
+ - 💣 [Somewhere in Dubai.](http://9gag.com/gag/aGygXKX)
+ - ⏩ [Wrong number](http://9gag.com/gag/aZZ7OXV)
+ - 👉 [Hello ?](http://9gag.com/gag/aKGdRYQ)<!-- MEMES:END -->
 
 ---
 
