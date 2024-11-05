@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Hisense’s U6N TV is an even better value now that it’s hit an all-time low](https://www.theverge.com/2024/11/5/24287830/hisense-u6n-series-google-tv-55-inch-deal-sale)
- - [Is this image real? WhatsApp’s new feature will tell you](https://www.androidauthority.com/whatsapp-reverse-image-search-feature-3496922/)
- - [In its annual report, Apple warns of future products perhaps never exceeding the iPhone&#39;s profitability, &quot;geopolitical tensions&quot;, and AI features&#39; safety risks &lpar;Financial Times&rpar;](http://www.techmeme.com/241105/p13#a241105p13)<!-- TECH:END -->
+ - [Android 16 is coming early, and we may already know exactly when](https://www.androidauthority.com/android-16-date-3496944/)
+ - [US Mobile CEO speaks out against Google and is giving up to $1500 to dedicated fans in the process](https://www.androidauthority.com/us-mobile-ad-program-3496959/)
+ - [Misleading ‘pro-Harris’ texts are bombarding swing state voters](https://www.theverge.com/2024/11/5/24288263/harris-texts-israel-gaza-michigan-pennsylvania)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
