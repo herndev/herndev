@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Dragon Age boss says a Legendary Edition-style remaster of the old games in the series is unlikely because there&#39;s &#39;maybe 20 people left at BioWare&#39; who know how their engine works](https://www.pcgamer.com/games/rpg/dragon-age-boss-says-a-legendary-edition-style-remaster-of-the-old-games-in-the-series-is-unlikely-because-theres-maybe-20-people-left-at-bioware-who-know-how-their-engine-works)
- - [Hideo Kojima Thinks People Are Wrong About Joker 2 And Will Realize It Decades Later](https://kotaku.com/hideo-kojima-joker-2-review-20-years-folie-a-deux-movie-1851689218)
- - [Stardew Valley has a troublesome new &#39;disappearing chickens&#39; bug, which Eric Barone is explaining away by declaring invisible coyotes are stealing them](https://www.pcgamer.com/games/life-sim/stardew-valley-has-a-troublesome-new-disappearing-chickens-bug-which-eric-barone-is-explaining-away-by-declaring-invisible-coyotes-are-stealing-them)<!-- GAME:END -->
+ - [Call of Duty: Black Ops 6 review](https://www.pcgamer.com/games/call-of-duty/black-ops-6-review)
+ - [This chill puzzle game is so good I bought its prequel before I even finished it](https://www.pcgamer.com/games/puzzle/this-chill-puzzle-game-is-so-good-i-bought-its-prequel-before-i-even-finished-it)
+ - [Pro Philosopher 2 is Ace Attorney for our stupid election season, and it really did make me feel better](https://www.pcgamer.com/games/visual-novel/pro-philosopher-2-is-ace-attorney-for-our-stupid-election-season-and-it-really-did-make-me-feel-better)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
