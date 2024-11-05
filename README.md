@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple’s next iPad Air could have a higher refresh rate, but we’re not so sure](https://www.androidauthority.com/apple-ipad-air-refresh-rate-3496965/)
- - [The hyperloop lives on as a 1/12th scale model in Switzerland](https://www.theverge.com/2024/11/5/24288954/hyperloop-swisspod-test-worlds-longest-scale-model)
- - [Toyota mounted five big-screen TVs to this Tundra truck](https://www.theverge.com/2024/11/5/24288874/toyota-ultimate-tailgate-tundra-sema-2024-concept-tvs)<!-- TECH:END -->
+ - [Voting tech isn’t perfect, but so far it’s holding up](https://www.theverge.com/2024/11/5/24288940/election-day-voting-machines)
+ - [How FTC Chair Lina Khan became a US election hot topic, drawing increasing vitriol as the presidential vote neared; Trump is expected to replace Khan if he wins &lpar;New York Times&rpar;](http://www.techmeme.com/241105/p15#a241105p15)
+ - [This Google election conspiracy theory doesn’t hold up](https://www.theverge.com/2024/11/5/24289025/google-election-conspiracy-theory-harris-trump-where-can-i-vote-for-elon-musk)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
