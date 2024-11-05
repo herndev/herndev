@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Roma aeterna](http://9gag.com/gag/ayNoG8p)
- - ⏩ [Darwin Award goes to\u2026](http://9gag.com/gag/a4PRvXy)
- - 👉 [A new format is being born.](http://9gag.com/gag/aRB0Yey)<!-- MEMES:END -->
+ - 💣 [Justice!](http://9gag.com/gag/aND076A)
+ - ⏩ [Got married March 2024. I love my money more than her](http://9gag.com/gag/apR5OqD)
+ - 👉 [The Process of Filling Pills. Pharmaceutical.](http://9gag.com/gag/aqygq4Y)<!-- MEMES:END -->
 
 ---
 
