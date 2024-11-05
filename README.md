@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Why free VPNs aren&#39;t always safe to use](https://appleinsider.com/inside/iphone/tips/why-free-vpns-arent-always-safe-to-use?utm_medium=rss)
- - [Arizona&#39;s Kari Lake Is Already Claiming Election Fraud](https://www.wired.com/story/kari-lake-campaign-claims-election-fraud/)
- - [Apple iPhone 16 closes the gap on Snapdragon 8 Elite with iOS 18.1](https://www.androidauthority.com/iphone-16-ios-18-benchmarks-3496195/)<!-- TECH:END -->
+ - [Hori’s officially licensed Steam controller is coming to the US](https://www.theverge.com/2024/11/5/24288729/hori-official-steam-controller-us-release-date-pricing)
+ - [GlobalFoundries reports Q3 revenue down 6% YoY to $1.7B and expects Q4 revenue of $1.8B-$1.85B, vs. $1.8B est., driven by smartphone chip demand; GFS jumps 11%+ &lpar;Harshita Mary Varghese/Reuters&rpar;](http://www.techmeme.com/241105/p11#a241105p11)
+ - [Halloween is over, but Galaxy Watch owners are being haunted by phantom vibrations](https://www.androidauthority.com/galaxy-watch-phantom-vibrations-3496876/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
