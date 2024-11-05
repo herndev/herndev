@@ -34,7 +34,7 @@
 <!-- GAME:START -->
  - [Can Surskit be shiny in Pokémon Go?](https://www.polygon.com/pokemon-go-guide/474181/can-surskit-be-shiny-masquerain)
  - [The long promised online co-op update for The Binding of Isaac Rebirth is only weeks away](https://www.pcgamer.com/games/roguelike/the-long-promised-online-co-op-update-for-the-binding-of-isaac-rebirth-is-only-weeks-away)
- - [Ubisoft&#39;s NFT dumpster fire flares up as a matchmaking bug leaves every player connecting and losing to the same confused, unkillable guy](https://www.pcgamer.com/games/strategy/ubisofts-nft-dumpster-fire-flares-up-as-a-matchmaking-bug-leaves-every-player-connecting-and-losing-to-the-same-confused-unkillable-guy)<!-- GAME:END -->
+ - [Today&#39;s Wordle answer for Tuesday, November 5](https://www.pcgamer.com/games/puzzle/wordle-answer-today-november-5-2024)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
