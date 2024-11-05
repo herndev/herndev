@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [The long promised online co-op update for The Binding of Isaac Rebirth is only weeks away](https://www.pcgamer.com/games/roguelike/the-long-promised-online-co-op-update-for-the-binding-of-isaac-rebirth-is-only-weeks-away)
  - [Ubisoft&#39;s NFT dumpster fire flares up as a matchmaking bug leaves every player connecting and losing to the same confused, unkillable guy](https://www.pcgamer.com/games/strategy/ubisofts-nft-dumpster-fire-flares-up-as-a-matchmaking-bug-leaves-every-player-connecting-and-losing-to-the-same-confused-unkillable-guy)
- - [Call of Duty: Black Ops 6 review](https://www.pcgamer.com/games/call-of-duty/black-ops-6-review)
- - [This chill puzzle game is so good I bought its prequel before I even finished it](https://www.pcgamer.com/games/puzzle/this-chill-puzzle-game-is-so-good-i-bought-its-prequel-before-i-even-finished-it)<!-- GAME:END -->
+ - [Call of Duty: Black Ops 6 review](https://www.pcgamer.com/games/call-of-duty/black-ops-6-review)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
