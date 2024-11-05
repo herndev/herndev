@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sketchy rumor says iPad Air, iMac, and Studio Display could be updated to 90Hz](https://appleinsider.com/articles/24/11/05/sketchy-rumor-says-ipad-air-imac-and-studio-display-could-be-updated-to-90hz?utm_medium=rss)
- - [Polymarket confirms paying US-based influencers, including large Instagram meme accounts, to promote election betting despite being banned in the US &lpar;Bloomberg&rpar;](http://www.techmeme.com/241105/p7#a241105p7)
- - [TikTok Employees Shrug as the US Election Looms](https://www.wired.com/story/tiktok-ban-us-election-donald-trump-kamala-harris/)<!-- TECH:END -->
+ - [Have too many games on your phone? Google Play could help you continue playing &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-play-continue-playing-apk-3496826/)
+ - [French judicial source: investigators searched Netflix&#39;s offices in France and the Netherlands as part of a preliminary investigation into tax fraud laundering &lpar;Reuters&rpar;](http://www.techmeme.com/241105/p8#a241105p8)
+ - [The Follow-Up to One of 2024’s Best Games May Never Happen](https://www.wired.com/story/the-follow-up-to-one-of-2024s-best-games-may-never-happen/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
