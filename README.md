@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Beethoven](http://9gag.com/gag/aAyeBKE)
- - ⏩ [They tested her](http://9gag.com/gag/amovqov)
- - 👉 [Fine for Parking!](http://9gag.com/gag/aRB76vB)<!-- MEMES:END -->
+ - 💣 [Where are they in left and right spectrum?](http://9gag.com/gag/aLn0yd5)
+ - ⏩ [Yes, it&#39;s a joke and not real](http://9gag.com/gag/aKG7wLO)
+ - 👉 [Inflation, Shrinkflation, Emptyflation](http://9gag.com/gag/aE0gLbO)<!-- MEMES:END -->
 
 ---
 
