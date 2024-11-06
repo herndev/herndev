@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Sweet Lands by Uchibacoya brings a feudal anime twist to Candy Land](https://www.polygon.com/tabletop-games/474968/sweet-lands-uchibacoya-board-game-kickstarter)
- - [Netflix Delisting Almost All Its Interactive Shows And Movies Next Month](https://kotaku.com/netflix-interactive-movies-shows-black-mirror-removed-1851690321)
- - [Capcom, if you&#39;re listening: Monster Hunter Wilds needs its hitstop back](https://www.pcgamer.com/games/rpg/capcom-if-youre-listening-monster-hunter-wilds-needs-its-hitstop-back)<!-- GAME:END -->
+ - [Steam Game Recording is now available for everyone, and it&#39;s packed with neat features](https://www.pcgamer.com/software/platforms/steam-game-recording-is-now-available-for-everyone-and-its-packed-with-neat-features)
+ - [There&#39;s a Halo 2 nostalgia party going on in Halo Infinite and you&#39;re invited](https://www.pcgamer.com/games/fps/theres-a-halo-2-nostalgia-party-going-on-in-halo-infinite-and-youre-invited)
+ - [A remake of strategy classic Romance of the Three Kingdoms 8 has proven divisive among its fanbase](https://www.pcgamer.com/games/strategy/a-remake-of-strategy-classic-romance-of-the-three-kingdoms-8-has-proven-divisive-among-its-fanbase)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
