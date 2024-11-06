@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [It sure looks like a Warcraft 2 remaster just leaked ahead of next week&#39;s anniversary event](https://www.pcgamer.com/games/strategy/it-sure-looks-like-a-warcraft-2-remaster-just-leaked-ahead-of-next-weeks-anniversary-event)
- - [As expected, Twitch has modified its new &#39;politics and sensitive social issues&#39; rules, and nobody is happy with the changes](https://www.pcgamer.com/hardware/streaming/as-expected-twitch-has-modified-its-new-politics-and-sensitive-social-issues-rules-and-nobody-is-happy-with-the-changes)
- - [Steam Game Recording is now available for everyone, and it&#39;s packed with neat features](https://www.pcgamer.com/software/platforms/steam-game-recording-is-now-available-for-everyone-and-its-packed-with-neat-features)<!-- GAME:END -->
+ - [Nintendo Chose The Funniest Time To Confirm Switch 2 Backwards Compatibility](https://kotaku.com/nintendo-switch-2-backwards-compatibility-release-date-1851690470)
+ - [Nintendo Switch 2 will be backward-compatible with Switch games](https://www.polygon.com/nintendo/449313/switch-2-backward-compatible-games-accessories)
+ - [It sure looks like a Warcraft 2 remaster just leaked ahead of next week&#39;s anniversary event](https://www.pcgamer.com/games/strategy/it-sure-looks-like-a-warcraft-2-remaster-just-leaked-ahead-of-next-weeks-anniversary-event)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
