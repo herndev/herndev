@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google is lowering Android TV’s hardware requirements: Is 1GB RAM enough?](https://www.androidauthority.com/android-tv-minimum-ram-3497217/)
- - [Jeff Bezos congratulates Trump on his &quot;political comeback and decisive victory&quot; in a rare X post; Bezos last reacted to Trump&#39;s failed assassination on July 13 &lpar;Kurt Schlosser/GeekWire&rpar;](http://www.techmeme.com/241106/p20#a241106p20)
- - [The Manosphere Won](https://www.wired.com/story/donald-trump-manosphere-won/)<!-- TECH:END -->
+ - [Gorilla Glass may be as ubiquitous as it is due to anticompetitive practices](https://www.androidauthority.com/corning-eu-antitrust-probe-3497212/)
+ - [Best Internet Providers in Akron, Ohio](https://www.cnet.com/home/internet/best-internet-providers-in-akron-oh/#ftag=CAD590a51e)
+ - [Perplexity Dove Into Real-Time Election Tracking While Other AI Companies Held Back](https://www.wired.com/story/perplexity-election-tracking/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
