@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Yes, it&#39;s a joke and not real](http://9gag.com/gag/aKG7wLO)
- - ⏩ [Japanese prime minister security drill](http://9gag.com/gag/an74eqL)
- - 👉 [Unbelievable](http://9gag.com/gag/aLn0qLv)<!-- MEMES:END -->
+ - 💣 [He has done it twice](http://9gag.com/gag/a5QWdzr)
+ - ⏩ [For the memes! Guess who&#39;s back](http://9gag.com/gag/aAyeY3R)
+ - 👉 [2016 nostalgia](http://9gag.com/gag/adBVN5D)<!-- MEMES:END -->
 
 ---
 
