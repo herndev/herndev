@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Scenes From a Battleground Philadelphia Suburb on Election Day](https://www.wired.com/story/election-day-battleground-philadelphia-suburb-photos/)
- - [Emoji or Monogram? Google Contacts will soon let you set creative contact pictures &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-contacts-monogram-emoji-image-3497087/)
- - [If the Electoral College has invaded your phone screen, here’s how to get rid of it](https://www.theverge.com/2024/11/5/24289313/washington-post-toggle-election-night-ios)<!-- TECH:END -->
+ - [Android 16: Expected features, codename, leaks, release date, and everything else we know so far](https://www.androidauthority.com/android-16-features-3484159/)
+ - [Bitcoin passes $74K to reach an all-time high amid Donald Trump&#39;s early lead in the 2024 US presidential race; bitcoin is up nearly 70% year-to-date &lpar;The Block&rpar;](http://www.techmeme.com/241105/p28#a241105p28)
+ - [Today&#39;s NYT Mini Crossword Answers for Wedneday, Nov. 6](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-wedneday-nov-6/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
