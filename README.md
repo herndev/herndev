@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [He has done it twice](http://9gag.com/gag/a5QWdzr)
- - ⏩ [French representative of democrats literally said this on radio today. They are doomed](http://9gag.com/gag/a6ZKwem)
- - 👉 [Spinning a stick, very easy!](http://9gag.com/gag/aLnw6Xv)<!-- MEMES:END -->
+ - 💣 [Kamela Harris caught pretending to be on the phone - with the camera &lpar;lol&rpar; app](http://9gag.com/gag/apRGqRE)
+ - ⏩ [Japanese prime minister security drill](http://9gag.com/gag/an74eqL)
+ - 👉 [In 2016, an Egyptian man wearing an explosive belt hijacked a plane. A British passenger onboard asked him for a photo.](http://9gag.com/gag/aBygDGA)<!-- MEMES:END -->
 
 ---
 
