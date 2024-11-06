@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [W&lpar;hy&rpar;tf is this shops Milka in an antitheft box? &lpar;Tenerife, Spain&rpar;](http://9gag.com/gag/aRB05GA)
- - ⏩ [Goal ?](http://9gag.com/gag/abAr9Q8)
+ - 💣 [I have no idea anyone can do that](http://9gag.com/gag/aGygX6n)
+ - ⏩ [He left a trail of brown cloud, like a squid.](http://9gag.com/gag/an74e4E)
  - 👉 [Well well well... Look who was right all along](http://9gag.com/gag/agmAr81)<!-- MEMES:END -->
 
 ---
