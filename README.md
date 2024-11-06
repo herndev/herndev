@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Best Black Ops 6 AS Val loadout and class setup](https://www.pcgamer.com/games/call-of-duty/black-ops-6-as-val-loadout)
- - [Everything we know about ‘Switch 2,’ Nintendo’s next-gen console](https://www.polygon.com/nintendo/23899504/nintendo-switch-2-release-date-power-name-games)
- - [Best Black Ops 6 C9 loadout and class setup](https://www.pcgamer.com/games/call-of-duty/black-ops-6-C9-loadout)<!-- GAME:END -->
+ - [Discover Across The Obelisk – the Deckbuilder that Lets You Cooperate with Everyone](https://news.xbox.com/en-us/2024/11/06/discover-across-the-obelisk-the-deckbuilder-that-lets-you-cooperate-with-everyone/)
+ - [The best action movies of the year so far](https://www.polygon.com/24091121/best-action-movies-2024-watch)
+ - [If you&#39;re using any kind of stagger build in Dragon Age: The Veilguard, do this side quest for the Lords of Fortune right away to get a best-in-slot ring](https://www.pcgamer.com/games/dragon-age/if-youre-using-any-kind-of-stagger-build-in-dragon-age-the-veilguard-do-this-side-quest-for-the-lords-of-fortune-right-away-to-get-a-best-in-slot-ring)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
