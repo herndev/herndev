@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Workers at AI companies seek specific whistleblower protections, arguing that AI advancements pose threats that they can&#39;t legally expose under current US laws &lpar;Kaustuv Basu/Bloomberg Law&rpar;](http://www.techmeme.com/241106/p6#a241106p6)
- - [Samsung quietly launches next-generation Bixby in this one market](https://www.androidauthority.com/samsung-upgraded-bixby-w25-china-3497107/)
- - [Best Home Security Cameras With Floodlights in 2024](https://www.cnet.com/home/security/best-floodlight-home-security-cameras/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Nvidia closed up 2.9% at $139.93, hitting a $3.43T market cap and surpassing Apple at $3.38T and Microsoft at $3.06T; NVDA is up 850% since the end of 2022 &lpar;Ryan Vlastelica/Bloomberg&rpar;](http://www.techmeme.com/241106/p9#a241106p9)
+ - [Wise reports H1 2025 revenue up 19% YoY to &amp;pound;591.9M, profit up 55% YoY to &amp;pound;217.3M, and active consumer and business clients up 25% YoY to 11.4M &lpar;Ryan Browne/CNBC&rpar;](http://www.techmeme.com/241106/p8#a241106p8)
+ - [Abu Dhabi National Oil Company CEO Sultan al-Jaber says AI gives oil firms incentive to invest in renewables, as ADNOC unveils plans for integrating AI agents &lpar;Malcolm Moore/Financial Times&rpar;](http://www.techmeme.com/241106/p7#a241106p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
