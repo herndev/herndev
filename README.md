@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [EU might fine Apple for failure to comply with DMA, for real this time](https://appleinsider.com/articles/24/11/05/eu-might-fine-apple-for-failure-to-comply-with-dma-for-real-this-time?utm_medium=rss)
- - [Pay once and forget it: These three US carriers can save you $250 or more if you pay annually](https://www.androidauthority.com/annual-prepaid-plan-3496983/)
- - [Sources: Perplexity is finalizing a $500M funding round led by IVP that would value it at $9B, triple its reported valuation from just a few months ago &lpar;Berber Jin/Wall Street Journal&rpar;](http://www.techmeme.com/241105/p20#a241105p20)<!-- TECH:END -->
+ - [Elon Musk is being sued over his $1 million giveaway to voters — again](https://www.theverge.com/2024/11/5/24289173/elon-musk-america-pac-class-action-lawsuit-fraud)
+ - [How the Salt Typhoon hackers breached US telecommunication infrastructure to carry out targeted espionage against the US for at least eight months &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/241105/p24#a241105p24)
+ - [Nothing OS 3.0 beta finally lands for the Nothing Phone 2 this week](https://www.androidauthority.com/nothing-phone-2-os-3-0-3497062/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
