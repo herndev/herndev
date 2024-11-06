@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Fine for Parking!](http://9gag.com/gag/aRB76vB)
- - ⏩ [In 2016, an Egyptian man wearing an explosive belt hijacked a plane. A British passenger onboard asked him for a photo.](http://9gag.com/gag/aBygDGA)
- - 👉 [Why does this bathroom have this?!](http://9gag.com/gag/ajP9Qq8)<!-- MEMES:END -->
+ - 💣 [Why does this bathroom have this?!](http://9gag.com/gag/ajP9Qq8)
+ - ⏩ [Name that girl band.](http://9gag.com/gag/awyBNnW)
+ - 👉 [Looks like I won the bet. Looking forward to this proclamation of how great I am.](http://9gag.com/gag/an74YWB)<!-- MEMES:END -->
 
 ---
 
