@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [European Union evaluating if Corning monopolizes the smartphone screen market](https://appleinsider.com/articles/24/11/06/european-union-evaluating-if-corning-monopolizes-the-smartphone-screen-market?utm_medium=rss)
- - [iPhone average selling price soars because of big demand for Pro models &amp; more storage](https://appleinsider.com/articles/24/11/06/iphone-average-selling-price-soars-because-of-big-demand-for-pro-models-more-storage?utm_medium=rss)
- - [Google’s Pixel Watch 3 is available at a new record low price for Verge readers](https://www.theverge.com/2024/11/6/24288785/googles-pixel-watch-3-m2-macbook-air-deal-sale)<!-- TECH:END -->
+ - [Google is lowering Android TV’s hardware requirements: Is 1GB RAM enough?](https://www.androidauthority.com/android-tv-minimum-ram-3497217/)
+ - [Jeff Bezos congratulates Trump on his &quot;political comeback and decisive victory&quot; in a rare X post; Bezos last reacted to Trump&#39;s failed assassination on July 13 &lpar;Kurt Schlosser/GeekWire&rpar;](http://www.techmeme.com/241106/p20#a241106p20)
+ - [The Manosphere Won](https://www.wired.com/story/donald-trump-manosphere-won/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
