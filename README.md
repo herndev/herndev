@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Elon Musk is being sued over his $1 million giveaway to voters — again](https://www.theverge.com/2024/11/5/24289173/elon-musk-america-pac-class-action-lawsuit-fraud)
- - [How the Salt Typhoon hackers breached US telecommunication infrastructure to carry out targeted espionage against the US for at least eight months &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/241105/p24#a241105p24)
- - [Nothing OS 3.0 beta finally lands for the Nothing Phone 2 this week](https://www.androidauthority.com/nothing-phone-2-os-3-0-3497062/)<!-- TECH:END -->
+ - [Groypers Gave Illegal Hot Dogs and Burgers to Trump Voters](https://www.wired.com/story/groypers-illegally-gave-hot-dogs-and-burgers-to-trump-voters/)
+ - [Suzuki teams up with Toyota on its first EV: the E Vitara](https://www.theverge.com/2024/11/5/24289169/suzuki-e-vitara-ev-electric-suv-toyota-launch)
+ - [Elon Musk&#39;s America PAC Canvassers Faced Surveillance, Sickness, and Late Pay in Arizona](https://www.wired.com/story/elon-musks-america-pac-canvassers-surveillance-sickness-late-pay-arizona/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
