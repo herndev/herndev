@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Discover Across The Obelisk – the Deckbuilder that Lets You Cooperate with Everyone](https://news.xbox.com/en-us/2024/11/06/discover-across-the-obelisk-the-deckbuilder-that-lets-you-cooperate-with-everyone/)
- - [The best action movies of the year so far](https://www.polygon.com/24091121/best-action-movies-2024-watch)
- - [If you&#39;re using any kind of stagger build in Dragon Age: The Veilguard, do this side quest for the Lords of Fortune right away to get a best-in-slot ring](https://www.pcgamer.com/games/dragon-age/if-youre-using-any-kind-of-stagger-build-in-dragon-age-the-veilguard-do-this-side-quest-for-the-lords-of-fortune-right-away-to-get-a-best-in-slot-ring)<!-- GAME:END -->
+ - [Five Things to Know Before You Dive into Metal Slug Tactics](https://news.xbox.com/en-us/2024/11/06/five-things-before-you-dive-into-metal-slug-tactics/)
+ - [Best Black Ops 6 KSV loadout and class setup](https://www.pcgamer.com/games/call-of-duty/black-ops-6-ksv-loadout)
+ - [It looks like &#39;Windows Intelligence&#39; might subsume &#39;Copilot&#39; branding, giving yet more evidence that we can&#39;t decide how to market AI](https://www.pcgamer.com/software/windows/it-looks-like-windows-intelligence-might-subsume-copilot-branding-giving-yet-more-evidence-that-we-cant-decide-how-to-market-ai)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
