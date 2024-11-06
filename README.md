@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Android 16: Expected features, codename, leaks, release date, and everything else we know so far](https://www.androidauthority.com/android-16-features-3484159/)
- - [Bitcoin passes $74K to reach an all-time high amid Donald Trump&#39;s early lead in the 2024 US presidential race; bitcoin is up nearly 70% year-to-date &lpar;The Block&rpar;](http://www.techmeme.com/241105/p28#a241105p28)
- - [Today&#39;s NYT Mini Crossword Answers for Wedneday, Nov. 6](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-wedneday-nov-6/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Nintendo confirms Switch 2 will be backwards compatible with Switch games](https://www.androidauthority.com/nintendo-switch-2-backwards-compatible-3497099/)
+ - [A PeakMetrics analysis of ~25K posts on X discussing election fraud in battleground states on November 5 finds that ~60% of posts were focused on Pennsylvania &lpar;Stuart A. Thompson/New York Times&rpar;](http://www.techmeme.com/241106/p1#a241106p1)
+ - [Android 16: Expected features, codename, leaks, release date, and everything else we know so far](https://www.androidauthority.com/android-16-features-3484159/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
