@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Kamela Harris caught pretending to be on the phone - with the camera &lpar;lol&rpar; app](http://9gag.com/gag/apRGqRE)
- - ⏩ [Japanese prime minister security drill](http://9gag.com/gag/an74eqL)
- - 👉 [In 2016, an Egyptian man wearing an explosive belt hijacked a plane. A British passenger onboard asked him for a photo.](http://9gag.com/gag/aBygDGA)<!-- MEMES:END -->
+ - 💣 [Guess who&#39;s back.](http://9gag.com/gag/azxmLVx)
+ - ⏩ [Spinning a stick, very easy!](http://9gag.com/gag/aLnw6Xv)
+ - 👉 [As a European I\u2018m just happy for the good memes to follow.](http://9gag.com/gag/aMVxb1V)<!-- MEMES:END -->
 
 ---
 
