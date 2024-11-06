@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Why the Dragon Age: The Veilguard team designed its trans-inclusive storylines](https://www.polygon.com/gaming/474954/dragon-age-the-veilguard-gender-trans-nonbinary-interview)
- - [Destroy Everything In Sight With This Beginner Diablo 4 Barbarian Build](https://kotaku.com/barbarian-beginner-build-diablo-4-vessel-of-hatred-1851690806)
- - [Let’s Not Pretend: Pokémon TCG Pocket Is Promoting Gambling To Children](https://kotaku.com/pokemon-tcg-pocket-gacha-loot-box-gambling-1851690838)<!-- GAME:END -->
+ - [Where the heck is Baby Steps?](https://www.polygon.com/gaming/475194/baby-steps-release-date-2024)
+ - [Pud&#39;s Dolbus gets you 5.1 surround sound from headphones with a side of deadly Saw trap nightmares](https://www.pcgamer.com/hardware/earbuds-headphones/puds-dolbus-gets-you-5-1-surround-sound-from-headphones-with-a-side-of-deadly-saw-trap-nightmares)
+ - [Homicipher is a clever horror game about female desire and monster language](https://www.polygon.com/gaming/475185/homicipher-review-impressions-pc)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
