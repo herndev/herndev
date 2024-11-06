@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Japanese prime minister security drill](http://9gag.com/gag/an74eqL)
- - ⏩ [Future felon](http://9gag.com/gag/a9yRQZK)
- - 👉 [Well well well... Look who was right all along](http://9gag.com/gag/agmAr81)<!-- MEMES:END -->
+ - 💣 [Future felon](http://9gag.com/gag/a9yRQZK)
+ - ⏩ [He left a trail of brown cloud, like a squid.](http://9gag.com/gag/an74e4E)
+ - 👉 [Not gonna lie I really enjoyed her final scenes](http://9gag.com/gag/apRGEgb)<!-- MEMES:END -->
 
 ---
 
