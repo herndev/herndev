@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Donald Trump Defeats Kamala Harris in the 2024 Presidential Election](https://www.wired.com/story/election-2024-donald-trump-win/)
- - [iPhone users could finally get this handy charging feature Android has had for years](https://www.androidauthority.com/ios-soon-battery-charge-time-3497124/)
- - [Google Contacts ‘Besties’ label hints at new relationship options &lpar;Update: Image&rpar;](https://www.androidauthority.com/google-contacts-besties-3467034/)<!-- TECH:END -->
+ - [The Galaxy Ring 2 could come a little sooner with better battery life and more](https://www.androidauthority.com/leak-samsung-galaxy-ring-2-launch-details-3497165/)
+ - [Donald Trump wins the 2024 presidential election](https://www.theverge.com/2024/11/6/24287838/donald-trump-wins-2024-presidential-election)
+ - [PlayStation 5 Pro review: high fidelity and frame rate, and smaller, lighter, and quieter than the original PS5, but $699 is pricey and disk drive costs extra &lpar;Sean Hollister/The Verge&rpar;](http://www.techmeme.com/241106/p15#a241106p15)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
