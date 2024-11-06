@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Fine for Parking!](http://9gag.com/gag/aRB76vB)
- - ⏩ [And is this good or bad?](http://9gag.com/gag/aAygnZp)
- - 👉 [Inflation, Shrinkflation, Emptyflation](http://9gag.com/gag/aE0gLbO)<!-- MEMES:END -->
+ - 💣 [And is this good or bad?](http://9gag.com/gag/aAygnZp)
+ - ⏩ [Mozambique 04NOV24. Population rioting indoors. Army is shooting to kill. Government cut down social media, they dont want the world to know. Help me making it viral. Also VODAFONE, cut down internet, to help the government, what a selfish company. MAKE IT VIRAL](http://9gag.com/gag/azxm7eN)
+ - 👉 [Fine for Parking!](http://9gag.com/gag/aRB76vB)<!-- MEMES:END -->
 
 ---
 
