@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [He left a trail of brown cloud, like a squid.](http://9gag.com/gag/an74e4E)
- - ⏩ [He totally could&#39;ve zoomed in further. Coward.](http://9gag.com/gag/a2vWz3O)
- - 👉 [Not gonna lie I really enjoyed her final scenes](http://9gag.com/gag/apRGEgb)<!-- MEMES:END -->
+ - ⏩ [Not gonna lie I really enjoyed her final scenes](http://9gag.com/gag/apRGEgb)
+ - 👉 [Where are they in left and right spectrum?](http://9gag.com/gag/aLn0yd5)<!-- MEMES:END -->
 
 ---
 
