@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [PS5 Pro review: 2025’s games will make or break it](https://www.polygon.com/review/474382/ps5-pro-review-sony-playstation-pssr-gpu-games)
- - [Today&#39;s Wordle answer for Wednesday, November 6](https://www.pcgamer.com/games/puzzle/wordle-answer-today-november-6-2024)
- - [Nintendo Switch 2 will be backward-compatible with Switch games](https://www.polygon.com/nintendo/449313/switch-2-backward-compatible-games-accessories)<!-- GAME:END -->
+ - [It was nuts that BioWare based Dragon Age: Inquisition&#39;s story on a DLC nobody played, but that DLC also proved just how close Dragon Age 2 was to perfection](https://www.pcgamer.com/games/dragon-age/it-was-nuts-that-dragon-age-inquisitions-story-followed-from-a-dlc-nobody-played-but-that-dlc-also-proved-just-how-close-dragon-age-2-was-to-perfection)
+ - [Intel CEO sees &#39;less need for discrete graphics&#39; and now we&#39;re really worried about its upcoming Battlemage gaming GPU and the rest of Intel&#39;s graphics roadmap](https://www.pcgamer.com/hardware/graphics-cards/intel-ceo-sees-less-need-for-discrete-graphics-and-now-were-really-worried-about-its-upcoming-battlemage-gaming-gpu-and-the-rest-of-intels-graphics-roadmap)
+ - [PS5 Pro review: 2025’s games will make or break it](https://www.polygon.com/review/474382/ps5-pro-review-sony-playstation-pssr-gpu-games)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
