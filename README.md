@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Boba Fett suspended from Star Wars: Unlimited, likely a first for the TCG](https://www.polygon.com/tabletop-games/475544/star-wars-unlimited-boba-fett-card-suspended)
- - [Dragon Age: The Veilguard&#39;s Party Nearly Had An Unlikely Inquisition Villain](https://kotaku.com/dragon-age-veilguard-calpernia-party-member-companion-1851691312)
- - [20 Years Later, Konami Finally Reveals Mystery MSG3 Voice Actor&#39;s Identity](https://kotaku.com/mgs3-delta-remake-eva-voice-mystery-reveal-jodi-benson-1851691273)<!-- GAME:END -->
+ - [Avengers Endgame Directors Got $5 Million To Not Make A League Of Legends Film](https://kotaku.com/league-of-legends-movie-russo-arcane-avengers-endgame-1851691386)
+ - [If you love big trucks, establishing trade routes, and the phrase &#39;post-apocalyptic survival business simulator&#39; then I&#39;ve got just the strategy RPG for you](https://www.pcgamer.com/games/strategy/if-you-love-big-trucks-establishing-trade-routes-and-the-phrase-post-apocalyptic-survival-business-simulator-then-ive-got-just-the-strategy-rpg-for-you)
+ - [Here&#39;s What Bloodborne Looks Like As A Diablo-Style Action-RPG](https://kotaku.com/bloodborne-remake-diablo-fan-game-fromsoft-sony-1851691343)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
