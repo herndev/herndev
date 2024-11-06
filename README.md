@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nintendo says its unannounced Switch successor will be able to play current Switch games and have carryover for Switch Online services and accounts &lpar;Ash Parrish/The Verge&rpar;](http://www.techmeme.com/241105/p27#a241105p27)
- - [Say goodbye to the meatballs: Google Contacts rolls out new contact settings UI](https://www.androidauthority.com/google-contacts-new-contact-settings-ui-3497081/)
- - [In a lawsuit, the US FTC accuses fintech startup Dave of misleading struggling borrowers about its cash advances&#39; terms, charging undisclosed fees, and more &lpar;Liz Hoffman/Semafor&rpar;](http://www.techmeme.com/241105/p26#a241105p26)<!-- TECH:END -->
+ - [Scenes From a Battleground Philadelphia Suburb on Election Day](https://www.wired.com/story/election-day-battleground-philadelphia-suburb-photos/)
+ - [Emoji or Monogram? Google Contacts will soon let you set creative contact pictures &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-contacts-monogram-emoji-image-3497087/)
+ - [If the Electoral College has invaded your phone screen, here’s how to get rid of it](https://www.theverge.com/2024/11/5/24289313/washington-post-toggle-election-night-ios)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
