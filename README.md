@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [He has done it twice](http://9gag.com/gag/a5QWdzr)
- - ⏩ [For the memes! Guess who&#39;s back](http://9gag.com/gag/aAyeY3R)
- - 👉 [2016 nostalgia](http://9gag.com/gag/adBVN5D)<!-- MEMES:END -->
+ - 💣 [He left a trail of brown cloud, like a squid.](http://9gag.com/gag/an74e4E)
+ - ⏩ [Steal Like an Artist](http://9gag.com/gag/a34wYd5)
+ - 👉 [Japanese prime minister security drill](http://9gag.com/gag/an74eqL)<!-- MEMES:END -->
 
 ---
 
