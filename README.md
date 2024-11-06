@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The UK launches a platform with guidance and practical resources to help businesses conduct impact assessments and evaluations of the safety of new AI systems &lpar;Anna Gross/Financial Times&rpar;](http://www.techmeme.com/241106/p5#a241106p5)
- - [The November Pixel update is here but not here](https://www.androidauthority.com/november-google-pixel-update-3497110/)
- - [Best Power Bank for iPhones in 2024](https://www.cnet.com/tech/mobile/best-power-bank-for-iphone/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Workers at AI companies seek specific whistleblower protections, arguing that AI advancements pose threats that they can&#39;t legally expose under current US laws &lpar;Kaustuv Basu/Bloomberg Law&rpar;](http://www.techmeme.com/241106/p6#a241106p6)
+ - [Samsung quietly launches next-generation Bixby in this one market](https://www.androidauthority.com/samsung-upgraded-bixby-w25-china-3497107/)
+ - [Best Home Security Cameras With Floodlights in 2024](https://www.cnet.com/home/security/best-floodlight-home-security-cameras/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
