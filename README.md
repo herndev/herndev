@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nvidia closed up 2.9% at $139.93, hitting a $3.43T market cap and surpassing Apple at $3.38T and Microsoft at $3.06T; NVDA is up 850% since the end of 2022 &lpar;Ryan Vlastelica/Bloomberg&rpar;](http://www.techmeme.com/241106/p9#a241106p9)
- - [Wise reports H1 2025 revenue up 19% YoY to &amp;pound;591.9M, profit up 55% YoY to &amp;pound;217.3M, and active consumer and business clients up 25% YoY to 11.4M &lpar;Ryan Browne/CNBC&rpar;](http://www.techmeme.com/241106/p8#a241106p8)
- - [Abu Dhabi National Oil Company CEO Sultan al-Jaber says AI gives oil firms incentive to invest in renewables, as ADNOC unveils plans for integrating AI agents &lpar;Malcolm Moore/Financial Times&rpar;](http://www.techmeme.com/241106/p7#a241106p7)<!-- TECH:END -->
+ - [Donald Trump Defeats Kamala Harris in the 2024 Presidential Election](https://www.wired.com/story/election-2024-donald-trump-win/)
+ - [iPhone users could finally get this handy charging feature Android has had for years](https://www.androidauthority.com/ios-soon-battery-charge-time-3497124/)
+ - [Google Contacts ‘Besties’ label hints at new relationship options &lpar;Update: Image&rpar;](https://www.androidauthority.com/google-contacts-besties-3467034/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
