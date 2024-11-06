@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [PS5 Pro review: 2025’s games will make or break it](https://www.polygon.com/review/474382/ps5-pro-review-sony-playstation-pssr-gpu-games)
  - [Today&#39;s Wordle answer for Wednesday, November 6](https://www.pcgamer.com/games/puzzle/wordle-answer-today-november-6-2024)
- - [Nintendo Switch 2 will be backward-compatible with Switch games](https://www.polygon.com/nintendo/449313/switch-2-backward-compatible-games-accessories)
- - [Nintendo Chose The Funniest Time To Confirm Switch 2 Backwards Compatibility](https://kotaku.com/nintendo-switch-2-backwards-compatibility-release-date-1851690470)<!-- GAME:END -->
+ - [Nintendo Switch 2 will be backward-compatible with Switch games](https://www.polygon.com/nintendo/449313/switch-2-backward-compatible-games-accessories)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
