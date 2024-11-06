@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Future felon](http://9gag.com/gag/a9yRQZK)
- - ⏩ [He left a trail of brown cloud, like a squid.](http://9gag.com/gag/an74e4E)
+ - 💣 [He left a trail of brown cloud, like a squid.](http://9gag.com/gag/an74e4E)
+ - ⏩ [He totally could&#39;ve zoomed in further. Coward.](http://9gag.com/gag/a2vWz3O)
  - 👉 [Not gonna lie I really enjoyed her final scenes](http://9gag.com/gag/apRGEgb)<!-- MEMES:END -->
 
 ---
