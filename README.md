@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I have no idea anyone can do that](http://9gag.com/gag/aGygX6n)
- - ⏩ [He left a trail of brown cloud, like a squid.](http://9gag.com/gag/an74e4E)
+ - 💣 [Japanese prime minister security drill](http://9gag.com/gag/an74eqL)
+ - ⏩ [Future felon](http://9gag.com/gag/a9yRQZK)
  - 👉 [Well well well... Look who was right all along](http://9gag.com/gag/agmAr81)<!-- MEMES:END -->
 
 ---
