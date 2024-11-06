@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Groypers Gave Illegal Hot Dogs and Burgers to Trump Voters](https://www.wired.com/story/groypers-illegally-gave-hot-dogs-and-burgers-to-trump-voters/)
- - [Suzuki teams up with Toyota on its first EV: the E Vitara](https://www.theverge.com/2024/11/5/24289169/suzuki-e-vitara-ev-electric-suv-toyota-launch)
- - [Elon Musk&#39;s America PAC Canvassers Faced Surveillance, Sickness, and Late Pay in Arizona](https://www.wired.com/story/elon-musks-america-pac-canvassers-surveillance-sickness-late-pay-arizona/)<!-- TECH:END -->
+ - [In a lawsuit, the US FTC accuses fintech startup Dave of misleading struggling borrowers about its cash advances&#39; terms, charging undisclosed fees, and more &lpar;Liz Hoffman/Semafor&rpar;](http://www.techmeme.com/241105/p26#a241105p26)
+ - [Deal: Blink Outdoor 4 security camera drops to just $40 &lpar;or less&rpar;!](https://www.androidauthority.com/blink-outdoor-4-security-camera-deal-3496997/)
+ - [Coupang reports Q3 revenue up 27% YoY to $7.9B, net retail sales of $6.14B, vs. $6.24B est., and operating income below projections; CPNG drops 8% after hours &lpar;Yoolim Lee/Bloomberg&rpar;](http://www.techmeme.com/241105/p25#a241105p25)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
