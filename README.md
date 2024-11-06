@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Striking NYT tech workers made a custom Connections so you don’t cross the picket line](https://www.theverge.com/2024/11/6/24289634/nyt-tech-guild-connections-strike-edition-custom-creator)
- - [Sources: Saudi Arabia plans a new AI project to rival the UAE&#39;s tech hub, backed by $50B to $100B to invest in data centers, startups, new talent, and more &lpar;Bloomberg&rpar;](http://www.techmeme.com/241106/p24#a241106p24)
- - [Google’s secret tool that browses the web for you is not so secret anymore](https://www.androidauthority.com/google-ai-web-surfing-tool-3497262/)<!-- TECH:END -->
+ - [The best noise-canceling headphones to buy right now](https://www.theverge.com/21345733/best-noise-canceling-headphones)
+ - [Mercedes-Benz’s electric future starts with this CLA prototype](https://www.theverge.com/2024/11/6/24289696/mercedes-benz-cla-prototype-ev-hybrid-tease)
+ - [First Fed Meeting After Election: Expect a Rate Cut, but What&#39;s in Store for 2025?](https://www.cnet.com/personal-finance/banking/why-this-weeks-fed-meeting-might-not-matter-as-much-as-next-years/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
