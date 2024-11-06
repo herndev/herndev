@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Galaxy Ring 2 could come a little sooner with better battery life and more](https://www.androidauthority.com/leak-samsung-galaxy-ring-2-launch-details-3497165/)
- - [Donald Trump wins the 2024 presidential election](https://www.theverge.com/2024/11/6/24287838/donald-trump-wins-2024-presidential-election)
- - [PlayStation 5 Pro review: high fidelity and frame rate, and smaller, lighter, and quieter than the original PS5, but $699 is pricey and disk drive costs extra &lpar;Sean Hollister/The Verge&rpar;](http://www.techmeme.com/241106/p15#a241106p15)<!-- TECH:END -->
+ - [I flew DJI’s $199 drone with its new $229 Goggles N3](https://www.theverge.com/24285651/dji-goggles-n3-price-release-date-hands-on)
+ - [9 Walmart Deals That Meet or Beat Black Friday Prices](https://www.wired.com/story/walmart-deals-november-2024/)
+ - [A look at Trump&#39;s potential new administration, including Elon Musk, tasked with &quot;a complete financial and performance audit of the entire federal government&quot; &lpar;Financial Times&rpar;](http://www.techmeme.com/241106/p16#a241106p16)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
