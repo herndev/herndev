@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [This deal ends tomorrow! Get two Google Nest Audio speakers for the price of one](https://www.androidauthority.com/google-nest-audio-bogo-deal-3497308/)
- - [Lyft reports Q3 revenue up 32% YoY to $1.52B, vs. $1.44B est, gross bookings up 16% to $4.1B, forecasts Q4 gross bookings above est.; LYFT jumps 20% after hours &lpar;Akash Sriram/Reuters&rpar;](http://www.techmeme.com/241106/p29#a241106p29)
- - [Arm reports Q2 revenue up 5% YoY to $844M, vs. $810.9M est., royalty revenue up 23% to $514M, and forecasts Q3 revenue below estimates &lpar;Ian King/Bloomberg&rpar;](http://www.techmeme.com/241106/p28#a241106p28)<!-- TECH:END -->
+ - [Hot deals: These Anker and Jackery power stations can handle any camping trip](https://www.androidauthority.com/anker-solix-c200-c300-jackery-explorer-1000-v2-deals-3497307/)
+ - [The FTC orders Sitejabber to stop faking product reviews](https://www.theverge.com/2024/11/6/24289857/ftc-fake-review-order-sitejabber-misleading-product-ratings)
+ - [NYT tech workers are making their own games while on strike](https://www.theverge.com/2024/11/6/24289937/nyt-tech-workers-strike-games-wordle)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
