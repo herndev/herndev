@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [He left a trail of brown cloud, like a squid.](http://9gag.com/gag/an74e4E)
- - ⏩ [Steal Like an Artist](http://9gag.com/gag/a34wYd5)
- - 👉 [Japanese prime minister security drill](http://9gag.com/gag/an74eqL)<!-- MEMES:END -->
+ - 💣 [Unbelievable](http://9gag.com/gag/aLn0qLv)
+ - ⏩ [He tried to tell us](http://9gag.com/gag/aZZ7ADX)
+ - 👉 [Steal Like an Artist](http://9gag.com/gag/a34wYd5)<!-- MEMES:END -->
 
 ---
 
