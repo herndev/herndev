@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Guess who&#39;s back.](http://9gag.com/gag/azxmLVx)
- - ⏩ [Spinning a stick, very easy!](http://9gag.com/gag/aLnw6Xv)
- - 👉 [As a European I\u2018m just happy for the good memes to follow.](http://9gag.com/gag/aMVxb1V)<!-- MEMES:END -->
+ - 💣 [Fine for Parking!](http://9gag.com/gag/aRB76vB)
+ - ⏩ [In 2016, an Egyptian man wearing an explosive belt hijacked a plane. A British passenger onboard asked him for a photo.](http://9gag.com/gag/aBygDGA)
+ - 👉 [Why does this bathroom have this?!](http://9gag.com/gag/ajP9Qq8)<!-- MEMES:END -->
 
 ---
 
