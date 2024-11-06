@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [In 2016, an Egyptian man wearing an explosive belt hijacked a plane. A British passenger onboard asked him for a photo.](http://9gag.com/gag/aBygDGA)
- - ⏩ [Can anyone translate?](http://9gag.com/gag/aZZ79Yn)
- - 👉 [Yes, it&#39;s a joke and not real](http://9gag.com/gag/aKG7wLO)<!-- MEMES:END -->
+ - 💣 [Yes, it&#39;s a joke and not real](http://9gag.com/gag/aKG7wLO)
+ - ⏩ [Japanese prime minister security drill](http://9gag.com/gag/an74eqL)
+ - 👉 [Unbelievable](http://9gag.com/gag/aLn0qLv)<!-- MEMES:END -->
 
 ---
 
