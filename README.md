@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Gorilla Glass may be as ubiquitous as it is due to anticompetitive practices](https://www.androidauthority.com/corning-eu-antitrust-probe-3497212/)
- - [Best Internet Providers in Akron, Ohio](https://www.cnet.com/home/internet/best-internet-providers-in-akron-oh/#ftag=CAD590a51e)
- - [Perplexity Dove Into Real-Time Election Tracking While Other AI Companies Held Back](https://www.wired.com/story/perplexity-election-tracking/)<!-- TECH:END -->
+ - [Striking NYT tech workers made a custom Connections so you don’t cross the picket line](https://www.theverge.com/2024/11/6/24289634/nyt-tech-guild-connections-strike-edition-custom-creator)
+ - [Sources: Saudi Arabia plans a new AI project to rival the UAE&#39;s tech hub, backed by $50B to $100B to invest in data centers, startups, new talent, and more &lpar;Bloomberg&rpar;](http://www.techmeme.com/241106/p24#a241106p24)
+ - [Google’s secret tool that browses the web for you is not so secret anymore](https://www.androidauthority.com/google-ai-web-surfing-tool-3497262/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
