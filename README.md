@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Galaxy S25 Slim is looking more likely as fourth S25 model is spotted](https://www.androidauthority.com/galaxy-s25-slim-imei-database-3497187/)
- - [Wallpaper Wednesday: More great phone wallpapers for all to share &lpar;November 6&rpar;](https://www.androidauthority.com/wallpaper-wednesday-nov-06-2024-3496550/)
- - [Best Kindle to Buy in 2024, Tested and Reviewed](https://www.wired.com/gallery/best-kindle/)<!-- TECH:END -->
+ - [European Union evaluating if Corning monopolizes the smartphone screen market](https://appleinsider.com/articles/24/11/06/european-union-evaluating-if-corning-monopolizes-the-smartphone-screen-market?utm_medium=rss)
+ - [iPhone average selling price soars because of big demand for Pro models &amp; more storage](https://appleinsider.com/articles/24/11/06/iphone-average-selling-price-soars-because-of-big-demand-for-pro-models-more-storage?utm_medium=rss)
+ - [Google’s Pixel Watch 3 is available at a new record low price for Verge readers](https://www.theverge.com/2024/11/6/24288785/googles-pixel-watch-3-m2-macbook-air-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
