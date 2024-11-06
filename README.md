@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Orange man singlehandedly kept women out of the oval office for a decade](http://9gag.com/gag/aLnwQV6)
- - ⏩ [Good morning everyone](http://9gag.com/gag/amovXgd)
- - 👉 [US Election](http://9gag.com/gag/a9yndOZ)<!-- MEMES:END -->
+ - 💣 [Can anyone translate?](http://9gag.com/gag/aZZ79Yn)
+ - ⏩ [Steal Like an Artist](http://9gag.com/gag/a34wYd5)
+ - 👉 [Not gonna lie I really enjoyed her final scenes](http://9gag.com/gag/apRGEgb)<!-- MEMES:END -->
 
 ---
 
