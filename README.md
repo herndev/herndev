@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [In a lawsuit, the US FTC accuses fintech startup Dave of misleading struggling borrowers about its cash advances&#39; terms, charging undisclosed fees, and more &lpar;Liz Hoffman/Semafor&rpar;](http://www.techmeme.com/241105/p26#a241105p26)
- - [Deal: Blink Outdoor 4 security camera drops to just $40 &lpar;or less&rpar;!](https://www.androidauthority.com/blink-outdoor-4-security-camera-deal-3496997/)
- - [Coupang reports Q3 revenue up 27% YoY to $7.9B, net retail sales of $6.14B, vs. $6.24B est., and operating income below projections; CPNG drops 8% after hours &lpar;Yoolim Lee/Bloomberg&rpar;](http://www.techmeme.com/241105/p25#a241105p25)<!-- TECH:END -->
+ - [Nintendo says its unannounced Switch successor will be able to play current Switch games and have carryover for Switch Online services and accounts &lpar;Ash Parrish/The Verge&rpar;](http://www.techmeme.com/241105/p27#a241105p27)
+ - [Say goodbye to the meatballs: Google Contacts rolls out new contact settings UI](https://www.androidauthority.com/google-contacts-new-contact-settings-ui-3497081/)
+ - [In a lawsuit, the US FTC accuses fintech startup Dave of misleading struggling borrowers about its cash advances&#39; terms, charging undisclosed fees, and more &lpar;Liz Hoffman/Semafor&rpar;](http://www.techmeme.com/241105/p26#a241105p26)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
