@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Angry At The World Right Now? Play Wolfenstein](https://kotaku.com/wolfenstein-recommendation-ps-plus-xbox-game-pass-1851691195)
- - [‘You Already Have Everything You Need’](https://kotaku.com/donald-trump-jd-vance-kamala-harris-election-dragon-age-1851691184)
- - [The PS5 Pro Sure Is Cool, But Who&#39;s It Really For?](https://kotaku.com/ps5-pro-who-is-it-for-review-worth-it-impressions-4k60-1851691112)<!-- GAME:END -->
+ - [Boba Fett suspended from Star Wars: Unlimited, likely a first for the TCG](https://www.polygon.com/tabletop-games/475544/star-wars-unlimited-boba-fett-card-suspended)
+ - [Dragon Age: The Veilguard&#39;s Party Nearly Had An Unlikely Inquisition Villain](https://kotaku.com/dragon-age-veilguard-calpernia-party-member-companion-1851691312)
+ - [20 Years Later, Konami Finally Reveals Mystery MSG3 Voice Actor&#39;s Identity](https://kotaku.com/mgs3-delta-remake-eva-voice-mystery-reveal-jodi-benson-1851691273)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
