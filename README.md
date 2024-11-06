@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Where the heck is Baby Steps?](https://www.polygon.com/gaming/475194/baby-steps-release-date-2024)
- - [Pud&#39;s Dolbus gets you 5.1 surround sound from headphones with a side of deadly Saw trap nightmares](https://www.pcgamer.com/hardware/earbuds-headphones/puds-dolbus-gets-you-5-1-surround-sound-from-headphones-with-a-side-of-deadly-saw-trap-nightmares)
- - [Homicipher is a clever horror game about female desire and monster language](https://www.polygon.com/gaming/475185/homicipher-review-impressions-pc)<!-- GAME:END -->
+ - [71 New Halo Items Made by Halo Studios Coming to Forza Horizon 5](https://forza.net/news/forza-horizon-5-horizon-track-day#new_tab)
+ - [Tips and Tricks for Monarchy, Out Now on Xbox One and Xbox Series X|S](https://news.xbox.com/en-us/2024/11/06/tips-and-tricks-for-monarchy/)
+ - [Dragon Age: The Veilguard’s best villain is found in a side story](https://www.polygon.com/gaming/475181/dragon-age-veilguard-best-villain-emmrich-hezenkoss)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
