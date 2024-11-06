@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [It was nuts that BioWare based Dragon Age: Inquisition&#39;s story on a DLC nobody played, but that DLC also proved just how close Dragon Age 2 was to perfection](https://www.pcgamer.com/games/dragon-age/it-was-nuts-that-dragon-age-inquisitions-story-followed-from-a-dlc-nobody-played-but-that-dlc-also-proved-just-how-close-dragon-age-2-was-to-perfection)
- - [Intel CEO sees &#39;less need for discrete graphics&#39; and now we&#39;re really worried about its upcoming Battlemage gaming GPU and the rest of Intel&#39;s graphics roadmap](https://www.pcgamer.com/hardware/graphics-cards/intel-ceo-sees-less-need-for-discrete-graphics-and-now-were-really-worried-about-its-upcoming-battlemage-gaming-gpu-and-the-rest-of-intels-graphics-roadmap)
- - [PS5 Pro review: 2025’s games will make or break it](https://www.polygon.com/review/474382/ps5-pro-review-sony-playstation-pssr-gpu-games)<!-- GAME:END -->
+ - [CrowdStrike and Windows are *gulp* having problems again but thankfully just with 24H2 and just in some Office programs](https://www.pcgamer.com/software/windows/crowdstrike-and-windows-are-gulp-having-problems-again-but-thankfully-just-with-24h2-and-just-in-some-office-programs)
+ - [The ex-GTA lead whose blog got the kibosh from Rockstar chats San Andreas&#39; worst bug and why &#39;anything that isn&#39;t visible to players tends to have swearing in it&#39;](https://www.pcgamer.com/games/grand-theft-auto/the-ex-gta-lead-whose-blog-got-the-kibosh-from-rockstar-chats-san-andreas-worst-bug-and-why-anything-that-isnt-visible-to-players-tends-to-have-swearing-in-it)
+ - [It was nuts that BioWare based Dragon Age: Inquisition&#39;s story on a DLC nobody played, but that DLC also proved just how close Dragon Age 2 was to perfection](https://www.pcgamer.com/games/dragon-age/it-was-nuts-that-dragon-age-inquisitions-story-followed-from-a-dlc-nobody-played-but-that-dlc-also-proved-just-how-close-dragon-age-2-was-to-perfection)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
