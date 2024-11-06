@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best noise-canceling headphones to buy right now](https://www.theverge.com/21345733/best-noise-canceling-headphones)
- - [Mercedes-Benz’s electric future starts with this CLA prototype](https://www.theverge.com/2024/11/6/24289696/mercedes-benz-cla-prototype-ev-hybrid-tease)
- - [First Fed Meeting After Election: Expect a Rate Cut, but What&#39;s in Store for 2025?](https://www.cnet.com/personal-finance/banking/why-this-weeks-fed-meeting-might-not-matter-as-much-as-next-years/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [This 240W USB-PD charger is complete overkill, but we still want it](https://www.androidauthority.com/usb-pd-240w-charger-3497300/)
+ - [Sony PlayStation 5 Pro Review: More Power, More Immersion, More Money](https://www.wired.com/review/sony-playstation-5-pro/)
+ - [This is the cheapest we’ve seen the Apple AirPods 4 go for!](https://www.androidauthority.com/apple-airpods-4-deal-3497309/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
