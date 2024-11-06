@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [71 New Halo Items Made by Halo Studios Coming to Forza Horizon 5](https://forza.net/news/forza-horizon-5-horizon-track-day#new_tab)
- - [Tips and Tricks for Monarchy, Out Now on Xbox One and Xbox Series X|S](https://news.xbox.com/en-us/2024/11/06/tips-and-tricks-for-monarchy/)
- - [Dragon Age: The Veilguard’s best villain is found in a side story](https://www.polygon.com/gaming/475181/dragon-age-veilguard-best-villain-emmrich-hezenkoss)<!-- GAME:END -->
+ - [Angry At The World Right Now? Play Wolfenstein](https://kotaku.com/wolfenstein-recommendation-ps-plus-xbox-game-pass-1851691195)
+ - [‘You Already Have Everything You Need’](https://kotaku.com/donald-trump-jd-vance-kamala-harris-election-dragon-age-1851691184)
+ - [The PS5 Pro Sure Is Cool, But Who&#39;s It Really For?](https://kotaku.com/ps5-pro-who-is-it-for-review-worth-it-impressions-4k60-1851691112)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
