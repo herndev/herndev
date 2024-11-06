@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Unbelievable](http://9gag.com/gag/aLn0qLv)
- - ⏩ [He tried to tell us](http://9gag.com/gag/aZZ7ADX)
- - 👉 [Steal Like an Artist](http://9gag.com/gag/a34wYd5)<!-- MEMES:END -->
+ - 💣 [He has done it twice](http://9gag.com/gag/a5QWdzr)
+ - ⏩ [French representative of democrats literally said this on radio today. They are doomed](http://9gag.com/gag/a6ZKwem)
+ - 👉 [Spinning a stick, very easy!](http://9gag.com/gag/aLnw6Xv)<!-- MEMES:END -->
 
 ---
 
