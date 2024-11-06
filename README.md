@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Mac mini shows Apple can be low cost -- it just doesn&#39;t often want to](https://appleinsider.com/articles/24/11/06/mac-mini-shows-apple-can-be-low-cost----it-just-doesnt-often-want-to?utm_medium=rss)
- - [9 Best Down Comforters &lpar;2024&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-down-comforters/)
- - [Bose Smart Soundbar Review: Old Bar, New AI Tricks](https://www.wired.com/review/bose-smart-soundbar/)<!-- TECH:END -->
+ - [The Galaxy S25 Slim is looking more likely as fourth S25 model is spotted](https://www.androidauthority.com/galaxy-s25-slim-imei-database-3497187/)
+ - [Wallpaper Wednesday: More great phone wallpapers for all to share &lpar;November 6&rpar;](https://www.androidauthority.com/wallpaper-wednesday-nov-06-2024-3496550/)
+ - [Best Kindle to Buy in 2024, Tested and Reviewed](https://www.wired.com/gallery/best-kindle/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
