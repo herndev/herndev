@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Steam Game Recording is now available for everyone, and it&#39;s packed with neat features](https://www.pcgamer.com/software/platforms/steam-game-recording-is-now-available-for-everyone-and-its-packed-with-neat-features)
- - [There&#39;s a Halo 2 nostalgia party going on in Halo Infinite and you&#39;re invited](https://www.pcgamer.com/games/fps/theres-a-halo-2-nostalgia-party-going-on-in-halo-infinite-and-youre-invited)
- - [A remake of strategy classic Romance of the Three Kingdoms 8 has proven divisive among its fanbase](https://www.pcgamer.com/games/strategy/a-remake-of-strategy-classic-romance-of-the-three-kingdoms-8-has-proven-divisive-among-its-fanbase)<!-- GAME:END -->
+ - [It sure looks like a Warcraft 2 remaster just leaked ahead of next week&#39;s anniversary event](https://www.pcgamer.com/games/strategy/it-sure-looks-like-a-warcraft-2-remaster-just-leaked-ahead-of-next-weeks-anniversary-event)
+ - [As expected, Twitch has modified its new &#39;politics and sensitive social issues&#39; rules, and nobody is happy with the changes](https://www.pcgamer.com/hardware/streaming/as-expected-twitch-has-modified-its-new-politics-and-sensitive-social-issues-rules-and-nobody-is-happy-with-the-changes)
+ - [Steam Game Recording is now available for everyone, and it&#39;s packed with neat features](https://www.pcgamer.com/software/platforms/steam-game-recording-is-now-available-for-everyone-and-its-packed-with-neat-features)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
