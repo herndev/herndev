@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Where are they in left and right spectrum?](http://9gag.com/gag/aLn0yd5)
- - ⏩ [Yes, it&#39;s a joke and not real](http://9gag.com/gag/aKG7wLO)
- - 👉 [Inflation, Shrinkflation, Emptyflation](http://9gag.com/gag/aE0gLbO)<!-- MEMES:END -->
+ - 💣 [In 2016, an Egyptian man wearing an explosive belt hijacked a plane. A British passenger onboard asked him for a photo.](http://9gag.com/gag/aBygDGA)
+ - ⏩ [Can anyone translate?](http://9gag.com/gag/aZZ79Yn)
+ - 👉 [Yes, it&#39;s a joke and not real](http://9gag.com/gag/aKG7wLO)<!-- MEMES:END -->
 
 ---
 
