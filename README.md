@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Dogecoin and other memecoins rise as Trump gets closer to victory; memecoins and AI-related tokens outperformed the crypto market in the lead-up to Election Day &lpar;Tanaya Macheel/CNBC&rpar;](http://www.techmeme.com/241106/p2#a241106p2)
- - [T-Mobile is breaking world records in upload speeds with new 5G DC tech](https://www.androidauthority.com/t-mobile-5g-dc-upload-speed-world-record-3497102/)
- - [Nintendo confirms Switch 2 will be backwards compatible with Switch games](https://www.androidauthority.com/nintendo-switch-2-backwards-compatible-3497099/)<!-- TECH:END -->
+ - [The UK launches a platform with guidance and practical resources to help businesses conduct impact assessments and evaluations of the safety of new AI systems &lpar;Anna Gross/Financial Times&rpar;](http://www.techmeme.com/241106/p5#a241106p5)
+ - [The November Pixel update is here but not here](https://www.androidauthority.com/november-google-pixel-update-3497110/)
+ - [Best Power Bank for iPhones in 2024](https://www.cnet.com/tech/mobile/best-power-bank-for-iphone/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
