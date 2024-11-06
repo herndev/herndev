@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Good morning everyone](http://9gag.com/gag/amovXgd)
- - ⏩ [Orange man singlehandedly kept women out of the oval office for a decade](http://9gag.com/gag/aLnwQV6)
+ - 💣 [Orange man singlehandedly kept women out of the oval office for a decade](http://9gag.com/gag/aLnwQV6)
+ - ⏩ [Good morning everyone](http://9gag.com/gag/amovXgd)
  - 👉 [US Election](http://9gag.com/gag/a9yndOZ)<!-- MEMES:END -->
 
 ---
