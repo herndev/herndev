@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Five Things to Know Before You Dive into Metal Slug Tactics](https://news.xbox.com/en-us/2024/11/06/five-things-before-you-dive-into-metal-slug-tactics/)
- - [Best Black Ops 6 KSV loadout and class setup](https://www.pcgamer.com/games/call-of-duty/black-ops-6-ksv-loadout)
- - [It looks like &#39;Windows Intelligence&#39; might subsume &#39;Copilot&#39; branding, giving yet more evidence that we can&#39;t decide how to market AI](https://www.pcgamer.com/software/windows/it-looks-like-windows-intelligence-might-subsume-copilot-branding-giving-yet-more-evidence-that-we-cant-decide-how-to-market-ai)<!-- GAME:END -->
+ - [Why the Dragon Age: The Veilguard team designed its trans-inclusive storylines](https://www.polygon.com/gaming/474954/dragon-age-the-veilguard-gender-trans-nonbinary-interview)
+ - [Destroy Everything In Sight With This Beginner Diablo 4 Barbarian Build](https://kotaku.com/barbarian-beginner-build-diablo-4-vessel-of-hatred-1851690806)
+ - [Let’s Not Pretend: Pokémon TCG Pocket Is Promoting Gambling To Children](https://kotaku.com/pokemon-tcg-pocket-gacha-loot-box-gambling-1851690838)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
