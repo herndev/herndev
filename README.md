@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nintendo confirms Switch 2 will be backwards compatible with Switch games](https://www.androidauthority.com/nintendo-switch-2-backwards-compatible-3497099/)
- - [A PeakMetrics analysis of ~25K posts on X discussing election fraud in battleground states on November 5 finds that ~60% of posts were focused on Pennsylvania &lpar;Stuart A. Thompson/New York Times&rpar;](http://www.techmeme.com/241106/p1#a241106p1)
- - [Android 16: Expected features, codename, leaks, release date, and everything else we know so far](https://www.androidauthority.com/android-16-features-3484159/)<!-- TECH:END -->
+ - [Dogecoin and other memecoins rise as Trump gets closer to victory; memecoins and AI-related tokens outperformed the crypto market in the lead-up to Election Day &lpar;Tanaya Macheel/CNBC&rpar;](http://www.techmeme.com/241106/p2#a241106p2)
+ - [T-Mobile is breaking world records in upload speeds with new 5G DC tech](https://www.androidauthority.com/t-mobile-5g-dc-upload-speed-world-record-3497102/)
+ - [Nintendo confirms Switch 2 will be backwards compatible with Switch games](https://www.androidauthority.com/nintendo-switch-2-backwards-compatible-3497099/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
