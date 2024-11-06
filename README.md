@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Why does this bathroom have this?!](http://9gag.com/gag/ajP9Qq8)
- - ⏩ [Name that girl band.](http://9gag.com/gag/awyBNnW)
- - 👉 [Looks like I won the bet. Looking forward to this proclamation of how great I am.](http://9gag.com/gag/an74YWB)<!-- MEMES:END -->
+ - 💣 [Looks like I won the bet. Looking forward to this proclamation of how great I am.](http://9gag.com/gag/an74YWB)
+ - ⏩ [Wokenism is bad m&#39;kay! Do weed!](http://9gag.com/gag/aGydY6X)
+ - 👉 [Bro got better curves than the first one](http://9gag.com/gag/a9ynd91)<!-- MEMES:END -->
 
 ---
 
