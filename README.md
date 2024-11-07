@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The moment it was all decided](http://9gag.com/gag/a1mWYPb)
- - ⏩ [Kamala&#39;s trans activist step daughter. America rejected this shit](http://9gag.com/gag/aMVxGVG)
- - 👉 [This is just some data put into relation/context.. Aynway, does anybody KNOW if there are coincidences in determinism or fatalism?](http://9gag.com/gag/a34wLEN)<!-- MEMES:END -->
+ - 💣 [Good bye](http://9gag.com/gag/aRB7AO2)
+ - ⏩ [Donald Trump has only been elected for 2 days and Robert F. Kennedy Jr. is already working on making America healthy again!](http://9gag.com/gag/aqynL8v)
+ - 👉 [The Spaniards from Valencia and their unity.](http://9gag.com/gag/aPA7WYn)<!-- MEMES:END -->
 
 ---
 
