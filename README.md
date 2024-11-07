@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Pixel’s awesome call screening feature could get smarter replies soon](https://www.androidauthority.com/google-phone-ai-replies-call-screen-3497394/)
- - [The US SEC&#39;s crypto-related enforcement is slated for a major rollback under President Trump, who has pledged to fire Gary Gensler on the first day in office &lpar;Bloomberg&rpar;](http://www.techmeme.com/241107/p4#a241107p4)
- - [Truecaller co-founders Alan Mamedi and Nami Zarringhalam plan to hand over day-to-day company operations to product chief Rishit Jhunjhunwala in January 2025 &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/241107/p3#a241107p3)<!-- TECH:END -->
+ - [Malaysia&#39;s Johor state has drawn ~50 data center projects in the last three years, creating 40,000 jobs but raising concerns about power and water shortages &lpar;Rest of World&rpar;](http://www.techmeme.com/241107/p7#a241107p7)
+ - [Experts say President-elect Donald Trump will likely uphold the CHIPS Act, despite his campaign rhetoric, with some modifications to its implementation &lpar;Dylan Butts/CNBC&rpar;](http://www.techmeme.com/241107/p6#a241107p6)
+ - [Home Chef Promo Codes: 50% Off | November 2024](https://www.wired.com/story/home-chef-promo-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
