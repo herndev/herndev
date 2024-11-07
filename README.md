@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Batshitcrazy](http://9gag.com/gag/aO87bgE)
- - ⏩ [Trump won all 7 swing states, the popular vote, the house and the senate.](http://9gag.com/gag/aGydRw7)
- - 👉 [US Election](http://9gag.com/gag/a9yndOZ)<!-- MEMES:END -->
+ - 💣 [Good morning everyone](http://9gag.com/gag/amovXgd)
+ - ⏩ [Batshitcrazy](http://9gag.com/gag/aO87bgE)
+ - 👉 [Trump won all 7 swing states, the popular vote, the house and the senate.](http://9gag.com/gag/aGydRw7)<!-- MEMES:END -->
 
 ---
 
