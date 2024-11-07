@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This is just some data put into relation/context.. Aynway, does anybody KNOW if there are coincidences in determinism or fatalism?](http://9gag.com/gag/a34wLEN)
- - ⏩ [What&#39;s she gonna tell ?](http://9gag.com/gag/aD24wqO)
- - 👉 [The moment it was all decided](http://9gag.com/gag/a1mWYPb)<!-- MEMES:END -->
+ - 💣 [Both young men are pepsi after train surfing in austria. Rip. Darwin approves.](http://9gag.com/gag/ae9D6bj)
+ - ⏩ [Understandable, have a nice day](http://9gag.com/gag/aD24oex)
+ - 👉 [This is just some data put into relation/context.. Aynway, does anybody KNOW if there are coincidences in determinism or fatalism?](http://9gag.com/gag/a34wLEN)<!-- MEMES:END -->
 
 ---
 
