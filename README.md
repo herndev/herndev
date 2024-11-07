@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [No man has beaten a woman so bad since Paris Olympics](http://9gag.com/gag/aAyepx9)
- - ⏩ [\u201cStho what\u201d](http://9gag.com/gag/aKG7BO6)
- - 👉 [Trump Memes returning after 4 years be like:](http://9gag.com/gag/awyBbR1)<!-- MEMES:END -->
+ - 💣 [Some Irish pub.](http://9gag.com/gag/aRB7P3Q)
+ - ⏩ [\u201c Who the hell is this guy? \u201c Destroyer of wokes and leftist.](http://9gag.com/gag/aXPgX5D)
+ - 👉 [People are afraid](http://9gag.com/gag/a6ZK7Wq)<!-- MEMES:END -->
 
 ---
 
