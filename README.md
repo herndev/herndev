@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Bluetti AC500 &amp; B300S review: upgraded portable power station to get you through disasters](https://appleinsider.com/articles/24/11/07/bluetti-ac500-b300s-review-upgraded-portable-power-station-to-get-you-through-disasters?utm_medium=rss)
- - [Perplexity&#39;s US election hub offered helpful, real-time election insights and maps on November 5, linking to reliable resources and providing historical context &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/241106/p37#a241106p37)
- - [Australia plans to introduce legislation that would ban children under 16 from using social media, not exempting those already with accounts or parental consent &lpar;Maani Truu/ABC&rpar;](http://www.techmeme.com/241106/p36#a241106p36)<!-- TECH:END -->
+ - [Sources: TSMC and GlobalFoundries have finished negotiating agreements for billions of dollars in grants and loans under the CHIPS Act to support US factories &lpar;Mackenzie Hawkins/Bloomberg&rpar;](http://www.techmeme.com/241106/p39#a241106p39)
+ - [CRM software maker Freshworks plans to cut 13% of its workforce, or 660 employees, after reporting Q3 revenue up 22% YoY to $186.6M, vs. $181.6M average est. &lpar;Jaspreet Singh/Reuters&rpar;](http://www.techmeme.com/241106/p38#a241106p38)
+ - [Bluetti AC500 &amp; B300S review: upgraded portable power station to get you through disasters](https://appleinsider.com/articles/24/11/07/bluetti-ac500-b300s-review-upgraded-portable-power-station-to-get-you-through-disasters?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
