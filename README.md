@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Hot deals: These Anker and Jackery power stations can handle any camping trip](https://www.androidauthority.com/anker-solix-c200-c300-jackery-explorer-1000-v2-deals-3497307/)
- - [The FTC orders Sitejabber to stop faking product reviews](https://www.theverge.com/2024/11/6/24289857/ftc-fake-review-order-sitejabber-misleading-product-ratings)
- - [NYT tech workers are making their own games while on strike](https://www.theverge.com/2024/11/6/24289937/nyt-tech-workers-strike-games-wordle)<!-- TECH:END -->
+ - [Take-Two is selling its indie games label Private Division](https://www.theverge.com/2024/11/6/24289932/take-two-private-division-publisher-sale)
+ - [OnePlus 12 gets Oxygen OS 15 ahead of schedule, but at a cost](https://www.androidauthority.com/oneplus-12-oxygen-os-15-3497384/)
+ - [CrowdStrike agrees to acquire Tel Aviv-based Adaptive Shield, which offers cloud security for SaaS apps; sources say CrowdStrike will pay ~$300M for the company &lpar;Meir Orbach/CTech&rpar;](http://www.techmeme.com/241106/p32#a241106p32)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
