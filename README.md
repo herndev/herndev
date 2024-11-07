@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [I chatted to an MIT-built AI version of my future, 60-year-old self and we did NOT get along](https://www.pcgamer.com/hardware/it-is-on-sight-with-this-ai-chatbot)
  - [Five things I always tell people before they buy their first SSD](https://www.pcgamer.com/hardware/ssds/five-things-i-always-tell-people-before-they-buy-their-first-ssd)
- - [Crown Gambit, a stylish dark-fantasy card battler where choices matter, now has a demo](https://www.pcgamer.com/games/crown-gambit-a-stylish-dark-fantasy-card-battler-where-choices-matter-now-has-a-demo)
- - [PC Gamer magazine&#39;s new issue is on sale now: Path of Exile 2](https://www.pcgamer.com/gaming-industry/pc-gamer-magazines-new-issue-is-on-sale-now-path-of-exile-2)<!-- GAME:END -->
+ - [Crown Gambit, a stylish dark-fantasy card battler where choices matter, now has a demo](https://www.pcgamer.com/games/crown-gambit-a-stylish-dark-fantasy-card-battler-where-choices-matter-now-has-a-demo)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
