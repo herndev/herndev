@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The best sci-fi TV of the year so far](https://www.polygon.com/tv/474377/best-sci-fi-shows-2024)
- - [I chatted to an MIT-built AI version of my future, 60-year-old self and we did NOT get along](https://www.pcgamer.com/hardware/it-is-on-sight-with-this-ai-chatbot)
- - [Five things I always tell people before they buy their first SSD](https://www.pcgamer.com/hardware/ssds/five-things-i-always-tell-people-before-they-buy-their-first-ssd)<!-- GAME:END -->
+ - [GTA 6&#39;s corporate overlord reveals that he&#39;s looking forward to &#39;a more sensible FTC&#39; under the Trump administration because sometimes &#39;deregulation can be a positive&#39;](https://www.pcgamer.com/games/grand-theft-auto/gta-6s-corporate-overlord-reveals-that-hes-looking-forward-to-a-more-sensible-ftc-under-the-trump-administration-because-sometimes-deregulation-can-be-a-positive)
+ - [Take-Two&#39;s CEO generously calls the cataclysmically bad Borderlands movie &#39;disappointing&#39;, but it still ended up helping sales of the games](https://www.pcgamer.com/games/fps/take-twos-ceo-generously-calls-the-cataclysmically-bad-borderlands-movie-disappointing-but-it-still-ended-up-helping-sales-of-the-games)
+ - [Kerbal Space Program publisher Private Division has been sold to a mystery buyer](https://www.polygon.com/news/475635/private-division-sold)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
