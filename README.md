@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Karate Survivor is a fun spin on the Vampire Survivors format… once you unlock the core mechanics](https://www.polygon.com/impressions/475331/karate-survivor-game-pc)
- - [Sega is delisting a huge number of its greatest classic games on Steam, probably so it can sell you a new collection](https://www.pcgamer.com/games/sega-is-delisting-a-huge-number-of-its-greatest-classic-games-on-steam-probably-so-it-can-sell-you-a-new-collection)
- - [Sega is delisting tons of its classic games](https://www.polygon.com/news/475677/sega-classic-games-delisting)<!-- GAME:END -->
+ - [Death Stranding Director’s Cut Arrives on Xbox Today: 5 Ways to Connect in 2024](https://news.xbox.com/en-us/2024/11/07/death-stranding-directors-cut-xbox/)
+ - [The 2 TB Samsung 980 SSD is cheaper in time for the PS5 Pro’s launch](https://www.polygon.com/good-deals/475710/samsung-980-plyastation-5-pro-ssd-amazon-sale)
+ - [Someone found a new Donkey Kong Country 2 cheat code](https://www.polygon.com/gaming/475752/new-donkey-kong-country-2-cheat-code)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
