@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Snapdragon 8 Elite phones shown running PC games with no sweat, but is it legit?](https://www.androidauthority.com/snapdragon-8-elite-phones-pc-games-emulator-app-3497467/)
- - [Apple&#39;s iPhone 15 led sales globally in mid-2024 with Samsung close behind](https://appleinsider.com/articles/24/11/07/apples-iphone-15-led-sales-globally-in-mid-2024-with-samsung-close-behind?utm_medium=rss)
- - [Matter launches its 1.4 spec, including &quot;enhanced multi-admin&quot; and updates to energy management support, in a bid to get the smart home standard back on track &lpar;Jennifer Pattison Tuohy/The Verge&rpar;](http://www.techmeme.com/241107/p20#a241107p20)<!-- TECH:END -->
+ - [M4 MacBook Pro review roundup: fantastically fast -- but no real surprises](https://appleinsider.com/articles/24/11/07/m4-macbook-pro-review-roundup-fantastically-fast----but-no-real-surprises?utm_medium=rss)
+ - [Max is getting ready for its own password-sharing crackdown](https://www.theverge.com/2024/11/7/24290326/max-password-sharing-crackdown-messaging-q3-2024-earnings)
+ - [Nvidia plans to add a 100-hour monthly cap for new Performance or Ultimate GeForce Now users from January 1 to avoid raising prices &quot;in the foreseeable future&quot; &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/241107/p25#a241107p25)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
