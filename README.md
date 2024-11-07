@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Android may soon make it easier to bring back the floating accessibility menu](https://www.androidauthority.com/accessibility-menu-button-3497233/)
- - [Google Photos is streamlining the editing workflow for multiple clips &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-photos-add-clips-apk-3497552/)
- - [Google could add AI replies to its handy call-screening feature](https://www.theverge.com/2024/11/7/24290425/google-pixel-phone-ai-replies-call-screening)<!-- TECH:END -->
+ - [Act Fast to Get This 5TB Seagate Game Drive for $130 and Never Run Out of PS5 Storage Space Again](https://www.cnet.com/deals/act-fast-to-get-this-5tb-seagate-game-drive-for-130-and-never-run-out-of-ps5-storage-space-again/#ftag=CAD590a51e)
+ - [Audi launches a new brand in China without the four-ring logo](https://www.theverge.com/2024/11/7/24290431/audi-china-rebrand-e-concept-launch)
+ - [iRobot is laying off staff for the second time this year](https://www.theverge.com/2024/11/7/24290515/irobot-laying-off-staff-second-time-2024)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
