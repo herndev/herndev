@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Trump won all 7 swing states, the popular vote, the house and the senate.](http://9gag.com/gag/aGydRw7)
- - ⏩ [Batshitcrazy](http://9gag.com/gag/aO87bgE)
- - 👉 [US Election](http://9gag.com/gag/a9yndOZ)<!-- MEMES:END -->
+ - 💣 [Clown world](http://9gag.com/gag/ajP9nM1)
+ - ⏩ [Steal Like an Artist](http://9gag.com/gag/a34wYd5)
+ - 👉 [Bro got better curves than the first one](http://9gag.com/gag/a9ynd91)<!-- MEMES:END -->
 
 ---
 
