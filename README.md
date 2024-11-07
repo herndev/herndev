@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Road karma is not infinite](http://9gag.com/gag/agmAyKK)
- - ⏩ [Magic](http://9gag.com/gag/aXPg07z)
- - 👉 [Stephen McDaniel, a killer doesn&#39;t move much during a 2 hour interrogation](http://9gag.com/gag/aAyeRn0)<!-- MEMES:END -->
+ - 💣 [What happened with all those votes?](http://9gag.com/gag/a7oWK0x)
+ - ⏩ [Why does this bathroom have this?!](http://9gag.com/gag/ajP9Qq8)
+ - 👉 [No man has beaten a woman so bad since Paris Olympics](http://9gag.com/gag/aAyepx9)<!-- MEMES:END -->
 
 ---
 
