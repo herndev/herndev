@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Free hugs](http://9gag.com/gag/aAyeR89)
- - ⏩ [Why does this bathroom have this?!](http://9gag.com/gag/ajP9Qq8)
- - 👉 [Clown world](http://9gag.com/gag/ajP9nM1)<!-- MEMES:END -->
+ - 💣 [Trump won all 7 swing states, the popular vote, the house and the senate.](http://9gag.com/gag/aGydRw7)
+ - ⏩ [Batshitcrazy](http://9gag.com/gag/aO87bgE)
+ - 👉 [US Election](http://9gag.com/gag/a9yndOZ)<!-- MEMES:END -->
 
 ---
 
