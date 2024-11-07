@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [You might be able to locate the OnePlus 13 even when it’s powered off](https://www.androidauthority.com/oneplus-13-powered-off-finding-3497244/)
- - [New Matter 1.4 spec supports more device types &amp; improvements for Apple Home](https://appleinsider.com/articles/24/11/07/new-matter-14-spec-supports-more-device-types-improvements-for-apple-home?utm_medium=rss)
- - [Q&amp;A with Houseparty co-founder Ben Rubin on his new group messaging platform Towns, using the River Protocol, moderation, raising a $25M Series A, and more &lpar;Joel Khalili/Wired&rpar;](http://www.techmeme.com/241107/p17#a241107p17)<!-- TECH:END -->
+ - [Snapdragon 8 Elite phones shown running PC games with no sweat, but is it legit?](https://www.androidauthority.com/snapdragon-8-elite-phones-pc-games-emulator-app-3497467/)
+ - [Apple&#39;s iPhone 15 led sales globally in mid-2024 with Samsung close behind](https://appleinsider.com/articles/24/11/07/apples-iphone-15-led-sales-globally-in-mid-2024-with-samsung-close-behind?utm_medium=rss)
+ - [Matter launches its 1.4 spec, including &quot;enhanced multi-admin&quot; and updates to energy management support, in a bid to get the smart home standard back on track &lpar;Jennifer Pattison Tuohy/The Verge&rpar;](http://www.techmeme.com/241107/p20#a241107p20)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
