@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Malaysia&#39;s Johor state has drawn ~50 data center projects in the last three years, creating 40,000 jobs but raising concerns about power and water shortages &lpar;Rest of World&rpar;](http://www.techmeme.com/241107/p7#a241107p7)
- - [Experts say President-elect Donald Trump will likely uphold the CHIPS Act, despite his campaign rhetoric, with some modifications to its implementation &lpar;Dylan Butts/CNBC&rpar;](http://www.techmeme.com/241107/p6#a241107p6)
- - [Home Chef Promo Codes: 50% Off | November 2024](https://www.wired.com/story/home-chef-promo-code/)<!-- TECH:END -->
+ - [Pixel phones start getting highly anticipated battery charging limit feature](https://www.androidauthority.com/pixel-battery-charging-limit-android-15-rollout-3497426/)
+ - [The Galaxy S25 Slim could get an Ultra camera upgrade](https://www.androidauthority.com/samsung-galaxy-s25-slim-ultra-camera-3497406/)
+ - [Malaysia&#39;s Johor state has drawn ~50 data center projects in the last three years, creating 40,000 jobs but raising concerns about power and water shortages &lpar;Rest of World&rpar;](http://www.techmeme.com/241107/p7#a241107p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
