@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Bioframe Outpost Evokes Classic Console Game Charms](https://news.xbox.com/en-us/2024/11/07/bioframe-outpost-evokes-classic-console-game-charms/)
- - [Brighter Shores is a RuneScape successor with lots of professions and little wonder](https://www.pcgamer.com/games/mmo/brighter-shores-is-a-runescape-successor-with-lots-of-professions-and-little-wonder)
- - [Diablo 4: Be At One With Your Violent Nature With These Druid Builds](https://kotaku.com/diablo-4-druid-build-guide-werebear-vessel-of-hatred-1851692535)<!-- GAME:END -->
+ - [Amazon&#39;s Mass Effect TV show now in &#39;active development&#39; from the writer of F9: The Fast Saga &lpar;the one where a car goes to space&rpar;](https://www.pcgamer.com/games/mass-effect/amazons-mass-effect-tv-show-now-in-active-development-from-the-writer-of-f9-the-fast-saga-the-one-where-a-car-goes-to-space)
+ - [Pokémon TCG Pocket PSA: We should be ‘liking’ each other’s showcases](https://www.polygon.com/pokemon/475890/tcg-pocket-shop-tickets-showcases)
+ - [Brush up on your insult swordfighting skills, someone is making an unofficial Monkey Island game](https://www.polygon.com/news/475854/booze-of-monkey-island-adventure-game-tribute)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
