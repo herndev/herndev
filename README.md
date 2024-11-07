@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Road karma is not infinite](http://9gag.com/gag/agmAyKK)
- - ⏩ [Together, these six women ensured that Trump won the American election!](http://9gag.com/gag/awyBbbW)
- - 👉 [Magic](http://9gag.com/gag/aXPg07z)<!-- MEMES:END -->
+ - 💣 [Ladies and gentlemen, let the good times start](http://9gag.com/gag/aVvwXOd)
+ - ⏩ [Magic](http://9gag.com/gag/aXPg07z)
+ - 👉 [Kamela Harris caught pretending to be on the phone - with the camera &lpar;lol&rpar; app](http://9gag.com/gag/apRGqRE)<!-- MEMES:END -->
 
 ---
 
