@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [All romance options in Dragon Age: The Veilguard](https://www.polygon.com/dragon-age-veilguard-guides/471892/romance-options-all-how-to-romance-characters)
- - [This Silent Hill 2 superfan has a theory that shows a new side to James](https://www.polygon.com/gaming/475531/silent-hill-2-fan-theory-james)
- - [Everything You Need to Know About Call of Duty: Black Ops 6 and Call of Duty: Warzone Season 01](https://www.callofduty.com/blog/2024/11/call-of-duty-black-ops-6-season-one-mp-zombies-maps-modes-announcement#new_tab)<!-- GAME:END -->
+ - [Bioframe Outpost Evokes Classic Console Game Charms](https://news.xbox.com/en-us/2024/11/07/bioframe-outpost-evokes-classic-console-game-charms/)
+ - [Brighter Shores is a RuneScape successor with lots of professions and little wonder](https://www.pcgamer.com/games/mmo/brighter-shores-is-a-runescape-successor-with-lots-of-professions-and-little-wonder)
+ - [Diablo 4: Be At One With Your Violent Nature With These Druid Builds](https://kotaku.com/diablo-4-druid-build-guide-werebear-vessel-of-hatred-1851692535)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
