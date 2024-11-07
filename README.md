@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Kamela Harris caught pretending to be on the phone - with the camera &lpar;lol&rpar; app](http://9gag.com/gag/apRGqRE)
- - ⏩ [Road karma is not infinite](http://9gag.com/gag/agmAyKK)
- - 👉 [Have you tried confidence ? I have](http://9gag.com/gag/ayNe5Np)<!-- MEMES:END -->
+ - 💣 [Free hugs](http://9gag.com/gag/aAyeR89)
+ - ⏩ [Why does this bathroom have this?!](http://9gag.com/gag/ajP9Qq8)
+ - 👉 [Clown world](http://9gag.com/gag/ajP9nM1)<!-- MEMES:END -->
 
 ---
 
