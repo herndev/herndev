@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [What happened with all those votes?](http://9gag.com/gag/a7oWK0x)
- - ⏩ [Why does this bathroom have this?!](http://9gag.com/gag/ajP9Qq8)
- - 👉 [No man has beaten a woman so bad since Paris Olympics](http://9gag.com/gag/aAyepx9)<!-- MEMES:END -->
+ - 💣 [Too bad](http://9gag.com/gag/aPA7vXq)
+ - ⏩ [Free hugs](http://9gag.com/gag/aAyeR89)
+ - 👉 [Looks like I won the bet. Looking forward to this proclamation of how great I am.](http://9gag.com/gag/an74YWB)<!-- MEMES:END -->
 
 ---
 
