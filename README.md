@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Free Play Days – Across the Obelisk, Train Sim World 5, Eiyuden Chronicle: Rising and Astroneer](https://news.xbox.com/en-us/2024/11/07/free-play-days-11-07-2024/)
- - [Pokémon has always inspired urban legends — so of course Pokémon TCG Pocket would have its own](https://www.polygon.com/pokemon/475706/pokemon-tcg-pocket-urban-legends)
- - [Where to buy the PS5 Pro](https://www.polygon.com/pre-order/449691/ps5-pro-ps-direct-amazon-best-buy)<!-- GAME:END -->
+ - [Karate Survivor is a fun spin on the Vampire Survivors format… once you unlock the core mechanics](https://www.polygon.com/impressions/475331/karate-survivor-game-pc)
+ - [Sega is delisting a huge number of its greatest classic games on Steam, probably so it can sell you a new collection](https://www.pcgamer.com/games/sega-is-delisting-a-huge-number-of-its-greatest-classic-games-on-steam-probably-so-it-can-sell-you-a-new-collection)
+ - [Sega is delisting tons of its classic games](https://www.polygon.com/news/475677/sega-classic-games-delisting)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
