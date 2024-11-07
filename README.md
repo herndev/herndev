@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Amazon&#39;s Mass Effect TV show now in &#39;active development&#39; from the writer of F9: The Fast Saga &lpar;the one where a car goes to space&rpar;](https://www.pcgamer.com/games/mass-effect/amazons-mass-effect-tv-show-now-in-active-development-from-the-writer-of-f9-the-fast-saga-the-one-where-a-car-goes-to-space)
- - [Pokémon TCG Pocket PSA: We should be ‘liking’ each other’s showcases](https://www.polygon.com/pokemon/475890/tcg-pocket-shop-tickets-showcases)
- - [Brush up on your insult swordfighting skills, someone is making an unofficial Monkey Island game](https://www.polygon.com/news/475854/booze-of-monkey-island-adventure-game-tribute)<!-- GAME:END -->
+ - [To appease a Steam user&#39;s demands for straight representation, Webfishing added a &#39;Straight&#39; title that costs 9,999 fish bucks](https://www.pcgamer.com/games/sports/to-appease-a-steam-users-demands-for-straight-representation-webfishing-added-a-straight-title-that-costs-9-999-fish-bucks)
+ - [Red Dead Redemption fan turns every horse into a missile with a speed mod](https://www.polygon.com/gaming/476010/red-dead-redemption-rdr-horse-carriage-speed-mod)
+ - [Report: Amazon Working On Mass Effect TV Show](https://kotaku.com/mass-effect-tv-show-movie-amazon-live-action-fallout-1851692186)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
