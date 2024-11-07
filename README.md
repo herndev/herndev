@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [To appease a Steam user&#39;s demands for straight representation, Webfishing added a &#39;Straight&#39; title that costs 9,999 fish bucks](https://www.pcgamer.com/games/sports/to-appease-a-steam-users-demands-for-straight-representation-webfishing-added-a-straight-title-that-costs-9-999-fish-bucks)
- - [Red Dead Redemption fan turns every horse into a missile with a speed mod](https://www.polygon.com/gaming/476010/red-dead-redemption-rdr-horse-carriage-speed-mod)
- - [Report: Amazon Working On Mass Effect TV Show](https://kotaku.com/mass-effect-tv-show-movie-amazon-live-action-fallout-1851692186)<!-- GAME:END -->
+ - [Lottacoins Island number block puzzle solutions and codes in Mario &amp;#038; Luigi: Brothership](https://www.polygon.com/guides/476044/mario-luigi-brothership-lottacoins-island-gate-codes-puzzle-solutions-number-blocks)
+ - [The most underrated shooter of 2023 is free on Epic right now, and going for cheap on Steam](https://www.pcgamer.com/games/fps/the-most-underrated-shooter-of-2023-is-free-on-epic-right-now-and-going-for-cheap-on-steam)
+ - [To appease a Steam user&#39;s demands for straight representation, Webfishing added a &#39;Straight&#39; title that costs 9,999 fish bucks](https://www.pcgamer.com/games/sports/to-appease-a-steam-users-demands-for-straight-representation-webfishing-added-a-straight-title-that-costs-9-999-fish-bucks)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
