@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Ladies and gentlemen, let the good times start](http://9gag.com/gag/aVvwXOd)
- - ⏩ [Magic](http://9gag.com/gag/aXPg07z)
- - 👉 [Kamela Harris caught pretending to be on the phone - with the camera &lpar;lol&rpar; app](http://9gag.com/gag/apRGqRE)<!-- MEMES:END -->
+ - 💣 [Magic](http://9gag.com/gag/aXPg07z)
+ - ⏩ [That day, she learned the importance of securing a downpayment before committing to a contract](http://9gag.com/gag/awyB7EW)
+ - 👉 [Get married already](http://9gag.com/gag/aXPgb9z)<!-- MEMES:END -->
 
 ---
 
