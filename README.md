@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Five things I always tell people before they buy their first SSD](https://www.pcgamer.com/hardware/ssds/five-things-i-always-tell-people-before-they-buy-their-first-ssd)
  - [Crown Gambit, a stylish dark-fantasy card battler where choices matter, now has a demo](https://www.pcgamer.com/games/crown-gambit-a-stylish-dark-fantasy-card-battler-where-choices-matter-now-has-a-demo)
- - [PC Gamer magazine&#39;s new issue is on sale now: Path of Exile 2](https://www.pcgamer.com/gaming-industry/pc-gamer-magazines-new-issue-is-on-sale-now-path-of-exile-2)
- - [Today&#39;s Wordle answer for Thursday, November 7](https://www.pcgamer.com/games/puzzle/wordle-answer-today-november-7-2024)<!-- GAME:END -->
+ - [PC Gamer magazine&#39;s new issue is on sale now: Path of Exile 2](https://www.pcgamer.com/gaming-industry/pc-gamer-magazines-new-issue-is-on-sale-now-path-of-exile-2)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
