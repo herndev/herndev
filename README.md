@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Act Fast to Get This 5TB Seagate Game Drive for $130 and Never Run Out of PS5 Storage Space Again](https://www.cnet.com/deals/act-fast-to-get-this-5tb-seagate-game-drive-for-130-and-never-run-out-of-ps5-storage-space-again/#ftag=CAD590a51e)
- - [Audi launches a new brand in China without the four-ring logo](https://www.theverge.com/2024/11/7/24290431/audi-china-rebrand-e-concept-launch)
- - [iRobot is laying off staff for the second time this year](https://www.theverge.com/2024/11/7/24290515/irobot-laying-off-staff-second-time-2024)<!-- TECH:END -->
+ - [Verizon grants a temporary reprieve for Message Plus users](https://www.androidauthority.com/verizon-message-plus-shutdown-delayed-3497607/)
+ - [Sources: CFPB told staff not to use mobile voice calls or text messages due to risk from the China-linked telecom hack; many US officials curtailed phone use &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/241107/p28#a241107p28)
+ - [I tried Google’s hidden note-taking app that no one’s talking about, and you should too](https://www.androidauthority.com/google-notebooklm-audio-overview-3497591/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
