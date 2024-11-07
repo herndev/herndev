@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Verizon grants a temporary reprieve for Message Plus users](https://www.androidauthority.com/verizon-message-plus-shutdown-delayed-3497607/)
- - [Sources: CFPB told staff not to use mobile voice calls or text messages due to risk from the China-linked telecom hack; many US officials curtailed phone use &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/241107/p28#a241107p28)
- - [I tried Google’s hidden note-taking app that no one’s talking about, and you should too](https://www.androidauthority.com/google-notebooklm-audio-overview-3497591/)<!-- TECH:END -->
+ - [The OnePlus 13 will leave more space free for your apps — Here’s how](https://www.androidauthority.com/oneplus-13-storage-space-3497359/)
+ - [Canada “bans” TikTok in the most Canada way possible](https://www.androidauthority.com/canada-tiktok-ban-3497635/)
+ - [Why You Should Care About the Fed&#39;s Interest Rate Decision Today](https://www.cnet.com/personal-finance/banking/why-you-should-care-about-the-feds-interest-rate-decision-today/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
