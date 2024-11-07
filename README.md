@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Both young men are pepsi after train surfing in austria. Rip. Darwin approves.](http://9gag.com/gag/ae9D6bj)
- - ⏩ [Understandable, have a nice day](http://9gag.com/gag/aD24oex)
+ - 💣 [The moment it was all decided](http://9gag.com/gag/a1mWYPb)
+ - ⏩ [Kamala&#39;s trans activist step daughter. America rejected this shit](http://9gag.com/gag/aMVxGVG)
  - 👉 [This is just some data put into relation/context.. Aynway, does anybody KNOW if there are coincidences in determinism or fatalism?](http://9gag.com/gag/a34wLEN)<!-- MEMES:END -->
 
 ---
