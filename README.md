@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Good morning everyone](http://9gag.com/gag/amovXgd)
- - ⏩ [Batshitcrazy](http://9gag.com/gag/aO87bgE)
- - 👉 [Trump won all 7 swing states, the popular vote, the house and the senate.](http://9gag.com/gag/aGydRw7)<!-- MEMES:END -->
+ - 💣 [Road karma is not infinite](http://9gag.com/gag/agmAyKK)
+ - ⏩ [Magic](http://9gag.com/gag/aXPg07z)
+ - 👉 [Stephen McDaniel, a killer doesn&#39;t move much during a 2 hour interrogation](http://9gag.com/gag/aAyeRn0)<!-- MEMES:END -->
 
 ---
 
