@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The OnePlus 13 will leave more space free for your apps — Here’s how](https://www.androidauthority.com/oneplus-13-storage-space-3497359/)
- - [Canada “bans” TikTok in the most Canada way possible](https://www.androidauthority.com/canada-tiktok-ban-3497635/)
- - [Why You Should Care About the Fed&#39;s Interest Rate Decision Today](https://www.cnet.com/personal-finance/banking/why-you-should-care-about-the-feds-interest-rate-decision-today/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [764 Terror Network Member Richard Densmore Sentenced to 30 Years in Prison](https://www.wired.com/story/richard-densmore-sentencing-764/)
+ - [Apple makes room for new Macs by rethinking retail Vision Pro demo stations](https://appleinsider.com/articles/24/11/07/apple-makes-room-for-new-macs-by-rethinking-retail-vision-pro-demo-stations?utm_medium=rss)
+ - [Deal: Free Bose QuietComfort Earbuds II with the purchase of a Motorola Razr Plus 2024](https://www.androidauthority.com/motorola-razr-plus-2024-free-bose-quietcomfort-earbuds-ii-deal-3497654/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
