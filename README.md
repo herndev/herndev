@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: TSMC and GlobalFoundries have finished negotiating agreements for billions of dollars in grants and loans under the CHIPS Act to support US factories &lpar;Mackenzie Hawkins/Bloomberg&rpar;](http://www.techmeme.com/241106/p39#a241106p39)
- - [CRM software maker Freshworks plans to cut 13% of its workforce, or 660 employees, after reporting Q3 revenue up 22% YoY to $186.6M, vs. $181.6M average est. &lpar;Jaspreet Singh/Reuters&rpar;](http://www.techmeme.com/241106/p38#a241106p38)
- - [Bluetti AC500 &amp; B300S review: upgraded portable power station to get you through disasters](https://appleinsider.com/articles/24/11/07/bluetti-ac500-b300s-review-upgraded-portable-power-station-to-get-you-through-disasters?utm_medium=rss)<!-- TECH:END -->
+ - [Qualcomm and Arm&#39;s earnings results show the smartphone industry making an uneven comeback, with both companies seeing stronger demand for high-end models &lpar;Ian King/Bloomberg&rpar;](http://www.techmeme.com/241107/p2#a241107p2)
+ - [Roblox plans to stop kids under 13 from accessing experiences with &quot;certain types of interactive features&quot;, including &quot;social hangouts&quot;, starting November 18 &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/241107/p1#a241107p1)
+ - [Sources: TSMC and GlobalFoundries have finished negotiating agreements for billions of dollars in grants and loans under the CHIPS Act to support US factories &lpar;Mackenzie Hawkins/Bloomberg&rpar;](http://www.techmeme.com/241106/p39#a241106p39)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
