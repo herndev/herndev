@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Pixel phones start getting highly anticipated battery charging limit feature](https://www.androidauthority.com/pixel-battery-charging-limit-android-15-rollout-3497426/)
- - [The Galaxy S25 Slim could get an Ultra camera upgrade](https://www.androidauthority.com/samsung-galaxy-s25-slim-ultra-camera-3497406/)
- - [Malaysia&#39;s Johor state has drawn ~50 data center projects in the last three years, creating 40,000 jobs but raising concerns about power and water shortages &lpar;Rest of World&rpar;](http://www.techmeme.com/241107/p7#a241107p7)<!-- TECH:END -->
+ - [Microsoft starts rolling out AI-powered text editing feature Rewrite in Notepad, and Generative Fill and Generative Erase features in Paint to Windows Insiders &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/241107/p9#a241107p9)
+ - [More Samsung Galaxy S25 series colors just leaked](https://www.androidauthority.com/samsung-galaxy-s25-series-more-colors-3497432/)
+ - [Best Internet Providers in Bend, Oregon](https://www.cnet.com/home/internet/best-internet-providers-in-bend-or/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
