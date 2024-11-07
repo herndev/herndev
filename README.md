@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Good morning everyone](http://9gag.com/gag/amovXgd)
- - ⏩ [Trump won all 7 swing states, the popular vote, the house and the senate.](http://9gag.com/gag/aGydRw7)
- - 👉 [Batshitcrazy](http://9gag.com/gag/aO87bgE)<!-- MEMES:END -->
+ - 💣 [Kamela Harris caught pretending to be on the phone - with the camera &lpar;lol&rpar; app](http://9gag.com/gag/apRGqRE)
+ - ⏩ [Road karma is not infinite](http://9gag.com/gag/agmAyKK)
+ - 👉 [Have you tried confidence ? I have](http://9gag.com/gag/ayNe5Np)<!-- MEMES:END -->
 
 ---
 
