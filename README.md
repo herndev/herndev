@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [764 Terror Network Member Richard Densmore Sentenced to 30 Years in Prison](https://www.wired.com/story/richard-densmore-sentencing-764/)
- - [Apple makes room for new Macs by rethinking retail Vision Pro demo stations](https://appleinsider.com/articles/24/11/07/apple-makes-room-for-new-macs-by-rethinking-retail-vision-pro-demo-stations?utm_medium=rss)
- - [Deal: Free Bose QuietComfort Earbuds II with the purchase of a Motorola Razr Plus 2024](https://www.androidauthority.com/motorola-razr-plus-2024-free-bose-quietcomfort-earbuds-ii-deal-3497654/)<!-- TECH:END -->
+ - [Block reports Q3 revenue up 6% YoY to $5.98B, vs. $6.24B est., gross profit up 19% to $2.25B, Cash App gross profit up 21% to $1.31B; SQ drops 6%+ after hours &lpar;MacKenzie Sigalos/CNBC&rpar;](http://www.techmeme.com/241107/p34#a241107p34)
+ - [Google Vids is now rolling out, promising seamless video creation](https://www.androidauthority.com/google-vids-rolling-out-3497668/)
+ - [iVerify founder says the FBI is investigating whether China used its access to Verizon networks to infect the iPhones of staff of a US presidential campaign &lpar;Thomas Brewster/Forbes&rpar;](http://www.techmeme.com/241107/p33#a241107p33)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
