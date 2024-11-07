@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [M4 MacBook Pro review roundup: fantastically fast -- but no real surprises](https://appleinsider.com/articles/24/11/07/m4-macbook-pro-review-roundup-fantastically-fast----but-no-real-surprises?utm_medium=rss)
- - [Max is getting ready for its own password-sharing crackdown](https://www.theverge.com/2024/11/7/24290326/max-password-sharing-crackdown-messaging-q3-2024-earnings)
- - [Nvidia plans to add a 100-hour monthly cap for new Performance or Ultimate GeForce Now users from January 1 to avoid raising prices &quot;in the foreseeable future&quot; &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/241107/p25#a241107p25)<!-- TECH:END -->
+ - [Early Black Friday deals: save up to $300 on every M4 MacBook Pro 14-inch &amp; 16-inch](https://appleinsider.com/articles/24/11/07/early-black-friday-deals-save-up-to-300-on-every-m4-macbook-pro-14-inch-16-inch?utm_medium=rss)
+ - [The gorgeous Mononoke movie is coming to Netflix later this month](https://www.theverge.com/2024/11/7/24290381/mononoke-the-movie-phantom-in-the-rain-netflix-premiere-date-trailer)
+ - [Galaxy Digital signs a non-binding deal with a US-based hyperscaler company to use its 800MW of mining capacity for hosting high-performance computers &lpar;Aoyon Ashraf/CoinDesk&rpar;](http://www.techmeme.com/241107/p26#a241107p26)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
