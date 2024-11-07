@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Holy hell, an actual decent take from someone on a CNN panel? &lpar;2:07&rpar;](http://9gag.com/gag/a7oWyoe)
- - ⏩ [Good morning everyone](http://9gag.com/gag/amovXgd)
- - 👉 [Trump won all 7 swing states, the popular vote, the house and the senate.](http://9gag.com/gag/aGydRw7)<!-- MEMES:END -->
+ - 💣 [Brah imagine losing the most important election in history because of a squirrel](http://9gag.com/gag/azxmbmm)
+ - ⏩ [What&#39;s she gonna tell ?](http://9gag.com/gag/aD24wqO)
+ - 👉 [During #IslamaphobiaAwarenessMonth let\u2019s highlight all of the things we wouldn\u2019t have without the contribution Muslims make to modern life. I\u2019ll start, please add your own in replies.](http://9gag.com/gag/aoyPmme)<!-- MEMES:END -->
 
 ---
 
