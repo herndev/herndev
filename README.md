@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Magic](http://9gag.com/gag/aXPg07z)
- - ⏩ [That day, she learned the importance of securing a downpayment before committing to a contract](http://9gag.com/gag/awyB7EW)
- - 👉 [Get married already](http://9gag.com/gag/aXPgb9z)<!-- MEMES:END -->
+ - 💣 [No man has beaten a woman so bad since Paris Olympics](http://9gag.com/gag/aAyepx9)
+ - ⏩ [\u201cStho what\u201d](http://9gag.com/gag/aKG7BO6)
+ - 👉 [Trump Memes returning after 4 years be like:](http://9gag.com/gag/awyBbR1)<!-- MEMES:END -->
 
 ---
 
