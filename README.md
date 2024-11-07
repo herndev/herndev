@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Can anyone translate?](http://9gag.com/gag/aZZ79Yn)
- - ⏩ [Steal Like an Artist](http://9gag.com/gag/a34wYd5)
- - 👉 [Not gonna lie I really enjoyed her final scenes](http://9gag.com/gag/apRGEgb)<!-- MEMES:END -->
+ - 💣 [Yes, it&#39;s a joke and not real](http://9gag.com/gag/aKG7wLO)
+ - ⏩ [Can anyone translate?](http://9gag.com/gag/aZZ79Yn)
+ - 👉 [He left a trail of brown cloud, like a squid.](http://9gag.com/gag/an74e4E)<!-- MEMES:END -->
 
 ---
 
