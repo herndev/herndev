@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [GTA 6&#39;s corporate overlord reveals that he&#39;s looking forward to &#39;a more sensible FTC&#39; under the Trump administration because sometimes &#39;deregulation can be a positive&#39;](https://www.pcgamer.com/games/grand-theft-auto/gta-6s-corporate-overlord-reveals-that-hes-looking-forward-to-a-more-sensible-ftc-under-the-trump-administration-because-sometimes-deregulation-can-be-a-positive)
- - [Take-Two&#39;s CEO generously calls the cataclysmically bad Borderlands movie &#39;disappointing&#39;, but it still ended up helping sales of the games](https://www.pcgamer.com/games/fps/take-twos-ceo-generously-calls-the-cataclysmically-bad-borderlands-movie-disappointing-but-it-still-ended-up-helping-sales-of-the-games)
- - [Kerbal Space Program publisher Private Division has been sold to a mystery buyer](https://www.polygon.com/news/475635/private-division-sold)<!-- GAME:END -->
+ - [Stephanie Williams’ memes changed superhero stories, on and off the page](https://www.polygon.com/473655/stephanie-williams-marvel-dc-comics-memes)
+ - [SteelSeries Apex Pro TKL Gen 3 review](https://www.pcgamer.com/hardware/gaming-keyboards/steelseries-apex-pro-tkl-gen-3-review)
+ - [The Sims competitor Inzoi is being delayed until next year because &#39;it is said that among primates, raising a human child to adulthood takes the longest time&#39;](https://www.pcgamer.com/games/life-sim/the-sims-competitor-inzoi-is-being-delayed-until-next-year-because-it-is-said-that-among-primates-raising-a-human-child-to-adulthood-takes-the-longest-time)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
