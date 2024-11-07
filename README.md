@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Take-Two is selling its indie games label Private Division](https://www.theverge.com/2024/11/6/24289932/take-two-private-division-publisher-sale)
- - [OnePlus 12 gets Oxygen OS 15 ahead of schedule, but at a cost](https://www.androidauthority.com/oneplus-12-oxygen-os-15-3497384/)
- - [CrowdStrike agrees to acquire Tel Aviv-based Adaptive Shield, which offers cloud security for SaaS apps; sources say CrowdStrike will pay ~$300M for the company &lpar;Meir Orbach/CTech&rpar;](http://www.techmeme.com/241106/p32#a241106p32)<!-- TECH:END -->
+ - [Take-Two reports Q2 net bookings up 2% YoY to $1.47B, vs. $1.43B est., net revenue up 4% to $1.35B, and sells its Private Division label to an unnamed buyer &lpar;Zaheer Kachwala/Reuters&rpar;](http://www.techmeme.com/241106/p35#a241106p35)
+ - [Bumble reports Q3 revenue down 0.7% YoY to $273.6M, vs. $271.9M est., its first quarterly sales drop since going public in 2021, and 4.3M total paying users &lpar;Priyanka.G/Reuters&rpar;](http://www.techmeme.com/241106/p34#a241106p34)
+ - [JPMorgan rebrands its Onyx blockchain unit as Kinexys and plans to add on-chain foreign exchange capabilities as early as Q1 2025, starting with USD and EUR &lpar;Krisztian Sandor/CoinDesk&rpar;](http://www.techmeme.com/241106/p33#a241106p33)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
