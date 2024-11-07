@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Avengers Endgame Directors Got $5 Million To Not Make A League Of Legends Film](https://kotaku.com/league-of-legends-movie-russo-arcane-avengers-endgame-1851691386)
- - [If you love big trucks, establishing trade routes, and the phrase &#39;post-apocalyptic survival business simulator&#39; then I&#39;ve got just the strategy RPG for you](https://www.pcgamer.com/games/strategy/if-you-love-big-trucks-establishing-trade-routes-and-the-phrase-post-apocalyptic-survival-business-simulator-then-ive-got-just-the-strategy-rpg-for-you)
- - [Here&#39;s What Bloodborne Looks Like As A Diablo-Style Action-RPG](https://kotaku.com/bloodborne-remake-diablo-fan-game-fromsoft-sony-1851691343)<!-- GAME:END -->
+ - [Take a Squat and Listen, Here’s How you Survive in SlavicPunk: Oldtimer](https://news.xbox.com/en-us/2024/11/06/how-you-survive-in-slavicpunk-oldtimer/)
+ - [Diablo 4 players take the &#39;action&#39; out of action RPG and create the ultimate AFK build that plays itself](https://www.pcgamer.com/games/rpg/diablo-4-players-take-the-action-out-of-action-rpg-and-create-the-ultimate-afk-build-that-plays-itself)
+ - [Barney Calhoun goes to Xen in Black Mesa: Blue Shift&#39;s latest chapter, coming later this month](https://www.pcgamer.com/games/fps/barney-calhoun-goes-to-xen-in-black-mesa-blue-shifts-latest-chapter-coming-later-this-month)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
