@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Some Irish pub.](http://9gag.com/gag/aRB7P3Q)
- - ⏩ [\u201c Who the hell is this guy? \u201c Destroyer of wokes and leftist.](http://9gag.com/gag/aXPgX5D)
- - 👉 [People are afraid](http://9gag.com/gag/a6ZK7Wq)<!-- MEMES:END -->
+ - 💣 [Oh sure... wait what](http://9gag.com/gag/aZZyWM6)
+ - ⏩ [As OP I concur](http://9gag.com/gag/aAyeRx2)
+ - 👉 [What&#39;s she gonna tell ?](http://9gag.com/gag/aD24wqO)<!-- MEMES:END -->
 
 ---
 
