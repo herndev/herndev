@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [\u201c Who the hell is this guy? \u201c Destroyer of wokes and leftist.](http://9gag.com/gag/aXPgX5D)
- - ⏩ [The memeconemy is booming](http://9gag.com/gag/aE0P7Ox)
- - 👉 [Meme President, cheers to 4 more years of memes.](http://9gag.com/gag/a6ZKdLA)<!-- MEMES:END -->
+ - 💣 [This is just some data put into relation/context.. Aynway, does anybody KNOW if there are coincidences in determinism or fatalism?](http://9gag.com/gag/a34wLEN)
+ - ⏩ [What&#39;s she gonna tell ?](http://9gag.com/gag/aD24wqO)
+ - 👉 [The moment it was all decided](http://9gag.com/gag/a1mWYPb)<!-- MEMES:END -->
 
 ---
 
