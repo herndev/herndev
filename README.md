@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Block reports Q3 revenue up 6% YoY to $5.98B, vs. $6.24B est., gross profit up 19% to $2.25B, Cash App gross profit up 21% to $1.31B; SQ drops 6%+ after hours &lpar;MacKenzie Sigalos/CNBC&rpar;](http://www.techmeme.com/241107/p34#a241107p34)
- - [Google Vids is now rolling out, promising seamless video creation](https://www.androidauthority.com/google-vids-rolling-out-3497668/)
- - [iVerify founder says the FBI is investigating whether China used its access to Verizon networks to infect the iPhones of staff of a US presidential campaign &lpar;Thomas Brewster/Forbes&rpar;](http://www.techmeme.com/241107/p33#a241107p33)<!-- TECH:END -->
+ - [Cloudflare reports Q3 revenue up 28% YoY to $430.1M, vs. $424.1M estimated, and forecasts Q4 revenue below estimates; NET drops 7%+ after hours &lpar;Arsheeya Bajwa/Reuters&rpar;](http://www.techmeme.com/241107/p35#a241107p35)
+ - [iPhones stored for forensic analysis unexpectedly reboot, causing problems for police](https://appleinsider.com/articles/24/11/07/iphones-stored-for-forensic-analysis-unexpectedly-reboot-causing-problems-for-officials?utm_medium=rss)
+ - [Samsung Galaxy Watch 7 plummets to new record-low price!](https://www.androidauthority.com/samsung-galaxy-watch-7-deal-3497653/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
