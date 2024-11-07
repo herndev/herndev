@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Crown Gambit, a stylish dark-fantasy card battler where choices matter, now has a demo](https://www.pcgamer.com/games/crown-gambit-a-stylish-dark-fantasy-card-battler-where-choices-matter-now-has-a-demo)
  - [PC Gamer magazine&#39;s new issue is on sale now: Path of Exile 2](https://www.pcgamer.com/gaming-industry/pc-gamer-magazines-new-issue-is-on-sale-now-path-of-exile-2)
- - [Today&#39;s Wordle answer for Thursday, November 7](https://www.pcgamer.com/games/puzzle/wordle-answer-today-november-7-2024)
- - [Blizzard veteran David Kim&#39;s strategy comeback with Battle Aces is &#39;very personal:&#39; &#39;I just can&#39;t accept... the end-all peak of RTS is StarCraft 2 and nothing can ever be better&#39;](https://www.pcgamer.com/games/strategy/blizzard-veteran-david-kims-strategy-comeback-with-battle-aces-is-very-personal-i-just-cant-accept-the-end-all-peak-of-rts-is-starcraft-2-and-nothing-can-ever-be-better)<!-- GAME:END -->
+ - [Today&#39;s Wordle answer for Thursday, November 7](https://www.pcgamer.com/games/puzzle/wordle-answer-today-november-7-2024)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
