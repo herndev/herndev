@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Early Black Friday deals: save up to $300 on every M4 MacBook Pro 14-inch &amp; 16-inch](https://appleinsider.com/articles/24/11/07/early-black-friday-deals-save-up-to-300-on-every-m4-macbook-pro-14-inch-16-inch?utm_medium=rss)
- - [The gorgeous Mononoke movie is coming to Netflix later this month](https://www.theverge.com/2024/11/7/24290381/mononoke-the-movie-phantom-in-the-rain-netflix-premiere-date-trailer)
- - [Galaxy Digital signs a non-binding deal with a US-based hyperscaler company to use its 800MW of mining capacity for hosting high-performance computers &lpar;Aoyon Ashraf/CoinDesk&rpar;](http://www.techmeme.com/241107/p26#a241107p26)<!-- TECH:END -->
+ - [Android may soon make it easier to bring back the floating accessibility menu](https://www.androidauthority.com/accessibility-menu-button-3497233/)
+ - [Google Photos is streamlining the editing workflow for multiple clips &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-photos-add-clips-apk-3497552/)
+ - [Google could add AI replies to its handy call-screening feature](https://www.theverge.com/2024/11/7/24290425/google-pixel-phone-ai-replies-call-screening)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
