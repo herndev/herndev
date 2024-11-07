@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Stephanie Williams’ memes changed superhero stories, on and off the page](https://www.polygon.com/473655/stephanie-williams-marvel-dc-comics-memes)
- - [SteelSeries Apex Pro TKL Gen 3 review](https://www.pcgamer.com/hardware/gaming-keyboards/steelseries-apex-pro-tkl-gen-3-review)
- - [The Sims competitor Inzoi is being delayed until next year because &#39;it is said that among primates, raising a human child to adulthood takes the longest time&#39;](https://www.pcgamer.com/games/life-sim/the-sims-competitor-inzoi-is-being-delayed-until-next-year-because-it-is-said-that-among-primates-raising-a-human-child-to-adulthood-takes-the-longest-time)<!-- GAME:END -->
+ - [Free Play Days – Across the Obelisk, Train Sim World 5, Eiyuden Chronicle: Rising and Astroneer](https://news.xbox.com/en-us/2024/11/07/free-play-days-11-07-2024/)
+ - [Pokémon has always inspired urban legends — so of course Pokémon TCG Pocket would have its own](https://www.polygon.com/pokemon/475706/pokemon-tcg-pocket-urban-legends)
+ - [Where to buy the PS5 Pro](https://www.polygon.com/pre-order/449691/ps5-pro-ps-direct-amazon-best-buy)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
