@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [France&#39;s gambling regulator says it is &quot;aware&quot; of Polymarket and is &quot;currently examining its operation and compliance&quot;, after user Fredi9999 made a $48M profit &lpar;Bloomberg&rpar;](http://www.techmeme.com/241107/p14#a241107p14)
- - [TSMC SVP Cliff Hou says Taiwan must improve its chip tech to maintain its global leadership; in October, Trump said that Taiwan &quot;stole 95% of our business&quot; &lpar;Debby Wu/Bloomberg&rpar;](http://www.techmeme.com/241107/p13#a241107p13)
- - [Sources: before Trump&#39;s win, Elon Musk asked him to hire SpaceX staff as top government officials, including in the DOD, a sign of the benefits Musk may reap &lpar;New York Times&rpar;](http://www.techmeme.com/241107/p12#a241107p12)<!-- TECH:END -->
+ - [You might be able to locate the OnePlus 13 even when it’s powered off](https://www.androidauthority.com/oneplus-13-powered-off-finding-3497244/)
+ - [New Matter 1.4 spec supports more device types &amp; improvements for Apple Home](https://appleinsider.com/articles/24/11/07/new-matter-14-spec-supports-more-device-types-improvements-for-apple-home?utm_medium=rss)
+ - [Q&amp;A with Houseparty co-founder Ben Rubin on his new group messaging platform Towns, using the River Protocol, moderation, raising a $25M Series A, and more &lpar;Joel Khalili/Wired&rpar;](http://www.techmeme.com/241107/p17#a241107p17)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
