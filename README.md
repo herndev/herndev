@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [New Mac mini has a slotted &amp; removable SSD -- but don&#39;t expect upgrades](https://appleinsider.com/articles/24/11/08/new-mac-mini-has-a-slotted-removable-ssd----but-dont-expect-upgrades?utm_medium=rss)
- - [We Tested and Reviewed the Best Home Treadmills &lpar;2024&rpar;](https://www.wired.com/story/best-home-treadmills/)
- - [Kuo: Apple plans to upgrade the wide-angle lens in the high-end iPhone 18 in 2026 to a variable aperture camera &lpar;Ming-Chi Kuo&rpar;](http://www.techmeme.com/241108/p6#a241108p6)<!-- TECH:END -->
+ - [These are the patents Nintendo and The Pokémon Company are suing Palworld over](https://www.theverge.com/2024/11/8/24291232/nintendo-pocketpair-palworld-lawsuit-patents)
+ - [2024 Mac Buyer&#39;s Guide -- Which desktop Mac you should buy?](https://appleinsider.com/articles/24/11/08/2024-mac-buyers-guide----which-desktop-mac-you-should-buy?utm_medium=rss)
+ - [13 Best Laptops &lpar;2024&rpar;: MacBooks, Windows, Chromebooks, Copilot+ PCs](https://www.wired.com/gallery/best-laptops/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
