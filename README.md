@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Today&#39;s Wordle answer for Friday, November 8](https://www.pcgamer.com/games/puzzle/wordle-answer-today-november-8-2024)
- - [Co-op survival game Icarus is celebrating 153 consecutive weekly updates by giving you a flamethrower and a free weekend](https://www.pcgamer.com/games/survival-crafting/co-op-survival-game-icarus-is-celebrating-153-consecutive-weekly-updates-by-giving-you-a-flamethrower-and-a-free-weekend)
- - [The first PUBG spinoff with real promise is a top-down take on Rainbow Six Siege](https://www.pcgamer.com/games/third-person-shooter/the-first-pubg-spinoff-with-real-promise-is-a-top-down-take-on-rainbow-six-siege)<!-- GAME:END -->
+ - [New class action lawsuit alleges Intel knew its CPUs were crashing even before they went on sale](https://www.pcgamer.com/hardware/processors/new-class-action-lawsuit-alleges-intel-knew-its-cpus-were-crashing-even-before-they-went-on-sale)
+ - [Semiconductor sales rose to $166,000,000,000 in a single quarter this year thanks to all that demand for AI-crunching silicon](https://www.pcgamer.com/hardware/semiconductor-sales-rose-to-usd166-000-000-000-in-a-single-quarter-this-year-thanks-to-all-that-demand-for-ai-crunching-silicon)
+ - [Today&#39;s Wordle answer for Friday, November 8](https://www.pcgamer.com/games/puzzle/wordle-answer-today-november-8-2024)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
