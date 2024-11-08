@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung may be great at phone updates, but its watches are lagging far behind](https://www.androidauthority.com/samsung-galaxy-watch-update-delays-3497799/)
- - [Sources: Trump&#39;s transition team is considering Dan Gallagher, an ex-SEC commissioner and Robinhood&#39;s current legal chief, as SEC chair replacing Gary Gensler &lpar;Reuters&rpar;](http://www.techmeme.com/241108/p2#a241108p2)
- - [Detroit plans to accept crypto for tax and fee payments starting mid-2025 through a PayPal-managed platform, becoming the largest US city to do so &lpar;Sebastian Sinclair/Decrypt&rpar;](http://www.techmeme.com/241108/p1#a241108p1)<!-- TECH:END -->
+ - [Sony reports Q2 revenue up 9% YoY to $19.45B, operating profit up 73% YoY to $2.96B vs. $2.18B est., and PS5 sales of 3.8M units, down from 4.9M a year ago &lpar;Takashi Mochizuki/Bloomberg&rpar;](http://www.techmeme.com/241108/p3#a241108p3)
+ - [eBay Coupon Code: $5 Off Select Orders in November 2024](https://www.wired.com/story/ebay-coupon-code/)
+ - [Design Within Reach Promo Code: 15% Off  | November 2024](https://www.wired.com/story/design-within-reach-promo-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
