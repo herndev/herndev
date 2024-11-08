@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to start using Image Playground in iOS 18.2 to create funny selfies](https://appleinsider.com/inside/ios-18/tips/how-to-start-using-image-playground-in-ios-182-to-create-funny-selfies?utm_medium=rss)
- - [YouTube Music Premium early adopters will soon have to say goodbye to their discount](https://www.androidauthority.com/youtube-music-premium-early-adopter-pricing-3498088/)
- - [iPhone 16 Pro Max review two months later -- Like Apple says, the best iPhone yet](https://appleinsider.com/articles/24/11/08/iphone-16-pro-max-long-term-review----like-apple-says-the-best-iphone-yet?utm_medium=rss)<!-- TECH:END -->
+ - [Google Maps is handing you the wheel to customize the navigation car](https://www.androidauthority.com/google-maps-vehicle-icon-3498110/)
+ - [OpenAI Scored a Legal Win Over Progressive Publishers—but the Fight’s Not Finished](https://www.wired.com/story/opena-alternet-raw-story-copyright-lawsuit-dmca-standing/)
+ - [Amazon is testing grocery formats that pull together fulfillment networks for Whole Foods and Amazon Fresh stores into a common delivery platform &lpar;Liz Young/Wall Street Journal&rpar;](http://www.techmeme.com/241108/p14#a241108p14)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
