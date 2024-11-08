@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The Sound of Happiness: A Crackling Walk on the Beach](http://9gag.com/gag/aAyepPR)
- - ⏩ [Kamala&#39;s trans activist step daughter. America rejected this shit](http://9gag.com/gag/aMVxGVG)
- - 👉 [Yeah, no.](http://9gag.com/gag/aMVx8KW)<!-- MEMES:END -->
+ - 💣 [Gangs stab Israeli football fans across Amsterdam. Mob swarms hotels.](http://9gag.com/gag/a87Gpo1)
+ - ⏩ [Yes please](http://9gag.com/gag/ajP9qd8)
+ - 👉 [I&#39;m a baddie](http://9gag.com/gag/an74Bno)<!-- MEMES:END -->
 
 ---
 
