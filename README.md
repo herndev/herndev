@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [No Man&#39;s Sky gets cross-save on a dozen platforms and brings back Mass Effect&#39;s Normandy as a limited-time rewar](https://www.pcgamer.com/games/survival-crafting/no-mans-sky-gets-cross-save-on-a-dozen-platforms-and-brings-back-mass-effects-normandy-as-a-limited-time-rewar)
- - [Watch Ghost Cat Anzu throw anime’s worst beer-and-Nintendo party](https://www.polygon.com/anime/476651/ghost-cat-anzu-exclusive-clip-gkids)
- - [Guy Who Taunted Nintendo About Streaming Pirated Switch Games Before Release Now Faces $7.5 Million Lawsuit](https://kotaku.com/nintendo-switch-piracy-lawsuit-mario-luigi-zelda-echoes-1851693898)<!-- GAME:END -->
+ - [Vampire Survivors’ Ode to Castlevania is more than just a tribute](https://www.polygon.com/impressions/476337/vampire-survivors-castlevania-dlc)
+ - [So Amazon is making its Mass Effect show. Does it have the guts to make it good?](https://www.polygon.com/opinion/476280/amazon-mass-effect-tv-show)
+ - [The best Black Ops 6 map for XP grinding finally got a 24/7 playlist, so you know what to do](https://www.pcgamer.com/games/call-of-duty/the-best-black-ops-6-map-for-xp-grinding-finally-got-a-24-7-playlist-so-you-know-what-to-do)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
