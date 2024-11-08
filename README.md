@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [People are afraid](http://9gag.com/gag/a6ZK7Wq)
- - ⏩ [Cute](http://9gag.com/gag/avyzGpM)
- - 👉 [Nice smile...](http://9gag.com/gag/aryVNyX)<!-- MEMES:END -->
+ - 💣 [The Sound of Happiness: A Crackling Walk on the Beach](http://9gag.com/gag/aAyepPR)
+ - ⏩ [Kamala&#39;s trans activist step daughter. America rejected this shit](http://9gag.com/gag/aMVxGVG)
+ - 👉 [Yeah, no.](http://9gag.com/gag/aMVx8KW)<!-- MEMES:END -->
 
 ---
 
