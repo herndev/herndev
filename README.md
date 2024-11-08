@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Vengeance](http://9gag.com/gag/aE0PR9x)
- - ⏩ [Zero to ching ling 0.2 seconds](http://9gag.com/gag/an74yd0)
- - 👉 [Stripper Magician](http://9gag.com/gag/a2vWd79)<!-- MEMES:END -->
+ - 💣 [Stripper Magician](http://9gag.com/gag/a2vWd79)
+ - ⏩ [Why are you gay](http://9gag.com/gag/aD243Ox)
+ - 👉 [Meme collection dump #34](http://9gag.com/gag/adBVqpd)<!-- MEMES:END -->
 
 ---
 
