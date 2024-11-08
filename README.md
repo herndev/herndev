@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Catfishing](http://9gag.com/gag/ae9DG0j)
- - ⏩ [People are afraid](http://9gag.com/gag/a6ZK7Wq)
- - 👉 [Kamala&#39;s trans activist step daughter. America rejected this shit](http://9gag.com/gag/aMVxGVG)<!-- MEMES:END -->
+ - 💣 [Unexpected question](http://9gag.com/gag/adBVYXd)
+ - ⏩ [Clown world](http://9gag.com/gag/ajP9nM1)
+ - 👉 [Survival skill +100%](http://9gag.com/gag/aZZyxY6)<!-- MEMES:END -->
 
 ---
 
