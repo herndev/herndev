@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Intel&#39;s Battlemage GPUs rumoured to arrive in December, well ahead of AMD and Nvidia&#39;s next-gen chips](https://www.pcgamer.com/hardware/graphics-cards/intels-battlemage-gpus-rumoured-to-arrive-in-december-well-ahead-of-amd-and-nvidias-next-gen-chips)
- - [All Genshin Impact 5.2 livestream codes](https://www.pcgamer.com/games/rpg/genshin-impact-codes-5-2-livestream)
- - [New class action lawsuit alleges Intel knew its CPUs were crashing even before they went on sale](https://www.pcgamer.com/hardware/processors/new-class-action-lawsuit-alleges-intel-knew-its-cpus-were-crashing-even-before-they-went-on-sale)<!-- GAME:END -->
+ - [AMD&#39;s new Ryzen 7 9800X3D gaming CPU sold out almost instantly and scalpers are already selling the chips for up to $999](https://www.pcgamer.com/hardware/processors/amds-new-ryzen-7-9800x3d-gaming-cpu-sold-out-almost-instantly-and-scalpers-are-already-selling-the-chips-for-up-to-usd999)
+ - [Simulated CPU-building speedrun attempt ends with a functioning processor in a mere six hours](https://www.pcgamer.com/hardware/simulated-cpu-building-speedrun-attempt-ends-with-a-functioning-processor-in-a-mere-six-hours)
+ - [Pokémon Trading Card Game Pocket won’t rock your world, and that’s OK](https://www.polygon.com/review/475875/pokemon-trading-card-game-pocket-tcg-review)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
