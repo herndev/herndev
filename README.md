@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Pokémon TCG Pocket Has A Staggering 12 Different Currencies, And Counting](https://kotaku.com/pokemon-tcg-pocket-in-game-currency-gold-rewards-1851693684)
- - [Dragon Age: The Veilguard Stats Reveal Most Players&#39; Choices Are Basic](https://kotaku.com/dragon-age-veilguard-most-popular-class-faction-race-1851693865)
- - [Live Action Stich Is Giving Me Ugly Sonic Deja Vu](https://kotaku.com/lilo-and-stitch-live-action-remake-first-look-sonic-cg-1851693866)<!-- GAME:END -->
+ - [No Man&#39;s Sky gets cross-save on a dozen platforms and brings back Mass Effect&#39;s Normandy as a limited-time rewar](https://www.pcgamer.com/games/survival-crafting/no-mans-sky-gets-cross-save-on-a-dozen-platforms-and-brings-back-mass-effects-normandy-as-a-limited-time-rewar)
+ - [Watch Ghost Cat Anzu throw anime’s worst beer-and-Nintendo party](https://www.polygon.com/anime/476651/ghost-cat-anzu-exclusive-clip-gkids)
+ - [Guy Who Taunted Nintendo About Streaming Pirated Switch Games Before Release Now Faces $7.5 Million Lawsuit](https://kotaku.com/nintendo-switch-piracy-lawsuit-mario-luigi-zelda-echoes-1851693898)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
