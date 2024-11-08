@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Cloudflare reports Q3 revenue up 28% YoY to $430.1M, vs. $424.1M estimated, and forecasts Q4 revenue below estimates; NET drops 7%+ after hours &lpar;Arsheeya Bajwa/Reuters&rpar;](http://www.techmeme.com/241107/p35#a241107p35)
- - [iPhones stored for forensic analysis unexpectedly reboot, causing problems for police](https://appleinsider.com/articles/24/11/07/iphones-stored-for-forensic-analysis-unexpectedly-reboot-causing-problems-for-officials?utm_medium=rss)
- - [Samsung Galaxy Watch 7 plummets to new record-low price!](https://www.androidauthority.com/samsung-galaxy-watch-7-deal-3497653/)<!-- TECH:END -->
+ - [The Google Nest Doorbell Wired is cheaper than ever!](https://www.androidauthority.com/google-nest-doorbell-wired-deal-3497652/)
+ - [TikTok launches Share to TikTok, which lets users directly share music from Apple Music and Spotify in a post to their TikTok Feed or in DMs via TikTok Messages &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/241107/p38#a241107p38)
+ - [The best Garmin watches for training and everyday life](https://www.theverge.com/23691498/best-garmin-smartwatch-fitness-tracker-wearables)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
