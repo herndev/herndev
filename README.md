@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [What you forgot from Arcane season 1](https://www.polygon.com/tv/476072/arcane-season-1-summary-catch-up-what-remember-netflix-lol)
- - [The SteelSeries Arctis GameBuds punch above their weight](https://www.polygon.com/review/474194/steelseries-arctis-gamebuds-gaming-earbuds-review)
- - [Is Blizzard Teasing An Overwatch ‘Classic’?](https://kotaku.com/overwatch-2-classic-6v6-test-season-13-14-tracer-1851693697)<!-- GAME:END -->
+ - [After closing its AAA games development studio, Netflix Games VP transforms into the VP of GenAI for Games and the gobbledygook must flow: &#39;a creator-first vision… with AI being a catalyst and an accelerant&#39;](https://www.pcgamer.com/software/ai/after-closing-its-aaa-games-development-studio-netflix-games-vp-transforms-into-the-vp-of-genai-for-games-and-the-gobbledygook-must-flow-a-creator-first-vision-with-ai-being-a-catalyst-and-an-accelerant)
+ - [Someone Found A Hidden Cheat Code In A 28 Year Old Donkey Kong Game](https://kotaku.com/cheat-code-dkc2-donkey-kong-country-diddy-secret-found-1851693753)
+ - [Confused About Prestige in Call of Duty: Black Ops 6? Here’s A Simple Break Down](https://kotaku.com/confused-about-prestige-in-call-of-duty-black-ops-6-h-1851693802)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
