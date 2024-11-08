@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Block says it is investing less in music streaming app Tidal and winding down decentralized &quot;Web5&quot; venture TBD to focus on bitcoin mining and its crypto wallet &lpar;Aoyon Ashraf/CoinDesk&rpar;](http://www.techmeme.com/241107/p41#a241107p41)
- - [A US judge dismisses a copyright lawsuit by Raw Story and AlterNet against OpenAI over AI training, for now, saying the outlets couldn&#39;t show enough harm &lpar;Blake Brittain/Reuters&rpar;](http://www.techmeme.com/241107/p40#a241107p40)
- - [The best Xbox controller to buy right now](https://www.theverge.com/23025443/best-xbox-controllers-one-series-x-s)<!-- TECH:END -->
+ - [Source: Baidu plans to unveil smart glasses with built-in cameras and voice support for AI model Ernie next week, launching as soon as early 2025 for under $299 &lpar;Bloomberg&rpar;](http://www.techmeme.com/241107/p42#a241107p42)
+ - [Tips and Tricks to Help You Marvel at the Moon In All Its Phases](https://www.cnet.com/science/space/full-moons-explained-from-blue-moons-to-supermoons-to-lunar-phases/#ftag=CAD590a51e)
+ - [How a Home Battery Can Help You Save on Your Energy Bills](https://www.cnet.com/home/energy-and-utilities/how-a-home-battery-can-help-you-save-on-your-energy-bills/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
