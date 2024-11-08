@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Next Week on Xbox: New Games for November 11 to 15](https://news.xbox.com/en-us/2024/11/08/next-week-on-xbox-november-11-to-15/)
- - [Home Alone Star Macaulay Culkin Rumored To Be In Fallout Season 2](https://kotaku.com/fallout-season-2-amazon-prime-macaulay-culkin-1851693027)
- - [It&#39;s time for Deadlock to introduce an arachnophobia setting because its newest hero can unleash &#39;a wave of spectral spiders&#39; onto enemies](https://www.pcgamer.com/games/moba/its-time-for-deadlock-to-introduce-an-arachnophobia-setting-because-its-newest-hero-can-unleash-a-wave-of-spectral-spiders-onto-enemies)<!-- GAME:END -->
+ - [Pokémon TCG Pocket Makes Going First Suck](https://kotaku.com/pokemon-tcg-pocket-battles-first-turn-rules-energy-1851693195)
+ - [Nintendo is definitely suing Palworld developer over throwing Poké Balls](https://www.polygon.com/news/476177/palworld-developer-nintendo-pokemon-lawsuit)
+ - [Listen to an old &#39;80s arcade sound chip replicating the sound of birds, a whistle, and even a jackhammer](https://www.pcgamer.com/hardware/listen-to-an-old-80s-arcade-sound-chip-replicating-the-sound-of-birds-a-whistle-and-even-a-jackhammer)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
