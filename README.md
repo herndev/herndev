@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Chef tricks](http://9gag.com/gag/a2vW5RZ)
- - ⏩ [Meme collection dump #34](http://9gag.com/gag/adBVqpd)
- - 👉 [Why are you gay](http://9gag.com/gag/aD243Ox)<!-- MEMES:END -->
+ - 💣 [Why are you gay](http://9gag.com/gag/aD243Ox)
+ - ⏩ [Yes please](http://9gag.com/gag/ajP9qd8)
+ - 👉 [Yeah, no.](http://9gag.com/gag/aMVx8KW)<!-- MEMES:END -->
 
 ---
 
