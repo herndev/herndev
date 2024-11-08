@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Destiny 2: How Vesper’s Host Became the Most Challenging Dungeon Yet](https://news.xbox.com/en-us/2024/11/08/destiny-2-vespers-host-dungeon-xbox/)
- - [Vampire Survivors’ Castlevania DLC map is so big that I keep getting lost, but I&#39;d do it all over again just to have Sonia Belmont&#39;s sonic whip](https://www.pcgamer.com/games/action/vampire-survivors-castlevania-dlc-map-is-so-big-that-i-keep-getting-lost-but-id-do-it-all-over-again-just-to-have-sonia-belmonts-sonic-whip)
- - [The Most Annoying Thing About The PS5 Pro &lpar;Besides The Price&rpar;](https://kotaku.com/ps5-pro-enhanced-games-library-find-them-list-store-psn-1851693419)<!-- GAME:END -->
+ - [What you forgot from Arcane season 1](https://www.polygon.com/tv/476072/arcane-season-1-summary-catch-up-what-remember-netflix-lol)
+ - [The SteelSeries Arctis GameBuds punch above their weight](https://www.polygon.com/review/474194/steelseries-arctis-gamebuds-gaming-earbuds-review)
+ - [Is Blizzard Teasing An Overwatch ‘Classic’?](https://kotaku.com/overwatch-2-classic-6v6-test-season-13-14-tracer-1851693697)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
