@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Early Black Friday deals: save up to $150 on every M4 iMac](https://appleinsider.com/articles/24/11/08/early-black-friday-deals-save-up-to-150-on-every-m4-imac?utm_medium=rss)
- - [Some TikTok staff and users see Trump as a possible savior from the ban; others question whether Trump even cares about the app now that the campaign is over &lpar;Alexandra S. Levine/Bloomberg&rpar;](http://www.techmeme.com/241108/p8#a241108p8)
- - [Donald Trump Isn’t the Only Chaos Agent](https://www.wired.com/story/plaintext-donald-trump-isnt-the-only-chaos-agent/)<!-- TECH:END -->
+ - [Samsung’s excellent Galaxy S24 FE is already $100 off, weeks before Black Friday](https://www.androidauthority.com/galaxy-s24-fe-amazon-deal-3497950/)
+ - [Motorola may be getting close to launching its next Razr](https://www.androidauthority.com/motorola-razr-50s-ultra-design-3497922/)
+ - [Mint Mobile is offering the Pixel 9 and a year’s service for just $579, a total savings of $300](https://www.androidauthority.com/mint-mobile-is-offering-the-pixel-9-and-a-years-service-for-just-579-a-total-savings-of-300-3497917/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
