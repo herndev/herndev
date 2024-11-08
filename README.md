@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Is ChatGPT not working for you? Here’s how you can try to fix it](https://www.androidauthority.com/chatgpt-not-working-fix-3295471/)
- - [Looking Into Heat Pump Systems? Watch Out for These Hidden Costs](https://www.cnet.com/home/energy-and-utilities/what-to-watch-out-for-when-getting-a-heat-pump/#ftag=CAD590a51e)
- - [This major US ally has is banning social media for under-16s: What do you think?](https://www.androidauthority.com/australia-social-media-ban-3497767/)<!-- TECH:END -->
+ - [Samsung may be great at phone updates, but its watches are lagging far behind](https://www.androidauthority.com/samsung-galaxy-watch-update-delays-3497799/)
+ - [Sources: Trump&#39;s transition team is considering Dan Gallagher, an ex-SEC commissioner and Robinhood&#39;s current legal chief, as SEC chair replacing Gary Gensler &lpar;Reuters&rpar;](http://www.techmeme.com/241108/p2#a241108p2)
+ - [Detroit plans to accept crypto for tax and fee payments starting mid-2025 through a PayPal-managed platform, becoming the largest US city to do so &lpar;Sebastian Sinclair/Decrypt&rpar;](http://www.techmeme.com/241108/p1#a241108p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
