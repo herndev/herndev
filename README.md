@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Gangs stab Israeli football fans across Amsterdam. Mob swarms hotels.](http://9gag.com/gag/a87Gpo1)
- - ⏩ [Both young men are pepsi after train surfing in austria. Rip. Darwin approves.](http://9gag.com/gag/ae9D6bj)
- - 👉 [Kid&#39;s definitely right](http://9gag.com/gag/aZZypLV)<!-- MEMES:END -->
+ - 💣 [Vengeance](http://9gag.com/gag/aE0PR9x)
+ - ⏩ [Zero to ching ling 0.2 seconds](http://9gag.com/gag/an74yd0)
+ - 👉 [Stripper Magician](http://9gag.com/gag/a2vWd79)<!-- MEMES:END -->
 
 ---
 
