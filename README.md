@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung’s excellent Galaxy S24 FE is already $100 off, weeks before Black Friday](https://www.androidauthority.com/galaxy-s24-fe-amazon-deal-3497950/)
- - [Motorola may be getting close to launching its next Razr](https://www.androidauthority.com/motorola-razr-50s-ultra-design-3497922/)
- - [Mint Mobile is offering the Pixel 9 and a year’s service for just $579, a total savings of $300](https://www.androidauthority.com/mint-mobile-is-offering-the-pixel-9-and-a-years-service-for-just-579-a-total-savings-of-300-3497917/)<!-- TECH:END -->
+ - [8 Early Black Friday TV Deals to Grab Ahead of the Madness](https://www.wired.com/story/early-black-friday-tv-deals-2024/)
+ - [The new Mac Mini takes a small step towards upgradeable storage](https://www.theverge.com/2024/11/8/24291328/mac-mini-removable-ssd-storage-nand-chips-upgradability)
+ - [Apple has added a High Power performance mode, previously reserved for Max and Ultra chips, to the M4 Pro in both the Mac mini and in the new MacBook Pro &lpar;Andrew Cunningham/Ars Technica&rpar;](http://www.techmeme.com/241108/p10#a241108p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
