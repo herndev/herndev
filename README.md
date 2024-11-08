@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Both young men are pepsi after train surfing in austria. Rip. Darwin approves.](http://9gag.com/gag/ae9D6bj)
- - ⏩ [Bamboozling vs Getting bamboozled](http://9gag.com/gag/aPA7M9Q)
- - 👉 [With Johnny Somali in jail.](http://9gag.com/gag/a7oW77m)<!-- MEMES:END -->
+ - 💣 [Catfishing](http://9gag.com/gag/ae9DG0j)
+ - ⏩ [People are afraid](http://9gag.com/gag/a6ZK7Wq)
+ - 👉 [Kamala&#39;s trans activist step daughter. America rejected this shit](http://9gag.com/gag/aMVxGVG)<!-- MEMES:END -->
 
 ---
 
