@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Donald Trump has only been elected for 2 days and Robert F. Kennedy Jr. is already working on making America healthy again!](http://9gag.com/gag/aqynL8v)
- - ⏩ [Let\u2019s be honest, it definitely played a huge role in deciding](http://9gag.com/gag/aAyerp9)
- - 👉 [This is one of the best edits lol](http://9gag.com/gag/aO87VKr)<!-- MEMES:END -->
+ - 💣 [\u201cStho what\u201d](http://9gag.com/gag/aKG7BO6)
+ - ⏩ [Laughing in Android](http://9gag.com/gag/a6ZK7o2)
+ - 👉 [Both young men are pepsi after train surfing in austria. Rip. Darwin approves.](http://9gag.com/gag/ae9D6bj)<!-- MEMES:END -->
 
 ---
 
