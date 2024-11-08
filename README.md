@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [New class action lawsuit alleges Intel knew its CPUs were crashing even before they went on sale](https://www.pcgamer.com/hardware/processors/new-class-action-lawsuit-alleges-intel-knew-its-cpus-were-crashing-even-before-they-went-on-sale)
- - [Semiconductor sales rose to $166,000,000,000 in a single quarter this year thanks to all that demand for AI-crunching silicon](https://www.pcgamer.com/hardware/semiconductor-sales-rose-to-usd166-000-000-000-in-a-single-quarter-this-year-thanks-to-all-that-demand-for-ai-crunching-silicon)
- - [Today&#39;s Wordle answer for Friday, November 8](https://www.pcgamer.com/games/puzzle/wordle-answer-today-november-8-2024)<!-- GAME:END -->
+ - [Intel&#39;s Battlemage GPUs rumoured to arrive in December, well ahead of AMD and Nvidia&#39;s next-gen chips](https://www.pcgamer.com/hardware/graphics-cards/intels-battlemage-gpus-rumoured-to-arrive-in-december-well-ahead-of-amd-and-nvidias-next-gen-chips)
+ - [All Genshin Impact 5.2 livestream codes](https://www.pcgamer.com/games/rpg/genshin-impact-codes-5-2-livestream)
+ - [New class action lawsuit alleges Intel knew its CPUs were crashing even before they went on sale](https://www.pcgamer.com/hardware/processors/new-class-action-lawsuit-alleges-intel-knew-its-cpus-were-crashing-even-before-they-went-on-sale)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
