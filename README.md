@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [AMD&#39;s new Ryzen 7 9800X3D gaming CPU sold out almost instantly and scalpers are already selling the chips for up to $999](https://www.pcgamer.com/hardware/processors/amds-new-ryzen-7-9800x3d-gaming-cpu-sold-out-almost-instantly-and-scalpers-are-already-selling-the-chips-for-up-to-usd999)
- - [Simulated CPU-building speedrun attempt ends with a functioning processor in a mere six hours](https://www.pcgamer.com/hardware/simulated-cpu-building-speedrun-attempt-ends-with-a-functioning-processor-in-a-mere-six-hours)
- - [Pokémon Trading Card Game Pocket won’t rock your world, and that’s OK](https://www.polygon.com/review/475875/pokemon-trading-card-game-pocket-tcg-review)<!-- GAME:END -->
+ - [Next Week on Xbox: New Games for November 11 to 15](https://news.xbox.com/en-us/2024/11/08/next-week-on-xbox-november-11-to-15/)
+ - [Home Alone Star Macaulay Culkin Rumored To Be In Fallout Season 2](https://kotaku.com/fallout-season-2-amazon-prime-macaulay-culkin-1851693027)
+ - [It&#39;s time for Deadlock to introduce an arachnophobia setting because its newest hero can unleash &#39;a wave of spectral spiders&#39; onto enemies](https://www.pcgamer.com/games/moba/its-time-for-deadlock-to-introduce-an-arachnophobia-setting-because-its-newest-hero-can-unleash-a-wave-of-spectral-spiders-onto-enemies)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
