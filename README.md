@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Gangs stab Israeli football fans across Amsterdam. Mob swarms hotels.](http://9gag.com/gag/a87Gpo1)
- - ⏩ [Yes please](http://9gag.com/gag/ajP9qd8)
- - 👉 [I&#39;m a baddie](http://9gag.com/gag/an74Bno)<!-- MEMES:END -->
+ - 💣 [Israeli football fans got ambushed in Amsterdam in several locations. Masked men are trying to break into hotels where Israelis are apparently staying. One tourist asked a policeman to help, and he answered &#39;yes yes, bye bye&#39; and laughed.](http://9gag.com/gag/aKG72LN)
+ - ⏩ [Both young men are pepsi after train surfing in austria. Rip. Darwin approves.](http://9gag.com/gag/ae9D6bj)
+ - 👉 [Yes please](http://9gag.com/gag/ajP9qd8)<!-- MEMES:END -->
 
 ---
 
