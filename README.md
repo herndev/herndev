@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sony reports Q2 revenue up 9% YoY to $19.45B, operating profit up 73% YoY to $2.96B vs. $2.18B est., and PS5 sales of 3.8M units, down from 4.9M a year ago &lpar;Takashi Mochizuki/Bloomberg&rpar;](http://www.techmeme.com/241108/p3#a241108p3)
- - [eBay Coupon Code: $5 Off Select Orders in November 2024](https://www.wired.com/story/ebay-coupon-code/)
- - [Design Within Reach Promo Code: 15% Off  | November 2024](https://www.wired.com/story/design-within-reach-promo-code/)<!-- TECH:END -->
+ - [Feature or bug? iPhones confiscated by cops reboot en masse](https://www.androidauthority.com/confiscated-iphones-reboot-en-masse-3497803/)
+ - [More details leak about a contender for best camera phone of 2025](https://www.androidauthority.com/oppo-find-x8-ultra-specs-camera-phone-3497815/)
+ - [Best Internet Providers in Arlington, Texas](https://www.cnet.com/home/internet/best-internet-providers-in-arlington-tx/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
