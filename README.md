@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [After closing its AAA games development studio, Netflix Games VP transforms into the VP of GenAI for Games and the gobbledygook must flow: &#39;a creator-first vision… with AI being a catalyst and an accelerant&#39;](https://www.pcgamer.com/software/ai/after-closing-its-aaa-games-development-studio-netflix-games-vp-transforms-into-the-vp-of-genai-for-games-and-the-gobbledygook-must-flow-a-creator-first-vision-with-ai-being-a-catalyst-and-an-accelerant)
- - [Someone Found A Hidden Cheat Code In A 28 Year Old Donkey Kong Game](https://kotaku.com/cheat-code-dkc2-donkey-kong-country-diddy-secret-found-1851693753)
- - [Confused About Prestige in Call of Duty: Black Ops 6? Here’s A Simple Break Down](https://kotaku.com/confused-about-prestige-in-call-of-duty-black-ops-6-h-1851693802)<!-- GAME:END -->
+ - [Pokémon TCG Pocket Has A Staggering 12 Different Currencies, And Counting](https://kotaku.com/pokemon-tcg-pocket-in-game-currency-gold-rewards-1851693684)
+ - [Dragon Age: The Veilguard Stats Reveal Most Players&#39; Choices Are Basic](https://kotaku.com/dragon-age-veilguard-most-popular-class-faction-race-1851693865)
+ - [Live Action Stich Is Giving Me Ugly Sonic Deja Vu](https://kotaku.com/lilo-and-stitch-live-action-remake-first-look-sonic-cg-1851693866)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
