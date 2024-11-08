@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to import your old passwords into the new Apple Passwords](https://appleinsider.com/inside/macos/tips/how-to-import-your-old-passwords-into-the-new-apple-passwords?utm_medium=rss)
- - [Google apps gets new ‘Activity’ tab for easy access to search history and saved items](https://www.androidauthority.com/google-app-activity-tab-3497741/)
- - [Glyde 4-in-1 Portable Charging Station review: Mobile charging without compromise](https://appleinsider.com/articles/24/11/08/glyde-4-in-1-portable-charging-station-review-mobile-charging-without-compromise?utm_medium=rss)<!-- TECH:END -->
+ - [Is ChatGPT not working for you? Here’s how you can try to fix it](https://www.androidauthority.com/chatgpt-not-working-fix-3295471/)
+ - [Looking Into Heat Pump Systems? Watch Out for These Hidden Costs](https://www.cnet.com/home/energy-and-utilities/what-to-watch-out-for-when-getting-a-heat-pump/#ftag=CAD590a51e)
+ - [This major US ally has is banning social media for under-16s: What do you think?](https://www.androidauthority.com/australia-social-media-ban-3497767/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
