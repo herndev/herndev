@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Thinking About a Heat Pump? Here’s What a Sustainable Heating System Will Cost You](https://www.cnet.com/home/energy-and-utilities/how-much-does-a-heat-pump-cost/#ftag=CAD590a51e)
- - [The iPhone 18 could borrow this handy camera feature from Android](https://www.androidauthority.com/apple-iphone-18-variable-aperture-camera-android-3497841/)
- - [Bear Original Mattress Review: Affordable, Memory Foam Mattress With a Unique Cover](https://www.cnet.com/health/sleep/bear-original-mattress-review/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [I ditched ChatGPT for Gemini and have mixed feelings](https://www.androidauthority.com/ditched-chatgpt-for-gemini-3497814/)
+ - [iPad mini 7 review: a more mighty micro tablet](https://appleinsider.com/articles/24/11/08/ipad-mini-7-review-a-more-mighty-micro-tablet?utm_medium=rss)
+ - [4 Best All-in-One Computers, Tested and Reviewed &lpar;2024&rpar;](https://www.wired.com/gallery/best-all-in-one-computers/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
