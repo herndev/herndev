@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [With Johnny Somali in jail.](http://9gag.com/gag/a7oW77m)
- - ⏩ [The moment it was all decided](http://9gag.com/gag/a1mWYPb)
- - 👉 [The best co worker huh?](http://9gag.com/gag/a87GW46)<!-- MEMES:END -->
+ - 💣 [One of the reason why many americans vote for this man](http://9gag.com/gag/aE0P74p)
+ - ⏩ [Memes are back on the menu, boys.](http://9gag.com/gag/ajP9AoQ)
+ - 👉 [With Johnny Somali in jail.](http://9gag.com/gag/a7oW77m)<!-- MEMES:END -->
 
 ---
 
