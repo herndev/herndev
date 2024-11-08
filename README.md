@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Yeah, no.](http://9gag.com/gag/aMVx8KW)
- - ⏩ [With Johnny Somali in jail.](http://9gag.com/gag/a7oW77m)
- - 👉 [Yes please](http://9gag.com/gag/ajP9qd8)<!-- MEMES:END -->
+ - 💣 [People are afraid](http://9gag.com/gag/a6ZK7Wq)
+ - ⏩ [Cute](http://9gag.com/gag/avyzGpM)
+ - 👉 [Nice smile...](http://9gag.com/gag/aryVNyX)<!-- MEMES:END -->
 
 ---
 
