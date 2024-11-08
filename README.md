@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Maps is handing you the wheel to customize the navigation car](https://www.androidauthority.com/google-maps-vehicle-icon-3498110/)
- - [OpenAI Scored a Legal Win Over Progressive Publishers—but the Fight’s Not Finished](https://www.wired.com/story/opena-alternet-raw-story-copyright-lawsuit-dmca-standing/)
- - [Amazon is testing grocery formats that pull together fulfillment networks for Whole Foods and Amazon Fresh stores into a common delivery platform &lpar;Liz Young/Wall Street Journal&rpar;](http://www.techmeme.com/241108/p14#a241108p14)<!-- TECH:END -->
+ - [The Beatles’ final song, restored using AI, is up for a Grammy](https://www.theverge.com/2024/11/8/24291691/the-beatles-ai-now-and-then-song-grammy-nomination)
+ - [Is ChatGPT not working for you? Here’s how you can try to fix it](https://www.androidauthority.com/chatgpt-not-working-fix-3295471/)
+ - [Taylor Swift Fans Are Leaving X for Bluesky After Trump’s Election](https://www.wired.com/story/taylor-swift-fans-leaving-x-following-trumps-election/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
