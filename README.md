@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Lottacoins Island number block puzzle solutions and codes in Mario &amp;#038; Luigi: Brothership](https://www.polygon.com/guides/476044/mario-luigi-brothership-lottacoins-island-gate-codes-puzzle-solutions-number-blocks)
- - [The most underrated shooter of 2023 is free on Epic right now, and going for cheap on Steam](https://www.pcgamer.com/games/fps/the-most-underrated-shooter-of-2023-is-free-on-epic-right-now-and-going-for-cheap-on-steam)
- - [To appease a Steam user&#39;s demands for straight representation, Webfishing added a &#39;Straight&#39; title that costs 9,999 fish bucks](https://www.pcgamer.com/games/sports/to-appease-a-steam-users-demands-for-straight-representation-webfishing-added-a-straight-title-that-costs-9-999-fish-bucks)<!-- GAME:END -->
+ - [The first PUBG spinoff with real promise is a top-down take on Rainbow Six Siege](https://www.pcgamer.com/games/third-person-shooter/the-first-pubg-spinoff-with-real-promise-is-a-top-down-take-on-rainbow-six-siege)
+ - [Black Ops 6 is wasting no time stinking up the joint with ugly skins](https://www.pcgamer.com/games/call-of-duty/black-ops-6-is-wasting-no-time-stinking-up-the-joint-with-ugly-skins)
+ - [The best Dragon Age: Origins mods](https://www.pcgamer.com/18-essential-dragon-age-mods)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
