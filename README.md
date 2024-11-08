@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Memes are back on the menu, boys.](http://9gag.com/gag/ajP9AoQ)
- - ⏩ [Something completely different](http://9gag.com/gag/axy9Ggp)
- - 👉 [With Johnny Somali in jail.](http://9gag.com/gag/a7oW77m)<!-- MEMES:END -->
+ - 💣 [\u201cStho what\u201d](http://9gag.com/gag/aKG7BO6)
+ - ⏩ [What&#39;s she gonna tell ?](http://9gag.com/gag/aD24wqO)
+ - 👉 [Punch on sight. Earth&#39;s walking hemorrhoid.](http://9gag.com/gag/agmA0XW)<!-- MEMES:END -->
 
 ---
 
