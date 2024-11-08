@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [AMD’s best gaming CPU is really difficult to buy during its launch week](https://www.theverge.com/2024/11/8/24291165/amd-ryzen-7-9800x3d-stock-sold-out)
- - [Mercury Research: AMD&#39;s desktop CPU market share, in units, grew from 19.1% in Q3 2023 to 28.7% in Q3 2024 and from 19.5% to 22.3% for mobile in the same period &lpar;Mark Hachman/PCWorld&rpar;](http://www.techmeme.com/241108/p4#a241108p4)
- - [Feature or bug? iPhones confiscated by cops reboot en masse](https://www.androidauthority.com/confiscated-iphones-reboot-en-masse-3497803/)<!-- TECH:END -->
+ - [Thinking About a Heat Pump? Here’s What a Sustainable Heating System Will Cost You](https://www.cnet.com/home/energy-and-utilities/how-much-does-a-heat-pump-cost/#ftag=CAD590a51e)
+ - [The iPhone 18 could borrow this handy camera feature from Android](https://www.androidauthority.com/apple-iphone-18-variable-aperture-camera-android-3497841/)
+ - [Bear Original Mattress Review: Affordable, Memory Foam Mattress With a Unique Cover](https://www.cnet.com/health/sleep/bear-original-mattress-review/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
