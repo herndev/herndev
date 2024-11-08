@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [8 Early Black Friday TV Deals to Grab Ahead of the Madness](https://www.wired.com/story/early-black-friday-tv-deals-2024/)
- - [The new Mac Mini takes a small step towards upgradeable storage](https://www.theverge.com/2024/11/8/24291328/mac-mini-removable-ssd-storage-nand-chips-upgradability)
- - [Apple has added a High Power performance mode, previously reserved for Max and Ultra chips, to the M4 Pro in both the Mac mini and in the new MacBook Pro &lpar;Andrew Cunningham/Ars Technica&rpar;](http://www.techmeme.com/241108/p10#a241108p10)<!-- TECH:END -->
+ - [Feds investigate racist texts sent across the country post-election](https://www.theverge.com/2024/11/8/24291466/fcc-fbi-racist-text-messages-post-election)
+ - [2024 is going to smash heat records](https://www.theverge.com/2024/11/8/24291309/2024-hottest-year-heat-record-climate-change-goals)
+ - [Deal: Google Nest Audio smart speaker is 50% off!](https://www.androidauthority.com/google-nest-audio-deal-4-3498057/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
