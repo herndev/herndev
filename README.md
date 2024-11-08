@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Pokémon TCG Pocket Makes Going First Suck](https://kotaku.com/pokemon-tcg-pocket-battles-first-turn-rules-energy-1851693195)
- - [Nintendo is definitely suing Palworld developer over throwing Poké Balls](https://www.polygon.com/news/476177/palworld-developer-nintendo-pokemon-lawsuit)
- - [Listen to an old &#39;80s arcade sound chip replicating the sound of birds, a whistle, and even a jackhammer](https://www.pcgamer.com/hardware/listen-to-an-old-80s-arcade-sound-chip-replicating-the-sound-of-birds-a-whistle-and-even-a-jackhammer)<!-- GAME:END -->
+ - [Here’s why Dragon Age: The Veilguard is kinder to the Dalish than prior games](https://www.polygon.com/gaming/476013/dragon-age-veilguard-dalish-elves-gods)
+ - [Sony President Promises Better PlayStation Quality Checks After Concord&#39;s Failure](https://kotaku.com/ps5-concord-flop-sales-quality-check-why-1851693291)
+ - [Stardew Valley creator says he &#39;could work on it for the rest of my life&#39; and wants to keep sharing new things with players](https://www.pcgamer.com/games/life-sim/stardew-valley-creator-says-he-could-work-on-it-for-the-rest-of-my-life-and-wants-to-keep-sharing-new-things-with-players)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
