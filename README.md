@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [These are the patents Nintendo and The Pokémon Company are suing Palworld over](https://www.theverge.com/2024/11/8/24291232/nintendo-pocketpair-palworld-lawsuit-patents)
- - [2024 Mac Buyer&#39;s Guide -- Which desktop Mac you should buy?](https://appleinsider.com/articles/24/11/08/2024-mac-buyers-guide----which-desktop-mac-you-should-buy?utm_medium=rss)
- - [13 Best Laptops &lpar;2024&rpar;: MacBooks, Windows, Chromebooks, Copilot+ PCs](https://www.wired.com/gallery/best-laptops/)<!-- TECH:END -->
+ - [Early Black Friday deals: save up to $150 on every M4 iMac](https://appleinsider.com/articles/24/11/08/early-black-friday-deals-save-up-to-150-on-every-m4-imac?utm_medium=rss)
+ - [Some TikTok staff and users see Trump as a possible savior from the ban; others question whether Trump even cares about the app now that the campaign is over &lpar;Alexandra S. Levine/Bloomberg&rpar;](http://www.techmeme.com/241108/p8#a241108p8)
+ - [Donald Trump Isn’t the Only Chaos Agent](https://www.wired.com/story/plaintext-donald-trump-isnt-the-only-chaos-agent/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
