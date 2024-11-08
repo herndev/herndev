@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Unexpected question](http://9gag.com/gag/adBVYXd)
- - ⏩ [Clown world](http://9gag.com/gag/ajP9nM1)
- - 👉 [Survival skill +100%](http://9gag.com/gag/aZZyxY6)<!-- MEMES:END -->
+ - 💣 [Gangs stab Israeli football fans across Amsterdam. Mob swarms hotels.](http://9gag.com/gag/a87Gpo1)
+ - ⏩ [Both young men are pepsi after train surfing in austria. Rip. Darwin approves.](http://9gag.com/gag/ae9D6bj)
+ - 👉 [Kid&#39;s definitely right](http://9gag.com/gag/aZZypLV)<!-- MEMES:END -->
 
 ---
 
