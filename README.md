@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Feds investigate racist texts sent across the country post-election](https://www.theverge.com/2024/11/8/24291466/fcc-fbi-racist-text-messages-post-election)
- - [2024 is going to smash heat records](https://www.theverge.com/2024/11/8/24291309/2024-hottest-year-heat-record-climate-change-goals)
- - [Deal: Google Nest Audio smart speaker is 50% off!](https://www.androidauthority.com/google-nest-audio-deal-4-3498057/)<!-- TECH:END -->
+ - [My Favorite Video Doorbell Is Now Almost Half Off Just Ahead of Black Friday](https://www.cnet.com/deals/my-favorite-video-doorbell-is-now-almost-half-off-just-ahead-of-black-friday/#ftag=CAD590a51e)
+ - [The best new streaming shows this week: Eat, Slay, Love and more](https://www.androidauthority.com/best-new-tv-shows-to-stream-this-week-3084538/)
+ - [Holiday Cooking Just Got Easier With $100 Off This KitchenAid Stand Mixer](https://www.cnet.com/deals/holiday-cooking-just-got-easier-with-100-off-this-kitchenaid-stand-mixer/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
