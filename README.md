@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The moment it was all decided](http://9gag.com/gag/a1mWYPb)
- - ⏩ [Memes are back on the menu, boys.](http://9gag.com/gag/ajP9AoQ)
- - 👉 [This is just some data put into relation/context.. Aynway, does anybody KNOW if there are coincidences in determinism or fatalism?](http://9gag.com/gag/a34wLEN)<!-- MEMES:END -->
+ - 💣 [With Johnny Somali in jail.](http://9gag.com/gag/a7oW77m)
+ - ⏩ [The moment it was all decided](http://9gag.com/gag/a1mWYPb)
+ - 👉 [The best co worker huh?](http://9gag.com/gag/a87GW46)<!-- MEMES:END -->
 
 ---
 
