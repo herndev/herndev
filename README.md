@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Why are you gay](http://9gag.com/gag/aD243Ox)
- - ⏩ [Yes please](http://9gag.com/gag/ajP9qd8)
+ - 💣 [Bamboozling vs Getting bamboozled](http://9gag.com/gag/aPA7M9Q)
+ - ⏩ [The Sound of Happiness: A Crackling Walk on the Beach](http://9gag.com/gag/aAyepPR)
  - 👉 [Yeah, no.](http://9gag.com/gag/aMVx8KW)<!-- MEMES:END -->
 
 ---
