@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle answer for Friday, November 8](https://www.pcgamer.com/games/puzzle/wordle-answer-today-november-8-2024)
  - [Co-op survival game Icarus is celebrating 153 consecutive weekly updates by giving you a flamethrower and a free weekend](https://www.pcgamer.com/games/survival-crafting/co-op-survival-game-icarus-is-celebrating-153-consecutive-weekly-updates-by-giving-you-a-flamethrower-and-a-free-weekend)
- - [The first PUBG spinoff with real promise is a top-down take on Rainbow Six Siege](https://www.pcgamer.com/games/third-person-shooter/the-first-pubg-spinoff-with-real-promise-is-a-top-down-take-on-rainbow-six-siege)
- - [Black Ops 6 is wasting no time stinking up the joint with ugly skins](https://www.pcgamer.com/games/call-of-duty/black-ops-6-is-wasting-no-time-stinking-up-the-joint-with-ugly-skins)<!-- GAME:END -->
+ - [The first PUBG spinoff with real promise is a top-down take on Rainbow Six Siege](https://www.pcgamer.com/games/third-person-shooter/the-first-pubg-spinoff-with-real-promise-is-a-top-down-take-on-rainbow-six-siege)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
