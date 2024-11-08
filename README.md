@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [My Favorite Video Doorbell Is Now Almost Half Off Just Ahead of Black Friday](https://www.cnet.com/deals/my-favorite-video-doorbell-is-now-almost-half-off-just-ahead-of-black-friday/#ftag=CAD590a51e)
- - [The best new streaming shows this week: Eat, Slay, Love and more](https://www.androidauthority.com/best-new-tv-shows-to-stream-this-week-3084538/)
- - [Holiday Cooking Just Got Easier With $100 Off This KitchenAid Stand Mixer](https://www.cnet.com/deals/holiday-cooking-just-got-easier-with-100-off-this-kitchenaid-stand-mixer/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [How to start using Image Playground in iOS 18.2 to create funny selfies](https://appleinsider.com/inside/ios-18/tips/how-to-start-using-image-playground-in-ios-182-to-create-funny-selfies?utm_medium=rss)
+ - [YouTube Music Premium early adopters will soon have to say goodbye to their discount](https://www.androidauthority.com/youtube-music-premium-early-adopter-pricing-3498088/)
+ - [iPhone 16 Pro Max review two months later -- Like Apple says, the best iPhone yet](https://appleinsider.com/articles/24/11/08/iphone-16-pro-max-long-term-review----like-apple-says-the-best-iphone-yet?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
