@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Both young men are pepsi after train surfing in austria. Rip. Darwin approves.](http://9gag.com/gag/ae9D6bj)
- - ⏩ [Kamala&#39;s trans activist step daughter. America rejected this shit](http://9gag.com/gag/aMVxGVG)
- - 👉 [Just as he promised](http://9gag.com/gag/aPA7vzn)<!-- MEMES:END -->
+ - ⏩ [Bamboozling vs Getting bamboozled](http://9gag.com/gag/aPA7M9Q)
+ - 👉 [With Johnny Somali in jail.](http://9gag.com/gag/a7oW77m)<!-- MEMES:END -->
 
 ---
 
