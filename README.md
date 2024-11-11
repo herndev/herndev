@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Tuskegee University &lpar;historical ranked black univ&rpar; in Alabama: homecoming last night becomes a war zone. 1 dead, 16 shot in a bloody mass shooting](http://9gag.com/gag/aE0PpYo)
- - ⏩ [She lagged](http://9gag.com/gag/aYQyY07)
- - 👉 [They Reached Japan, Pakistani Mozlem immigrants](http://9gag.com/gag/aKG7j91)<!-- MEMES:END -->
+ - 💣 [Floorman working a drill rig](http://9gag.com/gag/a0eNQ5v)
+ - ⏩ [Welcome to New York](http://9gag.com/gag/aqyngzL)
+ - 👉 [P.O.V you and your Japanese girlfriend but you don\u2019t know what you did](http://9gag.com/gag/ajP9mrw)<!-- MEMES:END -->
 
 ---
 
