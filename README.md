@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Beatles’ final song, restored using AI, is up for a Grammy](https://www.theverge.com/2024/11/8/24291691/the-beatles-ai-now-and-then-song-grammy-nomination)
- - [Is ChatGPT not working for you? Here’s how you can try to fix it](https://www.androidauthority.com/chatgpt-not-working-fix-3295471/)
- - [Taylor Swift Fans Are Leaving X for Bluesky After Trump’s Election](https://www.wired.com/story/taylor-swift-fans-leaving-x-following-trumps-election/)<!-- TECH:END -->
+ - [Best Internet Providers in Erie, Pennsylvania](https://www.cnet.com/home/internet/best-internet-providers-in-erie-pa/#ftag=CAD590a51e)
+ - [The next Nintendo Direct is all about Super Nintendo World’s Donkey Kong Country](https://www.theverge.com/2024/11/10/24293054/super-nintendo-world-donkey-kong-country-area-direct-showcase-theme-park)
+ - [Best Internet Providers in Concord, North Carolina](https://www.cnet.com/home/internet/best-internet-providers-in-concord-nc/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
