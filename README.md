@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Sonos Deals: Save on These High-End Wireless Speaker Bundles](https://www.cnet.com/deals/best-sonos-deals/#ftag=CAD590a51e)
- - [Android 15’s virtual machine mandate is aimed at improving security](https://www.androidauthority.com/android-15-virtual-machine-mandate-3498428/)
- - [The Boox Palma e-reader is down to a new low price for Verge readers](https://www.theverge.com/2024/11/11/24293609/boox-palma-apple-airtags-fitbit-ace-lte-deal-sale)<!-- TECH:END -->
+ - [Apple execs address Mac mini&#39;s hidden power button in 2024 redesign](https://appleinsider.com/articles/24/11/11/apple-execs-address-mac-minis-hidden-power-button-in-2024-redesign?utm_medium=rss)
+ - [Grab Free At-Home COVID-19 Tests Before the Winter Wave Hits](https://www.cnet.com/health/grab-free-at-home-covid-19-tests-before-the-winter-wave-hits/#ftag=CAD590a51e)
+ - [How to deactivate your X account](https://www.theverge.com/24293448/x-twitter-musk-deactivate-how-to)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
