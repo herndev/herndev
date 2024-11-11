@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [`Directed by MICHAEL BAY`](http://9gag.com/gag/a4P33PQ)
- - ⏩ [She\u2019s going to remember that for the rest of that moment](http://9gag.com/gag/a9ynEjW)
+ - 💣 [Gaming in brazil&lpar;Warning emoji and bad music&rpar;](http://9gag.com/gag/aE0PPm9)
+ - ⏩ [Unfortunate events](http://9gag.com/gag/ajP99yp)
  - 👉 [Smile](http://9gag.com/gag/a34wQ65)<!-- MEMES:END -->
 
 ---
