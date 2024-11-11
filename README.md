@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Floorman working a drill rig](http://9gag.com/gag/a0eNQ5v)
- - ⏩ [Real beauty is on the inside](http://9gag.com/gag/a87G3Dd)
- - 👉 [He likes his mouth pounded only in private ..](http://9gag.com/gag/a6ZKEbe)<!-- MEMES:END -->
+ - 💣 [He likes his mouth pounded only in private ..](http://9gag.com/gag/a6ZKEbe)
+ - ⏩ [Remember to always quicksave](http://9gag.com/gag/aAyegKd)
+ - 👉 [Dutch female motorcycle traveler encounters the infamous African corruption](http://9gag.com/gag/aXPggGb)<!-- MEMES:END -->
 
 ---
 
