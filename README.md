@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The guy behind taking notes](http://9gag.com/gag/a87G5dQ)
- - ⏩ [Go away peepee worm](http://9gag.com/gag/aLnwjnW)
- - 👉 [That chin](http://9gag.com/gag/aE0PgBn)<!-- MEMES:END -->
+ - 💣 [Gaming in brazil&lpar;Warning emoji and bad music&rpar;](http://9gag.com/gag/aE0PPm9)
+ - ⏩ [Smile](http://9gag.com/gag/a34wQ65)
+ - 👉 [I cumbed out of all my holes](http://9gag.com/gag/aMVxxMM)<!-- MEMES:END -->
 
 ---
 
