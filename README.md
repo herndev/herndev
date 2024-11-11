@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Gaming in brazil&lpar;Warning emoji and bad music&rpar;](http://9gag.com/gag/aE0PPm9)
- - ⏩ [Smile](http://9gag.com/gag/a34wQ65)
- - 👉 [I cumbed out of all my holes](http://9gag.com/gag/aMVxxMM)<!-- MEMES:END -->
+ - 💣 [Paycheck is paycheck](http://9gag.com/gag/abAGMAE)
+ - ⏩ [They Reached Japan, Pakistani Mozlem immigrants](http://9gag.com/gag/aKG7j91)
+ - 👉 [That chin](http://9gag.com/gag/aE0PgBn)<!-- MEMES:END -->
 
 ---
 
