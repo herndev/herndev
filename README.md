@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung’s improved foldable phone keeps flying off the shelves](https://www.androidauthority.com/samsung-z-fold-special-edition-third-round-sales-3498324/)
- - [YouTube is testing the worst change ever in its Android app](https://www.androidauthority.com/youtube-fullscreen-swipe-gesture-change-test-3498275/)
- - [Lumikai projects India&#39;s gaming market to grow from $3.8B in 2024 to $9.2B in 2029; the number of gamers in India reached 591M in 2024, up from 568M in 2023 &lpar;Dean Takahashi/VentureBeat&rpar;](http://www.techmeme.com/241111/p2#a241111p2)<!-- TECH:END -->
+ - [You are not alone: These two annoying YouTube playback bugs are frustrating users](https://www.androidauthority.com/annoying-youtube-playback-bugs-3498315/)
+ - [Sources: Elon Musk&#39;s US government advisory role will be structured to ensure he keeps control of Tesla, X, xAI, and others by installing acolytes and allies &lpar;Financial Times&rpar;](http://www.techmeme.com/241111/p4#a241111p4)
+ - [Mattel accidentally linked a porn site on Wicked doll packaging](https://www.theverge.com/2024/11/11/24293395/mattel-wicked-doll-porn-website-url-misprint-error)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
