@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [BOOP HIS GODDAMN SNOOT!!!](http://9gag.com/gag/aAyeGY9)
- - ⏩ [I&#39;ve been on sex strike for over 30 years](http://9gag.com/gag/aXPgogg)
- - 👉 [How many people actually use Brave?](http://9gag.com/gag/aVvwwBv)<!-- MEMES:END -->
+ - 💣 [California Man Uses RPG To Scare Off Home Invaders](http://9gag.com/gag/aE0P8d9)
+ - ⏩ [Real beauty is on the inside](http://9gag.com/gag/a87G3Dd)
+ - 👉 [Welcome to New York](http://9gag.com/gag/aqyngzL)<!-- MEMES:END -->
 
 ---
 
