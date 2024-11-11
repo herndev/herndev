@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Rise of the Golden Idol Is a Fitting Sequel to One of the Best Puzzle Games of Recent Years](https://news.xbox.com/en-us/2024/11/11/rise-of-the-golden-idol/)
- - [What If…?’s season 3 trailer gives the MCU its own Voltron and puts Mjolnir in Storm’s hands](https://www.polygon.com/marvel/477020/what-if-season-3-trailer-storm-mjolnir-x-men-97)
- - [Yakuza Creator Suggests There Might Be Too Many Games To Keep Making Them So Big](https://kotaku.com/yakuza-like-dragon-game-length-toshihiro-nagoshi-sega-1851694986)<!-- GAME:END -->
+ - [Here&amp;#8217;s a tiny glimpse of the Firewatch follow-up you may never get to play](https://www.polygon.com/news/477068/firewatch-in-the-valley-of-gods-campo-santo-water)
+ - [The best of Arcane’s League of Legends &lpar;and Riot Games&rpar; Easter eggs in season 2](https://www.polygon.com/tv/476294/arcane-lol-easter-egg-season-2-league-show)
+ - [Breakthrough Gaming: Beginner&#39;s Tips and Tricks for Planet Coaster 2](https://kotaku.com/planet-coaster-2-pathing-weather-beginner-tips-1851695155)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
