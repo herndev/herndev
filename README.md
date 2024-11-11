@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [It’s November and my Pixel 8 Po just got this October Pixel Drop feature](https://www.androidauthority.com/pixel-weather-app-older-pixel-rollout-3498288/)
- - [Brace yourselves: The next potential camera king will launch globally next week](https://www.androidauthority.com/oppo-find-x8-series-global-launch-date-3498258/)
- - [Q&amp;A with Foursquare co-founder Dennis Crowley on his startup Hopscotch Labs, which uses AI and headphones to give information as a person walks by a location &lpar;Om Malik/Crazy Stupid Tech&rpar;](http://www.techmeme.com/241111/p1#a241111p1)<!-- TECH:END -->
+ - [Samsung’s improved foldable phone keeps flying off the shelves](https://www.androidauthority.com/samsung-z-fold-special-edition-third-round-sales-3498324/)
+ - [YouTube is testing the worst change ever in its Android app](https://www.androidauthority.com/youtube-fullscreen-swipe-gesture-change-test-3498275/)
+ - [Lumikai projects India&#39;s gaming market to grow from $3.8B in 2024 to $9.2B in 2029; the number of gamers in India reached 591M in 2024, up from 568M in 2023 &lpar;Dean Takahashi/VentureBeat&rpar;](http://www.techmeme.com/241111/p2#a241111p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
