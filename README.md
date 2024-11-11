@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Save Your Realm in the Spyro Reignited Trilogy, Coming to Xbox Game Pass](https://news.xbox.com/en-us/2024/11/11/spyro-reignited-trilogy-xbox-game-pass/)
- - [Everything You Need To Know About Mario and Luigi: Brothership](https://kotaku.com/mario-and-luigi-brothership-switch-reviews-coop-rpg-1851694802)
- - [First Mission: Impossible 8 Teaser Trailer Has Tom Cruise Hanging Off Planes...Again](https://kotaku.com/mission-impossible-8-dead-final-reckoning-trailer-date-1851694777)<!-- GAME:END -->
+ - [Material scientists create a new compound that has a thermal resistance up to 72% lower than some of the best liquid metals](https://www.pcgamer.com/hardware/material-scientists-create-a-new-compound-that-has-a-thermal-resistance-up-to-72-percent-lower-than-some-of-the-best-liquid-metals)
+ - [Indiana Jones and the Great Circle showcases 15 minutes of plundering tombs and punching Nazis](https://www.pcgamer.com/games/action/indiana-jones-and-the-great-circle-showcases-15-minutes-of-plundering-tombs-and-punching-nazis)
+ - [F1 24: A deeper dive into its PS5 Pro enhancements, plus first details on the upcoming season 4](https://blog.playstation.com/2024/11/11/f1-24-a-deeper-dive-into-its-ps5-pro-enhancements-plus-first-details-on-the-upcoming-season-4/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
