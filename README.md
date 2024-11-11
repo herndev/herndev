@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [While you&#39;re having fun and looking for memes, someone else is thinking about how to make it until their first paycheck at their new job.](http://9gag.com/gag/a87G1Dd)
- - ⏩ [Mom!... why sister eating large candy?....](http://9gag.com/gag/a4P311w)
- - 👉 [Real beauty is on the inside](http://9gag.com/gag/a87G3Dd)<!-- MEMES:END -->
+ - 💣 [Floorman working a drill rig](http://9gag.com/gag/a0eNQ5v)
+ - ⏩ [Real beauty is on the inside](http://9gag.com/gag/a87G3Dd)
+ - 👉 [He likes his mouth pounded only in private ..](http://9gag.com/gag/a6ZKEbe)<!-- MEMES:END -->
 
 ---
 
