@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Give this women a cookie, i salute you](http://9gag.com/gag/aXPgxGv)
- - ⏩ [What&#39;s happening to Europe.](http://9gag.com/gag/aLnwwb5)
- - 👉 [Unfortunate events](http://9gag.com/gag/ajP99yp)<!-- MEMES:END -->
+ - 💣 [That chin](http://9gag.com/gag/aE0PgBn)
+ - ⏩ [Very difficult question to answer](http://9gag.com/gag/aRB73Ey)
+ - 👉 [Go away peepee worm](http://9gag.com/gag/aLnwjnW)<!-- MEMES:END -->
 
 ---
 
