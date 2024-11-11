@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Call of Duty Endowment Celebrates 15 Years of Veteran Impact with Anniversary Bundle](https://aka.ms/CODE15Years#new_tab)
- - [The Rise of the Golden Idol sets the standard for point-and-click mysteries](https://www.polygon.com/review/475169/rise-of-the-golden-idol-review)
- - [All the Andor season 2 news we’ve heard so far](https://www.polygon.com/23475516/andor-season-2-release-date-cast-news)<!-- GAME:END -->
+ - [Rise of the Golden Idol Is a Fitting Sequel to One of the Best Puzzle Games of Recent Years](https://news.xbox.com/en-us/2024/11/11/rise-of-the-golden-idol/)
+ - [What If…?’s season 3 trailer gives the MCU its own Voltron and puts Mjolnir in Storm’s hands](https://www.polygon.com/marvel/477020/what-if-season-3-trailer-storm-mjolnir-x-men-97)
+ - [Yakuza Creator Suggests There Might Be Too Many Games To Keep Making Them So Big](https://kotaku.com/yakuza-like-dragon-game-length-toshihiro-nagoshi-sega-1851694986)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
