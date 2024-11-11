@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Israeli football fans got ambushed in Amsterdam in several locations. Masked men are trying to break into hotels where Israelis are apparently staying. One tourist asked a policeman to help, and he answered &#39;yes yes, bye bye&#39; and laughed.](http://9gag.com/gag/aKG72LN)
- - ⏩ [Both young men are pepsi after train surfing in austria. Rip. Darwin approves.](http://9gag.com/gag/ae9D6bj)
- - 👉 [Yes please](http://9gag.com/gag/ajP9qd8)<!-- MEMES:END -->
+ - 💣 [Look what you did](http://9gag.com/gag/a2vWZMZ)
+ - ⏩ [Floorman working a drill rig](http://9gag.com/gag/a0eNQ5v)
+ - 👉 [Paycheck is paycheck](http://9gag.com/gag/abAGMAE)<!-- MEMES:END -->
 
 ---
 
