@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Robbers???](http://9gag.com/gag/a0eNZwX)
- - ⏩ [Reject politics, embrace the cool ice stick.](http://9gag.com/gag/aMVx4vM)
- - 👉 [Lets elevate it and take it to upper class](http://9gag.com/gag/aPA7Z8P)<!-- MEMES:END -->
+ - 💣 [Busted](http://9gag.com/gag/aE0PPQK)
+ - ⏩ [Ahhh I remember this money dropping prank](http://9gag.com/gag/a5QWE4g)
+ - 👉 [Founded in 1881, Tuskegee University is a private, state-related, land-grant and nationally ranked historically black University. &lpar;from their official x acct&rpar;. LAsT NIgHT this happened.](http://9gag.com/gag/abAGVz8)<!-- MEMES:END -->
 
 ---
 
