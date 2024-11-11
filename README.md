@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Genshin Impact Version 5.2: Expand Your Aerial Abilities to Explore the New Lands of Natlan](https://blog.playstation.com/2024/11/10/20241111-genshinimpact/)
  - [Today&#39;s Wordle answer for Monday, November 11](https://www.pcgamer.com/games/puzzle/wordle-answer-today-november-11-2024)
- - [The best way to get into Magic: The Gathering is being handed a shoebox of old cards, but the second-best way is Foundations&#39; Starter Collection](https://www.pcgamer.com/games/card-games/the-best-way-to-get-into-magic-the-gathering-is-being-handed-a-shoebox-of-old-cards-but-the-second-best-way-is-foundations-starter-collection)
- - [Stardew Valley cheats: Every cheat code you need, no mods required](https://www.pcgamer.com/games/life-sim/stardew-valley-cheats-every-cheat-code-you-need-no-mods-required)<!-- GAME:END -->
+ - [The best way to get into Magic: The Gathering is being handed a shoebox of old cards, but the second-best way is Foundations&#39; Starter Collection](https://www.pcgamer.com/games/card-games/the-best-way-to-get-into-magic-the-gathering-is-being-handed-a-shoebox-of-old-cards-but-the-second-best-way-is-foundations-starter-collection)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
