@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Remember to always quicksave](http://9gag.com/gag/aAyegKd)
- - ⏩ [Hmm...](http://9gag.com/gag/aVvw3MP)
- - 👉 [Well well well](http://9gag.com/gag/aMVxxOP)<!-- MEMES:END -->
+ - 💣 [Well well well](http://9gag.com/gag/aMVxxOP)
+ - ⏩ [Six, I am sure](http://9gag.com/gag/aAyexPo)
+ - 👉 [Paycheck is paycheck](http://9gag.com/gag/abAGMAE)<!-- MEMES:END -->
 
 ---
 
