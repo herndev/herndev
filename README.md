@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google is working on a new look for the Gemini overlay &lpar;APK teardown&rpar;](https://www.androidauthority.com/gemini-overlay-redesign-3498404/)
- - [Don&#39;t Wait for Black Friday. Score Almost Half Off This Massive 98-Inch TCL 4K TV Right Now](https://www.cnet.com/deals/dont-wait-for-black-friday-score-almost-half-off-this-massive-98-inch-tcl-4k-tv-right-now/#ftag=CAD590a51e)
- - [Find My&#39;s Share Item Location will help airlines find your luggage](https://appleinsider.com/articles/24/11/11/find-mys-share-item-location-will-help-airlines-find-your-luggage?utm_medium=rss)<!-- TECH:END -->
+ - [Best Sonos Deals: Save on These High-End Wireless Speaker Bundles](https://www.cnet.com/deals/best-sonos-deals/#ftag=CAD590a51e)
+ - [Android 15’s virtual machine mandate is aimed at improving security](https://www.androidauthority.com/android-15-virtual-machine-mandate-3498428/)
+ - [The Boox Palma e-reader is down to a new low price for Verge readers](https://www.theverge.com/2024/11/11/24293609/boox-palma-apple-airtags-fitbit-ace-lte-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
