@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Looks like Google Gemini is going solo on iPhones with its Siri-beating feature](https://www.androidauthority.com/google-gemini-ios-app-3498234/)
- - [One UI 7 beta release date and availability details may have just leaked](https://www.androidauthority.com/one-ui-7-beta-release-date-availability-3498228/)
- - [Today&#39;s NYT Mini Crossword Answers for Monday, Nov. 11](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-monday-nov-11/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Android 15 adds support for Wi-Fi Ranging to improve indoor navigation](https://www.androidauthority.com/android-15-wi-fi-ranging-3498128/)
+ - [Amazon drops early Black Friday deals on M4 MacBook Pro, Mac mini, iMac, MacBook Air 16GB](https://appleinsider.com/articles/24/11/11/amazon-drops-early-black-friday-deals-on-m4-macbook-pro-mac-mini-imac-macbook-air-16gb?utm_medium=rss)
+ - [Looks like Google Gemini is going solo on iPhones with its Siri-beating feature](https://www.androidauthority.com/google-gemini-ios-app-3498234/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
