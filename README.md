@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [California Man Uses RPG To Scare Off Home Invaders](http://9gag.com/gag/aE0P8d9)
- - ⏩ [Real beauty is on the inside](http://9gag.com/gag/a87G3Dd)
- - 👉 [Welcome to New York](http://9gag.com/gag/aqyngzL)<!-- MEMES:END -->
+ - 💣 [BOOP HIS GODDAMN SNOOT!!!](http://9gag.com/gag/aAyeGY9)
+ - ⏩ [President Trump names Tom Homan as his Border Czar, in charge of deportations. Illegals, start packing.](http://9gag.com/gag/aMVx49W)
+ - 👉 [She\u2019s going to remember that for the rest of that moment](http://9gag.com/gag/a9ynEjW)<!-- MEMES:END -->
 
 ---
 
