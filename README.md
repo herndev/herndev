@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Dwayne &#39;The Rock&#39; Johnson Comes Clean About Piss Scandal](https://kotaku.com/dwayne-the-rock-johnson-pee-red-one-1851695097)
- - [The makers of Black Mesa reveal their new project, which has absolutely nothing to do with Half-Life](https://www.pcgamer.com/games/fps/the-makers-of-black-mesa-reveal-their-new-project-which-has-absolutely-nothing-to-do-with-half-life)
- - [Best AS VAL loadout and class build in Black Ops 6](https://www.polygon.com/black-ops-6-guides/477038/best-as-val-loadout-class-build-setup-bo6)<!-- GAME:END -->
+ - [Ubisoft Facing Lawsuit Over Shutting Down Always-Online Game](https://kotaku.com/ubisoft-killing-games-the-crew-lawsuit-shutdown-offline-1851695302)
+ - [The 10th Anniversary Return Of Interstellar Is Another IMAX Debacle](https://kotaku.com/interstellar-10th-anniversary-imax-return-tickets-1851694027)
+ - [Holy cow, Stalker 2 needs 150GB of SSD space, and you&#39;ve got 9 days to figure out where you&#39;re going to put it](https://www.pcgamer.com/games/fps/holy-cow-stalker-2-needs-150gb-of-ssd-space-and-youve-got-9-days-to-figure-out-where-youre-going-to-put-it)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
