@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Well well well](http://9gag.com/gag/aMVxxOP)
- - ⏩ [Six, I am sure](http://9gag.com/gag/aAyexPo)
- - 👉 [Paycheck is paycheck](http://9gag.com/gag/abAGMAE)<!-- MEMES:END -->
+ - 💣 [Give this women a cookie, i salute you](http://9gag.com/gag/aXPgxGv)
+ - ⏩ [What&#39;s happening to Europe.](http://9gag.com/gag/aLnwwb5)
+ - 👉 [Unfortunate events](http://9gag.com/gag/ajP99yp)<!-- MEMES:END -->
 
 ---
 
