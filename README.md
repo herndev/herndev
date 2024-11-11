@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Here&amp;#8217;s a tiny glimpse of the Firewatch follow-up you may never get to play](https://www.polygon.com/news/477068/firewatch-in-the-valley-of-gods-campo-santo-water)
- - [The best of Arcane’s League of Legends &lpar;and Riot Games&rpar; Easter eggs in season 2](https://www.polygon.com/tv/476294/arcane-lol-easter-egg-season-2-league-show)
- - [Breakthrough Gaming: Beginner&#39;s Tips and Tricks for Planet Coaster 2](https://kotaku.com/planet-coaster-2-pathing-weather-beginner-tips-1851695155)<!-- GAME:END -->
+ - [Dwayne &#39;The Rock&#39; Johnson Comes Clean About Piss Scandal](https://kotaku.com/dwayne-the-rock-johnson-pee-red-one-1851695097)
+ - [The makers of Black Mesa reveal their new project, which has absolutely nothing to do with Half-Life](https://www.pcgamer.com/games/fps/the-makers-of-black-mesa-reveal-their-new-project-which-has-absolutely-nothing-to-do-with-half-life)
+ - [Best AS VAL loadout and class build in Black Ops 6](https://www.polygon.com/black-ops-6-guides/477038/best-as-val-loadout-class-build-setup-bo6)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
