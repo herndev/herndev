@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [BOOP HIS GODDAMN SNOOT!!!](http://9gag.com/gag/aAyeGY9)
- - ⏩ [President Trump names Tom Homan as his Border Czar, in charge of deportations. Illegals, start packing.](http://9gag.com/gag/aMVx49W)
- - 👉 [She\u2019s going to remember that for the rest of that moment](http://9gag.com/gag/a9ynEjW)<!-- MEMES:END -->
+ - 💣 [While you&#39;re having fun and looking for memes, someone else is thinking about how to make it until their first paycheck at their new job.](http://9gag.com/gag/a87G1Dd)
+ - ⏩ [Mom!... why sister eating large candy?....](http://9gag.com/gag/a4P311w)
+ - 👉 [Real beauty is on the inside](http://9gag.com/gag/a87G3Dd)<!-- MEMES:END -->
 
 ---
 
