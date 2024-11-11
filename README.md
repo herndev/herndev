@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [&#39;We are dirt cheap&#39;: Arcane&#39;s showrunners say the &#39;most expensive&#39; animated series ever produced isn&#39;t that expensive, if you think about it](https://www.pcgamer.com/movies-tv/we-are-dirt-cheap-arcanes-showrunners-say-the-most-expensive-animated-series-ever-produced-isnt-that-expensive-if-you-think-about-it)
- - [Intel admits the Arrow Lake launch missed the mark and promises performance fixes by December, but my testing suggests you shouldn&#39;t get your hopes up](https://www.pcgamer.com/hardware/processors/intel-admits-the-arrow-lake-launch-missed-the-mark-and-promises-performance-fixes-by-december-but-my-testing-suggests-you-shouldnt-get-your-hopes-up)
- - [An SK Hynix employee printed out 4,000 pages of confidential info and carried it out the door in shopping bags before leaving for their new job at Huawei](https://www.pcgamer.com/hardware/an-sk-hynix-employee-printed-out-4-000-pages-of-confidential-info-and-carried-it-out-the-door-in-shopping-bags-before-leaving-for-their-new-job-at-huawei)<!-- GAME:END -->
+ - [Judero is a psychedelic trip through Scottish folklore](https://www.polygon.com/review/475802/judero-jack-king-spooner-talha-kaya)
+ - [I tried to live out my cosy medieval peasant fantasy in Mirthwood but kept dying from starvation and bandit attacks](https://www.pcgamer.com/games/life-sim/i-tried-to-live-out-my-cosy-medieval-peasant-fantasy-in-mirthwood-but-kept-dying-from-starvation-and-bandit-attacks)
+ - [The Mass Effect Trilogy Squadmates, Ranked From Worst To Best](https://kotaku.com/mass-effect-best-character-squadmates-garrus-liara-tali-1851693416)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
