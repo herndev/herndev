@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [People already forgot about Joe](http://9gag.com/gag/ayNeX1M)
- - ⏩ [P.O.V you and your Japanese girlfriend but you don\u2019t know what you did](http://9gag.com/gag/ajP9mrw)
- - 👉 [The guy behind taking notes](http://9gag.com/gag/a87G5dQ)<!-- MEMES:END -->
+ - 💣 [Gaming in brazil&lpar;Warning emoji and bad music&rpar;](http://9gag.com/gag/aE0PPm9)
+ - ⏩ [I cumbed out of all my holes](http://9gag.com/gag/aMVxxMM)
+ - 👉 [Looks like our boy is on the right path!](http://9gag.com/gag/aO87rNr)<!-- MEMES:END -->
 
 ---
 
