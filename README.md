@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The NYT says the Tech Guild is ending its strike after a weeklong stoppage; during the strike, dozens of tech workers crossed the picket line &lpar;Lucia Moses/Business Insider&rpar;](http://www.techmeme.com/241111/p17#a241111p17)
- - [Signal calls now work a lot more like Meet and Zoom](https://www.theverge.com/2024/11/11/24293873/signal-calls-work-like-meet-zoom)
- - [Elevate your collection with Apple Music&#39;s luxurious 100 best albums book](https://appleinsider.com/articles/24/11/11/elevate-your-collection-with-apple-musics-luxurious-100-best-albums-book?utm_medium=rss)<!-- TECH:END -->
+ - [New in iOS 18.2 developer beta 3: Changes to Apple Intelligence, video playback, and more](https://appleinsider.com/articles/24/11/11/new-in-ios-182-developer-beta-3-changes-to-apple-intelligence-video-playback-and-more?utm_medium=rss)
+ - [The NYT Tech Guild’s election week strike is over](https://www.theverge.com/2024/11/11/24294023/new-york-times-tech-workers-strike-end)
+ - [Gemini Live is getting ready to chat with you about your files &lpar;APK teardown&rpar;](https://www.androidauthority.com/gemini-live-files-3498551/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
