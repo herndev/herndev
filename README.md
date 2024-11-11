@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Verge’s favorite holiday gifts under $100](https://www.theverge.com/24224041/gifts-under-100-best-cheap-tech-ideas-2024-budget)
- - [The best entertainment of 2024](https://www.theverge.com/entertainment/24090208/best-entertainment-2024-games-film-tv-streaming)
- - [Refi Rates Unchanged Despite Fed Cut. Today&#39;s Refinance Rates, Nov. 11, 2024](https://www.cnet.com/personal-finance/refi-rates-tick-even-lower-refinance-rates-for-nov-11-2024/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Waymo compiles ‘largest ever’ dataset of pedestrian and cyclist injuries](https://www.theverge.com/2024/11/11/24290338/waymo-vru-pedestrian-cyclist-injury-dataset)
+ - [Matter 1.4 is released, new Apple betas, &amp; more news on HomeKit Insider](https://appleinsider.com/articles/24/11/11/matter-14-is-released-new-apple-betas-more-news-on-homekit-insider?utm_medium=rss)
+ - [Argentina-based Ual&amp;aacute;, which offers financial services to 8M users, raised a $300M Series E led by Allianz X at a $2.75B valuation, up from $2.45B in August 2021 &lpar;Bloomberg&rpar;](http://www.techmeme.com/241111/p12#a241111p12)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
