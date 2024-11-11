@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Judero is a psychedelic trip through Scottish folklore](https://www.polygon.com/review/475802/judero-jack-king-spooner-talha-kaya)
- - [I tried to live out my cosy medieval peasant fantasy in Mirthwood but kept dying from starvation and bandit attacks](https://www.pcgamer.com/games/life-sim/i-tried-to-live-out-my-cosy-medieval-peasant-fantasy-in-mirthwood-but-kept-dying-from-starvation-and-bandit-attacks)
- - [The Mass Effect Trilogy Squadmates, Ranked From Worst To Best](https://kotaku.com/mass-effect-best-character-squadmates-garrus-liara-tali-1851693416)<!-- GAME:END -->
+ - [Watch the Indiana Jones and the Great Circle Gameplay Deep-Dive](https://www.youtube.com/watch?v=vujiFT4cQm8#new_tab)
+ - [The host of Dropout’s Smartypants tells you how to throw a banger PowerPoint party](https://www.polygon.com/tv/475253/how-to-powerpoint-party-smartypants-dropout-rekha-shankar-interview)
+ - [NetEase employees have allegedly laundered up to $139.3 million in a trading scheme that involves nearly 30 companies](https://www.pcgamer.com/gaming-industry/netease-employees-have-allegedly-laundered-up-to-usd139-3-million-in-a-trading-scheme-that-involves-nearly-30-companies)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
