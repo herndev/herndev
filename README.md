@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle answer for Monday, November 11](https://www.pcgamer.com/games/puzzle/wordle-answer-today-november-11-2024)
  - [The best way to get into Magic: The Gathering is being handed a shoebox of old cards, but the second-best way is Foundations&#39; Starter Collection](https://www.pcgamer.com/games/card-games/the-best-way-to-get-into-magic-the-gathering-is-being-handed-a-shoebox-of-old-cards-but-the-second-best-way-is-foundations-starter-collection)
- - [Stardew Valley cheats: Every cheat code you need, no mods required](https://www.pcgamer.com/games/life-sim/stardew-valley-cheats-every-cheat-code-you-need-no-mods-required)
- - [Five new Steam games you probably missed &lpar;November 11, 2024&rpar;](https://www.pcgamer.com/software/platforms/five-new-steam-games-you-probably-missed-november-11-2024)<!-- GAME:END -->
+ - [Stardew Valley cheats: Every cheat code you need, no mods required](https://www.pcgamer.com/games/life-sim/stardew-valley-cheats-every-cheat-code-you-need-no-mods-required)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
