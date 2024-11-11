@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Watch the Indiana Jones and the Great Circle Gameplay Deep-Dive](https://www.youtube.com/watch?v=vujiFT4cQm8#new_tab)
- - [The host of Dropout’s Smartypants tells you how to throw a banger PowerPoint party](https://www.polygon.com/tv/475253/how-to-powerpoint-party-smartypants-dropout-rekha-shankar-interview)
- - [NetEase employees have allegedly laundered up to $139.3 million in a trading scheme that involves nearly 30 companies](https://www.pcgamer.com/gaming-industry/netease-employees-have-allegedly-laundered-up-to-usd139-3-million-in-a-trading-scheme-that-involves-nearly-30-companies)<!-- GAME:END -->
+ - [Save Your Realm in the Spyro Reignited Trilogy, Coming to Xbox Game Pass](https://news.xbox.com/en-us/2024/11/11/spyro-reignited-trilogy-xbox-game-pass/)
+ - [Everything You Need To Know About Mario and Luigi: Brothership](https://kotaku.com/mario-and-luigi-brothership-switch-reviews-coop-rpg-1851694802)
+ - [First Mission: Impossible 8 Teaser Trailer Has Tom Cruise Hanging Off Planes...Again](https://kotaku.com/mission-impossible-8-dead-final-reckoning-trailer-date-1851694777)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
