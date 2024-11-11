@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [You are not alone: These two annoying YouTube playback bugs are frustrating users](https://www.androidauthority.com/annoying-youtube-playback-bugs-3498315/)
- - [Sources: Elon Musk&#39;s US government advisory role will be structured to ensure he keeps control of Tesla, X, xAI, and others by installing acolytes and allies &lpar;Financial Times&rpar;](http://www.techmeme.com/241111/p4#a241111p4)
- - [Mattel accidentally linked a porn site on Wicked doll packaging](https://www.theverge.com/2024/11/11/24293395/mattel-wicked-doll-porn-website-url-misprint-error)<!-- TECH:END -->
+ - [FTX sues crypto trader &quot;Humpy the Whale&quot; alleging margin trading market manipulation from January 2021 to September 2022, leading to FTX and Alameda losing $1B &lpar;Callan Quinn/CoinDesk&rpar;](http://www.techmeme.com/241111/p7#a241111p7)
+ - [Best MacBooks &lpar;2024&rpar;: Which Model Should You Buy?](https://www.wired.com/story/which-macbook-should-you-buy/)
+ - [a16z says it is &quot;very optimistic&quot; that the US government will &quot;foster innovation&quot; in crypto and there is a &quot;pathway for constructive engagement&quot; with regulators &lpar;a16z crypto&rpar;](http://www.techmeme.com/241111/p6#a241111p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
