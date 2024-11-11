@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Five new Steam games you probably missed &lpar;November 11, 2024&rpar;](https://www.pcgamer.com/software/platforms/five-new-steam-games-you-probably-missed-november-11-2024)
  - [Trash Goblin is a game about being a little goblin that sells trash](https://www.pcgamer.com/games/trash-goblin-is-a-game-about-being-a-little-goblin-that-sells-trash)
- - [Karate Survivor is an 80s-tastic battler about building your own combos](https://www.pcgamer.com/games/roguelike/karate-survivor-is-an-80s-tastic-battler-about-building-your-own-combos)
- - [10 video games that are actually funny](https://www.polygon.com/what-to-play/474691/best-video-game-comedy-disco-elysium-portal-hitman)<!-- GAME:END -->
+ - [Karate Survivor is an 80s-tastic battler about building your own combos](https://www.pcgamer.com/games/roguelike/karate-survivor-is-an-80s-tastic-battler-about-building-your-own-combos)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
