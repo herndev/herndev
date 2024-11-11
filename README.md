@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Gaming in brazil&lpar;Warning emoji and bad music&rpar;](http://9gag.com/gag/aE0PPm9)
- - ⏩ [Unfortunate events](http://9gag.com/gag/ajP99yp)
- - 👉 [Smile](http://9gag.com/gag/a34wQ65)<!-- MEMES:END -->
+ - 💣 [Real beauty is on the inside](http://9gag.com/gag/a87G3Dd)
+ - ⏩ [The guy behind taking notes](http://9gag.com/gag/a87G5dQ)
+ - 👉 [They Reached Japan, Pakistani Mozlem immigrants](http://9gag.com/gag/aKG7j91)<!-- MEMES:END -->
 
 ---
 
