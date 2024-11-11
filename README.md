@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Android 15 adds support for Wi-Fi Ranging to improve indoor navigation](https://www.androidauthority.com/android-15-wi-fi-ranging-3498128/)
- - [Amazon drops early Black Friday deals on M4 MacBook Pro, Mac mini, iMac, MacBook Air 16GB](https://appleinsider.com/articles/24/11/11/amazon-drops-early-black-friday-deals-on-m4-macbook-pro-mac-mini-imac-macbook-air-16gb?utm_medium=rss)
- - [Looks like Google Gemini is going solo on iPhones with its Siri-beating feature](https://www.androidauthority.com/google-gemini-ios-app-3498234/)<!-- TECH:END -->
+ - [Q&amp;A with Foursquare co-founder Dennis Crowley on his startup Hopscotch Labs, which uses AI and headphones to give information as a person walks by a location &lpar;Om Malik/Crazy Stupid Tech&rpar;](http://www.techmeme.com/241111/p1#a241111p1)
+ - [Poll: How old Is your current smartphone?](https://www.androidauthority.com/how-old-is-your-current-smartphone-poll-3498251/)
+ - [Google could soon let you resume canceled Play Store downloads &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-play-store-smart-resume-apk-teardown-3497795/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
