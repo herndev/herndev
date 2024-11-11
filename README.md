@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Five new Steam games you probably missed &lpar;November 11, 2024&rpar;](https://www.pcgamer.com/software/platforms/five-new-steam-games-you-probably-missed-november-11-2024)
- - [Trash Goblin is a game about being a little goblin that sells trash](https://www.pcgamer.com/games/trash-goblin-is-a-game-about-being-a-little-goblin-that-sells-trash)
- - [Karate Survivor is an 80s-tastic battler about building your own combos](https://www.pcgamer.com/games/roguelike/karate-survivor-is-an-80s-tastic-battler-about-building-your-own-combos)<!-- GAME:END -->
+ - [The best way to get into Magic: The Gathering is being handed a shoebox of old cards, but the second-best way is Foundations&#39; Starter Collection](https://www.pcgamer.com/games/card-games/the-best-way-to-get-into-magic-the-gathering-is-being-handed-a-shoebox-of-old-cards-but-the-second-best-way-is-foundations-starter-collection)
+ - [Stardew Valley cheats: Every cheat code you need, no mods required](https://www.pcgamer.com/games/life-sim/stardew-valley-cheats-every-cheat-code-you-need-no-mods-required)
+ - [Five new Steam games you probably missed &lpar;November 11, 2024&rpar;](https://www.pcgamer.com/software/platforms/five-new-steam-games-you-probably-missed-november-11-2024)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
