@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [That chin](http://9gag.com/gag/aE0PgBn)
- - ⏩ [Very difficult question to answer](http://9gag.com/gag/aRB73Ey)
- - 👉 [Go away peepee worm](http://9gag.com/gag/aLnwjnW)<!-- MEMES:END -->
+ - 💣 [Tuskegee University &lpar;historical ranked black univ&rpar; in Alabama: homecoming last night becomes a war zone. 1 dead, 16 shot in a bloody mass shooting](http://9gag.com/gag/aE0PpYo)
+ - ⏩ [She lagged](http://9gag.com/gag/aYQyY07)
+ - 👉 [They Reached Japan, Pakistani Mozlem immigrants](http://9gag.com/gag/aKG7j91)<!-- MEMES:END -->
 
 ---
 
