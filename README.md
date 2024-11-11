@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Material scientists create a new compound that has a thermal resistance up to 72% lower than some of the best liquid metals](https://www.pcgamer.com/hardware/material-scientists-create-a-new-compound-that-has-a-thermal-resistance-up-to-72-percent-lower-than-some-of-the-best-liquid-metals)
- - [Indiana Jones and the Great Circle showcases 15 minutes of plundering tombs and punching Nazis](https://www.pcgamer.com/games/action/indiana-jones-and-the-great-circle-showcases-15-minutes-of-plundering-tombs-and-punching-nazis)
- - [F1 24: A deeper dive into its PS5 Pro enhancements, plus first details on the upcoming season 4](https://blog.playstation.com/2024/11/11/f1-24-a-deeper-dive-into-its-ps5-pro-enhancements-plus-first-details-on-the-upcoming-season-4/)<!-- GAME:END -->
+ - [The Call of Duty Endowment Celebrates 15 Years of Veteran Impact with Anniversary Bundle](https://aka.ms/CODE15Years#new_tab)
+ - [The Rise of the Golden Idol sets the standard for point-and-click mysteries](https://www.polygon.com/review/475169/rise-of-the-golden-idol-review)
+ - [All the Andor season 2 news we’ve heard so far](https://www.polygon.com/23475516/andor-season-2-release-date-cast-news)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
