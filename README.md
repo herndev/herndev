@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Look what you did](http://9gag.com/gag/a2vWZMZ)
- - ⏩ [Floorman working a drill rig](http://9gag.com/gag/a0eNQ5v)
- - 👉 [Paycheck is paycheck](http://9gag.com/gag/abAGMAE)<!-- MEMES:END -->
+ - 💣 [Remember to always quicksave](http://9gag.com/gag/aAyegKd)
+ - ⏩ [Hmm...](http://9gag.com/gag/aVvw3MP)
+ - 👉 [Well well well](http://9gag.com/gag/aMVxxOP)<!-- MEMES:END -->
 
 ---
 
