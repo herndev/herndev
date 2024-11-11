@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [T-Mobile restores device promotional discounts on certain plans, but here’s the catch](https://www.androidauthority.com/t-mobile-restores-device-promotional-discounts-segmented-plans-3498377/)
- - [MicroStrategy says it bought 27,200 bitcoin for roughly $2.03B in cash at an estimated $74,463 per coin, taking its total bitcoin holding to 279,420 &lpar;Adam James/The Block&rpar;](http://www.techmeme.com/241111/p9#a241111p9)
- - [Battery problems threaten the iPhone Slim and iPhone Fold](https://appleinsider.com/articles/24/11/11/battery-problems-threaten-the-iphone-slim-and-iphone-fold?utm_medium=rss)<!-- TECH:END -->
+ - [The Verge’s favorite holiday gifts under $100](https://www.theverge.com/24224041/gifts-under-100-best-cheap-tech-ideas-2024-budget)
+ - [The best entertainment of 2024](https://www.theverge.com/entertainment/24090208/best-entertainment-2024-games-film-tv-streaming)
+ - [Refi Rates Unchanged Despite Fed Cut. Today&#39;s Refinance Rates, Nov. 11, 2024](https://www.cnet.com/personal-finance/refi-rates-tick-even-lower-refinance-rates-for-nov-11-2024/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
