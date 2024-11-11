@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [He likes his mouth pounded only in private ..](http://9gag.com/gag/a6ZKEbe)
- - ⏩ [Remember to always quicksave](http://9gag.com/gag/aAyegKd)
- - 👉 [Dutch female motorcycle traveler encounters the infamous African corruption](http://9gag.com/gag/aXPggGb)<!-- MEMES:END -->
+ - 💣 [That chin](http://9gag.com/gag/aE0PgBn)
+ - ⏩ [Mike Tyson runs into a man he robbed as a teenager.](http://9gag.com/gag/ae9DDVq)
+ - 👉 [He likes his mouth pounded only in private ..](http://9gag.com/gag/a6ZKEbe)<!-- MEMES:END -->
 
 ---
 
