@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [LG Display shows off a stretchable display prototype that can expand by up to 50%, more than doubling the previous record of 20% elongation &lpar;Jowi Morales/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/241111/p15#a241111p15)
- - [Google is finally bringing Quick Share to ARM-based Windows PCs](https://www.androidauthority.com/quick-share-windows-arm-3498475/)
- - [Cash App users have one last chance to grab their part of a $15 million settlement](https://www.androidauthority.com/cash-app-settlement-claim-3498452/)<!-- TECH:END -->
+ - [Amazon joins the AR glasses race, but not for the reason you think](https://www.androidauthority.com/amazon-ar-mart-glasses-3498509/)
+ - [Sources: more than a year before the election, TikTok execs revamped moderation rules and trust and safety staff to make TikTok more appealing to Trump fans &lpar;The Information&rpar;](http://www.techmeme.com/241111/p16#a241111p16)
+ - [Amazon confirms employee data breach, but says it’s limited to contact info](https://www.theverge.com/2024/11/11/24293817/amazon-employee-emails-phone-numbers-moveit-data-breach)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
