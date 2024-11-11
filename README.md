@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [An SK Hynix employee printed out 4,000 pages of confidential info and carried it out the door in shopping bags before leaving for their new job at Huawei](https://www.pcgamer.com/hardware/an-sk-hynix-employee-printed-out-4-000-pages-of-confidential-info-and-carried-it-out-the-door-in-shopping-bags-before-leaving-for-their-new-job-at-huawei)
  - [Genshin Impact Version 5.2: Expand Your Aerial Abilities to Explore the New Lands of Natlan](https://blog.playstation.com/2024/11/10/20241111-genshinimpact/)
- - [Genshin Impact Version 5.2: Expand Your Aerial Abilities to Explore the New Lands of Natlan](https://blog.playstation.com/2024/11/10/20241111-genshinimpact/)
- - [Today&#39;s Wordle answer for Monday, November 11](https://www.pcgamer.com/games/puzzle/wordle-answer-today-november-11-2024)<!-- GAME:END -->
+ - [Genshin Impact Version 5.2: Expand Your Aerial Abilities to Explore the New Lands of Natlan](https://blog.playstation.com/2024/11/10/20241111-genshinimpact/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
