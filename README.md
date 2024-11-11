@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Gaming in brazil&lpar;Warning emoji and bad music&rpar;](http://9gag.com/gag/aE0PPm9)
- - ⏩ [I cumbed out of all my holes](http://9gag.com/gag/aMVxxMM)
- - 👉 [Looks like our boy is on the right path!](http://9gag.com/gag/aO87rNr)<!-- MEMES:END -->
+ - 💣 [BOOP HIS GODDAMN SNOOT!!!](http://9gag.com/gag/aAyeGY9)
+ - ⏩ [I&#39;ve been on sex strike for over 30 years](http://9gag.com/gag/aXPgogg)
+ - 👉 [How many people actually use Brave?](http://9gag.com/gag/aVvwwBv)<!-- MEMES:END -->
 
 ---
 
