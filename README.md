@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Vampire Survivors’ Ode to Castlevania is more than just a tribute](https://www.polygon.com/impressions/476337/vampire-survivors-castlevania-dlc)
- - [So Amazon is making its Mass Effect show. Does it have the guts to make it good?](https://www.polygon.com/opinion/476280/amazon-mass-effect-tv-show)
- - [The best Black Ops 6 map for XP grinding finally got a 24/7 playlist, so you know what to do](https://www.pcgamer.com/games/call-of-duty/the-best-black-ops-6-map-for-xp-grinding-finally-got-a-24-7-playlist-so-you-know-what-to-do)<!-- GAME:END -->
+ - [Trash Goblin is a game about being a little goblin that sells trash](https://www.pcgamer.com/games/trash-goblin-is-a-game-about-being-a-little-goblin-that-sells-trash)
+ - [Karate Survivor is an 80s-tastic battler about building your own combos](https://www.pcgamer.com/games/roguelike/karate-survivor-is-an-80s-tastic-battler-about-building-your-own-combos)
+ - [10 video games that are actually funny](https://www.polygon.com/what-to-play/474691/best-video-game-comedy-disco-elysium-portal-hitman)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
