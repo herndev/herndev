@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Ubisoft Facing Lawsuit Over Shutting Down Always-Online Game](https://kotaku.com/ubisoft-killing-games-the-crew-lawsuit-shutdown-offline-1851695302)
- - [The 10th Anniversary Return Of Interstellar Is Another IMAX Debacle](https://kotaku.com/interstellar-10th-anniversary-imax-return-tickets-1851694027)
- - [Holy cow, Stalker 2 needs 150GB of SSD space, and you&#39;ve got 9 days to figure out where you&#39;re going to put it](https://www.pcgamer.com/games/fps/holy-cow-stalker-2-needs-150gb-of-ssd-space-and-youve-got-9-days-to-figure-out-where-youre-going-to-put-it)<!-- GAME:END -->
+ - [Take-Two boss gets philosophical about &#39;entropy&#39; and life after Grand Theft Auto: &#39;If we&#39;re not trying new things ... we&#39;re really running the risk of burning the furniture to heat the house&#39;](https://www.pcgamer.com/gaming-industry/take-two-boss-gets-philosophical-about-entropy-and-life-after-grand-theft-auto-if-were-not-trying-new-things-were-really-running-the-risk-of-burning-the-furniture-to-heat-the-house)
+ - [In a sea of samey copycat hero shooters, Fragpunk is doing it right](https://www.pcgamer.com/games/fps/in-a-sea-of-copycat-hero-shooters-fragpunk-is-doing-it-right)
+ - [The Devs Behind Awesome Half-Life Remake Are Making A New Game](https://kotaku.com/half-life-black-mesa-remake-devs-new-game-rogue-point-1851695394)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
