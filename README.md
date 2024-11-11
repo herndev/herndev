@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Real beauty is on the inside](http://9gag.com/gag/a87G3Dd)
- - ⏩ [The guy behind taking notes](http://9gag.com/gag/a87G5dQ)
- - 👉 [They Reached Japan, Pakistani Mozlem immigrants](http://9gag.com/gag/aKG7j91)<!-- MEMES:END -->
+ - 💣 [The guy behind taking notes](http://9gag.com/gag/a87G5dQ)
+ - ⏩ [Go away peepee worm](http://9gag.com/gag/aLnwjnW)
+ - 👉 [That chin](http://9gag.com/gag/aE0PgBn)<!-- MEMES:END -->
 
 ---
 
