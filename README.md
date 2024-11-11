@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Floorman working a drill rig](http://9gag.com/gag/a0eNQ5v)
- - ⏩ [Welcome to New York](http://9gag.com/gag/aqyngzL)
- - 👉 [P.O.V you and your Japanese girlfriend but you don\u2019t know what you did](http://9gag.com/gag/ajP9mrw)<!-- MEMES:END -->
+ - 💣 [`Directed by MICHAEL BAY`](http://9gag.com/gag/a4P33PQ)
+ - ⏩ [She\u2019s going to remember that for the rest of that moment](http://9gag.com/gag/a9ynEjW)
+ - 👉 [Smile](http://9gag.com/gag/a34wQ65)<!-- MEMES:END -->
 
 ---
 
