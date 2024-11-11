@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [That chin](http://9gag.com/gag/aE0PgBn)
- - ⏩ [Mike Tyson runs into a man he robbed as a teenager.](http://9gag.com/gag/ae9DDVq)
- - 👉 [He likes his mouth pounded only in private ..](http://9gag.com/gag/a6ZKEbe)<!-- MEMES:END -->
+ - 💣 [Robbers???](http://9gag.com/gag/a0eNZwX)
+ - ⏩ [Reject politics, embrace the cool ice stick.](http://9gag.com/gag/aMVx4vM)
+ - 👉 [Lets elevate it and take it to upper class](http://9gag.com/gag/aPA7Z8P)<!-- MEMES:END -->
 
 ---
 
