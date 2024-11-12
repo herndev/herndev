@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Clicks Keyboard Case Review: Physical Keys for the iPhone](https://www.wired.com/review/clicks-keyboard-case-for-iphone-16/)
- - [The Best Smartwatches, Editor Tested and Reviewed &lpar;2024&rpar;: Apple Watch, Wear OS, Hybrid Watches, Kids&#39; Watches](https://www.wired.com/gallery/best-smartwatches/)
- - [Cadillac officially debuts three-row Vistiq electric SUV with 300 miles of range](https://www.theverge.com/2024/11/12/24293786/cadillac-vistiq-ev-suv-price-range-specs-gm)<!-- TECH:END -->
+ - [EU&#39;s latest demand on Apple about geolocking is unforgivably naive](https://appleinsider.com/articles/24/11/12/eus-latest-demand-on-apple-about-geolocking-is-unforgivably-naive?utm_medium=rss)
+ - [Trump tariffs will raise prices, but Apple has set the table to avoid the worst of it](https://appleinsider.com/articles/24/11/11/trump-tariffs-will-raise-prices-but-apple-could-avoid-harsher-taxes?utm_medium=rss)
+ - [Best Theraguns and Tools &lpar;2024&rpar;: Massage Guns, TheraFace](https://www.wired.com/gallery/best-theragun-percussive-therapy-devices/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
