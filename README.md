@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Entropia Universe: the greatest MMO you might never have heard of](https://www.pcgamer.com/games/entropia-universe-the-greatest-mmo-you-might-never-have-heard-of)
  - [Can Smoliv be shiny in Pokémon Go?](https://www.polygon.com/pokemon-go-guide/476961/can-smoliv-be-shiny-dolliv-arboliva)
- - [Today&#39;s Wordle answer for Tuesday, November 12](https://www.pcgamer.com/games/puzzle/wordle-answer-today-november-12-2024)
- - [Baldur&#39;s Gate 3 is safe from the top-down Elden Ring CRPG that only exists in our imaginations and these modded screenshots](https://www.pcgamer.com/games/rpg/baldurs-gate-3-is-safe-from-the-top-down-elden-ring-crpg-that-only-exists-in-our-imaginations-and-these-modded-screenshots)<!-- GAME:END -->
+ - [Today&#39;s Wordle answer for Tuesday, November 12](https://www.pcgamer.com/games/puzzle/wordle-answer-today-november-12-2024)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
