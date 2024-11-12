@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Entropia Universe: the greatest MMO you might never have heard of](https://www.pcgamer.com/games/entropia-universe-the-greatest-mmo-you-might-never-have-heard-of)
- - [Can Smoliv be shiny in Pokémon Go?](https://www.polygon.com/pokemon-go-guide/476961/can-smoliv-be-shiny-dolliv-arboliva)
- - [Today&#39;s Wordle answer for Tuesday, November 12](https://www.pcgamer.com/games/puzzle/wordle-answer-today-november-12-2024)<!-- GAME:END -->
+ - [Eric Barone warns that Stardew Valley&#39;s hat mouse has gone missing, but only in Spanish games](https://www.pcgamer.com/games/life-sim/eric-barone-warns-that-stardew-valleys-hat-mouse-has-gone-missing-but-only-in-spanish-games)
+ - [Nvidia has reportedly killed production of all RTX 40 GPUs apart from the 4050 and 4060 as affordable 50-series GPUs could arrive earlier than expected](https://www.pcgamer.com/hardware/processors/nvidia-has-reportedly-killed-production-of-all-rtx-40-gpus-apart-from-the-4050-and-4060-as-affordable-50-series-gpus-could-arrive-earlier-than-expected)
+ - [Entropia Universe: the greatest MMO you might never have heard of](https://www.pcgamer.com/games/entropia-universe-the-greatest-mmo-you-might-never-have-heard-of)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
