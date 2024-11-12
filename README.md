@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Casual encounter with a Cassowary - the most dangerous bird in the world.](http://9gag.com/gag/ae9D9pB)
- - ⏩ [Guess what....mohamado...](http://9gag.com/gag/agmAgQ1)
- - 👉 [Dutch female motorcycle traveler encounters the infamous African corruption](http://9gag.com/gag/aXPggGb)<!-- MEMES:END -->
+ - 💣 [What\u00b4s up with that, ladies...](http://9gag.com/gag/avyzQvM)
+ - ⏩ [California Man Uses RPG To Scare Off Home Invaders](http://9gag.com/gag/aE0P8d9)
+ - 👉 [Use to be ours](http://9gag.com/gag/aYQyVm2)<!-- MEMES:END -->
 
 ---
 
