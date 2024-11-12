@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Take-Two boss gets philosophical about &#39;entropy&#39; and life after Grand Theft Auto: &#39;If we&#39;re not trying new things ... we&#39;re really running the risk of burning the furniture to heat the house&#39;](https://www.pcgamer.com/gaming-industry/take-two-boss-gets-philosophical-about-entropy-and-life-after-grand-theft-auto-if-were-not-trying-new-things-were-really-running-the-risk-of-burning-the-furniture-to-heat-the-house)
- - [In a sea of samey copycat hero shooters, Fragpunk is doing it right](https://www.pcgamer.com/games/fps/in-a-sea-of-copycat-hero-shooters-fragpunk-is-doing-it-right)
- - [The Devs Behind Awesome Half-Life Remake Are Making A New Game](https://kotaku.com/half-life-black-mesa-remake-devs-new-game-rogue-point-1851695394)<!-- GAME:END -->
+ - [Halo 2&#39;s playable E3 2003 demo is an astounding feat of preservation, and everything great about PC gaming](https://www.pcgamer.com/games/halo/halo-2s-playable-e3-2003-demo-is-an-astounding-feat-of-preservation-and-everything-great-about-pc-gaming)
+ - [Sony says it should have gotten more &#39;validation&#39; before launching Concord, but that it isn&#39;t done chasing live service &#39;upside&#39; despite the risk](https://www.pcgamer.com/games/fps/concord-sony-live-service-strategy)
+ - [Following Arcane&#39;s season 2 premiere, Riot drops our first look at Jinx&#39;s moves in fighting game 2XKO](https://www.pcgamer.com/games/fighting/following-arcanes-season-2-premiere-riot-drops-our-first-look-at-jinxs-moves-in-fighting-game-2xko)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
