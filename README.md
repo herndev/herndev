@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Dutch female motorcycle traveler encounters the infamous African corruption](http://9gag.com/gag/aXPggGb)
- - ⏩ [P.O.V you and your Japanese girlfriend but you don\u2019t know what you did](http://9gag.com/gag/ajP9mrw)
- - 👉 [She lucked out](http://9gag.com/gag/abAGV3O)<!-- MEMES:END -->
+ - 💣 [Lightning strikes the water surface with Scuba divers under it](http://9gag.com/gag/aD24YDO)
+ - ⏩ [Simone Biles](http://9gag.com/gag/a6ZKKr9)
+ - 👉 [The next U.S. Secretary of State](http://9gag.com/gag/ajP9PrR)<!-- MEMES:END -->
 
 ---
 
