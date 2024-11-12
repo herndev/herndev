@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Music Classical is now available in CarPlay](https://appleinsider.com/articles/24/11/12/apple-music-classical-is-now-available-in-carplay?utm_medium=rss)
- - [Fortnite OG is coming back permanently in December](https://www.theverge.com/2024/11/12/24294616/fortnite-og-permanent-december-release-date)
- - [Netflix used to not have ads, now it’s ‘celebrating’ two years with them](https://www.theverge.com/2024/11/12/24294560/netflix-ads-tier-70-million-subscribers)<!-- TECH:END -->
+ - [Chrome on your iPhone can search using pictures and words at the same time](https://www.theverge.com/2024/11/12/24294492/chrome-app-ios-google-lens-image-text-search)
+ - [Donald Trump’s EPA pick wants to ‘make America the AI capital of the world’](https://www.theverge.com/2024/11/12/24294483/donald-trump-ai-data-center-epa-lee-zeldin)
+ - [Chrome may be everywhere, but it’s still a second-tier browser for most of you](https://www.androidauthority.com/google-chrome-default-browser-poll-3498812/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
