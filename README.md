@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Poll: Would you buy the Pixel 10 if it had free unlimited photo backups?](https://www.androidauthority.com/google-pixel-10-unlimited-photo-backups-poll-3498652/)
- - [SoftBank reports Q2 net income of ~$7.7B and a Vision Fund gain of ~$2.42B, driven by strong Indian IPOs and valuation gains in startups like Coupang and Didi &lpar;Bloomberg&rpar;](http://www.techmeme.com/241112/p3#a241112p3)
- - [Rival search engines Ecosia and Qwant launch European Search Perspective, a joint venture to develop an index of the web to reduce reliance on Google and Bing &lpar;Paresh Dave/Wired&rpar;](http://www.techmeme.com/241112/p2#a241112p2)<!-- TECH:END -->
+ - [YouTube faces new glitches on Android, leaving users frustrated](https://www.androidauthority.com/youtube-android-app-glitches-3498670/)
+ - [Apple could take on Google Nest with its own smart camera](https://www.androidauthority.com/apple-could-launch-smart-camera-3498657/)
+ - [Best Telemedicine Services for 2024](https://www.cnet.com/health/medical/best-telemedicine-services/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
