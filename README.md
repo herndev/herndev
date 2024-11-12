@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple’s new Find My feature will have Android users wishing for more](https://www.androidauthority.com/apple-find-my-share-item-location-airlines-3498630/)
- - [Two Upstart Search Engines Are Teaming Up to Take on Google](https://www.wired.com/story/ecosia-qwant-eusp-take-on-google-search-index/)
- - [Kuo: Apple plans a smart home IP camera and aims for 10M+ annual shipments, with production scheduled for 2026; Goertek will be the exclusive assembly supplier &lpar;Ming-Chi Kuo&rpar;](http://www.techmeme.com/241111/p27#a241111p27)<!-- TECH:END -->
+ - [Amazon&#39;s Annapurna Labs plans to unveil &quot;Trainium 2&quot; AI chips next month, in an effort that can rival Nvidia; Trainium 2 is being tested by Anthropic and others &lpar;Financial Times&rpar;](http://www.techmeme.com/241112/p1#a241112p1)
+ - [Samsung Internet Chrome extension stops working due to the silliest reason](https://www.androidauthority.com/samsung-internet-chrome-extension-stop-working-3498632/)
+ - [Is Verizon not working? Here’s what could be happening](https://www.androidauthority.com/verizon-outage-1014222/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
