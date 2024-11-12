@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Indulge in Farm Life With Farming Simulator 25, Out Today](https://news.xbox.com/en-us/2024/11/12/indulge-in-farm-life-with-farming-simulator-25-out-today/)
- - [Due to export restrictions, Huawei has been forced to develop a weird hybrid SSD/tape storage drive for data archiving](https://www.pcgamer.com/hardware/storage/due-to-export-restrictions-huawei-has-been-forced-to-develop-a-weird-hybrid-ssd-tape-storage-drive-for-data-archiving)
- - [Tripwire says it&#39;s &#39;leaving no game behind&#39; as it releases a surprise update for the 7-year-old Rising Storm 2: Vietnam](https://www.pcgamer.com/games/fps/tripwire-says-its-leaving-no-game-behind-as-it-releases-a-surprise-update-for-the-7-year-old-rising-storm-2-vietnam)<!-- GAME:END -->
+ - [‘Academic Impact’ case walkthrough, hints, and solution in Rise of the Golden Idol](https://www.polygon.com/rise-golden-idol-guide/468022/academic-impact-case-walkthrough-hints-solution-answer)
+ - [‘Constriction’ case walkthrough, hints, and solution in Rise of the Golden Idol](https://www.polygon.com/rise-golden-idol-guide/477000/constriction-case-walkthrough-hints-solution-answer)
+ - [‘Under Construction’ case walkthrough, hints, and solution in Rise of the Golden Idol](https://www.polygon.com/rise-golden-idol-guide/477106/under-construction-case-walkthrough-hints-solution-answer)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
