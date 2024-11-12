@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Lightning strikes the water surface with Scuba divers under it](http://9gag.com/gag/aD24YDO)
- - ⏩ [Simone Biles](http://9gag.com/gag/a6ZKKr9)
- - 👉 [The next U.S. Secretary of State](http://9gag.com/gag/ajP9PrR)<!-- MEMES:END -->
+ - 💣 [China&#39;s Birth Encouragement Official Scold And Threaten Young Man For Not Having Kids](http://9gag.com/gag/adBVV3Z)
+ - ⏩ [Ahhh I remember this money dropping prank](http://9gag.com/gag/a5QWE4g)
+ - 👉 [Number one was the best](http://9gag.com/gag/adBVBpV)<!-- MEMES:END -->
 
 ---
 
