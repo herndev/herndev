@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Sea of Stars: Dawn of Equinox: A Yearlong Journey in Refinement](https://news.xbox.com/en-us/2024/11/12/sea-of-stars-dawn-of-equinox-preview/)
- - [Forever Skies PS5 demo out today](https://blog.playstation.com/2024/11/12/forever-skies-ps5-demo-out-today/)
- - [Open AI co-founder reckons AI training has hit a wall, forcing AI labs to train their models smarter not just bigger](https://www.pcgamer.com/software/ai/open-ai-co-founder-reckons-ai-training-has-hit-a-wall-forcing-ai-labs-to-train-their-models-smarter-not-just-bigger)<!-- GAME:END -->
+ - [Compulsion Games Weaves Magic in New South of Midnight Documentary](https://news.xbox.com/en-us/2024/11/12/south-of-midnight-documentary-art-vinyl-box-set/)
+ - [Not that any PC gamer will care but Intel is lining up low-power Arrow Lake chips for launch in January](https://www.pcgamer.com/hardware/processors/not-that-any-pc-gamer-will-care-but-intel-is-lining-up-low-power-arrow-lake-chips-for-launch-in-january)
+ - [Astarion has breached the Vatican—Baldur&#39;s Gate 3 has sold 2 copies in Vatican City, says Larian&#39;s director of publishing](https://www.pcgamer.com/games/baldurs-gate/astarion-has-breached-the-vatican-baldurs-gate-3-has-sold-2-copies-in-vatican-city-says-larians-director-of-publishing)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
