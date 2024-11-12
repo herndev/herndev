@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [What else did she expect?](http://9gag.com/gag/aD24Dp7)
- - ⏩ [Sausage and sauerkraut. Yay or Nay?](http://9gag.com/gag/aNDgPE3)
- - 👉 [Mom!... why sister eating large candy?....](http://9gag.com/gag/a4P311w)<!-- MEMES:END -->
+ - 💣 [Mom!... why sister eating large candy?....](http://9gag.com/gag/a4P311w)
+ - ⏩ [Time to fix this $h!t](http://9gag.com/gag/a5QWX7N)
+ - 👉 [Number one was the best](http://9gag.com/gag/adBVBpV)<!-- MEMES:END -->
 
 ---
 
