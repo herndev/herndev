@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [What else did she expect?](http://9gag.com/gag/aD24Dp7)
- - ⏩ [Time to fix this $h!t](http://9gag.com/gag/a5QWX7N)
- - 👉 [NoNoNoYes You Got It](http://9gag.com/gag/aRB7rVG)<!-- MEMES:END -->
+ - 💣 [The next U.S. Secretary of State](http://9gag.com/gag/ajP9PrR)
+ - ⏩ [One puzzle no 90s kid was able to solve](http://9gag.com/gag/amovAdo)
+ - 👉 [He likes his mouth pounded only in private ..](http://9gag.com/gag/a6ZKEbe)<!-- MEMES:END -->
 
 ---
 
