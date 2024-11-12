@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [YouTube faces new glitches on Android, leaving users frustrated](https://www.androidauthority.com/youtube-android-app-glitches-3498670/)
- - [Apple could take on Google Nest with its own smart camera](https://www.androidauthority.com/apple-could-launch-smart-camera-3498657/)
- - [Best Telemedicine Services for 2024](https://www.cnet.com/health/medical/best-telemedicine-services/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [SoftBank says Vision Fund co-CEO Rajeev Misra will step down from his leadership roles; during his 10-year tenure, he led investments in WeWork, Wag, and others &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/241112/p4#a241112p4)
+ - [Best PC Speakers for 2024](https://www.cnet.com/tech/home-entertainment/best-pc-speakers/#ftag=CAD590a51e)
+ - [This tiny smart lock promises to unlock your door in under two seconds](https://www.theverge.com/2024/11/12/24293548/nuki-smart-lock-ultra-release-date-specs)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
