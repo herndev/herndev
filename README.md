@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Austrian spider](http://9gag.com/gag/a9ynKQm)
- - ⏩ [While you&#39;re having fun and looking for memes, someone else is thinking about how to make it until their first paycheck at their new job.](http://9gag.com/gag/a87G1Dd)
- - 👉 [That chin](http://9gag.com/gag/aE0PgBn)<!-- MEMES:END -->
+ - 💣 [Dutch female motorcycle traveler encounters the infamous African corruption](http://9gag.com/gag/aXPggGb)
+ - ⏩ [I should send this clip to the police station. So they can do something .](http://9gag.com/gag/an74g2L)
+ - 👉 [Mike Tyson runs into a man he robbed as a teenager.](http://9gag.com/gag/ae9DDVq)<!-- MEMES:END -->
 
 ---
 
