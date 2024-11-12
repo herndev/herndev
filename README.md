@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Analysts: Nintendo and Sony are heading into the holiday season with little to offer consumers; the Switch is now seven years old and $700 PS5 Pro is overpriced &lpar;Financial Times&rpar;](http://www.techmeme.com/241112/p7#a241112p7)
- - [Apple Music made a $450 coffee table book celebrating its top 100 albums](https://www.theverge.com/2024/11/12/24294436/apple-music-100-best-albums-coffee-table-book)
- - [Alibaba, JD, and Xiaomi report Singles&#39; Day sales numbers they say make the shopping event one of the most productive yet, as China&#39;s economy continues to sag &lpar;Bloomberg&rpar;](http://www.techmeme.com/241112/p6#a241112p6)<!-- TECH:END -->
+ - [Nvidia’s new app replacement for GeForce Experience is now out of beta](https://www.theverge.com/2024/11/12/24294442/nvidia-app-launch-beta-label-removed-features)
+ - [App Store faces Epic Games-style antitrust lawsuit from Chinese developer](https://appleinsider.com/articles/24/11/12/app-store-faces-epic-games-style-lawsuit-from-chinese-developer?utm_medium=rss)
+ - [Supply chain leak hints at two potential Apple home automation releases set for 2026](https://appleinsider.com/articles/24/11/12/supply-chain-hints-at-two-potential-apple-product-releases-set-for-2026?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
