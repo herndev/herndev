@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [‘Academic Impact’ case walkthrough, hints, and solution in Rise of the Golden Idol](https://www.polygon.com/rise-golden-idol-guide/468022/academic-impact-case-walkthrough-hints-solution-answer)
- - [‘Constriction’ case walkthrough, hints, and solution in Rise of the Golden Idol](https://www.polygon.com/rise-golden-idol-guide/477000/constriction-case-walkthrough-hints-solution-answer)
- - [‘Under Construction’ case walkthrough, hints, and solution in Rise of the Golden Idol](https://www.polygon.com/rise-golden-idol-guide/477106/under-construction-case-walkthrough-hints-solution-answer)<!-- GAME:END -->
+ - [Moana Sails Into Minecraft](https://minecraft.net/article/moana-sails-into-minecraft#new_tab)
+ - [Dragon Age: The Veilguard’s Sex Scenes, Ranked From Worst To Best](https://kotaku.com/dragon-age-veilguard-sex-romance-scene-neve-taash-1851696476)
+ - [Dragon Age’s oddest mystery is about a crossbow named Bianca](https://www.polygon.com/gaming/477773/dragon-age-varric-crossbow-bianca-name)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
