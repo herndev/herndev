@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Compulsion Games Weaves Magic in New South of Midnight Documentary](https://news.xbox.com/en-us/2024/11/12/south-of-midnight-documentary-art-vinyl-box-set/)
- - [Not that any PC gamer will care but Intel is lining up low-power Arrow Lake chips for launch in January](https://www.pcgamer.com/hardware/processors/not-that-any-pc-gamer-will-care-but-intel-is-lining-up-low-power-arrow-lake-chips-for-launch-in-january)
- - [Astarion has breached the Vatican—Baldur&#39;s Gate 3 has sold 2 copies in Vatican City, says Larian&#39;s director of publishing](https://www.pcgamer.com/games/baldurs-gate/astarion-has-breached-the-vatican-baldurs-gate-3-has-sold-2-copies-in-vatican-city-says-larians-director-of-publishing)<!-- GAME:END -->
+ - [Indulge in Farm Life With Farming Simulator 25, Out Today](https://news.xbox.com/en-us/2024/11/12/indulge-in-farm-life-with-farming-simulator-25-out-today/)
+ - [Due to export restrictions, Huawei has been forced to develop a weird hybrid SSD/tape storage drive for data archiving](https://www.pcgamer.com/hardware/storage/due-to-export-restrictions-huawei-has-been-forced-to-develop-a-weird-hybrid-ssd-tape-storage-drive-for-data-archiving)
+ - [Tripwire says it&#39;s &#39;leaving no game behind&#39; as it releases a surprise update for the 7-year-old Rising Storm 2: Vietnam](https://www.pcgamer.com/games/fps/tripwire-says-its-leaving-no-game-behind-as-it-releases-a-surprise-update-for-the-7-year-old-rising-storm-2-vietnam)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
