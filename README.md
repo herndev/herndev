@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Chrome on your iPhone can search using pictures and words at the same time](https://www.theverge.com/2024/11/12/24294492/chrome-app-ios-google-lens-image-text-search)
- - [Donald Trump’s EPA pick wants to ‘make America the AI capital of the world’](https://www.theverge.com/2024/11/12/24294483/donald-trump-ai-data-center-epa-lee-zeldin)
- - [Chrome may be everywhere, but it’s still a second-tier browser for most of you](https://www.androidauthority.com/google-chrome-default-browser-poll-3498812/)<!-- TECH:END -->
+ - [A survey by Slack of 17K+ workers in August: 48% said they were uncomfortable telling managers they use AI, and AI adoption rates stalled in the US at ~33% &lpar;Ina Fried/Axios&rpar;](http://www.techmeme.com/241112/p19#a241112p19)
+ - [Android 15 QPR2 transforms Do Not Disturb into customizable Modes](https://www.androidauthority.com/android-15-qpr2-modes-3498839/)
+ - [This Gemini Advanced feature might soon be available without a subscription &lpar;APK teardown&rpar;](https://www.androidauthority.com/gemini-file-analysis-freemium-apk-3498777/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
