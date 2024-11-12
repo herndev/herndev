@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Bidenomics ??](http://9gag.com/gag/aMVxEQX)
- - ⏩ [Mom!... why sister eating large candy?....](http://9gag.com/gag/a4P311w)
- - 👉 [That chin](http://9gag.com/gag/aE0PgBn)<!-- MEMES:END -->
+ - 💣 [What else did she expect?](http://9gag.com/gag/aD24Dp7)
+ - ⏩ [California Man Uses RPG To Scare Off Home Invaders](http://9gag.com/gag/aE0P8d9)
+ - 👉 [Mom!... why sister eating large candy?....](http://9gag.com/gag/a4P311w)<!-- MEMES:END -->
 
 ---
 
