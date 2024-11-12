@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [One puzzle no 90s kid was able to solve](http://9gag.com/gag/amovAdo)
- - ⏩ [Ahhh I remember this money dropping prank](http://9gag.com/gag/a5QWE4g)
- - 👉 [He likes his mouth pounded only in private ..](http://9gag.com/gag/a6ZKEbe)<!-- MEMES:END -->
+ - 💣 [When the end is near!](http://9gag.com/gag/amovoQo)
+ - ⏩ [Bidenomics ??](http://9gag.com/gag/aMVxEQX)
+ - 👉 [Hidden airplane crew quarters](http://9gag.com/gag/axy9yVn)<!-- MEMES:END -->
 
 ---
 
