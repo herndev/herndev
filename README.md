@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Roku sale: Here are the hottest streaming device deals](https://www.androidauthority.com/roku-premiere-express-4k-plus-streaming-stick-4k-3498535/)
- - [Signal announces a suite of call features, including the ability to share a link to a call, emoji reactions, a &quot;raise hand&quot; button, and a dedicated calls tab &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/241111/p25#a241111p25)
- - [Best Early Black Friday Mattress Deals: Save Hundreds on a Cozy New Mattress Ahead of the Holidays](https://www.cnet.com/deals/best-mattress-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Android 16 could add a system-wide audio input switcher](https://www.androidauthority.com/android-16-audio-input-switcher-3498579/)
+ - [Filing: a Chinese court agrees to hear a Fortnite-like case against Apple by Bodyreader, a posture correcting app Apple removed in 2020; Bodyreader seeks ~$420K &lpar;Pei Li/Bloomberg&rpar;](http://www.techmeme.com/241111/p26#a241111p26)
+ - [Roku sale: Here are the hottest streaming device deals](https://www.androidauthority.com/roku-premiere-express-4k-plus-streaming-stick-4k-3498535/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
