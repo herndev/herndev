@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Turn your smartphone into a playable wind instrument with this USB-C mouthpiece](https://www.theverge.com/2024/11/12/24294604/artinoise-zefiro-intstrument-smartphone-midi-wind-controller-kickstarter)
- - [Here are the best iPad deals right now](https://www.theverge.com/21280354/best-ipad-deals-apple)
- - [Sources: advisors to Donald Trump expect the president-elect to halt a potential US ban of TikTok, which faces a January 19 deadline to divest &lpar;Washington Post&rpar;](http://www.techmeme.com/241112/p20#a241112p20)<!-- TECH:END -->
+ - [Hot deal: Amazon Echo drops to just $44.99, and you get a free smart light!](https://www.androidauthority.com/amazon-echo-4th-gen-with-smart-light-deal-3498894/)
+ - [Best Galaxy Z Flip 6 Deals: $200 Off Unlocked Models, More With Trade-In](https://www.cnet.com/deals/best-samsung-galaxy-z-flip-6-deals/#ftag=CAD590a51e)
+ - [Best Flower Delivery Deals: Send Someone a Little Love for Less](https://www.cnet.com/deals/best-flower-delivery-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
