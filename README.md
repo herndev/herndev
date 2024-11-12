@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [China&#39;s Birth Encouragement Official Scold And Threaten Young Man For Not Having Kids](http://9gag.com/gag/adBVV3Z)
- - ⏩ [Ahhh I remember this money dropping prank](http://9gag.com/gag/a5QWE4g)
- - 👉 [Number one was the best](http://9gag.com/gag/adBVBpV)<!-- MEMES:END -->
+ - 💣 [Casual encounter with a Cassowary - the most dangerous bird in the world.](http://9gag.com/gag/ae9D9pB)
+ - ⏩ [Guess what....mohamado...](http://9gag.com/gag/agmAgQ1)
+ - 👉 [Dutch female motorcycle traveler encounters the infamous African corruption](http://9gag.com/gag/aXPggGb)<!-- MEMES:END -->
 
 ---
 
