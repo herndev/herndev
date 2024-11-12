@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Hot deal: Amazon Echo drops to just $44.99, and you get a free smart light!](https://www.androidauthority.com/amazon-echo-4th-gen-with-smart-light-deal-3498894/)
- - [Best Galaxy Z Flip 6 Deals: $200 Off Unlocked Models, More With Trade-In](https://www.cnet.com/deals/best-samsung-galaxy-z-flip-6-deals/#ftag=CAD590a51e)
- - [Best Flower Delivery Deals: Send Someone a Little Love for Less](https://www.cnet.com/deals/best-flower-delivery-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Dragon Age: The Veilguard has fantastic hair tech thanks to FIFA and Madden](https://www.theverge.com/2024/11/12/24294829/dragon-age-the-veilguard-hair-technology-frostbite-bioware)
+ - [Pixel phones get a major kernel upgrade with Android 15 QPR2](https://www.androidauthority.com/pixel-linux-6-1-android-15-qpr2-3498932/)
+ - [Best Buy selling the Google Pixel 9 for $549 &lpar;or less&rpar;, regardless of color](https://www.androidauthority.com/best-buy-selling-the-google-pixel-9-for-549-or-less-regardless-of-color-3498893/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
