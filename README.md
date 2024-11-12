@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Stellar Blade Hype Train Continues With PC Release Aiming For 2025](https://kotaku.com/stellar-blade-pc-steam-release-date-soulslike-scifi-ps5-1851696612)
- - [Kai Cenat reclaims Twitch subscriber crown](https://www.polygon.com/news/477803/kai-cenat-twitch-most-subscribers-record)
- - [Kevin Feige Still Wants Us To Believe Blade Is Coming To The MCU](https://kotaku.com/marvel-kevin-feige-mcu-blade-1851696307)<!-- GAME:END -->
+ - [Spend $1,800 On An Engagement Ring And This Jewelry Store Will Throw In A Free PS5](https://kotaku.com/ps5-sale-black-friday-2024-engagement-ring-shopping-1851696700)
+ - [Trump’s promised tariffs on China could damage board game and TTRPG publishers](https://www.polygon.com/news/477917/trump-china-tariffs-board-game-ttrpg-publishers)
+ - [&#39;Calm down!&#39; says Facepunch Studios: Garry&#39;s Mod successor s&amp;box is getting a fan-requested sandbox mode and an alternative to &#39;Sausage Men&#39;](https://www.pcgamer.com/gaming-industry/game-development/calm-down-says-facepunch-studios-garrys-mod-successor-s-and-box-is-getting-a-fan-requested-sandbox-mode-and-an-alternative-to-sausage-men)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
