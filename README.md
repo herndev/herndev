@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Can Smoliv be shiny in Pokémon Go?](https://www.polygon.com/pokemon-go-guide/476961/can-smoliv-be-shiny-dolliv-arboliva)
  - [Today&#39;s Wordle answer for Tuesday, November 12](https://www.pcgamer.com/games/puzzle/wordle-answer-today-november-12-2024)
- - [Baldur&#39;s Gate 3 is safe from the top-down Elden Ring CRPG that only exists in our imaginations and these modded screenshots](https://www.pcgamer.com/games/rpg/baldurs-gate-3-is-safe-from-the-top-down-elden-ring-crpg-that-only-exists-in-our-imaginations-and-these-modded-screenshots)
- - [Valve Reveals Very Pretty, All-White Steam Deck](https://kotaku.com/steam-deck-all-white-limited-edition-november-valve-pc-1851695446)<!-- GAME:END -->
+ - [Baldur&#39;s Gate 3 is safe from the top-down Elden Ring CRPG that only exists in our imaginations and these modded screenshots](https://www.pcgamer.com/games/rpg/baldurs-gate-3-is-safe-from-the-top-down-elden-ring-crpg-that-only-exists-in-our-imaginations-and-these-modded-screenshots)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
