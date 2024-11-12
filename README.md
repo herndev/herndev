@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Ahhh I remember this money dropping prank](http://9gag.com/gag/a5QWE4g)
- - ⏩ [On the run again](http://9gag.com/gag/an744L0)
- - 👉 [P.O.V you and your Japanese girlfriend but you don\u2019t know what you did](http://9gag.com/gag/ajP9mrw)<!-- MEMES:END -->
+ - 💣 [Bidenomics ??](http://9gag.com/gag/aMVxEQX)
+ - ⏩ [Mom!... why sister eating large candy?....](http://9gag.com/gag/a4P311w)
+ - 👉 [That chin](http://9gag.com/gag/aE0PgBn)<!-- MEMES:END -->
 
 ---
 
