@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [What\u00b4s up with that, ladies...](http://9gag.com/gag/avyzQvM)
- - ⏩ [California Man Uses RPG To Scare Off Home Invaders](http://9gag.com/gag/aE0P8d9)
- - 👉 [Use to be ours](http://9gag.com/gag/aYQyVm2)<!-- MEMES:END -->
+ - 💣 [Ahhh I remember this money dropping prank](http://9gag.com/gag/a5QWE4g)
+ - ⏩ [Supervillain origin story](http://9gag.com/gag/adBVVzj)
+ - 👉 [Lightning strikes the water surface with Scuba divers under it](http://9gag.com/gag/aD24YDO)<!-- MEMES:END -->
 
 ---
 
