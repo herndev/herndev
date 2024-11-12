@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Kuo: Apple plans a smart home IP camera and aims for 10M+ annual shipments, with production scheduled for 2026; Goertek will be the exclusive assembly supplier &lpar;Ming-Chi Kuo&rpar;](http://www.techmeme.com/241111/p27#a241111p27)
- - [Google is developing a new gesture to make up for killing a popular Android shortcut](https://www.androidauthority.com/android-3-button-corner-swipe-3498602/)
- - [Supply chain hints at two potential Apple product releases set for 2026](https://appleinsider.com/articles/24/11/12/supply-chain-hints-at-two-potential-apple-product-releases-set-for-2026?utm_medium=rss)<!-- TECH:END -->
+ - [Apple’s new Find My feature will have Android users wishing for more](https://www.androidauthority.com/apple-find-my-share-item-location-airlines-3498630/)
+ - [Two Upstart Search Engines Are Teaming Up to Take on Google](https://www.wired.com/story/ecosia-qwant-eusp-take-on-google-search-index/)
+ - [Kuo: Apple plans a smart home IP camera and aims for 10M+ annual shipments, with production scheduled for 2026; Goertek will be the exclusive assembly supplier &lpar;Ming-Chi Kuo&rpar;](http://www.techmeme.com/241111/p27#a241111p27)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
