@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Moana Sails Into Minecraft](https://minecraft.net/article/moana-sails-into-minecraft#new_tab)
- - [Dragon Age: The Veilguard’s Sex Scenes, Ranked From Worst To Best](https://kotaku.com/dragon-age-veilguard-sex-romance-scene-neve-taash-1851696476)
- - [Dragon Age’s oddest mystery is about a crossbow named Bianca](https://www.polygon.com/gaming/477773/dragon-age-varric-crossbow-bianca-name)<!-- GAME:END -->
+ - [Stellar Blade Hype Train Continues With PC Release Aiming For 2025](https://kotaku.com/stellar-blade-pc-steam-release-date-soulslike-scifi-ps5-1851696612)
+ - [Kai Cenat reclaims Twitch subscriber crown](https://www.polygon.com/news/477803/kai-cenat-twitch-most-subscribers-record)
+ - [Kevin Feige Still Wants Us To Believe Blade Is Coming To The MCU](https://kotaku.com/marvel-kevin-feige-mcu-blade-1851696307)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
