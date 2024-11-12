@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at DeFlock, an open-source project that has crowdsourced the locations of 5,600+ automated license plate reader cameras globally from Flock and others &lpar;Jason Koebler/404 Media&rpar;](http://www.techmeme.com/241111/p24#a241111p24)
- - [Bitcoin passes $89K for the first time, Tesla closes up 8.96%, Coinbase closes up 19.76%, and Robinhood closes up 7.4%, as investors pile into &quot;Trump trades&quot; &lpar;Financial Times&rpar;](http://www.techmeme.com/241111/p23#a241111p23)
- - [An iPhone 14 Pro prototype reveals the humble beginnings of Apple&#39;s Project Bongo](https://appleinsider.com/articles/24/11/12/an-iphone-14-pro-prototype-reveals-the-humble-beginnings-of-apples-project-bongo?utm_medium=rss)<!-- TECH:END -->
+ - [Roku sale: Here are the hottest streaming device deals](https://www.androidauthority.com/roku-premiere-express-4k-plus-streaming-stick-4k-3498535/)
+ - [Signal announces a suite of call features, including the ability to share a link to a call, emoji reactions, a &quot;raise hand&quot; button, and a dedicated calls tab &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/241111/p25#a241111p25)
+ - [A look at DeFlock, an open-source project that has crowdsourced the locations of 5,600+ automated license plate reader cameras globally from Flock and others &lpar;Jason Koebler/404 Media&rpar;](http://www.techmeme.com/241111/p24#a241111p24)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
