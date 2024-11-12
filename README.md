@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A survey by Slack of 17K+ workers in August: 48% said they were uncomfortable telling managers they use AI, and AI adoption rates stalled in the US at ~33% &lpar;Ina Fried/Axios&rpar;](http://www.techmeme.com/241112/p19#a241112p19)
- - [Android 15 QPR2 transforms Do Not Disturb into customizable Modes](https://www.androidauthority.com/android-15-qpr2-modes-3498839/)
- - [This Gemini Advanced feature might soon be available without a subscription &lpar;APK teardown&rpar;](https://www.androidauthority.com/gemini-file-analysis-freemium-apk-3498777/)<!-- TECH:END -->
+ - [Turn your smartphone into a playable wind instrument with this USB-C mouthpiece](https://www.theverge.com/2024/11/12/24294604/artinoise-zefiro-intstrument-smartphone-midi-wind-controller-kickstarter)
+ - [Here are the best iPad deals right now](https://www.theverge.com/21280354/best-ipad-deals-apple)
+ - [Sources: advisors to Donald Trump expect the president-elect to halt a potential US ban of TikTok, which faces a January 19 deadline to divest &lpar;Washington Post&rpar;](http://www.techmeme.com/241112/p20#a241112p20)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
