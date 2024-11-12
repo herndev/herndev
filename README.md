@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nvidia’s new app replacement for GeForce Experience is now out of beta](https://www.theverge.com/2024/11/12/24294442/nvidia-app-launch-beta-label-removed-features)
- - [App Store faces Epic Games-style antitrust lawsuit from Chinese developer](https://appleinsider.com/articles/24/11/12/app-store-faces-epic-games-style-lawsuit-from-chinese-developer?utm_medium=rss)
- - [Supply chain leak hints at two potential Apple home automation releases set for 2026](https://appleinsider.com/articles/24/11/12/supply-chain-hints-at-two-potential-apple-product-releases-set-for-2026?utm_medium=rss)<!-- TECH:END -->
+ - [Clicks Keyboard Case Review: Physical Keys for the iPhone](https://www.wired.com/review/clicks-keyboard-case-for-iphone-16/)
+ - [The Best Smartwatches, Editor Tested and Reviewed &lpar;2024&rpar;: Apple Watch, Wear OS, Hybrid Watches, Kids&#39; Watches](https://www.wired.com/gallery/best-smartwatches/)
+ - [Cadillac officially debuts three-row Vistiq electric SUV with 300 miles of range](https://www.theverge.com/2024/11/12/24293786/cadillac-vistiq-ev-suv-price-range-specs-gm)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
