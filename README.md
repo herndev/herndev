@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple receives EU warning to end ‘discriminatory’ geo-blocking practices](https://www.theverge.com/2024/11/12/24294554/apple-eu-warning-geo-blocking-practices-app-store)
- - [New York-based ScaleOps, which offers cloud spend management tools, raised a $58M Series B led by Lightspeed, taking its total funding to $80M &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/241112/p15#a241112p15)
- - [Best Barbecue Sauce, Rub, and Hot Sauce Subscription Boxes &lpar;2024&rpar;](https://www.wired.com/story/the-best-barbecue-and-hot-sauce-subscription-boxes/)<!-- TECH:END -->
+ - [Apple Music Classical is now available in CarPlay](https://appleinsider.com/articles/24/11/12/apple-music-classical-is-now-available-in-carplay?utm_medium=rss)
+ - [Fortnite OG is coming back permanently in December](https://www.theverge.com/2024/11/12/24294616/fortnite-og-permanent-december-release-date)
+ - [Netflix used to not have ads, now it’s ‘celebrating’ two years with them](https://www.theverge.com/2024/11/12/24294560/netflix-ads-tier-70-million-subscribers)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
