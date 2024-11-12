@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Here’s how Google Keep is going to work with your handwriting &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-keep-handwriting-3498599/)
- - [Alameda Research co-CEO Sam Trabucco has agreed to hand over a slew of properties, including his yacht, to FTX creditors as part of a November 3 settlement deal &lpar;Olga Kharif/Bloomberg&rpar;](http://www.techmeme.com/241111/p21#a241111p21)
- - [An indictment against two men suspected of hacking Snowflake clients, including AT&amp;T, says the pair and their co-conspirators extorted at least 36 bitcoins &lpar;Joseph Cox/404 Media&rpar;](http://www.techmeme.com/241111/p20#a241111p20)<!-- TECH:END -->
+ - [A look at DeFlock, an open-source project that has crowdsourced the locations of 5,600+ automated license plate reader cameras globally from Flock and others &lpar;Jason Koebler/404 Media&rpar;](http://www.techmeme.com/241111/p24#a241111p24)
+ - [Bitcoin passes $89K for the first time, Tesla closes up 8.96%, Coinbase closes up 19.76%, and Robinhood closes up 7.4%, as investors pile into &quot;Trump trades&quot; &lpar;Financial Times&rpar;](http://www.techmeme.com/241111/p23#a241111p23)
+ - [An iPhone 14 Pro prototype reveals the humble beginnings of Apple&#39;s Project Bongo](https://appleinsider.com/articles/24/11/12/an-iphone-14-pro-prototype-reveals-the-humble-beginnings-of-apples-project-bongo?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
