@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The next U.S. Secretary of State](http://9gag.com/gag/ajP9PrR)
- - ⏩ [When the end is near!](http://9gag.com/gag/amovoQo)
- - 👉 [Mom!... why sister eating large candy?....](http://9gag.com/gag/a4P311w)<!-- MEMES:END -->
+ - 💣 [Love this guy &lpar;no homo&rpar;](http://9gag.com/gag/apRGRg5)
+ - ⏩ [Guess the country](http://9gag.com/gag/adBVBZZ)
+ - 👉 [Original singer Yoko Takahashi pranks karaoke guest with a classic](http://9gag.com/gag/aMVxVgG)<!-- MEMES:END -->
 
 ---
 
