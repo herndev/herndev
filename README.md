@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [New in iOS 18.2 developer beta 3: Changes to Apple Intelligence, video playback, and more](https://appleinsider.com/articles/24/11/11/new-in-ios-182-developer-beta-3-changes-to-apple-intelligence-video-playback-and-more?utm_medium=rss)
- - [The NYT Tech Guild’s election week strike is over](https://www.theverge.com/2024/11/11/24294023/new-york-times-tech-workers-strike-end)
- - [Gemini Live is getting ready to chat with you about your files &lpar;APK teardown&rpar;](https://www.androidauthority.com/gemini-live-files-3498551/)<!-- TECH:END -->
+ - [Here’s how Google Keep is going to work with your handwriting &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-keep-handwriting-3498599/)
+ - [Alameda Research co-CEO Sam Trabucco has agreed to hand over a slew of properties, including his yacht, to FTX creditors as part of a November 3 settlement deal &lpar;Olga Kharif/Bloomberg&rpar;](http://www.techmeme.com/241111/p21#a241111p21)
+ - [An indictment against two men suspected of hacking Snowflake clients, including AT&amp;T, says the pair and their co-conspirators extorted at least 36 bitcoins &lpar;Joseph Cox/404 Media&rpar;](http://www.techmeme.com/241111/p20#a241111p20)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
