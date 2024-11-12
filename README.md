@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [EU&#39;s latest demand on Apple about geolocking is unforgivably naive](https://appleinsider.com/articles/24/11/12/eus-latest-demand-on-apple-about-geolocking-is-unforgivably-naive?utm_medium=rss)
- - [Trump tariffs will raise prices, but Apple has set the table to avoid the worst of it](https://appleinsider.com/articles/24/11/11/trump-tariffs-will-raise-prices-but-apple-could-avoid-harsher-taxes?utm_medium=rss)
- - [Best Theraguns and Tools &lpar;2024&rpar;: Massage Guns, TheraFace](https://www.wired.com/gallery/best-theragun-percussive-therapy-devices/)<!-- TECH:END -->
+ - [Apple receives EU warning to end ‘discriminatory’ geo-blocking practices](https://www.theverge.com/2024/11/12/24294554/apple-eu-warning-geo-blocking-practices-app-store)
+ - [New York-based ScaleOps, which offers cloud spend management tools, raised a $58M Series B led by Lightspeed, taking its total funding to $80M &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/241112/p15#a241112p15)
+ - [Best Barbecue Sauce, Rub, and Hot Sauce Subscription Boxes &lpar;2024&rpar;](https://www.wired.com/story/the-best-barbecue-and-hot-sauce-subscription-boxes/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
