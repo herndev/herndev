@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I should send this clip to the police station. So they can do something .](http://9gag.com/gag/an74g2L)
- - ⏩ [Founded in 1881, Tuskegee University is a private, state-related, land-grant and nationally ranked historically black University. &lpar;from their official x acct&rpar;. LAsT NIgHT this happened.](http://9gag.com/gag/abAGVz8)
- - 👉 [On the run again](http://9gag.com/gag/an744L0)<!-- MEMES:END -->
+ - 💣 [Ahhh I remember this money dropping prank](http://9gag.com/gag/a5QWE4g)
+ - ⏩ [On the run again](http://9gag.com/gag/an744L0)
+ - 👉 [P.O.V you and your Japanese girlfriend but you don\u2019t know what you did](http://9gag.com/gag/ajP9mrw)<!-- MEMES:END -->
 
 ---
 
