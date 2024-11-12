@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Halo 2&#39;s playable E3 2003 demo is an astounding feat of preservation, and everything great about PC gaming](https://www.pcgamer.com/games/halo/halo-2s-playable-e3-2003-demo-is-an-astounding-feat-of-preservation-and-everything-great-about-pc-gaming)
- - [Sony says it should have gotten more &#39;validation&#39; before launching Concord, but that it isn&#39;t done chasing live service &#39;upside&#39; despite the risk](https://www.pcgamer.com/games/fps/concord-sony-live-service-strategy)
- - [Following Arcane&#39;s season 2 premiere, Riot drops our first look at Jinx&#39;s moves in fighting game 2XKO](https://www.pcgamer.com/games/fighting/following-arcanes-season-2-premiere-riot-drops-our-first-look-at-jinxs-moves-in-fighting-game-2xko)<!-- GAME:END -->
+ - [Baldur&#39;s Gate 3 is safe from the top-down Elden Ring CRPG that only exists in our imaginations and these modded screenshots](https://www.pcgamer.com/games/rpg/baldurs-gate-3-is-safe-from-the-top-down-elden-ring-crpg-that-only-exists-in-our-imaginations-and-these-modded-screenshots)
+ - [Valve Reveals Very Pretty, All-White Steam Deck](https://kotaku.com/steam-deck-all-white-limited-edition-november-valve-pc-1851695446)
+ - [Halo 2&#39;s playable E3 2003 demo is an astounding feat of preservation, and everything great about PC gaming](https://www.pcgamer.com/games/halo/halo-2s-playable-e3-2003-demo-is-an-astounding-feat-of-preservation-and-everything-great-about-pc-gaming)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
