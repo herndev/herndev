@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [When the end is near!](http://9gag.com/gag/amovoQo)
- - ⏩ [Bidenomics ??](http://9gag.com/gag/aMVxEQX)
- - 👉 [Hidden airplane crew quarters](http://9gag.com/gag/axy9yVn)<!-- MEMES:END -->
+ - 💣 [Humanity is still alive !](http://9gag.com/gag/awyBy9D)
+ - ⏩ [He likes his mouth pounded only in private ..](http://9gag.com/gag/a6ZKEbe)
+ - 👉 [When the end is near!](http://9gag.com/gag/amovoQo)<!-- MEMES:END -->
 
 ---
 
