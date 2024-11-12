@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [GTA Trilogy Gets Big Surprise Update That Makes It Much Better](https://kotaku.com/gta-trilogy-vice-city-graphics-update-2024-netflix-ps5-1851696744)
- - [PS5 Slim Gets A $70 Price Drop For The Holidays &lpar;Update: Sony Removes Deal From Ad&rpar;](https://kotaku.com/ps5-price-drop-450-discount-christmas-pro-holiday-deal-1851696225)
- - [Where to unlock all alliance raids in FFXIV](https://www.polygon.com/ffxiv-guides-ff14-final-fantasy-14-online/24151320/alliance-raid-unlock-quests-starting-locations)<!-- GAME:END -->
+ - [&#39;Enjoy what you&#39;ve got now&#39;: Blizzard has its sights on Diablo 4&#39;s overpowered new class but promises not to pull the nerf trigger until next season](https://www.pcgamer.com/games/rpg/enjoy-what-youve-got-now-blizzard-has-its-sights-on-diablo-4s-overpowered-new-class-but-promises-not-to-pull-nerf-trigger-until-next-season)
+ - [Squid Game Creator Lost Teeth And Had Nightmares Because Of The Show](https://kotaku.com/netflix-squid-game-creator-teeth-season-2-1851696883)
+ - [&#39;Explain yourself&#39;: Old School RuneScape births a new meme as bug-exploiting scoundrels lay waste to unsuspecting F2P players with gear that shouldn&#39;t exist](https://www.pcgamer.com/games/mmo/explain-yourself-old-school-runescape-births-a-new-meme-as-bug-exploiting-scoundrels-lay-waste-to-unsuspecting-f2p-players-with-gear-that-shouldnt-exist)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
