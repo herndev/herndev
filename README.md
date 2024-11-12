@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Dutch female motorcycle traveler encounters the infamous African corruption](http://9gag.com/gag/aXPggGb)
- - ⏩ [Bidenomics ??](http://9gag.com/gag/aMVxEQX)
- - 👉 [What\u00b4s up with that, ladies...](http://9gag.com/gag/avyzQvM)<!-- MEMES:END -->
+ - 💣 [What else did she expect?](http://9gag.com/gag/aD24Dp7)
+ - ⏩ [Sausage and sauerkraut. Yay or Nay?](http://9gag.com/gag/aNDgPE3)
+ - 👉 [Mom!... why sister eating large candy?....](http://9gag.com/gag/a4P311w)<!-- MEMES:END -->
 
 ---
 
