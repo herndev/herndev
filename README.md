@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Spend $1,800 On An Engagement Ring And This Jewelry Store Will Throw In A Free PS5](https://kotaku.com/ps5-sale-black-friday-2024-engagement-ring-shopping-1851696700)
- - [Trump’s promised tariffs on China could damage board game and TTRPG publishers](https://www.polygon.com/news/477917/trump-china-tariffs-board-game-ttrpg-publishers)
- - [&#39;Calm down!&#39; says Facepunch Studios: Garry&#39;s Mod successor s&amp;box is getting a fan-requested sandbox mode and an alternative to &#39;Sausage Men&#39;](https://www.pcgamer.com/gaming-industry/game-development/calm-down-says-facepunch-studios-garrys-mod-successor-s-and-box-is-getting-a-fan-requested-sandbox-mode-and-an-alternative-to-sausage-men)<!-- GAME:END -->
+ - [GTA Trilogy Gets Big Surprise Update That Makes It Much Better](https://kotaku.com/gta-trilogy-vice-city-graphics-update-2024-netflix-ps5-1851696744)
+ - [PS5 Slim Gets A $70 Price Drop For The Holidays &lpar;Update: Sony Removes Deal From Ad&rpar;](https://kotaku.com/ps5-price-drop-450-discount-christmas-pro-holiday-deal-1851696225)
+ - [Where to unlock all alliance raids in FFXIV](https://www.polygon.com/ffxiv-guides-ff14-final-fantasy-14-online/24151320/alliance-raid-unlock-quests-starting-locations)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
