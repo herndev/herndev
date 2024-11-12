@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Android 16 could add a system-wide audio input switcher](https://www.androidauthority.com/android-16-audio-input-switcher-3498579/)
- - [Filing: a Chinese court agrees to hear a Fortnite-like case against Apple by Bodyreader, a posture correcting app Apple removed in 2020; Bodyreader seeks ~$420K &lpar;Pei Li/Bloomberg&rpar;](http://www.techmeme.com/241111/p26#a241111p26)
- - [Roku sale: Here are the hottest streaming device deals](https://www.androidauthority.com/roku-premiere-express-4k-plus-streaming-stick-4k-3498535/)<!-- TECH:END -->
+ - [Kuo: Apple plans a smart home IP camera and aims for 10M+ annual shipments, with production scheduled for 2026; Goertek will be the exclusive assembly supplier &lpar;Ming-Chi Kuo&rpar;](http://www.techmeme.com/241111/p27#a241111p27)
+ - [Google is developing a new gesture to make up for killing a popular Android shortcut](https://www.androidauthority.com/android-3-button-corner-swipe-3498602/)
+ - [Supply chain hints at two potential Apple product releases set for 2026](https://appleinsider.com/articles/24/11/12/supply-chain-hints-at-two-potential-apple-product-releases-set-for-2026?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
