@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Instacart reports Q3 revenue up 12% YoY to $852M, vs. $843.6M est., gross transaction value up 11% to $8.3B, and forecasts Q4 adjusted EBITDA below estimates &lpar;Natalie Lung/Bloomberg&rpar;](http://www.techmeme.com/241112/p25#a241112p25)
- - [YouTube is testing music remixes made by AI](https://www.theverge.com/2024/11/12/24294891/youtube-ai-restyle-music-creators)
- - [Spotify reports Q3 revenue up 19% YoY to &amp;euro;3.99B, vs. &amp;euro;4.02B est., MAUs up 11% to 640M, and forecasts Q4 profit and MAUs above est.; SPOT jumps 8%+ after hours &lpar;Jaspreet Singh/Reuters&rpar;](http://www.techmeme.com/241112/p24#a241112p24)<!-- TECH:END -->
+ - [The hunt for the next Twitter: all the news about alternative social media platforms](https://www.theverge.com/23686584/twitter-alternative-social-media-platforms-mastodon-bluesky-activitypub-protocol)
+ - [MKBHD got himself in trouble again](https://www.theverge.com/2024/11/12/24294921/mkbhd-controversy-dji-sponsored-video-speeding)
+ - [Zerocam wants to be the cure to over-processed smartphone photography](https://www.androidauthority.com/zerocam-ai-3498885/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
