@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Maker crafts adorable 3D-printed Mac mini enclosure to fix one of Apple&#39;s most egregious design choices: that damned power button](https://www.pcgamer.com/hardware/3D-printed-case-makes-Mac-mini-power-button-way-more-accessible)
- - [Square Enix apologises for messing up hairstyle competition winner&#39;s submission in Final Fantasy 14 &#39;due to limitations such as the polygon count&#39;](https://www.pcgamer.com/games/final-fantasy/square-enix-apologises-for-messing-up-hairstyle-competition-winners-submission-in-final-fantasy-14-due-to-limitations-such-as-the-polygon-count)
- - [The Nvidia App has finally launched out of beta and if you really hate remembering your login for GeForce Experience you should try it](https://www.pcgamer.com/hardware/the-nvidia-app-has-finally-launched)<!-- GAME:END -->
+ - [Sea of Stars: Dawn of Equinox: A Yearlong Journey in Refinement](https://news.xbox.com/en-us/2024/11/12/sea-of-stars-dawn-of-equinox-preview/)
+ - [Forever Skies PS5 demo out today](https://blog.playstation.com/2024/11/12/forever-skies-ps5-demo-out-today/)
+ - [Open AI co-founder reckons AI training has hit a wall, forcing AI labs to train their models smarter not just bigger](https://www.pcgamer.com/software/ai/open-ai-co-founder-reckons-ai-training-has-hit-a-wall-forcing-ai-labs-to-train-their-models-smarter-not-just-bigger)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
