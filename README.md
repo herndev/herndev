@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Kids without a cellphone are the best](http://9gag.com/gag/adBVB5B)
- - ⏩ [I wonder if you know?](http://9gag.com/gag/a34w4w3)
- - 👉 [At least now they will do something about it](http://9gag.com/gag/aD242PN)<!-- MEMES:END -->
+ - 💣 [The next U.S. Secretary of State](http://9gag.com/gag/ajP9PrR)
+ - ⏩ [When the end is near!](http://9gag.com/gag/amovoQo)
+ - 👉 [Mom!... why sister eating large candy?....](http://9gag.com/gag/a4P311w)<!-- MEMES:END -->
 
 ---
 
