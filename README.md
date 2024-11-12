@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Busted](http://9gag.com/gag/aE0PPQK)
- - ⏩ [Ahhh I remember this money dropping prank](http://9gag.com/gag/a5QWE4g)
- - 👉 [Founded in 1881, Tuskegee University is a private, state-related, land-grant and nationally ranked historically black University. &lpar;from their official x acct&rpar;. LAsT NIgHT this happened.](http://9gag.com/gag/abAGVz8)<!-- MEMES:END -->
+ - 💣 [Mike Tyson runs into a man he robbed as a teenager.](http://9gag.com/gag/ae9DDVq)
+ - ⏩ [Remember to always quicksave](http://9gag.com/gag/aAyegKd)
+ - 👉 [While you&#39;re having fun and looking for memes, someone else is thinking about how to make it until their first paycheck at their new job.](http://9gag.com/gag/a87G1Dd)<!-- MEMES:END -->
 
 ---
 
