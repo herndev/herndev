@@ -41,7 +41,7 @@
 <!-- TECH:START -->
  - [Roku sale: Here are the hottest streaming device deals](https://www.androidauthority.com/roku-premiere-express-4k-plus-streaming-stick-4k-3498535/)
  - [Signal announces a suite of call features, including the ability to share a link to a call, emoji reactions, a &quot;raise hand&quot; button, and a dedicated calls tab &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/241111/p25#a241111p25)
- - [A look at DeFlock, an open-source project that has crowdsourced the locations of 5,600+ automated license plate reader cameras globally from Flock and others &lpar;Jason Koebler/404 Media&rpar;](http://www.techmeme.com/241111/p24#a241111p24)<!-- TECH:END -->
+ - [Best Early Black Friday Mattress Deals: Save Hundreds on a Cozy New Mattress Ahead of the Holidays](https://www.cnet.com/deals/best-mattress-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
