@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Two different Walter white](http://9gag.com/gag/a5QW6xO)
- - ⏩ [One puzzle no 90s kid was able to solve](http://9gag.com/gag/amovAdo)
- - 👉 [CANADA what is happening to you?!!!](http://9gag.com/gag/aO87ep2)<!-- MEMES:END -->
+ - 💣 [CANADA what is happening to you?!!!](http://9gag.com/gag/aO87ep2)
+ - ⏩ [Hidden airplane crew quarters](http://9gag.com/gag/axy9yVn)
+ - 👉 [Crazy enough motivated enough](http://9gag.com/gag/agmAmq6)<!-- MEMES:END -->
 
 ---
 
