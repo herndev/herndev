@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Farming Simulator 25 is available right now with a new lush Asian farm and a fantastic PC-exclusive Collector&#39;s Edition](https://www.pcgamer.com/games/farming-simulator-25-is-available-right-now-with-a-new-lush-asian-farm-and-a-fantastic-pc-exclusive-collectors-edition)
  - [Today&#39;s Wordle answer for Wednesday, November 13](https://www.pcgamer.com/games/puzzle/wordle-answer-today-november-13-2024)
- - [Monster Hunter is going mobile with new ‘fully featured game’ Outlanders](https://www.polygon.com/news/478302/monster-hunter-outlanders-mobile-announcement-trailer)
- - [This Gothic-inspired RPG indie is shaping up to be my favourite hidden gem of 2024](https://www.pcgamer.com/games/rpg/this-gothic-inspired-rpg-indie-is-shaping-up-to-be-my-favourite-hidden-gem-of-2024)<!-- GAME:END -->
+ - [Monster Hunter is going mobile with new ‘fully featured game’ Outlanders](https://www.polygon.com/news/478302/monster-hunter-outlanders-mobile-announcement-trailer)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
