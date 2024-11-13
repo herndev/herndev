@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Dragon Age: The Veilguard’s Hardest Choice Has Fans Scouring For A Way Out](https://kotaku.com/dragon-age-veilguard-harding-davrin-death-alive-survive-1851697615)
- - [Xbox Boss Says No &#39;Red Line&#39; With Exclusives, Including Even Halo](https://kotaku.com/xbox-boss-spencer-halo-ps5-switch-exclusive-no-red-line-1851697549)
- - [AMD is firing 4% of its global workforce as it realigns in likely pursuit of all those AI dollars](https://www.pcgamer.com/hardware/amd-is-firing-4-percent-of-its-global-workforce-as-it-realigns-in-likely-pursuit-of-all-those-ai-dollars)<!-- GAME:END -->
+ - [Catch Up on the Announcements from the Warcraft 30th Anniversary Direct](https://news.blizzard.com/world-of-warcraft/24148499/#new_tab)
+ - [Mists of Pandaria: Classic is coming summer 2025](https://www.pcgamer.com/games/world-of-warcraft/mists-of-pandaria-classic-is-coming-summer-2025)
+ - [Classic RTS Games Warcraft and Warcraft 2 Fully Remastered And Out Now](https://kotaku.com/warcraft-2-3-rts-classic-remastered-blizzard-pc-1851697730)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
