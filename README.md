@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [IHOP Powers Up with an Xbox-Themed Menu and Legendary Collectibles](https://news.xbox.com/en-us/2024/11/13/ihop-xbox-indiana-jones-great-circle/)
- - [Netflix just made watching a Fast and Furious marathon easy](https://www.polygon.com/what-to-watch/477189/fast-furious-netflix-movies-streaming-which-watch)
- - [Online Gaming Store GOG Launches New Scheme To Save Games From Disappearing](https://kotaku.com/gog-games-preservation-program-drm-1851696363)<!-- GAME:END -->
+ - [What You Need to Know About Final Fantasy XIV Online Patch 7.1: Crossroads – Out Now!](https://news.xbox.com/en-us/2024/11/13/final-fantasy-xiv-patch-7-1-crossroads-what-to-know/)
+ - [Dragon Quest 3 HD-2D Remake review](https://www.pcgamer.com/games/rpg/dragon-quest-3-hd-2d-remake-review)
+ - [Xbox Is Working On A Gaming Handheld But It&#39;s Still A Few Years Out](https://kotaku.com/microsoft-xbox-pc-gaming-handheld-steam-deck-game-pass-1851697278)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
