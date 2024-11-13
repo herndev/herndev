@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle answer for Wednesday, November 13](https://www.pcgamer.com/games/puzzle/wordle-answer-today-november-13-2024)
  - [Monster Hunter is going mobile with new ‘fully featured game’ Outlanders](https://www.polygon.com/news/478302/monster-hunter-outlanders-mobile-announcement-trailer)
- - [This Gothic-inspired RPG indie is shaping up to be my favourite hidden gem of 2024](https://www.pcgamer.com/games/rpg/this-gothic-inspired-rpg-indie-is-shaping-up-to-be-my-favourite-hidden-gem-of-2024)
- - [The geri-action movie Thelma lets 94-year-old June Squibb play the Tom Cruise game](https://www.polygon.com/24164155/thelma-movie-preview-action-comedy)<!-- GAME:END -->
+ - [This Gothic-inspired RPG indie is shaping up to be my favourite hidden gem of 2024](https://www.pcgamer.com/games/rpg/this-gothic-inspired-rpg-indie-is-shaping-up-to-be-my-favourite-hidden-gem-of-2024)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
