@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [If You&#39;re Thinking About Deleting X/Twitter, Here&#39;s How To Do It](https://www.cnet.com/tech/if-youre-thinking-about-deleting-xtwitter-heres-how-to-do-it/#ftag=CAD590a51e)
- - [Save 44% on the Yeedi M12 Robot Vacuum and Mop With This Early Black Friday Deal at Amazon](https://www.cnet.com/deals/save-44-on-the-yeedi-m12-robot-vacuum-and-mop-with-this-early-black-friday-deal-at-amazon/#ftag=CAD590a51e)
- - [Add Some Color to Your House With These Refurbished Philips Hue Smart Lights](https://www.cnet.com/deals/add-some-color-to-your-house-with-these-refurbished-philips-hue-smart-lights/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The Wall Street Journal is testing AI article summaries](https://www.theverge.com/2024/11/13/24295838/the-wall-street-journal-ai-article-summaries-key-points)
+ - [Sources: OpenAI plans to launch a new AI agent codenamed Operator, which can use a computer to take actions on a person&#39;s behalf, in January &lpar;Bloomberg&rpar;](http://www.techmeme.com/241113/p43#a241113p43)
+ - [Best Internet Providers in Franklin, Tennessee](https://www.cnet.com/home/internet/best-internet-providers-in-franklin-tn/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
