@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [T-Mobile is giving internet backup plans more data, but not in the way you want](https://www.androidauthority.com/t-mobile-backup-internet-additional-passes-3499268/)
- - [Donald Trump&#39;s New &#39;Border Czar&#39; Defended Child Separation at Festival Held by Gun-Worshipping Sect](https://www.wired.com/story/tom-homan-trump-border-czar-child-separation-policies/)
- - [The Lightfoot electric scooter is wrapped in solar panels to address range anxiety](https://www.theverge.com/2024/11/13/24295580/otherlab-lightfoot-electric-scooter-cargo-solar-power)<!-- TECH:END -->
+ - [Docs and sources: Amazon has discontinued a secretive effort to develop an at-home fertility tracker, which was part of its moonshot incubator Grand Challenge &lpar;Annie Palmer/CNBC&rpar;](http://www.techmeme.com/241113/p39#a241113p39)
+ - [AMD says it will lay off ~4% of its global staff to align &quot;resources with our largest growth opportunities&quot;; SEC filing: AMD had 26,000 employees at 2023&#39;s end &lpar;Kif Leswing/CNBC&rpar;](http://www.techmeme.com/241113/p38#a241113p38)
+ - [Meta must face FTC trial that could separate Instagram and WhatsApp](https://www.theverge.com/2024/11/13/24295637/meta-must-face-ftc-antitrust-trial-instagram-whatsapp)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
