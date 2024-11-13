@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Teeth Whitening Kits in 2024](https://www.cnet.com/health/personal-care/best-teeth-whitening-kits/#ftag=CAD590a51e)
- - [We Tested Our Marriage by Sleeping on Avocado’s Luxury Organic Mattress for 30 Nights](https://www.cnet.com/health/sleep/sleeping-on-avocado-luxury-organic-mattress-for-30-nights/#ftag=CAD590a51e)
- - [PitchBook: Q3 2024 crypto VC funding fell 31.3% YoY to $1.7B and VC deals fell 25.3% YoY to 392, as infrastructure startups continued to draw investors&#39; focus &lpar;Muyao Shen/Bloomberg&rpar;](http://www.techmeme.com/241113/p15#a241113p15)<!-- TECH:END -->
+ - [How Italy became an unexpected spyware hub, going under the radar by specializing in cheaper tools, as authorities carry out thousands of operations since 2021 &lpar;Suzanne Smalley/The Record&rpar;](http://www.techmeme.com/241113/p18#a241113p18)
+ - [Charles Sporck, an early champion of globalization who moved some of Fairchild&#39;s chip assembly operations from the US to Hong Kong in the 1960s, died at 96 &lpar;James R. Hagerty/Wall Street Journal&rpar;](http://www.techmeme.com/241113/p17#a241113p17)
+ - [Tencent reports Q3 revenue up 8% YoY to ~$23.9B and net income up 20% YoY to ~$7.4B, vs. ~$6.2B est., buoyed by Dungeon &amp; Fighter Mobile and Black Myth: Wukong &lpar;Zheping Huang/Bloomberg&rpar;](http://www.techmeme.com/241113/p16#a241113p16)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
