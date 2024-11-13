@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Donald Trump Taps Elon Musk, Vivek Ramaswamy to Lead Nonexistent Department of Government Efficiency](https://www.wired.com/story/donald-trump-elon-musk-department-of-government-efficiency/)
- - [Trump says Elon Musk will lead ‘DOGE’ office to cut ‘wasteful’ government spending](https://www.theverge.com/2024/11/12/24295165/trump-elon-musk-doge-cut-government-spending)
- - [FrontierMath, a new benchmark for evaluating AI model&#39;s advanced mathematical reasoning, shows current AI systems solve less than 2% of its challenging problems &lpar;Michael Nu&amp;ntilde;ez/VentureBeat&rpar;](http://www.techmeme.com/241112/p32#a241112p32)<!-- TECH:END -->
+ - [Google Nest Audio 50% off only until tomorrow, stock running out](https://www.androidauthority.com/google-nest-audio-deal-5-3498892/)
+ - [Monster Hunter is getting an open-world RPG spinoff for mobile](https://www.theverge.com/2024/11/12/24294524/monster-hunter-outlanders-mobile-game)
+ - [Donald Trump Taps Elon Musk, Vivek Ramaswamy to Lead Nonexistent Department of Government Efficiency](https://www.wired.com/story/donald-trump-elon-musk-department-of-government-efficiency/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
