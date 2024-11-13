@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This accident was real and everybody just ran with it](http://9gag.com/gag/a9ynv1Z)
- - ⏩ [Crazy enough motivated enough](http://9gag.com/gag/agmAmq6)
+ - 💣 [The way Mattel has been nerfing Hot Wheels](http://9gag.com/gag/aXPgMjz)
+ - ⏩ [This stone breaking down into smaller pieces.](http://9gag.com/gag/aGydEMz)
  - 👉 [Math is hard](http://9gag.com/gag/aqynyXM)<!-- MEMES:END -->
 
 ---
