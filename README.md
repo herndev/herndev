@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Warcraft Rumble, Blizzard&#39;s first new RTS in years, will finally shed its mobile shackles and come to PC in December](https://www.pcgamer.com/games/rts/warcraft-rumble-blizzards-first-new-rts-in-years-will-finally-shed-its-mobile-shackles-and-come-to-pc-in-december)
- - [&#39;It&#39;s about time!&#39;: Hearthstone is getting a Starcraft crossover set starring Raynor, Kerrigan and Artanis](https://www.pcgamer.com/games/card-games/its-about-time-hearthstone-is-getting-a-starcraft-crossover-expansion-starring-raynor-kerrigan-and-artanis)
- - [World of Warcraft getting player housing in upcoming Midnight expansion](https://www.polygon.com/world-of-warcraft/478686/world-of-warcraft-gets-player-housing-in-midnight-expansion)<!-- GAME:END -->
+ - [Scott Pilgrim and his precious little box sets have never been cheaper](https://www.polygon.com/good-deals/478700/scott-pilgrim-box-set-amazon-sale)
+ - [How To Unlock Every Hero And Weapon Evolution In Vampire Survivors Ode To Castlevania DLC](https://kotaku.com/vampire-survivors-ode-to-castlevania-dlc-unlock-hero-1851697959)
+ - [Hundreds of ZeniMax workers go on strike to protest Microsoft &#39;dragging their feet&#39; on negotiations over job security and remote work](https://www.pcgamer.com/gaming-industry/hundreds-of-zenimax-workers-go-on-strike-to-protest-microsoft-dragging-their-feet-on-negotiations-over-job-security-and-remote-work)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
