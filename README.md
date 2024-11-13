@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Choo Choo. I&#39;m a train](http://9gag.com/gag/amovWpy)
- - ⏩ [When the end is near!](http://9gag.com/gag/amovoQo)
- - 👉 [Don&#39;t forget your friends](http://9gag.com/gag/aGydLwG)<!-- MEMES:END -->
+ - 💣 [Effective fly repellent](http://9gag.com/gag/amovA72)
+ - ⏩ [What else did she expect?](http://9gag.com/gag/aD24Dp7)
+ - 👉 [My cup of tea shirt](http://9gag.com/gag/a2vW1ow)<!-- MEMES:END -->
 
 ---
 
