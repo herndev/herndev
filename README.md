@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [CBRE: tech companies leased 9.9M square feet of US office space in Q3, up from ~8M in Q2 and the highest since Q4 2021, as demand grows from new AI companies &lpar;Peter Grant/Wall Street Journal&rpar;](http://www.techmeme.com/241113/p13#a241113p13)
- - [Android 15 QPR2 Beta 1 brings stronger haptics that’s got the crowd divided](https://www.androidauthority.com/android-15-qpr2-beta-1-stronger-haptics-3499035/)
- - [From AV1 to HDR support, the Steam Link Android app just got a huge update](https://www.androidauthority.com/steam-link-android-app-update-3499056/)<!-- TECH:END -->
+ - [Best Teeth Whitening Kits in 2024](https://www.cnet.com/health/personal-care/best-teeth-whitening-kits/#ftag=CAD590a51e)
+ - [We Tested Our Marriage by Sleeping on Avocado’s Luxury Organic Mattress for 30 Nights](https://www.cnet.com/health/sleep/sleeping-on-avocado-luxury-organic-mattress-for-30-nights/#ftag=CAD590a51e)
+ - [PitchBook: Q3 2024 crypto VC funding fell 31.3% YoY to $1.7B and VC deals fell 25.3% YoY to 392, as infrastructure startups continued to draw investors&#39; focus &lpar;Muyao Shen/Bloomberg&rpar;](http://www.techmeme.com/241113/p15#a241113p15)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
