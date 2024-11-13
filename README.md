@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Someone needs therapy now.](http://9gag.com/gag/a9ynyK1)
- - ⏩ [At least we didn\u2019t leave vehicles behind..](http://9gag.com/gag/a6ZKqzq)
- - 👉 [Casual encounter with a Cassowary - the most dangerous bird in the world.](http://9gag.com/gag/ae9D9pB)<!-- MEMES:END -->
+ - 💣 [Choo Choo. I&#39;m a train](http://9gag.com/gag/amovWpy)
+ - ⏩ [When the end is near!](http://9gag.com/gag/amovoQo)
+ - 👉 [Don&#39;t forget your friends](http://9gag.com/gag/aGydLwG)<!-- MEMES:END -->
 
 ---
 
