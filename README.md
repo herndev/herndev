@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [This accident was real and everybody just ran with it](http://9gag.com/gag/a9ynv1Z)
- - ⏩ [Artificial Intelligence](http://9gag.com/gag/amovopv)
- - 👉 [Crazy enough motivated enough](http://9gag.com/gag/agmAmq6)<!-- MEMES:END -->
+ - ⏩ [Crazy enough motivated enough](http://9gag.com/gag/agmAmq6)
+ - 👉 [Math is hard](http://9gag.com/gag/aqynyXM)<!-- MEMES:END -->
 
 ---
 
