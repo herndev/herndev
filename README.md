@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Scott Pilgrim and his precious little box sets have never been cheaper](https://www.polygon.com/good-deals/478700/scott-pilgrim-box-set-amazon-sale)
- - [How To Unlock Every Hero And Weapon Evolution In Vampire Survivors Ode To Castlevania DLC](https://kotaku.com/vampire-survivors-ode-to-castlevania-dlc-unlock-hero-1851697959)
- - [Hundreds of ZeniMax workers go on strike to protest Microsoft &#39;dragging their feet&#39; on negotiations over job security and remote work](https://www.pcgamer.com/gaming-industry/hundreds-of-zenimax-workers-go-on-strike-to-protest-microsoft-dragging-their-feet-on-negotiations-over-job-security-and-remote-work)<!-- GAME:END -->
+ - [Introducing the Season 01 New Battle Pass System, BlackCell, and New Store Bundles for Call of Duty: Black Ops 6 and Call of Duty: Warzone](https://www.callofduty.com/blog/2024/11/call-of-duty-black-ops-6-season-one-blackcell-bp-bundles-zombies-announcement#new_tab)
+ - [What Pokémon TCG Pocket Needs More Than Anything Is A Dark Mode](https://kotaku.com/pokemon-tcg-pocket-dark-mode-bright-phone-battery-life-1851697973)
+ - [How To Unlock Every Hero And Weapon Evolution In Vampire Survivors Ode To Castlevania DLC](https://kotaku.com/vampire-survivors-ode-to-castlevania-dlc-unlock-hero-1851697959)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
