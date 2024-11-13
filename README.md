@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Home’s new Member Access feature lets you share your smart home with those you trust](https://www.androidauthority.com/google-home-member-access-3499016/)
- - [Vega, which is developing AltOS, a platform to help alternative asset managers further their distributions, raised a $20M Series A led by Apollo and Motive &lpar;Irene Garcia Perez/Bloomberg&rpar;](http://www.techmeme.com/241112/p36#a241112p36)
- - [How advanced content caching settings on the Mac works](https://appleinsider.com/inside/macos/tips/how-advanced-content-caching-settings-on-the-mac-works?utm_medium=rss)<!-- TECH:END -->
+ - [Dogecoin spikes ~20% after Donald Trump announced the creation of the Department of Government Efficiency or DOGE; Dogecoin is up 153% since Election Day &lpar;Tanaya Macheel/CNBC&rpar;](http://www.techmeme.com/241113/p5#a241113p5)
+ - [Rivian and VW finalize a software development joint venture; VW has invested $1B of its planned up to $5.8B by 2027 in the JV designed to be a 50-50 partnership &lpar;TechCrunch&rpar;](http://www.techmeme.com/241113/p4#a241113p4)
+ - [Prosus says it has made $2B+ on its Swiggy investment and will retain a 25% stake after Swiggy&#39;s IPO, which valued the food and grocery delivery firm at ~$11.3B &lpar;Loni Prinsloo/Bloomberg&rpar;](http://www.techmeme.com/241113/p3#a241113p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
