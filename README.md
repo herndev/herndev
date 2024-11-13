@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [After ordering some shrimp, customer returned the plate like this](http://9gag.com/gag/awyByx1)
- - ⏩ [This accident was real and everybody just ran with it](http://9gag.com/gag/a9ynv1Z)
- - 👉 [Artificial Intelligence](http://9gag.com/gag/amovopv)<!-- MEMES:END -->
+ - 💣 [This accident was real and everybody just ran with it](http://9gag.com/gag/a9ynv1Z)
+ - ⏩ [Artificial Intelligence](http://9gag.com/gag/amovopv)
+ - 👉 [Crazy enough motivated enough](http://9gag.com/gag/agmAmq6)<!-- MEMES:END -->
 
 ---
 
