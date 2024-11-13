@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [CANADA what is happening to you?!!!](http://9gag.com/gag/aO87ep2)
- - ⏩ [This stone breaking down into smaller pieces.](http://9gag.com/gag/aGydEMz)
- - 👉 [Crazy enough motivated enough](http://9gag.com/gag/agmAmq6)<!-- MEMES:END -->
+ - 💣 [All it matters is they had a great time.](http://9gag.com/gag/aZZyZ43)
+ - ⏩ [Why complicated life](http://9gag.com/gag/a2vWvW1)
+ - 👉 [Hum...](http://9gag.com/gag/aO874Vv)<!-- MEMES:END -->
 
 ---
 
