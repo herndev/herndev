@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Polestar 3 with rear-wheel drive and 350 miles of range will start at $68,900](https://www.theverge.com/2024/11/13/24295069/polestar-3-rwd-price-range-tax-credit)
- - [Spotify’s latest UI update fixes one problem but creates another](https://www.androidauthority.com/spotify-queue-update-fixes-problem-3499145/)
- - [Amazon recently told staff with disabilities that it was adding a more rigorous vetting process to approve working from home, as it moves to five days per week &lpar;Spencer Soper/Bloomberg&rpar;](http://www.techmeme.com/241113/p23#a241113p23)<!-- TECH:END -->
+ - [Apple&#39;s M4 Max 14-inch MacBook Pro is on sale for $2,999 &amp; in stock](https://appleinsider.com/articles/24/11/13/apples-m4-max-14-inch-macbook-pro-is-on-sale-for-2999-in-stock?utm_medium=rss)
+ - [Xbox chief confirms handheld console is still a few years away](https://www.androidauthority.com/xbox-handheld-few-years-away-3499168/)
+ - [An interview with Microsoft Gaming CEO Phil Spencer, who says he won&#39;t rule out any Xbox exclusive coming to PlayStation, discusses potential M&amp;A, and more &lpar;Dina Bass/Bloomberg&rpar;](http://www.techmeme.com/241113/p26#a241113p26)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
