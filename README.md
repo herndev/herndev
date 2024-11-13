@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Secret Level&#39;s producer can&#39;t fathom why Concord ended up failing: &#39;There was no nicer, more invested group of developers than the team on Concord&#39;](https://www.pcgamer.com/games/fps/secret-levels-producer-cant-fathom-why-concord-ended-up-failing-there-was-no-nicer-more-invested-group-of-developers-than-the-team-on-concord)
- - [Everholm, a &#39;cosy&#39; farming game where not all is as it seems, is out now](https://www.pcgamer.com/games/everholm-a-cosy-farming-game-where-not-all-is-as-it-seems-is-out-now)
- - [Dragon Age: The Veilguard&#39;s leap forward in trans inclusion comes from a heartfelt place, but its problems left me feeling frustrated, angry, and tired](https://www.pcgamer.com/games/dragon-age/dragon-age-the-veilguards-leap-forward-in-trans-inclusion-comes-from-a-heartfelt-place-but-its-problems-left-me-feeling-frustrated-angry-and-tired)<!-- GAME:END -->
+ - [IHOP Powers Up with an Xbox-Themed Menu and Legendary Collectibles](https://news.xbox.com/en-us/2024/11/13/ihop-xbox-indiana-jones-great-circle/)
+ - [Netflix just made watching a Fast and Furious marathon easy](https://www.polygon.com/what-to-watch/477189/fast-furious-netflix-movies-streaming-which-watch)
+ - [Online Gaming Store GOG Launches New Scheme To Save Games From Disappearing](https://kotaku.com/gog-games-preservation-program-drm-1851696363)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
