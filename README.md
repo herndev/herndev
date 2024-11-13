@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Lego Horizon Adventures: The Kotaku Review](https://kotaku.com/lego-horizon-adventures-review-aloy-ps5-switch-pc-1851696761)
  - [Today&#39;s Wordle answer for Wednesday, November 13](https://www.pcgamer.com/games/puzzle/wordle-answer-today-november-13-2024)
- - [Monster Hunter is going mobile with new ‘fully featured game’ Outlanders](https://www.polygon.com/news/478302/monster-hunter-outlanders-mobile-announcement-trailer)<!-- GAME:END -->
+ - [Monster Hunter is going mobile with new ‘fully featured game’ Outlanders](https://www.polygon.com/news/478302/monster-hunter-outlanders-mobile-announcement-trailer)
+ - [This Gothic-inspired RPG indie is shaping up to be my favourite hidden gem of 2024](https://www.pcgamer.com/games/rpg/this-gothic-inspired-rpg-indie-is-shaping-up-to-be-my-favourite-hidden-gem-of-2024)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
