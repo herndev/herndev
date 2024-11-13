@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [CANADA what is happening to you?!!!](http://9gag.com/gag/aO87ep2)
- - ⏩ [Hidden airplane crew quarters](http://9gag.com/gag/axy9yVn)
- - 👉 [Crazy enough motivated enough](http://9gag.com/gag/agmAmq6)<!-- MEMES:END -->
+ - 💣 [The next U.S. Secretary of State](http://9gag.com/gag/ajP9PrR)
+ - ⏩ [A simple sorry in a white society](http://9gag.com/gag/aD247GG)
+ - 👉 [Number one was the best](http://9gag.com/gag/adBVBpV)<!-- MEMES:END -->
 
 ---
 
