@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Wall Street Journal is testing AI article summaries](https://www.theverge.com/2024/11/13/24295838/the-wall-street-journal-ai-article-summaries-key-points)
- - [Sources: OpenAI plans to launch a new AI agent codenamed Operator, which can use a computer to take actions on a person&#39;s behalf, in January &lpar;Bloomberg&rpar;](http://www.techmeme.com/241113/p43#a241113p43)
- - [Best Internet Providers in Franklin, Tennessee](https://www.cnet.com/home/internet/best-internet-providers-in-franklin-tn/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Google’s new app will help warn you about nude images in Messages](https://www.androidauthority.com/google-messages-nudes-3499420/)
+ - [Cisco reports Q1 revenue down 6% YoY to $13.8B, vs. $13.77B estimated, net income down 25% to $2.7B, and forecasts Q2 revenue above estimates &lpar;Ian King/Bloomberg&rpar;](http://www.techmeme.com/241113/p45#a241113p45)
+ - [Fire sale: All Amazon Fire TV Stick models drop to record-low prices!](https://www.androidauthority.com/amazon-fire-tv-stick-hd-4k-4k-max-deals-3499376/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
