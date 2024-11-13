@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Catch Up on the Announcements from the Warcraft 30th Anniversary Direct](https://news.blizzard.com/world-of-warcraft/24148499/#new_tab)
- - [Mists of Pandaria: Classic is coming summer 2025](https://www.pcgamer.com/games/world-of-warcraft/mists-of-pandaria-classic-is-coming-summer-2025)
- - [Classic RTS Games Warcraft and Warcraft 2 Fully Remastered And Out Now](https://kotaku.com/warcraft-2-3-rts-classic-remastered-blizzard-pc-1851697730)<!-- GAME:END -->
+ - [Warcraft Rumble, Blizzard&#39;s first new RTS in years, will finally shed its mobile shackles and come to PC in December](https://www.pcgamer.com/games/rts/warcraft-rumble-blizzards-first-new-rts-in-years-will-finally-shed-its-mobile-shackles-and-come-to-pc-in-december)
+ - [&#39;It&#39;s about time!&#39;: Hearthstone is getting a Starcraft crossover set starring Raynor, Kerrigan and Artanis](https://www.pcgamer.com/games/card-games/its-about-time-hearthstone-is-getting-a-starcraft-crossover-expansion-starring-raynor-kerrigan-and-artanis)
+ - [World of Warcraft getting player housing in upcoming Midnight expansion](https://www.polygon.com/world-of-warcraft/478686/world-of-warcraft-gets-player-housing-in-midnight-expansion)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
