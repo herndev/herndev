@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Effective fly repellent](http://9gag.com/gag/amovA72)
- - ⏩ [Reportedly Kamala Harris campaign paid Beyonce 10 million dollars to do a 2 minute speech.](http://9gag.com/gag/aO872o6)
- - 👉 [A proud father](http://9gag.com/gag/abAGgVB)<!-- MEMES:END -->
+ - 💣 [Someone needs therapy now.](http://9gag.com/gag/a9ynyK1)
+ - ⏩ [At least we didn\u2019t leave vehicles behind..](http://9gag.com/gag/a6ZKqzq)
+ - 👉 [Casual encounter with a Cassowary - the most dangerous bird in the world.](http://9gag.com/gag/ae9D9pB)<!-- MEMES:END -->
 
 ---
 
