@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best entertainment of 2024](https://www.theverge.com/entertainment/24090208/best-entertainment-2024-games-film-tv-streaming)
- - [The Pixel Watch isn’t getting another update until spring 2025](https://www.androidauthority.com/next-pixel-watch-update-3499269/)
- - [These are the passwords you definitely shouldn’t be using](https://www.theverge.com/2024/11/13/24295543/most-common-passwords-list-2024)<!-- TECH:END -->
+ - [T-Mobile is giving internet backup plans more data, but not in the way you want](https://www.androidauthority.com/t-mobile-backup-internet-additional-passes-3499268/)
+ - [Donald Trump&#39;s New &#39;Border Czar&#39; Defended Child Separation at Festival Held by Gun-Worshipping Sect](https://www.wired.com/story/tom-homan-trump-border-czar-child-separation-policies/)
+ - [The Lightfoot electric scooter is wrapped in solar panels to address range anxiety](https://www.theverge.com/2024/11/13/24295580/otherlab-lightfoot-electric-scooter-cargo-solar-power)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
