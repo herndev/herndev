@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The hunt for the next Twitter: all the news about alternative social media platforms](https://www.theverge.com/23686584/twitter-alternative-social-media-platforms-mastodon-bluesky-activitypub-protocol)
- - [MKBHD got himself in trouble again](https://www.theverge.com/2024/11/12/24294921/mkbhd-controversy-dji-sponsored-video-speeding)
- - [Zerocam wants to be the cure to over-processed smartphone photography](https://www.androidauthority.com/zerocam-ai-3498885/)<!-- TECH:END -->
+ - [National Guard Discord leaker sentenced to 15 years in prison](https://www.theverge.com/2024/11/12/24295060/national-guard-discord-leaker-jack-teixeira-sentencing)
+ - [Google’s AI flood forecasting can now help 700 million people stay dry](https://www.androidauthority.com/google-flood-detection-3498988/)
+ - [Amazon is shutting down Freevee, its free, ad-supported streaming service launched in 2019 under the IMDb brand, and plans to move the content to Prime Video &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/241112/p29#a241112p29)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
