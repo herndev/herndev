@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Hidden airplane crew quarters](http://9gag.com/gag/axy9yVn)
- - ⏩ [This stone breaking down into smaller pieces.](http://9gag.com/gag/aGydEMz)
- - 👉 [My cup of tea shirt](http://9gag.com/gag/a2vW1ow)<!-- MEMES:END -->
+ - 💣 [What\u00b4s up with that, ladies...](http://9gag.com/gag/avyzQvM)
+ - ⏩ [A proud father](http://9gag.com/gag/abAGgVB)
+ - 👉 [Hidden airplane crew quarters](http://9gag.com/gag/axy9yVn)<!-- MEMES:END -->
 
 ---
 
