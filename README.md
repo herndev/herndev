@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [What You Need to Know About Final Fantasy XIV Online Patch 7.1: Crossroads – Out Now!](https://news.xbox.com/en-us/2024/11/13/final-fantasy-xiv-patch-7-1-crossroads-what-to-know/)
- - [Dragon Quest 3 HD-2D Remake review](https://www.pcgamer.com/games/rpg/dragon-quest-3-hd-2d-remake-review)
- - [Xbox Is Working On A Gaming Handheld But It&#39;s Still A Few Years Out](https://kotaku.com/microsoft-xbox-pc-gaming-handheld-steam-deck-game-pass-1851697278)<!-- GAME:END -->
+ - [iBuyPower RDY Y40 Valorant VCTA R003 review](https://www.pcgamer.com/hardware/gaming-pcs/ibuypower-rdy-y40-valorant-vcta-r003-review)
+ - [Many Criterion Collection films are 50% off through Black Friday](https://www.polygon.com/sales-guide/477911/criterion-collection-movies-amazon-barnes-noble-deal-black-friday)
+ - [Breaking: Nintendo Says Not To Let Your Pets Piss On Your Switch](https://kotaku.com/nintendo-switch-2-pet-drool-pee-advice-1851697169)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
