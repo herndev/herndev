@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Monster Hunter is going mobile with new ‘fully featured game’ Outlanders](https://www.polygon.com/news/478302/monster-hunter-outlanders-mobile-announcement-trailer)
  - [This Gothic-inspired RPG indie is shaping up to be my favourite hidden gem of 2024](https://www.pcgamer.com/games/rpg/this-gothic-inspired-rpg-indie-is-shaping-up-to-be-my-favourite-hidden-gem-of-2024)
- - [The geri-action movie Thelma lets 94-year-old June Squibb play the Tom Cruise game](https://www.polygon.com/24164155/thelma-movie-preview-action-comedy)
- - [Destiny 2&#39;s next act will bring Street Fighter 6 cosmetics and a 300% buff to roaming supers](https://www.pcgamer.com/games/third-person-shooter/destiny-2s-next-act-will-bring-street-fighter-6-cosmetics-and-a-300-percent-buff-to-roaming-supers)<!-- GAME:END -->
+ - [The geri-action movie Thelma lets 94-year-old June Squibb play the Tom Cruise game](https://www.polygon.com/24164155/thelma-movie-preview-action-comedy)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
