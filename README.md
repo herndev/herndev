@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Elder Scrolls Online Update 44 Brings Updated Battlegrounds, New Companions, and More](https://www.elderscrollsonline.com/en-us/news/post/66869#new_tab)
- - [PlayStation Plus Game Catalog for November: Grand Theft Auto V, Dying Light 2: Stay Human, Like a Dragon: Ishin, and more](https://blog.playstation.com/2024/11/13/playstation-plus-game-catalog-for-november-grand-theft-auto-v-dying-light-2-stay-human-like-a-dragon-ishin-and-more/)
- - [Xbox Introduces New AI Solutions to Protect Players from Unwanted Messages in its Multifaceted Approach to Safety](https://news.xbox.com/en-us/2024/11/13/xbox-transparency-report-new-ai-solutions/)<!-- GAME:END -->
+ - [Dragon Age: The Veilguard’s Hardest Choice Has Fans Scouring For A Way Out](https://kotaku.com/dragon-age-veilguard-harding-davrin-death-alive-survive-1851697615)
+ - [Xbox Boss Says No &#39;Red Line&#39; With Exclusives, Including Even Halo](https://kotaku.com/xbox-boss-spencer-halo-ps5-switch-exclusive-no-red-line-1851697549)
+ - [AMD is firing 4% of its global workforce as it realigns in likely pursuit of all those AI dollars](https://www.pcgamer.com/hardware/amd-is-firing-4-percent-of-its-global-workforce-as-it-realigns-in-likely-pursuit-of-all-those-ai-dollars)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
