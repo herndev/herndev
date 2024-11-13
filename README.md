@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [All it matters is they had a great time.](http://9gag.com/gag/aZZyZ43)
- - ⏩ [Why complicated life](http://9gag.com/gag/a2vWvW1)
- - 👉 [Hum...](http://9gag.com/gag/aO874Vv)<!-- MEMES:END -->
+ - 💣 [After ordering some shrimp, customer returned the plate like this](http://9gag.com/gag/awyByx1)
+ - ⏩ [This accident was real and everybody just ran with it](http://9gag.com/gag/a9ynv1Z)
+ - 👉 [Artificial Intelligence](http://9gag.com/gag/amovopv)<!-- MEMES:END -->
 
 ---
 
