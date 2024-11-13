@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Introducing the Season 01 New Battle Pass System, BlackCell, and New Store Bundles for Call of Duty: Black Ops 6 and Call of Duty: Warzone](https://www.callofduty.com/blog/2024/11/call-of-duty-black-ops-6-season-one-blackcell-bp-bundles-zombies-announcement#new_tab)
- - [What Pokémon TCG Pocket Needs More Than Anything Is A Dark Mode](https://kotaku.com/pokemon-tcg-pocket-dark-mode-bright-phone-battery-life-1851697973)
- - [How To Unlock Every Hero And Weapon Evolution In Vampire Survivors Ode To Castlevania DLC](https://kotaku.com/vampire-survivors-ode-to-castlevania-dlc-unlock-hero-1851697959)<!-- GAME:END -->
+ - [Monster Hunter Wilds: Every monster confirmed so far](https://www.pcgamer.com/games/rpg/monster-hunter-wilds-every-monster-confirmed-so-far)
+ - [Watch Hugh Grant Do The Worst Jar Jar Binks Impression I&#39;ve Ever Heard](https://kotaku.com/star-wars-jar-jar-hugh-grant-heretic-impression-clip-1851698047)
+ - [Dropout offers discounted Dimension 20 tickets after pricing controversy](https://www.polygon.com/actual-play/478844/dimension-20-dimensioneer-lottery-tickets-how-to-get)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
