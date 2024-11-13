@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Legend says they are still waiting](http://9gag.com/gag/azxmMZx)
- - ⏩ [Effective fly repellent](http://9gag.com/gag/amovA72)
- - 👉 [The border Chad](http://9gag.com/gag/a9ynqj0)<!-- MEMES:END -->
+ - 💣 [After ordering some shrimp, customer returned the plate like this](http://9gag.com/gag/awyByx1)
+ - ⏩ [Chinese retail chain has swapped traditional mannequins for real women walking on treadmills.](http://9gag.com/gag/aqynyNP)
+ - 👉 [Fisherman](http://9gag.com/gag/a4P3EWA)<!-- MEMES:END -->
 
 ---
 
