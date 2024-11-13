@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Return to sender](http://9gag.com/gag/aMVxBMP)
- - ⏩ [Amen! &lpar;cosplay by Neneko0814&rpar;](http://9gag.com/gag/axy9v1K)
- - 👉 [This accident was real and everybody just ran with it](http://9gag.com/gag/a9ynv1Z)<!-- MEMES:END -->
+ - 💣 [Crypto phone for crypto bros](http://9gag.com/gag/agmAOYw)
+ - ⏩ [Return to sender](http://9gag.com/gag/aMVxBMP)
+ - 👉 [Thanks God for the gravity](http://9gag.com/gag/apRGDbp)<!-- MEMES:END -->
 
 ---
 
