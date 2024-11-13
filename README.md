@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How Italy became an unexpected spyware hub, going under the radar by specializing in cheaper tools, as authorities carry out thousands of operations since 2021 &lpar;Suzanne Smalley/The Record&rpar;](http://www.techmeme.com/241113/p18#a241113p18)
- - [Charles Sporck, an early champion of globalization who moved some of Fairchild&#39;s chip assembly operations from the US to Hong Kong in the 1960s, died at 96 &lpar;James R. Hagerty/Wall Street Journal&rpar;](http://www.techmeme.com/241113/p17#a241113p17)
- - [Tencent reports Q3 revenue up 8% YoY to ~$23.9B and net income up 20% YoY to ~$7.4B, vs. ~$6.2B est., buoyed by Dungeon &amp; Fighter Mobile and Black Myth: Wukong &lpar;Zheping Huang/Bloomberg&rpar;](http://www.techmeme.com/241113/p16#a241113p16)<!-- TECH:END -->
+ - [There will never be an Apple Ring, says rival with crossed fingers](https://appleinsider.com/articles/24/11/13/there-will-never-be-an-apple-ring-says-rival-with-crossed-fingers?utm_medium=rss)
+ - [How advanced content caching settings on the Mac works](https://appleinsider.com/inside/macos/tips/how-advanced-content-caching-settings-on-the-mac-works?utm_medium=rss)
+ - [PSA: Google will kill your Timeline history soon, but you still have time to save it](https://www.androidauthority.com/google-maps-timeline-deadline-3499115/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
