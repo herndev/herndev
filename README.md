@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s M4 Max 14-inch MacBook Pro is on sale for $2,999 &amp; in stock](https://appleinsider.com/articles/24/11/13/apples-m4-max-14-inch-macbook-pro-is-on-sale-for-2999-in-stock?utm_medium=rss)
- - [Xbox chief confirms handheld console is still a few years away](https://www.androidauthority.com/xbox-handheld-few-years-away-3499168/)
- - [An interview with Microsoft Gaming CEO Phil Spencer, who says he won&#39;t rule out any Xbox exclusive coming to PlayStation, discusses potential M&amp;A, and more &lpar;Dina Bass/Bloomberg&rpar;](http://www.techmeme.com/241113/p26#a241113p26)<!-- TECH:END -->
+ - [Just Eat is selling Grubhub to Marc Lore’s Wonder for $650M](https://www.theverge.com/2024/11/13/24295454/grubhub-wonder-acquisition-just-eat-food-delivery-app)
+ - [Bluesky crosses the 15 million user mark](https://www.theverge.com/2024/11/13/24295484/bluesky-15-million-users-social-media-x-musk)
+ - [Researchers Give Animal Cells the Ability to Photosynthesize for the First Time](https://www.wired.com/story/researchers-give-animal-cells-the-ability-to-photosynthesize-for-the-first-time/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
