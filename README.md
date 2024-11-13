@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The next U.S. Secretary of State](http://9gag.com/gag/ajP9PrR)
- - ⏩ [A simple sorry in a white society](http://9gag.com/gag/aD247GG)
- - 👉 [Number one was the best](http://9gag.com/gag/adBVBpV)<!-- MEMES:END -->
+ - 💣 [A simple sorry in a white society](http://9gag.com/gag/aD247GG)
+ - ⏩ [Number one was the best](http://9gag.com/gag/adBVBpV)
+ - 👉 [All it matters is they had a great time.](http://9gag.com/gag/aZZyZ43)<!-- MEMES:END -->
 
 ---
 
