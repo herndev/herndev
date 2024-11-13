@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Modern Times Group agrees to acquire Tel Aviv-based mobile game maker Plarium for $620M and up to $200M more if Plarium hits financial targets over 2025 to 2028 &lpar;Dean Takahashi/VentureBeat&rpar;](http://www.techmeme.com/241112/p35#a241112p35)
- - [PointFive, which helps companies track usage across multiple clouds, raised a $20M Series A led by Salesforce Ventures, after raising a $16M seed in June 2024 &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/241112/p34#a241112p34)
- - [SoftBank&#39;s telecom unit plans to build an AI supercomputer in Japan using Nvidia&#39;s DGX B200 platform, and a follow-up effort featuring the Grace Blackwell chip &lpar;Bloomberg&rpar;](http://www.techmeme.com/241112/p33#a241112p33)<!-- TECH:END -->
+ - [Google Home’s new Member Access feature lets you share your smart home with those you trust](https://www.androidauthority.com/google-home-member-access-3499016/)
+ - [Vega, which is developing AltOS, a platform to help alternative asset managers further their distributions, raised a $20M Series A led by Apollo and Motive &lpar;Irene Garcia Perez/Bloomberg&rpar;](http://www.techmeme.com/241112/p36#a241112p36)
+ - [How advanced content caching settings on the Mac works](https://appleinsider.com/inside/macos/tips/how-advanced-content-caching-settings-on-the-mac-works?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
