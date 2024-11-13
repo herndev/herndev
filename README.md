@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Destiny 2&#39;s next act will bring Street Fighter 6 cosmetics and a 300% buff to roaming supers](https://www.pcgamer.com/games/third-person-shooter/destiny-2s-next-act-will-bring-street-fighter-6-cosmetics-and-a-300-percent-buff-to-roaming-supers)
  - [&#39;Enjoy what you&#39;ve got now&#39;: Blizzard has its sights on Diablo 4&#39;s overpowered new class but promises not to pull the nerf trigger until next season](https://www.pcgamer.com/games/rpg/enjoy-what-youve-got-now-blizzard-has-its-sights-on-diablo-4s-overpowered-new-class-but-promises-not-to-pull-nerf-trigger-until-next-season)
- - [Squid Game Creator Lost Teeth And Had Nightmares Because Of The Show](https://kotaku.com/netflix-squid-game-creator-teeth-season-2-1851696883)
- - [&#39;Explain yourself&#39;: Old School RuneScape births a new meme as bug-exploiting scoundrels lay waste to unsuspecting F2P players with gear that shouldn&#39;t exist](https://www.pcgamer.com/games/mmo/explain-yourself-old-school-runescape-births-a-new-meme-as-bug-exploiting-scoundrels-lay-waste-to-unsuspecting-f2p-players-with-gear-that-shouldnt-exist)<!-- GAME:END -->
+ - [Squid Game Creator Lost Teeth And Had Nightmares Because Of The Show](https://kotaku.com/netflix-squid-game-creator-teeth-season-2-1851696883)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
