@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [YouTube is testing a new feature that will let a small group of creators use AI to &quot;restyle&quot; licensed songs for their Shorts through prompts &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/241113/p8#a241113p8)
- - [These Google Home, Nest camera AI features are actually useful and coming soon](https://www.androidauthority.com/google-home-nest-cameras-gemini-ai-features-3498241/)
- - [A look at Qwen2.5-Coder-32B-Instruct, which Alibaba claims can match GPT-4o coding capabilities and is small enough to run on a MacBook Pro M2 with 64GB of RAM &lpar;Simon Willison/Simon Willison&#39;s Weblog&rpar;](http://www.techmeme.com/241113/p7#a241113p7)<!-- TECH:END -->
+ - [Google DeepMind releases AlphaFold 3&#39;s source code and model weights for academic use, which could accelerate scientific discovery and drug development &lpar;Michael Nu&amp;ntilde;ez/VentureBeat&rpar;](http://www.techmeme.com/241113/p12#a241113p12)
+ - [Amazon is shutting down its free video streaming service, but there’s good news](https://www.androidauthority.com/amazon-freevee-shutting-down-3499042/)
+ - [Media executives say that some brands were preparing to advertise on X once again, as Elon Musk was likely to gain an influential Trump administration role &lpar;Financial Times&rpar;](http://www.techmeme.com/241113/p11#a241113p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
