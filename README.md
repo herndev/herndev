@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Firework is a spooky, hidden horror gem from China, and if you don&#39;t have room for another 100+ hour game then does it have an offer for you](https://www.pcgamer.com/games/horror/firework-is-a-spooky-hidden-horror-gem-from-china-and-if-you-dont-have-room-for-another-100-hour-game-then-does-it-have-an-offer-for-you)
- - [Webfishing dev thought &#39;like 100 people would play it ever&#39;, thanks the 24,000+ people who flooded in to play their &#39;silly project&#39;, and hints at future updates](https://www.pcgamer.com/games/sports/webfishing-dev-thought-like-100-people-would-play-it-ever-thanks-the-24-000-people-who-flooded-in-to-play-their-silly-project-and-hints-at-future-updates)
- - [Lego Horizon Adventures: The Kotaku Review](https://kotaku.com/lego-horizon-adventures-review-aloy-ps5-switch-pc-1851696761)<!-- GAME:END -->
+ - [Secret Level&#39;s producer can&#39;t fathom why Concord ended up failing: &#39;There was no nicer, more invested group of developers than the team on Concord&#39;](https://www.pcgamer.com/games/fps/secret-levels-producer-cant-fathom-why-concord-ended-up-failing-there-was-no-nicer-more-invested-group-of-developers-than-the-team-on-concord)
+ - [Everholm, a &#39;cosy&#39; farming game where not all is as it seems, is out now](https://www.pcgamer.com/games/everholm-a-cosy-farming-game-where-not-all-is-as-it-seems-is-out-now)
+ - [Dragon Age: The Veilguard&#39;s leap forward in trans inclusion comes from a heartfelt place, but its problems left me feeling frustrated, angry, and tired](https://www.pcgamer.com/games/dragon-age/dragon-age-the-veilguards-leap-forward-in-trans-inclusion-comes-from-a-heartfelt-place-but-its-problems-left-me-feeling-frustrated-angry-and-tired)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
