@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [iBuyPower RDY Y40 Valorant VCTA R003 review](https://www.pcgamer.com/hardware/gaming-pcs/ibuypower-rdy-y40-valorant-vcta-r003-review)
- - [Many Criterion Collection films are 50% off through Black Friday](https://www.polygon.com/sales-guide/477911/criterion-collection-movies-amazon-barnes-noble-deal-black-friday)
- - [Breaking: Nintendo Says Not To Let Your Pets Piss On Your Switch](https://kotaku.com/nintendo-switch-2-pet-drool-pee-advice-1851697169)<!-- GAME:END -->
+ - [Elder Scrolls Online Update 44 Brings Updated Battlegrounds, New Companions, and More](https://www.elderscrollsonline.com/en-us/news/post/66869#new_tab)
+ - [PlayStation Plus Game Catalog for November: Grand Theft Auto V, Dying Light 2: Stay Human, Like a Dragon: Ishin, and more](https://blog.playstation.com/2024/11/13/playstation-plus-game-catalog-for-november-grand-theft-auto-v-dying-light-2-stay-human-like-a-dragon-ishin-and-more/)
+ - [Xbox Introduces New AI Solutions to Protect Players from Unwanted Messages in its Multifaceted Approach to Safety](https://news.xbox.com/en-us/2024/11/13/xbox-transparency-report-new-ai-solutions/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
