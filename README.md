@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [What\u00b4s up with that, ladies...](http://9gag.com/gag/avyzQvM)
- - ⏩ [A proud father](http://9gag.com/gag/abAGgVB)
- - 👉 [Hidden airplane crew quarters](http://9gag.com/gag/axy9yVn)<!-- MEMES:END -->
+ - 💣 [Don&#39;t forget your friends](http://9gag.com/gag/aGydLwG)
+ - ⏩ [When the end is near!](http://9gag.com/gag/amovoQo)
+ - 👉 [This in 2003](http://9gag.com/gag/aQzdzpr)<!-- MEMES:END -->
 
 ---
 
