@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [What\u00b4s up with that, ladies...](http://9gag.com/gag/avyzQvM)
- - ⏩ [Use to be ours](http://9gag.com/gag/aYQyVm2)
- - 👉 [My cup of tea shirt](http://9gag.com/gag/a2vW1ow)<!-- MEMES:END -->
+ - 💣 [Legend says they are still waiting](http://9gag.com/gag/azxmMZx)
+ - ⏩ [Effective fly repellent](http://9gag.com/gag/amovA72)
+ - 👉 [The border Chad](http://9gag.com/gag/a9ynqj0)<!-- MEMES:END -->
 
 ---
 
