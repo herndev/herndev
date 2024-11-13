@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [There will never be an Apple Ring, says rival with crossed fingers](https://appleinsider.com/articles/24/11/13/there-will-never-be-an-apple-ring-says-rival-with-crossed-fingers?utm_medium=rss)
- - [How advanced content caching settings on the Mac works](https://appleinsider.com/inside/macos/tips/how-advanced-content-caching-settings-on-the-mac-works?utm_medium=rss)
- - [PSA: Google will kill your Timeline history soon, but you still have time to save it](https://www.androidauthority.com/google-maps-timeline-deadline-3499115/)<!-- TECH:END -->
+ - [The Polestar 3 with rear-wheel drive and 350 miles of range will start at $68,900](https://www.theverge.com/2024/11/13/24295069/polestar-3-rwd-price-range-tax-credit)
+ - [Spotify’s latest UI update fixes one problem but creates another](https://www.androidauthority.com/spotify-queue-update-fixes-problem-3499145/)
+ - [Amazon recently told staff with disabilities that it was adding a more rigorous vetting process to approve working from home, as it moves to five days per week &lpar;Spencer Soper/Bloomberg&rpar;](http://www.techmeme.com/241113/p23#a241113p23)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
