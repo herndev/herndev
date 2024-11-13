@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The way Mattel has been nerfing Hot Wheels](http://9gag.com/gag/aXPgMjz)
- - ⏩ [This stone breaking down into smaller pieces.](http://9gag.com/gag/aGydEMz)
- - 👉 [Math is hard](http://9gag.com/gag/aqynyXM)<!-- MEMES:END -->
+ - 💣 [Return to sender](http://9gag.com/gag/aMVxBMP)
+ - ⏩ [Amen! &lpar;cosplay by Neneko0814&rpar;](http://9gag.com/gag/axy9v1K)
+ - 👉 [This accident was real and everybody just ran with it](http://9gag.com/gag/a9ynv1Z)<!-- MEMES:END -->
 
 ---
 
