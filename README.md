@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [National Guard Discord leaker sentenced to 15 years in prison](https://www.theverge.com/2024/11/12/24295060/national-guard-discord-leaker-jack-teixeira-sentencing)
- - [Google’s AI flood forecasting can now help 700 million people stay dry](https://www.androidauthority.com/google-flood-detection-3498988/)
- - [Amazon is shutting down Freevee, its free, ad-supported streaming service launched in 2019 under the IMDb brand, and plans to move the content to Prime Video &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/241112/p29#a241112p29)<!-- TECH:END -->
+ - [Donald Trump Taps Elon Musk, Vivek Ramaswamy to Lead Nonexistent Department of Government Efficiency](https://www.wired.com/story/donald-trump-elon-musk-department-of-government-efficiency/)
+ - [Trump says Elon Musk will lead ‘DOGE’ office to cut ‘wasteful’ government spending](https://www.theverge.com/2024/11/12/24295165/trump-elon-musk-doge-cut-government-spending)
+ - [FrontierMath, a new benchmark for evaluating AI model&#39;s advanced mathematical reasoning, shows current AI systems solve less than 2% of its challenging problems &lpar;Michael Nu&amp;ntilde;ez/VentureBeat&rpar;](http://www.techmeme.com/241112/p32#a241112p32)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
