@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Effective fly repellent](http://9gag.com/gag/amovA72)
- - ⏩ [What else did she expect?](http://9gag.com/gag/aD24Dp7)
+ - 💣 [Hidden airplane crew quarters](http://9gag.com/gag/axy9yVn)
+ - ⏩ [This stone breaking down into smaller pieces.](http://9gag.com/gag/aGydEMz)
  - 👉 [My cup of tea shirt](http://9gag.com/gag/a2vW1ow)<!-- MEMES:END -->
 
 ---
