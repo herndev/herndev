@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google DeepMind releases AlphaFold 3&#39;s source code and model weights for academic use, which could accelerate scientific discovery and drug development &lpar;Michael Nu&amp;ntilde;ez/VentureBeat&rpar;](http://www.techmeme.com/241113/p12#a241113p12)
- - [Amazon is shutting down its free video streaming service, but there’s good news](https://www.androidauthority.com/amazon-freevee-shutting-down-3499042/)
- - [Media executives say that some brands were preparing to advertise on X once again, as Elon Musk was likely to gain an influential Trump administration role &lpar;Financial Times&rpar;](http://www.techmeme.com/241113/p11#a241113p11)<!-- TECH:END -->
+ - [CBRE: tech companies leased 9.9M square feet of US office space in Q3, up from ~8M in Q2 and the highest since Q4 2021, as demand grows from new AI companies &lpar;Peter Grant/Wall Street Journal&rpar;](http://www.techmeme.com/241113/p13#a241113p13)
+ - [Android 15 QPR2 Beta 1 brings stronger haptics that’s got the crowd divided](https://www.androidauthority.com/android-15-qpr2-beta-1-stronger-haptics-3499035/)
+ - [From AV1 to HDR support, the Steam Link Android app just got a huge update](https://www.androidauthority.com/steam-link-android-app-update-3499056/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
