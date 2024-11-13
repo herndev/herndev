@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Ahhh I remember this money dropping prank](http://9gag.com/gag/a5QWE4g)
- - ⏩ [A proud father](http://9gag.com/gag/abAGgVB)
- - 👉 [This stone breaking down into smaller pieces.](http://9gag.com/gag/aGydEMz)<!-- MEMES:END -->
+ - 💣 [What\u00b4s up with that, ladies...](http://9gag.com/gag/avyzQvM)
+ - ⏩ [Use to be ours](http://9gag.com/gag/aYQyVm2)
+ - 👉 [My cup of tea shirt](http://9gag.com/gag/a2vW1ow)<!-- MEMES:END -->
 
 ---
 
