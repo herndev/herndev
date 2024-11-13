@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Don&#39;t forget your friends](http://9gag.com/gag/aGydLwG)
- - ⏩ [When the end is near!](http://9gag.com/gag/amovoQo)
- - 👉 [This in 2003](http://9gag.com/gag/aQzdzpr)<!-- MEMES:END -->
+ - 💣 [Two different Walter white](http://9gag.com/gag/a5QW6xO)
+ - ⏩ [One puzzle no 90s kid was able to solve](http://9gag.com/gag/amovAdo)
+ - 👉 [CANADA what is happening to you?!!!](http://9gag.com/gag/aO87ep2)<!-- MEMES:END -->
 
 ---
 
