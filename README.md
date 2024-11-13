@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Just Eat is selling Grubhub to Marc Lore’s Wonder for $650M](https://www.theverge.com/2024/11/13/24295454/grubhub-wonder-acquisition-just-eat-food-delivery-app)
- - [Bluesky crosses the 15 million user mark](https://www.theverge.com/2024/11/13/24295484/bluesky-15-million-users-social-media-x-musk)
- - [Researchers Give Animal Cells the Ability to Photosynthesize for the First Time](https://www.wired.com/story/researchers-give-animal-cells-the-ability-to-photosynthesize-for-the-first-time/)<!-- TECH:END -->
+ - [Tesla Cybertruck hit with sixth recall this year, this time over a bad inverter](https://www.theverge.com/2024/11/13/24295539/tesla-cybertruck-recall-inverter-loss-propulsion)
+ - [Sources: execs at xAI rivals were alarmed by how fast Elon Musk set up the 100K GPU cluster Colossus; a source says Sam Altman argued with Microsoft over it &lpar;Anissa Gardizy/The Information&rpar;](http://www.techmeme.com/241113/p33#a241113p33)
+ - [Final Fantasy games are coming to Apple Arcade](https://www.theverge.com/2024/11/13/24295537/final-fantasy-4-apple-arcade)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
