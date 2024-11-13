@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Humanity is still alive !](http://9gag.com/gag/awyBy9D)
- - ⏩ [He likes his mouth pounded only in private ..](http://9gag.com/gag/a6ZKEbe)
- - 👉 [When the end is near!](http://9gag.com/gag/amovoQo)<!-- MEMES:END -->
+ - 💣 [Ahhh I remember this money dropping prank](http://9gag.com/gag/a5QWE4g)
+ - ⏩ [A proud father](http://9gag.com/gag/abAGgVB)
+ - 👉 [This stone breaking down into smaller pieces.](http://9gag.com/gag/aGydEMz)<!-- MEMES:END -->
 
 ---
 
