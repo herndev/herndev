@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [This Gothic-inspired RPG indie is shaping up to be my favourite hidden gem of 2024](https://www.pcgamer.com/games/rpg/this-gothic-inspired-rpg-indie-is-shaping-up-to-be-my-favourite-hidden-gem-of-2024)
  - [The geri-action movie Thelma lets 94-year-old June Squibb play the Tom Cruise game](https://www.polygon.com/24164155/thelma-movie-preview-action-comedy)
- - [Destiny 2&#39;s next act will bring Street Fighter 6 cosmetics and a 300% buff to roaming supers](https://www.pcgamer.com/games/third-person-shooter/destiny-2s-next-act-will-bring-street-fighter-6-cosmetics-and-a-300-percent-buff-to-roaming-supers)
- - [&#39;Enjoy what you&#39;ve got now&#39;: Blizzard has its sights on Diablo 4&#39;s overpowered new class but promises not to pull the nerf trigger until next season](https://www.pcgamer.com/games/rpg/enjoy-what-youve-got-now-blizzard-has-its-sights-on-diablo-4s-overpowered-new-class-but-promises-not-to-pull-nerf-trigger-until-next-season)<!-- GAME:END -->
+ - [Destiny 2&#39;s next act will bring Street Fighter 6 cosmetics and a 300% buff to roaming supers](https://www.pcgamer.com/games/third-person-shooter/destiny-2s-next-act-will-bring-street-fighter-6-cosmetics-and-a-300-percent-buff-to-roaming-supers)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
