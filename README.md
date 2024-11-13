@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tesla Cybertruck hit with sixth recall this year, this time over a bad inverter](https://www.theverge.com/2024/11/13/24295539/tesla-cybertruck-recall-inverter-loss-propulsion)
- - [Sources: execs at xAI rivals were alarmed by how fast Elon Musk set up the 100K GPU cluster Colossus; a source says Sam Altman argued with Microsoft over it &lpar;Anissa Gardizy/The Information&rpar;](http://www.techmeme.com/241113/p33#a241113p33)
- - [Final Fantasy games are coming to Apple Arcade](https://www.theverge.com/2024/11/13/24295537/final-fantasy-4-apple-arcade)<!-- TECH:END -->
+ - [The best entertainment of 2024](https://www.theverge.com/entertainment/24090208/best-entertainment-2024-games-film-tv-streaming)
+ - [The Pixel Watch isn’t getting another update until spring 2025](https://www.androidauthority.com/next-pixel-watch-update-3499269/)
+ - [These are the passwords you definitely shouldn’t be using](https://www.theverge.com/2024/11/13/24295543/most-common-passwords-list-2024)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
