@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [After ordering some shrimp, customer returned the plate like this](http://9gag.com/gag/awyByx1)
+ - 💣 [A proud father](http://9gag.com/gag/abAGgVB)
  - ⏩ [Chinese retail chain has swapped traditional mannequins for real women walking on treadmills.](http://9gag.com/gag/aqynyNP)
- - 👉 [Fisherman](http://9gag.com/gag/a4P3EWA)<!-- MEMES:END -->
+ - 👉 [After ordering some shrimp, customer returned the plate like this](http://9gag.com/gag/awyByx1)<!-- MEMES:END -->
 
 ---
 
