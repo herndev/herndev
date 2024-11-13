@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [A proud father](http://9gag.com/gag/abAGgVB)
- - ⏩ [Chinese retail chain has swapped traditional mannequins for real women walking on treadmills.](http://9gag.com/gag/aqynyNP)
- - 👉 [After ordering some shrimp, customer returned the plate like this](http://9gag.com/gag/awyByx1)<!-- MEMES:END -->
+ - 💣 [Effective fly repellent](http://9gag.com/gag/amovA72)
+ - ⏩ [Reportedly Kamala Harris campaign paid Beyonce 10 million dollars to do a 2 minute speech.](http://9gag.com/gag/aO872o6)
+ - 👉 [A proud father](http://9gag.com/gag/abAGgVB)<!-- MEMES:END -->
 
 ---
 
