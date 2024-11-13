@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Docs and sources: Amazon has discontinued a secretive effort to develop an at-home fertility tracker, which was part of its moonshot incubator Grand Challenge &lpar;Annie Palmer/CNBC&rpar;](http://www.techmeme.com/241113/p39#a241113p39)
- - [AMD says it will lay off ~4% of its global staff to align &quot;resources with our largest growth opportunities&quot;; SEC filing: AMD had 26,000 employees at 2023&#39;s end &lpar;Kif Leswing/CNBC&rpar;](http://www.techmeme.com/241113/p38#a241113p38)
- - [Meta must face FTC trial that could separate Instagram and WhatsApp](https://www.theverge.com/2024/11/13/24295637/meta-must-face-ftc-antitrust-trial-instagram-whatsapp)<!-- TECH:END -->
+ - [If You&#39;re Thinking About Deleting X/Twitter, Here&#39;s How To Do It](https://www.cnet.com/tech/if-youre-thinking-about-deleting-xtwitter-heres-how-to-do-it/#ftag=CAD590a51e)
+ - [Save 44% on the Yeedi M12 Robot Vacuum and Mop With This Early Black Friday Deal at Amazon](https://www.cnet.com/deals/save-44-on-the-yeedi-m12-robot-vacuum-and-mop-with-this-early-black-friday-deal-at-amazon/#ftag=CAD590a51e)
+ - [Add Some Color to Your House With These Refurbished Philips Hue Smart Lights](https://www.cnet.com/deals/add-some-color-to-your-house-with-these-refurbished-philips-hue-smart-lights/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
