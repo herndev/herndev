@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google rolls out Gemini app to US iPhone users, here’s what it looks like](https://www.androidauthority.com/google-rolls-out-gemini-app-us-iphone-3499531/)
- - [Google isn’t done with its Wallet/Pay identity crisis &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-wallet-google-pay-branding-apk-teardown-3499504/)
- - [Top Canon Promo Code and Deals for November 2024](https://www.wired.com/story/canon-promo-code/)<!-- TECH:END -->
+ - [How the rise of automation in manufacturing across China, the largest market for industrial robots, is forcing the country&#39;s manufacturing workforce to adapt &lpar;Eleanor Olcott/Financial Times&rpar;](http://www.techmeme.com/241114/p13#a241114p13)
+ - [How Grab built GrabMaps by using data from drivers, users, and merchants in 500+ Southeast Asian cities, adding 800,000+ km of missing roads to OpenStreetMap &lpar;Michelle Anindya/Rest of World&rpar;](http://www.techmeme.com/241114/p12#a241114p12)
+ - [London-based Tessl, which is building an AI to write and maintain code, raised $125M across seed and Series A, sources say at a $500M+ post-money valuation &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/241114/p11#a241114p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
