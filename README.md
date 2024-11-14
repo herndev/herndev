@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Dragon Quest III HD-2D Remake: How Square Enix Recreated a Modern Classic](https://news.xbox.com/en-us/2024/11/14/dragon-quest-iii-hd-2d-remake-how-square-enix-recreated-a-modern-classic/)
- - [Teenage Mutant Ninja Turtles: Splintered Fate review](https://www.pcgamer.com/games/roguelike/teenage-mutant-ninja-turtles-splintered-fate-review)
- - [Infinity Nikki is releasing next month in all its dress-up Genshin Impact glory](https://www.pcgamer.com/games/rpg/infinity-nikki-is-releasing-next-month-in-all-its-dress-up-genshin-impact-glory)<!-- GAME:END -->
+ - [All Astro Bot speedrun DLC levels and bots](https://www.polygon.com/astro-bot-guides/466172/speedrun-dlc-levels-update-time-schedule)
+ - [Avowed Arrives February 18 – Pre-order the Premium Edition to Start Your Adventure Early](https://news.xbox.com/en-us/2024/11/14/avowed-release-date-pre-order/)
+ - [&#39;Forget Celebrations&#39;: This War of Mine creators say their &#39;mission to shed light on the civilian cost of war is far from over&#39; as they announce new DLC for its 10th anniversary](https://www.pcgamer.com/games/survival-crafting/forget-celebrations-this-war-of-mine-creators-say-their-mission-to-shed-light-on-the-civilian-cost-of-war-is-far-from-over-as-they-announce-new-dlc-for-its-10th-anniversary)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
