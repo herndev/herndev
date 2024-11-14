@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [5 nights at liquor store](http://9gag.com/gag/a0eN6bL)
- - ⏩ [Artificial Intelligence](http://9gag.com/gag/amovopv)
- - 👉 [Letter seal](http://9gag.com/gag/azxmKrb)<!-- MEMES:END -->
+ - 💣 [Democrats Voters are Shifting towards Trudeau](http://9gag.com/gag/a87G6nY)
+ - ⏩ [Walking through Manhattan after the election with MAGA hat on](http://9gag.com/gag/ajP9OK1)
+ - 👉 [Wow](http://9gag.com/gag/aoyP493)<!-- MEMES:END -->
 
 ---
 
