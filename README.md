@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple updates Logic Pro with new sounds and search features](https://www.theverge.com/2024/11/13/24295719/apple-logic-pro-update-quantec-room-simulator)
- - [Apple launches Final Cut Pro 11 with even more AI features](https://www.theverge.com/2024/11/13/24295486/final-cut-pro-11-apple-announced-ai-new-features)
- - [DeepL, which was valued at $2B in May 2024, debuts DeepL Voice to give users real-time text translations of others speaking in one of 13 different languages &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/241113/p46#a241113p46)<!-- TECH:END -->
+ - [Apple releases Final Cut Pro 11, along with updates to Logic Pro for Mac](https://appleinsider.com/articles/24/11/13/apple-releases-final-cut-pro-11-along-with-updates-to-logic-pro-for-mac?utm_medium=rss)
+ - [Polymarket says the FBI seized CEO Shayne Coplan&#39;s phone and electronics; source: the DOJ is investigating Polymarket for allegedly accepting bets from US users &lpar;Bloomberg&rpar;](http://www.techmeme.com/241113/p49#a241113p49)
+ - [How to Get Started on Bluesky](https://www.wired.com/story/how-to-get-started-on-bluesky/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
