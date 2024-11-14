@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [How to use Farming Simulator 25 console commands to give yourself infinite money](https://www.pcgamer.com/games/sim/farming-simulator-25-money-cheat)
  - [Call of Duty: Black Ops 6 and Call of Duty: Warzone Season 01 Now Live](https://news.xbox.com/en-us/2024/11/14/call-of-duty-black-ops-6-season-01-now-live/)
- - [Lady Gaga Appearing In Wednesday Season 2 Is A Match Made In Weirdo Heaven](https://kotaku.com/lady-gaga-wednesday-season-2-netflix-1851698596)
- - [Apple&#39;s Video Game Industry Satire Gets Season 4 Release Date And Spin-Off](https://kotaku.com/apple-tv-mythic-quest-rob-mcelhenney-season-4-date-1851698983)<!-- GAME:END -->
+ - [Lady Gaga Appearing In Wednesday Season 2 Is A Match Made In Weirdo Heaven](https://kotaku.com/lady-gaga-wednesday-season-2-netflix-1851698596)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
