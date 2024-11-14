@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google plans to stop showing political ads to users in the EU in 2025 due to uncertainties around new transparency rules coming into effect in October 2025 &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/241114/p33#a241114p33)
- - [Bluesky has been acting up today](https://www.theverge.com/2024/11/14/24296537/bluesky-acting-up-outage-down)
- - [PSA: Google will kill your Timeline history soon, but you still have time to save it &lpar;Update: Deletion deadline details&rpar;](https://www.androidauthority.com/google-maps-timeline-deadline-3499115/)<!-- TECH:END -->
+ - [Senate Democrats Are Running Out of Time to Pass a Shield Law to Protect Journalism](https://www.wired.com/story/press-act-journalism-shield-law-senate-democrats-trump/)
+ - [OpenAI says the ChatGPT desktop app for MacOS can now read code in some developer-focused apps, including VS Code, Xcode, TextEdit, and Terminal &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/241114/p36#a241114p36)
+ - [CFPB is reportedly trying to put Google under bank-like supervision](https://www.theverge.com/2024/11/14/24296500/cfpb-google-federal-supervision)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
