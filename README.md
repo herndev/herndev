@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Researchers detail RoboPAIR, an algorithm that is designed to induce robots, relying on LLMs for their inputs, to ignore models&#39; safeguards without exception &lpar;Charles Q. Choi/IEEE Spectrum&rpar;](http://www.techmeme.com/241114/p6#a241114p6)
- - [Nvidia says Jetson Thor, a computer first unveiled in March 2024 and designed for testing humanoid robot software, will be available in the first half of 2025 &lpar;Yang Jie/Wall Street Journal&rpar;](http://www.techmeme.com/241114/p5#a241114p5)
- - [Sources: the UK Treasury is planning to introduce legislation on stablecoins and staking; the FCA says it plans to publish a crypto regulatory roadmap &quot;shortly&quot; &lpar;Bloomberg&rpar;](http://www.techmeme.com/241114/p4#a241114p4)<!-- TECH:END -->
+ - [Q&amp;A with Spotify Co-President and CTO Gustav S&amp;ouml;derstr&amp;ouml;m on AI-generated music, NotebookLM podcasts, AI recommendations, improving discoverability, and more &lpar;Alex Kantrowitz/Big Technology&rpar;](http://www.techmeme.com/241114/p9#a241114p9)
+ - [Foxconn reports Q3 revenue up 20% YoY to a record ~$57.01B, net income of ~$1.5B vs. ~$1.408B est., and expects half of its server orders in 2025 to be for AI &lpar;Jane Lanhee Lee/Bloomberg&rpar;](http://www.techmeme.com/241114/p8#a241114p8)
+ - [Sephora Promo Code: 10% Off In November 2024](https://www.wired.com/story/sephora-promo-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
