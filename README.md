@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [All Astro Bot speedrun DLC levels and bots](https://www.polygon.com/astro-bot-guides/466172/speedrun-dlc-levels-update-time-schedule)
- - [Avowed Arrives February 18 – Pre-order the Premium Edition to Start Your Adventure Early](https://news.xbox.com/en-us/2024/11/14/avowed-release-date-pre-order/)
- - [&#39;Forget Celebrations&#39;: This War of Mine creators say their &#39;mission to shed light on the civilian cost of war is far from over&#39; as they announce new DLC for its 10th anniversary](https://www.pcgamer.com/games/survival-crafting/forget-celebrations-this-war-of-mine-creators-say-their-mission-to-shed-light-on-the-civilian-cost-of-war-is-far-from-over-as-they-announce-new-dlc-for-its-10th-anniversary)<!-- GAME:END -->
+ - [Finally, Dimension 20 fans can Never Stop Blowing Up at their own home tables](https://www.polygon.com/tabletop-games/478584/dimension-20-never-stop-blowing-up-rules-system-official)
+ - [Everything We Learned About The Next Big Trails RPG](https://kotaku.com/trails-daybreak-2-ai-translation-combat-minigames-cast-1851694303)
+ - [Here are the nominees for PC Gaming Show: Most Wanted](https://www.pcgamer.com/pc-gaming-show-most-wanted-nominees)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
