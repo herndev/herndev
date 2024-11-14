@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How Trump’s second term could be bad for EVs — but great for Tesla](https://www.theverge.com/24296301/elon-musk-donald-trump-tesla-evs-climate-change-auto-industry-tariffs-decoder-podcast)
- - [The Verge’s 2024 holiday gift guide for tinkerers](https://www.theverge.com/24224047/best-tool-gift-ideas-holiday-2024-handyperson-builders-tinkerers)
- - [Hack upgrades Mac Studio internal SSD for less than half of Apple&#39;s prices](https://appleinsider.com/articles/24/11/14/hack-upgrades-mac-studio-internal-ssd-for-less-than-half-of-apples-prices?utm_medium=rss)<!-- TECH:END -->
+ - [Echoing TikTok&#39;s gifting, YouTube is rolling out &quot;jewels&quot; that users can buy to support creators during livestreams, for those in the YouTube Partner Program &lpar;Umar Shakir/The Verge&rpar;](http://www.techmeme.com/241114/p28#a241114p28)
+ - [Madrid&#39;s fifth Apple Store opens November 28](https://appleinsider.com/articles/24/11/14/madrids-fifth-apple-store-opens-november-28?utm_medium=rss)
+ - [Pro-Harris TikTok felt safe in an algorithmic bubble — until election day](https://www.theverge.com/2024/11/14/24295814/kamala-harris-tiktok-filter-bubble-donald-trump-algorithm)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
