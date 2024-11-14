@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How advanced content caching settings on the Mac works](https://appleinsider.com/inside/macos/tips/how-advanced-content-caching-settings-on-the-mac-works?utm_medium=rss)
- - [Chinese autonomous driving company Pony.ai aims to raise $195M in its US IPO, targeting a valuation of up to $4.48B &lpar;Arasu Kannagi Basil/Reuters&rpar;](http://www.techmeme.com/241114/p40#a241114p40)
- - [TikTok plugs Getty Images into its AI-generated ads and avatars](https://www.theverge.com/2024/11/14/24296636/tiktok-ai-ads-getty-images-content)<!-- TECH:END -->
+ - [An orca and bigfoot highlight the preview for 2025’s emoji lineup](https://www.androidauthority.com/emoji-17-preview-3499815/)
+ - [Today’s best deals on stocking stuffers: AirTag, fast SD card, powerful charger](https://www.androidauthority.com/apple-airtag-sandisk-sd-card-anker-prime-charger-deal-3499784/)
+ - [Add Some Extra Spice to Your Christmas Tree This Season With Smart Lights](https://www.cnet.com/deals/add-some-extra-spice-to-your-christmas-tree-this-season-with-smart-lights/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
