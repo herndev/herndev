@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle answer for Thursday, November 14](https://www.pcgamer.com/games/puzzle/wordle-answer-today-november-14-2024)
  - [40 years later, I finally beat the arcade game that financially destroyed me as a child](https://www.pcgamer.com/games/action/40-years-later-i-finally-beat-the-arcade-game-that-financially-destroyed-me-as-a-child)
- - [The First Descendant announces &#39;important news&#39;: it&#39;s getting official &#39;jiggle physics,&#39; which it somehow didn&#39;t already have](https://www.pcgamer.com/games/third-person-shooter/the-first-descendant-announces-important-news-its-getting-official-jiggle-physics-which-it-somehow-didnt-already-have)
- - [Pokémon TCG Pocket will get limited trading in 2025, but new booster packs this year](https://www.polygon.com/gaming/478922/pokemon-tcg-pocket-trading-new-booster-packs-coming)<!-- GAME:END -->
+ - [The First Descendant announces &#39;important news&#39;: it&#39;s getting official &#39;jiggle physics,&#39; which it somehow didn&#39;t already have](https://www.pcgamer.com/games/third-person-shooter/the-first-descendant-announces-important-news-its-getting-official-jiggle-physics-which-it-somehow-didnt-already-have)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
