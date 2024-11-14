@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Return to sender](http://9gag.com/gag/aMVxBMP)
- - ⏩ [This will cause some frixion](http://9gag.com/gag/a87G0yd)
- - 👉 [Congratulations! You&#39;ve made it halfway through the week. Here, have something to cheer you up.](http://9gag.com/gag/aAye6oE)<!-- MEMES:END -->
+ - 💣 [Letter seal](http://9gag.com/gag/azxmKrb)
+ - ⏩ [This accident was real and everybody just ran with it](http://9gag.com/gag/a9ynv1Z)
+ - 👉 [Democrats Voters are Shifting towards Trudeau](http://9gag.com/gag/a87G6nY)<!-- MEMES:END -->
 
 ---
 
