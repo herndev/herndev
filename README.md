@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [This Is an Xbox](https://news.xbox.com/en-us/2024/11/14/this-is-an-xbox/)
- - [Pokémon TCG Pocket Teases New Booster Pack Release Date With Trading Coming Next Year](https://kotaku.com/pokemon-tcg-pocket-booster-packs-set-trading-when-date-1851698343)
- - [The 25 best Nintendo Switch games](https://www.polygon.com/nintendo-switch/2018/9/4/17549714/best-nintendo-switch-games)<!-- GAME:END -->
+ - [Free Play Days – EA Sports College Football 25, Dustborn, Like a Dragon: Infinite Wealth and More](https://news.xbox.com/en-us/2024/11/14/free-play-days-11-14-2024/)
+ - [World&#39;s biggest PCIe SSD immediately squashed by even bigger and faster PCIe SSD](https://www.pcgamer.com/hardware/ssds/worlds-biggest-pcie-ssd-immediately-squashed-by-even-bigger-and-faster-pcie-ssd)
+ - [Red Dead Redemption cheats: everything you need for the ultimate outlaw adventure](https://www.pcgamer.com/games/action/red-dead-redemption-cheats)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
