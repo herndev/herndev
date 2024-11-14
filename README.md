@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [12 Best Carry-On Luggage &lpar;2024&rpar;: Away, Travelpro, and More](https://www.wired.com/gallery/best-carry-on-luggage/)
- - [Mythic Quest is getting spinoff anthology series](https://www.theverge.com/2024/11/14/24296445/mythic-quest-season-4-premiere-date-side-quest)
- - [Threads grew by a Bluesky this month](https://www.theverge.com/2024/11/14/24296490/meta-threads-15-million-adam-mosseri-bluesky)<!-- TECH:END -->
+ - [Google plans to stop showing political ads to users in the EU in 2025 due to uncertainties around new transparency rules coming into effect in October 2025 &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/241114/p33#a241114p33)
+ - [Bluesky has been acting up today](https://www.theverge.com/2024/11/14/24296537/bluesky-acting-up-outage-down)
+ - [PSA: Google will kill your Timeline history soon, but you still have time to save it &lpar;Update: Deletion deadline details&rpar;](https://www.androidauthority.com/google-maps-timeline-deadline-3499115/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
