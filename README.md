@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Xbox head honcho Phil Spencer says &#39;I don&#39;t like expansions that are manipulative... like, the third level you cut before you launched&#39;](https://www.pcgamer.com/gaming-industry/xbox-head-honcho-phil-spencer-says-i-dont-like-expansions-that-are-manipulative-like-the-third-level-you-cut-before-you-launched)
- - [The biggest Pathfinder bundle we’ve ever seen is just $30](https://www.polygon.com/good-deals/479306/pathfinder-second-edition-anniversary-bundle-humble-sale)
- - [Two Of Mortal Kombat 1&#39;s Three Ghostfaces Are Existing MK Characters &lpar;But They Won&#39;t Say Who&rpar;](https://kotaku.com/ghostface-mk1-mortal-kombat-dlc-different-people-killer-1851699247)<!-- GAME:END -->
+ - [Unreal Gold and Unreal Tournament are now free on the Internet Archive, and Epic says that&#39;s A-okay](https://www.pcgamer.com/games/fps/unreal-gold-and-unreal-tournament-are-now-free-on-the-internet-archive-and-epic-says-thats-a-okay)
+ - [This Cozy Open-World Sim Could Still Become One Of 2024&#39;s Biggest Games](https://kotaku.com/infinity-nikki-release-date-dress-up-rpg-ps5-register-1851699258)
+ - [Fortnite player wonders why there&#39;s a picture of &#39;mold&#39; in their game: turns out it&#39;s a texture Tim Sweeney added to Unreal Engine in 1995](https://www.pcgamer.com/games/fps/a-fortnite-player-wondered-why-a-picture-of-mold-appeared-in-their-game-turns-out-its-a-texture-tim-sweeney-added-to-unreal-engine-in-1995)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
