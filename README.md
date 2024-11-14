@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Senate Democrats Are Running Out of Time to Pass a Shield Law to Protect Journalism](https://www.wired.com/story/press-act-journalism-shield-law-senate-democrats-trump/)
- - [OpenAI says the ChatGPT desktop app for MacOS can now read code in some developer-focused apps, including VS Code, Xcode, TextEdit, and Terminal &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/241114/p36#a241114p36)
- - [CFPB is reportedly trying to put Google under bank-like supervision](https://www.theverge.com/2024/11/14/24296500/cfpb-google-federal-supervision)<!-- TECH:END -->
+ - [Deal: DJI Osmo Mobile 6 gimbal plummets to a new record-low price](https://www.androidauthority.com/dji-osmo-mobile-6-deal-3499786/)
+ - [Anthropic is working with the US DOE&#39;s National Nuclear Security Administration to ensure Claude models don&#39;t share dangerous information about nuclear energy &lpar;Sam Sabin/Axios&rpar;](http://www.techmeme.com/241114/p38#a241114p38)
+ - [Best iMac Deals: Save on Apple&#39;s M4 and M3 Desktop Computers](https://www.cnet.com/deals/best-imac-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
