@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Free Play Days – EA Sports College Football 25, Dustborn, Like a Dragon: Infinite Wealth and More](https://news.xbox.com/en-us/2024/11/14/free-play-days-11-14-2024/)
- - [World&#39;s biggest PCIe SSD immediately squashed by even bigger and faster PCIe SSD](https://www.pcgamer.com/hardware/ssds/worlds-biggest-pcie-ssd-immediately-squashed-by-even-bigger-and-faster-pcie-ssd)
- - [Red Dead Redemption cheats: everything you need for the ultimate outlaw adventure](https://www.pcgamer.com/games/action/red-dead-redemption-cheats)<!-- GAME:END -->
+ - [Dragon Quest III HD-2D Remake: How Square Enix Recreated a Modern Classic](https://news.xbox.com/en-us/2024/11/14/dragon-quest-iii-hd-2d-remake-how-square-enix-recreated-a-modern-classic/)
+ - [Teenage Mutant Ninja Turtles: Splintered Fate review](https://www.pcgamer.com/games/roguelike/teenage-mutant-ninja-turtles-splintered-fate-review)
+ - [Infinity Nikki is releasing next month in all its dress-up Genshin Impact glory](https://www.pcgamer.com/games/rpg/infinity-nikki-is-releasing-next-month-in-all-its-dress-up-genshin-impact-glory)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
