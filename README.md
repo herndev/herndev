@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [After ordering some shrimp, customer returned the plate like this](http://9gag.com/gag/awyByx1)
- - ⏩ [Democrats Voters are Shifting towards Trudeau](http://9gag.com/gag/a87G6nY)
- - 👉 [Artificial Intelligence](http://9gag.com/gag/amovopv)<!-- MEMES:END -->
+ - 💣 [Return to sender](http://9gag.com/gag/aMVxBMP)
+ - ⏩ [This will cause some frixion](http://9gag.com/gag/a87G0yd)
+ - 👉 [Congratulations! You&#39;ve made it halfway through the week. Here, have something to cheer you up.](http://9gag.com/gag/aAye6oE)<!-- MEMES:END -->
 
 ---
 
