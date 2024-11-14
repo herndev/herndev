@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Monster Hunter Wilds: Every monster confirmed so far](https://www.pcgamer.com/games/rpg/monster-hunter-wilds-every-monster-confirmed-so-far)
- - [Watch Hugh Grant Do The Worst Jar Jar Binks Impression I&#39;ve Ever Heard](https://kotaku.com/star-wars-jar-jar-hugh-grant-heretic-impression-clip-1851698047)
- - [Dropout offers discounted Dimension 20 tickets after pricing controversy](https://www.polygon.com/actual-play/478844/dimension-20-dimensioneer-lottery-tickets-how-to-get)<!-- GAME:END -->
+ - [The First Descendant announces &#39;important news&#39;: it&#39;s getting official &#39;jiggle physics,&#39; which it somehow didn&#39;t already have](https://www.pcgamer.com/games/third-person-shooter/the-first-descendant-announces-important-news-its-getting-official-jiggle-physics-which-it-somehow-didnt-already-have)
+ - [Pokémon TCG Pocket will get limited trading in 2025, but new booster packs this year](https://www.polygon.com/gaming/478922/pokemon-tcg-pocket-trading-new-booster-packs-coming)
+ - [Monster Hunter Wilds: Every monster confirmed so far](https://www.pcgamer.com/games/rpg/monster-hunter-wilds-every-monster-confirmed-so-far)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
