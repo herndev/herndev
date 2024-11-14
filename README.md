@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Congratulations idk](http://9gag.com/gag/azxmKpZ)
- - ⏩ [One Thicc Goal!](http://9gag.com/gag/aE0PMYK)
- - 👉 [Just a normal night in San Francisco](http://9gag.com/gag/aKG7AY1)<!-- MEMES:END -->
+ - 💣 [He\u2019s Wikus, of course he does](http://9gag.com/gag/a7oW0jA)
+ - ⏩ [Democrats Voters are Shifting towards Trudeau](http://9gag.com/gag/a87G6nY)
+ - 👉 [Funny dad](http://9gag.com/gag/aQzdQgz)<!-- MEMES:END -->
 
 ---
 
