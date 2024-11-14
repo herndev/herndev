@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Pilot Forgets to Attach Tourist to Hang Glider.](http://9gag.com/gag/aO87ZxN)
- - ⏩ [My retirement plan so far](http://9gag.com/gag/aMVxnGP)
- - 👉 [Son\u2019s math test](http://9gag.com/gag/aD246Pw)<!-- MEMES:END -->
+ - 💣 [What a true friendship :&lpar;](http://9gag.com/gag/avyze15)
+ - ⏩ [At least the kid had fun](http://9gag.com/gag/avyzEeb)
+ - 👉 [Fact](http://9gag.com/gag/ayNeWeW)<!-- MEMES:END -->
 
 ---
 
