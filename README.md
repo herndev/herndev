@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Only a man knows what a man needs](http://9gag.com/gag/aRB742j)
- - ⏩ [Letter seal](http://9gag.com/gag/azxmKrb)
- - 👉 [Pilot Forgets to Attach Tourist to Hang Glider.](http://9gag.com/gag/aO87ZxN)<!-- MEMES:END -->
+ - 💣 [One Thicc Goal!](http://9gag.com/gag/aE0PMYK)
+ - ⏩ [Funny dad](http://9gag.com/gag/aQzdQgz)
+ - 👉 [Letter seal](http://9gag.com/gag/azxmKrb)<!-- MEMES:END -->
 
 ---
 
