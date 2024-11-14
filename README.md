@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Dragon Age: The Veilguard&#39;s impressive tresses feature &#39;50,000 individual strands per character for over 100 hairstyles&#39;](https://www.pcgamer.com/hardware/Dragon-Age-The-Veilguard-has-serious-hair-tech)
- - [Five things I always tell people before they buy their first graphics card](https://www.pcgamer.com/hardware/graphics-cards/five-things-i-always-tell-people-before-they-buy-their-first-graphics-card)
- - [Today&#39;s Wordle answer for Thursday, November 14](https://www.pcgamer.com/games/puzzle/wordle-answer-today-november-14-2024)<!-- GAME:END -->
+ - [LEGO Horizon Adventures launches today with new trailer](https://blog.playstation.com/2024/11/14/lego-horizon-adventures-launches-today-with-new-trailer/)
+ - [The Dragon Quest 3 remake delivers classic RPG comfort food with an ‘HD-2D’ sheen](https://www.polygon.com/review/478796/dragon-quest-3-hd-2d-remake)
+ - [Dragon Age: The Veilguard&#39;s impressive tresses feature &#39;50,000 individual strands per character for over 100 hairstyles&#39;](https://www.pcgamer.com/hardware/Dragon-Age-The-Veilguard-has-serious-hair-tech)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
