@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Congratulations idk](http://9gag.com/gag/azxmKpZ)
- - ⏩ [File a false claim](http://9gag.com/gag/a4P3Nww)
- - 👉 [Only a man knows what a man needs](http://9gag.com/gag/aRB742j)<!-- MEMES:END -->
+ - 💣 [5 nights at liquor store](http://9gag.com/gag/a0eN6bL)
+ - ⏩ [Artificial Intelligence](http://9gag.com/gag/amovopv)
+ - 👉 [Letter seal](http://9gag.com/gag/azxmKrb)<!-- MEMES:END -->
 
 ---
 
