@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Here’s our first look at the upcoming Game of Thrones mobile game, and it’s surprisingly good](https://www.androidauthority.com/game-of-thrones-kingsroad-android-ios-game-trailer-3499590/)
- - [The most popular phone brands by region — there’s more than just iPhones out there](https://www.androidauthority.com/popular-phone-brands-region-3499170/)
- - [Experts expect Trump to relax business cybersecurity rules, drop human rights concerns on spyware, and take an aggressive stance on US adversaries&#39; cyber armies &lpar;Eric Geller/Wired&rpar;](http://www.techmeme.com/241114/p19#a241114p19)<!-- TECH:END -->
+ - [Microsoft releases Windows 11 ISOs for Arm64 PCs, letting users clean install Windows via official offline media, including the latest Snapdragon X Copilot+ PCs &lpar;Zac Bowden/Windows Central&rpar;](http://www.techmeme.com/241114/p22#a241114p22)
+ - [How to Not Die in Silicon Valley](https://www.wired.com/story/uncanny-valley-podcast-3-how-to-not-die-silicon-valley/)
+ - [Snapchat will let parents request their teen’s real-time location](https://www.theverge.com/2024/11/14/24294970/snapchat-live-location-sharing-app-feature-update)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
