@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How Ara: History Untold’s First Major Update is Packed with New Features](https://news.xbox.com/en-us/2024/11/14/ara-history-untold-first-major-update-packed-with-new-features/)
- - [Black Ops 6 players can calm down because the devs have confirmed that the &#39;Assault Rifle changes have not made headshots less effective&#39;](https://www.pcgamer.com/games/call-of-duty/black-ops-6-players-can-calm-down-because-the-devs-have-confirmed-that-the-assault-rifle-changes-have-not-made-headshots-less-effective)
- - [The remake of one of the best cult classics from one of the best years in gaming just dropped, and I have become 9 years old again](https://www.pcgamer.com/games/adventure/the-remake-of-one-of-the-best-cult-classics-from-one-of-the-best-years-in-gaming-just-dropped-and-i-have-become-9-years-old-again)<!-- GAME:END -->
+ - [This Is an Xbox](https://news.xbox.com/en-us/2024/11/14/this-is-an-xbox/)
+ - [Pokémon TCG Pocket Teases New Booster Pack Release Date With Trading Coming Next Year](https://kotaku.com/pokemon-tcg-pocket-booster-packs-set-trading-when-date-1851698343)
+ - [The 25 best Nintendo Switch games](https://www.polygon.com/nintendo-switch/2018/9/4/17549714/best-nintendo-switch-games)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
