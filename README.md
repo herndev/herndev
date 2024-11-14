@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Echoing TikTok&#39;s gifting, YouTube is rolling out &quot;jewels&quot; that users can buy to support creators during livestreams, for those in the YouTube Partner Program &lpar;Umar Shakir/The Verge&rpar;](http://www.techmeme.com/241114/p28#a241114p28)
- - [Madrid&#39;s fifth Apple Store opens November 28](https://appleinsider.com/articles/24/11/14/madrids-fifth-apple-store-opens-november-28?utm_medium=rss)
- - [Pro-Harris TikTok felt safe in an algorithmic bubble — until election day](https://www.theverge.com/2024/11/14/24295814/kamala-harris-tiktok-filter-bubble-donald-trump-algorithm)<!-- TECH:END -->
+ - [12 Best Carry-On Luggage &lpar;2024&rpar;: Away, Travelpro, and More](https://www.wired.com/gallery/best-carry-on-luggage/)
+ - [Mythic Quest is getting spinoff anthology series](https://www.theverge.com/2024/11/14/24296445/mythic-quest-season-4-premiere-date-side-quest)
+ - [Threads grew by a Bluesky this month](https://www.theverge.com/2024/11/14/24296490/meta-threads-15-million-adam-mosseri-bluesky)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
