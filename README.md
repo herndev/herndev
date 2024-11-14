@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Lyndon B Johnson smiling at Albert Thomas while being sworn in as president just 2 hours after the assassination of JFK.](http://9gag.com/gag/axy96Qn)
- - ⏩ [Classic](http://9gag.com/gag/aMVxmAV)
- - 👉 [Smooooothhhh](http://9gag.com/gag/aD24Z9N)<!-- MEMES:END -->
+ - 💣 [New Director of US National Intelligence](http://9gag.com/gag/aZZyQ39)
+ - ⏩ [Son\u2019s math test](http://9gag.com/gag/aD246Pw)
+ - 👉 [Classic](http://9gag.com/gag/aMVxmAV)<!-- MEMES:END -->
 
 ---
 
