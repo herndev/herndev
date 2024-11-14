@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Q&amp;A with Spotify Co-President and CTO Gustav S&amp;ouml;derstr&amp;ouml;m on AI-generated music, NotebookLM podcasts, AI recommendations, improving discoverability, and more &lpar;Alex Kantrowitz/Big Technology&rpar;](http://www.techmeme.com/241114/p9#a241114p9)
- - [Foxconn reports Q3 revenue up 20% YoY to a record ~$57.01B, net income of ~$1.5B vs. ~$1.408B est., and expects half of its server orders in 2025 to be for AI &lpar;Jane Lanhee Lee/Bloomberg&rpar;](http://www.techmeme.com/241114/p8#a241114p8)
- - [Sephora Promo Code: 10% Off In November 2024](https://www.wired.com/story/sephora-promo-code/)<!-- TECH:END -->
+ - [Google rolls out Gemini app to US iPhone users, here’s what it looks like](https://www.androidauthority.com/google-rolls-out-gemini-app-us-iphone-3499531/)
+ - [Google isn’t done with its Wallet/Pay identity crisis &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-wallet-google-pay-branding-apk-teardown-3499504/)
+ - [Top Canon Promo Code and Deals for November 2024](https://www.wired.com/story/canon-promo-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
