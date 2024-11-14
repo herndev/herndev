@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sonos reports Q4 revenue down 8% YoY to $1.5B, spent $4M on &quot;app recovery investments&quot;, and has released 16 app updates and &quot;restored 90% of missing features&quot; &lpar;Chris Welch/The Verge&rpar;](http://www.techmeme.com/241114/p16#a241114p16)
- - [Refi Rates Are Easing for Homeowners: Refinance Rates for Nov. 14, 2024](https://www.cnet.com/personal-finance/mortgages/refi-rates-are-easing-for-homeowners-refinance-rates-for-nov-14-2024/#ftag=CAD590a51e)
- - [Apple releases updates to Final Cut Pro, adding AI-generated closed captions and Vision Pro spatial video editing, and Logic Pro for macOS and iPadOS &lpar;John Voorhees/MacStories&rpar;](http://www.techmeme.com/241114/p15#a241114p15)<!-- TECH:END -->
+ - [Here’s our first look at the upcoming Game of Thrones mobile game, and it’s surprisingly good](https://www.androidauthority.com/game-of-thrones-kingsroad-android-ios-game-trailer-3499590/)
+ - [The most popular phone brands by region — there’s more than just iPhones out there](https://www.androidauthority.com/popular-phone-brands-region-3499170/)
+ - [Experts expect Trump to relax business cybersecurity rules, drop human rights concerns on spyware, and take an aggressive stance on US adversaries&#39; cyber armies &lpar;Eric Geller/Wired&rpar;](http://www.techmeme.com/241114/p19#a241114p19)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
