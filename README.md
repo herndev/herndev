@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [What a true friendship :&lpar;](http://9gag.com/gag/avyze15)
- - ⏩ [At least the kid had fun](http://9gag.com/gag/avyzEeb)
- - 👉 [Fact](http://9gag.com/gag/ayNeWeW)<!-- MEMES:END -->
+ - 💣 [Oh NO!](http://9gag.com/gag/abAGW68)
+ - ⏩ [Pilot Forgets to Attach Tourist to Hang Glider.](http://9gag.com/gag/aO87ZxN)
+ - 👉 [Bald is beautiful](http://9gag.com/gag/a4P35dd)<!-- MEMES:END -->
 
 ---
 
