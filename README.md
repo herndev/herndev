@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Finally, Dimension 20 fans can Never Stop Blowing Up at their own home tables](https://www.polygon.com/tabletop-games/478584/dimension-20-never-stop-blowing-up-rules-system-official)
- - [Everything We Learned About The Next Big Trails RPG](https://kotaku.com/trails-daybreak-2-ai-translation-combat-minigames-cast-1851694303)
- - [Here are the nominees for PC Gaming Show: Most Wanted](https://www.pcgamer.com/pc-gaming-show-most-wanted-nominees)<!-- GAME:END -->
+ - [Call of Duty: Black Ops 6 and Call of Duty: Warzone Season 01 Now Live](https://news.xbox.com/en-us/2024/11/14/call-of-duty-black-ops-6-season-01-now-live/)
+ - [Lady Gaga Appearing In Wednesday Season 2 Is A Match Made In Weirdo Heaven](https://kotaku.com/lady-gaga-wednesday-season-2-netflix-1851698596)
+ - [Apple&#39;s Video Game Industry Satire Gets Season 4 Release Date And Spin-Off](https://kotaku.com/apple-tv-mythic-quest-rob-mcelhenney-season-4-date-1851698983)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
