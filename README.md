@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [New Director of US National Intelligence](http://9gag.com/gag/aZZyQ39)
- - ⏩ [Son\u2019s math test](http://9gag.com/gag/aD246Pw)
- - 👉 [Classic](http://9gag.com/gag/aMVxmAV)<!-- MEMES:END -->
+ - 💣 [Son\u2019s math test](http://9gag.com/gag/aD246Pw)
+ - ⏩ [Lyndon B Johnson smiling at Albert Thomas while being sworn in as president just 2 hours after the assassination of JFK.](http://9gag.com/gag/axy96Qn)
+ - 👉 [This is what a hole in the skin looks like after a needle punctures it, as observed under a scanning electron microscope.](http://9gag.com/gag/aPA7oMB)<!-- MEMES:END -->
 
 ---
 
