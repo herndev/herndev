@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft releases Windows 11 ISOs for Arm64 PCs, letting users clean install Windows via official offline media, including the latest Snapdragon X Copilot+ PCs &lpar;Zac Bowden/Windows Central&rpar;](http://www.techmeme.com/241114/p22#a241114p22)
- - [How to Not Die in Silicon Valley](https://www.wired.com/story/uncanny-valley-podcast-3-how-to-not-die-silicon-valley/)
- - [Snapchat will let parents request their teen’s real-time location](https://www.theverge.com/2024/11/14/24294970/snapchat-live-location-sharing-app-feature-update)<!-- TECH:END -->
+ - [Amazon announces its first Mini LED Fire TV — and this one’s also built for gaming](https://www.theverge.com/2024/11/14/24296334/amazon-fire-tv-omni-mini-led-features-specs)
+ - [Words With Friends takes on Wordle with new single-player daily puzzles](https://www.theverge.com/2024/11/14/24295846/words-with-friends-single-player-daily-puzzles-wordle)
+ - [Apple faces a new $3.75 billion antitrust lawsuit over iCloud storage](https://www.theverge.com/2024/11/14/24296294/apple-uk-consumer-antitrust-lawsuit-icloud-storage)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
