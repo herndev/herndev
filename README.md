@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The ASP of high-end AI chips from Nvidia and others is ~5x more than that of conventional memory chips, resulting in a winner-takes-all trend in the chip sector &lpar;June Yoon/Financial Times&rpar;](http://www.techmeme.com/241114/p1#a241114p1)
- - [Celebrate the Holidays With Final Fantasy and More on Apple Arcade](https://www.cnet.com/tech/gaming/celebrate-the-holidays-with-final-fantasy-and-more-on-apple-arcade/#ftag=CAD590a51e)
- - [Google Wallet will soon alert you about tickets and passes when you’re nearby &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-wallet-nearby-notifications-3499481/)<!-- TECH:END -->
+ - [Researchers detail RoboPAIR, an algorithm that is designed to induce robots, relying on LLMs for their inputs, to ignore models&#39; safeguards without exception &lpar;Charles Q. Choi/IEEE Spectrum&rpar;](http://www.techmeme.com/241114/p6#a241114p6)
+ - [Nvidia says Jetson Thor, a computer first unveiled in March 2024 and designed for testing humanoid robot software, will be available in the first half of 2025 &lpar;Yang Jie/Wall Street Journal&rpar;](http://www.techmeme.com/241114/p5#a241114p5)
+ - [Sources: the UK Treasury is planning to introduce legislation on stablecoins and staking; the FCA says it plans to publish a crypto regulatory roadmap &quot;shortly&quot; &lpar;Bloomberg&rpar;](http://www.techmeme.com/241114/p4#a241114p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
