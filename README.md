@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple releases Final Cut Pro 11, along with updates to Logic Pro for Mac](https://appleinsider.com/articles/24/11/13/apple-releases-final-cut-pro-11-along-with-updates-to-logic-pro-for-mac?utm_medium=rss)
- - [Polymarket says the FBI seized CEO Shayne Coplan&#39;s phone and electronics; source: the DOJ is investigating Polymarket for allegedly accepting bets from US users &lpar;Bloomberg&rpar;](http://www.techmeme.com/241113/p49#a241113p49)
- - [How to Get Started on Bluesky](https://www.wired.com/story/how-to-get-started-on-bluesky/)<!-- TECH:END -->
+ - [UK consumer rights group Which? launches a legal claim against Apple, seeking &amp;pound;3B in compensation, alleging that Apple locked ~40M UK users into iCloud services &lpar;Natasha Lomas/TechCrunch&rpar;](http://www.techmeme.com/241113/p50#a241113p50)
+ - [Gmail Full? How to Get 15GB More Data Without Losing Any Messages](https://www.cnet.com/tech/services-and-software/gmail-full-how-to-get-15gb-more-data-without-losing-any-messages/#ftag=CAD590a51e)
+ - [Apple releases Final Cut Pro 11, along with updates to Logic Pro for Mac](https://appleinsider.com/articles/24/11/13/apple-releases-final-cut-pro-11-along-with-updates-to-logic-pro-for-mac?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
