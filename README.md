@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Wow](http://9gag.com/gag/aoyP493)
- - ⏩ [Bald is beautiful](http://9gag.com/gag/a4P35dd)
- - 👉 [Artificial Intelligence](http://9gag.com/gag/amovopv)<!-- MEMES:END -->
+ - 💣 [Only a man knows what a man needs](http://9gag.com/gag/aRB742j)
+ - ⏩ [Letter seal](http://9gag.com/gag/azxmKrb)
+ - 👉 [Pilot Forgets to Attach Tourist to Hang Glider.](http://9gag.com/gag/aO87ZxN)<!-- MEMES:END -->
 
 ---
 
