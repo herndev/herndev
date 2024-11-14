@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How the rise of automation in manufacturing across China, the largest market for industrial robots, is forcing the country&#39;s manufacturing workforce to adapt &lpar;Eleanor Olcott/Financial Times&rpar;](http://www.techmeme.com/241114/p13#a241114p13)
- - [How Grab built GrabMaps by using data from drivers, users, and merchants in 500+ Southeast Asian cities, adding 800,000+ km of missing roads to OpenStreetMap &lpar;Michelle Anindya/Rest of World&rpar;](http://www.techmeme.com/241114/p12#a241114p12)
- - [London-based Tessl, which is building an AI to write and maintain code, raised $125M across seed and Series A, sources say at a $500M+ post-money valuation &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/241114/p11#a241114p11)<!-- TECH:END -->
+ - [Sonos reports Q4 revenue down 8% YoY to $1.5B, spent $4M on &quot;app recovery investments&quot;, and has released 16 app updates and &quot;restored 90% of missing features&quot; &lpar;Chris Welch/The Verge&rpar;](http://www.techmeme.com/241114/p16#a241114p16)
+ - [Refi Rates Are Easing for Homeowners: Refinance Rates for Nov. 14, 2024](https://www.cnet.com/personal-finance/mortgages/refi-rates-are-easing-for-homeowners-refinance-rates-for-nov-14-2024/#ftag=CAD590a51e)
+ - [Apple releases updates to Final Cut Pro, adding AI-generated closed captions and Vision Pro spatial video editing, and Logic Pro for macOS and iPadOS &lpar;John Voorhees/MacStories&rpar;](http://www.techmeme.com/241114/p15#a241114p15)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
