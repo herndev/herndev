@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How to use Farming Simulator 25 console commands to give yourself infinite money](https://www.pcgamer.com/games/sim/farming-simulator-25-money-cheat)
- - [Call of Duty: Black Ops 6 and Call of Duty: Warzone Season 01 Now Live](https://news.xbox.com/en-us/2024/11/14/call-of-duty-black-ops-6-season-01-now-live/)
- - [Lady Gaga Appearing In Wednesday Season 2 Is A Match Made In Weirdo Heaven](https://kotaku.com/lady-gaga-wednesday-season-2-netflix-1851698596)<!-- GAME:END -->
+ - [Xbox head honcho Phil Spencer says &#39;I don&#39;t like expansions that are manipulative... like, the third level you cut before you launched&#39;](https://www.pcgamer.com/gaming-industry/xbox-head-honcho-phil-spencer-says-i-dont-like-expansions-that-are-manipulative-like-the-third-level-you-cut-before-you-launched)
+ - [The biggest Pathfinder bundle we’ve ever seen is just $30](https://www.polygon.com/good-deals/479306/pathfinder-second-edition-anniversary-bundle-humble-sale)
+ - [Two Of Mortal Kombat 1&#39;s Three Ghostfaces Are Existing MK Characters &lpar;But They Won&#39;t Say Who&rpar;](https://kotaku.com/ghostface-mk1-mortal-kombat-dlc-different-people-killer-1851699247)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
