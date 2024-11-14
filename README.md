@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon announces its first Mini LED Fire TV — and this one’s also built for gaming](https://www.theverge.com/2024/11/14/24296334/amazon-fire-tv-omni-mini-led-features-specs)
- - [Words With Friends takes on Wordle with new single-player daily puzzles](https://www.theverge.com/2024/11/14/24295846/words-with-friends-single-player-daily-puzzles-wordle)
- - [Apple faces a new $3.75 billion antitrust lawsuit over iCloud storage](https://www.theverge.com/2024/11/14/24296294/apple-uk-consumer-antitrust-lawsuit-icloud-storage)<!-- TECH:END -->
+ - [How Trump’s second term could be bad for EVs — but great for Tesla](https://www.theverge.com/24296301/elon-musk-donald-trump-tesla-evs-climate-change-auto-industry-tariffs-decoder-podcast)
+ - [The Verge’s 2024 holiday gift guide for tinkerers](https://www.theverge.com/24224047/best-tool-gift-ideas-holiday-2024-handyperson-builders-tinkerers)
+ - [Hack upgrades Mac Studio internal SSD for less than half of Apple&#39;s prices](https://appleinsider.com/articles/24/11/14/hack-upgrades-mac-studio-internal-ssd-for-less-than-half-of-apples-prices?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
