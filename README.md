@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [He\u2019s Wikus, of course he does](http://9gag.com/gag/a7oW0jA)
- - ⏩ [Democrats Voters are Shifting towards Trudeau](http://9gag.com/gag/a87G6nY)
- - 👉 [Funny dad](http://9gag.com/gag/aQzdQgz)<!-- MEMES:END -->
+ - 💣 [Congratulations idk](http://9gag.com/gag/azxmKpZ)
+ - ⏩ [File a false claim](http://9gag.com/gag/a4P3Nww)
+ - 👉 [Only a man knows what a man needs](http://9gag.com/gag/aRB742j)<!-- MEMES:END -->
 
 ---
 
