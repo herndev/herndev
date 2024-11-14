@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Pilot Forgets to Attach Tourist to Hang Glider.](http://9gag.com/gag/aO87ZxN)
+ - 💣 [Lyndon B Johnson smiling at Albert Thomas while being sworn in as president just 2 hours after the assassination of JFK.](http://9gag.com/gag/axy96Qn)
  - ⏩ [Classic](http://9gag.com/gag/aMVxmAV)
- - 👉 [Oh NO!](http://9gag.com/gag/abAGW68)<!-- MEMES:END -->
+ - 👉 [Smooooothhhh](http://9gag.com/gag/aD24Z9N)<!-- MEMES:END -->
 
 ---
 
