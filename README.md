@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [When the urge to fight against impossible odds takes over you](http://9gag.com/gag/aryV3K7)
- - ⏩ [For the sake of Jake](http://9gag.com/gag/avyzWOd)
- - 👉 [My retirement plan so far](http://9gag.com/gag/aMVxnGP)<!-- MEMES:END -->
+ - 💣 [Pilot Forgets to Attach Tourist to Hang Glider.](http://9gag.com/gag/aO87ZxN)
+ - ⏩ [My retirement plan so far](http://9gag.com/gag/aMVxnGP)
+ - 👉 [Son\u2019s math test](http://9gag.com/gag/aD246Pw)<!-- MEMES:END -->
 
 ---
 
