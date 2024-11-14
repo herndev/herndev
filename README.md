@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Australia plans to enact laws imposing a &quot;digital duty of care&quot; on big tech, which would make companies liable for citizens&#39; safety online &lpar;Nicole Hegarty/ABC&rpar;](http://www.techmeme.com/241113/p52#a241113p52)
  - [Google says real-time protections against scam calls and malicious apps are rolling out on Pixel 6 or newer devices and coming soon to more Android phones &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/241113/p51#a241113p51)
- - [Review: Dragon Quest III HD-2D Remake Gives a Modern Sheen to a Classic RPG](https://www.cnet.com/tech/gaming/review-dragon-quest-iii-hd-2d-remake-gives-a-modern-sheen-to-a-classic-rpg/#ftag=CAD590a51e)
- - [Teen Behind Hundreds of Swatting Attacks Pleads Guilty to Federal Charges](https://www.wired.com/story/alan-filion-torswats-guilty-plea-federal-charges-swatting/)<!-- TECH:END -->
+ - [Review: Dragon Quest III HD-2D Remake Gives a Modern Sheen to a Classic RPG](https://www.cnet.com/tech/gaming/review-dragon-quest-iii-hd-2d-remake-gives-a-modern-sheen-to-a-classic-rpg/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
