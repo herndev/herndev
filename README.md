@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Deal: DJI Osmo Mobile 6 gimbal plummets to a new record-low price](https://www.androidauthority.com/dji-osmo-mobile-6-deal-3499786/)
- - [Anthropic is working with the US DOE&#39;s National Nuclear Security Administration to ensure Claude models don&#39;t share dangerous information about nuclear energy &lpar;Sam Sabin/Axios&rpar;](http://www.techmeme.com/241114/p38#a241114p38)
- - [Best iMac Deals: Save on Apple&#39;s M4 and M3 Desktop Computers](https://www.cnet.com/deals/best-imac-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [How advanced content caching settings on the Mac works](https://appleinsider.com/inside/macos/tips/how-advanced-content-caching-settings-on-the-mac-works?utm_medium=rss)
+ - [Chinese autonomous driving company Pony.ai aims to raise $195M in its US IPO, targeting a valuation of up to $4.48B &lpar;Arasu Kannagi Basil/Reuters&rpar;](http://www.techmeme.com/241114/p40#a241114p40)
+ - [TikTok plugs Getty Images into its AI-generated ads and avatars](https://www.theverge.com/2024/11/14/24296636/tiktok-ai-ads-getty-images-content)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
