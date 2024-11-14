@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Democrats Voters are Shifting towards Trudeau](http://9gag.com/gag/a87G6nY)
- - ⏩ [Walking through Manhattan after the election with MAGA hat on](http://9gag.com/gag/ajP9OK1)
- - 👉 [Wow](http://9gag.com/gag/aoyP493)<!-- MEMES:END -->
+ - 💣 [Wow](http://9gag.com/gag/aoyP493)
+ - ⏩ [Bald is beautiful](http://9gag.com/gag/a4P35dd)
+ - 👉 [Artificial Intelligence](http://9gag.com/gag/amovopv)<!-- MEMES:END -->
 
 ---
 
