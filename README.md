@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to use Search and other new features in the iOS 18 Journal app](https://appleinsider.com/inside/ios-18/tips/how-to-use-search-and-other-new-features-in-the-ios-18-journal-app?utm_medium=rss)
- - [Today&#39;s NYT Mini Crossword Answers for Thursday, Nov. 14](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-thursday-nov-14/#ftag=CAD590a51e)
- - [Today&#39;s NYT Connections Hints, Answers and Help for Nov. 14, #522](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-nov-14-522/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The ASP of high-end AI chips from Nvidia and others is ~5x more than that of conventional memory chips, resulting in a winner-takes-all trend in the chip sector &lpar;June Yoon/Financial Times&rpar;](http://www.techmeme.com/241114/p1#a241114p1)
+ - [Celebrate the Holidays With Final Fantasy and More on Apple Arcade](https://www.cnet.com/tech/gaming/celebrate-the-holidays-with-final-fantasy-and-more-on-apple-arcade/#ftag=CAD590a51e)
+ - [Google Wallet will soon alert you about tickets and passes when you’re nearby &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-wallet-nearby-notifications-3499481/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
