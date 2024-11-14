@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [An orca and bigfoot highlight the preview for 2025’s emoji lineup](https://www.androidauthority.com/emoji-17-preview-3499815/)
- - [Today’s best deals on stocking stuffers: AirTag, fast SD card, powerful charger](https://www.androidauthority.com/apple-airtag-sandisk-sd-card-anker-prime-charger-deal-3499784/)
- - [Add Some Extra Spice to Your Christmas Tree This Season With Smart Lights](https://www.cnet.com/deals/add-some-extra-spice-to-your-christmas-tree-this-season-with-smart-lights/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Android 15 QPR2 may add a dedicated settings page for backing up contacts](https://www.androidauthority.com/android-15-qpr2-contacts-storage-3499854/)
+ - [OpenAI makes the ChatGPT desktop app for Windows available to all users, following an October release limited to paying ChatGPT subscribers &lpar;Michael Kan/PCMag&rpar;](http://www.techmeme.com/241114/p41#a241114p41)
+ - [NASA’s AI Earth Copilot will take your questions about our planet](https://www.theverge.com/2024/11/14/24296758/nasa-ai-earth-copilot-microsoft)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
