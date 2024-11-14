@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Crypto phone for crypto bros](http://9gag.com/gag/agmAOYw)
- - ⏩ [Return to sender](http://9gag.com/gag/aMVxBMP)
- - 👉 [Thanks God for the gravity](http://9gag.com/gag/apRGDbp)<!-- MEMES:END -->
+ - 💣 [After ordering some shrimp, customer returned the plate like this](http://9gag.com/gag/awyByx1)
+ - ⏩ [Casual encounter with a Cassowary - the most dangerous bird in the world.](http://9gag.com/gag/ae9D9pB)
+ - 👉 [Artificial Intelligence](http://9gag.com/gag/amovopv)<!-- MEMES:END -->
 
 ---
 
