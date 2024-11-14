@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Casual encounter with a Cassowary - the most dangerous bird in the world.](http://9gag.com/gag/ae9D9pB)
- - ⏩ [Two different Walter white](http://9gag.com/gag/a5QW6xO)
+ - 💣 [After ordering some shrimp, customer returned the plate like this](http://9gag.com/gag/awyByx1)
+ - ⏩ [Democrats Voters are Shifting towards Trudeau](http://9gag.com/gag/a87G6nY)
  - 👉 [Artificial Intelligence](http://9gag.com/gag/amovopv)<!-- MEMES:END -->
 
 ---
