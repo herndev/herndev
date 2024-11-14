@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [One Thicc Goal!](http://9gag.com/gag/aE0PMYK)
- - ⏩ [Funny dad](http://9gag.com/gag/aQzdQgz)
- - 👉 [Letter seal](http://9gag.com/gag/azxmKrb)<!-- MEMES:END -->
+ - 💣 [When the urge to fight against impossible odds takes over you](http://9gag.com/gag/aryV3K7)
+ - ⏩ [For the sake of Jake](http://9gag.com/gag/avyzWOd)
+ - 👉 [My retirement plan so far](http://9gag.com/gag/aMVxnGP)<!-- MEMES:END -->
 
 ---
 
