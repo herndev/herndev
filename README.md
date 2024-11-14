@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Letter seal](http://9gag.com/gag/azxmKrb)
- - ⏩ [This accident was real and everybody just ran with it](http://9gag.com/gag/a9ynv1Z)
- - 👉 [Democrats Voters are Shifting towards Trudeau](http://9gag.com/gag/a87G6nY)<!-- MEMES:END -->
+ - 💣 [Congratulations idk](http://9gag.com/gag/azxmKpZ)
+ - ⏩ [One Thicc Goal!](http://9gag.com/gag/aE0PMYK)
+ - 👉 [Just a normal night in San Francisco](http://9gag.com/gag/aKG7AY1)<!-- MEMES:END -->
 
 ---
 
