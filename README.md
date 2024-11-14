@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Oh NO!](http://9gag.com/gag/abAGW68)
- - ⏩ [Pilot Forgets to Attach Tourist to Hang Glider.](http://9gag.com/gag/aO87ZxN)
- - 👉 [Bald is beautiful](http://9gag.com/gag/a4P35dd)<!-- MEMES:END -->
+ - 💣 [Son\u2019s math test](http://9gag.com/gag/aD246Pw)
+ - ⏩ [This is called `art`](http://9gag.com/gag/aoyP4d2)
+ - 👉 [Classic](http://9gag.com/gag/aMVxmAV)<!-- MEMES:END -->
 
 ---
 
