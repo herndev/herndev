@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Five things I always tell people before they buy their first graphics card](https://www.pcgamer.com/hardware/graphics-cards/five-things-i-always-tell-people-before-they-buy-their-first-graphics-card)
  - [Today&#39;s Wordle answer for Thursday, November 14](https://www.pcgamer.com/games/puzzle/wordle-answer-today-november-14-2024)
- - [40 years later, I finally beat the arcade game that financially destroyed me as a child](https://www.pcgamer.com/games/action/40-years-later-i-finally-beat-the-arcade-game-that-financially-destroyed-me-as-a-child)
- - [The First Descendant announces &#39;important news&#39;: it&#39;s getting official &#39;jiggle physics,&#39; which it somehow didn&#39;t already have](https://www.pcgamer.com/games/third-person-shooter/the-first-descendant-announces-important-news-its-getting-official-jiggle-physics-which-it-somehow-didnt-already-have)<!-- GAME:END -->
+ - [40 years later, I finally beat the arcade game that financially destroyed me as a child](https://www.pcgamer.com/games/action/40-years-later-i-finally-beat-the-arcade-game-that-financially-destroyed-me-as-a-child)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
