@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Old school wins: YouTube rolls back disliked mini-player update](https://www.androidauthority.com/youtube-old-mini-player-design-comeback-3499896/)
- - [Fake AI albums targeting real artists are flooding Spotify to profit from royalty fraud, abusing a distribution process effectively based on the honor system &lpar;Elizabeth Lopatto/The Verge&rpar;](http://www.techmeme.com/241114/p47#a241114p47)
- - [Best Internet Providers in Grand Prairie, Texas](https://www.cnet.com/home/internet/best-internet-providers-in-grand-prairie-tx/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [How to share a Wi-Fi QR code in iOS 18 to help your guests](https://appleinsider.com/inside/ios-18/tips/how-to-share-a-wi-fi-qr-code-in-ios-18-to-help-your-guests?utm_medium=rss)
+ - [SwiftConnect, which provides a platform to let workers access physical offices via mobile digital badges, raised a $37M Series B led by Quadri Ventures &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/241114/p48#a241114p48)
+ - [Old school wins: YouTube rolls back disliked mini-player update](https://www.androidauthority.com/youtube-old-mini-player-design-comeback-3499896/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
