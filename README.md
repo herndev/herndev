@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Them: The foods not that spicy. The food:](http://9gag.com/gag/a4P3AwQ)
- - ⏩ [My retirement plan so far](http://9gag.com/gag/aMVxnGP)
- - 👉 [Hey girl. Leave him alone](http://9gag.com/gag/aGydAp5)<!-- MEMES:END -->
+ - 💣 [This is the effect that a Komodo Dragon bite has on meat](http://9gag.com/gag/axy9b6K)
+ - ⏩ [Mike Tyson snaps at fan asking for a pic, then feels bad and invites him over, making his night.](http://9gag.com/gag/a0eN6PQ)
+ - 👉 [Them: The foods not that spicy. The food:](http://9gag.com/gag/a4P3AwQ)<!-- MEMES:END -->
 
 ---
 
