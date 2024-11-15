@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [It&#39;s sad but.....](http://9gag.com/gag/aBymPzz)
- - ⏩ [They ruin everything](http://9gag.com/gag/aMVxX0X)
- - 👉 [Them: The foods not that spicy. The food:](http://9gag.com/gag/a4P3AwQ)<!-- MEMES:END -->
+ - ⏩ [Bald is beautiful](http://9gag.com/gag/a4P35dd)
+ - 👉 [Absolute\u2026 win?](http://9gag.com/gag/aD24VXB)<!-- MEMES:END -->
 
 ---
 
