@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [You’ll have to pay more for the exciting OnePlus 13 colors](https://www.androidauthority.com/oneplus-13-13r-global-colors-ram-storage-configs-3499913/)
- - [Level Up Your Gift Giving With 10% Off Xbox and PlayStation Gift Cards on Amazon Right Now](https://www.cnet.com/deals/level-up-your-gift-giving-with-10-percent-off-xbox-and-playstation-gift-cards-on-amazon-right-now/#ftag=CAD590a51e)
- - [Google may soon let you create email aliases in an effort to fight spam &lpar;Update&rpar;](https://www.androidauthority.com/google-shielded-email-3499803/)<!-- TECH:END -->
+ - [This Snapdragon 8 Elite phone has a headphone jack, ridiculously huge battery](https://www.androidauthority.com/redmagic-10-pro-plus-3499917/)
+ - [Best Internet Providers in Kent, Washington](https://www.cnet.com/home/internet/best-internet-providers-in-kent-wa/#ftag=CAD590a51e)
+ - [How Physical Intelligence is trying to give robots a humanlike understanding of the physical world by feeding data from robots doing tasks into its AI model &lpar;Will Knight/Wired&rpar;](http://www.techmeme.com/241115/p5#a241115p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
