@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta Lobbyist Turned Regulator Says Europe’s Big Tech Rules Have Gone Too Far](https://www.wired.com/story/meta-lobbyist-eu-regulator-big-tech-rules-too-far/)
- - [The First Crispr Treatment Is Making Its Way to Patients](https://www.wired.com/story/irst-crispr-treatment-patients-sickle-cell/)
- - [Best CD Rates Today, Nov. 15, 2024: There&#39;s Still Time to Score up to 4.75% APY](https://www.cnet.com/personal-finance/banking/cd-rates-today-nov-15-2024/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [A profile of Klarna and its CEO Sebastian Siemiatkowski as it filed for a US IPO on November 13; investors hope Klarna can achieve a $150B-$200B valuation &lpar;Financial Times&rpar;](http://www.techmeme.com/241115/p8#a241115p8)
+ - [YouTube’s latest monetization feature is a Twitch Bits ripoff](https://www.androidauthority.com/youtube-jewels-rollout-us-3499973/)
+ - [The 3 Best Espresso Machines of 2024](https://www.cnet.com/home/kitchen-and-household/best-espresso-machine/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
