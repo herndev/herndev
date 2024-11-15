@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Obsidian quietly adds Avowed system requirements to the Steam listing and that 75 GB storage target seems downright reasonable](https://www.pcgamer.com/hardware/obsidian-quietly-adds-avowed-system-requirements-to-the-steam-listing-and-that-75-gb-storage-target-seems-downright-reasonable)
  - [How to Buy a Digital Game as a Gift This Holiday](https://news.xbox.com/en-us/2024/11/15/how-to-buy-a-digital-game-as-a-gift-this-holiday/)
- - [Philips Evnia: reinventing the rules of gaming monitors](https://www.pcgamer.com/hardware/gaming-monitors/philips-evnia-reinventing-the-rules-of-gaming-monitors)
- - [Today&#39;s Wordle answer for Friday, November 15](https://www.pcgamer.com/games/puzzle/wordle-answer-today-november-15-2024)<!-- GAME:END -->
+ - [Philips Evnia: reinventing the rules of gaming monitors](https://www.pcgamer.com/hardware/gaming-monitors/philips-evnia-reinventing-the-rules-of-gaming-monitors)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
