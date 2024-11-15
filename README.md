@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Bear with Imperfections in The Thaumaturge, a Story-Rich RPG Coming to Xbox](https://news.xbox.com/en-us/2024/11/15/the-thaumaturge-demo-xbox/)
- - [Corsair announces its PSUs &#39;fully support the highly-anticipated next generation of graphics cards&#39;, showing how close we might be to the RTX 50-series line](https://www.pcgamer.com/hardware/power-supplies/corsair-announces-its-psus-fully-support-the-highly-anticipated-next-generation-of-graphics-cards-showing-how-close-we-might-be-to-the-rtx-50-series-line)
- - [Qualcomm upgrades its gaming upscaler from spatial to temporal tech but it lacks AI smarts and may struggle to compete with Nvidia&#39;s highly polished DLSS performance](https://www.pcgamer.com/hardware/graphics-cards/qualcomm-upgrades-its-gaming-upscaler-from-spatial-to-temporal-tech-but-it-lacks-ai-smarts-and-may-struggle-to-compete-with-nvidias-highly-polished-dlss-performance)<!-- GAME:END -->
+ - [Black Friday: $50 Off Select Xbox Series X|S Consoles, 1,000+ Games on Sale, and More!](https://news.xbox.com/en-us/2024/11/15/xbox-black-friday-cyber-monday-2024/)
+ - [US hacker sentenced to five years in the slammer for laundering the proceeds of nearly 120,000 stolen bitcoin worth $10,800,000,000 at today&#39;s prices](https://www.pcgamer.com/hardware/us-hacker-sentenced-to-five-years-in-the-slammer-for-laundering-the-proceeds-of-nearly-120-000-stolen-bitcoin-worth-usd10-800-000-000-at-todays-prices)
+ - [Why Dicey Dungeons is one of the hidden gems of PC Game Pass](https://www.pcgamer.com/games/roguelike/why-dicey-dungeons-is-one-of-the-hidden-gems-of-pc-game-pass)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
