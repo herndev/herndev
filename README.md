@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I literally had to stand up and take a deep breath with tears welling in my eyes some 12 yrs ago. Bioshock Infinite. One of the craziest revelations in gaming history.](http://9gag.com/gag/aE0PopO)
- - ⏩ [Mike Tyson snaps at fan asking for a pic, then feels bad and invites him over, making his night.](http://9gag.com/gag/a0eN6PQ)
- - 👉 [Letter seal](http://9gag.com/gag/azxmKrb)<!-- MEMES:END -->
+ - 💣 [Smooooothhhh](http://9gag.com/gag/aD24Z9N)
+ - ⏩ [Classic](http://9gag.com/gag/aMVxmAV)
+ - 👉 [This is what a hole in the skin looks like after a needle punctures it, as observed under a scanning electron microscope.](http://9gag.com/gag/aPA7oMB)<!-- MEMES:END -->
 
 ---
 
