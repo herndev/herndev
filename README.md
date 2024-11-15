@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How to Build an Xbox Controller With Xbox Design Lab](https://news.xbox.com/en-us/2024/11/15/xbox-design-lab-how-to-build-controller/)
- - [Game Pass – Choose the Right Plan for Your Gaming Needs](https://news.xbox.com/en-us/2024/11/15/game-pass-tiers-choose-the-right-plan/)
- - [Hunker Down for the Winter With These Cozy Games on Xbox](https://news.xbox.com/en-us/2024/11/15/hunker-down-for-the-winter-with-these-cozy-games-on-xbox/)<!-- GAME:END -->
+ - [Blizzard Working On Open-World Shooter And It Might Be Starcraft-Related](https://kotaku.com/blizzard-starcraft-far-cry-open-world-shooter-leak-fps-1851700828)
+ - [This cute but spooky farm sim starts unlike any other: in a town where you don&#39;t remember all the locals who somehow already know you](https://www.pcgamer.com/games/life-sim/this-cute-but-spooky-farm-sim-starts-unlike-any-other-in-a-town-where-you-dont-remember-all-the-locals-who-somehow-already-know-you)
+ - [How to Build an Xbox Controller With Xbox Design Lab](https://news.xbox.com/en-us/2024/11/15/xbox-design-lab-how-to-build-controller/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
