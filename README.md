@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Black Friday: $50 Off Select Xbox Series X|S Consoles, 1,000+ Games on Sale, and More!](https://news.xbox.com/en-us/2024/11/15/xbox-black-friday-cyber-monday-2024/)
- - [US hacker sentenced to five years in the slammer for laundering the proceeds of nearly 120,000 stolen bitcoin worth $10,800,000,000 at today&#39;s prices](https://www.pcgamer.com/hardware/us-hacker-sentenced-to-five-years-in-the-slammer-for-laundering-the-proceeds-of-nearly-120-000-stolen-bitcoin-worth-usd10-800-000-000-at-todays-prices)
- - [Why Dicey Dungeons is one of the hidden gems of PC Game Pass](https://www.pcgamer.com/games/roguelike/why-dicey-dungeons-is-one-of-the-hidden-gems-of-pc-game-pass)<!-- GAME:END -->
+ - [Next Week on Xbox: New Games for November 18 to 22](https://news.xbox.com/en-us/2024/11/15/next-week-on-xbox-new-games-for-november-18-to-22/)
+ - [Ubisoft&#39;s Splinter Cell Movie Is Dead](https://kotaku.com/ubisoft-splinter-cell-movie-tom-hardy-1851700151)
+ - [&#39;Let us disable that garbage&#39;: Call of Duty: Black Ops 6 players hate the new skins so much that some are asking to pay for them to be removed](https://www.pcgamer.com/games/call-of-duty/let-us-disable-that-garbage-call-of-duty-black-ops-6-players-hate-the-new-skins-so-much-that-some-are-asking-to-pay-for-them-to-be-removed)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
