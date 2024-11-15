@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [A Deep Dive into Doors: Paradox](https://news.xbox.com/en-us/2024/11/15/doors-paradox-explainer-tips/)
- - [Power Up With These 11 Dragon Ball: Sparking Zero Mods](https://kotaku.com/dragon-ball-sparking-pc-best-mods-1851700642)
- - [Cancelled Splinter Cell movie starring Tom Hardy was &#39;going to be hardcore and awesome,&#39; says producer: &#39;That&#39;s one of the ones that got away, which is really sad&#39;](https://www.pcgamer.com/movies-tv/cancelled-splinter-cell-movie-starring-tom-hardy-was-going-to-be-hardcore-and-awesome-says-producer-thats-one-of-the-ones-that-got-away-which-is-really-sad)<!-- GAME:END -->
+ - [How to Build an Xbox Controller With Xbox Design Lab](https://news.xbox.com/en-us/2024/11/15/xbox-design-lab-how-to-build-controller/)
+ - [Game Pass – Choose the Right Plan for Your Gaming Needs](https://news.xbox.com/en-us/2024/11/15/game-pass-tiers-choose-the-right-plan/)
+ - [Hunker Down for the Winter With These Cozy Games on Xbox](https://news.xbox.com/en-us/2024/11/15/hunker-down-for-the-winter-with-these-cozy-games-on-xbox/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
