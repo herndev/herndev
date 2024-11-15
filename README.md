@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Grubhub co-founder Matt Maloney says he led an effort to buy Grubhub for $1B+ around the start of 2024 and in 2022; Wonder bought Grubhub for $650M on Nov. 13 &lpar;Financial Times&rpar;](http://www.techmeme.com/241115/p4#a241115p4)
- - [HyperOS 2 roadmap revealed: Here’s when your Xiaomi phone will get it](https://www.androidauthority.com/xiaomi-hyper-os-2-roadmap-3499033/)
- - [Eighteen US states, led by Kentucky, sue the SEC and its commissioners, including Chairman Gary Gensler, over its crackdown on the crypto industry &lpar;Decrypt&rpar;](http://www.techmeme.com/241115/p3#a241115p3)<!-- TECH:END -->
+ - [You’ll have to pay more for the exciting OnePlus 13 colors](https://www.androidauthority.com/oneplus-13-13r-global-colors-ram-storage-configs-3499913/)
+ - [Google may soon let you create email aliases in an effort to fight spam &lpar;Update&rpar;](https://www.androidauthority.com/google-shielded-email-3499803/)
+ - [Google says these are the top 5 online threats targeting you right now](https://www.androidauthority.com/google-online-fraud-scam-advisory-3499922/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
