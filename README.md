@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [`Stop hiring unqualified people` says the D-E-I hire...](http://9gag.com/gag/amovxzy)
- - ⏩ [Bit late to the party but started this journey today &lpar;first time&rpar;](http://9gag.com/gag/an74xvn)
- - 👉 [Bruce has no chill.](http://9gag.com/gag/aXPg4L9)<!-- MEMES:END -->
+ - 💣 [We did it, woke has been defeated.](http://9gag.com/gag/avyzx4q)
+ - ⏩ [Funny dad](http://9gag.com/gag/aQzdQgz)
+ - 👉 [This is what a hole in the skin looks like after a needle punctures it, as observed under a scanning electron microscope.](http://9gag.com/gag/aPA7oMB)<!-- MEMES:END -->
 
 ---
 
