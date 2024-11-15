@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Bruce has no chill.](http://9gag.com/gag/aXPg4L9)
- - ⏩ [This is called `art`](http://9gag.com/gag/aoyP4d2)
- - 👉 [I am professional hater. But for now I&#39;m not hating.](http://9gag.com/gag/a4P321d)<!-- MEMES:END -->
+ - 💣 [My retirement plan so far](http://9gag.com/gag/aMVxnGP)
+ - ⏩ [Them: The foods not that spicy. The food:](http://9gag.com/gag/a4P3AwQ)
+ - 👉 [Funny dad](http://9gag.com/gag/aQzdQgz)<!-- MEMES:END -->
 
 ---
 
