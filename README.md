@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best Internet Providers in Grand Prairie, Texas](https://www.cnet.com/home/internet/best-internet-providers-in-grand-prairie-tx/#ftag=CAD590a51e)
  - [M4 MacBook Pro use quantum dot film for more vibrant color &amp; motion performance](https://appleinsider.com/articles/24/11/15/m4-macbook-pro-use-quantum-dot-film-for-more-vibrant-color-motion-performance?utm_medium=rss)
- - [TikTok makes its AI ad creation tool, Symphony Creative Studio, available to all advertisers and adds the ability to use content from Getty Images with the tool &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/241114/p46#a241114p46)
- - [Applied Materials reports Q4 revenue up 5% YoY to $7.05B, vs. $6.95B est., and forecasts Q1 revenue below estimates; AMAT drops 5%+ after hours &lpar;Jaspreet Singh/Reuters&rpar;](http://www.techmeme.com/241114/p45#a241114p45)<!-- TECH:END -->
+ - [Best Internet Providers in Idaho Falls, Idaho](https://www.cnet.com/home/internet/best-internet-providers-in-idaho-falls-id/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
