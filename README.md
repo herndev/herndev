@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google knows you like AI Overviews so much, it’s putting AI Overviews in your AI Overviews](https://www.androidauthority.com/nested-ai-overviews-3500156/)
- - [ESPN is testing a generative AI avatar called ‘FACTS’](https://www.theverge.com/2024/11/15/24297606/espn-generative-ai-avatar-facts)
- - [New emails released as part of Elon Musk&#39;s lawsuit against OpenAI show Greg Brockman and Ilya Sutskever had serious concerns about Sam Altman as early as 2017 &lpar;Shakeel Hashim/Transformer&rpar;](http://www.techmeme.com/241115/p21#a241115p21)<!-- TECH:END -->
+ - [Get a free Google Nest Audio when you buy a Nest Learning Thermostat](https://www.androidauthority.com/get-a-free-google-nest-audio-when-you-buy-a-nest-learning-thermostat-3500166/)
+ - [Half-Life 2 is getting a huge 20th anniversary update](https://www.theverge.com/2024/11/15/24297691/half-life-2-20th-anniversary-update-documentary)
+ - [Google knows you like AI Overviews so much, it’s putting AI Overviews in your AI Overviews](https://www.androidauthority.com/nested-ai-overviews-3500156/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
