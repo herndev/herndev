@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Facebook is changing its primary metric to ‘views’](https://www.theverge.com/2024/11/15/24297255/facebook-metrics-views-instagram)
- - [Save up to $250 on every M4 Mac mini, plus get M2 early Black Friday deals from $449](https://appleinsider.com/articles/24/11/15/save-up-to-250-on-every-m4-mac-mini-plus-get-m2-early-black-friday-deals-from-449?utm_medium=rss)
- - [Threads is testing custom feeds for your favorite topics](https://www.theverge.com/2024/11/15/24297313/threads-custom-feeds-test)<!-- TECH:END -->
+ - [The new Mac Mini is great — now do the iPhone SE](https://www.theverge.com/2024/11/15/24296505/apple-iphone-se-rumors-mac-mini)
+ - [Best Early Black Friday iPad Deals: Take Up to $149 Off Top Apple Tablets](https://www.cnet.com/deals/best-early-black-friday-ipad-deals/#ftag=CAD590a51e)
+ - [Source: Google is working on the Pixel Tablet 2 along with a keyboard](https://www.androidauthority.com/pixel-tablet-2-keyboard-3500081/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
