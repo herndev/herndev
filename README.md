@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [This Snapdragon 8 Elite phone has a headphone jack, ridiculously huge battery](https://www.androidauthority.com/redmagic-10-pro-plus-3499917/)
- - [Best Internet Providers in Kent, Washington](https://www.cnet.com/home/internet/best-internet-providers-in-kent-wa/#ftag=CAD590a51e)
- - [How Physical Intelligence is trying to give robots a humanlike understanding of the physical world by feeding data from robots doing tasks into its AI model &lpar;Will Knight/Wired&rpar;](http://www.techmeme.com/241115/p5#a241115p5)<!-- TECH:END -->
+ - [Meta Lobbyist Turned Regulator Says Europe’s Big Tech Rules Have Gone Too Far](https://www.wired.com/story/meta-lobbyist-eu-regulator-big-tech-rules-too-far/)
+ - [The First Crispr Treatment Is Making Its Way to Patients](https://www.wired.com/story/irst-crispr-treatment-patients-sickle-cell/)
+ - [Best CD Rates Today, Nov. 15, 2024: There&#39;s Still Time to Score up to 4.75% APY](https://www.cnet.com/personal-finance/banking/cd-rates-today-nov-15-2024/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
