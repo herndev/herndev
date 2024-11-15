@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Them: The foods not that spicy. The food:](http://9gag.com/gag/a4P3AwQ)
- - ⏩ [This is called `art`](http://9gag.com/gag/aoyP4d2)
- - 👉 [Lyndon B Johnson smiling at Albert Thomas while being sworn in as president just 2 hours after the assassination of JFK.](http://9gag.com/gag/axy96Qn)<!-- MEMES:END -->
+ - 💣 [Letter seal](http://9gag.com/gag/azxmKrb)
+ - ⏩ [Smooooothhhh](http://9gag.com/gag/aD24Z9N)
+ - 👉 [Man is about to go off script\u2026.](http://9gag.com/gag/aBymXwQ)<!-- MEMES:END -->
 
 ---
 
