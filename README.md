@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Letter seal](http://9gag.com/gag/azxmKrb)
- - ⏩ [Smooooothhhh](http://9gag.com/gag/aD24Z9N)
- - 👉 [Man is about to go off script\u2026.](http://9gag.com/gag/aBymXwQ)<!-- MEMES:END -->
+ - 💣 [It&#39;s sad but.....](http://9gag.com/gag/aBymPzz)
+ - ⏩ [11 year old goes to store and Mom gets arrested?](http://9gag.com/gag/aGydBX6)
+ - 👉 [You know I&#39;ll be around. Start stripping off that dress now. You know us all too well](http://9gag.com/gag/aLnwm8z)<!-- MEMES:END -->
 
 ---
 
