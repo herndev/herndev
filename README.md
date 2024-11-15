@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Bruce has no chill.](http://9gag.com/gag/aXPg4L9)
- - ⏩ [`Stop hiring unqualified people` says the D-E-I hire...](http://9gag.com/gag/amovxzy)
- - 👉 [This is called `art`](http://9gag.com/gag/aoyP4d2)<!-- MEMES:END -->
+ - 💣 [`Stop hiring unqualified people` says the D-E-I hire...](http://9gag.com/gag/amovxzy)
+ - ⏩ [Bit late to the party but started this journey today &lpar;first time&rpar;](http://9gag.com/gag/an74xvn)
+ - 👉 [Bruce has no chill.](http://9gag.com/gag/aXPg4L9)<!-- MEMES:END -->
 
 ---
 
