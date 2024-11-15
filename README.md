@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How Mighty Morphin’ Power Rangers: Rita’s Rewind Remixes Lore While Staying Authentic](https://news.xbox.com/en-us/2024/11/15/mighty-morphin-power-rangers-ritas-rewind-lore-cast/)
- - [Yes, you should grab a Dynamax Drilbur in Pokémon Go](https://www.polygon.com/pokemon-go-guide/479340/dynamax-drilbur-max-battle)
- - [Best Krig C loadout and class build in Black Ops 6](https://www.polygon.com/black-ops-6-guides/479681/best-krig-c-loadout-class-build-setup-bo6)<!-- GAME:END -->
+ - [A Deep Dive into Doors: Paradox](https://news.xbox.com/en-us/2024/11/15/doors-paradox-explainer-tips/)
+ - [Power Up With These 11 Dragon Ball: Sparking Zero Mods](https://kotaku.com/dragon-ball-sparking-pc-best-mods-1851700642)
+ - [Cancelled Splinter Cell movie starring Tom Hardy was &#39;going to be hardcore and awesome,&#39; says producer: &#39;That&#39;s one of the ones that got away, which is really sad&#39;](https://www.pcgamer.com/movies-tv/cancelled-splinter-cell-movie-starring-tom-hardy-was-going-to-be-hardcore-and-awesome-says-producer-thats-one-of-the-ones-that-got-away-which-is-really-sad)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
