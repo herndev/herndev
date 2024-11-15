@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Bitfinex hacker receives five-year sentence for record-breaking crypto heist](https://www.theverge.com/2024/11/15/24297157/bitfinex-hacker-sentenced-crypto-bitcoin-heist)
- - [Black Friday mega sale: 36% off AI Photo Enhancer for 8x Bold Sight](https://appleinsider.com/articles/24/11/15/black-friday-mega-sale-36-off-ai-photo-enhancer-for-8x-bold-sight?utm_medium=rss)
- - [The 7 Best Milk Frothers for Your Home Espresso Setup &lpar;2024&rpar;](https://www.wired.com/gallery/best-milk-frothers/)<!-- TECH:END -->
+ - [UK mobile operator Virgin Media O2 creates Daisy, an AI-generated &quot;scambaiter&quot; tool that mimics the voice of an elderly woman to waste scammers&#39; time &lpar;Jibin Joseph/PCMag&rpar;](http://www.techmeme.com/241115/p13#a241115p13)
+ - [Hurry, the Amazon Fire HD 10 Tablet Is Back Down to $75 Ahead of Black Friday Day](https://www.cnet.com/deals/hurry-the-amazon-fire-hd-10-tablet-is-back-down-to-75-ahead-of-black-friday-day/#ftag=CAD590a51e)
+ - [Have a dead smartwatch? Give it to Samsung for a nice discount on the Galaxy Ring](https://www.androidauthority.com/have-a-dead-smartwatch-give-it-to-samsung-for-a-nice-discount-on-the-galaxy-ring-3500037/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
