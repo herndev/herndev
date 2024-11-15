@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Philips Evnia: reinventing the rules of gaming monitors](https://www.pcgamer.com/hardware/gaming-monitors/philips-evnia-reinventing-the-rules-of-gaming-monitors)
  - [Today&#39;s Wordle answer for Friday, November 15](https://www.pcgamer.com/games/puzzle/wordle-answer-today-november-15-2024)
- - [Finally, I can be a gross little rat guy in Vermintide 2&#39;s 4v4 versus mode, which is out now](https://www.pcgamer.com/games/fps/finally-i-can-be-a-gross-little-rat-guy-in-vermintide-2s-4v4-versus-mode-which-is-out-now)
- - [Avowed will be available on Battle.net, which means you can buy it for about 1.4M gold in WoW if you want to](https://www.pcgamer.com/games/rpg/avowed-will-be-available-on-battle-net-which-means-you-can-buy-it-for-about-1-4m-gold-in-wow-if-you-want-to)<!-- GAME:END -->
+ - [Finally, I can be a gross little rat guy in Vermintide 2&#39;s 4v4 versus mode, which is out now](https://www.pcgamer.com/games/fps/finally-i-can-be-a-gross-little-rat-guy-in-vermintide-2s-4v4-versus-mode-which-is-out-now)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
