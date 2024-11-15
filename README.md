@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Finally, I can be a gross little rat guy in Vermintide 2&#39;s 4v4 versus mode, which is out now](https://www.pcgamer.com/games/fps/finally-i-can-be-a-gross-little-rat-guy-in-vermintide-2s-4v4-versus-mode-which-is-out-now)
  - [Avowed will be available on Battle.net, which means you can buy it for about 1.4M gold in WoW if you want to](https://www.pcgamer.com/games/rpg/avowed-will-be-available-on-battle-net-which-means-you-can-buy-it-for-about-1-4m-gold-in-wow-if-you-want-to)
- - [Arcane showrunner praises the &#39;unsung heroes&#39; of animation: &#39;No one will see their work, but they&#39;re masters&#39;](https://www.pcgamer.com/movies-tv/arcane-showrunner-praises-the-unsung-heroes-of-animation-no-one-will-see-their-work-but-theyre-masters)
- - [Tetris Forever&#39;s playable museum managed to change my perspective on the most familiar game in the world](https://www.pcgamer.com/games/puzzle/tetris-forevers-playable-museum-managed-to-change-my-perspective-on-the-familiar-game-in-the-world)<!-- GAME:END -->
+ - [Arcane showrunner praises the &#39;unsung heroes&#39; of animation: &#39;No one will see their work, but they&#39;re masters&#39;](https://www.pcgamer.com/movies-tv/arcane-showrunner-praises-the-unsung-heroes-of-animation-no-one-will-see-their-work-but-theyre-masters)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
