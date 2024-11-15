@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [NASA partners with Microsoft to create Earth Copilot, an AI chatbot that can answer questions about the Earth using NASA&#39;s geospatial information &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/241114/p49#a241114p49)
- - [How to share a Wi-Fi QR code in iOS 18 to help your guests](https://appleinsider.com/inside/ios-18/tips/how-to-share-a-wi-fi-qr-code-in-ios-18-to-help-your-guests?utm_medium=rss)
- - [SwiftConnect, which provides a platform to let workers access physical offices via mobile digital badges, raised a $37M Series B led by Quadri Ventures &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/241114/p48#a241114p48)<!-- TECH:END -->
+ - [The US DOJ says Cruise admits to submitting a false report to influence an investigation into an October 2023 crash with a pedestrian and will pay a $500K fine &lpar;David Shepardson/Reuters&rpar;](http://www.techmeme.com/241115/p2#a241115p2)
+ - [Now everyone can ‘double tap to heart’ in Google Messages](https://www.androidauthority.com/google-messages-double-tap-to-heart-3499903/)
+ - [In his amended lawsuit against OpenAI, Musk names new defendants including Microsoft, Reid Hoffman, and ex-OpenAI board member and Microsoft VP Dee Templeton &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/241115/p1#a241115p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
