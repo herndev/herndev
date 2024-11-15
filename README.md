@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The M4 MacBook Pro features a quantum dot display](https://www.theverge.com/2024/11/15/24297414/m4-macbook-pro-quantum-dot-display)
- - [Samsung Galaxy Buds 2 Pro Deals: Up to $150 Off These Colorful Wireless Earbuds](https://www.cnet.com/deals/best-galaxy-buds-2-pro-deals/#ftag=CAD590a51e)
- - [Bluesky says it won’t train AI on your posts](https://www.theverge.com/2024/11/15/24297442/bluesky-no-intention-train-generative-ai-posts)<!-- TECH:END -->
+ - [Disney has reportedly pulled a Moon Girl and Devil Dinosaur episode for telling a trans-inclusive story](https://www.theverge.com/2024/11/15/24297438/moon-girl-and-devil-dinosaur-the-gatekeeper)
+ - [How to use the Apple Maps Library feature in iOS 18](https://appleinsider.com/inside/apple-maps/tips/how-to-use-the-apple-maps-library-feature-in-ios-18?utm_medium=rss)
+ - [Google’s latest Doodle celebrates 5,000 years of the kayak](https://www.androidauthority.com/google-kayak-doodle-3500129/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
