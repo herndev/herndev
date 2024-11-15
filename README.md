@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Despite multiple delays, the One UI 7 beta could be buggier than you’d like](https://www.androidauthority.com/one-ui-7-bugs-3500103/)
- - [A senior SDNY prosecutor says the office will devote fewer resources to policing crypto crimes after securing several major convictions, including that of SBF &lpar;Luc Cohen/Reuters&rpar;](http://www.techmeme.com/241115/p17#a241115p17)
- - [Best iPhone 13 Deals: Save Hundreds on This Previous-Gen Model](https://www.cnet.com/deals/best-iphone-13-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The M4 MacBook Pro features a quantum dot display](https://www.theverge.com/2024/11/15/24297414/m4-macbook-pro-quantum-dot-display)
+ - [Samsung Galaxy Buds 2 Pro Deals: Up to $150 Off These Colorful Wireless Earbuds](https://www.cnet.com/deals/best-galaxy-buds-2-pro-deals/#ftag=CAD590a51e)
+ - [Bluesky says it won’t train AI on your posts](https://www.theverge.com/2024/11/15/24297442/bluesky-no-intention-train-generative-ai-posts)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
