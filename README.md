@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A profile of Klarna and its CEO Sebastian Siemiatkowski as it filed for a US IPO on November 13; investors hope Klarna can achieve a $150B-$200B valuation &lpar;Financial Times&rpar;](http://www.techmeme.com/241115/p8#a241115p8)
- - [YouTube’s latest monetization feature is a Twitch Bits ripoff](https://www.androidauthority.com/youtube-jewels-rollout-us-3499973/)
- - [The 3 Best Espresso Machines of 2024](https://www.cnet.com/home/kitchen-and-household/best-espresso-machine/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Final Cut Pro, Apple Home Hub, and new Mac reviews on the AppleInsider Podcast](https://appleinsider.com/articles/24/11/15/final-cut-pro-apple-home-hub-and-new-mac-reviews-on-the-appleinsider-podcast?utm_medium=rss)
+ - [Searching for the Next Social Media Fix for the Next Trump Era](https://www.wired.com/story/social-media-fix-for-the-next-trump-era/)
+ - [Ant Group&#39;s profit grew ~193% YoY in the June quarter to $1.05B, reversing a year-long decline as it regains its footing from the Chinese government crackdown &lpar;Lulu Yilun Chen/Bloomberg&rpar;](http://www.techmeme.com/241115/p10#a241115p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
