@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [It&#39;s sad but.....](http://9gag.com/gag/aBymPzz)
- - ⏩ [Bald is beautiful](http://9gag.com/gag/a4P35dd)
- - 👉 [Absolute\u2026 win?](http://9gag.com/gag/aD24VXB)<!-- MEMES:END -->
+ - 💣 [800 homes in Utha lost power because a girl climbed up the transformer](http://9gag.com/gag/a87G2oY)
+ - ⏩ [Absolute\u2026 win?](http://9gag.com/gag/aD24VXB)
+ - 👉 [It&#39;s sad but.....](http://9gag.com/gag/aBymPzz)<!-- MEMES:END -->
 
 ---
 
