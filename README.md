@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Found this on my late grandfather&#39;s phone](http://9gag.com/gag/aE0PDZO)
- - ⏩ [I am professional hater. But for now I&#39;m not hating.](http://9gag.com/gag/a4P321d)
- - 👉 [Trumped again](http://9gag.com/gag/amovmbX)<!-- MEMES:END -->
+ - 💣 [800 homes in Utha lost power because a girl climbed up the transformer](http://9gag.com/gag/a87G2oY)
+ - ⏩ [You know I&#39;ll be around. Start stripping off that dress now. You know us all too well](http://9gag.com/gag/aLnwm8z)
+ - 👉 [New Zealand\u2019s Parliament proposed a bill to redefine the Treaty of Waitangi, claiming it is racist and gives preferential treatment to Maoris. In response M\u0101ori MP&#39;s tore up the bill and performed the Haka](http://9gag.com/gag/ajP9xOG)<!-- MEMES:END -->
 
 ---
 
