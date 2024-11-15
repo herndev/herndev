@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The new Mac Mini is great — now do the iPhone SE](https://www.theverge.com/2024/11/15/24296505/apple-iphone-se-rumors-mac-mini)
- - [Best Early Black Friday iPad Deals: Take Up to $149 Off Top Apple Tablets](https://www.cnet.com/deals/best-early-black-friday-ipad-deals/#ftag=CAD590a51e)
- - [Source: Google is working on the Pixel Tablet 2 along with a keyboard](https://www.androidauthority.com/pixel-tablet-2-keyboard-3500081/)<!-- TECH:END -->
+ - [Despite multiple delays, the One UI 7 beta could be buggier than you’d like](https://www.androidauthority.com/one-ui-7-bugs-3500103/)
+ - [A senior SDNY prosecutor says the office will devote fewer resources to policing crypto crimes after securing several major convictions, including that of SBF &lpar;Luc Cohen/Reuters&rpar;](http://www.techmeme.com/241115/p17#a241115p17)
+ - [Best iPhone 13 Deals: Save Hundreds on This Previous-Gen Model](https://www.cnet.com/deals/best-iphone-13-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
