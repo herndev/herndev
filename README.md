@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Final Cut Pro, Apple Home Hub, and new Mac reviews on the AppleInsider Podcast](https://appleinsider.com/articles/24/11/15/final-cut-pro-apple-home-hub-and-new-mac-reviews-on-the-appleinsider-podcast?utm_medium=rss)
- - [Searching for the Next Social Media Fix for the Next Trump Era](https://www.wired.com/story/social-media-fix-for-the-next-trump-era/)
- - [Ant Group&#39;s profit grew ~193% YoY in the June quarter to $1.05B, reversing a year-long decline as it regains its footing from the Chinese government crackdown &lpar;Lulu Yilun Chen/Bloomberg&rpar;](http://www.techmeme.com/241115/p10#a241115p10)<!-- TECH:END -->
+ - [Bitfinex hacker receives five-year sentence for record-breaking crypto heist](https://www.theverge.com/2024/11/15/24297157/bitfinex-hacker-sentenced-crypto-bitcoin-heist)
+ - [Black Friday mega sale: 36% off AI Photo Enhancer for 8x Bold Sight](https://appleinsider.com/articles/24/11/15/black-friday-mega-sale-36-off-ai-photo-enhancer-for-8x-bold-sight?utm_medium=rss)
+ - [The 7 Best Milk Frothers for Your Home Espresso Setup &lpar;2024&rpar;](https://www.wired.com/gallery/best-milk-frothers/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
