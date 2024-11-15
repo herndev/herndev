@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Disney has reportedly pulled a Moon Girl and Devil Dinosaur episode for telling a trans-inclusive story](https://www.theverge.com/2024/11/15/24297438/moon-girl-and-devil-dinosaur-the-gatekeeper)
- - [How to use the Apple Maps Library feature in iOS 18](https://appleinsider.com/inside/apple-maps/tips/how-to-use-the-apple-maps-library-feature-in-ios-18?utm_medium=rss)
- - [Google’s latest Doodle celebrates 5,000 years of the kayak](https://www.androidauthority.com/google-kayak-doodle-3500129/)<!-- TECH:END -->
+ - [Google will let you make AI clip art for your documents](https://www.theverge.com/2024/11/15/24297524/google-docs-gemini-ai-image-generator-clip-art)
+ - [The best new streaming shows this week: Say Nothing and more](https://www.androidauthority.com/best-new-tv-shows-to-stream-this-week-3084538/)
+ - [Palantir stock jumps 9% after announcing a move from the NYSE to the Nasdaq; its stock is up 50%+ since reporting better-than-expected earnings on November 4 &lpar;Ari Levy/CNBC&rpar;](http://www.techmeme.com/241115/p19#a241115p19)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
