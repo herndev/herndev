@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [It&#39;s sad but.....](http://9gag.com/gag/aBymPzz)
- - ⏩ [11 year old goes to store and Mom gets arrested?](http://9gag.com/gag/aGydBX6)
- - 👉 [You know I&#39;ll be around. Start stripping off that dress now. You know us all too well](http://9gag.com/gag/aLnwm8z)<!-- MEMES:END -->
+ - 💣 [Found this on my late grandfather&#39;s phone](http://9gag.com/gag/aE0PDZO)
+ - ⏩ [I am professional hater. But for now I&#39;m not hating.](http://9gag.com/gag/a4P321d)
+ - 👉 [Trumped again](http://9gag.com/gag/amovmbX)<!-- MEMES:END -->
 
 ---
 
