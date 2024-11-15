@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [New Director of US National Intelligence](http://9gag.com/gag/aZZyQ39)
- - ⏩ [This is called `art`](http://9gag.com/gag/aoyP4d2)
- - 👉 [Lyndon B Johnson smiling at Albert Thomas while being sworn in as president just 2 hours after the assassination of JFK.](http://9gag.com/gag/axy96Qn)<!-- MEMES:END -->
+ - 💣 [Walking through Manhattan after the election with MAGA hat on](http://9gag.com/gag/ajP9OK1)
+ - ⏩ [New Director of US National Intelligence](http://9gag.com/gag/aZZyQ39)
+ - 👉 [What is that Pokemon?](http://9gag.com/gag/aD24bLO)<!-- MEMES:END -->
 
 ---
 
