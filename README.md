@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Hold up!](http://9gag.com/gag/aRB7ZOy)
- - ⏩ [Stop hitting yourself](http://9gag.com/gag/azxmGgB)
- - 👉 [Hey girl. Leave him alone](http://9gag.com/gag/aGydAp5)<!-- MEMES:END -->
+ - 💣 [Bruce has no chill.](http://9gag.com/gag/aXPg4L9)
+ - ⏩ [This is called `art`](http://9gag.com/gag/aoyP4d2)
+ - 👉 [I am professional hater. But for now I&#39;m not hating.](http://9gag.com/gag/a4P321d)<!-- MEMES:END -->
 
 ---
 
