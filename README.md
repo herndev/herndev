@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Microsoft Flight Simulator 2024: Creating a Career Mode for All Types of Players](https://news.xbox.com/en-us/2024/11/15/microsoft-flight-simulator-2024-creating-career-mode-for-all-players/)
- - [BioWare Clarifies Dragon Age: The Veilguard&#39;s Secret Ending As Misinterpretations Spread Online](https://kotaku.com/dragon-age-veilguard-secret-ending-executors-loghain-1851700436)
- - [&#39;We had a very big debate, and I showed him. He was silent. He doesn&#39;t know how to make a battery&#39;: The founder of the world&#39;s biggest battery company apparently had a lesson or two to give Elon Musk](https://www.pcgamer.com/hardware/we-had-a-very-big-debate-and-i-showed-him-he-was-silent-he-doesnt-know-how-to-make-a-battery-the-founder-of-the-worlds-biggest-battery-company-apparently-had-a-lesson-or-two-to-give-elon-musk)<!-- GAME:END -->
+ - [How Mighty Morphin’ Power Rangers: Rita’s Rewind Remixes Lore While Staying Authentic](https://news.xbox.com/en-us/2024/11/15/mighty-morphin-power-rangers-ritas-rewind-lore-cast/)
+ - [Yes, you should grab a Dynamax Drilbur in Pokémon Go](https://www.polygon.com/pokemon-go-guide/479340/dynamax-drilbur-max-battle)
+ - [Best Krig C loadout and class build in Black Ops 6](https://www.polygon.com/black-ops-6-guides/479681/best-krig-c-loadout-class-build-setup-bo6)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
