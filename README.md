@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Next Week on Xbox: New Games for November 18 to 22](https://news.xbox.com/en-us/2024/11/15/next-week-on-xbox-new-games-for-november-18-to-22/)
- - [Ubisoft&#39;s Splinter Cell Movie Is Dead](https://kotaku.com/ubisoft-splinter-cell-movie-tom-hardy-1851700151)
- - [&#39;Let us disable that garbage&#39;: Call of Duty: Black Ops 6 players hate the new skins so much that some are asking to pay for them to be removed](https://www.pcgamer.com/games/call-of-duty/let-us-disable-that-garbage-call-of-duty-black-ops-6-players-hate-the-new-skins-so-much-that-some-are-asking-to-pay-for-them-to-be-removed)<!-- GAME:END -->
+ - [Heretic’s Fork Unleashes Chaos on Xbox – Step into Hell’s Management Team](https://news.xbox.com/en-us/2024/11/15/heretics-fork/)
+ - [Looking to move to Bluesky? This handy Chrome extension will let you find all your followers but don&#39;t make the mistake I did](https://www.pcgamer.com/hardware/looking-to-move-to-bluesky-this-handy-chrome-extension-will-let-you-find-all-your-followers-but-dont-make-the-mistake-i-did)
+ - [Xenotilt: Hostile Pinball Action review](https://www.pcgamer.com/games/xenotilt-hostile-pinball-action-review)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
