@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Android 15 QPR2 may add a dedicated settings page for backing up contacts](https://www.androidauthority.com/android-15-qpr2-contacts-storage-3499854/)
- - [OpenAI makes the ChatGPT desktop app for Windows available to all users, following an October release limited to paying ChatGPT subscribers &lpar;Michael Kan/PCMag&rpar;](http://www.techmeme.com/241114/p41#a241114p41)
- - [NASA’s AI Earth Copilot will take your questions about our planet](https://www.theverge.com/2024/11/14/24296758/nasa-ai-earth-copilot-microsoft)<!-- TECH:END -->
+ - [Google is facing the threat of government regulators supervising its financial services](https://www.androidauthority.com/google-cfpb-oversight-3499864/)
+ - [Thomas E. Kurtz, an American mathematician, computer scientist, and co-inventor of the BASIC programming language with John Kemeny, died at 96 on November 12 &lpar;Dag Spicer/CHM&rpar;](http://www.techmeme.com/241114/p43#a241114p43)
+ - [The best instant cameras you can buy right now](https://www.theverge.com/23133103/best-instant-cameras-fujifilm-polaroid-kodak)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
