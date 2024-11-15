@@ -40,8 +40,8 @@
 
 <!-- TECH:START -->
  - [You’ll have to pay more for the exciting OnePlus 13 colors](https://www.androidauthority.com/oneplus-13-13r-global-colors-ram-storage-configs-3499913/)
- - [Google may soon let you create email aliases in an effort to fight spam &lpar;Update&rpar;](https://www.androidauthority.com/google-shielded-email-3499803/)
- - [Google says these are the top 5 online threats targeting you right now](https://www.androidauthority.com/google-online-fraud-scam-advisory-3499922/)<!-- TECH:END -->
+ - [Level Up Your Gift Giving With 10% Off Xbox and PlayStation Gift Cards on Amazon Right Now](https://www.cnet.com/deals/level-up-your-gift-giving-with-10-percent-off-xbox-and-playstation-gift-cards-on-amazon-right-now/#ftag=CAD590a51e)
+ - [Google may soon let you create email aliases in an effort to fight spam &lpar;Update&rpar;](https://www.androidauthority.com/google-shielded-email-3499803/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
