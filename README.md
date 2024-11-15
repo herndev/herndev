@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Heretic’s Fork Unleashes Chaos on Xbox – Step into Hell’s Management Team](https://news.xbox.com/en-us/2024/11/15/heretics-fork/)
- - [Looking to move to Bluesky? This handy Chrome extension will let you find all your followers but don&#39;t make the mistake I did](https://www.pcgamer.com/hardware/looking-to-move-to-bluesky-this-handy-chrome-extension-will-let-you-find-all-your-followers-but-dont-make-the-mistake-i-did)
- - [Xenotilt: Hostile Pinball Action review](https://www.pcgamer.com/games/xenotilt-hostile-pinball-action-review)<!-- GAME:END -->
+ - [Microsoft Flight Simulator 2024: Creating a Career Mode for All Types of Players](https://news.xbox.com/en-us/2024/11/15/microsoft-flight-simulator-2024-creating-career-mode-for-all-players/)
+ - [BioWare Clarifies Dragon Age: The Veilguard&#39;s Secret Ending As Misinterpretations Spread Online](https://kotaku.com/dragon-age-veilguard-secret-ending-executors-loghain-1851700436)
+ - [&#39;We had a very big debate, and I showed him. He was silent. He doesn&#39;t know how to make a battery&#39;: The founder of the world&#39;s biggest battery company apparently had a lesson or two to give Elon Musk](https://www.pcgamer.com/hardware/we-had-a-very-big-debate-and-i-showed-him-he-was-silent-he-doesnt-know-how-to-make-a-battery-the-founder-of-the-worlds-biggest-battery-company-apparently-had-a-lesson-or-two-to-give-elon-musk)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
