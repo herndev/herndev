@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Internet Providers in Grand Prairie, Texas](https://www.cnet.com/home/internet/best-internet-providers-in-grand-prairie-tx/#ftag=CAD590a51e)
- - [M4 MacBook Pro use quantum dot film for more vibrant color &amp; motion performance](https://appleinsider.com/articles/24/11/15/m4-macbook-pro-use-quantum-dot-film-for-more-vibrant-color-motion-performance?utm_medium=rss)
- - [Best Internet Providers in Idaho Falls, Idaho](https://www.cnet.com/home/internet/best-internet-providers-in-idaho-falls-id/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Old school wins: YouTube rolls back disliked mini-player update](https://www.androidauthority.com/youtube-old-mini-player-design-comeback-3499896/)
+ - [Fake AI albums targeting real artists are flooding Spotify to profit from royalty fraud, abusing a distribution process effectively based on the honor system &lpar;Elizabeth Lopatto/The Verge&rpar;](http://www.techmeme.com/241114/p47#a241114p47)
+ - [Best Internet Providers in Grand Prairie, Texas](https://www.cnet.com/home/internet/best-internet-providers-in-grand-prairie-tx/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
