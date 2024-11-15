@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Blizzard Working On Open-World Shooter And It Might Be Starcraft-Related](https://kotaku.com/blizzard-starcraft-far-cry-open-world-shooter-leak-fps-1851700828)
- - [This cute but spooky farm sim starts unlike any other: in a town where you don&#39;t remember all the locals who somehow already know you](https://www.pcgamer.com/games/life-sim/this-cute-but-spooky-farm-sim-starts-unlike-any-other-in-a-town-where-you-dont-remember-all-the-locals-who-somehow-already-know-you)
- - [How to Build an Xbox Controller With Xbox Design Lab](https://news.xbox.com/en-us/2024/11/15/xbox-design-lab-how-to-build-controller/)<!-- GAME:END -->
+ - [Explore the Dark Narrative of Shines Over: The Damned on Xbox](https://news.xbox.com/en-us/2024/11/15/shines-over-the-damned-on-xbox/)
+ - [Game Awards confirms Elden Ring DLC is GOTY eligible just days before nominations drop](https://www.polygon.com/awards/480437/tgas-game-awards-elden-ring-dlc-goty-rules-change)
+ - [Genshin Impact codes for November 2024](https://www.polygon.com/genshin-impact-guides/479183/codes-redeem-redemption-gift-primogems)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
