@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Smooooothhhh](http://9gag.com/gag/aD24Z9N)
- - ⏩ [Classic](http://9gag.com/gag/aMVxmAV)
- - 👉 [This is what a hole in the skin looks like after a needle punctures it, as observed under a scanning electron microscope.](http://9gag.com/gag/aPA7oMB)<!-- MEMES:END -->
+ - 💣 [11 year old goes to store and Mom gets arrested?](http://9gag.com/gag/aGydBX6)
+ - ⏩ [Letter seal](http://9gag.com/gag/azxmKrb)
+ - 👉 [My retirement plan so far](http://9gag.com/gag/aMVxnGP)<!-- MEMES:END -->
 
 ---
 
