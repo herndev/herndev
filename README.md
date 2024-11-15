@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [She is looking for her twin](http://9gag.com/gag/a2vWDnZ)
- - ⏩ [I think woke isn&#39;t for anyone](http://9gag.com/gag/aNDgvEK)
- - 👉 [I am professional hater. But for now I&#39;m not hating.](http://9gag.com/gag/a4P321d)<!-- MEMES:END -->
+ - 💣 [Them: The foods not that spicy. The food:](http://9gag.com/gag/a4P3AwQ)
+ - ⏩ [This is the effect that a Komodo Dragon bite has on meat](http://9gag.com/gag/axy9b6K)
+ - 👉 [This is called `art`](http://9gag.com/gag/aoyP4d2)<!-- MEMES:END -->
 
 ---
 
