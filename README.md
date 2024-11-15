@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Explore the Dark Narrative of Shines Over: The Damned on Xbox](https://news.xbox.com/en-us/2024/11/15/shines-over-the-damned-on-xbox/)
- - [Game Awards confirms Elden Ring DLC is GOTY eligible just days before nominations drop](https://www.polygon.com/awards/480437/tgas-game-awards-elden-ring-dlc-goty-rules-change)
- - [Genshin Impact codes for November 2024](https://www.polygon.com/genshin-impact-guides/479183/codes-redeem-redemption-gift-primogems)<!-- GAME:END -->
+ - [Valve gets the original Half-Life 2 development team back together for a huge 20th anniversary update—and the game is now free on Steam](https://www.pcgamer.com/games/fps/valve-gets-the-original-half-life-2-development-team-back-together-for-a-huge-20th-anniversary-update-and-the-game-is-now-free-on-steam)
+ - [Everything You Need To Know About The Dune Movies Before Watching Dune: Prophecy](https://kotaku.com/everything-you-need-to-know-about-the-dune-movies-befor-1851700849)
+ - [LEGO Horizon Adventures Review](https://www.pcgamer.com/games/action/lego-horizon-adventures-review)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
