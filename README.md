@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google is facing the threat of government regulators supervising its financial services](https://www.androidauthority.com/google-cfpb-oversight-3499864/)
- - [Thomas E. Kurtz, an American mathematician, computer scientist, and co-inventor of the BASIC programming language with John Kemeny, died at 96 on November 12 &lpar;Dag Spicer/CHM&rpar;](http://www.techmeme.com/241114/p43#a241114p43)
- - [The best instant cameras you can buy right now](https://www.theverge.com/23133103/best-instant-cameras-fujifilm-polaroid-kodak)<!-- TECH:END -->
+ - [M4 MacBook Pro use quantum dot film for more vibrant color &amp; motion performance](https://appleinsider.com/articles/24/11/15/m4-macbook-pro-use-quantum-dot-film-for-more-vibrant-color-motion-performance?utm_medium=rss)
+ - [TikTok makes its AI ad creation tool, Symphony Creative Studio, available to all advertisers and adds the ability to use content from Getty Images with the tool &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/241114/p46#a241114p46)
+ - [Applied Materials reports Q4 revenue up 5% YoY to $7.05B, vs. $6.95B est., and forecasts Q1 revenue below estimates; AMAT drops 5%+ after hours &lpar;Jaspreet Singh/Reuters&rpar;](http://www.techmeme.com/241114/p45#a241114p45)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
