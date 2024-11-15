@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [UK mobile operator Virgin Media O2 creates Daisy, an AI-generated &quot;scambaiter&quot; tool that mimics the voice of an elderly woman to waste scammers&#39; time &lpar;Jibin Joseph/PCMag&rpar;](http://www.techmeme.com/241115/p13#a241115p13)
- - [Hurry, the Amazon Fire HD 10 Tablet Is Back Down to $75 Ahead of Black Friday Day](https://www.cnet.com/deals/hurry-the-amazon-fire-hd-10-tablet-is-back-down-to-75-ahead-of-black-friday-day/#ftag=CAD590a51e)
- - [Have a dead smartwatch? Give it to Samsung for a nice discount on the Galaxy Ring](https://www.androidauthority.com/have-a-dead-smartwatch-give-it-to-samsung-for-a-nice-discount-on-the-galaxy-ring-3500037/)<!-- TECH:END -->
+ - [Facebook is changing its primary metric to ‘views’](https://www.theverge.com/2024/11/15/24297255/facebook-metrics-views-instagram)
+ - [Save up to $250 on every M4 Mac mini, plus get M2 early Black Friday deals from $449](https://appleinsider.com/articles/24/11/15/save-up-to-250-on-every-m4-mac-mini-plus-get-m2-early-black-friday-deals-from-449?utm_medium=rss)
+ - [Threads is testing custom feeds for your favorite topics](https://www.theverge.com/2024/11/15/24297313/threads-custom-feeds-test)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
