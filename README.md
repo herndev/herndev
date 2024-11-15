@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [11 year old goes to store and Mom gets arrested?](http://9gag.com/gag/aGydBX6)
- - ⏩ [Letter seal](http://9gag.com/gag/azxmKrb)
- - 👉 [My retirement plan so far](http://9gag.com/gag/aMVxnGP)<!-- MEMES:END -->
+ - 💣 [Hold up!](http://9gag.com/gag/aRB7ZOy)
+ - ⏩ [Stop hitting yourself](http://9gag.com/gag/azxmGgB)
+ - 👉 [Hey girl. Leave him alone](http://9gag.com/gag/aGydAp5)<!-- MEMES:END -->
 
 ---
 
