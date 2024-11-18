@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Hospital horror story](http://9gag.com/gag/ae9DPAW)
- - ⏩ [Still happening in 2024 for some?](http://9gag.com/gag/aYQyR00)
- - 👉 [Getting hit by a plane while trying to exit one](http://9gag.com/gag/awyB8K1)<!-- MEMES:END -->
+ - 💣 [Plebbit moment](http://9gag.com/gag/aoyPqVg)
+ - ⏩ [A Big Beautiful Wall](http://9gag.com/gag/a4P3mry)
+ - 👉 [Good idea for older people](http://9gag.com/gag/aAyeq8E)<!-- MEMES:END -->
 
 ---
 
