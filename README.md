@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The definition of your life flashing before your eyes](http://9gag.com/gag/aD24rvG)
- - ⏩ [Hospital horror story](http://9gag.com/gag/ae9DPAW)
- - 👉 [How fast a trained dog recognizes danger](http://9gag.com/gag/aryVdwp)<!-- MEMES:END -->
+ - 💣 [Pizza boxes next week: Caution, contents may be slippery when stepped on](http://9gag.com/gag/aqynBoP)
+ - ⏩ [Saw that coming](http://9gag.com/gag/axy9QPK)
+ - 👉 [Anything can be a di*do](http://9gag.com/gag/aD24r9G)<!-- MEMES:END -->
 
 ---
 
