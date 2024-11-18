@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple may have not given up on TV sets](https://www.androidauthority.com/apple-tv-set-early-rumor-3500475/)
- - [MicroStrategy bought ~51,780 bitcoin for ~$4.6B between November 11 and November 17, its largest purchase since starting in 2020, and now holds $29B in bitcoin &lpar;Dave Liedtka/Bloomberg&rpar;](http://www.techmeme.com/241118/p12#a241118p12)
- - [Bug stops M4 Macs from virtualizing older macOS versions](https://appleinsider.com/articles/24/11/18/bug-stops-m4-macs-from-virtualizing-older-macos-versions?utm_medium=rss)<!-- TECH:END -->
+ - [The Chase Sapphire Preferred Should Be Your Next Travel Credit Card -- Here’s Why](https://www.cnet.com/personal-finance/chase-sapphire-preferred/#ftag=CAD590a51e)
+ - [Pairing the Chase Sapphire Preferred Card and Chase Freedom Unlimited to Level Up Your Rewards](https://www.cnet.com/personal-finance/pairing-the-chase-sapphire-preferred-card-and-chase-freedom-unlimited/#ftag=CAD590a51e)
+ - [Thieves are using stolen tracking data to steal iPhone packages](https://appleinsider.com/articles/24/11/18/thieves-are-using-stolen-tracking-data-to-steal-iphone-packages?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
