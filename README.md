@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [They never tell this!](http://9gag.com/gag/aBymNGN)
- - ⏩ [Smoothly picking cotton](http://9gag.com/gag/adBVbDQ)
- - 👉 [Well, who was it?](http://9gag.com/gag/an74Gyo)<!-- MEMES:END -->
+ - 💣 [Peak WWF](http://9gag.com/gag/a7oWPGz)
+ - ⏩ [Groomsman witnesses cake cruelty](http://9gag.com/gag/awyB8MW)
+ - 👉 [Oh well](http://9gag.com/gag/aD24rg7)<!-- MEMES:END -->
 
 ---
 
