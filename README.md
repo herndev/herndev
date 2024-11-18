@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The best PC gaming gifts for any budget](https://www.polygon.com/gift-guide/479004/best-pc-gaming-gifts)
- - [I&#39;ve decided Casio&#39;s smart ring-watch is all that&#39;s good in this messed up universe right now](https://www.pcgamer.com/hardware/ive-decided-casios-smart-ring-watch-is-all-thats-good-in-this-messed-up-universe-right-now)
- - [PS VR2 new Alien: Rogue Incursion details, Mare out today, release dates for Hitman World of Assassination and more](https://blog.playstation.com/2024/11/18/ps-vr2-new-alien-rogue-incursion-details-mare-out-today-release-dates-for-hitman-world-of-assassination-and-more/)<!-- GAME:END -->
+ - [Helldivers 2 players endure sarcastic propaganda that commends their &#39;undeniable tactical brilliance&#39; after the &#39;blob&#39; abandons a nearly-won objective for basically no reason](https://www.pcgamer.com/games/third-person-shooter/helldivers-2-players-endure-sarcastic-propaganda-that-commends-their-undeniable-tactical-brilliance-after-the-blob-abandons-a-nearly-won-objective-for-basically-no-reason)
+ - [How to prepare for The Storybook Vale in Disney Dreamlight Valley](https://www.pcgamer.com/games/life-sim/dreamlight-valley-how-to-prepare-for-the-storybook-vale)
+ - [How to make Banana Split in Disney Dreamlight Valley](https://www.pcgamer.com/games/life-sim/disney-dreamlight-valley-banana-split-recipe)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
