@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources and ads: Foxconn tells recruiters that help hire iPhone assembly workers in India to remove age, gender, and marital criteria and its name from ads &lpar;Reuters&rpar;](http://www.techmeme.com/241118/p6#a241118p6)
- - [Samsung unveils a $7.2B share buyback plan, its first since 2017, aimed at boosting its stock, which has fallen 30%+ in 2024 on concerns over Chair Lee Jae-yong &lpar;Financial Times&rpar;](http://www.techmeme.com/241118/p5#a241118p5)
- - [Apple could soon discontinue one of its most ridiculous products](https://www.androidauthority.com/apple-could-kill-lightning-headphone-dongle-3500378/)<!-- TECH:END -->
+ - [Foxconn India drops recruitment discrimination against married women](https://appleinsider.com/articles/24/11/18/foxconn-india-drops-recruitment-discrimination-against-married-women?utm_medium=rss)
+ - [Tim Berners-Lee&#39;s Inrupt begins an early trial of its digital wallet in Belgium to help deliver social services to 7M citizens, as he worries over AI&#39;s rise &lpar;Parmy Olson/Bloomberg&rpar;](http://www.techmeme.com/241118/p9#a241118p9)
+ - [How Substack is betting on politics content and recruiting stars like Nate Silver, as profits remain elusive; sources: Elon Musk sought to buy it in April 2023 &lpar;New York Times&rpar;](http://www.techmeme.com/241118/p8#a241118p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
