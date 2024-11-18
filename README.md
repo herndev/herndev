@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Peak WWF](http://9gag.com/gag/a7oWPGz)
- - ⏩ [Groomsman witnesses cake cruelty](http://9gag.com/gag/awyB8MW)
- - 👉 [Oh well](http://9gag.com/gag/aD24rg7)<!-- MEMES:END -->
+ - ⏩ [Still happening in 2024 for some?](http://9gag.com/gag/aYQyR00)
+ - 👉 [Groomsman witnesses cake cruelty](http://9gag.com/gag/awyB8MW)<!-- MEMES:END -->
 
 ---
 
