@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [LG’s first 480Hz OLED gaming monitor is $1,000](https://www.theverge.com/2024/11/18/24299376/lg-ultragear-gx7-480hz-oled-gaming-monitor-price-availability)
- - [Q&amp;A with The Verge EIC Nilay Patel on upcoming FCC chair Brendan Carr, the alliance between Trump and Musk and how it threatens the First Amendment, and more &lpar;Oliver Darcy/Status&rpar;](http://www.techmeme.com/241118/p4#a241118p4)
- - [How Wall Street is preparing to cash on AI hysteria; analysis say delivering on AI&#39;s promise will require $1T+ for data centers, electricity, and more &lpar;Bloomberg&rpar;](http://www.techmeme.com/241118/p3#a241118p3)<!-- TECH:END -->
+ - [Sources and ads: Foxconn tells recruiters that help hire iPhone assembly workers in India to remove age, gender, and marital criteria and its name from ads &lpar;Reuters&rpar;](http://www.techmeme.com/241118/p6#a241118p6)
+ - [Samsung unveils a $7.2B share buyback plan, its first since 2017, aimed at boosting its stock, which has fallen 30%+ in 2024 on concerns over Chair Lee Jae-yong &lpar;Financial Times&rpar;](http://www.techmeme.com/241118/p5#a241118p5)
+ - [Apple could soon discontinue one of its most ridiculous products](https://www.androidauthority.com/apple-could-kill-lightning-headphone-dongle-3500378/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
