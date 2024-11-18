@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Plebbit moment](http://9gag.com/gag/aoyPqVg)
- - ⏩ [A Big Beautiful Wall](http://9gag.com/gag/a4P3mry)
- - 👉 [Good idea for older people](http://9gag.com/gag/aAyeq8E)<!-- MEMES:END -->
+ - 💣 [A Big Beautiful Wall](http://9gag.com/gag/a4P3mry)
+ - ⏩ [Hospital horror story](http://9gag.com/gag/ae9DPAW)
+ - 👉 [The biggest bar fight in history](http://9gag.com/gag/axy9meM)<!-- MEMES:END -->
 
 ---
 
