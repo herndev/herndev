@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [800 homes in Utha lost power because a girl climbed up the transformer](http://9gag.com/gag/a87G2oY)
- - ⏩ [Absolute\u2026 win?](http://9gag.com/gag/aD24VXB)
- - 👉 [It&#39;s sad but.....](http://9gag.com/gag/aBymPzz)<!-- MEMES:END -->
+ - 💣 [Young man trying to rob an old taxi driver](http://9gag.com/gag/avyzXP5)
+ - ⏩ [Bruh](http://9gag.com/gag/aqynD6v)
+ - 👉 [Guy posts about being ugly, girl calls him cute; now they&#39;re married and expecting a baby.](http://9gag.com/gag/azxmBvm)<!-- MEMES:END -->
 
 ---
 
