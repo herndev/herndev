@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [He had the choice and made his decision](http://9gag.com/gag/ayNeZ88)
- - ⏩ [A hot blonde woman won Miss Universe. The timeline is healing.](http://9gag.com/gag/abAGmMv)
- - 👉 [The Islamists in Berlin are more aggressive every day and the German police are restoring order and discipline. The German police are not intimidated.](http://9gag.com/gag/a6ZKeM8)<!-- MEMES:END -->
+ - 💣 [The definition of your life flashing before your eyes](http://9gag.com/gag/aD24rvG)
+ - ⏩ [Hospital horror story](http://9gag.com/gag/ae9DPAW)
+ - 👉 [How fast a trained dog recognizes danger](http://9gag.com/gag/aryVdwp)<!-- MEMES:END -->
 
 ---
 
