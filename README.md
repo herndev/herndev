@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Get your iPhone XS Max or iPhone 6s Plus repaired while you still can](https://appleinsider.com/articles/24/11/18/get-your-iphone-xs-max-or-iphone-6s-plus-repaired-while-you-still-can?utm_medium=rss)
- - [The Pixel Tablet finally gets Google VPN support in Android 15 QPR2](https://www.androidauthority.com/pixel-tablet-vpn-by-google-3500583/)
- - [Ahead of Black Friday, Mint Mobile is offering 3 months service for just $30 a month!](https://www.androidauthority.com/mint-mobile-30-deal-3500552/)<!-- TECH:END -->
+ - [Perplexity’s AI search engine can now buy products for you](https://www.theverge.com/2024/11/18/24299574/perplexity-ai-search-engine-buy-products)
+ - [M4 MacBook Pro display uses quantum dot film for more vibrant color &amp; motion performance](https://appleinsider.com/articles/24/11/15/m4-macbook-pro-use-quantum-dot-film-for-more-vibrant-color-motion-performance?utm_medium=rss)
+ - [Nike’s Air Max 1000 are almost entirely 3D-printed](https://www.theverge.com/2024/11/18/24299479/nike-air-max-1000-3d-printed-shoe-zellerfeld-collab)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
