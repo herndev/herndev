@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Celebrating the LEGO Horizon Adventures launch with a brand-new LEGO set](https://blog.playstation.com/2024/11/18/celebrating-the-lego-horizon-adventures-launch-with-a-brand-new-lego-set/)
- - [The 2024 Video Game Companion Hall of Fame](https://www.polygon.com/gaming/476306/best-video-game-rpg-companions-hall-of-fame)
- - [The top ten best selling CPUs on Amazon are all AMD chips, with the two-year old Ryzen 7 5700X sitting at the tippety-top and Intel&#39;s best effort relegated to 12th place](https://www.pcgamer.com/hardware/processors/the-top-ten-best-selling-cpus-on-amazon-are-all-amd-chips-with-the-two-year-old-ryzen-7-5700x-sitting-at-the-tippety-top-and-intels-best-effort-relegated-to-12th-place)<!-- GAME:END -->
+ - [Warwick is the perfect example of what makes Arcane’s animation so special](https://www.polygon.com/tv/479484/arcane-netflix-league-legends-warwick-vander-viktor)
+ - [This teeny unit might look like an adorable little AMD graphics card, but it&#39;s actually a fully formed PC with surprising performance](https://www.pcgamer.com/hardware/this-teeny-unit-might-look-like-an-adorable-little-amd-graphics-card-but-its-actually-a-fully-formed-pc-with-surprising-performance)
+ - [Celebrating the LEGO Horizon Adventures launch with a brand-new LEGO set](https://blog.playstation.com/2024/11/18/celebrating-the-lego-horizon-adventures-launch-with-a-brand-new-lego-set/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
