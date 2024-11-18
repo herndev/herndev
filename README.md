@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Young man trying to rob an old taxi driver](http://9gag.com/gag/avyzXP5)
- - ⏩ [Bruh](http://9gag.com/gag/aqynD6v)
- - 👉 [Guy posts about being ugly, girl calls him cute; now they&#39;re married and expecting a baby.](http://9gag.com/gag/azxmBvm)<!-- MEMES:END -->
+ - 💣 [Getting hit by a plane while trying to exit one](http://9gag.com/gag/awyB8K1)
+ - ⏩ [Guy posts about being ugly, girl calls him cute; now they&#39;re married and expecting a baby.](http://9gag.com/gag/azxmBvm)
+ - 👉 [The marriage is over](http://9gag.com/gag/amovp3o)<!-- MEMES:END -->
 
 ---
 
