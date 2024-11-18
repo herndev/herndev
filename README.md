@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Pizza boxes next week: Caution, contents may be slippery when stepped on](http://9gag.com/gag/aqynBoP)
- - ⏩ [Saw that coming](http://9gag.com/gag/axy9QPK)
- - 👉 [Anything can be a di*do](http://9gag.com/gag/aD24r9G)<!-- MEMES:END -->
+ - 💣 [How fast a trained dog recognizes danger](http://9gag.com/gag/aryVdwp)
+ - ⏩ [Anything can be a di*do](http://9gag.com/gag/aD24r9G)
+ - 👉 [Pizza boxes next week: Caution, contents may be slippery when stepped on](http://9gag.com/gag/aqynBoP)<!-- MEMES:END -->
 
 ---
 
