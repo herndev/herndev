@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle answer for Monday, November 18](https://www.pcgamer.com/games/puzzle/wordle-answer-today-november-18-2024)
  - [All the Dune: Prophecy houses and characters you need to know](https://www.polygon.com/tv/479937/dune-prophecy-houses-emperor-corrino-atreides-harkonnen-hart)
- - [Dune: Prophecy’s Desmond Hart is a bit of a conundrum &lpar;and maybe a game changer&rpar;](https://www.polygon.com/tv/479973/dune-prophecy-desmond-hart-who-is-powers-how-fire-lore)
- - [Bioware&#39;s art lead shared some off-the-wall rejected concepts for Dragon Age: Inquisition&#39;s multiplayer characters, including the return of a controversial companion we never saw again](https://www.pcgamer.com/games/dragon-age/biowares-art-lead-shared-some-off-the-wall-rejected-concepts-for-dragon-age-inquisitions-multiplayer-characters-including-the-return-of-a-controversial-companion-we-never-saw-again)<!-- GAME:END -->
+ - [Dune: Prophecy’s Desmond Hart is a bit of a conundrum &lpar;and maybe a game changer&rpar;](https://www.polygon.com/tv/479973/dune-prophecy-desmond-hart-who-is-powers-how-fire-lore)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
