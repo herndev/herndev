@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Chinese smartphone manufacturers are ramping up their efforts in Europe to grab marketshare from Apple and Samsung with tech such as foldable devices &lpar;Financial Times&rpar;](http://www.techmeme.com/241118/p2#a241118p2)
- - [One UI on Galaxy S25 could offer smoother gameplay with this game mode addition](https://www.androidauthority.com/samsung-galaxy-s25-game-mode-feature-3500342/)
- - [Edison: 31% of US weekly podcast listeners say YouTube is their most used platform to listen to podcasts, surpassing Spotify at 27% and Apple Podcasts at 15% &lpar;Ben Cohen/Wall Street Journal&rpar;](http://www.techmeme.com/241118/p1#a241118p1)<!-- TECH:END -->
+ - [Zoom cameras are about to get even better thanks to Samsung](https://www.androidauthority.com/samsung-alop-periscope-camera-3500350/)
+ - [The best deals of Black Friday 2024: Phones, smart home devices, and a whole lot more](https://www.androidauthority.com/black-friday-deals-2024-3499762/)
+ - [Best Internet Providers in Massachusetts](https://www.cnet.com/home/internet/best-internet-providers-in-massachusetts/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
