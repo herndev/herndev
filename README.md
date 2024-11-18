@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Getting hit by a plane while trying to exit one](http://9gag.com/gag/awyB8K1)
- - ⏩ [Guy posts about being ugly, girl calls him cute; now they&#39;re married and expecting a baby.](http://9gag.com/gag/azxmBvm)
- - 👉 [The marriage is over](http://9gag.com/gag/amovp3o)<!-- MEMES:END -->
+ - 💣 [He had the choice and made his decision](http://9gag.com/gag/ayNeZ88)
+ - ⏩ [Dating life](http://9gag.com/gag/aXPgG12)
+ - 👉 [Young man trying to rob an old taxi driver](http://9gag.com/gag/avyzXP5)<!-- MEMES:END -->
 
 ---
 
