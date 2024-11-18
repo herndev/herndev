@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Pew pew pew or the Helmet](http://9gag.com/gag/ajP9MOx)
- - ⏩ [How fast a trained dog recognizes danger](http://9gag.com/gag/aryVdwp)
- - 👉 [Hospital horror story](http://9gag.com/gag/ae9DPAW)<!-- MEMES:END -->
+ - 💣 [There&#39;s been a slight miscalculation](http://9gag.com/gag/ayNeZPb)
+ - ⏩ [Guy posts about being ugly, girl calls him cute; now they&#39;re married and expecting a baby.](http://9gag.com/gag/azxmBvm)
+ - 👉 [A Big Beautiful Wall](http://9gag.com/gag/a4P3mry)<!-- MEMES:END -->
 
 ---
 
