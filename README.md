@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Chase Sapphire Preferred Should Be Your Next Travel Credit Card -- Here’s Why](https://www.cnet.com/personal-finance/chase-sapphire-preferred/#ftag=CAD590a51e)
- - [Pairing the Chase Sapphire Preferred Card and Chase Freedom Unlimited to Level Up Your Rewards](https://www.cnet.com/personal-finance/pairing-the-chase-sapphire-preferred-card-and-chase-freedom-unlimited/#ftag=CAD590a51e)
- - [Thieves are using stolen tracking data to steal iPhone packages](https://appleinsider.com/articles/24/11/18/thieves-are-using-stolen-tracking-data-to-steal-iphone-packages?utm_medium=rss)<!-- TECH:END -->
+ - [Get your iPhone XS Max or iPhone 6s Plus repaired while you still can](https://appleinsider.com/articles/24/11/18/get-your-iphone-xs-max-or-iphone-6s-plus-repaired-while-you-still-can?utm_medium=rss)
+ - [The Pixel Tablet finally gets Google VPN support in Android 15 QPR2](https://www.androidauthority.com/pixel-tablet-vpn-by-google-3500583/)
+ - [Ahead of Black Friday, Mint Mobile is offering 3 months service for just $30 a month!](https://www.androidauthority.com/mint-mobile-30-deal-3500552/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
