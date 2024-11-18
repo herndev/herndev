@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Perplexity’s AI search engine can now buy products for you](https://www.theverge.com/2024/11/18/24299574/perplexity-ai-search-engine-buy-products)
- - [M4 MacBook Pro display uses quantum dot film for more vibrant color &amp; motion performance](https://appleinsider.com/articles/24/11/15/m4-macbook-pro-use-quantum-dot-film-for-more-vibrant-color-motion-performance?utm_medium=rss)
- - [Nike’s Air Max 1000 are almost entirely 3D-printed](https://www.theverge.com/2024/11/18/24299479/nike-air-max-1000-3d-printed-shoe-zellerfeld-collab)<!-- TECH:END -->
+ - [Apple&#39;s new M4 MacBook Pro drops to record low $1,399 at Amazon](https://appleinsider.com/articles/24/11/18/apples-new-m4-macbook-pro-drops-to-record-low-1399-at-amazon?utm_medium=rss)
+ - [This leaked Pixel Laptop will likely run Android, not Chrome OS](https://www.androidauthority.com/pixel-laptop-android-3500619/)
+ - [Source: Google is turning Chrome OS into Android to compete with the iPad](https://www.androidauthority.com/chrome-os-becoming-android-3500661/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
