@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Subscribe to Shopkeeper to get the best holiday deals in your inbox](https://www.polygon.com/deals/481035/shopkeeper-newsletter-black-friday-holiday-shopping)
- - [Get the Pokémon TCG Pocket Card You Want With The Pack Point Exchange System](https://kotaku.com/get-the-pokemon-tcg-pocket-card-you-want-with-the-pack-1851702255)
- - [Turn The Tables On Your Foes With Dragon Ball: Sparking Zero’s Most Difficult Counter](https://kotaku.com/turn-the-tables-on-your-foes-with-dragon-ball-sparking-1851702232)<!-- GAME:END -->
+ - [GTA 6 Fans Think The Moon Is Telling Them When The Next Trailer Will Arrive](https://kotaku.com/gta-6-fans-moon-theory-november-22-new-trailer-rockstar-1851702355)
+ - [Roblox adds new rules for players under 13 following scathing child safety report](https://www.pcgamer.com/software/platforms/roblox-adds-new-rules-for-players-under-13-following-scathing-child-safety-report)
+ - [There was one big snub in the Game Awards nominations](https://www.polygon.com/awards/481109/game-awards-2024-nominees-snubs-surprises)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
