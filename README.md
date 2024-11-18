@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Mistral adds web search, image generation, Canvas for in-line editing, more to its Le Chat chatbot, and unveils Pixtral Large, a 124B-parameter multimodal model &lpar;Carl Franzen/VentureBeat&rpar;](http://www.techmeme.com/241118/p22#a241118p22)
- - [Corsair now has a gaming keyboard and mouse for the Mac](https://www.theverge.com/2024/11/18/24299881/corsair-mac-k65-plus-wireless-gaming-keyboard-m75-mouse)
- - [Telegram updates &quot;mini-apps&quot; to be able to run full screen and be pinned to homescreens; devs can now add subscription plans, a &quot;gift&quot; sending feature, and more &lpar;Umar Shakir/The Verge&rpar;](http://www.techmeme.com/241118/p21#a241118p21)<!-- TECH:END -->
+ - [Narwal Freo and Freo X Ultra robots plummet to record-low prices!](https://www.androidauthority.com/narwal-freo-narwal-fre-x-ultra-deals-3500711/)
+ - [US lawyers will reportedly try to force Google to sell Chrome and unbundle Android](https://www.theverge.com/2024/11/18/24300033/doj-google-monopoly-remedies-search-chrome-android-ai)
+ - [Perplexity debuts a shopping feature offering product recommendations, one-click checkout, and more for Pro users in the US, alongside a merchant program &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/241118/p28#a241118p28)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
