@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Support CureDuchenne with The Reven Pack in World of Warcraft](https://shop.battle.net/product/world-of-warcraft-the-reven-pack%20#new_tab)
- - [The Game Awards announces Game of the Year 2024 nominees](https://www.polygon.com/480312/game-awards-2024-nominees-list-game-of-the-year)
- - [Here Are Your 2024 GOTY Nominees For Geoff Keighley&#39;s 10th Annual Game Awards](https://kotaku.com/game-awards-2024-nominees-goty-tga-black-myth-keighley-1851701923)<!-- GAME:END -->
+ - [The Faces &amp; Places of Indiana Jones and the Great Circle](https://indianajones.bethesda.net/en-US/faces-and-places#new_tab)
+ - [Steam is &#39;an unsafe place for teens and young adults&#39;: US senator warns Gabe Newell of &#39;more intense scrutiny&#39; from the government if Valve doesn&#39;t take action against extremist content](https://www.pcgamer.com/software/platforms/steam-is-an-unsafe-place-for-teens-and-young-adults-us-senator-warns-gabe-newell-of-more-intense-scrutiny-from-the-government-if-valve-doesnt-take-action-against-extremist-content)
+ - [Microsoft&#39;s Phil Spencer denies Avowed was delayed because it&#39;s janky: &#39;We didn’t move it because Obsidian needed the time. They’ll use the time&#39;](https://www.pcgamer.com/games/rpg/microsofts-phil-spencer-denies-avowed-was-delayed-because-its-janky-we-didnt-move-it-because-obsidian-needed-the-time-theyll-use-the-time)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
