@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ray-Ban Meta users in Europe can now interact with Meta AI](https://www.androidauthority.com/meta-ai-ray-ban-europe-3500473/)
- - [Brendan Carr claims Big Tech &quot;worked with marketing, ad, &amp; &#39;fact checkers&#39; to punish free speech outlets&quot; and asks tech leaders about NewsGuard partnerships &lpar;Joshua Benton/Nieman Lab&rpar;](http://www.techmeme.com/241118/p17#a241118p17)
- - [tvOS 18.2 gains new Snoopy screensavers with latest developer beta](https://appleinsider.com/articles/24/11/18/tvos-182-gains-new-snoopy-screensavers-with-latest-developer-beta?utm_medium=rss)<!-- TECH:END -->
+ - [Deal: The Samsung Galaxy S24 FE is $175 off &lpar;or more&rpar;](https://www.androidauthority.com/samsung-galaxy-s24-fe-deal-2-3500712/)
+ - [Inside Elon Musk’s messy breakup with OpenAI](https://www.theverge.com/2024/11/18/24299787/elon-musk-openai-lawsuit-sam-altman-xai-google-deepmind)
+ - [Samsung could get some rival Android devices banned in US if it has its way](https://www.androidauthority.com/samsung-display-patent-infringement-3500703/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
