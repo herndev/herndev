@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Designed for Xbox Flight Peripherals, Cleared for Take-Off on November 19](https://news.xbox.com/en-us/2024/11/18/microsoft-flight-simulator-2024-accessories-designed-for-xbox/)
- - [Horizon Zero Dawn&#39;s Second Lego Set Is Coming And It Won&#39;t Break The Bank](https://kotaku.com/lego-horizon-adventure-zero-dawn-set-aloy-release-date-1851701641)
- - [Masters of Light unleashes its spell-casting power on PS VR2 next month](https://blog.playstation.com/2024/11/18/masters-of-light-unleashes-its-spell-casting-power-on-ps-vr2-next-month/)<!-- GAME:END -->
+ - [The best PC gaming gifts for any budget](https://www.polygon.com/gift-guide/479004/best-pc-gaming-gifts)
+ - [I&#39;ve decided Casio&#39;s smart ring-watch is all that&#39;s good in this messed up universe right now](https://www.pcgamer.com/hardware/ive-decided-casios-smart-ring-watch-is-all-thats-good-in-this-messed-up-universe-right-now)
+ - [PS VR2 new Alien: Rogue Incursion details, Mare out today, release dates for Hitman World of Assassination and more](https://blog.playstation.com/2024/11/18/ps-vr2-new-alien-rogue-incursion-details-mare-out-today-release-dates-for-hitman-world-of-assassination-and-more/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
