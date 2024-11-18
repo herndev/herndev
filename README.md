@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Dune: Prophecy makes a big choice about one of the universe’s most important events](https://www.polygon.com/tv/478271/dune-prophecy-butlerian-jihad-explainer-brian-herbert)
- - [Yakuza/Like a Dragon creator Toshihiro Nagoshi says his studio&#39;s new game won&#39;t be that big after all: &#39;it&#39;s not modern to have similar experiences repeated over and over again&#39;](https://www.pcgamer.com/gaming-industry/game-development/yakuza-like-a-dragon-creator-toshihiro-nagoshi-says-his-studios-new-game-wont-be-that-big-after-all-its-not-modern-to-have-similar-experiences-repeated-over-and-over-again)
- - [The Patapon designer&#39;s new rhythm-action roguelike is coming to PC](https://www.pcgamer.com/games/rhythm/the-patapon-designers-new-rhythm-action-roguelike-is-coming-to-pc)<!-- GAME:END -->
+ - [All the Dune: Prophecy houses and characters you need to know](https://www.polygon.com/tv/479937/dune-prophecy-houses-emperor-corrino-atreides-harkonnen-hart)
+ - [Dune: Prophecy’s Desmond Hart is a bit of a conundrum &lpar;and maybe a game changer&rpar;](https://www.polygon.com/tv/479973/dune-prophecy-desmond-hart-who-is-powers-how-fire-lore)
+ - [Bioware&#39;s art lead shared some off-the-wall rejected concepts for Dragon Age: Inquisition&#39;s multiplayer characters, including the return of a controversial companion we never saw again](https://www.pcgamer.com/games/dragon-age/biowares-art-lead-shared-some-off-the-wall-rejected-concepts-for-dragon-age-inquisitions-multiplayer-characters-including-the-return-of-a-controversial-companion-we-never-saw-again)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
