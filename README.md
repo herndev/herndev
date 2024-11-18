@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s new M4 MacBook Pro drops to record low $1,399 at Amazon](https://appleinsider.com/articles/24/11/18/apples-new-m4-macbook-pro-drops-to-record-low-1399-at-amazon?utm_medium=rss)
- - [This leaked Pixel Laptop will likely run Android, not Chrome OS](https://www.androidauthority.com/pixel-laptop-android-3500619/)
- - [Source: Google is turning Chrome OS into Android to compete with the iPad](https://www.androidauthority.com/chrome-os-becoming-android-3500661/)<!-- TECH:END -->
+ - [DoorDash delivers convenience with Apple Reminders integration](https://appleinsider.com/articles/24/11/18/doordash-delivers-convenience-with-apple-reminders-integration?utm_medium=rss)
+ - [The best sleep gadgets to help you catch those Zzzs](https://www.theverge.com/23291925/best-sleep-tech-trackers-earbuds-wearables)
+ - [DoorDash will let you import your grocery list from Apple’s Reminders app](https://www.theverge.com/2024/11/18/24299695/doordash-import-grocery-list-apple-reminders-app)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
