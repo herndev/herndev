@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Trump: FCC commissioner Brendan Carr will chair the FCC; Carr has suggested limiting Section 230 of the Communications Act to curb Big Tech content moderation &lpar;Bloomberg&rpar;](http://www.techmeme.com/241117/p13#a241117p13)
- - [Trump names Brendan Carr as his FCC leader](https://www.theverge.com/2024/11/17/24299207/brendan-carr-fcc-chairman-trump)
- - [Trump taps Carr to chair FCC &lpar;John Hendel/Politico&rpar;](http://www.techmeme.com/241117/p12#a241117p12)<!-- TECH:END -->
+ - [Edison: 31% of US weekly podcast listeners say YouTube is their most used platform to listen to podcasts, surpassing Spotify at 27% and Apple Podcasts at 15% &lpar;Ben Cohen/Wall Street Journal&rpar;](http://www.techmeme.com/241118/p1#a241118p1)
+ - [Today&#39;s NYT Mini Crossword Answers for Monday, Nov. 18](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-monday-nov-18/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Nov. 18, #56](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-nov-18-56/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
