@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Smoothly picking cotton](http://9gag.com/gag/adBVbDQ)
+ - 💣 [Detainee slips cuffs and distracts driving cop, causes a wreck and gets ejected.](http://9gag.com/gag/ayNeVvq)
  - ⏩ [Woman blocking the way](http://9gag.com/gag/a1mWw4v)
- - 👉 [Detainee slips cuffs and distracts driving cop, causes a wreck and gets ejected.](http://9gag.com/gag/ayNeVvq)<!-- MEMES:END -->
+ - 👉 [Pew pew pew or the Helmet](http://9gag.com/gag/ajP9MOx)<!-- MEMES:END -->
 
 ---
 
