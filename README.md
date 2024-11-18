@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Get a free Google Nest Audio when you buy a Nest Learning Thermostat](https://www.androidauthority.com/get-a-free-google-nest-audio-when-you-buy-a-nest-learning-thermostat-3500166/)
- - [Half-Life 2 is getting a huge 20th anniversary update](https://www.theverge.com/2024/11/15/24297691/half-life-2-20th-anniversary-update-documentary)
- - [Google knows you like AI Overviews so much, it’s putting AI Overviews in your AI Overviews](https://www.androidauthority.com/nested-ai-overviews-3500156/)<!-- TECH:END -->
+ - [Sources: Trump&#39;s transition team is looking for candidates to lead the US Department of Transportation and develop a federal framework for autonomous vehicles &lpar;Bloomberg&rpar;](http://www.techmeme.com/241117/p10#a241117p10)
+ - [Sources: CISA&#39;s director Jen Easterly and deputy director Nitin Natarajan plan to leave the agency on January 20, 2025, the day Trump will be inaugurated &lpar;Nextgov/FCW&rpar;](http://www.techmeme.com/241117/p9#a241117p9)
+ - [Apple drops the Lightning adapter that still let iPhones use wired headphones](https://appleinsider.com/articles/24/11/17/apple-drops-the-lightning-adapter-that-still-let-iphones-use-wired-headphones?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
