@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Faces &amp; Places of Indiana Jones and the Great Circle](https://indianajones.bethesda.net/en-US/faces-and-places#new_tab)
- - [Steam is &#39;an unsafe place for teens and young adults&#39;: US senator warns Gabe Newell of &#39;more intense scrutiny&#39; from the government if Valve doesn&#39;t take action against extremist content](https://www.pcgamer.com/software/platforms/steam-is-an-unsafe-place-for-teens-and-young-adults-us-senator-warns-gabe-newell-of-more-intense-scrutiny-from-the-government-if-valve-doesnt-take-action-against-extremist-content)
- - [Microsoft&#39;s Phil Spencer denies Avowed was delayed because it&#39;s janky: &#39;We didn’t move it because Obsidian needed the time. They’ll use the time&#39;](https://www.pcgamer.com/games/rpg/microsofts-phil-spencer-denies-avowed-was-delayed-because-its-janky-we-didnt-move-it-because-obsidian-needed-the-time-theyll-use-the-time)<!-- GAME:END -->
+ - [US Air National Guardsman gets 15 years for leaking military secrets on a Minecraft Discord server: &#39;The scope of his betrayal is breathtaking… the amount of damage immeasurable&#39;](https://www.pcgamer.com/gaming-industry/us-air-national-guardsman-gets-15-years-for-leaking-military-secrets-on-a-minecraft-discord-server-the-scope-of-his-betrayal-is-breathtaking-the-amount-of-damage-immeasurable)
+ - [The Companions From Every Dragon Age Game, Ranked From Worst To Best](https://kotaku.com/dragon-age-companions-origins-2-inquisition-veilguard-1851702114)
+ - [Where to pre-order Lego’s new Horizon Adventures set](https://www.polygon.com/pre-order/480731/lego-horizon-adventure-set-aloy-varl-shell-walker-sawtooth)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
