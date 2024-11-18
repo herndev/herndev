@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Warwick is the perfect example of what makes Arcane’s animation so special](https://www.polygon.com/tv/479484/arcane-netflix-league-legends-warwick-vander-viktor)
- - [This teeny unit might look like an adorable little AMD graphics card, but it&#39;s actually a fully formed PC with surprising performance](https://www.pcgamer.com/hardware/this-teeny-unit-might-look-like-an-adorable-little-amd-graphics-card-but-its-actually-a-fully-formed-pc-with-surprising-performance)
- - [Celebrating the LEGO Horizon Adventures launch with a brand-new LEGO set](https://blog.playstation.com/2024/11/18/celebrating-the-lego-horizon-adventures-launch-with-a-brand-new-lego-set/)<!-- GAME:END -->
+ - [Designed for Xbox Flight Peripherals, Cleared for Take-Off on November 19](https://news.xbox.com/en-us/2024/11/18/microsoft-flight-simulator-2024-accessories-designed-for-xbox/)
+ - [Horizon Zero Dawn&#39;s Second Lego Set Is Coming And It Won&#39;t Break The Bank](https://kotaku.com/lego-horizon-adventure-zero-dawn-set-aloy-release-date-1851701641)
+ - [Masters of Light unleashes its spell-casting power on PS VR2 next month](https://blog.playstation.com/2024/11/18/masters-of-light-unleashes-its-spell-casting-power-on-ps-vr2-next-month/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
