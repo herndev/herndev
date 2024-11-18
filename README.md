@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Helldivers 2 players endure sarcastic propaganda that commends their &#39;undeniable tactical brilliance&#39; after the &#39;blob&#39; abandons a nearly-won objective for basically no reason](https://www.pcgamer.com/games/third-person-shooter/helldivers-2-players-endure-sarcastic-propaganda-that-commends-their-undeniable-tactical-brilliance-after-the-blob-abandons-a-nearly-won-objective-for-basically-no-reason)
- - [How to prepare for The Storybook Vale in Disney Dreamlight Valley](https://www.pcgamer.com/games/life-sim/dreamlight-valley-how-to-prepare-for-the-storybook-vale)
- - [How to make Banana Split in Disney Dreamlight Valley](https://www.pcgamer.com/games/life-sim/disney-dreamlight-valley-banana-split-recipe)<!-- GAME:END -->
+ - [Support CureDuchenne with The Reven Pack in World of Warcraft](https://shop.battle.net/product/world-of-warcraft-the-reven-pack%20#new_tab)
+ - [The Game Awards announces Game of the Year 2024 nominees](https://www.polygon.com/480312/game-awards-2024-nominees-list-game-of-the-year)
+ - [Here Are Your 2024 GOTY Nominees For Geoff Keighley&#39;s 10th Annual Game Awards](https://kotaku.com/game-awards-2024-nominees-goty-tga-black-myth-keighley-1851701923)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
