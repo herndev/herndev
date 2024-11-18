@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Deal: The Samsung Galaxy S24 FE is $175 off &lpar;or more&rpar;](https://www.androidauthority.com/samsung-galaxy-s24-fe-deal-2-3500712/)
- - [Inside Elon Musk’s messy breakup with OpenAI](https://www.theverge.com/2024/11/18/24299787/elon-musk-openai-lawsuit-sam-altman-xai-google-deepmind)
- - [Samsung could get some rival Android devices banned in US if it has its way](https://www.androidauthority.com/samsung-display-patent-infringement-3500703/)<!-- TECH:END -->
+ - [Mistral adds web search, image generation, Canvas for in-line editing, more to its Le Chat chatbot, and unveils Pixtral Large, a 124B-parameter multimodal model &lpar;Carl Franzen/VentureBeat&rpar;](http://www.techmeme.com/241118/p22#a241118p22)
+ - [Corsair now has a gaming keyboard and mouse for the Mac](https://www.theverge.com/2024/11/18/24299881/corsair-mac-k65-plus-wireless-gaming-keyboard-m75-mouse)
+ - [Telegram updates &quot;mini-apps&quot; to be able to run full screen and be pinned to homescreens; devs can now add subscription plans, a &quot;gift&quot; sending feature, and more &lpar;Umar Shakir/The Verge&rpar;](http://www.techmeme.com/241118/p21#a241118p21)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
