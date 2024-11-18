@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [There&#39;s been a slight miscalculation](http://9gag.com/gag/ayNeZPb)
- - ⏩ [Guy posts about being ugly, girl calls him cute; now they&#39;re married and expecting a baby.](http://9gag.com/gag/azxmBvm)
- - 👉 [A Big Beautiful Wall](http://9gag.com/gag/a4P3mry)<!-- MEMES:END -->
+ - ⏩ [Groomsman witnesses cake cruelty](http://9gag.com/gag/awyB8MW)
+ - 👉 [How is this guy still alive](http://9gag.com/gag/adBV4PB)<!-- MEMES:END -->
 
 ---
 
