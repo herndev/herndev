@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [US Air National Guardsman gets 15 years for leaking military secrets on a Minecraft Discord server: &#39;The scope of his betrayal is breathtaking… the amount of damage immeasurable&#39;](https://www.pcgamer.com/gaming-industry/us-air-national-guardsman-gets-15-years-for-leaking-military-secrets-on-a-minecraft-discord-server-the-scope-of-his-betrayal-is-breathtaking-the-amount-of-damage-immeasurable)
- - [The Companions From Every Dragon Age Game, Ranked From Worst To Best](https://kotaku.com/dragon-age-companions-origins-2-inquisition-veilguard-1851702114)
- - [Where to pre-order Lego’s new Horizon Adventures set](https://www.polygon.com/pre-order/480731/lego-horizon-adventure-set-aloy-varl-shell-walker-sawtooth)<!-- GAME:END -->
+ - [Every Ridley Scott Movie, Ranked From Worst To Best](https://kotaku.com/ridley-scott-movies-ranked-gladiator-ii-1851701914)
+ - [New major Fields of Mistria patch out now, adds romance and animal mounts](https://www.polygon.com/gaming/480729/fields-of-mistria-first-big-patch-notes-romance)
+ - [Metaphor: ReFantazio, As Told By Steam Reviews](https://kotaku.com/metaphor-refantazio-reviews-steam-atlus-1851702182)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
