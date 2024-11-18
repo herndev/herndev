@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Today&#39;s Wordle answer for Monday, November 18](https://www.pcgamer.com/games/puzzle/wordle-answer-today-november-18-2024)
- - [All the Dune: Prophecy houses and characters you need to know](https://www.polygon.com/tv/479937/dune-prophecy-houses-emperor-corrino-atreides-harkonnen-hart)
- - [Dune: Prophecy’s Desmond Hart is a bit of a conundrum &lpar;and maybe a game changer&rpar;](https://www.polygon.com/tv/479973/dune-prophecy-desmond-hart-who-is-powers-how-fire-lore)<!-- GAME:END -->
+ - [Celebrating the LEGO Horizon Adventures launch with a brand-new LEGO set](https://blog.playstation.com/2024/11/18/celebrating-the-lego-horizon-adventures-launch-with-a-brand-new-lego-set/)
+ - [The 2024 Video Game Companion Hall of Fame](https://www.polygon.com/gaming/476306/best-video-game-rpg-companions-hall-of-fame)
+ - [The top ten best selling CPUs on Amazon are all AMD chips, with the two-year old Ryzen 7 5700X sitting at the tippety-top and Intel&#39;s best effort relegated to 12th place](https://www.pcgamer.com/hardware/processors/the-top-ten-best-selling-cpus-on-amazon-are-all-amd-chips-with-the-two-year-old-ryzen-7-5700x-sitting-at-the-tippety-top-and-intels-best-effort-relegated-to-12th-place)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
