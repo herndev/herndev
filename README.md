@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Detainee slips cuffs and distracts driving cop, causes a wreck and gets ejected.](http://9gag.com/gag/ayNeVvq)
- - ⏩ [How about that.](http://9gag.com/gag/aBymNXD)
+ - 💣 [Dating life](http://9gag.com/gag/aXPgG12)
+ - ⏩ [Boss : ` What happened? Did you scratch the Chevy pickup truck? - Tow Guy : ` Hehe....`](http://9gag.com/gag/a9ynVe1)
  - 👉 [How fast a trained dog recognizes danger](http://9gag.com/gag/aryVdwp)<!-- MEMES:END -->
 
 ---
