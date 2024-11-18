@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Valve gets the original Half-Life 2 development team back together for a huge 20th anniversary update—and the game is now free on Steam](https://www.pcgamer.com/games/fps/valve-gets-the-original-half-life-2-development-team-back-together-for-a-huge-20th-anniversary-update-and-the-game-is-now-free-on-steam)
- - [Everything You Need To Know About The Dune Movies Before Watching Dune: Prophecy](https://kotaku.com/everything-you-need-to-know-about-the-dune-movies-befor-1851700849)
- - [LEGO Horizon Adventures Review](https://www.pcgamer.com/games/action/lego-horizon-adventures-review)<!-- GAME:END -->
+ - [The Patapon designer&#39;s new rhythm-action roguelike is coming to PC](https://www.pcgamer.com/games/rhythm/the-patapon-designers-new-rhythm-action-roguelike-is-coming-to-pc)
+ - [Five new Steam games you probably missed &lpar;November 18, 2024&rpar;](https://www.pcgamer.com/software/platforms/five-new-steam-games-you-probably-missed-november-18-2024)
+ - [Five years in, chill exploration-crafting game Astroneer gets its first paid expansion](https://www.pcgamer.com/games/survival-crafting/five-years-in-chill-exploration-crafting-game-astroneer-gets-its-first-paid-expansion)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
