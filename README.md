@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [How fast a trained dog recognizes danger](http://9gag.com/gag/aryVdwp)
- - ⏩ [Anything can be a di*do](http://9gag.com/gag/aD24r9G)
- - 👉 [Pizza boxes next week: Caution, contents may be slippery when stepped on](http://9gag.com/gag/aqynBoP)<!-- MEMES:END -->
+ - 💣 [Pizza boxes next week: Caution, contents may be slippery when stepped on](http://9gag.com/gag/aqynBoP)
+ - ⏩ [How fast a trained dog recognizes danger](http://9gag.com/gag/aryVdwp)
+ - 👉 [Detainee slips cuffs and distracts driving cop, causes a wreck and gets ejected.](http://9gag.com/gag/ayNeVvq)<!-- MEMES:END -->
 
 ---
 
