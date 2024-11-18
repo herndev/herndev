@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Foxconn India drops recruitment discrimination against married women](https://appleinsider.com/articles/24/11/18/foxconn-india-drops-recruitment-discrimination-against-married-women?utm_medium=rss)
- - [Tim Berners-Lee&#39;s Inrupt begins an early trial of its digital wallet in Belgium to help deliver social services to 7M citizens, as he worries over AI&#39;s rise &lpar;Parmy Olson/Bloomberg&rpar;](http://www.techmeme.com/241118/p9#a241118p9)
- - [How Substack is betting on politics content and recruiting stars like Nate Silver, as profits remain elusive; sources: Elon Musk sought to buy it in April 2023 &lpar;New York Times&rpar;](http://www.techmeme.com/241118/p8#a241118p8)<!-- TECH:END -->
+ - [Tanner Leatherstein&#39;s Viral Mission to Save You From Bad Luxury Bags](https://www.wired.com/story/tanner-leathersteins-viral-mission-to-save-you-from-bad-luxury-bags/)
+ - [PitchBook: in 2023, US VCs returned $26B worth of shares back to investors, the lowest amount since 2011, and invested $60B more than they collected, a record &lpar;Berber Jin/Wall Street Journal&rpar;](http://www.techmeme.com/241118/p11#a241118p11)
+ - [Automatic Braking Systems Save Lives. Now They&#39;ll Need to Work at 62 MPH](https://www.wired.com/story/automatic-emergency-braking-systems-62-mph/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
