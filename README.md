@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Peak WWF](http://9gag.com/gag/a7oWPGz)
+ - 💣 [Hospital horror story](http://9gag.com/gag/ae9DPAW)
  - ⏩ [Still happening in 2024 for some?](http://9gag.com/gag/aYQyR00)
- - 👉 [Groomsman witnesses cake cruelty](http://9gag.com/gag/awyB8MW)<!-- MEMES:END -->
+ - 👉 [Getting hit by a plane while trying to exit one](http://9gag.com/gag/awyB8K1)<!-- MEMES:END -->
 
 ---
 
