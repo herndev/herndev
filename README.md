@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Edison: 31% of US weekly podcast listeners say YouTube is their most used platform to listen to podcasts, surpassing Spotify at 27% and Apple Podcasts at 15% &lpar;Ben Cohen/Wall Street Journal&rpar;](http://www.techmeme.com/241118/p1#a241118p1)
- - [Today&#39;s NYT Mini Crossword Answers for Monday, Nov. 18](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-monday-nov-18/#ftag=CAD590a51e)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Nov. 18, #56](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-nov-18-56/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Chinese smartphone manufacturers are ramping up their efforts in Europe to grab marketshare from Apple and Samsung with tech such as foldable devices &lpar;Financial Times&rpar;](http://www.techmeme.com/241118/p2#a241118p2)
+ - [One UI on Galaxy S25 could offer smoother gameplay with this game mode addition](https://www.androidauthority.com/samsung-galaxy-s25-game-mode-feature-3500342/)
+ - [Edison: 31% of US weekly podcast listeners say YouTube is their most used platform to listen to podcasts, surpassing Spotify at 27% and Apple Podcasts at 15% &lpar;Ben Cohen/Wall Street Journal&rpar;](http://www.techmeme.com/241118/p1#a241118p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
