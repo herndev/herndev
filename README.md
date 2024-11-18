@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Trump picks Brendan Carr to lead FCC](https://www.theverge.com/2024/11/17/24299207/brendan-carr-fcc-chairman-trump)
  - [Trump says FCC commissioner Brendan Carr will chair the agency; Carr can immediately assume control once Trump is inaugurated as he is already on the commission &lpar;John Hendel/Politico&rpar;](http://www.techmeme.com/241117/p12#a241117p12)
- - [Sources detail efforts by Google and Meta to sink KOSA, which passed in the Senate almost unanimously, by dividing US House lawmakers with culture war issues &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/241117/p11#a241117p11)
- - [Apple’s Lightning-to-3.5mm headphone adapter may be going away](https://www.theverge.com/2024/11/17/24299072/apple-lightning-to-3-5mm-headphone-jack-adapter-sold-out-apple-site)<!-- TECH:END -->
+ - [Sources detail efforts by Google and Meta to sink KOSA, which passed in the Senate almost unanimously, by dividing US House lawmakers with culture war issues &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/241117/p11#a241117p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
