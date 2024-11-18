@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Every Ridley Scott Movie, Ranked From Worst To Best](https://kotaku.com/ridley-scott-movies-ranked-gladiator-ii-1851701914)
- - [New major Fields of Mistria patch out now, adds romance and animal mounts](https://www.polygon.com/gaming/480729/fields-of-mistria-first-big-patch-notes-romance)
- - [Metaphor: ReFantazio, As Told By Steam Reviews](https://kotaku.com/metaphor-refantazio-reviews-steam-atlus-1851702182)<!-- GAME:END -->
+ - [Subscribe to Shopkeeper to get the best holiday deals in your inbox](https://www.polygon.com/deals/481035/shopkeeper-newsletter-black-friday-holiday-shopping)
+ - [Get the Pokémon TCG Pocket Card You Want With The Pack Point Exchange System](https://kotaku.com/get-the-pokemon-tcg-pocket-card-you-want-with-the-pack-1851702255)
+ - [Turn The Tables On Your Foes With Dragon Ball: Sparking Zero’s Most Difficult Counter](https://kotaku.com/turn-the-tables-on-your-foes-with-dragon-ball-sparking-1851702232)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
