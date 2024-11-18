@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [He had the choice and made his decision](http://9gag.com/gag/ayNeZ88)
- - ⏩ [Dating life](http://9gag.com/gag/aXPgG12)
- - 👉 [Young man trying to rob an old taxi driver](http://9gag.com/gag/avyzXP5)<!-- MEMES:END -->
+ - 💣 [They never tell this!](http://9gag.com/gag/aBymNGN)
+ - ⏩ [Smoothly picking cotton](http://9gag.com/gag/adBVbDQ)
+ - 👉 [Well, who was it?](http://9gag.com/gag/an74Gyo)<!-- MEMES:END -->
 
 ---
 
