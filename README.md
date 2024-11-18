@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I mean\u2026 who doesn\u2019t like French fries \ud83c\udf5f](http://9gag.com/gag/a87GnZY)
- - ⏩ [He had the choice and made his decision](http://9gag.com/gag/ayNeZ88)
- - 👉 [Stop forcing your mental illness on games](http://9gag.com/gag/axy9nVW)<!-- MEMES:END -->
+ - 💣 [Smoothly picking cotton](http://9gag.com/gag/adBVbDQ)
+ - ⏩ [Woman blocking the way](http://9gag.com/gag/a1mWw4v)
+ - 👉 [Detainee slips cuffs and distracts driving cop, causes a wreck and gets ejected.](http://9gag.com/gag/ayNeVvq)<!-- MEMES:END -->
 
 ---
 
