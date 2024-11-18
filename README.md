@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Dune: Prophecy makes a big choice about one of the universe’s most important events](https://www.polygon.com/tv/478271/dune-prophecy-butlerian-jihad-explainer-brian-herbert)
  - [Yakuza/Like a Dragon creator Toshihiro Nagoshi says his studio&#39;s new game won&#39;t be that big after all: &#39;it&#39;s not modern to have similar experiences repeated over and over again&#39;](https://www.pcgamer.com/gaming-industry/game-development/yakuza-like-a-dragon-creator-toshihiro-nagoshi-says-his-studios-new-game-wont-be-that-big-after-all-its-not-modern-to-have-similar-experiences-repeated-over-and-over-again)
- - [The Patapon designer&#39;s new rhythm-action roguelike is coming to PC](https://www.pcgamer.com/games/rhythm/the-patapon-designers-new-rhythm-action-roguelike-is-coming-to-pc)
- - [Five new Steam games you probably missed &lpar;November 18, 2024&rpar;](https://www.pcgamer.com/software/platforms/five-new-steam-games-you-probably-missed-november-18-2024)<!-- GAME:END -->
+ - [The Patapon designer&#39;s new rhythm-action roguelike is coming to PC](https://www.pcgamer.com/games/rhythm/the-patapon-designers-new-rhythm-action-roguelike-is-coming-to-pc)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
