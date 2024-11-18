@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Pizza boxes next week: Caution, contents may be slippery when stepped on](http://9gag.com/gag/aqynBoP)
- - ⏩ [How fast a trained dog recognizes danger](http://9gag.com/gag/aryVdwp)
- - 👉 [Detainee slips cuffs and distracts driving cop, causes a wreck and gets ejected.](http://9gag.com/gag/ayNeVvq)<!-- MEMES:END -->
+ - 💣 [Out of these three girls and Ozzy Osbourne I just can\u2019t tell.](http://9gag.com/gag/azxmvdz)
+ - ⏩ [AI officially gone too far](http://9gag.com/gag/a34wDL8)
+ - 👉 [Straight out of the Hogwarts library](http://9gag.com/gag/aZZyKMQ)<!-- MEMES:END -->
 
 ---
 
