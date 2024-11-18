@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Savage.](http://9gag.com/gag/aXPgQP2)
- - ⏩ [Pew pew pew or the Helmet](http://9gag.com/gag/ajP9MOx)
- - 👉 [They never tell this!](http://9gag.com/gag/aBymNGN)<!-- MEMES:END -->
+ - 💣 [Detainee slips cuffs and distracts driving cop, causes a wreck and gets ejected.](http://9gag.com/gag/ayNeVvq)
+ - ⏩ [How about that.](http://9gag.com/gag/aBymNXD)
+ - 👉 [How fast a trained dog recognizes danger](http://9gag.com/gag/aryVdwp)<!-- MEMES:END -->
 
 ---
 
