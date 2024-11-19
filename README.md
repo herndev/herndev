@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Save up to $1,000 on iPads with early Black Friday flash deals](https://appleinsider.com/articles/24/11/17/save-up-to-1000-on-ipads-this-weekend-with-early-black-friday-flash-deals?utm_medium=rss)
- - [The new Bing Wallpaper app is nice, but it’s also a privacy nightmare](https://www.androidauthority.com/bing-wallpaper-app-privacy-issue-3501203/)
- - [Bad credit keeping you from a postpaid phone plan? AT&amp;T Unlimited Level Up Plan may be the solution](https://www.androidauthority.com/att-unlimited-level-up-3501196/)<!-- TECH:END -->
+ - [Jack Black yearns for the mines in new Minecraft movie trailer](https://www.theverge.com/2024/11/19/24300863/minecraft-movie-trailer-jack-black-steve)
+ - [Android 16’s notification cooldown feature will save you from notification spam](https://www.androidauthority.com/android-16-notification-cooldown-3501276/)
+ - [Update your iPhone, iPad, &amp; Mac now to block critical security threats](https://appleinsider.com/articles/24/11/19/update-your-iphone-ipad-mac-now-to-block-critical-security-threats?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
