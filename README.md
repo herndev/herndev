@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How A Minecraft Movie’s Official Trailer Brings Iconic Game Features to Life](https://news.xbox.com/en-us/2024/11/19/minecraft-movie-official-trailer-game-features/)
- - [At least the live-action How to Train Your Dragon nails one big thing](https://www.polygon.com/trailer/481562/how-train-your-dragon-live-action-trailer-toothless)
- - [DC Heroes RPG returns for 40th anniversary Kickstarter campaign](https://www.polygon.com/news/481257/dc-heroes-rpg-40th-anniversary-kickstarter)<!-- GAME:END -->
+ - [What happened to these Game Awards reveals?](https://www.polygon.com/gaming/481055/game-awards-trailers-missing-delayed-games)
+ - [Experience the best of the Telltale Games catalog for $12](https://www.polygon.com/good-deals/481537/telltale-games-humble-bundle-walking-dead-sale)
+ - [Farming Simulator 25 harvested a crop of 2 million players in its first week](https://www.pcgamer.com/games/sim/farming-simulator-25-harvested-a-crop-of-2-million-players-in-its-first-week)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
