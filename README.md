@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google is preparing to bring this iOS 18 feature to Android &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-play-services-motion-cues-apk-teardown-3500830/)
- - [Expedia Coupons and Deals: Over 25% Off Hotel Stays](https://www.wired.com/story/expedia-coupon/)
- - [Google is working on reducing these annoying notifications on your Pixel phones &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-pixel-watch-unlock-notifications-apk-teardown-3500840/)<!-- TECH:END -->
+ - [Breaking: Samsung starts rolling out One UI 6 Watch update to older models](https://www.androidauthority.com/samsung-rolling-out-one-ui-watch-6-update-3500881/)
+ - [Best Cheap Home Security Systems for 2024](https://www.cnet.com/home/security/best-cheap-home-security-systems/#ftag=CAD590a51e)
+ - [Google is preparing to bring this iOS 18 feature to Android &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-play-services-motion-cues-apk-teardown-3500830/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
