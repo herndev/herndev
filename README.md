@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Under the surface of Arco’s pixel RPG action, a breathtaking revenge saga](https://www.polygon.com/gaming/475119/arco-review)
- - [Trash man rescues surprisingly decent gaming rig from landfill—and it even powers on](https://www.pcgamer.com/hardware/one-mans-trash-is-anothers-still-pretty-decent-gaming-rig)
- - [Sony is in talks to buy FromSoftware’s parent company](https://www.polygon.com/news/481294/sony-fromsoftware-kadokawa-acquisition-talks)<!-- GAME:END -->
+ - [Coming to Game Pass: S.T.A.L.K.E.R. 2: Heart of Chornobyl, Nine Sols, Genshin Impact Benefits, and More](https://news.xbox.com/en-us/2024/11/19/xbox-game-pass-november-2024-wave-2/)
+ - [Sony is rumoured to be snapping up FromSoftware&#39;s parent company in the industry&#39;s ongoing mission to be consolidated to hell and back](https://www.pcgamer.com/gaming-industry/sony-is-rumoured-to-be-snapping-up-fromsoftwares-parent-company-in-the-industrys-ongoing-mission-to-be-consolidated-to-hell-and-back)
+ - [Despite an update &#39;mitigating&#39; the problem, some Windows 11 users seemingly still can&#39;t change the date and time in settings—although there is a workaround](https://www.pcgamer.com/software/windows/despite-an-update-mitigating-the-problem-some-windows-11-users-seemingly-still-cant-change-the-date-and-time-in-settings-although-there-is-a-workaround)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
