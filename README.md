@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Can Teddiursa be shiny in Pokémon Go?](https://www.polygon.com/pokemon-go-guide/480346/can-teddiursa-be-shiny-ursaring-ursaluna)
- - [Can Combee be shiny in Pokémon Go?](https://www.polygon.com/pokemon-go-guide/480460/can-combee-be-shiny-vespiquen)
- - [Today&#39;s Wordle answer for Tuesday, November 19](https://www.pcgamer.com/games/puzzle/wordle-answer-today-November-19-2024)<!-- GAME:END -->
+ - [&#39;My brother and I wanted to shoot at each other&#39;: The Lemaitre brothers couldn&#39;t find a perfect 1v1 FPS, so they made one of the year&#39;s best shooters themselves](https://www.pcgamer.com/games/fps/my-brother-and-i-wanted-to-shoot-at-each-other-the-lemaitre-brothers-couldnt-find-a-perfect-1v1-fps-so-they-made-one-of-the-years-best-shooters-themselves)
+ - [&#39;It&#39;s been a really surreal day&#39;: Balatro creator drops heartfelt message after landing a whopping 5 nominations at The Game Awards](https://www.pcgamer.com/games/card-games/its-been-a-really-surreal-day-balatro-creator-drops-heartfelt-message-after-landing-a-whopping-5-nominations-at-the-game-awards)
+ - [Report: Sony To Buy Owners Of Elden Ring Developer, FromSoftware](https://kotaku.com/sony-fromsoftware-elden-ring-dragon-ball-zero-1851702536)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
