@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [&#39;My brother and I wanted to shoot at each other&#39;: The Lemaitre brothers couldn&#39;t find a perfect 1v1 FPS, so they made one of the year&#39;s best shooters themselves](https://www.pcgamer.com/games/fps/my-brother-and-i-wanted-to-shoot-at-each-other-the-lemaitre-brothers-couldnt-find-a-perfect-1v1-fps-so-they-made-one-of-the-years-best-shooters-themselves)
- - [&#39;It&#39;s been a really surreal day&#39;: Balatro creator drops heartfelt message after landing a whopping 5 nominations at The Game Awards](https://www.pcgamer.com/games/card-games/its-been-a-really-surreal-day-balatro-creator-drops-heartfelt-message-after-landing-a-whopping-5-nominations-at-the-game-awards)
- - [Report: Sony To Buy Owners Of Elden Ring Developer, FromSoftware](https://kotaku.com/sony-fromsoftware-elden-ring-dragon-ball-zero-1851702536)<!-- GAME:END -->
+ - [Under the surface of Arco’s pixel RPG action, a breathtaking revenge saga](https://www.polygon.com/gaming/475119/arco-review)
+ - [Trash man rescues surprisingly decent gaming rig from landfill—and it even powers on](https://www.pcgamer.com/hardware/one-mans-trash-is-anothers-still-pretty-decent-gaming-rig)
+ - [Sony is in talks to buy FromSoftware’s parent company](https://www.polygon.com/news/481294/sony-fromsoftware-kadokawa-acquisition-talks)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
