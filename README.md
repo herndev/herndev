@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Air quality India](http://9gag.com/gag/aAyeLzo)
- - ⏩ [Jay Z\u2019s priceless expression. Courtesy: Paul](http://9gag.com/gag/aBymMwO)
- - 👉 [How dafuq does he do this???](http://9gag.com/gag/aAyeAG9)<!-- MEMES:END -->
+ - 💣 [No one stops the A train](http://9gag.com/gag/ajP93yQ)
+ - ⏩ [Probably not good to stir that with your arm but I\u2019m no doctor.](http://9gag.com/gag/ayNeZwV)
+ - 👉 [Superheroes](http://9gag.com/gag/aXPgmjv)<!-- MEMES:END -->
 
 ---
 
