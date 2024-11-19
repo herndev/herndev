@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [After dominating The Game Awards in 2023, Baldur&#39;s Gate 3 is in the running for even more gold in 2024](https://www.pcgamer.com/games/after-dominating-the-game-awards-in-2023-baldurs-gate-3-is-in-the-running-for-even-more-gold-in-2024)
- - [GTA 6 Fans Think The Moon Is Telling Them When The Next Trailer Will Arrive](https://kotaku.com/gta-6-fans-moon-theory-november-22-new-trailer-rockstar-1851702355)
- - [Roblox adds new rules for players under 13 following scathing child safety report](https://www.pcgamer.com/software/platforms/roblox-adds-new-rules-for-players-under-13-following-scathing-child-safety-report)<!-- GAME:END -->
+ - [Overwatch&#39;s two new theme songs won&#39;t make your playlist, but they&#39;re perfectly fitting for its post-OWL esports matches](https://www.pcgamer.com/games/fps/overwatchs-two-new-theme-songs-wont-make-your-playlist-but-theyre-perfectly-fitting-for-its-post-owl-esports-league-broadcasts)
+ - [A summer intern once saved Valve from a near-fatal lawsuit after a publisher &#39;decided to go World War 3&#39; on it, and it all hinged on one email](https://www.pcgamer.com/games/fps/a-summer-intern-once-saved-valve-from-a-near-fatal-lawsuit-after-a-publisher-decided-to-go-world-war-3-on-it-and-it-all-hinged-on-one-email)
+ - [After dominating The Game Awards in 2023, Baldur&#39;s Gate 3 is in the running for even more gold in 2024](https://www.pcgamer.com/games/after-dominating-the-game-awards-in-2023-baldurs-gate-3-is-in-the-running-for-even-more-gold-in-2024)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
