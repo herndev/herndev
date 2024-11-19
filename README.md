@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best headphones from Sony and Bose are on sale!](https://www.androidauthority.com/sony-wh-1000xm5-vose-quietcomfort-ultra-deals-3500808/)
- - [Google now lets you manage all of your old Nest Cams from the Home app](https://www.theverge.com/2024/11/18/24300125/google-home-nest-manage-iq-indoor-outdoor)
- - [Best Smart Lights for 2024](https://www.cnet.com/home/kitchen-and-household/best-smart-lights/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple to increase Indonesia investment tenfold to appeal iPhone 16 ban](https://appleinsider.com/articles/24/11/19/apple-to-increase-indonesia-investment-tenfold-to-appeal-iphone-16-ban?utm_medium=rss)
+ - [Memo: Amazon employees have found there is too much of a delay between asking a question to the new AI-based Alexa and getting a response or completing a task &lpar;Jason Del Rey/Fortune&rpar;](http://www.techmeme.com/241118/p33#a241118p33)
+ - [Sources: Apple has raised its offer to invest in Indonesia from about $10M to almost $100M, in a bid to persuade the government to lift its iPhone 16 sales ban &lpar;Faris Mokhtar/Bloomberg&rpar;](http://www.techmeme.com/241118/p32#a241118p32)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
