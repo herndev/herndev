@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [IWouldHaveStillUsedTheInternet](http://9gag.com/gag/a87G99e)
- - ⏩ [We need to stop benefit immigration.](http://9gag.com/gag/an74WDo)
- - 👉 [Take my money !](http://9gag.com/gag/a7oWB2m)<!-- MEMES:END -->
+ - 💣 [Bro found endless energy.](http://9gag.com/gag/aYQyBxx)
+ - ⏩ [Happy Monday](http://9gag.com/gag/aO87ALy)
+ - 👉 [Popcorn Ceiling Removal](http://9gag.com/gag/a87GXZ3)<!-- MEMES:END -->
 
 ---
 
