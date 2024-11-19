@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [After dominating The Game Awards in 2023, Baldur&#39;s Gate 3 is in the running for even more gold in 2024](https://www.pcgamer.com/games/after-dominating-the-game-awards-in-2023-baldurs-gate-3-is-in-the-running-for-even-more-gold-in-2024)
  - [GTA 6 Fans Think The Moon Is Telling Them When The Next Trailer Will Arrive](https://kotaku.com/gta-6-fans-moon-theory-november-22-new-trailer-rockstar-1851702355)
- - [Roblox adds new rules for players under 13 following scathing child safety report](https://www.pcgamer.com/software/platforms/roblox-adds-new-rules-for-players-under-13-following-scathing-child-safety-report)
- - [There was one big snub in the Game Awards nominations](https://www.polygon.com/awards/481109/game-awards-2024-nominees-snubs-surprises)<!-- GAME:END -->
+ - [Roblox adds new rules for players under 13 following scathing child safety report](https://www.pcgamer.com/software/platforms/roblox-adds-new-rules-for-players-under-13-following-scathing-child-safety-report)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
