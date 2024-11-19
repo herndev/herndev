@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tesla’s first 500kW V4 Superchargers are coming next year](https://www.theverge.com/2024/11/18/24300040/tesla-500kw-v4-supercharger-cabinets-first-2025)
- - [Amazon Black Friday Deals 2024: Here Are 25-Plus Black Friday Deals to Shop Before the Sale Begins](https://www.cnet.com/deals/best-amazon-black-friday-deals-2024/#ftag=CAD590a51e)
- - [Monday Night Football: How to Watch Texans vs. Cowboys, ManningCast Tonight](https://www.cnet.com/tech/services-and-software/monday-night-football-how-to-watch-texans-vs-cowboys-manningcast-tonight/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The best headphones from Sony and Bose are on sale!](https://www.androidauthority.com/sony-wh-1000xm5-vose-quietcomfort-ultra-deals-3500808/)
+ - [Google now lets you manage all of your old Nest Cams from the Home app](https://www.theverge.com/2024/11/18/24300125/google-home-nest-manage-iq-indoor-outdoor)
+ - [Best Smart Lights for 2024](https://www.cnet.com/home/kitchen-and-household/best-smart-lights/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
