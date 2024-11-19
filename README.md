@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta is forming a new product group to build AI tools for businesses, led by Clara Shih, most recently the CEO of Salesforce AI &lpar;Sara Fischer/Axios&rpar;](http://www.techmeme.com/241119/p32#a241119p32)
- - [Apple releases security updates for iOS 18.1.1, iPadOS 18.1.1, macOS 15.1.1](https://appleinsider.com/articles/24/11/19/apple-releases-security-updates-for-ios-1811-ipados-1811-macos-1511?utm_medium=rss)
- - [Leak: Valve is making a Steam Controller 2 and a ‘Roy’ for its Deckard](https://www.theverge.com/games/2024/11/19/24300757/valve-steam-controller-2-roy-deckard-leak)<!-- TECH:END -->
+ - [Save up to $1,000 on iPads with early Black Friday flash deals](https://appleinsider.com/articles/24/11/17/save-up-to-1000-on-ipads-this-weekend-with-early-black-friday-flash-deals?utm_medium=rss)
+ - [The new Bing Wallpaper app is nice, but it’s also a privacy nightmare](https://www.androidauthority.com/bing-wallpaper-app-privacy-issue-3501203/)
+ - [Bad credit keeping you from a postpaid phone plan? AT&amp;T Unlimited Level Up Plan may be the solution](https://www.androidauthority.com/att-unlimited-level-up-3501196/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
