@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Smart Speakers for 2024: We Tested Alexa, Google, Apple and Sonos](https://www.cnet.com/home/smart-home/best-smart-speaker/#ftag=CAD590a51e)
- - [iMac M4 review: Minor changes lead to perfection for Apple&#39;s all-in-one Mac](https://appleinsider.com/articles/24/11/19/imac-m4-review-minor-changes-lead-to-perfection-for-apples-all-in-one-mac?utm_medium=rss)
- - [Sources: Huawei is designing its next two Ascend chips around a 7nm architecture, meaning its marquee chips will be stuck with aging tech until at least 2026 &lpar;Bloomberg&rpar;](http://www.techmeme.com/241119/p8#a241119p8)<!-- TECH:END -->
+ - [The Galaxy Z Fold 7 may not follow in the footsteps of the Galaxy Fold Special Edition](https://www.androidauthority.com/samsung-galaxy-z-fold-7-not-look-like-special-edition-3500981/)
+ - [Sources: US officials are racing to deliver billions in CHIPS Act funding to Intel and others before Biden leaves office; nearly $30B is tied up in negotiations &lpar;Asa Fitch/Wall Street Journal&rpar;](http://www.techmeme.com/241119/p11#a241119p11)
+ - [‘Cow Vigilantes’ in India Are Attacking Muslims and Posting It on Instagram](https://www.wired.com/story/cow-vigilantes-india-instagram/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
