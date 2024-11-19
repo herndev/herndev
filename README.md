@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [No one stops the A train](http://9gag.com/gag/ajP93yQ)
- - ⏩ [Airboat Racing](http://9gag.com/gag/abAGLBE)
- - 👉 [Mike Tyson&#39;s last visit to Mohammad Ali before the later&lpar;the Champ&rpar; died.](http://9gag.com/gag/avyzVRd)<!-- MEMES:END -->
+ - 💣 [How dafuq does he do this???](http://9gag.com/gag/aAyeAG9)
+ - ⏩ [Hey my new GPU!!](http://9gag.com/gag/aD24qyK)
+ - 👉 [Jay Z\u2019s priceless expression. Courtesy: Paul](http://9gag.com/gag/aBymMwO)<!-- MEMES:END -->
 
 ---
 
