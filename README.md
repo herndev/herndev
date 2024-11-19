@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Bro found endless energy.](http://9gag.com/gag/aYQyBxx)
- - ⏩ [Happy Monday](http://9gag.com/gag/aO87ALy)
- - 👉 [Popcorn Ceiling Removal](http://9gag.com/gag/a87GXZ3)<!-- MEMES:END -->
+ - 💣 [Do you heal from this?](http://9gag.com/gag/axy9eDK)
+ - ⏩ [How is this guy still alive](http://9gag.com/gag/adBV4PB)
+ - 👉 [Bangladeshis are destroying science related books form students saying there is only one book](http://9gag.com/gag/a1mWnXY)<!-- MEMES:END -->
 
 ---
 
