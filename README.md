@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [T-Mobile launches free phone promotion for select iPhone and Android users](https://www.androidauthority.com/t-mobile-free-phone-replacement-600mhz-3500813/)
- - [Apple to increase Indonesia investment tenfold to appeal iPhone 16 ban](https://appleinsider.com/articles/24/11/19/apple-to-increase-indonesia-investment-tenfold-to-appeal-iphone-16-ban?utm_medium=rss)
- - [Memo: Amazon employees have found there is too much of a delay between asking a question to the new AI-based Alexa and getting a response or completing a task &lpar;Jason Del Rey/Fortune&rpar;](http://www.techmeme.com/241118/p33#a241118p33)<!-- TECH:END -->
+ - [Google brings all Nest cameras to one app – but should you make the switch?](https://www.androidauthority.com/nest-cam-google-home-app-transfer-3500817/)
+ - [Bluesky is booming partly because it isn&#39;t hindered by bad adtech, AI slop, throttled links, and largely hostile user experiences, unlike some of its big rivals &lpar;Brian Merchant/Blood in the Machine&rpar;](http://www.techmeme.com/241118/p34#a241118p34)
+ - [T-Mobile launches free phone promotion for select iPhone and Android users](https://www.androidauthority.com/t-mobile-free-phone-replacement-600mhz-3500813/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
