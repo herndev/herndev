@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Breaking: Samsung starts rolling out One UI 6 Watch update to older models](https://www.androidauthority.com/samsung-rolling-out-one-ui-watch-6-update-3500881/)
- - [Best Cheap Home Security Systems for 2024](https://www.cnet.com/home/security/best-cheap-home-security-systems/#ftag=CAD590a51e)
- - [Google is preparing to bring this iOS 18 feature to Android &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-play-services-motion-cues-apk-teardown-3500830/)<!-- TECH:END -->
+ - [Want a cheaper Flip phone? Samsung could be working on an FE model with these changes](https://www.androidauthority.com/samsung-galaxy-z-flip-fe-leak-display-3500883/)
+ - [Sources: Sony is in talks to acquire Kadokawa, the Japanese media powerhouse behind the Elden Ring game, in the coming weeks; Kadokawa had a ~$2.7B market cap &lpar;Reuters&rpar;](http://www.techmeme.com/241119/p5#a241119p5)
+ - [The precursor update to One UI 7 is here for the Galaxy S24 series](https://www.androidauthority.com/samsung-galaxy-s24-november-2024-update-3500894/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
