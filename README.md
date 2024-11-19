@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [T-Mobile launches free phone promotion for select iPhone and Android users](https://www.androidauthority.com/t-mobile-free-phone-replacement-600mhz-3500813/)
  - [Apple to increase Indonesia investment tenfold to appeal iPhone 16 ban](https://appleinsider.com/articles/24/11/19/apple-to-increase-indonesia-investment-tenfold-to-appeal-iphone-16-ban?utm_medium=rss)
- - [Memo: Amazon employees have found there is too much of a delay between asking a question to the new AI-based Alexa and getting a response or completing a task &lpar;Jason Del Rey/Fortune&rpar;](http://www.techmeme.com/241118/p33#a241118p33)
- - [Sources: Apple has raised its offer to invest in Indonesia from about $10M to almost $100M, in a bid to persuade the government to lift its iPhone 16 sales ban &lpar;Faris Mokhtar/Bloomberg&rpar;](http://www.techmeme.com/241118/p32#a241118p32)<!-- TECH:END -->
+ - [Memo: Amazon employees have found there is too much of a delay between asking a question to the new AI-based Alexa and getting a response or completing a task &lpar;Jason Del Rey/Fortune&rpar;](http://www.techmeme.com/241118/p33#a241118p33)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
