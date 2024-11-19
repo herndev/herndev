@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Early Black Friday price cut drops M4 Pro MacBook Pro down to $1,749](https://appleinsider.com/articles/24/11/19/early-black-friday-price-cut-drops-m4-pro-macbook-pro-down-to-1749?utm_medium=rss)
- - [Microsoft is the mystery AI company licensing HarperCollins books, says Bloomberg](https://www.theverge.com/2024/11/19/24300893/microsoft-ai-training-deal-harpercollins-report)
- - [Trump picks Howard Lutnick, CEO of Cantor Fitzgerald, which has been a custodian for stablecoin company Tether since 2021, to serve as his Commerce Secretary &lpar;Helene Braun/CoinDesk&rpar;](http://www.techmeme.com/241119/p37#a241119p37)<!-- TECH:END -->
+ - [Apple has officially ended its butterfly keyboard repair problem for MacBooks](https://appleinsider.com/articles/24/11/19/apple-has-officially-ended-its-butterfly-keyboard-repair-problem-for-macbooks?utm_medium=rss)
+ - [Here are the best Black Friday deals you can already get](https://www.theverge.com/24293826/best-early-black-friday-deals-2024-amazon-walmart-buy-target-tech-sale)
+ - [Pixel Weather can now warn you about bad pollen days](https://www.androidauthority.com/pixel-weather-pollen-count-3501304/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
