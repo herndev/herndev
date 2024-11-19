@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle answer for Tuesday, November 19](https://www.pcgamer.com/games/puzzle/wordle-answer-today-November-19-2024)
  - [Overwatch&#39;s two new theme songs won&#39;t make your playlist, but they&#39;re perfectly fitting for its post-OWL esports matches](https://www.pcgamer.com/games/fps/overwatchs-two-new-theme-songs-wont-make-your-playlist-but-theyre-perfectly-fitting-for-its-post-owl-esports-league-broadcasts)
- - [A summer intern once saved Valve from a near-fatal lawsuit after a publisher &#39;decided to go World War 3&#39; on it, and it all hinged on one email](https://www.pcgamer.com/games/fps/a-summer-intern-once-saved-valve-from-a-near-fatal-lawsuit-after-a-publisher-decided-to-go-world-war-3-on-it-and-it-all-hinged-on-one-email)
- - [After dominating The Game Awards in 2023, Baldur&#39;s Gate 3 is in the running for even more gold in 2024](https://www.pcgamer.com/games/after-dominating-the-game-awards-in-2023-baldurs-gate-3-is-in-the-running-for-even-more-gold-in-2024)<!-- GAME:END -->
+ - [A summer intern once saved Valve from a near-fatal lawsuit after a publisher &#39;decided to go World War 3&#39; on it, and it all hinged on one email](https://www.pcgamer.com/games/fps/a-summer-intern-once-saved-valve-from-a-near-fatal-lawsuit-after-a-publisher-decided-to-go-world-war-3-on-it-and-it-all-hinged-on-one-email)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
