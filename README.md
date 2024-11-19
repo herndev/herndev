@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Razer Freyja review](https://www.pcgamer.com/hardware/gaming-chairs/razer-freyja-review)
- - [How to get Kicks in Fortnite, and why they are disabled right now](https://www.polygon.com/fortnite-guide/481291/kicks-shoes-disabled-equip)
- - [This genre-blending indie game left me obsessed with the tales behind trinkets and knick-knacks, and wanting more](https://www.pcgamer.com/games/puzzle/this-genre-blending-indie-game-left-me-obsessed-with-the-tales-behind-trinkets-and-knick-knacks-and-wanting-more)<!-- GAME:END -->
+ - [Microsoft Flight Simulator 2024 is Available Today](https://news.xbox.com/en-us/2024/11/19/microsoft-flight-simulator-2024-is-available-today/)
+ - [&#39;I can buy like 2 hot dogs&#39;: Mouthwashing&#39;s dev celebrates over 1 million Spotify downloads for the game&#39;s soundtrack](https://www.pcgamer.com/games/horror/i-can-buy-like-2-hot-dogs-mouthwashings-dev-celebrates-over-1-million-spotify-downloads-for-the-games-soundtrack)
+ - [Valve signed a deal for Counter-Strike 2 in 2003 because they were &#39;running on fumes&#39;, and Gabe Newell was so happy he made a celebratory knife with his own hands](https://www.pcgamer.com/games/fps/valve-signed-a-deal-for-counter-strike-2-in-2003-because-they-were-running-on-fumes-and-gabe-newell-was-so-happy-he-made-a-celebratory-knife-with-his-own-hands)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
