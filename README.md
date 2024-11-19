@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Here Are The Most Popular Pokémon In Scarlet And Violet](https://kotaku.com/pokemon-scarlet-violet-most-popular-starter-gym-leaders-1851702955)
- - [S.T.A.L.K.E.R. 2 headlines big month for Xbox Game Pass](https://www.polygon.com/news/481397/stalker-2-xbox-game-pass-november-msfs)
- - [Turtle Beach Kone II Air review](https://www.pcgamer.com/hardware/gaming-mice/turtle-beach-kone-ii-air-review)<!-- GAME:END -->
+ - [US Department of Justice reportedly recommends that Google be forced to sell Chrome, and boy does Google not like that: &#39;The government putting its thumb on the scale&#39;](https://www.pcgamer.com/gaming-industry/us-department-of-justice-reportedly-recommends-that-google-be-forced-to-sell-chrome-and-boy-does-google-not-like-that-the-government-putting-its-thumb-on-the-scale)
+ - [How to get Double XP tokens in Black Ops 6](https://www.polygon.com/black-ops-6-guides/470189/double-xp-tokens-promo-promotion-how-to-get)
+ - [Here&#39;s Your First Look At Overwatch 2&#39;s New Tank Hero, Hazard &lpar;And You Can Play Him Soon&rpar;](https://kotaku.com/overwatch-2-hazard-test-dates-new-tank-hero-playable-1851703013)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
