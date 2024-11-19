@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Rox, which is developing AI-powered agents for salespeople, raised $50M across seed led by Sequoia and Series A led by General Catalyst &lpar;Paayal Zaveri/Bloomberg&rpar;](http://www.techmeme.com/241119/p23#a241119p23)
- - [Amazon Music Unlimited now includes a free audiobook each month](https://www.theverge.com/2024/11/19/24300506/amazon-music-unlimited-free-audiobook-audible)
- - [Networking chip startup Enfabrica raised a $115M Series C led by Spark Capital and unveils a 3.2TB-per-second accelerated compute fabric of ACF SuperNIC chip &lpar;Mike Wheatley/SiliconANGLE&rpar;](http://www.techmeme.com/241119/p22#a241119p22)<!-- TECH:END -->
+ - [Sony’s new flagship A1 II has trickle-up features from cheaper cameras](https://www.theverge.com/2024/11/19/24299611/sony-a1-ii-flagship-mirrorless-pro-camera-sel2870gm-lens-announcement-price)
+ - [A recent Chrome update broke text highlighting on a bunch of sites](https://www.theverge.com/2024/11/19/24300531/chrome-chromium-text-highlighting-invisible-websites-tailwind-css)
+ - [Microsoft says it has the largest enterprise AI agent ecosystem, with 100K+ orgs making or editing AI agents in Copilot Studio and &quot;2x growth in just a quarter&quot; &lpar;Matt Marshall/VentureBeat&rpar;](http://www.techmeme.com/241119/p25#a241119p25)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
