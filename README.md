@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Lens will now help you decide what to buy in-store](https://www.theverge.com/2024/11/19/24300424/google-lens-shopping-feature-stock-availability-reviews)
- - [Nuro expands driverless testing after pivoting to licensing its AV tech](https://www.theverge.com/2024/11/19/24296462/nuro-driverless-testing-mountain-view-houston)
- - [Microsoft and Atom Computing plan to ship quantum computers with 1,000+ physical qubits to enterprises in 2025 and detail a 24 entangled logical qubits record &lpar;Frederic Lardinois/TechCrunch&rpar;](http://www.techmeme.com/241119/p19#a241119p19)<!-- TECH:END -->
+ - [Rox, which is developing AI-powered agents for salespeople, raised $50M across seed led by Sequoia and Series A led by General Catalyst &lpar;Paayal Zaveri/Bloomberg&rpar;](http://www.techmeme.com/241119/p23#a241119p23)
+ - [Amazon Music Unlimited now includes a free audiobook each month](https://www.theverge.com/2024/11/19/24300506/amazon-music-unlimited-free-audiobook-audible)
+ - [Networking chip startup Enfabrica raised a $115M Series C led by Spark Capital and unveils a 3.2TB-per-second accelerated compute fabric of ACF SuperNIC chip &lpar;Mike Wheatley/SiliconANGLE&rpar;](http://www.techmeme.com/241119/p22#a241119p22)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
