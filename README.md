@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Jay Z\u2019s priceless expression. Courtesy: Paul](http://9gag.com/gag/aBymMwO)
- - ⏩ [Robert DuBoise on the day of his arrest at age 18, and the day he was freed from prison by DNA at 56.](http://9gag.com/gag/aBymMQz)
- - 👉 [Karen in action.](http://9gag.com/gag/aRB7GgB)<!-- MEMES:END -->
+ - 💣 [Not her first rodeo!](http://9gag.com/gag/aKG75QO)
+ - ⏩ [Just to remind you](http://9gag.com/gag/avyzwod)
+ - 👉 [German Burgergeld. If you ever wonder why all migrants destination is Germany.](http://9gag.com/gag/a87GOWY)<!-- MEMES:END -->
 
 ---
 
