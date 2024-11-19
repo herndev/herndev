@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Bangladeshis are destroying science related books form students saying there is only one book](http://9gag.com/gag/a1mWnXY)
- - ⏩ [He got what he deserved! Pet Lion attacked invited guest at home who was treating Lion as domestic Cat, Experts living with lions understand the psychology of lions, they have a good understanding of the changing mood of lions.](http://9gag.com/gag/a2vWAzY)
- - 👉 [Switzerland: 17-year-old asylum seeker from Afghanistan puts on the crown of the Black Madonna in front of praying Christians at the Einsiedeln Abbey Church.](http://9gag.com/gag/aD249ex)<!-- MEMES:END -->
+ - 💣 [Air quality India](http://9gag.com/gag/aAyeLzo)
+ - ⏩ [Jay Z\u2019s priceless expression. Courtesy: Paul](http://9gag.com/gag/aBymMwO)
+ - 👉 [How dafuq does he do this???](http://9gag.com/gag/aAyeAG9)<!-- MEMES:END -->
 
 ---
 
