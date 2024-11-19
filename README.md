@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Internet Providers in North Las Vegas, Nevada](https://www.cnet.com/home/internet/best-internet-providers-in-north-las-vegas-nv/#ftag=CAD590a51e)
- - [Deal: Score 47% off the SanDisk 1TB PRO-G40 external SSD](https://www.androidauthority.com/sandisk-1tb-pro-g40-ssd-deal-3501156/)
- - [Bitcoin Reaches All-Time Highs. Here Are the Best Crypto Wallets To Store Your Coins](https://www.cnet.com/personal-finance/crypto/best-bitcoin-and-crypto-wallets/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Meta is forming a new product group to build AI tools for businesses, led by Clara Shih, most recently the CEO of Salesforce AI &lpar;Sara Fischer/Axios&rpar;](http://www.techmeme.com/241119/p32#a241119p32)
+ - [Apple releases security updates for iOS 18.1.1, iPadOS 18.1.1, macOS 15.1.1](https://appleinsider.com/articles/24/11/19/apple-releases-security-updates-for-ios-1811-ipados-1811-macos-1511?utm_medium=rss)
+ - [Leak: Valve is making a Steam Controller 2 and a ‘Roy’ for its Deckard](https://www.theverge.com/games/2024/11/19/24300757/valve-steam-controller-2-roy-deckard-leak)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
