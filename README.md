@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Out of these three girls and Ozzy Osbourne I just can\u2019t tell.](http://9gag.com/gag/azxmvdz)
- - ⏩ [AI officially gone too far](http://9gag.com/gag/a34wDL8)
- - 👉 [Straight out of the Hogwarts library](http://9gag.com/gag/aZZyKMQ)<!-- MEMES:END -->
+ - 💣 [Airboat Racing](http://9gag.com/gag/abAGLBE)
+ - ⏩ [Anything can be a di*do](http://9gag.com/gag/aD24r9G)
+ - 👉 [No one stops the A train](http://9gag.com/gag/ajP93yQ)<!-- MEMES:END -->
 
 ---
 
