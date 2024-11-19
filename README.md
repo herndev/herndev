@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Do you heal from this?](http://9gag.com/gag/axy9eDK)
- - ⏩ [How is this guy still alive](http://9gag.com/gag/adBV4PB)
- - 👉 [Bangladeshis are destroying science related books form students saying there is only one book](http://9gag.com/gag/a1mWnXY)<!-- MEMES:END -->
+ - 💣 [How dafuq does he do this???](http://9gag.com/gag/aAyeAG9)
+ - ⏩ [Robert DuBoise on the day of his arrest at age 18, and the day he was freed from prison by DNA at 56.](http://9gag.com/gag/aBymMQz)
+ - 👉 [Detainee slips cuffs and distracts driving cop, causes a wreck and gets ejected.](http://9gag.com/gag/ayNeVvq)<!-- MEMES:END -->
 
 ---
 
