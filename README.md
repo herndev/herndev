@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [5 Best Travel Mugs &lpar;2024&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-travel-mugs/)
- - [The Norwegian Company Blamed for California&#39;s Hydrogen Car Woes](https://www.wired.com/story/the-norwegian-company-blamed-for-californias-hydrogen-car-woes/)
- - [Best Home Security Cameras With Floodlights in 2024](https://www.cnet.com/home/security/best-floodlight-home-security-cameras/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Google Lens will now help you decide what to buy in-store](https://www.theverge.com/2024/11/19/24300424/google-lens-shopping-feature-stock-availability-reviews)
+ - [Nuro expands driverless testing after pivoting to licensing its AV tech](https://www.theverge.com/2024/11/19/24296462/nuro-driverless-testing-mountain-view-houston)
+ - [Microsoft and Atom Computing plan to ship quantum computers with 1,000+ physical qubits to enterprises in 2025 and detail a 24 entangled logical qubits record &lpar;Frederic Lardinois/TechCrunch&rpar;](http://www.techmeme.com/241119/p19#a241119p19)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
