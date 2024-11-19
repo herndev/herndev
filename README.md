@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Narwal Freo and Freo X Ultra robots plummet to record-low prices!](https://www.androidauthority.com/narwal-freo-narwal-fre-x-ultra-deals-3500711/)
- - [US lawyers will reportedly try to force Google to sell Chrome and unbundle Android](https://www.theverge.com/2024/11/18/24300033/doj-google-monopoly-remedies-search-chrome-android-ai)
- - [Perplexity debuts a shopping feature offering product recommendations, one-click checkout, and more for Pro users in the US, alongside a merchant program &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/241118/p28#a241118p28)<!-- TECH:END -->
+ - [Tesla’s first 500kW V4 Superchargers are coming next year](https://www.theverge.com/2024/11/18/24300040/tesla-500kw-v4-supercharger-cabinets-first-2025)
+ - [Amazon Black Friday Deals 2024: Here Are 25-Plus Black Friday Deals to Shop Before the Sale Begins](https://www.cnet.com/deals/best-amazon-black-friday-deals-2024/#ftag=CAD590a51e)
+ - [Monday Night Football: How to Watch Texans vs. Cowboys, ManningCast Tonight](https://www.cnet.com/tech/services-and-software/monday-night-football-how-to-watch-texans-vs-cowboys-manningcast-tonight/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
