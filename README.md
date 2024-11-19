@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Poll: Should Google merge Chrome OS and Android?](https://www.androidauthority.com/google-merge-chrome-os-android-poll-3500826/)
  - [Los Angeles-based Moonvalley, which is developing &quot;transparent&quot; generative AI video tools, raised a $70M seed co-led by General Catalyst and Khosla Ventures &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/241119/p1#a241119p1)
- - [How to enable and use RCS for secure cross-platform messaging](https://appleinsider.com/inside/ios-18/tips/how-to-enable-and-use-rcs-for-secure-cross-platform-messaging?utm_medium=rss)
- - [Today&#39;s NYT Connections Hints, Answers and Help for Nov. 19, #527](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-nov-19-527/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Today&#39;s NYT Mini Crossword Answers for Tuesday, Nov. 19](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-tuesday-nov-19/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
