@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Toothless Looks Fantastic In Trailer For Live-Action How To Train Your Dragon That Shouldn&#39;t Exist](https://kotaku.com/how-to-train-your-dragon-live-action-trailer-2025-httyd-1851703309)
- - [Philips NeoPix 750 review](https://www.pcgamer.com/hardware/philips-neopix-750-review)
- - [No Diablo 4 player will have to suffer its most grueling grind again thanks to a hidden perk with its new free character boost](https://www.pcgamer.com/games/rpg/no-diablo-4-player-will-have-to-suffer-its-most-grueling-grind-again-thanks-to-a-hidden-perk-with-its-new-free-character-boost)<!-- GAME:END -->
+ - [Star Wars: The Old Republic will give away inactive character names in December, so if you want to protect your own personal Glup Shitto you better log in before then](https://www.pcgamer.com/games/mmo/star-wars-the-old-republic-will-give-away-inactive-character-names-in-december-so-if-you-want-to-to-protect-your-own-personal-glup-shitto-you-better-log-in-before-then)
+ - [PS Portal&#39;s New Update Could Be A Game Changer For Sony&#39;s Handheld](https://kotaku.com/ps-portal-new-update-cloud-streaming-ps5-beta-test-1851703376)
+ - [Minecraft Movie Director Reacts To Backlash Over Weird First Trailer](https://kotaku.com/minecraft-movie-live-action-first-trailer-reaction-1851703382)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
