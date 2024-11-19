@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Want a cheaper Flip phone? Samsung could be working on an FE model with these changes](https://www.androidauthority.com/samsung-galaxy-z-flip-fe-leak-display-3500883/)
- - [Sources: Sony is in talks to acquire Kadokawa, the Japanese media powerhouse behind the Elden Ring game, in the coming weeks; Kadokawa had a ~$2.7B market cap &lpar;Reuters&rpar;](http://www.techmeme.com/241119/p5#a241119p5)
- - [The precursor update to One UI 7 is here for the Galaxy S24 series](https://www.androidauthority.com/samsung-galaxy-s24-november-2024-update-3500894/)<!-- TECH:END -->
+ - [Best Smart Speakers for 2024: We Tested Alexa, Google, Apple and Sonos](https://www.cnet.com/home/smart-home/best-smart-speaker/#ftag=CAD590a51e)
+ - [iMac M4 review: Minor changes lead to perfection for Apple&#39;s all-in-one Mac](https://appleinsider.com/articles/24/11/19/imac-m4-review-minor-changes-lead-to-perfection-for-apples-all-in-one-mac?utm_medium=rss)
+ - [Sources: Huawei is designing its next two Ascend chips around a 7nm architecture, meaning its marquee chips will be stuck with aging tech until at least 2026 &lpar;Bloomberg&rpar;](http://www.techmeme.com/241119/p8#a241119p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
