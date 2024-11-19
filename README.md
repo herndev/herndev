@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Bangladeshis are destroying science related books form students saying there is only one book](http://9gag.com/gag/a1mWnXY)
- - ⏩ [German Burgergeld. If you ever wonder why all migrants destination is Germany.](http://9gag.com/gag/a87GOWY)
- - 👉 [Air quality India](http://9gag.com/gag/aAyeLzo)<!-- MEMES:END -->
+ - 💣 [No one stops the A train](http://9gag.com/gag/ajP93yQ)
+ - ⏩ [Airboat Racing](http://9gag.com/gag/abAGLBE)
+ - 👉 [Mike Tyson&#39;s last visit to Mohammad Ali before the later&lpar;the Champ&rpar; died.](http://9gag.com/gag/avyzVRd)<!-- MEMES:END -->
 
 ---
 
