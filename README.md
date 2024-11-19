@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [How is this guy still alive](http://9gag.com/gag/adBV4PB)
- - ⏩ [That sign is wild](http://9gag.com/gag/a9yn4LD)
- - 👉 [Bro found endless energy.](http://9gag.com/gag/aYQyBxx)<!-- MEMES:END -->
+ - 💣 [How fast a trained dog recognizes danger](http://9gag.com/gag/aryVdwp)
+ - ⏩ [Airboat Racing](http://9gag.com/gag/abAGLBE)
+ - 👉 [...](http://9gag.com/gag/aD24NpZ)<!-- MEMES:END -->
 
 ---
 
