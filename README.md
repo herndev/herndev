@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [How dafuq does he do this???](http://9gag.com/gag/aAyeAG9)
- - ⏩ [Robert DuBoise on the day of his arrest at age 18, and the day he was freed from prison by DNA at 56.](http://9gag.com/gag/aBymMQz)
- - 👉 [Detainee slips cuffs and distracts driving cop, causes a wreck and gets ejected.](http://9gag.com/gag/ayNeVvq)<!-- MEMES:END -->
+ - 💣 [Hey my new GPU!!](http://9gag.com/gag/aD24qyK)
+ - ⏩ [Arcane is a secret anti-woke propaganda](http://9gag.com/gag/aMVx63W)
+ - 👉 [Mike Tyson&#39;s last visit to Mohammad Ali before the later&lpar;the Champ&rpar; died.](http://9gag.com/gag/avyzVRd)<!-- MEMES:END -->
 
 ---
 
