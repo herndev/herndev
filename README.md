@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [You geh?](http://9gag.com/gag/amovQ9V)
- - ⏩ [Hiker El G\u00fcero Ingl\u00e9s was lost in the Peruvian mountains, then a stray dog arrived to show him the way. `I decided to follow him and he saved me,\u201d he told local newspaper.](http://9gag.com/gag/aNDgGdb)
+ - 💣 [IWouldHaveStillUsedTheInternet](http://9gag.com/gag/a87G99e)
+ - ⏩ [We need to stop benefit immigration.](http://9gag.com/gag/an74WDo)
  - 👉 [Take my money !](http://9gag.com/gag/a7oWB2m)<!-- MEMES:END -->
 
 ---
