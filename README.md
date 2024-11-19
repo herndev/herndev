@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Galaxy Z Fold 7 may not follow in the footsteps of the Galaxy Fold Special Edition](https://www.androidauthority.com/samsung-galaxy-z-fold-7-not-look-like-special-edition-3500981/)
- - [Sources: US officials are racing to deliver billions in CHIPS Act funding to Intel and others before Biden leaves office; nearly $30B is tied up in negotiations &lpar;Asa Fitch/Wall Street Journal&rpar;](http://www.techmeme.com/241119/p11#a241119p11)
- - [‘Cow Vigilantes’ in India Are Attacking Muslims and Posting It on Instagram](https://www.wired.com/story/cow-vigilantes-india-instagram/)<!-- TECH:END -->
+ - [5 Best Travel Mugs &lpar;2024&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-travel-mugs/)
+ - [The Norwegian Company Blamed for California&#39;s Hydrogen Car Woes](https://www.wired.com/story/the-norwegian-company-blamed-for-californias-hydrogen-car-woes/)
+ - [Best Home Security Cameras With Floodlights in 2024](https://www.cnet.com/home/security/best-floodlight-home-security-cameras/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
