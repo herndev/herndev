@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Coming to Game Pass: S.T.A.L.K.E.R. 2: Heart of Chornobyl, Nine Sols, Genshin Impact Benefits, and More](https://news.xbox.com/en-us/2024/11/19/xbox-game-pass-november-2024-wave-2/)
- - [Sony is rumoured to be snapping up FromSoftware&#39;s parent company in the industry&#39;s ongoing mission to be consolidated to hell and back](https://www.pcgamer.com/gaming-industry/sony-is-rumoured-to-be-snapping-up-fromsoftwares-parent-company-in-the-industrys-ongoing-mission-to-be-consolidated-to-hell-and-back)
- - [Despite an update &#39;mitigating&#39; the problem, some Windows 11 users seemingly still can&#39;t change the date and time in settings—although there is a workaround](https://www.pcgamer.com/software/windows/despite-an-update-mitigating-the-problem-some-windows-11-users-seemingly-still-cant-change-the-date-and-time-in-settings-although-there-is-a-workaround)<!-- GAME:END -->
+ - [Razer Freyja review](https://www.pcgamer.com/hardware/gaming-chairs/razer-freyja-review)
+ - [How to get Kicks in Fortnite, and why they are disabled right now](https://www.polygon.com/fortnite-guide/481291/kicks-shoes-disabled-equip)
+ - [This genre-blending indie game left me obsessed with the tales behind trinkets and knick-knacks, and wanting more](https://www.pcgamer.com/games/puzzle/this-genre-blending-indie-game-left-me-obsessed-with-the-tales-behind-trinkets-and-knick-knacks-and-wanting-more)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
