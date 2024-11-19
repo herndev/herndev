@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [What happened to these Game Awards reveals?](https://www.polygon.com/gaming/481055/game-awards-trailers-missing-delayed-games)
- - [Experience the best of the Telltale Games catalog for $12](https://www.polygon.com/good-deals/481537/telltale-games-humble-bundle-walking-dead-sale)
- - [Farming Simulator 25 harvested a crop of 2 million players in its first week](https://www.pcgamer.com/games/sim/farming-simulator-25-harvested-a-crop-of-2-million-players-in-its-first-week)<!-- GAME:END -->
+ - [Toothless Looks Fantastic In Trailer For Live-Action How To Train Your Dragon That Shouldn&#39;t Exist](https://kotaku.com/how-to-train-your-dragon-live-action-trailer-2025-httyd-1851703309)
+ - [Philips NeoPix 750 review](https://www.pcgamer.com/hardware/philips-neopix-750-review)
+ - [No Diablo 4 player will have to suffer its most grueling grind again thanks to a hidden perk with its new free character boost](https://www.pcgamer.com/games/rpg/no-diablo-4-player-will-have-to-suffer-its-most-grueling-grind-again-thanks-to-a-hidden-perk-with-its-new-free-character-boost)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
