@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Jack Black yearns for the mines in new Minecraft movie trailer](https://www.theverge.com/2024/11/19/24300863/minecraft-movie-trailer-jack-black-steve)
- - [Android 16’s notification cooldown feature will save you from notification spam](https://www.androidauthority.com/android-16-notification-cooldown-3501276/)
- - [Update your iPhone, iPad, &amp; Mac now to block critical security threats](https://appleinsider.com/articles/24/11/19/update-your-iphone-ipad-mac-now-to-block-critical-security-threats?utm_medium=rss)<!-- TECH:END -->
+ - [Early Black Friday price cut drops M4 Pro MacBook Pro down to $1,749](https://appleinsider.com/articles/24/11/19/early-black-friday-price-cut-drops-m4-pro-macbook-pro-down-to-1749?utm_medium=rss)
+ - [Microsoft is the mystery AI company licensing HarperCollins books, says Bloomberg](https://www.theverge.com/2024/11/19/24300893/microsoft-ai-training-deal-harpercollins-report)
+ - [Trump picks Howard Lutnick, CEO of Cantor Fitzgerald, which has been a custodian for stablecoin company Tether since 2021, to serve as his Commerce Secretary &lpar;Helene Braun/CoinDesk&rpar;](http://www.techmeme.com/241119/p37#a241119p37)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
