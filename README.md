@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Microsoft Flight Simulator 2024 is Available Today](https://news.xbox.com/en-us/2024/11/19/microsoft-flight-simulator-2024-is-available-today/)
- - [&#39;I can buy like 2 hot dogs&#39;: Mouthwashing&#39;s dev celebrates over 1 million Spotify downloads for the game&#39;s soundtrack](https://www.pcgamer.com/games/horror/i-can-buy-like-2-hot-dogs-mouthwashings-dev-celebrates-over-1-million-spotify-downloads-for-the-games-soundtrack)
- - [Valve signed a deal for Counter-Strike 2 in 2003 because they were &#39;running on fumes&#39;, and Gabe Newell was so happy he made a celebratory knife with his own hands](https://www.pcgamer.com/games/fps/valve-signed-a-deal-for-counter-strike-2-in-2003-because-they-were-running-on-fumes-and-gabe-newell-was-so-happy-he-made-a-celebratory-knife-with-his-own-hands)<!-- GAME:END -->
+ - [As Guild Wars 2 continues to refine its new annual expansion cycle, today&#39;s major update adds its first raid in over 5 years](https://www.pcgamer.com/games/mmo/as-guild-wars-2-continues-to-refine-its-new-annual-expansion-cycle-todays-major-update-adds-its-first-raid-in-over-5-years)
+ - [I have found the one use of AI that no one can argue with: diagnosing sick dogs](https://www.pcgamer.com/software/ai/i-have-found-the-one-use-of-ai-that-no-one-can-argue-with-diagnosing-sick-dogs)
+ - [Neva, As Told By Steam Reviews](https://kotaku.com/neva-reviews-steam-indie-devolver-digital-1851702843)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
