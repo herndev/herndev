@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Popcorn Ceiling Removal](http://9gag.com/gag/a87GXZ3)
- - ⏩ [...](http://9gag.com/gag/aD24NpZ)
- - 👉 [No one stops the A train](http://9gag.com/gag/ajP93yQ)<!-- MEMES:END -->
+ - 💣 [Pew pew pew or the Helmet](http://9gag.com/gag/ajP9MOx)
+ - ⏩ [Airboat Racing](http://9gag.com/gag/abAGLBE)
+ - 👉 [Hey my new GPU!!](http://9gag.com/gag/aD24qyK)<!-- MEMES:END -->
 
 ---
 
