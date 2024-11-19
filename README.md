@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Hospital horror story](http://9gag.com/gag/ae9DPAW)
+ - 💣 [How fast a trained dog recognizes danger](http://9gag.com/gag/aryVdwp)
  - ⏩ [Airboat Racing](http://9gag.com/gag/abAGLBE)
- - 👉 [No one stops the A train](http://9gag.com/gag/ajP93yQ)<!-- MEMES:END -->
+ - 👉 [Hospital horror story](http://9gag.com/gag/ae9DPAW)<!-- MEMES:END -->
 
 ---
 
