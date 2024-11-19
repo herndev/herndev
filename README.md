@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google brings all Nest cameras to one app – but should you make the switch?](https://www.androidauthority.com/nest-cam-google-home-app-transfer-3500817/)
- - [Bluesky is booming partly because it isn&#39;t hindered by bad adtech, AI slop, throttled links, and largely hostile user experiences, unlike some of its big rivals &lpar;Brian Merchant/Blood in the Machine&rpar;](http://www.techmeme.com/241118/p34#a241118p34)
- - [T-Mobile launches free phone promotion for select iPhone and Android users](https://www.androidauthority.com/t-mobile-free-phone-replacement-600mhz-3500813/)<!-- TECH:END -->
+ - [How to enable and use RCS for secure cross-platform messaging](https://appleinsider.com/inside/ios-18/tips/how-to-enable-and-use-rcs-for-secure-cross-platform-messaging?utm_medium=rss)
+ - [Today&#39;s NYT Connections Hints, Answers and Help for Nov. 19, #527](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-nov-19-527/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Nov. 19, #57](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-nov-19-57/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
