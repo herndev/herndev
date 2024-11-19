@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [US Department of Justice reportedly recommends that Google be forced to sell Chrome, and boy does Google not like that: &#39;The government putting its thumb on the scale&#39;](https://www.pcgamer.com/gaming-industry/us-department-of-justice-reportedly-recommends-that-google-be-forced-to-sell-chrome-and-boy-does-google-not-like-that-the-government-putting-its-thumb-on-the-scale)
- - [How to get Double XP tokens in Black Ops 6](https://www.polygon.com/black-ops-6-guides/470189/double-xp-tokens-promo-promotion-how-to-get)
- - [Here&#39;s Your First Look At Overwatch 2&#39;s New Tank Hero, Hazard &lpar;And You Can Play Him Soon&rpar;](https://kotaku.com/overwatch-2-hazard-test-dates-new-tank-hero-playable-1851703013)<!-- GAME:END -->
+ - [How A Minecraft Movie’s Official Trailer Brings Iconic Game Features to Life](https://news.xbox.com/en-us/2024/11/19/minecraft-movie-official-trailer-game-features/)
+ - [At least the live-action How to Train Your Dragon nails one big thing](https://www.polygon.com/trailer/481562/how-train-your-dragon-live-action-trailer-toothless)
+ - [DC Heroes RPG returns for 40th anniversary Kickstarter campaign](https://www.polygon.com/news/481257/dc-heroes-rpg-40th-anniversary-kickstarter)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
