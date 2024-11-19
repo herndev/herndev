@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [As Guild Wars 2 continues to refine its new annual expansion cycle, today&#39;s major update adds its first raid in over 5 years](https://www.pcgamer.com/games/mmo/as-guild-wars-2-continues-to-refine-its-new-annual-expansion-cycle-todays-major-update-adds-its-first-raid-in-over-5-years)
- - [I have found the one use of AI that no one can argue with: diagnosing sick dogs](https://www.pcgamer.com/software/ai/i-have-found-the-one-use-of-ai-that-no-one-can-argue-with-diagnosing-sick-dogs)
- - [Neva, As Told By Steam Reviews](https://kotaku.com/neva-reviews-steam-indie-devolver-digital-1851702843)<!-- GAME:END -->
+ - [Here Are The Most Popular Pokémon In Scarlet And Violet](https://kotaku.com/pokemon-scarlet-violet-most-popular-starter-gym-leaders-1851702955)
+ - [S.T.A.L.K.E.R. 2 headlines big month for Xbox Game Pass](https://www.polygon.com/news/481397/stalker-2-xbox-game-pass-november-msfs)
+ - [Turtle Beach Kone II Air review](https://www.pcgamer.com/hardware/gaming-mice/turtle-beach-kone-ii-air-review)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
