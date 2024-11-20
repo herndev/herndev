@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Niantic is building a ‘geospatial’ AI model based on Pokémon Go player data](https://www.theverge.com/2024/11/19/24300975/niantic-pokemon-go-data-large-geospatial-model)
- - [Spectro Cloud, which offers a Kubernetes management service for enterprises, raised a $75M Series C led by Growth Equity at Goldman Sachs Alternatives &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/241119/p45#a241119p45)
- - [Google ships the first Android 16 developer preview, far ahead of schedule vs. the past decade, hoping to lower fragmentation by giving manufacturers more time &lpar;Mishaal Rahman/Android Police&rpar;](http://www.techmeme.com/241119/p44#a241119p44)<!-- TECH:END -->
+ - [Strava closes the gates to sharing fitness data with other apps](https://www.theverge.com/2024/11/19/24301056/strava-api-ai-data-sharing-policy-change-fitness-tracking)
+ - [Pixel 9 gets a mysterious new display mode with Android 16 DP1](https://www.androidauthority.com/google-pixel-9-experimental-mode-display-android-16-3501338/)
+ - [Looking for a gaming monitor? Samsung Odyssey deals are hot!](https://www.androidauthority.com/samsung-g4-g7-g9-deals-3501279/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
