@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Bro found endless energy.](http://9gag.com/gag/aYQyBxx)
- - ⏩ [Day ruined.](http://9gag.com/gag/aNDgGj0)
- - 👉 [Red light](http://9gag.com/gag/a4P3gXm)<!-- MEMES:END -->
+ - 💣 [Post](http://9gag.com/gag/awyBDqy)
+ - ⏩ [The worst she can say is no](http://9gag.com/gag/a9ynwDj)
+ - 👉 [Karen in action.](http://9gag.com/gag/aRB7GgB)<!-- MEMES:END -->
 
 ---
 
