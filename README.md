@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Mama duck immediately adopts orphaned ducklings](http://9gag.com/gag/a7oWXj2)
- - ⏩ [Anna Cramling &lpar;on the right&rpar; created an opening she calls `the Cow` -- an opening that she admits is not very strong, but she wanted to be able to say she had created an opening. Alessia Santeramo &lpar;left&rpar; Just before the game started, asked `Do you want to play the Cow opening?`](http://9gag.com/gag/an74wEq)
- - 👉 [Not her first rodeo!](http://9gag.com/gag/aKG75QO)<!-- MEMES:END -->
+ - 💣 [A mistake you&#39;ll remember for the rest of your life](http://9gag.com/gag/abAGL6O)
+ - ⏩ [Karen in action.](http://9gag.com/gag/aRB7GgB)
+ - 👉 [Oh yeah, a classic !](http://9gag.com/gag/aD245e7)<!-- MEMES:END -->
 
 ---
 
