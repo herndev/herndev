@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Xbox Insiders Can Play Test War Robots: Frontiers Now Through December 4](https://news.xbox.com/en-us/2024/11/20/xbox-insiders-can-play-test-war-robots-frontiers-now-through-december-4/)
- - [Reddit is down](https://www.pcgamer.com/games/reddit-is-down-november-20-2024)
- - [Storybook Vale: How To Start Disney Dreamlight Valley&#39;s Latest DLC](https://kotaku.com/storybook-vale-disney-dreamlight-valley-how-to-start-1851703885)<!-- GAME:END -->
+ - [Itch.io requires all creators to disclose AI-generated content](https://www.polygon.com/news/482392/itch-io-generative-ai-disclosure-rule)
+ - [Indie distribution platform Itch.io now requires asset creators to disclose the use of generative AI in their work](https://www.pcgamer.com/software/platforms/indie-distribution-platform-itch-io-now-requires-asset-creators-to-disclose-the-use-of-generative-ai-in-their-work)
+ - [Longtime Simpsons Voice Actor Retires After 35 Years](https://kotaku.com/simpsons-milhouse-pamela-hayden-retiring-voice-actor-1851704372)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
