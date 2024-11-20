@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [UberXXL will let you catch an even bigger ride to the airport](https://www.theverge.com/2024/11/20/24300853/uberxxl-uber-app-new-update-features)
- - [Not a joke: T-Mobile actually prevented a data breach for once](https://www.androidauthority.com/t-mobile-prevented-data-breach-not-a-joke-3501411/)
- - [Google tightens its rules against &quot;parasite SEO&quot; content, or articles that have little to do with the website&#39;s focus, after cracking down on &quot;reputation abuse&quot; &lpar;Mia Sato/The Verge&rpar;](http://www.techmeme.com/241120/p14#a241120p14)<!-- TECH:END -->
+ - [Best Internet Providers in Portland, Oregon](https://www.cnet.com/home/internet/best-internet-providers-in-portland-or/#ftag=CAD590a51e)
+ - [Best Over-the-Counter Eye Drops of 2024](https://www.cnet.com/health/personal-care/best-eye-drops/#ftag=CAD590a51e)
+ - [How Google spent 15 years creating a culture of concealment, telling staff to destroy messages, avoid some words, and copy in lawyers, as it faces US lawsuits &lpar;David Streitfeld/New York Times&rpar;](http://www.techmeme.com/241120/p16#a241120p16)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
