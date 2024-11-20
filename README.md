@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Survey shows this brand came closest to building an ideal smartphone in 2024](https://www.androidauthority.com/ideal-smartphone-2024-survey-results-3501381/)
- - [$130 Off Factor Promo Code &amp; Discount Code | November 2024](https://www.wired.com/story/factor-promo-code/)
- - [Nomad Discount Codes and Deals: 50% Off | November 2024](https://www.wired.com/story/nomad-discount-code/)<!-- TECH:END -->
+ - [ProRata, which is launching an AI search engine next month, inks licensing deals with DMG Media and more; sources say DMG bought a stake that values it at $130M &lpar;Daniel Thomas/Financial Times&rpar;](http://www.techmeme.com/241120/p11#a241120p11)
+ - [An investigation reveals how 3B+ phone coordinates collected by a US data broker Datastream expose movements of US military and intelligence workers in Germany &lpar;Wired&rpar;](http://www.techmeme.com/241120/p10#a241120p10)
+ - [Another major Google app just got a Windows on Arm release](https://www.androidauthority.com/google-drive-desktop-windows-arm-release-3501392/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
