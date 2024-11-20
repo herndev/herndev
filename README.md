@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [What is the next banner in Genshin Impact?](https://www.polygon.com/genshin-impact-guides/479239/next-banner-gacha-wish-character-weapon-countdown-times)
- - [Astro Bot gets its first discount ahead of Black Friday](https://www.polygon.com/black-friday/480817/astro-bot-ps5-discount)
- - [Minecraft Movie director reveals that Jack Black was &#39;as method as it gets&#39; while playing Steve as he &#39;got obsessed with searching for lapis lazuli&#39; during filming breaks](https://www.pcgamer.com/movies-tv/minecraft-movie-director-reveals-that-jack-black-was-as-method-as-it-gets-while-playing-steve-as-he-got-obsessed-with-searching-for-lapis-lazuli-during-filming-breaks)<!-- GAME:END -->
+ - [Opera labels every other browser &#39;f***ing boring&#39; in an inexplicably sweary promo reel. Oh, and updates its gamer-focused Opera GX browser a little too](https://www.pcgamer.com/hardware/opera-labels-every-other-browser-f-ing-boring-in-an-inexplicably-sweary-promo-reel-oh-and-updates-its-gamer-focused-opera-gx-browser-a-little-too)
+ - [How to get Story Magic in Disney Dreamlight Valley](https://www.pcgamer.com/games/life-sim/how-to-get-story-magic-disney-dreamlight-valley)
+ - [New Dungeons &amp; Dragons And G.I. Joe Games Are Coming](https://kotaku.com/baldurs-gate-4-d-d-mtg-arena-commander-g-i-joe-1851703869)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
