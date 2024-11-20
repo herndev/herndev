@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple heads to court to try to get massive &amp; vague DOJ antitrust suit dismissed](https://appleinsider.com/articles/24/11/20/apple-heads-to-court-to-try-to-get-massive-vague-doj-antitrust-suit-dismissed?utm_medium=rss)
- - [Galaxy S25 Ultra dummy leaks give us a great look at Samsung’s 2025 flagship](https://www.androidauthority.com/samsung-galaxy-s25-ultra-dummy-leaks-2025-flagship-3501477/)
- - [I find the best deals every day, here are my tips to avoid wasting money on Black Friday](https://www.androidauthority.com/avoid-wasting-money-black-friday-3500752/)<!-- TECH:END -->
+ - [Wish Broadband Data Caps Would Go Away? Trump&#39;s Incoming FCC Chair Doesn&#39;t](https://www.cnet.com/home/internet/wish-broadband-data-caps-would-go-away-trumps-incoming-fcc-chair-doesnt/#ftag=CAD590a51e)
+ - [Vista sells a minority stake in IT infrastructure monitoring company LogicMonitor to investors in a deal valuing it at ~$2.4B; LogicMonitor also raised $800M &lpar;Ryan Gould/Bloomberg&rpar;](http://www.techmeme.com/241120/p20#a241120p20)
+ - [High Savings APYs Won&#39;t Stick Around Long -- Don&#39;t Delay to Get a Good Rate. Today&#39;s Rates, Nov. 20, 2024](https://www.cnet.com/personal-finance/banking/high-savings-apys-wont-stick-around-long-dont-delay-to-get-a-good-rate-todays-rates-nov-20-2024/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
