@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Half-Life 2 review](https://www.pcgamer.com/games/fps/half-life-2-review-uk)
- - [Path of Exile 2 developer finally reveals how much it&#39;ll cost to play in early access](https://www.pcgamer.com/games/rpg/path-of-exile-2-developer-finally-reveals-how-much-itll-cost-to-play-in-early-access)
- - [This Fallout fan loves New Vegas so much he moved to the actual starting town of Goodsprings](https://www.pcgamer.com/games/fallout/this-fallout-fan-loves-new-vegas-so-much-he-moved-to-the-actual-starting-town-of-goodsprings)<!-- GAME:END -->
+ - [How Elemental Reactions and Resonance work in Genshin Impact](https://www.polygon.com/genshin-impact-guides/23298594/elemental-reactions-resonance-pyro-cryo-dendro-anemo-geo-electro-hydro)
+ - [How to unlock free characters in Genshin Impact](https://www.polygon.com/genshin-impact-guides/23065767/unlock-characters-free-kaeya-lisa-xiangling-amber-collei)
+ - [8 beginner’s tips to know before starting Genshin Impact](https://www.polygon.com/genshin-impact-guides/23063935/beginners-guide-tips-tricks-quests-unlocks-seelies)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
