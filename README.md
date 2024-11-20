@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [German Burgergeld. If you ever wonder why all migrants destination is Germany.](http://9gag.com/gag/a87GOWY)
- - ⏩ [Goodbye, Jaguar.](http://9gag.com/gag/a9yng8K)
- - 👉 [Oh yeah, a classic !](http://9gag.com/gag/aD245e7)<!-- MEMES:END -->
+ - ⏩ [The worst she can say is no](http://9gag.com/gag/a9ynwDj)
+ - 👉 [Motion capture technology has come a long way](http://9gag.com/gag/abAGnvX)<!-- MEMES:END -->
 
 ---
 
