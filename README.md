@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Opera labels every other browser &#39;f***ing boring&#39; in an inexplicably sweary promo reel. Oh, and updates its gamer-focused Opera GX browser a little too](https://www.pcgamer.com/hardware/opera-labels-every-other-browser-f-ing-boring-in-an-inexplicably-sweary-promo-reel-oh-and-updates-its-gamer-focused-opera-gx-browser-a-little-too)
- - [How to get Story Magic in Disney Dreamlight Valley](https://www.pcgamer.com/games/life-sim/how-to-get-story-magic-disney-dreamlight-valley)
- - [New Dungeons &amp; Dragons And G.I. Joe Games Are Coming](https://kotaku.com/baldurs-gate-4-d-d-mtg-arena-commander-g-i-joe-1851703869)<!-- GAME:END -->
+ - [Stream Your Own Game with Xbox Cloud Gaming &lpar;Beta&rpar;](https://news.xbox.com/en-us/2024/11/20/stream-your-own-game-xbox-cloud-gaming-beta/)
+ - [Return To Grace is a smartly written Gone Home-like about piecing together a comatose AI god, and one of those games which doesn&#39;t outstay its welcome](https://www.pcgamer.com/games/adventure/return-to-grace-is-a-smartly-written-gone-home-like-about-piecing-together-a-comatose-ai-god-and-one-of-those-games-which-doesnt-outstay-its-welcome)
+ - [Storybook Vale: How To Start Disney Dreamlight Valley&#39;s Latest DLC](https://kotaku.com/storybook-vale-disney-dreamlight-valley-how-to-start-1851703885)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
