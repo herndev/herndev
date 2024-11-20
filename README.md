@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Shanghai-based satellite company SpaceSail plans to provide internet in Brazil in 2026; SpaceSail launched its first 36 satellites in August and September &lpar;Daniel Carvalho/Bloomberg&rpar;](http://www.techmeme.com/241119/p47#a241119p47)
  - [Sale: Samsung and Apple wireless chargers under $20!](https://www.androidauthority.com/samsung-15w-duo-pad-apple-magsafe-wireless-charger-deals-3501337/)
- - [Strava closes the gates to sharing fitness data with other apps](https://www.theverge.com/2024/11/19/24301056/strava-api-ai-data-sharing-policy-change-fitness-tracking)
- - [Roboflow, which provides open-source tools for developers to build computer vision models, raised a $40M Series B led by GV &lpar;Allie Garfinkle/Fortune&rpar;](http://www.techmeme.com/241119/p46#a241119p46)<!-- TECH:END -->
+ - [Strava closes the gates to sharing fitness data with other apps](https://www.theverge.com/2024/11/19/24301056/strava-api-ai-data-sharing-policy-change-fitness-tracking)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
