@@ -46,7 +46,7 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Mike Tyson&#39;s last visit to Mohammad Ali before the later&lpar;the Champ&rpar; died.](http://9gag.com/gag/avyzVRd)
+ - 💣 [Who else knows this gem from the good old days?](http://9gag.com/gag/apRGMnM)
  - ⏩ [Jay Z\u2019s priceless expression. Courtesy: Paul](http://9gag.com/gag/aBymMwO)
  - 👉 [The worst she can say is no](http://9gag.com/gag/a9ynwDj)<!-- MEMES:END -->
 
