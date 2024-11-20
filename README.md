@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Verizon Slashes Cost of Gizmo Watch 3 by $50 for Black Friday](https://www.cnet.com/deals/verizon-slashes-cost-of-gizmo-watch-3-by-50-for-black-friday/#ftag=CAD590a51e)
- - [Messenger video calls will look and sound better — and add AI backgrounds](https://www.theverge.com/2024/11/20/24301722/meta-facebook-messenger-hd-video-noise-suppression-video-calls-ai-backgrounds)
- - [Android 16 DP1 integrates Extra Dim into the brightness bar](https://www.androidauthority.com/android-16-dp1-even-dimmer-3501674/)<!-- TECH:END -->
+ - [Snowflake reports Q3 revenue up 28% YoY to $942.09M, vs. $898.46M est., unveils a deal with Anthropic to bring Claude to Cortex AI; SNOW jumps 18%+ after hours &lpar;Larry Dignan/Constellation Research&rpar;](http://www.techmeme.com/241120/p36#a241120p36)
+ - [NASA wants SpaceX and Blue Origin to deliver cargo to the moon](https://www.theverge.com/2024/11/20/24301744/nasa-spacex-blue-origin-cargo-mission-artemis)
+ - [Google Search results defy gravity in this new Easter egg](https://www.androidauthority.com/google-search-wicked-3501669/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
