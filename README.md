@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [World of Warcraft gave me my one elite gamer moment: Kiting the General in Upper Blackrock Spire](https://www.polygon.com/world-of-warcraft/480533/upper-blackrock-spire-kiting-general-hunter)
- - [FromSoftware parent company confirms Sony’s acquisition intent](https://www.polygon.com/news/482003/kadokawa-fromsoftware-sony-playstation-dark-souls-elden-ring-anime-manga)
- - [Is Nicole Kidman lying about her divorce meme photo? An investigation](https://www.polygon.com/culture/481939/nicole-kidman-divorce-meme-tom-cruise-real-not)<!-- GAME:END -->
+ - [HeroQuest dungeon crawler competitor Maladum is the tabletop game of the moment](https://www.polygon.com/tabletop-games/482201/maladum-dungeons-enveron-heroquest-dungeon-crawler)
+ - [Follow Polygon on Bluesky](https://www.polygon.com/news/482166/follow-polygon-bluesky)
+ - [In a tough year for video games, the Game Awards nominations give some cause for hope](https://www.polygon.com/awards/481955/game-awards-goty-nominations-2024-analysis)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
