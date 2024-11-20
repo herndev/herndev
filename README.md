@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Karen in action.](http://9gag.com/gag/aRB7GgB)
- - ⏩ [Not her first rodeo!](http://9gag.com/gag/aKG75QO)
- - 👉 [Jay Z\u2019s priceless expression. Courtesy: Paul](http://9gag.com/gag/aBymMwO)<!-- MEMES:END -->
+ - 💣 [Not her first rodeo!](http://9gag.com/gag/aKG75QO)
+ - ⏩ [Japanese girl in a Cheongsam, different angle](http://9gag.com/gag/a87GN53)
+ - 👉 [Post](http://9gag.com/gag/awyBDqy)<!-- MEMES:END -->
 
 ---
 
