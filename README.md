@@ -32,7 +32,7 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [BenQ MOBIUZ EX321UX review](https://www.pcgamer.com/hardware/gaming-monitors/benq-mobiuz-ex321ux-review)
+ - [BenQ Mobiuz EX321UX review](https://www.pcgamer.com/hardware/gaming-monitors/benq-mobiuz-ex321ux-review)
  - [Fractal Design Refine review](https://www.pcgamer.com/hardware/gaming-chairs/fractal-design-refine-review)
  - [Early plans for Half-Life 2 sound wild, including visits to cities like Chicago and LA, several Combine bases, and a sequence where a plane crashed into a skyrise that was cut after 9/11](https://www.pcgamer.com/games/fps/early-plans-for-half-life-2-sound-wild-including-visits-to-cities-like-chicago-and-la-several-combine-bases-and-a-sequence-where-a-plane-crashed-into-a-skyrise-that-was-cut-after-9-11)<!-- GAME:END -->
 
