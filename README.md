@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [In The Zone – How S.T.A.L.K.E.R. 2: Heart of Chornobyl’s Brilliantly Unforgiving Setting Presents Horror As Normality](https://news.xbox.com/en-us/2024/11/20/stalker-2-launch-day/)
  - [PlayStation’s Black Friday Deals 2024](https://blog.playstation.com/2024/11/20/playstations-black-friday-deals-2024/)
- - [War Robots: Frontiers Is Now Available in Preview for Xbox Insiders!](https://news.xbox.com/en-us/2024/11/20/war-robots-frontiers-is-now-available-in-preview-for-xbox-insiders/)
- - [Five things I want you to think about before you buy your first gaming laptop](https://www.pcgamer.com/hardware/gaming-laptops/five-things-i-want-you-to-think-about-before-you-buy-your-first-gaming-laptop)<!-- GAME:END -->
+ - [PlayStation’s Black Friday Deals 2024](https://blog.playstation.com/2024/11/20/playstations-black-friday-deals-2024/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
