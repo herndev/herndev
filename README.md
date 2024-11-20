@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Internet Providers in Portland, Oregon](https://www.cnet.com/home/internet/best-internet-providers-in-portland-or/#ftag=CAD590a51e)
- - [Best Over-the-Counter Eye Drops of 2024](https://www.cnet.com/health/personal-care/best-eye-drops/#ftag=CAD590a51e)
- - [How Google spent 15 years creating a culture of concealment, telling staff to destroy messages, avoid some words, and copy in lawyers, as it faces US lawsuits &lpar;David Streitfeld/New York Times&rpar;](http://www.techmeme.com/241120/p16#a241120p16)<!-- TECH:END -->
+ - [Stardew Valley made it easy to cheat. Here’s how to get unlimited gold, items, and more.](https://www.androidauthority.com/stardew-valley-cheat-codes-3499955/)
+ - [Samsung Galaxy Watch FE review: a bogus bargain](https://www.theverge.com/24300723/samsung-galaxy-watch-fe-review-smartwatch-wearables)
+ - [Google workers to DOJ: we need protections to make your breakup effective](https://www.theverge.com/2024/11/20/24300616/google-alphabet-workers-union-doj-antitrust-breakup-remedies)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
