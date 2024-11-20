@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Who else knows this gem from the good old days?](http://9gag.com/gag/apRGMnM)
- - ⏩ [Jay Z\u2019s priceless expression. Courtesy: Paul](http://9gag.com/gag/aBymMwO)
- - 👉 [The worst she can say is no](http://9gag.com/gag/a9ynwDj)<!-- MEMES:END -->
+ - 💣 [Magnus Carlsen blushes when an Indian girl takes his blessings](http://9gag.com/gag/aBymzWz)
+ - ⏩ [The worst she can say is no](http://9gag.com/gag/a9ynwDj)
+ - 👉 [Oh yeah, a classic !](http://9gag.com/gag/aD245e7)<!-- MEMES:END -->
 
 ---
 
