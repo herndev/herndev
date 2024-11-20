@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Lady: her ass is brutal](http://9gag.com/gag/awyBpo8)
- - ⏩ [Wholesome posts I saved #2](http://9gag.com/gag/ajP933x)
- - 👉 [Oh yeah, a classic !](http://9gag.com/gag/aD245e7)<!-- MEMES:END -->
+ - 💣 [Karen in action.](http://9gag.com/gag/aRB7GgB)
+ - ⏩ [Not her first rodeo!](http://9gag.com/gag/aKG75QO)
+ - 👉 [Jay Z\u2019s priceless expression. Courtesy: Paul](http://9gag.com/gag/aBymMwO)<!-- MEMES:END -->
 
 ---
 
