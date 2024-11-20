@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Half-Life 2 review](https://www.pcgamer.com/games/fps/half-life-2-review-uk)
  - [Path of Exile 2 developer finally reveals how much it&#39;ll cost to play in early access](https://www.pcgamer.com/games/rpg/path-of-exile-2-developer-finally-reveals-how-much-itll-cost-to-play-in-early-access)
- - [This Fallout fan loves New Vegas so much he moved to the actual starting town of Goodsprings](https://www.pcgamer.com/games/fallout/this-fallout-fan-loves-new-vegas-so-much-he-moved-to-the-actual-starting-town-of-goodsprings)
- - [Fields of Mistria romance and best gifts list](https://www.polygon.com/fields-of-mistria-guides/443158/romance-marriage-candidates-characters-best-gifts)<!-- GAME:END -->
+ - [This Fallout fan loves New Vegas so much he moved to the actual starting town of Goodsprings](https://www.pcgamer.com/games/fallout/this-fallout-fan-loves-new-vegas-so-much-he-moved-to-the-actual-starting-town-of-goodsprings)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
