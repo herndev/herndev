@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sale: Samsung and Apple wireless chargers under $20!](https://www.androidauthority.com/samsung-15w-duo-pad-apple-magsafe-wireless-charger-deals-3501337/)
  - [Strava closes the gates to sharing fitness data with other apps](https://www.theverge.com/2024/11/19/24301056/strava-api-ai-data-sharing-policy-change-fitness-tracking)
- - [Pixel 9 gets a mysterious new display mode with Android 16 DP1](https://www.androidauthority.com/google-pixel-9-experimental-mode-display-android-16-3501338/)
- - [Looking for a gaming monitor? Samsung Odyssey deals are hot!](https://www.androidauthority.com/samsung-g4-g7-g9-deals-3501279/)<!-- TECH:END -->
+ - [Roboflow, which provides open-source tools for developers to build computer vision models, raised a $40M Series B led by GV &lpar;Allie Garfinkle/Fortune&rpar;](http://www.techmeme.com/241119/p46#a241119p46)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
