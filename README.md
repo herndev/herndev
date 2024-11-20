@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Stream Your Own Game with Xbox Cloud Gaming &lpar;Beta&rpar;](https://news.xbox.com/en-us/2024/11/20/stream-your-own-game-xbox-cloud-gaming-beta/)
- - [Return To Grace is a smartly written Gone Home-like about piecing together a comatose AI god, and one of those games which doesn&#39;t outstay its welcome](https://www.pcgamer.com/games/adventure/return-to-grace-is-a-smartly-written-gone-home-like-about-piecing-together-a-comatose-ai-god-and-one-of-those-games-which-doesnt-outstay-its-welcome)
- - [Storybook Vale: How To Start Disney Dreamlight Valley&#39;s Latest DLC](https://kotaku.com/storybook-vale-disney-dreamlight-valley-how-to-start-1851703885)<!-- GAME:END -->
+ - [Watching A Lot of Football This Month? Keep the Game Going With EA Play](https://news.xbox.com/en-us/2024/11/20/ea-play-rewards-november-2024/)
+ - [5 beginner’s tips before starting STALKER 2: Heart of Chornobyl](https://www.polygon.com/guides/481924/stalker-2-beginners-tips-tricks-before-starting)
+ - [The Game Awards Should Happen After The Year Is Over, Like Every Other Award Show](https://kotaku.com/game-awards-snub-dragon-age-veilguard-eligibility-dates-1851704052)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
