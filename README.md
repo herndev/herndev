@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Switzerland: 17-year-old asylum seeker from Afghanistan puts on the crown of the Black Madonna in front of praying Christians at the Einsiedeln Abbey Church.](http://9gag.com/gag/aD249ex)
- - ⏩ [Lady: her ass is brutal](http://9gag.com/gag/awyBpo8)
- - 👉 [German Burgergeld. If you ever wonder why all migrants destination is Germany.](http://9gag.com/gag/a87GOWY)<!-- MEMES:END -->
+ - 💣 [Call me anytime](http://9gag.com/gag/aqynwKP)
+ - ⏩ [Japanese girl in a Cheongsam, different angle](http://9gag.com/gag/a87GN53)
+ - 👉 [Oh yeah, a classic !](http://9gag.com/gag/aD245e7)<!-- MEMES:END -->
 
 ---
 
