@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nomad Discount Codes and Deals: 50% Off | November 2024](https://www.wired.com/story/nomad-discount-code/)
- - [10% Off Sephora Promo Codes &amp; Coupons | November 2024](https://www.wired.com/story/sephora-promo-code/)
- - [How Mark Zuckerberg made Llama a cornerstone of AI ambitions at Meta, whose smartphone-era services and products have been constrained by Apple and Google &lpar;Sharon Goldman/Fortune&rpar;](http://www.techmeme.com/241120/p8#a241120p8)<!-- TECH:END -->
+ - [Survey shows this brand came closest to building an ideal smartphone in 2024](https://www.androidauthority.com/ideal-smartphone-2024-survey-results-3501381/)
+ - [$130 Off Factor Promo Code &amp; Discount Code | November 2024](https://www.wired.com/story/factor-promo-code/)
+ - [Nomad Discount Codes and Deals: 50% Off | November 2024](https://www.wired.com/story/nomad-discount-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
