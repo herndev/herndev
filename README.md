@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Early plans for Half-Life 2 sound wild, including visits to cities like Chicago and LA, several Combine bases, and a sequence where a plane crashed into a skyrise that was cut after 9/11](https://www.pcgamer.com/games/fps/early-plans-for-half-life-2-sound-wild-including-visits-to-cities-like-chicago-and-la-several-combine-bases-and-a-sequence-where-a-plane-crashed-into-a-skyrise-that-was-cut-after-9-11)
- - [Today&#39;s Wordle answer for Wednesday, November 20](https://www.pcgamer.com/games/puzzle/wordle-answer-today-november-20-2024)
- - [Genshin Impact Out Now on Xbox – With Rewards for Game Pass Ultimate Members](https://news.xbox.com/en-us/2024/11/19/genshin-impact-xbox-game-pass-ultimate-rewards/)<!-- GAME:END -->
+ - [BenQ MOBIUZ EX321UX review](https://www.pcgamer.com/hardware/gaming-monitors/benq-mobiuz-ex321ux-review)
+ - [Fractal Design Refine review](https://www.pcgamer.com/hardware/gaming-chairs/fractal-design-refine-review)
+ - [Early plans for Half-Life 2 sound wild, including visits to cities like Chicago and LA, several Combine bases, and a sequence where a plane crashed into a skyrise that was cut after 9/11](https://www.pcgamer.com/games/fps/early-plans-for-half-life-2-sound-wild-including-visits-to-cities-like-chicago-and-la-several-combine-bases-and-a-sequence-where-a-plane-crashed-into-a-skyrise-that-was-cut-after-9-11)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
