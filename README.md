@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Xbox is letting you take your game library anywhere](https://www.androidauthority.com/stream-xbox-games-you-own-3501612/)
- - [Trump FCC Pick Brendan Carr Wants to Be the Speech Police. That&#39;s Not His Job](https://www.wired.com/story/brendan-carr-fcc-trump-speech-social-media-moderation/)
- - [Apple&#39;s quick App Store takedowns over copyright claims are a nightmare for developers](https://appleinsider.com/articles/24/11/20/apples-quick-app-store-takedowns-over-copyright-claims-are-a-nightmare-for-developers?utm_medium=rss)<!-- TECH:END -->
+ - [Verizon Slashes Cost of Gizmo Watch 3 by $50 for Black Friday](https://www.cnet.com/deals/verizon-slashes-cost-of-gizmo-watch-3-by-50-for-black-friday/#ftag=CAD590a51e)
+ - [Messenger video calls will look and sound better — and add AI backgrounds](https://www.theverge.com/2024/11/20/24301722/meta-facebook-messenger-hd-video-noise-suppression-video-calls-ai-backgrounds)
+ - [Android 16 DP1 integrates Extra Dim into the brightness bar](https://www.androidauthority.com/android-16-dp1-even-dimmer-3501674/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
