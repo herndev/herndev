@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Post](http://9gag.com/gag/awyBDqy)
- - ⏩ [The worst she can say is no](http://9gag.com/gag/a9ynwDj)
- - 👉 [Karen in action.](http://9gag.com/gag/aRB7GgB)<!-- MEMES:END -->
+ - 💣 [Lady: her ass is brutal](http://9gag.com/gag/awyBpo8)
+ - ⏩ [Wholesome posts I saved #2](http://9gag.com/gag/ajP933x)
+ - 👉 [Oh yeah, a classic !](http://9gag.com/gag/aD245e7)<!-- MEMES:END -->
 
 ---
 
