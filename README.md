@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon’s new Echo Show 21 has a huge screen and built-in smart home hub](https://www.theverge.com/2024/11/20/24301489/amazon-echo-show-21-smart-display-price-specs-release-date)
- - [The world’s first foldable phone maker is now out of business](https://www.androidauthority.com/royole-technologies-bankrupt-3501513/)
- - [Shazam has been used more than 100 billion times since it launched](https://appleinsider.com/articles/24/11/20/shazam-has-been-used-more-than-100-billion-times-since-it-launched?utm_medium=rss)<!-- TECH:END -->
+ - [Ford retracts in Europe with layoffs and lower EV production](https://www.theverge.com/2024/11/20/24301507/ford-retracts-in-europe-with-layoffs-and-lower-ev-production)
+ - [Garmin’s Venu Sq 2, our favorite Fitbit alternative, hits its lowest price ever](https://www.theverge.com/2024/11/20/24301486/garmin-venu-sq-2-deal-sale)
+ - [The Biden admin finalizes $1.5B CHIPS Act incentives for GlobalFoundries, meaning it can start receiving federal funding for facilities in Vermont and New York &lpar;Mackenzie Hawkins/Bloomberg&rpar;](http://www.techmeme.com/241120/p24#a241120p24)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
