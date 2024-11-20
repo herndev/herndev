@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [BenQ Mobiuz EX321UX review](https://www.pcgamer.com/hardware/gaming-monitors/benq-mobiuz-ex321ux-review)
- - [Fractal Design Refine review](https://www.pcgamer.com/hardware/gaming-chairs/fractal-design-refine-review)
- - [Early plans for Half-Life 2 sound wild, including visits to cities like Chicago and LA, several Combine bases, and a sequence where a plane crashed into a skyrise that was cut after 9/11](https://www.pcgamer.com/games/fps/early-plans-for-half-life-2-sound-wild-including-visits-to-cities-like-chicago-and-la-several-combine-bases-and-a-sequence-where-a-plane-crashed-into-a-skyrise-that-was-cut-after-9-11)<!-- GAME:END -->
+ - [PlayStation’s Black Friday Deals 2024](https://blog.playstation.com/2024/11/20/playstations-black-friday-deals-2024/)
+ - [War Robots: Frontiers Is Now Available in Preview for Xbox Insiders!](https://news.xbox.com/en-us/2024/11/20/war-robots-frontiers-is-now-available-in-preview-for-xbox-insiders/)
+ - [Five things I want you to think about before you buy your first gaming laptop](https://www.pcgamer.com/hardware/gaming-laptops/five-things-i-want-you-to-think-about-before-you-buy-your-first-gaming-laptop)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
