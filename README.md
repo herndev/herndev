@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Call me anytime](http://9gag.com/gag/aqynwKP)
- - ⏩ [Japanese girl in a Cheongsam, different angle](http://9gag.com/gag/a87GN53)
- - 👉 [Oh yeah, a classic !](http://9gag.com/gag/aD245e7)<!-- MEMES:END -->
+ - 💣 [PVC pipe with duct tape](http://9gag.com/gag/aO87EVy)
+ - ⏩ [Core IT experience](http://9gag.com/gag/azxmpXp)
+ - 👉 [Caretaker trio stuffed 6-year-old in dryer spin cycle and turned it on as punishment for crying over lost bag of chips, police say](http://9gag.com/gag/aoyPoGm)<!-- MEMES:END -->
 
 ---
 
