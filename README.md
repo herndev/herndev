@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Itch.io requires all creators to disclose AI-generated content](https://www.polygon.com/news/482392/itch-io-generative-ai-disclosure-rule)
- - [Indie distribution platform Itch.io now requires asset creators to disclose the use of generative AI in their work](https://www.pcgamer.com/software/platforms/indie-distribution-platform-itch-io-now-requires-asset-creators-to-disclose-the-use-of-generative-ai-in-their-work)
- - [Longtime Simpsons Voice Actor Retires After 35 Years](https://kotaku.com/simpsons-milhouse-pamela-hayden-retiring-voice-actor-1851704372)<!-- GAME:END -->
+ - [The &#39;Bloodiest&#39; Episode Of Amazon&#39;s Secret Level Is Based On....Pac-Man?](https://kotaku.com/amazon-secret-level-pac-man-1851704391)
+ - [Star Wars Outlaws is dropping &#39;forced stealth,&#39; so instead of being reset when you get caught sneaking around, you can just start blasting](https://www.pcgamer.com/games/action/star-wars-outlaws-is-dropping-forced-stealth-so-instead-of-being-reset-when-you-get-caught-sneaking-around-you-can-just-start-blasting)
+ - [&#39;It&#39;s the best game&#39;: Post Malone reveals he has nearly 400 hours in Hunt: Showdown, proving the songwriter has impeccable FPS taste](https://www.pcgamer.com/games/fps/its-the-best-game-post-malone-reveals-he-has-nearly-400-hours-in-hunt-showdown-proving-the-songwriter-has-impeccable-fps-taste)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
