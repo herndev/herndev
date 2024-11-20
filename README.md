@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Not her first rodeo!](http://9gag.com/gag/aKG75QO)
- - ⏩ [Wholesome posts I saved #2](http://9gag.com/gag/ajP933x)
- - 👉 [And those mammary glands.](http://9gag.com/gag/aLnwEpA)<!-- MEMES:END -->
+ - 💣 [Mike Tyson&#39;s last visit to Mohammad Ali before the later&lpar;the Champ&rpar; died.](http://9gag.com/gag/avyzVRd)
+ - ⏩ [Post](http://9gag.com/gag/awyBDqy)
+ - 👉 [Well\u2026I guess that was the most memorable day of her life](http://9gag.com/gag/a1mWg5b)<!-- MEMES:END -->
 
 ---
 
