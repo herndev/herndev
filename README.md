@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Not her first rodeo!](http://9gag.com/gag/aKG75QO)
- - ⏩ [Japanese girl in a Cheongsam, different angle](http://9gag.com/gag/a87GN53)
- - 👉 [Post](http://9gag.com/gag/awyBDqy)<!-- MEMES:END -->
+ - 💣 [Post](http://9gag.com/gag/awyBDqy)
+ - ⏩ [Red light](http://9gag.com/gag/a4P3gXm)
+ - 👉 [Well\u2026I guess that was the most memorable day of her life](http://9gag.com/gag/a1mWg5b)<!-- MEMES:END -->
 
 ---
 
