@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The head of the axed &amp;pound;800M UK supercomputer project warns that the UK, which no longer has a machine ranked in the global top 50, risks falling behind rivals &lpar;Anna Gross/Financial Times&rpar;](http://www.techmeme.com/241120/p4#a241120p4)
- - [The US-led crypto rally is leaving its mark in Asia as Bhutan&#39;s BTC holdings reached $1.1B, 36% of its GDP, increased trading activity in South Korea, and more &lpar;Bloomberg&rpar;](http://www.techmeme.com/241120/p3#a241120p3)
- - [A US Government Accountability Office report says four of six cybersecurity recommendations the agency made to the TSA since 2018 have still not been addressed &lpar;Jonathan Greig/The Record&rpar;](http://www.techmeme.com/241120/p2#a241120p2)<!-- TECH:END -->
+ - [Nomad Discount Codes and Deals: 50% Off | November 2024](https://www.wired.com/story/nomad-discount-code/)
+ - [10% Off Sephora Promo Codes &amp; Coupons | November 2024](https://www.wired.com/story/sephora-promo-code/)
+ - [How Mark Zuckerberg made Llama a cornerstone of AI ambitions at Meta, whose smartphone-era services and products have been constrained by Apple and Google &lpar;Sharon Goldman/Fortune&rpar;](http://www.techmeme.com/241120/p8#a241120p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
