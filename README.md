@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Wish Broadband Data Caps Would Go Away? Trump&#39;s Incoming FCC Chair Doesn&#39;t](https://www.cnet.com/home/internet/wish-broadband-data-caps-would-go-away-trumps-incoming-fcc-chair-doesnt/#ftag=CAD590a51e)
- - [Vista sells a minority stake in IT infrastructure monitoring company LogicMonitor to investors in a deal valuing it at ~$2.4B; LogicMonitor also raised $800M &lpar;Ryan Gould/Bloomberg&rpar;](http://www.techmeme.com/241120/p20#a241120p20)
- - [High Savings APYs Won&#39;t Stick Around Long -- Don&#39;t Delay to Get a Good Rate. Today&#39;s Rates, Nov. 20, 2024](https://www.cnet.com/personal-finance/banking/high-savings-apys-wont-stick-around-long-dont-delay-to-get-a-good-rate-todays-rates-nov-20-2024/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Amazon’s new Echo Show 21 has a huge screen and built-in smart home hub](https://www.theverge.com/2024/11/20/24301489/amazon-echo-show-21-smart-display-price-specs-release-date)
+ - [The world’s first foldable phone maker is now out of business](https://www.androidauthority.com/royole-technologies-bankrupt-3501513/)
+ - [Shazam has been used more than 100 billion times since it launched](https://appleinsider.com/articles/24/11/20/shazam-has-been-used-more-than-100-billion-times-since-it-launched?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
