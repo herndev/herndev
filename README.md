@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Shanghai-based satellite company SpaceSail plans to provide internet in Brazil in 2026; SpaceSail launched its first 36 satellites in August and September &lpar;Daniel Carvalho/Bloomberg&rpar;](http://www.techmeme.com/241119/p47#a241119p47)
- - [Sale: Samsung and Apple wireless chargers under $20!](https://www.androidauthority.com/samsung-15w-duo-pad-apple-magsafe-wireless-charger-deals-3501337/)
- - [Strava closes the gates to sharing fitness data with other apps](https://www.theverge.com/2024/11/19/24301056/strava-api-ai-data-sharing-policy-change-fitness-tracking)<!-- TECH:END -->
+ - [SuperAnnotate, which provides tools for fine-tuning, iterating, and evaluating AI training datasets, raised a $36M Series B led by Socium Ventures &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/241119/p50#a241119p50)
+ - [Google enhances Privacy Dashboard in Android 16 with expanded 7-day history access](https://www.androidauthority.com/android-16-privacy-dashboard-history-3501353/)
+ - [Strava updates its API terms to prohibit third-party apps from showing a user&#39;s Strava data to other users or using the data in AI models or similar apps &lpar;Ray Maker/DC Rainmaker&rpar;](http://www.techmeme.com/241119/p49#a241119p49)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
