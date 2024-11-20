@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Trump Media has a ~$7B market cap despite struggling to build a profitable revenue stream; Similarweb: Truth Social site visits fell 20% MoM to 10M in October &lpar;Drew Harwell/Washington Post&rpar;](http://www.techmeme.com/241120/p1#a241120p1)
  - [SuperAnnotate, which provides tools for fine-tuning, iterating, and evaluating AI training datasets, raised a $36M Series B led by Socium Ventures &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/241119/p50#a241119p50)
- - [Google enhances Privacy Dashboard in Android 16 with expanded 7-day history access](https://www.androidauthority.com/android-16-privacy-dashboard-history-3501353/)
- - [Strava updates its API terms to prohibit third-party apps from showing a user&#39;s Strava data to other users or using the data in AI models or similar apps &lpar;Ray Maker/DC Rainmaker&rpar;](http://www.techmeme.com/241119/p49#a241119p49)<!-- TECH:END -->
+ - [Google enhances Privacy Dashboard in Android 16 with expanded 7-day history access](https://www.androidauthority.com/android-16-privacy-dashboard-history-3501353/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
