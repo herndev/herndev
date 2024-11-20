@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [A mistake you&#39;ll remember for the rest of your life](http://9gag.com/gag/abAGL6O)
- - ⏩ [Karen in action.](http://9gag.com/gag/aRB7GgB)
- - 👉 [Oh yeah, a classic !](http://9gag.com/gag/aD245e7)<!-- MEMES:END -->
+ - 💣 [Post](http://9gag.com/gag/awyBDqy)
+ - ⏩ [The worst she can say is no](http://9gag.com/gag/a9ynwDj)
+ - 👉 [Bangladeshis are destroying science related books form students saying there is only one book](http://9gag.com/gag/a1mWnXY)<!-- MEMES:END -->
 
 ---
 
