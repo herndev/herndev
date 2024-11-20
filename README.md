@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Trump Media has a ~$7B market cap despite struggling to build a profitable revenue stream; Similarweb: Truth Social site visits fell 20% MoM to 10M in October &lpar;Drew Harwell/Washington Post&rpar;](http://www.techmeme.com/241120/p1#a241120p1)
- - [SuperAnnotate, which provides tools for fine-tuning, iterating, and evaluating AI training datasets, raised a $36M Series B led by Socium Ventures &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/241119/p50#a241119p50)
- - [Google enhances Privacy Dashboard in Android 16 with expanded 7-day history access](https://www.androidauthority.com/android-16-privacy-dashboard-history-3501353/)<!-- TECH:END -->
+ - [The head of the axed &amp;pound;800M UK supercomputer project warns that the UK, which no longer has a machine ranked in the global top 50, risks falling behind rivals &lpar;Anna Gross/Financial Times&rpar;](http://www.techmeme.com/241120/p4#a241120p4)
+ - [The US-led crypto rally is leaving its mark in Asia as Bhutan&#39;s BTC holdings reached $1.1B, 36% of its GDP, increased trading activity in South Korea, and more &lpar;Bloomberg&rpar;](http://www.techmeme.com/241120/p3#a241120p3)
+ - [A US Government Accountability Office report says four of six cybersecurity recommendations the agency made to the TSA since 2018 have still not been addressed &lpar;Jonathan Greig/The Record&rpar;](http://www.techmeme.com/241120/p2#a241120p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
