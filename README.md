@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Magnus Carlsen blushes when an Indian girl takes his blessings](http://9gag.com/gag/aBymzWz)
- - ⏩ [The worst she can say is no](http://9gag.com/gag/a9ynwDj)
- - 👉 [Oh yeah, a classic !](http://9gag.com/gag/aD245e7)<!-- MEMES:END -->
+ - 💣 [Lady: her ass is brutal](http://9gag.com/gag/awyBpo8)
+ - ⏩ [Oh yeah, a classic !](http://9gag.com/gag/aD245e7)
+ - 👉 [Post](http://9gag.com/gag/awyBDqy)<!-- MEMES:END -->
 
 ---
 
