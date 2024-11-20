@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [ProRata, which is launching an AI search engine next month, inks licensing deals with DMG Media and more; sources say DMG bought a stake that values it at $130M &lpar;Daniel Thomas/Financial Times&rpar;](http://www.techmeme.com/241120/p11#a241120p11)
- - [An investigation reveals how 3B+ phone coordinates collected by a US data broker Datastream expose movements of US military and intelligence workers in Germany &lpar;Wired&rpar;](http://www.techmeme.com/241120/p10#a241120p10)
- - [Another major Google app just got a Windows on Arm release](https://www.androidauthority.com/google-drive-desktop-windows-arm-release-3501392/)<!-- TECH:END -->
+ - [UberXXL will let you catch an even bigger ride to the airport](https://www.theverge.com/2024/11/20/24300853/uberxxl-uber-app-new-update-features)
+ - [Not a joke: T-Mobile actually prevented a data breach for once](https://www.androidauthority.com/t-mobile-prevented-data-breach-not-a-joke-3501411/)
+ - [Google tightens its rules against &quot;parasite SEO&quot; content, or articles that have little to do with the website&#39;s focus, after cracking down on &quot;reputation abuse&quot; &lpar;Mia Sato/The Verge&rpar;](http://www.techmeme.com/241120/p14#a241120p14)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
