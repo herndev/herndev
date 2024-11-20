@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [LimeWire’s new merch will help you impress your peer&lpar;-to-peer&rpar;s](https://www.theverge.com/2024/11/20/24301564/limewire-dumbgood-capsule-collection-apparel)
- - [Final Fantasy XIV Mobile will bring Eorzea to your phone](https://www.theverge.com/2024/11/20/24301435/final-fantasy-14-mobile-square-enix)
- - [Save up to 36% on Microsoft Office for Mac 2024 with this early Black Friday special](https://appleinsider.com/articles/24/11/20/save-up-to-36-on-microsoft-office-for-mac-2024-with-this-early-black-friday-special?utm_medium=rss)<!-- TECH:END -->
+ - [Sources: Trump&#39;s team is talking with the crypto industry over whether to create a White House post dedicated to cryptocurrency policy and is vetting candidates &lpar;Bloomberg&rpar;](http://www.techmeme.com/241120/p30#a241120p30)
+ - [The New York Times is trying to shut down a popular Connections puzzle creator](https://www.theverge.com/2024/11/20/24301557/new-york-times-connections-creator-take-down)
+ - [Not a joke: T-Mobile actually prevented a data breach for once &lpar;Update: Statement&rpar;](https://www.androidauthority.com/t-mobile-prevented-data-breach-not-a-joke-3501411/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
