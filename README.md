@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Source: Databricks has told investors it is looking to raise $7B to $9B at a ~$61B valuation, to cash out employees that hold restricted stock units &lpar;Cory Weinberg/The Information&rpar;](http://www.techmeme.com/241119/p43#a241119p43)
- - [Sony launches cloud streaming on the PlayStation Portal in beta, letting PlayStation Plus Premium subscribers in some countries stream select PS5 games &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/241119/p42#a241119p42)
- - [Google Keep gets ready to fancy up your sketches with ‘Help me draw’ &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-keep-help-me-draw-3501300/)<!-- TECH:END -->
+ - [Niantic is building a ‘geospatial’ AI model based on Pokémon Go player data](https://www.theverge.com/2024/11/19/24300975/niantic-pokemon-go-data-large-geospatial-model)
+ - [Spectro Cloud, which offers a Kubernetes management service for enterprises, raised a $75M Series C led by Growth Equity at Goldman Sachs Alternatives &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/241119/p45#a241119p45)
+ - [Google ships the first Android 16 developer preview, far ahead of schedule vs. the past decade, hoping to lower fragmentation by giving manufacturers more time &lpar;Mishaal Rahman/Android Police&rpar;](http://www.techmeme.com/241119/p44#a241119p44)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
