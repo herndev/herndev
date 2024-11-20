@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ford retracts in Europe with layoffs and lower EV production](https://www.theverge.com/2024/11/20/24301507/ford-retracts-in-europe-with-layoffs-and-lower-ev-production)
- - [Garmin’s Venu Sq 2, our favorite Fitbit alternative, hits its lowest price ever](https://www.theverge.com/2024/11/20/24301486/garmin-venu-sq-2-deal-sale)
- - [The Biden admin finalizes $1.5B CHIPS Act incentives for GlobalFoundries, meaning it can start receiving federal funding for facilities in Vermont and New York &lpar;Mackenzie Hawkins/Bloomberg&rpar;](http://www.techmeme.com/241120/p24#a241120p24)<!-- TECH:END -->
+ - [LimeWire’s new merch will help you impress your peer&lpar;-to-peer&rpar;s](https://www.theverge.com/2024/11/20/24301564/limewire-dumbgood-capsule-collection-apparel)
+ - [Final Fantasy XIV Mobile will bring Eorzea to your phone](https://www.theverge.com/2024/11/20/24301435/final-fantasy-14-mobile-square-enix)
+ - [Save up to 36% on Microsoft Office for Mac 2024 with this early Black Friday special](https://appleinsider.com/articles/24/11/20/save-up-to-36-on-microsoft-office-for-mac-2024-with-this-early-black-friday-special?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
