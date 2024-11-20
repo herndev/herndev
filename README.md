@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [In The Zone – How S.T.A.L.K.E.R. 2: Heart of Chornobyl’s Brilliantly Unforgiving Setting Presents Horror As Normality](https://news.xbox.com/en-us/2024/11/20/stalker-2-launch-day/)
- - [PlayStation’s Black Friday Deals 2024](https://blog.playstation.com/2024/11/20/playstations-black-friday-deals-2024/)
- - [PlayStation’s Black Friday Deals 2024](https://blog.playstation.com/2024/11/20/playstations-black-friday-deals-2024/)<!-- GAME:END -->
+ - [What is the next banner in Genshin Impact?](https://www.polygon.com/genshin-impact-guides/479239/next-banner-gacha-wish-character-weapon-countdown-times)
+ - [Astro Bot gets its first discount ahead of Black Friday](https://www.polygon.com/black-friday/480817/astro-bot-ps5-discount)
+ - [Minecraft Movie director reveals that Jack Black was &#39;as method as it gets&#39; while playing Steve as he &#39;got obsessed with searching for lapis lazuli&#39; during filming breaks](https://www.pcgamer.com/movies-tv/minecraft-movie-director-reveals-that-jack-black-was-as-method-as-it-gets-while-playing-steve-as-he-got-obsessed-with-searching-for-lapis-lazuli-during-filming-breaks)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
