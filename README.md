@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Lady: her ass is brutal](http://9gag.com/gag/awyBpo8)
- - ⏩ [Oh yeah, a classic !](http://9gag.com/gag/aD245e7)
- - 👉 [Post](http://9gag.com/gag/awyBDqy)<!-- MEMES:END -->
+ - 💣 [German Burgergeld. If you ever wonder why all migrants destination is Germany.](http://9gag.com/gag/a87GOWY)
+ - ⏩ [Goodbye, Jaguar.](http://9gag.com/gag/a9yng8K)
+ - 👉 [Oh yeah, a classic !](http://9gag.com/gag/aD245e7)<!-- MEMES:END -->
 
 ---
 
