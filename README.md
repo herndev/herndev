@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Bangladeshis are destroying science related books form students saying there is only one book](http://9gag.com/gag/a1mWnXY)
- - ⏩ [He got what he deserved! Pet Lion attacked invited guest at home who was treating Lion as domestic Cat, Experts living with lions understand the psychology of lions, they have a good understanding of the changing mood of lions.](http://9gag.com/gag/a2vWAzY)
- - 👉 [Oh yeah, a classic !](http://9gag.com/gag/aD245e7)<!-- MEMES:END -->
+ - 💣 [Bro found endless energy.](http://9gag.com/gag/aYQyBxx)
+ - ⏩ [Day ruined.](http://9gag.com/gag/aNDgGj0)
+ - 👉 [Red light](http://9gag.com/gag/a4P3gXm)<!-- MEMES:END -->
 
 ---
 
