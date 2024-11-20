@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Path of Exile 2 developer finally reveals how much it&#39;ll cost to play in early access](https://www.pcgamer.com/games/rpg/path-of-exile-2-developer-finally-reveals-how-much-itll-cost-to-play-in-early-access)
  - [This Fallout fan loves New Vegas so much he moved to the actual starting town of Goodsprings](https://www.pcgamer.com/games/fallout/this-fallout-fan-loves-new-vegas-so-much-he-moved-to-the-actual-starting-town-of-goodsprings)
- - [Star Wars: The Old Republic will give away inactive character names in December, so if you want to protect your own personal Glup Shitto you better log in before then](https://www.pcgamer.com/games/mmo/star-wars-the-old-republic-will-give-away-inactive-character-names-in-december-so-if-you-want-to-to-protect-your-own-personal-glup-shitto-you-better-log-in-before-then)
- - [PS Portal&#39;s New Update Could Be A Game Changer For Sony&#39;s Handheld](https://kotaku.com/ps-portal-new-update-cloud-streaming-ps5-beta-test-1851703376)<!-- GAME:END -->
+ - [Fields of Mistria romance and best gifts list](https://www.polygon.com/fields-of-mistria-guides/443158/romance-marriage-candidates-characters-best-gifts)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
