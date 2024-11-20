@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Stardew Valley made it easy to cheat. Here’s how to get unlimited gold, items, and more.](https://www.androidauthority.com/stardew-valley-cheat-codes-3499955/)
- - [Samsung Galaxy Watch FE review: a bogus bargain](https://www.theverge.com/24300723/samsung-galaxy-watch-fe-review-smartwatch-wearables)
- - [Google workers to DOJ: we need protections to make your breakup effective](https://www.theverge.com/2024/11/20/24300616/google-alphabet-workers-union-doj-antitrust-breakup-remedies)<!-- TECH:END -->
+ - [Apple heads to court to try to get massive &amp; vague DOJ antitrust suit dismissed](https://appleinsider.com/articles/24/11/20/apple-heads-to-court-to-try-to-get-massive-vague-doj-antitrust-suit-dismissed?utm_medium=rss)
+ - [Galaxy S25 Ultra dummy leaks give us a great look at Samsung’s 2025 flagship](https://www.androidauthority.com/samsung-galaxy-s25-ultra-dummy-leaks-2025-flagship-3501477/)
+ - [I find the best deals every day, here are my tips to avoid wasting money on Black Friday](https://www.androidauthority.com/avoid-wasting-money-black-friday-3500752/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
