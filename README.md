@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle answer for Wednesday, November 20](https://www.pcgamer.com/games/puzzle/wordle-answer-today-november-20-2024)
  - [Genshin Impact Out Now on Xbox – With Rewards for Game Pass Ultimate Members](https://news.xbox.com/en-us/2024/11/19/genshin-impact-xbox-game-pass-ultimate-rewards/)
- - [Stalker 2 release date and launch times](https://www.pcgamer.com/games/fps/stalker-2-launch-times-release-date)
- - [How Elemental Reactions and Resonance work in Genshin Impact](https://www.polygon.com/genshin-impact-guides/23298594/elemental-reactions-resonance-pyro-cryo-dendro-anemo-geo-electro-hydro)<!-- GAME:END -->
+ - [Stalker 2 release date and launch times](https://www.pcgamer.com/games/fps/stalker-2-launch-times-release-date)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
