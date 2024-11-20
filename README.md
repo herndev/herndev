@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Watching A Lot of Football This Month? Keep the Game Going With EA Play](https://news.xbox.com/en-us/2024/11/20/ea-play-rewards-november-2024/)
- - [5 beginner’s tips before starting STALKER 2: Heart of Chornobyl](https://www.polygon.com/guides/481924/stalker-2-beginners-tips-tricks-before-starting)
- - [The Game Awards Should Happen After The Year Is Over, Like Every Other Award Show](https://kotaku.com/game-awards-snub-dragon-age-veilguard-eligibility-dates-1851704052)<!-- GAME:END -->
+ - [World of Warcraft gave me my one elite gamer moment: Kiting the General in Upper Blackrock Spire](https://www.polygon.com/world-of-warcraft/480533/upper-blackrock-spire-kiting-general-hunter)
+ - [FromSoftware parent company confirms Sony’s acquisition intent](https://www.polygon.com/news/482003/kadokawa-fromsoftware-sony-playstation-dark-souls-elden-ring-anime-manga)
+ - [Is Nicole Kidman lying about her divorce meme photo? An investigation](https://www.polygon.com/culture/481939/nicole-kidman-divorce-meme-tom-cruise-real-not)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
