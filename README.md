@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Snowflake reports Q3 revenue up 28% YoY to $942.09M, vs. $898.46M est., unveils a deal with Anthropic to bring Claude to Cortex AI; SNOW jumps 18%+ after hours &lpar;Larry Dignan/Constellation Research&rpar;](http://www.techmeme.com/241120/p36#a241120p36)
- - [NASA wants SpaceX and Blue Origin to deliver cargo to the moon](https://www.theverge.com/2024/11/20/24301744/nasa-spacex-blue-origin-cargo-mission-artemis)
- - [Google Search results defy gravity in this new Easter egg](https://www.androidauthority.com/google-search-wicked-3501669/)<!-- TECH:END -->
+ - [Health Connect is adding support for saving your yoga and meditation sessions](https://www.androidauthority.com/health-connect-mindfulness-3501729/)
+ - [AI landlord screening tool will stop scoring low-income tenants after discrimination suit](https://www.theverge.com/2024/11/20/24297692/ai-landlord-tool-saferent-low-income-tenants-discrimination-settlement)
+ - [Google’s got a new Doodle game where it’s you versus the Moon](https://www.androidauthority.com/google-moon-doodle-3501708/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
