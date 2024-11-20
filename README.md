@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How Elemental Reactions and Resonance work in Genshin Impact](https://www.polygon.com/genshin-impact-guides/23298594/elemental-reactions-resonance-pyro-cryo-dendro-anemo-geo-electro-hydro)
- - [How to unlock free characters in Genshin Impact](https://www.polygon.com/genshin-impact-guides/23065767/unlock-characters-free-kaeya-lisa-xiangling-amber-collei)
- - [8 beginner’s tips to know before starting Genshin Impact](https://www.polygon.com/genshin-impact-guides/23063935/beginners-guide-tips-tricks-quests-unlocks-seelies)<!-- GAME:END -->
+ - [Genshin Impact Out Now on Xbox – With Rewards for Game Pass Ultimate Members](https://news.xbox.com/en-us/2024/11/19/genshin-impact-xbox-game-pass-ultimate-rewards/)
+ - [Stalker 2 release date and launch times](https://www.pcgamer.com/games/fps/stalker-2-launch-times-release-date)
+ - [How Elemental Reactions and Resonance work in Genshin Impact](https://www.polygon.com/genshin-impact-guides/23298594/elemental-reactions-resonance-pyro-cryo-dendro-anemo-geo-electro-hydro)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
