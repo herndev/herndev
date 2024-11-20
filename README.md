@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Trump&#39;s team is talking with the crypto industry over whether to create a White House post dedicated to cryptocurrency policy and is vetting candidates &lpar;Bloomberg&rpar;](http://www.techmeme.com/241120/p30#a241120p30)
- - [The New York Times is trying to shut down a popular Connections puzzle creator](https://www.theverge.com/2024/11/20/24301557/new-york-times-connections-creator-take-down)
- - [Not a joke: T-Mobile actually prevented a data breach for once &lpar;Update: Statement&rpar;](https://www.androidauthority.com/t-mobile-prevented-data-breach-not-a-joke-3501411/)<!-- TECH:END -->
+ - [Xbox is letting you take your game library anywhere](https://www.androidauthority.com/stream-xbox-games-you-own-3501612/)
+ - [Trump FCC Pick Brendan Carr Wants to Be the Speech Police. That&#39;s Not His Job](https://www.wired.com/story/brendan-carr-fcc-trump-speech-social-media-moderation/)
+ - [Apple&#39;s quick App Store takedowns over copyright claims are a nightmare for developers](https://appleinsider.com/articles/24/11/20/apples-quick-app-store-takedowns-over-copyright-claims-are-a-nightmare-for-developers?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
