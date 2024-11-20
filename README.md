@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [This Fallout fan loves New Vegas so much he moved to the actual starting town of Goodsprings](https://www.pcgamer.com/games/fallout/this-fallout-fan-loves-new-vegas-so-much-he-moved-to-the-actual-starting-town-of-goodsprings)
  - [Star Wars: The Old Republic will give away inactive character names in December, so if you want to protect your own personal Glup Shitto you better log in before then](https://www.pcgamer.com/games/mmo/star-wars-the-old-republic-will-give-away-inactive-character-names-in-december-so-if-you-want-to-to-protect-your-own-personal-glup-shitto-you-better-log-in-before-then)
- - [PS Portal&#39;s New Update Could Be A Game Changer For Sony&#39;s Handheld](https://kotaku.com/ps-portal-new-update-cloud-streaming-ps5-beta-test-1851703376)
- - [Minecraft Movie Director Reacts To Backlash Over Weird First Trailer](https://kotaku.com/minecraft-movie-live-action-first-trailer-reaction-1851703382)<!-- GAME:END -->
+ - [PS Portal&#39;s New Update Could Be A Game Changer For Sony&#39;s Handheld](https://kotaku.com/ps-portal-new-update-cloud-streaming-ps5-beta-test-1851703376)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
