@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [HeroQuest dungeon crawler competitor Maladum is the tabletop game of the moment](https://www.polygon.com/tabletop-games/482201/maladum-dungeons-enveron-heroquest-dungeon-crawler)
- - [Follow Polygon on Bluesky](https://www.polygon.com/news/482166/follow-polygon-bluesky)
- - [In a tough year for video games, the Game Awards nominations give some cause for hope](https://www.polygon.com/awards/481955/game-awards-goty-nominations-2024-analysis)<!-- GAME:END -->
+ - [Xbox Insiders Can Play Test War Robots: Frontiers Now Through December 4](https://news.xbox.com/en-us/2024/11/20/xbox-insiders-can-play-test-war-robots-frontiers-now-through-december-4/)
+ - [Reddit is down](https://www.pcgamer.com/games/reddit-is-down-november-20-2024)
+ - [Storybook Vale: How To Start Disney Dreamlight Valley&#39;s Latest DLC](https://kotaku.com/storybook-vale-disney-dreamlight-valley-how-to-start-1851703885)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
