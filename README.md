@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Call me anytime](http://9gag.com/gag/aqynwKP)
- - ⏩ [Go sports](http://9gag.com/gag/apRGZ5b)
+ - 💣 [A noble sacrifice](http://9gag.com/gag/azxmWrz)
+ - ⏩ [British actors always peaked at British cinema then get Hollyworld at Usa](http://9gag.com/gag/aO87Lnv)
  - 👉 [Lambo huracan story](http://9gag.com/gag/a87GOdY)<!-- MEMES:END -->
 
 ---
