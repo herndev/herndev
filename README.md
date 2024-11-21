@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Turning 36 today. Lost a lot this year but kept at it, and today things are looking a little up. Yall helped me get through so much, f**k y\u2019all and I\u2019ll se y\u2019all tomorrow.](http://9gag.com/gag/a6ZK0oR)
- - ⏩ [This was the day he realized his *friends* were living a different life than he wanted for himself](http://9gag.com/gag/a4P3v9y)
- - 👉 [A noble sacrifice](http://9gag.com/gag/azxmWrz)<!-- MEMES:END -->
+ - 💣 [This was the day he realized his *friends* were living a different life than he wanted for himself](http://9gag.com/gag/a4P3v9y)
+ - ⏩ [A noble sacrifice](http://9gag.com/gag/azxmWrz)
+ - 👉 [Well played](http://9gag.com/gag/apRGOAM)<!-- MEMES:END -->
 
 ---
 
