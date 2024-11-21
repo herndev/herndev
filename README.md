@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Caretaker trio stuffed 6-year-old in dryer spin cycle and turned it on as punishment for crying over lost bag of chips, police say](http://9gag.com/gag/aoyPoGm)
- - ⏩ [Fun fact #2,773,378,980](http://9gag.com/gag/aLnw7eA)
- - 👉 [Jorge remembered slowly](http://9gag.com/gag/awyBjLx)<!-- MEMES:END -->
+ - 💣 [Jorge remembered slowly](http://9gag.com/gag/awyBjLx)
+ - ⏩ [Caretaker trio stuffed 6-year-old in dryer spin cycle and turned it on as punishment for crying over lost bag of chips, police say](http://9gag.com/gag/aoyPoGm)
+ - 👉 [Stress testing an M16.](http://9gag.com/gag/aVvw6LM)<!-- MEMES:END -->
 
 ---
 
