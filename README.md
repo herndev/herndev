@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google says DoJ’s ‘extreme’ proposal will break several services](https://www.androidauthority.com/google-sell-chrome-doj-statement-3501812/)
- - [A look at OpenScholar, an LLM for scientific research built by the Allen Institute for AI and the University of Washington that outperforms GPT-4o on accuracy &lpar;Michael Nu&amp;ntilde;ez/VentureBeat&rpar;](http://www.techmeme.com/241121/p2#a241121p2)
- - [Google under fire: DOJ recommends selling Chrome, regulating Android](https://www.androidauthority.com/google-chrome-android-search-monopoly-doj-recommendations-3501788/)<!-- TECH:END -->
+ - [Peak Design’s Outdoor Backpack is a more versatile everyday bag](https://www.theverge.com/24290247/peak-design-25l-outdoor-backpack-review-camera-cube-test)
+ - [London-based Lighthouse, which offers tools to help hotels analyze market demand and rates, raised a ~$370M Series C led by KKR, sources say at a $1B+ valuation &lpar;Swetha Gopinath/Bloomberg&rpar;](http://www.techmeme.com/241121/p6#a241121p6)
+ - [Best Workout Mirrors for 2024](https://www.cnet.com/health/fitness/best-mirror-workout/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
