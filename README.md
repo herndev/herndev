@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Trump being Trump](http://9gag.com/gag/aLnwZDv)
- - ⏩ [Fun fact #2,773,378,980](http://9gag.com/gag/aLnw7eA)
- - 👉 [Look at the animation quality of this trailer! \ud83e\udd29](http://9gag.com/gag/aGydvO5)<!-- MEMES:END -->
+ - 💣 [Let me see your cats!](http://9gag.com/gag/ayNeO3X)
+ - ⏩ [Give this man a GOLD MEDAL](http://9gag.com/gag/an74L7V)
+ - 👉 [Denzel Washington with the most to the point life advice](http://9gag.com/gag/ae9DvVQ)<!-- MEMES:END -->
 
 ---
 
