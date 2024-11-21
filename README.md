@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Free Play Days – F1 24, Dragon Ball Xenoverse 2, Warriors Orochi 4 Ultimate, Hell Let Loose and More](https://news.xbox.com/en-us/2024/11/21/free-play-days-11-21-2024/)
- - [Despite running load tests that simulated 200,000 users, Microsoft Flight Simulator 2024 devs admit that they &#39;completely underestimated&#39; how many players would actually want to play their game](https://www.pcgamer.com/games/sim/despite-running-load-tests-that-simulated-200-000-users-microsoft-flight-simulator-2024-devs-admit-that-they-completely-underestimated-how-many-players-would-actually-want-to-play-their-game)
- - [By the end of the year some RTX 4070 laptops could be the first non-NPU machines to be given a Microsoft Copilot+ stamp](https://www.pcgamer.com/hardware/gaming-laptops/by-the-end-of-the-year-some-rtx-4070-laptops-could-be-the-first-non-npu-machines-to-be-given-a-microsoft-copilot-stamp)<!-- GAME:END -->
+ - [Experience Non-stop Action With Blindfire’s ‘Race to Kill’ Update, Available Today](https://news.xbox.com/en-us/2024/11/21/blindfire-race-to-kill-content-update/)
+ - [Josh Brolin Wants Denis Villeneuve To Get A Dune: Part Two Oscar Nom...Or Else](https://kotaku.com/josh-brolin-denis-villeneuve-dune-oscar-1851704984)
+ - [Asus ROG Maximus Z890 Hero review](https://www.pcgamer.com/hardware/motherboards/asus-rog-maximus-z890-hero-review)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
