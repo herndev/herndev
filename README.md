@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [This new Google Maps feature is a game-changer for me](https://www.androidauthority.com/google-maps-products-nearby-game-changer-3501923/)
- - [Daniel Craig’s Secret Omega Seamaster Diver Has Dropped](https://www.wired.com/story/daniel-craigs-secret-omega-seamaster-diver-has-dropped/)
- - [Border Militias Prepare to Assist With Donald Trump’s Mass Deportation Plans](https://www.wired.com/story/border-militias-immigrants-trump/)<!-- TECH:END -->
+ - [Nick Pickles, who left X as VP of Global Affairs in September, joins Sam Altman&#39;s Tools for Humanity, which is building World Network, as chief policy officer &lpar;Michelle Conlin/Reuters&rpar;](http://www.techmeme.com/241121/p22#a241121p22)
+ - [This functional Rick and Morty Butter Bot can roam your breakfast table](https://www.theverge.com/2024/11/21/24302292/rick-and-morty-butter-bot-ai-kickstarter-robot-toy)
+ - [Cybersecurity startup Wiz acquires Dazz, a specialist in security remediation and risk management; sources: the cash-and-stock deal is valued at $450M &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/241121/p21#a241121p21)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
