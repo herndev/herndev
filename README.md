@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Stress testing an M16.](http://9gag.com/gag/aVvw6LM)
- - ⏩ [This was the day he realized his *friends* were living a different life than he wanted for himself](http://9gag.com/gag/a4P3v9y)
- - 👉 [Lambo huracan story](http://9gag.com/gag/a87GOdY)<!-- MEMES:END -->
+ - 💣 [Core IT experience](http://9gag.com/gag/azxmpXp)
+ - ⏩ [Nothing to see here](http://9gag.com/gag/a9ynxW0)
+ - 👉 [Fear me, human!... oh sorry](http://9gag.com/gag/ajP9wQx)<!-- MEMES:END -->
 
 ---
 
