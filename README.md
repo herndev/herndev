@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [A noble sacrifice](http://9gag.com/gag/azxmWrz)
- - ⏩ [Motion capture technology has come a long way](http://9gag.com/gag/abAGnvX)
- - 👉 [Trump being Trump](http://9gag.com/gag/aLnwZDv)<!-- MEMES:END -->
+ - 💣 [Calm down, most of you are not in danger](http://9gag.com/gag/ayNeGVq)
+ - ⏩ [When genius surpasses all logic](http://9gag.com/gag/aD24yXd)
+ - 👉 [Look at the animation quality of this trailer! \ud83e\udd29](http://9gag.com/gag/aGydvO5)<!-- MEMES:END -->
 
 ---
 
