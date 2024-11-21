@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Rockstar teases &#39;absolutely mind-blowing things&#39; in the works as Grand Theft Auto 6 wins Most Wanted Game at the Golden Joystick Awards](https://www.pcgamer.com/games/rockstar-teases-absolutely-mind-blowing-things-as-grand-theft-auto-6-wins-most-wanted-game-at-the-golden-joystick-awards)
- - [Elden Ring And Armored Core VI Are Both Absolute Steals Right Now At Just $20 Each](https://kotaku.com/elden-ring-armored-core-6-black-friday-erdtree-sale-1851705392)
- - [Stardew Valley patch 1.6.9 fixed my ugliest modding habits, and I&#39;m having more fun than ever rediscovering vanilla Pelican Town](https://www.pcgamer.com/games/sim/stardew-valley-patch-1-6-9-fixed-my-ugliest-modding-habits-and-im-having-more-fun-than-ever-rediscovering-vanilla-pelican-town)<!-- GAME:END -->
+ - [Dragon Age: Inquisition was supposed to see your Origins character return for what would have been the most excruciating choice BioWare ever concocted](https://www.pcgamer.com/games/dragon-age/dragon-age-inquisition-was-supposed-to-see-your-origins-character-return-for-what-would-have-been-the-most-excruciating-choice-bioware-ever-concocted)
+ - [Making Rook The Hero Of The Next Dragon Age Could Fix The Series&#39; Biggest Problem](https://kotaku.com/dragon-age-veilguard-rook-choice-import-da5-5-1851705496)
+ - [Fortnite’s battle pass price hike shows sometimes less is more](https://www.polygon.com/gaming/483112/fortnite-battle-pass-price-increase)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
