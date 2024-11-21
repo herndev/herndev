@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The best early gaming deals of Black Friday](https://www.polygon.com/black-friday/475293/best-early-gaming-deals)
- - [How to repair weapons in Stalker 2](https://www.pcgamer.com/games/fps/stalker-2-repair-weapons)
- - [Nvidia says its surprisingly high $3.3B gaming revenue is expected to drop but &#39;not to worry&#39; because next year will be fine *wink* RTX 50-series *wink*](https://www.pcgamer.com/hardware/graphics-cards/nvidia-says-its-surprisingly-high-usd3-3b-gaming-revenue-is-expected-to-drop-but-not-to-worry-because-next-year-will-be-fine-wink-rtx-50-series-wink)<!-- GAME:END -->
+ - [How Player Choice is Infused into Avowed’s Approach to Combat](https://news.xbox.com/en-us/2024/11/21/player-choice-avowed-approach-to-combat/)
+ - [6 Hours With Avowed And I&#39;m Already Thinking It&#39;s One Of 2025&#39;s Best Games](https://kotaku.com/avowed-rpg-obsidian-hands-on-preview-xbox-pc-1851703825)
+ - [Pal Up With Disney Dreamlight Valley&#39;s Pegasus Companions](https://kotaku.com/disney-dreamlight-valley-storybook-vale-pegasus-find-1851704637)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
