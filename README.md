@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Even the orangutan can&#39;t explain what happened](http://9gag.com/gag/a5QWY0y)
- - ⏩ [Keeping it cool and not missing a single note while being harassed](http://9gag.com/gag/aQzdjm7)
- - 👉 [British actors always peaked at British cinema then get Hollyworld at Usa](http://9gag.com/gag/aO87Lnv)<!-- MEMES:END -->
+ - 💣 [A noble sacrifice](http://9gag.com/gag/azxmWrz)
+ - ⏩ [Motion capture technology has come a long way](http://9gag.com/gag/abAGnvX)
+ - 👉 [Trump being Trump](http://9gag.com/gag/aLnwZDv)<!-- MEMES:END -->
 
 ---
 
