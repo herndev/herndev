@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Dragon Age: Inquisition was supposed to see your Origins character return for what would have been the most excruciating choice BioWare ever concocted](https://www.pcgamer.com/games/dragon-age/dragon-age-inquisition-was-supposed-to-see-your-origins-character-return-for-what-would-have-been-the-most-excruciating-choice-bioware-ever-concocted)
- - [Making Rook The Hero Of The Next Dragon Age Could Fix The Series&#39; Biggest Problem](https://kotaku.com/dragon-age-veilguard-rook-choice-import-da5-5-1851705496)
- - [Fortnite’s battle pass price hike shows sometimes less is more](https://www.polygon.com/gaming/483112/fortnite-battle-pass-price-increase)<!-- GAME:END -->
+ - [Dragon Age: The Veilguard&#39;s latest patch means players can finally use arrow keys for movement](https://www.pcgamer.com/games/rpg/dragon-age-the-veilguards-latest-patch-means-players-can-finally-use-arrow-keys-for-movement)
+ - [Warhammer documentary to star Napoleon Dynamite actor](https://www.polygon.com/warhammer-40k/483344/trailer-warhammer-documentary-john-blanche-napoleon-dynamite-actor)
+ - [Dragon Age: The Veilguard Gets New Photo Mode Options And A Bunch Of Bug Fixes In Latest Patch](https://kotaku.com/dragon-age-the-veilguard-patch-notes-bioware-photo-mode-1851705529)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
