@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Murdered by Opera GX browser](http://9gag.com/gag/aryVEyV)
- - ⏩ [Even the orangutan can&#39;t explain what happened](http://9gag.com/gag/a5QWY0y)
- - 👉 [Goodbye, Jaguar.](http://9gag.com/gag/a9yng8K)<!-- MEMES:END -->
+ - 💣 [Oh no](http://9gag.com/gag/aYQy6VO)
+ - ⏩ [Well\u2026I guess that was the most memorable day of her life](http://9gag.com/gag/a1mWg5b)
+ - 👉 [Fun fact #2,773,378,980](http://9gag.com/gag/aLnw7eA)<!-- MEMES:END -->
 
 ---
 
