@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [And those mammary glands.](http://9gag.com/gag/aLnwEpA)
- - ⏩ [Mark up another victory and scratch one off the list.](http://9gag.com/gag/aKG7QQ1)
- - 👉 [Motion capture technology has come a long way](http://9gag.com/gag/abAGnvX)<!-- MEMES:END -->
+ - 💣 [Core IT experience](http://9gag.com/gag/azxmpXp)
+ - ⏩ [And those mammary glands.](http://9gag.com/gag/aLnwEpA)
+ - 👉 [Look at the animation quality of this trailer! \ud83e\udd29](http://9gag.com/gag/aGydvO5)<!-- MEMES:END -->
 
 ---
 
