@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Black Friday Amazon deals: $100 off M4 Mac mini, $250 off MacBook, $189 Apple Watch](https://appleinsider.com/articles/24/11/21/best-black-friday-amazon-deals-100-off-m4-mac-mini-250-off-macbook-189-apple-watch?utm_medium=rss)
- - [Q&amp;A with Palo Alto Networks CEO Nikesh Arora about the role of the tech industry in Trump&#39;s administration, AI, the future of cybersecurity, and more &lpar;Reed Albergotti/Semafor&rpar;](http://www.techmeme.com/241121/p8#a241121p8)
- - [Google Phone app could soon let you rat out that scam call &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-phone-scam-detection-feedback-features-apk-teardown-3501804/)<!-- TECH:END -->
+ - [CFPB will supervise tech companies offering digital wallets, including Apple Pay, by treating them like banks as long as they handle 50M+ transactions per year &lpar;Paige Smith/Bloomberg&rpar;](http://www.techmeme.com/241121/p11#a241121p11)
+ - [Apple urges judge to dismiss the DOJ&#39;s speculative antitrust suit](https://appleinsider.com/articles/24/11/21/apple-urges-judge-to-dismiss-the-dojs-speculative-antitrust-suit?utm_medium=rss)
+ - [Sources: Huawei plans to start mass-producing its most advanced AI chip, the Ascend 910C, in Q1 2025, even as it struggles to make enough chips due to US curbs &lpar;Fanny Potkin/Reuters&rpar;](http://www.techmeme.com/241121/p10#a241121p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
