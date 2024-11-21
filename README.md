@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [This new phone service promises to protect your data like none of the big carriers seem able to](https://www.androidauthority.com/cape-phone-service-3502126/)
- - [Grab Apple&#39;s 16-inch MacBook Pro M4 at record low $2,199 price](https://appleinsider.com/articles/24/11/21/grab-apples-16-inch-macbook-pro-m4-at-record-low-2199-price?utm_medium=rss)
- - [Spotify adds new audiobook features for Premium users: video clips up to 30 seconds long, Author Pages, and visuals that appear while users listen &lpar;Lauren Forristal/TechCrunch&rpar;](http://www.techmeme.com/241121/p38#a241121p38)<!-- TECH:END -->
+ - [16 Best Mattresses—I’ve Tested Dozens for a Week Each &lpar;2024&rpar;](https://www.wired.com/gallery/best-mattresses/)
+ - [OpenAI accidentally erases potential evidence in training data lawsuit](https://www.theverge.com/2024/11/21/24302606/openai-erases-evidence-in-training-data-lawsuit)
+ - [Sources: OpenAI considered making a browser, discussed deals to power AI features on Samsung devices and search on sites and apps from Cond&amp;eacute; Nast and others &lpar;The Information&rpar;](http://www.techmeme.com/241121/p40#a241121p40)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
