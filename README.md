@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Correct reaction. She passed the test.](http://9gag.com/gag/aYQyX2N)
- - ⏩ [Who is someone that you genuinely love?](http://9gag.com/gag/aAyez3p)
- - 👉 [Oh yeah, a classic !](http://9gag.com/gag/aD245e7)<!-- MEMES:END -->
+ - 💣 [Caretaker trio stuffed 6-year-old in dryer spin cycle and turned it on as punishment for crying over lost bag of chips, police say](http://9gag.com/gag/aoyPoGm)
+ - ⏩ [Fun fact #2,773,378,980](http://9gag.com/gag/aLnw7eA)
+ - 👉 [Jorge remembered slowly](http://9gag.com/gag/awyBjLx)<!-- MEMES:END -->
 
 ---
 
