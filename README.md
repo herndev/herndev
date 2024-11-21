@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Keeping it cool and not missing a single note while being harassed](http://9gag.com/gag/aQzdjm7)
- - ⏩ [It&#39;s a bit scary.](http://9gag.com/gag/aQzdWG2)
- - 👉 [Woman tries dating app as a man - with obvious results](http://9gag.com/gag/ajP9pKw)<!-- MEMES:END -->
+ - 💣 [Even the orangutan can&#39;t explain what happened](http://9gag.com/gag/a5QWY0y)
+ - ⏩ [Keeping it cool and not missing a single note while being harassed](http://9gag.com/gag/aQzdjm7)
+ - 👉 [British actors always peaked at British cinema then get Hollyworld at Usa](http://9gag.com/gag/aO87Lnv)<!-- MEMES:END -->
 
 ---
 
