@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Phone app could soon let you rat out that scam call &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-phone-scam-detection-feedback-features-apk-teardown-3501804/)
- - [Save $300 on the Apple Studio Display during Black Friday sale](https://appleinsider.com/articles/24/11/21/save-300-on-the-apple-studio-display-during-black-friday-sale?utm_medium=rss)
- - [Google could soon let you bring Santa into your phone calls &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-festive-seasonal-audio-emoji-3501794/)<!-- TECH:END -->
+ - [Best Black Friday Amazon deals: $100 off M4 Mac mini, $250 off MacBook, $189 Apple Watch](https://appleinsider.com/articles/24/11/21/best-black-friday-amazon-deals-100-off-m4-mac-mini-250-off-macbook-189-apple-watch?utm_medium=rss)
+ - [Q&amp;A with Palo Alto Networks CEO Nikesh Arora about the role of the tech industry in Trump&#39;s administration, AI, the future of cybersecurity, and more &lpar;Reed Albergotti/Semafor&rpar;](http://www.techmeme.com/241121/p8#a241121p8)
+ - [Google Phone app could soon let you rat out that scam call &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-phone-scam-detection-feedback-features-apk-teardown-3501804/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
