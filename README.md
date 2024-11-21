@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Trump administration&#39;s promises of mass deportations may lead to increased use of spyware like Graphite; ICE has a $2M contract with Graphite maker Paragon &lpar;Ronan Farrow/New Yorker&rpar;](http://www.techmeme.com/241121/p14#a241121p14)
- - [WhatsApp is finally doing something about its marketing spam problem](https://www.androidauthority.com/whatsapp-unsubscribe-marketing-messages-3501921/)
- - [US government steps up oversight of Apple Pay and rivals](https://appleinsider.com/articles/24/11/21/us-government-steps-up-oversight-of-apple-pay-and-rivals?utm_medium=rss)<!-- TECH:END -->
+ - [How XProtect protects you from viruses on macOS](https://appleinsider.com/inside/macos/tips/how-xprotect-protects-you-from-viruses-on-macos?utm_medium=rss)
+ - [Is Silicon Valley Actually Libertarian?](https://www.wired.com/story/uncanny-valley-podcast-4-is-silicon-valley-libertarian/)
+ - [If you are looking for a truly hands-free robot vacuum experience, get the Eureka J15 Pro Ultra](https://www.androidauthority.com/truly-hands-free-robot-vacuum-eureka-j15-pro-ultra-3500435/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
