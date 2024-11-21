@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The 2025-26 FAFSA Launched Today. 5 Things to Know Before You Apply](https://www.cnet.com/personal-finance/loans/the-2025-26-fafsa-is-now-available-to-everyone-5-things-to-know-before-you-apply/#ftag=CAD590a51e)
- - [SpyCloud researchers say Chinese black market operators are openly recruiting insiders working for government surveillance agencies to sell their access online &lpar;Andy Greenberg/Wired&rpar;](http://www.techmeme.com/241121/p29#a241121p29)
- - [Best Internet Providers in Roseville, California](https://www.cnet.com/home/internet/best-internet-providers-in-roseville-ca/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Rabbit releases its teach mode in beta for all R1 users, letting them create and ask their own AI agents to automate tasks on websites &lpar;Igor Bonifacic/Engadget&rpar;](http://www.techmeme.com/241121/p32#a241121p32)
+ - [Kia announces high-performance EV9 GT with virtual shifting and native Tesla charging](https://www.theverge.com/2024/11/21/24302336/kia-ev9-gt-specs-nacs-charge-ev6-battery-laas)
+ - [Crypto mining company Mara Holdings raised $1B through convertible notes, mostly to acquire bitcoin, as it expects bitcoin mining to flourish under Trump &lpar;Josh O&#39;Sullivan/Cointelegraph&rpar;](http://www.techmeme.com/241121/p31#a241121p31)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
