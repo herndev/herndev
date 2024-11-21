@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [I Compared 3 Meal Kit Services With the Cost of Groceries in 2024](https://www.cnet.com/health/nutrition/i-compared-3-meal-kit-services-with-the-cost-of-groceries-in-2024/#ftag=CAD590a51e)
- - [Déjà vu: Google is reportedly killing the Pixel Tablet 3, ending tablet efforts once more](https://www.androidauthority.com/google-pixel-tablet-3-canceled-3501769/)
- - [OpenAI releases a free online course for K-12 teachers to integrate ChatGPT into their classrooms, but some educators remain skeptical about the technology &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/241120/p42#a241120p42)<!-- TECH:END -->
+ - [DOJ says Google must sell Chrome to crack open its search monopoly](https://www.theverge.com/2024/11/20/24300617/doj-google-search-antitrust-chrome-breakup)
+ - [As part of its proposed remedies, the US DOJ says Google should be required to syndicate its US search results to other rival search engines for the next decade &lpar;Brian Fung/CNN&rpar;](http://www.techmeme.com/241120/p44#a241120p44)
+ - [Filing: DOJ asks judge to force Google to sell Chrome, restrict Android from favoring Google&#39;s search engine, ban default search deals on iOS and other devices &lpar;Michael Liedtke/Associated Press&rpar;](http://www.techmeme.com/241120/p43#a241120p43)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
