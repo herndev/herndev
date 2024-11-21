@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Health Connect is adding support for saving your yoga and meditation sessions](https://www.androidauthority.com/health-connect-mindfulness-3501729/)
- - [AI landlord screening tool will stop scoring low-income tenants after discrimination suit](https://www.theverge.com/2024/11/20/24297692/ai-landlord-tool-saferent-low-income-tenants-discrimination-settlement)
- - [Google’s got a new Doodle game where it’s you versus the Moon](https://www.androidauthority.com/google-moon-doodle-3501708/)<!-- TECH:END -->
+ - [The two most affordable Apple iPad models are way cheaper today](https://www.androidauthority.com/apple-ipad-10th-generation-ipad-mini-deals-3501635/)
+ - [Google’s bringing the Pixel 9’s super-convenient data transfer tool to a lot more phones](https://www.androidauthority.com/android-data-transfer-tool-3501749/)
+ - [Nvidia says its Blackwell AI chip is ‘full steam’ ahead](https://www.theverge.com/2024/11/20/24301810/nvidia-blackwell-ai-b200-gb200-full-production-q3-2025-earnings)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
