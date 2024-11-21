@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Oh no](http://9gag.com/gag/aYQy6VO)
- - ⏩ [Well\u2026I guess that was the most memorable day of her life](http://9gag.com/gag/a1mWg5b)
- - 👉 [Fun fact #2,773,378,980](http://9gag.com/gag/aLnw7eA)<!-- MEMES:END -->
+ - 💣 [Motion capture technology has come a long way](http://9gag.com/gag/abAGnvX)
+ - ⏩ [It works!](http://9gag.com/gag/awyBWY1)
+ - 👉 [Well there you go](http://9gag.com/gag/aZZy6M9)<!-- MEMES:END -->
 
 ---
 
