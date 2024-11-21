@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [A City Builder With Co-op and Heroes? Welcome to the Chaotic World of Overthrown](https://news.xbox.com/en-us/2024/11/21/overthrown-co-op-xbox-game-preview/)
- - [Here’s when you can watch Fortnite&amp;#8217;s Juice WRLD concert](https://www.polygon.com/news/482975/fortnite-juice-wrld-concert-when-to-watch)
- - [GOG adds two of the original Stalker games to its preservation program, with huge discounts to boot](https://www.pcgamer.com/games/fps/gog-adds-two-of-the-original-stalker-games-to-its-preservation-program-with-huge-discounts-to-boot)<!-- GAME:END -->
+ - [Latest Update to Iron Meat Gives You More to Devour](https://news.xbox.com/en-us/2024/11/21/iron-meat-gives-you-more-to-devour/)
+ - [Arcane doesn’t have to give League of Legends characters the ending you expect](https://www.polygon.com/opinion/482290/arcane-netflix-league-legends-viktor-canon-dead-question-mark)
+ - [Steam Has New Rules For DLC And Season Passes To Prevent Players From Getting Screwed](https://kotaku.com/steam-valve-season-pass-dlc-refund-rules-pc-gaming-1851705291)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
