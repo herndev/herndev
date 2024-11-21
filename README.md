@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This was the day he realized his *friends* were living a different life than he wanted for himself](http://9gag.com/gag/a4P3v9y)
- - ⏩ [A noble sacrifice](http://9gag.com/gag/azxmWrz)
- - 👉 [Well played](http://9gag.com/gag/apRGOAM)<!-- MEMES:END -->
+ - 💣 [Keeping it cool and not missing a single note while being harassed](http://9gag.com/gag/aQzdjm7)
+ - ⏩ [It&#39;s a bit scary.](http://9gag.com/gag/aQzdWG2)
+ - 👉 [Woman tries dating app as a man - with obvious results](http://9gag.com/gag/ajP9pKw)<!-- MEMES:END -->
 
 ---
 
