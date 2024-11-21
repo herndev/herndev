@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [German police officers in Berlin do not submit to Allah and are not intimidated by Islamists. Real men.](http://9gag.com/gag/axy95N2)
- - ⏩ [Oh yeah, a classic !](http://9gag.com/gag/aD245e7)
+ - 💣 [Call me anytime](http://9gag.com/gag/aqynwKP)
+ - ⏩ [Go sports](http://9gag.com/gag/apRGZ5b)
  - 👉 [Lambo huracan story](http://9gag.com/gag/a87GOdY)<!-- MEMES:END -->
 
 ---
