@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [What are the odds Google will end up having to actually sell Chrome? Gamblers are on it](https://www.androidauthority.com/chrome-sale-odds-3502117/)
- - [New York Times Says OpenAI Erased Potential Lawsuit Evidence](https://www.wired.com/story/new-york-times-openai-erased-potential-lawsuit-evidence/)
- - [Sources: a16z, Ripple, Kraken, and Circle are jostling for a seat on Trump&#39;s promised crypto advisory council, which is expected to set up a bitcoin reserve &lpar;Hannah Lang/Reuters&rpar;](http://www.techmeme.com/241121/p37#a241121p37)<!-- TECH:END -->
+ - [This new phone service promises to protect your data like none of the big carriers seem able to](https://www.androidauthority.com/cape-phone-service-3502126/)
+ - [Grab Apple&#39;s 16-inch MacBook Pro M4 at record low $2,199 price](https://appleinsider.com/articles/24/11/21/grab-apples-16-inch-macbook-pro-m4-at-record-low-2199-price?utm_medium=rss)
+ - [Spotify adds new audiobook features for Premium users: video clips up to 30 seconds long, Author Pages, and visuals that appear while users listen &lpar;Lauren Forristal/TechCrunch&rpar;](http://www.techmeme.com/241121/p38#a241121p38)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
