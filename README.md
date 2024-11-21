@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Star Wars Outlaws: Wild Card – Developer Tips to Win Big at Kessel Sabacc](https://news.xbox.com/en-us/2024/11/21/star-wars-outlaws-wild-card-story-update/)
- - [Google&#39;s Gemini AI tells user trying to get help with their homework they&#39;re &#39;a stain on the universe&#39; and &#39;please die&#39;](https://www.pcgamer.com/software/ai/googles-gemini-ai-tells-user-trying-to-get-help-with-their-homework-theyre-a-stain-on-the-universe-and-please-die)
- - [Star Wars Outlaws update cuts polarizing forced stealth, but players are still torn](https://www.polygon.com/news/482828/star-wars-outlaws-update-removes-forced-stealth)<!-- GAME:END -->
+ - [A City Builder With Co-op and Heroes? Welcome to the Chaotic World of Overthrown](https://news.xbox.com/en-us/2024/11/21/overthrown-co-op-xbox-game-preview/)
+ - [Here’s when you can watch Fortnite&amp;#8217;s Juice WRLD concert](https://www.polygon.com/news/482975/fortnite-juice-wrld-concert-when-to-watch)
+ - [GOG adds two of the original Stalker games to its preservation program, with huge discounts to boot](https://www.pcgamer.com/games/fps/gog-adds-two-of-the-original-stalker-games-to-its-preservation-program-with-huge-discounts-to-boot)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
