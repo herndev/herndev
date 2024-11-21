@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [16 Best Mattresses—I’ve Tested Dozens for a Week Each &lpar;2024&rpar;](https://www.wired.com/gallery/best-mattresses/)
- - [OpenAI accidentally erases potential evidence in training data lawsuit](https://www.theverge.com/2024/11/21/24302606/openai-erases-evidence-in-training-data-lawsuit)
- - [Sources: OpenAI considered making a browser, discussed deals to power AI features on Samsung devices and search on sites and apps from Cond&amp;eacute; Nast and others &lpar;The Information&rpar;](http://www.techmeme.com/241121/p40#a241121p40)<!-- TECH:END -->
+ - [Android settings get a helpful tweak for juggling multiple accounts](https://www.androidauthority.com/android-settings-account-3502176/)
+ - [Save up to $2,000 with exclusive Bluetti portable power station Black Friday deals](https://appleinsider.com/articles/24/11/21/save-up-to-2000-with-exclusive-bluetti-portable-power-station-black-friday-deals?utm_medium=rss)
+ - [These are the hottest Samsung Galaxy Watch 7 and Galaxy Watch Ultra deals we’ve seen!](https://www.androidauthority.com/samsung-galaxy-watch-7-ultra-deals-3-3502182/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
