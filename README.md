@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The &#39;Bloodiest&#39; Episode Of Amazon&#39;s Secret Level Is Based On....Pac-Man?](https://kotaku.com/amazon-secret-level-pac-man-1851704391)
- - [Star Wars Outlaws is dropping &#39;forced stealth,&#39; so instead of being reset when you get caught sneaking around, you can just start blasting](https://www.pcgamer.com/games/action/star-wars-outlaws-is-dropping-forced-stealth-so-instead-of-being-reset-when-you-get-caught-sneaking-around-you-can-just-start-blasting)
- - [&#39;It&#39;s the best game&#39;: Post Malone reveals he has nearly 400 hours in Hunt: Showdown, proving the songwriter has impeccable FPS taste](https://www.pcgamer.com/games/fps/its-the-best-game-post-malone-reveals-he-has-nearly-400-hours-in-hunt-showdown-proving-the-songwriter-has-impeccable-fps-taste)<!-- GAME:END -->
+ - [Free-to-play &#39;MOBA battle royale&#39; game Supervive, one of the most popular recent Steam demos, is out now in early access](https://www.pcgamer.com/games/battle-royale/supervive-open-beta-launch-steam)
+ - [All Aboard for New Cassette Beasts Content – Available Now](https://news.xbox.com/en-us/2024/11/20/all-aboard-for-new-cassette-beasts-content-available-now/)
+ - [Dungeons &amp;#038; Dragons subclasses sync up with 2024 rules in Subclasses Revivified](https://www.polygon.com/dnd-dungeons-dragons/482522/subclasses-revivified-updates-5e-dnd-2024)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
