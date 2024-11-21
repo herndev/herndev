@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Jorge remembered slowly](http://9gag.com/gag/awyBjLx)
- - ⏩ [Well\u2026I guess that was the most memorable day of her life](http://9gag.com/gag/a1mWg5b)
- - 👉 [Red light](http://9gag.com/gag/a4P3gXm)<!-- MEMES:END -->
+ - 💣 [Correct reaction. She passed the test.](http://9gag.com/gag/aYQyX2N)
+ - ⏩ [Who is someone that you genuinely love?](http://9gag.com/gag/aAyez3p)
+ - 👉 [Oh yeah, a classic !](http://9gag.com/gag/aD245e7)<!-- MEMES:END -->
 
 ---
 
