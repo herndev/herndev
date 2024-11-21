@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Australia introduces a bill in Parliament to ban children younger than 16 from social media; companies would face fines of up to AU$50M for violations &lpar;Rod McGuirk/Associated Press&rpar;](http://www.techmeme.com/241120/p41#a241120p41)
- - [Honda has a plan to build solid-state batteries for EVs](https://www.theverge.com/2024/11/20/24301613/honda-solid-state-batteries-factory-demo-test-ev)
- - [Neuralink receives approval from Canada to launch clinical trials of its brain implants and plans to run its first non-US trial with Toronto Western Hospital &lpar;Sarah McBride/Bloomberg&rpar;](http://www.techmeme.com/241120/p40#a241120p40)<!-- TECH:END -->
+ - [I Compared 3 Meal Kit Services With the Cost of Groceries in 2024](https://www.cnet.com/health/nutrition/i-compared-3-meal-kit-services-with-the-cost-of-groceries-in-2024/#ftag=CAD590a51e)
+ - [Déjà vu: Google is reportedly killing the Pixel Tablet 3, ending tablet efforts once more](https://www.androidauthority.com/google-pixel-tablet-3-canceled-3501769/)
+ - [OpenAI releases a free online course for K-12 teachers to integrate ChatGPT into their classrooms, but some educators remain skeptical about the technology &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/241120/p42#a241120p42)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
