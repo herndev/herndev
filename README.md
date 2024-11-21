@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Calm down, most of you are not in danger](http://9gag.com/gag/ayNeGVq)
- - ⏩ [When genius surpasses all logic](http://9gag.com/gag/aD24yXd)
+ - 💣 [Trump being Trump](http://9gag.com/gag/aLnwZDv)
+ - ⏩ [Fun fact #2,773,378,980](http://9gag.com/gag/aLnw7eA)
  - 👉 [Look at the animation quality of this trailer! \ud83e\udd29](http://9gag.com/gag/aGydvO5)<!-- MEMES:END -->
 
 ---
