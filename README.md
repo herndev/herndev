@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nick Pickles, who left X as VP of Global Affairs in September, joins Sam Altman&#39;s Tools for Humanity, which is building World Network, as chief policy officer &lpar;Michelle Conlin/Reuters&rpar;](http://www.techmeme.com/241121/p22#a241121p22)
- - [This functional Rick and Morty Butter Bot can roam your breakfast table](https://www.theverge.com/2024/11/21/24302292/rick-and-morty-butter-bot-ai-kickstarter-robot-toy)
- - [Cybersecurity startup Wiz acquires Dazz, a specialist in security remediation and risk management; sources: the cash-and-stock deal is valued at $450M &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/241121/p21#a241121p21)<!-- TECH:END -->
+ - [Wicked is a dazzling reminder of how good movie musicals can be](https://www.theverge.com/2024/11/21/24301620/wicked-review)
+ - [Las Vegas-based Monkey Tilt, which combines online gambling with a chat function and content made by influencers, raised a $30M Series A led by Pantera &lpar;Catherine McGrath/Fortune&rpar;](http://www.techmeme.com/241121/p26#a241121p26)
+ - [Apple brings hearing tests to AirPods Pro 2 in France but holds back key feature](https://appleinsider.com/articles/24/11/21/apple-brings-hearing-tests-to-airpods-pro-2-in-france-but-holds-back-key-feature?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
