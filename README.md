@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Wicked is a dazzling reminder of how good movie musicals can be](https://www.theverge.com/2024/11/21/24301620/wicked-review)
- - [Las Vegas-based Monkey Tilt, which combines online gambling with a chat function and content made by influencers, raised a $30M Series A led by Pantera &lpar;Catherine McGrath/Fortune&rpar;](http://www.techmeme.com/241121/p26#a241121p26)
- - [Apple brings hearing tests to AirPods Pro 2 in France but holds back key feature](https://appleinsider.com/articles/24/11/21/apple-brings-hearing-tests-to-airpods-pro-2-in-france-but-holds-back-key-feature?utm_medium=rss)<!-- TECH:END -->
+ - [The 2025-26 FAFSA Launched Today. 5 Things to Know Before You Apply](https://www.cnet.com/personal-finance/loans/the-2025-26-fafsa-is-now-available-to-everyone-5-things-to-know-before-you-apply/#ftag=CAD590a51e)
+ - [SpyCloud researchers say Chinese black market operators are openly recruiting insiders working for government surveillance agencies to sell their access online &lpar;Andy Greenberg/Wired&rpar;](http://www.techmeme.com/241121/p29#a241121p29)
+ - [Best Internet Providers in Roseville, California](https://www.cnet.com/home/internet/best-internet-providers-in-roseville-ca/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
