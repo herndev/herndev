@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [In its latest security report, Meta says it removed 2M+ accounts this year connected to pig butchering scams conducted from Southeast Asia and the UAE &lpar;James Reddick/The Record&rpar;](http://www.techmeme.com/241121/p34#a241121p34)
- - [What Happens to X With No More Libs to Troll?](https://www.wired.com/story/politics-lab-what-happens-to-x/)
- - [Google’s Black Friday sale features record low prices on Pixel, Nest, and more](https://www.theverge.com/2024/11/21/24302290/google-black-friday-2024-pixel-nest-fitbit-deal-sale)<!-- TECH:END -->
+ - [What are the odds Google will end up having to actually sell Chrome? Gamblers are on it](https://www.androidauthority.com/chrome-sale-odds-3502117/)
+ - [New York Times Says OpenAI Erased Potential Lawsuit Evidence](https://www.wired.com/story/new-york-times-openai-erased-potential-lawsuit-evidence/)
+ - [Sources: a16z, Ripple, Kraken, and Circle are jostling for a seat on Trump&#39;s promised crypto advisory council, which is expected to set up a bitcoin reserve &lpar;Hannah Lang/Reuters&rpar;](http://www.techmeme.com/241121/p37#a241121p37)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
