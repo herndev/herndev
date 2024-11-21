@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Core IT experience](http://9gag.com/gag/azxmpXp)
- - ⏩ [Nothing to see here](http://9gag.com/gag/a9ynxW0)
- - 👉 [Fear me, human!... oh sorry](http://9gag.com/gag/ajP9wQx)<!-- MEMES:END -->
+ - 💣 [This was the day he realized his *friends* were living a different life than he wanted for himself](http://9gag.com/gag/a4P3v9y)
+ - ⏩ [For all the parents with little kids:](http://9gag.com/gag/a34w65m)
+ - 👉 [A noble sacrifice](http://9gag.com/gag/azxmWrz)<!-- MEMES:END -->
 
 ---
 
