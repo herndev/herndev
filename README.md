@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How to get Kicks in Fortnite](https://www.polygon.com/fortnite-guide/481291/kicks-shoes-disabled-equip)
- - [Not sure what game to play? Leave a comment, we’ll help](https://www.polygon.com/gaming/481129/best-game-games-to-play-november-ps5-pc-switch-xbox)
- - [Pokémon TCG Pocket Has A Hidden Wishlist Feature You&#39;ll Want To Use](https://kotaku.com/pokemon-tcg-pocket-wishlist-cards-wonder-pick-1851704678)<!-- GAME:END -->
+ - [Free Play Days – F1 24, Dragon Ball Xenoverse 2, Warriors Orochi 4 Ultimate, Hell Let Loose and More](https://news.xbox.com/en-us/2024/11/21/free-play-days-11-21-2024/)
+ - [Despite running load tests that simulated 200,000 users, Microsoft Flight Simulator 2024 devs admit that they &#39;completely underestimated&#39; how many players would actually want to play their game](https://www.pcgamer.com/games/sim/despite-running-load-tests-that-simulated-200-000-users-microsoft-flight-simulator-2024-devs-admit-that-they-completely-underestimated-how-many-players-would-actually-want-to-play-their-game)
+ - [By the end of the year some RTX 4070 laptops could be the first non-NPU machines to be given a Microsoft Copilot+ stamp](https://www.pcgamer.com/hardware/gaming-laptops/by-the-end-of-the-year-some-rtx-4070-laptops-could-be-the-first-non-npu-machines-to-be-given-a-microsoft-copilot-stamp)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
