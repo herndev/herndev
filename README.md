@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The two most affordable Apple iPad models are way cheaper today](https://www.androidauthority.com/apple-ipad-10th-generation-ipad-mini-deals-3501635/)
- - [Google’s bringing the Pixel 9’s super-convenient data transfer tool to a lot more phones](https://www.androidauthority.com/android-data-transfer-tool-3501749/)
- - [Nvidia says its Blackwell AI chip is ‘full steam’ ahead](https://www.theverge.com/2024/11/20/24301810/nvidia-blackwell-ai-b200-gb200-full-production-q3-2025-earnings)<!-- TECH:END -->
+ - [The Hyundai Ioniq 9 is a three-row electric SUV with room to grow](https://www.theverge.com/2024/11/20/24301740/hyundai-ioniq-9-three-row-electric-suv-laas)
+ - [Elon Musk and Vivek Ramaswamy have spelled out their plans for DOGE](https://www.theverge.com/2024/11/20/24301975/elon-musk-vivek-ramaswamy-doge-plan)
+ - [Google researchers introduce AlphaQubit, a machine-learning decoder that surpasses existing methods in identifying and correcting quantum computing errors &lpar;Matt Swayne/The Quantum Insider&rpar;](http://www.techmeme.com/241120/p39#a241120p39)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
