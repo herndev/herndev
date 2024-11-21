@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How to unlock Ranked Play in Black Ops 6](https://www.polygon.com/black-ops-6-guides/481450/ranked-play-unlock-rewards-release)
- - [&lpar;For Southeast Asia&rpar; PlayStation’s Black Friday Offers 2024](https://blog.playstation.com/2024/11/20/20241121-blackfriday/)
- - [&lpar;For Southeast Asia&rpar; PlayStation’s Black Friday Offers 2024](https://blog.playstation.com/2024/11/20/20241121-blackfriday/)<!-- GAME:END -->
+ - [The best early Magic: The Gathering deals of Black Friday](https://www.polygon.com/black-friday/475291/best-early-magic-gathering-mtg-deals)
+ - [Govee AI Sync Box Kit 2 review](https://www.pcgamer.com/hardware/lighting/govee-ai-sync-box-kit-2-review)
+ - [How to fast travel in Stalker 2](https://www.pcgamer.com/games/fps/stalker-2-fast-travel-unlock)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
