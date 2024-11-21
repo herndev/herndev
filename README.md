@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Hyundai Ioniq 9 is a three-row electric SUV with room to grow](https://www.theverge.com/2024/11/20/24301740/hyundai-ioniq-9-three-row-electric-suv-laas)
- - [Elon Musk and Vivek Ramaswamy have spelled out their plans for DOGE](https://www.theverge.com/2024/11/20/24301975/elon-musk-vivek-ramaswamy-doge-plan)
- - [Google researchers introduce AlphaQubit, a machine-learning decoder that surpasses existing methods in identifying and correcting quantum computing errors &lpar;Matt Swayne/The Quantum Insider&rpar;](http://www.techmeme.com/241120/p39#a241120p39)<!-- TECH:END -->
+ - [Neuralink receives approval from Canada to launch clinical trials of its brain implants and plans to run its first non-US trial with Toronto Western Hospital &lpar;Sarah McBride/Bloomberg&rpar;](http://www.techmeme.com/241120/p40#a241120p40)
+ - [Hot sale: LG monitor deals for every budget](https://www.androidauthority.com/lg-monitor-deals-3501763/)
+ - [The Hyundai Ioniq 9 is a three-row electric SUV with room to grow](https://www.theverge.com/2024/11/20/24301740/hyundai-ioniq-9-three-row-electric-suv-laas)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
