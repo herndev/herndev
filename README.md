@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [CFPB will supervise tech companies offering digital wallets, including Apple Pay, by treating them like banks as long as they handle 50M+ transactions per year &lpar;Paige Smith/Bloomberg&rpar;](http://www.techmeme.com/241121/p11#a241121p11)
- - [Apple urges judge to dismiss the DOJ&#39;s speculative antitrust suit](https://appleinsider.com/articles/24/11/21/apple-urges-judge-to-dismiss-the-dojs-speculative-antitrust-suit?utm_medium=rss)
- - [Sources: Huawei plans to start mass-producing its most advanced AI chip, the Ascend 910C, in Q1 2025, even as it struggles to make enough chips due to US curbs &lpar;Fanny Potkin/Reuters&rpar;](http://www.techmeme.com/241121/p10#a241121p10)<!-- TECH:END -->
+ - [The Trump administration&#39;s promises of mass deportations may lead to increased use of spyware like Graphite; ICE has a $2M contract with Graphite maker Paragon &lpar;Ronan Farrow/New Yorker&rpar;](http://www.techmeme.com/241121/p14#a241121p14)
+ - [WhatsApp is finally doing something about its marketing spam problem](https://www.androidauthority.com/whatsapp-unsubscribe-marketing-messages-3501921/)
+ - [US government steps up oversight of Apple Pay and rivals](https://appleinsider.com/articles/24/11/21/us-government-steps-up-oversight-of-apple-pay-and-rivals?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
