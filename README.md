@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Latest Update to Iron Meat Gives You More to Devour](https://news.xbox.com/en-us/2024/11/21/iron-meat-gives-you-more-to-devour/)
- - [Arcane doesn’t have to give League of Legends characters the ending you expect](https://www.polygon.com/opinion/482290/arcane-netflix-league-legends-viktor-canon-dead-question-mark)
- - [Steam Has New Rules For DLC And Season Passes To Prevent Players From Getting Screwed](https://kotaku.com/steam-valve-season-pass-dlc-refund-rules-pc-gaming-1851705291)<!-- GAME:END -->
+ - [Rockstar teases &#39;absolutely mind-blowing things&#39; in the works as Grand Theft Auto 6 wins Most Wanted Game at the Golden Joystick Awards](https://www.pcgamer.com/games/rockstar-teases-absolutely-mind-blowing-things-as-grand-theft-auto-6-wins-most-wanted-game-at-the-golden-joystick-awards)
+ - [Elden Ring And Armored Core VI Are Both Absolute Steals Right Now At Just $20 Each](https://kotaku.com/elden-ring-armored-core-6-black-friday-erdtree-sale-1851705392)
+ - [Stardew Valley patch 1.6.9 fixed my ugliest modding habits, and I&#39;m having more fun than ever rediscovering vanilla Pelican Town](https://www.pcgamer.com/games/sim/stardew-valley-patch-1-6-9-fixed-my-ugliest-modding-habits-and-im-having-more-fun-than-ever-rediscovering-vanilla-pelican-town)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
