@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Rabbit releases its teach mode in beta for all R1 users, letting them create and ask their own AI agents to automate tasks on websites &lpar;Igor Bonifacic/Engadget&rpar;](http://www.techmeme.com/241121/p32#a241121p32)
- - [Kia announces high-performance EV9 GT with virtual shifting and native Tesla charging](https://www.theverge.com/2024/11/21/24302336/kia-ev9-gt-specs-nacs-charge-ev6-battery-laas)
- - [Crypto mining company Mara Holdings raised $1B through convertible notes, mostly to acquire bitcoin, as it expects bitcoin mining to flourish under Trump &lpar;Josh O&#39;Sullivan/Cointelegraph&rpar;](http://www.techmeme.com/241121/p31#a241121p31)<!-- TECH:END -->
+ - [In its latest security report, Meta says it removed 2M+ accounts this year connected to pig butchering scams conducted from Southeast Asia and the UAE &lpar;James Reddick/The Record&rpar;](http://www.techmeme.com/241121/p34#a241121p34)
+ - [What Happens to X With No More Libs to Troll?](https://www.wired.com/story/politics-lab-what-happens-to-x/)
+ - [Google’s Black Friday sale features record low prices on Pixel, Nest, and more](https://www.theverge.com/2024/11/21/24302290/google-black-friday-2024-pixel-nest-fitbit-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
