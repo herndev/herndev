@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [A noble sacrifice](http://9gag.com/gag/azxmWrz)
- - ⏩ [British actors always peaked at British cinema then get Hollyworld at Usa](http://9gag.com/gag/aO87Lnv)
+ - 💣 [Stress testing an M16.](http://9gag.com/gag/aVvw6LM)
+ - ⏩ [This was the day he realized his *friends* were living a different life than he wanted for himself](http://9gag.com/gag/a4P3v9y)
  - 👉 [Lambo huracan story](http://9gag.com/gag/a87GOdY)<!-- MEMES:END -->
 
 ---
