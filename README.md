@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How XProtect protects you from viruses on macOS](https://appleinsider.com/inside/macos/tips/how-xprotect-protects-you-from-viruses-on-macos?utm_medium=rss)
- - [Is Silicon Valley Actually Libertarian?](https://www.wired.com/story/uncanny-valley-podcast-4-is-silicon-valley-libertarian/)
- - [If you are looking for a truly hands-free robot vacuum experience, get the Eureka J15 Pro Ultra](https://www.androidauthority.com/truly-hands-free-robot-vacuum-eureka-j15-pro-ultra-3500435/)<!-- TECH:END -->
+ - [This new Google Maps feature is a game-changer for me](https://www.androidauthority.com/google-maps-products-nearby-game-changer-3501923/)
+ - [Daniel Craig’s Secret Omega Seamaster Diver Has Dropped](https://www.wired.com/story/daniel-craigs-secret-omega-seamaster-diver-has-dropped/)
+ - [Border Militias Prepare to Assist With Donald Trump’s Mass Deportation Plans](https://www.wired.com/story/border-militias-immigrants-trump/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
