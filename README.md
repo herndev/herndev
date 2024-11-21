@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Red light](http://9gag.com/gag/a4P3gXm)
- - ⏩ [Japanese girl in a Cheongsam, different angle](http://9gag.com/gag/a87GN53)
- - 👉 [A noble sacrifice](http://9gag.com/gag/azxmWrz)<!-- MEMES:END -->
+ - 💣 [Oh yeah, a classic !](http://9gag.com/gag/aD245e7)
+ - ⏩ [Red light](http://9gag.com/gag/a4P3gXm)
+ - 👉 [Goodbye, Jaguar.](http://9gag.com/gag/a9yng8K)<!-- MEMES:END -->
 
 ---
 
