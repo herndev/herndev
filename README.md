@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [How to unlock Ranked Play in Black Ops 6](https://www.polygon.com/black-ops-6-guides/481450/ranked-play-unlock-rewards-release)
  - [&lpar;For Southeast Asia&rpar; PlayStation’s Black Friday Offers 2024](https://blog.playstation.com/2024/11/20/20241121-blackfriday/)
- - [&lpar;For Southeast Asia&rpar; PlayStation’s Black Friday Offers 2024](https://blog.playstation.com/2024/11/20/20241121-blackfriday/)
- - [Today&#39;s Wordle answer for Thursday, November 21](https://www.pcgamer.com/games/puzzle/wordle-answer-today-november-21-2024)<!-- GAME:END -->
+ - [&lpar;For Southeast Asia&rpar; PlayStation’s Black Friday Offers 2024](https://blog.playstation.com/2024/11/20/20241121-blackfriday/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
