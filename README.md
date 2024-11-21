@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How Player Choice is Infused into Avowed’s Approach to Combat](https://news.xbox.com/en-us/2024/11/21/player-choice-avowed-approach-to-combat/)
- - [6 Hours With Avowed And I&#39;m Already Thinking It&#39;s One Of 2025&#39;s Best Games](https://kotaku.com/avowed-rpg-obsidian-hands-on-preview-xbox-pc-1851703825)
- - [Pal Up With Disney Dreamlight Valley&#39;s Pegasus Companions](https://kotaku.com/disney-dreamlight-valley-storybook-vale-pegasus-find-1851704637)<!-- GAME:END -->
+ - [How to get Kicks in Fortnite](https://www.polygon.com/fortnite-guide/481291/kicks-shoes-disabled-equip)
+ - [Not sure what game to play? Leave a comment, we’ll help](https://www.polygon.com/gaming/481129/best-game-games-to-play-november-ps5-pc-switch-xbox)
+ - [Pokémon TCG Pocket Has A Hidden Wishlist Feature You&#39;ll Want To Use](https://kotaku.com/pokemon-tcg-pocket-wishlist-cards-wonder-pick-1851704678)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
