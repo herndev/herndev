@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The best early Magic: The Gathering deals of Black Friday](https://www.polygon.com/black-friday/475291/best-early-magic-gathering-mtg-deals)
- - [Govee AI Sync Box Kit 2 review](https://www.pcgamer.com/hardware/lighting/govee-ai-sync-box-kit-2-review)
- - [How to fast travel in Stalker 2](https://www.pcgamer.com/games/fps/stalker-2-fast-travel-unlock)<!-- GAME:END -->
+ - [The best early gaming deals of Black Friday](https://www.polygon.com/black-friday/475293/best-early-gaming-deals)
+ - [How to repair weapons in Stalker 2](https://www.pcgamer.com/games/fps/stalker-2-repair-weapons)
+ - [Nvidia says its surprisingly high $3.3B gaming revenue is expected to drop but &#39;not to worry&#39; because next year will be fine *wink* RTX 50-series *wink*](https://www.pcgamer.com/hardware/graphics-cards/nvidia-says-its-surprisingly-high-usd3-3b-gaming-revenue-is-expected-to-drop-but-not-to-worry-because-next-year-will-be-fine-wink-rtx-50-series-wink)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
