@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Oh yeah, a classic !](http://9gag.com/gag/aD245e7)
- - ⏩ [Red light](http://9gag.com/gag/a4P3gXm)
+ - 💣 [Murdered by Opera GX browser](http://9gag.com/gag/aryVEyV)
+ - ⏩ [Even the orangutan can&#39;t explain what happened](http://9gag.com/gag/a5QWY0y)
  - 👉 [Goodbye, Jaguar.](http://9gag.com/gag/a9yng8K)<!-- MEMES:END -->
 
 ---
