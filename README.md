@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Experience Non-stop Action With Blindfire’s ‘Race to Kill’ Update, Available Today](https://news.xbox.com/en-us/2024/11/21/blindfire-race-to-kill-content-update/)
- - [Josh Brolin Wants Denis Villeneuve To Get A Dune: Part Two Oscar Nom...Or Else](https://kotaku.com/josh-brolin-denis-villeneuve-dune-oscar-1851704984)
- - [Asus ROG Maximus Z890 Hero review](https://www.pcgamer.com/hardware/motherboards/asus-rog-maximus-z890-hero-review)<!-- GAME:END -->
+ - [Star Wars Outlaws: Wild Card – Developer Tips to Win Big at Kessel Sabacc](https://news.xbox.com/en-us/2024/11/21/star-wars-outlaws-wild-card-story-update/)
+ - [Google&#39;s Gemini AI tells user trying to get help with their homework they&#39;re &#39;a stain on the universe&#39; and &#39;please die&#39;](https://www.pcgamer.com/software/ai/googles-gemini-ai-tells-user-trying-to-get-help-with-their-homework-theyre-a-stain-on-the-universe-and-please-die)
+ - [Star Wars Outlaws update cuts polarizing forced stealth, but players are still torn](https://www.polygon.com/news/482828/star-wars-outlaws-update-removes-forced-stealth)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
