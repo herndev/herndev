@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Jorge remembered slowly](http://9gag.com/gag/awyBjLx)
- - ⏩ [Caretaker trio stuffed 6-year-old in dryer spin cycle and turned it on as punishment for crying over lost bag of chips, police say](http://9gag.com/gag/aoyPoGm)
- - 👉 [Stress testing an M16.](http://9gag.com/gag/aVvw6LM)<!-- MEMES:END -->
+ - 💣 [German police officers in Berlin do not submit to Allah and are not intimidated by Islamists. Real men.](http://9gag.com/gag/axy95N2)
+ - ⏩ [Oh yeah, a classic !](http://9gag.com/gag/aD245e7)
+ - 👉 [Lambo huracan story](http://9gag.com/gag/a87GOdY)<!-- MEMES:END -->
 
 ---
 
