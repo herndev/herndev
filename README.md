@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [The right answer isn&#39;t available in this practice math placement exam](http://9gag.com/gag/axy9XxD)
- - ⏩ [When genius surpasses all logic](http://9gag.com/gag/aD24yXd)
- - 👉 [Prank](http://9gag.com/gag/a9yn93m)<!-- MEMES:END -->
+ - ⏩ [Black cat definitely knew orange was up to something?](http://9gag.com/gag/aQzdLYd)
+ - 👉 [When genius surpasses all logic](http://9gag.com/gag/aD24yXd)<!-- MEMES:END -->
 
 ---
 
