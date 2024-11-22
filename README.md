@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I &lt;3 X](http://9gag.com/gag/a0eNrDZ)
- - ⏩ [Right in the..](http://9gag.com/gag/aE0Pr8e)
- - 👉 [Fatherly advice](http://9gag.com/gag/amovjKd)<!-- MEMES:END -->
+ - 💣 [Interesting](http://9gag.com/gag/aAyeW80)
+ - ⏩ [H.......](http://9gag.com/gag/aXPgBn6)
+ - 👉 [Woman tries dating app as a man - with obvious results](http://9gag.com/gag/ajP9pKw)<!-- MEMES:END -->
 
 ---
 
