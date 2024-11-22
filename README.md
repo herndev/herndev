@@ -41,7 +41,7 @@
 <!-- TECH:START -->
  - [Brave Search introduces AI chat to let users ask follow-up questions to initial queries, bringing together capabilities of chat-first and search-first tools &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/241121/p44#a241121p44)
  - [Snap files to dismiss New Mexico&#39;s lawsuit over Snap&#39;s alleged child safety issues with predators, saying the complaint misrepresents the state&#39;s investigation &lpar;Lauren Feiner/The Verge&rpar;](http://www.techmeme.com/241121/p43#a241121p43)
- - [Black Friday Deal: Chromecast with Google TV 4K is just $39.99](https://www.androidauthority.com/chromecast-with-google-tv-4k-deal-3502181/)<!-- TECH:END -->
+ - [Yes, You Might Still Want To Keep Your Landline Phone: Here&#39;s Why](https://www.cnet.com/tech/mobile/why-you-might-still-need-a-landline-phone-in-2024/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
