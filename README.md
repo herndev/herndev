@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Let me see your cats!](http://9gag.com/gag/ayNeO3X)
- - ⏩ [Give this man a GOLD MEDAL](http://9gag.com/gag/an74L7V)
- - 👉 [Denzel Washington with the most to the point life advice](http://9gag.com/gag/ae9DvVQ)<!-- MEMES:END -->
+ - 💣 [Tabelcloth trick was not in the script so when he made it Jim Carrey had to improvise afterwards &lpar;How the Grinch Stole Christmas - 2000&rpar;](http://9gag.com/gag/a1mW9gv)
+ - ⏩ [Nothing to see here](http://9gag.com/gag/a9ynxW0)
+ - 👉 [This is how you recognize if the picture is AI generated](http://9gag.com/gag/a0eN2KQ)<!-- MEMES:END -->
 
 ---
 
