@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [&#39;Gladiator 2&#39; Is Out Now. Here&#39;s Where You Can Watch the First &#39;Gladiator&#39; for Free](https://www.cnet.com/tech/services-and-software/gladiator-2-out-now-heres-where-you-can-watch-first-gladiator-for-free/#ftag=CAD590a51e)
- - [Google’s latest Chromecast with Google TV update is yet another tease](https://www.androidauthority.com/november-chromecast-with-google-tv-update-3502539/)
- - [You Don&#39;t Have to Pay for More Gmail Storage: How to Get Back 15GB for Free](https://www.cnet.com/tech/services-and-software/you-dont-have-to-pay-for-more-gmail-storage-how-to-get-back-15gb-for-free/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The best new streaming shows this week: Zombieverse and more](https://www.androidauthority.com/best-new-tv-shows-to-stream-this-week-3084538/)
+ - [Save $60 on Omnilux&#39;s Red Light Therapy Mask, Which We Love for Its Glowing Results](https://www.cnet.com/deals/save-60-on-omniluxs-red-light-therapy-mask-which-we-love-for-its-glowing-results/#ftag=CAD590a51e)
+ - [Strava’s API debacle highlights the messiness of fitness data](https://www.theverge.com/2024/11/22/24303124/strava-fitness-data-wearables)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
