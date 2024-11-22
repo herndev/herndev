@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Fatherly advice](http://9gag.com/gag/amovjKd)
- - ⏩ [MAGA strikes once more!](http://9gag.com/gag/aBymq01)
- - 👉 [Adore Inkspots. If you&#39;re gonna cover it, do it right.](http://9gag.com/gag/a9yEj7j)<!-- MEMES:END -->
+ - 💣 [The Clearest Image of Venus\u2019s Surface, By a Lander that Melted After 1 Hour](http://9gag.com/gag/aBymp91)
+ - ⏩ [The WALL](http://9gag.com/gag/aD24KrN)
+ - 👉 [New secret](http://9gag.com/gag/aGyd33G)<!-- MEMES:END -->
 
 ---
 
