@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [2024 Amazon Kindle readers go on sale for the first time](https://www.androidauthority.com/2024-amazon-kindle-paperwhite-signature-edition-deals-3502285/)
- - [Samsung reveals spy-thriller-style operations behind your phone’s security patches](https://www.androidauthority.com/samsung-secret-galaxy-security-operations-3502288/)
- - [Klarna&#39;s planned US IPO in H1 2025 could presage an uptick in IPOs by fintechs like Trustly, Chime, Zilch, Plaid, and Revolut after a relatively slow period &lpar;Bloomberg&rpar;](http://www.techmeme.com/241121/p45#a241121p45)<!-- TECH:END -->
+ - [The UK plans to draft a regulatory framework to oversee stablecoins and staking services as part of a single overarching regime for cryptoassets in early 2025 &lpar;Emily Nicolle/Bloomberg&rpar;](http://www.techmeme.com/241121/p46#a241121p46)
+ - [Apple&#39;s M4 Mac mini plunges to record low $499 during Amazon&#39;s Black Friday Sale](https://appleinsider.com/articles/24/11/22/apples-m4-mac-mini-plunges-to-record-low-499-during-amazons-black-friday-sale?utm_medium=rss)
+ - [2024 Amazon Kindle readers go on sale for the first time](https://www.androidauthority.com/2024-amazon-kindle-paperwhite-signature-edition-deals-3502285/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
