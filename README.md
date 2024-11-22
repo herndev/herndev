@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Overwatch 2’s New Tank Hero Looks Like An Absolute Menace](https://kotaku.com/overwatch-2-hazard-tank-hero-trailer-abilities-tips-1851706161)
- - [Ex-Blizzard president has rather boldly called Sony&#39;s potential FromSoftware scoop &#39;probably a top 2 acquisition in videogames in the last 15+ years if not ever&#39;](https://www.pcgamer.com/gaming-industry/ex-blizzard-president-has-rather-boldly-called-sonys-potential-fromsoftware-scoop-probably-a-top-2-acquisition-in-videogames-in-the-last-15-years-if-not-ever)
- - [A team of chemists have created the world&#39;s thinnest spaghetti, although there&#39;s no word yet on the sauce](https://www.pcgamer.com/hardware/a-team-of-chemists-have-created-the-worlds-thinnest-spaghetti-although-theres-no-word-yet-on-the-sauce)<!-- GAME:END -->
+ - [The 43 best movies on Netflix right now](https://www.polygon.com/21266801/best-movies-on-netflix)
+ - [Every Gladiator II actor is in their own wild version of the movie — so let’s rank them](https://www.polygon.com/review/483526/gladiator-2-review-denzel-washington-paul-mescal-best-actors-ranked)
+ - [Stalker 2 sells over a million copies: &#39;This is just the start&#39;](https://www.pcgamer.com/games/fps/stalker-2-sells-over-a-million-copies-this-is-just-the-start)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
