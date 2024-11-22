@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [If I remember correctly, she just wanted to use him as a ticket to get into the US. That&#39;s her friendship](http://9gag.com/gag/aRB75Ry)
- - ⏩ [Elon Musk reaction on Jaguar&#39;s ad](http://9gag.com/gag/ae9DL3q)
- - 👉 [Prank](http://9gag.com/gag/a9yn93m)<!-- MEMES:END -->
+ - 💣 [Prank](http://9gag.com/gag/a9yn93m)
+ - ⏩ [He&#39;s starting to understand](http://9gag.com/gag/ayNeOMV)
+ - 👉 [This was the day he realized his *friends* were living a different life than he wanted for himself](http://9gag.com/gag/a4P3v9y)<!-- MEMES:END -->
 
 ---
 
