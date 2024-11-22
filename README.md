@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Android settings get a helpful tweak for juggling multiple accounts](https://www.androidauthority.com/android-settings-account-3502176/)
- - [Save up to $2,000 with exclusive Bluetti portable power station Black Friday deals](https://appleinsider.com/articles/24/11/21/save-up-to-2000-with-exclusive-bluetti-portable-power-station-black-friday-deals?utm_medium=rss)
- - [These are the hottest Samsung Galaxy Watch 7 and Galaxy Watch Ultra deals we’ve seen!](https://www.androidauthority.com/samsung-galaxy-watch-7-ultra-deals-3-3502182/)<!-- TECH:END -->
+ - [The best new streaming movies this week: Thelma and more](https://www.androidauthority.com/best-new-streaming-movies-this-week-3083965/)
+ - [Source: Google has canceled the development of a second-generation Pixel Tablet, planned for release in 2025, due to concerns that it wouldn&#39;t sell very well &lpar;Mishaal Rahman/Android Authority&rpar;](http://www.techmeme.com/241121/p41#a241121p41)
+ - [The Verge’s guide to Black Friday 2024](https://www.theverge.com/24288220/black-friday-best-deals-guide-cyber-monday-tech-gadgets-2024)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
