@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [You can easily disassemble this repairable smartwatch using just a Phillips screwdriver](https://www.theverge.com/2024/11/22/24303386/pocuter-spectra-smartwatch-repairable-hackable-wearable)
- - [Sling TV’s streaming TV price goes up by $5.99 next month](https://www.theverge.com/2024/11/22/24303400/sling-tv-streaming-price-increase-blue-orange)
- - [The US Is Calling Out Foreign Influence Campaigns Faster Than Ever](https://www.wired.com/story/us-called-out-foreign-influence-campaigns-faster-than-ever/)<!-- TECH:END -->
+ - [15 Best Black Friday AirPod Deals: Up to $150 Off Ultra-Popular Apple Headphones](https://www.cnet.com/deals/best-black-friday-airpods-deals-2024/#ftag=CAD590a51e)
+ - [Score This Hot Deal on a High-Tech Meat Thermometer at a 55% Discount in Time for Thanksgiving](https://www.cnet.com/deals/score-this-hot-deal-on-a-high-tech-meat-thermometer-at-a-55-discount-in-time-for-thanksgiving/#ftag=CAD590a51e)
+ - [Sources and screenshots: Kalshi paid influencers to imply that Polymarket and its CEO Shayne Coplan engaged in illegal activity, after FBI&#39;s raid on Coplan &lpar;Pirate Wires&rpar;](http://www.techmeme.com/241122/p20#a241122p20)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
