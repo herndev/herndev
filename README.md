@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Disney World Replacing Muppets With Monsters, Inc.](https://kotaku.com/disney-world-muppet-courtyard-3d-replaced-monsters-inc-1851706405)
- - [Riot calls out &#39;disrespectful&#39; AI-extended Arcane art on Netflix: &#39;This image was a mistake&#39;](https://www.pcgamer.com/movies-tv/riot-calls-out-disrespectful-ai-extended-arcane-art-on-netflix-this-image-was-a-mistake)
- - [Official PlayStation Podcast Episode 501: Celebrating 30 Years of PlayStation &lpar;Part 2&rpar;](https://blog.playstation.com/2024/11/22/official-playstation-podcast-episode-501-celebrating-30-years-of-playstation-part-2/)<!-- GAME:END -->
+ - [The origin of the Source engine&#39;s iconic neon fuchsia checkerboard texture, as told by Half-Life 2&#39;s new commentary mode](https://www.pcgamer.com/games/fps/the-origin-of-the-source-engines-iconic-neon-fuchsia-checkerboard-texture-as-told-by-half-life-2s-new-commentary-mode)
+ - [The World of Warcraft co-creator’s D&amp;#038;D setting Auroboros is for bards who rock](https://www.polygon.com/fantasy/484269/auroboros-chris-metzen-wow-20th-anniversary)
+ - [We played Avowed with both first-person and third-person cameras: Here&#39;s what we thought](https://www.pcgamer.com/games/rpg/we-played-avowed-with-both-first-person-and-third-person-cameras-heres-what-we-thought)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
