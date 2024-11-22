@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Narwal’s huge Black Friday discounts make it the best time to buy a robot vacuum](https://www.androidauthority.com/narwals-black-friday-2025-discounts-3502037/)
- - [17 Best Hair Straighteners We Tested &lpar;2024&rpar; | WIRED](https://www.wired.com/gallery/best-hair-straighteners/)
- - [Russian Spies Jumped From One Network to Another Via Wi-Fi in an Unprecedented Hack](https://www.wired.com/story/russia-gru-apt28-wifi-daisy-chain-breach/)<!-- TECH:END -->
+ - [Three Nvidia customers spent a collective $12.6B in Q3, when it had a total revenue of $35.1B; each of them spent $10B+ in the nine months to October &lpar;Christiaan Hetzner/Fortune&rpar;](http://www.techmeme.com/241122/p7#a241122p7)
+ - [Best Streaming Device for 2024: Top Picks Reviewed](https://www.cnet.com/tech/home-entertainment/best-streaming-device/#ftag=CAD590a51e)
+ - [Carv 2 Digital Ski Coach Review: Cheaper, Easier, Better](https://www.wired.com/review/review-carv-2-digital-ski-coach/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
