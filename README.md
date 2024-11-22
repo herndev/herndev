@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Nothing to see here](http://9gag.com/gag/a9ynxW0)
- - ⏩ [He&#39;s starting to understand](http://9gag.com/gag/ayNeOMV)
- - 👉 [The WALL](http://9gag.com/gag/aD24KrN)<!-- MEMES:END -->
+ - 💣 [The world&#39;s shortest and tallest women have tea](http://9gag.com/gag/aBympVA)
+ - ⏩ [The WALL](http://9gag.com/gag/aD24KrN)
+ - 👉 [Next marvel Superstar!](http://9gag.com/gag/azxm0Yp)<!-- MEMES:END -->
 
 ---
 
