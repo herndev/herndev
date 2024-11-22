@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The origin of the Source engine&#39;s iconic neon fuchsia checkerboard texture, as told by Half-Life 2&#39;s new commentary mode](https://www.pcgamer.com/games/fps/the-origin-of-the-source-engines-iconic-neon-fuchsia-checkerboard-texture-as-told-by-half-life-2s-new-commentary-mode)
- - [The World of Warcraft co-creator’s D&amp;#038;D setting Auroboros is for bards who rock](https://www.polygon.com/fantasy/484269/auroboros-chris-metzen-wow-20th-anniversary)
- - [We played Avowed with both first-person and third-person cameras: Here&#39;s what we thought](https://www.pcgamer.com/games/rpg/we-played-avowed-with-both-first-person-and-third-person-cameras-heres-what-we-thought)<!-- GAME:END -->
+ - [Play the awesome new Call of Duty campaign while it’s $1](https://www.polygon.com/news/484270/cod-black-ops-6-deal-game-pass-campaign)
+ - [How to repair broken weapons in STALKER 2](https://www.polygon.com/guides/483072/stalker-2-repair-broken-weapons-how-to-technicians)
+ - [Anamnesis designer Sam Leigh dropped two highly anticipated games — and they both deliver](https://www.polygon.com/tabletop-games/484282/anamnesis-sam-leigh-death-of-the-author-world-we-left-behind)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
