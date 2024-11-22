@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Messages starts rolling out solution to low-quality media problem in chats](https://www.androidauthority.com/google-messages-original-quality-media-rollout-3502299/)
- - [Texas AG opens a probe into the World Federation of Advertisers to determine if it conspired to boycott &quot;certain social media platforms&quot;; X sued WFA in August &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/241122/p1#a241122p1)
- - [The UK plans to draft a regulatory framework to oversee stablecoins and staking services as part of a single overarching regime for cryptoassets in early 2025 &lpar;Emily Nicolle/Bloomberg&rpar;](http://www.techmeme.com/241121/p46#a241121p46)<!-- TECH:END -->
+ - [OnePlus Promo Code: 20% Off in November 2024](https://www.wired.com/story/oneplus-promo-code/)
+ - [10% Off Sephora Promo Codes &amp; Coupons | November 2024](https://www.wired.com/story/sephora-promo-code/)
+ - [Your next Android phone could swap out Google Fit for this alternative](https://www.androidauthority.com/fitbit-default-app-android-phones-3502306/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
