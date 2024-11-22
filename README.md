@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The right answer isn&#39;t available in this practice math placement exam](http://9gag.com/gag/axy9XxD)
- - ⏩ [Black cat definitely knew orange was up to something?](http://9gag.com/gag/aQzdLYd)
- - 👉 [When genius surpasses all logic](http://9gag.com/gag/aD24yXd)<!-- MEMES:END -->
+ - 💣 [This was the day he realized his *friends* were living a different life than he wanted for himself](http://9gag.com/gag/a4P3v9y)
+ - ⏩ [Apes together strong! &lpar;In all seriousness, this is one of the best videos I&#39;ve seen in a long time haha, I love this&rpar;](http://9gag.com/gag/a0eNB4B)
+ - 👉 [Denzel Washington with the most to the point life advice](http://9gag.com/gag/ae9DvVQ)<!-- MEMES:END -->
 
 ---
 
