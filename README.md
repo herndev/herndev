@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Embrace the Future With These Nifty Meta Ray-Ban Smart Glasses at New Low Prices for Black Friday](https://www.cnet.com/deals/embrace-the-future-with-these-nifty-meta-ray-ban-smart-glasses-at-new-low-prices-for-black-friday/#ftag=CAD590a51e)
- - [Is the Fridge a Good Place to Keep Open Red Wine? We Asked an Expert](https://www.cnet.com/how-to/is-the-fridge-the-right-place-to-keep-open-red-wine-we-asked-an-expert/#ftag=CAD590a51e)
- - [Trying to Save Energy? Here&#39;s How Much a Space Heater Could Save You](https://www.cnet.com/home/kitchen-and-household/trying-to-save-energy-heres-how-much-a-space-heater-could-save-you/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Teen streamer dumped a meme coin for $30K, then things got weird](https://www.theverge.com/2024/11/22/24303149/teen-streamer-dumped-quant-meme-coin-doxxed)
+ - [SCOTUS dismisses Facebook&#39;s appeal of a lower court order reviving a shareholder lawsuit for allegedly misleading investors on Cambridge Analytica &lpar;Melissa Quinn/CBS News&rpar;](http://www.techmeme.com/241122/p11#a241122p11)
+ - [Gemini may get more chatty about YouTube videos so you can dive deeper &lpar;Updated: Screenshot&rpar;](https://www.androidauthority.com/gemini-conversation-mode-3500632/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
