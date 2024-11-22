@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The best early gaming deals of Black Friday](https://www.polygon.com/black-friday/475293/best-early-gaming-deals)
- - [PlayStation&#39;s Big Black Friday Sale Includes Deals On PS5 Consoles, Games, And PS Plus](https://kotaku.com/playstation-psn-ps5-black-friday-deals-ps-plus-games-1851706224)
- - [Even half-finished, Path of Exile 2 is shaping up to be one of 2024&#39;s best action RPGs](https://www.pcgamer.com/games/rpg/even-half-finished-path-of-exile-2-is-shaping-up-to-be-one-of-2024s-best-action-rpgs)<!-- GAME:END -->
+ - [Disney World Replacing Muppets With Monsters, Inc.](https://kotaku.com/disney-world-muppet-courtyard-3d-replaced-monsters-inc-1851706405)
+ - [Riot calls out &#39;disrespectful&#39; AI-extended Arcane art on Netflix: &#39;This image was a mistake&#39;](https://www.pcgamer.com/movies-tv/riot-calls-out-disrespectful-ai-extended-arcane-art-on-netflix-this-image-was-a-mistake)
+ - [Official PlayStation Podcast Episode 501: Celebrating 30 Years of PlayStation &lpar;Part 2&rpar;](https://blog.playstation.com/2024/11/22/official-playstation-podcast-episode-501-celebrating-30-years-of-playstation-part-2/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
