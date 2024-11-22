@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Everything you should know before watching Wicked](https://www.polygon.com/explained/483419/what-to-know-before-wicked-the-movie-part-i)
  - [Today&#39;s Wordle answer for Friday, November 22](https://www.pcgamer.com/games/puzzle/wordle-answer-today-november-22-2024)
- - [What have they done to my beautiful boy](https://www.pcgamer.com/games/fps/what-have-they-done-to-my-beautiful-boy)
- - [Dragon Age: The Veilguard&#39;s latest patch means players can finally use arrow keys for movement](https://www.pcgamer.com/games/rpg/dragon-age-the-veilguards-latest-patch-means-players-can-finally-use-arrow-keys-for-movement)<!-- GAME:END -->
+ - [What have they done to my beautiful boy](https://www.pcgamer.com/games/fps/what-have-they-done-to-my-beautiful-boy)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
