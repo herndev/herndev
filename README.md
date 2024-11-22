@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [OnePlus Promo Code: 20% Off in November 2024](https://www.wired.com/story/oneplus-promo-code/)
- - [10% Off Sephora Promo Codes &amp; Coupons | November 2024](https://www.wired.com/story/sephora-promo-code/)
- - [Your next Android phone could swap out Google Fit for this alternative](https://www.androidauthority.com/fitbit-default-app-android-phones-3502306/)<!-- TECH:END -->
+ - [$10 OFF Walmart Promo Codes - November 2024](https://www.wired.com/story/top-walmart-promo-codes/)
+ - [Exclusive Nectar Coupon Code: 40% Off November 2024](https://www.wired.com/story/nectar-coupon-code/)
+ - [eBay Coupon Code: 10% Off Select Items in November 2024](https://www.wired.com/story/ebay-coupon-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
