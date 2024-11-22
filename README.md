@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Telecoms hack on US government officials is &#39;worst in nations history&#39; and &#39;the barn door is still wide open&#39; says senator](https://www.pcgamer.com/software/security/telecoms-hack-on-us-government-officials-is-worst-in-nations-history-and-the-barn-door-is-still-wide-open-says-senator)
- - [Gacha games are bigger than ever before—here are the best you can play right now](https://www.pcgamer.com/games/best-gacha-games)
- - [Honkai: Star Rail version 2.7 bids farewell to Penacony on December 4](https://blog.playstation.com/2024/11/22/honkai-star-rail-version-2-7-bids-farewell-to-penacony-on-december-4/)<!-- GAME:END -->
+ - [The Dragon Age devs made sure Veilguard’s big endgame choice hit harder than Inquisition’s](https://www.polygon.com/gaming/483397/dragon-age-the-veilguard-endgame-choice-inquisition-stroud-fade)
+ - [Stalker 2 The Lost Boys: Should you help or kill The Ninth?](https://www.pcgamer.com/games/fps/stalker-2-the-lost-boys-the-ninth)
+ - [Fields of Mistria’s days are still short, but its first major update helps](https://www.polygon.com/impressions/483227/fields-of-mistria-big-update-animal-riding)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
