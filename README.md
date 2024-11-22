@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The world&#39;s shortest and tallest women have tea](http://9gag.com/gag/aBympVA)
- - ⏩ [The WALL](http://9gag.com/gag/aD24KrN)
- - 👉 [Next marvel Superstar!](http://9gag.com/gag/azxm0Yp)<!-- MEMES:END -->
+ - 💣 [Woman tries dating app as a man - with obvious results](http://9gag.com/gag/ajP9pKw)
+ - ⏩ [H.......](http://9gag.com/gag/aXPgBn6)
+ - 👉 [Micro$oft does it yet again!](http://9gag.com/gag/abAG72L)<!-- MEMES:END -->
 
 ---
 
