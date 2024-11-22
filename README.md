@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Brave Search introduces AI chat to let users ask follow-up questions to initial queries, bringing together capabilities of chat-first and search-first tools &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/241121/p44#a241121p44)
- - [Snap files to dismiss New Mexico&#39;s lawsuit over Snap&#39;s alleged child safety issues with predators, saying the complaint misrepresents the state&#39;s investigation &lpar;Lauren Feiner/The Verge&rpar;](http://www.techmeme.com/241121/p43#a241121p43)
- - [Yes, You Might Still Want To Keep Your Landline Phone: Here&#39;s Why](https://www.cnet.com/tech/mobile/why-you-might-still-need-a-landline-phone-in-2024/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [2024 Amazon Kindle readers go on sale for the first time](https://www.androidauthority.com/2024-amazon-kindle-paperwhite-signature-edition-deals-3502285/)
+ - [Samsung reveals spy-thriller-style operations behind your phone’s security patches](https://www.androidauthority.com/samsung-secret-galaxy-security-operations-3502288/)
+ - [Klarna&#39;s planned US IPO in H1 2025 could presage an uptick in IPOs by fintechs like Trustly, Chime, Zilch, Plaid, and Revolut after a relatively slow period &lpar;Bloomberg&rpar;](http://www.techmeme.com/241121/p45#a241121p45)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
