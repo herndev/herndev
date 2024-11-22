@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Google to sell Chrome AND be banned from re-entering the browser market for five years, recommends US Department of Justice](https://www.pcgamer.com/hardware/Google-should-sell-chrome-and-more-recommends-US-DoJ)
- - [All Honkai: Star Rail 2.7 livestream codes](https://www.pcgamer.com/games/rpg/honkai-star-rail-2-7-livestream-codes)
- - [The best early gaming deals of Black Friday](https://www.polygon.com/black-friday/475293/best-early-gaming-deals)<!-- GAME:END -->
+ - [Telecoms hack on US government officials is &#39;worst in nations history&#39; and &#39;the barn door is still wide open&#39; says senator](https://www.pcgamer.com/software/security/telecoms-hack-on-us-government-officials-is-worst-in-nations-history-and-the-barn-door-is-still-wide-open-says-senator)
+ - [Gacha games are bigger than ever before—here are the best you can play right now](https://www.pcgamer.com/games/best-gacha-games)
+ - [Honkai: Star Rail version 2.7 bids farewell to Penacony on December 4](https://blog.playstation.com/2024/11/22/honkai-star-rail-version-2-7-bids-farewell-to-penacony-on-december-4/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
