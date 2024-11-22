@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Best selling luggage on Black Friday](http://9gag.com/gag/aoyPBOx)
- - ⏩ [Google it](http://9gag.com/gag/aMVxg1W)
- - 👉 [Kidnapped without knowing](http://9gag.com/gag/a1mW4b6)<!-- MEMES:END -->
+ - 💣 [I &lt;3 X](http://9gag.com/gag/a0eNrDZ)
+ - ⏩ [Right in the..](http://9gag.com/gag/aE0Pr8e)
+ - 👉 [Fatherly advice](http://9gag.com/gag/amovjKd)<!-- MEMES:END -->
 
 ---
 
