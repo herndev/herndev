@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Interesting](http://9gag.com/gag/aAyeW80)
- - ⏩ [H.......](http://9gag.com/gag/aXPgBn6)
- - 👉 [Woman tries dating app as a man - with obvious results](http://9gag.com/gag/ajP9pKw)<!-- MEMES:END -->
+ - 💣 [Kidnapped without knowing](http://9gag.com/gag/a1mW4b6)
+ - ⏩ [Science...](http://9gag.com/gag/aAye8qL)
+ - 👉 [I love to cook but I am tired to cook the same 5-10 meals. Do you have recipes from your home country that are maybe not well known, are not that complicated/long to make and that don&#39;t require too obscure ingredients, and of course that you love? I&#39;ll try them all.](http://9gag.com/gag/aLnwZWA)<!-- MEMES:END -->
 
 ---
 
