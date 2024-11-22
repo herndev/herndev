@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best new streaming shows this week: Zombieverse and more](https://www.androidauthority.com/best-new-tv-shows-to-stream-this-week-3084538/)
- - [Save $60 on Omnilux&#39;s Red Light Therapy Mask, Which We Love for Its Glowing Results](https://www.cnet.com/deals/save-60-on-omniluxs-red-light-therapy-mask-which-we-love-for-its-glowing-results/#ftag=CAD590a51e)
- - [Strava’s API debacle highlights the messiness of fitness data](https://www.theverge.com/2024/11/22/24303124/strava-fitness-data-wearables)<!-- TECH:END -->
+ - [You can easily disassemble this repairable smartwatch using just a Phillips screwdriver](https://www.theverge.com/2024/11/22/24303386/pocuter-spectra-smartwatch-repairable-hackable-wearable)
+ - [Sling TV’s streaming TV price goes up by $5.99 next month](https://www.theverge.com/2024/11/22/24303400/sling-tv-streaming-price-increase-blue-orange)
+ - [The US Is Calling Out Foreign Influence Campaigns Faster Than Ever](https://www.wired.com/story/us-called-out-foreign-influence-campaigns-faster-than-ever/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
