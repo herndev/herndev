@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple ramping up India manufacturing expansion to avoid Trump tariffs on China](https://appleinsider.com/articles/24/11/22/apple-ramping-up-india-manufacturing-expansion-to-avoid-trump-tariffs-on-china?utm_medium=rss)
- - [Turns out most of you are pretty OK with Google merging Chrome OS with Android](https://www.androidauthority.com/google-chrome-os-android-survey-results-3502506/)
- - [The Google Home app is still so bad, Nest cam users are jumping ship](https://www.androidauthority.com/nest-users-abandoning-google-home-app-3502422/)<!-- TECH:END -->
+ - [Plex’s upcoming app redesign is a big swing at going legit](https://www.theverge.com/2024/11/22/24303282/plex-app-redesign-sonos-debacle)
+ - [14 Best Tablets &lpar;2024&rpar;, Tested and Reviewed](https://www.wired.com/gallery/the-best-tablets/)
+ - [Why does my Mint Mobile hotspot feature not work as it should? It’s likely down to this problem](https://www.androidauthority.com/mint-mobile-hotspot-issues-3502537/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
