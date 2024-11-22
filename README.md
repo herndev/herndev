@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Play the awesome new Call of Duty campaign while it’s $1](https://www.polygon.com/news/484270/cod-black-ops-6-deal-game-pass-campaign)
- - [How to repair broken weapons in STALKER 2](https://www.polygon.com/guides/483072/stalker-2-repair-broken-weapons-how-to-technicians)
- - [Anamnesis designer Sam Leigh dropped two highly anticipated games — and they both deliver](https://www.polygon.com/tabletop-games/484282/anamnesis-sam-leigh-death-of-the-author-world-we-left-behind)<!-- GAME:END -->
+ - [Rejoice, roguelike nerds: Shiren the Wanderer: The Mystery Dungeon of Serpentcoil Island is coming to Steam](https://www.pcgamer.com/games/roguelike/rejoice-roguelike-nerds-shiren-the-wanderer-the-mystery-dungeon-of-serpentcoil-island-is-coming-to-steam)
+ - [Game Boy classic Donkey Kong Land is on Nintendo Switch Online now](https://www.polygon.com/news/484339/donkey-kong-land-game-boy-nintendo-switch)
+ - [Final Fantasy 14 for mobile will go back to A Realm Reborn for a WoW Classic-like experience](https://www.polygon.com/news/484364/final-fantasy-14-mobile-ff14-story-monetization)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
