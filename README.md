@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Plex’s upcoming app redesign is a big swing at going legit](https://www.theverge.com/2024/11/22/24303282/plex-app-redesign-sonos-debacle)
- - [14 Best Tablets &lpar;2024&rpar;, Tested and Reviewed](https://www.wired.com/gallery/the-best-tablets/)
- - [Why does my Mint Mobile hotspot feature not work as it should? It’s likely down to this problem](https://www.androidauthority.com/mint-mobile-hotspot-issues-3502537/)<!-- TECH:END -->
+ - [&#39;Gladiator 2&#39; Is Out Now. Here&#39;s Where You Can Watch the First &#39;Gladiator&#39; for Free](https://www.cnet.com/tech/services-and-software/gladiator-2-out-now-heres-where-you-can-watch-first-gladiator-for-free/#ftag=CAD590a51e)
+ - [Google’s latest Chromecast with Google TV update is yet another tease](https://www.androidauthority.com/november-chromecast-with-google-tv-update-3502539/)
+ - [You Don&#39;t Have to Pay for More Gmail Storage: How to Get Back 15GB for Free](https://www.cnet.com/tech/services-and-software/you-dont-have-to-pay-for-more-gmail-storage-how-to-get-back-15gb-for-free/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
