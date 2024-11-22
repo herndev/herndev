@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The Clearest Image of Venus\u2019s Surface, By a Lander that Melted After 1 Hour](http://9gag.com/gag/aBymp91)
- - ⏩ [The WALL](http://9gag.com/gag/aD24KrN)
- - 👉 [New secret](http://9gag.com/gag/aGyd33G)<!-- MEMES:END -->
+ - 💣 [Gentlemen, let me present Kahn, Mr Oliver Kahn](http://9gag.com/gag/a5QWLvG)
+ - ⏩ [When genius surpasses all logic](http://9gag.com/gag/aD24yXd)
+ - 👉 [This is a whole conversation between two drivers](http://9gag.com/gag/aE0P9Kp)<!-- MEMES:END -->
 
 ---
 
