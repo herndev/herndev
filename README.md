@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A UK CMA report finds that Apple&#39;s policies hold back innovation in mobile browsers and recommends investigating Apple and Google&#39;s mobile ecosystems &lpar;Tim Hardwick/MacRumors&rpar;](http://www.techmeme.com/241122/p5#a241122p5)
- - [Google TV shares its most watched movies and TV shows. Which ones have you seen already?](https://www.androidauthority.com/google-tv-best-of-2024-collection-3502392/)
- - [Indonesia rejects Apple&#39;s $100 million bid to lift the iPhone 16 ban](https://appleinsider.com/articles/24/11/22/indonesia-rejects-apples-100-million-bid-to-lift-the-iphone-16-ban?utm_medium=rss)<!-- TECH:END -->
+ - [Narwal’s huge Black Friday discounts make it the best time to buy a robot vacuum](https://www.androidauthority.com/narwals-black-friday-2025-discounts-3502037/)
+ - [17 Best Hair Straighteners We Tested &lpar;2024&rpar; | WIRED](https://www.wired.com/gallery/best-hair-straighteners/)
+ - [Russian Spies Jumped From One Network to Another Via Wi-Fi in an Unprecedented Hack](https://www.wired.com/story/russia-gru-apt28-wifi-daisy-chain-breach/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
