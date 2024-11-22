@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This is how you recognize if the picture is AI generated](http://9gag.com/gag/a0eN2KQ)
- - ⏩ [Core IT experience](http://9gag.com/gag/azxmpXp)
- - 👉 [Go sports](http://9gag.com/gag/apRGZ5b)<!-- MEMES:END -->
+ - 💣 [If I remember correctly, she just wanted to use him as a ticket to get into the US. That&#39;s her friendship](http://9gag.com/gag/aRB75Ry)
+ - ⏩ [Elon Musk reaction on Jaguar&#39;s ad](http://9gag.com/gag/ae9DL3q)
+ - 👉 [Prank](http://9gag.com/gag/a9yn93m)<!-- MEMES:END -->
 
 ---
 
