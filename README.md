@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best new streaming movies this week: Thelma and more](https://www.androidauthority.com/best-new-streaming-movies-this-week-3083965/)
- - [Source: Google has canceled the development of a second-generation Pixel Tablet, planned for release in 2025, due to concerns that it wouldn&#39;t sell very well &lpar;Mishaal Rahman/Android Authority&rpar;](http://www.techmeme.com/241121/p41#a241121p41)
- - [The Verge’s guide to Black Friday 2024](https://www.theverge.com/24288220/black-friday-best-deals-guide-cyber-monday-tech-gadgets-2024)<!-- TECH:END -->
+ - [Snap files to dismiss New Mexico&#39;s lawsuit over Snap&#39;s alleged child safety issues with predators, saying the complaint misrepresents the state&#39;s investigation &lpar;Lauren Feiner/The Verge&rpar;](http://www.techmeme.com/241121/p43#a241121p43)
+ - [Black Friday Deal: Chromecast with Google TV 4K is just $39.99](https://www.androidauthority.com/chromecast-with-google-tv-4k-deal-3502181/)
+ - [Track Your Health With Garmin&#39;s Venu 2 Smartwatch, Now at Its Lowest Price for Black Friday](https://www.cnet.com/deals/track-your-health-garmin-venu-2-smartwatch-lowest-price-black-friday/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
