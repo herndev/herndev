@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The 43 best movies on Netflix right now](https://www.polygon.com/21266801/best-movies-on-netflix)
- - [Every Gladiator II actor is in their own wild version of the movie — so let’s rank them](https://www.polygon.com/review/483526/gladiator-2-review-denzel-washington-paul-mescal-best-actors-ranked)
- - [Stalker 2 sells over a million copies: &#39;This is just the start&#39;](https://www.pcgamer.com/games/fps/stalker-2-sells-over-a-million-copies-this-is-just-the-start)<!-- GAME:END -->
+ - [The best early gaming deals of Black Friday](https://www.polygon.com/black-friday/475293/best-early-gaming-deals)
+ - [PlayStation&#39;s Big Black Friday Sale Includes Deals On PS5 Consoles, Games, And PS Plus](https://kotaku.com/playstation-psn-ps5-black-friday-deals-ps-plus-games-1851706224)
+ - [Even half-finished, Path of Exile 2 is shaping up to be one of 2024&#39;s best action RPGs](https://www.pcgamer.com/games/rpg/even-half-finished-path-of-exile-2-is-shaping-up-to-be-one-of-2024s-best-action-rpgs)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
