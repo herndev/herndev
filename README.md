@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Dragon Age devs made sure Veilguard’s big endgame choice hit harder than Inquisition’s](https://www.polygon.com/gaming/483397/dragon-age-the-veilguard-endgame-choice-inquisition-stroud-fade)
- - [Stalker 2 The Lost Boys: Should you help or kill The Ninth?](https://www.pcgamer.com/games/fps/stalker-2-the-lost-boys-the-ninth)
- - [Fields of Mistria’s days are still short, but its first major update helps](https://www.polygon.com/impressions/483227/fields-of-mistria-big-update-animal-riding)<!-- GAME:END -->
+ - [Next Week on Xbox: New Games for November 25 to 29](https://news.xbox.com/en-us/2024/11/22/next-week-on-xbox-new-games-for-november-25-to-29/)
+ - [New Intel next-gen GPU Battlemage rumour pegs it as an RTX 4070 Super competitor with 16 GB VRAM and launching next month](https://www.pcgamer.com/hardware/graphics-cards/new-intel-next-gen-gpu-battlemage-rumour-pegs-it-as-an-rtx-4070-super-competitor-with-16-gb-vram-and-launching-next-month)
+ - [Overwatch 2’s new hero  Hazard is the punk rock, good guy answer to Doomfist](https://www.polygon.com/overwatch/483154/overwatch-2-hazard-kit-abilities-season-14-start-date)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
