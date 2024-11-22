@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The UK plans to draft a regulatory framework to oversee stablecoins and staking services as part of a single overarching regime for cryptoassets in early 2025 &lpar;Emily Nicolle/Bloomberg&rpar;](http://www.techmeme.com/241121/p46#a241121p46)
- - [Apple&#39;s M4 Mac mini plunges to record low $499 during Amazon&#39;s Black Friday Sale](https://appleinsider.com/articles/24/11/22/apples-m4-mac-mini-plunges-to-record-low-499-during-amazons-black-friday-sale?utm_medium=rss)
- - [2024 Amazon Kindle readers go on sale for the first time](https://www.androidauthority.com/2024-amazon-kindle-paperwhite-signature-edition-deals-3502285/)<!-- TECH:END -->
+ - [Google Messages starts rolling out solution to low-quality media problem in chats](https://www.androidauthority.com/google-messages-original-quality-media-rollout-3502299/)
+ - [Texas AG opens a probe into the World Federation of Advertisers to determine if it conspired to boycott &quot;certain social media platforms&quot;; X sued WFA in August &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/241122/p1#a241122p1)
+ - [The UK plans to draft a regulatory framework to oversee stablecoins and staking services as part of a single overarching regime for cryptoassets in early 2025 &lpar;Emily Nicolle/Bloomberg&rpar;](http://www.techmeme.com/241121/p46#a241121p46)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
