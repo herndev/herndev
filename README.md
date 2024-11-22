@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Everything you should know before watching Wicked](https://www.polygon.com/explained/483419/what-to-know-before-wicked-the-movie-part-i)
- - [Today&#39;s Wordle answer for Friday, November 22](https://www.pcgamer.com/games/puzzle/wordle-answer-today-november-22-2024)
- - [What have they done to my beautiful boy](https://www.pcgamer.com/games/fps/what-have-they-done-to-my-beautiful-boy)<!-- GAME:END -->
+ - [Google to sell Chrome AND be banned from re-entering the browser market for five years, recommends US Department of Justice](https://www.pcgamer.com/hardware/Google-should-sell-chrome-and-more-recommends-US-DoJ)
+ - [All Honkai: Star Rail 2.7 livestream codes](https://www.pcgamer.com/games/rpg/honkai-star-rail-2-7-livestream-codes)
+ - [The best early gaming deals of Black Friday](https://www.polygon.com/black-friday/475293/best-early-gaming-deals)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
