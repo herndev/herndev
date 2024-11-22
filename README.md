@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Woman tries dating app as a man - with obvious results](http://9gag.com/gag/ajP9pKw)
- - ⏩ [H.......](http://9gag.com/gag/aXPgBn6)
- - 👉 [Micro$oft does it yet again!](http://9gag.com/gag/abAG72L)<!-- MEMES:END -->
+ - 💣 [Best selling luggage on Black Friday](http://9gag.com/gag/aoyPBOx)
+ - ⏩ [Google it](http://9gag.com/gag/aMVxg1W)
+ - 👉 [Kidnapped without knowing](http://9gag.com/gag/a1mW4b6)<!-- MEMES:END -->
 
 ---
 
