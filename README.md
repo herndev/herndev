@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Black Myth: Wukong Devs Tease December Surprise For The 2024 GOTY Contender](https://kotaku.com/black-myth-wukong-2024-goty-dlc-xbox-awards-1851706037)
- - [I&#39;m picking out the best Black Friday gaming deals because my near 20-years as a PC tech journo have all been leading up to this](https://www.pcgamer.com/hardware/live/news/black-friday-2024-pc-gaming-deals-live)
- - [An Intel-commissioned study on AI PCs says AI PCs are good, actually](https://www.pcgamer.com/hardware/an-intel-commissioned-study-on-ai-pcs-says-ai-pcs-are-good-actually)<!-- GAME:END -->
+ - [Overwatch 2’s New Tank Hero Looks Like An Absolute Menace](https://kotaku.com/overwatch-2-hazard-tank-hero-trailer-abilities-tips-1851706161)
+ - [Ex-Blizzard president has rather boldly called Sony&#39;s potential FromSoftware scoop &#39;probably a top 2 acquisition in videogames in the last 15+ years if not ever&#39;](https://www.pcgamer.com/gaming-industry/ex-blizzard-president-has-rather-boldly-called-sonys-potential-fromsoftware-scoop-probably-a-top-2-acquisition-in-videogames-in-the-last-15-years-if-not-ever)
+ - [A team of chemists have created the world&#39;s thinnest spaghetti, although there&#39;s no word yet on the sauce](https://www.pcgamer.com/hardware/a-team-of-chemists-have-created-the-worlds-thinnest-spaghetti-although-theres-no-word-yet-on-the-sauce)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
