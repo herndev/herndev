@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [$10 OFF Walmart Promo Codes - November 2024](https://www.wired.com/story/top-walmart-promo-codes/)
- - [Exclusive Nectar Coupon Code: 40% Off November 2024](https://www.wired.com/story/nectar-coupon-code/)
- - [eBay Coupon Code: 10% Off Select Items in November 2024](https://www.wired.com/story/ebay-coupon-code/)<!-- TECH:END -->
+ - [Google Messages tests new media gallery UI that takes one step forward, two steps back](https://www.androidauthority.com/google-messages-new-media-gallery-ui-beta-3502338/)
+ - [Filing: Japanese chipmaker Kioxia plans its Tokyo Stock Exchange debut on December 18 and sets its indicative IPO price at about $9 per share to raise ~$180M &lpar;Yuki Furukawa/Bloomberg&rpar;](http://www.techmeme.com/241122/p3#a241122p3)
+ - [New leak details sequel to one of our favorite foldables of 2024](https://www.androidauthority.com/leak-favorite-foldables-2024-3502344/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
