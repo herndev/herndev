@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Johnny bravo](http://9gag.com/gag/aBym7WN)
- - ⏩ [This was the day he realized his *friends* were living a different life than he wanted for himself](http://9gag.com/gag/a4P3v9y)
- - 👉 [When genius surpasses all logic](http://9gag.com/gag/aD24yXd)<!-- MEMES:END -->
+ - 💣 [Denzel Washington with the most to the point life advice](http://9gag.com/gag/ae9DvVQ)
+ - ⏩ [Calm down, most of you are not in danger](http://9gag.com/gag/ayNeGVq)
+ - 👉 [Right in the..](http://9gag.com/gag/aE0Pr8e)<!-- MEMES:END -->
 
 ---
 
