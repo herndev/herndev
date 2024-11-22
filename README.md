@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [iOS 19 leak suggests Siri could get a Gemini-like update](https://www.androidauthority.com/ios-19-siri-gemini-like-update-3502381/)
- - [Google Pixel Tablet 2: All the rumors and everything we want to see](https://www.androidauthority.com/google-pixel-tablet-2-3368307/)
- - [Google Messages tests new media gallery UI that takes one step forward, two steps back](https://www.androidauthority.com/google-messages-new-media-gallery-ui-beta-3502338/)<!-- TECH:END -->
+ - [A UK CMA report finds that Apple&#39;s policies hold back innovation in mobile browsers and recommends investigating Apple and Google&#39;s mobile ecosystems &lpar;Tim Hardwick/MacRumors&rpar;](http://www.techmeme.com/241122/p5#a241122p5)
+ - [Google TV shares its most watched movies and TV shows. Which ones have you seen already?](https://www.androidauthority.com/google-tv-best-of-2024-collection-3502392/)
+ - [Indonesia rejects Apple&#39;s $100 million bid to lift the iPhone 16 ban](https://appleinsider.com/articles/24/11/22/indonesia-rejects-apples-100-million-bid-to-lift-the-iphone-16-ban?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
