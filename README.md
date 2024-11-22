@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Prank](http://9gag.com/gag/a9yn93m)
- - ⏩ [He&#39;s starting to understand](http://9gag.com/gag/ayNeOMV)
- - 👉 [This was the day he realized his *friends* were living a different life than he wanted for himself](http://9gag.com/gag/a4P3v9y)<!-- MEMES:END -->
+ - 💣 [This was the day he realized his *friends* were living a different life than he wanted for himself](http://9gag.com/gag/a4P3v9y)
+ - ⏩ [Google it](http://9gag.com/gag/aMVxg1W)
+ - 👉 [Prank](http://9gag.com/gag/a9yn93m)<!-- MEMES:END -->
 
 ---
 
