@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Teen streamer dumped a meme coin for $30K, then things got weird](https://www.theverge.com/2024/11/22/24303149/teen-streamer-dumped-quant-meme-coin-doxxed)
- - [SCOTUS dismisses Facebook&#39;s appeal of a lower court order reviving a shareholder lawsuit for allegedly misleading investors on Cambridge Analytica &lpar;Melissa Quinn/CBS News&rpar;](http://www.techmeme.com/241122/p11#a241122p11)
- - [Gemini may get more chatty about YouTube videos so you can dive deeper &lpar;Updated: Screenshot&rpar;](https://www.androidauthority.com/gemini-conversation-mode-3500632/)<!-- TECH:END -->
+ - [Apple ramping up India manufacturing expansion to avoid Trump tariffs on China](https://appleinsider.com/articles/24/11/22/apple-ramping-up-india-manufacturing-expansion-to-avoid-trump-tariffs-on-china?utm_medium=rss)
+ - [Turns out most of you are pretty OK with Google merging Chrome OS with Android](https://www.androidauthority.com/google-chrome-os-android-survey-results-3502506/)
+ - [The Google Home app is still so bad, Nest cam users are jumping ship](https://www.androidauthority.com/nest-users-abandoning-google-home-app-3502422/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
