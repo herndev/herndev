@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Three Nvidia customers spent a collective $12.6B in Q3, when it had a total revenue of $35.1B; each of them spent $10B+ in the nine months to October &lpar;Christiaan Hetzner/Fortune&rpar;](http://www.techmeme.com/241122/p7#a241122p7)
- - [Best Streaming Device for 2024: Top Picks Reviewed](https://www.cnet.com/tech/home-entertainment/best-streaming-device/#ftag=CAD590a51e)
- - [Carv 2 Digital Ski Coach Review: Cheaper, Easier, Better](https://www.wired.com/review/review-carv-2-digital-ski-coach/)<!-- TECH:END -->
+ - [Embrace the Future With These Nifty Meta Ray-Ban Smart Glasses at New Low Prices for Black Friday](https://www.cnet.com/deals/embrace-the-future-with-these-nifty-meta-ray-ban-smart-glasses-at-new-low-prices-for-black-friday/#ftag=CAD590a51e)
+ - [Is the Fridge a Good Place to Keep Open Red Wine? We Asked an Expert](https://www.cnet.com/how-to/is-the-fridge-the-right-place-to-keep-open-red-wine-we-asked-an-expert/#ftag=CAD590a51e)
+ - [Trying to Save Energy? Here&#39;s How Much a Space Heater Could Save You](https://www.cnet.com/home/kitchen-and-household/trying-to-save-energy-heres-how-much-a-space-heater-could-save-you/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
