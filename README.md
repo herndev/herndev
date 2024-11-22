@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Kidnapped without knowing](http://9gag.com/gag/a1mW4b6)
- - ⏩ [Science...](http://9gag.com/gag/aAye8qL)
- - 👉 [I love to cook but I am tired to cook the same 5-10 meals. Do you have recipes from your home country that are maybe not well known, are not that complicated/long to make and that don&#39;t require too obscure ingredients, and of course that you love? I&#39;ll try them all.](http://9gag.com/gag/aLnwZWA)<!-- MEMES:END -->
+ - 💣 [Fatherly advice](http://9gag.com/gag/amovjKd)
+ - ⏩ [MAGA strikes once more!](http://9gag.com/gag/aBymq01)
+ - 👉 [Adore Inkspots. If you&#39;re gonna cover it, do it right.](http://9gag.com/gag/a9yEj7j)<!-- MEMES:END -->
 
 ---
 
