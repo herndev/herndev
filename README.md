@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Next Week on Xbox: New Games for November 25 to 29](https://news.xbox.com/en-us/2024/11/22/next-week-on-xbox-new-games-for-november-25-to-29/)
- - [New Intel next-gen GPU Battlemage rumour pegs it as an RTX 4070 Super competitor with 16 GB VRAM and launching next month](https://www.pcgamer.com/hardware/graphics-cards/new-intel-next-gen-gpu-battlemage-rumour-pegs-it-as-an-rtx-4070-super-competitor-with-16-gb-vram-and-launching-next-month)
- - [Overwatch 2’s new hero  Hazard is the punk rock, good guy answer to Doomfist](https://www.polygon.com/overwatch/483154/overwatch-2-hazard-kit-abilities-season-14-start-date)<!-- GAME:END -->
+ - [Black Myth: Wukong Devs Tease December Surprise For The 2024 GOTY Contender](https://kotaku.com/black-myth-wukong-2024-goty-dlc-xbox-awards-1851706037)
+ - [I&#39;m picking out the best Black Friday gaming deals because my near 20-years as a PC tech journo have all been leading up to this](https://www.pcgamer.com/hardware/live/news/black-friday-2024-pc-gaming-deals-live)
+ - [An Intel-commissioned study on AI PCs says AI PCs are good, actually](https://www.pcgamer.com/hardware/an-intel-commissioned-study-on-ai-pcs-says-ai-pcs-are-good-actually)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
