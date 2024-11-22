@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [What have they done to my beautiful boy](https://www.pcgamer.com/games/fps/what-have-they-done-to-my-beautiful-boy)
  - [Dragon Age: The Veilguard&#39;s latest patch means players can finally use arrow keys for movement](https://www.pcgamer.com/games/rpg/dragon-age-the-veilguards-latest-patch-means-players-can-finally-use-arrow-keys-for-movement)
- - [Warhammer documentary to star Napoleon Dynamite actor](https://www.polygon.com/warhammer-40k/483344/trailer-warhammer-documentary-john-blanche-napoleon-dynamite-actor)
- - [Dragon Age: The Veilguard Gets New Photo Mode Options And A Bunch Of Bug Fixes In Latest Patch](https://kotaku.com/dragon-age-the-veilguard-patch-notes-bioware-photo-mode-1851705529)<!-- GAME:END -->
+ - [Warhammer documentary to star Napoleon Dynamite actor](https://www.polygon.com/warhammer-40k/483344/trailer-warhammer-documentary-john-blanche-napoleon-dynamite-actor)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
