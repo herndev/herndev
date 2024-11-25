@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [PlayAI, which uses AI to clone voices for $49 per month and recently rolled out AI agents, raised a $20M seed co-led by 500 Startups and Kindred Ventures &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/241125/p11#a241125p11)
- - [Italian PE firm Bending Spoons plans to take cloud video platform Brightcove private in a $233M deal; Brightcove, founded in 2004, makes monetization tools &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/241125/p10#a241125p10)
- - [M4 Mac minis in a computing cluster is incredibly cool, but not hugely effective](https://appleinsider.com/articles/24/11/25/m4-mac-minis-in-a-computing-cluster-is-an-incredibly-cool-project-but-not-hugely-effective?utm_medium=rss)<!-- TECH:END -->
+ - [The EU says Bluesky breaches its rules for not disclosing key details about itself, and has asked 27 governments to see &quot;if they can find any trace of Bluesky&quot; &lpar;Financial Times&rpar;](http://www.techmeme.com/241125/p13#a241125p13)
+ - [Apple names 45 finalists for 2024 App Store Awards](https://appleinsider.com/articles/24/11/25/apple-names-45-finalists-for-2024-app-store-awards?utm_medium=rss)
+ - [Roku is building its content into Google TVs](https://www.theverge.com/2024/11/25/24305346/roku-channel-google-tv-streaming-availability)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
