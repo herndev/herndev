@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Powerful victim](http://9gag.com/gag/axyMGvp)
- - ⏩ [High technology!](http://9gag.com/gag/ayNMnNX)
- - 👉 [I can&#39;t even](http://9gag.com/gag/an7QXwb)<!-- MEMES:END -->
+ - 💣 [Wholesome posts that I saved #6](http://9gag.com/gag/aryM4g5)
+ - ⏩ [Don&#39;t be like Aisha.](http://9gag.com/gag/aRBXPoQ)
+ - 👉 [This is so beautiful, I love her smile](http://9gag.com/gag/aD2dmrO)<!-- MEMES:END -->
 
 ---
 
