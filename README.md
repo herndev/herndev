@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Rush boys 5](http://9gag.com/gag/ae9A0Wj)
- - ⏩ [Mama had to make sure her baby was okay before anything else](http://9gag.com/gag/aE0pvd9)
- - 👉 [I can&#39;t even](http://9gag.com/gag/an7QXwb)<!-- MEMES:END -->
+ - 💣 [Wikipedia](http://9gag.com/gag/a2v7zX9)
+ - ⏩ [Hooters had an airline but ceased operations after 3 years](http://9gag.com/gag/aKG6gg6)
+ - 👉 [I know what you think &lpar;second post&rpar;](http://9gag.com/gag/aqyjZxj)<!-- MEMES:END -->
 
 ---
 
