@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Planet Coaster 2, As Told By Steam Reviews](https://kotaku.com/planet-coaster-2-reviews-steam-worth-it-1851707808)
- - [Former BioWare boss Casey Hudson is closing the studio he launched in 2021 without releasing a single game](https://www.pcgamer.com/gaming-industry/former-bioware-boss-casey-hudson-is-closing-the-studio-he-launched-in-2021-without-releasing-a-single-game)
- - [Magic The Gathering’s Commander format is getting a video game](https://www.polygon.com/mtg-magic-the-gathering/485083/magic-gathering-commander-video-game)<!-- GAME:END -->
+ - [STALKER 2 is best with Ukrainian voice acting &lpar;and English subtitles&rpar;](https://www.polygon.com/opinion/485104/stalker-2-ukrainian-voice-acting-skif-actor)
+ - [My favorite thing about Avowed might just be how much stuff it lets me turn off](https://www.pcgamer.com/games/rpg/my-favorite-thing-about-avowed-might-just-be-how-much-stuff-it-lets-me-turn-off)
+ - [You should play every game in this $19 shooter bundle](https://www.polygon.com/good-deals/485039/sci-fi-shooter-bundle-humble-sale)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
