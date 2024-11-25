@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This is so beautiful, I love her smile](http://9gag.com/gag/aD2dmrO)
- - ⏩ [Women don&#39;t understand. But the boys...the boys get this.](http://9gag.com/gag/a1mrvwG)
- - 👉 [High technology!](http://9gag.com/gag/ayNMnNX)<!-- MEMES:END -->
+ - 💣 [Powerful victim](http://9gag.com/gag/axyMGvp)
+ - ⏩ [High technology!](http://9gag.com/gag/ayNMnNX)
+ - 👉 [I can&#39;t even](http://9gag.com/gag/an7QXwb)<!-- MEMES:END -->
 
 ---
 
