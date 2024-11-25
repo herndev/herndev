@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Zoom reports Q3 revenue up 4% YoY to $1.18B, vs. $1.16B est., net income of $207.1M, up from $141.2M, and changes its corporate name to Zoom Communications Inc. &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/241125/p26#a241125p26)
- - [Google is redesigning its News app to streamline your feed &lpar;APK Teardown&rpar;](https://www.androidauthority.com/google-news-home-tabs-redesign-3502968/)
- - [COP29 Agreement Says Someone Should Pay to Help Developing Countries, But Not Who](https://www.wired.com/story/developing-countries-and-activists-rail-against-the-cop29-agreement/)<!-- TECH:END -->
+ - [Neuralink Plans to Test Whether Its Brain Implant Can Control a Robotic Arm](https://www.wired.com/story/neuralink-robotic-arm-controlled-by-mind/)
+ - [Google is inserting search links into webpages in the Google App now](https://www.theverge.com/2024/11/25/24305922/google-app-ios-inserting-search-links-websites)
+ - [N-able, which sells software for managed service providers and spun off from SolarWinds in 2021, acquires DC-based cybersecurity company Adlumin in a $266M deal &lpar;Maria Deutscher/SiliconANGLE&rpar;](http://www.techmeme.com/241125/p27#a241125p27)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
