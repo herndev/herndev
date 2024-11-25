@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Season 2&#39;s ending was peak Arcane—a dense and explosive finale that&#39;ll take a while to properly pick out of your teeth](https://www.pcgamer.com/movies-tv/season-2s-ending-was-peak-arcane-a-dense-and-explosive-finale-thatll-take-a-while-to-properly-pick-out-of-your-teeth)
- - [Our favorite early Black Friday deals](https://www.polygon.com/black-friday/475289/best-early-deals)
- - [Netflix brought back anime’s prettiest psychedelic horror detective show 20 years later](https://www.polygon.com/anime/483226/mononoke-netflix-movie-series-how-to-watch)<!-- GAME:END -->
+ - [Indiana Jones and the Great Circle: Bringing ’80s Movie Magic to a 2024 Game](https://news.xbox.com/en-us/2024/11/25/indiana-jones-great-circle-recreating-movie-magic-interview/)
+ - [Hitman dev pulls MMA star Conor McGregor from game after sexual assault ruling](https://www.polygon.com/news/484790/hitman-conor-mcgregor-dlc-removed)
+ - [Crowdfunding gem Zombicide is 27% off ahead of Black Friday](https://www.polygon.com/black-friday/483211/zombicide-board-game-deals)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
