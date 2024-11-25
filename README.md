@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Wholesome posts that I saved #7](http://9gag.com/gag/awyMKp1)
- - ⏩ [Hey as long as it works](http://9gag.com/gag/aLnpBeW)
- - 👉 [What color is your pee?](http://9gag.com/gag/abAVyZB)<!-- MEMES:END -->
+ - 💣 [This is so beautiful, I love her smile](http://9gag.com/gag/aD2dmrO)
+ - ⏩ [Women don&#39;t understand. But the boys...the boys get this.](http://9gag.com/gag/a1mrvwG)
+ - 👉 [High technology!](http://9gag.com/gag/ayNMnNX)<!-- MEMES:END -->
 
 ---
 
