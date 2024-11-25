@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Indiana Jones and the Great Circle: Bringing ’80s Movie Magic to a 2024 Game](https://news.xbox.com/en-us/2024/11/25/indiana-jones-great-circle-recreating-movie-magic-interview/)
- - [Hitman dev pulls MMA star Conor McGregor from game after sexual assault ruling](https://www.polygon.com/news/484790/hitman-conor-mcgregor-dlc-removed)
- - [Crowdfunding gem Zombicide is 27% off ahead of Black Friday](https://www.polygon.com/black-friday/483211/zombicide-board-game-deals)<!-- GAME:END -->
+ - [Gladiator II May Have Starred Timothée Chalamet If Not For This Hulu Series](https://kotaku.com/gladiator-ii-ridley-scott-paul-mescal-timothee-chalamet-1851707421)
+ - [Hitman Ditching Conor McGregor After Civil Jury Finds Him Liable For Sexual Assault](https://kotaku.com/hitman-conor-mcgregor-ufc-sexual-assault-jury-liable-1851707467)
+ - [Dr Disrespect Joins Right-Wing, Anti-Cancel Culture Streaming Platform Rumble](https://kotaku.com/dr-disrespect-youtube-rumble-twitch-ban-sexting-crypto-1851707478)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
