@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Inmate crawled past officer to sexually assault woman in jail intake, police say](http://9gag.com/gag/aVv7Q0K)
- - ⏩ [Made me laugh, posted it here](http://9gag.com/gag/aRBXA6y)
+ - 💣 [Flying acrobat](http://9gag.com/gag/a9yEPGK)
+ - ⏩ [A 74-year-old woman from Arizona broke her nose during a hike and was airlifted by rescuers. However, the stretcher spun uncontrollably at nearly 200 rotations per minute, resembling astronaut training. She later filed a $2M lawsuit and settled for $450K.](http://9gag.com/gag/awyMrR8)
  - 👉 [A romantic interlude.](http://9gag.com/gag/a4PEL01)<!-- MEMES:END -->
 
 ---
