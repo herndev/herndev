@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [A 74-year-old woman from Arizona broke her nose during a hike and was airlifted by rescuers. However, the stretcher spun uncontrollably at nearly 200 rotations per minute, resembling astronaut training. She later filed a $2M lawsuit and settled for $450K.](http://9gag.com/gag/awyMrR8)
- - ⏩ [Inmate crawled past officer to sexually assault woman in jail intake, police say](http://9gag.com/gag/aVv7Q0K)
- - 👉 [Bruise Lee.](http://9gag.com/gag/a9yEPZZ)<!-- MEMES:END -->
+ - 💣 [No more than unbabatabletomato](http://9gag.com/gag/ae9Apgm)
+ - ⏩ [Bruise Lee.](http://9gag.com/gag/a9yEPZZ)
+ - 👉 [Daddy metaphor](http://9gag.com/gag/apRNB6n)<!-- MEMES:END -->
 
 ---
 
