@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Don&#39;t Let Your Weapons Decay If You Want To Survive Stalker 2](https://kotaku.com/stalker-2-weapon-upgrade-attachment-repair-broken-1851707644)
- - [Xbox Removing Avatars Because You All Forgot About Them](https://kotaku.com/xbox-avatars-editor-app-delist-series-x-s-removed-360-1851707586)
- - [15 Things We Noticed In The New Sonic The Hedgehog 3 Trailer](https://kotaku.com/sonic-3-trailer-shadow-gun-rouge-eggman-gerald-moon-1851707554)<!-- GAME:END -->
+ - [Godzilla, Baymax coming to Fortnite, leaks suggest](https://www.polygon.com/fortnite/484993/fortnite-leak-godzilla-baymax-big-hero-6-chapter-6)
+ - [The World of Warcraft Pandemic board game deserved better](https://www.polygon.com/opinion/485013/world-of-warcraft-pandemic-board-game-wrath-lich-king-corrupted-blood)
+ - [This Stalker 2 Quest Will Test Your Morals](https://kotaku.com/stalker-2-poppy-field-coupons-location-pomor-1851707719)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
