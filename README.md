@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Wholesome posts that I saved #6](http://9gag.com/gag/aryM4g5)
- - ⏩ [Don&#39;t be like Aisha.](http://9gag.com/gag/aRBXPoQ)
- - 👉 [Hey as long as it works](http://9gag.com/gag/aLnpBeW)<!-- MEMES:END -->
+ - 💣 [Rush boys 5](http://9gag.com/gag/ae9A0Wj)
+ - ⏩ [Bruise Lee.](http://9gag.com/gag/a9yEPZZ)
+ - 👉 [A romantic interlude.](http://9gag.com/gag/a4PEL01)<!-- MEMES:END -->
 
 ---
 
