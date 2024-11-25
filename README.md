@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The South Korean \u201cRaybolt\u201d anti-tank missile system](http://9gag.com/gag/ajPmYX0)
- - ⏩ [Wikipedia](http://9gag.com/gag/a2v7zX9)
- - 👉 [Rush boys 5](http://9gag.com/gag/ae9A0Wj)<!-- MEMES:END -->
+ - 💣 [And I thought I&#39;m a bad cook](http://9gag.com/gag/ae9A39O)
+ - ⏩ [Speeding puppy](http://9gag.com/gag/aW4j0ox)
+ - 👉 [Old school](http://9gag.com/gag/aAybRDo)<!-- MEMES:END -->
 
 ---
 
