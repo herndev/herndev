@@ -46,7 +46,7 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [If you have to be your own winggirl, then be it. Take every chance for love.](http://9gag.com/gag/a1mre62)
+ - 💣 [Wholesome posts that I saved #7](http://9gag.com/gag/awyMKp1)
  - ⏩ [Hey as long as it works](http://9gag.com/gag/aLnpBeW)
  - 👉 [What color is your pee?](http://9gag.com/gag/abAVyZB)<!-- MEMES:END -->
 
