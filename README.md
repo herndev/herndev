@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A skeptical look at the new AI scaling &quot;laws&quot;, including post-train duration and &quot;inference time compute&quot;, and why they may fail to predict AI model performance &lpar;Gary Marcus/Marcus on AI&rpar;](http://www.techmeme.com/241125/p3#a241125p3)
  - [Google could soon give Gemini a much-needed cleanup &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-gemini-consolidate-menus-apk-teardown-3502744/)
- - [How Tim Cook gets Trump to help Apple](https://appleinsider.com/articles/24/11/25/how-tim-cook-gets-trump-to-help-apple?utm_medium=rss)
- - [A look at the rise of super clusters that use ~100K of Nvidia&#39;s GPUs for training giant AI models and the new engineering challenges arising from such clusters &lpar;Asa Fitch/Wall Street Journal&rpar;](http://www.techmeme.com/241125/p2#a241125p2)<!-- TECH:END -->
+ - [How Tim Cook gets Trump to help Apple](https://appleinsider.com/articles/24/11/25/how-tim-cook-gets-trump-to-help-apple?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
