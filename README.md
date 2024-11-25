@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Black Friday Amazon deals: $150 off M4 iMac, $250 off MacBook, $169 Apple Watch](https://appleinsider.com/articles/24/11/21/best-black-friday-amazon-deals-100-off-m4-mac-mini-250-off-macbook-189-apple-watch?utm_medium=rss)
- - [A US judge sets an April 14 trial date for an FTC lawsuit, filed in 2020, alleging that Meta&#39;s acquisitions of Instagram and WhatsApp violated antitrust laws &lpar;Jody Godoy/Reuters&rpar;](http://www.techmeme.com/241125/p24#a241125p24)
- - [Anthropic launches tool to connect AI systems directly to datasets](https://www.theverge.com/2024/11/25/24305774/anthropic-model-context-protocol-data-sources)<!-- TECH:END -->
+ - [Zoom reports Q3 revenue up 4% YoY to $1.18B, vs. $1.16B est., net income of $207.1M, up from $141.2M, and changes its corporate name to Zoom Communications Inc. &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/241125/p26#a241125p26)
+ - [Google is redesigning its News app to streamline your feed &lpar;APK Teardown&rpar;](https://www.androidauthority.com/google-news-home-tabs-redesign-3502968/)
+ - [COP29 Agreement Says Someone Should Pay to Help Developing Countries, But Not Who](https://www.wired.com/story/developing-countries-and-activists-rail-against-the-cop29-agreement/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
