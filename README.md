@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [DirecTV and Dish’s on-and-off merger saga switches back to off](https://www.theverge.com/2024/11/22/24303559/directv-dish-merger-deal-abandoned)
- - [Save $300 on Apple&#39;s 1TB M4 Pro 14-inch MacBook Pro this weekend](https://appleinsider.com/articles/24/11/22/save-300-on-apples-1tb-m4-pro-14-inch-macbook-pro-this-weekend?utm_medium=rss)
- - [Early Black Friday Deals on Amazon Devices, Even Kindles &lpar;2024&rpar;](https://www.wired.com/story/black-friday-amazon-devices-deals-2024/)<!-- TECH:END -->
+ - [Shares of Japan&#39;s Fujikura, which specializes in fiber optic cables for data centers, are up 400%+ in 2024 due to the AI boom, leading the Nikkei 225 index &lpar;Aya Wagatsuma/Bloomberg&rpar;](http://www.techmeme.com/241124/p16#a241124p16)
+ - [Trailers of the week: Minecraft, Elio, and Alien: Earth](https://www.theverge.com/2024/11/24/24304977/movie-trailers-mincraft-elio-alien-earth-star-wars-outlaws-wild-card-how-to-train-your-dragon)
+ - [Best Internet Providers in Superior, Wisconsin](https://www.cnet.com/home/internet/best-internet-providers-in-superior-wi/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
