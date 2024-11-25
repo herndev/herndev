@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [No more than unbabatabletomato](http://9gag.com/gag/ae9Apgm)
- - ⏩ [Bruise Lee.](http://9gag.com/gag/a9yEPZZ)
- - 👉 [Daddy metaphor](http://9gag.com/gag/apRNB6n)<!-- MEMES:END -->
+ - 💣 [Do your best 9gag... or maybe do your worst...](http://9gag.com/gag/a34Ejve)
+ - ⏩ [No more than unbabatabletomato](http://9gag.com/gag/ae9Apgm)
+ - 👉 [Symbiotic relationships](http://9gag.com/gag/aD2d05w)<!-- MEMES:END -->
 
 ---
 
