@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [STALKER 2 is best with Ukrainian voice acting &lpar;and English subtitles&rpar;](https://www.polygon.com/opinion/485104/stalker-2-ukrainian-voice-acting-skif-actor)
- - [My favorite thing about Avowed might just be how much stuff it lets me turn off](https://www.pcgamer.com/games/rpg/my-favorite-thing-about-avowed-might-just-be-how-much-stuff-it-lets-me-turn-off)
- - [You should play every game in this $19 shooter bundle](https://www.polygon.com/good-deals/485039/sci-fi-shooter-bundle-humble-sale)<!-- GAME:END -->
+ - [Dr Disrespect moves to Rumble, will head up its Rumble Gaming category](https://www.pcgamer.com/software/platforms/dr-disrespect-moves-to-rumble-will-head-up-its-rumble-gaming-category)
+ - [If you think Stalker 2 is buggy, wait until you climb aboard Microsoft Flight Simulator 2024](https://www.pcgamer.com/games/sim/if-you-think-stalker-2-is-buggy-please-take-your-seat-in-microsoft-flight-simulator-2024)
+ - [Thieves Steal $1.5 Million Worth Of Oculus VR Headsets](https://kotaku.com/oculus-vr-headsets-stolen-1-5-million-thieves-robbery-1851707917)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
