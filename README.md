@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Gentlemen, let me present Kahn, Mr Oliver Kahn](http://9gag.com/gag/a5QWLvG)
- - ⏩ [When genius surpasses all logic](http://9gag.com/gag/aD24yXd)
- - 👉 [This is a whole conversation between two drivers](http://9gag.com/gag/aE0P9Kp)<!-- MEMES:END -->
+ - 💣 [Rush boys 5](http://9gag.com/gag/ae9A0Wj)
+ - ⏩ [Mama had to make sure her baby was okay before anything else](http://9gag.com/gag/aE0pvd9)
+ - 👉 [I can&#39;t even](http://9gag.com/gag/an7QXwb)<!-- MEMES:END -->
 
 ---
 
