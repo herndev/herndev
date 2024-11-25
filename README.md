@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Insurance broker Howden: cyberattacks have cost UK businesses ~&amp;pound;44B in the past five years and 52% of private sector companies have reported at least one attack &lpar;Carolyn Cohn/Reuters&rpar;](http://www.techmeme.com/241125/p7#a241125p7)
- - [Parallel Parking Is Stressful. Most Drivers Still Won’t Let the Robots Take Over](https://www.wired.com/story/automated-parallel-parking-us-europe-china/)
- - [Airbnb plans to let tenants in nearly 1,500 flats owned by Greystar in London to sublet homes on a part-time basis, expanding on a 2022 Greystar partnership &lpar;Eri Sugiura/Financial Times&rpar;](http://www.techmeme.com/241125/p6#a241125p6)<!-- TECH:END -->
+ - [Motorola Moto G 5G 2025 renders give us hope for a better budget phone](https://www.androidauthority.com/motorola-moto-g-5g-2025-renders-3502806/)
+ - [Amazon Kindle Colorsoft review: good color is a good start](https://www.theverge.com/24303322/amazon-kindle-colorsoft-e-reader-review)
+ - [The EU says Corning offered commitments in a bid to settle an antitrust probe over alleged exclusive Gorilla Glass deals, including waiving exclusive clauses &lpar;Peter Chapman/Bloomberg&rpar;](http://www.techmeme.com/241125/p8#a241125p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
