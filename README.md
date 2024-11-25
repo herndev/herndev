@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The EU says Bluesky breaches its rules for not disclosing key details about itself, and has asked 27 governments to see &quot;if they can find any trace of Bluesky&quot; &lpar;Financial Times&rpar;](http://www.techmeme.com/241125/p13#a241125p13)
- - [Apple names 45 finalists for 2024 App Store Awards](https://appleinsider.com/articles/24/11/25/apple-names-45-finalists-for-2024-app-store-awards?utm_medium=rss)
- - [Roku is building its content into Google TVs](https://www.theverge.com/2024/11/25/24305346/roku-channel-google-tv-streaming-availability)<!-- TECH:END -->
+ - [Apple&#39;s iPad mini 6 just dropped to $299.99, all-time best Black Friday price](https://appleinsider.com/articles/24/11/25/apples-ipad-mini-6-just-dropped-to-29999-all-time-best-black-friday-price?utm_medium=rss)
+ - [Raspberry Pi announces a $7 Pico 2 with built-in Wi-Fi](https://www.theverge.com/2024/11/25/24305455/raspberry-pi-pico-2-w-wi-fi-wireless-microcontroller)
+ - [I dissed the Google Pixel Tablet at launch, but it’s aged well and is worth a new look](https://www.androidauthority.com/google-pixel-tablet-2024-commentary-3497252/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
