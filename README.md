@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle answer for Monday, November 25](https://www.pcgamer.com/games/puzzle/wordle-answer-today-november-25-2024)
  - [All the Dune: Prophecy houses and characters you need to know](https://www.polygon.com/tv/479937/dune-prophecy-houses-emperor-corrino-atreides-harkonnen-hart)
- - [Dune: Prophecy Found A Weakness In The Dune Movies&#39; Strongest Power](https://kotaku.com/dune-prophecy-valya-harkonnen-the-voice-1851706532)
- - [Five new Steam games you probably missed &lpar;November 25, 2024&rpar;](https://www.pcgamer.com/software/platforms/five-new-steam-games-you-probably-missed-november-25-2024)<!-- GAME:END -->
+ - [Dune: Prophecy Found A Weakness In The Dune Movies&#39; Strongest Power](https://kotaku.com/dune-prophecy-valya-harkonnen-the-voice-1851706532)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
