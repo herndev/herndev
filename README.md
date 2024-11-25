@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Elon Musk appears to confirm that posts containing links in their main text are deprioritized on X, saying it is to stop &quot;lazy linking&quot; &lpar;David Gilmour/Mediaite&rpar;](http://www.techmeme.com/241125/p22#a241125p22)
- - [Does Cloud Gaming on PlayStation Portal Mark the End for Consoles?](https://www.wired.com/story/does-cloud-gaming-on-playstation-portal-mark-the-end-for-consoles/)
- - [Gorilla Glass maker Corning responds to antitrust probe with a nine-year plan for change](https://www.androidauthority.com/corning-response-eu-probe-3502933/)<!-- TECH:END -->
+ - [Best Black Friday Amazon deals: $150 off M4 iMac, $250 off MacBook, $169 Apple Watch](https://appleinsider.com/articles/24/11/21/best-black-friday-amazon-deals-100-off-m4-mac-mini-250-off-macbook-189-apple-watch?utm_medium=rss)
+ - [A US judge sets an April 14 trial date for an FTC lawsuit, filed in 2020, alleging that Meta&#39;s acquisitions of Instagram and WhatsApp violated antitrust laws &lpar;Jody Godoy/Reuters&rpar;](http://www.techmeme.com/241125/p24#a241125p24)
+ - [Anthropic launches tool to connect AI systems directly to datasets](https://www.theverge.com/2024/11/25/24305774/anthropic-model-context-protocol-data-sources)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
