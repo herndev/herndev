@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Calendar on Android finally lets you manage all your tasks directly](https://www.androidauthority.com/google-calendar-android-tasks-update-3502721/)
- - [Sources: Intel, the biggest recipient of money under the CHIPS Act, will see its funding drop to less than $8B from the $8.5B that was announced earlier in 2024 &lpar;New York Times&rpar;](http://www.techmeme.com/241124/p19#a241124p19)
- - [A look at the shortcomings of Google&#39;s Tensor SoC for Pixel devices, with four generations failing to impress in key performance and power efficiency metrics &lpar;Robert Triggs/Android Authority&rpar;](http://www.techmeme.com/241124/p18#a241124p18)<!-- TECH:END -->
+ - [Move over PlayStation Portal: Sony may be working on a true Nintendo Switch rival](https://www.androidauthority.com/sony-nintendo-switch-rival-console-3502736/)
+ - [A bitcoin strategic reserve is a resilience strategy for the &quot;hodlers&quot;, not the US state, as a bet on bitcoin is bullish on permanent institutional collapse &lpar;Brendan Greeley/Financial Times&rpar;](http://www.techmeme.com/241125/p1#a241125p1)
+ - [New video shows off One UI 7’s iOS-style features and faster animations in action](https://www.androidauthority.com/samsung-one-ui-7-animations-quick-panel-leak-3502727/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
