@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [And I thought I&#39;m a bad cook](http://9gag.com/gag/ae9A39O)
- - ⏩ [Speeding puppy](http://9gag.com/gag/aW4j0ox)
- - 👉 [Old school](http://9gag.com/gag/aAybRDo)<!-- MEMES:END -->
+ - 💣 [If you have to be your own winggirl, then be it. Take every chance for love.](http://9gag.com/gag/a1mre62)
+ - ⏩ [Hey as long as it works](http://9gag.com/gag/aLnpBeW)
+ - 👉 [What color is your pee?](http://9gag.com/gag/abAVyZB)<!-- MEMES:END -->
 
 ---
 
