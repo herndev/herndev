@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Circle to Search might start looking a little more like Apple Intelligence &lpar;APK teardown&rpar;](https://www.androidauthority.com/circle-to-search-new-colors-3502876/)
- - [Threads will finally let you set the following feed as your default](https://www.theverge.com/2024/11/25/24305690/threads-default-following-feed-test)
- - [Cars are polluting less — but for how long?](https://www.theverge.com/2024/11/25/24305599/cars-are-polluting-less-but-for-how-long)<!-- TECH:END -->
+ - [Arc&#39;s revolutionary bumper iPhone 16 case is 15% off for Black Friday](https://appleinsider.com/articles/24/11/25/arcs-revolutionary-bumper-iphone-16-case-is-15-off-for-black-friday?utm_medium=rss)
+ - [Threads begins testing an option to set For You, Following, or a custom feed as the default feed, another improvement seemingly sparked by Bluesky competition &lpar;Chris Welch/The Verge&rpar;](http://www.techmeme.com/241125/p21#a241125p21)
+ - [iPhone 17 ‘Slim’ rumors are still floating around](https://www.theverge.com/2024/11/25/24305670/iphone-17-slim-rumors-sim-card-battery-problems)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
