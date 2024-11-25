@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Wholesome posts that I saved #6](http://9gag.com/gag/aryM4g5)
- - ⏩ [Hooters had an airline but ceased operations after 3 years](http://9gag.com/gag/aKG6gg6)
- - 👉 [Brazil is not for amateurs](http://9gag.com/gag/aYQoW4w)<!-- MEMES:END -->
+ - 💣 [White liberal women are cancer](http://9gag.com/gag/amoPNBX)
+ - ⏩ [A 74-year-old woman from Arizona broke her nose during a hike and was airlifted by rescuers. However, the stretcher spun uncontrollably at nearly 200 rotations per minute, resembling astronaut training. She later filed a $2M lawsuit and settled for $450K.](http://9gag.com/gag/awyMrR8)
+ - 👉 [Inmate crawled past officer to sexually assault woman in jail intake, police say](http://9gag.com/gag/aVv7Q0K)<!-- MEMES:END -->
 
 ---
 
