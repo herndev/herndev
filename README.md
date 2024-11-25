@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Godzilla, Baymax coming to Fortnite, leaks suggest](https://www.polygon.com/fortnite/484993/fortnite-leak-godzilla-baymax-big-hero-6-chapter-6)
- - [The World of Warcraft Pandemic board game deserved better](https://www.polygon.com/opinion/485013/world-of-warcraft-pandemic-board-game-wrath-lich-king-corrupted-blood)
- - [This Stalker 2 Quest Will Test Your Morals](https://kotaku.com/stalker-2-poppy-field-coupons-location-pomor-1851707719)<!-- GAME:END -->
+ - [Planet Coaster 2, As Told By Steam Reviews](https://kotaku.com/planet-coaster-2-reviews-steam-worth-it-1851707808)
+ - [Former BioWare boss Casey Hudson is closing the studio he launched in 2021 without releasing a single game](https://www.pcgamer.com/gaming-industry/former-bioware-boss-casey-hudson-is-closing-the-studio-he-launched-in-2021-without-releasing-a-single-game)
+ - [Magic The Gathering’s Commander format is getting a video game](https://www.polygon.com/mtg-magic-the-gathering/485083/magic-gathering-commander-video-game)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
