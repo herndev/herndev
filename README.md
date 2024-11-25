@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Motorola Moto G 5G 2025 renders give us hope for a better budget phone](https://www.androidauthority.com/motorola-moto-g-5g-2025-renders-3502806/)
- - [Amazon Kindle Colorsoft review: good color is a good start](https://www.theverge.com/24303322/amazon-kindle-colorsoft-e-reader-review)
- - [The EU says Corning offered commitments in a bid to settle an antitrust probe over alleged exclusive Gorilla Glass deals, including waiving exclusive clauses &lpar;Peter Chapman/Bloomberg&rpar;](http://www.techmeme.com/241125/p8#a241125p8)<!-- TECH:END -->
+ - [PlayAI, which uses AI to clone voices for $49 per month and recently rolled out AI agents, raised a $20M seed co-led by 500 Startups and Kindred Ventures &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/241125/p11#a241125p11)
+ - [Italian PE firm Bending Spoons plans to take cloud video platform Brightcove private in a $233M deal; Brightcove, founded in 2004, makes monetization tools &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/241125/p10#a241125p10)
+ - [M4 Mac minis in a computing cluster is incredibly cool, but not hugely effective](https://appleinsider.com/articles/24/11/25/m4-mac-minis-in-a-computing-cluster-is-an-incredibly-cool-project-but-not-hugely-effective?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
