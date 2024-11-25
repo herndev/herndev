@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Do your best 9gag... or maybe do your worst...](http://9gag.com/gag/a34Ejve)
- - ⏩ [No more than unbabatabletomato](http://9gag.com/gag/ae9Apgm)
- - 👉 [Symbiotic relationships](http://9gag.com/gag/aD2d05w)<!-- MEMES:END -->
+ - 💣 [India&#39;s action movie Don 360 movie behind the scenes.](http://9gag.com/gag/aGypwgX)
+ - ⏩ [Man uses a 100,000 lumen flashlight to escape from the cops](http://9gag.com/gag/azxMjdq)
+ - 👉 [Breaking open a 47 lbs geode, the water inside being millions of years old](http://9gag.com/gag/a2v7YOw)<!-- MEMES:END -->
 
 ---
 
