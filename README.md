@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The best early board game deals of Black Friday](https://www.polygon.com/black-friday/475286/best-early-board-game-deals)
- - [Microsoft has had enough of your alt-tabbing ways, and now Edge wants to be your default in-game browser](https://www.pcgamer.com/gaming-industry/microsoft-has-had-enough-of-your-alt-tabbing-ways-and-now-edge-wants-to-be-your-default-in-game-browser)
- - [New Sonic 3 Trailer Is A Nostalgia Trip For Sonic Adventure 2 Fans](https://kotaku.com/sonic-3-second-trailer-shadow-hedgehog-keanu-reeves-1851706485)<!-- GAME:END -->
+ - [Season 2&#39;s ending was peak Arcane—a dense and explosive finale that&#39;ll take a while to properly pick out of your teeth](https://www.pcgamer.com/movies-tv/season-2s-ending-was-peak-arcane-a-dense-and-explosive-finale-thatll-take-a-while-to-properly-pick-out-of-your-teeth)
+ - [Our favorite early Black Friday deals](https://www.polygon.com/black-friday/475289/best-early-deals)
+ - [Netflix brought back anime’s prettiest psychedelic horror detective show 20 years later](https://www.polygon.com/anime/483226/mononoke-netflix-movie-series-how-to-watch)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
