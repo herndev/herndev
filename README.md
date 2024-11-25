@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon Black Friday: 30-Plus Deals Across Tech, Kitchen and More](https://www.cnet.com/deals/best-amazon-black-friday-deals-2024/#ftag=CAD590a51e)
- - [Don’t Sleep on These Black Friday Laptop Deals: Our Favorites for Every Budget](https://www.cnet.com/deals/best-black-friday-laptop-deals-2024/#ftag=CAD590a51e)
- - [Samsung Galaxy A56 5G renders show one small but notable change](https://www.androidauthority.com/samsung-galaxy-a56-5g-renders-leak-3502780/)<!-- TECH:END -->
+ - [Best Internet Providers in Washington, DC](https://www.cnet.com/home/internet/best-internet-providers-in-washington-dc/#ftag=CAD590a51e)
+ - [US coding boot camp graduates are facing a tough job market due to AI coding tools and mass layoffs; CompTIA: developer job listings are down 56% since 2019 &lpar;Sarah Kessler/New York Times&rpar;](http://www.techmeme.com/241125/p5#a241125p5)
+ - [Refinance Rates Move Up: Mortgage Refinance Rates on Nov. 25, 2024](https://www.cnet.com/personal-finance/mortgages/refinance-rates-move-up-mortgage-refinance-rates-on-nov-25-2024/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
