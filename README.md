@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Sony is reportedly working on a handheld PS5](https://www.polygon.com/news/484679/sony-handheld-ps5-report)
- - [Rumors Are Flying Of A Possible PlayStation 5 Portable](https://kotaku.com/ps5-portable-sony-playstation-handheld-switch-2-1851707119)
- - [Today&#39;s Wordle answer for Monday, November 25](https://www.pcgamer.com/games/puzzle/wordle-answer-today-november-25-2024)<!-- GAME:END -->
+ - [The best early board game deals of Black Friday](https://www.polygon.com/black-friday/475286/best-early-board-game-deals)
+ - [Microsoft has had enough of your alt-tabbing ways, and now Edge wants to be your default in-game browser](https://www.pcgamer.com/gaming-industry/microsoft-has-had-enough-of-your-alt-tabbing-ways-and-now-edge-wants-to-be-your-default-in-game-browser)
+ - [New Sonic 3 Trailer Is A Nostalgia Trip For Sonic Adventure 2 Fans](https://kotaku.com/sonic-3-second-trailer-shadow-hedgehog-keanu-reeves-1851706485)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
