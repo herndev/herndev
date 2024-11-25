@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Sony is reportedly working on a handheld PS5](https://www.polygon.com/news/484679/sony-handheld-ps5-report)
  - [Rumors Are Flying Of A Possible PlayStation 5 Portable](https://kotaku.com/ps5-portable-sony-playstation-handheld-switch-2-1851707119)
- - [Today&#39;s Wordle answer for Monday, November 25](https://www.pcgamer.com/games/puzzle/wordle-answer-today-november-25-2024)
- - [All the Dune: Prophecy houses and characters you need to know](https://www.polygon.com/tv/479937/dune-prophecy-houses-emperor-corrino-atreides-harkonnen-hart)<!-- GAME:END -->
+ - [Today&#39;s Wordle answer for Monday, November 25](https://www.pcgamer.com/games/puzzle/wordle-answer-today-november-25-2024)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
