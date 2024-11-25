@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Arc&#39;s revolutionary bumper iPhone 16 case is 15% off for Black Friday](https://appleinsider.com/articles/24/11/25/arcs-revolutionary-bumper-iphone-16-case-is-15-off-for-black-friday?utm_medium=rss)
- - [Threads begins testing an option to set For You, Following, or a custom feed as the default feed, another improvement seemingly sparked by Bluesky competition &lpar;Chris Welch/The Verge&rpar;](http://www.techmeme.com/241125/p21#a241125p21)
- - [iPhone 17 ‘Slim’ rumors are still floating around](https://www.theverge.com/2024/11/25/24305670/iphone-17-slim-rumors-sim-card-battery-problems)<!-- TECH:END -->
+ - [Elon Musk appears to confirm that posts containing links in their main text are deprioritized on X, saying it is to stop &quot;lazy linking&quot; &lpar;David Gilmour/Mediaite&rpar;](http://www.techmeme.com/241125/p22#a241125p22)
+ - [Does Cloud Gaming on PlayStation Portal Mark the End for Consoles?](https://www.wired.com/story/does-cloud-gaming-on-playstation-portal-mark-the-end-for-consoles/)
+ - [Gorilla Glass maker Corning responds to antitrust probe with a nine-year plan for change](https://www.androidauthority.com/corning-response-eu-probe-3502933/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
