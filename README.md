@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Wikipedia](http://9gag.com/gag/a2v7zX9)
+ - 💣 [Wholesome posts that I saved #6](http://9gag.com/gag/aryM4g5)
  - ⏩ [Hooters had an airline but ceased operations after 3 years](http://9gag.com/gag/aKG6gg6)
- - 👉 [I know what you think &lpar;second post&rpar;](http://9gag.com/gag/aqyjZxj)<!-- MEMES:END -->
+ - 👉 [Brazil is not for amateurs](http://9gag.com/gag/aYQoW4w)<!-- MEMES:END -->
 
 ---
 
