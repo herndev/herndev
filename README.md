@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: the prototypes of the thin iPhone are between 5 and 6 millimeters thick, and may be too thin for a physical SIM, which could dampen China sales &lpar;The Information&rpar;](http://www.techmeme.com/241125/p17#a241125p17)
- - [There’s a Star Fox 64 fan port on the way, and it looks incredible](https://www.androidauthority.com/star-fox-64-port-3502873/)
- - [iPhone 17 Slim&#39;s too thin for SIM tray, may not have mmWave](https://appleinsider.com/articles/24/11/25/iphone-17-slims-too-thin-for-sim-tray-may-not-have-mmwave?utm_medium=rss)<!-- TECH:END -->
+ - [Circle to Search might start looking a little more like Apple Intelligence &lpar;APK teardown&rpar;](https://www.androidauthority.com/circle-to-search-new-colors-3502876/)
+ - [Threads will finally let you set the following feed as your default](https://www.theverge.com/2024/11/25/24305690/threads-default-following-feed-test)
+ - [Cars are polluting less — but for how long?](https://www.theverge.com/2024/11/25/24305599/cars-are-polluting-less-but-for-how-long)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
