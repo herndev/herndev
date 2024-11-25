@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Rejoice, roguelike nerds: Shiren the Wanderer: The Mystery Dungeon of Serpentcoil Island is coming to Steam](https://www.pcgamer.com/games/roguelike/rejoice-roguelike-nerds-shiren-the-wanderer-the-mystery-dungeon-of-serpentcoil-island-is-coming-to-steam)
- - [Game Boy classic Donkey Kong Land is on Nintendo Switch Online now](https://www.polygon.com/news/484339/donkey-kong-land-game-boy-nintendo-switch)
- - [Final Fantasy 14 for mobile will go back to A Realm Reborn for a WoW Classic-like experience](https://www.polygon.com/news/484364/final-fantasy-14-mobile-ff14-story-monetization)<!-- GAME:END -->
+ - [Valve first came up with the Steam Hardware Survey more than 20 years ago because it wanted to know what specs it should target for Half-Life 2](https://www.pcgamer.com/games/fps/valve-first-came-up-with-the-steam-hardware-survey-more-than-20-years-ago-because-it-wanted-to-know-what-specs-it-should-target-for-half-life-2)
+ - [Draw magic shapes to create heroes in this combination of tower defense and factory-builder](https://www.pcgamer.com/games/strategy/draw-magic-shapes-to-create-heroes-in-this-combination-of-tower-defense-and-factory-builder)
+ - [I&#39;m glad I stuck with Dragon Age: The Veilguard, because it builds to a suicide mission right out of my beloved Mass Effect 2](https://www.pcgamer.com/games/rpg/im-glad-i-stuck-with-dragon-age-the-veilguard-because-it-builds-to-a-suicide-mission-right-out-of-my-beloved-mass-effect-2)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
