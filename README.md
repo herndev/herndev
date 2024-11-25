@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Shares of Japan&#39;s Fujikura, which specializes in fiber optic cables for data centers, are up 400%+ in 2024 due to the AI boom, leading the Nikkei 225 index &lpar;Aya Wagatsuma/Bloomberg&rpar;](http://www.techmeme.com/241124/p16#a241124p16)
- - [Trailers of the week: Minecraft, Elio, and Alien: Earth](https://www.theverge.com/2024/11/24/24304977/movie-trailers-mincraft-elio-alien-earth-star-wars-outlaws-wild-card-how-to-train-your-dragon)
- - [Best Internet Providers in Superior, Wisconsin](https://www.cnet.com/home/internet/best-internet-providers-in-superior-wi/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Black Friday sale: M4 Max MacBook Pro 16-inch with 64GB RAM, 40C GPU plunges to $3,879](https://appleinsider.com/articles/24/11/25/black-friday-sale-m4-max-macbook-pro-16-inch-with-64gb-ram-40c-gpu-plunges-to-3879?utm_medium=rss)
+ - [Sources: Marc Andreessen, Travis Kalanick, and others are involved in Department of Government Efficiency; Andreessen is acting as a networker for recruitment &lpar;Washington Post&rpar;](http://www.techmeme.com/241124/p17#a241124p17)
+ - [My Shelfy Smart Fridge Device Surprised Me in a Good Way, and It&#39;s 35% Off Right Now](https://www.cnet.com/deals/my-shelfy-smart-fridge-device-surprised-me-in-a-good-way-and-its-35-off-right-now/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
