@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Gladiator II May Have Starred Timothée Chalamet If Not For This Hulu Series](https://kotaku.com/gladiator-ii-ridley-scott-paul-mescal-timothee-chalamet-1851707421)
- - [Hitman Ditching Conor McGregor After Civil Jury Finds Him Liable For Sexual Assault](https://kotaku.com/hitman-conor-mcgregor-ufc-sexual-assault-jury-liable-1851707467)
- - [Dr Disrespect Joins Right-Wing, Anti-Cancel Culture Streaming Platform Rumble](https://kotaku.com/dr-disrespect-youtube-rumble-twitch-ban-sexting-crypto-1851707478)<!-- GAME:END -->
+ - [Don&#39;t Let Your Weapons Decay If You Want To Survive Stalker 2](https://kotaku.com/stalker-2-weapon-upgrade-attachment-repair-broken-1851707644)
+ - [Xbox Removing Avatars Because You All Forgot About Them](https://kotaku.com/xbox-avatars-editor-app-delist-series-x-s-removed-360-1851707586)
+ - [15 Things We Noticed In The New Sonic The Hedgehog 3 Trailer](https://kotaku.com/sonic-3-trailer-shadow-gun-rouge-eggman-gerald-moon-1851707554)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
