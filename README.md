@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [India&#39;s action movie Don 360 movie behind the scenes.](http://9gag.com/gag/aGypwgX)
- - ⏩ [Man uses a 100,000 lumen flashlight to escape from the cops](http://9gag.com/gag/azxMjdq)
- - 👉 [Breaking open a 47 lbs geode, the water inside being millions of years old](http://9gag.com/gag/a2v7YOw)<!-- MEMES:END -->
+ - 💣 [Inmate crawled past officer to sexually assault woman in jail intake, police say](http://9gag.com/gag/aVv7Q0K)
+ - ⏩ [Evolving, just backwards](http://9gag.com/gag/aMVKGZW)
+ - 👉 [A defense mechanism against Drake](http://9gag.com/gag/a4PELWp)<!-- MEMES:END -->
 
 ---
 
