@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Move over PlayStation Portal: Sony may be working on a true Nintendo Switch rival](https://www.androidauthority.com/sony-nintendo-switch-rival-console-3502736/)
- - [A bitcoin strategic reserve is a resilience strategy for the &quot;hodlers&quot;, not the US state, as a bet on bitcoin is bullish on permanent institutional collapse &lpar;Brendan Greeley/Financial Times&rpar;](http://www.techmeme.com/241125/p1#a241125p1)
- - [New video shows off One UI 7’s iOS-style features and faster animations in action](https://www.androidauthority.com/samsung-one-ui-7-animations-quick-panel-leak-3502727/)<!-- TECH:END -->
+ - [T-Mobile is practically giving away a free Pixel 9 to anyone](https://www.androidauthority.com/t-mobile-google-pixel-9-free-promo-3502749/)
+ - [The Play Store could soon save you from downloading crappy apps &lpar;APK Teardown&rpar;](https://www.androidauthority.com/play-store-low-quality-app-warning-apk-teardown-3502734/)
+ - [Best Black Friday Amazon deals: $100 off M4 Mac mini, $250 off MacBook, $169 Apple Watch](https://appleinsider.com/articles/24/11/21/best-black-friday-amazon-deals-100-off-m4-mac-mini-250-off-macbook-189-apple-watch?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
