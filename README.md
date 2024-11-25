@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s iPad mini 6 just dropped to $299.99, all-time best Black Friday price](https://appleinsider.com/articles/24/11/25/apples-ipad-mini-6-just-dropped-to-29999-all-time-best-black-friday-price?utm_medium=rss)
- - [Raspberry Pi announces a $7 Pico 2 with built-in Wi-Fi](https://www.theverge.com/2024/11/25/24305455/raspberry-pi-pico-2-w-wi-fi-wireless-microcontroller)
- - [I dissed the Google Pixel Tablet at launch, but it’s aged well and is worth a new look](https://www.androidauthority.com/google-pixel-tablet-2024-commentary-3497252/)<!-- TECH:END -->
+ - [Sources: the prototypes of the thin iPhone are between 5 and 6 millimeters thick, and may be too thin for a physical SIM, which could dampen China sales &lpar;The Information&rpar;](http://www.techmeme.com/241125/p17#a241125p17)
+ - [There’s a Star Fox 64 fan port on the way, and it looks incredible](https://www.androidauthority.com/star-fox-64-port-3502873/)
+ - [iPhone 17 Slim&#39;s too thin for SIM tray, may not have mmWave](https://appleinsider.com/articles/24/11/25/iphone-17-slims-too-thin-for-sim-tray-may-not-have-mmwave?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
