@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Rush boys 5](http://9gag.com/gag/ae9A0Wj)
- - ⏩ [Bruise Lee.](http://9gag.com/gag/a9yEPZZ)
- - 👉 [A romantic interlude.](http://9gag.com/gag/a4PEL01)<!-- MEMES:END -->
+ - ⏩ [Breaking open a 47 lbs geode, the water inside being millions of years old](http://9gag.com/gag/a2v7YOw)
+ - 👉 [Inmate crawled past officer to sexually assault woman in jail intake, police say](http://9gag.com/gag/aVv7Q0K)<!-- MEMES:END -->
 
 ---
 
