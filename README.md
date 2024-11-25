@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google Calendar on Android finally lets you manage all your tasks directly](https://www.androidauthority.com/google-calendar-android-tasks-update-3502721/)
  - [Sources: Intel, the biggest recipient of money under the CHIPS Act, will see its funding drop to less than $8B from the $8.5B that was announced earlier in 2024 &lpar;New York Times&rpar;](http://www.techmeme.com/241124/p19#a241124p19)
- - [A look at the shortcomings of Google&#39;s Tensor SoC for Pixel devices, with four generations failing to impress in key performance and power efficiency metrics &lpar;Robert Triggs/Android Authority&rpar;](http://www.techmeme.com/241124/p18#a241124p18)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Nov. 25, #63](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-nov-25-63/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [A look at the shortcomings of Google&#39;s Tensor SoC for Pixel devices, with four generations failing to impress in key performance and power efficiency metrics &lpar;Robert Triggs/Android Authority&rpar;](http://www.techmeme.com/241124/p18#a241124p18)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
