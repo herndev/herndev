@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [T-Mobile is practically giving away a free Pixel 9 to anyone](https://www.androidauthority.com/t-mobile-google-pixel-9-free-promo-3502749/)
- - [The Play Store could soon save you from downloading crappy apps &lpar;APK Teardown&rpar;](https://www.androidauthority.com/play-store-low-quality-app-warning-apk-teardown-3502734/)
- - [Best Black Friday Amazon deals: $100 off M4 Mac mini, $250 off MacBook, $169 Apple Watch](https://appleinsider.com/articles/24/11/21/best-black-friday-amazon-deals-100-off-m4-mac-mini-250-off-macbook-189-apple-watch?utm_medium=rss)<!-- TECH:END -->
+ - [Google could soon give Gemini a much-needed cleanup &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-gemini-consolidate-menus-apk-teardown-3502744/)
+ - [How Tim Cook gets Trump to help Apple](https://appleinsider.com/articles/24/11/25/how-tim-cook-gets-trump-to-help-apple?utm_medium=rss)
+ - [A look at the rise of super clusters that use ~100K of Nvidia&#39;s GPUs for training giant AI models and the new engineering challenges arising from such clusters &lpar;Asa Fitch/Wall Street Journal&rpar;](http://www.techmeme.com/241125/p2#a241125p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
