@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Neuralink Plans to Test Whether Its Brain Implant Can Control a Robotic Arm](https://www.wired.com/story/neuralink-robotic-arm-controlled-by-mind/)
- - [Google is inserting search links into webpages in the Google App now](https://www.theverge.com/2024/11/25/24305922/google-app-ios-inserting-search-links-websites)
- - [N-able, which sells software for managed service providers and spun off from SolarWinds in 2021, acquires DC-based cybersecurity company Adlumin in a $266M deal &lpar;Maria Deutscher/SiliconANGLE&rpar;](http://www.techmeme.com/241125/p27#a241125p27)<!-- TECH:END -->
+ - [A ransomware attack on Blue Yonder, a major supply chain software provider, is disrupting operations at Starbucks, the UK&#39;s Sainsbury&#39;s, and other retailers &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/241125/p28#a241125p28)
+ - [Here&#39;s How to Get an Extra $200 for Amazon Black Friday Deals](https://www.cnet.com/personal-finance/credit-cards/heres-how-to-get-an-extra-200-for-amazon-black-friday-deals/#ftag=CAD590a51e)
+ - [Google explains how the Pixel Buds Pro 2 became its best earbuds yet](https://www.androidauthority.com/pixel-buds-pro-2-design-explained-3503003/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
