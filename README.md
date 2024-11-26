@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Embrace the Shift to ‘Prosocial Media’](https://www.wired.com/story/prosocial-media-social-networks-discourse-decentralization/)
- - [Google Search widget’s latest change could give us lemon yellow home screens &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-search-widget-custom-themes-apk-teardown-3503079/)
- - [Coming full circle: iPhone 17 Pro may copy this Google Pixel design choice](https://www.androidauthority.com/iphone-17-pro-design-leak-3503073/)<!-- TECH:END -->
+ - [Huawei unveils the $760+ Mate 70 series, powered by its HarmonyOS Next, calling the flagship device the &quot;smartest&quot; Mate phone, as it faces US chip curbs &lpar;New York Times&rpar;](http://www.techmeme.com/241126/p5#a241126p5)
+ - [The Fossil Fuels Conversation Needs a Hard Reset](https://www.wired.com/story/fossil-fuels-conversation-needs-a-hard-reset/)
+ - [The Climate-Driven Diaspora Is Here](https://www.wired.com/story/the-climate-driven-diaspora-is-here/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
