@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [&#39;I can show this film to my parents, and they will understand better&#39;: Director of touching WoW documentary The Remarkable Life of Ibelin reflects on the importance of online communities as sanctuaries](https://www.pcgamer.com/games/world-of-warcraft/i-can-show-this-film-to-my-parents-and-they-will-understand-better-director-of-touching-wow-documentary-the-remarkable-life-of-ibelin-reflects-on-the-importance-of-online-communities-as-sanctuaries)
  - [Today&#39;s Wordle answer for Tuesday, November 26](https://www.pcgamer.com/games/puzzle/wordle-answer-today-november-26-2024)
- - [Half-Life 2 testers horsing around with physics props &#39;to make the 47th playthrough of the game more interesting&#39; probably had no idea it would result in Gabe Newell launching a garden gnome into space 16 years later](https://www.pcgamer.com/games/fps/half-life-2-testers-horsing-around-with-physics-props-to-make-the-47th-playthrough-of-the-game-more-interesting-probably-had-no-idea-it-would-result-in-gabe-newell-launching-a-garden-gnome-into-space-16-years-later)
- - [&#39;We don&#39;t have to worry about trillions of damage&#39;: Path of Exile 2 is trying to avoid Diablo 4&#39;s game-breaking damage numbers, director says](https://www.pcgamer.com/games/rpg/we-dont-have-to-worry-about-trillions-of-damage-path-of-exile-2-is-trying-to-avoid-diablo-4s-game-breaking-damage-numbers-director-says)<!-- GAME:END -->
+ - [Half-Life 2 testers horsing around with physics props &#39;to make the 47th playthrough of the game more interesting&#39; probably had no idea it would result in Gabe Newell launching a garden gnome into space 16 years later](https://www.pcgamer.com/games/fps/half-life-2-testers-horsing-around-with-physics-props-to-make-the-47th-playthrough-of-the-game-more-interesting-probably-had-no-idea-it-would-result-in-gabe-newell-launching-a-garden-gnome-into-space-16-years-later)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
