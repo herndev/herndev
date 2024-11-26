@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Deck your walls with dissected gaming gadgets, now cheaper than ever at Grid Studio](https://www.polygon.com/black-friday/476624/grid-game-boy-deal-nintendo)
- - [Displate’s metal posters are a great gift — and 33% off for Black Friday](https://www.polygon.com/black-friday/485009/displate-metal-poster-deal-arcane-marvel-lotr-warhammer-dnd)
- - [Even if Avowed does well, it doesn&#39;t sound like we&#39;ll get Pillars of Eternity 3, at least not from Josh Sawyer: &#39;I am more interested in doing original IP&#39;](https://www.pcgamer.com/games/rpg/even-if-avowed-does-well-it-doesnt-sound-like-well-get-pillars-of-eternity-3-at-least-not-from-josh-sawyer-i-am-more-interested-in-doing-original-ip)<!-- GAME:END -->
+ - [Crescent County Is the Witch-Tech Racing-Delivery-Life-Sim You Didn’t Know You Needed](https://news.xbox.com/en-us/2024/11/26/crescent-county-xbox/)
+ - [Can Joltik be shiny in Pokémon Go?](https://www.polygon.com/pokemon-go-guide/485437/can-joltik-be-shiny-galvantula)
+ - [The best early gaming deals of Black Friday](https://www.polygon.com/black-friday/475293/best-early-gaming-deals)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
