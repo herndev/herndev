@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Bruise Lee.](http://9gag.com/gag/a9yEPZZ)
- - ⏩ [*Final Boss Enters The Room*](http://9gag.com/gag/a1mrYN6)
- - 👉 [Powerful victim](http://9gag.com/gag/axyMGvp)<!-- MEMES:END -->
+ - 💣 [*Final Boss Enters The Room*](http://9gag.com/gag/a1mrYN6)
+ - ⏩ [German finest](http://9gag.com/gag/a7oE7Ax)
+ - 👉 [High technology!](http://9gag.com/gag/ayNMnNX)<!-- MEMES:END -->
 
 ---
 
