@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [No more than unbabatabletomato](http://9gag.com/gag/ae9Apgm)
- - ⏩ [Daddy metaphor](http://9gag.com/gag/apRNB6n)
- - 👉 [Evolving, just backwards](http://9gag.com/gag/aMVKGZW)<!-- MEMES:END -->
+ - 💣 [Daddy metaphor](http://9gag.com/gag/apRNB6n)
+ - ⏩ [Big brother is washing](http://9gag.com/gag/a1mrdDG)
+ - 👉 [Motorbiker giving advice to couple on a bridge](http://9gag.com/gag/aMVKGEA)<!-- MEMES:END -->
 
 ---
 
