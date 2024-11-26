@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Brazil&#39;s antitrust regulator says Apple must allow app developers to link to external payment methods and to offer other in-app payment processing options &lpar;Reuters&rpar;](http://www.techmeme.com/241125/p29#a241125p29)
- - [CNET Money&#39;s Expert Review Board](https://www.cnet.com/how-to/financial-review-board/#ftag=CAD590a51e)
- - [19 Best Black Friday Deals on Bedding for Your Holiday Shopping](https://www.cnet.com/deals/best-black-friday-bedding-deals-2024/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [A look at Bluesky&#39;s moderation efforts amid a growth spurt; Bluesky plans to quadruple the size of its contract workforce of content moderators from 25 to 100 &lpar;Casey Newton/Platformer&rpar;](http://www.techmeme.com/241125/p31#a241125p31)
+ - [The best Black Friday smartwatch deals: Google Pixel Watch 3 vs Samsung Galaxy Watch 7](https://www.androidauthority.com/google-pixel-watch-3-samsung-galaxy-watch-7-deals-3503031/)
+ - [IPVanish Review 2024: Good for Beginners, but Privacy-Critical Users Should Avoid](https://www.cnet.com/tech/services-and-software/ipvanish-review/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
