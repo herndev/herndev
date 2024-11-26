@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [A Destiny 2 bug was causing a niche exotic to delete raid bosses in seconds, so of course it&#39;s already been disabled](https://www.pcgamer.com/games/fps/a-destiny-2-bug-was-causing-a-niche-exotic-to-delete-raid-bosses-in-seconds-so-of-course-its-already-been-disabled)
- - [Lenovo Legion Tower 5i &lpar;Gen8&rpar; review](https://www.pcgamer.com/hardware/gaming-pcs/lenovo-legion-tower-5i-gen8-review)
- - [Stop Panicking! Zelda: Echoes Of Wisdom Is On Nintendo&#39;s Official Timeline](https://kotaku.com/zelda-echoes-of-wisdom-nintendo-timeline-1851708148)<!-- GAME:END -->
+ - [Deck your walls with dissected gaming gadgets, now cheaper than ever at Grid Studio](https://www.polygon.com/black-friday/476624/grid-game-boy-deal-nintendo)
+ - [Displate’s metal posters are a great gift — and 33% off for Black Friday](https://www.polygon.com/black-friday/485009/displate-metal-poster-deal-arcane-marvel-lotr-warhammer-dnd)
+ - [Even if Avowed does well, it doesn&#39;t sound like we&#39;ll get Pillars of Eternity 3, at least not from Josh Sawyer: &#39;I am more interested in doing original IP&#39;](https://www.pcgamer.com/games/rpg/even-if-avowed-does-well-it-doesnt-sound-like-well-get-pillars-of-eternity-3-at-least-not-from-josh-sawyer-i-am-more-interested-in-doing-original-ip)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
