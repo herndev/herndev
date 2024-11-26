@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google preps new features for Android desktop windowing, including a minimize button](https://www.androidauthority.com/android-desktop-windowing-minimize-3503367/)
- - [Want Verizon’s best priority and speeds for less? I’ve highlighted 6 options that offer just that](https://www.androidauthority.com/verizon-high-priority-carriers-3500062/)
- - [More retractable cables, please](https://www.theverge.com/2024/11/26/24306616/counterpart-charger-retractable-usb-c-charging-cable)<!-- TECH:END -->
+ - [X files an objection to including X accounts belonging or related to Infowars in the outlet&#39;s bankruptcy auction, arguing it has ownership of all X accounts &lpar;Jason Koebler/404 Media&rpar;](http://www.techmeme.com/241126/p18#a241126p18)
+ - [New Pixel market data suggests Google’s victory lap will have to wait](https://www.androidauthority.com/pixel-market-share-dip-3503339/)
+ - [Best Black Friday Mattress Deals for Sweet Dreams &lpar;2024&rpar;](https://www.wired.com/story/best-black-friday-mattress-deals-2024/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
