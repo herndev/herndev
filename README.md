@@ -48,7 +48,7 @@
 <!-- MEMES:START -->
  - 💣 [This is so beautiful, I love her smile](http://9gag.com/gag/aD2dmrO)
  - ⏩ [Man uses a 100,000 lumen flashlight to escape from the cops](http://9gag.com/gag/azxMjdq)
- - 👉 [Bruise Lee.](http://9gag.com/gag/a9yEPZZ)<!-- MEMES:END -->
+ - 👉 [No more than unbabatabletomato](http://9gag.com/gag/ae9Apgm)<!-- MEMES:END -->
 
 ---
 
