@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Crescent County Is the Witch-Tech Racing-Delivery-Life-Sim You Didn’t Know You Needed](https://news.xbox.com/en-us/2024/11/26/crescent-county-xbox/)
- - [Can Joltik be shiny in Pokémon Go?](https://www.polygon.com/pokemon-go-guide/485437/can-joltik-be-shiny-galvantula)
- - [The best early gaming deals of Black Friday](https://www.polygon.com/black-friday/475293/best-early-gaming-deals)<!-- GAME:END -->
+ - [A Very Good Star Wars Game You Might Have Missed Is Coming To PC Soon](https://kotaku.com/star-wars-hunters-pc-console-port-steam-phone-overwatch-1851708516)
+ - [Bad news for skull-havers: The Skulltaker is here to take your skull in Total War: Warhammer 3&#39;s just-announced DLC](https://www.pcgamer.com/games/strategy/bad-news-for-skull-havers-the-skulltaker-is-here-to-take-your-skull-in-total-warhammer-3s-just-announced-dlc)
+ - [We&#39;re getting a new and improved Geoff Keighley added to Fortnite using MetaHuman technology, ready for The Game Awards](https://www.pcgamer.com/games/battle-royale/were-getting-a-new-and-improved-geoff-keighley-added-to-fortnite-using-metahuman-technology-ready-for-the-game-awards)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
