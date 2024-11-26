@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google is going back to “10 blue links” for these searches, and I don’t hate it](https://www.androidauthority.com/google-search-simpler-blue-links-test-3503158/)
- - [Phone Maker Xiaomi Made the Car That Apple Couldn&#39;t](https://www.wired.com/story/phone-maker-xiaomi-made-the-car-that-apple-couldnt/)
- - [Interpol arrested 1,006 suspects in 19 African countries from September 2 to October 31 to clamp down on cybercrime that left 35,000 victims with $193M losses &lpar;Mark Banchereau/Associated Press&rpar;](http://www.techmeme.com/241126/p13#a241126p13)<!-- TECH:END -->
+ - [Transparent&#39;s New Wireless Speaker Is a Love Letter to Brutalism](https://www.wired.com/story/transparents-new-wireless-speaker-is-a-love-letter-to-brutalism/)
+ - [Microsoft is killing off its Xbox One-era Avatars in January](https://www.theverge.com/2024/11/26/24306394/xbox-avatar-editor-discontinued)
+ - [Black Friday discount: M4 Pro MacBook Pro &lpar;48GB RAM, 1TB SSD&rpar; on sale now for $2,389](https://appleinsider.com/articles/24/11/26/black-friday-discount-m4-pro-macbook-pro-48gb-ram-1tb-ssd-on-sale-now-for-2389?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
