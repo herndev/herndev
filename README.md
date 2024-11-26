@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Our favorite early Black Friday deals](https://www.polygon.com/black-friday/475289/best-early-deals)
  - [Zacian counters, weakness, and best moveset in Pokémon Go](https://www.polygon.com/pokemon-go-guide/485702/zacian-counters-weakness-best-moveset)
- - [Zamazenta counters, weakness, and best moveset in Pokémon Go](https://www.polygon.com/pokemon-go-guide/485747/zamazenta-counters-weakness-best-moveset)
- - [Play Dungeons &amp;#038; Dragons online in the world of Critical Role](https://www.polygon.com/tabletop-games/485797/critical-role-alchemy-taldorei-reborn-virtual-tabletop-vtt)<!-- GAME:END -->
+ - [Zamazenta counters, weakness, and best moveset in Pokémon Go](https://www.polygon.com/pokemon-go-guide/485747/zamazenta-counters-weakness-best-moveset)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
