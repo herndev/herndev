@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Dr Disrespect moves to Rumble, will head up its Rumble Gaming category](https://www.pcgamer.com/software/platforms/dr-disrespect-moves-to-rumble-will-head-up-its-rumble-gaming-category)
- - [If you think Stalker 2 is buggy, wait until you climb aboard Microsoft Flight Simulator 2024](https://www.pcgamer.com/games/sim/if-you-think-stalker-2-is-buggy-please-take-your-seat-in-microsoft-flight-simulator-2024)
- - [Thieves Steal $1.5 Million Worth Of Oculus VR Headsets](https://kotaku.com/oculus-vr-headsets-stolen-1-5-million-thieves-robbery-1851707917)<!-- GAME:END -->
+ - [&#39;We don&#39;t have to worry about trillions of damage&#39;: Path of Exile 2 is trying to avoid Diablo 4&#39;s game-breaking damage numbers, director says](https://www.pcgamer.com/games/rpg/we-dont-have-to-worry-about-trillions-of-damage-path-of-exile-2-is-trying-to-avoid-diablo-4s-game-breaking-damage-numbers-director-says)
+ - [Where to get indie TTRPGs this Black Friday](https://www.polygon.com/black-friday/485194/indie-ttrpg-black-friday-deals)
+ - [Dr Disrespect moves to Rumble, will head up its Rumble Gaming category](https://www.pcgamer.com/software/platforms/dr-disrespect-moves-to-rumble-will-head-up-its-rumble-gaming-category)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
