@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Well it\u2019s really difficult](http://9gag.com/gag/aAybPRE)
- - ⏩ [Bro chose the right person](http://9gag.com/gag/apRNLx8)
- - 👉 [Acting like it vs. Being it](http://9gag.com/gag/aLnp9BP)<!-- MEMES:END -->
+ - 💣 [College liberal activist begging to retrieve her iPhone back from the homeless that stole it during a Palestine protest. She encouraged them to take anything they steal from \u201crich elite scum\u201d but that she\u2019s \u201cnice\u201d and \u201chonest\u201d and needs it back and she&#39;s `on their side`.](http://9gag.com/gag/aAybpP0)
+ - ⏩ [Dream job!](http://9gag.com/gag/azxMjNN)
+ - 👉 [Lois was toxic AF but in her defense Clark was a manipulative gaslighter](http://9gag.com/gag/aAybwPE)<!-- MEMES:END -->
 
 ---
 
