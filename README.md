@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Huawei unveils the $760+ Mate 70 series, powered by its HarmonyOS Next, calling the flagship device the &quot;smartest&quot; Mate phone, as it faces US chip curbs &lpar;New York Times&rpar;](http://www.techmeme.com/241126/p5#a241126p5)
- - [The Fossil Fuels Conversation Needs a Hard Reset](https://www.wired.com/story/fossil-fuels-conversation-needs-a-hard-reset/)
- - [The Climate-Driven Diaspora Is Here](https://www.wired.com/story/the-climate-driven-diaspora-is-here/)<!-- TECH:END -->
+ - [Tim Cook&#39;s China visit is about getting Apple Intelligence into the country](https://appleinsider.com/articles/24/11/26/tim-cooks-china-visit-is-about-getting-apple-intelligence-into-the-country?utm_medium=rss)
+ - [Google proposes Search tweaks in Europe to comply with the DMA, including removing the map showing hotel locations and results in Germany, Belgium, and Estonia &lpar;Foo Yun Chee/Reuters&rpar;](http://www.techmeme.com/241126/p8#a241126p8)
+ - [Best Black Friday Deals on Outdoor Gear &lpar;2024&rpar;](https://www.wired.com/story/best-black-friday-outdoor-deals-2024/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
