@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Bruise Lee.](http://9gag.com/gag/a9yEPZZ)
- - ⏩ [Daddy metaphor](http://9gag.com/gag/apRNB6n)
- - 👉 [Gentle reminder that our content funds this:](http://9gag.com/gag/abAV0Kp)<!-- MEMES:END -->
+ - ⏩ [Gentle reminder that our content funds this:](http://9gag.com/gag/abAV0Kp)
+ - 👉 [College liberal activist begging to retrieve her iPhone back from the homeless that stole it during a Palestine protest. She encouraged them to take anything they steal from \u201crich elite scum\u201d but that she\u2019s \u201cnice\u201d and \u201chonest\u201d and needs it back and she&#39;s `on their side`.](http://9gag.com/gag/aAybpP0)<!-- MEMES:END -->
 
 ---
 
