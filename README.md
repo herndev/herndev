@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at Bluesky&#39;s moderation efforts amid a growth spurt; Bluesky plans to quadruple the size of its contract workforce of content moderators from 25 to 100 &lpar;Casey Newton/Platformer&rpar;](http://www.techmeme.com/241125/p31#a241125p31)
- - [The best Black Friday smartwatch deals: Google Pixel Watch 3 vs Samsung Galaxy Watch 7](https://www.androidauthority.com/google-pixel-watch-3-samsung-galaxy-watch-7-deals-3503031/)
- - [IPVanish Review 2024: Good for Beginners, but Privacy-Critical Users Should Avoid](https://www.cnet.com/tech/services-and-software/ipvanish-review/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [US v. Google redux: all the news from the ad tech trial](https://www.theverge.com/24237832/google-monopoly-trial-ad-tech-antitrust-us-search)
+ - [Brazil&#39;s antitrust regulator is set to fine Apple if in-app purchase restrictions aren&#39;t lifted](https://appleinsider.com/articles/24/11/26/brazils-antitrust-regulator-is-set-to-fine-apple-if-in-app-purchase-restrictions-arent-lifted?utm_medium=rss)
+ - [A look at Bluesky&#39;s moderation efforts amid a growth spurt; Bluesky plans to quadruple the size of its contract workforce of content moderators from 25 to 100 &lpar;Casey Newton/Platformer&rpar;](http://www.techmeme.com/241125/p31#a241125p31)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
