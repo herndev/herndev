@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Getting ready to go out demo.](http://9gag.com/gag/adB8Xd2)
- - ⏩ [Breaking open a 47 lbs geode, the water inside being millions of years old](http://9gag.com/gag/a2v7YOw)
- - 👉 [And a toll payer on top](http://9gag.com/gag/aGyp0Dw)<!-- MEMES:END -->
+ - 💣 [Man uses a 100,000 lumen flashlight to escape from the cops](http://9gag.com/gag/azxMjdq)
+ - ⏩ [No more than unbabatabletomato](http://9gag.com/gag/ae9Apgm)
+ - 👉 [*Final Boss Enters The Room*](http://9gag.com/gag/a1mrYN6)<!-- MEMES:END -->
 
 ---
 
