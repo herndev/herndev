@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Breaking open a 47 lbs geode, the water inside being millions of years old](http://9gag.com/gag/a2v7YOw)
- - ⏩ [It\u2019s called Bangkok honey](http://9gag.com/gag/aBy2YNO)
- - 👉 [Acting like it vs. Being it](http://9gag.com/gag/aLnp9BP)<!-- MEMES:END -->
+ - 💣 [Your fav neighbor](http://9gag.com/gag/a87E4DZ)
+ - ⏩ [I really shouldnt put my dick in there...however](http://9gag.com/gag/azxMA3Z)
+ - 👉 [Bro chose the right person](http://9gag.com/gag/apRNLx8)<!-- MEMES:END -->
 
 ---
 
