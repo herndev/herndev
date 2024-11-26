@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tim Cook&#39;s China visit is about getting Apple Intelligence into the country](https://appleinsider.com/articles/24/11/26/tim-cooks-china-visit-is-about-getting-apple-intelligence-into-the-country?utm_medium=rss)
- - [Google proposes Search tweaks in Europe to comply with the DMA, including removing the map showing hotel locations and results in Germany, Belgium, and Estonia &lpar;Foo Yun Chee/Reuters&rpar;](http://www.techmeme.com/241126/p8#a241126p8)
- - [Best Black Friday Deals on Outdoor Gear &lpar;2024&rpar;](https://www.wired.com/story/best-black-friday-outdoor-deals-2024/)<!-- TECH:END -->
+ - [3 Simple Rules to Beat the Downsides of Aging](https://www.wired.com/story/three-simple-rules-to-beat-the-downsides-of-aging/)
+ - [Gemini could soon get a huge upgrade for analyzing code &lpar;APK teardown&rpar;](https://www.androidauthority.com/gemini-code-folder-analysis-apk-teardown-3503105/)
+ - [Samsung found another use for folding screens: Handheld gaming devices](https://www.androidauthority.com/samsung-folding-gaming-handheld-3503111/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
