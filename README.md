@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [College liberal activist begging to retrieve her iPhone back from the homeless that stole it during a Palestine protest. She encouraged them to take anything they steal from \u201crich elite scum\u201d but that she\u2019s \u201cnice\u201d and \u201chonest\u201d and needs it back and she&#39;s `on their side`.](http://9gag.com/gag/aAybpP0)
- - ⏩ [Evolving, just backwards](http://9gag.com/gag/aMVKGZW)
- - 👉 [Deep Johnny Depp](http://9gag.com/gag/aLnpD6M)<!-- MEMES:END -->
+ - 💣 [Title](http://9gag.com/gag/aBy2rQ1)
+ - ⏩ [Gets spanked too often](http://9gag.com/gag/aNDpnAb)
+ - 👉 [College liberal activist begging to retrieve her iPhone back from the homeless that stole it during a Palestine protest. She encouraged them to take anything they steal from \u201crich elite scum\u201d but that she\u2019s \u201cnice\u201d and \u201chonest\u201d and needs it back and she&#39;s `on their side`.](http://9gag.com/gag/aAybpP0)<!-- MEMES:END -->
 
 ---
 
