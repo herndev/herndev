@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [10% Off Sephora Promo Code for November 2024](https://www.wired.com/story/sephora-promo-code/)
- - [15% Off DoorDash Promo Code &amp; Coupons for November 2024](https://www.wired.com/story/doordash-promo-code/)
- - [Home Chef Promo Codes - 50% off November 2024](https://www.wired.com/story/home-chef-promo-code/)<!-- TECH:END -->
+ - [Embrace the Shift to ‘Prosocial Media’](https://www.wired.com/story/prosocial-media-social-networks-discourse-decentralization/)
+ - [Google Search widget’s latest change could give us lemon yellow home screens &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-search-widget-custom-themes-apk-teardown-3503079/)
+ - [Coming full circle: iPhone 17 Pro may copy this Google Pixel design choice](https://www.androidauthority.com/iphone-17-pro-design-leak-3503073/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
