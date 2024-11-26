@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Your fav neighbor](http://9gag.com/gag/a87E4DZ)
- - ⏩ [I really shouldnt put my dick in there...however](http://9gag.com/gag/azxMA3Z)
- - 👉 [Bro chose the right person](http://9gag.com/gag/apRNLx8)<!-- MEMES:END -->
+ - 💣 [Bruise Lee.](http://9gag.com/gag/a9yEPZZ)
+ - ⏩ [Daddy metaphor](http://9gag.com/gag/apRNB6n)
+ - 👉 [Gentle reminder that our content funds this:](http://9gag.com/gag/abAV0Kp)<!-- MEMES:END -->
 
 ---
 
