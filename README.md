@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Xiaomi prepares its own mobile chip for its smartphones, to reduce reliance on Qualcomm and MediaTek, with mass production expected to begin in 2025 &lpar;Bloomberg&rpar;](http://www.techmeme.com/241126/p3#a241126p3)
- - [Best Black Friday Amazon deals: $150 off M4 iMac, $250 off MacBook, $169 Apple Watch](https://appleinsider.com/articles/24/11/21/best-black-friday-amazon-deals-100-off-m4-mac-mini-250-off-macbook-189-apple-watch?utm_medium=rss)
- - [Sources: Apple held talks with local tech firms to help power Apple Intelligence in China; a CAC official says approval will be difficult without local partners &lpar;Financial Times&rpar;](http://www.techmeme.com/241126/p2#a241126p2)<!-- TECH:END -->
+ - [10% Off Sephora Promo Code for November 2024](https://www.wired.com/story/sephora-promo-code/)
+ - [15% Off DoorDash Promo Code &amp; Coupons for November 2024](https://www.wired.com/story/doordash-promo-code/)
+ - [Home Chef Promo Codes - 50% off November 2024](https://www.wired.com/story/home-chef-promo-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
