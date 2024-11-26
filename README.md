@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Galaxy S25 Ultra hands-on video leak shows the new rounded design up-close](https://www.androidauthority.com/samsung-galaxy-s25-ultra-hands-on-video-leak-3503038/)
- - [Sources: Qualcomm&#39;s interest in an Intel acquisition has cooled; CEO Cristiano Amon says &quot;right now, at this time, we have not identified any large acquisition&quot; &lpar;Bloomberg&rpar;](http://www.techmeme.com/241125/p32#a241125p32)
- - [US v. Google redux: all the news from the ad tech trial](https://www.theverge.com/24237832/google-monopoly-trial-ad-tech-antitrust-us-search)<!-- TECH:END -->
+ - [The Verge’s 2024 holiday gift guide](https://www.theverge.com/24224043/holiday-gift-guide-2024-best-ideas-unique-tech-gadgets)
+ - [Today&#39;s NYT Strands Hints, Answers and Help for Nov. 26, #268](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-nov-26-268/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Connections Hints, Answers and Help for Nov. 26, #534](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-nov-26-534/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
