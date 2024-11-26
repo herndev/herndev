@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Lois was toxic AF but in her defense Clark was a manipulative gaslighter](http://9gag.com/gag/aAybwPE)
- - ⏩ [German finest](http://9gag.com/gag/a7oE7Ax)
- - 👉 [Frustrated sexually](http://9gag.com/gag/a5QEZxL)<!-- MEMES:END -->
+ - 💣 [Well it\u2019s really difficult](http://9gag.com/gag/aAybPRE)
+ - ⏩ [Bro chose the right person](http://9gag.com/gag/apRNLx8)
+ - 👉 [Acting like it vs. Being it](http://9gag.com/gag/aLnp9BP)<!-- MEMES:END -->
 
 ---
 
