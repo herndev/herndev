@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [The TTRPG to play after STALKER 2](https://www.polygon.com/tabletop-games/485695/stalker-2-rad-hipolita-ttrpg-tabletop-roleplaying-game)
  - [The Witcher 4 is finally in full production: &#39;Ahead of us lies the main and most intense stage of development&#39;](https://www.pcgamer.com/games/rpg/the-witcher-4-is-finally-in-full-production-ahead-of-us-lies-the-main-and-most-intense-stage-of-development)
- - [Moana 2 adds one good song to the Disney canon, but not much else](https://www.polygon.com/review/485444/moana-2-review-songs)
- - [Valve was going to ship The Orange Box in a white box before staff &#39;destroyed&#39; the idea, and yes they saw you all doubting Portal before release: &#39;You guys are gonna eat those words&#39;](https://www.pcgamer.com/games/fps/valve-was-going-to-ship-the-orange-box-in-a-white-box-before-staff-destroyed-the-idea-and-yes-they-saw-you-all-doubting-portal-before-release-you-guys-are-gonna-eat-those-words)<!-- GAME:END -->
+ - [Moana 2 adds one good song to the Disney canon, but not much else](https://www.polygon.com/review/485444/moana-2-review-songs)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
