@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This is so beautiful, I love her smile](http://9gag.com/gag/aD2dmrO)
- - ⏩ [Your fav neighbor](http://9gag.com/gag/a87E4DZ)
- - 👉 [A romantic interlude.](http://9gag.com/gag/a4PEL01)<!-- MEMES:END -->
+ - 💣 [Breaking open a 47 lbs geode, the water inside being millions of years old](http://9gag.com/gag/a2v7YOw)
+ - ⏩ [It\u2019s called Bangkok honey](http://9gag.com/gag/aBy2YNO)
+ - 👉 [Acting like it vs. Being it](http://9gag.com/gag/aLnp9BP)<!-- MEMES:END -->
 
 ---
 
