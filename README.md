@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Evolving, just backwards](http://9gag.com/gag/aMVKGZW)
- - ⏩ [Man uses a 100,000 lumen flashlight to escape from the cops](http://9gag.com/gag/azxMjdq)
- - 👉 [Deep Johnny Depp](http://9gag.com/gag/aLnpD6M)<!-- MEMES:END -->
+ - 💣 [Wondering if this was one of those shit tests they make to have the guy fight for them](http://9gag.com/gag/amoPzZd)
+ - ⏩ [Evolving, just backwards](http://9gag.com/gag/aMVKGZW)
+ - 👉 [The last image of Keith Spasford, a 14 year old australian boy who wanted to explore the world, so he snuck to a plane wheel well, it opened in mid-air and the boy fell out. the photographer was just testing his new lenses and was shocked after developing those images](http://9gag.com/gag/aGypDv0)<!-- MEMES:END -->
 
 ---
 
