@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Neo-Nazis Are on the March Across America](https://www.wired.com/story/neo-nazi-demonstrations-trump/)
- - [Apple chipmaker TSMC struggles to please both U.S. and Chinese officials](https://appleinsider.com/articles/24/11/26/apple-chipmaker-tsmc-struggles-to-please-both-us-and-chinese-officials?utm_medium=rss)
- - [Huawei’s Mate 70 smartphones will run its new Android-free OS](https://www.theverge.com/2024/11/26/24306370/huawei-mate-70-pro-plus-android-google-harmonyos-next)<!-- TECH:END -->
+ - [Android 15 QPR2 is preparing a new way to declutter your lock screen notifications](https://www.androidauthority.com/android-lock-screen-notification-minimalism-3503283/)
+ - [My first Matter smart home experience has been a frustrating disaster](https://www.androidauthority.com/tado-x-matter-thermostat-frustrating-disaster-3502864/)
+ - [Insane Hulu deal gets you 90% off the service for an entire year](https://www.androidauthority.com/hulu-deal-black-friday-2024-3503263/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
