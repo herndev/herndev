@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Robot Dreams, now on Hulu, shows how much poignant animation can stand on its own](https://www.polygon.com/animation-cartoons/484278/robot-dreams-hulu-watch-streaming-ending)
- - [When does the Double XP weekend start and Prop Hunt release in Black Ops 6?](https://www.polygon.com/black-ops-6-guides/481856/prop-hunt-double-xp-weekend-start-release-time)
- - [Former Atlus artist raises a glass to Metaphor: ReFantazio character designer and their mastery of &#39;sex appeal&#39; that transcends stereotypes](https://www.pcgamer.com/games/rpg/former-atlus-artist-raises-a-glass-to-metaphor-refantazio-character-designer-and-their-mastery-of-sex-appeal-that-transcends-stereotypes)<!-- GAME:END -->
+ - [A Destiny 2 bug was causing a niche exotic to delete raid bosses in seconds, so of course it&#39;s already been disabled](https://www.pcgamer.com/games/fps/a-destiny-2-bug-was-causing-a-niche-exotic-to-delete-raid-bosses-in-seconds-so-of-course-its-already-been-disabled)
+ - [Lenovo Legion Tower 5i &lpar;Gen8&rpar; review](https://www.pcgamer.com/hardware/gaming-pcs/lenovo-legion-tower-5i-gen8-review)
+ - [Stop Panicking! Zelda: Echoes Of Wisdom Is On Nintendo&#39;s Official Timeline](https://kotaku.com/zelda-echoes-of-wisdom-nintendo-timeline-1851708148)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
