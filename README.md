@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The TTRPG to play after STALKER 2](https://www.polygon.com/tabletop-games/485695/stalker-2-rad-hipolita-ttrpg-tabletop-roleplaying-game)
- - [The Witcher 4 is finally in full production: &#39;Ahead of us lies the main and most intense stage of development&#39;](https://www.pcgamer.com/games/rpg/the-witcher-4-is-finally-in-full-production-ahead-of-us-lies-the-main-and-most-intense-stage-of-development)
- - [Moana 2 adds one good song to the Disney canon, but not much else](https://www.polygon.com/review/485444/moana-2-review-songs)<!-- GAME:END -->
+ - [Zacian counters, weakness, and best moveset in Pokémon Go](https://www.polygon.com/pokemon-go-guide/485702/zacian-counters-weakness-best-moveset)
+ - [Zamazenta counters, weakness, and best moveset in Pokémon Go](https://www.polygon.com/pokemon-go-guide/485747/zamazenta-counters-weakness-best-moveset)
+ - [Play Dungeons &amp;#038; Dragons online in the world of Critical Role](https://www.polygon.com/tabletop-games/485797/critical-role-alchemy-taldorei-reborn-virtual-tabletop-vtt)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
