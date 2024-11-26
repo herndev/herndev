@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [HUAWEI is officially done with Android starting next year](https://www.androidauthority.com/huawei-harmonyos-next-debut-3503312/)
- - [Elon Musk learns how EV charging works from Pete Buttigieg](https://www.theverge.com/2024/11/26/24306385/elon-musk-pete-buttigieg-nevi-funding-ev-chargers-explainer)
- - [What’s the best Lifeline plan available and how much can you save?](https://www.androidauthority.com/best-lifeline-plan-3502587/)<!-- TECH:END -->
+ - [A lawsuit between two Amazon influencers over allegations of copyright infringement shows the challenges of defining originality and ownership in content &lpar;Mia Sato/The Verge&rpar;](http://www.techmeme.com/241126/p17#a241126p17)
+ - [Hulu’s best Black Friday deal is back with $.99 a month for an entire year](https://www.theverge.com/2024/11/26/24306632/hulu-disney-plus-ads-bundle-black-friday-deal-sale)
+ - [Threads says 35 million users signed up in November](https://www.theverge.com/2024/11/26/24306591/threads-35-million-signups-november-growth)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
