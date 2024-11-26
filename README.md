@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A ransomware attack on Blue Yonder, a major supply chain software provider, is disrupting operations at Starbucks, the UK&#39;s Sainsbury&#39;s, and other retailers &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/241125/p28#a241125p28)
- - [Here&#39;s How to Get an Extra $200 for Amazon Black Friday Deals](https://www.cnet.com/personal-finance/credit-cards/heres-how-to-get-an-extra-200-for-amazon-black-friday-deals/#ftag=CAD590a51e)
- - [Google explains how the Pixel Buds Pro 2 became its best earbuds yet](https://www.androidauthority.com/pixel-buds-pro-2-design-explained-3503003/)<!-- TECH:END -->
+ - [Brazil&#39;s antitrust regulator says Apple must allow app developers to link to external payment methods and to offer other in-app payment processing options &lpar;Reuters&rpar;](http://www.techmeme.com/241125/p29#a241125p29)
+ - [CNET Money&#39;s Expert Review Board](https://www.cnet.com/how-to/financial-review-board/#ftag=CAD590a51e)
+ - [19 Best Black Friday Deals on Bedding for Your Holiday Shopping](https://www.cnet.com/deals/best-black-friday-bedding-deals-2024/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
