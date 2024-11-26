@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [3 Simple Rules to Beat the Downsides of Aging](https://www.wired.com/story/three-simple-rules-to-beat-the-downsides-of-aging/)
- - [Gemini could soon get a huge upgrade for analyzing code &lpar;APK teardown&rpar;](https://www.androidauthority.com/gemini-code-folder-analysis-apk-teardown-3503105/)
- - [Samsung found another use for folding screens: Handheld gaming devices](https://www.androidauthority.com/samsung-folding-gaming-handheld-3503111/)<!-- TECH:END -->
+ - [What Is Generative AI? Everything to Know About the Tech Behind ChatGPT and Gemini](https://www.cnet.com/tech/services-and-software/what-is-generative-ai-everything-to-know-about-the-tech-behind-chatgpt-and-gemini/#ftag=CAD590a51e)
+ - [The Galaxy S25 May Be Samsung&#39;s Last. Why Smaller Phones Are Disappearing](https://www.cnet.com/tech/mobile/the-galaxy-s25-may-be-samsungs-last-why-smaller-phones-are-disappearing/#ftag=CAD590a51e)
+ - [The Virtual Villages Helping Digital Nomads Find Real-World Friends](https://www.wired.com/story/virtual-villages-for-digital-nomads/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
