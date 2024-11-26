@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [This is so beautiful, I love her smile](http://9gag.com/gag/aD2dmrO)
- - ⏩ [Man uses a 100,000 lumen flashlight to escape from the cops](http://9gag.com/gag/azxMjdq)
- - 👉 [No more than unbabatabletomato](http://9gag.com/gag/ae9Apgm)<!-- MEMES:END -->
+ - ⏩ [Your fav neighbor](http://9gag.com/gag/a87E4DZ)
+ - 👉 [A romantic interlude.](http://9gag.com/gag/a4PEL01)<!-- MEMES:END -->
 
 ---
 
