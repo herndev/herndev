@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Title](http://9gag.com/gag/aBy2rQ1)
- - ⏩ [Man uses a 100,000 lumen flashlight to escape from the cops](http://9gag.com/gag/azxMjdq)
- - 👉 [Breaking open a 47 lbs geode, the water inside being millions of years old](http://9gag.com/gag/a2v7YOw)<!-- MEMES:END -->
+ - 💣 [Wholesome posts that I saved #6](http://9gag.com/gag/aryM4g5)
+ - ⏩ [Bus driver having bad crash in his dream. Izmir, Turkey](http://9gag.com/gag/avy5PoE)
+ - 👉 [Lois was toxic AF but in her defense Clark was a manipulative gaslighter](http://9gag.com/gag/aAybwPE)<!-- MEMES:END -->
 
 ---
 
