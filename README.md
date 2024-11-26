@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A lawsuit between two Amazon influencers over allegations of copyright infringement shows the challenges of defining originality and ownership in content &lpar;Mia Sato/The Verge&rpar;](http://www.techmeme.com/241126/p17#a241126p17)
- - [Hulu’s best Black Friday deal is back with $.99 a month for an entire year](https://www.theverge.com/2024/11/26/24306632/hulu-disney-plus-ads-bundle-black-friday-deal-sale)
- - [Threads says 35 million users signed up in November](https://www.theverge.com/2024/11/26/24306591/threads-35-million-signups-november-growth)<!-- TECH:END -->
+ - [Google preps new features for Android desktop windowing, including a minimize button](https://www.androidauthority.com/android-desktop-windowing-minimize-3503367/)
+ - [Want Verizon’s best priority and speeds for less? I’ve highlighted 6 options that offer just that](https://www.androidauthority.com/verizon-high-priority-carriers-3500062/)
+ - [More retractable cables, please](https://www.theverge.com/2024/11/26/24306616/counterpart-charger-retractable-usb-c-charging-cable)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
