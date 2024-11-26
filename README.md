@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Motorbiker giving advice to couple on a bridge](http://9gag.com/gag/aMVKGEA)
- - ⏩ [Big brother is washing](http://9gag.com/gag/a1mrdDG)
- - 👉 [No more than unbabatabletomato](http://9gag.com/gag/ae9Apgm)<!-- MEMES:END -->
+ - 💣 [Evolving, just backwards](http://9gag.com/gag/aMVKGZW)
+ - ⏩ [Man uses a 100,000 lumen flashlight to escape from the cops](http://9gag.com/gag/azxMjdq)
+ - 👉 [Deep Johnny Depp](http://9gag.com/gag/aLnpD6M)<!-- MEMES:END -->
 
 ---
 
