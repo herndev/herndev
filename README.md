@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Poll result: Kindle fans would love to see Amazon bring the Oasis back](https://www.androidauthority.com/kindle-oasis-poll-results-3503347/)
- - [HP reports Q4 revenue up 1.7% YoY to $14.1B, Personal Systems revenue up 2% to $9.59B vs. $9.74B est., forecasts Q1 profit below est.; HPQ drops 7%+ after hours &lpar;Brody Ford/Bloomberg&rpar;](http://www.techmeme.com/241126/p22#a241126p22)
- - [CrowdStrike reports Q3 revenue up 29% YoY to $1.01B, vs. $982.8M est., a $16.8M loss, compared to a $26.7M profit a year earlier, and raises its FY 2025 outlook &lpar;Connor Hart/Wall Street Journal&rpar;](http://www.techmeme.com/241126/p21#a241126p21)<!-- TECH:END -->
+ - [The FCC approves a license for SpaceX and T-Mobile to use Starlink to offer supplemental coverage from space in a bid to extend internet access to remote areas &lpar;David Shepardson/Reuters&rpar;](http://www.techmeme.com/241126/p24#a241126p24)
+ - [A group published a project on Hugging Face that seemingly granted brief access to OpenAI&#39;s Sora, protesting what it calls duplicity and &quot;art washing&quot; by OpenAI &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/241126/p23#a241126p23)
+ - [Mac mini M4 Pro review: Mac Studio power, miniaturized](https://appleinsider.com/articles/24/11/26/mac-mini-m4-pro-review-mac-studio-power-miniaturized?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
