@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [X files an objection to including X accounts belonging or related to Infowars in the outlet&#39;s bankruptcy auction, arguing it has ownership of all X accounts &lpar;Jason Koebler/404 Media&rpar;](http://www.techmeme.com/241126/p18#a241126p18)
- - [New Pixel market data suggests Google’s victory lap will have to wait](https://www.androidauthority.com/pixel-market-share-dip-3503339/)
- - [Best Black Friday Mattress Deals for Sweet Dreams &lpar;2024&rpar;](https://www.wired.com/story/best-black-friday-mattress-deals-2024/)<!-- TECH:END -->
+ - [Poll result: Kindle fans would love to see Amazon bring the Oasis back](https://www.androidauthority.com/kindle-oasis-poll-results-3503347/)
+ - [HP reports Q4 revenue up 1.7% YoY to $14.1B, Personal Systems revenue up 2% to $9.59B vs. $9.74B est., forecasts Q1 profit below est.; HPQ drops 7%+ after hours &lpar;Brody Ford/Bloomberg&rpar;](http://www.techmeme.com/241126/p22#a241126p22)
+ - [CrowdStrike reports Q3 revenue up 29% YoY to $1.01B, vs. $982.8M est., a $16.8M loss, compared to a $26.7M profit a year earlier, and raises its FY 2025 outlook &lpar;Connor Hart/Wall Street Journal&rpar;](http://www.techmeme.com/241126/p21#a241126p21)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
