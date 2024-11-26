@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Android 15 QPR2 is preparing a new way to declutter your lock screen notifications](https://www.androidauthority.com/android-lock-screen-notification-minimalism-3503283/)
- - [My first Matter smart home experience has been a frustrating disaster](https://www.androidauthority.com/tado-x-matter-thermostat-frustrating-disaster-3502864/)
- - [Insane Hulu deal gets you 90% off the service for an entire year](https://www.androidauthority.com/hulu-deal-black-friday-2024-3503263/)<!-- TECH:END -->
+ - [HUAWEI is officially done with Android starting next year](https://www.androidauthority.com/huawei-harmonyos-next-debut-3503312/)
+ - [Elon Musk learns how EV charging works from Pete Buttigieg](https://www.theverge.com/2024/11/26/24306385/elon-musk-pete-buttigieg-nevi-funding-ev-chargers-explainer)
+ - [What’s the best Lifeline plan available and how much can you save?](https://www.androidauthority.com/best-lifeline-plan-3502587/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
