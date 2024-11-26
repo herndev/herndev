@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Man uses a 100,000 lumen flashlight to escape from the cops](http://9gag.com/gag/azxMjdq)
- - ⏩ [No more than unbabatabletomato](http://9gag.com/gag/ae9Apgm)
- - 👉 [*Final Boss Enters The Room*](http://9gag.com/gag/a1mrYN6)<!-- MEMES:END -->
+ - 💣 [Well it\u2019s really difficult](http://9gag.com/gag/aAybPRE)
+ - ⏩ [Hitting the jackpot twice but still managing to lose all](http://9gag.com/gag/aD2djNG)
+ - 👉 [Bro chose the right person](http://9gag.com/gag/apRNLx8)<!-- MEMES:END -->
 
 ---
 
