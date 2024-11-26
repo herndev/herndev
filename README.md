@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [A Very Good Star Wars Game You Might Have Missed Is Coming To PC Soon](https://kotaku.com/star-wars-hunters-pc-console-port-steam-phone-overwatch-1851708516)
- - [Bad news for skull-havers: The Skulltaker is here to take your skull in Total War: Warhammer 3&#39;s just-announced DLC](https://www.pcgamer.com/games/strategy/bad-news-for-skull-havers-the-skulltaker-is-here-to-take-your-skull-in-total-warhammer-3s-just-announced-dlc)
- - [We&#39;re getting a new and improved Geoff Keighley added to Fortnite using MetaHuman technology, ready for The Game Awards](https://www.pcgamer.com/games/battle-royale/were-getting-a-new-and-improved-geoff-keighley-added-to-fortnite-using-metahuman-technology-ready-for-the-game-awards)<!-- GAME:END -->
+ - [Moana 2 adds one good song to the Disney canon, but not much else](https://www.polygon.com/review/485444/moana-2-review-songs)
+ - [Valve was going to ship The Orange Box in a white box before staff &#39;destroyed&#39; the idea, and yes they saw you all doubting Portal before release: &#39;You guys are gonna eat those words&#39;](https://www.pcgamer.com/games/fps/valve-was-going-to-ship-the-orange-box-in-a-white-box-before-staff-destroyed-the-idea-and-yes-they-saw-you-all-doubting-portal-before-release-you-guys-are-gonna-eat-those-words)
+ - [Nintendo adds Echoes of Wisdom to the official Zelda timeline](https://www.polygon.com/news/485500/legend-zelda-echoes-of-wisdom-timeline-lore)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
