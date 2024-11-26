@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Daddy metaphor](http://9gag.com/gag/apRNB6n)
+ - 💣 [Motorbiker giving advice to couple on a bridge](http://9gag.com/gag/aMVKGEA)
  - ⏩ [Big brother is washing](http://9gag.com/gag/a1mrdDG)
- - 👉 [Motorbiker giving advice to couple on a bridge](http://9gag.com/gag/aMVKGEA)<!-- MEMES:END -->
+ - 👉 [No more than unbabatabletomato](http://9gag.com/gag/ae9Apgm)<!-- MEMES:END -->
 
 ---
 
