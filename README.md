@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [When I’m buying tech, battery life is my top concern, not performance](https://www.androidauthority.com/battery-life-opinion-3502120/)
- - [Baldur’s Gate 3 has yet another big patch on the way](https://www.theverge.com/2024/11/27/24307746/baldurs-gate-3-patch-8-cross-play-photo-mode)
- - [Price drop: Save 40% on the Anker Prime 20,000mAh power bank](https://www.androidauthority.com/anker-prime-power-bank-deals-3503797/)<!-- TECH:END -->
+ - [FTC changes its telemarketing rules to cover growing ‘tech support scam’ calls](https://www.theverge.com/2024/11/27/24307766/ftc-telemarketing-fraud-rules-tech-support-scam)
+ - [US to Introduce New Restrictions on China’s Access to Cutting-Edge Chips](https://www.wired.com/story/memory-restrictions-china-advanced-chips/)
+ - [Spotify will no longer allow developers building new third-party apps with its Web API to access several features, such as song and artist recommendations &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/241127/p33#a241127p33)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
