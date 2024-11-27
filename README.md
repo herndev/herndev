@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [My new survival game obsession looks like Minecraft but is way more complex—and you won&#39;t find it on Steam](https://www.pcgamer.com/games/survival-crafting/my-new-survival-game-obsession-looks-like-minecraft-but-is-way-more-complex-and-you-wont-find-it-on-steam)
- - [Put Your Phone Away And Just Watch The Movie](https://kotaku.com/wicked-singing-theater-phone-taking-pictures-screen-1851708935)
- - [Our favorite early Black Friday deals](https://www.polygon.com/black-friday/475289/best-early-deals)<!-- GAME:END -->
+ - [PlayStation&#39;s Shuhei Yoshida Leaving Sony After 31 Years](https://kotaku.com/shuhei-yoshida-playstation-sony-retirement-30th-ps5-1851709015)
+ - [Somehow this Japanese cult classic brings intense arcade action to… train driving simulators?](https://www.pcgamer.com/games/sim/somehow-this-japanese-cult-classic-brings-intense-arcade-action-to-train-driving-simulators)
+ - [Official PlayStation Podcast Episode 502: All Good Things](https://blog.playstation.com/2024/11/26/official-playstation-podcast-episode-502-all-good-things/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
