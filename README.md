@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Verge’s 2024 holiday gift guide for moms](https://www.theverge.com/24224046/best-gift-ideas-mom-holiday-unique-2024-tech-gadgets)
- - [Starlink’s direct-to-cell satellite service is the first to receive FCC approval](https://www.theverge.com/2024/11/27/24307394/starlink-spacex-tmobile-direct-to-cell-satellite-fcc-approval)
- - [You can now wear Apple’s running shoe emoji](https://www.theverge.com/2024/11/27/24307338/jose-wong-running-abcd-shoe-1-apple-emoji-fashion-streetwear)<!-- TECH:END -->
+ - [11 Best Umbrellas &lpar;2024&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-umbrellas/)
+ - [Raspberry Pi Compute Module 5 review: the new $45+ module is a compact Pi 5 alternative with more power than the CM4, but doesn&#39;t work with a passive cooler &lpar;Les Pounder/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/241127/p21#a241127p21)
+ - [The best Bluetooth trackers for finding your stuff](https://www.theverge.com/23769840/best-bluetooth-trackers)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
