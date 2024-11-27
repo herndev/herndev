@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Indie Selects for November &lpar;and Some Cool Announcements!&rpar;](https://news.xbox.com/en-us/2024/11/27/indie-selects-november-id-xbox/)
- - [In the wake of that stunning, devastating finale, Arcane still feels like a television miracle](https://www.polygon.com/review/485794/arcane-league-legends-season-2-review-finale-jinx-vi-ekko-act-3)
- - [&#39;A true, raw, emotional display of what our life is genuinely like&#39;—how a documentary about a WoW player gave a vivid window into the lives of disabled gamers](https://www.pcgamer.com/games/world-of-warcraft/a-true-raw-emotional-display-of-what-our-life-is-genuinely-like-how-a-documentary-about-a-wow-player-gave-a-vivid-window-into-the-lives-of-disabled-gamers)<!-- GAME:END -->
+ - [Interscope Records Launches Custom Juice WRLD Fortnite Island and Juice WRLD-inspired Xbox Design Lab Controllers](https://news.xbox.com/en-us/2024/11/27/xbox-juice-wrld-fortnite-controllers/)
+ - [CD Projekt confirms the live-action Cyberpunk project is still happening: &#39;We&#39;re for sure further in than we were a year ago&#39;](https://www.pcgamer.com/movies-tv/cd-projekt-confirms-the-live-action-cyberpunk-project-is-still-happening-were-for-sure-further-in-than-we-were-a-year-ago)
+ - [Two Of The Best PS2 Games Ever Are Coming To PS Plus Next Month](https://kotaku.com/ps-plus-games-december-2024-classics-ps2-sly-cooper-jak-1851709425)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
