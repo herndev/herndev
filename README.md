@@ -40,8 +40,8 @@
 
 <!-- TECH:START -->
  - [Hulu Promo Codes and Discounts: 90% Off for Select Users](https://www.wired.com/story/hulu-promo-code/)
- - [A look at the evolution of China&#39;s semiconductor industry and Huawei under US export controls, as GPUs become the new focal point of US-China tech competition &lpar;Paul Triolo/American Affairs Journal&rpar;](http://www.techmeme.com/241127/p6#a241127p6)
- - [Therabody Promo Codes and Deals: Save Up to $300](https://www.wired.com/story/therabody-promo-code/)<!-- TECH:END -->
+ - [Google Messages fixes Profile Discovery privacy oversight, here’s what to do next](https://www.androidauthority.com/google-message-profile-discovery-privacy-options-3503498/)
+ - [Google Translate could make life easier with Sticky Translation mode &lpar;APK Teardown&rpar;](https://www.androidauthority.com/google-translate-sticky-translation-mode-apk-teardown-3503503/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
