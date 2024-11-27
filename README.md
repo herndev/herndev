@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Big brother is washing](http://9gag.com/gag/a1mrdDG)
- - ⏩ [Wondering if this was one of those shit tests they make to have the guy fight for them](http://9gag.com/gag/amoPzZd)
- - 👉 [Motorbiker giving advice to couple on a bridge](http://9gag.com/gag/aMVKGEA)<!-- MEMES:END -->
+ - 💣 [Acting like it vs. Being it](http://9gag.com/gag/aLnp9BP)
+ - ⏩ [A piece of paper would be fine.](http://9gag.com/gag/ajPmqPQ)
+ - 👉 [Frustrated sexually](http://9gag.com/gag/a5QEZxL)<!-- MEMES:END -->
 
 ---
 
