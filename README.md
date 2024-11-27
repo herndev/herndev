@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The DJI Mini 3 is $100 off and matching its record low for Black Friday](https://www.theverge.com/2024/11/27/24307470/black-friday-deal-drone-dji-mini-3-cyber-monday)
- - [Razr devices can start signing up for the Moto AI beta](https://www.androidauthority.com/moto-ai-beta-rollout-3503693/)
- - [The Future of Online Privacy Hinges on Thousands of New Jersey Cops](https://www.wired.com/story/daniels-law-new-jersey-online-privacy-matt-adkisson-atlas-lawsuits/)<!-- TECH:END -->
+ - [Kobo’s color e-reader is a far better deal than Amazon’s new Kindle Colorsoft](https://www.theverge.com/2024/11/27/24307532/black-friday-best-deal-e-reader-kobo-libra-colour-cyber-monday)
+ - [Belkin recalls its BoostCharge Pro power bank due to fire risk](https://www.theverge.com/2024/11/27/24307644/belkin-recall-boostcharge-pro-fast-wireless-charger-bpd005-power-bank-apple-watch)
+ - [Galaxy S25 FCC listing confirms key specs and at least one surprising downgrade](https://www.androidauthority.com/galaxy-s25-fcc-listing-3503726/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
