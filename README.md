@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [US police are testing Axon&#39;s Draft One, an AI tool that generates police reports directly from Axon&#39;s bodycam audio, with 75 officers in Colorado and elsewhere &lpar;Barbara Booth/CNBC&rpar;](http://www.techmeme.com/241127/p16#a241127p16)
- - [14 Best Soundbars, Editor Tested and Reviewed &lpar;2024&rpar;: Sonos, Samsung, Yamaha, Sony, Bose](https://www.wired.com/gallery/best-soundbars/)
- - [How to turn your old phone into a dash cam](https://www.androidauthority.com/how-to-turn-old-phone-dash-cam-3503544/)<!-- TECH:END -->
+ - [The Verge’s 2024 holiday gift guide for moms](https://www.theverge.com/24224046/best-gift-ideas-mom-holiday-unique-2024-tech-gadgets)
+ - [Starlink’s direct-to-cell satellite service is the first to receive FCC approval](https://www.theverge.com/2024/11/27/24307394/starlink-spacex-tmobile-direct-to-cell-satellite-fcc-approval)
+ - [You can now wear Apple’s running shoe emoji](https://www.theverge.com/2024/11/27/24307338/jose-wong-running-abcd-shoe-1-apple-emoji-fashion-streetwear)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
