@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Elon Musk wants to ‘make games great again’ with AI studio](https://www.polygon.com/news/486495/elon-musk-ai-games-studio-announced-x-twitter)
- - [Instead of Minecraft 1.22, Mojang is releasing its first planned content &#39;drop&#39; next week with the new Pale Garden biome](https://www.pcgamer.com/games/survival-crafting/instead-of-minecraft-1-22-mojang-is-releasing-its-first-planned-content-drop-next-week-with-the-new-pale-garden-biome)
- - [The Balatro Takeover Has Only Just Begun](https://kotaku.com/balatro-goty-game-awards-app-store-steam-sale-1851709617)<!-- GAME:END -->
+ - [Exodus, Wizards&amp;#8217; big AAA video game gamble, is getting a TTRPG — but there’s no telling what how it will play](https://www.polygon.com/news/486599/exodus-wizards-big-aaa-video-game-gamble-is-getting-a-ttrpg-but-theres-no-telling-what-how-it-will-play)
+ - [Elon Musk says too many game studios are owned by giant corporations so his giant corporation is going to start a studio to &#39;make games great again&#39;](https://www.pcgamer.com/gaming-industry/elon-musk-says-too-many-game-studios-are-owned-by-giant-corporations-so-his-giant-corporation-is-going-to-start-a-studio-to-make-games-great-again)
+ - [Our favorite early Black Friday deals](https://www.polygon.com/black-friday/475289/best-early-deals)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
