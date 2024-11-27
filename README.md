@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Interscope Records Launches Custom Juice WRLD Fortnite Island and Juice WRLD-inspired Xbox Design Lab Controllers](https://news.xbox.com/en-us/2024/11/27/xbox-juice-wrld-fortnite-controllers/)
- - [CD Projekt confirms the live-action Cyberpunk project is still happening: &#39;We&#39;re for sure further in than we were a year ago&#39;](https://www.pcgamer.com/movies-tv/cd-projekt-confirms-the-live-action-cyberpunk-project-is-still-happening-were-for-sure-further-in-than-we-were-a-year-ago)
- - [Two Of The Best PS2 Games Ever Are Coming To PS Plus Next Month](https://kotaku.com/ps-plus-games-december-2024-classics-ps2-sly-cooper-jak-1851709425)<!-- GAME:END -->
+ - [Baldur’s Gate 3 getting yet another gargantuan update in 2025](https://www.polygon.com/news/486378/baldurs-gate-3-update-patch-8-crossplay-photo-mode-subclass-larian-studios)
+ - [Baldur&#39;s Gate 3 is going out with a big bang with 12 new subclasses, so you can finally become a drunken master or maybe just befriend some bees, along with cross-play and a photo mode](https://www.pcgamer.com/games/baldurs-gate/baldurs-gate-3-is-going-out-with-a-big-bang-with-12-new-subclasses-so-you-can-finally-become-a-drunken-master-or-maybe-just-befriend-some-bees-along-with-cross-play-and-a-photo-mode)
+ - [Everything Coming In Baldur’s Gate 3’s Eighth Big Patch](https://kotaku.com/baldurs-gate-3-patch-8-cross-play-photo-mode-date-1851709476)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
