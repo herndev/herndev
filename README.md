@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Why r u gey?](http://9gag.com/gag/azxMrYB)
- - ⏩ [Stop that!](http://9gag.com/gag/aBy2WL2)
- - 👉 [The last image of Keith Spasford, a 14 year old australian boy who wanted to explore the world, so he snuck to a plane wheel well, it opened in mid-air and the boy fell out. the photographer was just testing his new lenses and was shocked after developing those images](http://9gag.com/gag/aGypDv0)<!-- MEMES:END -->
+ - 💣 [Just another sleepless night](http://9gag.com/gag/aLnpggv)
+ - ⏩ [It was delicious. Thank you](http://9gag.com/gag/aLnpjvV)
+ - 👉 [So lego got competition](http://9gag.com/gag/aE0pxAx)<!-- MEMES:END -->
 
 ---
 
