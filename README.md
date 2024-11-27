@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Frustrated sexually](http://9gag.com/gag/a5QEZxL)
- - ⏩ [Motorbiker giving advice to couple on a bridge](http://9gag.com/gag/aMVKGEA)
- - 👉 [Act with dignity Infront of your father](http://9gag.com/gag/axyMDDn)<!-- MEMES:END -->
+ - 💣 [Big brother is washing](http://9gag.com/gag/a1mrdDG)
+ - ⏩ [Wondering if this was one of those shit tests they make to have the guy fight for them](http://9gag.com/gag/amoPzZd)
+ - 👉 [Motorbiker giving advice to couple on a bridge](http://9gag.com/gag/aMVKGEA)<!-- MEMES:END -->
 
 ---
 
