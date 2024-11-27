@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Destiny 2 Tinasha&#39;s Mastery god roll guide: Best perks, Magazine and Launcher Barrel](https://www.pcgamer.com/games/fps/destiny-2-tinashas-mastery-god-roll-best-perks)
- - [Disney’s Revival Era Animated Films, Ranked From Worst To Best](https://kotaku.com/disney-movies-best-worst-ranking-frozen-moana-tangled-1851708848)
- - [If you loved Arcane, you should play Dishonored 2](https://www.polygon.com/what-to-play/485461/game-like-arcane-dishonored-2-league-of-legends-lol)<!-- GAME:END -->
+ - [How to cook a Gingerbread House in Disney Dreamlight Valley](https://www.pcgamer.com/games/life-sim/disney-dreamlight-valley-gingerbread-house-recipe)
+ - [Here&#39;s Where To Mine Magma And Pure Ice In Disney Dreamlight Valley](https://kotaku.com/disney-dreamlight-valley-storybook-vale-magma-pure-ice-1851708732)
+ - [If you&#39;re secretly way too proud of your Excel skills, does this dev have the game for you: &#39;While other kids were dreaming of spaceships, I was dreaming of spreadsheets&#39;](https://www.pcgamer.com/games/puzzle/if-youre-secretly-way-too-proud-of-your-excel-skills-does-this-dev-have-the-game-for-you-while-other-kids-were-dreaming-of-spaceships-i-was-dreaming-of-spreadsheets)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
