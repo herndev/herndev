@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The old school vs the iVy league entitled.....](http://9gag.com/gag/aPA3W5R)
- - ⏩ [Lois was toxic AF but in her defense Clark was a manipulative gaslighter](http://9gag.com/gag/aAybwPE)
- - 👉 [That time when Sacha Baron Cohen put his ass in Eminem&#39;s face](http://9gag.com/gag/a0e7jXQ)<!-- MEMES:END -->
+ - 💣 [99 Cent Pizza is actually 2 Dollar Pizza](http://9gag.com/gag/ajPmEYp)
+ - ⏩ [Hold on](http://9gag.com/gag/aNDpAeb)
+ - 👉 [This is what we call miscalculation.](http://9gag.com/gag/a4PEjWw)<!-- MEMES:END -->
 
 ---
 
