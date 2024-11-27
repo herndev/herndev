@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Exodus, Wizards&amp;#8217; big AAA video game gamble, is getting a TTRPG — but there’s no telling what how it will play](https://www.polygon.com/news/486599/exodus-wizards-big-aaa-video-game-gamble-is-getting-a-ttrpg-but-theres-no-telling-what-how-it-will-play)
- - [Elon Musk says too many game studios are owned by giant corporations so his giant corporation is going to start a studio to &#39;make games great again&#39;](https://www.pcgamer.com/gaming-industry/elon-musk-says-too-many-game-studios-are-owned-by-giant-corporations-so-his-giant-corporation-is-going-to-start-a-studio-to-make-games-great-again)
- - [Our favorite early Black Friday deals](https://www.polygon.com/black-friday/475289/best-early-deals)<!-- GAME:END -->
+ - [Microsoft Flight Simulator 2024 review](https://www.pcgamer.com/games/sim/microsoft-flight-simulator-2024-review)
+ - [These 11 Raw Fury games run well on Steam Deck, and are $15 at Humble](https://www.polygon.com/good-deals/486577/raw-fury-humble-norco-sable-dome-keeper-deal)
+ - [Every Bob&#39;s Burgers Thanksgiving Episode, Ranked](https://kotaku.com/bobs-burgers-thanksgiving-episodes-list-ranked-best-1851709655)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
