@@ -46,7 +46,7 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Wondering if this was one of those shit tests they make to have the guy fight for them](http://9gag.com/gag/amoPzZd)
+ - 💣 [That look](http://9gag.com/gag/a9yEr76)
  - ⏩ [This is what we call miscalculation.](http://9gag.com/gag/a4PEjWw)
  - 👉 [Honestly, it\u2019s crazy how much they shave off](http://9gag.com/gag/apRNLBp)<!-- MEMES:END -->
 
