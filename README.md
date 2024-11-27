@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Act with dignity Infront of your father](http://9gag.com/gag/axyMDDn)
+ - 💣 [That look](http://9gag.com/gag/a9yEr76)
  - ⏩ [Lois was toxic AF but in her defense Clark was a manipulative gaslighter](http://9gag.com/gag/aAybwPE)
- - 👉 [Gentle reminder that our content funds this:](http://9gag.com/gag/abAV0Kp)<!-- MEMES:END -->
+ - 👉 [Honestly, it\u2019s crazy how much they shave off](http://9gag.com/gag/apRNLBp)<!-- MEMES:END -->
 
 ---
 
