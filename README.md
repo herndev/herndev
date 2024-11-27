@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Acting like it vs. Being it](http://9gag.com/gag/aLnp9BP)
- - ⏩ [A piece of paper would be fine.](http://9gag.com/gag/ajPmqPQ)
- - 👉 [Frustrated sexually](http://9gag.com/gag/a5QEZxL)<!-- MEMES:END -->
+ - 💣 [Wanna see something funny?](http://9gag.com/gag/apRNro9)
+ - ⏩ [I really shouldnt put my dick in there...however](http://9gag.com/gag/azxMA3Z)
+ - 👉 [That time when Sacha Baron Cohen put his ass in Eminem&#39;s face](http://9gag.com/gag/a0e7jXQ)<!-- MEMES:END -->
 
 ---
 
