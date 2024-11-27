@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Shuhei Yoshida, the man behind the most savage gaming roast of all time, leaves PlayStation after 31 years: &#39;It&#39;s been a dream job&#39;](https://www.pcgamer.com/gaming-industry/shuhei-yoshida-the-man-behind-the-most-savage-gaming-roast-of-all-time-leaves-playstation-after-31-years-its-been-a-dream-job)
- - [Save up to 90% on Hulu, Max, and more streaming services for Black Friday](https://www.polygon.com/black-friday/485706/streaming-deals-hulu-max-peacock-paramount)
- - [Blizzard is finally coming after chronic Mythic+ ditchers in WoW, suspending players &#39;who repeatedly and recklessly disrupted&#39; groups for funsies](https://www.pcgamer.com/games/world-of-warcraft/blizzard-is-finally-coming-after-chronic-mythic-ditchers-in-wow-suspending-players-who-repeatedly-and-recklessly-disrupted-groups-for-funsies)<!-- GAME:END -->
+ - [Destiny 2 Tinasha&#39;s Mastery god roll guide: Best perks, Magazine and Launcher Barrel](https://www.pcgamer.com/games/fps/destiny-2-tinashas-mastery-god-roll-best-perks)
+ - [Disney’s Revival Era Animated Films, Ranked From Worst To Best](https://kotaku.com/disney-movies-best-worst-ranking-frozen-moana-tangled-1851708848)
+ - [If you loved Arcane, you should play Dishonored 2](https://www.polygon.com/what-to-play/485461/game-like-arcane-dishonored-2-league-of-legends-lol)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
