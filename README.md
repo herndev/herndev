@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Best Pimple Patches for Every Skin Type](https://www.wired.com/story/how-do-pimple-patches-work/)
- - [Samsung Galaxy S25 series rumors and leaks: Everything we know so far](https://www.androidauthority.com/samsung-galaxy-s25-3437280/)
- - [Singapore, which has clear AV guidelines, is deploying self-driving buses and more as a way to overcome labor shortages and use its scarce land more efficiently &lpar;Sandy Ong/Rest of World&rpar;](http://www.techmeme.com/241127/p9#a241127p9)<!-- TECH:END -->
+ - [Amsterdam-based Just Eat plans to delist from the London Stock Exchange on December 27 owing to the low liquidity, shifting to just an Amsterdam listing &lpar;Sarah Jacob/Bloomberg&rpar;](http://www.techmeme.com/241127/p12#a241127p12)
+ - [Apple fails to ride global 2024 smartphone boom with Apple Intelligence](https://appleinsider.com/articles/24/11/27/apple-fails-to-ride-global-2024-smartphone-boom-with-apple-intelligence?utm_medium=rss)
+ - [Why an Offline Nuclear Reactor Led to Thousands of Hospital Appointments Being Canceled](https://www.wired.com/story/why-an-offline-nuclear-reactor-led-to-thousands-of-hospital-appointments-being-cancelled/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
