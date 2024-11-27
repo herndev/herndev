@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Trump&#39;s team interviewed Paul Atkins, a former SEC commissioner and strong proponent of crypto and fintech companies, as a candidate to lead the SEC &lpar;Bloomberg&rpar;](http://www.techmeme.com/241127/p28#a241127p28)
- - [A designer just transformed this shoe emoji into a real-life sneaker you can buy](https://www.androidauthority.com/real-life-running-shoe-emoji-3503725/)
- - [The best deals of Black Friday 2024: Phones, smart home devices, and a whole lot more](https://www.androidauthority.com/black-friday-deals-2024-3499762/)<!-- TECH:END -->
+ - [When I’m buying tech, battery life is my top concern, not performance](https://www.androidauthority.com/battery-life-opinion-3502120/)
+ - [Baldur’s Gate 3 has yet another big patch on the way](https://www.theverge.com/2024/11/27/24307746/baldurs-gate-3-patch-8-cross-play-photo-mode)
+ - [Price drop: Save 40% on the Anker Prime 20,000mAh power bank](https://www.androidauthority.com/anker-prime-power-bank-deals-3503797/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
