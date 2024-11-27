@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Acting like it vs. Being it](http://9gag.com/gag/aLnp9BP)
- - ⏩ [A piece of paper would be fine.](http://9gag.com/gag/ajPmqPQ)
- - 👉 [That\u2019s pretty awesome](http://9gag.com/gag/a1mroAR)<!-- MEMES:END -->
+ - 💣 [Act with dignity Infront of your father](http://9gag.com/gag/axyMDDn)
+ - ⏩ [Lois was toxic AF but in her defense Clark was a manipulative gaslighter](http://9gag.com/gag/aAybwPE)
+ - 👉 [Gentle reminder that our content funds this:](http://9gag.com/gag/abAV0Kp)<!-- MEMES:END -->
 
 ---
 
