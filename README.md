@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How to cook a Gingerbread House in Disney Dreamlight Valley](https://www.pcgamer.com/games/life-sim/disney-dreamlight-valley-gingerbread-house-recipe)
- - [Here&#39;s Where To Mine Magma And Pure Ice In Disney Dreamlight Valley](https://kotaku.com/disney-dreamlight-valley-storybook-vale-magma-pure-ice-1851708732)
- - [If you&#39;re secretly way too proud of your Excel skills, does this dev have the game for you: &#39;While other kids were dreaming of spaceships, I was dreaming of spreadsheets&#39;](https://www.pcgamer.com/games/puzzle/if-youre-secretly-way-too-proud-of-your-excel-skills-does-this-dev-have-the-game-for-you-while-other-kids-were-dreaming-of-spaceships-i-was-dreaming-of-spreadsheets)<!-- GAME:END -->
+ - [Warhammer 40,000: Darktide brings grimdark co-op to PlayStation with PS5 Pro enhancements on Dec 3](https://blog.playstation.com/2024/11/27/warhammer-40000-darktide-brings-grimdark-co-op-to-playstation-with-ps5-pro-enhancements-on-dec-3/)
+ - [Team Ricochet is combating cheaters in Call of Duty: Black Ops 6 with &#39;hourly sweeps&#39; and &#39;AI systems&#39; but even with over 19,000 bans, players aren&#39;t seeing the results](https://www.pcgamer.com/games/call-of-duty/team-ricochet-is-combating-cheaters-in-call-of-duty-black-ops-6-with-hourly-sweeps-and-ai-systems-but-even-with-over-19-000-bans-players-arent-seeing-the-results)
+ - [The Rock to theater kids: sing at the movies, ‘you’ve paid’](https://www.polygon.com/news/486030/the-rock-to-theater-kids-sing-at-the-movies-youve-paid)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
