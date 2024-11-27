@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amsterdam-based Just Eat plans to delist from the London Stock Exchange on December 27 owing to the low liquidity, shifting to just an Amsterdam listing &lpar;Sarah Jacob/Bloomberg&rpar;](http://www.techmeme.com/241127/p12#a241127p12)
- - [Apple fails to ride global 2024 smartphone boom with Apple Intelligence](https://appleinsider.com/articles/24/11/27/apple-fails-to-ride-global-2024-smartphone-boom-with-apple-intelligence?utm_medium=rss)
- - [Why an Offline Nuclear Reactor Led to Thousands of Hospital Appointments Being Canceled](https://www.wired.com/story/why-an-offline-nuclear-reactor-led-to-thousands-of-hospital-appointments-being-cancelled/)<!-- TECH:END -->
+ - [This could be our first look at next year’s best mid-ranger in the US](https://www.androidauthority.com/oneplus-13r-leaked-renders-3503567/)
+ - [A look at the UK&#39;s planned Digital Markets Unit, which will regulate US tech companies under the DMCC, passed in May 2024, and have the power to halt any M&amp;A &lpar;Ashley Rindsberg/Pirate Wires&rpar;](http://www.techmeme.com/241127/p15#a241127p15)
+ - [Apple donating $5 per Apple Store purchase made with Apple Pay for World AIDS Day](https://appleinsider.com/articles/24/11/27/apple-donating-5-per-apple-store-purchase-made-with-apple-pay-for-world-aids-day?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
