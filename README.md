@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [This could be our first look at next year’s best mid-ranger in the US](https://www.androidauthority.com/oneplus-13r-leaked-renders-3503567/)
- - [A look at the UK&#39;s planned Digital Markets Unit, which will regulate US tech companies under the DMCC, passed in May 2024, and have the power to halt any M&amp;A &lpar;Ashley Rindsberg/Pirate Wires&rpar;](http://www.techmeme.com/241127/p15#a241127p15)
- - [Apple donating $5 per Apple Store purchase made with Apple Pay for World AIDS Day](https://appleinsider.com/articles/24/11/27/apple-donating-5-per-apple-store-purchase-made-with-apple-pay-for-world-aids-day?utm_medium=rss)<!-- TECH:END -->
+ - [US police are testing Axon&#39;s Draft One, an AI tool that generates police reports directly from Axon&#39;s bodycam audio, with 75 officers in Colorado and elsewhere &lpar;Barbara Booth/CNBC&rpar;](http://www.techmeme.com/241127/p16#a241127p16)
+ - [14 Best Soundbars, Editor Tested and Reviewed &lpar;2024&rpar;: Sonos, Samsung, Yamaha, Sony, Bose](https://www.wired.com/gallery/best-soundbars/)
+ - [How to turn your old phone into a dash cam](https://www.androidauthority.com/how-to-turn-old-phone-dash-cam-3503544/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
