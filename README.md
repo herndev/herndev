@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The amazing Narwal Freo Z Ultra cleaning robot is $400 off, hitting record-low price](https://www.androidauthority.com/narwal-freo-z-ultra-deal-2-3503470/)
- - [Best Internet Providers in the Bronx, New York](https://www.cnet.com/home/internet/best-internet-providers-in-the-bronx-ny/#ftag=CAD590a51e)
- - [Best Black Friday Soundbar Deals: We’ve Found Huge Savings on Top Brands Like Samsung, Vizio and More](https://www.cnet.com/deals/best-black-friday-soundbar-deals-2024-11-26/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Evolv reaches an agreement to resolve an FTC inquiry alleging the company made false claims about its AI-powered security system&#39;s ability to screen for weapons &lpar;Stephen Nakrosis/Wall Street Journal&rpar;](http://www.techmeme.com/241126/p29#a241126p29)
+ - [Best Black Friday Deals That Are Live Now: 70+ Deals on TVs, Laptops, Headphones and More](https://www.cnet.com/deals/best-black-friday-deals-live-2024-11-26/#ftag=CAD590a51e)
+ - [My Hands-On Experience With AT&amp;T Internet Air: Here&#39;s What I Learned](https://www.cnet.com/home/internet/my-hands-on-experience-with-at-t-internet-air-heres-what-i-learned/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
