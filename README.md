@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [A V-shaped bed invented in 1932, supporting the body perfectly at every point and thus promotes better rest.](http://9gag.com/gag/aNDpzjr)
- - ⏩ [Kindergarten teacher](http://9gag.com/gag/adB8KwB)
- - 👉 [Dad telling the waiter his daughter thought he was cute](http://9gag.com/gag/aAybDQd)<!-- MEMES:END -->
+ - 💣 [That look](http://9gag.com/gag/a9yEr76)
+ - ⏩ [Stop that!](http://9gag.com/gag/aBy2WL2)
+ - 👉 [They all have the same birthday](http://9gag.com/gag/a6ZEo32)<!-- MEMES:END -->
 
 ---
 
