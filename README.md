@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle answer for Wednesday, November 27](https://www.pcgamer.com/games/puzzle/wordle-answer-today-november-27-2024)
  - [Squid Game season 2 trailer gets to the big question](https://www.polygon.com/tv/485981/squid-game-season-2-trailer)
- - [PlayStation&#39;s Shuhei Yoshida Leaving Sony After 31 Years](https://kotaku.com/shuhei-yoshida-playstation-sony-retirement-30th-ps5-1851709015)
- - [Somehow this Japanese cult classic brings intense arcade action to… train driving simulators?](https://www.pcgamer.com/games/sim/somehow-this-japanese-cult-classic-brings-intense-arcade-action-to-train-driving-simulators)<!-- GAME:END -->
+ - [PlayStation&#39;s Shuhei Yoshida Leaving Sony After 31 Years](https://kotaku.com/shuhei-yoshida-playstation-sony-retirement-30th-ps5-1851709015)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
