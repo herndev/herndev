@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Frustrated sexually](http://9gag.com/gag/a5QEZxL)
- - ⏩ [I really shouldnt put my dick in there...however](http://9gag.com/gag/azxMA3Z)
- - 👉 [Dream job!](http://9gag.com/gag/azxMjNN)<!-- MEMES:END -->
+ - ⏩ [Motorbiker giving advice to couple on a bridge](http://9gag.com/gag/aMVKGEA)
+ - 👉 [Act with dignity Infront of your father](http://9gag.com/gag/axyMDDn)<!-- MEMES:END -->
 
 ---
 
