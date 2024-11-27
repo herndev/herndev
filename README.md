@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Just another sleepless night](http://9gag.com/gag/aLnpggv)
- - ⏩ [It was delicious. Thank you](http://9gag.com/gag/aLnpjvV)
- - 👉 [So lego got competition](http://9gag.com/gag/aE0pxAx)<!-- MEMES:END -->
+ - 💣 [A V-shaped bed invented in 1932, supporting the body perfectly at every point and thus promotes better rest.](http://9gag.com/gag/aNDpzjr)
+ - ⏩ [Why would one do that](http://9gag.com/gag/ajPmNnQ)
+ - 👉 [They all have the same birthday](http://9gag.com/gag/a6ZEo32)<!-- MEMES:END -->
 
 ---
 
