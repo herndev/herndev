@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Evolv reaches an agreement to resolve an FTC inquiry alleging the company made false claims about its AI-powered security system&#39;s ability to screen for weapons &lpar;Stephen Nakrosis/Wall Street Journal&rpar;](http://www.techmeme.com/241126/p29#a241126p29)
- - [Best Black Friday Deals That Are Live Now: 70+ Deals on TVs, Laptops, Headphones and More](https://www.cnet.com/deals/best-black-friday-deals-live-2024-11-26/#ftag=CAD590a51e)
- - [My Hands-On Experience With AT&amp;T Internet Air: Here&#39;s What I Learned](https://www.cnet.com/home/internet/my-hands-on-experience-with-at-t-internet-air-heres-what-i-learned/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [OpenAI suspends access to Sora in response to a group of artists leaking access to the tool in protest of the company&#39;s treatment of creative professionals &lpar;Nitasha Tiku/Washington Post&rpar;](http://www.techmeme.com/241126/p31#a241126p31)
+ - [Samsung names Young Hyun Jun as its co-CEO as well as head of its memory chip business and appoints Jinman Han as the company president and foundry unit head &lpar;Reuters&rpar;](http://www.techmeme.com/241126/p30#a241126p30)
+ - [Best Black Friday Deals That Are Live Now: 70+ Deals on TVs, Laptops, Headphones and More](https://www.cnet.com/deals/best-black-friday-deals-live-2024-11-26/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
