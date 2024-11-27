@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Blizzard is finally coming after chronic Mythic+ ditchers in WoW, suspending players &#39;who repeatedly and recklessly disrupted&#39; groups for funsies](https://www.pcgamer.com/games/world-of-warcraft/blizzard-is-finally-coming-after-chronic-mythic-ditchers-in-wow-suspending-players-who-repeatedly-and-recklessly-disrupted-groups-for-funsies)
- - [Regieleki counters, weakness, and best moveset in Pokémon Go](https://www.polygon.com/pokemon-go-guide/485577/regieleki-counters-weakness-best-moveset)
- - [Regidrago counters, weakness, and best moveset in Pokémon Go](https://www.polygon.com/pokemon-go-guide/485650/regidrago-counters-weakness-best-moveset)<!-- GAME:END -->
+ - [Shuhei Yoshida, the man behind the most savage gaming roast of all time, leaves PlayStation after 31 years: &#39;It&#39;s been a dream job&#39;](https://www.pcgamer.com/gaming-industry/shuhei-yoshida-the-man-behind-the-most-savage-gaming-roast-of-all-time-leaves-playstation-after-31-years-its-been-a-dream-job)
+ - [Save up to 90% on Hulu, Max, and more streaming services for Black Friday](https://www.polygon.com/black-friday/485706/streaming-deals-hulu-max-peacock-paramount)
+ - [Blizzard is finally coming after chronic Mythic+ ditchers in WoW, suspending players &#39;who repeatedly and recklessly disrupted&#39; groups for funsies](https://www.pcgamer.com/games/world-of-warcraft/blizzard-is-finally-coming-after-chronic-mythic-ditchers-in-wow-suspending-players-who-repeatedly-and-recklessly-disrupted-groups-for-funsies)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
