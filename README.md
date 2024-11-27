@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Our favorite early Black Friday deals](https://www.polygon.com/black-friday/475289/best-early-deals)
- - [Zacian counters, weakness, and best moveset in Pokémon Go](https://www.polygon.com/pokemon-go-guide/485702/zacian-counters-weakness-best-moveset)
- - [Zamazenta counters, weakness, and best moveset in Pokémon Go](https://www.polygon.com/pokemon-go-guide/485747/zamazenta-counters-weakness-best-moveset)<!-- GAME:END -->
+ - [My new survival game obsession looks like Minecraft but is way more complex—and you won&#39;t find it on Steam](https://www.pcgamer.com/games/survival-crafting/my-new-survival-game-obsession-looks-like-minecraft-but-is-way-more-complex-and-you-wont-find-it-on-steam)
+ - [Put Your Phone Away And Just Watch The Movie](https://kotaku.com/wicked-singing-theater-phone-taking-pictures-screen-1851708935)
+ - [Our favorite early Black Friday deals](https://www.polygon.com/black-friday/475289/best-early-deals)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
