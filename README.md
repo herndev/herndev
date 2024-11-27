@@ -33,8 +33,8 @@
 
 <!-- GAME:START -->
  - [Regieleki counters, weakness, and best moveset in Pokémon Go](https://www.polygon.com/pokemon-go-guide/485577/regieleki-counters-weakness-best-moveset)
- - [Today&#39;s Wordle answer for Wednesday, November 27](https://www.pcgamer.com/games/puzzle/wordle-answer-today-november-27-2024)
- - [Squid Game season 2 trailer gets to the big question](https://www.polygon.com/tv/485981/squid-game-season-2-trailer)<!-- GAME:END -->
+ - [Regidrago counters, weakness, and best moveset in Pokémon Go](https://www.polygon.com/pokemon-go-guide/485650/regidrago-counters-weakness-best-moveset)
+ - [Today&#39;s Wordle answer for Wednesday, November 27](https://www.pcgamer.com/games/puzzle/wordle-answer-today-november-27-2024)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
