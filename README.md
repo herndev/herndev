@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Hulu Promo Codes and Discounts: 90% Off for Select Users](https://www.wired.com/story/hulu-promo-code/)
- - [Google Messages fixes Profile Discovery privacy oversight, here’s what to do next](https://www.androidauthority.com/google-message-profile-discovery-privacy-options-3503498/)
- - [Google Translate could make life easier with Sticky Translation mode &lpar;APK Teardown&rpar;](https://www.androidauthority.com/google-translate-sticky-translation-mode-apk-teardown-3503503/)<!-- TECH:END -->
+ - [Game console makers rethink selling more powerful machines, as performance improvements become less dramatic and consumers can&#39;t tell between 4K and 8K graphics &lpar;Bloomberg&rpar;](http://www.techmeme.com/241127/p8#a241127p8)
+ - [Study: about 85% of US unicorn startups that have gone public were unprofitable in 2023, despite most having been founded more than fifteen years earlier &lpar;Jeffrey Funk/American Affairs Journal&rpar;](http://www.techmeme.com/241127/p7#a241127p7)
+ - [Hulu Promo Codes and Discounts: 90% Off for Select Users](https://www.wired.com/story/hulu-promo-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
