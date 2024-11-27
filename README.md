@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The FCC approves a license for SpaceX and T-Mobile to use Starlink to offer supplemental coverage from space in a bid to extend internet access to remote areas &lpar;David Shepardson/Reuters&rpar;](http://www.techmeme.com/241126/p24#a241126p24)
- - [A group published a project on Hugging Face that seemingly granted brief access to OpenAI&#39;s Sora, protesting what it calls duplicity and &quot;art washing&quot; by OpenAI &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/241126/p23#a241126p23)
- - [Mac mini M4 Pro review: Mac Studio power, miniaturized](https://appleinsider.com/articles/24/11/26/mac-mini-m4-pro-review-mac-studio-power-miniaturized?utm_medium=rss)<!-- TECH:END -->
+ - [Save 50% on the Google Nest Audio, our favorite smart speaker](https://www.androidauthority.com/google-nest-audio-deal-6-3503408/)
+ - [Long-delayed Pixel Watch 3 Performance Loop Band is now finally available for purchase](https://www.androidauthority.com/pixel-watch-performance-loop-band-3503450/)
+ - [Black Friday blowout deals drive M3 MacBook Pro prices down to $1,199+](https://appleinsider.com/articles/24/11/26/black-friday-blowout-deals-drive-m3-macbook-pro-prices-down-to-1199?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
