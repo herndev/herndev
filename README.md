@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Baldur’s Gate 3 getting yet another gargantuan update in 2025](https://www.polygon.com/news/486378/baldurs-gate-3-update-patch-8-crossplay-photo-mode-subclass-larian-studios)
- - [Baldur&#39;s Gate 3 is going out with a big bang with 12 new subclasses, so you can finally become a drunken master or maybe just befriend some bees, along with cross-play and a photo mode](https://www.pcgamer.com/games/baldurs-gate/baldurs-gate-3-is-going-out-with-a-big-bang-with-12-new-subclasses-so-you-can-finally-become-a-drunken-master-or-maybe-just-befriend-some-bees-along-with-cross-play-and-a-photo-mode)
- - [Everything Coming In Baldur’s Gate 3’s Eighth Big Patch](https://kotaku.com/baldurs-gate-3-patch-8-cross-play-photo-mode-date-1851709476)<!-- GAME:END -->
+ - [20 years later, World of Warcraft is still on top](https://www.pcgamer.com/games/world-of-warcraft/20-years-later-world-of-warcraft-is-still-on-top)
+ - [Pokémon Go ‘Max Out: Finale’ event guide](https://www.polygon.com/pokemon-go-guide/486290/max-out-finale-event-galarian-corsola-timed-research-ticket)
+ - [Steam&#39;s Big Fall Sale Is Live And Here Are Some Of The Best Deals](https://kotaku.com/steam-2024-best-biggest-deals-balatro-helldivers-hades-1851709508)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
