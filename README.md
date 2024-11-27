@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [That look](http://9gag.com/gag/a9yEr76)
- - ⏩ [Lois was toxic AF but in her defense Clark was a manipulative gaslighter](http://9gag.com/gag/aAybwPE)
+ - 💣 [Wondering if this was one of those shit tests they make to have the guy fight for them](http://9gag.com/gag/amoPzZd)
+ - ⏩ [This is what we call miscalculation.](http://9gag.com/gag/a4PEjWw)
  - 👉 [Honestly, it\u2019s crazy how much they shave off](http://9gag.com/gag/apRNLBp)<!-- MEMES:END -->
 
 ---
