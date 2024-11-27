@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [An investigation suggests the third suspect behind the hacks of Snowflake clients may be a US Army soldier who is or was recently stationed in South Korea &lpar;Brian Krebs/Krebs on Security&rpar;](http://www.techmeme.com/241126/p34#a241126p34)
- - [Spotify says Wrapped 2024 is ‘right around the corner’](https://www.androidauthority.com/spotify-wrapped-2024-release-date-3503476/)
- - [Wherobots, which offers a cloud-based platform to process and analyze geospatial data from satellites and other sources, raised a $21.5M Series A led by Felicis &lpar;Allie Garfinkle/Fortune&rpar;](http://www.techmeme.com/241126/p33#a241126p33)<!-- TECH:END -->
+ - [The US gets its first Snapdragon 8 Elite phone with Android 15 out of the box](https://www.androidauthority.com/nubia-z70-ultra-us-availability-3503482/)
+ - [Sources: OpenAI is letting current and former staff sell ~$1.5B worth of restricted stock in a new tender offer to SoftBank in a deal spurred by Masayoshi Son &lpar;CNBC&rpar;](http://www.techmeme.com/241127/p2#a241127p2)
+ - [Bluesky says it is up to outside orgs to respect user consent, after a Hugging Face employee published a dataset of 1M posts from Bluesky&#39;s API for ML research &lpar;Samantha Cole/404 Media&rpar;](http://www.techmeme.com/241127/p1#a241127p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
