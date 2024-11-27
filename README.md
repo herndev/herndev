@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Can AI help connect more solar and wind farms to the power grid?](https://www.theverge.com/2024/11/27/24307399/ai-solar-wind-energy-power-grid-doe-funding-interconnection)
- - [Former Android leaders are building an ‘operating system for AI agents’](https://www.theverge.com/2024/11/27/24307525/android-leaders-dev-agents-ai-agent-operating-system-startup)
- - [The 11 Best TVs We’ve Reviewed, Plus Buying Advice &lpar;2024&rpar;](https://www.wired.com/gallery/best-tvs/)<!-- TECH:END -->
+ - [The DJI Mini 3 is $100 off and matching its record low for Black Friday](https://www.theverge.com/2024/11/27/24307470/black-friday-deal-drone-dji-mini-3-cyber-monday)
+ - [Razr devices can start signing up for the Moto AI beta](https://www.androidauthority.com/moto-ai-beta-rollout-3503693/)
+ - [The Future of Online Privacy Hinges on Thousands of New Jersey Cops](https://www.wired.com/story/daniels-law-new-jersey-online-privacy-matt-adkisson-atlas-lawsuits/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
