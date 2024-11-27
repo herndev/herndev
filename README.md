@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Warhammer 40,000: Darktide brings grimdark co-op to PlayStation with PS5 Pro enhancements on Dec 3](https://blog.playstation.com/2024/11/27/warhammer-40000-darktide-brings-grimdark-co-op-to-playstation-with-ps5-pro-enhancements-on-dec-3/)
- - [Team Ricochet is combating cheaters in Call of Duty: Black Ops 6 with &#39;hourly sweeps&#39; and &#39;AI systems&#39; but even with over 19,000 bans, players aren&#39;t seeing the results](https://www.pcgamer.com/games/call-of-duty/team-ricochet-is-combating-cheaters-in-call-of-duty-black-ops-6-with-hourly-sweeps-and-ai-systems-but-even-with-over-19-000-bans-players-arent-seeing-the-results)
- - [The Rock to theater kids: sing at the movies, ‘you’ve paid’](https://www.polygon.com/news/486030/the-rock-to-theater-kids-sing-at-the-movies-youve-paid)<!-- GAME:END -->
+ - [Indie Selects for November &lpar;and Some Cool Announcements!&rpar;](https://news.xbox.com/en-us/2024/11/27/indie-selects-november-id-xbox/)
+ - [In the wake of that stunning, devastating finale, Arcane still feels like a television miracle](https://www.polygon.com/review/485794/arcane-league-legends-season-2-review-finale-jinx-vi-ekko-act-3)
+ - [&#39;A true, raw, emotional display of what our life is genuinely like&#39;—how a documentary about a WoW player gave a vivid window into the lives of disabled gamers](https://www.pcgamer.com/games/world-of-warcraft/a-true-raw-emotional-display-of-what-our-life-is-genuinely-like-how-a-documentary-about-a-wow-player-gave-a-vivid-window-into-the-lives-of-disabled-gamers)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
