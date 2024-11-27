@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon&#39;s $399 iPad mini 7 deal arrives for Black Friday](https://appleinsider.com/articles/24/11/27/amazons-399-ipad-mini-7-deal-arrives-for-black-friday?utm_medium=rss)
- - [Sources: Elon Musk has given investors, who backed his $44B Twitter acquisition, 25% of the shares in xAI, which is set to close a $5B round at a $50B valuation &lpar;Financial Times&rpar;](http://www.techmeme.com/241127/p3#a241127p3)
- - [This Verizon offer could save you hundreds of dollars over the next year](https://www.androidauthority.com/verizon-10-per-line-loyalty-discount-3503495/)<!-- TECH:END -->
+ - [Hulu Promo Codes and Discounts: 90% Off for Select Users](https://www.wired.com/story/hulu-promo-code/)
+ - [A look at the evolution of China&#39;s semiconductor industry and Huawei under US export controls, as GPUs become the new focal point of US-China tech competition &lpar;Paul Triolo/American Affairs Journal&rpar;](http://www.techmeme.com/241127/p6#a241127p6)
+ - [Therabody Promo Codes and Deals: Save Up to $300](https://www.wired.com/story/therabody-promo-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
