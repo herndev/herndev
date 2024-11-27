@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Kobo’s color e-reader is a far better deal than Amazon’s new Kindle Colorsoft](https://www.theverge.com/2024/11/27/24307532/black-friday-best-deal-e-reader-kobo-libra-colour-cyber-monday)
- - [Belkin recalls its BoostCharge Pro power bank due to fire risk](https://www.theverge.com/2024/11/27/24307644/belkin-recall-boostcharge-pro-fast-wireless-charger-bpd005-power-bank-apple-watch)
- - [Galaxy S25 FCC listing confirms key specs and at least one surprising downgrade](https://www.androidauthority.com/galaxy-s25-fcc-listing-3503726/)<!-- TECH:END -->
+ - [Sources: Trump&#39;s team interviewed Paul Atkins, a former SEC commissioner and strong proponent of crypto and fintech companies, as a candidate to lead the SEC &lpar;Bloomberg&rpar;](http://www.techmeme.com/241127/p28#a241127p28)
+ - [A designer just transformed this shoe emoji into a real-life sneaker you can buy](https://www.androidauthority.com/real-life-running-shoe-emoji-3503725/)
+ - [The best deals of Black Friday 2024: Phones, smart home devices, and a whole lot more](https://www.androidauthority.com/black-friday-deals-2024-3499762/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
