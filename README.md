@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Acting like it vs. Being it](http://9gag.com/gag/aLnp9BP)
- - ⏩ [A piece of paper would be fine.](http://9gag.com/gag/ajPmqPQ)
- - 👉 [I really shouldnt put my dick in there...however](http://9gag.com/gag/azxMA3Z)<!-- MEMES:END -->
+ - 💣 [German finest](http://9gag.com/gag/a7oE7Ax)
+ - ⏩ [Lois was toxic AF but in her defense Clark was a manipulative gaslighter](http://9gag.com/gag/aAybwPE)
+ - 👉 [Motorbiker giving advice to couple on a bridge](http://9gag.com/gag/aMVKGEA)<!-- MEMES:END -->
 
 ---
 
