@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The US gets its first Snapdragon 8 Elite phone with Android 15 out of the box](https://www.androidauthority.com/nubia-z70-ultra-us-availability-3503482/)
- - [Sources: OpenAI is letting current and former staff sell ~$1.5B worth of restricted stock in a new tender offer to SoftBank in a deal spurred by Masayoshi Son &lpar;CNBC&rpar;](http://www.techmeme.com/241127/p2#a241127p2)
- - [Bluesky says it is up to outside orgs to respect user consent, after a Hugging Face employee published a dataset of 1M posts from Bluesky&#39;s API for ML research &lpar;Samantha Cole/404 Media&rpar;](http://www.techmeme.com/241127/p1#a241127p1)<!-- TECH:END -->
+ - [Amazon&#39;s $399 iPad mini 7 deal arrives for Black Friday](https://appleinsider.com/articles/24/11/27/amazons-399-ipad-mini-7-deal-arrives-for-black-friday?utm_medium=rss)
+ - [Sources: Elon Musk has given investors, who backed his $44B Twitter acquisition, 25% of the shares in xAI, which is set to close a $5B round at a $50B valuation &lpar;Financial Times&rpar;](http://www.techmeme.com/241127/p3#a241127p3)
+ - [This Verizon offer could save you hundreds of dollars over the next year](https://www.androidauthority.com/verizon-10-per-line-loyalty-discount-3503495/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
