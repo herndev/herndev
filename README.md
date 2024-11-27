@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google’s new chess game lets you customize pieces with AI](https://www.theverge.com/2024/11/27/24307438/google-genchess-generative-ai-chess-pieces)
- - [Breaking down the DOJ’s plan to end Google’s search monopoly](https://www.theverge.com/2024/11/27/24302415/doj-google-search-antitrust-remedies-chrome-android)
- - [Smallest Mac yet is perfect Apple Vision Pro companion with the right battery pack](https://appleinsider.com/articles/24/11/27/smallest-mac-yet-is-perfect-apple-vision-pro-companion-with-the-right-battery-pack?utm_medium=rss)<!-- TECH:END -->
+ - [Can AI help connect more solar and wind farms to the power grid?](https://www.theverge.com/2024/11/27/24307399/ai-solar-wind-energy-power-grid-doe-funding-interconnection)
+ - [Former Android leaders are building an ‘operating system for AI agents’](https://www.theverge.com/2024/11/27/24307525/android-leaders-dev-agents-ai-agent-operating-system-startup)
+ - [The 11 Best TVs We’ve Reviewed, Plus Buying Advice &lpar;2024&rpar;](https://www.wired.com/gallery/best-tvs/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
