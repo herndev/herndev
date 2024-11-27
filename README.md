@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [20 years later, World of Warcraft is still on top](https://www.pcgamer.com/games/world-of-warcraft/20-years-later-world-of-warcraft-is-still-on-top)
- - [Pokémon Go ‘Max Out: Finale’ event guide](https://www.polygon.com/pokemon-go-guide/486290/max-out-finale-event-galarian-corsola-timed-research-ticket)
- - [Steam&#39;s Big Fall Sale Is Live And Here Are Some Of The Best Deals](https://kotaku.com/steam-2024-best-biggest-deals-balatro-helldivers-hades-1851709508)<!-- GAME:END -->
+ - [Elon Musk wants to ‘make games great again’ with AI studio](https://www.polygon.com/news/486495/elon-musk-ai-games-studio-announced-x-twitter)
+ - [Instead of Minecraft 1.22, Mojang is releasing its first planned content &#39;drop&#39; next week with the new Pale Garden biome](https://www.pcgamer.com/games/survival-crafting/instead-of-minecraft-1-22-mojang-is-releasing-its-first-planned-content-drop-next-week-with-the-new-pale-garden-biome)
+ - [The Balatro Takeover Has Only Just Begun](https://kotaku.com/balatro-goty-game-awards-app-store-steam-sale-1851709617)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
