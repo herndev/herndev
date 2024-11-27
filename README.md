@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Game console makers rethink selling more powerful machines, as performance improvements become less dramatic and consumers can&#39;t tell between 4K and 8K graphics &lpar;Bloomberg&rpar;](http://www.techmeme.com/241127/p8#a241127p8)
- - [Study: about 85% of US unicorn startups that have gone public were unprofitable in 2023, despite most having been founded more than fifteen years earlier &lpar;Jeffrey Funk/American Affairs Journal&rpar;](http://www.techmeme.com/241127/p7#a241127p7)
- - [Hulu Promo Codes and Discounts: 90% Off for Select Users](https://www.wired.com/story/hulu-promo-code/)<!-- TECH:END -->
+ - [The Best Pimple Patches for Every Skin Type](https://www.wired.com/story/how-do-pimple-patches-work/)
+ - [Samsung Galaxy S25 series rumors and leaks: Everything we know so far](https://www.androidauthority.com/samsung-galaxy-s25-3437280/)
+ - [Singapore, which has clear AV guidelines, is deploying self-driving buses and more as a way to overcome labor shortages and use its scarce land more efficiently &lpar;Sandy Ong/Rest of World&rpar;](http://www.techmeme.com/241127/p9#a241127p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
