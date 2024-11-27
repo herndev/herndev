@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [99 Cent Pizza is actually 2 Dollar Pizza](http://9gag.com/gag/ajPmEYp)
- - ⏩ [Hold on](http://9gag.com/gag/aNDpAeb)
- - 👉 [This is what we call miscalculation.](http://9gag.com/gag/a4PEjWw)<!-- MEMES:END -->
+ - 💣 [A V-shaped bed invented in 1932, supporting the body perfectly at every point and thus promotes better rest.](http://9gag.com/gag/aNDpzjr)
+ - ⏩ [In the final scene of Bong Joon-Ho\u2019s 2003 film Memories of Murder based on the Hwaesong Serial Killer. The detective stares into the camera as if he\u2019s looking at the killer. The real life killer Lee Choon-Jae watched the film with his family before his capture in 2019.](http://9gag.com/gag/aAybPdg)
+ - 👉 [Connor McGregor vs Boxing Machine](http://9gag.com/gag/avy57vn)<!-- MEMES:END -->
 
 ---
 
