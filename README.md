@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [That look](http://9gag.com/gag/a9yEr76)
- - ⏩ [This is what we call miscalculation.](http://9gag.com/gag/a4PEjWw)
- - 👉 [Honestly, it\u2019s crazy how much they shave off](http://9gag.com/gag/apRNLBp)<!-- MEMES:END -->
+ - 💣 [The old school vs the iVy league entitled.....](http://9gag.com/gag/aPA3W5R)
+ - ⏩ [Lois was toxic AF but in her defense Clark was a manipulative gaslighter](http://9gag.com/gag/aAybwPE)
+ - 👉 [That time when Sacha Baron Cohen put his ass in Eminem&#39;s face](http://9gag.com/gag/a0e7jXQ)<!-- MEMES:END -->
 
 ---
 
