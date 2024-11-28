@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Connor McGregor vs Boxing Machine](http://9gag.com/gag/avy57vn)
- - ⏩ [She&#39;s wrong you know.](http://9gag.com/gag/aGypeB7)
- - 👉 [Bro was like: are you f**king serious?](http://9gag.com/gag/an7Q96b)<!-- MEMES:END -->
+ - 💣 [Where my Gamer bois at?](http://9gag.com/gag/aVv7wvv)
+ - ⏩ [Bro was like: are you f**king serious?](http://9gag.com/gag/an7Q96b)
+ - 👉 [Cheaper than divorce](http://9gag.com/gag/aRBX1KA)<!-- MEMES:END -->
 
 ---
 
