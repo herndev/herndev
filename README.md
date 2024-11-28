@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Connor McGregor vs Boxing Machine](http://9gag.com/gag/avy57vn)
- - ⏩ [Streaming Cable](http://9gag.com/gag/a7oErLb)
- - 👉 [How to correctly Hans a hornet nest...](http://9gag.com/gag/a34EqdN)<!-- MEMES:END -->
+ - 💣 [Skilled flip flopper](http://9gag.com/gag/abAVY4L)
+ - ⏩ [Therapy? who need it!](http://9gag.com/gag/azxM9gB)
+ - 👉 [He could be depressed?](http://9gag.com/gag/a9yEKE1)<!-- MEMES:END -->
 
 ---
 
