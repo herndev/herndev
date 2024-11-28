@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Geniedislikescloud](http://9gag.com/gag/aBy2xdZ)
- - ⏩ [Bro was like: are you f**king serious?](http://9gag.com/gag/an7Q96b)
- - 👉 [Black queens are in shock](http://9gag.com/gag/a34EM5v)<!-- MEMES:END -->
+ - 💣 [Black queens are in shock](http://9gag.com/gag/a34EM5v)
+ - ⏩ [Cheaper than divorce](http://9gag.com/gag/aRBX1KA)
+ - 👉 [Geniedislikescloud](http://9gag.com/gag/aBy2xdZ)<!-- MEMES:END -->
 
 ---
 
