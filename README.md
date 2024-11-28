@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Its lit allright](http://9gag.com/gag/aXPojog)
- - ⏩ [Kindergarten teacher](http://9gag.com/gag/adB8KwB)
- - 👉 [Women using the `man` filter &lpar;sound on&rpar;](http://9gag.com/gag/aXPoj2d)<!-- MEMES:END -->
+ - 💣 [Women using the `man` filter &lpar;sound on&rpar;](http://9gag.com/gag/aXPoj2d)
+ - ⏩ [Zero to hundred](http://9gag.com/gag/a0e7b3q)
+ - 👉 [DB Cooper may have been identified! Siblings say their late father was the hijacker after finding a matching parachute. FBI investigating.](http://9gag.com/gag/a87E3WZ)<!-- MEMES:END -->
 
 ---
 
