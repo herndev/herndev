@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [FTC changes its telemarketing rules to cover growing ‘tech support scam’ calls](https://www.theverge.com/2024/11/27/24307766/ftc-telemarketing-fraud-rules-tech-support-scam)
- - [US to Introduce New Restrictions on China’s Access to Cutting-Edge Chips](https://www.wired.com/story/memory-restrictions-china-advanced-chips/)
- - [Spotify will no longer allow developers building new third-party apps with its Web API to access several features, such as song and artist recommendations &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/241127/p33#a241127p33)<!-- TECH:END -->
+ - [Microsoft says it’s built an Xbox game store on Android but can’t launch it](https://www.theverge.com/2024/11/27/24307867/microsoft-google-xbox-game-store-android-purchase-games)
+ - [Romania&#39;s regulator calls for TikTok&#39;s suspension after an ultranationalist&#39;s shock first-round win fueled by viral TikTok videos, amid vote interference fears &lpar;Jon Henley/The Guardian&rpar;](http://www.techmeme.com/241127/p35#a241127p35)
+ - [Apple Black Friday Deal: 14-inch MacBook Pro M4 &lpar;24GB RAM, 1TB&rpar; drops to $1,799](https://appleinsider.com/articles/24/11/27/apple-black-friday-deal-14-inch-macbook-pro-m4-24gb-ram-1tb-drops-to-1799?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
