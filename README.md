@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Experts worry about the unintended consequences of Australia&#39;s controversial but popular social media ban on under-16s; Meta, TikTok, and X expressed concerns &lpar;Bloomberg&rpar;](http://www.techmeme.com/241128/p19#a241128p19)
- - [Save $50 on the Amazon Echo Show 10 and get a free smart light!](https://www.androidauthority.com/amazon-echo-show-10-deal-3504075/)
- - [Canada&#39;s Competition Bureau sues Google over alleged anti-competitive conduct in online advertising, seeking Google to sell two of its ad tech tools and more &lpar;Ismail Shakil/Reuters&rpar;](http://www.techmeme.com/241128/p18#a241128p18)<!-- TECH:END -->
+ - [Black Friday charger deals: Why a good charger is the perfect holiday gift](https://www.androidauthority.com/black-friday-charger-deals-3504074/)
+ - [The Best All-Clad Black Friday Deals](https://www.wired.com/story/black-friday-2024-all-clad-deals/)
+ - [Samsung’s 75-inch QLED 4K smart TV is more than 50% off for Black Friday](https://www.androidauthority.com/samsung-qled-4k-smart-tv-deal-3504082/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
