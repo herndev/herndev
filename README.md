@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle answer for Thursday, November 28](https://www.pcgamer.com/games/puzzle/wordle-answer-today-november-28-2024)
  - [Watch Thanksgiving this Thanksgiving, if your family has the stomach for it](https://www.polygon.com/what-to-watch/486227/thanksgiving-movie-recommendation-horror-eli-roth)
- - [Deadlock pros are already playing a better version of Deadlock](https://www.pcgamer.com/games/moba/deadlock-pros-are-already-playing-a-better-version-of-deadlock)
- - [Marvel Multiverse writer and Minecraft novelist has a Minecraft TTRPG on the way](https://www.polygon.com/tabletop-games/486813/minecraft-ttrpg-marvel-multiverse-matt-forbeck)<!-- GAME:END -->
+ - [Deadlock pros are already playing a better version of Deadlock](https://www.pcgamer.com/games/moba/deadlock-pros-are-already-playing-a-better-version-of-deadlock)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
