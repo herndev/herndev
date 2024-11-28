@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Women using the `man` filter &lpar;sound on&rpar;](http://9gag.com/gag/aXPoj2d)
- - ⏩ [Zero to hundred](http://9gag.com/gag/a0e7b3q)
- - 👉 [DB Cooper may have been identified! Siblings say their late father was the hijacker after finding a matching parachute. FBI investigating.](http://9gag.com/gag/a87E3WZ)<!-- MEMES:END -->
+ - 💣 [DB Cooper may have been identified! Siblings say their late father was the hijacker after finding a matching parachute. FBI investigating.](http://9gag.com/gag/a87E3WZ)
+ - ⏩ [Black queens are in shock](http://9gag.com/gag/a34EM5v)
+ - 👉 [Why it&#39;s important to turn off your high beams!](http://9gag.com/gag/aMVKZ71)<!-- MEMES:END -->
 
 ---
 
