@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Black queens are in shock](http://9gag.com/gag/a34EM5v)
- - ⏩ [Y&#39;all white peeupoos ain&#39;t neva gonna come close to these stats. \u270a\ud83c\udfff](http://9gag.com/gag/apRNpA5)
- - 👉 [Diversity hire for the win](http://9gag.com/gag/avy5GMd)<!-- MEMES:END -->
+ - 💣 [Its lit allright](http://9gag.com/gag/aXPojog)
+ - ⏩ [Kindergarten teacher](http://9gag.com/gag/adB8KwB)
+ - 👉 [Women using the `man` filter &lpar;sound on&rpar;](http://9gag.com/gag/aXPoj2d)<!-- MEMES:END -->
 
 ---
 
