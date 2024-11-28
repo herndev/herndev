@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Ravenswatch Is Out Now: Meet the Heroes and Learn About Free DLC Coming Soon](https://news.xbox.com/en-us/2024/11/28/ravenswatch-dlc-heroes/)
- - [How to beat Promised Consort Radahn in Elden Ring Shadow of the Erdtree DLC](https://www.polygon.com/elden-ring-shadow-erdtree-guide/24191467/radahn-final-boss-location-weakness-strategy-how-to-beat-sote-dlc)
- - [Dragon Age lead writer shares the heartfelt process of creating Inquisition&#39;s Dorian, says his &#39;story is not MY story, but it&#39;s also not far off&#39;](https://www.pcgamer.com/games/dragon-age/dragon-age-lead-writer-shares-the-heartfelt-process-of-creating-inquisitions-dorian-says-his-story-is-not-my-story-but-its-also-not-far-off)<!-- GAME:END -->
+ - [Dead by Daylight’s Doomed Course Steers Two Tortured Souls into The Fog](https://news.xbox.com/en-us/2024/11/28/dead-by-daylights-doomed-course-steers-two-tortured-souls-into-the-fog/)
+ - [Japanese RPGs are thriving this decade, so why isn&#39;t Final Fantasy?](https://www.pcgamer.com/games/rpg/japanese-rpgs-are-thriving-this-decade-so-why-isnt-final-fantasy)
+ - [This Wild Copy Of Horizon Zero Dawn Is Just Begging For Sony To Sue](https://kotaku.com/horizon-zero-dawn-sony-light-of-motiram-tencent-copy-1851709969)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
