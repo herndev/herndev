@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [On Joe Rogan&#39;s podcast, Marc Andreessen criticizes the &quot;raw administrative power&quot; of US agencies like the CFPB, SEC, and FTC, discusses Elon Musk and DOGE, more &lpar;Ana Altchek/Business Insider&rpar;](http://www.techmeme.com/241127/p37#a241127p37)
- - [The brand-new Amazon Echo Show 15 and Show 21 are already on sale!](https://www.androidauthority.com/amazon-echo-show-15-echo-show-21-deals-3503839/)
- - [Android Aut-Oh No! Mysterious bug adds ‘oh’ when reading text messages in your car](https://www.androidauthority.com/android-auto-oh-3503835/)<!-- TECH:END -->
+ - [Best Black Friday Amazon deals: $150 off M4 iMac, $250 off MacBook, $169 Apple Watch](https://appleinsider.com/articles/24/11/21/best-black-friday-amazon-deals-100-off-m4-mac-mini-250-off-macbook-189-apple-watch?utm_medium=rss)
+ - [Microsoft says a feature to let US users play and buy Xbox games from the Xbox app on Android is &quot;ready to go live as soon as the court makes a final decision&quot; &lpar;Richard Lawler/The Verge&rpar;](http://www.techmeme.com/241127/p39#a241127p39)
+ - [Mark Zuckerberg had dinner with Donald Trump at Mar-a-Lago](https://www.theverge.com/2024/11/27/24307943/mark-zuckerberg-donald-trump-dinner-mar-a-lago)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
