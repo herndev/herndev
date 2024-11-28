@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Blast blows out windows behind wedding couple](http://9gag.com/gag/azxM1Pm)
- - ⏩ [When will your Thai girl\u2026](http://9gag.com/gag/azxM99b)
- - 👉 [Why would one do that](http://9gag.com/gag/ajPmNnQ)<!-- MEMES:END -->
+ - 💣 [Connor McGregor vs Boxing Machine](http://9gag.com/gag/avy57vn)
+ - ⏩ [She&#39;s wrong you know.](http://9gag.com/gag/aGypeB7)
+ - 👉 [Bro was like: are you f**king serious?](http://9gag.com/gag/an7Q96b)<!-- MEMES:END -->
 
 ---
 
