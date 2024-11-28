@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [What happened after Plague Inc.? The dev’s next game looks to find out](https://www.androidauthority.com/after-inc-3503960/)
- - [Philips Hue Lights appearing offline in Google Home? You’re not alone, and here’s the fix](https://www.androidauthority.com/philips-hue-lights-offline-fix-matter-3503933/)
- - [How Huawei and other Chinese tech companies are inundating workers in Taiwan, Europe, and Silicon Valley with job offers in areas like advanced chips and AI &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/241128/p12#a241128p12)<!-- TECH:END -->
+ - [How Altera deployed up to 1,000 AI agents that used LLMs to interact in Minecraft, finding that they formed a remarkable range of personality traits and roles &lpar;Niall Firth/MIT Technology Review&rpar;](http://www.techmeme.com/241128/p13#a241128p13)
+ - [Best Black Friday Amazon deals: $150 off M4 iMac, $250 off MacBook, $169 Apple Watch](https://appleinsider.com/articles/24/11/21/best-black-friday-amazon-deals-100-off-m4-mac-mini-250-off-macbook-189-apple-watch?utm_medium=rss)
+ - [Best Black Friday Apple Watch Ultra 2 deal lands at $619.99](https://appleinsider.com/articles/24/11/28/best-black-friday-apple-watch-ultra-2-deal-lands-at-61999?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
