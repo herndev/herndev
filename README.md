@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Keanu Reeves went on an intense &#39;internal journey&#39; to inhabit the role of evil Sonic the Hedgehog With a Gun](https://www.pcgamer.com/movies-tv/keanu-reeves-went-on-an-intense-internal-journey-to-inhabit-the-role-of-evil-sonic-the-hedgehog-with-a-gun)
- - [The best early board game deals of Black Friday](https://www.polygon.com/black-friday/475286/best-early-board-game-deals)
- - [Today&#39;s Wordle answer for Thursday, November 28](https://www.pcgamer.com/games/puzzle/wordle-answer-today-november-28-2024)<!-- GAME:END -->
+ - [3 League players respond to the end of Arcane](https://www.polygon.com/opinion/486306/arcane-league-legends-ending-reaction-lol-players-discussion)
+ - [The 25 best games on Game Pass](https://www.polygon.com/best-games/22372750/best-game-pass-games-xbox)
+ - [How to change display name in Black Ops 6](https://www.polygon.com/black-ops-6-guides/481901/change-display-name-how-often)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
