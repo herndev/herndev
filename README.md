@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Design Within Reach Promo Code: 25% Off  | November 2024](https://www.wired.com/story/design-within-reach-promo-code/)
- - [NordVPN Coupon: 74% Off + 3 Months Free](https://www.wired.com/story/nordvpn-coupon/)
- - [Apple&#39;s best-selling M3 MacBook Air 512GB drops to record low price for Black Friday](https://appleinsider.com/articles/24/11/28/apples-best-selling-m3-macbook-air-512gb-drops-to-record-low-price-for-black-friday?utm_medium=rss)<!-- TECH:END -->
+ - [Galaxy S25 FCC listing confirms key specs and one expected miss &lpar;Updated&rpar;](https://www.androidauthority.com/galaxy-s25-fcc-listing-3503726/)
+ - [Best Black Friday Amazon deals: $150 off M4 iMac, $250 off MacBook, $169 Apple Watch](https://appleinsider.com/articles/24/11/21/best-black-friday-amazon-deals-100-off-m4-mac-mini-250-off-macbook-189-apple-watch?utm_medium=rss)
+ - [Hotels.com Coupons and Deals: Save Up to 30%](https://www.wired.com/story/hotels-com-coupon/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
