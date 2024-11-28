@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [That look](http://9gag.com/gag/a9yEr76)
- - ⏩ [Stop that!](http://9gag.com/gag/aBy2WL2)
- - 👉 [They all have the same birthday](http://9gag.com/gag/a6ZEo32)<!-- MEMES:END -->
+ - 💣 [Connor McGregor vs Boxing Machine](http://9gag.com/gag/avy57vn)
+ - ⏩ [Streaming Cable](http://9gag.com/gag/a7oErLb)
+ - 👉 [How to correctly Hans a hornet nest...](http://9gag.com/gag/a34EqdN)<!-- MEMES:END -->
 
 ---
 
