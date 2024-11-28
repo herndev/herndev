@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Keanu Reeves went on an intense &#39;internal journey&#39; to inhabit the role of evil Sonic the Hedgehog With a Gun](https://www.pcgamer.com/movies-tv/keanu-reeves-went-on-an-intense-internal-journey-to-inhabit-the-role-of-evil-sonic-the-hedgehog-with-a-gun)
  - [The best early board game deals of Black Friday](https://www.polygon.com/black-friday/475286/best-early-board-game-deals)
- - [Today&#39;s Wordle answer for Thursday, November 28](https://www.pcgamer.com/games/puzzle/wordle-answer-today-november-28-2024)
- - [Watch Thanksgiving this Thanksgiving, if your family has the stomach for it](https://www.polygon.com/what-to-watch/486227/thanksgiving-movie-recommendation-horror-eli-roth)<!-- GAME:END -->
+ - [Today&#39;s Wordle answer for Thursday, November 28](https://www.pcgamer.com/games/puzzle/wordle-answer-today-november-28-2024)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
