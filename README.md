@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Gordon likes a good banter](http://9gag.com/gag/a9yEAX1)
- - ⏩ [Based on a true story](http://9gag.com/gag/aAybdeE)
- - 👉 [She&#39;s wrong you know.](http://9gag.com/gag/aGypeB7)<!-- MEMES:END -->
+ - 💣 [Dad](http://9gag.com/gag/an7QjEL)
+ - ⏩ [Cheaper than divorce](http://9gag.com/gag/aRBX1KA)
+ - 👉 [Geniedislikescloud](http://9gag.com/gag/aBy2xdZ)<!-- MEMES:END -->
 
 ---
 
