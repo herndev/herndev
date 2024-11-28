@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [In Australia, a man threatened to blow up a plane in the name of Allah. \u201cMy name is Mohammed, a slave of Allah. I will blow up this plane full of infidels.\u201d](http://9gag.com/gag/aBy20vx)
+ - 💣 [Cheaper than divorce](http://9gag.com/gag/aRBX1KA)
  - ⏩ [He could be depressed?](http://9gag.com/gag/a9yEKE1)
- - 👉 [Fear 101 unlocked](http://9gag.com/gag/a7oEZQ2)<!-- MEMES:END -->
+ - 👉 [She&#39;s wrong you know.](http://9gag.com/gag/aGypeB7)<!-- MEMES:END -->
 
 ---
 
