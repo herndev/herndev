@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [India&#39;s competition watchdog launches a probe into Google&#39;s restrictive policies for real-money games on Android, following a complaint by gaming app WinZO &lpar;Munsif Vengattil/Reuters&rpar;](http://www.techmeme.com/241128/p14#a241128p14)
- - [Thanksgiving flash deal: LG OLED C4 TV drops to $796.99 &lpar;$703 off&rpar;](https://appleinsider.com/articles/24/11/28/thanksgiving-flash-deal-lg-oled-c4-tv-drops-to-79699-703-off?utm_medium=rss)
- - [Apple’s entry-level iPad is on sale for its lowest price ever for Black Friday](https://www.theverge.com/2024/11/28/24307735/apple-ipad-black-friday-deal-10th-gen-tablet-2024-sale)<!-- TECH:END -->
+ - [Black Friday Mac Studio deal drops price to $1,789, plus $30 off AppleCare](https://appleinsider.com/articles/24/11/28/black-friday-mac-studio-deal-drops-price-to-1789-plus-30-off-applecare?utm_medium=rss)
+ - [10 Black Friday TV Deals to Grab Ahead of the Hordes](https://www.wired.com/story/early-black-friday-tv-deals-2024-1/)
+ - [The best Black Friday deals we’re seeing on Macbooks and other laptops](https://www.theverge.com/24305977/black-friday-best-deals-laptops-macbook-windows-gaming-cyber-monday-2024)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
