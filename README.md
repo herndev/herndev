@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [The best early board game deals of Black Friday](https://www.polygon.com/black-friday/475286/best-early-board-game-deals)
  - [Today&#39;s Wordle answer for Thursday, November 28](https://www.pcgamer.com/games/puzzle/wordle-answer-today-november-28-2024)
- - [Watch Thanksgiving this Thanksgiving, if your family has the stomach for it](https://www.polygon.com/what-to-watch/486227/thanksgiving-movie-recommendation-horror-eli-roth)
- - [Deadlock pros are already playing a better version of Deadlock](https://www.pcgamer.com/games/moba/deadlock-pros-are-already-playing-a-better-version-of-deadlock)<!-- GAME:END -->
+ - [Watch Thanksgiving this Thanksgiving, if your family has the stomach for it](https://www.polygon.com/what-to-watch/486227/thanksgiving-movie-recommendation-horror-eli-roth)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
