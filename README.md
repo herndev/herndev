@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Black Friday Mac Studio deal drops price to $1,789, plus $30 off AppleCare](https://appleinsider.com/articles/24/11/28/black-friday-mac-studio-deal-drops-price-to-1789-plus-30-off-applecare?utm_medium=rss)
- - [10 Black Friday TV Deals to Grab Ahead of the Hordes](https://www.wired.com/story/early-black-friday-tv-deals-2024-1/)
- - [The best Black Friday deals we’re seeing on Macbooks and other laptops](https://www.theverge.com/24305977/black-friday-best-deals-laptops-macbook-windows-gaming-cyber-monday-2024)<!-- TECH:END -->
+ - [Palworld’s new island will be its ‘largest’ and ‘harshest’](https://www.theverge.com/2024/11/28/24308294/palworld-december-2024-update-new-island)
+ - [8BitDo added RGB backlights to the new Xbox version of its mechanical keyboard](https://www.theverge.com/2024/11/28/24308248/8bitdo-keyboard-retro-87-mechanical-xbox-edition-rgb-lighting-r8-mouse)
+ - [Thanksgiving deal slashes the Samsung Galaxy Watch Ultra to just $434](https://www.androidauthority.com/deal-samsung-galaxy-watch-ultra-3504043/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
