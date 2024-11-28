@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Call center workers in the Philippines, where an estimated 86% of white-collar workers already use AI, say generative AI tools have made work more demanding &lpar;Michael Beltran/Rest of World&rpar;](http://www.techmeme.com/241128/p7#a241128p7)
- - [Microsoft can’t launch Xbox store on Android, even though it’s ready to go](https://www.androidauthority.com/microsoft-xbox-store-app-android-delay-3503882/)
- - [Ditch Your Screens to End the Global Friendship Recession](https://www.wired.com/story/ditch-screens-end-global-friendship-recession/)<!-- TECH:END -->
+ - [Alibaba releases QwQ-32B-Preview under an Apache 2.0 license and claims the &quot;reasoning&quot; AI model beats OpenAI&#39;s o1 models on the AIME and MATH tests &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/241128/p8#a241128p8)
+ - [Best Black Friday Apple Deals 2024: We’ve Rounded Up the Biggest Discounts on Macs, iPads, AirPods and More](https://www.cnet.com/deals/best-black-friday-apple-deals-2024-11-28/#ftag=CAD590a51e)
+ - [19 Best Black Friday Deals on Bedding for Your Holiday Shopping](https://www.cnet.com/deals/best-black-friday-bedding-deals-2024/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
