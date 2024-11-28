@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazing deal: 63% off the JLab JBuds Lux ANC, our favorite budget headphones](https://www.androidauthority.com/jlab-jbuds-lux-anc-deal-3504076/)
- - [Best Black Friday Amazon deals: $150 off M4 iMac, $250 off MacBook, $169 Apple Watch](https://appleinsider.com/articles/24/11/21/best-black-friday-amazon-deals-100-off-m4-mac-mini-250-off-macbook-189-apple-watch?utm_medium=rss)
- - [The best new streaming movies this week: Blitz and more](https://www.androidauthority.com/best-new-streaming-movies-this-week-3083965/)<!-- TECH:END -->
+ - [Experts worry about the unintended consequences of Australia&#39;s controversial but popular social media ban on under-16s; Meta, TikTok, and X expressed concerns &lpar;Bloomberg&rpar;](http://www.techmeme.com/241128/p19#a241128p19)
+ - [Save $50 on the Amazon Echo Show 10 and get a free smart light!](https://www.androidauthority.com/amazon-echo-show-10-deal-3504075/)
+ - [Canada&#39;s Competition Bureau sues Google over alleged anti-competitive conduct in online advertising, seeking Google to sell two of its ad tech tools and more &lpar;Ismail Shakil/Reuters&rpar;](http://www.techmeme.com/241128/p18#a241128p18)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
