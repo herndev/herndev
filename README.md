@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Dad](http://9gag.com/gag/an7QjEL)
- - ⏩ [99 Cent Pizza is actually 2 Dollar Pizza](http://9gag.com/gag/ajPmEYp)
- - 👉 [Kindergarten teacher](http://9gag.com/gag/adB8KwB)<!-- MEMES:END -->
+ - 💣 [She&#39;s wrong you know.](http://9gag.com/gag/aGypeB7)
+ - ⏩ [Dad](http://9gag.com/gag/an7QjEL)
+ - 👉 [Dad telling the waiter his daughter thought he was cute](http://9gag.com/gag/aAybDQd)<!-- MEMES:END -->
 
 ---
 
