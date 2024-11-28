@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Skilled flip flopper](http://9gag.com/gag/abAVY4L)
- - ⏩ [Therapy? who need it!](http://9gag.com/gag/azxM9gB)
- - 👉 [He could be depressed?](http://9gag.com/gag/a9yEKE1)<!-- MEMES:END -->
+ - 💣 [Dad](http://9gag.com/gag/an7QjEL)
+ - ⏩ [Black queens are in shock](http://9gag.com/gag/a34EM5v)
+ - 👉 [Diversity hire for the win](http://9gag.com/gag/avy5GMd)<!-- MEMES:END -->
 
 ---
 
