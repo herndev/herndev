@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Memo: Revolut tells ex-staff who were at the startup for 2+ years and held $100K+ in vested stock that they can join a secondary share sale at a $45B valuation &lpar;Aisha S Gani/Bloomberg&rpar;](http://www.techmeme.com/241128/p16#a241128p16)
- - [Samsung makes a sneaky Galaxy Tab S10 FE reference, hidden in the fine print](https://www.androidauthority.com/galaxy-tab-s10-fe-name-3504054/)
- - [The best Black Friday deals on AirPods, AirTags, and other Apple tech](https://www.theverge.com/24305511/black-friday-apple-best-deals-2024-macbook-airpods-cyber-monday)<!-- TECH:END -->
+ - [The Roku Black Friday sale includes 59% savings on the Roku Outdoor Camera](https://www.androidauthority.com/roku-black-friday-sale-3504059/)
+ - [The 12 best TV deals you can grab ahead of Black Friday](https://www.theverge.com/24307741/black-friday-tv-deals-lg-samsung-sony-tcl-cyber-monday-2024)
+ - [Save $400 with these Black Friday M4 Max MacBook Pro deals](https://appleinsider.com/articles/24/11/28/save-400-with-these-black-friday-m4-max-macbook-pro-deals?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
