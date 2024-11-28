@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Galaxy Z Fold 6 vs. Z Fold 5 vs. Z Fold 4: A Three-Generation Comparison, Spec by Spec](https://www.cnet.com/tech/mobile/galaxy-z-fold-6-vs-z-fold-5-vs-z-fold-4-a-three-generation-comparison-step-by-step/#ftag=CAD590a51e)
- - [Don&#39;t Sell That Old Camera: Hack It to Take Stunning Photos Like These](https://www.cnet.com/tech/computing/dont-sell-that-old-camera-hack-it-to-take-stunning-photos-like-these/#ftag=CAD590a51e)
- - [Netflix&#39;s Best Fantasy TV Shows Will Take You to Magical Realms, Far and Wide](https://www.cnet.com/tech/services-and-software/best-fantasy-tv-shows-on-netflix-2024/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [What happened after Plague Inc.? The dev’s next game looks to find out](https://www.androidauthority.com/after-inc-3503960/)
+ - [Philips Hue Lights appearing offline in Google Home? You’re not alone, and here’s the fix](https://www.androidauthority.com/philips-hue-lights-offline-fix-matter-3503933/)
+ - [How Huawei and other Chinese tech companies are inundating workers in Taiwan, Europe, and Silicon Valley with job offers in areas like advanced chips and AI &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/241128/p12#a241128p12)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
