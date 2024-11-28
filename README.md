@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The game that inspired Warframe is free on Steam until Saturday](https://www.pcgamer.com/games/action/the-game-that-inspired-warframe-is-free-on-steam-until-saturday)
- - [Netflix’s new Mononoke movie Phantom in the Rain is gorgeous, but not for new fans](https://www.polygon.com/anime/484412/mononoke-the-movie-review-netflix-nakamura)
- - [Dead by Daylight’s Doomed Course Steers Two Tortured Souls into The Fog](https://news.xbox.com/en-us/2024/11/28/dead-by-daylights-doomed-course-steers-two-tortured-souls-into-the-fog/)<!-- GAME:END -->
+ - [The antitrust lawsuit against Steam is now a class action, and that could have big repercussions for Valve](https://www.pcgamer.com/gaming-industry/the-antitrust-lawsuit-against-steam-is-now-a-class-action-and-that-could-have-big-repercussions-for-valve)
+ - [20 Spectacular Indie Games To Slam On Your Wishlist](https://kotaku.com/thanksgaming-24-indie-games-wishlist-steam-1851709999)
+ - [When does Fortnite live event ‘Remix: The Finale’ start?](https://www.polygon.com/fortnite-guide/485340/remix-the-finale-time-start-when)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
