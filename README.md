@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Cheaper than divorce](http://9gag.com/gag/aRBX1KA)
- - ⏩ [He could be depressed?](http://9gag.com/gag/a9yEKE1)
- - 👉 [She&#39;s wrong you know.](http://9gag.com/gag/aGypeB7)<!-- MEMES:END -->
+ - 💣 [Dad](http://9gag.com/gag/an7QjEL)
+ - ⏩ [99 Cent Pizza is actually 2 Dollar Pizza](http://9gag.com/gag/ajPmEYp)
+ - 👉 [Kindergarten teacher](http://9gag.com/gag/adB8KwB)<!-- MEMES:END -->
 
 ---
 
