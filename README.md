@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Why it&#39;s important to turn off your high beams!](http://9gag.com/gag/aMVKZ71)
- - ⏩ [Usual suspect with a machete tries to decap someone buying a PS5, turns out that someone is an undercover cop, the suspect gets put to room temperature](http://9gag.com/gag/amoP28d)
- - 👉 [. . .](http://9gag.com/gag/a87E3np)<!-- MEMES:END -->
+ - ⏩ [When will your Thai girl\u2026](http://9gag.com/gag/azxM99b)
+ - 👉 [Fear 101 unlocked](http://9gag.com/gag/a7oEZQ2)<!-- MEMES:END -->
 
 ---
 
