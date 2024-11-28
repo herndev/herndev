@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Roku Black Friday sale includes 59% savings on the Roku Outdoor Camera](https://www.androidauthority.com/roku-black-friday-sale-3504059/)
- - [The 12 best TV deals you can grab ahead of Black Friday](https://www.theverge.com/24307741/black-friday-tv-deals-lg-samsung-sony-tcl-cyber-monday-2024)
- - [Save $400 with these Black Friday M4 Max MacBook Pro deals](https://appleinsider.com/articles/24/11/28/save-400-with-these-black-friday-m4-max-macbook-pro-deals?utm_medium=rss)<!-- TECH:END -->
+ - [Amazing deal: 63% off the JLab JBuds Lux ANC, our favorite budget headphones](https://www.androidauthority.com/jlab-jbuds-lux-anc-deal-3504076/)
+ - [Best Black Friday Amazon deals: $150 off M4 iMac, $250 off MacBook, $169 Apple Watch](https://appleinsider.com/articles/24/11/21/best-black-friday-amazon-deals-100-off-m4-mac-mini-250-off-macbook-189-apple-watch?utm_medium=rss)
+ - [The best new streaming movies this week: Blitz and more](https://www.androidauthority.com/best-new-streaming-movies-this-week-3083965/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
