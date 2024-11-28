@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [She&#39;s wrong you know.](http://9gag.com/gag/aGypeB7)
- - ⏩ [Dad](http://9gag.com/gag/an7QjEL)
- - 👉 [Dad telling the waiter his daughter thought he was cute](http://9gag.com/gag/aAybDQd)<!-- MEMES:END -->
+ - 💣 [Why it&#39;s important to turn off your high beams!](http://9gag.com/gag/aMVKZ71)
+ - ⏩ [Usual suspect with a machete tries to decap someone buying a PS5, turns out that someone is an undercover cop, the suspect gets put to room temperature](http://9gag.com/gag/amoP28d)
+ - 👉 [. . .](http://9gag.com/gag/a87E3np)<!-- MEMES:END -->
 
 ---
 
