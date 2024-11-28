@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Dead by Daylight’s Doomed Course Steers Two Tortured Souls into The Fog](https://news.xbox.com/en-us/2024/11/28/dead-by-daylights-doomed-course-steers-two-tortured-souls-into-the-fog/)
- - [Japanese RPGs are thriving this decade, so why isn&#39;t Final Fantasy?](https://www.pcgamer.com/games/rpg/japanese-rpgs-are-thriving-this-decade-so-why-isnt-final-fantasy)
- - [This Wild Copy Of Horizon Zero Dawn Is Just Begging For Sony To Sue](https://kotaku.com/horizon-zero-dawn-sony-light-of-motiram-tencent-copy-1851709969)<!-- GAME:END -->
+ - [The game that inspired Warframe is free on Steam until Saturday](https://www.pcgamer.com/games/action/the-game-that-inspired-warframe-is-free-on-steam-until-saturday)
+ - [Netflix’s new Mononoke movie Phantom in the Rain is gorgeous, but not for new fans](https://www.polygon.com/anime/484412/mononoke-the-movie-review-netflix-nakamura)
+ - [Dead by Daylight’s Doomed Course Steers Two Tortured Souls into The Fog](https://news.xbox.com/en-us/2024/11/28/dead-by-daylights-doomed-course-steers-two-tortured-souls-into-the-fog/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
