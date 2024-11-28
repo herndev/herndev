@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft says it’s built an Xbox game store on Android but can’t launch it](https://www.theverge.com/2024/11/27/24307867/microsoft-google-xbox-game-store-android-purchase-games)
- - [Romania&#39;s regulator calls for TikTok&#39;s suspension after an ultranationalist&#39;s shock first-round win fueled by viral TikTok videos, amid vote interference fears &lpar;Jon Henley/The Guardian&rpar;](http://www.techmeme.com/241127/p35#a241127p35)
- - [Apple Black Friday Deal: 14-inch MacBook Pro M4 &lpar;24GB RAM, 1TB&rpar; drops to $1,799](https://appleinsider.com/articles/24/11/27/apple-black-friday-deal-14-inch-macbook-pro-m4-24gb-ram-1tb-drops-to-1799?utm_medium=rss)<!-- TECH:END -->
+ - [On Joe Rogan&#39;s podcast, Marc Andreessen criticizes the &quot;raw administrative power&quot; of US agencies like the CFPB, SEC, and FTC, discusses Elon Musk and DOGE, more &lpar;Ana Altchek/Business Insider&rpar;](http://www.techmeme.com/241127/p37#a241127p37)
+ - [The brand-new Amazon Echo Show 15 and Show 21 are already on sale!](https://www.androidauthority.com/amazon-echo-show-15-echo-show-21-deals-3503839/)
+ - [Android Aut-Oh No! Mysterious bug adds ‘oh’ when reading text messages in your car](https://www.androidauthority.com/android-auto-oh-3503835/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
