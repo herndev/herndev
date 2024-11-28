@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Suicide Squad: Kill the Justice League drops all the way to 95 percent off on Steam](https://www.polygon.com/news/486920/suicide-squad-kill-the-justice-league-95-percent-steam-discount)
- - [Diablo boss triggers mass eyeroll after wondering out loud if &#39;we could normalize Diablo-like for ARPGs that follow the Diablo formula&#39;](https://www.pcgamer.com/games/rpg/diablo-boss-triggers-mass-eyeroll-after-wondering-out-loud-if-we-could-normalize-diablo-like-for-arpgs-that-follow-the-diablo-formula)
- - [The 12 Best Christopher Nolan Films, Ranked From Ludicrous To Legendary](https://kotaku.com/christopher-nolan-best-movies-oppenheimer-inception-1851708632)<!-- GAME:END -->
+ - [Suicide Squad: Kill the Justice League is $3.50 on Steam, letting you poke around one of 2024&#39;s most interesting failures for the price of a cheeseburger](https://www.pcgamer.com/games/third-person-shooter/suicide-squad-kill-the-justice-league-is-usd3-50-on-steam-letting-you-poke-around-one-of-2024s-most-interesting-failures-for-the-price-of-a-cheeseburger)
+ - [Hideo Kojima is prepared to &#39;present a new dimension of cinematic adaptation&#39; for the Death Stranding movie, because making games that are &#39;similar to a movie&#39; isn&#39;t enough](https://www.pcgamer.com/movies-tv/hideo-kojima-is-prepared-to-present-a-new-dimension-of-cinematic-adaptation-for-the-death-stranding-movie-because-making-games-that-are-similar-to-a-movie-isnt-enough)
+ - [The best early gaming deals of Black Friday](https://www.polygon.com/black-friday/475293/best-early-gaming-deals)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
