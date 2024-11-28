@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Why it&#39;s important to turn off your high beams!](http://9gag.com/gag/aMVKZ71)
- - ⏩ [You want to summon a Balrog? Because that&#39;s how you summon a Balrog](http://9gag.com/gag/aAybD7p)
- - 👉 [Connor McGregor vs Boxing Machine](http://9gag.com/gag/avy57vn)<!-- MEMES:END -->
+ - 💣 [She&#39;s wrong you know.](http://9gag.com/gag/aGypeB7)
+ - ⏩ [Diversity hire for the win](http://9gag.com/gag/avy5GMd)
+ - 👉 [When will your Thai girl\u2026](http://9gag.com/gag/azxM99b)<!-- MEMES:END -->
 
 ---
 
