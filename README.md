@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Mark Zuckerberg met with Donald Trump at Mar-a-Lago on November 27; sources: Zuckerberg, who has had a strained relationship with Trump, initiated the meeting &lpar;New York Times&rpar;](http://www.techmeme.com/241127/p40#a241127p40)
  - [Best Black Friday Amazon deals: $150 off M4 iMac, $250 off MacBook, $169 Apple Watch](https://appleinsider.com/articles/24/11/21/best-black-friday-amazon-deals-100-off-m4-mac-mini-250-off-macbook-189-apple-watch?utm_medium=rss)
- - [Microsoft says a feature to let US users play and buy Xbox games from the Xbox app on Android is &quot;ready to go live as soon as the court makes a final decision&quot; &lpar;Richard Lawler/The Verge&rpar;](http://www.techmeme.com/241127/p39#a241127p39)
- - [Mark Zuckerberg had dinner with Donald Trump at Mar-a-Lago](https://www.theverge.com/2024/11/27/24307943/mark-zuckerberg-donald-trump-dinner-mar-a-lago)<!-- TECH:END -->
+ - [Microsoft says a feature to let US users play and buy Xbox games from the Xbox app on Android is &quot;ready to go live as soon as the court makes a final decision&quot; &lpar;Richard Lawler/The Verge&rpar;](http://www.techmeme.com/241127/p39#a241127p39)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
