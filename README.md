@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The antitrust lawsuit against Steam is now a class action, and that could have big repercussions for Valve](https://www.pcgamer.com/gaming-industry/the-antitrust-lawsuit-against-steam-is-now-a-class-action-and-that-could-have-big-repercussions-for-valve)
- - [20 Spectacular Indie Games To Slam On Your Wishlist](https://kotaku.com/thanksgaming-24-indie-games-wishlist-steam-1851709999)
- - [When does Fortnite live event ‘Remix: The Finale’ start?](https://www.polygon.com/fortnite-guide/485340/remix-the-finale-time-start-when)<!-- GAME:END -->
+ - [Meet weird avians, save a kidnapped goddess, and explore a gorgeous lantern world inspired by Persian art in this very funny new indie adventure game](https://www.pcgamer.com/games/adventure/meet-weird-avians-save-a-kidnapped-goddess-and-explore-a-gorgeous-lantern-world-inspired-by-persian-art-in-this-very-funny-new-indie-adventure-game)
+ - [Nintendo Files Court Documents To Target 200,000-Member Subreddit SwitchPirates](https://kotaku.com/nintendo-switch-reddit-switchpirates-court-filing-1851710042)
+ - [The antitrust lawsuit against Steam is now a class action, and that could have big repercussions for Valve](https://www.pcgamer.com/gaming-industry/the-antitrust-lawsuit-against-steam-is-now-a-class-action-and-that-could-have-big-repercussions-for-valve)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
