@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [She&#39;s wrong you know.](http://9gag.com/gag/aGypeB7)
- - ⏩ [Diversity hire for the win](http://9gag.com/gag/avy5GMd)
- - 👉 [When will your Thai girl\u2026](http://9gag.com/gag/azxM99b)<!-- MEMES:END -->
+ - 💣 [Blast blows out windows behind wedding couple](http://9gag.com/gag/azxM1Pm)
+ - ⏩ [When will your Thai girl\u2026](http://9gag.com/gag/azxM99b)
+ - 👉 [Why would one do that](http://9gag.com/gag/ajPmNnQ)<!-- MEMES:END -->
 
 ---
 
