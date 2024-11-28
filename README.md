@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The best gifts for One Piece fans](https://www.polygon.com/23850581/best-one-piece-gifts)
- - [What is the Fortnite Crew Pack skin for December 2024?](https://www.polygon.com/fortnite-guide/23941614/fortnite-crew-pack-skin)
- - [It&#39;s been a decade since Endless Legend, the 4X genre&#39;s most inventive weirdo and the closest thing we&#39;ve got to a modern Alpha Centauri, launched—we&#39;re long overdue another one](https://www.pcgamer.com/games/strategy/its-been-a-decade-since-endless-legend-the-4x-genres-most-inventive-weirdo-and-the-closest-thing-weve-got-to-a-modern-alpha-centauri-launched-were-long-overdue-another-one)<!-- GAME:END -->
+ - [Ravenswatch Is Out Now: Meet the Heroes and Learn About Free DLC Coming Soon](https://news.xbox.com/en-us/2024/11/28/ravenswatch-dlc-heroes/)
+ - [How to beat Promised Consort Radahn in Elden Ring Shadow of the Erdtree DLC](https://www.polygon.com/elden-ring-shadow-erdtree-guide/24191467/radahn-final-boss-location-weakness-strategy-how-to-beat-sote-dlc)
+ - [Dragon Age lead writer shares the heartfelt process of creating Inquisition&#39;s Dorian, says his &#39;story is not MY story, but it&#39;s also not far off&#39;](https://www.pcgamer.com/games/dragon-age/dragon-age-lead-writer-shares-the-heartfelt-process-of-creating-inquisitions-dorian-says-his-story-is-not-my-story-but-its-also-not-far-off)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
