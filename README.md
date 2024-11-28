@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Why it&#39;s important to turn off your high beams!](http://9gag.com/gag/aMVKZ71)
- - ⏩ [When will your Thai girl\u2026](http://9gag.com/gag/azxM99b)
- - 👉 [Fear 101 unlocked](http://9gag.com/gag/a7oEZQ2)<!-- MEMES:END -->
+ - 💣 [Gordon likes a good banter](http://9gag.com/gag/a9yEAX1)
+ - ⏩ [Based on a true story](http://9gag.com/gag/aAybdeE)
+ - 👉 [She&#39;s wrong you know.](http://9gag.com/gag/aGypeB7)<!-- MEMES:END -->
 
 ---
 
