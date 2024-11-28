@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [3 League players respond to the end of Arcane](https://www.polygon.com/opinion/486306/arcane-league-legends-ending-reaction-lol-players-discussion)
- - [The 25 best games on Game Pass](https://www.polygon.com/best-games/22372750/best-game-pass-games-xbox)
- - [How to change display name in Black Ops 6](https://www.polygon.com/black-ops-6-guides/481901/change-display-name-how-often)<!-- GAME:END -->
+ - [Suicide Squad: Kill the Justice League drops all the way to 95 percent off on Steam](https://www.polygon.com/news/486920/suicide-squad-kill-the-justice-league-95-percent-steam-discount)
+ - [Diablo boss triggers mass eyeroll after wondering out loud if &#39;we could normalize Diablo-like for ARPGs that follow the Diablo formula&#39;](https://www.pcgamer.com/games/rpg/diablo-boss-triggers-mass-eyeroll-after-wondering-out-loud-if-we-could-normalize-diablo-like-for-arpgs-that-follow-the-diablo-formula)
+ - [The 12 Best Christopher Nolan Films, Ranked From Ludicrous To Legendary](https://kotaku.com/christopher-nolan-best-movies-oppenheimer-inception-1851708632)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
