@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Cloud backup startup Eon raised $70M led by BOND at a $1.4B valuation, taking its total funding to $200M since its January 2024 founding by AWS alumni &lpar;Paayal Zaveri/Bloomberg&rpar;](http://www.techmeme.com/241128/p10#a241128p10)
- - [The Best Dyson Vacuums &lpar;2024&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-dyson-vacuums/)
- - [Tryptophan Isn’t What Puts You Under on Thanksgiving. It’s the Carbs](https://www.wired.com/story/whats-up-with-that-the-real-causes-of-the-thanksgiving-sleepies/)<!-- TECH:END -->
+ - [Galaxy Z Fold 6 vs. Z Fold 5 vs. Z Fold 4: A Three-Generation Comparison, Spec by Spec](https://www.cnet.com/tech/mobile/galaxy-z-fold-6-vs-z-fold-5-vs-z-fold-4-a-three-generation-comparison-step-by-step/#ftag=CAD590a51e)
+ - [Don&#39;t Sell That Old Camera: Hack It to Take Stunning Photos Like These](https://www.cnet.com/tech/computing/dont-sell-that-old-camera-hack-it-to-take-stunning-photos-like-these/#ftag=CAD590a51e)
+ - [Netflix&#39;s Best Fantasy TV Shows Will Take You to Magical Realms, Far and Wide](https://www.cnet.com/tech/services-and-software/best-fantasy-tv-shows-on-netflix-2024/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
