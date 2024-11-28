@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Galaxy S25 FCC listing confirms key specs and one expected miss &lpar;Updated&rpar;](https://www.androidauthority.com/galaxy-s25-fcc-listing-3503726/)
- - [Best Black Friday Amazon deals: $150 off M4 iMac, $250 off MacBook, $169 Apple Watch](https://appleinsider.com/articles/24/11/21/best-black-friday-amazon-deals-100-off-m4-mac-mini-250-off-macbook-189-apple-watch?utm_medium=rss)
- - [Hotels.com Coupons and Deals: Save Up to 30%](https://www.wired.com/story/hotels-com-coupon/)<!-- TECH:END -->
+ - [Call center workers in the Philippines, where an estimated 86% of white-collar workers already use AI, say generative AI tools have made work more demanding &lpar;Michael Beltran/Rest of World&rpar;](http://www.techmeme.com/241128/p7#a241128p7)
+ - [Microsoft can’t launch Xbox store on Android, even though it’s ready to go](https://www.androidauthority.com/microsoft-xbox-store-app-android-delay-3503882/)
+ - [Ditch Your Screens to End the Global Friendship Recession](https://www.wired.com/story/ditch-screens-end-global-friendship-recession/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
