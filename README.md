@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The US FTC finalizes amendments to its Telemarketing Sales Rule, letting the agency pursue scam tech support companies even when consumers initiate the calls &lpar;Umar Shakir/The Verge&rpar;](http://www.techmeme.com/241128/p2#a241128p2)
- - [Battery life or performance: What’s your priority in a smartphone?](https://www.androidauthority.com/battery-life-performance-priority-smartphone-poll-3502733/)
- - [Best Black Friday iPad Pro deals: save up to $1,000](https://appleinsider.com/articles/24/11/24/best-black-friday-ipad-pro-deals-save-up-to-1000?utm_medium=rss)<!-- TECH:END -->
+ - [Apple Watch Ultra Black Friday Deal: Amazon Renewed model drops to new low $379.99](https://appleinsider.com/articles/24/11/28/apple-watch-ultra-black-friday-deal-amazon-renewed-model-drops-to-new-low-37999?utm_medium=rss)
+ - [DefiLlama: the total market cap for stablecoins has risen 46% in 2024 to a record ~$190B, regaining ground lost after TerraUSD&#39;s infamous collapse in 2022 &lpar;Sidhartha Shukla/Bloomberg&rpar;](http://www.techmeme.com/241128/p3#a241128p3)
+ - [Americans hit hard by tech support scams — FTC takes action](https://www.androidauthority.com/ftc-scam-tech-support-calls-rule-3503851/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
