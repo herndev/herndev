@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Today&#39;s NYT Strands Hints, Answers and Help for Nov. 28, #270](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-nov-28-270/#ftag=CAD590a51e)
- - [Today&#39;s NYT Connections Hints, Answers and Help for Nov. 28, #536](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-nov-28-536/#ftag=CAD590a51e)
- - [Best Black Friday Deals Live Now: Shop Over 80 Amazing Offers on Top Tech, Small Appliances and More](https://www.cnet.com/deals/best-black-friday-deals-live-2024-11-27/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The US FTC finalizes amendments to its Telemarketing Sales Rule, letting the agency pursue scam tech support companies even when consumers initiate the calls &lpar;Umar Shakir/The Verge&rpar;](http://www.techmeme.com/241128/p2#a241128p2)
+ - [Battery life or performance: What’s your priority in a smartphone?](https://www.androidauthority.com/battery-life-performance-priority-smartphone-poll-3502733/)
+ - [Best Black Friday iPad Pro deals: save up to $1,000](https://appleinsider.com/articles/24/11/24/best-black-friday-ipad-pro-deals-save-up-to-1000?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
