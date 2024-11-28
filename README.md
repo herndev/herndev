@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Suicide Squad: Kill the Justice League is $3.50 on Steam, letting you poke around one of 2024&#39;s most interesting failures for the price of a cheeseburger](https://www.pcgamer.com/games/third-person-shooter/suicide-squad-kill-the-justice-league-is-usd3-50-on-steam-letting-you-poke-around-one-of-2024s-most-interesting-failures-for-the-price-of-a-cheeseburger)
- - [Hideo Kojima is prepared to &#39;present a new dimension of cinematic adaptation&#39; for the Death Stranding movie, because making games that are &#39;similar to a movie&#39; isn&#39;t enough](https://www.pcgamer.com/movies-tv/hideo-kojima-is-prepared-to-present-a-new-dimension-of-cinematic-adaptation-for-the-death-stranding-movie-because-making-games-that-are-similar-to-a-movie-isnt-enough)
- - [The best early gaming deals of Black Friday](https://www.polygon.com/black-friday/475293/best-early-gaming-deals)<!-- GAME:END -->
+ - [The best gifts for One Piece fans](https://www.polygon.com/23850581/best-one-piece-gifts)
+ - [What is the Fortnite Crew Pack skin for December 2024?](https://www.polygon.com/fortnite-guide/23941614/fortnite-crew-pack-skin)
+ - [It&#39;s been a decade since Endless Legend, the 4X genre&#39;s most inventive weirdo and the closest thing we&#39;ve got to a modern Alpha Centauri, launched—we&#39;re long overdue another one](https://www.pcgamer.com/games/strategy/its-been-a-decade-since-endless-legend-the-4x-genres-most-inventive-weirdo-and-the-closest-thing-weve-got-to-a-modern-alpha-centauri-launched-were-long-overdue-another-one)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
