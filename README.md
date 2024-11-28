@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Meet weird avians, save a kidnapped goddess, and explore a gorgeous lantern world inspired by Persian art in this very funny new indie adventure game](https://www.pcgamer.com/games/adventure/meet-weird-avians-save-a-kidnapped-goddess-and-explore-a-gorgeous-lantern-world-inspired-by-persian-art-in-this-very-funny-new-indie-adventure-game)
- - [Nintendo Files Court Documents To Target 200,000-Member Subreddit SwitchPirates](https://kotaku.com/nintendo-switch-reddit-switchpirates-court-filing-1851710042)
- - [The antitrust lawsuit against Steam is now a class action, and that could have big repercussions for Valve](https://www.pcgamer.com/gaming-industry/the-antitrust-lawsuit-against-steam-is-now-a-class-action-and-that-could-have-big-repercussions-for-valve)<!-- GAME:END -->
+ - [Nintendo’s biggest ever Black Friday deals are here, knocking $75 off consoles](https://www.polygon.com/black-friday/483613/nintendo-switch-deal-pro-controller)
+ - [The best early Magic: The Gathering deals of Black Friday](https://www.polygon.com/black-friday/475291/best-early-magic-gathering-mtg-deals)
+ - [Astro Bot gets its first discount ahead of Black Friday](https://www.polygon.com/black-friday/480817/astro-bot-ps5-discount)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
