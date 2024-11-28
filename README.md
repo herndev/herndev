@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Alibaba releases QwQ-32B-Preview under an Apache 2.0 license and claims the &quot;reasoning&quot; AI model beats OpenAI&#39;s o1 models on the AIME and MATH tests &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/241128/p8#a241128p8)
- - [Best Black Friday Apple Deals 2024: We’ve Rounded Up the Biggest Discounts on Macs, iPads, AirPods and More](https://www.cnet.com/deals/best-black-friday-apple-deals-2024-11-28/#ftag=CAD590a51e)
- - [19 Best Black Friday Deals on Bedding for Your Holiday Shopping](https://www.cnet.com/deals/best-black-friday-bedding-deals-2024/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Cloud backup startup Eon raised $70M led by BOND at a $1.4B valuation, taking its total funding to $200M since its January 2024 founding by AWS alumni &lpar;Paayal Zaveri/Bloomberg&rpar;](http://www.techmeme.com/241128/p10#a241128p10)
+ - [The Best Dyson Vacuums &lpar;2024&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-dyson-vacuums/)
+ - [Tryptophan Isn’t What Puts You Under on Thanksgiving. It’s the Carbs](https://www.wired.com/story/whats-up-with-that-the-real-causes-of-the-thanksgiving-sleepies/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
