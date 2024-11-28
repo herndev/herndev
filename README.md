@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Microsoft Flight Simulator 2024 review](https://www.pcgamer.com/games/sim/microsoft-flight-simulator-2024-review)
- - [These 11 Raw Fury games run well on Steam Deck, and are $15 at Humble](https://www.polygon.com/good-deals/486577/raw-fury-humble-norco-sable-dome-keeper-deal)
- - [Every Bob&#39;s Burgers Thanksgiving Episode, Ranked](https://kotaku.com/bobs-burgers-thanksgiving-episodes-list-ranked-best-1851709655)<!-- GAME:END -->
+ - [Watch Thanksgiving this Thanksgiving, if your family has the stomach for it](https://www.polygon.com/what-to-watch/486227/thanksgiving-movie-recommendation-horror-eli-roth)
+ - [Deadlock pros are already playing a better version of Deadlock](https://www.pcgamer.com/games/moba/deadlock-pros-are-already-playing-a-better-version-of-deadlock)
+ - [Marvel Multiverse writer and Minecraft novelist has a Minecraft TTRPG on the way](https://www.polygon.com/tabletop-games/486813/minecraft-ttrpg-marvel-multiverse-matt-forbeck)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
