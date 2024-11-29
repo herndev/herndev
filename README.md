@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Galaxy S25 and 25 Plus colors appear in parts leak: Do they live up to the ‘Sparkling’ name?](https://www.androidauthority.com/samsung-galaxy-s25-galaxy-s25-plus-color-options-3504114/)
- - [Google’s Thanksgiving 2024 Doodle is all about food, family, and floats](https://www.androidauthority.com/google-doodle-thanksgiving-2024-3504107/)
- - [ESET researchers find the first UEFI bootkit designed specifically to target Linux systems, marking a shift in bootkits that previously focused on Windows &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/241128/p24#a241128p24)<!-- TECH:END -->
+ - [Grab best robot vacuum and mop deals from $139 during Roborock 2024 Black Friday sales promotion](https://appleinsider.com/articles/24/11/29/grab-best-robot-vacuum-and-mop-deals-from-139-during-roborock-2024-black-friday-sales-promotion?utm_medium=rss)
+ - [29 Best Black Friday Gaming Deals &lpar;2024&rpar;, Consoles and Games](https://www.wired.com/story/black-friday-gaming-deals-2024/)
+ - [Galaxy S25 and 25 Plus colors appear in parts leak: Do they live up to the ‘Sparkling’ name?](https://www.androidauthority.com/samsung-galaxy-s25-galaxy-s25-plus-color-options-3504114/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
