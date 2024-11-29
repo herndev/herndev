@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [. . .](http://9gag.com/gag/a87E3np)
- - ⏩ [When will your Thai girl\u2026](http://9gag.com/gag/azxM99b)
- - 👉 [Whats up with these grape fantasies](http://9gag.com/gag/a7oE3Kr)<!-- MEMES:END -->
+ - 💣 [I clearly warned you](http://9gag.com/gag/aAybb6o)
+ - ⏩ [This encounter was meant.](http://9gag.com/gag/ae9ArLW)
+ - 👉 [When will your Thai girl\u2026](http://9gag.com/gag/azxM99b)<!-- MEMES:END -->
 
 ---
 
