@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Legend of Zelda: Tears of the Kingdom has dropped to $30 for the first time](https://www.theverge.com/2024/11/29/24309019/black-friday-2024-zelda-tears-of-the-kingdom-totk-nintendo-switch-cyber-monday)
- - [The best new streaming shows this week: Asaf and more](https://www.androidauthority.com/best-new-tv-shows-to-stream-this-week-3084538/)
- - [Leak: Intel’s Battlemage desktop GPUs are just days away](https://www.theverge.com/2024/11/29/24309086/intel-battlemage-gpu-leak-arc-b580-b570)<!-- TECH:END -->
+ - [20 Best Apple Black Friday Deals &lpar;2024&rpar;: MacBooks, iPads, AirPods](https://www.wired.com/story/apple-black-friday-deals-2024-1/)
+ - [Apple Mac Mini M4 deal: The biggest discount we’ve seen yet](https://www.androidauthority.com/apple-mac-mini-m4-deal-2-3504427/)
+ - [19 Best Black Friday Toy Deals &lpar;2024&rpar;: Lego, Bikes, Board Games](https://www.wired.com/story/black-friday-2024-toy-deals/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
