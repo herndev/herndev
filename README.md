@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Therabody Black Friday Deals &lpar;2024&rpar;: LED Masks, Massage](https://www.wired.com/story/black-friday-therabody-deals-1/)
- - [The best Black Friday headphone and earbud deals](https://www.theverge.com/24307533/black-friday-best-deals-headphones-wireless-earbuds-airpods-2024-cyber-monday)
- - [Sources: ByteDance execs fear that launching its own AI models, or apps powered by the models, in the US could give lawmakers another excuse to attack TikTok &lpar;The Information&rpar;](http://www.techmeme.com/241129/p9#a241129p9)<!-- TECH:END -->
+ - [Deal: Save 50% on the TicWatch Pro 5 for the first time](https://www.androidauthority.com/deal-ticwatch-pro-5-3504337/)
+ - [The best Black Friday tech deals we’ve found &lpar;so far&rpar;](https://www.theverge.com/24307545/black-friday-2024-best-deals-tech-gadgets-cyber-monday-gift-ideas)
+ - [Goodbye DeX, Samsung reveals the fate of the Windows app](https://www.androidauthority.com/samsung-dex-support-ends-3504306/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
