@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [No Man&#39;s Sky dev reflects on the new Very Positive rating on Steam and promises that this is only the beginning: &#39;We aren’t even close to being finished yet&#39;](https://www.pcgamer.com/games/action/no-mans-sky-dev-reflects-on-the-new-very-positive-rating-on-steam-and-promises-that-this-is-only-the-beginning-we-arent-even-close-to-being-finished-yet)
- - [Some of my favorite sets are part of Lego’s Black Friday deals](https://www.polygon.com/black-friday/475580/best-lego-deals)
- - [Call of Duty: Black Ops 6&#39;s latest legendary operator skin is a fluorescent anime girl with cat ears, and it strikes fear into the hearts of all](https://www.pcgamer.com/games/call-of-duty/call-of-duty-black-ops-6s-latest-legendary-operator-skin-is-a-fluorescent-anime-girl-with-cat-ears-and-it-strikes-fear-into-the-hearts-of-all)<!-- GAME:END -->
+ - [20 Astonishing Indie Games To Play Or Wishlist Immediately](https://kotaku.com/thanksgaming-24-unknown-indie-games-steam-wishlist-1851710308)
+ - [The Complete Calvin and Hobbes box set is a steal at 63% off](https://www.polygon.com/black-friday/487429/calvin-hobbes-collection-deal-amazon)
+ - [Denis Villeneuve&#39;s Childhood Keeps Him From Directing A Star Wars Movie](https://kotaku.com/denis-villeneuves-childhood-keeps-him-from-directing-a-1851710355)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
