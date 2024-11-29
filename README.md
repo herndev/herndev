@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Branch Black Friday Sale &lpar;2024&rpar;: Deals on Office Chairs](https://www.wired.com/story/branch-black-friday-sale-2024-1/)
- - [The best Black Friday deals we’ve found &lpar;so far&rpar;](https://www.theverge.com/24307545/black-friday-2024-best-deals-tech-gadgets-cyber-monday-gift-ideas)
- - [Black Friday Apple deals: live 2024 sales on Mac, iPad, Apple Watch, iPhone &amp; more](https://appleinsider.com/articles/24/11/29/black-friday-apple-deals-live-2024-sales-on-mac-ipad-apple-watch-iphone-more?utm_medium=rss)<!-- TECH:END -->
+ - [The 16 Best Holiday Movies to Stream This Season: Netflix, Hulu, Amazon, Disney+](https://www.wired.com/story/holiday-movie-streaming-guide/)
+ - [Staff home favorites that are on sale for Black Friday right now](https://www.theverge.com/24307425/black-friday-best-deals-tech-staff-picks-cyber-monday-2024)
+ - [Grab the new Apple Watch Series 10 for just $329 in this Black Friday sale](https://appleinsider.com/articles/24/11/29/grab-the-new-apple-watch-series-10-for-just-329-in-this-black-friday-sale?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
