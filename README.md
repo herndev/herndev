@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best Black Friday deals we’ve found &lpar;so far&rpar;](https://www.theverge.com/24307545/black-friday-2024-best-deals-tech-gadgets-cyber-monday-gift-ideas)
- - [B&amp;H&#39;s Black Friday sale includes 196 noteworthy Apple deals](https://appleinsider.com/articles/24/11/29/bhs-black-friday-sale-includes-196-noteworthy-apple-deals?utm_medium=rss)
- - [One UI 7 apps are now available to download, but you’ll need to install them yourself](https://www.androidauthority.com/samsung-one-ui-7-apps-leaked-download-3504123/)<!-- TECH:END -->
+ - [The best Black Friday smartwatch and fitness tracker deals](https://www.theverge.com/good-deals/24306393/black-friday-2024-best-deals-smartwatch-fitness-tracker-wearables-cyber-monday)
+ - [The cool Casio Ring Watch is coming to the US very soon](https://www.androidauthority.com/casio-ring-watch-us-listing-3504140/)
+ - [Best Black Friday Deals Live Right Now: 80+ Hot Deals on Tech Gadgets, Kitchen Appliances, Smart Home Tech and More](https://www.cnet.com/deals/best-black-friday-deals-live-2024-11-29/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
