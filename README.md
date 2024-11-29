@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Sometimes I wake up grumpy, other times I let her sleep.](http://9gag.com/gag/a87E5RQ)
- - ⏩ [Chinese art college entrance exam](http://9gag.com/gag/avy55xd)
- - 👉 [The Matrix: Mirrored doorknob: There was no way to properly hide the camera, so the director of photography threw a coat onto himself with a tie matching the one Morpheus was wearing, trying to blend in as much as possible.](http://9gag.com/gag/an7QQp5)<!-- MEMES:END -->
+ - 💣 [Life as a 6ft7 Woman](http://9gag.com/gag/a9yEEeD)
+ - ⏩ [Phil is dead](http://9gag.com/gag/ayNM90V)
+ - 👉 [The moment u know ur officially a WIZARD](http://9gag.com/gag/azxMedj)<!-- MEMES:END -->
 
 ---
 
