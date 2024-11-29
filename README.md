@@ -33,8 +33,8 @@
 
 <!-- GAME:START -->
  - [&lpar;For Singapore and Malaysia&rpar; Celebrating the LEGO Horizon Adventures launch with a brand-new LEGO set](https://blog.playstation.com/2024/11/28/20241129-legohorizonset/)
- - [Today&#39;s Wordle answer for Friday, November 29](https://www.pcgamer.com/games/puzzle/wordle-answer-today-november-29-2024)
- - [Nintendo’s biggest ever Black Friday deals are here, knocking $75 off consoles](https://www.polygon.com/black-friday/483613/nintendo-switch-deal-pro-controller)<!-- GAME:END -->
+ - [&lpar;For Singapore and Malaysia&rpar; Celebrating the LEGO Horizon Adventures launch with a brand-new LEGO set](https://blog.playstation.com/2024/11/28/20241129-legohorizonset/)
+ - [Today&#39;s Wordle answer for Friday, November 29](https://www.pcgamer.com/games/puzzle/wordle-answer-today-november-29-2024)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
