@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Black Friday charger deals: Why a good charger is the perfect holiday gift](https://www.androidauthority.com/black-friday-charger-deals-3504074/)
- - [The Best All-Clad Black Friday Deals](https://www.wired.com/story/black-friday-2024-all-clad-deals/)
- - [Samsung’s 75-inch QLED 4K smart TV is more than 50% off for Black Friday](https://www.androidauthority.com/samsung-qled-4k-smart-tv-deal-3504082/)<!-- TECH:END -->
+ - [The EU ends its long-running probe into whether Amazon received illegal tax benefits worth &amp;euro;250M from Luxembourg, where Amazon&#39;s EU HQ is, after court losses &lpar;Natasha Lomas/TechCrunch&rpar;](http://www.techmeme.com/241128/p21#a241128p21)
+ - [Details of Australia&#39;s social media ban for kids remain unclear, such as how to enforce it and what platforms it covers; kids and parents won&#39;t face punishment &lpar;Victoria Kim/New York Times&rpar;](http://www.techmeme.com/241128/p20#a241128p20)
+ - [&#39;Outlander&#39; Season 7 Part 2 Episode Release Schedule and How to Watch](https://www.cnet.com/tech/services-and-software/outlander-season-7-part-2-episode-release-schedule-how-to-watch/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
