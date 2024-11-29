@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [250 Absolute Best Black Friday Deals &lpar;2024&rpar;](https://www.wired.com/story/absolute-best-black-friday-deals-2024/)
- - [Samsung&#39;s Black Friday TV deals knock up to $1,400 off OLED, The Frame models](https://appleinsider.com/articles/24/11/29/samsungs-black-friday-tv-deals-knock-up-to-1400-off-oled-the-frame-models?utm_medium=rss)
- - [Chrome may soon give you an instant web store trust assessment](https://www.androidauthority.com/chrome-store-review-feature-3504394/)<!-- TECH:END -->
+ - [The Legend of Zelda: Tears of the Kingdom has dropped to $30 for the first time](https://www.theverge.com/2024/11/29/24309019/black-friday-2024-zelda-tears-of-the-kingdom-totk-nintendo-switch-cyber-monday)
+ - [The best new streaming shows this week: Asaf and more](https://www.androidauthority.com/best-new-tv-shows-to-stream-this-week-3084538/)
+ - [Leak: Intel’s Battlemage desktop GPUs are just days away](https://www.theverge.com/2024/11/29/24309086/intel-battlemage-gpu-leak-arc-b580-b570)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
