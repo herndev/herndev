@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [When will your Thai girl\u2026](http://9gag.com/gag/azxM99b)
- - ⏩ [Good vibes](http://9gag.com/gag/a1mrQ9Y)
- - 👉 [DB Cooper may have been identified! Siblings say their late father was the hijacker after finding a matching parachute. FBI investigating.](http://9gag.com/gag/a87E3WZ)<!-- MEMES:END -->
+ - 💣 [. . .](http://9gag.com/gag/a87E3np)
+ - ⏩ [When will your Thai girl\u2026](http://9gag.com/gag/azxM99b)
+ - 👉 [Whats up with these grape fantasies](http://9gag.com/gag/a7oE3Kr)<!-- MEMES:END -->
 
 ---
 
