@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Are you Gen Z or a student? Get 6 months of Amazon Prime for free](https://www.polygon.com/black-friday/484240/amazon-prime-free-gen-z-student-sale)
- - [Why Journey to the Savage Planet is one of the hidden gems of PC Game Pass](https://www.pcgamer.com/games/adventure/why-journey-to-the-savage-planet-is-one-of-the-hidden-gems-of-pc-game-pass)
- - [The Silent Hill 2 remake is 57% off during Black Friday](https://www.polygon.com/black-friday/487310/silent-hill-2-ps5-pc-deal)<!-- GAME:END -->
+ - [How Indiana Jones and the Great Circle Brings Us Inside the Mind of Indy](https://news.xbox.com/en-us/2024/11/29/indiana-jones-and-the-great-circle-inside-indy-mind-interview/)
+ - [I&amp;#8217;ve sorted through thousands of Black Friday deals, and these are the very best](https://www.polygon.com/black-friday/475492/best-deals-games-movies-toys)
+ - [Thinking of upgrading to WiFi 7? ASUS&#39; gaming routers are ready for deployment](https://www.pcgamer.com/hardware/thinking-of-upgrading-to-wifi-7-asus-gaming-routers-sponsored)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
