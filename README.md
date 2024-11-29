@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Why it&#39;s important to turn off your high beams!](http://9gag.com/gag/aMVKZ71)
- - ⏩ [How is he not passed out in the ground?](http://9gag.com/gag/a0e7Q2d)
- - 👉 [The forbidden bend](http://9gag.com/gag/aVv73LP)<!-- MEMES:END -->
+ - 💣 [Four dollars worth of pain](http://9gag.com/gag/a6ZEErm)
+ - ⏩ [He could be depressed?](http://9gag.com/gag/a9yEKE1)
+ - 👉 [Bro was like: are you f**king serious?](http://9gag.com/gag/an7Q96b)<!-- MEMES:END -->
 
 ---
 
