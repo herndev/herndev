@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Martha](http://9gag.com/gag/aBy2g5x)
- - ⏩ [Carelessness hurt you](http://9gag.com/gag/a1mrQZ8)
- - 👉 [It has been 999 days since the break of 1000 year `Killing Stone`, Sessho-seki. In Japanese mythology this released the 9-tailed fox demon named Tamamo-no-Mae.](http://9gag.com/gag/aQzo39K)<!-- MEMES:END -->
+ - 💣 [Why it&#39;s important to turn off your high beams!](http://9gag.com/gag/aMVKZ71)
+ - ⏩ [How is he not passed out in the ground?](http://9gag.com/gag/a0e7Q2d)
+ - 👉 [The forbidden bend](http://9gag.com/gag/aVv73LP)<!-- MEMES:END -->
 
 ---
 
