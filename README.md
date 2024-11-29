@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [When will your Thai girl\u2026](http://9gag.com/gag/azxM99b)
- - ⏩ [The forbidden bend](http://9gag.com/gag/aVv73LP)
- - 👉 [Poland](http://9gag.com/gag/avy5oXq)<!-- MEMES:END -->
+ - 💣 [He could be depressed?](http://9gag.com/gag/a9yEKE1)
+ - ⏩ [When will your Thai girl\u2026](http://9gag.com/gag/azxM99b)
+ - 👉 [This encounter was meant.](http://9gag.com/gag/ae9ArLW)<!-- MEMES:END -->
 
 ---
 
