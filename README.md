@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Where&#39;s she](http://9gag.com/gag/aW4jxzx)
- - ⏩ [Carelessness hurt you](http://9gag.com/gag/a1mrQZ8)
- - 👉 [When you want to play a game to relieve tension.](http://9gag.com/gag/agmBnjW)<!-- MEMES:END -->
+ - 💣 [. . .](http://9gag.com/gag/a87E3np)
+ - ⏩ [The forbidden bend](http://9gag.com/gag/aVv73LP)
+ - 👉 [Geniedislikescloud](http://9gag.com/gag/aBy2xdZ)<!-- MEMES:END -->
 
 ---
 
