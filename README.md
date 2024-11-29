@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Thinking of upgrading to WiFi 7? ASUS&#39; gaming routers are ready for deployment](https://www.pcgamer.com/hardware/thinking-of-upgrading-to-wifi-7-asus-gaming-routers-are-ready-for-deployment)
  - [The ultra-violent time-bending horror FPS that always leaves my palms sweaty and heart racing is now less than a buck](https://www.pcgamer.com/games/action/the-ultra-violent-time-bending-horror-fps-that-always-leaves-my-palms-sweaty-and-heart-racing-is-now-less-than-a-buck)
- - [Astro Bot gets its first discount for Black Friday](https://www.polygon.com/black-friday/480817/astro-bot-ps5-discount)
- - [The best gaming deals of Black Friday](https://www.polygon.com/black-friday/475504/best-gaming-deals-video-games)<!-- GAME:END -->
+ - [Astro Bot gets its first discount for Black Friday](https://www.polygon.com/black-friday/480817/astro-bot-ps5-discount)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
