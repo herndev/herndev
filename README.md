@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Grab best robot vacuum and mop deals from $139 during Roborock 2024 Black Friday sales promotion](https://appleinsider.com/articles/24/11/29/grab-best-robot-vacuum-and-mop-deals-from-139-during-roborock-2024-black-friday-sales-promotion?utm_medium=rss)
- - [29 Best Black Friday Gaming Deals &lpar;2024&rpar;, Consoles and Games](https://www.wired.com/story/black-friday-gaming-deals-2024/)
- - [Galaxy S25 and 25 Plus colors appear in parts leak: Do they live up to the ‘Sparkling’ name?](https://www.androidauthority.com/samsung-galaxy-s25-galaxy-s25-plus-color-options-3504114/)<!-- TECH:END -->
+ - [Filing: Zomato has raised $1B by issuing approximately 336.5M shares at about $3 each, its first major fundraise since its 2021 IPO &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/241129/p1#a241129p1)
+ - [B&amp;H&#39;s Black Friday Mac mini M4 Deal Zone slashes 2024 desktop to $529](https://appleinsider.com/articles/24/11/29/bhs-black-friday-mac-mini-m4-deal-zone-slashes-2024-desktop-to-529?utm_medium=rss)
+ - [Stream These 17 Netflix Sci-Fi TV Shows for Some Out-of-This-World Fun](https://www.cnet.com/tech/services-and-software/best-sci-fi-tv-shows-on-netflix-2024/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
