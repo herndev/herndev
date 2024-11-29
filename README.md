@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Deal: Save 50% on the TicWatch Pro 5 for the first time](https://www.androidauthority.com/deal-ticwatch-pro-5-3504337/)
- - [The best Black Friday tech deals we’ve found &lpar;so far&rpar;](https://www.theverge.com/24307545/black-friday-2024-best-deals-tech-gadgets-cyber-monday-gift-ideas)
- - [Goodbye DeX, Samsung reveals the fate of the Windows app](https://www.androidauthority.com/samsung-dex-support-ends-3504306/)<!-- TECH:END -->
+ - [The best wireless earbuds to buy right now](https://www.theverge.com/21309820/best-wireless-earbuds)
+ - [The best fitness trackers to buy right now](https://www.theverge.com/22985108/best-fitness-tracker)
+ - [The best smartwatches for Android](https://www.theverge.com/23449363/best-android-smartwatches-wear-os)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
