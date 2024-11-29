@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best Black Friday deals on AirPods, AirTags, and other Apple tech](https://www.theverge.com/24305511/black-friday-apple-best-deals-2024-macbook-airpods-cyber-monday)
- - [Deal: Amazon’s newest Kindle is already discounted for Black Friday](https://www.androidauthority.com/amazon-kindle-2024-black-friday-deal-3504391/)
- - [The best Black Friday gaming deals you can shop right now](https://www.theverge.com/24303477/black-friday-best-deals-gaming-nintendo-playstation-xbox-cyber-monday-2024)<!-- TECH:END -->
+ - [Best Black Friday Deals on LED Face Masks &lpar;2024&rpar;](https://www.wired.com/story/led-masks-black-friday-2024/)
+ - [The best Black Friday smartwatch and fitness tracker deals](https://www.theverge.com/good-deals/24306393/black-friday-2024-best-deals-smartwatch-fitness-tracker-wearables-cyber-monday)
+ - [OpenAI sued by Canada’s biggest media outlets](https://www.theverge.com/2024/11/29/24308984/openai-sued-canadian-media-copyright-chatgpt)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
