@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to stay safe shopping during Black Friday with exclusive VPN deals from Surfshark](https://appleinsider.com/articles/24/11/29/how-to-stay-safe-shopping-during-black-friday-with-exclusive-vpn-deals-from-surfshark?utm_medium=rss)
- - [Samsung finally spills the beans on One UI 7, here are the new features!](https://www.androidauthority.com/samsung-one-ui-7-features-3504147/)
- - [Save up to 40% with Aqara Black Friday deals on Apple Home smart locks, cameras &amp; more](https://appleinsider.com/articles/24/11/29/save-up-to-40-with-aqara-black-friday-deals-on-apple-home-smart-locks-cameras-more?utm_medium=rss)<!-- TECH:END -->
+ - [Chinese food delivery giant Meituan reports Q3 revenue up 22.4% YoY to $12.9B, net profit up 3x YoY to $1.78B, and core delivery business up 20.2% YoY to $9.57B &lpar;Casey Hall/Reuters&rpar;](http://www.techmeme.com/241129/p4#a241129p4)
+ - [We&#39;re Tracking the Best Black Friday Deals Live 2024](https://www.wired.com/live/black-friday-2024-liveblog/)
+ - [The 15 Best Black Friday Deals From Best Buy &lpar;2024&rpar;](https://www.wired.com/story/best-buy-black-friday-deals-2024/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
