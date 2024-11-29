@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [&lpar;For Singapore and Malaysia&rpar; Celebrating the LEGO Horizon Adventures launch with a brand-new LEGO set](https://blog.playstation.com/2024/11/28/20241129-legohorizonset/)
- - [&lpar;For Singapore and Malaysia&rpar; Celebrating the LEGO Horizon Adventures launch with a brand-new LEGO set](https://blog.playstation.com/2024/11/28/20241129-legohorizonset/)
- - [Today&#39;s Wordle answer for Friday, November 29](https://www.pcgamer.com/games/puzzle/wordle-answer-today-november-29-2024)<!-- GAME:END -->
+ - [This year&#39;s World of Tanks holiday event stars Jason Statham, who tells us that he could beat Santa in a fight: &#39;Not that I&#39;d enjoy it, mind you&#39;](https://www.pcgamer.com/games/sim/this-years-world-of-tanks-holiday-event-stars-jason-statham-who-tells-us-that-he-could-beat-santa-in-a-fight-not-that-id-enjoy-it-mind-you)
+ - [If Crank 3 ever happens, Jason Statham says he&#39;s &#39;pumped and a bit wary&#39; about what the directors might throw at him](https://www.pcgamer.com/movies-tv/if-crank-3-ever-happens-jason-statham-says-hes-pumped-and-a-bit-wary-about-what-the-directors-might-throw-at-him)
+ - [Tencent&#39;s big new survival game looks like Palworld wrapped in Horizon Zero Dawn, but it does have an interesting premise: &#39;Why can&#39;t human beings kill God?&#39;](https://www.pcgamer.com/games/survival-crafting/tencents-big-new-survival-game-looks-like-palworld-wrapped-in-horizon-zero-dawn-but-it-does-have-an-interesting-premise-why-cant-human-beings-kill-god)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
