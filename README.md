@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [24 Best Black Friday Camera Deals &lpar;2024&rpar;](https://www.wired.com/story/best-black-friday-camera-deals-2024/)
- - [Writers and publishers criticize Spines, which raised a $16M seed round and charges authors $1,200 to $5,000 to use AI to edit and distribute their books &lpar;Ella Creamer/The Guardian&rpar;](http://www.techmeme.com/241128/p23#a241128p23)
- - [Best Christmas Gifts 2024: 63 Ideas to Clear Your Holiday List](https://www.cnet.com/tech/best-christmas-gift-ideas/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Galaxy S25 and 25 Plus colors appear in parts leak: Do they live up to the ‘Sparkling’ name?](https://www.androidauthority.com/samsung-galaxy-s25-galaxy-s25-plus-color-options-3504114/)
+ - [Google’s Thanksgiving 2024 Doodle is all about food, family, and floats](https://www.androidauthority.com/google-doodle-thanksgiving-2024-3504107/)
+ - [ESET researchers find the first UEFI bootkit designed specifically to target Linux systems, marking a shift in bootkits that previously focused on Windows &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/241128/p24#a241128p24)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
