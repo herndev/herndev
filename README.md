@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The GoldenMate LiFePO4 UPS keeps essential equipment running during a power outage](https://www.androidauthority.com/goldenmate-lifepo4-ups-black-friday-3504036/)
- - [Renovating your house? Black Friday is a surprisingly good time to buy light fixtures](https://www.theverge.com/2024/11/29/24308140/black-friday-lighting-deals-2024-pendant-sconce-flush-mount)
- - [Ray-Ban Meta smart glasses come with a $90 credit on top of new all-time low price](https://www.theverge.com/2024/11/29/24308708/ray-ban-meta-smart-glasses-black-friday-deal-sale)<!-- TECH:END -->
+ - [Best Therabody Black Friday Deals &lpar;2024&rpar;: LED Masks, Massage](https://www.wired.com/story/black-friday-therabody-deals-1/)
+ - [The best Black Friday headphone and earbud deals](https://www.theverge.com/24307533/black-friday-best-deals-headphones-wireless-earbuds-airpods-2024-cyber-monday)
+ - [Sources: ByteDance execs fear that launching its own AI models, or apps powered by the models, in the US could give lawmakers another excuse to attack TikTok &lpar;The Information&rpar;](http://www.techmeme.com/241129/p9#a241129p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
