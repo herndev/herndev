@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The 16 Best Holiday Movies to Stream This Season: Netflix, Hulu, Amazon, Disney+](https://www.wired.com/story/holiday-movie-streaming-guide/)
- - [Staff home favorites that are on sale for Black Friday right now](https://www.theverge.com/24307425/black-friday-best-deals-tech-staff-picks-cyber-monday-2024)
- - [Grab the new Apple Watch Series 10 for just $329 in this Black Friday sale](https://appleinsider.com/articles/24/11/29/grab-the-new-apple-watch-series-10-for-just-329-in-this-black-friday-sale?utm_medium=rss)<!-- TECH:END -->
+ - [Max, Hulu, and Paramount Plus are all heavily discounted for Black Friday](https://www.theverge.com/24306534/black-friday-2024-streaming-best-deals-max-hulu-peacock-paramount-plus-cyber-monday)
+ - [New Pixel bug freezes your phone after calls, but here’s how to fix it](https://www.androidauthority.com/pixel-say-answer-bug-fix-3504194/)
+ - [30 Best Black Friday Deals Under $50 &lpar;2024&rpar;](https://www.wired.com/story/black-friday-2024-deals-under-50/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
