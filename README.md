@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I am old](http://9gag.com/gag/aRBXrdy)
- - ⏩ [Where&#39;s she](http://9gag.com/gag/aW4jxzx)
- - 👉 [She could eat an apple through a tennis racket](http://9gag.com/gag/apRNmXp)<!-- MEMES:END -->
+ - 💣 [Bait n switch](http://9gag.com/gag/aMVK4gM)
+ - ⏩ [The Matrix: Mirrored doorknob: There was no way to properly hide the camera, so the director of photography threw a coat onto himself with a tie matching the one Morpheus was wearing, trying to blend in as much as possible.](http://9gag.com/gag/an7QQp5)
+ - 👉 [\u201cDid your genes even fight?\u201d](http://9gag.com/gag/aW4jjLx)<!-- MEMES:END -->
 
 ---
 
