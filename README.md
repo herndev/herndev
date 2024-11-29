@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle answer for Friday, November 29](https://www.pcgamer.com/games/puzzle/wordle-answer-today-november-29-2024)
  - [Nintendo’s biggest ever Black Friday deals are here, knocking $75 off consoles](https://www.polygon.com/black-friday/483613/nintendo-switch-deal-pro-controller)
- - [The best early Magic: The Gathering deals of Black Friday](https://www.polygon.com/black-friday/475291/best-early-magic-gathering-mtg-deals)
- - [Astro Bot gets its first discount ahead of Black Friday](https://www.polygon.com/black-friday/480817/astro-bot-ps5-discount)<!-- GAME:END -->
+ - [The best early Magic: The Gathering deals of Black Friday](https://www.polygon.com/black-friday/475291/best-early-magic-gathering-mtg-deals)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
