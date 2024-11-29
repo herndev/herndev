@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [I am old](http://9gag.com/gag/aRBXrdy)
- - ⏩ [This encounter was meant.](http://9gag.com/gag/ae9ArLW)
- - 👉 [Chinese art college entrance exam](http://9gag.com/gag/avy55xd)<!-- MEMES:END -->
+ - ⏩ [Where&#39;s she](http://9gag.com/gag/aW4jxzx)
+ - 👉 [She could eat an apple through a tennis racket](http://9gag.com/gag/apRNmXp)<!-- MEMES:END -->
 
 ---
 
