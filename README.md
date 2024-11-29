@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Black Friday Magic: The Gathering deals worth shopping before they sell out](https://www.polygon.com/black-friday/475501/best-mtg-deals-magic-gathering)
- - [Black Friday Steam sale alternatives: Even cheaper PC gaming deals](https://www.pcgamer.com/gaming-industry/steam-black-friday-2024-game-deal-alternatives-to-steam-autumn-sale)
- - [The Definitive Severance Podcast Will Be Everything Our Innies And Outies Need](https://kotaku.com/severance-season-2-podcast-ben-stiller-adam-scott-1851710455)<!-- GAME:END -->
+ - [Dragon Age: The Veilguard gets its first sale on PS5 for Black Friday](https://www.polygon.com/black-friday/487710/dragon-age-the-veilguard-ps5-deal)
+ - [Some of my favorite sets are part of Lego’s Black Friday deals](https://www.polygon.com/black-friday/475580/best-lego-deals)
+ - [I&amp;#8217;ve sorted through thousands of Black Friday deals, and these are the very best](https://www.polygon.com/black-friday/475492/best-deals-games-movies-toys)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
