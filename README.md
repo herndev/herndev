@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How Indiana Jones and the Great Circle Brings Us Inside the Mind of Indy](https://news.xbox.com/en-us/2024/11/29/indiana-jones-and-the-great-circle-inside-indy-mind-interview/)
- - [I&amp;#8217;ve sorted through thousands of Black Friday deals, and these are the very best](https://www.polygon.com/black-friday/475492/best-deals-games-movies-toys)
- - [Thinking of upgrading to WiFi 7? ASUS&#39; gaming routers are ready for deployment](https://www.pcgamer.com/hardware/thinking-of-upgrading-to-wifi-7-asus-gaming-routers-sponsored)<!-- GAME:END -->
+ - [No Man&#39;s Sky dev reflects on the new Very Positive rating on Steam and promises that this is only the beginning: &#39;We aren’t even close to being finished yet&#39;](https://www.pcgamer.com/games/action/no-mans-sky-dev-reflects-on-the-new-very-positive-rating-on-steam-and-promises-that-this-is-only-the-beginning-we-arent-even-close-to-being-finished-yet)
+ - [Some of my favorite sets are part of Lego’s Black Friday deals](https://www.polygon.com/black-friday/475580/best-lego-deals)
+ - [Call of Duty: Black Ops 6&#39;s latest legendary operator skin is a fluorescent anime girl with cat ears, and it strikes fear into the hearts of all](https://www.pcgamer.com/games/call-of-duty/call-of-duty-black-ops-6s-latest-legendary-operator-skin-is-a-fluorescent-anime-girl-with-cat-ears-and-it-strikes-fear-into-the-hearts-of-all)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
