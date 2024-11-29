@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [When will your Thai girl\u2026](http://9gag.com/gag/azxM99b)
- - ⏩ [He could be depressed?](http://9gag.com/gag/a9yEKE1)
- - 👉 [Dad telling the waiter his daughter thought he was cute](http://9gag.com/gag/aAybDQd)<!-- MEMES:END -->
+ - 💣 [She&#39;s wrong you know.](http://9gag.com/gag/aGypeB7)
+ - ⏩ [Cheaper than divorce](http://9gag.com/gag/aRBX1KA)
+ - 👉 [Geniedislikescloud](http://9gag.com/gag/aBy2xdZ)<!-- MEMES:END -->
 
 ---
 
