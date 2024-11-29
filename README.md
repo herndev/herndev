@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Rewatching the 2004 Spike TV Video Game Awards, a true time capsule of gaming](https://www.polygon.com/awards/486729/2004-spike-tv-video-game-awards-vgas-snoop-dogg)
- - [The Best Games Of 2024 &lpar;So Far&rpar;](https://kotaku.com/best-video-games-2024-pc-ps5-xbox-switch-1851291118)
- - [Save up to 90% on Hulu, Max, and more streaming services for Black Friday](https://www.polygon.com/black-friday/485706/streaming-deals-hulu-max-peacock-paramount)<!-- GAME:END -->
+ - [Next Week on Xbox: New Games for December 2 to 6](https://news.xbox.com/en-us/2024/11/29/next-week-on-xbox-new-games-for-december-2-to-6/)
+ - [I&amp;#8217;ve sorted through thousands of Black Friday deals, and these are the very best](https://www.polygon.com/black-friday/475492/best-deals-games-movies-toys)
+ - [Riot takes on the quixotic task of policing bad &#39;Off-Platform&#39; conduct by banning offenders from its games and suspending partner privileges](https://www.pcgamer.com/games/riot-takes-on-the-quixotic-task-of-policing-bad-off-platform-conduct-by-banning-offenders-from-its-games-and-suspending-partner-privileges)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
