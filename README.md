@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [This is the laptop I just bought on sale for Black Friday](https://www.polygon.com/black-friday/486592/asus-zephyrus-g14-gaming-laptop-deal)
- - [The best gaming deals of Black Friday](https://www.polygon.com/black-friday/475504/best-gaming-deals-video-games)
- - [D&amp;#038;D’s Black Friday deals include 10% off the 2024 core rulebooks](https://www.polygon.com/black-friday/485330/best-dungeons-dragons-dnd-deals)<!-- GAME:END -->
+ - [Some of my favorite sets are part of Lego’s Black Friday deals](https://www.polygon.com/black-friday/475580/best-lego-deals)
+ - [Terraria dev won&#39;t have staff crunch to get its next big update out before the end of the year: &#39;Apologies for this one taking so long for sure, but it will be well worth it&#39;](https://www.pcgamer.com/games/survival-crafting/terraria-dev-wont-have-staff-crunch-to-get-its-next-big-update-out-before-the-end-of-the-year-apologies-for-this-one-taking-so-long-for-sure-but-it-will-be-well-worth-it)
+ - [Every version of The Lord of the Rings is discounted for Black Friday](https://www.polygon.com/black-friday/486573/lord-of-the-rings-hobbit-book-deal-lotr)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
