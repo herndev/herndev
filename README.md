@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Some of my favorite sets are part of Lego’s Black Friday deals](https://www.polygon.com/black-friday/475580/best-lego-deals)
- - [Terraria dev won&#39;t have staff crunch to get its next big update out before the end of the year: &#39;Apologies for this one taking so long for sure, but it will be well worth it&#39;](https://www.pcgamer.com/games/survival-crafting/terraria-dev-wont-have-staff-crunch-to-get-its-next-big-update-out-before-the-end-of-the-year-apologies-for-this-one-taking-so-long-for-sure-but-it-will-be-well-worth-it)
- - [Every version of The Lord of the Rings is discounted for Black Friday](https://www.polygon.com/black-friday/486573/lord-of-the-rings-hobbit-book-deal-lotr)<!-- GAME:END -->
+ - [The Black Friday Magic: The Gathering deals worth shopping before they sell out](https://www.polygon.com/black-friday/475501/best-mtg-deals-magic-gathering)
+ - [Black Friday Steam sale alternatives: Even cheaper PC gaming deals](https://www.pcgamer.com/gaming-industry/steam-black-friday-2024-game-deal-alternatives-to-steam-autumn-sale)
+ - [The Definitive Severance Podcast Will Be Everything Our Innies And Outies Need](https://kotaku.com/severance-season-2-podcast-ben-stiller-adam-scott-1851710455)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
