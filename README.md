@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Max, Hulu, and Paramount Plus are all heavily discounted for Black Friday](https://www.theverge.com/24306534/black-friday-2024-streaming-best-deals-max-hulu-peacock-paramount-plus-cyber-monday)
- - [New Pixel bug freezes your phone after calls, but here’s how to fix it](https://www.androidauthority.com/pixel-say-answer-bug-fix-3504194/)
- - [30 Best Black Friday Deals Under $50 &lpar;2024&rpar;](https://www.wired.com/story/black-friday-2024-deals-under-50/)<!-- TECH:END -->
+ - [The GoldenMate LiFePO4 UPS keeps essential equipment running during a power outage](https://www.androidauthority.com/goldenmate-lifepo4-ups-black-friday-3504036/)
+ - [Renovating your house? Black Friday is a surprisingly good time to buy light fixtures](https://www.theverge.com/2024/11/29/24308140/black-friday-lighting-deals-2024-pendant-sconce-flush-mount)
+ - [Ray-Ban Meta smart glasses come with a $90 credit on top of new all-time low price](https://www.theverge.com/2024/11/29/24308708/ray-ban-meta-smart-glasses-black-friday-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
