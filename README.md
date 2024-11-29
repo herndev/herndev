@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [This year&#39;s World of Tanks holiday event stars Jason Statham, who tells us that he could beat Santa in a fight: &#39;Not that I&#39;d enjoy it, mind you&#39;](https://www.pcgamer.com/games/sim/this-years-world-of-tanks-holiday-event-stars-jason-statham-who-tells-us-that-he-could-beat-santa-in-a-fight-not-that-id-enjoy-it-mind-you)
- - [If Crank 3 ever happens, Jason Statham says he&#39;s &#39;pumped and a bit wary&#39; about what the directors might throw at him](https://www.pcgamer.com/movies-tv/if-crank-3-ever-happens-jason-statham-says-hes-pumped-and-a-bit-wary-about-what-the-directors-might-throw-at-him)
- - [Tencent&#39;s big new survival game looks like Palworld wrapped in Horizon Zero Dawn, but it does have an interesting premise: &#39;Why can&#39;t human beings kill God?&#39;](https://www.pcgamer.com/games/survival-crafting/tencents-big-new-survival-game-looks-like-palworld-wrapped-in-horizon-zero-dawn-but-it-does-have-an-interesting-premise-why-cant-human-beings-kill-god)<!-- GAME:END -->
+ - [The ultra-violent time-bending horror FPS that always leaves my palms sweaty and heart racing is now less than a buck](https://www.pcgamer.com/games/action/the-ultra-violent-time-bending-horror-fps-that-always-leaves-my-palms-sweaty-and-heart-racing-is-now-less-than-a-buck)
+ - [Astro Bot gets its first discount for Black Friday](https://www.polygon.com/black-friday/480817/astro-bot-ps5-discount)
+ - [The best gaming deals of Black Friday](https://www.polygon.com/black-friday/475504/best-gaming-deals-video-games)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
