@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Black Friday Deals on LED Face Masks &lpar;2024&rpar;](https://www.wired.com/story/led-masks-black-friday-2024/)
- - [The best Black Friday smartwatch and fitness tracker deals](https://www.theverge.com/good-deals/24306393/black-friday-2024-best-deals-smartwatch-fitness-tracker-wearables-cyber-monday)
- - [OpenAI sued by Canada’s biggest media outlets](https://www.theverge.com/2024/11/29/24308984/openai-sued-canadian-media-copyright-chatgpt)<!-- TECH:END -->
+ - [250 Absolute Best Black Friday Deals &lpar;2024&rpar;](https://www.wired.com/story/absolute-best-black-friday-deals-2024/)
+ - [Samsung&#39;s Black Friday TV deals knock up to $1,400 off OLED, The Frame models](https://appleinsider.com/articles/24/11/29/samsungs-black-friday-tv-deals-knock-up-to-1400-off-oled-the-frame-models?utm_medium=rss)
+ - [Chrome may soon give you an instant web store trust assessment](https://www.androidauthority.com/chrome-store-review-feature-3504394/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
