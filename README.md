@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The EU ends its long-running probe into whether Amazon received illegal tax benefits worth &amp;euro;250M from Luxembourg, where Amazon&#39;s EU HQ is, after court losses &lpar;Natasha Lomas/TechCrunch&rpar;](http://www.techmeme.com/241128/p21#a241128p21)
- - [Details of Australia&#39;s social media ban for kids remain unclear, such as how to enforce it and what platforms it covers; kids and parents won&#39;t face punishment &lpar;Victoria Kim/New York Times&rpar;](http://www.techmeme.com/241128/p20#a241128p20)
- - [&#39;Outlander&#39; Season 7 Part 2 Episode Release Schedule and How to Watch](https://www.cnet.com/tech/services-and-software/outlander-season-7-part-2-episode-release-schedule-how-to-watch/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The German government plans new chip subsidies, sources say about &amp;euro;2B, two months after Intel shelved plans to build a &amp;euro;30B factory in Magdeburg &lpar;Christina Kyriasoglou/Bloomberg&rpar;](http://www.techmeme.com/241128/p22#a241128p22)
+ - [Best Black Friday Deals Live Right Now: 80+ Hot Deals on Tech Gadgets, Kitchen Appliances, Smart Home Tech and More](https://www.cnet.com/deals/best-black-friday-deals-live-2024-11-28/#ftag=CAD590a51e)
+ - [145 Best Black Friday Deals Ready on Thanksgiving Day](https://www.wired.com/story/early-black-friday-deals-2024-3/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
