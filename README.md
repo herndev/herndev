@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Next Week on Xbox: New Games for December 2 to 6](https://news.xbox.com/en-us/2024/11/29/next-week-on-xbox-new-games-for-december-2-to-6/)
- - [I&amp;#8217;ve sorted through thousands of Black Friday deals, and these are the very best](https://www.polygon.com/black-friday/475492/best-deals-games-movies-toys)
- - [Riot takes on the quixotic task of policing bad &#39;Off-Platform&#39; conduct by banning offenders from its games and suspending partner privileges](https://www.pcgamer.com/games/riot-takes-on-the-quixotic-task-of-policing-bad-off-platform-conduct-by-banning-offenders-from-its-games-and-suspending-partner-privileges)<!-- GAME:END -->
+ - [Are you Gen Z or a student? Get 6 months of Amazon Prime for free](https://www.polygon.com/black-friday/484240/amazon-prime-free-gen-z-student-sale)
+ - [Why Journey to the Savage Planet is one of the hidden gems of PC Game Pass](https://www.pcgamer.com/games/adventure/why-journey-to-the-savage-planet-is-one-of-the-hidden-gems-of-pc-game-pass)
+ - [The Silent Hill 2 remake is 57% off during Black Friday](https://www.polygon.com/black-friday/487310/silent-hill-2-ps5-pc-deal)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
