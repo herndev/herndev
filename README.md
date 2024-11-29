@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Farming simulator gives me immense satisfaction.](http://9gag.com/gag/aW4jx3Z)
- - ⏩ [Wholesome posts that I saved #10](http://9gag.com/gag/aGypg5w)
- - 👉 [Krampus parade](http://9gag.com/gag/adB852Z)<!-- MEMES:END -->
+ - 💣 [When will your Thai girl\u2026](http://9gag.com/gag/azxM99b)
+ - ⏩ [Good vibes](http://9gag.com/gag/a1mrQ9Y)
+ - 👉 [DB Cooper may have been identified! Siblings say their late father was the hijacker after finding a matching parachute. FBI investigating.](http://9gag.com/gag/a87E3WZ)<!-- MEMES:END -->
 
 ---
 
