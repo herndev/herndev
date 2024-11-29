@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Writers and publishers criticize Spines, which raised a $16M seed round and charges authors $1,200 to $5,000 to use AI to edit and distribute their books &lpar;Ella Creamer/The Guardian&rpar;](http://www.techmeme.com/241128/p23#a241128p23)
  - [The German government plans new chip subsidies, sources say about &amp;euro;2B, two months after Intel shelved plans to build a &amp;euro;30B factory in Magdeburg &lpar;Christina Kyriasoglou/Bloomberg&rpar;](http://www.techmeme.com/241128/p22#a241128p22)
- - [Best Black Friday Deals Live Right Now: 80+ Hot Deals on Tech Gadgets, Kitchen Appliances, Smart Home Tech and More](https://www.cnet.com/deals/best-black-friday-deals-live-2024-11-28/#ftag=CAD590a51e)
- - [145 Best Black Friday Deals Ready on Thanksgiving Day](https://www.wired.com/story/early-black-friday-deals-2024-3/)<!-- TECH:END -->
+ - [Best Black Friday Deals Live Right Now: 80+ Hot Deals on Tech Gadgets, Kitchen Appliances, Smart Home Tech and More](https://www.cnet.com/deals/best-black-friday-deals-live-2024-11-28/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
