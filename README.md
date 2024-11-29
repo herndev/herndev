@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Life as a 6ft7 Woman](http://9gag.com/gag/a9yEEeD)
- - ⏩ [Phil is dead](http://9gag.com/gag/ayNM90V)
- - 👉 [The moment u know ur officially a WIZARD](http://9gag.com/gag/azxMedj)<!-- MEMES:END -->
+ - 💣 [I am old](http://9gag.com/gag/aRBXrdy)
+ - ⏩ [This encounter was meant.](http://9gag.com/gag/ae9ArLW)
+ - 👉 [Chinese art college entrance exam](http://9gag.com/gag/avy55xd)<!-- MEMES:END -->
 
 ---
 
