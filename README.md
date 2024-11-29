@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [20 Astonishing Indie Games To Play Or Wishlist Immediately](https://kotaku.com/thanksgaming-24-unknown-indie-games-steam-wishlist-1851710308)
- - [The Complete Calvin and Hobbes box set is a steal at 63% off](https://www.polygon.com/black-friday/487429/calvin-hobbes-collection-deal-amazon)
- - [Denis Villeneuve&#39;s Childhood Keeps Him From Directing A Star Wars Movie](https://kotaku.com/denis-villeneuves-childhood-keeps-him-from-directing-a-1851710355)<!-- GAME:END -->
+ - [This is the laptop I just bought on sale for Black Friday](https://www.polygon.com/black-friday/486592/asus-zephyrus-g14-gaming-laptop-deal)
+ - [The best gaming deals of Black Friday](https://www.polygon.com/black-friday/475504/best-gaming-deals-video-games)
+ - [D&amp;#038;D’s Black Friday deals include 10% off the 2024 core rulebooks](https://www.polygon.com/black-friday/485330/best-dungeons-dragons-dnd-deals)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
