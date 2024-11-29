@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [One UI 7 is here: Release date, beta timeline, confirmed features and everything else we know](https://www.androidauthority.com/one-ui-7-3429831/)
- - [Didi reports Q3 revenue up 5% YoY to $7.44B and a net income of $128M, its second straight quarterly profit, as the company prepares for a Hong Kong IPO &lpar;Claire Che/Bloomberg&rpar;](http://www.techmeme.com/241129/p5#a241129p5)
- - [12 Best Black Friday Coffee and Espresso Deals &lpar;2024&rpar;](https://www.wired.com/story/black-friday-coffee-deals/)<!-- TECH:END -->
+ - [Branch Black Friday Sale &lpar;2024&rpar;: Deals on Office Chairs](https://www.wired.com/story/branch-black-friday-sale-2024-1/)
+ - [The best Black Friday deals we’ve found &lpar;so far&rpar;](https://www.theverge.com/24307545/black-friday-2024-best-deals-tech-gadgets-cyber-monday-gift-ideas)
+ - [Black Friday Apple deals: live 2024 sales on Mac, iPad, Apple Watch, iPhone &amp; more](https://appleinsider.com/articles/24/11/29/black-friday-apple-deals-live-2024-sales-on-mac-ipad-apple-watch-iphone-more?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
