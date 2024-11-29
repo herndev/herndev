@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Whats up with these grape fantasies](http://9gag.com/gag/a7oE3Kr)
- - ⏩ [Poland](http://9gag.com/gag/avy5oXq)
- - 👉 [Geniedislikescloud](http://9gag.com/gag/aBy2xdZ)<!-- MEMES:END -->
+ - 💣 [When will your Thai girl\u2026](http://9gag.com/gag/azxM99b)
+ - ⏩ [The forbidden bend](http://9gag.com/gag/aVv73LP)
+ - 👉 [Poland](http://9gag.com/gag/avy5oXq)<!-- MEMES:END -->
 
 ---
 
