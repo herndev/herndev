@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Chinese food delivery giant Meituan reports Q3 revenue up 22.4% YoY to $12.9B, net profit up 3x YoY to $1.78B, and core delivery business up 20.2% YoY to $9.57B &lpar;Casey Hall/Reuters&rpar;](http://www.techmeme.com/241129/p4#a241129p4)
- - [We&#39;re Tracking the Best Black Friday Deals Live 2024](https://www.wired.com/live/black-friday-2024-liveblog/)
- - [The 15 Best Black Friday Deals From Best Buy &lpar;2024&rpar;](https://www.wired.com/story/best-buy-black-friday-deals-2024/)<!-- TECH:END -->
+ - [One UI 7 is here: Release date, beta timeline, confirmed features and everything else we know](https://www.androidauthority.com/one-ui-7-3429831/)
+ - [Didi reports Q3 revenue up 5% YoY to $7.44B and a net income of $128M, its second straight quarterly profit, as the company prepares for a Hong Kong IPO &lpar;Claire Che/Bloomberg&rpar;](http://www.techmeme.com/241129/p5#a241129p5)
+ - [12 Best Black Friday Coffee and Espresso Deals &lpar;2024&rpar;](https://www.wired.com/story/black-friday-coffee-deals/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
