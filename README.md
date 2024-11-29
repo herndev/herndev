@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [She&#39;s wrong you know.](http://9gag.com/gag/aGypeB7)
- - ⏩ [Cheaper than divorce](http://9gag.com/gag/aRBX1KA)
+ - 💣 [It has been 999 days since the break of 1000 year `Killing Stone`, Sessho-seki. In Japanese mythology this released the 9-tailed fox demon named Tamamo-no-Mae.](http://9gag.com/gag/aQzo39K)
+ - ⏩ [Bro was like: are you f**king serious?](http://9gag.com/gag/an7Q96b)
  - 👉 [Geniedislikescloud](http://9gag.com/gag/aBy2xdZ)<!-- MEMES:END -->
 
 ---
