@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best wireless earbuds to buy right now](https://www.theverge.com/21309820/best-wireless-earbuds)
- - [The best fitness trackers to buy right now](https://www.theverge.com/22985108/best-fitness-tracker)
- - [The best smartwatches for Android](https://www.theverge.com/23449363/best-android-smartwatches-wear-os)<!-- TECH:END -->
+ - [The best Black Friday deals on AirPods, AirTags, and other Apple tech](https://www.theverge.com/24305511/black-friday-apple-best-deals-2024-macbook-airpods-cyber-monday)
+ - [Deal: Amazon’s newest Kindle is already discounted for Black Friday](https://www.androidauthority.com/amazon-kindle-2024-black-friday-deal-3504391/)
+ - [The best Black Friday gaming deals you can shop right now](https://www.theverge.com/24303477/black-friday-best-deals-gaming-nintendo-playstation-xbox-cyber-monday-2024)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
