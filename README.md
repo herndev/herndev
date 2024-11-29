@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Four dollars worth of pain](http://9gag.com/gag/a6ZEErm)
- - ⏩ [He could be depressed?](http://9gag.com/gag/a9yEKE1)
- - 👉 [Bro was like: are you f**king serious?](http://9gag.com/gag/an7Q96b)<!-- MEMES:END -->
+ - 💣 [Where&#39;s she](http://9gag.com/gag/aW4jxzx)
+ - ⏩ [Carelessness hurt you](http://9gag.com/gag/a1mrQZ8)
+ - 👉 [When you want to play a game to relieve tension.](http://9gag.com/gag/agmBnjW)<!-- MEMES:END -->
 
 ---
 
