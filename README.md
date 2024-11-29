@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Thinking of upgrading to WiFi 7? ASUS&#39; gaming routers are ready for deployment](https://www.pcgamer.com/hardware/thinking-of-upgrading-to-wifi-7-asus-gaming-routers-are-ready-for-deployment)
- - [The ultra-violent time-bending horror FPS that always leaves my palms sweaty and heart racing is now less than a buck](https://www.pcgamer.com/games/action/the-ultra-violent-time-bending-horror-fps-that-always-leaves-my-palms-sweaty-and-heart-racing-is-now-less-than-a-buck)
- - [Astro Bot gets its first discount for Black Friday](https://www.polygon.com/black-friday/480817/astro-bot-ps5-discount)<!-- GAME:END -->
+ - [Rewatching the 2004 Spike TV Video Game Awards, a true time capsule of gaming](https://www.polygon.com/awards/486729/2004-spike-tv-video-game-awards-vgas-snoop-dogg)
+ - [The Best Games Of 2024 &lpar;So Far&rpar;](https://kotaku.com/best-video-games-2024-pc-ps5-xbox-switch-1851291118)
+ - [Save up to 90% on Hulu, Max, and more streaming services for Black Friday](https://www.polygon.com/black-friday/485706/streaming-deals-hulu-max-peacock-paramount)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
