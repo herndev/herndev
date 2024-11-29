@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This photograph, taken by Andrew McAuley during his attempt to kayak 991 miles across the Tasman Sea from Australia to New Zealand, captures one of his final moments before he vanished at sea.](http://9gag.com/gag/ajPmm6q)
- - ⏩ [This encounter was meant.](http://9gag.com/gag/ae9ArLW)
- - 👉 [Bro was like: are you f**king serious?](http://9gag.com/gag/an7Q96b)<!-- MEMES:END -->
+ - 💣 [Just told her, I&#39;m gonna post sexy and racist stuff this week.](http://9gag.com/gag/agmBnqq)
+ - ⏩ [How is he not passed out in the ground?](http://9gag.com/gag/a0e7Q2d)
+ - 👉 [Life as a 6ft7 Woman](http://9gag.com/gag/a9yEEeD)<!-- MEMES:END -->
 
 ---
 
