@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Wingman](http://9gag.com/gag/aW4j7d3)
- - ⏩ [Oh no](http://9gag.com/gag/a34EGLr)
- - 👉 [Looking up first is funny :D](http://9gag.com/gag/aNDp9Vw)<!-- MEMES:END -->
+ - 💣 [I wonder why](http://9gag.com/gag/a34EAB5)
+ - ⏩ [Based](http://9gag.com/gag/abAV4wX)
+ - 👉 [He just nuked India&#39;s tourism industry!](http://9gag.com/gag/aGypBYn)<!-- MEMES:END -->
 
 ---
 
