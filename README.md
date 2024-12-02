@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Oh no](http://9gag.com/gag/a34EGLr)
- - ⏩ [Might have bought migraine tablets](http://9gag.com/gag/aKG6GZj)
- - 👉 [Parking](http://9gag.com/gag/avy5Wwb)<!-- MEMES:END -->
+ - 💣 [She didn\u2019t just\u2026 she didn\u2019t.. did she?](http://9gag.com/gag/aAybQw2)
+ - ⏩ [Parking](http://9gag.com/gag/avy5Wwb)
+ - 👉 [Bring it in europe](http://9gag.com/gag/aYQoEjq)<!-- MEMES:END -->
 
 ---
 
