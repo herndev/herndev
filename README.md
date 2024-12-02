@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Death. Taxes. Never challenge a Pinoy in a Karaoke Battle.](http://9gag.com/gag/aQzozK2)
- - ⏩ [POV you are winning in life](http://9gag.com/gag/amoPonj)
- - 👉 [Grand poobah](http://9gag.com/gag/aNDp9g0)<!-- MEMES:END -->
+ - 💣 [Japanese Gibbon performing Chikan](http://9gag.com/gag/a87E7A6)
+ - ⏩ [Lee was the only True ninja in the series, remaining all are people with super powers, magic and shit, Lee deserved much better than what they did to him.](http://9gag.com/gag/aryMy8p)
+ - 👉 [POV you are winning in life](http://9gag.com/gag/amoPonj)<!-- MEMES:END -->
 
 ---
 
