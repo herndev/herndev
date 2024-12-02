@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [If you grab one of these five Cyber Monday gaming keyboard deals, promise me you&#39;ll use it for Baldur&#39;s Gate 3 and not just replying to your emails](https://www.pcgamer.com/hardware/gaming-chairs/if-you-grab-one-of-these-five-cyber-monday-gaming-keyboard-deals-promise-me-youll-use-it-for-baldurs-gate-3-and-not-just-replying-to-your-emails)
- - [GOG Makes Big Promise On Game Preservation As Blizzard Pulls Warcraft I And II From Its Store](https://kotaku.com/gog-warcraft-1-2-classic-remaster-drm-preservation-1851711097)
- - [Russian disinfo is trying to spark a boycott of Stalker 2 by claiming it&#39;s going to draft you into the war in Ukraine somehow](https://www.pcgamer.com/games/fps/russian-disinfo-is-trying-to-spark-a-boycott-of-stalker-2-by-claiming-its-going-to-draft-you-into-the-war-in-ukraine-somehow)<!-- GAME:END -->
+ - [Mechanisms Become Mechanics: Inventing Puzzles for Indiana Jones and the Great Circle](https://news.xbox.com/en-us/2024/12/02/indiana-jones-and-the-great-circle-puzzles-interview/)
+ - [The PS1&#39;s Iconic Boot-Up Is Now Waiting For You On Your PS5](https://kotaku.com/ps5-update-ps1-boot-up-screen-ps2-30th-anniversary-ps3-1851711154)
+ - [Amazon’s board game deals are Cyber Monday standouts](https://www.polygon.com/cyber-monday/475663/best-board-game-deals)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
