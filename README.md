@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Anyone else have this problem?](http://9gag.com/gag/aQzomnw)
- - ⏩ [So the only thing that the Brexit caused was the exit of white people?](http://9gag.com/gag/a34EyON)
- - 👉 [Technology man](http://9gag.com/gag/a1mr5QG)<!-- MEMES:END -->
+ - 💣 [Based](http://9gag.com/gag/abAV4wX)
+ - ⏩ [BMW driver doesn\u2019t move for a fire truck because of his ego](http://9gag.com/gag/aYQoPr7)
+ - 👉 [Waifu barber](http://9gag.com/gag/amoP10v)<!-- MEMES:END -->
 
 ---
 
