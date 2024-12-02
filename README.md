@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Deals: grab a MacBook Air with 16GB RAM for $799 this Cyber Monday](https://appleinsider.com/articles/24/12/02/deals-grab-a-macbook-air-with-16gb-ram-for-799-this-cyber-monday?utm_medium=rss)
- - [We Found the 80+ Best Cyber Monday Deals to Shop on Laptops, Vacuums, TVs and More](https://www.cnet.com/deals/best-cyber-monday-deals-live-2024-12-01/#ftag=CAD590a51e)
- - [The Nespresso Vertuo Pop Plus Is $60 Less for Cyber Monday and Easily the Best Deal You&#39;ll Brew This Holiday Season](https://www.cnet.com/deals/the-nespresso-vertuo-pop-plus-is-60-less-for-cyber-monday-and-easily-the-best-deal-youll-brew-this-holiday-season/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The best Cyber Monday gaming deals you can get](https://www.theverge.com/24303477/black-friday-best-deals-gaming-nintendo-playstation-xbox-cyber-monday-2024)
+ - [The 100 best Cyber Monday deals under $100](https://www.theverge.com/24309009/black-friday-2024-best-deals-under-100-tech-gift-ideas-cyber-monday)
+ - [370 Absolute Best Black Friday Deals Still Available &lpar;2024&rpar; | WIRED](https://www.wired.com/story/absolute-best-black-friday-deals-2024-1/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
