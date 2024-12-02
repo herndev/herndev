@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Never mind 8 Elite: Leaks are here for Qualcomm’s next Android flagship chip](https://www.androidauthority.com/snapdragon-8-elite-gen-2-price-specs-leak-3504545/)
- - [Best MacBook Pro Cyber Monday deals slash prices by up to $600, better than Black Friday](https://appleinsider.com/articles/24/12/02/best-macbook-pro-cyber-monday-deals-slash-prices-by-up-to-600-better-than-black-friday?utm_medium=rss)
- - [Google Translate could offer a richer, seamless Instant Translate experience &lpar;Updated: Rolling out&rpar;](https://www.androidauthority.com/google-translate-richer-seamless-instant-translate-apk-teardown-3492801/)<!-- TECH:END -->
+ - [The $529 Mac mini M4 deal is back for Cyber Monday, but supply is limited](https://appleinsider.com/articles/24/12/02/the-529-mac-mini-m4-deal-is-back-for-cyber-monday-but-supply-is-limited?utm_medium=rss)
+ - [Inside Helsinki&#39;s Slush 2024, a startup event described as a mix of TED Talks, Eurovision, and Shark Tank, attended by ~13K people, with LPs up 46% YoY to 350+ &lpar;Bloomberg&rpar;](http://www.techmeme.com/241202/p9#a241202p9)
+ - [The UN&#39;s ITU and the International Cable Protection Committee announce a 40-member global advisory body to support the resilience of submarine telecom cables &lpar;Laura Dobberstein/The Register&rpar;](http://www.techmeme.com/241202/p8#a241202p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
