@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The Matrix: Mirrored doorknob: There was no way to properly hide the camera, so the director of photography threw a coat onto himself with a tie matching the one Morpheus was wearing, trying to blend in as much as possible.](http://9gag.com/gag/an7QQp5)
- - ⏩ [How is he not passed out in the ground?](http://9gag.com/gag/a0e7Q2d)
- - 👉 [Blast blows out windows behind wedding couple](http://9gag.com/gag/azxM1Pm)<!-- MEMES:END -->
+ - 💣 [Pizza flipping skills](http://9gag.com/gag/a6ZEXLm)
+ - ⏩ [That sweet sound of crying little shit](http://9gag.com/gag/aLnpeb6)
+ - 👉 [Bailey, play dead. &lpar;an oldie but a goodie&rpar;](http://9gag.com/gag/aGyp865)<!-- MEMES:END -->
 
 ---
 
