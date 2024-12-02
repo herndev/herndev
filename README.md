@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [That sweet sound of crying little shit](http://9gag.com/gag/aLnpeb6)
- - ⏩ [Nice stick](http://9gag.com/gag/a34EAj5)
- - 👉 [I wonder why](http://9gag.com/gag/a34EAB5)<!-- MEMES:END -->
+ - 💣 [Wingman](http://9gag.com/gag/aW4j7d3)
+ - ⏩ [Oh no](http://9gag.com/gag/a34EGLr)
+ - 👉 [Looking up first is funny :D](http://9gag.com/gag/aNDp9Vw)<!-- MEMES:END -->
 
 ---
 
