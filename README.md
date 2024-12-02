@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Based](http://9gag.com/gag/abAV4wX)
- - ⏩ [BMW driver doesn\u2019t move for a fire truck because of his ego](http://9gag.com/gag/aYQoPr7)
- - 👉 [Waifu barber](http://9gag.com/gag/amoP10v)<!-- MEMES:END -->
+ - 💣 [Sex up against the book shelf](http://9gag.com/gag/ayNMW8p)
+ - ⏩ [Bring it in europe](http://9gag.com/gag/aYQoEjq)
+ - 👉 [New is always better](http://9gag.com/gag/aXPoVwD)<!-- MEMES:END -->
 
 ---
 
