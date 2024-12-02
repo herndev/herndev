@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Animal Crossing’s paid mobile app launches a day early](https://www.theverge.com/2024/12/2/24310972/animal-crossing-pocket-camp-complete-paid-launch-iphone-android)
- - [The OnePlus 13 officially goes global this January, competing against the Galaxy S25](https://www.androidauthority.com/oneplus-13-global-launch-january-2025-3504667/)
- - [Intel says CEO Pat Gelsinger has retired, effective December 1, and stepped down from its board; David Zinsner and Michelle Johnston Holthaus are now co-CEOs &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/241202/p21#a241202p21)<!-- TECH:END -->
+ - [36 Best Cyber Monday Laptop Deals &lpar;2024&rpar;, MacBooks Included](https://www.wired.com/story/best-cyber-monday-laptop-deals-2024/)
+ - [Bose’s fantastic SoundLink Max is finally the right price for Cyber Monday](https://www.theverge.com/2024/12/2/24310531/bose-soundlink-max-bluetooth-speaker-cyber-monday-deal)
+ - [iPhones could eventually get multiple customizable buttons](https://www.androidauthority.com/iphones-eventually-multiple-action-buttons-3504673/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
