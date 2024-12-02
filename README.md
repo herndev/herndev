@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Arcane co-creator reminds fans &#39;there are always constraints&#39;, dispels theories the show was rushed or restrained by Riot&#39;s higher-ups](https://www.pcgamer.com/movies-tv/arcane-co-creator-reminds-fans-there-are-always-constraints-dispels-theories-the-show-was-rushed-or-restrained-by-riots-higher-ups)
- - [How two secret Stalker 2 hacks cut my loading time from 5 minutes to 52 seconds and got me in the Zone faster](https://www.pcgamer.com/games/how-two-secret-stalker-2-hacks-cut-my-loading-time-from-5-minutes-to-52-seconds-and-got-me-in-the-zone-faster)
- - [Amazon’s board game deals are Cyber Monday standouts](https://www.polygon.com/cyber-monday/475663/best-board-game-deals)<!-- GAME:END -->
+ - [Creature Commandos is a final vestige of a pre-James Gunn DC Studios](https://www.polygon.com/dc/483787/james-gunn-creature-commandos-animated-series-max)
+ - [Suicide Squad: Kill The Justice League Costs Less Than A Beer Right Now](https://kotaku.com/suicide-squad-kill-justice-league-steam-sale-1851710954)
+ - [Grab 29 books from perhaps the best TTRPG publisher in the business, including a fantastic alternative to D&amp;D, for just $18 in this limited time bundle](https://www.pcgamer.com/games/rpg/grab-29-books-from-perhaps-the-best-ttrpg-publisher-in-the-business-including-a-fantastic-alternative-to-d-and-d-for-just-usd18-in-this-limited-time-bundle)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
