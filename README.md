@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Cyber Monday deals on Verge staff favorites](https://www.theverge.com/24307425/black-friday-best-deals-tech-staff-picks-cyber-monday-2024)
- - [The top Cyber Monday deals you can get right now](https://www.theverge.com/24309106/best-black-friday-deals-2024-tech-gadgets-cyber-monday)
- - [This $89 Wi-Fi router is designed to let you run whatever firmware you want](https://www.theverge.com/2024/12/2/24310967/openwrt-one-wi-fi-router-available-price-software-freedom-conservancy)<!-- TECH:END -->
+ - [Amazon&#39;s best Cyber Monday Apple deals are live with prices from $11 [updated]](https://appleinsider.com/articles/24/11/30/amazons-best-cyber-monday-apple-deals-are-live-with-prices-from-11?utm_medium=rss)
+ - [6 Best Cyber Monday Dyson Deals on Cordless Stick Vacuums](https://www.wired.com/story/dyson-vacuum-cyber-monday-deals-2024/)
+ - [Best Deals From the REI Cyber Week Sale &lpar;2024&rpar;](https://www.wired.com/story/best-rei-cyber-week-outdoor-deals-2024/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
