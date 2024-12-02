@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [It needs to end happily...](http://9gag.com/gag/a5QEVMO)
- - ⏩ [Sex up against the book shelf](http://9gag.com/gag/ayNMW8p)
- - 👉 [Bring it in europe](http://9gag.com/gag/aYQoEjq)<!-- MEMES:END -->
+ - 💣 [God damn how much crack does he smoke?](http://9gag.com/gag/aKG6Wjb)
+ - ⏩ [Normal for it to move? And the bolt moves?](http://9gag.com/gag/aKG69gj)
+ - 👉 [Ps5 exhaust melted the wall paint. Kept behind tv.](http://9gag.com/gag/aGypnY5)<!-- MEMES:END -->
 
 ---
 
