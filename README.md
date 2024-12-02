@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Dragon Age: The Veilguard gets its first sale on PS5 for Black Friday](https://www.polygon.com/black-friday/487710/dragon-age-the-veilguard-ps5-deal)
- - [Some of my favorite sets are part of Lego’s Black Friday deals](https://www.polygon.com/black-friday/475580/best-lego-deals)
- - [I&amp;#8217;ve sorted through thousands of Black Friday deals, and these are the very best](https://www.polygon.com/black-friday/475492/best-deals-games-movies-toys)<!-- GAME:END -->
+ - [Bambu’s P1P 3D printer is a great Black Friday deal at $449](https://www.polygon.com/black-friday/486471/bambu-p1p-3d-printer-deal)
+ - [Save with 30th Anniversary PlayStation Store deals, live Dec 2](https://blog.playstation.com/2024/12/01/save-with-30th-anniversary-playstation-store-deals-live-dec-2/)
+ - [Save with 30th Anniversary PlayStation Store deals, live Dec 2](https://blog.playstation.com/2024/12/01/save-with-30th-anniversary-playstation-store-deals-live-dec-2/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
