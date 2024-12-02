@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [God damn how much crack does he smoke?](http://9gag.com/gag/aKG6Wjb)
- - ⏩ [Normal for it to move? And the bolt moves?](http://9gag.com/gag/aKG69gj)
- - 👉 [Ps5 exhaust melted the wall paint. Kept behind tv.](http://9gag.com/gag/aGypnY5)<!-- MEMES:END -->
+ - 💣 [Off you go.](http://9gag.com/gag/ajPmOp1)
+ - ⏩ [Based](http://9gag.com/gag/abAV4wX)
+ - 👉 [Herman the German](http://9gag.com/gag/aVv7E5v)<!-- MEMES:END -->
 
 ---
 
