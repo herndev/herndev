@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The best Magic: The Gathering deals of Cyber Monday](https://www.polygon.com/cyber-monday/475665/best-mtg-deals-magic-gathering)
- - [I found the best Cyber Monday deals on all the stuff you love](https://www.polygon.com/cyber-monday/475658/best-deals-games-books-movies-toys)
- - [The best Cyber Monday gaming deals](https://www.polygon.com/cyber-monday/475661/best-gaming-deals-video-games)<!-- GAME:END -->
+ - [Arcane co-creator reminds fans &#39;there are always constraints&#39;, dispels theories the show was rushed or restrained by Riot&#39;s higher-ups](https://www.pcgamer.com/movies-tv/arcane-co-creator-reminds-fans-there-are-always-constraints-dispels-theories-the-show-was-rushed-or-restrained-by-riots-higher-ups)
+ - [How two secret Stalker 2 hacks cut my loading time from 5 minutes to 52 seconds and got me in the Zone faster](https://www.pcgamer.com/games/how-two-secret-stalker-2-hacks-cut-my-loading-time-from-5-minutes-to-52-seconds-and-got-me-in-the-zone-faster)
+ - [Amazon’s board game deals are Cyber Monday standouts](https://www.polygon.com/cyber-monday/475663/best-board-game-deals)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
