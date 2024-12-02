@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Mechanisms Become Mechanics: Inventing Puzzles for Indiana Jones and the Great Circle](https://news.xbox.com/en-us/2024/12/02/indiana-jones-and-the-great-circle-puzzles-interview/)
- - [The PS1&#39;s Iconic Boot-Up Is Now Waiting For You On Your PS5](https://kotaku.com/ps5-update-ps1-boot-up-screen-ps2-30th-anniversary-ps3-1851711154)
- - [Amazon’s board game deals are Cyber Monday standouts](https://www.polygon.com/cyber-monday/475663/best-board-game-deals)<!-- GAME:END -->
+ - [Dauntless: Awakening – Bringing a New Behemoth to Life for This Huge Update](https://news.xbox.com/en-us/2024/12/02/dauntless-awakening-karkonos-behemoth/)
+ - [The best Cyber Monday gaming deals](https://www.polygon.com/cyber-monday/475661/best-gaming-deals-video-games)
+ - [My favorite Lego deals happening on Cyber Monday](https://www.polygon.com/cyber-monday/475668/best-lego-deals)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
