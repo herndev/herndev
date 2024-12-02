@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [That sweet sound of crying little shit](http://9gag.com/gag/aLnpeb6)
- - ⏩ [Ad hominem is missing](http://9gag.com/gag/ayNM4Xy)
- - 👉 [Reality wake the f**k up](http://9gag.com/gag/aqyjXPv)<!-- MEMES:END -->
+ - 💣 [Death. Taxes. Never challenge a Pinoy in a Karaoke Battle.](http://9gag.com/gag/aQzozK2)
+ - ⏩ [POV you are winning in life](http://9gag.com/gag/amoPonj)
+ - 👉 [Grand poobah](http://9gag.com/gag/aNDp9g0)<!-- MEMES:END -->
 
 ---
 
