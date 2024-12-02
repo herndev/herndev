@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Today&#39;s Wordle answer for Monday, December 2](https://www.pcgamer.com/games/puzzle/wordle-answer-today-december-2-2024)
- - [Holiday Sale 2024 in the Philippines featuring Discounts on PlayStation 5 and PS VR2](https://blog.playstation.com/2024/12/01/20241202-phsale/)
- - [Holiday Sale 2024 in the Philippines featuring Discounts on PlayStation 5 and PS VR2](https://blog.playstation.com/2024/12/01/20241202-phsale/)<!-- GAME:END -->
+ - [The best Magic: The Gathering deals of Cyber Monday](https://www.polygon.com/cyber-monday/475665/best-mtg-deals-magic-gathering)
+ - [I found the best Cyber Monday deals on all the stuff you love](https://www.polygon.com/cyber-monday/475658/best-deals-games-books-movies-toys)
+ - [The best Cyber Monday gaming deals](https://www.polygon.com/cyber-monday/475661/best-gaming-deals-video-games)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
