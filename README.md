@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Disney’s Revival Era Animated Films, Now Including Moana 2, Ranked From Worst To Best](https://kotaku.com/disney-movies-best-worst-ranking-frozen-moana-tangled-1851708848)
- - [My favorite Lego deals happening on Cyber Monday](https://www.polygon.com/cyber-monday/475668/best-lego-deals)
- - [I found the best Cyber Monday deals on all the stuff you love](https://www.polygon.com/cyber-monday/475658/best-deals-games-books-movies-toys)<!-- GAME:END -->
+ - [If you grab one of these five Cyber Monday gaming keyboard deals, promise me you&#39;ll use it for Baldur&#39;s Gate 3 and not just replying to your emails](https://www.pcgamer.com/hardware/gaming-chairs/if-you-grab-one-of-these-five-cyber-monday-gaming-keyboard-deals-promise-me-youll-use-it-for-baldurs-gate-3-and-not-just-replying-to-your-emails)
+ - [GOG Makes Big Promise On Game Preservation As Blizzard Pulls Warcraft I And II From Its Store](https://kotaku.com/gog-warcraft-1-2-classic-remaster-drm-preservation-1851711097)
+ - [Russian disinfo is trying to spark a boycott of Stalker 2 by claiming it&#39;s going to draft you into the war in Ukraine somehow](https://www.pcgamer.com/games/fps/russian-disinfo-is-trying-to-spark-a-boycott-of-stalker-2-by-claiming-its-going-to-draft-you-into-the-war-in-ukraine-somehow)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
