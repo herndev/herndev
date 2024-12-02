@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [LG’s 77-inch C3 OLED is the best TV deal you can grab for Cyber Monday](https://www.theverge.com/2024/12/2/24311237/cyber-monday-2024-lg-c3-oled-tv-77-inch)
- - [420 Absolute Best Cyber Monday Deals Picked by Our Experts &lpar;2024&rpar; | WIRED](https://www.wired.com/story/absolute-best-cyber-monday-deals-2024/)
- - [Roblox tries to skirt app store fees by making Robux worth more on other platforms](https://www.theverge.com/2024/12/2/24311337/roblox-robux-app-store-fees-worth-more-party)<!-- TECH:END -->
+ - [Gemini won’t require you to unlock your phone to make calls anymore](https://www.androidauthority.com/gemini-locked-calls-messages-3504818/)
+ - [Apple’s AirTags are cheaper than they’ve ever been for Cyber Monday](https://www.theverge.com/2024/12/2/24311290/cyber-monday-2024-apple-airtags-location-tracker-deal-sale)
+ - [Oil giants blocked a treaty to curb plastic pollution, but countries will try again](https://www.theverge.com/2024/12/2/24310973/plastic-treaty-negotiations-2025)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
