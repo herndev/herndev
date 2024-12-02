@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [AT&amp;T’s new Internet Backup will keep you online when fiber goes down](https://www.androidauthority.com/atnt-internet-backup-feature-3504784/)
- - [The best Cyber Monday phone deals I’d actually recommend to real people](https://www.theverge.com/24306779/black-friday-2024-smartphone-best-deals-apple-samsung-pixel-motorola)
- - [These are the best Cyber Monday gaming deals I’ve found so far](https://www.theverge.com/24303477/black-friday-best-deals-gaming-nintendo-playstation-xbox-cyber-monday-2024)<!-- TECH:END -->
+ - [LG’s 77-inch C3 OLED is the best TV deal you can grab for Cyber Monday](https://www.theverge.com/2024/12/2/24311237/cyber-monday-2024-lg-c3-oled-tv-77-inch)
+ - [420 Absolute Best Cyber Monday Deals Picked by Our Experts &lpar;2024&rpar; | WIRED](https://www.wired.com/story/absolute-best-cyber-monday-deals-2024/)
+ - [Roblox tries to skirt app store fees by making Robux worth more on other platforms](https://www.theverge.com/2024/12/2/24311337/roblox-robux-app-store-fees-worth-more-party)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
