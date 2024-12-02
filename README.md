@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Cyber Monday is a great day to buy a 32-inch OLED gaming monitor](https://www.theverge.com/2024/12/2/24311328/cyber-monday-oled-gaming-monitor-asus-alienware-msi-lg-deal-sale)
- - [AT&amp;T launches a wireless backup for fiber internet outages](https://www.theverge.com/2024/12/2/24311372/att-internet-backup-wireless-cellular)
- - [Apple AirPods Max drop to new record-low price thanks to Cyber Monday!](https://www.androidauthority.com/apple-airpods-max-deal-2-3504864/)<!-- TECH:END -->
+ - [40 Best Cyber Monday Laptop Deals &lpar;2024&rpar;, MacBooks Included](https://www.wired.com/story/best-cyber-monday-laptop-deals-2024/)
+ - [420 Absolute Best Cyber Monday Deals Picked by Our Experts &lpar;2024&rpar; | WIRED](https://www.wired.com/story/absolute-best-cyber-monday-deals-2024/)
+ - [PSA: Here’s how to make sure Gmail’s tracking all your holiday packages](https://www.androidauthority.com/gmail-real-time-package-tracking-3504865/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
