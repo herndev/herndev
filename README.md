@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [OpenAI CFO Sarah Friar says the startup is weighing up an ads model, but plans to be &quot;thoughtful&quot;; sources say OpenAI has hired ad talent from Meta and Google &lpar;Financial Times&rpar;](http://www.techmeme.com/241202/p17#a241202p17)
- - [42 Best Cyber Monday Camera Deals &lpar;2024&rpar;](https://www.wired.com/story/best-cyber-monday-camera-deals-2024/)
- - [Social media videos documenting layoffs are now commonplace, especially by younger workers, creating headaches for companies; TikTok&#39;s #layoff has 32K+ posts &lpar;Cristina Criddle/Financial Times&rpar;](http://www.techmeme.com/241202/p16#a241202p16)<!-- TECH:END -->
+ - [AI Granny and Her Cat Fluffy Go After Phone Spammers](https://www.cnet.com/tech/computing/ai-granny-and-her-cat-fluffy-outtalk-phone-spammers/#ftag=CAD590a51e)
+ - [Best Gaming Consoles of 2024 video](https://www.cnet.com/videos/best-gaming-consoles-of-2024/#ftag=CAD590a51e)
+ - [If You’re Going to Make Something, Here’s How to Make It Robust](https://www.wired.com/story/christopher-tidy-robust-repairability-south-africa/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
