@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Dauntless: Awakening – Bringing a New Behemoth to Life for This Huge Update](https://news.xbox.com/en-us/2024/12/02/dauntless-awakening-karkonos-behemoth/)
- - [The best Cyber Monday gaming deals](https://www.polygon.com/cyber-monday/475661/best-gaming-deals-video-games)
- - [My favorite Lego deals happening on Cyber Monday](https://www.polygon.com/cyber-monday/475668/best-lego-deals)<!-- GAME:END -->
+ - [Star Wars’ Skeleton Crew, Creature Commandos, and more new TV this week](https://www.polygon.com/tv/481283/new-tv-netflix-star-wars-skeleton-crew-creature-commandos-superman-lois)
+ - [5 movies that made Michelle Yeoh one of the great action stars](https://www.polygon.com/what-to-watch/23013092/michelle-yeoh-best-movies-action-martial-arts)
+ - [8 Lego Cyber Monday Deals That Are Actually Good](https://kotaku.com/lego-cyber-monday-deal-harry-potter-star-wars-bts-mario-1851711295)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
