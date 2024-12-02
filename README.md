@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [He just nuked India&#39;s tourism industry!](http://9gag.com/gag/aGypBYn)
- - ⏩ [Can anyone translate ?](http://9gag.com/gag/aYQoDVw)
- - 👉 [Technology man](http://9gag.com/gag/a1mr5QG)<!-- MEMES:END -->
+ - 💣 [It needs to end happily...](http://9gag.com/gag/a5QEVMO)
+ - ⏩ [Sex up against the book shelf](http://9gag.com/gag/ayNMW8p)
+ - 👉 [Bring it in europe](http://9gag.com/gag/aYQoEjq)<!-- MEMES:END -->
 
 ---
 
