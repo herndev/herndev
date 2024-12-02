@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Japanese Gibbon performing Chikan](http://9gag.com/gag/a87E7A6)
- - ⏩ [Lee was the only True ninja in the series, remaining all are people with super powers, magic and shit, Lee deserved much better than what they did to him.](http://9gag.com/gag/aryMy8p)
- - 👉 [POV you are winning in life](http://9gag.com/gag/amoPonj)<!-- MEMES:END -->
+ - 💣 [Ps5 exhaust melted the wall paint. Kept behind tv.](http://9gag.com/gag/aGypnY5)
+ - ⏩ [I&#39;m not even joking, that was his wife, and his real son made it a comedy goldmine](http://9gag.com/gag/agmBQ31)
+ - 👉 [Harry potter and the chamber of tax evasion](http://9gag.com/gag/a4PEnGp)<!-- MEMES:END -->
 
 ---
 
