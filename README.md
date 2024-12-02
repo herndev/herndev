@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Ps5 exhaust melted the wall paint. Kept behind tv.](http://9gag.com/gag/aGypnY5)
- - ⏩ [I&#39;m not even joking, that was his wife, and his real son made it a comedy goldmine](http://9gag.com/gag/agmBQ31)
- - 👉 [Harry potter and the chamber of tax evasion](http://9gag.com/gag/a4PEnGp)<!-- MEMES:END -->
+ - 💣 [Pizza flipping skills](http://9gag.com/gag/a6ZEXLm)
+ - ⏩ [That sweet sound of crying little shit](http://9gag.com/gag/aLnpeb6)
+ - 👉 [He just nuked India&#39;s tourism industry!](http://9gag.com/gag/aGypBYn)<!-- MEMES:END -->
 
 ---
 
