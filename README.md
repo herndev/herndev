@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Gemini won’t require you to unlock your phone to make calls anymore](https://www.androidauthority.com/gemini-locked-calls-messages-3504818/)
- - [Apple’s AirTags are cheaper than they’ve ever been for Cyber Monday](https://www.theverge.com/2024/12/2/24311290/cyber-monday-2024-apple-airtags-location-tracker-deal-sale)
- - [Oil giants blocked a treaty to curb plastic pollution, but countries will try again](https://www.theverge.com/2024/12/2/24310973/plastic-treaty-negotiations-2025)<!-- TECH:END -->
+ - [Cyber Monday is a great day to buy a 32-inch OLED gaming monitor](https://www.theverge.com/2024/12/2/24311328/cyber-monday-oled-gaming-monitor-asus-alienware-msi-lg-deal-sale)
+ - [AT&amp;T launches a wireless backup for fiber internet outages](https://www.theverge.com/2024/12/2/24311372/att-internet-backup-wireless-cellular)
+ - [Apple AirPods Max drop to new record-low price thanks to Cyber Monday!](https://www.androidauthority.com/apple-airpods-max-deal-2-3504864/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
