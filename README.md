@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [36 Best Cyber Monday Laptop Deals &lpar;2024&rpar;, MacBooks Included](https://www.wired.com/story/best-cyber-monday-laptop-deals-2024/)
- - [Bose’s fantastic SoundLink Max is finally the right price for Cyber Monday](https://www.theverge.com/2024/12/2/24310531/bose-soundlink-max-bluetooth-speaker-cyber-monday-deal)
- - [iPhones could eventually get multiple customizable buttons](https://www.androidauthority.com/iphones-eventually-multiple-action-buttons-3504673/)<!-- TECH:END -->
+ - [Cyber Monday deals on Verge staff favorites](https://www.theverge.com/24307425/black-friday-best-deals-tech-staff-picks-cyber-monday-2024)
+ - [The top Cyber Monday deals you can get right now](https://www.theverge.com/24309106/best-black-friday-deals-2024-tech-gadgets-cyber-monday)
+ - [This $89 Wi-Fi router is designed to let you run whatever firmware you want](https://www.theverge.com/2024/12/2/24310967/openwrt-one-wi-fi-router-available-price-software-freedom-conservancy)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
