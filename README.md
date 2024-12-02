@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Dutch : Guys we are F*cked](http://9gag.com/gag/amoPo7y)
- - ⏩ [The business guy understood everything](http://9gag.com/gag/ayNMNNy)
- - 👉 [Drugs confiscated at the airport disguised as candy](http://9gag.com/gag/a6ZEZOb)<!-- MEMES:END -->
+ - 💣 [That sweet sound of crying little shit](http://9gag.com/gag/aLnpeb6)
+ - ⏩ [Ad hominem is missing](http://9gag.com/gag/ayNM4Xy)
+ - 👉 [Reality wake the f**k up](http://9gag.com/gag/aqyjXPv)<!-- MEMES:END -->
 
 ---
 
