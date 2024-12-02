@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Sex up against the book shelf](http://9gag.com/gag/ayNMW8p)
- - ⏩ [Bring it in europe](http://9gag.com/gag/aYQoEjq)
- - 👉 [New is always better](http://9gag.com/gag/aXPoVwD)<!-- MEMES:END -->
+ - 💣 [So the only thing that the Brexit caused was the exit of white people?](http://9gag.com/gag/a34EyON)
+ - ⏩ [Books are a mirror to the soul!!!](http://9gag.com/gag/aoyMxZA)
+ - 👉 [When the cat refuses medication](http://9gag.com/gag/aGypM27)<!-- MEMES:END -->
 
 ---
 
