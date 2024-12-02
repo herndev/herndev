@@ -39,8 +39,8 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best Cyber Monday gaming deals you can get](https://www.theverge.com/24303477/black-friday-best-deals-gaming-nintendo-playstation-xbox-cyber-monday-2024)
- - [The 100 best Cyber Monday deals under $100](https://www.theverge.com/24309009/black-friday-2024-best-deals-under-100-tech-gift-ideas-cyber-monday)
+ - [YouTube TV for Android picks up a controversial design change from the main YouTube app](https://www.androidauthority.com/youtube-tv-mini-player-change-3504539/)
+ - [VC firm Plural&#39;s cofounder says Europe, which is yet to create a $1T company, must start supporting experienced founders and start providing &quot;audacious capital&quot; &lpar;Ian Hogarth/Financial Times&rpar;](http://www.techmeme.com/241201/p10#a241201p10)
  - [We Found the 80+ Best Cyber Monday Deals to Shop on Laptops, Vacuums, TVs and More](https://www.cnet.com/deals/best-cyber-monday-deals-live-2024-12-01/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
