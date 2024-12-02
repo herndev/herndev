@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [21 Best Black Friday Clothing Deals on WIRED-Specific Fashion Finds](https://www.wired.com/story/black-friday-clothing-deals-2024/)
- - [12 Best Black Friday Sleep Deals for Sleep Lovers](https://www.cnet.com/deals/best-black-friday-sleep-deals-2024/#ftag=CAD590a51e)
- - [Act Fast to Grab This Cyber Monday Echo Show Bundle That Gets You a Blink Video Doorbell for Free](https://www.cnet.com/deals/act-fast-to-grab-this-cyber-monday-echo-show-bundle-that-gets-you-a-blink-video-doorbell-for-free/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Deals: grab a MacBook Air with 16GB RAM for $799 this Cyber Monday](https://appleinsider.com/articles/24/12/02/deals-grab-a-macbook-air-with-16gb-ram-for-799-this-cyber-monday?utm_medium=rss)
+ - [We Found the 80+ Best Cyber Monday Deals to Shop on Laptops, Vacuums, TVs and More](https://www.cnet.com/deals/best-cyber-monday-deals-live-2024-12-01/#ftag=CAD590a51e)
+ - [The Nespresso Vertuo Pop Plus Is $60 Less for Cyber Monday and Easily the Best Deal You&#39;ll Brew This Holiday Season](https://www.cnet.com/deals/the-nespresso-vertuo-pop-plus-is-60-less-for-cyber-monday-and-easily-the-best-deal-youll-brew-this-holiday-season/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
