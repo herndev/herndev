@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [20 Best Apple Black Friday Deals &lpar;2024&rpar;: MacBooks, iPads, AirPods](https://www.wired.com/story/apple-black-friday-deals-2024-1/)
- - [Apple Mac Mini M4 deal: The biggest discount we’ve seen yet](https://www.androidauthority.com/apple-mac-mini-m4-deal-2-3504427/)
- - [19 Best Black Friday Toy Deals &lpar;2024&rpar;: Lego, Bikes, Board Games](https://www.wired.com/story/black-friday-2024-toy-deals/)<!-- TECH:END -->
+ - [21 Best Black Friday Clothing Deals on WIRED-Specific Fashion Finds](https://www.wired.com/story/black-friday-clothing-deals-2024/)
+ - [12 Best Black Friday Sleep Deals for Sleep Lovers](https://www.cnet.com/deals/best-black-friday-sleep-deals-2024/#ftag=CAD590a51e)
+ - [Act Fast to Grab This Cyber Monday Echo Show Bundle That Gets You a Blink Video Doorbell for Free](https://www.cnet.com/deals/act-fast-to-grab-this-cyber-monday-echo-show-bundle-that-gets-you-a-blink-video-doorbell-for-free/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
