@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle answer for Monday, December 2](https://www.pcgamer.com/games/puzzle/wordle-answer-today-december-2-2024)
  - [Holiday Sale 2024 in the Philippines featuring Discounts on PlayStation 5 and PS VR2](https://blog.playstation.com/2024/12/01/20241202-phsale/)
- - [Holiday Sale 2024 in the Philippines featuring Discounts on PlayStation 5 and PS VR2](https://blog.playstation.com/2024/12/01/20241202-phsale/)
- - [Bambu’s P1P 3D printer is a great Black Friday deal at $449](https://www.polygon.com/black-friday/486471/bambu-p1p-3d-printer-deal)<!-- GAME:END -->
+ - [Holiday Sale 2024 in the Philippines featuring Discounts on PlayStation 5 and PS VR2](https://blog.playstation.com/2024/12/01/20241202-phsale/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
