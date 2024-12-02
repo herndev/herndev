@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [World Labs, founded by Fei-Fei Li, gives an &quot;early preview&quot; of its first project, an AI system that generates game-like, 3D scenes from a single image &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/241202/p25#a241202p25)
- - [Leaks reveal a new DJI drone with a compact folding design](https://www.theverge.com/2024/12/2/24311063/dji-flip-folding-drone-fcc-leak)
- - [Google Maps is now displaying Waze incident reports](https://www.theverge.com/2024/12/2/24311129/google-map-waze-integration-incident-reporting-rollout)<!-- TECH:END -->
+ - [AT&amp;T’s new Internet Backup will keep you online when fiber goes down](https://www.androidauthority.com/atnt-internet-backup-feature-3504784/)
+ - [The best Cyber Monday phone deals I’d actually recommend to real people](https://www.theverge.com/24306779/black-friday-2024-smartphone-best-deals-apple-samsung-pixel-motorola)
+ - [These are the best Cyber Monday gaming deals I’ve found so far](https://www.theverge.com/24303477/black-friday-best-deals-gaming-nintendo-playstation-xbox-cyber-monday-2024)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
