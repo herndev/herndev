@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Wingman](http://9gag.com/gag/aW4j7d3)
- - ⏩ [Harry potter and the chamber of tax evasion](http://9gag.com/gag/a4PEnGp)
- - 👉 [Bring it in europe](http://9gag.com/gag/aYQoEjq)<!-- MEMES:END -->
+ - 💣 [That sweet sound of crying little shit](http://9gag.com/gag/aLnpeb6)
+ - ⏩ [Nice stick](http://9gag.com/gag/a34EAj5)
+ - 👉 [I wonder why](http://9gag.com/gag/a34EAB5)<!-- MEMES:END -->
 
 ---
 
