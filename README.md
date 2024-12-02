@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [2021 article but still big facepalm](http://9gag.com/gag/aryMAw6)
- - ⏩ [What did you expect](http://9gag.com/gag/a4PE6pd)
- - 👉 [The accuracy is on point](http://9gag.com/gag/abAVWZ9)<!-- MEMES:END -->
+ - 💣 [Anyone else have this problem?](http://9gag.com/gag/aQzomnw)
+ - ⏩ [So the only thing that the Brexit caused was the exit of white people?](http://9gag.com/gag/a34EyON)
+ - 👉 [Technology man](http://9gag.com/gag/a1mr5QG)<!-- MEMES:END -->
 
 ---
 
