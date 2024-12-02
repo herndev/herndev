@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [She didn\u2019t just\u2026 she didn\u2019t.. did she?](http://9gag.com/gag/aAybQw2)
- - ⏩ [Parking](http://9gag.com/gag/avy5Wwb)
- - 👉 [Bring it in europe](http://9gag.com/gag/aYQoEjq)<!-- MEMES:END -->
+ - 💣 [Parking](http://9gag.com/gag/avy5Wwb)
+ - ⏩ [She accepted her fate](http://9gag.com/gag/a9yEvbW)
+ - 👉 [No more billionaires!](http://9gag.com/gag/amoPWX4)<!-- MEMES:END -->
 
 ---
 
