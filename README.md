@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Save up to $250 on every M4 Mac mini, plus get M2 Cyber Monday deals from $449](https://appleinsider.com/articles/24/11/15/save-up-to-250-on-every-m4-mac-mini-plus-get-m2-early-black-friday-deals-from-449?utm_medium=rss)
- - [Love Samsung’s Edge Panels? One UI 7 brings bad news.](https://www.androidauthority.com/edge-panels-samsung-one-ui-7-3504558/)
- - [Save on Surfshark VPN and protect yourself online with this Cyber Monday discount](https://appleinsider.com/articles/24/12/02/save-on-surfshark-vpn-and-protect-yourself-online-with-this-cyber-monday-discount?utm_medium=rss)<!-- TECH:END -->
+ - [Performance or battery life? One of these is clearly more important to you.](https://www.androidauthority.com/performance-battery-life-poll-results-3504580/)
+ - [Branch Cyber Monday Sale &lpar;2024&rpar;: Deals on Office Chairs](https://www.wired.com/story/branch-cyber-monday-sale-2024/)
+ - [Bengaluru-based Swiggy expands 10-minute food delivery service Bolt to 400+ Indian cities and towns, and says it has partnered with 40K+ restaurants, like KFC &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/241202/p12#a241202p12)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
