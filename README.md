@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [AWS adds new generative AI features to Amazon Connect, which helps companies run their contact centers, including letting Lex-powered assistants use Amazon Q &lpar;Maria Deutscher/SiliconANGLE&rpar;](http://www.techmeme.com/241202/p1#a241202p1)
- - [We Found the 80+ Best Cyber Monday Deals to Shop on Laptops, Vacuums, TVs and More](https://www.cnet.com/deals/best-cyber-monday-deals-live-2024-12-02/#ftag=CAD590a51e)
- - [Sources: BYD&#39;s contract-manufacturing arm, which has 10K+ engineers and ~100K employees dedicated to the Apple&#39;s supply chain, now assembles 30%+ of all iPads &lpar;Yang Jie/Wall Street Journal&rpar;](http://www.techmeme.com/241201/p11#a241201p11)<!-- TECH:END -->
+ - [Never mind 8 Elite: Leaks are here for Qualcomm’s next Android flagship chip](https://www.androidauthority.com/snapdragon-8-elite-gen-2-price-specs-leak-3504545/)
+ - [Best MacBook Pro Cyber Monday deals slash prices by up to $600, better than Black Friday](https://appleinsider.com/articles/24/12/02/best-macbook-pro-cyber-monday-deals-slash-prices-by-up-to-600-better-than-black-friday?utm_medium=rss)
+ - [Google Translate could offer a richer, seamless Instant Translate experience &lpar;Updated: Rolling out&rpar;](https://www.androidauthority.com/google-translate-richer-seamless-instant-translate-apk-teardown-3492801/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
