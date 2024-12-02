@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The 35 Best Cyber Monday Deals From Best Buy &lpar;2024&rpar;](https://www.wired.com/story/best-buy-cyber-monday-deals-2024/)
- - [OpenWrt releases the $89+ open-source router OpenWrt One, offering a &quot;hacker-friendly device&quot; with two Ethernet ports, three USB ports, and dual-band Wi-Fi 6 &lpar;Jowi Morales/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/241202/p14#a241202p14)
- - [51 Best Cyber Monday Tech Deals &lpar;2024&rpar;](https://www.wired.com/story/cyber-monday-tech-deals-2024/)<!-- TECH:END -->
+ - [OpenAI CFO Sarah Friar says the startup is weighing up an ads model, but plans to be &quot;thoughtful&quot;; sources say OpenAI has hired ad talent from Meta and Google &lpar;Financial Times&rpar;](http://www.techmeme.com/241202/p17#a241202p17)
+ - [42 Best Cyber Monday Camera Deals &lpar;2024&rpar;](https://www.wired.com/story/best-cyber-monday-camera-deals-2024/)
+ - [Social media videos documenting layoffs are now commonplace, especially by younger workers, creating headaches for companies; TikTok&#39;s #layoff has 32K+ posts &lpar;Cristina Criddle/Financial Times&rpar;](http://www.techmeme.com/241202/p16#a241202p16)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
