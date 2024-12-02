@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Creature Commandos is a final vestige of a pre-James Gunn DC Studios](https://www.polygon.com/dc/483787/james-gunn-creature-commandos-animated-series-max)
- - [Suicide Squad: Kill The Justice League Costs Less Than A Beer Right Now](https://kotaku.com/suicide-squad-kill-justice-league-steam-sale-1851710954)
- - [Grab 29 books from perhaps the best TTRPG publisher in the business, including a fantastic alternative to D&amp;D, for just $18 in this limited time bundle](https://www.pcgamer.com/games/rpg/grab-29-books-from-perhaps-the-best-ttrpg-publisher-in-the-business-including-a-fantastic-alternative-to-d-and-d-for-just-usd18-in-this-limited-time-bundle)<!-- GAME:END -->
+ - [Disney’s Revival Era Animated Films, Now Including Moana 2, Ranked From Worst To Best](https://kotaku.com/disney-movies-best-worst-ranking-frozen-moana-tangled-1851708848)
+ - [My favorite Lego deals happening on Cyber Monday](https://www.polygon.com/cyber-monday/475668/best-lego-deals)
+ - [I found the best Cyber Monday deals on all the stuff you love](https://www.polygon.com/cyber-monday/475658/best-deals-games-books-movies-toys)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
