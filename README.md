@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Just a typical night out in France.](http://9gag.com/gag/a9yEzo6)
- - ⏩ [On ground footage of what a missile can look whistling past your ears](http://9gag.com/gag/aVv7ozy)
- - 👉 [Looking up first is funny :D](http://9gag.com/gag/aNDp9Vw)<!-- MEMES:END -->
+ - 💣 [Wingman](http://9gag.com/gag/aW4j7d3)
+ - ⏩ [Harry potter and the chamber of tax evasion](http://9gag.com/gag/a4PEnGp)
+ - 👉 [Bring it in europe](http://9gag.com/gag/aYQoEjq)<!-- MEMES:END -->
 
 ---
 
