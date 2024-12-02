@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Performance or battery life? One of these is clearly more important to you.](https://www.androidauthority.com/performance-battery-life-poll-results-3504580/)
- - [Branch Cyber Monday Sale &lpar;2024&rpar;: Deals on Office Chairs](https://www.wired.com/story/branch-cyber-monday-sale-2024/)
- - [Bengaluru-based Swiggy expands 10-minute food delivery service Bolt to 400+ Indian cities and towns, and says it has partnered with 40K+ restaurants, like KFC &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/241202/p12#a241202p12)<!-- TECH:END -->
+ - [The 35 Best Cyber Monday Deals From Best Buy &lpar;2024&rpar;](https://www.wired.com/story/best-buy-cyber-monday-deals-2024/)
+ - [OpenWrt releases the $89+ open-source router OpenWrt One, offering a &quot;hacker-friendly device&quot; with two Ethernet ports, three USB ports, and dual-band Wi-Fi 6 &lpar;Jowi Morales/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/241202/p14#a241202p14)
+ - [51 Best Cyber Monday Tech Deals &lpar;2024&rpar;](https://www.wired.com/story/cyber-monday-tech-deals-2024/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
