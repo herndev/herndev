@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon&#39;s best Cyber Monday Apple deals are live with prices from $11 [updated]](https://appleinsider.com/articles/24/11/30/amazons-best-cyber-monday-apple-deals-are-live-with-prices-from-11?utm_medium=rss)
- - [6 Best Cyber Monday Dyson Deals on Cordless Stick Vacuums](https://www.wired.com/story/dyson-vacuum-cyber-monday-deals-2024/)
- - [Best Deals From the REI Cyber Week Sale &lpar;2024&rpar;](https://www.wired.com/story/best-rei-cyber-week-outdoor-deals-2024/)<!-- TECH:END -->
+ - [World Labs, founded by Fei-Fei Li, gives an &quot;early preview&quot; of its first project, an AI system that generates game-like, 3D scenes from a single image &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/241202/p25#a241202p25)
+ - [Leaks reveal a new DJI drone with a compact folding design](https://www.theverge.com/2024/12/2/24311063/dji-flip-folding-drone-fcc-leak)
+ - [Google Maps is now displaying Waze incident reports](https://www.theverge.com/2024/12/2/24311129/google-map-waze-integration-incident-reporting-rollout)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
