@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Parking](http://9gag.com/gag/avy5Wwb)
- - ⏩ [She accepted her fate](http://9gag.com/gag/a9yEvbW)
- - 👉 [No more billionaires!](http://9gag.com/gag/amoPWX4)<!-- MEMES:END -->
+ - 💣 [He just nuked India&#39;s tourism industry!](http://9gag.com/gag/aGypBYn)
+ - ⏩ [Can anyone translate ?](http://9gag.com/gag/aYQoDVw)
+ - 👉 [Technology man](http://9gag.com/gag/a1mr5QG)<!-- MEMES:END -->
 
 ---
 
