@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Star Wars’ Skeleton Crew, Creature Commandos, and more new TV this week](https://www.polygon.com/tv/481283/new-tv-netflix-star-wars-skeleton-crew-creature-commandos-superman-lois)
- - [5 movies that made Michelle Yeoh one of the great action stars](https://www.polygon.com/what-to-watch/23013092/michelle-yeoh-best-movies-action-martial-arts)
- - [8 Lego Cyber Monday Deals That Are Actually Good](https://kotaku.com/lego-cyber-monday-deal-harry-potter-star-wars-bts-mario-1851711295)<!-- GAME:END -->
+ - [Amazon’s board game deals are Cyber Monday standouts](https://www.polygon.com/cyber-monday/475663/best-board-game-deals)
+ - [My favorite Lego deals happening on Cyber Monday](https://www.polygon.com/cyber-monday/475668/best-lego-deals)
+ - [This Lego Darth Vader deal is a real Cyber Monday treat](https://www.polygon.com/cyber-monday/488835/lego-star-wars-darth-vader-deal)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
