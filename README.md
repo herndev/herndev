@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Pizza flipping skills](http://9gag.com/gag/a6ZEXLm)
- - ⏩ [That sweet sound of crying little shit](http://9gag.com/gag/aLnpeb6)
- - 👉 [Bailey, play dead. &lpar;an oldie but a goodie&rpar;](http://9gag.com/gag/aGyp865)<!-- MEMES:END -->
+ - 💣 [Dutch : Guys we are F*cked](http://9gag.com/gag/amoPo7y)
+ - ⏩ [The business guy understood everything](http://9gag.com/gag/ayNMNNy)
+ - 👉 [Drugs confiscated at the airport disguised as candy](http://9gag.com/gag/a6ZEZOb)<!-- MEMES:END -->
 
 ---
 
