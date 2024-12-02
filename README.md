@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The $529 Mac mini M4 deal is back for Cyber Monday, but supply is limited](https://appleinsider.com/articles/24/12/02/the-529-mac-mini-m4-deal-is-back-for-cyber-monday-but-supply-is-limited?utm_medium=rss)
- - [Inside Helsinki&#39;s Slush 2024, a startup event described as a mix of TED Talks, Eurovision, and Shark Tank, attended by ~13K people, with LPs up 46% YoY to 350+ &lpar;Bloomberg&rpar;](http://www.techmeme.com/241202/p9#a241202p9)
- - [The UN&#39;s ITU and the International Cable Protection Committee announce a 40-member global advisory body to support the resilience of submarine telecom cables &lpar;Laura Dobberstein/The Register&rpar;](http://www.techmeme.com/241202/p8#a241202p8)<!-- TECH:END -->
+ - [Save up to $250 on every M4 Mac mini, plus get M2 Cyber Monday deals from $449](https://appleinsider.com/articles/24/11/15/save-up-to-250-on-every-m4-mac-mini-plus-get-m2-early-black-friday-deals-from-449?utm_medium=rss)
+ - [Love Samsung’s Edge Panels? One UI 7 brings bad news.](https://www.androidauthority.com/edge-panels-samsung-one-ui-7-3504558/)
+ - [Save on Surfshark VPN and protect yourself online with this Cyber Monday discount](https://appleinsider.com/articles/24/12/02/save-on-surfshark-vpn-and-protect-yourself-online-with-this-cyber-monday-discount?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
