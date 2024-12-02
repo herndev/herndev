@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [YouTube TV for Android picks up a controversial design change from the main YouTube app](https://www.androidauthority.com/youtube-tv-mini-player-change-3504539/)
- - [VC firm Plural&#39;s cofounder says Europe, which is yet to create a $1T company, must start supporting experienced founders and start providing &quot;audacious capital&quot; &lpar;Ian Hogarth/Financial Times&rpar;](http://www.techmeme.com/241201/p10#a241201p10)
- - [We Found the 80+ Best Cyber Monday Deals to Shop on Laptops, Vacuums, TVs and More](https://www.cnet.com/deals/best-cyber-monday-deals-live-2024-12-01/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sources: BYD&#39;s contract-manufacturing arm, which has 10K+ engineers and ~100K employees dedicated to the Apple&#39;s supply chain, now assembles 30%+ of all iPads &lpar;Yang Jie/Wall Street Journal&rpar;](http://www.techmeme.com/241201/p11#a241201p11)
+ - [Today&#39;s NYT Mini Crossword Answers for Monday, Dec. 2](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-monday-dec-2/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Connections Hints, Answers and Help for Dec. 2, #540](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-dec-2-540/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
