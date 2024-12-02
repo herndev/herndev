@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Off you go.](http://9gag.com/gag/ajPmOp1)
- - ⏩ [Based](http://9gag.com/gag/abAV4wX)
- - 👉 [Herman the German](http://9gag.com/gag/aVv7E5v)<!-- MEMES:END -->
+ - 💣 [2021 article but still big facepalm](http://9gag.com/gag/aryMAw6)
+ - ⏩ [What did you expect](http://9gag.com/gag/a4PE6pd)
+ - 👉 [The accuracy is on point](http://9gag.com/gag/abAVWZ9)<!-- MEMES:END -->
 
 ---
 
