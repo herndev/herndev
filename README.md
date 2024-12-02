@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [11 Great Games To Grab From PlayStation&#39;s 30th Anniversary Sale](https://kotaku.com/playstation-sale-ps5-30th-anniversary-helldivers-2-ff7-1851711614)
  - [For Cyber Monday, $879 will get you this very fast gaming laptop](https://www.polygon.com/cyber-monday/486563/hp-victus-rtx-4070-gaming-laptop-deal)
- - [The Opening Credits Sequence For Lindsay Lohan&#39;s New Movie Is One Of Weirdest Things We&#39;ve Seen This Year](https://kotaku.com/lindsay-lohan-new-movie-christmas-netflix-intro-credits-1851711568)
- - [The Aftermath of Survivor Series Rearranges Our WWE Pound-For-Pound Rankings](https://kotaku.com/wwe-survivor-series-roman-reigns-rhea-ripley-results-1851711377)<!-- GAME:END -->
+ - [Jeff Goldblum rescued Wicked’s worst song](https://www.polygon.com/opinion/489419/wicked-sentimental-man-jeff-goldblum)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
