@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [AI Granny and Her Cat Fluffy Go After Phone Spammers](https://www.cnet.com/tech/computing/ai-granny-and-her-cat-fluffy-outtalk-phone-spammers/#ftag=CAD590a51e)
- - [Best Gaming Consoles of 2024 video](https://www.cnet.com/videos/best-gaming-consoles-of-2024/#ftag=CAD590a51e)
- - [If You’re Going to Make Something, Here’s How to Make It Robust](https://www.wired.com/story/christopher-tidy-robust-repairability-south-africa/)<!-- TECH:END -->
+ - [Animal Crossing’s paid mobile app launches a day early](https://www.theverge.com/2024/12/2/24310972/animal-crossing-pocket-camp-complete-paid-launch-iphone-android)
+ - [The OnePlus 13 officially goes global this January, competing against the Galaxy S25](https://www.androidauthority.com/oneplus-13-global-launch-january-2025-3504667/)
+ - [Intel says CEO Pat Gelsinger has retired, effective December 1, and stepped down from its board; David Zinsner and Michelle Johnston Holthaus are now co-CEOs &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/241202/p21#a241202p21)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
