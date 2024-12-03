@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [19 Neat Games Releasing In December You Should Be Keeping Tabs On](https://kotaku.com/december-2024-game-release-dates-coming-out-ps5-switch-1851711663)
  - [Warhammer 40K: Darktide comes to PlayStation with the newest update](https://www.polygon.com/gaming/490178/40k-darktide-grim-protocols-update-playstation)
- - [Critical Role cast releases full-length holiday album](https://www.polygon.com/critical-role/490230/vox-machina-holiday-album-winters-crest)
- - [Snow White&#39;s Live-Action Seven Dwarfs Are Pure Nightmare Fuel](https://kotaku.com/snow-white-seven-dwarfs-trailer-cgi-ugly-bad-disney-1851712570)<!-- GAME:END -->
+ - [Critical Role cast releases full-length holiday album](https://www.polygon.com/critical-role/490230/vox-machina-holiday-album-winters-crest)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
