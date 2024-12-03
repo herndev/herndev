@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Xbox Recognizes International Day of Persons with Disabilities](https://news.xbox.com/en-us/2024/12/03/international-day-of-persons-with-disabilities-xbox-2024/)
- - [NES Tetris Is Being Re-Released For The First Time Ever](https://kotaku.com/nes-famicom-tetris-nintendo-switch-online-1851712262)
- - [Pokémon Go ‘Just My Cup of Tea’ event guide](https://www.polygon.com/pokemon-go-guide/489943/just-my-cup-of-tea-event-timed-research-rewards)<!-- GAME:END -->
+ - [Read an excerpt from The Art and Making of Arcane](https://www.polygon.com/books/486228/netflix-arcane-art-and-making-of-excerpt-book)
+ - [Wait, how has It Takes Two sold 20 million copies?](https://www.polygon.com/analysis/489856/it-takes-two-sales-20-million)
+ - [Don’t expect Elden Ring 2 anytime soon](https://www.polygon.com/news/489947/elden-ring-2-sequel-not-in-development-fromsoftware-hidetaka-miyazaki)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
