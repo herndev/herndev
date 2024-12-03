@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [No shifters allowed](http://9gag.com/gag/aQzom7W)
- - ⏩ [Bad news coming](http://9gag.com/gag/azxMO5j)
- - 👉 [Books are a mirror to the soul!!!](http://9gag.com/gag/aoyMxZA)<!-- MEMES:END -->
+ - 💣 [Bad news coming](http://9gag.com/gag/azxMO5j)
+ - ⏩ [Books are a mirror to the soul!!!](http://9gag.com/gag/aoyMxZA)
+ - 👉 [Fact](http://9gag.com/gag/aPA3Qow)<!-- MEMES:END -->
 
 ---
 
