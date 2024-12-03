@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Based](http://9gag.com/gag/abAV4wX)
- - ⏩ [Can anyone translate ?](http://9gag.com/gag/aYQoDVw)
- - 👉 [Nice in grey top.](http://9gag.com/gag/a4PEzdy)<!-- MEMES:END -->
+ - ⏩ [Man attacked by his wheelchair-bound neighbor&#39;s 4 Pitbulls](http://9gag.com/gag/abAVO4p)
+ - 👉 [Can anyone translate ?](http://9gag.com/gag/aYQoDVw)<!-- MEMES:END -->
 
 ---
 
