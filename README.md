@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Smell is racist](http://9gag.com/gag/aO839RE)
- - ⏩ [Nice in grey top.](http://9gag.com/gag/a4PEzdy)
- - 👉 [The accuracy is on point](http://9gag.com/gag/abAVWZ9)<!-- MEMES:END -->
+ - 💣 [A narco was captured in Mexico](http://9gag.com/gag/agmBxDn)
+ - ⏩ [Dinosaurs can be sexy too](http://9gag.com/gag/aW4jnG3)
+ - 👉 [As a 9GAG OP, this doesn\u2019t bother me at all.](http://9gag.com/gag/aYQoD7q)<!-- MEMES:END -->
 
 ---
 
