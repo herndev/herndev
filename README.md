@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Anyone else have this problem?](http://9gag.com/gag/aQzomnw)
- - ⏩ [This is madness](http://9gag.com/gag/aO83PxM)
- - 👉 [Fact](http://9gag.com/gag/aPA3Qow)<!-- MEMES:END -->
+ - 💣 [My fellow Anime enthusiast](http://9gag.com/gag/a34EWv3)
+ - ⏩ [What a lovely man. Some men could learn a lot from. Have the utmost respect for the mother of your child](http://9gag.com/gag/apRNbn8)
+ - 👉 [Mischief managed](http://9gag.com/gag/awyMdwD)<!-- MEMES:END -->
 
 ---
 
