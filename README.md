@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Bad news coming](http://9gag.com/gag/azxMO5j)
- - ⏩ [Books are a mirror to the soul!!!](http://9gag.com/gag/aoyMxZA)
- - 👉 [Fact](http://9gag.com/gag/aPA3Qow)<!-- MEMES:END -->
+ - 💣 [I am aint even mad and wont complain about it.](http://9gag.com/gag/an7QEwV)
+ - ⏩ [Somebody please tell her](http://9gag.com/gag/a6ZEB0L)
+ - 👉 [Stopping time](http://9gag.com/gag/a9yE2YK)<!-- MEMES:END -->
 
 ---
 
