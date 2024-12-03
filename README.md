@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Hey guys, do you know this? South Korea has just declared martial law.](http://9gag.com/gag/ajPmKDw)
- - ⏩ [Awww, that&#39;s nice..wait..what?!](http://9gag.com/gag/adB8nG9)
+ - 💣 [Mr jobs why did you die](http://9gag.com/gag/a7oE9Eb)
+ - ⏩ [When you&#39;ve accepted your fate](http://9gag.com/gag/aryMZd0)
  - 👉 [Imma go there too](http://9gag.com/gag/aKG6Wvg)<!-- MEMES:END -->
 
 ---
