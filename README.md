@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Data brokers may be banned from selling your social security number](https://www.theverge.com/2024/12/3/24311498/cfpb-rule-data-brokers-social-security-number-fico-score)
- - [Indonesia&#39;s OJK: ~137M citizens owed 66T rupiah &lpar;~$4.1B&rpar; in outstanding digital lending debt in September 2024, up from 18.6M users owing 13.16T rupiah in 2019 &lpar;Ismi Damayanti/Nikkei Asia&rpar;](http://www.techmeme.com/241203/p7#a241203p7)
- - [This Snapdragon 8 Elite phone comes with RGB lights and monster specs](https://www.androidauthority.com/iqoo-13-launch-3504934/)<!-- TECH:END -->
+ - [Apple Music’s annual recap now available ahead of Spotify Wrapped](https://www.androidauthority.com/apple-music-replay-2024-available-3504964/)
+ - [Internal docs: in early 2021, Google&#39;s lawyers, policy team, and more worried that its $1.2B Project Nimbus deal with Israel may enable human rights violations &lpar;Nico Grant/New York Times&rpar;](http://www.techmeme.com/241203/p9#a241203p9)
+ - [Samsung’s DeX app is being replaced by Microsoft’s Phone Link in One UI 7](https://www.theverge.com/2024/12/3/24311882/samsung-dex-app-windows-replaced-link-to-windows-microsoft-phone-link)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
