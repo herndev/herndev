@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Turns Out Most Of You Spend More Time Watching Games Than Playing Them](https://kotaku.com/twitch-gamers-study-more-hours-watching-than-playing-1851712501)
- - [Mass Effect boss may have dropped a hint about the next game: &#39;Make sure you play Lair of the Shadow Broker&#39;](https://www.pcgamer.com/games/rpg/mass-effect-boss-may-have-dropped-a-hint-about-the-next-game-make-sure-you-play-lair-of-the-shadow-broker)
- - [Dragon Age: The Veilguard’s Ending Succeeds Where Mass Effect 3’s Failed](https://kotaku.com/dragon-age-veilguard-mass-effect-suicide-mission-choice-1851712586)<!-- GAME:END -->
+ - [Warhammer 40K: Darktide comes to PlayStation with the newest update](https://www.polygon.com/gaming/490178/40k-darktide-grim-protocols-update-playstation)
+ - [Critical Role cast releases full-length holiday album](https://www.polygon.com/critical-role/490230/vox-machina-holiday-album-winters-crest)
+ - [Snow White&#39;s Live-Action Seven Dwarfs Are Pure Nightmare Fuel](https://kotaku.com/snow-white-seven-dwarfs-trailer-cgi-ugly-bad-disney-1851712570)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
