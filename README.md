@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Can anyone translate ?](http://9gag.com/gag/aYQoDVw)
- - ⏩ [Dinosaurs can be sexy too](http://9gag.com/gag/aW4jnG3)
- - 👉 [Man attacked by his wheelchair-bound neighbor&#39;s 4 Pitbulls](http://9gag.com/gag/abAVO4p)<!-- MEMES:END -->
+ - 💣 [Based](http://9gag.com/gag/abAV4wX)
+ - ⏩ [Can anyone translate ?](http://9gag.com/gag/aYQoDVw)
+ - 👉 [Nice in grey top.](http://9gag.com/gag/a4PEzdy)<!-- MEMES:END -->
 
 ---
 
