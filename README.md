@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google’s new app helps me learn complex topics, but can it escape the graveyard?](https://www.androidauthority.com/google-learn-about-app-3504544/)
- - [Stable Wear OS 5 update rolling out widely for these older Galaxy smartwatch models](https://www.androidauthority.com/samsung-galaxy-watch-5-pro-fe-wear-os-5-update-3505084/)
- - [The Flexbar resurrects the MacBook Pro’s Touch Bar as a standalone device](https://www.theverge.com/2024/12/3/24311935/flexbar-touchscreen-apple-macbook-pro-touch-bar-kickstarter)<!-- TECH:END -->
+ - [Chrome for Android could adopt this smoother animation from iOS](https://www.androidauthority.com/chrome-android-new-animation-3505079/)
+ - [Internal Google documents reveal concerns about its cloud contract with Israel](https://www.theverge.com/2024/12/3/24311951/google-project-nimbus-internal-documents)
+ - [How to get The Verge’s new print magazine](https://www.theverge.com/2024/12/3/24307540/verge-print-magazine-seo-content-goblins)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
