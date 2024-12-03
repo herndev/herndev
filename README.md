@@ -33,8 +33,8 @@
 
 <!-- GAME:START -->
  - [Turns Out Most Of You Spend More Time Watching Games Than Playing Them](https://kotaku.com/twitch-gamers-study-more-hours-watching-than-playing-1851712501)
- - [Indiana Jones and the Great Circle is the next big Xbox Game Pass download](https://www.polygon.com/news/490056/indiana-jones-great-circle-xbox-game-pass-december)
- - [Read an excerpt from The Art and Making of Arcane](https://www.polygon.com/books/486228/netflix-arcane-art-and-making-of-excerpt-book)<!-- GAME:END -->
+ - [Mass Effect boss may have dropped a hint about the next game: &#39;Make sure you play Lair of the Shadow Broker&#39;](https://www.pcgamer.com/games/rpg/mass-effect-boss-may-have-dropped-a-hint-about-the-next-game-make-sure-you-play-lair-of-the-shadow-broker)
+ - [Dragon Age: The Veilguard’s Ending Succeeds Where Mass Effect 3’s Failed](https://kotaku.com/dragon-age-veilguard-mass-effect-suicide-mission-choice-1851712586)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
