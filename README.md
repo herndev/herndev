@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Jaguar Type 00 EV: Price, Specs, Availability](https://www.wired.com/story/jaguar-finally-reveals-its-all-electric-type-00/)
- - [It’s the most wonderful time to get a Samsung Galaxy Z Fold 6 on sale!](https://www.androidauthority.com/samsung-galaxy-z-fold-6-deal-5-3504862/)
- - [The 100 best Cyber Monday deals under $100](https://www.theverge.com/24309009/black-friday-2024-best-deals-under-100-tech-gift-ideas-cyber-monday)<!-- TECH:END -->
+ - [Keychron K2 HE review: magnets take mechanical keyboard customization to new heights](https://appleinsider.com/articles/24/12/03/keychron-k2-he-review-magnets-take-mechanical-keyboard-customization-to-new-heights?utm_medium=rss)
+ - [Delivery Hero&#39;s food delivery app Glovo says it will move to an employment-based model for its drivers in Spain, and anticipates a &amp;euro;100M earnings hit in 2025 &lpar;Associated Press&rpar;](http://www.techmeme.com/241202/p34#a241202p34)
+ - [420 Absolute Best Cyber Monday Deals Picked by Our Experts &lpar;2024&rpar; | WIRED](https://www.wired.com/story/absolute-best-cyber-monday-deals-2024/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
