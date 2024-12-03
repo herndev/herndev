@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [So the only thing that the Brexit caused was the exit of white people?](http://9gag.com/gag/a34EyON)
- - ⏩ [Books are a mirror to the soul!!!](http://9gag.com/gag/aoyMxZA)
- - 👉 [When the cat refuses medication](http://9gag.com/gag/aGypM27)<!-- MEMES:END -->
+ - 💣 [Good job driver](http://9gag.com/gag/a1mrV28)
+ - ⏩ [Can anyone translate ?](http://9gag.com/gag/aYQoDVw)
+ - 👉 [The lion, the witch and the audacity of this b****!](http://9gag.com/gag/aKG6WZN)<!-- MEMES:END -->
 
 ---
 
