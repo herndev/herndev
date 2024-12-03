@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I am aint even mad and wont complain about it.](http://9gag.com/gag/an7QEwV)
- - ⏩ [Somebody please tell her](http://9gag.com/gag/a6ZEB0L)
- - 👉 [Stopping time](http://9gag.com/gag/a9yE2YK)<!-- MEMES:END -->
+ - 💣 [Hey guys, do you know this? South Korea has just declared martial law.](http://9gag.com/gag/ajPmKDw)
+ - ⏩ [Awww, that&#39;s nice..wait..what?!](http://9gag.com/gag/adB8nG9)
+ - 👉 [Imma go there too](http://9gag.com/gag/aKG6Wvg)<!-- MEMES:END -->
 
 ---
 
