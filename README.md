@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Another way to hurt them](http://9gag.com/gag/awyMLOQ)
- - ⏩ [Great Nordic Food.... With Some Jam On The Side....](http://9gag.com/gag/aVv7moP)
- - 👉 [Sex up against the book shelf](http://9gag.com/gag/ayNMW8p)<!-- MEMES:END -->
+ - 💣 [Can anyone translate ?](http://9gag.com/gag/aYQoDVw)
+ - ⏩ [Dinosaurs can be sexy too](http://9gag.com/gag/aW4jnG3)
+ - 👉 [Man attacked by his wheelchair-bound neighbor&#39;s 4 Pitbulls](http://9gag.com/gag/abAVO4p)<!-- MEMES:END -->
 
 ---
 
