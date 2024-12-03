@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [32 years ago today, personal communication changed forever](https://www.androidauthority.com/first-sms-text-message-3505164/)
- - [What happened to Intel?](https://www.theverge.com/2024/12/3/24311594/intel-under-pat-gelsinger)
- - [Amazon announces its own set of Nova AI models](https://www.theverge.com/2024/12/3/24312260/amazon-nova-foundation-ai-models-anthropic)<!-- TECH:END -->
+ - [Dylan Field ‘Got a Real Kick’ Out of This Week’s Enron Relaunch](https://www.wired.com/story/big-interview-dylan-field-2024/)
+ - [AWS announces Nova models for Bedrock, including Micro, Lite, Pro, and Premier text generating models, and Canvas and Reel models for image and video generation &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/241203/p25#a241203p25)
+ - [Celsius Network founder Alex Mashinsky agreed in a US court to plead guilty to commodities fraud and a fraudulent scheme to manipulate the price of CEL &lpar;Luc Cohen/Reuters&rpar;](http://www.techmeme.com/241203/p24#a241203p24)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
