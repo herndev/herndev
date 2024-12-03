@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Designed for Xbox: Your Holiday Gift Guide for Xbox Accessories](https://news.xbox.com/en-us/2024/12/03/designed-for-xbox-holiday-gift-guide-accessories/)
- - [Gigabyte&#39;s new app for enabling its X3D Turbo Mode in Windows is, for some unfathomable reason, called Aorus AI Snatch](https://www.pcgamer.com/hardware/motherboards/gigabytes-new-app-for-enabling-its-x3d-turbo-mode-in-windows-is-for-some-unfathomable-reason-called-aorus-ai-snatch)
- - [Unlock Neva&#39;s Cryptic &#39;Memories&#39; Achievement](https://kotaku.com/neva-achievements-memories-how-to-unlock-gris-1851711690)<!-- GAME:END -->
+ - [How to get Sinistea, its ‘Antique’ form, and evolution Polteageist in Pokémon Go](https://www.polygon.com/pokemon-go-guide/489844/sinistea-antique-phony-form-polteageist)
+ - [Xbox Game Pass Subscribers Are Losing Big This Month](https://kotaku.com/xbox-game-pass-forza-horizon-4-tomb-raider-1851711998)
+ - [FromSoftware Is Working On A Bunch Of New Games But Not Elden Ring 2](https://kotaku.com/elden-ring-2-fromsoftware-armored-core-7-sequel-date-1851712164)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
