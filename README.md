@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Coming to Game Pass: Indiana Jones and the Great Circle, Crash Team Racing Nitro-Fueled, and More](https://news.xbox.com/en-us/2024/12/03/xbox-game-pass-december-2024-wave-1/)
  - [Master Chief and Commander: It&#39;s Halo 3 but with boats and a naval battle against a Scarab](https://www.pcgamer.com/games/fps/now-you-can-play-halo-3-but-with-boats-and-get-in-a-naval-war-with-a-scarab)
- - [Critical Role&#39;s plans to make a videogame have become an &#39;active pursuit&#39;, says CEO Travis Willingham, after almost 10 years of growing a D&amp;D campaign into a full-on franchise](https://www.pcgamer.com/games/rpg/critical-roles-plans-to-make-a-videogame-have-become-an-active-pursuit-says-ceo-travis-willingham-after-almost-10-years-of-growing-a-d-and-d-campaign-into-a-full-on-franchise)
- - [All Monster Hunter Wilds weapons confirmed so far](https://www.pcgamer.com/games/action/monster-hunter-wilds-weapons)<!-- GAME:END -->
+ - [Critical Role&#39;s plans to make a videogame have become an &#39;active pursuit&#39;, says CEO Travis Willingham, after almost 10 years of growing a D&amp;D campaign into a full-on franchise](https://www.pcgamer.com/games/rpg/critical-roles-plans-to-make-a-videogame-have-become-an-active-pursuit-says-ceo-travis-willingham-after-almost-10-years-of-growing-a-d-and-d-campaign-into-a-full-on-franchise)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
