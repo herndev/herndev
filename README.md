@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Intel announces $249 Arc B580 and $219 Arc B570 ‘Battlemage’ graphics cards](https://www.theverge.com/2024/12/3/24311887/intel-battlemage-b580-b570-price-release-date)
- - [TikTok says it removed a network covertly campaigning for Calin Georgescu, whose shock victory in the recent Romanian election threw the country into crisis &lpar;Gian Volpicelli/Bloomberg&rpar;](http://www.techmeme.com/241203/p14#a241203p14)
- - [Never mind the Pixel 9a, leaked OnePlus 13R specs show a mid-range superstar](https://www.androidauthority.com/oneplus-13r-specs-3505034/)<!-- TECH:END -->
+ - [China limits US export of chipmaking materials following sanctions](https://www.theverge.com/2024/12/3/24311929/china-us-export-chipmaking-components-sanctions)
+ - [Give the gift of privacy and security online with Surfshark VPN&#39;s winter sale](https://appleinsider.com/articles/24/12/03/give-the-gift-of-privacy-and-security-online-with-surfshark-vpns-winter-sale?utm_medium=rss)
+ - [A gadget lover’s guide to the great outdoors](https://www.theverge.com/2024/12/3/24311494/starlink-mini-vanlife-peak-design-creator-microphone-vergecast)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
