@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Keychron K2 HE review: magnets take mechanical keyboard customization to new heights](https://appleinsider.com/articles/24/12/03/keychron-k2-he-review-magnets-take-mechanical-keyboard-customization-to-new-heights?utm_medium=rss)
- - [Delivery Hero&#39;s food delivery app Glovo says it will move to an employment-based model for its drivers in Spain, and anticipates a &amp;euro;100M earnings hit in 2025 &lpar;Associated Press&rpar;](http://www.techmeme.com/241202/p34#a241202p34)
- - [420 Absolute Best Cyber Monday Deals Picked by Our Experts &lpar;2024&rpar; | WIRED](https://www.wired.com/story/absolute-best-cyber-monday-deals-2024/)<!-- TECH:END -->
+ - [The best last-minute Cyber Monday deals you can still shop](https://www.theverge.com/24309106/best-black-friday-deals-2024-tech-gadgets-cyber-monday)
+ - [Best Cyber Monday Phone Deals &lpar;2024&rpar;, Including Cases Too](https://www.wired.com/story/cyber-monday-phone-deals-2024/)
+ - [Get an Amazon Echo speaker before Cyber Monday deals end!](https://www.androidauthority.com/amazon-echo-speaker-deals-3504896/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
