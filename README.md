@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [A narco was captured in Mexico](http://9gag.com/gag/agmBxDn)
- - ⏩ [The accuracy is on point](http://9gag.com/gag/abAVWZ9)
- - 👉 [Nice in grey top.](http://9gag.com/gag/a4PEzdy)<!-- MEMES:END -->
+ - 💣 [When the cat refuses medication](http://9gag.com/gag/aGypM27)
+ - ⏩ [Another way to hurt them](http://9gag.com/gag/awyMLOQ)
+ - 👉 [Bad news coming](http://9gag.com/gag/azxMO5j)<!-- MEMES:END -->
 
 ---
 
