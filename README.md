@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Early tests show Perplexity&#39;s AI shopping agent, which lets users make purchases within its app, sometimes takes hours to process purchases or runs into issues &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/241203/p6#a241203p6)
- - [KitchenAid Promo Codes: 15% Off Major Appliances](https://www.wired.com/story/exclusive-kitchenaid-promo-code/)
- - [CNET Shopping Experts Found 75+ Lingering Cyber Monday Deals to Shop While You Still Can](https://www.cnet.com/deals/best-cyber-monday-deals-live-2024-12-03/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Data brokers may be banned from selling your social security number](https://www.theverge.com/2024/12/3/24311498/cfpb-rule-data-brokers-social-security-number-fico-score)
+ - [Indonesia&#39;s OJK: ~137M citizens owed 66T rupiah &lpar;~$4.1B&rpar; in outstanding digital lending debt in September 2024, up from 18.6M users owing 13.16T rupiah in 2019 &lpar;Ismi Damayanti/Nikkei Asia&rpar;](http://www.techmeme.com/241203/p7#a241203p7)
+ - [This Snapdragon 8 Elite phone comes with RGB lights and monster specs](https://www.androidauthority.com/iqoo-13-launch-3504934/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
