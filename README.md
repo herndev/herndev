@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best last-minute Cyber Monday deals you can still shop](https://www.theverge.com/24309106/best-black-friday-deals-2024-tech-gadgets-cyber-monday)
- - [Best Cyber Monday Phone Deals &lpar;2024&rpar;, Including Cases Too](https://www.wired.com/story/cyber-monday-phone-deals-2024/)
- - [CNET Shopping Experts Found 80+ Sizzling Cyber Monday Deals to Shop Before It&#39;s Too Late](https://www.cnet.com/deals/best-cyber-monday-deals-live-2024-12-02/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [How to use Apple Notes for instant equation results on iOS 18](https://appleinsider.com/inside/apple-software/tips/how-to-use-apple-notes-for-instant-equation-results-on-ios-18?utm_medium=rss)
+ - [Is Reddit not working? Here are some fixes you can try!](https://www.androidauthority.com/reddit-not-working-how-to-fix-1184723/)
+ - [Real estate broker and reality TV personality Ryan Serhant raised $45M for his app S.MPLE, which lets real estate brokers automate parts of their sales process &lpar;Leo Schwartz/Fortune&rpar;](http://www.techmeme.com/241202/p37#a241202p37)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
