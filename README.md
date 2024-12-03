@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Coming to Game Pass: Indiana Jones and the Great Circle, Crash Team Racing Nitro-Fueled, and More](https://news.xbox.com/en-us/2024/12/03/xbox-game-pass-december-2024-wave-1/)
- - [Master Chief and Commander: It&#39;s Halo 3 but with boats and a naval battle against a Scarab](https://www.pcgamer.com/games/fps/now-you-can-play-halo-3-but-with-boats-and-get-in-a-naval-war-with-a-scarab)
- - [Critical Role&#39;s plans to make a videogame have become an &#39;active pursuit&#39;, says CEO Travis Willingham, after almost 10 years of growing a D&amp;D campaign into a full-on franchise](https://www.pcgamer.com/games/rpg/critical-roles-plans-to-make-a-videogame-have-become-an-active-pursuit-says-ceo-travis-willingham-after-almost-10-years-of-growing-a-d-and-d-campaign-into-a-full-on-franchise)<!-- GAME:END -->
+ - [Designed for Xbox: Your Holiday Gift Guide for Xbox Accessories](https://news.xbox.com/en-us/2024/12/03/designed-for-xbox-holiday-gift-guide-accessories/)
+ - [Gigabyte&#39;s new app for enabling its X3D Turbo Mode in Windows is, for some unfathomable reason, called Aorus AI Snatch](https://www.pcgamer.com/hardware/motherboards/gigabytes-new-app-for-enabling-its-x3d-turbo-mode-in-windows-is-for-some-unfathomable-reason-called-aorus-ai-snatch)
+ - [Unlock Neva&#39;s Cryptic &#39;Memories&#39; Achievement](https://kotaku.com/neva-achievements-memories-how-to-unlock-gris-1851711690)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
