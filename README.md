@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How to get Sinistea, its ‘Antique’ form, and evolution Polteageist in Pokémon Go](https://www.polygon.com/pokemon-go-guide/489844/sinistea-antique-phony-form-polteageist)
- - [Xbox Game Pass Subscribers Are Losing Big This Month](https://kotaku.com/xbox-game-pass-forza-horizon-4-tomb-raider-1851711998)
- - [FromSoftware Is Working On A Bunch Of New Games But Not Elden Ring 2](https://kotaku.com/elden-ring-2-fromsoftware-armored-core-7-sequel-date-1851712164)<!-- GAME:END -->
+ - [Xbox Recognizes International Day of Persons with Disabilities](https://news.xbox.com/en-us/2024/12/03/international-day-of-persons-with-disabilities-xbox-2024/)
+ - [NES Tetris Is Being Re-Released For The First Time Ever](https://kotaku.com/nes-famicom-tetris-nintendo-switch-online-1851712262)
+ - [Pokémon Go ‘Just My Cup of Tea’ event guide](https://www.polygon.com/pokemon-go-guide/489943/just-my-cup-of-tea-event-timed-research-rewards)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
