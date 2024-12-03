@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [She must work on a dairy farm\u2026](http://9gag.com/gag/aRBXoqB)
- - ⏩ [Imma go there too](http://9gag.com/gag/aKG6Wvg)
- - 👉 [Awww, that&#39;s nice..wait..what?!](http://9gag.com/gag/adB8nG9)<!-- MEMES:END -->
+ - 💣 [Can anyone translate ?](http://9gag.com/gag/aYQoDVw)
+ - ⏩ [She must work on a dairy farm\u2026](http://9gag.com/gag/aRBXoqB)
+ - 👉 [Never trust a murderous, paranoid schizophrenic](http://9gag.com/gag/a6ZE2yb)<!-- MEMES:END -->
 
 ---
 
