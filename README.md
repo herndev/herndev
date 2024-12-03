@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Chrome for Android could adopt this smoother animation from iOS](https://www.androidauthority.com/chrome-android-new-animation-3505079/)
- - [Internal Google documents reveal concerns about its cloud contract with Israel](https://www.theverge.com/2024/12/3/24311951/google-project-nimbus-internal-documents)
- - [How to get The Verge’s new print magazine](https://www.theverge.com/2024/12/3/24307540/verge-print-magazine-seo-content-goblins)<!-- TECH:END -->
+ - [Amazon Music Delivered reveals your top songs and most embarrassing Alexa requests](https://www.androidauthority.com/amazon-music-delivered-feature-3505148/)
+ - [The best custom Gboard emoji combos](https://www.androidauthority.com/best-gboard-emoji-combos-3502971/)
+ - [AWS announces general availability of Trainium2 chips, and EC2 Trn2 UltraServers, which feature 64 Trainium2 chips; Trainium3 is slated for 2025 &lpar;Frederic Lardinois/TechCrunch&rpar;](http://www.techmeme.com/241203/p18#a241203p18)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
