@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [19 Neat Games Releasing In December You Should Be Keeping Tabs On](https://kotaku.com/december-2024-game-release-dates-coming-out-ps5-switch-1851711663)
- - [Warhammer 40K: Darktide comes to PlayStation with the newest update](https://www.polygon.com/gaming/490178/40k-darktide-grim-protocols-update-playstation)
- - [Critical Role cast releases full-length holiday album](https://www.polygon.com/critical-role/490230/vox-machina-holiday-album-winters-crest)<!-- GAME:END -->
+ - [Fortnite&#39;s drastically diminished Save the World XP rewards is a bug, Epic says](https://www.pcgamer.com/games/battle-royale/fortnites-drastically-diminished-save-the-world-xp-rewards-is-a-bug-epic-says)
+ - [PlayStation CEO says ‘preserving the human touch’ is vital as AI proliferates](https://www.polygon.com/ai-artificial-intelligence/490113/playstation-ceo-herman-hulst-human-touch-game-development-ai)
+ - [98% of workers at leading wargaming paint manufacturer Acrylicos Vallejo strike](https://www.polygon.com/news/490371/acrylicos-vallejo-strike-hobby-paint-manufacturer)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
