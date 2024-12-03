@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Skeleton Crew required ‘an army’ to get this one Star Wars-y touch right](https://www.polygon.com/star-wars/486655/skeleton-crew-neel-how-vfx-what-is-he)
- - [LG’s Atmos-ready soundbar is surprisingly affordable during Cyber Monday](https://www.polygon.com/cyber-monday/489428/lg-atmos-s70ty-soundbar-sale-amazon)
- - [11 Great Games To Grab From PlayStation&#39;s 30th Anniversary Sale](https://kotaku.com/playstation-sale-ps5-30th-anniversary-helldivers-2-ff7-1851711614)<!-- GAME:END -->
+ - [These Pirate Borg deals are Cyber Monday treasure](https://www.polygon.com/cyber-monday/489511/pirate-borg-deal)
+ - [3 entire Brandon Sanderson series are on sale this Cyber Monday](https://www.polygon.com/black-friday/486578/brandson-sanderson-book-deals-mistborn-stormlight-archive)
+ - [Every version of The Lord of the Rings is discounted for Cyber Monday](https://www.polygon.com/black-friday/486573/lord-of-the-rings-hobbit-book-deal-lotr)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
