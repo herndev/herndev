@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources and documents: troubled IT firm Atos is largely responsible for issues delaying the roll out of the EU&#39;s biometric Entry/Exit border system to 2025 &lpar;Bloomberg&rpar;](http://www.techmeme.com/241203/p4#a241203p4)
- - [An email and documents show Google&#39;s Project Nimbus deal with Israel isn&#39;t subject to Google&#39;s general TOS, but an &quot;adjusted&quot; TOS drafted by Google and Israel &lpar;Sam Biddle/The Intercept&rpar;](http://www.techmeme.com/241203/p3#a241203p3)
- - [The Galaxy Z Fold 7 could get a long-overdue display upgrade](https://www.androidauthority.com/samsung-galaxy-z-fold-7-display-changes-leak-3504906/)<!-- TECH:END -->
+ - [Hulu Promo Codes and Discounts: 90% Off for Select Users](https://www.wired.com/story/hulu-promo-code/)
+ - [Verizon Promo Codes | December 2024](https://www.wired.com/story/verizon-promo-code/)
+ - [Google Pixel phones can now tell you exactly how hot they are](https://www.androidauthority.com/google-pixel-phone-device-temperature-measurement-3504928/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
