@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [30th Anniversary PlayStation Partner Awards 2024 Japan Asia winners announced](https://blog.playstation.com/2024/12/03/30th-anniversary-playstation-partner-awards-2024-japan-asia-winners-announced/)
- - [Can Sableye be shiny in Pokémon Go?](https://www.polygon.com/pokemon-go-guide/488809/can-sableye-be-shiny-mega)
- - [Today&#39;s Wordle answer for Tuesday, December 3](https://www.pcgamer.com/games/puzzle/wordle-answer-today-december-3-2024)<!-- GAME:END -->
+ - [Critical Role&#39;s plans to make a videogame have become an &#39;active pursuit&#39;, says CEO Travis Willingham, after almost 10 years of growing a D&amp;D campaign into a full-on franchise](https://www.pcgamer.com/games/rpg/critical-roles-plans-to-make-a-videogame-have-become-an-active-pursuit-says-ceo-travis-willingham-after-almost-10-years-of-growing-a-d-and-d-campaign-into-a-full-on-franchise)
+ - [All Monster Hunter Wilds weapons confirmed so far](https://www.pcgamer.com/games/action/monster-hunter-wilds-weapons)
+ - [All Stalker 2 endings and how to get each](https://www.pcgamer.com/games/fps/all-stalker-2-endings-and-how-to-get-each)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
