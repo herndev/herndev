@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Salesforce reports Q3 revenue up 8% YoY to $9.44B, vs. $9.35B est., net income up 25% YoY to $1.5B, and issues Q4 guidance above est.; CRM jumps 6%+ after hours &lpar;Jonathan Vanian/CNBC&rpar;](http://www.techmeme.com/241203/p28#a241203p28)
- - [Walmart completes its $2.3B acquisition of TV maker Vizio, saying the purchase will let it offer new ways for advertisers to reach customers via Walmart Connect &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/241203/p27#a241203p27)
- - [Apple&#39;s Beats Solo Buds receive their first-ever firmware update](https://appleinsider.com/articles/24/12/03/apples-beats-solo-buds-receive-their-first-ever-firmware-update?utm_medium=rss)<!-- TECH:END -->
+ - [Deal: The Marshall Tufton speaker finally goes on sale, 33% off](https://www.androidauthority.com/marshall-tufton-speaker-deal-3505242/)
+ - [Trade business software provider ServiceTitan offers an IPO share price range at $52-$57 and plans to buy back the shares of its non-convertible preferred stock &lpar;Julie Bort/TechCrunch&rpar;](http://www.techmeme.com/241203/p31#a241203p31)
+ - [The iPhone 17 Pro models could get an unexpected display upgrade](https://www.androidauthority.com/iphone-17-pro-display-tech-3505264/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
