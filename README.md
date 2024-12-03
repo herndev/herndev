@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [30th Anniversary PlayStation Partner Awards 2024 Japan Asia winners announced](https://blog.playstation.com/2024/12/03/30th-anniversary-playstation-partner-awards-2024-japan-asia-winners-announced/)
  - [Can Sableye be shiny in Pokémon Go?](https://www.polygon.com/pokemon-go-guide/488809/can-sableye-be-shiny-mega)
- - [Today&#39;s Wordle answer for Tuesday, December 3](https://www.pcgamer.com/games/puzzle/wordle-answer-today-december-3-2024)
- - [Infinity Nikki, one of 2024&amp;#8217;s most hyped upcoming games, will be available for pre-download starting Tuesday](https://www.polygon.com/news/488890/infinity-nikki-infold-games-story-trailer-pre-download)<!-- GAME:END -->
+ - [Today&#39;s Wordle answer for Tuesday, December 3](https://www.pcgamer.com/games/puzzle/wordle-answer-today-december-3-2024)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
