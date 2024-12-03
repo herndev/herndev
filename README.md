@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [40 Best Cyber Monday Laptop Deals &lpar;2024&rpar;, MacBooks Included](https://www.wired.com/story/best-cyber-monday-laptop-deals-2024/)
- - [420 Absolute Best Cyber Monday Deals Picked by Our Experts &lpar;2024&rpar; | WIRED](https://www.wired.com/story/absolute-best-cyber-monday-deals-2024/)
- - [PSA: Here’s how to make sure Gmail’s tracking all your holiday packages](https://www.androidauthority.com/gmail-real-time-package-tracking-3504865/)<!-- TECH:END -->
+ - [Threads is rolling out a search update globally over the next few weeks that will let users filter searches to a specific profile and within date ranges &lpar;Wes Davis/The Verge&rpar;](http://www.techmeme.com/241202/p32#a241202p32)
+ - [Apple&#39;s M4 Pro 16-inch MacBook Pro with 48GB RAM plunges to $2,569, record low price](https://appleinsider.com/articles/24/12/02/apples-m4-pro-16-inch-macbook-pro-with-48gb-ram-plunges-to-2569-record-low-price?utm_medium=rss)
+ - [Best Deals From the REI Cyber Week Sale &lpar;2024&rpar;](https://www.wired.com/story/best-rei-cyber-week-outdoor-deals-2024/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
