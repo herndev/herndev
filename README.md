@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Be safe out there: long-suffering Bloodborne fans are in hysterics over a new PlayStation ad](https://www.pcgamer.com/games/rpg/be-safe-out-there-long-suffering-bloodborne-fans-are-in-hysterics-over-a-new-playstation-ad)
- - [What time does Infinity Nikki release?](https://www.polygon.com/infinity-nikki-guides/485803/release-time-preload)
- - [Don’t miss out as Amazon’s Cyber Monday board game deals wrap up](https://www.polygon.com/cyber-monday/475663/best-board-game-deals)<!-- GAME:END -->
+ - [Today&#39;s Wordle answer for Tuesday, December 3](https://www.pcgamer.com/games/puzzle/wordle-answer-today-december-3-2024)
+ - [Infinity Nikki, one of 2024&amp;#8217;s most hyped upcoming games, will be available for pre-download starting Tuesday](https://www.polygon.com/news/488890/infinity-nikki-infold-games-story-trailer-pre-download)
+ - [Be safe out there: long-suffering Bloodborne fans are in hysterics over a new PlayStation ad](https://www.pcgamer.com/games/rpg/be-safe-out-there-long-suffering-bloodborne-fans-are-in-hysterics-over-a-new-playstation-ad)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
