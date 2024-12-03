@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Top US Consumer Watchdog Has a Plan to Fight Predatory Data Brokers](https://www.wired.com/story/cfpb-fcra-data-broker-oversight/)
- - [Meta says it’s mistakenly moderating too much](https://www.theverge.com/2024/12/3/24311513/meta-content-moderation-mistakes-nick-clegg)
- - [iPad, iPad Air, iPad Pro buyer&#39;s guide: which iPad to buy for your budget this holiday season](https://appleinsider.com/articles/24/12/03/ipad-ipad-air-ipad-pro-buyers-guide-which-ipad-to-buy-for-your-budget-this-holiday-season?utm_medium=rss)<!-- TECH:END -->
+ - [Intel announces $249 Arc B580 and $219 Arc B570 ‘Battlemage’ graphics cards](https://www.theverge.com/2024/12/3/24311887/intel-battlemage-b580-b570-price-release-date)
+ - [TikTok says it removed a network covertly campaigning for Calin Georgescu, whose shock victory in the recent Romanian election threw the country into crisis &lpar;Gian Volpicelli/Bloomberg&rpar;](http://www.techmeme.com/241203/p14#a241203p14)
+ - [Never mind the Pixel 9a, leaked OnePlus 13R specs show a mid-range superstar](https://www.androidauthority.com/oneplus-13r-specs-3505034/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
