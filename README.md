@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon Music Delivered reveals your top songs and most embarrassing Alexa requests](https://www.androidauthority.com/amazon-music-delivered-feature-3505148/)
- - [The best custom Gboard emoji combos](https://www.androidauthority.com/best-gboard-emoji-combos-3502971/)
- - [AWS announces general availability of Trainium2 chips, and EC2 Trn2 UltraServers, which feature 64 Trainium2 chips; Trainium3 is slated for 2025 &lpar;Frederic Lardinois/TechCrunch&rpar;](http://www.techmeme.com/241203/p18#a241203p18)<!-- TECH:END -->
+ - [Apple says it&#39;s using Amazon&#39;s Trainium and Graviton chips to serve search services and is evaluating if Tranium2 chips can be used to pre-train its AI models &lpar;Kif Leswing/CNBC&rpar;](http://www.techmeme.com/241203/p22#a241203p22)
+ - [Google enhances Maps on Android Auto with reports from Waze](https://www.androidauthority.com/android-auto-google-maps-waze-3505135/)
+ - [Apple wants to cram sensors for everything into Apple Vision Pro](https://appleinsider.com/articles/24/12/03/apple-wants-to-cram-sensors-for-everything-into-apple-vision-pro?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
