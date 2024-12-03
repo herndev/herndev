@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [These Pirate Borg deals are Cyber Monday treasure](https://www.polygon.com/cyber-monday/489511/pirate-borg-deal)
- - [3 entire Brandon Sanderson series are on sale this Cyber Monday](https://www.polygon.com/black-friday/486578/brandson-sanderson-book-deals-mistborn-stormlight-archive)
- - [Every version of The Lord of the Rings is discounted for Cyber Monday](https://www.polygon.com/black-friday/486573/lord-of-the-rings-hobbit-book-deal-lotr)<!-- GAME:END -->
+ - [The best D&amp;#038;D deals worth shopping before Cyber Monday ends](https://www.polygon.com/cyber-monday/485482/best-dungeons-dragons-dnd-deals)
+ - [The best Cyber Monday gaming deals won’t be here for much longer](https://www.polygon.com/cyber-monday/475661/best-gaming-deals-video-games)
+ - [These Pirate Borg deals are Cyber Monday treasure](https://www.polygon.com/cyber-monday/489511/pirate-borg-deal)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
