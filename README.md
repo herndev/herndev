@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Read an excerpt from The Art and Making of Arcane](https://www.polygon.com/books/486228/netflix-arcane-art-and-making-of-excerpt-book)
- - [Wait, how has It Takes Two sold 20 million copies?](https://www.polygon.com/analysis/489856/it-takes-two-sales-20-million)
- - [Don’t expect Elden Ring 2 anytime soon](https://www.polygon.com/news/489947/elden-ring-2-sequel-not-in-development-fromsoftware-hidetaka-miyazaki)<!-- GAME:END -->
+ - [Turns Out Most Of You Spend More Time Watching Games Than Playing Them](https://kotaku.com/twitch-gamers-study-more-hours-watching-than-playing-1851712501)
+ - [Indiana Jones and the Great Circle is the next big Xbox Game Pass download](https://www.polygon.com/news/490056/indiana-jones-great-circle-xbox-game-pass-december)
+ - [Read an excerpt from The Art and Making of Arcane](https://www.polygon.com/books/486228/netflix-arcane-art-and-making-of-excerpt-book)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
