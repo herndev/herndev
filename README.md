@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [A narco was captured in Mexico](http://9gag.com/gag/agmBxDn)
- - ⏩ [Normal for it to move? And the bolt moves?](http://9gag.com/gag/aKG69gj)
- - 👉 [Nice in grey top.](http://9gag.com/gag/a4PEzdy)<!-- MEMES:END -->
+ - 💣 [Nice in grey top.](http://9gag.com/gag/a4PEzdy)
+ - ⏩ [Dinosaurs can be sexy too](http://9gag.com/gag/aW4jnG3)
+ - 👉 [Man attacked by his wheelchair-bound neighbor&#39;s 4 Pitbulls](http://9gag.com/gag/abAVO4p)<!-- MEMES:END -->
 
 ---
 
