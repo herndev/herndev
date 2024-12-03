@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple says it&#39;s using Amazon&#39;s Trainium and Graviton chips to serve search services and is evaluating if Tranium2 chips can be used to pre-train its AI models &lpar;Kif Leswing/CNBC&rpar;](http://www.techmeme.com/241203/p22#a241203p22)
- - [Google enhances Maps on Android Auto with reports from Waze](https://www.androidauthority.com/android-auto-google-maps-waze-3505135/)
- - [Apple wants to cram sensors for everything into Apple Vision Pro](https://appleinsider.com/articles/24/12/03/apple-wants-to-cram-sensors-for-everything-into-apple-vision-pro?utm_medium=rss)<!-- TECH:END -->
+ - [32 years ago today, personal communication changed forever](https://www.androidauthority.com/first-sms-text-message-3505164/)
+ - [What happened to Intel?](https://www.theverge.com/2024/12/3/24311594/intel-under-pat-gelsinger)
+ - [Amazon announces its own set of Nova AI models](https://www.theverge.com/2024/12/3/24312260/amazon-nova-foundation-ai-models-anthropic)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
