@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Bad news coming](http://9gag.com/gag/azxMO5j)
- - ⏩ [USA, a woman found her stolen car with hijackers inside](http://9gag.com/gag/aNDpBWv)
- - 👉 [The accuracy is on point](http://9gag.com/gag/abAVWZ9)<!-- MEMES:END -->
+ - 💣 [A narco was captured in Mexico](http://9gag.com/gag/agmBxDn)
+ - ⏩ [Nice in grey top.](http://9gag.com/gag/a4PEzdy)
+ - 👉 [Normal for it to move? And the bolt moves?](http://9gag.com/gag/aKG69gj)<!-- MEMES:END -->
 
 ---
 
