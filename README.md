@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Can anyone translate ?](http://9gag.com/gag/aYQoDVw)
- - ⏩ [She must work on a dairy farm\u2026](http://9gag.com/gag/aRBXoqB)
- - 👉 [Never trust a murderous, paranoid schizophrenic](http://9gag.com/gag/a6ZE2yb)<!-- MEMES:END -->
+ - 💣 [Anyone else have this problem?](http://9gag.com/gag/aQzomnw)
+ - ⏩ [This is madness](http://9gag.com/gag/aO83PxM)
+ - 👉 [Fact](http://9gag.com/gag/aPA3Qow)<!-- MEMES:END -->
 
 ---
 
