@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Mr jobs why did you die](http://9gag.com/gag/a7oE9Eb)
- - ⏩ [When you&#39;ve accepted your fate](http://9gag.com/gag/aryMZd0)
- - 👉 [Imma go there too](http://9gag.com/gag/aKG6Wvg)<!-- MEMES:END -->
+ - 💣 [Imma go there too](http://9gag.com/gag/aKG6Wvg)
+ - ⏩ [I am aint even mad and wont complain about it.](http://9gag.com/gag/an7QEwV)
+ - 👉 [She must work on a dairy farm\u2026](http://9gag.com/gag/aRBXoqB)<!-- MEMES:END -->
 
 ---
 
