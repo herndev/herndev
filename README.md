@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [A narco was captured in Mexico](http://9gag.com/gag/agmBxDn)
+ - 💣 [Smell is racist](http://9gag.com/gag/aO839RE)
  - ⏩ [Nice in grey top.](http://9gag.com/gag/a4PEzdy)
- - 👉 [Normal for it to move? And the bolt moves?](http://9gag.com/gag/aKG69gj)<!-- MEMES:END -->
+ - 👉 [The accuracy is on point](http://9gag.com/gag/abAVWZ9)<!-- MEMES:END -->
 
 ---
 
