@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [When the cat refuses medication](http://9gag.com/gag/aGypM27)
- - ⏩ [Another way to hurt them](http://9gag.com/gag/awyMLOQ)
- - 👉 [Bad news coming](http://9gag.com/gag/azxMO5j)<!-- MEMES:END -->
+ - 💣 [A narco was captured in Mexico](http://9gag.com/gag/agmBxDn)
+ - ⏩ [Normal for it to move? And the bolt moves?](http://9gag.com/gag/aKG69gj)
+ - 👉 [Nice in grey top.](http://9gag.com/gag/a4PEzdy)<!-- MEMES:END -->
 
 ---
 
