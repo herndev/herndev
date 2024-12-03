@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Useless](http://9gag.com/gag/ae9AxGB)
- - ⏩ [When the cat refuses medication](http://9gag.com/gag/aGypM27)
- - 👉 [Books are a mirror to the soul!!!](http://9gag.com/gag/aoyMxZA)<!-- MEMES:END -->
+ - 💣 [Bad news coming](http://9gag.com/gag/azxMO5j)
+ - ⏩ [USA, a woman found her stolen car with hijackers inside](http://9gag.com/gag/aNDpBWv)
+ - 👉 [The accuracy is on point](http://9gag.com/gag/abAVWZ9)<!-- MEMES:END -->
 
 ---
 
