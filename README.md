@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Dylan Field ‘Got a Real Kick’ Out of This Week’s Enron Relaunch](https://www.wired.com/story/big-interview-dylan-field-2024/)
- - [AWS announces Nova models for Bedrock, including Micro, Lite, Pro, and Premier text generating models, and Canvas and Reel models for image and video generation &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/241203/p25#a241203p25)
- - [Celsius Network founder Alex Mashinsky agreed in a US court to plead guilty to commodities fraud and a fraudulent scheme to manipulate the price of CEL &lpar;Luc Cohen/Reuters&rpar;](http://www.techmeme.com/241203/p24#a241203p24)<!-- TECH:END -->
+ - [Salesforce reports Q3 revenue up 8% YoY to $9.44B, vs. $9.35B est., net income up 25% YoY to $1.5B, and issues Q4 guidance above est.; CRM jumps 6%+ after hours &lpar;Jonathan Vanian/CNBC&rpar;](http://www.techmeme.com/241203/p28#a241203p28)
+ - [Walmart completes its $2.3B acquisition of TV maker Vizio, saying the purchase will let it offer new ways for advertisers to reach customers via Walmart Connect &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/241203/p27#a241203p27)
+ - [Apple&#39;s Beats Solo Buds receive their first-ever firmware update](https://appleinsider.com/articles/24/12/03/apples-beats-solo-buds-receive-their-first-ever-firmware-update?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
