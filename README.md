@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The NCSC says the UK faces a &quot;widening gap&quot; in its ability to fight cyber threats, and &quot;severe&quot; incidents handled by the agency tripled to 12 in the past year &lpar;John Paul Rathbone/Financial Times&rpar;](http://www.techmeme.com/241203/p1#a241203p1)
- - [The best last-minute Cyber Monday deals you can still shop](https://www.theverge.com/24309106/best-black-friday-deals-2024-tech-gadgets-cyber-monday)
- - [Google Messages may finally tackle a longtime RCS group chat frustration &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-messages-rcs-group-chat-icon-3504901/)<!-- TECH:END -->
+ - [Sources and documents: troubled IT firm Atos is largely responsible for issues delaying the roll out of the EU&#39;s biometric Entry/Exit border system to 2025 &lpar;Bloomberg&rpar;](http://www.techmeme.com/241203/p4#a241203p4)
+ - [An email and documents show Google&#39;s Project Nimbus deal with Israel isn&#39;t subject to Google&#39;s general TOS, but an &quot;adjusted&quot; TOS drafted by Google and Israel &lpar;Sam Biddle/The Intercept&rpar;](http://www.techmeme.com/241203/p3#a241203p3)
+ - [The Galaxy Z Fold 7 could get a long-overdue display upgrade](https://www.androidauthority.com/samsung-galaxy-z-fold-7-display-changes-leak-3504906/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
