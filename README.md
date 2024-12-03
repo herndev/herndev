@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Can Sableye be shiny in Pokémon Go?](https://www.polygon.com/pokemon-go-guide/488809/can-sableye-be-shiny-mega)
  - [Today&#39;s Wordle answer for Tuesday, December 3](https://www.pcgamer.com/games/puzzle/wordle-answer-today-december-3-2024)
- - [Infinity Nikki, one of 2024&amp;#8217;s most hyped upcoming games, will be available for pre-download starting Tuesday](https://www.polygon.com/news/488890/infinity-nikki-infold-games-story-trailer-pre-download)
- - [Be safe out there: long-suffering Bloodborne fans are in hysterics over a new PlayStation ad](https://www.pcgamer.com/games/rpg/be-safe-out-there-long-suffering-bloodborne-fans-are-in-hysterics-over-a-new-playstation-ad)<!-- GAME:END -->
+ - [Infinity Nikki, one of 2024&amp;#8217;s most hyped upcoming games, will be available for pre-download starting Tuesday](https://www.polygon.com/news/488890/infinity-nikki-infold-games-story-trailer-pre-download)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
