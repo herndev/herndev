@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [China limits US export of chipmaking materials following sanctions](https://www.theverge.com/2024/12/3/24311929/china-us-export-chipmaking-components-sanctions)
- - [Give the gift of privacy and security online with Surfshark VPN&#39;s winter sale](https://appleinsider.com/articles/24/12/03/give-the-gift-of-privacy-and-security-online-with-surfshark-vpns-winter-sale?utm_medium=rss)
- - [A gadget lover’s guide to the great outdoors](https://www.theverge.com/2024/12/3/24311494/starlink-mini-vanlife-peak-design-creator-microphone-vergecast)<!-- TECH:END -->
+ - [Google’s new app helps me learn complex topics, but can it escape the graveyard?](https://www.androidauthority.com/google-learn-about-app-3504544/)
+ - [Stable Wear OS 5 update rolling out widely for these older Galaxy smartwatch models](https://www.androidauthority.com/samsung-galaxy-watch-5-pro-fe-wear-os-5-update-3505084/)
+ - [The Flexbar resurrects the MacBook Pro’s Touch Bar as a standalone device](https://www.theverge.com/2024/12/3/24311935/flexbar-touchscreen-apple-macbook-pro-touch-bar-kickstarter)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
