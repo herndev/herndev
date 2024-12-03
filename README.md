@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Threads is rolling out a search update globally over the next few weeks that will let users filter searches to a specific profile and within date ranges &lpar;Wes Davis/The Verge&rpar;](http://www.techmeme.com/241202/p32#a241202p32)
- - [Apple&#39;s M4 Pro 16-inch MacBook Pro with 48GB RAM plunges to $2,569, record low price](https://appleinsider.com/articles/24/12/02/apples-m4-pro-16-inch-macbook-pro-with-48gb-ram-plunges-to-2569-record-low-price?utm_medium=rss)
- - [Best Deals From the REI Cyber Week Sale &lpar;2024&rpar;](https://www.wired.com/story/best-rei-cyber-week-outdoor-deals-2024/)<!-- TECH:END -->
+ - [Jaguar Type 00 EV: Price, Specs, Availability](https://www.wired.com/story/jaguar-finally-reveals-its-all-electric-type-00/)
+ - [It’s the most wonderful time to get a Samsung Galaxy Z Fold 6 on sale!](https://www.androidauthority.com/samsung-galaxy-z-fold-6-deal-5-3504862/)
+ - [The 100 best Cyber Monday deals under $100](https://www.theverge.com/24309009/black-friday-2024-best-deals-under-100-tech-gift-ideas-cyber-monday)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
