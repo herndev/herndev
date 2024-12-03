@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Music’s annual recap now available ahead of Spotify Wrapped](https://www.androidauthority.com/apple-music-replay-2024-available-3504964/)
- - [Internal docs: in early 2021, Google&#39;s lawyers, policy team, and more worried that its $1.2B Project Nimbus deal with Israel may enable human rights violations &lpar;Nico Grant/New York Times&rpar;](http://www.techmeme.com/241203/p9#a241203p9)
- - [Samsung’s DeX app is being replaced by Microsoft’s Phone Link in One UI 7](https://www.theverge.com/2024/12/3/24311882/samsung-dex-app-windows-replaced-link-to-windows-microsoft-phone-link)<!-- TECH:END -->
+ - [Samsung’s next ‘one more thing’ for Galaxy Unpacked could be its XR glasses](https://www.androidauthority.com/samsung-xr-glasses-galaxy-s25-launch-3504962/)
+ - [The CFPB proposes a rule to limit data brokers&#39; ability to sell Americans&#39; personal and financial info, after the National Public Data breach earlier in 2024 &lpar;Gaby Del Valle/The Verge&rpar;](http://www.techmeme.com/241203/p12#a241203p12)
+ - [A US law firm files an antitrust lawsuit against Microsoft with the UK&#39;s Competition Appeal Tribunal over how it charges users who buy services that rival Azure &lpar;Edith Hancock/Wall Street Journal&rpar;](http://www.techmeme.com/241203/p11#a241203p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
