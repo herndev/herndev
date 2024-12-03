@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Be safe out there: long-suffering Bloodborne fans are in hysterics over a new PlayStation ad](https://www.pcgamer.com/games/rpg/be-safe-out-there-long-suffering-bloodborne-fans-are-in-hysterics-over-a-new-playstation-ad)
  - [What time does Infinity Nikki release?](https://www.polygon.com/infinity-nikki-guides/485803/release-time-preload)
- - [Don’t miss out as Amazon’s Cyber Monday board game deals wrap up](https://www.polygon.com/cyber-monday/475663/best-board-game-deals)
- - [Our favorite Cyber Monday deals are still going strong](https://www.polygon.com/cyber-monday/475658/best-deals-games-books-movies-toys)<!-- GAME:END -->
+ - [Don’t miss out as Amazon’s Cyber Monday board game deals wrap up](https://www.polygon.com/cyber-monday/475663/best-board-game-deals)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
