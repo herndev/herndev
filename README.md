@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Good job driver](http://9gag.com/gag/a1mrV28)
- - ⏩ [Can anyone translate ?](http://9gag.com/gag/aYQoDVw)
- - 👉 [The lion, the witch and the audacity of this b****!](http://9gag.com/gag/aKG6WZN)<!-- MEMES:END -->
+ - 💣 [Useless](http://9gag.com/gag/ae9AxGB)
+ - ⏩ [When the cat refuses medication](http://9gag.com/gag/aGypM27)
+ - 👉 [Books are a mirror to the soul!!!](http://9gag.com/gag/aoyMxZA)<!-- MEMES:END -->
 
 ---
 
