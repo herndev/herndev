@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Master Chief and Commander: It&#39;s Halo 3 but with boats and a naval battle against a Scarab](https://www.pcgamer.com/games/fps/now-you-can-play-halo-3-but-with-boats-and-get-in-a-naval-war-with-a-scarab)
  - [Critical Role&#39;s plans to make a videogame have become an &#39;active pursuit&#39;, says CEO Travis Willingham, after almost 10 years of growing a D&amp;D campaign into a full-on franchise](https://www.pcgamer.com/games/rpg/critical-roles-plans-to-make-a-videogame-have-become-an-active-pursuit-says-ceo-travis-willingham-after-almost-10-years-of-growing-a-d-and-d-campaign-into-a-full-on-franchise)
- - [All Monster Hunter Wilds weapons confirmed so far](https://www.pcgamer.com/games/action/monster-hunter-wilds-weapons)
- - [All Stalker 2 endings and how to get each](https://www.pcgamer.com/games/fps/all-stalker-2-endings-and-how-to-get-each)<!-- GAME:END -->
+ - [All Monster Hunter Wilds weapons confirmed so far](https://www.pcgamer.com/games/action/monster-hunter-wilds-weapons)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
