@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Thank you Oscar!](http://9gag.com/gag/axyMbNn)
- - ⏩ [Mr jobs why did you die](http://9gag.com/gag/a7oE9Eb)
- - 👉 [Mischief managed](http://9gag.com/gag/awyMdwD)<!-- MEMES:END -->
+ - 💣 [Come back](http://9gag.com/gag/aGypO8z)
+ - ⏩ [Fact](http://9gag.com/gag/aPA3Qow)
+ - 👉 [Looks like army has revised the requirements to enlist](http://9gag.com/gag/aNDpRdK)<!-- MEMES:END -->
 
 ---
 
