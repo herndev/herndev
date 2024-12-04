@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This is madness](http://9gag.com/gag/aO83PxM)
- - ⏩ [Mischief managed](http://9gag.com/gag/awyMdwD)
- - 👉 [South Korea Special Forces rebels easily neutralized by Tai Chi veteran news reporter](http://9gag.com/gag/aD2dXNd)<!-- MEMES:END -->
+ - 💣 [Infinite Aura](http://9gag.com/gag/a0e7Edv)
+ - ⏩ [It&#39;s 2003, and these two students didn&#39;t realize they just made a massive hit song.](http://9gag.com/gag/aBy2O4Q)
+ - 👉 [Somebody please tell her](http://9gag.com/gag/a6ZEB0L)<!-- MEMES:END -->
 
 ---
 
