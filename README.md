@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Stacy&#39;s mom has been spending a lot of time in the pool](http://9gag.com/gag/aAybXWE)
- - ⏩ [Bro regretted taking her](http://9gag.com/gag/aBy2GGZ)
- - 👉 [`I don&#39;t even know what I&#39;m doing here`](http://9gag.com/gag/aKG6OwQ)<!-- MEMES:END -->
+ - 💣 [This is madness](http://9gag.com/gag/aO83PxM)
+ - ⏩ [Mischief managed](http://9gag.com/gag/awyMdwD)
+ - 👉 [South Korea Special Forces rebels easily neutralized by Tai Chi veteran news reporter](http://9gag.com/gag/aD2dXNd)<!-- MEMES:END -->
 
 ---
 
