@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Never trust a murderous, paranoid schizophrenic](http://9gag.com/gag/a6ZE2yb)
- - ⏩ [My fellow Anime enthusiast](http://9gag.com/gag/a34EWv3)
- - 👉 [Mr jobs why did you die](http://9gag.com/gag/a7oE9Eb)<!-- MEMES:END -->
+ - 💣 [She must work on a dairy farm\u2026](http://9gag.com/gag/aRBXoqB)
+ - ⏩ [Marisa Tomei turns 60 today and aged beautifully.](http://9gag.com/gag/ayNMvzX)
+ - 👉 [My fellow Anime enthusiast](http://9gag.com/gag/a34EWv3)<!-- MEMES:END -->
 
 ---
 
