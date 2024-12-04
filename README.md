@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [What a new threat report says about Mac malware in 2024](https://appleinsider.com/articles/24/12/04/what-a-new-threat-report-says-about-mac-malware-in-2024?utm_medium=rss)
- - [Mira Murati Quit OpenAI. She’s as Optimistic as Ever About AGI](https://www.wired.com/story/big-interview-mira-murati-2024/)
- - [Bluesky COO Rose Wang rejects the idea the social network is &quot;left-leaning&quot; and says Bluesky plans to launch a subscription service by the end of this year &lpar;Bloomberg&rpar;](http://www.techmeme.com/241203/p35#a241203p35)<!-- TECH:END -->
+ - [Brian Chesky Says Big Things Are Coming for Airbnb in 2025](https://www.wired.com/story/big-interview-airbnb-brian-chesky-2024/)
+ - [AWS introduces Amazon Aurora DSQL, a new serverless, distributed SQL database that promises high availability, strong consistency, and PostgreSQL compatibility &lpar;Frederic Lardinois/TechCrunch&rpar;](http://www.techmeme.com/241203/p36#a241203p36)
+ - [Jensen Huang Wants to Make AI the New World Infrastructure](https://www.wired.com/story/big-interview-nvidia-jensen-huang-2024/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
