@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The big One UI 7 wait may finally be over](https://www.androidauthority.com/one-ui-7-beta-begin-3505683/)
- - [xAI plans to expand its Colossus supercomputer tenfold to incorporate more than 1M GPUs; work has already begun to increase the size of its facility in Memphis &lpar;Financial Times&rpar;](http://www.techmeme.com/241204/p47#a241204p47)
- - [OpenAI is partnering with defense tech company Anduril](https://www.theverge.com/2024/12/4/24313486/openai-anduril-partnership-counterdrone-systems)<!-- TECH:END -->
+ - [The international Galaxy S25 is getting one feature US buyers will miss](https://www.androidauthority.com/galaxy-s25-global-fcc-listings-3505728/)
+ - [Jeff Bezos says he’s ‘very optimistic this time around’ about Trump](https://www.theverge.com/2024/12/4/24313549/bezos-trump-optimistic-dealbook-summit-doge)
+ - [The NYPD is trying to track a Citi Bike used by the UnitedHealthcare CEO’s killer](https://www.theverge.com/2024/12/4/24313480/lyft-united-health-ceo-shooter-escaped-citi-bike-cooperating-authorities)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
