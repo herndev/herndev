@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [USS Low Ground](http://9gag.com/gag/aO831Br)
- - ⏩ [Loophole at the blackhole](http://9gag.com/gag/avy5E65)
- - 👉 [Awww, that&#39;s nice..wait..what?!](http://9gag.com/gag/adB8nG9)<!-- MEMES:END -->
+ - 💣 [When you&#39;ve accepted your fate](http://9gag.com/gag/aryMZd0)
+ - ⏩ [Thank you Oscar!](http://9gag.com/gag/axyMbNn)
+ - 👉 [Mr jobs why did you die](http://9gag.com/gag/a7oE9Eb)<!-- MEMES:END -->
 
 ---
 
