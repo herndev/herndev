@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [When you&#39;ve accepted your fate](http://9gag.com/gag/aryMZd0)
- - ⏩ [Thank you Oscar!](http://9gag.com/gag/axyMbNn)
- - 👉 [Mr jobs why did you die](http://9gag.com/gag/a7oE9Eb)<!-- MEMES:END -->
+ - 💣 [The serious risk posed by a detached Truck&#39;s Tires](http://9gag.com/gag/aGypGLZ)
+ - ⏩ [Anakin and Padm\u00e9](http://9gag.com/gag/azxMGZz)
+ - 👉 [Thank you Oscar!](http://9gag.com/gag/axyMbNn)<!-- MEMES:END -->
 
 ---
 
