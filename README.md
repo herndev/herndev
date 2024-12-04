@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple Watch tracks more health metrics than you realize](https://appleinsider.com/articles/24/12/03/apple-watch-tracks-more-health-metrics-than-you-realize?utm_medium=rss)
  - [Brian Chesky Says Big Things Are Coming for Airbnb in 2025](https://www.wired.com/story/big-interview-airbnb-brian-chesky-2024/)
- - [AWS introduces Amazon Aurora DSQL, a new serverless, distributed SQL database that promises high availability, strong consistency, and PostgreSQL compatibility &lpar;Frederic Lardinois/TechCrunch&rpar;](http://www.techmeme.com/241203/p36#a241203p36)
- - [Jensen Huang Wants to Make AI the New World Infrastructure](https://www.wired.com/story/big-interview-nvidia-jensen-huang-2024/)<!-- TECH:END -->
+ - [AWS introduces Amazon Aurora DSQL, a new serverless, distributed SQL database that promises high availability, strong consistency, and PostgreSQL compatibility &lpar;Frederic Lardinois/TechCrunch&rpar;](http://www.techmeme.com/241203/p36#a241203p36)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
