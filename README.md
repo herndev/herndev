@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Netflix says Netflix Japan passed 10M+ subscribers in H1 2024 and has doubled its user base in the past four years thanks to Japanese-language programming &lpar;Sam Nussey/Reuters&rpar;](http://www.techmeme.com/241204/p32#a241204p32)
- - [M5 iPad Pro rumored to arrive sometime in late 2025](https://appleinsider.com/articles/24/12/04/m5-ipad-pro-rumored-to-arrive-sometime-in-late-2025?utm_medium=rss)
- - [Razer BlackWidow V4 Pro 75% Review: High Tech, High Price](https://www.wired.com/review/razer-blackwidow-v4-pro-75/)<!-- TECH:END -->
+ - [Instagram creators can now turn on replies in broadcast channels](https://www.theverge.com/2024/12/4/24312956/instagram-broadcast-channels-replies-prompts-availability)
+ - [ESPN is coming to the Disney Plus app starting today](https://www.theverge.com/2024/12/4/24312617/espn-disney-plus-now-available-bundle-free-preview)
+ - [Skeleton Crew is a kid-friendly reminder of who Star Wars is for](https://www.theverge.com/24312202/star-wars-skeleton-crew-review)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
