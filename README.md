@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Instagram creators can now turn on replies in broadcast channels](https://www.theverge.com/2024/12/4/24312956/instagram-broadcast-channels-replies-prompts-availability)
- - [ESPN is coming to the Disney Plus app starting today](https://www.theverge.com/2024/12/4/24312617/espn-disney-plus-now-available-bundle-free-preview)
- - [Skeleton Crew is a kid-friendly reminder of who Star Wars is for](https://www.theverge.com/24312202/star-wars-skeleton-crew-review)<!-- TECH:END -->
+ - [Xfinity Mobile is offering up to $500 per line to new customers and other great holiday deals](https://www.androidauthority.com/xfinity-mobile-holiday-deals-3505260/)
+ - [GM and EVgo now have over 2,000 EV charging stalls and counting](https://www.theverge.com/2024/12/4/24313038/gm-and-evgo-now-have-over-2000-ev-charging-stalls-and-counting)
+ - [Customer learns the hard way why you shouldn’t buy internet access like Girl Scout cookies](https://www.androidauthority.com/door-to-door-sales-3505463/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
