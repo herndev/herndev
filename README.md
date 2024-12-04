@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta turns to nuclear energy for its AI ambitions](https://www.theverge.com/2024/12/4/24313011/meta-ai-data-center-nuclear-energy)
- - [The new Gundam anime looks great and sounds like it was named by a cat on a keyboard](https://www.theverge.com/2024/12/4/24313105/gundam-gquuuuuux-trailer-hideaki-anno-yoji-enokido)
- - [This Android phone is borrowing iOS 18’s anti-nausea trick](https://www.androidauthority.com/honor-motion-sickness-feature-3505510/)<!-- TECH:END -->
+ - [Dune: Prophecy’s showrunner wants you to think beyond the hero / villain binary](https://www.theverge.com/2024/12/4/24311132/dune-prophecy-interview-alison-schapker)
+ - [Donald Trump picks billionaire Jared Isaacman to lead NASA](https://www.theverge.com/2024/12/4/24313160/donald-trump-nasa-billionaire-jared-isaacman)
+ - [Harmony OS Next doesn’t natively support Android apps, but that hasn’t stopped some people](https://www.androidauthority.com/harmony-os-next-android-apps-3505588/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
