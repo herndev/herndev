@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [She must work on a dairy farm\u2026](http://9gag.com/gag/aRBXoqB)
- - ⏩ [Marisa Tomei turns 60 today and aged beautifully.](http://9gag.com/gag/ayNMvzX)
- - 👉 [My fellow Anime enthusiast](http://9gag.com/gag/a34EWv3)<!-- MEMES:END -->
+ - 💣 [Best ad ever](http://9gag.com/gag/aYQoRMq)
+ - ⏩ [This login interface](http://9gag.com/gag/aPA3rXg)
+ - 👉 [This cyclist has been spitting on his car for weeks, until the owner had an idea](http://9gag.com/gag/aNDpjp4)<!-- MEMES:END -->
 
 ---
 
