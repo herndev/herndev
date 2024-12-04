@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Comic-Con-alternative CCXP has harnessed a growing phenomenon](https://www.polygon.com/comics/473178/ccxp-is-the-new-comic-con)
- - [Where to find demons in Fortnite Chapter 6 Season 1](https://www.polygon.com/fortnite-guide/490057/demons-locations-where-to-find)
- - [Turns out the Arcane creative team always had the go ahead to kill any fan-favourite League of Legends characters it wanted: &#39;Riot embraced whatever story we wanted to tell with any of the characters&#39;](https://www.pcgamer.com/movies-tv/turns-out-the-arcane-creative-team-always-had-the-go-ahead-to-kill-any-fan-favourite-characters-it-wanted-riot-embraced-whatever-story-we-wanted-to-tell-with-any-of-the-characters)<!-- GAME:END -->
+ - [Resurrecting a Classic: Raziel Returns to Xbox in Legacy of Kain Soul Reaver 1 &amp; 2 Remastered](https://news.xbox.com/en-us/2024/12/04/legacy-of-kain-soul-reaver-1-2-remastered-xbox/)
+ - [Meet The Council](https://www.pcgamer.com/thecouncil)
+ - [PlayStation&#39;s Gran Turismo 7 Is Basically Getting A Free Demo Disc](https://kotaku.com/playstations-gran-turismo-7-is-basically-getting-a-free-1851713486)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
