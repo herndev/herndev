@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [PlayStation says ‘thanks for making us money, guys’ with its 30th anniversary Partner Awards](https://www.polygon.com/gaming/490546/playstation-partner-awards-2024-hoyoverse-cat)
- - [What time does Infinity Nikki release?](https://www.polygon.com/infinity-nikki-guides/485803/release-time-preload)
- - [Got Stalker 2’s Deluxe Edition? Don&#39;t Miss This Amazing SMG](https://kotaku.com/stalker-2-riemann-smg-deluxe-edition-dlc-worth-it-find-1851713004)<!-- GAME:END -->
+ - [New Gundam anime from the creators of Evangelion and FLCL announced for 2025](https://www.polygon.com/anime/490581/mobile-suit-gundam-gquuuuuux-anime-trailer-announcement-evangelion-flcl)
+ - [Our first &#39;official&#39; look at the new Lenovo Legion Go S shows that, unlike the original, it should be a bona fide mainstream handheld](https://www.pcgamer.com/hardware/handheld-gaming-pcs/our-first-official-look-at-the-new-lenovo-legion-go-s-shows-that-unlike-the-original-it-should-be-a-bona-fide-mainstream-handheld)
+ - [Mario was supposed to look wrecked in Brothership, but Nintendo was like nah](https://www.polygon.com/nintendo/490592/rugged-mario-brothership-abandoned-redesign-concept-art)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
