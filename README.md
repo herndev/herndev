@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [USS Low Ground](http://9gag.com/gag/aO831Br)
- - ⏩ [Stacy&#39;s mom has been spending a lot of time in the pool](http://9gag.com/gag/aAybXWE)
- - 👉 [Hey guys, do you know this? South Korea has just declared martial law.](http://9gag.com/gag/ajPmKDw)<!-- MEMES:END -->
+ - ⏩ [Loophole at the blackhole](http://9gag.com/gag/avy5E65)
+ - 👉 [Awww, that&#39;s nice..wait..what?!](http://9gag.com/gag/adB8nG9)<!-- MEMES:END -->
 
 ---
 
