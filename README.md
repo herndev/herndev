@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Deal: The Marshall Tufton speaker finally goes on sale, 33% off](https://www.androidauthority.com/marshall-tufton-speaker-deal-3505242/)
- - [Trade business software provider ServiceTitan offers an IPO share price range at $52-$57 and plans to buy back the shares of its non-convertible preferred stock &lpar;Julie Bort/TechCrunch&rpar;](http://www.techmeme.com/241203/p31#a241203p31)
- - [The iPhone 17 Pro models could get an unexpected display upgrade](https://www.androidauthority.com/iphone-17-pro-display-tech-3505264/)<!-- TECH:END -->
+ - [Vodka maker Stoli says an August 2024 ransomware attack contributed to the bankruptcy filing of its US arm, amid its ongoing issues with the Russian government &lpar;Jonathan Greig/The Record&rpar;](http://www.techmeme.com/241203/p33#a241203p33)
+ - [Mark Cuban&#39;s War on Drug Prices: &#39;How Much Fucking Money Do I Need?&#39;](https://www.wired.com/story/big-interview-mark-cuban-2024/)
+ - [Walmart bought Vizio](https://www.theverge.com/2024/12/3/24312508/walmart-vizio-acquisition-complete)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
