@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Telegram agrees to work with the IWF to stop the spread of CSAM; IWF calls Telegram&#39;s decision &quot;transformational&quot; and the first step in a &quot;much longer journey&quot; &lpar;Joe Tidy/BBC&rpar;](http://www.techmeme.com/241204/p3#a241204p3)
- - [Salesforce says online Cyber Monday sales grew 3% YoY to $49.7B globally and just 2% YoY to $12.8B in the US; Adobe says US online sales grew 7.3% YoY to $13.3B &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/241204/p2#a241204p2)
- - [A look at ex-CEO Pat Gelsinger&#39;s history at Intel, the setbacks he faced in trying to turn the company around, and why investors may have lost confidence in him &lpar;Sean Hollister/The Verge&rpar;](http://www.techmeme.com/241204/p1#a241204p1)<!-- TECH:END -->
+ - [More for nothing: Verizon is increasing its frivolous admin fee](https://www.androidauthority.com/verizon-admin-fee-increase-3505347/)
+ - [Founders Fund&#39;s Brian Singerman, one of the earliest employees of Peter Thiel&#39;s VC firm and best known for investments in SpaceX and Anduril, steps down as a GP &lpar;Ari Levy/CNBC&rpar;](http://www.techmeme.com/241204/p5#a241204p5)
+ - [Meta says AI content made up less than 1% of election-related misinformation on its apps during major elections in the US, the UK, India, Indonesia, and others &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/241204/p4#a241204p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
