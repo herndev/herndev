@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [What time does Marvel Rivals release in your time zone?](https://www.polygon.com/marvel-rivals-guide/485109/release-time-date-est-pst-bst)
- - [When does Indiana Jones release in early access, and is it on Game Pass?](https://www.polygon.com/indiana-jones-great-circle-guide/486012/release-time-early-access-game-pass)
- - [The Game Awards&amp;#8217; fan-voted game of the year nominees find room for snubs](https://www.polygon.com/news/490163/game-awards-game-year-fan-vote-players-voice)<!-- GAME:END -->
+ - [Ubisoft loses faith in free-to-play CoD competitor XDefiant, will shut it down in 2025: &#39;Many free-to-play games take a long time to find their footing and become profitable&#39;](https://www.pcgamer.com/games/fps/ubisoft-loses-faith-in-free-to-play-cod-competitor-xdefiant-will-shut-it-down-in-2025-many-free-to-play-games-take-a-long-time-to-find-their-footing-and-become-profitable)
+ - [Ubisoft Shutting Down Call Of Duty Competitor After Executive Producer Swore It Wasn&#39;t Dying](https://kotaku.com/ubisoft-xdefiant-shut-down-ending-call-of-duty-cod-june-1851712899)
+ - [Ubisoft shutting down XDefiant in 2025, laying off half of its team](https://www.polygon.com/gaming/490491/ubsioft-xdefiant-shutting-down)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
