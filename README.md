@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [I must protect Fortnite’s sprites at all costs](https://www.polygon.com/culture/489541/fortnite-sprite-best-tiktok-clips)
- - [Dragon Age: The Veilguard Directors Explain Why They Made You Make That Choice At The End](https://kotaku.com/dragon-age-veilguard-bellara-neve-davrin-harding-choice-1851713724)
- - [Check out your gaming PC&#39;s storage chops with 3DMark&#39;s new DirectStorage benchmark](https://www.pcgamer.com/hardware/ssds/check-out-your-gaming-pcs-storage-chops-with-3dmarks-new-directstorage-benchmark)<!-- GAME:END -->
+ - [Dragon Age: The Veilguard gets a standalone character creator and a new patch for Dragon Age Day](https://www.pcgamer.com/games/rpg/dragon-age-the-veilguard-gets-a-standalone-character-creator-and-a-new-patch-for-dragon-age-day)
+ - [Steam&#39;s background recording feature is the new gold standard of game clipping](https://www.pcgamer.com/games/steams-background-recording-feature-is-the-new-gold-standard-of-game-clipping)
+ - [BioWare Says Old Dragon Age Choices That The Veilguard Ignored May Still Matter In The Future](https://kotaku.com/dragon-age-veilguard-origins-inquisition-choice-import-1851713832)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
