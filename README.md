@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Coinbase Onramp adds Apple Pay for crypto purchases in third-party apps](https://appleinsider.com/articles/24/12/02/coinbase-onboard-adds-apple-pay-for-crypto-purchases-in-third-party-apps?utm_medium=rss)
- - [Today&#39;s NYT Mini Crossword Answers for Wednesday, Dec. 4](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-wednesday-dec-4/#ftag=CAD590a51e)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Dec. 4, #72](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-dec-4-72/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Telegram agrees to work with the IWF to stop the spread of CSAM; IWF calls Telegram&#39;s decision &quot;transformational&quot; and the first step in a &quot;much longer journey&quot; &lpar;Joe Tidy/BBC&rpar;](http://www.techmeme.com/241204/p3#a241204p3)
+ - [Salesforce says online Cyber Monday sales grew 3% YoY to $49.7B globally and just 2% YoY to $12.8B in the US; Adobe says US online sales grew 7.3% YoY to $13.3B &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/241204/p2#a241204p2)
+ - [A look at ex-CEO Pat Gelsinger&#39;s history at Intel, the setbacks he faced in trying to turn the company around, and why investors may have lost confidence in him &lpar;Sean Hollister/The Verge&rpar;](http://www.techmeme.com/241204/p1#a241204p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
