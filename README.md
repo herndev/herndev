@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Rumor has it she\u2019s still trying to pronounce it](http://9gag.com/gag/ae9A7Yv)
- - ⏩ [She must work on a dairy farm\u2026](http://9gag.com/gag/aRBXoqB)
- - 👉 [My fellow Anime enthusiast](http://9gag.com/gag/a34EWv3)<!-- MEMES:END -->
+ - 💣 [Never trust a murderous, paranoid schizophrenic](http://9gag.com/gag/a6ZE2yb)
+ - ⏩ [My fellow Anime enthusiast](http://9gag.com/gag/a34EWv3)
+ - 👉 [Mr jobs why did you die](http://9gag.com/gag/a7oE9Eb)<!-- MEMES:END -->
 
 ---
 
