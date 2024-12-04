@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [In the wake of Salt Typhoon, US officials recommend Americans use encrypted messaging apps to ensure their communications stay hidden from foreign hackers &lpar;Kevin Collier/NBC News&rpar;](http://www.techmeme.com/241204/p9#a241204p9)
- - [Kuo: Apple has delayed the mass production of smart home-focused display-equipped HomePod to after WWDC 2025 or Q3 2025, mainly due to software development &lpar;Ming-Chi Kuo&rpar;](http://www.techmeme.com/241204/p8#a241204p8)
- - [Groupon Promo Code: Get 20% Off This December](https://www.wired.com/story/groupon-promo-code/)<!-- TECH:END -->
+ - [Here’s when the Max password-sharing clampdown starts](https://www.androidauthority.com/max-password-sharing-next-week-3505365/)
+ - [T-Mobile’s new festive deal makes switching over to the carrier cheaper](https://www.androidauthority.com/t-mobile-device-connection-charge-festive-waiver-3505362/)
+ - [Circle of life: ChatGPT could Google-ify its search results with… ads](https://www.androidauthority.com/chatgpt-could-bring-ads-3505356/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
