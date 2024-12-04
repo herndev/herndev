@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [What time does Fortnite OG release?](https://www.polygon.com/fortnite-guide/487214/og-release-time-when-coming-back)
- - [What I learned from the 106 games I played this year](https://www.polygon.com/gaming/490282/what-i-learned-from-2024-video-games)
- - [Civilization VII: First look at PS5 gameplay ahead of February 11 launch](https://blog.playstation.com/2024/12/04/civilization-vii-first-look-at-ps5-gameplay-ahead-of-february-11-launch/)<!-- GAME:END -->
+ - [PlayStation says ‘thanks for making us money, guys’ with its 30th anniversary Partner Awards](https://www.polygon.com/gaming/490546/playstation-partner-awards-2024-hoyoverse-cat)
+ - [What time does Infinity Nikki release?](https://www.polygon.com/infinity-nikki-guides/485803/release-time-preload)
+ - [Got Stalker 2’s Deluxe Edition? Don&#39;t Miss This Amazing SMG](https://kotaku.com/stalker-2-riemann-smg-deluxe-edition-dlc-worth-it-find-1851713004)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
