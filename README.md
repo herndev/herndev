@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Dune: Prophecy’s showrunner wants you to think beyond the hero / villain binary](https://www.theverge.com/2024/12/4/24311132/dune-prophecy-interview-alison-schapker)
- - [Donald Trump picks billionaire Jared Isaacman to lead NASA](https://www.theverge.com/2024/12/4/24313160/donald-trump-nasa-billionaire-jared-isaacman)
- - [Harmony OS Next doesn’t natively support Android apps, but that hasn’t stopped some people](https://www.androidauthority.com/harmony-os-next-android-apps-3505588/)<!-- TECH:END -->
+ - [AT&amp;T’s 5G upgrades promise lower costs, but will those savings reach you?](https://www.androidauthority.com/atnt-analyst-event-report-3505597/)
+ - [Trump picks two nominees who could decide the fate of Big Tech and crypto](https://www.theverge.com/2024/12/4/24313285/trump-sec-doj-antitrust-nominees-paul-atkins-gail-slater)
+ - [Sam Altman lowers the bar for AGI](https://www.theverge.com/2024/12/4/24313130/sam-altman-openai-agi-lower-the-bar)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
