@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This cyclist has been spitting on his car for weeks, until the owner had an idea](http://9gag.com/gag/aNDpjp4)
- - ⏩ [Germoney.](http://9gag.com/gag/a4PEwww)
- - 👉 [Blasting some duckin&#39; sick beats! \ud83e\udd86\ud83d\udca5](http://9gag.com/gag/aYQoRx2)<!-- MEMES:END -->
+ - 💣 [A narco was captured in Mexico](http://9gag.com/gag/agmBxDn)
+ - ⏩ [Merry Xmas](http://9gag.com/gag/a9yE2MZ)
+ - 👉 [Germoney.](http://9gag.com/gag/a4PEwww)<!-- MEMES:END -->
 
 ---
 
