@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Spotify Wrapped 2024 is here with a first-ever personalized AI podcast](https://www.androidauthority.com/spotify-wrapped-2024-3505338/)
- - [M4 MacBook Air to iPhone SE -- What to expect from Apple in early 2025](https://appleinsider.com/articles/24/12/04/m4-macbook-air-to-iphone-se----what-to-expect-from-apple-in-early-2025?utm_medium=rss)
- - [Spotify Wrapped Now Includes an AI-Generated Podcast Analyzing Your Listening Habits](https://www.wired.com/story/spotify-wrapped-ai-podcasts/)<!-- TECH:END -->
+ - [Netflix says Netflix Japan passed 10M+ subscribers in H1 2024 and has doubled its user base in the past four years thanks to Japanese-language programming &lpar;Sam Nussey/Reuters&rpar;](http://www.techmeme.com/241204/p32#a241204p32)
+ - [M5 iPad Pro rumored to arrive sometime in late 2025](https://appleinsider.com/articles/24/12/04/m5-ipad-pro-rumored-to-arrive-sometime-in-late-2025?utm_medium=rss)
+ - [Razer BlackWidow V4 Pro 75% Review: High Tech, High Price](https://www.wired.com/review/razer-blackwidow-v4-pro-75/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
