@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [My fellow Anime enthusiast](http://9gag.com/gag/a34EWv3)
- - ⏩ [What a lovely man. Some men could learn a lot from. Have the utmost respect for the mother of your child](http://9gag.com/gag/apRNbn8)
+ - 💣 [Thank you Oscar!](http://9gag.com/gag/axyMbNn)
+ - ⏩ [Mr jobs why did you die](http://9gag.com/gag/a7oE9Eb)
  - 👉 [Mischief managed](http://9gag.com/gag/awyMdwD)<!-- MEMES:END -->
 
 ---
