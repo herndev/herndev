@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The serious risk posed by a detached Truck&#39;s Tires](http://9gag.com/gag/aGypGLZ)
- - ⏩ [Anakin and Padm\u00e9](http://9gag.com/gag/azxMGZz)
- - 👉 [Thank you Oscar!](http://9gag.com/gag/axyMbNn)<!-- MEMES:END -->
+ - 💣 [A well trained fiance](http://9gag.com/gag/aD2dVyB)
+ - ⏩ [A narco was captured in Mexico](http://9gag.com/gag/agmBxDn)
+ - 👉 [Never trust a murderous, paranoid schizophrenic](http://9gag.com/gag/a6ZE2yb)<!-- MEMES:END -->
 
 ---
 
