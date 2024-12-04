@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [6 hours under martial law in Seoul](https://www.theverge.com/24312920/martial-law-south-korea-yoon-suk-yeol-protest-dispatch)
- - [US hedge fund AQR&#39;s Cliff Asness, who is considered a quant legend, says AI has taken over parts of his job by being &quot;annoyingly better&quot; than him at some tasks &lpar;Justina Lee/Bloomberg&rpar;](http://www.techmeme.com/241204/p12#a241204p12)
- - [Malwarebytes: 77% of ad accounts used for &quot;malvertising&quot; are used just once, and 90% of malicious ads in search results come from Pakistan and Vietnam &lpar;Lily Hay Newman/Wired&rpar;](http://www.techmeme.com/241204/p11#a241204p11)<!-- TECH:END -->
+ - [Apple Arcade’s best exclusive game is finally on console and PC](https://www.theverge.com/24312363/fantasian-xbox-ps5-switch-pc-launch-hironobu-sakaguchi)
+ - [Microsoft closes the door on Windows 11 supporting older hardware](https://www.theverge.com/2024/12/4/24312928/microsoft-windows-11-older-hardware-tpm-support)
+ - [Okta reports Q3 revenue up 14% YoY to $665M, $651M in subscription revenue, above $635M est., and expects Q4 revenue above est.; OKTA jumps 16%+ pre-market &lpar;Ashley Capoot/CNBC&rpar;](http://www.techmeme.com/241204/p16#a241204p16)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
