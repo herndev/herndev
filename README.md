@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Loophole at the blackhole](http://9gag.com/gag/avy5E65)
- - ⏩ [Never trust a murderous, paranoid schizophrenic](http://9gag.com/gag/a6ZE2yb)
- - 👉 [Somebody please tell her](http://9gag.com/gag/a6ZEB0L)<!-- MEMES:END -->
+ - 💣 [A well trained fiance](http://9gag.com/gag/aD2dVyB)
+ - ⏩ [Stacy&#39;s mom has been spending a lot of time in the pool](http://9gag.com/gag/aAybXWE)
+ - 👉 [Stopping time](http://9gag.com/gag/a9yE2YK)<!-- MEMES:END -->
 
 ---
 
