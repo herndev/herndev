@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [More for nothing: Verizon is increasing its frivolous admin fee](https://www.androidauthority.com/verizon-admin-fee-increase-3505347/)
- - [Founders Fund&#39;s Brian Singerman, one of the earliest employees of Peter Thiel&#39;s VC firm and best known for investments in SpaceX and Anduril, steps down as a GP &lpar;Ari Levy/CNBC&rpar;](http://www.techmeme.com/241204/p5#a241204p5)
- - [Meta says AI content made up less than 1% of election-related misinformation on its apps during major elections in the US, the UK, India, Indonesia, and others &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/241204/p4#a241204p4)<!-- TECH:END -->
+ - [In the wake of Salt Typhoon, US officials recommend Americans use encrypted messaging apps to ensure their communications stay hidden from foreign hackers &lpar;Kevin Collier/NBC News&rpar;](http://www.techmeme.com/241204/p9#a241204p9)
+ - [Kuo: Apple has delayed the mass production of smart home-focused display-equipped HomePod to after WWDC 2025 or Q3 2025, mainly due to software development &lpar;Ming-Chi Kuo&rpar;](http://www.techmeme.com/241204/p8#a241204p8)
+ - [Groupon Promo Code: Get 20% Off This December](https://www.wired.com/story/groupon-promo-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
