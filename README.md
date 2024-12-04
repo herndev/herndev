@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Arcade’s best exclusive game is finally on console and PC](https://www.theverge.com/24312363/fantasian-xbox-ps5-switch-pc-launch-hironobu-sakaguchi)
- - [Microsoft closes the door on Windows 11 supporting older hardware](https://www.theverge.com/2024/12/4/24312928/microsoft-windows-11-older-hardware-tpm-support)
- - [Okta reports Q3 revenue up 14% YoY to $665M, $651M in subscription revenue, above $635M est., and expects Q4 revenue above est.; OKTA jumps 16%+ pre-market &lpar;Ashley Capoot/CNBC&rpar;](http://www.techmeme.com/241204/p16#a241204p16)<!-- TECH:END -->
+ - [People living in Rome and cultural leaders criticize Airbnb&#39;s planned Colosseum experience for 32 guests in May 2025, saying it will demean a cultural treasure &lpar;Elisabetta Povoledo/New York Times&rpar;](http://www.techmeme.com/241204/p22#a241204p22)
+ - [Use encrypted apps while US faces hacking threat, says FBI](https://appleinsider.com/articles/24/12/04/use-encrypted-apps-while-us-faces-hacking-threat-says-fbi?utm_medium=rss)
+ - [Vanguard&#39;s Chief Economist Joe Davis warns that the rush into AI stocks in 2024 has overplayed AI&#39;s near-term potential and risks a &quot;correction&quot; in share prices &lpar;Jennifer Hughes/Financial Times&rpar;](http://www.techmeme.com/241204/p21#a241204p21)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
