@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [New Gundam anime from the creators of Evangelion and FLCL announced for 2025](https://www.polygon.com/anime/490581/mobile-suit-gundam-gquuuuuux-anime-trailer-announcement-evangelion-flcl)
- - [Our first &#39;official&#39; look at the new Lenovo Legion Go S shows that, unlike the original, it should be a bona fide mainstream handheld](https://www.pcgamer.com/hardware/handheld-gaming-pcs/our-first-official-look-at-the-new-lenovo-legion-go-s-shows-that-unlike-the-original-it-should-be-a-bona-fide-mainstream-handheld)
- - [Mario was supposed to look wrecked in Brothership, but Nintendo was like nah](https://www.polygon.com/nintendo/490592/rugged-mario-brothership-abandoned-redesign-concept-art)<!-- GAME:END -->
+ - [Comic-Con-alternative CCXP has harnessed a growing phenomenon](https://www.polygon.com/comics/473178/ccxp-is-the-new-comic-con)
+ - [Where to find demons in Fortnite Chapter 6 Season 1](https://www.polygon.com/fortnite-guide/490057/demons-locations-where-to-find)
+ - [Turns out the Arcane creative team always had the go ahead to kill any fan-favourite League of Legends characters it wanted: &#39;Riot embraced whatever story we wanted to tell with any of the characters&#39;](https://www.pcgamer.com/movies-tv/turns-out-the-arcane-creative-team-always-had-the-go-ahead-to-kill-any-fan-favourite-characters-it-wanted-riot-embraced-whatever-story-we-wanted-to-tell-with-any-of-the-characters)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
