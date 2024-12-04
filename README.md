@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Civilization VII: First look at PS5 gameplay ahead of February 11 launch](https://blog.playstation.com/2024/12/04/civilization-vii-first-look-at-ps5-gameplay-ahead-of-february-11-launch/)
- - [Man who lost £500 million bitcoin fortune to bin day is fighting for a chance to find it in court, after more than 10 years in a landfill](https://www.pcgamer.com/hardware/man-who-lost-gbp500-million-bitcoin-fortune-to-bin-day-is-fighting-for-a-chance-to-find-it-in-court-after-more-than-10-years-in-a-landfill)
- - [Hold on to your potatoes because Indiana Jones and the Great Circle&#39;s system requirements demand ray tracing you can&#39;t disable and an RTX 4090 for highest settings](https://www.pcgamer.com/hardware/hold-on-to-your-potatoes-because-indiana-jones-and-the-great-circles-system-requirements-demand-ray-tracing-you-cant-disable-and-an-rtx-4090-for-highest-settings)<!-- GAME:END -->
+ - [What time does Fortnite OG release?](https://www.polygon.com/fortnite-guide/487214/og-release-time-when-coming-back)
+ - [What I learned from the 106 games I played this year](https://www.polygon.com/gaming/490282/what-i-learned-from-2024-video-games)
+ - [Civilization VII: First look at PS5 gameplay ahead of February 11 launch](https://blog.playstation.com/2024/12/04/civilization-vii-first-look-at-ps5-gameplay-ahead-of-february-11-launch/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
