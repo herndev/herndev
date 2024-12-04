@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung may finally let you long press the power button to launch Gemini](https://www.androidauthority.com/samsung-long-press-side-button-gemini-3505663/)
- - [Google DeepMind unveils Genie 2, a model that can generate 3D worlds from a single prompt image, playable by humans or AI agents using keyboard and mouse inputs &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/241204/p46#a241204p46)
- - [Disney Plus hopes a taste of Hulu and ESPN will tempt you to upgrade your plan](https://www.androidauthority.com/disney-plus-espn-hulu-tiles-3505653/)<!-- TECH:END -->
+ - [The big One UI 7 wait may finally be over](https://www.androidauthority.com/one-ui-7-beta-begin-3505683/)
+ - [xAI plans to expand its Colossus supercomputer tenfold to incorporate more than 1M GPUs; work has already begun to increase the size of its facility in Memphis &lpar;Financial Times&rpar;](http://www.techmeme.com/241204/p47#a241204p47)
+ - [OpenAI is partnering with defense tech company Anduril](https://www.theverge.com/2024/12/4/24313486/openai-anduril-partnership-counterdrone-systems)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
