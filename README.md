@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Dangbei Atom Projector review: Big picture, small projector](https://appleinsider.com/articles/24/12/04/dangbei-atom-projector-review-big-picture-small-projector?utm_medium=rss)
- - [It’s no Rewind, but YouTube Trending 2024 is here!](https://www.androidauthority.com/youtube-trending-2024-3505326/)
- - [Ubisoft will shut down its free-to-play shooter XDefiant, with servers remaining on until June 3, 2025, and plans to cut ~277 people from the production team &lpar;Nicole Carpenter/Polygon&rpar;](http://www.techmeme.com/241203/p37#a241203p37)<!-- TECH:END -->
+ - [Coinbase Onramp adds Apple Pay for crypto purchases in third-party apps](https://appleinsider.com/articles/24/12/02/coinbase-onboard-adds-apple-pay-for-crypto-purchases-in-third-party-apps?utm_medium=rss)
+ - [Today&#39;s NYT Mini Crossword Answers for Wednesday, Dec. 4](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-wednesday-dec-4/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Dec. 4, #72](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-dec-4-72/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
