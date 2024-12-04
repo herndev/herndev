@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Best ad ever](http://9gag.com/gag/aYQoRMq)
- - ⏩ [This login interface](http://9gag.com/gag/aPA3rXg)
- - 👉 [This cyclist has been spitting on his car for weeks, until the owner had an idea](http://9gag.com/gag/aNDpjp4)<!-- MEMES:END -->
+ - 💣 [Who put a step in the middle of the road?](http://9gag.com/gag/aNDp4NG)
+ - ⏩ [Never trust a murderous, paranoid schizophrenic](http://9gag.com/gag/a6ZE2yb)
+ - 👉 [May I trim your hedges?](http://9gag.com/gag/aoyMLmn)<!-- MEMES:END -->
 
 ---
 
