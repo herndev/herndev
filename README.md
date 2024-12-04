@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Monster Hunter Wilds is running better in recent console previews, and the game director says the PC version will see &#39;the same level of framerate improvement&#39;](https://www.pcgamer.com/games/rpg/monster-hunter-wilds-is-running-better-in-recent-console-previews-and-the-game-director-says-the-pc-version-will-see-the-same-level-of-framerate-improvement)
- - [December gets even worse as Friday the 13th developer Illfonic lays off employees](https://www.pcgamer.com/gaming-industry/december-gets-even-worse-as-friday-the-13th-developer-illfonic-lays-off-employees)
- - [Oh No, February 2025 Is Stacked With Big Games](https://kotaku.com/february-2025-video-game-releases-monster-hunter-avowed-1851713876)<!-- GAME:END -->
+ - [A Valve engineer fixed 3D lighting so hard he had to tell all the graphics card manufacturers their math was wrong, and the reaction was: &#39;I hate you&#39;](https://www.pcgamer.com/games/fps/a-valve-engineer-fixed-3d-lighting-so-hard-he-had-to-tell-all-the-graphics-card-manufacturers-their-math-was-wrong-and-the-reaction-was-i-hate-you)
+ - [Dragon Age: Veilguard Stats Reveal You Monsters Are Ignoring The Griffon](https://kotaku.com/dragon-age-veilguard-popular-choice-stats-romance-1851713958)
+ - [A newly surfaced Hawkeye deleted scene is a defining moment for the Marvel hero](https://www.polygon.com/news/491092/hawkeye-season-1-deleted-scene-young-clint-barton)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
