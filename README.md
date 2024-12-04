@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Loophole at the blackhole](http://9gag.com/gag/avy5E65)
- - ⏩ [`I don&#39;t even know what I&#39;m doing here`](http://9gag.com/gag/aKG6OwQ)
- - 👉 [Who put a step in the middle of the road?](http://9gag.com/gag/aNDp4NG)<!-- MEMES:END -->
+ - 💣 [Who put a step in the middle of the road?](http://9gag.com/gag/aNDp4NG)
+ - ⏩ [Stacy&#39;s mom has been spending a lot of time in the pool](http://9gag.com/gag/aAybXWE)
+ - 👉 [A well trained fiance](http://9gag.com/gag/aD2dVyB)<!-- MEMES:END -->
 
 ---
 
