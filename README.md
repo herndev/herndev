@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Infinite Aura](http://9gag.com/gag/a0e7Edv)
- - ⏩ [It&#39;s 2003, and these two students didn&#39;t realize they just made a massive hit song.](http://9gag.com/gag/aBy2O4Q)
- - 👉 [Somebody please tell her](http://9gag.com/gag/a6ZEB0L)<!-- MEMES:END -->
+ - 💣 [Rumor has it she\u2019s still trying to pronounce it](http://9gag.com/gag/ae9A7Yv)
+ - ⏩ [She must work on a dairy farm\u2026](http://9gag.com/gag/aRBXoqB)
+ - 👉 [My fellow Anime enthusiast](http://9gag.com/gag/a34EWv3)<!-- MEMES:END -->
 
 ---
 
