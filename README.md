@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Who put a step in the middle of the road?](http://9gag.com/gag/aNDp4NG)
- - ⏩ [Never trust a murderous, paranoid schizophrenic](http://9gag.com/gag/a6ZE2yb)
- - 👉 [May I trim your hedges?](http://9gag.com/gag/aoyMLmn)<!-- MEMES:END -->
+ - 💣 [Can&#39;t imagine the pain of the owner when discovered this...](http://9gag.com/gag/an7QxGB)
+ - ⏩ [A well trained fiance](http://9gag.com/gag/aD2dVyB)
+ - 👉 [You fight like a man, you lose like a man.](http://9gag.com/gag/a2v7OOZ)<!-- MEMES:END -->
 
 ---
 
