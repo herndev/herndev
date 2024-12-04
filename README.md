@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Join the King of Meat – Closed Alpha Dec 4 – Dec 14!](https://news.xbox.com/en-us/2024/12/04/join-the-king-of-meat-closed-alpha-dec-4-dec-14/)
- - [When does Path of Exile 2 release in early access?](https://www.polygon.com/path-exile-2-guide/489913/release-time-date-preload-early-access)
- - [More than 300 game developers lost their jobs in one day, just three weeks before Christmas](https://www.pcgamer.com/gaming-industry/more-than-300-game-developers-lost-their-jobs-in-one-day-just-three-weeks-before-christmas)<!-- GAME:END -->
+ - [I must protect Fortnite’s sprites at all costs](https://www.polygon.com/culture/489541/fortnite-sprite-best-tiktok-clips)
+ - [Dragon Age: The Veilguard Directors Explain Why They Made You Make That Choice At The End](https://kotaku.com/dragon-age-veilguard-bellara-neve-davrin-harding-choice-1851713724)
+ - [Check out your gaming PC&#39;s storage chops with 3DMark&#39;s new DirectStorage benchmark](https://www.pcgamer.com/hardware/ssds/check-out-your-gaming-pcs-storage-chops-with-3dmarks-new-directstorage-benchmark)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
