@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Vodka maker Stoli says an August 2024 ransomware attack contributed to the bankruptcy filing of its US arm, amid its ongoing issues with the Russian government &lpar;Jonathan Greig/The Record&rpar;](http://www.techmeme.com/241203/p33#a241203p33)
- - [Mark Cuban&#39;s War on Drug Prices: &#39;How Much Fucking Money Do I Need?&#39;](https://www.wired.com/story/big-interview-mark-cuban-2024/)
- - [Walmart bought Vizio](https://www.theverge.com/2024/12/3/24312508/walmart-vizio-acquisition-complete)<!-- TECH:END -->
+ - [What a new threat report says about Mac malware in 2024](https://appleinsider.com/articles/24/12/04/what-a-new-threat-report-says-about-mac-malware-in-2024?utm_medium=rss)
+ - [Mira Murati Quit OpenAI. She’s as Optimistic as Ever About AGI](https://www.wired.com/story/big-interview-mira-murati-2024/)
+ - [Bluesky COO Rose Wang rejects the idea the social network is &quot;left-leaning&quot; and says Bluesky plans to launch a subscription service by the end of this year &lpar;Bloomberg&rpar;](http://www.techmeme.com/241203/p35#a241203p35)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
