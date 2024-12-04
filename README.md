@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [This sprawling RPG tries to blend Diablo with Baldur&#39;s Gate with Dark Souls, and does a pretty good job pulling it off](https://www.pcgamer.com/games/rpg/this-sprawling-rpg-tries-to-blend-diablo-with-baldurs-gate-with-dark-souls-and-does-a-pretty-good-job-pulling-it-off)
  - [Ubisoft loses faith in free-to-play CoD competitor XDefiant, will shut it down in 2025: &#39;Many free-to-play games take a long time to find their footing and become profitable&#39;](https://www.pcgamer.com/games/fps/ubisoft-loses-faith-in-free-to-play-cod-competitor-xdefiant-will-shut-it-down-in-2025-many-free-to-play-games-take-a-long-time-to-find-their-footing-and-become-profitable)
- - [Ubisoft Shutting Down Call Of Duty Competitor After Executive Producer Swore It Wasn&#39;t Dying](https://kotaku.com/ubisoft-xdefiant-shut-down-ending-call-of-duty-cod-june-1851712899)
- - [Ubisoft shutting down XDefiant in 2025, laying off half of its team](https://www.polygon.com/gaming/490491/ubsioft-xdefiant-shutting-down)<!-- GAME:END -->
+ - [Ubisoft Shutting Down Call Of Duty Competitor After Executive Producer Swore It Wasn&#39;t Dying](https://kotaku.com/ubisoft-xdefiant-shut-down-ending-call-of-duty-cod-june-1851712899)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
