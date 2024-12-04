@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Watch tracks more health metrics than you realize](https://appleinsider.com/articles/24/12/03/apple-watch-tracks-more-health-metrics-than-you-realize?utm_medium=rss)
- - [Brian Chesky Says Big Things Are Coming for Airbnb in 2025](https://www.wired.com/story/big-interview-airbnb-brian-chesky-2024/)
- - [AWS introduces Amazon Aurora DSQL, a new serverless, distributed SQL database that promises high availability, strong consistency, and PostgreSQL compatibility &lpar;Frederic Lardinois/TechCrunch&rpar;](http://www.techmeme.com/241203/p36#a241203p36)<!-- TECH:END -->
+ - [Dangbei Atom Projector review: Big picture, small projector](https://appleinsider.com/articles/24/12/04/dangbei-atom-projector-review-big-picture-small-projector?utm_medium=rss)
+ - [It’s no Rewind, but YouTube Trending 2024 is here!](https://www.androidauthority.com/youtube-trending-2024-3505326/)
+ - [Ubisoft will shut down its free-to-play shooter XDefiant, with servers remaining on until June 3, 2025, and plans to cut ~277 people from the production team &lpar;Nicole Carpenter/Polygon&rpar;](http://www.techmeme.com/241203/p37#a241203p37)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
