@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [A well trained fiance](http://9gag.com/gag/aD2dVyB)
- - ⏩ [A narco was captured in Mexico](http://9gag.com/gag/agmBxDn)
- - 👉 [Never trust a murderous, paranoid schizophrenic](http://9gag.com/gag/a6ZE2yb)<!-- MEMES:END -->
+ - 💣 [Loophole at the blackhole](http://9gag.com/gag/avy5E65)
+ - ⏩ [Never trust a murderous, paranoid schizophrenic](http://9gag.com/gag/a6ZE2yb)
+ - 👉 [Somebody please tell her](http://9gag.com/gag/a6ZEB0L)<!-- MEMES:END -->
 
 ---
 
