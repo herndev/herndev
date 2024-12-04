@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Fortnite&#39;s drastically diminished Save the World XP rewards is a bug, Epic says](https://www.pcgamer.com/games/battle-royale/fortnites-drastically-diminished-save-the-world-xp-rewards-is-a-bug-epic-says)
- - [PlayStation CEO says ‘preserving the human touch’ is vital as AI proliferates](https://www.polygon.com/ai-artificial-intelligence/490113/playstation-ceo-herman-hulst-human-touch-game-development-ai)
- - [98% of workers at leading wargaming paint manufacturer Acrylicos Vallejo strike](https://www.polygon.com/news/490371/acrylicos-vallejo-strike-hobby-paint-manufacturer)<!-- GAME:END -->
+ - [What time does Marvel Rivals release in your time zone?](https://www.polygon.com/marvel-rivals-guide/485109/release-time-date-est-pst-bst)
+ - [When does Indiana Jones release in early access, and is it on Game Pass?](https://www.polygon.com/indiana-jones-great-circle-guide/486012/release-time-early-access-game-pass)
+ - [The Game Awards&amp;#8217; fan-voted game of the year nominees find room for snubs](https://www.polygon.com/news/490163/game-awards-game-year-fan-vote-players-voice)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
