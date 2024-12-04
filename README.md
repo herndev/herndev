@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Anduril and OpenAI partner to deploy advanced AI systems for national security missions, focusing on &quot;improving the nation&#39;s counter-unmanned aircraft systems&quot; &lpar;Hayden Field/CNBC&rpar;](http://www.techmeme.com/241204/p45#a241204p45)
- - [Apple now lets you sync your passwords with Firefox, but not on Windows](https://www.theverge.com/2024/12/4/24313300/apple-sync-passwords-firefox-not-windows)
- - [Nissan needs a little something extra to connect the Ariya to Tesla’s Superchargers](https://www.theverge.com/2024/12/4/24313313/nissan-ariya-nacs-adapter-plastic-insert-tesla-supercharger)<!-- TECH:END -->
+ - [Samsung may finally let you long press the power button to launch Gemini](https://www.androidauthority.com/samsung-long-press-side-button-gemini-3505663/)
+ - [Google DeepMind unveils Genie 2, a model that can generate 3D worlds from a single prompt image, playable by humans or AI agents using keyboard and mouse inputs &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/241204/p46#a241204p46)
+ - [Disney Plus hopes a taste of Hulu and ESPN will tempt you to upgrade your plan](https://www.androidauthority.com/disney-plus-espn-hulu-tiles-3505653/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
