@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Dragon Age: The Veilguard gets a standalone character creator and a new patch for Dragon Age Day](https://www.pcgamer.com/games/rpg/dragon-age-the-veilguard-gets-a-standalone-character-creator-and-a-new-patch-for-dragon-age-day)
- - [Steam&#39;s background recording feature is the new gold standard of game clipping](https://www.pcgamer.com/games/steams-background-recording-feature-is-the-new-gold-standard-of-game-clipping)
- - [BioWare Says Old Dragon Age Choices That The Veilguard Ignored May Still Matter In The Future](https://kotaku.com/dragon-age-veilguard-origins-inquisition-choice-import-1851713832)<!-- GAME:END -->
+ - [Monster Hunter Wilds is running better in recent console previews, and the game director says the PC version will see &#39;the same level of framerate improvement&#39;](https://www.pcgamer.com/games/rpg/monster-hunter-wilds-is-running-better-in-recent-console-previews-and-the-game-director-says-the-pc-version-will-see-the-same-level-of-framerate-improvement)
+ - [December gets even worse as Friday the 13th developer Illfonic lays off employees](https://www.pcgamer.com/gaming-industry/december-gets-even-worse-as-friday-the-13th-developer-illfonic-lays-off-employees)
+ - [Oh No, February 2025 Is Stacked With Big Games](https://kotaku.com/february-2025-video-game-releases-monster-hunter-avowed-1851713876)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
