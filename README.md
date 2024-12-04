@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [People living in Rome and cultural leaders criticize Airbnb&#39;s planned Colosseum experience for 32 guests in May 2025, saying it will demean a cultural treasure &lpar;Elisabetta Povoledo/New York Times&rpar;](http://www.techmeme.com/241204/p22#a241204p22)
- - [Use encrypted apps while US faces hacking threat, says FBI](https://appleinsider.com/articles/24/12/04/use-encrypted-apps-while-us-faces-hacking-threat-says-fbi?utm_medium=rss)
- - [Vanguard&#39;s Chief Economist Joe Davis warns that the rush into AI stocks in 2024 has overplayed AI&#39;s near-term potential and risks a &quot;correction&quot; in share prices &lpar;Jennifer Hughes/Financial Times&rpar;](http://www.techmeme.com/241204/p21#a241204p21)<!-- TECH:END -->
+ - [Spotify Wrapped 2024 is here with a first-ever personalized AI podcast](https://www.androidauthority.com/spotify-wrapped-2024-3505338/)
+ - [M4 MacBook Air to iPhone SE -- What to expect from Apple in early 2025](https://appleinsider.com/articles/24/12/04/m4-macbook-air-to-iphone-se----what-to-expect-from-apple-in-early-2025?utm_medium=rss)
+ - [Spotify Wrapped Now Includes an AI-Generated Podcast Analyzing Your Listening Habits](https://www.wired.com/story/spotify-wrapped-ai-podcasts/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
