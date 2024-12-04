@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Infinite Aura](http://9gag.com/gag/a0e7Edv)
- - ⏩ [When your dogs decide to challenge your patience](http://9gag.com/gag/aryMxr5)
- - 👉 [South Korea Special Forces rebels easily neutralized by Tai Chi veteran news reporter](http://9gag.com/gag/aD2dXNd)<!-- MEMES:END -->
+ - 💣 [USS Low Ground](http://9gag.com/gag/aO831Br)
+ - ⏩ [Stacy&#39;s mom has been spending a lot of time in the pool](http://9gag.com/gag/aAybXWE)
+ - 👉 [Hey guys, do you know this? South Korea has just declared martial law.](http://9gag.com/gag/ajPmKDw)<!-- MEMES:END -->
 
 ---
 
