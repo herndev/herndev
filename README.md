@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Come back](http://9gag.com/gag/aGypO8z)
- - ⏩ [Fact](http://9gag.com/gag/aPA3Qow)
- - 👉 [Looks like army has revised the requirements to enlist](http://9gag.com/gag/aNDpRdK)<!-- MEMES:END -->
+ - 💣 [Infinite Aura](http://9gag.com/gag/a0e7Edv)
+ - ⏩ [When your dogs decide to challenge your patience](http://9gag.com/gag/aryMxr5)
+ - 👉 [South Korea Special Forces rebels easily neutralized by Tai Chi veteran news reporter](http://9gag.com/gag/aD2dXNd)<!-- MEMES:END -->
 
 ---
 
