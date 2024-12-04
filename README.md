@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Delta Force open beta launch times and release date](https://www.pcgamer.com/games/fps/delta-force-unlock-times-release-date)
- - [Today&#39;s Wordle answer for Wednesday, December 4](https://www.pcgamer.com/games/puzzle/wordle-answer-today-December-4-2024)
- - [This sprawling RPG tries to blend Diablo with Baldur&#39;s Gate with Dark Souls, and does a pretty good job pulling it off](https://www.pcgamer.com/games/rpg/this-sprawling-rpg-tries-to-blend-diablo-with-baldurs-gate-with-dark-souls-and-does-a-pretty-good-job-pulling-it-off)<!-- GAME:END -->
+ - [Red Dead Redemption 2 modded so wagons and horses travel at supersonic speeds—and the results are ludicrous](https://www.pcgamer.com/games/rpg/red-dead-redemption-2-modded-so-wagons-and-horses-travel-at-supersonic-speeds-and-the-results-are-ludicrous)
+ - [Helldivers 2 hits &#39;Overwhelmingly Positive&#39; recent reviews on Steam, losing 2,225 negative reviews and gaining over 29,000 positive ones in the past month](https://www.pcgamer.com/games/third-person-shooter/helldivers-2-hits-overwhelmingly-positive-recent-reviews-on-steam-losing-2-225-negative-reviews-and-gaining-over-29-000-positive-ones-in-the-past-month)
+ - [Fantasian Neo Dimension is remarkable but flawed](https://www.polygon.com/review/489934/fantasian-neo-dimension-review)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
