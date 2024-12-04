@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Here’s when the Max password-sharing clampdown starts](https://www.androidauthority.com/max-password-sharing-next-week-3505365/)
- - [T-Mobile’s new festive deal makes switching over to the carrier cheaper](https://www.androidauthority.com/t-mobile-device-connection-charge-festive-waiver-3505362/)
- - [Circle of life: ChatGPT could Google-ify its search results with… ads](https://www.androidauthority.com/chatgpt-could-bring-ads-3505356/)<!-- TECH:END -->
+ - [6 hours under martial law in Seoul](https://www.theverge.com/24312920/martial-law-south-korea-yoon-suk-yeol-protest-dispatch)
+ - [US hedge fund AQR&#39;s Cliff Asness, who is considered a quant legend, says AI has taken over parts of his job by being &quot;annoyingly better&quot; than him at some tasks &lpar;Justina Lee/Bloomberg&rpar;](http://www.techmeme.com/241204/p12#a241204p12)
+ - [Malwarebytes: 77% of ad accounts used for &quot;malvertising&quot; are used just once, and 90% of malicious ads in search results come from Pakistan and Vietnam &lpar;Lily Hay Newman/Wired&rpar;](http://www.techmeme.com/241204/p11#a241204p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
