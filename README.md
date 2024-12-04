@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Resurrecting a Classic: Raziel Returns to Xbox in Legacy of Kain Soul Reaver 1 &amp; 2 Remastered](https://news.xbox.com/en-us/2024/12/04/legacy-of-kain-soul-reaver-1-2-remastered-xbox/)
- - [Meet The Council](https://www.pcgamer.com/thecouncil)
- - [PlayStation&#39;s Gran Turismo 7 Is Basically Getting A Free Demo Disc](https://kotaku.com/playstations-gran-turismo-7-is-basically-getting-a-free-1851713486)<!-- GAME:END -->
+ - [Join the King of Meat – Closed Alpha Dec 4 – Dec 14!](https://news.xbox.com/en-us/2024/12/04/join-the-king-of-meat-closed-alpha-dec-4-dec-14/)
+ - [When does Path of Exile 2 release in early access?](https://www.polygon.com/path-exile-2-guide/489913/release-time-date-preload-early-access)
+ - [More than 300 game developers lost their jobs in one day, just three weeks before Christmas](https://www.pcgamer.com/gaming-industry/more-than-300-game-developers-lost-their-jobs-in-one-day-just-three-weeks-before-christmas)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
