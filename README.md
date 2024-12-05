@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [&#39;It was only in review builds for leak precautions&#39;: Bethesda squashes rumours that Indiana Jones and the Great Circle has Denuvo DRM](https://www.pcgamer.com/games/action/it-was-only-in-review-builds-for-leak-precautions-bethesda-squashes-rumours-that-indiana-jones-and-the-great-circle-has-denuvo-drm)
- - [PC Gamer magazine&#39;s special new issue is on sale now: Clair Obscur: Expedition 33](https://www.pcgamer.com/gaming-industry/pc-gamer-magazines-special-new-issue-is-on-sale-now-clair-obscur-expedition-33)
- - [Today&#39;s Wordle answer for Thursday, December 5](https://www.pcgamer.com/games/puzzle/wordle-answer-today-december-5-2024)<!-- GAME:END -->
+ - [Star Wars Episode I: Jedi Power Battles reveals new Lightsaber Color Toggle feature](https://blog.playstation.com/2024/12/05/star-wars-episode-i-jedi-power-battles-reveals-new-lightsaber-color-toggle-feature/)
+ - [Tiny indie studio realises someone is selling its free games for $100+ on eBay and is totally stoked: &#39;We&#39;re a real developer now&#39; it declares, adding an &#39;in your face!&#39; to a homebrew convention that rejected them](https://www.pcgamer.com/games/action/tiny-indie-studio-realises-someone-is-selling-its-free-games-for-usd100-on-ebay-and-is-totally-stoked-were-a-real-developer-now-it-declares-adding-an-in-your-face-to-a-homebrew-convention-that-rejected-them)
+ - [&#39;I want to acknowledge that we messed up&#39;: NZXT addresses concerns about its controversial Flex gaming PC rental program and commits to taking action](https://www.pcgamer.com/hardware/gaming-pcs/i-want-to-acknowledge-that-we-messed-up-nzxt-addresses-concerns-about-its-controversial-flex-gaming-pc-rental-program-and-commits-to-taking-action)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
