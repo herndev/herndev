@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle answer for Thursday, December 5](https://www.pcgamer.com/games/puzzle/wordle-answer-today-december-5-2024)
  - [All the Aventura observation quiz answers for Infinity Nikki](https://www.pcgamer.com/games/adventure/infinity-nikki-aventura-observation-quiz-answers)
- - [How to craft the Wishful Aurosa outfit in Infinity Nikki](https://www.pcgamer.com/games/adventure/infinity-nikki-wishful-aurosa-outfit)
- - [How to obtain Calm Thoughts in Infinity Nikki](https://www.pcgamer.com/games/adventure/infinity-nikki-calm-thoughts)<!-- GAME:END -->
+ - [How to craft the Wishful Aurosa outfit in Infinity Nikki](https://www.pcgamer.com/games/adventure/infinity-nikki-wishful-aurosa-outfit)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
