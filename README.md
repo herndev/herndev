@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Xbox Indie Winter Game Fest Demo Event](https://news.xbox.com/en-us/2024/12/05/xbox-indie-winter-game-fest-demo-event/)
- - [Caves of Qud review](https://www.pcgamer.com/games/roguelike/caves-of-qud-review)
- - [Trend Watch: The 5 biggest gaming trends right now](https://www.pcgamer.com/trends)<!-- GAME:END -->
+ - [Minecraft Avatar Rights of Passage DLC is Available Now](https://minecraft.net/article/avatar-rites-of-passage-dlc#new_tab)
+ - [Daredevil: Born Again Timeline Complicates The Post-Netflix MCU](https://kotaku.com/daredevil-born-again-disney-marvel-news-1851714637)
+ - [Hitman’s next elusive target is Jean-Claude Van Damme](https://www.polygon.com/news/491531/hitman-jean-claude-van-damme-elusive-target-dlc)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
