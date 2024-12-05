@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Pauline Grabosch is the biggest asset of the German track cycling team](http://9gag.com/gag/aryM240)
- - ⏩ [Good Man](http://9gag.com/gag/aW4jDVx)
- - 👉 [We miss you Alan](http://9gag.com/gag/apRNjKD)<!-- MEMES:END -->
+ - 💣 [This cyclist has been spitting on his car for weeks, until the owner had an idea](http://9gag.com/gag/aNDpjp4)
+ - ⏩ [Germoney.](http://9gag.com/gag/a4PEwww)
+ - 👉 [UnitedHealthcare CEO Brian Thompson shot dead](http://9gag.com/gag/awyMvdx)<!-- MEMES:END -->
 
 ---
 
