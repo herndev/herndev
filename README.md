@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Rumor roundup: iPhone SE 4 could be a low-priced Apple Intelligence powerhouse](https://appleinsider.com/articles/24/12/05/rumor-roundup-iphone-se-4-could-be-a-low-priced-apple-intelligence-powerhouse?utm_medium=rss)
- - [OpenAI strikes content deal with Tom’s Guide owner Future](https://www.theverge.com/2024/12/5/24313909/openai-content-deal-toms-guide-future)
- - [Chainalysis names co-founder Jonathan Levin as CEO, replacing co-founder Michael Gronager, who took a temporary personal leave of absence in October 2024 &lpar;Connie Loizos/TechCrunch&rpar;](http://www.techmeme.com/241205/p25#a241205p25)<!-- TECH:END -->
+ - [Why investors don’t mind that AI is a money pit](https://www.theverge.com/2024/12/5/24313373/ai-spending-enterprise-profits-investment-menlo-ventures-openai-anthropic-decoder-podcast)
+ - [Waymo’s next robotaxi city will be Miami](https://www.theverge.com/2024/12/5/24313346/waymo-miami-robotaxi-moove-2026)
+ - [Amazon’s Secret Level is a hollow anthology of video game cutscenes](https://www.theverge.com/24313309/secret-level-review-amazon-prime-video)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
