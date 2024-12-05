@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [PUBG’s creator has an ambitious plan for multiple new games](https://www.theverge.com/2024/12/5/24313965/pubg-brendan-playerunknown-greene-new-games-krafton)
- - [US intelligence reports: online terrorist network 764 is using techniques normally used for financial crimes, such as SIM swapping, to commit child sextortion &lpar;CyberScoop&rpar;](http://www.techmeme.com/241205/p41#a241205p41)
- - [Hyundai is not giving up on Android Auto](https://www.androidauthority.com/hyundai-android-auto-3506097/)<!-- TECH:END -->
+ - [Save $100 on the Amazon Echo Frames, get a free Echo Spot](https://www.androidauthority.com/amazon-echor-frames-free-echo-spot-deal-3506128/)
+ - [How to record your calls without breaking the law: A state-by-state guide](https://www.androidauthority.com/how-to-record-calls-without-breaking-law-3505700/)
+ - [Waymo Is Expanding to Miami: Everything to Know About the Growing Robotaxi Service](https://www.cnet.com/roadshow/news/waymo-expands-to-miami-everything-to-know-about-the-growing-robotaxi-service/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
