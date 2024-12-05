@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Good Man](http://9gag.com/gag/aW4jDVx)
- - ⏩ [She must work on a dairy farm\u2026](http://9gag.com/gag/aRBXoqB)
- - 👉 [Who put a step in the middle of the road?](http://9gag.com/gag/aNDp4NG)<!-- MEMES:END -->
+ - 💣 [Title](http://9gag.com/gag/aVv7R1n)
+ - ⏩ [Germoney.](http://9gag.com/gag/a4PEwww)
+ - 👉 [My first Cmas Repost](http://9gag.com/gag/aVv7BQy)<!-- MEMES:END -->
 
 ---
 
