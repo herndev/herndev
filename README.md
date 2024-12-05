@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [At the DealBook Summit, Jeff Bezos said he is &quot;very hopeful&quot; about President-elect Donald Trump and praised his deregulatory agenda, and Elon Musk&#39;s leadership &lpar;New York Times&rpar;](http://www.techmeme.com/241205/p5#a241205p5)
- - [Three members of Google&#39;s NotebookLM team, including its lead Raiza Martin, are leaving to launch a startup focused on building &quot;a user-first AI product&quot; &lpar;Charles Rollet/TechCrunch&rpar;](http://www.techmeme.com/241205/p4#a241205p4)
- - [Nothing’s new home screen widget revives Nokia’s classic Snake game](https://www.androidauthority.com/nothing-snake-game-widget-3505773/)<!-- TECH:END -->
+ - [Enterpret, which lets companies automatically extract insights from customer feedback, raised a $20.8M Series A led by Canaan, bringing its total raised to $25M &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/241205/p6#a241205p6)
+ - [More for nothing: Verizon is increasing its frivolous admin fee &lpar;Update: Confirmed&rpar;](https://www.androidauthority.com/verizon-admin-fee-increase-3505347/)
+ - [At the DealBook Summit, Jeff Bezos said he is &quot;very hopeful&quot; about President-elect Donald Trump and praised his deregulatory agenda, and Elon Musk&#39;s leadership &lpar;New York Times&rpar;](http://www.techmeme.com/241205/p5#a241205p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
