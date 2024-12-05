@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at the logistics network of Amazon, Walmart and Target for same-day or next-day delivery; Walmart says it now offers same-day to 86% of US households &lpar;Jordyn Holman/New York Times&rpar;](http://www.techmeme.com/241205/p21#a241205p21)
- - [The Best Gifts for the Beverage Enthusiast in Your Life &lpar;2024&rpar;](https://www.wired.com/story/best-gifts-for-the-beverage-enthusiast-in-your-life/)
- - [We’re giving Bluesky a shot, and you should too](https://www.androidauthority.com/android-authority-bluesky-3504007/)<!-- TECH:END -->
+ - [One UI 7: Release date, beta rollout, confirmed features and everything else we know](https://www.androidauthority.com/one-ui-7-3429831/)
+ - [Breaking: Samsung begins rolling out Android 15-based One UI 7 beta for Galaxy S24 series](https://www.androidauthority.com/samsung-one-ui-7-beta-galaxy-s24-3500987/)
+ - [In Sam Altman We Trust?](https://www.wired.com/story/uncanny-valley-podcast-5-in-sam-altman-we-trust/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
