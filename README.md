@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Game Over: Xbox Unveils Controllers and Fan Activations for Netflix’s “Squid Game” Season 2](https://news.xbox.com/en-us/2024/12/05/xbox-squid-game-season-2-controllers/)
- - [The current and future Resonance banners in Infinity Nikki](https://www.pcgamer.com/games/adventure/infinity-nikki-current-resonance-banner)
- - [Intel CEO Pat Gelsinger is gone but will Intel&#39;s chip fabs follow him out the door?](https://www.pcgamer.com/hardware/processors/intel-ceo-pat-gelsinger-is-gone-but-will-intels-chip-fabs-follow-him-out-the-door)<!-- GAME:END -->
+ - [Relive the Origins of Battle Royale with Fortnite OG Chapter 1 – Season 1, Starting December 6](https://www.fortnite.com/news/fortnite-og-is-back-and-here-to-stay#new_tab)
+ - [Add Some Personality To Your Pokémon TCG Pocket Experience By Unlocking More Profile Icons](https://kotaku.com/pokemon-tcg-pocket-profile-icons-new-unlock-buy-1851713949)
+ - [Game Over: Xbox Unveils Controllers and Fan Activations for Netflix’s “Squid Game” Season 2](https://news.xbox.com/en-us/2024/12/05/xbox-squid-game-season-2-controllers/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
