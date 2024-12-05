@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [My fellow Anime enthusiast](http://9gag.com/gag/a34EWv3)
- - ⏩ [A well trained fiance](http://9gag.com/gag/aD2dVyB)
- - 👉 [`I don&#39;t even know what I&#39;m doing here`](http://9gag.com/gag/aKG6OwQ)<!-- MEMES:END -->
+ - 💣 [Stacy&#39;s mom has been spending a lot of time in the pool](http://9gag.com/gag/aAybXWE)
+ - ⏩ [Operation friend](http://9gag.com/gag/aD2dPod)
+ - 👉 [Pauline Grabosch is the biggest asset of the German track cycling team](http://9gag.com/gag/aryM240)<!-- MEMES:END -->
 
 ---
 
