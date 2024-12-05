@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [OpenAI is charging $200 a month for an exclusive version of its o1 ‘reasoning’ model](https://www.theverge.com/2024/12/5/24314147/openai-reasoning-model-o1-strawberry-chatgpt-pro-new-tier)
- - [Google could finally fix a major Calendar flaw &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-calendar-reminder-edits-3506043/)
- - [How to watch &#39;A Charlie Brown Christmas&#39; for free in 2024](https://appleinsider.com/inside/apple-tv-plus/tips/how-to-watch-a-charlie-brown-christmas-for-free-in-2024?utm_medium=rss)<!-- TECH:END -->
+ - [Google officially extends update schedules for Pixel 6, Pixel 7, and Pixel Fold](https://www.androidauthority.com/pixel-6-pixel-7-updates-extension-3506089/)
+ - [Bluesky CEO Jay Graber says it is not &quot;necessarily true&quot; that Bluesky will always be ad-free; ads could be &quot;user intent-driven&quot;, like running in search results &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/241205/p36#a241205p36)
+ - [Indiana Jones and the Great Circle’s early access period won’t include full ray tracing](https://www.theverge.com/2024/12/5/24314171/indiana-jones-and-the-great-circle-early-access-full-ray-tracing)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
