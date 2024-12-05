@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Title](http://9gag.com/gag/aVv7R1n)
- - ⏩ [Germoney.](http://9gag.com/gag/a4PEwww)
- - 👉 [My first Cmas Repost](http://9gag.com/gag/aVv7BQy)<!-- MEMES:END -->
+ - 💣 [My fellow Anime enthusiast](http://9gag.com/gag/a34EWv3)
+ - ⏩ [`I don&#39;t even know what I&#39;m doing here`](http://9gag.com/gag/aKG6OwQ)
+ - 👉 [Who put a step in the middle of the road?](http://9gag.com/gag/aNDp4NG)<!-- MEMES:END -->
 
 ---
 
