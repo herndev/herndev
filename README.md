@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The international Galaxy S25 is getting one feature US buyers will miss](https://www.androidauthority.com/galaxy-s25-global-fcc-listings-3505728/)
- - [Jeff Bezos says he’s ‘very optimistic this time around’ about Trump](https://www.theverge.com/2024/12/4/24313549/bezos-trump-optimistic-dealbook-summit-doge)
- - [The NYPD is trying to track a Citi Bike used by the UnitedHealthcare CEO’s killer](https://www.theverge.com/2024/12/4/24313480/lyft-united-health-ceo-shooter-escaped-citi-bike-cooperating-authorities)<!-- TECH:END -->
+ - [Save over $100 on this XGIMI Elfin Flip portable projector deal](https://www.androidauthority.com/xgimi-elfin-flip-portable-projector-deal-3505660/)
+ - [Amazon is rolling out a Buy with AWS button that software companies can add to their websites as a way for customers with AWS accounts to pay for services &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/241204/p49#a241204p49)
+ - [Google Photos finally adds a smarter way to delete cloud backups](https://www.androidauthority.com/google-photos-undo-device-backup-rollout-3505748/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
