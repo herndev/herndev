@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Fantasian Neo Dimension is Out Now – How to Strategize Your Way to Win](https://news.xbox.com/en-us/2024/12/05/fantasian-neo-dimension-is-out-now-how-to-strategize-your-way-to-win/)
- - [Spotify Wrapped Tells Me My Music Habits Are Not Normal](https://kotaku.com/spotify-wrapped-2024-sabrina-carpenter-espresso-streams-1851714545)
- - [How to get the bike in Infinity Nikki](https://www.polygon.com/infinity-nikki-guides/491286/bike-whimcycle-how-to-get-unlock)<!-- GAME:END -->
+ - [Xbox Indie Winter Game Fest Demo Event](https://news.xbox.com/en-us/2024/12/05/xbox-indie-winter-game-fest-demo-event/)
+ - [Caves of Qud review](https://www.pcgamer.com/games/roguelike/caves-of-qud-review)
+ - [Trend Watch: The 5 biggest gaming trends right now](https://www.pcgamer.com/trends)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
