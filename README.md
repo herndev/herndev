@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Why investors don’t mind that AI is a money pit](https://www.theverge.com/2024/12/5/24313373/ai-spending-enterprise-profits-investment-menlo-ventures-openai-anthropic-decoder-podcast)
- - [Waymo’s next robotaxi city will be Miami](https://www.theverge.com/2024/12/5/24313346/waymo-miami-robotaxi-moove-2026)
- - [Amazon’s Secret Level is a hollow anthology of video game cutscenes](https://www.theverge.com/24313309/secret-level-review-amazon-prime-video)<!-- TECH:END -->
+ - [EA adds more tech patents to its accessibility program](https://www.theverge.com/2024/12/5/24314026/ea-electronic-arts-expands-accessibility-pledge-tech-patents)
+ - [Master &amp; Dynamic revived a pair of wired earphones](https://www.theverge.com/2024/12/5/24314000/master-dynamic-headphones-wired-earphones-me05)
+ - [Apple wants faster RAM in the iPhone to help speed up Apple Intelligence](https://appleinsider.com/articles/24/12/05/apple-wants-faster-ram-in-the-iphone-to-help-speed-up-apple-intelligence?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
