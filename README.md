@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Title](http://9gag.com/gag/aVv7R1n)
- - ⏩ [My first Cmas Repost](http://9gag.com/gag/aVv7BQy)
- - 👉 [Germoney.](http://9gag.com/gag/a4PEwww)<!-- MEMES:END -->
+ - 💣 [A baby elephant was rescued after becoming stuck between tree stumps for a day in Zimbabwe](http://9gag.com/gag/axyMR5n)
+ - ⏩ [Your order](http://9gag.com/gag/aNDp326)
+ - 👉 [`Dude, I ain&#39;t fluent in Spanish, so I&#39;m totally lost on why this dude&#39;s flipping his lid.`](http://9gag.com/gag/aGyp2RK)<!-- MEMES:END -->
 
 ---
 
