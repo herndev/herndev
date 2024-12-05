@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A deep dive into Amazon&#39;s Trainium2, which shows the company is on a path to eventually provide competitive custom AI chips, especially for LLM inference &lpar;SemiAnalysis&rpar;](http://www.techmeme.com/241205/p10#a241205p10)
- - [Intel interim co-CEO David Zinsner maintains Intel&#39;s financial forecast and says he expects the next CEO to have some capability around both foundry and product &lpar;Zaheer Kachwala/Reuters&rpar;](http://www.techmeme.com/241205/p9#a241205p9)
- - [At the DealBook Summit, Sundar Pichai said he would love to do a side-by-side comparison of Google and Microsoft&#39;s AI models, and expressed optimism about Trump &lpar;Nico Grant/New York Times&rpar;](http://www.techmeme.com/241205/p8#a241205p8)<!-- TECH:END -->
+ - [OnePlus could launch a more affordable OnePlus Pad, and here’s what to expect](https://www.androidauthority.com/oneplus-pad-go-2-leak-oppo-pad-3-rebrand-3505810/)
+ - [New Pixel 9 feature may use AI to auto-generate to-do lists from calls &lpar;APK Teardown&rpar;](https://www.androidauthority.com/google-phone-pixel-9-call-to-do-list-3505806/)
+ - [A deep dive into Amazon&#39;s Trainium2, which shows the company is on a path to eventually provide competitive custom AI chips, especially for LLM inference &lpar;SemiAnalysis&rpar;](http://www.techmeme.com/241205/p10#a241205p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
