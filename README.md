@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Title](http://9gag.com/gag/aVv7R1n)
+ - 💣 [Good Man](http://9gag.com/gag/aW4jDVx)
  - ⏩ [A baby elephant was rescued after becoming stuck between tree stumps for a day in Zimbabwe](http://9gag.com/gag/axyMR5n)
- - 👉 [Bro regretted taking her](http://9gag.com/gag/aBy2GGZ)<!-- MEMES:END -->
+ - 👉 [Lil Wayne with the police officer, `Uncle Bob,` who saved his life when he was 12 years old.](http://9gag.com/gag/a5QE2GO)<!-- MEMES:END -->
 
 ---
 
