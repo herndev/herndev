@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Save $100 on the Amazon Echo Frames, get a free Echo Spot](https://www.androidauthority.com/amazon-echor-frames-free-echo-spot-deal-3506128/)
- - [How to record your calls without breaking the law: A state-by-state guide](https://www.androidauthority.com/how-to-record-calls-without-breaking-law-3505700/)
- - [Waymo Is Expanding to Miami: Everything to Know About the Growing Robotaxi Service](https://www.cnet.com/roadshow/news/waymo-expands-to-miami-everything-to-know-about-the-growing-robotaxi-service/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Save a massive $235 with this bundle of 13 Mac apps](https://appleinsider.com/articles/24/12/05/save-a-massive-235-with-this-bundle-of-13-mac-apps?utm_medium=rss)
+ - [The PC Gaming Show’s best trailers: creepy aliens, strategic turtles, and desktop platformers](https://www.theverge.com/2024/12/5/24314133/pc-gaming-show-2024-best-trailers)
+ - [Motorola gives a hot cocoa-colored finish to the Razr Plus &lpar;2024&rpar;](https://www.androidauthority.com/motorola-razr-mocha-mousse-color-3506143/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
