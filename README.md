@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Star Wars Episode I: Jedi Power Battles reveals new Lightsaber Color Toggle feature](https://blog.playstation.com/2024/12/05/star-wars-episode-i-jedi-power-battles-reveals-new-lightsaber-color-toggle-feature/)
- - [Tiny indie studio realises someone is selling its free games for $100+ on eBay and is totally stoked: &#39;We&#39;re a real developer now&#39; it declares, adding an &#39;in your face!&#39; to a homebrew convention that rejected them](https://www.pcgamer.com/games/action/tiny-indie-studio-realises-someone-is-selling-its-free-games-for-usd100-on-ebay-and-is-totally-stoked-were-a-real-developer-now-it-declares-adding-an-in-your-face-to-a-homebrew-convention-that-rejected-them)
- - [&#39;I want to acknowledge that we messed up&#39;: NZXT addresses concerns about its controversial Flex gaming PC rental program and commits to taking action](https://www.pcgamer.com/hardware/gaming-pcs/i-want-to-acknowledge-that-we-messed-up-nzxt-addresses-concerns-about-its-controversial-flex-gaming-pc-rental-program-and-commits-to-taking-action)<!-- GAME:END -->
+ - [Game Over: Xbox Unveils Controllers and Fan Activations for Netflix’s “Squid Game” Season 2](https://news.xbox.com/en-us/2024/12/05/xbox-squid-game-season-2-controllers/)
+ - [The current and future Resonance banners in Infinity Nikki](https://www.pcgamer.com/games/adventure/infinity-nikki-current-resonance-banner)
+ - [Intel CEO Pat Gelsinger is gone but will Intel&#39;s chip fabs follow him out the door?](https://www.pcgamer.com/hardware/processors/intel-ceo-pat-gelsinger-is-gone-but-will-intels-chip-fabs-follow-him-out-the-door)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
