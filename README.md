@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This login interface](http://9gag.com/gag/aPA3rXg)
- - ⏩ [Title](http://9gag.com/gag/aVv7R1n)
- - 👉 [Germoney.](http://9gag.com/gag/a4PEwww)<!-- MEMES:END -->
+ - 💣 [Good Man](http://9gag.com/gag/aW4jDVx)
+ - ⏩ [Next level.](http://9gag.com/gag/a34EWY1)
+ - 👉 [Oof](http://9gag.com/gag/apRNb3E)<!-- MEMES:END -->
 
 ---
 
