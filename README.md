@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Axiado, which makes chips and apps to secure data centers, 5G base stations, and more from cyberattacks, raised a $60M Series C led by Maverick Silicon &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/241204/p56#a241204p56)
- - [Suspect in UnitedHealthcare CEO shooting reportedly didn’t use a Citi Bike to escape](https://www.theverge.com/2024/12/4/24313480/lyft-united-health-ceo-shooter-escaped-citi-bike-cooperating-authorities)
- - [Hands-on with Xreal&#39;s One Series smart glasses, powered by its custom-made X1 chip; the $499 One ships from December 9 and the $599 One Pro ships in early 2025 &lpar;Scott Stein/CNET&rpar;](http://www.techmeme.com/241204/p55#a241204p55)<!-- TECH:END -->
+ - [At the DealBook Summit, Jeff Bezos said he is &quot;very hopeful&quot; about President-elect Donald Trump and praised his deregulatory agenda, and Elon Musk&#39;s leadership &lpar;New York Times&rpar;](http://www.techmeme.com/241205/p5#a241205p5)
+ - [Three members of Google&#39;s NotebookLM team, including its lead Raiza Martin, are leaving to launch a startup focused on building &quot;a user-first AI product&quot; &lpar;Charles Rollet/TechCrunch&rpar;](http://www.techmeme.com/241205/p4#a241205p4)
+ - [Nothing’s new home screen widget revives Nokia’s classic Snake game](https://www.androidauthority.com/nothing-snake-game-widget-3505773/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
