@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [A baby elephant was rescued after becoming stuck between tree stumps for a day in Zimbabwe](http://9gag.com/gag/axyMR5n)
- - ⏩ [Your order](http://9gag.com/gag/aNDp326)
- - 👉 [`Dude, I ain&#39;t fluent in Spanish, so I&#39;m totally lost on why this dude&#39;s flipping his lid.`](http://9gag.com/gag/aGyp2RK)<!-- MEMES:END -->
+ - 💣 [My fellow Anime enthusiast](http://9gag.com/gag/a34EWv3)
+ - ⏩ [A well trained fiance](http://9gag.com/gag/aD2dVyB)
+ - 👉 [`I don&#39;t even know what I&#39;m doing here`](http://9gag.com/gag/aKG6OwQ)<!-- MEMES:END -->
 
 ---
 
