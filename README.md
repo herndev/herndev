@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Ice Rink and Winter Wonderland Stadiums Return to Forza Horizon 5](https://forza.net/news/forza-horizon-5-horizon-holiday-mixup#new_tab)
- - [&#39;We would like audiences to wonder what the f**k they did with Pac-Man&#39;: The creators of Secret Level say Bandai Namco encouraged them to do &#39;whatever we want&#39; with the iconic dot-gobbler](https://www.pcgamer.com/movies-tv/we-would-like-audiences-to-wonder-what-the-f-k-they-did-with-pac-man-the-creators-of-secret-level-say-bandai-namco-encouraged-them-to-do-whatever-we-want-with-the-iconic-dot-gobbler)
- - [Terror Camp is a fandom-led, thriller-inspired conference you shouldn’t miss](https://www.polygon.com/culture/491123/terror-camp-conference-sign-up)<!-- GAME:END -->
+ - [All the Aventura observation quiz answers for Infinity Nikki](https://www.pcgamer.com/games/adventure/infinity-nikki-aventura-observation-quiz-answers)
+ - [How to craft the Wishful Aurosa outfit in Infinity Nikki](https://www.pcgamer.com/games/adventure/infinity-nikki-wishful-aurosa-outfit)
+ - [How to obtain Calm Thoughts in Infinity Nikki](https://www.pcgamer.com/games/adventure/infinity-nikki-calm-thoughts)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
