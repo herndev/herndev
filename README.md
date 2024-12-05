@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The latest Gemini Extensions are ready to search Spotify lyrics, make calls for you, and much more](https://www.androidauthority.com/google-gemini-spotify-extension-3505557/)
- - [Call Screen on Pixel devices gets Gemini-powered contextual replies](https://www.androidauthority.com/call-screen-gemini-contextual-replies-3505836/)
- - [Microsoft and Google are fighting over the future of Xbox](https://www.theverge.com/2024/12/5/24313976/microsoft-google-xbox-app-android-future-notepad)<!-- TECH:END -->
+ - [OpenAI is charging $200 a month for an exclusive version of its o1 ‘reasoning’ model](https://www.theverge.com/2024/12/5/24314147/openai-reasoning-model-o1-strawberry-chatgpt-pro-new-tier)
+ - [Google could finally fix a major Calendar flaw &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-calendar-reminder-edits-3506043/)
+ - [How to watch &#39;A Charlie Brown Christmas&#39; for free in 2024](https://appleinsider.com/inside/apple-tv-plus/tips/how-to-watch-a-charlie-brown-christmas-for-free-in-2024?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
