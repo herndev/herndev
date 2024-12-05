@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This cyclist has been spitting on his car for weeks, until the owner had an idea](http://9gag.com/gag/aNDpjp4)
- - ⏩ [It&#39;s 2003, and these two students didn&#39;t realize they just made a massive hit song.](http://9gag.com/gag/aBy2O4Q)
- - 👉 [Does this count?](http://9gag.com/gag/agmBdR1)<!-- MEMES:END -->
+ - 💣 [Does this count?](http://9gag.com/gag/agmBdR1)
+ - ⏩ [Champion](http://9gag.com/gag/azxMDbb)
+ - 👉 [What the lol](http://9gag.com/gag/aW4jD5n)<!-- MEMES:END -->
 
 ---
 
