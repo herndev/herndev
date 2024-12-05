@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Minecraft Avatar Rights of Passage DLC is Available Now](https://minecraft.net/article/avatar-rites-of-passage-dlc#new_tab)
- - [Daredevil: Born Again Timeline Complicates The Post-Netflix MCU](https://kotaku.com/daredevil-born-again-disney-marvel-news-1851714637)
- - [Hitman’s next elusive target is Jean-Claude Van Damme](https://www.polygon.com/news/491531/hitman-jean-claude-van-damme-elusive-target-dlc)<!-- GAME:END -->
+ - [How The Thing: Remastered Remains Faithful To 2002’s The Thing Adaptation](https://news.xbox.com/en-us/2024/12/05/how-the-thing-remastered-remains-faithful-to-2002s-the-thing-adaptation/)
+ - [I’ve half a mind to try Henry Halfhead when it releases in 2025 after seeing its newest trailer](https://www.pcgamer.com/games/puzzle/ive-half-a-mind-to-try-henry-halfhead-when-it-releases-in-2025-after-seeing-its-newest-trailer)
+ - [Craftlings looks to occupy some beautiful place between Terraria and Lemmings](https://www.pcgamer.com/games/city-builder/craftlings-looks-to-occupy-some-beautiful-place-between-terraria-and-lemmings)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
