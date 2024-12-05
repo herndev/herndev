@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Good Man](http://9gag.com/gag/aW4jDVx)
- - ⏩ [Next level.](http://9gag.com/gag/a34EWY1)
- - 👉 [Oof](http://9gag.com/gag/apRNb3E)<!-- MEMES:END -->
+ - ⏩ [She must work on a dairy farm\u2026](http://9gag.com/gag/aRBXoqB)
+ - 👉 [Who put a step in the middle of the road?](http://9gag.com/gag/aNDp4NG)<!-- MEMES:END -->
 
 ---
 
