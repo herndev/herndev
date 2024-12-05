@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google officially extends update schedules for Pixel 6, Pixel 7, and Pixel Fold](https://www.androidauthority.com/pixel-6-pixel-7-updates-extension-3506089/)
- - [Bluesky CEO Jay Graber says it is not &quot;necessarily true&quot; that Bluesky will always be ad-free; ads could be &quot;user intent-driven&quot;, like running in search results &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/241205/p36#a241205p36)
- - [Indiana Jones and the Great Circle’s early access period won’t include full ray tracing](https://www.theverge.com/2024/12/5/24314171/indiana-jones-and-the-great-circle-early-access-full-ray-tracing)<!-- TECH:END -->
+ - [Google Search will now help you escape the echo chamber of personalized results](https://www.androidauthority.com/google-search-try-without-personalization-3506103/)
+ - [Spotify suddenly cut off app developers from a bunch of its data](https://www.theverge.com/2024/12/5/24311523/spotify-locked-down-apis-developers)
+ - [Apple&#39;s display roadmap could lead to OLED iPad mini in 2026](https://appleinsider.com/articles/24/12/05/apples-display-roadmap-could-lead-to-oled-ipad-mini-in-2026?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
