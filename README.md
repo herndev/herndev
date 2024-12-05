@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [My fellow Anime enthusiast](http://9gag.com/gag/a34EWv3)
- - ⏩ [`I don&#39;t even know what I&#39;m doing here`](http://9gag.com/gag/aKG6OwQ)
- - 👉 [Who put a step in the middle of the road?](http://9gag.com/gag/aNDp4NG)<!-- MEMES:END -->
+ - 💣 [Mischief managed](http://9gag.com/gag/awyMdwD)
+ - ⏩ [9gaggers....](http://9gag.com/gag/a34E2XQ)
+ - 👉 [Infinite Aura](http://9gag.com/gag/a0e7Edv)<!-- MEMES:END -->
 
 ---
 
