@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [&#39;It was only in review builds for leak precautions&#39;: Bethesda squashes rumours that Indiana Jones and the Great Circle has Denuvo DRM](https://www.pcgamer.com/games/action/it-was-only-in-review-builds-for-leak-precautions-bethesda-squashes-rumours-that-indiana-jones-and-the-great-circle-has-denuvo-drm)
  - [PC Gamer magazine&#39;s special new issue is on sale now: Clair Obscur: Expedition 33](https://www.pcgamer.com/gaming-industry/pc-gamer-magazines-special-new-issue-is-on-sale-now-clair-obscur-expedition-33)
- - [Today&#39;s Wordle answer for Thursday, December 5](https://www.pcgamer.com/games/puzzle/wordle-answer-today-december-5-2024)
- - [All the Aventura observation quiz answers for Infinity Nikki](https://www.pcgamer.com/games/adventure/infinity-nikki-aventura-observation-quiz-answers)<!-- GAME:END -->
+ - [Today&#39;s Wordle answer for Thursday, December 5](https://www.pcgamer.com/games/puzzle/wordle-answer-today-december-5-2024)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
