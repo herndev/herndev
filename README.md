@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [EA adds more tech patents to its accessibility program](https://www.theverge.com/2024/12/5/24314026/ea-electronic-arts-expands-accessibility-pledge-tech-patents)
- - [Master &amp; Dynamic revived a pair of wired earphones](https://www.theverge.com/2024/12/5/24314000/master-dynamic-headphones-wired-earphones-me05)
- - [Apple wants faster RAM in the iPhone to help speed up Apple Intelligence](https://appleinsider.com/articles/24/12/05/apple-wants-faster-ram-in-the-iphone-to-help-speed-up-apple-intelligence?utm_medium=rss)<!-- TECH:END -->
+ - [The latest Gemini Extensions are ready to search Spotify lyrics, make calls for you, and much more](https://www.androidauthority.com/google-gemini-spotify-extension-3505557/)
+ - [Call Screen on Pixel devices gets Gemini-powered contextual replies](https://www.androidauthority.com/call-screen-gemini-contextual-replies-3505836/)
+ - [Microsoft and Google are fighting over the future of Xbox](https://www.theverge.com/2024/12/5/24313976/microsoft-google-xbox-app-android-future-notepad)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
