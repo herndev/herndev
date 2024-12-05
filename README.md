@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [TikTok Shop says its US sales tripled to over $100M on Black Friday and it drew a 165% annual increase in shoppers on the two days leading up to Cyber Monday &lpar;Alexandra S. Levine/Bloomberg&rpar;](http://www.techmeme.com/241204/p52#a241204p52)
  - [The White House says the Salt Typhoon hack has impacted eight telecom firms in the US, with dozens of other countries also affected, for as long as two years &lpar;Greg Otto/CyberScoop&rpar;](http://www.techmeme.com/241204/p51#a241204p51)
- - [Dockcase MagSafe SSD Enclosure review: Small and nimble storage on the go](https://appleinsider.com/articles/24/12/05/dockcase-magsafe-ssd-enclosure-review-small-and-nimble-storage-on-the-go?utm_medium=rss)
- - [Trump picks Paul Atkins, a former SEC commissioner who is seen as a strong advocate for looser regulation of crypto assets, to succeed Gary Gensler as SEC chair &lpar;New York Times&rpar;](http://www.techmeme.com/241204/p50#a241204p50)<!-- TECH:END -->
+ - [Dockcase MagSafe SSD Enclosure review: Small and nimble storage on the go](https://appleinsider.com/articles/24/12/05/dockcase-magsafe-ssd-enclosure-review-small-and-nimble-storage-on-the-go?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
