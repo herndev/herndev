@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Germoney.](http://9gag.com/gag/a4PEwww)
- - ⏩ [My first Cmas Repost](http://9gag.com/gag/aVv7BQy)
- - 👉 [Dudes rock](http://9gag.com/gag/an7QGQ0)<!-- MEMES:END -->
+ - 💣 [Title](http://9gag.com/gag/aVv7R1n)
+ - ⏩ [A baby elephant was rescued after becoming stuck between tree stumps for a day in Zimbabwe](http://9gag.com/gag/axyMR5n)
+ - 👉 [Bro regretted taking her](http://9gag.com/gag/aBy2GGZ)<!-- MEMES:END -->
 
 ---
 
