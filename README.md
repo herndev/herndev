@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Fire off rounds and roundhouse kicks in cinematic brawler Spine – This is Gun Fu](https://www.pcgamer.com/games/action/fire-off-rounds-and-roundhouse-kicks-in-cinematic-brawler-spine-this-is-gun-fu)
- - [3 Awesome Games We Saw At The PC Gaming &#39;Most Wanted&#39; 2024 Showcase](https://kotaku.com/pc-most-wanted-showcase-tmnt-pubg-open-world-survival-1851714973)
- - [Total Chaos mutates from a Doom mod into one of next summer’s most promising survival horror chillers](https://www.pcgamer.com/games/fps/total-chaos-mutates-from-a-doom-mod-into-one-of-next-summers-most-promising-survival-horror-chillers)<!-- GAME:END -->
+ - [Diablo 4 expansion&#39;s game director refuses to back down on the dungeon you can&#39;t enter unless you do it multiplayer: &#39;I absolutely am sticking to my guns&#39;](https://www.pcgamer.com/games/rpg/diablo-4-expansions-game-director-refuses-to-back-down-on-the-dungeon-you-cant-enter-unless-you-do-it-multiplayer-i-absolutely-am-sticking-to-my-guns)
+ - [Award-winning John Wick-like TTRPG Outgunned partners with Free League](https://www.polygon.com/tabletop-games/491990/outgunned-ttrpg-two-little-mice-free-league)
+ - [&#39;It’s been a little sad to see Haunted Chocolatier getting dusty on the shelf, but this is the reality of my situation,&#39; Eric Barone says: &#39;Stardew Valley is a big and popular game&#39;](https://www.pcgamer.com/games/life-sim/its-been-a-little-sad-to-see-haunted-chocolatier-getting-dusty-on-the-shelf-but-this-is-the-reality-of-my-situation-eric-barone-says-stardew-valley-is-a-big-and-popular-game)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
