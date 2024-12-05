@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This cyclist has been spitting on his car for weeks, until the owner had an idea](http://9gag.com/gag/aNDpjp4)
- - ⏩ [UnitedHealthcare CEO Brian Thompson shot dead](http://9gag.com/gag/awyMvdx)
- - 👉 [Funeral in Ghana](http://9gag.com/gag/aXPo25b)<!-- MEMES:END -->
+ - 💣 [Good Man](http://9gag.com/gag/aW4jDVx)
+ - ⏩ [Your order](http://9gag.com/gag/aNDp326)
+ - 👉 [Does this count?](http://9gag.com/gag/agmBdR1)<!-- MEMES:END -->
 
 ---
 
