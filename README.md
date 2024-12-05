@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Warhorse says Kingdom Come: Deliverance 2 is coming out a week early &#39;so you can start 2025 with the best game there is,&#39; but I feel like there might be another reason](https://www.pcgamer.com/games/rpg/warhorse-says-kingdom-come-deliverance-2-is-coming-out-a-week-early-so-you-can-start-2025-with-the-best-game-there-is-but-i-feel-like-there-might-be-another-reason)
- - [A Valve engineer fixed 3D lighting so hard he had to tell all the graphics card manufacturers their math was wrong, and the reaction was: &#39;I hate you&#39;](https://www.pcgamer.com/games/fps/a-valve-engineer-fixed-3d-lighting-so-hard-he-had-to-tell-all-the-graphics-card-manufacturers-their-math-was-wrong-and-the-reaction-was-i-hate-you)
- - [Dragon Age: Veilguard Stats Reveal You Monsters Are Ignoring The Griffon](https://kotaku.com/dragon-age-veilguard-popular-choice-stats-romance-1851713958)<!-- GAME:END -->
+ - [The Ice Rink and Winter Wonderland Stadiums Return to Forza Horizon 5](https://forza.net/news/forza-horizon-5-horizon-holiday-mixup#new_tab)
+ - [&#39;We would like audiences to wonder what the f**k they did with Pac-Man&#39;: The creators of Secret Level say Bandai Namco encouraged them to do &#39;whatever we want&#39; with the iconic dot-gobbler](https://www.pcgamer.com/movies-tv/we-would-like-audiences-to-wonder-what-the-f-k-they-did-with-pac-man-the-creators-of-secret-level-say-bandai-namco-encouraged-them-to-do-whatever-we-want-with-the-iconic-dot-gobbler)
+ - [Terror Camp is a fandom-led, thriller-inspired conference you shouldn’t miss](https://www.polygon.com/culture/491123/terror-camp-conference-sign-up)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
