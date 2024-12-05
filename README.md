@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Search will now help you escape the echo chamber of personalized results](https://www.androidauthority.com/google-search-try-without-personalization-3506103/)
- - [Spotify suddenly cut off app developers from a bunch of its data](https://www.theverge.com/2024/12/5/24311523/spotify-locked-down-apis-developers)
- - [Apple&#39;s display roadmap could lead to OLED iPad mini in 2026](https://appleinsider.com/articles/24/12/05/apples-display-roadmap-could-lead-to-oled-ipad-mini-in-2026?utm_medium=rss)<!-- TECH:END -->
+ - [PUBG’s creator has an ambitious plan for multiple new games](https://www.theverge.com/2024/12/5/24313965/pubg-brendan-playerunknown-greene-new-games-krafton)
+ - [US intelligence reports: online terrorist network 764 is using techniques normally used for financial crimes, such as SIM swapping, to commit child sextortion &lpar;CyberScoop&rpar;](http://www.techmeme.com/241205/p41#a241205p41)
+ - [Hyundai is not giving up on Android Auto](https://www.androidauthority.com/hyundai-android-auto-3506097/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
