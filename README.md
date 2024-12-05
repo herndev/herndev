@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Relive the Origins of Battle Royale with Fortnite OG Chapter 1 – Season 1, Starting December 6](https://www.fortnite.com/news/fortnite-og-is-back-and-here-to-stay#new_tab)
- - [Add Some Personality To Your Pokémon TCG Pocket Experience By Unlocking More Profile Icons](https://kotaku.com/pokemon-tcg-pocket-profile-icons-new-unlock-buy-1851713949)
- - [Game Over: Xbox Unveils Controllers and Fan Activations for Netflix’s “Squid Game” Season 2](https://news.xbox.com/en-us/2024/12/05/xbox-squid-game-season-2-controllers/)<!-- GAME:END -->
+ - [Minecraft Avatar Rights of Passage DLC is Available Now](https://minecraft.net/article/avatar-rites-of-passage-dlc#new_tab)
+ - [Microsoft says 64 GB is the &#39;ideal spec&#39; for Flight Simulator 2024 but I&#39;ve tested it with 96 GB, and it makes a big difference](https://www.pcgamer.com/hardware/microsoft-says-64-gb-is-the-ideal-spec-for-flight-simulator-2024-but-ive-tested-it-with-96-gb-and-it-makes-a-big-difference)
+ - [Valve&#39;s new &#39;Powered by SteamOS&#39; branding has been unveiled, but it&#39;s more about clawing handhelds away from Windows than it is about new desktop Steam Machines](https://www.pcgamer.com/hardware/handheld-gaming-pcs/valves-new-powered-by-steamos-branding-has-been-unveiled-but-its-more-about-clawing-handhelds-away-from-windows-than-it-is-about-new-desktop-steam-machines)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
