@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [OnePlus could launch a more affordable OnePlus Pad, and here’s what to expect](https://www.androidauthority.com/oneplus-pad-go-2-leak-oppo-pad-3-rebrand-3505810/)
- - [New Pixel 9 feature may use AI to auto-generate to-do lists from calls &lpar;APK Teardown&rpar;](https://www.androidauthority.com/google-phone-pixel-9-call-to-do-list-3505806/)
- - [A deep dive into Amazon&#39;s Trainium2, which shows the company is on a path to eventually provide competitive custom AI chips, especially for LLM inference &lpar;SemiAnalysis&rpar;](http://www.techmeme.com/241205/p10#a241205p10)<!-- TECH:END -->
+ - [Bengaluru-based Swiggy reports Q2 revenue of ~$425M and a $74M loss in its first post-IPO earnings, and expects to post positive core earnings by December 2025 &lpar;Reuters&rpar;](http://www.techmeme.com/241205/p14#a241205p14)
+ - [Q&amp;A with Anthropic CEO Dario Amodei on his &quot;Machines of Loving Grace&quot; essay, AI industry concentration, why democracies must maintain the lead in AI, and more &lpar;Madhumita Murgia/Financial Times&rpar;](http://www.techmeme.com/241205/p13#a241205p13)
+ - [Save $45 on This Excellent Pet Grooming Kit and Vacuum With This Late Cyber Monday Deal](https://www.cnet.com/deals/save-45-on-this-excellent-pet-grooming-kit-and-vacuum-with-this-late-cyber-monday-deal/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
