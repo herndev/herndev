@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How The Thing: Remastered Remains Faithful To 2002’s The Thing Adaptation](https://news.xbox.com/en-us/2024/12/05/how-the-thing-remastered-remains-faithful-to-2002s-the-thing-adaptation/)
- - [I’ve half a mind to try Henry Halfhead when it releases in 2025 after seeing its newest trailer](https://www.pcgamer.com/games/puzzle/ive-half-a-mind-to-try-henry-halfhead-when-it-releases-in-2025-after-seeing-its-newest-trailer)
- - [Craftlings looks to occupy some beautiful place between Terraria and Lemmings](https://www.pcgamer.com/games/city-builder/craftlings-looks-to-occupy-some-beautiful-place-between-terraria-and-lemmings)<!-- GAME:END -->
+ - [Blizzard teases Avatar: The Last Airbender crossover for Overwatch 2](https://www.polygon.com/news/491771/overwatch-2-avatar-last-airbender-crosssover-season-14)
+ - [Deepest Fear is underwater &#39;immersive sim horror&#39; where enemies hide in every drop of water](https://www.pcgamer.com/games/horror/deepest-fear-is-underwater-immersive-sim-horror-where-enemies-hide-in-every-drop-of-water)
+ - [Robots at Midnight is a futuristic take on soulslikes where a bunch of murderous automatons are threatening to kill you](https://www.pcgamer.com/games/action/robots-at-midnight-is-a-futuristic-take-on-soulslikes-where-a-bunch-of-murderous-automatons-are-threatening-to-kill-you)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
