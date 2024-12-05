@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Warhorse says Kingdom Come: Deliverance 2 is coming out a week early &#39;so you can start 2025 with the best game there is,&#39; but I feel like there might be another reason](https://www.pcgamer.com/games/rpg/warhorse-says-kingdom-come-deliverance-2-is-coming-out-a-week-early-so-you-can-start-2025-with-the-best-game-there-is-but-i-feel-like-there-might-be-another-reason)
  - [A Valve engineer fixed 3D lighting so hard he had to tell all the graphics card manufacturers their math was wrong, and the reaction was: &#39;I hate you&#39;](https://www.pcgamer.com/games/fps/a-valve-engineer-fixed-3d-lighting-so-hard-he-had-to-tell-all-the-graphics-card-manufacturers-their-math-was-wrong-and-the-reaction-was-i-hate-you)
- - [Dragon Age: Veilguard Stats Reveal You Monsters Are Ignoring The Griffon](https://kotaku.com/dragon-age-veilguard-popular-choice-stats-romance-1851713958)
- - [A newly surfaced Hawkeye deleted scene is a defining moment for the Marvel hero](https://www.polygon.com/news/491092/hawkeye-season-1-deleted-scene-young-clint-barton)<!-- GAME:END -->
+ - [Dragon Age: Veilguard Stats Reveal You Monsters Are Ignoring The Griffon](https://kotaku.com/dragon-age-veilguard-popular-choice-stats-romance-1851713958)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
