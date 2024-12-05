@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Mischief managed](http://9gag.com/gag/awyMdwD)
- - ⏩ [9gaggers....](http://9gag.com/gag/a34E2XQ)
- - 👉 [Infinite Aura](http://9gag.com/gag/a0e7Edv)<!-- MEMES:END -->
+ - 💣 [Title](http://9gag.com/gag/aVv7R1n)
+ - ⏩ [My first Cmas Repost](http://9gag.com/gag/aVv7BQy)
+ - 👉 [Germoney.](http://9gag.com/gag/a4PEwww)<!-- MEMES:END -->
 
 ---
 
