@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Vodafone and Three can now merge to become the UK’s biggest mobile operator](https://www.theverge.com/2024/12/5/24313871/vodafone-three-mobile-network-merger-uk-antitrust-approval)
- - [How subsea internet cables off West Africa fell into a nearly 3,000-foot canyon in March 2024, causing major disruptions, and a look at efforts to repair them &lpar;New York Times&rpar;](http://www.techmeme.com/241205/p18#a241205p18)
- - [London-based Lawhive, whose AI-based SaaS tools let small, &quot;Main Street&quot; law firms automate legal tasks, raised a $40M Series A co-led by GV and TQ Ventures &lpar;Mike Butcher/TechCrunch&rpar;](http://www.techmeme.com/241205/p17#a241205p17)<!-- TECH:END -->
+ - [A look at the logistics network of Amazon, Walmart and Target for same-day or next-day delivery; Walmart says it now offers same-day to 86% of US households &lpar;Jordyn Holman/New York Times&rpar;](http://www.techmeme.com/241205/p21#a241205p21)
+ - [The Best Gifts for the Beverage Enthusiast in Your Life &lpar;2024&rpar;](https://www.wired.com/story/best-gifts-for-the-beverage-enthusiast-in-your-life/)
+ - [We’re giving Bluesky a shot, and you should too](https://www.androidauthority.com/android-authority-bluesky-3504007/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
