@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Bengaluru-based Swiggy reports Q2 revenue of ~$425M and a $74M loss in its first post-IPO earnings, and expects to post positive core earnings by December 2025 &lpar;Reuters&rpar;](http://www.techmeme.com/241205/p14#a241205p14)
- - [Q&amp;A with Anthropic CEO Dario Amodei on his &quot;Machines of Loving Grace&quot; essay, AI industry concentration, why democracies must maintain the lead in AI, and more &lpar;Madhumita Murgia/Financial Times&rpar;](http://www.techmeme.com/241205/p13#a241205p13)
- - [Save $45 on This Excellent Pet Grooming Kit and Vacuum With This Late Cyber Monday Deal](https://www.cnet.com/deals/save-45-on-this-excellent-pet-grooming-kit-and-vacuum-with-this-late-cyber-monday-deal/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Vodafone and Three can now merge to become the UK’s biggest mobile operator](https://www.theverge.com/2024/12/5/24313871/vodafone-three-mobile-network-merger-uk-antitrust-approval)
+ - [How subsea internet cables off West Africa fell into a nearly 3,000-foot canyon in March 2024, causing major disruptions, and a look at efforts to repair them &lpar;New York Times&rpar;](http://www.techmeme.com/241205/p18#a241205p18)
+ - [London-based Lawhive, whose AI-based SaaS tools let small, &quot;Main Street&quot; law firms automate legal tasks, raised a $40M Series A co-led by GV and TQ Ventures &lpar;Mike Butcher/TechCrunch&rpar;](http://www.techmeme.com/241205/p17#a241205p17)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
