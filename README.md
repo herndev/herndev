@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [She really had the time to pose for a photo while in a wrestling match](http://9gag.com/gag/apRNje8)
- - ⏩ [We miss you Alan](http://9gag.com/gag/apRNjKD)
- - 👉 [Champion](http://9gag.com/gag/azxMDbb)<!-- MEMES:END -->
+ - 💣 [The size of this salmon](http://9gag.com/gag/aAybm3d)
+ - ⏩ [Your order](http://9gag.com/gag/aNDp326)
+ - 👉 [Headline](http://9gag.com/gag/ayNMPoW)<!-- MEMES:END -->
 
 ---
 
