@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Concord episode of Secret Level is like a message from a ghost whose unfinished business is creating a global multimedia franchise](https://www.pcgamer.com/movies-tv/the-concord-episode-of-secret-level-is-like-a-message-from-a-ghost-whose-unfinished-business-is-creating-a-global-multimedia-franchise)
- - [Secret Level review: our take on every episode of Amazon&#39;s videogame anthology show](https://www.pcgamer.com/movies-tv/secret-level-review-our-take-on-every-episode-of-amazons-videogame-anthology-show)
- - [League of Legends trading card game will bring teamfights to the real world](https://www.polygon.com/news/490418/league-legends-card-game-tcg-riot-games-project-k)<!-- GAME:END -->
+ - [Delta Force is a decent Battlefield clone, but its monetization is like gazing into a bottomless void from which no light can escape](https://www.pcgamer.com/games/fps/delta-force-is-a-decent-battlefield-clone-but-its-monetization-is-like-gazing-into-a-bottomless-void-from-which-no-light-can-escape)
+ - [Marvel Rivals just launched and already has more than 400,000 players](https://www.pcgamer.com/games/third-person-shooter/marvel-rivals-just-launched-and-already-has-more-than-400-000-players)
+ - [The Concord episode of Secret Level is like a message from a ghost whose unfinished business is creating a global multimedia franchise](https://www.pcgamer.com/movies-tv/the-concord-episode-of-secret-level-is-like-a-message-from-a-ghost-whose-unfinished-business-is-creating-a-global-multimedia-franchise)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
