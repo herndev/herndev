@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Your order](http://9gag.com/gag/aNDp326)
- - ⏩ [We miss you Alan](http://9gag.com/gag/apRNjKD)
- - 👉 [Notice the women didn&#39;t pop are also the prettiest](http://9gag.com/gag/aZZ0dG9)<!-- MEMES:END -->
+ - 💣 [After removing kidney and tumor 6hrs ago. tomorrow menu is kidneypudding. Fck you and see you tomorrow a++holes.](http://9gag.com/gag/aO83NW6)
+ - ⏩ [The absoulte state of the internet right now.](http://9gag.com/gag/ajPm3Rg)
+ - 👉 [New York citizens right now](http://9gag.com/gag/aMVK0QP)<!-- MEMES:END -->
 
 ---
 
