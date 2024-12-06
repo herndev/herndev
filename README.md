@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Best ad ever](http://9gag.com/gag/aYQoRMq)
- - ⏩ [Mexican Atreyu and Artax, is that u?](http://9gag.com/gag/aKG6LVW)
- - 👉 [Eye check](http://9gag.com/gag/awyMe6W)<!-- MEMES:END -->
+ - 💣 [She really had the time to pose for a photo while in a wrestling match](http://9gag.com/gag/apRNje8)
+ - ⏩ [We miss you Alan](http://9gag.com/gag/apRNjKD)
+ - 👉 [Champion](http://9gag.com/gag/azxMDbb)<!-- MEMES:END -->
 
 ---
 
