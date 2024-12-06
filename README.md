@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle answer for Friday, December 6](https://www.pcgamer.com/games/puzzle/wordle-answer-today-december-6-2024)
  - [Riot Games announced a physical card game and fans of its digital card game, Legends of Runeterra, aren&#39;t happy about it](https://www.pcgamer.com/games/card-games/riot-games-announced-a-physical-card-game-and-fans-of-its-digital-card-game-legends-of-runeterra-arent-happy-about-it)
- - [Delta Force is a decent Battlefield clone, but its monetization is like gazing into a bottomless void from which no light can escape](https://www.pcgamer.com/games/fps/delta-force-is-a-decent-battlefield-clone-but-its-monetization-is-like-gazing-into-a-bottomless-void-from-which-no-light-can-escape)
- - [Marvel Rivals just launched and already has more than 400,000 players](https://www.pcgamer.com/games/third-person-shooter/marvel-rivals-just-launched-and-already-has-more-than-400-000-players)<!-- GAME:END -->
+ - [Delta Force is a decent Battlefield clone, but its monetization is like gazing into a bottomless void from which no light can escape](https://www.pcgamer.com/games/fps/delta-force-is-a-decent-battlefield-clone-but-its-monetization-is-like-gazing-into-a-bottomless-void-from-which-no-light-can-escape)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
