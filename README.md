@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Grand Theft Auto 6&#39;s First Trailer, A Year Later](https://kotaku.com/gta-6-grand-theft-auto-vi-first-trailer-2-a-year-later-1851714995)
- - [&#39;Progression is awful, this is not a mobile game&#39;: The Marvel Rivals challenge-based battle pass has players begging for but an ounce of post-match XP](https://www.pcgamer.com/games/third-person-shooter/progression-is-awful-this-is-not-a-mobile-game-the-marvel-rivals-challenge-based-battle-pass-has-players-begging-for-but-an-ounce-of-post-match-xp)
- - [Suicide Squad Fans Get Hyped For Deathstroke As They Wait For MIA Offline Mode](https://kotaku.com/suicide-squad-offline-mode-deathstroke-season-4-1851715898)<!-- GAME:END -->
+ - [All Strange Inscription photo locations in Indiana Jones and the Great Circle](https://www.polygon.com/indiana-jones-great-circle-guide/492394/strange-inscriptions-photo-locations-vatican)
+ - [Where to find the Belvedere Courtyard chest code in Indiana Jones and the Great Circle](https://www.polygon.com/indiana-jones-great-circle-guide/492305/belvedere-courtyard-chest-code-combination-location)
+ - [How to solve the ‘Bulls of Blood’ puzzle in Indiana Jones and the Great Circle](https://www.polygon.com/indiana-jones-great-circle-guide/492189/bulls-of-blood-castel-santangelo)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
