@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Preem: This face-changing LED mask looks like it&#39;s been teleported straight from Night City, and it does a decent Doom Marine too](https://www.pcgamer.com/hardware/preem-this-face-changing-led-mask-looks-like-its-been-teleported-straight-from-night-city-and-it-does-a-decent-doom-marine-too)
- - [Dragon Age: The Veilguard&#39;s devs say they&#39;ll totally make choices from the past games matter next time, though I&#39;ll believe it when I see it](https://www.pcgamer.com/games/dragon-age/dragon-age-the-veilguards-devs-say-theyll-totally-make-choices-from-the-past-games-matter-next-time-though-ill-believe-it-when-i-see-it)
- - [Finally, The Witcher 3’s Gwent will be playable in real life](https://www.polygon.com/news/491425/the-witcher-3-gwent-physical-version-announcement-release-date-price)<!-- GAME:END -->
+ - [The secret sauce behind Creature Commandos’ Bride was Harley Quinn](https://www.polygon.com/dc/491080/creature-commandos-bride-of-frankenstein-harley-quinn)
+ - [When Path of Exile 2 early access ends, Grinding Gear Games won&#39;t be murdering your beloved characters](https://www.pcgamer.com/games/rpg/when-path-of-exile-2-early-access-ends-grinding-gear-games-wont-be-murdering-your-beloved-characters)
+ - [Marvel Rivals tier list: The best characters in each role](https://www.pcgamer.com/games/third-person-shooter/marvel-rivals-tier-list-best-characters)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
