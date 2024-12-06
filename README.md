@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [13 Deals on WIRED-Approved Gear at Walmart](https://www.wired.com/story/weekend-deals-december-7-2024/)
- - [T-Mobile is introducing ‘revamped’ 5G Home Internet plans](https://www.theverge.com/2024/12/6/24314956/t-mobile-5g-home-internet-plans-rely-amplified-all-in)
- - [Apple’s custom modems could put 5G in Macs and Vision Pro](https://www.theverge.com/2024/12/6/24315099/apple-custom-modems-5g-macs-vision-pro)<!-- TECH:END -->
+ - [Deal: Get an Xbox Series X for just $399.99](https://www.androidauthority.com/xbox-series-x-deal-2-3506624/)
+ - [Ahead of Verizon Message shutdown, Google releases guide for former Verizon Message Plus users](https://www.androidauthority.com/verizon-messages-google-messages-transition-3506497/)
+ - [What Arm’s CEO makes of the Intel debacle](https://www.theverge.com/2024/12/6/24315123/arm-ceo-rene-haas-intel-ai-chips-samsung-changes)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
