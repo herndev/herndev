@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Notice the women didn&#39;t pop are also the prettiest](http://9gag.com/gag/aZZ0dG9)
- - ⏩ [We miss you Alan](http://9gag.com/gag/apRNjKD)
- - 👉 [Does this count?](http://9gag.com/gag/agmBdR1)<!-- MEMES:END -->
+ - 💣 [She really had the time to pose for a photo while in a wrestling match](http://9gag.com/gag/apRNje8)
+ - ⏩ [Champion](http://9gag.com/gag/azxMDbb)
+ - 👉 [Notice the women didn&#39;t pop are also the prettiest](http://9gag.com/gag/aZZ0dG9)<!-- MEMES:END -->
 
 ---
 
