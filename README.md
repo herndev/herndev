@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [US rep asks Valve to remove ‘Oct. 7’ game from Steam](https://www.polygon.com/gaming/492245/fursan-al-aqsa-steam-game-removal-ritchie-torres)
- - [11 Things To Know Before Starting Marvel Rivals](https://kotaku.com/marvel-rivals-tips-team-up-currency-battle-pass-heroes-1851715661)
- - [Where to find the Abandoned Fanatic Wisher Camp hidden cavern in Infinity Nikki](https://www.polygon.com/infinity-nikki-guides/492207/hidden-cavern-abandoned-fanatic-wisher-camp-wishfield-journal-azure-secret-location)<!-- GAME:END -->
+ - [How to watch The Game Awards 2024](https://www.polygon.com/events/479292/game-awards-2024-start-time-nominees)
+ - [When does Fortnite OG Season 1 end and Chapter 1 Season 2 arrive?](https://www.polygon.com/fortnite-guide/492214/og-schedule-how-long-season-end)
+ - [For the King II Comes to Xbox Game Pass on December 12](https://news.xbox.com/en-us/2024/12/06/for-the-king-ii-comes-to-xbox-game-pass-on-december-12/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
