@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Pixel 9a rumors: Release date, leaked features, rumored price, and more](https://www.androidauthority.com/google-pixel-9a-3479179/)
- - [Industry insiders believe Pat Gelsinger&#39;s hasty exit could be a prelude to Intel moving away from manufacturing its chips altogether, in a blow to US ambitions &lpar;Financial Times&rpar;](http://www.techmeme.com/241206/p7#a241206p7)
- - [ChatGPT’s latest Pro plan will cost you a whopping $200 per month](https://www.androidauthority.com/chatgpt-pro-now-available-3506267/)<!-- TECH:END -->
+ - [Google Photos is getting its own version of Spotify Wrapped](https://www.androidauthority.com/google-photos-2024-recap-3506222/)
+ - [FEC filing: Elon Musk poured at least $274M into US political groups in 2024, including $238.5M for his America PAC, making him the biggest US political donor &lpar;Bill Allison/Bloomberg&rpar;](http://www.techmeme.com/241206/p8#a241206p8)
+ - [Twelve South Discounts Essential Tech Gift Bundles by Up to $45 Just in Time for Christmas](https://www.cnet.com/deals/twelve-south-discounts-essential-tech-gift-bundles-by-up-to-45-just-in-time-for-christmas/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
