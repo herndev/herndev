@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [World\u2019s fastest drag racer hits 580kmph &lpar;360mph&rpar; in just 3 seconds](http://9gag.com/gag/apRNzAW)
- - ⏩ [Subsonic Ammo with silencers makes guns extremely quiet](http://9gag.com/gag/aQzoBNe)
- - 👉 [Is this a guide or something..?](http://9gag.com/gag/a7oEBvb)<!-- MEMES:END -->
+ - 💣 [Yeah bud copyright your shitty wannabe meme I&#39;m sure it will go viral](http://9gag.com/gag/aNDp850)
+ - ⏩ [A breeding bull entering the farm full of cows](http://9gag.com/gag/aPA3zdB)
+ - 👉 [Captain, is this true? Expert opinion please!](http://9gag.com/gag/aMVKWBx)<!-- MEMES:END -->
 
 ---
 
