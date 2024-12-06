@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Notice the women didn&#39;t pop are also the prettiest](http://9gag.com/gag/aZZ0dG9)
- - ⏩ [Subsonic Ammo with silencers makes guns extremely quiet](http://9gag.com/gag/aQzoBNe)
- - 👉 [Nothing, ungrateful sons of b*tches. Not even a coffee cup](http://9gag.com/gag/aKG6LKb)<!-- MEMES:END -->
+ - 💣 [Found the hoodie guy!](http://9gag.com/gag/aGyprz0)
+ - ⏩ [The absoulte state of the internet right now.](http://9gag.com/gag/ajPm3Rg)
+ - 👉 [Subsonic Ammo with silencers makes guns extremely quiet](http://9gag.com/gag/aQzoBNe)<!-- MEMES:END -->
 
 ---
 
