@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [After removing kidney and tumor 6hrs ago. tomorrow menu is kidneypudding. Fck you and see you tomorrow a++holes.](http://9gag.com/gag/aO83NW6)
- - ⏩ [The absoulte state of the internet right now.](http://9gag.com/gag/ajPm3Rg)
- - 👉 [New York citizens right now](http://9gag.com/gag/aMVK0QP)<!-- MEMES:END -->
+ - 💣 [Notice the women didn&#39;t pop are also the prettiest](http://9gag.com/gag/aZZ0dG9)
+ - ⏩ [Subsonic Ammo with silencers makes guns extremely quiet](http://9gag.com/gag/aQzoBNe)
+ - 👉 [Nothing, ungrateful sons of b*tches. Not even a coffee cup](http://9gag.com/gag/aKG6LKb)<!-- MEMES:END -->
 
 ---
 
