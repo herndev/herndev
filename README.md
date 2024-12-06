@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The size of this salmon](http://9gag.com/gag/aAybm3d)
- - ⏩ [Your order](http://9gag.com/gag/aNDp326)
- - 👉 [Headline](http://9gag.com/gag/ayNMPoW)<!-- MEMES:END -->
+ - 💣 [Notice the women didn&#39;t pop are also the prettiest](http://9gag.com/gag/aZZ0dG9)
+ - ⏩ [We miss you Alan](http://9gag.com/gag/apRNjKD)
+ - 👉 [Does this count?](http://9gag.com/gag/agmBdR1)<!-- MEMES:END -->
 
 ---
 
