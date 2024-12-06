@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Save a massive $235 with this bundle of 13 Mac apps](https://appleinsider.com/articles/24/12/05/save-a-massive-235-with-this-bundle-of-13-mac-apps?utm_medium=rss)
- - [The PC Gaming Show’s best trailers: creepy aliens, strategic turtles, and desktop platformers](https://www.theverge.com/2024/12/5/24314133/pc-gaming-show-2024-best-trailers)
- - [Motorola gives a hot cocoa-colored finish to the Razr Plus &lpar;2024&rpar;](https://www.androidauthority.com/motorola-razr-mocha-mousse-color-3506143/)<!-- TECH:END -->
+ - [Today’s hottest smartphone deals: Galaxy S24 Ultra, Pixel 9, and Motorola Razr Plus 2024](https://www.androidauthority.com/samsung-galaxy-s24-ultra-motorola-razr-plus-2024-deals-3506127/)
+ - [Google will support the Pixel 6, 7, and Fold with two extra years of OS updates](https://www.theverge.com/2024/12/5/24314389/google-pixel-6-7-fold-update-schedule-android-16-17)
+ - [iOS 18.2 is nearing its public release and it&#39;s packed with AI features](https://appleinsider.com/articles/24/12/05/ios-182-is-nearing-its-public-release-and-its-packed-with-ai-features?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
