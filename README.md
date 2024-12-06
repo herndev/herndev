@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This cyclist has been spitting on his car for weeks, until the owner had an idea](http://9gag.com/gag/aNDpjp4)
- - ⏩ [Good Man](http://9gag.com/gag/aW4jDVx)
- - 👉 [Does this count?](http://9gag.com/gag/agmBdR1)<!-- MEMES:END -->
+ - 💣 [Does this count?](http://9gag.com/gag/agmBdR1)
+ - ⏩ [When a nation gets its shit together](http://9gag.com/gag/a1mrxWv)
+ - 👉 [Big hair time](http://9gag.com/gag/aRBXR5G)<!-- MEMES:END -->
 
 ---
 
