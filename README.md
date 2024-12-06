@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nothing Gallery app leaks ahead of launch, and we installed it for a good look](https://www.androidauthority.com/nothing-gallery-app-beta-hands-on-3506246/)
- - [Changing units is a joke in Pixel Weather app, but that could change &lpar;APK teardown&rpar;](https://www.androidauthority.com/pixel-weather-app-measurements-units-apk-teardown-3506241/)
- - [Thank you, Google: Pixel Camera app regains on-screen brightness, WB, and shadow controls](https://www.androidauthority.com/pixel-camera-9-7-quick-access-controls-3506245/)<!-- TECH:END -->
+ - [Google Pixel 9a rumors: Release date, leaked features, rumored price, and more](https://www.androidauthority.com/google-pixel-9a-3479179/)
+ - [Industry insiders believe Pat Gelsinger&#39;s hasty exit could be a prelude to Intel moving away from manufacturing its chips altogether, in a blow to US ambitions &lpar;Financial Times&rpar;](http://www.techmeme.com/241206/p7#a241206p7)
+ - [ChatGPT’s latest Pro plan will cost you a whopping $200 per month](https://www.androidauthority.com/chatgpt-pro-now-available-3506267/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
