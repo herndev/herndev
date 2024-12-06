@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [We miss you Alan](http://9gag.com/gag/apRNjKD)
- - ⏩ [Well.. that&#39;s embarrassing](http://9gag.com/gag/aE0pQ2o)
- - 👉 [Definitely setting a good foundation for a marriage](http://9gag.com/gag/aKG6nNQ)<!-- MEMES:END -->
+ - 💣 [Yeah bud copyright your shitty wannabe meme I&#39;m sure it will go viral](http://9gag.com/gag/aNDp850)
+ - ⏩ [World\u2019s fastest drag racer hits 580kmph &lpar;360mph&rpar; in just 3 seconds](http://9gag.com/gag/apRNzAW)
+ - 👉 [I hope nothing bad happened.](http://9gag.com/gag/a34EzW7)<!-- MEMES:END -->
 
 ---
 
