@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Champion](http://9gag.com/gag/azxMDbb)
- - ⏩ [Notice the women didn&#39;t pop are also the prettiest](http://9gag.com/gag/aZZ0dG9)
- - 👉 [You want a new Snape? Here&#39;s one.](http://9gag.com/gag/aPA3dQB)<!-- MEMES:END -->
+ - 💣 [Your order](http://9gag.com/gag/aNDp326)
+ - ⏩ [We miss you Alan](http://9gag.com/gag/apRNjKD)
+ - 👉 [Notice the women didn&#39;t pop are also the prettiest](http://9gag.com/gag/aZZ0dG9)<!-- MEMES:END -->
 
 ---
 
