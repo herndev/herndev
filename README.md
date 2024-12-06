@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [One of Google’s biggest rivals has a new Android launcher, but is it any good?](https://www.androidauthority.com/yahoo-launcher-3505783/)
- - [Q&amp;A with Trump&#39;s pick for FCC chairman Brendan Carr about the Salt Typhoon hack, Section 230, tech companies&#39; &quot;collusion to suppress speech&quot;, Starlink, more &lpar;CNBC&rpar;](http://www.techmeme.com/241206/p25#a241206p25)
- - [A Mysterious Respiratory Disease Has the Democratic Republic of the Congo on High Alert](https://www.wired.com/story/drc-mysterious-respiratory-disease-children-who-africa/)<!-- TECH:END -->
+ - [A US teen faces backlash for making ~$50K via a &quot;soft rug pull&quot; on Pump.Fun, which made $250M+ in less than a year and is struggling to protect users from scams &lpar;Joel Khalili/Wired&rpar;](http://www.techmeme.com/241206/p27#a241206p27)
+ - [The Real Story of “The Order”](https://www.wired.com/story/real-story-the-order-fbi-movie-bob-mathews/)
+ - [Keeping Your Personal Data Safe in the Age of Trump](https://www.wired.com/story/politics-lab-keeping-your-personal-data-safe/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
