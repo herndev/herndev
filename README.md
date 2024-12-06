@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Your order](http://9gag.com/gag/aNDp326)
- - ⏩ [Nothing, ungrateful sons of b*tches. Not even a coffee cup](http://9gag.com/gag/aKG6LKb)
- - 👉 [Your coverage is denied](http://9gag.com/gag/aBy2vbN)<!-- MEMES:END -->
+ - 💣 [A braveman Overcome shooter and saved lives](http://9gag.com/gag/aoyMdGX)
+ - ⏩ [Your order](http://9gag.com/gag/aNDp326)
+ - 👉 [Nothing, ungrateful sons of b*tches. Not even a coffee cup](http://9gag.com/gag/aKG6LKb)<!-- MEMES:END -->
 
 ---
 
