@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Well.. that&#39;s embarrassing](http://9gag.com/gag/aE0pQ2o)
- - ⏩ [UnitedHealthcare CEO Brian Thompson shot dead](http://9gag.com/gag/awyMvdx)
- - 👉 [Everything is Italy](http://9gag.com/gag/aW4jDXA)<!-- MEMES:END -->
+ - 💣 [Best ad ever](http://9gag.com/gag/aYQoRMq)
+ - ⏩ [Mexican Atreyu and Artax, is that u?](http://9gag.com/gag/aKG6LVW)
+ - 👉 [Eye check](http://9gag.com/gag/awyMe6W)<!-- MEMES:END -->
 
 ---
 
