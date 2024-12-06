@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta announces the Llama 3.3 70B, a text-only model that Meta claims can deliver the performance of its largest Llama model at a lower cost &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/241206/p23#a241206p23)
- - [The Crypto Industry Hails David Sacks, Its New ‘Czar’](https://www.wired.com/story/crypto-industry-hails-david-sacks-czar/)
- - [Apple plans three-year rollout of its self-made iPhone modem, starting with iPhone SE](https://appleinsider.com/articles/24/12/06/apple-plans-three-year-rollout-of-its-self-made-iphone-modem-starting-with-iphone-se?utm_medium=rss)<!-- TECH:END -->
+ - [One of Google’s biggest rivals has a new Android launcher, but is it any good?](https://www.androidauthority.com/yahoo-launcher-3505783/)
+ - [Q&amp;A with Trump&#39;s pick for FCC chairman Brendan Carr about the Salt Typhoon hack, Section 230, tech companies&#39; &quot;collusion to suppress speech&quot;, Starlink, more &lpar;CNBC&rpar;](http://www.techmeme.com/241206/p25#a241206p25)
+ - [A Mysterious Respiratory Disease Has the Democratic Republic of the Congo on High Alert](https://www.wired.com/story/drc-mysterious-respiratory-disease-children-who-africa/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
