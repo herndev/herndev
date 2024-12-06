@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A US teen faces backlash for making ~$50K via a &quot;soft rug pull&quot; on Pump.Fun, which made $250M+ in less than a year and is struggling to protect users from scams &lpar;Joel Khalili/Wired&rpar;](http://www.techmeme.com/241206/p27#a241206p27)
- - [The Real Story of “The Order”](https://www.wired.com/story/real-story-the-order-fbi-movie-bob-mathews/)
- - [Keeping Your Personal Data Safe in the Age of Trump](https://www.wired.com/story/politics-lab-keeping-your-personal-data-safe/)<!-- TECH:END -->
+ - [13 Deals on WIRED-Approved Gear at Walmart](https://www.wired.com/story/weekend-deals-december-7-2024/)
+ - [T-Mobile is introducing ‘revamped’ 5G Home Internet plans](https://www.theverge.com/2024/12/6/24314956/t-mobile-5g-home-internet-plans-rely-amplified-all-in)
+ - [Apple’s custom modems could put 5G in Macs and Vision Pro](https://www.theverge.com/2024/12/6/24315099/apple-custom-modems-5g-macs-vision-pro)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
