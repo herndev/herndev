@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The 10 Worst Games Of 2024 According To Metacritic](https://kotaku.com/worst-games-2024-metacritic-review-scores-funko-jjk-1851714921)
- - [Discoveries](https://www.polygon.com/gaming/24215620/new-things-to-play-watch-and-experience)
- - [Get your friends into TTRPGs as fast as Deborah Ann Woll using this game](https://www.polygon.com/tabletop-games/492455/dnd-ttrpg-beginner-deborah-ann-woll-video)<!-- GAME:END -->
+ - [Marvel Rivals players are complaining that nobody is playing healer, and the grizzled Overwatch vets knowingly nod in solidarity](https://www.pcgamer.com/games/third-person-shooter/marvel-rival-players-are-complaining-that-nobody-is-playing-healer-and-the-grizzled-overwatch-vets-knowingly-nod-in-solidarity)
+ - [Dev Behind Co-Op Hit It Takes Two Has A New Game Reportedly Coming Out In March](https://kotaku.com/it-takes-two-hazelight-tga-2024-game-awards-josef-fares-1851715823)
+ - [How to earn Units in Marvel Rivals](https://www.polygon.com/marvel-rivals-guide/492175/units-how-to-get)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
