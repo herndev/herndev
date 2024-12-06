@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Indiana Jones and the Great Circle: Starting Tips and Tricks for Your Adventure](https://news.xbox.com/en-us/2024/12/05/indiana-jones-and-the-great-circle-starting-tips/)
- - [The Great Circle shines when it forgets about Indiana Jones](https://www.polygon.com/review/491856/indiana-jones-and-the-great-circle-review-pc-xbox)
- - [Indiana Jones and the Great Circle review](https://www.pcgamer.com/games/adventure/indiana-jones-and-the-great-circle-review)<!-- GAME:END -->
+ - [The Concord episode of Secret Level is like a message from a ghost whose unfinished business is creating a global multimedia franchise](https://www.pcgamer.com/movies-tv/the-concord-episode-of-secret-level-is-like-a-message-from-a-ghost-whose-unfinished-business-is-creating-a-global-multimedia-franchise)
+ - [Secret Level review: our take on every episode of Amazon&#39;s videogame anthology show](https://www.pcgamer.com/movies-tv/secret-level-review-our-take-on-every-episode-of-amazons-videogame-anthology-show)
+ - [League of Legends trading card game will bring teamfights to the real world](https://www.polygon.com/news/490418/league-legends-card-game-tcg-riot-games-project-k)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
