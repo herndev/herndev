@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Marvel Rivals players are complaining that nobody is playing healer, and the grizzled Overwatch vets knowingly nod in solidarity](https://www.pcgamer.com/games/third-person-shooter/marvel-rival-players-are-complaining-that-nobody-is-playing-healer-and-the-grizzled-overwatch-vets-knowingly-nod-in-solidarity)
- - [Dev Behind Co-Op Hit It Takes Two Has A New Game Reportedly Coming Out In March](https://kotaku.com/it-takes-two-hazelight-tga-2024-game-awards-josef-fares-1851715823)
- - [How to earn Units in Marvel Rivals](https://www.polygon.com/marvel-rivals-guide/492175/units-how-to-get)<!-- GAME:END -->
+ - [Grand Theft Auto 6&#39;s First Trailer, A Year Later](https://kotaku.com/gta-6-grand-theft-auto-vi-first-trailer-2-a-year-later-1851714995)
+ - [&#39;Progression is awful, this is not a mobile game&#39;: The Marvel Rivals challenge-based battle pass has players begging for but an ounce of post-match XP](https://www.pcgamer.com/games/third-person-shooter/progression-is-awful-this-is-not-a-mobile-game-the-marvel-rivals-challenge-based-battle-pass-has-players-begging-for-but-an-ounce-of-post-match-xp)
+ - [Suicide Squad Fans Get Hyped For Deathstroke As They Wait For MIA Offline Mode](https://kotaku.com/suicide-squad-offline-mode-deathstroke-season-4-1851715898)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
