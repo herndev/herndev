@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Diablo 4 expansion&#39;s game director refuses to back down on the dungeon you can&#39;t enter unless you do it multiplayer: &#39;I absolutely am sticking to my guns&#39;](https://www.pcgamer.com/games/rpg/diablo-4-expansions-game-director-refuses-to-back-down-on-the-dungeon-you-cant-enter-unless-you-do-it-multiplayer-i-absolutely-am-sticking-to-my-guns)
- - [Award-winning John Wick-like TTRPG Outgunned partners with Free League](https://www.polygon.com/tabletop-games/491990/outgunned-ttrpg-two-little-mice-free-league)
- - [&#39;It’s been a little sad to see Haunted Chocolatier getting dusty on the shelf, but this is the reality of my situation,&#39; Eric Barone says: &#39;Stardew Valley is a big and popular game&#39;](https://www.pcgamer.com/games/life-sim/its-been-a-little-sad-to-see-haunted-chocolatier-getting-dusty-on-the-shelf-but-this-is-the-reality-of-my-situation-eric-barone-says-stardew-valley-is-a-big-and-popular-game)<!-- GAME:END -->
+ - [Indiana Jones and the Great Circle: Starting Tips and Tricks for Your Adventure](https://news.xbox.com/en-us/2024/12/05/indiana-jones-and-the-great-circle-starting-tips/)
+ - [The Great Circle shines when it forgets about Indiana Jones](https://www.polygon.com/review/491856/indiana-jones-and-the-great-circle-review-pc-xbox)
+ - [Indiana Jones and the Great Circle review](https://www.pcgamer.com/games/adventure/indiana-jones-and-the-great-circle-review)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
