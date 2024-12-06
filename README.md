@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Delta Force has a list of tech it&#39;ll ban you to the shadowrealm for using, including the usual cheating software but also way weirder stuff like &#39;USB drives&#39;](https://www.pcgamer.com/games/fps/delta-force-has-a-list-of-tech-itll-ban-you-to-the-shadowrealm-for-using-including-the-usual-cheating-software-but-also-way-weirder-stuff-like-usb-drives)
- - [The Thing: Remastered is fun for all the wrong reasons, but that doesn&#39;t mean you can&#39;t enjoy this blast from the past](https://www.pcgamer.com/games/horror/the-thing-remastered-is-fun-for-all-the-wrong-reasons-but-that-doesnt-mean-you-cant-enjoy-this-blast-from-the-past)
- - [The secret sauce behind Creature Commandos’ Bride was Harley Quinn](https://www.polygon.com/dc/491080/creature-commandos-bride-of-frankenstein-harley-quinn)<!-- GAME:END -->
+ - [Next Week on Xbox: New Games for December 9 to 13](https://news.xbox.com/en-us/2024/12/06/next-week-on-xbox-december-9-to-13/)
+ - [Marvel Rivals Makes Crossplay Refreshingly Simple](https://kotaku.com/marvel-rivals-crossplay-xbox-pc-playstation-1851715183)
+ - [Gearbox CEO Randy Pitchford gets lost in the sauce again, posts about an imminent Borderlands 4 trailer he wasn&#39;t &#39;supposed to talk about&#39;, however, &#39;idgaf&#39;](https://www.pcgamer.com/games/fps/gearbox-ceo-randy-pitchford-gets-lost-in-the-sauce-again-posts-about-an-imminent-borderlands-4-trailer-he-wasnt-supposed-to-talk-about-however-idgaf)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
