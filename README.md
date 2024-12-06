@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How to watch The Game Awards 2024](https://www.polygon.com/events/479292/game-awards-2024-start-time-nominees)
- - [When does Fortnite OG Season 1 end and Chapter 1 Season 2 arrive?](https://www.polygon.com/fortnite-guide/492214/og-schedule-how-long-season-end)
- - [For the King II Comes to Xbox Game Pass on December 12](https://news.xbox.com/en-us/2024/12/06/for-the-king-ii-comes-to-xbox-game-pass-on-december-12/)<!-- GAME:END -->
+ - [The 10 Worst Games Of 2024 According To Metacritic](https://kotaku.com/worst-games-2024-metacritic-review-scores-funko-jjk-1851714921)
+ - [Discoveries](https://www.polygon.com/gaming/24215620/new-things-to-play-watch-and-experience)
+ - [Get your friends into TTRPGs as fast as Deborah Ann Woll using this game](https://www.polygon.com/tabletop-games/492455/dnd-ttrpg-beginner-deborah-ann-woll-video)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
