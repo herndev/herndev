@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [AGI is coming and nobody cares](https://www.theverge.com/2024/12/6/24314746/agi-openai-sam-altman-cable-subscription-vergecast)
- - [Microsoft ends production of its $4,500 Surface Studio 2+, two years after announcing the device, with seemingly no plans to make a successor &lpar;Zac Bowden/Windows Central&rpar;](http://www.techmeme.com/241206/p12#a241206p12)
- - [How ChatGPT&#39;s Canvas Can Help You Use AI More Productively](https://www.wired.com/story/how-to-use-chatgpt-canvas-productivity/)<!-- TECH:END -->
+ - [Have an Amex card? You could get a year of Mint Mobile unlimited for $135 &lpar;$11.25 a month&rpar;](https://www.androidauthority.com/mint-amex-deal-3506427/)
+ - [Romania&#39;s top court annuls presidential election, after its security council revealed &quot;hybrid Russian attacks&quot;, like cyberattacks and TikTok influence campaigns &lpar;CNN&rpar;](http://www.techmeme.com/241206/p14#a241206p14)
+ - [This Easy-to-Use Universal Remote Is a Great Gift, and It&#39;s on Sale Right Now](https://www.cnet.com/deals/this-easy-to-use-universal-remote-is-a-great-gift-and-its-on-sale-right-now/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
