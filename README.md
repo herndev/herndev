@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The secret sauce behind Creature Commandos’ Bride was Harley Quinn](https://www.polygon.com/dc/491080/creature-commandos-bride-of-frankenstein-harley-quinn)
- - [When Path of Exile 2 early access ends, Grinding Gear Games won&#39;t be murdering your beloved characters](https://www.pcgamer.com/games/rpg/when-path-of-exile-2-early-access-ends-grinding-gear-games-wont-be-murdering-your-beloved-characters)
- - [Marvel Rivals tier list: The best characters in each role](https://www.pcgamer.com/games/third-person-shooter/marvel-rivals-tier-list-best-characters)<!-- GAME:END -->
+ - [Delta Force has a list of tech it&#39;ll ban you to the shadowrealm for using, including the usual cheating software but also way weirder stuff like &#39;USB drives&#39;](https://www.pcgamer.com/games/fps/delta-force-has-a-list-of-tech-itll-ban-you-to-the-shadowrealm-for-using-including-the-usual-cheating-software-but-also-way-weirder-stuff-like-usb-drives)
+ - [The Thing: Remastered is fun for all the wrong reasons, but that doesn&#39;t mean you can&#39;t enjoy this blast from the past](https://www.pcgamer.com/games/horror/the-thing-remastered-is-fun-for-all-the-wrong-reasons-but-that-doesnt-mean-you-cant-enjoy-this-blast-from-the-past)
+ - [The secret sauce behind Creature Commandos’ Bride was Harley Quinn](https://www.polygon.com/dc/491080/creature-commandos-bride-of-frankenstein-harley-quinn)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
