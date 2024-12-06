@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [World\u2019s fastest drag racer hits 580kmph &lpar;360mph&rpar; in just 3 seconds](http://9gag.com/gag/apRNzAW)
- - ⏩ [Eye check](http://9gag.com/gag/awyMe6W)
- - 👉 [Ip Man](http://9gag.com/gag/ajPmGZR)<!-- MEMES:END -->
+ - 💣 [Your order](http://9gag.com/gag/aNDp326)
+ - ⏩ [Nothing, ungrateful sons of b*tches. Not even a coffee cup](http://9gag.com/gag/aKG6LKb)
+ - 👉 [Your coverage is denied](http://9gag.com/gag/aBy2vbN)<!-- MEMES:END -->
 
 ---
 
