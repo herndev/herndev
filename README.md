@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [An evaluation of six frontier AI models for in-context scheming when strongly nudged to pursue a goal: only OpenAI&#39;s o1 was capable of scheming in all the tests &lpar;Marius Hobbhahn/Apollo Research&rpar;](http://www.techmeme.com/241206/p10#a241206p10)
- - [Now Indonesia says Apple will build it a $1 billion plant to end the iPhone 16 ban](https://appleinsider.com/articles/24/12/06/now-indonesia-says-apple-will-build-it-a-1-billion-plant-to-end-the-iphone-16-ban?utm_medium=rss)
- - [33 Viral TikTok Gifts That Are Actually Worth a Look &lpar;2024&rpar;](https://www.wired.com/gallery/best-viral-tiktok-gadgets/)<!-- TECH:END -->
+ - [Samsung Messages to drop RCS support on this major US carrier next year](https://www.androidauthority.com/samsung-messages-discontinue-rcs-3506382/)
+ - [Finding the Real ‘Midnight Diner’](https://www.wired.com/story/finding-the-real-midnight-diner/)
+ - [Sources: OpenAI is discussing ditching a clause that cuts off Microsoft&#39;s access to OpenAI tech if OpenAI develops AGI, so that Microsoft can continue investing &lpar;Financial Times&rpar;](http://www.techmeme.com/241206/p11#a241206p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
