@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Eight Tips for Exploring the Island of the Gods in Mythwrecked: Ambrosia Island](https://news.xbox.com/en-us/2024/12/06/eight-tips-for-exploring-the-island-of-the-gods-in-mythwrecked-ambrosia-island/)
- - [Why Winter Fest is World of Tanks Modern Armor’s Biggest Seasonal Event Ever](https://news.xbox.com/en-us/2024/12/06/world-of-tanks-modern-armor-winter-fest-deep-dive/)
- - [Discoveries](https://www.polygon.com/gaming/24215620/new-things-to-play-watch-and-experience)<!-- GAME:END -->
+ - [US rep asks Valve to remove ‘Oct. 7’ game from Steam](https://www.polygon.com/gaming/492245/fursan-al-aqsa-steam-game-removal-ritchie-torres)
+ - [11 Things To Know Before Starting Marvel Rivals](https://kotaku.com/marvel-rivals-tips-team-up-currency-battle-pass-heroes-1851715661)
+ - [Where to find the Abandoned Fanatic Wisher Camp hidden cavern in Infinity Nikki](https://www.polygon.com/infinity-nikki-guides/492207/hidden-cavern-abandoned-fanatic-wisher-camp-wishfield-journal-azure-secret-location)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
