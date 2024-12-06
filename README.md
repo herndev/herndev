@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Season of Xbox: Celebrate with Limited Time Events, Game Pass Ultimate Perks, and More](https://news.xbox.com/en-us/2024/12/06/season-of-xbox-celebrate-with-limited-time-events-game-pass-ultimate-perks-and-more/)
- - [Team Group MP44 4 TB review](https://www.pcgamer.com/hardware/ssds/team-group-mp44-4-tb-review)
- - [Over 1,800 CEOs have resigned in 2024, making this the year of the mic drop exit for head honchos](https://www.pcgamer.com/hardware/over-1-800-ceos-have-resigned-in-2024-making-this-the-year-of-the-mic-drop-exit-for-head-honchos)<!-- GAME:END -->
+ - [Eight Tips for Exploring the Island of the Gods in Mythwrecked: Ambrosia Island](https://news.xbox.com/en-us/2024/12/06/eight-tips-for-exploring-the-island-of-the-gods-in-mythwrecked-ambrosia-island/)
+ - [Why Winter Fest is World of Tanks Modern Armor’s Biggest Seasonal Event Ever](https://news.xbox.com/en-us/2024/12/06/world-of-tanks-modern-armor-winter-fest-deep-dive/)
+ - [Discoveries](https://www.polygon.com/gaming/24215620/new-things-to-play-watch-and-experience)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
