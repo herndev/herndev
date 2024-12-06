@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Have an Amex card? You could get a year of Mint Mobile unlimited for $135 &lpar;$11.25 a month&rpar;](https://www.androidauthority.com/mint-amex-deal-3506427/)
- - [Romania&#39;s top court annuls presidential election, after its security council revealed &quot;hybrid Russian attacks&quot;, like cyberattacks and TikTok influence campaigns &lpar;CNN&rpar;](http://www.techmeme.com/241206/p14#a241206p14)
- - [This Easy-to-Use Universal Remote Is a Great Gift, and It&#39;s on Sale Right Now](https://www.cnet.com/deals/this-easy-to-use-universal-remote-is-a-great-gift-and-its-on-sale-right-now/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [My Pixel absolutely crushes the iPhone in this one key area](https://www.androidauthority.com/pixel-vs-iphone-spam-detection-3505644/)
+ - [Sources: Ubisoft shareholders are considering how to structure a possible buyout of the game maker without reducing the founding Guillemot family&#39;s control &lpar;Reuters&rpar;](http://www.techmeme.com/241206/p17#a241206p17)
+ - [Google Photos is getting its own version of Spotify Wrapped &lpar;Update: Official&rpar;](https://www.androidauthority.com/google-photos-2024-recap-3506222/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
