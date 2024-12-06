@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Deal: Get an Xbox Series X for just $399.99](https://www.androidauthority.com/xbox-series-x-deal-2-3506624/)
- - [Ahead of Verizon Message shutdown, Google releases guide for former Verizon Message Plus users](https://www.androidauthority.com/verizon-messages-google-messages-transition-3506497/)
- - [What Arm’s CEO makes of the Intel debacle](https://www.theverge.com/2024/12/6/24315123/arm-ceo-rene-haas-intel-ai-chips-samsung-changes)<!-- TECH:END -->
+ - [Amazon&#39;s record-low AirPods 4 price is perfect for nailing down stocking stuffers](https://appleinsider.com/articles/24/12/06/amazons-record-low-airpods-4-price-is-perfect-for-nailing-down-stocking-stuffers?utm_medium=rss)
+ - [Google Wallet is fixing it so you never have to worry about losing your passport](https://www.androidauthority.com/google-wallet-passport-3506634/)
+ - [Microsoft Surface rumors point to a big Copilot Plus refresh next year](https://www.theverge.com/2024/12/6/24315105/microsoft-surface-pro-laptop-intel-lunar-lake-rumors)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
