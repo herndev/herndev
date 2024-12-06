@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Found the hoodie guy!](http://9gag.com/gag/aGyprz0)
- - ⏩ [The absoulte state of the internet right now.](http://9gag.com/gag/ajPm3Rg)
- - 👉 [Subsonic Ammo with silencers makes guns extremely quiet](http://9gag.com/gag/aQzoBNe)<!-- MEMES:END -->
+ - 💣 [Ip Man](http://9gag.com/gag/ajPmGZR)
+ - ⏩ [Subsonic Ammo with silencers makes guns extremely quiet](http://9gag.com/gag/aQzoBNe)
+ - 👉 [Smells like teen spirit](http://9gag.com/gag/aBy2v6Q)<!-- MEMES:END -->
 
 ---
 
