@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Well.. that&#39;s embarrassing](http://9gag.com/gag/aE0pQ2o)
- - ⏩ [Notice the women didn&#39;t pop are also the prettiest](http://9gag.com/gag/aZZ0dG9)
- - 👉 [Smells like teen spirit](http://9gag.com/gag/aBy2v6Q)<!-- MEMES:END -->
+ - 💣 [World\u2019s fastest drag racer hits 580kmph &lpar;360mph&rpar; in just 3 seconds](http://9gag.com/gag/apRNzAW)
+ - ⏩ [Eye check](http://9gag.com/gag/awyMe6W)
+ - 👉 [Ip Man](http://9gag.com/gag/ajPmGZR)<!-- MEMES:END -->
 
 ---
 
