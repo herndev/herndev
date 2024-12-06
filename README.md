@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [A braveman Overcome shooter and saved lives](http://9gag.com/gag/aoyMdGX)
- - ⏩ [Your order](http://9gag.com/gag/aNDp326)
- - 👉 [Nothing, ungrateful sons of b*tches. Not even a coffee cup](http://9gag.com/gag/aKG6LKb)<!-- MEMES:END -->
+ - 💣 [Champion](http://9gag.com/gag/azxMDbb)
+ - ⏩ [Notice the women didn&#39;t pop are also the prettiest](http://9gag.com/gag/aZZ0dG9)
+ - 👉 [You want a new Snape? Here&#39;s one.](http://9gag.com/gag/aPA3dQB)<!-- MEMES:END -->
 
 ---
 
