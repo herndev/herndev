@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung Messages to drop RCS support on this major US carrier next year](https://www.androidauthority.com/samsung-messages-discontinue-rcs-3506382/)
- - [Finding the Real ‘Midnight Diner’](https://www.wired.com/story/finding-the-real-midnight-diner/)
- - [Sources: OpenAI is discussing ditching a clause that cuts off Microsoft&#39;s access to OpenAI tech if OpenAI develops AGI, so that Microsoft can continue investing &lpar;Financial Times&rpar;](http://www.techmeme.com/241206/p11#a241206p11)<!-- TECH:END -->
+ - [AGI is coming and nobody cares](https://www.theverge.com/2024/12/6/24314746/agi-openai-sam-altman-cable-subscription-vergecast)
+ - [Microsoft ends production of its $4,500 Surface Studio 2+, two years after announcing the device, with seemingly no plans to make a successor &lpar;Zac Bowden/Windows Central&rpar;](http://www.techmeme.com/241206/p12#a241206p12)
+ - [How ChatGPT&#39;s Canvas Can Help You Use AI More Productively](https://www.wired.com/story/how-to-use-chatgpt-canvas-productivity/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
