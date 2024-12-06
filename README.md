@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Finally, The Witcher 3’s Gwent will be playable in real life](https://www.polygon.com/news/491425/the-witcher-3-gwent-physical-version-announcement-release-date-price)
  - [Today&#39;s Wordle answer for Friday, December 6](https://www.pcgamer.com/games/puzzle/wordle-answer-today-december-6-2024)
- - [Riot Games announced a physical card game and fans of its digital card game, Legends of Runeterra, aren&#39;t happy about it](https://www.pcgamer.com/games/card-games/riot-games-announced-a-physical-card-game-and-fans-of-its-digital-card-game-legends-of-runeterra-arent-happy-about-it)
- - [Delta Force is a decent Battlefield clone, but its monetization is like gazing into a bottomless void from which no light can escape](https://www.pcgamer.com/games/fps/delta-force-is-a-decent-battlefield-clone-but-its-monetization-is-like-gazing-into-a-bottomless-void-from-which-no-light-can-escape)<!-- GAME:END -->
+ - [Riot Games announced a physical card game and fans of its digital card game, Legends of Runeterra, aren&#39;t happy about it](https://www.pcgamer.com/games/card-games/riot-games-announced-a-physical-card-game-and-fans-of-its-digital-card-game-legends-of-runeterra-arent-happy-about-it)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
