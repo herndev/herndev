@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Does this count?](http://9gag.com/gag/agmBdR1)
- - ⏩ [When a nation gets its shit together](http://9gag.com/gag/a1mrxWv)
- - 👉 [Big hair time](http://9gag.com/gag/aRBXR5G)<!-- MEMES:END -->
+ - 💣 [Well.. that&#39;s embarrassing](http://9gag.com/gag/aE0pQ2o)
+ - ⏩ [UnitedHealthcare CEO Brian Thompson shot dead](http://9gag.com/gag/awyMvdx)
+ - 👉 [Everything is Italy](http://9gag.com/gag/aW4jDXA)<!-- MEMES:END -->
 
 ---
 
