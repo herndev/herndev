@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Thank you, Google: Pixel Camera app regains on-screen brightness, WB, and shadow controls](https://www.androidauthority.com/pixel-camera-9-7-quick-access-controls-3506245/)
- - [Amazon, AMD, and others are beginning to offer credible alternatives to Nvidia&#39;s AI chips, especially for inferencing, which is becoming increasingly important &lpar;Don Clark/New York Times&rpar;](http://www.techmeme.com/241206/p6#a241206p6)
- - [An interview with Amazon CTO Werner Vogels on the culture needed to attract top engineers, fighting misinformation through open-source intelligence, and more &lpar;Frederic Lardinois/TechCrunch&rpar;](http://www.techmeme.com/241206/p5#a241206p5)<!-- TECH:END -->
+ - [Nothing Gallery app leaks ahead of launch, and we installed it for a good look](https://www.androidauthority.com/nothing-gallery-app-beta-hands-on-3506246/)
+ - [Changing units is a joke in Pixel Weather app, but that could change &lpar;APK teardown&rpar;](https://www.androidauthority.com/pixel-weather-app-measurements-units-apk-teardown-3506241/)
+ - [Thank you, Google: Pixel Camera app regains on-screen brightness, WB, and shadow controls](https://www.androidauthority.com/pixel-camera-9-7-quick-access-controls-3506245/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
