@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Photos is getting its own version of Spotify Wrapped](https://www.androidauthority.com/google-photos-2024-recap-3506222/)
- - [FEC filing: Elon Musk poured at least $274M into US political groups in 2024, including $238.5M for his America PAC, making him the biggest US political donor &lpar;Bill Allison/Bloomberg&rpar;](http://www.techmeme.com/241206/p8#a241206p8)
- - [Twelve South Discounts Essential Tech Gift Bundles by Up to $45 Just in Time for Christmas](https://www.cnet.com/deals/twelve-south-discounts-essential-tech-gift-bundles-by-up-to-45-just-in-time-for-christmas/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [An evaluation of six frontier AI models for in-context scheming when strongly nudged to pursue a goal: only OpenAI&#39;s o1 was capable of scheming in all the tests &lpar;Marius Hobbhahn/Apollo Research&rpar;](http://www.techmeme.com/241206/p10#a241206p10)
+ - [Now Indonesia says Apple will build it a $1 billion plant to end the iPhone 16 ban](https://appleinsider.com/articles/24/12/06/now-indonesia-says-apple-will-build-it-a-1-billion-plant-to-end-the-iphone-16-ban?utm_medium=rss)
+ - [33 Viral TikTok Gifts That Are Actually Worth a Look &lpar;2024&rpar;](https://www.wired.com/gallery/best-viral-tiktok-gadgets/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
