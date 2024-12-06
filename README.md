@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Next Week on Xbox: New Games for December 9 to 13](https://news.xbox.com/en-us/2024/12/06/next-week-on-xbox-december-9-to-13/)
- - [Marvel Rivals Makes Crossplay Refreshingly Simple](https://kotaku.com/marvel-rivals-crossplay-xbox-pc-playstation-1851715183)
- - [Gearbox CEO Randy Pitchford gets lost in the sauce again, posts about an imminent Borderlands 4 trailer he wasn&#39;t &#39;supposed to talk about&#39;, however, &#39;idgaf&#39;](https://www.pcgamer.com/games/fps/gearbox-ceo-randy-pitchford-gets-lost-in-the-sauce-again-posts-about-an-imminent-borderlands-4-trailer-he-wasnt-supposed-to-talk-about-however-idgaf)<!-- GAME:END -->
+ - [Season of Xbox: Celebrate with Limited Time Events, Game Pass Ultimate Perks, and More](https://news.xbox.com/en-us/2024/12/06/season-of-xbox-celebrate-with-limited-time-events-game-pass-ultimate-perks-and-more/)
+ - [Team Group MP44 4 TB review](https://www.pcgamer.com/hardware/ssds/team-group-mp44-4-tb-review)
+ - [Over 1,800 CEOs have resigned in 2024, making this the year of the mic drop exit for head honchos](https://www.pcgamer.com/hardware/over-1-800-ceos-have-resigned-in-2024-making-this-the-year-of-the-mic-drop-exit-for-head-honchos)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
