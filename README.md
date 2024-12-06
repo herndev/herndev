@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Last call: Apple&#39;s 14-inch MacBook Pro with 16GB RAM on sale for $1,349](https://appleinsider.com/articles/24/12/03/flash-deal-apples-14-inch-macbook-pro-with-16gb-ram-on-sale-for-1349?utm_medium=rss)
- - [In a recent discussion, YC partners said the incubator was deluged with applications from startups looking to develop AI agents, which could become the new SaaS &lpar;John Thornhill/Financial Times&rpar;](http://www.techmeme.com/241206/p4#a241206p4)
- - [10% Off eBay Coupon Code | December 2024](https://www.wired.com/story/ebay-coupon-code/)<!-- TECH:END -->
+ - [Thank you, Google: Pixel Camera app regains on-screen brightness, WB, and shadow controls](https://www.androidauthority.com/pixel-camera-9-7-quick-access-controls-3506245/)
+ - [Amazon, AMD, and others are beginning to offer credible alternatives to Nvidia&#39;s AI chips, especially for inferencing, which is becoming increasingly important &lpar;Don Clark/New York Times&rpar;](http://www.techmeme.com/241206/p6#a241206p6)
+ - [An interview with Amazon CTO Werner Vogels on the culture needed to attract top engineers, fighting misinformation through open-source intelligence, and more &lpar;Frederic Lardinois/TechCrunch&rpar;](http://www.techmeme.com/241206/p5#a241206p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
