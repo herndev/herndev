@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [My Pixel absolutely crushes the iPhone in this one key area](https://www.androidauthority.com/pixel-vs-iphone-spam-detection-3505644/)
- - [Sources: Ubisoft shareholders are considering how to structure a possible buyout of the game maker without reducing the founding Guillemot family&#39;s control &lpar;Reuters&rpar;](http://www.techmeme.com/241206/p17#a241206p17)
- - [Google Photos is getting its own version of Spotify Wrapped &lpar;Update: Official&rpar;](https://www.androidauthority.com/google-photos-2024-recap-3506222/)<!-- TECH:END -->
+ - [I used Android Switch to ditch my iPhone, and it couldn’t have been easier](https://www.androidauthority.com/android-switch-pixel-to-iphone-3506047/)
+ - [Coinbase publishes FDIC documents, obtained via a lawsuit, that it says prove crypto businesses were systematically walled off from banking by the regulator &lpar;Jesse Hamilton/CoinDesk&rpar;](http://www.techmeme.com/241206/p20#a241206p20)
+ - [Sources: Apple&#39;s in-house modems will debut next spring in the new iPhone SE, with 2nd-gen modems expected in higher-end products like iPhone 18 lineup in 2026 &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/241206/p19#a241206p19)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
