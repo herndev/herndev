@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Suicide Squad Fans Get Hyped For Deathstroke As Offline Mode Arrives With Final Season](https://kotaku.com/suicide-squad-offline-mode-deathstroke-season-4-1851715898)
- - [Dauntless&#39;s launch on Steam has gone horribly, horribly wrong with overwhelmingly negative reviews: &#39;This update is easily, out of every game I&#39;ve ever played, the worst one I&#39;ve seen&#39;](https://www.pcgamer.com/games/action/dauntlesss-launch-on-steam-has-gone-horribly-horribly-wrong-with-overwhelmingly-negative-reviews-this-update-is-easily-out-of-every-game-ive-ever-played-the-worst-one-ive-seen)
- - [How to respec in Path of Exile 2](https://www.polygon.com/path-exile-2-guide/492960/respec-how-to-poe2)<!-- GAME:END -->
+ - [Keira Knightley Thought That Love Actually Scene Was Creepy, Too](https://kotaku.com/keira-knightley-thought-that-love-actually-scene-was-cr-1851717049)
+ - [Delta Force&#39;s large scale combat reminds me of Battlefield&#39;s very best](https://www.pcgamer.com/games/fps/delta-forces-large-scale-combat-reminds-me-of-battlefields-very-best)
+ - [Where to find the ‘A Date to Remember’ code in Indiana Jones and the Great Circle](https://www.polygon.com/indiana-jones-great-circle-guide/492966/date-to-remember-code-combination-calendar)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
