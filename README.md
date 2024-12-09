@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Absolutely zero survival skills\ud83e\udd7a](http://9gag.com/gag/aqyjMOQ)
- - ⏩ [That was entrapment](http://9gag.com/gag/aAybAN9)
- - 👉 [I stole it, maybe repost but great quality](http://9gag.com/gag/aE0p9w9)<!-- MEMES:END -->
+ - 💣 [Mark Rober video exposing Indian call centers showed several of the scammers using 9gag!](http://9gag.com/gag/a87ERN1)
+ - ⏩ [Dark](http://9gag.com/gag/avy5w1q)
+ - 👉 [Absolutely zero survival skills\ud83e\udd7a](http://9gag.com/gag/aqyjMOQ)<!-- MEMES:END -->
 
 ---
 
