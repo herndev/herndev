@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Valve is adding an &#39;Extra competitive&#39; option to Deadlock that&#39;ll make matches harder, but only because everyone in this mode refuses to speak](https://www.pcgamer.com/games/moba/valve-is-adding-an-extra-competitive-option-to-deadlock-thatll-make-matches-harder-but-only-because-everyone-in-this-mode-refuses-to-speak)
- - [Fortnite&#39;s New GTA-Inspired Lego Mode Is Out Later This Week](https://kotaku.com/gta-6-lego-fortnite-brick-life-roleplay-ps5-xbox-pc-1851716667)
- - [Lego Fortnite’s new ‘social roleplay experience’ looks like a cute GTA Online](https://www.polygon.com/fortnite/492874/lego-fortnite-brick-life-trailer-gta-online)<!-- GAME:END -->
+ - [&#39;I got slapped by CD Projekt&#39;: Doug Cockle says he doesn&#39;t actually know if Geralt is in The Witcher 4 or not, but the studio wants him to shut up about it](https://www.pcgamer.com/games/rpg/i-got-slapped-by-cd-projekt-doug-cockle-says-he-doesnt-actually-know-if-geralt-is-in-the-witcher-4-or-not-but-the-studio-wants-him-to-shut-up-about-it)
+ - [Someone recreated the UnitedHealthcare CEO shooting in Cruelty Squad](https://www.polygon.com/pc/492886/cruelty-squad-mod-unitedhealthcare-ceo-shooting)
+ - [Secret Level: The Kotaku Review](https://kotaku.com/secret-level-review-amazon-playstation-pac-man-mega-man-1851716804)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
