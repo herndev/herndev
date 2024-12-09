@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How to obtain Bedrock Crystal in Infinity Nikki](https://www.pcgamer.com/games/adventure/infinity-nikki-bedrock-crystal-bouldy-location)
- - [This eye-searingly awful cryptocurrency Christmas jumper donates 50% of its profits to a good cause and I still don&#39;t want it](https://www.pcgamer.com/hardware/this-eye-searingly-awful-cryptocurrency-christmas-jumper-donates-50-percent-of-its-profits-to-a-good-cause-and-i-still-dont-want-it)
- - [Steampunk CRPG New Arc Line turned me into a murderous, drug-addled inventor with a giant assistant, and despite its rough edges it won me over](https://www.pcgamer.com/games/rpg/steampunk-crpg-new-arc-line-turned-me-into-a-murderous-drug-addled-inventor-with-a-giant-assistant-and-despite-its-rough-edges-it-won-me-over)<!-- GAME:END -->
+ - [Valve is adding an &#39;Extra competitive&#39; option to Deadlock that&#39;ll make matches harder, but only because everyone in this mode refuses to speak](https://www.pcgamer.com/games/moba/valve-is-adding-an-extra-competitive-option-to-deadlock-thatll-make-matches-harder-but-only-because-everyone-in-this-mode-refuses-to-speak)
+ - [Fortnite&#39;s New GTA-Inspired Lego Mode Is Out Later This Week](https://kotaku.com/gta-6-lego-fortnite-brick-life-roleplay-ps5-xbox-pc-1851716667)
+ - [Lego Fortnite’s new ‘social roleplay experience’ looks like a cute GTA Online](https://www.polygon.com/fortnite/492874/lego-fortnite-brick-life-trailer-gta-online)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
