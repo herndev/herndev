@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How to get Calm Thoughts in Infinity Nikki](https://www.polygon.com/infinity-nikki-guides/492933/calm-thoughts-how-to-get-use-unlock)
- - [Final Fantasy 14 Mobile’s first gameplay footage looks pretty dang clean](https://www.polygon.com/final-fantasy/492984/final-fantasy-14-ff14-mobile-gameplay-video-ios-android)
- - [Discoveries](https://www.polygon.com/gaming/24215620/new-things-to-play-watch-and-experience)<!-- GAME:END -->
+ - [Suicide Squad Fans Get Hyped For Deathstroke As Offline Mode Arrives With Final Season](https://kotaku.com/suicide-squad-offline-mode-deathstroke-season-4-1851715898)
+ - [Dauntless&#39;s launch on Steam has gone horribly, horribly wrong with overwhelmingly negative reviews: &#39;This update is easily, out of every game I&#39;ve ever played, the worst one I&#39;ve seen&#39;](https://www.pcgamer.com/games/action/dauntlesss-launch-on-steam-has-gone-horribly-horribly-wrong-with-overwhelmingly-negative-reviews-this-update-is-easily-out-of-every-game-ive-ever-played-the-worst-one-ive-seen)
+ - [How to respec in Path of Exile 2](https://www.polygon.com/path-exile-2-guide/492960/respec-how-to-poe2)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
