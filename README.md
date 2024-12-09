@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon&#39;s record-low AirPods 4 price is perfect for nailing down stocking stuffers](https://appleinsider.com/articles/24/12/06/amazons-record-low-airpods-4-price-is-perfect-for-nailing-down-stocking-stuffers?utm_medium=rss)
- - [Google Wallet is fixing it so you never have to worry about losing your passport](https://www.androidauthority.com/google-wallet-passport-3506634/)
- - [Microsoft Surface rumors point to a big Copilot Plus refresh next year](https://www.theverge.com/2024/12/6/24315105/microsoft-surface-pro-laptop-intel-lunar-lake-rumors)<!-- TECH:END -->
+ - [Trailers of the week: Star Trek, Severance, and Gundam](https://www.theverge.com/2024/12/8/24316520/trailers-of-the-week-star-trek-severance-gundam-the-gorge-wheel-of-time-invincible-gundam)
+ - [Bloomberg Intelligence: the Magnificent Seven&#39;s combined profit growth is projected to slow from 34% in 2024 to 18% in 2025, or just 3% if Nvidia is excluded &lpar;Jeran Wittenstein/Bloomberg&rpar;](http://www.techmeme.com/241208/p16#a241208p16)
+ - [Score a $20 Costco Gold Star Membership and Maximize Your Holiday Savings](https://www.cnet.com/deals/costco-gold-star-membership-stacksocial-deal/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
