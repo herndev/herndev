@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at Trump&#39;s potential collision course with the EU over its Big Tech crackdown: the EU targeting Elon Musk and X, Apple&#39;s and Meta&#39;s fines, and more &lpar;Bloomberg&rpar;](http://www.techmeme.com/241209/p9#a241209p9)
- - [YouTube Music now lets your friends jump straight to the song’s best part](https://www.androidauthority.com/youtube-music-timestamp-sharing-3506857/)
- - [Norway gets world&#39;s first Apple Pay alternative for iPhone](https://appleinsider.com/articles/24/12/09/norway-gets-worlds-first-apple-pay-alternative-for-iphone?utm_medium=rss)<!-- TECH:END -->
+ - [Ukrainian officials worry over Telegram, which has soared in popularity during the war with Russia, questioning if its upsides outweigh the its security risks &lpar;New York Times&rpar;](http://www.techmeme.com/241209/p14#a241209p14)
+ - [Surprising rumor says new HomePod will get high-quality OLED screen](https://appleinsider.com/articles/24/12/09/surprising-rumor-says-new-homepod-will-get-high-quality-oled-screen?utm_medium=rss)
+ - [48 Hours in Tokyo With My AI Travel Companion](https://www.wired.com/story/48-hours-in-tokyo-with-my-ai-travel-companion/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
