@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This sparks joy!](http://9gag.com/gag/aD2dv1B)
- - ⏩ [A high school football star spent six years in prison accused of a false rape charge, which was dismissed after his 16-year-old accuser admitted the incident had been fabricated. He became very emotional when the case was closed.](http://9gag.com/gag/a34E6Ze)
- - 👉 [They&#39;re so realistic](http://9gag.com/gag/a6ZEPOq)<!-- MEMES:END -->
+ - 💣 [Bridge Pillar Collapses](http://9gag.com/gag/a34EXnm)
+ - ⏩ [This sparks joy!](http://9gag.com/gag/aD2dv1B)
+ - 👉 [He done f*cked up.](http://9gag.com/gag/a2v765w)<!-- MEMES:END -->
 
 ---
 
