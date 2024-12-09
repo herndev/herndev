@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The best anime of 2024](https://www.polygon.com/what-to-watch/24074811/best-anime-2024)
- - [The 50 best TV shows of 2024](https://www.polygon.com/what-to-watch/24078257/best-tv-2024-shows-series)
- - [The 50 best movies of 2024](https://www.polygon.com/what-to-watch/24064917/best-movies-2024)<!-- GAME:END -->
+ - [Path of Exile 2 is great but it can&#39;t match the dopamine hit of a good Diablo 4 loot drop](https://www.pcgamer.com/games/rpg/path-of-exile-2-is-great-but-it-cant-match-the-dopamine-hit-of-a-good-diablo-4-loot-drop)
+ - [Path Of Exile 2 Already Has Major Nerfs After Just Three Days: &#39;It&#39;s Better To Do This Early&#39;](https://kotaku.com/path-exile-2-poe-slam-magnetic-salvo-gas-nerf-hotfix-1851716544)
+ - [Game Pass games are looking good at this year&#39;s Game Awards](https://www.pcgamer.com/games/game-pass-games-are-looking-good-at-this-years-game-awards)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
