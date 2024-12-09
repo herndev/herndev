@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [One little thing](http://9gag.com/gag/aNDp550)
- - ⏩ [That wishful look](http://9gag.com/gag/a4PEORw)
- - 👉 [This sparks joy!](http://9gag.com/gag/aD2dv1B)<!-- MEMES:END -->
+ - 💣 [Bro get in the car](http://9gag.com/gag/aXPoyjv)
+ - ⏩ [This sparks joy!](http://9gag.com/gag/aD2dv1B)
+ - 👉 [Oscar winner Olivia Colman](http://9gag.com/gag/amoPevX)<!-- MEMES:END -->
 
 ---
 
