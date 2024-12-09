@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [PSA: Verizon Message Plus shuts down today, time to switch to replacement apps](https://www.androidauthority.com/verizon-message-plus-final-shut-down-3506779/)
- - [A randomized study at a corporate lab employing more than 1,000 researchers: teams using AI discovered 44% more new materials than teams with standard workflows &lpar;Davide Castelvecchi/Nature&rpar;](http://www.techmeme.com/241208/p19#a241208p19)
- - [Today&#39;s NYT Mini Crossword Answers for Monday, Dec. 9](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-monday-dec-9/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Samsung could copy one of the Pixel’s best AI features](https://www.androidauthority.com/samsung-audio-eraser-feature-3506739/)
+ - [A study involving 747,604 women finds those who paid extra for AI-enhanced mammograms were 21% more likely to have breast cancer detected than those who didn&#39;t &lpar;Margherita Bassi/Gizmodo&rpar;](http://www.techmeme.com/241209/p1#a241209p1)
+ - [PSA: Verizon Message Plus shuts down today, time to switch to replacement apps](https://www.androidauthority.com/verizon-message-plus-final-shut-down-3506779/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
