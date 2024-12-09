@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Keira Knightley Thought That Love Actually Scene Was Creepy, Too](https://kotaku.com/keira-knightley-thought-that-love-actually-scene-was-cr-1851717049)
- - [Delta Force&#39;s large scale combat reminds me of Battlefield&#39;s very best](https://www.pcgamer.com/games/fps/delta-forces-large-scale-combat-reminds-me-of-battlefields-very-best)
- - [Where to find the ‘A Date to Remember’ code in Indiana Jones and the Great Circle](https://www.polygon.com/indiana-jones-great-circle-guide/492966/date-to-remember-code-combination-calendar)<!-- GAME:END -->
+ - [In a launch weekend already packed with Path of Exile 2 and Marvel Rivals players, Infinity Nikki has also claimed 10 million downloads](https://www.pcgamer.com/games/adventure/in-a-launch-weekend-already-packed-with-path-of-exile-2-and-marvel-rivals-players-infinity-nikki-has-also-claimed-10-million-downloads)
+ - [What we think will get announced at the Game Awards 2024](https://www.polygon.com/game-awards-tga/493119/game-awards-2024-tgas-trailers-predictions-announcements-reveals)
+ - [Marvel Rivals is teaching everyone about the joy of Jeff The Land Shark](https://www.polygon.com/gaming/493135/marvel-rivals-jeff-the-land-shark)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
