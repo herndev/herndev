@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Bridge Pillar Collapses](http://9gag.com/gag/a34EXnm)
- - ⏩ [This sparks joy!](http://9gag.com/gag/aD2dv1B)
- - 👉 [He done f*cked up.](http://9gag.com/gag/a2v765w)<!-- MEMES:END -->
+ - 💣 [This is what being very rich looks like](http://9gag.com/gag/a5QE40O)
+ - ⏩ [The brown eyed monster](http://9gag.com/gag/aXPoOmb)
+ - 👉 [Bridge Pillar Collapses](http://9gag.com/gag/a34EXnm)<!-- MEMES:END -->
 
 ---
 
