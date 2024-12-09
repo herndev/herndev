@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How Russia-linked Akira group&#39;s ransomware attack on Knights of Old in June 2023 led to the 158-year-old UK delivery firm&#39;s bankruptcy after it refused to pay &lpar;Ryan Gallagher/Bloomberg&rpar;](http://www.techmeme.com/241209/p2#a241209p2)
- - [Samsung could copy one of the Pixel’s best AI features](https://www.androidauthority.com/samsung-audio-eraser-feature-3506739/)
- - [A study involving 747,604 women finds those who paid extra for AI-enhanced mammograms were 21% more likely to have breast cancer detected than those who didn&#39;t &lpar;Margherita Bassi/Gizmodo&rpar;](http://www.techmeme.com/241209/p1#a241209p1)<!-- TECH:END -->
+ - [GroupM: global ad industry revenue will hit $1T for the first time in 2024; Google, Meta, ByteDance, Amazon, and Alibaba are expected to earn 50%+ of the total &lpar;Daniel Thomas/Financial Times&rpar;](http://www.techmeme.com/241209/p3#a241209p3)
+ - [No Wi-Fi, no problem: Apple could bring cellular support to Macs](https://www.androidauthority.com/apple-cellular-support-macs-xr-3506797/)
+ - [Start saving: iPhone 18 Pro could introduce a major price hike](https://www.androidauthority.com/iphone-18-pro-price-hike-rumor-3506790/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
