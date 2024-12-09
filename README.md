@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Yeah bud copyright your shitty wannabe meme I&#39;m sure it will go viral](http://9gag.com/gag/aNDp850)
- - ⏩ [World\u2019s fastest drag racer hits 580kmph &lpar;360mph&rpar; in just 3 seconds](http://9gag.com/gag/apRNzAW)
- - 👉 [I hope nothing bad happened.](http://9gag.com/gag/a34EzW7)<!-- MEMES:END -->
+ - 💣 [Syrians are celebrating the new regime in Syria, when are they going back? That&#39;s Dortmund.](http://9gag.com/gag/an7QmKn)
+ - ⏩ [Don&#39;t ignore!](http://9gag.com/gag/azxMpDB)
+ - 👉 [Syrians celebrating in Warsaw Poland.](http://9gag.com/gag/aVv7pLM)<!-- MEMES:END -->
 
 ---
 
