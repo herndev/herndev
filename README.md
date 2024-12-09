@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Syrians are celebrating the new regime in Syria, when are they going back? That&#39;s Dortmund.](http://9gag.com/gag/an7QmKn)
- - ⏩ [Don&#39;t ignore!](http://9gag.com/gag/azxMpDB)
- - 👉 [Syrians celebrating in Warsaw Poland.](http://9gag.com/gag/aVv7pLM)<!-- MEMES:END -->
+ - 💣 [Well they get paid either way except I dont get looked at like I am a filth](http://9gag.com/gag/aAyb599)
+ - ⏩ [Oscar winner Olivia Colman](http://9gag.com/gag/amoPevX)
+ - 👉 [Performing with an oxygen tank at 23yrs old is diabetical](http://9gag.com/gag/ajPmwGG)<!-- MEMES:END -->
 
 ---
 
