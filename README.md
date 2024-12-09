@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Infinity Nikki players have gone full-on Dark Souls by using the photo mode to leave puzzle hints and quiz answers for each other](https://www.pcgamer.com/games/adventure/infinity-nikki-players-have-gone-full-on-dark-souls-by-using-the-photo-mode-to-leave-puzzle-hints-and-quiz-answers-for-each-other)
- - [Arctic&#39;s new fan-cooled fans might be for servers but I want a gaming rig full of them for the ultimate cooling kudos](https://www.pcgamer.com/hardware/cooling/arctics-new-fan-cooled-fans-might-be-for-servers-but-i-want-a-gaming-rig-full-of-them-for-the-ultimate-cooling-kudos)
- - [How to get medallions in Fortnite Chapter 6 Season 1](https://www.polygon.com/fortnite-guide/488271/medallion-locations-chapter-6)<!-- GAME:END -->
+ - [iFixit is listing some genuine Microsoft Xbox parts for up to $700, 40% more than the price of a new Xbox Series X 1 TB](https://www.pcgamer.com/hardware/ifixit-is-listing-some-genuine-microsoft-xbox-parts-for-up-to-usd700-40-percent-more-than-the-price-of-a-new-xbox-series-x-1-tb)
+ - [Indie games site Itch.io temporarily taken down by Funko, due to &#39;AI-powered&#39; brand protection company that &#39;created some bogus phishing report&#39;](https://www.pcgamer.com/gaming-industry/indie-games-site-itch-io-temporarily-taken-down-by-funko-due-to-ai-powered-brand-protection-company-that-created-some-bogus-phishing-report)
+ - [Infinity Nikki players have gone full-on Dark Souls by using the photo mode to leave puzzle hints and quiz answers for each other](https://www.pcgamer.com/games/adventure/infinity-nikki-players-have-gone-full-on-dark-souls-by-using-the-photo-mode-to-leave-puzzle-hints-and-quiz-answers-for-each-other)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
