@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Filing: TikTok asks a US court to put on hold a law forcing a sale or ban of the app until SCOTUS can review it and the Trump admin can decide its position &lpar;Sabrina Willmer/Bloomberg&rpar;](http://www.techmeme.com/241209/p18#a241209p18)
- - [Here&#39;s where to get Apple&#39;s M3 MacBook Air 16GB for $899 with delivery by Christmas](https://appleinsider.com/articles/24/12/09/heres-where-to-get-apples-m3-macbook-air-16gb-for-899-with-delivery-by-christmas?utm_medium=rss)
- - [&#39;Slow Horses&#39; and &#39;Disclaimer&#39; lead Apple&#39;s Golden Globes nominations](https://appleinsider.com/articles/24/12/09/slow-horses-and-disclaimer-lead-apples-golden-globes-nominations?utm_medium=rss)<!-- TECH:END -->
+ - [Verizon, AT&amp;T, and T-mobile’s entry plans may cost your more for worse prioritization than prepaid](https://www.androidauthority.com/big-carrier-entry-plan-vs-prepaid-3504305/)
+ - [Here’s how you’ll access Search’s upcoming AI Mode &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-search-ai-mode-button-shortcut-apk-teardown-3506926/)
+ - [Reddit Answers is Reddit’s answer to Google AI Overviews](https://www.androidauthority.com/reddit-answers-launched-3506940/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
