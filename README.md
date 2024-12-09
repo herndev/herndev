@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The brown eyed monster](http://9gag.com/gag/aXPoOmb)
- - ⏩ [NeverEnding story horse goes zzz](http://9gag.com/gag/aLnpEdg)
- - 👉 [Stressed? F*#k off!](http://9gag.com/gag/agmBWex)<!-- MEMES:END -->
+ - 💣 [Daniel Penny](http://9gag.com/gag/a0e72GZ)
+ - ⏩ [Oscar winner Olivia Colman](http://9gag.com/gag/amoPevX)
+ - 👉 [Octopus, Octopus](http://9gag.com/gag/a7oExeq)<!-- MEMES:END -->
 
 ---
 
