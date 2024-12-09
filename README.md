@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Bridge Pillar Collapses](http://9gag.com/gag/a34EXnm)
- - ⏩ [Easy mode](http://9gag.com/gag/aKG650j)
- - 👉 [That wishful look](http://9gag.com/gag/a4PEORw)<!-- MEMES:END -->
+ - 💣 [One little thing](http://9gag.com/gag/aNDp550)
+ - ⏩ [That wishful look](http://9gag.com/gag/a4PEORw)
+ - 👉 [This sparks joy!](http://9gag.com/gag/aD2dv1B)<!-- MEMES:END -->
 
 ---
 
