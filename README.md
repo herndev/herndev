@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [He done f*cked up.](http://9gag.com/gag/a2v765w)
- - ⏩ [Mark Rober video exposing Indian call centers showed several of the scammers using 9gag!](http://9gag.com/gag/a87ERN1)
- - 👉 [The TRUE nice guy! \ud83d\udc95](http://9gag.com/gag/aPA3E3G)<!-- MEMES:END -->
+ - 💣 [Bridge Pillar Collapses](http://9gag.com/gag/a34EXnm)
+ - ⏩ [Easy mode](http://9gag.com/gag/aKG650j)
+ - 👉 [That wishful look](http://9gag.com/gag/a4PEORw)<!-- MEMES:END -->
 
 ---
 
