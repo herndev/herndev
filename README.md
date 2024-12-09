@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Gemini is getting closer to letting you talk with it in more than one language &lpar;APK teardown&rpar;](https://www.androidauthority.com/gemini-second-language-support-3507002/)
- - [Find Out the Best Time of Day to Exercise for Your Lifestyle](https://www.cnet.com/health/fitness/find-the-best-time-of-day-to-exercise/#ftag=CAD590a51e)
- - [&#39;Red One&#39; Streaming on Prime Video: Release Date and Time](https://www.cnet.com/tech/services-and-software/red-one-streaming-on-prime-video-release-date-and-time/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [In a mockup posted on GitHub, Bluesky teases Bluesky+, a $8 per month paid subscription offering profile customizations, higher video upload limits, and more &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/241209/p24#a241209p24)
+ - [Monument Valley 3 comes to Netflix with an iconoclastic edge](https://www.theverge.com/2024/12/9/24317107/monument-valley-3-netflix-launch-ustwo-games-interview)
+ - [Apple shares second release candidates for iOS 18.2, macOS Sequoia 15.2](https://appleinsider.com/articles/24/12/09/apple-shares-second-release-candidates-for-ios-182-macos-sequoia-152?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
