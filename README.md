@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Oscar winner Olivia Colman](http://9gag.com/gag/amoPevX)
+ - 💣 [RGB detector built-in](http://9gag.com/gag/aXPoOqg)
  - ⏩ [I stole it, maybe repost but great quality](http://9gag.com/gag/aE0p9w9)
- - 👉 [Bridge Pillar Collapses](http://9gag.com/gag/a34EXnm)<!-- MEMES:END -->
+ - 👉 [Hubba Hubba Hubba Aunty May](http://9gag.com/gag/aGypQow)<!-- MEMES:END -->
 
 ---
 
