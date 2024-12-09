@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Sanxyra](http://9gag.com/gag/adB8DoZ)
+ - 💣 [He done f*cked up.](http://9gag.com/gag/a2v765w)
  - ⏩ [Mark Rober video exposing Indian call centers showed several of the scammers using 9gag!](http://9gag.com/gag/a87ERN1)
- - 👉 [You thought you knew what a favela looked like...](http://9gag.com/gag/azxMwej)<!-- MEMES:END -->
+ - 👉 [The TRUE nice guy! \ud83d\udc95](http://9gag.com/gag/aPA3E3G)<!-- MEMES:END -->
 
 ---
 
