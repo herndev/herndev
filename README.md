@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The brown eyed monster](http://9gag.com/gag/aXPoOmb)
- - ⏩ [Sorry for the cancer, but someone finaly did it !](http://9gag.com/gag/aXPo6V9)
- - 👉 [Mark Rober video exposing Indian call centers showed several of the scammers using 9gag!](http://9gag.com/gag/a87ERN1)<!-- MEMES:END -->
+ - 💣 [Sanxyra](http://9gag.com/gag/adB8DoZ)
+ - ⏩ [Mark Rober video exposing Indian call centers showed several of the scammers using 9gag!](http://9gag.com/gag/a87ERN1)
+ - 👉 [You thought you knew what a favela looked like...](http://9gag.com/gag/azxMwej)<!-- MEMES:END -->
 
 ---
 
