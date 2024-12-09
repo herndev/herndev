@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Today&#39;s Wordle answer for Monday, December 9](https://www.pcgamer.com/games/puzzle/wordle-answer-today-december-9-2024)
- - [Skyrim Special Edition&#39;s Community Shaders mod just hit 1.0 and became an essential graphical upgrade](https://www.pcgamer.com/games/rpg/skyrim-special-editions-community-shaders-mod-just-hit-1-0-and-became-an-essential-graphical-overhaul)
- - [Five new Steam games you probably missed &lpar;December 9, 2024&rpar;](https://www.pcgamer.com/software/platforms/five-new-steam-games-you-probably-missed-december-9-2024)<!-- GAME:END -->
+ - [itch.io says it was taken down by Funko](https://www.polygon.com/gaming/492791/itch-io-funko-takedown)
+ - [Ubisoft has fixed some of the issues with Avatar, Outlaws and the Windows 11 24H2 update, but the big three Assassin&#39;s Creed are still borked](https://www.pcgamer.com/software/windows/ubisoft-has-fixed-some-of-the-issues-with-avatar-outlaws-and-the-windows-11-24h2-update-but-the-big-three-assassins-creed-are-still-borked)
+ - [How to get the safe code in Indiana Jones and the Great Circle](https://www.pcgamer.com/games/adventure/how-to-get-the-safe-code-in-indiana-jones-and-the-great-circle)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
