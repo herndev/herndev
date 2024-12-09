@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Relax buddy. You\u2019re in Japan](http://9gag.com/gag/aBy2AmD)
- - ⏩ [...](http://9gag.com/gag/ae9An2Q)
- - 👉 [These birds saw a person feed an injured bird, so they all started pretending to be injured as well.](http://9gag.com/gag/a4PEXvd)<!-- MEMES:END -->
+ - 💣 [Transformer girl](http://9gag.com/gag/aMVKoXX)
+ - ⏩ [Well they get paid either way except I dont get looked at like I am a filth](http://9gag.com/gag/aAyb599)
+ - 👉 [Bridge Pillar Collapses](http://9gag.com/gag/a34EXnm)<!-- MEMES:END -->
 
 ---
 
