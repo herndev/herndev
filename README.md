@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Verizon, AT&amp;T, and T-mobile’s entry plans may cost your more for worse prioritization than prepaid](https://www.androidauthority.com/big-carrier-entry-plan-vs-prepaid-3504305/)
- - [Here’s how you’ll access Search’s upcoming AI Mode &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-search-ai-mode-button-shortcut-apk-teardown-3506926/)
- - [Reddit Answers is Reddit’s answer to Google AI Overviews](https://www.androidauthority.com/reddit-answers-launched-3506940/)<!-- TECH:END -->
+ - [Friend’s AI chatbots have issues — and they want your help](https://www.theverge.com/2024/12/9/24315126/friend-pendant-artificial-intelligence-companionship-avi-schiffmann)
+ - [Gemini could soon become super powerful for Samsung apps with new extensions &lpar;APK teardown&rpar;](https://www.androidauthority.com/gemini-new-extensions-samsung-app-apk-teardown-3506987/)
+ - [Muscle Implants Could Allow Mind-Controlled Prosthetics—No Brain Surgery Required](https://www.wired.com/story/amputees-could-control-prosthetics-with-just-their-thoughts-no-brain-surgery-required-phantom-neuro/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
