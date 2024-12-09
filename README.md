@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Pay’s first competitor on the iPhone has arrived in Norway](https://www.theverge.com/2024/12/9/24317198/apple-pay-iphone-nfc-payment-vipps-norway)
- - [Samsung’s giving you more control over charging options in One UI 7](https://www.androidauthority.com/one-ui-7-battery-limit-3507063/)
- - [Police Arrest UHC CEO Shooting Suspect, App Developer Luigi Mangione](https://www.wired.com/story/luigi-mangione-arrested-uhc-shooting/)<!-- TECH:END -->
+ - [Google removes the limit on home screen Contacts widget &lpar;Updated&rpar;](https://www.androidauthority.com/google-contacts-widget-favorites-update-3481546/)
+ - [In New Trailer for &#39;Invincible&#39; Season 3, Mark Turns On His Boss](https://www.cnet.com/tech/services-and-software/in-new-trailer-for-invincible-season-3-mark-turns-on-his-boss/#ftag=CAD590a51e)
+ - [Oracle reports Q2 revenue up 9% YoY to $14.06B, vs. $14.1B est., says it made a deal with Meta for training Llama models on its cloud; ORCL down 6%+ after hours &lpar;Jonathan Vanian/CNBC&rpar;](http://www.techmeme.com/241209/p26#a241209p26)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
