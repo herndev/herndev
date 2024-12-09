@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [GroupM: global ad industry revenue will hit $1T for the first time in 2024; Google, Meta, ByteDance, Amazon, and Alibaba are expected to earn 50%+ of the total &lpar;Daniel Thomas/Financial Times&rpar;](http://www.techmeme.com/241209/p3#a241209p3)
- - [No Wi-Fi, no problem: Apple could bring cellular support to Macs](https://www.androidauthority.com/apple-cellular-support-macs-xr-3506797/)
- - [Start saving: iPhone 18 Pro could introduce a major price hike](https://www.androidauthority.com/iphone-18-pro-price-hike-rumor-3506790/)<!-- TECH:END -->
+ - [WhatsApp could start reminding you about the people you’re ghosting](https://www.androidauthority.com/whatsapp-reminders-unread-messages-3506813/)
+ - [Survey reveals most popular smartphone price bracket of 2024](https://www.androidauthority.com/smartphone-price-bracket-survey-results-3506820/)
+ - [Researchers say digital payments and cashless policies, which are picking up pace in the US, disadvantage a number of groups, including older adults &lpar;Paula Span/New York Times&rpar;](http://www.techmeme.com/241209/p4#a241209p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
