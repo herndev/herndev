@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Bro get in the car](http://9gag.com/gag/aXPoyjv)
- - ⏩ [This sparks joy!](http://9gag.com/gag/aD2dv1B)
- - 👉 [Oscar winner Olivia Colman](http://9gag.com/gag/amoPevX)<!-- MEMES:END -->
+ - 💣 [Stressed? F*#k off!](http://9gag.com/gag/agmBWex)
+ - ⏩ [The TRUE nice guy! \ud83d\udc95](http://9gag.com/gag/aPA3E3G)
+ - 👉 [No cap, they\u2019re dropping quack beats! \ud83e\udd86\ud83d\udca5](http://9gag.com/gag/aoyMb9A)<!-- MEMES:END -->
 
 ---
 
