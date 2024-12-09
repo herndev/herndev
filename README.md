@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Mark Rober video exposing Indian call centers showed several of the scammers using 9gag!](http://9gag.com/gag/a87ERN1)
- - ⏩ [Dark](http://9gag.com/gag/avy5w1q)
- - 👉 [Absolutely zero survival skills\ud83e\udd7a](http://9gag.com/gag/aqyjMOQ)<!-- MEMES:END -->
+ - 💣 [...](http://9gag.com/gag/ae9An2Q)
+ - ⏩ [Bro get in the car](http://9gag.com/gag/aXPoyjv)
+ - 👉 [Don&#39;t ignore!](http://9gag.com/gag/azxMpDB)<!-- MEMES:END -->
 
 ---
 
