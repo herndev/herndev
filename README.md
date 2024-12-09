@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at generative AI&#39;s impact, its structural issue of concentrated power among a few companies, and utopian questions over an alternative version of AI &lpar;Evgeny Morozov/Boston Review&rpar;](http://www.techmeme.com/241209/p5#a241209p5)
- - [Samsung could repeat its Galaxy Ring tactics with the XR glasses](https://www.androidauthority.com/samsung-could-repeat-its-galaxy-ring-tactics-with-the-xr-glasses-3506828/)
- - [Could the Best CD Rates Drop Below 4% After the Next Fed Meeting? Today&#39;s CD Rates. Dec. 9, 2024](https://www.cnet.com/personal-finance/banking/could-the-best-cd-rates-drop-below-4-after-the-next-fed-meeting-todays-cd-rates-dec-9-2024/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [A look at Trump&#39;s potential collision course with the EU over its Big Tech crackdown: the EU targeting Elon Musk and X, Apple&#39;s and Meta&#39;s fines, and more &lpar;Bloomberg&rpar;](http://www.techmeme.com/241209/p9#a241209p9)
+ - [YouTube Music now lets your friends jump straight to the song’s best part](https://www.androidauthority.com/youtube-music-timestamp-sharing-3506857/)
+ - [Norway gets world&#39;s first Apple Pay alternative for iPhone](https://appleinsider.com/articles/24/12/09/norway-gets-worlds-first-apple-pay-alternative-for-iphone?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
