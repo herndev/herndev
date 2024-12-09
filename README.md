@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Friend’s AI chatbots have issues — and they want your help](https://www.theverge.com/2024/12/9/24315126/friend-pendant-artificial-intelligence-companionship-avi-schiffmann)
- - [Gemini could soon become super powerful for Samsung apps with new extensions &lpar;APK teardown&rpar;](https://www.androidauthority.com/gemini-new-extensions-samsung-app-apk-teardown-3506987/)
- - [Muscle Implants Could Allow Mind-Controlled Prosthetics—No Brain Surgery Required](https://www.wired.com/story/amputees-could-control-prosthetics-with-just-their-thoughts-no-brain-surgery-required-phantom-neuro/)<!-- TECH:END -->
+ - [Gemini is getting closer to letting you talk with it in more than one language &lpar;APK teardown&rpar;](https://www.androidauthority.com/gemini-second-language-support-3507002/)
+ - [Find Out the Best Time of Day to Exercise for Your Lifestyle](https://www.cnet.com/health/fitness/find-the-best-time-of-day-to-exercise/#ftag=CAD590a51e)
+ - [&#39;Red One&#39; Streaming on Prime Video: Release Date and Time](https://www.cnet.com/tech/services-and-software/red-one-streaming-on-prime-video-release-date-and-time/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
