@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Stressed? F*#k off!](http://9gag.com/gag/agmBWex)
- - ⏩ [The TRUE nice guy! \ud83d\udc95](http://9gag.com/gag/aPA3E3G)
- - 👉 [No cap, they\u2019re dropping quack beats! \ud83e\udd86\ud83d\udca5](http://9gag.com/gag/aoyMb9A)<!-- MEMES:END -->
+ - 💣 [Mark Rober video exposing Indian call centers showed several of the scammers using 9gag!](http://9gag.com/gag/a87ERN1)
+ - ⏩ [Stressed? F*#k off!](http://9gag.com/gag/agmBWex)
+ - 👉 [One little thing](http://9gag.com/gag/aNDp550)<!-- MEMES:END -->
 
 ---
 
