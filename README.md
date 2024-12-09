@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [...](http://9gag.com/gag/ae9An2Q)
- - ⏩ [Bro get in the car](http://9gag.com/gag/aXPoyjv)
- - 👉 [Don&#39;t ignore!](http://9gag.com/gag/azxMpDB)<!-- MEMES:END -->
+ - 💣 [The brown eyed monster](http://9gag.com/gag/aXPoOmb)
+ - ⏩ [Sorry for the cancer, but someone finaly did it !](http://9gag.com/gag/aXPo6V9)
+ - 👉 [Mark Rober video exposing Indian call centers showed several of the scammers using 9gag!](http://9gag.com/gag/a87ERN1)<!-- MEMES:END -->
 
 ---
 
