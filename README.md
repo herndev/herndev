@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Love gone wrong](http://9gag.com/gag/aPA3bMG)
- - ⏩ [Transformer girl](http://9gag.com/gag/aMVKoXX)
- - 👉 [He done f*cked up.](http://9gag.com/gag/a2v765w)<!-- MEMES:END -->
+ - 💣 [Just a thought](http://9gag.com/gag/aAybjOL)
+ - ⏩ [Dogs are Angels](http://9gag.com/gag/aqyjqmj)
+ - 👉 [Syria today. The dictator is gone, long live the new dictator. Belgian cartoon](http://9gag.com/gag/aKG6RZ1)<!-- MEMES:END -->
 
 ---
 
