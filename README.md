@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [RGB detector built-in](http://9gag.com/gag/aXPoOqg)
- - ⏩ [I stole it, maybe repost but great quality](http://9gag.com/gag/aE0p9w9)
- - 👉 [Hubba Hubba Hubba Aunty May](http://9gag.com/gag/aGypQow)<!-- MEMES:END -->
+ - 💣 [Relax buddy. You\u2019re in Japan](http://9gag.com/gag/aBy2AmD)
+ - ⏩ [...](http://9gag.com/gag/ae9An2Q)
+ - 👉 [These birds saw a person feed an injured bird, so they all started pretending to be injured as well.](http://9gag.com/gag/a4PEXvd)<!-- MEMES:END -->
 
 ---
 
