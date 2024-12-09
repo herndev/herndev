@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [itch.io says it was taken down by Funko](https://www.polygon.com/gaming/492791/itch-io-funko-takedown)
- - [Ubisoft has fixed some of the issues with Avatar, Outlaws and the Windows 11 24H2 update, but the big three Assassin&#39;s Creed are still borked](https://www.pcgamer.com/software/windows/ubisoft-has-fixed-some-of-the-issues-with-avatar-outlaws-and-the-windows-11-24h2-update-but-the-big-three-assassins-creed-are-still-borked)
- - [How to get the safe code in Indiana Jones and the Great Circle](https://www.pcgamer.com/games/adventure/how-to-get-the-safe-code-in-indiana-jones-and-the-great-circle)<!-- GAME:END -->
+ - [Infinity Nikki players have gone full-on Dark Souls by using the photo mode to leave puzzle hints and quiz answers for each other](https://www.pcgamer.com/games/adventure/infinity-nikki-players-have-gone-full-on-dark-souls-by-using-the-photo-mode-to-leave-puzzle-hints-and-quiz-answers-for-each-other)
+ - [Arctic&#39;s new fan-cooled fans might be for servers but I want a gaming rig full of them for the ultimate cooling kudos](https://www.pcgamer.com/hardware/cooling/arctics-new-fan-cooled-fans-might-be-for-servers-but-i-want-a-gaming-rig-full-of-them-for-the-ultimate-cooling-kudos)
+ - [How to get medallions in Fortnite Chapter 6 Season 1](https://www.polygon.com/fortnite-guide/488271/medallion-locations-chapter-6)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
