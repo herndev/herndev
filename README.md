@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Daniel Penny](http://9gag.com/gag/a0e72GZ)
- - ⏩ [Oscar winner Olivia Colman](http://9gag.com/gag/amoPevX)
- - 👉 [Octopus, Octopus](http://9gag.com/gag/a7oExeq)<!-- MEMES:END -->
+ - 💣 [Love gone wrong](http://9gag.com/gag/aPA3bMG)
+ - ⏩ [Transformer girl](http://9gag.com/gag/aMVKoXX)
+ - 👉 [He done f*cked up.](http://9gag.com/gag/a2v765w)<!-- MEMES:END -->
 
 ---
 
