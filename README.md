@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Witcher 3 modders just upended everything we know about how it was made with a 584-page breakdown of an early prototype that had a 150-hour main quest, all thanks to a database &#39;containing almost every single line of text&#39; from its development](https://www.pcgamer.com/games/the-witcher/witcher-3-modders-just-upended-everything-we-know-about-how-it-was-made-with-a-584-page-breakdown-of-an-early-prototype-that-had-a-150-hour-main-quest-all-thanks-to-a-database-containing-almost-every-single-line-of-text-from-its-development)
- - [Uncle Chop&#39;s Rocket Shop is a spaceship repair roguelite with excellent animation and a naughty sense of humor](https://www.pcgamer.com/games/sim/uncle-chops-rocket-shop-is-a-spaceship-repair-roguelite-with-excellent-animation-and-a-naughty-sense-of-humor)
- - [If you have fond memories of Warhammer battle reports from antique issues of White Dwarf, here&#39;s a turn-based wargame that&#39;s basically just those](https://www.pcgamer.com/games/strategy/if-you-have-fond-memories-of-warhammer-battle-reports-from-antique-issues-of-white-dwarf-heres-a-turn-based-wargame-thats-basically-just-those)<!-- GAME:END -->
+ - [Five new Steam games you probably missed &lpar;December 9, 2024&rpar;](https://www.pcgamer.com/software/platforms/five-new-steam-games-you-probably-missed-december-9-2024)
+ - [Witcher 3 modders datamine a quest where Geralt would have teleported to Night City from Cyberpunk 2077: &#39;Technologically advanced, but broken. Dying.&#39;](https://www.pcgamer.com/games/the-witcher/witcher-3-modders-datamine-a-quest-where-geralt-would-have-teleported-to-night-city-from-cyberpunk-2077-technologically-advanced-but-broken-dying)
+ - [Witcher 3 modders just upended everything we know about how it was made with a 584-page breakdown of an early prototype that had a 150-hour main quest, all thanks to a database &#39;containing almost every single line of text&#39; from its development](https://www.pcgamer.com/games/the-witcher/witcher-3-modders-just-upended-everything-we-know-about-how-it-was-made-with-a-584-page-breakdown-of-an-early-prototype-that-had-a-150-hour-main-quest-all-thanks-to-a-database-containing-almost-every-single-line-of-text-from-its-development)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
