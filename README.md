@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [In a mockup posted on GitHub, Bluesky teases Bluesky+, a $8 per month paid subscription offering profile customizations, higher video upload limits, and more &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/241209/p24#a241209p24)
- - [Monument Valley 3 comes to Netflix with an iconoclastic edge](https://www.theverge.com/2024/12/9/24317107/monument-valley-3-netflix-launch-ustwo-games-interview)
- - [Apple shares second release candidates for iOS 18.2, macOS Sequoia 15.2](https://appleinsider.com/articles/24/12/09/apple-shares-second-release-candidates-for-ios-182-macos-sequoia-152?utm_medium=rss)<!-- TECH:END -->
+ - [AI is booming on the App Store, and developers are taking advantage of it](https://www.theverge.com/2024/12/9/24314972/apple-app-store-ai-apps-art-design-photography)
+ - [OpenAI says the depiction of minors is limited with Sora, and only a &quot;subset&quot; of users can create videos of a real person using uploaded footage of that person &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/241209/p25#a241209p25)
+ - [Google could give Gemini’s new compact overlay a more colorful look &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-gemini-overlay-colorful-3506958/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
