@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This is what being very rich looks like](http://9gag.com/gag/a5QE40O)
- - ⏩ [The brown eyed monster](http://9gag.com/gag/aXPoOmb)
- - 👉 [Bridge Pillar Collapses](http://9gag.com/gag/a34EXnm)<!-- MEMES:END -->
+ - 💣 [The brown eyed monster](http://9gag.com/gag/aXPoOmb)
+ - ⏩ [NeverEnding story horse goes zzz](http://9gag.com/gag/aLnpEdg)
+ - 👉 [Stressed? F*#k off!](http://9gag.com/gag/agmBWex)<!-- MEMES:END -->
 
 ---
 
