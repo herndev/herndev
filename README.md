@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Well they get paid either way except I dont get looked at like I am a filth](http://9gag.com/gag/aAyb599)
- - ⏩ [Oscar winner Olivia Colman](http://9gag.com/gag/amoPevX)
- - 👉 [Performing with an oxygen tank at 23yrs old is diabetical](http://9gag.com/gag/ajPmwGG)<!-- MEMES:END -->
+ - 💣 [Oscar winner Olivia Colman](http://9gag.com/gag/amoPevX)
+ - ⏩ [I stole it, maybe repost but great quality](http://9gag.com/gag/aE0p9w9)
+ - 👉 [Bridge Pillar Collapses](http://9gag.com/gag/a34EXnm)<!-- MEMES:END -->
 
 ---
 
