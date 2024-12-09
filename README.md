@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [iFixit is listing some genuine Microsoft Xbox parts for up to $700, 40% more than the price of a new Xbox Series X 1 TB](https://www.pcgamer.com/hardware/ifixit-is-listing-some-genuine-microsoft-xbox-parts-for-up-to-usd700-40-percent-more-than-the-price-of-a-new-xbox-series-x-1-tb)
- - [Indie games site Itch.io temporarily taken down by Funko, due to &#39;AI-powered&#39; brand protection company that &#39;created some bogus phishing report&#39;](https://www.pcgamer.com/gaming-industry/indie-games-site-itch-io-temporarily-taken-down-by-funko-due-to-ai-powered-brand-protection-company-that-created-some-bogus-phishing-report)
- - [Infinity Nikki players have gone full-on Dark Souls by using the photo mode to leave puzzle hints and quiz answers for each other](https://www.pcgamer.com/games/adventure/infinity-nikki-players-have-gone-full-on-dark-souls-by-using-the-photo-mode-to-leave-puzzle-hints-and-quiz-answers-for-each-other)<!-- GAME:END -->
+ - [The best anime of 2024](https://www.polygon.com/what-to-watch/24074811/best-anime-2024)
+ - [The 50 best TV shows of 2024](https://www.polygon.com/what-to-watch/24078257/best-tv-2024-shows-series)
+ - [The 50 best movies of 2024](https://www.polygon.com/what-to-watch/24064917/best-movies-2024)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
