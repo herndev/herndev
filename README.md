@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [WhatsApp could start reminding you about the people you’re ghosting](https://www.androidauthority.com/whatsapp-reminders-unread-messages-3506813/)
- - [Survey reveals most popular smartphone price bracket of 2024](https://www.androidauthority.com/smartphone-price-bracket-survey-results-3506820/)
- - [Researchers say digital payments and cashless policies, which are picking up pace in the US, disadvantage a number of groups, including older adults &lpar;Paula Span/New York Times&rpar;](http://www.techmeme.com/241209/p4#a241209p4)<!-- TECH:END -->
+ - [A look at generative AI&#39;s impact, its structural issue of concentrated power among a few companies, and utopian questions over an alternative version of AI &lpar;Evgeny Morozov/Boston Review&rpar;](http://www.techmeme.com/241209/p5#a241209p5)
+ - [Samsung could repeat its Galaxy Ring tactics with the XR glasses](https://www.androidauthority.com/samsung-could-repeat-its-galaxy-ring-tactics-with-the-xr-glasses-3506828/)
+ - [Could the Best CD Rates Drop Below 4% After the Next Fed Meeting? Today&#39;s CD Rates. Dec. 9, 2024](https://www.cnet.com/personal-finance/banking/could-the-best-cd-rates-drop-below-4-after-the-next-fed-meeting-todays-cd-rates-dec-9-2024/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
