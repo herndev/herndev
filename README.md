@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone SE 4 rumored to get 48MP rear camera, OLED screen](https://appleinsider.com/articles/24/12/09/iphone-se-4-rumored-to-get-48mp-rear-camera-oled-screen?utm_medium=rss)
- - [These are the best discounts on Apple&#39;s MacBook Air for holiday gift-giving](https://appleinsider.com/articles/24/12/06/these-are-the-best-discounts-on-apples-macbook-air-for-holiday-gift-giving?utm_medium=rss)
- - [A look at Grand Theft Auto VI, set for release in 2025 after Rockstar started development in 2018, as Rockstar tries to improve its culture after the 2022 hack &lpar;Jason Schreier/Bloomberg&rpar;](http://www.techmeme.com/241209/p15#a241209p15)<!-- TECH:END -->
+ - [Filing: TikTok asks a US court to put on hold a law forcing a sale or ban of the app until SCOTUS can review it and the Trump admin can decide its position &lpar;Sabrina Willmer/Bloomberg&rpar;](http://www.techmeme.com/241209/p18#a241209p18)
+ - [Here&#39;s where to get Apple&#39;s M3 MacBook Air 16GB for $899 with delivery by Christmas](https://appleinsider.com/articles/24/12/09/heres-where-to-get-apples-m3-macbook-air-16gb-for-899-with-delivery-by-christmas?utm_medium=rss)
+ - [&#39;Slow Horses&#39; and &#39;Disclaimer&#39; lead Apple&#39;s Golden Globes nominations](https://appleinsider.com/articles/24/12/09/slow-horses-and-disclaimer-lead-apples-golden-globes-nominations?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
