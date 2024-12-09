@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [PSA: Verizon Message Plus shuts down today, time to switch to replacement apps](https://www.androidauthority.com/verizon-message-plus-final-shut-down-3506779/)
  - [A randomized study at a corporate lab employing more than 1,000 researchers: teams using AI discovered 44% more new materials than teams with standard workflows &lpar;Davide Castelvecchi/Nature&rpar;](http://www.techmeme.com/241208/p19#a241208p19)
- - [Today&#39;s NYT Mini Crossword Answers for Monday, Dec. 9](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-monday-dec-9/#ftag=CAD590a51e)
- - [Today&#39;s NYT Strands Hints, Answers and Help for Dec. 9, #281](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-dec-9-281/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Today&#39;s NYT Mini Crossword Answers for Monday, Dec. 9](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-monday-dec-9/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
