@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [&#39;I got slapped by CD Projekt&#39;: Doug Cockle says he doesn&#39;t actually know if Geralt is in The Witcher 4 or not, but the studio wants him to shut up about it](https://www.pcgamer.com/games/rpg/i-got-slapped-by-cd-projekt-doug-cockle-says-he-doesnt-actually-know-if-geralt-is-in-the-witcher-4-or-not-but-the-studio-wants-him-to-shut-up-about-it)
- - [Someone recreated the UnitedHealthcare CEO shooting in Cruelty Squad](https://www.polygon.com/pc/492886/cruelty-squad-mod-unitedhealthcare-ceo-shooting)
- - [Secret Level: The Kotaku Review](https://kotaku.com/secret-level-review-amazon-playstation-pac-man-mega-man-1851716804)<!-- GAME:END -->
+ - [How to get Calm Thoughts in Infinity Nikki](https://www.polygon.com/infinity-nikki-guides/492933/calm-thoughts-how-to-get-use-unlock)
+ - [Final Fantasy 14 Mobile’s first gameplay footage looks pretty dang clean](https://www.polygon.com/final-fantasy/492984/final-fantasy-14-ff14-mobile-gameplay-video-ios-android)
+ - [Discoveries](https://www.polygon.com/gaming/24215620/new-things-to-play-watch-and-experience)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
