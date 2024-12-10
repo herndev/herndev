@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Mess around and find out](http://9gag.com/gag/axyMxv1)
- - ⏩ [Like a robot](http://9gag.com/gag/ajPmoLw)
- - 👉 [Bro what?](http://9gag.com/gag/adB8ZV2)<!-- MEMES:END -->
+ - 💣 [Guys! believe us! he is not a SCAPEGOAT!! -fbi](http://9gag.com/gag/a2v7QO1)
+ - ⏩ [Wife material](http://9gag.com/gag/ae9AX0v)
+ - 👉 [Luigi Mangione, suspect in C.E.O. killing, photographed in his holding cell after being charged with murder](http://9gag.com/gag/aD2dBjd)<!-- MEMES:END -->
 
 ---
 
