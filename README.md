@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I understood that reference... Both of them](http://9gag.com/gag/azxMNxb)
- - ⏩ [Boyfriend surprises his girlfriend with a wonderful reunion with her parents after being apart for so long](http://9gag.com/gag/ayNMONM)
- - 👉 [Logic is good.](http://9gag.com/gag/a9yEQNZ)<!-- MEMES:END -->
+ - 💣 [Luigi Mangione, suspect in C.E.O. killing, photographed in his holding cell after being charged with murder](http://9gag.com/gag/aD2dBjd)
+ - ⏩ [Bro what?](http://9gag.com/gag/adB8ZV2)
+ - 👉 [Storytime](http://9gag.com/gag/aBy2p3Q)<!-- MEMES:END -->
 
 ---
 
