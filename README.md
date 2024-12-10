@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Instagram will let creators test experimental reels on random people](https://www.theverge.com/2024/12/10/24317762/instagram-trial-reels-test-feature-availability)
- - [Taylor Swift wasn’t one of Google’s top trending musicians of 2024. Here’s why](https://www.androidauthority.com/google-year-in-search-2024-3507320/)
- - [California could become the first state to require social media warning labels](https://www.theverge.com/2024/12/10/24317835/california-social-media-warning-labels-bill)<!-- TECH:END -->
+ - [The best deals on MacBooks right now](https://www.theverge.com/22399419/apple-macbook-air-pro-mac-mini-imac-deals)
+ - [Every smart home device that works with Matter](https://www.theverge.com/23568091/matter-compatible-devices-accessories-apple-amazon-google-samsung)
+ - [Instagram officially rolls out &quot;trial reels&quot;, which give creators a way to test out videos by publishing them only to people who don&#39;t follow them &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/241210/p14#a241210p14)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
