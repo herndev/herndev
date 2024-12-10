@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [These Emoji Kitchen changes take the guesswork out of creating new reactions](https://www.androidauthority.com/emoji-kitchen-changes-3507225/)
- - [The base Galaxy S25 could have the same amount of storage as 2019’s S10e](https://www.androidauthority.com/samsung-galaxy-s25-series-storage-leak-3507228/)
- - [KitchenAid Promo Codes and Coupons: 15% Off in December](https://www.wired.com/story/exclusive-kitchenaid-promo-code/)<!-- TECH:END -->
+ - [This GBA clone improves the best handheld ever made](https://www.androidauthority.com/anbernic-rg-34xx-gba-3507247/)
+ - [Unlike Galaxy AI, future Apple Intelligence features could remain free](https://www.androidauthority.com/apple-intelligence-could-stay-free-3507241/)
+ - [Parents and school staff say student activity monitoring software that aims to intercept self-harm before it happens, while helpful, has unintended consequences &lpar;Ellen Barry/New York Times&rpar;](http://www.techmeme.com/241210/p3#a241210p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
