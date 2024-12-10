@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Mark Rober video exposing Indian call centers showed several of the scammers using 9gag!](http://9gag.com/gag/a87ERN1)
- - ⏩ [Oscar winner Olivia Colman](http://9gag.com/gag/amoPevX)
- - 👉 [How is this even possible!](http://9gag.com/gag/aZZ0e4X)<!-- MEMES:END -->
+ - 💣 [No more](http://9gag.com/gag/a7oE43m)
+ - ⏩ [The way this food vendor cuts and debones the chicken.](http://9gag.com/gag/a4PEDNA)
+ - 👉 [Based](http://9gag.com/gag/aQzo0Bw)<!-- MEMES:END -->
 
 ---
 
