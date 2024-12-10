@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [YouTube rolls out its auto-dubbing feature, which generates translated audio tracks, to hundreds of thousands of channels focused on knowledge and information &lpar;Lauren Forristal/TechCrunch&rpar;](http://www.techmeme.com/241210/p19#a241210p19)
- - [You can still get the Apple iPad 10th Generation for just $249.99!](https://www.androidauthority.com/apple-ipad-10th-generation-deal-3-3507440/)
- - [Google’s future data centers will be built next to solar and wind farms](https://www.theverge.com/2024/12/10/24317888/googles-data-center-solar-wind-renewable-energy-intersect-partnership)<!-- TECH:END -->
+ - [YouTube’s AI-powered dubbing is now available to many more creators](https://www.theverge.com/2024/12/10/24318309/youtube-partners-ai-auto-dubbing-translation-knowledge-information-videos)
+ - [The YouTube Kids mobile app gets a redesign that makes it look more like the standard YouTube app and lets users browse through videos in portrait mode &lpar;Quentyn Kennemer/The Verge&rpar;](http://www.techmeme.com/241210/p20#a241210p20)
+ - [Schlage is first in line to support Google Wallet’s new Wear OS keyless entry](https://www.androidauthority.com/google-wallet-wear-os-keyless-entry-3507481/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
