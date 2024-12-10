@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [From Tabletop to Desktop – How Total War: Warhammer Created 100 Legendary Lords](https://news.xbox.com/en-us/2024/12/10/from-tabletop-to-desktop-how-total-war-warhammer-created-100-legendary-lords/)
- - [Space Marine 2&amp;#8217;s Secret Level episode is the bolter porn we crave](https://www.polygon.com/tv/493074/amazon-secret-level-space-marine-40k-episode-know-no-fear-titus)
- - [Humble has brought back its ultra-meaty RPG bundle with Warhammer 40k: Rogue Trader and its 2,000+ &#39;Overwhelmingly Positive&#39; recent Steam reviews, plus OG Baldur&#39;s Gate and Pathfinder](https://www.pcgamer.com/games/rpg/humble-has-brought-back-its-ultra-meaty-rpg-bundle-with-warhammer-40k-rogue-trader-and-its-2-000-overwhelmingly-positive-recent-steam-reviews-plus-og-baldurs-gate-and-pathfinder)<!-- GAME:END -->
+ - [Suspect apprehended in UHC shooting was former Firaxis Games intern](https://www.polygon.com/news/493418/uhc-shooter-shooting-suspect-luigi-mangione-arrest-firaxis-games)
+ - [Henry Cavill&#39;s Warhammer 40K cinematic universe signs on the line with Amazon and he&#39;s over the moon: &#39;A fantastic place to start our Universe&#39;](https://www.pcgamer.com/hardware/streaming/henry-cavills-warhammer-40k-cinematic-universe-signs-on-the-line-with-amazon-and-hes-over-the-moon-a-fantastic-place-to-start-our-universe)
+ - [Indiana Jones And The Great Circle: The Kotaku Review](https://kotaku.com/indiana-jones-great-circle-review-is-it-good-pc-xbox-1851717174)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
