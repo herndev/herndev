@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Cyberpunk 2077 just got a whole bunch of new ways to customize your character](https://www.theverge.com/2024/12/10/24318015/cyberpunk-2077-character-creator-car-customize-photo-mode)
- - [Google Docs adds 40 new templates to spruce up your documents](https://www.theverge.com/2024/12/10/24317958/google-docs-40-new-templates-launch)
- - [Amazon’s ever-expanding empire now includes cars sales](https://www.androidauthority.com/amazon-auto-launch-3507341/)<!-- TECH:END -->
+ - [Google’s new tool for Docs is a lazy writer’s dream come true](https://www.androidauthority.com/google-docs-help-me-create-3507396/)
+ - [If you absolutely must sing along with Wicked, do it here](https://www.theverge.com/2024/12/10/24318074/wicked-sing-along-screenings-premiere-date)
+ - [&#39;Resident Evil 2&#39; lands early on Mac, iPad, and iPhone](https://appleinsider.com/articles/24/12/10/resident-evil-2-lands-early-on-mac-ipad-and-iphone?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
