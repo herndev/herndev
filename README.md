@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google’s new tool for Docs is a lazy writer’s dream come true](https://www.androidauthority.com/google-docs-help-me-create-3507396/)
- - [If you absolutely must sing along with Wicked, do it here](https://www.theverge.com/2024/12/10/24318074/wicked-sing-along-screenings-premiere-date)
- - [&#39;Resident Evil 2&#39; lands early on Mac, iPad, and iPhone](https://appleinsider.com/articles/24/12/10/resident-evil-2-lands-early-on-mac-ipad-and-iphone?utm_medium=rss)<!-- TECH:END -->
+ - [Google Pixel 8a deal: Our favorite budget phone is even cheaper today](https://www.androidauthority.com/google-pixel-8a-deal-2-3507442/)
+ - [Sources: 2025&#39;s Apple Watch Ultra is slated to get satellite connectivity for off-the-grid text messages, and it may also get a blood pressure sensing feature &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/241210/p17#a241210p17)
+ - [&#39;High Potential&#39; Hiatus: When Does the Next Episode Come Out?](https://www.cnet.com/tech/services-and-software/high-potential-hiatus-when-does-the-next-episode-come-out/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
