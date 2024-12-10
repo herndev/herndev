@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Guys! believe us! he is not a SCAPEGOAT!! -fbi](http://9gag.com/gag/a2v7QO1)
- - ⏩ [Wife material](http://9gag.com/gag/ae9AX0v)
+ - 💣 [Wife material](http://9gag.com/gag/ae9AX0v)
+ - ⏩ [Father of The Year](http://9gag.com/gag/awyMwBW)
  - 👉 [Luigi Mangione, suspect in C.E.O. killing, photographed in his holding cell after being charged with murder](http://9gag.com/gag/aD2dBjd)<!-- MEMES:END -->
 
 ---
