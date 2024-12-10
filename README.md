@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Stability AI CEO Prem Akkaraju, who was hired in June 2024, says the startup has seen &quot;triple digit growth&quot; and has &quot;a clean balance sheet, no debt&quot; &lpar;Kali Hays/Fortune&rpar;](http://www.techmeme.com/241209/p30#a241209p30)
- - [How WhatsApp has evolved from a messaging app into a comprehensive business platform, aggressively luring businesses to its suite of paid messaging products &lpar;Issie Lapowsky/Rest of World&rpar;](http://www.techmeme.com/241209/p29#a241209p29)
- - [Poll result: A whole lot of you are very curious about going case-free with your smartphone](https://www.androidauthority.com/caseless-smartphone-3507185/)<!-- TECH:END -->
+ - [How to Edit property lists in Terminal](https://appleinsider.com/articles/24/12/10/how-to-edit-property-lists-in-terminal?utm_medium=rss)
+ - [A growing cohort of AI startups are recruiting scores of experts to train models on highly specialized tasks for sensitive sectors like defense and health care &lpar;Saritha Rai/Bloomberg&rpar;](http://www.techmeme.com/241209/p31#a241209p31)
+ - [Stability AI CEO Prem Akkaraju says the startup, now focused on its API and licensing, has seen &quot;triple digit growth&quot; and has &quot;a clean balance sheet, no debt&quot; &lpar;Kali Hays/Fortune&rpar;](http://www.techmeme.com/241209/p30#a241209p30)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
