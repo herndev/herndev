@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [China launches an antitrust investigation into Nvidia as it wrestles with the US over AI chip sanctions](https://www.pcgamer.com/hardware/china-launches-an-antitrust-investigation-into-nvidia-as-it-wrestles-with-the-us-over-ai-chip-sanctions)
  - [Suicide Squad: Kill the Justice League’s fourth season will be its last](https://www.polygon.com/gaming/493305/suicide-squad-kill-justice-league-final-dlc)
- - [Discoveries](https://www.polygon.com/gaming/24215620/new-things-to-play-watch-and-experience)
- - [First it was Counter-Strike, now it&#39;s GTA RP: Fortnite unveils LEGO Fortnite Brick Life, a &#39;social roleplay experience in the Lego Fortnite world&#39;](https://www.pcgamer.com/games/first-it-was-counter-strike-now-its-gta-rp-fortnite-unveils-lego-fortnite-brick-life-a-social-roleplay-experience-in-the-lego-fortnite-world)<!-- GAME:END -->
+ - [Discoveries](https://www.polygon.com/gaming/24215620/new-things-to-play-watch-and-experience)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
