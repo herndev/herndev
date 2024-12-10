@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Suicide Squad game’s final season is coming less than a year after launch](https://www.theverge.com/2024/12/9/24317407/suicide-squad-kill-the-justice-league-final-season-offline-mode)
- - [Google reveals quantum computing chip with ‘breakthrough’ achievements](https://www.theverge.com/2024/12/9/24317382/google-willow-quantum-computing-chip-breakthrough)
- - [Walking Pad](https://www.cnet.com/health/fitness/walking-pad2-dpnl/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [How WhatsApp has evolved from a messaging app into a comprehensive business platform, aggressively luring businesses to its suite of paid messaging products &lpar;Issie Lapowsky/Rest of World&rpar;](http://www.techmeme.com/241209/p29#a241209p29)
+ - [Poll result: A whole lot of you are very curious about going case-free with your smartphone](https://www.androidauthority.com/caseless-smartphone-3507185/)
+ - [All Google Pixel 9 series phones are on sale!](https://www.androidauthority.com/google-pixel-9-series-deals-3507091/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
