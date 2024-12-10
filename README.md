@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Star Wars: The Old Republic&#39;s big modernisation plan kicks off today, giving players an excuse to revisit old haunts](https://www.pcgamer.com/games/mmo/star-wars-the-old-republics-big-modernisation-plan-kicks-off-today-giving-players-an-excuse-to-revisit-old-haunts)
- - [The 28 Years Later trailer has way more Teletubbies and creepy poetry than I was expecting](https://www.polygon.com/movies/493438/the-28-years-later-trailer-has-way-more-teletubbies-and-creepy-poetry-than-i-was-expecting)
- - [Can Murkrow be shiny in Pokémon Go?](https://www.polygon.com/pokemon-go-guide/492859/can-murkrow-be-shiny-honchkrow)<!-- GAME:END -->
+ - [Ubisoft celebrates the reopening of Notre Dame by reminding you all that Assassin&#39;s Creed Unity was great, actually](https://www.pcgamer.com/games/assassins-creed/ubisoft-celebrates-the-reopening-of-notre-dame-by-reminding-you-all-that-assassins-creed-unity-was-great-actually)
+ - [Google&#39;s WIllow chip is a big leap towards usable quantum computing but its claim of beating a classical computer by a &#39;septillion years&#39; is meaningless](https://www.pcgamer.com/hardware/googles-willow-chip-is-a-big-leap-towards-usable-quantum-computing-but-its-claim-of-beating-a-classical-computer-by-a-septillion-years-is-meaningless)
+ - [Star Wars: The Old Republic&#39;s big modernisation plan kicks off today, giving players an excuse to revisit old haunts](https://www.pcgamer.com/games/mmo/star-wars-the-old-republics-big-modernisation-plan-kicks-off-today-giving-players-an-excuse-to-revisit-old-haunts)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
