@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Suspect apprehended in UHC shooting was former Firaxis Games intern](https://www.polygon.com/news/493418/uhc-shooter-shooting-suspect-luigi-mangione-arrest-firaxis-games)
  - [China launches an antitrust investigation into Nvidia as it wrestles with the US over AI chip sanctions](https://www.pcgamer.com/hardware/china-launches-an-antitrust-investigation-into-nvidia-as-it-wrestles-with-the-us-over-ai-chip-sanctions)
- - [Suicide Squad: Kill the Justice League’s fourth season will be its last](https://www.polygon.com/gaming/493305/suicide-squad-kill-justice-league-final-dlc)
- - [Discoveries](https://www.polygon.com/gaming/24215620/new-things-to-play-watch-and-experience)<!-- GAME:END -->
+ - [Suicide Squad: Kill the Justice League’s fourth season will be its last](https://www.polygon.com/gaming/493305/suicide-squad-kill-justice-league-final-dlc)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
