@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Flash deal: Apple&#39;s 2024 iPad Air M2 falls to all-time low $469](https://appleinsider.com/articles/24/12/10/flash-deal-apples-2024-ipad-air-m2-falls-to-all-time-low-469?utm_medium=rss)
- - [Solos challenges Meta’s Ray-Bans with $299 ChatGPT smart glasses](https://www.theverge.com/2024/12/10/24317805/solos-airgo-vision-chatgpt-ai-smart-glasses-price-availability)
- - [25 Great Gifts for Mom: Ideas for the Best Mother &lpar;2024&rpar;](https://www.wired.com/gallery/gifts-for-moms/)<!-- TECH:END -->
+ - [Instagram will let creators test experimental reels on random people](https://www.theverge.com/2024/12/10/24317762/instagram-trial-reels-test-feature-availability)
+ - [Taylor Swift wasn’t one of Google’s top trending musicians of 2024. Here’s why](https://www.androidauthority.com/google-year-in-search-2024-3507320/)
+ - [California could become the first state to require social media warning labels](https://www.theverge.com/2024/12/10/24317835/california-social-media-warning-labels-bill)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
