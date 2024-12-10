@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [They&#39;re so realistic](http://9gag.com/gag/a6ZEPOq)
- - ⏩ [Someone\u2019s always gotta ruin everyone\u2019s fun](http://9gag.com/gag/a2v7BwY)
- - 👉 [The TRUE nice guy! \ud83d\udc95](http://9gag.com/gag/aPA3E3G)<!-- MEMES:END -->
+ - 💣 [I understood that reference... Both of them](http://9gag.com/gag/azxMNxb)
+ - ⏩ [This is what being very rich looks like](http://9gag.com/gag/a5QE40O)
+ - 👉 [Dogs are Angels](http://9gag.com/gag/aqyjqmj)<!-- MEMES:END -->
 
 ---
 
