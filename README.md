@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Expect The Game Awards to be big this year: here&#39;s what&#39;s confirmed to show up](https://www.pcgamer.com/games/the-game-awards-2024-when-to-watch)
- - [Avatar Is Getting The PS5 Pro Option Players Have Been Begging For](https://kotaku.com/avatar-frontiers-pandora-ps5-pro-pssr-hotfix-turn-off-1851717966)
- - [Forget inheriting a dumpy old farm: your cool uncle left you a &#39;seaplane delivery service&#39; in this open world life sim](https://www.pcgamer.com/games/life-sim/forget-inheriting-a-dumpy-old-farm-your-cool-uncle-left-you-a-seaplane-delivery-service-in-this-open-world-life-sim)<!-- GAME:END -->
+ - [Doctor Strange mains are using portals to trick entire Marvel Rivals teams into jumping off a cliff](https://www.pcgamer.com/games/third-person-shooter/doctor-strange-mains-are-using-portals-to-trick-entire-marvel-rivals-teams-into-jumping-off-a-cliff)
+ - [Where to find the ‘Cloud Atlas’ chest code in Indiana Jones and the Great Circle](https://www.polygon.com/indiana-jones-great-circle-guide/493656/cloud-atlas-chest-code-solution)
+ - [Where to find the ‘Bright Future’ chest code in Indiana Jones and the Great Circle](https://www.polygon.com/indiana-jones-great-circle-guide/494017/bright-future-chest-code-solution-location)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
