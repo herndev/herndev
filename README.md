@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I understood that reference... Both of them](http://9gag.com/gag/azxMNxb)
- - ⏩ [How does DC motor work ??](http://9gag.com/gag/a4PEvEA)
- - 👉 [Boyfriend surprises his girlfriend with a wonderful reunion with her parents after being apart for so long](http://9gag.com/gag/ayNMONM)<!-- MEMES:END -->
+ - 💣 [He told them](http://9gag.com/gag/a1mrz92)
+ - ⏩ [Like a robot](http://9gag.com/gag/ajPmoLw)
+ - 👉 [The media bending over backwards to control the narrative while the house of cards collapse...](http://9gag.com/gag/an7QAeb)<!-- MEMES:END -->
 
 ---
 
