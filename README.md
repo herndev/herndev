@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I understood that reference... Both of them](http://9gag.com/gag/azxMNxb)
- - ⏩ [This is what being very rich looks like](http://9gag.com/gag/a5QE40O)
- - 👉 [Dogs are Angels](http://9gag.com/gag/aqyjqmj)<!-- MEMES:END -->
+ - 💣 [Oscar winner Olivia Colman](http://9gag.com/gag/amoPevX)
+ - ⏩ [Mess around and find out](http://9gag.com/gag/axyMxv1)
+ - 👉 [Peek a Boo!](http://9gag.com/gag/aKG6rpg)<!-- MEMES:END -->
 
 ---
 
