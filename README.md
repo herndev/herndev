@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Storytime](http://9gag.com/gag/aBy2p3Q)
+ - 💣 [Father of The Year](http://9gag.com/gag/awyMwBW)
  - ⏩ [Even the rain knows not to disrespect an anime beauty.](http://9gag.com/gag/axyMLeK)
- - 👉 [Oscar winner Olivia Colman](http://9gag.com/gag/amoPevX)<!-- MEMES:END -->
+ - 👉 [This is what being very rich looks like](http://9gag.com/gag/a5QE40O)<!-- MEMES:END -->
 
 ---
 
