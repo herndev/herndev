@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meet the Conspiracy Filmmaker Who Claims to Have Red-Pilled Tulsi Gabbard](https://www.wired.com/story/mikki-willis-tulsi-gabbard-red-pilled-plandemic/)
- - [Apple Watch Ultra 3 could set new connectivity goals for adventure-ready wearables](https://www.androidauthority.com/apple-watch-ultra-satellite-texting-3507464/)
- - [How to free up space on a Windows PC](https://www.theverge.com/24318085/windows-microsoft-pc-storage-how-to)<!-- TECH:END -->
+ - [YouTube rolls out its auto-dubbing feature, which generates translated audio tracks, to hundreds of thousands of channels focused on knowledge and information &lpar;Lauren Forristal/TechCrunch&rpar;](http://www.techmeme.com/241210/p19#a241210p19)
+ - [You can still get the Apple iPad 10th Generation for just $249.99!](https://www.androidauthority.com/apple-ipad-10th-generation-deal-3-3507440/)
+ - [Google’s future data centers will be built next to solar and wind farms](https://www.theverge.com/2024/12/10/24317888/googles-data-center-solar-wind-renewable-energy-intersect-partnership)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
