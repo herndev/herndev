@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best deals on MacBooks right now](https://www.theverge.com/22399419/apple-macbook-air-pro-mac-mini-imac-deals)
- - [Every smart home device that works with Matter](https://www.theverge.com/23568091/matter-compatible-devices-accessories-apple-amazon-google-samsung)
- - [Instagram officially rolls out &quot;trial reels&quot;, which give creators a way to test out videos by publishing them only to people who don&#39;t follow them &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/241210/p14#a241210p14)<!-- TECH:END -->
+ - [Cyberpunk 2077 just got a whole bunch of new ways to customize your character](https://www.theverge.com/2024/12/10/24318015/cyberpunk-2077-character-creator-car-customize-photo-mode)
+ - [Google Docs adds 40 new templates to spruce up your documents](https://www.theverge.com/2024/12/10/24317958/google-docs-40-new-templates-launch)
+ - [Amazon’s ever-expanding empire now includes cars sales](https://www.androidauthority.com/amazon-auto-launch-3507341/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
