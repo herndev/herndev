@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [KitchenAid Promo Codes and Coupons: 15% Off in December](https://www.wired.com/story/exclusive-kitchenaid-promo-code/)
- - [Dyson Promo Code: 20% Off in December 2024](https://www.wired.com/story/dyson-cordless-vacuum-promo-code/)
- - [A look at Vinted, a popular app in the EU for selling secondhand clothes, which went from a near collapse to worth &amp;euro;5B and plans a US expansion in coming years &lpar;Trefor Moss/Wall Street Journal&rpar;](http://www.techmeme.com/241210/p2#a241210p2)<!-- TECH:END -->
+ - [These Emoji Kitchen changes take the guesswork out of creating new reactions](https://www.androidauthority.com/emoji-kitchen-changes-3507225/)
+ - [The base Galaxy S25 could have the same amount of storage as 2019’s S10e](https://www.androidauthority.com/samsung-galaxy-s25-series-storage-leak-3507228/)
+ - [KitchenAid Promo Codes and Coupons: 15% Off in December](https://www.wired.com/story/exclusive-kitchenaid-promo-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
