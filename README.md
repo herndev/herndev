@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Ubisoft celebrates the reopening of Notre Dame by reminding you all that Assassin&#39;s Creed Unity was great, actually](https://www.pcgamer.com/games/assassins-creed/ubisoft-celebrates-the-reopening-of-notre-dame-by-reminding-you-all-that-assassins-creed-unity-was-great-actually)
- - [Google&#39;s WIllow chip is a big leap towards usable quantum computing but its claim of beating a classical computer by a &#39;septillion years&#39; is meaningless](https://www.pcgamer.com/hardware/googles-willow-chip-is-a-big-leap-towards-usable-quantum-computing-but-its-claim-of-beating-a-classical-computer-by-a-septillion-years-is-meaningless)
- - [Star Wars: The Old Republic&#39;s big modernisation plan kicks off today, giving players an excuse to revisit old haunts](https://www.pcgamer.com/games/mmo/star-wars-the-old-republics-big-modernisation-plan-kicks-off-today-giving-players-an-excuse-to-revisit-old-haunts)<!-- GAME:END -->
+ - [From Tabletop to Desktop – How Total War: Warhammer Created 100 Legendary Lords](https://news.xbox.com/en-us/2024/12/10/from-tabletop-to-desktop-how-total-war-warhammer-created-100-legendary-lords/)
+ - [Space Marine 2&amp;#8217;s Secret Level episode is the bolter porn we crave](https://www.polygon.com/tv/493074/amazon-secret-level-space-marine-40k-episode-know-no-fear-titus)
+ - [Humble has brought back its ultra-meaty RPG bundle with Warhammer 40k: Rogue Trader and its 2,000+ &#39;Overwhelmingly Positive&#39; recent Steam reviews, plus OG Baldur&#39;s Gate and Pathfinder](https://www.pcgamer.com/games/rpg/humble-has-brought-back-its-ultra-meaty-rpg-bundle-with-warhammer-40k-rogue-trader-and-its-2-000-overwhelmingly-positive-recent-steam-reviews-plus-og-baldurs-gate-and-pathfinder)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
