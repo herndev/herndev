@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Stability AI CEO Prem Akkaraju, who was hired in June 2024, says the startup has seen &quot;triple digit growth&quot; and has &quot;a clean balance sheet, no debt&quot; &lpar;Kali Hays/Fortune&rpar;](http://www.techmeme.com/241209/p30#a241209p30)
  - [How WhatsApp has evolved from a messaging app into a comprehensive business platform, aggressively luring businesses to its suite of paid messaging products &lpar;Issie Lapowsky/Rest of World&rpar;](http://www.techmeme.com/241209/p29#a241209p29)
- - [Poll result: A whole lot of you are very curious about going case-free with your smartphone](https://www.androidauthority.com/caseless-smartphone-3507185/)
- - [All Google Pixel 9 series phones are on sale!](https://www.androidauthority.com/google-pixel-9-series-deals-3507091/)<!-- TECH:END -->
+ - [Poll result: A whole lot of you are very curious about going case-free with your smartphone](https://www.androidauthority.com/caseless-smartphone-3507185/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
