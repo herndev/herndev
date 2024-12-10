@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [This is what being very rich looks like](http://9gag.com/gag/a5QE40O)
- - ⏩ [Freedom intensifies](http://9gag.com/gag/aBy2BbD)
- - 👉 [Oscar winner Olivia Colman](http://9gag.com/gag/amoPevX)<!-- MEMES:END -->
+ - ⏩ [Peek a Boo!](http://9gag.com/gag/aKG6rpg)
+ - 👉 [Storytime](http://9gag.com/gag/aBy2p3Q)<!-- MEMES:END -->
 
 ---
 
