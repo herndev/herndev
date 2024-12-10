@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Bro what?](http://9gag.com/gag/adB8ZV2)
- - ⏩ [The media bending over backwards to control the narrative while the house of cards collapse...](http://9gag.com/gag/an7QAeb)
- - 👉 [Storytime](http://9gag.com/gag/aBy2p3Q)<!-- MEMES:END -->
+ - 💣 [I understood that reference... Both of them](http://9gag.com/gag/azxMNxb)
+ - ⏩ [Boyfriend surprises his girlfriend with a wonderful reunion with her parents after being apart for so long](http://9gag.com/gag/ayNMONM)
+ - 👉 [Logic is good.](http://9gag.com/gag/a9yEQNZ)<!-- MEMES:END -->
 
 ---
 
