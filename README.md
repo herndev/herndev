@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Suspect apprehended in UHC shooting was former Firaxis Games intern](https://www.polygon.com/news/493418/uhc-shooter-shooting-suspect-luigi-mangione-arrest-firaxis-games)
- - [Henry Cavill&#39;s Warhammer 40K cinematic universe signs on the line with Amazon and he&#39;s over the moon: &#39;A fantastic place to start our Universe&#39;](https://www.pcgamer.com/hardware/streaming/henry-cavills-warhammer-40k-cinematic-universe-signs-on-the-line-with-amazon-and-hes-over-the-moon-a-fantastic-place-to-start-our-universe)
- - [Indiana Jones And The Great Circle: The Kotaku Review](https://kotaku.com/indiana-jones-great-circle-review-is-it-good-pc-xbox-1851717174)<!-- GAME:END -->
+ - [The best indie games of 2024](https://www.polygon.com/what-to-play/24151036/best-indie-games-2024)
+ - [Path Of Exile 2 Devs Agree About The RPG&#39;s Loot Problem](https://kotaku.com/path-of-exile-2-patch-notes-dodge-roll-rewards-mods-1851717522)
+ - [Path of Exile 2 devs respond to the cries of the loot-starved masses, buffing drops and promising more fixes in upcoming patches](https://www.pcgamer.com/games/rpg/path-of-exile-2-devs-respond-to-the-cries-of-the-loot-starved-masses-buffing-drops-and-promising-more-fixes-in-upcoming-patches)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
