@@ -47,7 +47,7 @@
 
 <!-- MEMES:START -->
  - 💣 [Mess around and find out](http://9gag.com/gag/axyMxv1)
- - ⏩ [How is this even possible!](http://9gag.com/gag/aZZ0e4X)
+ - ⏩ [I understood that reference... Both of them](http://9gag.com/gag/azxMNxb)
  - 👉 [Storytime](http://9gag.com/gag/aBy2p3Q)<!-- MEMES:END -->
 
 ---
