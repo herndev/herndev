@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Maximum Football: 3 Tips For Success](https://news.xbox.com/en-us/2024/12/10/maximum-football-3-tips-for-success/)
- - [Cyberpunk 2077&#39;s surprise new update lets Keanu ride shotgun through the streets of Night City and makes some PC-specific improvements—and it&#39;s out now](https://www.pcgamer.com/games/rpg/cyberpunk-2077s-surprise-new-update-lets-keanu-ride-shotgun-through-the-streets-of-night-city-and-makes-some-pc-specific-improvements-and-its-out-now)
- - [Pokémon Go ‘Young and Wise’ event guide](https://www.polygon.com/pokemon-go-guide/493614/young-wise-event-collection-challenge)<!-- GAME:END -->
+ - [Mental Health Affects us All – See the World from a New Perspective in Unwording](https://news.xbox.com/en-us/2024/12/10/the-world-from-a-new-perspective-in-unwording/)
+ - [All You Need to Know: Xbox Indie Game Fest Demo Event](https://news.xbox.com/en-us/2024/12/10/need-to-know-xbox-indie-game-fest-demo-event/)
+ - [Reminder to the media: Research video games before reporting on them](https://www.polygon.com/opinion/493536/luigi-mangione-among-us-news)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
