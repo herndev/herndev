@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Just a thought](http://9gag.com/gag/aAybjOL)
- - ⏩ [Dogs are Angels](http://9gag.com/gag/aqyjqmj)
- - 👉 [Syria today. The dictator is gone, long live the new dictator. Belgian cartoon](http://9gag.com/gag/aKG6RZ1)<!-- MEMES:END -->
+ - 💣 [This is what being very rich looks like](http://9gag.com/gag/a5QE40O)
+ - ⏩ [Freedom intensifies](http://9gag.com/gag/aBy2BbD)
+ - 👉 [Oscar winner Olivia Colman](http://9gag.com/gag/amoPevX)<!-- MEMES:END -->
 
 ---
 
