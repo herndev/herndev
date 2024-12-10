@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Oscar winner Olivia Colman](http://9gag.com/gag/amoPevX)
- - ⏩ [Mess around and find out](http://9gag.com/gag/axyMxv1)
- - 👉 [Peek a Boo!](http://9gag.com/gag/aKG6rpg)<!-- MEMES:END -->
+ - 💣 [Mark Rober video exposing Indian call centers showed several of the scammers using 9gag!](http://9gag.com/gag/a87ERN1)
+ - ⏩ [Oscar winner Olivia Colman](http://9gag.com/gag/amoPevX)
+ - 👉 [How is this even possible!](http://9gag.com/gag/aZZ0e4X)<!-- MEMES:END -->
 
 ---
 
