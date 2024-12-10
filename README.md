@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This is what being very rich looks like](http://9gag.com/gag/a5QE40O)
- - ⏩ [Peek a Boo!](http://9gag.com/gag/aKG6rpg)
- - 👉 [Storytime](http://9gag.com/gag/aBy2p3Q)<!-- MEMES:END -->
+ - 💣 [Storytime](http://9gag.com/gag/aBy2p3Q)
+ - ⏩ [Even the rain knows not to disrespect an anime beauty.](http://9gag.com/gag/axyMLeK)
+ - 👉 [Oscar winner Olivia Colman](http://9gag.com/gag/amoPevX)<!-- MEMES:END -->
 
 ---
 
