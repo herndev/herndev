@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Mental Health Affects us All – See the World from a New Perspective in Unwording](https://news.xbox.com/en-us/2024/12/10/the-world-from-a-new-perspective-in-unwording/)
- - [All You Need to Know: Xbox Indie Game Fest Demo Event](https://news.xbox.com/en-us/2024/12/10/need-to-know-xbox-indie-game-fest-demo-event/)
- - [Reminder to the media: Research video games before reporting on them](https://www.polygon.com/opinion/493536/luigi-mangione-among-us-news)<!-- GAME:END -->
+ - [Thank goodness! Wicked screenings for theater kids arrive just in time for Christmas](https://www.polygon.com/news/493881/wicked-sing-along-screenings-theater-kids)
+ - [Aventura observation quiz answers list in Infinity Nikki](https://www.polygon.com/infinity-nikki-guides/491426/aventura-observation-answers-quiz-location)
+ - [Geralt voice actor walks back Witcher 4 spoilers by drawing attention to Witcher 4 spoilers](https://www.polygon.com/news/493858/witcher-4-geralt-voice-actor-spoilers-project-polaris)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
