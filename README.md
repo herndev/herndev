@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Can Murkrow be shiny in Pokémon Go?](https://www.polygon.com/pokemon-go-guide/492859/can-murkrow-be-shiny-honchkrow)
- - [Today&#39;s Wordle answer for Tuesday, December 10](https://www.pcgamer.com/games/puzzle/wordle-answer-today-december-10-2024)
- - [Suspect apprehended in UHC shooting was former Firaxis Games intern](https://www.polygon.com/news/493418/uhc-shooter-shooting-suspect-luigi-mangione-arrest-firaxis-games)<!-- GAME:END -->
+ - [Star Wars: The Old Republic&#39;s big modernisation plan kicks off today, giving players an excuse to revisit old haunts](https://www.pcgamer.com/games/mmo/star-wars-the-old-republics-big-modernisation-plan-kicks-off-today-giving-players-an-excuse-to-revisit-old-haunts)
+ - [The 28 Years Later trailer has way more Teletubbies and creepy poetry than I was expecting](https://www.polygon.com/movies/493438/the-28-years-later-trailer-has-way-more-teletubbies-and-creepy-poetry-than-i-was-expecting)
+ - [Can Murkrow be shiny in Pokémon Go?](https://www.polygon.com/pokemon-go-guide/492859/can-murkrow-be-shiny-honchkrow)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
