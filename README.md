@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Thank goodness! Wicked screenings for theater kids arrive just in time for Christmas](https://www.polygon.com/news/493881/wicked-sing-along-screenings-theater-kids)
- - [Aventura observation quiz answers list in Infinity Nikki](https://www.polygon.com/infinity-nikki-guides/491426/aventura-observation-answers-quiz-location)
- - [Geralt voice actor walks back Witcher 4 spoilers by drawing attention to Witcher 4 spoilers](https://www.polygon.com/news/493858/witcher-4-geralt-voice-actor-spoilers-project-polaris)<!-- GAME:END -->
+ - [My favourite idle farming simulator is getting a free new update including a traveling vendor, winter weather, and farmyard pets to lend a paw](https://www.pcgamer.com/games/sim/my-favourite-idle-farming-simulator-is-getting-a-free-new-update-including-a-traveling-vendor-winter-weather-and-farmyard-pets-to-lend-a-paw)
+ - [Locomoto is worth checking out if you&#39;re all about trains, but I&#39;m more excited about character customisation](https://www.pcgamer.com/games/life-sim/locomoto-is-worth-checking-out-if-youre-all-about-trains-but-im-more-excited-about-character-customisation)
+ - [I can finally finish Naiad two years after I played through its demo thanks to it shadow dropping during the Wholesome Snack showcase](https://www.pcgamer.com/games/adventure/i-can-finally-finish-naiad-two-years-after-i-played-through-its-demo-thanks-to-it-shadow-dropping-during-the-wholesome-snack-showcase)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
