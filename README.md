@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The TRUE nice guy! \ud83d\udc95](http://9gag.com/gag/aPA3E3G)
- - ⏩ [When Cops give you a Unibrow](http://9gag.com/gag/aYQozWO)
- - 👉 [Like a robot](http://9gag.com/gag/ajPmoLw)<!-- MEMES:END -->
+ - 💣 [How does DC motor work ??](http://9gag.com/gag/a4PEvEA)
+ - ⏩ [I understood that reference... Both of them](http://9gag.com/gag/azxMNxb)
+ - 👉 [Boyfriend surprises his girlfriend with a wonderful reunion with her parents after being apart for so long](http://9gag.com/gag/ayNMONM)<!-- MEMES:END -->
 
 ---
 
