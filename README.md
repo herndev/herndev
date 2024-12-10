@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Storytime](http://9gag.com/gag/aBy2p3Q)
- - ⏩ [Freedom intensifies](http://9gag.com/gag/aBy2BbD)
- - 👉 [Father of The Year](http://9gag.com/gag/awyMwBW)<!-- MEMES:END -->
+ - 💣 [Syria today. The dictator is gone, long live the new dictator. Belgian cartoon](http://9gag.com/gag/aKG6RZ1)
+ - ⏩ [Checkmate](http://9gag.com/gag/aXPo5mg)
+ - 👉 [This is what being very rich looks like](http://9gag.com/gag/a5QE40O)<!-- MEMES:END -->
 
 ---
 
