@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [He told them](http://9gag.com/gag/a1mrz92)
- - ⏩ [Like a robot](http://9gag.com/gag/ajPmoLw)
- - 👉 [The media bending over backwards to control the narrative while the house of cards collapse...](http://9gag.com/gag/an7QAeb)<!-- MEMES:END -->
+ - 💣 [The TRUE nice guy! \ud83d\udc95](http://9gag.com/gag/aPA3E3G)
+ - ⏩ [When Cops give you a Unibrow](http://9gag.com/gag/aYQozWO)
+ - 👉 [Like a robot](http://9gag.com/gag/ajPmoLw)<!-- MEMES:END -->
 
 ---
 
