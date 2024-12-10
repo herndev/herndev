@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Android 16 gets ready to let Gemini control everything from alarms to video &lpar;APK teardown&rpar;](https://www.androidauthority.com/gemini-app-functions-list-3507057/)
- - [Samsung deals: Save up to $700 on the best Galaxy phones](https://www.androidauthority.com/samsung-galaxy-s24-ultra-z-fold-6-deals-3507092/)
- - [Best Robot Vacuums of 2024: Roomba and Ecovacs Tie for Best Overall](https://www.cnet.com/home/kitchen-and-household/best-robot-vacuum/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The Suicide Squad game’s final season is coming less than a year after launch](https://www.theverge.com/2024/12/9/24317407/suicide-squad-kill-the-justice-league-final-season-offline-mode)
+ - [Google reveals quantum computing chip with ‘breakthrough’ achievements](https://www.theverge.com/2024/12/9/24317382/google-willow-quantum-computing-chip-breakthrough)
+ - [Walking Pad](https://www.cnet.com/health/fitness/walking-pad2-dpnl/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
