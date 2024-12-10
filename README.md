@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The best indie games of 2024](https://www.polygon.com/what-to-play/24151036/best-indie-games-2024)
- - [Path Of Exile 2 Devs Agree About The RPG&#39;s Loot Problem](https://kotaku.com/path-of-exile-2-patch-notes-dodge-roll-rewards-mods-1851717522)
- - [Path of Exile 2 devs respond to the cries of the loot-starved masses, buffing drops and promising more fixes in upcoming patches](https://www.pcgamer.com/games/rpg/path-of-exile-2-devs-respond-to-the-cries-of-the-loot-starved-masses-buffing-drops-and-promising-more-fixes-in-upcoming-patches)<!-- GAME:END -->
+ - [Cyberpunk 2077 Update Brings New Ways To Express Yourself](https://news.xbox.com/en-us/2024/12/10/cyberpunk-2077-brings-new-ways-to-express-yourself/)
+ - [Marvel Rivals is a noisy, unbalanced, and surprisingly fun spin on Overwatch](https://www.polygon.com/impressions/493325/marvel-rivals-chaotic-overwatch)
+ - [Barbie Director&#39;s Narnia Movie Will Be &#39;All About Rock And Roll&#39;](https://kotaku.com/netflix-narnia-greta-gerwig-musical-barbie-lion-witch-1851717594)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
