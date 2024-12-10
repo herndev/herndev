@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Cyberpunk 2077 Update Brings New Ways To Express Yourself](https://news.xbox.com/en-us/2024/12/10/cyberpunk-2077-brings-new-ways-to-express-yourself/)
- - [Marvel Rivals is a noisy, unbalanced, and surprisingly fun spin on Overwatch](https://www.polygon.com/impressions/493325/marvel-rivals-chaotic-overwatch)
- - [Barbie Director&#39;s Narnia Movie Will Be &#39;All About Rock And Roll&#39;](https://kotaku.com/netflix-narnia-greta-gerwig-musical-barbie-lion-witch-1851717594)<!-- GAME:END -->
+ - [Maximum Football: 3 Tips For Success](https://news.xbox.com/en-us/2024/12/10/maximum-football-3-tips-for-success/)
+ - [Cyberpunk 2077&#39;s surprise new update lets Keanu ride shotgun through the streets of Night City and makes some PC-specific improvements—and it&#39;s out now](https://www.pcgamer.com/games/rpg/cyberpunk-2077s-surprise-new-update-lets-keanu-ride-shotgun-through-the-streets-of-night-city-and-makes-some-pc-specific-improvements-and-its-out-now)
+ - [Pokémon Go ‘Young and Wise’ event guide](https://www.polygon.com/pokemon-go-guide/493614/young-wise-event-collection-challenge)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
