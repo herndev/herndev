@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [In a launch weekend already packed with Path of Exile 2 and Marvel Rivals players, Infinity Nikki has also claimed 10 million downloads](https://www.pcgamer.com/games/adventure/in-a-launch-weekend-already-packed-with-path-of-exile-2-and-marvel-rivals-players-infinity-nikki-has-also-claimed-10-million-downloads)
- - [What we think will get announced at the Game Awards 2024](https://www.polygon.com/game-awards-tga/493119/game-awards-2024-tgas-trailers-predictions-announcements-reveals)
- - [Marvel Rivals is teaching everyone about the joy of Jeff The Land Shark](https://www.polygon.com/gaming/493135/marvel-rivals-jeff-the-land-shark)<!-- GAME:END -->
+ - [Suicide Squad: Kill the Justice League’s fourth season will be its last](https://www.polygon.com/gaming/493305/suicide-squad-kill-justice-league-final-dlc)
+ - [Discoveries](https://www.polygon.com/gaming/24215620/new-things-to-play-watch-and-experience)
+ - [First it was Counter-Strike, now it&#39;s GTA RP: Fortnite unveils LEGO Fortnite Brick Life, a &#39;social roleplay experience in the Lego Fortnite world&#39;](https://www.pcgamer.com/games/first-it-was-counter-strike-now-its-gta-rp-fortnite-unveils-lego-fortnite-brick-life-a-social-roleplay-experience-in-the-lego-fortnite-world)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
