@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft unveils a new data center design that aims to use zero water, down from the 125M litres per year a typical center uses, rolling out since August 2024 &lpar;Dina Bass/Bloomberg&rpar;](http://www.techmeme.com/241210/p4#a241210p4)
- - [Lock in a High APY Before the Fed Cuts Rates Again. Today&#39;s CD Rates, Dec. 10, 2024](https://www.cnet.com/personal-finance/banking/lock-in-a-high-apy-before-the-fed-cuts-rates-again-todays-cd-rates-dec-10-2024/#ftag=CAD590a51e)
- - [Will Trump&#39;s Policies Help or Hurt the Housing Market? Here&#39;s My Take as a Realtor](https://www.cnet.com/personal-finance/will-trumps-policies-help-or-hurt-the-housing-market-heres-my-take-as-a-realtor/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Software testing service LambdaTest, which supports 5K+ browser and OS combinations, raised a $38M Series D led by Avataar, taking its total funding to $108M &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/241210/p7#a241210p7)
+ - [A surprising number of you have MagSafe-compatible cases for Android](https://www.androidauthority.com/magsafe-cases-android-phones-poll-results-3507253/)
+ - [TikTok launches TikTok Shop in Spain, letting creators sell products from beauty to home appliances, the first step of the feature&#39;s European rollout &lpar;Bloomberg&rpar;](http://www.techmeme.com/241210/p6#a241210p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
