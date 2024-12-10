@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to Edit property lists in Terminal](https://appleinsider.com/articles/24/12/10/how-to-edit-property-lists-in-terminal?utm_medium=rss)
- - [A growing cohort of AI startups are recruiting scores of experts to train models on highly specialized tasks for sensitive sectors like defense and health care &lpar;Saritha Rai/Bloomberg&rpar;](http://www.techmeme.com/241209/p31#a241209p31)
- - [Stability AI CEO Prem Akkaraju says the startup, now focused on its API and licensing, has seen &quot;triple digit growth&quot; and has &quot;a clean balance sheet, no debt&quot; &lpar;Kali Hays/Fortune&rpar;](http://www.techmeme.com/241209/p30#a241209p30)<!-- TECH:END -->
+ - [Sources: EU regulators asked Google for more info in October about a secret ads partnership with Meta which skirted Google&#39;s own rules for targeting minors &lpar;Financial Times&rpar;](http://www.techmeme.com/241210/p1#a241210p1)
+ - [Today&#39;s NYT Connections Hints, Answers and Help for Dec. 10, #548](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-dec-10-548/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Strands Hints, Answers and Help for Dec. 10, #282](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-dec-10-282/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
