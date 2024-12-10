@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Can Murkrow be shiny in Pokémon Go?](https://www.polygon.com/pokemon-go-guide/492859/can-murkrow-be-shiny-honchkrow)
  - [Today&#39;s Wordle answer for Tuesday, December 10](https://www.pcgamer.com/games/puzzle/wordle-answer-today-december-10-2024)
- - [Suspect apprehended in UHC shooting was former Firaxis Games intern](https://www.polygon.com/news/493418/uhc-shooter-shooting-suspect-luigi-mangione-arrest-firaxis-games)
- - [China launches an antitrust investigation into Nvidia as it wrestles with the US over AI chip sanctions](https://www.pcgamer.com/hardware/china-launches-an-antitrust-investigation-into-nvidia-as-it-wrestles-with-the-us-over-ai-chip-sanctions)<!-- GAME:END -->
+ - [Suspect apprehended in UHC shooting was former Firaxis Games intern](https://www.polygon.com/news/493418/uhc-shooter-shooting-suspect-luigi-mangione-arrest-firaxis-games)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
