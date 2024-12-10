@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Syria today. The dictator is gone, long live the new dictator. Belgian cartoon](http://9gag.com/gag/aKG6RZ1)
- - ⏩ [Checkmate](http://9gag.com/gag/aXPo5mg)
- - 👉 [This is what being very rich looks like](http://9gag.com/gag/a5QE40O)<!-- MEMES:END -->
+ - 💣 [They&#39;re so realistic](http://9gag.com/gag/a6ZEPOq)
+ - ⏩ [Someone\u2019s always gotta ruin everyone\u2019s fun](http://9gag.com/gag/a2v7BwY)
+ - 👉 [The TRUE nice guy! \ud83d\udc95](http://9gag.com/gag/aPA3E3G)<!-- MEMES:END -->
 
 ---
 
