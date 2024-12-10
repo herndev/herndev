@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Pixel 8a deal: Our favorite budget phone is even cheaper today](https://www.androidauthority.com/google-pixel-8a-deal-2-3507442/)
- - [Sources: 2025&#39;s Apple Watch Ultra is slated to get satellite connectivity for off-the-grid text messages, and it may also get a blood pressure sensing feature &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/241210/p17#a241210p17)
- - [&#39;High Potential&#39; Hiatus: When Does the Next Episode Come Out?](https://www.cnet.com/tech/services-and-software/high-potential-hiatus-when-does-the-next-episode-come-out/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Meet the Conspiracy Filmmaker Who Claims to Have Red-Pilled Tulsi Gabbard](https://www.wired.com/story/mikki-willis-tulsi-gabbard-red-pilled-plandemic/)
+ - [Apple Watch Ultra 3 could set new connectivity goals for adventure-ready wearables](https://www.androidauthority.com/apple-watch-ultra-satellite-texting-3507464/)
+ - [How to free up space on a Windows PC](https://www.theverge.com/24318085/windows-microsoft-pc-storage-how-to)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
