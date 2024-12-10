@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Software testing service LambdaTest, which supports 5K+ browser and OS combinations, raised a $38M Series D led by Avataar, taking its total funding to $108M &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/241210/p7#a241210p7)
- - [A surprising number of you have MagSafe-compatible cases for Android](https://www.androidauthority.com/magsafe-cases-android-phones-poll-results-3507253/)
- - [TikTok launches TikTok Shop in Spain, letting creators sell products from beauty to home appliances, the first step of the feature&#39;s European rollout &lpar;Bloomberg&rpar;](http://www.techmeme.com/241210/p6#a241210p6)<!-- TECH:END -->
+ - [Half of Apple developers have doubts about making Apple Vision Pro apps](https://appleinsider.com/articles/24/12/10/half-of-apple-developers-have-doubts-about-making-apple-vision-pro-apps?utm_medium=rss)
+ - [Update your iPhone now to stop your iCloud data from getting stolen](https://appleinsider.com/articles/24/12/10/update-your-iphone-now-to-stop-your-icloud-data-from-getting-stolen?utm_medium=rss)
+ - [Samsung ditches its lock screen widget carousel in One UI 7](https://www.androidauthority.com/one-ui-7-widget-carousel-3507162/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
