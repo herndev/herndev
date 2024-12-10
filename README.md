@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Half of Apple developers have doubts about making Apple Vision Pro apps](https://appleinsider.com/articles/24/12/10/half-of-apple-developers-have-doubts-about-making-apple-vision-pro-apps?utm_medium=rss)
- - [Update your iPhone now to stop your iCloud data from getting stolen](https://appleinsider.com/articles/24/12/10/update-your-iphone-now-to-stop-your-icloud-data-from-getting-stolen?utm_medium=rss)
- - [Samsung ditches its lock screen widget carousel in One UI 7](https://www.androidauthority.com/one-ui-7-widget-carousel-3507162/)<!-- TECH:END -->
+ - [Apple Vision Pro named innovation of the year, beating transparent TVs and AI cheese](https://appleinsider.com/articles/24/12/10/apple-vision-pro-named-innovation-of-the-year-beating-transparent-tvs-and-ai-cheese?utm_medium=rss)
+ - [Apple Vision Pro becomes a virtual design studio with &#39;Analogue&#39;](https://appleinsider.com/articles/24/12/10/apple-vision-pro-becomes-a-virtual-design-studio-with-analogue?utm_medium=rss)
+ - [The Best Cookbooks of 2024: Big Dip Energy, Ottolenghi Comfort, and More](https://www.wired.com/gallery/the-best-cookbooks-of-2024/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
