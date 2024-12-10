@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [This GBA clone improves the best handheld ever made](https://www.androidauthority.com/anbernic-rg-34xx-gba-3507247/)
- - [Unlike Galaxy AI, future Apple Intelligence features could remain free](https://www.androidauthority.com/apple-intelligence-could-stay-free-3507241/)
- - [Parents and school staff say student activity monitoring software that aims to intercept self-harm before it happens, while helpful, has unintended consequences &lpar;Ellen Barry/New York Times&rpar;](http://www.techmeme.com/241210/p3#a241210p3)<!-- TECH:END -->
+ - [Microsoft unveils a new data center design that aims to use zero water, down from the 125M litres per year a typical center uses, rolling out since August 2024 &lpar;Dina Bass/Bloomberg&rpar;](http://www.techmeme.com/241210/p4#a241210p4)
+ - [Lock in a High APY Before the Fed Cuts Rates Again. Today&#39;s CD Rates, Dec. 10, 2024](https://www.cnet.com/personal-finance/banking/lock-in-a-high-apy-before-the-fed-cuts-rates-again-todays-cd-rates-dec-10-2024/#ftag=CAD590a51e)
+ - [Will Trump&#39;s Policies Help or Hurt the Housing Market? Here&#39;s My Take as a Realtor](https://www.cnet.com/personal-finance/will-trumps-policies-help-or-hurt-the-housing-market-heres-my-take-as-a-realtor/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
