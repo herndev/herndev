@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Vision Pro named innovation of the year, beating transparent TVs and AI cheese](https://appleinsider.com/articles/24/12/10/apple-vision-pro-named-innovation-of-the-year-beating-transparent-tvs-and-ai-cheese?utm_medium=rss)
- - [Apple Vision Pro becomes a virtual design studio with &#39;Analogue&#39;](https://appleinsider.com/articles/24/12/10/apple-vision-pro-becomes-a-virtual-design-studio-with-analogue?utm_medium=rss)
- - [The Best Cookbooks of 2024: Big Dip Energy, Ottolenghi Comfort, and More](https://www.wired.com/gallery/the-best-cookbooks-of-2024/)<!-- TECH:END -->
+ - [Flash deal: Apple&#39;s 2024 iPad Air M2 falls to all-time low $469](https://appleinsider.com/articles/24/12/10/flash-deal-apples-2024-ipad-air-m2-falls-to-all-time-low-469?utm_medium=rss)
+ - [Solos challenges Meta’s Ray-Bans with $299 ChatGPT smart glasses](https://www.theverge.com/2024/12/10/24317805/solos-airgo-vision-chatgpt-ai-smart-glasses-price-availability)
+ - [25 Great Gifts for Mom: Ideas for the Best Mother &lpar;2024&rpar;](https://www.wired.com/gallery/gifts-for-moms/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
