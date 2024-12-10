@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [My favourite idle farming simulator is getting a free new update including a traveling vendor, winter weather, and farmyard pets to lend a paw](https://www.pcgamer.com/games/sim/my-favourite-idle-farming-simulator-is-getting-a-free-new-update-including-a-traveling-vendor-winter-weather-and-farmyard-pets-to-lend-a-paw)
- - [Locomoto is worth checking out if you&#39;re all about trains, but I&#39;m more excited about character customisation](https://www.pcgamer.com/games/life-sim/locomoto-is-worth-checking-out-if-youre-all-about-trains-but-im-more-excited-about-character-customisation)
- - [I can finally finish Naiad two years after I played through its demo thanks to it shadow dropping during the Wholesome Snack showcase](https://www.pcgamer.com/games/adventure/i-can-finally-finish-naiad-two-years-after-i-played-through-its-demo-thanks-to-it-shadow-dropping-during-the-wholesome-snack-showcase)<!-- GAME:END -->
+ - [Expect The Game Awards to be big this year: here&#39;s what&#39;s confirmed to show up](https://www.pcgamer.com/games/the-game-awards-2024-when-to-watch)
+ - [Avatar Is Getting The PS5 Pro Option Players Have Been Begging For](https://kotaku.com/avatar-frontiers-pandora-ps5-pro-pssr-hotfix-turn-off-1851717966)
+ - [Forget inheriting a dumpy old farm: your cool uncle left you a &#39;seaplane delivery service&#39; in this open world life sim](https://www.pcgamer.com/games/life-sim/forget-inheriting-a-dumpy-old-farm-your-cool-uncle-left-you-a-seaplane-delivery-service-in-this-open-world-life-sim)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
