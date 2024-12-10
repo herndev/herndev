@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Mess around and find out](http://9gag.com/gag/axyMxv1)
- - ⏩ [I understood that reference... Both of them](http://9gag.com/gag/azxMNxb)
- - 👉 [Storytime](http://9gag.com/gag/aBy2p3Q)<!-- MEMES:END -->
+ - 💣 [Who was there with us that specific night?](http://9gag.com/gag/aQzowZd)
+ - ⏩ [Mess around and find out](http://9gag.com/gag/axyMxv1)
+ - 👉 [Gotcha B*tch](http://9gag.com/gag/a34E9A3)<!-- MEMES:END -->
 
 ---
 
