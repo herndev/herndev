@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Father of The Year](http://9gag.com/gag/awyMwBW)
- - ⏩ [Even the rain knows not to disrespect an anime beauty.](http://9gag.com/gag/axyMLeK)
- - 👉 [This is what being very rich looks like](http://9gag.com/gag/a5QE40O)<!-- MEMES:END -->
+ - 💣 [Storytime](http://9gag.com/gag/aBy2p3Q)
+ - ⏩ [Freedom intensifies](http://9gag.com/gag/aBy2BbD)
+ - 👉 [Father of The Year](http://9gag.com/gag/awyMwBW)<!-- MEMES:END -->
 
 ---
 
