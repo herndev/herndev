@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [No more](http://9gag.com/gag/a7oE43m)
- - ⏩ [The way this food vendor cuts and debones the chicken.](http://9gag.com/gag/a4PEDNA)
- - 👉 [Based](http://9gag.com/gag/aQzo0Bw)<!-- MEMES:END -->
+ - 💣 [Mess around and find out](http://9gag.com/gag/axyMxv1)
+ - ⏩ [How is this even possible!](http://9gag.com/gag/aZZ0e4X)
+ - 👉 [Storytime](http://9gag.com/gag/aBy2p3Q)<!-- MEMES:END -->
 
 ---
 
