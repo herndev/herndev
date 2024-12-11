@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A California District Court judge orders Automattic to stop blocking WP Engine&#39;s access to WordPress.org resources and interfering with its plugins &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/241210/p24#a241210p24)
- - [WordPress must stop blocking WP Engine, judge rules](https://www.theverge.com/2024/12/10/24318350/automattic-restore-wp-engine-access-wordpress)
- - [Trump picks FTC Commissioner Andrew Ferguson to chair the FTC; Ferguson has said the FTC should tackle perceived censorship of conservative viewpoints online &lpar;Jody Godoy/Reuters&rpar;](http://www.techmeme.com/241210/p23#a241210p23)<!-- TECH:END -->
+ - [Trump’s pick for FTC chair promises to go after ‘censorship’ from tech companies](https://www.theverge.com/2024/12/10/24318388/trump-ftc-chair-pick-andrew-ferguson-censorship-tech-companies)
+ - [Best Smart Speakers for 2024: We Tested Alexa, Google, Apple and Sonos](https://www.cnet.com/home/smart-home/best-smart-speaker/#ftag=CAD590a51e)
+ - [Privacy Dashboard’s new 7-day view is not going to wait for Android 16](https://www.androidauthority.com/privacy-dashboard-7-day-3507535/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
