@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Intelligence second wave arrives today -- what you need to know](https://appleinsider.com/articles/24/12/05/ios-182-is-nearing-its-public-release-and-its-packed-with-ai-features?utm_medium=rss)
- - [Free App Duplicati Can Back Up Your Computer to Any Cloud Service](https://www.wired.com/story/duplicati-free-app-back-up-your-computer-to-any-cloud-service/)
- - [iOS 18.2 is out now, adding ChatGPT integration and more Apple Intelligence tools](https://www.theverge.com/2024/12/11/24317119/ios-18-2-apple-intelligence-chatgpt-genmoji)<!-- TECH:END -->
+ - [YouTube says viewers streamed 1B+ hours of content daily on TVs in 2024 globally, including 400M+ hours of podcasts monthly; sports content watchtime grew 30% &lpar;Kurt Wilms/YouTube Official Blog&rpar;](http://www.techmeme.com/241211/p24#a241211p24)
+ - [Apple may be partnering with Broadcom to make AI processors for servers](https://appleinsider.com/articles/24/12/11/apple-may-be-partnering-with-broadcom-to-make-ai-processors-for-servers?utm_medium=rss)
+ - [Wallpaper Wednesday: More great phone wallpapers for all to share &lpar;December 11&rpar;](https://www.androidauthority.com/wallpaper-wednesday-dec-11-2024-3506996/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
