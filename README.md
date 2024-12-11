@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at the relationship between Tether and Trump transition co-Chair Howard Lutnick, who boasted of Cantor Fitzgerald handling $10B in redemptions in 2022 &lpar;Financial Times&rpar;](http://www.techmeme.com/241211/p15#a241211p15)
- - [Sweden&#39;s financial regulator fines Klarna $50M and reprimands the BNPL company for breaking anti-money laundering rules between 2021 and 2022 &lpar;Richard Milne/Financial Times&rpar;](http://www.techmeme.com/241211/p14#a241211p14)
- - [Google Maps on Android rolls out new colors, but they’re still not dynamic](https://www.androidauthority.com/google-maps-android-teal-3507581/)<!-- TECH:END -->
+ - [As payment fraud grows, governments, banks, and tech companies disagree on who covers losses; Deloitte says AI content contributed to $12B+ in US losses in 2023 &lpar;Financial Times&rpar;](http://www.techmeme.com/241211/p18#a241211p18)
+ - [The Galaxy Z Flip 7’s future could be set with Exynos](https://www.androidauthority.com/samsung-galaxy-z-flip-7-exynos-2500-report-3507645/)
+ - [Designer Babies Are Teenagers Now—and Some of Them Need Therapy Because of It](https://www.wired.com/story/your-next-job-designer-baby-therapist/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
