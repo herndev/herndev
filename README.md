@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Every time when I watch the movie I&#39;m terrified by the voice over.](http://9gag.com/gag/aVvxjOd)
- - ⏩ [How poor we are](http://9gag.com/gag/aO836DR)
- - 👉 [Luigi Mangione, suspect in C.E.O. killing, photographed in his holding cell after being charged with murder](http://9gag.com/gag/aD2dBjd)<!-- MEMES:END -->
+ - 💣 [Dino got them moves](http://9gag.com/gag/aE08vbp)
+ - ⏩ [Imagine being out of shape and trying to run from someone that is in shape.](http://9gag.com/gag/awyzrXQ)
+ - 👉 [Insert your title here](http://9gag.com/gag/aoygEg0)<!-- MEMES:END -->
 
 ---
 
