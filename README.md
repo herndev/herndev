@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Cyberpunk 2077 returns the favor with a Balatro quest](https://www.polygon.com/news/494447/cyberpunk-2077-balatro-crossover-quest-clothes)
- - [Xbox Insiders with Game Pass Ultimate – Stream Your Own Game on Xbox Consoles](https://news.xbox.com/en-us/2024/12/11/xbox-insiders-with-game-pass-ultimate-stream-your-own-game-on-xbox-consoles/)
- - [OG Fallout lead Tim Cain explains just how much thought went into the timeline, and why canned beans were key: &#39;Post-apocalypse, but not so far post- that everything&#39;s collapsed and everyone&#39;s dead&#39;](https://www.pcgamer.com/games/fallout/og-fallout-lead-tim-cain-explains-just-how-much-thought-went-into-the-timeline-and-why-canned-beans-were-key-post-apocalypse-but-not-so-far-post-that-everythings-collapsed-and-everyones-dead)<!-- GAME:END -->
+ - [This 83-year-old Japanese erotic game producer playing Stalker 2 while blasting a cig is an impossibly big mood](https://www.pcgamer.com/games/this-83-year-old-japanese-erotic-game-producer-playing-stalker-2-while-blasting-a-cig-is-an-impossibly-big-mood/)
+ - [The Plucky Squire may have just fixed its hand-holding problem](https://www.polygon.com/news/494528/plucky-squire-update-patch-streamlined-mode-tutorial)
+ - [Cyberpunk 2077 Has A Balatro Crossover Quest, Here’s How To Start It](https://kotaku.com/cyberpunk-2077-balatro-side-quest-text-message-jim-b-1851718802)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
