@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Life happened](http://9gag.com/gag/azxMN1K)
- - ⏩ [OSHA just left the job site.](http://9gag.com/gag/aMVK3OA)
- - 👉 [Oh no Kermit ?](http://9gag.com/gag/aGypWW6)<!-- MEMES:END -->
+ - 💣 [Stay strong brotha](http://9gag.com/gag/agmBR2r)
+ - ⏩ [Future is now old man](http://9gag.com/gag/aZZrqgW)
+ - 👉 [That&#39;s pretty cool](http://9gag.com/gag/aKGmwq6)<!-- MEMES:END -->
 
 ---
 
