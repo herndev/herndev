@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Marvel Rivals director says Concord &#39;didn&#39;t bring any unique value&#39; that would convince players to give it a shot, but admits that no one can really predict what will or won&#39;t succeed](https://www.pcgamer.com/games/fps/marvel-rivals-director-says-concord-didnt-bring-any-unique-value-that-would-convince-players-to-give-it-a-shot-but-admits-that-no-one-can-really-predict-what-will-or-wont-succeed/)
- - [How to play Fortnite Ballistic, Fortnite’s first-person mode](https://www.polygon.com/fortnite-guide/494474/ballistic-first-person-mode-rules-how-to-play)
- - [If you&#39;re struggling to look cool instead of cute in Infinity Nikki, don&#39;t miss these hidden clothing merchants](https://www.pcgamer.com/games/adventure/infinity-nikki-cool-clothes-hidden-merchant/)<!-- GAME:END -->
+ - [Microsoft adds nearly 400 games to the Xbox app as it rolls out a &#39;new Home experience&#39; to all users](https://www.pcgamer.com/software/platforms/microsoft-adds-nearly-400-games-to-the-xbox-app-as-it-rolls-out-a-new-home-experience-to-all-users/)
+ - [Ballistic, Fortnite&#39;s new tactical FPS mode, is a deeply unserious Counter-Strike clone that&#39;s going to be huge anyway](https://www.pcgamer.com/games/fps/ballistic-is-a-deeply-unserious-counter-strike-clone-thats-going-to-be-huge-anyway/)
+ - [Harley Quinn Season 5 Trailer Is The Batman/Superman Mash-Up We Needed](https://kotaku.com/harley-quinn-max-superman-batman-1851718833)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
