@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Mess around and find out](http://9gag.com/gag/axyMxv1)
- - ⏩ [Never had real value](http://9gag.com/gag/agmBMLW)
- - 👉 [Once in a lifetime trick, proceeds to do the Thin Hulk pose](http://9gag.com/gag/aryMP7y)<!-- MEMES:END -->
+ - 💣 [That is all the diversity I need.](http://9gag.com/gag/amogq2j)
+ - ⏩ [Wife material](http://9gag.com/gag/ae9AX0v)
+ - 👉 [...](http://9gag.com/gag/aqyjq37)<!-- MEMES:END -->
 
 ---
 
