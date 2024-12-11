@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Perfect alibi.](http://9gag.com/gag/a9y1j20)
- - ⏩ [...](http://9gag.com/gag/aqyjq37)
+ - 💣 [...](http://9gag.com/gag/aqyjq37)
+ - ⏩ [Perfect alibi.](http://9gag.com/gag/a9y1j20)
  - 👉 [Stay strong brotha](http://9gag.com/gag/agmBR2r)<!-- MEMES:END -->
 
 ---
