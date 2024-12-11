@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Never step on spiders. You could be stepping on a female with eggs, and they\u2019ll stick to your shoes and hatch all over your car and house.](http://9gag.com/gag/a2v1zPE)
- - ⏩ [How poor we are](http://9gag.com/gag/aO836DR)
- - 👉 [Shopping is a lot of fun!](http://9gag.com/gag/awyzNwx)<!-- MEMES:END -->
+ - 💣 [Or the post](http://9gag.com/gag/agmBReg)
+ - ⏩ [Asada.](http://9gag.com/gag/aByn9j2)
+ - 👉 [Good job](http://9gag.com/gag/an7geAo)<!-- MEMES:END -->
 
 ---
 
