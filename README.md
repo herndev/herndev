@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Stay strong brotha](http://9gag.com/gag/agmBR2r)
- - ⏩ [Future is now old man](http://9gag.com/gag/aZZrqgW)
- - 👉 [That&#39;s pretty cool](http://9gag.com/gag/aKGmwq6)<!-- MEMES:END -->
+ - 💣 [Life happened](http://9gag.com/gag/azxMN1K)
+ - ⏩ [Every time when I watch the movie I&#39;m terrified by the voice over.](http://9gag.com/gag/aVvxjOd)
+ - 👉 [Bro what?](http://9gag.com/gag/adB8ZV2)<!-- MEMES:END -->
 
 ---
 
