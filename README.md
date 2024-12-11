@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [M4 MacBook Air leaked in macOS Sequoia 15.2 update &amp; regulatory documents](https://appleinsider.com/articles/24/12/11/m4-macbook-air-leaked-in-macos-sequoia-152-update-regulatory-documents?utm_medium=rss)
- - [The best doorbell cameras](https://www.theverge.com/22954554/best-video-doorbell-camera)
- - [Apple adds a Layered Recordings feature to Voice Memos app in iOS 18.2, for iPhone 16 Pro and Pro Max; iOS 18 previously brought transcriptions to Voice Memos &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/241211/p38#a241211p38)<!-- TECH:END -->
+ - [Ayar Labs, which develops optical interconnects, raised a $155M Series D from Advent Global, Light Street, Nvidia, AMD, Intel, and others at a $1B+ valuation &lpar;Jane Lanhee Lee/Bloomberg&rpar;](http://www.techmeme.com/241211/p39#a241211p39)
+ - [Google Wallet is fixing it so you never have to worry about losing your passport &lpar;Update: Rolling out&rpar;](https://www.androidauthority.com/google-wallet-passport-3506634/)
+ - [Android is making it easier to find unknown trackers to prevent stalking](https://www.theverge.com/2024/12/11/24318992/android-find-my-device-bluetooth-tracker-stalking)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
