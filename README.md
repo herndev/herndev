@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [When Cops give you a Unibrow](http://9gag.com/gag/aYQozWO)
- - ⏩ [Like a robot](http://9gag.com/gag/ajPmoLw)
+ - 💣 [Mess around and find out](http://9gag.com/gag/axyMxv1)
+ - ⏩ [Never had real value](http://9gag.com/gag/agmBMLW)
  - 👉 [Once in a lifetime trick, proceeds to do the Thin Hulk pose](http://9gag.com/gag/aryMP7y)<!-- MEMES:END -->
 
 ---
