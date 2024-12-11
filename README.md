@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [...](http://9gag.com/gag/aqyjq37)
- - ⏩ [Perfect alibi.](http://9gag.com/gag/a9y1j20)
- - 👉 [Stay strong brotha](http://9gag.com/gag/agmBR2r)<!-- MEMES:END -->
+ - 💣 [Intruder bird wanted to mate with her but she calls for her man and he comes home](http://9gag.com/gag/abAV979)
+ - ⏩ [Like a robot](http://9gag.com/gag/ajPmoLw)
+ - 👉 [Personal space](http://9gag.com/gag/agmBP4g)<!-- MEMES:END -->
 
 ---
 
