@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Microsoft adds nearly 400 games to the Xbox app as it rolls out a &#39;new Home experience&#39; to all users](https://www.pcgamer.com/software/platforms/microsoft-adds-nearly-400-games-to-the-xbox-app-as-it-rolls-out-a-new-home-experience-to-all-users/)
- - [Ballistic, Fortnite&#39;s new tactical FPS mode, is a deeply unserious Counter-Strike clone that&#39;s going to be huge anyway](https://www.pcgamer.com/games/fps/ballistic-is-a-deeply-unserious-counter-strike-clone-thats-going-to-be-huge-anyway/)
- - [Harley Quinn Season 5 Trailer Is The Batman/Superman Mash-Up We Needed](https://kotaku.com/harley-quinn-max-superman-batman-1851718833)<!-- GAME:END -->
+ - [The Game Awards 2024](https://www.polygon.com/game-awards-tga/495106/the-game-awards-2024)
+ - [Discoveries](https://www.polygon.com/gaming/24215620/new-things-to-play-watch-and-experience)
+ - [Destiny 2 the Dawning 2024 recipes and ingredients list](https://www.polygon.com/destiny-2-guide-walkthrough/494286/dawning-2024-recipes-ingredients-list)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
