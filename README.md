@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Intruder bird wanted to mate with her but she calls for her man and he comes home](http://9gag.com/gag/abAV979)
- - ⏩ [Like a robot](http://9gag.com/gag/ajPmoLw)
- - 👉 [Personal space](http://9gag.com/gag/agmBP4g)<!-- MEMES:END -->
+ - 💣 [Life happened](http://9gag.com/gag/azxMN1K)
+ - ⏩ [OSHA just left the job site.](http://9gag.com/gag/aMVK3OA)
+ - 👉 [Oh no Kermit ?](http://9gag.com/gag/aGypWW6)<!-- MEMES:END -->
 
 ---
 
