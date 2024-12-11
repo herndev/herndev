@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google&#39;s top lobbyist Mark Isakowitz departs to become GOP Senator-elect Dave McCormick&#39;s chief of staff, leaving a power vacuum in the company&#39;s lobbying team &lpar;Emily Birnbaum/Bloomberg&rpar;](http://www.techmeme.com/241211/p2#a241211p2)
- - [Several Cruise employees say they were &quot;surprised&quot; and &quot;blindsided&quot; by GM&#39;s decision to end Cruise&#39;s robotaxi program and that they expect job cuts &lpar;TechCrunch&rpar;](http://www.techmeme.com/241211/p1#a241211p1)
- - [How to turn on Empty Trash Automatically in macOS Sequoia](https://appleinsider.com/inside/macos/tips/how-to-turn-on-empty-trash-automatically-in-macos-sequoia?utm_medium=rss)<!-- TECH:END -->
+ - [Filing: as of June 30, 2024, the paper losses on Tiger Global&#39;s 15th fund was at 15%+, placing it in the bottom 10% of all VC funds raised in 2021 per PitchBook &lpar;Marina Temkin/TechCrunch&rpar;](http://www.techmeme.com/241211/p5#a241211p5)
+ - [Google Opinion Rewards could soon get a dark theme &lpar;Updated: Rolling out&rpar;](https://www.androidauthority.com/google-opinion-rewards-dark-theme-3480527/)
+ - [TikTok is offering users hundreds of dollars in Shop credits to spend time in the app, invite friends to join, and purchase products, ahead of a possible US ban &lpar;Alexandra S. Levine/Bloomberg&rpar;](http://www.techmeme.com/241211/p4#a241211p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
