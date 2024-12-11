@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Luigi Mangione: `This is completely out of touch and an insult to the intelligence of the American people!\u201d](http://9gag.com/gag/aKGm4vg)
- - ⏩ [When Cops give you a Unibrow](http://9gag.com/gag/aYQozWO)
- - 👉 [Chinese being indian](http://9gag.com/gag/a6ZEWDm)<!-- MEMES:END -->
+ - 💣 [Reviews of the McDonald that have rats.](http://9gag.com/gag/a4PEezm)
+ - ⏩ [Once in a lifetime trick, proceeds to do the Thin Hulk pose](http://9gag.com/gag/aryMP7y)
+ - 👉 [Like a robot](http://9gag.com/gag/ajPmoLw)<!-- MEMES:END -->
 
 ---
 
