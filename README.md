@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Grab Apple&#39;s M3 15-inch MacBook Air with 24GB RAM, 1TB for $1,699 &lpar;$200 off&rpar;](https://appleinsider.com/articles/24/12/11/grab-apples-m3-15-inch-macbook-air-with-24gb-ram-1tb-for-1699-200-off?utm_medium=rss)
- - [Adobe reports Q4 revenue up 11% YoY to $5.61B, vs. $5.54B est., Digital Media revenue up 12%, forecasts FY 2025 revenue below est.; ADBE drops 8%+ after hours &lpar;Brody Ford/Bloomberg&rpar;](http://www.techmeme.com/241211/p41#a241211p41)
- - [Deal: The Motorola Edge 2024 is $250 off!](https://www.androidauthority.com/motorola-edge-2024-deal-3507906/)<!-- TECH:END -->
+ - [The NYT Tech Guild, with 600+ members, reaches a tentative deal with management on a contract enhancing job security, setting flexible hybrid schedules, more &lpar;Katie Robertson/New York Times&rpar;](http://www.techmeme.com/241211/p44#a241211p44)
+ - [Latest leaked Galaxy S25 dummy units appear to be missing some features](https://www.androidauthority.com/galaxy-s25-new-dummy-unit-leak-3507918/)
+ - [The Verge’s 2024 holiday gift guide for tinkerers](https://www.theverge.com/24224047/best-tool-gift-ideas-holiday-2024-handyperson-builders-tinkerers)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
