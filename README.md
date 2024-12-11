@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Oh no Kermit ?](http://9gag.com/gag/aGypWW6)
- - ⏩ [Asada.](http://9gag.com/gag/aByn9j2)
- - 👉 [Chinese being indian](http://9gag.com/gag/a6ZEWDm)<!-- MEMES:END -->
+ - 💣 [Personal space](http://9gag.com/gag/agmBP4g)
+ - ⏩ [Like a robot](http://9gag.com/gag/ajPmoLw)
+ - 👉 [OSHA just left the job site.](http://9gag.com/gag/aMVK3OA)<!-- MEMES:END -->
 
 ---
 
