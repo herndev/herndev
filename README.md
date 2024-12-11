@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Trump’s pick for FTC chair promises to go after ‘censorship’ from tech companies](https://www.theverge.com/2024/12/10/24318388/trump-ftc-chair-pick-andrew-ferguson-censorship-tech-companies)
- - [Best Smart Speakers for 2024: We Tested Alexa, Google, Apple and Sonos](https://www.cnet.com/home/smart-home/best-smart-speaker/#ftag=CAD590a51e)
- - [Privacy Dashboard’s new 7-day view is not going to wait for Android 16](https://www.androidauthority.com/privacy-dashboard-7-day-3507535/)<!-- TECH:END -->
+ - [The ‘Ghost Gun’ Linked to Luigi Mangione Shows Just How Far 3D-Printed Weapons Have Come](https://www.wired.com/story/luigi-mangione-united-healthcare-3d-printed-gun-fmda-chairmanwon-v1/)
+ - [Amazon plans to test a 15-minute delivery service for items ranging from grocery to household goods in India this month, starting with some areas in Bengaluru &lpar;Sankalp Phartiyal/Bloomberg&rpar;](http://www.techmeme.com/241210/p26#a241210p26)
+ - [Best Reading Glasses for 2024](https://www.cnet.com/health/personal-care/best-reading-glasses/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
