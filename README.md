@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to turn on Empty Trash Automatically in macOS Sequoia](https://appleinsider.com/inside/macos/tips/how-to-turn-on-empty-trash-automatically-in-macos-sequoia?utm_medium=rss)
- - [Mozilla is removing the &quot;Do Not Track&quot; feature from Firefox in version 135, the first major browser to do so, saying few websites honor the preference &lpar;Venkat/Windows Report&rpar;](http://www.techmeme.com/241210/p29#a241210p29)
- - [Apple Watch Ultra 3 could bring Messages via Satellite to your wrist](https://appleinsider.com/articles/24/12/10/apple-watch-ultra-3-could-bring-messages-via-satellite-to-your-wrist?utm_medium=rss)<!-- TECH:END -->
+ - [Google&#39;s top lobbyist Mark Isakowitz departs to become GOP Senator-elect Dave McCormick&#39;s chief of staff, leaving a power vacuum in the company&#39;s lobbying team &lpar;Emily Birnbaum/Bloomberg&rpar;](http://www.techmeme.com/241211/p2#a241211p2)
+ - [Several Cruise employees say they were &quot;surprised&quot; and &quot;blindsided&quot; by GM&#39;s decision to end Cruise&#39;s robotaxi program and that they expect job cuts &lpar;TechCrunch&rpar;](http://www.techmeme.com/241211/p1#a241211p1)
+ - [How to turn on Empty Trash Automatically in macOS Sequoia](https://appleinsider.com/inside/macos/tips/how-to-turn-on-empty-trash-automatically-in-macos-sequoia?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
