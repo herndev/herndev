@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Luigi Mangione, suspect in C.E.O. killing, photographed in his holding cell after being charged with murder](http://9gag.com/gag/aD2dBjd)
- - ⏩ [Guys! believe us! he is not a SCAPEGOAT!! -fbi](http://9gag.com/gag/a2v7QO1)
- - 👉 [Like a robot](http://9gag.com/gag/ajPmoLw)<!-- MEMES:END -->
+ - 💣 [Luigi Mangione: `This is completely out of touch and an insult to the intelligence of the American people!\u201d](http://9gag.com/gag/aKGm4vg)
+ - ⏩ [When Cops give you a Unibrow](http://9gag.com/gag/aYQozWO)
+ - 👉 [Chinese being indian](http://9gag.com/gag/a6ZEWDm)<!-- MEMES:END -->
 
 ---
 
