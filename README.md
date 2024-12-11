@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Dino got them moves](http://9gag.com/gag/aE08vbp)
- - ⏩ [Imagine being out of shape and trying to run from someone that is in shape.](http://9gag.com/gag/awyzrXQ)
- - 👉 [Insert your title here](http://9gag.com/gag/aoygEg0)<!-- MEMES:END -->
+ - 💣 [The last photo ever taken of Michael Rockefeller. It\u2019s believed that the Asmat people known cannibals who beheaded their victims ate the unlucky explorer during one of his trips.](http://9gag.com/gag/a5Q1p0O)
+ - ⏩ [Nurse caught exposing herself to patient](http://9gag.com/gag/aKG6bDj)
+ - 👉 [F1 training is no joke](http://9gag.com/gag/aD2DRvw)<!-- MEMES:END -->
 
 ---
 
