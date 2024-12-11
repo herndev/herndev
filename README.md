@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Doctor Strange mains are using portals to trick entire Marvel Rivals teams into jumping off a cliff](https://www.pcgamer.com/games/third-person-shooter/doctor-strange-mains-are-using-portals-to-trick-entire-marvel-rivals-teams-into-jumping-off-a-cliff)
- - [Where to find the ‘Cloud Atlas’ chest code in Indiana Jones and the Great Circle](https://www.polygon.com/indiana-jones-great-circle-guide/493656/cloud-atlas-chest-code-solution)
- - [Where to find the ‘Bright Future’ chest code in Indiana Jones and the Great Circle](https://www.polygon.com/indiana-jones-great-circle-guide/494017/bright-future-chest-code-solution-location)<!-- GAME:END -->
+ - [LEGO Fortnite Brick Life: Build Your Life in the Big City Starting December 12](https://www.fortnite.com/news/lego-fortnite-brick-life-build-your-life-in-the-big-city#new_tab)
+ - [Well, that&#39;s a new twist: save a town by turning it into a giant pinball table in open world adventure Pinbleton Park](https://www.pcgamer.com/games/action/well-thats-a-new-twist-save-a-town-by-turning-it-into-a-giant-pinball-table-in-open-world-adventure-pinbleton-park)
+ - [Doctor Strange mains are using portals to trick entire Marvel Rivals teams into jumping off a cliff](https://www.pcgamer.com/games/third-person-shooter/doctor-strange-mains-are-using-portals-to-trick-entire-marvel-rivals-teams-into-jumping-off-a-cliff)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
