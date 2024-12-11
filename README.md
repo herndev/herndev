@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [This 83-year-old Japanese erotic game producer playing Stalker 2 while blasting a cig is an impossibly big mood](https://www.pcgamer.com/games/this-83-year-old-japanese-erotic-game-producer-playing-stalker-2-while-blasting-a-cig-is-an-impossibly-big-mood/)
- - [The Plucky Squire may have just fixed its hand-holding problem](https://www.polygon.com/news/494528/plucky-squire-update-patch-streamlined-mode-tutorial)
- - [Cyberpunk 2077 Has A Balatro Crossover Quest, Here’s How To Start It](https://kotaku.com/cyberpunk-2077-balatro-side-quest-text-message-jim-b-1851718802)<!-- GAME:END -->
+ - [Marvel Rivals director says Concord &#39;didn&#39;t bring any unique value&#39; that would convince players to give it a shot, but admits that no one can really predict what will or won&#39;t succeed](https://www.pcgamer.com/games/fps/marvel-rivals-director-says-concord-didnt-bring-any-unique-value-that-would-convince-players-to-give-it-a-shot-but-admits-that-no-one-can-really-predict-what-will-or-wont-succeed/)
+ - [How to play Fortnite Ballistic, Fortnite’s first-person mode](https://www.polygon.com/fortnite-guide/494474/ballistic-first-person-mode-rules-how-to-play)
+ - [If you&#39;re struggling to look cool instead of cute in Infinity Nikki, don&#39;t miss these hidden clothing merchants](https://www.pcgamer.com/games/adventure/infinity-nikki-cool-clothes-hidden-merchant/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
