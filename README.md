@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Or the post](http://9gag.com/gag/agmBReg)
- - ⏩ [Asada.](http://9gag.com/gag/aByn9j2)
- - 👉 [Good job](http://9gag.com/gag/an7geAo)<!-- MEMES:END -->
+ - 💣 [When a little kid has more brains than you!](http://9gag.com/gag/a2v1EDZ)
+ - ⏩ [Luigi Mangione, suspect in C.E.O. killing, photographed in his holding cell after being charged with murder](http://9gag.com/gag/aD2dBjd)
+ - 👉 [ARGENTINA ENDS DEFICIT FOR THE FIRST TIME IN 123 YEARS\u2026.](http://9gag.com/gag/ayN95xy)<!-- MEMES:END -->
 
 ---
 
