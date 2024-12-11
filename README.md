@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [You can pick up a refurbished Steam Deck OLED directly from Valve for as little as $439 if others haven&#39;t already scooped them all up](https://www.pcgamer.com/hardware/get-your-refurbished-steam-deck-directly-from-valve)
- - [Space Marine 2&#39;s huge Obelisk Update adds a long-awaited new mission, reworked melee combat, bonus XP, and goat-bird-wizards hurtling towards you on living flying saucers](https://www.pcgamer.com/games/third-person-shooter/space-marine-2s-huge-obelisk-update-adds-a-long-awaited-new-mission-reworked-melee-combat-bonus-xp-and-goat-bird-wizards-hurtling-towards-you-on-living-flying-saucers)
- - [The 10 Worst Movies Of 2024 According To Metacritic](https://kotaku.com/worst-movies-2024-metacritic-madame-web-borderlands-1851718062)<!-- GAME:END -->
+ - [Indiana Jones And The Great Circle: Should You Focus On Just The Main Story?](https://kotaku.com/indiana-jones-great-circle-main-story-side-content-1851718179)
+ - [Steam has just beaten its concurrent players record once again with a whopping 39.2 million at one time](https://www.pcgamer.com/software/steam-has-just-beaten-its-concurrent-players-record-once-again-with-a-whopping-39-2-million-at-one-time)
+ - [All Trial of the Sehkemas challenges and rewards in Path of Exile 2](https://www.polygon.com/path-exile-2-guide/493902/trial-sehkemas-all-rewards-challenges-how-to-unlock)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
