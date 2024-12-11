@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Game Awards 2024](https://www.polygon.com/game-awards-tga/495106/the-game-awards-2024)
- - [Discoveries](https://www.polygon.com/gaming/24215620/new-things-to-play-watch-and-experience)
- - [Destiny 2 the Dawning 2024 recipes and ingredients list](https://www.polygon.com/destiny-2-guide-walkthrough/494286/dawning-2024-recipes-ingredients-list)<!-- GAME:END -->
+ - [Ridley Scott Leaked Paul Mescal&#39;s Involvement In Beatles Biopic](https://kotaku.com/paul-mescal-ridley-scott-beatles-biopic-paul-mccartney-1851719027)
+ - [Assassin&#39;s Creed Shadows will have a &#39;Canon Mode&#39; that will make all the correct RPG decisions for you](https://www.pcgamer.com/games/action/assassins-creed-shadows-will-have-a-canon-mode-that-will-make-all-the-correct-rpg-decisions-for-you/)
+ - [In Mythwrecked: Ambrosia Island, the Greek gods are queer and kind](https://www.polygon.com/gaming/495089/mythwrecked-ambrosia-island-impressions)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
