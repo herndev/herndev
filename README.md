@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Reviews of the McDonald that have rats.](http://9gag.com/gag/a4PEezm)
- - ⏩ [Once in a lifetime trick, proceeds to do the Thin Hulk pose](http://9gag.com/gag/aryMP7y)
- - 👉 [Like a robot](http://9gag.com/gag/ajPmoLw)<!-- MEMES:END -->
+ - 💣 [When Cops give you a Unibrow](http://9gag.com/gag/aYQozWO)
+ - ⏩ [Like a robot](http://9gag.com/gag/ajPmoLw)
+ - 👉 [Once in a lifetime trick, proceeds to do the Thin Hulk pose](http://9gag.com/gag/aryMP7y)<!-- MEMES:END -->
 
 ---
 
