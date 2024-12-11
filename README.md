@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Creating a Personal Travelogue with Microsoft Flight Simulator 2024](https://news.xbox.com/en-us/2024/12/11/creating-a-personal-travelogue-with-microsoft-flight-simulator-2024/)
- - [The best video essays of 2024](https://www.polygon.com/best-of-the-year/490780/best-video-essays-2024-youtube-vimeo)
- - [Cyberpunk 2077&#39;s new update secretly added a Balatro-based sidequest, among other unlisted changes](https://www.pcgamer.com/games/action/cyberpunk-2077s-new-update-secretly-added-a-balatro-based-sidequest-among-other-unlisted-changes)<!-- GAME:END -->
+ - [Cyberpunk 2077 returns the favor with a Balatro quest](https://www.polygon.com/news/494447/cyberpunk-2077-balatro-crossover-quest-clothes)
+ - [Xbox Insiders with Game Pass Ultimate – Stream Your Own Game on Xbox Consoles](https://news.xbox.com/en-us/2024/12/11/xbox-insiders-with-game-pass-ultimate-stream-your-own-game-on-xbox-consoles/)
+ - [OG Fallout lead Tim Cain explains just how much thought went into the timeline, and why canned beans were key: &#39;Post-apocalypse, but not so far post- that everything&#39;s collapsed and everyone&#39;s dead&#39;](https://www.pcgamer.com/games/fallout/og-fallout-lead-tim-cain-explains-just-how-much-thought-went-into-the-timeline-and-why-canned-beans-were-key-post-apocalypse-but-not-so-far-post-that-everythings-collapsed-and-everyones-dead)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
