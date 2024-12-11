@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Stereotype reinforcement - check](http://9gag.com/gag/aGyzKK7)
- - ⏩ [ARGENTINA ENDS DEFICIT FOR THE FIRST TIME IN 123 YEARS\u2026.](http://9gag.com/gag/ayN95xy)
- - 👉 [Nurse caught exposing herself to patient](http://9gag.com/gag/aKG6bDj)<!-- MEMES:END -->
+ - 💣 [Google\u2019s Willow Quantum Chip: With 105 qubits and real-time error correction, Willow solved a task in 5 minutes that would take classical supercomputers billions of years, marking a breakthrough in scalable quantum computing.](http://9gag.com/gag/ae9AoXp)
+ - ⏩ [Every time when I watch the movie I&#39;m terrified by the voice over.](http://9gag.com/gag/aVvxjOd)
+ - 👉 [Yup, that&#39;s him!](http://9gag.com/gag/ajPgQMG)<!-- MEMES:END -->
 
 ---
 
