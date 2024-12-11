@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [As payment fraud grows, governments, banks, and tech companies disagree on who covers losses; Deloitte says AI content contributed to $12B+ in US losses in 2023 &lpar;Financial Times&rpar;](http://www.techmeme.com/241211/p18#a241211p18)
- - [The Galaxy Z Flip 7’s future could be set with Exynos](https://www.androidauthority.com/samsung-galaxy-z-flip-7-exynos-2500-report-3507645/)
- - [Designer Babies Are Teenagers Now—and Some of Them Need Therapy Because of It](https://www.wired.com/story/your-next-job-designer-baby-therapist/)<!-- TECH:END -->
+ - [9 Best Diffusers for Curly Hair &lpar;2024&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-diffusers/)
+ - [Want a color e-reader for Christmas? Here are some alternatives to the botched Kindle Colorsoft](https://www.androidauthority.com/kindle-colorsoft-color-e-reader-alternatives-3507139/)
+ - [The Top New Features in Apple’s iOS 18 and iPadOS 18](https://www.wired.com/story/apple-iphone-ios-18-ipados-18-new-features/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
