@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Peek a Boo!](http://9gag.com/gag/aKG6rpg)
- - ⏩ [When Cops give you a Unibrow](http://9gag.com/gag/aYQozWO)
- - 👉 [Like a robot](http://9gag.com/gag/ajPmoLw)<!-- MEMES:END -->
+ - 💣 [Perfect alibi.](http://9gag.com/gag/a9y1j20)
+ - ⏩ [...](http://9gag.com/gag/aqyjq37)
+ - 👉 [Stay strong brotha](http://9gag.com/gag/agmBR2r)<!-- MEMES:END -->
 
 ---
 
