@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Prisma, an upcoming Persona-like indie JRPG, goes all multiverse theory by filling out your party with alternate versions of its camera-wielding protagonist](https://www.pcgamer.com/games/rpg/prisma-an-upcoming-persona-like-indie-jrpg-goes-all-multiverse-theory-by-filling-out-your-party-with-alternate-versions-of-its-camera-wielding-protagonist)
- - [Delta Force says its USB drive ban was a &#39;translation error&#39; and it won&#39;t shunt you to the shadowrealm for keeping a thumbstick plugged in](https://www.pcgamer.com/games/fps/delta-force-says-its-usb-drive-ban-was-a-translation-error-and-it-wont-shunt-you-to-the-shadowrealm-for-keeping-a-thumbstick-plugged-in)
- - [How to get more spirit in Path of Exile 2](https://www.pcgamer.com/games/rpg/path-of-exile-2-spirit)<!-- GAME:END -->
+ - [Nvidia&#39;s eyeing up ways to beef up its future AI chips with GPUs on top of GPUs and the power of light](https://www.pcgamer.com/hardware/graphics-cards/nvidias-eyeing-up-ways-to-beef-up-its-future-ai-chips-with-gpus-on-top-of-gpus-and-the-power-of-light)
+ - [Among Us bizarrely namechecked as NBC claims suspected healthcare CEO shooter &#39;belonged to a group of Ivy League gamers who played assassins&#39;—devs respond, &#39;um&#39;](https://www.pcgamer.com/games/among-us-bizarrely-namechecked-as-nbc-claims-suspected-healthcare-ceo-shooter-belonged-to-a-group-of-ivy-league-gamers-who-played-assassins-devs-respond-um)
+ - [13-year-old that made a killing creating a crypto and then dumping it gets &#39;revenge pumped&#39;, family doxxed, and even dognapping rumours emerge](https://www.pcgamer.com/hardware/13-year-old-that-made-a-killing-creating-a-crypto-and-then-dumping-it-gets-revenge-pumped-family-doxxed-and-even-dognapping-rumours-emerge)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
