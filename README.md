@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Today&#39;s Wordle answer for Wednesday, December 11](https://www.pcgamer.com/games/puzzle/wordle-answer-today-december-11-2024)
- - [Microsoft Flight Simulator 2024&#39;s career mode is buggy and frustrating and I can&#39;t stop playing it](https://www.pcgamer.com/games/sim/microsoft-flight-simulator-2024s-career-mode-is-buggy-and-frustrating-and-i-cant-stop-playing-it)
- - [LEGO Fortnite Brick Life: Build Your Life in the Big City Starting December 12](https://www.fortnite.com/news/lego-fortnite-brick-life-build-your-life-in-the-big-city#new_tab)<!-- GAME:END -->
+ - [Prisma, an upcoming Persona-like indie JRPG, goes all multiverse theory by filling out your party with alternate versions of its camera-wielding protagonist](https://www.pcgamer.com/games/rpg/prisma-an-upcoming-persona-like-indie-jrpg-goes-all-multiverse-theory-by-filling-out-your-party-with-alternate-versions-of-its-camera-wielding-protagonist)
+ - [Delta Force says its USB drive ban was a &#39;translation error&#39; and it won&#39;t shunt you to the shadowrealm for keeping a thumbstick plugged in](https://www.pcgamer.com/games/fps/delta-force-says-its-usb-drive-ban-was-a-translation-error-and-it-wont-shunt-you-to-the-shadowrealm-for-keeping-a-thumbstick-plugged-in)
+ - [How to get more spirit in Path of Exile 2](https://www.pcgamer.com/games/rpg/path-of-exile-2-spirit)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
