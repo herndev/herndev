@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [YouTube says viewers streamed 1B+ hours of content daily on TVs in 2024 globally, including 400M+ hours of podcasts monthly; sports content watchtime grew 30% &lpar;Kurt Wilms/YouTube Official Blog&rpar;](http://www.techmeme.com/241211/p24#a241211p24)
- - [Apple may be partnering with Broadcom to make AI processors for servers](https://appleinsider.com/articles/24/12/11/apple-may-be-partnering-with-broadcom-to-make-ai-processors-for-servers?utm_medium=rss)
- - [Wallpaper Wednesday: More great phone wallpapers for all to share &lpar;December 11&rpar;](https://www.androidauthority.com/wallpaper-wednesday-dec-11-2024-3506996/)<!-- TECH:END -->
+ - [Apple Watch Series 10’s record low price from Black Friday is back](https://www.theverge.com/2024/12/11/24318667/apple-watch-series-10-smartwatch-sonos-ace-headphones-deal-sale)
+ - [Google releases Gemini 2.0 Flash to generate images, audio, and text, and use third-party apps and services, available via Gemini API and developer platforms &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/241211/p33#a241211p33)
+ - [Google unveils Deep Research, an AI tool to let its Gemini chatbot scour the web and write a detailed report, available in English for Gemini Advanced users &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/241211/p32#a241211p32)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
