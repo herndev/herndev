@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [YouTube’s AI-powered dubbing is now available to many more creators](https://www.theverge.com/2024/12/10/24318309/youtube-partners-ai-auto-dubbing-translation-knowledge-information-videos)
- - [The YouTube Kids mobile app gets a redesign that makes it look more like the standard YouTube app and lets users browse through videos in portrait mode &lpar;Quentyn Kennemer/The Verge&rpar;](http://www.techmeme.com/241210/p20#a241210p20)
- - [Schlage is first in line to support Google Wallet’s new Wear OS keyless entry](https://www.androidauthority.com/google-wallet-wear-os-keyless-entry-3507481/)<!-- TECH:END -->
+ - [A California District Court judge orders Automattic to stop blocking WP Engine&#39;s access to WordPress.org resources and interfering with its plugins &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/241210/p24#a241210p24)
+ - [WordPress must stop blocking WP Engine, judge rules](https://www.theverge.com/2024/12/10/24318350/automattic-restore-wp-engine-access-wordpress)
+ - [Trump picks FTC Commissioner Andrew Ferguson to chair the FTC; Ferguson has said the FTC should tackle perceived censorship of conservative viewpoints online &lpar;Jody Godoy/Reuters&rpar;](http://www.techmeme.com/241210/p23#a241210p23)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
