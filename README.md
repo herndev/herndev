@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Lord of the Rings: The War of the Rohirrim is a soulless return to Middle-earth](https://www.theverge.com/2024/12/11/24318164/lord-of-the-rings-war-of-the-rohirrim-review)
- - [The Onion’s acquisition of Infowars was blocked by a judge](https://www.theverge.com/2024/12/11/24318745/the-onion-infowars-acqusition-blocked-judge)
- - [Samsung&#39;s holiday TV deals slash up to $4,000 off OLED, The Frame, QLED models](https://appleinsider.com/articles/24/12/11/samsungs-holiday-tv-deals-slash-up-to-4000-off-oled-the-frame-qled-models?utm_medium=rss)<!-- TECH:END -->
+ - [Vote for our Reader’s Choice Award for the best phone of 2024! &lpar;Finals&rpar;](https://www.androidauthority.com/best-phone-2024-readers-choice-voting-3506098/)
+ - [Nvidia must face lawsuit alleging it downplayed crypto’s impact on its success](https://www.theverge.com/2024/12/11/24318794/nvidia-supreme-court-investor-lawsuit-cryptocurrency)
+ - [Apple Intelligence launches outside of the US for the first time and is now available in Canada, Australia, New Zealand, Ireland, the UK, and South Africa &lpar;Joe Rossignol/MacRumors&rpar;](http://www.techmeme.com/241211/p34#a241211p34)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
