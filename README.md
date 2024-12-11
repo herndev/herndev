@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [That is all the diversity I need.](http://9gag.com/gag/amogq2j)
- - ⏩ [Wife material](http://9gag.com/gag/ae9AX0v)
- - 👉 [...](http://9gag.com/gag/aqyjq37)<!-- MEMES:END -->
+ - 💣 [Peek a Boo!](http://9gag.com/gag/aKG6rpg)
+ - ⏩ [When Cops give you a Unibrow](http://9gag.com/gag/aYQozWO)
+ - 👉 [Like a robot](http://9gag.com/gag/ajPmoLw)<!-- MEMES:END -->
 
 ---
 
