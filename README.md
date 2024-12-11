@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone 16 Pro lineup gets Layered Voice Memos feature in iOS 18.2](https://appleinsider.com/articles/24/12/11/iphone-16-pro-lineup-gets-layered-voice-memos-feature-in-ios-182?utm_medium=rss)
- - [Krispy Kreme got cyberattacked](https://www.theverge.com/2024/12/11/24318861/krispy-kreme-cybersecurity-incident-online-ordering)
- - [Apple issues updates for iPadOS 17, macOS Ventura, Sonoma](https://appleinsider.com/articles/24/12/11/apple-issues-updates-for-ipados-17-macos-ventura-sonoma?utm_medium=rss)<!-- TECH:END -->
+ - [M4 MacBook Air leaked in macOS Sequoia 15.2 update &amp; regulatory documents](https://appleinsider.com/articles/24/12/11/m4-macbook-air-leaked-in-macos-sequoia-152-update-regulatory-documents?utm_medium=rss)
+ - [The best doorbell cameras](https://www.theverge.com/22954554/best-video-doorbell-camera)
+ - [Apple adds a Layered Recordings feature to Voice Memos app in iOS 18.2, for iPhone 16 Pro and Pro Max; iOS 18 previously brought transcriptions to Voice Memos &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/241211/p38#a241211p38)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
