@@ -33,7 +33,7 @@
 
 <!-- GAME:START -->
  - [LEGO Fortnite Brick Life: Build Your Life in the Big City Starting December 12](https://www.fortnite.com/news/lego-fortnite-brick-life-build-your-life-in-the-big-city#new_tab)
- - [Well, that&#39;s a new twist: save a town by turning it into a giant pinball table in open world adventure Pinbleton Park](https://www.pcgamer.com/games/action/well-thats-a-new-twist-save-a-town-by-turning-it-into-a-giant-pinball-table-in-open-world-adventure-pinbleton-park)
+ - [Well, that&#39;s a new twist: save a town by turning it into a giant pinball game in open world adventure Pinbleton Park](https://www.pcgamer.com/games/action/well-thats-a-new-twist-save-a-town-by-turning-it-into-a-giant-pinball-table-in-open-world-adventure-pinbleton-park)
  - [Doctor Strange mains are using portals to trick entire Marvel Rivals teams into jumping off a cliff](https://www.pcgamer.com/games/third-person-shooter/doctor-strange-mains-are-using-portals-to-trick-entire-marvel-rivals-teams-into-jumping-off-a-cliff)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
