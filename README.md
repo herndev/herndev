@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ayar Labs, which develops optical interconnects, raised a $155M Series D from Advent Global, Light Street, Nvidia, AMD, Intel, and others at a $1B+ valuation &lpar;Jane Lanhee Lee/Bloomberg&rpar;](http://www.techmeme.com/241211/p39#a241211p39)
- - [Google Wallet is fixing it so you never have to worry about losing your passport &lpar;Update: Rolling out&rpar;](https://www.androidauthority.com/google-wallet-passport-3506634/)
- - [Android is making it easier to find unknown trackers to prevent stalking](https://www.theverge.com/2024/12/11/24318992/android-find-my-device-bluetooth-tracker-stalking)<!-- TECH:END -->
+ - [Grab Apple&#39;s M3 15-inch MacBook Air with 24GB RAM, 1TB for $1,699 &lpar;$200 off&rpar;](https://appleinsider.com/articles/24/12/11/grab-apples-m3-15-inch-macbook-air-with-24gb-ram-1tb-for-1699-200-off?utm_medium=rss)
+ - [Adobe reports Q4 revenue up 11% YoY to $5.61B, vs. $5.54B est., Digital Media revenue up 12%, forecasts FY 2025 revenue below est.; ADBE drops 8%+ after hours &lpar;Brody Ford/Bloomberg&rpar;](http://www.techmeme.com/241211/p41#a241211p41)
+ - [Deal: The Motorola Edge 2024 is $250 off!](https://www.androidauthority.com/motorola-edge-2024-deal-3507906/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
