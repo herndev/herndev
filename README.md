@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How Tencent&#39;s MoreFun Studios, on the verge of collapse a decade ago, is fueling the company&#39;s ambitions to create &quot;evergreen&quot; global gaming franchises &lpar;Bloomberg&rpar;](http://www.techmeme.com/241211/p12#a241211p12)
- - [German online fashion retailer Zalando agrees to buy About You, a smaller rival, for ~&amp;euro;1.2B, or &amp;euro;6.50 per share, a ~67% premium on December 10&#39;s closing price &lpar;Deirdre Hipwell/Bloomberg&rpar;](http://www.techmeme.com/241211/p11#a241211p11)
- - [Blockchain Innovation Will Put an AI-Powered Internet Back Into Users’ Hands](https://www.wired.com/story/blockchain-open-web-user-data/)<!-- TECH:END -->
+ - [A look at the relationship between Tether and Trump transition co-Chair Howard Lutnick, who boasted of Cantor Fitzgerald handling $10B in redemptions in 2022 &lpar;Financial Times&rpar;](http://www.techmeme.com/241211/p15#a241211p15)
+ - [Sweden&#39;s financial regulator fines Klarna $50M and reprimands the BNPL company for breaking anti-money laundering rules between 2021 and 2022 &lpar;Richard Milne/Financial Times&rpar;](http://www.techmeme.com/241211/p14#a241211p14)
+ - [Google Maps on Android rolls out new colors, but they’re still not dynamic](https://www.androidauthority.com/google-maps-android-teal-3507581/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
