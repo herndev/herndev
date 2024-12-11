@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Vote for our Reader’s Choice Award for the best phone of 2024! &lpar;Finals&rpar;](https://www.androidauthority.com/best-phone-2024-readers-choice-voting-3506098/)
- - [Nvidia must face lawsuit alleging it downplayed crypto’s impact on its success](https://www.theverge.com/2024/12/11/24318794/nvidia-supreme-court-investor-lawsuit-cryptocurrency)
- - [Apple Intelligence launches outside of the US for the first time and is now available in Canada, Australia, New Zealand, Ireland, the UK, and South Africa &lpar;Joe Rossignol/MacRumors&rpar;](http://www.techmeme.com/241211/p34#a241211p34)<!-- TECH:END -->
+ - [iPhone 16 Pro lineup gets Layered Voice Memos feature in iOS 18.2](https://appleinsider.com/articles/24/12/11/iphone-16-pro-lineup-gets-layered-voice-memos-feature-in-ios-182?utm_medium=rss)
+ - [Krispy Kreme got cyberattacked](https://www.theverge.com/2024/12/11/24318861/krispy-kreme-cybersecurity-incident-online-ordering)
+ - [Apple issues updates for iPadOS 17, macOS Ventura, Sonoma](https://appleinsider.com/articles/24/12/11/apple-issues-updates-for-ipados-17-macos-ventura-sonoma?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
