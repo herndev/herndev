@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Bro what?](http://9gag.com/gag/adB8ZV2)
- - ⏩ [Every time when I watch the movie I&#39;m terrified by the voice over.](http://9gag.com/gag/aVvxjOd)
+ - 💣 [Oh no Kermit ?](http://9gag.com/gag/aGypWW6)
+ - ⏩ [Asada.](http://9gag.com/gag/aByn9j2)
  - 👉 [Chinese being indian](http://9gag.com/gag/a6ZEWDm)<!-- MEMES:END -->
 
 ---
