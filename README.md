@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Indiana Jones And The Great Circle: Should You Focus On Just The Main Story?](https://kotaku.com/indiana-jones-great-circle-main-story-side-content-1851718179)
- - [Steam has just beaten its concurrent players record once again with a whopping 39.2 million at one time](https://www.pcgamer.com/software/steam-has-just-beaten-its-concurrent-players-record-once-again-with-a-whopping-39-2-million-at-one-time)
- - [All Trial of the Sehkemas challenges and rewards in Path of Exile 2](https://www.polygon.com/path-exile-2-guide/493902/trial-sehkemas-all-rewards-challenges-how-to-unlock)<!-- GAME:END -->
+ - [Creating a Personal Travelogue with Microsoft Flight Simulator 2024](https://news.xbox.com/en-us/2024/12/11/creating-a-personal-travelogue-with-microsoft-flight-simulator-2024/)
+ - [The best video essays of 2024](https://www.polygon.com/best-of-the-year/490780/best-video-essays-2024-youtube-vimeo)
+ - [Cyberpunk 2077&#39;s new update secretly added a Balatro-based sidequest, among other unlisted changes](https://www.pcgamer.com/games/action/cyberpunk-2077s-new-update-secretly-added-a-balatro-based-sidequest-among-other-unlisted-changes)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
