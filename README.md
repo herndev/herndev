@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The last photo ever taken of Michael Rockefeller. It\u2019s believed that the Asmat people known cannibals who beheaded their victims ate the unlucky explorer during one of his trips.](http://9gag.com/gag/a5Q1p0O)
- - ⏩ [Nurse caught exposing herself to patient](http://9gag.com/gag/aKG6bDj)
- - 👉 [F1 training is no joke](http://9gag.com/gag/aD2DRvw)<!-- MEMES:END -->
+ - 💣 [Stereotype reinforcement - check](http://9gag.com/gag/aGyzKK7)
+ - ⏩ [ARGENTINA ENDS DEFICIT FOR THE FIRST TIME IN 123 YEARS\u2026.](http://9gag.com/gag/ayN95xy)
+ - 👉 [Nurse caught exposing herself to patient](http://9gag.com/gag/aKG6bDj)<!-- MEMES:END -->
 
 ---
 
