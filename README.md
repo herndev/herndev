@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Life happened](http://9gag.com/gag/azxMN1K)
+ - 💣 [Bro what?](http://9gag.com/gag/adB8ZV2)
  - ⏩ [Every time when I watch the movie I&#39;m terrified by the voice over.](http://9gag.com/gag/aVvxjOd)
- - 👉 [Bro what?](http://9gag.com/gag/adB8ZV2)<!-- MEMES:END -->
+ - 👉 [Chinese being indian](http://9gag.com/gag/a6ZEWDm)<!-- MEMES:END -->
 
 ---
 
