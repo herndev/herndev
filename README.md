@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Nvidia&#39;s eyeing up ways to beef up its future AI chips with GPUs on top of GPUs and the power of light](https://www.pcgamer.com/hardware/graphics-cards/nvidias-eyeing-up-ways-to-beef-up-its-future-ai-chips-with-gpus-on-top-of-gpus-and-the-power-of-light)
- - [Among Us bizarrely namechecked as NBC claims suspected healthcare CEO shooter &#39;belonged to a group of Ivy League gamers who played assassins&#39;—devs respond, &#39;um&#39;](https://www.pcgamer.com/games/among-us-bizarrely-namechecked-as-nbc-claims-suspected-healthcare-ceo-shooter-belonged-to-a-group-of-ivy-league-gamers-who-played-assassins-devs-respond-um)
- - [13-year-old that made a killing creating a crypto and then dumping it gets &#39;revenge pumped&#39;, family doxxed, and even dognapping rumours emerge](https://www.pcgamer.com/hardware/13-year-old-that-made-a-killing-creating-a-crypto-and-then-dumping-it-gets-revenge-pumped-family-doxxed-and-even-dognapping-rumours-emerge)<!-- GAME:END -->
+ - [You can pick up a refurbished Steam Deck OLED directly from Valve for as little as $439 if others haven&#39;t already scooped them all up](https://www.pcgamer.com/hardware/get-your-refurbished-steam-deck-directly-from-valve)
+ - [Space Marine 2&#39;s huge Obelisk Update adds a long-awaited new mission, reworked melee combat, bonus XP, and goat-bird-wizards hurtling towards you on living flying saucers](https://www.pcgamer.com/games/third-person-shooter/space-marine-2s-huge-obelisk-update-adds-a-long-awaited-new-mission-reworked-melee-combat-bonus-xp-and-goat-bird-wizards-hurtling-towards-you-on-living-flying-saucers)
+ - [The 10 Worst Movies Of 2024 According To Metacritic](https://kotaku.com/worst-movies-2024-metacritic-madame-web-borderlands-1851718062)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
