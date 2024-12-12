@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [ARGENTINA ENDS DEFICIT FOR THE FIRST TIME IN 123 YEARS\u2026.](http://9gag.com/gag/ayN95xy)
- - ⏩ [Floof check](http://9gag.com/gag/aPAZy7g)
- - 👉 [Looks like New Yorkers are done playing nice!](http://9gag.com/gag/a2v1PGO)<!-- MEMES:END -->
+ - 💣 [Floof check](http://9gag.com/gag/aPAZy7g)
+ - ⏩ [Looks like New Yorkers are done playing nice!](http://9gag.com/gag/a2v1PGO)
+ - 👉 [Send me your weirdest pictures &lpar;nothing sexual please&rpar;](http://9gag.com/gag/abAgypp)<!-- MEMES:END -->
 
 ---
 
