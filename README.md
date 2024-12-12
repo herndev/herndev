@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Today&#39;s Wordle answer for Thursday, December 12](https://www.pcgamer.com/games/puzzle/wordle-answer-today-december-12-2024/)
- - [The Game Awards 2024](https://www.polygon.com/game-awards-tga/495106/the-game-awards-2024)
- - [PlayStation Plus subscribers can spend December with Forspoken’s surprisingly good parkour](https://www.polygon.com/news/494973/forspoken-playstation-plus-december-2024)<!-- GAME:END -->
+ - [Monster Hunter Now weapon list and how to unlock new weapon types](https://www.polygon.com/monster-hunter-now-guides/23871928/weapon-list-types-unlock)
+ - [Monster Hunter Now monster list](https://www.polygon.com/monster-hunter-now-guides/23871958/monster-list-all)
+ - [Today&#39;s Wordle answer for Thursday, December 12](https://www.pcgamer.com/games/puzzle/wordle-answer-today-december-12-2024/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
