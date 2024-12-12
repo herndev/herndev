@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [United Airlines and Air Canada first to offer official support for AirTag link sharing](https://appleinsider.com/articles/24/12/12/united-airlines-and-air-canada-first-to-offer-official-support-for-airtag-link-sharing?utm_medium=rss)
- - [How to set parental controls on iOS 18 and iPadOS 18](https://appleinsider.com/articles/24/12/12/how-to-set-parental-controls-on-ios-18-and-ipados-18?utm_medium=rss)
- - [Poker cheats are using modified smartphone cameras as the ace up their sleeve](https://www.androidauthority.com/smartphone-camera-poker-cheat-3508341/)<!-- TECH:END -->
+ - [Verizon is using 5G network slicing to offer better video calling — for a price](https://www.theverge.com/2024/12/12/24319785/verizon-5g-sa-network-slicing-enhanced-video-calling)
+ - [Numbers, Pages, and Keynote gain Apple Intelligence smarts](https://appleinsider.com/articles/24/12/12/numbers-pages-and-keynote-gain-apple-intelligence-smarts?utm_medium=rss)
+ - [Toyota’s next EV is this small Urban Cruiser SUV for Europe](https://www.theverge.com/2024/12/12/24319827/toyota-urban-cruiser-suzuki-evitara-suv-ev-europe)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
