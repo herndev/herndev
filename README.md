@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle answer for Thursday, December 12](https://www.pcgamer.com/games/puzzle/wordle-answer-today-december-12-2024/)
  - [The Game Awards 2024](https://www.polygon.com/game-awards-tga/495106/the-game-awards-2024)
- - [PlayStation Plus subscribers can spend December with Forspoken’s surprisingly good parkour](https://www.polygon.com/news/494973/forspoken-playstation-plus-december-2024)
- - [Dungeons &amp;#038; Dragons, Kobold Press give away free adventures for the holidays](https://www.polygon.com/tabletop-games/495168/dungeons-dragons-giveaways-kobold-press-holiday-gifts)<!-- GAME:END -->
+ - [PlayStation Plus subscribers can spend December with Forspoken’s surprisingly good parkour](https://www.polygon.com/news/494973/forspoken-playstation-plus-december-2024)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
