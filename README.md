@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Every time when I watch the movie I&#39;m terrified by the voice over.](http://9gag.com/gag/aVvxjOd)
- - ⏩ [How poor we are](http://9gag.com/gag/aO836DR)
- - 👉 [She was having an off day](http://9gag.com/gag/aGyzKMz)<!-- MEMES:END -->
+ - 💣 [Floof check](http://9gag.com/gag/aPAZy7g)
+ - ⏩ [It&#39;s wednesday, my dudes](http://9gag.com/gag/aKGmwN6)
+ - 👉 [Always look at the mother](http://9gag.com/gag/aNDPejK)<!-- MEMES:END -->
 
 ---
 
