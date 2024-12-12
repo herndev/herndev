@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Former Cognizant employees detail how it favored Indian H-1B workers over US staff; internal data from 2013 to 2020: ~66% of US-based employees were from India &lpar;Bloomberg&rpar;](http://www.techmeme.com/241212/p11#a241212p11)
- - [If You Made Money via PayPal, Cash App or Venmo This Year, You May Get a 1099-K. Here&#39;s Why](https://www.cnet.com/personal-finance/taxes/if-you-made-money-via-paypal-cash-app-or-venmo-this-year-you-may-get-a-1099-k-heres-why/#ftag=CAD590a51e)
- - [Leaked image reveals potential iPhone 17 Pro redesign, and it’s suspiciously familiar](https://www.androidauthority.com/apple-iphone-17-pro-frame-leak-3508032/)<!-- TECH:END -->
+ - [Windows 11 could encourage emoji use with this key change](https://www.androidauthority.com/windows-11-emoji-taskbar-shortcut-3508057/)
+ - [Google tells us how Pixel’s bypass charging feature works](https://www.androidauthority.com/google-pixel-bypass-charging-details-3508077/)
+ - [GM pulling the plug on Cruise&#39;s robotaxi experiment in favor of &quot;privately owned&quot; driverless cars is the beginning of a risky new phase for autonomous vehicles &lpar;Andrew J. Hawkins/The Verge&rpar;](http://www.techmeme.com/241212/p15#a241212p15)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
