@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Asada.](http://9gag.com/gag/aByn9j2)
- - ⏩ [I dont know why everyone is so mad about the Snow white remake, its kinda entertaining](http://9gag.com/gag/aryMPYd)
- - 👉 [The couch.](http://9gag.com/gag/avyA25E)<!-- MEMES:END -->
+ - 💣 [Luigi Mangione: `This is completely out of touch and an insult to the intelligence of the American people!\u201d](http://9gag.com/gag/aKGm4vg)
+ - ⏩ [Google\u2019s Willow Quantum Chip: With 105 qubits and real-time error correction, Willow solved a task in 5 minutes that would take classical supercomputers billions of years, marking a breakthrough in scalable quantum computing.](http://9gag.com/gag/ae9AoXp)
+ - 👉 [When a little kid has more brains than you!](http://9gag.com/gag/a2v1EDZ)<!-- MEMES:END -->
 
 ---
 
