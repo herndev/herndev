@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Study: the US is on track to add more construction for computer and electronics manufacturing in 2024 alone than it did during the 20 years before the CHIPS Act &lpar;Michael Acton/Financial Times&rpar;](http://www.techmeme.com/241212/p9#a241212p9)
- - [The US CSRB starts probing the Salt Typhoon hack; CISA says the CSRB&#39;s report could come as early as next spring and wouldn&#39;t be disrupted by the transition &lpar;Jake Bleiberg/Bloomberg&rpar;](http://www.techmeme.com/241212/p8#a241212p8)
- - [Report: Apple canceled the development of a high-performance Mac chip this past summer to let some of its engineers in Israel work on its first AI server chip &lpar;John Gruber/Daring Fireball&rpar;](http://www.techmeme.com/241212/p7#a241212p7)<!-- TECH:END -->
+ - [Major iOS 19 features could get delayed, and you can blame iOS 18](https://www.androidauthority.com/ios-19-features-delayed-3508025/)
+ - [Gemini 2.0 Flash LLM early impressions: spatial reasoning performance is impressive and its new streaming API is one of those &quot;we live in the future&quot; moments &lpar;Simon Willison/Simon Willison&#39;s Weblog&rpar;](http://www.techmeme.com/241212/p10#a241212p10)
+ - [Study: the US is on track to add more construction for computer and electronics manufacturing in 2024 alone than it did during the 20 years before the CHIPS Act &lpar;Michael Acton/Financial Times&rpar;](http://www.techmeme.com/241212/p9#a241212p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
