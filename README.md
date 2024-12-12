@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta donates $1M to president-elect Trump&#39;s inaugural fund; sources: Mark Zuckerberg gifted Meta&#39;s Ray-Ban smart glasses to Trump at Mar-a-Lago on November 27 &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/241211/p52#a241211p52)
- - [Today&#39;s NYT Strands Hints, Answers and Help for Dec. 12, #284](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-dec-12-284/#ftag=CAD590a51e)
- - [Today&#39;s NYT Connections Hints, Answers and Help for Dec. 12, #550](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-dec-12-550/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The FCC opens all 1,200 megahertz of the 6GHz band for unlicensed use by very-low-power devices, citing growth in wearables, AR/VR, and other cutting-edge tech &lpar;George Winslow/Tv Technology&rpar;](http://www.techmeme.com/241212/p4#a241212p4)
+ - [Montreal-based Flare, a threat exposure management startup that develops tech to thwart info-stealer malware, raised a $30M Series B led by Base10 Partners &lpar;Julie Bort/TechCrunch&rpar;](http://www.techmeme.com/241212/p3#a241212p3)
+ - [Sources: Nvidia added ~200 staff to its self-driving R&amp;D team in Beijing and will end the year with ~4,000 staff in China, up from ~3,000 at the start of 2024 &lpar;Bloomberg&rpar;](http://www.techmeme.com/241212/p2#a241212p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
