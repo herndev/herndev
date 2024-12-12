@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to set parental controls on iOS 18 and iPadOS 18](https://appleinsider.com/articles/24/12/12/how-to-set-parental-controls-on-ios-18-and-ipados-18?utm_medium=rss)
- - [NeuBird, which is using generative AI to automate IT site reliability operations, raised a $22.5M seed extension led by M12, following a $22M seed in April &lpar;Marina Temkin/TechCrunch&rpar;](http://www.techmeme.com/241211/p51#a241211p51)
- - [Congress asking Apple and other big tech what they&#39;re doing about deepfakes](https://appleinsider.com/articles/24/12/12/congress-asking-apple-and-other-big-tech-what-theyre-doing-about-deepfakes?utm_medium=rss)<!-- TECH:END -->
+ - [Meta donates $1M to president-elect Trump&#39;s inaugural fund; sources: Mark Zuckerberg gifted Meta&#39;s Ray-Ban smart glasses to Trump at Mar-a-Lago on November 27 &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/241211/p52#a241211p52)
+ - [Today&#39;s NYT Strands Hints, Answers and Help for Dec. 12, #284](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-dec-12-284/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Connections Hints, Answers and Help for Dec. 12, #550](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-dec-12-550/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
