@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [ChatGPT is down, as OpenAI reports major outage](https://www.androidauthority.com/openai-outage-3507961/)
- - [Here are the best iPad deals right now](https://www.theverge.com/21280354/best-ipad-deals-apple)
- - [Missing Apple Intelligence on Your iPhone After Installing iOS 18.2? Here&#39;s What You Need to Do](https://www.cnet.com/tech/services-and-software/no-apple-intelligence-on-your-iphone-after-installing-ios-18-2-heres-what-you-need-to-do/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The best deals on Apple Watches right now](https://www.theverge.com/21289209/best-apple-watch-deals)
+ - [ServiceTitan, which offers cloud software to contractors, prices its IPO at $71 per share, above the expected range, raising ~$625M and valuing it at ~$6.3B &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/241211/p48#a241211p48)
+ - [Binance and Circle partner to promote USDC; Binance plans to list more crypto trading pairs denominated in USDC and hold USDC for its own corporate treasury &lpar;Muyao Shen/Bloomberg&rpar;](http://www.techmeme.com/241211/p47#a241211p47)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
