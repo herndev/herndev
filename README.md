@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Floof check](http://9gag.com/gag/aPAZy7g)
- - ⏩ [Looks like New Yorkers are done playing nice!](http://9gag.com/gag/a2v1PGO)
- - 👉 [Send me your weirdest pictures &lpar;nothing sexual please&rpar;](http://9gag.com/gag/abAgypp)<!-- MEMES:END -->
+ - 💣 [That&#39;s pretty neat](http://9gag.com/gag/aQzX4qe)
+ - ⏩ [Name your favorite running gags\u2026](http://9gag.com/gag/a0eZPyn)
+ - 👉 [Floof check](http://9gag.com/gag/aPAZy7g)<!-- MEMES:END -->
 
 ---
 
