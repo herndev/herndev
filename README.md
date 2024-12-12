@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Ridley Scott Leaked Paul Mescal&#39;s Involvement In Beatles Biopic](https://kotaku.com/paul-mescal-ridley-scott-beatles-biopic-paul-mccartney-1851719027)
- - [Assassin&#39;s Creed Shadows will have a &#39;Canon Mode&#39; that will make all the correct RPG decisions for you](https://www.pcgamer.com/games/action/assassins-creed-shadows-will-have-a-canon-mode-that-will-make-all-the-correct-rpg-decisions-for-you/)
- - [In Mythwrecked: Ambrosia Island, the Greek gods are queer and kind](https://www.polygon.com/gaming/495089/mythwrecked-ambrosia-island-impressions)<!-- GAME:END -->
+ - [PlayStation Plus subscribers can spend December with Forspoken’s surprisingly good parkour](https://www.polygon.com/news/494973/forspoken-playstation-plus-december-2024)
+ - [Dungeons &amp;#038; Dragons, Kobold Press give away free adventures for the holidays](https://www.polygon.com/tabletop-games/495168/dungeons-dragons-giveaways-kobold-press-holiday-gifts)
+ - [All the Wheel of Time season 3 news we’ve heard so far](https://www.polygon.com/23904579/wheel-time-season-3-release-date-cast-news)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
