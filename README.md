@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Luigi Mangione, suspect in C.E.O. killing, photographed in his holding cell after being charged with murder](http://9gag.com/gag/aD2dBjd)
- - ⏩ [They&#39;re doing content houses now](http://9gag.com/gag/aMV419A)
- - 👉 [When a little kid has more brains than you!](http://9gag.com/gag/a2v1EDZ)<!-- MEMES:END -->
+ - 💣 [Dino got them moves](http://9gag.com/gag/aE08vbp)
+ - ⏩ [Always look at the mother](http://9gag.com/gag/aNDPejK)
+ - 👉 [Some of the best ad](http://9gag.com/gag/aQzXqer)<!-- MEMES:END -->
 
 ---
 
