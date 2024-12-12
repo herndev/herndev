@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Epic and Lego have a long-term plan to make Fortnite more than battle royale](https://www.theverge.com/2024/12/12/24319151/lego-fortnite-epic-games-future-battle-royale-interview)
- - [Palmer Luckey’s defense tech company will make next-gen military aircraft with Archer](https://www.theverge.com/2024/12/12/24319087/anduril-archer-vtol-aircraft-military-investment)
- - [New iPhone 17 rumors point to a radically different rear camera layout](https://appleinsider.com/articles/24/12/12/new-iphone-17-rumors-point-to-a-radically-different-rear-camera-layout?utm_medium=rss)<!-- TECH:END -->
+ - [How to watch the 2024 Game Awards](https://www.theverge.com/2024/12/12/24319127/the-game-awards-2024-how-to-watch-stream-time)
+ - [Character.AI has retrained its chatbots to stop chatting up teens](https://www.theverge.com/2024/12/12/24319050/character-ai-chatbots-teen-model-training-parental-controls)
+ - [As a VPN Expert, These Are the VPNs I Recommend for NFL Streaming](https://www.cnet.com/tech/services-and-software/as-a-vpn-expert-these-are-the-vpns-i-recommend-for-nfl-streaming/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
