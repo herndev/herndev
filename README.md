@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The couch.](http://9gag.com/gag/avyA25E)
- - ⏩ [Every time when I watch the movie I&#39;m terrified by the voice over.](http://9gag.com/gag/aVvxjOd)
- - 👉 [The power of the Prince Rupert drop](http://9gag.com/gag/aGyz9AK)<!-- MEMES:END -->
+ - 💣 [She was having an off day](http://9gag.com/gag/aGyzKMz)
+ - ⏩ [Another quality purchase from Tehmoo](http://9gag.com/gag/a2v1N3D)
+ - 👉 [We have free electricity?](http://9gag.com/gag/ajPgQBp)<!-- MEMES:END -->
 
 ---
 
