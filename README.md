@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The best comics of 2024](https://www.polygon.com/24185731/best-comics-2024-graphic-novels-manga-books)
- - [If you&#39;re too stressed to prep anything for your D&amp;D group this month, WoTC and Kobold Press both had the exact same idea to give you an advent calendar of adventures for free](https://www.pcgamer.com/games/if-youre-too-stressed-to-prep-anything-for-your-d-and-d-group-this-month-wotc-and-kobold-press-both-had-the-exact-same-idea-to-give-you-an-advent-calendar-of-adventures-for-free/)
- - [Path of Exile 2&#39;s build-breaking patch leaves fans calling for better respec options](https://www.pcgamer.com/games/path-of-exile-2s-build-breaking-patch-leave-fans-calling-for-better-respec-options/)<!-- GAME:END -->
+ - [Pokémon TCG Pocket Getting Mew-Themed Booster Set Amid Whopping 60 Million Downloads](https://kotaku.com/pokemon-tcg-pocket-mythical-island-set-mew-1851719502)
+ - [Mafia 4 Trailer Leaks Ahead Of Game Awards, Coming Out Summer 2025](https://kotaku.com/mafia-4-gta-6-trailer-release-date-game-awards-2024-1851719492)
+ - [One of the best party games on PC is getting a sequel](https://www.pcgamer.com/games/one-of-the-best-party-games-on-pc-is-getting-a-sequel/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
