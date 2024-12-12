@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft’s Recall AI is creepy, clever, and compelling](https://www.theverge.com/2024/12/12/24319609/microsoft-recall-hands-on-notepad)
- - [Crusoe Energy, which offers cost-effective generative AI compute at scale using clean energy, raised a $600M Series D led by Founders Fund at a $2.8B valuation &lpar;Kyt Dotson/SiliconANGLE&rpar;](http://www.techmeme.com/241212/p36#a241212p36)
- - [Lost luggage? Your AirTag could help United locate it](https://www.androidauthority.com/united-airlines-airtag-lost-luggage-3508317/)<!-- TECH:END -->
+ - [The big three US carriers have RCS on iPhone, but what about prepaid? Here are your options so far](https://www.androidauthority.com/rcs-iphone-prepaid-support-3508329/)
+ - [A survey of US teens aged 13 to 17 shows 73% use YouTube daily, 57% use TikTok daily, 50% use Instagram, and 20% use Facebook; 17% use X, down from 23% in 2022 &lpar;Pew Research Center&rpar;](http://www.techmeme.com/241212/p40#a241212p40)
+ - [Sources: in the past year, US chip companies have lobbied the US government against a China sales ban, citing billions in lost revenue, shocking US officials &lpar;Ana Swanson/New York Times&rpar;](http://www.techmeme.com/241212/p39#a241212p39)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
