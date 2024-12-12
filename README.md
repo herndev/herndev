@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Some of the best ad](http://9gag.com/gag/aQzXqer)
- - ⏩ [Another quality purchase from Tehmoo](http://9gag.com/gag/a2v1N3D)
- - 👉 [Modding](http://9gag.com/gag/aKGmwL6)<!-- MEMES:END -->
+ - 💣 [That&#39;s it boys, they&#39;ve got him](http://9gag.com/gag/aYQozOV)
+ - ⏩ [How poor we are](http://9gag.com/gag/aO836DR)
+ - 👉 [The couch.](http://9gag.com/gag/avyA25E)<!-- MEMES:END -->
 
 ---
 
