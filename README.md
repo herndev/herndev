@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [They&#39;re doing content houses now](http://9gag.com/gag/aMV419A)
- - ⏩ [Luigi Mangione, suspect in C.E.O. killing, photographed in his holding cell after being charged with murder](http://9gag.com/gag/aD2dBjd)
- - 👉 [The couch.](http://9gag.com/gag/avyA25E)<!-- MEMES:END -->
+ - 💣 [Some of the best ad](http://9gag.com/gag/aQzXqer)
+ - ⏩ [Another quality purchase from Tehmoo](http://9gag.com/gag/a2v1N3D)
+ - 👉 [Modding](http://9gag.com/gag/aKGmwL6)<!-- MEMES:END -->
 
 ---
 
