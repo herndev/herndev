@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Major iOS 19 features could get delayed, and you can blame iOS 18](https://www.androidauthority.com/ios-19-features-delayed-3508025/)
- - [Gemini 2.0 Flash LLM early impressions: spatial reasoning performance is impressive and its new streaming API is one of those &quot;we live in the future&quot; moments &lpar;Simon Willison/Simon Willison&#39;s Weblog&rpar;](http://www.techmeme.com/241212/p10#a241212p10)
- - [Study: the US is on track to add more construction for computer and electronics manufacturing in 2024 alone than it did during the 20 years before the CHIPS Act &lpar;Michael Acton/Financial Times&rpar;](http://www.techmeme.com/241212/p9#a241212p9)<!-- TECH:END -->
+ - [Former Cognizant employees detail how it favored Indian H-1B workers over US staff; internal data from 2013 to 2020: ~66% of US-based employees were from India &lpar;Bloomberg&rpar;](http://www.techmeme.com/241212/p11#a241212p11)
+ - [If You Made Money via PayPal, Cash App or Venmo This Year, You May Get a 1099-K. Here&#39;s Why](https://www.cnet.com/personal-finance/taxes/if-you-made-money-via-paypal-cash-app-or-venmo-this-year-you-may-get-a-1099-k-heres-why/#ftag=CAD590a51e)
+ - [Leaked image reveals potential iPhone 17 Pro redesign, and it’s suspiciously familiar](https://www.androidauthority.com/apple-iphone-17-pro-frame-leak-3508032/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
