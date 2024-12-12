@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [She was having an off day](http://9gag.com/gag/aGyzKMz)
- - ⏩ [Another quality purchase from Tehmoo](http://9gag.com/gag/a2v1N3D)
- - 👉 [We have free electricity?](http://9gag.com/gag/ajPgQBp)<!-- MEMES:END -->
+ - 💣 [Yup, that&#39;s him!](http://9gag.com/gag/ajPgQMG)
+ - ⏩ [She was having an off day](http://9gag.com/gag/aGyzKMz)
+ - 👉 [Beeing smart, beeing cool](http://9gag.com/gag/azxebLB)<!-- MEMES:END -->
 
 ---
 
