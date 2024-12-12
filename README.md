@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Yup, that&#39;s him!](http://9gag.com/gag/ajPgQMG)
- - ⏩ [The couch.](http://9gag.com/gag/avyA25E)
- - 👉 [Title](http://9gag.com/gag/a0e7m7q)<!-- MEMES:END -->
+ - 💣 [Every time when I watch the movie I&#39;m terrified by the voice over.](http://9gag.com/gag/aVvxjOd)
+ - ⏩ [How poor we are](http://9gag.com/gag/aO836DR)
+ - 👉 [She was having an off day](http://9gag.com/gag/aGyzKMz)<!-- MEMES:END -->
 
 ---
 
