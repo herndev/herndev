@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to watch the 2024 Game Awards](https://www.theverge.com/2024/12/12/24319127/the-game-awards-2024-how-to-watch-stream-time)
- - [Character.AI has retrained its chatbots to stop chatting up teens](https://www.theverge.com/2024/12/12/24319050/character-ai-chatbots-teen-model-training-parental-controls)
- - [As a VPN Expert, These Are the VPNs I Recommend for NFL Streaming](https://www.cnet.com/tech/services-and-software/as-a-vpn-expert-these-are-the-vpns-i-recommend-for-nfl-streaming/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Poll: Which Android XR form factor are you most excited about?](https://www.androidauthority.com/android-xr-form-factor-excited-poll-3508137/)
+ - [Another YouTube TV price increase means its even closer to just being cable](https://www.androidauthority.com/youtube-tv-price-increase-again-3508267/)
+ - [YouTube is informing customers that monthly price for YouTube TV&#39;s base plan will jump from $73 to $83 in January 2025, after raising it from $65 to $73 in 2023 &lpar;Matt Yoder/Awful Announcing&rpar;](http://www.techmeme.com/241212/p29#a241212p29)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
