@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Verizon is using 5G network slicing to offer better video calling — for a price](https://www.theverge.com/2024/12/12/24319785/verizon-5g-sa-network-slicing-enhanced-video-calling)
- - [Numbers, Pages, and Keynote gain Apple Intelligence smarts](https://appleinsider.com/articles/24/12/12/numbers-pages-and-keynote-gain-apple-intelligence-smarts?utm_medium=rss)
- - [Toyota’s next EV is this small Urban Cruiser SUV for Europe](https://www.theverge.com/2024/12/12/24319827/toyota-urban-cruiser-suzuki-evitara-suv-ev-europe)<!-- TECH:END -->
+ - [The Onn 4K Pro Google TV is just $39, and in some ways it’s better than Google’s streamers](https://www.androidauthority.com/onn-4k-pro-google-tv-deal-3508419/)
+ - [Google has started updating Maps with the help of dash cam footage](https://www.androidauthority.com/google-maps-dash-cam-3508431/)
+ - [Google says its breakthrough quantum chip can’t break modern cryptography](https://www.theverge.com/2024/12/12/24319879/google-willow-cant-break-rsa-cryptography)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
