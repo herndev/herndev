@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [That&#39;s pretty neat](http://9gag.com/gag/aQzX4qe)
- - ⏩ [Name your favorite running gags\u2026](http://9gag.com/gag/a0eZPyn)
- - 👉 [Floof check](http://9gag.com/gag/aPAZy7g)<!-- MEMES:END -->
+ - 💣 [Yup, that&#39;s him!](http://9gag.com/gag/ajPgQMG)
+ - ⏩ [Why did she do it?](http://9gag.com/gag/a6Z1yVq)
+ - 👉 [F1 training is no joke](http://9gag.com/gag/aD2DRvw)<!-- MEMES:END -->
 
 ---
 
