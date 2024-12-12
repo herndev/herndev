@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [After a year of delays, Hyper Light Breaker is finally launching in early access next month](https://www.pcgamer.com/games/action/after-a-year-of-delays-hyper-light-breaker-is-finally-launching-in-early-access-next-month/)
- - [The Game Awards 2024: All the trailers, news, and announcements](https://www.polygon.com/game-awards-tga/495106/the-game-awards-2024)
- - [Psychedelic assassination FPS Cruelty Squad is getting official merch including &#39;Godhead Heavy Industry&#39; hats and &#39;Resist Cocaine&#39; t-shirts](https://www.pcgamer.com/games/fps/psychedelic-assassination-fps-cruelty-squad-is-getting-official-merch-including-godhead-heavy-industry-hats-and-resist-cocaine-t-shirts/)<!-- GAME:END -->
+ - [How to beat Jamanra, the Abomination in Path of Exile 2](https://www.polygon.com/path-exile-2-guide/495397/jamanra-abomination-boss-fight-how-to-beat-poe2)
+ - [The best class to play in Path of Exile 2 early access](https://www.polygon.com/path-exile-2-guide/495790/class-best-all-what-to-play)
+ - [These Powerful Legendary Artifacts In Stalker 2 Will Change How You Play](https://kotaku.com/stalker-2-legendary-artifacts-anomaly-heart-of-chornoby-1851720164)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
