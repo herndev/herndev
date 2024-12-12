@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The big three US carriers have RCS on iPhone, but what about prepaid? Here are your options so far](https://www.androidauthority.com/rcs-iphone-prepaid-support-3508329/)
- - [A survey of US teens aged 13 to 17 shows 73% use YouTube daily, 57% use TikTok daily, 50% use Instagram, and 20% use Facebook; 17% use X, down from 23% in 2022 &lpar;Pew Research Center&rpar;](http://www.techmeme.com/241212/p40#a241212p40)
- - [Sources: in the past year, US chip companies have lobbied the US government against a China sales ban, citing billions in lost revenue, shocking US officials &lpar;Ana Swanson/New York Times&rpar;](http://www.techmeme.com/241212/p39#a241212p39)<!-- TECH:END -->
+ - [United Airlines and Air Canada first to offer official support for AirTag link sharing](https://appleinsider.com/articles/24/12/12/united-airlines-and-air-canada-first-to-offer-official-support-for-airtag-link-sharing?utm_medium=rss)
+ - [How to set parental controls on iOS 18 and iPadOS 18](https://appleinsider.com/articles/24/12/12/how-to-set-parental-controls-on-ios-18-and-ipados-18?utm_medium=rss)
+ - [Poker cheats are using modified smartphone cameras as the ace up their sleeve](https://www.androidauthority.com/smartphone-camera-poker-cheat-3508341/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
