@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Path of Exile 2&#39;s build-breaking patch leave fans calling for better respec options](https://www.pcgamer.com/games/path-of-exile-2s-build-breaking-patch-leave-fans-calling-for-better-respec-options/)
- - [Josef Fares is bragging about how good Hazelight&#39;s next game is going to be &lpar;again&rpar;: &#39;A lot of people say I&#39;m cocky, but it&#39;s impossible to not be cocky when you have a game like this&#39;](https://www.pcgamer.com/games/action/josef-fares-is-bragging-about-how-good-his-next-game-is-going-to-be-again-a-lot-of-people-say-im-cocky-but-its-impossible-to-not-be-cocky-when-you-have-a-game-like-this/)
- - [Pat Gelsinger rallies against claims some chipmakers are struggling to produce good wafers: anyone using yields as a % &#39;doesn&#39;t understand semiconductor yield&#39;](https://www.pcgamer.com/hardware/processors/pat-gelsinger-rallies-against-claims-some-chipmakers-are-struggling-to-produce-good-wafers-anyone-using-yields-as-a-percent-doesnt-understand-semiconductor-yield/)<!-- GAME:END -->
+ - [The best comics of 2024](https://www.polygon.com/24185731/best-comics-2024-graphic-novels-manga-books)
+ - [If you&#39;re too stressed to prep anything for your D&amp;D group this month, WoTC and Kobold Press both had the exact same idea to give you an advent calendar of adventures for free](https://www.pcgamer.com/games/if-youre-too-stressed-to-prep-anything-for-your-d-and-d-group-this-month-wotc-and-kobold-press-both-had-the-exact-same-idea-to-give-you-an-advent-calendar-of-adventures-for-free/)
+ - [Path of Exile 2&#39;s build-breaking patch leaves fans calling for better respec options](https://www.pcgamer.com/games/path-of-exile-2s-build-breaking-patch-leave-fans-calling-for-better-respec-options/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
