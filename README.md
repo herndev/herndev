@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Yup, that&#39;s him!](http://9gag.com/gag/ajPgQMG)
- - ⏩ [She was having an off day](http://9gag.com/gag/aGyzKMz)
- - 👉 [Beeing smart, beeing cool](http://9gag.com/gag/azxebLB)<!-- MEMES:END -->
+ - 💣 [ARGENTINA ENDS DEFICIT FOR THE FIRST TIME IN 123 YEARS\u2026.](http://9gag.com/gag/ayN95xy)
+ - ⏩ [Floof check](http://9gag.com/gag/aPAZy7g)
+ - 👉 [Looks like New Yorkers are done playing nice!](http://9gag.com/gag/a2v1PGO)<!-- MEMES:END -->
 
 ---
 
