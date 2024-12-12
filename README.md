@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Billionaires distract you to fight a race war](http://9gag.com/gag/a7o1KQe)
- - ⏩ [You cant escape!](http://9gag.com/gag/aqyG2NP)
- - 👉 [Sad and True](http://9gag.com/gag/a7o1yb2)<!-- MEMES:END -->
+ - 💣 [Man is high as a kite](http://9gag.com/gag/a9y1bBK)
+ - ⏩ [Why did she do it?](http://9gag.com/gag/a6Z1yVq)
+ - 👉 [F1 training is no joke](http://9gag.com/gag/aD2DRvw)<!-- MEMES:END -->
 
 ---
 
