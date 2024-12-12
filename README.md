@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [The Game Awards 2024](https://www.polygon.com/game-awards-tga/495106/the-game-awards-2024)
  - [PlayStation Plus subscribers can spend December with Forspoken’s surprisingly good parkour](https://www.polygon.com/news/494973/forspoken-playstation-plus-december-2024)
- - [Dungeons &amp;#038; Dragons, Kobold Press give away free adventures for the holidays](https://www.polygon.com/tabletop-games/495168/dungeons-dragons-giveaways-kobold-press-holiday-gifts)
- - [All the Wheel of Time season 3 news we’ve heard so far](https://www.polygon.com/23904579/wheel-time-season-3-release-date-cast-news)<!-- GAME:END -->
+ - [Dungeons &amp;#038; Dragons, Kobold Press give away free adventures for the holidays](https://www.polygon.com/tabletop-games/495168/dungeons-dragons-giveaways-kobold-press-holiday-gifts)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
