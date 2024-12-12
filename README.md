@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Path of Exile 2&#39;s genius theorycrafters have already put together some wild builds, so we&#39;ve plucked out a few of our favorites that you need to try](https://www.pcgamer.com/games/rpg/path-of-exile-2s-genius-theorycrafters-have-already-put-together-some-wild-builds-so-weve-plucked-out-a-few-of-our-favorites-that-you-need-to-try/)
- - [How to get a house in Lego Fortnite Brick Life](https://www.polygon.com/lego-fortnite-guides/495416/brick-life-house-how-to-get-furniture)
- - [The Game Awards 2024: All the trailers, news, and announcements](https://www.polygon.com/game-awards-tga/495106/the-game-awards-2024)<!-- GAME:END -->
+ - [Star Trucker: Time to Reveal your True Strength](https://news.xbox.com/en-us/2024/12/12/star-trucker-time-to-reveal-your-true-strength/)
+ - [The best new tabletop RPG books of 2024](https://www.polygon.com/best-of-the-year/494304/best-ttrpg-books-2024)
+ - [28 Years Later&#39;s Emaciated Zombie Isn&#39;t Cillian Murphy After All](https://kotaku.com/28-years-later-cillian-murphy-emaciated-zombie-trailer-1851719908)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
