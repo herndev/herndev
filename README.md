@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The next major bloatware app on your Android phone is the Epic Games Store](https://www.androidauthority.com/epic-games-store-android-phones-preinstalled-3508122/)
- - [Apple exec launches Apple Intelligence in Australia](https://appleinsider.com/articles/24/12/12/apple-exec-launches-apple-intelligence-in-australia?utm_medium=rss)
- - [Telef&amp;oacute;nica, one of the world&#39;s largest carriers, plans to preinstall the Epic Games Store on every new compatible Android phone it sells, including Samsung&#39;s &lpar;Sean Hollister/The Verge&rpar;](http://www.techmeme.com/241212/p19#a241212p19)<!-- TECH:END -->
+ - [I want this signature HTC One feature to make a comeback on Pixel phones](https://www.androidauthority.com/front-facing-speakers-pixel-3507658/)
+ - [Is This the Year Everyone Quits Social Media?](https://www.wired.com/story/uncanny-valley-podcast-6-quitting-social-media/)
+ - [Inside the launch — and future — of ChatGPT](https://www.theverge.com/2024/12/12/24318650/chatgpt-openai-history-two-year-anniversary)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
