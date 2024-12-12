@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The NYT Tech Guild, with 600+ members, reaches a tentative deal with management on a contract enhancing job security, setting flexible hybrid schedules, more &lpar;Katie Robertson/New York Times&rpar;](http://www.techmeme.com/241211/p44#a241211p44)
- - [Latest leaked Galaxy S25 dummy units appear to be missing some features](https://www.androidauthority.com/galaxy-s25-new-dummy-unit-leak-3507918/)
- - [The Verge’s 2024 holiday gift guide for tinkerers](https://www.theverge.com/24224047/best-tool-gift-ideas-holiday-2024-handyperson-builders-tinkerers)<!-- TECH:END -->
+ - [ChatGPT is down, as OpenAI reports major outage](https://www.androidauthority.com/openai-outage-3507961/)
+ - [Here are the best iPad deals right now](https://www.theverge.com/21280354/best-ipad-deals-apple)
+ - [Missing Apple Intelligence on Your iPhone After Installing iOS 18.2? Here&#39;s What You Need to Do](https://www.cnet.com/tech/services-and-software/no-apple-intelligence-on-your-iphone-after-installing-ios-18-2-heres-what-you-need-to-do/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
