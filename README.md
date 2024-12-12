@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How to beat Jamanra, the Abomination in Path of Exile 2](https://www.polygon.com/path-exile-2-guide/495397/jamanra-abomination-boss-fight-how-to-beat-poe2)
- - [The best class to play in Path of Exile 2 early access](https://www.polygon.com/path-exile-2-guide/495790/class-best-all-what-to-play)
- - [These Powerful Legendary Artifacts In Stalker 2 Will Change How You Play](https://kotaku.com/stalker-2-legendary-artifacts-anomaly-heart-of-chornoby-1851720164)<!-- GAME:END -->
+ - [How to solve the Resonance Chamber puzzle in Indiana Jones and the Great Circle](https://www.polygon.com/indiana-jones-great-circle-guide/495600/resonance-chamber-puzzle-solution-how-to-solve)
+ - [How to solve the Light Chamber puzzle in Indiana Jones and the Great Circle](https://www.polygon.com/indiana-jones-great-circle-guide/495694/light-chamber-solution-puzzle-beam-combination-how-to-solve)
+ - [The state of the budget graphics card market going into 2025](https://www.pcgamer.com/hardware/graphics-cards/the-state-of-the-budget-graphics-card-market-going-into-2025/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
