@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [OpenAI says ChatGPT and its developer-facing API have been partially recovered while Sora remains down, following an outage for over two hours &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/241211/p49#a241211p49)
- - [The best deals on Apple Watches right now](https://www.theverge.com/21289209/best-apple-watch-deals)
- - [ServiceTitan, which offers cloud software to contractors, prices its IPO at $71 per share, above the expected range, raising ~$625M and valuing it at ~$6.3B &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/241211/p48#a241211p48)<!-- TECH:END -->
+ - [Honda plans to dissolve a self-driving vehicle partnership with GM after GM announced plans to exit robotaxi development; Honda had invested $852M in Cruise &lpar;Shoya Okinaga/Nikkei Asia&rpar;](http://www.techmeme.com/241211/p50#a241211p50)
+ - [OpenAI says it is bringing ChatGPT traffic back up by region and API traffic recovery is ongoing while Sora is beginning to recover, after a multi-hour outage &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/241211/p49#a241211p49)
+ - [The best deals on Apple Watches right now](https://www.theverge.com/21289209/best-apple-watch-deals)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
