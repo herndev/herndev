@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The voice of Shadowheart, Jennifer English, would love to return to the role after Baldur&#39;s Gate 3—as long as Hasbro doesn&#39;t mess it up and &#39;make her into a cartoon&#39;](https://www.pcgamer.com/games/baldurs-gate/the-voice-of-shadowheart-jennifer-english-would-love-to-return-to-the-role-after-baldurs-gate-3-as-long-as-hasbro-doesnt-mess-it-up-and-make-her-into-a-cartoon/)
- - [Sonic The Hedgehog 3 Parodies All Your Favorite Christmas Movies With New Posters](https://kotaku.com/sonic-hedgehog-3-christmas-holiday-movie-posters-parody-1851719733)
- - [You can now buy all the Dragon Age games, from 2009 to 2024, for the same price as Veilguard was on release](https://www.pcgamer.com/games/dragon-age/you-can-now-buy-all-the-dragon-age-games-from-2009-to-2024-for-the-same-price-as-veilguard-was-on-release/)<!-- GAME:END -->
+ - [Path of Exile 2&#39;s genius theorycrafters have already put together some wild builds, so we&#39;ve plucked out a few of our favorites that you need to try](https://www.pcgamer.com/games/rpg/path-of-exile-2s-genius-theorycrafters-have-already-put-together-some-wild-builds-so-weve-plucked-out-a-few-of-our-favorites-that-you-need-to-try/)
+ - [How to get a house in Lego Fortnite Brick Life](https://www.polygon.com/lego-fortnite-guides/495416/brick-life-house-how-to-get-furniture)
+ - [The Game Awards 2024: All the trailers, news, and announcements](https://www.polygon.com/game-awards-tga/495106/the-game-awards-2024)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
