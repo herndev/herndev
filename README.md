@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Poll: Which Android XR form factor are you most excited about?](https://www.androidauthority.com/android-xr-form-factor-excited-poll-3508137/)
- - [Another YouTube TV price increase means its even closer to just being cable](https://www.androidauthority.com/youtube-tv-price-increase-again-3508267/)
- - [YouTube is informing customers that monthly price for YouTube TV&#39;s base plan will jump from $73 to $83 in January 2025, after raising it from $65 to $73 in 2023 &lpar;Matt Yoder/Awful Announcing&rpar;](http://www.techmeme.com/241212/p29#a241212p29)<!-- TECH:END -->
+ - [Here’s how you can try out Gemini-enhanced Google Assistant on Nest devices](https://www.androidauthority.com/nest-mini-nest-audio-gemini-3508236/)
+ - [RFK Plans to Take on Big Pharma. It’s Easier Said Than Done](https://www.wired.com/story/rfks-plan-to-take-on-big-pharma/)
+ - [Biden administration raises tariffs on solar materials from China](https://www.theverge.com/2024/12/12/24319521/china-tariffs-solar-energy-wafer-polysilicon-tungsten)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
