@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Windows 11 could encourage emoji use with this key change](https://www.androidauthority.com/windows-11-emoji-taskbar-shortcut-3508057/)
- - [Google tells us how Pixel’s bypass charging feature works](https://www.androidauthority.com/google-pixel-bypass-charging-details-3508077/)
- - [GM pulling the plug on Cruise&#39;s robotaxi experiment in favor of &quot;privately owned&quot; driverless cars is the beginning of a risky new phase for autonomous vehicles &lpar;Andrew J. Hawkins/The Verge&rpar;](http://www.techmeme.com/241212/p15#a241212p15)<!-- TECH:END -->
+ - [The next major bloatware app on your Android phone is the Epic Games Store](https://www.androidauthority.com/epic-games-store-android-phones-preinstalled-3508122/)
+ - [Apple exec launches Apple Intelligence in Australia](https://appleinsider.com/articles/24/12/12/apple-exec-launches-apple-intelligence-in-australia?utm_medium=rss)
+ - [Telef&amp;oacute;nica, one of the world&#39;s largest carriers, plans to preinstall the Epic Games Store on every new compatible Android phone it sells, including Samsung&#39;s &lpar;Sean Hollister/The Verge&rpar;](http://www.techmeme.com/241212/p19#a241212p19)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
