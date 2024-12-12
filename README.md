@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Pokémon TCG Pocket Getting Mew-Themed Booster Set Amid Whopping 60 Million Downloads](https://kotaku.com/pokemon-tcg-pocket-mythical-island-set-mew-1851719502)
- - [Mafia 4 Trailer Leaks Ahead Of Game Awards, Coming Out Summer 2025](https://kotaku.com/mafia-4-gta-6-trailer-release-date-game-awards-2024-1851719492)
- - [One of the best party games on PC is getting a sequel](https://www.pcgamer.com/games/one-of-the-best-party-games-on-pc-is-getting-a-sequel/)<!-- GAME:END -->
+ - [Free Play Days – Call of Duty: Black Ops 6 &lpar;Multiplayer/Zombies&rpar;, WWE 2K24, Dragon Ball: The Breakers and More](https://news.xbox.com/en-us/2024/12/12/free-play-days-12-12-2024/)
+ - [Call of Duty: Black Ops 6 developers say the avalanche of weird skins is to &#39;maximize fun for players&#39;, whatever that means](https://www.pcgamer.com/games/call-of-duty/call-of-duty-black-ops-6-developers-say-the-avalanche-of-weird-skins-is-to-maximize-fun-for-players-whatever-that-means/)
+ - [This $200 HD monitor boasts retro flair with funky dials and wood panelling, but I&#39;m not entirely convinced by its nostalgic charm](https://www.pcgamer.com/hardware/Japannext-retro-gaming-monitor-on-sale-for-200-usd/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
