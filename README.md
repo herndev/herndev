@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Star Trucker: Time to Reveal your True Strength](https://news.xbox.com/en-us/2024/12/12/star-trucker-time-to-reveal-your-true-strength/)
- - [The best new tabletop RPG books of 2024](https://www.polygon.com/best-of-the-year/494304/best-ttrpg-books-2024)
- - [28 Years Later&#39;s Emaciated Zombie Isn&#39;t Cillian Murphy After All](https://kotaku.com/28-years-later-cillian-murphy-emaciated-zombie-trailer-1851719908)<!-- GAME:END -->
+ - [Psychedelic assassination FPS Cruelty Squad is getting official merch including &#39;Godhead Heavy Industry&#39; hats and &#39;Resist Cocaine&#39; t-shirts](https://www.pcgamer.com/games/fps/psychedelic-assassination-fps-cruelty-squad-is-getting-official-merch-including-godhead-heavy-industry-hats-and-resist-cocaine-t-shirts/)
+ - [Today is your last chance to save $20 on a DualSense controller](https://www.polygon.com/good-deals/495607/playstation-dualsense-wireless-controller-sale)
+ - [Former Destiny 2 and Marathon director is suing Sony and Bungie for $200 million over alleged wrongful dismissal](https://www.pcgamer.com/gaming-industry/former-destiny-2-and-marathon-director-is-suing-sony-and-bungie-for-usd200-million-over-alleged-wrongful-dismissal/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
