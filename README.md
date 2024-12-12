@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Monster Hunter Now weapon list and how to unlock new weapon types](https://www.polygon.com/monster-hunter-now-guides/23871928/weapon-list-types-unlock)
- - [Monster Hunter Now monster list](https://www.polygon.com/monster-hunter-now-guides/23871958/monster-list-all)
- - [Today&#39;s Wordle answer for Thursday, December 12](https://www.pcgamer.com/games/puzzle/wordle-answer-today-december-12-2024/)<!-- GAME:END -->
+ - [Pat Gelsinger rallies against claims some chipmakers are struggling to produce good wafers: anyone using yields as a % &#39;doesn&#39;t understand semiconductor yield&#39;](https://www.pcgamer.com/hardware/processors/pat-gelsinger-rallies-against-claims-some-chipmakers-are-struggling-to-produce-good-wafers-anyone-using-yields-as-a-percent-doesnt-understand-semiconductor-yield/)
+ - [I&#39;m bewitched by this hyper-violent fantasy FPS where you feast upon the brains, eyes, and spleens of your brutalized foes](https://www.pcgamer.com/games/fps/im-bewitched-by-this-hyper-violent-fantasy-fps-where-you-feast-upon-the-brains-eyes-and-spleens-of-your-brutalized-foes/)
+ - [Monster Hunter Now weapon list and how to unlock new weapon types](https://www.polygon.com/monster-hunter-now-guides/23871928/weapon-list-types-unlock)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
