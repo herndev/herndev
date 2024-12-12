@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Here’s how you can try out Gemini-enhanced Google Assistant on Nest devices](https://www.androidauthority.com/nest-mini-nest-audio-gemini-3508236/)
- - [RFK Plans to Take on Big Pharma. It’s Easier Said Than Done](https://www.wired.com/story/rfks-plan-to-take-on-big-pharma/)
- - [Biden administration raises tariffs on solar materials from China](https://www.theverge.com/2024/12/12/24319521/china-tariffs-solar-energy-wafer-polysilicon-tungsten)<!-- TECH:END -->
+ - [Microsoft’s Recall AI is creepy, clever, and compelling](https://www.theverge.com/2024/12/12/24319609/microsoft-recall-hands-on-notepad)
+ - [Crusoe Energy, which offers cost-effective generative AI compute at scale using clean energy, raised a $600M Series D led by Founders Fund at a $2.8B valuation &lpar;Kyt Dotson/SiliconANGLE&rpar;](http://www.techmeme.com/241212/p36#a241212p36)
+ - [Lost luggage? Your AirTag could help United locate it](https://www.androidauthority.com/united-airlines-airtag-lost-luggage-3508317/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
