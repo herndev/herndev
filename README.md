@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Yup, that&#39;s him!](http://9gag.com/gag/ajPgQMG)
- - ⏩ [Why did she do it?](http://9gag.com/gag/a6Z1yVq)
- - 👉 [Who\u2019s coming to hell with me?](http://9gag.com/gag/aryneW5)<!-- MEMES:END -->
+ - 💣 [Billionaires distract you to fight a race war](http://9gag.com/gag/a7o1KQe)
+ - ⏩ [You cant escape!](http://9gag.com/gag/aqyG2NP)
+ - 👉 [Sad and True](http://9gag.com/gag/a7o1yb2)<!-- MEMES:END -->
 
 ---
 
