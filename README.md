@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [She was having an off day](http://9gag.com/gag/aGyzKMz)
- - ⏩ [We have free electricity?](http://9gag.com/gag/ajPgQBp)
- - 👉 [The power of the Prince Rupert drop](http://9gag.com/gag/aGyz9AK)<!-- MEMES:END -->
+ - 💣 [Yup, that&#39;s him!](http://9gag.com/gag/ajPgQMG)
+ - ⏩ [Why did she do it?](http://9gag.com/gag/a6Z1yVq)
+ - 👉 [Who\u2019s coming to hell with me?](http://9gag.com/gag/aryneW5)<!-- MEMES:END -->
 
 ---
 
