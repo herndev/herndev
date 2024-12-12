@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Psychedelic assassination FPS Cruelty Squad is getting official merch including &#39;Godhead Heavy Industry&#39; hats and &#39;Resist Cocaine&#39; t-shirts](https://www.pcgamer.com/games/fps/psychedelic-assassination-fps-cruelty-squad-is-getting-official-merch-including-godhead-heavy-industry-hats-and-resist-cocaine-t-shirts/)
- - [Today is your last chance to save $20 on a DualSense controller](https://www.polygon.com/good-deals/495607/playstation-dualsense-wireless-controller-sale)
- - [Former Destiny 2 and Marathon director is suing Sony and Bungie for $200 million over alleged wrongful dismissal](https://www.pcgamer.com/gaming-industry/former-destiny-2-and-marathon-director-is-suing-sony-and-bungie-for-usd200-million-over-alleged-wrongful-dismissal/)<!-- GAME:END -->
+ - [After a year of delays, Hyper Light Breaker is finally launching in early access next month](https://www.pcgamer.com/games/action/after-a-year-of-delays-hyper-light-breaker-is-finally-launching-in-early-access-next-month/)
+ - [The Game Awards 2024: All the trailers, news, and announcements](https://www.polygon.com/game-awards-tga/495106/the-game-awards-2024)
+ - [Psychedelic assassination FPS Cruelty Squad is getting official merch including &#39;Godhead Heavy Industry&#39; hats and &#39;Resist Cocaine&#39; t-shirts](https://www.pcgamer.com/games/fps/psychedelic-assassination-fps-cruelty-squad-is-getting-official-merch-including-godhead-heavy-industry-hats-and-resist-cocaine-t-shirts/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
