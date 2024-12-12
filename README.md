@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Free Play Days – Call of Duty: Black Ops 6 &lpar;Multiplayer/Zombies&rpar;, WWE 2K24, Dragon Ball: The Breakers and More](https://news.xbox.com/en-us/2024/12/12/free-play-days-12-12-2024/)
- - [Call of Duty: Black Ops 6 developers say the avalanche of weird skins is to &#39;maximize fun for players&#39;, whatever that means](https://www.pcgamer.com/games/call-of-duty/call-of-duty-black-ops-6-developers-say-the-avalanche-of-weird-skins-is-to-maximize-fun-for-players-whatever-that-means/)
- - [This $200 HD monitor boasts retro flair with funky dials and wood panelling, but I&#39;m not entirely convinced by its nostalgic charm](https://www.pcgamer.com/hardware/Japannext-retro-gaming-monitor-on-sale-for-200-usd/)<!-- GAME:END -->
+ - [The voice of Shadowheart, Jennifer English, would love to return to the role after Baldur&#39;s Gate 3—as long as Hasbro doesn&#39;t mess it up and &#39;make her into a cartoon&#39;](https://www.pcgamer.com/games/baldurs-gate/the-voice-of-shadowheart-jennifer-english-would-love-to-return-to-the-role-after-baldurs-gate-3-as-long-as-hasbro-doesnt-mess-it-up-and-make-her-into-a-cartoon/)
+ - [Sonic The Hedgehog 3 Parodies All Your Favorite Christmas Movies With New Posters](https://kotaku.com/sonic-hedgehog-3-christmas-holiday-movie-posters-parody-1851719733)
+ - [You can now buy all the Dragon Age games, from 2009 to 2024, for the same price as Veilguard was on release](https://www.pcgamer.com/games/dragon-age/you-can-now-buy-all-the-dragon-age-games-from-2009-to-2024-for-the-same-price-as-veilguard-was-on-release/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
