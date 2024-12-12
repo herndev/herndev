@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [I want this signature HTC One feature to make a comeback on Pixel phones](https://www.androidauthority.com/front-facing-speakers-pixel-3507658/)
- - [Is This the Year Everyone Quits Social Media?](https://www.wired.com/story/uncanny-valley-podcast-6-quitting-social-media/)
- - [Inside the launch — and future — of ChatGPT](https://www.theverge.com/2024/12/12/24318650/chatgpt-openai-history-two-year-anniversary)<!-- TECH:END -->
+ - [Epic and Lego have a long-term plan to make Fortnite more than battle royale](https://www.theverge.com/2024/12/12/24319151/lego-fortnite-epic-games-future-battle-royale-interview)
+ - [Palmer Luckey’s defense tech company will make next-gen military aircraft with Archer](https://www.theverge.com/2024/12/12/24319087/anduril-archer-vtol-aircraft-military-investment)
+ - [New iPhone 17 rumors point to a radically different rear camera layout](https://appleinsider.com/articles/24/12/12/new-iphone-17-rumors-point-to-a-radically-different-rear-camera-layout?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
