@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Floof check](http://9gag.com/gag/aPAZy7g)
- - ⏩ [It&#39;s wednesday, my dudes](http://9gag.com/gag/aKGmwN6)
- - 👉 [Always look at the mother](http://9gag.com/gag/aNDPejK)<!-- MEMES:END -->
+ - 💣 [The couch.](http://9gag.com/gag/avyA25E)
+ - ⏩ [Every time when I watch the movie I&#39;m terrified by the voice over.](http://9gag.com/gag/aVvxjOd)
+ - 👉 [The power of the Prince Rupert drop](http://9gag.com/gag/aGyz9AK)<!-- MEMES:END -->
 
 ---
 
