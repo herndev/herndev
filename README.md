@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [That&#39;s it boys, they&#39;ve got him](http://9gag.com/gag/aYQozOV)
- - ⏩ [How poor we are](http://9gag.com/gag/aO836DR)
- - 👉 [The couch.](http://9gag.com/gag/avyA25E)<!-- MEMES:END -->
+ - 💣 [Yup, that&#39;s him!](http://9gag.com/gag/ajPgQMG)
+ - ⏩ [The couch.](http://9gag.com/gag/avyA25E)
+ - 👉 [Title](http://9gag.com/gag/a0e7m7q)<!-- MEMES:END -->
 
 ---
 
