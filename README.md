@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Man is high as a kite](http://9gag.com/gag/a9y1bBK)
- - ⏩ [Why did she do it?](http://9gag.com/gag/a6Z1yVq)
- - 👉 [F1 training is no joke](http://9gag.com/gag/aD2DRvw)<!-- MEMES:END -->
+ - 💣 [The power of the Prince Rupert drop](http://9gag.com/gag/aGyz9AK)
+ - ⏩ [Princess red lobster](http://9gag.com/gag/aAyGVoE)
+ - 👉 [An Indian Congress MP Ranuka made her maid stand behind her child for hours while eating 5 star food. And to do that in a public place without fear of backlash is just proving why people hate Indians.](http://9gag.com/gag/aRBrgNG)<!-- MEMES:END -->
 
 ---
 
