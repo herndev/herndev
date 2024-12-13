@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Ciri&#39;s a full witcher now, and everything else we learned from The Witcher 4 trailer](https://www.pcgamer.com/games/the-witcher/ciris-a-full-witcher-now-and-everything-else-we-learned-from-the-witcher-4-trailer/)
- - [How to find a Fast Recon Vehicle in Helldivers 2](https://www.pcgamer.com/games/third-person-shooter/helldivers-2-fast-recon-vehicle-location/)
- - [Larian boss Swen Vincke calls out pretty much the entire videogame industry at The Game Awards](https://www.pcgamer.com/gaming-industry/larian-boss-swen-vincke-calls-out-pretty-much-the-entire-videogame-industry-at-the-game-awards/)<!-- GAME:END -->
+ - [Windows 10&#39;s end is coming: here&#39;s what you should do about it](https://www.pcgamer.com/hardware/windows-10s-end-is-coming-heres-what-you-should-do-about-it/)
+ - [My favourite Hitman game, which has over 10,000 &#39;Very Positive&#39; reviews on Steam, is now less than a buck](https://www.pcgamer.com/games/sim/my-favourite-hitman-game-which-has-over-10-000-very-positive-reviews-on-steam-is-now-less-than-a-buck/)
+ - [Helldivers 2 Urban Legends Warbond drops today](https://blog.playstation.com/2024/12/13/helldivers-2-urban-legends-warbond-drops-today/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
