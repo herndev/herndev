@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Send me your weirdest pictures &lpar;nothing sexual please&rpar;](http://9gag.com/gag/abAgypp)
- - ⏩ [Overestimated herself](http://9gag.com/gag/avyAnrE)
- - 👉 [Dude thought he bought a TV, but it turned out to be a Popeyes digital menu board.](http://9gag.com/gag/ae9gGmb)<!-- MEMES:END -->
+ - 💣 [Standup by Andy Huggins](http://9gag.com/gag/aD2DoVw)
+ - ⏩ [Still not over it.](http://9gag.com/gag/ajPgD68)
+ - 👉 [Be simpler](http://9gag.com/gag/axyBjvb)<!-- MEMES:END -->
 
 ---
 
