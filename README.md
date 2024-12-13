@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: the UK&#39;s AI Safety Institute delays plans for its US outpost as it faces Trump&#39;s &quot;starkly&quot; different AI regulation approach; the AISI has a &amp;pound;50M budget &lpar;Financial Times&rpar;](http://www.techmeme.com/241213/p5#a241213p5)
- - [Refi Rates Dip Since Last Week: Current Refinance Rates on Dec. 13, 2024](https://www.cnet.com/personal-finance/refi-rates-dip-since-last-week-current-refinance-rates-dec-13-2024/#ftag=CAD590a51e)
- - [Blacksky Is Nothing Like Black Twitter—and It Doesn’t Need to Be](https://www.wired.com/story/blacksky-is-nothing-like-black-twitter/)<!-- TECH:END -->
+ - [The UnitedHealthcare shooter got exactly what he wanted](https://www.theverge.com/2024/12/13/24319728/unitedhealthcare-luigi-mangione-brian-thompson-reaction)
+ - [A look at Anthropic&#39;s Clio, an internal AI tool to identify new threats, disrupt coordinated abuse of the company&#39;s systems, and generate Claude usage insights &lpar;Casey Newton/Platformer&rpar;](http://www.techmeme.com/241213/p6#a241213p6)
+ - [Microsoft kills off Skype credits and phone numbers in favor of subscriptions](https://www.theverge.com/2024/12/13/24320322/skype-credit-number-discontinued-microsoft)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
