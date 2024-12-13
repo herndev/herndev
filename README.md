@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [EVgo nabs $1.25 billion loan as Biden races to approve more EV spending](https://www.theverge.com/2024/12/13/24320443/evgo-doe-loan-biden-ev-charging-money-trump)
- - [This Is the Only Correct Way to Clean Your Toaster Inside Out](https://www.cnet.com/home/kitchen-and-household/the-correct-way-to-clean-your-toaster-inside-and-out/#ftag=CAD590a51e)
- - [This Exclusive Code Will Save You More Than 50% Off Select Dreame Robot Vacuums Right Now](https://www.cnet.com/deals/this-exclusive-offer-code-will-save-you-more-than-50-on-select-dreame-vacuums-right-now/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Cheap TV Deals: Save Up to $180 on Top TVs From Amazon, LG and More](https://www.cnet.com/deals/best-cheap-tv-deals/#ftag=CAD590a51e)
+ - [Former ByteDance Intern Accused of Sabotage Among Winners of Prestigious AI Award](https://www.wired.com/story/bytedance-intern-best-paper-neurips/)
+ - [Tired of Night Sweats? Uncover the Cause and Cool Down With Our 4 Tips](https://www.cnet.com/health/sleep/tired-of-night-sweats-uncover-the-cause-and-cool-down-with-our-4-tips/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
