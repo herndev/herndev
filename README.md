@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Witcher 4 was always going to be about Ciri, &#39;even when we were doing The Wild Hunt actually&#39;, but don&#39;t worry about Geralt: &#39;Definitely he&#39;s going to appear&#39;](https://www.pcgamer.com/games/the-witcher/the-witcher-4-was-always-going-to-be-about-ciri-even-when-we-were-doing-the-wild-hunt-actually-but-dont-worry-about-geralt-definitely-hes-going-to-appear/)
- - [The Witcher 4 reveal trailer has been &#39;pre-rendered on an unannounced Nvidia GeForce GPU&#39; which tells us... not much actually](https://www.pcgamer.com/hardware/graphics-cards/the-witcher-4-reveal-trailer-has-been-pre-rendered-on-an-unannounced-nvidia-geforce-gpu-which-tells-us-not-much-actually/)
- - [Windows 10&#39;s end is coming: here&#39;s what you should do about it](https://www.pcgamer.com/hardware/windows-10s-end-is-coming-heres-what-you-should-do-about-it/)<!-- GAME:END -->
+ - [Turok: Origins announced for PS5 – first gameplay details](https://blog.playstation.com/2024/12/13/turok-origins-announced-for-ps5-first-gameplay-details/)
+ - [Turok is Back! Saber Interactive Reveals Turok: Origins at The Game Awards with New Trailer](https://news.xbox.com/en-us/2024/12/13/turok-origins-at-the-game-awards/)
+ - [Researchers have found a way to hack the memory on some virtual machines using a Raspberry Pi](https://www.pcgamer.com/hardware/researchers-have-found-a-way-to-hack-the-memory-on-some-virtual-machines-using-a-raspberry-pi/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
