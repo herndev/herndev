@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Galaxy S25 series leak suggests Qi 2 is coming, but also not](https://www.androidauthority.com/samsung-galaxy-s25-qi-2-magnetic-case-3508546/)
- - [Today&#39;s NYT Mini Crossword Answers for Friday, Dec. 13](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-friday-dec-13/#ftag=CAD590a51e)
- - [Here’s the first official Android XR live demo featuring Samsung’s ‘Project Moohan’ headset](https://www.androidauthority.com/android-xr-samsung-project-moohan-live-demo-3508533/)<!-- TECH:END -->
+ - [Logitech Promo Code: Exclusive 10% Off in December 2024](https://www.wired.com/story/logitech-promo-code/)
+ - [Western Digital Promo Code: 10% Off in December](https://www.wired.com/story/western-digital-promo-code/)
+ - [Sources detail Anthropic and OpenAI&#39;s rivalry: OpenAI boosted ChatGPT&#39;s coding skills in response to Claude, Anthropic&#39;s safety focus, exec bad blood, and more &lpar;The Information&rpar;](http://www.techmeme.com/241213/p1#a241213p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
