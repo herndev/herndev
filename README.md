@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple MacBook Pro &lpar;M4 Pro and Max&rpar; review: still on top](https://www.theverge.com/24319419/apple-macbook-pro-m4-max-pro-review-price-specs)
- - [Searching for the first great AI app](https://www.theverge.com/2024/12/13/24320342/ai-killer-app-gemini-chatgpt-vergecast)
- - [iPhone 17 Slim specs will be an enormous engineering &amp; supply chain challenge](https://appleinsider.com/articles/24/12/13/iphone-17-slim-specs-will-be-an-enormous-engineering-supply-chain-challenge?utm_medium=rss)<!-- TECH:END -->
+ - [Tim Cook says Apple has invested over $18 billion in the UK since 2019](https://appleinsider.com/articles/24/12/11/tim-cook-says-apple-has-invested-over-18-billion-in-the-uk-since-2019?utm_medium=rss)
+ - [Platforms need the news — but they’re killing it](https://www.theverge.com/24320380/platforms-tiktok-influencers-news-media-journalism-google-matt-pearce-decoder-podcast-interview)
+ - [Waymo’s robotaxis pass the first responder test](https://www.theverge.com/2024/12/13/24319860/waymo-robotaxi-first-responder-tuv-sud-analysis)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
