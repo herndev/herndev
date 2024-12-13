@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [When she realized](http://9gag.com/gag/ayN95ry)
- - ⏩ [I love watching Japanese newsreaders.](http://9gag.com/gag/a4P1dXA)
- - 👉 [Who\u2019s coming to hell with me?](http://9gag.com/gag/aryneW5)<!-- MEMES:END -->
+ - 💣 [Hello Kate Moss, would you like some candy in your refreshment? Imma put some candy in your refreshment.](http://9gag.com/gag/a5Q1dVN)
+ - ⏩ [Who\u2019s coming to hell with me?](http://9gag.com/gag/aryneW5)
+ - 👉 [Dude thought he bought a TV, but it turned out to be a Popeyes digital menu board.](http://9gag.com/gag/ae9gGmb)<!-- MEMES:END -->
 
 ---
 
