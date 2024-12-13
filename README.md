@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Hello Kate Moss, would you like some candy in your refreshment? Imma put some candy in your refreshment.](http://9gag.com/gag/a5Q1dVN)
+ - 💣 [Dude thought he bought a TV, but it turned out to be a Popeyes digital menu board.](http://9gag.com/gag/ae9gGmb)
  - ⏩ [Who\u2019s coming to hell with me?](http://9gag.com/gag/aryneW5)
- - 👉 [Dude thought he bought a TV, but it turned out to be a Popeyes digital menu board.](http://9gag.com/gag/ae9gGmb)<!-- MEMES:END -->
+ - 👉 [I&#39;m sorry but what did you expect?](http://9gag.com/gag/aW4gWyq)<!-- MEMES:END -->
 
 ---
 
