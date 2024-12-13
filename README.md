@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Helldivers 2&#39;s Illuminate invasion is the cherry on top of one of the best first years a live service game has ever had](https://www.pcgamer.com/games/action/helldivers-2s-illuminate-invasion-is-the-cherry-on-top-of-one-of-the-best-first-years-a-live-service-game-has-ever-had/)
- - [Every Past Game Of The Year Winner At The Game Awards](https://kotaku.com/game-awards-goty-game-of-the-year-past-winners-list-1851721067)
- - [Elden Ring Nightreign&amp;#8217;s trailer left out the juiciest details on how it actually works](https://www.polygon.com/news/496613/elden-ring-nightreign-how-it-works)<!-- GAME:END -->
+ - [7 hardcore survival games that are great to play in peaceful mode](https://www.pcgamer.com/games/survival-crafting/great-peaceful-survival-games/)
+ - [Last night&#39;s surprise Helldivers 2 update also added its first FOMO weapon: The stun baton is only in the rotating Superstore right now](https://www.pcgamer.com/games/third-person-shooter/last-nights-surprise-helldivers-2-update-also-added-its-first-fomo-weapon-the-stun-baton-is-only-in-the-rotating-superstore-right-now/)
+ - [In what will surely come as no surprise at all, the end of Suicide Squad means layoffs at Warner Bros.](https://www.pcgamer.com/gaming-industry/in-what-will-surely-come-as-no-surprise-at-all-the-end-of-suicide-squad-means-layoffs-at-warner-bros/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
