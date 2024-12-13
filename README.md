@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Ciri&#39;s a full witcher now, and everything else we learned from The Witcher 4 trailer](https://www.pcgamer.com/games/the-witcher/ciris-a-full-witcher-now-and-everything-else-we-learned-from-the-witcher-4-trailer/)
  - [How to find a Fast Recon Vehicle in Helldivers 2](https://www.pcgamer.com/games/third-person-shooter/helldivers-2-fast-recon-vehicle-location/)
- - [Larian boss Swen Vincke calls out pretty much the entire videogame industry at The Game Awards](https://www.pcgamer.com/gaming-industry/larian-boss-swen-vincke-calls-out-pretty-much-the-entire-videogame-industry-at-the-game-awards/)
- - [You weren&#39;t seeing things, Elden Ring: Nightreign&#39;s trailer saw the return of Dark Souls 3&#39;s iconic hidden megaboss, and I have no idea what it means](https://www.pcgamer.com/games/rpg/you-werent-seeing-things-elden-ring-nightreigns-trailer-saw-the-return-of-dark-souls-3s-iconic-hidden-megaboss-and-i-have-no-idea-what-it-means/)<!-- GAME:END -->
+ - [Larian boss Swen Vincke calls out pretty much the entire videogame industry at The Game Awards](https://www.pcgamer.com/gaming-industry/larian-boss-swen-vincke-calls-out-pretty-much-the-entire-videogame-industry-at-the-game-awards/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
