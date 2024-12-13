@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Next Week&lpar;s&rpar; on Xbox: New Games for December 16 to January 3](https://news.xbox.com/en-us/2024/12/13/__trashed-9/)
- - [The Witcher 4 may have familiar faces but it&#39;s an origin story: &#39;A new opening, a new saga, a new beginning actually&#39;](https://www.pcgamer.com/games/the-witcher/the-witcher-4-may-have-familiar-faces-but-its-an-origin-story-a-new-opening-a-new-saga-a-new-beginning-actually/)
- - [Warframe&#39;s bonkers 1999 update sneaks out today: Y2K, dating, boy bands, motorbikes—it&#39;s gonna be a weird weekend](https://www.pcgamer.com/games/action/warframes-bonkers-1999-update-sneaks-out-today-y2k-dating-boy-bands-motorbikes-its-gonna-be-a-weird-weekend/)<!-- GAME:END -->
+ - [Hironobu Sakaguchi interview: Fantasian Neo Dimension, Final Fantasy and 20 years of Mistwalker](https://blog.playstation.com/2024/12/13/hironobu-sakaguchi-interview-fantasian-neo-dimension-final-fantasy-and-20-years-of-mistwalker/)
+ - [It&#39;s not the Sekiro: Shadows Die Twice 2 I&#39;d hoped for, but Elden Ring: Nightreign might just sate my insatiable hunger for FromSoftware to pick up the pace](https://www.pcgamer.com/games/dark-souls/its-not-the-sekiro-shadows-die-twice-2-id-hoped-for-but-elden-ring-nightreign-might-just-sate-my-insatiable-hunger-for-fromsoftware-to-pick-up-the-pace/)
+ - [Sonic X Shadow Generations’ DLC Has The Weirdest Keanu Reeves Line Read I&#39;ve Ever Heard](https://kotaku.com/sonic-x-shadow-generations-keanu-reeves-dlc-tokyo-stage-1851720674)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
