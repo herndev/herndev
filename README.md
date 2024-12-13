@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The UnitedHealthcare shooter got exactly what he wanted](https://www.theverge.com/2024/12/13/24319728/unitedhealthcare-luigi-mangione-brian-thompson-reaction)
- - [A look at Anthropic&#39;s Clio, an internal AI tool to identify new threats, disrupt coordinated abuse of the company&#39;s systems, and generate Claude usage insights &lpar;Casey Newton/Platformer&rpar;](http://www.techmeme.com/241213/p6#a241213p6)
- - [Microsoft kills off Skype credits and phone numbers in favor of subscriptions](https://www.theverge.com/2024/12/13/24320322/skype-credit-number-discontinued-microsoft)<!-- TECH:END -->
+ - [Apple MacBook Pro &lpar;M4 Pro and Max&rpar; review: still on top](https://www.theverge.com/24319419/apple-macbook-pro-m4-max-pro-review-price-specs)
+ - [Searching for the first great AI app](https://www.theverge.com/2024/12/13/24320342/ai-killer-app-gemini-chatgpt-vergecast)
+ - [iPhone 17 Slim specs will be an enormous engineering &amp; supply chain challenge](https://appleinsider.com/articles/24/12/13/iphone-17-slim-specs-will-be-an-enormous-engineering-supply-chain-challenge?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
