@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Texas AG Ken Paxton investigates 15 companies, including Character.AI, Reddit, Instagram, and Discord, over their privacy and safety practices for minors &lpar;Kanishka Singh/Reuters&rpar;](http://www.techmeme.com/241212/p53#a241212p53)
- - [Microsoft launches Phi-4, a 14B-parameter language model that it says outperforms comparable and larger models, like Gemini Pro 1.5, in mathematical reasoning &lpar;Michael Nu&amp;ntilde;ez/VentureBeat&rpar;](http://www.techmeme.com/241212/p52#a241212p52)
- - [Borderlands 4’s first trailer is all out war](https://www.theverge.com/24319512/borderlands-4-trailer-tga-2024)<!-- TECH:END -->
+ - [How to copy file and app icons using macOS Preview](https://appleinsider.com/articles/24/12/13/how-to-copy-file-and-app-icons-using-macos-preview?utm_medium=rss)
+ - [Adelaide-based Fleet Space, whose ExoSphere platform helps find minerals in space using AI, sensors, and more, raised a AU$150M Series D at a AU$800M+ valuation &lpar;FinSMEs&rpar;](http://www.techmeme.com/241212/p55#a241212p55)
+ - [Okami is getting a sequel](https://www.theverge.com/2024/12/12/24320133/okami-2-announce-game-awards)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
