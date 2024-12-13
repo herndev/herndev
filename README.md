@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [You weren&#39;t seeing things, Elden Ring: Nightreign&#39;s trailer saw the return of Dark Souls 3&#39;s iconic hidden megaboss, and I have no idea what it means](https://www.pcgamer.com/games/rpg/you-werent-seeing-things-elden-ring-nightreigns-trailer-saw-the-return-of-dark-souls-3s-iconic-hidden-megaboss-and-i-have-no-idea-what-it-means/)
- - [Laura Bailey, Aaron Paul, and more are starring in a Telltale-like game about 911 dispatchers for superheroes](https://www.pcgamer.com/games/adventure/laura-bailey-aaron-paul-and-more-are-starring-in-a-telltale-like-game-about-911-dispatchers-for-superheroes/)
- - [The Game Awards was stacked with even more big reveals than we expected this year](https://www.pcgamer.com/games/the-game-awards-biggest-announcements-2024/)<!-- GAME:END -->
+ - [How to find a Fast Recon Vehicle in Helldivers 2](https://www.pcgamer.com/games/third-person-shooter/helldivers-2-fast-recon-vehicle-location/)
+ - [Larian boss Swen Vincke calls out pretty much the entire videogame industry at The Game Awards](https://www.pcgamer.com/gaming-industry/larian-boss-swen-vincke-calls-out-pretty-much-the-entire-videogame-industry-at-the-game-awards/)
+ - [You weren&#39;t seeing things, Elden Ring: Nightreign&#39;s trailer saw the return of Dark Souls 3&#39;s iconic hidden megaboss, and I have no idea what it means](https://www.pcgamer.com/games/rpg/you-werent-seeing-things-elden-ring-nightreigns-trailer-saw-the-return-of-dark-souls-3s-iconic-hidden-megaboss-and-i-have-no-idea-what-it-means/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
