@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [I love my Ember Mug 2, and you can get one at a $50 discount!](https://www.androidauthority.com/ember-mug-2-deal-5-3508418/)
- - [ServiceTitan&#39;s shares closed up 42.25% at $101 in its Nasdaq debut, giving the company a market cap of about $8.9B after it raised around $625M in its IPO &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/241212/p48#a241212p48)
- - [Broadcom reports Q4 revenue up 51% YoY to $14.05B vs. $14.09B est., FY 2024 AI revenue up 220%, forecasts Q1 revenue just above est.; AVGO jumps 9%+ after hours &lpar;Kif Leswing/CNBC&rpar;](http://www.techmeme.com/241212/p47#a241212p47)<!-- TECH:END -->
+ - [How to Effectively Clean Your Bathroom in 10 Minutes or Less](https://www.cnet.com/how-to/how-to-effectively-clean-your-bathroom-in-10-minutes-or-less/#ftag=CAD590a51e)
+ - [Bloom Nutrition Greens Review 2024: Is the Trendy Brand Really Worth It?](https://www.cnet.com/health/nutrition/bloom-nutrition-greens-review/#ftag=CAD590a51e)
+ - [Best Internet Providers in Boston, Massachusetts](https://www.cnet.com/home/internet/best-internet-providers-in-boston-ma/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
