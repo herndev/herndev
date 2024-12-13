@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [China plans to set up a committee of 41 members, including representatives from Baidu and Peking University, to set standards for LLMs and AI risk assessment &lpar;Reuters&rpar;](http://www.techmeme.com/241213/p3#a241213p3)
- - [Here’s what it’s like to use Google’s Android XR smart glasses](https://www.androidauthority.com/how-google-android-xr-smart-glasses-work-3508597/)
- - [23 Gifts for Dads Who Don&#39;t Need Anything &lpar;2024&rpar;](https://www.wired.com/gallery/gifts-to-give-dads/)<!-- TECH:END -->
+ - [Sources: the UK&#39;s AI Safety Institute delays plans for its US outpost as it faces Trump&#39;s &quot;starkly&quot; different AI regulation approach; the AISI has a &amp;pound;50M budget &lpar;Financial Times&rpar;](http://www.techmeme.com/241213/p5#a241213p5)
+ - [Refi Rates Dip Since Last Week: Current Refinance Rates on Dec. 13, 2024](https://www.cnet.com/personal-finance/refi-rates-dip-since-last-week-current-refinance-rates-dec-13-2024/#ftag=CAD590a51e)
+ - [Blacksky Is Nothing Like Black Twitter—and It Doesn’t Need to Be](https://www.wired.com/story/blacksky-is-nothing-like-black-twitter/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
