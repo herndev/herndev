@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Thick as Thieves is instantly one of my most-anticipated games, and every Thief fan should be backstabbing that wishlist button](https://www.pcgamer.com/games/sim/thick-as-thieves-is-instantly-one-of-my-most-anticipated-games-and-every-thief-fan-should-be-backstabbing-that-wishlist-button/)
- - [The Game Awards 2024: All the trailers, news, and announcements](https://www.polygon.com/game-awards-tga/495106/the-game-awards-2024)
- - [Obsidian is about to make it a monster year for RPGs, with The Outer Worlds 2 coming later in 2025 after Avowed](https://www.pcgamer.com/games/rpg/obsidian-is-about-to-make-it-a-monster-year-for-rpgs-with-the-outer-worlds-2-coming-later-in-2025-after-avowed/)<!-- GAME:END -->
+ - [Okami 2 is a real thing and Hideki Kamiya is directing it](https://www.pcgamer.com/games/action/okami-2-is-a-real-thing-and-hideki-kamiya-is-directing-it/)
+ - [You&#39;re invited to join a family &#39;bound by blood&#39; when Mafia: The Old Country releases in summer of 2025](https://www.pcgamer.com/games/action/youre-invited-to-join-a-family-bound-by-blood-when-mafia-the-old-country-releases-in-summer-of-2025/)
+ - [Beloved Zelda-Like Okami Is Getting A Sequel 18-Years Later](https://kotaku.com/okami-2-legend-zelda-capcom-sequel-trailer-release-date-1851720375)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
