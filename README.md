@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Borderlands 4’s first trailer is all out war](https://www.theverge.com/24319512/borderlands-4-trailer-tga-2024)
- - [Split Fiction is the next co-op game from Hazelight Studios](https://www.theverge.com/24319677/split-fiction-hazelight-studios-trailer-date-josef-fares)
- - [FromSoftware debuts a new Elden Ring game](https://www.theverge.com/2024/12/12/24320097/elden-ring-sequel-nightreign-the-game-awards-trailer)<!-- TECH:END -->
+ - [Texas AG Ken Paxton investigates 15 companies, including Character.AI, Reddit, Instagram, and Discord, over their privacy and safety practices for minors &lpar;Kanishka Singh/Reuters&rpar;](http://www.techmeme.com/241212/p53#a241212p53)
+ - [Microsoft launches Phi-4, a 14B-parameter language model that it says outperforms comparable and larger models, like Gemini Pro 1.5, in mathematical reasoning &lpar;Michael Nu&amp;ntilde;ez/VentureBeat&rpar;](http://www.techmeme.com/241212/p52#a241212p52)
+ - [Borderlands 4’s first trailer is all out war](https://www.theverge.com/24319512/borderlands-4-trailer-tga-2024)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
