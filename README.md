@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Seriously?](http://9gag.com/gag/aLnvRov)
- - ⏩ [Hello Kate Moss, would you like some candy in your refreshment? Imma put some candy in your refreshment.](http://9gag.com/gag/a5Q1dVN)
+ - 💣 [Hello Kate Moss, would you like some candy in your refreshment? Imma put some candy in your refreshment.](http://9gag.com/gag/a5Q1dVN)
+ - ⏩ [Princess red lobster](http://9gag.com/gag/aAyGVoE)
  - 👉 [If it works](http://9gag.com/gag/a2v1qrp)<!-- MEMES:END -->
 
 ---
