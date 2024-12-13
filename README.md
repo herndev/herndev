@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Save Up to 60% off Games During the Microsoft Store Countdown Sale](https://blogs.windows.com/devices/2024/12/13/save-big-on-last-minute-gifts-with-microsoft-stores-countdown-sale-featuring-discounts-on-surface-copilot-pcs-xbox-and-pc-games-and-more/#new_tab)
- - [How to find the ‘Secret of Secrets’ safe code in Indiana Jones and the Great Circle](https://www.polygon.com/indiana-jones-great-circle-guide/496690/secret-of-secrets-safe-code-vatican)
- - [Indiana Jones and the Great Circle codes list for the Vatican, Gizeh, and Himalayas](https://www.polygon.com/indiana-jones-great-circle-guide/494517/codes-all-safes-chest-list-combos)<!-- GAME:END -->
+ - [Helldivers 2&#39;s Illuminate invasion is the cherry on top of one of the best first years a live service game has ever had](https://www.pcgamer.com/games/action/helldivers-2s-illuminate-invasion-is-the-cherry-on-top-of-one-of-the-best-first-years-a-live-service-game-has-ever-had/)
+ - [Every Past Game Of The Year Winner At The Game Awards](https://kotaku.com/game-awards-goty-game-of-the-year-past-winners-list-1851721067)
+ - [Elden Ring Nightreign&amp;#8217;s trailer left out the juiciest details on how it actually works](https://www.polygon.com/news/496613/elden-ring-nightreign-how-it-works)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
