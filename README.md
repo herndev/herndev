@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Here’s your very first look at The Witcher 4](https://www.theverge.com/2024/12/12/24320092/the-witcher-4-trailer-game-awards-2024)
- - [Meta releases Meta Video Seal, an AI tool to apply imperceptible watermarks to AI-generated videos as well as a hidden message to determine the video&#39;s origins &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/241212/p51#a241212p51)
- - [Elon Musk is mad at the SEC again](https://www.theverge.com/2024/12/12/24320060/elon-musk-sec-alex-spiro-tesla-neuralink-twitter)<!-- TECH:END -->
+ - [Borderlands 4’s first trailer is all out war](https://www.theverge.com/24319512/borderlands-4-trailer-tga-2024)
+ - [Split Fiction is the next co-op game from Hazelight Studios](https://www.theverge.com/24319677/split-fiction-hazelight-studios-trailer-date-josef-fares)
+ - [FromSoftware debuts a new Elden Ring game](https://www.theverge.com/2024/12/12/24320097/elden-ring-sequel-nightreign-the-game-awards-trailer)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
