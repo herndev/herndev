@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The power of the Prince Rupert drop](http://9gag.com/gag/aGyz9AK)
- - ⏩ [Princess red lobster](http://9gag.com/gag/aAyGVoE)
- - 👉 [An Indian Congress MP Ranuka made her maid stand behind her child for hours while eating 5 star food. And to do that in a public place without fear of backlash is just proving why people hate Indians.](http://9gag.com/gag/aRBrgNG)<!-- MEMES:END -->
+ - 💣 [Store employee uses boxing training to defend himself from an aggressive costumer.](http://9gag.com/gag/avyAZrE)
+ - ⏩ [Get screwed](http://9gag.com/gag/aVvxzgO)
+ - 👉 [Who\u2019s coming to hell with me?](http://9gag.com/gag/aryneW5)<!-- MEMES:END -->
 
 ---
 
