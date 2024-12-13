@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Princess red lobster](http://9gag.com/gag/aAyGVoE)
+ - 💣 [When she realized](http://9gag.com/gag/ayN95ry)
  - ⏩ [Who\u2019s coming to hell with me?](http://9gag.com/gag/aryneW5)
- - 👉 [Mosquito Repellent Smoke Grenade](http://9gag.com/gag/abAgqzX)<!-- MEMES:END -->
+ - 👉 [I love watching Japanese newsreaders.](http://9gag.com/gag/a4P1dXA)<!-- MEMES:END -->
 
 ---
 
