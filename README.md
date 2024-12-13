@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Cheap TV Deals: Save Up to $180 on Top TVs From Amazon, LG and More](https://www.cnet.com/deals/best-cheap-tv-deals/#ftag=CAD590a51e)
- - [Former ByteDance Intern Accused of Sabotage Among Winners of Prestigious AI Award](https://www.wired.com/story/bytedance-intern-best-paper-neurips/)
- - [Tired of Night Sweats? Uncover the Cause and Cool Down With Our 4 Tips](https://www.cnet.com/health/sleep/tired-of-night-sweats-uncover-the-cause-and-cool-down-with-our-4-tips/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sonos Arc Ultra review: The best Dolby Atmos soundbar just got better](https://appleinsider.com/articles/24/12/13/sonos-arc-ultra-review-the-best-dolby-atmos-soundbar-just-got-better?utm_medium=rss)
+ - [Some Educated Guesses About Trump’s Second Term](https://www.wired.com/story/politics-lab-donald-trump-second-presidential-term/)
+ - [The New Jersey Drone Mystery May Not Actually Be That Mysterious](https://www.wired.com/story/new-jersey-drone-mystery-maybe-not-drones/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
