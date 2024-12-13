@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [December’s Pixel Drop makes its way to Pixel 7 and Pixel Fold on T-Mobile](https://www.androidauthority.com/t-mobile-pixel-7-fold-december-update-3508922/)
- - [The US DOJ indicts 14 North Korean nationals for allegedly earning $88M+ through fraud by working as remote IT workers for US companies from 2017 to 2023 &lpar;Jonathan Greig/The Record&rpar;](http://www.techmeme.com/241213/p27#a241213p27)
- - [Apple’s AI summary mangled a BBC headline about Luigi Mangione](https://www.theverge.com/2024/12/13/24320689/apple-intelligence-summary-bbc-news-unitedhealthcare-luigi-mangione)<!-- TECH:END -->
+ - [ChatGPT Projects are fancy folders for your AI chats](https://www.theverge.com/2024/12/13/24320800/openai-chatgpt-projects-folders-ai-chats)
+ - [Peak Design denies snitching on Luigi Mangione](https://www.theverge.com/2024/12/13/24320785/peak-design-everyday-backpack-serial-number-united-healthcare-ceo-shooting)
+ - [This is the Nintendo Switch 2, according to dbrand](https://www.androidauthority.com/nintendo-switch-2-dbrand-killswitch-3508946/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
