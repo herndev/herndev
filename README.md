@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Standup by Andy Huggins](http://9gag.com/gag/aD2DoVw)
- - ⏩ [Still not over it.](http://9gag.com/gag/ajPgD68)
- - 👉 [Be simpler](http://9gag.com/gag/axyBjvb)<!-- MEMES:END -->
+ - 💣 [Send me your weirdest pictures &lpar;nothing sexual please&rpar;](http://9gag.com/gag/abAgypp)
+ - ⏩ [I love watching Japanese newsreaders.](http://9gag.com/gag/a4P1dXA)
+ - 👉 [Who\u2019s coming to hell with me?](http://9gag.com/gag/aryneW5)<!-- MEMES:END -->
 
 ---
 
