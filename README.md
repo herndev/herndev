@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tim Cook says Apple has invested over $18 billion in the UK since 2019](https://appleinsider.com/articles/24/12/11/tim-cook-says-apple-has-invested-over-18-billion-in-the-uk-since-2019?utm_medium=rss)
- - [Platforms need the news — but they’re killing it](https://www.theverge.com/24320380/platforms-tiktok-influencers-news-media-journalism-google-matt-pearce-decoder-podcast-interview)
- - [Waymo’s robotaxis pass the first responder test](https://www.theverge.com/2024/12/13/24319860/waymo-robotaxi-first-responder-tuv-sud-analysis)<!-- TECH:END -->
+ - [Google Cloud launches Agentspace to let enterprises create and deploy AI agents for marketing, HR, software development, and more &lpar;Larry Dignan/Constellation Research&rpar;](http://www.techmeme.com/241213/p16#a241213p16)
+ - [Here’s a first look at the UI of Android XR](https://www.androidauthority.com/android-xr-ui-first-look-3508760/)
+ - [Google rolls out interactive Audio Overviews in NotebookLM, an &quot;experimental feature&quot; that lets users talk to the AI &quot;hosts&quot; of the overviews &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/241213/p15#a241213p15)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
