@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Share of the Week: 30th Anniversary](https://blog.playstation.com/2024/12/13/share-of-the-week-30th-anniversary/)
- - [Support Virtual Agent is Here to Help [Update: Rolling Out to All US Users]](https://news.xbox.com/en-us/2024/12/13/support-virtual-agent-is-here-to-help/)
- - [Oh jeez, they weren&#39;t kidding, Helldivers 2&#39;s Illuminate are terrifying—and the best/worst of both worlds](https://www.pcgamer.com/games/third-person-shooter/oh-jeez-they-werent-kidding-helldivers-2s-illuminate-are-terrifying-and-the-best-worst-of-both-worlds/)<!-- GAME:END -->
+ - [How to use the Sacrificial Heart in Path of Exile 2](https://www.polygon.com/path-exile-2-guide/496552/sacrificial-heart-how-to-use-quest-poe2)
+ - [The 44 best movies on Netflix right now](https://www.polygon.com/496495/best-movies-on-netflix)
+ - [Naughty Dog&#39;s Intergalactic: The Heretic Prophet Trailer Has Completely Won Me Over](https://kotaku.com/intergalactic-the-heretic-prophet-naughty-dog-trailer-1851720900)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
