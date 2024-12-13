@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Hironobu Sakaguchi interview: Fantasian Neo Dimension, Final Fantasy and 20 years of Mistwalker](https://blog.playstation.com/2024/12/13/hironobu-sakaguchi-interview-fantasian-neo-dimension-final-fantasy-and-20-years-of-mistwalker/)
- - [It&#39;s not the Sekiro: Shadows Die Twice 2 I&#39;d hoped for, but Elden Ring: Nightreign might just sate my insatiable hunger for FromSoftware to pick up the pace](https://www.pcgamer.com/games/dark-souls/its-not-the-sekiro-shadows-die-twice-2-id-hoped-for-but-elden-ring-nightreign-might-just-sate-my-insatiable-hunger-for-fromsoftware-to-pick-up-the-pace/)
- - [Sonic X Shadow Generations’ DLC Has The Weirdest Keanu Reeves Line Read I&#39;ve Ever Heard](https://kotaku.com/sonic-x-shadow-generations-keanu-reeves-dlc-tokyo-stage-1851720674)<!-- GAME:END -->
+ - [Share of the Week: 30th Anniversary](https://blog.playstation.com/2024/12/13/share-of-the-week-30th-anniversary/)
+ - [Support Virtual Agent is Here to Help [Update: Rolling Out to All US Users]](https://news.xbox.com/en-us/2024/12/13/support-virtual-agent-is-here-to-help/)
+ - [Oh jeez, they weren&#39;t kidding, Helldivers 2&#39;s Illuminate are terrifying—and the best/worst of both worlds](https://www.pcgamer.com/games/third-person-shooter/oh-jeez-they-werent-kidding-helldivers-2s-illuminate-are-terrifying-and-the-best-worst-of-both-worlds/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
