@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Okami 2 is a real thing and Hideki Kamiya is directing it](https://www.pcgamer.com/games/action/okami-2-is-a-real-thing-and-hideki-kamiya-is-directing-it/)
- - [You&#39;re invited to join a family &#39;bound by blood&#39; when Mafia: The Old Country releases in summer of 2025](https://www.pcgamer.com/games/action/youre-invited-to-join-a-family-bound-by-blood-when-mafia-the-old-country-releases-in-summer-of-2025/)
- - [Beloved Zelda-Like Okami Is Getting A Sequel 18-Years Later](https://kotaku.com/okami-2-legend-zelda-capcom-sequel-trailer-release-date-1851720375)<!-- GAME:END -->
+ - [You weren&#39;t seeing things, Elden Ring: Nightreign&#39;s trailer saw the return of Dark Souls 3&#39;s iconic hidden megaboss, and I have no idea what it means](https://www.pcgamer.com/games/rpg/you-werent-seeing-things-elden-ring-nightreigns-trailer-saw-the-return-of-dark-souls-3s-iconic-hidden-megaboss-and-i-have-no-idea-what-it-means/)
+ - [Laura Bailey, Aaron Paul, and more are starring in a Telltale-like game about 911 dispatchers for superheroes](https://www.pcgamer.com/games/adventure/laura-bailey-aaron-paul-and-more-are-starring-in-a-telltale-like-game-about-911-dispatchers-for-superheroes/)
+ - [The Game Awards was stacked with even more big reveals than we expected this year](https://www.pcgamer.com/games/the-game-awards-biggest-announcements-2024/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
