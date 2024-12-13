@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Windows 10&#39;s end is coming: here&#39;s what you should do about it](https://www.pcgamer.com/hardware/windows-10s-end-is-coming-heres-what-you-should-do-about-it/)
- - [My favourite Hitman game, which has over 10,000 &#39;Very Positive&#39; reviews on Steam, is now less than a buck](https://www.pcgamer.com/games/sim/my-favourite-hitman-game-which-has-over-10-000-very-positive-reviews-on-steam-is-now-less-than-a-buck/)
- - [Helldivers 2 Urban Legends Warbond drops today](https://blog.playstation.com/2024/12/13/helldivers-2-urban-legends-warbond-drops-today/)<!-- GAME:END -->
+ - [The Witcher 4 was always going to be about Ciri, &#39;even when we were doing The Wild Hunt actually&#39;, but don&#39;t worry about Geralt: &#39;Definitely he&#39;s going to appear&#39;](https://www.pcgamer.com/games/the-witcher/the-witcher-4-was-always-going-to-be-about-ciri-even-when-we-were-doing-the-wild-hunt-actually-but-dont-worry-about-geralt-definitely-hes-going-to-appear/)
+ - [The Witcher 4 reveal trailer has been &#39;pre-rendered on an unannounced Nvidia GeForce GPU&#39; which tells us... not much actually](https://www.pcgamer.com/hardware/graphics-cards/the-witcher-4-reveal-trailer-has-been-pre-rendered-on-an-unannounced-nvidia-geforce-gpu-which-tells-us-not-much-actually/)
+ - [Windows 10&#39;s end is coming: here&#39;s what you should do about it](https://www.pcgamer.com/hardware/windows-10s-end-is-coming-heres-what-you-should-do-about-it/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
