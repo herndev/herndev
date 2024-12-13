@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Walmart is leading a funding round of $300M+ alongside Ribbit for Walmart&#39;s fintech venture, One, giving it a pre-money valuation of $2.5B &lpar;Bloomberg&rpar;](http://www.techmeme.com/241213/p25#a241213p25)
- - [Amazon is shipping the Kindle Colorsoft again, but it’s unclear if it’s fixed](https://www.theverge.com/2024/12/13/24320614/amazon-kindle-colorsoft-shipping-yellow-band-display-e-reader)
- - [BBC cries foul over Apple Intelligence headline notification summarizations](https://appleinsider.com/articles/24/12/13/bbc-cries-foul-over-apple-intelligence-headline-notification-summarizations?utm_medium=rss)<!-- TECH:END -->
+ - [December’s Pixel Drop makes its way to Pixel 7 and Pixel Fold on T-Mobile](https://www.androidauthority.com/t-mobile-pixel-7-fold-december-update-3508922/)
+ - [The US DOJ indicts 14 North Korean nationals for allegedly earning $88M+ through fraud by working as remote IT workers for US companies from 2017 to 2023 &lpar;Jonathan Greig/The Record&rpar;](http://www.techmeme.com/241213/p27#a241213p27)
+ - [Apple’s AI summary mangled a BBC headline about Luigi Mangione](https://www.theverge.com/2024/12/13/24320689/apple-intelligence-summary-bbc-news-unitedhealthcare-luigi-mangione)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
