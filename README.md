@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Yakuza studio is making a new action game set in 1915 Japan](https://www.pcgamer.com/games/action/the-yakuza-studio-is-making-a-new-action-game-set-in-1915-japan/)
- - [Illuminates invade! Helldivers 2&#39;s biggest update yet drops today with a new alien faction and four-person vehicle](https://www.pcgamer.com/games/third-person-shooter/illuminates-invade-helldivers-2s-biggest-update-yet-drops-today-with-a-new-alien-faction-and-four-person-vehicle/)
- - [Sega announces all-new Virtua Fighter at The Game Awards](https://www.polygon.com/news/495371/virtua-fighter-6-sega-announcement)<!-- GAME:END -->
+ - [Thick as Thieves is instantly one of my most-anticipated games, and every Thief fan should be backstabbing that wishlist button](https://www.pcgamer.com/games/sim/thick-as-thieves-is-instantly-one-of-my-most-anticipated-games-and-every-thief-fan-should-be-backstabbing-that-wishlist-button/)
+ - [The Game Awards 2024: All the trailers, news, and announcements](https://www.polygon.com/game-awards-tga/495106/the-game-awards-2024)
+ - [Obsidian is about to make it a monster year for RPGs, with The Outer Worlds 2 coming later in 2025 after Avowed](https://www.pcgamer.com/games/rpg/obsidian-is-about-to-make-it-a-monster-year-for-rpgs-with-the-outer-worlds-2-coming-later-in-2025-after-avowed/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
