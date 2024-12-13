@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How to turn off easy swing in Marvel Rivals](https://www.polygon.com/marvel-rivals-guide/496671/easy-swing-automatic-turn-off-setting)
- - [Interstellar’s 10th anniversary collector’s edition is at Barnes &amp;#038; Noble](https://www.polygon.com/deals/486081/interstellar-10th-anniversary-collectors-edition-4k-blu-ray-where-to-buy)
- - [Last call for Forza Horizon 4: It&#39;s being removed from sale in 2 days, so get it while you can](https://www.pcgamer.com/games/racing/last-call-for-forza-horizon-4-its-being-removed-from-sale-in-2-days-so-get-it-while-you-can/)<!-- GAME:END -->
+ - [Save Up to 60% off Games During the Microsoft Store Countdown Sale](https://blogs.windows.com/devices/2024/12/13/save-big-on-last-minute-gifts-with-microsoft-stores-countdown-sale-featuring-discounts-on-surface-copilot-pcs-xbox-and-pc-games-and-more/#new_tab)
+ - [How to find the ‘Secret of Secrets’ safe code in Indiana Jones and the Great Circle](https://www.polygon.com/indiana-jones-great-circle-guide/496690/secret-of-secrets-safe-code-vatican)
+ - [Indiana Jones and the Great Circle codes list for the Vatican, Gizeh, and Himalayas](https://www.polygon.com/indiana-jones-great-circle-guide/494517/codes-all-safes-chest-list-combos)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
