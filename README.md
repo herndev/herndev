@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Here’s the first official Android XR live demo featuring Samsung ‘Project Moohan’ headset](https://www.androidauthority.com/android-xr-samsung-project-moohan-live-demo-3508533/)
- - [In a strategy change, Netflix plans to make its Squid Games battle royale game available for free to non-members for a limited time after its December 17 launch &lpar;Jennifer Maas/Variety&rpar;](http://www.techmeme.com/241212/p56#a241212p56)
- - [You might soon be saying goobye to ‘Hey Google’ and hello to ‘Hey Gemini’](https://www.androidauthority.com/hey-google-hey-gemini-hotword-3508517/)<!-- TECH:END -->
+ - [Galaxy S25 series leak suggests Qi 2 is coming, but also not](https://www.androidauthority.com/samsung-galaxy-s25-qi-2-magnetic-case-3508546/)
+ - [Today&#39;s NYT Mini Crossword Answers for Friday, Dec. 13](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-friday-dec-13/#ftag=CAD590a51e)
+ - [Here’s the first official Android XR live demo featuring Samsung’s ‘Project Moohan’ headset](https://www.androidauthority.com/android-xr-samsung-project-moohan-live-demo-3508533/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
