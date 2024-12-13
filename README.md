@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [When she realized](http://9gag.com/gag/ayN95ry)
- - ⏩ [Who\u2019s coming to hell with me?](http://9gag.com/gag/aryneW5)
- - 👉 [I love watching Japanese newsreaders.](http://9gag.com/gag/a4P1dXA)<!-- MEMES:END -->
+ - 💣 [My spine is broken now!](http://9gag.com/gag/aPAZDQQ)
+ - ⏩ [Standup by Andy Huggins](http://9gag.com/gag/aD2DoVw)
+ - 👉 [Be simpler](http://9gag.com/gag/axyBjvb)<!-- MEMES:END -->
 
 ---
 
