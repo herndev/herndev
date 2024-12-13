@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Send me your weirdest pictures &lpar;nothing sexual please&rpar;](http://9gag.com/gag/abAgypp)
- - ⏩ [I love watching Japanese newsreaders.](http://9gag.com/gag/a4P1dXA)
- - 👉 [Who\u2019s coming to hell with me?](http://9gag.com/gag/aryneW5)<!-- MEMES:END -->
+ - 💣 [My spine is broken now!](http://9gag.com/gag/aPAZDQQ)
+ - ⏩ [Dude thought he bought a TV, but it turned out to be a Popeyes digital menu board.](http://9gag.com/gag/ae9gGmb)
+ - 👉 [Deleted once.....?](http://9gag.com/gag/aNDPK64)<!-- MEMES:END -->
 
 ---
 
