@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Why did she do it?](http://9gag.com/gag/a6Z1yVq)
- - ⏩ [Who\u2019s coming to hell with me?](http://9gag.com/gag/aryneW5)
- - 👉 [Mosquito Repellent Smoke Grenade](http://9gag.com/gag/abAgqzX)<!-- MEMES:END -->
+ - ⏩ [Hello Kate Moss, would you like some candy in your refreshment? Imma put some candy in your refreshment.](http://9gag.com/gag/a5Q1dVN)
+ - 👉 [Seriously?](http://9gag.com/gag/aLnvRov)<!-- MEMES:END -->
 
 ---
 
