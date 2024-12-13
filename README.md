@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Discoveries](https://www.polygon.com/gaming/24215620/new-things-to-play-watch-and-experience)
- - [Netflix Will Make Squid Game: Unleashed Free For All To Play](https://kotaku.com/netflix-squid-game-unleashed-mobile-news-1851720800)
- - [After 11 years, Assassin&#39;s Creed IV: Black Flag finally gets achievements &lpar;but good luck getting 100%&rpar;](https://www.pcgamer.com/games/after-11-years-assassins-creed-iv-black-flag-finally-gets-achievements-but-good-luck-getting-100-percent/)<!-- GAME:END -->
+ - [How to turn off easy swing in Marvel Rivals](https://www.polygon.com/marvel-rivals-guide/496671/easy-swing-automatic-turn-off-setting)
+ - [Interstellar’s 10th anniversary collector’s edition is at Barnes &amp;#038; Noble](https://www.polygon.com/deals/486081/interstellar-10th-anniversary-collectors-edition-4k-blu-ray-where-to-buy)
+ - [Last call for Forza Horizon 4: It&#39;s being removed from sale in 2 days, so get it while you can](https://www.pcgamer.com/games/racing/last-call-for-forza-horizon-4-its-being-removed-from-sale-in-2-days-so-get-it-while-you-can/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
