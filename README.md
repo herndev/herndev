@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How to use the Sacrificial Heart in Path of Exile 2](https://www.polygon.com/path-exile-2-guide/496552/sacrificial-heart-how-to-use-quest-poe2)
- - [The 44 best movies on Netflix right now](https://www.polygon.com/496495/best-movies-on-netflix)
- - [Naughty Dog&#39;s Intergalactic: The Heretic Prophet Trailer Has Completely Won Me Over](https://kotaku.com/intergalactic-the-heretic-prophet-naughty-dog-trailer-1851720900)<!-- GAME:END -->
+ - [Discoveries](https://www.polygon.com/gaming/24215620/new-things-to-play-watch-and-experience)
+ - [Netflix Will Make Squid Game: Unleashed Free For All To Play](https://kotaku.com/netflix-squid-game-unleashed-mobile-news-1851720800)
+ - [After 11 years, Assassin&#39;s Creed IV: Black Flag finally gets achievements &lpar;but good luck getting 100%&rpar;](https://www.pcgamer.com/games/after-11-years-assassins-creed-iv-black-flag-finally-gets-achievements-but-good-luck-getting-100-percent/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
