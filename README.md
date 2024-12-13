@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [FromSoftware&#39;s next game is an Elden Ring spin-off called Nightreign, and it&#39;s coming next year](https://www.pcgamer.com/games/roguelike/new-fromsoftware-game-elden-ring-nightreign-announced-game-awards-trailer/)
- - [Witcher 4 trailer reveals Ciri as its playable progatonist](https://www.polygon.com/gaming/495520/witcher-4-trailer-reveal)
- - [Core Keeper devs are doing more co-op survival crafting and this one has Terraria vibes](https://www.pcgamer.com/games/survival-crafting/core-keeper-devs-are-doing-more-co-op-survival-crafting-and-this-one-has-terraria-vibes/)<!-- GAME:END -->
+ - [The Yakuza studio is making a new action game set in 1915 Japan](https://www.pcgamer.com/games/action/the-yakuza-studio-is-making-a-new-action-game-set-in-1915-japan/)
+ - [Illuminates invade! Helldivers 2&#39;s biggest update yet drops today with a new alien faction and four-person vehicle](https://www.pcgamer.com/games/third-person-shooter/illuminates-invade-helldivers-2s-biggest-update-yet-drops-today-with-a-new-alien-faction-and-four-person-vehicle/)
+ - [Sega announces all-new Virtua Fighter at The Game Awards](https://www.polygon.com/news/495371/virtua-fighter-6-sega-announcement)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
