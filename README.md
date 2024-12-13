@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Warframe&#39;s bonkers 1999 update sneaks out today: Y2K, dating, boy bands, motorbikes—it&#39;s gonna be a weird weekend](https://www.pcgamer.com/games/action/warframes-bonkers-1999-update-sneaks-out-today-y2k-dating-boy-bands-motorbikes-its-gonna-be-a-weird-weekend/)
- - [Undisputed has added Jake Paul DLC and given the YouTube grandad-basher a rating equivalent to two-time world champion Ricky Hatton](https://www.pcgamer.com/games/undisputed-dlc-has-added-jake-paul-and-given-the-youtube-grandad-basher-a-rating-equivalent-to-two-time-world-champion-ricky-hatton/)
- - [&#39;It’s a whole new kind of blerp&#39;: YouTube&#39;s AI-enhanced reply suggestions seem to be working as well as you might expect](https://www.pcgamer.com/software/ai/its-a-whole-new-kind-of-blerp-youtubes-ai-enhanced-reply-suggestions-seem-to-be-working-as-well-as-you-might-expect/)<!-- GAME:END -->
+ - [Next Week&lpar;s&rpar; on Xbox: New Games for December 16 to January 3](https://news.xbox.com/en-us/2024/12/13/__trashed-9/)
+ - [The Witcher 4 may have familiar faces but it&#39;s an origin story: &#39;A new opening, a new saga, a new beginning actually&#39;](https://www.pcgamer.com/games/the-witcher/the-witcher-4-may-have-familiar-faces-but-its-an-origin-story-a-new-opening-a-new-saga-a-new-beginning-actually/)
+ - [Warframe&#39;s bonkers 1999 update sneaks out today: Y2K, dating, boy bands, motorbikes—it&#39;s gonna be a weird weekend](https://www.pcgamer.com/games/action/warframes-bonkers-1999-update-sneaks-out-today-y2k-dating-boy-bands-motorbikes-its-gonna-be-a-weird-weekend/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
