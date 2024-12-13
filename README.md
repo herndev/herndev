@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How to solve the Resonance Chamber puzzle in Indiana Jones and the Great Circle](https://www.polygon.com/indiana-jones-great-circle-guide/495600/resonance-chamber-puzzle-solution-how-to-solve)
- - [How to solve the Light Chamber puzzle in Indiana Jones and the Great Circle](https://www.polygon.com/indiana-jones-great-circle-guide/495694/light-chamber-solution-puzzle-beam-combination-how-to-solve)
- - [The state of the budget graphics card market going into 2025](https://www.pcgamer.com/hardware/graphics-cards/the-state-of-the-budget-graphics-card-market-going-into-2025/)<!-- GAME:END -->
+ - [FromSoftware&#39;s next game is an Elden Ring spin-off called Nightreign, and it&#39;s coming next year](https://www.pcgamer.com/games/roguelike/new-fromsoftware-game-elden-ring-nightreign-announced-game-awards-trailer/)
+ - [Witcher 4 trailer reveals Ciri as its playable progatonist](https://www.polygon.com/gaming/495520/witcher-4-trailer-reveal)
+ - [Core Keeper devs are doing more co-op survival crafting and this one has Terraria vibes](https://www.pcgamer.com/games/survival-crafting/core-keeper-devs-are-doing-more-co-op-survival-crafting-and-this-one-has-terraria-vibes/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
