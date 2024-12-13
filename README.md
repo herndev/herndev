@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Turok: Origins announced for PS5 – first gameplay details](https://blog.playstation.com/2024/12/13/turok-origins-announced-for-ps5-first-gameplay-details/)
- - [Turok is Back! Saber Interactive Reveals Turok: Origins at The Game Awards with New Trailer](https://news.xbox.com/en-us/2024/12/13/turok-origins-at-the-game-awards/)
- - [Researchers have found a way to hack the memory on some virtual machines using a Raspberry Pi](https://www.pcgamer.com/hardware/researchers-have-found-a-way-to-hack-the-memory-on-some-virtual-machines-using-a-raspberry-pi/)<!-- GAME:END -->
+ - [Warframe&#39;s bonkers 1999 update sneaks out today: Y2K, dating, boy bands, motorbikes—it&#39;s gonna be a weird weekend](https://www.pcgamer.com/games/action/warframes-bonkers-1999-update-sneaks-out-today-y2k-dating-boy-bands-motorbikes-its-gonna-be-a-weird-weekend/)
+ - [Undisputed has added Jake Paul DLC and given the YouTube grandad-basher a rating equivalent to two-time world champion Ricky Hatton](https://www.pcgamer.com/games/undisputed-dlc-has-added-jake-paul-and-given-the-youtube-grandad-basher-a-rating-equivalent-to-two-time-world-champion-ricky-hatton/)
+ - [&#39;It’s a whole new kind of blerp&#39;: YouTube&#39;s AI-enhanced reply suggestions seem to be working as well as you might expect](https://www.pcgamer.com/software/ai/its-a-whole-new-kind-of-blerp-youtubes-ai-enhanced-reply-suggestions-seem-to-be-working-as-well-as-you-might-expect/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
