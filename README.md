@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Cloud launches Agentspace to let enterprises create and deploy AI agents for marketing, HR, software development, and more &lpar;Larry Dignan/Constellation Research&rpar;](http://www.techmeme.com/241213/p16#a241213p16)
- - [Here’s a first look at the UI of Android XR](https://www.androidauthority.com/android-xr-ui-first-look-3508760/)
- - [Google rolls out interactive Audio Overviews in NotebookLM, an &quot;experimental feature&quot; that lets users talk to the AI &quot;hosts&quot; of the overviews &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/241213/p15#a241213p15)<!-- TECH:END -->
+ - [The Google Pixel 9 Pro is the Android Authority Editor’s Choice winner for best phone of 2024](https://www.androidauthority.com/best-phone-2024-editors-choice-android-authority-3507893/)
+ - [Game-like ‘task scams’ stole more than $220 million in six months](https://www.theverge.com/2024/12/13/24320391/ftc-task-scams-spotlight-warning)
+ - [Liquid AI, which is building AI systems powered by liquid neural networks, raised a $250M Series A led by AMD at a $2.3B valuation, following a $46.6M seed &lpar;Bloomberg&rpar;](http://www.techmeme.com/241213/p19#a241213p19)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
