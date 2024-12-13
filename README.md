@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [What are those?](http://9gag.com/gag/aYQrpWO)
- - ⏩ [Mosquito Repellent Smoke Grenade](http://9gag.com/gag/abAgqzX)
- - 👉 [Seriously?](http://9gag.com/gag/aLnvRov)<!-- MEMES:END -->
+ - 💣 [Who\u2019s coming to hell with me?](http://9gag.com/gag/aryneW5)
+ - ⏩ [Seriously?](http://9gag.com/gag/aLnvRov)
+ - 👉 [Get screwed](http://9gag.com/gag/aVvxzgO)<!-- MEMES:END -->
 
 ---
 
