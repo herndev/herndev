@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Who\u2019s coming to hell with me?](http://9gag.com/gag/aryneW5)
- - ⏩ [If it works](http://9gag.com/gag/a2v1qrp)
- - 👉 [Seriously?](http://9gag.com/gag/aLnvRov)<!-- MEMES:END -->
+ - 💣 [When she realized](http://9gag.com/gag/ayN95ry)
+ - ⏩ [What are those?](http://9gag.com/gag/aYQrpWO)
+ - 👉 [If it works](http://9gag.com/gag/a2v1qrp)<!-- MEMES:END -->
 
 ---
 
