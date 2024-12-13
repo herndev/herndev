@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sonos Arc Ultra review: The best Dolby Atmos soundbar just got better](https://appleinsider.com/articles/24/12/13/sonos-arc-ultra-review-the-best-dolby-atmos-soundbar-just-got-better?utm_medium=rss)
- - [Some Educated Guesses About Trump’s Second Term](https://www.wired.com/story/politics-lab-donald-trump-second-presidential-term/)
- - [The New Jersey Drone Mystery May Not Actually Be That Mysterious](https://www.wired.com/story/new-jersey-drone-mystery-maybe-not-drones/)<!-- TECH:END -->
+ - [Sources: Walmart is leading a funding round of $300M+ alongside Ribbit for Walmart&#39;s fintech venture, One, giving it a pre-money valuation of $2.5B &lpar;Bloomberg&rpar;](http://www.techmeme.com/241213/p25#a241213p25)
+ - [Amazon is shipping the Kindle Colorsoft again, but it’s unclear if it’s fixed](https://www.theverge.com/2024/12/13/24320614/amazon-kindle-colorsoft-shipping-yellow-band-display-e-reader)
+ - [BBC cries foul over Apple Intelligence headline notification summarizations](https://appleinsider.com/articles/24/12/13/bbc-cries-foul-over-apple-intelligence-headline-notification-summarizations?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
