@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How US SMB owners, celebrities, and retailers on TikTok are using livestreaming to boost their sales one year after TikTok Shop&#39;s launch in the country &lpar;Andrea Chang/Los Angeles Times&rpar;](http://www.techmeme.com/241213/p2#a241213p2)
- - [From Moo Deng to solar eclipses: Google recaps 2024’s viral moments with new doodle and video](https://www.androidauthority.com/google-breakout-doodle-year-in-search-2024-3508576/)
- - [Apple’s newest custom chip could be an own goal for the iPhone 17](https://www.androidauthority.com/apple-iphone-17-new-custom-chip-3508572/)<!-- TECH:END -->
+ - [China plans to set up a committee of 41 members, including representatives from Baidu and Peking University, to set standards for LLMs and AI risk assessment &lpar;Reuters&rpar;](http://www.techmeme.com/241213/p3#a241213p3)
+ - [Here’s what it’s like to use Google’s Android XR smart glasses](https://www.androidauthority.com/how-google-android-xr-smart-glasses-work-3508597/)
+ - [23 Gifts for Dads Who Don&#39;t Need Anything &lpar;2024&rpar;](https://www.wired.com/gallery/gifts-to-give-dads/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
