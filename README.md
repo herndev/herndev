@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Here’s the first official Android XR live demo featuring Samsung ‘Project Moohan’ headset](https://www.androidauthority.com/android-xr-samsung-project-moohan-live-demo-3508533/)
  - [In a strategy change, Netflix plans to make its Squid Games battle royale game available for free to non-members for a limited time after its December 17 launch &lpar;Jennifer Maas/Variety&rpar;](http://www.techmeme.com/241212/p56#a241212p56)
- - [You might soon be saying goobye to ‘Hey Google’ and hello to ‘Hey Gemini’](https://www.androidauthority.com/hey-google-hey-gemini-hotword-3508517/)
- - [Naughty Dog reveals sci-fi game Intergalactic: The Heretic Prophet](https://www.theverge.com/24320197/intergalactic-the-heretic-prophet-naughty-dog-trailer-game-awards-2024)<!-- TECH:END -->
+ - [You might soon be saying goobye to ‘Hey Google’ and hello to ‘Hey Gemini’](https://www.androidauthority.com/hey-google-hey-gemini-hotword-3508517/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
