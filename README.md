@@ -47,7 +47,7 @@
 
 <!-- MEMES:START -->
  - 💣 [Seriously?](http://9gag.com/gag/aLnvRov)
- - ⏩ [I love watching Japanese newsreaders.](http://9gag.com/gag/a4P1dXA)
+ - ⏩ [Hello Kate Moss, would you like some candy in your refreshment? Imma put some candy in your refreshment.](http://9gag.com/gag/a5Q1dVN)
  - 👉 [If it works](http://9gag.com/gag/a2v1qrp)<!-- MEMES:END -->
 
 ---
