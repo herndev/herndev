@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Revolut staff and early investors offloaded nearly $1B in stock in a secondary sale since August 2024, after the UK granted Revolut its banking license &lpar;Financial Times&rpar;](http://www.techmeme.com/241216/p6#a241216p6)
- - [Breaking: One UI 7 beta 2 starts rolling out in select markets](https://www.androidauthority.com/samsung-one-ui-7-beta-2-rollout-3509206/)
- - [Here’s how to bring back the hidden lock screen volume controls on iOS 18.2](https://www.androidauthority.com/enable-lock-screen-volume-controls-ios-18-2-3509174/)<!-- TECH:END -->
+ - [The EU signs a deal to build the &amp;euro;10.6B Iris&amp;sup2; satellite internet network to rival Starlink, with 61% of the project funded publicly, starting operations in 2030 &lpar;Peggy Hollinger/Financial Times&rpar;](http://www.techmeme.com/241216/p9#a241216p9)
+ - [Nintendo Switch 2 leak reveals all — including the name and logo](https://www.androidauthority.com/nintendo-switch-2-leak-logo-3509204/)
+ - [The Top Cybersecurity Agency in the US Is Bracing for Donald Trump](https://www.wired.com/story/cisa-cuts-trump-2/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
