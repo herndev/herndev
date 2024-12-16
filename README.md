@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [ChatGPT’s AI search engine is rolling out to everyone](https://www.theverge.com/2024/12/16/24322665/chatgpt-search-engine-rolling-out-free-users)
- - [Chinese shopping app Temu was the year&#39;s most downloaded free app in the US, for the second year in a row, followed by Threads, TikTok, ChatGPT, and then Google &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/241216/p23#a241216p23)
- - [Supply chain rumor suggests OLED iPad mini in 2026, foldable iPad Pro in 2027](https://appleinsider.com/articles/24/12/16/supply-chain-rumor-suggests-oled-ipad-mini-in-2026-foldable-ipad-pro-in-2027?utm_medium=rss)<!-- TECH:END -->
+ - [Blackmagic’s Vision Pro immersive camera can be yours for only $29,995](https://www.theverge.com/2024/12/16/24322713/blackmagic-cine-immersive-camera-preorder-vision-pro-immersive-video)
+ - [ByteDance asks SCOTUS to block the law that could ban TikTok on Jan. 19; Trump said today he has a &quot;warm spot&quot; in his heart for TikTok, when asked about the law &lpar;Lawrence Hurley/NBC News&rpar;](http://www.techmeme.com/241216/p25#a241216p25)
+ - [Serbian authorities are reportedly hacking and installing spyware on activists’ phones](https://www.theverge.com/2024/12/16/24322640/serbian-police-novispy-android-spyware-amnesty-international-cellebrite)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
