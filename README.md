@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Whisk lets you fuse multiple images into something all new](https://www.androidauthority.com/google-labs-whisk-3509414/)
- - [Narwal Freo X Plus deal: Save $60 and keep your floors squeaky clean](https://www.androidauthority.com/narwal-freo-x-plus-deal-3509441/)
- - [Google Messages may soon let you explain why you want RCS spam to stop &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-messages-subscribe-unsubscribe-3509389/)<!-- TECH:END -->
+ - [Source: Trump meets with TikTok CEO Shou Zi Chew at Mar-a-Lago, the same day that the company asks the Supreme Court to block the law that could ban the app &lpar;NBC News&rpar;](http://www.techmeme.com/241216/p29#a241216p29)
+ - [TikTok CEO meets with Trump as the platform tries to avoid a ban](https://www.theverge.com/2024/12/16/24322852/tiktok-ceo-trump-meeting-ban)
+ - [Android 15 QPR2 Beta 2 is arriving today, loaded with bug fixes](https://www.androidauthority.com/android-15-qpr2-beta-launch-3509471/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
