@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Dune: Prophecy finale, Netflix’s Dragon Prince, and more new TV this week](https://www.polygon.com/tv/493123/new-tv-netflix-dune-prophecy-dragon-prince-lower-decks-finale-beast-games-watch-streaming)
- - [Marvel Rivals&#39; New Winter Update Is Adding An Oops All Jeff Mode](https://kotaku.com/marvel-rivals-jeff-shark-free-skin-christmas-update-ps5-1851722111)
- - [Black Myth: Wukong’s producer seems pissed he didn’t win Game of the Year](https://www.polygon.com/awards/497206/black-myth-wukong-goty-loss)<!-- GAME:END -->
+ - [Turmoil Comes to Xbox: Here’s Five Smart Ways to Drill Down Deep](https://news.xbox.com/en-us/2024/12/16/turmoil-xbox-5-ways-to-drill/)
+ - [I’m ready, I’m ready, I’m ready for SpongeBob SquarePants in Fortnite](https://www.polygon.com/news/497590/fortnite-spongebob-squarepants-collaboration-islands-nickelodeon)
+ - [These are the best luxury board games to add to your collection](https://www.polygon.com/board-games/483142/best-luxury-premium-edition-upgrades)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
