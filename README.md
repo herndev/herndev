@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [It was down to the wire, but Helldivers 2 players are celebrating after giving the Illuminate the galactic boot on Calypso—though I&#39;ve got a feeling they&#39;ll be back soon](https://www.pcgamer.com/games/third-person-shooter/it-was-down-to-the-wire-but-helldivers-2-players-are-celebrating-after-giving-the-illuminate-the-galactic-boot-on-calypso-though-ive-got-a-feeling-theyll-be-back-soon/)
- - [The Nintendo Switch 2 looks like it might be following the handheld gaming PC trend and going large](https://www.pcgamer.com/hardware/handheld-gaming-pcs/the-nintendo-switch-2-looks-like-it-might-be-following-the-handheld-gaming-pc-trend-and-going-large/)
- - [The next version of HDMI is said to launch at CES 2025, with &#39;a wide range of higher resolutions and refresh rates&#39; and a new cable](https://www.pcgamer.com/hardware/gaming-monitors/the-next-version-of-hdmi-is-said-to-launch-at-ces-2025-with-a-wide-range-of-higher-resolutions-and-refresh-rates-and-a-new-cable/)<!-- GAME:END -->
+ - [The best thrillers of 2024](https://www.polygon.com/what-to-watch/454161/best-thrillers-movies-2024-watch)
+ - [Ballionaire review](https://www.pcgamer.com/games/roguelike/ballionaire-review/)
+ - [The best new tabletop RPG books of 2024](https://www.polygon.com/best-of-the-year/494304/best-ttrpg-books-2024)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
