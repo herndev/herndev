@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Sewer explosion 4 hours ago in China](http://9gag.com/gag/aPAZBZR)
- - ⏩ [Islamic mobs terrorize German women on Berlin subway. This is a huge problem.](http://9gag.com/gag/axyBVgn)
- - 👉 [Listen here you little shit.](http://9gag.com/gag/ae9ge2O)<!-- MEMES:END -->
+ - 💣 [This could have be any western country, if only](http://9gag.com/gag/aoygOwm)
+ - ⏩ [Still got more to lose &lpar;about another 20kg&rpar;, but this is a major goal achieved I never thought possible.](http://9gag.com/gag/aMV4AVM)
+ - 👉 [Becareful when you boo a comedian...](http://9gag.com/gag/agmgXm1)<!-- MEMES:END -->
 
 ---
 
