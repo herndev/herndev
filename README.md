@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This could have be any western country, if only](http://9gag.com/gag/aoygOwm)
- - ⏩ [Still got more to lose &lpar;about another 20kg&rpar;, but this is a major goal achieved I never thought possible.](http://9gag.com/gag/aMV4AVM)
- - 👉 [Becareful when you boo a comedian...](http://9gag.com/gag/agmgXm1)<!-- MEMES:END -->
+ - 💣 [Police indicated `Currently no evidence of foul play`](http://9gag.com/gag/aVvxDBM)
+ - ⏩ [Wtf did you just watch.](http://9gag.com/gag/aQzXe48)
+ - 👉 [Download wrong power ranger](http://9gag.com/gag/ayN9DeM)<!-- MEMES:END -->
 
 ---
 
