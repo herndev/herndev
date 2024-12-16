@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sonos Sub 4 review: A minor update helps future proof the high-end subwoofer](https://appleinsider.com/articles/24/12/16/sonos-sub-4-review-a-minor-update-helps-future-proof-the-high-end-subwoofer?utm_medium=rss)
- - [Google Drive rolls out improved document scanner on mobile](https://www.androidauthority.com/google-drive-improved-scanner-mobile-3509225/)
- - [A profile of US ride-hailing startup Empower, which does 100K rides per week in DC despite refusing to register with the city&#39;s Department of For-Hire Vehicles &lpar;Eli Tan/New York Times&rpar;](http://www.techmeme.com/241216/p12#a241216p12)<!-- TECH:END -->
+ - [Snapchat is overhauling how influencers earn money on the platform](https://www.theverge.com/2024/12/16/24320402/snapchat-creator-monetization-program-stories-spotlight)
+ - [How to remove your personal information from the internet with Incogni](https://appleinsider.com/articles/24/12/16/how-to-remove-your-personal-information-from-the-internet-with-incogni?utm_medium=rss)
+ - [OnePlus Open 2 leak suggests OnePlus could fix all of Open’s shortcomings](https://www.androidauthority.com/oneplus-open-2-leak-wireless-charging-ipx8-3509239/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
