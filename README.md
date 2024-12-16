@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Dune: Prophecy&#39;s Sister Francesca Is Stronger Than You Think](https://kotaku.com/dune-prophecy-sister-francesca-tabu-interview-news-1851721785)
  - [Turmoil Comes to Xbox: Here’s Five Smart Ways to Drill Down Deep](https://news.xbox.com/en-us/2024/12/16/turmoil-xbox-5-ways-to-drill/)
- - [I’m ready, I’m ready, I’m ready for SpongeBob SquarePants in Fortnite](https://www.polygon.com/news/497590/fortnite-spongebob-squarepants-collaboration-islands-nickelodeon)
- - [These are the best luxury board games to add to your collection](https://www.polygon.com/board-games/483142/best-luxury-premium-edition-upgrades)<!-- GAME:END -->
+ - [I’m ready, I’m ready, I’m ready for SpongeBob SquarePants in Fortnite](https://www.polygon.com/news/497590/fortnite-spongebob-squarepants-collaboration-islands-nickelodeon)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
