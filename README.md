@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Men only want one thing...](http://9gag.com/gag/aLnvD9v)
- - ⏩ [Wtf did you just watch.](http://9gag.com/gag/aQzXe48)
- - 👉 [I&#39;m cured, but I don&#39;t want to go home.](http://9gag.com/gag/avyAGMb)<!-- MEMES:END -->
+ - 💣 [That moment when your dad is Thor](http://9gag.com/gag/a1m1bEv)
+ - ⏩ [What a lovely daughter](http://9gag.com/gag/aNDP0Zv)
+ - 👉 [Listen here you little shit.](http://9gag.com/gag/ae9ge2O)<!-- MEMES:END -->
 
 ---
 
