@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [My spine is broken now!](http://9gag.com/gag/aPAZDQQ)
- - ⏩ [Dude thought he bought a TV, but it turned out to be a Popeyes digital menu board.](http://9gag.com/gag/ae9gGmb)
- - 👉 [Deleted once.....?](http://9gag.com/gag/aNDPK64)<!-- MEMES:END -->
+ - 💣 [Guy remade $million dollar VFX scene from Force Awakens alone in a week &lpar;ErikDoesVFX&rpar;](http://9gag.com/gag/a4P1GRZ)
+ - ⏩ [13-year-old Magnus Carlsen gets bored playing against World Champ Kasparov](http://9gag.com/gag/aRBrK4q)
+ - 👉 [4am puctures](http://9gag.com/gag/aD2Djed)<!-- MEMES:END -->
 
 ---
 
