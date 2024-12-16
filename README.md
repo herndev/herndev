@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Instagram will let you recap 2024 with a collage for your story](https://www.theverge.com/2024/12/16/24322563/instagram-recap-2024-collage-story)
- - [Apple Intelligence isn&#39;t hugely important, says an iPhone user survey done too early](https://appleinsider.com/articles/24/12/16/apple-intelligence-isnt-hugely-important-says-an-iphone-user-survey-done-too-early?utm_medium=rss)
- - [Undisclosed HomeKit flaw used by Cellebrite to attack Serbian journalists](https://appleinsider.com/articles/24/12/16/undisclosed-homekit-flaw-used-by-cellebrite-to-attack-serbian-journalists?utm_medium=rss)<!-- TECH:END -->
+ - [Supply chain rumor suggests OLED iPad mini in 2026, foldable iPad Pro in 2027](https://appleinsider.com/articles/24/12/16/supply-chain-rumor-suggests-oled-ipad-mini-in-2026-foldable-ipad-pro-in-2027?utm_medium=rss)
+ - [One UI 7 adds new game frame rate options, but also takes one away](https://www.androidauthority.com/galaxy-gaming-motion-smoothness-3509341/)
+ - [Chromebooks are getting a safety reset feature that doesn’t wipe your data](https://www.androidauthority.com/chromebook-chrome-os-m131-update-3509362/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
