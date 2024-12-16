@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The best thrillers of 2024](https://www.polygon.com/what-to-watch/454161/best-thrillers-movies-2024-watch)
- - [Ballionaire review](https://www.pcgamer.com/games/roguelike/ballionaire-review/)
- - [The best new tabletop RPG books of 2024](https://www.polygon.com/best-of-the-year/494304/best-ttrpg-books-2024)<!-- GAME:END -->
+ - [We&#39;re &lpar;probably&rpar; doomed: Experts think the Sun may produce gigantic, electronics-destroying superflares much more often than we previously thought](https://www.pcgamer.com/hardware/were-probably-doomed-experts-think-the-sun-may-produce-gigantic-electronics-destroying-superflares-much-more-often-than-we-previously-thought/)
+ - [Star Wars&#39; Rey Is Here To Explain What Monster Hunter Is All About](https://kotaku.com/star-wars-daisy-ridley-monster-hunter-wilds-explainer-1851721871)
+ - [Gulikit KK3 Max review](https://www.pcgamer.com/hardware/controllers/gulikit-kk3-max-review/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
