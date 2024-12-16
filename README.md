@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Savage](http://9gag.com/gag/ajPgN91)
- - ⏩ [At 16, she made a jump so perfect that not even the judges could believe it](http://9gag.com/gag/a2v14Q1)
- - 👉 [A real gamer](http://9gag.com/gag/aVvx31w)<!-- MEMES:END -->
+ - 💣 [From a boy to a man](http://9gag.com/gag/aGyzgEK)
+ - ⏩ [Usually if the input was specific, the output was aswell. Not anymore.](http://9gag.com/gag/aO8QYEN)
+ - 👉 [Class war not race war](http://9gag.com/gag/a9y1R5j)<!-- MEMES:END -->
 
 ---
 
