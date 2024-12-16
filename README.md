@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Download wrong power ranger](http://9gag.com/gag/ayN9DeM)
- - ⏩ [Opportunity only knocks once, grab it or you&#39;ll lose it](http://9gag.com/gag/aoygOA3)
- - 👉 [The winner of Miss France, and the second place. Can someone please explain?](http://9gag.com/gag/aE082wO)<!-- MEMES:END -->
+ - 💣 [Men only want one thing...](http://9gag.com/gag/aLnvD9v)
+ - ⏩ [Wtf did you just watch.](http://9gag.com/gag/aQzXe48)
+ - 👉 [I&#39;m cured, but I don&#39;t want to go home.](http://9gag.com/gag/avyAGMb)<!-- MEMES:END -->
 
 ---
 
