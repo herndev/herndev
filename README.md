@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Cat.. Wtf..???](http://9gag.com/gag/a8715N3)
- - ⏩ [Adult](http://9gag.com/gag/a9y1nLj)
- - 👉 [Class war not race war](http://9gag.com/gag/a9y1R5j)<!-- MEMES:END -->
+ - 💣 [Savage](http://9gag.com/gag/ajPgN91)
+ - ⏩ [At 16, she made a jump so perfect that not even the judges could believe it](http://9gag.com/gag/a2v14Q1)
+ - 👉 [A real gamer](http://9gag.com/gag/aVvx31w)<!-- MEMES:END -->
 
 ---
 
