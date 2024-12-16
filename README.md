@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [We&#39;re &lpar;probably&rpar; doomed: Experts think the Sun may produce gigantic, electronics-destroying superflares much more often than we previously thought](https://www.pcgamer.com/hardware/were-probably-doomed-experts-think-the-sun-may-produce-gigantic-electronics-destroying-superflares-much-more-often-than-we-previously-thought/)
- - [Star Wars&#39; Rey Is Here To Explain What Monster Hunter Is All About](https://kotaku.com/star-wars-daisy-ridley-monster-hunter-wilds-explainer-1851721871)
- - [Gulikit KK3 Max review](https://www.pcgamer.com/hardware/controllers/gulikit-kk3-max-review/)<!-- GAME:END -->
+ - [This Holiday, Xbox, The Coalition, Double Fine, Ninja Theory and More Support Mental Wellness](https://news.xbox.com/en-us/2024/12/16/xbox-mental-wellness-2024/)
+ - [The best horror movies of the year, ranked by scariness](https://www.polygon.com/24090384/best-horror-movies-2024-how-scary)
+ - [The best horror movies of the year, ranked by scariness](https://www.polygon.com/494407/best-horror-movies-2024-how-scary)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
