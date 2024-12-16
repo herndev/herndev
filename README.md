@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Balatro dev swings at PEGI for rating it 18+ because of its &#39;evil playing cards&#39;, jokes that he should &#39;add microtransactions&#39; like EA Sports FC 25 to &#39;lower that rating to a 3+&#39;](https://www.pcgamer.com/games/roguelike/balatro-dev-swings-at-pegi-for-rating-it-18-because-of-its-evil-playing-cards-jokes-that-he-should-add-microtransactions-like-ea-sports-fc-25-to-lower-that-rating-to-a-3/)
- - [It&#39;s the end of an era: Crucial starts calling time on its popular SATA SSD, the MX500](https://www.pcgamer.com/hardware/ssds/its-the-end-of-an-era-crucial-starts-calling-time-on-its-popular-sata-ssd-the-mx500/)
- - [Apple&#39;s infamous Magic Mouse is rumoured to be getting a redesign, hopefully moving that horrendous charging port](https://www.pcgamer.com/hardware/gaming-mice/apples-infamous-magic-mouse-is-rumoured-to-be-getting-a-redesign-hopefully-moving-that-horrendous-charging-port/)<!-- GAME:END -->
+ - [It was down to the wire, but Helldivers 2 players are celebrating after giving the Illuminate the galactic boot on Calypso—though I&#39;ve got a feeling they&#39;ll be back soon](https://www.pcgamer.com/games/third-person-shooter/it-was-down-to-the-wire-but-helldivers-2-players-are-celebrating-after-giving-the-illuminate-the-galactic-boot-on-calypso-though-ive-got-a-feeling-theyll-be-back-soon/)
+ - [The Nintendo Switch 2 looks like it might be following the handheld gaming PC trend and going large](https://www.pcgamer.com/hardware/handheld-gaming-pcs/the-nintendo-switch-2-looks-like-it-might-be-following-the-handheld-gaming-pc-trend-and-going-large/)
+ - [The next version of HDMI is said to launch at CES 2025, with &#39;a wide range of higher resolutions and refresh rates&#39; and a new cable](https://www.pcgamer.com/hardware/gaming-monitors/the-next-version-of-hdmi-is-said-to-launch-at-ces-2025-with-a-wide-range-of-higher-resolutions-and-refresh-rates-and-a-new-cable/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
