@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Listen here you little shit.](http://9gag.com/gag/ae9ge2O)
- - ⏩ [Just seen this.. knew this belongs here](http://9gag.com/gag/aRBr3rA)
- - 👉 [Doesn&#39;t look good for George](http://9gag.com/gag/amogBzj)<!-- MEMES:END -->
+ - 💣 [Cat.. Wtf..???](http://9gag.com/gag/a8715N3)
+ - ⏩ [Adult](http://9gag.com/gag/a9y1nLj)
+ - 👉 [Class war not race war](http://9gag.com/gag/a9y1R5j)<!-- MEMES:END -->
 
 ---
 
