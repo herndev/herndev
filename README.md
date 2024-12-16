@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How some companies are using AI agents: McKinsey for client onboarding, insurer Nsure to handle customer requests, and Accenture to support its marketing team &lpar;Jo Constantz/Bloomberg&rpar;](http://www.techmeme.com/241216/p2#a241216p2)
- - [Sephora Promo Codes: 20% Off Fragrances + Free Shipping](https://www.wired.com/story/sephora-promo-code/)
- - [Dyson Promo Code: 20% Off in December 2024](https://www.wired.com/story/dyson-cordless-vacuum-promo-code/)<!-- TECH:END -->
+ - [A Christmas miracle: Apple could finally fix the Magic Mouse with new design](https://www.androidauthority.com/next-magic-mouse-not-have-bottom-port-3509142/)
+ - [Chinese merchants are rapidly expanding their presence on Russian e-commerce platforms like Ozon Global and Wildberries to find new markets and avoid US tariffs &lpar;William Langley/Financial Times&rpar;](http://www.techmeme.com/241216/p3#a241216p3)
+ - [How some companies are using AI agents: McKinsey for client onboarding, insurer Nsure to handle customer requests, and Accenture to support its marketing team &lpar;Jo Constantz/Bloomberg&rpar;](http://www.techmeme.com/241216/p2#a241216p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
