@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [ChatGPT Projects are fancy folders for your AI chats](https://www.theverge.com/2024/12/13/24320800/openai-chatgpt-projects-folders-ai-chats)
- - [Peak Design denies snitching on Luigi Mangione](https://www.theverge.com/2024/12/13/24320785/peak-design-everyday-backpack-serial-number-united-healthcare-ceo-shooting)
- - [This is the Nintendo Switch 2, according to dbrand](https://www.androidauthority.com/nintendo-switch-2-dbrand-killswitch-3508946/)<!-- TECH:END -->
+ - [TikTok critics like Marco Rubio and Brendan Carr are set to occupy senior roles in the Trump administration, highlighting Trump&#39;s murky stance about the app &lpar;Anna Edgerton/Bloomberg&rpar;](http://www.techmeme.com/241215/p16#a241215p16)
+ - [Meta’s Instagram boss: who posted something matters more in the AI age](https://www.theverge.com/2024/12/15/24321880/instagram-threads-adam-mosseri-dont-trust-images-ai-generated-labeling-moderation)
+ - [Best Gifts for Photographers in 2024](https://www.cnet.com/tech/computing/best-gifts-for-photographers/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
