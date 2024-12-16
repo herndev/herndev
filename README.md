@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Pilot a submarine, clean up evidence, swim for your lives in this latest blend of horror comedy and chaos co-op](https://www.pcgamer.com/games/horror/pilot-a-submarine-clean-up-evidence-swim-for-your-lives-in-this-latest-blend-of-horror-comedy-and-chaos-co-op/)
- - [Ahead of its January launch, one of the best city builders around is getting a free demo that &#39;allows you to play endlessly&#39; with some of the new features coming next year](https://www.pcgamer.com/games/sim/ahead-of-its-january-launch-one-of-the-best-city-builders-around-is-getting-a-free-demo-that-allows-you-to-play-endlessly-with-some-of-the-new-features-coming-next-year/)
- - [Idris Elba would love to do a live-action Cyberpunk movie with Keanu Reeves: &#39;Let&#39;s speak that into existence&#39;](https://www.pcgamer.com/games/rpg/idris-elba-would-love-to-do-a-live-action-cyberpunk-movie-with-keanu-reeves-lets-speak-that-into-existence/)<!-- GAME:END -->
+ - [Is Dune: Prophecy gonna midi-chlorian us?](https://www.polygon.com/opinion/496634/dune-prophecy-finale-theories-season-1-desmond-hart)
+ - [&lpar;For Southeast Asia&rpar; Holiday Sale 2024 featuring Discounts on PlayStation Peripherals and blockbuster titles](https://blog.playstation.com/2024/12/15/20241212-holidaypromo/)
+ - [&#39;I&#39;ve spent my entire career trying to recreate the feeling I had when I played D&amp;D for the first time,&#39; says immersive sim godfather Warren Spector, with new game Thick as Thieves going multiplayer because &#39;you don&#39;t play D&amp;D alone&#39;](https://www.pcgamer.com/games/fps/ive-spent-my-entire-career-trying-to-recreate-the-feeling-i-had-when-i-played-d-and-d-for-the-first-time-says-immersive-sim-godfather-warren-spector-with-new-game-thick-as-thieves-going-multiplayer-because-you-dont-play-d-and-d-alone/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
