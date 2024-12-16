@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Enjoy A Rewards and Gift Filled Holiday Season This Month with EA Play](https://news.xbox.com/en-us/2024/12/16/ea-play-rewards-december-2024/)
- - [Netflix recently added the weirdest sitcom you’ve probably never seen](https://www.polygon.com/tv/493663/netflix-sitcom-ap-bio-community-if-you-like-weird)
- - [OpenAI claims Elon Musk &#39;demanded absolute control, and to be CEO&#39; while also agreeing to ditch its non-profit status back in 2017, despite him now suing it for turning decidedly for-profit](https://www.pcgamer.com/software/ai/openai-claims-elon-musk-demanded-absolute-control-and-to-be-ceo-while-also-agreeing-to-ditch-its-non-profit-status-back-in-2017-despite-him-now-suing-it-for-turning-decidedly-for-profit/)<!-- GAME:END -->
+ - [The Dune: Prophecy finale, Netflix’s Dragon Prince, and more new TV this week](https://www.polygon.com/tv/493123/new-tv-netflix-dune-prophecy-dragon-prince-lower-decks-finale-beast-games-watch-streaming)
+ - [Marvel Rivals&#39; New Winter Update Is Adding An Oops All Jeff Mode](https://kotaku.com/marvel-rivals-jeff-shark-free-skin-christmas-update-ps5-1851722111)
+ - [Black Myth: Wukong’s producer seems pissed he didn’t win Game of the Year](https://www.polygon.com/awards/497206/black-myth-wukong-goty-loss)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
