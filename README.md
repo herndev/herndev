@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Things you need to know when buying an ASUS ROG OLED gaming monitor](https://www.pcgamer.com/hardware/gaming-monitors/things-you-need-to-know-when-buying-an-asus-rog-oled-gaming-monitor/)
- - [Today&#39;s Wordle answer for Monday, December 16](https://www.pcgamer.com/games/puzzle/wordle-answer-today-december-16-2024/)
- - [Here&#39;s a mod that gives Skyrim Special Edition its own Witcher-style bestiary](https://www.pcgamer.com/games/rpg/heres-a-mod-that-gives-skyrim-special-edition-its-own-witcher-style-bestiary/)<!-- GAME:END -->
+ - [It&#39;s the end of an era: Crucial starts calling time on its popular SATA SSD, the MX500](https://www.pcgamer.com/hardware/ssds/its-the-end-of-an-era-crucial-starts-calling-time-on-its-popular-sata-ssd-the-mx500/)
+ - [Apple&#39;s infamous Magic Mouse is rumoured to be getting a redesign, hopefully moving that horrendous charging port](https://www.pcgamer.com/hardware/gaming-mice/apples-infamous-magic-mouse-is-rumoured-to-be-getting-a-redesign-hopefully-moving-that-horrendous-charging-port/)
+ - [Things you need to know when buying an ASUS ROG OLED gaming monitor](https://www.pcgamer.com/hardware/gaming-monitors/things-you-need-to-know-when-buying-an-asus-rog-oled-gaming-monitor/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
