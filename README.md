@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Snapchat is overhauling how influencers earn money on the platform](https://www.theverge.com/2024/12/16/24320402/snapchat-creator-monetization-program-stories-spotlight)
- - [How to remove your personal information from the internet with Incogni](https://appleinsider.com/articles/24/12/16/how-to-remove-your-personal-information-from-the-internet-with-incogni?utm_medium=rss)
- - [OnePlus Open 2 leak suggests OnePlus could fix all of Open’s shortcomings](https://www.androidauthority.com/oneplus-open-2-leak-wireless-charging-ipx8-3509239/)<!-- TECH:END -->
+ - [Google’s endless and superfluous Android UI tweaks are the bane of my tech life](https://www.androidauthority.com/google-interface-tweaks-3505379/)
+ - [T-Mobile and Starlink’s satellite messaging will enter beta soon. Here’s how to register!](https://www.androidauthority.com/t-mobile-satellite-messaging-registration-3509270/)
+ - [The best entertainment of 2024](https://www.theverge.com/entertainment/24090208/best-entertainment-2024-games-film-tv-streaming)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
