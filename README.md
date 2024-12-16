@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [From a boy to a man](http://9gag.com/gag/aGyzgEK)
- - ⏩ [Usually if the input was specific, the output was aswell. Not anymore.](http://9gag.com/gag/aO8QYEN)
- - 👉 [Class war not race war](http://9gag.com/gag/a9y1R5j)<!-- MEMES:END -->
+ - 💣 [I should join a dance class](http://9gag.com/gag/a2v1RLZ)
+ - ⏩ [Class war not race war](http://9gag.com/gag/a9y1R5j)
+ - 👉 [The surgery went well. I&#39;m back here with you beautiful racist misogynistic bastards. Doc said I have a long life ahead. Thank you for all the encouragements.](http://9gag.com/gag/aQzX338)<!-- MEMES:END -->
 
 ---
 
