@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I&#39;m cured, but I don&#39;t want to go home.](http://9gag.com/gag/avyAGMb)
- - ⏩ [Listen here you little shit.](http://9gag.com/gag/ae9ge2O)
- - 👉 [The winner of Miss France, and the second place. Can someone please explain?](http://9gag.com/gag/aE082wO)<!-- MEMES:END -->
+ - 💣 [Explain this, humankind](http://9gag.com/gag/a6Z1opq)
+ - ⏩ [The surgery went well. I&#39;m back here with you beautiful racist misogynistic bastards. Doc said I have a long life ahead. Thank you for all the encouragements.](http://9gag.com/gag/aQzX338)
+ - 👉 [Black people have an insane victim mentality.](http://9gag.com/gag/apRg229)<!-- MEMES:END -->
 
 ---
 
