@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A Christmas miracle: Apple could finally fix the Magic Mouse with new design](https://www.androidauthority.com/next-magic-mouse-not-have-bottom-port-3509142/)
- - [Chinese merchants are rapidly expanding their presence on Russian e-commerce platforms like Ozon Global and Wildberries to find new markets and avoid US tariffs &lpar;William Langley/Financial Times&rpar;](http://www.techmeme.com/241216/p3#a241216p3)
- - [How some companies are using AI agents: McKinsey for client onboarding, insurer Nsure to handle customer requests, and Accenture to support its marketing team &lpar;Jo Constantz/Bloomberg&rpar;](http://www.techmeme.com/241216/p2#a241216p2)<!-- TECH:END -->
+ - [Android and Apple users: Critical RCS messaging protection is still months away despite FBI warning](https://www.androidauthority.com/android-apple-rcs-end-to-end-encryption-status-3509171/)
+ - [Workers are adopting generative AI faster than companies can issue guidelines on how to do so; a survey says ~25% the US workforce already uses the tech weekly &lpar;Stephanie Stacey/Financial Times&rpar;](http://www.techmeme.com/241216/p4#a241216p4)
+ - [Homebuyers See Lower Mortgage Rates: Today&#39;s Mortgage Rates for Dec. 16, 2024](https://www.cnet.com/personal-finance/homebuyers-see-lower-mortgage-rates-todays-mortgage-rates-for-dec-16-2024/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
