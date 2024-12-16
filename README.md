@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [A real gamer](http://9gag.com/gag/aVvx31w)
- - ⏩ [This could have be any western country, if only](http://9gag.com/gag/aoygOwm)
- - 👉 [Still got more to lose &lpar;about another 20kg&rpar;, but this is a major goal achieved I never thought possible.](http://9gag.com/gag/aMV4AVM)<!-- MEMES:END -->
+ - 💣 [The show must go on](http://9gag.com/gag/axyB1yW)
+ - ⏩ [A real gamer](http://9gag.com/gag/aVvx31w)
+ - 👉 [Download wrong power ranger](http://9gag.com/gag/ayN9DeM)<!-- MEMES:END -->
 
 ---
 
