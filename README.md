@@ -40,7 +40,7 @@
 
 <!-- TECH:START -->
  - [TikTok critics like Marco Rubio and Brendan Carr are set to occupy senior roles in the Trump administration, highlighting Trump&#39;s murky stance about the app &lpar;Anna Edgerton/Bloomberg&rpar;](http://www.techmeme.com/241215/p16#a241215p16)
- - [Meta’s Instagram boss: who posted something matters more in the AI age](https://www.theverge.com/2024/12/15/24321880/instagram-threads-adam-mosseri-dont-trust-images-ai-generated-labeling-moderation)
+ - [Instagram’s head says social media needs more context because of AI](https://www.theverge.com/2024/12/15/24321880/instagram-threads-adam-mosseri-dont-trust-images-ai-generated-labeling-moderation)
  - [Best Gifts for Photographers in 2024](https://www.cnet.com/tech/computing/best-gifts-for-photographers/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
