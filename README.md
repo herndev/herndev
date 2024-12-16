@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [CD Projekt knows why we&#39;re all really here: Gwent is coming back in The Witcher 4, and the devs &#39;don&#39;t think anyone will be disappointed&#39;](https://www.pcgamer.com/games/the-witcher/cd-projekt-knows-why-were-all-really-here-gwent-is-coming-back-in-the-witcher-4-and-the-devs-dont-think-anyone-will-be-disappointed/)
- - [Black Myth: Wukong boss is bummed out about not winning Game of the Year at The Game Awards, but has high hopes for the future of the Chinese game industry](https://www.pcgamer.com/games/action/black-myth-wukong-boss-is-bummed-out-about-not-winning-game-of-the-year-at-the-game-awards-but-has-high-hopes-for-the-future-of-the-chinese-game-industry/)
- - [D&amp;#038;D&amp;#8217;s more attractive Swedish cousin inspired Helldivers 2](https://www.polygon.com/tabletop-games/497774/helldivers-2-inspired-by-dnd-dragonbane-free-league)<!-- GAME:END -->
+ - [Jeff Probst teams up with Exploding Kittens for Survivor card game](https://www.polygon.com/tabletop-games/497855/survivor-card-game-exploding-kittens-jeff-probst)
+ - [The best Marvel Rivals crosshair codes for a custom reticle](https://www.polygon.com/marvel-rivals-guide/497404/crosshair-codes-best-how-to-change-reticle)
+ - [18 Neat Games Releasing In December You Should Be Keeping Tabs On](https://kotaku.com/december-2024-game-release-dates-coming-out-ps5-switch-1851711663)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
