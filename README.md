@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [4 layers of bubble gum](http://9gag.com/gag/a2v144Z)
- - ⏩ [Listen here you little shit.](http://9gag.com/gag/ae9ge2O)
- - 👉 [The show must go on](http://9gag.com/gag/axyB1yW)<!-- MEMES:END -->
+ - 💣 [From a boy to a man](http://9gag.com/gag/aGyzgEK)
+ - ⏩ [That&#39;s wild!](http://9gag.com/gag/a4P1R7m)
+ - 👉 [Usually if the input was specific, the output was aswell. Not anymore.](http://9gag.com/gag/aO8QYEN)<!-- MEMES:END -->
 
 ---
 
