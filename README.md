@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [7 hardcore survival games that are great to play in peaceful mode](https://www.pcgamer.com/games/survival-crafting/great-peaceful-survival-games/)
- - [Last night&#39;s surprise Helldivers 2 update also added its first FOMO weapon: The stun baton is only in the rotating Superstore right now](https://www.pcgamer.com/games/third-person-shooter/last-nights-surprise-helldivers-2-update-also-added-its-first-fomo-weapon-the-stun-baton-is-only-in-the-rotating-superstore-right-now/)
- - [In what will surely come as no surprise at all, the end of Suicide Squad means layoffs at Warner Bros.](https://www.pcgamer.com/gaming-industry/in-what-will-surely-come-as-no-surprise-at-all-the-end-of-suicide-squad-means-layoffs-at-warner-bros/)<!-- GAME:END -->
+ - [Pilot a submarine, clean up evidence, swim for your lives in this latest blend of horror comedy and chaos co-op](https://www.pcgamer.com/games/horror/pilot-a-submarine-clean-up-evidence-swim-for-your-lives-in-this-latest-blend-of-horror-comedy-and-chaos-co-op/)
+ - [Ahead of its January launch, one of the best city builders around is getting a free demo that &#39;allows you to play endlessly&#39; with some of the new features coming next year](https://www.pcgamer.com/games/sim/ahead-of-its-january-launch-one-of-the-best-city-builders-around-is-getting-a-free-demo-that-allows-you-to-play-endlessly-with-some-of-the-new-features-coming-next-year/)
+ - [Idris Elba would love to do a live-action Cyberpunk movie with Keanu Reeves: &#39;Let&#39;s speak that into existence&#39;](https://www.pcgamer.com/games/rpg/idris-elba-would-love-to-do-a-live-action-cyberpunk-movie-with-keanu-reeves-lets-speak-that-into-existence/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
