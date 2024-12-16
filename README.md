@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Things you need to know when buying an ASUS ROG OLED gaming monitor](https://www.pcgamer.com/hardware/gaming-monitors/things-you-need-to-know-when-buying-an-asus-rog-oled-gaming-monitor/)
  - [Today&#39;s Wordle answer for Monday, December 16](https://www.pcgamer.com/games/puzzle/wordle-answer-today-december-16-2024/)
- - [Here&#39;s a mod that gives Skyrim Special Edition its own Witcher-style bestiary](https://www.pcgamer.com/games/rpg/heres-a-mod-that-gives-skyrim-special-edition-its-own-witcher-style-bestiary/)
- - [Is Dune: Prophecy gonna midi-chlorian us?](https://www.polygon.com/opinion/496634/dune-prophecy-finale-theories-season-1-desmond-hart)<!-- GAME:END -->
+ - [Here&#39;s a mod that gives Skyrim Special Edition its own Witcher-style bestiary](https://www.pcgamer.com/games/rpg/heres-a-mod-that-gives-skyrim-special-edition-its-own-witcher-style-bestiary/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
