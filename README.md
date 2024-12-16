@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Explain this, humankind](http://9gag.com/gag/a6Z1opq)
- - ⏩ [The surgery went well. I&#39;m back here with you beautiful racist misogynistic bastards. Doc said I have a long life ahead. Thank you for all the encouragements.](http://9gag.com/gag/aQzX338)
- - 👉 [Black people have an insane victim mentality.](http://9gag.com/gag/apRg229)<!-- MEMES:END -->
+ - 💣 [That moment when your dad is Thor](http://9gag.com/gag/a1m1bEv)
+ - ⏩ [I&#39;m cured, but I don&#39;t want to go home.](http://9gag.com/gag/avyAGMb)
+ - 👉 [I&#39;ve analyzed 9880 users who were active in the last few days and here is the graph of the amount of users REGISTERED by date. See something strange on 06.11.2024?](http://9gag.com/gag/aO8Qrm6)<!-- MEMES:END -->
 
 ---
 
