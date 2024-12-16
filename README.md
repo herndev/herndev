@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The show must go on](http://9gag.com/gag/axyB1yW)
- - ⏩ [A real gamer](http://9gag.com/gag/aVvx31w)
- - 👉 [Download wrong power ranger](http://9gag.com/gag/ayN9DeM)<!-- MEMES:END -->
+ - 💣 [Sewer explosion 4 hours ago in China](http://9gag.com/gag/aPAZBZR)
+ - ⏩ [Islamic mobs terrorize German women on Berlin subway. This is a huge problem.](http://9gag.com/gag/axyBVgn)
+ - 👉 [Listen here you little shit.](http://9gag.com/gag/ae9ge2O)<!-- MEMES:END -->
 
 ---
 
