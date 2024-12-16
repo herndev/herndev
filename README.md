@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Dune: Prophecy&#39;s Sister Francesca Is Stronger Than You Think](https://kotaku.com/dune-prophecy-sister-francesca-tabu-interview-news-1851721785)
- - [Turmoil Comes to Xbox: Here’s Five Smart Ways to Drill Down Deep](https://news.xbox.com/en-us/2024/12/16/turmoil-xbox-5-ways-to-drill/)
- - [I’m ready, I’m ready, I’m ready for SpongeBob SquarePants in Fortnite](https://www.polygon.com/news/497590/fortnite-spongebob-squarepants-collaboration-islands-nickelodeon)<!-- GAME:END -->
+ - [CD Projekt knows why we&#39;re all really here: Gwent is coming back in The Witcher 4, and the devs &#39;don&#39;t think anyone will be disappointed&#39;](https://www.pcgamer.com/games/the-witcher/cd-projekt-knows-why-were-all-really-here-gwent-is-coming-back-in-the-witcher-4-and-the-devs-dont-think-anyone-will-be-disappointed/)
+ - [Black Myth: Wukong boss is bummed out about not winning Game of the Year at The Game Awards, but has high hopes for the future of the Chinese game industry](https://www.pcgamer.com/games/action/black-myth-wukong-boss-is-bummed-out-about-not-winning-game-of-the-year-at-the-game-awards-but-has-high-hopes-for-the-future-of-the-chinese-game-industry/)
+ - [D&amp;#038;D&amp;#8217;s more attractive Swedish cousin inspired Helldivers 2](https://www.polygon.com/tabletop-games/497774/helldivers-2-inspired-by-dnd-dragonbane-free-league)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
