@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Q&amp;A with Arm CEO Rene Haas on AI&#39;s potential, working with Intel, TSMC, and Samsung, the Trump admin, China and IP licenses, the CHIPS Act, OpenAI, and more &lpar;Alex Heath/The Verge&rpar;](http://www.techmeme.com/241216/p15#a241216p15)
- - [As robotaxi companies stumble in the US, China’s fleet is growing](https://www.theverge.com/2024/12/16/24322395/us-vs-china-robotaxi-pony-ai-cruise-waymo-trump)
- - [Android Wrapped: The fun and cringe-worthy stats you might see](https://www.androidauthority.com/android-wrapped-3508847/)<!-- TECH:END -->
+ - [NFL Redzone brought the internet together to complain about ads](https://www.androidauthority.com/nfl-redzone-shows-ads-3509275/)
+ - [You can now buy this nostalgic Game Boy Advance clone](https://www.theverge.com/2024/12/16/24322504/anbernic-rg34xx-nintendo-game-boy-advance-gba-availability-pricing-emulator)
+ - [T-Mobile is looking for Starlink satellite-to-cell beta testers](https://www.theverge.com/2024/12/16/24322447/t-mobile-starlink-spacex-beta-registration-open)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
