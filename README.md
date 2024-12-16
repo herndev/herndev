@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [That moment when your dad is Thor](http://9gag.com/gag/a1m1bEv)
- - ⏩ [What a lovely daughter](http://9gag.com/gag/aNDP0Zv)
+ - 💣 [Lady has her ears cleaned after 16 years.](http://9gag.com/gag/avyA8Mq)
+ - ⏩ [I&#39;ve analyzed 9880 users who were active in the last few days and here is the graph of the amount of users REGISTERED by date. See something strange on 06.11.2024?](http://9gag.com/gag/aO8Qrm6)
  - 👉 [Listen here you little shit.](http://9gag.com/gag/ae9ge2O)<!-- MEMES:END -->
 
 ---
