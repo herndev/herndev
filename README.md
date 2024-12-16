@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The EU signs a deal to build the &amp;euro;10.6B Iris&amp;sup2; satellite internet network to rival Starlink, with 61% of the project funded publicly, starting operations in 2030 &lpar;Peggy Hollinger/Financial Times&rpar;](http://www.techmeme.com/241216/p9#a241216p9)
- - [Nintendo Switch 2 leak reveals all — including the name and logo](https://www.androidauthority.com/nintendo-switch-2-leak-logo-3509204/)
- - [The Top Cybersecurity Agency in the US Is Bracing for Donald Trump](https://www.wired.com/story/cisa-cuts-trump-2/)<!-- TECH:END -->
+ - [Sonos Sub 4 review: A minor update helps future proof the high-end subwoofer](https://appleinsider.com/articles/24/12/16/sonos-sub-4-review-a-minor-update-helps-future-proof-the-high-end-subwoofer?utm_medium=rss)
+ - [Google Drive rolls out improved document scanner on mobile](https://www.androidauthority.com/google-drive-improved-scanner-mobile-3509225/)
+ - [A profile of US ride-hailing startup Empower, which does 100K rides per week in DC despite refusing to register with the city&#39;s Department of For-Hire Vehicles &lpar;Eli Tan/New York Times&rpar;](http://www.techmeme.com/241216/p12#a241216p12)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
