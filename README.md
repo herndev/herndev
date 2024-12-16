@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [This Holiday, Xbox, The Coalition, Double Fine, Ninja Theory and More Support Mental Wellness](https://news.xbox.com/en-us/2024/12/16/xbox-mental-wellness-2024/)
- - [The best horror movies of the year, ranked by scariness](https://www.polygon.com/24090384/best-horror-movies-2024-how-scary)
- - [The best horror movies of the year, ranked by scariness](https://www.polygon.com/494407/best-horror-movies-2024-how-scary)<!-- GAME:END -->
+ - [Enjoy A Rewards and Gift Filled Holiday Season This Month with EA Play](https://news.xbox.com/en-us/2024/12/16/ea-play-rewards-december-2024/)
+ - [Netflix recently added the weirdest sitcom you’ve probably never seen](https://www.polygon.com/tv/493663/netflix-sitcom-ap-bio-community-if-you-like-weird)
+ - [OpenAI claims Elon Musk &#39;demanded absolute control, and to be CEO&#39; while also agreeing to ditch its non-profit status back in 2017, despite him now suing it for turning decidedly for-profit](https://www.pcgamer.com/software/ai/openai-claims-elon-musk-demanded-absolute-control-and-to-be-ceo-while-also-agreeing-to-ditch-its-non-profit-status-back-in-2017-despite-him-now-suing-it-for-turning-decidedly-for-profit/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
