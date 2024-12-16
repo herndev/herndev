@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [A real gamer](http://9gag.com/gag/aVvx31w)
- - ⏩ [The show must go on](http://9gag.com/gag/axyB1yW)
- - 👉 [Change my mind.](http://9gag.com/gag/awyzoK1)<!-- MEMES:END -->
+ - 💣 [Download wrong power ranger](http://9gag.com/gag/ayN9DeM)
+ - ⏩ [Opportunity only knocks once, grab it or you&#39;ll lose it](http://9gag.com/gag/aoygOA3)
+ - 👉 [The winner of Miss France, and the second place. Can someone please explain?](http://9gag.com/gag/aE082wO)<!-- MEMES:END -->
 
 ---
 
