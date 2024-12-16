@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Android and Apple users: Critical RCS messaging protection is still months away despite FBI warning](https://www.androidauthority.com/android-apple-rcs-end-to-end-encryption-status-3509171/)
- - [Workers are adopting generative AI faster than companies can issue guidelines on how to do so; a survey says ~25% the US workforce already uses the tech weekly &lpar;Stephanie Stacey/Financial Times&rpar;](http://www.techmeme.com/241216/p4#a241216p4)
- - [Homebuyers See Lower Mortgage Rates: Today&#39;s Mortgage Rates for Dec. 16, 2024](https://www.cnet.com/personal-finance/homebuyers-see-lower-mortgage-rates-todays-mortgage-rates-for-dec-16-2024/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sources: Revolut staff and early investors offloaded nearly $1B in stock in a secondary sale since August 2024, after the UK granted Revolut its banking license &lpar;Financial Times&rpar;](http://www.techmeme.com/241216/p6#a241216p6)
+ - [Breaking: One UI 7 beta 2 starts rolling out in select markets](https://www.androidauthority.com/samsung-one-ui-7-beta-2-rollout-3509206/)
+ - [Here’s how to bring back the hidden lock screen volume controls on iOS 18.2](https://www.androidauthority.com/enable-lock-screen-volume-controls-ios-18-2-3509174/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
