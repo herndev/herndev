@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Blackmagic’s Vision Pro immersive camera can be yours for only $29,995](https://www.theverge.com/2024/12/16/24322713/blackmagic-cine-immersive-camera-preorder-vision-pro-immersive-video)
- - [ByteDance asks SCOTUS to block the law that could ban TikTok on Jan. 19; Trump said today he has a &quot;warm spot&quot; in his heart for TikTok, when asked about the law &lpar;Lawrence Hurley/NBC News&rpar;](http://www.techmeme.com/241216/p25#a241216p25)
- - [Serbian authorities are reportedly hacking and installing spyware on activists’ phones](https://www.theverge.com/2024/12/16/24322640/serbian-police-novispy-android-spyware-amnesty-international-cellebrite)<!-- TECH:END -->
+ - [Google Whisk lets you fuse multiple images into something all new](https://www.androidauthority.com/google-labs-whisk-3509414/)
+ - [Narwal Freo X Plus deal: Save $60 and keep your floors squeaky clean](https://www.androidauthority.com/narwal-freo-x-plus-deal-3509441/)
+ - [Google Messages may soon let you explain why you want RCS spam to stop &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-messages-subscribe-unsubscribe-3509389/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
