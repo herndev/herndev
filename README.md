@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [From a boy to a man](http://9gag.com/gag/aGyzgEK)
- - ⏩ [That&#39;s wild!](http://9gag.com/gag/a4P1R7m)
- - 👉 [Usually if the input was specific, the output was aswell. Not anymore.](http://9gag.com/gag/aO8QYEN)<!-- MEMES:END -->
+ - 💣 [Listen here you little shit.](http://9gag.com/gag/ae9ge2O)
+ - ⏩ [Just seen this.. knew this belongs here](http://9gag.com/gag/aRBr3rA)
+ - 👉 [Doesn&#39;t look good for George](http://9gag.com/gag/amogBzj)<!-- MEMES:END -->
 
 ---
 
