@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [NFL Redzone brought the internet together to complain about ads](https://www.androidauthority.com/nfl-redzone-shows-ads-3509275/)
- - [You can now buy this nostalgic Game Boy Advance clone](https://www.theverge.com/2024/12/16/24322504/anbernic-rg34xx-nintendo-game-boy-advance-gba-availability-pricing-emulator)
- - [T-Mobile is looking for Starlink satellite-to-cell beta testers](https://www.theverge.com/2024/12/16/24322447/t-mobile-starlink-spacex-beta-registration-open)<!-- TECH:END -->
+ - [Instagram will let you recap 2024 with a collage for your story](https://www.theverge.com/2024/12/16/24322563/instagram-recap-2024-collage-story)
+ - [Apple Intelligence isn&#39;t hugely important, says an iPhone user survey done too early](https://appleinsider.com/articles/24/12/16/apple-intelligence-isnt-hugely-important-says-an-iphone-user-survey-done-too-early?utm_medium=rss)
+ - [Undisclosed HomeKit flaw used by Cellebrite to attack Serbian journalists](https://appleinsider.com/articles/24/12/16/undisclosed-homekit-flaw-used-by-cellebrite-to-attack-serbian-journalists?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
