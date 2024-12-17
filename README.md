@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Just seconds after this image was captured, SeaWorld trainer Dawn Brancheau was snatched into the jaws of the orca pictured here and \u2018ripped apart.\u2019 She was then thrashed about over the course of 45 minutes while the horrified crowd helplessly looked on.](http://9gag.com/gag/aRBr19M)
- - ⏩ [A woman in Italy freaks out in response to seeing a man and woman kiss in public](http://9gag.com/gag/abAgVev)
- - 👉 [When you thought the game was on easy mode](http://9gag.com/gag/a9y1EEm)<!-- MEMES:END -->
+ - 💣 [He looks familiar](http://9gag.com/gag/aoyg5R2)
+ - ⏩ [Just seconds after this image was captured, SeaWorld trainer Dawn Brancheau was snatched into the jaws of the orca pictured here and \u2018ripped apart.\u2019 She was then thrashed about over the course of 45 minutes while the horrified crowd helplessly looked on.](http://9gag.com/gag/aRBr19M)
+ - 👉 [How stupid are you?](http://9gag.com/gag/azxemDq)<!-- MEMES:END -->
 
 ---
 
