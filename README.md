@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Path of Exile 2’s last patch of the year makes its brutal difficulty significantly less frustrating](https://www.polygon.com/news/498491/path-exile-2-early-access-patch-notes-difficulty)
- - [MTG bans – and unbans – some extremely potent cards to end a rocky year](https://www.polygon.com/mtg-magic-the-gathering/498586/banned-and-restricted-one-ring-modern-horizons)
- - [All Indiana Jones and the Great Circle codes list for the Vatican, Gizeh, Himalayas, and Sukhothai](https://www.polygon.com/indiana-jones-great-circle-guide/494517/codes-all-safes-chest-list-combos)<!-- GAME:END -->
+ - [This fan favorite class is getting D&amp;#038;D 2024&amp;#8217;s first playtest](https://www.polygon.com/dnd-dungeons-dragons/498829/artificer-unearthed-arcana-2024)
+ - [Chess is now an esport as Esports World Cup adds the 1,500 year-old game to 2025 event, calls it &#39;the perfect example of how games evolve&#39;](https://www.pcgamer.com/games/chess-is-now-an-esport-as-esports-world-cup-adds-the-1-500-year-old-game-to-2025-event-calls-it-the-perfect-example-of-how-games-evolve/)
+ - [With equal parts confusion and shame, I regret to inform you that Skibidi Toilet is coming to Fortnite](https://www.pcgamer.com/games/battle-royale/with-equal-parts-confusion-and-shame-i-regret-to-inform-you-that-skibidi-toilet-is-coming-to-fortnite/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
