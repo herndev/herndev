@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Marvel Rivals Players Are Terrified Of Iron Fist](https://kotaku.com/marvel-rivals-iron-fist-counter-balance-changes-patch-1851723268)
- - [Exodus, the new game being led by BioWare veteran James Ohlen, finally reveals some gameplay, and boy it sure looks like Mass Effect](https://www.pcgamer.com/games/rpg/exodus-the-new-game-being-led-by-bioware-veteran-james-ohlen-finally-reveals-some-gameplay-and-boy-it-sure-looks-like-mass-effect/)
- - [GTA 6 was never going to be at The Game Awards, but it is a little surprising that we haven&#39;t seen another trailer yet](https://www.pcgamer.com/games/grand-theft-auto/gta-6-was-never-going-to-be-at-the-game-awards-but-it-is-a-little-surprising-that-we-havent-seen-another-trailer-yet/)<!-- GAME:END -->
+ - [Snufkin: Melody of Moominvalley – the Moomins Arrive on Xbox](https://news.xbox.com/en-us/2024/12/17/snufkin-melody-of-moominvalley-the-moomins-arrive-on-xbox/)
+ - [Best Master League teams to use in Pokémon Go](https://www.polygon.com/pokemon-go-guide/497479/master-league-best-team-meta)
+ - [Best team for the Holiday Cup: Little Edition in Pokémon Go](https://www.polygon.com/pokemon-go-guide/498584/holiday-cup-little-edition-best-team)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
