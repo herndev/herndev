@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Marvel Rivals is &#39;not considering&#39; a role queue, no matter how annoying it is to get rinsed on a team of 6 duelists](https://www.pcgamer.com/games/third-person-shooter/marvel-rivals-is-not-considering-a-role-queue-no-matter-how-annoying-it-is-to-get-rinsed-on-a-team-of-6-duelists/)
  - [How to use the Sacrificial Heart in Path of Exile 2](https://www.pcgamer.com/games/rpg/path-of-exile-2-sacrificial-heart/)
- - [Can Slugma be shiny in Pokémon Go?](https://www.polygon.com/pokemon-go-guide/497453/can-slugma-be-shiny-magcargo)
- - [Today&#39;s Wordle answer for Tuesday, December 17](https://www.pcgamer.com/games/puzzle/wordle-answer-today-december-17-2024/)<!-- GAME:END -->
+ - [Can Slugma be shiny in Pokémon Go?](https://www.polygon.com/pokemon-go-guide/497453/can-slugma-be-shiny-magcargo)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
