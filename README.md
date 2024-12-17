@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [OnePlus 13 series global launch: Mark your calendars for this date!](https://www.androidauthority.com/oneplus-13-series-global-launch-leak-3509562/)
- - [A Taiwanese official says the country is in talks with Amazon&#39;s Kuiper over satellite internet as its current OneWeb deal does not offer sufficient capacity &lpar;Kathrin Hille/Financial Times&rpar;](http://www.techmeme.com/241217/p12#a241217p12)
- - [Google Home tests access tiers for everyone in your smart home](https://www.theverge.com/2024/12/17/24323233/google-home-access-tiers-admin-member-smart-devices)<!-- TECH:END -->
+ - [macOS Sequoia 15.2 isn&#39;t allowing third-party utilities to make bootable backups](https://appleinsider.com/articles/24/12/17/macos-sequoia-152-isnt-allowing-third-party-utilities-to-make-bootable-backups?utm_medium=rss)
+ - [17 Best White Elephant Gifts &lpar;2024&rpar;: Legos, Desk Accessories](https://www.wired.com/gallery/best-white-elephant-gifts/)
+ - [Will the Fed&#39;s Interest Rate Cut Help Lower Mortgage Rates?](https://www.cnet.com/personal-finance/will-the-feds-interest-rate-cut-help-lower-mortgage-rates/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
