@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [OnePlus 13 series global launch: Mark your calendars for this date!](https://www.androidauthority.com/oneplus-13-series-global-launch-leak-3509562/)
  - [You can now try out the latest Gemini 2.0 Flash model on your phone](https://www.androidauthority.com/google-app-gemini-2-0-flash-model-switcher-3509527/)
- - [Logitech Promo Code: 15% Off in December 2024](https://www.wired.com/story/logitech-promo-code/)
- - [Nike Promo Code: Up to 50% Off Select Styles](https://www.wired.com/story/nike-promo-code/)<!-- TECH:END -->
+ - [Logitech Promo Code: 15% Off in December 2024](https://www.wired.com/story/logitech-promo-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
