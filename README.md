@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Secret Level’s Outer Worlds episode is missing a key part of the game](https://www.polygon.com/tv/493108/amazon-secret-level-outer-worlds-episode-game-comparison)
- - [Bluey fever to continue with a movie](https://www.polygon.com/movies/498058/bluey-movie-release-date-2027)
- - [All of today&#39;s mighty CPUs owe a debt of gratitude to the Intel 8080, which just turned 50](https://www.pcgamer.com/hardware/processors/all-of-todays-mighty-cpus-owe-a-debt-of-gratitude-to-the-intel-8080-which-just-turned-50/)<!-- GAME:END -->
+ - [The best sci-fi TV of the year](https://www.polygon.com/tv/474377/best-sci-fi-shows-2024)
+ - [Noctua NH-D15 G2 review](https://www.pcgamer.com/hardware/cooling/noctua-nh-d15-g2-review/)
+ - [Best Ranger starter build in Path of Exile 2](https://www.pcgamer.com/games/rpg/path-of-exile-2-ranger-build/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
