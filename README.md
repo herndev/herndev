@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Becareful when you boo a comedian...](http://9gag.com/gag/agmgXm1)
+ - 💣 [The surgery went well. I&#39;m back here with you beautiful racist misogynistic bastards. Doc said I have a long life ahead. Thank you for all the encouragements.](http://9gag.com/gag/aQzX338)
  - ⏩ [Wasted opportunity](http://9gag.com/gag/aPAZjDQ)
- - 👉 [Explain this, humankind](http://9gag.com/gag/a6Z1opq)<!-- MEMES:END -->
+ - 👉 [Class war not race war](http://9gag.com/gag/a9y1R5j)<!-- MEMES:END -->
 
 ---
 
