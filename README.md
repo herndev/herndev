@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Pune, India-based industrial AI startup Haber raised a $44M Series C, including $38M in equity and $6M in debt, led by Creaegis, BEENEXT, and Accel &lpar;FinSMEs&rpar;](http://www.techmeme.com/241216/p34#a241216p34)
- - [Best Internet Providers in Great Falls, Montana](https://www.cnet.com/home/internet/best-internet-providers-in-great-falls-mt/#ftag=CAD590a51e)
- - [Apple&#39;s M4 Pro 14-inch MacBook Pro has returned to its best $1,749 Black Friday price](https://appleinsider.com/articles/24/12/17/apples-m4-pro-14-inch-macbook-pro-has-returned-to-its-best-1749-black-friday-price?utm_medium=rss)<!-- TECH:END -->
+ - [How to enable parental controls on macOS Sequoia](https://appleinsider.com/articles/24/12/17/how-to-enable-parental-controls-on-macos-sequoia?utm_medium=rss)
+ - [Today&#39;s NYT Strands Hints, Answers and Help for Dec. 17, #289](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-dec-17-289/#ftag=CAD590a51e)
+ - [Today&#39;s Wordle Hints, Answer and Help for Dec. 17, #1277](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-dec-17-1277/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
