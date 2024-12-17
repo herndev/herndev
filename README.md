@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [SCOTUS rejected ISPs&#39; challenge to a NY law requiring ISPs to offer $15 or $20/mo. services to low-income customers, by refusing to revisit a lower court ruling &lpar;Jon Brodkin/Ars Technica&rpar;](http://www.techmeme.com/241217/p28#a241217p28)
- - [Goodbye, Hello Mobile: If you’re on the prepaid network, be prepared for a sudden plan change](https://www.androidauthority.com/hello-mobile-shutdown-3509724/)
- - [AMD may launch its most powerful integrated GPU ever — in a gaming tablet](https://www.theverge.com/2024/12/17/24323599/amd-strix-halo-ai-max-395-rog-flow-z13)<!-- TECH:END -->
+ - [Google Saved finally gets a feature it should’ve had a long time ago](https://www.androidauthority.com/google-saved-search-3509770/)
+ - [YouTube says that soon, its tech will be able to find AI copies of celebs and creators](https://www.theverge.com/2024/12/17/24323558/youtube-detect-remove-creators-ai-likeness)
+ - [Amid the AI boom, non-AI companies that raised a Series A 18 months ago are likely facing challenges in securing their Series B, even with decent revenue growth &lpar;Marina Temkin/TechCrunch&rpar;](http://www.techmeme.com/241217/p29#a241217p29)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
