@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Source: Trump meets with TikTok CEO Shou Zi Chew at Mar-a-Lago, the same day that the company asks the Supreme Court to block the law that could ban the app &lpar;NBC News&rpar;](http://www.techmeme.com/241216/p29#a241216p29)
- - [TikTok CEO meets with Trump as the platform tries to avoid a ban](https://www.theverge.com/2024/12/16/24322852/tiktok-ceo-trump-meeting-ban)
- - [Android 15 QPR2 Beta 2 is arriving today, loaded with bug fixes](https://www.androidauthority.com/android-15-qpr2-beta-launch-3509471/)<!-- TECH:END -->
+ - [Hot phone deals: Samsung Galaxy S24 Ultra and Google Pixel 9 series](https://www.androidauthority.com/samsung-galaxy-s24-ultra-pixel-9-pro-xl-deals-3509439/)
+ - [Gboard looks like it’s getting ready for Android XR &lpar;APK teardown&rpar;](https://www.androidauthority.com/gboard-android-xr-3509485/)
+ - [Mark Zuckerberg says Threads has more than 100 million daily active users](https://www.theverge.com/2024/12/16/24322947/mark-zuckerberg-meta-threads-100-million-daily-active-users)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
