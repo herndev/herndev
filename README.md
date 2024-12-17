@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Search could soon let you attach and ‘ask anything about a file’](https://www.androidauthority.com/google-search-attach-file-search-3509515/)
- - [Congo has filed criminal complaints against Apple subsidiaries in France and Belgium, accusing the tech firm of using conflict minerals in its supply chain &lpar;Sonia Rolley/Reuters&rpar;](http://www.techmeme.com/241217/p1#a241217p1)
- - [Here’s what satellite messaging could look like in Google Messages](https://www.androidauthority.com/google-messages-satellite-messaging-options-3509508/)<!-- TECH:END -->
+ - [You can now try out the latest Gemini 2.0 Flash model on your phone](https://www.androidauthority.com/google-app-gemini-2-0-flash-model-switcher-3509527/)
+ - [Logitech Promo Code: 15% Off in December 2024](https://www.wired.com/story/logitech-promo-code/)
+ - [Nike Promo Code: Up to 50% Off Select Styles](https://www.wired.com/story/nike-promo-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
