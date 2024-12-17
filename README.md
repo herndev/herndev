@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [From a boy to a man](http://9gag.com/gag/aGyzgEK)
- - ⏩ [Class war not race war](http://9gag.com/gag/a9y1R5j)
- - 👉 [They understand it](http://9gag.com/gag/a1m1Q7v)<!-- MEMES:END -->
+ - 💣 [Vintage Overcoat](http://9gag.com/gag/aO8Q072)
+ - ⏩ [This Dad surprises daughter with gift of a lifetime](http://9gag.com/gag/a341E77)
+ - 👉 [Not mine, but fits my meme CATegory, so it&#39;s fine](http://9gag.com/gag/aRBr1eM)<!-- MEMES:END -->
 
 ---
 
