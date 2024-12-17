@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Pokémon Go ‘Holiday Part 1’ 2024 event guide](https://www.polygon.com/pokemon-go-guide/497604/holiday-part-1-2024-dedenne-timed-research)
- - [The Nintendo Switch eShop Is A Bigger Slop Factory Than Ever](https://kotaku.com/nintendo-eshop-switch-slop-clones-unpacking-scam-ai-art-1851722248)
- - [Marvel Rivals Still Doesn&#39;t Have Cross-Progression But The Devs Are Working On It](https://kotaku.com/marvel-rivals-cross-progression-roadmap-season-1-1851723021)<!-- GAME:END -->
+ - [Managing Your Pirate Crew in Flint: Treasure of Oblivion](https://news.xbox.com/en-us/2024/12/17/flint-treasure-of-oblivion-pirate-crew/)
+ - [All new Mythical Island cards in Pokémon TCG Pocket](https://www.polygon.com/pokemon-tcg-pocket-guides/498098/mythical-island-new-cards-list-all)
+ - [Here Are The Games Kids Are Actually Playing In 2024](https://kotaku.com/most-popular-downloaded-iphone-ipad-games-2024-roblox-1851723152)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
