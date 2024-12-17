@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [OnePlus 13 series global launch: Mark your calendars for this date!](https://www.androidauthority.com/oneplus-13-series-global-launch-leak-3509562/)
- - [You can now try out the latest Gemini 2.0 Flash model on your phone](https://www.androidauthority.com/google-app-gemini-2-0-flash-model-switcher-3509527/)
- - [Logitech Promo Code: 15% Off in December 2024](https://www.wired.com/story/logitech-promo-code/)<!-- TECH:END -->
+ - [Beijing-based AI startup Zhipu, which aims to make services tailored to the China market, raised $412M, after raising $400M at a ~$3B valuation in May 2024 &lpar;Bloomberg&rpar;](http://www.techmeme.com/241217/p2#a241217p2)
+ - [Europe’s Starlink competitor is go](https://www.theverge.com/2024/12/16/24322358/iris2-starlink-rival-europe-date-cost)
+ - [Google Home now lets you give your family and friends just the right amount of access](https://www.androidauthority.com/google-home-member-access-rollout-3509554/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
