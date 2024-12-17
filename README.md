@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Becareful when you boo a comedian...](http://9gag.com/gag/agmgXm1)
- - ⏩ [What a lovely daughter](http://9gag.com/gag/aNDP0Zv)
- - 👉 [Sometimes it\u2019s ok to break society\u2019s rules](http://9gag.com/gag/aZZr7Qp)<!-- MEMES:END -->
+ - 💣 [From a boy to a man](http://9gag.com/gag/aGyzgEK)
+ - ⏩ [Class war not race war](http://9gag.com/gag/a9y1R5j)
+ - 👉 [Explain this, humankind](http://9gag.com/gag/a6Z1opq)<!-- MEMES:END -->
 
 ---
 
