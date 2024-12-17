@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Marvel Rivals is &#39;not considering&#39; a role queue, no matter how annoying it is to get rinsed on a team of 6 duelists](https://www.pcgamer.com/games/third-person-shooter/marvel-rivals-is-not-considering-a-role-queue-no-matter-how-annoying-it-is-to-get-rinsed-on-a-team-of-6-duelists/)
- - [How to use the Sacrificial Heart in Path of Exile 2](https://www.pcgamer.com/games/rpg/path-of-exile-2-sacrificial-heart/)
- - [Can Slugma be shiny in Pokémon Go?](https://www.polygon.com/pokemon-go-guide/497453/can-slugma-be-shiny-magcargo)<!-- GAME:END -->
+ - [PS Blog Game of the Year 2024: The Winners](https://blog.playstation.com/2024/12/17/ps-blog-game-of-the-year-2024-the-winners/)
+ - [Path of Exile 2 passive skill respecs will no longer cost Scrooge McDuck levels of gold](https://www.pcgamer.com/games/rpg/path-of-exile-2-passive-skill-respecs-will-no-longer-cost-scrooge-mcduck-levels-of-gold/)
+ - [Tiny Glade&#39;s winter update finally lets me turn my castles into that scene from National Lampoon&#39;s Christmas Vacation](https://www.pcgamer.com/games/city-builder/tiny-glades-winter-update-finally-lets-me-turn-my-castles-into-that-scene-from-national-lampoons-christmas-vacation/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
