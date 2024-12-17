@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to enable parental controls on macOS Sequoia](https://appleinsider.com/articles/24/12/17/how-to-enable-parental-controls-on-macos-sequoia?utm_medium=rss)
- - [Today&#39;s NYT Strands Hints, Answers and Help for Dec. 17, #289](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-dec-17-289/#ftag=CAD590a51e)
- - [Today&#39;s Wordle Hints, Answer and Help for Dec. 17, #1277](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-dec-17-1277/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Congo has filed criminal complaints against Apple subsidiaries in France and Belgium, accusing the tech firm of using conflict minerals in its supply chain &lpar;Sonia Rolley/Reuters&rpar;](http://www.techmeme.com/241217/p1#a241217p1)
+ - [Here’s what satellite messaging could look like in Google Messages](https://www.androidauthority.com/google-messages-satellite-messaging-options-3509508/)
+ - [How to enable parental controls on macOS Sequoia](https://appleinsider.com/articles/24/12/17/how-to-enable-parental-controls-on-macos-sequoia?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
