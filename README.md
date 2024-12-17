@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [He looks familiar](http://9gag.com/gag/aoyg5R2)
- - ⏩ [I, for one, like Roman numerals](http://9gag.com/gag/agmgBM1)
- - 👉 [Yeah](http://9gag.com/gag/aXProP2)<!-- MEMES:END -->
+ - 💣 [The female schoolshooter shared a link to a private manifesto no one can read, before she started blasting.](http://9gag.com/gag/aXProxz)
+ - ⏩ [So the latest school shooter is a 17 year old girl. Statistically it was bound to happen eventually.](http://9gag.com/gag/ajPgmgq)
+ - 👉 [The 1%: The Beginnings](http://9gag.com/gag/adBgVWV)<!-- MEMES:END -->
 
 ---
 
