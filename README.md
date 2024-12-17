@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Managing Your Pirate Crew in Flint: Treasure of Oblivion](https://news.xbox.com/en-us/2024/12/17/flint-treasure-of-oblivion-pirate-crew/)
- - [All new Mythical Island cards in Pokémon TCG Pocket](https://www.polygon.com/pokemon-tcg-pocket-guides/498098/mythical-island-new-cards-list-all)
- - [Here Are The Games Kids Are Actually Playing In 2024](https://kotaku.com/most-popular-downloaded-iphone-ipad-games-2024-roblox-1851723152)<!-- GAME:END -->
+ - [Marvel Rivals Players Are Terrified Of Iron Fist](https://kotaku.com/marvel-rivals-iron-fist-counter-balance-changes-patch-1851723268)
+ - [Exodus, the new game being led by BioWare veteran James Ohlen, finally reveals some gameplay, and boy it sure looks like Mass Effect](https://www.pcgamer.com/games/rpg/exodus-the-new-game-being-led-by-bioware-veteran-james-ohlen-finally-reveals-some-gameplay-and-boy-it-sure-looks-like-mass-effect/)
+ - [GTA 6 was never going to be at The Game Awards, but it is a little surprising that we haven&#39;t seen another trailer yet](https://www.pcgamer.com/games/grand-theft-auto/gta-6-was-never-going-to-be-at-the-game-awards-but-it-is-a-little-surprising-that-we-havent-seen-another-trailer-yet/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
