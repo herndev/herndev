@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Beijing-based AI startup Zhipu, which aims to make services tailored to the China market, raised $412M, after raising $400M at a ~$3B valuation in May 2024 &lpar;Bloomberg&rpar;](http://www.techmeme.com/241217/p2#a241217p2)
- - [Europe’s Starlink competitor is go](https://www.theverge.com/2024/12/16/24322358/iris2-starlink-rival-europe-date-cost)
- - [Google Home now lets you give your family and friends just the right amount of access](https://www.androidauthority.com/google-home-member-access-rollout-3509554/)<!-- TECH:END -->
+ - [Framework releases a $39 modular component to add two extra M.2 slots to the Laptop 16, letting users have 26TB+ of storage, and updates the Laptop 16&#39;s cooling &lpar;Sean Hollister/The Verge&rpar;](http://www.techmeme.com/241217/p4#a241217p4)
+ - [Turkish startup Agave Games, developer of Find the Cat, which has 10M+ downloads since its August 2024 release, raised an $18M Series A at a $100M valuation &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/241217/p3#a241217p3)
+ - [Taxes Are Due by April 15, Unless You Live in One of These States](https://www.cnet.com/personal-finance/taxes/taxes-are-due-by-april-15-unless-you-live-in-one-of-these-states/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
