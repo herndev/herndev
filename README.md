@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle answer for Tuesday, December 17](https://www.pcgamer.com/games/puzzle/wordle-answer-today-december-17-2024/)
  - [Borderlands 4 will cut back on &#39;toilet humor,&#39; says Gearbox: &#39;If the word skibidi ships in the game under my watch I&#39;m gonna cry real tears&#39;](https://www.pcgamer.com/games/fps/borderlands-4-will-cut-back-on-toilet-humor-says-gearbox-if-the-word-skibidi-ships-in-the-game-under-my-watch-im-gonna-cry-real-tears/)
- - [Borderlands 4: Everything we know about Gearbox&#39;s next big FPS](https://www.pcgamer.com/games/fps/borderlands-4-release-date-trailers/)
- - [Jeff Probst teams up with Exploding Kittens for Survivor card game](https://www.polygon.com/tabletop-games/497855/survivor-card-game-exploding-kittens-jeff-probst)<!-- GAME:END -->
+ - [Borderlands 4: Everything we know about Gearbox&#39;s next big FPS](https://www.pcgamer.com/games/fps/borderlands-4-release-date-trailers/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
