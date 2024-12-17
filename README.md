@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [PS Blog Game of the Year 2024: The Winners](https://blog.playstation.com/2024/12/17/ps-blog-game-of-the-year-2024-the-winners/)
- - [Path of Exile 2 passive skill respecs will no longer cost Scrooge McDuck levels of gold](https://www.pcgamer.com/games/rpg/path-of-exile-2-passive-skill-respecs-will-no-longer-cost-scrooge-mcduck-levels-of-gold/)
- - [Tiny Glade&#39;s winter update finally lets me turn my castles into that scene from National Lampoon&#39;s Christmas Vacation](https://www.pcgamer.com/games/city-builder/tiny-glades-winter-update-finally-lets-me-turn-my-castles-into-that-scene-from-national-lampoons-christmas-vacation/)<!-- GAME:END -->
+ - [Secret Level’s Outer Worlds episode is missing a key part of the game](https://www.polygon.com/tv/493108/amazon-secret-level-outer-worlds-episode-game-comparison)
+ - [Bluey fever to continue with a movie](https://www.polygon.com/movies/498058/bluey-movie-release-date-2027)
+ - [All of today&#39;s mighty CPUs owe a debt of gratitude to the Intel 8080, which just turned 50](https://www.pcgamer.com/hardware/processors/all-of-todays-mighty-cpus-owe-a-debt-of-gratitude-to-the-intel-8080-which-just-turned-50/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
