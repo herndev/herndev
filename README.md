@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Framework releases a $39 modular component to add two extra M.2 slots to the Laptop 16, letting users have 26TB+ of storage, and updates the Laptop 16&#39;s cooling &lpar;Sean Hollister/The Verge&rpar;](http://www.techmeme.com/241217/p4#a241217p4)
- - [Turkish startup Agave Games, developer of Find the Cat, which has 10M+ downloads since its August 2024 release, raised an $18M Series A at a $100M valuation &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/241217/p3#a241217p3)
- - [Taxes Are Due by April 15, Unless You Live in One of These States](https://www.cnet.com/personal-finance/taxes/taxes-are-due-by-april-15-unless-you-live-in-one-of-these-states/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Alibaba agrees to sell its Intime department store business, part of a plan to unify online and offline retailing in 2017, for ~$1B, taking a record $1.3B loss &lpar;Bloomberg&rpar;](http://www.techmeme.com/241217/p8#a241217p8)
+ - [The European Commission opens a formal DSA investigation into TikTok over concerns foreign actors used it to interfere in the Romanian presidential elections &lpar;Edith Hancock/Wall Street Journal&rpar;](http://www.techmeme.com/241217/p7#a241217p7)
+ - [Far-Right Sheriffs Want to Carry Out Donald Trump&#39;s Mass Deportations. That’s Not Possible](https://www.wired.com/story/far-right-sheriffs-donald-trump-mass-deportations-constitutional/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
