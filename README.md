@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [After i got divorced i quit alcohol, i quit smoking, i started to go to the gym, i met new friends. I thought i cannot do this without her but i am feeling better now.](http://9gag.com/gag/an7g5o0)
- - ⏩ [Goth Christmas](http://9gag.com/gag/a4P1Qmp)
- - 👉 [Black people have an insane victim mentality.](http://9gag.com/gag/apRg229)<!-- MEMES:END -->
+ - 💣 [Explain this, humankind](http://9gag.com/gag/a6Z1opq)
+ - ⏩ [Black people have an insane victim mentality.](http://9gag.com/gag/apRg229)
+ - 👉 [A real gamer](http://9gag.com/gag/aVvx31w)<!-- MEMES:END -->
 
 ---
 
