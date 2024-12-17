@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Alibaba agrees to sell its Intime department store business, part of a plan to unify online and offline retailing in 2017, for ~$1B, taking a record $1.3B loss &lpar;Bloomberg&rpar;](http://www.techmeme.com/241217/p8#a241217p8)
- - [The European Commission opens a formal DSA investigation into TikTok over concerns foreign actors used it to interfere in the Romanian presidential elections &lpar;Edith Hancock/Wall Street Journal&rpar;](http://www.techmeme.com/241217/p7#a241217p7)
- - [Far-Right Sheriffs Want to Carry Out Donald Trump&#39;s Mass Deportations. That’s Not Possible](https://www.wired.com/story/far-right-sheriffs-donald-trump-mass-deportations-constitutional/)<!-- TECH:END -->
+ - [OnePlus 13 series global launch: Mark your calendars for this date!](https://www.androidauthority.com/oneplus-13-series-global-launch-leak-3509562/)
+ - [A Taiwanese official says the country is in talks with Amazon&#39;s Kuiper over satellite internet as its current OneWeb deal does not offer sufficient capacity &lpar;Kathrin Hille/Financial Times&rpar;](http://www.techmeme.com/241217/p12#a241217p12)
+ - [Google Home tests access tiers for everyone in your smart home](https://www.theverge.com/2024/12/17/24323233/google-home-access-tiers-admin-member-smart-devices)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
