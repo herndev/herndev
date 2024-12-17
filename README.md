@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A Third Person Has Received a Transplant of a Genetically Engineered Pig Kidney](https://www.wired.com/story/a-third-person-has-received-a-transplant-of-a-genetically-engineered-pig-kidney/)
- - [No, iOS Photos isn&#39;t telling you who last looked at your messages](https://appleinsider.com/articles/24/12/17/no-ios-photos-isnt-telling-you-who-last-looked-at-your-messages?utm_medium=rss)
- - [Trump Will Reportedly Block the US Government and Military From Buying EVs](https://www.wired.com/story/trump-to-block-the-government-and-military-from-buying-evs/)<!-- TECH:END -->
+ - [A New Social is a new non-profit that wants to help bridge platforms](https://www.theverge.com/2024/12/17/24322908/a-new-social-non-profit-bridge-platforms)
+ - [The FTC is officially banning hidden junk fees from hotel and ticket prices](https://www.theverge.com/2024/12/17/24323274/ftc-hidden-junk-fees-ban-hotel-ticket-prices)
+ - [Galaxy S25 Plus leaked hands-on images show off design details](https://www.androidauthority.com/samsung-galaxy-s25-plus-leaked-hands-on-images-3509638/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
