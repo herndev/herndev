@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Class war not race war](http://9gag.com/gag/a9y1R5j)
- - ⏩ [From a boy to a man](http://9gag.com/gag/aGyzgEK)
- - 👉 [Cat.. Wtf..???](http://9gag.com/gag/a8715N3)<!-- MEMES:END -->
+ - 💣 [From a boy to a man](http://9gag.com/gag/aGyzgEK)
+ - ⏩ [Class war not race war](http://9gag.com/gag/a9y1R5j)
+ - 👉 [They understand it](http://9gag.com/gag/a1m1Q7v)<!-- MEMES:END -->
 
 ---
 
