@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Snufkin: Melody of Moominvalley – the Moomins Arrive on Xbox](https://news.xbox.com/en-us/2024/12/17/snufkin-melody-of-moominvalley-the-moomins-arrive-on-xbox/)
- - [Best Master League teams to use in Pokémon Go](https://www.polygon.com/pokemon-go-guide/497479/master-league-best-team-meta)
- - [Best team for the Holiday Cup: Little Edition in Pokémon Go](https://www.polygon.com/pokemon-go-guide/498584/holiday-cup-little-edition-best-team)<!-- GAME:END -->
+ - [Path of Exile 2’s last patch of the year makes its brutal difficulty significantly less frustrating](https://www.polygon.com/news/498491/path-exile-2-early-access-patch-notes-difficulty)
+ - [MTG bans – and unbans – some extremely potent cards to end a rocky year](https://www.polygon.com/mtg-magic-the-gathering/498586/banned-and-restricted-one-ring-modern-horizons)
+ - [All Indiana Jones and the Great Circle codes list for the Vatican, Gizeh, Himalayas, and Sukhothai](https://www.polygon.com/indiana-jones-great-circle-guide/494517/codes-all-safes-chest-list-combos)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
