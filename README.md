@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How Apple Watch will bring healther nights to Brazil with sleep apnea detection](https://appleinsider.com/articles/24/12/17/how-apple-watch-will-bring-healther-nights-to-brazil-with-sleep-apnea-detection?utm_medium=rss)
- - [Some tech leaders say they&#39;re optimistic that Trump will increase visas to highly skilled foreign workers, despite Trump curbing such programs in his first term &lpar;New York Times&rpar;](http://www.techmeme.com/241217/p22#a241217p22)
- - [Google launches Gemini Code Assist tools that lets the AI code completion product access real-time data and information from outside apps &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/241217/p21#a241217p21)<!-- TECH:END -->
+ - [17 Best Air Purifiers &lpar;2024&rpar;: Coway, AirDoctor, IQAir](https://www.wired.com/gallery/best-air-purifiers/)
+ - [iRobot’s founder is working on a new kind of home robot](https://www.theverge.com/2024/12/17/24323439/irobot-founder-home-robot-familiar-machines-magic)
+ - [Parafin, a startup run by ex-Robinhood staff offering spend management and savings tools as well as loan products, raised a $100 Series C at a $750M valuation &lpar;Emily Mason/Bloomberg&rpar;](http://www.techmeme.com/241217/p25#a241217p25)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
