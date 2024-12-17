@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I should join a dance class](http://9gag.com/gag/a2v1RLZ)
- - ⏩ [Class war not race war](http://9gag.com/gag/a9y1R5j)
- - 👉 [The surgery went well. I&#39;m back here with you beautiful racist misogynistic bastards. Doc said I have a long life ahead. Thank you for all the encouragements.](http://9gag.com/gag/aQzX338)<!-- MEMES:END -->
+ - 💣 [A real gamer](http://9gag.com/gag/aVvx31w)
+ - ⏩ [Black people have an insane victim mentality.](http://9gag.com/gag/apRg229)
+ - 👉 [Change my mind.](http://9gag.com/gag/awyzoK1)<!-- MEMES:END -->
 
 ---
 
