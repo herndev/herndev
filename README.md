@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The definition of we are one](http://9gag.com/gag/a4P1RrZ)
- - ⏩ [Security dragging Travis Scott out of his own concert.](http://9gag.com/gag/a0eZQ1O)
- - 👉 [Sometimes it\u2019s ok to break society\u2019s rules](http://9gag.com/gag/aZZr7Qp)<!-- MEMES:END -->
+ - 💣 [Class war not race war](http://9gag.com/gag/a9y1R5j)
+ - ⏩ [From a boy to a man](http://9gag.com/gag/aGyzgEK)
+ - 👉 [Cat.. Wtf..???](http://9gag.com/gag/a8715N3)<!-- MEMES:END -->
 
 ---
 
