@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The best sci-fi TV of the year](https://www.polygon.com/tv/474377/best-sci-fi-shows-2024)
- - [Noctua NH-D15 G2 review](https://www.pcgamer.com/hardware/cooling/noctua-nh-d15-g2-review/)
- - [Best Ranger starter build in Path of Exile 2](https://www.pcgamer.com/games/rpg/path-of-exile-2-ranger-build/)<!-- GAME:END -->
+ - [Marvel Rivals is getting its first seasonal event soon, which&#39;ll let you run around as everyone&#39;s favourite land shark to play some legally-distinct Splatoon](https://www.pcgamer.com/games/third-person-shooter/marvel-rivals-is-getting-its-first-seasonal-event-soon-whichll-let-you-run-around-as-everyones-favourite-land-shark-to-play-some-legally-distinct-splatoon/)
+ - [Putty, not pads: Thermal Grizzly&#39;s new thermal materials might be the best thing for your graphics card just don&#39;t ask for any numbers](https://www.pcgamer.com/hardware/graphics-cards/putty-not-pads-thermal-grizzlys-new-thermal-materials-might-be-the-best-thing-for-your-graphics-card-just-dont-ask-for-any-numbers/)
+ - [Pokémon TCG Pocket Just Changed Everything With New Mew Set](https://kotaku.com/pokemon-tcg-pocket-mythical-island-new-set-1851722801)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
