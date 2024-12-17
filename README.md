@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [17 Best Air Purifiers &lpar;2024&rpar;: Coway, AirDoctor, IQAir](https://www.wired.com/gallery/best-air-purifiers/)
- - [iRobot’s founder is working on a new kind of home robot](https://www.theverge.com/2024/12/17/24323439/irobot-founder-home-robot-familiar-machines-magic)
- - [Parafin, a startup run by ex-Robinhood staff offering spend management and savings tools as well as loan products, raised a $100 Series C at a $750M valuation &lpar;Emily Mason/Bloomberg&rpar;](http://www.techmeme.com/241217/p25#a241217p25)<!-- TECH:END -->
+ - [SCOTUS rejected ISPs&#39; challenge to a NY law requiring ISPs to offer $15 or $20/mo. services to low-income customers, by refusing to revisit a lower court ruling &lpar;Jon Brodkin/Ars Technica&rpar;](http://www.techmeme.com/241217/p28#a241217p28)
+ - [Goodbye, Hello Mobile: If you’re on the prepaid network, be prepared for a sudden plan change](https://www.androidauthority.com/hello-mobile-shutdown-3509724/)
+ - [AMD may launch its most powerful integrated GPU ever — in a gaming tablet](https://www.theverge.com/2024/12/17/24323599/amd-strix-halo-ai-max-395-rog-flow-z13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
