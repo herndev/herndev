@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Grammarly buys productivity startup Coda, set to close in January, and names Coda co-founder and CEO Shishir Mehrotra as CEO; Coda had a $1.4B valuation in 2021 &lpar;Paayal Zaveri/Bloomberg&rpar;](http://www.techmeme.com/241217/p19#a241217p19)
- - [Android prepares new options for customizing your lock screen clock](https://www.androidauthority.com/android-lock-screen-clock-customization-3508394/)
- - [Intel Officials Warned Police That US Cities Aren’t Ready for Hostile Drones](https://www.wired.com/story/intel-officials-police-us-cities-drones-dhs/)<!-- TECH:END -->
+ - [How Apple Watch will bring healther nights to Brazil with sleep apnea detection](https://appleinsider.com/articles/24/12/17/how-apple-watch-will-bring-healther-nights-to-brazil-with-sleep-apnea-detection?utm_medium=rss)
+ - [Some tech leaders say they&#39;re optimistic that Trump will increase visas to highly skilled foreign workers, despite Trump curbing such programs in his first term &lpar;New York Times&rpar;](http://www.techmeme.com/241217/p22#a241217p22)
+ - [Google launches Gemini Code Assist tools that lets the AI code completion product access real-time data and information from outside apps &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/241217/p21#a241217p21)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
