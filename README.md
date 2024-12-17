@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Philosophy and Duality: Examining the Inspirations Behind the Upcoming Action RPG, Empyreal](https://news.xbox.com/en-us/2024/12/17/philosophy-and-duality-examining-the-inspirations-behind-the-upcoming-action-rpg-empyreal/)
- - [&#39;Fight me&#39;: Ben Starr humorously responds to disappointment about Clive Rosfield in Tekken 8 by showing off his cosplay of the Final Fantasy character everyone thought it would be](https://www.pcgamer.com/games/fighting/fight-me-ben-starr-humorously-responds-to-disappointment-about-clive-rosfield-in-tekken-8-by-showing-off-his-cosplay-of-the-final-fantasy-character-everyone-thought-it-would-be/)
- - [Final Fantasy 14&#39;s battle design lead says it would &#39;be a dream come true&#39; to do a League of Legends crossover](https://www.pcgamer.com/games/final-fantasy/final-fantasy-14s-battle-design-lead-says-it-would-be-a-dream-come-true-to-do-a-league-of-legends-crossover/)<!-- GAME:END -->
+ - [Pokémon Go ‘Holiday Part 1’ 2024 event guide](https://www.polygon.com/pokemon-go-guide/497604/holiday-part-1-2024-dedenne-timed-research)
+ - [The Nintendo Switch eShop Is A Bigger Slop Factory Than Ever](https://kotaku.com/nintendo-eshop-switch-slop-clones-unpacking-scam-ai-art-1851722248)
+ - [Marvel Rivals Still Doesn&#39;t Have Cross-Progression But The Devs Are Working On It](https://kotaku.com/marvel-rivals-cross-progression-roadmap-season-1-1851723021)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
