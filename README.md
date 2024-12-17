@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [macOS Sequoia 15.2 isn&#39;t allowing third-party utilities to make bootable backups](https://appleinsider.com/articles/24/12/17/macos-sequoia-152-isnt-allowing-third-party-utilities-to-make-bootable-backups?utm_medium=rss)
- - [17 Best White Elephant Gifts &lpar;2024&rpar;: Legos, Desk Accessories](https://www.wired.com/gallery/best-white-elephant-gifts/)
- - [Will the Fed&#39;s Interest Rate Cut Help Lower Mortgage Rates?](https://www.cnet.com/personal-finance/will-the-feds-interest-rate-cut-help-lower-mortgage-rates/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [A Third Person Has Received a Transplant of a Genetically Engineered Pig Kidney](https://www.wired.com/story/a-third-person-has-received-a-transplant-of-a-genetically-engineered-pig-kidney/)
+ - [No, iOS Photos isn&#39;t telling you who last looked at your messages](https://appleinsider.com/articles/24/12/17/no-ios-photos-isnt-telling-you-who-last-looked-at-your-messages?utm_medium=rss)
+ - [Trump Will Reportedly Block the US Government and Military From Buying EVs](https://www.wired.com/story/trump-to-block-the-government-and-military-from-buying-evs/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
