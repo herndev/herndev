@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A New Social is a new non-profit that wants to help bridge platforms](https://www.theverge.com/2024/12/17/24322908/a-new-social-non-profit-bridge-platforms)
- - [The FTC is officially banning hidden junk fees from hotel and ticket prices](https://www.theverge.com/2024/12/17/24323274/ftc-hidden-junk-fees-ban-hotel-ticket-prices)
- - [Galaxy S25 Plus leaked hands-on images show off design details](https://www.androidauthority.com/samsung-galaxy-s25-plus-leaked-hands-on-images-3509638/)<!-- TECH:END -->
+ - [Grammarly buys productivity startup Coda, set to close in January, and names Coda co-founder and CEO Shishir Mehrotra as CEO; Coda had a $1.4B valuation in 2021 &lpar;Paayal Zaveri/Bloomberg&rpar;](http://www.techmeme.com/241217/p19#a241217p19)
+ - [Android prepares new options for customizing your lock screen clock](https://www.androidauthority.com/android-lock-screen-clock-customization-3508394/)
+ - [Intel Officials Warned Police That US Cities Aren’t Ready for Hostile Drones](https://www.wired.com/story/intel-officials-police-us-cities-drones-dhs/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
