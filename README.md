@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Vintage Overcoat](http://9gag.com/gag/aO8Q072)
- - ⏩ [This Dad surprises daughter with gift of a lifetime](http://9gag.com/gag/a341E77)
- - 👉 [Not mine, but fits my meme CATegory, so it&#39;s fine](http://9gag.com/gag/aRBr1eM)<!-- MEMES:END -->
+ - 💣 [Security dragging Travis Scott out of his own concert.](http://9gag.com/gag/a0eZQ1O)
+ - ⏩ [Lady has her ears cleaned after 16 years.](http://9gag.com/gag/avyA8Mq)
+ - 👉 [Okay now I need instruments for practical](http://9gag.com/gag/aByn241)<!-- MEMES:END -->
 
 ---
 
