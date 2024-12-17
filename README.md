@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Explain this, humankind](http://9gag.com/gag/a6Z1opq)
- - ⏩ [This could have be any western country, if only](http://9gag.com/gag/aoygOwm)
+ - 💣 [Wasted opportunity](http://9gag.com/gag/aPAZjDQ)
+ - ⏩ [Explain this, humankind](http://9gag.com/gag/a6Z1opq)
  - 👉 [Black people have an insane victim mentality.](http://9gag.com/gag/apRg229)<!-- MEMES:END -->
 
 ---
