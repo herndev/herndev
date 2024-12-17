@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Saved finally gets a feature it should’ve had a long time ago](https://www.androidauthority.com/google-saved-search-3509770/)
- - [YouTube says that soon, its tech will be able to find AI copies of celebs and creators](https://www.theverge.com/2024/12/17/24323558/youtube-detect-remove-creators-ai-likeness)
- - [Amid the AI boom, non-AI companies that raised a Series A 18 months ago are likely facing challenges in securing their Series B, even with decent revenue growth &lpar;Marina Temkin/TechCrunch&rpar;](http://www.techmeme.com/241217/p29#a241217p29)<!-- TECH:END -->
+ - [A fresh Galaxy S25 Ultra leak hints at unique new color combinations](https://www.androidauthority.com/galaxy-s25-ultra-color-descriptions-3509791/)
+ - [The Apple Watch 10 Is All In on Snorkeling. I Took It for a Swim](https://www.cnet.com/tech/mobile/the-apple-watch-10-is-all-in-on-snorkeling-i-took-it-for-a-swim/#ftag=CAD590a51e)
+ - [Best 4K TV Deals: Save Up to $700 on Top Picks From LG, Samsung and Others](https://www.cnet.com/deals/best-4k-tv-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
