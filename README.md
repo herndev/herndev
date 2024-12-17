@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple&#39;s M4 Pro 14-inch MacBook Pro has returned to its best $1,749 Black Friday price](https://appleinsider.com/articles/24/12/17/apples-m4-pro-14-inch-macbook-pro-has-returned-to-its-best-1749-black-friday-price?utm_medium=rss)
  - [Australia&#39;s privacy watchdog says Meta agreed to a AU$50M settlement over a 2020 Cambridge Analytica lawsuit alleging 300K+ Facebook users&#39; data was exposed &lpar;Rishav Chatterjee/Reuters&rpar;](http://www.techmeme.com/241216/p33#a241216p33)
- - [Save 48% on this Kasa Smart Light Bulbs 4-pack deal](https://www.androidauthority.com/kasa-smart-light-bulbs-deal-3-3509438/)
- - [Digital bank Tyme Group, which operates in South Africa and the Philippines, raised a $250M Series D led by Brazilian digital bank Nubank at a $1.5B valuation &lpar;Bloomberg&rpar;](http://www.techmeme.com/241216/p32#a241216p32)<!-- TECH:END -->
+ - [Save 48% on this Kasa Smart Light Bulbs 4-pack deal](https://www.androidauthority.com/kasa-smart-light-bulbs-deal-3-3509438/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
