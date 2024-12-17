@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [He looks familiar](http://9gag.com/gag/aoyg5R2)
- - ⏩ [Just seconds after this image was captured, SeaWorld trainer Dawn Brancheau was snatched into the jaws of the orca pictured here and \u2018ripped apart.\u2019 She was then thrashed about over the course of 45 minutes while the horrified crowd helplessly looked on.](http://9gag.com/gag/aRBr19M)
- - 👉 [How stupid are you?](http://9gag.com/gag/azxemDq)<!-- MEMES:END -->
+ - ⏩ [I, for one, like Roman numerals](http://9gag.com/gag/agmgBM1)
+ - 👉 [Yeah](http://9gag.com/gag/aXProP2)<!-- MEMES:END -->
 
 ---
 
