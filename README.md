@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Usually if the input was specific, the output was aswell. Not anymore.](http://9gag.com/gag/aO8QYEN)
- - ⏩ [Becareful when you boo a comedian...](http://9gag.com/gag/agmgXm1)
- - 👉 [What a lovely daughter](http://9gag.com/gag/aNDP0Zv)<!-- MEMES:END -->
+ - 💣 [Becareful when you boo a comedian...](http://9gag.com/gag/agmgXm1)
+ - ⏩ [What a lovely daughter](http://9gag.com/gag/aNDP0Zv)
+ - 👉 [Sometimes it\u2019s ok to break society\u2019s rules](http://9gag.com/gag/aZZr7Qp)<!-- MEMES:END -->
 
 ---
 
