@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [What a lovely daughter](http://9gag.com/gag/aNDP0Zv)
- - ⏩ [The surgery went well. I&#39;m back here with you beautiful racist misogynistic bastards. Doc said I have a long life ahead. Thank you for all the encouragements.](http://9gag.com/gag/aQzX338)
- - 👉 [Explain this, humankind](http://9gag.com/gag/a6Z1opq)<!-- MEMES:END -->
+ - 💣 [The surgery went well. I&#39;m back here with you beautiful racist misogynistic bastards. Doc said I have a long life ahead. Thank you for all the encouragements.](http://9gag.com/gag/aQzX338)
+ - ⏩ [What a lovely daughter](http://9gag.com/gag/aNDP0Zv)
+ - 👉 [Wasted opportunity](http://9gag.com/gag/aPAZjDQ)<!-- MEMES:END -->
 
 ---
 
