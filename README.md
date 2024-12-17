@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Security dragging Travis Scott out of his own concert.](http://9gag.com/gag/a0eZQ1O)
- - ⏩ [Lady has her ears cleaned after 16 years.](http://9gag.com/gag/avyA8Mq)
+ - 💣 [Lady has her ears cleaned after 16 years.](http://9gag.com/gag/avyA8Mq)
+ - ⏩ [Doesn&#39;t look good for George](http://9gag.com/gag/amogBzj)
  - 👉 [Okay now I need instruments for practical](http://9gag.com/gag/aByn241)<!-- MEMES:END -->
 
 ---
