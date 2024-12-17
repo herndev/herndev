@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [A real gamer](http://9gag.com/gag/aVvx31w)
- - ⏩ [Black people have an insane victim mentality.](http://9gag.com/gag/apRg229)
+ - 💣 [Black people have an insane victim mentality.](http://9gag.com/gag/apRg229)
+ - ⏩ [A real gamer](http://9gag.com/gag/aVvx31w)
  - 👉 [Change my mind.](http://9gag.com/gag/awyzoK1)<!-- MEMES:END -->
 
 ---
