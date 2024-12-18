@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Android 16 DP2 adds support for 7 new emoji from Unicode 16.0](https://www.androidauthority.com/android-16-new-emoji-3510140/)
- - [Intel announces the first updates to address Arrow Lake gaming performance issues, fixing four of five root causes, and plans a new update for January &lpar;Paul Alcorn/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/241218/p31#a241218p31)
- - [Congress Again Fails to Limit Scope of Spy Powers in New Defense Bill](https://www.wired.com/story/congress-spy-powers-fisa-ndaa-trump-702/)<!-- TECH:END -->
+ - [Micron reports Q1 revenue up 84% YoY to $8.71B, in line with est., Q2 revenue forecast below est. due to sluggish phone and PC demand; MU drops 13%+ after hours &lpar;Ian King/Bloomberg&rpar;](http://www.techmeme.com/241218/p33#a241218p33)
+ - [Android 16 DP2 lets you use your Pixel’s Fingerprint Unlock even when the screen is off](https://www.androidauthority.com/android-16-screen-off-fingerprint-unlock-3510174/)
+ - [The Ram 1500 Rev is now delayed to 2026](https://www.theverge.com/2024/12/18/24324527/ram-1500-rev-delayed-2026-ramcharger)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
