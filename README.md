@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [This fan favorite class is getting D&amp;#038;D 2024&amp;#8217;s first playtest](https://www.polygon.com/dnd-dungeons-dragons/498829/artificer-unearthed-arcana-2024)
- - [Chess is now an esport as Esports World Cup adds the 1,500 year-old game to 2025 event, calls it &#39;the perfect example of how games evolve&#39;](https://www.pcgamer.com/games/chess-is-now-an-esport-as-esports-world-cup-adds-the-1-500-year-old-game-to-2025-event-calls-it-the-perfect-example-of-how-games-evolve/)
- - [With equal parts confusion and shame, I regret to inform you that Skibidi Toilet is coming to Fortnite](https://www.pcgamer.com/games/battle-royale/with-equal-parts-confusion-and-shame-i-regret-to-inform-you-that-skibidi-toilet-is-coming-to-fortnite/)<!-- GAME:END -->
+ - [The Sims designer Will Wright is making his next life sim more personal by building it with your actual memories: &#39;No game designer has ever gone wrong by overestimating the narcissism of their players&#39;](https://www.pcgamer.com/games/life-sim/the-sims-designer-will-wright-is-making-his-next-life-sim-more-personal-by-building-it-with-your-actual-memories-no-game-designer-has-ever-gone-wrong-by-overestimating-the-narcissism-of-their-players/)
+ - [Be happy, Black Myth: Wukong fans, because it is literally impossible for Astro Bot to win Game of the Year in the 2024 Steam Game Awards](https://www.pcgamer.com/games/be-happy-black-myth-wukong-fans-because-it-is-literally-impossible-for-astro-bot-to-win-game-of-the-year-in-the-2024-steam-game-awards/)
+ - [This fan favorite class is getting D&amp;#038;D 2024&amp;#8217;s first playtest](https://www.polygon.com/dnd-dungeons-dragons/498829/artificer-unearthed-arcana-2024)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
