@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Lol](http://9gag.com/gag/aGyzEdK)
- - ⏩ [The state of gaming](http://9gag.com/gag/aW4gg5A)
- - 👉 [Its not young people...its....](http://9gag.com/gag/aLnv1pz)<!-- MEMES:END -->
+ - 💣 [Always Bruv!](http://9gag.com/gag/aKGm6nW)
+ - ⏩ [A quick swim while parasailing](http://9gag.com/gag/a341ZL8)
+ - 👉 [We are all equal](http://9gag.com/gag/aXProvV)<!-- MEMES:END -->
 
 ---
 
