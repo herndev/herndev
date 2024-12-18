@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [France. This will be deleted soon by leftist team of 9gag](http://9gag.com/gag/ayN9N8y)
- - ⏩ [How stupid are you?](http://9gag.com/gag/azxemDq)
- - 👉 [A quick swim while parasailing](http://9gag.com/gag/a341ZL8)<!-- MEMES:END -->
+ - 💣 [We are all equal](http://9gag.com/gag/aXProvV)
+ - ⏩ [She knew, she definitely knew.](http://9gag.com/gag/aXPrr9P)
+ - 👉 [So the latest school shooter is a 17 year old girl. Statistically it was bound to happen eventually.](http://9gag.com/gag/ajPgmgq)<!-- MEMES:END -->
 
 ---
 
