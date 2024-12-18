@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Always Bruv!](http://9gag.com/gag/aKGm6nW)
- - ⏩ [A quick swim while parasailing](http://9gag.com/gag/a341ZL8)
- - 👉 [We are all equal](http://9gag.com/gag/aXProvV)<!-- MEMES:END -->
+ - 💣 [She knew, she definitely knew.](http://9gag.com/gag/aXPrr9P)
+ - ⏩ [To be fair, Missouri is like a different planet, speaking as a person that lives in the state](http://9gag.com/gag/aAyG0YL)
+ - 👉 [Sigh.. what do you expect](http://9gag.com/gag/aqyGnwL)<!-- MEMES:END -->
 
 ---
 
