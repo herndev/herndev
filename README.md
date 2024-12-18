@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How to solve the Hidden Pyramid Game Room puzzle in Indiana Jones and the Great Circle](https://www.polygon.com/indiana-jones-great-circle-guide/499251/hidden-pyramid-game-room-puzzle-solution-how-to-solve)
- - [Sony’s best wireless earbuds are $100 off ahead of the holidays](https://www.polygon.com/good-deals/499190/sony-wf1000xm5-inzone-wireless-earbuds-sale)
- - [Prince of Persia: The Lost Crown’s accessibility doesn’t ‘dilute’ the game: ‘It’s the opposite’](https://www.polygon.com/gaming/499327/prince-of-persia-lost-crown-accessibility-tgas-game-awards)<!-- GAME:END -->
+ - [&#39;Gooner 9/11&#39; averted as Zenless Zone Zero&#39;s butt-obfuscation technology is rolled back in the face of horny outrage](https://www.pcgamer.com/games/rpg/gooner-9-11-averted-as-zenless-zone-zeros-butt-obfuscation-technology-is-rolled-back-in-the-face-of-horny-outrage/)
+ - [Final Fantasy 7 Rebirth director asks modders to avoid making anything &#39;offensive or inappropriate,&#39; Final Fantasy 7 modding community says &#39;yeah sure&#39;](https://www.pcgamer.com/games/rpg/final-fantasy-7-rebirth-director-asks-modders-to-avoid-making-anything-offensive-or-inappropriate-final-fantasy-7-modding-community-says-yeah-sure/)
+ - [NBA Team Apologizes After Pretending To Give Kid A PS5, Then Taking It Away](https://kotaku.com/nba-team-hornets-ps5-prank-skit-sorry-kid-christmas-1851724737)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
