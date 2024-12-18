@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [List of all Galaxy S25 colors leaks, and they’re actually interesting this year](https://www.androidauthority.com/samsung-galaxy-s25-colors-3510062/)
- - [You can now call 1-800-CHATGPT](https://www.theverge.com/2024/12/18/24324376/openai-shipmas-1-800-chatgpt-whatsapp)
- - [Pick up Apple&#39;s M4 iPad Pro for $849 with delivery by Christmas](https://appleinsider.com/articles/24/12/18/pick-up-apples-m4-ipad-pro-for-849-with-delivery-by-christmas?utm_medium=rss)<!-- TECH:END -->
+ - [Amazon’s bringing meaningful accessibility improvements to Fire TV](https://www.theverge.com/2024/12/18/24324335/amazon-fire-tv-dual-audio-hearing-aids-accessibility)
+ - [The best smart locks you can buy right now](https://www.theverge.com/23393163/best-smart-door-lock)
+ - [Apple may have cancelled its long-rumored iPhone hardware subscription service](https://appleinsider.com/articles/24/12/18/apple-may-have-cancelled-its-iphone-hardware-subscription-service?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
