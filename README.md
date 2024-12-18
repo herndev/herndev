@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [He looks familiar](http://9gag.com/gag/aoyg5R2)
- - ⏩ [Welcome to London \ud83d\ude43](http://9gag.com/gag/axyBBDb)
- - 👉 [When you thought the game was on easy mode](http://9gag.com/gag/a9y1EEm)<!-- MEMES:END -->
+ - 💣 [A quick swim while parasailing](http://9gag.com/gag/a341ZL8)
+ - ⏩ [A woman in Italy freaks out in response to seeing a man and woman kiss in public](http://9gag.com/gag/abAgVev)
+ - 👉 [Christmas Gorilla \ud83c\udf84 \ud83e\udd8d](http://9gag.com/gag/aMV44zx)<!-- MEMES:END -->
 
 ---
 
