@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [What Deadpool director Tim Miller transferred from Love, Death &amp;#038; Robots to Secret Level](https://www.polygon.com/q-and-a/496734/tim-miller-deadpool-director-interview-secret-level-love-death-robots)
- - [AI Will Crash Your PC Gaming Framerates In Nvidia&#39;s New App](https://kotaku.com/nvidia-app-geforce-experience-driver-framerate-issues-1851723732)
- - [Buying gifts online? Here’s when you need to checkout to ensure they arrive on time](https://www.polygon.com/deals/498080/last-day-to-buy-gifts-online-shipping-amazon-best-buy-walmart)<!-- GAME:END -->
+ - [The Witcher IV: Bringing Ciri into A World of Her Own](https://news.xbox.com/en-us/2024/12/18/the-witcher-4-bringing-ciri-into-a-world-of-her-own/)
+ - [The 6 best anime openings of 2024](https://www.polygon.com/anime/460535/best-anime-openings-2024-credits-intros)
+ - [If you love mystery novels and detective shows, The Rise of the Golden Idol is the perfect game for you](https://www.pcgamer.com/games/adventure/if-you-love-mystery-novels-and-detective-shows-the-rise-of-the-golden-idol-is-the-perfect-game-for-you/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
