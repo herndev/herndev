@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Creating Atomfall’s Haunting Casterfell Woods – Check Out Exclusive New Screenshots](https://news.xbox.com/en-us/2024/12/18/atomfall-casterfell-woods-exclusive-screenshots-trailer-breakdown/)
- - [The Naughtiest And Nicest Christmas Movies, Based On Blood, Joy, And F-Bombs](https://kotaku.com/christmas-movie-home-alone-charlie-brown-holdovers-1851723041)
- - [Where is the giant turtle in Fortnite?](https://www.polygon.com/fortnite-guide/488662/giant-turtle-location-great-turtle)<!-- GAME:END -->
+ - [Fortnite leakers say Mariah Carey is on her way](https://www.polygon.com/fortnite/499114/fortnite-leaks-mariah-carey-christmas-ice-block-snoop-shaq-santa)
+ - [Play a whole bunch of Far Cry, Assassin&#39;s Creed, and other Ubisoft classics for just $1](https://www.pcgamer.com/games/play-a-whole-bunch-of-far-cry-assassins-creed-and-other-ubisoft-classics-for-just-usd1/)
+ - [Helldivers 2 Fans Are In Full Revolt Over Expensive Killzone Crossover Skins](https://kotaku.com/helldivers-2-killzone-helghast-price-controversy-1851724314)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
