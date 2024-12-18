@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [A quick swim while parasailing](http://9gag.com/gag/a341ZL8)
- - ⏩ [A woman in Italy freaks out in response to seeing a man and woman kiss in public](http://9gag.com/gag/abAgVev)
- - 👉 [Christmas Gorilla \ud83c\udf84 \ud83e\udd8d](http://9gag.com/gag/aMV44zx)<!-- MEMES:END -->
+ - 💣 [So the latest school shooter is a 17 year old girl. Statistically it was bound to happen eventually.](http://9gag.com/gag/ajPgmgq)
+ - ⏩ [A quick swim while parasailing](http://9gag.com/gag/a341ZL8)
+ - 👉 [When you thought the game was on easy mode](http://9gag.com/gag/a9y1EEm)<!-- MEMES:END -->
 
 ---
 
