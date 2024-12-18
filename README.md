@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Sonic 3 is a speedrun through the franchise scrapyard, yet it works](https://www.polygon.com/review/498909/sonic-3-movie-review)
- - [Intel says &#39;demand for Arc B580 graphics cards is high&#39; but the GPU should be restocked every week](https://www.pcgamer.com/hardware/graphics-cards/intel-says-demand-for-arc-b580-graphics-cards-is-high-but-the-gpu-should-be-restocked-every-week/)
- - [Fallout&#39;s Tim Cain spent 6 years working on defunct MMO WildStar, twice as long as any other game, and thinks that might have something to do with why it failed](https://www.pcgamer.com/games/mmo/fallouts-tim-cain-spent-6-years-working-on-defunct-mmo-wildstar-twice-as-long-as-any-other-game-and-thinks-that-might-have-something-to-do-with-why-it-failed/)<!-- GAME:END -->
+ - [What Deadpool director Tim Miller transferred from Love, Death &amp;#038; Robots to Secret Level](https://www.polygon.com/q-and-a/496734/tim-miller-deadpool-director-interview-secret-level-love-death-robots)
+ - [AI Will Crash Your PC Gaming Framerates In Nvidia&#39;s New App](https://kotaku.com/nvidia-app-geforce-experience-driver-framerate-issues-1851723732)
+ - [Buying gifts online? Here’s when you need to checkout to ensure they arrive on time](https://www.polygon.com/deals/498080/last-day-to-buy-gifts-online-shipping-amazon-best-buy-walmart)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
