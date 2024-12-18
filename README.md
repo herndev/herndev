@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Sims designer Will Wright is making his next life sim more personal by building it with your actual memories: &#39;No game designer has ever gone wrong by overestimating the narcissism of their players&#39;](https://www.pcgamer.com/games/life-sim/the-sims-designer-will-wright-is-making-his-next-life-sim-more-personal-by-building-it-with-your-actual-memories-no-game-designer-has-ever-gone-wrong-by-overestimating-the-narcissism-of-their-players/)
- - [Be happy, Black Myth: Wukong fans, because it is literally impossible for Astro Bot to win Game of the Year in the 2024 Steam Game Awards](https://www.pcgamer.com/games/be-happy-black-myth-wukong-fans-because-it-is-literally-impossible-for-astro-bot-to-win-game-of-the-year-in-the-2024-steam-game-awards/)
- - [This fan favorite class is getting D&amp;#038;D 2024&amp;#8217;s first playtest](https://www.polygon.com/dnd-dungeons-dragons/498829/artificer-unearthed-arcana-2024)<!-- GAME:END -->
+ - [After being honored at The Game Awards for helping laid-off devs, Amir Satvat says he&#39;s received &#39;countless&#39; hateful messages: &#39;This can happen to you too when you sacrifice over 2,000 hours of your time to help the industry&#39;](https://www.pcgamer.com/gaming-industry/amir-satvat-game-awards-comments/)
+ - [The Sims designer Will Wright says a &#39;Britney Spears-level&#39; pop star loved her &#39;mundane&#39; life in The Sims: &#39;It is so boring, it&#39;s wonderful&#39;](https://www.pcgamer.com/games/the-sims/the-sims-designer-will-wright-says-a-britney-spears-level-pop-star-loved-her-mundane-life-in-the-sims-it-is-so-boring-its-wonderful/)
+ - [The Sims designer Will Wright is making his next life sim more personal by building it with your actual memories: &#39;No game designer has ever gone wrong by overestimating the narcissism of their players&#39;](https://www.pcgamer.com/games/life-sim/the-sims-designer-will-wright-is-making-his-next-life-sim-more-personal-by-building-it-with-your-actual-memories-no-game-designer-has-ever-gone-wrong-by-overestimating-the-narcissism-of-their-players/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
