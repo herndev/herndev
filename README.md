@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [She knew, she definitely knew.](http://9gag.com/gag/aXPrr9P)
- - ⏩ [To be fair, Missouri is like a different planet, speaking as a person that lives in the state](http://9gag.com/gag/aAyG0YL)
- - 👉 [Sigh.. what do you expect](http://9gag.com/gag/aqyGnwL)<!-- MEMES:END -->
+ - 💣 [Yes please](http://9gag.com/gag/agmgBKw)
+ - ⏩ [Yeah](http://9gag.com/gag/aXProP2)
+ - 👉 [So the latest school shooter is a 17 year old girl. Statistically it was bound to happen eventually.](http://9gag.com/gag/ajPgmgq)<!-- MEMES:END -->
 
 ---
 
