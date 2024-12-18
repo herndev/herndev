@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [NERC, overseen by FERC, warns soaring electricity demand from sources including data centers to power AI could strain US and Canadian grids, risking blackouts &lpar;Myles McCormick/Financial Times&rpar;](http://www.techmeme.com/241218/p3#a241218p3)
- - [Motorola phones face US market ban owing to patent dispute](https://www.androidauthority.com/motorola-us-ban-3509865/)
- - [Today&#39;s NYT Mini Crossword Answers for Wednesday, Dec. 18](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-wednesday-dec-18/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Masayoshi Son&#39;s $100B AI investment pledge to Trump would require a massive fundraising effort, new debt, or selling some of SoftBank&#39;s holdings to raise cash &lpar;Eliot Brown/Wall Street Journal&rpar;](http://www.techmeme.com/241218/p7#a241218p7)
+ - [A look at Reddit&#39;s growth in sports fan communities; internal data: Reddit recorded a 35% YoY increase in engagement in 1,000+ sports-themed Subreddits in 2024 &lpar;Sam Bradley/Digiday&rpar;](http://www.techmeme.com/241218/p6#a241218p6)
+ - [Logitech Promo Code: 15% Off in December 2024](https://www.wired.com/story/logitech-promo-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
