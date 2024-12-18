@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [One of Path of Exile 2’s toughest bosses gets patched to be less of a buzzkill](https://www.pcgamer.com/games/one-of-path-of-exile-2s-toughest-bosses-gets-patched-to-be-less-of-a-buzzkill/)
  - [The Big Con is a charming, funny crime caper about scamming your way through the greatest era in human history: The 1990s](https://www.pcgamer.com/games/sim/the-big-con-is-a-charming-funny-crime-caper-about-scamming-your-way-through-the-greatest-era-in-human-history-the-1990s/)
- - [Today&#39;s Wordle answer for Wednesday, December 18](https://www.pcgamer.com/games/puzzle/wordle-answer-today-december-18-2024/)
- - [After being honored at The Game Awards for helping laid-off devs, Amir Satvat says he&#39;s received &#39;countless&#39; hateful messages: &#39;This can happen to you too when you sacrifice over 2,000 hours of your time to help the industry&#39;](https://www.pcgamer.com/gaming-industry/amir-satvat-game-awards-comments/)<!-- GAME:END -->
+ - [Today&#39;s Wordle answer for Wednesday, December 18](https://www.pcgamer.com/games/puzzle/wordle-answer-today-december-18-2024/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
