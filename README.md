@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Android 16 will help you click better social media photos in low light conditions](https://www.androidauthority.com/android-16-night-mode-indicator-api-3509856/)
- - [Satechi 6-in-1 Slim USB-C Adapter review: Few ports, fewer complaints](https://appleinsider.com/articles/24/12/18/satechi-6-in-1-slim-usb-c-adapter-review-few-ports-fewer-complaints?utm_medium=rss)
- - [Bluesky&#39;s use of domains to verify users has led to cybersquatting and impersonation, as domains don&#39;t offer enough social proof for the average person &lpar;Ernie Smith/Tedium&rpar;](http://www.techmeme.com/241217/p38#a241217p38)<!-- TECH:END -->
+ - [Today&#39;s NYT Mini Crossword Answers for Wednesday, Dec. 18](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-wednesday-dec-18/#ftag=CAD590a51e)
+ - [India&#39;s commerce minister says that Shein will operate in India purely as a tech partner, with Reliance Retail having full ownership and control of operations &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/241218/p2#a241218p2)
+ - [Google introduces FACTS Grounding benchmark for evaluating the factuality of LLMs, and announces a leaderboard that ranks Gemini 2.0 Flash Experimental on top &lpar;Google DeepMind&rpar;](http://www.techmeme.com/241218/p1#a241218p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
