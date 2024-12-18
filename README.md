@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best fitness trackers to buy right now](https://www.theverge.com/22985108/best-fitness-tracker)
- - [Nvidia unveils Jetson Orin Nano Super Developer Kit, a $249 compact AI development board that promises 67 TOPS, compared to 40 TOPS of the $499 last-gen kit &lpar;Avram Piltch/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/241217/p36#a241217p36)
- - [Best Blue Light Glasses of 2024](https://www.cnet.com/health/personal-care/best-blue-light-blocking-glasses/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Intel finally notches a GPU win, confirms Arc B580 is selling out after stellar reviews](https://www.theverge.com/2024/12/17/24323888/intel-arc-b580-sold-out-availability)
+ - [NYC-based Precision Neuroscience, a maker of brain-computer interfaces, raised a $102M Series C led by General Equity Holdings at a ~$500M post-money valuation &lpar;Richard Waters/Financial Times&rpar;](http://www.techmeme.com/241217/p37#a241217p37)
+ - [The best fitness trackers to buy right now](https://www.theverge.com/22985108/best-fitness-tracker)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
