@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [A quick swim while parasailing](http://9gag.com/gag/a341ZL8)
- - ⏩ [Yeah](http://9gag.com/gag/aXProP2)
- - 👉 [This is how i met your mother](http://9gag.com/gag/aKGmdx1)<!-- MEMES:END -->
+ - 💣 [This Dad surprises daughter with gift of a lifetime](http://9gag.com/gag/a341E77)
+ - ⏩ [How stupid are you?](http://9gag.com/gag/azxemDq)
+ - 👉 [Do I look like a new girlfriend?](http://9gag.com/gag/aNDPpjb)<!-- MEMES:END -->
 
 ---
 
