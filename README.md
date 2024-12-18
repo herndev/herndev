@@ -41,7 +41,7 @@
 <!-- TECH:START -->
  - [Intel finally notches a GPU win, confirms Arc B580 is selling out after stellar reviews](https://www.theverge.com/2024/12/17/24323888/intel-arc-b580-sold-out-availability)
  - [NYC-based Precision Neuroscience, a maker of brain-computer interfaces, raised a $102M Series C led by General Equity Holdings at a ~$500M post-money valuation &lpar;Richard Waters/Financial Times&rpar;](http://www.techmeme.com/241217/p37#a241217p37)
- - [The best fitness trackers to buy right now](https://www.theverge.com/22985108/best-fitness-tracker)<!-- TECH:END -->
+ - [Casper Dream Hybrid Mattress Review 2024: Casper&#39;s Most Accommodating Bed](https://www.cnet.com/health/sleep/casper-dream-hybrid-review/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
