@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon’s bringing meaningful accessibility improvements to Fire TV](https://www.theverge.com/2024/12/18/24324335/amazon-fire-tv-dual-audio-hearing-aids-accessibility)
- - [The best smart locks you can buy right now](https://www.theverge.com/23393163/best-smart-door-lock)
- - [Apple may have cancelled its long-rumored iPhone hardware subscription service](https://appleinsider.com/articles/24/12/18/apple-may-have-cancelled-its-iphone-hardware-subscription-service?utm_medium=rss)<!-- TECH:END -->
+ - [Android 16 DP2 adds support for 7 new emoji from Unicode 16.0](https://www.androidauthority.com/android-16-new-emoji-3510140/)
+ - [Intel announces the first updates to address Arrow Lake gaming performance issues, fixing four of five root causes, and plans a new update for January &lpar;Paul Alcorn/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/241218/p31#a241218p31)
+ - [Congress Again Fails to Limit Scope of Spy Powers in New Defense Bill](https://www.wired.com/story/congress-spy-powers-fisa-ndaa-trump-702/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
