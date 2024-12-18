@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Micron reports Q1 revenue up 84% YoY to $8.71B, in line with est., Q2 revenue forecast below est. due to sluggish phone and PC demand; MU drops 13%+ after hours &lpar;Ian King/Bloomberg&rpar;](http://www.techmeme.com/241218/p33#a241218p33)
- - [Android 16 DP2 lets you use your Pixel’s Fingerprint Unlock even when the screen is off](https://www.androidauthority.com/android-16-screen-off-fingerprint-unlock-3510174/)
- - [The Ram 1500 Rev is now delayed to 2026](https://www.theverge.com/2024/12/18/24324527/ram-1500-rev-delayed-2026-ramcharger)<!-- TECH:END -->
+ - [This waterproof coffin will keep an AirTag alive for a decade](https://www.theverge.com/2024/12/18/24324526/elevation-lab-time-capsule-apple-air-tag-battery-life)
+ - [The best smartwatches for Android](https://www.theverge.com/23449363/best-android-smartwatches-wear-os)
+ - [Wrapped 2024: the annual app recaps are here](https://www.theverge.com/24301386/spotify-wrapped-2024-apple-music-replay-youtube-music-recap)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
