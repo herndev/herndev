@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [A quick swim while parasailing](http://9gag.com/gag/a341ZL8)
- - ⏩ [He looks familiar](http://9gag.com/gag/aoyg5R2)
- - 👉 [Slowly recall all your mind](http://9gag.com/gag/a1m11bG)<!-- MEMES:END -->
+ - 💣 [Germany is safe again - thanks to weppons controls on the usual suspects](http://9gag.com/gag/a9y1qM0)
+ - ⏩ [Kamala would&#39;ve given her a credit card](http://9gag.com/gag/azxeM6b)
+ - 👉 [New cars with screens everywhere, haptic feedback buttons and full of electronics that are expensive to repair. Sometimes less is more.](http://9gag.com/gag/aQzXXzz)<!-- MEMES:END -->
 
 ---
 
