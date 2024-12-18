@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The best Blu-rays of 2024](https://www.polygon.com/24100988/best-blu-rays-2024-4k-uhd)
- - [The director of Saw and Insidious is turning one of 2024&#39;s best survival games into a TV show](https://www.pcgamer.com/movies-tv/the-director-of-saw-and-insidious-is-turning-one-of-2024s-best-survival-games-into-a-tv-show/)
- - [STALKER 2 is already profitable and will receive expansions, studio owner says](https://www.polygon.com/news/499129/stalker-2-gsc-game-world-profitable-dlc-expansions-multiplayer-netflix)<!-- GAME:END -->
+ - [When does Winterfest start in Fortnite?](https://www.polygon.com/fortnite-guide/497196/winterfest-2024-start-release-time-est-pst-bst)
+ - [Indy’s puzzles make me feel way too smart](https://www.polygon.com/gaming/497484/indiana-jones-great-circle-best-puzzles-design)
+ - [Helldivers 2 players rip into Arrowhead for &#39;straight-up ridiculous&#39; Killzone crossover prices, CEO defends the choice: &#39;The more of this we sell, the more Illuminate-type stuff we can keep dropping for free&#39;](https://www.pcgamer.com/games/third-person-shooter/helldivers-2-players-rip-into-arrowhead-for-straight-up-ridiculous-killzone-crossover-prices-ceo-defends-the-choice-the-more-of-this-we-sell-the-more-illuminate-type-stuff-we-can-keep-dropping-for-free/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
