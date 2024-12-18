@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [T-Mobile badly wants everyone to use its new T-Life app](https://www.androidauthority.com/t-life-app-employee-pressure-3510044/)
- - [The Kids Online Safety Act’s last stand](https://www.theverge.com/2024/12/18/24324276/kids-online-safety-act-parent-advocates)
- - [Botto, the Millionaire AI Artist, Is Getting a Personality](https://www.wired.com/story/botto-the-millionaire-ai-artist-is-getting-a-personality/)<!-- TECH:END -->
+ - [List of all Galaxy S25 colors leaks, and they’re actually interesting this year](https://www.androidauthority.com/samsung-galaxy-s25-colors-3510062/)
+ - [You can now call 1-800-CHATGPT](https://www.theverge.com/2024/12/18/24324376/openai-shipmas-1-800-chatgpt-whatsapp)
+ - [Pick up Apple&#39;s M4 iPad Pro for $849 with delivery by Christmas](https://appleinsider.com/articles/24/12/18/pick-up-apples-m4-ipad-pro-for-849-with-delivery-by-christmas?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
