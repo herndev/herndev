@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [So the latest school shooter is a 17 year old girl. Statistically it was bound to happen eventually.](http://9gag.com/gag/ajPgmgq)
- - ⏩ [A quick swim while parasailing](http://9gag.com/gag/a341ZL8)
- - 👉 [When you thought the game was on easy mode](http://9gag.com/gag/a9y1EEm)<!-- MEMES:END -->
+ - 💣 [When you thought the game was on easy mode](http://9gag.com/gag/a9y1EEm)
+ - ⏩ [Merry X-files you degenerates](http://9gag.com/gag/aGyzd3n)
+ - 👉 [Yeah](http://9gag.com/gag/aXProP2)<!-- MEMES:END -->
 
 ---
 
