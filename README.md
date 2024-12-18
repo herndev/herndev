@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Alphabet’s Wing will deliver DoorDash by drone in Dallas-Fort Worth](https://www.theverge.com/2024/12/18/24324111/alphabet-wing-doordash-drone-deliveries-dallas-fort-worth)
- - [8 great games for your Steam Deck](https://www.theverge.com/24305570/steam-deck-best-games-2024-verified-playable-valve)
- - [Seagate is getting ready to launch its first high-capacity HAMR hard drive](https://www.theverge.com/2024/12/18/24324143/seagate-32tb-hamr-hard-drive)<!-- TECH:END -->
+ - [Unsure which of the big 3 networks works best in your area? Here’s the easiest way to try them all](https://www.androidauthority.com/how-to-try-all-three-networks-3510026/)
+ - [Data center operator Vultr raised $333M led by LuminArx, with participation from AMD and others, at a $3.5B valuation, its first outside funding round &lpar;Belle Lin/Wall Street Journal&rpar;](http://www.techmeme.com/241218/p22#a241218p22)
+ - [Best AI app to effortlessly remove background from image on Mac](https://appleinsider.com/articles/24/12/18/best-ai-app-to-effortlessly-remove-background-from-image-on-mac?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
