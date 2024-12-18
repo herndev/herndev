@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [When does Winterfest start in Fortnite?](https://www.polygon.com/fortnite-guide/497196/winterfest-2024-start-release-time-est-pst-bst)
- - [Indy’s puzzles make me feel way too smart](https://www.polygon.com/gaming/497484/indiana-jones-great-circle-best-puzzles-design)
- - [Helldivers 2 players rip into Arrowhead for &#39;straight-up ridiculous&#39; Killzone crossover prices, CEO defends the choice: &#39;The more of this we sell, the more Illuminate-type stuff we can keep dropping for free&#39;](https://www.pcgamer.com/games/third-person-shooter/helldivers-2-players-rip-into-arrowhead-for-straight-up-ridiculous-killzone-crossover-prices-ceo-defends-the-choice-the-more-of-this-we-sell-the-more-illuminate-type-stuff-we-can-keep-dropping-for-free/)<!-- GAME:END -->
+ - [How to solve the Hidden Pyramid Game Room puzzle in Indiana Jones and the Great Circle](https://www.polygon.com/indiana-jones-great-circle-guide/499251/hidden-pyramid-game-room-puzzle-solution-how-to-solve)
+ - [Sony’s best wireless earbuds are $100 off ahead of the holidays](https://www.polygon.com/good-deals/499190/sony-wf1000xm5-inzone-wireless-earbuds-sale)
+ - [Prince of Persia: The Lost Crown’s accessibility doesn’t ‘dilute’ the game: ‘It’s the opposite’](https://www.polygon.com/gaming/499327/prince-of-persia-lost-crown-accessibility-tgas-game-awards)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
