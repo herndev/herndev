@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Do I look like a new girlfriend?](http://9gag.com/gag/aNDPpjb)
- - ⏩ [Quick fix](http://9gag.com/gag/adBg8GV)
- - 👉 [When you thought the game was on easy mode](http://9gag.com/gag/a9y1EEm)<!-- MEMES:END -->
+ - 💣 [France. This will be deleted soon by leftist team of 9gag](http://9gag.com/gag/ayN9N8y)
+ - ⏩ [How stupid are you?](http://9gag.com/gag/azxemDq)
+ - 👉 [A quick swim while parasailing](http://9gag.com/gag/a341ZL8)<!-- MEMES:END -->
 
 ---
 
