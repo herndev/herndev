@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Yes please](http://9gag.com/gag/agmgBKw)
- - ⏩ [Yeah](http://9gag.com/gag/aXProP2)
- - 👉 [So the latest school shooter is a 17 year old girl. Statistically it was bound to happen eventually.](http://9gag.com/gag/ajPgmgq)<!-- MEMES:END -->
+ - 💣 [Do I look like a new girlfriend?](http://9gag.com/gag/aNDPpjb)
+ - ⏩ [Quick fix](http://9gag.com/gag/adBg8GV)
+ - 👉 [When you thought the game was on easy mode](http://9gag.com/gag/a9y1EEm)<!-- MEMES:END -->
 
 ---
 
