@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Verge’s 2024 holiday gift guide for dads](https://www.theverge.com/24224045/best-gift-ideas-dad-holiday-unique-2024-tech-gadgets)
- - [Apple’s App Store is inviting me to ‘search the way you talk’](https://www.theverge.com/2024/12/17/24323780/app-store-natural-language-search-ios-18-iphone-ipad-apple)
- - [Here’s how your Pixel’s Phone app could start getting you into using Audio Emoji](https://www.androidauthority.com/audio-emoji-button-3509827/)<!-- TECH:END -->
+ - [The best fitness trackers to buy right now](https://www.theverge.com/22985108/best-fitness-tracker)
+ - [Nvidia unveils Jetson Orin Nano Super Developer Kit, a $249 compact AI development board that promises 67 TOPS, compared to 40 TOPS of the $499 last-gen kit &lpar;Avram Piltch/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/241217/p36#a241217p36)
+ - [Best Blue Light Glasses of 2024](https://www.cnet.com/health/personal-care/best-blue-light-blocking-glasses/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
