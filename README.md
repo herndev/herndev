@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [ChatGPT’s Google Search rival expands to free users, and it’s too good to be true](https://www.androidauthority.com/chatgpt-search-free-users-3509910/)
- - [Masayoshi Son&#39;s $100B AI investment pledge to Trump would require a massive fundraising effort, new debt, or selling some of SoftBank&#39;s holdings to raise cash &lpar;Eliot Brown/Wall Street Journal&rpar;](http://www.techmeme.com/241218/p7#a241218p7)
- - [A look at Reddit&#39;s growth in sports fan communities; internal data: Reddit recorded a 35% YoY increase in engagement in 1,000+ sports-themed Subreddits in 2024 &lpar;Sam Bradley/Digiday&rpar;](http://www.techmeme.com/241218/p6#a241218p6)<!-- TECH:END -->
+ - [A profile of 114-year-old Japanese conglomerate Hitachi, whose market cap recently hit $100B after becoming an industrial software and hardware provider &lpar;Financial Times&rpar;](http://www.techmeme.com/241218/p10#a241218p10)
+ - [A profile of Tyler Denk, co-founder of newsletter platform Beehiiv, which raised a $33M Series B in April 2024 and generates $1.6M to $1.75M in monthly revenue &lpar;Ben Sherry/Inc&rpar;](http://www.techmeme.com/241218/p9#a241218p9)
+ - [Chrome for Android could give you another way to clean up your tabs](https://www.androidauthority.com/chrome-for-android-duplicate-tabs-3509955/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
