@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone 17 range will keep triangular camera system, claims leaker](https://appleinsider.com/articles/24/12/18/iphone-17-range-will-keep-triangular-camera-system-claims-leaker?utm_medium=rss)
- - [Omdia estimates Microsoft bought 485K of Nvidia&#39;s Hopper GPUs in 2024, ByteDance and Tencent bought ~230K each, Meta bought 225K, and Tesla/xAI bought ~200K &lpar;Financial Times&rpar;](http://www.techmeme.com/241218/p17#a241218p17)
- - [SandboxAQ, which aims to apply quantum tech and techniques to AI, raised $300M from Alger, Yann LeCun, and others at a $5.6B valuation to recruit more engineers &lpar;Bloomberg&rpar;](http://www.techmeme.com/241218/p16#a241218p16)<!-- TECH:END -->
+ - [The quickly disappearing web](https://www.theverge.com/24321569/internet-decay-link-rot-web-archive-deleted-culture)
+ - [Much ado about something: Nothing beats Samsung to stable Android 15](https://www.androidauthority.com/stable-nothing-os-3-0-release-3509900/)
+ - [eMarketer expects Instagram to hit $32B in US ad revenue in 2025, or 50% of Meta&#39;s ad sales; filings: Instagram was ~30% of Meta&#39;s global business in early 2022 &lpar;Aisha Counts/Bloomberg&rpar;](http://www.techmeme.com/241218/p19#a241218p19)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
