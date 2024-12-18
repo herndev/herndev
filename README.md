@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Tougher than the GTA helicopter mission](http://9gag.com/gag/aYQrV3v)
- - ⏩ [Dad recorded his music-loving daughter&#39;s growth over the years.](http://9gag.com/gag/aoygKmA)
- - 👉 [Its not young people...its....](http://9gag.com/gag/aLnv1pz)<!-- MEMES:END -->
+ - 💣 [He looks familiar](http://9gag.com/gag/aoyg5R2)
+ - ⏩ [When you thought the game was on easy mode](http://9gag.com/gag/a9y1EEm)
+ - 👉 [Yeah](http://9gag.com/gag/aXProP2)<!-- MEMES:END -->
 
 ---
 
