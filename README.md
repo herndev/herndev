@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [We are all equal](http://9gag.com/gag/aXProvV)
- - ⏩ [She knew, she definitely knew.](http://9gag.com/gag/aXPrr9P)
- - 👉 [So the latest school shooter is a 17 year old girl. Statistically it was bound to happen eventually.](http://9gag.com/gag/ajPgmgq)<!-- MEMES:END -->
+ - 💣 [A man enters through below the door when the shop is about to close](http://9gag.com/gag/aYQrV6x)
+ - ⏩ [The almost perfect synchronization of scenes between the remake and the original film](http://9gag.com/gag/a1m1P3w)
+ - 👉 [Okay now I need instruments for practical](http://9gag.com/gag/aByn241)<!-- MEMES:END -->
 
 ---
 
