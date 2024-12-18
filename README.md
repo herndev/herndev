@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The quickly disappearing web](https://www.theverge.com/24321569/internet-decay-link-rot-web-archive-deleted-culture)
- - [Much ado about something: Nothing beats Samsung to stable Android 15](https://www.androidauthority.com/stable-nothing-os-3-0-release-3509900/)
- - [eMarketer expects Instagram to hit $32B in US ad revenue in 2025, or 50% of Meta&#39;s ad sales; filings: Instagram was ~30% of Meta&#39;s global business in early 2022 &lpar;Aisha Counts/Bloomberg&rpar;](http://www.techmeme.com/241218/p19#a241218p19)<!-- TECH:END -->
+ - [This Z-Wave smart plug can work over a mile from your house](https://www.theverge.com/2024/12/18/24324097/shelly-wave-zwave-long-range-smart-plug-availability)
+ - [Social networks in 2024: bless this mess](https://www.theverge.com/24314116/bluesky-threads-2024-social-media-networks-fediverse-twitter-x)
+ - [Q&amp;A with Microsoft Chief Product Officer of Responsible AI Sarah Bird on generative AI, its impact on work, Copilots, OpenAI, AGI, AI agents, bias, and more &lpar;Cristina Criddle/Financial Times&rpar;](http://www.techmeme.com/241218/p21#a241218p21)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
