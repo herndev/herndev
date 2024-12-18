@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Android 16 will help you click better social media photos in low light conditions](https://www.androidauthority.com/android-16-night-mode-indicator-api-3509856/)
  - [Satechi 6-in-1 Slim USB-C Adapter review: Few ports, fewer complaints](https://appleinsider.com/articles/24/12/18/satechi-6-in-1-slim-usb-c-adapter-review-few-ports-fewer-complaints?utm_medium=rss)
- - [Bluesky&#39;s use of domains to verify users has led to cybersquatting and impersonation, as domains don&#39;t offer enough social proof for the average person &lpar;Ernie Smith/Tedium&rpar;](http://www.techmeme.com/241217/p38#a241217p38)
- - [7 Anti-Snoring Products for a Peaceful Slumber](https://www.cnet.com/health/sleep/anti-snoring-devices/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Bluesky&#39;s use of domains to verify users has led to cybersquatting and impersonation, as domains don&#39;t offer enough social proof for the average person &lpar;Ernie Smith/Tedium&rpar;](http://www.techmeme.com/241217/p38#a241217p38)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
