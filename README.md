@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [This Z-Wave smart plug can work over a mile from your house](https://www.theverge.com/2024/12/18/24324097/shelly-wave-zwave-long-range-smart-plug-availability)
- - [Social networks in 2024: bless this mess](https://www.theverge.com/24314116/bluesky-threads-2024-social-media-networks-fediverse-twitter-x)
- - [Q&amp;A with Microsoft Chief Product Officer of Responsible AI Sarah Bird on generative AI, its impact on work, Copilots, OpenAI, AGI, AI agents, bias, and more &lpar;Cristina Criddle/Financial Times&rpar;](http://www.techmeme.com/241218/p21#a241218p21)<!-- TECH:END -->
+ - [Alphabet’s Wing will deliver DoorDash by drone in Dallas-Fort Worth](https://www.theverge.com/2024/12/18/24324111/alphabet-wing-doordash-drone-deliveries-dallas-fort-worth)
+ - [8 great games for your Steam Deck](https://www.theverge.com/24305570/steam-deck-best-games-2024-verified-playable-valve)
+ - [Seagate is getting ready to launch its first high-capacity HAMR hard drive](https://www.theverge.com/2024/12/18/24324143/seagate-32tb-hamr-hard-drive)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
