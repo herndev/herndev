@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [A man enters through below the door when the shop is about to close](http://9gag.com/gag/aYQrV6x)
- - ⏩ [The almost perfect synchronization of scenes between the remake and the original film](http://9gag.com/gag/a1m1P3w)
- - 👉 [Okay now I need instruments for practical](http://9gag.com/gag/aByn241)<!-- MEMES:END -->
+ - 💣 [German police randomly searching dangerous people at the Christmas market....clown world.](http://9gag.com/gag/abAgeqL)
+ - ⏩ [Merry X-files you degenerates](http://9gag.com/gag/aGyzd3n)
+ - 👉 [Yeah](http://9gag.com/gag/aXProP2)<!-- MEMES:END -->
 
 ---
 
