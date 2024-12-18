@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [German police randomly searching dangerous people at the Christmas market....clown world.](http://9gag.com/gag/abAgeqL)
- - ⏩ [Merry X-files you degenerates](http://9gag.com/gag/aGyzd3n)
- - 👉 [Yeah](http://9gag.com/gag/aXProP2)<!-- MEMES:END -->
+ - 💣 [So the latest school shooter is a 17 year old girl. Statistically it was bound to happen eventually.](http://9gag.com/gag/ajPgmgq)
+ - ⏩ [Yeah](http://9gag.com/gag/aXProP2)
+ - 👉 [France. This will be deleted soon by leftist team of 9gag](http://9gag.com/gag/ayN9N8y)<!-- MEMES:END -->
 
 ---
 
