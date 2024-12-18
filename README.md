@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Fortnite leakers say Mariah Carey is on her way](https://www.polygon.com/fortnite/499114/fortnite-leaks-mariah-carey-christmas-ice-block-snoop-shaq-santa)
- - [Play a whole bunch of Far Cry, Assassin&#39;s Creed, and other Ubisoft classics for just $1](https://www.pcgamer.com/games/play-a-whole-bunch-of-far-cry-assassins-creed-and-other-ubisoft-classics-for-just-usd1/)
- - [Helldivers 2 Fans Are In Full Revolt Over Expensive Killzone Crossover Skins](https://kotaku.com/helldivers-2-killzone-helghast-price-controversy-1851724314)<!-- GAME:END -->
+ - [The best Blu-rays of 2024](https://www.polygon.com/24100988/best-blu-rays-2024-4k-uhd)
+ - [The director of Saw and Insidious is turning one of 2024&#39;s best survival games into a TV show](https://www.pcgamer.com/movies-tv/the-director-of-saw-and-insidious-is-turning-one-of-2024s-best-survival-games-into-a-tv-show/)
+ - [STALKER 2 is already profitable and will receive expansions, studio owner says](https://www.polygon.com/news/499129/stalker-2-gsc-game-world-profitable-dlc-expansions-multiplayer-netflix)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
