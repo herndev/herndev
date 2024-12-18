@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Dad recorded his music-loving daughter&#39;s growth over the years.](http://9gag.com/gag/aoygKmA)
- - ⏩ [Bro did not hesitate](http://9gag.com/gag/an7gg7B)
- - 👉 [This is what it means when Google Weather says &#39;Feels Like Snowing&#39;](http://9gag.com/gag/agmgoOK)<!-- MEMES:END -->
+ - 💣 [He looks familiar](http://9gag.com/gag/aoyg5R2)
+ - ⏩ [Welcome to London \ud83d\ude43](http://9gag.com/gag/axyBBDb)
+ - 👉 [When you thought the game was on easy mode](http://9gag.com/gag/a9y1EEm)<!-- MEMES:END -->
 
 ---
 
