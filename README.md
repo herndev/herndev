@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Unsure which of the big 3 networks works best in your area? Here’s the easiest way to try them all](https://www.androidauthority.com/how-to-try-all-three-networks-3510026/)
- - [Data center operator Vultr raised $333M led by LuminArx, with participation from AMD and others, at a $3.5B valuation, its first outside funding round &lpar;Belle Lin/Wall Street Journal&rpar;](http://www.techmeme.com/241218/p22#a241218p22)
- - [Best AI app to effortlessly remove background from image on Mac](https://appleinsider.com/articles/24/12/18/best-ai-app-to-effortlessly-remove-background-from-image-on-mac?utm_medium=rss)<!-- TECH:END -->
+ - [Sources: Amazon recently pushed back RTO dates for some staff in Austin, Dallas, and Phoenix by as much as four months, citing a lack of office space &lpar;Bloomberg&rpar;](http://www.techmeme.com/241218/p25#a241218p25)
+ - [Steve Jobs&#39; original Macintosh demo site is now rubble](https://appleinsider.com/articles/24/12/18/steve-jobs-original-macintosh-demo-site-is-now-rubble?utm_medium=rss)
+ - [The New Jersey drone hysteria exposes one salient truth: no one knows anything](https://www.theverge.com/2024/12/18/24324142/nj-drone-sightings-politicians-wrong)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
