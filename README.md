@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [When you thought the game was on easy mode](http://9gag.com/gag/a9y1EEm)
- - ⏩ [Merry X-files you degenerates](http://9gag.com/gag/aGyzd3n)
- - 👉 [Yeah](http://9gag.com/gag/aXProP2)<!-- MEMES:END -->
+ - 💣 [Sigh.. what do you expect](http://9gag.com/gag/aqyGnwL)
+ - ⏩ [Do I look like a new girlfriend?](http://9gag.com/gag/aNDPpjb)
+ - 👉 [The female schoolshooter shared a link to a private manifesto no one can read, before she started blasting.](http://9gag.com/gag/aXProxz)<!-- MEMES:END -->
 
 ---
 
