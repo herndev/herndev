@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Witcher IV: Bringing Ciri into A World of Her Own](https://news.xbox.com/en-us/2024/12/18/the-witcher-4-bringing-ciri-into-a-world-of-her-own/)
- - [The 6 best anime openings of 2024](https://www.polygon.com/anime/460535/best-anime-openings-2024-credits-intros)
- - [If you love mystery novels and detective shows, The Rise of the Golden Idol is the perfect game for you](https://www.pcgamer.com/games/adventure/if-you-love-mystery-novels-and-detective-shows-the-rise-of-the-golden-idol-is-the-perfect-game-for-you/)<!-- GAME:END -->
+ - [Creating Atomfall’s Haunting Casterfell Woods – Check Out Exclusive New Screenshots](https://news.xbox.com/en-us/2024/12/18/atomfall-casterfell-woods-exclusive-screenshots-trailer-breakdown/)
+ - [The Naughtiest And Nicest Christmas Movies, Based On Blood, Joy, And F-Bombs](https://kotaku.com/christmas-movie-home-alone-charlie-brown-holdovers-1851723041)
+ - [Where is the giant turtle in Fortnite?](https://www.polygon.com/fortnite-guide/488662/giant-turtle-location-great-turtle)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
