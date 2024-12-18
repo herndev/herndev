@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Sigh.. what do you expect](http://9gag.com/gag/aqyGnwL)
- - ⏩ [Do I look like a new girlfriend?](http://9gag.com/gag/aNDPpjb)
- - 👉 [The female schoolshooter shared a link to a private manifesto no one can read, before she started blasting.](http://9gag.com/gag/aXProxz)<!-- MEMES:END -->
+ - 💣 [Lol](http://9gag.com/gag/aGyzEdK)
+ - ⏩ [The state of gaming](http://9gag.com/gag/aW4gg5A)
+ - 👉 [Its not young people...its....](http://9gag.com/gag/aLnv1pz)<!-- MEMES:END -->
 
 ---
 
