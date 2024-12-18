@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The female schoolshooter shared a link to a private manifesto no one can read, before she started blasting.](http://9gag.com/gag/aXProxz)
- - ⏩ [So the latest school shooter is a 17 year old girl. Statistically it was bound to happen eventually.](http://9gag.com/gag/ajPgmgq)
- - 👉 [The 1%: The Beginnings](http://9gag.com/gag/adBgVWV)<!-- MEMES:END -->
+ - 💣 [A quick swim while parasailing](http://9gag.com/gag/a341ZL8)
+ - ⏩ [He looks familiar](http://9gag.com/gag/aoyg5R2)
+ - 👉 [Slowly recall all your mind](http://9gag.com/gag/a1m11bG)<!-- MEMES:END -->
 
 ---
 
