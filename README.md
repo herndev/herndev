@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google app on iOS could add AI suggestions to speed up your search &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-app-ios-ai-suggestions-3509813/)
- - [Game emulator Delta adds an in-app link to pay via Patreon outside of the App Store, likely the first US app to use Apple&#39;s External Purchase Link Entitlement &lpar;John Voorhees/MacStories&rpar;](http://www.techmeme.com/241217/p33#a241217p33)
- - [OpenAI says it&#39;s rolling out o1 to its API for some developers, announces new versions of GPT-4o and GPT-4o mini as part of the Realtime API, and more &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/241217/p32#a241217p32)<!-- TECH:END -->
+ - [The Verge’s 2024 holiday gift guide for dads](https://www.theverge.com/24224045/best-gift-ideas-dad-holiday-unique-2024-tech-gadgets)
+ - [Apple’s App Store is inviting me to ‘search the way you talk’](https://www.theverge.com/2024/12/17/24323780/app-store-natural-language-search-ios-18-iphone-ipad-apple)
+ - [Here’s how your Pixel’s Phone app could start getting you into using Audio Emoji](https://www.androidauthority.com/audio-emoji-button-3509827/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
