@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This Dad surprises daughter with gift of a lifetime](http://9gag.com/gag/a341E77)
- - ⏩ [How stupid are you?](http://9gag.com/gag/azxemDq)
- - 👉 [Do I look like a new girlfriend?](http://9gag.com/gag/aNDPpjb)<!-- MEMES:END -->
+ - 💣 [Kamala would&#39;ve given her a credit card](http://9gag.com/gag/azxeM6b)
+ - ⏩ [New cars with screens everywhere, haptic feedback buttons and full of electronics that are expensive to repair. Sometimes less is more.](http://9gag.com/gag/aQzXXzz)
+ - 👉 [Its not young people...its....](http://9gag.com/gag/aLnv1pz)<!-- MEMES:END -->
 
 ---
 
