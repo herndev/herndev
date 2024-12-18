@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [One of Path of Exile 2’s toughest bosses gets patched to be less of a buzzkill](https://www.pcgamer.com/games/one-of-path-of-exile-2s-toughest-bosses-gets-patched-to-be-less-of-a-buzzkill/)
- - [The Big Con is a charming, funny crime caper about scamming your way through the greatest era in human history: The 1990s](https://www.pcgamer.com/games/sim/the-big-con-is-a-charming-funny-crime-caper-about-scamming-your-way-through-the-greatest-era-in-human-history-the-1990s/)
- - [Today&#39;s Wordle answer for Wednesday, December 18](https://www.pcgamer.com/games/puzzle/wordle-answer-today-december-18-2024/)<!-- GAME:END -->
+ - [Sonic 3 is a speedrun through the franchise scrapyard, yet it works](https://www.polygon.com/review/498909/sonic-3-movie-review)
+ - [Intel says &#39;demand for Arc B580 graphics cards is high&#39; but the GPU should be restocked every week](https://www.pcgamer.com/hardware/graphics-cards/intel-says-demand-for-arc-b580-graphics-cards-is-high-but-the-gpu-should-be-restocked-every-week/)
+ - [Fallout&#39;s Tim Cain spent 6 years working on defunct MMO WildStar, twice as long as any other game, and thinks that might have something to do with why it failed](https://www.pcgamer.com/games/mmo/fallouts-tim-cain-spent-6-years-working-on-defunct-mmo-wildstar-twice-as-long-as-any-other-game-and-thinks-that-might-have-something-to-do-with-why-it-failed/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
