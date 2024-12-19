@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Biden administration passes the torch to local leaders to keep climate action alive](https://www.theverge.com/2024/12/19/24324456/us-climate-goal-paris-agreement-biden-administration-trump)
- - [Tracxn: Indian startup funding rounds fell 32% YoY to 1,448 in 2024, but overall funding rose 6% YoY to $11.3B; 40+ startups completed IPOs, up 80% YoY &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/241219/p12#a241219p12)
- - [Android 16 Developer Preview 2 makes Google Keep a system app you can’t uninstall](https://www.androidauthority.com/android-16-google-keep-system-app-3510278/)<!-- TECH:END -->
+ - [A look at the quickly disappearing web, as digital decay and link rot erase all kinds of media; a Pew study says 38% of webpages accessible in 2013 are now gone &lpar;S.E. Smith/The Verge&rpar;](http://www.techmeme.com/241219/p15#a241219p15)
+ - [Sony buys ~$320M of shares in Japanese media powerhouse Kadokawa, which owns FromSoftware, taking its stake to ~10% and becoming Kadokawa&#39;s top shareholder &lpar;Kiyoshi Takenaka/Reuters&rpar;](http://www.techmeme.com/241219/p14#a241219p14)
+ - [This phone can change color based on the seasons](https://www.androidauthority.com/color-changing-temperature-sensitive-smartphone-3509995/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
