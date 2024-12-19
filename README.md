@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Mental health generation!](http://9gag.com/gag/azxeeBp)
- - ⏩ [American modern math](http://9gag.com/gag/aAyGQVp)
- - 👉 [I, for one, like Roman numerals](http://9gag.com/gag/agmgBM1)<!-- MEMES:END -->
+ - 💣 [France. This will be deleted soon by leftist team of 9gag](http://9gag.com/gag/ayN9N8y)
+ - ⏩ [Payback time](http://9gag.com/gag/an7g73V)
+ - 👉 [A quick swim while parasailing](http://9gag.com/gag/a341ZL8)<!-- MEMES:END -->
 
 ---
 
