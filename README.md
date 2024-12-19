@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Wait for the light to turn green...](http://9gag.com/gag/aAyGEgp)
- - ⏩ [What a B*tch!](http://9gag.com/gag/aW4g743)
- - 👉 [King of Spain during improper flag raising](http://9gag.com/gag/aNDPvb4)<!-- MEMES:END -->
+ - 💣 [How great the weather feels is up to you. How sexy it feels is up to your news channel.](http://9gag.com/gag/a1m1DvR)
+ - ⏩ [Run away Matt! Run away!](http://9gag.com/gag/aLnvzvA)
+ - 👉 [I didn&#39;t know but now I know, and you know too.](http://9gag.com/gag/aE08VPM)<!-- MEMES:END -->
 
 ---
 
