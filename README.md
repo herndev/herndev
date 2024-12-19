@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [This waterproof coffin will keep an AirTag alive for a decade](https://www.theverge.com/2024/12/18/24324526/elevation-lab-time-capsule-apple-air-tag-battery-life)
- - [The best smartwatches for Android](https://www.theverge.com/23449363/best-android-smartwatches-wear-os)
- - [Wrapped 2024: the annual app recaps are here](https://www.theverge.com/24301386/spotify-wrapped-2024-apple-music-replay-youtube-music-recap)<!-- TECH:END -->
+ - [Honda teases reveal of two new Honda Zero EV prototypes](https://www.theverge.com/2024/12/18/24323492/honda-zero-ces-prototype-tease-ev-saloon-space-hub)
+ - [Super-charged Now Playing experience with album art &amp; more now hitting Pixel phones](https://www.androidauthority.com/enhanced-now-playing-3510216/)
+ - [Awesome retro speakers from Fender and Marshall on sale!](https://www.androidauthority.com/fender-audio-riff-marshall-tufton-deals-3510182/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
