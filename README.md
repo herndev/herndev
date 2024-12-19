@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Balatro’s creator isn’t happy about the game’s 18-plus rating in Europe](https://www.theverge.com/2024/12/18/24324626/balatro-localthunk-18-plus-rating-europe-pegi)
- - [The Ember Travel Mug 2 Plus will keep your drink hot, and it’s $60 off](https://www.androidauthority.com/ember-travel-mug-2-deal-3510181/)
- - [Apple says EU interoperability laws pose severe privacy risks](https://appleinsider.com/articles/24/12/19/apple-says-eu-interoperability-laws-pose-severe-privacy-risks?utm_medium=rss)<!-- TECH:END -->
+ - [Here are the best AirPods deals you can get right now](https://www.theverge.com/21302051/best-apple-airpods-deals)
+ - [Chinese self-driving trucking company TuSimple rebrands to CreateAI, in a pivot to generative AI for video games and animation, and debuts its first model, Ruyi &lpar;Evelyn Cheng/CNBC&rpar;](http://www.techmeme.com/241218/p38#a241218p38)
+ - [Sources: Elon Musk has tapped Steve Davis, who oversaw Twitter&#39;s cost-cutting, former US CTO Michael Kratsios, and others to interview potential DOGE candidates &lpar;Bloomberg&rpar;](http://www.techmeme.com/241218/p37#a241218p37)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
