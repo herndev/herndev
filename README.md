@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Japanese journalist interviewing a Latina journalist &lpar;dude almost had a nosebleed like in anime&rpar;](http://9gag.com/gag/axyBWLD)
- - ⏩ [Do I look like a new girlfriend?](http://9gag.com/gag/aNDPpjb)
- - 👉 [Girl tried to kill 10 people with a gun at a school in Brazil, Lyedja Yasmin, 19](http://9gag.com/gag/aD2D2LN)<!-- MEMES:END -->
+ - 💣 [German police randomly searching dangerous people at the Christmas market....clown world.](http://9gag.com/gag/abAgeqL)
+ - ⏩ [They are not Romanians, they are Gypsies. Let the healing begin.](http://9gag.com/gag/amogWGo)
+ - 👉 [Story found on the internet](http://9gag.com/gag/a0eZe9n)<!-- MEMES:END -->
 
 ---
 
