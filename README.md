@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Steam&#39;s Big Xmas Sale Is Live And Here Are The Best Deals](https://kotaku.com/steam-winter-sale-christmas-best-deals-pc-biggest-valve-1851725607)
- - [Palworld Technology tree Pal equip unlock list](https://www.polygon.com/palworld-guides/24055957/technology-tree-pal-unlocks-equips)
- - [Palworld passive skills list](https://www.polygon.com/palworld-guides/24051783/passive-skills-list)<!-- GAME:END -->
+ - [Post Trauma Reimagines Old School Horror on Xbox in 2025](https://news.xbox.com/en-us/2024/12/19/post-trauma-reimagines-old-school-horror-on-xbox-in-2025/)
+ - [The best deals in the 2024 Steam Winter Sale](https://www.pcgamer.com/software/platforms/steam-winter-sale-2024-best-deals/)
+ - [Dune: Prophecy Renewed For Second Season Of Bene Gesserit Mayhem](https://kotaku.com/dune-prophecy-season-2-hbo-bebe-gesserit-news-1851725756)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
