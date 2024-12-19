@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How to use the Golden Idol and others in Path of Exile 2](https://www.pcgamer.com/games/rpg/path-of-exile-2-idol-quest/)
- - [The New Superman Movie Trailer Is Here And It&#39;s A Whole Lot](https://kotaku.com/superman-trailer-james-gunn-krypto-dog-lex-luthor-1851725124)
- - [Spice Up Your Pokémon TCG Pocket Collection With Cards in Different Languages](https://kotaku.com/pokemon-tcg-pocket-cards-different-languages-japanese-1851724650)<!-- GAME:END -->
+ - [Xbox Insider Program Community Update – December 2024](https://news.xbox.com/en-us/2024/12/19/xbox-insider-program-community-update-december-2024/)
+ - [I made this Venn diagram to explain the year’s best animated movies](https://www.polygon.com/animation-cartoons/499141/wild-robot-robot-dreams-flow-best-animated-movies-2024-venn-diagram)
+ - [This upcoming RPG is injecting a healthy dose of magic, demons, and steampunk gizmos into 19th-century Japan](https://www.pcgamer.com/games/rpg/this-upcoming-rpg-is-injecting-a-healthy-dose-of-magic-demons-and-steampunk-gizmos-into-19th-century-japan/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
