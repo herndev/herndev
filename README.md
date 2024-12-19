@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [American modern math](http://9gag.com/gag/aAyGQVp)
- - ⏩ [At least she didn&#39;t run and yell](http://9gag.com/gag/a871EX1)
- - 👉 [Do I look like a new girlfriend?](http://9gag.com/gag/aNDPpjb)<!-- MEMES:END -->
+ - 💣 [Always Bruv!](http://9gag.com/gag/aKGm6nW)
+ - ⏩ [Do I look like a new girlfriend?](http://9gag.com/gag/aNDPpjb)
+ - 👉 [This is a fiction show, but lots of women really behave like this irl, zero accountability.](http://9gag.com/gag/aW4gGjn)<!-- MEMES:END -->
 
 ---
 
