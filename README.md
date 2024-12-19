@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon Warehouse Workers Across US Strike Ahead of Holiday Rush](https://www.wired.com/story/amazon-warehouse-workers-across-us-strike-ahead-of-holiday-rush/)
- - [More Android phones can now start using Google’s version of Apple Handoff](https://www.androidauthority.com/android-cross-device-expands-3510458/)
- - [Sources: Insight Partners, which bought Dotmatics for around $629M in 2021, is exploring options for the R&amp;D software maker, including selling it for $5B+ &lpar;Bloomberg&rpar;](http://www.techmeme.com/241219/p25#a241219p25)<!-- TECH:END -->
+ - [Sonic 4 is already in the works](https://www.theverge.com/2024/12/19/24325163/sonic-4-confirmed-paramount-pictures-sonic-the-hedgehog)
+ - [Google releases Gemini 2.0 Flash Thinking Experimental, with the ability to &quot;reason over the most complex problems&quot; in fields like programming and physics &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/241219/p27#a241219p27)
+ - [Valve will be Lenovo’s ‘special guest’ at just-announced gaming handheld event](https://www.theverge.com/2024/12/19/24325072/lenovo-legion-go-ces-event-valve-microsoft)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
