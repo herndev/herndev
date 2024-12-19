@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Honda teases reveal of two new Honda Zero EV prototypes](https://www.theverge.com/2024/12/18/24323492/honda-zero-ces-prototype-tease-ev-saloon-space-hub)
- - [Super-charged Now Playing experience with album art &amp; more now hitting Pixel phones](https://www.androidauthority.com/enhanced-now-playing-3510216/)
- - [Awesome retro speakers from Fender and Marshall on sale!](https://www.androidauthority.com/fender-audio-riff-marshall-tufton-deals-3510182/)<!-- TECH:END -->
+ - [Balatro’s creator isn’t happy about the game’s 18-plus rating in Europe](https://www.theverge.com/2024/12/18/24324626/balatro-localthunk-18-plus-rating-europe-pegi)
+ - [The Ember Travel Mug 2 Plus will keep your drink hot, and it’s $60 off](https://www.androidauthority.com/ember-travel-mug-2-deal-3510181/)
+ - [Apple says EU interoperability laws pose severe privacy risks](https://appleinsider.com/articles/24/12/19/apple-says-eu-interoperability-laws-pose-severe-privacy-risks?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
