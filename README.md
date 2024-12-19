@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The almost perfect synchronization of scenes between the remake and the original film](http://9gag.com/gag/a1m1P3w)
- - ⏩ [Merry Christmas](http://9gag.com/gag/aVvxvxK)
- - 👉 [American modern math](http://9gag.com/gag/aAyGQVp)<!-- MEMES:END -->
+ - 💣 [New Uber update](http://9gag.com/gag/ayN936X)
+ - ⏩ [Unstoppable Workweek Power..](http://9gag.com/gag/aPAZxnQ)
+ - 👉 [New fear unlocked](http://9gag.com/gag/abAgvp9)<!-- MEMES:END -->
 
 ---
 
