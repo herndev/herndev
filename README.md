@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Vampire Survivors is free for one day only and that&amp;#8217;s today](https://www.polygon.com/gaming/499801/vampire-survivors-epic-games-store-free)
- - [Marvel Rivals Doesn’t Explain What &#39;Season Bonus&#39; Is, So We Looked Into It For You](https://kotaku.com/marvel-rivals-season-bonus-team-up-health-damage-1851725468)
- - [Every Mario game available on Nintendo Switch, ranked](https://www.polygon.com/nintendo-switch/22339948/mario-games-ranked-switch-super-nintendo-64-luigi-yoshi)<!-- GAME:END -->
+ - [Breaking down the Superman trailer, from heroes to villains](https://www.polygon.com/movies/499615/superman-2025-trailer-breakdown-metamorpho-krypto-green-lantern)
+ - [Only 15% of all Steam users&#39; time was spent playing games released in 2024](https://www.pcgamer.com/games/only-15-percent-of-all-steam-users-time-was-spent-playing-games-released-in-2024/)
+ - [Stranger Things&#39; Final Season Has Finished Filming](https://kotaku.com/stranger-things-season-5-filming-news-1851725506)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
