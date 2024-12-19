@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to Make Your Holidays as Waste-Free as Possible: DIY Tips and Advice](https://www.wired.com/story/how-to-make-your-holidays-as-waste-free-as-possible/)
- - [Anthropic, whose CEO Dario Amodei has been quite vocal about opposing Trump, and OpenAI look to hire people with ties to Trump and GOP for their policy teams &lpar;Stephanie Palazzolo/The Information&rpar;](http://www.techmeme.com/241219/p30#a241219p30)
- - [Thousands of Amazon delivery drivers at seven hubs are on strike](https://www.theverge.com/2024/12/19/24325243/amazon-delivery-drivers-teamsters-strike)<!-- TECH:END -->
+ - [Backflip, which is building AI models that can produce 3D designs using text, sketches, or photos as prompts, raised a $30M Series A co-led by NEA and a16z &lpar;Charles Rollet/TechCrunch&rpar;](http://www.techmeme.com/241219/p31#a241219p31)
+ - [Android 16 will let apps block AI writing tools](https://www.androidauthority.com/android-16-ai-writing-tools-3510521/)
+ - [The 66 Best Movies on Disney+ Right Now &lpar;December 2024&rpar;](https://www.wired.com/story/best-movies-disney-plus/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
