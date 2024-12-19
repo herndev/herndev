@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [New Uber update](http://9gag.com/gag/ayN936X)
- - ⏩ [Unstoppable Workweek Power..](http://9gag.com/gag/aPAZxnQ)
- - 👉 [New fear unlocked](http://9gag.com/gag/abAgvp9)<!-- MEMES:END -->
+ - 💣 [Who made the mistake first. No road clo](http://9gag.com/gag/a7o1qoz)
+ - ⏩ [New fear unlocked](http://9gag.com/gag/abAgvp9)
+ - 👉 [Unstoppable Workweek Power..](http://9gag.com/gag/aPAZxnQ)<!-- MEMES:END -->
 
 ---
 
