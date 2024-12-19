@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [22 TV Shows on Netflix Perfect for Your Next Binge-Watch](https://www.cnet.com/tech/services-and-software/best-tv-shows-netflix-2024/#ftag=CAD590a51e)
- - [Decart, which helps organizations train AI models at scale, raised a $32M Series A, sources say at a $500M+ valuation, after a $21M seed in October 2024 &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/241219/p22#a241219p22)
- - [Sony now owns a much bigger piece of FromSoftware’s parent company](https://www.theverge.com/2024/12/19/24324975/sony-kadokawa-corporation-majority-shareholder-fromsoftware)<!-- TECH:END -->
+ - [Apple-Nvidia collaboration triples speed of AI model production](https://appleinsider.com/articles/24/12/19/apple-nvidia-collaboration-triples-speed-of-ai-model-production?utm_medium=rss)
+ - [This Unemployment Class-Action Settlement Closes Tomorrow: Are You Eligible?](https://www.cnet.com/personal-finance/this-unemployment-class-action-settlement-closes-tomorrow-are-you-eligible/#ftag=CAD590a51e)
+ - [Future MacBook notch may get replaced with removable cameras on a rotating screen](https://appleinsider.com/articles/24/07/30/future-macbook-notch-may-get-replaced-with-removable-cameras-on-a-rotating-screen?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
