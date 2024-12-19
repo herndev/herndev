@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Diversity](http://9gag.com/gag/a2v17Oe)
- - ⏩ [Always Bruv!](http://9gag.com/gag/aKGm6nW)
- - 👉 [Do I look like a new girlfriend?](http://9gag.com/gag/aNDPpjb)<!-- MEMES:END -->
+ - 💣 [Japanese journalist interviewing a Latina journalist &lpar;dude almost had a nosebleed like in anime&rpar;](http://9gag.com/gag/axyBWLD)
+ - ⏩ [Do I look like a new girlfriend?](http://9gag.com/gag/aNDPpjb)
+ - 👉 [Girl tried to kill 10 people with a gun at a school in Brazil, Lyedja Yasmin, 19](http://9gag.com/gag/aD2D2LN)<!-- MEMES:END -->
 
 ---
 
