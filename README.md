@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: neobank Chime confidentially files for a US IPO, aiming to go public in 2025; Chime had a $25B valuation in August 2021 &lpar;Bloomberg&rpar;](http://www.techmeme.com/241218/p39#a241218p39)
- - [DJI escapes US drone ban — but may get banned automatically unless Trump steps in](https://www.theverge.com/2024/12/18/24324702/dji-drone-ban-ndaa-trump)
- - [Here are the best AirPods deals you can get right now](https://www.theverge.com/21302051/best-apple-airpods-deals)<!-- TECH:END -->
+ - [El Salvador agrees to scale back its bitcoin efforts, including making acceptance of bitcoin voluntary for the private sector, in exchange for a $1.4B IMF loan &lpar;Vince Dioquino/Decrypt&rpar;](http://www.techmeme.com/241218/p41#a241218p41)
+ - [Two Tencent-appointed Epic board directors resigned after the DOJ expressed antitrust concerns; Tencent also gave up its right to appoint future Epic directors &lpar;Deadline&rpar;](http://www.techmeme.com/241218/p40#a241218p40)
+ - [Sources: neobank Chime confidentially files for a US IPO, aiming to go public in 2025; Chime had a $25B valuation in August 2021 &lpar;Bloomberg&rpar;](http://www.techmeme.com/241218/p39#a241218p39)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
