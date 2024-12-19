@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Not all heroes wear capes](http://9gag.com/gag/ajPggWG)
- - ⏩ [In the absence of a mobile phone, this is how I imagine about myself.](http://9gag.com/gag/aZZrn7V)
- - 👉 [This is a fiction show, but lots of women really behave like this irl, zero accountability.](http://9gag.com/gag/aW4gGjn)<!-- MEMES:END -->
+ - 💣 [Japanese journalist interviewing a Latina journalist &lpar;dude almost had a nosebleed like in anime&rpar;](http://9gag.com/gag/axyBWLD)
+ - ⏩ [Even us Asians are afraid of female Asian driving](http://9gag.com/gag/aByny3x)
+ - 👉 [A quick swim while parasailing](http://9gag.com/gag/a341ZL8)<!-- MEMES:END -->
 
 ---
 
