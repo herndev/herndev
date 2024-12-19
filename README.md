@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The almost perfect synchronization of scenes between the remake and the original film](http://9gag.com/gag/a1m1P3w)
- - ⏩ [He actually needs that](http://9gag.com/gag/aPAZA4g)
- - 👉 [Peter Parker should have picked Ursula over MJ.](http://9gag.com/gag/aQzXgnW)<!-- MEMES:END -->
+ - 💣 [Wait for the light to turn green...](http://9gag.com/gag/aAyGEgp)
+ - ⏩ [What a B*tch!](http://9gag.com/gag/aW4g743)
+ - 👉 [King of Spain during improper flag raising](http://9gag.com/gag/aNDPvb4)<!-- MEMES:END -->
 
 ---
 
