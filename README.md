@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at the quickly disappearing web, as digital decay and link rot erase all kinds of media; a Pew study says 38% of webpages accessible in 2013 are now gone &lpar;S.E. Smith/The Verge&rpar;](http://www.techmeme.com/241219/p15#a241219p15)
- - [Sony buys ~$320M of shares in Japanese media powerhouse Kadokawa, which owns FromSoftware, taking its stake to ~10% and becoming Kadokawa&#39;s top shareholder &lpar;Kiyoshi Takenaka/Reuters&rpar;](http://www.techmeme.com/241219/p14#a241219p14)
- - [This phone can change color based on the seasons](https://www.androidauthority.com/color-changing-temperature-sensitive-smartphone-3509995/)<!-- TECH:END -->
+ - [Updated Gemini app on iOS just ran laps around Apple Intelligence](https://www.androidauthority.com/gemini-2-ios-update-3510366/)
+ - [Apple pushed hard by EU to make iOS and iPadOS more interoperable](https://www.theverge.com/2024/12/19/24324894/apple-eu-ios-interoperability-requests-dma-pushback)
+ - [Swiss tech advisory SoftwareOne to buy Norwegian rival Crayon in a cash and stock deal valuing Crayon at ~$1.4B; the combined firm will have ~$1.8B in revenue &lpar;Paul Arnold/Reuters&rpar;](http://www.techmeme.com/241219/p17#a241219p17)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
