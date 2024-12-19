@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Breaking down the Superman trailer, from heroes to villains](https://www.polygon.com/movies/499615/superman-2025-trailer-breakdown-metamorpho-krypto-green-lantern)
- - [Only 15% of all Steam users&#39; time was spent playing games released in 2024](https://www.pcgamer.com/games/only-15-percent-of-all-steam-users-time-was-spent-playing-games-released-in-2024/)
- - [Stranger Things&#39; Final Season Has Finished Filming](https://kotaku.com/stranger-things-season-5-filming-news-1851725506)<!-- GAME:END -->
+ - [The Steam Winter Sale inculdes some of 2024&amp;#8217;s best games](https://www.polygon.com/sales-guide/499988/steam-winter-sale-best-games-2024-deal)
+ - [Every Mario game available on Nintendo Switch, ranked](https://www.polygon.com/nintendo-switch/22339948/mario-games-ranked-switch-super-nintendo-64-luigi-yoshi)
+ - [Frostpunk 2 developer 11 bit studios cancels unannounced project and lays off employees](https://www.pcgamer.com/gaming-industry/frostpunk-2-developer-11-bit-studios-cancels-unannounced-project-and-lays-off-employees/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
