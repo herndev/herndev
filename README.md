@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Who made the mistake first. No road clo](http://9gag.com/gag/a7o1qoz)
- - ⏩ [New fear unlocked](http://9gag.com/gag/abAgvp9)
- - 👉 [Unstoppable Workweek Power..](http://9gag.com/gag/aPAZxnQ)<!-- MEMES:END -->
+ - 💣 [Italian food is the best](http://9gag.com/gag/ajPgPzG)
+ - ⏩ [When they ask `what is you talent?`](http://9gag.com/gag/a0eZX5v)
+ - 👉 [How great the weather feels is up to you. How sexy it feels is up to your news channel.](http://9gag.com/gag/a1m1DvR)<!-- MEMES:END -->
 
 ---
 
