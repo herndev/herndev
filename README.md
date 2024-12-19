@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Japanese journalist interviewing a Latina journalist &lpar;dude almost had a nosebleed like in anime&rpar;](http://9gag.com/gag/axyBWLD)
- - ⏩ [Here we go](http://9gag.com/gag/a1m1mj6)
- - 👉 [People are strange](http://9gag.com/gag/arynywX)<!-- MEMES:END -->
+ - 💣 [Payback time](http://9gag.com/gag/an7g73V)
+ - ⏩ [A quick swim while parasailing](http://9gag.com/gag/a341ZL8)
+ - 👉 [Girl tried to kill 10 people with a gun at a school in Brazil, Lyedja Yasmin, 19](http://9gag.com/gag/aD2D2LN)<!-- MEMES:END -->
 
 ---
 
