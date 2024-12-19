@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Getting Started with Xbox Series X|S](https://news.xbox.com/en-us/2024/11/15/getting-started-with-xbox-series-xs-2024/#new_tab)
- - [Dan Da Dan season 2 coming next summer](https://www.polygon.com/anime/499723/dan-da-dan-season-2-release-date)
- - [PC VR wizard is gearing up to weave his magic on Ubisoft&#39;s 2023 open-world adventure](https://www.pcgamer.com/games/pc-vr-wizard-is-gearing-up-to-weave-his-magic-on-ubisofts-2023-open-world-adventure/)<!-- GAME:END -->
+ - [How to solve ‘Forced Perspective: Capturing the Thief’ in Infinity Nikki](https://www.polygon.com/infinity-nikki-guides/499674/forced-perspective-capturing-thief-solution)
+ - [Sony to become largest shareholder in FromSoftware parent company Kadokawa](https://www.polygon.com/news/499710/sony-kadokawa-fromsoftware-largest-shareholder-acquisition)
+ - [OneXPlayer has teased a handheld PC with a removable keyboard that&#39;s getting me all sorts of excited for laptop/handheld hybrids](https://www.pcgamer.com/hardware/handheld-gaming-pcs/onexplayer-has-teased-a-handheld-pc-with-a-removable-keyboard-thats-getting-me-all-sorts-of-excited-for-laptop-handheld-hybrids/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
