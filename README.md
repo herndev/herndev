@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Become the best DM for less than $20 with this Ultimate RPG books bundle](https://www.polygon.com/tabletop-games/499517/ultimate-rpg-series-deal-james-damato-bundle-humble)
- - [Project Zomboid&#39;s new Build 42 update, 3 years in the making, is the biggest game release of 2024 for me—here&#39;s why](https://www.pcgamer.com/games/survival-crafting/project-zomboid-build-42-update-patch-notes-new-features/)
- - [&#39;Gooner 9/11&#39; averted as Zenless Zone Zero&#39;s butt-obfuscation technology is rolled back in the face of horny outrage](https://www.pcgamer.com/games/rpg/gooner-9-11-averted-as-zenless-zone-zeros-butt-obfuscation-technology-is-rolled-back-in-the-face-of-horny-outrage/)<!-- GAME:END -->
+ - [XDefiant&#39;s final content patch is unexpectedly massive: &#39;Not all journeys end well but we can all be proud of what we accomplished&#39;](https://www.pcgamer.com/games/fps/xdefiants-final-content-patch-is-unexpectedly-massive-not-all-journeys-end-well-but-we-can-all-be-proud-of-what-we-accomplished/)
+ - [The mother of all XCOM 2 mods just got its first update in a year, with 9445 words of patch notes proving it worthy of the Long War name](https://www.pcgamer.com/games/strategy/the-mother-of-all-xcom-2-mods-just-got-its-first-update-in-a-year-with-9445-words-of-patch-notes-proving-it-worthy-of-the-long-war-name/)
+ - [Steam Replay shows how your 2024 gaming habits compare to the average user](https://www.pcgamer.com/games/steam-replay-shows-how-your-gaming-habits-compare-to-the-average-user/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
