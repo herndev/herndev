@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: the US&#39; proposed AI chip rules would block adversaries entirely, and give others quotas based on their US alignment, threatening Nvidia&#39;s expansion &lpar;New York Times&rpar;](http://www.techmeme.com/241219/p29#a241219p29)
- - [Google reveals AI ‘reasoning’ model that ‘explicitly shows its thoughts’](https://www.theverge.com/2024/12/19/24325169/google-ai-reasoning-model-gemini-flash-2-thinking)
- - [Every AI Copyright Lawsuit in the US, Visualized](https://www.wired.com/story/ai-copyright-case-tracker/)<!-- TECH:END -->
+ - [How to Make Your Holidays as Waste-Free as Possible: DIY Tips and Advice](https://www.wired.com/story/how-to-make-your-holidays-as-waste-free-as-possible/)
+ - [Anthropic, whose CEO Dario Amodei has been quite vocal about opposing Trump, and OpenAI look to hire people with ties to Trump and GOP for their policy teams &lpar;Stephanie Palazzolo/The Information&rpar;](http://www.techmeme.com/241219/p30#a241219p30)
+ - [Thousands of Amazon delivery drivers at seven hubs are on strike](https://www.theverge.com/2024/12/19/24325243/amazon-delivery-drivers-teamsters-strike)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
