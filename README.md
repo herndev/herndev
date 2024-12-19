@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Christmas Gorilla \ud83c\udf84 \ud83e\udd8d](http://9gag.com/gag/aMV44zx)
- - ⏩ [Guess I&#39;ll die now](http://9gag.com/gag/aO8QQ4y)
- - 👉 [Payback time](http://9gag.com/gag/an7g73V)<!-- MEMES:END -->
+ - 💣 [This is a fiction show, but lots of women really behave like this irl, zero accountability.](http://9gag.com/gag/aW4gGjn)
+ - ⏩ [I, for one, like Roman numerals](http://9gag.com/gag/agmgBM1)
+ - 👉 [This gave me some brain freeze\u2026](http://9gag.com/gag/aMV44RP)<!-- MEMES:END -->
 
 ---
 
