@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [James Gunn’s Superman trailer reveals the start of a new DC Universe](https://www.polygon.com/trailer/491088/superman-teaser-james-gunn-krypto-mister-terrific)
- - [&#39;Negotiations are underway&#39; for a Stalker 2 Netflix show, because bleak post-apocalyptic fiction and Chornobyl are a killer TV combo](https://www.pcgamer.com/games/fps/negotiations-are-underway-for-a-stalker-2-netflix-show-because-bleak-post-apocalyptic-fiction-and-chornobyl-are-a-killer-tv-combo/)
- - [PEGI digs its heels in over Balatro&#39;s 18+ rating, according to its disappointed dev: &#39;blaming EU laws, blaming storefronts, waiting for the future&#39;](https://www.pcgamer.com/games/roguelike/pegi-digs-its-heels-in-over-balatros-18-rating-according-to-its-disappointed-dev-blaming-eu-laws-blaming-storefronts-waiting-for-the-future/)<!-- GAME:END -->
+ - [How to use the Golden Idol and others in Path of Exile 2](https://www.pcgamer.com/games/rpg/path-of-exile-2-idol-quest/)
+ - [The New Superman Movie Trailer Is Here And It&#39;s A Whole Lot](https://kotaku.com/superman-trailer-james-gunn-krypto-dog-lex-luthor-1851725124)
+ - [Spice Up Your Pokémon TCG Pocket Collection With Cards in Different Languages](https://kotaku.com/pokemon-tcg-pocket-cards-different-languages-japanese-1851724650)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
