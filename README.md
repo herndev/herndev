@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This electrician came to change the front bulb so I decided that she should change all of them while at it](http://9gag.com/gag/a9y1yKL)
- - ⏩ [Italian food is the best](http://9gag.com/gag/ajPgPzG)
- - 👉 [They are not Romanians, they are Gypsies. Let the healing begin.](http://9gag.com/gag/amogWGo)<!-- MEMES:END -->
+ - 💣 [Always Bruv!](http://9gag.com/gag/aKGm6nW)
+ - ⏩ [The almost perfect synchronization of scenes between the remake and the original film](http://9gag.com/gag/a1m1P3w)
+ - 👉 [When you thought the game was on easy mode](http://9gag.com/gag/a9y1EEm)<!-- MEMES:END -->
 
 ---
 
