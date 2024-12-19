@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google accused of lowering the bar for how reviewers rate Gemini output](https://www.androidauthority.com/gemini-experts-3510517/)
- - [The best phone to buy right now](https://www.theverge.com/22163811/best-phone)
- - [Chrome may be deploying a new tool to combat scammers](https://www.androidauthority.com/google-chrome-ai-scam-detection-3510543/)<!-- TECH:END -->
+ - [Here are the best iPad deals right now](https://www.theverge.com/21280354/best-ipad-deals-apple)
+ - [YouTube plans to start a crackdown on &quot;egregious clickbait&quot;, or videos where the titles or thumbnails make claims the videos don&#39;t back up, beginning in India &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/241219/p33#a241219p33)
+ - [This amazingly thin Baseus Power Bank is 35% off!](https://www.androidauthority.com/baseus-power-bank-thin-deal-3510551/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
