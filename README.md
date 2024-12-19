@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s Indonesia iPhone 16 ban drama will probably end with $1 billion investment](https://appleinsider.com/articles/24/12/19/apples-indonesia-iphone-16-ban-drama-will-probably-end-with-1-billion-investment?utm_medium=rss)
- - [All of Our Hopes and Fears for Tech in 2025](https://www.wired.com/story/uncanny-valley-podcast-7-tech-hopes-fears/)
- - [9 Best Standing Desks of 2024, Tested and Reviewed](https://www.wired.com/gallery/best-standing-desks/)<!-- TECH:END -->
+ - [ChatGPT now has a phone number, and calling is free](https://www.androidauthority.com/chatgpt-has-phone-number-3510395/)
+ - [Tencent &amp; ByteDance may be Apple Intelligence launch partners in China](https://appleinsider.com/articles/24/12/19/tencent-bytedance-may-be-apple-intelligence-launch-partners-in-china?utm_medium=rss)
+ - [EU interoperability spat shows Apple and Meta will never agree about privacy](https://appleinsider.com/articles/24/12/19/eu-interoperability-spat-shows-apple-and-meta-will-never-agree-about-privacy?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
