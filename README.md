@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Italian food is the best](http://9gag.com/gag/ajPgPzG)
- - ⏩ [When they ask `what is you talent?`](http://9gag.com/gag/a0eZX5v)
- - 👉 [How great the weather feels is up to you. How sexy it feels is up to your news channel.](http://9gag.com/gag/a1m1DvR)<!-- MEMES:END -->
+ - 💣 [Girl tried to kill 10 people with a gun at a school in Brazil, Lyedja Yasmin, 19](http://9gag.com/gag/aD2D2LN)
+ - ⏩ [No good deed goes unpunished](http://9gag.com/gag/ayN92Zr)
+ - 👉 [A woman in Argentina left her dog locked in her car without cracking a window all day long &lpar;it&#39;s summer over there now&rpar;. She found it dead inside and her car surrounded by people who verbally abused her for animal cruelty](http://9gag.com/gag/a6Z1q4R)<!-- MEMES:END -->
 
 ---
 
