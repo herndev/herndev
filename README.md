@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Payback time](http://9gag.com/gag/an7g73V)
- - ⏩ [A quick swim while parasailing](http://9gag.com/gag/a341ZL8)
- - 👉 [Girl tried to kill 10 people with a gun at a school in Brazil, Lyedja Yasmin, 19](http://9gag.com/gag/aD2D2LN)<!-- MEMES:END -->
+ - 💣 [The almost perfect synchronization of scenes between the remake and the original film](http://9gag.com/gag/a1m1P3w)
+ - ⏩ [Merry Christmas](http://9gag.com/gag/aVvxvxK)
+ - 👉 [American modern math](http://9gag.com/gag/aAyGQVp)<!-- MEMES:END -->
 
 ---
 
