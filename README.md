@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How to solve ‘Forced Perspective: Capturing the Thief’ in Infinity Nikki](https://www.polygon.com/infinity-nikki-guides/499674/forced-perspective-capturing-thief-solution)
- - [Sony to become largest shareholder in FromSoftware parent company Kadokawa](https://www.polygon.com/news/499710/sony-kadokawa-fromsoftware-largest-shareholder-acquisition)
- - [OneXPlayer has teased a handheld PC with a removable keyboard that&#39;s getting me all sorts of excited for laptop/handheld hybrids](https://www.pcgamer.com/hardware/handheld-gaming-pcs/onexplayer-has-teased-a-handheld-pc-with-a-removable-keyboard-thats-getting-me-all-sorts-of-excited-for-laptop-handheld-hybrids/)<!-- GAME:END -->
+ - [Vampire Survivors is free for one day only and that&amp;#8217;s today](https://www.polygon.com/gaming/499801/vampire-survivors-epic-games-store-free)
+ - [Marvel Rivals Doesn’t Explain What &#39;Season Bonus&#39; Is, So We Looked Into It For You](https://kotaku.com/marvel-rivals-season-bonus-team-up-health-damage-1851725468)
+ - [Every Mario game available on Nintendo Switch, ranked](https://www.polygon.com/nintendo-switch/22339948/mario-games-ranked-switch-super-nintendo-64-luigi-yoshi)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
