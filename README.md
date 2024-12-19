@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Xbox Insider Program Community Update – December 2024](https://news.xbox.com/en-us/2024/12/19/xbox-insider-program-community-update-december-2024/)
- - [I made this Venn diagram to explain the year’s best animated movies](https://www.polygon.com/animation-cartoons/499141/wild-robot-robot-dreams-flow-best-animated-movies-2024-venn-diagram)
- - [This upcoming RPG is injecting a healthy dose of magic, demons, and steampunk gizmos into 19th-century Japan](https://www.pcgamer.com/games/rpg/this-upcoming-rpg-is-injecting-a-healthy-dose-of-magic-demons-and-steampunk-gizmos-into-19th-century-japan/)<!-- GAME:END -->
+ - [Getting Started with Xbox Series X|S](https://news.xbox.com/en-us/2024/11/15/getting-started-with-xbox-series-xs-2024/#new_tab)
+ - [Dan Da Dan season 2 coming next summer](https://www.polygon.com/anime/499723/dan-da-dan-season-2-release-date)
+ - [PC VR wizard is gearing up to weave his magic on Ubisoft&#39;s 2023 open-world adventure](https://www.pcgamer.com/games/pc-vr-wizard-is-gearing-up-to-weave-his-magic-on-ubisofts-2023-open-world-adventure/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
