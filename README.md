@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Japanese journalist interviewing a Latina journalist &lpar;dude almost had a nosebleed like in anime&rpar;](http://9gag.com/gag/axyBWLD)
- - ⏩ [Even us Asians are afraid of female Asian driving](http://9gag.com/gag/aByny3x)
- - 👉 [A quick swim while parasailing](http://9gag.com/gag/a341ZL8)<!-- MEMES:END -->
+ - ⏩ [Here we go](http://9gag.com/gag/a1m1mj6)
+ - 👉 [People are strange](http://9gag.com/gag/arynywX)<!-- MEMES:END -->
 
 ---
 
