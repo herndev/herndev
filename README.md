@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at Truth Terminal, an AI bot on X that was created to spark debate about AI alignment, as its crypto wallet swells to ~$40M after boosting memecoins &lpar;Joel Khalili/Wired&rpar;](http://www.techmeme.com/241219/p9#a241219p9)
- - [EU’s latest push could make iOS and Android besties](https://www.androidauthority.com/eu-pushes-apple-third-parties-into-ecosystem-3510283/)
- - [KitchenAid Promo Codes and Coupons: $170 Off Select Items](https://www.wired.com/story/exclusive-kitchenaid-promo-code/)<!-- TECH:END -->
+ - [Biden administration passes the torch to local leaders to keep climate action alive](https://www.theverge.com/2024/12/19/24324456/us-climate-goal-paris-agreement-biden-administration-trump)
+ - [Tracxn: Indian startup funding rounds fell 32% YoY to 1,448 in 2024, but overall funding rose 6% YoY to $11.3B; 40+ startups completed IPOs, up 80% YoY &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/241219/p12#a241219p12)
+ - [Android 16 Developer Preview 2 makes Google Keep a system app you can’t uninstall](https://www.androidauthority.com/android-16-google-keep-system-app-3510278/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
