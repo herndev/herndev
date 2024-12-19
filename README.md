@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [ChatGPT now has a phone number, and calling is free](https://www.androidauthority.com/chatgpt-has-phone-number-3510395/)
- - [Tencent &amp; ByteDance may be Apple Intelligence launch partners in China](https://appleinsider.com/articles/24/12/19/tencent-bytedance-may-be-apple-intelligence-launch-partners-in-china?utm_medium=rss)
- - [EU interoperability spat shows Apple and Meta will never agree about privacy](https://appleinsider.com/articles/24/12/19/eu-interoperability-spat-shows-apple-and-meta-will-never-agree-about-privacy?utm_medium=rss)<!-- TECH:END -->
+ - [22 TV Shows on Netflix Perfect for Your Next Binge-Watch](https://www.cnet.com/tech/services-and-software/best-tv-shows-netflix-2024/#ftag=CAD590a51e)
+ - [Decart, which helps organizations train AI models at scale, raised a $32M Series A, sources say at a $500M+ valuation, after a $21M seed in October 2024 &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/241219/p22#a241219p22)
+ - [Sony now owns a much bigger piece of FromSoftware’s parent company](https://www.theverge.com/2024/12/19/24324975/sony-kadokawa-corporation-majority-shareholder-fromsoftware)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
