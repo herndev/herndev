@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Always Bruv!](http://9gag.com/gag/aKGm6nW)
- - ⏩ [Do I look like a new girlfriend?](http://9gag.com/gag/aNDPpjb)
- - 👉 [This is a fiction show, but lots of women really behave like this irl, zero accountability.](http://9gag.com/gag/aW4gGjn)<!-- MEMES:END -->
+ - 💣 [Mental health generation!](http://9gag.com/gag/azxeeBp)
+ - ⏩ [American modern math](http://9gag.com/gag/aAyGQVp)
+ - 👉 [I, for one, like Roman numerals](http://9gag.com/gag/agmgBM1)<!-- MEMES:END -->
 
 ---
 
