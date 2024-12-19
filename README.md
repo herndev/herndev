@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Global shipments of wrist-worn wearables hit 139M units in the first nine months of 2024, down 1% YoY; China was the largest market with 45.8M units, up 20% YoY &lpar;IDC&rpar;](http://www.techmeme.com/241219/p2#a241219p2)
- - [Lens, a high-performance layer-2 blockchain developed by Avara for consumer apps, raised $31M led by Lightspeed Faction, and plans to launch Lens v3 in Q1 2025 &lpar;Romain Dillet/TechCrunch&rpar;](http://www.techmeme.com/241219/p1#a241219p1)
- - [How to apply Quartz filters in macOS when saving images in Preview](https://appleinsider.com/inside/macos/tips/how-to-apply-quartz-filters-in-macos-when-saving-images-in-preview?utm_medium=rss)<!-- TECH:END -->
+ - [Alejandro Mayorkas, the US DHS&#39; outgoing secretary, says Europe&#39;s &quot;adversarial&quot; relationship with tech companies is hampering a global approach to AI regulation &lpar;Financial Times&rpar;](http://www.techmeme.com/241219/p5#a241219p5)
+ - [Analysis: Alphabet&#39;s shares have jumped about 30% from a September low, with a chunk of those gains coming after Google unveiled its Willow quantum chip &lpar;Ryan Vlastelica/Bloomberg&rpar;](http://www.techmeme.com/241219/p4#a241219p4)
+ - [Pixel throws a holiday jab at the iPhone in Google’s latest Christmas ad](https://www.androidauthority.com/google-pixel-iphone-holiday-ad-3510257/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
