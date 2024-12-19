@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Always Bruv!](http://9gag.com/gag/aKGm6nW)
- - ⏩ [The almost perfect synchronization of scenes between the remake and the original film](http://9gag.com/gag/a1m1P3w)
- - 👉 [When you thought the game was on easy mode](http://9gag.com/gag/a9y1EEm)<!-- MEMES:END -->
+ - 💣 [Diversity](http://9gag.com/gag/a2v17Oe)
+ - ⏩ [Always Bruv!](http://9gag.com/gag/aKGm6nW)
+ - 👉 [Do I look like a new girlfriend?](http://9gag.com/gag/aNDPpjb)<!-- MEMES:END -->
 
 ---
 
