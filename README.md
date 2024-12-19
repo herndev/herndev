@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [KitchenAid Promo Codes and Coupons: $170 Off Select Items](https://www.wired.com/story/exclusive-kitchenaid-promo-code/)
- - [An analysis of nearly 4,000 public datasets finds that over 90% of AI training datasets came from Europe and North America, and fewer than 4% came from Africa &lpar;Melissa Heikkil&amp;auml;/MIT Technology Review&rpar;](http://www.techmeme.com/241219/p8#a241219p8)
- - [Anthropic demonstrates &quot;alignment faking&quot; in Claude 3 Opus to show how developers could be misled into thinking an LLM is more aligned than it may actually be &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/241219/p7#a241219p7)<!-- TECH:END -->
+ - [A look at Truth Terminal, an AI bot on X that was created to spark debate about AI alignment, as its crypto wallet swells to ~$40M after boosting memecoins &lpar;Joel Khalili/Wired&rpar;](http://www.techmeme.com/241219/p9#a241219p9)
+ - [EU’s latest push could make iOS and Android besties](https://www.androidauthority.com/eu-pushes-apple-third-parties-into-ecosystem-3510283/)
+ - [KitchenAid Promo Codes and Coupons: $170 Off Select Items](https://www.wired.com/story/exclusive-kitchenaid-promo-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
