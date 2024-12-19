@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [&#39;Gooner 9/11&#39; averted as Zenless Zone Zero&#39;s butt-obfuscation technology is rolled back in the face of horny outrage](https://www.pcgamer.com/games/rpg/gooner-9-11-averted-as-zenless-zone-zeros-butt-obfuscation-technology-is-rolled-back-in-the-face-of-horny-outrage/)
- - [Final Fantasy 7 Rebirth director asks modders to avoid making anything &#39;offensive or inappropriate,&#39; Final Fantasy 7 modding community says &#39;yeah sure&#39;](https://www.pcgamer.com/games/rpg/final-fantasy-7-rebirth-director-asks-modders-to-avoid-making-anything-offensive-or-inappropriate-final-fantasy-7-modding-community-says-yeah-sure/)
- - [NBA Team Apologizes After Pretending To Give Kid A PS5, Then Taking It Away](https://kotaku.com/nba-team-hornets-ps5-prank-skit-sorry-kid-christmas-1851724737)<!-- GAME:END -->
+ - [Become the best DM for less than $20 with this Ultimate RPG books bundle](https://www.polygon.com/tabletop-games/499517/ultimate-rpg-series-deal-james-damato-bundle-humble)
+ - [Project Zomboid&#39;s new Build 42 update, 3 years in the making, is the biggest game release of 2024 for me—here&#39;s why](https://www.pcgamer.com/games/survival-crafting/project-zomboid-build-42-update-patch-notes-new-features/)
+ - [&#39;Gooner 9/11&#39; averted as Zenless Zone Zero&#39;s butt-obfuscation technology is rolled back in the face of horny outrage](https://www.pcgamer.com/games/rpg/gooner-9-11-averted-as-zenless-zone-zeros-butt-obfuscation-technology-is-rolled-back-in-the-face-of-horny-outrage/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
