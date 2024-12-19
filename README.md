@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Updated Gemini app on iOS just ran laps around Apple Intelligence](https://www.androidauthority.com/gemini-2-ios-update-3510366/)
- - [Apple pushed hard by EU to make iOS and iPadOS more interoperable](https://www.theverge.com/2024/12/19/24324894/apple-eu-ios-interoperability-requests-dma-pushback)
- - [Swiss tech advisory SoftwareOne to buy Norwegian rival Crayon in a cash and stock deal valuing Crayon at ~$1.4B; the combined firm will have ~$1.8B in revenue &lpar;Paul Arnold/Reuters&rpar;](http://www.techmeme.com/241219/p17#a241219p17)<!-- TECH:END -->
+ - [Apple&#39;s Indonesia iPhone 16 ban drama will probably end with $1 billion investment](https://appleinsider.com/articles/24/12/19/apples-indonesia-iphone-16-ban-drama-will-probably-end-with-1-billion-investment?utm_medium=rss)
+ - [All of Our Hopes and Fears for Tech in 2025](https://www.wired.com/story/uncanny-valley-podcast-7-tech-hopes-fears/)
+ - [9 Best Standing Desks of 2024, Tested and Reviewed](https://www.wired.com/gallery/best-standing-desks/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
