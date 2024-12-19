@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [France. This will be deleted soon by leftist team of 9gag](http://9gag.com/gag/ayN9N8y)
- - ⏩ [Payback time](http://9gag.com/gag/an7g73V)
- - 👉 [A quick swim while parasailing](http://9gag.com/gag/a341ZL8)<!-- MEMES:END -->
+ - 💣 [Christmas Gorilla \ud83c\udf84 \ud83e\udd8d](http://9gag.com/gag/aMV44zx)
+ - ⏩ [Guess I&#39;ll die now](http://9gag.com/gag/aO8QQ4y)
+ - 👉 [Payback time](http://9gag.com/gag/an7g73V)<!-- MEMES:END -->
 
 ---
 
