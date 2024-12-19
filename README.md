@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Here are the best AirPods deals you can get right now](https://www.theverge.com/21302051/best-apple-airpods-deals)
- - [Chinese self-driving trucking company TuSimple rebrands to CreateAI, in a pivot to generative AI for video games and animation, and debuts its first model, Ruyi &lpar;Evelyn Cheng/CNBC&rpar;](http://www.techmeme.com/241218/p38#a241218p38)
- - [Sources: Elon Musk has tapped Steve Davis, who oversaw Twitter&#39;s cost-cutting, former US CTO Michael Kratsios, and others to interview potential DOGE candidates &lpar;Bloomberg&rpar;](http://www.techmeme.com/241218/p37#a241218p37)<!-- TECH:END -->
+ - [Sources: neobank Chime confidentially files for a US IPO, aiming to go public in 2025; Chime had a $25B valuation in August 2021 &lpar;Bloomberg&rpar;](http://www.techmeme.com/241218/p39#a241218p39)
+ - [DJI escapes US drone ban — but may get banned automatically unless Trump steps in](https://www.theverge.com/2024/12/18/24324702/dji-drone-ban-ndaa-trump)
+ - [Here are the best AirPods deals you can get right now](https://www.theverge.com/21302051/best-apple-airpods-deals)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
