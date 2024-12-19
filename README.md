@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Today&#39;s NYT Mini Crossword Answers for Thursday, Dec. 19](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-thursday-dec-19/#ftag=CAD590a51e)
- - [Today&#39;s NYT Strands Hints, Answers and Help for Dec. 19, #291](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-dec-19-291/#ftag=CAD590a51e)
- - [Today&#39;s NYT Connections Hints, Answers and Help for Dec. 19, #557](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-dec-19-557/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Global shipments of wrist-worn wearables hit 139M units in the first nine months of 2024, down 1% YoY; China was the largest market with 45.8M units, up 20% YoY &lpar;IDC&rpar;](http://www.techmeme.com/241219/p2#a241219p2)
+ - [Lens, a high-performance layer-2 blockchain developed by Avara for consumer apps, raised $31M led by Lightspeed Faction, and plans to launch Lens v3 in Q1 2025 &lpar;Romain Dillet/TechCrunch&rpar;](http://www.techmeme.com/241219/p1#a241219p1)
+ - [How to apply Quartz filters in macOS when saving images in Preview](https://appleinsider.com/inside/macos/tips/how-to-apply-quartz-filters-in-macos-when-saving-images-in-preview?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
