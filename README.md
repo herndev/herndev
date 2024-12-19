@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Intel quietly slips out another Raptor Lake refresh with the Core 200-series mobile CPU lineup](https://www.pcgamer.com/hardware/processors/intel-quietly-slips-out-another-raptor-lake-refresh-with-the-core-200-series-mobile-cpu-lineup/)
- - [Arm pushes back against Qualcomm in court, claiming it&#39;s not out to be a chip competitor and the current licence situation is losing them $50 million in revenue](https://www.pcgamer.com/hardware/processors/arm-pushes-back-against-qualcomm-in-court-claiming-its-not-out-to-be-a-chip-competitor-and-the-current-licence-situation-is-losing-them-usd50-million-in-revenue/)
- - [Stalker 2 revives A-Life with a mondo-huge 110 GB Christmas patch that marks the game&#39;s first major update](https://www.pcgamer.com/games/fps/stalker-2-revives-a-life-with-a-mondo-huge-110-gb-christmas-patch-that-marks-the-games-first-major-update/)<!-- GAME:END -->
+ - [James Gunn’s Superman trailer reveals the start of a new DC Universe](https://www.polygon.com/trailer/491088/superman-teaser-james-gunn-krypto-mister-terrific)
+ - [&#39;Negotiations are underway&#39; for a Stalker 2 Netflix show, because bleak post-apocalyptic fiction and Chornobyl are a killer TV combo](https://www.pcgamer.com/games/fps/negotiations-are-underway-for-a-stalker-2-netflix-show-because-bleak-post-apocalyptic-fiction-and-chornobyl-are-a-killer-tv-combo/)
+ - [PEGI digs its heels in over Balatro&#39;s 18+ rating, according to its disappointed dev: &#39;blaming EU laws, blaming storefronts, waiting for the future&#39;](https://www.pcgamer.com/games/roguelike/pegi-digs-its-heels-in-over-balatros-18-rating-according-to-its-disappointed-dev-blaming-eu-laws-blaming-storefronts-waiting-for-the-future/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
