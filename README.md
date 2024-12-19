@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Zotac Zbox Magnus EN374070C review](https://www.pcgamer.com/hardware/gaming-pcs/zotac-zbox-magnus-en374070c-review/)
- - [Today&#39;s Wordle answer for Thursday, December 19](https://www.pcgamer.com/games/puzzle/wordle-answer-today-december-19-2024/)
- - [XDefiant&#39;s final content patch is unexpectedly massive: &#39;Not all journeys end well but we can all be proud of what we accomplished&#39;](https://www.pcgamer.com/games/fps/xdefiants-final-content-patch-is-unexpectedly-massive-not-all-journeys-end-well-but-we-can-all-be-proud-of-what-we-accomplished/)<!-- GAME:END -->
+ - [Intel quietly slips out another Raptor Lake refresh with the Core 200-series mobile CPU lineup](https://www.pcgamer.com/hardware/processors/intel-quietly-slips-out-another-raptor-lake-refresh-with-the-core-200-series-mobile-cpu-lineup/)
+ - [Arm pushes back against Qualcomm in court, claiming it&#39;s not out to be a chip competitor and the current licence situation is losing them $50 million in revenue](https://www.pcgamer.com/hardware/processors/arm-pushes-back-against-qualcomm-in-court-claiming-its-not-out-to-be-a-chip-competitor-and-the-current-licence-situation-is-losing-them-usd50-million-in-revenue/)
+ - [Stalker 2 revives A-Life with a mondo-huge 110 GB Christmas patch that marks the game&#39;s first major update](https://www.pcgamer.com/games/fps/stalker-2-revives-a-life-with-a-mondo-huge-110-gb-christmas-patch-that-marks-the-games-first-major-update/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
