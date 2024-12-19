@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Backflip, which is building AI models that can produce 3D designs using text, sketches, or photos as prompts, raised a $30M Series A co-led by NEA and a16z &lpar;Charles Rollet/TechCrunch&rpar;](http://www.techmeme.com/241219/p31#a241219p31)
- - [Android 16 will let apps block AI writing tools](https://www.androidauthority.com/android-16-ai-writing-tools-3510521/)
- - [The 66 Best Movies on Disney+ Right Now &lpar;December 2024&rpar;](https://www.wired.com/story/best-movies-disney-plus/)<!-- TECH:END -->
+ - [Google accused of lowering the bar for how reviewers rate Gemini output](https://www.androidauthority.com/gemini-experts-3510517/)
+ - [The best phone to buy right now](https://www.theverge.com/22163811/best-phone)
+ - [Chrome may be deploying a new tool to combat scammers](https://www.androidauthority.com/google-chrome-ai-scam-detection-3510543/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
