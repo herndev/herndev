@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Steam Winter Sale inculdes some of 2024&amp;#8217;s best games](https://www.polygon.com/sales-guide/499988/steam-winter-sale-best-games-2024-deal)
- - [Every Mario game available on Nintendo Switch, ranked](https://www.polygon.com/nintendo-switch/22339948/mario-games-ranked-switch-super-nintendo-64-luigi-yoshi)
- - [Frostpunk 2 developer 11 bit studios cancels unannounced project and lays off employees](https://www.pcgamer.com/gaming-industry/frostpunk-2-developer-11-bit-studios-cancels-unannounced-project-and-lays-off-employees/)<!-- GAME:END -->
+ - [Steam&#39;s Big Xmas Sale Is Live And Here Are The Best Deals](https://kotaku.com/steam-winter-sale-christmas-best-deals-pc-biggest-valve-1851725607)
+ - [Palworld Technology tree Pal equip unlock list](https://www.polygon.com/palworld-guides/24055957/technology-tree-pal-unlocks-equips)
+ - [Palworld passive skills list](https://www.polygon.com/palworld-guides/24051783/passive-skills-list)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
