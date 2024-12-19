@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sonic 4 is already in the works](https://www.theverge.com/2024/12/19/24325163/sonic-4-confirmed-paramount-pictures-sonic-the-hedgehog)
- - [Google releases Gemini 2.0 Flash Thinking Experimental, with the ability to &quot;reason over the most complex problems&quot; in fields like programming and physics &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/241219/p27#a241219p27)
- - [Valve will be Lenovo’s ‘special guest’ at just-announced gaming handheld event](https://www.theverge.com/2024/12/19/24325072/lenovo-legion-go-ces-event-valve-microsoft)<!-- TECH:END -->
+ - [Sources: the US&#39; proposed AI chip rules would block adversaries entirely, and give others quotas based on their US alignment, threatening Nvidia&#39;s expansion &lpar;New York Times&rpar;](http://www.techmeme.com/241219/p29#a241219p29)
+ - [Google reveals AI ‘reasoning’ model that ‘explicitly shows its thoughts’](https://www.theverge.com/2024/12/19/24325169/google-ai-reasoning-model-gemini-flash-2-thinking)
+ - [Every AI Copyright Lawsuit in the US, Visualized](https://www.wired.com/story/ai-copyright-case-tracker/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
