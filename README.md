@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [21 WIRED-Tested Gifts for People Who Need Some Sleep &lpar;2024&rpar;](https://www.wired.com/gallery/gift-ideas-for-sleeping/)
- - [&#39;Batman: Arkham Shadow&#39; Proves VR Gaming Isn&#39;t Just a Gimmick](https://www.wired.com/story/batman-arkham-shadow-is-a-glimpse-into-the-future-of-gaming-the-industry-should-pay-attention/)
- - [Robert Eggers wants you to see his Nosferatu as both a lover and a biter](https://www.theverge.com/2024/12/20/24322594/robert-eggers-nosferatu-interview)<!-- TECH:END -->
+ - [The MacBook Pro with M4 is matching its record low with $200 off](https://www.theverge.com/2024/12/20/24325777/apple-macbook-pro-m4-beats-studio-buds-plus-airtags-deal-sale)
+ - [The CFPB sues Zelle operator EWS, JPMorgan Chase, BoA, and Wells Fargo, alleging that customers lost $870M+ to fraud since the launch of Zelle in 2017 &lpar;Hugh Son/CNBC&rpar;](http://www.techmeme.com/241220/p11#a241220p11)
+ - [We repaired an iPhone to see if iOS 18 fixes iPhone repair](https://www.theverge.com/24325804/apple-iphone-ios-18-right-to-repair)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
