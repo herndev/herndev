@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [2025 will be the year of the smart lock](https://www.theverge.com/24313084/smart-lock-home-preview-2025-matter-apple)
- - [The Vergecast Matter Holiday Spec-tacular](https://www.theverge.com/2024/12/20/24325573/matter-protocol-thread-home-assistant-vergecast)
- - [Home Office Setup Guide &lpar;2024&rpar;: Webcams, Desks, Chairs, and More](https://www.wired.com/story/work-from-home-home-office-gear-guide/)<!-- TECH:END -->
+ - [21 WIRED-Tested Gifts for People Who Need Some Sleep &lpar;2024&rpar;](https://www.wired.com/gallery/gift-ideas-for-sleeping/)
+ - [&#39;Batman: Arkham Shadow&#39; Proves VR Gaming Isn&#39;t Just a Gimmick](https://www.wired.com/story/batman-arkham-shadow-is-a-glimpse-into-the-future-of-gaming-the-industry-should-pay-attention/)
+ - [Robert Eggers wants you to see his Nosferatu as both a lover and a biter](https://www.theverge.com/2024/12/20/24322594/robert-eggers-nosferatu-interview)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
