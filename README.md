@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Some people should not be on the road](http://9gag.com/gag/aPAZmLQ)
- - ⏩ [Over 200 rapes, still wants a public trial. Face of bravery](http://9gag.com/gag/a6Z152b)
- - 👉 [Because of AI, many artists are going back to traditional ways](http://9gag.com/gag/aPAZm1V)<!-- MEMES:END -->
+ - 💣 [`Hold on to the fish`](http://9gag.com/gag/amogWeV)
+ - ⏩ [12 seconds and he anexed \ud83d\udfe5](http://9gag.com/gag/apRg1ZW)
+ - 👉 [Interesting](http://9gag.com/gag/ae9g4M5)<!-- MEMES:END -->
 
 ---
 
