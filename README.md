@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Who wants to go next](http://9gag.com/gag/axyBy0W)
- - ⏩ [A dignified scam](http://9gag.com/gag/aQzXQx7)
- - 👉 [Girl tried to kill 10 people with a gun at a school in Brazil, Lyedja Yasmin, 19](http://9gag.com/gag/aD2D2LN)<!-- MEMES:END -->
+ - 💣 [Peter Parker should have picked Ursula over MJ.](http://9gag.com/gag/aQzXgnW)
+ - ⏩ [Gamble away](http://9gag.com/gag/a0eZewq)
+ - 👉 [New Uber update](http://9gag.com/gag/ayN936X)<!-- MEMES:END -->
 
 ---
 
