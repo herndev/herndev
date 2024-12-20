@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [When your instinct almost betray you](http://9gag.com/gag/a5Q1B8r)
+ - 💣 [Peter Parker should have picked Ursula over MJ.](http://9gag.com/gag/aQzXgnW)
  - ⏩ [Interesting](http://9gag.com/gag/ae9g4M5)
- - 👉 [Unstoppable Workweek Power..](http://9gag.com/gag/aPAZxnQ)<!-- MEMES:END -->
+ - 👉 [When your instinct almost betray you](http://9gag.com/gag/a5Q1B8r)<!-- MEMES:END -->
 
 ---
 
