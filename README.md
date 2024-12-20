@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [This finely-honed samurai strategy game deserves a place in the roguelike hall of fame this year just as much as Balatro](https://www.pcgamer.com/games/roguelike/this-finely-honed-samurai-strategy-game-deserves-a-place-in-the-roguelike-hall-of-fame-this-year-just-as-much-as-balatro/)
- - [Best Survival Game 2024: Pacific Drive](https://www.pcgamer.com/games/survival-crafting/best-survival-game-2024-pacific-drive/)
- - [Bloober&#39;s Silent Hill 2 was more remix than remake and that&#39;s why it was great](https://www.pcgamer.com/games/horror/bloobers-silent-hill-2-was-more-remix-than-remake-and-thats-why-it-was-great/)<!-- GAME:END -->
+ - [How to Ensure a Fun, Safe and Welcoming Gaming Experience for Your Kids on Xbox This Holiday Season](https://news.xbox.com/en-us/2024/11/15/xbox-family-settings-holiday/#new_tab)
+ - [How to get shiny Rayquaza in Pokémon Scarlet and Violet](https://www.polygon.com/pokemon-scarlet-violet-guide/500253/shiny-rayquaza-tera-raid-counters)
+ - [10 Awesome Movie-To-Game Adaptations To Play After Indiana Jones And The Great Circle](https://kotaku.com/best-movie-video-game-adaptations-indiana-jones-alien-1851726380)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
