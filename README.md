@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A federal jury in Delaware finds that Qualcomm didn&#39;t violate the terms of an agreement covering Arm&#39;s chip designs that was part of the $1.4B buyout of Nuvia &lpar;Bloomberg&rpar;](http://www.techmeme.com/241220/p22#a241220p22)
- - [Google is officially opening up Android Auto to weather apps, but you don’t have to wait](https://www.androidauthority.com/android-auto-weather-apps-3510840/)
- - [Here are the shipping and return policies for all the big-name retailers](https://www.theverge.com/21570161/holiday-shipping-return-policy-apple-google-microsoft-amazon)<!-- TECH:END -->
+ - [The best Xbox controller to buy right now](https://www.theverge.com/23025443/best-xbox-controllers-one-series-x-s)
+ - [Google Photos finally shows album info for pictures and videos](https://www.androidauthority.com/google-photos-shows-albums-info-3510857/)
+ - [Rumble announces a $775M investment from Tether and plans to use $525M to fund a tender offer for ~70M shares of its common stock; RUM jumps 35%+ after hours &lpar;Stephen Alpher/CoinDesk&rpar;](http://www.techmeme.com/241220/p25#a241220p25)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
