@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Malaysia says it has identified WhatsApp, Facebook, Instagram, X, YouTube, Telegram, WeChat, and TikTok as platforms that need to obtain a license by next year &lpar;Bloomberg&rpar;](http://www.techmeme.com/241220/p4#a241220p4)
- - [How thin is the Galaxy S25 Slim? We now have a better idea.](https://www.androidauthority.com/samsung-galaxy-s25-slim-thickness-3510689/)
- - [Birth of the web: Today’s the anniversary of the first website going live](https://www.androidauthority.com/anniversary-first-website-3510479/)<!-- TECH:END -->
+ - [With AI at the forefront, TECNO’s new image processing solutions will take your smartphone photography to the next level](https://www.androidauthority.com/techo-ai-image-processing-solutions-3510220/)
+ - [Bluesky updates its app that includes a separate mentions tab in notifications, protections against username squatting, and new controls for replies sorting &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/241220/p6#a241220p6)
+ - [14 Best Office Chairs of 2024— I&#39;ve Tested 55+ to Pick Them](https://www.wired.com/gallery/best-office-chairs/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
