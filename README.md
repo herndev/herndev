@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [WoW&#39;s Warband system is getting a facelift soon, with new campsite backgrounds and the ability to sort your alts into cute little themed groups](https://www.pcgamer.com/games/world-of-warcraft/wows-warband-system-is-getting-a-facelift-soon-with-new-campsite-backgrounds-and-the-ability-to-sort-your-alts-into-cute-little-themed-groups/)
- - [Windows 11 24H2 is the unwanted holiday gift that keeps on giving thanks to Auto HDR game crashes, audio device woes, odd bouts of stuttering and more](https://www.pcgamer.com/software/windows/windows-11-24h2-is-the-unwanted-holiday-gift-that-keeps-on-giving-thanks-to-auto-hdr-game-crashes-audio-device-woes-odd-bouts-of-stuttering-and-more/)
- - [The legendary South Park RPG that has over 50,000 &#39;Overwhelmingly Positive&#39; reviews on Steam is now cheaper than a cup of coffee](https://www.pcgamer.com/games/rpg/the-legendary-south-park-rpg-that-has-over-50-000-overwhelmingly-positive-reviews-on-steam-is-now-cheaper-than-a-cup-of-coffee/)<!-- GAME:END -->
+ - [XDefiant&#39;s closing-down content dump is enormous, unprecedented, and bleak](https://www.pcgamer.com/games/fps/xdefiants-closing-down-content-dump-is-enormous-unprecedented-and-bleak/)
+ - [Lenovo is showing off &#39;the future of handheld gaming&#39; next month and Valve being involved could signal it uses SteamOS](https://www.pcgamer.com/hardware/handheld-gaming-pcs/lenovo-is-showing-off-the-future-of-handheld-gaming-next-month-and-valve-being-involved-could-signal-it-uses-steamos/)
+ - [Ubisoft releases new Blood Dragon game... with NFTs](https://www.pcgamer.com/games/ubisoft-releases-new-blood-dragon-game-with-nfts/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
