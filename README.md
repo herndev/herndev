@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Moxie robot may be saved by a last-minute open-sourcing effort](https://appleinsider.com/articles/24/12/20/moxie-robot-may-be-saved-by-a-last-minute-open-sourcing-effort?utm_medium=rss)
- - [The US charges dual Russian and Israeli national Rostislav Panev for allegedly working with the LockBit ransomware group and seeks his extradition from Israel &lpar;Jamie Tarabay/Bloomberg&rpar;](http://www.techmeme.com/241220/p19#a241220p19)
- - [Do prepaid carriers have domestic roaming? Surprisingly, yes, but it’s not so straightforward](https://www.androidauthority.com/prepaid-carriers-domestic-roaming-3510069/)<!-- TECH:END -->
+ - [Google quietly solves a common photo issue for iOS to Android switchers](https://www.androidauthority.com/android-switch-burst-photo-transfer-3510810/)
+ - [Android Automotive is getting better multi-user support and a revamped media player app](https://www.androidauthority.com/android-automotive-24q4-update-3510832/)
+ - [The AI talent wars are just getting started](https://www.theverge.com/2024/12/20/24326135/ai-talent-wars-databricks-interview)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
