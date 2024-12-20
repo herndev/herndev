@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Man helps police make an arrest.](http://9gag.com/gag/aBynLZN)
- - ⏩ [When you try to be open but she is closed](http://9gag.com/gag/aE08Vxn)
- - 👉 [Gamble away](http://9gag.com/gag/a0eZewq)<!-- MEMES:END -->
+ - 💣 [12 seconds and he anexed \ud83d\udfe5](http://9gag.com/gag/apRg1ZW)
+ - ⏩ [Interesting](http://9gag.com/gag/ae9g4M5)
+ - 👉 [When you try to be open but she is closed](http://9gag.com/gag/aE08Vxn)<!-- MEMES:END -->
 
 ---
 
