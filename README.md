@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Street View may have helped solve a gruesome crime](https://www.androidauthority.com/google-street-view-homicide-evidence-3510607/)
- - [Charlotte, NC-based Aiwyn, which provides automation software for accounting firms, raised $113M led by KKR and Bessemer, bringing its total funding to $127M &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/241219/p34#a241219p34)
- - [Google Street View helped police solve a missing persons case](https://www.theverge.com/2024/12/19/24325360/google-street-view-police-solve-murder)<!-- TECH:END -->
+ - [Researchers unveil Genesis, an open-source generative physics engine that trains robots in simulated reality 430K times faster than in the real world &lpar;Benj Edwards/Ars Technica&rpar;](http://www.techmeme.com/241219/p35#a241219p35)
+ - [Bluesky now has a mentions tab in your notifications area](https://www.theverge.com/2024/12/19/24325515/bluesky-mentions-tab-notifications-update-1-96)
+ - [What Happens to My Benefits if the Federal Government Shuts Down Friday Midnight?](https://www.cnet.com/how-to/what-happens-to-my-benefits-if-the-federal-government-shuts-down-friday-midnight/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
