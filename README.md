@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [How great the weather feels is up to you. How sexy it feels is up to your news channel.](http://9gag.com/gag/a1m1DvR)
- - ⏩ [New Uber update](http://9gag.com/gag/ayN936X)
- - 👉 [King of Spain during improper flag raising](http://9gag.com/gag/aNDPvb4)<!-- MEMES:END -->
+ - 💣 [Some people should not be on the road](http://9gag.com/gag/aPAZmLQ)
+ - ⏩ [Over 200 rapes, still wants a public trial. Face of bravery](http://9gag.com/gag/a6Z152b)
+ - 👉 [Because of AI, many artists are going back to traditional ways](http://9gag.com/gag/aPAZm1V)<!-- MEMES:END -->
 
 ---
 
