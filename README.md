@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [XDefiant&#39;s closing-down content dump is enormous, unprecedented, and bleak](https://www.pcgamer.com/games/fps/xdefiants-closing-down-content-dump-is-enormous-unprecedented-and-bleak/)
- - [Lenovo is showing off &#39;the future of handheld gaming&#39; next month and Valve being involved could signal it uses SteamOS](https://www.pcgamer.com/hardware/handheld-gaming-pcs/lenovo-is-showing-off-the-future-of-handheld-gaming-next-month-and-valve-being-involved-could-signal-it-uses-steamos/)
- - [Ubisoft releases new Blood Dragon game... with NFTs](https://www.pcgamer.com/games/ubisoft-releases-new-blood-dragon-game-with-nfts/)<!-- GAME:END -->
+ - [Superman Returns’ teaser is one of the best Superman films ever made](https://www.polygon.com/opinion/499472/best-superman-movie-ever-made)
+ - [Genshin Impact Version 5.3 adds The Raging Battle Churns](https://blog.playstation.com/2024/12/20/genshin-impact-version-5-3-adds-the-raging-battle-churns/)
+ - [Sony decided fully four years ago to develop its own AI hardware for the PS5 Pro rather than using AMD tech and the big question is why](https://www.pcgamer.com/hardware/graphics-cards/sony-decided-fully-four-years-ago-to-develop-its-own-ai-hardware-for-the-ps5-pro-rather-than-using-amd-tech-and-the-big-question-is-why/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
