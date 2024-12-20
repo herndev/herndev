@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [In the absence of a mobile phone, this is how I imagine about myself.](http://9gag.com/gag/aZZrn7V)
- - ⏩ [Team Work](http://9gag.com/gag/awyz1n1)
- - 👉 [At one with nature](http://9gag.com/gag/aByn6PQ)<!-- MEMES:END -->
+ - 💣 [When your instinct almost betray you](http://9gag.com/gag/a5Q1B8r)
+ - ⏩ [Interesting](http://9gag.com/gag/ae9g4M5)
+ - 👉 [Unstoppable Workweek Power..](http://9gag.com/gag/aPAZxnQ)<!-- MEMES:END -->
 
 ---
 
