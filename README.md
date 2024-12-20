@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google quietly solves a common photo issue for iOS to Android switchers](https://www.androidauthority.com/android-switch-burst-photo-transfer-3510810/)
- - [Android Automotive is getting better multi-user support and a revamped media player app](https://www.androidauthority.com/android-automotive-24q4-update-3510832/)
- - [The AI talent wars are just getting started](https://www.theverge.com/2024/12/20/24326135/ai-talent-wars-databricks-interview)<!-- TECH:END -->
+ - [A federal jury in Delaware finds that Qualcomm didn&#39;t violate the terms of an agreement covering Arm&#39;s chip designs that was part of the $1.4B buyout of Nuvia &lpar;Bloomberg&rpar;](http://www.techmeme.com/241220/p22#a241220p22)
+ - [Google is officially opening up Android Auto to weather apps, but you don’t have to wait](https://www.androidauthority.com/android-auto-weather-apps-3510840/)
+ - [Here are the shipping and return policies for all the big-name retailers](https://www.theverge.com/21570161/holiday-shipping-return-policy-apple-google-microsoft-amazon)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
