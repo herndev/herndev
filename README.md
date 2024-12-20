@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Superman Returns’ teaser is one of the best Superman films ever made](https://www.polygon.com/opinion/499472/best-superman-movie-ever-made)
- - [Genshin Impact Version 5.3 adds The Raging Battle Churns](https://blog.playstation.com/2024/12/20/genshin-impact-version-5-3-adds-the-raging-battle-churns/)
- - [Sony decided fully four years ago to develop its own AI hardware for the PS5 Pro rather than using AMD tech and the big question is why](https://www.pcgamer.com/hardware/graphics-cards/sony-decided-fully-four-years-ago-to-develop-its-own-ai-hardware-for-the-ps5-pro-rather-than-using-amd-tech-and-the-big-question-is-why/)<!-- GAME:END -->
+ - [Genshin Impact version 5.3 livestream codes](https://www.polygon.com/genshin-impact-guides/498490/version-5-3-codes-livestream-redeem)
+ - [Ubisoft&#39;s New Game Has Rayman! And Blood Dragon! And NFTs!](https://kotaku.com/ubisoft-captain-laserhawk-the-game-nft-crypto-1851726108)
+ - [New to The Finals? These are the best weapons to unlock first](https://www.pcgamer.com/games/fps/new-to-the-finals-these-are-the-best-weapons-to-unlock-first/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
