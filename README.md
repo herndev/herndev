@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [This Unemployment Class Action Settlement Ends Today: Are You Eligible?](https://www.cnet.com/personal-finance/this-unemployment-class-action-settlement-ends-today-are-you-eligible/#ftag=CAD590a51e)
- - [Crypto executives worry that the EU&#39;s MiCA, which puts stringent conditions on crypto exchanges to list stablecoins like USDT, will drain liquidity from markets &lpar;Emily Nicolle/Bloomberg&rpar;](http://www.techmeme.com/241220/p2#a241220p2)
- - [eBay Coupon Codes and Deals: Up to 60% Off Select Items](https://www.wired.com/story/ebay-coupon-code/)<!-- TECH:END -->
+ - [You’ve heard of laptops with folding screens, but this one has a rollable screen](https://www.androidauthority.com/lenovo-rollable-laptop-3510093/)
+ - [Q&amp;A with Australia&#39;s eSafety Commissioner Julie Inman Grant on what led to the country&#39;s under-16 social media ban, enforcement, unintended consequences, more &lpar;Bobby Allyn/NPR&rpar;](http://www.techmeme.com/241220/p3#a241220p3)
+ - [Generative AI Still Needs to Prove Its Usefulness](https://www.wired.com/story/generative-ai-will-need-to-prove-its-usefulness/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
