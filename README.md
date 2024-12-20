@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [When your instinct almost betray you](http://9gag.com/gag/a5Q1B8r)
- - ⏩ [King of Spain during improper flag raising](http://9gag.com/gag/aNDPvb4)
- - 👉 [A dignified scam](http://9gag.com/gag/aQzXQx7)<!-- MEMES:END -->
+ - 💣 [How great the weather feels is up to you. How sexy it feels is up to your news channel.](http://9gag.com/gag/a1m1DvR)
+ - ⏩ [New Uber update](http://9gag.com/gag/ayN936X)
+ - 👉 [King of Spain during improper flag raising](http://9gag.com/gag/aNDPvb4)<!-- MEMES:END -->
 
 ---
 
