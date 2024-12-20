@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Experts say Apple&#39;s spyware notifications for victims are a game changer for research; the notifications direct the victims to nonprofit security lab Access Now &lpar;Lorenzo Franceschi-Bicchierai/TechCrunch&rpar;](http://www.techmeme.com/241220/p13#a241220p13)
- - [Apple begins pulling iPhone SE, 14, and 14 Plus from EU](https://www.theverge.com/2024/12/20/24325893/apple-usb-c-eu-iphone-se-iphone-14-iphone-14-plus)
- - [TikTok nonsense, iPhone 17 rumors, and the Blackmagic Camera on the AppleInsider Podcast](https://appleinsider.com/articles/24/12/20/tiktok-nonsense-iphone-17-rumors-and-the-blackmagic-camera-on-the-appleinsider-podcast?utm_medium=rss)<!-- TECH:END -->
+ - [Squid Game: Unleashed is a fun game and a terrible adaptation](https://www.theverge.com/2024/12/20/24325810/squid-game-unleashed-netflix-mobile-game)
+ - [Apple Vision Pro is driving VR use from games to healthcare and productivity](https://appleinsider.com/articles/24/12/20/apple-vision-pro-is-driving-vr-use-from-games-to-healthcare-and-productivity?utm_medium=rss)
+ - [Sam Altman says Elon Musk is &quot;clearly a bully&quot; who is suing OpenAI because the startup is doing really well and calls the lawsuits &quot;a little bit of a sideshow&quot; &lpar;Fortune&rpar;](http://www.techmeme.com/241220/p14#a241220p14)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
