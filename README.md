@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Genshin Impact version 5.3 livestream codes](https://www.polygon.com/genshin-impact-guides/498490/version-5-3-codes-livestream-redeem)
- - [Ubisoft&#39;s New Game Has Rayman! And Blood Dragon! And NFTs!](https://kotaku.com/ubisoft-captain-laserhawk-the-game-nft-crypto-1851726108)
- - [New to The Finals? These are the best weapons to unlock first](https://www.pcgamer.com/games/fps/new-to-the-finals-these-are-the-best-weapons-to-unlock-first/)<!-- GAME:END -->
+ - [This finely-honed samurai strategy game deserves a place in the roguelike hall of fame this year just as much as Balatro](https://www.pcgamer.com/games/roguelike/this-finely-honed-samurai-strategy-game-deserves-a-place-in-the-roguelike-hall-of-fame-this-year-just-as-much-as-balatro/)
+ - [Best Survival Game 2024: Pacific Drive](https://www.pcgamer.com/games/survival-crafting/best-survival-game-2024-pacific-drive/)
+ - [Bloober&#39;s Silent Hill 2 was more remix than remake and that&#39;s why it was great](https://www.pcgamer.com/games/horror/bloobers-silent-hill-2-was-more-remix-than-remake-and-thats-why-it-was-great/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
