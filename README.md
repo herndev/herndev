@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [You’ve heard of laptops with folding screens, but this one has a rollable screen](https://www.androidauthority.com/lenovo-rollable-laptop-3510093/)
- - [Q&amp;A with Australia&#39;s eSafety Commissioner Julie Inman Grant on what led to the country&#39;s under-16 social media ban, enforcement, unintended consequences, more &lpar;Bobby Allyn/NPR&rpar;](http://www.techmeme.com/241220/p3#a241220p3)
- - [Generative AI Still Needs to Prove Its Usefulness](https://www.wired.com/story/generative-ai-will-need-to-prove-its-usefulness/)<!-- TECH:END -->
+ - [Malaysia says it has identified WhatsApp, Facebook, Instagram, X, YouTube, Telegram, WeChat, and TikTok as platforms that need to obtain a license by next year &lpar;Bloomberg&rpar;](http://www.techmeme.com/241220/p4#a241220p4)
+ - [How thin is the Galaxy S25 Slim? We now have a better idea.](https://www.androidauthority.com/samsung-galaxy-s25-slim-thickness-3510689/)
+ - [Birth of the web: Today’s the anniversary of the first website going live](https://www.androidauthority.com/anniversary-first-website-3510479/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
