@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Peter Parker should have picked Ursula over MJ.](http://9gag.com/gag/aQzXgnW)
- - ⏩ [Gamble away](http://9gag.com/gag/a0eZewq)
- - 👉 [New Uber update](http://9gag.com/gag/ayN936X)<!-- MEMES:END -->
+ - 💣 [How great the weather feels is up to you. How sexy it feels is up to your news channel.](http://9gag.com/gag/a1m1DvR)
+ - ⏩ [When they ask `what is you talent?`](http://9gag.com/gag/a0eZX5v)
+ - 👉 [A dignified scam](http://9gag.com/gag/aQzXQx7)<!-- MEMES:END -->
 
 ---
 
