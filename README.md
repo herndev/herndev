@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [OpenAI teases new reasoning model—but don’t expect to try it soon](https://www.theverge.com/2024/12/20/24326036/openai-o1-o2-o3-reasoning-model-testing)
- - [Game achievements are getting prime real estate on the Play Store &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-play-store-achievements-3510747/)
- - [NHTSA finally releases new rules for self-driving cars — but there’s a twist](https://www.theverge.com/2024/12/20/24325996/nhtsa-av-step-autonomous-vehicle-regulatory-framework)<!-- TECH:END -->
+ - [Moxie robot may be saved by a last-minute open-sourcing effort](https://appleinsider.com/articles/24/12/20/moxie-robot-may-be-saved-by-a-last-minute-open-sourcing-effort?utm_medium=rss)
+ - [The US charges dual Russian and Israeli national Rostislav Panev for allegedly working with the LockBit ransomware group and seeks his extradition from Israel &lpar;Jamie Tarabay/Bloomberg&rpar;](http://www.techmeme.com/241220/p19#a241220p19)
+ - [Do prepaid carriers have domestic roaming? Surprisingly, yes, but it’s not so straightforward](https://www.androidauthority.com/prepaid-carriers-domestic-roaming-3510069/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
