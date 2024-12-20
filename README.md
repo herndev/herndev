@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Peter Parker should have picked Ursula over MJ.](http://9gag.com/gag/aQzXgnW)
- - ⏩ [Interesting](http://9gag.com/gag/ae9g4M5)
- - 👉 [When your instinct almost betray you](http://9gag.com/gag/a5Q1B8r)<!-- MEMES:END -->
+ - 💣 [King of Spain during improper flag raising](http://9gag.com/gag/aNDPvb4)
+ - ⏩ [12 seconds and he anexed \ud83d\udfe5](http://9gag.com/gag/apRg1ZW)
+ - 👉 [Interesting](http://9gag.com/gag/ae9g4M5)<!-- MEMES:END -->
 
 ---
 
