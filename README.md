@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Anysphere, developer of GitHub Copilot rival Cursor, raised a $100M Series B at a $2.6B valuation, up from a $400M valuation in August 2024 &lpar;Marina Temkin/TechCrunch&rpar;](http://www.techmeme.com/241219/p37#a241219p37)
- - [Episode One Projector review: Cheap and compact, with consequences](https://appleinsider.com/articles/24/12/20/episode-one-projector-review-cheap-and-compact-with-consequences?utm_medium=rss)
- - [Best Internet Providers in Gulfport, Mississippi](https://www.cnet.com/home/internet/best-internet-providers-in-gulfport-ms/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [How to change FaceTime audio &amp; video settings for clearer calls](https://appleinsider.com/inside/facetime/tips/how-to-change-facetime-audio-video-settings-for-clearer-calls?utm_medium=rss)
+ - [Singapore-based bolttech, a B2B2C startup that offers &quot;embedded&quot; insurance products, raised a $100M+ Series C led by Dragon Fund at a $2.1B valuation &lpar;Yantoultra Ngui/Reuters&rpar;](http://www.techmeme.com/241219/p38#a241219p38)
+ - [Google Photos is getting ready to roll out its new ‘Quick Edit’ sharing feature](https://www.androidauthority.com/google-photos-quick-edit-3510629/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
