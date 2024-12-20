@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [How great the weather feels is up to you. How sexy it feels is up to your news channel.](http://9gag.com/gag/a1m1DvR)
- - ⏩ [Run away Matt! Run away!](http://9gag.com/gag/aLnvzvA)
- - 👉 [Girl tried to kill 10 people with a gun at a school in Brazil, Lyedja Yasmin, 19](http://9gag.com/gag/aD2D2LN)<!-- MEMES:END -->
+ - 💣 [This scene doesn&#39;t need subtitles even for non Spanish speakers](http://9gag.com/gag/aE08qLN)
+ - ⏩ [Girl tried to kill 10 people with a gun at a school in Brazil, Lyedja Yasmin, 19](http://9gag.com/gag/aD2D2LN)
+ - 👉 [Who wants to go next](http://9gag.com/gag/axyBy0W)<!-- MEMES:END -->
 
 ---
 
