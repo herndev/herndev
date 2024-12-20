@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [12 seconds and he anexed \ud83d\udfe5](http://9gag.com/gag/apRg1ZW)
- - ⏩ [Interesting](http://9gag.com/gag/ae9g4M5)
- - 👉 [When you try to be open but she is closed](http://9gag.com/gag/aE08Vxn)<!-- MEMES:END -->
+ - 💣 [In the absence of a mobile phone, this is how I imagine about myself.](http://9gag.com/gag/aZZrn7V)
+ - ⏩ [Team Work](http://9gag.com/gag/awyz1n1)
+ - 👉 [At one with nature](http://9gag.com/gag/aByn6PQ)<!-- MEMES:END -->
 
 ---
 
