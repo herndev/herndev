@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [`Hold on to the fish`](http://9gag.com/gag/amogWeV)
- - ⏩ [12 seconds and he anexed \ud83d\udfe5](http://9gag.com/gag/apRg1ZW)
- - 👉 [Interesting](http://9gag.com/gag/ae9g4M5)<!-- MEMES:END -->
+ - 💣 [Maybe a new set of teeth?](http://9gag.com/gag/aD2DnQN)
+ - ⏩ [New Uber update](http://9gag.com/gag/ayN936X)
+ - 👉 [12 seconds and he anexed \ud83d\udfe5](http://9gag.com/gag/apRg1ZW)<!-- MEMES:END -->
 
 ---
 
