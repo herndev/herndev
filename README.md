@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [How great the weather feels is up to you. How sexy it feels is up to your news channel.](http://9gag.com/gag/a1m1DvR)
- - ⏩ [When they ask `what is you talent?`](http://9gag.com/gag/a0eZX5v)
- - 👉 [A dignified scam](http://9gag.com/gag/aQzXQx7)<!-- MEMES:END -->
+ - 💣 [Man helps police make an arrest.](http://9gag.com/gag/aBynLZN)
+ - ⏩ [When you try to be open but she is closed](http://9gag.com/gag/aE08Vxn)
+ - 👉 [Gamble away](http://9gag.com/gag/a0eZewq)<!-- MEMES:END -->
 
 ---
 
