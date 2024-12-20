@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Today&#39;s Wordle answer for Friday, December 20](https://www.pcgamer.com/games/puzzle/wordle-answer-today-december-20-2024/)
- - [Check Cyberpunk 2077’s latest patch for a secret TTRPG surprise](https://www.polygon.com/tabletop-games/500301/cyberpunk-2077-red-easy-mode-ttrpg-pdf-how-to-get)
- - [Rocksmith 2014, the one people actually like, is back on Steam due to popular demand](https://www.pcgamer.com/games/rhythm/rocksmith-2014-the-one-people-actually-like-is-back-on-steam-due-to-popular-demand/)<!-- GAME:END -->
+ - [WoW&#39;s Warband system is getting a facelift soon, with new campsite backgrounds and the ability to sort your alts into cute little themed groups](https://www.pcgamer.com/games/world-of-warcraft/wows-warband-system-is-getting-a-facelift-soon-with-new-campsite-backgrounds-and-the-ability-to-sort-your-alts-into-cute-little-themed-groups/)
+ - [Windows 11 24H2 is the unwanted holiday gift that keeps on giving thanks to Auto HDR game crashes, audio device woes, odd bouts of stuttering and more](https://www.pcgamer.com/software/windows/windows-11-24h2-is-the-unwanted-holiday-gift-that-keeps-on-giving-thanks-to-auto-hdr-game-crashes-audio-device-woes-odd-bouts-of-stuttering-and-more/)
+ - [The legendary South Park RPG that has over 50,000 &#39;Overwhelmingly Positive&#39; reviews on Steam is now cheaper than a cup of coffee](https://www.pcgamer.com/games/rpg/the-legendary-south-park-rpg-that-has-over-50-000-overwhelmingly-positive-reviews-on-steam-is-now-cheaper-than-a-cup-of-coffee/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
