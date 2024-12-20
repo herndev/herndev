@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Gamble away](http://9gag.com/gag/a0eZewq)
- - ⏩ [I didn&#39;t know but now I know, and you know too.](http://9gag.com/gag/aE08VPM)
- - 👉 [`Hold on to the fish`](http://9gag.com/gag/amogWeV)<!-- MEMES:END -->
+ - 💣 [Who wants to go next](http://9gag.com/gag/axyBy0W)
+ - ⏩ [A dignified scam](http://9gag.com/gag/aQzXQx7)
+ - 👉 [Girl tried to kill 10 people with a gun at a school in Brazil, Lyedja Yasmin, 19](http://9gag.com/gag/aD2D2LN)<!-- MEMES:END -->
 
 ---
 
