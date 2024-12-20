@@ -39,8 +39,8 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [SAP promoted a team lead five female staff allege has a pattern of targeting female reports, raising questions about its culture and workplace discrimination &lpar;Bloomberg&rpar;](http://www.techmeme.com/241220/p1#a241220p1)
- - [Sony shares surged ~50% from an August trough to reach an all-time high last week, as investors are bullish on Sony&#39;s gaming business growth in 2025 &lpar;Bloomberg&rpar;](http://www.techmeme.com/241219/p39#a241219p39)
+ - [SAP promoted a team lead accused by five female staff of targeting female subordinates, raising concerns about company culture and workplace discrimination &lpar;Bloomberg&rpar;](http://www.techmeme.com/241220/p1#a241220p1)
+ - [Sony&#39;s shares in Japan surged 50%+ from an August low to reach its new all-time high since 2000 last week, as investors are bullish on its gaming growth in 2025 &lpar;Bloomberg&rpar;](http://www.techmeme.com/241219/p39#a241219p39)
  - [Today&#39;s NYT Mini Crossword Answers for Friday, Dec. 20](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-friday-dec-20/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
