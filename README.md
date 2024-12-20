@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [With AI at the forefront, TECNO’s new image processing solutions will take your smartphone photography to the next level](https://www.androidauthority.com/techo-ai-image-processing-solutions-3510220/)
- - [Bluesky updates its app that includes a separate mentions tab in notifications, protections against username squatting, and new controls for replies sorting &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/241220/p6#a241220p6)
- - [14 Best Office Chairs of 2024— I&#39;ve Tested 55+ to Pick Them](https://www.wired.com/gallery/best-office-chairs/)<!-- TECH:END -->
+ - [Senators rip into automakers for selling customer data and blocking right to repair](https://www.theverge.com/2024/12/20/24325236/car-right-to-repair-data-collect-senator-letter)
+ - [The UK ICO criticizes Google&#39;s plans to no longer prohibit companies using its ad products from employing fingerprinting techniques from 16 February 2025 &lpar;Robert Booth/The Guardian&rpar;](http://www.techmeme.com/241220/p8#a241220p8)
+ - [What’s the Winter Solstice? Celebrations, Science, Livestream](https://www.wired.com/story/winter-solstice/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
