@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Here are the best iPad deals right now](https://www.theverge.com/21280354/best-ipad-deals-apple)
- - [YouTube plans to start a crackdown on &quot;egregious clickbait&quot;, or videos where the titles or thumbnails make claims the videos don&#39;t back up, beginning in India &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/241219/p33#a241219p33)
- - [This amazingly thin Baseus Power Bank is 35% off!](https://www.androidauthority.com/baseus-power-bank-thin-deal-3510551/)<!-- TECH:END -->
+ - [Google Street View may have helped solve a gruesome crime](https://www.androidauthority.com/google-street-view-homicide-evidence-3510607/)
+ - [Charlotte, NC-based Aiwyn, which provides automation software for accounting firms, raised $113M led by KKR and Bessemer, bringing its total funding to $127M &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/241219/p34#a241219p34)
+ - [Google Street View helped police solve a missing persons case](https://www.theverge.com/2024/12/19/24325360/google-street-view-police-solve-murder)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
