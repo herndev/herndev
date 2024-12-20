@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Post Trauma Reimagines Old School Horror on Xbox in 2025](https://news.xbox.com/en-us/2024/12/19/post-trauma-reimagines-old-school-horror-on-xbox-in-2025/)
- - [The best deals in the 2024 Steam Winter Sale](https://www.pcgamer.com/software/platforms/steam-winter-sale-2024-best-deals/)
- - [Dune: Prophecy Renewed For Second Season Of Bene Gesserit Mayhem](https://kotaku.com/dune-prophecy-season-2-hbo-bebe-gesserit-news-1851725756)<!-- GAME:END -->
+ - [Check Cyberpunk 2077’s latest patch for a secret TTRPG surprise](https://www.polygon.com/tabletop-games/500301/cyberpunk-2077-red-easy-mode-ttrpg-pdf-how-to-get)
+ - [Rocksmith 2014, the one people actually like, is back on Steam due to popular demand](https://www.pcgamer.com/games/rhythm/rocksmith-2014-the-one-people-actually-like-is-back-on-steam-due-to-popular-demand/)
+ - [Post Trauma Reimagines Old School Horror on Xbox in 2025](https://news.xbox.com/en-us/2024/12/19/post-trauma-reimagines-old-school-horror-on-xbox-in-2025/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
