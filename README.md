@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Squid Game: Unleashed is a fun game and a terrible adaptation](https://www.theverge.com/2024/12/20/24325810/squid-game-unleashed-netflix-mobile-game)
- - [Apple Vision Pro is driving VR use from games to healthcare and productivity](https://appleinsider.com/articles/24/12/20/apple-vision-pro-is-driving-vr-use-from-games-to-healthcare-and-productivity?utm_medium=rss)
- - [Sam Altman says Elon Musk is &quot;clearly a bully&quot; who is suing OpenAI because the startup is doing really well and calls the lawsuits &quot;a little bit of a sideshow&quot; &lpar;Fortune&rpar;](http://www.techmeme.com/241220/p14#a241220p14)<!-- TECH:END -->
+ - [OpenAI teases new reasoning model—but don’t expect to try it soon](https://www.theverge.com/2024/12/20/24326036/openai-o1-o2-o3-reasoning-model-testing)
+ - [Game achievements are getting prime real estate on the Play Store &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-play-store-achievements-3510747/)
+ - [NHTSA finally releases new rules for self-driving cars — but there’s a twist](https://www.theverge.com/2024/12/20/24325996/nhtsa-av-step-autonomous-vehicle-regulatory-framework)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
