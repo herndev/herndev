@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Many more carriers now support RCS messaging on iPhones in the US](https://www.androidauthority.com/iphone-rcs-messaging-us-carriers-networks-3510938/)
- - [This brand-new chip has no little cores, could beat Snapdragon in mid-range phones](https://www.androidauthority.com/mediatek-dimensity-8400-3510930/)
- - [A look at new tech-based mental health treatments like the Tetris method and Avatar therapy that are offering promising early results and possibilities &lpar;Michael Peel/Financial Times&rpar;](http://www.techmeme.com/241223/p1#a241223p1)<!-- TECH:END -->
+ - [AT&amp;T hopes you’ll throw out your dumb landline for this one powered by a mobile network](https://www.androidauthority.com/att-phone-advanced-3510960/)
+ - [Google doesn’t want to sell Chrome and Android, proposes swapping Google bloat for other bloat](https://www.androidauthority.com/google-chrome-android-doj-counter-proposal-3510947/)
+ - [Google and OpenAI&#39;s AI product announcements over the past month have transformed the state of AI and show the breadth and pace of change &lpar;Ethan Mollick/One Useful Thing&rpar;](http://www.techmeme.com/241223/p2#a241223p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
