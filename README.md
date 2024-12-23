@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Source: in a first, Telegram is set to be profitable in 2024, with $1B+ in revenue, up from ~$350M in 2023, and $500M cash, as it grapples with billions in debt &lpar;New York Times&rpar;](http://www.techmeme.com/241223/p8#a241223p8)
- - [OnePlus Watch 3 leaked render and features point to a solid Android watch upgrade](https://www.androidauthority.com/oneplus-watch-3-leaked-render-features-3510998/)
- - [SEC filings: senior Spotify executives have sold $1.25B in stock in 2024, including CEO Daniel Ek selling ~$350M and co-founder Martin Lorentzon selling $550M+ &lpar;Financial Times&rpar;](http://www.techmeme.com/241223/p7#a241223p7)<!-- TECH:END -->
+ - [McLaren Artura review: a plug-in hybrid for the 1 percent](https://www.theverge.com/2024/12/23/24325168/mclaren-artura-review-hybrid-specs-price)
+ - [Sources: Meta plans to add displays to its Ray-Ban glasses as soon as H2 2025 to show notifications or AI responses, and has accelerated Orion&#39;s development &lpar;Financial Times&rpar;](http://www.techmeme.com/241223/p9#a241223p9)
+ - [Honda and Nissan plan to merge as we enter the age of electric cars](https://www.theverge.com/2024/12/23/24327946/honda-nissan-mitsubishi-merger-deal-plans-2026)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
