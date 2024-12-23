@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at new tech-based mental health treatments like the Tetris method and Avatar therapy that are offering promising early results and possibilities &lpar;Michael Peel/Financial Times&rpar;](http://www.techmeme.com/241223/p1#a241223p1)
- - [Your X subscription just went up…by a lot!](https://www.androidauthority.com/x-premium-plus-price-hike-3510929/)
- - [Best Internet Providers in Murfreesboro, Tennessee](https://www.cnet.com/home/internet/best-internet-providers-in-murfreesboro-tn/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Many more carriers now support RCS messaging on iPhones in the US](https://www.androidauthority.com/iphone-rcs-messaging-us-carriers-networks-3510938/)
+ - [This brand-new chip has no little cores, could beat Snapdragon in mid-range phones](https://www.androidauthority.com/mediatek-dimensity-8400-3510930/)
+ - [A look at new tech-based mental health treatments like the Tetris method and Avatar therapy that are offering promising early results and possibilities &lpar;Michael Peel/Financial Times&rpar;](http://www.techmeme.com/241223/p1#a241223p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
