@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nothing’s upcoming phones could switch to Snapdragon and optical zoom cameras](https://www.androidauthority.com/nothing-phone-3a-plus-snapdragon-optical-zoom-leak-3511021/)
- - [Trump announces new tech policy picks for his second term](https://www.theverge.com/2024/12/23/24327968/trump-administration-tech-policy-picks-michael-kratsios-lynne-parker-bo-hines-sriram-krishnan)
- - [Nosferatu is the stuff of exquisitely erotic nightmares](https://www.theverge.com/24322968/nosferatu-review-robert-eggers)<!-- TECH:END -->
+ - [M5 Pro may separate out GPU and CPU for new server-grade performance](https://appleinsider.com/articles/24/12/23/m5-pro-may-separate-out-gpu-and-cpu-for-new-server-grade-performance?utm_medium=rss)
+ - [Google’s Pixel Referral program is back, letting you make a nice $500](https://www.androidauthority.com/google-pixel-referral-rewards-program-3511055/)
+ - [Amazon Kindle Paperwhite Signature Edition review: best e-reader screen, fast page turns, and color options, but mostly small upgrades and lacks stylus support &lpar;Andrew Liszewski/The Verge&rpar;](http://www.techmeme.com/241223/p12#a241223p12)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
