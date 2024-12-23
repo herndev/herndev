@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [FedEx employee wants to make sure the package is delivered](http://9gag.com/gag/a7o1G6L)
- - ⏩ [Awarding money to the defendant](http://9gag.com/gag/aryn8m6)
- - 👉 [Lol](http://9gag.com/gag/ae9g7XQ)<!-- MEMES:END -->
+ - 💣 [Not all men](http://9gag.com/gag/a5Q1DAq)
+ - ⏩ [Avada Kedavra](http://9gag.com/gag/abAgdq8)
+ - 👉 [When a society are so divided](http://9gag.com/gag/awyz4eR)<!-- MEMES:END -->
 
 ---
 
