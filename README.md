@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [McLaren Artura review: a plug-in hybrid for the 1 percent](https://www.theverge.com/2024/12/23/24325168/mclaren-artura-review-hybrid-specs-price)
- - [Sources: Meta plans to add displays to its Ray-Ban glasses as soon as H2 2025 to show notifications or AI responses, and has accelerated Orion&#39;s development &lpar;Financial Times&rpar;](http://www.techmeme.com/241223/p9#a241223p9)
- - [Honda and Nissan plan to merge as we enter the age of electric cars](https://www.theverge.com/2024/12/23/24327946/honda-nissan-mitsubishi-merger-deal-plans-2026)<!-- TECH:END -->
+ - [The AI smartphones that never materialized in 2024](https://www.theverge.com/24315181/ai-smartphones-2024-apple-intelligence-gemini-samsung)
+ - [Here’s a new way to lose an argument online: the appeal to AI](https://www.theverge.com/2024/12/23/24326077/i-asked-chatgpt)
+ - [VC insiders say many partners left big firms in 2024, either quitting or being pushed out, as bleak market conditions led to less funding and leaner operations &lpar;Bloomberg&rpar;](http://www.techmeme.com/241223/p10#a241223p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
