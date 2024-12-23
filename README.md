@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best Xbox controller to buy right now](https://www.theverge.com/23025443/best-xbox-controllers-one-series-x-s)
- - [Google Photos finally shows album info for pictures and videos](https://www.androidauthority.com/google-photos-shows-albums-info-3510857/)
- - [Rumble announces a $775M investment from Tether and plans to use $525M to fund a tender offer for ~70M shares of its common stock; RUM jumps 35%+ after hours &lpar;Stephen Alpher/CoinDesk&rpar;](http://www.techmeme.com/241220/p25#a241220p25)<!-- TECH:END -->
+ - [Sources: SoftBank&#39;s Masayoshi Son has recently become singularly obsessed with how to build the next Nvidia and wants competitive AI chips ready to ship by 2026 &lpar;Bloomberg&rpar;](http://www.techmeme.com/241222/p12#a241222p12)
+ - [Broadcom CEO Hock Tan says AI spending frenzy will continue until the decade&#39;s end, and downplays an Intel bid, saying he had his &quot;hands very full&quot; in AI chips &lpar;Tim Bradshaw/Financial Times&rpar;](http://www.techmeme.com/241222/p11#a241222p11)
+ - [Donald Trump announces that Sriram Krishnan, until recently a general partner at a16z, will serve as senior policy advisor for AI at the White House OSTP &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/241222/p10#a241222p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
