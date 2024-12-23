@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I have the same conversation with my dog everytime he needs a bath](http://9gag.com/gag/aE08O0O)
- - ⏩ [Saving the best for last](http://9gag.com/gag/apRgAzp)
- - 👉 [A tourist visiting North Korea secretly filmed a female traffic officer\u2019s movements and published the footage.](http://9gag.com/gag/arynBO5)<!-- MEMES:END -->
+ - 💣 [Knowledge Increased](http://9gag.com/gag/aLnvrrW)
+ - ⏩ [Icing Christmas Cookies](http://9gag.com/gag/a341Nyr)
+ - 👉 [The gaslighting is off the charts these days.](http://9gag.com/gag/a5Q1DpG)<!-- MEMES:END -->
 
 ---
 
