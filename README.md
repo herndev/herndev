@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [OpenAI details &quot;deliberative alignment&quot;, a new method it used to make o1 and o3 &quot;think&quot; about its safety policy before responding, to improve overall alignment &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/241222/p13#a241222p13)
  - [Sources: SoftBank&#39;s Masayoshi Son has recently become singularly obsessed with how to build the next Nvidia and wants competitive AI chips ready to ship by 2026 &lpar;Bloomberg&rpar;](http://www.techmeme.com/241222/p12#a241222p12)
- - [Broadcom CEO Hock Tan says AI spending frenzy will continue until the decade&#39;s end, and downplays an Intel bid, saying he had his &quot;hands very full&quot; in AI chips &lpar;Tim Bradshaw/Financial Times&rpar;](http://www.techmeme.com/241222/p11#a241222p11)
- - [Donald Trump announces that Sriram Krishnan, until recently a general partner at a16z, will serve as senior policy advisor for AI at the White House OSTP &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/241222/p10#a241222p10)<!-- TECH:END -->
+ - [Broadcom CEO Hock Tan says AI spending frenzy will continue until the decade&#39;s end, and downplays an Intel bid, saying he had his &quot;hands very full&quot; in AI chips &lpar;Tim Bradshaw/Financial Times&rpar;](http://www.techmeme.com/241222/p11#a241222p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
