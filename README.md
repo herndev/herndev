@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Kotaku’s 15 Best Games Of 2024, Ranked](https://kotaku.com/goty-best-games-2024-astro-bot-dragon-age-star-wars-1851726357)
- - [OneXPlayer OneXFly F1 Pro review](https://www.pcgamer.com/hardware/handheld-gaming-pcs/onexplayer-onexfly-f1-pro-review/)
- - [Triple J’s Like A Version covers are the perfect pick-me-up for the winter blues](https://www.polygon.com/yuletide-youtube/485665/best-triple-j-like-a-version-covers-list-watch)<!-- GAME:END -->
+ - [Dune: Prophecy can’t match the ambition of the franchise](https://www.polygon.com/opinion/500866/dune-prophecy-review-season-1-finale)
+ - [&#39;If you&#39;re a billion dollar company advertising your game, ask permission!&#39;: Charlie the Unicorn creator chews out Warner Bros after MultiVersus ad uses his work without approval](https://www.pcgamer.com/games/fighting/if-youre-a-billion-dollar-company-advertising-your-game-ask-permission-charlie-the-unicorn-creator-chews-out-warner-bros-after-multiversus-ad-uses-his-work-without-approval/)
+ - [EA Really Isn&#39;t Interested In Making More Dead Space](https://kotaku.com/dead-space-4-ea-remake-horror-1851727387)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
