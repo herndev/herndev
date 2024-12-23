@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Dune: Prophecy can’t match the ambition of the franchise](https://www.polygon.com/opinion/500866/dune-prophecy-review-season-1-finale)
- - [&#39;If you&#39;re a billion dollar company advertising your game, ask permission!&#39;: Charlie the Unicorn creator chews out Warner Bros after MultiVersus ad uses his work without approval](https://www.pcgamer.com/games/fighting/if-youre-a-billion-dollar-company-advertising-your-game-ask-permission-charlie-the-unicorn-creator-chews-out-warner-bros-after-multiversus-ad-uses-his-work-without-approval/)
- - [EA Really Isn&#39;t Interested In Making More Dead Space](https://kotaku.com/dead-space-4-ea-remake-horror-1851727387)<!-- GAME:END -->
+ - [Resurfaced Metal Gear Solid interview shows how Kojima made Yoji Shinkawa&#39;s designs the game&#39;s beating heart: &#39;Hell yeah, a cyborg ninja!&#39;](https://www.pcgamer.com/games/action/resurfaced-metal-gear-solid-interview-shows-how-kojima-made-yoji-shinkawas-designs-the-games-beating-heart-hell-yeah-a-cyborg-ninja/)
+ - [&#39;The only way to beat China is to stay ahead of them&#39; says US commerce secretary as she backs CHIPS investments handed out to Intel, TSMC over sanctions](https://www.pcgamer.com/hardware/the-only-way-to-beat-china-is-to-stay-ahead-of-them-says-us-commerce-secretary-as-she-backs-chips-investments-handed-out-to-intel-tsmc-over-sanctions/)
+ - [The OG creators pitched Dead Space 4 to EA this year, but the publisher gave a flat &#39;no&#39; so &#39;we didn&#39;t take it any further&#39;](https://www.pcgamer.com/games/action/the-og-creators-pitched-dead-space-4-to-ea-this-year-but-the-publisher-gave-a-flat-no-so-we-didnt-take-it-any-further/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
