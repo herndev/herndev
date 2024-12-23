@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Here are 40 last-minute gifts you can still nab before Christmas](https://www.theverge.com/23642026/best-digital-gift-ideas-online-cards-subscriptions)
- - [Apple planning iOS 18.2.1 update with general bug fixes](https://appleinsider.com/articles/24/12/23/apple-planning-ios-1821-update-with-general-bug-fixes?utm_medium=rss)
- - [Experts: Bitcoin has time to adopt encryption that&#39;s resistant to attacks via potentially upcoming quantum systems, but such an overhaul would be time-consuming &lpar;Alexander Osipovich/Wall Street Journal&rpar;](http://www.techmeme.com/241223/p17#a241223p17)<!-- TECH:END -->
+ - [Save 50% on the Google Nest Audio while you can](https://www.androidauthority.com/google-nest-audio-deal-8-3511100/)
+ - [Apple&#39;s updated M4 MacBook Air could arrive sooner than expected](https://appleinsider.com/articles/24/12/23/apples-updated-m4-macbook-air-could-arrive-sooner-than-expected?utm_medium=rss)
+ - [Google Drive speeds up your access to uploaded videos](https://www.androidauthority.com/google-drive-video-uploads-3511135/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
