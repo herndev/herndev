@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [You wanted MEMES? Well, too bad! Here are feels!](http://9gag.com/gag/a5Q1DVy)
- - ⏩ [\ud83d\udea8Breaking: German men demand immediate deportations as word gets out and numbers increase](http://9gag.com/gag/a7o1ABb)
- - 👉 [Left or goth?](http://9gag.com/gag/aZZrdrW)<!-- MEMES:END -->
+ - 💣 [Always pays off](http://9gag.com/gag/aGyzo50)
+ - ⏩ [Iguazu Falls Brazil after heavy rain](http://9gag.com/gag/agmgd5n)
+ - 👉 [Lol](http://9gag.com/gag/ae9g7XQ)<!-- MEMES:END -->
 
 ---
 
