@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Always pays off](http://9gag.com/gag/aGyzo50)
- - ⏩ [Iguazu Falls Brazil after heavy rain](http://9gag.com/gag/agmgd5n)
- - 👉 [Lol](http://9gag.com/gag/ae9g7XQ)<!-- MEMES:END -->
+ - 💣 [Is he sad or happy](http://9gag.com/gag/aXPrdWV)
+ - ⏩ [Cate Blanchett and her husband](http://9gag.com/gag/aW4gRYx)
+ - 👉 [My first thought was also \u201ctech neck\u201d and nothing else.](http://9gag.com/gag/awyzvXW)<!-- MEMES:END -->
 
 ---
 
