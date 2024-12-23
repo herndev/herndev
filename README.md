@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Not all men](http://9gag.com/gag/a5Q1DAq)
- - ⏩ [Avada Kedavra](http://9gag.com/gag/abAgdq8)
- - 👉 [When a society are so divided](http://9gag.com/gag/awyz4eR)<!-- MEMES:END -->
+ - 💣 [Poor donkey](http://9gag.com/gag/a871KPd)
+ - ⏩ [Not all men](http://9gag.com/gag/a5Q1DAq)
+ - 👉 [What the hell dude?](http://9gag.com/gag/ayN9zMM)<!-- MEMES:END -->
 
 ---
 
