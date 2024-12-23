@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Lol](http://9gag.com/gag/ae9g7XQ)
- - ⏩ [Saving the best for last](http://9gag.com/gag/apRgAzp)
- - 👉 [Bro has all the energy! Lol](http://9gag.com/gag/aMV4XZX)<!-- MEMES:END -->
+ - 💣 [FedEx employee wants to make sure the package is delivered](http://9gag.com/gag/a7o1G6L)
+ - ⏩ [Awarding money to the defendant](http://9gag.com/gag/aryn8m6)
+ - 👉 [Lol](http://9gag.com/gag/ae9g7XQ)<!-- MEMES:END -->
 
 ---
 
