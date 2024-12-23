@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Poor donkey](http://9gag.com/gag/a871KPd)
- - ⏩ [Not all men](http://9gag.com/gag/a5Q1DAq)
- - 👉 [What the hell dude?](http://9gag.com/gag/ayN9zMM)<!-- MEMES:END -->
+ - 💣 [`Influencer` gets treated the way he deserves.](http://9gag.com/gag/a6Z1xEq)
+ - ⏩ [Lol](http://9gag.com/gag/ae9g7XQ)
+ - 👉 [Cate Blanchett and her husband](http://9gag.com/gag/aW4gRYx)<!-- MEMES:END -->
 
 ---
 
