@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Maybe a new set of teeth?](http://9gag.com/gag/aD2DnQN)
- - ⏩ [New Uber update](http://9gag.com/gag/ayN936X)
- - 👉 [12 seconds and he anexed \ud83d\udfe5](http://9gag.com/gag/apRg1ZW)<!-- MEMES:END -->
+ - 💣 [Women](http://9gag.com/gag/an7gGr0)
+ - ⏩ [I see this as a new hobby.. too bad i live in eastern Europe where playing this is quite impossible](http://9gag.com/gag/adBgo7N)
+ - 👉 [Icing Christmas Cookies](http://9gag.com/gag/a341Nyr)<!-- MEMES:END -->
 
 ---
 
