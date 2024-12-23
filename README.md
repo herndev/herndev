@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Knowledge Increased](http://9gag.com/gag/aLnvrrW)
- - ⏩ [Icing Christmas Cookies](http://9gag.com/gag/a341Nyr)
- - 👉 [The gaslighting is off the charts these days.](http://9gag.com/gag/a5Q1DpG)<!-- MEMES:END -->
+ - 💣 [When a society are so divided](http://9gag.com/gag/awyz4eR)
+ - ⏩ [I expect nothing and I&#39;m still disappointed](http://9gag.com/gag/aD2DOdB)
+ - 👉 [You can do that if you are men... but some how it is all men fault](http://9gag.com/gag/adBg2W2)<!-- MEMES:END -->
 
 ---
 
