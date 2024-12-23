@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Fallout&#39;s original designer is fine with the direction of the modern games: &#39;They&#39;re both what they are, and a ton of people like it&#39;](https://www.pcgamer.com/games/fallout/fallouts-original-designer-is-fine-with-the-direction-of-the-modern-games-theyre-both-what-they-are-and-a-ton-of-people-like-it/)
- - [Ready or Not&#39;s Dark Waters DLC has some cracking maps and scarily intelligent AI suspects that managed to outsmart me at almost every turn](https://www.pcgamer.com/games/fps/ready-or-nots-dark-waters-dlc-has-some-cracking-maps-and-scarily-intelligent-ai-suspects-that-managed-to-outsmart-me-at-almost-every-turn/)
- - [AMD&#39;s next-gen RDNA 4 graphics cards are now rumoured to be called the RX 9000-series, and we might have already had a sneak peek at what they look like](https://www.pcgamer.com/hardware/graphics-cards/amds-next-gen-rdna-4-graphics-cards-are-now-rumoured-to-be-called-the-rx-9000-series-and-we-might-have-already-had-a-sneak-peek-at-what-they-look-like/)<!-- GAME:END -->
+ - [Kotaku’s 15 Best Games Of 2024, Ranked](https://kotaku.com/goty-best-games-2024-astro-bot-dragon-age-star-wars-1851726357)
+ - [OneXPlayer OneXFly F1 Pro review](https://www.pcgamer.com/hardware/handheld-gaming-pcs/onexplayer-onexfly-f1-pro-review/)
+ - [Triple J’s Like A Version covers are the perfect pick-me-up for the winter blues](https://www.polygon.com/yuletide-youtube/485665/best-triple-j-like-a-version-covers-list-watch)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
