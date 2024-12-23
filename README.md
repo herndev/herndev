@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [When a society are so divided](http://9gag.com/gag/awyz4eR)
- - ⏩ [Gimme my money](http://9gag.com/gag/agmgKqv)
- - 👉 [I get it now :&lpar;](http://9gag.com/gag/aAyG2no)<!-- MEMES:END -->
+ - 💣 [I have the same conversation with my dog everytime he needs a bath](http://9gag.com/gag/aE08O0O)
+ - ⏩ [Saving the best for last](http://9gag.com/gag/apRgAzp)
+ - 👉 [A tourist visiting North Korea secretly filmed a female traffic officer\u2019s movements and published the footage.](http://9gag.com/gag/arynBO5)<!-- MEMES:END -->
 
 ---
 
