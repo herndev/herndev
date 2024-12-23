@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Why Marvel Rivals fans keep arguing about adding a role queue](https://www.polygon.com/gaming/501604/marvel-rivals-role-queue-question-overwatch)
- - [Starfield is surprisingly absent from Steam&#39;s 2024 bestsellers list despite taking a top spot in 2023](https://www.pcgamer.com/games/starfield-is-surprisingly-absent-from-steams-2024-bestsellers-list-despite-taking-a-top-spot-in-2023/)
- - [Star Fox 64 has a fanmade PC port and it&amp;#8217;s great](https://www.polygon.com/nintendo/501524/starfox-64-nintendo-emulator-port)<!-- GAME:END -->
+ - [Hear ye, hear ye, this Team Fortress 2 comic is a holiday miracle](https://www.polygon.com/gaming/501710/team-fortress-2-valve-comic-surprise-release)
+ - [Play as your Sonic the Hedgehog OC with these fan made tabletop games](https://www.polygon.com/tabletop-games/501703/sonic-the-hedgehog-oc-fan-ttrpg-tag-team-heroes-rings-and-running-shoes)
+ - [Dune: Prophecy&#39;s Season Finale Twist Could Have Huge Implications For The Future Of The Franchise](https://kotaku.com/dune-prophecy-finale-recap-desmond-hart-valya-harkonnen-1851727517)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
