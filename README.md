@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Is he sad or happy](http://9gag.com/gag/aXPrdWV)
+ - 💣 [FedEx employee wants to make sure the package is delivered](http://9gag.com/gag/a7o1G6L)
  - ⏩ [Cate Blanchett and her husband](http://9gag.com/gag/aW4gRYx)
- - 👉 [My first thought was also \u201ctech neck\u201d and nothing else.](http://9gag.com/gag/awyzvXW)<!-- MEMES:END -->
+ - 👉 [It was nice while it lasted... chrome has started phasing out manifest v2 extensions](http://9gag.com/gag/aE08NRo)<!-- MEMES:END -->
 
 ---
 
