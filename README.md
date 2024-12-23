@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [`Influencer` gets treated the way he deserves.](http://9gag.com/gag/a6Z1xEq)
- - ⏩ [Lol](http://9gag.com/gag/ae9g7XQ)
- - 👉 [Cate Blanchett and her husband](http://9gag.com/gag/aW4gRYx)<!-- MEMES:END -->
+ - 💣 [Whoever did that is da real MVP](http://9gag.com/gag/a1m1wO6)
+ - ⏩ [What the hell dude?](http://9gag.com/gag/ayN9zMM)
+ - 👉 [Iguazu Falls Brazil after heavy rain](http://9gag.com/gag/agmgd5n)<!-- MEMES:END -->
 
 ---
 
