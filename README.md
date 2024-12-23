@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google to court: we’ll change our Apple deal, but please let us keep Chrome](https://www.theverge.com/2024/12/23/24328087/google-proposed-final-judgement-search-monopoly-antitrust-default-contracts)
- - [Apple&#39;s Apple Pay campaign raised $3 million for fight against AIDS](https://appleinsider.com/articles/24/12/23/apples-apple-pay-campaign-raised-3-million-for-fight-against-aids?utm_medium=rss)
- - [Tech companies want to capture carbon at paper mills and sewage plants](https://www.theverge.com/2024/12/23/24328158/paper-sewage-carbon-removal-google-salesforce-frontier-crew-co280)<!-- TECH:END -->
+ - [Here are 40 last-minute gifts you can still nab before Christmas](https://www.theverge.com/23642026/best-digital-gift-ideas-online-cards-subscriptions)
+ - [Apple planning iOS 18.2.1 update with general bug fixes](https://appleinsider.com/articles/24/12/23/apple-planning-ios-1821-update-with-general-bug-fixes?utm_medium=rss)
+ - [Experts: Bitcoin has time to adopt encryption that&#39;s resistant to attacks via potentially upcoming quantum systems, but such an overhaul would be time-consuming &lpar;Alexander Osipovich/Wall Street Journal&rpar;](http://www.techmeme.com/241223/p17#a241223p17)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
