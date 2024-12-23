@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Iguazu Falls Brazil after heavy rain](http://9gag.com/gag/agmgd5n)
- - ⏩ [I get it now :&lpar;](http://9gag.com/gag/aAyG2no)
- - 👉 [Bro has all the energy! Lol](http://9gag.com/gag/aMV4XZX)<!-- MEMES:END -->
+ - 💣 [Nice!](http://9gag.com/gag/a871KRQ)
+ - ⏩ [Lol](http://9gag.com/gag/ae9g7XQ)
+ - 👉 [When a society are so divided](http://9gag.com/gag/awyz4eR)<!-- MEMES:END -->
 
 ---
 
