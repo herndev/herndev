@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The ASUS ROG Ally just got a 2x fps boost — Here’s how to turn it on](https://www.androidauthority.com/asus-rog-ally-afmf-2-3510993/)
- - [The Biden administration opens a trade investigation into China&#39;s production of older chips, a move that may lead to tariffs and other measures to block imports &lpar;New York Times&rpar;](http://www.techmeme.com/241223/p5#a241223p5)
- - [Google says it plans to counter Japan&#39;s FTC over claims that it hobbles rivals in search; a source says Japan&#39;s FTC sent a cease-and-desist order to Google &lpar;Bloomberg&rpar;](http://www.techmeme.com/241223/p4#a241223p4)<!-- TECH:END -->
+ - [Source: in a first, Telegram is set to be profitable in 2024, with $1B+ in revenue, up from ~$350M in 2023, and $500M cash, as it grapples with billions in debt &lpar;New York Times&rpar;](http://www.techmeme.com/241223/p8#a241223p8)
+ - [OnePlus Watch 3 leaked render and features point to a solid Android watch upgrade](https://www.androidauthority.com/oneplus-watch-3-leaked-render-features-3510998/)
+ - [SEC filings: senior Spotify executives have sold $1.25B in stock in 2024, including CEO Daniel Ek selling ~$350M and co-founder Martin Lorentzon selling $550M+ &lpar;Financial Times&rpar;](http://www.techmeme.com/241223/p7#a241223p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
