@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The AI smartphones that never materialized in 2024](https://www.theverge.com/24315181/ai-smartphones-2024-apple-intelligence-gemini-samsung)
- - [Here’s a new way to lose an argument online: the appeal to AI](https://www.theverge.com/2024/12/23/24326077/i-asked-chatgpt)
- - [VC insiders say many partners left big firms in 2024, either quitting or being pushed out, as bleak market conditions led to less funding and leaner operations &lpar;Bloomberg&rpar;](http://www.techmeme.com/241223/p10#a241223p10)<!-- TECH:END -->
+ - [Nothing’s upcoming phones could switch to Snapdragon and optical zoom cameras](https://www.androidauthority.com/nothing-phone-3a-plus-snapdragon-optical-zoom-leak-3511021/)
+ - [Trump announces new tech policy picks for his second term](https://www.theverge.com/2024/12/23/24327968/trump-administration-tech-policy-picks-michael-kratsios-lynne-parker-bo-hines-sriram-krishnan)
+ - [Nosferatu is the stuff of exquisitely erotic nightmares](https://www.theverge.com/24322968/nosferatu-review-robert-eggers)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
