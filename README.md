@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [PC Gamer&#39;s highest review scores of 2024](https://www.pcgamer.com/games/pc-gamers-highest-review-scores-of-2024/)
- - [Sonic 3 Beats Mufasa At The U.S. Box Office, Chaos Ensues](https://kotaku.com/sonic-hedgehog-3-mufasa-box-office-reaction-joke-disney-1851727604)
- - [North Korean hackers are said to have stolen $1,300,000,000 in crypto in 2024, an estimated 61% of the total funds swiped this year](https://www.pcgamer.com/hardware/north-korean-hackers-are-said-to-have-stolen-usd1-300-000-000-in-crypto-in-2024-an-estimated-61-percent-of-the-total-funds-swiped-this-year/)<!-- GAME:END -->
+ - [How the Remarkable Mats Steen Used World of Warcraft to Become Ibelin](https://news.microsoft.com/source/?post_type=features&p=8936#new_tab)
+ - [Playing Path of Exile 2 with WASD makes it feel like a true action game, and I&#39;ll never be able to go back to my mouse](https://www.pcgamer.com/games/rpg/playing-path-of-exile-2-with-wasd-makes-it-feel-like-a-true-action-game-and-ill-never-be-able-to-go-back-to-my-mouse/)
+ - [All tower boss locations and best tower boss order in Palworld](https://www.polygon.com/palworld-guides/24049473/tower-boss-locations-bosses-order)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
