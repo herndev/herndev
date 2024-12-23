@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [2024 has been one of the most fragmented years for videogames and in hindsight I actually really liked that](https://www.pcgamer.com/games/2024-has-been-one-of-the-most-fragmented-years-for-videogames-and-in-hindsight-i-actually-really-liked-that/)
- - [2024 was the year gamers really started pushing back on the erosion of game ownership](https://www.pcgamer.com/gaming-industry/2024-was-the-year-gamers-really-started-pushing-back-on-the-erosion-of-game-ownership/)
- - [The outtakes from that live-action Balatro trailer are unhinged](https://www.pcgamer.com/games/the-outtakes-from-that-live-action-balatro-trailer-are-unhinged/)<!-- GAME:END -->
+ - [All the Dune: Prophecy season 2 news we’ve heard so far](https://www.polygon.com/tv/500276/dune-prophecy-season-2-release-date-cast-news)
+ - [The best heavyweight boxer in the world dressed like Hitman&#39;s Agent 47 to clown on his opponent in a pre-fight press conference](https://www.pcgamer.com/gaming-industry/the-best-heavyweight-boxer-in-the-world-dressed-like-hitmans-agent-47-to-clown-on-his-opponent-in-a-pre-fight-press-conference/)
+ - [2024 has been one of the most fragmented years for videogames and in hindsight I actually really liked that](https://www.pcgamer.com/games/2024-has-been-one-of-the-most-fragmented-years-for-videogames-and-in-hindsight-i-actually-really-liked-that/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
