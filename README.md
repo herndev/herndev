@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Icing Christmas Cookies](http://9gag.com/gag/a341Nyr)
- - ⏩ [I see this as a new hobby.. too bad i live in eastern Europe where playing this is quite impossible](http://9gag.com/gag/adBgo7N)
- - 👉 [Diy is getting out of control](http://9gag.com/gag/aAyGZBL)<!-- MEMES:END -->
+ - 💣 [When a society are so divided](http://9gag.com/gag/awyz4eR)
+ - ⏩ [Gimme my money](http://9gag.com/gag/agmgKqv)
+ - 👉 [I get it now :&lpar;](http://9gag.com/gag/aAyG2no)<!-- MEMES:END -->
 
 ---
 
