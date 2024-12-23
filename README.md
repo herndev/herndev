@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [OpenAI details &quot;deliberative alignment&quot;, a new method it used to make o1 and o3 &quot;think&quot; about its safety policy before responding, to improve overall alignment &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/241222/p13#a241222p13)
- - [Sources: SoftBank&#39;s Masayoshi Son has recently become singularly obsessed with how to build the next Nvidia and wants competitive AI chips ready to ship by 2026 &lpar;Bloomberg&rpar;](http://www.techmeme.com/241222/p12#a241222p12)
- - [Broadcom CEO Hock Tan says AI spending frenzy will continue until the decade&#39;s end, and downplays an Intel bid, saying he had his &quot;hands very full&quot; in AI chips &lpar;Tim Bradshaw/Financial Times&rpar;](http://www.techmeme.com/241222/p11#a241222p11)<!-- TECH:END -->
+ - [Your X subscription just went up…by a lot!](https://www.androidauthority.com/x-premium-plus-price-hike-3510929/)
+ - [Best Internet Providers in Murfreesboro, Tennessee](https://www.cnet.com/home/internet/best-internet-providers-in-murfreesboro-tn/#ftag=CAD590a51e)
+ - [Apple’s smart home renaissance includes a Face ID doorbell](https://www.androidauthority.com/apple-face-id-doorbell-3510924/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
