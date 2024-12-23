@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Have foldables already peaked? Samsung reportedly dials back targets](https://www.androidauthority.com/samsung-2025-foldable-sales-3511087/)
- - [Asus teases a new RGB-outlined Rog Strix laptop coming next year](https://www.theverge.com/2024/12/23/24328211/asus-rog-strix-laptop-teaser-ces-2025)
- - [The Motorola Edge 2024 is $250 off and at a record-low price](https://www.androidauthority.com/motorola-edge-2024-deal-2-3511102/)<!-- TECH:END -->
+ - [Google to court: we’ll change our Apple deal, but please let us keep Chrome](https://www.theverge.com/2024/12/23/24328087/google-proposed-final-judgement-search-monopoly-antitrust-default-contracts)
+ - [Apple&#39;s Apple Pay campaign raised $3 million for fight against AIDS](https://appleinsider.com/articles/24/12/23/apples-apple-pay-campaign-raised-3-million-for-fight-against-aids?utm_medium=rss)
+ - [Tech companies want to capture carbon at paper mills and sewage plants](https://www.theverge.com/2024/12/23/24328158/paper-sewage-carbon-removal-google-salesforce-frontier-crew-co280)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
