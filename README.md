@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The gaslighting is off the charts these days.](http://9gag.com/gag/a5Q1DpG)
- - ⏩ [Villains in movies](http://9gag.com/gag/aryn8EK)
- - 👉 [My first thought was also \u201ctech neck\u201d and nothing else.](http://9gag.com/gag/awyzvXW)<!-- MEMES:END -->
+ - 💣 [*inserts Benny Hill song*](http://9gag.com/gag/a341n5e)
+ - ⏩ [Cate Blanchett and her husband](http://9gag.com/gag/aW4gRYx)
+ - 👉 [When a society are so divided](http://9gag.com/gag/awyz4eR)<!-- MEMES:END -->
 
 ---
 
