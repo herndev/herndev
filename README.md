@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A viral YouTube video from MegaLag claims PayPal&#39;s Honey browser extension often doesn&#39;t show users the best coupon codes and steals creators&#39; affiliate revenue &lpar;Ryan Christoffel/9to5Mac&rpar;](http://www.techmeme.com/241223/p14#a241223p14)
- - [How Google Maps Makes It Harder for Palestinians to Navigate the West Bank](https://www.wired.com/story/google-maps-west-bank/)
- - [Sony’s WH-1000XM4 headphones are nearly 50 percent off right now](https://www.theverge.com/2024/12/23/24327980/sony-wh-1000xm4-noise-canceling-headphones-rig-nacon-revolution-x-controller-deal-sale)<!-- TECH:END -->
+ - [The Animation Guild ratifies a contract with big studios, without AI demands such as letting members opt out of using AI or having AI train on their work &lpar;Gene Maddaus/Variety&rpar;](http://www.techmeme.com/241223/p15#a241223p15)
+ - [This brand-new chip has no little cores, could beat Snapdragon in mid-range phones &lpar;Updated&rpar;](https://www.androidauthority.com/mediatek-dimensity-8400-3510930/)
+ - [Apple Is Developing a Doorbell That Unlocks With Your Face, Report Says](https://www.cnet.com/tech/mobile/apple-is-developing-a-doorbell-that-unlocks-with-your-face-report-says/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
