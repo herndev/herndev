@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Sonic the Hedgehog 2 almost included a macabre Big the Cat cameo](https://www.polygon.com/entertainment/501539/sonic-hedgehog-2-movie-big-cat-cameo-indiana-jones)
- - [Squid Game season 2, Doctor Who’s Christmas special, and more new TV this week](https://www.polygon.com/tv/493163/netflix-squid-game-season-2-new-doctor-who-christmas-special-how-when)
- - [This co-op survival horror masterpiece is just $2 in the Steam Winter Sale, which could explain why it just hit an all-time high player count of nearly 100k a decade after it launched](https://www.pcgamer.com/games/survival-crafting/this-co-op-survival-horror-masterpiece-is-just-usd2-in-the-steam-winter-sale-which-could-explain-why-it-just-hit-an-all-time-high-player-count-of-nearly-100k-a-decade-after-it-launched/)<!-- GAME:END -->
+ - [Why Marvel Rivals fans keep arguing about adding a role queue](https://www.polygon.com/gaming/501604/marvel-rivals-role-queue-question-overwatch)
+ - [Starfield is surprisingly absent from Steam&#39;s 2024 bestsellers list despite taking a top spot in 2023](https://www.pcgamer.com/games/starfield-is-surprisingly-absent-from-steams-2024-bestsellers-list-despite-taking-a-top-spot-in-2023/)
+ - [Star Fox 64 has a fanmade PC port and it&amp;#8217;s great](https://www.polygon.com/nintendo/501524/starfox-64-nintendo-emulator-port)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
