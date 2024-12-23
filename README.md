@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Hear ye, hear ye, this Team Fortress 2 comic is a holiday miracle](https://www.polygon.com/gaming/501710/team-fortress-2-valve-comic-surprise-release)
- - [Play as your Sonic the Hedgehog OC with these fan made tabletop games](https://www.polygon.com/tabletop-games/501703/sonic-the-hedgehog-oc-fan-ttrpg-tag-team-heroes-rings-and-running-shoes)
- - [Dune: Prophecy&#39;s Season Finale Twist Could Have Huge Implications For The Future Of The Franchise](https://kotaku.com/dune-prophecy-finale-recap-desmond-hart-valya-harkonnen-1851727517)<!-- GAME:END -->
+ - [For all you mayors managing your budgets, here are 5 city builders from 2024 with great discounts in the Steam Winter Sale](https://www.pcgamer.com/games/city-builder/for-all-you-mayors-managing-your-budgets-here-are-5-city-builders-from-2024-with-great-discounts-in-the-steam-winter-sale/)
+ - [How to get the free Yulejacket and Santa Dogg skins in Fortnite Winterfest 2024](https://www.polygon.com/fortnite-guide/500842/free-skins-winterfest-2024-yulejacket-santa-dogg-how-to-get)
+ - [Hear ye, hear ye, this Team Fortress 2 comic is a holiday miracle](https://www.polygon.com/gaming/501710/team-fortress-2-valve-comic-surprise-release)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
