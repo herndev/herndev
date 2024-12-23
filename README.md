@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [*inserts Benny Hill song*](http://9gag.com/gag/a341n5e)
- - ⏩ [Cate Blanchett and her husband](http://9gag.com/gag/aW4gRYx)
- - 👉 [When a society are so divided](http://9gag.com/gag/awyz4eR)<!-- MEMES:END -->
+ - 💣 [Iguazu Falls Brazil after heavy rain](http://9gag.com/gag/agmgd5n)
+ - ⏩ [I get it now :&lpar;](http://9gag.com/gag/aAyG2no)
+ - 👉 [Bro has all the energy! Lol](http://9gag.com/gag/aMV4XZX)<!-- MEMES:END -->
 
 ---
 
