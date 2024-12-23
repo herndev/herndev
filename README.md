@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Dust off your Arwing because a native Star Fox 64 port just barrel-rolled onto PC](https://www.androidauthority.com/star-fox-64-native-port-3510973/)
- - [AI Agents Will Be Manipulation Engines](https://www.wired.com/story/ai-agents-personal-assistants-manipulation-engines/)
- - [AT&amp;T hopes you’ll throw out your dumb landline for this one powered by a mobile network](https://www.androidauthority.com/att-phone-advanced-3510960/)<!-- TECH:END -->
+ - [The ASUS ROG Ally just got a 2x fps boost — Here’s how to turn it on](https://www.androidauthority.com/asus-rog-ally-afmf-2-3510993/)
+ - [The Biden administration opens a trade investigation into China&#39;s production of older chips, a move that may lead to tariffs and other measures to block imports &lpar;New York Times&rpar;](http://www.techmeme.com/241223/p5#a241223p5)
+ - [Google says it plans to counter Japan&#39;s FTC over claims that it hobbles rivals in search; a source says Japan&#39;s FTC sent a cease-and-desist order to Google &lpar;Bloomberg&rpar;](http://www.techmeme.com/241223/p4#a241223p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
