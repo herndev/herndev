@@ -40,8 +40,8 @@
 
 <!-- TECH:START -->
  - [M5 Pro may separate out GPU and CPU for new server-grade performance](https://appleinsider.com/articles/24/12/23/m5-pro-may-separate-out-gpu-and-cpu-for-new-server-grade-performance?utm_medium=rss)
- - [Google’s Pixel Referral program is back, letting you make a nice $500](https://www.androidauthority.com/google-pixel-referral-rewards-program-3511055/)
- - [Amazon Kindle Paperwhite Signature Edition review: best e-reader screen, fast page turns, and color options, but mostly small upgrades and lacks stylus support &lpar;Andrew Liszewski/The Verge&rpar;](http://www.techmeme.com/241223/p12#a241223p12)<!-- TECH:END -->
+ - [iPhone 18 Pro expected to have a variable aperture camera system](https://appleinsider.com/articles/24/12/23/iphone-18-pro-expected-to-have-a-variable-aperture-camera-system?utm_medium=rss)
+ - [Kuo: Apple&#39;s M5 chip to use TSMC&#39;s advanced N3P node; M5 Pro, Max, and Ultra will use a new server-grade SoIC packaging featuring separate CPU and GPU designs &lpar;Ben Lovejoy/9to5Mac&rpar;](http://www.techmeme.com/241223/p13#a241223p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
