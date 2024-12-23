@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Lol](http://9gag.com/gag/ae9g7XQ)
- - ⏩ [A tourist visiting North Korea secretly filmed a female traffic officer\u2019s movements and published the footage.](http://9gag.com/gag/arynBO5)
- - 👉 [Saving the best for last](http://9gag.com/gag/apRgAzp)<!-- MEMES:END -->
+ - 💣 [The gaslighting is off the charts these days.](http://9gag.com/gag/a5Q1DpG)
+ - ⏩ [Villains in movies](http://9gag.com/gag/aryn8EK)
+ - 👉 [My first thought was also \u201ctech neck\u201d and nothing else.](http://9gag.com/gag/awyzvXW)<!-- MEMES:END -->
 
 ---
 
