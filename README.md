@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Lol](http://9gag.com/gag/ae9g7XQ)
- - ⏩ [When a society are so divided](http://9gag.com/gag/awyz4eR)
- - 👉 [Saving the best for last](http://9gag.com/gag/apRgAzp)<!-- MEMES:END -->
+ - ⏩ [Saving the best for last](http://9gag.com/gag/apRgAzp)
+ - 👉 [Bro has all the energy! Lol](http://9gag.com/gag/aMV4XZX)<!-- MEMES:END -->
 
 ---
 
