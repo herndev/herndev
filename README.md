@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [When a society are so divided](http://9gag.com/gag/awyz4eR)
- - ⏩ [I expect nothing and I&#39;m still disappointed](http://9gag.com/gag/aD2DOdB)
- - 👉 [You can do that if you are men... but some how it is all men fault](http://9gag.com/gag/adBg2W2)<!-- MEMES:END -->
+ - 💣 [Lol](http://9gag.com/gag/ae9g7XQ)
+ - ⏩ [A tourist visiting North Korea secretly filmed a female traffic officer\u2019s movements and published the footage.](http://9gag.com/gag/arynBO5)
+ - 👉 [Saving the best for last](http://9gag.com/gag/apRgAzp)<!-- MEMES:END -->
 
 ---
 
