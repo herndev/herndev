@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Gimme my money](http://9gag.com/gag/agmgKqv)
- - ⏩ [Nice](http://9gag.com/gag/a0eZMRZ)
- - 👉 [\ud83d\udea8Breaking: German men demand immediate deportations as word gets out and numbers increase](http://9gag.com/gag/a7o1ABb)<!-- MEMES:END -->
+ - 💣 [Icing Christmas Cookies](http://9gag.com/gag/a341Nyr)
+ - ⏩ [I see this as a new hobby.. too bad i live in eastern Europe where playing this is quite impossible](http://9gag.com/gag/adBgo7N)
+ - 👉 [Diy is getting out of control](http://9gag.com/gag/aAyGZBL)<!-- MEMES:END -->
 
 ---
 
