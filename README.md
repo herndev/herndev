@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A look at new tech-based mental health treatments like the Tetris method and Avatar therapy that are offering promising early results and possibilities &lpar;Michael Peel/Financial Times&rpar;](http://www.techmeme.com/241223/p1#a241223p1)
  - [Your X subscription just went up…by a lot!](https://www.androidauthority.com/x-premium-plus-price-hike-3510929/)
- - [Best Internet Providers in Murfreesboro, Tennessee](https://www.cnet.com/home/internet/best-internet-providers-in-murfreesboro-tn/#ftag=CAD590a51e)
- - [Apple’s smart home renaissance includes a Face ID doorbell](https://www.androidauthority.com/apple-face-id-doorbell-3510924/)<!-- TECH:END -->
+ - [Best Internet Providers in Murfreesboro, Tennessee](https://www.cnet.com/home/internet/best-internet-providers-in-murfreesboro-tn/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
