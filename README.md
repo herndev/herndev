@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Sonic the Hedgehog 2 almost included a macabre Big the Cat cameo](https://www.polygon.com/entertainment/501539/sonic-hedgehog-2-movie-big-cat-cameo-indiana-jones)
  - [Squid Game season 2, Doctor Who’s Christmas special, and more new TV this week](https://www.polygon.com/tv/493163/netflix-squid-game-season-2-new-doctor-who-christmas-special-how-when)
- - [This co-op survival horror masterpiece is just $2 in the Steam Winter Sale, which could explain why it just hit an all-time high player count of nearly 100k a decade after it launched](https://www.pcgamer.com/games/survival-crafting/this-co-op-survival-horror-masterpiece-is-just-usd2-in-the-steam-winter-sale-which-could-explain-why-it-just-hit-an-all-time-high-player-count-of-nearly-100k-a-decade-after-it-launched/)
- - [Catch up on Sonic lore with this $13 comic bundle](https://www.polygon.com/good-deals/501365/sonic-the-hedgehog-comics-bundle-sale)<!-- GAME:END -->
+ - [This co-op survival horror masterpiece is just $2 in the Steam Winter Sale, which could explain why it just hit an all-time high player count of nearly 100k a decade after it launched](https://www.pcgamer.com/games/survival-crafting/this-co-op-survival-horror-masterpiece-is-just-usd2-in-the-steam-winter-sale-which-could-explain-why-it-just-hit-an-all-time-high-player-count-of-nearly-100k-a-decade-after-it-launched/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
