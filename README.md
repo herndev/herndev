@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [M5 Pro may separate out GPU and CPU for new server-grade performance](https://appleinsider.com/articles/24/12/23/m5-pro-may-separate-out-gpu-and-cpu-for-new-server-grade-performance?utm_medium=rss)
- - [iPhone 18 Pro expected to have a variable aperture camera system](https://appleinsider.com/articles/24/12/23/iphone-18-pro-expected-to-have-a-variable-aperture-camera-system?utm_medium=rss)
- - [Kuo: Apple&#39;s M5 chip to use TSMC&#39;s advanced N3P node; M5 Pro, Max, and Ultra will use a new server-grade SoIC packaging featuring separate CPU and GPU designs &lpar;Ben Lovejoy/9to5Mac&rpar;](http://www.techmeme.com/241223/p13#a241223p13)<!-- TECH:END -->
+ - [A viral YouTube video from MegaLag claims PayPal&#39;s Honey browser extension often doesn&#39;t show users the best coupon codes and steals creators&#39; affiliate revenue &lpar;Ryan Christoffel/9to5Mac&rpar;](http://www.techmeme.com/241223/p14#a241223p14)
+ - [How Google Maps Makes It Harder for Palestinians to Navigate the West Bank](https://www.wired.com/story/google-maps-west-bank/)
+ - [Sony’s WH-1000XM4 headphones are nearly 50 percent off right now](https://www.theverge.com/2024/12/23/24327980/sony-wh-1000xm4-noise-canceling-headphones-rig-nacon-revolution-x-controller-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
