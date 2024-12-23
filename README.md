@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [AT&amp;T hopes you’ll throw out your dumb landline for this one powered by a mobile network](https://www.androidauthority.com/att-phone-advanced-3510960/)
- - [Google doesn’t want to sell Chrome and Android, proposes swapping Google bloat for other bloat](https://www.androidauthority.com/google-chrome-android-doj-counter-proposal-3510947/)
- - [Google and OpenAI&#39;s AI product announcements over the past month have transformed the state of AI and show the breadth and pace of change &lpar;Ethan Mollick/One Useful Thing&rpar;](http://www.techmeme.com/241223/p2#a241223p2)<!-- TECH:END -->
+ - [Dust off your Arwing because a native Star Fox 64 port just barrel-rolled onto PC](https://www.androidauthority.com/star-fox-64-native-port-3510973/)
+ - [AI Agents Will Be Manipulation Engines](https://www.wired.com/story/ai-agents-personal-assistants-manipulation-engines/)
+ - [AT&amp;T hopes you’ll throw out your dumb landline for this one powered by a mobile network](https://www.androidauthority.com/att-phone-advanced-3510960/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
