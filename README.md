@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How to Ensure a Fun, Safe and Welcoming Gaming Experience for Your Kids on Xbox This Holiday Season](https://news.xbox.com/en-us/2024/11/15/xbox-family-settings-holiday/#new_tab)
- - [How to get shiny Rayquaza in Pokémon Scarlet and Violet](https://www.polygon.com/pokemon-scarlet-violet-guide/500253/shiny-rayquaza-tera-raid-counters)
- - [10 Awesome Movie-To-Game Adaptations To Play After Indiana Jones And The Great Circle](https://kotaku.com/best-movie-video-game-adaptations-indiana-jones-alien-1851726380)<!-- GAME:END -->
+ - [2024 has been one of the most fragmented years for videogames and in hindsight I actually really liked that](https://www.pcgamer.com/games/2024-has-been-one-of-the-most-fragmented-years-for-videogames-and-in-hindsight-i-actually-really-liked-that/)
+ - [2024 was the year gamers really started pushing back on the erosion of game ownership](https://www.pcgamer.com/gaming-industry/2024-was-the-year-gamers-really-started-pushing-back-on-the-erosion-of-game-ownership/)
+ - [The outtakes from that live-action Balatro trailer are unhinged](https://www.pcgamer.com/games/the-outtakes-from-that-live-action-balatro-trailer-are-unhinged/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
