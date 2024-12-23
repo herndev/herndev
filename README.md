@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How the Remarkable Mats Steen Used World of Warcraft to Become Ibelin](https://news.microsoft.com/source/?post_type=features&p=8936#new_tab)
- - [Playing Path of Exile 2 with WASD makes it feel like a true action game, and I&#39;ll never be able to go back to my mouse](https://www.pcgamer.com/games/rpg/playing-path-of-exile-2-with-wasd-makes-it-feel-like-a-true-action-game-and-ill-never-be-able-to-go-back-to-my-mouse/)
- - [All tower boss locations and best tower boss order in Palworld](https://www.polygon.com/palworld-guides/24049473/tower-boss-locations-bosses-order)<!-- GAME:END -->
+ - [Squid Game season 2, Doctor Who’s Christmas special, and more new TV this week](https://www.polygon.com/tv/493163/netflix-squid-game-season-2-new-doctor-who-christmas-special-how-when)
+ - [This co-op survival horror masterpiece is just $2 in the Steam Winter Sale, which could explain why it just hit an all-time high player count of nearly 100k a decade after it launched](https://www.pcgamer.com/games/survival-crafting/this-co-op-survival-horror-masterpiece-is-just-usd2-in-the-steam-winter-sale-which-could-explain-why-it-just-hit-an-all-time-high-player-count-of-nearly-100k-a-decade-after-it-launched/)
+ - [Catch up on Sonic lore with this $13 comic bundle](https://www.polygon.com/good-deals/501365/sonic-the-hedgehog-comics-bundle-sale)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
