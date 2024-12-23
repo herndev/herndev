@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [AMD&#39;s next-gen RDNA 4 graphics cards are now rumoured to be called the RX 9000-series, and we might have already had a sneak peek at what they look like](https://www.pcgamer.com/hardware/graphics-cards/amds-next-gen-rdna-4-graphics-cards-are-now-rumoured-to-be-called-the-rx-9000-series-and-we-might-have-already-had-a-sneak-peek-at-what-they-look-like/)
- - [Turtle Beach Stealth Pivot review](https://www.pcgamer.com/hardware/controllers/turtle-beach-stealth-pivot-review/)
- - [Today&#39;s Wordle answer for Monday, December 23](https://www.pcgamer.com/games/puzzle/wordle-answer-today-december-23-2024/)<!-- GAME:END -->
+ - [Fallout&#39;s original designer is fine with the direction of the modern games: &#39;They&#39;re both what they are, and a ton of people like it&#39;](https://www.pcgamer.com/games/fallout/fallouts-original-designer-is-fine-with-the-direction-of-the-modern-games-theyre-both-what-they-are-and-a-ton-of-people-like-it/)
+ - [Ready or Not&#39;s Dark Waters DLC has some cracking maps and scarily intelligent AI suspects that managed to outsmart me at almost every turn](https://www.pcgamer.com/games/fps/ready-or-nots-dark-waters-dlc-has-some-cracking-maps-and-scarily-intelligent-ai-suspects-that-managed-to-outsmart-me-at-almost-every-turn/)
+ - [AMD&#39;s next-gen RDNA 4 graphics cards are now rumoured to be called the RX 9000-series, and we might have already had a sneak peek at what they look like](https://www.pcgamer.com/hardware/graphics-cards/amds-next-gen-rdna-4-graphics-cards-are-now-rumoured-to-be-called-the-rx-9000-series-and-we-might-have-already-had-a-sneak-peek-at-what-they-look-like/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
