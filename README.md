@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Animation Guild ratifies a contract with big studios, without AI demands such as letting members opt out of using AI or having AI train on their work &lpar;Gene Maddaus/Variety&rpar;](http://www.techmeme.com/241223/p15#a241223p15)
- - [This brand-new chip has no little cores, could beat Snapdragon in mid-range phones &lpar;Updated&rpar;](https://www.androidauthority.com/mediatek-dimensity-8400-3510930/)
- - [Apple Is Developing a Doorbell That Unlocks With Your Face, Report Says](https://www.cnet.com/tech/mobile/apple-is-developing-a-doorbell-that-unlocks-with-your-face-report-says/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Have foldables already peaked? Samsung reportedly dials back targets](https://www.androidauthority.com/samsung-2025-foldable-sales-3511087/)
+ - [Asus teases a new RGB-outlined Rog Strix laptop coming next year](https://www.theverge.com/2024/12/23/24328211/asus-rog-strix-laptop-teaser-ces-2025)
+ - [The Motorola Edge 2024 is $250 off and at a record-low price](https://www.androidauthority.com/motorola-edge-2024-deal-2-3511102/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
