@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle answer for Monday, December 23](https://www.pcgamer.com/games/puzzle/wordle-answer-today-december-23-2024/)
  - [All the Dune: Prophecy season 2 news we’ve heard so far](https://www.polygon.com/tv/500276/dune-prophecy-season-2-release-date-cast-news)
- - [The best heavyweight boxer in the world dressed like Hitman&#39;s Agent 47 to clown on his opponent in a pre-fight press conference](https://www.pcgamer.com/gaming-industry/the-best-heavyweight-boxer-in-the-world-dressed-like-hitmans-agent-47-to-clown-on-his-opponent-in-a-pre-fight-press-conference/)
- - [2024 has been one of the most fragmented years for videogames and in hindsight I actually really liked that](https://www.pcgamer.com/games/2024-has-been-one-of-the-most-fragmented-years-for-videogames-and-in-hindsight-i-actually-really-liked-that/)<!-- GAME:END -->
+ - [The best heavyweight boxer in the world dressed like Hitman&#39;s Agent 47 to clown on his opponent in a pre-fight press conference](https://www.pcgamer.com/gaming-industry/the-best-heavyweight-boxer-in-the-world-dressed-like-hitmans-agent-47-to-clown-on-his-opponent-in-a-pre-fight-press-conference/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
