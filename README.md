@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Taxi driver trying to keep his composure while lady having a baby at the backseat of his car](http://9gag.com/gag/aD2DMgd)
+ - 💣 [Poor donkey](http://9gag.com/gag/a871KPd)
  - ⏩ [Luigi Mangione has pleaded not guilty in the killing of UnitedHealthcare CEO Brian Thompson.](http://9gag.com/gag/a0eZW7O)
- - 👉 [Tiger woods reaction to his sons first hole-in-one](http://9gag.com/gag/aNDP3M4)<!-- MEMES:END -->
+ - 👉 [Black Spooderman might get canceled cuz the black actor is a creep.](http://9gag.com/gag/a5Q1xxo)<!-- MEMES:END -->
 
 ---
 
