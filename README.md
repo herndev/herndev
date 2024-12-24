@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Merry Christmas you filthy animals.](http://9gag.com/gag/aBynNGZ)
- - ⏩ [Not all men](http://9gag.com/gag/a5Q1DAq)
- - 👉 [#NeverForget](http://9gag.com/gag/aVvxded)<!-- MEMES:END -->
+ - 💣 [Not all men](http://9gag.com/gag/a5Q1DAq)
+ - ⏩ [I&#39;m changing my phone plan](http://9gag.com/gag/a2v1A0Z)
+ - 👉 [A woman and her bike](http://9gag.com/gag/aGyzN1w)<!-- MEMES:END -->
 
 ---
 
