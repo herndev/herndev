@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Hmm](http://9gag.com/gag/arynDe0)
- - ⏩ [Every night](http://9gag.com/gag/aZZro46)
- - 👉 [*sad gamer noises*](http://9gag.com/gag/adBgW9Z)<!-- MEMES:END -->
+ - 💣 [*sad gamer noises*](http://9gag.com/gag/adBgW9Z)
+ - ⏩ [Merry Christmas you filthy animals.](http://9gag.com/gag/aBynNGZ)
+ - 👉 [Woke](http://9gag.com/gag/aGyz6dw)<!-- MEMES:END -->
 
 ---
 
