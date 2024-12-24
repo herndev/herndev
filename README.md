@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Three Japanese car manufacturers are getting together.](http://9gag.com/gag/agmgZRr)
- - ⏩ [Avada Kedavra](http://9gag.com/gag/abAgdq8)
- - 👉 [#NeverForget](http://9gag.com/gag/aVvxded)<!-- MEMES:END -->
+ - 💣 [Who are these 5% and why won&#39;t they go to Africa or India?](http://9gag.com/gag/an7g8Zo)
+ - ⏩ [Stephen King](http://9gag.com/gag/aYQrZ5q)
+ - 👉 [She wants 9gagger type friend...](http://9gag.com/gag/aMV4DzM)<!-- MEMES:END -->
 
 ---
 
