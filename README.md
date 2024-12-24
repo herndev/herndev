@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [#NeverForget](http://9gag.com/gag/aVvxded)
- - ⏩ [Merry Christmas you filthy animals.](http://9gag.com/gag/aBynNGZ)
- - 👉 [Taxi driver trying to keep his composure while lady having a baby at the backseat of his car](http://9gag.com/gag/aD2DMgd)<!-- MEMES:END -->
+ - 💣 [Three Japanese car manufacturers are getting together.](http://9gag.com/gag/agmgZRr)
+ - ⏩ [Avada Kedavra](http://9gag.com/gag/abAgdq8)
+ - 👉 [#NeverForget](http://9gag.com/gag/aVvxded)<!-- MEMES:END -->
 
 ---
 
