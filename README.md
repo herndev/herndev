@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I&#39;m changing my phone plan](http://9gag.com/gag/a2v1A0Z)
- - ⏩ [What the hell dude?](http://9gag.com/gag/ayN9zMM)
+ - 💣 [Merry Christmas you filthy animals.](http://9gag.com/gag/aBynNGZ)
+ - ⏩ [Not all men](http://9gag.com/gag/a5Q1DAq)
  - 👉 [#NeverForget](http://9gag.com/gag/aVvxded)<!-- MEMES:END -->
 
 ---
