@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Performing Hamlet in GTA Online felt like going back in time to Shakespeare&#39;s Globe Theatre where &#39;people would just throw apples at you, or there were prostitutes coming and going,&#39; say award-winning filmmakers](https://www.pcgamer.com/games/grand-theft-auto/performing-hamlet-in-gta-online-felt-like-going-back-in-time-to-shakespeares-globe-theatre-where-people-would-just-throw-apples-at-you-or-there-were-prostitutes-coming-and-going-say-award-winning-filmmakers/)
- - [Werewolves director on his practical monsters: ‘If the werewolves don’t work, the movie doesn’t work’](https://www.polygon.com/movies/499285/werewolves-movie-creature-design-practical-effects)
- - [I saved myself and you $70 by simply modding Skyrim to be indistinguishable from Metaphor: ReFantazio, the year&#39;s best RPG](https://www.pcgamer.com/games/i-saved-myself-and-you-usd70-by-simply-modding-skyrim-to-be-indistinguishable-from-metaphor-refantazio-the-years-best-rpg/)<!-- GAME:END -->
+ - [2024 felt like the year gaming laptops finally started to grow up, so roll on 2025 and the mega-smart lappys to come](https://www.pcgamer.com/hardware/gaming-laptops/2024-felt-like-the-year-gaming-laptops-finally-started-to-grow-up-so-roll-on-2025-and-the-mega-smart-lappys-to-come/)
+ - [I played at least one retro game every week in 2024: Here are 10 I&#39;d still recommend to everyone](https://www.pcgamer.com/games/i-played-at-least-one-retro-game-every-week-in-2024-here-are-10-id-still-recommend-to-everyone/)
+ - [Performing Hamlet in GTA Online felt like going back in time to the Globe Theatre where &#39;people would just throw apples at you, or there were prostitutes coming and going,&#39; say award-winning filmmakers](https://www.pcgamer.com/games/grand-theft-auto/performing-hamlet-in-gta-online-felt-like-going-back-in-time-to-shakespeares-globe-theatre-where-people-would-just-throw-apples-at-you-or-there-were-prostitutes-coming-and-going-say-award-winning-filmmakers/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
