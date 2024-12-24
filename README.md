@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Burn](http://9gag.com/gag/avyAXLZ)
- - ⏩ [Not all men](http://9gag.com/gag/a5Q1DAq)
- - 👉 [I&#39;m changing my phone plan](http://9gag.com/gag/a2v1A0Z)<!-- MEMES:END -->
+ - 💣 [I&#39;m changing my phone plan](http://9gag.com/gag/a2v1A0Z)
+ - ⏩ [What the hell dude?](http://9gag.com/gag/ayN9zMM)
+ - 👉 [#NeverForget](http://9gag.com/gag/aVvxded)<!-- MEMES:END -->
 
 ---
 
