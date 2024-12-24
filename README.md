@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Penguins.... are not actually Penguins.](http://9gag.com/gag/an7gW3B)
- - ⏩ [Merry Christmas you filthy animals.](http://9gag.com/gag/aBynNGZ)
- - 👉 [It was nice while it lasted... chrome has started phasing out manifest v2 extensions](http://9gag.com/gag/aE08NRo)<!-- MEMES:END -->
+ - 💣 [Tiger woods reaction to his sons first hole-in-one](http://9gag.com/gag/aNDP3M4)
+ - ⏩ [It was nice while it lasted... chrome has started phasing out manifest v2 extensions](http://9gag.com/gag/aE08NRo)
+ - 👉 [Taxi driver trying to keep his composure while lady having a baby at the backseat of his car](http://9gag.com/gag/aD2DMgd)<!-- MEMES:END -->
 
 ---
 
