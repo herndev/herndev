@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Performing Hamlet in GTA Online felt like going back in time to Shakespeare&#39;s Globe Theatre where &#39;people would just throw apples at you, or there were prostitutes coming and going,&#39; say award-winning filmmakers](https://www.pcgamer.com/games/grand-theft-auto/performing-hamlet-in-gta-online-felt-like-going-back-in-time-to-shakespeares-globe-theatre-where-people-would-just-throw-apples-at-you-or-there-were-prostitutes-coming-and-going-say-award-winning-filmmakers/)
  - [Werewolves director on his practical monsters: ‘If the werewolves don’t work, the movie doesn’t work’](https://www.polygon.com/movies/499285/werewolves-movie-creature-design-practical-effects)
- - [Dredge, the horror-fishing game with immaculate vibes, is free on the Epic Game Store](https://www.pcgamer.com/games/horror/dredge-the-horror-fishing-game-with-immaculate-vibes-is-free-on-the-epic-game-store/)
- - [The multiplayer shooter with the radioactive bears and moose artillery is holding a holiday playtest with a brand-new game mode](https://www.pcgamer.com/games/fps/the-multiplayer-shooter-with-the-radioactive-bears-and-moose-artillery-is-holding-a-holiday-playtest-with-a-brand-new-game-mode/)<!-- GAME:END -->
+ - [I saved myself and you $70 by simply modding Skyrim to be indistinguishable from Metaphor: ReFantazio, the year&#39;s best RPG](https://www.pcgamer.com/games/i-saved-myself-and-you-usd70-by-simply-modding-skyrim-to-be-indistinguishable-from-metaphor-refantazio-the-years-best-rpg/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
