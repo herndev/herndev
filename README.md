@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle answer for Tuesday, December 24](https://www.pcgamer.com/games/puzzle/wordle-answer-today-december-24-2024/)
  - [Warner Bros. is delisting games again: a half-dozen Cartoon Network releases have been removed from sale on digital storefronts](https://www.pcgamer.com/games/warner-bros-is-delisting-games-again-a-half-dozen-cartoon-network-releases-have-been-removed-from-sale-on-digital-storefronts/)
- - [Christopher Nolan to adapt The Odyssey with appropriately epic cast](https://www.polygon.com/movies/501836/christopher-nolans-odyssey-movie-release-date-cast)
- - [For all you mayors managing your budgets, here are 5 city builders from 2024 with great discounts in the Steam Winter Sale](https://www.pcgamer.com/games/city-builder/for-all-you-mayors-managing-your-budgets-here-are-5-city-builders-from-2024-with-great-discounts-in-the-steam-winter-sale/)<!-- GAME:END -->
+ - [Christopher Nolan to adapt The Odyssey with appropriately epic cast](https://www.polygon.com/movies/501836/christopher-nolans-odyssey-movie-release-date-cast)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
