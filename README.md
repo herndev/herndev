@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Iran claims it will lift its ban on &quot;certain widely used foreign platforms&quot;, naming WhatsApp and Google Play as the first two apps to be unblocked &lpar;Bloomberg&rpar;](http://www.techmeme.com/241224/p17#a241224p17)
- - [Apple&#39;s bad blood with Nvidia continues, after decades of fighting](https://appleinsider.com/articles/24/12/24/apples-bad-blood-with-nvidia-continues-after-decades-of-fighting?utm_medium=rss)
- - [There’s a reason Metaphor: ReFantanzio’s battle music sounds as cool as it does](https://www.theverge.com/2024/12/24/24328374/metaphor-refantanzio-battle-music-shoji-meguro-interview)<!-- TECH:END -->
+ - [Filing: Apple asks to participate in Google&#39;s upcoming US search antitrust trial, saying it can&#39;t rely on Google to defend their revenue-sharing agreements &lpar;Jody Godoy/Reuters&rpar;](http://www.techmeme.com/241224/p18#a241224p18)
+ - [The best phones I’m looking forward to in 2025](https://www.androidauthority.com/upcoming-phones-2025-3510675/)
+ - [Iran claims it will lift its ban on &quot;certain widely used foreign platforms&quot;, naming WhatsApp and Google Play as the first two apps to be unblocked &lpar;Bloomberg&rpar;](http://www.techmeme.com/241224/p17#a241224p17)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
