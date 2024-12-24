@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [One UI 7 will make it easier to filter notifications that aren’t important](https://www.androidauthority.com/one-ui-7-filter-notifications-3511176/)
- - [Best Workout Apps for Women in 2024](https://www.cnet.com/health/fitness/best-workout-apps-for-women/#ftag=CAD590a51e)
- - [NASA&#39;s Parker Probe Flies Closer to the Sun Than Any Object Ever Has](https://www.cnet.com/science/nasas-parker-probe-flies-closer-to-the-sun-than-any-object-ever-has/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Ending Google search partnership would hamstring Apple, says Eddy Cue](https://appleinsider.com/articles/24/12/24/ending-google-search-partnership-would-hamstring-apple-says-eddy-cue?utm_medium=rss)
+ - [Elon Musk is one of two paid subscribers of an X account that has suggested South Africa was better off under apartheid, lambasted &quot;Black ruled&quot; countries, more &lpar;Isaac Schorr/Mediaite&rpar;](http://www.techmeme.com/241224/p20#a241224p20)
+ - [One UI 7 will make it easier to filter notifications that aren’t important](https://www.androidauthority.com/one-ui-7-filter-notifications-3511176/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
