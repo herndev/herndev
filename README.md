@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [For all you mayors managing your budgets, here are 5 city builders from 2024 with great discounts in the Steam Winter Sale](https://www.pcgamer.com/games/city-builder/for-all-you-mayors-managing-your-budgets-here-are-5-city-builders-from-2024-with-great-discounts-in-the-steam-winter-sale/)
- - [How to get the free Yulejacket and Santa Dogg skins in Fortnite Winterfest 2024](https://www.polygon.com/fortnite-guide/500842/free-skins-winterfest-2024-yulejacket-santa-dogg-how-to-get)
- - [Hear ye, hear ye, this Team Fortress 2 comic is a holiday miracle](https://www.polygon.com/gaming/501710/team-fortress-2-valve-comic-surprise-release)<!-- GAME:END -->
+ - [Warner Bros. is delisting games again: a half-dozen Cartoon Network releases have been removed from sale on digital storefronts](https://www.pcgamer.com/games/warner-bros-is-delisting-games-again-a-half-dozen-cartoon-network-releases-have-been-removed-from-sale-on-digital-storefronts/)
+ - [Christopher Nolan to adapt The Odyssey with appropriately epic cast](https://www.polygon.com/movies/501836/christopher-nolans-odyssey-movie-release-date-cast)
+ - [For all you mayors managing your budgets, here are 5 city builders from 2024 with great discounts in the Steam Winter Sale](https://www.pcgamer.com/games/city-builder/for-all-you-mayors-managing-your-budgets-here-are-5-city-builders-from-2024-with-great-discounts-in-the-steam-winter-sale/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
