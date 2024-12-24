@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [YouTube’s best ‘how music works’ channel taught me so much about media I love](https://www.polygon.com/yuletide-youtube/486717/best-music-analysis-channel)
- - [2024 felt like the year gaming laptops finally started to grow up, so roll on 2025 and the mega-smart lappys to come](https://www.pcgamer.com/hardware/gaming-laptops/2024-felt-like-the-year-gaming-laptops-finally-started-to-grow-up-so-roll-on-2025-and-the-mega-smart-lappys-to-come/)
- - [I played at least one retro game every week in 2024: Here are 10 I&#39;d still recommend to everyone](https://www.pcgamer.com/games/i-played-at-least-one-retro-game-every-week-in-2024-here-are-10-id-still-recommend-to-everyone/)<!-- GAME:END -->
+ - [Best Great League teams to use in Pokémon Go](https://www.polygon.com/pokemon-go-guide/500388/great-league-best-team-meta)
+ - [Best Ultra League teams to use in Pokémon Go](https://www.polygon.com/pokemon-go-guide/500550/ultra-league-best-team-meta)
+ - [YouTube’s best ‘how music works’ channel taught me so much about media I love](https://www.polygon.com/yuletide-youtube/486717/best-music-analysis-channel)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
