@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Tiger woods reaction to his sons first hole-in-one](http://9gag.com/gag/aNDP3M4)
- - ⏩ [Not all men](http://9gag.com/gag/a5Q1DAq)
- - 👉 [Black Spooderman might get canceled cuz the black actor is a creep.](http://9gag.com/gag/a5Q1xxo)<!-- MEMES:END -->
+ - 💣 [You wanted MEMES? Well, too bad! Here are feels!](http://9gag.com/gag/a5Q1DVy)
+ - ⏩ [Yo homie](http://9gag.com/gag/amogdXv)
+ - 👉 [Man i missed it](http://9gag.com/gag/awyz8O8)<!-- MEMES:END -->
 
 ---
 
