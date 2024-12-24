@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Analysis: SAP accounts for ~40% of Frankfurt DAX&#39;s 18.7% gains in 2024, with SAP up 70%+ as the software company transitions its business customers to the cloud &lpar;Financial Times&rpar;](http://www.techmeme.com/241224/p9#a241224p9)
- - [People With Extreme Wealth Should Give It Away—or Be Penalized](https://www.wired.com/story/people-with-extreme-wealth-should-give-it-away-or-be-penalized/)
- - [How AI hallucinations are transforming scientific discovery, with some scientists calling the term &quot;hallucination&quot; misleading and likening it to exploration &lpar;William J. Broad/New York Times&rpar;](http://www.techmeme.com/241224/p8#a241224p8)<!-- TECH:END -->
+ - [Tass: the Russian government bans crypto mining in 10 regions from January 1 to March 15, 2031, citing power consumption, after legalizing mining in July 2024 &lpar;Sheldon Reback/CoinDesk&rpar;](http://www.techmeme.com/241224/p11#a241224p11)
+ - [Santa Clause is coming to town and you can now track him on Google](https://www.androidauthority.com/google-santa-tracker-2024-3511196/)
+ - [Sources: the EU will conditionally approve US chip design software company Synopsys&#39; $35B Ansys acquisition, the largest tech deal since Broadcom bought VMware &lpar;Foo Yun Chee/Reuters&rpar;](http://www.techmeme.com/241224/p10#a241224p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
