@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [\ud83d\udea8Breaking: German men demand immediate deportations as word gets out and numbers increase](http://9gag.com/gag/a7o1ABb)
- - ⏩ [Man i missed it](http://9gag.com/gag/awyz8O8)
+ - 💣 [Man i missed it](http://9gag.com/gag/awyz8O8)
+ - ⏩ [\ud83d\udea8Breaking: German men demand immediate deportations as word gets out and numbers increase](http://9gag.com/gag/a7o1ABb)
  - 👉 [Left or goth?](http://9gag.com/gag/aZZrdrW)<!-- MEMES:END -->
 
 ---
