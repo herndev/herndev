@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [She wants 9gagger type friend...](http://9gag.com/gag/aMV4DzM)
- - ⏩ [Left or goth?](http://9gag.com/gag/aZZrdrW)
- - 👉 [\ud83d\udea8Breaking: German men demand immediate deportations as word gets out and numbers increase](http://9gag.com/gag/a7o1ABb)<!-- MEMES:END -->
+ - 💣 [#NeverForget](http://9gag.com/gag/aVvxded)
+ - ⏩ [Merry Christmas you filthy animals.](http://9gag.com/gag/aBynNGZ)
+ - 👉 [Taxi driver trying to keep his composure while lady having a baby at the backseat of his car](http://9gag.com/gag/aD2DMgd)<!-- MEMES:END -->
 
 ---
 
