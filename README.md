@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Filing: Chinese video surveillance provider Dahua to terminate or exit five government projects in Xinjiang; Hikvision made a similar announcement this month &lpar;Reuters&rpar;](http://www.techmeme.com/241223/p22#a241223p22)
- - [Donald Trump announces Scott Kupor, a managing partner at a16z, will serve as director of OPM, and Michael Kratsios will serve as the White House OSTP director &lpar;Annie Palmer/CNBC&rpar;](http://www.techmeme.com/241223/p21#a241223p21)
- - [Internet freedom advocates criticize Vietnam&#39;s Decree 147, which goes into effect on Dec. 25 and requires social media users to verify their identities and more &lpar;Agence France-Presse&rpar;](http://www.techmeme.com/241223/p20#a241223p20)<!-- TECH:END -->
+ - [Netflix sues Broadcom in California federal court, accusing VMware&#39;s cloud software of infringing five patents covering aspects of operating virtual machines &lpar;Blake Brittain/Reuters&rpar;](http://www.techmeme.com/241224/p3#a241224p3)
+ - [Balderton Capital and Dealroom: European AI startups attracted 25% of the region&#39;s VC funding, or ~$13.7B, in 2024, compared to 15% in 2020 &lpar;Anna Heim/TechCrunch&rpar;](http://www.techmeme.com/241224/p2#a241224p2)
+ - [Hashed: $112M+ worth of USDC fled Hyperliquid, the top DeFi derivatives exchange by volume, on December 23, after concern over trading by North Korean hackers &lpar;Muyao Shen/Bloomberg&rpar;](http://www.techmeme.com/241224/p1#a241224p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
