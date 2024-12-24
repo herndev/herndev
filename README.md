@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The 15 Biggest Video Game Disappointments Of 2024](https://kotaku.com/video-game-bad-news-disappointments-concord-ps5-pro-1851725872)
- - [New Mistborn game helps Brandon Sanderson’s unique form of magic come to life](https://www.polygon.com/gaming/499773/mistborn-deckbuilding-game-impressions-release-date-price)
- - [PC Gamer Hardware Awards: The best gaming laptop of 2024](https://www.pcgamer.com/hardware/gaming-laptops/pc-gamer-hardware-awards-the-best-gaming-laptop-of-2024/)<!-- GAME:END -->
+ - [Rankin/Bass’ holiday-special style makes 1977’s The Hobbit a great Christmas watch](https://www.polygon.com/movies/501804/hobbit-animated-streaming-1977-rankin-bass)
+ - [The Spirit of the Samurai is an impressive work of stop-motion art paired with a dissatisfying, frustrating action game](https://www.pcgamer.com/games/action/the-spirit-of-the-samurai-is-an-impressive-work-of-stop-motion-art-paired-with-a-dissatisfying-frustrating-action-game/)
+ - [Corsair MP700 Elite 2 TB NVMe SSD review](https://www.pcgamer.com/hardware/ssds/corsair-mp700-elite-2-tb-nvme-ssd-review/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
