@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [YouTube’s best ‘how music works’ channel taught me so much about media I love](https://www.polygon.com/yuletide-youtube/486717/best-music-analysis-channel)
  - [2024 felt like the year gaming laptops finally started to grow up, so roll on 2025 and the mega-smart lappys to come](https://www.pcgamer.com/hardware/gaming-laptops/2024-felt-like-the-year-gaming-laptops-finally-started-to-grow-up-so-roll-on-2025-and-the-mega-smart-lappys-to-come/)
- - [I played at least one retro game every week in 2024: Here are 10 I&#39;d still recommend to everyone](https://www.pcgamer.com/games/i-played-at-least-one-retro-game-every-week-in-2024-here-are-10-id-still-recommend-to-everyone/)
- - [Performing Hamlet in GTA Online felt like going back in time to the Globe Theatre where &#39;people would just throw apples at you, or there were prostitutes coming and going,&#39; say award-winning filmmakers](https://www.pcgamer.com/games/grand-theft-auto/performing-hamlet-in-gta-online-felt-like-going-back-in-time-to-shakespeares-globe-theatre-where-people-would-just-throw-apples-at-you-or-there-were-prostitutes-coming-and-going-say-award-winning-filmmakers/)<!-- GAME:END -->
+ - [I played at least one retro game every week in 2024: Here are 10 I&#39;d still recommend to everyone](https://www.pcgamer.com/games/i-played-at-least-one-retro-game-every-week-in-2024-here-are-10-id-still-recommend-to-everyone/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
