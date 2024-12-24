@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s 14-inch MacBook Pro with M4 Pro chip plunges to record low $1,699 today only](https://appleinsider.com/articles/24/12/24/apples-14-inch-macbook-pro-with-m4-pro-chip-plunges-to-record-low-1699-today-only?utm_medium=rss)
- - [The 10 best shows to stream on Disney Plus and Hulu from 2024](https://www.theverge.com/24310265/disney-plus-hulu-2024-stream-best-shows)
- - [Best Coffee Grinders for 2024: Oxo, Baratza and Breville](https://www.cnet.com/home/kitchen-and-household/best-coffee-grinder/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Kobo’s Elipsa 2E, an excellent e-reader for taking notes, is down to its best price](https://www.theverge.com/2024/12/24/24328079/kobo-elipsa-2e-sony-wh-ch720-deal-sale)
+ - [How NASA Might Change Under Donald Trump](https://www.wired.com/story/how-nasa-might-change-under-donald-trump/)
+ - [Apple&#39;s microLED plans will get a giant boost from Foxconn&#39;s AR glasses move](https://appleinsider.com/articles/24/12/24/apples-microled-plans-will-get-a-giant-boost-from-foxconns-ar-glasses-move?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
