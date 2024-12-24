@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Founders Fund seeks ~$3B for its third growth equity fund; it raised $3.4B for its second growth fund and $1.8B for its eighth early-stage fund in 2022 &lpar;Dan Primack/Axios&rpar;](http://www.techmeme.com/241224/p21#a241224p21)
  - [Ending Google search partnership would hamstring Apple, says Eddy Cue](https://appleinsider.com/articles/24/12/24/ending-google-search-partnership-would-hamstring-apple-says-eddy-cue?utm_medium=rss)
- - [Elon Musk is one of two paid subscribers of an X account that has suggested South Africa was better off under apartheid, lambasted &quot;Black ruled&quot; countries, more &lpar;Isaac Schorr/Mediaite&rpar;](http://www.techmeme.com/241224/p20#a241224p20)
- - [One UI 7 will make it easier to filter notifications that aren’t important](https://www.androidauthority.com/one-ui-7-filter-notifications-3511176/)<!-- TECH:END -->
+ - [Best Internet Providers in Portland, Oregon](https://www.cnet.com/home/internet/best-internet-providers-in-portland-or/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
