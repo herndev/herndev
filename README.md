@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Kobo’s Elipsa 2E, an excellent e-reader for taking notes, is down to its best price](https://www.theverge.com/2024/12/24/24328079/kobo-elipsa-2e-sony-wh-ch720-deal-sale)
- - [How NASA Might Change Under Donald Trump](https://www.wired.com/story/how-nasa-might-change-under-donald-trump/)
- - [Apple&#39;s microLED plans will get a giant boost from Foxconn&#39;s AR glasses move](https://appleinsider.com/articles/24/12/24/apples-microled-plans-will-get-a-giant-boost-from-foxconns-ar-glasses-move?utm_medium=rss)<!-- TECH:END -->
+ - [Iran claims it will lift its ban on &quot;certain widely used foreign platforms&quot;, naming WhatsApp and Google Play as the first two apps to be unblocked &lpar;Bloomberg&rpar;](http://www.techmeme.com/241224/p17#a241224p17)
+ - [Apple&#39;s bad blood with Nvidia continues, after decades of fighting](https://appleinsider.com/articles/24/12/24/apples-bad-blood-with-nvidia-continues-after-decades-of-fighting?utm_medium=rss)
+ - [There’s a reason Metaphor: ReFantanzio’s battle music sounds as cool as it does](https://www.theverge.com/2024/12/24/24328374/metaphor-refantanzio-battle-music-shoji-meguro-interview)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
