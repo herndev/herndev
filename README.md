@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Rankin/Bass’ holiday-special style makes 1977’s The Hobbit a great Christmas watch](https://www.polygon.com/movies/501804/hobbit-animated-streaming-1977-rankin-bass)
- - [The Spirit of the Samurai is an impressive work of stop-motion art paired with a dissatisfying, frustrating action game](https://www.pcgamer.com/games/action/the-spirit-of-the-samurai-is-an-impressive-work-of-stop-motion-art-paired-with-a-dissatisfying-frustrating-action-game/)
- - [Corsair MP700 Elite 2 TB NVMe SSD review](https://www.pcgamer.com/hardware/ssds/corsair-mp700-elite-2-tb-nvme-ssd-review/)<!-- GAME:END -->
+ - [Game Pass – Choose the Right Plan for Your Gaming Needs](https://news.xbox.com/en-us/2024/11/15/game-pass-tiers-choose-the-right-plan/#new_tab)
+ - [Nosferatu director needed Bill Skarsgård’s vampire to look like a creepy corpse](https://www.polygon.com/movies/501581/nosferatu-vampire-design-orlok-eggers-interview)
+ - [Where to unlock Cloud of Darkness &lpar;Chaotic&rpar; in FFXIV](https://www.polygon.com/ffxiv-guides-ff14-final-fantasy-14-online/498506/cloud-of-darkness-chaotic-unlock-reward-exchange)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
