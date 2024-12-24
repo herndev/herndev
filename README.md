@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tass: the Russian government bans crypto mining in 10 regions from January 1 to March 15, 2031, citing power consumption, after legalizing mining in July 2024 &lpar;Sheldon Reback/CoinDesk&rpar;](http://www.techmeme.com/241224/p11#a241224p11)
- - [Santa Clause is coming to town and you can now track him on Google](https://www.androidauthority.com/google-santa-tracker-2024-3511196/)
- - [Sources: the EU will conditionally approve US chip design software company Synopsys&#39; $35B Ansys acquisition, the largest tech deal since Broadcom bought VMware &lpar;Foo Yun Chee/Reuters&rpar;](http://www.techmeme.com/241224/p10#a241224p10)<!-- TECH:END -->
+ - [I&#39;m a Money Expert With $10k in Credit Card Debt. Here&#39;s How I&#39;m Paying It Off](https://www.cnet.com/personal-finance/im-a-money-expert-with-10k-in-credit-card-debt-heres-how-im-paying-it-off/#ftag=CAD590a51e)
+ - [The US FTC orders Marriott and Starwood to implement a robust customer data security scheme after Starwood&#39;s 2014 to 2018 breaches and Marriott&#39;s 2018 breach &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/241224/p12#a241224p12)
+ - [Helix Plus Mattress Review 2024: A Durable Hybrid Bed Gets a Fresh New Look](https://www.cnet.com/health/sleep/helix-plus-mattress-review/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
