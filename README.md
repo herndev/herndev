@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Yo homie](http://9gag.com/gag/amogdXv)
- - ⏩ [Good old copper](http://9gag.com/gag/aO8QNL3)
- - 👉 [Man i missed it](http://9gag.com/gag/awyz8O8)<!-- MEMES:END -->
+ - 💣 [Penguins.... are not actually Penguins.](http://9gag.com/gag/an7gW3B)
+ - ⏩ [Merry Christmas you filthy animals.](http://9gag.com/gag/aBynNGZ)
+ - 👉 [It was nice while it lasted... chrome has started phasing out manifest v2 extensions](http://9gag.com/gag/aE08NRo)<!-- MEMES:END -->
 
 ---
 
