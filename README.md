@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [277](http://9gag.com/gag/aAyGqKg)
- - ⏩ [Hmm](http://9gag.com/gag/arynDe0)
- - 👉 [Nativity play](http://9gag.com/gag/azxeQ2B)<!-- MEMES:END -->
+ - 💣 [Burn](http://9gag.com/gag/avyAXLZ)
+ - ⏩ [Not all men](http://9gag.com/gag/a5Q1DAq)
+ - 👉 [I&#39;m changing my phone plan](http://9gag.com/gag/a2v1A0Z)<!-- MEMES:END -->
 
 ---
 
