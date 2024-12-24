@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [The 15 Biggest Video Game Disappointments Of 2024](https://kotaku.com/video-game-bad-news-disappointments-concord-ps5-pro-1851725872)
  - [New Mistborn game helps Brandon Sanderson’s unique form of magic come to life](https://www.polygon.com/gaming/499773/mistborn-deckbuilding-game-impressions-release-date-price)
- - [The 15 Best Video Game Surprises Of 2024](https://kotaku.com/best-surprises-games-trailers-video-game-moments-2024-1851725768)
- - [The state birds are garbage, but this video about them is genius](https://www.polygon.com/yuletide-youtube/479901/us-state-birds-garbage-youtube-video)<!-- GAME:END -->
+ - [PC Gamer Hardware Awards: The best gaming laptop of 2024](https://www.pcgamer.com/hardware/gaming-laptops/pc-gamer-hardware-awards-the-best-gaming-laptop-of-2024/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
