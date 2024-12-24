@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Three Japanese car manufacturers are getting together.](http://9gag.com/gag/agmgZRr)
- - ⏩ [It was nice while it lasted... chrome has started phasing out manifest v2 extensions](http://9gag.com/gag/aE08NRo)
- - 👉 [Hmm](http://9gag.com/gag/arynDe0)<!-- MEMES:END -->
+ - 💣 [Hmm](http://9gag.com/gag/arynDe0)
+ - ⏩ [Every night](http://9gag.com/gag/aZZro46)
+ - 👉 [*sad gamer noises*](http://9gag.com/gag/adBgW9Z)<!-- MEMES:END -->
 
 ---
 
