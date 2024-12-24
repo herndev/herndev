@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Tiger woods reaction to his sons first hole-in-one](http://9gag.com/gag/aNDP3M4)
- - ⏩ [Not all men](http://9gag.com/gag/a5Q1DAq)
- - 👉 [OddlySpecific](http://9gag.com/gag/avyAmLW)<!-- MEMES:END -->
+ - 💣 [Yo homie](http://9gag.com/gag/amogdXv)
+ - ⏩ [Good old copper](http://9gag.com/gag/aO8QNL3)
+ - 👉 [Man i missed it](http://9gag.com/gag/awyz8O8)<!-- MEMES:END -->
 
 ---
 
