@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Riot&#39;s co-founder says money isn&#39;t everything: &#39;People think we make things like Arcane to sell skins when in reality, we sell skins to make things like Arcane&#39;](https://www.pcgamer.com/movies-tv/riots-co-founder-says-money-isnt-everything-people-think-we-make-things-like-arcane-to-sell-skins-when-in-reality-we-sell-skins-to-make-things-like-arcane/)
- - [Final Fantasy 14&#39;s battle designer admits they went a little overboard on streamlining fights, especially for melee: &#39;Our policy of reducing gameplay-related frustrations was sometimes taken too far&#39;](https://www.pcgamer.com/games/final-fantasy/final-fantasy-14s-battle-designer-admits-they-went-a-little-overboard-on-streamlining-fights-especially-for-melee-our-policy-of-reducing-gameplay-related-frustrations-was-sometimes-taken-too-far/)
- - [How to get started with The Finals: 7 tips you need to know](https://www.pcgamer.com/games/fps/how-to-get-started-with-the-finals-7-tips-you-need-to-know/)<!-- GAME:END -->
+ - [New Mistborn game helps Brandon Sanderson’s unique form of magic come to life](https://www.polygon.com/gaming/499773/mistborn-deckbuilding-game-impressions-release-date-price)
+ - [The 15 Best Video Game Surprises Of 2024](https://kotaku.com/best-surprises-games-trailers-video-game-moments-2024-1851725768)
+ - [The state birds are garbage, but this video about them is genius](https://www.polygon.com/yuletide-youtube/479901/us-state-birds-garbage-youtube-video)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
