@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Game Pass – Choose the Right Plan for Your Gaming Needs](https://news.xbox.com/en-us/2024/11/15/game-pass-tiers-choose-the-right-plan/#new_tab)
- - [Nosferatu director needed Bill Skarsgård’s vampire to look like a creepy corpse](https://www.polygon.com/movies/501581/nosferatu-vampire-design-orlok-eggers-interview)
- - [Where to unlock Cloud of Darkness &lpar;Chaotic&rpar; in FFXIV](https://www.polygon.com/ffxiv-guides-ff14-final-fantasy-14-online/498506/cloud-of-darkness-chaotic-unlock-reward-exchange)<!-- GAME:END -->
+ - [Werewolves director on his practical monsters: ‘If the werewolves don’t work, the movie doesn’t work’](https://www.polygon.com/movies/499285/werewolves-movie-creature-design-practical-effects)
+ - [Dredge, the horror-fishing game with immaculate vibes, is free on the Epic Game Store](https://www.pcgamer.com/games/horror/dredge-the-horror-fishing-game-with-immaculate-vibes-is-free-on-the-epic-game-store/)
+ - [The multiplayer shooter with the radioactive bears and moose artillery is holding a holiday playtest with a brand-new game mode](https://www.pcgamer.com/games/fps/the-multiplayer-shooter-with-the-radioactive-bears-and-moose-artillery-is-holding-a-holiday-playtest-with-a-brand-new-game-mode/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
