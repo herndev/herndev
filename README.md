@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [277](http://9gag.com/gag/aAyGqKg)
- - ⏩ [It was nice while it lasted... chrome has started phasing out manifest v2 extensions](http://9gag.com/gag/aE08NRo)
- - 👉 [#NeverForget](http://9gag.com/gag/aVvxded)<!-- MEMES:END -->
+ - 💣 [She wants 9gagger type friend...](http://9gag.com/gag/aMV4DzM)
+ - ⏩ [Left or goth?](http://9gag.com/gag/aZZrdrW)
+ - 👉 [\ud83d\udea8Breaking: German men demand immediate deportations as word gets out and numbers increase](http://9gag.com/gag/a7o1ABb)<!-- MEMES:END -->
 
 ---
 
