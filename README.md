@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Who are these 5% and why won&#39;t they go to Africa or India?](http://9gag.com/gag/an7g8Zo)
- - ⏩ [Stephen King](http://9gag.com/gag/aYQrZ5q)
- - 👉 [She wants 9gagger type friend...](http://9gag.com/gag/aMV4DzM)<!-- MEMES:END -->
+ - 💣 [277](http://9gag.com/gag/aAyGqKg)
+ - ⏩ [Hmm](http://9gag.com/gag/arynDe0)
+ - 👉 [Nativity play](http://9gag.com/gag/azxeQ2B)<!-- MEMES:END -->
 
 ---
 
