@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Save 50% on the Google Nest Audio while you can](https://www.androidauthority.com/google-nest-audio-deal-8-3511100/)
- - [Apple&#39;s updated M4 MacBook Air could arrive sooner than expected](https://appleinsider.com/articles/24/12/23/apples-updated-m4-macbook-air-could-arrive-sooner-than-expected?utm_medium=rss)
- - [Google Drive speeds up your access to uploaded videos](https://www.androidauthority.com/google-drive-video-uploads-3511135/)<!-- TECH:END -->
+ - [Marriott and Starwood hotels will have to get better at data security](https://www.theverge.com/2024/12/23/24328437/ftc-marriott-international-starwood-hotels-order-data-security-cyberattacks-hacks-ransomware)
+ - [Xerox agrees to acquire Lexmark from Ninestar, PAG Asia Capital, and Shanghai Shouda in a deal valued at $1.5B, including debt, and expected to close in H2 2025 &lpar;Lauren Thomas/Wall Street Journal&rpar;](http://www.techmeme.com/241223/p18#a241223p18)
+ - [The best Garmin watches for training and everyday life](https://www.theverge.com/23691498/best-garmin-smartwatch-fitness-tracker-wearables)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
