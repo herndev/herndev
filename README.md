@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The dream of an all-glass iPhone will have to wait a bit longer](https://appleinsider.com/articles/24/12/24/the-dream-of-an-all-glass-iphone-will-have-to-wait-a-bit-longer?utm_medium=rss)
- - [The Barbie Phone is plastic, fantastic, and impractical](https://www.theverge.com/24325045/barbie-phone-hmd-mattel-kai-os)
- - [West Bank residents, who have long complained of missing and outdated data on Google Maps, say the Israel-Hamas war has made the app even worse for navigation &lpar;Paresh Dave/Wired&rpar;](http://www.techmeme.com/241224/p15#a241224p15)<!-- TECH:END -->
+ - [Apple&#39;s 14-inch MacBook Pro with M4 Pro chip plunges to record low $1,699 today only](https://appleinsider.com/articles/24/12/24/apples-14-inch-macbook-pro-with-m4-pro-chip-plunges-to-record-low-1699-today-only?utm_medium=rss)
+ - [The 10 best shows to stream on Disney Plus and Hulu from 2024](https://www.theverge.com/24310265/disney-plus-hulu-2024-stream-best-shows)
+ - [Best Coffee Grinders for 2024: Oxo, Baratza and Breville](https://www.cnet.com/home/kitchen-and-household/best-coffee-grinder/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
