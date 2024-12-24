@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [xAI announces it raised a $6B Series C from a16z, BlackRock, Fidelity, Kingdom Holdings, Sequoia, Nvidia, and others, at a reported valuation of at least $40B &lpar;Antonio Peque&amp;ntilde;o IV/Forbes&rpar;](http://www.techmeme.com/241223/p19#a241223p19)
  - [What ringtone are you using on your phone?](https://www.androidauthority.com/custom-ringtones-3511179/)
- - [Google issues its remedies proposal in antitrust case surrounding its search engine](https://appleinsider.com/articles/24/12/24/google-issues-its-remedies-proposal-in-antitrust-case-surrounding-its-search-engine?utm_medium=rss)
- - [Marriott and Starwood hotels will have to get better at data security](https://www.theverge.com/2024/12/23/24328437/ftc-marriott-international-starwood-hotels-order-data-security-cyberattacks-hacks-ransomware)<!-- TECH:END -->
+ - [Google issues its remedies proposal in antitrust case surrounding its search engine](https://appleinsider.com/articles/24/12/24/google-issues-its-remedies-proposal-in-antitrust-case-surrounding-its-search-engine?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
