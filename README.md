@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Black Spooderman might get canceled cuz the black actor is a creep.](http://9gag.com/gag/a5Q1xxo)
+ - 💣 [Penguins.... are not actually Penguins.](http://9gag.com/gag/an7gW3B)
  - ⏩ [NYC Bodega Owner has had enough of a customer and shows them the door](http://9gag.com/gag/a871Vde)
- - 👉 [Merry Christmas you filthy animals.](http://9gag.com/gag/aBynNGZ)<!-- MEMES:END -->
+ - 👉 [Poor donkey](http://9gag.com/gag/a871KPd)<!-- MEMES:END -->
 
 ---
 
