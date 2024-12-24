@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Filing: Apple asks to participate in Google&#39;s upcoming US search antitrust trial, saying it can&#39;t rely on Google to defend their revenue-sharing agreements &lpar;Jody Godoy/Reuters&rpar;](http://www.techmeme.com/241224/p18#a241224p18)
- - [The best phones I’m looking forward to in 2025](https://www.androidauthority.com/upcoming-phones-2025-3510675/)
- - [Iran claims it will lift its ban on &quot;certain widely used foreign platforms&quot;, naming WhatsApp and Google Play as the first two apps to be unblocked &lpar;Bloomberg&rpar;](http://www.techmeme.com/241224/p17#a241224p17)<!-- TECH:END -->
+ - [One UI 7 will make it easier to filter notifications that aren’t important](https://www.androidauthority.com/one-ui-7-filter-notifications-3511176/)
+ - [Best Workout Apps for Women in 2024](https://www.cnet.com/health/fitness/best-workout-apps-for-women/#ftag=CAD590a51e)
+ - [NASA&#39;s Parker Probe Flies Closer to the Sun Than Any Object Ever Has](https://www.cnet.com/science/nasas-parker-probe-flies-closer-to-the-sun-than-any-object-ever-has/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
