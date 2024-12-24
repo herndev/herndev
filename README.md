@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Not all men](http://9gag.com/gag/a5Q1DAq)
- - ⏩ [I&#39;m changing my phone plan](http://9gag.com/gag/a2v1A0Z)
- - 👉 [A woman and her bike](http://9gag.com/gag/aGyzN1w)<!-- MEMES:END -->
+ - 💣 [Three Japanese car manufacturers are getting together.](http://9gag.com/gag/agmgZRr)
+ - ⏩ [It was nice while it lasted... chrome has started phasing out manifest v2 extensions](http://9gag.com/gag/aE08NRo)
+ - 👉 [Hmm](http://9gag.com/gag/arynDe0)<!-- MEMES:END -->
 
 ---
 
