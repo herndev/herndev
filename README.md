@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Penguins.... are not actually Penguins.](http://9gag.com/gag/an7gW3B)
- - ⏩ [NYC Bodega Owner has had enough of a customer and shows them the door](http://9gag.com/gag/a871Vde)
- - 👉 [Poor donkey](http://9gag.com/gag/a871KPd)<!-- MEMES:END -->
+ - 💣 [Tiger woods reaction to his sons first hole-in-one](http://9gag.com/gag/aNDP3M4)
+ - ⏩ [Not all men](http://9gag.com/gag/a5Q1DAq)
+ - 👉 [Black Spooderman might get canceled cuz the black actor is a creep.](http://9gag.com/gag/a5Q1xxo)<!-- MEMES:END -->
 
 ---
 
