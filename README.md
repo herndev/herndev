@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Sonic movies keep getting better thanks to each new Little Guy](https://www.polygon.com/movies/501393/sonic-movies-new-characters)
- - [If 2024 proves anything, it&#39;s that mainstream success hasn&#39;t made PC gaming any less weird—and thank God for that](https://www.pcgamer.com/games/if-2024-proves-anything-its-that-mainstream-success-hasnt-made-pc-gaming-any-less-weird-and-thank-god-for-that/)
- - [Spirit of the PC 2024: Stalker 2](https://www.pcgamer.com/games/fps/spirit-of-the-pc-2024-stalker-2/)<!-- GAME:END -->
+ - [2024 was the year I returned to earbuds after writing them off for nearly a decade thanks to the SteelSeries Arctis GameBuds](https://www.pcgamer.com/hardware/earbuds-headphones/2024-was-the-year-i-returned-to-earbuds-after-writing-them-off-for-nearly-a-decade-thanks-to-the-steelseries-arctis-gamebuds/)
+ - [Pitch Perfect 237 takes a hilarious Kubrick-level microscope to the a cappella franchise](https://www.polygon.com/yuletide-youtube/495068/pitch-perfect-237-best-youtube-video-imo-kubrick)
+ - [We learned just how small Valve really is this year, but also how good it is at raking in the cash: It&#39;s making more money per employee than Apple](https://www.pcgamer.com/gaming-industry/we-learned-just-how-small-valve-really-is-this-year-but-also-how-good-it-is-at-raking-in-the-cash-its-making-more-money-per-employee-than-apple/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
