@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Woke](http://9gag.com/gag/aGyz6dw)
- - ⏩ [Someone has to tell you: WD 40 is not for what you think it is.](http://9gag.com/gag/aXPrQYV)
- - 👉 [Are we there yet?](http://9gag.com/gag/aW4gNQA)<!-- MEMES:END -->
+ - 💣 [Merry Christmas you filthy animals.](http://9gag.com/gag/aBynNGZ)
+ - ⏩ [Honey Founders George Ruan, Ryan Hudson. Honey has been scamming people for millions of dollars. Mama Mia](http://9gag.com/gag/amogb6j)
+ - 👉 [Penguins.... are not actually Penguins.](http://9gag.com/gag/an7gW3B)<!-- MEMES:END -->
 
 ---
 
