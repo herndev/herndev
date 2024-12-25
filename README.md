@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Merry Christmas, from the entire AppleInsider team](https://appleinsider.com/articles/24/12/24/merry-christmas-from-the-entire-appleinsider-team?utm_medium=rss)
- - [Sources: Founders Fund seeks ~$3B for its third growth equity fund; it raised $3.4B for its second growth fund and $1.8B for its eighth early-stage fund in 2022 &lpar;Dan Primack/Axios&rpar;](http://www.techmeme.com/241224/p21#a241224p21)
- - [Best Internet Providers in Parma, Ohio](https://www.cnet.com/home/internet/best-internet-providers-in-parma-oh/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Stranded NASA Astronauts on the ISS Share Christmas Greetings on Social Media](https://www.cnet.com/science/stranded-nasa-astronauts-have-now-been-stuck-on-the-iss-for-six-months-send-christmas-greetings/#ftag=CAD590a51e)
+ - [Best MagSafe Accessories for iPhone in 2024](https://www.cnet.com/tech/mobile/best-magsafe-and-magnetic-iphone-accessories/#ftag=CAD590a51e)
+ - [A look at OpenAI&#39;s interest in humanoid robots, from investing in startups like Figure and Physical Intelligence to, sources say, considering making one itself &lpar;The Information&rpar;](http://www.techmeme.com/241224/p22#a241224p22)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
