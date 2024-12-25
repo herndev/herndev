@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Birth control ad](http://9gag.com/gag/azxeyLN)
- - ⏩ [Flight survivors](http://9gag.com/gag/aZZrX26)
- - 👉 [Coca Cola replaced their artists with AI and couldn&#39;t even get their logo right.](http://9gag.com/gag/aW4gPE2)<!-- MEMES:END -->
+ - 💣 [Bro went nuclear on her](http://9gag.com/gag/aYQrB42)
+ - ⏩ [Remember your training](http://9gag.com/gag/aoyg6Ge)
+ - 👉 [Can i raise two hands for double agreement?](http://9gag.com/gag/agmgwrn)<!-- MEMES:END -->
 
 ---
 
