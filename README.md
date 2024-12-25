@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [This Clear AI Class-Action Settlement Is Only Open Until Friday: Are You Eligible?](https://www.cnet.com/personal-finance/this-clear-ai-class-action-settlement-is-only-open-til-friday-are-you-eligible/#ftag=CAD590a51e)
  - [Russia&#39;s finance minister says Russian companies have begun using bitcoin and other digital currencies in international payments to counter Western sanctions &lpar;Gleb Bryanski/Reuters&rpar;](http://www.techmeme.com/241225/p9#a241225p9)
- - [Unwrap 2024&#39;s New Christmas Movies: Here&#39;s What&#39;s on Netflix, Hulu and Beyond](https://www.cnet.com/tech/services-and-software/unwrap-2024s-new-christmas-movies-heres-whats-on-netflix-hulu-and-beyond/#ftag=CAD590a51e)
- - [Google can’t be serious about the Pixel’s 10x zoom if it keeps it hidden](https://www.androidauthority.com/google-pixel-10x-zoom-hidden-3510324/)<!-- TECH:END -->
+ - [Unwrap 2024&#39;s New Christmas Movies: Here&#39;s What&#39;s on Netflix, Hulu and Beyond](https://www.cnet.com/tech/services-and-software/unwrap-2024s-new-christmas-movies-heres-whats-on-netflix-hulu-and-beyond/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
