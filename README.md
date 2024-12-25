@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Fathers, Mothers, Sons, Daughters, Brothers, Sisters, Families, Friends, Neighbors\u2026](http://9gag.com/gag/agmgpDv)
- - ⏩ [And don&#39;t get me started on Pedro Pascal...](http://9gag.com/gag/avyAB4X)
- - 👉 [Coca Cola replaced their artists with AI and couldn&#39;t even get their logo right.](http://9gag.com/gag/aW4gPE2)<!-- MEMES:END -->
+ - 💣 [Poland. At night, two masked men broke into the office on Rydla Street in Szczecin and for almost a minute they tried to break the glass in the cash register window with hammers.](http://9gag.com/gag/aGyzqBG)
+ - ⏩ [If not dangerous why unfriendly-shaped?](http://9gag.com/gag/aQzXDdW)
+ - 👉 [Someone has to tell you: WD 40 is not for what you think it is.](http://9gag.com/gag/aXPrQYV)<!-- MEMES:END -->
 
 ---
 
