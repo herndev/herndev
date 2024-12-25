@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Coca Cola replaced their artists with AI and couldn&#39;t even get their logo right.](http://9gag.com/gag/aW4gPE2)
- - ⏩ [He needs that Disney cash](http://9gag.com/gag/avyAqZq)
- - 👉 [And don&#39;t get me started on Pedro Pascal...](http://9gag.com/gag/avyAB4X)<!-- MEMES:END -->
+ - 💣 [277](http://9gag.com/gag/aAyGqKg)
+ - ⏩ [And don&#39;t get me started on Pedro Pascal...](http://9gag.com/gag/avyAB4X)
+ - 👉 [Merry Christmas you filthy animals.](http://9gag.com/gag/aBynNGZ)<!-- MEMES:END -->
 
 ---
 
