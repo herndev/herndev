@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Penguins.... are not actually Penguins.](http://9gag.com/gag/an7gW3B)
- - ⏩ [#NeverForget](http://9gag.com/gag/aVvxded)
- - 👉 [`You&#39;ve trespassed into the library`](http://9gag.com/gag/abAgdgp)<!-- MEMES:END -->
+ - 💣 [Scientifically Accurate Philosoraptor](http://9gag.com/gag/aGyzrYX)
+ - ⏩ [*sad gamer noises*](http://9gag.com/gag/adBgW9Z)
+ - 👉 [Title](http://9gag.com/gag/avyABVb)<!-- MEMES:END -->
 
 ---
 
