@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Every night](http://9gag.com/gag/aZZro46)
- - ⏩ [And don&#39;t get me started on Pedro Pascal...](http://9gag.com/gag/avyAB4X)
- - 👉 [Penguins.... are not actually Penguins.](http://9gag.com/gag/an7gW3B)<!-- MEMES:END -->
+ - 💣 [I&#39;m changing my phone plan](http://9gag.com/gag/a2v1A0Z)
+ - ⏩ [2005](http://9gag.com/gag/a341D2e)
+ - 👉 [Sometimes what you see isn&#39;t always the truth](http://9gag.com/gag/aBynz8P)<!-- MEMES:END -->
 
 ---
 
