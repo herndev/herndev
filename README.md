@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Bro went nuclear on her](http://9gag.com/gag/aYQrB42)
- - ⏩ [Remember your training](http://9gag.com/gag/aoyg6Ge)
- - 👉 [Can i raise two hands for double agreement?](http://9gag.com/gag/agmgwrn)<!-- MEMES:END -->
+ - 💣 [Fathers, Mothers, Sons, Daughters, Brothers, Sisters, Families, Friends, Neighbors\u2026](http://9gag.com/gag/agmgpDv)
+ - ⏩ [And don&#39;t get me started on Pedro Pascal...](http://9gag.com/gag/avyAB4X)
+ - 👉 [Coca Cola replaced their artists with AI and couldn&#39;t even get their logo right.](http://9gag.com/gag/aW4gPE2)<!-- MEMES:END -->
 
 ---
 
