@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Scientifically Accurate Philosoraptor](http://9gag.com/gag/aGyzrYX)
- - ⏩ [*sad gamer noises*](http://9gag.com/gag/adBgW9Z)
- - 👉 [Burn](http://9gag.com/gag/avyAXLZ)<!-- MEMES:END -->
+ - 💣 [Three Japanese car manufacturers are getting together.](http://9gag.com/gag/agmgZRr)
+ - ⏩ [If not dangerous why unfriendly-shaped?](http://9gag.com/gag/aQzXDdW)
+ - 👉 [Honey Founders George Ruan, Ryan Hudson. Honey has been scamming people for millions of dollars. Mama Mia](http://9gag.com/gag/amogb6j)<!-- MEMES:END -->
 
 ---
 
