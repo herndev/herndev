@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Flight survivors](http://9gag.com/gag/aZZrX26)
- - ⏩ [If not dangerous why unfriendly-shaped?](http://9gag.com/gag/aQzXDdW)
- - 👉 [277](http://9gag.com/gag/aAyGqKg)<!-- MEMES:END -->
+ - 💣 [Technically UFO](http://9gag.com/gag/aAyGA20)
+ - ⏩ [Wholesome neighbor just wanted a brother](http://9gag.com/gag/amogQAd)
+ - 👉 [Repeat shoplifters in California learn the hard way that new law Prop. 36 is now in effect.](http://9gag.com/gag/aRBrNvG)<!-- MEMES:END -->
 
 ---
 
