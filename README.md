@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [277](http://9gag.com/gag/aAyGqKg)
- - ⏩ [Just casually transferring $20k from bank to machine in casino to enable gambling addiction.](http://9gag.com/gag/ajPg3Nx)
- - 👉 [Three Japanese car manufacturers are getting together.](http://9gag.com/gag/agmgZRr)<!-- MEMES:END -->
+ - 💣 [Fathers, Mothers, Sons, Daughters, Brothers, Sisters, Families, Friends, Neighbors\u2026](http://9gag.com/gag/agmgpDv)
+ - ⏩ [Hmm](http://9gag.com/gag/arynDe0)
+ - 👉 [So satisfying](http://9gag.com/gag/aD2Drow)<!-- MEMES:END -->
 
 ---
 
