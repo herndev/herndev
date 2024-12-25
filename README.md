@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [If not dangerous why unfriendly-shaped?](http://9gag.com/gag/aQzXDdW)
- - ⏩ [Guatemalan authorities rescue 160 children from Jewish Lev Tahor sect...](http://9gag.com/gag/aGyzoLK)
- - 👉 [Is he sad or happy](http://9gag.com/gag/aXPrdWV)<!-- MEMES:END -->
+ - 💣 [Penguins.... are not actually Penguins.](http://9gag.com/gag/an7gW3B)
+ - ⏩ [#NeverForget](http://9gag.com/gag/aVvxded)
+ - 👉 [`You&#39;ve trespassed into the library`](http://9gag.com/gag/abAgdgp)<!-- MEMES:END -->
 
 ---
 
