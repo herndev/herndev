@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Drone with the wind!](http://9gag.com/gag/aBynN6O)
- - ⏩ [A fireball was filmed falling in the sky over Kagoshima, Japan.](http://9gag.com/gag/ayN9VZV)
- - 👉 [Honey Founders George Ruan, Ryan Hudson. Honey has been scamming people for millions of dollars. Mama Mia](http://9gag.com/gag/amogb6j)<!-- MEMES:END -->
+ - 💣 [Woke](http://9gag.com/gag/aGyz6dw)
+ - ⏩ [Someone has to tell you: WD 40 is not for what you think it is.](http://9gag.com/gag/aXPrQYV)
+ - 👉 [Are we there yet?](http://9gag.com/gag/aW4gNQA)<!-- MEMES:END -->
 
 ---
 
