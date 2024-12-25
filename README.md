@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Ravens vs. Texans: How to Watch the NFL on Netflix&#39;s Second Game, Beyoncé Halftime Show Today](https://www.cnet.com/tech/services-and-software/ravens-vs-texans-how-to-watch-the-nfl-on-netflixs-second-game-beyonce-halftime-show-today/#ftag=CAD590a51e)
  - [Analysis: roughly two-thirds of 39 public digital health companies have lost value in 2024, while the Nasdaq is up 32% &lpar;Ashley Capoot/CNBC&rpar;](http://www.techmeme.com/241225/p11#a241225p11)
- - [Best Internet Providers in Santa Clara, California](https://www.cnet.com/home/internet/best-internet-providers-in-santa-clara-ca/#ftag=CAD590a51e)
- - [Analysis: Coinbase International saw its total trading volume grow 124% week-over-week to $119B+ this past week; it averaged just $2.5B per day in November 2024 &lpar;The Block&rpar;](http://www.techmeme.com/241225/p10#a241225p10)<!-- TECH:END -->
+ - [The 5 Best Sunrise Alarm Clocks and How to Choose One](https://www.cnet.com/health/sleep/best-sunrise-alarm-clock/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
