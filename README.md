@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [277](http://9gag.com/gag/aAyGqKg)
- - ⏩ [And don&#39;t get me started on Pedro Pascal...](http://9gag.com/gag/avyAB4X)
- - 👉 [Merry Christmas you filthy animals.](http://9gag.com/gag/aBynNGZ)<!-- MEMES:END -->
+ - 💣 [Flight survivors](http://9gag.com/gag/aZZrX26)
+ - ⏩ [If not dangerous why unfriendly-shaped?](http://9gag.com/gag/aQzXDdW)
+ - 👉 [277](http://9gag.com/gag/aAyGqKg)<!-- MEMES:END -->
 
 ---
 
