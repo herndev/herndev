@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [The 25 best games on Game Pass](https://www.polygon.com/best-games/22372750/best-game-pass-games-xbox)
  - [Today&#39;s Wordle answer for Wednesday, December 25](https://www.pcgamer.com/games/puzzle/wordle-answer-today-december-25-2024/)
- - [Best Great League teams to use in Pokémon Go](https://www.polygon.com/pokemon-go-guide/500388/great-league-best-team-meta)
- - [Best Ultra League teams to use in Pokémon Go](https://www.polygon.com/pokemon-go-guide/500550/ultra-league-best-team-meta)<!-- GAME:END -->
+ - [Best Great League teams to use in Pokémon Go](https://www.polygon.com/pokemon-go-guide/500388/great-league-best-team-meta)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
