@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Scientifically Accurate Philosoraptor](http://9gag.com/gag/aGyzrYX)
- - ⏩ [*sad gamer noises*](http://9gag.com/gag/adBgW9Z)
- - 👉 [Title](http://9gag.com/gag/avyABVb)<!-- MEMES:END -->
+ - 💣 [Woke](http://9gag.com/gag/aGyz6dw)
+ - ⏩ [So satisfying](http://9gag.com/gag/aD2Drow)
+ - 👉 [Honey Founders George Ruan, Ryan Hudson. Honey has been scamming people for millions of dollars. Mama Mia](http://9gag.com/gag/amogb6j)<!-- MEMES:END -->
 
 ---
 
