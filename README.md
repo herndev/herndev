@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google can’t be serious about the Pixel’s 10x zoom if it keeps it hidden](https://www.androidauthority.com/google-pixel-10x-zoom-hidden-3510324/)
  - [What podcasts looked like in 2024 — literally](https://www.theverge.com/24302894/podcasts-video-youtube-2024-trends-tiktok-instagram)
- - [Wallpaper Wednesday: More great phone wallpapers for all to share &lpar;December 25&rpar;](https://www.androidauthority.com/wallpaper-wednesday-dec-25-2024-3510537/)
- - [Best Peloton Alternatives for 2024](https://www.cnet.com/health/fitness/best-peloton-alternative/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Wallpaper Wednesday: More great phone wallpapers for all to share &lpar;December 25&rpar;](https://www.androidauthority.com/wallpaper-wednesday-dec-25-2024-3510537/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
