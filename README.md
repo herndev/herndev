@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [*sad gamer noises*](http://9gag.com/gag/adBgW9Z)
- - ⏩ [Merry Christmas you filthy animals.](http://9gag.com/gag/aBynNGZ)
- - 👉 [Woke](http://9gag.com/gag/aGyz6dw)<!-- MEMES:END -->
+ - 💣 [Scientifically Accurate Philosoraptor](http://9gag.com/gag/aGyzrYX)
+ - ⏩ [*sad gamer noises*](http://9gag.com/gag/adBgW9Z)
+ - 👉 [Burn](http://9gag.com/gag/avyAXLZ)<!-- MEMES:END -->
 
 ---
 
