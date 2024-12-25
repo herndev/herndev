@@ -33,8 +33,8 @@
 
 <!-- GAME:START -->
  - [Wicked’s big problem: It signals the dawn of the Musical Theater Universe](https://www.polygon.com/opinion/500632/wicked-film-vs-broadway-play-comparison-cynthia-erivo-ariana-grande)
- - [The State Of The PlayStation 5 In 2024](https://kotaku.com/ps5-2024-year-review-concord-helldivers-astro-bot-price-1851724531)
- - [PC Gamer Hardware Awards: The best gaming monitor of 2024](https://www.pcgamer.com/hardware/gaming-monitors/pc-gamer-hardware-awards-the-best-gaming-monitor-of-2024/)<!-- GAME:END -->
+ - [Xiaomi G Pro 27i review](https://www.pcgamer.com/hardware/gaming-monitors/xiaomi-g-pro-27i-review/)
+ - [The State Of The PlayStation 5 In 2024](https://kotaku.com/ps5-2024-year-review-concord-helldivers-astro-bot-price-1851724531)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
