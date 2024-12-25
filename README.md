@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [This Yuletide, give yourself the soothing gift of gab and a good resin model video](https://www.polygon.com/yuletide-youtube/495094/family-phone-youtube-hack-resin-videos-rule)
  - [The 25 best games on Game Pass](https://www.polygon.com/best-games/22372750/best-game-pass-games-xbox)
- - [Today&#39;s Wordle answer for Wednesday, December 25](https://www.pcgamer.com/games/puzzle/wordle-answer-today-december-25-2024/)
- - [Best Great League teams to use in Pokémon Go](https://www.polygon.com/pokemon-go-guide/500388/great-league-best-team-meta)<!-- GAME:END -->
+ - [Depersonalization is an RPG out of China that feels like it never stops getting deeper, once you figure out how to set it to English](https://www.pcgamer.com/games/rpg/depersonalization-is-an-rpg-out-of-china-that-feels-like-it-never-stops-getting-deeper-once-you-figure-out-how-to-set-it-to-english/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
