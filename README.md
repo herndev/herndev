@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [This Yuletide, give yourself the soothing gift of gab and a good resin model video](https://www.polygon.com/yuletide-youtube/495094/family-phone-youtube-hack-resin-videos-rule)
- - [The 25 best games on Game Pass](https://www.polygon.com/best-games/22372750/best-game-pass-games-xbox)
- - [Depersonalization is an RPG out of China that feels like it never stops getting deeper, once you figure out how to set it to English](https://www.pcgamer.com/games/rpg/depersonalization-is-an-rpg-out-of-china-that-feels-like-it-never-stops-getting-deeper-once-you-figure-out-how-to-set-it-to-english/)<!-- GAME:END -->
+ - [Wicked’s big problem: It signals the dawn of the Musical Theater Universe](https://www.polygon.com/opinion/500632/wicked-film-vs-broadway-play-comparison-cynthia-erivo-ariana-grande)
+ - [The State Of The PlayStation 5 In 2024](https://kotaku.com/ps5-2024-year-review-concord-helldivers-astro-bot-price-1851724531)
+ - [PC Gamer Hardware Awards: The best gaming monitor of 2024](https://www.pcgamer.com/hardware/gaming-monitors/pc-gamer-hardware-awards-the-best-gaming-monitor-of-2024/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
