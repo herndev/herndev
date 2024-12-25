@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Opensignal ranks Japan #1 in G7 mobile reliability experience between July 1 and September 28, followed by France, Germany, the US, Canada, Italy, and the UK &lpar;Yasemin Craggs Mersinoglu/Financial Times&rpar;](http://www.techmeme.com/241225/p4#a241225p4)
- - [Singapore issued 13 crypto licenses in 2024, pulling ahead of Hong Kong, where authorities have been more cautious, in the race to become a regional crypto hub &lpar;Suvashree Ghosh/Bloomberg&rpar;](http://www.techmeme.com/241225/p3#a241225p3)
- - [Ant splits Alipay into the Digital Payment Business Group focused on new payment products, and the Alipay Business Group focused on user growth and monetization &lpar;Ann Cao/South China Morning Post&rpar;](http://www.techmeme.com/241225/p2#a241225p2)<!-- TECH:END -->
+ - [Sephora Promo Codes and Deals: Save Up to 50%](https://www.wired.com/story/sephora-promo-code/)
+ - [Kaiko: the share of BTC-USD trades in US market hours has now climbed to ~53% from 40% in 2021, with crypto liquidity back at levels seen before FTX&#39;s collapse &lpar;Sidhartha Shukla/Bloomberg&rpar;](http://www.techmeme.com/241225/p5#a241225p5)
+ - [Opensignal ranks Japan #1 in G7 mobile reliability experience between July 1 and September 28, followed by France, Germany, the US, Canada, Italy, and the UK &lpar;Yasemin Craggs Mersinoglu/Financial Times&rpar;](http://www.techmeme.com/241225/p4#a241225p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
