@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Woke](http://9gag.com/gag/aGyz6dw)
- - ⏩ [So satisfying](http://9gag.com/gag/aD2Drow)
+ - 💣 [Drone with the wind!](http://9gag.com/gag/aBynN6O)
+ - ⏩ [A fireball was filmed falling in the sky over Kagoshima, Japan.](http://9gag.com/gag/ayN9VZV)
  - 👉 [Honey Founders George Ruan, Ryan Hudson. Honey has been scamming people for millions of dollars. Mama Mia](http://9gag.com/gag/amogb6j)<!-- MEMES:END -->
 
 ---
