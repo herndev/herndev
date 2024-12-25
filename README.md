@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Wicked’s big problem: It signals the dawn of the Musical Theater Universe](https://www.polygon.com/opinion/500632/wicked-film-vs-broadway-play-comparison-cynthia-erivo-ariana-grande)
- - [Xiaomi G Pro 27i review](https://www.pcgamer.com/hardware/gaming-monitors/xiaomi-g-pro-27i-review/)
- - [The State Of The PlayStation 5 In 2024](https://kotaku.com/ps5-2024-year-review-concord-helldivers-astro-bot-price-1851724531)<!-- GAME:END -->
+ - [Spirit of the PC 2024: Stalker 2](https://www.pcgamer.com/games/fps/spirit-of-the-pc-2024-stalker-2/)
+ - [Best City Builder 2024: Manor Lords](https://www.pcgamer.com/games/city-builder/best-city-builder-2024-manor-lords/)
+ - [Indiana Jones and the Great Circle is so authentically Indiana Jones it should probably be called Henry Jones Jr. and the Great Circle](https://www.pcgamer.com/games/fps/indiana-jones-and-the-great-circle-is-so-authentically-indiana-jones-it-should-probably-be-called-henry-jones-jr-and-the-great-circle/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
