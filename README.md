@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Lowest price: Apple&#39;s M4 Mac mini with 512GB storage dips to $699](https://appleinsider.com/articles/24/12/25/lowest-price-apples-m4-mac-mini-with-512gb-storage-dips-to-699?utm_medium=rss)
  - [Sephora Promo Codes and Deals: Save Up to 50%](https://www.wired.com/story/sephora-promo-code/)
- - [Kaiko: the share of BTC-USD trades in US market hours has now climbed to ~53% from 40% in 2021, with crypto liquidity back at levels seen before FTX&#39;s collapse &lpar;Sidhartha Shukla/Bloomberg&rpar;](http://www.techmeme.com/241225/p5#a241225p5)
- - [Opensignal ranks Japan #1 in G7 mobile reliability experience between July 1 and September 28, followed by France, Germany, the US, Canada, Italy, and the UK &lpar;Yasemin Craggs Mersinoglu/Financial Times&rpar;](http://www.techmeme.com/241225/p4#a241225p4)<!-- TECH:END -->
+ - [Kaiko: the share of BTC-USD trades in US market hours has now climbed to ~53% from 40% in 2021, with crypto liquidity back at levels seen before FTX&#39;s collapse &lpar;Sidhartha Shukla/Bloomberg&rpar;](http://www.techmeme.com/241225/p5#a241225p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
