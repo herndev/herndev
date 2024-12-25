@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Technically UFO](http://9gag.com/gag/aAyGA20)
- - ⏩ [Wholesome neighbor just wanted a brother](http://9gag.com/gag/amogQAd)
- - 👉 [Repeat shoplifters in California learn the hard way that new law Prop. 36 is now in effect.](http://9gag.com/gag/aRBrNvG)<!-- MEMES:END -->
+ - 💣 [Sht goes from 0 to 100 real quick](http://9gag.com/gag/aKGmXv6)
+ - ⏩ [Hmm](http://9gag.com/gag/arynDe0)
+ - 👉 [Just casually transferring $20k from bank to machine in casino to enable gambling addiction.](http://9gag.com/gag/ajPg3Nx)<!-- MEMES:END -->
 
 ---
 
