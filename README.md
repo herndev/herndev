@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Fathers, Mothers, Sons, Daughters, Brothers, Sisters, Families, Friends, Neighbors\u2026](http://9gag.com/gag/agmgpDv)
- - ⏩ [Hmm](http://9gag.com/gag/arynDe0)
- - 👉 [So satisfying](http://9gag.com/gag/aD2Drow)<!-- MEMES:END -->
+ - 💣 [Birth control ad](http://9gag.com/gag/azxeyLN)
+ - ⏩ [Flight survivors](http://9gag.com/gag/aZZrX26)
+ - 👉 [Coca Cola replaced their artists with AI and couldn&#39;t even get their logo right.](http://9gag.com/gag/aW4gPE2)<!-- MEMES:END -->
 
 ---
 
