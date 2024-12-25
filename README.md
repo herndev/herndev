@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best Internet Providers in Cambridge, Massachusetts](https://www.cnet.com/home/internet/best-internet-providers-in-cambridge-ma/#ftag=CAD590a51e)
  - [Stranded NASA Astronauts on the ISS Share Christmas Greetings on Social Media](https://www.cnet.com/science/stranded-nasa-astronauts-have-now-been-stuck-on-the-iss-for-six-months-send-christmas-greetings/#ftag=CAD590a51e)
- - [Best MagSafe Accessories for iPhone in 2024](https://www.cnet.com/tech/mobile/best-magsafe-and-magnetic-iphone-accessories/#ftag=CAD590a51e)
- - [A look at OpenAI&#39;s interest in humanoid robots, from investing in startups like Figure and Physical Intelligence to, sources say, considering making one itself &lpar;The Information&rpar;](http://www.techmeme.com/241224/p22#a241224p22)<!-- TECH:END -->
+ - [Best MagSafe Accessories for iPhone in 2024](https://www.cnet.com/tech/mobile/best-magsafe-and-magnetic-iphone-accessories/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
