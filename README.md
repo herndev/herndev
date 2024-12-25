@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [So satisfying](http://9gag.com/gag/aD2Drow)
- - ⏩ [Honey Founders George Ruan, Ryan Hudson. Honey has been scamming people for millions of dollars. Mama Mia](http://9gag.com/gag/amogb6j)
- - 👉 [Black Spooderman might get canceled cuz the black actor is a creep.](http://9gag.com/gag/a5Q1xxo)<!-- MEMES:END -->
+ - 💣 [Every night](http://9gag.com/gag/aZZro46)
+ - ⏩ [And don&#39;t get me started on Pedro Pascal...](http://9gag.com/gag/avyAB4X)
+ - 👉 [Penguins.... are not actually Penguins.](http://9gag.com/gag/an7gW3B)<!-- MEMES:END -->
 
 ---
 
