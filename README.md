@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Spirit of the PC 2024: Stalker 2](https://www.pcgamer.com/games/fps/spirit-of-the-pc-2024-stalker-2/)
- - [Best City Builder 2024: Manor Lords](https://www.pcgamer.com/games/city-builder/best-city-builder-2024-manor-lords/)
- - [Indiana Jones and the Great Circle is so authentically Indiana Jones it should probably be called Henry Jones Jr. and the Great Circle](https://www.pcgamer.com/games/fps/indiana-jones-and-the-great-circle-is-so-authentically-indiana-jones-it-should-probably-be-called-henry-jones-jr-and-the-great-circle/)<!-- GAME:END -->
+ - [The Sonic movies keep getting better thanks to each new Little Guy](https://www.polygon.com/movies/501393/sonic-movies-new-characters)
+ - [If 2024 proves anything, it&#39;s that mainstream success hasn&#39;t made PC gaming any less weird—and thank God for that](https://www.pcgamer.com/games/if-2024-proves-anything-its-that-mainstream-success-hasnt-made-pc-gaming-any-less-weird-and-thank-god-for-that/)
+ - [Spirit of the PC 2024: Stalker 2](https://www.pcgamer.com/games/fps/spirit-of-the-pc-2024-stalker-2/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
