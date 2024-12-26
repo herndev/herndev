@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Earplugs for Sleeping in 2024](https://www.cnet.com/health/sleep/best-earplugs-for-sleeping/#ftag=CAD590a51e)
- - [A new One UI 7 beta rumor is here to dampen your Christmas spirits](https://www.androidauthority.com/one-ui-7-beta-limited-rollout-3511259/)
- - [Netflix&#39;s first livestream of NFL games solved the major buffering and freezing issues that plagued the Tyson-Paul fight for the most part, after early glitches &lpar;Richard Deitsch/New York Times&rpar;](http://www.techmeme.com/241225/p15#a241225p15)<!-- TECH:END -->
+ - [We might get our first glimpse at the Galaxy Ring 2 very soon](https://www.androidauthority.com/samsung-galaxy-ring-2-unpacked-announcement-3511265/)
+ - [Japan Airlines halts ticket sales after a cyberattack hit its network equipment, causing delays to more than 40 flights and says flight safety was not impacted &lpar;New York Times&rpar;](http://www.techmeme.com/241226/p1#a241226p1)
+ - [Best Earplugs for Sleeping in 2024](https://www.cnet.com/health/sleep/best-earplugs-for-sleeping/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
