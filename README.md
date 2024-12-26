@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [A Disney-style live-action Wallace &amp;#038; Gromit? Creator says ‘NOOOOOO’](https://www.polygon.com/movies/501986/wallace-gromit-netflix-live-action-disney-remake)
- - [In 2024 Elon Musk predicted that &#39;hundreds of millions&#39; of people will have his brain chips within the next 20 years, so don&#39;t forget to hold him to it](https://www.pcgamer.com/hardware/in-2024-elon-musk-predicted-that-hundreds-of-millions-of-people-will-have-his-brain-chips-within-the-next-20-years-so-dont-forget-to-hold-him-to-it/)
- - [5 gaming trends across PlayStation in 2024](https://blog.playstation.com/2024/12/26/5-striking-gaming-trends-across-playstation-in-2024/)<!-- GAME:END -->
+ - [Madame Web, Kraven were ‘not terrible films’ destroyed by vengeful critics, says Sony boss](https://www.polygon.com/marvel/502025/madame-web-kraven-spider-man-movies-review-scores-killed-spider-verse-movies)
+ - [What was the hardest game in Squid Game season 2? The cast sounds off](https://www.polygon.com/tv/501744/squid-game-season-2-hardest-game-cast)
+ - [Gun of the Year 2024: Helldivers 2&#39;s AC-8 Autocannon](https://www.pcgamer.com/games/third-person-shooter/gun-of-the-year-2024-helldivers-2s-ac-8-autocannon/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
