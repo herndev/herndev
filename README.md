@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [This YouTube scientist makes knives out of random stuff and it’s mesmerizing](https://www.polygon.com/yuletide-youtube/486629/youtube-knifemaking-channel-kiwam-japan)
  - [All the Squid Game season 3 news we’ve heard so far](https://www.polygon.com/tv/501009/squid-game-season-3-release-date-cast-news)
- - [Giratina counters, weakness, and best moveset in Pokémon Go](https://www.polygon.com/pokemon-go-guide/22574454/giratina-raid-best-moveset-weakness-origin-altered-counters-raid-shiny-forms)
- - [Mega Abomasnow counters, weakness, and best moveset in Pokémon Go](https://www.polygon.com/pokemon-go-guide/500400/mega-abomasnow-counters-weakness-best-moveset)<!-- GAME:END -->
+ - [Giratina counters, weakness, and best moveset in Pokémon Go](https://www.polygon.com/pokemon-go-guide/22574454/giratina-raid-best-moveset-weakness-origin-altered-counters-raid-shiny-forms)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
