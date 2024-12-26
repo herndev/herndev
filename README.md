@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [He needs that Disney cash](http://9gag.com/gag/avyAqZq)
- - ⏩ [Wild wild west](http://9gag.com/gag/a871NmO)
- - 👉 [Thank You Very Very Much](http://9gag.com/gag/aLnvowv)<!-- MEMES:END -->
+ - 💣 [I need an explanation to increase my weird knowledge](http://9gag.com/gag/aBynbEz)
+ - ⏩ [Stroganina is a dish of the indigenous people of northern Arctic Siberia consisting of raw, thin, long-sliced frozen fish](http://9gag.com/gag/a0eZgvv)
+ - 👉 [He needs that Disney cash](http://9gag.com/gag/avyAqZq)<!-- MEMES:END -->
 
 ---
 
