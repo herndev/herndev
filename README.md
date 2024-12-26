@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Govee Discount Codes and Deals: $5 Off](https://www.wired.com/story/govee-discount-code/)
- - [AppLovin was 2024&#39;s top performing US tech stock, up 758% as of December 24, MicroStrategy was the second top performing, up 467%; Palantir was third, up 380% &lpar;Ari Levy/CNBC&rpar;](http://www.techmeme.com/241226/p2#a241226p2)
- - [This popular brand is already selling MagSafe-ready Galaxy S25 cases](https://www.androidauthority.com/samsung-galaxy-s25-series-cases-dbrand-3511280/)<!-- TECH:END -->
+ - [Three Ultra camera phones are coming in 2025, and here’s what to expect](https://www.androidauthority.com/ultra-phones-2025-camera-specs-leak-3511278/)
+ - [Squid Game season 2 is a brutal remix of Netflix’s biggest show](https://www.theverge.com/24324173/squid-game-season-2-review-netflix)
+ - [Govee Discount Codes and Deals: $5 Off](https://www.wired.com/story/govee-discount-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
