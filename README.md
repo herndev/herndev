@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Three Ultra camera phones are coming in 2025, and here’s what to expect](https://www.androidauthority.com/ultra-phones-2025-camera-specs-leak-3511278/)
- - [Squid Game season 2 is a brutal remix of Netflix’s biggest show](https://www.theverge.com/24324173/squid-game-season-2-review-netflix)
- - [Govee Discount Codes and Deals: $5 Off](https://www.wired.com/story/govee-discount-code/)<!-- TECH:END -->
+ - [An in-depth analysis of 62 AI queries: ChatGPT search beat Google on content gap analysis and disambiguation queries, but Google was better for most searches &lpar;Eric Enge/Search Engine Land&rpar;](http://www.techmeme.com/241226/p3#a241226p3)
+ - [Apple’s bezel-less iPhone dream continues to face significant challenges](https://www.androidauthority.com/apple-bezel-less-iphone-delayed-3511294/)
+ - [It’s Time to Move Past AI Nationalism](https://www.wired.com/story/artificial-intelligence-global-collaboration/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
