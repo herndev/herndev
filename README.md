@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Great Christmas](http://9gag.com/gag/aqyGM3v)
- - ⏩ [Wild wild west](http://9gag.com/gag/a871NmO)
- - 👉 [Sick, insecure, toxic woman berates, curses at, and assaults a man onboard a plane](http://9gag.com/gag/aZZrKo3)<!-- MEMES:END -->
+ - 💣 [Wild wild west](http://9gag.com/gag/a871NmO)
+ - ⏩ [She moves like a silkworm](http://9gag.com/gag/a2v1p0Y)
+ - 👉 [Stroganina is a dish of the indigenous people of northern Arctic Siberia consisting of raw, thin, long-sliced frozen fish](http://9gag.com/gag/a0eZgvv)<!-- MEMES:END -->
 
 ---
 
