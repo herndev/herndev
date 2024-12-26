@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I saw some wild shit as a kid](http://9gag.com/gag/ajPgvyg)
- - ⏩ [She moves like a silkworm](http://9gag.com/gag/a2v1p0Y)
- - 👉 [Interesting](http://9gag.com/gag/a4P1yBy)<!-- MEMES:END -->
+ - 💣 [Have a nice day](http://9gag.com/gag/aoyg6E3)
+ - ⏩ [Imagine the employees having to deal with these people daily](http://9gag.com/gag/a5Q1Yvq)
+ - 👉 [Stroganina is a dish of the indigenous people of northern Arctic Siberia consisting of raw, thin, long-sliced frozen fish](http://9gag.com/gag/a0eZgvv)<!-- MEMES:END -->
 
 ---
 
