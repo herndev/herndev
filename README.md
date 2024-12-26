@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Wild wild west](http://9gag.com/gag/a871NmO)
- - ⏩ [Camels can eat cactus but not lemons](http://9gag.com/gag/avyAqGd)
- - 👉 [Am i drunk or Aslan in 2005 looks more realistic than lion king 2024? Probably drunk](http://9gag.com/gag/aYQr0Nm)<!-- MEMES:END -->
+ - 💣 [I saw some wild shit as a kid](http://9gag.com/gag/ajPgvyg)
+ - ⏩ [China continues to rub Europes face in the grass.](http://9gag.com/gag/aAyG58d)
+ - 👉 [Honda, Nissan, and Mitsubishi are officially teaming up under a single holding company to tackle global competition. The merger, set to finalize by August 2026](http://9gag.com/gag/a341X7r)<!-- MEMES:END -->
 
 ---
 
