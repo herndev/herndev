@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Premium live-service games are failing. Why is Diablo 4 a success?](https://www.polygon.com/diablo/501334/diablo-4-premium-live-service-success)
  - [This YouTube scientist makes knives out of random stuff and it’s mesmerizing](https://www.polygon.com/yuletide-youtube/486629/youtube-knifemaking-channel-kiwam-japan)
- - [All the Squid Game season 3 news we’ve heard so far](https://www.polygon.com/tv/501009/squid-game-season-3-release-date-cast-news)
- - [Giratina counters, weakness, and best moveset in Pokémon Go](https://www.polygon.com/pokemon-go-guide/22574454/giratina-raid-best-moveset-weakness-origin-altered-counters-raid-shiny-forms)<!-- GAME:END -->
+ - [All the Squid Game season 3 news we’ve heard so far](https://www.polygon.com/tv/501009/squid-game-season-3-release-date-cast-news)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
