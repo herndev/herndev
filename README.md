@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Bose SoundLink Home review: a speaker that’s all about looks](https://www.theverge.com/24326228/bose-soundlink-home-speaker-review)
- - [The Best Tested and Reviewed Mesh Wi-Fi Routers of 2024](https://www.wired.com/story/best-mesh-wifi-routers/)
- - [Electricians are flocking to regions around the US to build data centers, as AI shapes up to be an economy-bending force that creates boom towns &lpar;New York Times&rpar;](http://www.techmeme.com/241226/p6#a241226p6)<!-- TECH:END -->
+ - [Bluesky adds Trending topics to its arsenal](https://www.theverge.com/2024/12/26/24329549/bluesky-trending-features)
+ - [Galaxy S25 Slim’s camera bump could be smaller, thanks to this new camera zoom tech](https://www.androidauthority.com/samsung-galaxy-s25-slim-alop-camera-tech-3511341/)
+ - [Bluesky launches a Trending Topics feature in beta on its desktop and mobile apps in English, and says users&#39; muted words will transfer to Trending &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/241226/p7#a241226p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
