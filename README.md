@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Today&#39;s Wordle answer for Thursday, December 26](https://www.pcgamer.com/games/puzzle/wordle-answer-today-december-26-2024/)
- - [VR gaming was one of my favourite hobbies of 2024 and it&#39;s because I&#39;ve noticed myself using it as a meditation exercise](https://www.pcgamer.com/games/vr/vr-gaming-was-one-of-my-favourite-hobbies-of-2024-and-its-because-ive-noticed-myself-using-it-as-a-meditation-exercise/)
- - [Helldivers 2 galactic war timeline: Every major event that&#39;s happened so far](https://www.pcgamer.com/games/third-person-shooter/helldivers-2-galactic-war-timeline-every-major-event-thats-happened-so-far/)<!-- GAME:END -->
+ - [Giratina counters, weakness, and best moveset in Pokémon Go](https://www.polygon.com/pokemon-go-guide/22574454/giratina-raid-best-moveset-weakness-origin-altered-counters-raid-shiny-forms)
+ - [Mega Abomasnow counters, weakness, and best moveset in Pokémon Go](https://www.polygon.com/pokemon-go-guide/500400/mega-abomasnow-counters-weakness-best-moveset)
+ - [Today&#39;s Wordle answer for Thursday, December 26](https://www.pcgamer.com/games/puzzle/wordle-answer-today-december-26-2024/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
