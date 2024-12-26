@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [We might get our first glimpse at the Galaxy Ring 2 very soon](https://www.androidauthority.com/samsung-galaxy-ring-2-unpacked-announcement-3511265/)
- - [Japan Airlines halts ticket sales after a cyberattack hit its network equipment, causing delays to more than 40 flights and says flight safety was not impacted &lpar;New York Times&rpar;](http://www.techmeme.com/241226/p1#a241226p1)
- - [Best Earplugs for Sleeping in 2024](https://www.cnet.com/health/sleep/best-earplugs-for-sleeping/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [New Samsung budget phone leaks: 2018 called and wants its design back](https://www.androidauthority.com/samsung-galaxy-m16-leaked-renders-3511266/)
+ - [Best Queen Mattress for 2024: Expert Tested and Approved](https://www.cnet.com/health/sleep/best-queen-mattress/#ftag=CAD590a51e)
+ - [We might get our first glimpse at the Galaxy Ring 2 very soon](https://www.androidauthority.com/samsung-galaxy-ring-2-unpacked-announcement-3511265/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
