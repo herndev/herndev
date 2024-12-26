@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I saw some wild shit as a kid](http://9gag.com/gag/ajPgvyg)
- - ⏩ [American tourists live streamed &#39;racist Italian boys&#39; because they stopped the women from twerking on historical monument for Tik Tok](http://9gag.com/gag/aKGmMnN)
- - 👉 [Imagine the employees having to deal with these people daily](http://9gag.com/gag/a5Q1Yvq)<!-- MEMES:END -->
+ - 💣 [Great Christmas](http://9gag.com/gag/aqyGM3v)
+ - ⏩ [Wild wild west](http://9gag.com/gag/a871NmO)
+ - 👉 [Sick, insecure, toxic woman berates, curses at, and assaults a man onboard a plane](http://9gag.com/gag/aZZrKo3)<!-- MEMES:END -->
 
 ---
 
