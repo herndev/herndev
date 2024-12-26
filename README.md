@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Premium live-service games are failing. Why is Diablo 4 a success?](https://www.polygon.com/diablo/501334/diablo-4-premium-live-service-success)
- - [This YouTube scientist makes knives out of random stuff and it’s mesmerizing](https://www.polygon.com/yuletide-youtube/486629/youtube-knifemaking-channel-kiwam-japan)
- - [All the Squid Game season 3 news we’ve heard so far](https://www.polygon.com/tv/501009/squid-game-season-3-release-date-cast-news)<!-- GAME:END -->
+ - [Christopher Nolan&#39;s Next Movie Is The Odyssey As Dads Everywhere Get Hyped For Epic Mythical Action](https://kotaku.com/christopher-nolan-odyssey-casting-release-tom-holland-1851728737)
+ - [The biggest gaming controversies of 2024](https://www.pcgamer.com/gaming-industry/the-biggest-gaming-controversies-of-2024/)
+ - [Premium live-service games are failing. Why is Diablo 4 a success?](https://www.polygon.com/diablo/501334/diablo-4-premium-live-service-success)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
