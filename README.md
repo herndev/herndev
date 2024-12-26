@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Remember your training](http://9gag.com/gag/aoyg6Ge)
- - ⏩ [Post title](http://9gag.com/gag/awyz21r)
- - 👉 [Wanna know why they call &#39;em hurricanes after chicks?](http://9gag.com/gag/a7o1X7A)<!-- MEMES:END -->
+ - 💣 [The real scare](http://9gag.com/gag/aKGmywg)
+ - ⏩ [Sick, insecure, toxic woman berates, curses at, and assaults a man onboard a plane](http://9gag.com/gag/aZZrKo3)
+ - 👉 [Poland. At night, two masked men broke into the office on Rydla Street in Szczecin and for almost a minute they tried to break the glass in the cash register window with hammers.](http://9gag.com/gag/aGyzqBG)<!-- MEMES:END -->
 
 ---
 
