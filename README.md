@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Wanna know why they call &#39;em hurricanes after chicks?](http://9gag.com/gag/a7o1X7A)
- - ⏩ [Bro went nuclear on her](http://9gag.com/gag/aYQrB42)
- - 👉 [Happy holidays snowflakes](http://9gag.com/gag/aE0851M)<!-- MEMES:END -->
+ - 💣 [I saw some wild shit as a kid](http://9gag.com/gag/ajPgvyg)
+ - ⏩ [American tourists live streamed &#39;racist Italian boys&#39; because they stopped the women from twerking on historical monument for Tik Tok](http://9gag.com/gag/aKGmMnN)
+ - 👉 [Imagine the employees having to deal with these people daily](http://9gag.com/gag/a5Q1Yvq)<!-- MEMES:END -->
 
 ---
 
