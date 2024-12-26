@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [One UI 7 is adding even more continuity features between your Galaxy phone and Galaxy Book](https://www.androidauthority.com/one-ui-7-camera-continuity-3511168/)
- - [One UI 7 lets you stop HDR photos from making your screen super bright](https://www.androidauthority.com/one-ui-7-disable-super-hdr-3511160/)
- - [A look at Toontown Rewritten, an unofficial recreation of Disney&#39;s Toontown Online game that shut down in 2013; Toontown Rewritten now has 10K DAUs and 50K MAUs &lpar;J. Clara Chan/Wired&rpar;](http://www.techmeme.com/241225/p14#a241225p14)<!-- TECH:END -->
+ - [Best Earplugs for Sleeping in 2024](https://www.cnet.com/health/sleep/best-earplugs-for-sleeping/#ftag=CAD590a51e)
+ - [A new One UI 7 beta rumor is here to dampen your Christmas spirits](https://www.androidauthority.com/one-ui-7-beta-limited-rollout-3511259/)
+ - [Netflix&#39;s first livestream of NFL games solved the major buffering and freezing issues that plagued the Tyson-Paul fight for the most part, after early glitches &lpar;Richard Deitsch/New York Times&rpar;](http://www.techmeme.com/241225/p15#a241225p15)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
