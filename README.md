@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Squid Game Season 2&#39;s Five Biggest Changes From Season 1 Will Shock You](https://kotaku.com/squid-game-season-2-netflix-kim-jun-hee-gi-hun-1851728874)
  - [BobbyBroccoli’s science controversy videos give you great stories to tell at parties](https://www.polygon.com/yuletide-youtube/497558/bobbybroccoli-youtube-videos-like-jon-bois)
- - [Dozens of amazing board games are buy 1, get 1 half off at Target](https://www.polygon.com/sales-guide/502100/target-buy-one-get-one-half-off-board-games-deal)
- - [Indiana Jones And The Great Circle: How To Solve The ‘Father And Son’ Mystery](https://kotaku.com/indiana-jones-father-and-son-vatican-safe-last-crusade-1851728955)<!-- GAME:END -->
+ - [Dozens of amazing board games are buy 1, get 1 half off at Target](https://www.polygon.com/sales-guide/502100/target-buy-one-get-one-half-off-board-games-deal)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
