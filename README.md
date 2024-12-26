@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Poland. At night, two masked men broke into the office on Rydla Street in Szczecin and for almost a minute they tried to break the glass in the cash register window with hammers.](http://9gag.com/gag/aGyzqBG)
- - ⏩ [If not dangerous why unfriendly-shaped?](http://9gag.com/gag/aQzXDdW)
- - 👉 [Someone has to tell you: WD 40 is not for what you think it is.](http://9gag.com/gag/aXPrQYV)<!-- MEMES:END -->
+ - 💣 [Remember your training](http://9gag.com/gag/aoyg6Ge)
+ - ⏩ [Can i raise two hands for double agreement?](http://9gag.com/gag/agmgwrn)
+ - 👉 [Wanna know why they call &#39;em hurricanes after chicks?](http://9gag.com/gag/a7o1X7A)<!-- MEMES:END -->
 
 ---
 
