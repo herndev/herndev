@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Squid Game Season 2&#39;s Five Biggest Changes From Season 1 Will Shock You](https://kotaku.com/squid-game-season-2-netflix-kim-jun-hee-gi-hun-1851728874)
- - [BobbyBroccoli’s science controversy videos give you great stories to tell at parties](https://www.polygon.com/yuletide-youtube/497558/bobbybroccoli-youtube-videos-like-jon-bois)
- - [Dozens of amazing board games are buy 1, get 1 half off at Target](https://www.polygon.com/sales-guide/502100/target-buy-one-get-one-half-off-board-games-deal)<!-- GAME:END -->
+ - [Fans Debate If These Are The First Pictures Of The Switch 2 Or Just Elaborate AI-Generated Fakes](https://kotaku.com/nintendo-switch-2-reveal-images-leaks-ai-fake-reddit-1851729048)
+ - [Fantasian Neo Dimension Is The Perfect Throwback To Final Fantasy&#39;s Golden Years](https://kotaku.com/fantasian-final-fantasy-hironobu-sakaguchi-nobuo-uemats-1851729068)
+ - [Squid Game Season 2&#39;s Five Biggest Changes From Season 1 Will Shock You](https://kotaku.com/squid-game-season-2-netflix-kim-jun-hee-gi-hun-1851728874)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
