@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Riot Cofounder Defends Netflix League Of Legends Spinoff Arcane Being A $250 Million &#39;Financial Miss&#39;](https://kotaku.com/netflix-arcane-season-3-budget-riot-tencent-cost-ep-1851728780)
- - [Corsair K70 Core review](https://www.pcgamer.com/hardware/gaming-keyboards/corsair-k70-core-review/)
- - [This year has proved yet again that horror games do best when devs keep it small-scale](https://www.pcgamer.com/games/horror/this-year-has-proved-yet-again-that-horror-games-do-best-when-devs-keep-it-small-scale/)<!-- GAME:END -->
+ - [A Disney-style live-action Wallace &amp;#038; Gromit? Creator says ‘NOOOOOO’](https://www.polygon.com/movies/501986/wallace-gromit-netflix-live-action-disney-remake)
+ - [In 2024 Elon Musk predicted that &#39;hundreds of millions&#39; of people will have his brain chips within the next 20 years, so don&#39;t forget to hold him to it](https://www.pcgamer.com/hardware/in-2024-elon-musk-predicted-that-hundreds-of-millions-of-people-will-have-his-brain-chips-within-the-next-20-years-so-dont-forget-to-hold-him-to-it/)
+ - [5 gaming trends across PlayStation in 2024](https://blog.playstation.com/2024/12/26/5-striking-gaming-trends-across-playstation-in-2024/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
