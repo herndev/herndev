@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I need an explanation to increase my weird knowledge](http://9gag.com/gag/aBynbEz)
- - ⏩ [Stroganina is a dish of the indigenous people of northern Arctic Siberia consisting of raw, thin, long-sliced frozen fish](http://9gag.com/gag/a0eZgvv)
- - 👉 [He needs that Disney cash](http://9gag.com/gag/avyAqZq)<!-- MEMES:END -->
+ - 💣 [Don&#39;t worry. They both gave her a huge tip.](http://9gag.com/gag/adBgMVd)
+ - ⏩ [Thank You Very Very Much](http://9gag.com/gag/aLnvowv)
+ - 👉 [Birth control ad](http://9gag.com/gag/azxeyLN)<!-- MEMES:END -->
 
 ---
 
