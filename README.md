@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [New Samsung budget phone leaks: 2018 called and wants its design back](https://www.androidauthority.com/samsung-galaxy-m16-leaked-renders-3511266/)
- - [Best Queen Mattress for 2024: Expert Tested and Approved](https://www.cnet.com/health/sleep/best-queen-mattress/#ftag=CAD590a51e)
- - [We might get our first glimpse at the Galaxy Ring 2 very soon](https://www.androidauthority.com/samsung-galaxy-ring-2-unpacked-announcement-3511265/)<!-- TECH:END -->
+ - [Govee Discount Codes and Deals: $5 Off](https://www.wired.com/story/govee-discount-code/)
+ - [AppLovin was 2024&#39;s top performing US tech stock, up 758% as of December 24, MicroStrategy was the second top performing, up 467%; Palantir was third, up 380% &lpar;Ari Levy/CNBC&rpar;](http://www.techmeme.com/241226/p2#a241226p2)
+ - [This popular brand is already selling MagSafe-ready Galaxy S25 cases](https://www.androidauthority.com/samsung-galaxy-s25-series-cases-dbrand-3511280/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
