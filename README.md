@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [US federal lobbying disclosure forms reveal how Meta, with a team of 14 directly employed lobbyists, led efforts to block the passage of KOSA in Congress &lpar;Ruth Reader/Politico&rpar;](http://www.techmeme.com/241226/p13#a241226p13)
- - [Samsung will let you disable annoyingly-bright HDR content across all apps](https://www.theverge.com/2024/12/26/24329658/samsung-one-ui-7-disable-hdr-setting-bright-videos)
- - [Google TV Streamer tips and tricks: Make the most out of your streamer!](https://www.androidauthority.com/google-tv-streamer-tips-3509651/)<!-- TECH:END -->
+ - [Samsung’s Exynos ambitions are feeling less and less Galaxy S25-dependent](https://www.androidauthority.com/exynos-foldable-3511387/)
+ - [How to make iOS 18 Photos work more like it used to](https://appleinsider.com/inside/ios-18/tips/how-to-make-ios-18-photos-work-more-like-it-used-to?utm_medium=rss)
+ - [US federal lobbying disclosure forms reveal how Meta, with a team of 14 directly employed lobbyists, led efforts to block the passage of KOSA in Congress &lpar;Ruth Reader/Politico&rpar;](http://www.techmeme.com/241226/p13#a241226p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
