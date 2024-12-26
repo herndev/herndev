@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Worst Hacks of 2024](https://www.wired.com/story/worst-hacks-2024/)
- - [Alibaba agrees to merge its South Korean operations with E-Mart&#39;s Gmarket, creating a 50-50 joint venture; sources say the new company could be valued at ~$4B &lpar;Manuel Baigorri/Bloomberg&rpar;](http://www.techmeme.com/241226/p4#a241226p4)
- - [Temu’s Takeover Is Now Complete](https://www.wired.com/story/temus-takeover-is-now-complete/)<!-- TECH:END -->
+ - [Beyond Meat Says Being Attacked Has Just Made It Stronger](https://www.wired.com/story/beyond-meat-hits-back-against-the-haters-ethan-brown/)
+ - [Italian energy giant Eni launches its HPC6 supercomputer, the most powerful outside the US, costing &amp;euro;100M to build and using 14K AMD GPUs, to find oil and gas &lpar;Malcolm Moore/Financial Times&rpar;](http://www.techmeme.com/241226/p5#a241226p5)
+ - [Here’s why Apple won’t make its own search engine to compete against Google](https://www.androidauthority.com/apple-search-engine-google-search-rival-3511332/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
