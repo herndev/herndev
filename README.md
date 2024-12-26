@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Have a nice day](http://9gag.com/gag/aoyg6E3)
- - ⏩ [Imagine the employees having to deal with these people daily](http://9gag.com/gag/a5Q1Yvq)
- - 👉 [Stroganina is a dish of the indigenous people of northern Arctic Siberia consisting of raw, thin, long-sliced frozen fish](http://9gag.com/gag/a0eZgvv)<!-- MEMES:END -->
+ - 💣 [Wanna know why they call &#39;em hurricanes after chicks?](http://9gag.com/gag/a7o1X7A)
+ - ⏩ [Bro went nuclear on her](http://9gag.com/gag/aYQrB42)
+ - 👉 [Happy holidays snowflakes](http://9gag.com/gag/aE0851M)<!-- MEMES:END -->
 
 ---
 
