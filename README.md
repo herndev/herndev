@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How Apple&#39;s &#39;Move to iOS&#39; app has vaulted into Google Play&#39;s top 40 app list](https://appleinsider.com/articles/24/12/26/how-apples-move-to-ios-app-has-vaulted-into-google-plays-top-40-app-list?utm_medium=rss)
- - [An undisclosed 2023 agreement between Microsoft and OpenAI defines achieving AGI as the point when OpenAI develops AI systems that generate $100B+ in profits &lpar;Stephanie Palazzolo/The Information&rpar;](http://www.techmeme.com/241226/p12#a241226p12)
- - [Eddy Cue explains why Apple won’t make a search engine](https://www.theverge.com/2024/12/26/24329148/apple-eddy-cue-search-engine-ai-google-doj-antitrust-intervene)<!-- TECH:END -->
+ - [US federal lobbying disclosure forms reveal how Meta, with a team of 14 directly employed lobbyists, led efforts to block the passage of KOSA in Congress &lpar;Ruth Reader/Politico&rpar;](http://www.techmeme.com/241226/p13#a241226p13)
+ - [Samsung will let you disable annoyingly-bright HDR content across all apps](https://www.theverge.com/2024/12/26/24329658/samsung-one-ui-7-disable-hdr-setting-bright-videos)
+ - [Google TV Streamer tips and tricks: Make the most out of your streamer!](https://www.androidauthority.com/google-tv-streamer-tips-3509651/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
