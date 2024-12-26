@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung’s Exynos ambitions are feeling less and less Galaxy S25-dependent](https://www.androidauthority.com/exynos-foldable-3511387/)
- - [How to make iOS 18 Photos work more like it used to](https://appleinsider.com/inside/ios-18/tips/how-to-make-ios-18-photos-work-more-like-it-used-to?utm_medium=rss)
- - [US federal lobbying disclosure forms reveal how Meta, with a team of 14 directly employed lobbyists, led efforts to block the passage of KOSA in Congress &lpar;Ruth Reader/Politico&rpar;](http://www.techmeme.com/241226/p13#a241226p13)<!-- TECH:END -->
+ - [One of Android’s best 2024 features is finally arriving on Nothing phones](https://www.androidauthority.com/circle-to-search-nothing-3511412/)
+ - [How we work: William Gallagher&#39;s mess of Mac apps and cables](https://appleinsider.com/articles/24/12/26/how-we-work-william-gallaghers-mess-of-mac-apps-and-cables?utm_medium=rss)
+ - [The best deals on MacBooks right now](https://www.theverge.com/22399419/apple-macbook-air-pro-mac-mini-imac-deals)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
