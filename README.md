@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How H-1B workers from India and other places help the US remain dominant in tech, as some on the new Tech Right discover the racial-nationalist bigotry of MAGA &lpar;Noah Smith/Noahpinion&rpar;](http://www.techmeme.com/241226/p11#a241226p11)
- - [Source: Microsoft and OpenAI wrangle over Microsoft&#39;s stake in the for-profit, use of OpenAI&#39;s IP, continued collection of 20% of OpenAI&#39;s revenue, and more &lpar;The Information&rpar;](http://www.techmeme.com/241226/p10#a241226p10)
- - [LG’s new lamp puts a mini garden inside your home](https://www.theverge.com/2024/12/26/24329562/lg-lamp-indoor-garden)<!-- TECH:END -->
+ - [How Apple&#39;s &#39;Move to iOS&#39; app has vaulted into Google Play&#39;s top 40 app list](https://appleinsider.com/articles/24/12/26/how-apples-move-to-ios-app-has-vaulted-into-google-plays-top-40-app-list?utm_medium=rss)
+ - [An undisclosed 2023 agreement between Microsoft and OpenAI defines achieving AGI as the point when OpenAI develops AI systems that generate $100B+ in profits &lpar;Stephanie Palazzolo/The Information&rpar;](http://www.techmeme.com/241226/p12#a241226p12)
+ - [Eddy Cue explains why Apple won’t make a search engine](https://www.theverge.com/2024/12/26/24329148/apple-eddy-cue-search-engine-ai-google-doj-antitrust-intervene)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
