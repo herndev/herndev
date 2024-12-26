@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Extended: grab Apple&#39;s M4 Pro MacBook Pro for $1,699 for 2 days only](https://appleinsider.com/articles/24/12/26/extended-grab-apples-m4-pro-macbook-pro-for-1699-for-2-days-only?utm_medium=rss)
- - [Save 33% on this ASUS ZenScreen 15.6-inch portable monitor!](https://www.androidauthority.com/asus-zenscreen-portable-monitor-deal-2-3511457/)
- - [The best smartwatches for Android](https://www.theverge.com/23449363/best-android-smartwatches-wear-os)<!-- TECH:END -->
+ - [Gemini could soon give you more control over potentially unwanted output &lpar;APK teardown&rpar;](https://www.androidauthority.com/gemini-content-filter-3511437/)
+ - [Advantest CEO Doug Lefever, whose company is the largest provider of chip testing machines, on AI chip demand, China, and more; Advantest&#39;s stock is up 95%+ YTD &lpar;Financial Times&rpar;](http://www.techmeme.com/241226/p17#a241226p17)
+ - [Extended: grab Apple&#39;s M4 Pro MacBook Pro for $1,699 for 2 days only](https://appleinsider.com/articles/24/12/26/extended-grab-apples-m4-pro-macbook-pro-for-1699-for-2-days-only?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
