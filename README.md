@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Who&#39;s gonna stop him?](http://9gag.com/gag/aXPr68D)
- - ⏩ [UK is doomed](http://9gag.com/gag/aqyGo4Y)
- - 👉 [What&#39;s going on here](http://9gag.com/gag/adBgDDd)<!-- MEMES:END -->
+ - 💣 [Wild wild west](http://9gag.com/gag/a871NmO)
+ - ⏩ [Camels can eat cactus but not lemons](http://9gag.com/gag/avyAqGd)
+ - 👉 [Am i drunk or Aslan in 2005 looks more realistic than lion king 2024? Probably drunk](http://9gag.com/gag/aYQr0Nm)<!-- MEMES:END -->
 
 ---
 
