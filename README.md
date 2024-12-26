@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Bluesky adds Trending topics to its arsenal](https://www.theverge.com/2024/12/26/24329549/bluesky-trending-features)
- - [Galaxy S25 Slim’s camera bump could be smaller, thanks to this new camera zoom tech](https://www.androidauthority.com/samsung-galaxy-s25-slim-alop-camera-tech-3511341/)
- - [Bluesky launches a Trending Topics feature in beta on its desktop and mobile apps in English, and says users&#39; muted words will transfer to Trending &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/241226/p7#a241226p7)<!-- TECH:END -->
+ - [Finland says it suspects an oil tanker in Russia&#39;s shadow fleet of damaging three undersea internet cables on December 25, the latest Baltic Sea cable damaged &lpar;Richard Milne/Financial Times&rpar;](http://www.techmeme.com/241226/p9#a241226p9)
+ - [How some doctors are using AI tools, like DAX Copilot from Microsoft&#39;s Nuance, to automate administrative tasks like taking and summarizing notes &lpar;Geoffrey A. Fowler/Washington Post&rpar;](http://www.techmeme.com/241226/p8#a241226p8)
+ - [How to change what the iPhone 16 Camera Control button does](https://appleinsider.com/inside/iphone/tips/how-to-change-what-the-iphone-16-camera-control-button-does?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
