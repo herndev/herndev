@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Finland says it suspects an oil tanker in Russia&#39;s shadow fleet of damaging three undersea internet cables on December 25, the latest Baltic Sea cable damaged &lpar;Richard Milne/Financial Times&rpar;](http://www.techmeme.com/241226/p9#a241226p9)
- - [How some doctors are using AI tools, like DAX Copilot from Microsoft&#39;s Nuance, to automate administrative tasks like taking and summarizing notes &lpar;Geoffrey A. Fowler/Washington Post&rpar;](http://www.techmeme.com/241226/p8#a241226p8)
- - [How to change what the iPhone 16 Camera Control button does](https://appleinsider.com/inside/iphone/tips/how-to-change-what-the-iphone-16-camera-control-button-does?utm_medium=rss)<!-- TECH:END -->
+ - [How H-1B workers from India and other places help the US remain dominant in tech, as some on the new Tech Right discover the racial-nationalist bigotry of MAGA &lpar;Noah Smith/Noahpinion&rpar;](http://www.techmeme.com/241226/p11#a241226p11)
+ - [Source: Microsoft and OpenAI wrangle over Microsoft&#39;s stake in the for-profit, use of OpenAI&#39;s IP, continued collection of 20% of OpenAI&#39;s revenue, and more &lpar;The Information&rpar;](http://www.techmeme.com/241226/p10#a241226p10)
+ - [LG’s new lamp puts a mini garden inside your home](https://www.theverge.com/2024/12/26/24329562/lg-lamp-indoor-garden)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
