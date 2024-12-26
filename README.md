@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Madame Web, Kraven were ‘not terrible films’ destroyed by vengeful critics, says Sony boss](https://www.polygon.com/marvel/502025/madame-web-kraven-spider-man-movies-review-scores-killed-spider-verse-movies)
- - [What was the hardest game in Squid Game season 2? The cast sounds off](https://www.polygon.com/tv/501744/squid-game-season-2-hardest-game-cast)
- - [Gun of the Year 2024: Helldivers 2&#39;s AC-8 Autocannon](https://www.pcgamer.com/games/third-person-shooter/gun-of-the-year-2024-helldivers-2s-ac-8-autocannon/)<!-- GAME:END -->
+ - [Google being pushed to sell off Chrome is likely a good thing, but don&#39;t cheer on the decision just yet](https://www.pcgamer.com/software/browsers/google-being-pushed-to-sell-off-chrome-is-likely-a-good-thing-but-dont-cheer-on-the-decision-just-yet/)
+ - [Beat Marvel Rivals’ Toxicity With The Power Of Silence](https://kotaku.com/marvel-rivals-mute-players-text-chat-mic-toxic-1851728933)
+ - [New Game Is Basically LittleBigPlanet 4](https://kotaku.com/lbp3-little-big-planet-restitched-fan-game-trailer-pc-1851728892)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
