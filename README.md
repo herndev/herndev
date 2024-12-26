@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Christopher Nolan&#39;s Next Movie Is The Odyssey As Dads Everywhere Get Hyped For Epic Mythical Action](https://kotaku.com/christopher-nolan-odyssey-casting-release-tom-holland-1851728737)
- - [The biggest gaming controversies of 2024](https://www.pcgamer.com/gaming-industry/the-biggest-gaming-controversies-of-2024/)
- - [Premium live-service games are failing. Why is Diablo 4 a success?](https://www.polygon.com/diablo/501334/diablo-4-premium-live-service-success)<!-- GAME:END -->
+ - [Riot Cofounder Defends Netflix League Of Legends Spinoff Arcane Being A $250 Million &#39;Financial Miss&#39;](https://kotaku.com/netflix-arcane-season-3-budget-riot-tencent-cost-ep-1851728780)
+ - [Corsair K70 Core review](https://www.pcgamer.com/hardware/gaming-keyboards/corsair-k70-core-review/)
+ - [This year has proved yet again that horror games do best when devs keep it small-scale](https://www.pcgamer.com/games/horror/this-year-has-proved-yet-again-that-horror-games-do-best-when-devs-keep-it-small-scale/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
