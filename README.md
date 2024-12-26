@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I saw some wild shit as a kid](http://9gag.com/gag/ajPgvyg)
- - ⏩ [China continues to rub Europes face in the grass.](http://9gag.com/gag/aAyG58d)
- - 👉 [Honda, Nissan, and Mitsubishi are officially teaming up under a single holding company to tackle global competition. The merger, set to finalize by August 2026](http://9gag.com/gag/a341X7r)<!-- MEMES:END -->
+ - 💣 [Alex the intelligent one](http://9gag.com/gag/adBgDyN)
+ - ⏩ [No audio but still satisfied](http://9gag.com/gag/aqyGMjp)
+ - 👉 [China continues to rub Europes face in the grass.](http://9gag.com/gag/aAyG58d)<!-- MEMES:END -->
 
 ---
 
