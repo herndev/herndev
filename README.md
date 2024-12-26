@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Typical sibling things.](http://9gag.com/gag/ae9gwOQ)
- - ⏩ [Sick, insecure, toxic woman berates, curses at, and assaults a man onboard a plane](http://9gag.com/gag/aZZrKo3)
- - 👉 [There goes all your hard work](http://9gag.com/gag/aPAZ07w)<!-- MEMES:END -->
+ - 💣 [I saw some wild shit as a kid](http://9gag.com/gag/ajPgvyg)
+ - ⏩ [Don&#39;t worry. They both gave her a huge tip.](http://9gag.com/gag/adBgMVd)
+ - 👉 [Alex the intelligent one](http://9gag.com/gag/adBgDyN)<!-- MEMES:END -->
 
 ---
 
