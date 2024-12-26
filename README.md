@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Fans Debate If These Are The First Pictures Of The Switch 2 Or Just Elaborate AI-Generated Fakes](https://kotaku.com/nintendo-switch-2-reveal-images-leaks-ai-fake-reddit-1851729048)
- - [Fantasian Neo Dimension Is The Perfect Throwback To Final Fantasy&#39;s Golden Years](https://kotaku.com/fantasian-final-fantasy-hironobu-sakaguchi-nobuo-uemats-1851729068)
- - [Squid Game Season 2&#39;s Five Biggest Changes From Season 1 Will Shock You](https://kotaku.com/squid-game-season-2-netflix-kim-jun-hee-gi-hun-1851728874)<!-- GAME:END -->
+ - [Naughty Dog co-founder says&amp;#8217; ‘ballooning budgets’ drove it to a Sony acquisition](https://www.polygon.com/gaming/502300/naughty-dog-sony-acquisition-video-game-budgets)
+ - [Turns out that Balatro, like Tetris before it, can only be &#39;finished&#39; by scoring so high it crashes the game](https://www.pcgamer.com/games/roguelike/turns-out-that-balatro-like-tetris-before-it-can-only-be-finished-by-scoring-so-high-it-crashes-the-game/)
+ - [Fans Debate If These Are The First Pictures Of The Switch 2 Or Just Elaborate AI-Generated Fakes](https://kotaku.com/nintendo-switch-2-reveal-images-leaks-ai-fake-reddit-1851729048)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
