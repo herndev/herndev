@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I saw some wild shit as a kid](http://9gag.com/gag/ajPgvyg)
- - ⏩ [Don&#39;t worry. They both gave her a huge tip.](http://9gag.com/gag/adBgMVd)
- - 👉 [Alex the intelligent one](http://9gag.com/gag/adBgDyN)<!-- MEMES:END -->
+ - 💣 [Stroganina is a dish of the indigenous people of northern Arctic Siberia consisting of raw, thin, long-sliced frozen fish](http://9gag.com/gag/a0eZgvv)
+ - ⏩ [There goes all your hard work](http://9gag.com/gag/aPAZ07w)
+ - 👉 [I saw some wild shit as a kid](http://9gag.com/gag/ajPgvyg)<!-- MEMES:END -->
 
 ---
 
