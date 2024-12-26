@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Remember your training](http://9gag.com/gag/aoyg6Ge)
- - ⏩ [Wanna know why they call &#39;em hurricanes after chicks?](http://9gag.com/gag/a7o1X7A)
- - 👉 [All coincidences with real people are random](http://9gag.com/gag/aZZr5v0)<!-- MEMES:END -->
+ - 💣 [I saw some wild shit as a kid](http://9gag.com/gag/ajPgvyg)
+ - ⏩ [She moves like a silkworm](http://9gag.com/gag/a2v1p0Y)
+ - 👉 [Interesting](http://9gag.com/gag/a4P1yBy)<!-- MEMES:END -->
 
 ---
 
