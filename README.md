@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Stroganina is a dish of the indigenous people of northern Arctic Siberia consisting of raw, thin, long-sliced frozen fish](http://9gag.com/gag/a0eZgvv)
- - ⏩ [There goes all your hard work](http://9gag.com/gag/aPAZ07w)
- - 👉 [I saw some wild shit as a kid](http://9gag.com/gag/ajPgvyg)<!-- MEMES:END -->
+ - 💣 [Who&#39;s gonna stop him?](http://9gag.com/gag/aXPr68D)
+ - ⏩ [UK is doomed](http://9gag.com/gag/aqyGo4Y)
+ - 👉 [What&#39;s going on here](http://9gag.com/gag/adBgDDd)<!-- MEMES:END -->
 
 ---
 
