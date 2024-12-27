@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [If you look at the water, it will look back at you](http://9gag.com/gag/avyAN0O)
- - ⏩ [Poor Maryjane\u2026](http://9gag.com/gag/aYQr36V)
- - 👉 [Heels and glasses](http://9gag.com/gag/a6Z10Dq)<!-- MEMES:END -->
+ - 💣 [Gift](http://9gag.com/gag/azxenrN)
+ - ⏩ [This bald guy travels the world visiting countries](http://9gag.com/gag/aGyz446)
+ - 👉 [Today marks the 20th Anniversary of one of the deadliest Tsunamis](http://9gag.com/gag/aryn745)<!-- MEMES:END -->
 
 ---
 
