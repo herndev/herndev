@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Homestar Runner is on YouTube now, so you should rewatch the absurdity of Teen Girl Squad](https://www.polygon.com/yuletide-youtube/498222/watch-teen-girl-squad-strong-bad-homestar-runner)
  - [Today&#39;s Wordle answer for Friday, December 27](https://www.pcgamer.com/games/puzzle/wordle-answer-today-December-27-2024/)
- - [Naughty Dog co-founder says ‘ballooning budgets’ drove it to a Sony acquisition](https://www.polygon.com/gaming/502300/naughty-dog-sony-acquisition-video-game-budgets)
- - [Turns out that Balatro, like Tetris before it, can only be &#39;finished&#39; by scoring so high it crashes the game](https://www.pcgamer.com/games/roguelike/turns-out-that-balatro-like-tetris-before-it-can-only-be-finished-by-scoring-so-high-it-crashes-the-game/)<!-- GAME:END -->
+ - [Naughty Dog co-founder says ‘ballooning budgets’ drove it to a Sony acquisition](https://www.polygon.com/gaming/502300/naughty-dog-sony-acquisition-video-game-budgets)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
