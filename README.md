@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Gift](http://9gag.com/gag/azxenrN)
- - ⏩ [This bald guy travels the world visiting countries](http://9gag.com/gag/aGyz446)
- - 👉 [Today marks the 20th Anniversary of one of the deadliest Tsunamis](http://9gag.com/gag/aryn745)<!-- MEMES:END -->
+ - 💣 [Captain, experts .. is this true? Or just comedy?](http://9gag.com/gag/aVvxA28)
+ - ⏩ [I wish my uncle only lasted 4 minutes](http://9gag.com/gag/a4P1DEd)
+ - 👉 [The guy is cooked](http://9gag.com/gag/aD2DEAx)<!-- MEMES:END -->
 
 ---
 
