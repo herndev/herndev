@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The key is communication](http://9gag.com/gag/a341OOm)
- - ⏩ [My son knows what he&#39;s doing, i&#39;m proud](http://9gag.com/gag/a1m1yo2)
- - 👉 [Haters gonna say it\u2019s fake.](http://9gag.com/gag/aQzX5qq)<!-- MEMES:END -->
+ - 💣 [Patriarchy debunked](http://9gag.com/gag/awyz2MQ)
+ - ⏩ [Best Reverse Uno Card](http://9gag.com/gag/apRg7XW)
+ - 👉 [Indian military parade](http://9gag.com/gag/aRBrbZG)<!-- MEMES:END -->
 
 ---
 
