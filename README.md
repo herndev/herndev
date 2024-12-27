@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best Fitbits for your fitness and health](https://www.theverge.com/22982833/best-fitbit-watch-fitness-tracker)
- - [Sydney-based Sitemate, which offers no-code software tools for industries like infrastructure and utilities, raised a AU$27.5M Series A at a ~AU$150M valuation &lpar;Shivaune Field/Forbes Australia&rpar;](http://www.techmeme.com/241227/p9#a241227p9)
- - [Apple TV Plus has a surprise planned for January 4 and 5](https://www.androidauthority.com/apple-tv-plus-see-for-yourself-3511647/)<!-- TECH:END -->
+ - [How to choose which Apple Watch to buy](https://www.theverge.com/23037217/best-apple-watch-series-se-ultra)
+ - [The Batman 2 is delayed to 2027, but Mickey 17’s release date is moving up](https://www.theverge.com/2024/12/27/24330346/batman-part-ii-2027-delay-mickey-17-release-date)
+ - [Experts say hackers compromised several companies&#39; Chrome browser extensions, including Cyberhaven&#39;s, in a series of intrusions dating back to mid-December &lpar;Reuters&rpar;](http://www.techmeme.com/241227/p11#a241227p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
