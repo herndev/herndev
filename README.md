@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [National lotteries be like](http://9gag.com/gag/aBynpdz)
+ - 💣 [Nature](http://9gag.com/gag/a6Z1PyA)
  - ⏩ [The way it crept down. Slow and sinister.](http://9gag.com/gag/aD2DydN)
- - 👉 [I am a minority...](http://9gag.com/gag/aAyGzrL)<!-- MEMES:END -->
+ - 👉 [What is the phenomenon called?](http://9gag.com/gag/aRBrnXA)<!-- MEMES:END -->
 
 ---
 
