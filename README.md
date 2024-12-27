@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Nice](http://9gag.com/gag/aBynp8D)
- - ⏩ [Do you believe in coincidences?](http://9gag.com/gag/ayN9j0X)
- - 👉 [Thanks to people like this, I stopped donating.](http://9gag.com/gag/aW4g3LZ)<!-- MEMES:END -->
+ - 💣 [If you look at the water, it will look back at you](http://9gag.com/gag/avyAN0O)
+ - ⏩ [Poor Maryjane\u2026](http://9gag.com/gag/aYQr36V)
+ - 👉 [Heels and glasses](http://9gag.com/gag/a6Z10Dq)<!-- MEMES:END -->
 
 ---
 
