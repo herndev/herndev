@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [No audio but still satisfied](http://9gag.com/gag/aqyGMjp)
- - ⏩ [Interesting](http://9gag.com/gag/a4P1yBy)
- - 👉 [Camels can eat cactus but not lemons](http://9gag.com/gag/avyAqGd)<!-- MEMES:END -->
+ - 💣 [Ah yes, the negotiator.](http://9gag.com/gag/adBgDY2)
+ - ⏩ [`Gen-Z entered the workforce chat`](http://9gag.com/gag/aByn51Z)
+ - 👉 [Thank You Very Very Much](http://9gag.com/gag/aLnvowv)<!-- MEMES:END -->
 
 ---
 
