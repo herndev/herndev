@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The early access for Fields of Mistria was better than every other farm sim this year by a country mile thanks to its cast of hot anime-inspired sweethearts and great dialogue](https://www.pcgamer.com/games/life-sim/the-early-access-for-fields-of-mistria-was-better-than-every-other-farm-sim-this-year-by-a-country-mile-thanks-to-its-cast-of-hot-anime-inspired-sweethearts-and-great-dialogue/)
- - [This year John Romero declared that &#39;gib&#39; is pronounced like &#39;giblet&#39; and it&#39;s the gif debate all over again](https://www.pcgamer.com/games/this-year-john-romero-declared-that-gib-is-pronounced-like-giblet-and-its-the-gif-debate-all-over-again/)
- - [I&#39;m still reeling from the knowledge that the Windows 10 desktop background is a real photo and not CGI](https://www.pcgamer.com/gaming-industry/im-still-reeling-from-the-knowledge-that-the-windows-10-desktop-background-is-a-real-photo-and-not-cgi/)<!-- GAME:END -->
+ - [Hunker Down for the Winter With These Cozy Games on Xbox](https://news.xbox.com/en-us/2024/11/15/hunker-down-for-the-winter-with-these-cozy-games-on-xbox/#new_tab)
+ - [The State Of The Nintendo Switch In 2024](https://kotaku.com/nintendo-switch-2-state-of-year-review-piracy-zelda-1851728988)
+ - [Best RPG 2024: Metaphor: ReFantazio](https://www.pcgamer.com/games/rpg/best-rpg-2024-metaphor-refantazio/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
