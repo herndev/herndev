@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Paper Passport Is Dying](https://www.wired.com/story/the-paper-passport-is-dying/)
- - [Got a new phone? Here’s how to switch phones like a pro](https://www.androidauthority.com/how-to-switch-phones-901221/)
- - [This Was the Year of the Influencer Political Takeover](https://www.wired.com/story/this-was-the-year-of-the-influencer-political-takeover/)<!-- TECH:END -->
+ - [A fake Nintendo lawyer is scaring YouTubers, and it’s not clear YouTube can stop him](https://www.theverge.com/2024/12/27/24326278/nintendo-fake-takedowns-youtube-domtendo-dmca)
+ - [How to fix System Data filling your iPhone&#39;s storage](https://appleinsider.com/articles/22/05/29/how-to-fix-system-data-filling-your-iphones-storage?utm_medium=rss)
+ - [Best Internet Providers in San Antonio, Texas](https://www.cnet.com/home/internet/best-internet-providers-in-san-antonio-tx/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
