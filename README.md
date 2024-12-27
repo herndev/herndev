@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Nature](http://9gag.com/gag/a6Z1PyA)
- - ⏩ [The way it crept down. Slow and sinister.](http://9gag.com/gag/aD2DydN)
- - 👉 [What is the phenomenon called?](http://9gag.com/gag/aRBrnXA)<!-- MEMES:END -->
+ - 💣 [Heels and glasses](http://9gag.com/gag/a6Z10Dq)
+ - ⏩ [The random crab though](http://9gag.com/gag/a7o1RDx)
+ - 👉 [Nice](http://9gag.com/gag/aBynp8D)<!-- MEMES:END -->
 
 ---
 
