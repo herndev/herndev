@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How to easily run Windows 11 on Steam Deck](https://www.polygon.com/gaming/501039/steam-deck-how-to-install-windows-11-guide)
- - [Jujutsu Infinite codes for December 2024](https://www.polygon.com/guides/502517/jujutsu-infinite-jjk-codes-list-redeem-spins)
- - [Infinity Nikki&amp;#8217;s next season launches Monday](https://www.polygon.com/news/502537/infinity-nikki-shooting-star-season-release-date-time-outfits)<!-- GAME:END -->
+ - [Alan Wake 2 set such a high technical bar last year that few games in 2024 came anywhere near, but it wasn&#39;t all abject disappointment](https://www.pcgamer.com/hardware/alan-wake-2-set-such-a-high-technical-bar-last-year-that-few-games-in-2024-came-anywhere-near-but-it-wasnt-all-abject-disappointment/)
+ - [The Batman 2 Delayed Again, Won&#39;t Arrive Until 2027](https://kotaku.com/the-batman-part-2-sequel-delayed-2026-2027-dc-reeves-1851729434)
+ - [Hot Wheels Unleashed is free today on Epic Games Store and today only](https://www.polygon.com/gaming/502592/hot-wheels-unleashed-epic-games-store-free-download)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
