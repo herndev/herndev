@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Ah yes, the negotiator.](http://9gag.com/gag/adBgDY2)
- - ⏩ [`Gen-Z entered the workforce chat`](http://9gag.com/gag/aByn51Z)
- - 👉 [Thank You Very Very Much](http://9gag.com/gag/aLnvowv)<!-- MEMES:END -->
+ - 💣 [In Brazil, a 533-meter bridge collapsed just as a man was reporting on the poor condition of the bridge.](http://9gag.com/gag/a1m13q6)
+ - ⏩ [So, where was I\u2026oh yea!](http://9gag.com/gag/a341X8e)
+ - 👉 [Who the f**k steals a cat, they are literally everywhere.](http://9gag.com/gag/a0eZ3Rv)<!-- MEMES:END -->
 
 ---
 
