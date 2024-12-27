@@ -47,7 +47,7 @@
 
 <!-- MEMES:START -->
  - 💣 [The key is communication](http://9gag.com/gag/a341OOm)
- - ⏩ [UK is doomed](http://9gag.com/gag/aqyGo4Y)
+ - ⏩ [My son knows what he&#39;s doing, i&#39;m proud](http://9gag.com/gag/a1m1yo2)
  - 👉 [Haters gonna say it\u2019s fake.](http://9gag.com/gag/aQzX5qq)<!-- MEMES:END -->
 
 ---
