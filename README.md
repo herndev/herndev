@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A profile of Boring Company President and key Elon Musk deputy Steve Davis, who has spent 20+ years helping Musk cut costs and now helps recruit staff at DOGE &lpar;Sarah McBride/Bloomberg&rpar;](http://www.techmeme.com/241226/p18#a241226p18)
  - [Check out these deals on awesome power stations from Anker, Jackery, and DJI](https://www.androidauthority.com/anker-jackery-dji-power-station-deals-3511455/)
- - [Deal: Turn any old electronics smart with this Kasa Smart Plug Power Strip](https://www.androidauthority.com/kasa-smart-plug-power-strip-kp303-deal-3511456/)
- - [Google’s latest Easter egg invites you to try your luck at Squid Game’s Red Light, Green Light game](https://www.androidauthority.com/squid-game-easter-egg-3511472/)<!-- TECH:END -->
+ - [Deal: Turn any old electronics smart with this Kasa Smart Plug Power Strip](https://www.androidauthority.com/kasa-smart-plug-power-strip-kp303-deal-3511456/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
