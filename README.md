@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A profile of Boring Company President and key Elon Musk deputy Steve Davis, who has spent 20+ years helping Musk cut costs and now helps recruit staff at DOGE &lpar;Sarah McBride/Bloomberg&rpar;](http://www.techmeme.com/241226/p18#a241226p18)
- - [Check out these deals on awesome power stations from Anker, Jackery, and DJI](https://www.androidauthority.com/anker-jackery-dji-power-station-deals-3511455/)
- - [Deal: Turn any old electronics smart with this Kasa Smart Plug Power Strip](https://www.androidauthority.com/kasa-smart-plug-power-strip-kp303-deal-3511456/)<!-- TECH:END -->
+ - [Is ChatGPT not working for you? Here’s how you can try to fix it &lpar;Updated: Overall fix incoming&rpar;](https://www.androidauthority.com/chatgpt-not-working-fix-3295471/)
+ - [Memecoin MIRA, created to fund research into a brain tumor affecting tech CEO Siqi Chen&#39;s daughter, hit an $80M market cap before falling as Chen began selling &lpar;Zack Abrams/The Block&rpar;](http://www.techmeme.com/241226/p20#a241226p20)
+ - [OpenAI says ChatGPT is mostly recovered and APIs and Sora fully operational, after an outage led to the services &quot;experiencing high error rates&quot; for a few hours &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/241226/p19#a241226p19)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
