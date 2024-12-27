@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Do you believe in coincidences?](http://9gag.com/gag/ayN9j0X)
- - ⏩ [No underwear](http://9gag.com/gag/aXPr6yP)
- - 👉 [It&#39;s never the skin color](http://9gag.com/gag/aNDPNob)<!-- MEMES:END -->
+ - 💣 [Poor Maryjane\u2026](http://9gag.com/gag/aYQr36V)
+ - ⏩ [`Man! now we have to work again?`](http://9gag.com/gag/aoygXPA)
+ - 👉 [Nice](http://9gag.com/gag/aBynp8D)<!-- MEMES:END -->
 
 ---
 
