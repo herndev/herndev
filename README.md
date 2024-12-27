@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Core memory](http://9gag.com/gag/avyAj15)
- - ⏩ [She moves like a silkworm](http://9gag.com/gag/a2v1p0Y)
- - 👉 [So, where was I\u2026oh yea!](http://9gag.com/gag/a341X8e)<!-- MEMES:END -->
+ - 💣 [The key is communication](http://9gag.com/gag/a341OOm)
+ - ⏩ [UK is doomed](http://9gag.com/gag/aqyGo4Y)
+ - 👉 [Haters gonna say it\u2019s fake.](http://9gag.com/gag/aQzX5qq)<!-- MEMES:END -->
 
 ---
 
