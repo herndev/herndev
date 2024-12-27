@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Squid Game season 2 probes the true nature of man — and gets closer than you’d think](https://www.polygon.com/tv/501713/squid-game-season-2-review-front-man-gi-hun)
  - [Homestar Runner is on YouTube now, so you should rewatch the absurdity of Teen Girl Squad](https://www.polygon.com/yuletide-youtube/498222/watch-teen-girl-squad-strong-bad-homestar-runner)
- - [Today&#39;s Wordle answer for Friday, December 27](https://www.pcgamer.com/games/puzzle/wordle-answer-today-December-27-2024/)
- - [Naughty Dog co-founder says ‘ballooning budgets’ drove it to a Sony acquisition](https://www.polygon.com/gaming/502300/naughty-dog-sony-acquisition-video-game-budgets)<!-- GAME:END -->
+ - [Today&#39;s Wordle answer for Friday, December 27](https://www.pcgamer.com/games/puzzle/wordle-answer-today-December-27-2024/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
