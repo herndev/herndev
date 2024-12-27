@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta expects AI-generated characters to &quot;generate and share content&quot; and &quot;over time, exist on our platforms&quot;, similarly to regular accounts &lpar;Financial Times&rpar;](http://www.techmeme.com/241227/p8#a241227p8)
- - [YouTube tests ‘Play something’ button for indecisive viewers](https://www.androidauthority.com/youtube-play-something-button-3511636/)
- - [Elon Musk riles up Trump’s far-right base by praising immigrants](https://www.theverge.com/2024/12/27/24330144/elon-musk-vivek-ramaswamy-silicon-valley-immigration-maga-racism-trump)<!-- TECH:END -->
+ - [The best Fitbits for your fitness and health](https://www.theverge.com/22982833/best-fitbit-watch-fitness-tracker)
+ - [Sydney-based Sitemate, which offers no-code software tools for industries like infrastructure and utilities, raised a AU$27.5M Series A at a ~AU$150M valuation &lpar;Shivaune Field/Forbes Australia&rpar;](http://www.techmeme.com/241227/p9#a241227p9)
+ - [Apple TV Plus has a surprise planned for January 4 and 5](https://www.androidauthority.com/apple-tv-plus-see-for-yourself-3511647/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
