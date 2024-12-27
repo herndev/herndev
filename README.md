@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [US open-air shopping center vacancies drop to historically low levels, defying forecasts of a retail apocalypse caused by e-commerce, which has ~16% of US sales &lpar;Gregory Meyer/Financial Times&rpar;](http://www.techmeme.com/241227/p1#a241227p1)
  - [Study finds high levels of toxic ‘forever chemicals’ in popular smartwatch bands](https://www.androidauthority.com/smartwatch-bands-forever-chemicals-3511494/)
- - [Best Internet Providers in Santa Ana, California](https://www.cnet.com/home/internet/best-internet-providers-in-santa-ana-ca/#ftag=CAD590a51e)
- - [Best Internet Providers in Roswell, Georgia](https://www.cnet.com/home/internet/best-internet-providers-in-roswell-ga/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Internet Providers in Santa Ana, California](https://www.cnet.com/home/internet/best-internet-providers-in-santa-ana-ca/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
