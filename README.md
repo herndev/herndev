@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Heels and glasses](http://9gag.com/gag/a6Z10Dq)
- - ⏩ [The random crab though](http://9gag.com/gag/a7o1RDx)
- - 👉 [Nice](http://9gag.com/gag/aBynp8D)<!-- MEMES:END -->
+ - 💣 [Nice](http://9gag.com/gag/aBynp8D)
+ - ⏩ [Do you believe in coincidences?](http://9gag.com/gag/ayN9j0X)
+ - 👉 [Thanks to people like this, I stopped donating.](http://9gag.com/gag/aW4g3LZ)<!-- MEMES:END -->
 
 ---
 
