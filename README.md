@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Montenegro says Terraform Labs co-founder Do Kwon will be extradited to the US, potentially ending a standoff over competing demands by the US and South Korea &lpar;Bloomberg&rpar;](http://www.techmeme.com/241227/p6#a241227p6)
- - [New SmartThings widget gives you a TV remote anywhere you like](https://www.androidauthority.com/samsung-smartthings-remote-widget-3511626/)
- - [Yes, the Galaxy S25 series supports seamless updates](https://www.androidauthority.com/samsung-galaxy-s25-series-seamless-updates-3511605/)<!-- TECH:END -->
+ - [The Galaxy S24 Ultra display issue is worryingly common](https://www.androidauthority.com/galaxy-s24-ultra-display-smudge-poll-results-3511629/)
+ - [NASA’s Parker Solar Probe has survived the closest-ever Sun flyby](https://www.theverge.com/2024/12/27/24330216/nasa-parker-solar-probe-touch-the-sun)
+ - [TSMC says it has started mass production at its first factory in Japan, located in Kumamoto, producing 12nm to 28nm chips for use in cars and image sensors &lpar;Kyodo News+&rpar;](http://www.techmeme.com/241227/p7#a241227p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
