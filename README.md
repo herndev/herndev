@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Winks from Macy](http://9gag.com/gag/a4P1vMZ)
- - ⏩ [Bro set the bar real high](http://9gag.com/gag/avyAKYE)
- - 👉 [That looks dangerous](http://9gag.com/gag/a5Q1Ozr)<!-- MEMES:END -->
+ - 💣 [Nature](http://9gag.com/gag/a6Z1PyA)
+ - ⏩ [This bald guy travels the world visiting countries](http://9gag.com/gag/aGyz446)
+ - 👉 [The way it crept down. Slow and sinister.](http://9gag.com/gag/aD2DydN)<!-- MEMES:END -->
 
 ---
 
