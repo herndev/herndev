@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Alex the intelligent one](http://9gag.com/gag/adBgDyN)
- - ⏩ [No audio but still satisfied](http://9gag.com/gag/aqyGMjp)
- - 👉 [China continues to rub Europes face in the grass.](http://9gag.com/gag/aAyG58d)<!-- MEMES:END -->
+ - 💣 [No audio but still satisfied](http://9gag.com/gag/aqyGMjp)
+ - ⏩ [Interesting](http://9gag.com/gag/a4P1yBy)
+ - 👉 [Camels can eat cactus but not lemons](http://9gag.com/gag/avyAqGd)<!-- MEMES:END -->
 
 ---
 
