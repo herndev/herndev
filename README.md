@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [You could spend the rest of your life watching amazing animated shorts on YouTube](https://www.polygon.com/yuletide-youtube/499736/youtube-best-animated-shorts)
- - [All Winterfest 2024 presents and gifts list in Fortnite](https://www.polygon.com/fortnite-guide/500816/winterfest-2024-gifts-presents-all-list-first)
- - [How to get the free Yulejacket and Santa Dogg skins in Fortnite Winterfest 2024](https://www.polygon.com/fortnite-guide/500842/free-skins-winterfest-2024-yulejacket-santa-dogg-how-to-get)<!-- GAME:END -->
+ - [The Batman sequel from Matt Reeves delayed a year, but we know more details about it](https://www.polygon.com/news/502680/batman-movie-sequel-matt-reeves-delayed-release-date)
+ - [Marvel&#39;s What If...? Finally Addresses The Watcher&#39;s Mistakes](https://kotaku.com/marvel-what-if-the-watcher-disney-1851729535)
+ - [Marvel Rivals: How To Earn Units To Buy New Costumes](https://kotaku.com/marvel-rivals-units-free-achievements-missions-costumes-1851729522)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
