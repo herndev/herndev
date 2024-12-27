@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Batman sequel from Matt Reeves delayed a year, but we know more details about it](https://www.polygon.com/news/502680/batman-movie-sequel-matt-reeves-delayed-release-date)
- - [Marvel&#39;s What If...? Finally Addresses The Watcher&#39;s Mistakes](https://kotaku.com/marvel-what-if-the-watcher-disney-1851729535)
- - [Marvel Rivals: How To Earn Units To Buy New Costumes](https://kotaku.com/marvel-rivals-units-free-achievements-missions-costumes-1851729522)<!-- GAME:END -->
+ - [Xbox Game Streaming Still Down After 24 Hours, Reminding Us That Your Phone Isn&#39;t Actually An Xbox](https://kotaku.com/xbox-cloud-outage-down-streaming-game-pass-ultimate-1851729610)
+ - [Indiana Jones and the Great Circle made me motion sick until I changed these settings](https://www.polygon.com/gaming/502730/indiana-jones-great-circle-motion-sick-settings-fix-head-bob)
+ - [The Batman sequel from Matt Reeves delayed a year, but we know more details about it](https://www.polygon.com/news/502680/batman-movie-sequel-matt-reeves-delayed-release-date)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
