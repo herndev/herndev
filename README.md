@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Nature](http://9gag.com/gag/a6Z1PyA)
- - ⏩ [This bald guy travels the world visiting countries](http://9gag.com/gag/aGyz446)
- - 👉 [The way it crept down. Slow and sinister.](http://9gag.com/gag/aD2DydN)<!-- MEMES:END -->
+ - 💣 [National lotteries be like](http://9gag.com/gag/aBynpdz)
+ - ⏩ [The way it crept down. Slow and sinister.](http://9gag.com/gag/aD2DydN)
+ - 👉 [I am a minority...](http://9gag.com/gag/aAyGzrL)<!-- MEMES:END -->
 
 ---
 
