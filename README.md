@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [OnePlus Open 2 leaked renders show us what to expect with the Galaxy Z Fold 7 competitor](https://www.androidauthority.com/oneplus-open-2-leaked-render-specs-3511506/)
  - [Older flagships or brand-new phones? This one is a no-brainer for you.](https://www.androidauthority.com/brand-new-phone-older-flagships-poll-results-3511498/)
- - [US open-air shopping center vacancies drop to historically low levels, defying forecasts of a retail apocalypse caused by e-commerce, which has ~16% of US sales &lpar;Gregory Meyer/Financial Times&rpar;](http://www.techmeme.com/241227/p1#a241227p1)
- - [Study finds high levels of toxic ‘forever chemicals’ in popular smartwatch bands](https://www.androidauthority.com/smartwatch-bands-forever-chemicals-3511494/)<!-- TECH:END -->
+ - [US open-air shopping center vacancies drop to historically low levels, defying forecasts of a retail apocalypse caused by e-commerce, which has ~16% of US sales &lpar;Gregory Meyer/Financial Times&rpar;](http://www.techmeme.com/241227/p1#a241227p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
