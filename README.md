@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Holiday time repost](http://9gag.com/gag/ae9gnym)
- - ⏩ [Haters gonna say it\u2019s fake.](http://9gag.com/gag/aQzX5qq)
- - 👉 [How to treat clinical depression](http://9gag.com/gag/a4P10Oy)<!-- MEMES:END -->
+ - 💣 [Nature](http://9gag.com/gag/a6Z1PyA)
+ - ⏩ [This bald guy travels the world visiting countries](http://9gag.com/gag/aGyz446)
+ - 👉 [Movies were pushin it back then. A little](http://9gag.com/gag/aBynAZA)<!-- MEMES:END -->
 
 ---
 
