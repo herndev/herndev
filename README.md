@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Popeye, Tintin enter the public domain in 2025](https://www.polygon.com/news/502293/2025-public-domain-list-tintin-popeye-mickey-mouse)
- - [The 46 best movies on Netflix right now](https://www.polygon.com/21266801/best-movies-on-netflix)
- - [Squid Game season 2 probes the true nature of man — and gets closer than you’d think](https://www.polygon.com/tv/501713/squid-game-season-2-review-front-man-gi-hun)<!-- GAME:END -->
+ - [The early access for Fields of Mistria was better than every other farm sim this year by a country mile thanks to its cast of hot anime-inspired sweethearts and great dialogue](https://www.pcgamer.com/games/life-sim/the-early-access-for-fields-of-mistria-was-better-than-every-other-farm-sim-this-year-by-a-country-mile-thanks-to-its-cast-of-hot-anime-inspired-sweethearts-and-great-dialogue/)
+ - [This year John Romero declared that &#39;gib&#39; is pronounced like &#39;giblet&#39; and it&#39;s the gif debate all over again](https://www.pcgamer.com/games/this-year-john-romero-declared-that-gib-is-pronounced-like-giblet-and-its-the-gif-debate-all-over-again/)
+ - [I&#39;m still reeling from the knowledge that the Windows 10 desktop background is a real photo and not CGI](https://www.pcgamer.com/gaming-industry/im-still-reeling-from-the-knowledge-that-the-windows-10-desktop-background-is-a-real-photo-and-not-cgi/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
