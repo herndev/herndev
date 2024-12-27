@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Hunker Down for the Winter With These Cozy Games on Xbox](https://news.xbox.com/en-us/2024/11/15/hunker-down-for-the-winter-with-these-cozy-games-on-xbox/#new_tab)
- - [The State Of The Nintendo Switch In 2024](https://kotaku.com/nintendo-switch-2-state-of-year-review-piracy-zelda-1851728988)
- - [Best RPG 2024: Metaphor: ReFantazio](https://www.pcgamer.com/games/rpg/best-rpg-2024-metaphor-refantazio/)<!-- GAME:END -->
+ - [How to easily run Windows 11 on Steam Deck](https://www.polygon.com/gaming/501039/steam-deck-how-to-install-windows-11-guide)
+ - [Jujutsu Infinite codes for December 2024](https://www.polygon.com/guides/502517/jujutsu-infinite-jjk-codes-list-redeem-spins)
+ - [Infinity Nikki&amp;#8217;s next season launches Monday](https://www.polygon.com/news/502537/infinity-nikki-shooting-star-season-release-date-time-outfits)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
