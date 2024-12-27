@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Video game executives say making cinematic games is getting so expensive and time-consuming that investing in graphics is providing diminished financial returns &lpar;Zachary Small/New York Times&rpar;](http://www.techmeme.com/241227/p2#a241227p2)
- - [There’s Still Time to Get Ahead of the Next Global Pandemic](https://www.wired.com/story/global-pandemic-public-health-lessons-preparedness/)
- - [OnePlus Open 2 leaked renders show us what to expect with the Galaxy Z Fold 7 competitor](https://www.androidauthority.com/oneplus-open-2-leaked-render-specs-3511506/)<!-- TECH:END -->
+ - [The Paper Passport Is Dying](https://www.wired.com/story/the-paper-passport-is-dying/)
+ - [Got a new phone? Here’s how to switch phones like a pro](https://www.androidauthority.com/how-to-switch-phones-901221/)
+ - [This Was the Year of the Influencer Political Takeover](https://www.wired.com/story/this-was-the-year-of-the-influencer-political-takeover/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
