@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Alan Wake 2 set such a high technical bar last year that few games in 2024 came anywhere near, but it wasn&#39;t all abject disappointment](https://www.pcgamer.com/hardware/alan-wake-2-set-such-a-high-technical-bar-last-year-that-few-games-in-2024-came-anywhere-near-but-it-wasnt-all-abject-disappointment/)
- - [The Batman 2 Delayed Again, Won&#39;t Arrive Until 2027](https://kotaku.com/the-batman-part-2-sequel-delayed-2026-2027-dc-reeves-1851729434)
- - [Hot Wheels Unleashed is free today on Epic Games Store and today only](https://www.polygon.com/gaming/502592/hot-wheels-unleashed-epic-games-store-free-download)<!-- GAME:END -->
+ - [You could spend the rest of your life watching amazing animated shorts on YouTube](https://www.polygon.com/yuletide-youtube/499736/youtube-best-animated-shorts)
+ - [All Winterfest 2024 presents and gifts list in Fortnite](https://www.polygon.com/fortnite-guide/500816/winterfest-2024-gifts-presents-all-list-first)
+ - [How to get the free Yulejacket and Santa Dogg skins in Fortnite Winterfest 2024](https://www.polygon.com/fortnite-guide/500842/free-skins-winterfest-2024-yulejacket-santa-dogg-how-to-get)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
