@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Your small secretary](http://9gag.com/gag/ayN9GpY)
- - ⏩ [Movies were pushin it back then. A little](http://9gag.com/gag/aBynAZA)
- - 👉 [No underwear](http://9gag.com/gag/aXPr6yP)<!-- MEMES:END -->
+ - 💣 [Holiday time repost](http://9gag.com/gag/ae9gnym)
+ - ⏩ [Haters gonna say it\u2019s fake.](http://9gag.com/gag/aQzX5qq)
+ - 👉 [How to treat clinical depression](http://9gag.com/gag/a4P10Oy)<!-- MEMES:END -->
 
 ---
 
