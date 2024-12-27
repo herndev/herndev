@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Squid Game season 2 probes the true nature of man — and gets closer than you’d think](https://www.polygon.com/tv/501713/squid-game-season-2-review-front-man-gi-hun)
- - [Homestar Runner is on YouTube now, so you should rewatch the absurdity of Teen Girl Squad](https://www.polygon.com/yuletide-youtube/498222/watch-teen-girl-squad-strong-bad-homestar-runner)
- - [Today&#39;s Wordle answer for Friday, December 27](https://www.pcgamer.com/games/puzzle/wordle-answer-today-December-27-2024/)<!-- GAME:END -->
+ - [Popeye, Tintin enter the public domain in 2025](https://www.polygon.com/news/502293/2025-public-domain-list-tintin-popeye-mickey-mouse)
+ - [The 46 best movies on Netflix right now](https://www.polygon.com/21266801/best-movies-on-netflix)
+ - [Squid Game season 2 probes the true nature of man — and gets closer than you’d think](https://www.polygon.com/tv/501713/squid-game-season-2-review-front-man-gi-hun)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
