@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to choose which Apple Watch to buy](https://www.theverge.com/23037217/best-apple-watch-series-se-ultra)
- - [The Batman 2 is delayed to 2027, but Mickey 17’s release date is moving up](https://www.theverge.com/2024/12/27/24330346/batman-part-ii-2027-delay-mickey-17-release-date)
- - [Experts say hackers compromised several companies&#39; Chrome browser extensions, including Cyberhaven&#39;s, in a series of intrusions dating back to mid-December &lpar;Reuters&rpar;](http://www.techmeme.com/241227/p11#a241227p11)<!-- TECH:END -->
+ - [Looking for a tablet deal? The Apple iPad 10th Generation is still on sale!](https://www.androidauthority.com/apple-ipad-10th-generation-deal-5-3511699/)
+ - [Galaxy S25 Ultra leak shows evidence of high-speed UFS 4.0 storage](https://www.androidauthority.com/galaxy-s25-ultra-leak-hardware-3511673/)
+ - [Bookkeeping startup Bench, which raised $100M+ including from Shopify, closes down effective immediately; several employees say Bench also laid off staff &lpar;Natasha Mascarenhas/The Information&rpar;](http://www.techmeme.com/241227/p13#a241227p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
