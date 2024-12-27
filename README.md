@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [OnePlus Open 2 leaked renders show us what to expect with the Galaxy Z Fold 7 competitor](https://www.androidauthority.com/oneplus-open-2-leaked-render-specs-3511506/)
- - [Older flagships or brand-new phones? This one is a no-brainer for you.](https://www.androidauthority.com/brand-new-phone-older-flagships-poll-results-3511498/)
- - [US open-air shopping center vacancies drop to historically low levels, defying forecasts of a retail apocalypse caused by e-commerce, which has ~16% of US sales &lpar;Gregory Meyer/Financial Times&rpar;](http://www.techmeme.com/241227/p1#a241227p1)<!-- TECH:END -->
+ - [Video game executives say making cinematic games is getting so expensive and time-consuming that investing in graphics is providing diminished financial returns &lpar;Zachary Small/New York Times&rpar;](http://www.techmeme.com/241227/p2#a241227p2)
+ - [There’s Still Time to Get Ahead of the Next Global Pandemic](https://www.wired.com/story/global-pandemic-public-health-lessons-preparedness/)
+ - [OnePlus Open 2 leaked renders show us what to expect with the Galaxy Z Fold 7 competitor](https://www.androidauthority.com/oneplus-open-2-leaked-render-specs-3511506/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
