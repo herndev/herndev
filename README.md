@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Movies were pushin it back then. A little](http://9gag.com/gag/aBynAZA)
- - ⏩ [Indian military parade](http://9gag.com/gag/aRBrbZG)
- - 👉 [So, where was I\u2026oh yea!](http://9gag.com/gag/a341X8e)<!-- MEMES:END -->
+ - 💣 [Your small secretary](http://9gag.com/gag/ayN9GpY)
+ - ⏩ [Movies were pushin it back then. A little](http://9gag.com/gag/aBynAZA)
+ - 👉 [No underwear](http://9gag.com/gag/aXPr6yP)<!-- MEMES:END -->
 
 ---
 
