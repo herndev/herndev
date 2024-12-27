@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Camels can eat cactus but not lemons](http://9gag.com/gag/avyAqGd)
- - ⏩ [In Brazil, a 533-meter bridge collapsed just as a man was reporting on the poor condition of the bridge.](http://9gag.com/gag/a1m13q6)
+ - 💣 [Core memory](http://9gag.com/gag/avyAj15)
+ - ⏩ [She moves like a silkworm](http://9gag.com/gag/a2v1p0Y)
  - 👉 [So, where was I\u2026oh yea!](http://9gag.com/gag/a341X8e)<!-- MEMES:END -->
 
 ---
