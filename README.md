@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Patriarchy debunked](http://9gag.com/gag/awyz2MQ)
- - ⏩ [Best Reverse Uno Card](http://9gag.com/gag/apRg7XW)
- - 👉 [Indian military parade](http://9gag.com/gag/aRBrbZG)<!-- MEMES:END -->
+ - 💣 [Movies were pushin it back then. A little](http://9gag.com/gag/aBynAZA)
+ - ⏩ [Indian military parade](http://9gag.com/gag/aRBrbZG)
+ - 👉 [So, where was I\u2026oh yea!](http://9gag.com/gag/a341X8e)<!-- MEMES:END -->
 
 ---
 
