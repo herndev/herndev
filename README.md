@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Check out these deals on awesome power stations from Anker, Jackery, and DJI](https://www.androidauthority.com/anker-jackery-dji-power-station-deals-3511455/)
  - [Deal: Turn any old electronics smart with this Kasa Smart Plug Power Strip](https://www.androidauthority.com/kasa-smart-plug-power-strip-kp303-deal-3511456/)
- - [Google’s latest Easter egg invites you to try your luck at Squid Game’s Red Light, Green Light game](https://www.androidauthority.com/squid-game-easter-egg-3511472/)
- - [Here’s how many people tuned into Netflix’s Christmas Day NFL games](https://www.theverge.com/2024/12/26/24329685/netflix-nfl-christmas-day-games-streaming-numbers)<!-- TECH:END -->
+ - [Google’s latest Easter egg invites you to try your luck at Squid Game’s Red Light, Green Light game](https://www.androidauthority.com/squid-game-easter-egg-3511472/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
