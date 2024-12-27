@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Poor Maryjane\u2026](http://9gag.com/gag/aYQr36V)
- - ⏩ [`Man! now we have to work again?`](http://9gag.com/gag/aoygXPA)
- - 👉 [Nice](http://9gag.com/gag/aBynp8D)<!-- MEMES:END -->
+ - 💣 [Winks from Macy](http://9gag.com/gag/a4P1vMZ)
+ - ⏩ [Bro set the bar real high](http://9gag.com/gag/avyAKYE)
+ - 👉 [That looks dangerous](http://9gag.com/gag/a5Q1Ozr)<!-- MEMES:END -->
 
 ---
 
