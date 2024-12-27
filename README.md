@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Nature](http://9gag.com/gag/a6Z1PyA)
- - ⏩ [This bald guy travels the world visiting countries](http://9gag.com/gag/aGyz446)
- - 👉 [Movies were pushin it back then. A little](http://9gag.com/gag/aBynAZA)<!-- MEMES:END -->
+ - 💣 [Do you believe in coincidences?](http://9gag.com/gag/ayN9j0X)
+ - ⏩ [No underwear](http://9gag.com/gag/aXPr6yP)
+ - 👉 [It&#39;s never the skin color](http://9gag.com/gag/aNDPNob)<!-- MEMES:END -->
 
 ---
 
