@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Don&#39;t stress, Epic Games says you can still unlock Fortnite&#39;s Xbox-exclusive Master Chief skin](https://www.pcgamer.com/games/battle-royale/dont-stress-epic-games-says-you-can-still-unlock-fortnites-xbox-exclusive-master-chief-skin/)
  - [Xbox Game Streaming Still Down After 24 Hours, Reminding Us That Your Phone Isn&#39;t Actually An Xbox](https://kotaku.com/xbox-cloud-outage-down-streaming-game-pass-ultimate-1851729610)
- - [Indiana Jones and the Great Circle made me motion sick until I changed these settings](https://www.polygon.com/gaming/502730/indiana-jones-great-circle-motion-sick-settings-fix-head-bob)
- - [The Batman sequel from Matt Reeves delayed a year, but we know more details about it](https://www.polygon.com/news/502680/batman-movie-sequel-matt-reeves-delayed-release-date)<!-- GAME:END -->
+ - [Indiana Jones and the Great Circle made me motion sick until I changed these settings](https://www.polygon.com/gaming/502730/indiana-jones-great-circle-motion-sick-settings-fix-head-bob)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
