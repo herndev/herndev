@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Captain, experts .. is this true? Or just comedy?](http://9gag.com/gag/aVvxA28)
- - ⏩ [I wish my uncle only lasted 4 minutes](http://9gag.com/gag/a4P1DEd)
- - 👉 [The guy is cooked](http://9gag.com/gag/aD2DEAx)<!-- MEMES:END -->
+ - 💣 [Heels and glasses](http://9gag.com/gag/a6Z10Dq)
+ - ⏩ [Movies were pushin it back then. A little](http://9gag.com/gag/aBynAZA)
+ - 👉 [If you look at the water, it will look back at you](http://9gag.com/gag/avyAN0O)<!-- MEMES:END -->
 
 ---
 
