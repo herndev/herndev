@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [This Excellent Anker USB-C Nano Charger Is Just $30, but Not for Long](https://www.cnet.com/deals/this-excellent-anker-usb-c-nano-charger-is-just-30-but-not-for-long/#ftag=CAD590a51e)
- - [Kyivstar, Ukraine&#39;s largest mobile operator, signs a deal with Starlink to roll out text messaging in Q4 2025, and plans to add voice and data in later stages &lpar;Cagan Koc/Bloomberg&rpar;](http://www.techmeme.com/241230/p15#a241230p15)
- - [Apple&#39;s video doorbell plans &amp; 2024 smart home wrapped on HomeKit Insider](https://appleinsider.com/articles/24/12/30/apples-video-doorbell-plans-2024-smart-home-wrapped-on-homekit-insider?utm_medium=rss)<!-- TECH:END -->
+ - [Apple could bring its ‘Pro’ OLED displays to the entire iPhone 17 line](https://www.theverge.com/2024/12/30/24332070/iphone-17-rumor-oled-promotion-120hz-display)
+ - [The Galaxy S25 series could come with free Gemini Advanced &lpar;APK teardown&rpar;](https://www.androidauthority.com/samsung-galaxy-s25-series-free-gemini-advanced-3511917/)
+ - [I don’t own a single smart home device — am I a dinosaur?](https://www.androidauthority.com/skipping-smart-home-revolution-3509798/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
