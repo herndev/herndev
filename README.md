@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Rule the talking movie industry in tycoon game Hollywood Animal](https://www.pcgamer.com/games/sim/rule-the-talking-movie-industry-in-tycoon-game-hollywood-animal/)
  - [Your Friendly Neighborhood Spider-Man’s first trailer is a blast from an alternate past](https://www.polygon.com/trailer/24216277/your-friendly-neighborhood-spider-man-trailer-premiere-date)
- - [Here&#39;s 20 delightfully isometric minutes of Underrail 2&#39;s apocalyptic undergrounds](https://www.pcgamer.com/games/rpg/heres-20-delightfully-isometric-minutes-of-underrail-2s-apocalyptic-undergrounds/)
- - [PC Gamer&#39;s highest rated hardware favourites of 2024, plus five dishonorable mentions](https://www.pcgamer.com/hardware/pc-gamers-highest-rated-hardware-favourites-of-2024-plus-five-dishonorable-mentions/)<!-- GAME:END -->
+ - [Here&#39;s 20 delightfully isometric minutes of Underrail 2&#39;s apocalyptic undergrounds](https://www.pcgamer.com/games/rpg/heres-20-delightfully-isometric-minutes-of-underrail-2s-apocalyptic-undergrounds/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
