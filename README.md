@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How we Work: Wes Hilliard&#39;s Apple Vision Pro &amp; iPad Pro-centric workflows](https://appleinsider.com/articles/24/12/30/how-we-work-wes-hilliards-apple-vision-pro-ipad-pro-centric-workflows?utm_medium=rss)
- - [Android 15’s Pixel notification dismissal sync may be about to lose this limitation &lpar;APK teardown&rpar;](https://www.androidauthority.com/pixel-notification-dismissal-sync-3511975/)
- - [The technology of passkeys is elegant, but the complexities of syncing them to password managers can contribute to platform lock-in and make them less usable &lpar;Dan Goodin/Ars Technica&rpar;](http://www.techmeme.com/241230/p21#a241230p21)<!-- TECH:END -->
+ - [VW Group had sensitive info, including GPS coordinates, of 800K+ electric vehicles exposed on an unprotected AWS database for months before it was alerted &lpar;Thanos Pappas/Carscoops&rpar;](http://www.techmeme.com/241230/p22#a241230p22)
+ - [AT&amp;T and Verizon Declare Their Networks Secure Amid Salt Typhoon Cyberattack](https://www.cnet.com/tech/services-and-software/at-t-and-verizon-declare-their-networks-secure-amid-salt-typhoon-cyberattack/#ftag=CAD590a51e)
+ - [How we Work: Wes Hilliard&#39;s Apple Vision Pro &amp; iPad Pro-centric workflows](https://appleinsider.com/articles/24/12/30/how-we-work-wes-hilliards-apple-vision-pro-ipad-pro-centric-workflows?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
