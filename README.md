@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [All we needed is to tax the rich the way we did it](http://9gag.com/gag/abAgjQr)
- - ⏩ [Which one is up to you.](http://9gag.com/gag/agmo3AK)
- - 👉 [I love lamp](http://9gag.com/gag/aoyKZZ3)<!-- MEMES:END -->
+ - 💣 [I removed the emojis](http://9gag.com/gag/a87qWP1)
+ - ⏩ [It&#39;s THAT time of the year. Good luck!](http://9gag.com/gag/aAy0RXg)
+ - 👉 [Which one is up to you.](http://9gag.com/gag/agmo3AK)<!-- MEMES:END -->
 
 ---
 
