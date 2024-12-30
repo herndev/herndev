@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [You can\u2019t park there mate](http://9gag.com/gag/a87qb1e)
- - ⏩ [Imagine showing this to someone from the middle ages](http://9gag.com/gag/a34Zd5N)
- - 👉 [This barbershop has been operating in Japan for over 90 years with the highest levels of service.](http://9gag.com/gag/a87qbx3)<!-- MEMES:END -->
+ - 💣 [I love lamp](http://9gag.com/gag/aoyKZZ3)
+ - ⏩ [The ball was paid actor](http://9gag.com/gag/aRBEgxM)
+ - 👉 [She saved John Wick](http://9gag.com/gag/adBP6dN)<!-- MEMES:END -->
 
 ---
 
