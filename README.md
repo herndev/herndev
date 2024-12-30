@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Jason Momoa Confirms His Return To The DCU Will Be In Next Supergirl Film](https://kotaku.com/jason-momoa-lobo-supergirl-superman-news-1851730213)
- - [YuleTide YouTube: A celebration of fun on the internet](https://www.polygon.com/youtube/481347/best-youtube-videos-channels-watch)
- - [Every PlayStation title for the PC is on sale at Fanatical](https://www.polygon.com/sales-guide/503068/playstation-port-pc-fanatical-deal)<!-- GAME:END -->
+ - [Jason Momoa to play Lobo in Supergirl movie](https://www.polygon.com/movies/503103/jason-momoa-lobo-supergirl-cast)
+ - [Steam&#39;s Surprise End-Of-Year Hit Is A Psychological Horror Game About An Anime Girlfriend](https://kotaku.com/miside-steam-reviews-mita-markiplier-anime-horror-1851730367)
+ - [Jason Momoa Confirms His Return To The DCU Will Be In Next Supergirl Film](https://kotaku.com/jason-momoa-lobo-supergirl-superman-news-1851730213)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
