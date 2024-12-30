@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [New Taliban rule: Women are no longer allowed to be visible from house windows under any circumstance. If the kitchen has a window, women can&#39;t even cook near it. This comes after other rulings that women are forbidden from making sounds or even speaking to each other.](http://9gag.com/gag/aD2Y0qx)
- - ⏩ [Family bonds](http://9gag.com/gag/aW4GQZK)
- - 👉 [A 1995 casting photo of Salma Hayek](http://9gag.com/gag/aPAg6rQ)<!-- MEMES:END -->
+ - 💣 [Betrayal](http://9gag.com/gag/aQzE63z)
+ - ⏩ [Amazingly accurate](http://9gag.com/gag/apR9E49)
+ - 👉 [I love lamp](http://9gag.com/gag/aoyKZZ3)<!-- MEMES:END -->
 
 ---
 
