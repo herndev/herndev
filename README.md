@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Here&#39;s a quirky little space sim crossed with traditional roguelike](https://www.pcgamer.com/games/roguelike/heres-a-quirky-little-space-sim-crossed-with-traditional-roguelike/)
  - [Jason Momoa to play Lobo in Supergirl movie](https://www.polygon.com/movies/503103/jason-momoa-lobo-supergirl-cast)
- - [Steam&#39;s Surprise End-Of-Year Hit Is A Psychological Horror Game About An Anime Girlfriend](https://kotaku.com/miside-steam-reviews-mita-markiplier-anime-horror-1851730367)
- - [Jason Momoa Confirms His Return To The DCU Will Be In Next Supergirl Film](https://kotaku.com/jason-momoa-lobo-supergirl-superman-news-1851730213)<!-- GAME:END -->
+ - [Steam&#39;s Surprise End-Of-Year Hit Is A Psychological Horror Game About An Anime Girlfriend](https://kotaku.com/miside-steam-reviews-mita-markiplier-anime-horror-1851730367)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
