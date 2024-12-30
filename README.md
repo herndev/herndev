@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Forget Yule logs, you want 12 hours of lo-fi shrimp to relax to](https://www.polygon.com/yuletide-youtube/498488/chill-aquarium-streams-monterey-bay)
- - [Today&#39;s Wordle answer for Monday, December 30](https://www.pcgamer.com/games/puzzle/wordle-answer-today-december-30-2024/)
- - [Rule the talking movie industry in tycoon game Hollywood Animal](https://www.pcgamer.com/games/sim/rule-the-talking-movie-industry-in-tycoon-game-hollywood-animal/)<!-- GAME:END -->
+ - [What time does Genshin Impact 5.3 release?](https://www.polygon.com/genshin-impact-guides/499073/version-5-3-release-times-maintenance-end-est-pst-bst)
+ - [Every Official &#39;Kotaku Review&#39; Of 2024](https://kotaku.com/every-game-movie-and-tv-show-we-reviewed-in-2024-1851729191)
+ - [Forget Yule logs, you want 12 hours of lo-fi shrimp to relax to](https://www.polygon.com/yuletide-youtube/498488/chill-aquarium-streams-monterey-bay)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
