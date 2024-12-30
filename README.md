@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [2024 was a big year for Windows on ARM, and fierce competition between Intel, AMD, and Qualcomm promises to make 2025 an exciting year for Windows laptops &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/241230/p8#a241230p8)
- - [Amazon&#39;s year-end Apple Watch sale drops Series 10 to $329](https://appleinsider.com/articles/24/12/29/amazons-year-end-apple-watch-sale-drops-series-10-to-329?utm_medium=rss)
- - [To Fight AI Search Spam, Prioritize Real Human Voices](https://www.wired.com/story/optimize-for-authentic-voices-in-a-sea-of-ai-search-spam/)<!-- TECH:END -->
+ - [The Galaxy S25 series could help save your life in a car crash](https://www.androidauthority.com/samsung-galaxy-s25-car-crash-detection-sensor-3511840/)
+ - [DJI now makes a very powerful car charger for its big ass batteries](https://www.theverge.com/2024/12/30/24332004/dji-1000w-alternator-charger-specs-price)
+ - [2024 was a big year for Windows on ARM, and fierce competition between Intel, AMD, and Qualcomm promises to make 2025 an exciting year for Windows laptops &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/241230/p8#a241230p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
