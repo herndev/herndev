@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [VW Group had sensitive info, including GPS coordinates, of 800K+ electric vehicles exposed on an unprotected AWS database for months before it was alerted &lpar;Thanos Pappas/Carscoops&rpar;](http://www.techmeme.com/241230/p22#a241230p22)
- - [AT&amp;T and Verizon Declare Their Networks Secure Amid Salt Typhoon Cyberattack](https://www.cnet.com/tech/services-and-software/at-t-and-verizon-declare-their-networks-secure-amid-salt-typhoon-cyberattack/#ftag=CAD590a51e)
- - [How we Work: Wes Hilliard&#39;s Apple Vision Pro &amp; iPad Pro-centric workflows](https://appleinsider.com/articles/24/12/30/how-we-work-wes-hilliards-apple-vision-pro-ipad-pro-centric-workflows?utm_medium=rss)<!-- TECH:END -->
+ - [Apple rumored to be keeping the iPhone SE 4 price down](https://appleinsider.com/articles/24/12/30/apple-rumored-to-be-keeping-the-iphone-se-4-price-down?utm_medium=rss)
+ - [Here’s how the Now Bar in One UI 7 could let you interact with Gemini Live &lpar;APK teardown&rpar;](https://www.androidauthority.com/gemini-live-now-bar-3512014/)
+ - [How New York state is defying Donald Trump’s plans to roll back climate action](https://www.theverge.com/2024/12/30/24332241/climate-change-superfund-act-new-york-state-trump)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
