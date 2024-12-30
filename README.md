@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [New Taliban rule: Women are no longer allowed to be visible from house windows under any circumstance. If the kitchen has a window, women can&#39;t even cook near it. This comes after other rulings that women are forbidden from making sounds or even speaking to each other.](http://9gag.com/gag/aD2Y0qx)
- - ⏩ [She saved John Wick](http://9gag.com/gag/adBP6dN)
- - 👉 [What did he do?](http://9gag.com/gag/aVvbOpO)<!-- MEMES:END -->
+ - 💣 [You can\u2019t park there mate](http://9gag.com/gag/a87qb1e)
+ - ⏩ [Imagine showing this to someone from the middle ages](http://9gag.com/gag/a34Zd5N)
+ - 👉 [This barbershop has been operating in Japan for over 90 years with the highest levels of service.](http://9gag.com/gag/a87qbx3)<!-- MEMES:END -->
 
 ---
 
