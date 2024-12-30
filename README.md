@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Galaxy S25 series could help save your life in a car crash](https://www.androidauthority.com/samsung-galaxy-s25-car-crash-detection-sensor-3511840/)
- - [DJI now makes a very powerful car charger for its big ass batteries](https://www.theverge.com/2024/12/30/24332004/dji-1000w-alternator-charger-specs-price)
- - [2024 was a big year for Windows on ARM, and fierce competition between Intel, AMD, and Qualcomm promises to make 2025 an exciting year for Windows laptops &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/241230/p8#a241230p8)<!-- TECH:END -->
+ - [Elon Musk&#39;s new political influence may make it harder for regulators and politicians worldwide to resist Space X&#39;s Starlink, which added 20+ nations in 2024 &lpar;Bloomberg&rpar;](http://www.techmeme.com/241230/p10#a241230p10)
+ - [The Most Dangerous People on the Internet in 2024](https://www.wired.com/story/the-most-dangerous-people-on-the-internet-in-2024/)
+ - [Wish you could play PS1 games on a GBA SP? Well, now you can &lpar;sort of&rpar;.](https://www.androidauthority.com/miyoo-flip-launch-3511845/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
