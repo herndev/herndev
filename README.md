@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How to Build an Xbox Controller With Xbox Design Lab](https://news.xbox.com/en-us/2024/11/15/xbox-design-lab-how-to-build-controller/#new_tab)
- - [How Haminations, BrodyAnimates, and illymation made careers doodling on YouTube](https://www.polygon.com/youtube/488990/haminations-brodyanimates-illymation-animation-career-youtube)
- - [YuleTide YouTube: A celebration of fun on the internet](https://www.polygon.com/youtube/481347/best-youtube-videos-channels-watch)<!-- GAME:END -->
+ - [Gyarados just barely supplants Pikachu as king of Pokémon TCG Pocket](https://www.polygon.com/news/502902/pokemon-tcg-pocket-gyarados-ex-meta)
+ - [Champion Magnus Carlsen Rocked The Chess World By Refusing To Take Off His Jeans](https://kotaku.com/magnus-carlsen-jeans-chess-blitz-championship-fide-1851730179)
+ - [Here’s what Buddy the Elf looks like today](https://www.polygon.com/movies/502900/will-ferrell-elf-2-hockey-costume)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
