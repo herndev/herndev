@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Some conservative critics of Elon Musk allege censorship and claim they were stripped of their X verification badges after challenging his views on H-1B visas &lpar;Angrej Singh/Axios&rpar;](http://www.techmeme.com/241227/p17#a241227p17)
- - [Trump asks the Supreme Court to let him rescue TikTok](https://www.theverge.com/2024/12/27/24330513/trump-asks-the-supreme-court-to-let-him-rescue-tiktok)
- - [Your invitation to test T-Mobile satellite messaging may be on its way right now](https://www.androidauthority.com/t-mobile-starlink-invites-3511724/)<!-- TECH:END -->
+ - [More of the DJI Flip folding drone appears in new leaked images](https://www.theverge.com/2024/12/29/24331693/dji-flip-folding-drone-leaked-photos-specs-fpv-cellular-dongle-2)
+ - [Best Portable Grills of 2024, Tested and Reviewed](https://www.cnet.com/home/yard-and-outdoors/best-portable-grill/#ftag=CAD590a51e)
+ - [Best Internet Providers in Utica, New York](https://www.cnet.com/home/internet/best-internet-providers-in-utica-ny/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
