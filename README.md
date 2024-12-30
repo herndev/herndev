@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Dad reaction after seeing his christmass gift](http://9gag.com/gag/amogDY4)
- - ⏩ [New Taliban rule: Women are no longer allowed to be visible from house windows under any circumstance. If the kitchen has a window, women can&#39;t even cook near it. This comes after other rulings that women are forbidden from making sounds or even speaking to each other.](http://9gag.com/gag/aD2Y0qx)
- - 👉 [Tragic - history repeats itself. I can&#39;t stop laughing](http://9gag.com/gag/aBydR92)<!-- MEMES:END -->
+ - 💣 [Never loose opportunity](http://9gag.com/gag/a5QXp6N)
+ - ⏩ [Thought you&#39;d wanna know.](http://9gag.com/gag/arympZd)
+ - 👉 [Robert Downey Jr visiting Wall Street in 1992](http://9gag.com/gag/ae9gX5Q)<!-- MEMES:END -->
 
 ---
 
