@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Which one is up to you.](http://9gag.com/gag/agmo3AK)
- - ⏩ [That&#39;s the best movie I&#39;m ever going to be in](http://9gag.com/gag/aAy0Vo9)
- - 👉 [He is carrying her home like a bowling ball](http://9gag.com/gag/aByd3PA)<!-- MEMES:END -->
+ - 💣 [GenieDislikesCloud](http://9gag.com/gag/aO8xKN2)
+ - ⏩ [You can\u2019t park there mate](http://9gag.com/gag/a87qb1e)
+ - 👉 [New Taliban rule: Women are no longer allowed to be visible from house windows under any circumstance. If the kitchen has a window, women can&#39;t even cook near it. This comes after other rulings that women are forbidden from making sounds or even speaking to each other.](http://9gag.com/gag/aD2Y0qx)<!-- MEMES:END -->
 
 ---
 
