@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Thought you&#39;d wanna know.](http://9gag.com/gag/arympZd)
- - ⏩ [Gone but not forgotten](http://9gag.com/gag/aKGEw9O)
- - 👉 [GenieDislikesCloud](http://9gag.com/gag/aO8xKN2)<!-- MEMES:END -->
+ - 💣 [Amazingly accurate](http://9gag.com/gag/apR9E49)
+ - ⏩ [Depression sucks- it made me forget for years how fulfilling making wood bowls is for me\u2026 until last night.](http://9gag.com/gag/a9yqd6j)
+ - 👉 [Betrayal](http://9gag.com/gag/aQzE63z)<!-- MEMES:END -->
 
 ---
 
