@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Fans Want Sonic To Be An Absolute Simp In The Fourth Movie](https://kotaku.com/sonic-3-post-credits-amy-reverse-sonamy-relationship-1851730058)
- - [Pokémon Go ‘New Year’s 2025’ event guide](https://www.polygon.com/pokemon-go-guide/498462/new-years-2025-event-timed-research-wurmple)
- - [How classic board game Clue changed over its more than 75-year history](https://www.polygon.com/board-games/501555/clue-board-game-history-hasbro)<!-- GAME:END -->
+ - [How to Build an Xbox Controller With Xbox Design Lab](https://news.xbox.com/en-us/2024/11/15/xbox-design-lab-how-to-build-controller/#new_tab)
+ - [How Haminations, BrodyAnimates, and illymation made careers doodling on YouTube](https://www.polygon.com/youtube/488990/haminations-brodyanimates-illymation-animation-career-youtube)
+ - [YuleTide YouTube: A celebration of fun on the internet](https://www.polygon.com/youtube/481347/best-youtube-videos-channels-watch)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
