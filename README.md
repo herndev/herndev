@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Steam Deck has finally been surpassed — by a fork of Valve’s own experience](https://www.theverge.com/2024/12/30/24329005/bazzite-asus-rog-ally-x-steam-os-editorial)
- - [Ibiden CEO Koji Kawashima says the 112-year-old company, a dominant supplier of chip package substrates to Nvidia, may need to boost capacity due to AI demand &lpar;Bloomberg&rpar;](http://www.techmeme.com/241230/p12#a241230p12)
- - [WIRED’s 2024 Year-in-Review Quiz: From AI Slop to Human Brain Implants](https://www.wired.com/story/2024-year-in-review-quiz/)<!-- TECH:END -->
+ - [The best PS5 games in 2024](https://www.theverge.com/24322806/ps5-best-games-2024-playstation-sony)
+ - [Access 1,000s of Documentaries With This Reduced Lifetime Subscription to Curiosity Stream](https://www.cnet.com/deals/access-1000s-of-documentaries-with-a-reduced-curiosity-stream-lifetime-subscription-and-discover-more-in-2025/#ftag=CAD590a51e)
+ - [The iPhone 17 could finally catch up to Android with a high refresh rate display](https://www.androidauthority.com/apple-iphone-17-high-refresh-rate-display-3511880/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
