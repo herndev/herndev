@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Gyarados just barely supplants Pikachu as king of Pokémon TCG Pocket](https://www.polygon.com/news/502902/pokemon-tcg-pocket-gyarados-ex-meta)
- - [Champion Magnus Carlsen Rocked The Chess World By Refusing To Take Off His Jeans](https://kotaku.com/magnus-carlsen-jeans-chess-blitz-championship-fide-1851730179)
- - [Here’s what Buddy the Elf looks like today](https://www.polygon.com/movies/502900/will-ferrell-elf-2-hockey-costume)<!-- GAME:END -->
+ - [Discoveries](https://www.polygon.com/gaming/24215620/new-things-to-play-watch-and-experience)
+ - [Nosferatu draws big box-office blood in a year when horror prevailed](https://www.polygon.com/horror/503002/nosferatu-box-office-horror-2024)
+ - [Expanding your Xbox storage has never been more affordable](https://www.polygon.com/good-deals/502910/xbox-wd-black-expansion-card-sale)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
