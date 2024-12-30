@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [What time does Genshin Impact 5.3 release?](https://www.polygon.com/genshin-impact-guides/499073/version-5-3-release-times-maintenance-end-est-pst-bst)
- - [Every Official &#39;Kotaku Review&#39; Of 2024](https://kotaku.com/every-game-movie-and-tv-show-we-reviewed-in-2024-1851729191)
- - [Forget Yule logs, you want 12 hours of lo-fi shrimp to relax to](https://www.polygon.com/yuletide-youtube/498488/chill-aquarium-streams-monterey-bay)<!-- GAME:END -->
+ - [Your Friendly Neighborhood Spider-Man’s Alternate Marvel Timeline Turns Heads In Flashy First Trailer](https://kotaku.com/spiderman-disney-animated-cartoon-trailer-date-suit-1851730014)
+ - [Marvel’s What If…? was nothing more than a slew of missed opportunities](https://www.polygon.com/tv/501626/marvel-what-if-season-3-review)
+ - [What time does Genshin Impact 5.3 release?](https://www.polygon.com/genshin-impact-guides/499073/version-5-3-release-times-maintenance-end-est-pst-bst)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
