@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Law enforcement officials worldwide say Chinese mafia boss Wan Kuok-koi, aka Broken Tooth, has played a central role in the emergence of pig butchering scams &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/241230/p2#a241230p2)
- - [AT&amp;T, Verizon help calm our nerves following widespread hack](https://www.androidauthority.com/att-verizon-salt-typhoon-hack-response-3511816/)
- - [As Tether says it is on track for a record $10B net profit in 2024, banks around the world are exploring launching their own stablecoins for payments &lpar;Bloomberg&rpar;](http://www.techmeme.com/241230/p1#a241230p1)<!-- TECH:END -->
+ - [Philippine investigators say Alice Guo, ex-mayor of the Bamban town, owned the land on which a pig butchering scam center was built, housing ~3,000 scammers &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/241230/p6#a241230p6)
+ - [Bend it like LG: The world’s first 5K2K bendable monitor brings all the pixels](https://www.androidauthority.com/lg-5k2k-bendable-monitor-3511823/)
+ - [Reddit must continue growing its ad and content licensing revenue to justify its market valuation, which could fast-track the platform&#39;s &quot;enshittification&quot; &lpar;Farhad Manjoo/Slate&rpar;](http://www.techmeme.com/241230/p5#a241230p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
