@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Never loose opportunity](http://9gag.com/gag/a5QXp6N)
- - ⏩ [Thought you&#39;d wanna know.](http://9gag.com/gag/arympZd)
- - 👉 [Robert Downey Jr visiting Wall Street in 1992](http://9gag.com/gag/ae9gX5Q)<!-- MEMES:END -->
+ - 💣 [Do you like Korean girls?](http://9gag.com/gag/aVvbz0y)
+ - ⏩ [A 1995 casting photo of Salma Hayek](http://9gag.com/gag/aPAg6rQ)
+ - 👉 [What did he do?](http://9gag.com/gag/aVvbOpO)<!-- MEMES:END -->
 
 ---
 
