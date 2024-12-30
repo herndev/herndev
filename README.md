@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [As Tether says it is on track for a record $10B net profit in 2024, banks around the world are exploring launching their own stablecoins for payments &lpar;Bloomberg&rpar;](http://www.techmeme.com/241230/p1#a241230p1)
- - [Meta promises fix for software update that bricked Quest 2, 3, and 3S headsets](https://www.androidauthority.com/meta-quest-bricked-fix-3511813/)
- - [Sources detail IDF&#39;s Unit 8200, tasked with identifying human targets as candidates for elimination during the war in Gaza; one describes it as an &quot;AI factory&quot; &lpar;Elizabeth Dwoskin/Washington Post&rpar;](http://www.techmeme.com/241229/p8#a241229p8)<!-- TECH:END -->
+ - [Law enforcement officials worldwide say Chinese mafia boss Wan Kuok-koi, aka Broken Tooth, has played a central role in the emergence of pig butchering scams &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/241230/p2#a241230p2)
+ - [AT&amp;T, Verizon help calm our nerves following widespread hack](https://www.androidauthority.com/att-verizon-salt-typhoon-hack-response-3511816/)
+ - [As Tether says it is on track for a record $10B net profit in 2024, banks around the world are exploring launching their own stablecoins for payments &lpar;Bloomberg&rpar;](http://www.techmeme.com/241230/p1#a241230p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
