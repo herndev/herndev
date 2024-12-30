@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best robot vacuums](https://www.theverge.com/22997597/best-robot-vacuum-cleaner)
- - [B&amp;H has dropped Apple&#39;s M3 Pro MacBook Pro to $1,599 for 1 more day](https://appleinsider.com/articles/24/12/30/bh-has-dropped-apples-m3-pro-macbook-pro-to-1599-for-1-more-day?utm_medium=rss)
- - [Volkswagen leak exposed location data for 800,000 electric cars](https://www.theverge.com/2024/12/30/24332181/volkswagen-data-leak-exposed-location-evs)<!-- TECH:END -->
+ - [How we Work: Wes Hilliard&#39;s Apple Vision Pro &amp; iPad Pro-centric workflows](https://appleinsider.com/articles/24/12/30/how-we-work-wes-hilliards-apple-vision-pro-ipad-pro-centric-workflows?utm_medium=rss)
+ - [Android 15’s Pixel notification dismissal sync may be about to lose this limitation &lpar;APK teardown&rpar;](https://www.androidauthority.com/pixel-notification-dismissal-sync-3511975/)
+ - [The technology of passkeys is elegant, but the complexities of syncing them to password managers can contribute to platform lock-in and make them less usable &lpar;Dan Goodin/Ars Technica&rpar;](http://www.techmeme.com/241230/p21#a241230p21)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
