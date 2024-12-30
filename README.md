@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Women will tell on themselves when you allow them to speak](http://9gag.com/gag/a1mPZev)
- - ⏩ [Which one is up to you.](http://9gag.com/gag/agmo3AK)
- - 👉 [Its her personality](http://9gag.com/gag/abAgjDb)<!-- MEMES:END -->
+ - 💣 [Dad reaction after seeing his christmass gift](http://9gag.com/gag/amogDY4)
+ - ⏩ [New Taliban rule: Women are no longer allowed to be visible from house windows under any circumstance. If the kitchen has a window, women can&#39;t even cook near it. This comes after other rulings that women are forbidden from making sounds or even speaking to each other.](http://9gag.com/gag/aD2Y0qx)
+ - 👉 [Tragic - history repeats itself. I can&#39;t stop laughing](http://9gag.com/gag/aBydR92)<!-- MEMES:END -->
 
 ---
 
