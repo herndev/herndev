@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Heels and glasses](http://9gag.com/gag/a6Z10Dq)
- - ⏩ [Movies were pushin it back then. A little](http://9gag.com/gag/aBynAZA)
- - 👉 [If you look at the water, it will look back at you](http://9gag.com/gag/avyAN0O)<!-- MEMES:END -->
+ - 💣 [All we needed is to tax the rich the way we did it](http://9gag.com/gag/abAgjQr)
+ - ⏩ [Which one is up to you.](http://9gag.com/gag/agmo3AK)
+ - 👉 [I love lamp](http://9gag.com/gag/aoyKZZ3)<!-- MEMES:END -->
 
 ---
 
