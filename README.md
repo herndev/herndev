@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [She saved John Wick](http://9gag.com/gag/adBP6dN)
- - ⏩ [Tararara](http://9gag.com/gag/abAvq2r)
- - 👉 [New Taliban rule: Women are no longer allowed to be visible from house windows under any circumstance. If the kitchen has a window, women can&#39;t even cook near it. This comes after other rulings that women are forbidden from making sounds or even speaking to each other.](http://9gag.com/gag/aD2Y0qx)<!-- MEMES:END -->
+ - 💣 [Which one is up to you.](http://9gag.com/gag/agmo3AK)
+ - ⏩ [That&#39;s the best movie I&#39;m ever going to be in](http://9gag.com/gag/aAy0Vo9)
+ - 👉 [He is carrying her home like a bowling ball](http://9gag.com/gag/aByd3PA)<!-- MEMES:END -->
 
 ---
 
