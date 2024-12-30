@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Amazingly accurate](http://9gag.com/gag/apR9E49)
- - ⏩ [Depression sucks- it made me forget for years how fulfilling making wood bowls is for me\u2026 until last night.](http://9gag.com/gag/a9yqd6j)
- - 👉 [Betrayal](http://9gag.com/gag/aQzE63z)<!-- MEMES:END -->
+ - 💣 [Mornin&#39;! nice day](http://9gag.com/gag/aMVE27W)
+ - ⏩ [Thought you&#39;d wanna know.](http://9gag.com/gag/arympZd)
+ - 👉 [Tragic - history repeats itself. I can&#39;t stop laughing](http://9gag.com/gag/aBydR92)<!-- MEMES:END -->
 
 ---
 
