@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Don&#39;t stress, Epic Games says you can still unlock Fortnite&#39;s Xbox-exclusive Master Chief skin](https://www.pcgamer.com/games/battle-royale/dont-stress-epic-games-says-you-can-still-unlock-fortnites-xbox-exclusive-master-chief-skin/)
- - [Xbox Game Streaming Still Down After 24 Hours, Reminding Us That Your Phone Isn&#39;t Actually An Xbox](https://kotaku.com/xbox-cloud-outage-down-streaming-game-pass-ultimate-1851729610)
- - [Indiana Jones and the Great Circle made me motion sick until I changed these settings](https://www.polygon.com/gaming/502730/indiana-jones-great-circle-motion-sick-settings-fix-head-bob)<!-- GAME:END -->
+ - [Your Friendly Neighborhood Spider-Man’s first trailer is a blast from an alternate past](https://www.polygon.com/trailer/24216277/your-friendly-neighborhood-spider-man-trailer-premiere-date)
+ - [Here&#39;s 20 delightfully isometric minutes of Underrail 2&#39;s apocalyptic undergrounds](https://www.pcgamer.com/games/rpg/heres-20-delightfully-isometric-minutes-of-underrail-2s-apocalyptic-undergrounds/)
+ - [PC Gamer&#39;s highest rated hardware favourites of 2024, plus five dishonorable mentions](https://www.pcgamer.com/hardware/pc-gamers-highest-rated-hardware-favourites-of-2024-plus-five-dishonorable-mentions/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
