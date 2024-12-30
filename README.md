@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Mornin&#39;! nice day](http://9gag.com/gag/aMVE27W)
- - ⏩ [Thought you&#39;d wanna know.](http://9gag.com/gag/arympZd)
- - 👉 [Tragic - history repeats itself. I can&#39;t stop laughing](http://9gag.com/gag/aBydR92)<!-- MEMES:END -->
+ - 💣 [Thought you&#39;d wanna know.](http://9gag.com/gag/arympZd)
+ - ⏩ [New Taliban rule: Women are no longer allowed to be visible from house windows under any circumstance. If the kitchen has a window, women can&#39;t even cook near it. This comes after other rulings that women are forbidden from making sounds or even speaking to each other.](http://9gag.com/gag/aD2Y0qx)
+ - 👉 [28-12-2024 - Plane landing gear fails on touchdown. Halifax, NS](http://9gag.com/gag/azx2gRm)<!-- MEMES:END -->
 
 ---
 
