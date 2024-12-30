@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Never loose opportunity](http://9gag.com/gag/a5QXp6N)
- - ⏩ [What did he do?](http://9gag.com/gag/aVvbOpO)
- - 👉 [This is Dr. Donald Cline - A fertility doctor who illegally fathered 94 children - He discarded donated sperm &amp; replaced it with his own - He served a one-year suspended sentence for his atrocities](http://9gag.com/gag/aD2DBqN)<!-- MEMES:END -->
+ - 💣 [Sonic 3 is peak](http://9gag.com/gag/avyQ0QE)
+ - ⏩ [Imagine showing this to someone from the middle ages](http://9gag.com/gag/a34Zd5N)
+ - 👉 [Maximus](http://9gag.com/gag/aD2YA5O)<!-- MEMES:END -->
 
 ---
 
