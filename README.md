@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [GenieDislikesCloud](http://9gag.com/gag/aO8xKN2)
+ - 💣 [Mornin&#39;! nice day](http://9gag.com/gag/aMVE27W)
  - ⏩ [You can\u2019t park there mate](http://9gag.com/gag/a87qb1e)
- - 👉 [New Taliban rule: Women are no longer allowed to be visible from house windows under any circumstance. If the kitchen has a window, women can&#39;t even cook near it. This comes after other rulings that women are forbidden from making sounds or even speaking to each other.](http://9gag.com/gag/aD2Y0qx)<!-- MEMES:END -->
+ - 👉 [Bet they could take up half the table :&rpar;](http://9gag.com/gag/aZZDP29)<!-- MEMES:END -->
 
 ---
 
