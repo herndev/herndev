@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Discoveries](https://www.polygon.com/gaming/24215620/new-things-to-play-watch-and-experience)
- - [Nosferatu draws big box-office blood in a year when horror prevailed](https://www.polygon.com/horror/503002/nosferatu-box-office-horror-2024)
- - [Expanding your Xbox storage has never been more affordable](https://www.polygon.com/good-deals/502910/xbox-wd-black-expansion-card-sale)<!-- GAME:END -->
+ - [YouTube turned me into a backpacker. These are my 3 favorite outdoor creators on the platform](https://www.polygon.com/culture/500586/best-backpacking-videos-on-youtube)
+ - [The biggest winners and losers of 2024: Nvidia won over Wall Street but what hardware won PC Gamer&#39;s heart?](https://www.pcgamer.com/hardware/the-biggest-winners-and-losers-of-2024-nvidia-won-over-wall-street-but-what-hardware-won-pc-gamers-heart/)
+ - [Yakuza studio director says don’t even try to figure out what its next game is about](https://www.polygon.com/news/503069/project-century-like-a-dragon-yakuza-ryu-ga-gotoku-studio-fan-theories-wrong)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
