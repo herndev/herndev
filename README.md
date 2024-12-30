@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [You have until 2025 to get 5GB of monthly backup data via T-Mobile’s network for just $50 a year!](https://www.androidauthority.com/5g-monthly-data-tmobile-mobi-3511949/)
- - [Source: ByteDance keeps using a loophole for US chip sanctions and told suppliers it planned to spend up to $7B to access Nvidia chips outside China in 2025 &lpar;The Information&rpar;](http://www.techmeme.com/241230/p20#a241230p20)
- - [Source: accounting startup Bench, which had raised $100M+ and abruptly shut down last week, will be acquired by Employer.com for an undisclosed price &lpar;Charles Rollet/TechCrunch&rpar;](http://www.techmeme.com/241230/p19#a241230p19)<!-- TECH:END -->
+ - [The best robot vacuums](https://www.theverge.com/22997597/best-robot-vacuum-cleaner)
+ - [B&amp;H has dropped Apple&#39;s M3 Pro MacBook Pro to $1,599 for 1 more day](https://appleinsider.com/articles/24/12/30/bh-has-dropped-apples-m3-pro-macbook-pro-to-1599-for-1-more-day?utm_medium=rss)
+ - [Volkswagen leak exposed location data for 800,000 electric cars](https://www.theverge.com/2024/12/30/24332181/volkswagen-data-leak-exposed-location-evs)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
