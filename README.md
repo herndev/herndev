@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources detail IDF&#39;s Unit 8200, tasked with identifying human targets as candidates for elimination during the war in Gaza; one describes it as an &quot;AI factory&quot; &lpar;Elizabeth Dwoskin/Washington Post&rpar;](http://www.techmeme.com/241229/p8#a241229p8)
- - [Spotify search results for popular artists reveal NSFW videos](https://www.androidauthority.com/spotify-porn-videos-3511810/)
- - [Best True Wireless Sports Earbuds With Ear Hooks for 2024](https://www.cnet.com/tech/mobile/best-true-wireless-sports-earbuds-with-ear-hooks/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [As Tether says it is on track for a record $10B net profit in 2024, banks around the world are exploring launching their own stablecoins for payments &lpar;Bloomberg&rpar;](http://www.techmeme.com/241230/p1#a241230p1)
+ - [Meta promises fix for software update that bricked Quest 2, 3, and 3S headsets](https://www.androidauthority.com/meta-quest-bricked-fix-3511813/)
+ - [Sources detail IDF&#39;s Unit 8200, tasked with identifying human targets as candidates for elimination during the war in Gaza; one describes it as an &quot;AI factory&quot; &lpar;Elizabeth Dwoskin/Washington Post&rpar;](http://www.techmeme.com/241229/p8#a241229p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
