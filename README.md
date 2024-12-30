@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple rumored to be keeping the iPhone SE 4 price down](https://appleinsider.com/articles/24/12/30/apple-rumored-to-be-keeping-the-iphone-se-4-price-down?utm_medium=rss)
- - [Here’s how the Now Bar in One UI 7 could let you interact with Gemini Live &lpar;APK teardown&rpar;](https://www.androidauthority.com/gemini-live-now-bar-3512014/)
- - [How New York state is defying Donald Trump’s plans to roll back climate action](https://www.theverge.com/2024/12/30/24332241/climate-change-superfund-act-new-york-state-trump)<!-- TECH:END -->
+ - [A US judge delays the CFTC v. Gemini trial to January 21, after Trump&#39;s inauguration; CFTC alleged Gemini misled the agency in its 2017 bid to debut BTC futures &lpar;Turner Wright/Cointelegraph&rpar;](http://www.techmeme.com/241230/p23#a241230p23)
+ - [Hot smart speaker deals: Google Nest Audio vs Amazon Echo](https://www.androidauthority.com/google-nest-audio-amazon-echo-smart-speaker-deals-3512020/)
+ - [The US Treasury Department was hacked](https://www.theverge.com/2024/12/30/24332429/us-treasury-department-beyondtrust-hack-security-breach)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
