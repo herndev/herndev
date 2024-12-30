@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Philippine investigators say Alice Guo, ex-mayor of the Bamban town, owned the land on which a pig butchering scam center was built, housing ~3,000 scammers &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/241230/p6#a241230p6)
- - [Bend it like LG: The world’s first 5K2K bendable monitor brings all the pixels](https://www.androidauthority.com/lg-5k2k-bendable-monitor-3511823/)
- - [Reddit must continue growing its ad and content licensing revenue to justify its market valuation, which could fast-track the platform&#39;s &quot;enshittification&quot; &lpar;Farhad Manjoo/Slate&rpar;](http://www.techmeme.com/241230/p5#a241230p5)<!-- TECH:END -->
+ - [DFC Intelligence expects GTA VI to generate $3.2B in its first year, double that of 2013&#39;s GTA V, making it a bright spot in a lackluster video games market &lpar;Tim Bradshaw/Financial Times&rpar;](http://www.techmeme.com/241230/p7#a241230p7)
+ - [LG’s microwave has a 27-inch display that’ll be perfect for ads](https://www.theverge.com/2024/12/30/24331994/lg-microwave-27-inch-display-speakers)
+ - [Say goodbye to charger chaos: ‘USB-C Everything’ law goes into force](https://www.androidauthority.com/usb-c-law-goes-into-effect-3511824/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
