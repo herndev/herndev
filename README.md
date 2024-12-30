@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [More of the DJI Flip folding drone appears in new leaked images](https://www.theverge.com/2024/12/29/24331693/dji-flip-folding-drone-leaked-photos-specs-fpv-cellular-dongle-2)
- - [Best Portable Grills of 2024, Tested and Reviewed](https://www.cnet.com/home/yard-and-outdoors/best-portable-grill/#ftag=CAD590a51e)
- - [Best Internet Providers in Utica, New York](https://www.cnet.com/home/internet/best-internet-providers-in-utica-ny/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [LG’s 2025 gaming monitor lineup includes a bendable 5K2K OLED](https://www.theverge.com/2024/12/29/24331748/lg-ultragear-gx9-bendable-oled-5k2k-monitors-specs)
+ - [Best Body Pillows for 2024](https://www.cnet.com/health/sleep/best-body-pillow/#ftag=CAD590a51e)
+ - [The 5 Best RV Mattresses of 2024](https://www.cnet.com/health/sleep/best-rv-mattress/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
