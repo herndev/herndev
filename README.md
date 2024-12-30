@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Your Friendly Neighborhood Spider-Man’s Alternate Marvel Timeline Turns Heads In Flashy First Trailer](https://kotaku.com/spiderman-disney-animated-cartoon-trailer-date-suit-1851730014)
- - [Marvel’s What If…? was nothing more than a slew of missed opportunities](https://www.polygon.com/tv/501626/marvel-what-if-season-3-review)
- - [What time does Genshin Impact 5.3 release?](https://www.polygon.com/genshin-impact-guides/499073/version-5-3-release-times-maintenance-end-est-pst-bst)<!-- GAME:END -->
+ - [Fans Want Sonic To Be An Absolute Simp In The Fourth Movie](https://kotaku.com/sonic-3-post-credits-amy-reverse-sonamy-relationship-1851730058)
+ - [Pokémon Go ‘New Year’s 2025’ event guide](https://www.polygon.com/pokemon-go-guide/498462/new-years-2025-event-timed-research-wurmple)
+ - [How classic board game Clue changed over its more than 75-year history](https://www.polygon.com/board-games/501555/clue-board-game-history-hasbro)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
