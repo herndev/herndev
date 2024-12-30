@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Do you like Korean girls?](http://9gag.com/gag/aVvbz0y)
- - ⏩ [A 1995 casting photo of Salma Hayek](http://9gag.com/gag/aPAg6rQ)
- - 👉 [What did he do?](http://9gag.com/gag/aVvbOpO)<!-- MEMES:END -->
+ - 💣 [Thought you&#39;d wanna know.](http://9gag.com/gag/arympZd)
+ - ⏩ [Gone but not forgotten](http://9gag.com/gag/aKGEw9O)
+ - 👉 [GenieDislikesCloud](http://9gag.com/gag/aO8xKN2)<!-- MEMES:END -->
 
 ---
 
