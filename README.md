@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Forget Yule logs, you want 12 hours of lo-fi shrimp to relax to](https://www.polygon.com/yuletide-youtube/498488/chill-aquarium-streams-monterey-bay)
  - [Today&#39;s Wordle answer for Monday, December 30](https://www.pcgamer.com/games/puzzle/wordle-answer-today-december-30-2024/)
- - [Rule the talking movie industry in tycoon game Hollywood Animal](https://www.pcgamer.com/games/sim/rule-the-talking-movie-industry-in-tycoon-game-hollywood-animal/)
- - [Your Friendly Neighborhood Spider-Man’s first trailer is a blast from an alternate past](https://www.polygon.com/trailer/24216277/your-friendly-neighborhood-spider-man-trailer-premiere-date)<!-- GAME:END -->
+ - [Rule the talking movie industry in tycoon game Hollywood Animal](https://www.pcgamer.com/games/sim/rule-the-talking-movie-industry-in-tycoon-game-hollywood-animal/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
