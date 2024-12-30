@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I removed the emojis](http://9gag.com/gag/a87qWP1)
- - ⏩ [It&#39;s THAT time of the year. Good luck!](http://9gag.com/gag/aAy0RXg)
- - 👉 [Which one is up to you.](http://9gag.com/gag/agmo3AK)<!-- MEMES:END -->
+ - 💣 [New Taliban rule: Women are no longer allowed to be visible from house windows under any circumstance. If the kitchen has a window, women can&#39;t even cook near it. This comes after other rulings that women are forbidden from making sounds or even speaking to each other.](http://9gag.com/gag/aD2Y0qx)
+ - ⏩ [Family bonds](http://9gag.com/gag/aW4GQZK)
+ - 👉 [A 1995 casting photo of Salma Hayek](http://9gag.com/gag/aPAg6rQ)<!-- MEMES:END -->
 
 ---
 
