@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Betrayal](http://9gag.com/gag/aQzE63z)
- - ⏩ [Amazingly accurate](http://9gag.com/gag/apR9E49)
- - 👉 [I love lamp](http://9gag.com/gag/aoyKZZ3)<!-- MEMES:END -->
+ - 💣 [Women will tell on themselves when you allow them to speak](http://9gag.com/gag/a1mPZev)
+ - ⏩ [Which one is up to you.](http://9gag.com/gag/agmo3AK)
+ - 👉 [Its her personality](http://9gag.com/gag/abAgjDb)<!-- MEMES:END -->
 
 ---
 
