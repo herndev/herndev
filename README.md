@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [YouTube turned me into a backpacker. These are my 3 favorite outdoor creators on the platform](https://www.polygon.com/culture/500586/best-backpacking-videos-on-youtube)
- - [The biggest winners and losers of 2024: Nvidia won over Wall Street but what hardware won PC Gamer&#39;s heart?](https://www.pcgamer.com/hardware/the-biggest-winners-and-losers-of-2024-nvidia-won-over-wall-street-but-what-hardware-won-pc-gamers-heart/)
- - [Yakuza studio director says don’t even try to figure out what its next game is about](https://www.polygon.com/news/503069/project-century-like-a-dragon-yakuza-ryu-ga-gotoku-studio-fan-theories-wrong)<!-- GAME:END -->
+ - [Jason Momoa Confirms His Return To The DCU Will Be In Next Supergirl Film](https://kotaku.com/jason-momoa-lobo-supergirl-superman-news-1851730213)
+ - [YuleTide YouTube: A celebration of fun on the internet](https://www.polygon.com/youtube/481347/best-youtube-videos-channels-watch)
+ - [Every PlayStation title for the PC is on sale at Fanatical](https://www.polygon.com/sales-guide/503068/playstation-port-pc-fanatical-deal)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
