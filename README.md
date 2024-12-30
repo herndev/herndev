@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple could bring its ‘Pro’ OLED displays to the entire iPhone 17 line](https://www.theverge.com/2024/12/30/24332070/iphone-17-rumor-oled-promotion-120hz-display)
- - [The Galaxy S25 series could come with free Gemini Advanced &lpar;APK teardown&rpar;](https://www.androidauthority.com/samsung-galaxy-s25-series-free-gemini-advanced-3511917/)
- - [I don’t own a single smart home device — am I a dinosaur?](https://www.androidauthority.com/skipping-smart-home-revolution-3509798/)<!-- TECH:END -->
+ - [The UK&#39;s CMA opens an antitrust investigation into IBM&#39;s planned acquisition of cloud software vendor HashiCorp; the US FTC has been investigating it since July &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/241230/p17#a241230p17)
+ - [What&#39;s best to watch on Apple TV+ during the upcoming free weekend](https://appleinsider.com/articles/24/12/30/whats-best-to-watch-on-apple-tv-during-the-upcoming-free-weekend?utm_medium=rss)
+ - [A two-pack of refurbished Blink Outdoor 4 cameras is more than half off right now](https://www.theverge.com/2024/12/30/24332046/blink-outdoor-4-security-camera-8bitdo-ultimate-controller-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
