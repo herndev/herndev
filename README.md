@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Sonic 3 is peak](http://9gag.com/gag/avyQ0QE)
+ - 💣 [Maximus](http://9gag.com/gag/aD2YA5O)
  - ⏩ [Imagine showing this to someone from the middle ages](http://9gag.com/gag/a34Zd5N)
- - 👉 [Maximus](http://9gag.com/gag/aD2YA5O)<!-- MEMES:END -->
+ - 👉 [Passive income](http://9gag.com/gag/awyZrNQ)<!-- MEMES:END -->
 
 ---
 
