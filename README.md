@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [ALLRIGHT!!?](http://9gag.com/gag/aE0q1ZN)
- - ⏩ [Another Boy Lost his life due to Bullying at School](http://9gag.com/gag/aKGEzZ1)
+ - 💣 [At least I have a wife](http://9gag.com/gag/an7zK4V)
+ - ⏩ [Christian Bale&#39;s IQ](http://9gag.com/gag/aQzE4Pd)
  - 👉 [Rabbit meat is running](http://9gag.com/gag/aQzEnvw)<!-- MEMES:END -->
 
 ---
