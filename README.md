@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Is Incogni legit? Find out how to protect your privacy online and avoid scams](https://appleinsider.com/articles/24/12/26/is-incogni-legit-find-out-how-to-protect-your-privacy-online-and-avoid-scams?utm_medium=rss)
- - [Grab an Apple iPad 10th Gen for $279 while you can](https://www.androidauthority.com/apple-ipad-10th-gen-deal-3512019/)
- - [Our Favorite High-End Earbuds Are Currently $80 Off](https://www.cnet.com/deals/our-favorite-high-end-earbuds-are-currently-80-off/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Venezuela&#39;s top court fines TikTok $10M over viral challenge deaths, citing a failure to take necessary measures, and orders it to open an office in the country &lpar;Agence France-Presse&rpar;](http://www.techmeme.com/241230/p25#a241230p25)
+ - [Best Workout Apps for Women in 2024](https://www.cnet.com/health/fitness/best-workout-apps-for-women/#ftag=CAD590a51e)
+ - [Is Incogni legit? Find out how to protect your privacy online and avoid scams](https://appleinsider.com/articles/24/12/26/is-incogni-legit-find-out-how-to-protect-your-privacy-online-and-avoid-scams?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
