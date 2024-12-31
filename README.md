@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Made in China.](http://9gag.com/gag/aYQVWrm)
- - ⏩ [Not your run of the mill chick](http://9gag.com/gag/awyZK58)
- - 👉 [This guy learnt Chinese just to Propose her.](http://9gag.com/gag/a7oqKrL)<!-- MEMES:END -->
+ - ⏩ [What could have been](http://9gag.com/gag/axyoZjM)
+ - 👉 [You can\u2019t park there mate](http://9gag.com/gag/a87qb1e)<!-- MEMES:END -->
 
 ---
 
