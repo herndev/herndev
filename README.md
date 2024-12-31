@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [What could have been](http://9gag.com/gag/axyoZjM)
- - ⏩ [Tararara](http://9gag.com/gag/abAvq2r)
- - 👉 [She got a lost piece of her childhood back, all thanks to him!](http://9gag.com/gag/a7oqK4b)<!-- MEMES:END -->
+ - 💣 [Made in China.](http://9gag.com/gag/aYQVWrm)
+ - ⏩ [Not your run of the mill chick](http://9gag.com/gag/awyZK58)
+ - 👉 [This guy learnt Chinese just to Propose her.](http://9gag.com/gag/a7oqKrL)<!-- MEMES:END -->
 
 ---
 
