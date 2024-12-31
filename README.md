@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Every movie and show coming to Netflix in January](https://www.polygon.com/entertainment/494357/new-on-netflix-january-2025-movies-tv-to-watch)
- - [Next year I actually want more games willing to waste my time](https://www.pcgamer.com/games/next-year-i-actually-want-more-games-willing-to-waste-my-time/)
- - [Can Togetic be shiny in Pokémon Go?](https://www.polygon.com/pokemon-go-guide/497566/can-togetic-be-shiny-togepi-togekiss)<!-- GAME:END -->
+ - [After 2024, it feels like the games industry is poised for a vibe shift—or maybe a reckoning](https://www.pcgamer.com/2025-gaming-industry-vibe-shift-live-service-reckoning-2024-layoffs-trends/)
+ - [PC Gamer Hardware Awards 2024: The winners in every category of PC gaming greatness from the past 12 months of tech](https://www.pcgamer.com/hardware/pc-gamer-hardware-awards-2024-the-winners-in-every-category-of-pc-gaming-greatness-from-the-past-12-months-of-tech/)
+ - [The Best Video Game Characters Of 2024](https://kotaku.com/best-video-game-characters-2024-star-wars-indiana-1851730373)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
