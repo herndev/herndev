@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [2024 was still the year of Baldur&#39;s Gate 3: Why we&#39;re all still playing Larian&#39;s once-in-a-decade RPG 16 months later](https://www.pcgamer.com/games/baldurs-gate/2024-was-still-the-year-of-baldurs-gate-3-why-were-all-still-playing-larians-once-in-a-decade-rpg-16-months-later/)
  - [Helldivers 2 and Marvel Rivals convinced me: Battle passes should never expire](https://www.pcgamer.com/games/third-person-shooter/helldivers-2-and-marvel-rivals-convinced-me-battle-passes-should-never-expire/)
- - [Viral BookTok author Olivie Blake on what it’s like to be ‘a New Year’s resolution person’](https://www.polygon.com/books/500682/new-years-resolutions-olivie-blake-atlas-six)
- - [The Factorio &#39;God Factory&#39; was one of this year&#39;s greatest gaming feats: &#39;Most players will never find themselves hitting the limits of the game. We are.&#39;](https://www.pcgamer.com/games/sim/the-factorio-god-factory-was-one-of-this-years-greatest-gaming-feats-most-players-will-never-find-themselves-hitting-the-limits-of-the-game-we-are/)<!-- GAME:END -->
+ - [Viral BookTok author Olivie Blake on what it’s like to be ‘a New Year’s resolution person’](https://www.polygon.com/books/500682/new-years-resolutions-olivie-blake-atlas-six)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
