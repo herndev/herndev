@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Headlights gone &lpar;not OC&rpar;](http://9gag.com/gag/amoAX1X)
- - ⏩ [Another Boy Lost his life due to Bullying at School](http://9gag.com/gag/aKGEzZ1)
- - 👉 [End the year with a surprise from your beloved!](http://9gag.com/gag/a87qMM3)<!-- MEMES:END -->
+ - 💣 [Pablo has more snow on his table than in Lithuania during Christmas :&lpar;](http://9gag.com/gag/aLn1PWV)
+ - ⏩ [Thought you&#39;d wanna know.](http://9gag.com/gag/arympZd)
+ - 👉 [Makes you think.](http://9gag.com/gag/awyZ7py)<!-- MEMES:END -->
 
 ---
 
