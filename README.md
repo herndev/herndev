@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [OnePlus 13R leaks give us our best look at the device, along with camera details and more](https://www.androidauthority.com/oneplus-13r-render-camera-spec-leak-3512078/)
  - [OnePlus Watch 3 software features leak, and here’s what to expect &lpar;APK teardown&rpar;](https://www.androidauthority.com/oneplus-watch-3-ohealth-features-apk-teardown-3512061/)
- - [24 Things That Made the World a Better Place in 2024](https://www.wired.com/story/24-things-that-made-the-world-a-better-place-in-2024-good-news/)
- - [The US DOJ files a complaint and announces a civil enforcement action against fintech startup Dave and CEO Jason Wilk, replacing an FTC complaint from November &lpar;Kanishka Singh/Reuters&rpar;](http://www.techmeme.com/241231/p2#a241231p2)<!-- TECH:END -->
+ - [24 Things That Made the World a Better Place in 2024](https://www.wired.com/story/24-things-that-made-the-world-a-better-place-in-2024-good-news/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
