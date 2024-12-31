@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Mornin&#39;! nice day](http://9gag.com/gag/aMVE27W)
- - ⏩ [You can\u2019t park there mate](http://9gag.com/gag/a87qb1e)
- - 👉 [Bet they could take up half the table :&rpar;](http://9gag.com/gag/aZZDP29)<!-- MEMES:END -->
+ - 💣 [Female logic](http://9gag.com/gag/aGyEwzX)
+ - ⏩ [The Moment you start thinking](http://9gag.com/gag/awyZKWQ)
+ - 👉 [Hey now](http://9gag.com/gag/aD2Ym77)<!-- MEMES:END -->
 
 ---
 
