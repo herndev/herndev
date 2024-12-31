@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Alibaba cuts prices on its visual language model Qwen-VL by up to 85%, after cutting Qwen prices by as much as 97% in May, amid growing AI competition in China &lpar;Ryan Browne/CNBC&rpar;](http://www.techmeme.com/241231/p8#a241231p8)
- - [Montenegro extradites Terraform Labs co-founder Do Kwon to the US; South Korea also sought Do Kwon&#39;s extradition &lpar;Reuters&rpar;](http://www.techmeme.com/241231/p7#a241231p7)
- - [Is your Galaxy S22 bootlooping? Some users are freezing their phone back to life](https://www.androidauthority.com/samsung-galaxy-s22-bootloop-issue-freezer-fix-3512114/)<!-- TECH:END -->
+ - [2024: a year in art on The Verge](https://www.theverge.com/24317843/2024-art-photography-best-illustration-features)
+ - [Sources: Mobvista explores selling mobile ad platform Mintegral after getting interest from buyers like Bain Capital; Mobvista stock in HK surged ~190% in 2024 &lpar;Bloomberg&rpar;](http://www.techmeme.com/241231/p9#a241231p9)
+ - [How Wearables Are Slowly Turning Into Personal Health Coaches in 2025](https://www.cnet.com/tech/mobile/how-wearables-are-slowly-turning-into-personal-health-coaches-in-2025/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
