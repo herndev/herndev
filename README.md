@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Fitness Boxing 3 can and should kick your ass](https://www.polygon.com/review/503060/fitness-boxing-3-review-workout-video-games-nintendo-switch)
- - [Kotaku’s 15 Most-Read Stories Of 2024](https://kotaku.com/biggest-video-game-stories-star-wars-outlaws-sweet-baby-1851729194)
- - [PC Gamer Hardware Awards 2024: The winners in every category of PC gaming greatness from the past 12 months of tech](https://www.pcgamer.com/hardware/pc-gamer-hardware-awards-2024-the-winners-in-every-category-of-pc-gaming-greatness-from-the-past-12-months-of-tech/)<!-- GAME:END -->
+ - [Viral BookTok author Olivie Blake on what it’s like to be ‘a New Year’s resolution person’](https://www.polygon.com/books/500682/new-years-resolutions-olivie-blake-atlas-six)
+ - [HeroQuest: First Light turns the classic board game into something I could actually imagine kids playing today](https://www.pcgamer.com/games/board-games/heroquest-first-light-review/)
+ - [WD Black SN850X 8 TB NVMe SSD review](https://www.pcgamer.com/hardware/ssds/wd-black-sn850x-8-tb-nvme-ssd-review/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
