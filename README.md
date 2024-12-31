@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Bet they could take up half the table :&rpar;](http://9gag.com/gag/aZZDP29)
- - ⏩ [ALLRIGHT!!?](http://9gag.com/gag/aE0q1ZN)
- - 👉 [What did he do?](http://9gag.com/gag/aVvbOpO)<!-- MEMES:END -->
+ - 💣 [Based](http://9gag.com/gag/aGyEx7X)
+ - ⏩ [The Moment you start thinking](http://9gag.com/gag/awyZKWQ)
+ - 👉 [Wait.. Don\u2019t scroll](http://9gag.com/gag/aMVEbN6)<!-- MEMES:END -->
 
 ---
 
