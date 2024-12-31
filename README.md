@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Female logic](http://9gag.com/gag/aGyEwzX)
- - ⏩ [The Moment you start thinking](http://9gag.com/gag/awyZKWQ)
- - 👉 [Hey now](http://9gag.com/gag/aD2Ym77)<!-- MEMES:END -->
+ - 💣 [3 times a year? That&#39;s madness.](http://9gag.com/gag/a34ZL7m)
+ - ⏩ [Female logic](http://9gag.com/gag/aGyEwzX)
+ - 👉 [The Moment you start thinking](http://9gag.com/gag/awyZKWQ)<!-- MEMES:END -->
 
 ---
 
