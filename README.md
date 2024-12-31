@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [At least I have a wife](http://9gag.com/gag/an7zK4V)
- - ⏩ [Christian Bale&#39;s IQ](http://9gag.com/gag/aQzE4Pd)
- - 👉 [Rabbit meat is running](http://9gag.com/gag/aQzEnvw)<!-- MEMES:END -->
+ - 💣 [Girls cant steal in London anymore](http://9gag.com/gag/amoA8x9)
+ - ⏩ [Another airplane crash landing, this time canada](http://9gag.com/gag/avyQpVO)
+ - 👉 [It&#39;s because of the smell, isn&#39;t it?](http://9gag.com/gag/a9yqboj)<!-- MEMES:END -->
 
 ---
 
