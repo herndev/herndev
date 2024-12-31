@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [India removes a 100M user cap on WhatsApp Pay, letting Meta roll out the mobile payments service to all of its 500M+ users in the country &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/241231/p4#a241231p4)
- - [Best Internet Providers in York, Pennsylvania](https://www.cnet.com/home/internet/best-internet-providers-in-york-pa/#ftag=CAD590a51e)
- - [Inside Apple labs testing and calibrating iPhone 16 series&#39; audio and video features, including new Audio Mix editing tools and 4K slow motion capabilities &lpar;Patrick Holland/CNET&rpar;](http://www.techmeme.com/241231/p3#a241231p3)<!-- TECH:END -->
+ - [WIRED Tested Miracle Hangover Cures. You&#39;re Welcome](https://www.wired.com/story/wired-tested-miracle-hangover-cures/)
+ - [The US arrests a US Army soldier on suspicion of being Kiberphant0m, who sold sensitive customer call records stolen from AT&amp;T and Verizon in the Snowflake hack &lpar;Brian Krebs/Krebs on Security&rpar;](http://www.techmeme.com/241231/p5#a241231p5)
+ - [Best Electric Toothbrushes of 2024](https://www.cnet.com/health/personal-care/best-electric-toothbrush/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
