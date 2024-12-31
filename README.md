@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Girls cant steal in London anymore](http://9gag.com/gag/amoA8x9)
- - ⏩ [Another airplane crash landing, this time canada](http://9gag.com/gag/avyQpVO)
- - 👉 [It&#39;s because of the smell, isn&#39;t it?](http://9gag.com/gag/a9yqboj)<!-- MEMES:END -->
+ - 💣 [Headlights gone &lpar;not OC&rpar;](http://9gag.com/gag/amoAX1X)
+ - ⏩ [Another Boy Lost his life due to Bullying at School](http://9gag.com/gag/aKGEzZ1)
+ - 👉 [End the year with a surprise from your beloved!](http://9gag.com/gag/a87qMM3)<!-- MEMES:END -->
 
 ---
 
