@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Pablo has more snow on his table than in Lithuania during Christmas :&lpar;](http://9gag.com/gag/aLn1PWV)
- - ⏩ [Thought you&#39;d wanna know.](http://9gag.com/gag/arympZd)
- - 👉 [Makes you think.](http://9gag.com/gag/awyZ7py)<!-- MEMES:END -->
+ - 💣 [Bet they could take up half the table :&rpar;](http://9gag.com/gag/aZZDP29)
+ - ⏩ [ALLRIGHT!!?](http://9gag.com/gag/aE0q1ZN)
+ - 👉 [What did he do?](http://9gag.com/gag/aVvbOpO)<!-- MEMES:END -->
 
 ---
 
