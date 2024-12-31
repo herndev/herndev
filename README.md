@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Venezuela&#39;s top court fines TikTok $10M over viral challenge deaths, citing a failure to take necessary measures, and orders it to open an office in the country &lpar;Agence France-Presse&rpar;](http://www.techmeme.com/241230/p25#a241230p25)
- - [Best Workout Apps for Women in 2024](https://www.cnet.com/health/fitness/best-workout-apps-for-women/#ftag=CAD590a51e)
- - [Is Incogni legit? Find out how to protect your privacy online and avoid scams](https://appleinsider.com/articles/24/12/26/is-incogni-legit-find-out-how-to-protect-your-privacy-online-and-avoid-scams?utm_medium=rss)<!-- TECH:END -->
+ - [US Treasury Department Admits It Got Hacked by China](https://www.wired.com/story/us-treasury-hacked-by-china/)
+ - [Samsung invests $181M in South Korean robot maker Rainbow Robotics, boosting its stake to 35%, and launches a Future Robotics Office reporting to the CEO &lpar;Reuters&rpar;](http://www.techmeme.com/241230/p26#a241230p26)
+ - [Best Internet Providers in The Villages, Florida](https://www.cnet.com/home/internet/best-internet-providers-in-the-villages-fl/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
