@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [BlackRock&#39;s Bitcoin ETF surpassed $50B in assets in 11 months, marking the fastest-growing ETF debut ever and pushing BTC&#39;s price past $100K for the first time &lpar;Sidhartha Shukla/Bloomberg&rpar;](http://www.techmeme.com/241231/p1#a241231p1)
  - [LineageOS 22.1 brings Android 15 to your old Android phone](https://www.androidauthority.com/lineageos-22-1-3511791/)
- - [Exclusive: OnePlus Watch 3 Pro and OPPO’s rebranded versions in the works](https://www.androidauthority.com/oneplus-watch-3-pro-3512051/)
- - [US Treasury Department Admits It Got Hacked by China](https://www.wired.com/story/us-treasury-hacked-by-china/)<!-- TECH:END -->
+ - [Exclusive: OnePlus Watch 3 Pro and OPPO’s rebranded versions in the works](https://www.androidauthority.com/oneplus-watch-3-pro-3512051/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
