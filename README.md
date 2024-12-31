@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [CES 2025: From next-gen Nvidia GPUs to gaming laptops galore, here&#39;s everything we expect to see at January&#39;s show](https://www.pcgamer.com/hardware/ces-2025-from-next-gen-nvidia-gpus-to-gaming-laptops-galore-heres-everything-we-expect-to-see-at-januarys-show/)
  - [GeoWizard brings video game flavor to real-world adventures](https://www.polygon.com/yuletide-youtube/500363/geowizard-straight-line-mission)
- - [2024 was still the year of Baldur&#39;s Gate 3: Why we&#39;re all still playing Larian&#39;s once-in-a-decade RPG 16 months later](https://www.pcgamer.com/games/baldurs-gate/2024-was-still-the-year-of-baldurs-gate-3-why-were-all-still-playing-larians-once-in-a-decade-rpg-16-months-later/)
- - [Helldivers 2 and Marvel Rivals convinced me: Battle passes should never expire](https://www.pcgamer.com/games/third-person-shooter/helldivers-2-and-marvel-rivals-convinced-me-battle-passes-should-never-expire/)<!-- GAME:END -->
+ - [2024 was still the year of Baldur&#39;s Gate 3: Why we&#39;re all still playing Larian&#39;s once-in-a-decade RPG 16 months later](https://www.pcgamer.com/games/baldurs-gate/2024-was-still-the-year-of-baldurs-gate-3-why-were-all-still-playing-larians-once-in-a-decade-rpg-16-months-later/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
