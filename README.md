@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Girls cant steal in London anymore](http://9gag.com/gag/amoA8x9)
+ - 💣 [What could have been](http://9gag.com/gag/axyoZjM)
  - ⏩ [Tararara](http://9gag.com/gag/abAvq2r)
- - 👉 [Made in China.](http://9gag.com/gag/aYQVWrm)<!-- MEMES:END -->
+ - 👉 [She got a lost piece of her childhood back, all thanks to him!](http://9gag.com/gag/a7oqK4b)<!-- MEMES:END -->
 
 ---
 
