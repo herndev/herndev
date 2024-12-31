@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone SE, M4 MacBook Air &amp; more: What to expect from Apple&#39;s loaded first half of 2025](https://appleinsider.com/articles/24/12/31/iphone-se-m4-macbook-air-more-what-to-expect-from-apples-loaded-first-half-of-2025?utm_medium=rss)
- - [Here are our picks for the best mobile games of 2024](https://www.androidauthority.com/best-mobile-games-2024-3511037/)
- - [How We Work - How caffeine &amp; tech fuel Andrew O&#39;Hara&#39;s video workflow](https://appleinsider.com/articles/24/12/31/how-we-work---how-caffeine-tech-fuel-andrew-oharas-video-workflow?utm_medium=rss)<!-- TECH:END -->
+ - [Best Luggage, Wheeled Cases, Duffels and Carry-Ons for 2024](https://www.cnet.com/news/best-luggage-wheeled-cases-duffels-and-carry-on/#ftag=CAD590a51e)
+ - [Researchers find 4.5M &quot;stars&quot; on GitHub repos they suspect are fake; in July, Check Point found a network of inauthentic users starring repos containing malware &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/241231/p12#a241231p12)
+ - [10 Movies We&#39;re Looking Forward to Watching on Netflix in January](https://www.cnet.com/tech/services-and-software/10-netflix-movies-to-watch-in-january/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
