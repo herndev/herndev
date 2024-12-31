@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Made in China.](http://9gag.com/gag/aYQVWrm)
- - ⏩ [What could have been](http://9gag.com/gag/axyoZjM)
- - 👉 [You can\u2019t park there mate](http://9gag.com/gag/a87qb1e)<!-- MEMES:END -->
+ - 💣 [What could have been](http://9gag.com/gag/axyoZjM)
+ - ⏩ [Michael C. Hall and Jennifer Carpenter starred as brother and sister Dexter and Deb Morgan on Dexter &lpar;2006-2013&rpar;.](http://9gag.com/gag/aPAgDPg)
+ - 👉 [He is carrying her home like a bowling ball](http://9gag.com/gag/aByd3PA)<!-- MEMES:END -->
 
 ---
 
