@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Based](http://9gag.com/gag/aGyEx7X)
- - ⏩ [The Moment you start thinking](http://9gag.com/gag/awyZKWQ)
- - 👉 [Wait.. Don\u2019t scroll](http://9gag.com/gag/aMVEbN6)<!-- MEMES:END -->
+ - 💣 [And Merry Christmas](http://9gag.com/gag/an7zNxz)
+ - ⏩ [Made in China.](http://9gag.com/gag/aYQVWrm)
+ - 👉 [Makes you think.](http://9gag.com/gag/awyZ7py)<!-- MEMES:END -->
 
 ---
 
