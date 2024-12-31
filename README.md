@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [The 2024 Steam Awards give Game of the Year to Black Myth: Wukong](https://www.pcgamer.com/games/rpg/the-2024-steam-awards-give-game-of-the-year-to-black-myth-wukong/)
  - [CES 2025: From next-gen Nvidia GPUs to gaming laptops galore, here&#39;s everything we expect to see at January&#39;s show](https://www.pcgamer.com/hardware/ces-2025-from-next-gen-nvidia-gpus-to-gaming-laptops-galore-heres-everything-we-expect-to-see-at-januarys-show/)
- - [GeoWizard brings video game flavor to real-world adventures](https://www.polygon.com/yuletide-youtube/500363/geowizard-straight-line-mission)
- - [2024 was still the year of Baldur&#39;s Gate 3: Why we&#39;re all still playing Larian&#39;s once-in-a-decade RPG 16 months later](https://www.pcgamer.com/games/baldurs-gate/2024-was-still-the-year-of-baldurs-gate-3-why-were-all-still-playing-larians-once-in-a-decade-rpg-16-months-later/)<!-- GAME:END -->
+ - [GeoWizard brings video game flavor to real-world adventures](https://www.polygon.com/yuletide-youtube/500363/geowizard-straight-line-mission)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
