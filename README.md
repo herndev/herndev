@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [US Treasury Department Admits It Got Hacked by China](https://www.wired.com/story/us-treasury-hacked-by-china/)
- - [Samsung invests $181M in South Korean robot maker Rainbow Robotics, boosting its stake to 35%, and launches a Future Robotics Office reporting to the CEO &lpar;Reuters&rpar;](http://www.techmeme.com/241230/p26#a241230p26)
- - [Best Internet Providers in The Villages, Florida](https://www.cnet.com/home/internet/best-internet-providers-in-the-villages-fl/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [LineageOS 22.1 brings Android 15 to your old Android phone](https://www.androidauthority.com/lineageos-22-1-3511791/)
+ - [Exclusive: OnePlus Watch 3 Pro and OPPO’s rebranded versions in the works](https://www.androidauthority.com/oneplus-watch-3-pro-3512051/)
+ - [US Treasury Department Admits It Got Hacked by China](https://www.wired.com/story/us-treasury-hacked-by-china/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
