@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [For a change !](http://9gag.com/gag/a1mPYMG)
+ - 💣 [ALLRIGHT!!?](http://9gag.com/gag/aE0q1ZN)
  - ⏩ [Another Boy Lost his life due to Bullying at School](http://9gag.com/gag/aKGEzZ1)
- - 👉 [Thought you&#39;d wanna know.](http://9gag.com/gag/arympZd)<!-- MEMES:END -->
+ - 👉 [Rabbit meat is running](http://9gag.com/gag/aQzEnvw)<!-- MEMES:END -->
 
 ---
 
