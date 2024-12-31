@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Helldivers 2 and Marvel Rivals convinced me: Battle passes should never expire](https://www.pcgamer.com/games/third-person-shooter/helldivers-2-and-marvel-rivals-convinced-me-battle-passes-should-never-expire/)
  - [Viral BookTok author Olivie Blake on what it’s like to be ‘a New Year’s resolution person’](https://www.polygon.com/books/500682/new-years-resolutions-olivie-blake-atlas-six)
- - [HeroQuest: First Light turns the classic board game into something I could actually imagine kids playing today](https://www.pcgamer.com/games/board-games/heroquest-first-light-review/)
- - [WD Black SN850X 8 TB NVMe SSD review](https://www.pcgamer.com/hardware/ssds/wd-black-sn850x-8-tb-nvme-ssd-review/)<!-- GAME:END -->
+ - [The Factorio &#39;God Factory&#39; was one of this year&#39;s greatest gaming feats: &#39;Most players will never find themselves hitting the limits of the game. We are.&#39;](https://www.pcgamer.com/games/sim/the-factorio-god-factory-was-one-of-this-years-greatest-gaming-feats-most-players-will-never-find-themselves-hitting-the-limits-of-the-game-we-are/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
