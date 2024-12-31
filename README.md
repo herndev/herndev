@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Some 2024 LLM takeaways: multimodal vision became common, LLM prices crashed, overall environmental impact worsened despite efficiency gains, slop arrived, more &lpar;Simon Willison/Simon Willison&#39;s Weblog&rpar;](http://www.techmeme.com/241231/p13#a241231p13)
- - [Best Internet Providers in Wisconsin](https://www.cnet.com/home/internet/best-internet-providers-in-wisconsin/#ftag=CAD590a51e)
- - [How to Spot and Prevent a Carbon Monoxide Leak](https://www.cnet.com/home/kitchen-and-household/how-to-spot-and-prevent-a-carbon-monoxide-leak/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Justice Department takes aim at popular fintech app over hidden fees](https://www.androidauthority.com/dave-fintech-app-lawsuit-3512345/)
+ - [What&#39;s best to watch on Apple TV+ during the upcoming free weekend [u]](https://appleinsider.com/articles/24/12/30/whats-best-to-watch-on-apple-tv-during-the-upcoming-free-weekend?utm_medium=rss)
+ - [Apple&#39;s 2TB M4 Mac mini is $100 off &amp; in stock](https://appleinsider.com/articles/24/12/31/apples-2tb-m4-mac-mini-is-100-off-in-stock?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
