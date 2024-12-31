@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [BlackRock&#39;s Bitcoin ETF surpassed $50B in assets in 11 months, marking the fastest-growing ETF debut ever and pushing BTC&#39;s price past $100K for the first time &lpar;Sidhartha Shukla/Bloomberg&rpar;](http://www.techmeme.com/241231/p1#a241231p1)
- - [LineageOS 22.1 brings Android 15 to your old Android phone](https://www.androidauthority.com/lineageos-22-1-3511791/)
- - [Exclusive: OnePlus Watch 3 Pro and OPPO’s rebranded versions in the works](https://www.androidauthority.com/oneplus-watch-3-pro-3512051/)<!-- TECH:END -->
+ - [The US DOJ files a complaint and announces a civil enforcement action against fintech startup Dave and CEO Jason Wilk, replacing an FTC complaint from November &lpar;Kanishka Singh/Reuters&rpar;](http://www.techmeme.com/241231/p2#a241231p2)
+ - [Best Mattresses You Can Buy Online](https://www.cnet.com/health/sleep/best-online-mattress/#ftag=CAD590a51e)
+ - [Want the Benefits of Apple Cider Vinegar Without the Harsh Taste? Try These Tasty ACV Drinks.](https://www.cnet.com/news/best-apple-cider-vinegar-drinks/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
