@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Coconut peeling and cutting in Thailand](http://9gag.com/gag/aKGEw6Z)
- - ⏩ [She got a lost piece of her childhood back, all thanks to him!](http://9gag.com/gag/a7oqK4b)
- - 👉 [Danny Crane](http://9gag.com/gag/aKGEgvj)<!-- MEMES:END -->
+ - 💣 [Thought you&#39;d wanna know.](http://9gag.com/gag/arympZd)
+ - ⏩ [Coconut peeling and cutting in Thailand](http://9gag.com/gag/aKGEw6Z)
+ - 👉 [Mornin&#39;! nice day](http://9gag.com/gag/aMVE27W)<!-- MEMES:END -->
 
 ---
 
