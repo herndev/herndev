@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [And Merry Christmas](http://9gag.com/gag/an7zNxz)
- - ⏩ [Made in China.](http://9gag.com/gag/aYQVWrm)
- - 👉 [Makes you think.](http://9gag.com/gag/awyZ7py)<!-- MEMES:END -->
+ - 💣 [Made in China.](http://9gag.com/gag/aYQVWrm)
+ - ⏩ [He is carrying her home like a bowling ball](http://9gag.com/gag/aByd3PA)
+ - 👉 [Sri Lanka has the lowest gravity on the planet &lpar;blue&rpar;](http://9gag.com/gag/aO8xqMN)<!-- MEMES:END -->
 
 ---
 
