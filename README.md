@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Luggage, Wheeled Cases, Duffels and Carry-Ons for 2024](https://www.cnet.com/news/best-luggage-wheeled-cases-duffels-and-carry-on/#ftag=CAD590a51e)
- - [Researchers find 4.5M &quot;stars&quot; on GitHub repos they suspect are fake; in July, Check Point found a network of inauthentic users starring repos containing malware &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/241231/p12#a241231p12)
- - [10 Movies We&#39;re Looking Forward to Watching on Netflix in January](https://www.cnet.com/tech/services-and-software/10-netflix-movies-to-watch-in-january/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Galaxy Z Flip FE hardware rumors hint at how Samsung will keep costs down](https://www.androidauthority.com/z-flip-fe-display-3512313/)
+ - [Best Internet Providers in Oceanside, California](https://www.cnet.com/home/internet/best-internet-providers-in-oceanside-ca/#ftag=CAD590a51e)
+ - [Best Exercise Bikes for 2024](https://www.cnet.com/health/fitness/best-exercise-bike/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
