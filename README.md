@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Polestar knows you like Android so much, it’s putting Android Auto in your Android Automotive](https://www.androidauthority.com/polestar-android-auto-3512339/)
  - [Galaxy Z Flip FE hardware rumors hint at how Samsung will keep costs down](https://www.androidauthority.com/z-flip-fe-display-3512313/)
- - [Best Internet Providers in Oceanside, California](https://www.cnet.com/home/internet/best-internet-providers-in-oceanside-ca/#ftag=CAD590a51e)
- - [Best Exercise Bikes for 2024](https://www.cnet.com/health/fitness/best-exercise-bike/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Internet Providers in Oceanside, California](https://www.cnet.com/home/internet/best-internet-providers-in-oceanside-ca/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
