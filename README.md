@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Made in China.](http://9gag.com/gag/aYQVWrm)
- - ⏩ [He is carrying her home like a bowling ball](http://9gag.com/gag/aByd3PA)
- - 👉 [Sri Lanka has the lowest gravity on the planet &lpar;blue&rpar;](http://9gag.com/gag/aO8xqMN)<!-- MEMES:END -->
+ - 💣 [Tararara](http://9gag.com/gag/abAvq2r)
+ - ⏩ [New Taliban rule: Women are no longer allowed to be visible from house windows under any circumstance. If the kitchen has a window, women can&#39;t even cook near it. This comes after other rulings that women are forbidden from making sounds or even speaking to each other.](http://9gag.com/gag/aD2Y0qx)
+ - 👉 [Michael C. Hall and Jennifer Carpenter starred as brother and sister Dexter and Deb Morgan on Dexter &lpar;2006-2013&rpar;.](http://9gag.com/gag/aPAgDPg)<!-- MEMES:END -->
 
 ---
 
