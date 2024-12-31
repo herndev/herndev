@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [2024: a year in art on The Verge](https://www.theverge.com/24317843/2024-art-photography-best-illustration-features)
- - [Sources: Mobvista explores selling mobile ad platform Mintegral after getting interest from buyers like Bain Capital; Mobvista stock in HK surged ~190% in 2024 &lpar;Bloomberg&rpar;](http://www.techmeme.com/241231/p9#a241231p9)
- - [How Wearables Are Slowly Turning Into Personal Health Coaches in 2025](https://www.cnet.com/tech/mobile/how-wearables-are-slowly-turning-into-personal-health-coaches-in-2025/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [For a limited time, you could get a year of Mint Mobile unlimited for $135 if you have an Amex card](https://www.androidauthority.com/mint-amex-deal-returns-3511968/)
+ - [M4 Mac users report problems using ultrawide 5K monitors](https://appleinsider.com/articles/24/12/31/m4-mac-users-report-problems-using-ultrawide-5k-monitors?utm_medium=rss)
+ - [Google Search’s latest easter egg lets you relive Squid Game’s Red Light, Green Light game](https://www.androidauthority.com/google-search-squid-game-easter-egg-3512270/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
