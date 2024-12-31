@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Thought you&#39;d wanna know.](http://9gag.com/gag/arympZd)
- - ⏩ [Coconut peeling and cutting in Thailand](http://9gag.com/gag/aKGEw6Z)
- - 👉 [Mornin&#39;! nice day](http://9gag.com/gag/aMVE27W)<!-- MEMES:END -->
+ - 💣 [Mornin&#39;! nice day](http://9gag.com/gag/aMVE27W)
+ - ⏩ [I removed the emojis](http://9gag.com/gag/a87qWP1)
+ - 👉 [Tomboy Childhood Friend All Along!](http://9gag.com/gag/apR9qzn)<!-- MEMES:END -->
 
 ---
 
