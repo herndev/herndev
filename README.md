@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Malaysia done with them. Lol](http://9gag.com/gag/aAy012E)
- - ⏩ [They wouldn\u2019t compete at all.](http://9gag.com/gag/agmoV9x)
- - 👉 [Happy new year from Tuvalu](http://9gag.com/gag/a9yq7o6)<!-- MEMES:END -->
+ - 💣 [Rabbit meat is running](http://9gag.com/gag/aQzEnvw)
+ - ⏩ [Michael C. Hall and Jennifer Carpenter starred as brother and sister Dexter and Deb Morgan on Dexter &lpar;2006-2013&rpar;.](http://9gag.com/gag/aPAgDPg)
+ - 👉 [Made in China.](http://9gag.com/gag/aYQVWrm)<!-- MEMES:END -->
 
 ---
 
