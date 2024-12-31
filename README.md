@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Polestar knows you like Android so much, it’s putting Android Auto in your Android Automotive](https://www.androidauthority.com/polestar-android-auto-3512339/)
- - [Galaxy Z Flip FE hardware rumors hint at how Samsung will keep costs down](https://www.androidauthority.com/z-flip-fe-display-3512313/)
- - [Best Internet Providers in Oceanside, California](https://www.cnet.com/home/internet/best-internet-providers-in-oceanside-ca/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Some 2024 LLM takeaways: multimodal vision became common, LLM prices crashed, overall environmental impact worsened despite efficiency gains, slop arrived, more &lpar;Simon Willison/Simon Willison&#39;s Weblog&rpar;](http://www.techmeme.com/241231/p13#a241231p13)
+ - [Best Internet Providers in Wisconsin](https://www.cnet.com/home/internet/best-internet-providers-in-wisconsin/#ftag=CAD590a51e)
+ - [How to Spot and Prevent a Carbon Monoxide Leak](https://www.cnet.com/home/kitchen-and-household/how-to-spot-and-prevent-a-carbon-monoxide-leak/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
