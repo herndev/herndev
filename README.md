@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The US DOJ files a complaint and announces a civil enforcement action against fintech startup Dave and CEO Jason Wilk, replacing an FTC complaint from November &lpar;Kanishka Singh/Reuters&rpar;](http://www.techmeme.com/241231/p2#a241231p2)
- - [Best Mattresses You Can Buy Online](https://www.cnet.com/health/sleep/best-online-mattress/#ftag=CAD590a51e)
- - [Want the Benefits of Apple Cider Vinegar Without the Harsh Taste? Try These Tasty ACV Drinks.](https://www.cnet.com/news/best-apple-cider-vinegar-drinks/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [OnePlus Watch 3 software features leak, and here’s what to expect &lpar;APK teardown&rpar;](https://www.androidauthority.com/oneplus-watch-3-ohealth-features-apk-teardown-3512061/)
+ - [24 Things That Made the World a Better Place in 2024](https://www.wired.com/story/24-things-that-made-the-world-a-better-place-in-2024-good-news/)
+ - [The US DOJ files a complaint and announces a civil enforcement action against fintech startup Dave and CEO Jason Wilk, replacing an FTC complaint from November &lpar;Kanishka Singh/Reuters&rpar;](http://www.techmeme.com/241231/p2#a241231p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
