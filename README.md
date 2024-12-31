@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Iconic shop sim JRPG Recettear is getting an HD remake in 2025](https://www.pcgamer.com/games/iconic-shop-sim-jrpg-recettear-is-getting-an-hd-remake-in-2025/)
  - [Here&#39;s a quirky little space sim crossed with traditional roguelike](https://www.pcgamer.com/games/roguelike/heres-a-quirky-little-space-sim-crossed-with-traditional-roguelike/)
- - [Jason Momoa to play Lobo in Supergirl movie](https://www.polygon.com/movies/503103/jason-momoa-lobo-supergirl-cast)
- - [Steam&#39;s Surprise End-Of-Year Hit Is A Psychological Horror Game About An Anime Girlfriend](https://kotaku.com/miside-steam-reviews-mita-markiplier-anime-horror-1851730367)<!-- GAME:END -->
+ - [Jason Momoa to play Lobo in Supergirl movie](https://www.polygon.com/movies/503103/jason-momoa-lobo-supergirl-cast)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
