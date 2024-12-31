@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Rabbit meat is running](http://9gag.com/gag/aQzEnvw)
- - ⏩ [He is carrying her home like a bowling ball](http://9gag.com/gag/aByd3PA)
- - 👉 [Sri Lanka has the lowest gravity on the planet &lpar;blue&rpar;](http://9gag.com/gag/aO8xqMN)<!-- MEMES:END -->
+ - 💣 [Girls cant steal in London anymore](http://9gag.com/gag/amoA8x9)
+ - ⏩ [Tararara](http://9gag.com/gag/abAvq2r)
+ - 👉 [Made in China.](http://9gag.com/gag/aYQVWrm)<!-- MEMES:END -->
 
 ---
 
