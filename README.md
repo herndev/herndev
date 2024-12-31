@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A US judge delays the CFTC v. Gemini trial to January 21, after Trump&#39;s inauguration; CFTC alleged Gemini misled the agency in its 2017 bid to debut BTC futures &lpar;Turner Wright/Cointelegraph&rpar;](http://www.techmeme.com/241230/p23#a241230p23)
- - [Hot smart speaker deals: Google Nest Audio vs Amazon Echo](https://www.androidauthority.com/google-nest-audio-amazon-echo-smart-speaker-deals-3512020/)
- - [The US Treasury Department was hacked](https://www.theverge.com/2024/12/30/24332429/us-treasury-department-beyondtrust-hack-security-breach)<!-- TECH:END -->
+ - [Is Incogni legit? Find out how to protect your privacy online and avoid scams](https://appleinsider.com/articles/24/12/26/is-incogni-legit-find-out-how-to-protect-your-privacy-online-and-avoid-scams?utm_medium=rss)
+ - [Grab an Apple iPad 10th Gen for $279 while you can](https://www.androidauthority.com/apple-ipad-10th-gen-deal-3512019/)
+ - [Our Favorite High-End Earbuds Are Currently $80 Off](https://www.cnet.com/deals/our-favorite-high-end-earbuds-are-currently-80-off/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
