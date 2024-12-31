@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [3 times a year? That&#39;s madness.](http://9gag.com/gag/a34ZL7m)
- - ⏩ [Female logic](http://9gag.com/gag/aGyEwzX)
- - 👉 [The Moment you start thinking](http://9gag.com/gag/awyZKWQ)<!-- MEMES:END -->
+ - 💣 [Coconut peeling and cutting in Thailand](http://9gag.com/gag/aKGEw6Z)
+ - ⏩ [She got a lost piece of her childhood back, all thanks to him!](http://9gag.com/gag/a7oqK4b)
+ - 👉 [Danny Crane](http://9gag.com/gag/aKGEgvj)<!-- MEMES:END -->
 
 ---
 
