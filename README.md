@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Next year I actually want more games willing to waste my time](https://www.pcgamer.com/games/next-year-i-actually-want-more-games-willing-to-waste-my-time/)
  - [Can Togetic be shiny in Pokémon Go?](https://www.polygon.com/pokemon-go-guide/497566/can-togetic-be-shiny-togepi-togekiss)
- - [Today&#39;s Wordle answer for Tuesday, December 31](https://www.pcgamer.com/games/puzzle/wordle-answer-today-december-31-2024/)
- - [Iconic shop sim JRPG Recettear is getting an HD remake in 2025](https://www.pcgamer.com/games/iconic-shop-sim-jrpg-recettear-is-getting-an-hd-remake-in-2025/)<!-- GAME:END -->
+ - [Today&#39;s Wordle answer for Tuesday, December 31](https://www.pcgamer.com/games/puzzle/wordle-answer-today-december-31-2024/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
