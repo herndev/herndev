@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Uh, no.](http://9gag.com/gag/aoyK9Ym)
- - ⏩ [No title](http://9gag.com/gag/azx2AYq)
- - 👉 [Comeback of the decade](http://9gag.com/gag/aO8xVgr)<!-- MEMES:END -->
+ - 💣 [Most definitely](http://9gag.com/gag/aLn1BzP)
+ - ⏩ [Tradition](http://9gag.com/gag/an7zyeq)
+ - 👉 [Based](http://9gag.com/gag/aGyEx7X)<!-- MEMES:END -->
 
 ---
 
