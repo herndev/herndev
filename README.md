@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Comeback of the decade](http://9gag.com/gag/aO8xVgr)
- - ⏩ [What kind of a party was that?](http://9gag.com/gag/a7oqZBe)
- - 👉 [HAKUNA HER TATA](http://9gag.com/gag/aLn195W)<!-- MEMES:END -->
+ - ⏩ [HAKUNA HER TATA](http://9gag.com/gag/aLn195W)
+ - 👉 [No hurricane ever crossed the equator.](http://9gag.com/gag/aBydYXz)<!-- MEMES:END -->
 
 ---
 
