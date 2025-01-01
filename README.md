@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The Joker: Kerala edition](http://9gag.com/gag/axyoZgY)
- - ⏩ [Not your run of the mill chick](http://9gag.com/gag/awyZK58)
- - 👉 [No hurricane ever crossed the equator.](http://9gag.com/gag/aBydYXz)<!-- MEMES:END -->
+ - 💣 [British cops found a missing 13yr old girl in a house, naked and blind drunk, with 7 Pakistani men. THEY ARRESTED THE GIRL for being `Drunk &amp; Disorderly`.](http://9gag.com/gag/aBydwvD)
+ - ⏩ [Height marks on the wall](http://9gag.com/gag/a4PoZQv)
+ - 👉 [Pablo has more snow on his table than in Lithuania during Christmas :&lpar;](http://9gag.com/gag/aLn1PWV)<!-- MEMES:END -->
 
 ---
 
