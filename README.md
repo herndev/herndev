@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [HAKUNA HER TATA](http://9gag.com/gag/aLn195W)
- - ⏩ [No hurricane ever crossed the equator.](http://9gag.com/gag/aBydYXz)
- - 👉 [Uh, no.](http://9gag.com/gag/aoyK9Ym)<!-- MEMES:END -->
+ - 💣 [As someone that does the sex a lot](http://9gag.com/gag/adBPX7D)
+ - ⏩ [Uh, no.](http://9gag.com/gag/aoyK9Ym)
+ - 👉 [M.A.H.A.](http://9gag.com/gag/amoA892)<!-- MEMES:END -->
 
 ---
 
