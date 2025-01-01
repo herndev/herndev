@@ -40,8 +40,8 @@
 
 <!-- TECH:START -->
  - [Unreliable leakers agree on unlikely &#39;iPhone 16E&#39; name for iPhone SE 4](https://appleinsider.com/articles/25/01/01/unreliable-leakers-agree-on-unlikely-iphone-16e-name-for-iphone-se-4?utm_medium=rss)
- - [Act Fast to Get a New PS5 Slim for $75 Off](https://www.cnet.com/deals/act-fast-get-new-ps5-slim-for-75-off/#ftag=CAD590a51e)
- - [Elon Musk got new support for his OpenAI lawsuit in filings last week, including from tech advocacy group Encode, backed by AI researchers like Geoffrey Hinton &lpar;Gerrit De Vynck/Washington Post&rpar;](http://www.techmeme.com/250101/p9#a250101p9)<!-- TECH:END -->
+ - [The defense industry is poised for a deal surge as firms expand in AI, drones, and space systems; Bain: VC deal value in the sector has risen 18x in a decade &lpar;Sylvia Pfeifer/Financial Times&rpar;](http://www.techmeme.com/250101/p10#a250101p10)
+ - [AT&amp;T FirstNet subscribers are getting the “gift” of a $3 price increase for the New Year](https://www.androidauthority.com/att-firstnet-price-increase-3512391/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
