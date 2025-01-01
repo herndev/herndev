@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [OP says Happy New Year](http://9gag.com/gag/a6ZqQ0L)
- - ⏩ [New Year&#39;s celebration in China.](http://9gag.com/gag/aqyermM)
- - 👉 [Happy new year my fellow degenerates](http://9gag.com/gag/aQzEM1w)<!-- MEMES:END -->
+ - 💣 [No hurricane ever crossed the equator.](http://9gag.com/gag/aBydYXz)
+ - ⏩ [A reason for Korean martial law 2024](http://9gag.com/gag/aD2YGWB)
+ - 👉 [British cops found a missing 13yr old girl in a house, naked and blind drunk, with 7 Pakistani men. THEY ARRESTED THE GIRL for being `Drunk &amp; Disorderly`.](http://9gag.com/gag/aBydwvD)<!-- MEMES:END -->
 
 ---
 
