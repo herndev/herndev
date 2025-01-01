@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Happy new year my fellow degenerates](http://9gag.com/gag/aQzEM1w)
- - ⏩ [New Year&#39;s celebration in China.](http://9gag.com/gag/aqyermM)
- - 👉 [IQ test among military in Denmark showed a weird dependency of the IQ with the person&#39;s name](http://9gag.com/gag/aBydWmx)<!-- MEMES:END -->
+ - 💣 [Downgrade](http://9gag.com/gag/agmoG3K)
+ - ⏩ [A reason for Korean martial law 2024](http://9gag.com/gag/aD2YGWB)
+ - 👉 [As someone that does the sex a lot](http://9gag.com/gag/adBPX7D)<!-- MEMES:END -->
 
 ---
 
