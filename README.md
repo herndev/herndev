@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [People reacting to the new Japanese Maglev bullet train passing right by them during a test run.](http://9gag.com/gag/aAy0PZE)
- - ⏩ [Tradition](http://9gag.com/gag/an7zyeq)
- - 👉 [Based](http://9gag.com/gag/aGyEx7X)<!-- MEMES:END -->
+ - 💣 [HAKUNA HER TATA](http://9gag.com/gag/aLn195W)
+ - ⏩ [No hurricane ever crossed the equator.](http://9gag.com/gag/aBydYXz)
+ - 👉 [Uh, no.](http://9gag.com/gag/aoyK9Ym)<!-- MEMES:END -->
 
 ---
 
