@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [2025 PC hardware preview: This is the tech we want in our gaming rigs from the coming year](https://www.pcgamer.com/hardware/2025-pc-hardware-preview-this-is-the-tech-we-want-in-our-gaming-rigs-from-the-coming-year/)
- - [Why do some games get a pass for jank and others don&#39;t?](https://www.pcgamer.com/games/why-do-some-games-get-a-pass-for-jank-and-others-dont/)
- - [After a year in its company, I’ve done a complete 180 on my Steam Deck](https://www.pcgamer.com/hardware/handheld-gaming-pcs/after-a-year-in-its-company-ive-done-a-complete-180-on-my-steam-deck/)<!-- GAME:END -->
+ - [Honkai: Star Rail 3.0 livestream codes](https://www.polygon.com/honkai-star-rail-guides/502994/3-0-livestream-codes-redeem-stellar-jade)
+ - [PlayStation Plus Monthly Games for Jan 2025: Suicide Squad: Kill the Justice League, Need for Speed Hot Pursuit Remastered, The Stanley Parable: Ultra Deluxe](https://blog.playstation.com/2025/01/01/playstation-plus-monthly-games-for-jan-2025-suicide-squad-kill-the-justice-league-need-for-speed-hot-pursuit-remastered-the-stanley-parable-ultra-deluxe/)
+ - [The most anticipated new board games of 2025](https://www.polygon.com/gaming/497490/most-anticipated-new-board-games-2025)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
