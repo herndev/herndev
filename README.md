@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [OpenAI missed its goal to launch Media Manager, an opt-out tool for creators, by 2025; sources: the tool was rarely viewed as an important launch internally &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250101/p7#a250101p7)
- - [Next generation CarPlay is missing in action as Apple fails to hit its own deadline](https://appleinsider.com/articles/25/01/01/next-generation-carplay-is-missing-in-action-as-apple-fails-to-hit-its-own-deadline?utm_medium=rss)
- - [Wallpaper Wednesday: More great phone wallpapers for all to share &lpar;January 1&rpar;](https://www.androidauthority.com/wallpaper-wednesday-jan-01-2025-3511365/)<!-- TECH:END -->
+ - [A judge blocks parts of California&#39;s SB 976, finding it may infringe on First Amendment rights, but allows a provision banning &quot;addictive feeds&quot; for minors &lpar;Matt Simons/Courthouse News Service&rpar;](http://www.techmeme.com/250101/p8#a250101p8)
+ - [If You Made Money via PayPal, Venmo or Cash App in 2024, Get Ready for This IRS Tax Change](https://www.cnet.com/personal-finance/taxes/if-you-made-money-via-paypal-venmo-or-cash-app-in-2024-get-ready-for-this-irs-tax-change/#ftag=CAD590a51e)
+ - [OpenAI missed its goal to launch Media Manager, an opt-out tool for creators, by 2025; sources: the tool was rarely viewed as an important launch internally &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250101/p7#a250101p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
