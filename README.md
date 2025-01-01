@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Not your run of the mill chick](http://9gag.com/gag/awyZK58)
- - ⏩ [At least I have a wife](http://9gag.com/gag/an7zK4V)
- - 👉 [Why are some people so stupid?!](http://9gag.com/gag/abAvZYE)<!-- MEMES:END -->
+ - 💣 [People reacting to the new Japanese Maglev bullet train passing right by them during a test run.](http://9gag.com/gag/aAy0PZE)
+ - ⏩ [Rabbit meat is running](http://9gag.com/gag/aQzEnvw)
+ - 👉 [M.A.H.A.](http://9gag.com/gag/amoA892)<!-- MEMES:END -->
 
 ---
 
