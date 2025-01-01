@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Honkai: Star Rail 3.0 livestream codes](https://www.polygon.com/honkai-star-rail-guides/502994/3-0-livestream-codes-redeem-stellar-jade)
- - [PlayStation Plus Monthly Games for Jan 2025: Suicide Squad: Kill the Justice League, Need for Speed Hot Pursuit Remastered, The Stanley Parable: Ultra Deluxe](https://blog.playstation.com/2025/01/01/playstation-plus-monthly-games-for-jan-2025-suicide-squad-kill-the-justice-league-need-for-speed-hot-pursuit-remastered-the-stanley-parable-ultra-deluxe/)
- - [The most anticipated new board games of 2025](https://www.polygon.com/gaming/497490/most-anticipated-new-board-games-2025)<!-- GAME:END -->
+ - [The most anticipated TTRPG books of 2025](https://www.polygon.com/gaming/499436/2025-ttrpg-preview)
+ - [What is the Pokémon TCG Pocket meta right now?](https://www.polygon.com/pokemon-tcg-pocket-guides/480843/meta-best-decks-cards)
+ - [The 44 most exciting science fiction and fantasy books for your 2025 reading list](https://www.polygon.com/lists/498449/new-books-science-fiction-fantasy-2025)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
