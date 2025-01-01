@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The US Treasury sanctions Iranian and Russian entities over attempted election interference, including a Moscow entity that directed the creation of deepfakes &lpar;Raquel Coronell Uribe/NBC News&rpar;](http://www.techmeme.com/241231/p15#a241231p15)
- - [How much do you trust AI to make purchases on your behalf?](https://www.androidauthority.com/ai-shopping-poll-3512354/)
- - [Start Your New Year Off Right With Up to $700 Off Roborock Robot Vacuums](https://www.cnet.com/deals/start-your-new-year-off-right-with-up-to-700-off-roborock-robot-vacuums/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Smart home deals I just took advantage of for my move](https://www.androidauthority.com/smart-home-deals-3512350/)
+ - [Best Instant Pots for 2025](https://www.cnet.com/news/best-instant-pot/#ftag=CAD590a51e)
+ - [The US Treasury sanctions Iranian and Russian entities over attempted election interference, including a Moscow entity that directed the creation of deepfakes &lpar;Raquel Coronell Uribe/NBC News&rpar;](http://www.techmeme.com/241231/p15#a241231p15)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
