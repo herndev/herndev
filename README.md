@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [As Beijing pushes for self-sufficiency in the $80B+ per year car chip business, sources say the use of homemade chips in Chinese cars has risen to around 15% &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250101/p2#a250101p2)
- - [VistaPrint Coupon: 25% Off Printing in 2025](https://www.wired.com/story/vistaprint-coupon-code/)
- - [Squarespace Promo Code: 10% Off in January 2025](https://www.wired.com/story/squarespace-promo-code/)<!-- TECH:END -->
+ - [50% Off DoorDash Promo Code &amp; Coupons](https://www.wired.com/story/doordash-promo-code/)
+ - [Nomad Coupons: 80% Off | January 2024](https://www.wired.com/story/nomad-discount-code/)
+ - [Exclusive Nectar Coupon Code: 40% Off](https://www.wired.com/story/nectar-coupon-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
