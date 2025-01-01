@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Today&#39;s Wordle answer for Wednesday, January 1](https://www.pcgamer.com/games/puzzle/wordle-answer-today-january-1-2025/)
- - [Try this cute freebie about crafting magical scrolls to pay your student loans](https://www.pcgamer.com/games/try-this-cute-freebie-about-crafting-magical-scrolls-to-pay-your-student-loans/)
- - [The 2024 Steam Awards give Game of the Year to Black Myth: Wukong](https://www.pcgamer.com/games/rpg/the-2024-steam-awards-give-game-of-the-year-to-black-myth-wukong/)<!-- GAME:END -->
+ - [Pokémon Go raid schedule for January 2025’s Legendary and Mega Pokémon](https://www.polygon.com/pokemon-go-guide/24168766/raid-schedule-legendary-mega-shadow-five-star)
+ - [FFXIV housing lottery schedule for January 2025](https://www.polygon.com/ffxiv-guides-ff14-final-fantasy-14-online/24115693/housing-lottery-schedule-entry-results-period)
+ - [Pokémon Go Spotlight Hour schedule for January 2025](https://www.polygon.com/pokemon-go-guide/23661763/spotlight-hour-schedule)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
