@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [What was that?](http://9gag.com/gag/avyQnzX)
- - ⏩ [Her eyes show she is at the start of slowly losing her kindness to daily BS from this type of people.](http://9gag.com/gag/adBPp99)
- - 👉 [Just ignore the shit](http://9gag.com/gag/apR9vEp)<!-- MEMES:END -->
+ - 💣 [The Joker: Kerala edition](http://9gag.com/gag/axyoZgY)
+ - ⏩ [Not your run of the mill chick](http://9gag.com/gag/awyZK58)
+ - 👉 [No hurricane ever crossed the equator.](http://9gag.com/gag/aBydYXz)<!-- MEMES:END -->
 
 ---
 
