@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [What could have been](http://9gag.com/gag/axyoZjM)
- - ⏩ [Michael C. Hall and Jennifer Carpenter starred as brother and sister Dexter and Deb Morgan on Dexter &lpar;2006-2013&rpar;.](http://9gag.com/gag/aPAgDPg)
- - 👉 [He is carrying her home like a bowling ball](http://9gag.com/gag/aByd3PA)<!-- MEMES:END -->
+ - 💣 [Rabbit meat is running](http://9gag.com/gag/aQzEnvw)
+ - ⏩ [What could have been](http://9gag.com/gag/axyoZjM)
+ - 👉 [Not your run of the mill chick](http://9gag.com/gag/awyZK58)<!-- MEMES:END -->
 
 ---
 
