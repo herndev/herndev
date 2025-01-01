@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to Build a Healthier Relationship With Your Screen](https://www.wired.com/story/healthy-screen-time-habits-tech-use/)
- - [The Best Mattress for Hip Pain and Pressure Relief](https://www.cnet.com/health/sleep/best-mattress-for-hip-pain/#ftag=CAD590a51e)
- - [Best Wi-Fi Routers](https://www.cnet.com/home/internet/best-wi-fi-routers/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [In 2025, We&#39;re Healing From the Inside-Out. Will Tech Help or Hurt Us?](https://www.cnet.com/health/in-2025-healing-from-inside-out-will-tech-help-or-hurt-us/#ftag=CAD590a51e)
+ - [The Social Security COLA 2025 Increase Is Here: Here&#39;s When to Expect Your Boosted Check](https://www.cnet.com/personal-finance/social-security-cola-2025-your-first-increased-check-is-coming-soon/#ftag=CAD590a51e)
+ - [The 5 Best Magnesium Supplements of 2025](https://www.cnet.com/health/nutrition/5-best-magnesium-supplements/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
