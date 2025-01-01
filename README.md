@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A Very Happy New Year from AppleInsider](https://appleinsider.com/articles/25/01/01/a-very-happy-new-year-from-appleinsider?utm_medium=rss)
  - [Report: users on Douyin, WeChat, and other short video apps in China dropped for the first time, reaching 1.05B in June 2024, ~300M fewer than in December 2023 &lpar;Coco Feng/South China Morning Post&rpar;](http://www.techmeme.com/241231/p16#a241231p16)
- - [This cute little Logitech POP Mouse is up to 50% off!](https://www.androidauthority.com/logitech-pop-mouse-deal-3512349/)
- - [Best Electric Bike for 2025](https://www.cnet.com/roadshow/news/best-electric-bike/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [This cute little Logitech POP Mouse is up to 50% off!](https://www.androidauthority.com/logitech-pop-mouse-deal-3512349/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
