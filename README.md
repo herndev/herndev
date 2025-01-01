@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Try this cute freebie about crafting magical scrolls to pay your student loans](https://www.pcgamer.com/games/try-this-cute-freebie-about-crafting-magical-scrolls-to-pay-your-student-loans/)
  - [The 2024 Steam Awards give Game of the Year to Black Myth: Wukong](https://www.pcgamer.com/games/rpg/the-2024-steam-awards-give-game-of-the-year-to-black-myth-wukong/)
- - [CES 2025: From next-gen Nvidia GPUs to gaming laptops galore, here&#39;s everything we expect to see at January&#39;s show](https://www.pcgamer.com/hardware/ces-2025-from-next-gen-nvidia-gpus-to-gaming-laptops-galore-heres-everything-we-expect-to-see-at-januarys-show/)
- - [GeoWizard brings video game flavor to real-world adventures](https://www.polygon.com/yuletide-youtube/500363/geowizard-straight-line-mission)<!-- GAME:END -->
+ - [CES 2025: From next-gen Nvidia GPUs to gaming laptops galore, here&#39;s everything we expect to see at January&#39;s show](https://www.pcgamer.com/hardware/ces-2025-from-next-gen-nvidia-gpus-to-gaming-laptops-galore-heres-everything-we-expect-to-see-at-januarys-show/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
