@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [British cops found a missing 13yr old girl in a house, naked and blind drunk, with 7 Pakistani men. THEY ARRESTED THE GIRL for being `Drunk &amp; Disorderly`.](http://9gag.com/gag/aBydwvD)
- - ⏩ [Height marks on the wall](http://9gag.com/gag/a4PoZQv)
- - 👉 [Pablo has more snow on his table than in Lithuania during Christmas :&lpar;](http://9gag.com/gag/aLn1PWV)<!-- MEMES:END -->
+ - 💣 [Just ignore the shit](http://9gag.com/gag/apR9vEp)
+ - ⏩ [He is carrying her home like a bowling ball](http://9gag.com/gag/aByd3PA)
+ - 👉 [As someone that does the sex a lot](http://9gag.com/gag/adBPX7D)<!-- MEMES:END -->
 
 ---
 
