@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [People reacting to the new Japanese Maglev bullet train passing right by them during a test run.](http://9gag.com/gag/aAy0PZE)
- - ⏩ [MARVEL RIVALS MADE A `OOPS DID I DO THAT`](http://9gag.com/gag/ajPVApw)
- - 👉 [Kids now having it easy](http://9gag.com/gag/aW4G6n2)<!-- MEMES:END -->
+ - 💣 [Comeback of the decade](http://9gag.com/gag/aO8xVgr)
+ - ⏩ [What kind of a party was that?](http://9gag.com/gag/a7oqZBe)
+ - 👉 [HAKUNA HER TATA](http://9gag.com/gag/aLn195W)<!-- MEMES:END -->
 
 ---
 
