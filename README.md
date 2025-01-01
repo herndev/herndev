@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Comeback of the decade](http://9gag.com/gag/aO8xVgr)
- - ⏩ [HAKUNA HER TATA](http://9gag.com/gag/aLn195W)
- - 👉 [No hurricane ever crossed the equator.](http://9gag.com/gag/aBydYXz)<!-- MEMES:END -->
+ - 💣 [OP says Happy New Year](http://9gag.com/gag/a6ZqQ0L)
+ - ⏩ [New Year&#39;s celebration in China.](http://9gag.com/gag/aqyermM)
+ - 👉 [Happy new year my fellow degenerates](http://9gag.com/gag/aQzEM1w)<!-- MEMES:END -->
 
 ---
 
