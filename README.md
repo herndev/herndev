@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Smart home deals I just took advantage of for my move](https://www.androidauthority.com/smart-home-deals-3512350/)
- - [Best Instant Pots for 2025](https://www.cnet.com/news/best-instant-pot/#ftag=CAD590a51e)
- - [The US Treasury sanctions Iranian and Russian entities over attempted election interference, including a Moscow entity that directed the creation of deepfakes &lpar;Raquel Coronell Uribe/NBC News&rpar;](http://www.techmeme.com/241231/p15#a241231p15)<!-- TECH:END -->
+ - [Report: users on Douyin, WeChat, and other short video apps in China dropped for the first time, reaching 1.05B in June 2024, ~300M fewer than in December 2023 &lpar;Coco Feng/South China Morning Post&rpar;](http://www.techmeme.com/241231/p16#a241231p16)
+ - [This cute little Logitech POP Mouse is up to 50% off!](https://www.androidauthority.com/logitech-pop-mouse-deal-3512349/)
+ - [Best Electric Bike for 2025](https://www.cnet.com/roadshow/news/best-electric-bike/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
