@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [KoBold Metals, which uses AI to sift through historical and scientific data to identify untapped mineral deposits, raised a $537M Series C at a $2.96B valuation &lpar;Camilla Hodgson/Financial Times&rpar;](http://www.techmeme.com/250101/p1#a250101p1)
- - [A Very Happy New Year from AppleInsider](https://appleinsider.com/articles/25/01/01/a-very-happy-new-year-from-appleinsider?utm_medium=rss)
- - [Today&#39;s NYT Strands Hints, Answers and Help for Jan. 1, #304](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-jan-1-304/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [As Beijing pushes for self-sufficiency in the $80B+ per year car chip business, sources say the use of homemade chips in Chinese cars has risen to around 15% &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250101/p2#a250101p2)
+ - [VistaPrint Coupon: 25% Off Printing in 2025](https://www.wired.com/story/vistaprint-coupon-code/)
+ - [Squarespace Promo Code: 10% Off in January 2025](https://www.wired.com/story/squarespace-promo-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
