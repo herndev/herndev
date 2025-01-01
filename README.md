@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Uh, no.](http://9gag.com/gag/aoyK9Ym)
- - ⏩ [M.A.H.A.](http://9gag.com/gag/amoA892)
- - 👉 [No title](http://9gag.com/gag/azx2AYq)<!-- MEMES:END -->
+ - ⏩ [No title](http://9gag.com/gag/azx2AYq)
+ - 👉 [Comeback of the decade](http://9gag.com/gag/aO8xVgr)<!-- MEMES:END -->
 
 ---
 
