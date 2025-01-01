@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [People reacting to the new Japanese Maglev bullet train passing right by them during a test run.](http://9gag.com/gag/aAy0PZE)
- - ⏩ [Rabbit meat is running](http://9gag.com/gag/aQzEnvw)
- - 👉 [M.A.H.A.](http://9gag.com/gag/amoA892)<!-- MEMES:END -->
+ - 💣 [Happy new year from Tuvalu](http://9gag.com/gag/a9yq7o6)
+ - ⏩ [Most definitely](http://9gag.com/gag/aLn1BzP)
+ - 👉 [No worries they can buy another one from temu for 50 bucks](http://9gag.com/gag/a6ZqQD8)<!-- MEMES:END -->
 
 ---
 
