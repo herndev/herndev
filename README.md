@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Not your run of the mill chick](http://9gag.com/gag/awyZK58)
- - ⏩ [`My son won&#39;t miss even a single day of school, and now I know why.`](http://9gag.com/gag/aE0qnbp)
- - 👉 [M.A.H.A.](http://9gag.com/gag/amoA892)<!-- MEMES:END -->
+ - 💣 [Uh, no.](http://9gag.com/gag/aoyK9Ym)
+ - ⏩ [M.A.H.A.](http://9gag.com/gag/amoA892)
+ - 👉 [No title](http://9gag.com/gag/azx2AYq)<!-- MEMES:END -->
 
 ---
 
