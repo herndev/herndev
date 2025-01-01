@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Rabbit meat is running](http://9gag.com/gag/aQzEnvw)
- - ⏩ [What could have been](http://9gag.com/gag/axyoZjM)
- - 👉 [Not your run of the mill chick](http://9gag.com/gag/awyZK58)<!-- MEMES:END -->
+ - 💣 [Not your run of the mill chick](http://9gag.com/gag/awyZK58)
+ - ⏩ [At least I have a wife](http://9gag.com/gag/an7zK4V)
+ - 👉 [Why are some people so stupid?!](http://9gag.com/gag/abAvZYE)<!-- MEMES:END -->
 
 ---
 
