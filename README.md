@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Keychron Q5 HE review: Marvelously magnetic mechanical keyboard](https://appleinsider.com/articles/25/01/01/keychron-q5-he-review-marvelously-magnetic-mechanical-keyboard?utm_medium=rss)
- - [Our Favorite Fitness Apps for 2025, Tested and Reviewed](https://www.wired.com/gallery/best-fitness-apps-and-services/)
- - [Make the Most of This Great New Year Deal on JBL&#39;s Tune Earbuds for Just $45](https://www.cnet.com/deals/make-the-most-of-this-new-year-deal-to-grab-the-jbl-tune-earbuds-for-just-45/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Wallpaper Wednesday: More great phone wallpapers for all to share &lpar;January 1&rpar;](https://www.androidauthority.com/wallpaper-wednesday-jan-01-2025-3511365/)
+ - [PitchBook: the number of VCs investing in US startups fell from a peak of 8,315 in 2021 to 6,175 in 2024; 9 firms raised 50%+ of the $71B raised by VCs in 2024 &lpar;George Hammond/Financial Times&rpar;](http://www.techmeme.com/250101/p6#a250101p6)
+ - [The Cumulus Machine Review: Fast and Frothy Cold Brew](https://www.wired.com/review/cumulus-coffee-the-cumulus-machine/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
