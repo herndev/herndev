@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Just ignore the shit](http://9gag.com/gag/apR9vEp)
- - ⏩ [He is carrying her home like a bowling ball](http://9gag.com/gag/aByd3PA)
- - 👉 [As someone that does the sex a lot](http://9gag.com/gag/adBPX7D)<!-- MEMES:END -->
+ - 💣 [Not your run of the mill chick](http://9gag.com/gag/awyZK58)
+ - ⏩ [`My son won&#39;t miss even a single day of school, and now I know why.`](http://9gag.com/gag/aE0qnbp)
+ - 👉 [M.A.H.A.](http://9gag.com/gag/amoA892)<!-- MEMES:END -->
 
 ---
 
