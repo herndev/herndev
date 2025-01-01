@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [What if the moon suddenly transformed into cheese? John Scalzi’s new book has an answer](https://www.polygon.com/entertainment/492832/john-scalzi-when-the-moon-hits-your-eye-excerpt-release)
- - [The 50 most anticipated new movies of 2025](https://www.polygon.com/entertainment/468497/most-anticipated-new-movies-2025-release-calendar-schedule)
- - [The 50 most anticipated new games of 2025](https://www.polygon.com/gaming/483261/most-anticipated-new-games-2025-release-calendar-schedule)<!-- GAME:END -->
+ - [2025 PC hardware preview: This is the tech we want in our gaming rigs from the coming year](https://www.pcgamer.com/hardware/2025-pc-hardware-preview-this-is-the-tech-we-want-in-our-gaming-rigs-from-the-coming-year/)
+ - [Why do some games get a pass for jank and others don&#39;t?](https://www.pcgamer.com/games/why-do-some-games-get-a-pass-for-jank-and-others-dont/)
+ - [After a year in its company, I’ve done a complete 180 on my Steam Deck](https://www.pcgamer.com/hardware/handheld-gaming-pcs/after-a-year-in-its-company-ive-done-a-complete-180-on-my-steam-deck/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
