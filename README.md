@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [20% Off Brooks Promo Code &amp; Deals for January 2025](https://www.wired.com/story/brooks-promo-code/)
- - [17 Best Mattresses You Can Buy Online—We Tested for a Week Each &lpar;2025&rpar;](https://www.wired.com/gallery/best-mattresses/)
- - [50% Off DoorDash Promo Code &amp; Coupons](https://www.wired.com/story/doordash-promo-code/)<!-- TECH:END -->
+ - [How to Build a Healthier Relationship With Your Screen](https://www.wired.com/story/healthy-screen-time-habits-tech-use/)
+ - [The Best Mattress for Hip Pain and Pressure Relief](https://www.cnet.com/health/sleep/best-mattress-for-hip-pain/#ftag=CAD590a51e)
+ - [Best Wi-Fi Routers](https://www.cnet.com/home/internet/best-wi-fi-routers/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
