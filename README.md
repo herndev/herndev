@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tablet deals: Google Pixel Tablet and Samsung Galaxy A9 Plus](https://www.androidauthority.com/tablet-deals-google-pixel-tablet-and-samsung-galaxy-a9-plus-3512351/)
- - [St. Louis-based tech services company World Wide Technology agrees to acquire Canadian IT provider Softchoice in an all-cash deal valuing the latter at ~CA$1.8B &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/241231/p14#a241231p14)
- - [Squid Game Season 3 Confirmed for 2025](https://www.cnet.com/tech/services-and-software/squid-game-season-3-confirmed-for-2025/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The US Treasury sanctions Iranian and Russian entities over attempted election interference, including a Moscow entity that directed the creation of deepfakes &lpar;Raquel Coronell Uribe/NBC News&rpar;](http://www.techmeme.com/241231/p15#a241231p15)
+ - [How much do you trust AI to make purchases on your behalf?](https://www.androidauthority.com/ai-shopping-poll-3512354/)
+ - [Start Your New Year Off Right With Up to $700 Off Roborock Robot Vacuums](https://www.cnet.com/deals/start-your-new-year-off-right-with-up-to-700-off-roborock-robot-vacuums/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
