@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to Start &lpar;and Keep&rpar; a Healthy Habit &lpar;2025&rpar;](https://www.wired.com/story/how-to-start-a-healthy-habit/)
- - [Sea Moss Gummies: Side Effects, Benefits and Who Should Try Them](https://www.cnet.com/health/nutrition/sea-moss-gummies-side-effects-benefits-and-who-should-try-them/#ftag=CAD590a51e)
- - [Best Creatine Supplements of 2025](https://www.cnet.com/health/nutrition/best-creatine-supplements/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Is Sleep’s Dopesmoker still the heaviest album of all time?](https://www.theverge.com/2025/1/1/24333190/heavier-than-dopesmoker)
+ - [Alibaba sells Sun Art Retail stake to PE firm DCP for ~$1.6B, after paying ~$3.6B in 2020 to double the stake to 70%+, as it focuses on its core online business &lpar;Bloomberg&rpar;](http://www.techmeme.com/250101/p5#a250101p5)
+ - [Best MP3 Players for 2025](https://www.cnet.com/tech/mobile/best-mp3-player/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
