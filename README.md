@@ -46,7 +46,7 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Most definitely](http://9gag.com/gag/aLn1BzP)
+ - 💣 [People reacting to the new Japanese Maglev bullet train passing right by them during a test run.](http://9gag.com/gag/aAy0PZE)
  - ⏩ [Tradition](http://9gag.com/gag/an7zyeq)
  - 👉 [Based](http://9gag.com/gag/aGyEx7X)<!-- MEMES:END -->
 
