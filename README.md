@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [50% Off DoorDash Promo Code &amp; Coupons](https://www.wired.com/story/doordash-promo-code/)
- - [Nomad Coupons: 80% Off | January 2024](https://www.wired.com/story/nomad-discount-code/)
- - [Exclusive Nectar Coupon Code: 40% Off](https://www.wired.com/story/nectar-coupon-code/)<!-- TECH:END -->
+ - [20% Off Brooks Promo Code &amp; Deals for January 2025](https://www.wired.com/story/brooks-promo-code/)
+ - [17 Best Mattresses You Can Buy Online—We Tested for a Week Each &lpar;2025&rpar;](https://www.wired.com/gallery/best-mattresses/)
+ - [50% Off DoorDash Promo Code &amp; Coupons](https://www.wired.com/story/doordash-promo-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
