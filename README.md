@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [As someone that does the sex a lot](http://9gag.com/gag/adBPX7D)
- - ⏩ [Uh, no.](http://9gag.com/gag/aoyK9Ym)
- - 👉 [M.A.H.A.](http://9gag.com/gag/amoA892)<!-- MEMES:END -->
+ - 💣 [Execution by cannon, Shiraz, Iran. 1890s.](http://9gag.com/gag/aW4GMvZ)
+ - ⏩ [British cops found a missing 13yr old girl in a house, naked and blind drunk, with 7 Pakistani men. THEY ARRESTED THE GIRL for being `Drunk &amp; Disorderly`.](http://9gag.com/gag/aBydwvD)
+ - 👉 [My fellow IT support](http://9gag.com/gag/aE0qR9G)<!-- MEMES:END -->
 
 ---
 
