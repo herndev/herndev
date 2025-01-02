@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Take a note 9gaggers&#39;s virgins selfclaimed womanizer](http://9gag.com/gag/aBydw5P)
- - ⏩ [Okay, lets share a secret. Who was your first boner?](http://9gag.com/gag/a87qp73)
- - 👉 [Its average nowadays](http://9gag.com/gag/azx2Xbq)<!-- MEMES:END -->
+ - 💣 [Kids admiring bike](http://9gag.com/gag/a7oqr0w)
+ - ⏩ [White guys imitating Indians making street food.](http://9gag.com/gag/a1mPKqY)
+ - 👉 [Go sport](http://9gag.com/gag/a7oqDnw)<!-- MEMES:END -->
 
 ---
 
