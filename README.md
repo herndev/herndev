@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [&#39;Marvel Rivals&#39; players face 100-year ban for play on macOS](https://appleinsider.com/articles/25/01/02/marvel-rivals-players-face-100-year-ban-for-play-on-macos?utm_medium=rss)
- - [Net neutrality eviscerated by appeals court ruling](https://www.theverge.com/2025/1/2/24334309/net-neutrality-struck-down-sixth-circuit-chevron-deference)
- - [Email: NYC-based Level, which raised a $27M Series A in 2021 to help companies offer staff benefits, shuts down after an effort to sell the company fell through &lpar;The Information&rpar;](http://www.techmeme.com/250102/p19#a250102p19)<!-- TECH:END -->
+ - [Meta appoints new Trump-friendly policy chief](https://www.theverge.com/2025/1/2/24334432/meta-trump-friendly-policy-chief-joel-kaplan-nick-clegg)
+ - [The best deals on MacBooks right now](https://www.theverge.com/22399419/apple-macbook-air-pro-mac-mini-imac-deals)
+ - [Spotify debuts a Partner Program in the US, the UK, Canada, and Australia, letting popular podcast hosts monetize video content, after announcing it in November &lpar;Lauren Forristal/TechCrunch&rpar;](http://www.techmeme.com/250102/p20#a250102p20)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
