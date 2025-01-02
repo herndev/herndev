@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [HAKUNA HER TATA](http://9gag.com/gag/aLn195W)
- - ⏩ [Kids admiring bike](http://9gag.com/gag/a7oqr0w)
- - 👉 [Ponytail blade](http://9gag.com/gag/a9yqrrZ)<!-- MEMES:END -->
+ - 💣 [What kind of a party was that?](http://9gag.com/gag/a7oqZBe)
+ - ⏩ [Its average nowadays](http://9gag.com/gag/azx2Xbq)
+ - 👉 [Best fight ever \u2026](http://9gag.com/gag/aByd8Xz)<!-- MEMES:END -->
 
 ---
 
