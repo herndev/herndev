@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Clobberin&#39; time is confirmed: The Fantastic Four is coming to Marvel Rivals and they&#39;re bringing a cute little robot along with them](https://www.pcgamer.com/games/fps/clobberin-time-is-confirmed-the-fantastic-four-is-coming-to-marvel-rivals-and-theyre-bringing-a-cute-little-robot-along-with-them/)
- - [New beverage technology unlocked: here&#39;s a mug you can shoot people in games with while keeping your tea warm because it&#39;s got a &#39;wireless anatomical trigger&#39;](https://www.pcgamer.com/hardware/controllers/new-beverage-technology-unlocked-heres-a-mug-you-can-shoot-people-in-games-with-while-keeping-your-tea-warm-because-its-got-a-wireless-anatomical-trigger/)
- - [Tom Holland Already Knows Exactly When He&#39;ll Retire From Acting](https://kotaku.com/tom-holland-spider-man-zendaya-news-1851731516)<!-- GAME:END -->
+ - [Every Marvel movie and TV release set for 2025 and beyond](https://www.polygon.com/21452835/new-marvel-movies-come-out-release-schedule)
+ - [Fantasy author John Wiswell explains the ‘Tetris method’ that can keep you productive in 2025](https://www.polygon.com/books/503383/writing-tips-tricks-beating-writers-block-john-wiswell-interview)
+ - [Genshin Impact codes for January 2025](https://www.polygon.com/genshin-impact-guides/479183/codes-redeem-redemption-gift-primogems)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
