@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Same...](http://9gag.com/gag/aKGEjnO)
- - ⏩ [Upvote Hypnobutt to have great luck in year 2025](http://9gag.com/gag/ayN2LmV)
- - 👉 [An ancient prophecy has just come true](http://9gag.com/gag/aQzE32z)<!-- MEMES:END -->
+ - 💣 [Take a note 9gaggers&#39;s virgins selfclaimed womanizer](http://9gag.com/gag/aBydw5P)
+ - ⏩ [Okay, lets share a secret. Who was your first boner?](http://9gag.com/gag/a87qp73)
+ - 👉 [Its average nowadays](http://9gag.com/gag/azx2Xbq)<!-- MEMES:END -->
 
 ---
 
