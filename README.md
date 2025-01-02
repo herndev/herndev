@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Malaysia says X and Google haven&#39;t applied for a new social media license; X cites under 8M Malaysian users, while Google disputes YouTube&#39;s classification &lpar;Ram Anand/Bloomberg&rpar;](http://www.techmeme.com/250102/p2#a250102p2)
- - [China&#39;s Wingtech, supplier to Apple, Samsung, Xiaomi, and others, plans to sell its contract manufacturing business to Luxshare after being sanctioned by the US &lpar;Iris Deng/South China Morning Post&rpar;](http://www.techmeme.com/250102/p1#a250102p1)
- - [You can still save $100 on Apple&#39;s latest iPad Air in 2025](https://appleinsider.com/articles/25/01/02/you-can-still-save-100-on-apples-latest-ipad-air-in-2025?utm_medium=rss)<!-- TECH:END -->
+ - [Experts warn of a rise in personalized phishing emails targeting corporate executives with personal details probably obtained via AI analysis of online profiles &lpar;Stephanie Stacey/Financial Times&rpar;](http://www.techmeme.com/250102/p4#a250102p4)
+ - [Q&amp;A with Robinhood CEO Vlad Tenev about the company&#39;s aggressive plans for 2025, including competing with prediction markets like Kalshi &lpar;Connie Loizos/TechCrunch&rpar;](http://www.techmeme.com/250102/p3#a250102p3)
+ - [Malaysia says X and Google haven&#39;t applied for a new social media license; X cites under 8M Malaysian users, while Google disputes YouTube&#39;s classification &lpar;Ram Anand/Bloomberg&rpar;](http://www.techmeme.com/250102/p2#a250102p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
