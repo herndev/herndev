@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Xbox Series X|S – Every Console Option Available Now](https://news.xbox.com/en-us/2024/11/15/xbox-series-xs-every-console-option-available-now/#new_tab)
- - [Today&#39;s Wordle answer for Thursday, January 2](https://www.pcgamer.com/games/puzzle/wordle-answer-today-january-2-2025/)
- - [Skyblivion only has one region of the map left to finish: &#39;We are nearly ready to release an entirely remastered Elder Scrolls game&#39;](https://www.pcgamer.com/games/rpg/skyblivion-only-has-one-region-of-the-map-left-to-finish-we-are-nearly-ready-to-release-an-entirely-remastered-elder-scrolls-game/)<!-- GAME:END -->
+ - [Twitter is dead, X is a cesspit, let&#39;s make 2025 the year of the message board](https://www.pcgamer.com/gaming-industry/twitter-is-dead-x-is-a-cesspit-lets-make-2025-the-year-of-the-message-board/)
+ - [A debloating wizard has managed to get Windows 11 running on just 184 MB of RAM, and it looks like it can actually run apps](https://www.pcgamer.com/software/windows/a-debloating-wizard-has-managed-to-get-windows-11-running-on-just-184-mb-of-ram-and-it-looks-like-it-can-actually-run-apps/)
+ - [Xbox Series X|S – Every Console Option Available Now](https://news.xbox.com/en-us/2024/11/15/xbox-series-xs-every-console-option-available-now/#new_tab)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
