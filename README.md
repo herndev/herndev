@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Execution by cannon, Shiraz, Iran. 1890s.](http://9gag.com/gag/aW4GMvZ)
- - ⏩ [Uh, no.](http://9gag.com/gag/aoyK9Ym)
- - 👉 [A reason for Korean martial law 2024](http://9gag.com/gag/aD2YGWB)<!-- MEMES:END -->
+ - 💣 [What kind of a party was that?](http://9gag.com/gag/a7oqZBe)
+ - ⏩ [What was that?](http://9gag.com/gag/avyQnzX)
+ - 👉 [Uh, no.](http://9gag.com/gag/aoyK9Ym)<!-- MEMES:END -->
 
 ---
 
