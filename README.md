@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Asus, Samsung, and MSI separately unveil the world&#39;s first 27-inch QD-OLED gaming monitors, offering 4K OLED at 240Hz, without giving release dates or pricing &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/250102/p9#a250102p9)
- - [I Tried to Build a Website Using AI in 3 Hours -- and It Only Took 30 Minutes](https://www.cnet.com/tech/services-and-software/i-tried-to-build-a-website-using-ai-in-3-hours-and-it-only-took-30-minutes/#ftag=CAD590a51e)
- - [While the crypto industry anticipates lighter regulation and wider adoption under Trump, some critics worry about systemic risks, particularly from stablecoins &lpar;Financial Times&rpar;](http://www.techmeme.com/250102/p8#a250102p8)<!-- TECH:END -->
+ - [Xbox Game Pass: Swing Into Action With Indiana Jones Now, More Games Soon](https://www.cnet.com/tech/gaming/xbox-game-pass-swing-into-action-with-indiana-jones-now-more-games-soon/#ftag=CAD590a51e)
+ - [Compare Current Refinance Rates in January 2025](https://www.cnet.com/personal-finance/refinance-interest-rates-today/#ftag=CAD590a51e)
+ - [Compare Current Mortgage Rates in January 2025](https://www.cnet.com/personal-finance/mortgage-interest-rates-today/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
