@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Short seller Hindenburg shorts Carvana claiming the company&#39;s turnaround is a &quot;mirage&quot; that&#39;s being propped up by unstable loans and accounting manipulation &lpar;Michael Wayland/CNBC&rpar;](http://www.techmeme.com/250102/p18#a250102p18)
- - [These Nothing Earbuds Have Built-In ChatGPT Support and Now They&#39;re Down to a Record-Low](https://www.cnet.com/deals/these-nothing-earbuds-have-built-in-chatgpt-support-down-to-record-low/#ftag=CAD590a51e)
- - [Snag a Compact Keurig K-Express Brewer for a Record-Low $33 at Walmart](https://www.cnet.com/deals/keurig-k-express-essentials/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [&#39;Marvel Rivals&#39; players face 100-year ban for play on macOS](https://appleinsider.com/articles/25/01/02/marvel-rivals-players-face-100-year-ban-for-play-on-macos?utm_medium=rss)
+ - [Net neutrality eviscerated by appeals court ruling](https://www.theverge.com/2025/1/2/24334309/net-neutrality-struck-down-sixth-circuit-chevron-deference)
+ - [Email: NYC-based Level, which raised a $27M Series A in 2021 to help companies offer staff benefits, shuts down after an effort to sell the company fell through &lpar;The Information&rpar;](http://www.techmeme.com/250102/p19#a250102p19)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
