@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [British cops found a missing 13yr old girl in a house, naked and blind drunk, with 7 Pakistani men. THEY ARRESTED THE GIRL for being `Drunk &amp; Disorderly`.](http://9gag.com/gag/aBydwvD)
- - ⏩ [Its the right one...](http://9gag.com/gag/aD2Yx8O)
- - 👉 [10% food 90% tap water](http://9gag.com/gag/a4PoGgp)<!-- MEMES:END -->
+ - 💣 [Avid nerds start camping out at the Pitch Drop experiment to catch the tenth droplet. `Any day now, my dudes. Aaaaanyyyyy daaaaayyyyy nowwwww...`](http://9gag.com/gag/a2vKoNE)
+ - ⏩ [BREAKING: US Representative AOC found dead after suicide.](http://9gag.com/gag/awyZnp8)
+ - 👉 [Why wont he understand!](http://9gag.com/gag/abAvpyp)<!-- MEMES:END -->
 
 ---
 
