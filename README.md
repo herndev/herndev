@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Nintendo’s Switch 2: The big questions](https://www.polygon.com/nintendo/499754/switch-2-2025-release-preview)
- - [Where to buy the DC Versus Marvel: The Amalgam Age Omnibus](https://www.polygon.com/24214713/dc-versus-marvel-the-amalgam-age-omnibus-where-to-pre-order)
- - [G-Man&#39;s voice actor rings in the new year by dropping a cryptic tweet grenade promising &#39;unexpected surprises&#39; into the starving Half-Life 3 fanbase](https://www.pcgamer.com/games/fps/g-mans-voice-actor-rings-in-the-new-year-by-dropping-a-cryptic-tweet-grenade-promising-unexpected-surprises-into-the-starving-half-life-3-fanbase/)<!-- GAME:END -->
+ - [Helldivers 2 Dev Says &#39;Make Good Games,&#39; Not &#39;Contemporary Political Statements&#39;](https://kotaku.com/helldivers-2-sequel-dei-politics-woke-arrowhead-1851731175)
+ - [The Wonderful Wicked Movie Had Some Of Its Best Scenes Deleted](https://kotaku.com/wicked-movie-deleted-scenes-elphaba-glinda-boq-fiyero-1851731134)
+ - [Nintendo’s Switch 2: The big questions](https://www.polygon.com/nintendo/499754/switch-2-2025-release-preview)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
