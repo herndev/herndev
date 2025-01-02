@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Happy new year and let us rise A Cup to](http://9gag.com/gag/azx2j2B)
+ - 💣 [Downgrade](http://9gag.com/gag/agmoG3K)
  - ⏩ [British cops found a missing 13yr old girl in a house, naked and blind drunk, with 7 Pakistani men. THEY ARRESTED THE GIRL for being `Drunk &amp; Disorderly`.](http://9gag.com/gag/aBydwvD)
- - 👉 [No hurricane ever crossed the equator.](http://9gag.com/gag/aBydYXz)<!-- MEMES:END -->
+ - 👉 [What kind of a party was that?](http://9gag.com/gag/a7oqZBe)<!-- MEMES:END -->
 
 ---
 
