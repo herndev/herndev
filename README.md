@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [No title](http://9gag.com/gag/azx2AYq)
- - ⏩ [As someone that does the sex a lot](http://9gag.com/gag/adBPX7D)
- - 👉 [Why wont he understand!](http://9gag.com/gag/abAvpyp)<!-- MEMES:END -->
+ - 💣 [Go sport](http://9gag.com/gag/a7oqDnw)
+ - ⏩ [Why are some people so stupid?!](http://9gag.com/gag/abAvZYE)
+ - 👉 [Execution by cannon, Shiraz, Iran. 1890s.](http://9gag.com/gag/aW4GMvZ)<!-- MEMES:END -->
 
 ---
 
