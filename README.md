@@ -40,8 +40,8 @@
 
 <!-- TECH:START -->
  - [In 2024, warning calls about catastrophic AI risks were drowned out by the tech industry&#39;s promotion of a practical and prosperous vision of generative AI &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/250102/p6#a250102p6)
- - [It&#39;s Official: Boring Cities Are Bad for Your Health](https://www.wired.com/story/boring-cities-are-bad-for-your-health/)
- - [Top 10 AI Tools That Will Transform Your Content Creation in 2025](https://techncruncher.blogspot.com/2025/01/top-10-ai-tools-that-will-transform.html)<!-- TECH:END -->
+ - [Nolah Original 10&quot;: A Unique Mattress for Side Sleepers](https://www.cnet.com/health/sleep/nolah-original-10-mattress-review/#ftag=CAD590a51e)
+ - [Forget ChatGPT. AI-Driven Home Appliances Are Quietly Making a Big Splash](https://www.cnet.com/home/smart-home/forget-chatgpt-ai-driven-home-appliances-are-quietly-making-a-splash/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
