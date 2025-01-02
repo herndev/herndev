@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [White guys imitating Indians making street food.](http://9gag.com/gag/a1mPKqY)
- - ⏩ [Take a note 9gaggers&#39;s virgins selfclaimed womanizer](http://9gag.com/gag/aBydw5P)
- - 👉 [Its the right one...](http://9gag.com/gag/aD2Yx8O)<!-- MEMES:END -->
+ - 💣 [Kids admiring bike](http://9gag.com/gag/a7oqr0w)
+ - ⏩ [Why wont he understand!](http://9gag.com/gag/abAvpyp)
+ - 👉 [Impact of your childhood](http://9gag.com/gag/aqyeK5j)<!-- MEMES:END -->
 
 ---
 
