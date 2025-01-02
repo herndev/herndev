@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Former Age of Empires developer says the RTS genre&#39;s stuck in a rut: &#39;you&#39;re still playing the same game&#39;](https://www.pcgamer.com/games/rts/former-age-of-empires-developer-says-the-rts-genres-stuck-in-a-rut-youre-still-playing-the-same-game/)
  - [The most anticipated TTRPG books of 2025](https://www.polygon.com/gaming/499436/2025-ttrpg-preview)
- - [What is the Pokémon TCG Pocket meta right now?](https://www.polygon.com/pokemon-tcg-pocket-guides/480843/meta-best-decks-cards)
- - [The 44 most exciting science fiction and fantasy books for your 2025 reading list](https://www.polygon.com/lists/498449/new-books-science-fiction-fantasy-2025)<!-- GAME:END -->
+ - [What is the Pokémon TCG Pocket meta right now?](https://www.polygon.com/pokemon-tcg-pocket-guides/480843/meta-best-decks-cards)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
