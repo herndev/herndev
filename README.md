@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Eternal Strands, the physics-heavy RPG being headed by Dragon Age veteran Mike Laidlaw, will roll out a playable demo a week ahead of its full release](https://www.pcgamer.com/games/rpg/eternal-strands-the-physics-heavy-rpg-being-headed-by-dragon-age-veteran-mike-laidlaw-will-roll-out-a-playable-demo-a-week-ahead-of-its-full-release/)
- - [Drop Into the Game: Netflix’s Squid Game Comes to Call of Duty](https://www.callofduty.com/blog/2025/01/call-of-duty-black-ops-6-warzone-squid-game-event-bundles-announcement#new_tab)
- - [Infinity Nikki codes for January 2025](https://www.polygon.com/infinity-nikki-guides/490118/codes-list-redeem-diamonds-revelation-crystals)<!-- GAME:END -->
+ - [When is Squid Game coming to Black Ops 6?](https://www.polygon.com/black-ops-6-guides/500536/squid-game-release-date-bo6)
+ - [Someone apparently risked taking picture of GTA 6 inside Rockstar offices for worst leak of all time](https://www.polygon.com/gta-grand-theft-auto/503392/gta-6-leak-rockstar-games-dumb-grand-theft-auto)
+ - [Free COD: Black Ops 6 Crossover With Squid Game Locks Best Rewards Behind A Paywall](https://kotaku.com/cod-black-ops-6-squid-game-free-battle-pass-skins-1851731453)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
