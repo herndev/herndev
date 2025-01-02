@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [In 2024, warning calls about catastrophic AI risks were drowned out by the tech industry&#39;s promotion of a practical and prosperous vision of generative AI &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/250102/p6#a250102p6)
- - [Nolah Original 10&quot;: A Unique Mattress for Side Sleepers](https://www.cnet.com/health/sleep/nolah-original-10-mattress-review/#ftag=CAD590a51e)
- - [Forget ChatGPT. AI-Driven Home Appliances Are Quietly Making a Big Splash](https://www.cnet.com/home/smart-home/forget-chatgpt-ai-driven-home-appliances-are-quietly-making-a-splash/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Rembrand, which offers AI tools to add product placements in social media videos, raised a $23M Series A and plans to expand to CTV content and add a free tier &lpar;Kerry Flynn/Axios&rpar;](http://www.techmeme.com/250102/p7#a250102p7)
+ - [A Rodent Researcher Told Us How to Keep Mice Away This Winter](https://www.cnet.com/how-to/a-rodent-researcher-told-us-how-to-keep-mice-away-this-winter/#ftag=CAD590a51e)
+ - [iOS 18: Here&#39;s What You Need to Know About RCS Messaging on iPhone](https://www.cnet.com/tech/services-and-software/ios-18-heres-what-you-need-to-know-about-rcs-messaging-on-iphone/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
