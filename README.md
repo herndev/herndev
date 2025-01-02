@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Top 10 AI Tools That Will Transform Your Content Creation in 2025](https://techncruncher.blogspot.com/2025/01/top-10-ai-tools-that-will-transform.html)
- - [Transforming the Moon Into Humanity’s First Space Hub](https://www.wired.com/story/moon-humanity-industrial-space-hub/)
- - [Fintech themes to watch in 2025: relaxed regulation in the second Trump administration, more IPOs, M&amp;A, and VC deal activity, and the expansion of stablecoins &lpar;Emily Mason/Bloomberg&rpar;](http://www.techmeme.com/250102/p5#a250102p5)<!-- TECH:END -->
+ - [In 2024, warning calls about catastrophic AI risks were drowned out by the tech industry&#39;s promotion of a practical and prosperous vision of generative AI &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/250102/p6#a250102p6)
+ - [It&#39;s Official: Boring Cities Are Bad for Your Health](https://www.wired.com/story/boring-cities-are-bad-for-your-health/)
+ - [Top 10 AI Tools That Will Transform Your Content Creation in 2025](https://techncruncher.blogspot.com/2025/01/top-10-ai-tools-that-will-transform.html)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
