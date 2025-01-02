@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta appoints new Trump-friendly policy chief](https://www.theverge.com/2025/1/2/24334432/meta-trump-friendly-policy-chief-joel-kaplan-nick-clegg)
- - [The best deals on MacBooks right now](https://www.theverge.com/22399419/apple-macbook-air-pro-mac-mini-imac-deals)
- - [Spotify debuts a Partner Program in the US, the UK, Canada, and Australia, letting popular podcast hosts monetize video content, after announcing it in November &lpar;Lauren Forristal/TechCrunch&rpar;](http://www.techmeme.com/250102/p20#a250102p20)<!-- TECH:END -->
+ - [Sources: China-backed hackers accessed the computers of senior US Treasury officials; the department&#39;s email system and classified data were not breached &lpar;Bloomberg&rpar;](http://www.techmeme.com/250102/p22#a250102p22)
+ - [The best Nintendo Switch controllers to buy right now](https://www.theverge.com/23350899/nintendo-switch-controllers-best-wireless-joy-con-gamepad)
+ - [Hot deal: Get an Amazon Echo Dot and Echo Buds for just $44.99](https://www.androidauthority.com/amazon-echo-dot-echo-buds-deal-3512532/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
