@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Xbox Series X|S – Every Console Option Available Now](https://news.xbox.com/en-us/2024/11/15/xbox-series-xs-every-console-option-available-now/#new_tab)
  - [Today&#39;s Wordle answer for Thursday, January 2](https://www.pcgamer.com/games/puzzle/wordle-answer-today-january-2-2025/)
- - [Skyblivion only has one region of the map left to finish: &#39;We are nearly ready to release an entirely remastered Elder Scrolls game&#39;](https://www.pcgamer.com/games/rpg/skyblivion-only-has-one-region-of-the-map-left-to-finish-we-are-nearly-ready-to-release-an-entirely-remastered-elder-scrolls-game/)
- - [Former Age of Empires developer says the RTS genre&#39;s stuck in a rut: &#39;you&#39;re still playing the same game&#39;](https://www.pcgamer.com/games/rts/former-age-of-empires-developer-says-the-rts-genres-stuck-in-a-rut-youre-still-playing-the-same-game/)<!-- GAME:END -->
+ - [Skyblivion only has one region of the map left to finish: &#39;We are nearly ready to release an entirely remastered Elder Scrolls game&#39;](https://www.pcgamer.com/games/rpg/skyblivion-only-has-one-region-of-the-map-left-to-finish-we-are-nearly-ready-to-release-an-entirely-remastered-elder-scrolls-game/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
