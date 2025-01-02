@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [January&#39;s Free PS Plus Games Include One Of 2024&#39;s Biggest Flops](https://kotaku.com/ps-plus-free-games-january-2025-ps5-suicide-squad-1851731071)
- - [What is the Fortnite Crew Pack skin for January 2025?](https://www.polygon.com/fortnite-guide/23941614/fortnite-crew-pack-skin)
- - [PUBG creator Brendan Greene swears his infinite, mega-ambitious digital universe isn&#39;t like all the others: &#39;I want to build a metaverse because I don&#39;t think anyone else is&#39;](https://www.pcgamer.com/games/pubg-creator-brendan-greene-swears-his-infinite-mega-ambitious-digital-universe-isnt-like-all-the-others-i-want-to-build-a-metaverse-because-i-dont-think-anyone-else-is/)<!-- GAME:END -->
+ - [Nintendo’s Switch 2: The big questions](https://www.polygon.com/nintendo/499754/switch-2-2025-release-preview)
+ - [Where to buy the DC Versus Marvel: The Amalgam Age Omnibus](https://www.polygon.com/24214713/dc-versus-marvel-the-amalgam-age-omnibus-where-to-pre-order)
+ - [G-Man&#39;s voice actor rings in the new year by dropping a cryptic tweet grenade promising &#39;unexpected surprises&#39; into the starving Half-Life 3 fanbase](https://www.pcgamer.com/games/fps/g-mans-voice-actor-rings-in-the-new-year-by-dropping-a-cryptic-tweet-grenade-promising-unexpected-surprises-into-the-starving-half-life-3-fanbase/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
