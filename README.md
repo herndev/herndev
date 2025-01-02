@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A US appeals court rules the FCC did not have legal authority to reinstate net neutrality rules; incoming FCC chair Brendan Carr opposed the 2024 reinstatement &lpar;David Shepardson/Reuters&rpar;](http://www.techmeme.com/250102/p17#a250102p17)
- - [Sources: Meta is overhauling its global policy team, replacing President Nick Clegg with Joel Kaplan, his deputy and the company&#39;s most prominent Republican &lpar;Semafor&rpar;](http://www.techmeme.com/250102/p16#a250102p16)
- - [Apple will pay $95 million to people who were spied on by Siri](https://www.theverge.com/2025/1/2/24334268/apple-siri-recording-privacy-lawsuit-settlement-proposed)<!-- TECH:END -->
+ - [Short seller Hindenburg shorts Carvana claiming the company&#39;s turnaround is a &quot;mirage&quot; that&#39;s being propped up by unstable loans and accounting manipulation &lpar;Michael Wayland/CNBC&rpar;](http://www.techmeme.com/250102/p18#a250102p18)
+ - [These Nothing Earbuds Have Built-In ChatGPT Support and Now They&#39;re Down to a Record-Low](https://www.cnet.com/deals/these-nothing-earbuds-have-built-in-chatgpt-support-down-to-record-low/#ftag=CAD590a51e)
+ - [Snag a Compact Keurig K-Express Brewer for a Record-Low $33 at Walmart](https://www.cnet.com/deals/keurig-k-express-essentials/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
