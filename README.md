@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Happy new year and let us rise A Cup to](http://9gag.com/gag/azx2j2B)
- - ⏩ [British cops found a missing 13yr old girl in a house, naked and blind drunk, with 7 Pakistani men. THEY ARRESTED THE GIRL for being `Drunk &amp; Disorderly`.](http://9gag.com/gag/aBydwvD)
- - 👉 [Uh, no.](http://9gag.com/gag/aoyK9Ym)<!-- MEMES:END -->
+ - 💣 [As someone that does the sex a lot](http://9gag.com/gag/adBPX7D)
+ - ⏩ [Like every time. Even at their children&#39;s birthday parties when they&#39;re driving later.](http://9gag.com/gag/aKGE2QO)
+ - 👉 [What was that?](http://9gag.com/gag/avyQnzX)<!-- MEMES:END -->
 
 ---
 
