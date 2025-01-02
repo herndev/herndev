@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [What kind of a party was that?](http://9gag.com/gag/a7oqZBe)
- - ⏩ [What was that?](http://9gag.com/gag/avyQnzX)
+ - 💣 [Happy new year and let us rise A Cup to](http://9gag.com/gag/azx2j2B)
+ - ⏩ [British cops found a missing 13yr old girl in a house, naked and blind drunk, with 7 Pakistani men. THEY ARRESTED THE GIRL for being `Drunk &amp; Disorderly`.](http://9gag.com/gag/aBydwvD)
  - 👉 [Uh, no.](http://9gag.com/gag/aoyK9Ym)<!-- MEMES:END -->
 
 ---
