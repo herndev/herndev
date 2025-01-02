@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [One Of Sonic 3’s Biggest Game References Is Hidden In Plain Sight &lpar;And Fans Are Split On It&rpar;](https://kotaku.com/sonic-hedgehog-3-biolizard-reference-shadow-maria-movie-1851731278)
- - [Thanks to Doom, I can finally solve captcha prompts without wanting to spoon my eyeballs out and wander into the wilderness](https://www.pcgamer.com/software/thanks-to-doom-i-can-finally-solve-captcha-prompts-without-wanting-to-spoon-my-eyeballs-out-and-wander-into-the-wilderness/)
- - [&#39;Lunatic&#39; crypto fugitive Do Kwon finally extradited from Montenegro to the US to face charges over $40 billion crash](https://www.pcgamer.com/gaming-industry/lunatic-crypto-fugitive-do-kwon-finally-extradited-from-montenegro-to-the-us-to-face-charges-over-usd40-billion-crash/)<!-- GAME:END -->
+ - [Eternal Strands, the physics-heavy RPG being headed by Dragon Age veteran Mike Laidlaw, will roll out a playable demo a week ahead of its full release](https://www.pcgamer.com/games/rpg/eternal-strands-the-physics-heavy-rpg-being-headed-by-dragon-age-veteran-mike-laidlaw-will-roll-out-a-playable-demo-a-week-ahead-of-its-full-release/)
+ - [Drop Into the Game: Netflix’s Squid Game Comes to Call of Duty](https://www.callofduty.com/blog/2025/01/call-of-duty-black-ops-6-warzone-squid-game-event-bundles-announcement#new_tab)
+ - [Infinity Nikki codes for January 2025](https://www.polygon.com/infinity-nikki-guides/490118/codes-list-redeem-diamonds-revelation-crystals)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
