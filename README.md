@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Every Marvel movie and TV release set for 2025 and beyond](https://www.polygon.com/21452835/new-marvel-movies-come-out-release-schedule)
- - [Fantasy author John Wiswell explains the ‘Tetris method’ that can keep you productive in 2025](https://www.polygon.com/books/503383/writing-tips-tricks-beating-writers-block-john-wiswell-interview)
- - [Genshin Impact codes for January 2025](https://www.polygon.com/genshin-impact-guides/479183/codes-redeem-redemption-gift-primogems)<!-- GAME:END -->
+ - [Can’t find a tabletop gaming group? Try the solo version instead](https://www.polygon.com/tabletop-games/503622/solo-ttrpg-tabletop-role-playing-games-no-group)
+ - [Net neutrality is dead again: US court says the FCC can&#39;t bring back Obama-era internet regulations](https://www.pcgamer.com/gaming-industry/net-neutrality-is-dead-again-us-court-says-the-fcc-cant-bring-back-obama-era-internet-regulations/)
+ - [This gorgeous, 592-page Metaphor: ReFantazio strategy guide is up for pre-order](https://www.polygon.com/pre-order/503585/metaphor-refantazio-strategy-guide-future-press-where-to-buy)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
