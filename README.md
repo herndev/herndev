@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [What kind of a party was that?](http://9gag.com/gag/a7oqZBe)
- - ⏩ [A reason for Korean martial law 2024](http://9gag.com/gag/aD2YGWB)
- - 👉 [No hurricane ever crossed the equator.](http://9gag.com/gag/aBydYXz)<!-- MEMES:END -->
+ - 💣 [Execution by cannon, Shiraz, Iran. 1890s.](http://9gag.com/gag/aW4GMvZ)
+ - ⏩ [Uh, no.](http://9gag.com/gag/aoyK9Ym)
+ - 👉 [A reason for Korean martial law 2024](http://9gag.com/gag/aD2YGWB)<!-- MEMES:END -->
 
 ---
 
