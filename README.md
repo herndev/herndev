@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple updates AirTag warnings to comply with safety standards](https://appleinsider.com/articles/25/01/02/apple-updates-airtag-warnings-to-comply-with-safety-standards?utm_medium=rss)
- - [Apple agrees to $95M settlement to end privacy lawsuit over Siri recordings](https://appleinsider.com/articles/25/01/02/apple-agrees-to-95m-settlement-to-end-privacy-lawsuit-over-siri-recordings?utm_medium=rss)
- - [Microsoft’s mini AI PCs are on the way](https://www.theverge.com/2025/1/2/24334251/microsoft-copilot-plus-mini-pcs-ces-2025-notepad)<!-- TECH:END -->
+ - [A US appeals court rules the FCC did not have legal authority to reinstate net neutrality rules; incoming FCC chair Brendan Carr opposed the 2024 reinstatement &lpar;David Shepardson/Reuters&rpar;](http://www.techmeme.com/250102/p17#a250102p17)
+ - [Sources: Meta is overhauling its global policy team, replacing President Nick Clegg with Joel Kaplan, his deputy and the company&#39;s most prominent Republican &lpar;Semafor&rpar;](http://www.techmeme.com/250102/p16#a250102p16)
+ - [Apple will pay $95 million to people who were spied on by Siri](https://www.theverge.com/2025/1/2/24334268/apple-siri-recording-privacy-lawsuit-settlement-proposed)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
