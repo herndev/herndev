@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Why are some people so stupid?!](http://9gag.com/gag/abAvZYE)
- - ⏩ [Why wont he understand!](http://9gag.com/gag/abAvpyp)
- - 👉 [A reason for Korean martial law 2024](http://9gag.com/gag/aD2YGWB)<!-- MEMES:END -->
+ - 💣 [Why wont he understand!](http://9gag.com/gag/abAvpyp)
+ - ⏩ [Height marks on the wall](http://9gag.com/gag/a4PoZQv)
+ - 👉 [Ponytail blade](http://9gag.com/gag/a9yqrrZ)<!-- MEMES:END -->
 
 ---
 
