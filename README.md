@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Rembrand, which offers AI tools to add product placements in social media videos, raised a $23M Series A and plans to expand to CTV content and add a free tier &lpar;Kerry Flynn/Axios&rpar;](http://www.techmeme.com/250102/p7#a250102p7)
- - [A Rodent Researcher Told Us How to Keep Mice Away This Winter](https://www.cnet.com/how-to/a-rodent-researcher-told-us-how-to-keep-mice-away-this-winter/#ftag=CAD590a51e)
- - [iOS 18: Here&#39;s What You Need to Know About RCS Messaging on iPhone](https://www.cnet.com/tech/services-and-software/ios-18-heres-what-you-need-to-know-about-rcs-messaging-on-iphone/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Asus, Samsung, and MSI separately unveil the world&#39;s first 27-inch QD-OLED gaming monitors, offering 4K OLED at 240Hz, without giving release dates or pricing &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/250102/p9#a250102p9)
+ - [I Tried to Build a Website Using AI in 3 Hours -- and It Only Took 30 Minutes](https://www.cnet.com/tech/services-and-software/i-tried-to-build-a-website-using-ai-in-3-hours-and-it-only-took-30-minutes/#ftag=CAD590a51e)
+ - [While the crypto industry anticipates lighter regulation and wider adoption under Trump, some critics worry about systemic risks, particularly from stablecoins &lpar;Financial Times&rpar;](http://www.techmeme.com/250102/p8#a250102p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
