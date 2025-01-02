@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Why wont he understand!](http://9gag.com/gag/abAvpyp)
- - ⏩ [Height marks on the wall](http://9gag.com/gag/a4PoZQv)
- - 👉 [Ponytail blade](http://9gag.com/gag/a9yqrrZ)<!-- MEMES:END -->
+ - 💣 [Same...](http://9gag.com/gag/aKGEjnO)
+ - ⏩ [Upvote Hypnobutt to have great luck in year 2025](http://9gag.com/gag/ayN2LmV)
+ - 👉 [An ancient prophecy has just come true](http://9gag.com/gag/aQzE32z)<!-- MEMES:END -->
 
 ---
 
