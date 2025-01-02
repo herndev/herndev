@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [What kind of a party was that?](http://9gag.com/gag/a7oqZBe)
+ - 💣 [The start of Marvel Avengers](http://9gag.com/gag/aXPnqwD)
  - ⏩ [Its average nowadays](http://9gag.com/gag/azx2Xbq)
- - 👉 [Best fight ever \u2026](http://9gag.com/gag/aByd8Xz)<!-- MEMES:END -->
+ - 👉 [Why are some people so stupid?!](http://9gag.com/gag/abAvZYE)<!-- MEMES:END -->
 
 ---
 
