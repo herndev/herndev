@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Xbox Game Pass: Swing Into Action With Indiana Jones Now, More Games Soon](https://www.cnet.com/tech/gaming/xbox-game-pass-swing-into-action-with-indiana-jones-now-more-games-soon/#ftag=CAD590a51e)
- - [Compare Current Refinance Rates in January 2025](https://www.cnet.com/personal-finance/refinance-interest-rates-today/#ftag=CAD590a51e)
- - [Compare Current Mortgage Rates in January 2025](https://www.cnet.com/personal-finance/mortgage-interest-rates-today/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple to pay $95M to settle a lawsuit claiming Apple recorded private conversations when Siri was unintentionally activated and shared the data with advertisers &lpar;Jonathan Stempel/Reuters&rpar;](http://www.techmeme.com/250102/p12#a250102p12)
+ - [What&#39;s best to watch on Apple TV+ during the upcoming free weekend](https://appleinsider.com/articles/24/12/30/whats-best-to-watch-on-apple-tv-during-the-upcoming-free-weekend?utm_medium=rss)
+ - [Telegram adds third-party verification to combat scams](https://www.theverge.com/2025/1/2/24334132/telegram-third-party-verification-combat-scams)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
