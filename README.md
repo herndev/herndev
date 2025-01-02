@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Kids admiring bike](http://9gag.com/gag/a7oqr0w)
- - ⏩ [Why wont he understand!](http://9gag.com/gag/abAvpyp)
- - 👉 [Impact of your childhood](http://9gag.com/gag/aqyeK5j)<!-- MEMES:END -->
+ - 💣 [British cops found a missing 13yr old girl in a house, naked and blind drunk, with 7 Pakistani men. THEY ARRESTED THE GIRL for being `Drunk &amp; Disorderly`.](http://9gag.com/gag/aBydwvD)
+ - ⏩ [Its the right one...](http://9gag.com/gag/aD2Yx8O)
+ - 👉 [10% food 90% tap water](http://9gag.com/gag/a4PoGgp)<!-- MEMES:END -->
 
 ---
 
