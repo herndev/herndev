@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [As someone that does the sex a lot](http://9gag.com/gag/adBPX7D)
- - ⏩ [Like every time. Even at their children&#39;s birthday parties when they&#39;re driving later.](http://9gag.com/gag/aKGE2QO)
- - 👉 [What was that?](http://9gag.com/gag/avyQnzX)<!-- MEMES:END -->
+ - 💣 [That&#39;s so cute](http://9gag.com/gag/avyQ7Yq)
+ - ⏩ [Gf didn&#39;t have time to buy me a present](http://9gag.com/gag/aAy0dY2)
+ - 👉 [To me these bastards lied](http://9gag.com/gag/aBydWAx)<!-- MEMES:END -->
 
 ---
 
