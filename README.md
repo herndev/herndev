@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Skyblivion only has one region of the map left to finish: &#39;We are nearly ready to release an entirely remastered Elder Scrolls game&#39;](https://www.pcgamer.com/games/rpg/skyblivion-only-has-one-region-of-the-map-left-to-finish-we-are-nearly-ready-to-release-an-entirely-remastered-elder-scrolls-game/)
  - [Former Age of Empires developer says the RTS genre&#39;s stuck in a rut: &#39;you&#39;re still playing the same game&#39;](https://www.pcgamer.com/games/rts/former-age-of-empires-developer-says-the-rts-genres-stuck-in-a-rut-youre-still-playing-the-same-game/)
- - [The most anticipated TTRPG books of 2025](https://www.polygon.com/gaming/499436/2025-ttrpg-preview)
- - [What is the Pokémon TCG Pocket meta right now?](https://www.polygon.com/pokemon-tcg-pocket-guides/480843/meta-best-decks-cards)<!-- GAME:END -->
+ - [The most anticipated TTRPG books of 2025](https://www.polygon.com/gaming/499436/2025-ttrpg-preview)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
