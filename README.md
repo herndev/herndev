@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Downgrade](http://9gag.com/gag/agmoG3K)
+ - 💣 [Why wont he understand!](http://9gag.com/gag/abAvpyp)
  - ⏩ [British cops found a missing 13yr old girl in a house, naked and blind drunk, with 7 Pakistani men. THEY ARRESTED THE GIRL for being `Drunk &amp; Disorderly`.](http://9gag.com/gag/aBydwvD)
- - 👉 [What kind of a party was that?](http://9gag.com/gag/a7oqZBe)<!-- MEMES:END -->
+ - 👉 [A reason for Korean martial law 2024](http://9gag.com/gag/aD2YGWB)<!-- MEMES:END -->
 
 ---
 
