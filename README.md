@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Downgrade](http://9gag.com/gag/agmoG3K)
- - ⏩ [Not only was she unable to make new memories but she constantly woke up thinking it was the 11th of June, 2019, the day of her injury.](http://9gag.com/gag/azx2jYz)
- - 👉 [What kind of a party was that?](http://9gag.com/gag/a7oqZBe)<!-- MEMES:END -->
+ - 💣 [What kind of a party was that?](http://9gag.com/gag/a7oqZBe)
+ - ⏩ [A reason for Korean martial law 2024](http://9gag.com/gag/aD2YGWB)
+ - 👉 [No hurricane ever crossed the equator.](http://9gag.com/gag/aBydYXz)<!-- MEMES:END -->
 
 ---
 
