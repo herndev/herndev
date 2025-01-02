@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Helldivers 2 Dev Says &#39;Make Good Games,&#39; Not &#39;Contemporary Political Statements&#39;](https://kotaku.com/helldivers-2-sequel-dei-politics-woke-arrowhead-1851731175)
- - [The Wonderful Wicked Movie Had Some Of Its Best Scenes Deleted](https://kotaku.com/wicked-movie-deleted-scenes-elphaba-glinda-boq-fiyero-1851731134)
- - [Nintendo’s Switch 2: The big questions](https://www.polygon.com/nintendo/499754/switch-2-2025-release-preview)<!-- GAME:END -->
+ - [One Of Sonic 3’s Biggest Game References Is Hidden In Plain Sight &lpar;And Fans Are Split On It&rpar;](https://kotaku.com/sonic-hedgehog-3-biolizard-reference-shadow-maria-movie-1851731278)
+ - [Thanks to Doom, I can finally solve captcha prompts without wanting to spoon my eyeballs out and wander into the wilderness](https://www.pcgamer.com/software/thanks-to-doom-i-can-finally-solve-captcha-prompts-without-wanting-to-spoon-my-eyeballs-out-and-wander-into-the-wilderness/)
+ - [&#39;Lunatic&#39; crypto fugitive Do Kwon finally extradited from Montenegro to the US to face charges over $40 billion crash](https://www.pcgamer.com/gaming-industry/lunatic-crypto-fugitive-do-kwon-finally-extradited-from-montenegro-to-the-us-to-face-charges-over-usd40-billion-crash/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
