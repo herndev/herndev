@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [18 indie games to look forward to in 2025](https://www.polygon.com/gaming/468754/best-new-indie-games-2025-release-calendar-schedule)
  - [Twitter is dead, X is a cesspit, let&#39;s make 2025 the year of the message board](https://www.pcgamer.com/gaming-industry/twitter-is-dead-x-is-a-cesspit-lets-make-2025-the-year-of-the-message-board/)
- - [A debloating wizard has managed to get Windows 11 running on just 184 MB of RAM, and it looks like it can actually run apps](https://www.pcgamer.com/software/windows/a-debloating-wizard-has-managed-to-get-windows-11-running-on-just-184-mb-of-ram-and-it-looks-like-it-can-actually-run-apps/)
- - [Xbox Series X|S – Every Console Option Available Now](https://news.xbox.com/en-us/2024/11/15/xbox-series-xs-every-console-option-available-now/#new_tab)<!-- GAME:END -->
+ - [A debloating wizard has managed to get Windows 11 running on just 184 MB of RAM, and it looks like it can actually run apps](https://www.pcgamer.com/software/windows/a-debloating-wizard-has-managed-to-get-windows-11-running-on-just-184-mb-of-ram-and-it-looks-like-it-can-actually-run-apps/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
