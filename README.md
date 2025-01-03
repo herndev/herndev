@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [One UI 7 to deliver speedy fingerprint unlock for Galaxy S24 users](https://www.androidauthority.com/samsung-galaxy-s24-fingerprint-unlock-update-one-ui-7-3512556/)
- - [6 of the Best Pull-Up Bars for Your Home Gym in 2025](https://www.cnet.com/health/fitness/best-pull-up-bars/#ftag=CAD590a51e)
- - [Sources: Apple and Google removed over six VPN apps, including Cloudflare&#39;s 1.1.1.1, from their Indian app stores after the government issued removal orders &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/250103/p1#a250103p1)<!-- TECH:END -->
+ - [Apple AirTags now come with a new, very important warning label](https://www.androidauthority.com/apple-airtag-new-warning-label-3512568/)
+ - [China plans to extend its national consumer subsidies to smartphone, tablet, and smartwatch purchases to boost domestic spending as external headwinds pick up &lpar;Bloomberg&rpar;](http://www.techmeme.com/250103/p2#a250103p2)
+ - [One UI 7 to deliver speedy fingerprint unlock for Galaxy S24 users](https://www.androidauthority.com/samsung-galaxy-s24-fingerprint-unlock-update-one-ui-7-3512556/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
