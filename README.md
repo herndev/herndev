@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [First time i see trash on the streets of Japan, any theories?](http://9gag.com/gag/aPAgYgP)
- - ⏩ [Cybertruck explodes in Las Vegas, NV - January 1, 2025](http://9gag.com/gag/arym5yy)
- - 👉 [Car insurance companies are like, `so, what route do you take every day?`](http://9gag.com/gag/aRBE00q)<!-- MEMES:END -->
+ - 💣 [Lord Gaben is indeed a Generous God](http://9gag.com/gag/aGyEjLK)
+ - ⏩ [Tolkien&#39;s roommate](http://9gag.com/gag/aBydg0D)
+ - 👉 [The power of water !](http://9gag.com/gag/arym577)<!-- MEMES:END -->
 
 ---
 
