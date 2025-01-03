@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Dive headfirst into Monster Hunter for just $10](https://www.polygon.com/good-deals/503755/monster-hunter-rise-world-bundle-fanatical-sale)
- - [This Fan-Made Sonic Game Looks Just As Good As The Real Thing, And You Can Play It Right Now](https://kotaku.com/sonic-galactic-demo-download-tails-knuckles-fang-tunnel-1851732205)
- - [Judas ‘more reflective of player agency’ than BioShock, Ken Levine says](https://www.polygon.com/news/503770/judas-bioshock-infinite-ken-levine-irrational-games-ghost-story-player-agency-story)<!-- GAME:END -->
+ - [Neon White helped me realize that I love drum and bass music](https://www.polygon.com/opinion/503757/neon-white-drum-and-bass-music-appreciation)
+ - [Dungeons &amp;#038; Dragons gets an amazing pinball machine with Critical Role, Star Trek voice actors](https://www.polygon.com/gaming/503754/dnd-dungeons-dragons-pinball-stern-release-date-price)
+ - [BioShock Creator Laments It Was Just A &#39;Corridor,&#39; But Corridors Have Given Us Some Of The Best Games Ever](https://kotaku.com/ken-levine-bioshock-corridor-games-design-1851732250)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
