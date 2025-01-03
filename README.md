@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Get Shenmue, Ori, Condemned, and 5 other AGDQ games for $12 at Humble](https://www.polygon.com/good-deals/503953/agdq-2025-humble-bundle-shenmue-ori-condemned)
- - [Antonblast turns a profit in less than a month, director says sequel in the cards](https://www.polygon.com/news/503920/antonblast-profitable-sequel-summitsphere-wario-land)
- - [This New Dungeons &amp; Dragons Pinball Machine Will Send You On An Epic Adventure For Just $7,000](https://kotaku.com/dungeons-dragons-stern-pinball-critical-role-cast-d-d-1851732256)<!-- GAME:END -->
+ - [Starfinder Second Edition breaks through in a crowded year of releases](https://www.polygon.com/tabletop-games/503984/starfinder-second-edition-cover-reveal-interview)
+ - [Don&#39;t Sleep On 2024&#39;s Most Underrated Tactics RPG](https://kotaku.com/steamworld-heist-ii-review-rpg-final-fantasy-tactics-1851732402)
+ - [Get Shenmue, Ori, Condemned, and 5 other AGDQ games for $12 at Humble](https://www.polygon.com/good-deals/503953/agdq-2025-humble-bundle-shenmue-ori-condemned)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
