@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Lord Gaben is indeed a Generous God](http://9gag.com/gag/aGyEjLK)
- - ⏩ [Tolkien&#39;s roommate](http://9gag.com/gag/aBydg0D)
- - 👉 [The power of water !](http://9gag.com/gag/arym577)<!-- MEMES:END -->
+ - 💣 [They did exactly what they should have done](http://9gag.com/gag/aBydgmx)
+ - ⏩ [They&#39;re Trying to Pull a Fast One on Her](http://9gag.com/gag/aKGE7GZ)
+ - 👉 [Installing bathroom tiles](http://9gag.com/gag/aW4GxGx)<!-- MEMES:END -->
 
 ---
 
