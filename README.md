@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Answering your questions about AI, smart glasses, TikTok, and more](https://www.theverge.com/2025/1/3/24333045/command-line-reader-mailbag-issue-2025)
- - [Android is making it easier to connect a hearing aid to your phone &lpar;APK teardown&rpar;](https://www.androidauthority.com/fast-pair-hearing-aid-3512718/)
- - [Meta says the viral AI profiles on Facebook and Instagram were created in 2023 as part of &quot;an early experiment&quot; with AI characters, and it is deleting them &lpar;Jason Koebler/404 Media&rpar;](http://www.techmeme.com/250103/p14#a250103p14)<!-- TECH:END -->
+ - [Yet another company makes flashing custom ROMs more restrictive](https://www.androidauthority.com/unlock-xiaomi-bootloader-3512790/)
+ - [The best wireless earbuds to buy right now](https://www.theverge.com/21309820/best-wireless-earbuds)
+ - [Ford is extending its free at-home EV charging promotion](https://www.theverge.com/2025/1/3/24335123/ford-power-promise-2025-free-ev-charger-extension)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
