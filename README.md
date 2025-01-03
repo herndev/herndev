@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Go sport](http://9gag.com/gag/a7oqDnw)
- - ⏩ [Just wanted to show you my favourite nutcracker. The back in comments.](http://9gag.com/gag/awyZXqW)
+ - 💣 [Please take me home](http://9gag.com/gag/axyogrD)
+ - ⏩ [The power of water !](http://9gag.com/gag/arym577)
  - 👉 [It&#39;s OK!!](http://9gag.com/gag/an7zMob)<!-- MEMES:END -->
 
 ---
