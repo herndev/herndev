@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: China-backed hackers accessed the computers of senior US Treasury officials; the department&#39;s email system and classified data were not breached &lpar;Bloomberg&rpar;](http://www.techmeme.com/250102/p22#a250102p22)
- - [The best Nintendo Switch controllers to buy right now](https://www.theverge.com/23350899/nintendo-switch-controllers-best-wireless-joy-con-gamepad)
- - [Hot deal: Get an Amazon Echo Dot and Echo Buds for just $44.99](https://www.androidauthority.com/amazon-echo-dot-echo-buds-deal-3512532/)<!-- TECH:END -->
+ - [Amazon drops Apple&#39;s M4 16-inch MacBook Pro to $2,249 in latest sale](https://appleinsider.com/articles/25/01/02/amazon-drops-apples-m4-16-inch-macbook-pro-to-2249-in-latest-sale?utm_medium=rss)
+ - [Terraform Labs co-founder Do Kwon pleads not guilty before a US federal judge in New York to nine counts, including wire fraud, over the $40B TerraUSD collapse &lpar;Bob Van Voris/Bloomberg&rpar;](http://www.techmeme.com/250102/p23#a250102p23)
+ - [Hyundai and Kia now qualify for the federal EV tax credit](https://www.theverge.com/2025/1/2/24334471/hyundai-kia-genesis-federal-ev-tax-credit-2025-trump)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
