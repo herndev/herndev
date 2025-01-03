@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Yet another company makes flashing custom ROMs more restrictive](https://www.androidauthority.com/unlock-xiaomi-bootloader-3512790/)
- - [The best wireless earbuds to buy right now](https://www.theverge.com/21309820/best-wireless-earbuds)
- - [Ford is extending its free at-home EV charging promotion](https://www.theverge.com/2025/1/3/24335123/ford-power-promise-2025-free-ev-charger-extension)<!-- TECH:END -->
+ - [OnePlus clears up all ambiguity surrounding the OnePlus 13’s water resistance rating](https://www.androidauthority.com/oneplus-13-waterproofing-3512794/)
+ - [Samsung and Google’s new spatial audio format will take on Dolby Atmos this year](https://www.theverge.com/2025/1/3/24335170/samsung-google-eclipsa-spatial-audio-format-2025-tvs)
+ - [Visible is owned by Verizon and costs less, but is it worth it worth the savings? Here’s my take](https://www.androidauthority.com/visible-vs-verizon-review-3512423/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
