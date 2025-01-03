@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tass: a Russian court ordered Yandex to hide access to maps and photos of a Russian oil refinery from search results due to repeated attacks by Ukrainian drones &lpar;Alexander Marrow/Reuters&rpar;](http://www.techmeme.com/250103/p4#a250103p4)
- - [The Minute You Install iOS 18.2, Change These 8 iPhone Settings](https://www.cnet.com/tech/services-and-software/the-minute-you-install-ios-18-2-change-these-8-iphone-settings/#ftag=CAD590a51e)
- - [A look at the Texas Responsible AI Governance Act, which was formally introduced in Texas legislature and has very broad negligence liability for developers &lpar;Dean W. Ball/Hyperdimensional&rpar;](http://www.techmeme.com/250103/p3#a250103p3)<!-- TECH:END -->
+ - [Facebook and Instagram Ads Push Gun Silencers Disguised as Car Parts](https://www.wired.com/story/fuel-filter-gun-silencer-ads-facebook-instagram/)
+ - [A successor to the world’s first triple-screen foldable could already be in the works](https://www.androidauthority.com/huawei-mate-xts-leak-3512616/)
+ - [Anthropic reaches deal with music publishers over lyric dispute](https://www.theverge.com/2025/1/3/24334866/anthropic-claude-music-publishers-lyric-copyright-lawsuit-deal)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
