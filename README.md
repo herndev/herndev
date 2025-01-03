@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [There&#39;s an AI Overhaul Happening in Your Home, but You Might Not Notice It](https://www.cnet.com/home/smart-home/theres-an-ai-overhaul-happening-in-your-home-but-you-might-not-notice-it/#ftag=CAD590a51e)
- - [Time for iOS 18.3? When to Expect the Next iPhone Update](https://www.cnet.com/tech/services-and-software/time-for-ios-18-3-when-to-expect-the-next-iphone-update/#ftag=CAD590a51e)
- - [Influencer marketing company Later acquires Mavely, which pays commissions to social-media creators for the sales they generate, for $250M in cash and stock &lpar;Katie Deighton/Wall Street Journal&rpar;](http://www.techmeme.com/250103/p7#a250103p7)<!-- TECH:END -->
+ - [Grab the iPad 10th Gen for just $279 at Amazon this weekend](https://appleinsider.com/articles/25/01/03/grab-the-ipad-10th-gen-for-just-279-at-amazon-this-weekend?utm_medium=rss)
+ - [Californians Say X Blocked Them From Viewing Amber Alert About Missing 14-Year-Old](https://www.wired.com/story/amber-alert-paywall-california/)
+ - [Elon Musk fanboy Adrian Dittmann&#39;s alleged 4Chan posts and Dittmann&#39;s X Spaces appearances suggest he might be a fake online persona used by Musk himself &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/250103/p9#a250103p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
