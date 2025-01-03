@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Dictatorships Will Be Vulnerable to Algorithms](https://www.wired.com/story/dictatorships-will-be-vulnerable-to-algorithms/)
- - [This LG lamp is also a projector and Bluetooth speaker](https://www.theverge.com/2025/1/3/24334850/lg-lamp-projectors-speaker-ust-4k-specs)
- - [Samsung details major changes coming to Good Lock with One UI 7](https://www.androidauthority.com/samsung-good-lock-one-ui-7-3512589/)<!-- TECH:END -->
+ - [Tass: a Russian court ordered Yandex to hide access to maps and photos of a Russian oil refinery from search results due to repeated attacks by Ukrainian drones &lpar;Alexander Marrow/Reuters&rpar;](http://www.techmeme.com/250103/p4#a250103p4)
+ - [The Minute You Install iOS 18.2, Change These 8 iPhone Settings](https://www.cnet.com/tech/services-and-software/the-minute-you-install-ios-18-2-change-these-8-iphone-settings/#ftag=CAD590a51e)
+ - [A look at the Texas Responsible AI Governance Act, which was formally introduced in Texas legislature and has very broad negligence liability for developers &lpar;Dean W. Ball/Hyperdimensional&rpar;](http://www.techmeme.com/250103/p3#a250103p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
