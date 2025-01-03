@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [A fellow pattern recognizer. Well said brother!](http://9gag.com/gag/aNDw1wb)
- - ⏩ [Women](http://9gag.com/gag/an7z5D0)
- - 👉 [They did exactly what they should have done](http://9gag.com/gag/aBydgmx)<!-- MEMES:END -->
+ - 💣 [Lord Gaben is indeed a Generous God](http://9gag.com/gag/aGyEjLK)
+ - ⏩ [First time i see trash on the streets of Japan, any theories?](http://9gag.com/gag/aPAgYgP)
+ - 👉 [Tolkien&#39;s roommate](http://9gag.com/gag/aBydg0D)<!-- MEMES:END -->
 
 ---
 
