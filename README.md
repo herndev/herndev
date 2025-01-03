@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Facebook and Instagram Ads Push Gun Silencers Disguised as Car Parts](https://www.wired.com/story/fuel-filter-gun-silencer-ads-facebook-instagram/)
- - [A successor to the world’s first triple-screen foldable could already be in the works](https://www.androidauthority.com/huawei-mate-xts-leak-3512616/)
- - [Anthropic reaches deal with music publishers over lyric dispute](https://www.theverge.com/2025/1/3/24334866/anthropic-claude-music-publishers-lyric-copyright-lawsuit-deal)<!-- TECH:END -->
+ - [15 Best Outdoor Security Cameras &lpar;2025&rpar;: Battery-Powered, LTE, No Subscription](https://www.wired.com/gallery/best-outdoor-security-cameras/)
+ - [Weak iPad Pro sales prompt OLED supplier to switch to making more iPhone screens](https://appleinsider.com/articles/25/01/03/weak-ipad-pro-sales-prompt-oled-supplier-to-switch-to-making-more-iphone-screens?utm_medium=rss)
+ - [Foreign smartphone shipments, including iPhones, to China fell 47.4% YoY in November, following a 44.25% YoY drop in October, marking four months of decline &lpar;Reuters&rpar;](http://www.techmeme.com/250103/p5#a250103p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
