@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple AirTags now come with a new, very important warning label](https://www.androidauthority.com/apple-airtag-new-warning-label-3512568/)
- - [China plans to extend its national consumer subsidies to smartphone, tablet, and smartwatch purchases to boost domestic spending as external headwinds pick up &lpar;Bloomberg&rpar;](http://www.techmeme.com/250103/p2#a250103p2)
- - [One UI 7 to deliver speedy fingerprint unlock for Galaxy S24 users](https://www.androidauthority.com/samsung-galaxy-s24-fingerprint-unlock-update-one-ui-7-3512556/)<!-- TECH:END -->
+ - [This LG lamp is also a projector and Bluetooth speaker](https://www.theverge.com/2025/1/3/24334850/lg-lamp-projectors-speaker-ust-4k-specs)
+ - [Samsung details major changes coming to Good Lock with One UI 7](https://www.androidauthority.com/samsung-good-lock-one-ui-7-3512589/)
+ - [Samsung and Google reveal Eclipsa Audio, coming to YouTube and your next Samsung device](https://www.androidauthority.com/samsung-google-eclipsa-audio-3512576/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
