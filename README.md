@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Any clues??](http://9gag.com/gag/aZZD3N9)
- - ⏩ [Friends Forever](http://9gag.com/gag/aYQV4jV)
- - 👉 [Impact of your childhood](http://9gag.com/gag/aqyeK5j)<!-- MEMES:END -->
+ - ⏩ [BREAKING: US Representative AOC found dead after suicide.](http://9gag.com/gag/awyZnp8)
+ - 👉 [Any capt?](http://9gag.com/gag/a9yqrKj)<!-- MEMES:END -->
 
 ---
 
