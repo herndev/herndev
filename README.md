@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [PC Gamer magazine&#39;s new issue is on sale now: Sid Meier&#39;s Civilization 7](https://www.pcgamer.com/gaming-industry/pc-gamer-magazines-new-issue-is-on-sale-now-sid-meiers-civilization-7/)
- - [Today&#39;s Wordle answer for Friday, January 3](https://www.pcgamer.com/games/puzzle/wordle-answer-today-january-3-2025/)
- - [&lpar;For Southeast Asia&rpar; PlayStation Plus Monthly Games for January 2025: Suicide Squad: Kill the Justice League, Need for Speed Hot Pursuit, DEEEER Simulator: Your Average Everyday Deer Game](https://blog.playstation.com/2025/01/02/20250103-psplus/)<!-- GAME:END -->
+ - [Has Hollywood finally cracked video game adaptations? 2025 will be a big test](https://www.polygon.com/gaming/500409/2025-video-game-movies-tv-shows-release-dates)
+ - [The Secret Level creator wants you to know that they did ask Halo to take part in the series, but Microsoft turned them down: &#39;Man, you think we didn&#39;t talk to Halo?&#39;](https://www.pcgamer.com/movies-tv/the-secret-level-creator-wants-you-to-know-that-they-did-ask-halo-to-take-part-in-the-series-but-microsoft-turned-them-down-man-you-think-we-didnt-talk-to-halo/)
+ - [Defending a kinda wimpy Killzone crossover gun, Helldivers 2&#39;s Johan Pilestedt says the game&#39;s past balance woes were due to weapons being &#39;seen as game objects&#39; and that &#39;balance doesn&#39;t matter&#39;](https://www.pcgamer.com/games/third-person-shooter/defending-a-kinda-wimpy-killzone-crossover-gun-helldivers-2s-johan-pilestedt-says-the-games-past-balance-woes-were-due-to-weapons-being-seen-as-game-objects-and-that-balance-doesnt-matter/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
