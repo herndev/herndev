@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Can’t find a tabletop gaming group? Try the solo version instead](https://www.polygon.com/tabletop-games/503622/solo-ttrpg-tabletop-role-playing-games-no-group)
- - [Net neutrality is dead again: US court says the FCC can&#39;t bring back Obama-era internet regulations](https://www.pcgamer.com/gaming-industry/net-neutrality-is-dead-again-us-court-says-the-fcc-cant-bring-back-obama-era-internet-regulations/)
- - [This gorgeous, 592-page Metaphor: ReFantazio strategy guide is up for pre-order](https://www.polygon.com/pre-order/503585/metaphor-refantazio-strategy-guide-future-press-where-to-buy)<!-- GAME:END -->
+ - [Gulp! Dune: Awakening beta testers are dying of thirst nearly as often as they&#39;re dying of sandworms, and some are even drinking mouse blood to stay alive](https://www.pcgamer.com/games/mmo/dune-awakening-beta-testers-are-dying-of-thirst-nearly-as-often-as-theyre-dying-of-sandworms-and-some-are-even-drinking-mouse-blood-to-stay-alive/)
+ - [8 bold gaming predictions for 2025](https://www.pcgamer.com/games/2025-gaming-predictions/)
+ - [Can’t find a tabletop gaming group? Try the solo version instead](https://www.polygon.com/tabletop-games/503622/solo-ttrpg-tabletop-role-playing-games-no-group)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
