@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Helldivers 2 director decides to kick off 2025 by wading into a conversation about DEI: &#39;Make good games, don&#39;t make a contemporary political statement&#39;](https://www.pcgamer.com/games/third-person-shooter/helldivers-2-director-decides-to-kick-off-2025-by-wading-into-a-conversation-about-dei-make-good-games-dont-make-a-contemporary-political-statement/)
- - [PC Gamer&#39;s Best City Builder of 2024 has sold over 2.5 million, but here&#39;s the big news: Now it has bridges](https://www.pcgamer.com/games/manor-lords-has-sold-over-2-5-million-copies-and-the-publisher-says-it-would-almost-be-arrogant-not-to-be-taken-aback-by-the-success/)
- - [Popeye and Tintin have entered the public domain, so I&#39;ll just go ahead and start the countdown clock for our first Sailor Man soulslike](https://www.pcgamer.com/games/popeye-and-tintin-have-entered-the-public-domain-so-ill-just-go-ahead-and-start-the-countdown-clock-for-our-first-sailor-man-soulslike/)<!-- GAME:END -->
+ - [What are your 2025 gaming resolutions?](https://www.pcgamer.com/games/what-are-your-2025-gaming-resolutions/)
+ - [The FBI put a $5 million bounty on the &#39;Cryptoqueen&#39; last year but still haven&#39;t found her, so take your pick: Russia, South Africa, or murdered on a yacht in 2018](https://www.pcgamer.com/gaming-industry/the-fbi-put-a-usd5-million-bounty-on-the-cryptoqueen-last-year-but-still-havent-found-her-so-take-your-pick-russia-south-africa-or-murdered-on-a-yacht-in-2018/)
+ - [Kotaku’s Weekend Guide: 5 Awesome Games We’re Settling Into 2025 With](https://kotaku.com/donkey-kong-marvel-rivals-agdq-2025-dragon-age-1851732549)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
