@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Why wont he understand!](http://9gag.com/gag/abAvpyp)
- - ⏩ [Watching fireworks from balcony](http://9gag.com/gag/avyQ8xO)
- - 👉 [Friends Forever](http://9gag.com/gag/aYQV4jV)<!-- MEMES:END -->
+ - 💣 [Just wanted to show you my favourite nutcracker. The back in comments.](http://9gag.com/gag/awyZXqW)
+ - ⏩ [Kids admiring bike](http://9gag.com/gag/a7oqr0w)
+ - 👉 [5th of your budget](http://9gag.com/gag/adBPK7D)<!-- MEMES:END -->
 
 ---
 
