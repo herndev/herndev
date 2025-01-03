@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Why wont he understand!](http://9gag.com/gag/abAvpyp)
- - ⏩ [Just wanted to show you my favourite nutcracker. The back in comments.](http://9gag.com/gag/awyZXqW)
- - 👉 [Oskar](http://9gag.com/gag/aKGExQQ)<!-- MEMES:END -->
+ - 💣 [The real luxuries in life](http://9gag.com/gag/a34ZQvm)
+ - ⏩ [Japanese moving companies are second to none.](http://9gag.com/gag/aZZDgNQ)
+ - 👉 [Classic...](http://9gag.com/gag/aRBE3xG)<!-- MEMES:END -->
 
 ---
 
