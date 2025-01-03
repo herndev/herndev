@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [MSI&#39;s new 24-inch gaming monitor hits a sizzling 600 Hz and has me wondering how many Hz you genuinely need](https://www.pcgamer.com/hardware/gaming-monitors/msis-new-24-inch-gaming-monitor-hits-a-sizzling-600-hz-and-has-me-wondering-how-many-hz-you-genuinely-need/)
- - [PlayStation Has Some Incredible Last-Minute Deals For Catching Up On Your Backlog](https://kotaku.com/ps5-ps4-sale-new-year-holiday-discount-cheap-gta-5-1851732038)
- - [Feathers McGraw is the real hero of Netflix’s new Wallace &amp;#038; Gromit movie](https://www.polygon.com/opinion/501609/wallace-gromit-vengeance-most-fowl-netflix-feathers-mcgraw-villain)<!-- GAME:END -->
+ - [Dive headfirst into Monster Hunter for just $10](https://www.polygon.com/good-deals/503755/monster-hunter-rise-world-bundle-fanatical-sale)
+ - [This Fan-Made Sonic Game Looks Just As Good As The Real Thing, And You Can Play It Right Now](https://kotaku.com/sonic-galactic-demo-download-tails-knuckles-fang-tunnel-1851732205)
+ - [Judas ‘more reflective of player agency’ than BioShock, Ken Levine says](https://www.polygon.com/news/503770/judas-bioshock-infinite-ken-levine-irrational-games-ghost-story-player-agency-story)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
