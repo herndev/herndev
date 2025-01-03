@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A source at X says a viral 4chan screenshot that seems to suggest Elon Musk is cosplaying as his superfan Adrian Dittmann is almost certainly fake &lpar;The Verge&rpar;](http://www.techmeme.com/250103/p13#a250103p13)
- - [Apple Intelligence, with features like Genmoji and Image Playground in iOS 18.2, requires 7GB of storage, compared to 4GB in iOS 18.1 &lpar;Ryan Christoffel/9to5Mac&rpar;](http://www.techmeme.com/250103/p12#a250103p12)
- - [Here are the best iPad deals right now](https://www.theverge.com/21280354/best-ipad-deals-apple)<!-- TECH:END -->
+ - [Answering your questions about AI, smart glasses, TikTok, and more](https://www.theverge.com/2025/1/3/24333045/command-line-reader-mailbag-issue-2025)
+ - [Android is making it easier to connect a hearing aid to your phone &lpar;APK teardown&rpar;](https://www.androidauthority.com/fast-pair-hearing-aid-3512718/)
+ - [Meta says the viral AI profiles on Facebook and Instagram were created in 2023 as part of &quot;an early experiment&quot; with AI characters, and it is deleting them &lpar;Jason Koebler/404 Media&rpar;](http://www.techmeme.com/250103/p14#a250103p14)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
