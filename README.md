@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [OnePlus clears up all ambiguity surrounding the OnePlus 13’s water resistance rating](https://www.androidauthority.com/oneplus-13-waterproofing-3512794/)
- - [Samsung and Google’s new spatial audio format will take on Dolby Atmos this year](https://www.theverge.com/2025/1/3/24335170/samsung-google-eclipsa-spatial-audio-format-2025-tvs)
- - [Visible is owned by Verizon and costs less, but is it worth it worth the savings? Here’s my take](https://www.androidauthority.com/visible-vs-verizon-review-3512423/)<!-- TECH:END -->
+ - [Tim Cook is donating $1 million to Trump’s inauguration, too](https://www.theverge.com/2025/1/3/24335290/apple-donation-donald-trump-inauguration-tim-cook)
+ - [PitchBook: generative AI companies worldwide raised $56B from VCs in 2024 across 885 deals, up 192% from 2023, with startups outside the US raising just $6.2B &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250103/p20#a250103p20)
+ - [Apple CEO Tim Cook personally invested $1 million in Trump&#39;s inauguration](https://appleinsider.com/articles/25/01/03/apple-ceo-tim-cook-personally-invested-1-million-in-trumps-inauguration?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
