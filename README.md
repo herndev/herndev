@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Avid nerds start camping out at the Pitch Drop experiment to catch the tenth droplet. `Any day now, my dudes. Aaaaanyyyyy daaaaayyyyy nowwwww...`](http://9gag.com/gag/a2vKoNE)
- - ⏩ [BREAKING: US Representative AOC found dead after suicide.](http://9gag.com/gag/awyZnp8)
- - 👉 [Why wont he understand!](http://9gag.com/gag/abAvpyp)<!-- MEMES:END -->
+ - 💣 [Any clues??](http://9gag.com/gag/aZZD3N9)
+ - ⏩ [Friends Forever](http://9gag.com/gag/aYQV4jV)
+ - 👉 [Impact of your childhood](http://9gag.com/gag/aqyeK5j)<!-- MEMES:END -->
 
 ---
 
