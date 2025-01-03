@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [First time i see trash on the streets of Japan, any theories?](http://9gag.com/gag/aPAgYgP)
- - ⏩ [Kids admiring bike](http://9gag.com/gag/a7oqr0w)
- - 👉 [Any clues??](http://9gag.com/gag/aZZD3N9)<!-- MEMES:END -->
+ - 💣 [Oskar](http://9gag.com/gag/aKGExQQ)
+ - ⏩ [First time i see trash on the streets of Japan, any theories?](http://9gag.com/gag/aPAgYgP)
+ - 👉 [Indian politician takes a bad fall due to poor safety measures](http://9gag.com/gag/aVvb3Rv)<!-- MEMES:END -->
 
 ---
 
