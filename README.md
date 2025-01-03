@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Any clues??](http://9gag.com/gag/aZZD3N9)
- - ⏩ [BREAKING: US Representative AOC found dead after suicide.](http://9gag.com/gag/awyZnp8)
- - 👉 [Any capt?](http://9gag.com/gag/a9yqrKj)<!-- MEMES:END -->
+ - 💣 [Japanese moving companies are second to none.](http://9gag.com/gag/aZZDgNQ)
+ - ⏩ [Diamond Potato of Ultra Luck - upvote for luck in 2025](http://9gag.com/gag/aD2YWxK)
+ - 👉 [Impact of your childhood](http://9gag.com/gag/aqyeK5j)<!-- MEMES:END -->
 
 ---
 
