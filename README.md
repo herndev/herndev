@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The 47 best movies on Netflix right now](https://www.polygon.com/21266801/best-movies-on-netflix)
- - [Andrew Garfield denies Spider-Man 4 rumors, fuels Spider-Man 4 rumors](https://www.polygon.com/marvel/503716/andrew-garfield-spider-man-4-casting-rumors)
- - [Apple TV+ Is Free This Weekend And Secretly Hiding Tons Of Great Shows](https://kotaku.com/apple-tv-free-weekend-severance-silo-for-all-mankind-1851731841)<!-- GAME:END -->
+ - [LG&#39;s new 45-inch 5K2K OLED could be the pixel-packed gaming monitor you&#39;ve been waiting for](https://www.pcgamer.com/hardware/gaming-monitors/lgs-new-45-inch-5k2k-oled-could-be-the-pixel-packed-gaming-monitor-youve-been-waiting-for/)
+ - [Apple TV+ Is Free This Weekend And Secretly Hiding Tons Of Great Shows](https://kotaku.com/apple-tv-free-weekend-severance-silo-for-all-mankind-1851731841)
+ - [Bioshock&#39;s Big Daddy Ken Levine says that while he doesn&#39;t want to &#39;underestimate&#39; AI, he&#39;s &#39;not overly impressed&#39; by it, either](https://www.pcgamer.com/games/fps/bioshocks-big-daddy-ken-levine-says-that-while-he-doesnt-want-to-underestimate-ai-hes-not-overly-impressed-by-it-either/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
