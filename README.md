@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [LG&#39;s new 45-inch 5K2K OLED could be the pixel-packed gaming monitor you&#39;ve been waiting for](https://www.pcgamer.com/hardware/gaming-monitors/lgs-new-45-inch-5k2k-oled-could-be-the-pixel-packed-gaming-monitor-youve-been-waiting-for/)
- - [Apple TV+ Is Free This Weekend And Secretly Hiding Tons Of Great Shows](https://kotaku.com/apple-tv-free-weekend-severance-silo-for-all-mankind-1851731841)
- - [Bioshock&#39;s Big Daddy Ken Levine says that while he doesn&#39;t want to &#39;underestimate&#39; AI, he&#39;s &#39;not overly impressed&#39; by it, either](https://www.pcgamer.com/games/fps/bioshocks-big-daddy-ken-levine-says-that-while-he-doesnt-want-to-underestimate-ai-hes-not-overly-impressed-by-it-either/)<!-- GAME:END -->
+ - [MSI&#39;s new 24-inch gaming monitor hits a sizzling 600 Hz and has me wondering how many Hz you genuinely need](https://www.pcgamer.com/hardware/gaming-monitors/msis-new-24-inch-gaming-monitor-hits-a-sizzling-600-hz-and-has-me-wondering-how-many-hz-you-genuinely-need/)
+ - [PlayStation Has Some Incredible Last-Minute Deals For Catching Up On Your Backlog](https://kotaku.com/ps5-ps4-sale-new-year-holiday-discount-cheap-gta-5-1851732038)
+ - [Feathers McGraw is the real hero of Netflix’s new Wallace &amp;#038; Gromit movie](https://www.polygon.com/opinion/501609/wallace-gromit-vengeance-most-fowl-netflix-feathers-mcgraw-villain)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
