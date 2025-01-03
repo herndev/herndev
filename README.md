@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Lord Gaben is indeed a Generous God](http://9gag.com/gag/aGyEjLK)
- - ⏩ [5th of your budget](http://9gag.com/gag/adBPK7D)
- - 👉 [Cybertruck explodes in Las Vegas, NV - January 1, 2025](http://9gag.com/gag/arym5yy)<!-- MEMES:END -->
+ - ⏩ [First time i see trash on the streets of Japan, any theories?](http://9gag.com/gag/aPAgYgP)
+ - 👉 [After 5,000 years, we finally have shovel 2.0 and before GTA VI.](http://9gag.com/gag/adBPLD2)<!-- MEMES:END -->
 
 ---
 
