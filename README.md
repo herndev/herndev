@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [You can aim this projector by moving its motion-sensing remote around](https://www.theverge.com/2025/1/3/24334077/jmgo-n3-ultra-max-4k-projector-motorized-gimbal)
- - [Elon Musk Is Posting Nonstop Falsehoods About &#39;Grooming Gangs&#39;](https://www.wired.com/story/elon-musk-disinformation-uk-grooming-gangs/)
- - [Apple unveils new Strava integration and more for Fitness Plus](https://www.androidauthority.com/apple-fitness-plus-new-programs-3512679/)<!-- TECH:END -->
+ - [A source at X says a viral 4chan screenshot that seems to suggest Elon Musk is cosplaying as his superfan Adrian Dittmann is almost certainly fake &lpar;The Verge&rpar;](http://www.techmeme.com/250103/p13#a250103p13)
+ - [Apple Intelligence, with features like Genmoji and Image Playground in iOS 18.2, requires 7GB of storage, compared to 4GB in iOS 18.1 &lpar;Ryan Christoffel/9to5Mac&rpar;](http://www.techmeme.com/250103/p12#a250103p12)
+ - [Here are the best iPad deals right now](https://www.theverge.com/21280354/best-ipad-deals-apple)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
