@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Starfinder Second Edition breaks through in a crowded year of releases](https://www.polygon.com/tabletop-games/503984/starfinder-second-edition-cover-reveal-interview)
- - [Don&#39;t Sleep On 2024&#39;s Most Underrated Tactics RPG](https://kotaku.com/steamworld-heist-ii-review-rpg-final-fantasy-tactics-1851732402)
- - [Get Shenmue, Ori, Condemned, and 5 other AGDQ games for $12 at Humble](https://www.polygon.com/good-deals/503953/agdq-2025-humble-bundle-shenmue-ori-condemned)<!-- GAME:END -->
+ - [Helldivers 2 director decides to kick off 2025 by wading into a conversation about DEI: &#39;Make good games, don&#39;t make a contemporary political statement&#39;](https://www.pcgamer.com/games/third-person-shooter/helldivers-2-director-decides-to-kick-off-2025-by-wading-into-a-conversation-about-dei-make-good-games-dont-make-a-contemporary-political-statement/)
+ - [PC Gamer&#39;s Best City Builder of 2024 has sold over 2.5 million, but here&#39;s the big news: Now it has bridges](https://www.pcgamer.com/games/manor-lords-has-sold-over-2-5-million-copies-and-the-publisher-says-it-would-almost-be-arrogant-not-to-be-taken-aback-by-the-success/)
+ - [Popeye and Tintin have entered the public domain, so I&#39;ll just go ahead and start the countdown clock for our first Sailor Man soulslike](https://www.pcgamer.com/games/popeye-and-tintin-have-entered-the-public-domain-so-ill-just-go-ahead-and-start-the-countdown-clock-for-our-first-sailor-man-soulslike/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
