@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Grab the iPad 10th Gen for just $279 at Amazon this weekend](https://appleinsider.com/articles/25/01/03/grab-the-ipad-10th-gen-for-just-279-at-amazon-this-weekend?utm_medium=rss)
- - [Californians Say X Blocked Them From Viewing Amber Alert About Missing 14-Year-Old](https://www.wired.com/story/amber-alert-paywall-california/)
- - [Elon Musk fanboy Adrian Dittmann&#39;s alleged 4Chan posts and Dittmann&#39;s X Spaces appearances suggest he might be a fake online persona used by Musk himself &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/250103/p9#a250103p9)<!-- TECH:END -->
+ - [You can aim this projector by moving its motion-sensing remote around](https://www.theverge.com/2025/1/3/24334077/jmgo-n3-ultra-max-4k-projector-motorized-gimbal)
+ - [Elon Musk Is Posting Nonstop Falsehoods About &#39;Grooming Gangs&#39;](https://www.wired.com/story/elon-musk-disinformation-uk-grooming-gangs/)
+ - [Apple unveils new Strava integration and more for Fitness Plus](https://www.androidauthority.com/apple-fitness-plus-new-programs-3512679/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
