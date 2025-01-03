@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle answer for Friday, January 3](https://www.pcgamer.com/games/puzzle/wordle-answer-today-january-3-2025/)
  - [&lpar;For Southeast Asia&rpar; PlayStation Plus Monthly Games for January 2025: Suicide Squad: Kill the Justice League, Need for Speed Hot Pursuit, DEEEER Simulator: Your Average Everyday Deer Game](https://blog.playstation.com/2025/01/02/20250103-psplus/)
- - [Gulp! Dune: Awakening beta testers are dying of thirst nearly as often as they&#39;re dying of sandworms, and some are even drinking mouse blood to stay alive](https://www.pcgamer.com/games/mmo/dune-awakening-beta-testers-are-dying-of-thirst-nearly-as-often-as-theyre-dying-of-sandworms-and-some-are-even-drinking-mouse-blood-to-stay-alive/)
- - [8 bold gaming predictions for 2025](https://www.pcgamer.com/games/2025-gaming-predictions/)<!-- GAME:END -->
+ - [&lpar;For Southeast Asia&rpar; PlayStation Plus Monthly Games for January 2025: Suicide Squad: Kill the Justice League, Need for Speed Hot Pursuit, DEEEER Simulator: Your Average Everyday Deer Game](https://blog.playstation.com/2025/01/02/20250103-psplus/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
