@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [15 Best Outdoor Security Cameras &lpar;2025&rpar;: Battery-Powered, LTE, No Subscription](https://www.wired.com/gallery/best-outdoor-security-cameras/)
- - [Weak iPad Pro sales prompt OLED supplier to switch to making more iPhone screens](https://appleinsider.com/articles/25/01/03/weak-ipad-pro-sales-prompt-oled-supplier-to-switch-to-making-more-iphone-screens?utm_medium=rss)
- - [Foreign smartphone shipments, including iPhones, to China fell 47.4% YoY in November, following a 44.25% YoY drop in October, marking four months of decline &lpar;Reuters&rpar;](http://www.techmeme.com/250103/p5#a250103p5)<!-- TECH:END -->
+ - [New Year update to Apple Fitness+ adds Strava integration](https://appleinsider.com/articles/25/01/03/new-year-update-to-apple-fitness-adds-strava-integration?utm_medium=rss)
+ - [Samsung’s Galaxy Fit 3 fitness tracker gets even cheaper with its latest phone](https://www.androidauthority.com/samsung-galaxy-fit-3-us-launch-3512630/)
+ - [The Best Tested Apple 3-in-1 Wireless Chargers &lpar;2025&rpar;](https://www.wired.com/gallery/best-apple-3-in-1-wireless-chargers/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
