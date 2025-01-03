@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Paris is vying with London as Europe&#39;s top AI hotspot, with 34 of the 40 best-performing startups at the Station F incubator in 2024 focused on AI &lpar;John Thornhill/Financial Times&rpar;](http://www.techmeme.com/250102/p24#a250102p24)
  - [The latest RTX 50 leak comes from Nvidia](https://www.theverge.com/2025/1/2/24334642/nvidia-geforce-rtx-50-leak-lan-party)
- - [The best MagSafe and Qi2 chargers for your iPhone](https://www.theverge.com/23505846/best-magsafe-magnetic-chargers-apple-iphone)
- - [The Death of Net Neutrality Is a Bad Omen](https://www.wired.com/story/net-neutrality-ruling-dead/)<!-- TECH:END -->
+ - [The best MagSafe and Qi2 chargers for your iPhone](https://www.theverge.com/23505846/best-magsafe-magnetic-chargers-apple-iphone)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
