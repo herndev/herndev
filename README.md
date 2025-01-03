@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Logitech Logi Dock review: Combining connectivity and audio in one dock](https://appleinsider.com/articles/25/01/03/logitech-logi-dock-review-combining-connectivity-and-audio-in-one-dock?utm_medium=rss)
- - [Car rental app Turo, which uses a risk algorithm to screen drivers, was used to book trucks in both fatal New Year&#39;s Day incidents in Las Vegas and New Orleans &lpar;Bloomberg&rpar;](http://www.techmeme.com/250102/p26#a250102p26)
- - [Anthropic agrees with publishers to stop Claude from providing lyrics to their songs or new lyrics based on copyrighted content, with a court ruling pending &lpar;Winston Cho/The Hollywood Reporter&rpar;](http://www.techmeme.com/250102/p25#a250102p25)<!-- TECH:END -->
+ - [Google&#39;s Nest Hub and Audio have stopped responding to basic commands, including to questions on the weather and time, for many users over the past few days &lpar;Rita El Khoury/Android Authority&rpar;](http://www.techmeme.com/250102/p27#a250102p27)
+ - [Best King-Size Mattresses for 2025, Tested and Reviewed by CNET’s Sleep Experts](https://www.cnet.com/health/sleep/best-king-mattress/#ftag=CAD590a51e)
+ - [Logitech Logi Dock review: Combining connectivity and audio in one dock](https://appleinsider.com/articles/25/01/03/logitech-logi-dock-review-combining-connectivity-and-audio-in-one-dock?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
