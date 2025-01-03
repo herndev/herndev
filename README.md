@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Dictatorships Will Be Vulnerable to Algorithms](https://www.wired.com/story/dictatorships-will-be-vulnerable-to-algorithms/)
  - [This LG lamp is also a projector and Bluetooth speaker](https://www.theverge.com/2025/1/3/24334850/lg-lamp-projectors-speaker-ust-4k-specs)
- - [Samsung details major changes coming to Good Lock with One UI 7](https://www.androidauthority.com/samsung-good-lock-one-ui-7-3512589/)
- - [Samsung and Google reveal Eclipsa Audio, coming to YouTube and your next Samsung device](https://www.androidauthority.com/samsung-google-eclipsa-audio-3512576/)<!-- TECH:END -->
+ - [Samsung details major changes coming to Good Lock with One UI 7](https://www.androidauthority.com/samsung-good-lock-one-ui-7-3512589/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
