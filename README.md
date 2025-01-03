@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The real luxuries in life](http://9gag.com/gag/a34ZQvm)
- - ⏩ [Japanese moving companies are second to none.](http://9gag.com/gag/aZZDgNQ)
- - 👉 [Classic...](http://9gag.com/gag/aRBE3xG)<!-- MEMES:END -->
+ - 💣 [Why wont he understand!](http://9gag.com/gag/abAvpyp)
+ - ⏩ [Watching fireworks from balcony](http://9gag.com/gag/avyQ8xO)
+ - 👉 [Friends Forever](http://9gag.com/gag/aYQV4jV)<!-- MEMES:END -->
 
 ---
 
