@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Has Hollywood finally cracked video game adaptations? 2025 will be a big test](https://www.polygon.com/gaming/500409/2025-video-game-movies-tv-shows-release-dates)
- - [The Secret Level creator wants you to know that they did ask Halo to take part in the series, but Microsoft turned them down: &#39;Man, you think we didn&#39;t talk to Halo?&#39;](https://www.pcgamer.com/movies-tv/the-secret-level-creator-wants-you-to-know-that-they-did-ask-halo-to-take-part-in-the-series-but-microsoft-turned-them-down-man-you-think-we-didnt-talk-to-halo/)
- - [Defending a kinda wimpy Killzone crossover gun, Helldivers 2&#39;s Johan Pilestedt says the game&#39;s past balance woes were due to weapons being &#39;seen as game objects&#39; and that &#39;balance doesn&#39;t matter&#39;](https://www.pcgamer.com/games/third-person-shooter/defending-a-kinda-wimpy-killzone-crossover-gun-helldivers-2s-johan-pilestedt-says-the-games-past-balance-woes-were-due-to-weapons-being-seen-as-game-objects-and-that-balance-doesnt-matter/)<!-- GAME:END -->
+ - [The 47 best movies on Netflix right now](https://www.polygon.com/21266801/best-movies-on-netflix)
+ - [Andrew Garfield denies Spider-Man 4 rumors, fuels Spider-Man 4 rumors](https://www.polygon.com/marvel/503716/andrew-garfield-spider-man-4-casting-rumors)
+ - [Apple TV+ Is Free This Weekend And Secretly Hiding Tons Of Great Shows](https://kotaku.com/apple-tv-free-weekend-severance-silo-for-all-mankind-1851731841)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
