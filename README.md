@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [After 5,000 years, we finally have shovel 2.0 and before GTA VI.](http://9gag.com/gag/adBPLD2)
- - ⏩ [Cybertruck explodes in Las Vegas, NV - January 1, 2025](http://9gag.com/gag/arym5yy)
- - 👉 [5th of your budget](http://9gag.com/gag/adBPK7D)<!-- MEMES:END -->
+ - 💣 [Oskar](http://9gag.com/gag/aKGExQQ)
+ - ⏩ [Indian politician takes a bad fall due to poor safety measures](http://9gag.com/gag/aVvb3Rv)
+ - 👉 [Lord Gaben is indeed a Generous God](http://9gag.com/gag/aGyEjLK)<!-- MEMES:END -->
 
 ---
 
