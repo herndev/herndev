@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Oskar](http://9gag.com/gag/aKGExQQ)
- - ⏩ [First time i see trash on the streets of Japan, any theories?](http://9gag.com/gag/aPAgYgP)
- - 👉 [Indian politician takes a bad fall due to poor safety measures](http://9gag.com/gag/aVvb3Rv)<!-- MEMES:END -->
+ - 💣 [Lord Gaben is indeed a Generous God](http://9gag.com/gag/aGyEjLK)
+ - ⏩ [5th of your budget](http://9gag.com/gag/adBPK7D)
+ - 👉 [Cybertruck explodes in Las Vegas, NV - January 1, 2025](http://9gag.com/gag/arym5yy)<!-- MEMES:END -->
 
 ---
 
