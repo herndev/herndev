@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [There’s a better way to type on TVs, and it’s based on old-school phones](https://www.theverge.com/2025/1/5/24336817/tv-keyboard-typing-direction9-ces-2025)
  - [Lymow One smart robomower made to deal with large lawns](https://appleinsider.com/articles/25/01/06/lymow-one-smart-robomower-made-to-deal-with-large-lawns?utm_medium=rss)
- - [Circular&#39;s second-gen Ring adds ECG and digital ring-sizing](https://appleinsider.com/articles/25/01/06/circulars-second-gen-ring-adds-ecg-and-digital-ring-sizing?utm_medium=rss)
- - [Eli Health brings hormone testing to the iPhone](https://appleinsider.com/articles/25/01/06/eli-health-brings-hormone-testing-to-the-iphone?utm_medium=rss)<!-- TECH:END -->
+ - [Circular&#39;s second-gen Ring adds ECG and digital ring-sizing](https://appleinsider.com/articles/25/01/06/circulars-second-gen-ring-adds-ecg-and-digital-ring-sizing?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
