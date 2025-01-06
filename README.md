@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ecobee launches an even cheaper smart thermostat](https://www.theverge.com/2025/1/6/24335022/ecobee-essential-thermostat-price-ces-2025)
- - [Qualcomm’s new Snapdragon X chips bring Windows on Arm to cheaper laptops](https://www.theverge.com/2025/1/6/24334870/qualcomm-snapdragon-x-laptops-mini-pcs-ces-2025)
- - [Meta stops selling the Quest Pro](https://www.theverge.com/2025/1/6/24337157/meta-stops-selling-quest-pro-vr-headset-low-sales-discontinued)<!-- TECH:END -->
+ - [Satechi&#39;s Mac mini M4 Stand &amp; Hub arrives February 17](https://appleinsider.com/articles/25/01/06/satechis-mac-mini-m4-stand-hub-arrives-february-17?utm_medium=rss)
+ - [Bird Buddy’s new camera tracks plants and insects in your garden](https://www.theverge.com/2025/1/6/24337124/bird-buddy-wonder-petal-camera-track-plants-insects-ces-2025)
+ - [The newest Kindle Scribe is $75 off in its first sale](https://www.theverge.com/2025/1/6/24337121/amazon-kindle-scribe-ebook-reader-gopro-hero-13-black-action-camera-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
