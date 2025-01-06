@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung could soon bring a Pixel 9 feature to Galaxy phone users &lpar;APK teardown&rpar;](https://www.androidauthority.com/samsung-call-summaries-3513015/)
- - [Sam Altman says OpenAI is currently losing money on its ChatGPT Pro plan, which costs $200 per month, because &quot;people use it much more than we expected&quot; &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250106/p2#a250106p2)
- - [Singapore-based Digital Edge, which operates 21 data centers in Japan, Korea, India, and others, raised over $1.6B, including ~$640M in equity and $1B in debt &lpar;Yantoultra Ngui/Reuters&rpar;](http://www.techmeme.com/250106/p1#a250106p1)<!-- TECH:END -->
+ - [Samsung’s Neo QLED 8K TV and The Frame Pro are the stars of its new 2025 TV lineup](https://www.androidauthority.com/samsung-neo-qled-8k-tv-frame-pro-ces-2025-tv-lineup-3513143/)
+ - [The Pixel Launcher widget list may soon hide most widgets behind a menu &lpar;APK teardown&rpar;](https://www.androidauthority.com/pixel-filtered-widgets-3513018/)
+ - [A profile of headhunter Peterson Conway, who worked with Palantir and other Silicon Valley defense and hard tech firms and is now the talent head at VC firm A* &lpar;Margaux MacColl/TechCrunch&rpar;](http://www.techmeme.com/250106/p3#a250106p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
