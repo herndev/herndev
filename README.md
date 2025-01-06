@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Skydiver falls through a through a raincloud](http://9gag.com/gag/abAvAb9)
- - ⏩ [Guy spins apple using air compressor until it explodes](http://9gag.com/gag/ae9QQD5)
- - 👉 [Didn\u2018t do nothing](http://9gag.com/gag/aO8x286)<!-- MEMES:END -->
+ - 💣 [Guy spins apple using air compressor until it explodes](http://9gag.com/gag/ae9QQD5)
+ - ⏩ [The best way to sell a product is by testing it. \ud83e\udd2f](http://9gag.com/gag/a5QX1dV)
+ - 👉 [No context needed](http://9gag.com/gag/apR99jM)<!-- MEMES:END -->
 
 ---
 
