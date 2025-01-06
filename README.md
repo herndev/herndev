@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Guy spins apple using air compressor until it explodes](http://9gag.com/gag/ae9QQD5)
- - ⏩ [Sometime in the 90s](http://9gag.com/gag/avyQygX)
- - 👉 [Fears to Fathom have the scariest set pieces in spite of the lofi graphics](http://9gag.com/gag/arymmWX)<!-- MEMES:END -->
+ - 💣 [What attacked him? A bat, a spider or 4skin?](http://9gag.com/gag/avyQWx5)
+ - ⏩ [Let\u2019s go eat squid, it\u2019ll be fun - they said](http://9gag.com/gag/aGyEynz)
+ - 👉 [Kurt Cobain really had a heart of gold.](http://9gag.com/gag/a1mPP9R)<!-- MEMES:END -->
 
 ---
 
