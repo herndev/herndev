@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Denzel Washington&amp;#8217;s time travel thriller has been saved from the memory hole](https://www.polygon.com/what-to-watch/504410/denzel-washington-thriller-streaming-deja-vu)
- - [See ya later Inspiron and XPS: Dell has streamlined its branding down to a very Apple-like Dell, Dell Pro, and Dell Pro Max](https://www.pcgamer.com/hardware/see-ya-later-inspiron-and-xps-dell-has-streamlined-its-branding-down-to-a-very-apple-like-dell-dell-pro-and-dell-pro-max/)
- - [The new ROG Flow Z13 is ditching dedicated graphics but making up for it with AMD&#39;s next-gen Ryzen AI Max APU](https://www.pcgamer.com/hardware/the-new-rog-flow-z13-is-ditching-dedicated-graphics-but-making-up-for-it-with-amds-next-gen-ryzen-ai-max-apu/)<!-- GAME:END -->
+ - [How to get Ancient Technology Points in Palworld](https://www.polygon.com/palworld-guides/24049322/ancient-technology-points-how-to-get)
+ - [Gundam fans are getting a tabletop game](https://www.polygon.com/tabletop-games/504430/gundam-assemble-tabletop-miniatures-game-bandai)
+ - [What does SVP mean in Marvel Rivals?](https://www.polygon.com/marvel-rivals-guide/492891/svp-meaning-definition-award)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
