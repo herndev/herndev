@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [What are your 2025 gaming resolutions?](https://www.pcgamer.com/games/what-are-your-2025-gaming-resolutions/)
- - [The FBI put a $5 million bounty on the &#39;Cryptoqueen&#39; last year but still haven&#39;t found her, so take your pick: Russia, South Africa, or murdered on a yacht in 2018](https://www.pcgamer.com/gaming-industry/the-fbi-put-a-usd5-million-bounty-on-the-cryptoqueen-last-year-but-still-havent-found-her-so-take-your-pick-russia-south-africa-or-murdered-on-a-yacht-in-2018/)
- - [Kotaku’s Weekend Guide: 5 Awesome Games We’re Settling Into 2025 With](https://kotaku.com/donkey-kong-marvel-rivals-agdq-2025-dragon-age-1851732549)<!-- GAME:END -->
+ - [Zach-like automation puzzle game ABI-DOS is available on Steam for free](https://www.pcgamer.com/games/puzzle/zach-like-automation-puzzle-game-abi-dos-is-available-on-steam-for-free/)
+ - [It sounds like we&#39;ll have to wait even longer to find out what the deal is with OD, Hideo Kojima and Jordan Peele&#39;s game, movie, and &#39;new form of media&#39; that had the trailer with all the faces cryptically talking at us](https://www.pcgamer.com/games/it-sounds-like-well-have-to-wait-even-longer-to-find-out-what-the-deal-is-with-od-hideo-kojima-and-jordan-peeles-game-movie-and-new-form-of-media-that-had-the-trailer-with-all-the-faces-cryptically-talking-at-us/)
+ - [I&#39;ve seen enough: No more forcing singleplayer studios to make mediocre live service games](https://www.pcgamer.com/gaming-industry/ive-seen-enough-no-more-forcing-singleplayer-studios-to-make-mediocre-live-service-games/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
