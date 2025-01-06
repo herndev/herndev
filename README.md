@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung goes big on anti-glare screens and AI with 2025 TV lineup](https://www.theverge.com/2025/1/5/24336442/samsung-2025-tv-oled-mini-led-s95f-qn90f-features)
- - [Samsung announces The Frame Pro: could this be the perfect TV?](https://www.theverge.com/2025/1/5/24336154/samsung-the-frame-pro-features-specs)
- - [There’s a better way to type on TVs, and it’s based on old-school phones](https://www.theverge.com/2025/1/5/24336817/tv-keyboard-typing-direction9-ces-2025)<!-- TECH:END -->
+ - [Samsung unveils Vision AI at CES 2025, bringing smartphone-like AI features to smart TVs](https://www.androidauthority.com/samsung-vision-ai-ces-2025-3512962/)
+ - [Advertising company Outfront, whose clients include Mercury, Brex, and Venmo, says fintech ad spend over the past three years has grown an average of 45%+ YoY &lpar;Teresa Xie/Bloomberg&rpar;](http://www.techmeme.com/250105/p12#a250105p12)
+ - [Samsung&#39;s AI Robot Ball With a Projector Is Real and Ready to Roll in 2025](https://www.cnet.com/home/smart-home/samsungs-ai-robot-ball-with-a-projector-is-real-and-ready-to-roll-in-2025/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
