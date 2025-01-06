@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [What attacked him? A bat, a spider or 4skin?](http://9gag.com/gag/avyQWx5)
- - ⏩ [Let\u2019s go eat squid, it\u2019ll be fun - they said](http://9gag.com/gag/aGyEynz)
- - 👉 [Kurt Cobain really had a heart of gold.](http://9gag.com/gag/a1mPP9R)<!-- MEMES:END -->
+ - 💣 [Screaming almost helped](http://9gag.com/gag/aLn1zoP)
+ - ⏩ [Fears to Fathom have the scariest set pieces in spite of the lofi graphics](http://9gag.com/gag/arymmWX)
+ - 👉 [Always care for each other](http://9gag.com/gag/aO8x8Zy)<!-- MEMES:END -->
 
 ---
 
