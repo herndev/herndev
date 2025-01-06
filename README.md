@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Cops Turn Missing Woman\u2019s Home Into Netflix and Chill Zone](http://9gag.com/gag/ae9QgP5)
- - ⏩ [A harbinger of evil](http://9gag.com/gag/a1mPm7v)
- - 👉 [Why It&#39;s A Good Idea To Have A Dash Cam-People trying to scam ~S~](http://9gag.com/gag/a7oqqOw)<!-- MEMES:END -->
+ - 💣 [The quality of Japanese street food is just incredible.](http://9gag.com/gag/aE0q86n)
+ - ⏩ [Kurt Cobain really had a heart of gold.](http://9gag.com/gag/a1mPP9R)
+ - 👉 [Another addition to my storage](http://9gag.com/gag/aVvbbgn)<!-- MEMES:END -->
 
 ---
 
