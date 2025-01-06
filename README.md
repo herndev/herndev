@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Player makes sure ball girl is OK after getting hit by tennis ball.](http://9gag.com/gag/a5QXVKG)
- - ⏩ [The quality of Japanese street food is just incredible.](http://9gag.com/gag/aE0q86n)
- - 👉 [Guy spins apple using air compressor until it explodes](http://9gag.com/gag/ae9QQD5)<!-- MEMES:END -->
+ - 💣 [An airplane pilot welcomes the New Year 2025 over Warsaw](http://9gag.com/gag/apR91vD)
+ - ⏩ [Lest we forget.](http://9gag.com/gag/aKGEA26)
+ - 👉 [When your salary is not enough to pay rent](http://9gag.com/gag/aE0qMNp)<!-- MEMES:END -->
 
 ---
 
