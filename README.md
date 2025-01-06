@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [A harbinger of evil](http://9gag.com/gag/a1mPm7v)
- - ⏩ [Too much here...](http://9gag.com/gag/aO8x8BN)
- - 👉 [Stay awhile and drink with me - 45 today](http://9gag.com/gag/aQzEzYz)<!-- MEMES:END -->
+ - 💣 [Skydiver falls through a through a raincloud](http://9gag.com/gag/abAvAb9)
+ - ⏩ [Guy spins apple using air compressor until it explodes](http://9gag.com/gag/ae9QQD5)
+ - 👉 [Didn\u2018t do nothing](http://9gag.com/gag/aO8x286)<!-- MEMES:END -->
 
 ---
 
