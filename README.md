@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Xbox and LG to Bring Cloud Gaming to LG Smart TVs](https://news.xbox.com/en-us/2025/01/06/xbox-lg-smart-tv-cloud-gaming/)
- - [The best hobby paint for miniatures only requires Two Thin Coats](https://www.polygon.com/review/503812/two-thin-coats-best-hobby-paint-duncan-miniatures-painting)
- - [Existential horror or cute fuzzy bag buddy? CES is off to a flying start with the wackiest tech for 2025](https://www.pcgamer.com/hardware/existential-horror-or-cute-fuzzy-bag-buddy-ces-is-off-to-a-flying-start-with-the-wackiest-tech-for-2025/)<!-- GAME:END -->
+ - [Crytek went so overboard on the Crysis tech it created a whole blushing system, implemented nose shadows, and sent devs to photograph leaves in Haiti to get the translucency right: &#39;We went over bonkers on this one&#39;](https://www.pcgamer.com/games/crytek-went-so-overboard-on-the-crysis-tech-it-created-a-whole-blushing-system-implemented-nose-shadows-and-sent-devs-to-photograph-leaves-in-haiti-to-get-the-translucency-right-we-went-over-bonkers-on-this-one/)
+ - [Kenny Omega debuts new entrance theme by Final Fantasy composer Masayoshi Soken](https://www.polygon.com/gaming/504239/kenny-omega-wrestling-final-fantasy-14-16-masayoshi-soken-nobuo-uematsu)
+ - [Fans think Switch 2’s Joy-Cons can be used like a little, skinny mouse](https://www.polygon.com/nintendo/504149/switch-2-joy-con-mouse)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
