@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [LG and Samsung are adding Microsoft’s Copilot AI assistant to their TVs](https://www.theverge.com/2025/1/6/24337033/lg-samsung-microsoft-copilot-smart-tvs-ces-2025)
- - [LG reveals first wireless OLED TV, and it has Microsoft Copilot on it](https://www.androidauthority.com/lg-wireless-oled-tv-copilot-3513255/)
- - [These High Savings APYs Can Help You Reach Your Money Goals Faster. Today&#39;s Savings Rates, Jan. 6, 2025](https://www.cnet.com/personal-finance/banking/these-high-savings-apys-can-help-you-reach-your-money-goals-faster-todays-savings-rates-jan-6-2025/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Wear OS smartwatches could soon get another life-saving feature &lpar;APK teardown&rpar;](https://www.androidauthority.com/wear-os-earthquake-alerts-apk-teardown-3513290/)
+ - [Sources: India plans $2.7B in fresh subsidies and import tariff cuts to boost local manufacturing, especially of smartphones made by companies like Apple &lpar;Bloomberg&rpar;](http://www.techmeme.com/250106/p5#a250106p5)
+ - [The 10 Coolest Things We&#39;ve Seen So Far at CES 2025](https://www.wired.com/gallery/ces-2025-photo-gallery-day-1/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
