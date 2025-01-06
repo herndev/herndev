@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [TCL hypes new NXTPAPER 4.0 display as sharper and more colorful than ever](https://www.androidauthority.com/tcl-nxtpaper-4-display-3513377/)
- - [TCL’s first Mini LED TV of 2025 offers impressive specs at a tempting price](https://www.theverge.com/2025/1/6/24337426/tcl-qm6k-mini-led-features-specs-pricing)
- - [‘Max Ink Mode’ makes TCL’s screens even inkier](https://www.theverge.com/2025/1/6/24335983/tcl-60-xe-nxtpaper-e-ink-specs-ces)<!-- TECH:END -->
+ - [AMD unveils the Ryzen 9 9950X3D and 9900X3D, with clock speeds up to 5.7GHz, 144MB of cache, and up to 64% faster performance than the Intel Core Ultra 9 285K &lpar;Hassan Mujtaba/Wccftech&rpar;](http://www.techmeme.com/250106/p24#a250106p24)
+ - [Dell abandons XPS, Inspiron, and its other classic brands in favor of new branding strategy](https://www.androidauthority.com/dell-pro-max-family-3513316/)
+ - [Acer’s new gaming handheld has a ridiculous iPad-sized display](https://www.androidauthority.com/acer-nitro-blaze-8-11-announcement-3512619/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
