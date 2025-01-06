@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [What&#39;s the difference between a porcupine and a Porsche?](http://9gag.com/gag/aGyEzyn)
- - ⏩ [Kurt Cobain really had a heart of gold.](http://9gag.com/gag/a1mPP9R)
- - 👉 [The line to this Tesla charging station in Sweden](http://9gag.com/gag/a87qAw6)<!-- MEMES:END -->
+ - 💣 [A harbinger of evil](http://9gag.com/gag/a1mPm7v)
+ - ⏩ [He asked for a sewing machine for Christmas, and the first thing he made was for his sister.](http://9gag.com/gag/a0e4e2n)
+ - 👉 [When your salary is not enough to pay rent](http://9gag.com/gag/aE0qMNp)<!-- MEMES:END -->
 
 ---
 
