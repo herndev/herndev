@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Directed by Michael Bay](http://9gag.com/gag/aRBEXrG)
- - ⏩ [I&#39;m 40, I don&#39;t have time for this BS](http://9gag.com/gag/aqyeyWR)
- - 👉 [Cops Turn Missing Woman\u2019s Home Into Netflix and Chill Zone](http://9gag.com/gag/ae9QgP5)<!-- MEMES:END -->
+ - 💣 [Must be 9gagger](http://9gag.com/gag/aMVEVdP)
+ - ⏩ [Guy spins apple using air compressor until it explodes](http://9gag.com/gag/ae9QQD5)
+ - 👉 [I&#39;m 40, I don&#39;t have time for this BS](http://9gag.com/gag/aqyeyWR)<!-- MEMES:END -->
 
 ---
 
