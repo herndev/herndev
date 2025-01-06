@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Mount Everest covered in waste, including 12,000 kilos of human excrement](http://9gag.com/gag/aVvbgMK)
- - ⏩ [Man made horrors coming to you soon](http://9gag.com/gag/arymnAV)
- - 👉 [HIS SCHROCK IS OUT](http://9gag.com/gag/a7oqqyq)<!-- MEMES:END -->
+ - 💣 [Guy spins apple using air compressor until it explodes](http://9gag.com/gag/ae9QQD5)
+ - ⏩ [Sometime in the 90s](http://9gag.com/gag/avyQygX)
+ - 👉 [Fears to Fathom have the scariest set pieces in spite of the lofi graphics](http://9gag.com/gag/arymmWX)<!-- MEMES:END -->
 
 ---
 
