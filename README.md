@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Valorant: Meet Your New Agent, Tejo](https://news.xbox.com/en-us/2025/01/06/valorant-tejo-new-agent/)
- - [Pokémon Declares 2025 To Be The &#39;Year Of Eevee&#39;](https://kotaku.com/pokemon-year-of-eevee-prismatic-evolutions-plush-1851732914)
- - [Balatro developer bestows the &#39;very prestigious Golden Thunk award&#39; on Animal Well, says it&#39;s so good it makes him &#39;feel like an imposter&#39;](https://www.pcgamer.com/games/call-of-duty/balatro-developer-bestows-the-very-prestigious-golden-thunk-award-on-animal-well-says-its-so-good-it-makes-him-feel-like-an-imposter/)<!-- GAME:END -->
+ - [Crysis&#39; magical Nanosuit was so convincing that a nanotech conference asked Crytek&#39;s boss to give a keynote speech: &#39;I said, excuse me, but this is all fake&#39;](https://www.pcgamer.com/games/fps/crysis-magical-nanosuit-was-so-convincing-that-a-nanotech-conference-asked-cryteks-boss-to-give-a-keynote-speech-i-said-excuse-me-but-this-is-all-fake/)
+ - [Smite 2 Crossplay And Cross-Progression, Explained](https://kotaku.com/smite-2-crossplay-cross-progression-xbox-ps5-pc-1851733076)
+ - [It’s Doom, but wine in an art gallery instead of monsters in hell](https://www.polygon.com/news/504165/free-doom-art-gallery-mod)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
