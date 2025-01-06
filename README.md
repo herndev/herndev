@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [AMD unveils the Ryzen 9 9950X3D and 9900X3D, with clock speeds up to 5.7GHz, 144MB of cache, and up to 64% faster performance than the Intel Core Ultra 9 285K &lpar;Hassan Mujtaba/Wccftech&rpar;](http://www.techmeme.com/250106/p24#a250106p24)
- - [Dell abandons XPS, Inspiron, and its other classic brands in favor of new branding strategy](https://www.androidauthority.com/dell-pro-max-family-3513316/)
- - [Acer’s new gaming handheld has a ridiculous iPad-sized display](https://www.androidauthority.com/acer-nitro-blaze-8-11-announcement-3512619/)<!-- TECH:END -->
+ - [LG UltraFine 6K Monitor first to connect with Thunderbolt 5](https://appleinsider.com/articles/25/01/06/lg-ultrafine-6k-monitor-first-to-connect-with-thunderbolt-5?utm_medium=rss)
+ - [US designates Tencent and CATL as Chinese military companies](https://www.theverge.com/2025/1/6/24337489/tencent-catl-us-defense-department-chinese-military-companies)
+ - [Samsung claims its Ballie AI robot will actually be released this year](https://www.theverge.com/2025/1/6/24337478/samsung-ballie-robot-release-date-features-2025)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
