@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Netflix’s WWE, Abbott’s Always Sunny crossover, and more new TV this week](https://www.polygon.com/tv/496995/new-netflix-anime-abbott-crossover-wwe)
- - [Discoveries](https://www.polygon.com/gaming/24215620/new-things-to-play-watch-and-experience)
- - [Palworld passive skills list](https://www.polygon.com/palworld-guides/24051783/passive-skills-list)<!-- GAME:END -->
+ - [Denzel Washington&amp;#8217;s time travel thriller has been saved from the memory hole](https://www.polygon.com/what-to-watch/504410/denzel-washington-thriller-streaming-deja-vu)
+ - [See ya later Inspiron and XPS: Dell has streamlined its branding down to a very Apple-like Dell, Dell Pro, and Dell Pro Max](https://www.pcgamer.com/hardware/see-ya-later-inspiron-and-xps-dell-has-streamlined-its-branding-down-to-a-very-apple-like-dell-dell-pro-and-dell-pro-max/)
+ - [The new ROG Flow Z13 is ditching dedicated graphics but making up for it with AMD&#39;s next-gen Ryzen AI Max APU](https://www.pcgamer.com/hardware/the-new-rog-flow-z13-is-ditching-dedicated-graphics-but-making-up-for-it-with-amds-next-gen-ryzen-ai-max-apu/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
