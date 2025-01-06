@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [2025 is PC gaming’s victory lap](https://www.polygon.com/gaming/500266/pc-gaming-mainstream-console-comparison-2025)
- - [Corsair rolls out its first CUDIMM memory sticks for Intel Arrow Lake gaming PCs and they&#39;re as pricey as you&#39;d expect them to be](https://www.pcgamer.com/hardware/memory/corsair-rolls-out-its-first-cudimm-memory-sticks-for-intel-arrow-lake-gaming-pcs-and-theyre-as-pricey-as-youd-expect-them-to-be/)
- - [Hero modders take a break from their 25-year quest to make the rest of Morrowind to make the Oblivion we should have got instead](https://www.pcgamer.com/games/the-elder-scrolls/hero-modders-take-a-break-from-their-25-year-quest-to-make-the-rest-of-morrowind-to-make-the-oblivion-we-should-have-got-instead/)<!-- GAME:END -->
+ - [Carmen Sandiego’s new game is educational in more ways than one](https://www.polygon.com/impressions/504048/carmen-sandiego-2025-game-preview-demo)
+ - [7 John Cena Retirement Tour Moments Fans Hope End His Story](https://kotaku.com/john-cena-retirement-tour-wwe-cody-rhodes-the-rock-1851732028)
+ - [2025 is PC gaming’s victory lap](https://www.polygon.com/gaming/500266/pc-gaming-mainstream-console-comparison-2025)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
