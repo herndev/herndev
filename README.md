@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Satechi&#39;s Mac mini M4 Stand &amp; Hub arrives February 17](https://appleinsider.com/articles/25/01/06/satechis-mac-mini-m4-stand-hub-arrives-february-17?utm_medium=rss)
- - [Bird Buddy’s new camera tracks plants and insects in your garden](https://www.theverge.com/2025/1/6/24337124/bird-buddy-wonder-petal-camera-track-plants-insects-ces-2025)
- - [The newest Kindle Scribe is $75 off in its first sale](https://www.theverge.com/2025/1/6/24337121/amazon-kindle-scribe-ebook-reader-gopro-hero-13-black-action-camera-deal-sale)<!-- TECH:END -->
+ - [Gemini agrees to pay $5M to end a CFTC claim that it misled the derivatives regulator in a bid to launch the first US-regulated Bitcoin futures contract &lpar;Bob Van Voris/Bloomberg&rpar;](http://www.techmeme.com/250106/p22#a250106p22)
+ - [Hisense joins the MicroLED TV race with a massive 136-inch model at CES](https://www.androidauthority.com/hisense-micro-led-tv-ces-announcement-3513225/)
+ - [Hisense’s TriChroma TV could be the middle ground between Mini LED and MicroLED](https://www.theverge.com/2025/1/6/24337147/hisense-microled-trichroma-tv-features-specs)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
