@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [A harbinger of evil](http://9gag.com/gag/a1mPm7v)
- - ⏩ [He asked for a sewing machine for Christmas, and the first thing he made was for his sister.](http://9gag.com/gag/a0e4e2n)
- - 👉 [When your salary is not enough to pay rent](http://9gag.com/gag/aE0qMNp)<!-- MEMES:END -->
+ - 💣 [Didn\u2018t do nothing](http://9gag.com/gag/aO8x286)
+ - ⏩ [The line to this Tesla charging station in Sweden](http://9gag.com/gag/a87qAw6)
+ - 👉 [Goalkeeper randomly gifts little boy with his gloves](http://9gag.com/gag/a0e440B)<!-- MEMES:END -->
 
 ---
 
