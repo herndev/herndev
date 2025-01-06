@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Crysis&#39; magical Nanosuit was so convincing that a nanotech conference asked Crytek&#39;s boss to give a keynote speech: &#39;I said, excuse me, but this is all fake&#39;](https://www.pcgamer.com/games/fps/crysis-magical-nanosuit-was-so-convincing-that-a-nanotech-conference-asked-cryteks-boss-to-give-a-keynote-speech-i-said-excuse-me-but-this-is-all-fake/)
- - [Smite 2 Crossplay And Cross-Progression, Explained](https://kotaku.com/smite-2-crossplay-cross-progression-xbox-ps5-pc-1851733076)
- - [It’s Doom, but wine in an art gallery instead of monsters in hell](https://www.polygon.com/news/504165/free-doom-art-gallery-mod)<!-- GAME:END -->
+ - [Xbox and LG to Bring Cloud Gaming to LG Smart TVs](https://news.xbox.com/en-us/2025/01/06/xbox-lg-smart-tv-cloud-gaming/)
+ - [The best hobby paint for miniatures only requires Two Thin Coats](https://www.polygon.com/review/503812/two-thin-coats-best-hobby-paint-duncan-miniatures-painting)
+ - [Existential horror or cute fuzzy bag buddy? CES is off to a flying start with the wackiest tech for 2025](https://www.pcgamer.com/hardware/existential-horror-or-cute-fuzzy-bag-buddy-ces-is-off-to-a-flying-start-with-the-wackiest-tech-for-2025/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
