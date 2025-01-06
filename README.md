@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Carmen Sandiego’s new game is educational in more ways than one](https://www.polygon.com/impressions/504048/carmen-sandiego-2025-game-preview-demo)
- - [7 John Cena Retirement Tour Moments Fans Hope End His Story](https://kotaku.com/john-cena-retirement-tour-wwe-cody-rhodes-the-rock-1851732028)
- - [2025 is PC gaming’s victory lap](https://www.polygon.com/gaming/500266/pc-gaming-mainstream-console-comparison-2025)<!-- GAME:END -->
+ - [Valorant: Meet Your New Agent, Tejo](https://news.xbox.com/en-us/2025/01/06/valorant-tejo-new-agent/)
+ - [Pokémon Declares 2025 To Be The &#39;Year Of Eevee&#39;](https://kotaku.com/pokemon-year-of-eevee-prismatic-evolutions-plush-1851732914)
+ - [Balatro developer bestows the &#39;very prestigious Golden Thunk award&#39; on Animal Well, says it&#39;s so good it makes him &#39;feel like an imposter&#39;](https://www.pcgamer.com/games/call-of-duty/balatro-developer-bestows-the-very-prestigious-golden-thunk-award-on-animal-well-says-its-so-good-it-makes-him-feel-like-an-imposter/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
