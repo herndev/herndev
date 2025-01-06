@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Gemini agrees to pay $5M to end a CFTC claim that it misled the derivatives regulator in a bid to launch the first US-regulated Bitcoin futures contract &lpar;Bob Van Voris/Bloomberg&rpar;](http://www.techmeme.com/250106/p22#a250106p22)
- - [Hisense joins the MicroLED TV race with a massive 136-inch model at CES](https://www.androidauthority.com/hisense-micro-led-tv-ces-announcement-3513225/)
- - [Hisense’s TriChroma TV could be the middle ground between Mini LED and MicroLED](https://www.theverge.com/2025/1/6/24337147/hisense-microled-trichroma-tv-features-specs)<!-- TECH:END -->
+ - [TCL hypes new NXTPAPER 4.0 display as sharper and more colorful than ever](https://www.androidauthority.com/tcl-nxtpaper-4-display-3513377/)
+ - [TCL’s first Mini LED TV of 2025 offers impressive specs at a tempting price](https://www.theverge.com/2025/1/6/24337426/tcl-qm6k-mini-led-features-specs-pricing)
+ - [‘Max Ink Mode’ makes TCL’s screens even inkier](https://www.theverge.com/2025/1/6/24335983/tcl-60-xe-nxtpaper-e-ink-specs-ces)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
