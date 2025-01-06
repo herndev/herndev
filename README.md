@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The best way to sell a product is by testing it. \ud83e\udd2f](http://9gag.com/gag/a5QX1dV)
- - ⏩ [Tommy Robinson sentenced to 18 months SOLITARY for exposing immigrant child grooming gangs. The actual criminals walk free, while the ones exposing them are jailed. WTF UK?!?!](http://9gag.com/gag/arymWYB)
- - 👉 [Goalkeeper randomly gifts little boy with his gloves](http://9gag.com/gag/a0e440B)<!-- MEMES:END -->
+ - 💣 [What&#39;s the difference between a porcupine and a Porsche?](http://9gag.com/gag/aGyEzyn)
+ - ⏩ [Kurt Cobain really had a heart of gold.](http://9gag.com/gag/a1mPP9R)
+ - 👉 [The line to this Tesla charging station in Sweden](http://9gag.com/gag/a87qAw6)<!-- MEMES:END -->
 
 ---
 
