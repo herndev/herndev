@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at the rise of Watch Duty, a wildfire alert app that is active in 14 US states and has gained up to 7.2M active users in three years since its launch &lpar;Gabrielle Canon/The Guardian&rpar;](http://www.techmeme.com/250106/p4#a250106p4)
- - [Finally, a real contender for Apple’s pricey Thunderbolt 4 cable is here](https://www.theverge.com/2025/1/6/24336701/owc-usb4-active-optical-cable-3-4-5-meter-40-gbps-thunderbolt-4)
- - [To Interact With the Real World, AI Will Gain Physical Intelligence](https://www.wired.com/story/ai-physical-intelligence-machine-learning/)<!-- TECH:END -->
+ - [LG and Samsung are adding Microsoft’s Copilot AI assistant to their TVs](https://www.theverge.com/2025/1/6/24337033/lg-samsung-microsoft-copilot-smart-tvs-ces-2025)
+ - [LG reveals first wireless OLED TV, and it has Microsoft Copilot on it](https://www.androidauthority.com/lg-wireless-oled-tv-copilot-3513255/)
+ - [These High Savings APYs Can Help You Reach Your Money Goals Faster. Today&#39;s Savings Rates, Jan. 6, 2025](https://www.cnet.com/personal-finance/banking/these-high-savings-apys-can-help-you-reach-your-money-goals-faster-todays-savings-rates-jan-6-2025/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
