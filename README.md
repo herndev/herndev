@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Must be 9gagger](http://9gag.com/gag/aMVEVdP)
- - ⏩ [Guy spins apple using air compressor until it explodes](http://9gag.com/gag/ae9QQD5)
- - 👉 [I&#39;m 40, I don&#39;t have time for this BS](http://9gag.com/gag/aqyeyWR)<!-- MEMES:END -->
+ - 💣 [Cops Turn Missing Woman\u2019s Home Into Netflix and Chill Zone](http://9gag.com/gag/ae9QgP5)
+ - ⏩ [A harbinger of evil](http://9gag.com/gag/a1mPm7v)
+ - 👉 [Why It&#39;s A Good Idea To Have A Dash Cam-People trying to scam ~S~](http://9gag.com/gag/a7oqqOw)<!-- MEMES:END -->
 
 ---
 
