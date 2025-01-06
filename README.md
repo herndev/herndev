@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Wear OS smartwatches could soon get another life-saving feature &lpar;APK teardown&rpar;](https://www.androidauthority.com/wear-os-earthquake-alerts-apk-teardown-3513290/)
- - [Sources: India plans $2.7B in fresh subsidies and import tariff cuts to boost local manufacturing, especially of smartphones made by companies like Apple &lpar;Bloomberg&rpar;](http://www.techmeme.com/250106/p5#a250106p5)
- - [The 10 Coolest Things We&#39;ve Seen So Far at CES 2025](https://www.wired.com/gallery/ces-2025-photo-gallery-day-1/)<!-- TECH:END -->
+ - [HMD OffGrid brings satellite connectivity to any smartphone](https://www.androidauthority.com/hmd-offgrid-3512816/)
+ - [Apple, Google, and Samsung will accept Matter certification of smart home products](https://www.theverge.com/2025/1/6/24336570/apple-google-samsung-accept-matter-certification)
+ - [The ElliQ companion robot can now send health updates to a caregiver](https://www.theverge.com/2025/1/6/24334149/elliq-robot-aging-in-place-tech-smart-home)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
