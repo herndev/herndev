@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [HMD OffGrid brings satellite connectivity to any smartphone](https://www.androidauthority.com/hmd-offgrid-3512816/)
- - [Apple, Google, and Samsung will accept Matter certification of smart home products](https://www.theverge.com/2025/1/6/24336570/apple-google-samsung-accept-matter-certification)
- - [The ElliQ companion robot can now send health updates to a caregiver](https://www.theverge.com/2025/1/6/24334149/elliq-robot-aging-in-place-tech-smart-home)<!-- TECH:END -->
+ - [Customize your iPhone video studio with ShiftCam&#39;s SnapSeries SSD &amp; lights](https://appleinsider.com/articles/25/01/06/customize-your-iphone-video-studio-with-shiftcams-snapseries-ssd-lights?utm_medium=rss)
+ - [One UI 7 beta 3 starts rolling out for Galaxy S24 series in select markets](https://www.androidauthority.com/one-ui-7-beta-3-rolling-out-3513333/)
+ - [TiVo plans to launch TiVo OS in the US with a new Sharp TV, arriving as soon as February 2025, rivaling Roku, Google TV, and Amazon&#39;s Fire TV &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/250106/p10#a250106p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
