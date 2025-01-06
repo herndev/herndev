@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [They did exactly what they should have done](http://9gag.com/gag/aBydgmx)
- - ⏩ [They&#39;re Trying to Pull a Fast One on Her](http://9gag.com/gag/aKGE7GZ)
- - 👉 [Installing bathroom tiles](http://9gag.com/gag/aW4GxGx)<!-- MEMES:END -->
+ - 💣 [Directed by Michael Bay](http://9gag.com/gag/aRBEXrG)
+ - ⏩ [I&#39;m 40, I don&#39;t have time for this BS](http://9gag.com/gag/aqyeyWR)
+ - 👉 [Cops Turn Missing Woman\u2019s Home Into Netflix and Chill Zone](http://9gag.com/gag/ae9QgP5)<!-- MEMES:END -->
 
 ---
 
