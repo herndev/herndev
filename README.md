@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle answer for Monday, January 6](https://www.pcgamer.com/games/puzzle/wordle-answer-today-january-6-2025/)
  - [Finally someone turned Doom into an enriching cultural experience for art snobs](https://www.pcgamer.com/games/fps/finally-someone-turned-doom-into-an-enriching-cultural-experience-for-art-snobs/)
- - [Five new Steam games you probably missed &lpar;January 6, 2025&rpar;](https://www.pcgamer.com/software/platforms/five-new-steam-games-you-probably-missed-january-6-2025/)
- - [Zach-like automation puzzle game ABI-DOS is available on Steam for free](https://www.pcgamer.com/games/puzzle/zach-like-automation-puzzle-game-abi-dos-is-available-on-steam-for-free/)<!-- GAME:END -->
+ - [Five new Steam games you probably missed &lpar;January 6, 2025&rpar;](https://www.pcgamer.com/software/platforms/five-new-steam-games-you-probably-missed-january-6-2025/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
