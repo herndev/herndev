@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Nexus Mods removes Marvel Rivals mods that replace Captain America with Trump and Biden: &#39;We don&#39;t want to handle all the nutjobs that come out the woodwork whenever these mods get posted&#39;](https://www.pcgamer.com/games/third-person-shooter/nexus-mods-removes-marvel-rivals-mods-that-replace-captain-america-with-trump-and-biden-we-dont-want-to-handle-all-the-nutjobs-that-come-out-the-woodwork-whenever-these-mods-get-posted/)
- - [Former Starfield lead quest designer says we&#39;re seeing a &#39;resurgence of short games&#39; because people are &#39;becoming fatigued&#39; with 100-hour monsters](https://www.pcgamer.com/games/rpg/former-starfield-lead-quest-designer-says-were-seeing-a-resurgence-of-short-games-because-people-are-becoming-fatigued-with-100-hour-monsters/)
- - [Everything Coming In Marvel Rivals’ Fantastic Four-Focused Season](https://kotaku.com/marvel-rivals-season-1-fantastic-four-patch-notes-map-1851733602)<!-- GAME:END -->
+ - [Acer unveils the comically huge Nitro Blaze 11, a gaming handheld more than three times the weight of a Nintendo Switch](https://www.pcgamer.com/hardware/handheld-gaming-pcs/acer-unveils-the-comically-huge-nitro-blaze-11-a-gaming-handheld-more-than-three-times-the-weight-of-a-nintendo-switch/)
+ - [Less than 2 years after launch, 2K Games delivers a fatal piledriver to WWE 2K23, taking servers offline and removing it from Steam](https://www.pcgamer.com/games/sports/less-than-2-years-after-launch-2k-games-delivers-a-fatal-piledriver-to-wwe-2k23-taking-servers-offline-and-removing-it-from-steam/)
+ - [Historical Palestinian game Dreams on a Pillow surpasses funding goal](https://www.polygon.com/gaming/504479/dreams-on-a-pillow-palestinian-1948-nakba-game-funded)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
