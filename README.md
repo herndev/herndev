@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How to get Ancient Technology Points in Palworld](https://www.polygon.com/palworld-guides/24049322/ancient-technology-points-how-to-get)
- - [Gundam fans are getting a tabletop game](https://www.polygon.com/tabletop-games/504430/gundam-assemble-tabletop-miniatures-game-bandai)
- - [What does SVP mean in Marvel Rivals?](https://www.polygon.com/marvel-rivals-guide/492891/svp-meaning-definition-award)<!-- GAME:END -->
+ - [Nexus Mods removes Marvel Rivals mods that replace Captain America with Trump and Biden: &#39;We don&#39;t want to handle all the nutjobs that come out the woodwork whenever these mods get posted&#39;](https://www.pcgamer.com/games/third-person-shooter/nexus-mods-removes-marvel-rivals-mods-that-replace-captain-america-with-trump-and-biden-we-dont-want-to-handle-all-the-nutjobs-that-come-out-the-woodwork-whenever-these-mods-get-posted/)
+ - [Former Starfield lead quest designer says we&#39;re seeing a &#39;resurgence of short games&#39; because people are &#39;becoming fatigued&#39; with 100-hour monsters](https://www.pcgamer.com/games/rpg/former-starfield-lead-quest-designer-says-were-seeing-a-resurgence-of-short-games-because-people-are-becoming-fatigued-with-100-hour-monsters/)
+ - [Everything Coming In Marvel Rivals’ Fantastic Four-Focused Season](https://kotaku.com/marvel-rivals-season-1-fantastic-four-patch-notes-map-1851733602)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
