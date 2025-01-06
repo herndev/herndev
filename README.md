@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Goalkeeper randomly gifts little boy with his gloves](http://9gag.com/gag/a0e440B)
- - ⏩ [Kurt Cobain really had a heart of gold.](http://9gag.com/gag/a1mPP9R)
- - 👉 [What attacked him? A bat, a spider or 4skin?](http://9gag.com/gag/avyQWx5)<!-- MEMES:END -->
+ - 💣 [Simona Halep, Romanian former #1 tennis before breast reduction](http://9gag.com/gag/aQzEEjz)
+ - ⏩ [Asking the real question](http://9gag.com/gag/aByd6gQ)
+ - 👉 [She needs to be punished appropriately](http://9gag.com/gag/a5QX6LE)<!-- MEMES:END -->
 
 ---
 
