@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Crytek went so overboard on the Crysis tech it created a whole blushing system, implemented nose shadows, and sent devs to photograph leaves in Haiti to get the translucency right: &#39;We went over bonkers on this one&#39;](https://www.pcgamer.com/games/crytek-went-so-overboard-on-the-crysis-tech-it-created-a-whole-blushing-system-implemented-nose-shadows-and-sent-devs-to-photograph-leaves-in-haiti-to-get-the-translucency-right-we-went-over-bonkers-on-this-one/)
- - [Kenny Omega debuts new entrance theme by Final Fantasy composer Masayoshi Soken](https://www.polygon.com/gaming/504239/kenny-omega-wrestling-final-fantasy-14-16-masayoshi-soken-nobuo-uematsu)
- - [Fans think Switch 2’s Joy-Cons can be used like a little, skinny mouse](https://www.polygon.com/nintendo/504149/switch-2-joy-con-mouse)<!-- GAME:END -->
+ - [Netflix’s WWE, Abbott’s Always Sunny crossover, and more new TV this week](https://www.polygon.com/tv/496995/new-netflix-anime-abbott-crossover-wwe)
+ - [Discoveries](https://www.polygon.com/gaming/24215620/new-things-to-play-watch-and-experience)
+ - [Palworld passive skills list](https://www.polygon.com/palworld-guides/24051783/passive-skills-list)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
