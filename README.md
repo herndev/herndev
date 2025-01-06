@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Q&amp;A with Sam Altman on OpenAI&#39;s and ChatGPT&#39;s first few years, his removal as CEO, OpenAI&#39;s structure, AGI, AI safety, nuclear fusion, Trump, Musk, and more &lpar;Josh Tyrangiel/Bloomberg&rpar;](http://www.techmeme.com/250105/p11#a250105p11)
- - [Two new Govee Matter smart lights have arrived at CES 2025](https://appleinsider.com/articles/25/01/05/two-new-govee-matter-smart-lights-have-arrived-at-ces-2025?utm_medium=rss)
- - [Govee’s latest smart lights bring pixel art to your desk and a speaker to your lamp](https://www.androidauthority.com/govee-gaming-pixel-light-table-lamp-2-pro-3512669/)<!-- TECH:END -->
+ - [Lymow One smart robomower made to deal with large lawns](https://appleinsider.com/articles/25/01/06/lymow-one-smart-robomower-made-to-deal-with-large-lawns?utm_medium=rss)
+ - [Circular&#39;s second-gen Ring adds ECG and digital ring-sizing](https://appleinsider.com/articles/25/01/06/circulars-second-gen-ring-adds-ecg-and-digital-ring-sizing?utm_medium=rss)
+ - [Eli Health brings hormone testing to the iPhone](https://appleinsider.com/articles/25/01/06/eli-health-brings-hormone-testing-to-the-iphone?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
