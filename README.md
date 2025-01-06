@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Customize your iPhone video studio with ShiftCam&#39;s SnapSeries SSD &amp; lights](https://appleinsider.com/articles/25/01/06/customize-your-iphone-video-studio-with-shiftcams-snapseries-ssd-lights?utm_medium=rss)
- - [One UI 7 beta 3 starts rolling out for Galaxy S24 series in select markets](https://www.androidauthority.com/one-ui-7-beta-3-rolling-out-3513333/)
- - [TiVo plans to launch TiVo OS in the US with a new Sharp TV, arriving as soon as February 2025, rivaling Roku, Google TV, and Amazon&#39;s Fire TV &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/250106/p10#a250106p10)<!-- TECH:END -->
+ - [JBL’s Tour One M3 headphones wirelessly connect to older devices using a touchscreen transmitter](https://www.theverge.com/2025/1/6/24337109/jpl-tour-one-m3-wireless-headphones-transmitter-bluetooth)
+ - [Chinese VCs are targeting failed founders&#39; personal assets and blacklisting them as debtors when they don&#39;t pay, throwing China&#39;s funding ecosystem into crisis &lpar;Financial Times&rpar;](http://www.techmeme.com/250106/p14#a250106p14)
+ - [Aptera shows off a new solar-powered car that it swears will go into production](https://www.theverge.com/2025/1/6/24337095/aptera-solar-car-production-intent-pininfarina-ces)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
