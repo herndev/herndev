@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [LG UltraFine 6K Monitor first to connect with Thunderbolt 5](https://appleinsider.com/articles/25/01/06/lg-ultrafine-6k-monitor-first-to-connect-with-thunderbolt-5?utm_medium=rss)
- - [US designates Tencent and CATL as Chinese military companies](https://www.theverge.com/2025/1/6/24337489/tencent-catl-us-defense-department-chinese-military-companies)
- - [Samsung claims its Ballie AI robot will actually be released this year](https://www.theverge.com/2025/1/6/24337478/samsung-ballie-robot-release-date-features-2025)<!-- TECH:END -->
+ - [Apple&#39;s fix for bad AI notification summaries won&#39;t actually improve results](https://appleinsider.com/articles/25/01/06/apples-fix-for-bad-ai-notification-summaries-wont-actually-improve-results?utm_medium=rss)
+ - [Meta elected three new directors to its board, including UFC CEO and outspoken Donald Trump supporter Dana White &lpar;Kurt Wagner/Bloomberg&rpar;](http://www.techmeme.com/250106/p28#a250106p28)
+ - [Toyota’s futuristic Woven City in Japan is ready for its first residents](https://www.theverge.com/2025/1/6/24337152/toyota-woven-city-japan-residents-phase-one)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
