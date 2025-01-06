@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Guy spins apple using air compressor until it explodes](http://9gag.com/gag/ae9QQD5)
- - ⏩ [The best way to sell a product is by testing it. \ud83e\udd2f](http://9gag.com/gag/a5QX1dV)
- - 👉 [No context needed](http://9gag.com/gag/apR99jM)<!-- MEMES:END -->
+ - 💣 [The best way to sell a product is by testing it. \ud83e\udd2f](http://9gag.com/gag/a5QX1dV)
+ - ⏩ [Tommy Robinson sentenced to 18 months SOLITARY for exposing immigrant child grooming gangs. The actual criminals walk free, while the ones exposing them are jailed. WTF UK?!?!](http://9gag.com/gag/arymWYB)
+ - 👉 [Goalkeeper randomly gifts little boy with his gloves](http://9gag.com/gag/a0e440B)<!-- MEMES:END -->
 
 ---
 
