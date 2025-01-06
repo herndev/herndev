@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung’s Neo QLED 8K TV and The Frame Pro are the stars of its new 2025 TV lineup](https://www.androidauthority.com/samsung-neo-qled-8k-tv-frame-pro-ces-2025-tv-lineup-3513143/)
- - [The Pixel Launcher widget list may soon hide most widgets behind a menu &lpar;APK teardown&rpar;](https://www.androidauthority.com/pixel-filtered-widgets-3513018/)
- - [A profile of headhunter Peterson Conway, who worked with Palantir and other Silicon Valley defense and hard tech firms and is now the talent head at VC firm A* &lpar;Margaux MacColl/TechCrunch&rpar;](http://www.techmeme.com/250106/p3#a250106p3)<!-- TECH:END -->
+ - [Check out the Galaxy S25 Ultra in Titanium Blue and Galaxy S25 Plus in Icy Blue colors!](https://www.androidauthority.com/samsung-galaxy-s25-plus-ultra-blue-color-leak-3513229/)
+ - [Android may soon let you customize your touchpad’s three-tap gesture &lpar;APK teardown&rpar;](https://www.androidauthority.com/android-three-tap-touchpad-gesture-3513024/)
+ - [This Water Bottle Cap Is Like a Personal SodaStream You Can Take on the Go. It Sparkles](https://www.cnet.com/how-to/this-water-bottle-cap-is-like-a-personal-sodastream-you-can-take-on-the-go-it-sparkles/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
