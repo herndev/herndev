@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [JBL’s Tour One M3 headphones wirelessly connect to older devices using a touchscreen transmitter](https://www.theverge.com/2025/1/6/24337109/jpl-tour-one-m3-wireless-headphones-transmitter-bluetooth)
- - [Chinese VCs are targeting failed founders&#39; personal assets and blacklisting them as debtors when they don&#39;t pay, throwing China&#39;s funding ecosystem into crisis &lpar;Financial Times&rpar;](http://www.techmeme.com/250106/p14#a250106p14)
- - [Aptera shows off a new solar-powered car that it swears will go into production](https://www.theverge.com/2025/1/6/24337095/aptera-solar-car-production-intent-pininfarina-ces)<!-- TECH:END -->
+ - [Ecobee launches an even cheaper smart thermostat](https://www.theverge.com/2025/1/6/24335022/ecobee-essential-thermostat-price-ces-2025)
+ - [Qualcomm’s new Snapdragon X chips bring Windows on Arm to cheaper laptops](https://www.theverge.com/2025/1/6/24334870/qualcomm-snapdragon-x-laptops-mini-pcs-ces-2025)
+ - [Meta stops selling the Quest Pro](https://www.theverge.com/2025/1/6/24337157/meta-stops-selling-quest-pro-vr-headset-low-sales-discontinued)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
