@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Female Invincibility card: REJECTED!](http://9gag.com/gag/a34Z5pe)
- - ⏩ [No context needed](http://9gag.com/gag/apR99jM)
- - 👉 [Kurt Cobain really had a heart of gold.](http://9gag.com/gag/a1mPP9R)<!-- MEMES:END -->
+ - 💣 [What attacked him? A bat, a spider or 4skin?](http://9gag.com/gag/avyQWx5)
+ - ⏩ [Who did this appeal to?](http://9gag.com/gag/aoyK3Kw)
+ - 👉 [Andrew Tate looks like he found the ring and is on his way to becoming Gollum](http://9gag.com/gag/a9yqq0j)<!-- MEMES:END -->
 
 ---
 
