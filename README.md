@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The quality of Japanese street food is just incredible.](http://9gag.com/gag/aE0q86n)
- - ⏩ [Kurt Cobain really had a heart of gold.](http://9gag.com/gag/a1mPP9R)
- - 👉 [Another addition to my storage](http://9gag.com/gag/aVvbbgn)<!-- MEMES:END -->
+ - 💣 [A harbinger of evil](http://9gag.com/gag/a1mPm7v)
+ - ⏩ [Too much here...](http://9gag.com/gag/aO8x8BN)
+ - 👉 [Stay awhile and drink with me - 45 today](http://9gag.com/gag/aQzEzYz)<!-- MEMES:END -->
 
 ---
 
