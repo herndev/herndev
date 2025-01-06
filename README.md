@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s fix for bad AI notification summaries won&#39;t actually improve results](https://appleinsider.com/articles/25/01/06/apples-fix-for-bad-ai-notification-summaries-wont-actually-improve-results?utm_medium=rss)
- - [Meta elected three new directors to its board, including UFC CEO and outspoken Donald Trump supporter Dana White &lpar;Kurt Wagner/Bloomberg&rpar;](http://www.techmeme.com/250106/p28#a250106p28)
- - [Toyota’s futuristic Woven City in Japan is ready for its first residents](https://www.theverge.com/2025/1/6/24337152/toyota-woven-city-japan-residents-phase-one)<!-- TECH:END -->
+ - [Samsung’s next Unpacked event sets a date to reveal the Galaxy S25](https://www.theverge.com/2025/1/6/24336647/samsung-galaxy-unpacked-announced-galaxy-s25-android-ai)
+ - [Dana White is joining Meta’s board of directors](https://www.theverge.com/2025/1/6/24337670/meta-board-of-directors-dana-white-ufc)
+ - [HDMI Forum unveils the HDMI 2.2 spec, with better audio sync and up to 96Gbps bandwidth for resolutions like 12K at 120Hz, some of which need an &quot;Ultra96&quot; cable &lpar;Darragh Murphy/Tom&#39;s Guide&rpar;](http://www.techmeme.com/250106/p30#a250106p30)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
