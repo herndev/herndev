@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Now D&amp;D&#39;s 2024 rules revamp is almost finished, I&#39;ve been visited by the ghosts of TTRPG past, present, and future to help me predict the next 5-10 years](https://www.pcgamer.com/games/now-d-and-ds-2024-rules-revamp-is-almost-finished-ive-been-visited-by-the-ghosts-of-ttrpg-past-present-and-future-to-help-me-predict-the-next-5-10-years/)
  - [New Year, New Rewards with Xbox](https://news.xbox.com/en-us/2025/01/06/xbox-quests-rewards-game-pass/)
- - [Today&#39;s Wordle answer for Monday, January 6](https://www.pcgamer.com/games/puzzle/wordle-answer-today-january-6-2025/)
- - [Finally someone turned Doom into an enriching cultural experience for art snobs](https://www.pcgamer.com/games/fps/finally-someone-turned-doom-into-an-enriching-cultural-experience-for-art-snobs/)<!-- GAME:END -->
+ - [Today&#39;s Wordle answer for Monday, January 6](https://www.pcgamer.com/games/puzzle/wordle-answer-today-january-6-2025/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
