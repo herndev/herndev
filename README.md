@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best Bluetooth trackers for finding your stuff](https://www.theverge.com/23769840/best-bluetooth-trackers)
- - [Filing: Dara Khosrowshahi resigns from self-driving truck startup Aurora&#39;s board, to focus on his job as Uber CEO and reduce external board commitments &lpar;Rebecca Bellan/TechCrunch&rpar;](http://www.techmeme.com/250103/p21#a250103p21)
- - [The best smartphone you can buy for under $500](https://www.theverge.com/21420196/best-budget-smartphone-cheap)<!-- TECH:END -->
+ - [Q&amp;A with Sam Altman on OpenAI&#39;s and ChatGPT&#39;s first few years, his removal as CEO, OpenAI&#39;s structure, AGI, AI safety, nuclear fusion, Trump, Musk, and more &lpar;Josh Tyrangiel/Bloomberg&rpar;](http://www.techmeme.com/250105/p11#a250105p11)
+ - [Two new Govee Matter smart lights have arrived at CES 2025](https://appleinsider.com/articles/25/01/05/two-new-govee-matter-smart-lights-have-arrived-at-ces-2025?utm_medium=rss)
+ - [Govee’s latest smart lights bring pixel art to your desk and a speaker to your lamp](https://www.androidauthority.com/govee-gaming-pixel-light-table-lamp-2-pro-3512669/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
