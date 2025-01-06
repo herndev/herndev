@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Didn\u2018t do nothing](http://9gag.com/gag/aO8x286)
- - ⏩ [The line to this Tesla charging station in Sweden](http://9gag.com/gag/a87qAw6)
- - 👉 [Goalkeeper randomly gifts little boy with his gloves](http://9gag.com/gag/a0e440B)<!-- MEMES:END -->
+ - 💣 [Player makes sure ball girl is OK after getting hit by tennis ball.](http://9gag.com/gag/a5QXVKG)
+ - ⏩ [The quality of Japanese street food is just incredible.](http://9gag.com/gag/aE0q86n)
+ - 👉 [Guy spins apple using air compressor until it explodes](http://9gag.com/gag/ae9QQD5)<!-- MEMES:END -->
 
 ---
 
