@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Check out the Galaxy S25 Ultra in Titanium Blue and Galaxy S25 Plus in Icy Blue colors!](https://www.androidauthority.com/samsung-galaxy-s25-plus-ultra-blue-color-leak-3513229/)
- - [Android may soon let you customize your touchpad’s three-tap gesture &lpar;APK teardown&rpar;](https://www.androidauthority.com/android-three-tap-touchpad-gesture-3513024/)
- - [This Water Bottle Cap Is Like a Personal SodaStream You Can Take on the Go. It Sparkles](https://www.cnet.com/how-to/this-water-bottle-cap-is-like-a-personal-sodastream-you-can-take-on-the-go-it-sparkles/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [A look at the rise of Watch Duty, a wildfire alert app that is active in 14 US states and has gained up to 7.2M active users in three years since its launch &lpar;Gabrielle Canon/The Guardian&rpar;](http://www.techmeme.com/250106/p4#a250106p4)
+ - [Finally, a real contender for Apple’s pricey Thunderbolt 4 cable is here](https://www.theverge.com/2025/1/6/24336701/owc-usb4-active-optical-cable-3-4-5-meter-40-gbps-thunderbolt-4)
+ - [To Interact With the Real World, AI Will Gain Physical Intelligence](https://www.wired.com/story/ai-physical-intelligence-machine-learning/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
