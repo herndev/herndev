@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Ghost of Tsushima anime coming from Crunchyroll and PlayStation](https://www.polygon.com/entertainment/504040/ghost-of-tsushima-anime-legends-crunchyroll-playstation)
  - [BioShock maestro Ken Levine says Judas will double down on reacting to player choices because it&#39;s the future of games: &#39;I&#39;ve never been a big fan of cutscenes because they&#39;re not interactive&#39;](https://www.pcgamer.com/games/fps/bioshock-maestro-ken-levine-says-judas-will-double-down-on-reacting-to-player-choices-because-its-the-future-of-games-ive-never-been-a-big-fan-of-cutscenes-because-theyre-not-interactive/)
- - [Marvel Rivals&#39; first balance patch targets two popular Duelists and Jeff&#39;s ultimate](https://www.pcgamer.com/games/third-person-shooter/marvel-rivals-first-balance-patch-targets-two-popular-duelists-and-jeffs-ultimate/)
- - [Nvidia CES 2025 keynote live: new GPUs or there&#39;ll be a riot](https://www.pcgamer.com/hardware/news/live/nvidia-ces-2025-keynote-live-new-gpus-or-therell-be-a-riot/)<!-- GAME:END -->
+ - [Marvel Rivals&#39; first balance patch targets two popular Duelists and Jeff&#39;s ultimate](https://www.pcgamer.com/games/third-person-shooter/marvel-rivals-first-balance-patch-targets-two-popular-duelists-and-jeffs-ultimate/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
