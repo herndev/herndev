@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Asking the real question](http://9gag.com/gag/aByd6gQ)
- - ⏩ [`One of the best investments you could possibly make.` Good luck to the owners wanting to sell theirs. LOL](http://9gag.com/gag/aQzE7b2)
- - 👉 [New year new me](http://9gag.com/gag/an7z280)<!-- MEMES:END -->
+ - 💣 [How to be kind, smart and f**king dumb in less than 30 seconds...](http://9gag.com/gag/aVvbKLn)
+ - ⏩ [Now thats a gender equality](http://9gag.com/gag/a87q0nO)
+ - 👉 [What attacked him? A bat, a spider or 4skin?](http://9gag.com/gag/avyQWx5)<!-- MEMES:END -->
 
 ---
 
