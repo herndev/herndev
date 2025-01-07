@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Acer unveils the comically huge Nitro Blaze 11, a gaming handheld more than three times the weight of a Nintendo Switch](https://www.pcgamer.com/hardware/handheld-gaming-pcs/acer-unveils-the-comically-huge-nitro-blaze-11-a-gaming-handheld-more-than-three-times-the-weight-of-a-nintendo-switch/)
- - [Less than 2 years after launch, 2K Games delivers a fatal piledriver to WWE 2K23, taking servers offline and removing it from Steam](https://www.pcgamer.com/games/sports/less-than-2-years-after-launch-2k-games-delivers-a-fatal-piledriver-to-wwe-2k23-taking-servers-offline-and-removing-it-from-steam/)
- - [Historical Palestinian game Dreams on a Pillow surpasses funding goal](https://www.polygon.com/gaming/504479/dreams-on-a-pillow-palestinian-1948-nakba-game-funded)<!-- GAME:END -->
+ - [AMD&#39;s RDNA 4 GPUs are about efficiency in terms of performance and price: &#39;We know where gamers buy products, it&#39;s well below that $1,000 price point&#39;](https://www.pcgamer.com/hardware/graphics-cards/amds-rdna-4-gpus-are-about-efficiency-in-terms-of-performance-and-price-we-know-where-gamers-buy-products-its-well-below-that-usd1-000-price-point/)
+ - [AMD says &#39;the performance data out there for RDNA 4 is completely inaccurate&#39;](https://www.pcgamer.com/hardware/graphics-cards/amd-says-the-performance-data-out-there-for-rdna-4-is-completely-inaccurate/)
+ - [Acer unveils the comically huge Nitro Blaze 11, a gaming handheld more than three times the weight of a Nintendo Switch](https://www.pcgamer.com/hardware/handheld-gaming-pcs/acer-unveils-the-comically-huge-nitro-blaze-11-a-gaming-handheld-more-than-three-times-the-weight-of-a-nintendo-switch/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
