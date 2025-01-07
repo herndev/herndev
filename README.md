@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [How to be kind, smart and f**king dumb in less than 30 seconds...](http://9gag.com/gag/aVvbKLn)
- - ⏩ [Now thats a gender equality](http://9gag.com/gag/a87q0nO)
- - 👉 [What attacked him? A bat, a spider or 4skin?](http://9gag.com/gag/avyQWx5)<!-- MEMES:END -->
+ - 💣 [Man goes around slashing random peoples tires](http://9gag.com/gag/aNDwvnK)
+ - ⏩ [Fisherman struck by lightning twice](http://9gag.com/gag/a6Zq5r2)
+ - 👉 [New year new me](http://9gag.com/gag/an7z280)<!-- MEMES:END -->
 
 ---
 
