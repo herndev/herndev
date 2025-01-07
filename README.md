@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Mount Everest covered in waste, including 12,000 kilos of human excrement](http://9gag.com/gag/aVvbgMK)
- - ⏩ [Wholesome and rare behavior but lady was reaching for pepper spray](http://9gag.com/gag/a1mPNbR)
- - 👉 [The Beast](http://9gag.com/gag/aYQVGzN)<!-- MEMES:END -->
+ - 💣 [`He didnt cry at titanic, do mem even have feelings?` meanwhile men: ...](http://9gag.com/gag/aoyKV12)
+ - ⏩ [A mom discovers body parts in her son\u2019s room, and his haunting explanation is straight out of a nightmare](http://9gag.com/gag/aMVEBBG)
+ - 👉 [Money runs the world](http://9gag.com/gag/aD2Yn0w)<!-- MEMES:END -->
 
 ---
 
