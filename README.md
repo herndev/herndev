@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Here’s how Apple will ‘fix’ the iPhone’s false AI notification summary problem](https://www.androidauthority.com/apple-will-fix-ai-notification-summary-3513749/)
- - [Satya Nadella says Microsoft will invest about $3B to expand its Azure cloud and AI capacity in India and train 10 million people in AI in the country by 2030 &lpar;Reuters&rpar;](http://www.techmeme.com/250107/p7#a250107p7)
- - [Official Galaxy S25 series renders leak with new Qi2-compatible case](https://www.androidauthority.com/samsung-galaxy-s25-series-renders-qi2-compatible-case-leak-3513746/)<!-- TECH:END -->
+ - [Dutch chipmaker NXP agrees to buy TTTech Auto, a Vienna-based automotive safety software provider, for $625M in cash, aiming to boost its automotive operations &lpar;Toby Sterling/Reuters&rpar;](http://www.techmeme.com/250107/p8#a250107p8)
+ - [Correcting Genetic Spelling Errors With Next-Generation Crispr](https://www.wired.com/story/correcting-genetic-spelling-errors-with-next-generation-crispr/)
+ - [Here’s how Apple will ‘fix’ the iPhone’s false AI notification summary problem](https://www.androidauthority.com/apple-will-fix-ai-notification-summary-3513749/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
