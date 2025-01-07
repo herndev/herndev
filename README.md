@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Man goes around slashing random peoples tires](http://9gag.com/gag/aNDwvnK)
- - ⏩ [Fisherman struck by lightning twice](http://9gag.com/gag/a6Zq5r2)
- - 👉 [New year new me](http://9gag.com/gag/an7z280)<!-- MEMES:END -->
+ - 💣 [Fisherman struck by lightning twice](http://9gag.com/gag/a6Zq5r2)
+ - ⏩ [Damn that father ain&#39;t recovering after that jeez](http://9gag.com/gag/aO8xeGD)
+ - 👉 [Now thats a gender equality](http://9gag.com/gag/a87q0nO)<!-- MEMES:END -->
 
 ---
 
