@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Trudeau resigned](http://9gag.com/gag/a4Poz66)
- - ⏩ [She needs to be punished appropriately](http://9gag.com/gag/a5QX6LE)
- - 👉 [The line to this Tesla charging station in Sweden](http://9gag.com/gag/a87qAw6)<!-- MEMES:END -->
+ - 💣 [Played them like a damn fiddle](http://9gag.com/gag/avyQexb)
+ - ⏩ [`He didnt cry at titanic, do mem even have feelings?` meanwhile men: ...](http://9gag.com/gag/aoyKV12)
+ - 👉 [Trudeau resigned](http://9gag.com/gag/a4Poz66)<!-- MEMES:END -->
 
 ---
 
