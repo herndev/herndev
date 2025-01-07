@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Savant’s new smart budget system lets you control your home’s electrical load](https://www.theverge.com/2025/1/7/24338151/savant-smart-budget-circuit-breaker-modules-smart-home-control-energy-monitoring)
- - [Valve will officially let you install SteamOS on other handhelds as soon as this April](https://www.theverge.com/2025/1/7/24338405/valve-steamos-beta-other-handhelds-beyond-steam-deck)
- - [Asus unveils the 2025 Asus XG Mobile, a $1,200+ portable docking station with the world&#39;s first Thunderbolt 5 eGPU, with an option to add a GeForce RTX 5090 &lpar;Sean Hollister/The Verge&rpar;](http://www.techmeme.com/250107/p35#a250107p35)<!-- TECH:END -->
+ - [2025 Swift Student Challenge submissions open February 3](https://appleinsider.com/articles/25/01/07/2025-swift-student-challenge-submissions-open-february-3?utm_medium=rss)
+ - [The Health Monitoring Boom Only Gets Weirder From Here](https://www.wired.com/story/the-health-monitoring-boom-only-gets-weirder-from-here/)
+ - [Blue Ghost Lunar Lander scheduled to launch on January 15th](https://www.theverge.com/2025/1/7/24338415/firefly-blue-ghost-1-moon-landing-spacex-nasa-mission)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
