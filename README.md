@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Dutch chipmaker NXP agrees to buy TTTech Auto, a Vienna-based automotive safety software provider, for $625M in cash, aiming to boost its automotive operations &lpar;Toby Sterling/Reuters&rpar;](http://www.techmeme.com/250107/p8#a250107p8)
- - [Correcting Genetic Spelling Errors With Next-Generation Crispr](https://www.wired.com/story/correcting-genetic-spelling-errors-with-next-generation-crispr/)
- - [Here’s how Apple will ‘fix’ the iPhone’s false AI notification summary problem](https://www.androidauthority.com/apple-will-fix-ai-notification-summary-3513749/)<!-- TECH:END -->
+ - [Plugable debuts two new USB-C docks plus 10-port USB-C Charger](https://appleinsider.com/articles/25/01/07/plugable-debuts-5-display-dock-10-port-usb-c-charger-and-displaylink-pro-quad-display-adapter-at-ces-2025?utm_medium=rss)
+ - [Indonesia wants more than $1 billion from Apple to lift iPhone ban, welcomes Huawei with open arms](https://appleinsider.com/articles/25/01/07/indonesia-welcomes-huawei-but-wants-still-more-than-1-billion-from-apple?utm_medium=rss)
+ - [This is how long your Pixel’s battery should last, as per Google](https://www.androidauthority.com/google-pixel-rated-charge-cycles-3513791/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
