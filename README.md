@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Belly Bumpers Preview is Now Available for Xbox Insiders!](https://news.xbox.com/en-us/2025/01/07/the-belly-bumpers-preview-is-now-available-for-xbox-insiders/)
- - [Best Fortnite Squid Game map codes](https://www.polygon.com/fortnite-guide/504713/best-squid-game-maps-modes-creative)
- - [Call of Duty: Black Ops Cold War cost $700M to make](https://www.polygon.com/news/504702/call-of-duty-black-ops-cold-war-development-costs-700-million)<!-- GAME:END -->
+ - [Start 2025 with the overlooked feel-good anime of 2024](https://www.polygon.com/anime/505004/girls-band-cry-anime-streaming-crunchyroll)
+ - [Discoveries](https://www.polygon.com/gaming/24215620/new-things-to-play-watch-and-experience)
+ - [How To Unlock The Golden Bot Trophy In Astro Bot](https://kotaku.com/astro-bot-team-asobi-golden-bot-trophy-how-1851734502)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
