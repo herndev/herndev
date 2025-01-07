@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Recharge your iPhone on the move with Satechi&#39;s OnTheGo power banks](https://appleinsider.com/articles/25/01/07/recharge-your-iphone-on-the-move-with-satechis-onthego-power-banks?utm_medium=rss)
- - [LaCie leverages Thunderbolt 5 with Rugged SSD Pro5 for creative pros at CES 2025](https://appleinsider.com/articles/25/01/07/lacie-leverages-thunderbolt-5-with-rugged-ssd-pro5-for-creative-pros-at-ces-2025?utm_medium=rss)
- - [Lenovo announces the Yoga Slim 9i, the first Windows laptop with a camera hidden under the display panel, coming in February and starting at $1,849 &lpar;Andrew Romero/9to5Google&rpar;](http://www.techmeme.com/250107/p24#a250107p24)<!-- TECH:END -->
+ - [Former Annapurna leads take charge of Take-Two’s discarded indie games](https://www.theverge.com/2025/1/7/24338274/annapurna-interactive-new-company-take-two-private-division)
+ - [This cat tree is also an air purifier](https://www.theverge.com/2025/1/7/24338231/lg-aerocattower-air-purifier-cat-tower)
+ - [Human Metapneumovirus Is Finally Being Taken Seriously](https://www.wired.com/story/human-metapneumovirus-is-the-forgotten-burden-of-public-health-china-flu-rsv-covid/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
