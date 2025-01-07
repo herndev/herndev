@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Start 2025 with the overlooked feel-good anime of 2024](https://www.polygon.com/anime/505004/girls-band-cry-anime-streaming-crunchyroll)
- - [Discoveries](https://www.polygon.com/gaming/24215620/new-things-to-play-watch-and-experience)
- - [How To Unlock The Golden Bot Trophy In Astro Bot](https://kotaku.com/astro-bot-team-asobi-golden-bot-trophy-how-1851734502)<!-- GAME:END -->
+ - [Pokémon Go Color Cup Great League Edition best team recommendations](https://www.polygon.com/pokemon-go-guide/500424/color-cup-best-team-restrictions)
+ - [EN World’s most anticipated TTRPGs are all familiar faces fighting dragons](https://www.polygon.com/tabletop-games/505031/ttrpgs-2025-en-world-list-anticipated)
+ - [Call of Duty&#39;s development budget ballooned by $250 million between 2015 and 2020 to an eye-watering $700 million](https://www.pcgamer.com/games/call-of-duty/call-of-dutys-development-budget-ballooned-by-usd250-million-between-2015-and-2020-to-an-eye-watering-usd700-million/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
