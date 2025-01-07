@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [`He didnt cry at titanic, do mem even have feelings?` meanwhile men: ...](http://9gag.com/gag/aoyKV12)
- - ⏩ [A mom discovers body parts in her son\u2019s room, and his haunting explanation is straight out of a nightmare](http://9gag.com/gag/aMVEBBG)
- - 👉 [Money runs the world](http://9gag.com/gag/aD2Yn0w)<!-- MEMES:END -->
+ - 💣 [Can you fix her?](http://9gag.com/gag/a6Zq5b8)
+ - ⏩ [Exposing a cheater :D](http://9gag.com/gag/aqyeRwv)
+ - 👉 [In 2016, a guy hijacked an Egyptian airline with explosives packed to him. A British man on board asked for a picture with the hijacker as it was happening](http://9gag.com/gag/axyov8Y)<!-- MEMES:END -->
 
 ---
 
