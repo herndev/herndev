@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The future of the PC according to Intel is a CPU-GPU-NPU trifecta and that definitely includes gaming](https://www.pcgamer.com/hardware/graphics-cards/the-future-of-the-pc-according-to-intel-is-a-cpu-gpu-npu-trifecta-and-that-definitely-includes-gaming/)
- - [Catan, the classic gateway board game, gets a bright new 6th edition this year](https://www.polygon.com/gaming/504276/catan-6th-edition-preview-game-box-tiles-art)
- - [The SSDs and RAM on this new Asus ROG Strix Scar 18 can be upgraded entirely without tools](https://www.pcgamer.com/hardware/gaming-laptops/the-ssds-and-ram-on-this-new-asus-rog-strix-scar-18-can-be-upgraded-entirely-without-tools/)<!-- GAME:END -->
+ - [PUBG teammates not good enough? Nvidia&#39;s new generative AI-led &#39;Co-Playable Character&#39; aims to offer you an alternative](https://www.pcgamer.com/software/ai/pubg-teammates-not-good-enough-nvidias-new-generative-ai-led-co-playable-character-aims-to-offer-you-an-alternative/)
+ - [AMD and Intel launch mainstream and budget motherboard chipsets at CES but some of the codenames are so similar that I&#39;ve already mistaken them for each other](https://www.pcgamer.com/hardware/motherboards/amd-and-intel-launch-mainstream-and-budget-motherboard-chipsets-at-ces-but-some-of-the-codenames-are-so-similar-that-ive-already-mistaken-them-for-each-other/)
+ - [Mister Fantastic will be Marvel Rivals&#39; first duelist vanguard hybrid who can deflect Iron Man&#39;s ult and stun enemies into one another—in other words, he&#39;s busted](https://www.pcgamer.com/games/third-person-shooter/mister-fantastic-will-be-marvel-rivals-first-duelist-vanguard-hybrid-who-can-deflect-iron-mans-ult-and-stun-enemies-into-one-another-in-other-words-hes-busted/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
