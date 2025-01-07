@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Helldivers 2 is getting a film adaptation, even though Starship Troopers already exists](https://www.pcgamer.com/games/action/helldivers-2-is-getting-a-film-adaptation-even-though-starship-troopers-already-exists/)
- - [Sony Announces Helldivers And Horizon Zero Dawn Movies](https://kotaku.com/helldivers-2-horizon-zero-dawn-movie-ghost-tsushima-1851733809)
- - [HBO&#39;s The Last Of Us Season 2 Gets New Trailer And Surprise April Release Date](https://kotaku.com/hbo-last-of-us-season-2-part-ii-trailer-joel-ellie-ces-1851733793)<!-- GAME:END -->
+ - [Nvidia has announced a whole host of gaming laptop GPUs at CES 2025, from the RTX 5070 all the way to the big RTX 5090](https://www.pcgamer.com/hardware/gaming-laptops/nvidia-has-announced-a-whole-host-of-gaming-laptop-mobile-gpus-at-ces-2025-from-the-rtx-5070-all-the-way-to-the-big-rtx-5090/)
+ - [Nvidia announces the RTX 50-series, led by the $1,999 RTX 5090 with &#39;twice the performance of the 4090&#39;](https://www.pcgamer.com/hardware/graphics-cards/nvidia-announces-the-rtx-50-series-led-by-the-usd1-999-rtx-5090-with-twice-the-performance-of-the-4090/)
+ - [Nvidia announces GeForce RTX 50-series graphics cards, starting at $549](https://www.polygon.com/news/503416/nvidia-geforce-rtx-50-5090-5080-5070-series-graphics-cards-gpu-price-release-date)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
