@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [2025 Swift Student Challenge submissions open February 3](https://appleinsider.com/articles/25/01/07/2025-swift-student-challenge-submissions-open-february-3?utm_medium=rss)
- - [The Health Monitoring Boom Only Gets Weirder From Here](https://www.wired.com/story/the-health-monitoring-boom-only-gets-weirder-from-here/)
- - [Blue Ghost Lunar Lander scheduled to launch on January 15th](https://www.theverge.com/2025/1/7/24338415/firefly-blue-ghost-1-moon-landing-spacex-nasa-mission)<!-- TECH:END -->
+ - [The maker of the electric USPS truck is also building garbage robots and EV firefighters](https://www.theverge.com/2025/1/7/24337602/oshkosh-usps-ev-fire-garbage-robot)
+ - [Google’s first Android patch of the year has started hitting Pixel phones](https://www.androidauthority.com/january-2025-pixel-update-3514057/)
+ - [Roborock prepares to “Rock a New Era” at CES 2025 with a new generation of smart cleaning devices](https://www.androidauthority.com/roborock-rock-a-new-era-ces-2025-3513572/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
