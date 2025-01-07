@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [TikTok&#39;s sister app Lemon8 is sponsoring TikTok posts that encourage US users to migrate to Lemon8 as a TikTok ban looms; Lemon8 has TikTok account integrations &lpar;Axios&rpar;](http://www.techmeme.com/250107/p19#a250107p19)
- - [Start your photocopiers: Dell rebrand shamelessly rips off Pro iPhone marketing](https://appleinsider.com/articles/25/01/07/start-your-photocopiers-dell-rebrand-shamelessly-rips-off-pro-iphone-marketing?utm_medium=rss)
- - [The UK plans to make it a crime to create and share sexually explicit deepfakes; the UK criminalized revenge porn in 2015, but that law doesn&#39;t cover deepfakes &lpar;Catarina Demony/Reuters&rpar;](http://www.techmeme.com/250107/p18#a250107p18)<!-- TECH:END -->
+ - [Getty Images and Shutterstock are merging into one stock photo powerhouse](https://www.theverge.com/2025/1/7/24338112/getty-images-shutterstock-merging-stock-photo-powerhouse)
+ - [Reddit unveils Reddit Pro Trends, which allows companies to see what users are discussing about &quot;virtually anything&quot; on Reddit, and a new ad format for AMAs &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250107/p20#a250107p20)
+ - [Keychron is putting Hall effect switches into more keyboards](https://www.theverge.com/2025/1/7/24338132/keychron-q6-lemokey-p1-mechanical-keyboard-hall-effect-price-specs)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
