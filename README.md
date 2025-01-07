@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [AMD&#39;s RDNA 4 GPUs are about efficiency in terms of performance and price: &#39;We know where gamers buy products, it&#39;s well below that $1,000 price point&#39;](https://www.pcgamer.com/hardware/graphics-cards/amds-rdna-4-gpus-are-about-efficiency-in-terms-of-performance-and-price-we-know-where-gamers-buy-products-its-well-below-that-usd1-000-price-point/)
- - [AMD says &#39;the performance data out there for RDNA 4 is completely inaccurate&#39;](https://www.pcgamer.com/hardware/graphics-cards/amd-says-the-performance-data-out-there-for-rdna-4-is-completely-inaccurate/)
- - [Acer unveils the comically huge Nitro Blaze 11, a gaming handheld more than three times the weight of a Nintendo Switch](https://www.pcgamer.com/hardware/handheld-gaming-pcs/acer-unveils-the-comically-huge-nitro-blaze-11-a-gaming-handheld-more-than-three-times-the-weight-of-a-nintendo-switch/)<!-- GAME:END -->
+ - [BioShock maestro Ken Levine says Judas will double down on reacting to player choices because it&#39;s the future of games: &#39;I&#39;ve never been a big fan of cutscenes because they&#39;re not interactive&#39;](https://www.pcgamer.com/games/fps/bioshock-maestro-ken-levine-says-judas-will-double-down-on-reacting-to-player-choices-because-its-the-future-of-games-ive-never-been-a-big-fan-of-cutscenes-because-theyre-not-interactive/)
+ - [Marvel Rivals&#39; first balance patch targets two popular Duelists and Jeff&#39;s ultimate](https://www.pcgamer.com/games/third-person-shooter/marvel-rivals-first-balance-patch-targets-two-popular-duelists-and-jeffs-ultimate/)
+ - [Nvidia CES 2025 keynote live: new GPUs or there&#39;ll be a riot](https://www.pcgamer.com/hardware/news/live/nvidia-ces-2025-keynote-live-new-gpus-or-therell-be-a-riot/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
