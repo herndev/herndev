@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nvidia shares Cosmos World Foundation Models, a family of world models that can generate &quot;physics-aware&quot; videos, available from Hugging Face and Nvidia&#39;s API &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250106/p39#a250106p39)
- - [Nvidia announces the Llama Nemotron and Cosmos Nemotron family of AI models to advance agentic AI, available in Nano, Super, and Ultra sizes on Hugging Face &lpar;Dean Takahashi/VentureBeat&rpar;](http://www.techmeme.com/250106/p38#a250106p38)
- - [Nvidia announces DLSS 4 with Multi Frame Generation](https://www.theverge.com/2025/1/6/24337402/nvidia-dlss-4-upscaling-announcement-ces-2025)<!-- TECH:END -->
+ - [Samsung unveils Galaxy Book 5 lineup with AI smarts and seamless connectivity at CES 2025](https://www.androidauthority.com/samsung-galaxy-book-5-pro-galaxy-book-5-360-ces-2025-launch-3513712/)
+ - [Nvidia is bringing a native GeForce Now app to Steam Deck](https://www.theverge.com/2025/1/6/24337977/nvidia-native-geforce-now-app-steam-deck-vr)
+ - [Nvidia’s AI NPCs are no longer chatbots — they’re your new PUBG teammate](https://www.theverge.com/2025/1/6/24337949/nvidia-ace-ai-npcs-pubg-ally-teammate)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
