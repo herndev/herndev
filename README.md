@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Ghost of Tsushima anime coming from Crunchyroll and PlayStation](https://www.polygon.com/entertainment/504040/ghost-of-tsushima-anime-legends-crunchyroll-playstation)
- - [BioShock maestro Ken Levine says Judas will double down on reacting to player choices because it&#39;s the future of games: &#39;I&#39;ve never been a big fan of cutscenes because they&#39;re not interactive&#39;](https://www.pcgamer.com/games/fps/bioshock-maestro-ken-levine-says-judas-will-double-down-on-reacting-to-player-choices-because-its-the-future-of-games-ive-never-been-a-big-fan-of-cutscenes-because-theyre-not-interactive/)
- - [Marvel Rivals&#39; first balance patch targets two popular Duelists and Jeff&#39;s ultimate](https://www.pcgamer.com/games/third-person-shooter/marvel-rivals-first-balance-patch-targets-two-popular-duelists-and-jeffs-ultimate/)<!-- GAME:END -->
+ - [Helldivers 2 is getting a film adaptation, even though Starship Troopers already exists](https://www.pcgamer.com/games/action/helldivers-2-is-getting-a-film-adaptation-even-though-starship-troopers-already-exists/)
+ - [Sony Announces Helldivers And Horizon Zero Dawn Movies](https://kotaku.com/helldivers-2-horizon-zero-dawn-movie-ghost-tsushima-1851733809)
+ - [HBO&#39;s The Last Of Us Season 2 Gets New Trailer And Surprise April Release Date](https://kotaku.com/hbo-last-of-us-season-2-part-ii-trailer-joel-ellie-ces-1851733793)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
