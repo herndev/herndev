@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Damn that father ain&#39;t recovering after that jeez](http://9gag.com/gag/aO8xeGD)
- - ⏩ [`One of the best investments you could possibly make.` Good luck to the owners wanting to sell theirs. LOL](http://9gag.com/gag/aQzE7b2)
- - 👉 [In Philippines, crocodiles pretend to be a drowning human to get human food](http://9gag.com/gag/apR91Wb)<!-- MEMES:END -->
+ - 💣 [Money runs the world](http://9gag.com/gag/aD2Yn0w)
+ - ⏩ [A billion?](http://9gag.com/gag/aD2Y8DK)
+ - 👉 [Human, what&#39;s wrong?](http://9gag.com/gag/a0e4Vqq)<!-- MEMES:END -->
 
 ---
 
