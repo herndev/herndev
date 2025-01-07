@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta Now Lets Users Say Gay and Trans People Have &#39;Mental Illness&#39;](https://www.wired.com/story/meta-immigration-gender-policies-change/)
- - [People are taking horrific videos like of mass shootings and using Runway&#39;s AI tools to insert cartoons, likely to bypass social networks&#39; automated moderation &lpar;Emanuel Maiberg/404 Media&rpar;](http://www.techmeme.com/250107/p33#a250107p33)
- - [License Plate Readers Are Leaking Real-Time Video Feeds and Vehicle Data](https://www.wired.com/story/license-plate-reader-live-video-data-exposed/)<!-- TECH:END -->
+ - [Savant’s new smart budget system lets you control your home’s electrical load](https://www.theverge.com/2025/1/7/24338151/savant-smart-budget-circuit-breaker-modules-smart-home-control-energy-monitoring)
+ - [Valve will officially let you install SteamOS on other handhelds as soon as this April](https://www.theverge.com/2025/1/7/24338405/valve-steamos-beta-other-handhelds-beyond-steam-deck)
+ - [Asus unveils the 2025 Asus XG Mobile, a $1,200+ portable docking station with the world&#39;s first Thunderbolt 5 eGPU, with an option to add a GeForce RTX 5090 &lpar;Sean Hollister/The Verge&rpar;](http://www.techmeme.com/250107/p35#a250107p35)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
