@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [A German guy in Pakistan is shocked by what the locals think of Hitler](http://9gag.com/gag/aVvbE0P)
- - ⏩ [Asking the real question](http://9gag.com/gag/aByd6gQ)
- - 👉 [Player makes sure ball girl is OK after getting hit by tennis ball.](http://9gag.com/gag/a5QXVKG)<!-- MEMES:END -->
+ - 💣 [Man goes around slashing random peoples tires](http://9gag.com/gag/aNDwvnK)
+ - ⏩ [Man trying to control his dog around two girls doing yoga](http://9gag.com/gag/ajPV1Nq)
+ - 👉 [Wholesome and rare behavior but lady was reaching for pepper spray](http://9gag.com/gag/a1mPNbR)<!-- MEMES:END -->
 
 ---
 
