@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Lenovo’s latest Android tablet promises to be a gaming powerhouse](https://www.androidauthority.com/lenovo-legion-tab-gen-3-3512994/)
- - [Inworld AI, Streamlabs, and Nvidia unveil an AI assistant for streamers that can provide technical support for streams in real time and even act as a cohost &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/250107/p22#a250107p22)
- - [Meta’s fact-checking changes are just what Trump’s FCC head asked for](https://www.theverge.com/2025/1/7/24338125/meta-mark-zuckerberg-fact-checking-censorship-brendan-carr-trump)<!-- TECH:END -->
+ - [Recharge your iPhone on the move with Satechi&#39;s OnTheGo power banks](https://appleinsider.com/articles/25/01/07/recharge-your-iphone-on-the-move-with-satechis-onthego-power-banks?utm_medium=rss)
+ - [LaCie leverages Thunderbolt 5 with Rugged SSD Pro5 for creative pros at CES 2025](https://appleinsider.com/articles/25/01/07/lacie-leverages-thunderbolt-5-with-rugged-ssd-pro5-for-creative-pros-at-ces-2025?utm_medium=rss)
+ - [Lenovo announces the Yoga Slim 9i, the first Windows laptop with a camera hidden under the display panel, coming in February and starting at $1,849 &lpar;Andrew Romero/9to5Google&rpar;](http://www.techmeme.com/250107/p24#a250107p24)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
