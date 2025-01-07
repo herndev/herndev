@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Former Annapurna leads take charge of Take-Two’s discarded indie games](https://www.theverge.com/2025/1/7/24338274/annapurna-interactive-new-company-take-two-private-division)
- - [This cat tree is also an air purifier](https://www.theverge.com/2025/1/7/24338231/lg-aerocattower-air-purifier-cat-tower)
- - [Human Metapneumovirus Is Finally Being Taken Seriously](https://www.wired.com/story/human-metapneumovirus-is-the-forgotten-burden-of-public-health-china-flu-rsv-covid/)<!-- TECH:END -->
+ - [Meta Now Lets Users Say Gay and Trans People Have &#39;Mental Illness&#39;](https://www.wired.com/story/meta-immigration-gender-policies-change/)
+ - [People are taking horrific videos like of mass shootings and using Runway&#39;s AI tools to insert cartoons, likely to bypass social networks&#39; automated moderation &lpar;Emanuel Maiberg/404 Media&rpar;](http://www.techmeme.com/250107/p33#a250107p33)
+ - [License Plate Readers Are Leaking Real-Time Video Feeds and Vehicle Data](https://www.wired.com/story/license-plate-reader-live-video-data-exposed/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
