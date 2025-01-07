@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Narwal unveils its most advanced vacuum mop yet, with up to 120 days of hands-free cleaning](https://www.androidauthority.com/narwal-flow-ces-2025-launch-3513490/)
- - [This all-electric robo-bus has swappable batteries and can fit 30 passengers](https://www.theverge.com/2025/1/7/24336904/may-mobility-tecnobus-autonomous-minibus)
- - [Goodyear’s smart tires can sense rain and ice for improved emergency braking](https://www.theverge.com/2025/1/7/24336892/goodyear-tire-sightline-aeb-rain-snow)<!-- TECH:END -->
+ - [TikTok&#39;s sister app Lemon8 is sponsoring TikTok posts that encourage US users to migrate to Lemon8 as a TikTok ban looms; Lemon8 has TikTok account integrations &lpar;Axios&rpar;](http://www.techmeme.com/250107/p19#a250107p19)
+ - [Start your photocopiers: Dell rebrand shamelessly rips off Pro iPhone marketing](https://appleinsider.com/articles/25/01/07/start-your-photocopiers-dell-rebrand-shamelessly-rips-off-pro-iphone-marketing?utm_medium=rss)
+ - [The UK plans to make it a crime to create and share sexually explicit deepfakes; the UK criminalized revenge porn in 2015, but that law doesn&#39;t cover deepfakes &lpar;Catarina Demony/Reuters&rpar;](http://www.techmeme.com/250107/p18#a250107p18)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
