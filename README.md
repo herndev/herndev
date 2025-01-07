@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung downgrades One UI 7’s best feature in latest beta, but not all is lost](https://www.androidauthority.com/samsung-now-bar-one-ui-7-beta-3-3513742/)
- - [Philips Hue is getting an AI-powered lighting assistant](https://www.theverge.com/2025/1/7/24337219/philips-hue-ai-lighting-assistant-smart-lights-home-ces-2025)
- - [Dyson Promo Code: 20% + Up to $300 Off](https://www.wired.com/story/dyson-cordless-vacuum-promo-code/)<!-- TECH:END -->
+ - [Here’s how Apple will ‘fix’ the iPhone’s false AI notification summary problem](https://www.androidauthority.com/apple-will-fix-ai-notification-summary-3513749/)
+ - [Satya Nadella says Microsoft will invest about $3B to expand its Azure cloud and AI capacity in India and train 10 million people in AI in the country by 2030 &lpar;Reuters&rpar;](http://www.techmeme.com/250107/p7#a250107p7)
+ - [Official Galaxy S25 series renders leak with new Qi2-compatible case](https://www.androidauthority.com/samsung-galaxy-s25-series-renders-qi2-compatible-case-leak-3513746/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
