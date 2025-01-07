@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Who did this appeal to?](http://9gag.com/gag/aoyK3Kw)
- - ⏩ [The fake `snow` used in Dawson&#39;s Creek](http://9gag.com/gag/a34ZGDr)
- - 👉 [Fisherman struck by lightning twice](http://9gag.com/gag/a6Zq5r2)<!-- MEMES:END -->
+ - 💣 [A German guy in Pakistan is shocked by what the locals think of Hitler](http://9gag.com/gag/aVvbE0P)
+ - ⏩ [Asking the real question](http://9gag.com/gag/aByd6gQ)
+ - 👉 [Player makes sure ball girl is OK after getting hit by tennis ball.](http://9gag.com/gag/a5QXVKG)<!-- MEMES:END -->
 
 ---
 
