@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Nvidia announces DLSS 4 with Multi Frame Generation, says it can help multiply frame rates by &#39;up to 8X over traditional brute-force rendering&#39;](https://www.pcgamer.com/hardware/graphics-cards/nvidia-announces-dlss-4-with-multi-frame-generation-says-it-can-help-multiply-frame-rates-by-up-to-8x-over-traditional-brute-force-rendering/)
- - [Nvidia&#39;s new RTX 5070 will deliver &#39;RTX 4090 performance at $549&#39; when it launches in February](https://www.pcgamer.com/hardware/graphics-cards/nvidias-new-rtx-5070-will-deliver-rtx-4090-performance-at-usd549-when-it-launches-in-february/)
- - [The new &#39;aggressively priced&#39; Razer Blade 16 is slimmer, sleeker, AMD Strix Point-equipped, and may just be the Asus G16 competitor I&#39;ve been hoping for](https://www.pcgamer.com/hardware/gaming-laptops/the-new-aggressively-priced-razer-blade-16-is-slimmer-sleeker-amd-strix-point-equipped-and-may-just-be-the-asus-g16-competitor-ive-been-hoping-for/)<!-- GAME:END -->
+ - [The SSDs and RAM on this new Asus ROG Strix Scar 18 can be upgraded entirely without tools](https://www.pcgamer.com/hardware/gaming-laptops/the-ssds-and-ram-on-this-new-asus-rog-strix-scar-18-can-be-upgraded-entirely-without-tools/)
+ - [I reckon the Nvidia RTX 5090 Founders Edition is the best looking graphics card I&#39;ve seen in... well, ever, actually](https://www.pcgamer.com/hardware/graphics-cards/i-reckon-the-nvidia-rtx-5090-founders-edition-is-the-best-looking-graphics-card-ive-seen-in-well-ever-actually/)
+ - [The HyperX Saga and Saga Pro are magnetic build-a-mouse kits with interchangeable components and the option to add 3D printed parts](https://www.pcgamer.com/hardware/gaming-mice/the-hyperx-saga-and-saga-pro-are-magnetic-build-a-mouse-kits-with-interchangeable-components-and-the-option-to-add-3d-printed-parts/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
