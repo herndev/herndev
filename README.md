@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung’s next Unpacked event sets a date to reveal the Galaxy S25](https://www.theverge.com/2025/1/6/24336647/samsung-galaxy-unpacked-announced-galaxy-s25-android-ai)
- - [Dana White is joining Meta’s board of directors](https://www.theverge.com/2025/1/6/24337670/meta-board-of-directors-dana-white-ufc)
- - [HDMI Forum unveils the HDMI 2.2 spec, with better audio sync and up to 96Gbps bandwidth for resolutions like 12K at 120Hz, some of which need an &quot;Ultra96&quot; cable &lpar;Darragh Murphy/Tom&#39;s Guide&rpar;](http://www.techmeme.com/250106/p30#a250106p30)<!-- TECH:END -->
+ - [Meta says it&#39;s testing an &quot;Imagine Yourself&quot; feature announced in September that automatically generates AI images of a user and puts them into that user&#39;s feed &lpar;Jason Koebler/404 Media&rpar;](http://www.techmeme.com/250106/p33#a250106p33)
+ - [Apple says it will ‘clarify’ AI summaries after botching BBC headlines](https://www.theverge.com/2025/1/6/24337681/apple-intelligence-summary-bbc-news-luigi-mangione-response)
+ - [Samsung schedules its next Galaxy Unpacked event for January 22 at 10AM PT in San Jose, where Galaxy AI updates, the Galaxy S25, and more are expected &lpar;Ben Schoon/9to5Google&rpar;](http://www.techmeme.com/250106/p32#a250106p32)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
