@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Extraction MOBA Seekers of Skyveil will launch into early access in March, but first, the &#39;largest playtest&#39; yet is coming later this week](https://www.pcgamer.com/games/moba/extraction-moba-seekers-of-skyveil-will-launch-into-early-access-in-march-but-first-the-largest-playtest-yet-is-coming-later-this-week/)
- - [Lenovo unveils the Legion Go S, a new handheld PC running on SteamOS](https://www.polygon.com/news/503238/lenovo-legion-go-s-release-date-steam-os-price-specs)
- - [5 Things We Noticed In The Last Of Us’ New Season Two Trailer](https://kotaku.com/last-of-us-season-2-trailer-ces-2025-abby-ellie-dina-1851734101)<!-- GAME:END -->
+ - [All the Last of Us season 2 news we’ve heard so far](https://www.polygon.com/23634196/last-us-season-2-release-date-cast-news)
+ - [Nvidia RTX 50-series and dev kit show that rasterization is old news and we&#39;re now firmly in the era of AI rendering](https://www.pcgamer.com/hardware/graphics-cards/nvidia-rtx-50-series-and-dev-kit-show-that-rasterization-is-old-news-and-were-now-firmly-in-the-era-of-ai-rendering/)
+ - [AMD might have told us little about its RDNA 4 graphics cards but at least we know the Radeon RX 9070 and 9070 XT have 16 GB of VRAM](https://www.pcgamer.com/hardware/graphics-cards/amd-might-have-told-us-little-about-its-rdna-4-graphics-cards-but-at-least-we-know-the-radeon-rx-9070-and-9070-xt-have-16-gb-of-vram/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
