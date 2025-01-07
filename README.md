@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [All the Last of Us season 2 news we’ve heard so far](https://www.polygon.com/23634196/last-us-season-2-release-date-cast-news)
- - [Nvidia RTX 50-series and dev kit show that rasterization is old news and we&#39;re now firmly in the era of AI rendering](https://www.pcgamer.com/hardware/graphics-cards/nvidia-rtx-50-series-and-dev-kit-show-that-rasterization-is-old-news-and-were-now-firmly-in-the-era-of-ai-rendering/)
- - [AMD might have told us little about its RDNA 4 graphics cards but at least we know the Radeon RX 9070 and 9070 XT have 16 GB of VRAM](https://www.pcgamer.com/hardware/graphics-cards/amd-might-have-told-us-little-about-its-rdna-4-graphics-cards-but-at-least-we-know-the-radeon-rx-9070-and-9070-xt-have-16-gb-of-vram/)<!-- GAME:END -->
+ - [2025 may be the year of the historical fiction game](https://www.polygon.com/gaming/501698/2025-historical-fiction-games)
+ - [Destiny 2 Iron Banner schedule dates for 2025](https://www.polygon.com/destiny-2-guide-walkthrough/23971548/iron-banner-schedule-dates-when-next)
+ - [Corsair heard you like screens and PC cases so it made a new screen for your PC case that you can also use as a, er, screen](https://www.pcgamer.com/hardware/gaming-monitors/corsair-heard-you-like-screens-and-pc-cases-so-it-made-a-new-screen-for-your-pc-case-that-you-can-also-use-as-a-er-screen/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
