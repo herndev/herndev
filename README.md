@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Fisherman struck by lightning twice](http://9gag.com/gag/a6Zq5r2)
- - ⏩ [Damn that father ain&#39;t recovering after that jeez](http://9gag.com/gag/aO8xeGD)
+ - 💣 [9gag, do your duty](http://9gag.com/gag/amoAWZj)
+ - ⏩ [New year new me](http://9gag.com/gag/an7z280)
  - 👉 [Now thats a gender equality](http://9gag.com/gag/a87q0nO)<!-- MEMES:END -->
 
 ---
