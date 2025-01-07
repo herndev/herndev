@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [The future of the PC according to Intel is a CPU-GPU-NPU trifecta and that definitely includes gaming](https://www.pcgamer.com/hardware/graphics-cards/the-future-of-the-pc-according-to-intel-is-a-cpu-gpu-npu-trifecta-and-that-definitely-includes-gaming/)
  - [Catan, the classic gateway board game, gets a bright new 6th edition this year](https://www.polygon.com/gaming/504276/catan-6th-edition-preview-game-box-tiles-art)
- - [The SSDs and RAM on this new Asus ROG Strix Scar 18 can be upgraded entirely without tools](https://www.pcgamer.com/hardware/gaming-laptops/the-ssds-and-ram-on-this-new-asus-rog-strix-scar-18-can-be-upgraded-entirely-without-tools/)
- - [I reckon the Nvidia RTX 5090 Founders Edition is the best looking graphics card I&#39;ve seen in... well, ever, actually](https://www.pcgamer.com/hardware/graphics-cards/i-reckon-the-nvidia-rtx-5090-founders-edition-is-the-best-looking-graphics-card-ive-seen-in-well-ever-actually/)<!-- GAME:END -->
+ - [The SSDs and RAM on this new Asus ROG Strix Scar 18 can be upgraded entirely without tools](https://www.pcgamer.com/hardware/gaming-laptops/the-ssds-and-ram-on-this-new-asus-rog-strix-scar-18-can-be-upgraded-entirely-without-tools/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
