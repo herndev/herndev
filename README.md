@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Getty Images and Shutterstock are merging into one stock photo powerhouse](https://www.theverge.com/2025/1/7/24338112/getty-images-shutterstock-merging-stock-photo-powerhouse)
- - [Reddit unveils Reddit Pro Trends, which allows companies to see what users are discussing about &quot;virtually anything&quot; on Reddit, and a new ad format for AMAs &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250107/p20#a250107p20)
- - [Keychron is putting Hall effect switches into more keyboards](https://www.theverge.com/2025/1/7/24338132/keychron-q6-lemokey-p1-mechanical-keyboard-hall-effect-price-specs)<!-- TECH:END -->
+ - [Lenovo’s latest Android tablet promises to be a gaming powerhouse](https://www.androidauthority.com/lenovo-legion-tab-gen-3-3512994/)
+ - [Inworld AI, Streamlabs, and Nvidia unveil an AI assistant for streamers that can provide technical support for streams in real time and even act as a cohost &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/250107/p22#a250107p22)
+ - [Meta’s fact-checking changes are just what Trump’s FCC head asked for](https://www.theverge.com/2025/1/7/24338125/meta-mark-zuckerberg-fact-checking-censorship-brendan-carr-trump)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
