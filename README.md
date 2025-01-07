@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Plugable debuts two new USB-C docks plus 10-port USB-C Charger](https://appleinsider.com/articles/25/01/07/plugable-debuts-5-display-dock-10-port-usb-c-charger-and-displaylink-pro-quad-display-adapter-at-ces-2025?utm_medium=rss)
- - [Indonesia wants more than $1 billion from Apple to lift iPhone ban, welcomes Huawei with open arms](https://appleinsider.com/articles/25/01/07/indonesia-welcomes-huawei-but-wants-still-more-than-1-billion-from-apple?utm_medium=rss)
- - [This is how long your Pixel’s battery should last, as per Google](https://www.androidauthority.com/google-pixel-rated-charge-cycles-3513791/)<!-- TECH:END -->
+ - [Narwal unveils its most advanced vacuum mop yet, with up to 120 days of hands-free cleaning](https://www.androidauthority.com/narwal-flow-ces-2025-launch-3513490/)
+ - [This all-electric robo-bus has swappable batteries and can fit 30 passengers](https://www.theverge.com/2025/1/7/24336904/may-mobility-tecnobus-autonomous-minibus)
+ - [Goodyear’s smart tires can sense rain and ice for improved emergency braking](https://www.theverge.com/2025/1/7/24336892/goodyear-tire-sightline-aeb-rain-snow)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
