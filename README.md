@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [9gag, do your duty](http://9gag.com/gag/amoAWZj)
- - ⏩ [Money runs the world](http://9gag.com/gag/aD2Yn0w)
- - 👉 [What attacked him? A bat, a spider or 4skin?](http://9gag.com/gag/avyQWx5)<!-- MEMES:END -->
+ - 💣 [Who did this appeal to?](http://9gag.com/gag/aoyK3Kw)
+ - ⏩ [The fake `snow` used in Dawson&#39;s Creek](http://9gag.com/gag/a34ZGDr)
+ - 👉 [Fisherman struck by lightning twice](http://9gag.com/gag/a6Zq5r2)<!-- MEMES:END -->
 
 ---
 
