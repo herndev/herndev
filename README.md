@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Stimulation Clicker is pure internet hell mode](https://www.polygon.com/review/504701/stimulation-clicker-free-browser-game)
- - [Discoveries](https://www.polygon.com/gaming/24215620/new-things-to-play-watch-and-experience)
- - [Logitech has announced an &#39;intelligent streaming assistant&#39; in Streamlabs to tell you when your live stream sucks](https://www.pcgamer.com/software/ai/logitech-has-announced-an-intelligent-streaming-assistant-in-streamlabs-to-tell-you-when-your-live-stream-sucks/)<!-- GAME:END -->
+ - [Extraction MOBA Seekers of Skyveil will launch into early access in March, but first, the &#39;largest playtest&#39; yet is coming later this week](https://www.pcgamer.com/games/moba/extraction-moba-seekers-of-skyveil-will-launch-into-early-access-in-march-but-first-the-largest-playtest-yet-is-coming-later-this-week/)
+ - [Lenovo unveils the Legion Go S, a new handheld PC running on SteamOS](https://www.polygon.com/news/503238/lenovo-legion-go-s-release-date-steam-os-price-specs)
+ - [5 Things We Noticed In The Last Of Us’ New Season Two Trailer](https://kotaku.com/last-of-us-season-2-trailer-ces-2025-abby-ellie-dina-1851734101)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
