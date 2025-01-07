@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [PUBG teammates not good enough? Nvidia&#39;s new generative AI-led &#39;Co-Playable Character&#39; aims to offer you an alternative](https://www.pcgamer.com/software/ai/pubg-teammates-not-good-enough-nvidias-new-generative-ai-led-co-playable-character-aims-to-offer-you-an-alternative/)
- - [AMD and Intel launch mainstream and budget motherboard chipsets at CES but some of the codenames are so similar that I&#39;ve already mistaken them for each other](https://www.pcgamer.com/hardware/motherboards/amd-and-intel-launch-mainstream-and-budget-motherboard-chipsets-at-ces-but-some-of-the-codenames-are-so-similar-that-ive-already-mistaken-them-for-each-other/)
- - [Mister Fantastic will be Marvel Rivals&#39; first duelist vanguard hybrid who can deflect Iron Man&#39;s ult and stun enemies into one another—in other words, he&#39;s busted](https://www.pcgamer.com/games/third-person-shooter/mister-fantastic-will-be-marvel-rivals-first-duelist-vanguard-hybrid-who-can-deflect-iron-mans-ult-and-stun-enemies-into-one-another-in-other-words-hes-busted/)<!-- GAME:END -->
+ - [Discoveries](https://www.polygon.com/gaming/24215620/new-things-to-play-watch-and-experience)
+ - [With its Prime and TUF Radeon RX 9070 graphics cards, Asus is ditching thermal paste for a thermal pad that melts when hot](https://www.pcgamer.com/hardware/graphics-cards/with-its-prime-and-tuf-radeon-rx-9070-graphics-cards-asus-is-ditching-thermal-paste-for-a-thermal-pad-that-melts-when-hot/)
+ - [Historical Palestinian game Dreams on a Pillow surpasses funding goal](https://www.polygon.com/gaming/504479/dreams-on-a-pillow-palestinian-1948-nakba-game-funded)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
