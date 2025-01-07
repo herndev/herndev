@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Money runs the world](http://9gag.com/gag/aD2Yn0w)
- - ⏩ [A billion?](http://9gag.com/gag/aD2Y8DK)
- - 👉 [Human, what&#39;s wrong?](http://9gag.com/gag/a0e4Vqq)<!-- MEMES:END -->
+ - 💣 [Fisherman struck by lightning twice](http://9gag.com/gag/a6Zq5r2)
+ - ⏩ [Damn that father ain&#39;t recovering after that jeez](http://9gag.com/gag/aO8xeGD)
+ - 👉 [In 2011, a 29-year-old Australian bartender found an ATM glitch that allowed him to withdraw way beyond his balance. In a bender that lasted four-and-half months, he managed to spend around $1.6 million of the bank\u2019s money.](http://9gag.com/gag/aqyeXBP)<!-- MEMES:END -->
 
 ---
 
