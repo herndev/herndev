@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [2025 may be the year of the historical fiction game](https://www.polygon.com/gaming/501698/2025-historical-fiction-games)
- - [Destiny 2 Iron Banner schedule dates for 2025](https://www.polygon.com/destiny-2-guide-walkthrough/23971548/iron-banner-schedule-dates-when-next)
- - [Corsair heard you like screens and PC cases so it made a new screen for your PC case that you can also use as a, er, screen](https://www.pcgamer.com/hardware/gaming-monitors/corsair-heard-you-like-screens-and-pc-cases-so-it-made-a-new-screen-for-your-pc-case-that-you-can-also-use-as-a-er-screen/)<!-- GAME:END -->
+ - [The Belly Bumpers Preview is Now Available for Xbox Insiders!](https://news.xbox.com/en-us/2025/01/07/the-belly-bumpers-preview-is-now-available-for-xbox-insiders/)
+ - [Best Fortnite Squid Game map codes](https://www.polygon.com/fortnite-guide/504713/best-squid-game-maps-modes-creative)
+ - [Call of Duty: Black Ops Cold War cost $700M to make](https://www.polygon.com/news/504702/call-of-duty-black-ops-cold-war-development-costs-700-million)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
