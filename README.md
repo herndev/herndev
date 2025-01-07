@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Man goes around slashing random peoples tires](http://9gag.com/gag/aNDwvnK)
- - ⏩ [Man trying to control his dog around two girls doing yoga](http://9gag.com/gag/ajPV1Nq)
- - 👉 [Wholesome and rare behavior but lady was reaching for pepper spray](http://9gag.com/gag/a1mPNbR)<!-- MEMES:END -->
+ - 💣 [Mount Everest covered in waste, including 12,000 kilos of human excrement](http://9gag.com/gag/aVvbgMK)
+ - ⏩ [Wholesome and rare behavior but lady was reaching for pepper spray](http://9gag.com/gag/a1mPNbR)
+ - 👉 [The Beast](http://9gag.com/gag/aYQVGzN)<!-- MEMES:END -->
 
 ---
 
