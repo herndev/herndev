@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The maker of the electric USPS truck is also building garbage robots and EV firefighters](https://www.theverge.com/2025/1/7/24337602/oshkosh-usps-ev-fire-garbage-robot)
- - [Google’s first Android patch of the year has started hitting Pixel phones](https://www.androidauthority.com/january-2025-pixel-update-3514057/)
- - [Roborock prepares to “Rock a New Era” at CES 2025 with a new generation of smart cleaning devices](https://www.androidauthority.com/roborock-rock-a-new-era-ces-2025-3513572/)<!-- TECH:END -->
+ - [Meta Follows Elon Musk’s Lead, Moves Staffers to Billionaire-Friendly Texas](https://www.wired.com/story/meta-elon-musks-lead-trust-safety-billionaire-friendly-texas/)
+ - [All the Top CPU and GPU News From CES 2025](https://www.wired.com/story/intel-amd-qualcomm-nvidia-new-cpus-and-gpus-ces-2025/)
+ - [LG’s StanbyME sequel adds a carrying strap to the portable TV](https://www.theverge.com/2025/1/7/24338520/lg-stanbyme-2-portable-tv-carrying-strap-ces-2025)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
