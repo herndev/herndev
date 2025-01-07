@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [9gag, do your duty](http://9gag.com/gag/amoAWZj)
- - ⏩ [New year new me](http://9gag.com/gag/an7z280)
- - 👉 [Now thats a gender equality](http://9gag.com/gag/a87q0nO)<!-- MEMES:END -->
+ - 💣 [Now thats a gender equality](http://9gag.com/gag/a87q0nO)
+ - ⏩ [Fisherman struck by lightning twice](http://9gag.com/gag/a6Zq5r2)
+ - 👉 [In 2011, a 29-year-old Australian bartender found an ATM glitch that allowed him to withdraw way beyond his balance. In a bender that lasted four-and-half months, he managed to spend around $1.6 million of the bank\u2019s money.](http://9gag.com/gag/aqyeXBP)<!-- MEMES:END -->
 
 ---
 
