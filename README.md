@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Can you fix her?](http://9gag.com/gag/a6Zq5b8)
- - ⏩ [Damn that father ain&#39;t recovering after that jeez](http://9gag.com/gag/aO8xeGD)
- - 👉 [Exposing a cheater :D](http://9gag.com/gag/aqyeRwv)<!-- MEMES:END -->
+ - 💣 [Asking the real question](http://9gag.com/gag/aByd6gQ)
+ - ⏩ [`One of the best investments you could possibly make.` Good luck to the owners wanting to sell theirs. LOL](http://9gag.com/gag/aQzE7b2)
+ - 👉 [New year new me](http://9gag.com/gag/an7z280)<!-- MEMES:END -->
 
 ---
 
