@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Can you fix her?](http://9gag.com/gag/a6Zq5b8)
- - ⏩ [Exposing a cheater :D](http://9gag.com/gag/aqyeRwv)
- - 👉 [In 2016, a guy hijacked an Egyptian airline with explosives packed to him. A British man on board asked for a picture with the hijacker as it was happening](http://9gag.com/gag/axyov8Y)<!-- MEMES:END -->
+ - 💣 [The fake `snow` used in Dawson&#39;s Creek](http://9gag.com/gag/a34ZGDr)
+ - ⏩ [9gag, do your duty](http://9gag.com/gag/amoAWZj)
+ - 👉 [Player makes sure ball girl is OK after getting hit by tennis ball.](http://9gag.com/gag/a5QXVKG)<!-- MEMES:END -->
 
 ---
 
