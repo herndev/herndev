@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sony is working on Horizon Zero Dawn and Helldivers 2 movies](https://www.theverge.com/2025/1/6/24337875/sony-playstation-horizon-zero-dawn-helldivers-2-ghosts-of-tsushima-movie-tv-show)
- - [U-Tec Ultraloq is first to market with UWB smart lock at CES 2025](https://appleinsider.com/articles/25/01/07/u-tec-ultraloq-is-first-to-market-with-uwb-smart-lock-at-ces-2025?utm_medium=rss)
- - [The Last of Us season 2 will premiere in April](https://www.theverge.com/2025/1/6/24337876/last-of-us-season-two-release-date-hbo-max-announced)<!-- TECH:END -->
+ - [Eureka J15 Max Ultra robot cleaner can now see water on wet floors](https://appleinsider.com/articles/25/01/07/eureka-j15-max-ultra-robot-cleaner-can-now-see-water-on-wet-floors?utm_medium=rss)
+ - [Anker announces impressive charging tech at CES 2025 including solar umbrella](https://appleinsider.com/articles/25/01/07/anker-announces-impressive-charging-tech-at-ces-2025-including-solar-umbrella?utm_medium=rss)
+ - [Eureka’s latest might just be their best robot vacuum](https://www.androidauthority.com/eureka-ces-2025-3512362/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
