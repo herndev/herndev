@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Nvidia has announced a whole host of gaming laptop GPUs at CES 2025, from the RTX 5070 all the way to the big RTX 5090](https://www.pcgamer.com/hardware/gaming-laptops/nvidia-has-announced-a-whole-host-of-gaming-laptop-mobile-gpus-at-ces-2025-from-the-rtx-5070-all-the-way-to-the-big-rtx-5090/)
- - [Nvidia announces the RTX 50-series, led by the $1,999 RTX 5090 with &#39;twice the performance of the 4090&#39;](https://www.pcgamer.com/hardware/graphics-cards/nvidia-announces-the-rtx-50-series-led-by-the-usd1-999-rtx-5090-with-twice-the-performance-of-the-4090/)
- - [Nvidia announces GeForce RTX 50-series graphics cards, starting at $549](https://www.polygon.com/news/503416/nvidia-geforce-rtx-50-5090-5080-5070-series-graphics-cards-gpu-price-release-date)<!-- GAME:END -->
+ - [Nvidia announces DLSS 4 with Multi Frame Generation, says it can help multiply frame rates by &#39;up to 8X over traditional brute-force rendering&#39;](https://www.pcgamer.com/hardware/graphics-cards/nvidia-announces-dlss-4-with-multi-frame-generation-says-it-can-help-multiply-frame-rates-by-up-to-8x-over-traditional-brute-force-rendering/)
+ - [Nvidia&#39;s new RTX 5070 will deliver &#39;RTX 4090 performance at $549&#39; when it launches in February](https://www.pcgamer.com/hardware/graphics-cards/nvidias-new-rtx-5070-will-deliver-rtx-4090-performance-at-usd549-when-it-launches-in-february/)
+ - [The new &#39;aggressively priced&#39; Razer Blade 16 is slimmer, sleeker, AMD Strix Point-equipped, and may just be the Asus G16 competitor I&#39;ve been hoping for](https://www.pcgamer.com/hardware/gaming-laptops/the-new-aggressively-priced-razer-blade-16-is-slimmer-sleeker-amd-strix-point-equipped-and-may-just-be-the-asus-g16-competitor-ive-been-hoping-for/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
