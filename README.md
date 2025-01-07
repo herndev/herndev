@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Pokémon Go Color Cup Great League Edition best team recommendations](https://www.polygon.com/pokemon-go-guide/500424/color-cup-best-team-restrictions)
- - [EN World’s most anticipated TTRPGs are all familiar faces fighting dragons](https://www.polygon.com/tabletop-games/505031/ttrpgs-2025-en-world-list-anticipated)
- - [Call of Duty&#39;s development budget ballooned by $250 million between 2015 and 2020 to an eye-watering $700 million](https://www.pcgamer.com/games/call-of-duty/call-of-dutys-development-budget-ballooned-by-usd250-million-between-2015-and-2020-to-an-eye-watering-usd700-million/)<!-- GAME:END -->
+ - [Amazon Is Doing A Really Big 4K Blu-Ray Sale](https://kotaku.com/amazon-4k-uhd-bluray-batman-dune-barbie-joker-godzilla-1851734723)
+ - [All Pocket Promo A cards in Pokémon TCG Pocket](https://www.polygon.com/pokemon-tcg-pocket-guides/504997/promo-a-cards-list-all-how-to-get)
+ - [New Sony Tech Will Put You Inside The World Of The Last Of Us](https://kotaku.com/new-sony-tech-holodeck-last-of-us-ces-2025-smell-vr-ps5-1851734687)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
