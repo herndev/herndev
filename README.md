@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Amazon Is Doing A Really Big 4K Blu-Ray Sale](https://kotaku.com/amazon-4k-uhd-bluray-batman-dune-barbie-joker-godzilla-1851734723)
- - [All Pocket Promo A cards in Pokémon TCG Pocket](https://www.polygon.com/pokemon-tcg-pocket-guides/504997/promo-a-cards-list-all-how-to-get)
- - [New Sony Tech Will Put You Inside The World Of The Last Of Us](https://kotaku.com/new-sony-tech-holodeck-last-of-us-ces-2025-smell-vr-ps5-1851734687)<!-- GAME:END -->
+ - [Private Division&#39;s &#39;games and franchises,&#39; including Kerbal Space Program, are reportedly being taken over by former Annapurna Interactive employees](https://www.pcgamer.com/gaming-industry/private-divisions-games-and-franchises-including-kerbal-space-program-are-reportedly-being-taken-over-by-former-annapurna-interactive-employees/)
+ - [Competitive shooters are at a crucial crossroads in 2025: &#39;sweaty&#39; teamplay vs. casual fun](https://www.pcgamer.com/games/fps/competitive-shooters-are-at-a-crucial-crossroads-in-2025-sweaty-teamplay-vs-casual-fun/)
+ - [The writer of Happy Death Day is giving Valentine’s Day the slasher it deserves](https://www.polygon.com/horror/505035/heart-eyes-trailer-release-date-valentines-day-horror-movie)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
