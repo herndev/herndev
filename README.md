@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [He&#39;s done](http://9gag.com/gag/aLn1edz)
- - ⏩ [A billion?](http://9gag.com/gag/aD2Y8DK)
- - 👉 [`One of the best investments you could possibly make.` Good luck to the owners wanting to sell theirs. LOL](http://9gag.com/gag/aQzE7b2)<!-- MEMES:END -->
+ - 💣 [Asking the real question](http://9gag.com/gag/aByd6gQ)
+ - ⏩ [9gag, do your duty](http://9gag.com/gag/amoAWZj)
+ - 👉 [In 2011, a 29-year-old Australian bartender found an ATM glitch that allowed him to withdraw way beyond his balance. In a bender that lasted four-and-half months, he managed to spend around $1.6 million of the bank\u2019s money.](http://9gag.com/gag/aqyeXBP)<!-- MEMES:END -->
 
 ---
 
