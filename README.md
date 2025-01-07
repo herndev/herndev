@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta says it&#39;s testing an &quot;Imagine Yourself&quot; feature announced in September that automatically generates AI images of a user and puts them into that user&#39;s feed &lpar;Jason Koebler/404 Media&rpar;](http://www.techmeme.com/250106/p33#a250106p33)
- - [Apple says it will ‘clarify’ AI summaries after botching BBC headlines](https://www.theverge.com/2025/1/6/24337681/apple-intelligence-summary-bbc-news-luigi-mangione-response)
- - [Samsung schedules its next Galaxy Unpacked event for January 22 at 10AM PT in San Jose, where Galaxy AI updates, the Galaxy S25, and more are expected &lpar;Ben Schoon/9to5Google&rpar;](http://www.techmeme.com/250106/p32#a250106p32)<!-- TECH:END -->
+ - [This toaster-looking gadget boosts your phone’s battery in seconds](https://www.theverge.com/2025/1/6/24337684/swippitt-phone-charging-system-ces-2025)
+ - [Sony and Honda’s Afeela electric car will start at $89,900](https://www.theverge.com/2025/1/6/24336375/sony-honda-afeela-ev-preorder-price-ces)
+ - [UnifyDrive UP6 is an AI-enhanced network attached storage device with a built-in display](https://appleinsider.com/articles/25/01/07/unifydrive-up6-is-an-ai-enhanced-network-attached-storage-device-with-a-built-in-display?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
