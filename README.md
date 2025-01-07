@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Stimulation Clicker is pure internet hell mode](https://www.polygon.com/review/504701/stimulation-clicker-free-browser-game)
  - [Discoveries](https://www.polygon.com/gaming/24215620/new-things-to-play-watch-and-experience)
- - [With its Prime and TUF Radeon RX 9070 graphics cards, Asus is ditching thermal paste for a thermal pad that melts when hot](https://www.pcgamer.com/hardware/graphics-cards/with-its-prime-and-tuf-radeon-rx-9070-graphics-cards-asus-is-ditching-thermal-paste-for-a-thermal-pad-that-melts-when-hot/)
- - [Historical Palestinian game Dreams on a Pillow surpasses funding goal](https://www.polygon.com/gaming/504479/dreams-on-a-pillow-palestinian-1948-nakba-game-funded)<!-- GAME:END -->
+ - [Logitech has announced an &#39;intelligent streaming assistant&#39; in Streamlabs to tell you when your live stream sucks](https://www.pcgamer.com/software/ai/logitech-has-announced-an-intelligent-streaming-assistant-in-streamlabs-to-tell-you-when-your-live-stream-sucks/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
