@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Eureka J15 Max Ultra robot cleaner can now see water on wet floors](https://appleinsider.com/articles/25/01/07/eureka-j15-max-ultra-robot-cleaner-can-now-see-water-on-wet-floors?utm_medium=rss)
- - [Anker announces impressive charging tech at CES 2025 including solar umbrella](https://appleinsider.com/articles/25/01/07/anker-announces-impressive-charging-tech-at-ces-2025-including-solar-umbrella?utm_medium=rss)
- - [Eureka’s latest might just be their best robot vacuum](https://www.androidauthority.com/eureka-ces-2025-3512362/)<!-- TECH:END -->
+ - [Nvidia shares Cosmos World Foundation Models, a family of world models that can generate &quot;physics-aware&quot; videos, available from Hugging Face and Nvidia&#39;s API &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250106/p39#a250106p39)
+ - [Nvidia announces the Llama Nemotron and Cosmos Nemotron family of AI models to advance agentic AI, available in Nano, Super, and Ultra sizes on Hugging Face &lpar;Dean Takahashi/VentureBeat&rpar;](http://www.techmeme.com/250106/p38#a250106p38)
+ - [Nvidia announces DLSS 4 with Multi Frame Generation](https://www.theverge.com/2025/1/6/24337402/nvidia-dlss-4-upscaling-announcement-ces-2025)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
