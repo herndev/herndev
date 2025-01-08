@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft open sources the 14B-parameter AI model Phi-4 and its weights, available on Hugging Face under a MIT License, after releasing it in December 2024 &lpar;Carl Franzen/VentureBeat&rpar;](http://www.techmeme.com/250108/p32#a250108p32)
- - [Delta is upgrading your in-flight entertainment with YouTube Premium on 4K screens](https://www.androidauthority.com/delta-youtube-partnership-3514487/)
- - [&#39;Sniper Elite 4&#39; creeps onto Mac, iPhone, and iPad](https://appleinsider.com/articles/25/01/08/sniper-elite-4-creeps-onto-mac-iphone-and-ipad?utm_medium=rss)<!-- TECH:END -->
+ - [Here’s how small Nvidia’s $3,000 Digits supercomputer looks in person](https://www.theverge.com/2025/1/8/24339195/nvidia-digits-ai-supercomputer-in-person-photos-small)
+ - [The fallout of Meta’s content moderation overhaul](https://www.theverge.com/24339131/meta-content-moderation-fact-check-zuckerberg-texas)
+ - [Google experiments with audio summaries of your daily news highlights](https://www.androidauthority.com/daily-listen-3514525/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
