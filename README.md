@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The perfect flip](http://9gag.com/gag/aBydGvZ)
- - ⏩ [Boomer game.](http://9gag.com/gag/awyZdXR)
- - 👉 [Cap?](http://9gag.com/gag/amoAMQX)<!-- MEMES:END -->
+ - 💣 [A building being demolished from the bodttom-up.](http://9gag.com/gag/an7z2j5)
+ - ⏩ [Once upon a time](http://9gag.com/gag/apR9xbB)
+ - 👉 [Welcome to the new era of gaming](http://9gag.com/gag/aMVEzYX)<!-- MEMES:END -->
 
 ---
 
