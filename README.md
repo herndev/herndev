@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [His first $100,000 in stock investments turned out pretty well!](http://9gag.com/gag/a0e411X)
- - ⏩ [Isn&#39;t that the plot of Yellowstone?](http://9gag.com/gag/aGyEBR6)
+ - 💣 [Fisherman struck by lightning twice](http://9gag.com/gag/a6Zq5r2)
+ - ⏩ [A building being demolished from the bodttom-up.](http://9gag.com/gag/an7z2j5)
  - 👉 [Reminder](http://9gag.com/gag/a6Zqn59)<!-- MEMES:END -->
 
 ---
