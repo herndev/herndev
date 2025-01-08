@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Indonesian e-commerce pioneer Bukalapak will stop sales of physical goods to focus on virtual goods like mobile credits, amid competition from Shopee and others &lpar;Yuan Gao/Bloomberg&rpar;](http://www.techmeme.com/250108/p6#a250108p6)
- - [AWS says it plans to invest &quot;at least&quot; $11B to expand data center infrastructure in Georgia, which is becoming a popular state for data centers in the US &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250108/p5#a250108p5)
- - [These are the world’s first luxury smart rings made of 18K gold and platinum](https://www.androidauthority.com/ultrahuman-rare-3514273/)<!-- TECH:END -->
+ - [Google Photos could soon give users more power to organize their photos &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-photos-manual-photo-stack-apk-teardown-3514290/)
+ - [Jensen Huang says Nvidia&#39;s AI chips are improving faster than Moore&#39;s Law, claiming that today&#39;s Nvidia AI chips are 1,000x better than those made 10 years ago &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/250108/p8#a250108p8)
+ - [Sources: Mark Zuckerberg demanded a review at Meta after his 2023 knee surgery post on Facebook initially got anemic attention; Meta downplays the significance &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250108/p7#a250108p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
