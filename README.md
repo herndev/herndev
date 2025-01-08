@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Now thats a gender equality](http://9gag.com/gag/a87q0nO)
- - ⏩ [Alison Lohman behind the scenes of \u201cDrag Me to Hell\u201d &lpar;2009&rpar;.](http://9gag.com/gag/aQzEQZq)
- - 👉 [Tameshigiri Master demonstrates how useless a katana could be without the proper technique &amp; skills](http://9gag.com/gag/a5QXwGG)<!-- MEMES:END -->
+ - 💣 [Reminder](http://9gag.com/gag/a6Zqn59)
+ - ⏩ [Driver tries to leave scene of accident](http://9gag.com/gag/aRBEzNy)
+ - 👉 [Can you fix her?](http://9gag.com/gag/a6Zq5b8)<!-- MEMES:END -->
 
 ---
 
