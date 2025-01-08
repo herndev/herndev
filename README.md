@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Marvel Rivals mods might get you banned, but that hasn&amp;#8217;t stopped people from making custom skins](https://www.polygon.com/gaming/505198/marvel-rivals-cosmetic-skin-mods)
- - [Wingspan is getting a sequel and it’s all about fish](https://www.polygon.com/news/505361/wingspan-sequel-finspan-release-date)
- - [Until Dawn movie will tell new story with different characters](https://www.polygon.com/horror/505402/until-dawn-movie-new-story-new-characters)<!-- GAME:END -->
+ - [I Really Hope This Lego PS2 Set Actually Happens](https://kotaku.com/lego-ideas-ps2-playstation-2-set-portal-gaming-sony-1851735534)
+ - [Marvel Rivals Trump mod removal from Nexus Mods opens stupid new front in the never-ending culture war](https://www.polygon.com/news/505363/marvel-rivals-donald-trump-nexus-mods-removal)
+ - [WoW&#39;s finally upgrading its dreaded swirlies so players can actually tell where it&#39;s safe to stand](https://www.pcgamer.com/games/world-of-warcraft/wows-finally-upgrading-its-dreaded-swirlies-so-players-can-actually-tell-where-its-safe-to-stand/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
