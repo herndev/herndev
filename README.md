@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [His first $100,000 in stock investments turned out pretty well!](http://9gag.com/gag/a0e411X)
- - ⏩ [HowDisappointing](http://9gag.com/gag/aE0qWgO)
- - 👉 [Grapes.](http://9gag.com/gag/aVvbL6v)<!-- MEMES:END -->
+ - 💣 [Swedish friends, is that true?](http://9gag.com/gag/ae9Qmqj)
+ - ⏩ [Instert What the hell happened here meme ..here](http://9gag.com/gag/aAy02oL)
+ - 👉 [Fisherman struck by lightning twice](http://9gag.com/gag/a6Zq5r2)<!-- MEMES:END -->
 
 ---
 
