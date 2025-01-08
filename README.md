@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Minors](http://9gag.com/gag/avyQ1qM)
- - ⏩ [Why does this happen?](http://9gag.com/gag/a5QXB1G)
- - 👉 [Reminder](http://9gag.com/gag/a6Zqn59)<!-- MEMES:END -->
+ - 💣 [What happened to women&#39;s rights?](http://9gag.com/gag/ae9QVyp)
+ - ⏩ [She laughs in crow too.](http://9gag.com/gag/a34Z0br)
+ - 👉 [Love the anti Muslim Elon arc lately](http://9gag.com/gag/azx2K3B)<!-- MEMES:END -->
 
 ---
 
