@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Is the iPhone SE 4 launching this month? Here’s what the latest rumors suggest](https://www.androidauthority.com/iphone-se-4-release-rumors-3514302/)
- - [Sources: Bluesky is finalizing a new round at a ~$700M valuation led by Bain Capital Ventures; it raised a $15M Series A in October 2024 and an $8M seed in 2023 &lpar;Business Insider&rpar;](http://www.techmeme.com/250108/p10#a250108p10)
- - [Asus unveils the Zenbook A14, with a new base-model eight-core Snapdragon X processor, available mid-January starting at $1,100; a $900 variant debuts in March &lpar;Antonio G. Di Benedetto/The Verge&rpar;](http://www.techmeme.com/250108/p9#a250108p9)<!-- TECH:END -->
+ - [Inside Naver&#39;s 1784, a 36-level office tower in Seoul, which has ~4,500 employees working with 120 robots and serves as a testbed for various AI technologies &lpar;Saritha Rai/Bloomberg&rpar;](http://www.techmeme.com/250108/p11#a250108p11)
+ - [Don’t Count Out Human Writers in the Age of AI](https://www.wired.com/story/dont-count-out-human-writers-in-the-age-of-ai/)
+ - [Is the iPhone SE 4 launching this month? Here’s what the latest rumors suggest](https://www.androidauthority.com/iphone-se-4-release-rumors-3514302/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
