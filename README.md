@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung to offer ‘subscription’ service for Galaxy phones, but it’s not what you think](https://www.androidauthority.com/galaxy-ai-subscription-club-3514583/)
- - [The OnePlus 13 is already on sale with a free storage upgrade and a smartwatch](https://www.theverge.com/2025/1/8/24338635/oneplus-13-bose-soundlink-flex-bluetooth-speaker-deal-sale)
- - [Mastodon CEO Eugen Rochko says Meta&#39;s moderation changes are &quot;deeply troubling&quot;, and Mastodon will take action on Threads accounts violating Mastodon&#39;s policies &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/250108/p34#a250108p34)<!-- TECH:END -->
+ - [AGDQ’s best moments happen when you least expect them](https://www.theverge.com/2025/1/8/24339206/agdq-2025-batman-forever-the-arcade-game)
+ - [Google just made Quick Share even better with QR code sharing](https://www.androidauthority.com/quick-share-qr-codes-3514702/)
+ - [Google Photos wants to streamline how you select your favorite faces &lpar;APK teardown&rpar;](https://www.androidauthority.com/photos-memories-show-more-3514639/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
