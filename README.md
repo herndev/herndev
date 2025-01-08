@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Fisherman struck by lightning twice](http://9gag.com/gag/a6Zq5r2)
- - ⏩ [Screaming almost helped](http://9gag.com/gag/aLn1zoP)
- - 👉 [How to be kind, smart and f**king dumb in less than 30 seconds...](http://9gag.com/gag/aVvbKLn)<!-- MEMES:END -->
+ - 💣 [Best cartoons of my adulthood](http://9gag.com/gag/aqyex1L)
+ - ⏩ [9/10](http://9gag.com/gag/avyQEnn)
+ - 👉 [Have you seen any condemnation?](http://9gag.com/gag/aRBEvdy)<!-- MEMES:END -->
 
 ---
 
