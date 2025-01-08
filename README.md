@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Forbidden here for a reason](http://9gag.com/gag/a7oqe4L)
- - ⏩ [Sometimes I just wonder if the orange man is just trolling.](http://9gag.com/gag/aZZDEj6)
- - 👉 [When you realize](http://9gag.com/gag/a87q0rp)<!-- MEMES:END -->
+ - 💣 [His first $100,000 in stock investments turned out pretty well!](http://9gag.com/gag/a0e411X)
+ - ⏩ [Amazeballs](http://9gag.com/gag/apR9DZW)
+ - 👉 [Instert What the hell happened here meme ..here](http://9gag.com/gag/aAy02oL)<!-- MEMES:END -->
 
 ---
 
