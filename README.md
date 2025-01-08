@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Omi is another AI companion wearable — but this one’s trying to read your mind](https://www.theverge.com/2025/1/8/24338750/omi-ai-wearable-friend-companion)
- - [Foxconn wants a bigger cut of India&#39;s production incentive subsidies](https://appleinsider.com/articles/25/01/08/foxconn-wants-a-bigger-cut-of-indias-production-incentive-subsidies?utm_medium=rss)
- - [You can get a $50 credit when you preorder the next Samsung Galaxy devices](https://www.theverge.com/2025/1/8/24339000/samsung-unpacked-2025-galaxy-s25-plus-ultra-pre-order-credit-deal)<!-- TECH:END -->
+ - [Microsoft open sources the 14B-parameter AI model Phi-4 and its weights, available on Hugging Face under a MIT License, after releasing it in December 2024 &lpar;Carl Franzen/VentureBeat&rpar;](http://www.techmeme.com/250108/p32#a250108p32)
+ - [Delta is upgrading your in-flight entertainment with YouTube Premium on 4K screens](https://www.androidauthority.com/delta-youtube-partnership-3514487/)
+ - [&#39;Sniper Elite 4&#39; creeps onto Mac, iPhone, and iPad](https://appleinsider.com/articles/25/01/08/sniper-elite-4-creeps-onto-mac-iphone-and-ipad?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
