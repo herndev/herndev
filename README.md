@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google and MediaTek reveal new chip, but it’s not for a future Pixel](https://www.androidauthority.com/google-mediatek-chipset-3512566/)
- - [Microsoft plans to supercharge Windows handhelds with the Xbox experience](https://www.androidauthority.com/microsoft-windows-handhelds-xbox-experience-3514223/)
- - [How to automate iPhone reboots to improve performance &amp; security](https://appleinsider.com/inside/iphone/tips/how-to-automate-iphone-reboots-to-improve-performance-security?utm_medium=rss)<!-- TECH:END -->
+ - [Nvidia CEO Jensen Huang says that MediaTek will be able to sell the CPU chip that the two companies unveiled for Project DIGITS, Nvidia&#39;s first desktop computer &lpar;Stephen Nellis/Reuters&rpar;](http://www.techmeme.com/250108/p2#a250108p2)
+ - [Atlanta-based HR and payroll software startup OnPay raised a $63M Series B led by Carrick Capital Partners, taking its total raised to $165M+ in equity and debt &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250108/p1#a250108p1)
+ - [Google Photos is bringing back a convenient partner sharing feature](https://www.androidauthority.com/google-photos-partner-sharing-third-party-apps-3514262/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
