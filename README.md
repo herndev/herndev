@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [A simple man](http://9gag.com/gag/aPAgQXR)
- - ⏩ [Fisherman struck by lightning twice](http://9gag.com/gag/a6Zq5r2)
- - 👉 [Tameshigiri Master demonstrates how useless a katana could be without the proper technique &amp; skills](http://9gag.com/gag/a5QXwGG)<!-- MEMES:END -->
+ - 💣 [Forbidden here for a reason](http://9gag.com/gag/a7oqe4L)
+ - ⏩ [Sometimes I just wonder if the orange man is just trolling.](http://9gag.com/gag/aZZDEj6)
+ - 👉 [When you realize](http://9gag.com/gag/a87q0rp)<!-- MEMES:END -->
 
 ---
 
