@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Reminder](http://9gag.com/gag/a6Zqn59)
- - ⏩ [Driver tries to leave scene of accident](http://9gag.com/gag/aRBEzNy)
- - 👉 [Can you fix her?](http://9gag.com/gag/a6Zq5b8)<!-- MEMES:END -->
+ - 💣 [When your child comes with .fonts pre-installed](http://9gag.com/gag/ayN23XX)
+ - ⏩ [Alison Lohman behind the scenes of \u201cDrag Me to Hell\u201d &lpar;2009&rpar;.](http://9gag.com/gag/aQzEQZq)
+ - 👉 [Wholesome and rare behavior but lady was reaching for pepper spray](http://9gag.com/gag/a1mPNbR)<!-- MEMES:END -->
 
 ---
 
