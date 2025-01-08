@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta Follows Elon Musk’s Lead, Moves Staffers to Billionaire-Friendly Texas](https://www.wired.com/story/meta-elon-musks-lead-trust-safety-billionaire-friendly-texas/)
- - [All the Top CPU and GPU News From CES 2025](https://www.wired.com/story/intel-amd-qualcomm-nvidia-new-cpus-and-gpus-ces-2025/)
- - [LG’s StanbyME sequel adds a carrying strap to the portable TV](https://www.theverge.com/2025/1/7/24338520/lg-stanbyme-2-portable-tv-carrying-strap-ces-2025)<!-- TECH:END -->
+ - [Here are some of the horrible things that you can now say on Instagram and Facebook](https://www.theverge.com/2025/1/7/24338471/meta-hate-speech-hateful-conduct-policy-moderation)
+ - [The new Amazon Kindle you got over the holidays can already be jailbroken](https://www.androidauthority.com/amazon-kindle-jailbreak-3514143/)
+ - [OnePlus 13 review: excellent battery life, six years of security updates, solid build quality with IP69 rating, but most AI tools require internet connectivity &lpar;Nicholas Sutrich/Android Central&rpar;](http://www.techmeme.com/250107/p40#a250107p40)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
