@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [What time does Marvel Rivals season 1 release in your time zone?](https://www.polygon.com/marvel-rivals-guide/504212/season-1-release-time-date-est-pst-bst)
- - [Jen-Hsun reckons Nvidia has driven the &#39;cost of computing down by 1,000,000 times&#39;](https://www.pcgamer.com/hardware/graphics-cards/jen-hsun-reckons-nvidia-has-driven-the-cost-of-computing-down-by-1-000-000-times/)
- - [Will there ever become a point with AI where there are no traditionally rendered frames in games? Perhaps surprisingly, Jen-Hsun says &#39;no&#39;](https://www.pcgamer.com/hardware/graphics-cards/will-there-ever-become-a-point-with-ai-where-there-are-no-traditionally-rendered-frames-in-games-perhaps-surprisingly-jen-hsun-says-no/)<!-- GAME:END -->
+ - [All Kell&#39;s Fall organ puzzle codes in Destiny 2](https://www.pcgamer.com/games/fps/destiny-2-organ-puzzle-melody-codes/)
+ - [&#39;It&#39;s simply impossible to make a difficulty level that&#39;s just right for all players&#39;: How Final Fantasy 14&#39;s lead battle designer has been playing a precarious balancing game for Dawntrail&#39;s dungeons and raids](https://www.pcgamer.com/games/final-fantasy/its-simply-impossible-to-make-a-difficulty-level-thats-just-right-for-all-players-how-final-fantasy-14s-lead-battle-designer-has-been-playing-a-precarious-balancing-game-for-dawntrails-dungeons-and-raids/)
+ - [The RTX 5090 might make triple-fan cards look light on cooling if these four-fan and five-fan versions from Gigabyte and MSI are anything to go by](https://www.pcgamer.com/hardware/graphics-cards/the-rtx-5090-might-make-triple-fan-cards-look-light-on-cooling-if-these-four-fan-and-five-fan-versions-from-gigabyte-and-msi-are-anything-to-go-by/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
