@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Best cartoons of my adulthood](http://9gag.com/gag/aqyex1L)
- - ⏩ [9/10](http://9gag.com/gag/avyQEnn)
- - 👉 [Have you seen any condemnation?](http://9gag.com/gag/aRBEvdy)<!-- MEMES:END -->
+ - 💣 [Fisherman struck by lightning twice](http://9gag.com/gag/a6Zq5r2)
+ - ⏩ [Too much mom\u2019s spaghetti.](http://9gag.com/gag/amoAmg6)
+ - 👉 [Reminder](http://9gag.com/gag/a6Zqn59)<!-- MEMES:END -->
 
 ---
 
