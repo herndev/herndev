@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [What time does Marvel Rivals season 1 release in your time zone?](https://www.polygon.com/marvel-rivals-guide/504212/season-1-release-time-date-est-pst-bst)
  - [Jen-Hsun reckons Nvidia has driven the &#39;cost of computing down by 1,000,000 times&#39;](https://www.pcgamer.com/hardware/graphics-cards/jen-hsun-reckons-nvidia-has-driven-the-cost-of-computing-down-by-1-000-000-times/)
- - [Will there ever become a point with AI where there are no traditionally rendered frames in games? Perhaps surprisingly, Jen-Hsun says &#39;no&#39;](https://www.pcgamer.com/hardware/graphics-cards/will-there-ever-become-a-point-with-ai-where-there-are-no-traditionally-rendered-frames-in-games-perhaps-surprisingly-jen-hsun-says-no/)
- - [Please join me in getting super excited for all the cool looking survival games coming in 2025 &lpar;and beyond&rpar;](https://www.pcgamer.com/games/survival-crafting/please-join-me-in-getting-super-excited-for-all-the-cool-looking-survival-games-coming-in-2025-and-beyond/)<!-- GAME:END -->
+ - [Will there ever become a point with AI where there are no traditionally rendered frames in games? Perhaps surprisingly, Jen-Hsun says &#39;no&#39;](https://www.pcgamer.com/hardware/graphics-cards/will-there-ever-become-a-point-with-ai-where-there-are-no-traditionally-rendered-frames-in-games-perhaps-surprisingly-jen-hsun-says-no/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
