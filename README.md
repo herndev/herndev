@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [&lpar;For Southeast Asia&rpar; New Midnight Black Collection of PS5 accessories launches next month](https://blog.playstation.com/2025/01/07/20240108-ps5/)
  - [The RTX 5090 Founders Edition might be svelte but the Asus ROG Astral cards are absolute chonkers](https://www.pcgamer.com/hardware/the-rtx-5090-founders-edition-might-be-svelte-but-the-asus-rog-astral-cards-are-absolute-chonkers/)
- - [Eight years after arriving on Steam, VRChat just hit a new peak concurrent player count](https://www.pcgamer.com/games/vr/eight-years-after-arriving-on-steam-vrchat-just-hit-a-new-peak-concurrent-player-count/)
- - [Shiren the Wanderer: The Mystery Dungeon of Serpentcoil Island review](https://www.pcgamer.com/games/roguelike/shiren-the-wanderer-the-mystery-dungeon-of-serpentcoil-island-review/)<!-- GAME:END -->
+ - [Eight years after arriving on Steam, VRChat just hit a new peak concurrent player count](https://www.pcgamer.com/games/vr/eight-years-after-arriving-on-steam-vrchat-just-hit-a-new-peak-concurrent-player-count/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
