@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Documents: The Heritage Foundation plans to &quot;identify and target&quot; Wikipedia editors who it says are &quot;abusing their position&quot; to publish antisemitic content &lpar;Arno Rosenfeld/The Forward&rpar;](http://www.techmeme.com/250107/p47#a250107p47)
- - [Meta&#39;s fact-checking partners PolitiFact and FactCheck.org say they had no role in deciding what the company did with the content that was fact-checked &lpar;Stuart A. Thompson/New York Times&rpar;](http://www.techmeme.com/250107/p46#a250107p46)
- - [Microsoft is combining ‘the best of Xbox and Windows together’ for handhelds](https://www.theverge.com/2025/1/7/24338778/microsoft-xbox-handheld-pc-gaming)<!-- TECH:END -->
+ - [Microsoft plans to supercharge Windows handhelds with the Xbox experience](https://www.androidauthority.com/microsoft-windows-handhelds-xbox-experience-3514223/)
+ - [How to automate iPhone reboots to improve performance &amp; security](https://appleinsider.com/inside/iphone/tips/how-to-automate-iphone-reboots-to-improve-performance-security?utm_medium=rss)
+ - [The US NLRB says Google is a &quot;joint employer&quot; of ~50 Accenture Flex workers who joined the Alphabet Workers Union in 2023 and must bargain with their union &lpar;Daniel Wiessner/Reuters&rpar;](http://www.techmeme.com/250107/p49#a250107p49)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
