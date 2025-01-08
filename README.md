@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [What happened to women&#39;s rights?](http://9gag.com/gag/ae9QVyp)
- - ⏩ [She laughs in crow too.](http://9gag.com/gag/a34Z0br)
- - 👉 [Love the anti Muslim Elon arc lately](http://9gag.com/gag/azx2K3B)<!-- MEMES:END -->
+ - 💣 [Sometimes I just wonder if the orange man is just trolling.](http://9gag.com/gag/aZZDEj6)
+ - ⏩ [When you realize](http://9gag.com/gag/a87q0rp)
+ - 👉 [Top 10 anime betrayals](http://9gag.com/gag/aE0qWMn)<!-- MEMES:END -->
 
 ---
 
