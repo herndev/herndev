@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [I Really Hope This Lego PS2 Set Actually Happens](https://kotaku.com/lego-ideas-ps2-playstation-2-set-portal-gaming-sony-1851735534)
- - [Marvel Rivals Trump mod removal from Nexus Mods opens stupid new front in the never-ending culture war](https://www.polygon.com/news/505363/marvel-rivals-donald-trump-nexus-mods-removal)
- - [WoW&#39;s finally upgrading its dreaded swirlies so players can actually tell where it&#39;s safe to stand](https://www.pcgamer.com/games/world-of-warcraft/wows-finally-upgrading-its-dreaded-swirlies-so-players-can-actually-tell-where-its-safe-to-stand/)<!-- GAME:END -->
+ - [How to sign up for the Elden Ring Nightreign network test](https://www.polygon.com/elden-ring-nightreign-guides/505147/network-test-beta-sign-up-dates-how-to)
+ - [Marvel Rivals&#39; most-picked hero also has one of the lowest win rates](https://www.pcgamer.com/games/third-person-shooter/marvel-rivals-most-picked-hero-also-has-one-of-the-lowest-win-rates/)
+ - [Absolute Unit Jack Reacher Encounters An Even Bigger Dude In Season 3](https://kotaku.com/jack-reacher-season-3-amazon-prime-trailer-date-1851735600)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
