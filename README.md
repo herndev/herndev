@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [I found the first Matter smart fridge](https://www.theverge.com/2025/1/8/24338948/bosch-first-matter-smart-fridge-price-release-date-specs)
- - [Google Keep could soon double down on faster note-taking &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-keep-voice-notes-shortcut-apk-3514339/)
- - [Yes, You Can Get Up to $4,000 Now With a Tax Refund Advance -- but It&#39;s Risky](https://www.cnet.com/personal-finance/taxes/yes-you-can-get-up-to-4000-now-with-a-tax-refund-advance-but-its-risky/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Noise-Canceling Headphones &lpar;2025&rpar;: Over-Ears, Wireless Earbuds, Workout Pairs](https://www.wired.com/gallery/best-noise-canceling-headphones/)
+ - [In a first, an EU court fines the EC &amp;euro;400 for breaching its own data protection law by transferring a user&#39;s data to the US via a Sign in with Facebook option &lpar;Reuters&rpar;](http://www.techmeme.com/250108/p20#a250108p20)
+ - [Major quantum computing stocks, up 300%+ in the past year, fell on January 7 after Jensen Huang said &quot;very useful&quot; quantum computers are likely decades away &lpar;Jeran Wittenstein/Bloomberg&rpar;](http://www.techmeme.com/250108/p19#a250108p19)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
