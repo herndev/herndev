@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle answer for Wednesday, January 8](https://www.pcgamer.com/games/puzzle/wordle-answer-today-january-8-2025/)
  - [&lpar;For Southeast Asia&rpar; New Midnight Black Collection of PS5 accessories launches next month](https://blog.playstation.com/2025/01/07/20240108-ps5/)
- - [&lpar;For Southeast Asia&rpar; New Midnight Black Collection of PS5 accessories launches next month](https://blog.playstation.com/2025/01/07/20240108-ps5/)
- - [The RTX 5090 Founders Edition might be svelte but the Asus ROG Astral cards are absolute chonkers](https://www.pcgamer.com/hardware/the-rtx-5090-founders-edition-might-be-svelte-but-the-asus-rog-astral-cards-are-absolute-chonkers/)<!-- GAME:END -->
+ - [&lpar;For Southeast Asia&rpar; New Midnight Black Collection of PS5 accessories launches next month](https://blog.playstation.com/2025/01/07/20240108-ps5/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
