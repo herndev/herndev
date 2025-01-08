@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Akamai plans to end its CDN services in China on June 30, 2026, saying customers can move to an Akamai CDN outside China or use local providers like Tencent &lpar;Simon Sharwood/The Register&rpar;](http://www.techmeme.com/250108/p15#a250108p15)
- - [Dublin-based payments startup NomuPay, formed in 2023 from some of Wirecard&#39;s regional payment licenses, raised a $37M Series B at a $200M valuation &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/250108/p14#a250108p14)
- - [Nvidia’s Jensen Huang hints at ‘plans’ for its own desktop CPU](https://www.theverge.com/2025/1/8/24338939/nvidia-jensen-huang-hints-arm-desktop-cpu)<!-- TECH:END -->
+ - [I found the first Matter smart fridge](https://www.theverge.com/2025/1/8/24338948/bosch-first-matter-smart-fridge-price-release-date-specs)
+ - [Google Keep could soon double down on faster note-taking &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-keep-voice-notes-shortcut-apk-3514339/)
+ - [Yes, You Can Get Up to $4,000 Now With a Tax Refund Advance -- but It&#39;s Risky](https://www.cnet.com/personal-finance/taxes/yes-you-can-get-up-to-4000-now-with-a-tax-refund-advance-but-its-risky/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
