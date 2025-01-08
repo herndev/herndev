@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Download the Samsung Galaxy S25 wallpapers here before launch!](https://www.androidauthority.com/download-samsung-galaxy-s25-wallpapers-3514419/)
- - [Galaxy S25 Ultra could get some exclusive Nightography video improvements](https://www.androidauthority.com/samsung-galaxy-s25-ultra-low-light-video-improvements-3514370/)
- - [AMD invests $20M in drug-discovery company Absci, which will move toward greater use of AMD&#39;s GPUs; Absci has 470+ AI chips, most of which are from Nvidia &lpar;Belle Lin/Wall Street Journal&rpar;](http://www.techmeme.com/250108/p22#a250108p22)<!-- TECH:END -->
+ - [Sources: TSMC&#39;s Arizona plant is now producing Systems-in-Package for the Apple Watch, in addition to the A16 processor for iPhones &lpar;Tim Culpan/Culpium,&rpar;](http://www.techmeme.com/250108/p26#a250108p26)
+ - [Google says Nest hubs, Chromecasts, Google TV devices on Android 14, and more can now control Matter devices locally, and opens its Home APIs to all developers &lpar;Jennifer Pattison Tuohy/The Verge&rpar;](http://www.techmeme.com/250108/p25#a250108p25)
+ - [TSMC&#39;s Arizona plant starts making a second Apple chip](https://appleinsider.com/articles/25/01/08/tsmcs-arizona-plant-starts-making-a-second-apple-chip?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
