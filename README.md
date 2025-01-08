@@ -32,8 +32,8 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Please join me in getting super excited for all the cool looking survival games coming in 2025 &lpar;and beyond&rpar;](https://www.pcgamer.com/games/survival-crafting/please-join-me-in-getting-super-excited-for-all-the-cool-looking-survival-games-coming-in-2025-and-beyond/)
  - [Today&#39;s Wordle answer for Wednesday, January 8](https://www.pcgamer.com/games/puzzle/wordle-answer-today-january-8-2025/)
- - [&lpar;For Southeast Asia&rpar; New Midnight Black Collection of PS5 accessories launches next month](https://blog.playstation.com/2025/01/07/20240108-ps5/)
  - [&lpar;For Southeast Asia&rpar; New Midnight Black Collection of PS5 accessories launches next month](https://blog.playstation.com/2025/01/07/20240108-ps5/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
