@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Here are some of the horrible things that you can now say on Instagram and Facebook](https://www.theverge.com/2025/1/7/24338471/meta-hate-speech-hateful-conduct-policy-moderation)
- - [The new Amazon Kindle you got over the holidays can already be jailbroken](https://www.androidauthority.com/amazon-kindle-jailbreak-3514143/)
- - [OnePlus 13 review: excellent battery life, six years of security updates, solid build quality with IP69 rating, but most AI tools require internet connectivity &lpar;Nicholas Sutrich/Android Central&rpar;](http://www.techmeme.com/250107/p40#a250107p40)<!-- TECH:END -->
+ - [Delta’s giving its in-flight screens a major 4K HDR upgrade](https://www.theverge.com/2025/1/7/24338411/delta-airplane-screen-4k-hdr-qled-uber-ces)
+ - [Samsung reports preliminary Q4 operating profit of ~$4.5B, missing analysts&#39; average projection of ~$6.2B, and revenue of ~$51.7B, also missing estimates &lpar;Bloomberg&rpar;](http://www.techmeme.com/250107/p43#a250107p43)
+ - [Trump says Meta has &quot;come a long way&quot; after the company announced it will end its fact-checking program, and that Meta&#39;s &quot;presentation was excellent&quot; &lpar;Fox News&rpar;](http://www.techmeme.com/250107/p42#a250107p42)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
