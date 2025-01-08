@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [This Astro Bot Trophy Is A Treat For The Ears](https://kotaku.com/astro-bot-singstars-trophy-how-to-unlock-parts-1851734569)
- - [AMD says there are no technical reasons for not having an X3D processor with 3D V-Cache on both CCDs, but we probably won&#39;t see such a dual-stacked chip anyway](https://www.pcgamer.com/hardware/processors/amd-says-there-are-no-technical-reasons-for-not-having-an-x3d-processor-with-3d-v-cache-on-both-ccds-but-we-probably-wont-see-such-a-dual-stacked-chip-anyway/)
- - [The 2025 Asus ROG NUC looks epic and has some mighty specs but a desktop gaming PC will probably be far better value for money](https://www.pcgamer.com/hardware/gaming-pcs/the-2025-asus-rog-nuc-looks-epic-and-has-some-mighty-specs-but-a-desktop-gaming-pc-will-probably-be-far-better-value-for-money/)<!-- GAME:END -->
+ - [D&amp;D&#39;s revised Monster Manual is tackling one of the game&#39;s biggest hangups—and adding a new menu of BBEGs: &#39;We wanted the Tarrasque to have some fighting buddies&#39;](https://www.pcgamer.com/games/d-and-ds-revised-monster-manual-is-tackling-one-of-the-games-biggest-hangups-and-adding-a-new-menu-of-bbegs-we-wanted-the-tarrasque-to-have-some-fighting-buddies/)
+ - [&#39;That&#39;s my ass again&#39;: A Marvel Rival body model realises she&#39;s the inspiration behind the new hero Sue Storm after recognising her butt in the teaser trailer](https://www.pcgamer.com/games/third-person-shooter/thats-my-ass-again-a-marvel-rival-body-model-realises-shes-the-inspiration-behind-the-new-hero-sue-storm-after-recognising-her-butt-in-the-teaser-trailer/)
+ - [Ken Levine never expected Take-Two to shutter Irrational after Bioshock Infinite: &#39;The decision was made at a corporate level&#39;](https://www.pcgamer.com/games/ken-levine-never-expected-take-two-to-shutter-irrational-after-bioshock-infinite-the-decision-was-made-at-a-corporate-level/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
