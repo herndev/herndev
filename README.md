@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Fisherman struck by lightning twice](http://9gag.com/gag/a6Zq5r2)
- - ⏩ [A building being demolished from the bodttom-up.](http://9gag.com/gag/an7z2j5)
- - 👉 [Reminder](http://9gag.com/gag/a6Zqn59)<!-- MEMES:END -->
+ - 💣 [A simple man](http://9gag.com/gag/aPAgQXR)
+ - ⏩ [Fisherman struck by lightning twice](http://9gag.com/gag/a6Zq5r2)
+ - 👉 [Tameshigiri Master demonstrates how useless a katana could be without the proper technique &amp; skills](http://9gag.com/gag/a5QXwGG)<!-- MEMES:END -->
 
 ---
 
