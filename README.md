@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [D&amp;D&#39;s revised Monster Manual is tackling one of the game&#39;s biggest hangups—and adding a new menu of BBEGs: &#39;We wanted the Tarrasque to have some fighting buddies&#39;](https://www.pcgamer.com/games/d-and-ds-revised-monster-manual-is-tackling-one-of-the-games-biggest-hangups-and-adding-a-new-menu-of-bbegs-we-wanted-the-tarrasque-to-have-some-fighting-buddies/)
- - [&#39;That&#39;s my ass again&#39;: A Marvel Rival body model realises she&#39;s the inspiration behind the new hero Sue Storm after recognising her butt in the teaser trailer](https://www.pcgamer.com/games/third-person-shooter/thats-my-ass-again-a-marvel-rival-body-model-realises-shes-the-inspiration-behind-the-new-hero-sue-storm-after-recognising-her-butt-in-the-teaser-trailer/)
- - [Ken Levine never expected Take-Two to shutter Irrational after Bioshock Infinite: &#39;The decision was made at a corporate level&#39;](https://www.pcgamer.com/games/ken-levine-never-expected-take-two-to-shutter-irrational-after-bioshock-infinite-the-decision-was-made-at-a-corporate-level/)<!-- GAME:END -->
+ - [Railway Islands 2: a Puzzle Game for Train Fans and Cozy Gamers, Now on Xbox](https://news.xbox.com/en-us/2025/01/08/railway-islands-2-a-puzzle-game-for-train-fans-and-cozy-gamers-now-on-xbox/)
+ - [4K Blu-rays of The Warriors, RoboCop, and other cult classics are half off](https://www.polygon.com/sales-guide/505284/arrow-video-rk-blu-ray-half-price-deal-amazon-barnes-noble)
+ - [AIB vendors getting the RTX 5080&#39;s memory config wrong could mean 50-series Super cards have more and faster VRAM](https://www.pcgamer.com/hardware/graphics-cards/aib-vendors-getting-the-rtx-5080s-memory-config-wrong-could-mean-50-series-super-cards-have-more-and-faster-vram/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
