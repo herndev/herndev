@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [For the boys](http://9gag.com/gag/ae9QO1p)
- - ⏩ [Best cartoons of my adulthood](http://9gag.com/gag/aqyex1L)
- - 👉 [What happened to women&#39;s rights?](http://9gag.com/gag/ae9QVyp)<!-- MEMES:END -->
+ - 💣 [Driver tries to leave scene of accident](http://9gag.com/gag/aRBEzNy)
+ - ⏩ [Damn that father ain&#39;t recovering after that jeez](http://9gag.com/gag/aO8xeGD)
+ - 👉 [Reminder](http://9gag.com/gag/a6Zqn59)<!-- MEMES:END -->
 
 ---
 
