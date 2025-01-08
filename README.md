@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How to sign up for the Elden Ring Nightreign network test](https://www.polygon.com/elden-ring-nightreign-guides/505147/network-test-beta-sign-up-dates-how-to)
- - [Marvel Rivals&#39; most-picked hero also has one of the lowest win rates](https://www.pcgamer.com/games/third-person-shooter/marvel-rivals-most-picked-hero-also-has-one-of-the-lowest-win-rates/)
- - [Absolute Unit Jack Reacher Encounters An Even Bigger Dude In Season 3](https://kotaku.com/jack-reacher-season-3-amazon-prime-trailer-date-1851735600)<!-- GAME:END -->
+ - [Inzoi is creating a newfangled life sim NPC that can &#39;grow and develop its own personality&#39; with Nvidia&#39;s AI tech](https://www.pcgamer.com/games/life-sim/inzoi-is-creating-a-newfangled-life-sim-npc-that-can-grow-and-develop-its-own-personality-with-nvidias-ai-tech/)
+ - [Discoveries](https://www.polygon.com/gaming/24215620/new-things-to-play-watch-and-experience)
+ - [Marvel Rivals patch has way more nerfs and buffs than we thought: A whopping 24 heroes are changing this week](https://www.pcgamer.com/games/third-person-shooter/marvel-rivals-patch-has-way-more-nerfs-and-buffs-than-we-thought-a-whopping-24-heroes-are-changing-this-week/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
