@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Photos could soon give users more power to organize their photos &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-photos-manual-photo-stack-apk-teardown-3514290/)
- - [Jensen Huang says Nvidia&#39;s AI chips are improving faster than Moore&#39;s Law, claiming that today&#39;s Nvidia AI chips are 1,000x better than those made 10 years ago &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/250108/p8#a250108p8)
- - [Sources: Mark Zuckerberg demanded a review at Meta after his 2023 knee surgery post on Facebook initially got anemic attention; Meta downplays the significance &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250108/p7#a250108p7)<!-- TECH:END -->
+ - [Is the iPhone SE 4 launching this month? Here’s what the latest rumors suggest](https://www.androidauthority.com/iphone-se-4-release-rumors-3514302/)
+ - [Sources: Bluesky is finalizing a new round at a ~$700M valuation led by Bain Capital Ventures; it raised a $15M Series A in October 2024 and an $8M seed in 2023 &lpar;Business Insider&rpar;](http://www.techmeme.com/250108/p10#a250108p10)
+ - [Asus unveils the Zenbook A14, with a new base-model eight-core Snapdragon X processor, available mid-January starting at $1,100; a $900 variant debuts in March &lpar;Antonio G. Di Benedetto/The Verge&rpar;](http://www.techmeme.com/250108/p9#a250108p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
