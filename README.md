@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Driver tries to leave scene of accident](http://9gag.com/gag/aRBEzNy)
- - ⏩ [Damn that father ain&#39;t recovering after that jeez](http://9gag.com/gag/aO8xeGD)
+ - 💣 [Minors](http://9gag.com/gag/avyQ1qM)
+ - ⏩ [Why does this happen?](http://9gag.com/gag/a5QXB1G)
  - 👉 [Reminder](http://9gag.com/gag/a6Zqn59)<!-- MEMES:END -->
 
 ---
