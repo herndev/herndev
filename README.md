@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [When your child comes with .fonts pre-installed](http://9gag.com/gag/ayN23XX)
- - ⏩ [Alison Lohman behind the scenes of \u201cDrag Me to Hell\u201d &lpar;2009&rpar;.](http://9gag.com/gag/aQzEQZq)
- - 👉 [Wholesome and rare behavior but lady was reaching for pepper spray](http://9gag.com/gag/a1mPNbR)<!-- MEMES:END -->
+ - 💣 [A building being demolished from the bodttom-up.](http://9gag.com/gag/an7z2j5)
+ - ⏩ [Wholesome and rare behavior but lady was reaching for pepper spray](http://9gag.com/gag/a1mPNbR)
+ - 👉 [Alison Lohman behind the scenes of \u201cDrag Me to Hell\u201d &lpar;2009&rpar;.](http://9gag.com/gag/aQzEQZq)<!-- MEMES:END -->
 
 ---
 
