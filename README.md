@@ -48,7 +48,7 @@
 <!-- MEMES:START -->
  - 💣 [For the boys](http://9gag.com/gag/ae9QO1p)
  - ⏩ [Best cartoons of my adulthood](http://9gag.com/gag/aqyex1L)
- - 👉 [She laughs in crow too.](http://9gag.com/gag/a34Z0br)<!-- MEMES:END -->
+ - 👉 [What happened to women&#39;s rights?](http://9gag.com/gag/ae9QVyp)<!-- MEMES:END -->
 
 ---
 
