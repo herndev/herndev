@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Noise-Canceling Headphones &lpar;2025&rpar;: Over-Ears, Wireless Earbuds, Workout Pairs](https://www.wired.com/gallery/best-noise-canceling-headphones/)
- - [In a first, an EU court fines the EC &amp;euro;400 for breaching its own data protection law by transferring a user&#39;s data to the US via a Sign in with Facebook option &lpar;Reuters&rpar;](http://www.techmeme.com/250108/p20#a250108p20)
- - [Major quantum computing stocks, up 300%+ in the past year, fell on January 7 after Jensen Huang said &quot;very useful&quot; quantum computers are likely decades away &lpar;Jeran Wittenstein/Bloomberg&rpar;](http://www.techmeme.com/250108/p19#a250108p19)<!-- TECH:END -->
+ - [Download the Samsung Galaxy S25 wallpapers here before launch!](https://www.androidauthority.com/download-samsung-galaxy-s25-wallpapers-3514419/)
+ - [Galaxy S25 Ultra could get some exclusive Nightography video improvements](https://www.androidauthority.com/samsung-galaxy-s25-ultra-low-light-video-improvements-3514370/)
+ - [AMD invests $20M in drug-discovery company Absci, which will move toward greater use of AMD&#39;s GPUs; Absci has 470+ AI chips, most of which are from Nvidia &lpar;Belle Lin/Wall Street Journal&rpar;](http://www.techmeme.com/250108/p22#a250108p22)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
