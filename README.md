@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Railway Islands 2: a Puzzle Game for Train Fans and Cozy Gamers, Now on Xbox](https://news.xbox.com/en-us/2025/01/08/railway-islands-2-a-puzzle-game-for-train-fans-and-cozy-gamers-now-on-xbox/)
- - [4K Blu-rays of The Warriors, RoboCop, and other cult classics are half off](https://www.polygon.com/sales-guide/505284/arrow-video-rk-blu-ray-half-price-deal-amazon-barnes-noble)
- - [AIB vendors getting the RTX 5080&#39;s memory config wrong could mean 50-series Super cards have more and faster VRAM](https://www.pcgamer.com/hardware/graphics-cards/aib-vendors-getting-the-rtx-5080s-memory-config-wrong-could-mean-50-series-super-cards-have-more-and-faster-vram/)<!-- GAME:END -->
+ - [Marvel Rivals mods might get you banned, but that hasn&amp;#8217;t stopped people from making custom skins](https://www.polygon.com/gaming/505198/marvel-rivals-cosmetic-skin-mods)
+ - [Wingspan is getting a sequel and it’s all about fish](https://www.polygon.com/news/505361/wingspan-sequel-finspan-release-date)
+ - [Until Dawn movie will tell new story with different characters](https://www.polygon.com/horror/505402/until-dawn-movie-new-story-new-characters)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
