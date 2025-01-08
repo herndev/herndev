@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Microsoft Is Racing To Bring The Xbox Experience To PC Gaming Handhelds](https://kotaku.com/handheld-xbox-microsoft-pc-console-1851734989)
- - [Final Fantasy 14 data sleuth gathers more info on the game&#39;s script, finds Alphinaud is the king of yappers—though Wuk Lamat&#39;s in the top 3 after just 1 expansion](https://www.pcgamer.com/games/final-fantasy/final-fantasy-14-data-sleuth-gathers-more-info-on-the-games-script-finds-alphinaud-is-the-king-of-yappers-though-wuk-lamats-in-the-top-3-after-just-1-expansion/)
- - [Mythic Quest season 4 is getting called before Congress](https://www.polygon.com/tv/505237/mythic-quest-season-4-trailer-release-date-side)<!-- GAME:END -->
+ - [This Astro Bot Trophy Is A Treat For The Ears](https://kotaku.com/astro-bot-singstars-trophy-how-to-unlock-parts-1851734569)
+ - [AMD says there are no technical reasons for not having an X3D processor with 3D V-Cache on both CCDs, but we probably won&#39;t see such a dual-stacked chip anyway](https://www.pcgamer.com/hardware/processors/amd-says-there-are-no-technical-reasons-for-not-having-an-x3d-processor-with-3d-v-cache-on-both-ccds-but-we-probably-wont-see-such-a-dual-stacked-chip-anyway/)
+ - [The 2025 Asus ROG NUC looks epic and has some mighty specs but a desktop gaming PC will probably be far better value for money](https://www.pcgamer.com/hardware/gaming-pcs/the-2025-asus-rog-nuc-looks-epic-and-has-some-mighty-specs-but-a-desktop-gaming-pc-will-probably-be-far-better-value-for-money/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
