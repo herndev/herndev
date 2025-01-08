@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nvidia CEO Jensen Huang says that MediaTek will be able to sell the CPU chip that the two companies unveiled for Project DIGITS, Nvidia&#39;s first desktop computer &lpar;Stephen Nellis/Reuters&rpar;](http://www.techmeme.com/250108/p2#a250108p2)
- - [Atlanta-based HR and payroll software startup OnPay raised a $63M Series B led by Carrick Capital Partners, taking its total raised to $165M+ in equity and debt &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250108/p1#a250108p1)
- - [Google Photos is bringing back a convenient partner sharing feature](https://www.androidauthority.com/google-photos-partner-sharing-third-party-apps-3514262/)<!-- TECH:END -->
+ - [Indonesian e-commerce pioneer Bukalapak will stop sales of physical goods to focus on virtual goods like mobile credits, amid competition from Shopee and others &lpar;Yuan Gao/Bloomberg&rpar;](http://www.techmeme.com/250108/p6#a250108p6)
+ - [AWS says it plans to invest &quot;at least&quot; $11B to expand data center infrastructure in Georgia, which is becoming a popular state for data centers in the US &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250108/p5#a250108p5)
+ - [These are the world’s first luxury smart rings made of 18K gold and platinum](https://www.androidauthority.com/ultrahuman-rare-3514273/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
