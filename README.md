@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Sometimes I just wonder if the orange man is just trolling.](http://9gag.com/gag/aZZDEj6)
- - ⏩ [When you realize](http://9gag.com/gag/a87q0rp)
- - 👉 [Top 10 anime betrayals](http://9gag.com/gag/aE0qWMn)<!-- MEMES:END -->
+ - 💣 [For the boys](http://9gag.com/gag/ae9QO1p)
+ - ⏩ [Love the anti Muslim Elon arc lately](http://9gag.com/gag/azx2K3B)
+ - 👉 [Best cartoons of my adulthood](http://9gag.com/gag/aqyex1L)<!-- MEMES:END -->
 
 ---
 
