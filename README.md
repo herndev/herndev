@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Fisherman struck by lightning twice](http://9gag.com/gag/a6Zq5r2)
- - ⏩ [Too much mom\u2019s spaghetti.](http://9gag.com/gag/amoAmg6)
+ - 💣 [His first $100,000 in stock investments turned out pretty well!](http://9gag.com/gag/a0e411X)
+ - ⏩ [Isn&#39;t that the plot of Yellowstone?](http://9gag.com/gag/aGyEBR6)
  - 👉 [Reminder](http://9gag.com/gag/a6Zqn59)<!-- MEMES:END -->
 
 ---
