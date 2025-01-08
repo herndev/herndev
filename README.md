@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sam Altman’s sister files sexual abuse lawsuit against him — his family says it’s ‘utterly untrue’](https://www.theverge.com/2025/1/7/24338736/sam-altman-sexual-abuse-lawsuit-ann-sister)
- - [Sam Altman, in a statement with his family, denies the sexual abuse allegations made by his sister in a lawsuit and says she faces &quot;mental health challenges&quot; &lpar;Hayden Field/CNBC&rpar;](http://www.techmeme.com/250107/p44#a250107p44)
- - [Check Out These Mind-Blowing Concept Products From CES 2025](https://www.cnet.com/tech/check-out-these-mind-blowing-concept-products-from-ces-2025/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Documents: The Heritage Foundation plans to &quot;identify and target&quot; Wikipedia editors who it says are &quot;abusing their position&quot; to publish antisemitic content &lpar;Arno Rosenfeld/The Forward&rpar;](http://www.techmeme.com/250107/p47#a250107p47)
+ - [Meta&#39;s fact-checking partners PolitiFact and FactCheck.org say they had no role in deciding what the company did with the content that was fact-checked &lpar;Stuart A. Thompson/New York Times&rpar;](http://www.techmeme.com/250107/p46#a250107p46)
+ - [Microsoft is combining ‘the best of Xbox and Windows together’ for handhelds](https://www.theverge.com/2025/1/7/24338778/microsoft-xbox-handheld-pc-gaming)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
