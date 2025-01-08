@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: TSMC&#39;s Arizona plant is now producing Systems-in-Package for the Apple Watch, in addition to the A16 processor for iPhones &lpar;Tim Culpan/Culpium,&rpar;](http://www.techmeme.com/250108/p26#a250108p26)
- - [Google says Nest hubs, Chromecasts, Google TV devices on Android 14, and more can now control Matter devices locally, and opens its Home APIs to all developers &lpar;Jennifer Pattison Tuohy/The Verge&rpar;](http://www.techmeme.com/250108/p25#a250108p25)
- - [TSMC&#39;s Arizona plant starts making a second Apple chip](https://appleinsider.com/articles/25/01/08/tsmcs-arizona-plant-starts-making-a-second-apple-chip?utm_medium=rss)<!-- TECH:END -->
+ - [Omi is another AI companion wearable — but this one’s trying to read your mind](https://www.theverge.com/2025/1/8/24338750/omi-ai-wearable-friend-companion)
+ - [Foxconn wants a bigger cut of India&#39;s production incentive subsidies](https://appleinsider.com/articles/25/01/08/foxconn-wants-a-bigger-cut-of-indias-production-incentive-subsidies?utm_medium=rss)
+ - [You can get a $50 credit when you preorder the next Samsung Galaxy devices](https://www.theverge.com/2025/1/8/24339000/samsung-unpacked-2025-galaxy-s25-plus-ultra-pre-order-credit-deal)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
