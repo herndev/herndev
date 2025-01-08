@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [All Kell&#39;s Fall organ puzzle codes in Destiny 2](https://www.pcgamer.com/games/fps/destiny-2-organ-puzzle-melody-codes/)
- - [&#39;It&#39;s simply impossible to make a difficulty level that&#39;s just right for all players&#39;: How Final Fantasy 14&#39;s lead battle designer has been playing a precarious balancing game for Dawntrail&#39;s dungeons and raids](https://www.pcgamer.com/games/final-fantasy/its-simply-impossible-to-make-a-difficulty-level-thats-just-right-for-all-players-how-final-fantasy-14s-lead-battle-designer-has-been-playing-a-precarious-balancing-game-for-dawntrails-dungeons-and-raids/)
- - [The RTX 5090 might make triple-fan cards look light on cooling if these four-fan and five-fan versions from Gigabyte and MSI are anything to go by](https://www.pcgamer.com/hardware/graphics-cards/the-rtx-5090-might-make-triple-fan-cards-look-light-on-cooling-if-these-four-fan-and-five-fan-versions-from-gigabyte-and-msi-are-anything-to-go-by/)<!-- GAME:END -->
+ - [Microsoft Is Racing To Bring The Xbox Experience To PC Gaming Handhelds](https://kotaku.com/handheld-xbox-microsoft-pc-console-1851734989)
+ - [Final Fantasy 14 data sleuth gathers more info on the game&#39;s script, finds Alphinaud is the king of yappers—though Wuk Lamat&#39;s in the top 3 after just 1 expansion](https://www.pcgamer.com/games/final-fantasy/final-fantasy-14-data-sleuth-gathers-more-info-on-the-games-script-finds-alphinaud-is-the-king-of-yappers-though-wuk-lamats-in-the-top-3-after-just-1-expansion/)
+ - [Mythic Quest season 4 is getting called before Congress](https://www.polygon.com/tv/505237/mythic-quest-season-4-trailer-release-date-side)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
