@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Private Division&#39;s &#39;games and franchises,&#39; including Kerbal Space Program, are reportedly being taken over by former Annapurna Interactive employees](https://www.pcgamer.com/gaming-industry/private-divisions-games-and-franchises-including-kerbal-space-program-are-reportedly-being-taken-over-by-former-annapurna-interactive-employees/)
- - [Competitive shooters are at a crucial crossroads in 2025: &#39;sweaty&#39; teamplay vs. casual fun](https://www.pcgamer.com/games/fps/competitive-shooters-are-at-a-crucial-crossroads-in-2025-sweaty-teamplay-vs-casual-fun/)
- - [The writer of Happy Death Day is giving Valentine’s Day the slasher it deserves](https://www.polygon.com/horror/505035/heart-eyes-trailer-release-date-valentines-day-horror-movie)<!-- GAME:END -->
+ - [The ROG Zephyrus G14 is calling to me even more now it has an RTX 5080 stuffed inside it](https://www.pcgamer.com/hardware/gaming-laptops/the-rog-zephyrus-g14-is-calling-to-me-even-more-now-it-has-an-rtx-5080-stuffed-inside-it/)
+ - [Guest stars like Mercer, Mulligan, and Iyengar aren&amp;#8217;t even the best part of Godkiller: Balance](https://www.polygon.com/actual-play/505232/godkiller-balance-blackwaterdnd-matt-mercer-brennan-mulligan-aabriya-iyengar)
+ - [Private Division&#39;s &#39;games and franchises,&#39; including Kerbal Space Program, are reportedly being taken over by former Annapurna Interactive employees](https://www.pcgamer.com/gaming-industry/private-divisions-games-and-franchises-including-kerbal-space-program-are-reportedly-being-taken-over-by-former-annapurna-interactive-employees/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
