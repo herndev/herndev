@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [A building being demolished from the bodttom-up.](http://9gag.com/gag/an7z2j5)
- - ⏩ [Wholesome and rare behavior but lady was reaching for pepper spray](http://9gag.com/gag/a1mPNbR)
- - 👉 [Alison Lohman behind the scenes of \u201cDrag Me to Hell\u201d &lpar;2009&rpar;.](http://9gag.com/gag/aQzEQZq)<!-- MEMES:END -->
+ - 💣 [For the boys](http://9gag.com/gag/ae9QO1p)
+ - ⏩ [Best cartoons of my adulthood](http://9gag.com/gag/aqyex1L)
+ - 👉 [She laughs in crow too.](http://9gag.com/gag/a34Z0br)<!-- MEMES:END -->
 
 ---
 
