@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [AGDQ’s best moments happen when you least expect them](https://www.theverge.com/2025/1/8/24339206/agdq-2025-batman-forever-the-arcade-game)
- - [Google just made Quick Share even better with QR code sharing](https://www.androidauthority.com/quick-share-qr-codes-3514702/)
- - [Google Photos wants to streamline how you select your favorite faces &lpar;APK teardown&rpar;](https://www.androidauthority.com/photos-memories-show-more-3514639/)<!-- TECH:END -->
+ - [Gboard is finally letting you undo and redo your edits](https://www.androidauthority.com/gboard-undo-button-3514738/)
+ - [Apple appears to be working on an all-new Invites app for meetings and events](https://appleinsider.com/articles/25/01/08/apple-appears-to-be-working-on-an-all-new-invites-app-for-meetings-and-events?utm_medium=rss)
+ - [Google rolls out Daily Listen, which uses AI to generate a 5-minute personalized audio overview of stories and topics that a user follows, on its mobile app &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/250108/p37#a250108p37)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
