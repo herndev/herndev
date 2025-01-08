@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The ROG Zephyrus G14 is calling to me even more now it has an RTX 5080 stuffed inside it](https://www.pcgamer.com/hardware/gaming-laptops/the-rog-zephyrus-g14-is-calling-to-me-even-more-now-it-has-an-rtx-5080-stuffed-inside-it/)
- - [Guest stars like Mercer, Mulligan, and Iyengar aren&amp;#8217;t even the best part of Godkiller: Balance](https://www.polygon.com/actual-play/505232/godkiller-balance-blackwaterdnd-matt-mercer-brennan-mulligan-aabriya-iyengar)
- - [Private Division&#39;s &#39;games and franchises,&#39; including Kerbal Space Program, are reportedly being taken over by former Annapurna Interactive employees](https://www.pcgamer.com/gaming-industry/private-divisions-games-and-franchises-including-kerbal-space-program-are-reportedly-being-taken-over-by-former-annapurna-interactive-employees/)<!-- GAME:END -->
+ - [The RTX 5090 Founders Edition might be svelte but the Asus ROG Astral cards are absolute chonkers](https://www.pcgamer.com/hardware/the-rtx-5090-founders-edition-might-be-svelte-but-the-asus-rog-astral-cards-are-absolute-chonkers/)
+ - [Eight years after arriving on Steam, VRChat just hit a new peak concurrent player count](https://www.pcgamer.com/games/vr/eight-years-after-arriving-on-steam-vrchat-just-hit-a-new-peak-concurrent-player-count/)
+ - [Shiren the Wanderer: The Mystery Dungeon of Serpentcoil Island review](https://www.pcgamer.com/games/roguelike/shiren-the-wanderer-the-mystery-dungeon-of-serpentcoil-island-review/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
