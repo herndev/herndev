@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google and MediaTek reveal new chip, but it’s not for a future Pixel](https://www.androidauthority.com/google-mediatek-chipset-3512566/)
  - [Microsoft plans to supercharge Windows handhelds with the Xbox experience](https://www.androidauthority.com/microsoft-windows-handhelds-xbox-experience-3514223/)
- - [How to automate iPhone reboots to improve performance &amp; security](https://appleinsider.com/inside/iphone/tips/how-to-automate-iphone-reboots-to-improve-performance-security?utm_medium=rss)
- - [The US NLRB says Google is a &quot;joint employer&quot; of ~50 Accenture Flex workers who joined the Alphabet Workers Union in 2023 and must bargain with their union &lpar;Daniel Wiessner/Reuters&rpar;](http://www.techmeme.com/250107/p49#a250107p49)<!-- TECH:END -->
+ - [How to automate iPhone reboots to improve performance &amp; security](https://appleinsider.com/inside/iphone/tips/how-to-automate-iphone-reboots-to-improve-performance-security?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
