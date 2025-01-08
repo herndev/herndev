@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Swedish friends, is that true?](http://9gag.com/gag/ae9Qmqj)
- - ⏩ [Instert What the hell happened here meme ..here](http://9gag.com/gag/aAy02oL)
- - 👉 [Fisherman struck by lightning twice](http://9gag.com/gag/a6Zq5r2)<!-- MEMES:END -->
+ - 💣 [The perfect flip](http://9gag.com/gag/aBydGvZ)
+ - ⏩ [Boomer game.](http://9gag.com/gag/awyZdXR)
+ - 👉 [Cap?](http://9gag.com/gag/amoAMQX)<!-- MEMES:END -->
 
 ---
 
