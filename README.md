@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Your Next AI Wearable Will Listen to Everything All the Time](https://www.wired.com/story/bee-ai-omi-always-listening-ai-wearables/)
- - [Satechi SM3 Slim Mechanical Backlit Bluetooth Keyboard arrives with a full layout](https://appleinsider.com/articles/25/01/08/satechi-sm3-slim-mechanical-backlit-bluetooth-keyboard-arrives-with-a-full-layout?utm_medium=rss)
- - [Apple signs lease for even more office space in Seattle](https://appleinsider.com/articles/25/01/08/apple-signs-lease-for-even-more-office-space-in-seattle?utm_medium=rss)<!-- TECH:END -->
+ - [Samsung to offer ‘subscription’ service for Galaxy phones, but it’s not what you think](https://www.androidauthority.com/galaxy-ai-subscription-club-3514583/)
+ - [The OnePlus 13 is already on sale with a free storage upgrade and a smartwatch](https://www.theverge.com/2025/1/8/24338635/oneplus-13-bose-soundlink-flex-bluetooth-speaker-deal-sale)
+ - [Mastodon CEO Eugen Rochko says Meta&#39;s moderation changes are &quot;deeply troubling&quot;, and Mastodon will take action on Threads accounts violating Mastodon&#39;s policies &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/250108/p34#a250108p34)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
