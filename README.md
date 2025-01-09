@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Former Overwatch pro pleads with Marvel Rivals players to let him ‘move on’ from that C9 meme](https://www.polygon.com/news/505659/marvel-rivals-c9-liquid-mendo-esports-meme)
  - [Nvidia CEO Jensen Huang joins the rush to kiss Trump&#39;s ring: &#39;I&#39;d be delighted to go see him and congratulate him&#39;](https://www.pcgamer.com/gaming-industry/nvidia-ceo-jensen-huang-joins-the-rush-to-kiss-trumps-ring-id-be-delighted-to-go-see-him-and-congratulate-him/)
- - [Galaxy Burger is like Diner Dash for stressed-out adults](https://www.polygon.com/gaming/505679/galaxy-burger-chill-cooking-sim)
- - [Discoveries](https://www.polygon.com/gaming/24215620/new-things-to-play-watch-and-experience)<!-- GAME:END -->
+ - [Galaxy Burger is like Diner Dash for stressed-out adults](https://www.polygon.com/gaming/505679/galaxy-burger-chill-cooking-sim)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
