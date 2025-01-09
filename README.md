@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [This is our best look yet at the Nintendo Switch 2](https://www.androidauthority.com/nintendo-switch-2-clean-render-leak-3514957/)
- - [Taiwan&#39;s National Security Bureau says daily average cyberattacks on government departments doubled in 2024 vs. 2023 to 2.4M, mostly from Chinese cyber forces &lpar;Yimou Lee/Reuters&rpar;](http://www.techmeme.com/250109/p9#a250109p9)
- - [Apple’s next iOS app could make inviting people to circle back and touch grass easier](https://www.androidauthority.com/apple-invites-app-ios-rumor-3514929/)<!-- TECH:END -->
+ - [10 of the coolest tech products at CES 2025](https://www.androidauthority.com/10-of-the-coolest-tech-products-at-ces-2025-3514764/)
+ - [The Fanciful, Mechanical, Monumental Spectacle of CES 2025](https://www.wired.com/story/ces-2025-photo-gallery-day-4/)
+ - [This Capacious Power Bank, Now Just $56 at Amazon, Can Charge 3 Devices at Once](https://www.cnet.com/deals/this-capacious-power-bank-now-just-56-at-amazon-can-charge-3-devices-at-once/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
