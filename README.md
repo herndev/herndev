@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Bluey is getting some Lego sets](https://www.polygon.com/toys/505974/bluey-lego)
- - [Today&#39;s Wordle answer for Thursday, January 9](https://www.pcgamer.com/games/puzzle/wordle-answer-today-january-9-2025/)
- - [The Asus ROG Strix Scar 18 now looks like a dazzler of a gaming laptop, even if it&#39;s still a bit of a paving slab](https://www.pcgamer.com/hardware/gaming-laptops/the-asus-rog-strix-scar-18-now-looks-like-a-dazzler-of-a-gaming-laptop-even-if-its-still-a-bit-of-a-paving-slab/)<!-- GAME:END -->
+ - [Tomb Raider: series retrospective](https://blog.playstation.com/2025/01/09/tomb-raider-series-retrospective/)
+ - [You&#39;ve heard of a CPU cooler screen, but have you heard of a *curved* CPU cooler screen? Apparently it has &#39;unmatched performance and visual appeal&#39;](https://www.pcgamer.com/hardware/cooling/youve-heard-of-a-cpu-cooler-screen-but-have-you-heard-of-a-curved-cpu-cooler-screen-apparently-it-has-unmatched-performance-and-visual-appeal/)
+ - [Nvidia seems to have just confirmed upcoming Arm and Blackwell laptop chips based on its new GB10 processor in collaboration with MediaTek](https://www.pcgamer.com/hardware/processors/nvidia-seems-to-have-just-confirmed-upcoming-arm-and-blackwell-laptop-chips-based-on-its-new-gb10-processor-in-collaboration-with-mediatek/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
