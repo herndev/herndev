@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Wow how is that possible.](http://9gag.com/gag/awyZ4oy)
- - ⏩ [Grapes.](http://9gag.com/gag/aVvbL6v)
- - 👉 [Typical UK nowadays , some far right woman stops typical uk citizen from bringing home a girl.](http://9gag.com/gag/abAvRyB)<!-- MEMES:END -->
+ - 💣 [This COP is legend](http://9gag.com/gag/ae9QR05)
+ - ⏩ [She&#39;s a trooper. Didn&#39;t even take a knee. Get that for me, would you, deary?](http://9gag.com/gag/aO8xp3v)
+ - 👉 [Lady liberty won&#39;t betray you](http://9gag.com/gag/aNDw4X3)<!-- MEMES:END -->
 
 ---
 
