@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Dublin-based Xocean, which provides ocean data to the energy and hydrography industries using uncrewed surface vessels, raised &amp;euro;115M &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/250109/p15#a250109p15)
- - [Best Organic Mattress &amp; Bedding of 2025: Nontoxic, Natural Sleep](https://www.wired.com/story/best-organic-mattresses/)
- - [Apple says it has never used Siri data to build marketing profiles and never sold it for advertising or other purposes, after paying $95M to settle a lawsuit &lpar;Richard Lawler/The Verge&rpar;](http://www.techmeme.com/250109/p14#a250109p14)<!-- TECH:END -->
+ - [Google donates $1M to Trump&#39;s inauguration, says the donation, a YouTube livestream, and a home page link to the event are in line with previous inaugurations &lpar;Ashley Capoot/CNBC&rpar;](http://www.techmeme.com/250109/p18#a250109p18)
+ - [Apple Silicon&#39;s success helped AMD make Ryzen AI Max chips](https://appleinsider.com/articles/25/01/09/apple-silicons-success-helped-amd-make-ryzen-ai-max-chips?utm_medium=rss)
+ - [Analysis: Elon Musk&#39;s UK obsession is driven by a few X accounts; an ex-Twitter exec says Musk may be the first tech leader to be radicalized by his own product &lpar;Financial Times&rpar;](http://www.techmeme.com/250109/p17#a250109p17)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
