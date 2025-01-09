@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Return to the land of Ooo with a new Adventure Time comic series](https://www.polygon.com/comics/506380/new-adventure-time-comics-april-2025)
- - [Master of Orion tabletop game to launch crowdfunding campaign next week](https://www.polygon.com/tabletop-games/506486/master-of-orion-ad-astra-archon-studio-tabletop-crowdfund)
- - [Los Angeles-based Critical Role pauses streaming due to devastating wildfires](https://www.polygon.com/critical-role/506387/critical-role-fires-los-angeles-la-stream-paused)<!-- GAME:END -->
+ - [Elden Ring player refuses to let its toughest boss rest until Nightreign is out](https://www.polygon.com/elden-ring/506448/fromsoft-nightreign-messmer-no-hit-daily-challenge)
+ - [All Gas Station locations in Fortnite](https://www.polygon.com/fortnite-guide/506086/gas-station-locations-all-how-to-refuel)
+ - [Pick up the Nerf Needler for its lowest price ever](https://www.polygon.com/toys/506525/nerf-needler-halo-gun-toy-sale)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
