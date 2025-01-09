@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Nintendo Stays Completely Silent Amid Flood Of Switch 2 Leaks At GameStop And CES 2025](https://kotaku.com/switch-2-dock-joy-cons-rumors-leaks-ces-2025-1851735925)
- - [Epic gave a game away for free, then it blew up on Steam](https://www.polygon.com/gaming/505711/hell-let-loose-military-shooter-player-numbers-increase)
- - [Xbox&#39;s First Showcase Of 2025 Will Have Deep Dives Into Doom: The Dark Ages And More](https://kotaku.com/xbox-showcase-2025-dev-direct-doom-dark-ages-everwild-1851736019)<!-- GAME:END -->
+ - [Canceled Transformers Game Leaks And Actually Looks Really Cool](https://kotaku.com/transformers-reactivate-leak-footage-gameplay-canceled-1851736122)
+ - [18 games the PC Gamer team can&#39;t wait to play in 2025](https://www.pcgamer.com/games/18-games-the-pc-gamer-team-cant-wait-to-play-in-2025/)
+ - [Fans Rejoice As New Xenoblade Chronicles X Trailer Shows Off Much Needed UI Glow-Up](https://kotaku.com/xenoblade-chronicles-x-switch-trailer-ui-dlc-1851736084)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
