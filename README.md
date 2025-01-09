@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best instant cameras you can buy right now](https://www.theverge.com/23133103/best-instant-cameras-fujifilm-polaroid-kodak)
- - [Hippocratic AI, which is building an LLM for health care, raised a $141M Series B, valuing the company at $1.64B, and launches a health care AI agent app store &lpar;Heather Landi/Fierce Healthcare&rpar;](http://www.techmeme.com/250109/p28#a250109p28)
- - [We Love These Ground-Breaking EV Solutions at CES 2025](https://www.cnet.com/roadshow/news/we-love-these-ground-breaking-ev-solutions-at-ces-2025/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [NYC-based Captions, an AI-powered video editing app, introduces a free tier with basic video editing tools, while keeping AI features in the $10/month Pro tier &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/250109/p29#a250109p29)
+ - [X launches Grok’s iPhone app in the US](https://www.theverge.com/2025/1/9/24340129/grok-iphone-ios-app-us-launch)
+ - [You can finally buy a Thunderbolt 5 SSD](https://www.theverge.com/2025/1/9/24339973/thunderbolt-5-seagate-lacie-rugged-ssd-pro5-sabrent-owc)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
