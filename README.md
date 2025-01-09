@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The perfect flip](http://9gag.com/gag/aBydGvZ)
- - ⏩ [Cap?](http://9gag.com/gag/amoAMQX)
- - 👉 [Boomer game.](http://9gag.com/gag/awyZdXR)<!-- MEMES:END -->
+ - 💣 [Nvidia came close to matching my prediction 2 years ago](http://9gag.com/gag/a87qDw6)
+ - ⏩ [Contemplating](http://9gag.com/gag/avyQRKd)
+ - 👉 [Guy in his million-dollar LA mansion would rather film the wildfire than flee](http://9gag.com/gag/a87q2De)<!-- MEMES:END -->
 
 ---
 
