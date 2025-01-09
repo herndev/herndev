@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Hi Georgie](http://9gag.com/gag/a1mPE3G)
- - ⏩ [The Malibu waterfront, one of the most expensive properties in the United States, has largely disappeared.](http://9gag.com/gag/awyZeBr)
- - 👉 [Thought it might be appreciated here.](http://9gag.com/gag/awyZeMB)<!-- MEMES:END -->
+ - 💣 [Typical UK nowadays , some far right woman stops typical uk citizen from bringing home a girl.](http://9gag.com/gag/abAvRyB)
+ - ⏩ [Grapes.](http://9gag.com/gag/aVvbL6v)
+ - 👉 [The Malibu waterfront, one of the most expensive properties in the United States, has largely disappeared.](http://9gag.com/gag/awyZeBr)<!-- MEMES:END -->
 
 ---
 
