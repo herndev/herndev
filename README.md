@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon is selling the tech behind its $50 billion ad business to other retailers](https://www.theverge.com/2025/1/9/24339933/amazon-retail-media-advertising)
- - [Google Calendar may tweak UI to simplify juggling multiple calendars &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-calendar-multiple-calendars-3515114/)
- - [Best Samsung Galaxy Z Fold 6 Deals: Knock $1,000 Off This Excellent Foldable Phone](https://www.cnet.com/deals/best-samsung-galaxy-z-fold-6-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The Los Angeles Fires Will Put California’s New Insurance Rules to the Test](https://www.wired.com/story/the-los-angeles-fires-will-put-californias-new-insurance-rules-to-the-test/)
+ - [The best fitness trackers to buy right now](https://www.theverge.com/22985108/best-fitness-tracker)
+ - [Google and Microsoft donate $1 million apiece to Trump’s inauguration](https://www.theverge.com/2025/1/9/24340039/google-microsoft-trump-inauguration-donation)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
