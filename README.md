@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [US dockworkers and shipping industry officials reach a tentative labor agreement, overcoming differences over the introduction of automated machinery at ports &lpar;Peter Eavis/New York Times&rpar;](http://www.techmeme.com/250108/p42#a250108p42)
- - [Sources: SoftBank and its majority-owned Arm are weighing acquiring Oracle-backed Ampere, which designs ARM-based server CPUs; Ampere is exploring its options &lpar;Bloomberg&rpar;](http://www.techmeme.com/250108/p41#a250108p41)
- - [Microsoft is reverting to an older DALL-E 3 model version for Bing Image Creator, after the latest version, codenamed PR16, got many complaints on X and Reddit &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250108/p40#a250108p40)<!-- TECH:END -->
+ - [Analysts say that contract negotiations between US dockworkers and the shipping industry over automation could help provide a template for agreements nationwide &lpar;Taylor Nicole Rogers/Financial Times&rpar;](http://www.techmeme.com/250108/p43#a250108p43)
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Jan. 9, #108](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-jan-9-108/#ftag=CAD590a51e)
+ - [US dockworkers and shipping industry officials reach a tentative labor agreement, overcoming differences over the introduction of automated machinery at ports &lpar;Peter Eavis/New York Times&rpar;](http://www.techmeme.com/250108/p42#a250108p42)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
