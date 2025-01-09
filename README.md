@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Hi Georgie](http://9gag.com/gag/a1mPE3G)
- - ⏩ [How many drinks have you had?](http://9gag.com/gag/aPAgr4g)
- - 👉 [Thought it might be appreciated here.](http://9gag.com/gag/awyZeMB)<!-- MEMES:END -->
+ - 💣 [Wow how is that possible.](http://9gag.com/gag/awyZ4oy)
+ - ⏩ [Grapes.](http://9gag.com/gag/aVvbL6v)
+ - 👉 [Typical UK nowadays , some far right woman stops typical uk citizen from bringing home a girl.](http://9gag.com/gag/abAvRyB)<!-- MEMES:END -->
 
 ---
 
