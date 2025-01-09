@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Developer_Direct Returns on January 23 – A Celebration of What’s Coming for Xbox Players](https://news.xbox.com/en-us/2025/01/09/xbox-developer-direct-2025/)
- - [After 15 years, Minecraft has finally added two new pig variations: The warm pig and the cold pig, meaning I can delete one mod off my list](https://www.pcgamer.com/games/survival-crafting/after-15-years-minecraft-has-finally-added-two-new-pig-variations-the-warm-pig-and-the-cold-pig-meaning-i-can-delete-one-mod-off-my-list/)
- - [Tomb Raider: series retrospective](https://blog.playstation.com/2025/01/09/tomb-raider-series-retrospective/)<!-- GAME:END -->
+ - [Nintendo Stays Completely Silent Amid Flood Of Switch 2 Leaks At GameStop And CES 2025](https://kotaku.com/switch-2-dock-joy-cons-rumors-leaks-ces-2025-1851735925)
+ - [Epic gave a game away for free, then it blew up on Steam](https://www.polygon.com/gaming/505711/hell-let-loose-military-shooter-player-numbers-increase)
+ - [Xbox&#39;s First Showcase Of 2025 Will Have Deep Dives Into Doom: The Dark Ages And More](https://kotaku.com/xbox-showcase-2025-dev-direct-doom-dark-ages-everwild-1851736019)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
