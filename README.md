@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Frank McCourt&#39;s Project Liberty says it made a formal bid to ByteDance to buy TikTok&#39;s US assets and keep the app alive without its current algorithm &lpar;Jaiveer Singh Shekhawat/Reuters&rpar;](http://www.techmeme.com/250109/p21#a250109p21)
- - [Israeli cybersecurity startup Wiz names veteran exec Fazal Merchant as president and CFO to prepare for a US IPO; sources: Wiz has annual revenues of ~$500M &lpar;Steven Scheer/Reuters&rpar;](http://www.techmeme.com/250109/p20#a250109p20)
- - [MAGA Is Blaming DEI for the California Wildfires](https://www.wired.com/story/maga-blaming-dei-california-wildfires-conspiracy/)<!-- TECH:END -->
+ - [How Microsoft can turn Windows PCs into an Xbox](https://www.theverge.com/2025/1/9/24339889/microsoft-xbox-handheld-windows-operating-system-changes-notepad)
+ - [You’ll finally be able to buy the Super Retro Champ that plays SNES and Genesis carts](https://www.theverge.com/2025/1/9/24334903/my-arcade-super-retrochamp-handheld-gaming-retro-sega-nintendo-cartridges)
+ - [T-Mobile is being sued by Washington state for downplaying the severity of 2021’s breach](https://www.androidauthority.com/t-mobile-washington-lawsuit-3515085/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
