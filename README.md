@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Old meets new as classic MMO players worship a famous Vtuber via gifts of bones so she can max out the Prayer skill](https://www.pcgamer.com/games/mmo/old-meets-new-as-classic-mmo-players-worship-a-famous-vtuber-via-gifts-of-bones-so-she-can-max-out-the-prayer-stat/)
- - [Nintendo&#39;s Releasing A Game Boy Made Of Lego](https://kotaku.com/lego-game-boy-price-release-date-tetris-nintendo-1851736436)
- - [Riot Games offices closed to all but &amp;#8216;critical functions&amp;#8217; during deadly LA fires](https://www.polygon.com/news/506288/la-fires-league-riot-games-offices-closed)<!-- GAME:END -->
+ - [Return to the land of Ooo with a new Adventure Time comic series](https://www.polygon.com/comics/506380/new-adventure-time-comics-april-2025)
+ - [Master of Orion tabletop game to launch crowdfunding campaign next week](https://www.polygon.com/tabletop-games/506486/master-of-orion-ad-astra-archon-studio-tabletop-crowdfund)
+ - [Los Angeles-based Critical Role pauses streaming due to devastating wildfires](https://www.polygon.com/critical-role/506387/critical-role-fires-los-angeles-la-stream-paused)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
