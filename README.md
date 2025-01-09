@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle answer for Thursday, January 9](https://www.pcgamer.com/games/puzzle/wordle-answer-today-january-9-2025/)
  - [The Asus ROG Strix Scar 18 now looks like a dazzler of a gaming laptop, even if it&#39;s still a bit of a paving slab](https://www.pcgamer.com/hardware/gaming-laptops/the-asus-rog-strix-scar-18-now-looks-like-a-dazzler-of-a-gaming-laptop-even-if-its-still-a-bit-of-a-paving-slab/)
- - [The Witcher 3&#39;s now 2-year-old bonus quest is our first taste of the &#39;vibe&#39; CD Projekt is going for in The Witcher 4](https://www.pcgamer.com/games/rpg/the-witcher-3s-now-2-year-old-bonus-quest-is-our-first-taste-of-the-vibe-cd-projekt-is-going-for-in-the-witcher-4/)
- - [Mythic Quest Season 4 trailer wrestles with Roblox, AI, and the US Congress](https://www.pcgamer.com/movies-tv/mythic-quest-season-4-trailer-wrestles-with-roblox-ai-and-the-us-congress/)<!-- GAME:END -->
+ - [The Witcher 3&#39;s now 2-year-old bonus quest is our first taste of the &#39;vibe&#39; CD Projekt is going for in The Witcher 4](https://www.pcgamer.com/games/rpg/the-witcher-3s-now-2-year-old-bonus-quest-is-our-first-taste-of-the-vibe-cd-projekt-is-going-for-in-the-witcher-4/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
