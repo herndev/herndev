@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Privacy nightmare FaceApp causes Apple &amp; Google to be fined in Brazil](https://appleinsider.com/articles/25/01/09/privacy-nightmare-faceapp-causes-apple-google-to-be-fined-in-brazil?utm_medium=rss)
- - [Japan says Chinese hacking group MirrorFace is linked to 200+ cyberattacks from 2019 to 2024 targeting the country&#39;s national security and advanced tech data &lpar;Mari Yamaguchi/Associated Press&rpar;](http://www.techmeme.com/250108/p39#a250108p39)
- - [This Isn&#39;t Your Typical Car HUD: Checking Out Hyundai Mobis Holographic Windshield Display video](https://www.cnet.com/roadshow/videos/this-isnt-your-typical-car-hud-checking-out-hyundai-mobis-holographic-windshield-display/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Here are the best Apple Watch deals right now](https://www.theverge.com/21289209/best-apple-watch-deals)
+ - [This robovac has an arm — and legs, too](https://www.theverge.com/2025/1/8/24338956/dreame-robot-vacuum-legs-arm-tools)
+ - [Privacy nightmare FaceApp causes Apple &amp; Google to be fined in Brazil](https://appleinsider.com/articles/25/01/09/privacy-nightmare-faceapp-causes-apple-google-to-be-fined-in-brazil?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
