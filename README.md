@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Women](http://9gag.com/gag/aGyEGWn)
- - ⏩ [Theresa Virtue and Scott Moir. Scott: `C - can&#39;t tell` ; marries someone else.](http://9gag.com/gag/a5QXqpo)
- - 👉 [Testing your mortality with totally sick wheelies.](http://9gag.com/gag/awyZY38)<!-- MEMES:END -->
+ - 💣 [How many drinks have you had?](http://9gag.com/gag/aPAgr4g)
+ - ⏩ [There are Three kinds of people](http://9gag.com/gag/a87qVWZ)
+ - 👉 [Hi Georgie](http://9gag.com/gag/a1mPE3G)<!-- MEMES:END -->
 
 ---
 
