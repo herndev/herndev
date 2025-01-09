@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Reminder](http://9gag.com/gag/a6Zqn59)
- - ⏩ [Wow how is that possible.](http://9gag.com/gag/awyZ4oy)
- - 👉 [Guy in his million-dollar LA mansion would rather film the wildfire than flee](http://9gag.com/gag/a87q2De)<!-- MEMES:END -->
+ - 💣 [What are you doing step police bro](http://9gag.com/gag/arymBDB)
+ - ⏩ [When you realize](http://9gag.com/gag/a87q0rp)
+ - 👉 [Driver tries to leave scene of accident](http://9gag.com/gag/aRBEzNy)<!-- MEMES:END -->
 
 ---
 
