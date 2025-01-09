@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Nvidia came close to matching my prediction 2 years ago](http://9gag.com/gag/a87qDw6)
- - ⏩ [Contemplating](http://9gag.com/gag/avyQRKd)
- - 👉 [Guy in his million-dollar LA mansion would rather film the wildfire than flee](http://9gag.com/gag/a87q2De)<!-- MEMES:END -->
+ - 💣 [Guy in his million-dollar LA mansion would rather film the wildfire than flee](http://9gag.com/gag/a87q2De)
+ - ⏩ [Indonesian version of UFC is little bit different](http://9gag.com/gag/aZZDEOQ)
+ - 👉 [What are you doing step police bro](http://9gag.com/gag/arymBDB)<!-- MEMES:END -->
 
 ---
 
