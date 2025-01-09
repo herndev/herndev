@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [No really, where are they?](http://9gag.com/gag/an7zxWB)
- - ⏩ [Killer&#39;s family curse at victim&#39;s family after he got sentenced for the crime](http://9gag.com/gag/ae9QxLQ)
- - 👉 [Guy in his million-dollar LA mansion would rather film the wildfire than flee](http://9gag.com/gag/a87q2De)<!-- MEMES:END -->
+ - ⏩ [Too much mom\u2019s spaghetti.](http://9gag.com/gag/amoAmg6)
+ - 👉 [Welcome to the new era of gaming](http://9gag.com/gag/aMVEzYX)<!-- MEMES:END -->
 
 ---
 
