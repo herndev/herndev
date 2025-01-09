@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung’s upcoming Pixel 8a rival leaks big time, could launch soon after Galaxy S25](https://www.androidauthority.com/samsung-galaxy-a56-official-certification-3514885/)
- - [Say Goodbye to Melatonin and Hello to Magnesium. Here Are the Best Types of Magnesium for Sleep](https://www.cnet.com/health/sleep/best-magnesium-for-sleep/#ftag=CAD590a51e)
- - [How wartime GPS jamming has negatively impacted agriculture in Israel; in 2021, ~70% of Israeli farmers used GPS-guided equipment and precision-farming tech &lpar;Marissa Newman/Bloomberg&rpar;](http://www.techmeme.com/250109/p6#a250109p6)<!-- TECH:END -->
+ - [A new English-language Polish film about Vladimir Putin, in which AI is used to superimpose his real face onto an actor, sparks a debate about use of AI &lpar;Alicja Ptak/Notes From Poland&rpar;](http://www.techmeme.com/250109/p7#a250109p7)
+ - [Homeowners Face Higher Refi Rates: Current Refinance Rates on Jan. 9, 2025](https://www.cnet.com/personal-finance/mortgages/homeowners-face-higher-refi-rates-current-refinance-rates-on-jan-9-2025/#ftag=CAD590a51e)
+ - [Not an early April fool: For just $1,500, this M4 iPad will Rickroll your family when you die](https://www.androidauthority.com/ipad-rickroll-when-you-die-3514876/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
