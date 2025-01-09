@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Gboard is finally letting you undo and redo your edits](https://www.androidauthority.com/gboard-undo-button-3514738/)
- - [Apple appears to be working on an all-new Invites app for meetings and events](https://appleinsider.com/articles/25/01/08/apple-appears-to-be-working-on-an-all-new-invites-app-for-meetings-and-events?utm_medium=rss)
- - [Google rolls out Daily Listen, which uses AI to generate a 5-minute personalized audio overview of stories and topics that a user follows, on its mobile app &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/250108/p37#a250108p37)<!-- TECH:END -->
+ - [Microsoft teases ‘major’ Surface business announcement for January 30th](https://www.theverge.com/2025/1/8/24339517/microsoft-surface-business-news-intel-lunar-lake-laptops-rumor)
+ - [Infinite Reality, which is building an engine for creating immersive web content, says it has raised $3B from an unnamed private investor at a $12.25B valuation &lpar;Ben Lang/Road to VR&rpar;](http://www.techmeme.com/250108/p38#a250108p38)
+ - [Gboard is finally letting you undo and redo your edits](https://www.androidauthority.com/gboard-undo-button-3514738/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
