@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Real Apple Pay](http://9gag.com/gag/aPAg8gQ)
- - ⏩ [Grapes.](http://9gag.com/gag/aVvbL6v)
- - 👉 [Theresa Virtue and Scott Moir. Scott: `C - can&#39;t tell` ; marries someone else.](http://9gag.com/gag/a5QXqpo)<!-- MEMES:END -->
+ - 💣 [His first $100,000 in stock investments turned out pretty well!](http://9gag.com/gag/a0e411X)
+ - ⏩ [Not same but same same](http://9gag.com/gag/axyoOqp)
+ - 👉 [Testing your mortality with totally sick wheelies.](http://9gag.com/gag/awyZY38)<!-- MEMES:END -->
 
 ---
 
