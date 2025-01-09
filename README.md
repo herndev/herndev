@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Istanbul-based gaming startup Grand Games, maker of Magic Sort and Car Match, raised a $30M Series A led by Balderton, after securing a $3M seed in 2024 &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/250109/p8#a250109p8)
- - [Score Up to 4.65% APY While You Still Can. Today&#39;s CD Rates, Jan. 9, 2025](https://www.cnet.com/personal-finance/banking/score-up-to-apy-while-you-still-can-todays-cd-rates-jan-9-2025/#ftag=CAD590a51e)
- - [Apple TV+ hits &#39;Slow Horses&#39; and &#39;Shrinking&#39; nominated for acting awards](https://appleinsider.com/articles/25/01/08/apple-tv-hits-slow-horses-and-shrinking-nominated-for-acting-awards?utm_medium=rss)<!-- TECH:END -->
+ - [This is our best look yet at the Nintendo Switch 2](https://www.androidauthority.com/nintendo-switch-2-clean-render-leak-3514957/)
+ - [Taiwan&#39;s National Security Bureau says daily average cyberattacks on government departments doubled in 2024 vs. 2023 to 2.4M, mostly from Chinese cyber forces &lpar;Yimou Lee/Reuters&rpar;](http://www.techmeme.com/250109/p9#a250109p9)
+ - [Apple’s next iOS app could make inviting people to circle back and touch grass easier](https://www.androidauthority.com/apple-invites-app-ios-rumor-3514929/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
