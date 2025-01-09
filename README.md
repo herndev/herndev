@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [10 of the coolest tech products at CES 2025](https://www.androidauthority.com/10-of-the-coolest-tech-products-at-ces-2025-3514764/)
- - [The Fanciful, Mechanical, Monumental Spectacle of CES 2025](https://www.wired.com/story/ces-2025-photo-gallery-day-4/)
- - [This Capacious Power Bank, Now Just $56 at Amazon, Can Charge 3 Devices at Once](https://www.cnet.com/deals/this-capacious-power-bank-now-just-56-at-amazon-can-charge-3-devices-at-once/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Dublin-based Xocean, which provides ocean data to the energy and hydrography industries using uncrewed surface vessels, raised &amp;euro;115M &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/250109/p15#a250109p15)
+ - [Best Organic Mattress &amp; Bedding of 2025: Nontoxic, Natural Sleep](https://www.wired.com/story/best-organic-mattresses/)
+ - [Apple says it has never used Siri data to build marketing profiles and never sold it for advertising or other purposes, after paying $95M to settle a lawsuit &lpar;Richard Lawler/The Verge&rpar;](http://www.techmeme.com/250109/p14#a250109p14)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
