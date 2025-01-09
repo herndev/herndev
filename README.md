@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Hyper Light Breaker will cost $30 and for a limited time come with a free copy of Drifter](https://www.pcgamer.com/games/roguelike/hyper-light-breaker-will-cost-usd30-and-for-a-limited-time-come-with-a-free-copy-of-drifter/)
- - [How To Set Up Your PS Portal For The Perfect On-The-Go Gaming Experience](https://kotaku.com/ps-portal-ps5-setup-remote-play-internet-connection-1851735733)
- - [Fallout season 2 filming delayed due to massive LA fires](https://www.pcgamer.com/movies-tv/fallout-season-2-filming-delayed-due-to-massive-la-fires/)<!-- GAME:END -->
+ - [Old meets new as classic MMO players worship a famous Vtuber via gifts of bones so she can max out the Prayer skill](https://www.pcgamer.com/games/mmo/old-meets-new-as-classic-mmo-players-worship-a-famous-vtuber-via-gifts-of-bones-so-she-can-max-out-the-prayer-stat/)
+ - [Nintendo&#39;s Releasing A Game Boy Made Of Lego](https://kotaku.com/lego-game-boy-price-release-date-tetris-nintendo-1851736436)
+ - [Riot Games offices closed to all but &amp;#8216;critical functions&amp;#8217; during deadly LA fires](https://www.polygon.com/news/506288/la-fires-league-riot-games-offices-closed)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
