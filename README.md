@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Elden Ring player refuses to let its toughest boss rest until Nightreign is out](https://www.polygon.com/elden-ring/506448/fromsoft-nightreign-messmer-no-hit-daily-challenge)
- - [All Gas Station locations in Fortnite](https://www.polygon.com/fortnite-guide/506086/gas-station-locations-all-how-to-refuel)
- - [Pick up the Nerf Needler for its lowest price ever](https://www.polygon.com/toys/506525/nerf-needler-halo-gun-toy-sale)<!-- GAME:END -->
+ - [Amazon Has 16 More Free Games To Add To Your Massive Backlog](https://kotaku.com/amazon-prime-gaming-free-pc-steam-games-january-2025-1851736481)
+ - [Discoveries](https://www.polygon.com/gaming/24215620/new-things-to-play-watch-and-experience)
+ - [Alan Emrich, the game designer and writer who coined the term &#39;4X,&#39; has died](https://www.pcgamer.com/games/strategy/alan-emrich-the-game-designer-and-writer-who-coined-the-term-4x-has-died/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
