@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Netflix&amp;#8217;s Sakamoto Days trailer features telepathic assassins, convenience shop owners, and a whole lotta bullets](https://www.polygon.com/trailer/506174/sakamoto-days-trailer-netflix-premiere-date-cast)
- - [Nintendo announces&amp;#8230; a Lego Game Boy](https://www.polygon.com/nintendo/506156/nintendo-announces-new-console-lego-game-boy)
- - [How to get Pink Ribbon Eels in Infinity Nikki](https://www.polygon.com/infinity-nikki-guides/505388/pink-ribbon-eels-locations-how-to-get-rewards)<!-- GAME:END -->
+ - [Hyper Light Breaker will cost $30 and for a limited time come with a free copy of Drifter](https://www.pcgamer.com/games/roguelike/hyper-light-breaker-will-cost-usd30-and-for-a-limited-time-come-with-a-free-copy-of-drifter/)
+ - [How To Set Up Your PS Portal For The Perfect On-The-Go Gaming Experience](https://kotaku.com/ps-portal-ps5-setup-remote-play-internet-connection-1851735733)
+ - [Fallout season 2 filming delayed due to massive LA fires](https://www.pcgamer.com/movies-tv/fallout-season-2-filming-delayed-due-to-massive-la-fires/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
