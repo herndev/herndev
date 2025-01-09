@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [What are you doing step police bro](http://9gag.com/gag/arymBDB)
- - ⏩ [When you realize](http://9gag.com/gag/a87q0rp)
- - 👉 [Driver tries to leave scene of accident](http://9gag.com/gag/aRBEzNy)<!-- MEMES:END -->
+ - 💣 [Swedish friends, is that true?](http://9gag.com/gag/ae9Qmqj)
+ - ⏩ [Every restaurant should start doing this.](http://9gag.com/gag/azx2Z4Z)
+ - 👉 [Guy in his million-dollar LA mansion would rather film the wildfire than flee](http://9gag.com/gag/a87q2De)<!-- MEMES:END -->
 
 ---
 
