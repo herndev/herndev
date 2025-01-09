@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [No really, where are they?](http://9gag.com/gag/an7zxWB)
- - ⏩ [Too much mom\u2019s spaghetti.](http://9gag.com/gag/amoAmg6)
- - 👉 [Welcome to the new era of gaming](http://9gag.com/gag/aMVEzYX)<!-- MEMES:END -->
+ - 💣 [Unexpected turn of events](http://9gag.com/gag/a5QXjMV)
+ - ⏩ [Cap?](http://9gag.com/gag/amoAMQX)
+ - 👉 [The perfect flip](http://9gag.com/gag/aBydGvZ)<!-- MEMES:END -->
 
 ---
 
