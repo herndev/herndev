@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Canceled Transformers Game Leaks And Actually Looks Really Cool](https://kotaku.com/transformers-reactivate-leak-footage-gameplay-canceled-1851736122)
- - [18 games the PC Gamer team can&#39;t wait to play in 2025](https://www.pcgamer.com/games/18-games-the-pc-gamer-team-cant-wait-to-play-in-2025/)
- - [Fans Rejoice As New Xenoblade Chronicles X Trailer Shows Off Much Needed UI Glow-Up](https://kotaku.com/xenoblade-chronicles-x-switch-trailer-ui-dlc-1851736084)<!-- GAME:END -->
+ - [This bizarre roguelike has a new take on the Vampire Survivors formula: letting you build your own custom weapons out of brains, eyeballs, and chimpanzee spines](https://www.pcgamer.com/games/roguelike/this-bizarre-roguelike-has-a-new-take-on-the-vampire-survivors-formula-letting-you-build-your-own-custom-weapons-out-of-brains-eyeballs-and-chimpanzee-spines/)
+ - [Deus Ex: Mankind Divided Writer Reveals What They Took From Us](https://kotaku.com/deus-ex-3-mankind-divided-ending-writer-reveals-story-1851736203)
+ - [The Freewrite Wordrunner with a built-in word counter might be the keyboard to look out for if you want to improve your writing process](https://www.pcgamer.com/hardware/gaming-keyboards/the-freewrite-wordrunner-with-a-built-in-word-counter-might-be-the-keyboard-to-look-out-for-if-you-want-to-improve-your-writing-process/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
