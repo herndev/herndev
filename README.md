@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Unexpected turn of events](http://9gag.com/gag/a5QXjMV)
- - ⏩ [Cap?](http://9gag.com/gag/amoAMQX)
- - 👉 [The perfect flip](http://9gag.com/gag/aBydGvZ)<!-- MEMES:END -->
+ - 💣 [Nvidia came close to matching my prediction 2 years ago](http://9gag.com/gag/a87qDw6)
+ - ⏩ [First one](http://9gag.com/gag/aVvbV38)
+ - 👉 [Welcome to the new era of gaming](http://9gag.com/gag/aMVEzYX)<!-- MEMES:END -->
 
 ---
 
