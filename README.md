@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Blackstone invests $300M in DDN, which helps organizations store and analyze large amounts of data more efficiently for AI and HPC, at a $5B valuation &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250109/p3#a250109p3)
- - [Court filing: the US government got final approval in the Northern District of California to liquidate 69,370 BTC, worth $6.5B, seized in its Silk Road probe &lpar;Vince Dioquino/Decrypt&rpar;](http://www.techmeme.com/250109/p2#a250109p2)
- - [Today&#39;s NYT Mini Crossword Answers for Thursday, Jan. 9](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-thursday-jan-9/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [How wartime GPS jamming has negatively impacted agriculture in Israel; in 2021, ~70% of Israeli farmers used GPS-guided equipment and precision-farming tech &lpar;Marissa Newman/Bloomberg&rpar;](http://www.techmeme.com/250109/p6#a250109p6)
+ - [Google Messages takes a step towards secure messaging across apps and platforms &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-messages-prepares-mls-encryption-rcs-apk-teardown-3514829/)
+ - [Sephora Promo Codes and Deals: 50% Off](https://www.wired.com/story/sephora-promo-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
