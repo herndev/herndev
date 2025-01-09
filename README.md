@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Welcome to the new era of gaming](http://9gag.com/gag/aMVEzYX)
- - ⏩ [Swedish friends, is that true?](http://9gag.com/gag/ae9Qmqj)
- - 👉 [Too much mom\u2019s spaghetti.](http://9gag.com/gag/amoAmg6)<!-- MEMES:END -->
+ - 💣 [Too much mom\u2019s spaghetti.](http://9gag.com/gag/amoAmg6)
+ - ⏩ [Grapes.](http://9gag.com/gag/aVvbL6v)
+ - 👉 [Instert What the hell happened here meme ..here](http://9gag.com/gag/aAy02oL)<!-- MEMES:END -->
 
 ---
 
