@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This COP is legend](http://9gag.com/gag/ae9QR05)
- - ⏩ [She&#39;s a trooper. Didn&#39;t even take a knee. Get that for me, would you, deary?](http://9gag.com/gag/aO8xp3v)
- - 👉 [Lady liberty won&#39;t betray you](http://9gag.com/gag/aNDw4X3)<!-- MEMES:END -->
+ - 💣 [Hi Georgie](http://9gag.com/gag/a1mPE3G)
+ - ⏩ [The Malibu waterfront, one of the most expensive properties in the United States, has largely disappeared.](http://9gag.com/gag/awyZeBr)
+ - 👉 [Thought it might be appreciated here.](http://9gag.com/gag/awyZeMB)<!-- MEMES:END -->
 
 ---
 
