@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Tomb Raider: series retrospective](https://blog.playstation.com/2025/01/09/tomb-raider-series-retrospective/)
- - [You&#39;ve heard of a CPU cooler screen, but have you heard of a *curved* CPU cooler screen? Apparently it has &#39;unmatched performance and visual appeal&#39;](https://www.pcgamer.com/hardware/cooling/youve-heard-of-a-cpu-cooler-screen-but-have-you-heard-of-a-curved-cpu-cooler-screen-apparently-it-has-unmatched-performance-and-visual-appeal/)
- - [Nvidia seems to have just confirmed upcoming Arm and Blackwell laptop chips based on its new GB10 processor in collaboration with MediaTek](https://www.pcgamer.com/hardware/processors/nvidia-seems-to-have-just-confirmed-upcoming-arm-and-blackwell-laptop-chips-based-on-its-new-gb10-processor-in-collaboration-with-mediatek/)<!-- GAME:END -->
+ - [Developer_Direct Returns on January 23 – A Celebration of What’s Coming for Xbox Players](https://news.xbox.com/en-us/2025/01/09/xbox-developer-direct-2025/)
+ - [After 15 years, Minecraft has finally added two new pig variations: The warm pig and the cold pig, meaning I can delete one mod off my list](https://www.pcgamer.com/games/survival-crafting/after-15-years-minecraft-has-finally-added-two-new-pig-variations-the-warm-pig-and-the-cold-pig-meaning-i-can-delete-one-mod-off-my-list/)
+ - [Tomb Raider: series retrospective](https://blog.playstation.com/2025/01/09/tomb-raider-series-retrospective/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
