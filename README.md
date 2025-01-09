@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A new English-language Polish film about Vladimir Putin, in which AI is used to superimpose his real face onto an actor, sparks a debate about use of AI &lpar;Alicja Ptak/Notes From Poland&rpar;](http://www.techmeme.com/250109/p7#a250109p7)
- - [Homeowners Face Higher Refi Rates: Current Refinance Rates on Jan. 9, 2025](https://www.cnet.com/personal-finance/mortgages/homeowners-face-higher-refi-rates-current-refinance-rates-on-jan-9-2025/#ftag=CAD590a51e)
- - [Not an early April fool: For just $1,500, this M4 iPad will Rickroll your family when you die](https://www.androidauthority.com/ipad-rickroll-when-you-die-3514876/)<!-- TECH:END -->
+ - [Istanbul-based gaming startup Grand Games, maker of Magic Sort and Car Match, raised a $30M Series A led by Balderton, after securing a $3M seed in 2024 &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/250109/p8#a250109p8)
+ - [Score Up to 4.65% APY While You Still Can. Today&#39;s CD Rates, Jan. 9, 2025](https://www.cnet.com/personal-finance/banking/score-up-to-apy-while-you-still-can-todays-cd-rates-jan-9-2025/#ftag=CAD590a51e)
+ - [Apple TV+ hits &#39;Slow Horses&#39; and &#39;Shrinking&#39; nominated for acting awards](https://appleinsider.com/articles/25/01/08/apple-tv-hits-slow-horses-and-shrinking-nominated-for-acting-awards?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
