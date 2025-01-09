@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [His first $100,000 in stock investments turned out pretty well!](http://9gag.com/gag/a0e411X)
- - ⏩ [Not same but same same](http://9gag.com/gag/axyoOqp)
- - 👉 [Testing your mortality with totally sick wheelies.](http://9gag.com/gag/awyZY38)<!-- MEMES:END -->
+ - 💣 [Lady liberty won&#39;t betray you](http://9gag.com/gag/aNDw4X3)
+ - ⏩ [No really, where are they?](http://9gag.com/gag/an7zxWB)
+ - 👉 [Instert What the hell happened here meme ..here](http://9gag.com/gag/aAy02oL)<!-- MEMES:END -->
 
 ---
 
