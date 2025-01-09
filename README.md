@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Long after T-Mobile, Verizon and AT&amp;T may finally get nationwide 5G stand-alone support this year](https://www.androidauthority.com/verizon-and-att-5g-sa-3515155/)
- - [Roku users can watch &#39;Severance&#39; season 1 for free](https://appleinsider.com/articles/25/01/09/roku-users-can-watch-severance-season-1-for-free?utm_medium=rss)
- - [We tried to hold Acer’s giant new Nitro Blaze 11 handheld](https://www.theverge.com/2025/1/9/24339992/acer-nitro-blaze-11-gaming-handheld-steam-deck-size-comparison)<!-- TECH:END -->
+ - [The best instant cameras you can buy right now](https://www.theverge.com/23133103/best-instant-cameras-fujifilm-polaroid-kodak)
+ - [Hippocratic AI, which is building an LLM for health care, raised a $141M Series B, valuing the company at $1.64B, and launches a health care AI agent app store &lpar;Heather Landi/Fierce Healthcare&rpar;](http://www.techmeme.com/250109/p28#a250109p28)
+ - [We Love These Ground-Breaking EV Solutions at CES 2025](https://www.cnet.com/roadshow/news/we-love-these-ground-breaking-ev-solutions-at-ces-2025/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
