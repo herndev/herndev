@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Swedish friends, is that true?](http://9gag.com/gag/ae9Qmqj)
- - ⏩ [Every restaurant should start doing this.](http://9gag.com/gag/azx2Z4Z)
- - 👉 [Guy in his million-dollar LA mansion would rather film the wildfire than flee](http://9gag.com/gag/a87q2De)<!-- MEMES:END -->
+ - 💣 [The perfect flip](http://9gag.com/gag/aBydGvZ)
+ - ⏩ [Cap?](http://9gag.com/gag/amoAMQX)
+ - 👉 [Boomer game.](http://9gag.com/gag/awyZdXR)<!-- MEMES:END -->
 
 ---
 
