@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [What are you doing step police bro](http://9gag.com/gag/arymBDB)
- - ⏩ [His first $100,000 in stock investments turned out pretty well!](http://9gag.com/gag/a0e411X)
- - 👉 [When you realize](http://9gag.com/gag/a87q0rp)<!-- MEMES:END -->
+ - 💣 [Reminder](http://9gag.com/gag/a6Zqn59)
+ - ⏩ [Wow how is that possible.](http://9gag.com/gag/awyZ4oy)
+ - 👉 [Guy in his million-dollar LA mansion would rather film the wildfire than flee](http://9gag.com/gag/a87q2De)<!-- MEMES:END -->
 
 ---
 
