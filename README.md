@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Analysts say that contract negotiations between US dockworkers and the shipping industry over automation could help provide a template for agreements nationwide &lpar;Taylor Nicole Rogers/Financial Times&rpar;](http://www.techmeme.com/250108/p43#a250108p43)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Jan. 9, #108](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-jan-9-108/#ftag=CAD590a51e)
- - [US dockworkers and shipping industry officials reach a tentative labor agreement, overcoming differences over the introduction of automated machinery at ports &lpar;Peter Eavis/New York Times&rpar;](http://www.techmeme.com/250108/p42#a250108p42)<!-- TECH:END -->
+ - [A new packaging label will help US consumers buy safer smart home devices this year](https://www.androidauthority.com/us-cyber-trust-mark-3514822/)
+ - [A look at AI-enabled wearables like Bee AI and Omi, with embedded always-on microphones to record conversations around users and provide actionable insights &lpar;Julian Chokkattu/Wired&rpar;](http://www.techmeme.com/250109/p1#a250109p1)
+ - [The Monitors of CES 2025 I Can&#39;t Wait to Try](https://www.cnet.com/tech/computing/the-monitors-of-ces-2025-i-cant-wait-to-try/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
