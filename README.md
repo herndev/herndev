@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Lady liberty won&#39;t betray you](http://9gag.com/gag/aNDw4X3)
- - ⏩ [No really, where are they?](http://9gag.com/gag/an7zxWB)
- - 👉 [Instert What the hell happened here meme ..here](http://9gag.com/gag/aAy02oL)<!-- MEMES:END -->
+ - 💣 [Testing your mortality with totally sick wheelies.](http://9gag.com/gag/awyZY38)
+ - ⏩ [Wow how is that possible.](http://9gag.com/gag/awyZ4oy)
+ - 👉 [Grapes.](http://9gag.com/gag/aVvbL6v)<!-- MEMES:END -->
 
 ---
 
