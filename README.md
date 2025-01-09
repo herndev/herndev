@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [This bizarre roguelike has a new take on the Vampire Survivors formula: letting you build your own custom weapons out of brains, eyeballs, and chimpanzee spines](https://www.pcgamer.com/games/roguelike/this-bizarre-roguelike-has-a-new-take-on-the-vampire-survivors-formula-letting-you-build-your-own-custom-weapons-out-of-brains-eyeballs-and-chimpanzee-spines/)
- - [Deus Ex: Mankind Divided Writer Reveals What They Took From Us](https://kotaku.com/deus-ex-3-mankind-divided-ending-writer-reveals-story-1851736203)
- - [The Freewrite Wordrunner with a built-in word counter might be the keyboard to look out for if you want to improve your writing process](https://www.pcgamer.com/hardware/gaming-keyboards/the-freewrite-wordrunner-with-a-built-in-word-counter-might-be-the-keyboard-to-look-out-for-if-you-want-to-improve-your-writing-process/)<!-- GAME:END -->
+ - [Netflix&amp;#8217;s Sakamoto Days trailer features telepathic assassins, convenience shop owners, and a whole lotta bullets](https://www.polygon.com/trailer/506174/sakamoto-days-trailer-netflix-premiere-date-cast)
+ - [Nintendo announces&amp;#8230; a Lego Game Boy](https://www.polygon.com/nintendo/506156/nintendo-announces-new-console-lego-game-boy)
+ - [How to get Pink Ribbon Eels in Infinity Nikki](https://www.polygon.com/infinity-nikki-guides/505388/pink-ribbon-eels-locations-how-to-get-rewards)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
