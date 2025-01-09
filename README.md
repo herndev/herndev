@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [A building being demolished from the bodttom-up.](http://9gag.com/gag/an7z2j5)
- - ⏩ [Once upon a time](http://9gag.com/gag/apR9xbB)
- - 👉 [Welcome to the new era of gaming](http://9gag.com/gag/aMVEzYX)<!-- MEMES:END -->
+ - 💣 [What are you doing step police bro](http://9gag.com/gag/arymBDB)
+ - ⏩ [His first $100,000 in stock investments turned out pretty well!](http://9gag.com/gag/a0e411X)
+ - 👉 [When you realize](http://9gag.com/gag/a87q0rp)<!-- MEMES:END -->
 
 ---
 
