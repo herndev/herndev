@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How wartime GPS jamming has negatively impacted agriculture in Israel; in 2021, ~70% of Israeli farmers used GPS-guided equipment and precision-farming tech &lpar;Marissa Newman/Bloomberg&rpar;](http://www.techmeme.com/250109/p6#a250109p6)
- - [Google Messages takes a step towards secure messaging across apps and platforms &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-messages-prepares-mls-encryption-rcs-apk-teardown-3514829/)
- - [Sephora Promo Codes and Deals: 50% Off](https://www.wired.com/story/sephora-promo-code/)<!-- TECH:END -->
+ - [Samsung’s upcoming Pixel 8a rival leaks big time, could launch soon after Galaxy S25](https://www.androidauthority.com/samsung-galaxy-a56-official-certification-3514885/)
+ - [Say Goodbye to Melatonin and Hello to Magnesium. Here Are the Best Types of Magnesium for Sleep](https://www.cnet.com/health/sleep/best-magnesium-for-sleep/#ftag=CAD590a51e)
+ - [How wartime GPS jamming has negatively impacted agriculture in Israel; in 2021, ~70% of Israeli farmers used GPS-guided equipment and precision-farming tech &lpar;Marissa Newman/Bloomberg&rpar;](http://www.techmeme.com/250109/p6#a250109p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
