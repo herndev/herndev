@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Los Angeles Fires Will Put California’s New Insurance Rules to the Test](https://www.wired.com/story/the-los-angeles-fires-will-put-californias-new-insurance-rules-to-the-test/)
- - [The best fitness trackers to buy right now](https://www.theverge.com/22985108/best-fitness-tracker)
- - [Google and Microsoft donate $1 million apiece to Trump’s inauguration](https://www.theverge.com/2025/1/9/24340039/google-microsoft-trump-inauguration-donation)<!-- TECH:END -->
+ - [Long after T-Mobile, Verizon and AT&amp;T may finally get nationwide 5G stand-alone support this year](https://www.androidauthority.com/verizon-and-att-5g-sa-3515155/)
+ - [Roku users can watch &#39;Severance&#39; season 1 for free](https://appleinsider.com/articles/25/01/09/roku-users-can-watch-severance-season-1-for-free?utm_medium=rss)
+ - [We tried to hold Acer’s giant new Nitro Blaze 11 handheld](https://www.theverge.com/2025/1/9/24339992/acer-nitro-blaze-11-gaming-handheld-steam-deck-size-comparison)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
