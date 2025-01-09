@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [NYC-based Captions, an AI-powered video editing app, introduces a free tier with basic video editing tools, while keeping AI features in the $10/month Pro tier &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/250109/p29#a250109p29)
- - [X launches Grok’s iPhone app in the US](https://www.theverge.com/2025/1/9/24340129/grok-iphone-ios-app-us-launch)
- - [You can finally buy a Thunderbolt 5 SSD](https://www.theverge.com/2025/1/9/24339973/thunderbolt-5-seagate-lacie-rugged-ssd-pro5-sabrent-owc)<!-- TECH:END -->
+ - [These Newly Identified Cells Could Change the Face of Plastic Surgery](https://www.wired.com/story/these-newly-identified-cells-could-change-the-face-of-plastic-surgery/)
+ - [Meta Secretly Trained Its AI on a Notorious Piracy Database, Newly Unredacted Court Docs Reveal](https://www.wired.com/story/new-documents-unredacted-meta-copyright-ai-lawsuit/)
+ - [The Honda Zero EVs look even more compelling up close](https://www.theverge.com/2025/1/9/24340049/honda-zero-saloon-suv-prototype-spec-ces-photos)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
