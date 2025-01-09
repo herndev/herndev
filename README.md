@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How Microsoft can turn Windows PCs into an Xbox](https://www.theverge.com/2025/1/9/24339889/microsoft-xbox-handheld-windows-operating-system-changes-notepad)
- - [You’ll finally be able to buy the Super Retro Champ that plays SNES and Genesis carts](https://www.theverge.com/2025/1/9/24334903/my-arcade-super-retrochamp-handheld-gaming-retro-sega-nintendo-cartridges)
- - [T-Mobile is being sued by Washington state for downplaying the severity of 2021’s breach](https://www.androidauthority.com/t-mobile-washington-lawsuit-3515085/)<!-- TECH:END -->
+ - [Amazon is selling the tech behind its $50 billion ad business to other retailers](https://www.theverge.com/2025/1/9/24339933/amazon-retail-media-advertising)
+ - [Google Calendar may tweak UI to simplify juggling multiple calendars &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-calendar-multiple-calendars-3515114/)
+ - [Best Samsung Galaxy Z Fold 6 Deals: Knock $1,000 Off This Excellent Foldable Phone](https://www.cnet.com/deals/best-samsung-galaxy-z-fold-6-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
