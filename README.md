@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Brennan Lee Mulligan and the Questing Queens are grappling with consequences](https://www.polygon.com/actual-play/506526/dimension-20-dungeons-drag-queens-season-2)
- - [AMD accuses Intel&#39;s Arrow Lake of being a &#39;horrible&#39; product and implies a lack of options for consumers has caused the Ryzen 7 9800X3D shortage](https://www.pcgamer.com/hardware/processors/amd-accuses-intels-arrow-lake-of-being-a-horrible-product-and-implies-a-lack-of-options-for-consumers-has-caused-the-ryzen-7-9800x3d-shortage/)
- - [This Jinx-inspired gaming PC is my favorite of CES 2025 and I&#39;m head over heels for the hardware](https://www.pcgamer.com/hardware/gaming-pcs/this-jinx-inspired-gaming-pc-is-my-favorite-of-ces-2025-and-im-head-over-heels-for-the-hardware/)<!-- GAME:END -->
+ - [Can anything beat GTA 6 for Game of the Year 2025?](https://www.polygon.com/awards/505979/goty-2025-game-of-the-year-gta-6-grand-theft-auto)
+ - [Final Fantasy 14 communities panic as it turns out change to blacklisting, meant to help reduce stalking, also lets players use mods to track their alts](https://www.pcgamer.com/games/final-fantasy/final-fantasy-14-communities-panic-as-it-turns-out-change-to-blacklisting-meant-to-help-reduce-stalking-also-lets-players-use-mods-to-track-their-alts/)
+ - [TikTok&#39;s time in the US may be ticking to a close as it makes a last stand in the Supreme Court, though Trump now says he &#39;opposes banning&#39; it](https://www.pcgamer.com/gaming-industry/tiktoks-time-in-the-us-may-be-ticking-to-a-close-as-it-makes-a-last-stand-in-the-supreme-court-though-trump-now-says-he-opposes-banning-it/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
