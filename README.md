@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Redmi is first to bring the Snapdragon 7s Gen 3 to Europe](https://www.theverge.com/2025/1/10/24340493/redmi-note-14-qualcomm-snapdragon-7s-gen-3)
- - [Twenty years of the Mac mini, the little Mac that could](https://appleinsider.com/articles/25/01/10/twenty-years-of-the-mac-mini-the-little-mac-that-could?utm_medium=rss)
- - [Disney Plus is about to look even better on Samsung TVs with HDR10+](https://www.androidauthority.com/disney-plus-hdr10-3515442/)<!-- TECH:END -->
+ - [Panasonic came back for TV glory at CES 2025](https://www.theverge.com/2025/1/10/24339135/panasonic-z95b-oled-tv-hands-on-ces-2025)
+ - [Tesla’s redesigned Model Y is here — but not in the US or Europe](https://www.theverge.com/2025/1/10/24340502/tesla-model-y-2025-ev-redesign-specs-price-availability)
+ - [30-Year Fixed Refinance Ticks Higher: Today&#39;s Refinance Rates for Jan. 10, 2025](https://www.cnet.com/personal-finance/30-year-fixed-refinance-ticks-higher-todays-refinance-rates-for-jan-10-2025/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
