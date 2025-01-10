@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The most important tool in Remedy&#39;s new co-op FPS is the shower: &#39;Saving water is essential&#39;](https://www.pcgamer.com/games/fps/the-most-important-tool-in-remedys-new-co-op-fps-is-the-shower-saving-water-is-essential/)
- - [If you missed it over the holidays, this noir Half-Life 2 mod turns you into a hardboiled detective in prohibition-era Chicago](https://www.pcgamer.com/games/fps/if-you-missed-it-over-the-holidays-this-noir-half-life-2-mod-turns-you-into-a-hardboiled-detective-in-prohibition-era-chicago/)
- - [Path of Exile 2 players are calling foul on Elon Musk&#39;s high-level hardcore character after he streams his struggles with core game mechanics](https://www.pcgamer.com/games/rpg/path-of-exile-2-players-are-calling-foul-on-elon-musks-high-level-hardcore-character-after-he-streams-his-struggles-with-core-game-mechanics/)<!-- GAME:END -->
+ - [It seems like Square&#39;s finally consistently taking the PC ports of Final Fantasy seriously](https://www.pcgamer.com/games/rpg/it-seems-like-squares-finally-consistently-taking-the-pc-ports-of-final-fantasy-seriously/)
+ - [Like a Dragon: Pirate Yakuza in Hawaii looks more like a zany RGG take on Black Flag than I dared hope](https://www.pcgamer.com/games/rpg/like-a-dragon-pirate-yakuza-in-hawaii-looks-more-like-a-zany-rgg-take-on-black-flag-than-i-dared-hope/)
+ - [The most important tool in Remedy&#39;s new co-op FPS is the shower: &#39;Saving water is essential&#39;](https://www.pcgamer.com/games/fps/the-most-important-tool-in-remedys-new-co-op-fps-is-the-shower-saving-water-is-essential/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
