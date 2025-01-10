@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [These Newly Identified Cells Could Change the Face of Plastic Surgery](https://www.wired.com/story/these-newly-identified-cells-could-change-the-face-of-plastic-surgery/)
- - [Meta Secretly Trained Its AI on a Notorious Piracy Database, Newly Unredacted Court Docs Reveal](https://www.wired.com/story/new-documents-unredacted-meta-copyright-ai-lawsuit/)
- - [The Honda Zero EVs look even more compelling up close](https://www.theverge.com/2025/1/9/24340049/honda-zero-saloon-suv-prototype-spec-ces-photos)<!-- TECH:END -->
+ - [Apple donating to LA wildfire recovery &amp; allowing affected Apple Card holders to delay payments](https://appleinsider.com/articles/25/01/09/apple-donating-to-la-wildfire-recovery-allowing-affected-apple-card-holders-to-delay-payments?utm_medium=rss)
+ - [Narwal&#39;s Robovacs Showcased at CES 2025 Are Designed to Do It All](https://www.cnet.com/home/kitchen-and-household/narwals-robovacs-showcased-at-ces-2025-are-designed-to-do-it-all/#ftag=CAD590a51e)
+ - [Best of CES 2025 Awards: Android Authority’s top products from the show!](https://www.androidauthority.com/best-of-ces-2025-awards-3513710/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
