@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Wallet could soon get a handy feature to deal with information overload &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-wallet-search-feature-apk-teardown-3515429/)
- - [Verizon Promo Codes and Deals | Up to $830 Off](https://www.wired.com/story/verizon-promo-code/)
- - [India is promoting RuPay, its homegrown card network, to challenge Visa and Mastercard, leveraging UPI, which now handles 13B+ real-time transactions monthly &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/250110/p5#a250110p5)<!-- TECH:END -->
+ - [It’s evolving, just backwards: Galaxy S25 Ultra could come with a major S Pen downgrade](https://www.androidauthority.com/samsung-galaxy-s25-ultra-s-pen-bluetooth-downgrade-3515439/)
+ - [More than half a dozen celebrity video game streamers returned to Twitch in 2024, after their multi-million dollar contracts with YouTube and Kick expired &lpar;Cecilia D&#39;Anastasio/Bloomberg&rpar;](http://www.techmeme.com/250110/p6#a250110p6)
+ - [Google Wallet could soon get a handy feature to deal with information overload &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-wallet-search-feature-apk-teardown-3515429/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
