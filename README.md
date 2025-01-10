@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The TikTok Ban Is More Likely Than Ever](https://www.wired.com/story/tiktok-ban-supreme-court-hearing/)
- - [Apple&#39;s Chinese New Year &#39;Shot on iPhone&#39; film is a 90&#39;s mixtape feverdream](https://appleinsider.com/articles/25/01/10/apples-chinese-new-year-shot-on-iphone-film-is-a-90s-mixtape-feverdream?utm_medium=rss)
- - [Sources: HPE won a $1B deal in late 2024 to provide servers optimized for AI work for X; Dell and Super Micro also bid on the deal &lpar;Brody Ford/Bloomberg&rpar;](http://www.techmeme.com/250110/p24#a250110p24)<!-- TECH:END -->
+ - [Sources: OpenAI, Google, and other companies are collectively paying hundreds of content creators for access to their unpublished videos to train AI models &lpar;Aisha Counts/Bloomberg&rpar;](http://www.techmeme.com/250110/p28#a250110p28)
+ - [Zuckerberg slams Apple, saying it hasn&#39;t &quot;really invented anything great in a while&quot;, he&#39;s &quot;optimistic&quot; that Apple will &quot;get beat by someone&quot; soon, and more &lpar;Chance Miller/9to5Mac&rpar;](http://www.techmeme.com/250110/p27#a250110p27)
+ - [On Joe Rogan&#39;s podcast, Zuckerberg said the Biden administration pushed Meta &quot;super hard&quot; to take down vaccine content, called EU fines a tariff on the US, more &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/250110/p26#a250110p26)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
