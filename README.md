@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Cap? Any update on LA fires if these two are still around?](http://9gag.com/gag/aO8xGD2)
- - ⏩ [First one](http://9gag.com/gag/aVvbV38)
- - 👉 [Not my job](http://9gag.com/gag/aAy0ZrZ)<!-- MEMES:END -->
+ - 💣 [Satisfying](http://9gag.com/gag/aqyeD2P)
+ - ⏩ [`Overly attached girlfriend` 2024.](http://9gag.com/gag/agmoKMx)
+ - 👉 [Simon had the best f**king time of his life](http://9gag.com/gag/aZZDvD3)<!-- MEMES:END -->
 
 ---
 
