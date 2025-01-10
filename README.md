@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [All the new video games launching in 2025](https://www.polygon.com/24188125/2025-video-game-release-dates-new-upcoming)
- - [Dragonflight got WoW back on its feet, now we get to see if Blizzard can make the Worldsoul Saga run](https://www.pcgamer.com/games/world-of-warcraft/dragonflight-got-wow-back-on-its-feet-now-we-get-to-see-if-blizzard-can-make-the-worldsoul-saga-run/)
- - [If you&#39;re a content creator and gamer looking for a CPU upgrade, this Ryzen 9 9900X deal will get you $90 off](https://www.pcgamer.com/hardware/processors/if-youre-a-content-creator-and-gamer-looking-for-a-cpu-upgrade-this-ryzen-9-9900x-deal-will-get-you-usd90-off/)<!-- GAME:END -->
+ - [The US government wants to start protecting you from Robux scams](https://www.polygon.com/gaming/506863/roblox-scams-robux-us-government-regulation-law)
+ - [Here are the best microSD cards for Steam Deck](https://www.polygon.com/deals/22938610/steam-deck-best-sd-card-micro-storage-price-speed)
+ - [It&#39;s time for me to admit that AI-accelerated frame generation might actually be the way of the future and that&#39;s a good thing](https://www.pcgamer.com/hardware/graphics-cards/its-time-for-me-to-admit-that-ai-accelerated-frame-generation-might-actually-be-the-way-of-the-future-and-thats-a-good-thing/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
