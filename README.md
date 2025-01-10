@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Japan town in Vietnam. Reliever of all stress!](http://9gag.com/gag/aLn1brM)
- - ⏩ [Subtle but significant distinction](http://9gag.com/gag/ayN2vzy)
- - 👉 [He simply makes the best advertising!](http://9gag.com/gag/an7zVx0)<!-- MEMES:END -->
+ - 💣 [Accurate Stormtroopers!](http://9gag.com/gag/aQzEVLw)
+ - ⏩ [Wifey !!!!](http://9gag.com/gag/agmoK8v)
+ - 👉 [Why no imperial time units?](http://9gag.com/gag/a5QXx8L)<!-- MEMES:END -->
 
 ---
 
