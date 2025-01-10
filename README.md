@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Palestinian developer raises more than $200,000 to make Dreams on a Pillow, a game about the horrors of the 1948 Nakba](https://www.pcgamer.com/games/palestinian-developer-raises-more-than-usd200-000-to-make-dreams-on-a-pillow-a-game-about-the-horrors-of-the-1948-nakba/)
- - [The best characters in Marvel Rivals](https://www.polygon.com/marvel-rivals-guide/493434/characters-best-heroes-meta)
- - [This One Weird Trick Will Free Up A Surprising Amount Of Space On Your PS5](https://kotaku.com/ps5-storage-tips-free-space-delete-trophy-clips-1851737441)<!-- GAME:END -->
+ - [If you&#39;re trying to convince me your &#39;companionship&#39; robot is &#39;lifelike&#39;, maybe don&#39;t rip her face off in the demo video](https://www.pcgamer.com/hardware/if-youre-trying-to-convince-me-your-companionship-robot-is-lifelike-maybe-dont-rip-her-face-off-in-the-demo-video/)
+ - [Square Enix launches new anti-harassment policy to protect its employees and partners from abusive fans](https://www.pcgamer.com/gaming-industry/square-enix-launches-new-anti-harassment-policy-to-protect-its-employees-and-partners-from-abusive-fans/)
+ - [Feeding Sodas To A Demonic Puppy Makes You Stronger In This New FPS](https://kotaku.com/cruel-boomer-shooter-retro-fps-pc-steam-2025-review-1851737479)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
