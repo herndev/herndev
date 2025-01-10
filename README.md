@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Satisfying](http://9gag.com/gag/aqyeD2P)
- - ⏩ [Testing your mortality with totally sick wheelies.](http://9gag.com/gag/awyZY38)
+ - 💣 [Unexpected turn of events](http://9gag.com/gag/a5QXjMV)
+ - ⏩ [If you are reading this: sorry Peter, we paid her](http://9gag.com/gag/a87qwO1)
  - 👉 [What part of the car that melted? The fire was so brutal!](http://9gag.com/gag/abAvEDB)<!-- MEMES:END -->
 
 ---
