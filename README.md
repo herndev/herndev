@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Genki says it’s never seen the Switch 2, mock-ups were based on other leaks](https://www.polygon.com/news/507153/genki-switch-2-nintendo-leaks-fake)
- - [The best order to watch all the Star Wars movies and shows](https://www.polygon.com/2019/11/13/20959862/star-wars-watch-order-disney-plus-movies-shows-chronological-skywalker-saga)
- - [Five pages from Marvel’s new Star Wars series shows Jedi badassery at its height](https://www.polygon.com/star-wars/507013/marvel-comics-jedi-knights-1-preview-corlis-rath)<!-- GAME:END -->
+ - [Is the Marvel Rivals season 1 battle pass worth it?](https://www.polygon.com/marvel-rivals-guide/506076/season-1-battle-pass-is-it-worth-it-paid-free-upgrade)
+ - [All Marvel Rivals season 1 battle pass skins and rewards](https://www.polygon.com/guides/506301/all-skins-season-1-battle-pass-rewards-paid-free-list)
+ - [Marvel Rivals&#39; latest update quietly killed the game&#39;s burgeoning mod scene](https://www.pcgamer.com/games/third-person-shooter/marvel-rivals-latest-update-quietly-killed-the-games-burgeoning-mod-scene/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
