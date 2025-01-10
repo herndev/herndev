@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A treasure trove of Galaxy S25 renders just leaked, including colorways &lpar;Updated&rpar;](https://www.androidauthority.com/samsung-galaxy-s25-renders-3515569/)
- - [Secret Phone Surveillance Tech Was Likely Deployed at 2024 DNC](https://www.wired.com/story/2024-dnc-cell-site-simulator-phone-surveillance/)
- - [Live blog: The US Supreme Court hears oral arguments in TikTok&#39;s appeal against the divest-or-ban law &lpar;Wired&rpar;](http://www.techmeme.com/250110/p14#a250110p14)<!-- TECH:END -->
+ - [Joe Biden’s national climate adviser sees AI as a ‘massive opportunity’](https://www.theverge.com/2025/1/10/24339455/national-climate-adviser-ali-zaidi-interview-biden-trump-energy-transition)
+ - [Advertisers are hijacking apps to beat Apple and developers&#39; privacy efforts](https://appleinsider.com/articles/25/01/10/advertisers-are-hijacking-apps-to-beat-apple-and-developers-privacy-efforts?utm_medium=rss)
+ - [SMOROBOT brings powerhouse cordless robot pool cleaners to CES 2025](https://www.androidauthority.com/smorobot-robot-pool-cleaners-ces-2025-3515614/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
