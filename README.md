@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [What part of the car that melted? The fire was so brutal!](http://9gag.com/gag/abAvEDB)
- - ⏩ [He simply makes the best advertising!](http://9gag.com/gag/an7zVx0)
- - 👉 [Who is going to pay for the damages!](http://9gag.com/gag/avyQDyd)<!-- MEMES:END -->
+ - 💣 [Maddest car chase I\u2019ve seen. Dude in the car literally trying to kill him.](http://9gag.com/gag/aYQVdOV)
+ - ⏩ [Satisfying](http://9gag.com/gag/aqyeD2P)
+ - 👉 [He simply makes the best advertising!](http://9gag.com/gag/an7zVx0)<!-- MEMES:END -->
 
 ---
 
