@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Wifey !!!!](http://9gag.com/gag/agmoK8v)
- - ⏩ [Now wat](http://9gag.com/gag/aByd4pO)
- - 👉 [No words but clearly understood](http://9gag.com/gag/ae9Qd4B)<!-- MEMES:END -->
+ - 💣 [Japan town in Vietnam. Reliever of all stress!](http://9gag.com/gag/aLn1brM)
+ - ⏩ [Subtle but significant distinction](http://9gag.com/gag/ayN2vzy)
+ - 👉 [He simply makes the best advertising!](http://9gag.com/gag/an7zVx0)<!-- MEMES:END -->
 
 ---
 
