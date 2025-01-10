@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [If you are reading this: sorry Peter, we paid her](http://9gag.com/gag/a87qwO1)
- - ⏩ [She&#39;s a trooper. Didn&#39;t even take a knee. Get that for me, would you, deary?](http://9gag.com/gag/aO8xp3v)
- - 👉 [The state of LA &lpar;more images in comments&rpar;](http://9gag.com/gag/aGyE7O5)<!-- MEMES:END -->
+ - 💣 [This COP is legend](http://9gag.com/gag/ae9QR05)
+ - ⏩ [Testing your mortality with totally sick wheelies.](http://9gag.com/gag/awyZY38)
+ - 👉 [Simon had the best f**king time of his life](http://9gag.com/gag/aZZDvD3)<!-- MEMES:END -->
 
 ---
 
