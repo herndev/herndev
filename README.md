@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The US government wants to start protecting you from Robux scams](https://www.polygon.com/gaming/506863/roblox-scams-robux-us-government-regulation-law)
- - [Here are the best microSD cards for Steam Deck](https://www.polygon.com/deals/22938610/steam-deck-best-sd-card-micro-storage-price-speed)
- - [It&#39;s time for me to admit that AI-accelerated frame generation might actually be the way of the future and that&#39;s a good thing](https://www.pcgamer.com/hardware/graphics-cards/its-time-for-me-to-admit-that-ai-accelerated-frame-generation-might-actually-be-the-way-of-the-future-and-thats-a-good-thing/)<!-- GAME:END -->
+ - [The dizzying thriller Fall does for heights what The Descent did for depths](https://www.polygon.com/what-to-watch/505360/fall-movie-hulu-best-thrillers-streaming)
+ - [How to trigger Recursive Destruction in Marvel Rivals](https://www.polygon.com/marvel-rivals-guide/506852/recursive-destruction-trigger-how-to-midtown-mission)
+ - [Final Fantasy 14 housing demolition delayed on NA servers due to Los Angeles wildfires](https://www.polygon.com/news/506963/final-fantasy-14-xiv-housing-demolition-delay-los-angeles-wildfires)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
