@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Who did it better?](http://9gag.com/gag/adBPb2Z)
- - ⏩ [Testing your mortality with totally sick wheelies.](http://9gag.com/gag/awyZY38)
- - 👉 [She&#39;s a trooper. Didn&#39;t even take a knee. Get that for me, would you, deary?](http://9gag.com/gag/aO8xp3v)<!-- MEMES:END -->
+ - 💣 [If you are reading this: sorry Peter, we paid her](http://9gag.com/gag/a87qwO1)
+ - ⏩ [She&#39;s a trooper. Didn&#39;t even take a knee. Get that for me, would you, deary?](http://9gag.com/gag/aO8xp3v)
+ - 👉 [The state of LA &lpar;more images in comments&rpar;](http://9gag.com/gag/aGyE7O5)<!-- MEMES:END -->
 
 ---
 
