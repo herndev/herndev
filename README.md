@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Fortnite Festival is turning into Rock Band with local multiplayer](https://www.theverge.com/2025/1/10/24340770/fortnite-festival-local-multiplayer)
- - [Memo: Meta terminates major DEI programs, including for hiring, training, and procurement, citing a changed &quot;legal and policy landscape&quot; around DEI in the US &lpar;Axios&rpar;](http://www.techmeme.com/250110/p17#a250110p17)
- - [Slim iPhone 17 could be even thinner than expected](https://appleinsider.com/articles/25/01/10/slim-iphone-17-could-be-even-thinner-than-expected?utm_medium=rss)<!-- TECH:END -->
+ - [Apple appears to be working on an all-new Invites app for meetings and events](https://appleinsider.com/articles/25/01/08/apple-appears-to-be-working-on-an-all-new-invites-app-for-meetings-and-events?utm_medium=rss)
+ - [Overhaul, which uses AI to anticipate freight shipping delays to fight cargo theft for customers like Microsoft, raised $55M, bringing total funding to ~$150M &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250110/p19#a250110p19)
+ - [The OnePlus Open 2 might be coming for the title of the world’s thinnest foldable phone](https://www.androidauthority.com/oneplus-open-2-thinness-titanium-build-3515648/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
