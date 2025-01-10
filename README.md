@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple donating to LA wildfire recovery &amp; allowing affected Apple Card holders to delay payments](https://appleinsider.com/articles/25/01/09/apple-donating-to-la-wildfire-recovery-allowing-affected-apple-card-holders-to-delay-payments?utm_medium=rss)
- - [Narwal&#39;s Robovacs Showcased at CES 2025 Are Designed to Do It All](https://www.cnet.com/home/kitchen-and-household/narwals-robovacs-showcased-at-ces-2025-are-designed-to-do-it-all/#ftag=CAD590a51e)
- - [Best of CES 2025 Awards: Android Authority’s top products from the show!](https://www.androidauthority.com/best-of-ces-2025-awards-3513710/)<!-- TECH:END -->
+ - [The Tide Could Finally Be Turning Against the LA Fires](https://www.wired.com/story/the-tide-could-finally-be-turning-against-the-la-fires/)
+ - [Court docs: Mark Zuckerberg gave the Meta team training Llama AI models approval to use data from LibGen, which offers access to pirated, copyrighted material &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250109/p32#a250109p32)
+ - [This wildfire evacuation alert accidentally went out to everyone in LA](https://www.theverge.com/2025/1/9/24340289/los-angeles-wildfire-wireless-emergency-alert-mistake)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
