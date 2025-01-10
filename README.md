@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Unexpected turn of events](http://9gag.com/gag/a5QXjMV)
- - ⏩ [If you are reading this: sorry Peter, we paid her](http://9gag.com/gag/a87qwO1)
- - 👉 [What part of the car that melted? The fire was so brutal!](http://9gag.com/gag/abAvEDB)<!-- MEMES:END -->
+ - 💣 [WTF UK](http://9gag.com/gag/a5QXDZy)
+ - ⏩ [Big brain time](http://9gag.com/gag/avyQmQn)
+ - 👉 [Simon had the best f**king time of his life](http://9gag.com/gag/aZZDvD3)<!-- MEMES:END -->
 
 ---
 
