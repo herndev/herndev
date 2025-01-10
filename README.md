@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Can anything beat GTA 6 for Game of the Year 2025?](https://www.polygon.com/awards/505979/goty-2025-game-of-the-year-gta-6-grand-theft-auto)
- - [Final Fantasy 14 communities panic as it turns out change to blacklisting, meant to help reduce stalking, also lets players use mods to track their alts](https://www.pcgamer.com/games/final-fantasy/final-fantasy-14-communities-panic-as-it-turns-out-change-to-blacklisting-meant-to-help-reduce-stalking-also-lets-players-use-mods-to-track-their-alts/)
- - [TikTok&#39;s time in the US may be ticking to a close as it makes a last stand in the Supreme Court, though Trump now says he &#39;opposes banning&#39; it](https://www.pcgamer.com/gaming-industry/tiktoks-time-in-the-us-may-be-ticking-to-a-close-as-it-makes-a-last-stand-in-the-supreme-court-though-trump-now-says-he-opposes-banning-it/)<!-- GAME:END -->
+ - [Players’ Choice: Vote for December 2024’s best new game](https://blog.playstation.com/2025/01/10/players-choice-vote-for-december-2024s-best-new-game/)
+ - [Next Week on Xbox: New Games for January 13 to 17](https://news.xbox.com/en-us/2025/01/10/next-week-on-xbox-new-games-for-january-13-to-17/)
+ - [The 48 best movies on Netflix right now](https://www.polygon.com/21266801/best-movies-on-netflix)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
