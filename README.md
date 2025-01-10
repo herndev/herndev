@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Satisfying](http://9gag.com/gag/aqyeD2P)
- - ⏩ [`Overly attached girlfriend` 2024.](http://9gag.com/gag/agmoKMx)
- - 👉 [Simon had the best f**king time of his life](http://9gag.com/gag/aZZDvD3)<!-- MEMES:END -->
+ - 💣 [She&#39;s a trooper. Didn&#39;t even take a knee. Get that for me, would you, deary?](http://9gag.com/gag/aO8xp3v)
+ - ⏩ [The Malibu waterfront, one of the most expensive properties in the United States, has largely disappeared.](http://9gag.com/gag/awyZeBr)
+ - 👉 [`Overly attached girlfriend` 2024.](http://9gag.com/gag/agmoKMx)<!-- MEMES:END -->
 
 ---
 
