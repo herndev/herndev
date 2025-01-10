@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Is the Marvel Rivals season 1 battle pass worth it?](https://www.polygon.com/marvel-rivals-guide/506076/season-1-battle-pass-is-it-worth-it-paid-free-upgrade)
- - [All Marvel Rivals season 1 battle pass skins and rewards](https://www.polygon.com/guides/506301/all-skins-season-1-battle-pass-rewards-paid-free-list)
- - [Marvel Rivals&#39; latest update quietly killed the game&#39;s burgeoning mod scene](https://www.pcgamer.com/games/third-person-shooter/marvel-rivals-latest-update-quietly-killed-the-games-burgeoning-mod-scene/)<!-- GAME:END -->
+ - [The PS4 Might Actually Break One Of The PS2&#39;s Wildest Records](https://kotaku.com/ps4-ps2-games-2025-ps5-sony-dying-light-wwe2k25-1851737308)
+ - [This Gotham City RPG offers something for every type of Batman fan](https://www.polygon.com/tabletop-games/507362/batman-gotham-city-chronicles-rpg-monolith-crowdfunding)
+ - [World of Warcraft&#39;s competitive dungeon mode is struggling](https://www.pcgamer.com/games/mmo/world-of-warcrafts-competitive-dungeon-mode-is-struggling/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
