@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [President of Mexico just released this map](http://9gag.com/gag/aZZDzez)
- - ⏩ [Subtle but significant distinction](http://9gag.com/gag/ayN2vzy)
- - 👉 [Testing your mortality with totally sick wheelies.](http://9gag.com/gag/awyZY38)<!-- MEMES:END -->
+ - 💣 [Typical UK nowadays , some far right woman stops typical uk citizen from bringing home a girl.](http://9gag.com/gag/abAvRyB)
+ - ⏩ [The moment he draws the ass... oh my God, dat ass.](http://9gag.com/gag/aAy0v82)
+ - 👉 [Big brain time](http://9gag.com/gag/avyQmQn)<!-- MEMES:END -->
 
 ---
 
