@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [No words but clearly understood](http://9gag.com/gag/ae9Qd4B)
- - ⏩ [What part of the car that melted? The fire was so brutal!](http://9gag.com/gag/abAvEDB)
- - 👉 [She&#39;s a trooper. Didn&#39;t even take a knee. Get that for me, would you, deary?](http://9gag.com/gag/aO8xp3v)<!-- MEMES:END -->
+ - 💣 [What part of the car that melted? The fire was so brutal!](http://9gag.com/gag/abAvEDB)
+ - ⏩ [He simply makes the best advertising!](http://9gag.com/gag/an7zVx0)
+ - 👉 [Who is going to pay for the damages!](http://9gag.com/gag/avyQDyd)<!-- MEMES:END -->
 
 ---
 
