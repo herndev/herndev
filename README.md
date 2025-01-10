@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Nice job ladies&lpar;?&rpar;!](http://9gag.com/gag/aVvbVOd)
- - ⏩ [Typical UK nowadays , some far right woman stops typical uk citizen from bringing home a girl.](http://9gag.com/gag/abAvRyB)
- - 👉 [Subtle but significant distinction](http://9gag.com/gag/ayN2vzy)<!-- MEMES:END -->
+ - 💣 [Satisfying](http://9gag.com/gag/aqyeD2P)
+ - ⏩ [Testing your mortality with totally sick wheelies.](http://9gag.com/gag/awyZY38)
+ - 👉 [What part of the car that melted? The fire was so brutal!](http://9gag.com/gag/abAvEDB)<!-- MEMES:END -->
 
 ---
 
