@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Disney, Fox, and WBD say they have collectively agreed to discontinue their Venu Sports streaming venture, and will focus on existing products &lpar;Alex Weprin/The Hollywood Reporter&rpar;](http://www.techmeme.com/250110/p10#a250110p10)
- - [Twenty years of the Mac mini, the little Mac that could](https://appleinsider.com/articles/25/01/10/twenty-years-of-the-mac-mini-the-little-mac-that-could?utm_medium=rss)
- - [Drone takes out Super Scooper fighting Los Angeles wildfires](https://www.theverge.com/2025/1/10/24340524/drone-collision-grounds-super-scooper-aircraft-la-wildfires)<!-- TECH:END -->
+ - [TikTok’s last stand: Supreme Court hears arguments over potential ban](https://www.theverge.com/24340585/tiktok-ban-supreme-court-oral-arguments)
+ - [The CFPB proposes a new rule to give consumers the same protection rights when they use virtual currencies in some video games like Roblox as when they use USD &lpar;Makena Kelly/Wired&rpar;](http://www.techmeme.com/250110/p11#a250110p11)
+ - [Thirty years later, this modern PS1 FPGA console plays your favorite retro games at 1440p](https://www.androidauthority.com/r2one-ps1-fpga-3515527/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
