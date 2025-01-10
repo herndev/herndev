@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Players’ Choice: Vote for December 2024’s best new game](https://blog.playstation.com/2025/01/10/players-choice-vote-for-december-2024s-best-new-game/)
- - [Next Week on Xbox: New Games for January 13 to 17](https://news.xbox.com/en-us/2025/01/10/next-week-on-xbox-new-games-for-january-13-to-17/)
- - [The 48 best movies on Netflix right now](https://www.polygon.com/21266801/best-movies-on-netflix)<!-- GAME:END -->
+ - [All the new video games launching in 2025](https://www.polygon.com/24188125/2025-video-game-release-dates-new-upcoming)
+ - [Dragonflight got WoW back on its feet, now we get to see if Blizzard can make the Worldsoul Saga run](https://www.pcgamer.com/games/world-of-warcraft/dragonflight-got-wow-back-on-its-feet-now-we-get-to-see-if-blizzard-can-make-the-worldsoul-saga-run/)
+ - [If you&#39;re a content creator and gamer looking for a CPU upgrade, this Ryzen 9 9900X deal will get you $90 off](https://www.pcgamer.com/hardware/processors/if-youre-a-content-creator-and-gamer-looking-for-a-cpu-upgrade-this-ryzen-9-9900x-deal-will-get-you-usd90-off/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
