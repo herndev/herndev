@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The PS4 Might Actually Break One Of The PS2&#39;s Wildest Records](https://kotaku.com/ps4-ps2-games-2025-ps5-sony-dying-light-wwe2k25-1851737308)
- - [This Gotham City RPG offers something for every type of Batman fan](https://www.polygon.com/tabletop-games/507362/batman-gotham-city-chronicles-rpg-monolith-crowdfunding)
- - [World of Warcraft&#39;s competitive dungeon mode is struggling](https://www.pcgamer.com/games/mmo/world-of-warcrafts-competitive-dungeon-mode-is-struggling/)<!-- GAME:END -->
+ - [Palestinian developer raises more than $200,000 to make Dreams on a Pillow, a game about the horrors of the 1948 Nakba](https://www.pcgamer.com/games/palestinian-developer-raises-more-than-usd200-000-to-make-dreams-on-a-pillow-a-game-about-the-horrors-of-the-1948-nakba/)
+ - [The best characters in Marvel Rivals](https://www.polygon.com/marvel-rivals-guide/493434/characters-best-heroes-meta)
+ - [This One Weird Trick Will Free Up A Surprising Amount Of Space On Your PS5](https://kotaku.com/ps5-storage-tips-free-space-delete-trophy-clips-1851737441)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
