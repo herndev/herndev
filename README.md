@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Hi Georgie](http://9gag.com/gag/a1mPE3G)
- - ⏩ [The Malibu waterfront, one of the most expensive properties in the United States, has largely disappeared.](http://9gag.com/gag/awyZeBr)
- - 👉 [The moment he draws the ass... oh my God, dat ass.](http://9gag.com/gag/aAy0v82)<!-- MEMES:END -->
+ - 💣 [Grapes.](http://9gag.com/gag/aVvbL6v)
+ - ⏩ [`Overly attached girlfriend` 2024.](http://9gag.com/gag/agmoKMx)
+ - 👉 [Testing your mortality with totally sick wheelies.](http://9gag.com/gag/awyZY38)<!-- MEMES:END -->
 
 ---
 
