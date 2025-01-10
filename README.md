@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The OnePlus 13R shows you don’t need to spend big on flagships but reminded me why they still matter](https://www.androidauthority.com/oneplus-13r-review-3514053/)
- - [The Verge Awards at CES 2025](https://www.theverge.com/2025/1/10/24340153/ces-2025-best-new-tech-tv-car-wearable)
- - [Google gives Gemini’s compact overlay a colorful glow that looks suspiciously fruity](https://www.androidauthority.com/gemini-overlay-colorful-redesign-3515483/)<!-- TECH:END -->
+ - [Disney, Fox, and WBD say they have collectively agreed to discontinue their Venu Sports streaming venture, and will focus on existing products &lpar;Alex Weprin/The Hollywood Reporter&rpar;](http://www.techmeme.com/250110/p10#a250110p10)
+ - [Twenty years of the Mac mini, the little Mac that could](https://appleinsider.com/articles/25/01/10/twenty-years-of-the-mac-mini-the-little-mac-that-could?utm_medium=rss)
+ - [Drone takes out Super Scooper fighting Los Angeles wildfires](https://www.theverge.com/2025/1/10/24340524/drone-collision-grounds-super-scooper-aircraft-la-wildfires)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
