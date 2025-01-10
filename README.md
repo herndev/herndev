@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [It’s evolving, just backwards: Galaxy S25 Ultra could come with a major S Pen downgrade](https://www.androidauthority.com/samsung-galaxy-s25-ultra-s-pen-bluetooth-downgrade-3515439/)
- - [More than half a dozen celebrity video game streamers returned to Twitch in 2024, after their multi-million dollar contracts with YouTube and Kick expired &lpar;Cecilia D&#39;Anastasio/Bloomberg&rpar;](http://www.techmeme.com/250110/p6#a250110p6)
- - [Google Wallet could soon get a handy feature to deal with information overload &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-wallet-search-feature-apk-teardown-3515429/)<!-- TECH:END -->
+ - [Redmi is first to bring the Snapdragon 7s Gen 3 to Europe](https://www.theverge.com/2025/1/10/24340493/redmi-note-14-qualcomm-snapdragon-7s-gen-3)
+ - [Twenty years of the Mac mini, the little Mac that could](https://appleinsider.com/articles/25/01/10/twenty-years-of-the-mac-mini-the-little-mac-that-could?utm_medium=rss)
+ - [Disney Plus is about to look even better on Samsung TVs with HDR10+](https://www.androidauthority.com/disney-plus-hdr10-3515442/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
