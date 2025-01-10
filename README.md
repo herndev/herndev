@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [TikTok’s last stand: Supreme Court hears arguments over potential ban](https://www.theverge.com/24340585/tiktok-ban-supreme-court-oral-arguments)
- - [The CFPB proposes a new rule to give consumers the same protection rights when they use virtual currencies in some video games like Roblox as when they use USD &lpar;Makena Kelly/Wired&rpar;](http://www.techmeme.com/250110/p11#a250110p11)
- - [Thirty years later, this modern PS1 FPGA console plays your favorite retro games at 1440p](https://www.androidauthority.com/r2one-ps1-fpga-3515527/)<!-- TECH:END -->
+ - [A treasure trove of Galaxy S25 renders just leaked, including colorways &lpar;Updated&rpar;](https://www.androidauthority.com/samsung-galaxy-s25-renders-3515569/)
+ - [Secret Phone Surveillance Tech Was Likely Deployed at 2024 DNC](https://www.wired.com/story/2024-dnc-cell-site-simulator-phone-surveillance/)
+ - [Live blog: The US Supreme Court hears oral arguments in TikTok&#39;s appeal against the divest-or-ban law &lpar;Wired&rpar;](http://www.techmeme.com/250110/p14#a250110p14)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
