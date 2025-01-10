@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Panasonic came back for TV glory at CES 2025](https://www.theverge.com/2025/1/10/24339135/panasonic-z95b-oled-tv-hands-on-ces-2025)
- - [Tesla’s redesigned Model Y is here — but not in the US or Europe](https://www.theverge.com/2025/1/10/24340502/tesla-model-y-2025-ev-redesign-specs-price-availability)
- - [30-Year Fixed Refinance Ticks Higher: Today&#39;s Refinance Rates for Jan. 10, 2025](https://www.cnet.com/personal-finance/30-year-fixed-refinance-ticks-higher-todays-refinance-rates-for-jan-10-2025/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The OnePlus 13R shows you don’t need to spend big on flagships but reminded me why they still matter](https://www.androidauthority.com/oneplus-13r-review-3514053/)
+ - [The Verge Awards at CES 2025](https://www.theverge.com/2025/1/10/24340153/ces-2025-best-new-tech-tv-car-wearable)
+ - [Google gives Gemini’s compact overlay a colorful glow that looks suspiciously fruity](https://www.androidauthority.com/gemini-overlay-colorful-redesign-3515483/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
