@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Subtle but significant distinction](http://9gag.com/gag/ayN2vzy)
- - ⏩ [`Overly attached girlfriend` 2024.](http://9gag.com/gag/agmoKMx)
+ - 💣 [Blackrock be like: JACKPOT!](http://9gag.com/gag/a7oqAYL)
+ - ⏩ [Cap? Any update on LA fires if these two are still around?](http://9gag.com/gag/aO8xGD2)
  - 👉 [Why yes, I&#39;m a fan of classic Italian cinema](http://9gag.com/gag/ajPVdDx)<!-- MEMES:END -->
 
 ---
