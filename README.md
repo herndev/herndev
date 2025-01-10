@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Maddest car chase I\u2019ve seen. Dude in the car literally trying to kill him.](http://9gag.com/gag/aYQVdOV)
- - ⏩ [Satisfying](http://9gag.com/gag/aqyeD2P)
- - 👉 [He simply makes the best advertising!](http://9gag.com/gag/an7zVx0)<!-- MEMES:END -->
+ - 💣 [Wifey !!!!](http://9gag.com/gag/agmoK8v)
+ - ⏩ [Now wat](http://9gag.com/gag/aByd4pO)
+ - 👉 [No words but clearly understood](http://9gag.com/gag/ae9Qd4B)<!-- MEMES:END -->
 
 ---
 
