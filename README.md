@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [WTF UK](http://9gag.com/gag/a5QXDZy)
- - ⏩ [Big brain time](http://9gag.com/gag/avyQmQn)
- - 👉 [Simon had the best f**king time of his life](http://9gag.com/gag/aZZDvD3)<!-- MEMES:END -->
+ - 💣 [Cap? Any update on LA fires if these two are still around?](http://9gag.com/gag/aO8xGD2)
+ - ⏩ [First one](http://9gag.com/gag/aVvbV38)
+ - 👉 [Not my job](http://9gag.com/gag/aAy0ZrZ)<!-- MEMES:END -->
 
 ---
 
