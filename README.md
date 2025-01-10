@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google Wallet could soon get a handy feature to deal with information overload &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-wallet-search-feature-apk-teardown-3515429/)
  - [Verizon Promo Codes and Deals | Up to $830 Off](https://www.wired.com/story/verizon-promo-code/)
- - [India is promoting RuPay, its homegrown card network, to challenge Visa and Mastercard, leveraging UPI, which now handles 13B+ real-time transactions monthly &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/250110/p5#a250110p5)
- - [TSMC reports December revenue up 57.8% YoY to $8.4B, pushing the 2024 revenue to ~$88.02B, up 34% YoY, driven by AI chips demand from Nvidia and Broadcom &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/250110/p4#a250110p4)<!-- TECH:END -->
+ - [India is promoting RuPay, its homegrown card network, to challenge Visa and Mastercard, leveraging UPI, which now handles 13B+ real-time transactions monthly &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/250110/p5#a250110p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
