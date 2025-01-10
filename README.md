@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [President of Mexico just released this map](http://9gag.com/gag/aZZDzez)
- - ⏩ [If you are reading this: sorry Peter, we paid her](http://9gag.com/gag/a87qwO1)
- - 👉 [Grapes.](http://9gag.com/gag/aVvbL6v)<!-- MEMES:END -->
+ - ⏩ [Subtle but significant distinction](http://9gag.com/gag/ayN2vzy)
+ - 👉 [Testing your mortality with totally sick wheelies.](http://9gag.com/gag/awyZY38)<!-- MEMES:END -->
 
 ---
 
