@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Today&#39;s Wordle answer for Friday, January 10](https://www.pcgamer.com/games/puzzle/wordle-answer-today-january-10-2025/)
- - [We may not have a roadmap or balance patch just yet, but at least Path of Exile 2&#39;s bugfix patch notes are funny](https://www.pcgamer.com/games/rpg/we-may-not-have-a-roadmap-or-balance-patch-just-yet-but-at-least-path-of-exile-2s-bugfix-patch-notes-are-funny/)
- - [Deus Ex: Mankind Divided writer didn&#39;t like the ending either: &#39;Nothing is resolved&#39;](https://www.pcgamer.com/games/rpg/deus-ex-mankind-divided-writer-didnt-like-the-ending-either-nothing-is-resolved/)<!-- GAME:END -->
+ - [Tencent says it&#39;s not a Chinese military company and is willing to sue the US Department of Defense if it isn&#39;t removed from a blacklist](https://www.pcgamer.com/games/tencent-says-its-not-a-chinese-military-company-and-is-willing-to-sue-the-us-department-of-defense-if-it-isnt-removed-from-a-blacklist/)
+ - [All Zenless Zone Zero 1.5 livestream codes](https://www.pcgamer.com/games/action/zenless-zone-zero-1-5-livestream-codes/)
+ - [Asus reveals three new Slash Travel Bags for carting around your ROG Ally—however, none of them are particularly fashion forward](https://www.pcgamer.com/hardware/handheld-gaming-pcs/asus-reveals-three-new-slash-travel-bags-for-carting-around-your-rog-ally-unfortunately-none-of-them-are-particularly-fashion-forward/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
