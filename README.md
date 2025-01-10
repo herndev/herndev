@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [How many drinks have you had?](http://9gag.com/gag/aPAgr4g)
- - ⏩ [There are Three kinds of people](http://9gag.com/gag/a87qVWZ)
- - 👉 [Hi Georgie](http://9gag.com/gag/a1mPE3G)<!-- MEMES:END -->
+ - 💣 [Hi Georgie](http://9gag.com/gag/a1mPE3G)
+ - ⏩ [The Malibu waterfront, one of the most expensive properties in the United States, has largely disappeared.](http://9gag.com/gag/awyZeBr)
+ - 👉 [The moment he draws the ass... oh my God, dat ass.](http://9gag.com/gag/aAy0v82)<!-- MEMES:END -->
 
 ---
 
