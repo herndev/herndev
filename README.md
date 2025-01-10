@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Rumble, Quora, and WeChat are among 15 companies from which Texas has demanded answers about their collection and use of data of under-18-year-olds &lpar;Paresh Dave/Wired&rpar;](http://www.techmeme.com/250110/p21#a250110p21)
- - [X&#39;s Grok AI Chatbot Comes to iOS as a Standalone App](https://www.cnet.com/tech/services-and-software/xs-grok-ai-chatbot-comes-to-ios-as-a-standalone-app/#ftag=CAD590a51e)
- - [Sources detail Zuckerberg&#39;s sprint to remake Meta after meeting with Trump at Thanksgiving; he no longer wants to keep his views of how Meta should be run quiet &lpar;New York Times&rpar;](http://www.techmeme.com/250110/p20#a250110p20)<!-- TECH:END -->
+ - [The TikTok Ban Is More Likely Than Ever](https://www.wired.com/story/tiktok-ban-supreme-court-hearing/)
+ - [Apple&#39;s Chinese New Year &#39;Shot on iPhone&#39; film is a 90&#39;s mixtape feverdream](https://appleinsider.com/articles/25/01/10/apples-chinese-new-year-shot-on-iphone-film-is-a-90s-mixtape-feverdream?utm_medium=rss)
+ - [Sources: HPE won a $1B deal in late 2024 to provide servers optimized for AI work for X; Dell and Super Micro also bid on the deal &lpar;Brody Ford/Bloomberg&rpar;](http://www.techmeme.com/250110/p24#a250110p24)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
