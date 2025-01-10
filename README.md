@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The dizzying thriller Fall does for heights what The Descent did for depths](https://www.polygon.com/what-to-watch/505360/fall-movie-hulu-best-thrillers-streaming)
- - [How to trigger Recursive Destruction in Marvel Rivals](https://www.polygon.com/marvel-rivals-guide/506852/recursive-destruction-trigger-how-to-midtown-mission)
- - [Final Fantasy 14 housing demolition delayed on NA servers due to Los Angeles wildfires](https://www.polygon.com/news/506963/final-fantasy-14-xiv-housing-demolition-delay-los-angeles-wildfires)<!-- GAME:END -->
+ - [Genki says it’s never seen the Switch 2, mock-ups were based on other leaks](https://www.polygon.com/news/507153/genki-switch-2-nintendo-leaks-fake)
+ - [The best order to watch all the Star Wars movies and shows](https://www.polygon.com/2019/11/13/20959862/star-wars-watch-order-disney-plus-movies-shows-chronological-skywalker-saga)
+ - [Five pages from Marvel’s new Star Wars series shows Jedi badassery at its height](https://www.polygon.com/star-wars/507013/marvel-comics-jedi-knights-1-preview-corlis-rath)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
