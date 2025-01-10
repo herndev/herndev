@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Amazon Has 16 More Free Games To Add To Your Massive Backlog](https://kotaku.com/amazon-prime-gaming-free-pc-steam-games-january-2025-1851736481)
- - [Discoveries](https://www.polygon.com/gaming/24215620/new-things-to-play-watch-and-experience)
- - [Alan Emrich, the game designer and writer who coined the term &#39;4X,&#39; has died](https://www.pcgamer.com/games/strategy/alan-emrich-the-game-designer-and-writer-who-coined-the-term-4x-has-died/)<!-- GAME:END -->
+ - [The most important tool in Remedy&#39;s new co-op FPS is the shower: &#39;Saving water is essential&#39;](https://www.pcgamer.com/games/fps/the-most-important-tool-in-remedys-new-co-op-fps-is-the-shower-saving-water-is-essential/)
+ - [If you missed it over the holidays, this noir Half-Life 2 mod turns you into a hardboiled detective in prohibition-era Chicago](https://www.pcgamer.com/games/fps/if-you-missed-it-over-the-holidays-this-noir-half-life-2-mod-turns-you-into-a-hardboiled-detective-in-prohibition-era-chicago/)
+ - [Path of Exile 2 players are calling foul on Elon Musk&#39;s high-level hardcore character after he streams his struggles with core game mechanics](https://www.pcgamer.com/games/rpg/path-of-exile-2-players-are-calling-foul-on-elon-musks-high-level-hardcore-character-after-he-streams-his-struggles-with-core-game-mechanics/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
