@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Tencent says it&#39;s not a Chinese military company and is willing to sue the US Department of Defense if it isn&#39;t removed from a blacklist](https://www.pcgamer.com/games/tencent-says-its-not-a-chinese-military-company-and-is-willing-to-sue-the-us-department-of-defense-if-it-isnt-removed-from-a-blacklist/)
- - [All Zenless Zone Zero 1.5 livestream codes](https://www.pcgamer.com/games/action/zenless-zone-zero-1-5-livestream-codes/)
- - [Asus reveals three new Slash Travel Bags for carting around your ROG Ally—however, none of them are particularly fashion forward](https://www.pcgamer.com/hardware/handheld-gaming-pcs/asus-reveals-three-new-slash-travel-bags-for-carting-around-your-rog-ally-unfortunately-none-of-them-are-particularly-fashion-forward/)<!-- GAME:END -->
+ - [Brennan Lee Mulligan and the Questing Queens are grappling with consequences](https://www.polygon.com/actual-play/506526/dimension-20-dungeons-drag-queens-season-2)
+ - [AMD accuses Intel&#39;s Arrow Lake of being a &#39;horrible&#39; product and implies a lack of options for consumers has caused the Ryzen 7 9800X3D shortage](https://www.pcgamer.com/hardware/processors/amd-accuses-intels-arrow-lake-of-being-a-horrible-product-and-implies-a-lack-of-options-for-consumers-has-caused-the-ryzen-7-9800x3d-shortage/)
+ - [This Jinx-inspired gaming PC is my favorite of CES 2025 and I&#39;m head over heels for the hardware](https://www.pcgamer.com/hardware/gaming-pcs/this-jinx-inspired-gaming-pc-is-my-favorite-of-ces-2025-and-im-head-over-heels-for-the-hardware/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
