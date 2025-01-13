@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [New Glenn: how to watch Blue Origin’s next big rocket launch](https://www.theverge.com/2025/1/11/24339813/blue-origin-new-glenn-rocket-launch-how-to-watch-time-date)
  - [Global smartphone shipments grew 4% YoY in 2024 after a decade-low in 2023; top two brands, Samsung and Apple, were mostly flat, while Xiaomi grew 12% YoY &lpar;Counterpoint Research&rpar;](http://www.techmeme.com/250113/p1#a250113p1)
- - [Samsung&#39;s popular 32-inch M8 monitor is on sale for $399.99](https://appleinsider.com/articles/25/01/13/samsungs-popular-32-inch-m8-monitor-is-on-sale-for-39999?utm_medium=rss)
- - [The UK PM debuts plans to increase its public sector compute by over 20x to spark a &quot;national renewal&quot;, saying the UK doesn&#39;t need to walk a US or EU path on AI &lpar;Keir Starmer/Financial Times&rpar;](http://www.techmeme.com/250112/p14#a250112p14)<!-- TECH:END -->
+ - [This was the fastest growing smartphone brand in 2024 despite its absence in US](https://www.androidauthority.com/global-smartphone-market-share-2024-3515786/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
