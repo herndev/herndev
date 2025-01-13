@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Core i9 14900KF CPU hits a world record 9.12 GHz and proves Intel chips are still good at something](https://www.pcgamer.com/hardware/processors/core-i9-14900kf-cpu-hits-a-world-record-9-12-ghz-and-proves-intel-chips-are-still-good-at-something/)
- - [New Square Enix harassment policy includes potential legal action against gamers who harass its employees](https://www.polygon.com/news/507819/square-enix-harassment-employee-worker-lawsuit-legal-action)
- - [The 10 Best Werewolf Movies Of All Time](https://kotaku.com/werewolf-movies-nightbitch-teen-wolf-1851737462)<!-- GAME:END -->
+ - [Your Friendly Neighborhood Spider-Man&#39;s Place In The MCU Timeline Revealed](https://kotaku.com/marvel-your-friendly-neighborhood-spider-man-disney-1851738403)
+ - [What time does Honkai: Star Rail 3.0 release?](https://www.polygon.com/genshin-impact-guides/507880/version-3-0-release-times-maintenance-end)
+ - [How To Deal With That Creepy New Minecraft Enemy That&#39;s Probably Following You Right Now](https://kotaku.com/minecraft-creaking-beat-mob-find-heart-1851736766)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
