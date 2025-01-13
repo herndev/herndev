@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Love at first sight](http://9gag.com/gag/amoAOA9)
- - ⏩ [Narrow escape](http://9gag.com/gag/a7oqBqm)
- - 👉 [The gourd child](http://9gag.com/gag/arymEEV)<!-- MEMES:END -->
+ - 💣 [This has been going on for far longer than I&#39;ve been working here, but every time new devs join the team &lpar;like me&rpar;, management explains why this is `necessary`. I imagine this `logic` applies to gaming industry as well](http://9gag.com/gag/aKGEyG6)
+ - ⏩ [The gourd child](http://9gag.com/gag/arymEEV)
+ - 👉 [It&#39;s all fake](http://9gag.com/gag/ayN2AGV)<!-- MEMES:END -->
 
 ---
 
