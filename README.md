@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How to swap between battle passes in Marvel Rivals](https://www.polygon.com/marvel-rivals-guide/506952/swap-battle-passes-how-to-change)
- - [The Helldivers 2 devs won’t have much to do with the movie, apparently](https://www.polygon.com/news/508080/helldivers-movie-arrowhead-games-involvement)
- - [Lord of the Rings meets the Muppets in the Land of Eem TTRPG](https://www.polygon.com/tabletop-games/508125/land-of-eem-muppets-lotr-ttrpg-preview-impresisons)<!-- GAME:END -->
+ - [Why A Major Tennis Tournament Looks Like Wii Sports On YouTube](https://kotaku.com/australian-open-wii-tennis-virtual-youtube-online-1851738723)
+ - [Percy_Verence, Elon Musk&#39;s infamous Path of Exile 2 hardcore character, dead at level 97](https://www.pcgamer.com/games/rpg/percy-verence-elon-musks-infamous-path-of-exile-2-hardcore-character-dead-at-level-97/)
+ - [How to swap between battle passes in Marvel Rivals](https://www.polygon.com/marvel-rivals-guide/506952/swap-battle-passes-how-to-change)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
