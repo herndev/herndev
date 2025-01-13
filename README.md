@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Your Friendly Neighborhood Spider-Man&#39;s Place In The MCU Timeline Revealed](https://kotaku.com/marvel-your-friendly-neighborhood-spider-man-disney-1851738403)
- - [What time does Honkai: Star Rail 3.0 release?](https://www.polygon.com/genshin-impact-guides/507880/version-3-0-release-times-maintenance-end)
- - [How To Deal With That Creepy New Minecraft Enemy That&#39;s Probably Following You Right Now](https://kotaku.com/minecraft-creaking-beat-mob-find-heart-1851736766)<!-- GAME:END -->
+ - [Live Your Best Gothy Girlboss Life With Path Of Exile 2&#39;s Witch Class](https://kotaku.com/path-of-exile-2-witch-class-skills-passive-unearth-1851736773)
+ - [An Elder Scrolls IV: Oblivion Remake Is Coming And It Could Be Out This Year](https://kotaku.com/elder-scrolls-4-oblivion-remake-release-date-tes-6-1851738447)
+ - [Severance season 2, Skeleton Crew, Netflix’s XO, Kitty, and more new TV this week](https://www.polygon.com/tv/504552/severance-season-2-netflix-xo-kitty-skeleton-crew-finale)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
