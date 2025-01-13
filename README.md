@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [It&#39;s all fake](http://9gag.com/gag/ayN2AGV)
- - ⏩ [Gender reveal, wait no...](http://9gag.com/gag/aMVE0yR)
- - 👉 [The cost of this medication.](http://9gag.com/gag/aKGEXQO)<!-- MEMES:END -->
+ - 💣 [May, 4th be with you.](http://9gag.com/gag/a0e4g2Q)
+ - ⏩ [Ginger people = black](http://9gag.com/gag/azx2zgZ)
+ - 👉 [Who remember this?](http://9gag.com/gag/aO8xE5N)<!-- MEMES:END -->
 
 ---
 
