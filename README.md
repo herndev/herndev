@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Memo: Microsoft reorgs its cloud and AI teams to form a new &quot;Core AI&quot; unit led by Jay Parikh, the ex-Lacework CEO and Meta engineering exec that joined in 2024 &lpar;Aaron Holmes/The Information&rpar;](http://www.techmeme.com/250113/p25#a250113p25)
- - [YouTube TV users say this missing feature spoils live streaming](https://www.androidauthority.com/youtube-tv-go-live-button-3515937/)
- - [Best Noise-Canceling Headphones for 2025](https://www.cnet.com/tech/mobile/best-noise-canceling-headphones/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Mercedes-Benz’s Virtual Assistant uses Google’s conversational AI agent](https://www.theverge.com/2025/1/13/24342683/mercedes-benz-mbux-virtual-assistant-google-automotive-ai-agent)
+ - [Best gear for Apple users that debuted during CES 2025](https://appleinsider.com/articles/25/01/13/best-gear-for-apple-users-that-debuted-during-ces-2025?utm_medium=rss)
+ - [8BitDo’s drift-free mobile controller is on sale for the first time](https://www.theverge.com/2025/1/13/24342650/8bitdo-ultimate-mobile-gaming-controller-samsung-m80d-smart-monitor-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
