@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [May, 4th be with you.](http://9gag.com/gag/a0e4g2Q)
- - ⏩ [Ginger people = black](http://9gag.com/gag/azx2zgZ)
- - 👉 [Who remember this?](http://9gag.com/gag/aO8xE5N)<!-- MEMES:END -->
+ - 💣 [10 years later... I think she was flirting with me!](http://9gag.com/gag/a7oqxq2)
+ - ⏩ [Muscle memory kicked in](http://9gag.com/gag/aAy0Ayo)
+ - 👉 [That zebra bit the damn croc \ud83e\udd2f](http://9gag.com/gag/aO8xOmN)<!-- MEMES:END -->
 
 ---
 
