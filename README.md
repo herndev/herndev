@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple opposes a shareholder measure calling for an end to DEI efforts, saying the proposal was an inappropriate attempt to restrict Apple&#39;s business operations &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/250110/p30#a250110p30)
- - [The best Xbox controller to buy right now](https://www.theverge.com/23025443/best-xbox-controllers-one-series-x-s)
- - [Zuckerberg says Meta&#39;s fact-checking was &quot;something out of 1984&quot; and criticized the media for hounding Facebook to clamp down on misinfo after the 2016 election &lpar;Angrej Singh/Axios&rpar;](http://www.techmeme.com/250110/p29#a250110p29)<!-- TECH:END -->
+ - [On Monday the UK will announce a five-year investment in government-owned AI computing capacity; a UK-commissioned report suggests building a ~100K GPU cluster &lpar;Financial Times&rpar;](http://www.techmeme.com/250112/p12#a250112p12)
+ - [Best Portable Chargers and Power Banks to Buy for Android in 2025](https://www.cnet.com/tech/mobile/best-portable-chargers-power-banks-for-android/#ftag=CAD590a51e)
+ - [Crime blotter: London robberies, Nashville disco, &amp; AirTag help](https://appleinsider.com/articles/25/01/12/crime-blotter-london-robberies-nashville-disco-airtag-help?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
