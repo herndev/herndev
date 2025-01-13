@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The UK has been conquered anyway....](http://9gag.com/gag/ajPV4p1)
- - ⏩ [Trap Door Spider](http://9gag.com/gag/aVvb5QP)
- - 👉 [Their signature move is a game changer](http://9gag.com/gag/aD2Ye4G)<!-- MEMES:END -->
+ - 💣 [This was fast...](http://9gag.com/gag/avyQw5b)
+ - ⏩ [Husband being husband](http://9gag.com/gag/aRBEpzG)
+ - 👉 [Someone handed me this card at the bar.](http://9gag.com/gag/aBydMv1)<!-- MEMES:END -->
 
 ---
 
