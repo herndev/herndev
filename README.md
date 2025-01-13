@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [In italy, this is mobbing and illegal](http://9gag.com/gag/a7oqm6r)
- - ⏩ [I wonder if God trolls us](http://9gag.com/gag/a7oqmwL)
- - 👉 [It&#39;s all fake](http://9gag.com/gag/ayN2AGV)<!-- MEMES:END -->
+ - 💣 [She drugs me to keep me a vegetable](http://9gag.com/gag/aE0qKy9)
+ - ⏩ [The gourd child](http://9gag.com/gag/arymEEV)
+ - 👉 [Narrow escape](http://9gag.com/gag/a7oqBqm)<!-- MEMES:END -->
 
 ---
 
