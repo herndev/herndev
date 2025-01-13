@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Powerwash Simulator studio ends VR development, but at least there are no layoffs happening](https://www.pcgamer.com/games/sim/powerwash-simulator-studio-ends-vr-development-but-at-least-there-are-no-layoffs-happening/)
- - [Hyper Light Breaker has great combat, impeccable vibes, and its ambitious randomized open worlds actually work⁠—the real test is if it goes the distance in early access](https://www.pcgamer.com/games/roguelike/hyper-light-breaker-has-great-combat-impeccable-vibes-and-its-ambitious-randomized-open-worlds-actually-work-the-real-test-is-if-it-goes-the-distance-in-early-access/)
- - [How to install a new SSD in your Asus ROG Ally](https://www.polygon.com/gaming/506956/how-to-install-m2-ssd-asus-rog-ally-x)<!-- GAME:END -->
+ - [How to swap between battle passes in Marvel Rivals](https://www.polygon.com/marvel-rivals-guide/506952/swap-battle-passes-how-to-change)
+ - [The Helldivers 2 devs won’t have much to do with the movie, apparently](https://www.polygon.com/news/508080/helldivers-movie-arrowhead-games-involvement)
+ - [Lord of the Rings meets the Muppets in the Land of Eem TTRPG](https://www.polygon.com/tabletop-games/508125/land-of-eem-muppets-lotr-ttrpg-preview-impresisons)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
