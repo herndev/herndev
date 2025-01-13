@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A report on CES 2025: tech giants were mostly absent, Nvidia&#39;s keynote was a big event, AI experimentation, supply chains adapting to geopolitics, and more &lpar;Steven Sinofsky/Hardcore Software&rpar;](http://www.techmeme.com/250113/p4#a250113p4)
- - [Pre-reserving a Galaxy S25 could win you $5,000 Samsung Credit!](https://www.androidauthority.com/samsung-galaxy-s25-pre-reservation-offers-3515798/)
- - [Best Weightlifting Shoes for 2025](https://www.cnet.com/health/fitness/best-weightlifting-shoes/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The Clock Is Ticking on APYs Up to 4.65%. Today&#39;s CD Rates, Jan. 13, 2025](https://www.cnet.com/personal-finance/banking/the-clock-is-ticking-on-apys-up-to-4-65-todays-cd-rates-jan-13-2025/#ftag=CAD590a51e)
+ - [iPhone 17 Pro could ditch 12MP cameras once and for all](https://www.androidauthority.com/iphone-17-pro-ditch-12mp-cameras-3515820/)
+ - [Inside the Black Box of Predictive Travel Surveillance](https://www.wired.com/story/inside-the-black-box-of-predictive-travel-surveillance/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
