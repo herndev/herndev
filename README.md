@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This has been going on for far longer than I&#39;ve been working here, but every time new devs join the team &lpar;like me&rpar;, management explains why this is `necessary`. I imagine this `logic` applies to gaming industry as well](http://9gag.com/gag/aKGEyG6)
- - ⏩ [The gourd child](http://9gag.com/gag/arymEEV)
+ - 💣 [In italy, this is mobbing and illegal](http://9gag.com/gag/a7oqm6r)
+ - ⏩ [I wonder if God trolls us](http://9gag.com/gag/a7oqmwL)
  - 👉 [It&#39;s all fake](http://9gag.com/gag/ayN2AGV)<!-- MEMES:END -->
 
 ---
