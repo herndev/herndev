@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [That zebra bit the damn croc \ud83e\udd2f](http://9gag.com/gag/aO8xOmN)
+ - 💣 [Unexpected](http://9gag.com/gag/avyQV1M)
  - ⏩ [10 years later... I think she was flirting with me!](http://9gag.com/gag/a7oqxq2)
- - 👉 [Chinese Police Use a Scissor Leg Takedown to Subdue Target in Anti Terror Drill](http://9gag.com/gag/a9yqGd6)<!-- MEMES:END -->
+ - 👉 [Insert funny title](http://9gag.com/gag/a5QX3Ko)<!-- MEMES:END -->
 
 ---
 
