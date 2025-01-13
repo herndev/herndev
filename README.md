@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [After Sonic 3, Fans Are Going Ham On Gay Edits Of Eggman And His Henchman](https://kotaku.com/sonic-movies-eggman-robotnik-agent-stone-stobotnik-gay-1851738189)
- - [That Weird Biopic Starring A Digital Monkey Flopped Hard At The Box Office](https://kotaku.com/better-man-flop-box-office-monkey-cg-robbie-williams-1851738179)
- - [Where to buy HeroQuest First Light](https://www.polygon.com/deals/507761/heroquest-first-light-where-to-buy)<!-- GAME:END -->
+ - [Core i9 14900KF CPU hits a world record 9.12 GHz and proves Intel chips are still good at something](https://www.pcgamer.com/hardware/processors/core-i9-14900kf-cpu-hits-a-world-record-9-12-ghz-and-proves-intel-chips-are-still-good-at-something/)
+ - [New Square Enix harassment policy includes potential legal action against gamers who harass its employees](https://www.polygon.com/news/507819/square-enix-harassment-employee-worker-lawsuit-legal-action)
+ - [The 10 Best Werewolf Movies Of All Time](https://kotaku.com/werewolf-movies-nightbitch-teen-wolf-1851737462)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
