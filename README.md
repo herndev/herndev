@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Nice catch on national television](http://9gag.com/gag/awyZDwR)
- - ⏩ [This has been going on for far longer than I&#39;ve been working here, but every time new devs join the team &lpar;like me&rpar;, management explains why this is `necessary`. I imagine this `logic` applies to gaming industry as well](http://9gag.com/gag/aKGEyG6)
- - 👉 [Brand new floor DESTROYED by painters\u2026](http://9gag.com/gag/a4Pom2d)<!-- MEMES:END -->
+ - 💣 [Love at first sight](http://9gag.com/gag/amoAOA9)
+ - ⏩ [Narrow escape](http://9gag.com/gag/a7oqBqm)
+ - 👉 [The gourd child](http://9gag.com/gag/arymEEV)<!-- MEMES:END -->
 
 ---
 
