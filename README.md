@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Today only: 14-inch MacBook Pro &lpar;M3 Pro, 36GB RAM, 1TB&rpar; plunges to $1,999](https://appleinsider.com/articles/25/01/13/today-only-14-inch-macbook-pro-m3-pro-36gb-ram-1tb-plunges-to-1999?utm_medium=rss)
- - [Sources: Indian investment app Groww plans to file for an IPO within 10-12 months, seeking a $6B-$8B valuation; Groww was last valued at $3B in October 2021 &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/250113/p3#a250113p3)
- - [Starlink has disrupted Kenya&#39;s existing ISP industry since its launch in July 2023, forcing legacy providers to lower prices and increase internet speeds &lpar;Rest of World&rpar;](http://www.techmeme.com/250113/p2#a250113p2)<!-- TECH:END -->
+ - [Pre-reserving a Galaxy S25 could win you $5,000 Samsung Credit!](https://www.androidauthority.com/samsung-galaxy-s25-pre-reservation-offers-3515798/)
+ - [Best Weightlifting Shoes for 2025](https://www.cnet.com/health/fitness/best-weightlifting-shoes/#ftag=CAD590a51e)
+ - [Today only: 14-inch MacBook Pro &lpar;M3 Pro, 36GB RAM, 1TB&rpar; plunges to $1,999](https://appleinsider.com/articles/25/01/13/today-only-14-inch-macbook-pro-m3-pro-36gb-ram-1tb-plunges-to-1999?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
