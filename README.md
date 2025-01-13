@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A report on CES 2025: tech giants were mostly absent, Nvidia&#39;s keynote was a big event, AI experimentation, supply chains adapting to geopolitics, and more &lpar;Steven Sinofsky/Hardcore Software&rpar;](http://www.techmeme.com/250113/p4#a250113p4)
  - [Pre-reserving a Galaxy S25 could win you $5,000 Samsung Credit!](https://www.androidauthority.com/samsung-galaxy-s25-pre-reservation-offers-3515798/)
- - [Best Weightlifting Shoes for 2025](https://www.cnet.com/health/fitness/best-weightlifting-shoes/#ftag=CAD590a51e)
- - [Today only: 14-inch MacBook Pro &lpar;M3 Pro, 36GB RAM, 1TB&rpar; plunges to $1,999](https://appleinsider.com/articles/25/01/13/today-only-14-inch-macbook-pro-m3-pro-36gb-ram-1tb-plunges-to-1999?utm_medium=rss)<!-- TECH:END -->
+ - [Best Weightlifting Shoes for 2025](https://www.cnet.com/health/fitness/best-weightlifting-shoes/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
