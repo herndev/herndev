@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Marvel Rivals starts 2025 by clobberin&#39; the most played charts, hitting over 640,000 players on Steam alone](https://www.pcgamer.com/games/third-person-shooter/marvel-rivals-starts-2025-by-clobberin-the-most-played-charts-hitting-over-640-000-players-on-steam-alone/)
- - [Chris Roberts sallies forth to declare &#39;we are closer than ever to realizing a dream many have said is impossible&#39; with Star Citizen, but I&#39;m sure I&#39;ve heard this record before](https://www.pcgamer.com/games/mmo/chris-roberts-sallies-forth-to-declare-we-are-closer-than-ever-to-realizing-a-dream-many-have-said-is-impossible-with-star-citizen-but-im-sure-ive-heard-this-record-before/)
- - [It’s time for independent tabletop role-playing games to get loud](https://www.polygon.com/opinion/506731/indie-ttrpg-creators-self-promotion-crowdfunding-collab-funding-2025)<!-- GAME:END -->
+ - [Nintendo Is Reportedly Just Days Away From Announcing The Switch 2](https://kotaku.com/switch-2-announcement-nintendo-console-rumor-date-1851738104)
+ - [Marvel Rivals Mods Are Back For Fans Willing To Risk It All To Play As Vegeta Or 19 Inches Of Venom](https://kotaku.com/marvel-rivals-mods-ban-guide-tutorial-workaround-1851738047)
+ - [Halls of Torment review](https://www.pcgamer.com/games/action/halls-of-torment-review/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
