@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Someone handed me this card at the bar.](http://9gag.com/gag/aBydMv1)
- - ⏩ [Happiness at work](http://9gag.com/gag/amoAOrv)
- - 👉 [It&#39;s all fake](http://9gag.com/gag/ayN2AGV)<!-- MEMES:END -->
+ - 💣 [Ice Ice Baby](http://9gag.com/gag/aoyKo8m)
+ - ⏩ [It&#39;s all fake](http://9gag.com/gag/ayN2AGV)
+ - 👉 [Concrete and stones.That\u2019s the miracle.](http://9gag.com/gag/avyQB0E)<!-- MEMES:END -->
 
 ---
 
