@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [She drugs me to keep me a vegetable](http://9gag.com/gag/aE0qKy9)
- - ⏩ [The gourd child](http://9gag.com/gag/arymEEV)
- - 👉 [Narrow escape](http://9gag.com/gag/a7oqBqm)<!-- MEMES:END -->
+ - 💣 [Someone handed me this card at the bar.](http://9gag.com/gag/aBydMv1)
+ - ⏩ [Happiness at work](http://9gag.com/gag/amoAOrv)
+ - 👉 [It&#39;s all fake](http://9gag.com/gag/ayN2AGV)<!-- MEMES:END -->
 
 ---
 
