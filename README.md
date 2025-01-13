@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Home Security Cameras for Apple HomeKit and Siri in 2025](https://www.cnet.com/home/security/best-home-security-cameras-for-apple-homekit-and-siri/#ftag=CAD590a51e)
- - [Microsoft notifies customers in Australia, New Zealand, Malaysia, Singapore, Taiwan, and Thailand of upcoming ~30% to ~45% price hikes for Microsoft 365 plans &lpar;Simon Sharwood/The Register&rpar;](http://www.techmeme.com/250112/p13#a250112p13)
- - [On Monday the UK will announce a five-year investment in government-owned AI computing capacity; a UK-commissioned report suggests building a ~100K GPU cluster &lpar;Financial Times&rpar;](http://www.techmeme.com/250112/p12#a250112p12)<!-- TECH:END -->
+ - [Samsung&#39;s popular 32-inch M8 monitor is on sale for $399.99](https://appleinsider.com/articles/25/01/13/samsungs-popular-32-inch-m8-monitor-is-on-sale-for-39999?utm_medium=rss)
+ - [The UK PM debuts plans to increase its public sector compute by over 20x to spark a &quot;national renewal&quot;, saying the UK doesn&#39;t need to walk a US or EU path on AI &lpar;Keir Starmer/Financial Times&rpar;](http://www.techmeme.com/250112/p14#a250112p14)
+ - [ASUS is ditching compact again as Zenfone 12 Ultra launch gets confirmed for next month](https://www.androidauthority.com/asus-zenfone-12-ultra-launch-date-3515781/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
