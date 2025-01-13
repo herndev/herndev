@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sonos’ interim CEO hits all the right notes in first letter to employees](https://www.theverge.com/2025/1/13/24342354/sonos-interim-ceo-tom-conrad-employee-letter)
- - [The Sonos app fiasco: how a great audio brand nearly ruined its reputation](https://www.theverge.com/2025/1/13/24342282/sonos-app-redesign-controversy-full-story)
- - [Sonos CEO Patrick Spence steps down after disastrous app launch](https://www.theverge.com/2025/1/13/24342179/sonos-ceo-patrick-spence-resignation-reason-app)<!-- TECH:END -->
+ - [Adobe’s new AI tool can edit 10,000 images in one click](https://www.theverge.com/2025/1/13/24342622/adobe-firefly-bulk-create-api-announcement-availability)
+ - [Sources share details on the amorphous DOGE, largely a collection of Signal group chats coordinating US policy or personnel recommendations and recruitment &lpar;New York Times&rpar;](http://www.techmeme.com/250113/p17#a250113p17)
+ - [Sonos CEO leaves company over botched iOS app](https://appleinsider.com/articles/25/01/13/sonos-ceo-leaves-company-over-botched-ios-app?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
