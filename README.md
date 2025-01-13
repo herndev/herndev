@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Unexpected](http://9gag.com/gag/avyQV1M)
- - ⏩ [10 years later... I think she was flirting with me!](http://9gag.com/gag/a7oqxq2)
- - 👉 [Insert funny title](http://9gag.com/gag/a5QX3Ko)<!-- MEMES:END -->
+ - 💣 [It&#39;s a me! Luigi!](http://9gag.com/gag/aBydeAQ)
+ - ⏩ [The gourd child](http://9gag.com/gag/arymEEV)
+ - 👉 [Super Nona!](http://9gag.com/gag/aPAg2OR)<!-- MEMES:END -->
 
 ---
 
