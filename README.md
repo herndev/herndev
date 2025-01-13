@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [eBay’s new acquisition could make it easy to buy a car from anywhere](https://www.theverge.com/2025/1/13/24342858/ebay-acquires-caramel-online-car-transaction-platform)
- - [Parallels 20.2 trials x86 VMs on Apple Silicon, bringing Linux &amp; Windows 11 support](https://appleinsider.com/articles/25/01/13/parallels-202-trials-x86-vms-on-apple-silicon-bringing-linux-windows-11-support?utm_medium=rss)
- - [Free Our Feeds wants to build a social media ecosystem ‘resistant to billionaire influence’](https://www.theverge.com/2025/1/13/24342799/free-our-feeds-social-media-ecosystem-at-protocol-bluesky)<!-- TECH:END -->
+ - [An investigation finds 15 police departments across 12 US states have arrested suspects identified through facial recognition without having any other evidence &lpar;Washington Post&rpar;](http://www.techmeme.com/250113/p32#a250113p32)
+ - [Nintendo’s Alarmo will be available for everyone starting in March](https://www.theverge.com/2025/1/13/24342984/nintendo-alarmo-wide-release-date)
+ - [This Throbbing High-Tech Sound Bath Cleansed Me of Stress After CES 2025](https://www.cnet.com/health/mental/this-throbbing-high-tech-sound-bath-cleansed-me-of-stress-after-ces-2025/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
