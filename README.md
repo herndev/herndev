@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple teases opening of new downtown Miami store](https://appleinsider.com/articles/25/01/10/apple-teases-opening-of-new-downtown-miami-store?utm_medium=rss)
- - [The Biden admin says chip orders with collective computation power up to ~1,700 advanced GPUs need no license and don&#39;t count against country specific chip caps &lpar;Karen Freifeld/Reuters&rpar;](http://www.techmeme.com/250113/p7#a250113p7)
- - [Vitamin E: Benefits, Drawbacks, Supplements and How to Get It in Your Diet](https://www.cnet.com/health/nutrition/vitamin-e-benefits-drawbacks-supplements-how-get-in-diet/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sonos’ interim CEO hits all the right notes in first letter to employees](https://www.theverge.com/2025/1/13/24342354/sonos-interim-ceo-tom-conrad-employee-letter)
+ - [The Sonos app fiasco: how a great audio brand nearly ruined its reputation](https://www.theverge.com/2025/1/13/24342282/sonos-app-redesign-controversy-full-story)
+ - [Sonos CEO Patrick Spence steps down after disastrous app launch](https://www.theverge.com/2025/1/13/24342179/sonos-ceo-patrick-spence-resignation-reason-app)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
