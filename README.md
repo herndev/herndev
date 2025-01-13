@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at Troodi, a mental health chatbot built by AI startup Elomia Health for Troomi&#39;s child-focused phones, with thousands of teen users across the US &lpar;Julie Jargon/Wall Street Journal&rpar;](http://www.techmeme.com/250113/p24#a250113p24)
- - [New hack breaks open Apple&#39;s USB-C security](https://appleinsider.com/articles/25/01/13/usb-c-vulnerability-could-result-in-new-iphone-jailbreak-techniques?utm_medium=rss)
- - [Apple&#39;s iPad mini 7 drops to $399, the lowest price on record](https://appleinsider.com/articles/25/01/13/apples-ipad-mini-7-drops-to-399-the-lowest-price-on-record?utm_medium=rss)<!-- TECH:END -->
+ - [Memo: Microsoft reorgs its cloud and AI teams to form a new &quot;Core AI&quot; unit led by Jay Parikh, the ex-Lacework CEO and Meta engineering exec that joined in 2024 &lpar;Aaron Holmes/The Information&rpar;](http://www.techmeme.com/250113/p25#a250113p25)
+ - [YouTube TV users say this missing feature spoils live streaming](https://www.androidauthority.com/youtube-tv-go-live-button-3515937/)
+ - [Best Noise-Canceling Headphones for 2025](https://www.cnet.com/tech/mobile/best-noise-canceling-headphones/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
