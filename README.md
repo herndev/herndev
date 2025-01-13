@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Mercedes-Benz’s Virtual Assistant uses Google’s conversational AI agent](https://www.theverge.com/2025/1/13/24342683/mercedes-benz-mbux-virtual-assistant-google-automotive-ai-agent)
- - [Best gear for Apple users that debuted during CES 2025](https://appleinsider.com/articles/25/01/13/best-gear-for-apple-users-that-debuted-during-ces-2025?utm_medium=rss)
- - [8BitDo’s drift-free mobile controller is on sale for the first time](https://www.theverge.com/2025/1/13/24342650/8bitdo-ultimate-mobile-gaming-controller-samsung-m80d-smart-monitor-deal-sale)<!-- TECH:END -->
+ - [Mortgage Predictions for Week of Jan. 13-19: Everything to Know About Rates](https://www.cnet.com/personal-finance/mortgage-predictions-for-week-of-jan-13-19-everything-to-know-about-rates/#ftag=CAD590a51e)
+ - [Sources: Chainalysis acquires AI-agent security startup Alterya for ~$150M; Alterya is still in stealth mode but has clients including Coinbase, Square, Binance &lpar;Leena Rao/Business Insider&rpar;](http://www.techmeme.com/250113/p30#a250113p30)
+ - [8 Steps for Homeowners When Your Property Is Destroyed by a Wildfire](https://www.cnet.com/personal-finance/insurance/8-steps-for-homeowners-when-your-property-is-destroyed-by-a-wildfire/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
