@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The cost of this medication.](http://9gag.com/gag/aKGEXQO)
- - ⏩ [Bowling pin gets picked up by machine just before it was about to drop](http://9gag.com/gag/aXPnzXd)
- - 👉 [Gender reveal, wait no...](http://9gag.com/gag/aMVE0yR)<!-- MEMES:END -->
+ - 💣 [Even the dog dont know what happened](http://9gag.com/gag/arymw50)
+ - ⏩ [Unexpected](http://9gag.com/gag/avyQV1M)
+ - 👉 [That zebra bit the damn croc \ud83e\udd2f](http://9gag.com/gag/aO8xOmN)<!-- MEMES:END -->
 
 ---
 
