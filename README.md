@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [If you&#39;re trying to convince me your &#39;companionship&#39; robot is &#39;lifelike&#39;, maybe don&#39;t rip her face off in the demo video](https://www.pcgamer.com/hardware/if-youre-trying-to-convince-me-your-companionship-robot-is-lifelike-maybe-dont-rip-her-face-off-in-the-demo-video/)
- - [Square Enix launches new anti-harassment policy to protect its employees and partners from abusive fans](https://www.pcgamer.com/gaming-industry/square-enix-launches-new-anti-harassment-policy-to-protect-its-employees-and-partners-from-abusive-fans/)
- - [Feeding Sodas To A Demonic Puppy Makes You Stronger In This New FPS](https://kotaku.com/cruel-boomer-shooter-retro-fps-pc-steam-2025-review-1851737479)<!-- GAME:END -->
+ - [An ambitious Counter-Strike mod to emulate the OG 1.6 experience in Global Offensive has been rejected by Valve after 8 years of development](https://www.pcgamer.com/games/fps/an-ambitious-counter-strike-mod-to-emulate-the-og-1-6-experience-in-global-offensive-has-been-rejected-by-valve-after-8-years-of-development/)
+ - [When 2K removed its annoying launcher it broke a bunch of XCOM 2 mods](https://www.pcgamer.com/games/strategy/when-2k-removed-its-annoying-launcher-it-broke-a-bunch-of-xcom-2-mods/)
+ - [Can’t wait for Severance season 2? Watch Ben Stiller’s first mystery-box thriller, now on Netflix](https://www.polygon.com/entertainment/504338/ben-stiller-netflix-escape-at-dannemora-severance-thriller)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
