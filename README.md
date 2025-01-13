@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Blackrock be like: JACKPOT!](http://9gag.com/gag/a7oqAYL)
- - ⏩ [Cap? Any update on LA fires if these two are still around?](http://9gag.com/gag/aO8xGD2)
- - 👉 [Why yes, I&#39;m a fan of classic Italian cinema](http://9gag.com/gag/ajPVdDx)<!-- MEMES:END -->
+ - 💣 [Nice catch on national television](http://9gag.com/gag/awyZDwR)
+ - ⏩ [This has been going on for far longer than I&#39;ve been working here, but every time new devs join the team &lpar;like me&rpar;, management explains why this is `necessary`. I imagine this `logic` applies to gaming industry as well](http://9gag.com/gag/aKGEyG6)
+ - 👉 [Brand new floor DESTROYED by painters\u2026](http://9gag.com/gag/a4Pom2d)<!-- MEMES:END -->
 
 ---
 
