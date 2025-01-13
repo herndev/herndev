@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Even the dog dont know what happened](http://9gag.com/gag/arymw50)
- - ⏩ [Never had real value](http://9gag.com/gag/aVvb5Rv)
- - 👉 [Unexpected](http://9gag.com/gag/avyQV1M)<!-- MEMES:END -->
+ - ⏩ [What a beautiful memory](http://9gag.com/gag/aQzE537)
+ - 👉 [Never had real value](http://9gag.com/gag/aVvb5Rv)<!-- MEMES:END -->
 
 ---
 
