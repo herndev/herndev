@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Clock Is Ticking on APYs Up to 4.65%. Today&#39;s CD Rates, Jan. 13, 2025](https://www.cnet.com/personal-finance/banking/the-clock-is-ticking-on-apys-up-to-4-65-todays-cd-rates-jan-13-2025/#ftag=CAD590a51e)
- - [iPhone 17 Pro could ditch 12MP cameras once and for all](https://www.androidauthority.com/iphone-17-pro-ditch-12mp-cameras-3515820/)
- - [Inside the Black Box of Predictive Travel Surveillance](https://www.wired.com/story/inside-the-black-box-of-predictive-travel-surveillance/)<!-- TECH:END -->
+ - [Apple teases opening of new downtown Miami store](https://appleinsider.com/articles/25/01/10/apple-teases-opening-of-new-downtown-miami-store?utm_medium=rss)
+ - [The Biden admin says chip orders with collective computation power up to ~1,700 advanced GPUs need no license and don&#39;t count against country specific chip caps &lpar;Karen Freifeld/Reuters&rpar;](http://www.techmeme.com/250113/p7#a250113p7)
+ - [Vitamin E: Benefits, Drawbacks, Supplements and How to Get It in Your Diet](https://www.cnet.com/health/nutrition/vitamin-e-benefits-drawbacks-supplements-how-get-in-diet/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
