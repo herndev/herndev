@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Why CEO Matt Garman is willing to bet AWS on AI](https://www.theverge.com/24338171/aws-ceo-matt-garman-ai-chips-anthropic-cloud-computing-trainium-decoder-podcast-interview)
- - [Nvidia announces partnerships with Illumina, the Mayo Clinic, and other companies as part of its push to encourage AI adoption by the health care industry &lpar;Ian King/Bloomberg&rpar;](http://www.techmeme.com/250113/p21#a250113p21)
- - [Sources: Microsoft, Meta, AWS, and Google recently cut some orders of Nvidia&#39;s Blackwell GB200 racks, as overheating and connection glitches lead to delays &lpar;The Information&rpar;](http://www.techmeme.com/250113/p20#a250113p20)<!-- TECH:END -->
+ - [A look at Troodi, a mental health chatbot built by AI startup Elomia Health for Troomi&#39;s child-focused phones, with thousands of teen users across the US &lpar;Julie Jargon/Wall Street Journal&rpar;](http://www.techmeme.com/250113/p24#a250113p24)
+ - [New hack breaks open Apple&#39;s USB-C security](https://appleinsider.com/articles/25/01/13/usb-c-vulnerability-could-result-in-new-iphone-jailbreak-techniques?utm_medium=rss)
+ - [Apple&#39;s iPad mini 7 drops to $399, the lowest price on record](https://appleinsider.com/articles/25/01/13/apples-ipad-mini-7-drops-to-399-the-lowest-price-on-record?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
