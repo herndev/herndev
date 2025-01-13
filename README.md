@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Not in LA... i say NOT in LA](http://9gag.com/gag/aGyE5nZ)
- - ⏩ [Watch out for the deer!](http://9gag.com/gag/azx2z8x)
- - 👉 [I&#39;m sitting here rocking in my chair to give this guy the momentum he needs](http://9gag.com/gag/amoAym9)<!-- MEMES:END -->
+ - 💣 [Even the dog dont know what happened](http://9gag.com/gag/arymw50)
+ - ⏩ [Never had real value](http://9gag.com/gag/aVvb5Rv)
+ - 👉 [Unexpected](http://9gag.com/gag/avyQV1M)<!-- MEMES:END -->
 
 ---
 
