@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Marvel Rivals players have found a workaround for mods, but it involves potentially frying your PC and sacrificing your framerates](https://www.pcgamer.com/games/third-person-shooter/marvel-rivals-players-have-found-a-workaround-for-mods-but-it-involves-potentially-frying-your-pc-and-sacrificing-your-framerates/)
- - [It&#39;s hard to believe but 22% of PC gaming monitors are now OLED panels](https://www.pcgamer.com/hardware/gaming-monitors/its-hard-to-believe-but-22-percent-of-pc-gaming-monitors-are-now-oled-panels/)
- - [Dynasty Warriors: Origins Truly Reinvents a Decades-Long Series](https://news.xbox.com/en-us/2025/01/13/dynasty-warriors-origins/)<!-- GAME:END -->
+ - [It’s time for independent tabletop role-playing games to get loud](https://www.polygon.com/opinion/506731/indie-ttrpg-creators-self-promotion-crowdfunding-collab-funding-2025)
+ - [Marvel Rivals Midnight Features event missions and rewards so far](https://www.polygon.com/marvel-rivals-guide/506811/midnight-features-event-rewards)
+ - [Around 66 accounts in Path of Exile 2 were compromised, due to a one-two punch of an old unused Steam account and a backend bug](https://www.pcgamer.com/games/rpg/around-66-accounts-in-path-of-exile-2-were-compromised-due-to-a-one-two-punch-of-an-old-unused-steam-account-and-a-backend-bug/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
