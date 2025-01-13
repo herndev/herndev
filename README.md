@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Adobe’s new AI tool can edit 10,000 images in one click](https://www.theverge.com/2025/1/13/24342622/adobe-firefly-bulk-create-api-announcement-availability)
- - [Sources share details on the amorphous DOGE, largely a collection of Signal group chats coordinating US policy or personnel recommendations and recruitment &lpar;New York Times&rpar;](http://www.techmeme.com/250113/p17#a250113p17)
- - [Sonos CEO leaves company over botched iOS app](https://appleinsider.com/articles/25/01/13/sonos-ceo-leaves-company-over-botched-ios-app?utm_medium=rss)<!-- TECH:END -->
+ - [Why CEO Matt Garman is willing to bet AWS on AI](https://www.theverge.com/24338171/aws-ceo-matt-garman-ai-chips-anthropic-cloud-computing-trainium-decoder-podcast-interview)
+ - [Nvidia announces partnerships with Illumina, the Mayo Clinic, and other companies as part of its push to encourage AI adoption by the health care industry &lpar;Ian King/Bloomberg&rpar;](http://www.techmeme.com/250113/p21#a250113p21)
+ - [Sources: Microsoft, Meta, AWS, and Google recently cut some orders of Nvidia&#39;s Blackwell GB200 racks, as overheating and connection glitches lead to delays &lpar;The Information&rpar;](http://www.techmeme.com/250113/p20#a250113p20)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
