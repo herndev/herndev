@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [An investigation finds 15 police departments across 12 US states have arrested suspects identified through facial recognition without having any other evidence &lpar;Washington Post&rpar;](http://www.techmeme.com/250113/p32#a250113p32)
- - [Nintendo’s Alarmo will be available for everyone starting in March](https://www.theverge.com/2025/1/13/24342984/nintendo-alarmo-wide-release-date)
- - [This Throbbing High-Tech Sound Bath Cleansed Me of Stress After CES 2025](https://www.cnet.com/health/mental/this-throbbing-high-tech-sound-bath-cleansed-me-of-stress-after-ces-2025/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Samsung is working to make high-speed 50W wireless charging mainstream](https://www.androidauthority.com/samsung-chip-50w-wireless-charging-3516122/)
+ - [Meta is already working on Community Notes for Threads](https://www.theverge.com/2025/1/13/24342930/meta-threads-community-notes-leaks)
+ - [IIllinois will implement digital IDs and driver&#39;s licenses for Apple Wallet in 2025](https://appleinsider.com/articles/25/01/13/iillinois-will-implement-digital-ids-and-drivers-licenses-for-apple-wallet-in-2025?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
