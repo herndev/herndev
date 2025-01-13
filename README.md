@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung is working to make high-speed 50W wireless charging mainstream](https://www.androidauthority.com/samsung-chip-50w-wireless-charging-3516122/)
- - [Meta is already working on Community Notes for Threads](https://www.theverge.com/2025/1/13/24342930/meta-threads-community-notes-leaks)
- - [IIllinois will implement digital IDs and driver&#39;s licenses for Apple Wallet in 2025](https://appleinsider.com/articles/25/01/13/iillinois-will-implement-digital-ids-and-drivers-licenses-for-apple-wallet-in-2025?utm_medium=rss)<!-- TECH:END -->
+ - [Microsoft is creating a new &quot;CoreAI - Platform and Tools&quot; unit led by Jay Parikh, the ex-Lacework CEO and Meta engineering executive who joined in October 2024 &lpar;Todd Bishop/GeekWire&rpar;](http://www.techmeme.com/250113/p36#a250113p36)
+ - [The Apple iPad Mini A17 Pro drops to its all-time-low price, saving you $100](https://www.androidauthority.com/apple-ipad-mini-a17-pro-deal-2-3516098/)
+ - [Android 16 may bring predictive back support to three-button navigation](https://www.androidauthority.com/three-button-predictive-back-3516138/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
