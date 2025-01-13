@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Marvel Rivals players have found a workaround for mods, but it involves potentially frying your PC and sacrificing your framerates](https://www.pcgamer.com/games/third-person-shooter/marvel-rivals-players-have-found-a-workaround-for-mods-but-it-involves-potentially-frying-your-pc-and-sacrificing-your-framerates/)
  - [It&#39;s hard to believe but 22% of PC gaming monitors are now OLED panels](https://www.pcgamer.com/hardware/gaming-monitors/its-hard-to-believe-but-22-percent-of-pc-gaming-monitors-are-now-oled-panels/)
- - [Dynasty Warriors: Origins Truly Reinvents a Decades-Long Series](https://news.xbox.com/en-us/2025/01/13/dynasty-warriors-origins/)
- - [Dynasty Warriors: Origins turns in a bold new direction](https://www.polygon.com/review/507137/dynasty-warriors-origins-review-pc-xbox-ps5)<!-- GAME:END -->
+ - [Dynasty Warriors: Origins Truly Reinvents a Decades-Long Series](https://news.xbox.com/en-us/2025/01/13/dynasty-warriors-origins/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
