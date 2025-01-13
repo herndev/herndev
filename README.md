@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Ice Ice Baby](http://9gag.com/gag/aoyKo8m)
- - ⏩ [It&#39;s all fake](http://9gag.com/gag/ayN2AGV)
- - 👉 [Concrete and stones.That\u2019s the miracle.](http://9gag.com/gag/avyQB0E)<!-- MEMES:END -->
+ - 💣 [The gourd child](http://9gag.com/gag/arymEEV)
+ - ⏩ [Nice catch on national television](http://9gag.com/gag/awyZDwR)
+ - 👉 [This has been going on for far longer than I&#39;ve been working here, but every time new devs join the team &lpar;like me&rpar;, management explains why this is `necessary`. I imagine this `logic` applies to gaming industry as well](http://9gag.com/gag/aKGEyG6)<!-- MEMES:END -->
 
 ---
 
