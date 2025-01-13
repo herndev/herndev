@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [It’s time for independent tabletop role-playing games to get loud](https://www.polygon.com/opinion/506731/indie-ttrpg-creators-self-promotion-crowdfunding-collab-funding-2025)
- - [Marvel Rivals Midnight Features event missions and rewards so far](https://www.polygon.com/marvel-rivals-guide/506811/midnight-features-event-rewards)
- - [Around 66 accounts in Path of Exile 2 were compromised, due to a one-two punch of an old unused Steam account and a backend bug](https://www.pcgamer.com/games/rpg/around-66-accounts-in-path-of-exile-2-were-compromised-due-to-a-one-two-punch-of-an-old-unused-steam-account-and-a-backend-bug/)<!-- GAME:END -->
+ - [Marvel Rivals starts 2025 by clobberin&#39; the most played charts, hitting over 640,000 players on Steam alone](https://www.pcgamer.com/games/third-person-shooter/marvel-rivals-starts-2025-by-clobberin-the-most-played-charts-hitting-over-640-000-players-on-steam-alone/)
+ - [Chris Roberts sallies forth to declare &#39;we are closer than ever to realizing a dream many have said is impossible&#39; with Star Citizen, but I&#39;m sure I&#39;ve heard this record before](https://www.pcgamer.com/games/mmo/chris-roberts-sallies-forth-to-declare-we-are-closer-than-ever-to-realizing-a-dream-many-have-said-is-impossible-with-star-citizen-but-im-sure-ive-heard-this-record-before/)
+ - [It’s time for independent tabletop role-playing games to get loud](https://www.polygon.com/opinion/506731/indie-ttrpg-creators-self-promotion-crowdfunding-collab-funding-2025)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
