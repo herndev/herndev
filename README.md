@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Even the dog dont know what happened](http://9gag.com/gag/arymw50)
- - ⏩ [What a beautiful memory](http://9gag.com/gag/aQzE537)
- - 👉 [Never had real value](http://9gag.com/gag/aVvb5Rv)<!-- MEMES:END -->
+ - 💣 [The UK has been conquered anyway....](http://9gag.com/gag/ajPV4p1)
+ - ⏩ [Trap Door Spider](http://9gag.com/gag/aVvb5QP)
+ - 👉 [Their signature move is a game changer](http://9gag.com/gag/aD2Ye4G)<!-- MEMES:END -->
 
 ---
 
