@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This was fast...](http://9gag.com/gag/avyQw5b)
- - ⏩ [Husband being husband](http://9gag.com/gag/aRBEpzG)
- - 👉 [Someone handed me this card at the bar.](http://9gag.com/gag/aBydMv1)<!-- MEMES:END -->
+ - 💣 [What a beautiful memory](http://9gag.com/gag/aQzE537)
+ - ⏩ [Damn](http://9gag.com/gag/a2vKXVE)
+ - 👉 [Finally got an inside view of North Korea](http://9gag.com/gag/apR972b)<!-- MEMES:END -->
 
 ---
 
