@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Live Your Best Gothy Girlboss Life With Path Of Exile 2&#39;s Witch Class](https://kotaku.com/path-of-exile-2-witch-class-skills-passive-unearth-1851736773)
- - [An Elder Scrolls IV: Oblivion Remake Is Coming And It Could Be Out This Year](https://kotaku.com/elder-scrolls-4-oblivion-remake-release-date-tes-6-1851738447)
- - [Severance season 2, Skeleton Crew, Netflix’s XO, Kitty, and more new TV this week](https://www.polygon.com/tv/504552/severance-season-2-netflix-xo-kitty-skeleton-crew-finale)<!-- GAME:END -->
+ - [Powerwash Simulator studio ends VR development, but at least there are no layoffs happening](https://www.pcgamer.com/games/sim/powerwash-simulator-studio-ends-vr-development-but-at-least-there-are-no-layoffs-happening/)
+ - [Hyper Light Breaker has great combat, impeccable vibes, and its ambitious randomized open worlds actually work⁠—the real test is if it goes the distance in early access](https://www.pcgamer.com/games/roguelike/hyper-light-breaker-has-great-combat-impeccable-vibes-and-its-ambitious-randomized-open-worlds-actually-work-the-real-test-is-if-it-goes-the-distance-in-early-access/)
+ - [How to install a new SSD in your Asus ROG Ally](https://www.polygon.com/gaming/506956/how-to-install-m2-ssd-asus-rog-ally-x)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
