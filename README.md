@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [An ambitious Counter-Strike mod to emulate the OG 1.6 experience in Global Offensive has been rejected by Valve after 8 years of development](https://www.pcgamer.com/games/fps/an-ambitious-counter-strike-mod-to-emulate-the-og-1-6-experience-in-global-offensive-has-been-rejected-by-valve-after-8-years-of-development/)
- - [When 2K removed its annoying launcher it broke a bunch of XCOM 2 mods](https://www.pcgamer.com/games/strategy/when-2k-removed-its-annoying-launcher-it-broke-a-bunch-of-xcom-2-mods/)
- - [Can’t wait for Severance season 2? Watch Ben Stiller’s first mystery-box thriller, now on Netflix](https://www.polygon.com/entertainment/504338/ben-stiller-netflix-escape-at-dannemora-severance-thriller)<!-- GAME:END -->
+ - [Speedrunning Crazy Taxi with a live band is an inventive way to dodge a DMCA takedown](https://www.pcgamer.com/games/racing/speedrunning-crazy-taxi-with-a-live-band-is-an-inventive-way-to-dodge-a-dmca-takedown/)
+ - [Five new Steam games you probably missed &lpar;January 13, 2025&rpar;](https://www.pcgamer.com/software/platforms/five-new-steam-games-you-probably-missed-january-13-2025/)
+ - [An ambitious Counter-Strike mod to emulate the OG 1.6 experience in Global Offensive has been rejected by Valve after 8 years of development](https://www.pcgamer.com/games/fps/an-ambitious-counter-strike-mod-to-emulate-the-og-1-6-experience-in-global-offensive-has-been-rejected-by-valve-after-8-years-of-development/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
