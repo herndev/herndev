@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Nintendo Is Reportedly Just Days Away From Announcing The Switch 2](https://kotaku.com/switch-2-announcement-nintendo-console-rumor-date-1851738104)
- - [Marvel Rivals Mods Are Back For Fans Willing To Risk It All To Play As Vegeta Or 19 Inches Of Venom](https://kotaku.com/marvel-rivals-mods-ban-guide-tutorial-workaround-1851738047)
- - [Halls of Torment review](https://www.pcgamer.com/games/action/halls-of-torment-review/)<!-- GAME:END -->
+ - [After Sonic 3, Fans Are Going Ham On Gay Edits Of Eggman And His Henchman](https://kotaku.com/sonic-movies-eggman-robotnik-agent-stone-stobotnik-gay-1851738189)
+ - [That Weird Biopic Starring A Digital Monkey Flopped Hard At The Box Office](https://kotaku.com/better-man-flop-box-office-monkey-cg-robbie-williams-1851738179)
+ - [Where to buy HeroQuest First Light](https://www.polygon.com/deals/507761/heroquest-first-light-where-to-buy)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
