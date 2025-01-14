@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Bellevue, WA-based Truveta, which aggregates medical data from 30 partner institutions, raised $320M from Regeneron, Illumina, and others at a $1B+ valuation &lpar;Taylor Soper/GeekWire&rpar;](http://www.techmeme.com/250113/p44#a250113p44)
  - [A look at European tech firms Idemia, SITA, Travizory, and WCC, that offer AI tools to help governments surveil cross-border travelers and predict threats &lpar;Caitlin Chandler/Wired&rpar;](http://www.techmeme.com/250113/p43#a250113p43)
- - [Deal: Apple AirTag 4-Pack drops to its record-low price](https://www.androidauthority.com/apple-airtag-4-pack-deal-3-3516096/)
- - [Abxylute S9 controller review: Stretch to fit iPad mini without breaking the bank](https://appleinsider.com/articles/25/01/14/abxylute-s9-controller-review-stretch-to-fit-ipad-mini-without-breaking-the-bank?utm_medium=rss)<!-- TECH:END -->
+ - [Deal: Apple AirTag 4-Pack drops to its record-low price](https://www.androidauthority.com/apple-airtag-4-pack-deal-3-3516096/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
