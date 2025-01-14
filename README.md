@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Circle to Search could soon get a new look and animation for the search bar &lpar;APK teardown&rpar;](https://www.androidauthority.com/circle-to-search-bar-new-animation-look-apk-teardown-3516339/)
- - [Apple&#39;s global manufacturing expansion matters for your next iPhone purchase](https://appleinsider.com/articles/25/01/14/apples-global-manufacturing-expansion-matters-for-your-next-iphone-purchase?utm_medium=rss)
- - [YouTube star Ms. Rachel is coming to Netflix](https://www.theverge.com/2025/1/14/24343476/netflix-youtube-ms-rachel-early-child-educational-show-premiere)<!-- TECH:END -->
+ - [Zuckerberg says Meta will lay off more ‘low-performers’](https://www.theverge.com/2025/1/14/24343562/meta-lay-offs-low-performers-zuckerberg-memo)
+ - [OnePlus 13 and OnePlus 13R Review: Fast and Smooth](https://www.wired.com/review/roneplus-13-and-oneplus-13r/)
+ - [Meta Quest 3S with 256GB of storage is $50 off right now](https://www.theverge.com/2025/1/14/24342856/meta-quest-3s-vr-headset-amazon-fire-tablet-7-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
