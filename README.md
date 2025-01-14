@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Got injured during sensation](http://9gag.com/gag/aD2YeVZ)
- - ⏩ [Not in LA... i say NOT in LA](http://9gag.com/gag/aGyE5nZ)
- - 👉 [This is how an ex-wife comes to pick up her kids from the father\u2019s house.](http://9gag.com/gag/a9yqGZK)<!-- MEMES:END -->
+ - 💣 [My friends tape](http://9gag.com/gag/aXPn6N2)
+ - ⏩ [Guy opens his safe after his house burns down in wildfire..](http://9gag.com/gag/amoA37o)
+ - 👉 [Trying too hard](http://9gag.com/gag/a34ZXZv)<!-- MEMES:END -->
 
 ---
 
