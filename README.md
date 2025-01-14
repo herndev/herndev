@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Hilarious](http://9gag.com/gag/aGyEmb0)
- - ⏩ [She&#39;s a keeper](http://9gag.com/gag/ajPVpRp)
+ - 💣 [She&#39;s a keeper](http://9gag.com/gag/ajPVpRp)
+ - ⏩ [Hilarious](http://9gag.com/gag/aGyEmb0)
  - 👉 [She seems fun to hangout with.](http://9gag.com/gag/axyo5RL)<!-- MEMES:END -->
 
 ---
