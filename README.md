@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Their signature move is a game changer](http://9gag.com/gag/aD2Ye4G)
- - ⏩ [Zuck the cuck](http://9gag.com/gag/aQzEjGe)
- - 👉 [The speed of light comes at a big cost.](http://9gag.com/gag/aRBEpLj)<!-- MEMES:END -->
+ - 💣 [Trying too hard](http://9gag.com/gag/a34ZXZv)
+ - ⏩ [When everyday is a bad hair day](http://9gag.com/gag/aYQV0NN)
+ - 👉 [Philly man got arrested by his twin brother](http://9gag.com/gag/a5QX0zN)<!-- MEMES:END -->
 
 ---
 
