@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [OnePlus Watch 3 could borrow this Galaxy Watch health feature](https://www.androidauthority.com/oneplus-watch-3-blood-pressure-3516436/)
- - [Premier League Soccer: Livestream West Ham vs. Fulham From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-livestream-west-ham-vs-fulham-from-anywhere/#ftag=CAD590a51e)
- - [Premier League Soccer: Livestream Nottingham Forest vs. Liverpool From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-livestream-nottingham-forest-vs-liverpool-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [North Korea linked to crypto heists of over $650 million in 2024 alone](https://www.theverge.com/2025/1/14/24343762/north-korea-crypto-stolen-wazirx-lazarus-group)
+ - [TV Deal: 55-inch TCL Smart NXTFRAME looks like an actual frame, and it’s $702 off!](https://www.androidauthority.com/tcl-smart-nxtframe-tv-55-inch-tv-deal-3516467/)
+ - [These Are the Best 3D Printers in 2025 &lpar;I’m Obsessed With the Top Two&rpar;](https://www.cnet.com/tech/computing/best-3d-printer/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
