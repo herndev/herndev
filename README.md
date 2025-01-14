@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [North Korea linked to crypto heists of over $650 million in 2024 alone](https://www.theverge.com/2025/1/14/24343762/north-korea-crypto-stolen-wazirx-lazarus-group)
- - [TV Deal: 55-inch TCL Smart NXTFRAME looks like an actual frame, and it’s $702 off!](https://www.androidauthority.com/tcl-smart-nxtframe-tv-55-inch-tv-deal-3516467/)
- - [These Are the Best 3D Printers in 2025 &lpar;I’m Obsessed With the Top Two&rpar;](https://www.cnet.com/tech/computing/best-3d-printer/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Intel Capital plans to split off from its parent into a standalone fund with a new name in H2 2025; Intel Capital has invested $20B+ into over 1,800 companies &lpar;Dan Primack/Axios&rpar;](http://www.techmeme.com/250114/p28#a250114p28)
+ - [Parallels is testing x86 emulation on Apple silicon Macs](https://www.theverge.com/2025/1/14/24343774/parallels-windows-10-11-x86-apple-silicon-mac-support-preview)
+ - [Sonos’ chief product officer is leaving the company](https://www.theverge.com/2025/1/14/24343873/sonos-product-officer-maxime-bouvat-merlin-leaving)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
