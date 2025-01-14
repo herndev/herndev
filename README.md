@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: the EU is reassessing its DMA probes into US tech giants like Apple, Meta, and Google, launched since March 2024, as US groups urge Trump to intervene &lpar;Financial Times&rpar;](http://www.techmeme.com/250114/p1#a250114p1)
- - [Wow! Elon Musk could end up owning TikTok in the US](https://www.androidauthority.com/tiktok-us-sale-ban-elon-musk-3516178/)
- - [Sources: China tightens scrutiny of Apple and other US tech firms&#39; exports under its dual-use export controls, slowing production expansion in SE Asia and India &lpar;Lauly Li/Nikkei Asia&rpar;](http://www.techmeme.com/250113/p46#a250113p46)<!-- TECH:END -->
+ - [T-Mobile switches on satellite messaging for some Samsung users](https://www.androidauthority.com/t-mobile-satellite-messaging-samsung-phones-3516180/)
+ - [Sygnum, a Switzerland and Singapore-based digital asset bank and crypto trading platform, raised $58M led by Fulgur Ventures at a $1B valuation &lpar;Niket Nishant/Reuters&rpar;](http://www.techmeme.com/250114/p3#a250114p3)
+ - [Sony launches Soneium Ethereum L2 platform for creators, after a four-month test that drew 14M+ users; Blockscout: Soneium testnet processed ~47M transactions &lpar;Vince Dioquino/Decrypt&rpar;](http://www.techmeme.com/250114/p2#a250114p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
