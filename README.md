@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Scottish Gaelic translation of Still Wakes the Deep is deeply political](https://www.polygon.com/features/486346/still-wakes-the-deep-scottish-gaelic)
- - [Logitech G RS Shifter and Handbrake review](https://www.pcgamer.com/hardware/logitech-g-rs-shifter-and-handbrake-review/)
- - [The high-rise adventure SickWay VR is now available on Steam with a limited-time 10% discount](https://www.pcgamer.com/games/the-high-rise-adventure-sickway-vr-is-now-available-on-steam-with-a-limited-time-10-percent-discount/)<!-- GAME:END -->
+ - [Dragon Ball’s Uniqlo collab resulted in some great T-shirts](https://www.polygon.com/sales-guide/508299/dragon-ball-daima-uniqlo-t-shirts-sweatshirts-designs-buy)
+ - [&#39;I like to be challenged&#39;: Sims boss Lyndsay Pearson is &#39;excited&#39; to see more developers trying to break into the life sim space](https://www.pcgamer.com/games/the-sims/i-like-to-be-challenged-sims-boss-lyndsay-pearson-is-excited-to-see-more-developers-trying-to-break-into-the-life-sim-space/)
+ - [The 25 best Nintendo Switch games](https://www.polygon.com/nintendo-switch/2018/9/4/17549714/best-nintendo-switch-games)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
