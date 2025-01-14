@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [To release Animal Crossing in the West, Nintendo ‘had to change everything’](https://www.polygon.com/animal-crossing/484661/animal-crossing-localization-book-excerpt)
- - [Valve dev says SteamOS isn&#39;t about killing Windows: &#39;If a user has a good experience on Windows, there&#39;s no problem&#39;](https://www.pcgamer.com/gaming-industry/valve-dev-says-steamos-isnt-about-killing-windows-if-a-user-has-a-good-experience-on-windows-theres-no-problem/)
- - [This Game Boy Micro homage is trying to do too much](https://www.polygon.com/hardware/508082/ayaneo-pocket-game-boy-micro-android-handheld-review)<!-- GAME:END -->
+ - [33 Immortals Third Playtest is Back from Jan 28 to Feb 7](https://news.xbox.com/en-us/2025/01/14/33-immortals-third-playtest-is-back-from-jan-28-to-feb-7/)
+ - [Until Dawn Movie Trailer Teases Something Entirely Different From The Game And Fans Don&#39;t Get It](https://kotaku.com/until-dawn-movie-trailer-rami-malek-wendingo-dr-hill-1851739047)
+ - [The Pokémon TCG Is In A Bad Situation, And The Pokémon Company Has To Step Up](https://kotaku.com/pokemon-tcg-prismatic-evolutions-surging-sparks-sold-1851738920)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
