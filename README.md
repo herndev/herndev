@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Intel Capital plans to split off from its parent into a standalone fund with a new name in H2 2025; Intel Capital has invested $20B+ into over 1,800 companies &lpar;Dan Primack/Axios&rpar;](http://www.techmeme.com/250114/p28#a250114p28)
- - [Parallels is testing x86 emulation on Apple silicon Macs](https://www.theverge.com/2025/1/14/24343774/parallels-windows-10-11-x86-apple-silicon-mac-support-preview)
- - [Sonos’ chief product officer is leaving the company](https://www.theverge.com/2025/1/14/24343873/sonos-product-officer-maxime-bouvat-merlin-leaving)<!-- TECH:END -->
+ - [TikTok tells employees it’s ‘planning for various scenarios’ ahead of possible US ban](https://www.theverge.com/2025/1/14/24343933/tiktok-employee-memo-supreme-court-us-ban)
+ - [Apple releases third developer beta of watchOS 11.3 for testing](https://appleinsider.com/articles/25/01/14/apple-releases-third-developer-beta-of-watchos-113-for-testing?utm_medium=rss)
+ - [Google Lens finally decides to prioritize camera-based searches](https://www.androidauthority.com/google-lens-camera-3516488/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
