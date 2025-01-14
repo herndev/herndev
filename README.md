@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [33 Immortals Third Playtest is Back from Jan 28 to Feb 7](https://news.xbox.com/en-us/2025/01/14/33-immortals-third-playtest-is-back-from-jan-28-to-feb-7/)
- - [Until Dawn Movie Trailer Teases Something Entirely Different From The Game And Fans Don&#39;t Get It](https://kotaku.com/until-dawn-movie-trailer-rami-malek-wendingo-dr-hill-1851739047)
- - [The Pokémon TCG Is In A Bad Situation, And The Pokémon Company Has To Step Up](https://kotaku.com/pokemon-tcg-prismatic-evolutions-surging-sparks-sold-1851738920)<!-- GAME:END -->
+ - [The Scottish Gaelic translation of Still Wakes the Deep is deeply political](https://www.polygon.com/features/486346/still-wakes-the-deep-scottish-gaelic)
+ - [Logitech G RS Shifter and Handbrake review](https://www.pcgamer.com/hardware/logitech-g-rs-shifter-and-handbrake-review/)
+ - [The high-rise adventure SickWay VR is now available on Steam with a limited-time 10% discount](https://www.pcgamer.com/games/the-high-rise-adventure-sickway-vr-is-now-available-on-steam-with-a-limited-time-10-percent-discount/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
