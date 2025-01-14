@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Goals lol](http://9gag.com/gag/aMVE5gG)
- - ⏩ [Depends who has the sword](http://9gag.com/gag/amoA4ZX)
- - 👉 [Guy opens his safe after his house burns down in wildfire..](http://9gag.com/gag/amoA37o)<!-- MEMES:END -->
+ - 💣 [GTA games detail differences](http://9gag.com/gag/a34Zmy5)
+ - ⏩ [I can relate](http://9gag.com/gag/abAvwWX)
+ - 👉 [That bags feeling it.](http://9gag.com/gag/an7zwbL)<!-- MEMES:END -->
 
 ---
 
