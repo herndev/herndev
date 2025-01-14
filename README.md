@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How Cleo AI and Bright, AI chatbots offering personalized financial advice, often function as a way to sell high-interest loans and cash advances to young users &lpar;Reece Rogers/Wired&rpar;](http://www.techmeme.com/250114/p5#a250114p5)
- - [The ‘Largest Illicit Online Marketplace’ Ever Is Growing at an Alarming Rate, Report Says](https://www.wired.com/story/the-largest-illicit-online-marketplace-ever-is-growing-at-an-alarming-rate/)
- - [Best Internet Providers in Biloxi, Mississippi](https://www.cnet.com/home/internet/best-internet-providers-in-biloxi-ms/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Nintendo Switch 2 rumors: Everything we know so far &lpar;Updated: January 14&rpar;](https://www.androidauthority.com/nintendo-switch-2-release-date-rumors-specs-features-price-3301160/)
+ - [The Biden admin finalizes a rule banning the import or sale of connected vehicles with hardware or software that have a &quot;sufficient nexus&quot; to China or Russia &lpar;Bloomberg&rpar;](http://www.techmeme.com/250114/p7#a250114p7)
+ - [Samsung announces more flexible trade-in program, no purchase required](https://www.theverge.com/2025/1/14/24343368/samsung-galaxy-trade-in-year-round)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
