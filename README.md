@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The weakest Donkey Kong Country is still pretty great](https://www.polygon.com/review/507546/donkey-kong-country-returns-hd-review-nintendo-switch)
- - [Discoveries](https://www.polygon.com/gaming/24215620/new-things-to-play-watch-and-experience)
- - [When is Godzilla coming to Fortnite this week?](https://www.polygon.com/fortnite-guide/488786/godzilla-release-date-battle-pass-skin)<!-- GAME:END -->
+ - [To release Animal Crossing in the West, Nintendo ‘had to change everything’](https://www.polygon.com/animal-crossing/484661/animal-crossing-localization-book-excerpt)
+ - [Valve dev says SteamOS isn&#39;t about killing Windows: &#39;If a user has a good experience on Windows, there&#39;s no problem&#39;](https://www.pcgamer.com/gaming-industry/valve-dev-says-steamos-isnt-about-killing-windows-if-a-user-has-a-good-experience-on-windows-theres-no-problem/)
+ - [This Game Boy Micro homage is trying to do too much](https://www.polygon.com/hardware/508082/ayaneo-pocket-game-boy-micro-android-handheld-review)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
