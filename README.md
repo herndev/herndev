@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Squid Game meets Survivor in this battle royale RPG](https://www.polygon.com/tabletop-games/508767/deathmatch-island-squid-game-survivor-battle-royale)
- - [Blizzard is keeping Halloween alive in 2025 with Diablo 4’s Season of Witchcraft](https://www.polygon.com/news/508626/diablo-4-season-7-witchcraft-trailer)
- - [Suicide Squad: Kill the Justice League is now officially finished as its final update goes live](https://www.pcgamer.com/games/action/suicide-squad-kill-the-justice-league-is-now-officially-finished-as-its-final-update-goes-live/)<!-- GAME:END -->
+ - [Neil Gaiman breaks silence on sexual assault allegations: ‘I was caught up in my own story’](https://www.polygon.com/news/508662/neil-gaiman-response-sexual-assault-allegations)
+ - [The best Asus ROG Ally accessories](https://www.polygon.com/what-to-buy/23844769/best-asus-rog-ally-accessories)
+ - [Elden Ring geographer tests rigorous calculation against weed-fueled horse math to determine the exact size of The Lands Between](https://www.pcgamer.com/games/rpg/elden-ring-geographer-tests-rigorous-calculation-against-weed-fueled-horse-math-to-determine-the-exact-size-of-the-lands-between/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
