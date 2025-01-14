@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [In 2022 South Korean president said Samsung CEO can&#39;t be arrested for bribery charges because he&#39;s `too important`](http://9gag.com/gag/aBydpLN)
- - ⏩ [Guy opens his safe after his house burns down in wildfire..](http://9gag.com/gag/amoA37o)
- - 👉 [That&#39;s actually quite smart.](http://9gag.com/gag/axyoL0K)<!-- MEMES:END -->
+ - 💣 [Got injured during sensation](http://9gag.com/gag/aD2YeVZ)
+ - ⏩ [Not in LA... i say NOT in LA](http://9gag.com/gag/aGyE5nZ)
+ - 👉 [This is how an ex-wife comes to pick up her kids from the father\u2019s house.](http://9gag.com/gag/a9yqGZK)<!-- MEMES:END -->
 
 ---
 
