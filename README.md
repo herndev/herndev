@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple seeds third developer beta of tvOS 18.3](https://appleinsider.com/articles/25/01/14/apple-seeds-the-third-developer-beta-of-tvos-183?utm_medium=rss)
- - [Google Home starts widely rolling out its colorful new look](https://www.androidauthority.com/google-home-dynamic-color-3516413/)
- - [The US says the FBI hacked ~4.2K devices in the US to delete PlugX, malware used by China-backed hackers since 2014, after obtaining warrants in August 2024 &lpar;Carly Page/TechCrunch&rpar;](http://www.techmeme.com/250114/p24#a250114p24)<!-- TECH:END -->
+ - [OnePlus Watch 3 could borrow this Galaxy Watch health feature](https://www.androidauthority.com/oneplus-watch-3-blood-pressure-3516436/)
+ - [Premier League Soccer: Livestream West Ham vs. Fulham From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-livestream-west-ham-vs-fulham-from-anywhere/#ftag=CAD590a51e)
+ - [Premier League Soccer: Livestream Nottingham Forest vs. Liverpool From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-livestream-nottingham-forest-vs-liverpool-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
