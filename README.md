@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Even the dog dont know what happened](http://9gag.com/gag/arymw50)
- - ⏩ [Depends who has the sword](http://9gag.com/gag/amoA4ZX)
- - 👉 [When ur homie keeps going to Thailand for food and culture...](http://9gag.com/gag/aVvbyR8)<!-- MEMES:END -->
+ - 💣 [This was fast...](http://9gag.com/gag/avyQw5b)
+ - ⏩ [Philly man got arrested by his twin brother](http://9gag.com/gag/a5QX0zN)
+ - 👉 [Husband being husband](http://9gag.com/gag/aRBEpzG)<!-- MEMES:END -->
 
 ---
 
