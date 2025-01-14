@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Hilarious](http://9gag.com/gag/aGyEmb0)
- - ⏩ [GTA games detail differences](http://9gag.com/gag/a34Zmy5)
- - 👉 [Aged like Guatemala rum](http://9gag.com/gag/aKGERd1)<!-- MEMES:END -->
+ - ⏩ [She&#39;s a keeper](http://9gag.com/gag/ajPVpRp)
+ - 👉 [She seems fun to hangout with.](http://9gag.com/gag/axyo5RL)<!-- MEMES:END -->
 
 ---
 
