@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Imagining a Future Where Chicagoans Get Around in Free Driverless Cars](https://www.wired.com/story/book-excerpt-death-of-the-author-nnedi-okorafor/)
- - [DJI Flip official: the unique bicycle spoke folding drone starts at $439](https://www.theverge.com/24343321/dji-flip-drone-price-release-date)
- - [India&#39;s IT outsourcing industry, which gets more than half of its revenue from the US, expects Trump&#39;s deregulation to spur growth by boosting tech spending &lpar;Financial Times&rpar;](http://www.techmeme.com/250114/p12#a250114p12)<!-- TECH:END -->
+ - [The TikTok ban, and what comes next](https://www.theverge.com/2025/1/14/24343419/tiktok-ban-kickstarter-magic-links-vergecast)
+ - [Klarna strikes a partnership with Stripe to make its BNPL service available to merchants using Stripe&#39;s payment tools in 26 countries, ahead of its US IPO &lpar;Ryan Browne/CNBC&rpar;](http://www.techmeme.com/250114/p13#a250114p13)
+ - [Google Messages is rolling out dual-SIM RCS support once again, and hopefully, it’s here to stay](https://www.androidauthority.com/google-messages-dual-sim-rcs-support-rollout-once-again-3516257/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
