@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle answer for Tuesday, January 14](https://www.pcgamer.com/games/puzzle/wordle-answer-today-january-14-2025/)
  - [Honkai: Star Rail Version 3.0 “Paean of Era Nova” Arrives January 15](https://blog.playstation.com/2025/01/13/20250114-honkaistarrail/)
- - [Honkai: Star Rail Version 3.0 “Paean of Era Nova” Arrives January 15](https://blog.playstation.com/2025/01/13/20250114-honkaistarrail/)
- - [&lpar;For Singapore&rpar; Level Up New Year’s Play! Purchase PlayStation 5 and stand a chance to win rewards!](https://blog.playstation.com/2025/01/13/20250114-levelup-4/)<!-- GAME:END -->
+ - [Honkai: Star Rail Version 3.0 “Paean of Era Nova” Arrives January 15](https://blog.playstation.com/2025/01/13/20250114-honkaistarrail/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
