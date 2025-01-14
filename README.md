@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to stop the macOS firewall leaking system network data after a software update](https://appleinsider.com/inside/macos-sequoia/tips/how-to-stop-the-macos-firewall-leaking-system-network-data-after-a-software-update?utm_medium=rss)
- - [Best Multivitamins for 2025](https://www.cnet.com/health/nutrition/best-multivitamins/#ftag=CAD590a51e)
- - [Bellevue, WA-based Truveta, which aggregates medical data from 30 partner institutions, raised $320M from Regeneron, Illumina, and others at a $1B+ valuation &lpar;Taylor Soper/GeekWire&rpar;](http://www.techmeme.com/250113/p44#a250113p44)<!-- TECH:END -->
+ - [Sources: China tightens scrutiny of Apple and other US tech firms&#39; exports under its dual-use export controls, slowing production expansion in SE Asia and India &lpar;Lauly Li/Nikkei Asia&rpar;](http://www.techmeme.com/250113/p46#a250113p46)
+ - [Sources: Apple is finalizing verification of its first cutting-edge chips from TSMC&#39;s Arizona plant, with the initial batch expected as early as this quarter &lpar;Cheng Ting-Fang/Nikkei Asia&rpar;](http://www.techmeme.com/250113/p45#a250113p45)
+ - [Today&#39;s NYT Strands Hints, Answers and Help for Jan. 14, #317](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-jan-14-317/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
