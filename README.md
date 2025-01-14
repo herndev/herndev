@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A profile of Hussain Sajwani, who, alongside Donald Trump at Mar-a-Lago, pledged a $20B investment in US data centers, and why some are skeptical of the plan &lpar;Bloomberg&rpar;](http://www.techmeme.com/250114/p10#a250114p10)
- - [Looking for the next TikTok? Here’s the alternative app Americans are installing right now](https://www.androidauthority.com/alternative-tiktok-americans-installing-3516220/)
- - [GPS Is Vulnerable to Attack. Magnetic Navigation Can Help](https://www.wired.com/story/google-startup-wants-to-revolutionize-satellite-navigation/)<!-- TECH:END -->
+ - [Imagining a Future Where Chicagoans Get Around in Free Driverless Cars](https://www.wired.com/story/book-excerpt-death-of-the-author-nnedi-okorafor/)
+ - [DJI Flip official: the unique bicycle spoke folding drone starts at $439](https://www.theverge.com/24343321/dji-flip-drone-price-release-date)
+ - [India&#39;s IT outsourcing industry, which gets more than half of its revenue from the US, expects Trump&#39;s deregulation to spur growth by boosting tech spending &lpar;Financial Times&rpar;](http://www.techmeme.com/250114/p12#a250114p12)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
