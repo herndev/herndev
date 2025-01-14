@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft is creating a new &quot;CoreAI - Platform and Tools&quot; unit led by Jay Parikh, the ex-Lacework CEO and Meta engineering executive who joined in October 2024 &lpar;Todd Bishop/GeekWire&rpar;](http://www.techmeme.com/250113/p36#a250113p36)
- - [The Apple iPad Mini A17 Pro drops to its all-time-low price, saving you $100](https://www.androidauthority.com/apple-ipad-mini-a17-pro-deal-2-3516098/)
- - [Android 16 may bring predictive back support to three-button navigation](https://www.androidauthority.com/three-button-predictive-back-3516138/)<!-- TECH:END -->
+ - [Sources: Databricks secures $5B+ in its largest debt raise to date, from lenders including Blackstone and Apollo, after raising $10B in equity in December 2024 &lpar;Bloomberg&rpar;](http://www.techmeme.com/250113/p42#a250113p42)
+ - [TikTok denies a report that China is looking at potentially facilitating a sale of the app to Elon Musk, calling it &quot;pure fiction&quot; &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/250113/p41#a250113p41)
+ - [Docs: Arm was working on a strategy in 2019 to hike prices to boost annual smartphone revenue by ~$1B over 10 years, and has discussed designing its own chips &lpar;Reuters&rpar;](http://www.techmeme.com/250113/p40#a250113p40)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
