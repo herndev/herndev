@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This was fast...](http://9gag.com/gag/avyQw5b)
- - ⏩ [Damn](http://9gag.com/gag/a2vKXVE)
- - 👉 [Trying too hard](http://9gag.com/gag/a34ZXZv)<!-- MEMES:END -->
+ - 💣 [Even the dog dont know what happened](http://9gag.com/gag/arymw50)
+ - ⏩ [Depends who has the sword](http://9gag.com/gag/amoA4ZX)
+ - 👉 [When ur homie keeps going to Thailand for food and culture...](http://9gag.com/gag/aVvbyR8)<!-- MEMES:END -->
 
 ---
 
