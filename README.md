@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The speed of light comes at a big cost.](http://9gag.com/gag/aRBEpLj)
- - ⏩ [The prob is I got no GF.](http://9gag.com/gag/arymQ77)
- - 👉 [I can&#39;t stop watching it](http://9gag.com/gag/aMVEodP)<!-- MEMES:END -->
+ - 💣 [Goals lol](http://9gag.com/gag/aMVE5gG)
+ - ⏩ [Depends who has the sword](http://9gag.com/gag/amoA4ZX)
+ - 👉 [Guy opens his safe after his house burns down in wildfire..](http://9gag.com/gag/amoA37o)<!-- MEMES:END -->
 
 ---
 
