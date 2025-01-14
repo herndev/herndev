@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Go sports!!!](http://9gag.com/gag/an7z650)
- - ⏩ [Husband being husband](http://9gag.com/gag/aRBEpzG)
- - 👉 [Trying too hard](http://9gag.com/gag/a34ZXZv)<!-- MEMES:END -->
+ - 💣 [This was fast...](http://9gag.com/gag/avyQw5b)
+ - ⏩ [Depends who has the sword](http://9gag.com/gag/amoA4ZX)
+ - 👉 [When everyday is a bad hair day](http://9gag.com/gag/aYQV0NN)<!-- MEMES:END -->
 
 ---
 
