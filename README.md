@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Why A Major Tennis Tournament Looks Like Wii Sports On YouTube](https://kotaku.com/australian-open-wii-tennis-virtual-youtube-online-1851738723)
- - [Percy_Verence, Elon Musk&#39;s infamous Path of Exile 2 hardcore character, dead at level 97](https://www.pcgamer.com/games/rpg/percy-verence-elon-musks-infamous-path-of-exile-2-hardcore-character-dead-at-level-97/)
- - [How to swap between battle passes in Marvel Rivals](https://www.polygon.com/marvel-rivals-guide/506952/swap-battle-passes-how-to-change)<!-- GAME:END -->
+ - [Studio Wildcard remains quiet on Ark 2&#39;s release date, but just revealed a two-year roadmap for Ark: Survival Ascended](https://www.pcgamer.com/games/survival-crafting/studio-wildcard-remains-quiet-on-ark-2s-release-date-but-just-revealed-a-two-year-roadmap-for-ark-survival-ascended/)
+ - [Project to &#39;free social media from billionaire control&#39; plans to take on Musk and Zuck using Bluesky&#39;s open source protocol: &#39;It will take years and hundreds of millions of dollars&#39;](https://www.pcgamer.com/gaming-industry/project-to-free-social-media-from-billionaire-control-plans-to-take-on-musk-and-zuck-using-blueskys-open-source-protocol-it-will-take-years-and-hundreds-of-millions-of-dollars/)
+ - [The new RPG from Rebel Wolves, a studio founded by Witcher 3 and Cyberpunk 2077 devs, asks a bold question: What if Geralt was a vampire?](https://www.pcgamer.com/games/rpg/the-new-rpg-from-rebel-wolves-a-studio-founded-by-witcher-3-and-cyberpunk-2077-devs-asks-a-bold-question-what-if-geralt-was-a-vampire/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
