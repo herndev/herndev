@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Blasting AI into the past: modders get Llama AI working on an old Windows 98 PC](https://www.pcgamer.com/hardware/blasting-ai-into-the-past-modders-get-llama-2-working-on-windows-98-machine/)
  - [&lpar;For Malaysia&rpar; Level Up New Year’s Play! Purchase PlayStation 5 and stand a chance to win rewards!](https://blog.playstation.com/2025/01/13/20250114-levelup-2/)
- - [&lpar;For Malaysia&rpar; Level Up New Year’s Play! Purchase PlayStation 5 and stand a chance to win rewards!](https://blog.playstation.com/2025/01/13/20250114-levelup-2/)
- - [Can Roselia be shiny in Pokémon Go?](https://www.polygon.com/pokemon-go-guide/507824/can-roselia-be-shiny-budew-roserade)<!-- GAME:END -->
+ - [&lpar;For Malaysia&rpar; Level Up New Year’s Play! Purchase PlayStation 5 and stand a chance to win rewards!](https://blog.playstation.com/2025/01/13/20250114-levelup-2/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
