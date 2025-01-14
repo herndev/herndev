@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [When everyday is a bad hair day](http://9gag.com/gag/aYQV0NN)
- - ⏩ [Damn](http://9gag.com/gag/a2vKXVE)
- - 👉 [Finally got an inside view of North Korea](http://9gag.com/gag/apR972b)<!-- MEMES:END -->
+ - 💣 [Their signature move is a game changer](http://9gag.com/gag/aD2Ye4G)
+ - ⏩ [Zuck the cuck](http://9gag.com/gag/aQzEjGe)
+ - 👉 [The speed of light comes at a big cost.](http://9gag.com/gag/aRBEpLj)<!-- MEMES:END -->
 
 ---
 
