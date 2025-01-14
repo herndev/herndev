@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [She&#39;s a keeper](http://9gag.com/gag/ajPVpRp)
- - ⏩ [Hilarious](http://9gag.com/gag/aGyEmb0)
- - 👉 [She seems fun to hangout with.](http://9gag.com/gag/axyo5RL)<!-- MEMES:END -->
+ - 💣 [Depends who has the sword](http://9gag.com/gag/amoA4ZX)
+ - ⏩ [Damn](http://9gag.com/gag/a2vKXVE)
+ - 👉 [GTA games detail differences](http://9gag.com/gag/a34Zmy5)<!-- MEMES:END -->
 
 ---
 
