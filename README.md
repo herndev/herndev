@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nintendo Switch 2 rumors: Everything we know so far &lpar;Updated: January 14&rpar;](https://www.androidauthority.com/nintendo-switch-2-release-date-rumors-specs-features-price-3301160/)
- - [The Biden admin finalizes a rule banning the import or sale of connected vehicles with hardware or software that have a &quot;sufficient nexus&quot; to China or Russia &lpar;Bloomberg&rpar;](http://www.techmeme.com/250114/p7#a250114p7)
- - [Samsung announces more flexible trade-in program, no purchase required](https://www.theverge.com/2025/1/14/24343368/samsung-galaxy-trade-in-year-round)<!-- TECH:END -->
+ - [A profile of Hussain Sajwani, who, alongside Donald Trump at Mar-a-Lago, pledged a $20B investment in US data centers, and why some are skeptical of the plan &lpar;Bloomberg&rpar;](http://www.techmeme.com/250114/p10#a250114p10)
+ - [Looking for the next TikTok? Here’s the alternative app Americans are installing right now](https://www.androidauthority.com/alternative-tiktok-americans-installing-3516220/)
+ - [GPS Is Vulnerable to Attack. Magnetic Navigation Can Help](https://www.wired.com/story/google-startup-wants-to-revolutionize-satellite-navigation/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
