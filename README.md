@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: China tightens scrutiny of Apple and other US tech firms&#39; exports under its dual-use export controls, slowing production expansion in SE Asia and India &lpar;Lauly Li/Nikkei Asia&rpar;](http://www.techmeme.com/250113/p46#a250113p46)
- - [Sources: Apple is finalizing verification of its first cutting-edge chips from TSMC&#39;s Arizona plant, with the initial batch expected as early as this quarter &lpar;Cheng Ting-Fang/Nikkei Asia&rpar;](http://www.techmeme.com/250113/p45#a250113p45)
- - [Today&#39;s NYT Strands Hints, Answers and Help for Jan. 14, #317](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-jan-14-317/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sources: the EU is reassessing its DMA probes into US tech giants like Apple, Meta, and Google, launched since March 2024, as US groups urge Trump to intervene &lpar;Financial Times&rpar;](http://www.techmeme.com/250114/p1#a250114p1)
+ - [Wow! Elon Musk could end up owning TikTok in the US](https://www.androidauthority.com/tiktok-us-sale-ban-elon-musk-3516178/)
+ - [Sources: China tightens scrutiny of Apple and other US tech firms&#39; exports under its dual-use export controls, slowing production expansion in SE Asia and India &lpar;Lauly Li/Nikkei Asia&rpar;](http://www.techmeme.com/250113/p46#a250113p46)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
