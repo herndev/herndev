@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The MySims: Cozy Bundle brings the blocky-headed chibi sims over to PC: &#39;It&#39;s still very, very Sims&#39;](https://www.pcgamer.com/games/the-sims/the-mysims-cozy-bundle-brings-the-blocky-headed-chibi-sims-over-to-pc-its-still-very-very-sims/)
- - [GOG joins Europe’s largest game preservation coalition](https://www.polygon.com/news/508410/gog-games-preservation-efgamp-partnership)
- - [Marvel Rivals game director says it&#39;ll be getting a new hero every month and a half, which hopefully isn&#39;t a display of classical hubris](https://www.pcgamer.com/games/third-person-shooter/marvel-rivals-game-director-says-itll-be-getting-a-new-hero-every-month-and-a-half-which-hopefully-isnt-a-display-of-classical-hubris/)<!-- GAME:END -->
+ - [Squid Game meets Survivor in this battle royale RPG](https://www.polygon.com/tabletop-games/508767/deathmatch-island-squid-game-survivor-battle-royale)
+ - [Blizzard is keeping Halloween alive in 2025 with Diablo 4’s Season of Witchcraft](https://www.polygon.com/news/508626/diablo-4-season-7-witchcraft-trailer)
+ - [Suicide Squad: Kill the Justice League is now officially finished as its final update goes live](https://www.pcgamer.com/games/action/suicide-squad-kill-the-justice-league-is-now-officially-finished-as-its-final-update-goes-live/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
