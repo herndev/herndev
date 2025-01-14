@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Trying too hard](http://9gag.com/gag/a34ZXZv)
- - ⏩ [When everyday is a bad hair day](http://9gag.com/gag/aYQV0NN)
- - 👉 [Husband being husband](http://9gag.com/gag/aRBEpzG)<!-- MEMES:END -->
+ - 💣 [This was fast...](http://9gag.com/gag/avyQw5b)
+ - ⏩ [Damn](http://9gag.com/gag/a2vKXVE)
+ - 👉 [Trying too hard](http://9gag.com/gag/a34ZXZv)<!-- MEMES:END -->
 
 ---
 
