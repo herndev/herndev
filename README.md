@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Zuckerberg says Meta will lay off more ‘low-performers’](https://www.theverge.com/2025/1/14/24343562/meta-lay-offs-low-performers-zuckerberg-memo)
- - [OnePlus 13 and OnePlus 13R Review: Fast and Smooth](https://www.wired.com/review/roneplus-13-and-oneplus-13r/)
- - [Meta Quest 3S with 256GB of storage is $50 off right now](https://www.theverge.com/2025/1/14/24342856/meta-quest-3s-vr-headset-amazon-fire-tablet-7-deal-sale)<!-- TECH:END -->
+ - [ChatGPT can now handle reminders and to-dos](https://www.theverge.com/2025/1/14/24343528/openai-chatgpt-repeating-tasks-agent-ai)
+ - [Android Automotive will be getting lots of new apps, starting next month](https://www.androidauthority.com/new-android-automotive-apps-3516416/)
+ - [Far-Right Extremists Are LARPing as Emergency Workers in Los Angeles](https://www.wired.com/story/far-right-extremists-are-larping-as-emergency-workers-in-los-angeles/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
