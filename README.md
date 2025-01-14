@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Gigabyte Z890 Aorus Elite WiFi7 Ice review](https://www.pcgamer.com/hardware/motherboards/gigabyte-z890-aorus-elite-wifi7-ice-review/)
- - [How to catch an air sprite and water sprite in a single match in Fortnite](https://www.polygon.com/fortnite-guide/508598/air-water-sprite-single-match-locations)
- - [How To Play The Hidden Game In Your Xbox App](https://kotaku.com/hidden-game-jewel-2-xbox-rewards-app-quest-puzzle-help-1851739257)<!-- GAME:END -->
+ - [The MySims: Cozy Bundle brings the blocky-headed chibi sims over to PC: &#39;It&#39;s still very, very Sims&#39;](https://www.pcgamer.com/games/the-sims/the-mysims-cozy-bundle-brings-the-blocky-headed-chibi-sims-over-to-pc-its-still-very-very-sims/)
+ - [GOG joins Europe’s largest game preservation coalition](https://www.polygon.com/news/508410/gog-games-preservation-efgamp-partnership)
+ - [Marvel Rivals game director says it&#39;ll be getting a new hero every month and a half, which hopefully isn&#39;t a display of classical hubris](https://www.pcgamer.com/games/third-person-shooter/marvel-rivals-game-director-says-itll-be-getting-a-new-hero-every-month-and-a-half-which-hopefully-isnt-a-display-of-classical-hubris/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
