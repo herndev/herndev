@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Dragon Ball’s Uniqlo collab resulted in some great T-shirts](https://www.polygon.com/sales-guide/508299/dragon-ball-daima-uniqlo-t-shirts-sweatshirts-designs-buy)
- - [&#39;I like to be challenged&#39;: Sims boss Lyndsay Pearson is &#39;excited&#39; to see more developers trying to break into the life sim space](https://www.pcgamer.com/games/the-sims/i-like-to-be-challenged-sims-boss-lyndsay-pearson-is-excited-to-see-more-developers-trying-to-break-into-the-life-sim-space/)
- - [The 25 best Nintendo Switch games](https://www.polygon.com/nintendo-switch/2018/9/4/17549714/best-nintendo-switch-games)<!-- GAME:END -->
+ - [Gigabyte Z890 Aorus Elite WiFi7 Ice review](https://www.pcgamer.com/hardware/motherboards/gigabyte-z890-aorus-elite-wifi7-ice-review/)
+ - [How to catch an air sprite and water sprite in a single match in Fortnite](https://www.polygon.com/fortnite-guide/508598/air-water-sprite-single-match-locations)
+ - [How To Play The Hidden Game In Your Xbox App](https://kotaku.com/hidden-game-jewel-2-xbox-rewards-app-quest-puzzle-help-1851739257)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
