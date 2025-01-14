@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Aged like Guatemala rum](http://9gag.com/gag/aKGERd1)
- - ⏩ [Prisoners claim that the short notice given to death row inmates before they are led to the gallows is illegal since it does not give condemned men and women enough time to object.](http://9gag.com/gag/agmoDXw)
- - 👉 [My friends tape](http://9gag.com/gag/aXPn6N2)<!-- MEMES:END -->
+ - 💣 [Daydreams of shopping with the wife](http://9gag.com/gag/aE0qLno)
+ - ⏩ [I wonder why they can&#39;t get a date](http://9gag.com/gag/a6ZqP2e)
+ - 👉 [Prisoners claim that the short notice given to death row inmates before they are led to the gallows is illegal since it does not give condemned men and women enough time to object.](http://9gag.com/gag/agmoDXw)<!-- MEMES:END -->
 
 ---
 
