@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [ChatGPT can now handle reminders and to-dos](https://www.theverge.com/2025/1/14/24343528/openai-chatgpt-repeating-tasks-agent-ai)
- - [Android Automotive will be getting lots of new apps, starting next month](https://www.androidauthority.com/new-android-automotive-apps-3516416/)
- - [Far-Right Extremists Are LARPing as Emergency Workers in Los Angeles](https://www.wired.com/story/far-right-extremists-are-larping-as-emergency-workers-in-los-angeles/)<!-- TECH:END -->
+ - [Apple seeds third developer beta of tvOS 18.3](https://appleinsider.com/articles/25/01/14/apple-seeds-the-third-developer-beta-of-tvos-183?utm_medium=rss)
+ - [Google Home starts widely rolling out its colorful new look](https://www.androidauthority.com/google-home-dynamic-color-3516413/)
+ - [The US says the FBI hacked ~4.2K devices in the US to delete PlugX, malware used by China-backed hackers since 2014, after obtaining warrants in August 2024 &lpar;Carly Page/TechCrunch&rpar;](http://www.techmeme.com/250114/p24#a250114p24)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
