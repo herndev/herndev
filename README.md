@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Hello Mobile nightmare has somehow managed to get even worse](https://www.androidauthority.com/hello-liberty-issues-3516304/)
- - [TikTok&#39;s ban saga is a mess, with only days before the hammer falls](https://appleinsider.com/articles/25/01/14/tiktoks-ban-saga-is-a-mess-with-only-days-before-the-hammer-falls?utm_medium=rss)
- - [TikTok could get a 270 day extension to make a deal](https://www.theverge.com/2025/1/14/24343459/tiktok-ban-extension-sen-markey-270-day-proposal)<!-- TECH:END -->
+ - [Circle to Search could soon get a new look and animation for the search bar &lpar;APK teardown&rpar;](https://www.androidauthority.com/circle-to-search-bar-new-animation-look-apk-teardown-3516339/)
+ - [Apple&#39;s global manufacturing expansion matters for your next iPhone purchase](https://appleinsider.com/articles/25/01/14/apples-global-manufacturing-expansion-matters-for-your-next-iphone-purchase?utm_medium=rss)
+ - [YouTube star Ms. Rachel is coming to Netflix](https://www.theverge.com/2025/1/14/24343476/netflix-youtube-ms-rachel-early-child-educational-show-premiere)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
