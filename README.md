@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [&lpar;For Malaysia&rpar; Level Up New Year’s Play! Purchase PlayStation 5 and stand a chance to win rewards!](https://blog.playstation.com/2025/01/13/20250114-levelup-2/)
  - [Can Roselia be shiny in Pokémon Go?](https://www.polygon.com/pokemon-go-guide/507824/can-roselia-be-shiny-budew-roserade)
- - [Today&#39;s Wordle answer for Tuesday, January 14](https://www.pcgamer.com/games/puzzle/wordle-answer-today-january-14-2025/)
- - [Honkai: Star Rail Version 3.0 “Paean of Era Nova” Arrives January 15](https://blog.playstation.com/2025/01/13/20250114-honkaistarrail/)<!-- GAME:END -->
+ - [Today&#39;s Wordle answer for Tuesday, January 14](https://www.pcgamer.com/games/puzzle/wordle-answer-today-january-14-2025/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
