@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [T-Mobile switches on satellite messaging for some Samsung users](https://www.androidauthority.com/t-mobile-satellite-messaging-samsung-phones-3516180/)
- - [Sygnum, a Switzerland and Singapore-based digital asset bank and crypto trading platform, raised $58M led by Fulgur Ventures at a $1B valuation &lpar;Niket Nishant/Reuters&rpar;](http://www.techmeme.com/250114/p3#a250114p3)
- - [Sony launches Soneium Ethereum L2 platform for creators, after a four-month test that drew 14M+ users; Blockscout: Soneium testnet processed ~47M transactions &lpar;Vince Dioquino/Decrypt&rpar;](http://www.techmeme.com/250114/p2#a250114p2)<!-- TECH:END -->
+ - [VistaPrint Coupon: Exclusive $20 Off $100+](https://www.wired.com/story/vistaprint-coupon-code/)
+ - [AirDoctor Coupon Code: 25% Off Air Purifiers](https://www.wired.com/story/airdoctor-coupon-code/)
+ - [Wow! Elon Musk could end up owning TikTok in the US &lpar;Updated: TikTok’s response&rpar;](https://www.androidauthority.com/tiktok-us-sale-ban-elon-musk-3516178/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
