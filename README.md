@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [&#39;He was trying his best&#39;—Palworld had a lone server guy trying to keep the game afloat during its 2 million player launch](https://www.pcgamer.com/games/survival-crafting/he-was-trying-his-best-palworld-had-a-lone-server-guy-trying-to-keep-the-game-afloat-during-its-2-million-player-launch/)
  - [AMD says it took four goes to get its new Strix Halo uber APU right and that included designing new CPU dies that &#39;put Threadripper in the palm of your hands&#39;](https://www.pcgamer.com/hardware/processors/amd-says-it-took-four-goes-to-get-its-new-strix-halo-uber-apu-right-and-that-included-designing-new-cpu-dies-that-put-threadripper-in-the-palm-of-your-hands/)
- - [Blasting AI into the past: modders get Llama AI working on an old Windows 98 PC](https://www.pcgamer.com/hardware/blasting-ai-into-the-past-modders-get-llama-2-working-on-windows-98-machine/)
- - [&lpar;For Malaysia&rpar; Level Up New Year’s Play! Purchase PlayStation 5 and stand a chance to win rewards!](https://blog.playstation.com/2025/01/13/20250114-levelup-2/)<!-- GAME:END -->
+ - [Blasting AI into the past: modders get Llama AI working on an old Windows 98 PC](https://www.pcgamer.com/hardware/blasting-ai-into-the-past-modders-get-llama-2-working-on-windows-98-machine/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
