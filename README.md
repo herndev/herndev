@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Zuck the cuck](http://9gag.com/gag/aQzEjGe)
- - ⏩ [The speed of light comes at a big cost.](http://9gag.com/gag/aRBEpLj)
- - 👉 [The prob is I got no GF.](http://9gag.com/gag/arymQ77)<!-- MEMES:END -->
+ - 💣 [Go sports!!!](http://9gag.com/gag/an7z650)
+ - ⏩ [Husband being husband](http://9gag.com/gag/aRBEpzG)
+ - 👉 [Trying too hard](http://9gag.com/gag/a34ZXZv)<!-- MEMES:END -->
 
 ---
 
