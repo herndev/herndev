@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This was fast...](http://9gag.com/gag/avyQw5b)
- - ⏩ [Depends who has the sword](http://9gag.com/gag/amoA4ZX)
- - 👉 [When everyday is a bad hair day](http://9gag.com/gag/aYQV0NN)<!-- MEMES:END -->
+ - 💣 [The speed of light comes at a big cost.](http://9gag.com/gag/aRBEpLj)
+ - ⏩ [The prob is I got no GF.](http://9gag.com/gag/arymQ77)
+ - 👉 [I can&#39;t stop watching it](http://9gag.com/gag/aMVEodP)<!-- MEMES:END -->
 
 ---
 
