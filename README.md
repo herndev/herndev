@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Databricks secures $5B+ in its largest debt raise to date, from lenders including Blackstone and Apollo, after raising $10B in equity in December 2024 &lpar;Bloomberg&rpar;](http://www.techmeme.com/250113/p42#a250113p42)
- - [TikTok denies a report that China is looking at potentially facilitating a sale of the app to Elon Musk, calling it &quot;pure fiction&quot; &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/250113/p41#a250113p41)
- - [Docs: Arm was working on a strategy in 2019 to hike prices to boost annual smartphone revenue by ~$1B over 10 years, and has discussed designing its own chips &lpar;Reuters&rpar;](http://www.techmeme.com/250113/p40#a250113p40)<!-- TECH:END -->
+ - [A look at European tech firms Idemia, SITA, Travizory, and WCC, that offer AI tools to help governments surveil cross-border travelers and predict threats &lpar;Caitlin Chandler/Wired&rpar;](http://www.techmeme.com/250113/p43#a250113p43)
+ - [Deal: Apple AirTag 4-Pack drops to its record-low price](https://www.androidauthority.com/apple-airtag-4-pack-deal-3-3516096/)
+ - [Abxylute S9 controller review: Stretch to fit iPad mini without breaking the bank](https://appleinsider.com/articles/25/01/14/abxylute-s9-controller-review-stretch-to-fit-ipad-mini-without-breaking-the-bank?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
