@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Synthesia, a London-based B2B startup building products around highly realistic AI avatar technology, raised a $180M Series D led by NEA at a $2.1B valuation &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/250115/p10#a250115p10)
- - [An in-depth look at the state of video gaming in 2025, including why gaming soared from 2011-2021 then stalled, China&#39;s global rise, and mobile gaming growth &lpar;Matthew Ball/MatthewBall.co&rpar;](http://www.techmeme.com/250115/p9#a250115p9)
- - [Best Internet Providers in Berkeley, California](https://www.cnet.com/home/internet/best-internet-providers-in-berkeley-ca/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [TikTok prepares for immediate and abrupt US shutdown on Sunday: Report](https://www.androidauthority.com/tiktok-us-ban-shutdown-3516603/)
+ - [ChatGPT now offers smart reminders, and we’ve tried it](https://www.androidauthority.com/chatgpt-smart-reminders-3516577/)
+ - [Walmart Promo Codes and Coupons: $10 Off](https://www.wired.com/story/top-walmart-promo-codes/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
