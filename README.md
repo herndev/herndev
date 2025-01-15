@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Black holes, buildings on poles, and a &#39;sea urchin planet&#39;: PUBG creator&#39;s world-sized tech demo may be hiding some bizarre machine learning &#39;hallucinations&#39;](https://www.pcgamer.com/games/survival-crafting/black-holes-buildings-on-poles-and-a-sea-urchin-planet-pubg-creators-world-sized-tech-demo-may-be-hiding-some-bizarre-machine-learning-hallucinations/)
+ - [The Corrupted is the intimate TTRPG version of The Last Of Us](https://www.polygon.com/tabletop-games/508936/corrupted-zombie-apocalypse-ttrpg-last-us-navaar-jackson)
  - [The Sims 3 gets another patch, 10 years since its last update](https://www.polygon.com/the-sims/508823/3-new-patch-2025)
- - [Sid Meier&#39;s Civilization needs to keep reinventing itself to stay relevant](https://www.pcgamer.com/games/strategy/sid-meiers-civilization-needs-to-keep-reinventing-itself-to-stay-relevant/)<!-- GAME:END -->
+ - [Neil Gaiman breaks silence on sexual assault allegations: ‘I was caught up in my own story’](https://www.polygon.com/news/508662/neil-gaiman-response-sexual-assault-allegations)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
