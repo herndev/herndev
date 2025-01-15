@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Philly man got arrested by his twin brother](http://9gag.com/gag/a5QX0zN)
- - ⏩ [`Please compensate our employees for hard work so we can NOT pay them more`](http://9gag.com/gag/azx2NEj)
- - 👉 [Smooth as a sand paper](http://9gag.com/gag/aMVEo2x)<!-- MEMES:END -->
+ - 💣 [Like mother, like daughter, huh?](http://9gag.com/gag/apR94NB)
+ - ⏩ [Depends who has the sword](http://9gag.com/gag/amoA4ZX)
+ - 👉 [Bruce got pied](http://9gag.com/gag/aNDw6AA)<!-- MEMES:END -->
 
 ---
 
