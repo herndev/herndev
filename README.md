@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Marvel Rivals director all but tells players to git gud when going up against Jeff&#39;s ultimate, but I have a couple of tips that&#39;ll actually help you](https://www.pcgamer.com/games/third-person-shooter/marvel-rivals-director-all-but-tells-players-to-git-gud-when-going-up-against-jeffs-ultimate-but-i-have-a-couple-of-tips-thatll-actually-help-you/)
- - [Castlevania: Symphony of the Night’s notorious English translation didn’t need fixing](https://www.polygon.com/gaming/506820/castlevania-symphony-night-english-translation-mistakes-changes)
- - [Game made in consultancy with alien abductees delists itself after claiming it received a bomb threat for making certain information public](https://www.pcgamer.com/games/game-made-in-consultancy-with-alien-abductees-delists-itself-after-claiming-it-received-a-bomb-threat-and-the-authorities-are-part-of-the-problem/)<!-- GAME:END -->
+ - [Development of Fortune&#39;s Run is &#39;imploding&#39; as its sole remaining developer announces they&#39;ve been sentenced to 3 years in jail: &#39;What I did was wrong and that&#39;s all you need to know&#39;](https://www.pcgamer.com/games/fps/development-of-fortunes-run-is-imploding-as-its-sole-remaining-developer-announces-theyve-been-sentenced-to-3-years-in-jail-what-i-did-was-wrong-and-thats-all-you-need-to-know/)
+ - [8BitDo Ultimate 2C wireless controller review](https://www.pcgamer.com/hardware/controllers/8bitdo-ultimate-2c-wireless-controller-review/)
+ - [AndaSeat X-Air Pro review](https://www.pcgamer.com/hardware/gaming-chairs/andaseat-x-air-pro-review/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
