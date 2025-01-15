@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [TSMC&#39;s next-gen 2nm silicon is reportedly on track for later this year but don&#39;t expect chips for PCs until 2027 and beyond](https://www.pcgamer.com/hardware/tsmcs-next-gen-2nm-silicon-is-reportedly-on-track-for-later-this-year-but-dont-expect-chips-for-pcs-until-2027-and-beyond/)
- - [How to get Shroodle and evolution Grafaiai in Pokémon Go](https://www.polygon.com/pokemon-go-guide/509046/shroodle-evolution-grafaiai-shiny)
- - [Diablo 4 is getting its first bird pet in Season 7](https://www.pcgamer.com/games/rpg/diablo-4-is-getting-its-first-bird-pet-in-season-7/)<!-- GAME:END -->
+ - [Game made in consultancy with alien abductees delists itself after claiming it received a bomb threat and the authorities are &#39;part of the problem&#39;](https://www.pcgamer.com/games/game-made-in-consultancy-with-alien-abductees-delists-itself-after-claiming-it-received-a-bomb-threat-and-the-authorities-are-part-of-the-problem/)
+ - [MrBeast&#39;s YouTube schtick is somehow even worse with the obscene Amazon money being pumped into Beast Games](https://www.pcgamer.com/hardware/streaming/mrbeasts-youtube-schtick-is-somehow-even-worse-with-the-obscene-amazon-money-being-pumped-into-beast-games/)
+ - [Nine Sols review](https://www.pcgamer.com/games/adventure/nine-sols-review/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
