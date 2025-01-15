@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Id watch that movie](http://9gag.com/gag/a0e43od)
- - ⏩ [A French woman sent 800k\u20ac to a scammer impersonating Brad Pitt](http://9gag.com/gag/aZZDO46)
- - 👉 [GTA games detail differences](http://9gag.com/gag/a34Zmy5)<!-- MEMES:END -->
+ - 💣 [Hilarious](http://9gag.com/gag/aGyEmb0)
+ - ⏩ [GTA games detail differences](http://9gag.com/gag/a34Zmy5)
+ - 👉 [My friends tape](http://9gag.com/gag/aXPn6N2)<!-- MEMES:END -->
 
 ---
 
