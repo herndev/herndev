@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Card&#39;s future in question as Goldman Sachs CEO eyes early exit](https://appleinsider.com/articles/25/01/15/apple-cards-future-in-question-as-goldman-sachs-ceo-eyes-early-exit?utm_medium=rss)
- - [DappRadar: NFT trading volumes in 2024 fell 19% YoY to $13.7B and sales counts fell 18% YoY to just under 50M, making 2024 the worst performing year since 2020 &lpar;Jesse Coghlan/Cointelegraph&rpar;](http://www.techmeme.com/250115/p35#a250115p35)
- - [Blue Origin is gearing up for a high-stakes launch with its New Glenn rocket](https://www.theverge.com/24344458/blue-origin-new-glenn-rocket-launch-date-time-bezos)<!-- TECH:END -->
+ - [Android 16 could borrow one of the best OxygenOS multitasking features for tablets](https://www.androidauthority.com/android-16-open-canvas-3516937/)
+ - [Gemini app will now have access to real-time AP news in latest AI deal](https://www.androidauthority.com/gemini-app-ap-deal-3516926/)
+ - [Super Bowl LIX will stream for free on Tubi](https://www.theverge.com/2025/1/15/24344628/super-bowl-lix-tubi-stream-free-fox)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
