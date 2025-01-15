@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Not Many Meta Employees Will Have to Move to Texas After All](https://www.wired.com/story/not-many-meta-employees-move-to-texas-content-moderation/)
- - [Galaxy S25 Slim renders tease just how far Samsung could push limits](https://www.androidauthority.com/galaxy-s25-slim-renders-3516915/)
- - [Donald Trump is considering issuing an executive order once in office that would suspend enforcement of the TikTok sale-or-ban law for 60 to 90 days &lpar;Washington Post&rpar;](http://www.techmeme.com/250115/p37#a250115p37)<!-- TECH:END -->
+ - [Save $250 on a Samsung Galaxy Z Flip 6](https://www.androidauthority.com/samsung-galaxy-z-flip-6-deal-2-3516958/)
+ - [The FTC Suing John Deere Is a Possible Tipping Point for More Repairable Hardware](https://www.wired.com/story/ftc-sues-john-deere-over-repairability/)
+ - [USDOT sues Southwest Airlines over ‘chronically delayed’ flights](https://www.theverge.com/2025/1/15/24344741/usdot-southwest-airlines-lawsuit-chronically-delayed-flights-frontier)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
