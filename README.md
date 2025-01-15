@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Berlin-based Nelly, whose SaaS lets medical practices digitally onboard new patients, accept payments, and more, raised a &amp;euro;50M Series B led by Cathay Innovation &lpar;Romain Dillet/TechCrunch&rpar;](http://www.techmeme.com/250115/p11#a250115p11)
- - [Pixel 9 series gets a big discount from Google, and it gets even sweeter for YouTube Premium users](https://www.androidauthority.com/pixel-9-series-youtube-premium-promo-code-3516621/)
- - [TikTok prepares for immediate and abrupt US shutdown on Sunday: Report](https://www.androidauthority.com/tiktok-us-ban-shutdown-3516603/)<!-- TECH:END -->
+ - [An excerpt from a book on Animal Crossing details how Nintendo localized the game, which has over 46M in all-time Switch sales, for Western players &lpar;Kelsey Lewin/Polygon&rpar;](http://www.techmeme.com/250115/p15#a250115p15)
+ - [Microsoft won’t support Office apps on Windows 10 after October 14th](https://www.theverge.com/2025/1/15/24344209/microsoft-365-office-apps-windows-10-end-of-support)
+ - [Drake withdraws accusation that UMG and Spotify illegally boosted Kendrick Lamar’s diss track](https://www.theverge.com/2025/1/15/24344210/drake-withdraws-kendrick-umg-spotify-not-like-us-legal-action)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
