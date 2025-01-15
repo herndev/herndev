@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Game made in consultancy with alien abductees delists itself after claiming it received a bomb threat and the authorities are &#39;part of the problem&#39;](https://www.pcgamer.com/games/game-made-in-consultancy-with-alien-abductees-delists-itself-after-claiming-it-received-a-bomb-threat-and-the-authorities-are-part-of-the-problem/)
- - [MrBeast&#39;s YouTube schtick is somehow even worse with the obscene Amazon money being pumped into Beast Games](https://www.pcgamer.com/hardware/streaming/mrbeasts-youtube-schtick-is-somehow-even-worse-with-the-obscene-amazon-money-being-pumped-into-beast-games/)
- - [Nine Sols review](https://www.pcgamer.com/games/adventure/nine-sols-review/)<!-- GAME:END -->
+ - [Marvel Rivals director all but tells players to git gud when going up against Jeff&#39;s ultimate, but I have a couple of tips that&#39;ll actually help you](https://www.pcgamer.com/games/third-person-shooter/marvel-rivals-director-all-but-tells-players-to-git-gud-when-going-up-against-jeffs-ultimate-but-i-have-a-couple-of-tips-thatll-actually-help-you/)
+ - [Castlevania: Symphony of the Night’s notorious English translation didn’t need fixing](https://www.polygon.com/gaming/506820/castlevania-symphony-night-english-translation-mistakes-changes)
+ - [Game made in consultancy with alien abductees delists itself after claiming it received a bomb threat for making certain information public](https://www.pcgamer.com/games/game-made-in-consultancy-with-alien-abductees-delists-itself-after-claiming-it-received-a-bomb-threat-and-the-authorities-are-part-of-the-problem/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
