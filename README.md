@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [TikTok prepares for immediate and abrupt US shutdown on Sunday: Report](https://www.androidauthority.com/tiktok-us-ban-shutdown-3516603/)
- - [ChatGPT now offers smart reminders, and we’ve tried it](https://www.androidauthority.com/chatgpt-smart-reminders-3516577/)
- - [Walmart Promo Codes and Coupons: $10 Off](https://www.wired.com/story/top-walmart-promo-codes/)<!-- TECH:END -->
+ - [Berlin-based Nelly, whose SaaS lets medical practices digitally onboard new patients, accept payments, and more, raised a &amp;euro;50M Series B led by Cathay Innovation &lpar;Romain Dillet/TechCrunch&rpar;](http://www.techmeme.com/250115/p11#a250115p11)
+ - [Pixel 9 series gets a big discount from Google, and it gets even sweeter for YouTube Premium users](https://www.androidauthority.com/pixel-9-series-youtube-premium-promo-code-3516621/)
+ - [TikTok prepares for immediate and abrupt US shutdown on Sunday: Report](https://www.androidauthority.com/tiktok-us-ban-shutdown-3516603/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
