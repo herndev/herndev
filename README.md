@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How gamers are turning gaming PCs into fashion statements: iBuypower customers spend an average of ~$2.4K on custom-built gaming PCs and $1.6K on prebuilt ones &lpar;Cecilia D&#39;Anastasio/Bloomberg&rpar;](http://www.techmeme.com/250115/p26#a250115p26)
- - [Hinge&#39;s New AI Tool Wants to Help You Avoid Making a Bad Dating Profile](https://www.cnet.com/tech/services-and-software/hinges-new-ai-tool-wants-to-help-you-avoid-making-a-bad-dating-profile/#ftag=CAD590a51e)
- - [Wallpaper Wednesday: More great phone wallpapers for all to share &lpar;January 15&rpar;](https://www.androidauthority.com/wallpaper-wednesday-jan-15-2025-3516088/)<!-- TECH:END -->
+ - [Social media platforms are not built for this](https://www.theverge.com/2025/1/15/24340185/los-angeles-california-wildfires-tiktok-instagram-twitter-content)
+ - [FTC sues John Deere for ‘unfairly’ raising repair costs on farm equipment](https://www.theverge.com/2025/1/15/24344325/john-deere-repair-right-ftc-lawsuit-tractor)
+ - [A 28-year-old woman describes her &quot;relationship&quot; with ChatGPT, or Leo as the chatbot named itself, which became her therapist, erotic partner, and advisor &lpar;Kashmir Hill/New York Times&rpar;](http://www.techmeme.com/250115/p28#a250115p28)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
