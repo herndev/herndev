@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Like mother, like daughter, huh?](http://9gag.com/gag/apR94NB)
- - ⏩ [Depends who has the sword](http://9gag.com/gag/amoA4ZX)
- - 👉 [Bruce got pied](http://9gag.com/gag/aNDw6AA)<!-- MEMES:END -->
+ - 💣 [Take a guess](http://9gag.com/gag/aLn1Yog)
+ - ⏩ [Nice](http://9gag.com/gag/an7zAXb)
+ - 👉 [100% of 9gagers](http://9gag.com/gag/an7zLR0)<!-- MEMES:END -->
 
 ---
 
