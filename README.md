@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Hilarious](http://9gag.com/gag/aGyEmb0)
- - ⏩ [GTA games detail differences](http://9gag.com/gag/a34Zmy5)
- - 👉 [My friends tape](http://9gag.com/gag/aXPn6N2)<!-- MEMES:END -->
+ - ⏩ [Burned Oscar](http://9gag.com/gag/amoAjqj)
+ - 👉 [DEI, your tax dollars at work](http://9gag.com/gag/a87qZr1)<!-- MEMES:END -->
 
 ---
 
