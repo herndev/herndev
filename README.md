@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Adam Scott on using Severance’s weird, retrofuturistic computers](https://www.theverge.com/2025/1/15/24340723/severance-season-2-computers-adam-scott-interview)
- - [Nikita Bier, creator of apps like tbh and anonymous compliments app Gas, launches Explode, a freemium app to send disappearing texts and photos via iMessage &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/250115/p31#a250115p31)
- - [Tim Cook talks wine, chocolate, and how Apple Watch saved his father](https://appleinsider.com/articles/25/01/15/tim-cook-talks-wine-chocolate-and-how-apple-watch-saved-his-father?utm_medium=rss)<!-- TECH:END -->
+ - [Google beefs up Home with Nest Protect and expanded Matter smart lock support](https://www.androidauthority.com/google-home-nest-protect-3516859/)
+ - [Coupon savings hit Apple&#39;s M4 Pro Mac mini with 24GB RAM, 2TB SSD](https://appleinsider.com/articles/25/01/15/coupon-savings-hit-apples-m4-pro-mac-mini-with-24gb-ram-2tb-ssd?utm_medium=rss)
+ - [Google says it has partnered with the AP to deliver a feed of real-time information to enhance the usefulness of results displayed in the Gemini app &lpar;Jaffer Zaidi/The Keyword&rpar;](http://www.techmeme.com/250115/p33#a250115p33)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
