@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Social media platforms are not built for this](https://www.theverge.com/2025/1/15/24340185/los-angeles-california-wildfires-tiktok-instagram-twitter-content)
- - [FTC sues John Deere for ‘unfairly’ raising repair costs on farm equipment](https://www.theverge.com/2025/1/15/24344325/john-deere-repair-right-ftc-lawsuit-tractor)
- - [A 28-year-old woman describes her &quot;relationship&quot; with ChatGPT, or Leo as the chatbot named itself, which became her therapist, erotic partner, and advisor &lpar;Kashmir Hill/New York Times&rpar;](http://www.techmeme.com/250115/p28#a250115p28)<!-- TECH:END -->
+ - [Adam Scott on using Severance’s weird, retrofuturistic computers](https://www.theverge.com/2025/1/15/24340723/severance-season-2-computers-adam-scott-interview)
+ - [Nikita Bier, creator of apps like tbh and anonymous compliments app Gas, launches Explode, a freemium app to send disappearing texts and photos via iMessage &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/250115/p31#a250115p31)
+ - [Tim Cook talks wine, chocolate, and how Apple Watch saved his father](https://appleinsider.com/articles/25/01/15/tim-cook-talks-wine-chocolate-and-how-apple-watch-saved-his-father?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
