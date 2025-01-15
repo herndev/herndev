@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Corrupted is the intimate TTRPG version of The Last Of Us](https://www.polygon.com/tabletop-games/508936/corrupted-zombie-apocalypse-ttrpg-last-us-navaar-jackson)
- - [The Sims 3 gets another patch, 10 years since its last update](https://www.polygon.com/the-sims/508823/3-new-patch-2025)
- - [Neil Gaiman breaks silence on sexual assault allegations: ‘I was caught up in my own story’](https://www.polygon.com/news/508662/neil-gaiman-response-sexual-assault-allegations)<!-- GAME:END -->
+ - [New Year Deals come to PlayStation Store](https://blog.playstation.com/2025/01/14/new-year-deals-come-to-playstation-store/)
+ - [Former Stalker dev reveals new FPS set in a post-apocalyptic Paris that&#39;s been overrun by sentient trees](https://www.pcgamer.com/games/fps/former-stalker-dev-reveals-new-fps-set-in-a-post-apocalyptic-paris-thats-been-overrun-by-sentient-trees/)
+ - [Terraria creator jokes that the 1.4.5 update may not be the last one after all: &#39;Terraria will never die as long as there is one last final update&#39;](https://www.pcgamer.com/games/survival-crafting/terraria-creator-jokes-that-the-1-4-5-update-may-not-be-the-last-one-after-all-terraria-will-never-die-as-long-as-there-is-one-last-final-update/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
