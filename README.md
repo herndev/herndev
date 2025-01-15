@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Android 16 could borrow one of the best OxygenOS multitasking features for tablets](https://www.androidauthority.com/android-16-open-canvas-3516937/)
- - [Gemini app will now have access to real-time AP news in latest AI deal](https://www.androidauthority.com/gemini-app-ap-deal-3516926/)
- - [Super Bowl LIX will stream for free on Tubi](https://www.theverge.com/2025/1/15/24344628/super-bowl-lix-tubi-stream-free-fox)<!-- TECH:END -->
+ - [Not Many Meta Employees Will Have to Move to Texas After All](https://www.wired.com/story/not-many-meta-employees-move-to-texas-content-moderation/)
+ - [Galaxy S25 Slim renders tease just how far Samsung could push limits](https://www.androidauthority.com/galaxy-s25-slim-renders-3516915/)
+ - [Donald Trump is considering issuing an executive order once in office that would suspend enforcement of the TikTok sale-or-ban law for 60 to 90 days &lpar;Washington Post&rpar;](http://www.techmeme.com/250115/p37#a250115p37)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
