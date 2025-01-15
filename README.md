@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Analysis: the ten leading chip companies cut their fiscal 2024 capex by a combined $9.5B from initial plans due to a weakening demand for smartphones and EVs &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/250115/p6#a250115p6)
- - [Gmail for Android gets a handy shortcut for Gemini-generated replies](https://www.androidauthority.com/gmail-android-gemini-replies-insert-button-3516568/)
- - [Tether plans to relocate its corporate entity and subsidiaries to El Salvador after obtaining a digital asset service provider license in the country &lpar;Emily Nicolle/Bloomberg&rpar;](http://www.techmeme.com/250115/p5#a250115p5)<!-- TECH:END -->
+ - [Synthesia, a London-based B2B startup building products around highly realistic AI avatar technology, raised a $180M Series D led by NEA at a $2.1B valuation &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/250115/p10#a250115p10)
+ - [An in-depth look at the state of video gaming in 2025, including why gaming soared from 2011-2021 then stalled, China&#39;s global rise, and mobile gaming growth &lpar;Matthew Ball/MatthewBall.co&rpar;](http://www.techmeme.com/250115/p9#a250115p9)
+ - [Best Internet Providers in Berkeley, California](https://www.cnet.com/home/internet/best-internet-providers-in-berkeley-ca/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
