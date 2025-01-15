@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Hilarious](http://9gag.com/gag/aGyEmb0)
- - ⏩ [Burned Oscar](http://9gag.com/gag/amoAjqj)
- - 👉 [DEI, your tax dollars at work](http://9gag.com/gag/a87qZr1)<!-- MEMES:END -->
+ - 💣 [She seems fun to hangout with.](http://9gag.com/gag/axyo5RL)
+ - ⏩ [Hey definitely understood the assignment.](http://9gag.com/gag/aXPn5o6)
+ - 👉 [Yeah they totally deserve it](http://9gag.com/gag/abAv9A9)<!-- MEMES:END -->
 
 ---
 
