@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Industry insiders say China&#39;s share of the global DRAM chip market could double YoY to 10% in 2025, driven by CXMT, up from virtually zero just five years ago &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/250115/p3#a250115p3)
- - [The CFTC puts trading of Super Bowl and other sports derivatives on Crypto.com under review; the firm says it rejected the CFTC&#39;s request to halt such trading &lpar;Lydia Beyoud/Bloomberg&rpar;](http://www.techmeme.com/250115/p2#a250115p2)
- - [Samsung’s latest Galaxy S25 AI teaser channels major Jarvis energy](https://www.androidauthority.com/samsung-galaxy-s25-galaxy-ai-bixby-teaser-3516559/)<!-- TECH:END -->
+ - [Analysis: the ten leading chip companies cut their fiscal 2024 capex by a combined $9.5B from initial plans due to a weakening demand for smartphones and EVs &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/250115/p6#a250115p6)
+ - [Gmail for Android gets a handy shortcut for Gemini-generated replies](https://www.androidauthority.com/gmail-android-gemini-replies-insert-button-3516568/)
+ - [Tether plans to relocate its corporate entity and subsidiaries to El Salvador after obtaining a digital asset service provider license in the country &lpar;Emily Nicolle/Bloomberg&rpar;](http://www.techmeme.com/250115/p5#a250115p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
