@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Asus ROG Strix B850-F Gaming WiFi review](https://www.pcgamer.com/hardware/motherboards/asus-rog-strix-b850-f-gaming-wifi-review/)
- - [Sims boss Lyndsay Pearson says &#39;leaks are unavoidable&#39; and &#39;you&#39;re going to end up with crossed wires occasionally&#39; as EA stays clammed-up about Project Rene](https://www.pcgamer.com/games/the-sims/sims-boss-lyndsay-pearson-says-leaks-are-unavoidable-and-youre-going-to-end-up-with-crossed-wires-occasionally-as-ea-stays-clammed-up-about-project-rene/)
- - [Suicide Squad&#39;s True Ending Is Finally Live And Players Are In Disbelief](https://kotaku.com/suicide-squad-kill-justice-league-ending-batman-spoiler-1851739940)<!-- GAME:END -->
+ - [The Suicide Squad game undoes its superhero deaths in the cheapest way](https://www.polygon.com/news/509076/suicide-squad-game-batman-superman-deaths)
+ - [&#39;The team wants every kind of player to enjoy the game&#39;: Marvel Rivals director wants to foster a competitive scene, but not at the expense of fun](https://www.pcgamer.com/games/third-person-shooter/the-team-wants-every-kind-of-player-to-enjoy-the-game-marvel-rivals-director-wants-to-foster-a-competitive-scene-but-not-at-the-expense-of-fun/)
+ - [Daredevil: Born Again&#39;s New Trailer Complicates Wilson Fisk and Matt Murdock&#39;s Relationship](https://kotaku.com/daredevil-born-again-disney-wilson-fisk-matt-murdock-1851740074)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
