@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Mom, how will I know if she is the right one?](http://9gag.com/gag/ayN2GBp)
- - ⏩ [I should buy a sign..](http://9gag.com/gag/axyoXmM)
- - 👉 [Shocking](http://9gag.com/gag/aqye3PP)<!-- MEMES:END -->
+ - 💣 [Physicist Galen Winsor eats uranium on live television in 1985 to show that it\u2019s \u201charmless\u201d.](http://9gag.com/gag/aByd7ZA)
+ - ⏩ [Op sucks not only d! &lpar;Ks but also at life!!!](http://9gag.com/gag/aVvbNYn)
+ - 👉 [Daydreams of shopping with the wife](http://9gag.com/gag/aE0qLno)<!-- MEMES:END -->
 
 ---
 
