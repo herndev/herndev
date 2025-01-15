@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [She seems fun to hangout with.](http://9gag.com/gag/axyo5RL)
- - ⏩ [Yeah they totally deserve it](http://9gag.com/gag/abAv9A9)
- - 👉 [Hey definitely understood the assignment.](http://9gag.com/gag/aXPn5o6)<!-- MEMES:END -->
+ - 💣 [Worst neighbour.](http://9gag.com/gag/aVvbAjP)
+ - ⏩ [The water truck has put out the fire while the firefighters arrived](http://9gag.com/gag/apR9OLD)
+ - 👉 [Like mother, like daughter, huh?](http://9gag.com/gag/apR94NB)<!-- MEMES:END -->
 
 ---
 
