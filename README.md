@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Self Awareness](http://9gag.com/gag/arymjeK)
- - ⏩ [Insane card trick.](http://9gag.com/gag/abAv9BL)
- - 👉 [9gaggers typical luck.](http://9gag.com/gag/aqyeoLM)<!-- MEMES:END -->
+ - 💣 [She seems fun to hangout with.](http://9gag.com/gag/axyo5RL)
+ - ⏩ [Yeah they totally deserve it](http://9gag.com/gag/abAv9A9)
+ - 👉 [Hey definitely understood the assignment.](http://9gag.com/gag/aXPn5o6)<!-- MEMES:END -->
 
 ---
 
