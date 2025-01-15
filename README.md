@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Physicist Galen Winsor eats uranium on live television in 1985 to show that it\u2019s \u201charmless\u201d.](http://9gag.com/gag/aByd7ZA)
- - ⏩ [Op sucks not only d! &lpar;Ks but also at life!!!](http://9gag.com/gag/aVvbNYn)
- - 👉 [Daydreams of shopping with the wife](http://9gag.com/gag/aE0qLno)<!-- MEMES:END -->
+ - 💣 [Op sucks not only d! &lpar;Ks but also at life!!!](http://9gag.com/gag/aVvbNYn)
+ - ⏩ [When she finally invites you over...](http://9gag.com/gag/a4Poe5m)
+ - 👉 [Self Awareness](http://9gag.com/gag/arymjeK)<!-- MEMES:END -->
 
 ---
 
