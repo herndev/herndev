@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [These men are not special forces; they are members of the CJNG, one of Mexico&#39;s most powerful and dangerous cartels](http://9gag.com/gag/ajPVenx)
- - ⏩ [A French woman sent 800k\u20ac to a scammer impersonating Brad Pitt](http://9gag.com/gag/aZZDO46)
- - 👉 [`Let me finish you small strange man` \ud83d\ude05](http://9gag.com/gag/a2vKedp)<!-- MEMES:END -->
+ - 💣 [Worst neighbour.](http://9gag.com/gag/aVvbAjP)
+ - ⏩ [Those Tanlines](http://9gag.com/gag/aXPnDL2)
+ - 👉 [Philly man got arrested by his twin brother](http://9gag.com/gag/a5QX0zN)<!-- MEMES:END -->
 
 ---
 
