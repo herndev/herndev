@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Crazy Nokia Designs That Never Saw the Light of Day](https://www.wired.com/gallery/nokia-design-archive-photo-gallery-of-wacky-phone-designs/)
- - [Two private landers head to the moon to aid future NASA astronauts](https://www.theverge.com/2025/1/15/24344240/spacex-blue-ghost-resilience-moon-landers-nasa-artemis-mission)
- - [The Philippines&#39; decision to supercharge its online gambling sector has been disastrous, opening the door to crimes, including money laundering, in the country &lpar;Bloomberg&rpar;](http://www.techmeme.com/250115/p21#a250115p21)<!-- TECH:END -->
+ - [The 7 Best Linen Sheets for Cool and Comfy Sleeping &lpar;2025&rpar;](https://www.wired.com/gallery/best-linen-sheets/)
+ - [Honor’s Magic 7 Pro looks flagship through and through](https://www.theverge.com/2025/1/15/24344248/honor-magic-7-pro-launch-europe-snapdragon-8-elite-ip69)
+ - [Authorities in Singapore, which has a dire shortage of nurses, see the potential in AI tools to assist in preventive illness care, especially for the elderly &lpar;Reeta Raman/Rest of World&rpar;](http://www.techmeme.com/250115/p22#a250115p22)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
