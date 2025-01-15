@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Celebrate the New Year With UFC 5 Joining the Play List and EA Sports Week](https://news.xbox.com/en-us/2025/01/15/ea-play-january-rewards-ea-sports-week/)
- - [The best thing the Switch 2 can be is weird](https://www.polygon.com/nintendo-switch-2/508933/switch-2-hardware-software-predictions)
- - [The best thing you can do at a Wicked sing-along screening? Be the first one to sing](https://www.polygon.com/movies/508496/wicked-sing-along-theater-experience-karaoke)<!-- GAME:END -->
+ - [MCU Baddie From First Iron Man Movie Returning For WandaVision Spin-Off](https://kotaku.com/mcu-raza-return-wandavision-iron-man-vision-spin-off-tv-1851740404)
+ - [The Atari 7800 Plus gets its first discount at Amazon](https://www.polygon.com/good-deals/509294/atari-7800-2600-plus-retro-sale)
+ - [The status of all Neil Gaiman’s TV and film projects, including Sandman season 2](https://www.polygon.com/news/508776/gaiman-halted-canceled-projects-sandman-netflix-anansi-boys)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
