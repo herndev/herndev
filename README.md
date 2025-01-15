@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Take a guess](http://9gag.com/gag/aLn1Yog)
- - ⏩ [Nice](http://9gag.com/gag/an7zAXb)
- - 👉 [100% of 9gagers](http://9gag.com/gag/an7zLR0)<!-- MEMES:END -->
+ - 💣 [Really easy to understand](http://9gag.com/gag/a0e4Awz)
+ - ⏩ [Those Tanlines](http://9gag.com/gag/aXPnDL2)
+ - 👉 [Diver helping a shark removing a hook](http://9gag.com/gag/a87qPbY)<!-- MEMES:END -->
 
 ---
 
