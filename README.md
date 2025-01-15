@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I wonder why they can&#39;t get a date](http://9gag.com/gag/a6ZqP2e)
- - ⏩ [When ur homie keeps going to Thailand for food and culture...](http://9gag.com/gag/aVvbyR8)
- - 👉 [Bruce got pied](http://9gag.com/gag/aNDw6AA)<!-- MEMES:END -->
+ - 💣 [Mom, buy me a railroad! Dad made you a railroad.](http://9gag.com/gag/aZZDe0W)
+ - ⏩ [How Yugi always wins](http://9gag.com/gag/aVvbnQO)
+ - 👉 [Installing a motherboard on your gpu](http://9gag.com/gag/adBPD7Q)<!-- MEMES:END -->
 
 ---
 
