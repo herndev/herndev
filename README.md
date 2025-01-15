@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [MCU Baddie From First Iron Man Movie Returning For WandaVision Spin-Off](https://kotaku.com/mcu-raza-return-wandavision-iron-man-vision-spin-off-tv-1851740404)
- - [The Atari 7800 Plus gets its first discount at Amazon](https://www.polygon.com/good-deals/509294/atari-7800-2600-plus-retro-sale)
- - [The status of all Neil Gaiman’s TV and film projects, including Sandman season 2](https://www.polygon.com/news/508776/gaiman-halted-canceled-projects-sandman-netflix-anansi-boys)<!-- GAME:END -->
+ - [Alan Wake 2 devs won’t fix a bug used by speedrunners](https://www.polygon.com/news/509309/alan-wake-2-lake-house-speedrun-bug-elevator-skip-remedy)
+ - [Riot admits it &#39;screwed up&#39; League of Legends&#39; new reward system, because somebody forgot to add a big chunk of numbers in the new XP calculations](https://www.pcgamer.com/games/moba/riot-admits-it-screwed-up-league-of-legends-new-reward-system-because-somebody-forgot-to-add-a-big-chunk-of-numbers-in-the-new-xp-calculations/)
+ - [Pokémon Go Giovanni counters, team line-up in January 2025](https://www.polygon.com/pokemon-go-guide/23581491/giovanni-counters-team-go-rocket)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
