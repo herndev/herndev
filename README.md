@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Development of Fortune&#39;s Run is &#39;imploding&#39; as its sole remaining developer announces they&#39;ve been sentenced to 3 years in jail: &#39;What I did was wrong and that&#39;s all you need to know&#39;](https://www.pcgamer.com/games/fps/development-of-fortunes-run-is-imploding-as-its-sole-remaining-developer-announces-theyve-been-sentenced-to-3-years-in-jail-what-i-did-was-wrong-and-thats-all-you-need-to-know/)
- - [8BitDo Ultimate 2C wireless controller review](https://www.pcgamer.com/hardware/controllers/8bitdo-ultimate-2c-wireless-controller-review/)
- - [AndaSeat X-Air Pro review](https://www.pcgamer.com/hardware/gaming-chairs/andaseat-x-air-pro-review/)<!-- GAME:END -->
+ - [Asus ROG Strix B850-F Gaming WiFi review](https://www.pcgamer.com/hardware/motherboards/asus-rog-strix-b850-f-gaming-wifi-review/)
+ - [Sims boss Lyndsay Pearson says &#39;leaks are unavoidable&#39; and &#39;you&#39;re going to end up with crossed wires occasionally&#39; as EA stays clammed-up about Project Rene](https://www.pcgamer.com/games/the-sims/sims-boss-lyndsay-pearson-says-leaks-are-unavoidable-and-youre-going-to-end-up-with-crossed-wires-occasionally-as-ea-stays-clammed-up-about-project-rene/)
+ - [Suicide Squad&#39;s True Ending Is Finally Live And Players Are In Disbelief](https://kotaku.com/suicide-squad-kill-justice-league-ending-batman-spoiler-1851739940)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
