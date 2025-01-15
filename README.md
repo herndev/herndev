@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [New Year Deals come to PlayStation Store](https://blog.playstation.com/2025/01/14/new-year-deals-come-to-playstation-store/)
- - [New Year Deals come to PlayStation Store](https://blog.playstation.com/2025/01/14/new-year-deals-come-to-playstation-store/)
- - [Former Stalker dev reveals new FPS set in a post-apocalyptic Paris that&#39;s been overrun by sentient trees](https://www.pcgamer.com/games/fps/former-stalker-dev-reveals-new-fps-set-in-a-post-apocalyptic-paris-thats-been-overrun-by-sentient-trees/)<!-- GAME:END -->
+ - [Diablo 4 is getting its first bird pet in Season 7](https://www.pcgamer.com/games/rpg/diablo-4-is-getting-its-first-bird-pet-in-season-7/)
+ - [Today&#39;s Wordle answer for Wednesday, January 15](https://www.pcgamer.com/games/puzzle/wordle-answer-today-january-15-2025/)
+ - [New Year Deals come to PlayStation Store](https://blog.playstation.com/2025/01/14/new-year-deals-come-to-playstation-store/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
