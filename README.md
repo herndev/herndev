@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [They&#39;re super addictive](http://9gag.com/gag/a6ZqAx9)
- - ⏩ [Dude having a good day at work.](http://9gag.com/gag/apR9W2p)
- - 👉 [UK is doomed.](http://9gag.com/gag/avyQNWE)<!-- MEMES:END -->
+ - 💣 [Bruce got pied](http://9gag.com/gag/aNDw6AA)
+ - ⏩ [They say empty can make the most noise.](http://9gag.com/gag/a7oqQ5m)
+ - 👉 [Like mother, like daughter, huh?](http://9gag.com/gag/apR94NB)<!-- MEMES:END -->
 
 ---
 
