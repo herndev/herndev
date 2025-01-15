@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Op sucks not only d! &lpar;Ks but also at life!!!](http://9gag.com/gag/aVvbNYn)
- - ⏩ [When she finally invites you over...](http://9gag.com/gag/a4Poe5m)
- - 👉 [Self Awareness](http://9gag.com/gag/arymjeK)<!-- MEMES:END -->
+ - 💣 [What a huge\u2026huge\u2026accomplishment](http://9gag.com/gag/adBPEgZ)
+ - ⏩ [Bruce got pied](http://9gag.com/gag/aNDw6AA)
+ - 👉 [`Let me finish you small strange man` \ud83d\ude05](http://9gag.com/gag/a2vKedp)<!-- MEMES:END -->
 
 ---
 
