@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Report: UK startups raised &amp;euro;16.4B in 2024, Germany raised &amp;euro;9.4B, France raised &amp;euro;7.1B; investment in French AI startups grew from &amp;euro;1B in 2023 to &amp;euro;1.9B in 2024 &lpar;Sifted&rpar;](http://www.techmeme.com/250114/p35#a250114p35)
  - [Sources and docs: Meta has dismantled its system that identified viral hoaxes and limited their reach, and told content-ranking teams to stop penalizing misinfo &lpar;Casey Newton/Platformer&rpar;](http://www.techmeme.com/250114/p34#a250114p34)
- - [Vego Kitchen Composter review: keep food scraps out of the trash](https://appleinsider.com/articles/25/01/15/vego-kitchen-composter-review-keep-food-scraps-out-of-the-trash?utm_medium=rss)
- - [Today’s hottest portable battery deals: Anker and UGREEN](https://www.androidauthority.com/anker-ugreen-deals-2-3516465/)<!-- TECH:END -->
+ - [Vego Kitchen Composter review: keep food scraps out of the trash](https://appleinsider.com/articles/25/01/15/vego-kitchen-composter-review-keep-food-scraps-out-of-the-trash?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
