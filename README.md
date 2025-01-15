@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: TikTok plans to block access to its app for US users on Jan. 19 unless SCOTUS stops the ban; one source says a pop-up message will give users more info &lpar;The Information&rpar;](http://www.techmeme.com/250114/p40#a250114p40)
- - [How to record audio and create transcripts in Notes in iOS 18](https://appleinsider.com/inside/ios-18/tips/how-to-record-audio-and-create-transcripts-in-notes-in-ios-18?utm_medium=rss)
- - [Experts say Donald Trump and others pushing for stronger US cyber offense must clarify if escalation is a proper response to recent Chinese cyber breaches &lpar;CyberScoop&rpar;](http://www.techmeme.com/250114/p39#a250114p39)<!-- TECH:END -->
+ - [Industry insiders say China&#39;s share of the global DRAM chip market could double YoY to 10% in 2025, driven by CXMT, up from virtually zero just five years ago &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/250115/p3#a250115p3)
+ - [The CFTC puts trading of Super Bowl and other sports derivatives on Crypto.com under review; the firm says it rejected the CFTC&#39;s request to halt such trading &lpar;Lydia Beyoud/Bloomberg&rpar;](http://www.techmeme.com/250115/p2#a250115p2)
+ - [Samsung’s latest Galaxy S25 AI teaser channels major Jarvis energy](https://www.androidauthority.com/samsung-galaxy-s25-galaxy-ai-bixby-teaser-3516559/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
