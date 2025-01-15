@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Really easy to understand](http://9gag.com/gag/a0e4Awz)
- - ⏩ [Those Tanlines](http://9gag.com/gag/aXPnDL2)
- - 👉 [Diver helping a shark removing a hook](http://9gag.com/gag/a87qPbY)<!-- MEMES:END -->
+ - 💣 [Op sucks not only d! &lpar;Ks but also at life!!!](http://9gag.com/gag/aVvbNYn)
+ - ⏩ [Dude, its Salma Hayek](http://9gag.com/gag/aBydpKP)
+ - 👉 [Bruce got pied](http://9gag.com/gag/aNDw6AA)<!-- MEMES:END -->
 
 ---
 
