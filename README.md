@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [TSMC&#39;s next-gen 2nm silicon is reportedly on track for later this year but don&#39;t expect chips for PCs until 2027 and beyond](https://www.pcgamer.com/hardware/tsmcs-next-gen-2nm-silicon-is-reportedly-on-track-for-later-this-year-but-dont-expect-chips-for-pcs-until-2027-and-beyond/)
  - [How to get Shroodle and evolution Grafaiai in Pokémon Go](https://www.polygon.com/pokemon-go-guide/509046/shroodle-evolution-grafaiai-shiny)
- - [Diablo 4 is getting its first bird pet in Season 7](https://www.pcgamer.com/games/rpg/diablo-4-is-getting-its-first-bird-pet-in-season-7/)
- - [Today&#39;s Wordle answer for Wednesday, January 15](https://www.pcgamer.com/games/puzzle/wordle-answer-today-january-15-2025/)<!-- GAME:END -->
+ - [Diablo 4 is getting its first bird pet in Season 7](https://www.pcgamer.com/games/rpg/diablo-4-is-getting-its-first-bird-pet-in-season-7/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
