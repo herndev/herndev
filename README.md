@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Alan Wake 2 devs won’t fix a bug used by speedrunners](https://www.polygon.com/news/509309/alan-wake-2-lake-house-speedrun-bug-elevator-skip-remedy)
- - [Riot admits it &#39;screwed up&#39; League of Legends&#39; new reward system, because somebody forgot to add a big chunk of numbers in the new XP calculations](https://www.pcgamer.com/games/moba/riot-admits-it-screwed-up-league-of-legends-new-reward-system-because-somebody-forgot-to-add-a-big-chunk-of-numbers-in-the-new-xp-calculations/)
- - [Pokémon Go Giovanni counters, team line-up in January 2025](https://www.polygon.com/pokemon-go-guide/23581491/giovanni-counters-team-go-rocket)<!-- GAME:END -->
+ - [Chromebooks Are More Powerful Than Ever But Still Bad For Gaming On](https://kotaku.com/acer-chromebook-plus-516-ge-review-gaming-pc-laptop-1851740112)
+ - [Could Pricing Grand Theft Auto 6 At $100 Help Save The Game Industry?](https://kotaku.com/gta-6-price-video-game-industry-state-of-release-date-1851740553)
+ - [Romanian folklore, David Lynch, and heavy metal come together in a dark fantasy hack-and-slash action game &#39;with an even darker sense of humor&#39;](https://www.pcgamer.com/games/action/romanian-folklore-david-lynch-and-heavy-metal-come-together-in-a-dark-fantasy-hack-and-slash-action-game-with-an-even-darker-sense-of-humor/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
