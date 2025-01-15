@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [TikTok tells employees it’s ‘planning for various scenarios’ ahead of possible US ban](https://www.theverge.com/2025/1/14/24343933/tiktok-employee-memo-supreme-court-us-ban)
- - [Apple releases third developer beta of watchOS 11.3 for testing](https://appleinsider.com/articles/25/01/14/apple-releases-third-developer-beta-of-watchos-113-for-testing?utm_medium=rss)
- - [Google Lens finally decides to prioritize camera-based searches](https://www.androidauthority.com/google-lens-camera-3516488/)<!-- TECH:END -->
+ - [Can Elon Musk really save TikTok?](https://www.theverge.com/2025/1/14/24343507/elon-musk-tiktok-ban-china-trump)
+ - [DJI’s latest drone is nearly unrecognizable when folded up](https://www.androidauthority.com/dji-flip-3516528/)
+ - [In federal court, lawyers for Microsoft and OpenAI defended the scraping of news stories to train LLMs and urged the dismissal of news outlets&#39; copyright claims &lpar;Josh Russell/Courthouse News Service&rpar;](http://www.techmeme.com/250114/p32#a250114p32)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
