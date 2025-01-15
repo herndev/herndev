@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [What a huge\u2026huge\u2026accomplishment](http://9gag.com/gag/adBPEgZ)
- - ⏩ [Bruce got pied](http://9gag.com/gag/aNDw6AA)
- - 👉 [`Let me finish you small strange man` \ud83d\ude05](http://9gag.com/gag/a2vKedp)<!-- MEMES:END -->
+ - 💣 [Shocking](http://9gag.com/gag/aqye3PP)
+ - ⏩ [That looks very cool](http://9gag.com/gag/aO8x6QD)
+ - 👉 [Almost double of her weight, and that is not a lady boy](http://9gag.com/gag/awyZqAx)<!-- MEMES:END -->
 
 ---
 
