@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Mom, buy me a railroad! Dad made you a railroad.](http://9gag.com/gag/aZZDe0W)
- - ⏩ [How Yugi always wins](http://9gag.com/gag/aVvbnQO)
- - 👉 [Installing a motherboard on your gpu](http://9gag.com/gag/adBPD7Q)<!-- MEMES:END -->
+ - 💣 [These men are not special forces; they are members of the CJNG, one of Mexico&#39;s most powerful and dangerous cartels](http://9gag.com/gag/ajPVenx)
+ - ⏩ [A French woman sent 800k\u20ac to a scammer impersonating Brad Pitt](http://9gag.com/gag/aZZDO46)
+ - 👉 [`Let me finish you small strange man` \ud83d\ude05](http://9gag.com/gag/a2vKedp)<!-- MEMES:END -->
 
 ---
 
