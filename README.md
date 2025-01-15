@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Suicide Squad game undoes its superhero deaths in the cheapest way](https://www.polygon.com/news/509076/suicide-squad-game-batman-superman-deaths)
- - [&#39;The team wants every kind of player to enjoy the game&#39;: Marvel Rivals director wants to foster a competitive scene, but not at the expense of fun](https://www.pcgamer.com/games/third-person-shooter/the-team-wants-every-kind-of-player-to-enjoy-the-game-marvel-rivals-director-wants-to-foster-a-competitive-scene-but-not-at-the-expense-of-fun/)
- - [Daredevil: Born Again&#39;s New Trailer Complicates Wilson Fisk and Matt Murdock&#39;s Relationship](https://kotaku.com/daredevil-born-again-disney-wilson-fisk-matt-murdock-1851740074)<!-- GAME:END -->
+ - [Celebrate the New Year With UFC 5 Joining the Play List and EA Sports Week](https://news.xbox.com/en-us/2025/01/15/ea-play-january-rewards-ea-sports-week/)
+ - [The best thing the Switch 2 can be is weird](https://www.polygon.com/nintendo-switch-2/508933/switch-2-hardware-software-predictions)
+ - [The best thing you can do at a Wicked sing-along screening? Be the first one to sing](https://www.polygon.com/movies/508496/wicked-sing-along-theater-experience-karaoke)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
