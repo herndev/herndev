@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Worst neighbour.](http://9gag.com/gag/aVvbAjP)
- - ⏩ [Those Tanlines](http://9gag.com/gag/aXPnDL2)
- - 👉 [Philly man got arrested by his twin brother](http://9gag.com/gag/a5QX0zN)<!-- MEMES:END -->
+ - 💣 [They&#39;re super addictive](http://9gag.com/gag/a6ZqAx9)
+ - ⏩ [Dude having a good day at work.](http://9gag.com/gag/apR9W2p)
+ - 👉 [UK is doomed.](http://9gag.com/gag/avyQNWE)<!-- MEMES:END -->
 
 ---
 
