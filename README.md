@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [An excerpt from a book on Animal Crossing details how Nintendo localized the game, which has over 46M in all-time Switch sales, for Western players &lpar;Kelsey Lewin/Polygon&rpar;](http://www.techmeme.com/250115/p15#a250115p15)
- - [Microsoft won’t support Office apps on Windows 10 after October 14th](https://www.theverge.com/2025/1/15/24344209/microsoft-365-office-apps-windows-10-end-of-support)
- - [Drake withdraws accusation that UMG and Spotify illegally boosted Kendrick Lamar’s diss track](https://www.theverge.com/2025/1/15/24344210/drake-withdraws-kendrick-umg-spotify-not-like-us-legal-action)<!-- TECH:END -->
+ - [Quantum Brilliance, which makes quantum computing hardware using synthetic diamond qubits that work at room temperature in any setting, raised a $20M Series A &lpar;Mike Wheatley/SiliconANGLE&rpar;](http://www.techmeme.com/250115/p19#a250115p19)
+ - [Apple and Amazon get $600 million UK price fixing lawsuit dismissed](https://appleinsider.com/articles/25/01/15/apple-and-amazon-get-600-million-uk-lawsuit-dismissed?utm_medium=rss)
+ - [The VisionTrack Composite Index, which tracks the performance of 130 crypto-focused hedge funds, rose 40% in 2024, compared to Bitcoin&#39;s 120% surge that year &lpar;Bloomberg&rpar;](http://www.techmeme.com/250115/p18#a250115p18)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
