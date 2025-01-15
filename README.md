@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Can Elon Musk really save TikTok?](https://www.theverge.com/2025/1/14/24343507/elon-musk-tiktok-ban-china-trump)
- - [DJI’s latest drone is nearly unrecognizable when folded up](https://www.androidauthority.com/dji-flip-3516528/)
- - [In federal court, lawyers for Microsoft and OpenAI defended the scraping of news stories to train LLMs and urged the dismissal of news outlets&#39; copyright claims &lpar;Josh Russell/Courthouse News Service&rpar;](http://www.techmeme.com/250114/p32#a250114p32)<!-- TECH:END -->
+ - [Sources and docs: Meta has dismantled its system that identified viral hoaxes and limited their reach, and told content-ranking teams to stop penalizing misinfo &lpar;Casey Newton/Platformer&rpar;](http://www.techmeme.com/250114/p34#a250114p34)
+ - [Vego Kitchen Composter review: keep food scraps out of the trash](https://appleinsider.com/articles/25/01/15/vego-kitchen-composter-review-keep-food-scraps-out-of-the-trash?utm_medium=rss)
+ - [Today’s hottest portable battery deals: Anker and UGREEN](https://www.androidauthority.com/anker-ugreen-deals-2-3516465/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
