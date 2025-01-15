@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [DoubleVerify says there is a jump in AI click farms, including a network of 200+ websites called Synthetic Echo, designed to siphon ad revenue from real outlets &lpar;Kate Knibbs/Wired&rpar;](http://www.techmeme.com/250115/p34#a250115p34)
- - [Trump’s transportation pick says he’ll let Tesla investigations proceed](https://www.theverge.com/2025/1/15/24344462/sean-duffy-usdot-nhtsa-tesla-investigation-confirmation)
- - [uBreakiFix will be able to repair your Xbox Series X and S](https://www.theverge.com/2025/1/15/24344420/ubreakifix-repair-xbox-series-x-s)<!-- TECH:END -->
+ - [Apple Card&#39;s future in question as Goldman Sachs CEO eyes early exit](https://appleinsider.com/articles/25/01/15/apple-cards-future-in-question-as-goldman-sachs-ceo-eyes-early-exit?utm_medium=rss)
+ - [DappRadar: NFT trading volumes in 2024 fell 19% YoY to $13.7B and sales counts fell 18% YoY to just under 50M, making 2024 the worst performing year since 2020 &lpar;Jesse Coghlan/Cointelegraph&rpar;](http://www.techmeme.com/250115/p35#a250115p35)
+ - [Blue Origin is gearing up for a high-stakes launch with its New Glenn rocket](https://www.theverge.com/24344458/blue-origin-new-glenn-rocket-launch-date-time-bezos)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
