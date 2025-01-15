@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The 7 Best Linen Sheets for Cool and Comfy Sleeping &lpar;2025&rpar;](https://www.wired.com/gallery/best-linen-sheets/)
- - [Honor’s Magic 7 Pro looks flagship through and through](https://www.theverge.com/2025/1/15/24344248/honor-magic-7-pro-launch-europe-snapdragon-8-elite-ip69)
- - [Authorities in Singapore, which has a dire shortage of nurses, see the potential in AI tools to assist in preventive illness care, especially for the elderly &lpar;Reeta Raman/Rest of World&rpar;](http://www.techmeme.com/250115/p22#a250115p22)<!-- TECH:END -->
+ - [How gamers are turning gaming PCs into fashion statements: iBuypower customers spend an average of ~$2.4K on custom-built gaming PCs and $1.6K on prebuilt ones &lpar;Cecilia D&#39;Anastasio/Bloomberg&rpar;](http://www.techmeme.com/250115/p26#a250115p26)
+ - [Hinge&#39;s New AI Tool Wants to Help You Avoid Making a Bad Dating Profile](https://www.cnet.com/tech/services-and-software/hinges-new-ai-tool-wants-to-help-you-avoid-making-a-bad-dating-profile/#ftag=CAD590a51e)
+ - [Wallpaper Wednesday: More great phone wallpapers for all to share &lpar;January 15&rpar;](https://www.androidauthority.com/wallpaper-wednesday-jan-15-2025-3516088/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
