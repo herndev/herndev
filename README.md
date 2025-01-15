@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Chromebooks Are More Powerful Than Ever But Still Bad For Gaming On](https://kotaku.com/acer-chromebook-plus-516-ge-review-gaming-pc-laptop-1851740112)
- - [Could Pricing Grand Theft Auto 6 At $100 Help Save The Game Industry?](https://kotaku.com/gta-6-price-video-game-industry-state-of-release-date-1851740553)
- - [Romanian folklore, David Lynch, and heavy metal come together in a dark fantasy hack-and-slash action game &#39;with an even darker sense of humor&#39;](https://www.pcgamer.com/games/action/romanian-folklore-david-lynch-and-heavy-metal-come-together-in-a-dark-fantasy-hack-and-slash-action-game-with-an-even-darker-sense-of-humor/)<!-- GAME:END -->
+ - [Arrowhead boss wants to get as many A-listers as possible for the Helldivers 2 film, &#39;as long as they all get killed violently&#39;](https://www.pcgamer.com/movies-tv/arrowhead-boss-wants-to-get-as-many-a-listers-as-possible-for-the-helldivers-2-film-as-long-as-they-all-get-killed-violently/)
+ - [We Need More Shows Like Laid: Comedies That Are Actually Funny](https://kotaku.com/peacock-laid-the-bear-abbott-elementary-comedy-1851740602)
+ - [Chromebooks Are More Powerful Than Ever But Still Bad For Gaming On](https://kotaku.com/acer-chromebook-plus-516-ge-review-gaming-pc-laptop-1851740112)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
