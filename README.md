@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Elon Musk and Asmongold are beefing over who the best gamer really is, and no matter who wins, we lose](https://www.pcgamer.com/games/elon-musk-and-asmongold-are-beefing-over-who-the-best-gamer-really-is-and-no-matter-who-wins-we-lose/)
- - [Severance Season 1 Finale Was Almost Shot From The Innies&#39; Perspective](https://kotaku.com/ben-stiller-apple-severance-season-1-finale-news-1851741591)
- - [Discoveries](https://www.polygon.com/gaming/24215620/new-things-to-play-watch-and-experience)<!-- GAME:END -->
+ - [Undaunted by mixed Steam reviews, Hyper Light Breaker dev says it&#39;s &#39;encouraging&#39; to have &#39;extremely reasonable&#39; early access feedback](https://www.pcgamer.com/games/roguelike/undaunted-by-mixed-steam-reviews-hyper-light-breaker-dev-says-its-encouraging-to-have-extremely-reasonable-early-access-feedback/)
+ - [Nintendo Switch 2 reveal ditched showing players in silly scenarios](https://www.polygon.com/gaming/510089/nintendo-switch-2-ns2-console-players-people)
+ - [Mouthwashing review](https://www.pcgamer.com/games/horror/mouthwashing-review/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
