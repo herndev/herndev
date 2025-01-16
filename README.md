@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [You could be seeing a lot more of Nothing in the US next year](https://www.androidauthority.com/nothing-us-market-push-2026-3517346/)
- - [Trump&#39;s team promises to keep TikTok from being banned](https://appleinsider.com/articles/25/01/16/trumps-team-promises-to-keep-tiktok-from-being-banned?utm_medium=rss)
- - [Apple is pausing notification summaries for news in the latest iOS 18.3 beta](https://www.theverge.com/2025/1/16/24345331/apple-notification-summaries-pause-news-ios-18-3-beta)<!-- TECH:END -->
+ - [Third-party iPad smart connector accessories working again with latest iPadOS 18.3 beta](https://appleinsider.com/articles/25/01/16/third-party-ipad-smart-connector-accessories-working-again-with-latest-ipados-183-beta?utm_medium=rss)
+ - [Sources: in a November meeting with Stephen Miller, Zuckerberg blamed Sheryl Sandberg for Meta&#39;s culture, previewed its reset, and said more changes were coming &lpar;New York Times&rpar;](http://www.techmeme.com/250116/p46#a250116p46)
+ - [The 24 Best Movies on Apple TV+ Right Now &lpar;January 2025&rpar;](https://www.wired.com/story/best-apple-tv-plus-movies/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
