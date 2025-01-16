@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Four current Meta employees, citing internal discussions, say the actual number of full-time staff who will have to relocate from California to Texas is limited &lpar;Paresh Dave/Wired&rpar;](http://www.techmeme.com/250116/p17#a250116p17)
- - [Google agreed to buy 100K tons of CO2 removal credits from Indian startup Varaha for an undisclosed sum, marking its first deal with a carbon project in India &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/250116/p16#a250116p16)
- - [Insight Partners raised $12.5B for its 13th flagship fund, down from its initial target of $20B, making it one of the biggest tech-focused funds &lpar;Kate Clark/Bloomberg&rpar;](http://www.techmeme.com/250116/p15#a250116p15)<!-- TECH:END -->
+ - [Insta360 Flow 2 Pro gimbal features Apple DockKit, enabling native shooting on iPhone](https://appleinsider.com/articles/25/01/16/insta360-flow-2-pro-gimbal-features-apple-dockkit-enabling-native-shooting-on-iphone?utm_medium=rss)
+ - [Insta360’s new Flow 2 Pro gimbal can keep multiple people perfectly framed](https://www.theverge.com/2025/1/16/24344307/insta360-flow-2-pro-smartphone-gimbal-tracking-stabilized-apple-iphone-watch)
+ - [ChargePoint is doing something about all the EV charger cable-cutting crooks](https://www.theverge.com/2025/1/16/24343782/chargepoint-cut-resistant-cables-protect-ev-charging-station)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
