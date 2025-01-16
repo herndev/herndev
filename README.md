@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Twin Peaks Director David Lynch Dies At 78](https://kotaku.com/director-david-lynch-dead-dies-twin-peaks-cancer-1851741390)
- - [Where&#39;s Bloodborne 2? Former PlayStation Exec Has A Theory](https://kotaku.com/bloodborne-2-remake-remaster-miyazaki-sequel-1851741356)
- - [New Midnight Black PlayStation accessories are available to pre-order](https://www.polygon.com/pre-order/509951/midnight-black-playstation-accesories-controller-headset-where-to-buy)<!-- GAME:END -->
+ - [Inherent your grandpa&amp;#8217;s farm in this Stardew Valley-esque TTRPG](https://www.polygon.com/tabletop-games/510162/grandpas-farm-ttrpg-games-like-stardew-valley)
+ - [Discoveries](https://www.polygon.com/gaming/24215620/new-things-to-play-watch-and-experience)
+ - [The Nintendo Switch 2 hardware specs we know so far](https://www.polygon.com/analysis/509874/nintendo-switch-2-specs-hardware-screen-size)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
