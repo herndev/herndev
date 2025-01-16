@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Password Manager could soon let you wipe your slate clean with just a button &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-password-manager-delete-all-data-button-apk-teardown-3517151/)
- - [India has deployed AI and other tech at the Maha Kumbh Mela in Prayagraj to ensure the safety of ~450M pilgrims and trace missing people during the festival &lpar;Bloomberg&rpar;](http://www.techmeme.com/250116/p7#a250116p7)
- - [Amazon to acquire Bengaluru-based BNPL startup Axio, sources say for $150M+; Axio raised $135M in equity, claims to have 10M+ customers, and a $260M+ loan book &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/250116/p6#a250116p6)<!-- TECH:END -->
+ - [Source: over 700K new users joined Xiaohongshu, or RedNote, in just two days; Sensor Tower: the app&#39;s US downloads were up more than 200% YoY this week &lpar;Reuters&rpar;](http://www.techmeme.com/250116/p9#a250116p9)
+ - [iPhone SE 4 dummy units leak, and it’s giving ‘Apple x Nexus 5’](https://www.androidauthority.com/iphone-se-4-dummy-units-leak-3517154/)
+ - [In a deposition for the Kadrey v. Meta copyright case, Mark Zuckerberg seemingly cited YouTube to justify Meta&#39;s use of copyrighted data for AI training &lpar;TechCrunch&rpar;](http://www.techmeme.com/250116/p8#a250116p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
