@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Dragon Age voice actor arrested on multiple charges over allegations, including revenge porn and harassment](https://www.pcgamer.com/games/dragon-age/dragon-age-voice-actor-arrested-on-multiple-charges-over-allegations-including-revenge-porn-and-harassment/)
- - [The Blood of Dawnwalker&#39;s design director explains the ARPG&#39;s time-as-resource mechanic, and how &#39;both action and inaction have consequences’](https://www.pcgamer.com/games/rpg/the-blood-of-dawnwakers-design-director-explains-the-arpgs-time-as-resource-mechanic-and-how-both-action-and-inaction-have-consequences/)
- - [$1 million in refunds are on their way to those who picked up Razer&#39;s not-actually-N95 Zephyr mask](https://www.pcgamer.com/hardware/usd1-million-in-refunds-are-on-their-way-to-those-who-picked-up-razers-not-actually-n95-zephyr-mask/)<!-- GAME:END -->
+ - [Razer BlackWidow V4 Pro 75% review](https://www.pcgamer.com/hardware/gaming-keyboards/razer-blackwidow-v4-pro-75-percent-review/)
+ - [Marvel Rivals devs have accidentally buffed Storm into a tornado-yeeting monster that everyone is picking, and no-one knows how to counter: &#39;A clustered group is a snack for us&#39;](https://www.pcgamer.com/games/third-person-shooter/marvel-rivals-devs-have-accidentally-buffed-storm-into-a-tornado-yeeting-monster-that-everyone-is-picking-and-no-one-knows-how-to-counter-a-clustered-group-is-a-snack-for-us/)
+ - [Dragon Age voice actor arrested on multiple charges over allegations, including revenge porn and harassment](https://www.pcgamer.com/games/dragon-age/dragon-age-voice-actor-arrested-on-multiple-charges-over-allegations-including-revenge-porn-and-harassment/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
