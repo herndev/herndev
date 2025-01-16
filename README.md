@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [CFPB sued for trying to regulate digital payment apps more like banks](https://www.theverge.com/2025/1/16/24345310/cfpb-digital-payment-apps-rule-lawsuit-technet-netchoice)
- - [Microsoft bundles its AI-powered Office features into Microsoft 365 Personal and Home subscriptions for an extra $3 per month &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/250116/p41#a250116p41)
- - [David Lynch has died](https://www.theverge.com/2025/1/16/24345312/david-lynch-death-director-twin-peaks)<!-- TECH:END -->
+ - [You could be seeing a lot more of Nothing in the US next year](https://www.androidauthority.com/nothing-us-market-push-2026-3517346/)
+ - [Trump&#39;s team promises to keep TikTok from being banned](https://appleinsider.com/articles/25/01/16/trumps-team-promises-to-keep-tiktok-from-being-banned?utm_medium=rss)
+ - [Apple is pausing notification summaries for news in the latest iOS 18.3 beta](https://www.theverge.com/2025/1/16/24345331/apple-notification-summaries-pause-news-ios-18-3-beta)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
