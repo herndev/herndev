@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Free Play Days – January EA Sports Takeover](https://news.xbox.com/en-us/2025/01/16/free-play-days-16-01-2025/)
- - [The year’s biggest horror-movie conversation piece is now streaming](https://www.polygon.com/what-to-watch/509522/red-rooms-movie-watch-streaming-shudder-best-horror-thriller-dark)
- - [Nintendo Switch 2? Nah, I&#39;ll take a next-gen handheld gaming PC thanks very much](https://www.pcgamer.com/hardware/handheld-gaming-pcs/nintendo-switch-2-nah-ill-take-a-next-gen-handheld-gaming-pc-thanks-very-much/)<!-- GAME:END -->
+ - [We deserve more Buffy the Vampire Slayer, and I think I know how](https://www.polygon.com/tv/508730/buffy-vampire-slayer-video-game-adaptation)
+ - [You can save on Nintendo Switch eShop gift cards today](https://www.polygon.com/good-deals/509873/nintendo-switch-eshop-gift-cards-discount-sale)
+ - [The Internet Reacts To The Nintendo Switch 2](https://kotaku.com/nintendo-switch-2-trailer-internet-reaction-jokes-memes-1851741135)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
