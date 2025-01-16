@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Wet water is wet](http://9gag.com/gag/aGyyKEZ)
- - ⏩ [4K a year wouldn&#39;t do shit for any tuition in America](http://9gag.com/gag/aPAgOwB)
- - 👉 [Respect this man](http://9gag.com/gag/a6ZZmqL)<!-- MEMES:END -->
+ - 💣 [A young boy lost his dad in a crowd in Argentina. Strangers came together to help, chanting the father&#39;s name. Then the band joined in with a song, `Eduardo, come and find Juan Cruz`](http://9gag.com/gag/ayNN7Y8)
+ - ⏩ [Bad man . . .](http://9gag.com/gag/ae99jG5)
+ - 👉 [Dudes, i might have found most believable hidden door design.](http://9gag.com/gag/awyZqGB)<!-- MEMES:END -->
 
 ---
 
