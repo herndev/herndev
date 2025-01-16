@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: crypto executives have offered input to David Sacks on a possible Trump EO that covers several areas of crypto policy, including a Bitcoin stockpile &lpar;David Yaffe-Bellany/New York Times&rpar;](http://www.techmeme.com/250116/p37#a250116p37)
- - [New iPhone SE 4 dummy models hint at design &amp; color updates](https://appleinsider.com/articles/25/01/16/new-iphone-se-4-dummy-models-hint-at-design-color-updates?utm_medium=rss)
- - [Switch 2 Game Backwards Compatibility: What We Know](https://www.cnet.com/tech/gaming/switch-2-game-backwards-compatibility-what-we-know/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Microsoft bundles Office AI features into Microsoft 365 and raises prices](https://www.theverge.com/2025/1/16/24345051/microsoft-365-personal-family-copilot-office-ai-price-rises)
+ - [All our unanswered questions about the Nintendo Switch 2](https://www.theverge.com/2025/1/16/24344718/nintendo-switch-2-specs-date-price-launch-games-mario-kart)
+ - [FDA bans use of Red Dye No. 3 in foods](https://www.theverge.com/2025/1/16/24345185/fda-red-dye-no-3-food-ban-cancer-risk)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
