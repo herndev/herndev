@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Looking for Angry Kirby](https://www.polygon.com/nintendo/507720/kirby-angry-box-artwork)
- - [WoW&#39;s Plunderstorm mode is back, and it just lets you buy what you want with your in-game dubloons instead of having to grind](https://www.pcgamer.com/games/world-of-warcraft/wows-plunderstorm-mode-is-back-and-it-just-lets-you-buy-what-you-want-with-your-in-game-dubloons-instead-of-having-to-grind/)
- - [Hybrid digital TCG Altered to open online marketplace soon](https://www.polygon.com/gaming/509512/auto-draft)<!-- GAME:END -->
+ - [Free Play Days – January EA Sports Takeover](https://news.xbox.com/en-us/2025/01/16/free-play-days-16-01-2025/)
+ - [The year’s biggest horror-movie conversation piece is now streaming](https://www.polygon.com/what-to-watch/509522/red-rooms-movie-watch-streaming-shudder-best-horror-thriller-dark)
+ - [Nintendo Switch 2? Nah, I&#39;ll take a next-gen handheld gaming PC thanks very much](https://www.pcgamer.com/hardware/handheld-gaming-pcs/nintendo-switch-2-nah-ill-take-a-next-gen-handheld-gaming-pc-thanks-very-much/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
