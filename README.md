@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [It&#39;s Super Dog](http://9gag.com/gag/aQzEYLW)
- - ⏩ [Almost double of her weight, and that is not a lady boy](http://9gag.com/gag/awyZqAx)
- - 👉 [Great news! The US House Passes Bill Banning Trans Women From Competing In Women\u2019s School Sports!](http://9gag.com/gag/aRBExQ5)<!-- MEMES:END -->
+ - 💣 [Reminder of this gem. She had window installed and said she didn\u2019t like it and wanted her money back. He paid her back and took care of window.](http://9gag.com/gag/a0e4mOB)
+ - ⏩ [Nice](http://9gag.com/gag/an7zAXb)
+ - 👉 [A Paris theatre is facing bankruptcy after inviting 250 illegal immigrants to a free screening. After the performance, they barricaded themselves in and have been living in the building for five weeks.](http://9gag.com/gag/a34ZoMN)<!-- MEMES:END -->
 
 ---
 
