@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft bundles Office AI features into Microsoft 365 and raises prices](https://www.theverge.com/2025/1/16/24345051/microsoft-365-personal-family-copilot-office-ai-price-rises)
- - [All our unanswered questions about the Nintendo Switch 2](https://www.theverge.com/2025/1/16/24344718/nintendo-switch-2-specs-date-price-launch-games-mario-kart)
- - [FDA bans use of Red Dye No. 3 in foods](https://www.theverge.com/2025/1/16/24345185/fda-red-dye-no-3-food-ban-cancer-risk)<!-- TECH:END -->
+ - [CFPB sued for trying to regulate digital payment apps more like banks](https://www.theverge.com/2025/1/16/24345310/cfpb-digital-payment-apps-rule-lawsuit-technet-netchoice)
+ - [Microsoft bundles its AI-powered Office features into Microsoft 365 Personal and Home subscriptions for an extra $3 per month &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/250116/p41#a250116p41)
+ - [David Lynch has died](https://www.theverge.com/2025/1/16/24345312/david-lynch-death-director-twin-peaks)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
