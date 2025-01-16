@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Here are the best iPad deals right now](https://www.theverge.com/21280354/best-ipad-deals-apple)
- - [Source: Meta CTO Andrew Bosworth told staff that some of Meta&#39;s changes were &quot;pretty ham-fisted, borderline unintentional&quot; and Meta is planning some corrections &lpar;Kalley Huang/The Information&rpar;](http://www.techmeme.com/250116/p47#a250116p47)
- - [The Amazon Echo is still on sale, but you have to find the deal](https://www.androidauthority.com/amazon-echo-deal-3517375/)<!-- TECH:END -->
+ - [Sony’s black PlayStation 5 accessories are now available for preorder](https://www.theverge.com/24345367/sony-black-dualsense-edge-pulse-explore-elite-playstation-portal-preorder-buy-release-date)
+ - [An Entire Book Was Written in DNA—and You Can Buy It for $60](https://www.wired.com/story/entire-book-written-in-dna-buy-it-60-dollars/)
+ - [Foldable phone deals: Samsung Galaxy Z Fold 6 or Google Pixel 9 Pro Fold?](https://www.androidauthority.com/samsung-galaxy-z-fold-6-google-pixel-9-pro-fold-deals-3517374/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
