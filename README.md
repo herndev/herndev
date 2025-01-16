@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [100% of 9gagers](http://9gag.com/gag/an7zLR0)
- - ⏩ [For anyone asking, what happened to America?](http://9gag.com/gag/a877d6V)
- - 👉 [Nice](http://9gag.com/gag/an7zAXb)<!-- MEMES:END -->
+ - 💣 [In Istanbul,a dog brought her puppy,whose heart had stopped due to the cold,to the veterinarian](http://9gag.com/gag/aqyev3j)
+ - ⏩ [Dear Tech Companies,](http://9gag.com/gag/aPAgOGV)
+ - 👉 [Reminder of this gem. She had window installed and said she didn\u2019t like it and wanted her money back. He paid her back and took care of window.](http://9gag.com/gag/a0e4mOB)<!-- MEMES:END -->
 
 ---
 
