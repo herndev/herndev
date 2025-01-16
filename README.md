@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [AI researcher Fran&amp;ccedil;ois Chollet and Zapier co-founder Mike Knoop launch Ndea, an AI research and science lab focused on &quot;developing and operationalizing AGI&quot; &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250115/p41#a250115p41)
- - [Get some sunglasses: LG turns up the brightness on its next-gen OLED TV panel](https://www.androidauthority.com/lg-4th-gen-oled-panel-3516878/)
- - [LG Display announces its brightest, most striking OLED TV panel yet](https://www.theverge.com/2025/1/15/24344798/lg-display-oled-tv-panel-fourth-generation-features)<!-- TECH:END -->
+ - [The US Commerce Department adds 25 China-based companies, including Alibaba-backed LLM developer Zhipu AI and chip designer Sophgo, to its restricted trade list &lpar;Karen Freifeld/Reuters&rpar;](http://www.techmeme.com/250115/p43#a250115p43)
+ - [During oral arguments, SCOTUS seemed open to a Texas law requiring age checks to view online porn, but could send the case back to a lower court &lpar;Lindsay Whitehurst/Associated Press&rpar;](http://www.techmeme.com/250115/p42#a250115p42)
+ - [AI researcher Fran&amp;ccedil;ois Chollet and Zapier co-founder Mike Knoop launch Ndea, an AI research and science lab focused on &quot;developing and operationalizing AGI&quot; &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250115/p41#a250115p41)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
