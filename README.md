@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Bad man . . .](http://9gag.com/gag/ae99jG5)
- - ⏩ [Removing barnacles from Benson the turtles \ud83d\udc22 shell.](http://9gag.com/gag/azxx7yZ)
- - 👉 [The Ultimate Drag Race](http://9gag.com/gag/aoyKBVA)<!-- MEMES:END -->
+ - 💣 [Wet water is wet](http://9gag.com/gag/aGyyKEZ)
+ - ⏩ [Respect this man](http://9gag.com/gag/a6ZZmqL)
+ - 👉 [Cosplay](http://9gag.com/gag/aPAAw7P)<!-- MEMES:END -->
 
 ---
 
