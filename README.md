@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle answer for Thursday, January 16](https://www.pcgamer.com/games/puzzle/wordle-answer-today-january-16-2025/)
  - [They&#39;ve started putting arms onto robot vacuums, so we&#39;re closer to either getting our own R2D2 or being strangled in our sleep](https://www.pcgamer.com/hardware/theyve-started-putting-arms-onto-robot-vacuums-so-were-closer-to-either-getting-our-own-r2d2-or-being-strangled-in-our-sleep/)
- - [One buff took Storm from a Marvel Rivals afterthought to a must-play](https://www.polygon.com/gaming/509556/marvel-rivals-storm-win-rate-season-1)
- - [New report says PC games are outselling console games, calling PC gaming a &#39;bright spot&#39; in a troubled industry](https://www.pcgamer.com/gaming-industry/new-report-says-pc-games-are-outselling-console-games-calling-pc-gaming-a-bright-spot-in-a-troubled-industry/)<!-- GAME:END -->
+ - [One buff took Storm from a Marvel Rivals afterthought to a must-play](https://www.polygon.com/gaming/509556/marvel-rivals-storm-win-rate-season-1)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
