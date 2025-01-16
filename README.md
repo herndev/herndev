@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Source: over 700K new users joined Xiaohongshu, or RedNote, in just two days; Sensor Tower: the app&#39;s US downloads were up more than 200% YoY this week &lpar;Reuters&rpar;](http://www.techmeme.com/250116/p9#a250116p9)
- - [iPhone SE 4 dummy units leak, and it’s giving ‘Apple x Nexus 5’](https://www.androidauthority.com/iphone-se-4-dummy-units-leak-3517154/)
- - [In a deposition for the Kadrey v. Meta copyright case, Mark Zuckerberg seemingly cited YouTube to justify Meta&#39;s use of copyrighted data for AI training &lpar;TechCrunch&rpar;](http://www.techmeme.com/250116/p8#a250116p8)<!-- TECH:END -->
+ - [New leak compares the Galaxy S25 Slim to the rest of its family. Can you spot the difference?](https://www.androidauthority.com/samsung-galaxy-s25-slim-leak-lineup-comparison-3517180/)
+ - [Best Internet Providers in Palm Coast, Florida](https://www.cnet.com/home/internet/best-internet-providers-in-palm-coast-fl/#ftag=CAD590a51e)
+ - [A New Jam-Packed Biden Executive Order Tackles Cybersecurity, AI, and More](https://www.wired.com/story/biden-executive-order-cybersecurity-ai-and-more/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
