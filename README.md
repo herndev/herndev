@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Take two and call me in the morning...](http://9gag.com/gag/ayN2g4r)
- - ⏩ [Bad man . . .](http://9gag.com/gag/ae99jG5)
- - 👉 [Take a guess](http://9gag.com/gag/aLn1Yog)<!-- MEMES:END -->
+ - ⏩ [Robber in Pakistan gets beat down](http://9gag.com/gag/aXPn8R6)
+ - 👉 [Bad man . . .](http://9gag.com/gag/ae99jG5)<!-- MEMES:END -->
 
 ---
 
