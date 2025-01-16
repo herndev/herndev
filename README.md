@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [`Please compensate our employees for hard work so we can NOT pay them more`](http://9gag.com/gag/azx2NEj)
- - ⏩ [Relationship turn over](http://9gag.com/gag/aGyEW2G)
- - 👉 [Yes, better close it](http://9gag.com/gag/aKGEr9N)<!-- MEMES:END -->
+ - ⏩ [How Yugi always wins](http://9gag.com/gag/aVvbnQO)
+ - 👉 [Today I lost my certification](http://9gag.com/gag/a0e4mMB)<!-- MEMES:END -->
 
 ---
 
