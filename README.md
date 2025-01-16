@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Third-party iPad smart connector accessories working again with latest iPadOS 18.3 beta](https://appleinsider.com/articles/25/01/16/third-party-ipad-smart-connector-accessories-working-again-with-latest-ipados-183-beta?utm_medium=rss)
- - [Sources: in a November meeting with Stephen Miller, Zuckerberg blamed Sheryl Sandberg for Meta&#39;s culture, previewed its reset, and said more changes were coming &lpar;New York Times&rpar;](http://www.techmeme.com/250116/p46#a250116p46)
- - [The 24 Best Movies on Apple TV+ Right Now &lpar;January 2025&rpar;](https://www.wired.com/story/best-apple-tv-plus-movies/)<!-- TECH:END -->
+ - [Here are the best iPad deals right now](https://www.theverge.com/21280354/best-ipad-deals-apple)
+ - [Source: Meta CTO Andrew Bosworth told staff that some of Meta&#39;s changes were &quot;pretty ham-fisted, borderline unintentional&quot; and Meta is planning some corrections &lpar;Kalley Huang/The Information&rpar;](http://www.techmeme.com/250116/p47#a250116p47)
+ - [The Amazon Echo is still on sale, but you have to find the deal](https://www.androidauthority.com/amazon-echo-deal-3517375/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
