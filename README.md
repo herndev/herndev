@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Nothing seeks to raise at least $100M in its Series C; it crossed $1B in lifetime sales, sold 7M devices to date, and doubled revenue to $500M+ in 2024 &lpar;Bloomberg&rpar;](http://www.techmeme.com/250115/p40#a250115p40)
- - [BitMEX is fined an additional $100M for US Bank Secrecy Act violations between 2015 and 2020; it pleaded guilty in July 2024 and previously agreed to pay $110M &lpar;Daniel Kuhn/The Block&rpar;](http://www.techmeme.com/250115/p39#a250115p39)
- - [Samsung Galaxy Tab A9 Plus deal: Our favorite budget tablet is even cheaper!](https://www.androidauthority.com/samsung-galaxy-tab-a9-plus-deal-4-3516957/)<!-- TECH:END -->
+ - [AI researcher Fran&amp;ccedil;ois Chollet and Zapier co-founder Mike Knoop launch Ndea, an AI research and science lab focused on &quot;developing and operationalizing AGI&quot; &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250115/p41#a250115p41)
+ - [Get some sunglasses: LG turns up the brightness on its next-gen OLED TV panel](https://www.androidauthority.com/lg-4th-gen-oled-panel-3516878/)
+ - [LG Display announces its brightest, most striking OLED TV panel yet](https://www.theverge.com/2025/1/15/24344798/lg-display-oled-tv-panel-fourth-generation-features)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
