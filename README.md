@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Removing barnacles from Benson the turtles \ud83d\udc22 shell.](http://9gag.com/gag/azxx7yZ)
- - ⏩ [Choose your fighter](http://9gag.com/gag/aQzzP0K)
- - 👉 [Respect this man](http://9gag.com/gag/a6ZZmqL)<!-- MEMES:END -->
+ - 💣 [I downloaded the wrong Spiderman](http://9gag.com/gag/aLnnRBA)
+ - ⏩ [Today I lost my certification](http://9gag.com/gag/a0e4mMB)
+ - 👉 [Swimming date is the best date; change my mind](http://9gag.com/gag/ajPPQxR)<!-- MEMES:END -->
 
 ---
 
