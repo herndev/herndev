@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [These could be Samsung’s next rugged and sub-flagship tablets](https://www.androidauthority.com/samsung-galaxy-tab-active-5-pro-tab-s10-fe-plus-soc-leak-3517254/)
- - [Letter: Google told EU it will not add fact checks to search results and YouTube videos or use them in ranking or removing content, despite new EU requirements &lpar;Sara Fischer/Axios&rpar;](http://www.techmeme.com/250116/p33#a250116p33)
- - [Have a big family? Your Verizon bill may soon go up by $15 or more a month](https://www.androidauthority.com/verizon-five-line-increase-3517213/)<!-- TECH:END -->
+ - [Casio’s new Comfy calculator shifts its solar panel up for aesthetics](https://www.theverge.com/2025/1/16/24345129/casio-japan-calculator-comfy-jt-200-design-solar-power-panel)
+ - [Earnest Analytics: ~60% of paid Gemini users kept their subscriptions six months after signing up, better than Perplexity but lagging behind ChatGPT and Claude &lpar;Miles Kruppa/Wall Street Journal&rpar;](http://www.techmeme.com/250116/p34#a250116p34)
+ - [Time is running out in the Until Dawn movie’s new trailer](https://www.theverge.com/2025/1/16/24345133/sony-until-dawn-movie-trailer)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
