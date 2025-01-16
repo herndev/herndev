@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Today I lost my certification](http://9gag.com/gag/a0e4mMB)
- - ⏩ [And the Darwin Award goes to:](http://9gag.com/gag/aPAgOXB)
- - 👉 [When she finally invites you over...](http://9gag.com/gag/a4Poe5m)<!-- MEMES:END -->
+ - 💣 [`Please compensate our employees for hard work so we can NOT pay them more`](http://9gag.com/gag/azx2NEj)
+ - ⏩ [Relationship turn over](http://9gag.com/gag/aGyEW2G)
+ - 👉 [Yes, better close it](http://9gag.com/gag/aKGEr9N)<!-- MEMES:END -->
 
 ---
 
