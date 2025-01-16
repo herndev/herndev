@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Shocking](http://9gag.com/gag/aqye3PP)
- - ⏩ [That looks very cool](http://9gag.com/gag/aO8x6QD)
- - 👉 [Almost double of her weight, and that is not a lady boy](http://9gag.com/gag/awyZqAx)<!-- MEMES:END -->
+ - 💣 [Today I lost my certification](http://9gag.com/gag/a0e4mMB)
+ - ⏩ [And the Darwin Award goes to:](http://9gag.com/gag/aPAgOXB)
+ - 👉 [When she finally invites you over...](http://9gag.com/gag/a4Poe5m)<!-- MEMES:END -->
 
 ---
 
