@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [And the Darwin Award goes to:](http://9gag.com/gag/aPAgOXB)
- - ⏩ [Bruce got pied](http://9gag.com/gag/aNDw6AA)
- - 👉 [A Paris theatre is facing bankruptcy after inviting 250 illegal immigrants to a free screening. After the performance, they barricaded themselves in and have been living in the building for five weeks.](http://9gag.com/gag/a34ZoMN)<!-- MEMES:END -->
+ - 💣 [100% of 9gagers](http://9gag.com/gag/an7zLR0)
+ - ⏩ [For anyone asking, what happened to America?](http://9gag.com/gag/a877d6V)
+ - 👉 [Nice](http://9gag.com/gag/an7zAXb)<!-- MEMES:END -->
 
 ---
 
