@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google Password Manager could soon let you wipe your slate clean with just a button &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-password-manager-delete-all-data-button-apk-teardown-3517151/)
  - [India has deployed AI and other tech at the Maha Kumbh Mela in Prayagraj to ensure the safety of ~450M pilgrims and trace missing people during the festival &lpar;Bloomberg&rpar;](http://www.techmeme.com/250116/p7#a250116p7)
- - [Amazon acquires Indian BNPL startup Axio for an undisclosed sum; Axio raised $232M in equity and debt, claims 10M+ customers, and a loan book exceeding $260M &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/250116/p6#a250116p6)
- - [Blue Origin successfully launches its SpaceX rival](https://www.theverge.com/2025/1/16/24342567/blue-origin-launch-sucessful)<!-- TECH:END -->
+ - [Amazon to acquire Bengaluru-based BNPL startup Axio, sources say for $150M+; Axio raised $135M in equity, claims to have 10M+ customers, and a $260M+ loan book &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/250116/p6#a250116p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
