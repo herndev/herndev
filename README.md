@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Take two and call me in the morning...](http://9gag.com/gag/ayN2g4r)
- - ⏩ [Robber in Pakistan gets beat down](http://9gag.com/gag/aXPn8R6)
- - 👉 [Bad man . . .](http://9gag.com/gag/ae99jG5)<!-- MEMES:END -->
+ - 💣 [Wet water is wet](http://9gag.com/gag/aGyyKEZ)
+ - ⏩ [4K a year wouldn&#39;t do shit for any tuition in America](http://9gag.com/gag/aPAgOwB)
+ - 👉 [Respect this man](http://9gag.com/gag/a6ZZmqL)<!-- MEMES:END -->
 
 ---
 
