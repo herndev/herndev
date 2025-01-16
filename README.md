@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Arrowhead boss wants to get as many A-listers as possible for the Helldivers 2 film, &#39;as long as they all get killed violently&#39;](https://www.pcgamer.com/movies-tv/arrowhead-boss-wants-to-get-as-many-a-listers-as-possible-for-the-helldivers-2-film-as-long-as-they-all-get-killed-violently/)
- - [We Need More Shows Like Laid: Comedies That Are Actually Funny](https://kotaku.com/peacock-laid-the-bear-abbott-elementary-comedy-1851740602)
- - [Chromebooks Are More Powerful Than Ever But Still Bad For Gaming On](https://kotaku.com/acer-chromebook-plus-516-ge-review-gaming-pc-laptop-1851740112)<!-- GAME:END -->
+ - [One buff took Storm from a Marvel Rivals afterthought to a must-play](https://www.polygon.com/gaming/509556/marvel-rivals-storm-win-rate-season-1)
+ - [New report says PC games are outselling console games, calling PC gaming a &#39;bright spot&#39; in a troubled industry](https://www.pcgamer.com/gaming-industry/new-report-says-pc-games-are-outselling-console-games-calling-pc-gaming-a-bright-spot-in-a-troubled-industry/)
+ - [Arrowhead boss wants to get as many A-listers as possible for the Helldivers 2 film, &#39;as long as they all get killed violently&#39;](https://www.pcgamer.com/movies-tv/arrowhead-boss-wants-to-get-as-many-a-listers-as-possible-for-the-helldivers-2-film-as-long-as-they-all-get-killed-violently/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
