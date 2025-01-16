@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Block agrees to pay $80M to a group of 48 US state financial regulators that say it had insufficient policies for policing money laundering through Cash App &lpar;Pete Schroeder/Reuters&rpar;](http://www.techmeme.com/250115/p38#a250115p38)
- - [Razer Is Sending Out Checks for Its Falsely Labeled N95 Zephyr Masks](https://www.cnet.com/tech/razer-is-sending-out-checks-for-its-falsely-labeled-n95-zephyr-masks/#ftag=CAD590a51e)
- - [Here&#39;s How to See Six or Seven Planets in a Dazzling Planet Parade](https://www.cnet.com/science/how-to-see-january-21-planet-parade-of-six-seven-planets-mark-your-calendars-skygazing/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sources: Nothing seeks to raise at least $100M in its Series C; it crossed $1B in lifetime sales, sold 7M devices to date, and doubled revenue to $500M+ in 2024 &lpar;Bloomberg&rpar;](http://www.techmeme.com/250115/p40#a250115p40)
+ - [BitMEX is fined an additional $100M for US Bank Secrecy Act violations between 2015 and 2020; it pleaded guilty in July 2024 and previously agreed to pay $110M &lpar;Daniel Kuhn/The Block&rpar;](http://www.techmeme.com/250115/p39#a250115p39)
+ - [Samsung Galaxy Tab A9 Plus deal: Our favorite budget tablet is even cheaper!](https://www.androidauthority.com/samsung-galaxy-tab-a9-plus-deal-4-3516957/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
