@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [What Spotify took from us by giving us everything](https://www.theverge.com/2025/1/16/24344429/spotify-streaming-book-mood-machine)
- - [Everything we know about the Switch 2’s Joy-Con controllers](https://www.theverge.com/2025/1/16/24343722/switch-2-joy-cons-details-magnets-drift-nintendo)
- - [Sources: retail trading platform eToro has confidentially filed for a US IPO, seeking a $5B valuation; it was valued at $3.5B in 2023 &lpar;Ivan Levingston/Financial Times&rpar;](http://www.techmeme.com/250116/p27#a250116p27)<!-- TECH:END -->
+ - [These could be Samsung’s next rugged and sub-flagship tablets](https://www.androidauthority.com/samsung-galaxy-tab-active-5-pro-tab-s10-fe-plus-soc-leak-3517254/)
+ - [Letter: Google told EU it will not add fact checks to search results and YouTube videos or use them in ranking or removing content, despite new EU requirements &lpar;Sara Fischer/Axios&rpar;](http://www.techmeme.com/250116/p33#a250116p33)
+ - [Have a big family? Your Verizon bill may soon go up by $15 or more a month](https://www.androidauthority.com/verizon-five-line-increase-3517213/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
