@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [‘Hey, Gemini!’ Mega Galaxy S25 leak confirms major AI upgrades and lots more](https://www.androidauthority.com/samsung-galaxy-s25-gemini-now-brief-leak-3517030/)
- - [Today&#39;s NYT Mini Crossword Answers for Thursday, Jan. 16](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-thursday-jan-16/#ftag=CAD590a51e)
- - [Germany-based Neura Robotics, which is building cognitive, humanoid robots for logistics and other sectors, raised a &amp;euro;120M Series B led by Lingotto Investment &lpar;Yazhou Sun/Bloomberg&rpar;](http://www.techmeme.com/250115/p45#a250115p45)<!-- TECH:END -->
+ - [An official says the Biden administration is &quot;exploring options&quot; to implement the law without causing TikTok to go dark for US users on January 19 &lpar;NBC News&rpar;](http://www.techmeme.com/250116/p2#a250116p2)
+ - [Sources: Satya Nadella and Brad Smith had lunch with Trump, Vance, and Musk at Mar-a-Lago on January 15; Microsoft says its two execs had a &quot;Productive meeting&quot; &lpar;Semafor&rpar;](http://www.techmeme.com/250116/p1#a250116p1)
+ - [‘Hey, Gemini!’ Mega Galaxy S25 leak confirms major AI upgrades and lots more](https://www.androidauthority.com/samsung-galaxy-s25-gemini-now-brief-leak-3517030/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
