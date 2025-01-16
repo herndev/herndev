@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Casio’s new Comfy calculator shifts its solar panel up for aesthetics](https://www.theverge.com/2025/1/16/24345129/casio-japan-calculator-comfy-jt-200-design-solar-power-panel)
- - [Earnest Analytics: ~60% of paid Gemini users kept their subscriptions six months after signing up, better than Perplexity but lagging behind ChatGPT and Claude &lpar;Miles Kruppa/Wall Street Journal&rpar;](http://www.techmeme.com/250116/p34#a250116p34)
- - [Time is running out in the Until Dawn movie’s new trailer](https://www.theverge.com/2025/1/16/24345133/sony-until-dawn-movie-trailer)<!-- TECH:END -->
+ - [Sources: crypto executives have offered input to David Sacks on a possible Trump EO that covers several areas of crypto policy, including a Bitcoin stockpile &lpar;David Yaffe-Bellany/New York Times&rpar;](http://www.techmeme.com/250116/p37#a250116p37)
+ - [New iPhone SE 4 dummy models hint at design &amp; color updates](https://appleinsider.com/articles/25/01/16/new-iphone-se-4-dummy-models-hint-at-design-color-updates?utm_medium=rss)
+ - [Switch 2 Game Backwards Compatibility: What We Know](https://www.cnet.com/tech/gaming/switch-2-game-backwards-compatibility-what-we-know/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
