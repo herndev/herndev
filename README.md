@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [We deserve more Buffy the Vampire Slayer, and I think I know how](https://www.polygon.com/tv/508730/buffy-vampire-slayer-video-game-adaptation)
- - [You can save on Nintendo Switch eShop gift cards today](https://www.polygon.com/good-deals/509873/nintendo-switch-eshop-gift-cards-discount-sale)
- - [The Internet Reacts To The Nintendo Switch 2](https://kotaku.com/nintendo-switch-2-trailer-internet-reaction-jokes-memes-1851741135)<!-- GAME:END -->
+ - [The Switch snap is dead, long live the Switch 2 clap](https://www.polygon.com/nintendo-switch-2/509935/switch-2-clap-switch-snap-nintendo-sound-effect)
+ - [Is The Switch 2 Weird Enough?](https://kotaku.com/switch-2-nintendo-debate-weird-enough-normal-kotaku-1851741231)
+ - [Logitech G RS Wheel Hub and RS Track Wheel review](https://www.pcgamer.com/hardware/steering-wheels/logitech-g-rs-wheel-hub-and-rs-track-wheel-review/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
