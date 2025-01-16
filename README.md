@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Woman saves her dog from drowning in frozen pool](http://9gag.com/gag/a6ZqAY2)
- - ⏩ [Very painful](http://9gag.com/gag/aQzz6Vw)
- - 👉 [Respect this man](http://9gag.com/gag/a6ZZmqL)<!-- MEMES:END -->
+ - 💣 [Bad man . . .](http://9gag.com/gag/ae99jG5)
+ - ⏩ [Removing barnacles from Benson the turtles \ud83d\udc22 shell.](http://9gag.com/gag/azxx7yZ)
+ - 👉 [The Ultimate Drag Race](http://9gag.com/gag/aoyKBVA)<!-- MEMES:END -->
 
 ---
 
