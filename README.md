@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Reminder of this gem. She had window installed and said she didn\u2019t like it and wanted her money back. He paid her back and took care of window.](http://9gag.com/gag/a0e4mOB)
- - ⏩ [Nice](http://9gag.com/gag/an7zAXb)
- - 👉 [A Paris theatre is facing bankruptcy after inviting 250 illegal immigrants to a free screening. After the performance, they barricaded themselves in and have been living in the building for five weeks.](http://9gag.com/gag/a34ZoMN)<!-- MEMES:END -->
+ - 💣 [Today I lost my certification](http://9gag.com/gag/a0e4mMB)
+ - ⏩ [Focus!](http://9gag.com/gag/a34Zow7)
+ - 👉 [Bruce got pied](http://9gag.com/gag/aNDw6AA)<!-- MEMES:END -->
 
 ---
 
