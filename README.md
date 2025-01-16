@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [In Istanbul,a dog brought her puppy,whose heart had stopped due to the cold,to the veterinarian](http://9gag.com/gag/aqyev3j)
- - ⏩ [Almost double of her weight, and that is not a lady boy](http://9gag.com/gag/awyZqAx)
- - 👉 [Great news! The US House Passes Bill Banning Trans Women From Competing In Women\u2019s School Sports!](http://9gag.com/gag/aRBExQ5)<!-- MEMES:END -->
+ - 💣 [Humans: *wonder how mouse, bear, and other animals fall into obvious traps Also humans:](http://9gag.com/gag/aoyKb02)
+ - ⏩ [When she finally invites you over...](http://9gag.com/gag/a4Poe5m)
+ - 👉 [Gohan... my man](http://9gag.com/gag/aMVE3GP)<!-- MEMES:END -->
 
 ---
 
