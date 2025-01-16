@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [$1 million in refunds are on their way to those who picked up Razer&#39;s not-actually-N95 Zephyr mask](https://www.pcgamer.com/hardware/usd1-million-in-refunds-are-on-their-way-to-those-who-picked-up-razers-not-actually-n95-zephyr-mask/)
  - [Today&#39;s Wordle answer for Thursday, January 16](https://www.pcgamer.com/games/puzzle/wordle-answer-today-january-16-2025/)
- - [They&#39;ve started putting arms onto robot vacuums, so we&#39;re closer to either getting our own R2D2 or being strangled in our sleep](https://www.pcgamer.com/hardware/theyve-started-putting-arms-onto-robot-vacuums-so-were-closer-to-either-getting-our-own-r2d2-or-being-strangled-in-our-sleep/)
- - [One buff took Storm from a Marvel Rivals afterthought to a must-play](https://www.polygon.com/gaming/509556/marvel-rivals-storm-win-rate-season-1)<!-- GAME:END -->
+ - [They&#39;ve started putting arms onto robot vacuums, so we&#39;re closer to either getting our own R2D2 or being strangled in our sleep](https://www.pcgamer.com/hardware/theyve-started-putting-arms-onto-robot-vacuums-so-were-closer-to-either-getting-our-own-r2d2-or-being-strangled-in-our-sleep/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
