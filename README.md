@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Nintendo Switch 2 has just been announced and it looks a lot more like a handheld gaming PC than a console to me](https://www.pcgamer.com/hardware/handheld-gaming-pcs/the-nintendo-switch-2-has-just-been-announced-and-it-looks-a-lot-more-like-a-handheld-gaming-pc-than-a-console-to-me/)
- - [Obsidian vet Josh Sawyer says that while &#39;it&#39;s not that important&#39; if players never finish an RPG—after all, who finishes Skyrim—&#39;we can kind of chill out&#39; on size](https://www.pcgamer.com/games/rpg/obsidian-vet-josh-sawyer-says-that-while-its-not-that-important-if-players-never-finish-an-rpg-after-all-who-finishes-skyrim-we-can-kind-of-chill-out-on-size/)
- - [You Can Play The Switch 2 Early If You Can Make It To One Of These Cities](https://kotaku.com/nintendo-switch-2-experience-early-play-la-nyc-dallas-1851740842)<!-- GAME:END -->
+ - [Looking for Angry Kirby](https://www.polygon.com/nintendo/507720/kirby-angry-box-artwork)
+ - [WoW&#39;s Plunderstorm mode is back, and it just lets you buy what you want with your in-game dubloons instead of having to grind](https://www.pcgamer.com/games/world-of-warcraft/wows-plunderstorm-mode-is-back-and-it-just-lets-you-buy-what-you-want-with-your-in-game-dubloons-instead-of-having-to-grind/)
+ - [Hybrid digital TCG Altered to open online marketplace soon](https://www.polygon.com/gaming/509512/auto-draft)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
