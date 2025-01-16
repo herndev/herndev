@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Today I lost my certification](http://9gag.com/gag/a0e4mMB)
- - ⏩ [Focus!](http://9gag.com/gag/a34Zow7)
- - 👉 [Bruce got pied](http://9gag.com/gag/aNDw6AA)<!-- MEMES:END -->
+ - 💣 [In Istanbul,a dog brought her puppy,whose heart had stopped due to the cold,to the veterinarian](http://9gag.com/gag/aqyev3j)
+ - ⏩ [Almost double of her weight, and that is not a lady boy](http://9gag.com/gag/awyZqAx)
+ - 👉 [Great news! The US House Passes Bill Banning Trans Women From Competing In Women\u2019s School Sports!](http://9gag.com/gag/aRBExQ5)<!-- MEMES:END -->
 
 ---
 
