@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Humans: *wonder how mouse, bear, and other animals fall into obvious traps Also humans:](http://9gag.com/gag/aoyKb02)
- - ⏩ [When she finally invites you over...](http://9gag.com/gag/a4Poe5m)
- - 👉 [Gohan... my man](http://9gag.com/gag/aMVE3GP)<!-- MEMES:END -->
+ - 💣 [And the Darwin Award goes to:](http://9gag.com/gag/aPAgOXB)
+ - ⏩ [Bruce got pied](http://9gag.com/gag/aNDw6AA)
+ - 👉 [A Paris theatre is facing bankruptcy after inviting 250 illegal immigrants to a free screening. After the performance, they barricaded themselves in and have been living in the building for five weeks.](http://9gag.com/gag/a34ZoMN)<!-- MEMES:END -->
 
 ---
 
