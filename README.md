@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [`Please compensate our employees for hard work so we can NOT pay them more`](http://9gag.com/gag/azx2NEj)
- - ⏩ [How Yugi always wins](http://9gag.com/gag/aVvbnQO)
- - 👉 [Today I lost my certification](http://9gag.com/gag/a0e4mMB)<!-- MEMES:END -->
+ - 💣 [Appreciation!](http://9gag.com/gag/aW4GV73)
+ - ⏩ [Almost double of her weight, and that is not a lady boy](http://9gag.com/gag/awyZqAx)
+ - 👉 [Focus!](http://9gag.com/gag/a34Zow7)<!-- MEMES:END -->
 
 ---
 
