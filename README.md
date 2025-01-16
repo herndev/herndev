@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Costly mistake](http://9gag.com/gag/awyy0Nx)
- - ⏩ [I will never forget when people thought they were gonna raid Area 51 lol](http://9gag.com/gag/ayN2gRp)
- - 👉 [Wet water is wet](http://9gag.com/gag/aGyyKEZ)<!-- MEMES:END -->
+ - 💣 [Removing barnacles from Benson the turtles \ud83d\udc22 shell.](http://9gag.com/gag/azxx7yZ)
+ - ⏩ [Choose your fighter](http://9gag.com/gag/aQzzP0K)
+ - 👉 [Respect this man](http://9gag.com/gag/a6ZZmqL)<!-- MEMES:END -->
 
 ---
 
