@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [New leak compares the Galaxy S25 Slim to the rest of its family. Can you spot the difference?](https://www.androidauthority.com/samsung-galaxy-s25-slim-leak-lineup-comparison-3517180/)
- - [Best Internet Providers in Palm Coast, Florida](https://www.cnet.com/home/internet/best-internet-providers-in-palm-coast-fl/#ftag=CAD590a51e)
- - [A New Jam-Packed Biden Executive Order Tackles Cybersecurity, AI, and More](https://www.wired.com/story/biden-executive-order-cybersecurity-ai-and-more/)<!-- TECH:END -->
+ - [Four current Meta employees, citing internal discussions, say the actual number of full-time staff who will have to relocate from California to Texas is limited &lpar;Paresh Dave/Wired&rpar;](http://www.techmeme.com/250116/p17#a250116p17)
+ - [Google agreed to buy 100K tons of CO2 removal credits from Indian startup Varaha for an undisclosed sum, marking its first deal with a carbon project in India &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/250116/p16#a250116p16)
+ - [Insight Partners raised $12.5B for its 13th flagship fund, down from its initial target of $20B, making it one of the biggest tech-focused funds &lpar;Kate Clark/Bloomberg&rpar;](http://www.techmeme.com/250116/p15#a250116p15)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
