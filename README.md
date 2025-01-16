@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Insta360 Flow 2 Pro gimbal features Apple DockKit, enabling native shooting on iPhone](https://appleinsider.com/articles/25/01/16/insta360-flow-2-pro-gimbal-features-apple-dockkit-enabling-native-shooting-on-iphone?utm_medium=rss)
- - [Insta360’s new Flow 2 Pro gimbal can keep multiple people perfectly framed](https://www.theverge.com/2025/1/16/24344307/insta360-flow-2-pro-smartphone-gimbal-tracking-stabilized-apple-iphone-watch)
- - [ChargePoint is doing something about all the EV charger cable-cutting crooks](https://www.theverge.com/2025/1/16/24343782/chargepoint-cut-resistant-cables-protect-ev-charging-station)<!-- TECH:END -->
+ - [What Spotify took from us by giving us everything](https://www.theverge.com/2025/1/16/24344429/spotify-streaming-book-mood-machine)
+ - [Everything we know about the Switch 2’s Joy-Con controllers](https://www.theverge.com/2025/1/16/24343722/switch-2-joy-cons-details-magnets-drift-nintendo)
+ - [Sources: retail trading platform eToro has confidentially filed for a US IPO, seeking a $5B valuation; it was valued at $3.5B in 2023 &lpar;Ivan Levingston/Financial Times&rpar;](http://www.techmeme.com/250116/p27#a250116p27)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
