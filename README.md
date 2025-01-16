@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Inherent your grandpa&amp;#8217;s farm in this Stardew Valley-esque TTRPG](https://www.polygon.com/tabletop-games/510162/grandpas-farm-ttrpg-games-like-stardew-valley)
- - [Discoveries](https://www.polygon.com/gaming/24215620/new-things-to-play-watch-and-experience)
- - [The Nintendo Switch 2 hardware specs we know so far](https://www.polygon.com/analysis/509874/nintendo-switch-2-specs-hardware-screen-size)<!-- GAME:END -->
+ - [Path of Exile 2&#39;s first big patch of 2025 is here, bringing new maps, quality of life tweaks, unique item and monster rebalancing, and—let&#39;s see—improved visuals for &#39;Chaos Pustules&#39;](https://www.pcgamer.com/games/rpg/path-of-exile-2s-first-big-patch-of-2025-is-here-bringing-new-maps-quality-of-life-tweaks-unique-item-and-monster-rebalancing-and-lets-see-improved-visuals-for-chaos-pustules/)
+ - [Visionary filmmaker David Lynch, whose influence can be felt throughout games, has died](https://www.pcgamer.com/gaming-industry/visionary-filmmaker-david-lynch-whose-influence-can-be-felt-throughout-games-has-died/)
+ - [Donkey Kong&amp;#8217;s Switch 2 version looks like his Mario movie self](https://www.polygon.com/nintendo-switch-2/509861/donkey-kong-redesign-switch-2-mario-kart-9)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
