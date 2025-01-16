@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Path of Exile 2&#39;s first big patch of 2025 is here, bringing new maps, quality of life tweaks, unique item and monster rebalancing, and—let&#39;s see—improved visuals for &#39;Chaos Pustules&#39;](https://www.pcgamer.com/games/rpg/path-of-exile-2s-first-big-patch-of-2025-is-here-bringing-new-maps-quality-of-life-tweaks-unique-item-and-monster-rebalancing-and-lets-see-improved-visuals-for-chaos-pustules/)
- - [Visionary filmmaker David Lynch, whose influence can be felt throughout games, has died](https://www.pcgamer.com/gaming-industry/visionary-filmmaker-david-lynch-whose-influence-can-be-felt-throughout-games-has-died/)
- - [Donkey Kong&amp;#8217;s Switch 2 version looks like his Mario movie self](https://www.polygon.com/nintendo-switch-2/509861/donkey-kong-redesign-switch-2-mario-kart-9)<!-- GAME:END -->
+ - [Elon Musk and Asmongold are beefing over who the best gamer really is, and no matter who wins, we lose](https://www.pcgamer.com/games/elon-musk-and-asmongold-are-beefing-over-who-the-best-gamer-really-is-and-no-matter-who-wins-we-lose/)
+ - [Severance Season 1 Finale Was Almost Shot From The Innies&#39; Perspective](https://kotaku.com/ben-stiller-apple-severance-season-1-finale-news-1851741591)
+ - [Discoveries](https://www.polygon.com/gaming/24215620/new-things-to-play-watch-and-experience)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
