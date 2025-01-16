@@ -48,7 +48,7 @@
 <!-- MEMES:START -->
  - 💣 [Appreciation!](http://9gag.com/gag/aW4GV73)
  - ⏩ [Almost double of her weight, and that is not a lady boy](http://9gag.com/gag/awyZqAx)
- - 👉 [Focus!](http://9gag.com/gag/a34Zow7)<!-- MEMES:END -->
+ - 👉 [Great news! The US House Passes Bill Banning Trans Women From Competing In Women\u2019s School Sports!](http://9gag.com/gag/aRBExQ5)<!-- MEMES:END -->
 
 ---
 
