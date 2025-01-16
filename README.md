@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Razer BlackWidow V4 Pro 75% review](https://www.pcgamer.com/hardware/gaming-keyboards/razer-blackwidow-v4-pro-75-percent-review/)
- - [Marvel Rivals devs have accidentally buffed Storm into a tornado-yeeting monster that everyone is picking, and no-one knows how to counter: &#39;A clustered group is a snack for us&#39;](https://www.pcgamer.com/games/third-person-shooter/marvel-rivals-devs-have-accidentally-buffed-storm-into-a-tornado-yeeting-monster-that-everyone-is-picking-and-no-one-knows-how-to-counter-a-clustered-group-is-a-snack-for-us/)
- - [Dragon Age voice actor arrested on multiple charges over allegations, including revenge porn and harassment](https://www.pcgamer.com/games/dragon-age/dragon-age-voice-actor-arrested-on-multiple-charges-over-allegations-including-revenge-porn-and-harassment/)<!-- GAME:END -->
+ - [The Nintendo Switch 2 has just been announced and it looks a lot more like a handheld gaming PC than a console to me](https://www.pcgamer.com/hardware/handheld-gaming-pcs/the-nintendo-switch-2-has-just-been-announced-and-it-looks-a-lot-more-like-a-handheld-gaming-pc-than-a-console-to-me/)
+ - [Obsidian vet Josh Sawyer says that while &#39;it&#39;s not that important&#39; if players never finish an RPG—after all, who finishes Skyrim—&#39;we can kind of chill out&#39; on size](https://www.pcgamer.com/games/rpg/obsidian-vet-josh-sawyer-says-that-while-its-not-that-important-if-players-never-finish-an-rpg-after-all-who-finishes-skyrim-we-can-kind-of-chill-out-on-size/)
+ - [You Can Play The Switch 2 Early If You Can Make It To One Of These Cities](https://kotaku.com/nintendo-switch-2-experience-early-play-la-nyc-dallas-1851740842)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
