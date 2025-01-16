@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Wet water is wet](http://9gag.com/gag/aGyyKEZ)
- - ⏩ [Respect this man](http://9gag.com/gag/a6ZZmqL)
- - 👉 [Cosplay](http://9gag.com/gag/aPAAw7P)<!-- MEMES:END -->
+ - 💣 [Take two and call me in the morning...](http://9gag.com/gag/ayN2g4r)
+ - ⏩ [Bad man . . .](http://9gag.com/gag/ae99jG5)
+ - 👉 [Take a guess](http://9gag.com/gag/aLn1Yog)<!-- MEMES:END -->
 
 ---
 
