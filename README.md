@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [In Istanbul,a dog brought her puppy,whose heart had stopped due to the cold,to the veterinarian](http://9gag.com/gag/aqyev3j)
- - ⏩ [Dear Tech Companies,](http://9gag.com/gag/aPAgOGV)
- - 👉 [Reminder of this gem. She had window installed and said she didn\u2019t like it and wanted her money back. He paid her back and took care of window.](http://9gag.com/gag/a0e4mOB)<!-- MEMES:END -->
+ - 💣 [Woman saves her dog from drowning in frozen pool](http://9gag.com/gag/a6ZqAY2)
+ - ⏩ [Very painful](http://9gag.com/gag/aQzz6Vw)
+ - 👉 [Respect this man](http://9gag.com/gag/a6ZZmqL)<!-- MEMES:END -->
 
 ---
 
