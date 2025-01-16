@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Save $250 on a Samsung Galaxy Z Flip 6](https://www.androidauthority.com/samsung-galaxy-z-flip-6-deal-2-3516958/)
- - [The FTC Suing John Deere Is a Possible Tipping Point for More Repairable Hardware](https://www.wired.com/story/ftc-sues-john-deere-over-repairability/)
- - [USDOT sues Southwest Airlines over ‘chronically delayed’ flights](https://www.theverge.com/2025/1/15/24344741/usdot-southwest-airlines-lawsuit-chronically-delayed-flights-frontier)<!-- TECH:END -->
+ - [Block agrees to pay $80M to a group of 48 US state financial regulators that say it had insufficient policies for policing money laundering through Cash App &lpar;Pete Schroeder/Reuters&rpar;](http://www.techmeme.com/250115/p38#a250115p38)
+ - [Razer Is Sending Out Checks for Its Falsely Labeled N95 Zephyr Masks](https://www.cnet.com/tech/razer-is-sending-out-checks-for-its-falsely-labeled-n95-zephyr-masks/#ftag=CAD590a51e)
+ - [Here&#39;s How to See Six or Seven Planets in a Dazzling Planet Parade](https://www.cnet.com/science/how-to-see-january-21-planet-parade-of-six-seven-planets-mark-your-calendars-skygazing/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
