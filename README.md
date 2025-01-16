@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Switch snap is dead, long live the Switch 2 clap](https://www.polygon.com/nintendo-switch-2/509935/switch-2-clap-switch-snap-nintendo-sound-effect)
- - [Is The Switch 2 Weird Enough?](https://kotaku.com/switch-2-nintendo-debate-weird-enough-normal-kotaku-1851741231)
- - [Logitech G RS Wheel Hub and RS Track Wheel review](https://www.pcgamer.com/hardware/steering-wheels/logitech-g-rs-wheel-hub-and-rs-track-wheel-review/)<!-- GAME:END -->
+ - [Twin Peaks Director David Lynch Dies At 78](https://kotaku.com/director-david-lynch-dead-dies-twin-peaks-cancer-1851741390)
+ - [Where&#39;s Bloodborne 2? Former PlayStation Exec Has A Theory](https://kotaku.com/bloodborne-2-remake-remaster-miyazaki-sequel-1851741356)
+ - [New Midnight Black PlayStation accessories are available to pre-order](https://www.polygon.com/pre-order/509951/midnight-black-playstation-accesories-controller-headset-where-to-buy)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
