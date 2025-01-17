@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [6 TikTok creators on where they’ll go if the app is banned](https://www.theverge.com/2025/1/17/24342982/tiktok-ban-creators-instagram-reels-youtube-twitch)
- - [How to use ChatGPT in Apple Notes for macOS](https://appleinsider.com/inside/macos-sequoia/tips/how-to-use-chatgpt-in-apple-notes-for-macos?utm_medium=rss)
- - [EU expands its X probe, asking for internal docs about X&#39;s recommendation algorithm, following complaints from German politicians about boosting the far right &lpar;Financial Times&rpar;](http://www.techmeme.com/250117/p7#a250117p7)<!-- TECH:END -->
+ - [Maybe giant gaming handhelds are where it’s at](https://www.theverge.com/2025/1/17/24344308/asus-rog-flow-acer-nitro-blaze-steam-deck-giant-pc-handheld-experiment)
+ - [Nintendo’s Switch 2 is here — sort of](https://www.theverge.com/2025/1/17/24345788/nintendo-switch-2-tiktok-ban-supreme-court-sonos-vergecast)
+ - [PitchBook: investors put $74.6B into US startups in Q4 2024, up from an average of $42B in the prior nine quarters, with $32B invested across just five deals &lpar;Marina Temkin/TechCrunch&rpar;](http://www.techmeme.com/250117/p8#a250117p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
