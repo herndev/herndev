@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [AI Dungeon Master experiment exposes the vulnerability of Critical Role&amp;#8217;s fandom](https://www.polygon.com/critical-role/510326/critical-role-transcripts-ai-dnd-dungeon-master)
- - [Our favorite memories of and tributes to the great David Lynch](https://www.polygon.com/entertainment/510587/david-lynch-death-tribute-actors-directors)
- - [How to get the Burst Quad Launcher in Fortnite](https://www.polygon.com/fortnite-guide/510532/burst-quad-launcher-how-to-get)<!-- GAME:END -->
+ - [Switch 2 vs. Steam Deck: How Nintendo’s next console measures up](https://www.polygon.com/analysis/510197/switch-2-vs-steam-deck-comparison-specs-hardware)
+ - [Final Fantasy 7 Rebirth is Steam Deck verified](https://www.pcgamer.com/games/rpg/final-fantasy-7-rebirth-is-steam-deck-verified/)
+ - [Discoveries](https://www.polygon.com/gaming/24215620/new-things-to-play-watch-and-experience)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
