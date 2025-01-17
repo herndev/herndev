@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google has begun requiring users to turn on JavaScript to use Google Search, says to &quot;better protect&quot; Search against malicious activity, such as bots and spam &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250117/p17#a250117p17)
- - [Nvidia CEO will be one of the few tech bigwigs to skip Trump’s inauguration](https://www.theverge.com/2025/1/17/24345987/nvidia-jensen-huang-skips-trumps-inauguration)
- - [Samsung’s priciest Care Plus plan now includes unlimited $0 screen repairs](https://www.theverge.com/2025/1/17/24344533/samsung-care-plus-cracked-glass-repairs-same-day)<!-- TECH:END -->
+ - [The FCC’s Jessica Rosenworcel Isn’t Leaving Without a Fight](https://www.wired.com/story/the-fccs-jessica-rosenworcel-isnt-leaving-without-a-fight/)
+ - [After SCOTUS upheld the TikTok law, TikTok CEO Shou Zi Chew appeals to Trump in a TikTok video to find a solution that keeps the app available in the US &lpar;Lauren Feiner/The Verge&rpar;](http://www.techmeme.com/250117/p19#a250117p19)
+ - [TikTok CEO flatters Trump ahead of US ban deadline](https://www.theverge.com/2025/1/17/24346044/tiktok-ceo-shou-zi-chew-trump-ban-supreme-court)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
