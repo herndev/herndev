@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Disney has landed in the middle of a fight over an Indigenous language](https://www.polygon.com/features/508915/disney-te-reo-maori-controversy)
- - [After the catastrophe of Concord Sony is reportedly cancelling other projects including a God of War live service game](https://www.pcgamer.com/gaming-industry/after-the-catastrophe-of-concord-sony-is-reportedly-cancelling-other-projects-including-a-god-of-war-live-service-game/)
- - [When will trading release in Pokémon TCG Pocket, and how do trades work?](https://www.polygon.com/pokemon-tcg-pocket-guides/484754/trading-release-date-unlock-restrictions)<!-- GAME:END -->
+ - [The Silksong hive is buzzing over a dev tweet that sees a chocolate cake, Napoleon Bonaparte, and Imagine Dragons all pointing with red string to the April Switch 2 Nintendo Direct](https://www.pcgamer.com/games/action/the-silksong-hive-is-buzzing-over-a-dev-tweet-that-sees-a-chocolate-cake-napoleon-bonaparte-and-imagine-dragons-all-pointing-with-red-string-to-the-april-switch-2-nintendo-direct/)
+ - [The 49 best movies on Netflix right now](https://www.polygon.com/21266801/best-movies-on-netflix)
+ - [Severance&#39;s Creepiest Addition Since The Goats Is A Child](https://kotaku.com/miss-huang-severance-season-2-apple-tv-1851738787)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
