@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [It’s perfectly fine to ignore your smartwatch this January](https://www.theverge.com/2025/1/17/24345802/smartwatch-wearables-fitness-tech-new-years-resolutions)
- - [TikTok’s fate looks sealed as Supreme Court upholds ban](https://www.androidauthority.com/tiktok-supreme-court-decision-3517656/)
- - [Prime members can save $50 on the Amazon Kindle Colorsoft in its first sale](https://www.theverge.com/2025/1/17/24345783/amazon-kindle-colorsoft-color-ebook-reader-deal-sale)<!-- TECH:END -->
+ - [Google has begun requiring users to turn on JavaScript to use Google Search, says to &quot;better protect&quot; Search against malicious activity, such as bots and spam &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250117/p17#a250117p17)
+ - [Nvidia CEO will be one of the few tech bigwigs to skip Trump’s inauguration](https://www.theverge.com/2025/1/17/24345987/nvidia-jensen-huang-skips-trumps-inauguration)
+ - [Samsung’s priciest Care Plus plan now includes unlimited $0 screen repairs](https://www.theverge.com/2025/1/17/24344533/samsung-care-plus-cracked-glass-repairs-same-day)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
