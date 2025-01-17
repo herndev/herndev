@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [An interview with Marc Andreessen on his evolution from a &quot;normie Democrat&quot; to a Trump supporter, and what he and others expect from the new administration &lpar;Ross Douthat/New York Times&rpar;](http://www.techmeme.com/250117/p21#a250117p21)
- - [Forget thin phones, here’s the trend users really care about in 2025](https://www.androidauthority.com/poll-result-phone-trend-3517732/)
- - [SpaceX’s fiery Starship explosion put on a fantastic show but delayed and diverted flights](https://www.theverge.com/2025/1/17/24345957/spacex-starship-rocket-launch-explosion-flight-delay)<!-- TECH:END -->
+ - [The FTC says Genshin Impact maker Cognosphere will pay $20M to settle claims that it deceived players about the cost of winning prizes and mishandled kids&#39; data &lpar;Bloomberg&rpar;](http://www.techmeme.com/250117/p24#a250117p24)
+ - [During her confirmation hearing for secretary of Homeland Security, Kristi Noem says efforts to address foreign disinfo campaigns were outside the remit of CISA &lpar;Jonathan Greig/The Record&rpar;](http://www.techmeme.com/250117/p23#a250117p23)
+ - [Nintendo omits original Donkey Kong Country Returns team from the remaster’s credits](https://www.theverge.com/2025/1/17/24346145/nintendo-donkey-kong-country-returns-hd-team-credits)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
