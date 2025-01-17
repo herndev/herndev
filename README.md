@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [A pike jumped out of the water, probably chasing prey, got stuck between the branches of a tree, and died. Then a bird built a nest right inside its decaying mouth and is now raising its chicks there.](http://9gag.com/gag/aGyEPz5)
- - ⏩ [What a great honor](http://9gag.com/gag/aXPP0vg)
- - 👉 [Testing Boomerangs with 1-6 Wings](http://9gag.com/gag/a9yyjD0)<!-- MEMES:END -->
+ - 💣 [Man tries to intentionally crash Uber driver&#39;s car on the highway](http://9gag.com/gag/aryyeoK)
+ - ⏩ [Costly mistake](http://9gag.com/gag/awyy0Nx)
+ - 👉 [Spider-Man!!](http://9gag.com/gag/a877dep)<!-- MEMES:END -->
 
 ---
 
