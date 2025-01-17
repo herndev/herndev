@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [This upcoming phone could crush S25 Ultra, OnePlus 13 with a huge 7,500mAh battery](https://www.androidauthority.com/xiaomi-7500mah-phone-big-battery-3515402/)
- - [Researchers fear TikTok is softening Taiwanese youth&#39;s stance on China with pro-China content; a report says 22% of Taiwan&#39;s population uses TikTok or Douyin &lpar;Kathrin Hille/Financial Times&rpar;](http://www.techmeme.com/250117/p2#a250117p2)
- - [Best Internet Providers in Arlington, Virginia](https://www.cnet.com/home/internet/best-internet-providers-in-arlington-va/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [5 ways iOS 18.3 beta addresses false AI notification summaries](https://www.androidauthority.com/ios-18-3-beta-ai-notification-summaries-3517462/)
+ - [Samsung turns to big band jazz for Galaxy S25’s new Over the Horizon ringtone](https://www.androidauthority.com/samsung-galaxy-s25-new-over-the-horizon-ringtone-3517466/)
+ - [Wayfair Coupon and Promo Codes: 15% Off](https://www.wired.com/story/wayfair-coupon/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
