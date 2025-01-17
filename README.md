@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Android-iOS RCS messaging has an annoying problem and it’s probably Apple’s fault](https://www.androidauthority.com/android-iphone-rcs-messaging-issue-3517481/)
- - [A look at Pump.Fun, a service for launching memecoins that has generated $350M+ in revenue via a 1% trading fee in the 12 months since its launch in Jan. 2024 &lpar;Joel Khalili/Wired&rpar;](http://www.techmeme.com/250117/p3#a250117p3)
- - [5 ways iOS 18.3 beta addresses false AI notification summaries](https://www.androidauthority.com/ios-18-3-beta-ai-notification-summaries-3517462/)<!-- TECH:END -->
+ - [YouTube on Apple TV copies this handy account tweak from Netflix](https://www.androidauthority.com/youtube-apple-tv-launch-screen-3517521/)
+ - [Best Internet Providers in Cheyenne, Wyoming](https://www.cnet.com/home/internet/best-internet-providers-in-cheyenne-wy/#ftag=CAD590a51e)
+ - [Build Up Your Savings Faster With APYs Over 4%. Today&#39;s Savings Rates for Jan. 17, 2025](https://www.cnet.com/personal-finance/banking/build-up-your-savings-faster-with-apys-over-4-todays-savings-rates-for-jan-17-2025/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
