@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Our LED man](http://9gag.com/gag/a1mmAvw)
- - ⏩ [Woman wins $250K on a scratch-off ticket at a gas station](http://9gag.com/gag/ae99jzB)
- - 👉 [Spider-Man!!](http://9gag.com/gag/a877dep)<!-- MEMES:END -->
+ - 💣 [The king&#39;s speech](http://9gag.com/gag/azxxg0m)
+ - ⏩ [Cosplay](http://9gag.com/gag/aPAAw7P)
+ - 👉 [Peak male performance](http://9gag.com/gag/aRBBQdq)<!-- MEMES:END -->
 
 ---
 
