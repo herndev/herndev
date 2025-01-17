@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Undaunted by mixed Steam reviews, Hyper Light Breaker dev says it&#39;s &#39;encouraging&#39; to have &#39;extremely reasonable&#39; early access feedback](https://www.pcgamer.com/games/roguelike/undaunted-by-mixed-steam-reviews-hyper-light-breaker-dev-says-its-encouraging-to-have-extremely-reasonable-early-access-feedback/)
- - [Nintendo Switch 2 reveal ditched showing players in silly scenarios](https://www.polygon.com/gaming/510089/nintendo-switch-2-ns2-console-players-people)
- - [Mouthwashing review](https://www.pcgamer.com/games/horror/mouthwashing-review/)<!-- GAME:END -->
+ - [How to unlock all Tonics in Destiny 2](https://www.polygon.com/destiny-2-guide-walkthrough/508594/all-tonics-list-how-to-unlock)
+ - [Jagex outrages the Runescape community yet again, this time with a survey hinting at big price hikes and worse service for those who don&#39;t want to pay](https://www.pcgamer.com/games/mmo/jagex-outrages-the-runescape-community-yet-again-this-time-with-a-survey-hinting-at-big-price-hikes-and-worse-service-for-those-who-dont-want-to-pay/)
+ - [Undaunted by mixed Steam reviews, Hyper Light Breaker dev says it&#39;s &#39;encouraging&#39; to have &#39;extremely reasonable&#39; early access feedback](https://www.pcgamer.com/games/roguelike/undaunted-by-mixed-steam-reviews-hyper-light-breaker-dev-says-its-encouraging-to-have-extremely-reasonable-early-access-feedback/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
