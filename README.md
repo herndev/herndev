@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Woman wins $250K on a scratch-off ticket at a gas station](http://9gag.com/gag/ae99jzB)
- - ⏩ [Cosplay](http://9gag.com/gag/aPAAw7P)
- - 👉 [Costly mistake](http://9gag.com/gag/awyy0Nx)<!-- MEMES:END -->
+ - 💣 [A classic blunder](http://9gag.com/gag/aE00vL9)
+ - ⏩ [Kid\u2019s got a golden opportunity here](http://9gag.com/gag/agmmrwn)
+ - 👉 [And you f**kers keep saying AI has no practical, real world use](http://9gag.com/gag/aD2YBq9)<!-- MEMES:END -->
 
 ---
 
