@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A new Verizon price hike is here: Who’s affected and by how much?](https://www.androidauthority.com/verizon-five-line-increase-3517213/)
- - [Best Internet Providers in Fort Wayne, Indiana](https://www.cnet.com/home/internet/best-internet-providers-in-fort-wayne-in/#ftag=CAD590a51e)
- - [Today&#39;s NYT Mini Crossword Answers for Friday, Jan. 17](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-friday-jan-17/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [A survey of US teens aged 13-17 found 26% used ChatGPT for schoolwork in 2024, up from 13% in 2023, while 79% had heard of it, up from 67% in 2023 &lpar;Pew Research Center&rpar;](http://www.techmeme.com/250117/p1#a250117p1)
+ - [Best Internet Providers in Wake Forest, North Carolina](https://www.cnet.com/home/internet/best-internet-providers-in-wake-forest-nc/#ftag=CAD590a51e)
+ - [A new Verizon price hike is here: Who’s affected and by how much?](https://www.androidauthority.com/verizon-five-line-increase-3517213/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
