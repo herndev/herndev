@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [5 ways iOS 18.3 beta addresses false AI notification summaries](https://www.androidauthority.com/ios-18-3-beta-ai-notification-summaries-3517462/)
- - [Samsung turns to big band jazz for Galaxy S25’s new Over the Horizon ringtone](https://www.androidauthority.com/samsung-galaxy-s25-new-over-the-horizon-ringtone-3517466/)
- - [Wayfair Coupon and Promo Codes: 15% Off](https://www.wired.com/story/wayfair-coupon/)<!-- TECH:END -->
+ - [Android-iOS RCS messaging has an annoying problem and it’s probably Apple’s fault](https://www.androidauthority.com/android-iphone-rcs-messaging-issue-3517481/)
+ - [A look at Pump.Fun, a service for launching memecoins that has generated $350M+ in revenue via a 1% trading fee in the 12 months since its launch in Jan. 2024 &lpar;Joel Khalili/Wired&rpar;](http://www.techmeme.com/250117/p3#a250117p3)
+ - [5 ways iOS 18.3 beta addresses false AI notification summaries](https://www.androidauthority.com/ios-18-3-beta-ai-notification-summaries-3517462/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
