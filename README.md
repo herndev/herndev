@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Next Week on Xbox: New Games for January 20 to 24](https://news.xbox.com/en-us/2025/01/17/next-week-on-xbox-new-games-for-january-20-to-24/)
- - [10 essential boomer shooters that every FPS fan should play](https://www.pcgamer.com/games/fps/10-essential-boomer-shooters-that-every-fps-fan-should-play/)
- - [Legendary Japanese dev goes in hard on Switch 2 leakers: &#39;A filthy desire for approval that lacks a shred of rationality—The worst of scum&#39;](https://www.pcgamer.com/gaming-industry/legendary-japanese-dev-goes-in-hard-on-switch-2-leakers-a-filthy-desire-for-approval-that-lacks-a-shred-of-rationality-the-worst-of-scum/)<!-- GAME:END -->
+ - [Dragon Age: The Veilguard game director reportedly departs BioWare after 18 years at EA](https://www.pcgamer.com/games/dragon-age/dragon-age-the-veilguard-game-director-reportedly-departs-bioware-after-18-years-at-ea/)
+ - [Ancient Egyptian horror game Amenti had everything lined up to make it a stellar scarefest—except it forgot to include some actual horror](https://www.pcgamer.com/games/horror/ancient-egyptian-horror-game-amenti-had-everything-lined-up-to-make-it-a-stellar-scarefest-except-it-forgot-to-include-some-actual-horror/)
+ - [God Of War Multiplayer Game And More Canceled Following Concord Flop](https://kotaku.com/god-of-war-multiplayer-bluepoint-days-gone-2-concord-1851742012)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
