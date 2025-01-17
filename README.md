@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Wet water is wet](http://9gag.com/gag/aGyyKEZ)
- - ⏩ [Removing barnacles from Benson the turtles \ud83d\udc22 shell.](http://9gag.com/gag/azxx7yZ)
- - 👉 [Women rather give all their money to an AI instead of dating you](http://9gag.com/gag/axyy2gK)<!-- MEMES:END -->
+ - 💣 [Peak male performance](http://9gag.com/gag/aRBBQdq)
+ - ⏩ [Dirty hands clean money, awesome](http://9gag.com/gag/aW440RK)
+ - 👉 [Cancelled advertising cause it tells the truth](http://9gag.com/gag/aPAAyNg)<!-- MEMES:END -->
 
 ---
 
