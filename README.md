@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [YouTube on Apple TV copies this handy account tweak from Netflix](https://www.androidauthority.com/youtube-apple-tv-launch-screen-3517521/)
- - [Best Internet Providers in Cheyenne, Wyoming](https://www.cnet.com/home/internet/best-internet-providers-in-cheyenne-wy/#ftag=CAD590a51e)
- - [Build Up Your Savings Faster With APYs Over 4%. Today&#39;s Savings Rates for Jan. 17, 2025](https://www.cnet.com/personal-finance/banking/build-up-your-savings-faster-with-apys-over-4-todays-savings-rates-for-jan-17-2025/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Polestar Has a Bold Plan—Get Better at Selling Cars](https://www.wired.com/story/polestars-plan-to-save-itself-from-ruin/)
+ - [Google rejects EU fact checking commitments for Search and YouTube](https://www.theverge.com/2025/1/17/24345747/google-eu-dsa-fact-checks-disinformation-code-search-youtube)
+ - [Google Messages could soon get a touch of pizzazz with new animation &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-messages-new-animation-apk-teardown-3517534/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
