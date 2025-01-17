@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Switch 2 vs. Steam Deck: How Nintendo’s next console measures up](https://www.polygon.com/analysis/510197/switch-2-vs-steam-deck-comparison-specs-hardware)
- - [Final Fantasy 7 Rebirth is Steam Deck verified](https://www.pcgamer.com/games/rpg/final-fantasy-7-rebirth-is-steam-deck-verified/)
- - [Discoveries](https://www.polygon.com/gaming/24215620/new-things-to-play-watch-and-experience)<!-- GAME:END -->
+ - [This Path of Exile 2 build simply opts out of danger by keeping nearby enemies permanently frozen in time](https://www.pcgamer.com/games/rpg/this-path-of-exile-2-build-simply-opts-out-of-danger-by-keeping-nearby-enemies-permanently-frozen-in-time/)
+ - [FTC says Genshin Impact &#39;deceived children&#39; and orders its publisher to pay a $20 million fine and stop selling loot boxes to kids](https://www.pcgamer.com/games/rpg/ftc-says-genshin-impact-deceived-children-and-orders-its-publisher-to-pay-a-usd20-million-fine-and-stop-selling-loot-boxes-to-kids/)
+ - [Genshin Impact developer to pay $20M fine to US Federal Trade Commission over loot box violations](https://www.polygon.com/news/511171/genshin-impact-ftc-settlement-gacha)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
