@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [As a longtime GTA roleplayer, this documentary about actors putting on Hamlet inside GTA Online made me laugh, cry, and wholeheartedly regret ever calling Shakespeare a boring old bastard](https://www.pcgamer.com/movies-tv/as-a-longtime-gta-roleplayer-this-documentary-about-actors-putting-on-hamlet-inside-gta-online-made-me-laugh-cry-and-wholeheartedly-regret-ever-calling-shakespeare-a-boring-old-bastard/)
- - [What will the Nintendo Switch 2 cost? An analysis of Nintendo’s pricing strategy](https://www.polygon.com/nintendo-switch-2/509976/nintendo-switch-2-cost-how-much-price)
- - [Kingdom Come: Deliverance 2 rolls out new forum rules to curb toxic behavior, which immediately sparks toxic behavior](https://www.pcgamer.com/games/rpg/kingdom-come-deliverance-2-rolls-out-new-forum-rules-to-curb-toxic-behavior-which-immediately-sparks-toxic-behavior/)<!-- GAME:END -->
+ - [AI Dungeon Master experiment exposes the vulnerability of Critical Role&amp;#8217;s fandom](https://www.polygon.com/critical-role/510326/critical-role-transcripts-ai-dnd-dungeon-master)
+ - [Our favorite memories of and tributes to the great David Lynch](https://www.polygon.com/entertainment/510587/david-lynch-death-tribute-actors-directors)
+ - [How to get the Burst Quad Launcher in Fortnite](https://www.polygon.com/fortnite-guide/510532/burst-quad-launcher-how-to-get)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
