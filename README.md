@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Some of the Switch’s 2 first accessories are all about Mario Kart](https://www.theverge.com/2025/1/17/24345803/nacon-nintendo-switch-2-mario-kart-steering-wheel-joy-con-grip)
- - [Instabase, which lets companies process unstructured data from different document types, raised a $100M Series D led by Qatar&#39;s sovereign wealth fund &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/250117/p13#a250117p13)
- - [Instagram will show your friends what Reels you’ve liked](https://www.theverge.com/2025/1/17/24345840/instagram-reels-friends-liked-tab)<!-- TECH:END -->
+ - [It’s perfectly fine to ignore your smartwatch this January](https://www.theverge.com/2025/1/17/24345802/smartwatch-wearables-fitness-tech-new-years-resolutions)
+ - [TikTok’s fate looks sealed as Supreme Court upholds ban](https://www.androidauthority.com/tiktok-supreme-court-decision-3517656/)
+ - [Prime members can save $50 on the Amazon Kindle Colorsoft in its first sale](https://www.theverge.com/2025/1/17/24345783/amazon-kindle-colorsoft-color-ebook-reader-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
