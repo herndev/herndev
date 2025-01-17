@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Silksong hive is buzzing over a dev tweet that sees a chocolate cake, Napoleon Bonaparte, and Imagine Dragons all pointing with red string to the April Switch 2 Nintendo Direct](https://www.pcgamer.com/games/action/the-silksong-hive-is-buzzing-over-a-dev-tweet-that-sees-a-chocolate-cake-napoleon-bonaparte-and-imagine-dragons-all-pointing-with-red-string-to-the-april-switch-2-nintendo-direct/)
- - [The 49 best movies on Netflix right now](https://www.polygon.com/21266801/best-movies-on-netflix)
- - [Severance&#39;s Creepiest Addition Since The Goats Is A Child](https://kotaku.com/miss-huang-severance-season-2-apple-tv-1851738787)<!-- GAME:END -->
+ - [Next Week on Xbox: New Games for January 20 to 24](https://news.xbox.com/en-us/2025/01/17/next-week-on-xbox-new-games-for-january-20-to-24/)
+ - [10 essential boomer shooters that every FPS fan should play](https://www.pcgamer.com/games/fps/10-essential-boomer-shooters-that-every-fps-fan-should-play/)
+ - [Legendary Japanese dev goes in hard on Switch 2 leakers: &#39;A filthy desire for approval that lacks a shred of rationality—The worst of scum&#39;](https://www.pcgamer.com/gaming-industry/legendary-japanese-dev-goes-in-hard-on-switch-2-leakers-a-filthy-desire-for-approval-that-lacks-a-shred-of-rationality-the-worst-of-scum/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
