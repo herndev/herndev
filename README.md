@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Here&#39;s a tactical spaceship deckbuilder that&#39;s about to leave early access](https://www.pcgamer.com/games/card-games/heres-a-tactical-spaceship-deckbuilder-thats-about-to-leave-early-access/)
- - [How to unlock all Tonics in Destiny 2](https://www.polygon.com/destiny-2-guide-walkthrough/508594/all-tonics-list-how-to-unlock)
- - [Jagex outrages the Runescape community yet again, this time with a survey hinting at big price hikes and worse service for those who don&#39;t want to pay](https://www.pcgamer.com/games/mmo/jagex-outrages-the-runescape-community-yet-again-this-time-with-a-survey-hinting-at-big-price-hikes-and-worse-service-for-those-who-dont-want-to-pay/)<!-- GAME:END -->
+ - [OnlyFans model explains calculus and machine learning on Pornhub because it pays better than YouTube](https://www.pcgamer.com/hardware/streaming/onlyfans-model-explains-calculus-and-machine-learning-on-pornhub-because-it-pays-better-than-youtube/)
+ - [&lpar;For Southeast Asia&rpar; January Deals come to PlayStation Store](https://blog.playstation.com/2025/01/16/20240117-nyd/)
+ - [&lpar;For Southeast Asia&rpar; January Deals come to PlayStation Store](https://blog.playstation.com/2025/01/16/20240117-nyd/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
