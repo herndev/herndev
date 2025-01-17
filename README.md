@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Peak male performance](http://9gag.com/gag/aRBBQdq)
- - ⏩ [Dirty hands clean money, awesome](http://9gag.com/gag/aW440RK)
- - 👉 [Cancelled advertising cause it tells the truth](http://9gag.com/gag/aPAAyNg)<!-- MEMES:END -->
+ - 💣 [No title](http://9gag.com/gag/ae99jKq)
+ - ⏩ [Kid\u2019s got a golden opportunity here](http://9gag.com/gag/agmmrwn)
+ - 👉 [Testing Boomerangs with 1-6 Wings](http://9gag.com/gag/a9yyjD0)<!-- MEMES:END -->
 
 ---
 
