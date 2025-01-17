@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sony’s black PlayStation 5 accessories are now available for preorder](https://www.theverge.com/24345367/sony-black-dualsense-edge-pulse-explore-elite-playstation-portal-preorder-buy-release-date)
- - [An Entire Book Was Written in DNA—and You Can Buy It for $60](https://www.wired.com/story/entire-book-written-in-dna-buy-it-60-dollars/)
- - [Foldable phone deals: Samsung Galaxy Z Fold 6 or Google Pixel 9 Pro Fold?](https://www.androidauthority.com/samsung-galaxy-z-fold-6-google-pixel-9-pro-fold-deals-3517374/)<!-- TECH:END -->
+ - [AT&amp;T shuts down its home internet service in New York to avoid new broadband law](https://www.androidauthority.com/atnt-exits-new-york-home-internet-aba-3517417/)
+ - [The best Garmin watches for training and everyday life](https://www.theverge.com/23691498/best-garmin-smartwatch-fitness-tracker-wearables)
+ - [Google Messages may start letting you reply to images with a thread &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-messages-reply-images-3517395/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
