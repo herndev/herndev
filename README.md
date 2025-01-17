@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Air quality in India when leaving indoors. According to the universal table, the normal value is 25 or less. Tolerable - up to 50. Worthy - up to 100. Shitty 300. Hell - more than 300](http://9gag.com/gag/adBBNzN)
- - ⏩ [I downloaded the wrong Spiderman](http://9gag.com/gag/aLnnRBA)
- - 👉 [And the Darwin Award goes to:](http://9gag.com/gag/aPAgOXB)<!-- MEMES:END -->
+ - 💣 [A classic blunder](http://9gag.com/gag/aE00vL9)
+ - ⏩ [Cyberpunk 2065](http://9gag.com/gag/a87qr6p)
+ - 👉 [Wet water is wet](http://9gag.com/gag/aGyyKEZ)<!-- MEMES:END -->
 
 ---
 
