@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The FBI used self-destruct on malware infecting over 4,000 US computers, it&#39;s super effective](https://www.pcgamer.com/software/the-fbi-used-self-destruct-on-malware-infecting-over-4-000-us-computers-its-super-effective/)
- - [Pokémon TCG&#39;s Prismatic Evolutions Is A Fantastic Set, If You Can Find It](https://kotaku.com/pokemon-tcg-prismatic-evolutions-pull-rates-rares-1851742071)
- - [The 25 best PlayStation 5 games](https://www.polygon.com/ps5/21720698/best-ps5-games-playstation-5)<!-- GAME:END -->
+ - [Hexes, Headrotten, and Havoc – The Lore of Diablo IV: Season of Witchcraft](https://news.xbox.com/en-us/2025/01/17/diablo-iv-season-of-witchcraft/)
+ - [How to translate a game with no words](https://www.polygon.com/gaming/510006/chants-of-sennaar-localization-process-fictional-language)
+ - [Instead of role queue, Marvel Rivals wants to trust players with the epic responsibility of creating a functioning team by themselves: &#39;We’ll be taking a little bit more of a Marvel-inspired approach&#39;](https://www.pcgamer.com/games/third-person-shooter/instead-of-role-queue-marvel-rivals-wants-to-trust-players-with-the-epic-responsibility-of-creating-a-functioning-team-by-themselves-well-be-taking-a-little-bit-more-of-a-marvel-inspired-approach/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
