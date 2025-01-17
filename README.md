@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I downloaded the wrong Spiderman](http://9gag.com/gag/aLnnRBA)
- - ⏩ [A classic blunder](http://9gag.com/gag/aE00vL9)
- - 👉 [This connector on Switch 2 will be key failure point](http://9gag.com/gag/aYQQbjO)<!-- MEMES:END -->
+ - 💣 [Dirty hands clean money, awesome](http://9gag.com/gag/aW440RK)
+ - ⏩ [ImDroppingOut](http://9gag.com/gag/aE00wBx)
+ - 👉 [Kid\u2019s got a golden opportunity here](http://9gag.com/gag/agmmrwn)<!-- MEMES:END -->
 
 ---
 
