@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The king&#39;s speech](http://9gag.com/gag/azxxg0m)
- - ⏩ [Cosplay](http://9gag.com/gag/aPAAw7P)
- - 👉 [Peak male performance](http://9gag.com/gag/aRBBQdq)<!-- MEMES:END -->
+ - 💣 [Suprise](http://9gag.com/gag/a7oovMx)
+ - ⏩ [Our LED man](http://9gag.com/gag/a1mmAvw)
+ - 👉 [Robber in Pakistan gets beat down](http://9gag.com/gag/aXPn8R6)<!-- MEMES:END -->
 
 ---
 
