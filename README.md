@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [When will trading release in Pokémon TCG Pocket, and how do trades work?](https://www.polygon.com/pokemon-tcg-pocket-guides/484754/trading-release-date-unlock-restrictions)
- - [Ever wanted to become a published Warhammer author? Now&#39;s your chance—and you only need to write 500 words](https://www.pcgamer.com/games/ever-wanted-to-become-a-published-warhammer-author-nows-your-chance-and-you-only-need-to-write-500-words/)
- - [The Witcher 3&#39;s director explains why he had to leave CDPR to make his dream vampire RPG: &#39;We had crazy ideas&#39;](https://www.pcgamer.com/games/rpg/the-witcher-3s-director-explains-why-he-had-to-leave-cdpr-to-make-his-dream-vampire-rpg-we-had-crazy-ideas/)<!-- GAME:END -->
+ - [Disney has landed in the middle of a fight over an Indigenous language](https://www.polygon.com/features/508915/disney-te-reo-maori-controversy)
+ - [After the catastrophe of Concord Sony is reportedly cancelling other projects including a God of War live service game](https://www.pcgamer.com/gaming-industry/after-the-catastrophe-of-concord-sony-is-reportedly-cancelling-other-projects-including-a-god-of-war-live-service-game/)
+ - [When will trading release in Pokémon TCG Pocket, and how do trades work?](https://www.polygon.com/pokemon-tcg-pocket-guides/484754/trading-release-date-unlock-restrictions)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
