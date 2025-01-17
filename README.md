@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [SpaceX catches Starship booster for a second time but loses the spacecraft](https://www.theverge.com/24345430/spacex-starship-rocket-launch-time-watch-live)
- - [Hot laptop deals: Save up to $200 on a new Apple MacBook](https://www.androidauthority.com/apple-macbook-air-m2-m3-pro-deals-3517373/)
- - [They Went After the Hawk Tuah Crypto Promoters. Now They&#39;re Suing Pump.Fun](https://www.wired.com/story/lawyers-hawk-tuah-crypto-promoters-suing-pumpfun/)<!-- TECH:END -->
+ - [Xiaohongshu Scrambles to Hire English-Speaking Content Moderators](https://www.wired.com/story/xiaohongshu-english-moderators-red-note/)
+ - [Sonnet Echo 13 Thunderbolt 5 Dock first with integrated PCIe 4.0 NVMe SSD Storage](https://appleinsider.com/articles/25/01/17/sonnet-echo-13-thunderbolt-5-dock-first-with-integrated-pcie-40-nvme-ssd-storage?utm_medium=rss)
+ - [A US official says the Biden administration won&#39;t force TikTok to go dark in the country on January 19 and will leave it up to Trump to implement the law &lpar;ABC News&rpar;](http://www.techmeme.com/250116/p52#a250116p52)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
