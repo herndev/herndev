@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Very painful](http://9gag.com/gag/aQzz6Vw)
- - ⏩ [No title](http://9gag.com/gag/ae99jKq)
- - 👉 [Suprise](http://9gag.com/gag/a7oovMx)<!-- MEMES:END -->
+ - 💣 [It is what it is](http://9gag.com/gag/an77ejb)
+ - ⏩ [Cosplay](http://9gag.com/gag/aPAAw7P)
+ - 👉 [Peak male performance](http://9gag.com/gag/aRBBQdq)<!-- MEMES:END -->
 
 ---
 
