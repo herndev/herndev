@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Maybe giant gaming handhelds are where it’s at](https://www.theverge.com/2025/1/17/24344308/asus-rog-flow-acer-nitro-blaze-steam-deck-giant-pc-handheld-experiment)
- - [Nintendo’s Switch 2 is here — sort of](https://www.theverge.com/2025/1/17/24345788/nintendo-switch-2-tiktok-ban-supreme-court-sonos-vergecast)
- - [PitchBook: investors put $74.6B into US startups in Q4 2024, up from an average of $42B in the prior nine quarters, with $32B invested across just five deals &lpar;Marina Temkin/TechCrunch&rpar;](http://www.techmeme.com/250117/p8#a250117p8)<!-- TECH:END -->
+ - [Sources: Chinese hackers breached US Treasury Secretary Janet Yellen&#39;s computer and accessed fewer than 50 unclassified files; two deputies were also hacked &lpar;Bloomberg&rpar;](http://www.techmeme.com/250117/p11#a250117p11)
+ - [Cash App fined $255 million in back-to-back settlements](https://www.theverge.com/2025/1/17/24345797/cash-app-fraud-settlements-cfpb-consumer-protections)
+ - [All iPhone 17 models could be the coolest iPhones yet](https://www.androidauthority.com/iphone-17-upgraded-cooling-3517601/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
