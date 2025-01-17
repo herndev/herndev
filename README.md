@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Hexes, Headrotten, and Havoc – The Lore of Diablo IV: Season of Witchcraft](https://news.xbox.com/en-us/2025/01/17/diablo-iv-season-of-witchcraft/)
- - [How to translate a game with no words](https://www.polygon.com/gaming/510006/chants-of-sennaar-localization-process-fictional-language)
- - [Instead of role queue, Marvel Rivals wants to trust players with the epic responsibility of creating a functioning team by themselves: &#39;We’ll be taking a little bit more of a Marvel-inspired approach&#39;](https://www.pcgamer.com/games/third-person-shooter/instead-of-role-queue-marvel-rivals-wants-to-trust-players-with-the-epic-responsibility-of-creating-a-functioning-team-by-themselves-well-be-taking-a-little-bit-more-of-a-marvel-inspired-approach/)<!-- GAME:END -->
+ - [As a longtime GTA roleplayer, this documentary about actors putting on Hamlet inside GTA Online made me laugh, cry, and wholeheartedly regret ever calling Shakespeare a boring old bastard](https://www.pcgamer.com/movies-tv/as-a-longtime-gta-roleplayer-this-documentary-about-actors-putting-on-hamlet-inside-gta-online-made-me-laugh-cry-and-wholeheartedly-regret-ever-calling-shakespeare-a-boring-old-bastard/)
+ - [What will the Nintendo Switch 2 cost? An analysis of Nintendo’s pricing strategy](https://www.polygon.com/nintendo-switch-2/509976/nintendo-switch-2-cost-how-much-price)
+ - [Kingdom Come: Deliverance 2 rolls out new forum rules to curb toxic behavior, which immediately sparks toxic behavior](https://www.pcgamer.com/games/rpg/kingdom-come-deliverance-2-rolls-out-new-forum-rules-to-curb-toxic-behavior-which-immediately-sparks-toxic-behavior/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
