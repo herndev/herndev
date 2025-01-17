@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Could happen to anyone.](http://9gag.com/gag/a5QQd9V)
- - ⏩ [Left or right?](http://9gag.com/gag/avyyZed)
- - 👉 [ImDroppingOut](http://9gag.com/gag/aE00wBx)<!-- MEMES:END -->
+ - 💣 [Senna - Behind The Scenes](http://9gag.com/gag/aryye20)
+ - ⏩ [Removing barnacles from Benson the turtles \ud83d\udc22 shell.](http://9gag.com/gag/azxx7yZ)
+ - 👉 [The pettiest shrinkflation I&#39;ve ever seen](http://9gag.com/gag/aE00wVO)<!-- MEMES:END -->
 
 ---
 
