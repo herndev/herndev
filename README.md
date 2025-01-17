@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This is the moment when Rocky is loaded onto the DPS helicopter. Rocky is a U.S. Marshal K9 who was shot after sniffing out a suspect in a dumpster. He is expected to survive. And he is celebrated as a hero.](http://9gag.com/gag/a9yyd0K)
- - ⏩ [Peak male performance](http://9gag.com/gag/aRBBQdq)
- - 👉 [Liberal Woman moment](http://9gag.com/gag/aByyK2z)<!-- MEMES:END -->
+ - 💣 [Wet water is wet](http://9gag.com/gag/aGyyKEZ)
+ - ⏩ [Removing barnacles from Benson the turtles \ud83d\udc22 shell.](http://9gag.com/gag/azxx7yZ)
+ - 👉 [Women rather give all their money to an AI instead of dating you](http://9gag.com/gag/axyy2gK)<!-- MEMES:END -->
 
 ---
 
