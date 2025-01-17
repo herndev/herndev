@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Suprise](http://9gag.com/gag/a7oovMx)
- - ⏩ [Our LED man](http://9gag.com/gag/a1mmAvw)
- - 👉 [Robber in Pakistan gets beat down](http://9gag.com/gag/aXPn8R6)<!-- MEMES:END -->
+ - 💣 [Very painful](http://9gag.com/gag/aQzz6Vw)
+ - ⏩ [No title](http://9gag.com/gag/ae99jKq)
+ - 👉 [Suprise](http://9gag.com/gag/a7oovMx)<!-- MEMES:END -->
 
 ---
 
