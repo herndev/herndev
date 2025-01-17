@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Cancelled advertising cause it tells the truth](http://9gag.com/gag/aPAAyNg)
- - ⏩ [In Milan, fed up of pickpockets, some young Italians go armed with spray paint to identify them.](http://9gag.com/gag/agmmyyw)
- - 👉 [A true Hero](http://9gag.com/gag/aoyyZYx)<!-- MEMES:END -->
+ - 💣 [Removing barnacles from Benson the turtles \ud83d\udc22 shell.](http://9gag.com/gag/azxx7yZ)
+ - ⏩ [Europe.](http://9gag.com/gag/aPAA4GB)
+ - 👉 [Stop overvaluing women they all wear makeup](http://9gag.com/gag/awyybmQ)<!-- MEMES:END -->
 
 ---
 
