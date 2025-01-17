@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [OnlyFans model explains calculus and machine learning on Pornhub because it pays better than YouTube](https://www.pcgamer.com/hardware/streaming/onlyfans-model-explains-calculus-and-machine-learning-on-pornhub-because-it-pays-better-than-youtube/)
- - [&lpar;For Southeast Asia&rpar; January Deals come to PlayStation Store](https://blog.playstation.com/2025/01/16/20240117-nyd/)
- - [&lpar;For Southeast Asia&rpar; January Deals come to PlayStation Store](https://blog.playstation.com/2025/01/16/20240117-nyd/)<!-- GAME:END -->
+ - [When will trading release in Pokémon TCG Pocket, and how do trades work?](https://www.polygon.com/pokemon-tcg-pocket-guides/484754/trading-release-date-unlock-restrictions)
+ - [Ever wanted to become a published Warhammer author? Now&#39;s your chance—and you only need to write 500 words](https://www.pcgamer.com/games/ever-wanted-to-become-a-published-warhammer-author-nows-your-chance-and-you-only-need-to-write-500-words/)
+ - [The Witcher 3&#39;s director explains why he had to leave CDPR to make his dream vampire RPG: &#39;We had crazy ideas&#39;](https://www.pcgamer.com/games/rpg/the-witcher-3s-director-explains-why-he-had-to-leave-cdpr-to-make-his-dream-vampire-rpg-we-had-crazy-ideas/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
