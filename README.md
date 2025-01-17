@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Man tries to intentionally crash Uber driver&#39;s car on the highway](http://9gag.com/gag/aryyeoK)
- - ⏩ [Costly mistake](http://9gag.com/gag/awyy0Nx)
- - 👉 [Spider-Man!!](http://9gag.com/gag/a877dep)<!-- MEMES:END -->
+ - 💣 [Woman wins $250K on a scratch-off ticket at a gas station](http://9gag.com/gag/ae99jzB)
+ - ⏩ [Cosplay](http://9gag.com/gag/aPAAw7P)
+ - 👉 [Costly mistake](http://9gag.com/gag/awyy0Nx)<!-- MEMES:END -->
 
 ---
 
