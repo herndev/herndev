@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Dragon Age: The Veilguard game director reportedly departs BioWare after 18 years at EA](https://www.pcgamer.com/games/dragon-age/dragon-age-the-veilguard-game-director-reportedly-departs-bioware-after-18-years-at-ea/)
- - [Ancient Egyptian horror game Amenti had everything lined up to make it a stellar scarefest—except it forgot to include some actual horror](https://www.pcgamer.com/games/horror/ancient-egyptian-horror-game-amenti-had-everything-lined-up-to-make-it-a-stellar-scarefest-except-it-forgot-to-include-some-actual-horror/)
- - [God Of War Multiplayer Game And More Canceled Following Concord Flop](https://kotaku.com/god-of-war-multiplayer-bluepoint-days-gone-2-concord-1851742012)<!-- GAME:END -->
+ - [The FBI used self-destruct on malware infecting over 4,000 US computers, it&#39;s super effective](https://www.pcgamer.com/software/the-fbi-used-self-destruct-on-malware-infecting-over-4-000-us-computers-its-super-effective/)
+ - [Pokémon TCG&#39;s Prismatic Evolutions Is A Fantastic Set, If You Can Find It](https://kotaku.com/pokemon-tcg-prismatic-evolutions-pull-rates-rares-1851742071)
+ - [The 25 best PlayStation 5 games](https://www.polygon.com/ps5/21720698/best-ps5-games-playstation-5)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
