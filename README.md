@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Removing barnacles from Benson the turtles \ud83d\udc22 shell.](http://9gag.com/gag/azxx7yZ)
- - ⏩ [Europe.](http://9gag.com/gag/aPAA4GB)
- - 👉 [Stop overvaluing women they all wear makeup](http://9gag.com/gag/awyybmQ)<!-- MEMES:END -->
+ - 💣 [&#39;&#39;Who give a f**k how long a scene is!&#39;&#39; David Lynch](http://9gag.com/gag/aqyyN5R)
+ - ⏩ [Testing Boomerangs with 1-6 Wings](http://9gag.com/gag/a9yyjD0)
+ - 👉 [Could happen to anyone.](http://9gag.com/gag/a5QQd9V)<!-- MEMES:END -->
 
 ---
 
