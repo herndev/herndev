@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Senna - Behind The Scenes](http://9gag.com/gag/aryye20)
- - ⏩ [Removing barnacles from Benson the turtles \ud83d\udc22 shell.](http://9gag.com/gag/azxx7yZ)
- - 👉 [The pettiest shrinkflation I&#39;ve ever seen](http://9gag.com/gag/aE00wVO)<!-- MEMES:END -->
+ - 💣 [I downloaded the wrong Spiderman](http://9gag.com/gag/aLnnRBA)
+ - ⏩ [A classic blunder](http://9gag.com/gag/aE00vL9)
+ - 👉 [This connector on Switch 2 will be key failure point](http://9gag.com/gag/aYQQbjO)<!-- MEMES:END -->
 
 ---
 
