@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Galaxy Unpacked 2025: What to expect and how to watch the Galaxy S25 launch live](https://www.androidauthority.com/samsung-galaxy-unpacked-2025-what-to-expect-livestream-3517055/)
- - [Job listings show Xiaohongshu is rushing to hire English-speaking moderators to help manage the unexpected influx of English videos and posts on the platform &lpar;Zeyi Yang/Wired&rpar;](http://www.techmeme.com/250116/p58#a250116p58)
- - [Best Shave Club for 2025](https://www.cnet.com/health/personal-care/best-shave-club/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [A new Verizon price hike is here: Who’s affected and by how much?](https://www.androidauthority.com/verizon-five-line-increase-3517213/)
+ - [Best Internet Providers in Fort Wayne, Indiana](https://www.cnet.com/home/internet/best-internet-providers-in-fort-wayne-in/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Mini Crossword Answers for Friday, Jan. 17](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-friday-jan-17/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
