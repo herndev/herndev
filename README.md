@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Chinese hackers breached US Treasury Secretary Janet Yellen&#39;s computer and accessed fewer than 50 unclassified files; two deputies were also hacked &lpar;Bloomberg&rpar;](http://www.techmeme.com/250117/p11#a250117p11)
- - [Cash App fined $255 million in back-to-back settlements](https://www.theverge.com/2025/1/17/24345797/cash-app-fraud-settlements-cfpb-consumer-protections)
- - [All iPhone 17 models could be the coolest iPhones yet](https://www.androidauthority.com/iphone-17-upgraded-cooling-3517601/)<!-- TECH:END -->
+ - [Some of the Switch’s 2 first accessories are all about Mario Kart](https://www.theverge.com/2025/1/17/24345803/nacon-nintendo-switch-2-mario-kart-steering-wheel-joy-con-grip)
+ - [Instabase, which lets companies process unstructured data from different document types, raised a $100M Series D led by Qatar&#39;s sovereign wealth fund &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/250117/p13#a250117p13)
+ - [Instagram will show your friends what Reels you’ve liked](https://www.theverge.com/2025/1/17/24345840/instagram-reels-friends-liked-tab)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
