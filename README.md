@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Dirty hands clean money, awesome](http://9gag.com/gag/aW440RK)
- - ⏩ [ImDroppingOut](http://9gag.com/gag/aE00wBx)
- - 👉 [Kid\u2019s got a golden opportunity here](http://9gag.com/gag/agmmrwn)<!-- MEMES:END -->
+ - 💣 [Cancelled advertising cause it tells the truth](http://9gag.com/gag/aPAAyNg)
+ - ⏩ [In Milan, fed up of pickpockets, some young Italians go armed with spray paint to identify them.](http://9gag.com/gag/agmmyyw)
+ - 👉 [A true Hero](http://9gag.com/gag/aoyyZYx)<!-- MEMES:END -->
 
 ---
 
