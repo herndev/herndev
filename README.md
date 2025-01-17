@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [No title](http://9gag.com/gag/ae99jKq)
- - ⏩ [Kid\u2019s got a golden opportunity here](http://9gag.com/gag/agmmrwn)
- - 👉 [Testing Boomerangs with 1-6 Wings](http://9gag.com/gag/a9yyjD0)<!-- MEMES:END -->
+ - 💣 [Could happen to anyone.](http://9gag.com/gag/a5QQd9V)
+ - ⏩ [Left or right?](http://9gag.com/gag/avyyZed)
+ - 👉 [ImDroppingOut](http://9gag.com/gag/aE00wBx)<!-- MEMES:END -->
 
 ---
 
