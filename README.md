@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [AT&amp;T shuts down its home internet service in New York to avoid new broadband law](https://www.androidauthority.com/atnt-exits-new-york-home-internet-aba-3517417/)
- - [The best Garmin watches for training and everyday life](https://www.theverge.com/23691498/best-garmin-smartwatch-fitness-tracker-wearables)
- - [Google Messages may start letting you reply to images with a thread &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-messages-reply-images-3517395/)<!-- TECH:END -->
+ - [SpaceX catches Starship booster for a second time but loses the spacecraft](https://www.theverge.com/24345430/spacex-starship-rocket-launch-time-watch-live)
+ - [Hot laptop deals: Save up to $200 on a new Apple MacBook](https://www.androidauthority.com/apple-macbook-air-m2-m3-pro-deals-3517373/)
+ - [They Went After the Hawk Tuah Crypto Promoters. Now They&#39;re Suing Pump.Fun](https://www.wired.com/story/lawyers-hawk-tuah-crypto-promoters-suing-pumpfun/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
