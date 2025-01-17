@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I downloaded the wrong Spiderman](http://9gag.com/gag/aLnnRBA)
- - ⏩ [Today I lost my certification](http://9gag.com/gag/a0e4mMB)
- - 👉 [Swimming date is the best date; change my mind](http://9gag.com/gag/ajPPQxR)<!-- MEMES:END -->
+ - 💣 [Our LED man](http://9gag.com/gag/a1mmAvw)
+ - ⏩ [Woman wins $250K on a scratch-off ticket at a gas station](http://9gag.com/gag/ae99jzB)
+ - 👉 [Spider-Man!!](http://9gag.com/gag/a877dep)<!-- MEMES:END -->
 
 ---
 
