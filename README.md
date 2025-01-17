@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [A classic blunder](http://9gag.com/gag/aE00vL9)
- - ⏩ [Cyberpunk 2065](http://9gag.com/gag/a87qr6p)
- - 👉 [Wet water is wet](http://9gag.com/gag/aGyyKEZ)<!-- MEMES:END -->
+ - 💣 [Math is important](http://9gag.com/gag/aAyyY42)
+ - ⏩ [Woman wins $250K on a scratch-off ticket at a gas station](http://9gag.com/gag/ae99jzB)
+ - 👉 [Guess she won\u2019t be in season 3](http://9gag.com/gag/aXPn8K6)<!-- MEMES:END -->
 
 ---
 
