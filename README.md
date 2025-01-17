@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The FCC’s Jessica Rosenworcel Isn’t Leaving Without a Fight](https://www.wired.com/story/the-fccs-jessica-rosenworcel-isnt-leaving-without-a-fight/)
- - [After SCOTUS upheld the TikTok law, TikTok CEO Shou Zi Chew appeals to Trump in a TikTok video to find a solution that keeps the app available in the US &lpar;Lauren Feiner/The Verge&rpar;](http://www.techmeme.com/250117/p19#a250117p19)
- - [TikTok CEO flatters Trump ahead of US ban deadline](https://www.theverge.com/2025/1/17/24346044/tiktok-ceo-shou-zi-chew-trump-ban-supreme-court)<!-- TECH:END -->
+ - [An interview with Marc Andreessen on his evolution from a &quot;normie Democrat&quot; to a Trump supporter, and what he and others expect from the new administration &lpar;Ross Douthat/New York Times&rpar;](http://www.techmeme.com/250117/p21#a250117p21)
+ - [Forget thin phones, here’s the trend users really care about in 2025](https://www.androidauthority.com/poll-result-phone-trend-3517732/)
+ - [SpaceX’s fiery Starship explosion put on a fantastic show but delayed and diverted flights](https://www.theverge.com/2025/1/17/24345957/spacex-starship-rocket-launch-explosion-flight-delay)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
