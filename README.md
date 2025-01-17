@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [A classic blunder](http://9gag.com/gag/aE00vL9)
- - ⏩ [Kid\u2019s got a golden opportunity here](http://9gag.com/gag/agmmrwn)
- - 👉 [And you f**kers keep saying AI has no practical, real world use](http://9gag.com/gag/aD2YBq9)<!-- MEMES:END -->
+ - 💣 [Air quality in India when leaving indoors. According to the universal table, the normal value is 25 or less. Tolerable - up to 50. Worthy - up to 100. Shitty 300. Hell - more than 300](http://9gag.com/gag/adBBNzN)
+ - ⏩ [I downloaded the wrong Spiderman](http://9gag.com/gag/aLnnRBA)
+ - 👉 [And the Darwin Award goes to:](http://9gag.com/gag/aPAgOXB)<!-- MEMES:END -->
 
 ---
 
