@@ -4,7 +4,7 @@
 |   HI THERE <img height="20px" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" />    |
 | ----------- |
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00AA71&width=435&lines=I'm+herndev;I'm+a+Full+Stack+Developer;I+build+Web+Websites+%26+Apps)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00AA71&width=435&lines=I'm+herndev;I'm+a+Full+Stack+Developer;I+build+Websites+%26+Apps)](https://git.io/typing-svg)
 
 <br />
 
