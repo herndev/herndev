@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Polestar Has a Bold Plan—Get Better at Selling Cars](https://www.wired.com/story/polestars-plan-to-save-itself-from-ruin/)
- - [Google rejects EU fact checking commitments for Search and YouTube](https://www.theverge.com/2025/1/17/24345747/google-eu-dsa-fact-checks-disinformation-code-search-youtube)
- - [Google Messages could soon get a touch of pizzazz with new animation &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-messages-new-animation-apk-teardown-3517534/)<!-- TECH:END -->
+ - [6 TikTok creators on where they’ll go if the app is banned](https://www.theverge.com/2025/1/17/24342982/tiktok-ban-creators-instagram-reels-youtube-twitch)
+ - [How to use ChatGPT in Apple Notes for macOS](https://appleinsider.com/inside/macos-sequoia/tips/how-to-use-chatgpt-in-apple-notes-for-macos?utm_medium=rss)
+ - [EU expands its X probe, asking for internal docs about X&#39;s recommendation algorithm, following complaints from German politicians about boosting the far right &lpar;Financial Times&rpar;](http://www.techmeme.com/250117/p7#a250117p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
