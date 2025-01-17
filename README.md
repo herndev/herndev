@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The FTC says Genshin Impact maker Cognosphere will pay $20M to settle claims that it deceived players about the cost of winning prizes and mishandled kids&#39; data &lpar;Bloomberg&rpar;](http://www.techmeme.com/250117/p24#a250117p24)
- - [During her confirmation hearing for secretary of Homeland Security, Kristi Noem says efforts to address foreign disinfo campaigns were outside the remit of CISA &lpar;Jonathan Greig/The Record&rpar;](http://www.techmeme.com/250117/p23#a250117p23)
- - [Nintendo omits original Donkey Kong Country Returns team from the remaster’s credits](https://www.theverge.com/2025/1/17/24346145/nintendo-donkey-kong-country-returns-hd-team-credits)<!-- TECH:END -->
+ - [Waymo Finds a Way Around US Restrictions Targeting Chinese Cars](https://www.wired.com/story/waymo-finds-a-way-around-us-restrictions-on-chinese-evs/)
+ - [How to unblock websites on your iPhone with Surfshark VPN](https://appleinsider.com/articles/25/01/17/how-to-unblock-websites-on-your-iphone-with-surfshark-vpn?utm_medium=rss)
+ - [AT&amp;T pulls its 5G internet service in NY over new affordable internet law](https://www.theverge.com/2025/1/17/24346159/att-new-york-affordable-broadband-act-5g)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
