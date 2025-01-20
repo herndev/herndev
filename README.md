@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [A thousand words communicated with just a smile](http://9gag.com/gag/aPAAYVV)
- - ⏩ [Trumpkovsky, Overture of 2025](http://9gag.com/gag/an7751V)
- - 👉 [Something is sus](http://9gag.com/gag/an779ez)<!-- MEMES:END -->
+ - 💣 [Theres a photo online of a dude who killed a hippo with one](http://9gag.com/gag/aD22z0w)
+ - ⏩ [There are no stupid questions](http://9gag.com/gag/aNDDAr3)
+ - 👉 [A thousand words communicated with just a smile](http://9gag.com/gag/aPAAYVV)<!-- MEMES:END -->
 
 ---
 
