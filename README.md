@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Airport security is going to be pissed lol](http://9gag.com/gag/a7ooDKA)
- - ⏩ [The Double Rainbow guy was a prolific YouTuber who scheduled 15 years of uploads in advanced before he died His channel is still active now 4 years after his death.](http://9gag.com/gag/aXPP97P)
- - 👉 [Impressive and frightener](http://9gag.com/gag/azxx81m)<!-- MEMES:END -->
+ - 💣 [This man paid 10,000 bitcoins for two pizzas in 2010](http://9gag.com/gag/aByy1BN)
+ - ⏩ [Helping](http://9gag.com/gag/aGyyDg5)
+ - 👉 [She knows](http://9gag.com/gag/avyyPzd)<!-- MEMES:END -->
 
 ---
 
