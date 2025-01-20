@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Me too](http://9gag.com/gag/aRBBKpM)
- - ⏩ [Winning in life](http://9gag.com/gag/a877MRQ)
- - 👉 [Shaggy knew it all along](http://9gag.com/gag/aRBBm15)<!-- MEMES:END -->
+ - 💣 [Tips on meeting women](http://9gag.com/gag/aMVV8Q6)
+ - ⏩ [It&#39;s your captain speaking, don&#39;t forget to add some material.](http://9gag.com/gag/aqyyL3Y)
+ - 👉 [Theres a photo online of a dude who killed a hippo with one](http://9gag.com/gag/aD22z0w)<!-- MEMES:END -->
 
 ---
 
