@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [It took a decade for NASA to piece together this 416,592,960 pixel image of the Andromeda galaxy and the key takeaway? &#39;Andromeda&#39;s a train wreck&#39;](https://www.pcgamer.com/hardware/it-took-a-decade-for-nasa-to-piece-together-this-416-592-960-pixel-image-of-the-andromeda-galaxy-and-the-key-takeaway-andromedas-a-train-wreck/)
  - [Aokzoe teases its next-gen handheld gaming PC and it looks like it&#39;s just stuffed a better chip, screen, and battery into its not-bad, not-great A1 Pro](https://www.pcgamer.com/hardware/handheld-gaming-pcs/aokzoe-teases-its-next-gen-handheld-gaming-pc-and-it-looks-like-its-just-stuffed-a-better-chip-screen-and-battery-into-its-not-bad-not-great-a1-pro/)
- - [Pimax Crystal Light review](https://www.pcgamer.com/games/vr/pimax-crystal-light-review/)
- - [Dynamax Articuno counters, weakness, and battle tips in Pokémon Go](https://www.polygon.com/pokemon-go-guide/510155/dynamax-articuno-counters-weakness-tips)<!-- GAME:END -->
+ - [Pimax Crystal Light review](https://www.pcgamer.com/games/vr/pimax-crystal-light-review/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
