@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Ron rules](http://9gag.com/gag/aD22xXx)
- - ⏩ [It&#39;s your captain speaking, don&#39;t forget to add some material.](http://9gag.com/gag/aqyyL3Y)
- - 👉 [But it was romantic](http://9gag.com/gag/a5QQo7O)<!-- MEMES:END -->
+ - 💣 [How high voltage leaks are detected inside big power grids](http://9gag.com/gag/aLnnjmW)
+ - ⏩ [3rd gold medal from god himself](http://9gag.com/gag/aKGG233)
+ - 👉 [The most important topic of all time](http://9gag.com/gag/a5QQoDq)<!-- MEMES:END -->
 
 ---
 
