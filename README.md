@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Night Agent season 2 on Netflix, The Agency season finale, and more new TV this week](https://www.polygon.com/tv/507251/new-netflix-tv-night-agent-season-2-agency-finale)
- - [Vertical extraction shooter Exoborne holds its first playtest soon, and you can sign up now](https://www.pcgamer.com/games/third-person-shooter/vertical-extraction-shooter-exoborne-holds-its-first-playtest-soon-and-you-can-sign-up-now/)
- - [Streamers including Kai Cenat named in Drake&#39;s UMG lawsuit for their reaction videos instantly respond with reaction videos: &#39;The biggest Ls come from not knowing how to take an L&#39;](https://www.pcgamer.com/games/streamers-including-kai-cenat-named-in-drakes-umg-lawsuit-for-their-reaction-videos-instantly-respond-with-reaction-videos-the-biggest-ls-come-from-not-knowing-how-to-take-an-l/)<!-- GAME:END -->
+ - [All New Lil Gator Game DLC – The World Just Got Bigger for This Lil Gator](https://news.xbox.com/en-us/2025/01/20/all-new-lil-gator-game-dlc-the-world-just-got-bigger-for-this-lil-gator/)
+ - [&#39;S**t&#39;s about to get real&#39;: The first Steam sale of 2025 is live, and it&#39;s all about strategy games](https://www.pcgamer.com/games/strategy/s-ts-about-to-get-real-the-first-steam-sale-of-2025-is-live-and-its-all-about-strategy-games/)
+ - [World of Warcraft has a currency problem: more than 500 kinds of tender can currently be used in the 20-year-old game](https://www.pcgamer.com/games/world-of-warcraft/world-of-warcraft-has-a-currency-problem-more-than-500-kinds-of-tender-can-currently-be-used-in-the-20-year-old-game/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
