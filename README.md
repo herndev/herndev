@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Dynamax Articuno counters, weakness, and battle tips in Pokémon Go](https://www.polygon.com/pokemon-go-guide/510155/dynamax-articuno-counters-weakness-tips)
  - [Today&#39;s Wordle answer for Monday, January 20](https://www.pcgamer.com/games/puzzle/wordle-answer-today-january-20-2025/)
- - [Survival-stealth sequel Chernobylite 2: Exclusion Zone hit its Kickstarter goal in four days](https://www.pcgamer.com/games/rpg/survival-stealth-sequel-chernobylite-2-exclusion-zone-hit-its-kickstarter-goal-in-four-days/)
- - [Five new Steam games you probably missed &lpar;January 20, 2025&rpar;](https://www.pcgamer.com/software/platforms/five-new-steam-games-you-probably-missed-january-20-2025/)<!-- GAME:END -->
+ - [Survival-stealth sequel Chernobylite 2: Exclusion Zone hit its Kickstarter goal in four days](https://www.pcgamer.com/games/rpg/survival-stealth-sequel-chernobylite-2-exclusion-zone-hit-its-kickstarter-goal-in-four-days/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
