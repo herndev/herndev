@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple CEO Tim Cook offers innovation and jobs to President Trump&#39;s America](https://appleinsider.com/articles/25/01/20/apple-ceo-tim-cook-offers-innovation-and-jobs-to-president-trumps-america?utm_medium=rss)
- - [How to upgrade the SSD in your M4 Mac mini](https://appleinsider.com/inside/mac-mini/tips/how-to-upgrade-the-ssd-in-your-m4-mac-mini?utm_medium=rss)
- - [Only today: Apple AirPods Max USB-C reach a new all-time low price](https://www.androidauthority.com/apple-airpods-max-usb-c-deal-3518275/)<!-- TECH:END -->
+ - [Jan. 17 filing: the US NHTSA said it &quot;upgraded&quot; its April 2024 probe into Ford&#39;s BlueCruise, a driver assistance system that was active during two fatal crashes &lpar;Kirsten Korosec/TechCrunch&rpar;](http://www.techmeme.com/250120/p24#a250120p24)
+ - [Neo-Nazis Love the Nazi-Like Salutes Elon Musk Made at Trump&#39;s Inauguration](https://www.wired.com/story/neo-nazis-love-elon-musk-nazi-like-salutes-trumps-inauguration/)
+ - [During a speech following Donald Trump&#39;s inauguration, Elon Musk appeared to deliver two Roman salutes, associated with Nazism, to the crowd &lpar;Hafiz Rashid/New Republic&rpar;](http://www.techmeme.com/250120/p23#a250120p23)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
