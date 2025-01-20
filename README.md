@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Theres a photo online of a dude who killed a hippo with one](http://9gag.com/gag/aD22z0w)
- - ⏩ [There are no stupid questions](http://9gag.com/gag/aNDDAr3)
- - 👉 [A thousand words communicated with just a smile](http://9gag.com/gag/aPAAYVV)<!-- MEMES:END -->
+ - 💣 [But it was romantic](http://9gag.com/gag/a5QQo7O)
+ - ⏩ [Share your apples with us](http://9gag.com/gag/a6ZZOG2)
+ - 👉 [How high voltage leaks are detected inside big power grids](http://9gag.com/gag/aLnnjmW)<!-- MEMES:END -->
 
 ---
 
