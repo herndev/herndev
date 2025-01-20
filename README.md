@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Ravensburger announces new Disney Villainous games and international tournaments](https://www.polygon.com/board-games/510813/ravensburger-announces-new-disney-villanous-games-and-international-tournaments)
  - [All New Lil Gator Game DLC – The World Just Got Bigger for This Lil Gator](https://news.xbox.com/en-us/2025/01/20/all-new-lil-gator-game-dlc-the-world-just-got-bigger-for-this-lil-gator/)
- - [&#39;S**t&#39;s about to get real&#39;: The first Steam sale of 2025 is live, and it&#39;s all about strategy games](https://www.pcgamer.com/games/strategy/s-ts-about-to-get-real-the-first-steam-sale-of-2025-is-live-and-its-all-about-strategy-games/)
- - [World of Warcraft has a currency problem: more than 500 kinds of tender can currently be used in the 20-year-old game](https://www.pcgamer.com/games/world-of-warcraft/world-of-warcraft-has-a-currency-problem-more-than-500-kinds-of-tender-can-currently-be-used-in-the-20-year-old-game/)<!-- GAME:END -->
+ - [&#39;S**t&#39;s about to get real&#39;: The first Steam sale of 2025 is live, and it&#39;s all about strategy games](https://www.pcgamer.com/games/strategy/s-ts-about-to-get-real-the-first-steam-sale-of-2025-is-live-and-its-all-about-strategy-games/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
