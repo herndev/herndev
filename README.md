@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Move over Bluetooth, the first Wi-Fi earbuds are coming ‘very, very soon’](https://www.androidauthority.com/qualcomm-xpan-wi-fi-earbuds-launch-3517914/)
- - [iPhone SE 4 could cannibalize Apple’s flagship sales with this rumored feature](https://www.androidauthority.com/iphone-se-4-apple-intelligence-3517922/)
- - [Obsessing Over Your Protein? Why &#39;Goals&#39; Might Not Be Necessary, Experts Say](https://www.cnet.com/health/nutrition/obsessing-over-protein-why-goals-not-necessary-experts-say/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [A look at UK hedge fund Man Group&#39;s ArcticDB, an open-source tool used internally and by customers like Bloomberg to analyze daily stock trading data and more &lpar;Isabelle Bousquette/Wall Street Journal&rpar;](http://www.techmeme.com/250120/p5#a250120p5)
+ - [OnePlus Open 2’s IP rating and thinness will put the Galaxy Z Fold 6 to shame](https://www.androidauthority.com/oneplus-open-2-ipx9-ipx8-ipx6-water-resistance-3517934/)
+ - [Analysis: Chinese AI researchers produced ~46K collaborative papers with their US counterparts over the past decade, followed by ~19K with researchers in the UK &lpar;Khadija Alam/Rest of World&rpar;](http://www.techmeme.com/250120/p4#a250120p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
