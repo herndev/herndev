@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [A Rabid Fox behaving like a Zombie. The Rabies Virus is named Rabies Lyssavirus &lpar;RABV&rpar;. It is a member of the Lyssavirus genus in the Rhabdoviridae family. One of the Scariest Virus on the Planet.](http://9gag.com/gag/aAyyxGd)
- - ⏩ [Toture](http://9gag.com/gag/aZZZmxn)
- - 👉 [Theres a photo online of a dude who killed a hippo with one](http://9gag.com/gag/aD22z0w)<!-- MEMES:END -->
+ - 💣 [Ron rules](http://9gag.com/gag/aD22xXx)
+ - ⏩ [It&#39;s your captain speaking, don&#39;t forget to add some material.](http://9gag.com/gag/aqyyL3Y)
+ - 👉 [But it was romantic](http://9gag.com/gag/a5QQo7O)<!-- MEMES:END -->
 
 ---
 
