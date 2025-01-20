@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [This Path of Exile 2 build simply opts out of danger by keeping nearby enemies permanently frozen in time](https://www.pcgamer.com/games/rpg/this-path-of-exile-2-build-simply-opts-out-of-danger-by-keeping-nearby-enemies-permanently-frozen-in-time/)
- - [FTC says Genshin Impact &#39;deceived children&#39; and orders its publisher to pay a $20 million fine and stop selling loot boxes to kids](https://www.pcgamer.com/games/rpg/ftc-says-genshin-impact-deceived-children-and-orders-its-publisher-to-pay-a-usd20-million-fine-and-stop-selling-loot-boxes-to-kids/)
- - [Genshin Impact developer to pay $20M fine to US Federal Trade Commission over loot box violations](https://www.polygon.com/news/511171/genshin-impact-ftc-settlement-gacha)<!-- GAME:END -->
+ - [I felt goodwill and hope for the future seeing Cyberlich and the Death Cult of Labor, an FPS that&#39;s 60% HUD and looks like an Adult Swim cartoon where you smoke &#39;deepweed&#39; to restore your health and blow clouds that spell out &#39;doink&#39; and &#39;loud&#39;](https://www.pcgamer.com/games/fps/i-felt-goodwill-and-hope-for-the-future-seeing-cyberlich-and-the-death-cult-of-labor-an-fps-thats-60-percent-hud-and-looks-like-an-adult-swim-cartoon-where-you-smoke-deepweed-to-restore-your-health-and-blow-clouds-that-spell-out-doink-and-loud/)
+ - [Baldur&#39;s Gate 3&#39;s shows off its upcoming photo mode by going haywire with memes](https://www.pcgamer.com/games/baldurs-gate/baldurs-gate-3s-shows-off-its-upcoming-photo-mode-by-going-haywire-with-memes/)
+ - [Bethesda intended Starfield to be more violent, including &#39;meat caps&#39; for beheaded astronauts, but the gore was toned down for technical reasons and because it &#39;didn&#39;t fit thematically&#39;](https://www.pcgamer.com/games/rpg/bethesda-intended-starfield-to-be-more-violent-including-meat-caps-for-beheaded-astronauts-but-the-gore-was-toned-down-for-technical-reasons-and-because-it-didnt-fit-thematically/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
