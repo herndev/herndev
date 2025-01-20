@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Diablo 4 Season of Witchcraft, Final Fantasy 7 Rebirth on PC, and other new games out this week](https://www.polygon.com/gaming/510545/best-new-game-releases-jan-20-final-fantasy-7-rebirth-pc-diablo-season-4)
- - [Developer behind the Dino Crisis spiritual successor says &#39;vulgar&#39; mods are the reason we&#39;re not getting a PC port](https://www.pcgamer.com/games/action/developer-behind-the-dino-crisis-spiritual-successor-says-vulgar-mods-are-the-reason-were-not-getting-a-pc-port/)
- - [Fractal Design Terra review](https://www.pcgamer.com/hardware/pc-cases/fractal-design-terra-review/)<!-- GAME:END -->
+ - [The Witcher 3&#39;s director says he has designed his new vampire RPG to explore &#39;something in pop culture that nobody yet has done&#39; in videogames: &#39;We will see how people like it&#39;](https://www.pcgamer.com/games/rpg/the-witcher-3s-director-says-he-has-designed-his-new-vampire-rpg-to-explore-something-in-pop-culture-that-nobody-yet-has-done-in-videogames-we-will-see-how-people-like-it/)
+ - [Is time too precious to waste making gurning thumbnails for your YouTube videos? Huzzah for this AI tool that does it all for you, then](https://www.pcgamer.com/software/ai/is-time-too-precious-to-waste-making-gurning-thumbnails-for-your-youtube-videos-huzzah-for-this-ai-tool-that-does-it-all-for-you-then/)
+ - [When does Fortnite OG Season 1 end and OG Season 2 arrive?](https://www.polygon.com/fortnite-guide/492214/og-schedule-how-long-season-end)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
