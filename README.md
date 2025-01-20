@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Slim phones are coming, but most of you don’t want them](https://www.androidauthority.com/thinner-phones-poll-result-3518123/)
- - [Today is the last day to pick up a MacBook Air for $749](https://appleinsider.com/articles/25/01/20/today-is-the-last-day-to-pick-up-a-macbook-air-for-749?utm_medium=rss)
- - [Canon&#39;s new app turns your iPhones &amp; iPads into a multicam streaming setup](https://appleinsider.com/articles/25/01/20/canons-new-app-turns-your-iphones-ipads-into-a-multicam-streaming-setup?utm_medium=rss)<!-- TECH:END -->
+ - [Genshin Impact maker fined $20M over loot box deception &lpar;Update: Cognosphere statement&rpar;](https://www.androidauthority.com/genshin-impact-loot-box-fine-3517760/)
+ - [Trump declared a ‘national energy emergency’](https://www.theverge.com/2025/1/20/24347870/trump-executive-order-fossil-fuels-environment)
+ - [Metropolis, an AI-powered parking service, acquires Oosto, formerly known as AnyVision, for just $125M in stock, well under the $380M it raised over the years &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/250120/p20#a250120p20)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
