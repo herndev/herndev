@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [If you&#39;re worried about your RTX 50-series graphics card suffering another 4090-meltgate, MSI&#39;s yellow-tipped adapter cables might just give you peace of mind](https://www.pcgamer.com/hardware/graphics-cards/if-youre-worried-about-your-rtx-50-series-graphics-card-suffering-another-4090-meltgate-msis-yellow-tipped-adapter-cables-might-just-give-you-peace-of-mind/)
- - [The 13 Most Badass Movie Presidents We&#39;d Want To Protect America](https://kotaku.com/harrison-ford-samuel-l-jackson-potus-movies-1851742300)
- - [Previously borked Ubisoft games are now fixed on Windows 11 24H2 as the troubled update begins automatically downloading to compatible PCs](https://www.pcgamer.com/software/previously-borked-ubisoft-games-are-now-fixed-on-windows-11-24h2-as-the-troubled-update-begins-automatically-downloading-to-compatible-pcs/)<!-- GAME:END -->
+ - [Marvel Snap down, caught in the TikTok ban](https://www.polygon.com/gaming/511299/marvel-snap-down-bytedance-tiktok-ban)
+ - [Skyrim is on sale for 90% off — and skyrocketing back up the Steam charts](https://www.polygon.com/news/511331/skyrim-steam-charts-sale)
+ - [Marvel Snap Is Caught In The TikTok Ban Crossfire, And Still Down](https://kotaku.com/tiktok-ban-marvel-snap-down-trump-bytedance-1851743130)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
