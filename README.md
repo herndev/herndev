@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [&#39;&#39;Who give a f**k how long a scene is!&#39;&#39; David Lynch](http://9gag.com/gag/aqyyN5R)
- - ⏩ [Testing Boomerangs with 1-6 Wings](http://9gag.com/gag/a9yyjD0)
- - 👉 [Could happen to anyone.](http://9gag.com/gag/a5QQd9V)<!-- MEMES:END -->
+ - 💣 [Airport security is going to be pissed lol](http://9gag.com/gag/a7ooDKA)
+ - ⏩ [The Double Rainbow guy was a prolific YouTuber who scheduled 15 years of uploads in advanced before he died His channel is still active now 4 years after his death.](http://9gag.com/gag/aXPP97P)
+ - 👉 [Impressive and frightener](http://9gag.com/gag/azxx81m)<!-- MEMES:END -->
 
 ---
 
