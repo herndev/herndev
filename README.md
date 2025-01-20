@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Witcher 3&#39;s director says he has designed his new vampire RPG to explore &#39;something in pop culture that nobody yet has done&#39; in videogames: &#39;We will see how people like it&#39;](https://www.pcgamer.com/games/rpg/the-witcher-3s-director-says-he-has-designed-his-new-vampire-rpg-to-explore-something-in-pop-culture-that-nobody-yet-has-done-in-videogames-we-will-see-how-people-like-it/)
- - [Is time too precious to waste making gurning thumbnails for your YouTube videos? Huzzah for this AI tool that does it all for you, then](https://www.pcgamer.com/software/ai/is-time-too-precious-to-waste-making-gurning-thumbnails-for-your-youtube-videos-huzzah-for-this-ai-tool-that-does-it-all-for-you-then/)
- - [When does Fortnite OG Season 1 end and OG Season 2 arrive?](https://www.polygon.com/fortnite-guide/492214/og-schedule-how-long-season-end)<!-- GAME:END -->
+ - [The first multiplayer demo for my most anticipated RTS, Tempest Rising, is out now](https://www.pcgamer.com/games/rts/the-first-multiplayer-demo-for-my-most-anticipated-rts-tempest-rising-is-out-now/)
+ - [&#39;You deserve better customer service&#39;: Path of Exile 2 studio apologizes for long support wait times but with 545,000 emails received, it&#39;s kind of understandable](https://www.pcgamer.com/games/rpg/you-deserve-better-customer-service-path-of-exile-2-studio-apologizes-for-long-support-wait-times-but-with-545-000-emails-received-its-kind-of-understandable/)
+ - [&#39;Who planned this garbage?&#39; Streamers unite in slamming the official Twitch Marvel Rivals tournament for last-minute rule changes and unbalanced chaos](https://www.pcgamer.com/games/third-person-shooter/who-planned-this-garbage-streamers-unite-in-slamming-the-official-twitch-marvel-rivals-tournament-for-last-minute-rule-changes-and-unbalanced-chaos/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
