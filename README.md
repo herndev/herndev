@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Night Agent season 2 on Netflix, The Agency season finale, and more new TV this week](https://www.polygon.com/tv/507251/new-netflix-tv-night-agent-season-2-agency-finale)
  - [Vertical extraction shooter Exoborne holds its first playtest soon, and you can sign up now](https://www.pcgamer.com/games/third-person-shooter/vertical-extraction-shooter-exoborne-holds-its-first-playtest-soon-and-you-can-sign-up-now/)
- - [Streamers including Kai Cenat named in Drake&#39;s UMG lawsuit for their reaction videos instantly respond with reaction videos: &#39;The biggest Ls come from not knowing how to take an L&#39;](https://www.pcgamer.com/games/streamers-including-kai-cenat-named-in-drakes-umg-lawsuit-for-their-reaction-videos-instantly-respond-with-reaction-videos-the-biggest-ls-come-from-not-knowing-how-to-take-an-l/)
- - [The run up to the US TikTok ban got as messy, emotional, and weird as the final days of an MMO—and now everyone&#39;s back and no one can look each other in the eye](https://www.pcgamer.com/gaming-industry/the-run-up-to-the-us-tiktok-ban-got-as-messy-emotional-and-weird-as-the-final-days-of-an-mmo-and-now-everyones-back-and-no-one-can-look-each-other-in-the-eye/)<!-- GAME:END -->
+ - [Streamers including Kai Cenat named in Drake&#39;s UMG lawsuit for their reaction videos instantly respond with reaction videos: &#39;The biggest Ls come from not knowing how to take an L&#39;](https://www.pcgamer.com/games/streamers-including-kai-cenat-named-in-drakes-umg-lawsuit-for-their-reaction-videos-instantly-respond-with-reaction-videos-the-biggest-ls-come-from-not-knowing-how-to-take-an-l/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
