@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Survival-stealth sequel Chernobylite 2: Exclusion Zone hit its Kickstarter goal in four days](https://www.pcgamer.com/games/rpg/survival-stealth-sequel-chernobylite-2-exclusion-zone-hit-its-kickstarter-goal-in-four-days/)
  - [Five new Steam games you probably missed &lpar;January 20, 2025&rpar;](https://www.pcgamer.com/software/platforms/five-new-steam-games-you-probably-missed-january-20-2025/)
- - [I felt goodwill and hope for the future seeing Cyberlich and the Death Cult of Labor, an FPS that&#39;s 60% HUD and looks like an Adult Swim cartoon where you smoke &#39;deepweed&#39; to restore your health and blow clouds that spell out &#39;doink&#39; and &#39;loud&#39;](https://www.pcgamer.com/games/fps/i-felt-goodwill-and-hope-for-the-future-seeing-cyberlich-and-the-death-cult-of-labor-an-fps-thats-60-percent-hud-and-looks-like-an-adult-swim-cartoon-where-you-smoke-deepweed-to-restore-your-health-and-blow-clouds-that-spell-out-doink-and-loud/)
- - [Baldur&#39;s Gate 3&#39;s shows off its upcoming photo mode by going haywire with memes](https://www.pcgamer.com/games/baldurs-gate/baldurs-gate-3s-shows-off-its-upcoming-photo-mode-by-going-haywire-with-memes/)<!-- GAME:END -->
+ - [I felt goodwill and hope for the future seeing Cyberlich and the Death Cult of Labor, an FPS that&#39;s 60% HUD and looks like an Adult Swim cartoon where you smoke &#39;deepweed&#39; to restore your health and blow clouds that spell out &#39;doink&#39; and &#39;loud&#39;](https://www.pcgamer.com/games/fps/i-felt-goodwill-and-hope-for-the-future-seeing-cyberlich-and-the-death-cult-of-labor-an-fps-thats-60-percent-hud-and-looks-like-an-adult-swim-cartoon-where-you-smoke-deepweed-to-restore-your-health-and-blow-clouds-that-spell-out-doink-and-loud/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
