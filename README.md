@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Dynamax Articuno counters, weakness, and battle tips in Pokémon Go](https://www.polygon.com/pokemon-go-guide/510155/dynamax-articuno-counters-weakness-tips)
- - [Today&#39;s Wordle answer for Monday, January 20](https://www.pcgamer.com/games/puzzle/wordle-answer-today-january-20-2025/)
- - [Survival-stealth sequel Chernobylite 2: Exclusion Zone hit its Kickstarter goal in four days](https://www.pcgamer.com/games/rpg/survival-stealth-sequel-chernobylite-2-exclusion-zone-hit-its-kickstarter-goal-in-four-days/)<!-- GAME:END -->
+ - [Aokzoe teases its next-gen handheld gaming PC and it looks like it&#39;s just stuffed a better chip, screen, and battery into its not-bad, not-great A1 Pro](https://www.pcgamer.com/hardware/handheld-gaming-pcs/aokzoe-teases-its-next-gen-handheld-gaming-pc-and-it-looks-like-its-just-stuffed-a-better-chip-screen-and-battery-into-its-not-bad-not-great-a1-pro/)
+ - [Pimax Crystal Light review](https://www.pcgamer.com/games/vr/pimax-crystal-light-review/)
+ - [Dynamax Articuno counters, weakness, and battle tips in Pokémon Go](https://www.polygon.com/pokemon-go-guide/510155/dynamax-articuno-counters-weakness-tips)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
