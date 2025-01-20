@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Bad luck](http://9gag.com/gag/axyy061)
- - ⏩ [How high voltage leaks are detected inside big power grids](http://9gag.com/gag/aLnnjmW)
- - 👉 [But it was romantic](http://9gag.com/gag/a5QQo7O)<!-- MEMES:END -->
+ - 💣 [A thousand words communicated with just a smile](http://9gag.com/gag/aPAAYVV)
+ - ⏩ [Trumpkovsky, Overture of 2025](http://9gag.com/gag/an7751V)
+ - 👉 [Something is sus](http://9gag.com/gag/an779ez)<!-- MEMES:END -->
 
 ---
 
