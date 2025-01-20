@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s iPhone SE 4 rumored to abandon notch in favor of Dynamic Island](https://appleinsider.com/articles/25/01/20/apples-iphone-se-4-rumored-to-abandon-notch-in-favor-of-dynamic-island?utm_medium=rss)
- - [Tim Cook joins big tech leaders for Trump&#39;s inauguration](https://appleinsider.com/articles/25/01/20/tim-cook-joins-big-tech-leaders-for-trumps-inauguration?utm_medium=rss)
- - [A memecoin named Official Barron Trump hit a $460M market cap before falling 95%; a Pump.fun user behind it has debuted other unofficial coins called &quot;official&quot; &lpar;Tim Copeland/The Block&rpar;](http://www.techmeme.com/250120/p21#a250120p21)<!-- TECH:END -->
+ - [The White House Website Is Basically a Marvel Movie Trailer Now](https://www.wired.com/story/white-house-website-marvel-movie-trailer-helicopters-bald-eagle/)
+ - [The Donald Trump 2.0 Grift Is Already On](https://www.wired.com/story/donald-trump-grift/)
+ - [Fujifilm’s new stabilized binoculars deliver even more zoom](https://www.theverge.com/2025/1/20/24347913/fujifilm-techno-stabi-binoculars-birdwatching-magnification-zoom)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
