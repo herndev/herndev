@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Azra Ay Vandan, a Turkish OnlyFans model, was arrested in Istanbul after announcing plans to sleep with 100 men in 24 hours and live-stream it with her husband.](http://9gag.com/gag/aLnnDWA)
- - ⏩ [Yeah.. brofist army](http://9gag.com/gag/aoyyNQ2)
- - 👉 [Can\u2019t say black anymore](http://9gag.com/gag/avyyOWd)<!-- MEMES:END -->
+ - 💣 [Night scavengers](http://9gag.com/gag/adBBKZN)
+ - ⏩ [Literally came back to die](http://9gag.com/gag/aLnnjZg)
+ - 👉 [I learned it the hard way](http://9gag.com/gag/aYQQ4mN)<!-- MEMES:END -->
 
 ---
 
