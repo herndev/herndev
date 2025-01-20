@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Impressive and frightener](http://9gag.com/gag/azxx81m)
- - ⏩ [Can\u2019t say black anymore](http://9gag.com/gag/avyyOWd)
- - 👉 [How train-crossings are managed in Bangladesh](http://9gag.com/gag/a4PP73d)<!-- MEMES:END -->
+ - 💣 [OnlyFans creator Gizem Ba\u011fda\u00e7i\u00e7ek was arrested for violating Turkish obscenity laws, following the OnlyFans ban in Turkey](http://9gag.com/gag/aMVV9LR)
+ - ⏩ [Moms are awesome](http://9gag.com/gag/aPAAMRR)
+ - 👉 [Can\u2019t say black anymore](http://9gag.com/gag/avyyOWd)<!-- MEMES:END -->
 
 ---
 
