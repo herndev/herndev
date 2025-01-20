@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This man paid 10,000 bitcoins for two pizzas in 2010](http://9gag.com/gag/aByy1BN)
- - ⏩ [Helping](http://9gag.com/gag/aGyyDg5)
- - 👉 [She knows](http://9gag.com/gag/avyyPzd)<!-- MEMES:END -->
+ - 💣 [Think this should be the whole world.](http://9gag.com/gag/aD22GEG)
+ - ⏩ [Definition of Abrupt Chaos](http://9gag.com/gag/aD22WY9)
+ - 👉 [Shaggy knew it all along](http://9gag.com/gag/aRBBm15)<!-- MEMES:END -->
 
 ---
 
