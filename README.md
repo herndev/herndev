@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Hot deal: Get a Ring Video Doorbell for just $30!](https://www.androidauthority.com/ring-video-doorbell-2020-deal-3518276/)
- - [Dynasty Warriors: Origins is a refreshing take on the legendary series](https://www.theverge.com/2025/1/20/24346199/dynasty-warriors-origins-review-koei-tecmo)
- - [Samsung’s highest-end Galaxy S25 may only be available in these countries](https://www.androidauthority.com/galaxy-s25-16gb-ram-3518240/)<!-- TECH:END -->
+ - [Apple CEO Tim Cook offers innovation and jobs to President Trump&#39;s America](https://appleinsider.com/articles/25/01/20/apple-ceo-tim-cook-offers-innovation-and-jobs-to-president-trumps-america?utm_medium=rss)
+ - [How to upgrade the SSD in your M4 Mac mini](https://appleinsider.com/inside/mac-mini/tips/how-to-upgrade-the-ssd-in-your-m4-mac-mini?utm_medium=rss)
+ - [Only today: Apple AirPods Max USB-C reach a new all-time low price](https://www.androidauthority.com/apple-airpods-max-usb-c-deal-3518275/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
