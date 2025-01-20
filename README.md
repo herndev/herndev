@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The first multiplayer demo for my most anticipated RTS, Tempest Rising, is out now](https://www.pcgamer.com/games/rts/the-first-multiplayer-demo-for-my-most-anticipated-rts-tempest-rising-is-out-now/)
- - [&#39;You deserve better customer service&#39;: Path of Exile 2 studio apologizes for long support wait times but with 545,000 emails received, it&#39;s kind of understandable](https://www.pcgamer.com/games/rpg/you-deserve-better-customer-service-path-of-exile-2-studio-apologizes-for-long-support-wait-times-but-with-545-000-emails-received-its-kind-of-understandable/)
- - [&#39;Who planned this garbage?&#39; Streamers unite in slamming the official Twitch Marvel Rivals tournament for last-minute rule changes and unbalanced chaos](https://www.pcgamer.com/games/third-person-shooter/who-planned-this-garbage-streamers-unite-in-slamming-the-official-twitch-marvel-rivals-tournament-for-last-minute-rule-changes-and-unbalanced-chaos/)<!-- GAME:END -->
+ - [Vertical extraction shooter Exoborne holds its first playtest soon, and you can sign up now](https://www.pcgamer.com/games/third-person-shooter/vertical-extraction-shooter-exoborne-holds-its-first-playtest-soon-and-you-can-sign-up-now/)
+ - [Streamers including Kai Cenat named in Drake&#39;s UMG lawsuit for their reaction videos instantly respond with reaction videos: &#39;The biggest Ls come from not knowing how to take an L&#39;](https://www.pcgamer.com/games/streamers-including-kai-cenat-named-in-drakes-umg-lawsuit-for-their-reaction-videos-instantly-respond-with-reaction-videos-the-biggest-ls-come-from-not-knowing-how-to-take-an-l/)
+ - [The run up to the US TikTok ban got as messy, emotional, and weird as the final days of an MMO—and now everyone&#39;s back and no one can look each other in the eye](https://www.pcgamer.com/gaming-industry/the-run-up-to-the-us-tiktok-ban-got-as-messy-emotional-and-weird-as-the-final-days-of-an-mmo-and-now-everyones-back-and-no-one-can-look-each-other-in-the-eye/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
