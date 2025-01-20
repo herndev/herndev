@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [How high voltage leaks are detected inside big power grids](http://9gag.com/gag/aLnnjmW)
- - ⏩ [3rd gold medal from god himself](http://9gag.com/gag/aKGG233)
- - 👉 [The most important topic of all time](http://9gag.com/gag/a5QQoDq)<!-- MEMES:END -->
+ - 💣 [Azra Ay Vandan, a Turkish OnlyFans model, was arrested in Istanbul after announcing plans to sleep with 100 men in 24 hours and live-stream it with her husband.](http://9gag.com/gag/aLnnDWA)
+ - ⏩ [Yeah.. brofist army](http://9gag.com/gag/aoyyNQ2)
+ - 👉 [Can\u2019t say black anymore](http://9gag.com/gag/avyyOWd)<!-- MEMES:END -->
 
 ---
 
