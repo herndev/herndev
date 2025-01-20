@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Night scavengers](http://9gag.com/gag/adBBKZN)
+ - 💣 [I learned it the hard way](http://9gag.com/gag/aYQQ4mN)
  - ⏩ [Literally came back to die](http://9gag.com/gag/aLnnjZg)
- - 👉 [I learned it the hard way](http://9gag.com/gag/aYQQ4mN)<!-- MEMES:END -->
+ - 👉 [A thousand words communicated with just a smile](http://9gag.com/gag/aPAAYVV)<!-- MEMES:END -->
 
 ---
 
