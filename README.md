@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Toture](http://9gag.com/gag/aZZZmxn)
- - ⏩ [Guy is too caught up](http://9gag.com/gag/avyyGDd)
- - 👉 [Me every morning to my cup of coffee](http://9gag.com/gag/a1mmdY6)<!-- MEMES:END -->
+ - 💣 [Me too](http://9gag.com/gag/aRBBKpM)
+ - ⏩ [Winning in life](http://9gag.com/gag/a877MRQ)
+ - 👉 [Shaggy knew it all along](http://9gag.com/gag/aRBBm15)<!-- MEMES:END -->
 
 ---
 
