@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Genshin Impact maker fined $20M over loot box deception &lpar;Update: Cognosphere statement&rpar;](https://www.androidauthority.com/genshin-impact-loot-box-fine-3517760/)
- - [Trump declared a ‘national energy emergency’](https://www.theverge.com/2025/1/20/24347870/trump-executive-order-fossil-fuels-environment)
- - [Metropolis, an AI-powered parking service, acquires Oosto, formerly known as AnyVision, for just $125M in stock, well under the $380M it raised over the years &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/250120/p20#a250120p20)<!-- TECH:END -->
+ - [Apple&#39;s iPhone SE 4 rumored to abandon notch in favor of Dynamic Island](https://appleinsider.com/articles/25/01/20/apples-iphone-se-4-rumored-to-abandon-notch-in-favor-of-dynamic-island?utm_medium=rss)
+ - [Tim Cook joins big tech leaders for Trump&#39;s inauguration](https://appleinsider.com/articles/25/01/20/tim-cook-joins-big-tech-leaders-for-trumps-inauguration?utm_medium=rss)
+ - [A memecoin named Official Barron Trump hit a $460M market cap before falling 95%; a Pump.fun user behind it has debuted other unofficial coins called &quot;official&quot; &lpar;Tim Copeland/The Block&rpar;](http://www.techmeme.com/250120/p21#a250120p21)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
