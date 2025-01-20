@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at UK hedge fund Man Group&#39;s ArcticDB, an open-source tool used internally and by customers like Bloomberg to analyze daily stock trading data and more &lpar;Isabelle Bousquette/Wall Street Journal&rpar;](http://www.techmeme.com/250120/p5#a250120p5)
- - [OnePlus Open 2’s IP rating and thinness will put the Galaxy Z Fold 6 to shame](https://www.androidauthority.com/oneplus-open-2-ipx9-ipx8-ipx6-water-resistance-3517934/)
- - [Analysis: Chinese AI researchers produced ~46K collaborative papers with their US counterparts over the past decade, followed by ~19K with researchers in the UK &lpar;Khadija Alam/Rest of World&rpar;](http://www.techmeme.com/250120/p4#a250120p4)<!-- TECH:END -->
+ - [A look at the CIA&#39;s AI use, including a chatbot that lets analysts talk to virtual versions of foreign presidents and prime ministers to predict their behaviors &lpar;Julian E. Barnes/New York Times&rpar;](http://www.techmeme.com/250120/p7#a250120p7)
+ - [Best Bug Sprays for 2025](https://www.cnet.com/health/personal-care/best-bug-sprays/#ftag=CAD590a51e)
+ - [A 2024 study of 205 randomly chosen Community Notes on X about COVID-19 vaccines found that 97% of the notes were accurate and ~50% cited high-quality sources &lpar;Adam Kucharski/Bloomberg&rpar;](http://www.techmeme.com/250120/p6#a250120p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
