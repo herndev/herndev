@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Source: Meta will break up its civil rights team, which helped develop a system to address racial and other disparities in how Meta distributed ads on its apps &lpar;Kalley Huang/The Information&rpar;](http://www.techmeme.com/250117/p28#a250117p28)
- - [Genshin Impact maker fined $20M over loot box deception](https://www.androidauthority.com/genshin-impact-loot-box-fine-3517760/)
- - [Perplexity acquires Read.cv, a social media platform for professionals; Read.cv will shut down and users will be able to export their data until May 16 &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250117/p27#a250117p27)<!-- TECH:END -->
+ - [Trump touts his plan to save TikTok during his victory rally](https://www.theverge.com/2025/1/19/24347463/trump-plan-to-save-tiktok-from-ban)
+ - [US and European officials: evidence suggests recent damage to Baltic Sea subsea internet cables was likely caused by maritime accidents, not Russian sabotage &lpar;Washington Post&rpar;](http://www.techmeme.com/250119/p16#a250119p16)
+ - [Melania Trump launches her own Solana coin, MELANIA, offered by MKT World, a company associated with Melania Trump; TRUMP fell ~36% on the news &lpar;Axios&rpar;](http://www.techmeme.com/250119/p15#a250119p15)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
