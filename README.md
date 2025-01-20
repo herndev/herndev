@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Leaked Galaxy S25 video shows off Audio Eraser, Night Video, and more](https://www.androidauthority.com/samsung-galaxy-s25-leaked-video-features-3517912/)
  - [Bluesky launches a custom feed for TikTok-style vertical videos in its mobile app, saying &quot;We had to get in on the video action too&quot; &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/250120/p2#a250120p2)
- - [Despite tanking, Trump&#39;s memecoin, with a $60B+ market cap, is the 19th most valuable cryptocurrency per CoinGecko; some in crypto call it a &quot;horrible look&quot; &lpar;Politico&rpar;](http://www.techmeme.com/250120/p1#a250120p1)
- - [TikTok drama: US shutdown reversed after Trump’s intervention](https://www.androidauthority.com/tiktok-us-shutdown-reversed-3517904/)<!-- TECH:END -->
+ - [Despite tanking, Trump&#39;s memecoin, with a $55B+ market cap, is the 21st most valuable cryptocurrency per CoinGecko; some in crypto call it a &quot;horrible look&quot; &lpar;Politico&rpar;](http://www.techmeme.com/250120/p1#a250120p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
