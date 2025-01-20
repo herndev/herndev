@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Marvel Snap down, caught in the TikTok ban](https://www.polygon.com/gaming/511299/marvel-snap-down-bytedance-tiktok-ban)
- - [Skyrim is on sale for 90% off — and skyrocketing back up the Steam charts](https://www.polygon.com/news/511331/skyrim-steam-charts-sale)
- - [Marvel Snap Is Caught In The TikTok Ban Crossfire, And Still Down](https://kotaku.com/tiktok-ban-marvel-snap-down-trump-bytedance-1851743130)<!-- GAME:END -->
+ - [Diablo 4 Season of Witchcraft, Final Fantasy 7 Rebirth on PC, and other new games out this week](https://www.polygon.com/gaming/510545/best-new-game-releases-jan-20-final-fantasy-7-rebirth-pc-diablo-season-4)
+ - [Developer behind the Dino Crisis spiritual successor says &#39;vulgar&#39; mods are the reason we&#39;re not getting a PC port](https://www.pcgamer.com/games/action/developer-behind-the-dino-crisis-spiritual-successor-says-vulgar-mods-are-the-reason-were-not-getting-a-pc-port/)
+ - [Fractal Design Terra review](https://www.pcgamer.com/hardware/pc-cases/fractal-design-terra-review/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
