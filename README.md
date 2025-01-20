@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at the CIA&#39;s AI use, including a chatbot that lets analysts talk to virtual versions of foreign presidents and prime ministers to predict their behaviors &lpar;Julian E. Barnes/New York Times&rpar;](http://www.techmeme.com/250120/p7#a250120p7)
- - [Best Bug Sprays for 2025](https://www.cnet.com/health/personal-care/best-bug-sprays/#ftag=CAD590a51e)
- - [A 2024 study of 205 randomly chosen Community Notes on X about COVID-19 vaccines found that 97% of the notes were accurate and ~50% cited high-quality sources &lpar;Adam Kucharski/Bloomberg&rpar;](http://www.techmeme.com/250120/p6#a250120p6)<!-- TECH:END -->
+ - [All the rumors about the iPhone Air](https://www.theverge.com/2025/1/20/24344710/apple-iphone-17-air-rumors-specs-display-size-price)
+ - [Bluesky and X launch new video features amid TikTok uncertainties](https://www.theverge.com/2025/1/20/24347692/bluesky-x-new-video-features-feeds-tiktok-uncertainties)
+ - [Source: DOGE co-lead Vivek Ramaswamy is set to step away from the task force and plans a campaign for Ohio governor; sources: Musk associates undercut Ramaswamy &lpar;CBS News&rpar;](http://www.techmeme.com/250120/p10#a250120p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
