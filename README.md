@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta says it will continue to use its fact checkers outside of the US &quot;for now&quot;, and plans to see how its Community Notes system works in the US before deciding &lpar;Jillian Deutsch/Bloomberg&rpar;](http://www.techmeme.com/250120/p17#a250120p17)
- - [Apple plans MacBook Air display upgrade, but OLED still far away](https://appleinsider.com/articles/25/01/20/apple-plans-macbook-air-display-upgrade-but-oled-still-far-away?utm_medium=rss)
- - [The European Commission says Facebook, X, YouTube, and others agreed to an updated code of conduct, first set up in May 2016, over hate speech under the DSA &lpar;Foo Yun Chee/Reuters&rpar;](http://www.techmeme.com/250120/p16#a250120p16)<!-- TECH:END -->
+ - [iPad Air update rumored to get M3 upgrade, not M4](https://appleinsider.com/articles/25/01/20/ipad-air-update-rumored-to-get-m3-upgrade-not-m4?utm_medium=rss)
+ - [AirTags prevent so much car crime that Colorado police are giving them away](https://appleinsider.com/articles/25/01/20/airtags-prevent-so-much-car-crime-that-colorado-police-are-giving-them-away?utm_medium=rss)
+ - [Trump claims Tim Cook has committed Apple to massive US investment](https://appleinsider.com/articles/25/01/20/trump-claims-tim-cook-has-committed-apple-to-massive-us-investment?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
