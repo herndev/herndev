@@ -47,7 +47,7 @@
 
 <!-- MEMES:START -->
  - 💣 [Think this should be the whole world.](http://9gag.com/gag/aD22GEG)
- - ⏩ [Definition of Abrupt Chaos](http://9gag.com/gag/aD22WY9)
+ - ⏩ [Me too](http://9gag.com/gag/aRBBKpM)
  - 👉 [Shaggy knew it all along](http://9gag.com/gag/aRBBm15)<!-- MEMES:END -->
 
 ---
