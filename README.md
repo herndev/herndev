@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [China suggests it is willing to work with Trump to keep TikTok operating in the US, after previously saying it would block any forced TikTok sale &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250120/p15#a250120p15)
- - [Apple Mail on the Mac will get Apple Intelligence sorting with macOS 15.4](https://appleinsider.com/articles/25/01/20/apple-mail-on-the-mac-will-get-apple-intelligence-sorting-with-macos-154?utm_medium=rss)
- - [The 13 Best TVs We’ve Reviewed, Plus Buying Advice &lpar;2025&rpar;](https://www.wired.com/gallery/best-tvs/)<!-- TECH:END -->
+ - [Meta says it will continue to use its fact checkers outside of the US &quot;for now&quot;, and plans to see how its Community Notes system works in the US before deciding &lpar;Jillian Deutsch/Bloomberg&rpar;](http://www.techmeme.com/250120/p17#a250120p17)
+ - [Apple plans MacBook Air display upgrade, but OLED still far away](https://appleinsider.com/articles/25/01/20/apple-plans-macbook-air-display-upgrade-but-oled-still-far-away?utm_medium=rss)
+ - [The European Commission says Facebook, X, YouTube, and others agreed to an updated code of conduct, first set up in May 2016, over hate speech under the DSA &lpar;Foo Yun Chee/Reuters&rpar;](http://www.techmeme.com/250120/p16#a250120p16)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
