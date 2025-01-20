@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [OnlyFans creator Gizem Ba\u011fda\u00e7i\u00e7ek was arrested for violating Turkish obscenity laws, following the OnlyFans ban in Turkey](http://9gag.com/gag/aMVV9LR)
- - ⏩ [Moms are awesome](http://9gag.com/gag/aPAAMRR)
- - 👉 [Can\u2019t say black anymore](http://9gag.com/gag/avyyOWd)<!-- MEMES:END -->
+ - ⏩ [This man paid 10,000 bitcoins for two pizzas in 2010](http://9gag.com/gag/aByy1BN)
+ - 👉 [Yeah.. brofist army](http://9gag.com/gag/aoyyNQ2)<!-- MEMES:END -->
 
 ---
 
