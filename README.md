@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Run](http://9gag.com/gag/aD22xDG)
- - ⏩ [This kid just took down one of the worlds strongest men](http://9gag.com/gag/avyyn5Z)
- - 👉 [This man paid 10,000 bitcoins for two pizzas in 2010](http://9gag.com/gag/aByy1BN)<!-- MEMES:END -->
+ - 💣 [Impressive and frightener](http://9gag.com/gag/azxx81m)
+ - ⏩ [Can\u2019t say black anymore](http://9gag.com/gag/avyyOWd)
+ - 👉 [How train-crossings are managed in Bangladesh](http://9gag.com/gag/a4PP73d)<!-- MEMES:END -->
 
 ---
 
