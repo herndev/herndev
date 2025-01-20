@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The White House Website Is Basically a Marvel Movie Trailer Now](https://www.wired.com/story/white-house-website-marvel-movie-trailer-helicopters-bald-eagle/)
- - [The Donald Trump 2.0 Grift Is Already On](https://www.wired.com/story/donald-trump-grift/)
- - [Fujifilm’s new stabilized binoculars deliver even more zoom](https://www.theverge.com/2025/1/20/24347913/fujifilm-techno-stabi-binoculars-birdwatching-magnification-zoom)<!-- TECH:END -->
+ - [Hot deal: Get a Ring Video Doorbell for just $30!](https://www.androidauthority.com/ring-video-doorbell-2020-deal-3518276/)
+ - [Dynasty Warriors: Origins is a refreshing take on the legendary series](https://www.theverge.com/2025/1/20/24346199/dynasty-warriors-origins-review-koei-tecmo)
+ - [Samsung’s highest-end Galaxy S25 may only be available in these countries](https://www.androidauthority.com/galaxy-s25-16gb-ram-3518240/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
