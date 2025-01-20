@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [OnlyFans creator Gizem Ba\u011fda\u00e7i\u00e7ek was arrested for violating Turkish obscenity laws, following the OnlyFans ban in Turkey](http://9gag.com/gag/aMVV9LR)
- - ⏩ [A Bangkok surprise.](http://9gag.com/gag/aW446bq)
- - 👉 [Doggo is confused why the bikeman stopped](http://9gag.com/gag/a0eej6O)<!-- MEMES:END -->
+ - 💣 [Toture](http://9gag.com/gag/aZZZmxn)
+ - ⏩ [Guy is too caught up](http://9gag.com/gag/avyyGDd)
+ - 👉 [Me every morning to my cup of coffee](http://9gag.com/gag/a1mmdY6)<!-- MEMES:END -->
 
 ---
 
