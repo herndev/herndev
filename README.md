@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This man paid 10,000 bitcoins for two pizzas in 2010](http://9gag.com/gag/aByy1BN)
- - ⏩ [There are no stupid questions](http://9gag.com/gag/aNDDAr3)
- - 👉 [Yeah.. brofist army](http://9gag.com/gag/aoyyNQ2)<!-- MEMES:END -->
+ - 💣 [A Rabid Fox behaving like a Zombie. The Rabies Virus is named Rabies Lyssavirus &lpar;RABV&rpar;. It is a member of the Lyssavirus genus in the Rhabdoviridae family. One of the Scariest Virus on the Planet.](http://9gag.com/gag/aAyyxGd)
+ - ⏩ [Toture](http://9gag.com/gag/aZZZmxn)
+ - 👉 [Theres a photo online of a dude who killed a hippo with one](http://9gag.com/gag/aD22z0w)<!-- MEMES:END -->
 
 ---
 
