@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [All the rumors about the iPhone Air](https://www.theverge.com/2025/1/20/24344710/apple-iphone-17-air-rumors-specs-display-size-price)
- - [Bluesky and X launch new video features amid TikTok uncertainties](https://www.theverge.com/2025/1/20/24347692/bluesky-x-new-video-features-feeds-tiktok-uncertainties)
- - [Source: DOGE co-lead Vivek Ramaswamy is set to step away from the task force and plans a campaign for Ohio governor; sources: Musk associates undercut Ramaswamy &lpar;CBS News&rpar;](http://www.techmeme.com/250120/p10#a250120p10)<!-- TECH:END -->
+ - [How to Use Parental Controls in Your Google, Apple, and Microsoft Accounts](https://www.wired.com/story/how-to-use-parental-controls-in-your-google-apple-and-microsoft-accounts/)
+ - [How to Use Apple’s Genmoji to Create New Kinds of Emojis](https://www.wired.com/story/how-to-create-genmoji-iphone-ios-18-ipados-18/)
+ - [Welcome to the era of gangster tech regulation](https://www.theverge.com/2025/1/20/24346317/trump-gangster-tech-regulation-corruption-grift)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
