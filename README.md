@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [It took a decade for NASA to piece together this 416,592,960 pixel image of the Andromeda galaxy and the key takeaway? &#39;Andromeda&#39;s a train wreck&#39;](https://www.pcgamer.com/hardware/it-took-a-decade-for-nasa-to-piece-together-this-416-592-960-pixel-image-of-the-andromeda-galaxy-and-the-key-takeaway-andromedas-a-train-wreck/)
- - [Aokzoe teases its next-gen handheld gaming PC and it looks like it&#39;s just stuffed a better chip, screen, and battery into its not-bad, not-great A1 Pro](https://www.pcgamer.com/hardware/handheld-gaming-pcs/aokzoe-teases-its-next-gen-handheld-gaming-pc-and-it-looks-like-its-just-stuffed-a-better-chip-screen-and-battery-into-its-not-bad-not-great-a1-pro/)
- - [Pimax Crystal Light review](https://www.pcgamer.com/games/vr/pimax-crystal-light-review/)<!-- GAME:END -->
+ - [If you&#39;re worried about your RTX 50-series graphics card suffering another 4090-meltgate, MSI&#39;s yellow-tipped adapter cables might just give you peace of mind](https://www.pcgamer.com/hardware/graphics-cards/if-youre-worried-about-your-rtx-50-series-graphics-card-suffering-another-4090-meltgate-msis-yellow-tipped-adapter-cables-might-just-give-you-peace-of-mind/)
+ - [The 13 Most Badass Movie Presidents We&#39;d Want To Protect America](https://kotaku.com/harrison-ford-samuel-l-jackson-potus-movies-1851742300)
+ - [Previously borked Ubisoft games are now fixed on Windows 11 24H2 as the troubled update begins automatically downloading to compatible PCs](https://www.pcgamer.com/software/previously-borked-ubisoft-games-are-now-fixed-on-windows-11-24h2-as-the-troubled-update-begins-automatically-downloading-to-compatible-pcs/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
