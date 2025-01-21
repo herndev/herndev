@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Lore of Eora – Species | A Pillars of Eternity and Avowed Visual Guide](https://www.youtube.com/watch?v=jedO6SJURK0#new_tab)
- - [Citizen Sleeper 2, Sniper Elite: Resistance coming to Xbox Game Pass day one](https://www.polygon.com/news/511497/xbox-game-pass-january-citizen-sleeper-2-sniper-elite-resistance)
- - [New Sonic 3 Concept Art May Clear Up That Confusing Post-Credits Scene](https://kotaku.com/new-sonic-3-concept-art-may-clear-up-that-confusing-pos-1851743775)<!-- GAME:END -->
+ - [Bringing Conan the Barbarian’s Sword Mastery to Mortal Kombat 1](https://news.xbox.com/en-us/2025/01/21/bringing-conan-the-barbarian-to-mortal-kombat-1/)
+ - [Here’s what readers think the Switch 2 will cost](https://www.polygon.com/nintendo-switch-2/511389/nintendo-switch-2-price-poll-results)
+ - [I&#39;m enraptured by this Zelda maniac who worked out there are 1 quadrillion 83 trillion 414 billion and 90 million possible permutations for a dog race in Majora&#39;s Mask](https://www.pcgamer.com/games/im-enraptured-by-this-zelda-maniac-who-worked-out-there-are-1-quadrillion-83-trillion-414-billion-and-90-million-possible-permutations-for-a-dog-race-in-majoras-mask/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
