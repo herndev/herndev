@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [As of today, it will henceforth be the official policy of the United States government that there are only two genders, male and female](http://9gag.com/gag/aQzz1Ke)
- - ⏩ [Bad luck](http://9gag.com/gag/axyy061)
- - 👉 [Bad luck?](http://9gag.com/gag/abAAMxE)<!-- MEMES:END -->
+ - 💣 [We&#39;re waiting](http://9gag.com/gag/avyyovZ)
+ - ⏩ [A power of sandal](http://9gag.com/gag/axyyMZb)
+ - 👉 [True love](http://9gag.com/gag/azxx1Kx)<!-- MEMES:END -->
 
 ---
 
