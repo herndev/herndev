@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How to Watch Xbox Developer_Direct 2025 on Thursday](https://news.xbox.com/en-us/2025/01/21/xbox-developer-direct-2025-how-to-watch/)
- - [EA Is Killing Off Origin, But Also Your 32-Bit Gaming Collection](https://kotaku.com/ea-app-origin-pc-update-dragon-age-1851743639)
- - [Oh well, looks like the next 4 years are going to be an AI free-for-all as Trump nixes Biden administration&#39;s safety order](https://www.pcgamer.com/software/ai/oh-well-looks-like-the-next-4-years-are-going-to-be-an-ai-free-for-all-as-trump-nixes-biden-administrations-safety-order/)<!-- GAME:END -->
+ - [Lore of Eora – Species | A Pillars of Eternity and Avowed Visual Guide](https://www.youtube.com/watch?v=jedO6SJURK0#new_tab)
+ - [Citizen Sleeper 2, Sniper Elite: Resistance coming to Xbox Game Pass day one](https://www.polygon.com/news/511497/xbox-game-pass-january-citizen-sleeper-2-sniper-elite-resistance)
+ - [New Sonic 3 Concept Art May Clear Up That Confusing Post-Credits Scene](https://kotaku.com/new-sonic-3-concept-art-may-clear-up-that-confusing-pos-1851743775)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
