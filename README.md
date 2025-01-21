@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Deal: Apple AirTag 4-Pack drops back to its record-low price](https://www.androidauthority.com/apple-airtag-4-pack-deal-4-3518730/)
- - [The Switch 2 has a new trigger for disconnecting Joy-Con controllers](https://www.theverge.com/2025/1/21/24348868/nintendo-switch-2-new-trigger-disconnecting-joy-con-controllers)
- - [Apple Intelligence is enabled by default in iOS 18.3](https://www.theverge.com/2025/1/21/24348850/apple-intelligence-ai-default-setting-ios-18-3)<!-- TECH:END -->
+ - [iOS 18.3 RC introduces new Visual Intelligence features &amp; notification summaries changes](https://appleinsider.com/articles/25/01/21/ios-183-rc-introduces-new-visual-intelligence-features-notification-summaries-changes?utm_medium=rss)
+ - [ASUS ROG Ally with Ryzen Z1 Extreme gets even cheaper today, $200 off!](https://www.androidauthority.com/asus-rog-ally-with-ryzen-z1-extreme-deal-3518729/)
+ - [Netflix raises prices in the US, Canada, Portugal, and Argentina; the standard US plan rises from $15.49 to $17.99, standard with ads jumps a dollar to $7.99 &lpar;Nicole Sperling/New York Times&rpar;](http://www.techmeme.com/250121/p22#a250121p22)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
