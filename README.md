@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Broadcast TV Is Dying. Trump Is Threatening It Anyway](https://www.wired.com/story/broadcast-tv-is-dying-trump-threatening-it-anyway/)
- - [Volvo announces pricing for delayed EX30 compact SUV](https://www.theverge.com/2025/1/21/24348733/volvo-ex30-compact-suv-price-us)
- - [The SEC launches a &quot;Crypto 2.0&quot; task force led by SEC Commissioner Hester Peirce, to create a &quot;comprehensive and clear regulatory framework for crypto assets&quot; &lpar;Jeff Cox/CNBC&rpar;](http://www.techmeme.com/250121/p15#a250121p15)<!-- TECH:END -->
+ - [Meta says it will offer eligible TikTok creators free verification, content deals, and up to $5,000 in bonuses to post Reels &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/250121/p17#a250121p17)
+ - [Is that VPN safe? Google Play’s badge system will let you know](https://www.androidauthority.com/google-play-vpn-badge-3518677/)
+ - [DeepSeek&#39;s new MIT-licensed AI models can be accessed via DeepSeek&#39;s API at a fraction of the cost of comparable OpenAI models but there are censorship concerns &lpar;Radhika Rajkumar/ZDNET&rpar;](http://www.techmeme.com/250121/p16#a250121p16)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
