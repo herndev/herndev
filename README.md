@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s iPad Pro will see only minor 2025 update, says supply chain](https://appleinsider.com/articles/25/01/21/apples-ipad-pro-will-see-only-minor-2025-update-says-supply-chain?utm_medium=rss)
- - [Infinity Nikki’s new season brings the game’s biggest update yet](https://www.theverge.com/2025/1/21/24348535/infinity-nikki-firework-season-update-trailer-january-date)
- - [Circle, which issues the USDC stablecoin, acquired Hashnote; rwa.xyz data: Hashnote&#39;s USYC token last year become the largest tokenized US Treasury product &lpar;Krisztian Sandor/CoinDesk&rpar;](http://www.techmeme.com/250121/p10#a250121p10)<!-- TECH:END -->
+ - [Omdia: by the end of 2024, TikTok generated ~$8B in ad revenue in the US and $63.3B globally, and it surpassed 1.9B MAUs globally, with 145M MAUs in the US &lpar;Marta Balaga/Variety&rpar;](http://www.techmeme.com/250121/p12#a250121p12)
+ - [The UK government is launching a digital ID mobile app](https://www.theverge.com/2025/1/21/24348641/uk-government-digital-id-app-ios-android-launch)
+ - [Nokia knew to fear the iPhone all the way back in 2007](https://www.androidauthority.com/nokia-presentation-iphone-2007-3518576/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
