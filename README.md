@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [This iPhone SE 4 display feature could be a double-edged sword for Android switchers](https://www.androidauthority.com/iphone-se-4-display-dynamic-island-3518448/)
  - [This major brand has a tool to run PC games, Steam on your Android tablet](https://www.androidauthority.com/xiaomi-winplay-run-pc-steam-games-android-3518425/)
- - [Galaxy S25 series price leak suggests a price freeze for some of us](https://www.androidauthority.com/samsung-galaxy-s25-series-price-leak-3518416/)
- - [Today&#39;s NYT Strands Hints, Answers and Help for Jan. 21, #324](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-jan-21-324/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Internet Providers in Ithaca, New York](https://www.cnet.com/home/internet/best-internet-providers-in-ithaca-ny/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
