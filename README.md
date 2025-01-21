@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Share your apples with us](http://9gag.com/gag/a6ZZOG2)
- - ⏩ [Two types of autism](http://9gag.com/gag/aNDD0x4)
- - 👉 [Theres a photo online of a dude who killed a hippo with one](http://9gag.com/gag/aD22z0w)<!-- MEMES:END -->
+ - 💣 [True love](http://9gag.com/gag/azxx1Kx)
+ - ⏩ [Share your apples with us](http://9gag.com/gag/a6ZZOG2)
+ - 👉 [Bad luck](http://9gag.com/gag/axyy061)<!-- MEMES:END -->
 
 ---
 
