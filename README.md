@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [World of Warships: Legends introduces new quick guide, The Codex](https://blog.playstation.com/2025/01/21/world-of-warships-legends-introduces-new-quick-guide-the-codex/)
- - [All Galar Pokémon in Pokémon Go so far](https://www.polygon.com/pokemon-go-guide/444111/galar-pokemon-list-gen-8)
- - [The cake was a lie, but Silksong &#39;is real, progressing and will release&#39; say devs, after flurry of conspiracy theories revealed to be a &#39;nothingburger&#39;](https://www.pcgamer.com/games/action/the-cake-was-a-lie-but-silksong-is-real-progressing-and-will-release-say-devs-after-flurry-of-conspiracy-theories-revealed-to-be-a-nothingburger/)<!-- GAME:END -->
+ - [The 9 Disney Channel Original Movies You Should Rewatch](https://kotaku.com/disney-channel-original-movies-high-school-musical-1851743354)
+ - [Elon Musk admits account-boosting on PoE2 and Diablo 4 but says deal with it: &#39;What would I be apologizing for?&#39;](https://www.pcgamer.com/games/elon-musk-admits-account-boosting-on-poe2-and-diablo-4-but-says-deal-with-it-what-would-i-be-apologizing-for/)
+ - [World of Warships: Legends introduces new quick guide, The Codex](https://blog.playstation.com/2025/01/21/world-of-warships-legends-introduces-new-quick-guide-the-codex/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
