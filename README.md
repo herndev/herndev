@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [&#39;You’re not supposed to say this out loud!&#39;: Baldur&#39;s Gate 3 dev reacts to analyst who says some game makers &#39;hope&#39; Grand Theft Auto 6 will cost up to $100 at launch](https://www.pcgamer.com/gaming-industry/youre-not-supposed-to-say-this-out-loud-baldurs-gate-3-dev-reacts-to-analyst-who-says-some-game-makers-hope-grand-theft-auto-6-will-cost-up-to-usd100-at-launch/)
- - [Ravensburger announces new Disney Villainous games and international tournaments](https://www.polygon.com/board-games/510813/ravensburger-announces-new-disney-villanous-games-and-international-tournaments)
- - [All New Lil Gator Game DLC – The World Just Got Bigger for This Lil Gator](https://news.xbox.com/en-us/2025/01/20/all-new-lil-gator-game-dlc-the-world-just-got-bigger-for-this-lil-gator/)<!-- GAME:END -->
+ - [&lpar;For Southeast Asia&rpar; Lunar New Year promotion comes to PlayStation Store](https://blog.playstation.com/2025/01/20/20240121-lny/)
+ - [&lpar;For Southeast Asia&rpar; Lunar New Year promotion comes to PlayStation Store](https://blog.playstation.com/2025/01/20/20240121-lny/)
+ - [Infinity Nikki codes for January 2025](https://www.polygon.com/infinity-nikki-guides/490118/codes-list-redeem-diamonds-revelation-crystals)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
