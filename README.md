@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Should you choose Seasonal Realm or Eternal Realm in Diablo 4?](https://www.polygon.com/diablo-4-guides/23800830/seasonal-eternal-realm-choice)
- - [Pokémon Go ‘Steeled Resolve’ event guide](https://www.polygon.com/pokemon-go-guide/511562/steeled-resolve-event-timed-research-path-blanche-cliff)
- - [Everything You Wanted To Know About Dynasty Warriors: Origins&#39; Length, Branching Story Paths, And Postgame Content](https://kotaku.com/dynasty-warriors-origins-postgame-how-long-hours-1851744172)<!-- GAME:END -->
+ - [Lonely Mountains: Snow Riders review](https://www.pcgamer.com/games/sports/lonely-mountains-snow-riders-review/)
+ - [Even Marvel Rivals&#39; Seasonal Events Are Overwatch Knock-Offs](https://kotaku.com/marvel-rivals-spring-festival-clash-dancing-lions-skins-1851744303)
+ - [5 Essential Tips To Start Your Dynasty Warriors: Origins Campaign](https://kotaku.com/dynasty-warriors-origins-beginner-tips-upgrade-skirmish-1851744251)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
