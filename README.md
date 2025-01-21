@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [But it was romantic](http://9gag.com/gag/a5QQo7O)
- - ⏩ [Azra Ay Vandan, a Turkish OnlyFans model, was arrested in Istanbul after announcing plans to sleep with 100 men in 24 hours and live-stream it with her husband.](http://9gag.com/gag/aLnnDWA)
- - 👉 [A thousand words communicated with just a smile](http://9gag.com/gag/aPAAYVV)<!-- MEMES:END -->
+ - 💣 [Share your apples with us](http://9gag.com/gag/a6ZZOG2)
+ - ⏩ [Two types of autism](http://9gag.com/gag/aNDD0x4)
+ - 👉 [Theres a photo online of a dude who killed a hippo with one](http://9gag.com/gag/aD22z0w)<!-- MEMES:END -->
 
 ---
 
