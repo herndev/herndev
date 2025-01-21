@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [iOS 18.3 RC introduces new Visual Intelligence features &amp; notification summaries changes](https://appleinsider.com/articles/25/01/21/ios-183-rc-introduces-new-visual-intelligence-features-notification-summaries-changes?utm_medium=rss)
- - [ASUS ROG Ally with Ryzen Z1 Extreme gets even cheaper today, $200 off!](https://www.androidauthority.com/asus-rog-ally-with-ryzen-z1-extreme-deal-3518729/)
- - [Netflix raises prices in the US, Canada, Portugal, and Argentina; the standard US plan rises from $15.49 to $17.99, standard with ads jumps a dollar to $7.99 &lpar;Nicole Sperling/New York Times&rpar;](http://www.techmeme.com/250121/p22#a250121p22)<!-- TECH:END -->
+ - [Best Amazon deals on Apple: $23 AirTag, up to $250 off MacBooks, $300 off iPad Pro](https://appleinsider.com/articles/25/01/21/best-amazon-deals-on-apple-23-airtag-up-to-250-off-macbooks-300-off-ipad-pro?utm_medium=rss)
+ - [OpenAI and Softbank are starting a $500 billion AI data center company](https://www.theverge.com/2025/1/21/24348816/openai-softbank-ai-data-center-stargate-project)
+ - [How Meta Tried To Lure TikTok Users To Instagram](https://www.wired.com/story/how-meta-tried-to-lure-tiktok-users-to-instagram/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
