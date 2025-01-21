@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [What&#39;s Canon In The New DC Film Universe Is A Mess](https://kotaku.com/dcu-superman-canon-movies-creature-commandos-james-gunn-1851743996)
- - [Where to buy Magic: The Gathering Aetherdrift cards](https://www.polygon.com/deals/511608/magic-gathering-aetherdrift-cards-pre-order-buy)
- - [Here’s how you remove the Switch 2’s Joy-Cons](https://www.polygon.com/nintendo-switch-2/511597/switch-2-nintendo-joy-con-remove-detach)<!-- GAME:END -->
+ - [Should you choose Seasonal Realm or Eternal Realm in Diablo 4?](https://www.polygon.com/diablo-4-guides/23800830/seasonal-eternal-realm-choice)
+ - [Pokémon Go ‘Steeled Resolve’ event guide](https://www.polygon.com/pokemon-go-guide/511562/steeled-resolve-event-timed-research-path-blanche-cliff)
+ - [Everything You Wanted To Know About Dynasty Warriors: Origins&#39; Length, Branching Story Paths, And Postgame Content](https://kotaku.com/dynasty-warriors-origins-postgame-how-long-hours-1851744172)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
