@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Lonely Mountains: Snow Riders review](https://www.pcgamer.com/games/sports/lonely-mountains-snow-riders-review/)
- - [Even Marvel Rivals&#39; Seasonal Events Are Overwatch Knock-Offs](https://kotaku.com/marvel-rivals-spring-festival-clash-dancing-lions-skins-1851744303)
- - [5 Essential Tips To Start Your Dynasty Warriors: Origins Campaign](https://kotaku.com/dynasty-warriors-origins-beginner-tips-upgrade-skirmish-1851744251)<!-- GAME:END -->
+ - [Best Necromancer builds in Diablo 4 season 7](https://www.polygon.com/diablo-4-guides/23656235/necromancer-best-build-skills)
+ - [Best Rogue builds in Diablo 4 season 7](https://www.polygon.com/diablo-4-guides/23650988/rogue-best-build-skills)
+ - [Best Spiritborn builds in Diablo 4 season 7](https://www.polygon.com/diablo-4-guides/458375/spiritborn-best-build-skills)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
