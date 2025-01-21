@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Eat Meat](http://9gag.com/gag/aLnngEz)
- - ⏩ [Impressive and frightener](http://9gag.com/gag/azxx81m)
- - 👉 [Come again?](http://9gag.com/gag/avyy7eX)<!-- MEMES:END -->
+ - 💣 [Share your apples with us](http://9gag.com/gag/a6ZZOG2)
+ - ⏩ [`I want the money!`](http://9gag.com/gag/a7ooZxb)
+ - 👉 [Can\u2019t say black anymore](http://9gag.com/gag/avyyOWd)<!-- MEMES:END -->
 
 ---
 
