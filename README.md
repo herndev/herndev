@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Bad luck?](http://9gag.com/gag/abAAMxE)
- - ⏩ [A thousand words communicated with just a smile](http://9gag.com/gag/aPAAYVV)
- - 👉 [Share your apples with us](http://9gag.com/gag/a6ZZOG2)<!-- MEMES:END -->
+ - 💣 [Cheating with AI in school](http://9gag.com/gag/an77jv0)
+ - ⏩ [Share your apples with us](http://9gag.com/gag/a6ZZOG2)
+ - 👉 [Fuk around and find out](http://9gag.com/gag/azxx1jK)<!-- MEMES:END -->
 
 ---
 
