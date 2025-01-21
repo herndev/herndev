@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Is that the future?](http://9gag.com/gag/adBBVD2)
- - ⏩ [Congratulations. What sport by the way?](http://9gag.com/gag/an77Q15)
- - 👉 [A thousand words communicated with just a smile](http://9gag.com/gag/aPAAYVV)<!-- MEMES:END -->
+ - 💣 [Something is sus](http://9gag.com/gag/an779ez)
+ - ⏩ [How high voltage leaks are detected inside big power grids](http://9gag.com/gag/aLnnjmW)
+ - 👉 [Poor guy was just trying to do his job](http://9gag.com/gag/aoyyN3m)<!-- MEMES:END -->
 
 ---
 
