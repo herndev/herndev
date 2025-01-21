@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Today&#39;s NYT Strands Hints, Answers and Help for Jan. 21, #324](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-jan-21-324/#ftag=CAD590a51e)
- - [TurboTax Coupons and Deals: 10% Off Tax Services](https://www.wired.com/story/turbotax-coupon/)
- - [VistaPrint Coupon: Get Up to $50 Off](https://www.wired.com/story/vistaprint-coupon-code/)<!-- TECH:END -->
+ - [This major brand has a tool to run PC games, Steam on your Android tablet](https://www.androidauthority.com/xiaomi-winplay-run-pc-steam-games-android-3518425/)
+ - [Galaxy S25 series price leak suggests a price freeze for some of us](https://www.androidauthority.com/samsung-galaxy-s25-series-price-leak-3518416/)
+ - [Today&#39;s NYT Strands Hints, Answers and Help for Jan. 21, #324](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-jan-21-324/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
