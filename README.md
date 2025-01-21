@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [We&#39;re waiting](http://9gag.com/gag/avyyovZ)
- - ⏩ [A power of sandal](http://9gag.com/gag/axyyMZb)
- - 👉 [True love](http://9gag.com/gag/azxx1Kx)<!-- MEMES:END -->
+ - 💣 [As of today, it will henceforth be the official policy of the United States government that there are only two genders, male and female](http://9gag.com/gag/aQzz1Ke)
+ - ⏩ [Two types of autism](http://9gag.com/gag/aNDD0x4)
+ - 👉 [New fear unlocked](http://9gag.com/gag/a7oowx2)<!-- MEMES:END -->
 
 ---
 
