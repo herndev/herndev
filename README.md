@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [New fear unlocked](http://9gag.com/gag/a7oowx2)
- - ⏩ [A Rabid Fox behaving like a Zombie. The Rabies Virus is named Rabies Lyssavirus &lpar;RABV&rpar;. It is a member of the Lyssavirus genus in the Rhabdoviridae family. One of the Scariest Virus on the Planet.](http://9gag.com/gag/aAyyxGd)
- - 👉 [Hmmmm](http://9gag.com/gag/azxx9gz)<!-- MEMES:END -->
+ - 💣 [Two types of autism](http://9gag.com/gag/aNDD0x4)
+ - ⏩ [Elon at the trump rally... he is a bit too excited.](http://9gag.com/gag/awyyopr)
+ - 👉 [How high voltage leaks are detected inside big power grids](http://9gag.com/gag/aLnnjmW)<!-- MEMES:END -->
 
 ---
 
