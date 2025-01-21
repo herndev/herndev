@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Source: Meta is offering creators with large TikTok followings bonuses ranging from $10K to $50K/month to post videos on Instagram Reels before other platforms &lpar;The Information&rpar;](http://www.techmeme.com/250120/p28#a250120p28)
- - [Trump signs an EO to end &quot;federal censorship&quot; of online platforms, and directs the AG to probe if the Biden admin engaged in censorship of Americans&#39; views &lpar;Cat Zakrzewski/Washington Post&rpar;](http://www.techmeme.com/250120/p27#a250120p27)
- - [Trump revokes a 2023 executive order signed by Biden that sought to reduce the risks that AI poses to consumers, workers, and national security &lpar;David Shepardson/Reuters&rpar;](http://www.techmeme.com/250120/p26#a250120p26)<!-- TECH:END -->
+ - [Trump Signs Executive Order Saving TikTok for 75 Days](https://www.wired.com/story/trump-executive-order-tiktok-ban/)
+ - [Trump signs executive order to reverse Biden’s electric vehicle policies](https://www.theverge.com/2025/1/20/24347980/trump-ev-order-carbon-emission-rule)
+ - [Trump signs an EO that pauses the TikTok ban for 75 days to give ByteDance more time to reach a deal and provides a &quot;liability shield&quot; to TikTok&#39;s providers &lpar;Bobby Allyn/NPR&rpar;](http://www.techmeme.com/250120/p29#a250120p29)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
