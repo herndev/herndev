@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [17 Best Apple Watch Accessories &lpar;2025&rpar;: Bands, Chargers, Cases, and Screen Protectors](https://www.wired.com/gallery/best-apple-watch-accessories/)
- - [MicroStrategy bought 11,000 bitcoin for ~$1.1B, an average of $101,191, between January 13 and 20, taking its holding to 461,000, worth $48B+, or 2%+ of supply &lpar;James Hunt/The Block&rpar;](http://www.techmeme.com/250121/p6#a250121p6)
- - [Caseology is no more, but its best cases will live on](https://www.androidauthority.com/caseology-cyrill-closing-3518520/)<!-- TECH:END -->
+ - [Instagram is reportedly trying to attract TikTok creators with large bonuses](https://www.theverge.com/2025/1/21/24348510/instagram-tiktok-creators-bonuses)
+ - [A24’s Opus blurs the line between fandom and faith in first trailer](https://www.theverge.com/2025/1/21/24348527/a24-opus-trailer-release-date)
+ - [The UK debuts digital driving licenses and veteran ID cards, launching in 2025 via the GOV.UK Wallet, and AI tools, nicknamed &quot;Humphrey&quot;, to help civil servants &lpar;Anna Gross/Financial Times&rpar;](http://www.techmeme.com/250121/p9#a250121p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
