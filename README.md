@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Omdia: by the end of 2024, TikTok generated ~$8B in ad revenue in the US and $63.3B globally, and it surpassed 1.9B MAUs globally, with 145M MAUs in the US &lpar;Marta Balaga/Variety&rpar;](http://www.techmeme.com/250121/p12#a250121p12)
- - [The UK government is launching a digital ID mobile app](https://www.theverge.com/2025/1/21/24348641/uk-government-digital-id-app-ios-android-launch)
- - [Nokia knew to fear the iPhone all the way back in 2007](https://www.androidauthority.com/nokia-presentation-iphone-2007-3518576/)<!-- TECH:END -->
+ - [Broadcast TV Is Dying. Trump Is Threatening It Anyway](https://www.wired.com/story/broadcast-tv-is-dying-trump-threatening-it-anyway/)
+ - [Volvo announces pricing for delayed EX30 compact SUV](https://www.theverge.com/2025/1/21/24348733/volvo-ex30-compact-suv-price-us)
+ - [The SEC launches a &quot;Crypto 2.0&quot; task force led by SEC Commissioner Hester Peirce, to create a &quot;comprehensive and clear regulatory framework for crypto assets&quot; &lpar;Jeff Cox/CNBC&rpar;](http://www.techmeme.com/250121/p15#a250121p15)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
