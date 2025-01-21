@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Cheating with AI in school](http://9gag.com/gag/an77jv0)
- - ⏩ [Share your apples with us](http://9gag.com/gag/a6ZZOG2)
- - 👉 [Fuk around and find out](http://9gag.com/gag/azxx1jK)<!-- MEMES:END -->
+ - 💣 [Eat Meat](http://9gag.com/gag/aLnngEz)
+ - ⏩ [Impressive and frightener](http://9gag.com/gag/azxx81m)
+ - 👉 [Come again?](http://9gag.com/gag/avyy7eX)<!-- MEMES:END -->
 
 ---
 
