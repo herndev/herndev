@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Jan. 17 filing: the US NHTSA said it &quot;upgraded&quot; its April 2024 probe into Ford&#39;s BlueCruise, a driver assistance system that was active during two fatal crashes &lpar;Kirsten Korosec/TechCrunch&rpar;](http://www.techmeme.com/250120/p24#a250120p24)
- - [Neo-Nazis Love the Nazi-Like Salutes Elon Musk Made at Trump&#39;s Inauguration](https://www.wired.com/story/neo-nazis-love-elon-musk-nazi-like-salutes-trumps-inauguration/)
- - [During a speech following Donald Trump&#39;s inauguration, Elon Musk appeared to deliver two Roman salutes, associated with Nazism, to the crowd &lpar;Hafiz Rashid/New Republic&rpar;](http://www.techmeme.com/250120/p23#a250120p23)<!-- TECH:END -->
+ - [Donald Trump pulls US out of Paris climate agreement](https://www.theverge.com/2025/1/20/24345964/donald-trump-paris-climate-agreement-exit)
+ - [Brendan Carr is officially in charge of the FCC](https://www.theverge.com/2025/1/20/24348210/brendan-carr-federal-communications-commission-chair-trump)
+ - [Vivek Ramaswamy steps down from DOGE](https://www.theverge.com/2025/1/20/24348186/vivek-ramaswamy-doge-steps-down-elon-musk)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
