@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [D&amp;#038;D monsters and d20 included in new Horrified game by Ravensburger](https://www.polygon.com/board-games/510834/dnd-horrified-ravensburger-board-game-london-toy-fair)
  - [Can Wooper and Paldean Wooper be shiny in Pokémon Go?](https://www.polygon.com/pokemon-go-guide/23859703/can-wooper-be-shiny-quagsire)
- - [Marvel Snap is back online after falling afoul of TikTok&#39;s temporary ban, and unsurprisingly, its creators are on the search for a new publisher](https://www.pcgamer.com/games/card-games/marvel-snap-is-back-online-after-falling-afoul-of-tiktoks-temporary-ban-and-unsurprisingly-its-creators-are-on-the-search-for-a-new-publisher/)
- - [Today&#39;s Wordle answer for Tuesday, January 21](https://www.pcgamer.com/games/puzzle/wordle-answer-today-january-21-2025/)<!-- GAME:END -->
+ - [Marvel Snap is back online after falling afoul of TikTok&#39;s temporary ban, and unsurprisingly, its creators are on the search for a new publisher](https://www.pcgamer.com/games/card-games/marvel-snap-is-back-online-after-falling-afoul-of-tiktoks-temporary-ban-and-unsurprisingly-its-creators-are-on-the-search-for-a-new-publisher/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
