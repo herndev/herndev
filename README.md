@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Elon Musk is set to get a West Wing office, putting him close to Trump, after Musk had for many days been asking about his level of access &lpar;New York Times&rpar;](http://www.techmeme.com/250121/p3#a250121p3)
- - [Brendan Carr becomes FCC chair, and plans to focus on tech and media regulation, combating China, spectrum licenses, infrastructure, the space economy, and more &lpar;Lauren Feiner/The Verge&rpar;](http://www.techmeme.com/250121/p2#a250121p2)
- - [Legal experts and lawmakers: Trump&#39;s EO halting the TikTok ban may not protect companies that host or distribute the app, as Trump cannot overturn Congress&#39; law &lpar;Washington Post&rpar;](http://www.techmeme.com/250121/p1#a250121p1)<!-- TECH:END -->
+ - [Apple&#39;s biggest innovation of the last 25 years isn&#39;t the iPhone](https://appleinsider.com/articles/25/01/21/apples-biggest-innovation-of-the-last-25-years-isnt-the-iphone?utm_medium=rss)
+ - [Best Electric Kettles of 2025](https://www.cnet.com/home/kitchen-and-household/best-electric-kettle/#ftag=CAD590a51e)
+ - [Chinese smartphone sales fell 3.2% YoY in Q4 2024, the only 2024 quarter with a YoY drop; Apple fell 18.2% while Huawei rose 15.5% for an 18.1% market share &lpar;Counterpoint Research&rpar;](http://www.techmeme.com/250121/p4#a250121p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
