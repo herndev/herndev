@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [This iPhone SE 4 display feature could be a double-edged sword for Android switchers](https://www.androidauthority.com/iphone-se-4-display-dynamic-island-3518448/)
- - [This major brand has a tool to run PC games, Steam on your Android tablet](https://www.androidauthority.com/xiaomi-winplay-run-pc-steam-games-android-3518425/)
- - [Best Internet Providers in Ithaca, New York](https://www.cnet.com/home/internet/best-internet-providers-in-ithaca-ny/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sources: Elon Musk is set to get a West Wing office, putting him close to Trump, after Musk had for many days been asking about his level of access &lpar;New York Times&rpar;](http://www.techmeme.com/250121/p3#a250121p3)
+ - [Brendan Carr becomes FCC chair, and plans to focus on tech and media regulation, combating China, spectrum licenses, infrastructure, the space economy, and more &lpar;Lauren Feiner/The Verge&rpar;](http://www.techmeme.com/250121/p2#a250121p2)
+ - [Legal experts and lawmakers: Trump&#39;s EO halting the TikTok ban may not protect companies that host or distribute the app, as Trump cannot overturn Congress&#39; law &lpar;Washington Post&rpar;](http://www.techmeme.com/250121/p1#a250121p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
