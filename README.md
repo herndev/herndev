@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [&lpar;For Southeast Asia&rpar; Lunar New Year promotion comes to PlayStation Store](https://blog.playstation.com/2025/01/20/20240121-lny/)
- - [&lpar;For Southeast Asia&rpar; Lunar New Year promotion comes to PlayStation Store](https://blog.playstation.com/2025/01/20/20240121-lny/)
- - [Infinity Nikki codes for January 2025](https://www.polygon.com/infinity-nikki-guides/490118/codes-list-redeem-diamonds-revelation-crystals)<!-- GAME:END -->
+ - [Marvel Snap is back online after falling afoul of TikTok&#39;s temporary ban, and unsurprisingly, its creators are on the search for a new publisher](https://www.pcgamer.com/games/card-games/marvel-snap-is-back-online-after-falling-afoul-of-tiktoks-temporary-ban-and-unsurprisingly-its-creators-are-on-the-search-for-a-new-publisher/)
+ - [Today&#39;s Wordle answer for Tuesday, January 21](https://www.pcgamer.com/games/puzzle/wordle-answer-today-january-21-2025/)
+ - [&lpar;For Southeast Asia&rpar; Lunar New Year promotion comes to PlayStation Store](https://blog.playstation.com/2025/01/20/20240121-lny/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
