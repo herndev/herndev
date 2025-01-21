@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [But it was romantic](http://9gag.com/gag/a5QQo7O)
- - ⏩ [Share your apples with us](http://9gag.com/gag/a6ZZOG2)
- - 👉 [How high voltage leaks are detected inside big power grids](http://9gag.com/gag/aLnnjmW)<!-- MEMES:END -->
+ - 💣 [Bad luck?](http://9gag.com/gag/abAAMxE)
+ - ⏩ [A thousand words communicated with just a smile](http://9gag.com/gag/aPAAYVV)
+ - 👉 [Share your apples with us](http://9gag.com/gag/a6ZZOG2)<!-- MEMES:END -->
 
 ---
 
