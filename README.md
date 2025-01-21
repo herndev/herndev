@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta says it will offer eligible TikTok creators free verification, content deals, and up to $5,000 in bonuses to post Reels &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/250121/p17#a250121p17)
- - [Is that VPN safe? Google Play’s badge system will let you know](https://www.androidauthority.com/google-play-vpn-badge-3518677/)
- - [DeepSeek&#39;s new MIT-licensed AI models can be accessed via DeepSeek&#39;s API at a fraction of the cost of comparable OpenAI models but there are censorship concerns &lpar;Radhika Rajkumar/ZDNET&rpar;](http://www.techmeme.com/250121/p16#a250121p16)<!-- TECH:END -->
+ - [Deal: Apple AirTag 4-Pack drops back to its record-low price](https://www.androidauthority.com/apple-airtag-4-pack-deal-4-3518730/)
+ - [The Switch 2 has a new trigger for disconnecting Joy-Con controllers](https://www.theverge.com/2025/1/21/24348868/nintendo-switch-2-new-trigger-disconnecting-joy-con-controllers)
+ - [Apple Intelligence is enabled by default in iOS 18.3](https://www.theverge.com/2025/1/21/24348850/apple-intelligence-ai-default-setting-ios-18-3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
