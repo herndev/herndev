@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Yikes\u2026lol](http://9gag.com/gag/a877oL3)
- - ⏩ [A Rabid Fox behaving like a Zombie. The Rabies Virus is named Rabies Lyssavirus &lpar;RABV&rpar;. It is a member of the Lyssavirus genus in the Rhabdoviridae family. One of the Scariest Virus on the Planet.](http://9gag.com/gag/aAyyxGd)
- - 👉 [Can\u2019t say black anymore](http://9gag.com/gag/avyyOWd)<!-- MEMES:END -->
+ - 💣 [But it was romantic](http://9gag.com/gag/a5QQo7O)
+ - ⏩ [Azra Ay Vandan, a Turkish OnlyFans model, was arrested in Istanbul after announcing plans to sleep with 100 men in 24 hours and live-stream it with her husband.](http://9gag.com/gag/aLnnDWA)
+ - 👉 [A thousand words communicated with just a smile](http://9gag.com/gag/aPAAYVV)<!-- MEMES:END -->
 
 ---
 
