@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Samsung is testing a 200MP zoom camera, and we can already feel the shutter lag](https://www.androidauthority.com/samsung-testing-200mp-periscope-zoom-camera-3517921/)
  - [Samsung’s 2025 foldables leak: Full lineup revealed, including the triple-folding beast](https://www.androidauthority.com/samsung-2025-foldable-phones-details-3518398/)
- - [How to get the Apple TV Snoopy screensaver on your Mac](https://appleinsider.com/inside/macos-sequoia/tips/how-to-get-the-apple-tv-snoopy-screensaver-on-your-mac?utm_medium=rss)
- - [Today&#39;s NYT Mini Crossword Answers for Tuesday, Jan. 21](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-tuesday-jan-21/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [How to get the Apple TV Snoopy screensaver on your Mac](https://appleinsider.com/inside/macos-sequoia/tips/how-to-get-the-apple-tv-snoopy-screensaver-on-your-mac?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
