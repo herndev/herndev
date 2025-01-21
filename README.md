@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Instagram is reportedly trying to attract TikTok creators with large bonuses](https://www.theverge.com/2025/1/21/24348510/instagram-tiktok-creators-bonuses)
- - [A24’s Opus blurs the line between fandom and faith in first trailer](https://www.theverge.com/2025/1/21/24348527/a24-opus-trailer-release-date)
- - [The UK debuts digital driving licenses and veteran ID cards, launching in 2025 via the GOV.UK Wallet, and AI tools, nicknamed &quot;Humphrey&quot;, to help civil servants &lpar;Anna Gross/Financial Times&rpar;](http://www.techmeme.com/250121/p9#a250121p9)<!-- TECH:END -->
+ - [Apple&#39;s iPad Pro will see only minor 2025 update, says supply chain](https://appleinsider.com/articles/25/01/21/apples-ipad-pro-will-see-only-minor-2025-update-says-supply-chain?utm_medium=rss)
+ - [Infinity Nikki’s new season brings the game’s biggest update yet](https://www.theverge.com/2025/1/21/24348535/infinity-nikki-firework-season-update-trailer-january-date)
+ - [Circle, which issues the USDC stablecoin, acquired Hashnote; rwa.xyz data: Hashnote&#39;s USYC token last year become the largest tokenized US Treasury product &lpar;Krisztian Sandor/CoinDesk&rpar;](http://www.techmeme.com/250121/p10#a250121p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
