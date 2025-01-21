@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Donald Trump pulls US out of Paris climate agreement](https://www.theverge.com/2025/1/20/24345964/donald-trump-paris-climate-agreement-exit)
- - [Brendan Carr is officially in charge of the FCC](https://www.theverge.com/2025/1/20/24348210/brendan-carr-federal-communications-commission-chair-trump)
- - [Vivek Ramaswamy steps down from DOGE](https://www.theverge.com/2025/1/20/24348186/vivek-ramaswamy-doge-steps-down-elon-musk)<!-- TECH:END -->
+ - [Source: Meta is offering creators with large TikTok followings bonuses ranging from $10K to $50K/month to post videos on Instagram Reels before other platforms &lpar;The Information&rpar;](http://www.techmeme.com/250120/p28#a250120p28)
+ - [Trump signs an EO to end &quot;federal censorship&quot; of online platforms, and directs the AG to probe if the Biden admin engaged in censorship of Americans&#39; views &lpar;Cat Zakrzewski/Washington Post&rpar;](http://www.techmeme.com/250120/p27#a250120p27)
+ - [Trump revokes a 2023 executive order signed by Biden that sought to reduce the risks that AI poses to consumers, workers, and national security &lpar;David Shepardson/Reuters&rpar;](http://www.techmeme.com/250120/p26#a250120p26)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
