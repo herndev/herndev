@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Share your apples with us](http://9gag.com/gag/a6ZZOG2)
- - ⏩ [`I want the money!`](http://9gag.com/gag/a7ooZxb)
- - 👉 [Can\u2019t say black anymore](http://9gag.com/gag/avyyOWd)<!-- MEMES:END -->
+ - 💣 [This video demonstrates how grapes in Afghanistan can be preserved for a period of up to six months using a traditional method called Kangina](http://9gag.com/gag/a7oow1b)
+ - ⏩ [Can\u2019t say black anymore](http://9gag.com/gag/avyyOWd)
+ - 👉 [Jeff Bezos Struggles With His Skin](http://9gag.com/gag/a2vvRDw)<!-- MEMES:END -->
 
 ---
 
