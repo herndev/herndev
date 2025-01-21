@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Two types of autism](http://9gag.com/gag/aNDD0x4)
- - ⏩ [Elon at the trump rally... he is a bit too excited.](http://9gag.com/gag/awyyopr)
- - 👉 [How high voltage leaks are detected inside big power grids](http://9gag.com/gag/aLnnjmW)<!-- MEMES:END -->
+ - 💣 [Bad luck?](http://9gag.com/gag/abAAMxE)
+ - ⏩ [Two types of autism](http://9gag.com/gag/aNDD0x4)
+ - 👉 [Yikes\u2026lol](http://9gag.com/gag/a877oL3)<!-- MEMES:END -->
 
 ---
 
