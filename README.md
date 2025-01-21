@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Bringing Conan the Barbarian’s Sword Mastery to Mortal Kombat 1](https://news.xbox.com/en-us/2025/01/21/bringing-conan-the-barbarian-to-mortal-kombat-1/)
- - [Here’s what readers think the Switch 2 will cost](https://www.polygon.com/nintendo-switch-2/511389/nintendo-switch-2-price-poll-results)
- - [I&#39;m enraptured by this Zelda maniac who worked out there are 1 quadrillion 83 trillion 414 billion and 90 million possible permutations for a dog race in Majora&#39;s Mask](https://www.pcgamer.com/games/im-enraptured-by-this-zelda-maniac-who-worked-out-there-are-1-quadrillion-83-trillion-414-billion-and-90-million-possible-permutations-for-a-dog-race-in-majoras-mask/)<!-- GAME:END -->
+ - [What&#39;s Canon In The New DC Film Universe Is A Mess](https://kotaku.com/dcu-superman-canon-movies-creature-commandos-james-gunn-1851743996)
+ - [Where to buy Magic: The Gathering Aetherdrift cards](https://www.polygon.com/deals/511608/magic-gathering-aetherdrift-cards-pre-order-buy)
+ - [Here’s how you remove the Switch 2’s Joy-Cons](https://www.polygon.com/nintendo-switch-2/511597/switch-2-nintendo-joy-con-remove-detach)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
