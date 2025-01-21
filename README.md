@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Bad luck?](http://9gag.com/gag/abAAMxE)
- - ⏩ [Two types of autism](http://9gag.com/gag/aNDD0x4)
- - 👉 [Elon at the trump rally... he is a bit too excited.](http://9gag.com/gag/awyyopr)<!-- MEMES:END -->
+ - 💣 [Is that the future?](http://9gag.com/gag/adBBVD2)
+ - ⏩ [Congratulations. What sport by the way?](http://9gag.com/gag/an77Q15)
+ - 👉 [A thousand words communicated with just a smile](http://9gag.com/gag/aPAAYVV)<!-- MEMES:END -->
 
 ---
 
