@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How Invasive Plants Are Fueling California’s Wildfire Crisis](https://www.wired.com/story/how-invasive-plants-are-fueling-californias-wildfire-crisis/)
- - [Best Sheets for Every Bed &amp; Budget, Tested &amp; Reviewed &lpar;2025&rpar;](https://www.wired.com/story/best-bedsheets/)
- - [T-Mobile’s fiber plans are worse off now with silent Price Lock removal](https://www.androidauthority.com/t-mobile-removes-price-lock-promise-fiber-3518494/)<!-- TECH:END -->
+ - [17 Best Apple Watch Accessories &lpar;2025&rpar;: Bands, Chargers, Cases, and Screen Protectors](https://www.wired.com/gallery/best-apple-watch-accessories/)
+ - [MicroStrategy bought 11,000 bitcoin for ~$1.1B, an average of $101,191, between January 13 and 20, taking its holding to 461,000, worth $48B+, or 2%+ of supply &lpar;James Hunt/The Block&rpar;](http://www.techmeme.com/250121/p6#a250121p6)
+ - [Caseology is no more, but its best cases will live on](https://www.androidauthority.com/caseology-cyrill-closing-3518520/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
