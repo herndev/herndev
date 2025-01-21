@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [*Beats Greyhound and Amtrak combined!](http://9gag.com/gag/avyyzrZ)
- - ⏩ [Jeff Bezos Struggles With His Skin](http://9gag.com/gag/a2vvRDw)
- - 👉 [But it was romantic](http://9gag.com/gag/a5QQo7O)<!-- MEMES:END -->
+ - 💣 [Love Story lol](http://9gag.com/gag/aqyyKQP)
+ - ⏩ [NSFW](http://9gag.com/gag/aByyg5Q)
+ - 👉 [Who is protecting them ?](http://9gag.com/gag/a5QQRVO)<!-- MEMES:END -->
 
 ---
 
