@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [*Beats Greyhound and Amtrak combined!](http://9gag.com/gag/avyyzrZ)
- - ⏩ [Bad luck](http://9gag.com/gag/axyy061)
- - 👉 [Bad luck?](http://9gag.com/gag/abAAMxE)<!-- MEMES:END -->
+ - 💣 [New fear unlocked](http://9gag.com/gag/a7oowx2)
+ - ⏩ [How high voltage leaks are detected inside big power grids](http://9gag.com/gag/aLnnjmW)
+ - 👉 [*Beats Greyhound and Amtrak combined!](http://9gag.com/gag/avyyzrZ)<!-- MEMES:END -->
 
 ---
 
