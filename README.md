@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Re&lpar;a&rpar;d Between The Lines with the New Pulse Cipher Special Edition Controller](https://news.xbox.com/en-us/2025/01/21/pulse-cipher-special-edition-controller/)
- - [Marvel Snap Is Playable Again After TikTok Ban Fiasco, Devs Working To Make Sure It Never Disappears Again](https://kotaku.com/marvel-snap-tiktok-ban-missing-app-store-outage-1851743553)
- - [Disney Lorcana release dates set for Archazia’s Island, Reign of Jafar sets](https://www.polygon.com/news/511154/disney-lorcana-archazias-island-release-date-reign-jafar)<!-- GAME:END -->
+ - [How to Watch Xbox Developer_Direct 2025 on Thursday](https://news.xbox.com/en-us/2025/01/21/xbox-developer-direct-2025-how-to-watch/)
+ - [EA Is Killing Off Origin, But Also Your 32-Bit Gaming Collection](https://kotaku.com/ea-app-origin-pc-update-dragon-age-1851743639)
+ - [Oh well, looks like the next 4 years are going to be an AI free-for-all as Trump nixes Biden administration&#39;s safety order](https://www.pcgamer.com/software/ai/oh-well-looks-like-the-next-4-years-are-going-to-be-an-ai-free-for-all-as-trump-nixes-biden-administrations-safety-order/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
