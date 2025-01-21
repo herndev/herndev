@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s biggest innovation of the last 25 years isn&#39;t the iPhone](https://appleinsider.com/articles/25/01/21/apples-biggest-innovation-of-the-last-25-years-isnt-the-iphone?utm_medium=rss)
- - [Best Electric Kettles of 2025](https://www.cnet.com/home/kitchen-and-household/best-electric-kettle/#ftag=CAD590a51e)
- - [Chinese smartphone sales fell 3.2% YoY in Q4 2024, the only 2024 quarter with a YoY drop; Apple fell 18.2% while Huawei rose 15.5% for an 18.1% market share &lpar;Counterpoint Research&rpar;](http://www.techmeme.com/250121/p4#a250121p4)<!-- TECH:END -->
+ - [How Invasive Plants Are Fueling California’s Wildfire Crisis](https://www.wired.com/story/how-invasive-plants-are-fueling-californias-wildfire-crisis/)
+ - [Best Sheets for Every Bed &amp; Budget, Tested &amp; Reviewed &lpar;2025&rpar;](https://www.wired.com/story/best-bedsheets/)
+ - [T-Mobile’s fiber plans are worse off now with silent Price Lock removal](https://www.androidauthority.com/t-mobile-removes-price-lock-promise-fiber-3518494/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
