@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [D&amp;#038;D monsters and d20 included in new Horrified game by Ravensburger](https://www.polygon.com/board-games/510834/dnd-horrified-ravensburger-board-game-london-toy-fair)
- - [Can Wooper and Paldean Wooper be shiny in Pokémon Go?](https://www.polygon.com/pokemon-go-guide/23859703/can-wooper-be-shiny-quagsire)
- - [Marvel Snap is back online after falling afoul of TikTok&#39;s temporary ban, and unsurprisingly, its creators are on the search for a new publisher](https://www.pcgamer.com/games/card-games/marvel-snap-is-back-online-after-falling-afoul-of-tiktoks-temporary-ban-and-unsurprisingly-its-creators-are-on-the-search-for-a-new-publisher/)<!-- GAME:END -->
+ - [Level up your campaigns with HP printers: essential equipment for gamers and storytellers](https://www.pcgamer.com/hardware/level-up-your-campaigns-with-hp-printers-essential-equipment-for-gamers-and-storytellers/)
+ - [The Blood of Dawnwalker&#39;s creative director explains how the RPG&#39;s narrative sandbox works: &#39;the core of it is maximising players&#39; freedom&#39;](https://www.pcgamer.com/games/rpg/the-blood-of-dawnwalkers-creative-director-explains-how-the-rpgs-narrative-sandbox-works-the-core-of-it-is-maximising-players-freedom/)
+ - [AMD finally gives the Radeon RX 9070 XT a release date and it&#39;s &lpar;roughly&rpar; March](https://www.pcgamer.com/hardware/graphics-cards/amd-finally-gives-the-radeon-rx-9070-xt-a-release-date-and-its-roughly-march/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
