@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [True love](http://9gag.com/gag/azxx1Kx)
- - ⏩ [Share your apples with us](http://9gag.com/gag/a6ZZOG2)
- - 👉 [Bad luck](http://9gag.com/gag/axyy061)<!-- MEMES:END -->
+ - 💣 [Something is sus](http://9gag.com/gag/an779ez)
+ - ⏩ [Literally came back to die](http://9gag.com/gag/aLnnjZg)
+ - 👉 [*Beats Greyhound and Amtrak combined!](http://9gag.com/gag/avyyzrZ)<!-- MEMES:END -->
 
 ---
 
