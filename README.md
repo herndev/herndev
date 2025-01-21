@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Love Story lol](http://9gag.com/gag/aqyyKQP)
- - ⏩ [NSFW](http://9gag.com/gag/aByyg5Q)
- - 👉 [Who is protecting them ?](http://9gag.com/gag/a5QQRVO)<!-- MEMES:END -->
+ - 💣 [As of today, it will henceforth be the official policy of the United States government that there are only two genders, male and female](http://9gag.com/gag/aQzz1Ke)
+ - ⏩ [Bad luck](http://9gag.com/gag/axyy061)
+ - 👉 [Bad luck?](http://9gag.com/gag/abAAMxE)<!-- MEMES:END -->
 
 ---
 
