@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The 9 Disney Channel Original Movies You Should Rewatch](https://kotaku.com/disney-channel-original-movies-high-school-musical-1851743354)
- - [Elon Musk admits account-boosting on PoE2 and Diablo 4 but says deal with it: &#39;What would I be apologizing for?&#39;](https://www.pcgamer.com/games/elon-musk-admits-account-boosting-on-poe2-and-diablo-4-but-says-deal-with-it-what-would-i-be-apologizing-for/)
- - [World of Warships: Legends introduces new quick guide, The Codex](https://blog.playstation.com/2025/01/21/world-of-warships-legends-introduces-new-quick-guide-the-codex/)<!-- GAME:END -->
+ - [Re&lpar;a&rpar;d Between The Lines with the New Pulse Cipher Special Edition Controller](https://news.xbox.com/en-us/2025/01/21/pulse-cipher-special-edition-controller/)
+ - [Marvel Snap Is Playable Again After TikTok Ban Fiasco, Devs Working To Make Sure It Never Disappears Again](https://kotaku.com/marvel-snap-tiktok-ban-missing-app-store-outage-1851743553)
+ - [Disney Lorcana release dates set for Archazia’s Island, Reign of Jafar sets](https://www.polygon.com/news/511154/disney-lorcana-archazias-island-release-date-reign-jafar)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
