@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Level up your campaigns with HP printers: essential equipment for gamers and storytellers](https://www.pcgamer.com/hardware/level-up-your-campaigns-with-hp-printers-essential-equipment-for-gamers-and-storytellers/)
- - [The Blood of Dawnwalker&#39;s creative director explains how the RPG&#39;s narrative sandbox works: &#39;the core of it is maximising players&#39; freedom&#39;](https://www.pcgamer.com/games/rpg/the-blood-of-dawnwalkers-creative-director-explains-how-the-rpgs-narrative-sandbox-works-the-core-of-it-is-maximising-players-freedom/)
- - [AMD finally gives the Radeon RX 9070 XT a release date and it&#39;s &lpar;roughly&rpar; March](https://www.pcgamer.com/hardware/graphics-cards/amd-finally-gives-the-radeon-rx-9070-xt-a-release-date-and-its-roughly-march/)<!-- GAME:END -->
+ - [World of Warships: Legends introduces new quick guide, The Codex](https://blog.playstation.com/2025/01/21/world-of-warships-legends-introduces-new-quick-guide-the-codex/)
+ - [All Galar Pokémon in Pokémon Go so far](https://www.polygon.com/pokemon-go-guide/444111/galar-pokemon-list-gen-8)
+ - [The cake was a lie, but Silksong &#39;is real, progressing and will release&#39; say devs, after flurry of conspiracy theories revealed to be a &#39;nothingburger&#39;](https://www.pcgamer.com/games/action/the-cake-was-a-lie-but-silksong-is-real-progressing-and-will-release-say-devs-after-flurry-of-conspiracy-theories-revealed-to-be-a-nothingburger/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
