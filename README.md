@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Something is sus](http://9gag.com/gag/an779ez)
- - ⏩ [Literally came back to die](http://9gag.com/gag/aLnnjZg)
- - 👉 [*Beats Greyhound and Amtrak combined!](http://9gag.com/gag/avyyzrZ)<!-- MEMES:END -->
+ - 💣 [*Beats Greyhound and Amtrak combined!](http://9gag.com/gag/avyyzrZ)
+ - ⏩ [Bad luck](http://9gag.com/gag/axyy061)
+ - 👉 [Bad luck?](http://9gag.com/gag/abAAMxE)<!-- MEMES:END -->
 
 ---
 
