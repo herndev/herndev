@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Mere months after Sonic the Hedgehog 3&#39;s release, we already have an exact date for its sequel](https://www.pcgamer.com/movies-tv/mere-months-after-sonic-the-hedgehog-3s-release-we-already-have-an-exact-date-for-its-sequel/)
- - [The Civ 6 Anthology is a great way to see what Civ is all about for under $10](https://www.polygon.com/good-deals/511958/civ-6-anthology-pc-steam-sale)
- - [Film director clarifies that historical epic The Brutalist did use AI during production, but not how you think](https://www.pcgamer.com/hardware/film-director-clarifies-that-historical-epic-the-brutalist-did-use-ai-during-production-but-not-how-you-think/)<!-- GAME:END -->
+ - [Children of Saturn is a game about growing up under the shadow of climate catastrophe](https://www.polygon.com/gaming/511344/children-of-saturn-la-fires-climate-change)
+ - [Arrow Lake&#39;s had three months of Windows and BIOS updates to fix its performance, and my testing shows in some games, it&#39;s worse](https://www.pcgamer.com/hardware/processors/arrow-lakes-had-three-months-of-windows-and-bios-updates-to-fix-its-performance-and-my-testing-shows-in-some-games-its-worse/)
+ - [How cross-platform multiplayer and cross-saves work in Civilization 7](https://www.polygon.com/civilization-7-guides/509066/cross-platform-multiplayer-cross-saves-civ-7)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
