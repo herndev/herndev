@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Before it&#39;s destruction in 1992 here is the Buddha statue in Afghanistan](http://9gag.com/gag/aO88YyR)
- - ⏩ [Sorry guys](http://9gag.com/gag/axyy7NL)
- - 👉 [WomEn supporting womAn](http://9gag.com/gag/aYQQY5O)<!-- MEMES:END -->
+ - 💣 [Great Polish show, I&#39;ll watch again 9/10](http://9gag.com/gag/apRRgnE)
+ - ⏩ [Yess !!! You talking to me](http://9gag.com/gag/avyyA8O)
+ - 👉 [The accent.](http://9gag.com/gag/aoyyggX)<!-- MEMES:END -->
 
 ---
 
