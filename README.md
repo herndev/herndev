@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [&#39;PC development has skyrocketed,&#39; GDC survey finds: 80% of developers are now making games for PC, more than double the number working on PS5 or Xbox games](https://www.pcgamer.com/gaming-industry/pc-development-has-skyrocketed-gdc-survey-finds-80-percent-of-developers-are-now-making-games-for-pc-more-than-double-the-number-working-on-ps5-or-xbox-games/)
- - [Indiana Jones And The Great Circle: How To Solve The ‘A Date To Remember’ Puzzle](https://kotaku.com/indiana-jones-great-circle-date-to-remember-code-puzzle-1851745449)
- - [How to use the Armory to save and change builds in Diablo 4](https://www.polygon.com/diablo-4-guides/511980/armory-save-change-builds-locations)<!-- GAME:END -->
+ - [Yellowjackets’ season 3 trailer finally looks like the show we were promised](https://www.polygon.com/tv/512399/yellowjackets-season-3-trailer-release-date-cast-maybe-good)
+ - [How To Find New Outfits For Momo, Infinity Nikki&#39;s Adorable Cat-Like Buddy](https://kotaku.com/infinity-nikki-momo-outfits-resonance-courses-clothes-1851745487)
+ - [When Toronto Sceptres goalie Carly Jackson isn’t stopping pucks, they’re playing Baldur’s Gate 3](https://www.polygon.com/gaming/511758/nhl-25-pwhl-carly-jackson-toronto-sceptres-video-games)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
