@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Yellowjackets’ season 3 trailer finally looks like the show we were promised](https://www.polygon.com/tv/512399/yellowjackets-season-3-trailer-release-date-cast-maybe-good)
- - [How To Find New Outfits For Momo, Infinity Nikki&#39;s Adorable Cat-Like Buddy](https://kotaku.com/infinity-nikki-momo-outfits-resonance-courses-clothes-1851745487)
- - [When Toronto Sceptres goalie Carly Jackson isn’t stopping pucks, they’re playing Baldur’s Gate 3](https://www.polygon.com/gaming/511758/nhl-25-pwhl-carly-jackson-toronto-sceptres-video-games)<!-- GAME:END -->
+ - [How to complete ‘Poison in the Roots’ in Diablo 4](https://www.polygon.com/diablo-4-guides/511998/poison-in-the-roots-ritual-puzzle-solution)
+ - [Celeste Devs Cancel Next Game After Falling Out And Difficult Development](https://kotaku.com/earthblade-canceled-celeste-towerfall-release-date-1851745616)
+ - [Electronic Arts says &#39;Dragon Age and EA Sports FC 25 underperformed&#39; as it revises its financial outlook downward](https://www.pcgamer.com/gaming-industry/electronic-arts-says-dragon-age-and-ea-sports-fc-25-underperformed-as-it-revises-its-financial-outlook-downward/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
