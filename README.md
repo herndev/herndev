@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Truecaller rolls out real-time caller ID to its ~750K iOS subscribers, who account for 40% of its revenue; Truecaller has 2.6M+ paying subscribers in total &lpar;TechCrunch&rpar;](http://www.techmeme.com/250122/p5#a250122p5)
- - [Netflix says happy new year, here’s a price increase for you.](https://www.androidauthority.com/netflix-price-increase-2025-3518407/)
- - [Microsoft to buy 3.5M carbon credits, estimated to be worth about $200M, from Re.green over 25 years to restore parts of Brazil&#39;s Amazon and Atlantic forests &lpar;Kenza Bryan/Financial Times&rpar;](http://www.techmeme.com/250122/p4#a250122p4)<!-- TECH:END -->
+ - [Days before TikTok briefly went dark, Instagram and Facebook made design tweaks, released new features, and ran ads promoting its apps as TikTok alternatives &lpar;Louise Matsakis/Wired&rpar;](http://www.techmeme.com/250122/p8#a250122p8)
+ - [Quant trading firm XTX, managing $250B+ in daily trades, plans to invest &amp;euro;1B+ on five data centers in Finland to support its growing use of machine learning &lpar;Bloomberg&rpar;](http://www.techmeme.com/250122/p7#a250122p7)
+ - [Best Internet Providers in Poughkeepsie, New York](https://www.cnet.com/home/internet/best-internet-providers-in-poughkeepsie-ny/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
