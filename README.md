@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Share your apples with us](http://9gag.com/gag/a6ZZOG2)
- - ⏩ [Nice jacket!](http://9gag.com/gag/aO88xv3)
- - 👉 [New fear unlocked](http://9gag.com/gag/a7oowx2)<!-- MEMES:END -->
+ - 💣 [History fact](http://9gag.com/gag/ajPPg0G)
+ - ⏩ [Would you try one of these?](http://9gag.com/gag/aGyyd2Z)
+ - 👉 [Love Story lol](http://9gag.com/gag/aqyyKQP)<!-- MEMES:END -->
 
 ---
 
