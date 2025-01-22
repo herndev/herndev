@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung launches a kid-friendly mode for the Galaxy Watch 7](https://www.theverge.com/2025/1/22/24349330/samsung-galaxy-watch-7-kids-smartwatch-wear-os)
- - [YouTube Premium gets more experimental features that can now be tested all at once](https://www.theverge.com/2025/1/22/24349329/youtube-premium-test-multiple-new-experimental-features)
- - [Source: OpenAI plans to release a new ChatGPT feature called Operator this week to automate complex tasks typically done via a web browser &lpar;Stephanie Palazzolo/The Information&rpar;](http://www.techmeme.com/250122/p18#a250122p18)<!-- TECH:END -->
+ - [Catch the best Samsung Galaxy Watch FE deal yet at $60 off](https://www.androidauthority.com/samsung-galaxy-watch-fe-deal-3519234/)
+ - [Insomniac Games founder and CEO Ted Price plans to step down from the Sony-owned studio after 30+ years; a trio of Insomniac veterans will serve as co-heads &lpar;Jennifer Maas/Variety&rpar;](http://www.techmeme.com/250122/p23#a250122p23)
+ - [Dust off your PS1 collection for the FPGA SuperDock](https://www.androidauthority.com/superdock-fpga-ps1-3519192/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
