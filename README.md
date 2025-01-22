@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Share your apples with us](http://9gag.com/gag/a6ZZOG2)
+ - 💣 [A thousand words communicated with just a smile](http://9gag.com/gag/aPAAYVV)
  - ⏩ [How high voltage leaks are detected inside big power grids](http://9gag.com/gag/aLnnjmW)
- - 👉 [Eat Meat](http://9gag.com/gag/aLnngEz)<!-- MEMES:END -->
+ - 👉 [Should learn anger management from this guy](http://9gag.com/gag/ajPP5Qg)<!-- MEMES:END -->
 
 ---
 
