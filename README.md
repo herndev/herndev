@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Genshin Impact codes for January 2025](https://www.polygon.com/genshin-impact-guides/479183/codes-redeem-redemption-gift-primogems)
- - [This &#39;physics-based survival city builder&#39; stuffed all my favorite words into its title so I&#39;m automatically psyched](https://www.pcgamer.com/games/city-builder/this-physics-based-survival-city-builder-stuffed-all-my-favorite-words-into-its-title-so-im-automatically-psyched/)
- - [Judero devs say their next game is about ‘hopefulness’ and ‘community’](https://www.polygon.com/gaming/512296/judero-team-next-game-mashina)<!-- GAME:END -->
+ - [&#39;PC development has skyrocketed,&#39; GDC survey finds: 80% of developers are now making games for PC, more than double the number working on PS5 or Xbox games](https://www.pcgamer.com/gaming-industry/pc-development-has-skyrocketed-gdc-survey-finds-80-percent-of-developers-are-now-making-games-for-pc-more-than-double-the-number-working-on-ps5-or-xbox-games/)
+ - [Indiana Jones And The Great Circle: How To Solve The ‘A Date To Remember’ Puzzle](https://kotaku.com/indiana-jones-great-circle-date-to-remember-code-puzzle-1851745449)
+ - [How to use the Armory to save and change builds in Diablo 4](https://www.polygon.com/diablo-4-guides/511980/armory-save-change-builds-locations)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
