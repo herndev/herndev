@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Trump administration removed all advisory committee members within the DHS, including those in CISA and CSRB, which was investigating Salt Typhoon &lpar;Becky Bracken/Dark Reading&rpar;](http://www.techmeme.com/250122/p3#a250122p3)
- - [Sources: Google is investing over $1B more in Anthropic, which is also nearing a further $2B funding round from Lightspeed and other VCs at a ~$60B valuation &lpar;Financial Times&rpar;](http://www.techmeme.com/250122/p2#a250122p2)
- - [DealStreetAsia: Southeast Asian startups raised $4.56B in 2024, down 42% YoY and falling to a fifth of a 2021 peak, as the number of deals fell 10% YoY to 633 &lpar;Tsubasa Suruga/Nikkei Asia&rpar;](http://www.techmeme.com/250122/p1#a250122p1)<!-- TECH:END -->
+ - [Truecaller rolls out real-time caller ID to its ~750K iOS subscribers, who account for 40% of its revenue; Truecaller has 2.6M+ paying subscribers in total &lpar;TechCrunch&rpar;](http://www.techmeme.com/250122/p5#a250122p5)
+ - [Netflix says happy new year, here’s a price increase for you.](https://www.androidauthority.com/netflix-price-increase-2025-3518407/)
+ - [Microsoft to buy 3.5M carbon credits, estimated to be worth about $200M, from Re.green over 25 years to restore parts of Brazil&#39;s Amazon and Atlantic forests &lpar;Kenza Bryan/Financial Times&rpar;](http://www.techmeme.com/250122/p4#a250122p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
