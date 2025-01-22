@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [One UI 7 stable is finally here, with Now Bar, vertical app drawer, and more!](https://www.androidauthority.com/one-ui-7-stable-3518541/)
- - [A live blog of Samsung Galaxy Unpacked 2025, where Samsung is expected to announce the Galaxy S25 lineup, new Galaxy AI features, and more &lpar;Cherlynn Low/Engadget&rpar;](http://www.techmeme.com/250122/p26#a250122p26)
- - [Pixel 4a’s surprise battery update is turning into its “update of death”](https://www.androidauthority.com/google-pixel-4a-battery-update-of-death-3519149/)<!-- TECH:END -->
+ - [Samsung banks on a hybrid AI strategy, using Google features backed by Gemini and internally developed AI features for One UI 7, to spur smartphone demand &lpar;Bloomberg&rpar;](http://www.techmeme.com/250122/p35#a250122p35)
+ - [Does the Samsung Galaxy S25 series support eSIM and dual-SIM?](https://www.androidauthority.com/samsung-galaxy-s25-esim-dual-sim-3518891/)
+ - [Samsung&#39;s mobile chief TM Roh says Samsung and Google are working on AR glasses, but doesn&#39;t provide further details or a launch timeframe &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/250122/p34#a250122p34)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
