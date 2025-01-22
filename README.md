@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Here’s how the new Galaxy S25 stacks up to the S25 Plus and S25 Ultra](https://www.theverge.com/24345428/samsung-galaxy-s25-plus-ultra-specs-comparison-price)
- - [Best Melatonin Supplements of 2025](https://www.cnet.com/health/nutrition/best-melatonin-supplements/#ftag=CAD590a51e)
- - [Sources: OpenAI is working on an advanced AI coding assistant that can replicate a Level 6 engineer and relies in part on the company&#39;s o1 reasoning model &lpar;The Information&rpar;](http://www.techmeme.com/250122/p44#a250122p44)<!-- TECH:END -->
+ - [Samsung teases its long-rumored triple-screen phone at Galaxy Unpacked](https://www.androidauthority.com/samsung-teases-triple-screen-foldable-3519410/)
+ - [An analysis of two years of episodes by nine prominent podcasters shows how they became mainstream sources for young men and rallied support for Trump&#39;s agenda &lpar;Bloomberg&rpar;](http://www.techmeme.com/250122/p45#a250122p45)
+ - [Nvidia’s triple-fan GPU cooler was one step along the way to a slimmer RTX 5090](https://www.theverge.com/2025/1/22/24349781/nvidia-quad-slot-titan-ada-4090-gpu-cooler-prototype-real)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
