@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The PowerSchool hacker claims that they stole personal data of 62.4M students and 9.5M teachers; in a private customer FAQ, PowerSchool said it paid a ransom &lpar;Lawrence Abrams/BleepingComputer&rpar;](http://www.techmeme.com/250122/p42#a250122p42)
- - [Boost Mobile is offering Galaxy S25 buyers a year of free service and $1,000 in savings](https://www.androidauthority.com/galaxy-s25-boost-mobile-offers-3519365/)
- - [Samsung Galaxy S25 vs iPhone 16: This is the one I’d get](https://www.androidauthority.com/samsung-galaxy-s25-vs-iphone-16-plus-3518173/)<!-- TECH:END -->
+ - [Here’s how the new Galaxy S25 stacks up to the S25 Plus and S25 Ultra](https://www.theverge.com/24345428/samsung-galaxy-s25-plus-ultra-specs-comparison-price)
+ - [Best Melatonin Supplements of 2025](https://www.cnet.com/health/nutrition/best-melatonin-supplements/#ftag=CAD590a51e)
+ - [Sources: OpenAI is working on an advanced AI coding assistant that can replicate a Level 6 engineer and relies in part on the company&#39;s o1 reasoning model &lpar;The Information&rpar;](http://www.techmeme.com/250122/p44#a250122p44)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
