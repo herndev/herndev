@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Looking for this Cinderella](http://9gag.com/gag/a0eeooZ)
- - ⏩ [I guess](http://9gag.com/gag/a2vvKBe)
- - 👉 [Good](http://9gag.com/gag/aqyyRnY)<!-- MEMES:END -->
+ - 💣 [I guess](http://9gag.com/gag/a2vvKBe)
+ - ⏩ [Harvesting durian](http://9gag.com/gag/aD224QO)
+ - 👉 [Congratulations. What sport by the way?](http://9gag.com/gag/an77Q15)<!-- MEMES:END -->
 
 ---
 
