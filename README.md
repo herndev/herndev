@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Survey of 3,000+ game devs: 11% were laid off in the past year, 58% back unionization, 30% say generative AI is having a negative impact on the industry, more &lpar;Dean Takahashi/VentureBeat&rpar;](http://www.techmeme.com/250121/p30#a250121p30)
- - [Marvel Snap is back online in the US after outage caused by the TikTok ban](https://appleinsider.com/articles/25/01/21/marvel-snap-is-back-online-in-the-us-after-outage-caused-by-the-tiktok-ban?utm_medium=rss)
- - [Trump says he’s open to Musk or Ellison buying TikTok](https://www.theverge.com/2025/1/21/24349011/trump-elon-musk-larry-ellison-oracle-tiktok-ban)<!-- TECH:END -->
+ - [Render, which offers developers cloud services for building, deploying, and running apps and websites, raised an $80M Series C led by Georgian &lpar;Mike Wheatley/SiliconANGLE&rpar;](http://www.techmeme.com/250121/p34#a250121p34)
+ - [Here’s what Bambu will — and won’t — promise after its controversial 3D printer update](https://www.theverge.com/2025/1/21/24349031/bambu-3d-printer-update-authentication-filament-subscription-lock-answers)
+ - [Trump pardons Silk Road operator Ross Ulbricht](https://www.theverge.com/2025/1/21/24349080/trump-pardon-silk-road-dark-web-drug-marketplace-ross-ulbricht)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
