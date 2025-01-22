@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Adobe Premiere Pro now lets you find video clips by describing them](https://www.theverge.com/2025/1/22/24349299/adobe-premiere-pro-after-effects-media-intelligence-search)
- - [Best Vitamins for Healthy Hair, Skin and Nails in 2025](https://www.cnet.com/health/nutrition/best-vitamins-for-hair-skin-and-nails/#ftag=CAD590a51e)
- - [London-based Vertice, which offers an AI-powered SaaS spend platform, raised a $50M Series C led by Lakestar, taking its total funding to ~$100M &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/250122/p16#a250122p16)<!-- TECH:END -->
+ - [Silo’s season 2 finale was excellent, but the show is running out of time](https://www.theverge.com/24349341/silo-season-2-finale-review)
+ - [Sega is the next game company asking you to make an account](https://www.theverge.com/2025/1/22/24349351/sega-account-game-bonuses-news-promotions-events)
+ - [New UK ID app yet again fumbles tech that Apple has already perfected](https://appleinsider.com/articles/25/01/22/new-uk-id-app-yet-again-fumbles-tech-that-apple-has-already-perfected?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
