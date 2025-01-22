@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I guess](http://9gag.com/gag/a2vvKBe)
+ - 💣 [For side money!](http://9gag.com/gag/a2vv7PO)
  - ⏩ [Confusion](http://9gag.com/gag/aKGGEvW)
- - 👉 [For side money!](http://9gag.com/gag/a2vv7PO)<!-- MEMES:END -->
+ - 👉 [LED guy really is something else](http://9gag.com/gag/aO88Q5N)<!-- MEMES:END -->
 
 ---
 
