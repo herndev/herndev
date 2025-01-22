@@ -47,7 +47,7 @@
 
 <!-- MEMES:START -->
  - 💣 [Share your apples with us](http://9gag.com/gag/a6ZZOG2)
- - ⏩ [Wild genetics...](http://9gag.com/gag/axyy97W)
+ - ⏩ [Nice jacket!](http://9gag.com/gag/aO88xv3)
  - 👉 [New fear unlocked](http://9gag.com/gag/a7oowx2)<!-- MEMES:END -->
 
 ---
