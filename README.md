@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Amazon deals on Apple: $23 AirTag, up to $250 off MacBooks, $300 off iPad Pro](https://appleinsider.com/articles/25/01/21/best-amazon-deals-on-apple-23-airtag-up-to-250-off-macbooks-300-off-ipad-pro?utm_medium=rss)
- - [OpenAI and Softbank are starting a $500 billion AI data center company](https://www.theverge.com/2025/1/21/24348816/openai-softbank-ai-data-center-stargate-project)
- - [How Meta Tried To Lure TikTok Users To Instagram](https://www.wired.com/story/how-meta-tried-to-lure-tiktok-users-to-instagram/)<!-- TECH:END -->
+ - [Survey of 3,000+ game devs: 11% were laid off in the past year, 58% back unionization, 30% say generative AI is having a negative impact on the industry, more &lpar;Dean Takahashi/VentureBeat&rpar;](http://www.techmeme.com/250121/p30#a250121p30)
+ - [Marvel Snap is back online in the US after outage caused by the TikTok ban](https://appleinsider.com/articles/25/01/21/marvel-snap-is-back-online-in-the-us-after-outage-caused-by-the-tiktok-ban?utm_medium=rss)
+ - [Trump says he’s open to Musk or Ellison buying TikTok](https://www.theverge.com/2025/1/21/24349011/trump-elon-musk-larry-ellison-oracle-tiktok-ban)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
