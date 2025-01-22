@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Nice brake check bro](http://9gag.com/gag/aAyyG2L)
- - ⏩ [Congratulations. What sport by the way?](http://9gag.com/gag/an77Q15)
- - 👉 [Harvesting durian](http://9gag.com/gag/aD224QO)<!-- MEMES:END -->
+ - 💣 [Remember why Trump got re-elected](http://9gag.com/gag/a7ooq9r)
+ - ⏩ [Nice brake check bro](http://9gag.com/gag/aAyyG2L)
+ - 👉 [Congratulations. What sport by the way?](http://9gag.com/gag/an77Q15)<!-- MEMES:END -->
 
 ---
 
