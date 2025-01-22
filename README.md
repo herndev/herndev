@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Minecraft Getting Hello Kitty and Friends DLC](https://www.minecraft.net/article/hello-kitty-and-friends-dlc#new_tab)
- - [Nosferatu hitmaker Robert Eggers finds a spiritual sequel in Werwulf](https://www.polygon.com/movies/512247/nosferatu-robert-eggers-werewulf)
- - [Family Guy Creator Explains One Of Its Most Random Jokes](https://kotaku.com/family-guy-seth-mcfarlane-insists-upon-itself-godfather-1851745240)<!-- GAME:END -->
+ - [Genshin Impact codes for January 2025](https://www.polygon.com/genshin-impact-guides/479183/codes-redeem-redemption-gift-primogems)
+ - [This &#39;physics-based survival city builder&#39; stuffed all my favorite words into its title so I&#39;m automatically psyched](https://www.pcgamer.com/games/city-builder/this-physics-based-survival-city-builder-stuffed-all-my-favorite-words-into-its-title-so-im-automatically-psyched/)
+ - [Judero devs say their next game is about ‘hopefulness’ and ‘community’](https://www.polygon.com/gaming/512296/judero-team-next-game-mashina)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
