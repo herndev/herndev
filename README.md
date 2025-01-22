@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [It\u2019s never been easier to be successful. Your competition is so weak they can\u2019t even focus for 2 minutes.](http://9gag.com/gag/aO8873R)
+ - 💣 [This tennis player made a move mid-game that was unlikely to happen](http://9gag.com/gag/apRR9Rb)
  - ⏩ [Harvesting durian](http://9gag.com/gag/aD224QO)
- - 👉 [Would you try one of these?](http://9gag.com/gag/aGyyd2Z)<!-- MEMES:END -->
+ - 👉 [This video demonstrates how grapes in Afghanistan can be preserved for a period of up to six months using a traditional method called Kangina](http://9gag.com/gag/a7oow1b)<!-- MEMES:END -->
 
 ---
 
