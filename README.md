@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [In 2024, Cloudflare&#39;s autonomous DDoS defense systems blocked 21.3M DDoS attacks, up 53% YoY, and 420 DDoS attacks in Q4 2024 exceeded 1 Tbps, up 1,885% QoQ &lpar;The Cloudflare Blog&rpar;](http://www.techmeme.com/250122/p10#a250122p10)
- - [Eager to attract investments, politicians in Brazil, India, and other non-Western nations with nascent AI regulations have warmly welcomed major AI companies &lpar;Rest of World&rpar;](http://www.techmeme.com/250122/p9#a250122p9)
- - [Best Clothing Subscription Boxes for 2025](https://www.cnet.com/tech/services-and-software/best-clothing-subscription-boxes/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [UK CMA Chair Marcus Bokkerink plans to leave the antitrust agency, after pressure from UK ministers; the CMA appoints ex-Amazon exec Doug Gurr as interim chair &lpar;Financial Times&rpar;](http://www.techmeme.com/250122/p11#a250122p11)
+ - [Best Exercise Bikes for 2025](https://www.cnet.com/health/fitness/best-exercise-bike/#ftag=CAD590a51e)
+ - [There&#39;s Still Time to Jump on APYs as High as 5%. Today&#39;s Best Savings Rates for Jan. 22, 2025](https://www.cnet.com/personal-finance/banking/theres-still-time-to-jump-on-apys-as-high-as-5-todays-best-savings-rates-for-jan-22-2025/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
