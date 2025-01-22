@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Best Necromancer builds in Diablo 4 season 7](https://www.polygon.com/diablo-4-guides/23656235/necromancer-best-build-skills)
- - [Best Rogue builds in Diablo 4 season 7](https://www.polygon.com/diablo-4-guides/23650988/rogue-best-build-skills)
- - [Best Spiritborn builds in Diablo 4 season 7](https://www.polygon.com/diablo-4-guides/458375/spiritborn-best-build-skills)<!-- GAME:END -->
+ - [Peter Dinklage’s ultra-gory Toxic Avenger movie is finally headed to theaters](https://www.polygon.com/movies/511904/toxic-avenger-2025-release-peter-dinklage-new-movie)
+ - [Steam reviewers finally trolled me: I bought a game they called &#39;calm&#39; and &#39;relaxing&#39; before I noticed those were the &#39;funny&#39; reviews](https://www.pcgamer.com/games/steam-reviewers-finally-trolled-me-i-bought-a-game-they-called-calm-and-relaxing-because-i-didnt-notice-those-were-the-funny-reviews/)
+ - [Civilization 7: Everything we know about the first new Civ game in nearly a decade](https://www.pcgamer.com/games/strategy/civilization-7-release-date-ages-changes/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
