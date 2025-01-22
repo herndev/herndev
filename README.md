@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Call of Duty: Black Ops 6 and Warzone Season 02: What You Need to Know](https://www.callofduty.com/blog/2025/01/call-of-duty-black-ops-6-warzone-zombies-season-two-maps-modes-announcement#new_tab)
- - [Quad-slot prototype enabled Nvidia to achieve &#39;mission impossible&#39; with RTX 5090 GPU&#39;s dual-slot cooler](https://www.pcgamer.com/hardware/graphics-cards/quad-slot-prototype-enabled-nvidia-to-achieve-mission-impossible-with-rtx-5090-gpus-dual-slot-cooler/)
- - [Microsoft Edge Game Assist hits Stable release so you can now use it to pin videos in-game without setting it as your default browser](https://www.pcgamer.com/software/game-assist-hits-stable-release-so-you-can-now-use-it-to-pin-videos-in-game-without-setting-microsoft-edge-as-your-default-browser/)<!-- GAME:END -->
+ - [Minecraft Getting Hello Kitty and Friends DLC](https://www.minecraft.net/article/hello-kitty-and-friends-dlc#new_tab)
+ - [Nosferatu hitmaker Robert Eggers finds a spiritual sequel in Werwulf](https://www.polygon.com/movies/512247/nosferatu-robert-eggers-werewulf)
+ - [Family Guy Creator Explains One Of Its Most Random Jokes](https://kotaku.com/family-guy-seth-mcfarlane-insists-upon-itself-godfather-1851745240)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
