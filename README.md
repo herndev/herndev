@@ -47,7 +47,7 @@
 
 <!-- MEMES:START -->
  - 💣 [Share your apples with us](http://9gag.com/gag/a6ZZOG2)
- - ⏩ [Is that the future?](http://9gag.com/gag/adBBVD2)
+ - ⏩ [Wild genetics...](http://9gag.com/gag/axyy97W)
  - 👉 [New fear unlocked](http://9gag.com/gag/a7oowx2)<!-- MEMES:END -->
 
 ---
