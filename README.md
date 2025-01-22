@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Render, which offers developers cloud services for building, deploying, and running apps and websites, raised an $80M Series C led by Georgian &lpar;Mike Wheatley/SiliconANGLE&rpar;](http://www.techmeme.com/250121/p34#a250121p34)
- - [Here’s what Bambu will — and won’t — promise after its controversial 3D printer update](https://www.theverge.com/2025/1/21/24349031/bambu-3d-printer-update-authentication-filament-subscription-lock-answers)
- - [Trump pardons Silk Road operator Ross Ulbricht](https://www.theverge.com/2025/1/21/24349080/trump-pardon-silk-road-dark-web-drug-marketplace-ross-ulbricht)<!-- TECH:END -->
+ - [Sources: ByteDance plans to spend ~$5.5B to acquire AI chips in China in 2025, double the amount spent in 2024, with ~60% going to Chinese suppliers like Huawei &lpar;Financial Times&rpar;](http://www.techmeme.com/250121/p35#a250121p35)
+ - [7 of the Best Soft Mattresses of 2025](https://www.cnet.com/health/sleep/best-soft-mattress/#ftag=CAD590a51e)
+ - [Render, which offers developers cloud services for building, deploying, and running apps and websites, raised an $80M Series C led by Georgian &lpar;Mike Wheatley/SiliconANGLE&rpar;](http://www.techmeme.com/250121/p34#a250121p34)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
