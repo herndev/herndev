@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Memo: ByteDance asks Chinese staff in Singapore to pay tax to China or risk losing their ability to cash out on stock options, as China steps up tax enforcement &lpar;Financial Times&rpar;](http://www.techmeme.com/250122/p14#a250122p14)
- - [Google will let you control your Chromebook with your face](https://www.theverge.com/2025/1/22/24348966/google-chromeos-face-control-chromebooks-classroom-features-laptops)
- - [Indonesia&#39;s long iPhone 16 ban may end soon](https://appleinsider.com/articles/25/01/22/indonesias-long-iphone-16-ban-may-end-soon?utm_medium=rss)<!-- TECH:END -->
+ - [M4 Mac mini review three months later: the perfect headless Mac](https://appleinsider.com/articles/25/01/22/m4-mac-mini-review-three-months-later-the-perfect-headless-mac?utm_medium=rss)
+ - [Best Moving Companies of 2025](https://www.cnet.com/home/services/best-moving-companies/#ftag=CAD590a51e)
+ - [13 Foods That Will Give Your Kidney Health a Boost](https://www.cnet.com/health/nutrition/foods-give-kidney-health-boost/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
