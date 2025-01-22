@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Your new Galaxy S25 comes with a free Gemini Advanced upgrade](https://www.androidauthority.com/galaxy-s25-gemini-advanced-3519325/)
- - [This is the Samsung Galaxy S25 Edge](https://www.theverge.com/2025/1/22/24349658/samsung-galaxy-s25-edge-photos-unpacked)
- - [Samsung&#39;s Galaxy S25 lineup will be the first handsets to support the Content Credentials standard, which identifies AI-generated images &lpar;Brian Heater/TechCrunch&rpar;](http://www.techmeme.com/250122/p39#a250122p39)<!-- TECH:END -->
+ - [The PowerSchool hacker claims that they stole personal data of 62.4M students and 9.5M teachers; in a private customer FAQ, PowerSchool said it paid a ransom &lpar;Lawrence Abrams/BleepingComputer&rpar;](http://www.techmeme.com/250122/p42#a250122p42)
+ - [Boost Mobile is offering Galaxy S25 buyers a year of free service and $1,000 in savings](https://www.androidauthority.com/galaxy-s25-boost-mobile-offers-3519365/)
+ - [Samsung Galaxy S25 vs iPhone 16: This is the one I’d get](https://www.androidauthority.com/samsung-galaxy-s25-vs-iphone-16-plus-3518173/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
