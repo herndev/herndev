@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Great Polish show, I&#39;ll watch again 9/10](http://9gag.com/gag/apRRgnE)
- - ⏩ [Yess !!! You talking to me](http://9gag.com/gag/avyyA8O)
- - 👉 [The accent.](http://9gag.com/gag/aoyyggX)<!-- MEMES:END -->
+ - 💣 [Two types of autism](http://9gag.com/gag/aNDD0x4)
+ - ⏩ [Jeff Bezos Struggles With His Skin](http://9gag.com/gag/a2vvRDw)
+ - 👉 [Eat Meat](http://9gag.com/gag/aLnngEz)<!-- MEMES:END -->
 
 ---
 
