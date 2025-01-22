@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This tennis player made a move mid-game that was unlikely to happen](http://9gag.com/gag/apRR9Rb)
- - ⏩ [Harvesting durian](http://9gag.com/gag/aD224QO)
- - 👉 [This video demonstrates how grapes in Afghanistan can be preserved for a period of up to six months using a traditional method called Kangina](http://9gag.com/gag/a7oow1b)<!-- MEMES:END -->
+ - 💣 [People on twitter these days man](http://9gag.com/gag/a7oowoq)
+ - ⏩ [Is that the future?](http://9gag.com/gag/adBBVD2)
+ - 👉 [This tennis player made a move mid-game that was unlikely to happen](http://9gag.com/gag/apRR9Rb)<!-- MEMES:END -->
 
 ---
 
