@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Ascendant brings a unique spin to the bullet hell dungeon crawler with its huge item stash and extensive build crafting for new and deadly synergies](https://www.pcgamer.com/games/ascendant-brings-a-unique-spin-to-the-bullet-hell-dungeon-crawler-with-its-huge-item-stash-and-extensive-build-crafting-for-new-and-deadly-synergies/)
  - [Today&#39;s Wordle answer for Wednesday, January 22](https://www.pcgamer.com/games/puzzle/wordle-answer-today-january-22-2025/)
- - [The biggest PC gaming subreddit has blacklisted X for being &#39;hateful&#39; and &#39;toxic&#39;, citing Elon Musk&#39;s &#39;distasteful&#39; behavior](https://www.pcgamer.com/gaming-industry/the-biggest-pc-gaming-subreddit-has-blacklisted-x-for-being-hateful-and-toxic-citing-elon-musks-distasteful-behavior/)
- - [&#39;Stargate&#39; is now a real thing, but sadly not a portal to an alien planet: A bunch of tech companies plan to spend $500 billion building AI data centers](https://www.pcgamer.com/gaming-industry/stargate-is-now-a-real-thing-but-sadly-not-a-portal-to-an-alien-planet-a-bunch-of-tech-companies-plan-to-spend-usd500-billion-building-ai-data-centers/)<!-- GAME:END -->
+ - [The biggest PC gaming subreddit has blacklisted X for being &#39;hateful&#39; and &#39;toxic&#39;, citing Elon Musk&#39;s &#39;distasteful&#39; behavior](https://www.pcgamer.com/gaming-industry/the-biggest-pc-gaming-subreddit-has-blacklisted-x-for-being-hateful-and-toxic-citing-elon-musks-distasteful-behavior/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
