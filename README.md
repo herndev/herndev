@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Poor guy was just trying to do his job](http://9gag.com/gag/aoyyN3m)
- - ⏩ [People on twitter these days man](http://9gag.com/gag/a7oowoq)
- - 👉 [Share your apples with us](http://9gag.com/gag/a6ZZOG2)<!-- MEMES:END -->
+ - 💣 [Eat Meat](http://9gag.com/gag/aLnngEz)
+ - ⏩ [*Beats Greyhound and Amtrak combined!](http://9gag.com/gag/avyyzrZ)
+ - 👉 [Be smart, dudes](http://9gag.com/gag/ajPPmGw)<!-- MEMES:END -->
 
 ---
 
