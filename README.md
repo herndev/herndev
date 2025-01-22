@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Star Wars Episode I: Jedi Power Battles launches tomorrow – cheat codes and modernized controls revealed](https://blog.playstation.com/2025/01/22/star-wars-episode-i-jedi-power-battles-launches-tomorrow-cheat-codes-and-modernized-controls-revealed/)
- - [If you thought PCIe Gen 5 SSDs were a little pointless, don&#39;t worry, here comes 32 GB&#39;s worth of Gen 6 technology](https://www.pcgamer.com/hardware/ssds/if-you-thought-pcie-gen-5-ssds-were-a-little-pointless-dont-worry-here-comes-32-gbs-worth-of-gen-6-technology/)
- - [Diablo 4 meets Vampire Survivors in this clever roguelike that makes every round its own epic viking adventure](https://www.pcgamer.com/games/roguelike/diablo-4-meets-vampire-survivors-in-this-clever-roguelike-that-makes-every-round-its-own-epic-viking-adventure/)<!-- GAME:END -->
+ - [Marvel Rivals players are coming together to decide their least favourite map, and the loser will surprise no one: &#39;It’s the worst in the game&#39;](https://www.pcgamer.com/games/third-person-shooter/marvel-rivals-players-are-coming-together-to-decide-their-least-favourite-map-and-the-loser-will-surprise-no-one-its-the-worst-in-the-game/)
+ - [Chappell Roan’s idea of a good time is eating an edible then playing Fortnite as Ariana Grande, and she has a simple message for Epic: &#39;Please give me a skin, please&#39;](https://www.pcgamer.com/games/chappell-roans-idea-of-a-good-time-is-eating-an-edible-then-playing-fortnite-as-ariana-grande-and-she-has-a-simple-message-for-epic-please-give-me-a-skin-please/)
+ - [Star Wars Episode I: Jedi Power Battles launches tomorrow – cheat codes and modernized controls revealed](https://blog.playstation.com/2025/01/22/star-wars-episode-i-jedi-power-battles-launches-tomorrow-cheat-codes-and-modernized-controls-revealed/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
