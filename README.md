@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [The Borderlands movie gets 6 &#39;Razzie&#39; nominations including Worst Picture, plus 2 separate nominations just for Jack Black&#39;s acting as Claptrap](https://www.pcgamer.com/movies-tv/the-borderlands-movie-gets-6-razzie-nominations-including-worst-picture-plus-2-separate-nominations-just-for-jack-blacks-acting-as-claptrap/)
  - [Blade Chimera ditches the usual metroidvania progression in favour of a radical idea: skipping straight to the good stuff](https://www.pcgamer.com/games/action/blade-chimera-ditches-the-usual-metroidvania-progression-in-favour-of-a-radical-idea-skipping-straight-to-the-good-stuff/)
- - [Peter Dinklage’s ultra-gory Toxic Avenger movie is finally headed to theaters](https://www.polygon.com/movies/511904/toxic-avenger-2025-release-peter-dinklage-new-movie)
- - [Steam reviewers finally trolled me: I bought a game they called &#39;calm&#39; and &#39;relaxing&#39; before I noticed those were the &#39;funny&#39; reviews](https://www.pcgamer.com/games/steam-reviewers-finally-trolled-me-i-bought-a-game-they-called-calm-and-relaxing-because-i-didnt-notice-those-were-the-funny-reviews/)<!-- GAME:END -->
+ - [Peter Dinklage’s ultra-gory Toxic Avenger movie is finally headed to theaters](https://www.polygon.com/movies/511904/toxic-avenger-2025-release-peter-dinklage-new-movie)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
