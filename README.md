@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [M4 Mac mini review three months later: the perfect headless Mac](https://appleinsider.com/articles/25/01/22/m4-mac-mini-review-three-months-later-the-perfect-headless-mac?utm_medium=rss)
- - [Best Moving Companies of 2025](https://www.cnet.com/home/services/best-moving-companies/#ftag=CAD590a51e)
- - [13 Foods That Will Give Your Kidney Health a Boost](https://www.cnet.com/health/nutrition/foods-give-kidney-health-boost/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Adobe Premiere Pro now lets you find video clips by describing them](https://www.theverge.com/2025/1/22/24349299/adobe-premiere-pro-after-effects-media-intelligence-search)
+ - [Best Vitamins for Healthy Hair, Skin and Nails in 2025](https://www.cnet.com/health/nutrition/best-vitamins-for-hair-skin-and-nails/#ftag=CAD590a51e)
+ - [London-based Vertice, which offers an AI-powered SaaS spend platform, raised a $50M Series C led by Lakestar, taking its total funding to ~$100M &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/250122/p16#a250122p16)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
