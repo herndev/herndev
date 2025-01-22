@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Harvesting durian](http://9gag.com/gag/aD224QO)
- - ⏩ [New fear unlocked](http://9gag.com/gag/a7oowx2)
- - 👉 [Hmmmm](http://9gag.com/gag/azxx9gz)<!-- MEMES:END -->
+ - 💣 [Share your apples with us](http://9gag.com/gag/a6ZZOG2)
+ - ⏩ [Is that the future?](http://9gag.com/gag/adBBVD2)
+ - 👉 [New fear unlocked](http://9gag.com/gag/a7oowx2)<!-- MEMES:END -->
 
 ---
 
