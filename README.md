@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Borderlands movie gets 6 &#39;Razzie&#39; nominations including Worst Picture, plus 2 separate nominations just for Jack Black&#39;s acting as Claptrap](https://www.pcgamer.com/movies-tv/the-borderlands-movie-gets-6-razzie-nominations-including-worst-picture-plus-2-separate-nominations-just-for-jack-blacks-acting-as-claptrap/)
- - [Blade Chimera ditches the usual metroidvania progression in favour of a radical idea: skipping straight to the good stuff](https://www.pcgamer.com/games/action/blade-chimera-ditches-the-usual-metroidvania-progression-in-favour-of-a-radical-idea-skipping-straight-to-the-good-stuff/)
- - [Peter Dinklage’s ultra-gory Toxic Avenger movie is finally headed to theaters](https://www.polygon.com/movies/511904/toxic-avenger-2025-release-peter-dinklage-new-movie)<!-- GAME:END -->
+ - [The biggest PC gaming subreddit has blacklisted X for being &#39;hateful&#39; and &#39;toxic&#39;, citing Elon Musk&#39;s &#39;distasteful&#39; behavior](https://www.pcgamer.com/gaming-industry/the-biggest-pc-gaming-subreddit-has-blacklisted-x-for-being-hateful-and-toxic-citing-elon-musks-distasteful-behavior/)
+ - [&#39;Stargate&#39; is now a real thing, but sadly not a portal to an alien planet: A bunch of tech companies plan to spend $500 billion building AI data centers](https://www.pcgamer.com/gaming-industry/stargate-is-now-a-real-thing-but-sadly-not-a-portal-to-an-alien-planet-a-bunch-of-tech-companies-plan-to-spend-usd500-billion-building-ai-data-centers/)
+ - [The Borderlands movie gets 6 &#39;Razzie&#39; nominations including Worst Picture, plus 2 separate nominations just for Jack Black&#39;s acting as Claptrap](https://www.pcgamer.com/movies-tv/the-borderlands-movie-gets-6-razzie-nominations-including-worst-picture-plus-2-separate-nominations-just-for-jack-blacks-acting-as-claptrap/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
