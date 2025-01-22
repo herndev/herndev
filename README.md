@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Catch the best Samsung Galaxy Watch FE deal yet at $60 off](https://www.androidauthority.com/samsung-galaxy-watch-fe-deal-3519234/)
- - [Insomniac Games founder and CEO Ted Price plans to step down from the Sony-owned studio after 30+ years; a trio of Insomniac veterans will serve as co-heads &lpar;Jennifer Maas/Variety&rpar;](http://www.techmeme.com/250122/p23#a250122p23)
- - [Dust off your PS1 collection for the FPGA SuperDock](https://www.androidauthority.com/superdock-fpga-ps1-3519192/)<!-- TECH:END -->
+ - [One UI 7 stable is finally here, with Now Bar, vertical app drawer, and more!](https://www.androidauthority.com/one-ui-7-stable-3518541/)
+ - [A live blog of Samsung Galaxy Unpacked 2025, where Samsung is expected to announce the Galaxy S25 lineup, new Galaxy AI features, and more &lpar;Cherlynn Low/Engadget&rpar;](http://www.techmeme.com/250122/p26#a250122p26)
+ - [Pixel 4a’s surprise battery update is turning into its “update of death”](https://www.androidauthority.com/google-pixel-4a-battery-update-of-death-3519149/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
