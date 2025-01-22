@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [People on twitter these days man](http://9gag.com/gag/a7oowoq)
- - ⏩ [Is that the future?](http://9gag.com/gag/adBBVD2)
- - 👉 [This tennis player made a move mid-game that was unlikely to happen](http://9gag.com/gag/apRR9Rb)<!-- MEMES:END -->
+ - 💣 [I guess](http://9gag.com/gag/a2vvKBe)
+ - ⏩ [Confusion](http://9gag.com/gag/aKGGEvW)
+ - 👉 [For side money!](http://9gag.com/gag/a2vv7PO)<!-- MEMES:END -->
 
 ---
 
