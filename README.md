@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Marvel Rivals players are coming together to decide their least favourite map, and the loser will surprise no one: &#39;It’s the worst in the game&#39;](https://www.pcgamer.com/games/third-person-shooter/marvel-rivals-players-are-coming-together-to-decide-their-least-favourite-map-and-the-loser-will-surprise-no-one-its-the-worst-in-the-game/)
- - [Chappell Roan’s idea of a good time is eating an edible then playing Fortnite as Ariana Grande, and she has a simple message for Epic: &#39;Please give me a skin, please&#39;](https://www.pcgamer.com/games/chappell-roans-idea-of-a-good-time-is-eating-an-edible-then-playing-fortnite-as-ariana-grande-and-she-has-a-simple-message-for-epic-please-give-me-a-skin-please/)
- - [Star Wars Episode I: Jedi Power Battles launches tomorrow – cheat codes and modernized controls revealed](https://blog.playstation.com/2025/01/22/star-wars-episode-i-jedi-power-battles-launches-tomorrow-cheat-codes-and-modernized-controls-revealed/)<!-- GAME:END -->
+ - [Mere months after Sonic the Hedgehog 3&#39;s release, we already have an exact date for its sequel](https://www.pcgamer.com/movies-tv/mere-months-after-sonic-the-hedgehog-3s-release-we-already-have-an-exact-date-for-its-sequel/)
+ - [The Civ 6 Anthology is a great way to see what Civ is all about for under $10](https://www.polygon.com/good-deals/511958/civ-6-anthology-pc-steam-sale)
+ - [Film director clarifies that historical epic The Brutalist did use AI during production, but not how you think](https://www.pcgamer.com/hardware/film-director-clarifies-that-historical-epic-the-brutalist-did-use-ai-during-production-but-not-how-you-think/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
