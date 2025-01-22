@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Remember why Trump got re-elected](http://9gag.com/gag/a7ooq9r)
- - ⏩ [Nice brake check bro](http://9gag.com/gag/aAyyG2L)
+ - 💣 [It\u2019s never been easier to be successful. Your competition is so weak they can\u2019t even focus for 2 minutes.](http://9gag.com/gag/aO8873R)
+ - ⏩ [Sorry guys](http://9gag.com/gag/axyy7NL)
  - 👉 [Congratulations. What sport by the way?](http://9gag.com/gag/an77Q15)<!-- MEMES:END -->
 
 ---
