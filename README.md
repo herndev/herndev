@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Nice jacket!](http://9gag.com/gag/aO88xv3)
- - ⏩ [This tennis player made a move mid-game that was unlikely to happen](http://9gag.com/gag/apRR9Rb)
- - 👉 [Nice brake check bro](http://9gag.com/gag/aAyyG2L)<!-- MEMES:END -->
+ - 💣 [Looking for this Cinderella](http://9gag.com/gag/a0eeooZ)
+ - ⏩ [I guess](http://9gag.com/gag/a2vvKBe)
+ - 👉 [Good](http://9gag.com/gag/aqyyRnY)<!-- MEMES:END -->
 
 ---
 
