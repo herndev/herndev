@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Children of Saturn is a game about growing up under the shadow of climate catastrophe](https://www.polygon.com/gaming/511344/children-of-saturn-la-fires-climate-change)
- - [Arrow Lake&#39;s had three months of Windows and BIOS updates to fix its performance, and my testing shows in some games, it&#39;s worse](https://www.pcgamer.com/hardware/processors/arrow-lakes-had-three-months-of-windows-and-bios-updates-to-fix-its-performance-and-my-testing-shows-in-some-games-its-worse/)
- - [How cross-platform multiplayer and cross-saves work in Civilization 7](https://www.polygon.com/civilization-7-guides/509066/cross-platform-multiplayer-cross-saves-civ-7)<!-- GAME:END -->
+ - [Our Resolution Is to Play More Indie Games: Indie Selects for January](https://news.xbox.com/en-us/2025/01/22/indie-selects-id-xbox-january-2025/)
+ - [Where to buy the Nvidia RTX 5090: the hotly-awaited Founders Edition GPUs and chunky third-party cards are already listed at retailers](https://www.pcgamer.com/hardware/graphics-cards/where-to-buy-the-nvidia-rtx-5090-the-hotly-awaited-founders-edition-gpus-and-chunky-third-party-cards-are-already-listed-at-retailers/)
+ - [I built the mullet of gaming PCs with MSI&#39;s Project Zero &#39;Back-Connect&#39; parts](https://www.pcgamer.com/hardware/gaming-pcs/i-built-the-mullet-of-gaming-pcs-with-msis-project-zero-back-connect-parts/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
