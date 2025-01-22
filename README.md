@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung banks on a hybrid AI strategy, using Google features backed by Gemini and internally developed AI features for One UI 7, to spur smartphone demand &lpar;Bloomberg&rpar;](http://www.techmeme.com/250122/p35#a250122p35)
- - [Does the Samsung Galaxy S25 series support eSIM and dual-SIM?](https://www.androidauthority.com/samsung-galaxy-s25-esim-dual-sim-3518891/)
- - [Samsung&#39;s mobile chief TM Roh says Samsung and Google are working on AR glasses, but doesn&#39;t provide further details or a launch timeframe &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/250122/p34#a250122p34)<!-- TECH:END -->
+ - [Your new Galaxy S25 comes with a free Gemini Advanced upgrade](https://www.androidauthority.com/galaxy-s25-gemini-advanced-3519325/)
+ - [This is the Samsung Galaxy S25 Edge](https://www.theverge.com/2025/1/22/24349658/samsung-galaxy-s25-edge-photos-unpacked)
+ - [Samsung&#39;s Galaxy S25 lineup will be the first handsets to support the Content Credentials standard, which identifies AI-generated images &lpar;Brian Heater/TechCrunch&rpar;](http://www.techmeme.com/250122/p39#a250122p39)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
