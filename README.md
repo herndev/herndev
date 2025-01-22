@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [History fact](http://9gag.com/gag/ajPPg0G)
- - ⏩ [Would you try one of these?](http://9gag.com/gag/aGyyd2Z)
- - 👉 [Love Story lol](http://9gag.com/gag/aqyyKQP)<!-- MEMES:END -->
+ - 💣 [Nice brake check bro](http://9gag.com/gag/aAyyG2L)
+ - ⏩ [Congratulations. What sport by the way?](http://9gag.com/gag/an77Q15)
+ - 👉 [Harvesting durian](http://9gag.com/gag/aD224QO)<!-- MEMES:END -->
 
 ---
 
