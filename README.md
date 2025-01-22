@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Ascendant brings a unique spin to the bullet hell dungeon crawler with its huge item stash and extensive build crafting for new and deadly synergies](https://www.pcgamer.com/games/ascendant-brings-a-unique-spin-to-the-bullet-hell-dungeon-crawler-with-its-huge-item-stash-and-extensive-build-crafting-for-new-and-deadly-synergies/)
- - [Today&#39;s Wordle answer for Wednesday, January 22](https://www.pcgamer.com/games/puzzle/wordle-answer-today-january-22-2025/)
- - [The biggest PC gaming subreddit has blacklisted X for being &#39;hateful&#39; and &#39;toxic&#39;, citing Elon Musk&#39;s &#39;distasteful&#39; behavior](https://www.pcgamer.com/gaming-industry/the-biggest-pc-gaming-subreddit-has-blacklisted-x-for-being-hateful-and-toxic-citing-elon-musks-distasteful-behavior/)<!-- GAME:END -->
+ - [Latest Windows 11 Insider Build fixes 24H2 update&#39;s most annoying issues, including Auto HDR bugs and mouse stuttering](https://www.pcgamer.com/software/windows/latest-windows-11-insider-build-fixes-24h2-updates-most-annoying-issues-including-auto-hdr-bugs-and-mouse-stuttering/)
+ - [How to complete the Poison in the Roots quest in Diablo 4](https://www.pcgamer.com/games/rpg/diablo-4-poison-in-the-roots-puzzle/)
+ - [As if I needed any more reason to jump back into Minecraft, a Hello Kitty and Friends DLC has been released](https://www.pcgamer.com/games/sim/as-if-i-needed-any-more-reason-to-jump-back-into-minecraft-a-hello-kitty-and-friends-dlc-has-been-released/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
