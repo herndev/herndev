@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Eat Meat](http://9gag.com/gag/aLnngEz)
- - ⏩ [*Beats Greyhound and Amtrak combined!](http://9gag.com/gag/avyyzrZ)
- - 👉 [Be smart, dudes](http://9gag.com/gag/ajPPmGw)<!-- MEMES:END -->
+ - 💣 [Share your apples with us](http://9gag.com/gag/a6ZZOG2)
+ - ⏩ [How high voltage leaks are detected inside big power grids](http://9gag.com/gag/aLnnjmW)
+ - 👉 [Eat Meat](http://9gag.com/gag/aLnngEz)<!-- MEMES:END -->
 
 ---
 
