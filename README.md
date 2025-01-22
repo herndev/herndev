@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Silo’s season 2 finale was excellent, but the show is running out of time](https://www.theverge.com/24349341/silo-season-2-finale-review)
- - [Sega is the next game company asking you to make an account](https://www.theverge.com/2025/1/22/24349351/sega-account-game-bonuses-news-promotions-events)
- - [New UK ID app yet again fumbles tech that Apple has already perfected](https://appleinsider.com/articles/25/01/22/new-uk-id-app-yet-again-fumbles-tech-that-apple-has-already-perfected?utm_medium=rss)<!-- TECH:END -->
+ - [Samsung launches a kid-friendly mode for the Galaxy Watch 7](https://www.theverge.com/2025/1/22/24349330/samsung-galaxy-watch-7-kids-smartwatch-wear-os)
+ - [YouTube Premium gets more experimental features that can now be tested all at once](https://www.theverge.com/2025/1/22/24349329/youtube-premium-test-multiple-new-experimental-features)
+ - [Source: OpenAI plans to release a new ChatGPT feature called Operator this week to automate complex tasks typically done via a web browser &lpar;Stephanie Palazzolo/The Information&rpar;](http://www.techmeme.com/250122/p18#a250122p18)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
