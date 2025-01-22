@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Two types of autism](http://9gag.com/gag/aNDD0x4)
- - ⏩ [Jeff Bezos Struggles With His Skin](http://9gag.com/gag/a2vvRDw)
- - 👉 [Eat Meat](http://9gag.com/gag/aLnngEz)<!-- MEMES:END -->
+ - 💣 [Harvesting durian](http://9gag.com/gag/aD224QO)
+ - ⏩ [New fear unlocked](http://9gag.com/gag/a7oowx2)
+ - 👉 [Hmmmm](http://9gag.com/gag/azxx9gz)<!-- MEMES:END -->
 
 ---
 
