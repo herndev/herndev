@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [UK CMA Chair Marcus Bokkerink plans to leave the antitrust agency, after pressure from UK ministers; the CMA appoints ex-Amazon exec Doug Gurr as interim chair &lpar;Financial Times&rpar;](http://www.techmeme.com/250122/p11#a250122p11)
- - [Best Exercise Bikes for 2025](https://www.cnet.com/health/fitness/best-exercise-bike/#ftag=CAD590a51e)
- - [There&#39;s Still Time to Jump on APYs as High as 5%. Today&#39;s Best Savings Rates for Jan. 22, 2025](https://www.cnet.com/personal-finance/banking/theres-still-time-to-jump-on-apys-as-high-as-5-todays-best-savings-rates-for-jan-22-2025/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Memo: ByteDance asks Chinese staff in Singapore to pay tax to China or risk losing their ability to cash out on stock options, as China steps up tax enforcement &lpar;Financial Times&rpar;](http://www.techmeme.com/250122/p14#a250122p14)
+ - [Google will let you control your Chromebook with your face](https://www.theverge.com/2025/1/22/24348966/google-chromeos-face-control-chromebooks-classroom-features-laptops)
+ - [Indonesia&#39;s long iPhone 16 ban may end soon](https://appleinsider.com/articles/25/01/22/indonesias-long-iphone-16-ban-may-end-soon?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
