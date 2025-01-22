@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [A thousand words communicated with just a smile](http://9gag.com/gag/aPAAYVV)
- - ⏩ [How high voltage leaks are detected inside big power grids](http://9gag.com/gag/aLnnjmW)
- - 👉 [Should learn anger management from this guy](http://9gag.com/gag/ajPP5Qg)<!-- MEMES:END -->
+ - 💣 [Before it&#39;s destruction in 1992 here is the Buddha statue in Afghanistan](http://9gag.com/gag/aO88YyR)
+ - ⏩ [Sorry guys](http://9gag.com/gag/axyy7NL)
+ - 👉 [WomEn supporting womAn](http://9gag.com/gag/aYQQY5O)<!-- MEMES:END -->
 
 ---
 
