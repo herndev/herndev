@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Something is sus](http://9gag.com/gag/an779ez)
- - ⏩ [How high voltage leaks are detected inside big power grids](http://9gag.com/gag/aLnnjmW)
- - 👉 [Poor guy was just trying to do his job](http://9gag.com/gag/aoyyN3m)<!-- MEMES:END -->
+ - 💣 [Poor guy was just trying to do his job](http://9gag.com/gag/aoyyN3m)
+ - ⏩ [People on twitter these days man](http://9gag.com/gag/a7oowoq)
+ - 👉 [Share your apples with us](http://9gag.com/gag/a6ZZOG2)<!-- MEMES:END -->
 
 ---
 
