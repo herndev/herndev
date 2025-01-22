@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Latest Windows 11 Insider Build fixes 24H2 update&#39;s most annoying issues, including Auto HDR bugs and mouse stuttering](https://www.pcgamer.com/software/windows/latest-windows-11-insider-build-fixes-24h2-updates-most-annoying-issues-including-auto-hdr-bugs-and-mouse-stuttering/)
- - [How to complete the Poison in the Roots quest in Diablo 4](https://www.pcgamer.com/games/rpg/diablo-4-poison-in-the-roots-puzzle/)
- - [As if I needed any more reason to jump back into Minecraft, a Hello Kitty and Friends DLC has been released](https://www.pcgamer.com/games/sim/as-if-i-needed-any-more-reason-to-jump-back-into-minecraft-a-hello-kitty-and-friends-dlc-has-been-released/)<!-- GAME:END -->
+ - [Star Wars Episode I: Jedi Power Battles launches tomorrow – cheat codes and modernized controls revealed](https://blog.playstation.com/2025/01/22/star-wars-episode-i-jedi-power-battles-launches-tomorrow-cheat-codes-and-modernized-controls-revealed/)
+ - [If you thought PCIe Gen 5 SSDs were a little pointless, don&#39;t worry, here comes 32 GB&#39;s worth of Gen 6 technology](https://www.pcgamer.com/hardware/ssds/if-you-thought-pcie-gen-5-ssds-were-a-little-pointless-dont-worry-here-comes-32-gbs-worth-of-gen-6-technology/)
+ - [Diablo 4 meets Vampire Survivors in this clever roguelike that makes every round its own epic viking adventure](https://www.pcgamer.com/games/roguelike/diablo-4-meets-vampire-survivors-in-this-clever-roguelike-that-makes-every-round-its-own-epic-viking-adventure/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
