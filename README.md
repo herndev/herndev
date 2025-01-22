@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Our Resolution Is to Play More Indie Games: Indie Selects for January](https://news.xbox.com/en-us/2025/01/22/indie-selects-id-xbox-january-2025/)
- - [Where to buy the Nvidia RTX 5090: the hotly-awaited Founders Edition GPUs and chunky third-party cards are already listed at retailers](https://www.pcgamer.com/hardware/graphics-cards/where-to-buy-the-nvidia-rtx-5090-the-hotly-awaited-founders-edition-gpus-and-chunky-third-party-cards-are-already-listed-at-retailers/)
- - [I built the mullet of gaming PCs with MSI&#39;s Project Zero &#39;Back-Connect&#39; parts](https://www.pcgamer.com/hardware/gaming-pcs/i-built-the-mullet-of-gaming-pcs-with-msis-project-zero-back-connect-parts/)<!-- GAME:END -->
+ - [Call of Duty: Black Ops 6 and Warzone Season 02: What You Need to Know](https://www.callofduty.com/blog/2025/01/call-of-duty-black-ops-6-warzone-zombies-season-two-maps-modes-announcement#new_tab)
+ - [Quad-slot prototype enabled Nvidia to achieve &#39;mission impossible&#39; with RTX 5090 GPU&#39;s dual-slot cooler](https://www.pcgamer.com/hardware/graphics-cards/quad-slot-prototype-enabled-nvidia-to-achieve-mission-impossible-with-rtx-5090-gpus-dual-slot-cooler/)
+ - [Microsoft Edge Game Assist hits Stable release so you can now use it to pin videos in-game without setting it as your default browser](https://www.pcgamer.com/software/game-assist-hits-stable-release-so-you-can-now-use-it-to-pin-videos-in-game-without-setting-microsoft-edge-as-your-default-browser/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
