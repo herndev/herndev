@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [For side money!](http://9gag.com/gag/a2vv7PO)
- - ⏩ [Confusion](http://9gag.com/gag/aKGGEvW)
- - 👉 [LED guy really is something else](http://9gag.com/gag/aO88Q5N)<!-- MEMES:END -->
+ - 💣 [Nice jacket!](http://9gag.com/gag/aO88xv3)
+ - ⏩ [This tennis player made a move mid-game that was unlikely to happen](http://9gag.com/gag/apRR9Rb)
+ - 👉 [Nice brake check bro](http://9gag.com/gag/aAyyG2L)<!-- MEMES:END -->
 
 ---
 
