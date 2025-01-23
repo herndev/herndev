@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Police whamen](http://9gag.com/gag/aMVVdMP)
- - ⏩ [Good](http://9gag.com/gag/aqyyRnY)
- - 👉 [Looking for this Cinderella](http://9gag.com/gag/a0eeooZ)<!-- MEMES:END -->
+ - 💣 [Brave online](http://9gag.com/gag/a6ZZZRN)
+ - ⏩ [The surge](http://9gag.com/gag/aGyyppw)
+ - 👉 [Can\u2019t not love this guy. GOAT William Dafoe](http://9gag.com/gag/a877ALO)<!-- MEMES:END -->
 
 ---
 
