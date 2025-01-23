@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Trump&#39;s aides and Elon Musk became annoyed with Vivek Ramaswamy&#39;s outspokenness and some were angered by his H-1B comments, leading to his DOGE ouster &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250123/p18#a250123p18)
- - [India tries telling Apple to pre-install government iPhone apps](https://appleinsider.com/articles/25/01/23/india-tries-telling-apple-to-pre-install-government-iphone-apps?utm_medium=rss)
- - [In a Fox News interview, Donald Trump downplays TikTok&#39;s national security risk, saying China makes smartphones, PCs, and more and &quot;isn&#39;t that a bigger threat?&quot; &lpar;Justin Sink/Bloomberg&rpar;](http://www.techmeme.com/250123/p17#a250123p17)<!-- TECH:END -->
+ - [CAIS and Scale AI release &quot;Humanity&#39;s Last Exam&quot;, a new evaluation that they claim is the hardest-ever AI test, consisting of ~3,000 multiple-choice questions &lpar;Kevin Roose/New York Times&rpar;](http://www.techmeme.com/250123/p22#a250123p22)
+ - [The Cadillac Lyriq-V is quicker than the CT5-V Blackwing](https://www.theverge.com/2025/1/23/24349756/cadillac-lyriq-v-acceleration-specs-price)
+ - [Star Trek: Section 31 is firing on all cylinders](https://www.theverge.com/2025/1/23/24340743/star-trek-section-31-review-paramount-plus)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
