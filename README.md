@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Doctor Strange won&amp;#8217;t be in Avengers: Doomsday, says Benedict Cumberbatch](https://www.polygon.com/news/513064/avengers-doomsday-doctor-strange-benedict-cumberbatch)
- - [Hearts of Iron board game will have you fighting the alternate history of WWII in a single sitting](https://www.polygon.com/board-games/512814/hearts-of-iron-board-game-preview-gamefound-campaign-launch-price-release-date)
- - [Cyberpunk 2077&#39;s new patch arrives the day after I finally finished the game, and of course it fixes the one late-game bug that really annoyed me](https://www.pcgamer.com/games/rpg/cyberpunk-2077s-new-patch-arrives-the-day-after-i-finally-finished-the-game-and-of-course-it-fixes-the-one-late-game-bug-that-really-annoyed-me/)<!-- GAME:END -->
+ - [Quit worrying about game install sizes with these future-proof SSDs](https://www.pcgamer.com/hardware/ssds/quit-worrying-about-game-install-sizes-with-these-future-proof-ssds/)
+ - [Epic Games Store will add monthly free games, 20 third-party titles to mobile app](https://www.polygon.com/news/513088/epic-games-store-20-third-party-games-apple-app-store-core-technology-fee)
+ - [2025 Is Shaping Up To Be A Massive Year For Xbox Game Pass Releases](https://kotaku.com/game-pass-2025-new-releases-doom-fable-ninja-gaiden-1851746651)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
