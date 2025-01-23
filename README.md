@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Sony gets people scratching their heads after region-locking purchases of Horizon Forbidden West, 10 entire months after its initial release](https://www.pcgamer.com/gaming-industry/sony-gets-people-scratching-their-heads-after-region-locking-horizon-forbidden-west-10-entire-months-after-its-initial-release/)
- - [When is the trading release date in Pokémon TCG Pocket, and how do trades work?](https://www.polygon.com/pokemon-tcg-pocket-guides/484754/trading-release-date-unlock-restrictions)
- - [Glorious Series 2 Pro wireless mouse review](https://www.pcgamer.com/hardware/gaming-mice/glorious-series-2-pro-wireless-mouse-review/)<!-- GAME:END -->
+ - [Free Play Days – For Honor, A Little to the Left, Train Sim World 5 and Way of the Hunter](https://news.xbox.com/en-us/2025/01/23/free-play-days-23-01-2025/)
+ - [Palworld creator launches publishing division, starting with a horror game from Tales of Kenzara studio](https://www.polygon.com/gaming/512568/pocketpair-publishing-surgent-studios-partnership)
+ - [Pokémon TCG Pocket Reveals Space-Time Smackdown Set Release Date And Shows Off New Cards](https://kotaku.com/pokemon-tcg-new-set-lucario-sinnoh-dialga-palkia-1851746013)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
