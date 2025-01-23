@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Pokémon TCG Prismatic Evolution scalpers are starting to hurt, thanks to the promise of reprints despite the current lack of supply](https://www.pcgamer.com/games/pokemon-tcg-prismatic-evolution-scalpers-are-starting-to-hurt-thanks-to-the-promise-of-reprints-despite-the-current-lack-of-supply/)
- - [It’s easy to get into Dimension 20 — just pick a genre and find the season that fits](https://www.polygon.com/actual-play/511823/dimension-20-dropout-where-to-start)
- - [Today&#39;s Wordle answer for Thursday, January 23](https://www.pcgamer.com/games/puzzle/wordle-answer-today-january-23-2025/)<!-- GAME:END -->
+ - [Dimension 20&amp;#8217;s sold-out show at MSG shines a light on decades of TTRPG performance](https://www.polygon.com/actual-play/512133/dnd-actual-play-history-critical-role-dimension-20-acquisitions-inc-hickman-gen-con)
+ - [Overclockers UK say they have a &#39;single digit&#39; number of Nvidia&#39;s RTX 5090 cards a week before launch](https://www.pcgamer.com/hardware/graphics-cards/overclockers-uk-say-they-have-a-single-digit-number-of-nvidias-rtx-5090-cards-a-week-before-launch/)
+ - [&#39;Black smoke filled the room&#39;: Reddit user says their Gigabyte mouse spontaneously combusted &#39;with large flames&#39; and now the manufacturer is taking a look](https://www.pcgamer.com/hardware/gaming-mice/black-smoke-filled-the-room-reddit-user-says-their-gigabyte-mouse-spontaneously-combusted-with-large-flames-and-now-the-manufacturer-is-taking-a-look/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
