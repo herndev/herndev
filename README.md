@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Some TikTok users say the app has changed, expressing trepidation and paranoia over its complimentary mentions of Trump in its goodbye and welcome back messages &lpar;Washington Post&rpar;](http://www.techmeme.com/250123/p11#a250123p11)
- - [Best Internet Providers in Illinois](https://www.cnet.com/home/internet/best-internet-providers-in-illinois/#ftag=CAD590a51e)
- - [Apple taken to court over toxic ‘forever chemicals’ in Apple Watch bands](https://www.androidauthority.com/apple-lawsuit-forever-chemicals-apple-watch-bands-3519496/)<!-- TECH:END -->
+ - [Sources: India&#39;s technology ministry asked Apple, Google, and other smartphone makers to provide Indians direct access to the state-backed GOV.in app store &lpar;Sankalp Phartiyal/Bloomberg&rpar;](http://www.techmeme.com/250123/p12#a250123p12)
+ - [Psychology Can Be Harnessed to Combat Violent Extremism](https://www.wired.com/story/global-violent-extremism-psychology-social-media/)
+ - [Some TikTok users say the app has changed, expressing trepidation and paranoia over its complimentary mentions of Trump in its goodbye and welcome back messages &lpar;Washington Post&rpar;](http://www.techmeme.com/250123/p11#a250123p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
