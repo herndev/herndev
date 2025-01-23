@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [It’s easy to get into Dimension 20 — just pick a genre and find the season that fits](https://www.polygon.com/actual-play/511823/dimension-20-dropout-where-to-start)
  - [Today&#39;s Wordle answer for Thursday, January 23](https://www.pcgamer.com/games/puzzle/wordle-answer-today-january-23-2025/)
- - [How Long Is Ender Magnolia: Bloom In The Mist?](https://kotaku.com/ender-magnolia-bloom-in-the-mist-how-long-1851743888)
- - [Celeste follow-up canceled as devs ‘refocus’ to smaller projects](https://www.polygon.com/news/512505/earthblade-devs-celsete-followup-canceled)<!-- GAME:END -->
+ - [How Long Is Ender Magnolia: Bloom In The Mist?](https://kotaku.com/ender-magnolia-bloom-in-the-mist-how-long-1851743888)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
