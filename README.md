@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Vitalik Buterin and the Ethereum Foundation back Etherealize, a NYC-based startup to market Ethereum to financial firms, as ether lags behind bitcoin&#39;s gains &lpar;Muyao Shen/Bloomberg&rpar;](http://www.techmeme.com/250123/p15#a250123p15)
- - [The UK CMA opens an investigation into Apple&#39;s App Store and Google&#39;s Play Store to &quot;explore the impact on people who use mobile devices&quot; and on businesses &lpar;Ryan Browne/CNBC&rpar;](http://www.techmeme.com/250123/p14#a250123p14)
- - [China and Southeast Asian nations pledge to deal with cybercrime centers, extending efforts that China&#39;s Global Times says has led to the arrest of 70K+ people &lpar;Bloomberg&rpar;](http://www.techmeme.com/250123/p13#a250123p13)<!-- TECH:END -->
+ - [Sources: Trump&#39;s aides and Elon Musk became annoyed with Vivek Ramaswamy&#39;s outspokenness and some were angered by his H-1B comments, leading to his DOGE ouster &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250123/p18#a250123p18)
+ - [India tries telling Apple to pre-install government iPhone apps](https://appleinsider.com/articles/25/01/23/india-tries-telling-apple-to-pre-install-government-iphone-apps?utm_medium=rss)
+ - [In a Fox News interview, Donald Trump downplays TikTok&#39;s national security risk, saying China makes smartphones, PCs, and more and &quot;isn&#39;t that a bigger threat?&quot; &lpar;Justin Sink/Bloomberg&rpar;](http://www.techmeme.com/250123/p17#a250123p17)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
