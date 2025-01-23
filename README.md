@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This tennis player made a move mid-game that was unlikely to happen](http://9gag.com/gag/apRR9Rb)
- - ⏩ [Brave online](http://9gag.com/gag/a6ZZZRN)
- - 👉 [India wet dream](http://9gag.com/gag/a4PPPpA)<!-- MEMES:END -->
+ - 💣 [Brave online](http://9gag.com/gag/a6ZZZRN)
+ - ⏩ [In 2019, Amanda Eller went missing for 17 days in Maui&#39;s forests after a short hike went wrong. Without a phone, food, or water, she got lost after straying from the trail. Despite having virtually no supplies she managed to live off berries and stream water until she was found.](http://9gag.com/gag/aZZZrL0)
+ - 👉 [This tennis player made a move mid-game that was unlikely to happen](http://9gag.com/gag/apRR9Rb)<!-- MEMES:END -->
 
 ---
 
