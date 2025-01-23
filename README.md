@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Corning tells us how Gorilla Armor 2 is made to protect the Galaxy S25 Ultra](https://www.androidauthority.com/corning-gorilla-armor-2-galaxy-s25-ultra-3519482/)
- - [Saudi digital security firm Elm Company agrees to acquire business services firm Thiqah from Saudi Arabia&#39;s PIF, which is also Elm&#39;s majority owner, for $906M &lpar;Reuters&rpar;](http://www.techmeme.com/250123/p4#a250123p4)
- - [An interview with Pinterest CEO Bill Ready on why his company is backing US state laws to restrict cellphone use in classrooms &lpar;Naomi Nix/Washington Post&rpar;](http://www.techmeme.com/250123/p3#a250123p3)<!-- TECH:END -->
+ - [Neko Health, a startup co-founded by Daniel Ek that offers AI-based full-body scans, has raised $260M led by Lightspeed, sources say at a $1.7B valuation &lpar;Tim Bradshaw/Financial Times&rpar;](http://www.techmeme.com/250123/p6#a250123p6)
+ - [Therabody Promo Codes and Deals: 10% Off](https://www.wired.com/story/therabody-promo-code/)
+ - [RIP Samsung Messages; the Galaxy S25 only comes with Google Messages &lpar;Updated: More details&rpar;](https://www.androidauthority.com/galaxy-s25-samsung-messages-google-messages-3518539/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
