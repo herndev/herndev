@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Looking for this Cinderella](http://9gag.com/gag/a0eeooZ)
- - ⏩ [Ash well that happened](http://9gag.com/gag/aByyZo1)
- - 👉 [Brave online](http://9gag.com/gag/a6ZZZRN)<!-- MEMES:END -->
+ - 💣 [Good](http://9gag.com/gag/aqyyRnY)
+ - ⏩ [That&#39;s the way to do it!](http://9gag.com/gag/azxxP5x)
+ - 👉 [Illegaluigi. From the archives circa 2014](http://9gag.com/gag/aO88xe6)<!-- MEMES:END -->
 
 ---
 
