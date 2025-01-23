@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Star Trek: Section 31 movie desperately needed more space](https://www.polygon.com/star-trek/512458/section-31-review-michelle-yeoh)
- - [21 Games We’d Love To See On The Nintendo Switch 2](https://kotaku.com/nintendo-switch-2-games-elden-ring-gtav-final-fantasy-1851745512)
- - [Dimension 20&amp;#8217;s sold-out show at MSG shines a light on decades of TTRPG performance](https://www.polygon.com/actual-play/512133/dnd-actual-play-history-critical-role-dimension-20-acquisitions-inc-hickman-gen-con)<!-- GAME:END -->
+ - [Sony gets people scratching their heads after region-locking purchases of Horizon Forbidden West, 10 entire months after its initial release](https://www.pcgamer.com/gaming-industry/sony-gets-people-scratching-their-heads-after-region-locking-horizon-forbidden-west-10-entire-months-after-its-initial-release/)
+ - [When is the trading release date in Pokémon TCG Pocket, and how do trades work?](https://www.polygon.com/pokemon-tcg-pocket-guides/484754/trading-release-date-unlock-restrictions)
+ - [Glorious Series 2 Pro wireless mouse review](https://www.pcgamer.com/hardware/gaming-mice/glorious-series-2-pro-wireless-mouse-review/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
