@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [OpenAI’s new Operator AI agent can do things on the web for you](https://www.theverge.com/2025/1/23/24350395/openai-chatgpt-operator-agent-control-computer)
- - [Epic expands its mobile game store by helping cover developer iOS fees](https://www.theverge.com/2025/1/23/24349542/epic-games-third-party-developers-apple-google-europe)
- - [Perplexity launches Perplexity Assistant in its Android app, which can take &quot;multi-app actions&quot; like hailing a ride, initially free for users in 15 languages &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250123/p35#a250123p35)<!-- TECH:END -->
+ - [Android 16 Beta 1 is here with an iOS clone feature, APV Codec, and more!](https://www.androidauthority.com/android-16-beta-1-3518608/)
+ - [Android 16’s first public beta adds Google’s more limited take on live lockscreen notifications](https://www.theverge.com/2025/1/23/24350182/android-16-first-public-beta-google-live-updates)
+ - [Doom: The Dark Ages looks metal as hell and launches in May](https://www.theverge.com/2025/1/23/24349379/doom-the-dark-ages-release-date-trailer-xbox-pc-ps5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
