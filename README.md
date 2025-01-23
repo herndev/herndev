@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Check Please](http://9gag.com/gag/aGyyzWG)
- - ⏩ [Eru\u2019s back up plan](http://9gag.com/gag/a344Z11)
- - 👉 [Confusion](http://9gag.com/gag/aKGGEvW)<!-- MEMES:END -->
+ - 💣 [Looking for this Cinderella](http://9gag.com/gag/a0eeooZ)
+ - ⏩ [I guess](http://9gag.com/gag/a2vvKBe)
+ - 👉 [Remember why Trump got re-elected](http://9gag.com/gag/a7ooq9r)<!-- MEMES:END -->
 
 ---
 
