@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to share Safari tabs across different devices with iCloud Tabs](https://appleinsider.com/inside/safari/tips/how-to-share-safari-tabs-across-different-devices-with-icloud-tabs?utm_medium=rss)
- - [Sources: Microsoft and OpenAI were arguing over Microsoft&#39;s ability to fulfill OpenAI&#39;s computing needs, in the months leading up to the Stargate announcement &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250122/p53#a250122p53)
- - [Microsoft was mentioned only as a technology partner in Stargate but the company is poised to benefit from the venture by offloading AI computing costs &lpar;Dina Bass/Bloomberg&rpar;](http://www.techmeme.com/250122/p52#a250122p52)<!-- TECH:END -->
+ - [Corning tells us how Gorilla Armor 2 is made to protect the Galaxy S25 Ultra](https://www.androidauthority.com/corning-gorilla-armor-2-galaxy-s25-ultra-3519482/)
+ - [Saudi digital security firm Elm Company agrees to acquire business services firm Thiqah from Saudi Arabia&#39;s PIF, which is also Elm&#39;s majority owner, for $906M &lpar;Reuters&rpar;](http://www.techmeme.com/250123/p4#a250123p4)
+ - [An interview with Pinterest CEO Bill Ready on why his company is backing US state laws to restrict cellphone use in classrooms &lpar;Naomi Nix/Washington Post&rpar;](http://www.techmeme.com/250123/p3#a250123p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
