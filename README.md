@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Oscars snub Apple TV+ movies, and Apple no longer cares](https://appleinsider.com/articles/25/01/23/oscars-snub-apple-tv-movies-and-apple-no-longer-cares?utm_medium=rss)
- - [Samsung Galaxy Ring drops to a new record low of $280](https://www.theverge.com/2025/1/23/24350232/samsung-galaxy-ring-smart-wearable-deal-sale)
- - [If your iPhone alarms aren&#39;t going off, you&#39;re not alone](https://appleinsider.com/articles/25/01/23/if-your-iphone-alarms-arent-going-off-youre-not-alone?utm_medium=rss)<!-- TECH:END -->
+ - [The Samsung Galaxy Ring hits a record-low price at $120 off](https://www.androidauthority.com/samsung-galaxy-ring-deal-3519662/)
+ - [Ramp launches Ramp Treasury, letting businesses store cash in a business account and earn 2.5% or in a money market fund for potentially higher yields &lpar;Mary Ann Azevedo/TechCrunch&rpar;](http://www.techmeme.com/250123/p31#a250123p31)
+ - [Google Photos may speed up image sharing by letting you disable Quick Edit &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-photos-disable-quick-edit-3519524/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
