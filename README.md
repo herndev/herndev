@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [That horrific,](http://9gag.com/gag/aGyyy0w)
- - ⏩ [Empowerment](http://9gag.com/gag/aPAAZ2R)
- - 👉 [Several species of animals have already entered their respective `Stone Age`](http://9gag.com/gag/amoo1V9)<!-- MEMES:END -->
+ - 💣 [Looking for this Cinderella](http://9gag.com/gag/a0eeooZ)
+ - ⏩ [Ash well that happened](http://9gag.com/gag/aByyZo1)
+ - 👉 [Brave online](http://9gag.com/gag/a6ZZZRN)<!-- MEMES:END -->
 
 ---
 
