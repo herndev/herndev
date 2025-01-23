@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Illegaluigi. From the archives circa 2014](http://9gag.com/gag/aO88xe6)
- - ⏩ [That horrific,](http://9gag.com/gag/aGyyy0w)
- - 👉 [He tried hard to make his girlfriend happy and got it](http://9gag.com/gag/aGyyyw5)<!-- MEMES:END -->
+ - 💣 [Check Please](http://9gag.com/gag/aGyyzWG)
+ - ⏩ [Eru\u2019s back up plan](http://9gag.com/gag/a344Z11)
+ - 👉 [Confusion](http://9gag.com/gag/aKGGEvW)<!-- MEMES:END -->
 
 ---
 
