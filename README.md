@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [UK&#39;s competition regulator assessing if Apple has too much overall power in mobile](https://appleinsider.com/articles/25/01/23/uks-competition-regulator-assessing-if-apple-has-too-much-overall-power-in-mobile?utm_medium=rss)
- - [The cheapest countries to buy the Samsung Galaxy S25 Ultra](https://www.androidauthority.com/cheapest-place-to-buy-the-samsung-galaxy-s25-ultra-3517378/)
- - [Researchers detail Subaru&#39;s now-fixed web vulnerabilities that let them track millions of Subarus via its Starlink features in the US, Canada, and Japan &lpar;Andy Greenberg/Wired&rpar;](http://www.techmeme.com/250123/p23#a250123p23)<!-- TECH:END -->
+ - [How to watch today’s Xbox Developer Direct](https://www.theverge.com/2025/1/23/24350261/xbox-developer-direct-2025-how-to-watch-twitch-youtube)
+ - [Changpeng Zhao announces that Binance&#39;s VC arm Binance Labs, which oversees about $10B of crypto-related assets, will become a family office called YZi Labs &lpar;Bloomberg&rpar;](http://www.techmeme.com/250123/p25#a250123p25)
+ - [Is Samsung done with the S Pen? I hope so.](https://www.androidauthority.com/samsung-galaxy-s25-ultra-s-pen-3518245/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
