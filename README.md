@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Quit worrying about game install sizes with these future-proof SSDs](https://www.pcgamer.com/hardware/ssds/quit-worrying-about-game-install-sizes-with-these-future-proof-ssds/)
- - [Epic Games Store will add monthly free games, 20 third-party titles to mobile app](https://www.polygon.com/news/513088/epic-games-store-20-third-party-games-apple-app-store-core-technology-fee)
- - [2025 Is Shaping Up To Be A Massive Year For Xbox Game Pass Releases](https://kotaku.com/game-pass-2025-new-releases-doom-fable-ninja-gaiden-1851746651)<!-- GAME:END -->
+ - [Dwarf Fortress finally got its roguelike Adventure Mode on Steam, so if you&#39;ll excuse me, I&#39;ve got to go fire up a fresh wombat man](https://www.pcgamer.com/games/sim/dwarf-fortress-finally-got-its-roguelike-adventure-mode-on-steam-so-if-youll-excuse-me-ive-got-to-go-fire-up-a-fresh-wombat-man/)
+ - [Doom: The Dark Ages has no multiplayer: &#39;Our campaigns are, to a great extent, what people come to the modern Doom games to play&#39;](https://www.pcgamer.com/games/fps/doom-the-dark-ages-has-no-multiplayer-our-campaigns-are-to-a-great-extent-what-people-come-to-the-modern-doom-games-to-play/)
+ - [Quit worrying about game install sizes with these future-proof SSDs](https://www.pcgamer.com/hardware/ssds/quit-worrying-about-game-install-sizes-with-these-future-proof-ssds/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
