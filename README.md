@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung teases its long-rumored triple-screen phone at Galaxy Unpacked](https://www.androidauthority.com/samsung-teases-triple-screen-foldable-3519410/)
- - [An analysis of two years of episodes by nine prominent podcasters shows how they became mainstream sources for young men and rallied support for Trump&#39;s agenda &lpar;Bloomberg&rpar;](http://www.techmeme.com/250122/p45#a250122p45)
- - [Nvidia’s triple-fan GPU cooler was one step along the way to a slimmer RTX 5090](https://www.theverge.com/2025/1/22/24349781/nvidia-quad-slot-titan-ada-4090-gpu-cooler-prototype-real)<!-- TECH:END -->
+ - [Tumblr’s experimental GIF feed finally launches after 10 years](https://www.theverge.com/2025/1/22/24349904/tumblr-tv-gif-video-tab)
+ - [Court says Google doesn’t have to pay preposterous Russian fine &lpar;that it never could have anyway&rpar;](https://www.androidauthority.com/google-russian-fine-3519415/)
+ - [Today&#39;s NYT Connections Hints, Answers and Help for Jan. 23, #592](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-jan-23-592/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
