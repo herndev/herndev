@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [There are about to be a lot of open spots at Harvard and Columbia!](http://9gag.com/gag/awyymeQ)
- - ⏩ [In a nutshell](http://9gag.com/gag/aqyy87v)
- - 👉 [This will face numerous legal challenges, but it&#39;s a good start](http://9gag.com/gag/aKGG1ZW)<!-- MEMES:END -->
+ - 💣 [Brave online](http://9gag.com/gag/a6ZZZRN)
+ - ⏩ [Massage Competition](http://9gag.com/gag/aD226DO)
+ - 👉 [That horrific,](http://9gag.com/gag/aGyyy0w)<!-- MEMES:END -->
 
 ---
 
