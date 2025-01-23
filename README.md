@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [In 2019, Amanda Eller went missing for 17 days in Maui&#39;s forests after a short hike went wrong. Without a phone, food, or water, she got lost after straying from the trail. Despite having virtually no supplies she managed to live off berries and stream water until she was found.](http://9gag.com/gag/aZZZrL0)
- - ⏩ [Good](http://9gag.com/gag/aqyyRnY)
- - 👉 [Nice brake check bro](http://9gag.com/gag/aAyyG2L)<!-- MEMES:END -->
+ - 💣 [And not just the men\u2026](http://9gag.com/gag/aE00M0G)
+ - ⏩ [Eru\u2019s back up plan](http://9gag.com/gag/a344Z11)
+ - 👉 [Remember why Trump got re-elected](http://9gag.com/gag/a7ooq9r)<!-- MEMES:END -->
 
 ---
 
