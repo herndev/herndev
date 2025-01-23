@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Assassin’s Creed Shadows: How Two Protagonists with Contrasting Combat Respect the Evolution of the Series](https://news.xbox.com/en-us/2025/01/23/assassins-creed-shadows-preview/)
- - [Assassin’s Creed Shadows is excellent, but can it save Ubisoft?](https://www.polygon.com/impressions/512277/assassins-creed-shadows-preview-ubisoft)
- - [Assassin&#39;s Creed Shadows Might Be Able To Do The Impossible And Satisfy All Fans](https://kotaku.com/assassins-creed-shadows-4-hour-preview-hands-on-review-1851745403)<!-- GAME:END -->
+ - [Art Of Rally Dev Is Back With A New Off-Roading Game And It Looks Stunning](https://kotaku.com/art-rally-over-hill-trailer-minimalist-steam-coop-1851746273)
+ - [Mindwave is the story-driven spiritual successor to WarioWare that is so good I don&#39;t care that I keep messing up on the supposedly simple final boss](https://www.pcgamer.com/games/mindwave-is-the-story-driven-spiritual-successor-to-warioware-that-is-so-good-i-dont-care-that-i-keep-messing-up-on-the-supposedly-simple-final-boss/)
+ - [Star Wars Jedi Power Battles Is A Perfect Remaster Of A Bad Game](https://kotaku.com/star-wars-jedi-power-battles-episode-1-remaster-review-1851746178)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
