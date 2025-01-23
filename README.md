@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Dimension 20&amp;#8217;s sold-out show at MSG shines a light on decades of TTRPG performance](https://www.polygon.com/actual-play/512133/dnd-actual-play-history-critical-role-dimension-20-acquisitions-inc-hickman-gen-con)
- - [Overclockers UK say they have a &#39;single digit&#39; number of Nvidia&#39;s RTX 5090 cards a week before launch](https://www.pcgamer.com/hardware/graphics-cards/overclockers-uk-say-they-have-a-single-digit-number-of-nvidias-rtx-5090-cards-a-week-before-launch/)
- - [&#39;Black smoke filled the room&#39;: Reddit user says their Gigabyte mouse spontaneously combusted &#39;with large flames&#39; and now the manufacturer is taking a look](https://www.pcgamer.com/hardware/gaming-mice/black-smoke-filled-the-room-reddit-user-says-their-gigabyte-mouse-spontaneously-combusted-with-large-flames-and-now-the-manufacturer-is-taking-a-look/)<!-- GAME:END -->
+ - [The Star Trek: Section 31 movie desperately needed more space](https://www.polygon.com/star-trek/512458/section-31-review-michelle-yeoh)
+ - [21 Games We’d Love To See On The Nintendo Switch 2](https://kotaku.com/nintendo-switch-2-games-elden-ring-gtav-final-fantasy-1851745512)
+ - [Dimension 20&amp;#8217;s sold-out show at MSG shines a light on decades of TTRPG performance](https://www.polygon.com/actual-play/512133/dnd-actual-play-history-critical-role-dimension-20-acquisitions-inc-hickman-gen-con)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
