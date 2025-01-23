@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Art Of Rally Dev Is Back With A New Off-Roading Game And It Looks Stunning](https://kotaku.com/art-rally-over-hill-trailer-minimalist-steam-coop-1851746273)
- - [Mindwave is the story-driven spiritual successor to WarioWare that is so good I don&#39;t care that I keep messing up on the supposedly simple final boss](https://www.pcgamer.com/games/mindwave-is-the-story-driven-spiritual-successor-to-warioware-that-is-so-good-i-dont-care-that-i-keep-messing-up-on-the-supposedly-simple-final-boss/)
- - [Star Wars Jedi Power Battles Is A Perfect Remaster Of A Bad Game](https://kotaku.com/star-wars-jedi-power-battles-episode-1-remaster-review-1851746178)<!-- GAME:END -->
+ - [Doom: The Dark Ages launches on PS5 May 15 – id Software reveals new gameplay details](https://blog.playstation.com/2025/01/23/doom-the-dark-ages-launches-on-ps5-may-15-id-software-reveals-new-gameplay-details/)
+ - [Xbox Developer_Direct 2025 Recap: Everything We Announced](https://news.xbox.com/en-us/2025/01/23/xbox-developer-direct-2025-recap/)
+ - [Doom: The Dark Ages Launches In May And Looks Awesome &lpar;And Massive&rpar;](https://kotaku.com/doom-dark-ages-trailer-release-date-may-xbox-open-world-1851746407)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
