@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Doom: The Dark Ages launches on PS5 May 15 – id Software reveals new gameplay details](https://blog.playstation.com/2025/01/23/doom-the-dark-ages-launches-on-ps5-may-15-id-software-reveals-new-gameplay-details/)
- - [Xbox Developer_Direct 2025 Recap: Everything We Announced](https://news.xbox.com/en-us/2025/01/23/xbox-developer-direct-2025-recap/)
- - [Doom: The Dark Ages Launches In May And Looks Awesome &lpar;And Massive&rpar;](https://kotaku.com/doom-dark-ages-trailer-release-date-may-xbox-open-world-1851746407)<!-- GAME:END -->
+ - [Infinity Nikki: Every Method For Getting New Outfits](https://kotaku.com/infinity-nikki-get-new-clothes-outfits-heart-of-chests-1851746251)
+ - [Clair Obscur: Expedition 33, the surreal debut RPG from Sandfall Interactive, is out this April and I can&#39;t wait to hang out with my inscrutable balloon comrade](https://www.pcgamer.com/games/rpg/clair-obscur-expedition-33-the-surreal-debut-rpg-from-sandfall-interactive-is-out-this-april-and-i-cant-wait-to-hang-out-with-my-inscrutable-balloon-comrade/)
+ - [Pokémon TCG Pocket to add Tool cards — and they could dramatically shake up battles](https://www.polygon.com/gaming/512873/pokemon-tcg-pocket-tool-cards)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
