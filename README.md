@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Can\u2019t not love this guy. GOAT William Dafoe](http://9gag.com/gag/a877ALO)
- - ⏩ [Philly Mayor demonstrated how she got her job completely based on merits and not at all dei](http://9gag.com/gag/aW44G1d)
- - 👉 [Brave online](http://9gag.com/gag/a6ZZZRN)<!-- MEMES:END -->
+ - 💣 [5 year old who fatally shot baby brother was on cocaine while dead toddler had marijuana insystem](http://9gag.com/gag/aPAA75B)
+ - ⏩ [India wet dream](http://9gag.com/gag/a4PPPpA)
+ - 👉 [In 2019, Amanda Eller went missing for 17 days in Maui&#39;s forests after a short hike went wrong. Without a phone, food, or water, she got lost after straying from the trail. Despite having virtually no supplies she managed to live off berries and stream water until she was found.](http://9gag.com/gag/aZZZrL0)<!-- MEMES:END -->
 
 ---
 
