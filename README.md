@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Samsung Galaxy Ring hits a record-low price at $120 off](https://www.androidauthority.com/samsung-galaxy-ring-deal-3519662/)
- - [Ramp launches Ramp Treasury, letting businesses store cash in a business account and earn 2.5% or in a money market fund for potentially higher yields &lpar;Mary Ann Azevedo/TechCrunch&rpar;](http://www.techmeme.com/250123/p31#a250123p31)
- - [Google Photos may speed up image sharing by letting you disable Quick Edit &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-photos-disable-quick-edit-3519524/)<!-- TECH:END -->
+ - [OpenAI’s new Operator AI agent can do things on the web for you](https://www.theverge.com/2025/1/23/24350395/openai-chatgpt-operator-agent-control-computer)
+ - [Epic expands its mobile game store by helping cover developer iOS fees](https://www.theverge.com/2025/1/23/24349542/epic-games-third-party-developers-apple-google-europe)
+ - [Perplexity launches Perplexity Assistant in its Android app, which can take &quot;multi-app actions&quot; like hailing a ride, initially free for users in 15 languages &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250123/p35#a250123p35)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
