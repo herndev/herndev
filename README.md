@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Free Play Days – For Honor, A Little to the Left, Train Sim World 5 and Way of the Hunter](https://news.xbox.com/en-us/2025/01/23/free-play-days-23-01-2025/)
- - [Palworld creator launches publishing division, starting with a horror game from Tales of Kenzara studio](https://www.polygon.com/gaming/512568/pocketpair-publishing-surgent-studios-partnership)
- - [Pokémon TCG Pocket Reveals Space-Time Smackdown Set Release Date And Shows Off New Cards](https://kotaku.com/pokemon-tcg-new-set-lucario-sinnoh-dialga-palkia-1851746013)<!-- GAME:END -->
+ - [Assassin’s Creed Shadows: How Two Protagonists with Contrasting Combat Respect the Evolution of the Series](https://news.xbox.com/en-us/2025/01/23/assassins-creed-shadows-preview/)
+ - [Assassin’s Creed Shadows is excellent, but can it save Ubisoft?](https://www.polygon.com/impressions/512277/assassins-creed-shadows-preview-ubisoft)
+ - [Assassin&#39;s Creed Shadows Might Be Able To Do The Impossible And Satisfy All Fans](https://kotaku.com/assassins-creed-shadows-4-hour-preview-hands-on-review-1851745403)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
