@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Perplexity now has a mobile assistant on Android](https://www.theverge.com/2025/1/23/24350488/perplexity-ai-mobile-assistant-android)
- - [Substack is spending $20 million to court TikTokers](https://www.theverge.com/2025/1/23/24350434/substack-creator-accelerator-fund-tiktok-ban)
- - [Everything we saw at Xbox’s Developer Direct 2025](https://www.theverge.com/2025/1/23/24350382/xbox-developer-direct-january-2025-doom-ninja-gaiden-trailers)<!-- TECH:END -->
+ - [Samsung is working to make glucose monitoring as easy as checking your pulse](https://www.androidauthority.com/samsung-glucose-monitoring-3519742/)
+ - [Trump signs an EO to create a cryptocurrency working group, which is expected to advise on digital asset policy, help establish a bitcoin reserve, and more &lpar;Reuters&rpar;](http://www.techmeme.com/250123/p44#a250123p44)
+ - [Why Walmart still won&#39;t accept Apple Pay](https://appleinsider.com/articles/25/01/23/why-walmart-still-wont-accept-apple-pay?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
