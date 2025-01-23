@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [That seems so satisfying](http://9gag.com/gag/aryy3YK)
- - ⏩ [Brave online](http://9gag.com/gag/a6ZZZRN)
- - 👉 [How do you make an idiot say `how`?](http://9gag.com/gag/agmmowr)<!-- MEMES:END -->
+ - 💣 [How?](http://9gag.com/gag/a3441Y8)
+ - ⏩ [This tennis player made a move mid-game that was unlikely to happen](http://9gag.com/gag/apRR9Rb)
+ - 👉 [That horrific,](http://9gag.com/gag/aGyyy0w)<!-- MEMES:END -->
 
 ---
 
