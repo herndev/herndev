@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to watch today’s Xbox Developer Direct](https://www.theverge.com/2025/1/23/24350261/xbox-developer-direct-2025-how-to-watch-twitch-youtube)
- - [Changpeng Zhao announces that Binance&#39;s VC arm Binance Labs, which oversees about $10B of crypto-related assets, will become a family office called YZi Labs &lpar;Bloomberg&rpar;](http://www.techmeme.com/250123/p25#a250123p25)
- - [Is Samsung done with the S Pen? I hope so.](https://www.androidauthority.com/samsung-galaxy-s25-ultra-s-pen-3518245/)<!-- TECH:END -->
+ - [Oscars snub Apple TV+ movies, and Apple no longer cares](https://appleinsider.com/articles/25/01/23/oscars-snub-apple-tv-movies-and-apple-no-longer-cares?utm_medium=rss)
+ - [Samsung Galaxy Ring drops to a new record low of $280](https://www.theverge.com/2025/1/23/24350232/samsung-galaxy-ring-smart-wearable-deal-sale)
+ - [If your iPhone alarms aren&#39;t going off, you&#39;re not alone](https://appleinsider.com/articles/25/01/23/if-your-iphone-alarms-arent-going-off-youre-not-alone?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
