@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [And not just the men\u2026](http://9gag.com/gag/aE00M0G)
- - ⏩ [Eru\u2019s back up plan](http://9gag.com/gag/a344Z11)
- - 👉 [Remember why Trump got re-elected](http://9gag.com/gag/a7ooq9r)<!-- MEMES:END -->
+ - 💣 [That horrific,](http://9gag.com/gag/aGyyy0w)
+ - ⏩ [Empowerment](http://9gag.com/gag/aPAAZ2R)
+ - 👉 [Several species of animals have already entered their respective `Stone Age`](http://9gag.com/gag/amoo1V9)<!-- MEMES:END -->
 
 ---
 
