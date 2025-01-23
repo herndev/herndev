@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Android 16 Beta 1 is here with an iOS clone feature, APV Codec, and more!](https://www.androidauthority.com/android-16-beta-1-3518608/)
- - [Android 16’s first public beta adds Google’s more limited take on live lockscreen notifications](https://www.theverge.com/2025/1/23/24350182/android-16-first-public-beta-google-live-updates)
- - [Doom: The Dark Ages looks metal as hell and launches in May](https://www.theverge.com/2025/1/23/24349379/doom-the-dark-ages-release-date-trailer-xbox-pc-ps5)<!-- TECH:END -->
+ - [Perplexity now has a mobile assistant on Android](https://www.theverge.com/2025/1/23/24350488/perplexity-ai-mobile-assistant-android)
+ - [Substack is spending $20 million to court TikTokers](https://www.theverge.com/2025/1/23/24350434/substack-creator-accelerator-fund-tiktok-ban)
+ - [Everything we saw at Xbox’s Developer Direct 2025](https://www.theverge.com/2025/1/23/24350382/xbox-developer-direct-january-2025-doom-ninja-gaiden-trailers)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
