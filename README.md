@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Brave online](http://9gag.com/gag/a6ZZZRN)
- - ⏩ [The surge](http://9gag.com/gag/aGyyppw)
- - 👉 [Can\u2019t not love this guy. GOAT William Dafoe](http://9gag.com/gag/a877ALO)<!-- MEMES:END -->
+ - 💣 [In 2019, Amanda Eller went missing for 17 days in Maui&#39;s forests after a short hike went wrong. Without a phone, food, or water, she got lost after straying from the trail. Despite having virtually no supplies she managed to live off berries and stream water until she was found.](http://9gag.com/gag/aZZZrL0)
+ - ⏩ [President Trump does his dance with a sword to \u201cYMCA\u201d \ud83d\udd7a](http://9gag.com/gag/aD22d09)
+ - 👉 [I guess](http://9gag.com/gag/a2vvKBe)<!-- MEMES:END -->
 
 ---
 
