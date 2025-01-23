@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [How?](http://9gag.com/gag/a3441Y8)
- - ⏩ [This tennis player made a move mid-game that was unlikely to happen](http://9gag.com/gag/apRR9Rb)
- - 👉 [That horrific,](http://9gag.com/gag/aGyyy0w)<!-- MEMES:END -->
+ - 💣 [Illegaluigi. From the archives circa 2014](http://9gag.com/gag/aO88xe6)
+ - ⏩ [That horrific,](http://9gag.com/gag/aGyyy0w)
+ - 👉 [He tried hard to make his girlfriend happy and got it](http://9gag.com/gag/aGyyyw5)<!-- MEMES:END -->
 
 ---
 
