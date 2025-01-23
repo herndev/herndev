@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [CAIS and Scale AI release &quot;Humanity&#39;s Last Exam&quot;, a new evaluation that they claim is the hardest-ever AI test, consisting of ~3,000 multiple-choice questions &lpar;Kevin Roose/New York Times&rpar;](http://www.techmeme.com/250123/p22#a250123p22)
- - [The Cadillac Lyriq-V is quicker than the CT5-V Blackwing](https://www.theverge.com/2025/1/23/24349756/cadillac-lyriq-v-acceleration-specs-price)
- - [Star Trek: Section 31 is firing on all cylinders](https://www.theverge.com/2025/1/23/24340743/star-trek-section-31-review-paramount-plus)<!-- TECH:END -->
+ - [UK&#39;s competition regulator assessing if Apple has too much overall power in mobile](https://appleinsider.com/articles/25/01/23/uks-competition-regulator-assessing-if-apple-has-too-much-overall-power-in-mobile?utm_medium=rss)
+ - [The cheapest countries to buy the Samsung Galaxy S25 Ultra](https://www.androidauthority.com/cheapest-place-to-buy-the-samsung-galaxy-s25-ultra-3517378/)
+ - [Researchers detail Subaru&#39;s now-fixed web vulnerabilities that let them track millions of Subarus via its Starlink features in the US, Canada, and Japan &lpar;Andy Greenberg/Wired&rpar;](http://www.techmeme.com/250123/p23#a250123p23)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
