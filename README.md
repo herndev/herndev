@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle answer for Thursday, January 23](https://www.pcgamer.com/games/puzzle/wordle-answer-today-january-23-2025/)
  - [How Long Is Ender Magnolia: Bloom In The Mist?](https://kotaku.com/ender-magnolia-bloom-in-the-mist-how-long-1851743888)
- - [Celeste follow-up canceled as devs ‘refocus’ to smaller projects](https://www.polygon.com/news/512505/earthblade-devs-celsete-followup-canceled)
- - [Of all the Balatro-likes on Steam, I think I&#39;m enjoying this Mahjong version best](https://www.pcgamer.com/games/roguelike/of-all-the-balatro-likes-on-steam-i-think-im-enjoying-this-mahjong-version-best/)<!-- GAME:END -->
+ - [Celeste follow-up canceled as devs ‘refocus’ to smaller projects](https://www.polygon.com/news/512505/earthblade-devs-celsete-followup-canceled)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
