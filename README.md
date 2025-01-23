@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The surge](http://9gag.com/gag/aGyyppw)
- - ⏩ [Can\u2019t not love this guy. GOAT William Dafoe](http://9gag.com/gag/a877ALO)
+ - 💣 [Can\u2019t not love this guy. GOAT William Dafoe](http://9gag.com/gag/a877ALO)
+ - ⏩ [Philly Mayor demonstrated how she got her job completely based on merits and not at all dei](http://9gag.com/gag/aW44G1d)
  - 👉 [Brave online](http://9gag.com/gag/a6ZZZRN)<!-- MEMES:END -->
 
 ---
