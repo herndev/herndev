@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Cucky brits](http://9gag.com/gag/aGyyp1Z)
- - ⏩ [Brave online](http://9gag.com/gag/a6ZZZRN)
- - 👉 [How do you make an idiot say `how`?](http://9gag.com/gag/agmmowr)<!-- MEMES:END -->
+ - 💣 [Brave online](http://9gag.com/gag/a6ZZZRN)
+ - ⏩ [History fact](http://9gag.com/gag/ajPPg0G)
+ - 👉 [Abu Dhabi Police Five Star Wanted Level](http://9gag.com/gag/azxxxNm)<!-- MEMES:END -->
 
 ---
 
