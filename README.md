@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Good](http://9gag.com/gag/aqyyRnY)
- - ⏩ [That&#39;s the way to do it!](http://9gag.com/gag/azxxP5x)
- - 👉 [Illegaluigi. From the archives circa 2014](http://9gag.com/gag/aO88xe6)<!-- MEMES:END -->
+ - 💣 [Just in case if you wonder how POV videos are made](http://9gag.com/gag/azxx5mq)
+ - ⏩ [A teacher showing his paper aeroplane](http://9gag.com/gag/a877mpd)
+ - 👉 [Why did they do this on live tv?](http://9gag.com/gag/aByyZP2)<!-- MEMES:END -->
 
 ---
 
