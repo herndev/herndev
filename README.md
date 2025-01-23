@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Just in case if you wonder how POV videos are made](http://9gag.com/gag/azxx5mq)
- - ⏩ [A teacher showing his paper aeroplane](http://9gag.com/gag/a877mpd)
- - 👉 [Why did they do this on live tv?](http://9gag.com/gag/aByyZP2)<!-- MEMES:END -->
+ - 💣 [There are about to be a lot of open spots at Harvard and Columbia!](http://9gag.com/gag/awyymeQ)
+ - ⏩ [In a nutshell](http://9gag.com/gag/aqyy87v)
+ - 👉 [This will face numerous legal challenges, but it&#39;s a good start](http://9gag.com/gag/aKGG1ZW)<!-- MEMES:END -->
 
 ---
 
