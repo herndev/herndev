@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Twilio says its adjusted operating margin will reach 21%- 22% in 2027, exceeding est. and up from 16.1% in the most recent quarter; TWLO jumps 11%+ after hours &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/250123/p46#a250123p46)
- - [Trump signs an EO to create a crypto working group led by David Sacks to consider a national digital asset stockpile &quot;potentially derived&quot; from seized crypto &lpar;MacKenzie Sigalos/CNBC&rpar;](http://www.techmeme.com/250123/p45#a250123p45)
- - [The Creators of &#39;Palworld&#39; Are Back—This Time With a Horror Game](https://www.wired.com/story/palworld-pocketpair-new-venture-surgent-studios/)<!-- TECH:END -->
+ - [Heat pumps in EVs are making a big difference in cold-weather driving](https://www.theverge.com/2025/1/23/24350602/electric-vehicle-heat-pump-better-range-tesla-etron-mustang-mach-e)
+ - [Google’s Gemini AI smart home controls are rolling out to everyone](https://www.theverge.com/2025/1/23/24350541/google-gemini-ai-smart-home-controls-launch)
+ - [Gamers are already using Nvidia’s DLSS 4 tech in Cyberpunk 2077](https://www.theverge.com/2025/1/23/24350558/nvidia-dlss-4-frame-generation-cyberpunk-2077-transformer-graphics-update-patch)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
