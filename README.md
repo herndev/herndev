@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tumblr’s experimental GIF feed finally launches after 10 years](https://www.theverge.com/2025/1/22/24349904/tumblr-tv-gif-video-tab)
- - [Court says Google doesn’t have to pay preposterous Russian fine &lpar;that it never could have anyway&rpar;](https://www.androidauthority.com/google-russian-fine-3519415/)
- - [Today&#39;s NYT Connections Hints, Answers and Help for Jan. 23, #592](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-jan-23-592/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Dog Food Delivery Services for 2025](https://www.cnet.com/home/kitchen-and-household/best-dog-food-delivery/#ftag=CAD590a51e)
+ - [Scale AI faces a lawsuit by six people who worked on its Outlier platform, claiming they were forced to write disturbing prompts about violence and abuse &lpar;Charles Rollet/TechCrunch&rpar;](http://www.techmeme.com/250122/p46#a250122p46)
+ - [Tumblr’s experimental GIF feed finally launches after 10 years](https://www.theverge.com/2025/1/22/24349904/tumblr-tv-gif-video-tab)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
