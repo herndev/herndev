@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Infinity Nikki: Every Method For Getting New Outfits](https://kotaku.com/infinity-nikki-get-new-clothes-outfits-heart-of-chests-1851746251)
- - [Clair Obscur: Expedition 33, the surreal debut RPG from Sandfall Interactive, is out this April and I can&#39;t wait to hang out with my inscrutable balloon comrade](https://www.pcgamer.com/games/rpg/clair-obscur-expedition-33-the-surreal-debut-rpg-from-sandfall-interactive-is-out-this-april-and-i-cant-wait-to-hang-out-with-my-inscrutable-balloon-comrade/)
- - [Pokémon TCG Pocket to add Tool cards — and they could dramatically shake up battles](https://www.polygon.com/gaming/512873/pokemon-tcg-pocket-tool-cards)<!-- GAME:END -->
+ - [Doctor Strange won&amp;#8217;t be in Avengers: Doomsday, says Benedict Cumberbatch](https://www.polygon.com/news/513064/avengers-doomsday-doctor-strange-benedict-cumberbatch)
+ - [Hearts of Iron board game will have you fighting the alternate history of WWII in a single sitting](https://www.polygon.com/board-games/512814/hearts-of-iron-board-game-preview-gamefound-campaign-launch-price-release-date)
+ - [Cyberpunk 2077&#39;s new patch arrives the day after I finally finished the game, and of course it fixes the one late-game bug that really annoyed me](https://www.pcgamer.com/games/rpg/cyberpunk-2077s-new-patch-arrives-the-day-after-i-finally-finished-the-game-and-of-course-it-fixes-the-one-late-game-bug-that-really-annoyed-me/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
