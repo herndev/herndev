@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How to complete ‘Poison in the Roots’ in Diablo 4](https://www.polygon.com/diablo-4-guides/511998/poison-in-the-roots-ritual-puzzle-solution)
- - [Celeste Devs Cancel Next Game After Falling Out And Difficult Development](https://kotaku.com/earthblade-canceled-celeste-towerfall-release-date-1851745616)
- - [Electronic Arts says &#39;Dragon Age and EA Sports FC 25 underperformed&#39; as it revises its financial outlook downward](https://www.pcgamer.com/gaming-industry/electronic-arts-says-dragon-age-and-ea-sports-fc-25-underperformed-as-it-revises-its-financial-outlook-downward/)<!-- GAME:END -->
+ - [Of all the Balatro-likes on Steam, I think I&#39;m enjoying this Mahjong version best](https://www.pcgamer.com/games/roguelike/of-all-the-balatro-likes-on-steam-i-think-im-enjoying-this-mahjong-version-best/)
+ - [Diablo 4 players pleasantly surprised to find the first boss of the new season is a challenge for once: &#39;it&#39;s nice to actually have to think and prepare for fights&#39;](https://www.pcgamer.com/games/rpg/diablo-4-players-pleasantly-surprised-to-find-the-first-boss-of-the-new-season-is-a-challenge-for-once-its-nice-to-actually-have-to-think-and-prepare-for-fights/)
+ - [&#39;I&#39;m so sorry Imagineddy&#39;: Path of Exile 2 players unite to shower gifts on a poor, sweet soul who got yelled at for trying to buy a quiver](https://www.pcgamer.com/games/rpg/im-so-sorry-imagineddy-path-of-exile-2-players-unite-to-shower-gifts-on-a-poor-sweet-soul-who-got-yelled-at-for-trying-to-buy-a-quiver/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
