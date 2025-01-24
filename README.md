@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [White privilege experiment](http://9gag.com/gag/adBBB6Q)
- - ⏩ [Abrupt Water \ud83c\udf0a](http://9gag.com/gag/a9yyy2W)
- - 👉 [Happy end](http://9gag.com/gag/aMVVPOR)<!-- MEMES:END -->
+ - 💣 [Happy end](http://9gag.com/gag/aMVVPOR)
+ - ⏩ [President Trump signs the Executive Order to declassify the JFK, RFK, and MLK Jr. files!](http://9gag.com/gag/a1mm0Bv)
+ - 👉 [This will face numerous legal challenges, but it&#39;s a good start](http://9gag.com/gag/aKGG1ZW)<!-- MEMES:END -->
 
 ---
 
