@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [In email to X staff, Musk says &quot;user growth is stagnant, revenue is unimpressive, and we&#39;re barely breaking even&quot;; sources: banks plan to sell their debt in X &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250124/p24#a250124p24)
- - [Windows 11 is getting colorful new battery icons that are easier to understand at a glance](https://www.theverge.com/2025/1/24/24351295/microsoft-windows-11-preview-insiders-battery-icon-percentage-color)
- - [The $900 Ayaneo 3 is the most exciting PC handheld the company’s yet made](https://www.theverge.com/2025/1/24/24351191/ayaneo-3-price-release-date-indiegogo-specs-handheld)<!-- TECH:END -->
+ - [Elon Musk email to X staff: ‘we’re barely breaking even’](https://www.theverge.com/2025/1/24/24351317/elon-musk-x-twitter-bank-debt-stagnant-growth)
+ - [TikTok still isn’t in the App Store](https://www.theverge.com/2025/1/24/24351281/tiktok-ios-app-store-android-google-play)
+ - [The TikTok ban forced a dilemma on US tech companies: risk alienating a mercurial president or risk breaking federal law and face up to billions in penalties &lpar;New York Times&rpar;](http://www.techmeme.com/250124/p25#a250124p25)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
