@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Next Week on Xbox: New Games for January 27 to 31](https://news.xbox.com/en-us/2025/01/24/next-week-on-xbox-new-games-for-january-27-to-31/)
- - [What is Severance season 2’s title sequence trying to tell us?](https://www.polygon.com/tv/513068/severance-season-2-title-sequence-animation-meaning)
- - [Genshin Impact version 5.4 livestream codes](https://www.polygon.com/genshin-impact-guides/512185/5-4-codes-livestream-redeem-primogems)<!-- GAME:END -->
+ - [How Avowed Lets You Choose Your Own Adventure with Incredible Freedom](https://news.xbox.com/en-us/2025/01/24/avowed-choose-your-own-adventure-incredible-freedom/)
+ - [Final Fantasy XIV Devs &#39;Discussing&#39; Ways To Fight Controversial Stalking Mod](https://kotaku.com/ff14-stalking-mod-playerscope-account-id-yoshida-1851747079)
+ - [One of Anker’s fastest power banks is just $70](https://www.polygon.com/good-deals/513360/anker-737-power-bank-140w-sale)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
