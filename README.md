@@ -48,7 +48,7 @@
 <!-- MEMES:START -->
  - 💣 [Woman spends weeks in jail, loses her job, and misses her kids&#39; birthdays, after police mistook SpaghettiO sauce on a spoon in her car for meth](http://9gag.com/gag/agmmQ5W)
  - ⏩ [A teacher showing his paper aeroplane](http://9gag.com/gag/a877mpd)
- - 👉 [Why did they do this on live tv?](http://9gag.com/gag/aByyZP2)<!-- MEMES:END -->
+ - 👉 [Good](http://9gag.com/gag/aqyyRnY)<!-- MEMES:END -->
 
 ---
 
