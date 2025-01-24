@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [How to open clogged sinkhole Chinese way](http://9gag.com/gag/azxx56z)
- - ⏩ [Welcome to Marketing](http://9gag.com/gag/aVvvZjn)
- - 👉 [Potatoes Gonna Potate](http://9gag.com/gag/aMVVzxR)<!-- MEMES:END -->
+ - 💣 [Skier Stumbles Upon Snowboarder Buried Alive And Saves Him from Certain Death](http://9gag.com/gag/a877DNZ)
+ - ⏩ [It really is](http://9gag.com/gag/a9yy6DL)
+ - 👉 [How to open clogged sinkhole Chinese way](http://9gag.com/gag/azxx56z)<!-- MEMES:END -->
 
 ---
 
