@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Happy end](http://9gag.com/gag/aMVVPOR)
- - ⏩ [President Trump signs the Executive Order to declassify the JFK, RFK, and MLK Jr. files!](http://9gag.com/gag/a1mm0Bv)
- - 👉 [This will face numerous legal challenges, but it&#39;s a good start](http://9gag.com/gag/aKGG1ZW)<!-- MEMES:END -->
+ - 💣 [That&#39;s the way to do it!](http://9gag.com/gag/azxxP5x)
+ - ⏩ [Like which people](http://9gag.com/gag/aE000no)
+ - 👉 [Just in case if you wonder how POV videos are made](http://9gag.com/gag/azxx5mq)<!-- MEMES:END -->
 
 ---
 
