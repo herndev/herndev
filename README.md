@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Who won the Super Bowl? Here’s why you shouldn’t ask Siri](https://www.androidauthority.com/ask-siri-who-won-super-bowl-3519937/)
- - [Mac mini upgrade, TikTok reversal, and the iPhone 17 Slim cameras, on the AppleInsider Podcast](https://appleinsider.com/articles/25/01/24/mac-mini-upgrade-tiktok-reversal-and-the-iphone-17-slim-cameras-on-the-appleinsider-podcast?utm_medium=rss)
- - [On January 31, the EC will question Meta, X, Snap, Google, TikTok, and LinkedIn on their plans to counter disinformation ahead of elections in Germany &lpar;Gian Volpicelli/Bloomberg&rpar;](http://www.techmeme.com/250124/p8#a250124p8)<!-- TECH:END -->
+ - [&#39;We Have Seen a Lot More Hate’: Trans People Are Already Terrified](https://www.wired.com/story/trump-executive-order-transgender-kids/)
+ - [Mark Zuckerberg says Meta is planning to invest $60B to $65B in capex in 2025, will end the year with 1.3M+ GPUs, and plans to grow its AI teams &quot;significantly&quot; &lpar;Jaspreet Singh/Reuters&rpar;](http://www.techmeme.com/250124/p9#a250124p9)
+ - [512GB is great but can we ditch 128GB next time, Samsung?](https://www.androidauthority.com/ditch-128gb-samsung-3518491/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
