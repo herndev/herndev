@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Severance Just Showed It&#39;s Been Hiding Its Biggest Mystery In Plain Sight](https://kotaku.com/severance-season-2-cold-harbor-mark-1851746671)
- - [All Genshin Impact 5.4 livestream codes](https://www.pcgamer.com/games/rpg/genshin-impact-codes-5-4-livestream/)
- - [A variant of Asus&#39; Q-release system has been accused of grinding GPU contact pins and the thought is making my teeth hurt](https://www.pcgamer.com/hardware/graphics-cards/a-variant-of-asus-q-release-system-has-been-accused-of-grinding-gpu-contact-pins-and-the-thought-is-making-my-teeth-hurt/)<!-- GAME:END -->
+ - [Diablo 4 fashion just got the major upgrade it’s always deserved](https://www.polygon.com/diablo/512420/diablo-4-wardrobe-transmog-update)
+ - [Palworld studio&#39;s first move as a publisher is to save a struggling indie dev: &#39;This is the energy I want to see driving games in 2025&#39;](https://www.pcgamer.com/gaming-industry/game-development/palworld-studios-first-move-as-a-publisher-is-to-save-a-struggling-indie-dev-this-is-the-energy-i-want-to-see-driving-games-in-2025/)
+ - [Doom: The Dark Ages&#39; &#39;iron tank&#39; gameplay takes things back to the very beginning: &#39;It feels more like classic Doom than any game we&#39;ve made up to this point&#39;](https://www.pcgamer.com/games/fps/doom-the-dark-ages-iron-tank-gameplay-takes-things-back-to-the-very-beginning-it-feels-more-like-classic-doom-than-any-game-weve-made-up-to-this-point/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
