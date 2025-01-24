@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [&#39;We Have Seen a Lot More Hate’: Trans People Are Already Terrified](https://www.wired.com/story/trump-executive-order-transgender-kids/)
- - [Mark Zuckerberg says Meta is planning to invest $60B to $65B in capex in 2025, will end the year with 1.3M+ GPUs, and plans to grow its AI teams &quot;significantly&quot; &lpar;Jaspreet Singh/Reuters&rpar;](http://www.techmeme.com/250124/p9#a250124p9)
- - [512GB is great but can we ditch 128GB next time, Samsung?](https://www.androidauthority.com/ditch-128gb-samsung-3518491/)<!-- TECH:END -->
+ - [Hironobu Sakaguchi wants his next &lpar;and maybe last&rpar; game to be ‘a successor to Final Fantasy VI’](https://www.theverge.com/2025/1/24/24350575/hironobu-sakaguchi-interview-fantasian-neo-dimension)
+ - [Chris Ware explains how to draw strangers on the bus without getting arrested](https://www.theverge.com/2025/1/24/24349754/chris-ware-cartoonist-art-drawing-acme-datebook-interview)
+ - [ASUS has an affordable ROG Phone 9 in the works and here’s what it looks like](https://www.androidauthority.com/asus-rog-phone-9-fe-leak-3519963/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
