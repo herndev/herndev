@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Brave online](http://9gag.com/gag/a6ZZZRN)
- - ⏩ [Massage Competition](http://9gag.com/gag/aD226DO)
- - 👉 [That horrific,](http://9gag.com/gag/aGyyy0w)<!-- MEMES:END -->
+ - 💣 [Remember why Trump got re-elected](http://9gag.com/gag/a7ooq9r)
+ - ⏩ [Illegaluigi. From the archives circa 2014](http://9gag.com/gag/aO88xe6)
+ - 👉 [Just in case if you wonder how POV videos are made](http://9gag.com/gag/azxx5mq)<!-- MEMES:END -->
 
 ---
 
