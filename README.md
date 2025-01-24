@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [You can do that?](http://9gag.com/gag/axyyvAW)
- - ⏩ [Michael J Fox](http://9gag.com/gag/aE00MeG)
- - 👉 [She said yes, right?](http://9gag.com/gag/apRR35M)<!-- MEMES:END -->
+ - 💣 [Horrible people](http://9gag.com/gag/a7oo9qr)
+ - ⏩ [...](http://9gag.com/gag/aQzzQZz)
+ - 👉 [No one is saving you, just put on a smile and say I\u2019m alright](http://9gag.com/gag/aD22Z7B)<!-- MEMES:END -->
 
 ---
 
