@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Join the War Robots: Frontiers Crossplay Playtest January 28th – February 3rd!](https://news.xbox.com/en-us/2025/01/24/join-the-war-robots-frontiers-crossplay-playtest-january-28th-february-3rd/)
  - [Mythic Quest Season 4: Still a nimble comedy with a ton of heart, and the best its been since its first season](https://www.pcgamer.com/movies-tv/mythic-quest-season-4-still-a-nimble-comedy-with-a-ton-of-heart-and-the-best-its-been-since-its-first-season/)
- - [Today&#39;s Wordle answer for Friday, January 24](https://www.pcgamer.com/games/puzzle/wordle-answer-today-january-24-2025/)
- - [How to romance Tifa in Final Fantasy 7 Rebirth](https://www.pcgamer.com/games/final-fantasy/ff7-rebirth-tifa-romance-guide/)<!-- GAME:END -->
+ - [Today&#39;s Wordle answer for Friday, January 24](https://www.pcgamer.com/games/puzzle/wordle-answer-today-january-24-2025/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
