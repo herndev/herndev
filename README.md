@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [&#39;When the world ends, people just dance&#39;: As another MMO comes to an end, players come together for a final farewell rave](https://www.pcgamer.com/games/mmo/when-the-world-ends-people-just-dance-as-another-mmo-comes-to-an-end-players-come-together-for-a-final-farewell-rave/)
- - [How to romance Aerith in Final Fantasy 7 Rebirth](https://www.pcgamer.com/games/final-fantasy/ff7-rebirth-aerith-romance-guide/)
- - [Every Hero Rumored To Be Coming To Marvel Rivals](https://kotaku.com/marvel-rivals-leak-rumored-heroes-characters-datamine-1851747643)<!-- GAME:END -->
+ - [While I&#39;m trapped indoors by one of the UK&#39;s worst storms, I&#39;m enjoying one of my favourite pastimes: trudging through gnarly weather in videogames](https://www.pcgamer.com/games/while-im-trapped-indoors-by-one-of-the-uks-worst-storms-im-enjoying-one-of-my-favourite-pastimes-trudging-through-gnarly-weather-in-videogames/)
+ - [Discoveries](https://www.polygon.com/gaming/24215620/new-things-to-play-watch-and-experience)
+ - [How to unlock the Chatterwhite shader in Destiny 2](https://www.polygon.com/destiny-2-guide-walkthrough/511996/chatterwhite-shader-unlock-how-to-get)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
