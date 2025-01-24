@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Horrible people](http://9gag.com/gag/a7oo9qr)
- - ⏩ [...](http://9gag.com/gag/aQzzQZz)
- - 👉 [No one is saving you, just put on a smile and say I\u2019m alright](http://9gag.com/gag/aD22Z7B)<!-- MEMES:END -->
+ - 💣 [1600$ graphic cards to play games with the latest unreal engine environment and this is what they give us.](http://9gag.com/gag/aNDDQW6)
+ - ⏩ [Equal opportunity](http://9gag.com/gag/apRRDYW)
+ - 👉 [When your racist pot reach top section on 9gag](http://9gag.com/gag/avyyeWE)<!-- MEMES:END -->
 
 ---
 
