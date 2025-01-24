@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [How to open clogged sinkhole Chinese way](http://9gag.com/gag/azxx56z)
- - ⏩ [Michael J Fox](http://9gag.com/gag/aE00MeG)
- - 👉 [In a video that has gone viral, a British Airways crew member gives a behind-the-scenes tour of a plane arriving in London from Pakistan](http://9gag.com/gag/apRRxKD)<!-- MEMES:END -->
+ - ⏩ [Welcome to Marketing](http://9gag.com/gag/aVvvZjn)
+ - 👉 [Potatoes Gonna Potate](http://9gag.com/gag/aMVVzxR)<!-- MEMES:END -->
 
 ---
 
