@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: OpenAI faces challenges in transitioning to for-profit status, including valuing Microsoft&#39;s stake; its charitable arm could be worth $30B &lpar;Financial Times&rpar;](http://www.techmeme.com/250124/p2#a250124p2)
- - [Thin, but not weak: What to expect from the Samsung Galaxy S25 Edge](https://www.androidauthority.com/samsung-galaxy-s25-edge-3519665/)
- - [Texas Instruments reports Q4 revenue down 1.7% YoY to $4.01B, net income down 12% YoY to $1.2B, and projects Q1, 2025 sales between $3.74B and $4.06B &lpar;Ian King/Bloomberg&rpar;](http://www.techmeme.com/250124/p1#a250124p1)<!-- TECH:END -->
+ - [Although Trump downplayed Elon Musk&#39;s Stargate criticism, assuring reporters &quot;they&#39;re putting up the money&quot;, key White House sources say they&#39;re furious at Musk &lpar;Politico&rpar;](http://www.techmeme.com/250124/p3#a250124p3)
+ - [Apple sued over toxic ‘forever chemicals’ in Apple Watch bands &lpar;Updated: Official statement&rpar;](https://www.androidauthority.com/apple-lawsuit-forever-chemicals-apple-watch-bands-3519496/)
+ - [Sources: OpenAI faces challenges in transitioning to for-profit status, including valuing Microsoft&#39;s stake; its charitable arm could be worth $30B &lpar;Financial Times&rpar;](http://www.techmeme.com/250124/p2#a250124p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
