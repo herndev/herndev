@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Heat pumps in EVs are making a big difference in cold-weather driving](https://www.theverge.com/2025/1/23/24350602/electric-vehicle-heat-pump-better-range-tesla-etron-mustang-mach-e)
- - [Google’s Gemini AI smart home controls are rolling out to everyone](https://www.theverge.com/2025/1/23/24350541/google-gemini-ai-smart-home-controls-launch)
- - [Gamers are already using Nvidia’s DLSS 4 tech in Cyberpunk 2077](https://www.theverge.com/2025/1/23/24350558/nvidia-dlss-4-frame-generation-cyberpunk-2077-transformer-graphics-update-patch)<!-- TECH:END -->
+ - [Google Calendar may finally bring sharing controls to mobile devices &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-calendar-sharing-3519769/)
+ - [HSBC shuts Zing after launching the payments app in Jan. 2024 to compete with Revolut and Wise, marking the latest failed fintech venture by a traditional bank &lpar;Akila Quinio/Financial Times&rpar;](http://www.techmeme.com/250123/p51#a250123p51)
+ - [Sources: Daniel Guarnera, a DOJ lawyer who helped file US antitrust lawsuits against Google and Apple, has been picked to lead the FTC&#39;s Bureau of Competition &lpar;Bloomberg&rpar;](http://www.techmeme.com/250123/p50#a250123p50)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
