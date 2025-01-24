@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Vitamins for Hair Growth in 2025](https://www.cnet.com/health/nutrition/best-vitamins-for-hair-growth/#ftag=CAD590a51e)
- - [How China&#39;s progress across a range of overlapping industries like smartphones, AI, robotics, and drones creates a mutually reinforcing feedback loop &lpar;Kyle Chan/High Capacity&rpar;](http://www.techmeme.com/250124/p4#a250124p4)
- - [This new AI assistant promises Gemini-like multi-app actions on Android](https://www.androidauthority.com/perplexity-assistant-android-3519824/)<!-- TECH:END -->
+ - [Tesla plans a software update for ~1.2M cars in China, around half its fleet in the country, to address power steering and rear-view camera issues &lpar;Bloomberg&rpar;](http://www.techmeme.com/250124/p5#a250124p5)
+ - [Galaxy S25 Ultra vs. S25 and S25 Plus: I Compared All the Major Specs and Features](https://www.cnet.com/tech/mobile/galaxy-s25-ultra-vs-s25-and-s25-plus-i-compared-all-the-major-specs-and-features/#ftag=CAD590a51e)
+ - [Take Advantage of High APYs While You Can](https://www.cnet.com/personal-finance/banking/take-advantage-of-high-apys-while-you-can/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
