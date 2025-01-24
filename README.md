@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [This new AI assistant promises Gemini-like multi-app actions on Android](https://www.androidauthority.com/perplexity-assistant-android-3519824/)
- - [Apple’s Android Automotive rival is delayed indefinitely](https://www.androidauthority.com/apple-carplay-2-delayed-indefinitely-3519835/)
- - [Galaxy S25 Edge could come with disappointingly slow ‘fast’ charging](https://www.androidauthority.com/samsung-galaxy-s25-edge-25w-fast-charging-leak-3519829/)<!-- TECH:END -->
+ - [Best Vitamins for Hair Growth in 2025](https://www.cnet.com/health/nutrition/best-vitamins-for-hair-growth/#ftag=CAD590a51e)
+ - [How China&#39;s progress across a range of overlapping industries like smartphones, AI, robotics, and drones creates a mutually reinforcing feedback loop &lpar;Kyle Chan/High Capacity&rpar;](http://www.techmeme.com/250124/p4#a250124p4)
+ - [This new AI assistant promises Gemini-like multi-app actions on Android](https://www.androidauthority.com/perplexity-assistant-android-3519824/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
