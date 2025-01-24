@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Woman spends weeks in jail, loses her job, and misses her kids&#39; birthdays, after police mistook SpaghettiO sauce on a spoon in her car for meth](http://9gag.com/gag/agmmQ5W)
- - ⏩ [A teacher showing his paper aeroplane](http://9gag.com/gag/a877mpd)
- - 👉 [Good](http://9gag.com/gag/aqyyRnY)<!-- MEMES:END -->
+ - 💣 [This will face numerous legal challenges, but it&#39;s a good start](http://9gag.com/gag/aKGG1ZW)
+ - ⏩ [Don&#39;t live in ignorance just because it&#39;s easy](http://9gag.com/gag/avyyegd)
+ - 👉 [President Trump signs the Executive Order to declassify the JFK, RFK, and MLK Jr. files!](http://9gag.com/gag/a1mm0Bv)<!-- MEMES:END -->
 
 ---
 
