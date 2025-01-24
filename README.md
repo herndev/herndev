@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [PE firm Everstone acquires Delhi-based Wingify, whose flagship product Visual Website Optimizer helps business improve their online conversion rates, for $200M &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/250123/p56#a250123p56)
- - [DeepSeek&#39;s latest AI model R1 sticks to Chinese government restrictions on sensitive topics like Tiananmen Square, Taiwan, and the treatment of Uyghurs in China &lpar;Jon Keegan/Sherwood News&rpar;](http://www.techmeme.com/250123/p55#a250123p55)
- - [Tesla brings its redesigned Model Y to the US, but keeps selling the old one too](https://www.theverge.com/2025/1/23/24350768/tesla-model-y-2025-redesign-us-north-america-europe-march)<!-- TECH:END -->
+ - [Sources: OpenAI faces challenges in transitioning to for-profit status, including valuing Microsoft&#39;s stake; its charitable arm could be worth $30B &lpar;Financial Times&rpar;](http://www.techmeme.com/250124/p2#a250124p2)
+ - [Thin, but not weak: What to expect from the Samsung Galaxy S25 Edge](https://www.androidauthority.com/samsung-galaxy-s25-edge-3519665/)
+ - [Texas Instruments reports Q4 revenue down 1.7% YoY to $4.01B, net income down 12% YoY to $1.2B, and projects Q1, 2025 sales between $3.74B and $4.06B &lpar;Ian King/Bloomberg&rpar;](http://www.techmeme.com/250124/p1#a250124p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
