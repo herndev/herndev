@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Forgotten inventions #52](http://9gag.com/gag/ajPPLxw)
- - ⏩ [Happy end](http://9gag.com/gag/aMVVPOR)
- - 👉 [Ash well that happened](http://9gag.com/gag/aByyZo1)<!-- MEMES:END -->
+ - 💣 [Happy end](http://9gag.com/gag/aMVVPOR)
+ - ⏩ [Not gonna suck itself](http://9gag.com/gag/aGyyBPn)
+ - 👉 [Burn](http://9gag.com/gag/aD22ZX9)<!-- MEMES:END -->
 
 ---
 
