@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Elon Musk email to X staff: ‘we’re barely breaking even’](https://www.theverge.com/2025/1/24/24351317/elon-musk-x-twitter-bank-debt-stagnant-growth)
- - [TikTok still isn’t in the App Store](https://www.theverge.com/2025/1/24/24351281/tiktok-ios-app-store-android-google-play)
- - [The TikTok ban forced a dilemma on US tech companies: risk alienating a mercurial president or risk breaking federal law and face up to billions in penalties &lpar;New York Times&rpar;](http://www.techmeme.com/250124/p25#a250124p25)<!-- TECH:END -->
+ - [Google Pixel Watch 4 wishlist: All the features I want to see](https://www.androidauthority.com/google-pixel-watch-4-3519808/)
+ - [AirPods 4 - four-month review: The best Apple earbuds for most people](https://appleinsider.com/articles/25/01/24/airpods-4---four-month-review-the-best-apple-earbuds-for-most-people?utm_medium=rss)
+ - [Google’s mobile search results are losing this 16-year-old feature for the sake of simplicity](https://www.androidauthority.com/mobile-google-search-breadcrumbs-3520144/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
