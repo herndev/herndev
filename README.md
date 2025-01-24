@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Deal: Save a record $200 on this excellent Acer gaming Chromebook](https://www.androidauthority.com/deal-acer-chromebook-plus-516-ge-3520051/)
- - [The FBI warns that North Korean IT workers are abusing their access to steal source code and extort US companies that have been tricked into hiring them &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/250124/p13#a250124p13)
- - [Live translations on Meta’s smart glasses work well — until they don’t](https://www.theverge.com/2025/1/24/24351013/ray-ban-meta-smart-glasses-translation-wearables)<!-- TECH:END -->
+ - [ShopMy, which lets brands run influencer marketing efforts, raised a $77.5M Series B led by Bessemer and Bain, sources say at a $410M valuation vs. $80M in 2024 &lpar;Katie Deighton/Wall Street Journal&rpar;](http://www.techmeme.com/250124/p19#a250124p19)
+ - [Retro Biosciences, the Sam Altman-backed startup that wants to use AI to develop therapies for extending human lifespan by a decade, is raising a $1B Series A &lpar;Financial Times&rpar;](http://www.techmeme.com/250124/p18#a250124p18)
+ - [Zuckerberg says Meta is building an AI engineer that will &quot;start contributing increasing amounts of code to our R&amp;D efforts&quot; and is planning a 2GW+ data center &lpar;Meghan Bobrowsky/Wall Street Journal&rpar;](http://www.techmeme.com/250124/p17#a250124p17)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
