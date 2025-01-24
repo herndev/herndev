@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [1600$ graphic cards to play games with the latest unreal engine environment and this is what they give us.](http://9gag.com/gag/aNDDQW6)
- - ⏩ [Equal opportunity](http://9gag.com/gag/apRRDYW)
- - 👉 [When your racist pot reach top section on 9gag](http://9gag.com/gag/avyyeWE)<!-- MEMES:END -->
+ - 💣 [How to open clogged sinkhole Chinese way](http://9gag.com/gag/azxx56z)
+ - ⏩ [Michael J Fox](http://9gag.com/gag/aE00MeG)
+ - 👉 [In a video that has gone viral, a British Airways crew member gives a behind-the-scenes tour of a plane arriving in London from Pakistan](http://9gag.com/gag/apRRxKD)<!-- MEMES:END -->
 
 ---
 
