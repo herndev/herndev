@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [OpenAI&#39;s Operator is your new autonomous AI assistant ready to do your biding across the web](https://www.pcgamer.com/software/ai/openais-operator-is-your-new-autonomous-ai-assistant-ready-to-do-your-biding-across-the-web/)
- - [Check Out The First Berserker: Khazan’s Demo Trailer](https://youtu.be/cmPEkkNnVgI?si=vNEDj3AwwLDJgmp0#new_tab)
- - [Join the War Robots: Frontiers Crossplay Playtest January 28th – February 3rd!](https://news.xbox.com/en-us/2025/01/24/join-the-war-robots-frontiers-crossplay-playtest-january-28th-february-3rd/)<!-- GAME:END -->
+ - [Severance Just Showed It&#39;s Been Hiding Its Biggest Mystery In Plain Sight](https://kotaku.com/severance-season-2-cold-harbor-mark-1851746671)
+ - [All Genshin Impact 5.4 livestream codes](https://www.pcgamer.com/games/rpg/genshin-impact-codes-5-4-livestream/)
+ - [A variant of Asus&#39; Q-release system has been accused of grinding GPU contact pins and the thought is making my teeth hurt](https://www.pcgamer.com/hardware/graphics-cards/a-variant-of-asus-q-release-system-has-been-accused-of-grinding-gpu-contact-pins-and-the-thought-is-making-my-teeth-hurt/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
