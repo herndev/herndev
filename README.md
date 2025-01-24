@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Remember why Trump got re-elected](http://9gag.com/gag/a7ooq9r)
- - ⏩ [Illegaluigi. From the archives circa 2014](http://9gag.com/gag/aO88xe6)
- - 👉 [Just in case if you wonder how POV videos are made](http://9gag.com/gag/azxx5mq)<!-- MEMES:END -->
+ - 💣 [1600$ graphic cards to play games with the latest unreal engine environment and this is what they give us.](http://9gag.com/gag/aNDDQW6)
+ - ⏩ [Happy end](http://9gag.com/gag/aMVVPOR)
+ - 👉 [President Trump signs the Executive Order to declassify the JFK, RFK, and MLK Jr. files!](http://9gag.com/gag/a1mm0Bv)<!-- MEMES:END -->
 
 ---
 
