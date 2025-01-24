@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Infinity Nikki’s Seven Different Currencies, Explained](https://kotaku.com/infinity-nikki-how-many-currencies-premium-currency-1851747508)
- - [Your Friendly Neighborhood Spider-Man Shows New Variations Of Marvel Favorites](https://kotaku.com/your-friendly-neighborhood-spider-man-marvel-venom-1851747418)
- - [Elon Musk’s Nazi salute stunt prompts major gaming subreddits to ban links to X](https://www.polygon.com/news/512964/reddit-nintendo-destiny-x-twitter-elon-musk-link-ban-blacklist)<!-- GAME:END -->
+ - [&#39;When the world ends, people just dance&#39;: As another MMO comes to an end, players come together for a final farewell rave](https://www.pcgamer.com/games/mmo/when-the-world-ends-people-just-dance-as-another-mmo-comes-to-an-end-players-come-together-for-a-final-farewell-rave/)
+ - [How to romance Aerith in Final Fantasy 7 Rebirth](https://www.pcgamer.com/games/final-fantasy/ff7-rebirth-aerith-romance-guide/)
+ - [Every Hero Rumored To Be Coming To Marvel Rivals](https://kotaku.com/marvel-rivals-leak-rumored-heroes-characters-datamine-1851747643)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
