@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Metaball New Year Update Adds Story Mode, Ranked Play, New Maps and More](https://news.xbox.com/en-us/2025/01/24/metaball-new-year-update/)
- - [Paper Mario’s trans representation earns Nintendo a GLAAD Awards nomination](https://www.polygon.com/news/512727/paper-mario-thousand-year-door-glaad-award-trans-representation-vivian)
- - [Dragon Age: The Veilguard&#39;s latest update sure sounds like its last](https://www.pcgamer.com/games/rpg/dragon-age-the-veilguards-latest-update-sure-sounds-like-its-last/)<!-- GAME:END -->
+ - [Infinity Nikki’s Seven Different Currencies, Explained](https://kotaku.com/infinity-nikki-how-many-currencies-premium-currency-1851747508)
+ - [Your Friendly Neighborhood Spider-Man Shows New Variations Of Marvel Favorites](https://kotaku.com/your-friendly-neighborhood-spider-man-marvel-venom-1851747418)
+ - [Elon Musk’s Nazi salute stunt prompts major gaming subreddits to ban links to X](https://www.polygon.com/news/512964/reddit-nintendo-destiny-x-twitter-elon-musk-link-ban-blacklist)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
