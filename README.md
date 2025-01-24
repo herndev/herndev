@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Galaxy S25 Edge could come with disappointingly slow ‘fast’ charging](https://www.androidauthority.com/samsung-galaxy-s25-edge-25w-fast-charging-leak-3519829/)
- - [Although Trump downplayed Elon Musk&#39;s Stargate criticism, assuring reporters &quot;they&#39;re putting up the money&quot;, key White House sources say they&#39;re furious at Musk &lpar;Politico&rpar;](http://www.techmeme.com/250124/p3#a250124p3)
- - [Apple sued over toxic ‘forever chemicals’ in Apple Watch bands &lpar;Updated: Official statement&rpar;](https://www.androidauthority.com/apple-lawsuit-forever-chemicals-apple-watch-bands-3519496/)<!-- TECH:END -->
+ - [This new AI assistant promises Gemini-like multi-app actions on Android](https://www.androidauthority.com/perplexity-assistant-android-3519824/)
+ - [Apple’s Android Automotive rival is delayed indefinitely](https://www.androidauthority.com/apple-carplay-2-delayed-indefinitely-3519835/)
+ - [Galaxy S25 Edge could come with disappointingly slow ‘fast’ charging](https://www.androidauthority.com/samsung-galaxy-s25-edge-25w-fast-charging-leak-3519829/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
