@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle answer for Friday, January 24](https://www.pcgamer.com/games/puzzle/wordle-answer-today-january-24-2025/)
  - [How to romance Tifa in Final Fantasy 7 Rebirth](https://www.pcgamer.com/games/final-fantasy/ff7-rebirth-tifa-romance-guide/)
- - [The new off-road exploration game from the makers of Art of Rally looks like Mudrunner meets Firewatch, and I can&#39;t wait to get behind the wheel](https://www.pcgamer.com/games/racing/the-new-off-road-exploration-game-from-the-makers-of-art-of-rally-looks-like-mudrunner-meets-firewatch-and-i-cant-wait-to-get-behind-the-wheel/)
- - [Doom: The Dark Ages is overhauling Glory Kills so you can &#39;transition from melee strikes to guns to shield play to an execution&#39; without interrupting your demonslaying momentum](https://www.pcgamer.com/games/fps/doom-the-dark-ages-is-overhauling-glory-kills-so-you-can-transition-from-melee-strikes-to-guns-to-shield-play-to-an-execution-without-interrupting-your-demonslaying-momentum/)<!-- GAME:END -->
+ - [The new off-road exploration game from the makers of Art of Rally looks like Mudrunner meets Firewatch, and I can&#39;t wait to get behind the wheel](https://www.pcgamer.com/games/racing/the-new-off-road-exploration-game-from-the-makers-of-art-of-rally-looks-like-mudrunner-meets-firewatch-and-i-cant-wait-to-get-behind-the-wheel/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
