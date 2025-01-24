@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Hironobu Sakaguchi wants his next &lpar;and maybe last&rpar; game to be ‘a successor to Final Fantasy VI’](https://www.theverge.com/2025/1/24/24350575/hironobu-sakaguchi-interview-fantasian-neo-dimension)
- - [Chris Ware explains how to draw strangers on the bus without getting arrested](https://www.theverge.com/2025/1/24/24349754/chris-ware-cartoonist-art-drawing-acme-datebook-interview)
- - [ASUS has an affordable ROG Phone 9 in the works and here’s what it looks like](https://www.androidauthority.com/asus-rog-phone-9-fe-leak-3519963/)<!-- TECH:END -->
+ - [Deal: Save a record $200 on this excellent Acer gaming Chromebook](https://www.androidauthority.com/deal-acer-chromebook-plus-516-ge-3520051/)
+ - [The FBI warns that North Korean IT workers are abusing their access to steal source code and extort US companies that have been tricked into hiring them &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/250124/p13#a250124p13)
+ - [Live translations on Meta’s smart glasses work well — until they don’t](https://www.theverge.com/2025/1/24/24351013/ray-ban-meta-smart-glasses-translation-wearables)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
