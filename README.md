@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Brilliant Speech](http://9gag.com/gag/aVvvo1K)
- - ⏩ [President Trump signs the Executive Order to declassify the JFK, RFK, and MLK Jr. files!](http://9gag.com/gag/a1mm0Bv)
- - 👉 [Not gonna suck itself](http://9gag.com/gag/aGyyBPn)<!-- MEMES:END -->
+ - 💣 [Why did they do this on live tv?](http://9gag.com/gag/aByyZP2)
+ - ⏩ [1600$ graphic cards to play games with the latest unreal engine environment and this is what they give us.](http://9gag.com/gag/aNDDQW6)
+ - 👉 [That&#39;s the way to do it!](http://9gag.com/gag/azxxP5x)<!-- MEMES:END -->
 
 ---
 
