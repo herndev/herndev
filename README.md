@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Much delayed next generation CarPlay is still coming, says Apple](https://appleinsider.com/articles/25/01/24/much-delayed-next-generation-carplay-is-still-coming-says-apple?utm_medium=rss)
- - [Galaxy S25 series can help you in a no-network emergency, but only if you are on Verizon](https://www.androidauthority.com/samsung-galaxy-s25-verizon-satellite-sos-messaging-3519898/)
- - [Instagram and Facebook removed posts from two abortion pill providers; Instagram also suspended accounts; Meta confirmed and restored some of the accounts &lpar;New York Times&rpar;](http://www.techmeme.com/250124/p6#a250124p6)<!-- TECH:END -->
+ - [5 Physics Equations Everyone Should Know](https://www.wired.com/story/5-physics-equations-everyone-should-know/)
+ - [Google Fi is once again sending out $25 relief credits](https://www.androidauthority.com/google-fi-wildfire-relief-credit-3519929/)
+ - [The CMA says Google has agreed to curb UK businesses using fake reviews to boost ratings and must report to the CMA on its efforts for the next three years &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/250124/p7#a250124p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
