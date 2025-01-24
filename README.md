@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Dwarf Fortress finally got its roguelike Adventure Mode on Steam, so if you&#39;ll excuse me, I&#39;ve got to go fire up a fresh wombat man](https://www.pcgamer.com/games/sim/dwarf-fortress-finally-got-its-roguelike-adventure-mode-on-steam-so-if-youll-excuse-me-ive-got-to-go-fire-up-a-fresh-wombat-man/)
- - [Doom: The Dark Ages has no multiplayer: &#39;Our campaigns are, to a great extent, what people come to the modern Doom games to play&#39;](https://www.pcgamer.com/games/fps/doom-the-dark-ages-has-no-multiplayer-our-campaigns-are-to-a-great-extent-what-people-come-to-the-modern-doom-games-to-play/)
- - [Quit worrying about game install sizes with these future-proof SSDs](https://www.pcgamer.com/hardware/ssds/quit-worrying-about-game-install-sizes-with-these-future-proof-ssds/)<!-- GAME:END -->
+ - [How to romance Tifa in Final Fantasy 7 Rebirth](https://www.pcgamer.com/games/final-fantasy/ff7-rebirth-tifa-romance-guide/)
+ - [The new off-road exploration game from the makers of Art of Rally looks like Mudrunner meets Firewatch, and I can&#39;t wait to get behind the wheel](https://www.pcgamer.com/games/racing/the-new-off-road-exploration-game-from-the-makers-of-art-of-rally-looks-like-mudrunner-meets-firewatch-and-i-cant-wait-to-get-behind-the-wheel/)
+ - [Doom: The Dark Ages is overhauling Glory Kills so you can &#39;transition from melee strikes to guns to shield play to an execution&#39; without interrupting your demonslaying momentum](https://www.pcgamer.com/games/fps/doom-the-dark-ages-is-overhauling-glory-kills-so-you-can-transition-from-melee-strikes-to-guns-to-shield-play-to-an-execution-without-interrupting-your-demonslaying-momentum/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
