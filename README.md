@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Skier Stumbles Upon Snowboarder Buried Alive And Saves Him from Certain Death](http://9gag.com/gag/a877DNZ)
- - ⏩ [It really is](http://9gag.com/gag/a9yy6DL)
- - 👉 [How to open clogged sinkhole Chinese way](http://9gag.com/gag/azxx56z)<!-- MEMES:END -->
+ - 💣 [So, you think you are old, but are you this old?](http://9gag.com/gag/aD22ZqO)
+ - ⏩ [Eminem, his mom and younger brother, 1990s](http://9gag.com/gag/ae991yW)
+ - 👉 [Two dudes in 2003, unaware they were making a legendary song](http://9gag.com/gag/an772Lb)<!-- MEMES:END -->
 
 ---
 
