@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [ShopMy, which lets brands run influencer marketing efforts, raised a $77.5M Series B led by Bessemer and Bain, sources say at a $410M valuation vs. $80M in 2024 &lpar;Katie Deighton/Wall Street Journal&rpar;](http://www.techmeme.com/250124/p19#a250124p19)
- - [Retro Biosciences, the Sam Altman-backed startup that wants to use AI to develop therapies for extending human lifespan by a decade, is raising a $1B Series A &lpar;Financial Times&rpar;](http://www.techmeme.com/250124/p18#a250124p18)
- - [Zuckerberg says Meta is building an AI engineer that will &quot;start contributing increasing amounts of code to our R&amp;D efforts&quot; and is planning a 2GW+ data center &lpar;Meghan Bobrowsky/Wall Street Journal&rpar;](http://www.techmeme.com/250124/p17#a250124p17)<!-- TECH:END -->
+ - [Google’s Phone app may finally let you use filters to sort through your call log &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-phone-call-log-filters-3520065/)
+ - [Similarweb: RedNote&#39;s DAUs in the US fell by 54% on January 20 when the TikTok ban was put on hold, after reaching a high of 32.5M DAUs on the day of the ban &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/250124/p21#a250124p21)
+ - [Best Multivitamins for 2025](https://www.cnet.com/health/nutrition/best-multivitamins/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
