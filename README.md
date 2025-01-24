@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [While I&#39;m trapped indoors by one of the UK&#39;s worst storms, I&#39;m enjoying one of my favourite pastimes: trudging through gnarly weather in videogames](https://www.pcgamer.com/games/while-im-trapped-indoors-by-one-of-the-uks-worst-storms-im-enjoying-one-of-my-favourite-pastimes-trudging-through-gnarly-weather-in-videogames/)
- - [Discoveries](https://www.polygon.com/gaming/24215620/new-things-to-play-watch-and-experience)
- - [How to unlock the Chatterwhite shader in Destiny 2](https://www.polygon.com/destiny-2-guide-walkthrough/511996/chatterwhite-shader-unlock-how-to-get)<!-- GAME:END -->
+ - [Assassin&#39;s Creed Shadows started with a single Ghost of Tsushima-like protagonist, but &#39;it&#39;s not representing what the samurai and shinobi are if it&#39;s the same character&#39;](https://www.pcgamer.com/games/assassins-creed/assassins-creed-shadows-started-with-a-single-ghost-of-tsushima-like-protagonist-but-its-not-representing-what-the-samurai-and-shinobi-are-if-its-the-same-character/)
+ - [These two games demand you type if you want to survive](https://www.polygon.com/gaming/513941/typing-games-dead-letters-dept-cryptmaster)
+ - [Rey-Focused Star Wars Movie Gets Fourth New Writer](https://kotaku.com/star-wars-new-jedi-order-writer-replaced-rey-delayed-1851747797)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
