@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Introducing the Xbox Excellence Awards, Honoring the Studios Behind the Games You Loved Most in 2024](https://news.xbox.com/en-us/2025/01/24/xbox-excellence-awards/)
- - [Former BioWare vet says the studio is focused on a single game &#39;for the first time maybe ever&#39; with Mass Effect 5—and whether that&#39;s good or bad is anyone&#39;s guess](https://www.pcgamer.com/games/rpg/former-bioware-vet-says-the-studio-is-focused-on-a-single-game-for-the-first-time-maybe-ever-with-mass-effect-5-and-whether-thats-good-or-bad-is-anyones-guess/)
- - [I tried out GeForce Now&#39;s expanded mod support for Baldur&#39;s Gate 3, and it&#39;s nothing but a good thing for the future of the game](https://www.pcgamer.com/games/baldurs-gate/i-tried-out-geforce-nows-mod-support-for-baldurs-gate-3-and-its-nothing-but-a-good-thing-for-the-future-of-the-game/)<!-- GAME:END -->
+ - [Dynasty Warriors: Origins goaded me into spending an hour trying to beat Lu Bu, then gave me nothing for winning—and I loved it](https://www.pcgamer.com/games/action/dynasty-warriors-origins-goaded-me-into-spending-an-hour-trying-to-beat-lu-bu-then-gave-me-nothing-for-winning-and-i-loved-it/)
+ - [Pokémon&#39;s New Prismatic Evolutions Cards Are Selling For Crazy Money](https://kotaku.com/pokemon-tcg-prismatic-evolutions-prices-umbreon-1851747243)
+ - [A European storefront listing suggests the RTX 5070 Ti may be launching on February 20 and there might actually be a good reason to believe it](https://www.pcgamer.com/hardware/a-european-storefront-listing-suggests-the-rtx-5070-ti-may-be-launching-on-february-20-and-there-might-actually-be-a-good-reason-to-believe-it/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
