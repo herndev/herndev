@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Dynasty Warriors: Origins goaded me into spending an hour trying to beat Lu Bu, then gave me nothing for winning—and I loved it](https://www.pcgamer.com/games/action/dynasty-warriors-origins-goaded-me-into-spending-an-hour-trying-to-beat-lu-bu-then-gave-me-nothing-for-winning-and-i-loved-it/)
- - [Pokémon&#39;s New Prismatic Evolutions Cards Are Selling For Crazy Money](https://kotaku.com/pokemon-tcg-prismatic-evolutions-prices-umbreon-1851747243)
- - [A European storefront listing suggests the RTX 5070 Ti may be launching on February 20 and there might actually be a good reason to believe it](https://www.pcgamer.com/hardware/a-european-storefront-listing-suggests-the-rtx-5070-ti-may-be-launching-on-february-20-and-there-might-actually-be-a-good-reason-to-believe-it/)<!-- GAME:END -->
+ - [Metaball New Year Update Adds Story Mode, Ranked Play, New Maps and More](https://news.xbox.com/en-us/2025/01/24/metaball-new-year-update/)
+ - [Paper Mario’s trans representation earns Nintendo a GLAAD Awards nomination](https://www.polygon.com/news/512727/paper-mario-thousand-year-door-glaad-award-trans-representation-vivian)
+ - [Dragon Age: The Veilguard&#39;s latest update sure sounds like its last](https://www.pcgamer.com/games/rpg/dragon-age-the-veilguards-latest-update-sure-sounds-like-its-last/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
