@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Diablo 4 fashion just got the major upgrade it’s always deserved](https://www.polygon.com/diablo/512420/diablo-4-wardrobe-transmog-update)
- - [Palworld studio&#39;s first move as a publisher is to save a struggling indie dev: &#39;This is the energy I want to see driving games in 2025&#39;](https://www.pcgamer.com/gaming-industry/game-development/palworld-studios-first-move-as-a-publisher-is-to-save-a-struggling-indie-dev-this-is-the-energy-i-want-to-see-driving-games-in-2025/)
- - [Doom: The Dark Ages&#39; &#39;iron tank&#39; gameplay takes things back to the very beginning: &#39;It feels more like classic Doom than any game we&#39;ve made up to this point&#39;](https://www.pcgamer.com/games/fps/doom-the-dark-ages-iron-tank-gameplay-takes-things-back-to-the-very-beginning-it-feels-more-like-classic-doom-than-any-game-weve-made-up-to-this-point/)<!-- GAME:END -->
+ - [Next Week on Xbox: New Games for January 27 to 31](https://news.xbox.com/en-us/2025/01/24/next-week-on-xbox-new-games-for-january-27-to-31/)
+ - [What is Severance season 2’s title sequence trying to tell us?](https://www.polygon.com/tv/513068/severance-season-2-title-sequence-animation-meaning)
+ - [Genshin Impact version 5.4 livestream codes](https://www.polygon.com/genshin-impact-guides/512185/5-4-codes-livestream-redeem-primogems)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
