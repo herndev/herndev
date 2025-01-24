@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tesla plans a software update for ~1.2M cars in China, around half its fleet in the country, to address power steering and rear-view camera issues &lpar;Bloomberg&rpar;](http://www.techmeme.com/250124/p5#a250124p5)
- - [Galaxy S25 Ultra vs. S25 and S25 Plus: I Compared All the Major Specs and Features](https://www.cnet.com/tech/mobile/galaxy-s25-ultra-vs-s25-and-s25-plus-i-compared-all-the-major-specs-and-features/#ftag=CAD590a51e)
- - [Take Advantage of High APYs While You Can](https://www.cnet.com/personal-finance/banking/take-advantage-of-high-apys-while-you-can/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Much delayed next generation CarPlay is still coming, says Apple](https://appleinsider.com/articles/25/01/24/much-delayed-next-generation-carplay-is-still-coming-says-apple?utm_medium=rss)
+ - [Galaxy S25 series can help you in a no-network emergency, but only if you are on Verizon](https://www.androidauthority.com/samsung-galaxy-s25-verizon-satellite-sos-messaging-3519898/)
+ - [Instagram and Facebook removed posts from two abortion pill providers; Instagram also suspended accounts; Meta confirmed and restored some of the accounts &lpar;New York Times&rpar;](http://www.techmeme.com/250124/p6#a250124p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
