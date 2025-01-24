@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [5 Physics Equations Everyone Should Know](https://www.wired.com/story/5-physics-equations-everyone-should-know/)
- - [Google Fi is once again sending out $25 relief credits](https://www.androidauthority.com/google-fi-wildfire-relief-credit-3519929/)
- - [The CMA says Google has agreed to curb UK businesses using fake reviews to boost ratings and must report to the CMA on its efforts for the next three years &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/250124/p7#a250124p7)<!-- TECH:END -->
+ - [Who won the Super Bowl? Here’s why you shouldn’t ask Siri](https://www.androidauthority.com/ask-siri-who-won-super-bowl-3519937/)
+ - [Mac mini upgrade, TikTok reversal, and the iPhone 17 Slim cameras, on the AppleInsider Podcast](https://appleinsider.com/articles/25/01/24/mac-mini-upgrade-tiktok-reversal-and-the-iphone-17-slim-cameras-on-the-appleinsider-podcast?utm_medium=rss)
+ - [On January 31, the EC will question Meta, X, Snap, Google, TikTok, and LinkedIn on their plans to counter disinformation ahead of elections in Germany &lpar;Gian Volpicelli/Bloomberg&rpar;](http://www.techmeme.com/250124/p8#a250124p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
