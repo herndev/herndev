@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [She said yes, right?](http://9gag.com/gag/apRR35M)
- - ⏩ [Just in case if you wonder how POV videos are made](http://9gag.com/gag/azxx5mq)
- - 👉 [Massage Competition](http://9gag.com/gag/aD226DO)<!-- MEMES:END -->
+ - 💣 [Forgotten inventions #52](http://9gag.com/gag/ajPPLxw)
+ - ⏩ [Happy end](http://9gag.com/gag/aMVVPOR)
+ - 👉 [Ash well that happened](http://9gag.com/gag/aByyZo1)<!-- MEMES:END -->
 
 ---
 
