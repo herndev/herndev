@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How Avowed Lets You Choose Your Own Adventure with Incredible Freedom](https://news.xbox.com/en-us/2025/01/24/avowed-choose-your-own-adventure-incredible-freedom/)
- - [Final Fantasy XIV Devs &#39;Discussing&#39; Ways To Fight Controversial Stalking Mod](https://kotaku.com/ff14-stalking-mod-playerscope-account-id-yoshida-1851747079)
- - [One of Anker’s fastest power banks is just $70](https://www.polygon.com/good-deals/513360/anker-737-power-bank-140w-sale)<!-- GAME:END -->
+ - [Introducing the Xbox Excellence Awards, Honoring the Studios Behind the Games You Loved Most in 2024](https://news.xbox.com/en-us/2025/01/24/xbox-excellence-awards/)
+ - [Former BioWare vet says the studio is focused on a single game &#39;for the first time maybe ever&#39; with Mass Effect 5—and whether that&#39;s good or bad is anyone&#39;s guess](https://www.pcgamer.com/games/rpg/former-bioware-vet-says-the-studio-is-focused-on-a-single-game-for-the-first-time-maybe-ever-with-mass-effect-5-and-whether-thats-good-or-bad-is-anyones-guess/)
+ - [I tried out GeForce Now&#39;s expanded mod support for Baldur&#39;s Gate 3, and it&#39;s nothing but a good thing for the future of the game](https://www.pcgamer.com/games/baldurs-gate/i-tried-out-geforce-nows-mod-support-for-baldurs-gate-3-and-its-nothing-but-a-good-thing-for-the-future-of-the-game/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
