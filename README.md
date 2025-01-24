@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google’s Phone app may finally let you use filters to sort through your call log &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-phone-call-log-filters-3520065/)
- - [Similarweb: RedNote&#39;s DAUs in the US fell by 54% on January 20 when the TikTok ban was put on hold, after reaching a high of 32.5M DAUs on the day of the ban &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/250124/p21#a250124p21)
- - [Best Multivitamins for 2025](https://www.cnet.com/health/nutrition/best-multivitamins/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [iOS 18 adoption steady as users explore AI &amp; customization](https://appleinsider.com/articles/25/01/24/ios-18-adoption-steady-as-users-explore-ai-customization?utm_medium=rss)
+ - [Epic adds nearly 20 third-party games to its mobile store, launches free games program](https://www.androidauthority.com/epic-games-store-mobile-free-games-3520086/)
+ - [You’ll soon be able to customize the haptics for your Pixel’s ringtone and notification alert](https://www.androidauthority.com/google-sounds-custom-vibration-pattern-3507934/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
