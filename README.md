@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Classic Bond.](http://9gag.com/gag/a0eexDL)
- - ⏩ [Go Neil](http://9gag.com/gag/a9yyX00)
- - 👉 [My man](http://9gag.com/gag/aW442X4)<!-- MEMES:END -->
+ - 💣 [A lovely night in thailand part 1](http://9gag.com/gag/aGyyoEn)
+ - ⏩ [People Offering Prayers At River Yamuna, India, Which Is Frothing From Industrial Waste](http://9gag.com/gag/aRBByKA)
+ - 👉 [Mmmm Bobbehhh](http://9gag.com/gag/aByyXjP)<!-- MEMES:END -->
 
 ---
 
