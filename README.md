@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [My man](http://9gag.com/gag/aW442X4)
- - ⏩ [We are idiots](http://9gag.com/gag/aByyvwz)
- - 👉 [200 iq move](http://9gag.com/gag/aByyvQD)<!-- MEMES:END -->
+ - 💣 [Listen to her](http://9gag.com/gag/awyyv4Q)
+ - ⏩ [People Offering Prayers At River Yamuna, India, Which Is Frothing From Industrial Waste](http://9gag.com/gag/aRBByKA)
+ - 👉 [My man](http://9gag.com/gag/aW442X4)<!-- MEMES:END -->
 
 ---
 
