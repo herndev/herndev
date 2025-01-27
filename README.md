@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The `fair` media](http://9gag.com/gag/a5QQDWO)
- - ⏩ [Skynet is closer than you think](http://9gag.com/gag/a344pwv)
- - 👉 [Show a little patience.](http://9gag.com/gag/aLnnNex)<!-- MEMES:END -->
+ - 💣 [Name a more dynamic duo! I\u2019ll wait!](http://9gag.com/gag/abAAR5E)
+ - ⏩ [Make education legal again](http://9gag.com/gag/a877XwY)
+ - 👉 [Never do free sample in China.](http://9gag.com/gag/ajPPM1G)<!-- MEMES:END -->
 
 ---
 
