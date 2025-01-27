@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How Dimension 20 gets ready for a live show](https://www.polygon.com/actual-play/513976/dimension-20-live-show-prep-interview)
- - [Hogwarts Legacy is getting official mod support and a creator kit in a few days, and has now sold over 30 million copies](https://www.pcgamer.com/games/action/hogwarts-legacy-is-getting-official-mod-support-and-a-creator-kit-in-a-few-days-and-has-now-sold-over-30-million-copies/)
- - [Beloved Bethesda RPG voice actor Wes Johnson is in critical condition after being found &#39;unconscious and barely alive,&#39; and his family is asking for help from fans](https://www.pcgamer.com/games/the-elder-scrolls/beloved-bethesda-rpg-voice-actor-wes-johnson-is-in-critical-condition-after-being-found-unconscious-and-barely-alive-and-his-family-is-asking-for-help-from-fans/)<!-- GAME:END -->
+ - [Is this the end of Dragon Age? Veilguard was good, but BioWare needed an all-timer, and I&#39;m nervous about what&#39;s next](https://www.pcgamer.com/games/dragon-age/is-this-the-end-of-dragon-age-veilguard-was-good-but-bioware-needed-an-all-timer-and-im-nervous-about-whats-next/)
+ - [Dauntless developer Phoenix Labs lays off &#39;the majority of the studio&#39; after a year of turmoil](https://www.pcgamer.com/games/action/dauntless-developer-phoenix-labs-lays-off-the-majority-of-the-studio-after-a-year-of-turmoil/)
+ - [New Alien Series Trailer Reminds Me We Need A New AVP Game](https://kotaku.com/alien-earth-new-trailer-teaser-first-person-xenomorph-1851748814)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
