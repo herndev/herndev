@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Switch emulation on Android just got a big upgrade for some of the best games](https://www.androidauthority.com/citron-switch-emulator-compatibility-3520414/)
- - [DeepSeek shows the complete lack of lock-in that any of these chatbots have, and such a powerful model coming from China may cement &quot;AGI&quot; as a national project &lpar;Bloomberg&rpar;](http://www.techmeme.com/250127/p13#a250127p13)
- - [Apple&#39;s iPad mini 7 is back on sale for $399 in month-end price war](https://appleinsider.com/articles/25/01/27/apples-ipad-mini-7-is-back-on-sale-for-399-in-month-end-price-war?utm_medium=rss)<!-- TECH:END -->
+ - [New Spotify and UMG deal could create pricier ‘superfan’ subscription](https://www.theverge.com/2025/1/27/24352993/spotify-universal-music-publishing-direct-agreement-deal-superfan-new-subscriptions)
+ - [DeepSeek says it&#39;s temporarily limiting new user registrations &quot;due to large-scale malicious attacks&quot; on its services &lpar;Hayden Field/CNBC&rpar;](http://www.techmeme.com/250127/p15#a250127p15)
+ - [Apple brings TV broadcast info and more soccer coverage to Apple Sports](https://appleinsider.com/articles/25/01/27/apple-brings-tv-broadcast-info-and-more-soccer-coverage-to-apple-sports?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
