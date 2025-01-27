@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Nothing made a Snapdragon 8 Elite phone… in theory](https://www.androidauthority.com/nothing-snapdragon-8-elite-phone-mkbhd-3520300/)
  - [A look at China&#39;s booming crypto market, with Chinese traders using VPNs, overseas shell companies, and peer-to-peer networks to circumvent China&#39;s crackdown &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250127/p3#a250127p3)
- - [Court filing: Indian digital news firms, including NDTV, Network18, and Hindustan Times, join a copyright lawsuit against OpenAI, first filed by ANI in 2024 &lpar;Reuters&rpar;](http://www.techmeme.com/250127/p2#a250127p2)
- - [The first Samsung Galaxy Z Flip 7 camera specs have leaked](https://www.androidauthority.com/samsung-galaxy-z-flip-7-camera-specs-leak-3520293/)<!-- TECH:END -->
+ - [Court filing: Indian digital news firms, including NDTV, Network18, and Hindustan Times, join a copyright lawsuit against OpenAI, first filed by ANI in 2024 &lpar;Reuters&rpar;](http://www.techmeme.com/250127/p2#a250127p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
