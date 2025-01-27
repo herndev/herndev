@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Cuisineer Plates Up a Buffet of New Features on Xbox](https://news.xbox.com/en-us/2025/01/27/cuisineer-xbox-festivals/)
- - [Switch 2 will get Xbox games, too](https://www.polygon.com/news/514398/nintendo-switch-2-xbox-games)
- - [Discoveries](https://www.polygon.com/gaming/24215620/new-things-to-play-watch-and-experience)<!-- GAME:END -->
+ - [Long-Gone Classics The Sims 1 And 2 Are Finally Coming Back To PC](https://kotaku.com/sims-1-2-remaster-pc-buy-ea-maxis-steam-1851748658)
+ - [New Game Pass RPG Is One Of The First Great Games Of 2025](https://kotaku.com/eternal-strands-game-pass-laidlaw-open-world-zelda-ps5-1851748657)
+ - [Ubisoft closes another studio, announces layoffs at 3 more as part of &#39;ongoing efforts to prioritize projects and reduce costs&#39;](https://www.pcgamer.com/gaming-industry/ubisoft-closes-another-studio-announces-layoffs-at-3-more-as-part-of-ongoing-efforts-to-prioritize-projects-and-reduce-costs/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
