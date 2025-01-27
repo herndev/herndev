@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [So, you think you are old, but are you this old?](http://9gag.com/gag/aD22ZqO)
- - ⏩ [Eminem, his mom and younger brother, 1990s](http://9gag.com/gag/ae991yW)
- - 👉 [Skier Stumbles Upon Snowboarder Buried Alive And Saves Him from Certain Death](http://9gag.com/gag/a877DNZ)<!-- MEMES:END -->
+ - 💣 [Title](http://9gag.com/gag/a4PPw2Z)
+ - ⏩ [Ahh, finally](http://9gag.com/gag/a0eex4d)
+ - 👉 [Shopkeeper wanted him to have the full experience](http://9gag.com/gag/a877zoO)<!-- MEMES:END -->
 
 ---
 
