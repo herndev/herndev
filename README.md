@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [New Spotify and UMG deal could create pricier ‘superfan’ subscription](https://www.theverge.com/2025/1/27/24352993/spotify-universal-music-publishing-direct-agreement-deal-superfan-new-subscriptions)
- - [DeepSeek says it&#39;s temporarily limiting new user registrations &quot;due to large-scale malicious attacks&quot; on its services &lpar;Hayden Field/CNBC&rpar;](http://www.techmeme.com/250127/p15#a250127p15)
- - [Apple brings TV broadcast info and more soccer coverage to Apple Sports](https://appleinsider.com/articles/25/01/27/apple-brings-tv-broadcast-info-and-more-soccer-coverage-to-apple-sports?utm_medium=rss)<!-- TECH:END -->
+ - [Samsung confirms Galaxy S25 Ultra Bluetooth S Pen tease was a mistake](https://www.androidauthority.com/s25-ultra-s-pen-3520494/)
+ - [DeepSeek debuts a family of multimodal, MIT-licensed open-source models including Janus-Pro-7B, which it claims beats OpenAI&#39;s DALL-E 3 in GenEval and DPG-Bench &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250127/p16#a250127p16)
+ - [Meta AI will use its ‘memory’ to provide better recommendations](https://www.theverge.com/2025/1/27/24352992/meta-ai-memory-personalization)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
