@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Microsoft wants to &#39;recruit your squad&#39; in the latest unbidden Game Pass ad on your Windows Settings homepage. Also, it might crash](https://www.pcgamer.com/software/microsoft-wants-to-recruit-your-squad-in-the-latest-unbidden-game-pass-ad-on-your-windows-settings-homepage-also-it-might-crash/)
- - [Swamped with 1,500+ LinkedIn invitations in 24 hours, the manager at Palworld&#39;s new publishing arm &#39;underestimated how much interest there would be&#39;](https://www.pcgamer.com/gaming-industry/swamped-with-1-500-linkedin-invitations-in-24-hours-the-manager-at-palworlds-new-publishing-arm-underestimated-how-much-interest-there-would-be/)
- - [Dynamax Zapdos counters, weakness, and battle tips in Pokémon Go](https://www.polygon.com/pokemon-go-guide/512801/dynamax-zapdos-counters-weaknesses-tips)<!-- GAME:END -->
+ - [This spectacular GB202 die shot shows just how massive Nvidia&#39;s RTX 5090 GPU is but it&#39;s not the largest chip it&#39;s ever shoehorned into a gaming graphics card](https://www.pcgamer.com/hardware/graphics-cards/this-spectacular-gb202-die-shot-shows-just-how-massive-nvidias-rtx-5090-gpu-is-but-its-not-the-largest-chip-its-ever-shoehorned-into-a-gaming-graphics-card/)
+ - [&#39;Rocket&#39;s devastated&#39;: Marvel Rivals player who took on the daunting task of rising to GM without doing any damage accidentally fumbles the ball right before Celestial](https://www.pcgamer.com/games/third-person-shooter/rockets-devastated-marvel-rivals-player-who-took-on-the-daunting-task-of-rising-to-gm-without-doing-any-damage-accidentally-fumbles-the-ball-right-before-celestial/)
+ - [Orcs Must Die: Deathtrap](https://www.pcgamer.com/games/action/orcs-must-die-deathtrap/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
