@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to Turn Off Apple Intelligence on an iPhone, iPad, or Mac](https://www.wired.com/story/how-to-turn-off-apple-intelligence/)
- - [Windows 11 could soon make file sharing as easy as it is on Android](https://www.androidauthority.com/windows-11-drag-tray-3520529/)
- - [&#39;Severance&#39; title sequence has more drama and plot clues than most shows](https://appleinsider.com/articles/25/01/27/severance-title-sequence-has-more-drama-and-plot-clues-than-most-shows?utm_medium=rss)<!-- TECH:END -->
+ - [iPadOS 18.3 is here with bug fixes and Apple Intelligence changes](https://appleinsider.com/articles/25/01/27/ipados-183-is-here-with-bug-fixes-and-apple-intelligence-changes?utm_medium=rss)
+ - [Google open sources PebbleOS, paving the way for more smartwatch hardware; Pebble founder Eric Migicovsky aims to develop a new smartwatch &lpar;Brian Heater/TechCrunch&rpar;](http://www.techmeme.com/250127/p20#a250127p20)
+ - [Best 43-Inch TV for 2025](https://www.cnet.com/tech/home-entertainment/best-43-inch-tv/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
