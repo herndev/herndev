@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Long-Gone Classics The Sims 1 And 2 Are Finally Coming Back To PC](https://kotaku.com/sims-1-2-remaster-pc-buy-ea-maxis-steam-1851748658)
- - [New Game Pass RPG Is One Of The First Great Games Of 2025](https://kotaku.com/eternal-strands-game-pass-laidlaw-open-world-zelda-ps5-1851748657)
- - [Ubisoft closes another studio, announces layoffs at 3 more as part of &#39;ongoing efforts to prioritize projects and reduce costs&#39;](https://www.pcgamer.com/gaming-industry/ubisoft-closes-another-studio-announces-layoffs-at-3-more-as-part-of-ongoing-efforts-to-prioritize-projects-and-reduce-costs/)<!-- GAME:END -->
+ - [How Dimension 20 gets ready for a live show](https://www.polygon.com/actual-play/513976/dimension-20-live-show-prep-interview)
+ - [Hogwarts Legacy is getting official mod support and a creator kit in a few days, and has now sold over 30 million copies](https://www.pcgamer.com/games/action/hogwarts-legacy-is-getting-official-mod-support-and-a-creator-kit-in-a-few-days-and-has-now-sold-over-30-million-copies/)
+ - [Beloved Bethesda RPG voice actor Wes Johnson is in critical condition after being found &#39;unconscious and barely alive,&#39; and his family is asking for help from fans](https://www.pcgamer.com/games/the-elder-scrolls/beloved-bethesda-rpg-voice-actor-wes-johnson-is-in-critical-condition-after-being-found-unconscious-and-barely-alive-and-his-family-is-asking-for-help-from-fans/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
