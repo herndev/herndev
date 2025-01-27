@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Why ..?](http://9gag.com/gag/avyyvKn)
- - ⏩ [Don&#39;t know how rich people end up committing crimes!!](http://9gag.com/gag/abAAQOE)
+ - 💣 [Classic Bond.](http://9gag.com/gag/a0eexDL)
+ - ⏩ [Go Neil](http://9gag.com/gag/a9yyX00)
  - 👉 [My man](http://9gag.com/gag/aW442X4)<!-- MEMES:END -->
 
 ---
