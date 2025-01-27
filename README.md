@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How Tails of Iron 2 Builds Upon Its Predecessor with Brutal Combat, Powerful Magic, and More](https://news.xbox.com/en-us/2025/01/27/how-tails-of-iron-2-builds-upon-its-predecessor/)
- - [This ultra-cool Apollo computer-inspired smartwatch looks rather beautiful but at the same time weirdly incongruous with the fashion-man model shots](https://www.pcgamer.com/hardware/this-ultra-cool-apollo-computer-inspired-smartwatch-looks-rather-beautiful-but-at-the-same-time-weirdly-incongruous-with-the-fashion-man-model-shots/)
- - [Final Fantasy 7 Rebirth debuts to the highest peak concurrent users of the series on Steam—except for the MMO, naturally](https://www.pcgamer.com/games/final-fantasy/final-fantasy-7-rebirth-debuts-to-the-highest-peak-concurrent-users-of-the-series-on-steam-except-for-the-mmo-naturally/)<!-- GAME:END -->
+ - [Pokémon TCG Pocket Braces For Explosion In Real Money Trades](https://kotaku.com/pokemon-tcg-pocket-real-money-trades-space-time-set-1851748471)
+ - [Musk reportedly tells X staff &#39;we&#39;re barely breaking even&#39; as the big banks start getting antsy over their debt](https://www.pcgamer.com/gaming-industry/musk-reportedly-tells-x-staff-were-barely-breaking-even-as-the-big-banks-start-getting-antsy-over-their-debt/)
+ - [Marvel Snap may return to app stores as early as this week, devs provide goodies to make up for downtime](https://www.polygon.com/news/514378/marvel-snap-apple-app-store-google-play-ios-android-downtime-rewards-compensation)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
