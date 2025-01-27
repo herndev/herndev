@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Assassin&#39;s Creed Shadows started with a single Ghost of Tsushima-like protagonist, but &#39;it&#39;s not representing what the samurai and shinobi are if it&#39;s the same character&#39;](https://www.pcgamer.com/games/assassins-creed/assassins-creed-shadows-started-with-a-single-ghost-of-tsushima-like-protagonist-but-its-not-representing-what-the-samurai-and-shinobi-are-if-its-the-same-character/)
- - [These two games demand you type if you want to survive](https://www.polygon.com/gaming/513941/typing-games-dead-letters-dept-cryptmaster)
- - [Rey-Focused Star Wars Movie Gets Fourth New Writer](https://kotaku.com/star-wars-new-jedi-order-writer-replaced-rey-delayed-1851747797)<!-- GAME:END -->
+ - [Avowed&#39;s newly-revealed character creation backgrounds tripped my RPG sicko radar, offering funky fantasies like &#39;Noble Scion,&#39; &#39;Court Augur,&#39; and &#39;Vanguard Scout&#39;](https://www.pcgamer.com/games/rpg/avoweds-newly-revealed-character-creation-backgrounds-tripped-my-rpg-sicko-radar-offering-funky-fantasies-like-noble-scion-court-augur-and-vanguard-scout/)
+ - [&lpar;For Southeast Asia&rpar; Genshin Impact Version 5.4: Moonlight Amidst Dreams](https://blog.playstation.com/2025/01/26/20250127-gi/)
+ - [&lpar;For Southeast Asia&rpar; Genshin Impact Version 5.4: Moonlight Amidst Dreams](https://blog.playstation.com/2025/01/26/20250127-gi/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
