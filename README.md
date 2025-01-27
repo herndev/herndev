@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Show a little patience.](http://9gag.com/gag/aLnnNex)
- - ⏩ [What happens when the South African government does farm redistribution](http://9gag.com/gag/a6ZZ3XR)
- - 👉 [Know the feeling](http://9gag.com/gag/aNDDqe3)<!-- MEMES:END -->
+ - 💣 [He finished her\ud83d\udc80](http://9gag.com/gag/a9yyBZL)
+ - ⏩ [That&#39;s a lot of H.](http://9gag.com/gag/aD22MMN)
+ - 👉 [Dude almost kills a kid by speeding down a mountain.](http://9gag.com/gag/a7ooAEq)<!-- MEMES:END -->
 
 ---
 
