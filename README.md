@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [My man](http://9gag.com/gag/aW442X4)
- - ⏩ [People Offering Prayers At River Yamuna, India, Which Is Frothing From Industrial Waste](http://9gag.com/gag/aRBByKA)
- - 👉 [Don&#39;t know how rich people end up committing crimes!!](http://9gag.com/gag/abAAQOE)<!-- MEMES:END -->
+ - 💣 [People Offering Prayers At River Yamuna, India, Which Is Frothing From Industrial Waste](http://9gag.com/gag/aRBByKA)
+ - ⏩ [IRONY MAN](http://9gag.com/gag/avyyvD5)
+ - 👉 [Dude almost kills a kid by speeding down a mountain.](http://9gag.com/gag/a7ooAEq)<!-- MEMES:END -->
 
 ---
 
