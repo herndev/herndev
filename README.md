@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Eternal Strands Is a Remarkably Fresh Action-RPG Woven from Familiar Threads](https://news.xbox.com/en-us/2025/01/27/eternal-strands-game-pass/)
- - [MSI says that the supply of its RTX 5090 cards will be very tight, due to a limited supply of GPUs from Nvidia](https://www.pcgamer.com/hardware/graphics-cards/msi-says-that-the-supply-of-its-rtx-5090-cards-will-be-very-tight-due-to-a-limited-supply-of-gpus-from-nvidia/)
- - [US congressman calls again for the government to ban Chinese-made TP-Link routers: &#39;I would not have that in my home&#39;](https://www.pcgamer.com/hardware/networking/us-congressman-calls-again-for-the-government-to-ban-chinese-made-tp-link-routers-i-would-not-have-that-in-my-home/)<!-- GAME:END -->
+ - [How Tails of Iron 2 Builds Upon Its Predecessor with Brutal Combat, Powerful Magic, and More](https://news.xbox.com/en-us/2025/01/27/how-tails-of-iron-2-builds-upon-its-predecessor/)
+ - [This ultra-cool Apollo computer-inspired smartwatch looks rather beautiful but at the same time weirdly incongruous with the fashion-man model shots](https://www.pcgamer.com/hardware/this-ultra-cool-apollo-computer-inspired-smartwatch-looks-rather-beautiful-but-at-the-same-time-weirdly-incongruous-with-the-fashion-man-model-shots/)
+ - [Final Fantasy 7 Rebirth debuts to the highest peak concurrent users of the series on Steam—except for the MMO, naturally](https://www.pcgamer.com/games/final-fantasy/final-fantasy-7-rebirth-debuts-to-the-highest-peak-concurrent-users-of-the-series-on-steam-except-for-the-mmo-naturally/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
