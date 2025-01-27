@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [People Offering Prayers At River Yamuna, India, Which Is Frothing From Industrial Waste](http://9gag.com/gag/aRBByKA)
- - ⏩ [Dafuk?](http://9gag.com/gag/aE00Z2e)
- - 👉 [That&#39;s a lot of H.](http://9gag.com/gag/aD22MMN)<!-- MEMES:END -->
+ - 💣 [My man](http://9gag.com/gag/aW442X4)
+ - ⏩ [People Offering Prayers At River Yamuna, India, Which Is Frothing From Industrial Waste](http://9gag.com/gag/aRBByKA)
+ - 👉 [Don&#39;t know how rich people end up committing crimes!!](http://9gag.com/gag/abAAQOE)<!-- MEMES:END -->
 
 ---
 
