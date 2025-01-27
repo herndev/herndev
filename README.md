@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [People Offering Prayers At River Yamuna, India, Which Is Frothing From Industrial Waste](http://9gag.com/gag/aRBByKA)
- - ⏩ [Man carries out maintenance work in own garage](http://9gag.com/gag/aMVVy9X)
- - 👉 [Dafuk?](http://9gag.com/gag/aE00Z2e)<!-- MEMES:END -->
+ - 💣 [Show a little patience.](http://9gag.com/gag/aLnnNex)
+ - ⏩ [What happens when the South African government does farm redistribution](http://9gag.com/gag/a6ZZ3XR)
+ - 👉 [Know the feeling](http://9gag.com/gag/aNDDqe3)<!-- MEMES:END -->
 
 ---
 
