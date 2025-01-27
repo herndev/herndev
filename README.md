@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung confirms Galaxy S25 Ultra Bluetooth S Pen tease was a mistake](https://www.androidauthority.com/s25-ultra-s-pen-3520494/)
- - [DeepSeek debuts a family of multimodal, MIT-licensed open-source models including Janus-Pro-7B, which it claims beats OpenAI&#39;s DALL-E 3 in GenEval and DPG-Bench &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250127/p16#a250127p16)
- - [Meta AI will use its ‘memory’ to provide better recommendations](https://www.theverge.com/2025/1/27/24352992/meta-ai-memory-personalization)<!-- TECH:END -->
+ - [iOS 18.3 is out with tweaks to AI notification summaries](https://www.theverge.com/2025/1/27/24353079/ios-18-3-launch-notification-summaries-apple-intelligence-default)
+ - [&#39;Severance&#39; title sequence has more drama and plot clues than most shows](https://appleinsider.com/articles/25/01/27/severance-title-sequence-has-more-drama-and-plot-clues-than-most-shows?utm_medium=rss)
+ - [Another Pixel 9 Pro camera bar fault makes us worried about Google’s quality control](https://www.androidauthority.com/pixel-9-pro-camera-bar-fault-3520541/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
