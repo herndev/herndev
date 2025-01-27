@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Pixel 9 Pro Fold vs. Galaxy Z Fold 6 Camera Showdown: It&#39;s Complicated](https://www.cnet.com/tech/mobile/pixel-9-pro-fold-vs-galaxy-z-fold-6-camera-showdown-its-complicated/#ftag=CAD590a51e)
  - [Best Internet Providers in Virginia](https://www.cnet.com/home/internet/best-internet-providers-in-virginia/#ftag=CAD590a51e)
- - [Source: Perplexity AI revises its TikTok US merger proposal, which now allows for the US government to own up to 50% of the new company upon a future IPO &lpar;Hayden Field/CNBC&rpar;](http://www.techmeme.com/250126/p15#a250126p15)
- - [Brazil&#39;s data protection authority ruled that Tools for Humanity, cofounded by Sam Altman, must stop offering compensation for iris scans in the country &lpar;Reuters&rpar;](http://www.techmeme.com/250126/p14#a250126p14)<!-- TECH:END -->
+ - [Source: Perplexity AI revises its TikTok US merger proposal, which now allows for the US government to own up to 50% of the new company upon a future IPO &lpar;Hayden Field/CNBC&rpar;](http://www.techmeme.com/250126/p15#a250126p15)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
