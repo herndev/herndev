@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Never do free sample in China.](http://9gag.com/gag/ajPPM1G)
- - ⏩ [It&#39;s hammer time!](http://9gag.com/gag/aAyyNRp)
- - 👉 [After a 16-year-old boy was murdered, his friends brought his coffin to the spot where he always played football and helped him score one final goal.](http://9gag.com/gag/a1mmwD8)<!-- MEMES:END -->
+ - 💣 [People Offering Prayers At River Yamuna, India, Which Is Frothing From Industrial Waste](http://9gag.com/gag/aRBByKA)
+ - ⏩ [She Luigi Mangionied a Pdo.](http://9gag.com/gag/ae99y1B)
+ - 👉 [A whole new generation of masks](http://9gag.com/gag/aRBBNG2)<!-- MEMES:END -->
 
 ---
 
