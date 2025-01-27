@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Dynamax Zapdos counters, weakness, and battle tips in Pokémon Go](https://www.polygon.com/pokemon-go-guide/512801/dynamax-zapdos-counters-weaknesses-tips)
  - [Today&#39;s Wordle answer for Monday, January 27](https://www.pcgamer.com/games/puzzle/wordle-answer-today-january-27-2025/)
- - [Spacefleet fight sim Nebulous gets carriers in biggest update yet](https://www.pcgamer.com/games/spacefleet-fight-sim-nebulous-gets-carriers-in-big-new-update/)
- - [Avowed&#39;s newly-revealed character creation backgrounds tripped my RPG sicko radar, offering funky fantasies like &#39;Noble Scion,&#39; &#39;Court Augur,&#39; and &#39;Vanguard Scout&#39;](https://www.pcgamer.com/games/rpg/avoweds-newly-revealed-character-creation-backgrounds-tripped-my-rpg-sicko-radar-offering-funky-fantasies-like-noble-scion-court-augur-and-vanguard-scout/)<!-- GAME:END -->
+ - [Spacefleet fight sim Nebulous gets carriers in biggest update yet](https://www.pcgamer.com/games/spacefleet-fight-sim-nebulous-gets-carriers-in-big-new-update/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
