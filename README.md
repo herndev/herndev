@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Pokémon TCG Pocket Braces For Explosion In Real Money Trades](https://kotaku.com/pokemon-tcg-pocket-real-money-trades-space-time-set-1851748471)
- - [Musk reportedly tells X staff &#39;we&#39;re barely breaking even&#39; as the big banks start getting antsy over their debt](https://www.pcgamer.com/gaming-industry/musk-reportedly-tells-x-staff-were-barely-breaking-even-as-the-big-banks-start-getting-antsy-over-their-debt/)
- - [Marvel Snap may return to app stores as early as this week, devs provide goodies to make up for downtime](https://www.polygon.com/news/514378/marvel-snap-apple-app-store-google-play-ios-android-downtime-rewards-compensation)<!-- GAME:END -->
+ - [Baldur’s Gate 3’s last major patch went live early on PS5, and it might break new saves](https://www.polygon.com/news/514529/baldurs-gate-3-patch-8-ps5-early-access-larian-studios)
+ - [Whim Tangram puzzle solutions in Infinity Nikki](https://www.polygon.com/infinity-nikki-guides/514420/whim-tangram-puzzle-solutions-all-how-to-solve)
+ - [Get Assassin&amp;#8217;s Creed Shadows and Civ 7 for free when you buy select Intel CPUs](https://www.polygon.com/good-deals/514236/intel-builders-bundle-cpu-eligible-assassins-creed-shadows-civ-7-free-games)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
