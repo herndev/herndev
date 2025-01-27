@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Sniper Elite: Resistance offers a forgettable and formulaic fight against the fascists](https://www.polygon.com/review/513556/sniper-elite-resistance-review-pc-ps4-ps5-xbox)
- - [You don&#39;t need an RTX 5090 or a 4K monitor for gaming when you can play Snake on your monitor&#39;s subpixels. But you will need a microscope or a good macro lens](https://www.pcgamer.com/hardware/gaming-monitors/you-dont-need-an-rtx-5090-or-a-4k-monitor-for-gaming-when-you-can-play-snake-on-your-monitors-subpixels-but-you-will-need-a-microscope-or-a-good-macro-lens/)
- - [This spectacular GB202 die shot shows just how massive Nvidia&#39;s RTX 5090 GPU is but it&#39;s not the largest chip it&#39;s ever shoehorned into a gaming graphics card](https://www.pcgamer.com/hardware/graphics-cards/this-spectacular-gb202-die-shot-shows-just-how-massive-nvidias-rtx-5090-gpu-is-but-its-not-the-largest-chip-its-ever-shoehorned-into-a-gaming-graphics-card/)<!-- GAME:END -->
+ - [Spider-Man 2 on PC, Citizen Sleeper 2, and other new games out this week](https://www.polygon.com/gaming/512156/best-new-game-releases-jan-27-spider-man-2-pc-citizen-sleeper-2)
+ - [Play The Best New Dungeon Crawler In Over A Decade](https://kotaku.com/tower-of-mask-legend-of-grimrock-dungeon-crawler-review-1851748174)
+ - [&#39;AI&#39;s Sputnik moment&#39;: China-based DeepSeek&#39;s open-source models may be a real threat to the dominance of OpenAI, Meta, and Nvidia](https://www.pcgamer.com/software/ai/ais-sputnik-moment-china-based-deepseeks-open-source-models-may-be-a-real-threat-to-the-dominance-of-openai-meta-and-nvidia/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
