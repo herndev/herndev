@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at the surveillance tech that could power Trump&#39;s immigration crackdown; a review of 15K+ contracts shows ICE and USCIS spent $7.8B on tech since 2020 &lpar;New York Times&rpar;](http://www.techmeme.com/250127/p8#a250127p8)
- - [US tech stocks fell sharply pre-market over DeepSeek concerns, with NVDA down 8%+ and META and MSFT down 3%; ASML fell 9%+; Japanese chip companies also dropped &lpar;Financial Times&rpar;](http://www.techmeme.com/250127/p7#a250127p7)
- - [Are single-camera Android mid-rangers about to make a comeback, thanks to Apple?](https://www.androidauthority.com/iphone-se-4-leak-reveals-design-3520311/)<!-- TECH:END -->
+ - [Scammers Are Creating Fake News Videos to Blackmail Victims](https://www.wired.com/story/scammers-are-creating-fake-news-videos-to-blackmail-victims/)
+ - [At Davos, AI leaders clashed over safety concerns and the $100B Stargate project; Demis Hassabis and Anthropic co-founder Dario Amodei reiterated stark warnings &lpar;Stephen Morris/Financial Times&rpar;](http://www.techmeme.com/250127/p10#a250127p10)
+ - [Here It Is, the Worst Slack Bug](https://www.wired.com/story/slack-bug-share-dm-history/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
