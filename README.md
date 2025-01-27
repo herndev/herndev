@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Name a more dynamic duo! I\u2019ll wait!](http://9gag.com/gag/abAAR5E)
- - ⏩ [Make education legal again](http://9gag.com/gag/a877XwY)
- - 👉 [Never do free sample in China.](http://9gag.com/gag/ajPPM1G)<!-- MEMES:END -->
+ - 💣 [Never do free sample in China.](http://9gag.com/gag/ajPPM1G)
+ - ⏩ [It&#39;s hammer time!](http://9gag.com/gag/aAyyNRp)
+ - 👉 [After a 16-year-old boy was murdered, his friends brought his coffin to the spot where he always played football and helped him score one final goal.](http://9gag.com/gag/a1mmwD8)<!-- MEMES:END -->
 
 ---
 
