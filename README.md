@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [These Guatemalan Police officers are completely out of it. All in a day&#39;s work.](http://9gag.com/gag/axyy4zb)
- - ⏩ [Wait, coke instead of sugar was an option!](http://9gag.com/gag/a0eeOEB)
- - 👉 [Dafuk?](http://9gag.com/gag/aE00Z2e)<!-- MEMES:END -->
+ - 💣 [A lovely night in thailand part 1](http://9gag.com/gag/aGyyoEn)
+ - ⏩ [EA&#39;s downfall brings so much happiness](http://9gag.com/gag/an77D0z)
+ - 👉 [Go Neil](http://9gag.com/gag/a9yyX00)<!-- MEMES:END -->
 
 ---
 
