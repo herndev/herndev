@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How Ciena keeps the internet online, with CEO Gary Smith](https://www.theverge.com/24351247/ciena-fiber-optic-internet-subsea-cables-wdm-ai-hyperscale-data-decoder-podcast-interview)
- - [Google Messages’ redesigned read receipts receive a readability refinement](https://www.androidauthority.com/google-messages-read-receipts-color-scheme-3520428/)
- - [25 years of Apple&#39;s innovation in selling technology](https://appleinsider.com/articles/25/01/27/25-years-of-apples-innovation-in-selling-technology?utm_medium=rss)<!-- TECH:END -->
+ - [Switch emulation on Android just got a big upgrade for some of the best games](https://www.androidauthority.com/citron-switch-emulator-compatibility-3520414/)
+ - [DeepSeek shows the complete lack of lock-in that any of these chatbots have, and such a powerful model coming from China may cement &quot;AGI&quot; as a national project &lpar;Bloomberg&rpar;](http://www.techmeme.com/250127/p13#a250127p13)
+ - [Apple&#39;s iPad mini 7 is back on sale for $399 in month-end price war](https://appleinsider.com/articles/25/01/27/apples-ipad-mini-7-is-back-on-sale-for-399-in-month-end-price-war?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
