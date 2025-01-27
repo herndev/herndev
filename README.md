@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [YouTube’s explicit ads problem just ruined a Fortnite stream for a child](https://www.androidauthority.com/youtube-explicit-ads-problem-3520285/)
- - [Best Sports Drinks of 2025](https://www.cnet.com/health/fitness/best-sports-drinks/#ftag=CAD590a51e)
- - [Some Japanese stocks drop amid DeepSeek anxiety; Advantest, an Nvidia supplier of testing equipment, drops 7%+; datacenter cable company Fujikura drops 9%+ &lpar;Bloomberg&rpar;](http://www.techmeme.com/250126/p16#a250126p16)<!-- TECH:END -->
+ - [Court filing: Indian digital news firms, including NDTV, Network18, and Hindustan Times, join a copyright lawsuit against OpenAI, first filed by ANI in 2024 &lpar;Reuters&rpar;](http://www.techmeme.com/250127/p2#a250127p2)
+ - [The first Samsung Galaxy Z Flip 7 camera specs have leaked](https://www.androidauthority.com/samsung-galaxy-z-flip-7-camera-specs-leak-3520293/)
+ - [DeepSeek&#39;s use of commodity, disconnected hardware and open-source design is enough of a shot at AI hyper scaling that it could be &quot;the way things will go&quot; &lpar;Steven Sinofsky/@stevesi&rpar;](http://www.techmeme.com/250127/p1#a250127p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
