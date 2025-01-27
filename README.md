@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [People Offering Prayers At River Yamuna, India, Which Is Frothing From Industrial Waste](http://9gag.com/gag/aRBByKA)
- - ⏩ [IRONY MAN](http://9gag.com/gag/avyyvD5)
- - 👉 [Dude almost kills a kid by speeding down a mountain.](http://9gag.com/gag/a7ooAEq)<!-- MEMES:END -->
+ - 💣 [My man](http://9gag.com/gag/aW442X4)
+ - ⏩ [We are idiots](http://9gag.com/gag/aByyvwz)
+ - 👉 [200 iq move](http://9gag.com/gag/aByyvQD)<!-- MEMES:END -->
 
 ---
 
