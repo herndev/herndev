@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Scammers Are Creating Fake News Videos to Blackmail Victims](https://www.wired.com/story/scammers-are-creating-fake-news-videos-to-blackmail-victims/)
- - [At Davos, AI leaders clashed over safety concerns and the $100B Stargate project; Demis Hassabis and Anthropic co-founder Dario Amodei reiterated stark warnings &lpar;Stephen Morris/Financial Times&rpar;](http://www.techmeme.com/250127/p10#a250127p10)
- - [Here It Is, the Worst Slack Bug](https://www.wired.com/story/slack-bug-share-dm-history/)<!-- TECH:END -->
+ - [Nothing Phone 3 incoming? Nothing shares teaser, launch date](https://www.androidauthority.com/nothing-phone-3-teaser-launch-date-3520387/)
+ - [Say goodbye to Livephoto limitations: OPPO bridges the iOS-Android divide](https://www.androidauthority.com/oppo-ai-livephoto-3517436/)
+ - [China’s DeepSeek AI is hitting Nvidia where it hurts](https://www.theverge.com/2025/1/27/24352801/deepseek-ai-chatbot-chatgpt-ios-app-store)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
