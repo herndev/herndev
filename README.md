@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Ahh, finally](http://9gag.com/gag/a0eex4d)
- - ⏩ [Title](http://9gag.com/gag/a4PPw2Z)
- - 👉 [This is more difficult than it looks](http://9gag.com/gag/aGyyo8K)<!-- MEMES:END -->
+ - 💣 [Why ..?](http://9gag.com/gag/avyyvKn)
+ - ⏩ [Don&#39;t know how rich people end up committing crimes!!](http://9gag.com/gag/abAAQOE)
+ - 👉 [My man](http://9gag.com/gag/aW442X4)<!-- MEMES:END -->
 
 ---
 
