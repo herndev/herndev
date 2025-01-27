@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Pixel Watch 4 wishlist: All the features I want to see](https://www.androidauthority.com/google-pixel-watch-4-3519808/)
- - [AirPods 4 - four-month review: The best Apple earbuds for most people](https://appleinsider.com/articles/25/01/24/airpods-4---four-month-review-the-best-apple-earbuds-for-most-people?utm_medium=rss)
- - [Google’s mobile search results are losing this 16-year-old feature for the sake of simplicity](https://www.androidauthority.com/mobile-google-search-breadcrumbs-3520144/)<!-- TECH:END -->
+ - [DeepSeek&#39;s iOS app is now #1 on the &quot;Top Free Apps&quot; chart in Apple&#39;s App Store in the US, just ahead of ChatGPT &lpar;Anthony Ha/TechCrunch&rpar;](http://www.techmeme.com/250126/p13#a250126p13)
+ - [Sources: Meta set up four war rooms to analyze DeepSeek&#39;s tech, two focusing on how High-Flyer reduced training costs, one on what data High-Flyer may have used &lpar;The Information&rpar;](http://www.techmeme.com/250126/p12#a250126p12)
+ - [Always Smell Your Coffee: An Expert Explains the Biggest Brewing Mistakes](https://www.cnet.com/news/always-smell-your-coffee-an-expert-explains-the-biggest-brewing-mistakes/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
