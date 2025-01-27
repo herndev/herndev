@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Cancer research startup Manas AI, founded by Reid Hoffman and researcher Siddhartha Mukherjee, raised $24.6M to focus on breast and prostate cancer and lymphoma &lpar;Berber Jin/Wall Street Journal&rpar;](http://www.techmeme.com/250127/p11#a250127p11)
- - [Apple Watch crucial to rescue of skiers who fell 1,000 feet down a mountain](https://appleinsider.com/articles/25/01/27/apple-watch-crucial-to-rescue-of-skiers-who-fell-1000-feet-down-a-mountain?utm_medium=rss)
- - [Nothing Phone 3 incoming? Nothing shares teaser, launch date](https://www.androidauthority.com/nothing-phone-3-teaser-launch-date-3520387/)<!-- TECH:END -->
+ - [How Ciena keeps the internet online, with CEO Gary Smith](https://www.theverge.com/24351247/ciena-fiber-optic-internet-subsea-cables-wdm-ai-hyperscale-data-decoder-podcast-interview)
+ - [Google Messages’ redesigned read receipts receive a readability refinement](https://www.androidauthority.com/google-messages-read-receipts-color-scheme-3520428/)
+ - [25 years of Apple&#39;s innovation in selling technology](https://appleinsider.com/articles/25/01/27/25-years-of-apples-innovation-in-selling-technology?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
