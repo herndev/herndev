@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPadOS 18.3 is here with bug fixes and Apple Intelligence changes](https://appleinsider.com/articles/25/01/27/ipados-183-is-here-with-bug-fixes-and-apple-intelligence-changes?utm_medium=rss)
- - [Google open sources PebbleOS, paving the way for more smartwatch hardware; Pebble founder Eric Migicovsky aims to develop a new smartwatch &lpar;Brian Heater/TechCrunch&rpar;](http://www.techmeme.com/250127/p20#a250127p20)
- - [Best 43-Inch TV for 2025](https://www.cnet.com/tech/home-entertainment/best-43-inch-tv/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sony reduces OLED burn-in fears with a three-year warranty on InZone monitors](https://www.theverge.com/2025/1/27/24353227/sony-m10s-inzone-oled-burn-in-warranty)
+ - [Cult favorite Pebble is making a comeback with a new smartwatch](https://www.androidauthority.com/pebble-smartwatch-makes-comeback-3520599/)
+ - [A new Chinese AI app tops the App Store, but its meteoric rise could be short-lived](https://appleinsider.com/articles/25/01/27/a-new-chinese-ai-app-tops-the-app-store-but-its-meteoric-rise-could-be-short-lived?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
