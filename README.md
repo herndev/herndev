@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle answer for Monday, January 27](https://www.pcgamer.com/games/puzzle/wordle-answer-today-january-27-2025/)
  - [Spacefleet fight sim Nebulous gets carriers in biggest update yet](https://www.pcgamer.com/games/spacefleet-fight-sim-nebulous-gets-carriers-in-big-new-update/)
- - [Avowed&#39;s newly-revealed character creation backgrounds tripped my RPG sicko radar, offering funky fantasies like &#39;Noble Scion,&#39; &#39;Court Augur,&#39; and &#39;Vanguard Scout&#39;](https://www.pcgamer.com/games/rpg/avoweds-newly-revealed-character-creation-backgrounds-tripped-my-rpg-sicko-radar-offering-funky-fantasies-like-noble-scion-court-augur-and-vanguard-scout/)
- - [&lpar;For Southeast Asia&rpar; Genshin Impact Version 5.4: Moonlight Amidst Dreams](https://blog.playstation.com/2025/01/26/20250127-gi/)<!-- GAME:END -->
+ - [Avowed&#39;s newly-revealed character creation backgrounds tripped my RPG sicko radar, offering funky fantasies like &#39;Noble Scion,&#39; &#39;Court Augur,&#39; and &#39;Vanguard Scout&#39;](https://www.pcgamer.com/games/rpg/avoweds-newly-revealed-character-creation-backgrounds-tripped-my-rpg-sicko-radar-offering-funky-fantasies-like-noble-scion-court-augur-and-vanguard-scout/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
