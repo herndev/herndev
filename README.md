@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sony reduces OLED burn-in fears with a three-year warranty on InZone monitors](https://www.theverge.com/2025/1/27/24353227/sony-m10s-inzone-oled-burn-in-warranty)
- - [Cult favorite Pebble is making a comeback with a new smartwatch](https://www.androidauthority.com/pebble-smartwatch-makes-comeback-3520599/)
- - [A new Chinese AI app tops the App Store, but its meteoric rise could be short-lived](https://appleinsider.com/articles/25/01/27/a-new-chinese-ai-app-tops-the-app-store-but-its-meteoric-rise-could-be-short-lived?utm_medium=rss)<!-- TECH:END -->
+ - [Alibaba&#39;s Qwen team releases Qwen2.5-VL, a new series of AI models that can control PCs and phones, as well as perform a number of text and image analysis tasks &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250127/p24#a250127p24)
+ - [How an Indie Studio Got 400-Plus Games Into a $10 Bundle to Help LA Fire Victims](https://www.wired.com/story/game-bundle-los-angeles-wildfire-efforts/)
+ - [&#39;Marvel Snap&#39; can once again be downloaded from the US App Store](https://appleinsider.com/articles/25/01/27/marvel-snap-can-once-again-be-downloaded-from-the-us-app-store?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
