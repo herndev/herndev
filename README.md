@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Listen to her](http://9gag.com/gag/awyyv4Q)
- - ⏩ [People Offering Prayers At River Yamuna, India, Which Is Frothing From Industrial Waste](http://9gag.com/gag/aRBByKA)
- - 👉 [My man](http://9gag.com/gag/aW442X4)<!-- MEMES:END -->
+ - 💣 [Colombian President Petro sending his presidential plane to pick up the illegals from the U.S. 45 minutes after Trump imposed tariffs, sanctions on Colombia](http://9gag.com/gag/a2vvxxE)
+ - ⏩ [200 iq move](http://9gag.com/gag/aByyvQD)
+ - 👉 [Cool wife who loves you and supports your passion. And second dopest basement ever](http://9gag.com/gag/aW44Ren)<!-- MEMES:END -->
 
 ---
 
