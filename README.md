@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Baldur’s Gate 3’s last major patch went live early on PS5, and it might break new saves](https://www.polygon.com/news/514529/baldurs-gate-3-patch-8-ps5-early-access-larian-studios)
- - [Whim Tangram puzzle solutions in Infinity Nikki](https://www.polygon.com/infinity-nikki-guides/514420/whim-tangram-puzzle-solutions-all-how-to-solve)
- - [Get Assassin&amp;#8217;s Creed Shadows and Civ 7 for free when you buy select Intel CPUs](https://www.polygon.com/good-deals/514236/intel-builders-bundle-cpu-eligible-assassins-creed-shadows-civ-7-free-games)<!-- GAME:END -->
+ - [Cuisineer Plates Up a Buffet of New Features on Xbox](https://news.xbox.com/en-us/2025/01/27/cuisineer-xbox-festivals/)
+ - [Switch 2 will get Xbox games, too](https://www.polygon.com/news/514398/nintendo-switch-2-xbox-games)
+ - [Discoveries](https://www.polygon.com/gaming/24215620/new-things-to-play-watch-and-experience)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
