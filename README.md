@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [A lovely night in thailand part 1](http://9gag.com/gag/aGyyoEn)
- - ⏩ [EA&#39;s downfall brings so much happiness](http://9gag.com/gag/an77D0z)
- - 👉 [Go Neil](http://9gag.com/gag/a9yyX00)<!-- MEMES:END -->
+ - 💣 [People Offering Prayers At River Yamuna, India, Which Is Frothing From Industrial Waste](http://9gag.com/gag/aRBByKA)
+ - ⏩ [Dafuk?](http://9gag.com/gag/aE00Z2e)
+ - 👉 [That&#39;s a lot of H.](http://9gag.com/gag/aD22MMN)<!-- MEMES:END -->
 
 ---
 
