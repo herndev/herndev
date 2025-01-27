@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Some Japanese stocks drop amid DeepSeek anxiety; Advantest, an Nvidia supplier of testing equipment, drops 7%+; datacenter cable company Fujikura drops 9%+ &lpar;Bloomberg&rpar;](http://www.techmeme.com/250126/p16#a250126p16)
- - [Best Vitamins for Energy in 2025](https://www.cnet.com/health/nutrition/best-vitamins-for-energy/#ftag=CAD590a51e)
- - [Best Cheap Vacuums for 2025](https://www.cnet.com/home/kitchen-and-household/best-cheap-vacuums/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [YouTube’s explicit ads problem just ruined a Fortnite stream for a child](https://www.androidauthority.com/youtube-explicit-ads-problem-3520285/)
+ - [Best Sports Drinks of 2025](https://www.cnet.com/health/fitness/best-sports-drinks/#ftag=CAD590a51e)
+ - [Some Japanese stocks drop amid DeepSeek anxiety; Advantest, an Nvidia supplier of testing equipment, drops 7%+; datacenter cable company Fujikura drops 9%+ &lpar;Bloomberg&rpar;](http://www.techmeme.com/250126/p16#a250126p16)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
