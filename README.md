@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Spider-Man 2 on PC, Citizen Sleeper 2, and other new games out this week](https://www.polygon.com/gaming/512156/best-new-game-releases-jan-27-spider-man-2-pc-citizen-sleeper-2)
- - [Play The Best New Dungeon Crawler In Over A Decade](https://kotaku.com/tower-of-mask-legend-of-grimrock-dungeon-crawler-review-1851748174)
- - [&#39;AI&#39;s Sputnik moment&#39;: China-based DeepSeek&#39;s open-source models may be a real threat to the dominance of OpenAI, Meta, and Nvidia](https://www.pcgamer.com/software/ai/ais-sputnik-moment-china-based-deepseeks-open-source-models-may-be-a-real-threat-to-the-dominance-of-openai-meta-and-nvidia/)<!-- GAME:END -->
+ - [Eternal Strands Is a Remarkably Fresh Action-RPG Woven from Familiar Threads](https://news.xbox.com/en-us/2025/01/27/eternal-strands-game-pass/)
+ - [MSI says that the supply of its RTX 5090 cards will be very tight, due to a limited supply of GPUs from Nvidia](https://www.pcgamer.com/hardware/graphics-cards/msi-says-that-the-supply-of-its-rtx-5090-cards-will-be-very-tight-due-to-a-limited-supply-of-gpus-from-nvidia/)
+ - [US congressman calls again for the government to ban Chinese-made TP-Link routers: &#39;I would not have that in my home&#39;](https://www.pcgamer.com/hardware/networking/us-congressman-calls-again-for-the-government-to-ban-chinese-made-tp-link-routers-i-would-not-have-that-in-my-home/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
