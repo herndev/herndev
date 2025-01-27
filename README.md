@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [A lovely night in thailand part 1](http://9gag.com/gag/aGyyoEn)
- - ⏩ [People Offering Prayers At River Yamuna, India, Which Is Frothing From Industrial Waste](http://9gag.com/gag/aRBByKA)
- - 👉 [Mmmm Bobbehhh](http://9gag.com/gag/aByyXjP)<!-- MEMES:END -->
+ - 💣 [These Guatemalan Police officers are completely out of it. All in a day&#39;s work.](http://9gag.com/gag/axyy4zb)
+ - ⏩ [Wait, coke instead of sugar was an option!](http://9gag.com/gag/a0eeOEB)
+ - 👉 [Dafuk?](http://9gag.com/gag/aE00Z2e)<!-- MEMES:END -->
 
 ---
 
