@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [How much are u gay? yes!](http://9gag.com/gag/an77DA0)
- - ⏩ [We are idiots](http://9gag.com/gag/aByyvwz)
- - 👉 [People Offering Prayers At River Yamuna, India, Which Is Frothing From Industrial Waste](http://9gag.com/gag/aRBByKA)<!-- MEMES:END -->
+ - 💣 [After a 16-year-old boy was murdered, his friends brought his coffin to the spot where he always played football and helped him score one final goal.](http://9gag.com/gag/a1mmwD8)
+ - ⏩ [He finished her\ud83d\udc80](http://9gag.com/gag/a9yyBZL)
+ - 👉 [We are idiots](http://9gag.com/gag/aByyvwz)<!-- MEMES:END -->
 
 ---
 
