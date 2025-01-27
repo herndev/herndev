@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Title](http://9gag.com/gag/a4PPw2Z)
- - ⏩ [Ahh, finally](http://9gag.com/gag/a0eex4d)
- - 👉 [Shopkeeper wanted him to have the full experience](http://9gag.com/gag/a877zoO)<!-- MEMES:END -->
+ - 💣 [Ahh, finally](http://9gag.com/gag/a0eex4d)
+ - ⏩ [Title](http://9gag.com/gag/a4PPw2Z)
+ - 👉 [This is more difficult than it looks](http://9gag.com/gag/aGyyo8K)<!-- MEMES:END -->
 
 ---
 
