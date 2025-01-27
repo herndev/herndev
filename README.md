@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [This spectacular GB202 die shot shows just how massive Nvidia&#39;s RTX 5090 GPU is but it&#39;s not the largest chip it&#39;s ever shoehorned into a gaming graphics card](https://www.pcgamer.com/hardware/graphics-cards/this-spectacular-gb202-die-shot-shows-just-how-massive-nvidias-rtx-5090-gpu-is-but-its-not-the-largest-chip-its-ever-shoehorned-into-a-gaming-graphics-card/)
- - [&#39;Rocket&#39;s devastated&#39;: Marvel Rivals player who took on the daunting task of rising to GM without doing any damage accidentally fumbles the ball right before Celestial](https://www.pcgamer.com/games/third-person-shooter/rockets-devastated-marvel-rivals-player-who-took-on-the-daunting-task-of-rising-to-gm-without-doing-any-damage-accidentally-fumbles-the-ball-right-before-celestial/)
- - [Orcs Must Die: Deathtrap](https://www.pcgamer.com/games/action/orcs-must-die-deathtrap/)<!-- GAME:END -->
+ - [Sniper Elite: Resistance offers a forgettable and formulaic fight against the fascists](https://www.polygon.com/review/513556/sniper-elite-resistance-review-pc-ps4-ps5-xbox)
+ - [You don&#39;t need an RTX 5090 or a 4K monitor for gaming when you can play Snake on your monitor&#39;s subpixels. But you will need a microscope or a good macro lens](https://www.pcgamer.com/hardware/gaming-monitors/you-dont-need-an-rtx-5090-or-a-4k-monitor-for-gaming-when-you-can-play-snake-on-your-monitors-subpixels-but-you-will-need-a-microscope-or-a-good-macro-lens/)
+ - [This spectacular GB202 die shot shows just how massive Nvidia&#39;s RTX 5090 GPU is but it&#39;s not the largest chip it&#39;s ever shoehorned into a gaming graphics card](https://www.pcgamer.com/hardware/graphics-cards/this-spectacular-gb202-die-shot-shows-just-how-massive-nvidias-rtx-5090-gpu-is-but-its-not-the-largest-chip-its-ever-shoehorned-into-a-gaming-graphics-card/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
