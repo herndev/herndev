@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Assassin&#39;s Creed Shadows will be censored in Japan to remove dismemberment and decapitations](https://www.pcgamer.com/games/action/assassins-creed-shadows-will-be-censored-in-japan-to-remove-dismemberment-and-decapitations/)
- - [Is this the end of Dragon Age? Veilguard was good, but BioWare needed an all-timer, and I&#39;m nervous about what&#39;s next](https://www.pcgamer.com/games/dragon-age/is-this-the-end-of-dragon-age-veilguard-was-good-but-bioware-needed-an-all-timer-and-im-nervous-about-whats-next/)
- - [Dauntless developer Phoenix Labs lays off &#39;the majority of the studio&#39; after a year of turmoil](https://www.pcgamer.com/games/action/dauntless-developer-phoenix-labs-lays-off-the-majority-of-the-studio-after-a-year-of-turmoil/)<!-- GAME:END -->
+ - [It&#39;s been about four years, so yeah, let&#39;s go ahead and give Resident Evil yet another movie reboot](https://www.pcgamer.com/movies-tv/its-been-about-four-years-so-yeah-lets-go-ahead-and-give-resident-evil-yet-another-movie-reboot/)
+ - [A Civilization 7 player stacked so many bonuses they broke the game and it started demanding negative food](https://www.pcgamer.com/games/strategy/a-civilization-7-player-stacked-so-many-bonuses-they-broke-the-game-and-it-started-demanding-negative-food/)
+ - [Five new Steam games you probably missed &lpar;January 27, 2025&rpar;](https://www.pcgamer.com/software/platforms/five-new-steam-games-you-probably-missed-january-27-2025/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
