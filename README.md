@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [What are the odds](http://9gag.com/gag/a0eeDRz)
- - ⏩ [Matthew\u2019s wife had decisions to make](http://9gag.com/gag/agmmjV6)
- - 👉 [He finished her\ud83d\udc80](http://9gag.com/gag/a9yyBZL)<!-- MEMES:END -->
+ - 💣 [Show a little patience.](http://9gag.com/gag/aLnnNex)
+ - ⏩ [Long time user here, never posted. But yesterday i lost my best friend to cancer after 10 years together. Im on my way to have him cremated, just wanted some of you guys to see how beautiful he was. F**king hurts, i just hope he&#39;s chasing sticks somewhere.](http://9gag.com/gag/a9yyN8D)
+ - 👉 [Friendly reminder](http://9gag.com/gag/a0eezdz)<!-- MEMES:END -->
 
 ---
 
