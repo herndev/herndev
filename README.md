@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [DeepSeek&#39;s breakthroughs are a big win for app developers with more value accruing back into the app layer as the cost of intelligence continues to drop rapidly &lpar;Aaron Levie/@levie&rpar;](http://www.techmeme.com/250127/p33#a250127p33)
- - [Google Maps will rename some iconic locations because the US government said so](https://www.androidauthority.com/google-maps-name-changes-3520685/)
- - [How to record podcasts using FaceTime on iPad &amp; iPhone](https://appleinsider.com/inside/ipados/tips/how-to-record-podcasts-using-facetime-on-ipad-iphone?utm_medium=rss)<!-- TECH:END -->
+ - [Hands-on with Samsung&#39;s Project Moohan headset: resembles Apple Vision Pro, Gemini integration shines, runs Android XR with mobile and tablet apps, and more &lpar;Marques Brownlee/Marques Brownlee on YouTube&rpar;](http://www.techmeme.com/250128/p1#a250128p1)
+ - [Viral ChatGPT rival DeepSeek hit by massive cyberattack](https://www.androidauthority.com/deepseek-cyberattack-3520690/)
+ - [Today&#39;s NYT Mini Crossword Answers for Tuesday, Jan. 28](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-tuesday-jan-28/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
