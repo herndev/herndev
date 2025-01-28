@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [When asked if Microsoft is in discussions to purchase TikTok, Donald Trump told reporters &quot;I would say yes&quot; &lpar;Bloomberg&rpar;](http://www.techmeme.com/250127/p30#a250127p30)
- - [Latest iOS 18.3 update ‘fixes’ AI notifications, but it still can’t compete with Android](https://www.androidauthority.com/ios-18-3-released-3520375/)
- - [Google Maps in the US will change to Gulf of America and Mount McKinley](https://www.theverge.com/2025/1/27/24353450/google-maps-rename-gulf-of-mexico-america-mt-mckinley)<!-- TECH:END -->
+ - [Even with DeepSeek&#39;s breakthroughs, US tech companies still benefit from their large investments to train more advanced models and meet the resulting demand &lpar;Casey Newton/Platformer&rpar;](http://www.techmeme.com/250127/p31#a250127p31)
+ - [Frustrated YouTube viewers seek explanation for hour-long unskippable ads &lpar;Updated: Clarification&rpar;](https://www.androidauthority.com/youtube-long-unskippable-ads-problem-3519957/)
+ - [When asked if Microsoft is in discussions to purchase TikTok, Donald Trump told reporters &quot;I would say yes&quot; &lpar;Bloomberg&rpar;](http://www.techmeme.com/250127/p30#a250127p30)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
