@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [People Offering Prayers At River Yamuna, India, Which Is Frothing From Industrial Waste](http://9gag.com/gag/aRBByKA)
- - ⏩ [She Luigi Mangionied a Pdo.](http://9gag.com/gag/ae99y1B)
- - 👉 [A whole new generation of masks](http://9gag.com/gag/aRBBNG2)<!-- MEMES:END -->
+ - 💣 [200 iq move](http://9gag.com/gag/aByyvQD)
+ - ⏩ [A whole new generation of masks](http://9gag.com/gag/aRBBNG2)
+ - 👉 [We are idiots](http://9gag.com/gag/aByyvwz)<!-- MEMES:END -->
 
 ---
 
