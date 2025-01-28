@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to fix weak Wi-Fi on a M4 Mac mini when connected to a drive or dock](https://appleinsider.com/inside/mac-mini/tips/how-to-fix-weak-wi-fi-on-a-m4-mac-mini-when-connected-to-a-drive-or-dock?utm_medium=rss)
- - [A profile of DeepSeek creator Liang Wenfeng, a math geek who founded hedge fund High-Flyer in 2015 and had to apologize to investors about returns in 2021 &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250128/p14#a250128p14)
- - [This Galaxy S25 Ultra variant brings exclusive sharing smarts, and we want it](https://www.androidauthority.com/samsung-galaxy-s25-ultra-sharing-feature-magic-portal-3520837/)<!-- TECH:END -->
+ - [Spotify says it paid out $10B to the music industry in 2024, up from a record $9B in 2023, taking its total to $60B paid out since its 2006 founding &lpar;Jem Aswad/Variety&rpar;](http://www.techmeme.com/250128/p18#a250128p18)
+ - [Lock In a High APY Ahead of This Week&#39;s Fed Meeting. Today&#39;s CD Rates, Jan. 28, 2025](https://www.cnet.com/personal-finance/banking/lock-in-a-high-apy-ahead-of-this-weeks-fed-meeting-todays-cd-rates-jan-28-2025/#ftag=CAD590a51e)
+ - [The &quot;DeepSeek moment&quot; is like in 2004 when Google detailed using distributed algorithms to build a supercomputer, and unlike Sputnik, when Russia shared little &lpar;@yishan&rpar;](http://www.techmeme.com/250128/p17#a250128p17)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
