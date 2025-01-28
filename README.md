@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [You can’t control the Pixel Weather app’s latest features anymore](https://www.androidauthority.com/pixel-weather-app-missing-settings-3520974/)
- - [Here’s how Google’s changing notifications in Android 16 with Live Updates](https://www.androidauthority.com/android-16-live-notifications-3518375/)
- - [Two Apple Silicon chip flaws could expose your private data to thieves](https://appleinsider.com/articles/25/01/28/two-apple-silicon-chip-flaws-could-make-your-private-data-vulnerable-to-theft?utm_medium=rss)<!-- TECH:END -->
+ - [Nothing’s next phone is almost here but it might not be the one you’re waiting for](https://www.androidauthority.com/nothing-phone-launch-march-4-3521046/)
+ - [An ex-OpenAI safety researcher says he&#39;s &quot;terrified&quot; by AI development&#39;s pace and that labs racing to AGI can cut corners on alignment, pushing all to speed up &lpar;Dan Milmo/The Guardian&rpar;](http://www.techmeme.com/250128/p29#a250128p29)
+ - [Best HP Laptop for 2025](https://www.cnet.com/tech/computing/best-hp-laptops/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
