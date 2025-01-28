@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [AI enterprise service management startup Atomicwork raised a $25M Series A led by Khosla Ventures and Z47, a source says at a $150M valuation &lpar;Kritika Lamba/Reuters&rpar;](http://www.techmeme.com/250128/p12#a250128p12)
- - [This 3D-printed case de-Netflixes your Shield TV Pro remote](https://www.androidauthority.com/case-hides-netflix-shield-tv-pro-remote-3520791/)
- - [TechInsights: ChangXin Memory Technologies&#39; DDR5 RAM required advanced manufacturing techniques that haven&#39;t previously been seen on the Chinese market &lpar;Debby Wu/Bloomberg&rpar;](http://www.techmeme.com/250128/p11#a250128p11)<!-- TECH:END -->
+ - [How to fix weak Wi-Fi on a M4 Mac mini when connected to a drive or dock](https://appleinsider.com/inside/mac-mini/tips/how-to-fix-weak-wi-fi-on-a-m4-mac-mini-when-connected-to-a-drive-or-dock?utm_medium=rss)
+ - [A profile of DeepSeek creator Liang Wenfeng, a math geek who founded hedge fund High-Flyer in 2015 and had to apologize to investors about returns in 2021 &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250128/p14#a250128p14)
+ - [This Galaxy S25 Ultra variant brings exclusive sharing smarts, and we want it](https://www.androidauthority.com/samsung-galaxy-s25-ultra-sharing-feature-magic-portal-3520837/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
