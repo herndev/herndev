@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best Weightlifting Shoes for 2025](https://www.cnet.com/health/fitness/best-weightlifting-shoes/#ftag=CAD590a51e)
  - [The Galaxy S25 series steals a handy video capture feature from iPhones](https://www.androidauthority.com/samsung-galaxy-s25-series-video-feature-iphones-3520733/)
- - [Three case studies using GPT-4o, OpenAI o1, and Claude 3.5 Sonnet for historical research show that the models are now good enough for PhD-level analysis &lpar;Benjamin Breen/Res Obscura&rpar;](http://www.techmeme.com/250128/p3#a250128p3)
- - [Best Internet Providers in North Carolina](https://www.cnet.com/home/internet/best-internet-providers-in-north-carolina/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Three case studies using GPT-4o, OpenAI o1, and Claude 3.5 Sonnet for historical research show that the models are now good enough for PhD-level analysis &lpar;Benjamin Breen/Res Obscura&rpar;](http://www.techmeme.com/250128/p3#a250128p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
