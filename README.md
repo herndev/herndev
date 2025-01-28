@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [DeepSeek Turned the AI World on Its Head, but Don&#39;t Fall For The Hype Just Yet](https://www.cnet.com/tech/services-and-software/deepseek-turned-the-ai-world-on-its-head-but-dont-fall-for-the-hype-just-yet/#ftag=CAD590a51e)
- - [What Happens to Student Loans and Financial Aid During Trump&#39;s Federal Funding Freeze?](https://www.cnet.com/personal-finance/loans/what-happens-to-student-loans-and-financial-aid-during-trumps-federal-funding-freeze/#ftag=CAD590a51e)
- - [Trump and the DOJ have been flouting a bipartisan law to shut down TikTok since his inauguration, and Republicans and Democrats seem to be doing little about it &lpar;Ankush Khardori/Politico&rpar;](http://www.techmeme.com/250128/p27#a250128p27)<!-- TECH:END -->
+ - [You can’t control the Pixel Weather app’s latest features anymore](https://www.androidauthority.com/pixel-weather-app-missing-settings-3520974/)
+ - [Here’s how Google’s changing notifications in Android 16 with Live Updates](https://www.androidauthority.com/android-16-live-notifications-3518375/)
+ - [Two Apple Silicon chip flaws could expose your private data to thieves](https://appleinsider.com/articles/25/01/28/two-apple-silicon-chip-flaws-could-make-your-private-data-vulnerable-to-theft?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
