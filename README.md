@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Hands-on with Samsung&#39;s Project Moohan headset: resembles Apple Vision Pro, Gemini integration shines, runs Android XR with mobile and tablet apps, and more &lpar;Marques Brownlee/Marques Brownlee on YouTube&rpar;](http://www.techmeme.com/250128/p1#a250128p1)
- - [Viral ChatGPT rival DeepSeek hit by massive cyberattack](https://www.androidauthority.com/deepseek-cyberattack-3520690/)
- - [Today&#39;s NYT Mini Crossword Answers for Tuesday, Jan. 28](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-tuesday-jan-28/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [First hands-on video of Samsung’s Project Moohan headset is here and it’s pretty impressive](https://www.androidauthority.com/samsung-project-moohan-hands-on-demo-3520699/)
+ - [After launching robust ChatGPT rival, DeepSeek takes on top image generators](https://www.androidauthority.com/deepseek-janus-pro-image-generator-3520693/)
+ - [50% Off Home Chef Promo Code and Coupons](https://www.wired.com/story/home-chef-promo-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
