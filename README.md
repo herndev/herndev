@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [People Offering Prayers At River Yamuna, India, Which Is Frothing From Industrial Waste](http://9gag.com/gag/aRBByKA)
- - ⏩ [Is it possible to learn this power?](http://9gag.com/gag/aW44N33)
- - 👉 [Nice work](http://9gag.com/gag/a9yyNL6)<!-- MEMES:END -->
+ - 💣 [I also want a girl like this](http://9gag.com/gag/amoonqV)
+ - ⏩ [Nice work](http://9gag.com/gag/a9yyNL6)
+ - 👉 [A lovely night in thailand part 1](http://9gag.com/gag/aGyyoEn)<!-- MEMES:END -->
 
 ---
 
