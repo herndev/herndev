@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Fractal Design Era 2 review](https://www.pcgamer.com/hardware/pc-cases/fractal-design-era-2-review/)
  - [Can Yungoos be shiny in Pokémon Go?](https://www.polygon.com/pokemon-go-guide/23805845/can-yungoos-be-shiny-gumshoos)
- - [Today&#39;s Wordle answer for Tuesday, January 28](https://www.pcgamer.com/games/puzzle/wordle-answer-today-january-28-2025/)
- - [When does the Space-Time Smackdown expansion release in Pokémon TCG Pocket?](https://www.polygon.com/pokemon-tcg-pocket-guides/512651/space-time-smackdown-expansion-release-time-time-date-est-pst-bst)<!-- GAME:END -->
+ - [Today&#39;s Wordle answer for Tuesday, January 28](https://www.pcgamer.com/games/puzzle/wordle-answer-today-january-28-2025/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
