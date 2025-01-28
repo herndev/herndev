@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [EU appeals hearing: Google accuses the EC of making &quot;grave errors&quot; in its Android investigation that led to a record &amp;euro;4.3B fine; EU lawyers defended the case &lpar;Samuel Stolton/Bloomberg&rpar;](http://www.techmeme.com/250128/p5#a250128p5)
- - [Best Squat Racks of 2025](https://www.cnet.com/health/fitness/best-squat-racks/#ftag=CAD590a51e)
- - [SAP reports Q4 cloud revenue up 27% YoY to &amp;euro;4.71B, above &amp;euro;4.68B est., driven by AI demand, names a suite of new executives, and plans to simplify its strategy &lpar;Christina Kyriasoglou/Bloomberg&rpar;](http://www.techmeme.com/250128/p4#a250128p4)<!-- TECH:END -->
+ - [DeepSeek highlights some of China&#39;s key advantages: a deep pool of skilled software engineers, a vast domestic market, and government support via subsidies &lpar;Bloomberg&rpar;](http://www.techmeme.com/250128/p9#a250128p9)
+ - [Judge tells Apple it&#39;s too late to intervene over Google monopoly case](https://appleinsider.com/articles/25/01/28/judge-tells-apple-its-too-late-to-intervene-over-google-monopoly-case?utm_medium=rss)
+ - [DeepSeek challenges the &quot;bigger is better&quot; narrative underpinning the AI arms race in recent years and suggests we may see more investment into smaller startups &lpar;Kevin Roose/New York Times&rpar;](http://www.techmeme.com/250128/p8#a250128p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
