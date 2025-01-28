@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Valencia-based Quibim, which is developing foundational AI models for medical imaging, raised a $50M Series A co-led by Asabys and Buenavista &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/250128/p23#a250128p23)
- - [Best Open Earbuds for 2025](https://www.cnet.com/tech/mobile/best-open-wireless-earbuds/#ftag=CAD590a51e)
- - [Dell Has a Gorgeous 32-Inch 4K Gaming Monitor for $400 Off](https://www.wired.com/story/alienware-aw3225qf-deal-january-2025/)<!-- TECH:END -->
+ - [Deal: Apple AirTag 4-Pack falls back to $69.99](https://www.androidauthority.com/apple-airtag-4-pack-deal-5-3520962/)
+ - [What This Week&#39;s Fed Decision Means for Mortgage Rates](https://www.cnet.com/personal-finance/what-this-weeks-fed-decision-means-for-mortgage-rates/#ftag=CAD590a51e)
+ - [Chinese state media and social media viewed DeepSeek&#39;s success as a shot in the arm for a discouraged tech industry and a public suffering a stagnating economy &lpar;Li Yuan/New York Times&rpar;](http://www.techmeme.com/250128/p26#a250128p26)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
