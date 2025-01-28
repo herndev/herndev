@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Alibaba&#39;s Qwen team releases Qwen2.5-VL, a new series of AI models that can control PCs and phones, as well as perform a number of text and image analysis tasks &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250127/p24#a250127p24)
- - [How an Indie Studio Got 400-Plus Games Into a $10 Bundle to Help LA Fire Victims](https://www.wired.com/story/game-bundle-los-angeles-wildfire-efforts/)
- - [&#39;Marvel Snap&#39; can once again be downloaded from the US App Store](https://appleinsider.com/articles/25/01/27/marvel-snap-can-once-again-be-downloaded-from-the-us-app-store?utm_medium=rss)<!-- TECH:END -->
+ - [Samsung Galaxy S25 series deal: Get a free $100-$200 gift card](https://www.androidauthority.com/samsung-galaxy-s25-series-deal-free-gift-card-3520627/)
+ - [Apple restores Marvel Snap, published by ByteDance&#39;s Nuverse, to the US App Store, and removes the app from its document listing banned ByteDance apps &lpar;Marko Zivkovic/AppleInsider&rpar;](http://www.techmeme.com/250127/p26#a250127p26)
+ - [Here’s how Google brought Add Me’s photo composition magic to the Pixel 9](https://www.androidauthority.com/pixel-9-add-me-3520637/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
