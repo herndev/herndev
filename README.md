@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Show a little patience.](http://9gag.com/gag/aLnnNex)
- - ⏩ [Long time user here, never posted. But yesterday i lost my best friend to cancer after 10 years together. Im on my way to have him cremated, just wanted some of you guys to see how beautiful he was. F**king hurts, i just hope he&#39;s chasing sticks somewhere.](http://9gag.com/gag/a9yyN8D)
- - 👉 [Friendly reminder](http://9gag.com/gag/a0eezdz)<!-- MEMES:END -->
+ - 💣 [It worked!](http://9gag.com/gag/aXPPGZP)
+ - ⏩ [Only every 400 years\u2026.](http://9gag.com/gag/a6ZZeGN)
+ - 👉 [Listen to her](http://9gag.com/gag/awyyv4Q)<!-- MEMES:END -->
 
 ---
 
