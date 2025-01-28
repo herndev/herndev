@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [When does the Space-Time Smackdown expansion release in Pokémon TCG Pocket?](https://www.polygon.com/pokemon-tcg-pocket-guides/512651/space-time-smackdown-expansion-release-time-time-date-est-pst-bst)
  - [Johan Pilestedt is taking a sabbatical from Helldivers 2 after working &#39;around the clock&#39; for 11 years, will move on to &#39;the next Arrowhead game&#39; when he returns](https://www.pcgamer.com/games/third-person-shooter/johan-pilestedt-is-taking-a-sabbatical-from-helldivers-2-after-working-around-the-clock-for-11-years-will-move-on-to-the-next-arrowhead-game-when-he-returns/)
- - [&lpar;For Southeast Asia&rpar; PlayStation Power Up Deals in the Philippines](https://blog.playstation.com/2025/01/27/20250128-phpudeals/)
- - [It&#39;s been about four years, so yeah, let&#39;s go ahead and give Resident Evil yet another movie reboot](https://www.pcgamer.com/movies-tv/its-been-about-four-years-so-yeah-lets-go-ahead-and-give-resident-evil-yet-another-movie-reboot/)<!-- GAME:END -->
+ - [&lpar;For Southeast Asia&rpar; PlayStation Power Up Deals in the Philippines](https://blog.playstation.com/2025/01/27/20250128-phpudeals/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
