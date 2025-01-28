@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Can Yungoos be shiny in Pokémon Go?](https://www.polygon.com/pokemon-go-guide/23805845/can-yungoos-be-shiny-gumshoos)
  - [Today&#39;s Wordle answer for Tuesday, January 28](https://www.pcgamer.com/games/puzzle/wordle-answer-today-january-28-2025/)
- - [When does the Space-Time Smackdown expansion release in Pokémon TCG Pocket?](https://www.polygon.com/pokemon-tcg-pocket-guides/512651/space-time-smackdown-expansion-release-time-time-date-est-pst-bst)
- - [Johan Pilestedt is taking a sabbatical from Helldivers 2 after working &#39;around the clock&#39; for 11 years, will move on to &#39;the next Arrowhead game&#39; when he returns](https://www.pcgamer.com/games/third-person-shooter/johan-pilestedt-is-taking-a-sabbatical-from-helldivers-2-after-working-around-the-clock-for-11-years-will-move-on-to-the-next-arrowhead-game-when-he-returns/)<!-- GAME:END -->
+ - [When does the Space-Time Smackdown expansion release in Pokémon TCG Pocket?](https://www.polygon.com/pokemon-tcg-pocket-guides/512651/space-time-smackdown-expansion-release-time-time-date-est-pst-bst)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
