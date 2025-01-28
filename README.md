@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Wut](http://9gag.com/gag/apRRz1W)
+ - 💣 [What are the odds](http://9gag.com/gag/a0eeDRz)
  - ⏩ [Matthew\u2019s wife had decisions to make](http://9gag.com/gag/agmmjV6)
- - 👉 [She Luigi Mangionied a Pdo.](http://9gag.com/gag/ae99y1B)<!-- MEMES:END -->
+ - 👉 [He finished her\ud83d\udc80](http://9gag.com/gag/a9yyBZL)<!-- MEMES:END -->
 
 ---
 
