@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [200 iq move](http://9gag.com/gag/aByyvQD)
- - ⏩ [A whole new generation of masks](http://9gag.com/gag/aRBBNG2)
- - 👉 [We are idiots](http://9gag.com/gag/aByyvwz)<!-- MEMES:END -->
+ - 💣 [Classic.](http://9gag.com/gag/aQzzVQ8)
+ - ⏩ [A lovely night in thailand part 1](http://9gag.com/gag/aGyyoEn)
+ - 👉 [Y&#39;all remember when some kid cracked an egg on an Australian politician&#39;s head?](http://9gag.com/gag/a5QQDBy)<!-- MEMES:END -->
 
 ---
 
