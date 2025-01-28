@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I also want a girl like this](http://9gag.com/gag/amoonqV)
- - ⏩ [Nice work](http://9gag.com/gag/a9yyNL6)
- - 👉 [A lovely night in thailand part 1](http://9gag.com/gag/aGyyoEn)<!-- MEMES:END -->
+ - 💣 [Robotnik Dance Scene](http://9gag.com/gag/a7ooPqe)
+ - ⏩ [He finished her\ud83d\udc80](http://9gag.com/gag/a9yyBZL)
+ - 👉 [Matthew\u2019s wife had decisions to make](http://9gag.com/gag/agmmjV6)<!-- MEMES:END -->
 
 ---
 
