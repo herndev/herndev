@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [DeepSeek highlights some of China&#39;s key advantages: a deep pool of skilled software engineers, a vast domestic market, and government support via subsidies &lpar;Bloomberg&rpar;](http://www.techmeme.com/250128/p9#a250128p9)
- - [Judge tells Apple it&#39;s too late to intervene over Google monopoly case](https://appleinsider.com/articles/25/01/28/judge-tells-apple-its-too-late-to-intervene-over-google-monopoly-case?utm_medium=rss)
- - [DeepSeek challenges the &quot;bigger is better&quot; narrative underpinning the AI arms race in recent years and suggests we may see more investment into smaller startups &lpar;Kevin Roose/New York Times&rpar;](http://www.techmeme.com/250128/p8#a250128p8)<!-- TECH:END -->
+ - [AI enterprise service management startup Atomicwork raised a $25M Series A led by Khosla Ventures and Z47, a source says at a $150M valuation &lpar;Kritika Lamba/Reuters&rpar;](http://www.techmeme.com/250128/p12#a250128p12)
+ - [This 3D-printed case de-Netflixes your Shield TV Pro remote](https://www.androidauthority.com/case-hides-netflix-shield-tv-pro-remote-3520791/)
+ - [TechInsights: ChangXin Memory Technologies&#39; DDR5 RAM required advanced manufacturing techniques that haven&#39;t previously been seen on the Chinese market &lpar;Debby Wu/Bloomberg&rpar;](http://www.techmeme.com/250128/p11#a250128p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
