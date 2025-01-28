@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Garmin smartwatches are stuck on a ‘triangle of death,’ and here’s a potential fix](https://www.androidauthority.com/garmin-smartwatches-bootloop-issue-3520875/)
- - [Amazon drops Apple&#39;s M4 iPad Pro 13-inch to $1,099 &lpar;$200 off&rpar;](https://appleinsider.com/articles/25/01/28/amazon-drops-apples-m4-ipad-pro-13-inch-to-1099-200-off?utm_medium=rss)
- - [Articulated hinge structures for foldable iPhone detailed in new research](https://appleinsider.com/articles/20/12/03/articulated-hinge-structures-for-foldable-iphone-detailed-in-new-research?utm_medium=rss)<!-- TECH:END -->
+ - [Pixel Buds Pro 2 just got new firmware for the first time since launch](https://www.androidauthority.com/pixel-buds-pro-2-first-update-3520889/)
+ - [New Geekbench update adds RISC-V and improves ARM Extension Support](https://appleinsider.com/articles/25/01/28/new-geekbench-update-adds-risc-v-and-improves-arm-extension-support?utm_medium=rss)
+ - [Fusion reactor startup Helion, which has a deal to supply Microsoft with electricity by 2028, raised a $425M Series F, valuing the company at $5.245B &lpar;Tim De Chant/TechCrunch&rpar;](http://www.techmeme.com/250128/p21#a250128p21)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
