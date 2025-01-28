@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nothing’s next phone is almost here but it might not be the one you’re waiting for](https://www.androidauthority.com/nothing-phone-launch-march-4-3521046/)
- - [An ex-OpenAI safety researcher says he&#39;s &quot;terrified&quot; by AI development&#39;s pace and that labs racing to AGI can cut corners on alignment, pushing all to speed up &lpar;Dan Milmo/The Guardian&rpar;](http://www.techmeme.com/250128/p29#a250128p29)
- - [Best HP Laptop for 2025](https://www.cnet.com/tech/computing/best-hp-laptops/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Trump&#39;s &#39;Gulf of America&#39; Order Has Mapmakers Completely Lost](https://www.wired.com/story/trump-gulf-of-america-order-maps/)
+ - [Dubious leak claims Clock notifications getting a partial redesign](https://appleinsider.com/articles/25/01/28/dubious-leak-claims-clock-notifications-getting-a-partial-redesign?utm_medium=rss)
+ - [OpenAI told some shareholders revenue from its $200/month ChatGPT Pro plan surpassed that of ChatGPT Enterprise, which was generating $25M/month as of September &lpar;The Information&rpar;](http://www.techmeme.com/250128/p32#a250128p32)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
