@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung Galaxy S25 series deal: Get a free $100-$200 gift card](https://www.androidauthority.com/samsung-galaxy-s25-series-deal-free-gift-card-3520627/)
- - [Apple restores Marvel Snap, published by ByteDance&#39;s Nuverse, to the US App Store, and removes the app from its document listing banned ByteDance apps &lpar;Marko Zivkovic/AppleInsider&rpar;](http://www.techmeme.com/250127/p26#a250127p26)
- - [Here’s how Google brought Add Me’s photo composition magic to the Pixel 9](https://www.androidauthority.com/pixel-9-add-me-3520637/)<!-- TECH:END -->
+ - [Deal: Ring Stick Up Cam and Stick Up Cam Pro up to 50% off](https://www.androidauthority.com/ring-stick-up-cam-battery-pro-deals-3520626/)
+ - [Best Smart Displays of 2025](https://www.cnet.com/home/smart-home/best-smart-displays/#ftag=CAD590a51e)
+ - [Google says it will change Gulf of Mexico to Gulf of America on Maps after &quot;official government sources&quot; are updated, after Trump signed an EO changing the name &lpar;Jennifer Elias/CNBC&rpar;](http://www.techmeme.com/250127/p28#a250127p28)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
