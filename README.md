@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Weightlifting Shoes for 2025](https://www.cnet.com/health/fitness/best-weightlifting-shoes/#ftag=CAD590a51e)
- - [The Galaxy S25 series steals a handy video capture feature from iPhones](https://www.androidauthority.com/samsung-galaxy-s25-series-video-feature-iphones-3520733/)
- - [Three case studies using GPT-4o, OpenAI o1, and Claude 3.5 Sonnet for historical research show that the models are now good enough for PhD-level analysis &lpar;Benjamin Breen/Res Obscura&rpar;](http://www.techmeme.com/250128/p3#a250128p3)<!-- TECH:END -->
+ - [EU appeals hearing: Google accuses the EC of making &quot;grave errors&quot; in its Android investigation that led to a record &amp;euro;4.3B fine; EU lawyers defended the case &lpar;Samuel Stolton/Bloomberg&rpar;](http://www.techmeme.com/250128/p5#a250128p5)
+ - [Best Squat Racks of 2025](https://www.cnet.com/health/fitness/best-squat-racks/#ftag=CAD590a51e)
+ - [SAP reports Q4 cloud revenue up 27% YoY to &amp;euro;4.71B, above &amp;euro;4.68B est., driven by AI demand, names a suite of new executives, and plans to simplify its strategy &lpar;Christina Kyriasoglou/Bloomberg&rpar;](http://www.techmeme.com/250128/p4#a250128p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
