@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Deal: Ring Stick Up Cam and Stick Up Cam Pro up to 50% off](https://www.androidauthority.com/ring-stick-up-cam-battery-pro-deals-3520626/)
- - [Best Smart Displays of 2025](https://www.cnet.com/home/smart-home/best-smart-displays/#ftag=CAD590a51e)
- - [Google says it will change Gulf of Mexico to Gulf of America on Maps after &quot;official government sources&quot; are updated, after Trump signed an EO changing the name &lpar;Jennifer Elias/CNBC&rpar;](http://www.techmeme.com/250127/p28#a250127p28)<!-- TECH:END -->
+ - [Google Maps in the US will change to Gulf of America and Mount McKinley](https://www.theverge.com/2025/1/27/24353450/google-maps-rename-gulf-of-mexico-america-mt-mckinley)
+ - [Hands-on with DeepSeek&#39;s chatbot: free access to powerful R1 model, but suffers from rampant hallucinations and lacks some ChatGPT tools like the memory feature &lpar;Reece Rogers/Wired&rpar;](http://www.techmeme.com/250127/p29#a250127p29)
+ - [Trump says he’ll put tariffs on imported chips ‘in the near future’](https://www.theverge.com/2025/1/27/24353388/trump-tariffs-chips-act-ai-deepseek)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
