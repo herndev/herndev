@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Even with DeepSeek&#39;s breakthroughs, US tech companies still benefit from their large investments to train more advanced models and meet the resulting demand &lpar;Casey Newton/Platformer&rpar;](http://www.techmeme.com/250127/p31#a250127p31)
- - [Frustrated YouTube viewers seek explanation for hour-long unskippable ads &lpar;Updated: Clarification&rpar;](https://www.androidauthority.com/youtube-long-unskippable-ads-problem-3519957/)
- - [When asked if Microsoft is in discussions to purchase TikTok, Donald Trump told reporters &quot;I would say yes&quot; &lpar;Bloomberg&rpar;](http://www.techmeme.com/250127/p30#a250127p30)<!-- TECH:END -->
+ - [DeepSeek&#39;s breakthroughs are a big win for app developers with more value accruing back into the app layer as the cost of intelligence continues to drop rapidly &lpar;Aaron Levie/@levie&rpar;](http://www.techmeme.com/250127/p33#a250127p33)
+ - [Google Maps will rename some iconic locations because the US government said so](https://www.androidauthority.com/google-maps-name-changes-3520685/)
+ - [How to record podcasts using FaceTime on iPad &amp; iPhone](https://appleinsider.com/inside/ipados/tips/how-to-record-podcasts-using-facetime-on-ipad-iphone?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
