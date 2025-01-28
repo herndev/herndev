@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [&lpar;For Southeast Asia&rpar; PlayStation Power Up Deals in the Philippines](https://blog.playstation.com/2025/01/27/20250128-phpudeals/)
  - [It&#39;s been about four years, so yeah, let&#39;s go ahead and give Resident Evil yet another movie reboot](https://www.pcgamer.com/movies-tv/its-been-about-four-years-so-yeah-lets-go-ahead-and-give-resident-evil-yet-another-movie-reboot/)
- - [A Civilization 7 player stacked so many bonuses they broke the game and it started demanding negative food](https://www.pcgamer.com/games/strategy/a-civilization-7-player-stacked-so-many-bonuses-they-broke-the-game-and-it-started-demanding-negative-food/)
- - [Five new Steam games you probably missed &lpar;January 27, 2025&rpar;](https://www.pcgamer.com/software/platforms/five-new-steam-games-you-probably-missed-january-27-2025/)<!-- GAME:END -->
+ - [Civilization 7 player stacks so many bonuses that the game breaks and demands negative food](https://www.pcgamer.com/games/strategy/a-civilization-7-player-stacked-so-many-bonuses-they-broke-the-game-and-it-started-demanding-negative-food/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
