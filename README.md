@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Deal: Apple AirTag 4-Pack falls back to $69.99](https://www.androidauthority.com/apple-airtag-4-pack-deal-5-3520962/)
- - [What This Week&#39;s Fed Decision Means for Mortgage Rates](https://www.cnet.com/personal-finance/what-this-weeks-fed-decision-means-for-mortgage-rates/#ftag=CAD590a51e)
- - [Chinese state media and social media viewed DeepSeek&#39;s success as a shot in the arm for a discouraged tech industry and a public suffering a stagnating economy &lpar;Li Yuan/New York Times&rpar;](http://www.techmeme.com/250128/p26#a250128p26)<!-- TECH:END -->
+ - [DeepSeek Turned the AI World on Its Head, but Don&#39;t Fall For The Hype Just Yet](https://www.cnet.com/tech/services-and-software/deepseek-turned-the-ai-world-on-its-head-but-dont-fall-for-the-hype-just-yet/#ftag=CAD590a51e)
+ - [What Happens to Student Loans and Financial Aid During Trump&#39;s Federal Funding Freeze?](https://www.cnet.com/personal-finance/loans/what-happens-to-student-loans-and-financial-aid-during-trumps-federal-funding-freeze/#ftag=CAD590a51e)
+ - [Trump and the DOJ have been flouting a bipartisan law to shut down TikTok since his inauguration, and Republicans and Democrats seem to be doing little about it &lpar;Ankush Khardori/Politico&rpar;](http://www.techmeme.com/250128/p27#a250128p27)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
