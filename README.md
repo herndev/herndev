@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Classic.](http://9gag.com/gag/aQzzVQ8)
- - ⏩ [A lovely night in thailand part 1](http://9gag.com/gag/aGyyoEn)
- - 👉 [Y&#39;all remember when some kid cracked an egg on an Australian politician&#39;s head?](http://9gag.com/gag/a5QQDBy)<!-- MEMES:END -->
+ - 💣 [Slow down ubi, your savior ac shadow is not even out yet](http://9gag.com/gag/a2vv9MZ)
+ - ⏩ [Paternoster Elevator &lpar;or continuous elevator&rpar; does not have doors and never stops](http://9gag.com/gag/apRRjEb)
+ - 👉 [After a 16-year-old boy was murdered, his friends brought his coffin to the spot where he always played football and helped him score one final goal.](http://9gag.com/gag/a1mmwD8)<!-- MEMES:END -->
 
 ---
 
