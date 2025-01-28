@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Pixel Buds Pro 2 just got new firmware for the first time since launch](https://www.androidauthority.com/pixel-buds-pro-2-first-update-3520889/)
- - [New Geekbench update adds RISC-V and improves ARM Extension Support](https://appleinsider.com/articles/25/01/28/new-geekbench-update-adds-risc-v-and-improves-arm-extension-support?utm_medium=rss)
- - [Fusion reactor startup Helion, which has a deal to supply Microsoft with electricity by 2028, raised a $425M Series F, valuing the company at $5.245B &lpar;Tim De Chant/TechCrunch&rpar;](http://www.techmeme.com/250128/p21#a250128p21)<!-- TECH:END -->
+ - [Valencia-based Quibim, which is developing foundational AI models for medical imaging, raised a $50M Series A co-led by Asabys and Buenavista &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/250128/p23#a250128p23)
+ - [Best Open Earbuds for 2025](https://www.cnet.com/tech/mobile/best-open-wireless-earbuds/#ftag=CAD590a51e)
+ - [Dell Has a Gorgeous 32-Inch 4K Gaming Monitor for $400 Off](https://www.wired.com/story/alienware-aw3225qf-deal-january-2025/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
