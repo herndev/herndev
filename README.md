@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Galaxy S25 Ultra fixes this annoying display flaw that plagued the S24 Ultra](https://www.androidauthority.com/galaxy-s25-ultra-fixes-graininess-3521371/)
- - [Full seasons of Netflix shows can be downloaded to iPhone with a single tap](https://appleinsider.com/articles/25/01/29/full-seasons-of-netflix-shows-can-be-downloaded-to-iphone-with-a-single-tap?utm_medium=rss)
- - [Google’s ‘ultimate goal’ is for Android games to work seamlessly across mobile, XR, and TV](https://www.androidauthority.com/android-games-platforms-sam-bright-3521365/)<!-- TECH:END -->
+ - [Elon Musk Tells Friends He’s Sleeping at the DOGE Offices in DC](https://www.wired.com/story/elon-musk-sleeping-doge-office/)
+ - [Apple&#39;s AI ethics doubted by scaremongering shareholder proposal](https://appleinsider.com/articles/25/01/29/apples-ai-ethics-doubted-by-scaremongering-shareholder-proposal?utm_medium=rss)
+ - [Gemini in Google Sheets just became your coworker who actually loves Excel](https://www.androidauthority.com/google-sheets-gemini-features-update-3521415/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
