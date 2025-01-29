@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Save up to $170 on these Anker NEBULA smart projectors](https://www.androidauthority.com/anker-nebula-capsule-3-laser-deals-3521445/)
- - [Meta reports Q4 revenue up 21% YoY to $48.4B, net income up 49% YoY to $20.8B, and family daily active people up 5% YoY to 3.35B on average for December 2024 &lpar;Meta&rpar;](http://www.techmeme.com/250129/p38#a250129p38)
- - [Sources: Trump signs an agreement calling for Meta to pay ~$25M to settle a 2021 lawsuit he brought after Meta suspended his accounts after the January 6 riot &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250129/p37#a250129p37)<!-- TECH:END -->
+ - [Microsoft Q2: Windows OEM and Devices revenue up 4% YoY, gaming revenue down 7%, Xbox hardware revenue down 29%, and Xbox content and services revenue up 2% &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/250129/p42#a250129p42)
+ - [Google Photos finally lets you fix all your mirror-image selfies](https://www.androidauthority.com/google-photos-flip-3521475/)
+ - [Employer.com founder Jesse Tinsley says his US investor group vying to buy TikTok has secured $20B+ and recruited the CEOs of Roblox and Anchorage as investors &lpar;Alexandra S. Levine/Bloomberg&rpar;](http://www.techmeme.com/250129/p41#a250129p41)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
