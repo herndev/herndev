@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Vandatrack: retail traders bought a net $562M of Nvidia&#39;s stock on January 27, a record, and $360M on January 28, after DeepSeek&#39;s AI model sent NVDA crashing &lpar;Financial Times&rpar;](http://www.techmeme.com/250129/p25#a250129p25)
- - [Android 16 prepares to make dark mode work with more apps](https://www.androidauthority.com/android-16-forced-dark-mode-3521090/)
- - [Huawei adds DeepSeek&#39;s R1 to its ModelArts Studio platform, saying the free model is &quot;Ascend-adapted&quot;, referencing its data center GPUs, but offers few details &lpar;Matthew Connatser/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/250129/p24#a250129p24)<!-- TECH:END -->
+ - [Apple amps up its MLS Season Pass offerings for historic 30th season](https://appleinsider.com/articles/25/01/29/apple-amps-up-its-mls-season-pass-offerings-for-historic-30th-season?utm_medium=rss)
+ - [How employees at Meta, Google, and more have quietly protested tech&#39;s rightward shift, as Mark Zuckerberg and others embrace Trump and muffle internal dissent &lpar;New York Times&rpar;](http://www.techmeme.com/250129/p28#a250129p28)
+ - [The 5 Best Multivitamins for Men in 2025](https://www.cnet.com/health/nutrition/best-multivitamins-for-men/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
