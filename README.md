@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [3 Best Smart Glasses of 2025, Tested and Reviewed](https://www.wired.com/gallery/best-smart-glasses/)
- - [OpenAI claims DeepSeek copied ChatGPT’s homework](https://www.androidauthority.com/deepseek-openai-us-navy-3521228/)
- - [There are $5 AirPods Max clones, and they are about as bad as you think](https://appleinsider.com/articles/25/01/29/there-are-5-airpods-max-clones-and-they-are-about-as-bad-as-you-think?utm_medium=rss)<!-- TECH:END -->
+ - [DeepSeek&#39;s app is unavailable on Apple&#39;s App Store and Google&#39;s Play Store in Italy, after its data protection regulator says it questioned DeepSeek &lpar;Stefano Bernabei/Reuters&rpar;](http://www.techmeme.com/250129/p21#a250129p21)
+ - [Wallpaper Wednesday: More great phone wallpapers for all to share &lpar;January 29&rpar;](https://www.androidauthority.com/wallpaper-wednesday-jan-29-2025-3520492/)
+ - [Nvidia GeForce RTX 5080 review: slim, lightweight, reasonable power draw, and DLSS 4, but mild generational performance uplift and spotty availability at launch &lpar;Ben Wilson/Windows Central&rpar;](http://www.techmeme.com/250129/p20#a250129p20)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
