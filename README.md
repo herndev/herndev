@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The US could encourage future DeepSeeks to happen inside the US by funding the NAIRR, a pilot project providing compute power to university-level researchers &lpar;Reed Albergotti/Semafor&rpar;](http://www.techmeme.com/250129/p7#a250129p7)
- - [Alibaba releases Qwen 2.5-Max, an AI model which the company claims &quot;outperforms ... almost across the board GPT-4o, DeepSeek-V3 and Llama-3.1-405B&quot; &lpar;Eduardo Baptista/Reuters&rpar;](http://www.techmeme.com/250129/p6#a250129p6)
- - [ASML reports Q4 net profit of &amp;euro;2.69B on &amp;euro;9.26B net sales, net bookings up 169% QoQ to &amp;euro;7.09B, and expects 2025 net sales of &amp;euro;30B to &amp;euro;35B, up from &amp;euro;28.3B in 2024 &lpar;Ryan Browne/CNBC&rpar;](http://www.techmeme.com/250129/p5#a250129p5)<!-- TECH:END -->
+ - [Carta data shows that 966 US-based startups shut down in 2024, compared to 769 in 2023, with enterprise SaaS startups accounting for 32% of the closures &lpar;Mary Ann Azevedo/TechCrunch&rpar;](http://www.techmeme.com/250129/p8#a250129p8)
+ - [After Android, T-Mobile’s satellite messaging service rolls out to iPhones](https://www.androidauthority.com/t-mobile-satellite-texting-iphone-3521167/)
+ - [The US could encourage future DeepSeeks to happen inside the US by funding the NAIRR, a pilot project providing compute power to university-level researchers &lpar;Reed Albergotti/Semafor&rpar;](http://www.techmeme.com/250129/p7#a250129p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
