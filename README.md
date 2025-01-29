@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Trial at the Tip of the Terrorgram Iceberg](https://www.wired.com/story/brandon-russell-baltimore-trial/)
- - [Meta executives say DeepSeek&#39;s breakthrough shows that upstarts now have a chance to innovate and compete with AI giants and vindicates the open-source strategy &lpar;New York Times&rpar;](http://www.techmeme.com/250129/p18#a250129p18)
- - [9 Best Juicers &lpar;2025&rpar;: Centrifugal, Slow, Masticating](https://www.wired.com/gallery/best-juicer/)<!-- TECH:END -->
+ - [3 Best Smart Glasses of 2025, Tested and Reviewed](https://www.wired.com/gallery/best-smart-glasses/)
+ - [OpenAI claims DeepSeek copied ChatGPT’s homework](https://www.androidauthority.com/deepseek-openai-us-navy-3521228/)
+ - [There are $5 AirPods Max clones, and they are about as bad as you think](https://appleinsider.com/articles/25/01/29/there-are-5-airpods-max-clones-and-they-are-about-as-bad-as-you-think?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
