@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The UK National Audit Office says the government was operating at least 228 &quot;legacy&quot; computer systems as of March 2024, increasing the risk of a disruptive hack &lpar;Ryan Gallagher/Bloomberg&rpar;](http://www.techmeme.com/250129/p14#a250129p14)
- - [DeepSeek&#39;s app tops the US Play Store; Appfigures says the DeepSeek app has 1.9M+ downloads on the App Store and 1.2M+ on the Play Store since mid-January 2025 &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/250129/p13#a250129p13)
- - [Apple’s in-house chips have security flaws that could expose your Gmail inbox to attackers](https://www.androidauthority.com/apple-a-m-series-chips-security-vulnerabilities-3521185/)<!-- TECH:END -->
+ - [The Trial at the Tip of the Terrorgram Iceberg](https://www.wired.com/story/brandon-russell-baltimore-trial/)
+ - [Meta executives say DeepSeek&#39;s breakthrough shows that upstarts now have a chance to innovate and compete with AI giants and vindicates the open-source strategy &lpar;New York Times&rpar;](http://www.techmeme.com/250129/p18#a250129p18)
+ - [9 Best Juicers &lpar;2025&rpar;: Centrifugal, Slow, Masticating](https://www.wired.com/gallery/best-juicer/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
