@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Elon Musk Tells Friends He’s Sleeping at the DOGE Offices in DC](https://www.wired.com/story/elon-musk-sleeping-doge-office/)
- - [Apple&#39;s AI ethics doubted by scaremongering shareholder proposal](https://appleinsider.com/articles/25/01/29/apples-ai-ethics-doubted-by-scaremongering-shareholder-proposal?utm_medium=rss)
- - [Gemini in Google Sheets just became your coworker who actually loves Excel](https://www.androidauthority.com/google-sheets-gemini-features-update-3521415/)<!-- TECH:END -->
+ - [Google’s Pixel 9a may be arriving sooner than expected](https://www.androidauthority.com/pixel-9a-leaked-launch-date-3521435/)
+ - [Apple settles Apple Watch battery lawsuit, and here’s how to claim your payout](https://www.androidauthority.com/apple-watch-battery-settlement-3521386/)
+ - [Deal: The Apple iPad Mini A17 Pro is $100 off!](https://www.androidauthority.com/apple-ipad-mini-a17-pro-deal-3-3521446/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
