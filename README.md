@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [David Sacks says there&#39;s &quot;substantial evidence&quot; that DeepSeek &quot;distilled knowledge out of OpenAI models and I don&#39;t think OpenAI is very happy about this&quot; &lpar;Jackie Davalos/Bloomberg&rpar;](http://www.techmeme.com/250128/p37#a250128p37)
- - [Block introduces an on-device, open-source AI agent called Goose, which allows developers to choose their preferred LLM to automate engineering tasks &lpar;Radhika Rajkumar/ZDNET&rpar;](http://www.techmeme.com/250128/p36#a250128p36)
- - [Sources: Arm China picks Chen Feng, an ex-executive at China-based chipmaker Rockchip Electronics, as its CEO; Liu Renchen and Eric Chen will resign as co-CEOs &lpar;Bloomberg&rpar;](http://www.techmeme.com/250128/p35#a250128p35)<!-- TECH:END -->
+ - [Sony names CFO Hiroki Totoki to CEO, succeeding Kenichiro Yoshida, and PlayStation co-CEO Hideaki Nishino to CEO of Sony Interactive Entertainment, from April 1 &lpar;Cynthia Littleton/Variety&rpar;](http://www.techmeme.com/250128/p39#a250128p39)
+ - [Elon Musk Is Running the Twitter Playbook on the Federal Government](https://www.wired.com/story/elon-musk-twitter-playbook-federal-government/)
+ - [MGM Resorts agrees to pay $45M to settle 14 class action lawsuits related to a data breach in 2019 and a ransomware attack the company experienced in 2023 &lpar;Jonathan Greig/The Record&rpar;](http://www.techmeme.com/250128/p38#a250128p38)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
