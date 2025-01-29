@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Carta data shows that 966 US-based startups shut down in 2024, compared to 769 in 2023, with enterprise SaaS startups accounting for 32% of the closures &lpar;Mary Ann Azevedo/TechCrunch&rpar;](http://www.techmeme.com/250129/p8#a250129p8)
- - [After Android, T-Mobile’s satellite messaging service rolls out to iPhones](https://www.androidauthority.com/t-mobile-satellite-texting-iphone-3521167/)
- - [The US could encourage future DeepSeeks to happen inside the US by funding the NAIRR, a pilot project providing compute power to university-level researchers &lpar;Reed Albergotti/Semafor&rpar;](http://www.techmeme.com/250129/p7#a250129p7)<!-- TECH:END -->
+ - [A look at Huawei&#39;s HarmonyOS Next, a China-only OS decoupled from Android that is still missing many third-party apps, despite supporting some key ones in China &lpar;Bloomberg&rpar;](http://www.techmeme.com/250129/p12#a250129p12)
+ - [A look at MrDeepFakes, a site with obscure ownership that hosts non-consensual deepfake porn, has close to 650K members, and gets millions of visits per month &lpar;bellingcat&rpar;](http://www.techmeme.com/250129/p11#a250129p11)
+ - [Paris-based online corporate event booking marketplace Naboo raised a &amp;euro;20M Series A led by Notion Capital, and says its 2024 booking volumes grew 4x YoY to &amp;euro;60M &lpar;Romain Dillet/TechCrunch&rpar;](http://www.techmeme.com/250129/p10#a250129p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
