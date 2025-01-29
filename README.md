@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [DeepSeek makes US export controls to China even more important, and DeepSeek-V3 is not a unique breakthrough but an expected point on a cost reduction curve &lpar;Dario Amodei&rpar;](http://www.techmeme.com/250129/p29#a250129p29)
- - [Federal Spending Freeze Threatens Ecosystems and Public Safety](https://www.wired.com/story/federal-spending-freeze-could-have-widespread-impact-on-environment-emergency-management/)
- - [Apple amps up its MLS Season Pass offerings for historic 30th season](https://appleinsider.com/articles/25/01/29/apple-amps-up-its-mls-season-pass-offerings-for-historic-30th-season?utm_medium=rss)<!-- TECH:END -->
+ - [Galaxy S25 Ultra fixes this annoying display flaw that plagued the S24 Ultra](https://www.androidauthority.com/galaxy-s25-ultra-fixes-graininess-3521371/)
+ - [Full seasons of Netflix shows can be downloaded to iPhone with a single tap](https://appleinsider.com/articles/25/01/29/full-seasons-of-netflix-shows-can-be-downloaded-to-iphone-with-a-single-tap?utm_medium=rss)
+ - [Google’s ‘ultimate goal’ is for Android games to work seamlessly across mobile, XR, and TV](https://www.androidauthority.com/android-games-platforms-sam-bright-3521365/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
