@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at Huawei&#39;s HarmonyOS Next, a China-only OS decoupled from Android that is still missing many third-party apps, despite supporting some key ones in China &lpar;Bloomberg&rpar;](http://www.techmeme.com/250129/p12#a250129p12)
- - [A look at MrDeepFakes, a site with obscure ownership that hosts non-consensual deepfake porn, has close to 650K members, and gets millions of visits per month &lpar;bellingcat&rpar;](http://www.techmeme.com/250129/p11#a250129p11)
- - [Paris-based online corporate event booking marketplace Naboo raised a &amp;euro;20M Series A led by Notion Capital, and says its 2024 booking volumes grew 4x YoY to &amp;euro;60M &lpar;Romain Dillet/TechCrunch&rpar;](http://www.techmeme.com/250129/p10#a250129p10)<!-- TECH:END -->
+ - [The UK National Audit Office says the government was operating at least 228 &quot;legacy&quot; computer systems as of March 2024, increasing the risk of a disruptive hack &lpar;Ryan Gallagher/Bloomberg&rpar;](http://www.techmeme.com/250129/p14#a250129p14)
+ - [DeepSeek&#39;s app tops the US Play Store; Appfigures says the DeepSeek app has 1.9M+ downloads on the App Store and 1.2M+ on the Play Store since mid-January 2025 &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/250129/p13#a250129p13)
+ - [Apple’s in-house chips have security flaws that could expose your Gmail inbox to attackers](https://www.androidauthority.com/apple-a-m-series-chips-security-vulnerabilities-3521185/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
