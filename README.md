@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [OpenAI says it had seen some evidence that DeepSeek used &quot;distillation&quot; to train its open-source competitor by using outputs from OpenAI&#39;s proprietary models &lpar;Financial Times&rpar;](http://www.techmeme.com/250129/p2#a250129p2)
- - [Google says &quot;Sensitive is simply used in our internal systems for countries that see different official names in Maps&quot;, after adding the US to that list &lpar;@newsfromgoogle&rpar;](http://www.techmeme.com/250129/p1#a250129p1)
- - [This is your last chance to grab Mint Mobile’s unbeatable $15 three-month plan!](https://www.androidauthority.com/mint-mobile-three-month-plan-ending-3521151/)<!-- TECH:END -->
+ - [A US federal judge denied a motion by Apple to intervene as a defendant in the remedy trial of the DOJ vs. Google case, saying Apple&#39;s motion was untimely &lpar;Ryan Knappenberger/Courthouse News ...&rpar;](http://www.techmeme.com/250129/p4#a250129p4)
+ - [KitchenAid Promo Codes and Coupons: $200 Off](https://www.wired.com/story/exclusive-kitchenaid-promo-code/)
+ - [Crypto risk modeling firm Gauntlet estimates the $TRUMP memecoin has generated at least $11.4M in fees for entities linked to President Trump since its launch &lpar;Muyao Shen/Bloomberg&rpar;](http://www.techmeme.com/250129/p3#a250129p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
