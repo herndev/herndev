@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [DeepSeek&#39;s app is unavailable on Apple&#39;s App Store and Google&#39;s Play Store in Italy, after its data protection regulator says it questioned DeepSeek &lpar;Stefano Bernabei/Reuters&rpar;](http://www.techmeme.com/250129/p21#a250129p21)
- - [Wallpaper Wednesday: More great phone wallpapers for all to share &lpar;January 29&rpar;](https://www.androidauthority.com/wallpaper-wednesday-jan-29-2025-3520492/)
- - [Nvidia GeForce RTX 5080 review: slim, lightweight, reasonable power draw, and DLSS 4, but mild generational performance uplift and spotty availability at launch &lpar;Ben Wilson/Windows Central&rpar;](http://www.techmeme.com/250129/p20#a250129p20)<!-- TECH:END -->
+ - [Vandatrack: retail traders bought a net $562M of Nvidia&#39;s stock on January 27, a record, and $360M on January 28, after DeepSeek&#39;s AI model sent NVDA crashing &lpar;Financial Times&rpar;](http://www.techmeme.com/250129/p25#a250129p25)
+ - [Android 16 prepares to make dark mode work with more apps](https://www.androidauthority.com/android-16-forced-dark-mode-3521090/)
+ - [Huawei adds DeepSeek&#39;s R1 to its ModelArts Studio platform, saying the free model is &quot;Ascend-adapted&quot;, referencing its data center GPUs, but offers few details &lpar;Matthew Connatser/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/250129/p24#a250129p24)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
