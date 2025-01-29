@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google’s Pixel 9a may be arriving sooner than expected](https://www.androidauthority.com/pixel-9a-leaked-launch-date-3521435/)
- - [Apple settles Apple Watch battery lawsuit, and here’s how to claim your payout](https://www.androidauthority.com/apple-watch-battery-settlement-3521386/)
- - [Deal: The Apple iPad Mini A17 Pro is $100 off!](https://www.androidauthority.com/apple-ipad-mini-a17-pro-deal-3-3521446/)<!-- TECH:END -->
+ - [Save up to $170 on these Anker NEBULA smart projectors](https://www.androidauthority.com/anker-nebula-capsule-3-laser-deals-3521445/)
+ - [Meta reports Q4 revenue up 21% YoY to $48.4B, net income up 49% YoY to $20.8B, and family daily active people up 5% YoY to 3.35B on average for December 2024 &lpar;Meta&rpar;](http://www.techmeme.com/250129/p38#a250129p38)
+ - [Sources: Trump signs an agreement calling for Meta to pay ~$25M to settle a 2021 lawsuit he brought after Meta suspended his accounts after the January 6 riot &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250129/p37#a250129p37)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
