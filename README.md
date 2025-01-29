@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Doc: Google&#39;s maps unit reclassified the US as a &quot;sensitive country&quot;, reserved for states with strict governments or border disputes, after Trump&#39;s map changes &lpar;Jennifer Elias/CNBC&rpar;](http://www.techmeme.com/250128/p33#a250128p33)
- - [These M4 Mac mini deals slash prices to as low as $529](https://appleinsider.com/articles/25/01/28/these-m4-mac-mini-deals-slash-prices-to-as-low-as-529?utm_medium=rss)
- - [Elon Musk Lackeys Have Taken Over the Office of Personnel Management](https://www.wired.com/story/elon-musk-lackeys-office-personnel-management-opm-neuralink-x-boring-stalin/)<!-- TECH:END -->
+ - [David Sacks says there&#39;s &quot;substantial evidence&quot; that DeepSeek &quot;distilled knowledge out of OpenAI models and I don&#39;t think OpenAI is very happy about this&quot; &lpar;Jackie Davalos/Bloomberg&rpar;](http://www.techmeme.com/250128/p37#a250128p37)
+ - [Block introduces an on-device, open-source AI agent called Goose, which allows developers to choose their preferred LLM to automate engineering tasks &lpar;Radhika Rajkumar/ZDNET&rpar;](http://www.techmeme.com/250128/p36#a250128p36)
+ - [Sources: Arm China picks Chen Feng, an ex-executive at China-based chipmaker Rockchip Electronics, as its CEO; Liu Renchen and Eric Chen will resign as co-CEOs &lpar;Bloomberg&rpar;](http://www.techmeme.com/250128/p35#a250128p35)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
