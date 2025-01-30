@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [This Window Heat Pump I Saw at CES Is Super Easy to Install](https://www.cnet.com/home/energy-and-utilities/this-window-heat-pump-i-saw-at-ces-is-super-easy-to-install/#ftag=CAD590a51e)
- - [Sources: SoftBank is in talks to invest $15B-$25B in OpenAI on top of its $15B+ commitment to Stargate; the deal would make it OpenAI&#39;s biggest financial backer &lpar;Financial Times&rpar;](http://www.techmeme.com/250129/p48#a250129p48)
- - [Microsoft says Q2 capital expenditures hit $22.6B, vs. $20.95B estimated, and forecasts Q3 Azure growth between 31% and 32%, vs. 33% expected &lpar;Reuters&rpar;](http://www.techmeme.com/250129/p47#a250129p47)<!-- TECH:END -->
+ - [Satya Nadella says Microsoft&#39;s AI business has surpassed an annual revenue run rate of $13B, up 175% YoY, as the company faces new scrutiny over AI spending &lpar;Todd Bishop/GeekWire&rpar;](http://www.techmeme.com/250129/p50#a250129p50)
+ - [Pixel 4a battery mystery solved: Investigation reveals ‘real hack job’ behind update of death](https://www.androidauthority.com/pixel-4a-battery-downgrade-investigation-3521524/)
+ - [NewsGuard: with news-related prompts, DeepSeek&#39;s chatbot repeated false claims 30% of the time and provided non-answers 53% of the time, giving an 83% fail rate &lpar;NewsGuard&#39;s Reality Check&rpar;](http://www.techmeme.com/250129/p49#a250129p49)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
