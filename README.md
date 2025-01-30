@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Move over messaging, this carrier just brought satellite video calling to any phone](https://www.androidauthority.com/satellite-video-calling-vodafone-3521576/)
  - [Mistral AI, seen as Europe&#39;s great hope for AI, is losing ground to US rivals and being overshadowed by DeepSeek; sources say its ARR is in the tens of millions &lpar;Financial Times&rpar;](http://www.techmeme.com/250130/p3#a250130p3)
- - [Google announces new Gemini features for Google Sheets, letting Workspace users ask Gemini to generate static charts, analyze data, and more &lpar;Google Workspace Updates&rpar;](http://www.techmeme.com/250130/p2#a250130p2)
- - [During his confirmation hearing for Secretary of Commerce, Howard Lutnick called the CHIPS Act an &quot;excellent down payment&quot; but pledged to review binding awards &lpar;Mackenzie Hawkins/Bloomberg&rpar;](http://www.techmeme.com/250130/p1#a250130p1)<!-- TECH:END -->
+ - [Google announces new Gemini features for Google Sheets, letting Workspace users ask Gemini to generate static charts, analyze data, and more &lpar;Google Workspace Updates&rpar;](http://www.techmeme.com/250130/p2#a250130p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
