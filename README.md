@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Anker SOLIX C300 power station price drops back to all-time low, but you must act quickly!](https://www.androidauthority.com/anker-solix-c300-portable-power-station-deal-3521888/)
  - [Services buoy slumping iPhone sales in record-breaking holiday quarter earnings](https://appleinsider.com/articles/25/01/30/services-buoy-slumping-iphone-sales-in-record-breaking-holiday-quarter-earnings?utm_medium=rss)
- - [Quick Settings on Android could revert to expanding tiles the old way](https://www.androidauthority.com/android-quick-settings-expansion-3521878/)<!-- TECH:END -->
+ - [Have you experienced Wi-Fi problems on your Pixel 8 Pro?](https://www.androidauthority.com/pixel-8-pro-wi-fi-3521874/)
+ - [Tim Cook says there are now more than 2.35B active Apple devices worldwide, a new record, up from 2.2B devices the company reported in February 2024 &lpar;Juli Clover/MacRumors&rpar;](http://www.techmeme.com/250130/p45#a250130p45)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
