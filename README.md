@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s MacBook Air drops to as low as $799 with 16GB RAM](https://appleinsider.com/articles/25/01/30/apples-macbook-air-drops-to-as-low-as-799-with-16gb-ram?utm_medium=rss)
- - [Microsoft makes OpenAI&#39;s o1 model, branded as &quot;Think Deeper&quot;, free for all Copilot users, after launching it in October as a paid Copilot Pro feature &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/250130/p17#a250130p17)
- - [The Galaxy S25 Ultra is lighter and brighter, but is it enough? S23 Ultra owners say no](https://www.androidauthority.com/samsung-galaxy-s25-ultra-vs-galaxy-s23-ultra-poll-results-3521738/)<!-- TECH:END -->
+ - [Threads adds a dedicated media tab globally for photos and video, days after X and Bluesky added video tabs, and will let users tag people in photos &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/250130/p24#a250130p24)
+ - [Cybersecurity firms Netskope and Armis say &quot;hundreds&quot; of companies and government agencies globally are moving to block DeepSeek due to data leak concerns &lpar;Bloomberg&rpar;](http://www.techmeme.com/250130/p23#a250130p23)
+ - [Fairshake, the crypto super PAC bankrolled by Coinbase, a16z, and others, says it has $116M in cash on hand aimed at the 2026 midterm election cycle &lpar;MacKenzie Sigalos/CNBC&rpar;](http://www.techmeme.com/250130/p22#a250130p22)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
