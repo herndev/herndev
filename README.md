@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Your Pizza Guy Is Now AI](https://www.wired.com/story/palona-ai-chatbot-salesperson/)
- - [French startup Formance, which offers an open source, programmable financial ledger and other services, raised a $21M Series A co-led by PayPal and Portage &lpar;Romain Dillet/TechCrunch&rpar;](http://www.techmeme.com/250130/p10#a250130p10)
- - [Vodafone makes &quot;the world&#39;s first&quot; satellite video call using a standard smartphone via SpaceMobile satellites; the service is set to launch in Europe in 2025 &lpar;Dominic Preston/The Verge&rpar;](http://www.techmeme.com/250130/p9#a250130p9)<!-- TECH:END -->
+ - [Europol and German law enforcement arrest two suspects and seize 17 servers to take down Cracked and Nulled, two of the largest hacking forums with 10M+ users &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/250130/p12#a250130p12)
+ - [10 Best Delivery Chocolate Boxes to Send and Receive &lpar;2025&rpar;](https://www.wired.com/gallery/best-delivery-chocolate-boxes/)
+ - [Amazon Music Unlimited pulls a Spotify, hikes individual and family pricing](https://www.androidauthority.com/amazon-music-unlimited-hikes-pricing-3521679/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
