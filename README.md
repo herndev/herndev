@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Android 16’s Linux Terminal will soon let you run graphical apps, so of course we ran Doom](https://www.androidauthority.com/android-16-linux-terminal-doom-3521804/)
- - [Paying more for an iPhone with extra storage may be losing its appeal](https://www.androidauthority.com/iphone-higher-storage-sales-decline-3521776/)
- - [The World According to Marc Andreessen](https://www.wired.com/story/uncanny-valley-podcast-11-marc-andreessen/)<!-- TECH:END -->
+ - [Google’s Pixel and Android employees in the US are being asked to step aside voluntarily](https://www.androidauthority.com/google-voluntary-exit-program-3521824/)
+ - [Google Search adds Ask for me, which uses AI to call businesses to inquire about availability and pricing, starting with nail salons and auto shops in the US &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/250130/p36#a250130p36)
+ - [Google taps into retro arcade nostalgia with this in-browser Breakout clone](https://www.androidauthority.com/google-breakout-game-3521763/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
