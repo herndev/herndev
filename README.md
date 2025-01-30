@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Mark Zuckerberg says spending heavily on AI infrastructure is a &quot;strategic advantage&quot; and vows Meta will invest &quot;hundreds of billions&quot; in AI over the long term &lpar;Charles Rollet/TechCrunch&rpar;](http://www.techmeme.com/250129/p44#a250129p44)
- - [Apple Maps shows users the Gulf of Mexico when searching for &#39;Gulf of America&#39;](https://appleinsider.com/articles/25/01/29/apple-maps-shows-users-the-gulf-of-mexico-when-searching-for-gulf-of-america?utm_medium=rss)
- - [Amazon quietly mapped your life through your phone and sold the data, lawsuit alleges](https://www.androidauthority.com/amazon-lawsuit-data-tracking-3521493/)<!-- TECH:END -->
+ - [Sources: SoftBank is in talks to invest $15B-$25B in OpenAI on top of its $15B+ commitment to Stargate; the deal would make it OpenAI&#39;s biggest financial backer &lpar;Financial Times&rpar;](http://www.techmeme.com/250129/p48#a250129p48)
+ - [Microsoft says Q2 capital expenditures hit $22.6B, vs. $20.95B estimated, and forecasts Q3 Azure growth between 31% and 32%, vs. 33% expected &lpar;Reuters&rpar;](http://www.techmeme.com/250129/p47#a250129p47)
+ - [Microsoft reports Q2 LinkedIn revenue up 9% YoY, and Satya Nadella says that LinkedIn passed a record $2B in Premium subscriptions revenue in the last 12 months &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/250129/p46#a250129p46)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
