@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [GeForce Now’s paid tiers are free for now, but only if you paid for them](https://www.androidauthority.com/geforce-now-payment-system-free-3521586/)
- - [Best Internet Providers in Tucson, Arizona](https://www.cnet.com/home/internet/best-internet-providers-in-tucson-az/#ftag=CAD590a51e)
- - [How Epic is transforming Fortnite into a content platform, paying $350M to creators in 2024; 36.5% of the total playtime was spent in games made by creators &lpar;Julia Alexander/Posting Nexus&rpar;](http://www.techmeme.com/250130/p6#a250130p6)<!-- TECH:END -->
+ - [Google Phone app gets an unexpected Android 16-inspired redesign &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-phone-app-settings-redesign-apk-3521607/)
+ - [Best Internet Providers in Texas](https://www.cnet.com/home/internet/best-internet-providers-in-texas/#ftag=CAD590a51e)
+ - [Best Heat Protectant Sprays for Wet and Dry Hair &lpar;2025&rpar;](https://www.wired.com/gallery/the-best-heat-protectants-for-hair/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
