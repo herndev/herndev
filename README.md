@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [These are my 5 non-negotiable requirements for a resurrected Pebble watch](https://www.androidauthority.com/5-requirements-new-pebble-watch-3521757/)
- - [DataBank, which provides high-performance compute-ready data centers for enterprise clients, raised $250M from PE firm TJC and $600M in a secondary share offer &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250130/p30#a250130p30)
- - [Sources: bankers trying to offload ~$3B in X debt claim X had $1.2B in adjusted EBITDA in 2024, roughly flat from before Elon Musk&#39;s buyout, a sign of recovery &lpar;Bloomberg&rpar;](http://www.techmeme.com/250130/p29#a250130p29)<!-- TECH:END -->
+ - [Android 16’s Linux Terminal will soon let you run graphical apps, so of course we ran Doom](https://www.androidauthority.com/android-16-linux-terminal-doom-3521804/)
+ - [Paying more for an iPhone with extra storage may be losing its appeal](https://www.androidauthority.com/iphone-higher-storage-sales-decline-3521776/)
+ - [The World According to Marc Andreessen](https://www.wired.com/story/uncanny-valley-podcast-11-marc-andreessen/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
